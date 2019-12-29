@@ -11,16 +11,11 @@ LkCa 15和許多典型金牛T星一樣，周圍有[原行星盤](../Page/原行�
 [Category:金牛T星](https://zh.wikipedia.org/wiki/Category:金牛T星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:2MASS天体](https://zh.wikipedia.org/wiki/Category:2MASS天体 "wikilink") [Category:金牛座](https://zh.wikipedia.org/wiki/Category:金牛座 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.

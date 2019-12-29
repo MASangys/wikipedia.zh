@@ -24,4 +24,4 @@
 
   - [*Maschinengewehrkraftwagen Kfz.13*](https://web.archive.org/web/20090501141626/http://www.achtungpanzer.com/votw/kfz1314.htm) at www.achtungpanzer.com.
 
-[Category:裝甲偵察車](https://zh.wikipedia.org/wiki/Category:裝甲偵察車 "wikilink") [Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")
+[Category:裝甲偵察車](https://zh.wikipedia.org/wiki/Category:裝甲偵察車 "wikilink") [Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink") [Category:威玛防卫军](https://zh.wikipedia.org/wiki/Category:威玛防卫军 "wikilink")

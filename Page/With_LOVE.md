@@ -19,10 +19,7 @@
 [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:西野加奈音樂專輯](https://zh.wikipedia.org/wiki/Category:西野加奈音樂專輯 "wikilink") [Category:2014年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.  《如果有命中註定之人的話》2015年4月29日發售 SME Records 初回生産限定盤:SECL 1677
-
 5.

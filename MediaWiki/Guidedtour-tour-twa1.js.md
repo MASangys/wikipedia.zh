@@ -2,25 +2,22 @@
 
 ( function ( window, document, $, mw, gt ) {
 
-//automatic api:edit function to send yourself messages function
-sendMessage( targetPage, msgPage, linkTo ) {
+//automatic api:edit function to send yourself messages function sendMessage( targetPage, msgPage, linkTo ) {
 
 `   var api = new mw.Api();`
 `   api.post( {`
 `       'action' : 'edit',`
 `       'title' : targetPage,`
 `       'appendtext' : "\n``",`
-`       'summary' : '新訊息（`[`維基百科大歷險自動模擬`](../Page/WP:TWA.md "wikilink")`1）',`
-`       'token' : mw.user.tokens.get('editToken')`
+`       'summary' : '新訊息（`[`維基百科大歷險自動模擬`](https://zh.wikipedia.org/wiki/WP:TWA "wikilink")`1）',`
+`       'token' : mw.user.tokens.get('csrfToken')`
 `   } ).done( function () {`
 `       window.location.href = linkTo;`
 `   } );`
 
 }
 
-// Fail gracefully post-save but not postedit var postEditButtons =
-\[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() )
-{
+// Fail gracefully post-save but not postedit var postEditButtons = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtons.push( {`
 `               name: '按此返回並進行編輯',`
@@ -31,9 +28,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit for visual editor var
-postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) ===
-'view' && \!gt.isPostEdit() ) {
+// Fail gracefully post-save but not postedit for visual editor var postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtonsVisual.push( {`
 `               name: '返回',`
@@ -171,9 +166,7 @@ gt.defineTour( {
 
 </div>
 
-不就是您嗎？ :)
-目前維基百科差不多有6000萬名註冊用戶。最重要的是，你就算不是專家，也可以向維基百科貢獻。我們絕大多數的編輯都是-{zh-hans:志愿者;
-zh-hant:義工; zh-tw:志工;}-。
+不就是您嗎？ :) 目前維基百科差不多有6000萬名註冊用戶。最重要的是，你就算不是專家，也可以向維基百科貢獻。我們絕大多數的編輯都是-{zh-hans:志愿者; zh-hant:義工; zh-tw:志工;}-。
 
 ',
 
@@ -641,9 +634,7 @@ zh-hant:義工; zh-tw:志工;}-。
 `               //21`
 `               title: '第一關完成！',`
 `               description: '`
-[<File:Carl>`   ``Czerny``   ``-``   ``Duo``   ``Concertante``   ``-``
- ``1.``   ``Allegro``
- ``(short).ogg`](https://zh.wikipedia.org/wiki/File:Carl_Czerny_-_Duo_Concertante_-_1._Allegro_\(short\).ogg "fig:File:Carl Czerny - Duo Concertante - 1. Allegro (short).ogg")
+[<File:Carl>`   ``Czerny``   ``-``   ``Duo``   ``Concertante``   ``-``   ``1.``   ``Allegro``   ``(short).ogg`](https://zh.wikipedia.org/wiki/File:Carl_Czerny_-_Duo_Concertante_-_1._Allegro_\(short\).ogg "fig:File:Carl Czerny - Duo Concertante - 1. Allegro (short).ogg")
 <b>`踏入第二關⋯⋯`</b>`',`
 `               onShow: gt.parseDescription,`
 `               overlay: false,`

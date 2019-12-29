@@ -476,15 +476,12 @@
 [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:1985年成立的公司](https://zh.wikipedia.org/wiki/Category:1985年成立的公司 "wikilink")
 
 1.
-
 2.
 3.
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.

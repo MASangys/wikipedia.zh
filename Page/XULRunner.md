@@ -51,7 +51,7 @@ XULRunner仍可独立安装，并且许多依赖XULRunner的应用程序可以�
   - [XULRunner Hall of Fame](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/XULRunner/Hall_of_Fame)
   - [XULRunner: What we are doing](http://benjamin.smedbergs.us/blog/2007-05-15/xulrunner-what-we-are-doing/)
   - [XULRunner source code](http://ftp.mozilla.org/pub/mozilla.org/xulrunner/)
-  - [Brian King 2005 Media](http://video.kiberpipa.org/media/SU_Harnessing_the_Mozilla_platform/play.html)
+  - [Brian King 2005 Media](https://web.archive.org/web/20171016040917/http://video.kiberpipa.org/media/SU_Harnessing_the_Mozilla_platform/play.html)
   - [Brian King 2005 Presentations Slides](http://brian.mozdev.org/presentations/cyberpipe2005/slides.html)
 
 [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink") [Category:标记语言](https://zh.wikipedia.org/wiki/Category:标记语言 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink") [Category:使用MPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MPL许可证的软件 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
@@ -69,4 +69,4 @@ XULRunner仍可独立安装，并且许多依赖XULRunner的应用程序可以�
 11. [Ubuntu bug](https://bugs.launchpad.net/ubuntu/+source/xulrunner-1.9.2/+bug/816377)
 12. [Ubuntu-devel discussion](http://ubuntu.5.x6.nabble.com/XULRunner-in-12-04-td4693546.html)
 13. [Mozilla will stop producing automated builds of XULRunner after the 41.0 cycle](http://hearsum.ca/blog/mozilla-will-stop-producing-automated-builds-of-xulrunner-after-the-410-cycle.html)
-14. [1](http://www.kiwix.org/wiki/Debian)\[//en.wikipedia.org/wiki/Kiwix Kiwix\]<span> not available on </span>\[//en.wikipedia.org/wiki/Debian Debian\]
+14. [1](http://www.kiwix.org/wiki/Debian) \[//en.wikipedia.org/wiki/Kiwix Kiwix\]<span> not available on </span>\[//en.wikipedia.org/wiki/Debian Debian\]

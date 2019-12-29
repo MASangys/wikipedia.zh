@@ -10,9 +10,9 @@ Discord的概念由建立了手机游戏社交网络平台[OpenFeint](../Page/Op
 
 YouWeb的[企业孵化器](../Page/企业孵化器.md "wikilink")项目为Hammer & Chisel公司创业初期提供了资金，并在之后开发Discord时又提供了额外的资金。之后Hammer & Chisel又从和[腾讯](../Page/腾讯.md "wikilink")获得了资金支持。\[4\]\[5\]
 
-2015年5月，Discord公开发行。\[6\]施特朗指出，当时他们推广Discord的唯一渠道便是[Reddit](../Page/Reddit.md "wikilink")社区，不久后发现许多Reddit子论坛更倾向于选择使用Discord服务器而不是[IRC](../Page/IRC.md "wikilink")服务器。\[7\] 之后Discord逐渐通过、[LAN party和其他](../Page/LAN_party.md "wikilink")[twitch等](https://zh.wikipedia.org/wiki/twitch "wikilink")[流媒体](../Page/流媒体.md "wikilink")的推广而变得流行起来。\[8\]
+2015年5月，Discord公开发行。\[6\]施特朗指出，当时他们推广Discord的唯一渠道便是[Reddit](../Page/Reddit.md "wikilink")社区，不久后发现许多Reddit子论坛更倾向于选择使用Discord服务器而不是[IRC](../Page/IRC.md "wikilink")服务器。\[7\]之后Discord逐渐通过、[LAN party和其他](../Page/LAN_party.md "wikilink")[twitch等](https://zh.wikipedia.org/wiki/twitch "wikilink")[流媒体](../Page/流媒体.md "wikilink")的推广而变得流行起来。\[8\]
 
-2016年1月，Hammer & Chisel又为该软件筹集了2000万美元的资金。\[9\] 美国传媒和娱乐集团也对Discord进行了投资。\[10\]
+2016年1月，Hammer & Chisel又为该软件筹集了2000万美元的资金。\[9\]美国传媒和娱乐集团也对Discord进行了投资。\[10\]
 
 2018年4月，[微软](../Page/微软.md "wikilink")宣布将为[Xbox Live用户提供Discord支持](../Page/Xbox_Live.md "wikilink")，允许用户将Discord和Xbox Live帐户链接起来从而将两者的好友列表进行同步。\[11\]
 
@@ -46,7 +46,7 @@ YouWeb的[企业孵化器](../Page/企业孵化器.md "wikilink")项目为Hammer
 
 尽管Discord的服务器由于其[分布式特性无法匹配对应的传统](../Page/分布式操作系统.md "wikilink")[硬件](../Page/硬件.md "wikilink")或[虚拟服务器](https://zh.wikipedia.org/wiki/虚拟专用服务器 "wikilink")，不过其服务器和频道仍可类比于[因特网中继聊天技术](../Page/IRC.md "wikilink")。用户可以在Discord上创建服务器并设定其他用户的加入条件。在服务器内可创建多个分类并在每个分类设定不同的频道，还可以在服务器内设置不同的权限，让不同的用户能拥有不同的权限从而看到不同的频道。其中一个特别之处是Discord可以将频道标记为[NSFW](../Page/NSFW.md "wikilink")，这使得第一次浏览该频道的用户要确认他们已满18岁且愿意看这类内容。Discord除了可以创建文字频道以外，还可以创建语音频道。文字方面，Discord使用[markdown语法](https://zh.wikipedia.org/wiki/markdown "wikilink")，目的是对[富文本一定程度的支持](https://zh.wikipedia.org/wiki/富文本 "wikilink")；\[25\]语音方面，Discord使用[opus音频格式](../Page/Opus_\(音频格式\).md "wikilink")，目的是压缩语音来降低延迟。\[26\]每个Discord用户都有一个唯一的四位[个人识别码](https://zh.wikipedia.org/wiki/个人识别码 "wikilink")，用户名后有一个"\#"。这使得多个用户能够拥有相同的用户名，并且用户可以很容易地找到朋友。\[27\]
 
-Discord的[客户端使用](https://zh.wikipedia.org/wiki/客户端 "wikilink")[Web技术构建在](../Page/Web应用框架.md "wikilink")[Electron](../Page/Electron.md "wikilink")框架上，\[28\] 这使得它可在多平台运行，既可在网页上运行，又可在个人计算机上作为[应用程序](../Page/应用程序.md "wikilink")运行。该软件由全球11个数据中心提供支持，以降低客户端延迟的可能性。\[29\]除了从Discord游戏商店下载和玩游戏为Windows独有之外，客户端的所有版本都支持相同的功能集（不包括与桌面音频的屏幕共享）。Discord是专门设计用于游戏互动的软件，因为它包括诸如低延迟、用户免费语音聊天服务器和专用服务器基础设施等功能。在2016年7月28日的更新中，Discord增加了对两个或更多用户之间通话的支持。2016年12月，该公司推出了Discord与其他游戏软件的[接口](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")，这使得游戏开发人员可以直接在游戏中与Discord进行集成。\[30\]Discord其接口的[git存储文档目前储存在](https://zh.wikipedia.org/wiki/git "wikilink")[github上](https://zh.wikipedia.org/wiki/github "wikilink")。2017年8月，Discord首先进行了视频呼叫和屏幕共享功能的小型测试，然后于2017年10月为所有用户添加了这一功能。\[31\]虽然这些功能模拟了[twitch等平台的实时](https://zh.wikipedia.org/wiki/twitch "wikilink")[流媒体](../Page/流媒体.md "wikilink")功能，但公司并不打算与这些平台竞争，而主要是为了服务小群体而开发的这些功能。\[32\]
+Discord的[客户端使用](https://zh.wikipedia.org/wiki/客户端 "wikilink")[Web技术构建在](../Page/Web应用框架.md "wikilink")[Electron](../Page/Electron.md "wikilink")框架上，\[28\]这使得它可在多平台运行，既可在网页上运行，又可在个人计算机上作为[应用程序](../Page/应用程序.md "wikilink")运行。该软件由全球11个数据中心提供支持，以降低客户端延迟的可能性。\[29\]除了从Discord游戏商店下载和玩游戏为Windows独有之外，客户端的所有版本都支持相同的功能集（不包括与桌面音频的屏幕共享）。Discord是专门设计用于游戏互动的软件，因为它包括诸如低延迟、用户免费语音聊天服务器和专用服务器基础设施等功能。在2016年7月28日的更新中，Discord增加了对两个或更多用户之间通话的支持。2016年12月，该公司推出了Discord与其他游戏软件的[接口](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")，这使得游戏开发人员可以直接在游戏中与Discord进行集成。\[30\]Discord其接口的[git存储文档目前储存在](https://zh.wikipedia.org/wiki/git "wikilink")[github上](https://zh.wikipedia.org/wiki/github "wikilink")。2017年8月，Discord首先进行了视频呼叫和屏幕共享功能的小型测试，然后于2017年10月为所有用户添加了这一功能。\[31\]虽然这些功能模拟了[twitch等平台的实时](https://zh.wikipedia.org/wiki/twitch "wikilink")[流媒体](../Page/流媒体.md "wikilink")功能，但公司并不打算与这些平台竞争，而主要是为了服务小群体而开发的这些功能。\[32\]
 
 ### 与游戏互联
 
@@ -92,112 +92,64 @@ Discord的[客户端使用](https://zh.wikipedia.org/wiki/客户端 "wikilink")[
 [Category:2015年软件](https://zh.wikipedia.org/wiki/Category:2015年软件 "wikilink") [Category:即時通訊軟件](https://zh.wikipedia.org/wiki/Category:即時通訊軟件 "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
-
 34.
-
 35.
 36.
-
 37.
-
 38.
-
 39.
-
 40.
 41.
-
 42.
-
 43.
-
 44.
 45.
 46.
-
 47.
-
 48.
-
 49.
-
 50.
 51.
-
 52.
 53.
-
 54.
-
 55.
-
 56.
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.

@@ -1,4 +1,4 @@
-**春田XD-S**（；XD-S，全稱：**X**-treme **D**uty-**S**limline）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而此槍的稱呼，春田XD-S半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
+**春田XD-S**（；XD-S，全稱：**X**-treme **D**uty-**S**limline）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000半自動手槍](../Page/HS2000半自動手槍.md "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而此槍的稱呼，春田XD-S半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
 
 ## 歷史
 
@@ -30,7 +30,7 @@ XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wi
 
 為了縮小握把的闊度，春田XD-S是由[拋光](https://zh.wikipedia.org/wiki/拋光 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")連[聚合物](../Page/聚合物.md "wikilink")彈匣底座所製造的單排交錯可拆卸式[彈匣](../Page/彈匣.md "wikilink")供彈，因此無法與同口徑型號互換。春田XD-S 9×19毫米和.45 ACP口徑型的[彈匣](../Page/彈匣.md "wikilink")容量，分別是7發和5發，但亦具有可選用的加厚彈匣底座型的8、9發和6、7發彈匣，春田XD-S在彈匣容量方面的改進與[格洛克](../Page/格洛克.md "wikilink")手槍相比是有過之而無不及。
 
-經過熱處理以後的金屬部分表面會利用一種專利的（Tenifer Plus+）處理過程。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和表面處理部分，甚至在表面以下的一定深度並且變成類似的性質。特尼弗Plus+氮化的處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64 [HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70 HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。與HS2000一樣，春田XD-S的這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[4\]採用類似表面處理的還有瓦爾特[PPS](https://zh.wikipedia.org/wiki/瓦爾特PPS半自動手槍 "wikilink")、[PPQ](https://zh.wikipedia.org/wiki/瓦爾特PPQ半自動手槍 "wikilink")、[PPX手槍](../Page/瓦爾特PPX半自動手槍.md "wikilink")。
+經過熱處理以後的金屬部分表面會利用一種專利的（Tenifer Plus+）處理過程。這種處理的特點是具有極高的耐磨擦性和耐腐蝕，它會滲入金屬和表面處理部分，甚至在表面以下的一定深度並且變成類似的性質。特尼弗Plus+氮化的處理過程中會產生[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")、無眩光表面和64 [HRC等級](https://zh.wikipedia.org/wiki/洛氏硬度試驗 "wikilink")（相比之下，一顆[工業鑽石的評級為](../Page/钻石.md "wikilink")70 HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度。與HS2000一樣，春田XD-S的這種處理使得它特別適合作為個人的手槍（尤其是其袖珍型），而高聚氯乙烯耐處理並可以減少手槍受到[汗水的影響](../Page/汗液.md "wikilink")。\[4\]採用類似表面處理的還有瓦爾特[PPS](../Page/瓦爾特PPS半自動手槍.md "wikilink")、[PPQ](https://zh.wikipedia.org/wiki/瓦爾特PPQ半自動手槍 "wikilink")、[PPX手槍](../Page/瓦爾特PPX半自動手槍.md "wikilink")。
 
 ### XD-S Mod. 2
 
@@ -247,12 +247,12 @@ XD-S使用了雙[復進簧式設計](https://zh.wikipedia.org/wiki/復進簧 "wi
 
   - [格洛克](../Page/格洛克.md "wikilink")
 
-  - [CZ 100](https://zh.wikipedia.org/wiki/CZ_100半自動手槍 "wikilink")、[CZ 110](https://zh.wikipedia.org/wiki/CZ_110半自動手槍 "wikilink")
+  - [CZ 100](https://zh.wikipedia.org/wiki/CZ_100半自動手槍 "wikilink")、[CZ 110](../Page/CZ_110半自動手槍.md "wikilink")
 
   -
   - [HS95](https://zh.wikipedia.org/wiki/HS95半自動手槍 "wikilink")
 
-  - [HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")（春田XD半自動手槍）
+  - [HS2000半自動手槍](../Page/HS2000半自動手槍.md "wikilink")（春田XD半自動手槍）
 
   - [春田XDM](../Page/春田XDM半自動手槍.md "wikilink")
 

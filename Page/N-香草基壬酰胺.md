@@ -17,8 +17,6 @@ N-香草基壬酰胺（此种情况一般称作PAVA）可用于非致命武器�
 [Category:辣椒素类化合物](https://zh.wikipedia.org/wiki/Category:辣椒素类化合物 "wikilink") [Category:香草酸类化合物](https://zh.wikipedia.org/wiki/Category:香草酸类化合物 "wikilink") [Category:芳香醚](https://zh.wikipedia.org/wiki/Category:芳香醚 "wikilink") [Category:酰胺](https://zh.wikipedia.org/wiki/Category:酰胺 "wikilink") [Category:刺激性毒剂](https://zh.wikipedia.org/wiki/Category:刺激性毒剂 "wikilink") [Category:催泪剂](https://zh.wikipedia.org/wiki/Category:催泪剂 "wikilink") [Category:控暴剂](https://zh.wikipedia.org/wiki/Category:控暴剂 "wikilink")
 
 1.
-
 2.   Retrieved 16 July 2010
-
 3.
 4.   Retrieved 13 April 2013

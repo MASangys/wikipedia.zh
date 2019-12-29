@@ -38,7 +38,7 @@ Alex Hunter的家族是一個以足球為生的家族。爺爺Jim Hunter在1968-
 
 ## 評價
 
-遊戲在IGN等媒體中獲得正面的評價，IGN給了8.4分。在[GameRankings中PS](https://zh.wikipedia.org/wiki/GameRankings "wikilink")4版本得到了84.20%的評價，Xbox one版本得到了82.12%的評價， 而Microsoft Windows版本得到了79.20%的評價。
+遊戲在IGN等媒體中獲得正面的評價，IGN給了8.4分。在[GameRankings](../Page/GameRankings.md "wikilink")中PS4版本得到了84.20%的評價，Xbox one版本得到了82.12%的評價， 而Microsoft Windows版本得到了79.20%的評價。
 
 ## 參考資料
 

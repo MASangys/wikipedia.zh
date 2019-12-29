@@ -41,8 +41,6 @@
 [Category:尖石鄉](https://zh.wikipedia.org/wiki/Category:尖石鄉 "wikilink") [Category:新竹縣古蹟](https://zh.wikipedia.org/wiki/Category:新竹縣古蹟 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

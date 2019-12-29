@@ -39,9 +39,6 @@
 [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
 
 1.  包含出道以前發行的兩張在的話是第17張。
-
 2.  來自2014年9月2日配信「 ～ALBUM直前『LIFE』生搾SP～」的音樂解說。
-
 3.
-
 4.

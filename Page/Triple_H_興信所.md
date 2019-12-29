@@ -18,7 +18,7 @@
 
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:K_STAR](https://zh.wikipedia.org/wiki/Category:K_STAR "wikilink")
 
-1.  [泫雅、Hui、E'DAWN 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2) 2017-04-04.
+1.  [泫雅、Hui、E'DAWN 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2)  2017-04-04.
 2.
 3.
 4.  [Triple H 徵信社預告](https://www.youtube.com/watch?v=5GMr-l6LumY) 2017-04-13.

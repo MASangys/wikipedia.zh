@@ -2,7 +2,7 @@
 
 ## 背景
 
-BIGBANG的世界巡迴演唱會成功在日本首屈一指的三大巨蛋舉辦演唱會，分別是[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")及[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")，這讓他們成為韓國第一組在三大巨蛋開唱的歌手\[2\]。2016年11月6日，所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")宣佈，他們將在日本發行特別迷你專輯，專輯共收錄由成員各自的獨唱曲以及日語版的歌曲〈〉等共六首歌曲\[3\]\[4\]，此外，專輯也將以4個版本發行，其中DVD收錄了〈Monster〉音樂錄影帶、2012年8月26日的「a-nation stadium fes.」及「BIGBANG ALIVE TOUR 2012 IN JAPAN」MC精華和「BIGBANG 2009 Behind the Scenes」精華。
+BIGBANG的世界巡迴演唱會成功在日本首屈一指的三大巨蛋舉辦演唱會，分別是[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")及[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")，這讓他們成為韓國第一組在三大巨蛋開唱的歌手\[2\]。2012年11月6日，所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")宣佈，他們將在日本發行特別迷你專輯，專輯共收錄由成員各自的獨唱曲以及日語版的歌曲〈〉等共六首歌曲\[3\]\[4\]，此外，專輯也將以4個版本發行，其中DVD收錄了〈Monster〉音樂錄影帶、2012年8月26日的「a-nation stadium fes.」及「BIGBANG ALIVE TOUR 2012 IN JAPAN」MC精華和「BIGBANG 2009 Behind the Scenes」精華。
 
 ## 發行成績
 
@@ -58,16 +58,10 @@ BIGBANG的世界巡迴演唱會成功在日本首屈一指的三大巨蛋舉辦�
 [Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

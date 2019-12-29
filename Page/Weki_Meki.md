@@ -49,6 +49,8 @@
 
 9月9日，Crush M/V破千萬。
 
+10月17日，Weki Meki所属社通过粉丝官咖宣布磪有情因为健康问题需要休息一段时间，Weki Meki短期内以7人形式活动。
+
 ## 成員列表
 
   - 名字**粗體**為隊長
@@ -735,6 +737,13 @@ OCN (電視版）</p></td>
 <tr class="odd">
 <td><p>True Valentine</p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>너 하고 싶은 거 다 해 (너.하.다)</p></td>
 <td></td>
 <td></td>
 <td></td>

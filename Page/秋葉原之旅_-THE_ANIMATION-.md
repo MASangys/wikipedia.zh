@@ -372,6 +372,6 @@ Park Jaeseok</p></td>
   -
 ## 腳註
 
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日本深夜動畫](https://zh.wikipedia.org/wiki/Category:日本深夜動畫 "wikilink")
+[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日本深夜動畫](https://zh.wikipedia.org/wiki/Category:日本深夜動畫 "wikilink") [Category:秋葉原背景作品](https://zh.wikipedia.org/wiki/Category:秋葉原背景作品 "wikilink")
 
 1.

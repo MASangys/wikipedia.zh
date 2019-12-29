@@ -50,25 +50,17 @@
 [Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:武藏野美術大學校友](https://zh.wikipedia.org/wiki/Category:武藏野美術大學校友 "wikilink") [Category:Horipro](https://zh.wikipedia.org/wiki/Category:Horipro "wikilink") [Category:日本外籍藝人](https://zh.wikipedia.org/wiki/Category:日本外籍藝人 "wikilink") [Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink") [Category:白姓](https://zh.wikipedia.org/wiki/Category:白姓 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.

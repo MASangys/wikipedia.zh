@@ -1,4 +1,6 @@
-《**I Can Speak**》（)，)，導演為先前《[YMCA棒球隊](https://zh.wikipedia.org/wiki/YMCA野球團 "wikilink")》、《[光植的弟弟光泰](https://zh.wikipedia.org/wiki/光植的弟弟光泰 "wikilink")》、《[戀愛操作團](../Page/大鼻子情聖：戀愛操作團.md "wikilink")》之導演 [金賢錫](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，由[羅文姬](../Page/羅文姬.md "wikilink")、[李帝勳](../Page/李帝勳.md "wikilink")等人所領銜主演，以歡喜冤家之間及慰安婦生存者的故事為主軸\[1\]。 影片制作幕後其實一波多折，[2014年](../Page/2014年.md "wikilink")舉辦的慰安婦題材故事徵集活動中，I Can Speak原作脫穎而出\[2\]，製作組首選羅文姬主演，後因[韓日協議帶來的政治壓力](https://zh.wikipedia.org/wiki/韓日協議 "wikilink")，加上多位演員顧及韓流在日本地位受影響而辭演，造成制作延遲。2016年[金賢錫導演加入](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，潤色劇本，繼續選角工作。2017年[李帝勳](../Page/李帝勳.md "wikilink")加入後得以正式拍攝。 本片於[2017年](../Page/2017年.md "wikilink")3月29日開機，6月26日殺青，9月21日在南韓上映，上映12日突破損益點180萬人次，上映一個月累計觀影人數達320萬。女主角羅文姬憑藉此片獲得韓國最具指標電影節大滿貫影后（韓國大鐘獎、韓國青龍獎、百想藝術大賞）
+《**I Can Speak**》（)，)，導演為先前《[YMCA棒球隊](https://zh.wikipedia.org/wiki/YMCA野球團 "wikilink")》、《[光植的弟弟光泰](https://zh.wikipedia.org/wiki/光植的弟弟光泰 "wikilink")》、《[戀愛操作團](../Page/大鼻子情聖：戀愛操作團.md "wikilink")》之導演 [金賢錫](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，由[羅文姬](../Page/羅文姬.md "wikilink")、[李帝勳](../Page/李帝勳.md "wikilink")等人所領銜主演，以歡喜冤家之間及慰安婦生存者的故事為主軸\[1\]，改编自真实人物[李詠書](https://zh.wikipedia.org/wiki/李詠書 "wikilink")（）为慰安妇在美国抗争的故事。\[2\]
+
+影片制作幕後其實一波多折，[2014年](../Page/2014年.md "wikilink")舉辦的慰安婦題材故事徵集活動中，I Can Speak原作脫穎而出\[3\]，製作組首選羅文姬主演，後因韓日協議帶來的政治壓力，加上多位演員顧及韓流在日本地位受影響而辭演，造成制作延遲。2016年[金賢錫導演加入](https://zh.wikipedia.org/wiki/金賢錫 "wikilink")，潤色劇本，繼續選角工作。2017年[李帝勳](../Page/李帝勳.md "wikilink")加入後得以正式拍攝。 本片於[2017年](../Page/2017年.md "wikilink")3月29日開機，6月26日殺青，9月21日在南韓上映，上映12日突破損益點180萬人次，上映一個月累計觀影人數達320萬。女主角羅文姬憑藉此片獲得韓國最具指標電影節大滿貫影后（韓國大鐘獎、韓國青龍獎、百想藝術大賞）
 
 ## 演員陣容
 
@@ -19,7 +21,7 @@
 <tr class="even">
 <td><p><a href="../Page/羅文姬.md" title="wikilink">羅文姬</a></p></td>
 <td><p>羅玉芬</p></td>
-<td><p>熱血的大媽，天天投訴社區中的不合規定的人、事、物。</p></td>
+<td><p>熱血的大媽，天天投訴社區中的不合規定的人、事、物。身為戰後倖存的慰安妇，最终出席关于慰安婦指證當年日軍暴行的听证会。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a></p></td>
@@ -142,3 +144,4 @@
 
 1.
 2.
+3.

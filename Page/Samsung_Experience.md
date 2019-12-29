@@ -253,52 +253,28 @@ e Tools会合并到同一个文件夹中。在该文件夹里，系统会优化�
 [Category:行动作业系统](https://zh.wikipedia.org/wiki/Category:行动作业系统 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:三星电子](https://zh.wikipedia.org/wiki/Category:三星电子 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.   All top APPLE news, iPhone, iMac, iPad, Apple Watch|language=en-US|access-date=2017-01-29}}
-
 6.
 7.
-
 8.   Apps|accessdate=2018-12-05T03:15:16Z|work=The Official Samsung Galaxy Site|language=en}}
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.  ZDNet|website=ZDNet|language=en|access-date=2018-08-15}}
-
 25.
-
 26.

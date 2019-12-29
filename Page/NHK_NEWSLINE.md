@@ -6,7 +6,7 @@
 
 2016年起，节目更名为《NHK NEWSLINE》。
 
-2019年4月1日，该节目进行重大改版，工作日版的节目时长缩减为15-20分钟，更换了节目包装并取消了屏幕下方的滚动新闻条（突发新闻除外）。缩减节目时段后的剩余时段，由新推出的专题新闻《Newsline In Depth》和财经新闻《Newsline Biz》填充；日本时间13:00-13:30和14:00-14:30则改播关注日本和亚洲新闻的《Newsline Asia 24》。于日本时间工作日20:00播出的《Newsroom Tokyo》照常播出，并增加日本时间次日3:00的重播时段。
+2019年4月1日，该节目进行重大改版，工作日版的节目时长缩减为15-20分钟，更换了节目包装并取消了屏幕下方的滚动新闻条（突发新闻除外）。缩减节目时段后的剩余时段，由新推出的专题新闻《Newsline In Depth》和财经新闻《Newsline Biz》填充；日本时间13:00-13:30和14:00-14:30则改播关注日本和亚洲新闻的《Newsline Asia 24》。于日本时间工作日20:00播出的《[Newsroom Tokyo](../Page/NEWSROOM_TOKYO.md "wikilink")》照常播出，并增加日本时间次日3:00的重播时段。
 
 该节目播出时如遇重大事件（如[2011年东日本大震灾及](../Page/東日本大震災.md "wikilink")[2016年熊本地震](../Page/2016年熊本地震.md "wikilink")期间），节目时长可能会增加，或是取消节目并改为联播[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")外加英语同声传译。
 
@@ -17,6 +17,7 @@
 ## 参见
 
   - [NHK新闻](https://zh.wikipedia.org/wiki/NHK新闻 "wikilink")
+  - [NEWSROOM TOKYO](../Page/NEWSROOM_TOKYO.md "wikilink")
 
 ## 参考资料
 
@@ -24,4 +25,4 @@
 
   - [节目官方网站](https://web.archive.org/web/20170331210428/https://www3.nhk.or.jp/nhkworld/newsline/index.html)
 
-[Category:NHK新聞](https://zh.wikipedia.org/wiki/Category:NHK新聞 "wikilink") [Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink") [Category:香港電視娛樂新聞財經節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂新聞財經節目 "wikilink") [Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink")
+[Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink") [Category:香港電視娛樂外購節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購節目 "wikilink") [Category:香港電視娛樂新聞財經節目](https://zh.wikipedia.org/wiki/Category:香港電視娛樂新聞財經節目 "wikilink") [Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink")

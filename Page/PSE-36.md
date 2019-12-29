@@ -64,37 +64,21 @@ PSE-36从未被[Linux](../Page/Linux.md "wikilink")支持。
 [Category:虚拟内存](https://zh.wikipedia.org/wiki/Category:虚拟内存 "wikilink") [Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  [Intel Processor Identification and the CPUID Instruction](ftp://download.intel.com/support/processors/procid/24161812.pdf) , Intel application note AP-485
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. [Intel's Pentium II Xeon Processor.](http://www.tomshardware.com/reviews/intel,69-3.html)
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.

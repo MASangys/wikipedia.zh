@@ -108,18 +108,11 @@ Xperia XZs搭載1900萬像素Motion Eye™相機，配備五軸光學防震、�
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.  [Sony Xperia XZs及XZ Premium　超慢鏡、真4K登場【MWC2017】 - 香港01](https://www.hk01.com/%E7%A7%91%E6%8A%80%E7%8E%A9%E7%89%A9/74718/Sony-Xperia-XZs%E5%8F%8AXZ-Premium-%E8%B6%85%E6%85%A2%E9%8F%A1-%E7%9C%9F4K%E7%99%BB%E5%A0%B4-MWC2017-)
-
 2.  [4K 大芒回歸！用 S835 截三星糊！Sony XZ Premium、XZs 好吸引？ - ePrice.hk](http://www.eprice.com.hk/mobile/talk/4551/207684/1/rv/sony-xperia-xzs-launch/)
-
 3.  [Xperia™ XZs White Paper](https://dl.developer.sonymobile.com/documentation/whitepapers/Xperia%20XZs_WP_2.pdf?callback=https%3A%2F%2Fdeveloper.sonymobile.com%2Fendpoints%2Fcloudfront%2Fcreate%2F&nonce=ae75cbf06c)
-
 4.  [【MWC 2017】終於有 4GB RAM + 新鏡！Sony XZs 巴塞現場初步評測 - Unwire.hk](https://unwire.hk/2017/02/28/sony-xperia-xzs-mwc-review/mobile-phone/)
-
 5.  [1](https://www.sonymobile.com/hk/products/phones/xperia-xzs/specifications/)
-
 6.  [2](https://www.sonymobile.com/tw/products/phones/xperia-xzs/specifications/)
-
 7.  [3](https://www.sonymobile.com/cn/products/phones/xperia-xzs/specifications/)
-
 8.
 9.  [Sony Xperia 旗艦智能手機比較](https://www.sony-xperia.com.hk/comparison_xzs.php)

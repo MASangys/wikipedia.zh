@@ -242,5 +242,4 @@
 [Category:Max_Mix](https://zh.wikipedia.org/wiki/Category:Max_Mix "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:中央區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:中央區公司_\(東京都\) "wikilink")
 
 1.
-
 2.

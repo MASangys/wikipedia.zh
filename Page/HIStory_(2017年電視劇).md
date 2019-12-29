@@ -1,10 +1,10 @@
-《**HIStory系列**》，2017年[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，於2017年2月14日起在[CHOCO TV每週二至週五上架播出](../Page/CHOCO_TV.md "wikilink")，原本僅規劃拍攝《My Hero》、《離我遠一點》兩單元，由於獲得105年度行動寬頻影音節目製作補助案第2梯次補助240萬元\[1\]，所以才有第三單元《著魔》。第一季共分為三個單元《My Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播映一個單元，第一季已於3月3日播映完畢。
+《**HIStory系列**》，是一部在2017至2019年间播送的[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，第一部于2017年2月14日起在[CHOCO TV每週二至週五上架播出](../Page/CHOCO_TV.md "wikilink")，原本僅規劃拍攝《My Hero》、《離我遠一點》兩單元，由於獲得105年度行動寬頻影音節目製作補助案第2梯次補助240萬元\[1\]，所以才有第三單元《著魔》。第一季共分為三個單元《My Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播映一個單元，第一季已於3月3日播映完畢。
 
 播出後好評不斷，上架短短三個月達成350萬的網路點擊率，成為台灣首部進軍日本的網路劇，於2017年7月31日在日本電視台播出，同時籌備日本院線發行，年底前於泰國電視台播出。\[2\]
 
-該系列[第二季已於](../Page/HIStory2.md "wikilink")10月12日開鏡拍攝，分為二個單元《是非》及《越界》。\[3\]原定之第三單元《圈套》因經費不足而被擱置。而《越界》也預計於2019年開拍電影版《跨界》，由原班人馬帶來志弘高中排球隊員們後續的故事\[4\]。
+該系列[第二季已於](../Page/HIStory2.md "wikilink")10月12日開鏡拍攝，分為二個單元《是非》及《越界》。\[3\]原定之第三單元《圈套》因經費不足而被擱置，转为在第三季播出。而《越界》也預計於2019年開拍電影版《跨界》，由原班人馬帶來志弘高中排球隊員們後續的故事\[4\]。
 
-該系列[第三季](../Page/HIStory3.md "wikilink")，於2018年第四季開拍 ，分為二個單元《圈套》及《那一天》，2019年4月16日開始播放\[5\]\[6\]。
+該系列[第三季](../Page/HIStory3.md "wikilink")，於2018年第四季開拍 ，分為二個單元《圈套》及《那一天》，2019年4月16日開始播放\[5\]\[6\]。目前《圈套》已经播放完毕，《那一天》正在更新中。
 
 ## 播出時間
 
@@ -79,14 +79,14 @@
 <td><center>
 <p>2019年4月16日(二)</p></td>
 <td><center>
-<p>：</p></td>
+<p>21：00</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>那一天</p></td>
 <td><center>
-<p>2019年 月 日( )</p></td>
+<p>2019年10 月16日( 三 )</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -312,7 +312,7 @@
 <p>7</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory3#那一天（Make_Our_Days_Count）" title="wikilink">那一天</a></p></td>
-<td><p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a>、<a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a>、<a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a>、<a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
+<td><p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a>、<a href="../Page/黃雋智.md" title="wikilink">黃雋智</a>、<a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a>、<a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
 <td><p>邵慧婷</p></td>
 <td><p>蔡宓潔</p></td>
 </tr>
@@ -339,25 +339,21 @@
 
   -
   -
-  - 在影視圈圈上《[HIStory-My Hero](http://www.moviemovie.com.tw/db/program/21044)》的資料
+  - 在影視圈圈上《[HIStory-My Hero](https://web.archive.org/web/20170303043959/http://www.moviemovie.com.tw/db/program/21044)》的資料
 
-  - 在影視圈圈上《[HIStory-離我遠一點](http://www.moviemovie.com.tw/db/program/21077)》的資料
+  - 在影視圈圈上《[HIStory-離我遠一點](https://web.archive.org/web/20170303043953/http://www.moviemovie.com.tw/db/program/21077)》的資料
 
-  - 在影視圈圈上《[HIStory-著魔](http://www.moviemovie.com.tw/db/program/21078)》的資料
+  - 在影視圈圈上《[HIStory-著魔](https://web.archive.org/web/20170303044236/http://www.moviemovie.com.tw/db/program/21078)》的資料
 
-  - 在影視圈圈上《[HIStory2-是非](https://www.moviemovie.com.tw/db/program/25544)》的資料
+  - 在影視圈圈上《[HIStory2-是非](https://web.archive.org/web/20180109063917/https://www.moviemovie.com.tw/db/program/25544)》的資料
 
-  - 在影視圈圈上《[HIStory2-越界](https://www.moviemovie.com.tw/db/program/25545)》的資料
+  - 在影視圈圈上《[HIStory2-越界](https://web.archive.org/web/20180109063938/https://www.moviemovie.com.tw/db/program/25545)》的資料
 
 [Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:台灣同志劇集](https://zh.wikipedia.org/wiki/Category:台灣同志劇集 "wikilink") [Category:2017年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2017年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:男同性戀相關電視節目](https://zh.wikipedia.org/wiki/Category:男同性戀相關電視節目 "wikilink") [Category:台灣LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:台灣LGBT相關電視節目 "wikilink") [Category:緯來電視外購電視劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購電視劇 "wikilink") [Category:華視外購電視劇](https://zh.wikipedia.org/wiki/Category:華視外購電視劇 "wikilink")
 
 1.  [(105年)105年度行動寬頻影音節目製作補助案第二梯次獲補助名單及評選小組委員名單](https://grants.moc.gov.tw/Web/PointPublish.jsp?P=1931&B=356)，文化部獎補助資訊網，2016年11月28日
-
 2.  [台灣男男戀網路劇 逆襲進軍日本](http://ent.ltn.com.tw/news/breakingnews/2125327)，自由娛樂，2017年07月08日
-
 3.  [《花甲》光頭戀上小鮮肉　BL劇《History》開拍第二季](https://star.ettoday.net/news/1030123)，ETNEWS星光雲，2017年10月12日
-
 4.  ，中時電子報，2018年08月17日
-
 5.
 6.  [BL台劇《越界》明年開拍電影版！　原班人馬全到齊](https://star.ettoday.net/news/1237876)，ETNEWS星光雲，2018年08月17日

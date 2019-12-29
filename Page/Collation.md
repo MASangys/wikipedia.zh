@@ -35,7 +35,7 @@
   - [Collation in Spanish](http://spanish.about.com/library/weekly/aa092099.htm#letters)
   - [Collation of the names of the member states of the United Nations](https://web.archive.org/web/20061022200845/http://www.un.org/Overview/unmember.html)
   - [Typographical collation for many languages](http://www.w3.org/TR/css3-lists), as proposed in the List module of [Cascading Style Sheets](https://zh.wikipedia.org/wiki/Cascading_Style_Sheet "wikilink").
-  - [Collation Charts](http://www.collation-charts.org/): Charts demonstrating language-specific sorting orders in various operating systems and DBMS
+  - [Collation Charts](https://web.archive.org/web/20110520132147/http://www.collation-charts.org/): Charts demonstrating language-specific sorting orders in various operating systems and DBMS
   - [ICU Locale Explorer](http://demo.icu-project.org/icu-bin/locexp?_=en_US&x=col): An online demonstration of sorting in different languages that uses the [Unicode Collation Algorithm](https://zh.wikipedia.org/wiki/Unicode_Collation_Algorithm "wikilink") with [International Components for Unicode](https://zh.wikipedia.org/wiki/International_Components_for_Unicode "wikilink")
 
 [Category:排序算法](https://zh.wikipedia.org/wiki/Category:排序算法 "wikilink")

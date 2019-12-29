@@ -18,7 +18,7 @@
 
 <!-- end list -->
 
-  - 《[灵域](https://zh.wikipedia.org/wiki/灵域 "wikilink")》唐思琪
+  - 《[灵域](../Page/灵域.md "wikilink")》唐思琪
   - 《[妖精的尾巴](https://zh.wikipedia.org/wiki/妖精的尾巴 "wikilink")》中文版（第二季）夏露露、狂华
 
 <!-- end list -->

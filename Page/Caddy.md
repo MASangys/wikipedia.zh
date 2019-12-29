@@ -1,6 +1,6 @@
 </ref>|operating system=[Android](../Page/Android.md "wikilink")，[BSD variants](../Page/BSD.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[OS X及](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")|genre=[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink"), [反向代理服务器](../Page/代理服务器.md "wikilink") |license=[Apache 2](https://zh.wikipedia.org/wiki/Apache_License "wikilink") |website=}}
 
-**Caddy服务器**（或稱**Caddy Web**）是一个开源的，使用 [Go](../Page/Go.md "wikilink")lang 编写，支持 [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink") 的 Web 服务端。它使用 [Go](../Page/Go.md "wikilink")lang 标准库提供 [HTTP](../Page/超文本传输协议.md "wikilink") 功能。
+**Caddy服务器**（或称**Caddy Web**）是一个开源的，使用 [Go](../Page/Go.md "wikilink")lang 编写，支持 [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink") 的 Web 服务端。它使用 [Go](../Page/Go.md "wikilink")lang 标准库提供 [HTTP](../Page/超文本传输协议.md "wikilink") 功能。
 
 Caddy 一个显著的特性是默认启用 [HTTPS](../Page/超文本传输安全协议.md "wikilink")。\[1\]\[2\]它是第一个无需额外配置即可提供 [HTTPS](../Page/超文本传输安全协议.md "wikilink") 特性的 Web 服务器。\[3\]
 
@@ -10,7 +10,7 @@ Caddy 支持各种 Web 技术，提供静态编译的二进制文件，支持 [i
 
 ## 功能
 
-Caddy 可以提供各种网站技术，它也可以作为反向代理和负载均衡器。Caddy 的大部分功能都实现为中间件，并通过 Caddyfile 中的指令（用于配置 Caddy 的文本文件）进行控制。\[6\]
+Caddy 可以提供各种网站技术，它也可以作为反向代理和负载均衡器。Caddy 的大部分功能都以中间件的形式实现，并通过 Caddyfile 中的指令（用于配置 Caddy 的文本文件）进行控制。\[6\]
 
   - HTTP/1.1 (原始的HTTP) and [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink") (HTTPS的推荐连接方案)
   - [HTTPS](../Page/超文本传输安全协议.md "wikilink")，同时接受自动签发和手动管理

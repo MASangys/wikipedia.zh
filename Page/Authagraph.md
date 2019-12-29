@@ -20,8 +20,6 @@ Authagraph投影法的名字是由「[authalic](https://zh.wikipedia.org/wiki/wi
 [Category:地圖投影法](https://zh.wikipedia.org/wiki/Category:地圖投影法 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.  {{ cite journal | author = 山田久美 | title = 製作天象儀圓頂（） | journal = [牛頓科學雜誌](../Page/牛頓_\(雜誌\).md "wikilink") | volume = 108 | date = 2016年10月 | pages = 106–113 | issn = 1018-5445 }}
-
 2.  {{ cite web | title = オーサグラフ：ISSロングターム・トラッキング - オープン・スペース 2009 | url = <http://www.ntticc.or.jp/Archive/2009/Openspace2009/Works/authagraph_j.html> | work = ICC Online（公式ウェブサイト）| publisher = NTTインターコミュニケーション・センター | date = 2009 | accessdate = 2011-10-31 | language = ja}}
-
 3.
 4.  {{ cite news | url = <http://www.cup.com.hk/2016/11/04/mapping-the-new-world-map/> | work = \*CUP | title = 重塑失真近 450 年的世界地圖 | date = 2016-11-04 }}

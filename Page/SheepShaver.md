@@ -41,16 +41,11 @@ SheepShaver支持原生 2D加速、[以太网](../Page/以太网.md "wikilink")�
 [Category:自由仿真软件](https://zh.wikipedia.org/wiki/Category:自由仿真软件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.

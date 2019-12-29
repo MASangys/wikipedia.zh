@@ -2,7 +2,7 @@
 
 ## 经历
 
-AMOi-AMOi（[馬來西亞語](../Page/馬來西亞語.md "wikilink")：小姐）於2014年由三名团员组成，分别是曾樂晴、吳翠媚和林美瑜（草莓）；组团原意是为了演唱[黄明志改编的马来西亚版](https://zh.wikipedia.org/wiki/黄明志 "wikilink")《[小苹果](https://zh.wikipedia.org/wiki/小苹果 "wikilink")》。
+AMOi-AMOi（[馬來西亞語](../Page/馬來西亞語.md "wikilink")：小姐）於2014年由三名团员组成，分别是曾樂晴、吳翠媚和林美瑜（草莓）；组团原意是为了演唱[黄明志](../Page/黄明志.md "wikilink")改编的马来西亚版《[小苹果](https://zh.wikipedia.org/wiki/小苹果 "wikilink")》。
 
 2016年，黄明志與 Red People 决定进一步发展这团体\[2\]，並舉行《AMOi-AMOi百万女团选拔赛》，讓马来西亚和[台湾二地网红参与](https://zh.wikipedia.org/wiki/台湾 "wikilink")\[3\]。在选拔赛的第一集时，基於原成员林美瑜称无法兼顾学业和比赛而决定退出选拔赛，故最终以其餘兩位原成员曾乐晴、吴翠媚，再加入一位大马参赛者洪少琦及两位台湾参赛者王依渟与徐薇涵，重新組成 AMOi-AMOi\[4\]。选拔结束约一个月后，徐薇涵通过 RED NEWS 宣布退出，原因是要留在台湾照顾面臨健康问题的母亲，无法配合台湾以外地区的训练和宣传\[5\]。
 
@@ -62,7 +62,7 @@ AMOi-AMOi（[馬來西亞語](../Page/馬來西亞語.md "wikilink")：小姐）
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>《小苹果马来西亚本地水果篇》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a>（原<a href="https://zh.wikipedia.org/wiki/王太利" title="wikilink">王太利</a>）</p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a>（原<a href="https://zh.wikipedia.org/wiki/王太利" title="wikilink">王太利</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/王太利" title="wikilink">王太利</a></p></td>
 <td></td>
 <td><p>出道作品。<br />
@@ -71,15 +71,15 @@ AMOi-AMOi（[馬來西亞語](../Page/馬來西亞語.md "wikilink")：小姐）
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>《一起加油》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
 <td><p>选拔赛参加者</p></td>
 <td><p>为选拔赛考验之一。</p></td>
 </tr>
 <tr class="even">
 <td><p>《公鸡八宅》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
 <td></td>
 <td><p>首张贺岁单曲。</p></td>
 <td></td>
@@ -87,24 +87,24 @@ AMOi-AMOi（[馬來西亞語](../Page/馬來西亞語.md "wikilink")：小姐）
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>《Amoi-Amoi》(黑髮尤物)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
 <td></td>
 <td><p>与选拔赛参加者表演过。已正式推出。</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>《黑皮狗》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
 <td></td>
 <td><p>狗年贺岁歌曲。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p>《 PABO 》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
+<td><p><a href="../Page/黄明志.md" title="wikilink">黄明志</a></p></td>
 <td></td>
 <td><p>講述玩弄感情的渣男</p></td>
 </tr>

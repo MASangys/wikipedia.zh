@@ -18,7 +18,5 @@ Xperia XA1配備了5吋TFT螢幕、聯發科[曦力P](https://zh.wikipedia.org/w
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
 
 1.   ePrice 比價王|accessdate=2017-04-30|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
-
 2.
-
 3.

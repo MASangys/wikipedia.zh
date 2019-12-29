@@ -1142,7 +1142,7 @@
 <tr class="odd">
 <td><p>2019年10月12日－<br />
 2019年12月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/所有人的謊言" title="wikilink">所有人的謊言</a><br />
+<td><p><a href="../Page/所有人的謊言.md" title="wikilink">所有人的謊言</a><br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/李民基.md" title="wikilink">李民基</a>、<a href="../Page/李宥英.md" title="wikilink">李宥英</a></p></td>
@@ -1259,13 +1259,49 @@
 </tr>
 <tr class="odd">
 <td><p>2019年9月18日－<br />
-2019年11月7日</p></td>
+2019年10月31日</p></td>
 <td><p><a href="../Page/奔跑的調查官.md" title="wikilink">奔跑的調查官</a><br />
 </p></td>
-<td><p>16</p></td>
+<td><p>14</p></td>
 <td><p><a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="https://zh.wikipedia.org/wiki/崔貴華" title="wikilink">崔貴華</a>、<a href="../Page/張鉉誠.md" title="wikilink">張鉉誠</a>、<a href="https://zh.wikipedia.org/wiki/吳美姬" title="wikilink">吳美姬</a></p></td>
 <td><p>白正哲</p></td>
 <td><p><a href="../Page/金容秀.md" title="wikilink">金容秀</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:37%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>播放日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>主演</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2020年3月4日－<br />
+2020年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rugal" title="wikilink">Rugal</a><br />
+</p></td>
+<td><p>16</p></td>
+<td><p><a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a>、<a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="../Page/鄭惠仁.md" title="wikilink">鄭惠仁</a>、<a href="https://zh.wikipedia.org/wiki/韓智婉" title="wikilink">韓智婉</a></p></td>
+<td></td>
+<td><p>姜哲宇</p></td>
 <td></td>
 </tr>
 </tbody>

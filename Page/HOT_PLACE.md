@@ -158,10 +158,12 @@ Zoo娛樂隨後宣布加入新成员Haneul和K.Me。另外，正式出道的Hank
 </tr>
 <tr class="even">
 <td><p><strong>K.Me</strong><br />
+<br />
 </p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>露熙</strong><br />
+<br />
 </p></td>
 </tr>
 <tr class="even">

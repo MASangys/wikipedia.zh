@@ -17,7 +17,7 @@
   - [''The Lost City of Z, Chapter 1](http://online.wsj.com/article/SB123542115608951651.html?mod=article-outset-box), book excerpt, *The Wall Street Journal*
   - ["The search for a mythical lost city"](http://minnesota.publicradio.org/display/web/2009/04/13/midmorning2/?refid=0), NPR interview with David Grann
   - [Anonymous. Manuscript 512 (1754)](http://objdigital.bn.br/acervo_digital/div_manuscritos/cmc_ms495/mss_01_4_001.pdf), about the first expedition to The Lost City (Portuguese).
-  - (Video) [The Lost City of Z](http://fora.tv/2009/03/05/David_Grann_The_Lost_City_of_Z), author interview on [Fora.tv](https://zh.wikipedia.org/wiki/Fora.tv "wikilink")
+  - (Video) [The Lost City of Z](https://web.archive.org/web/20141111111259/http://fora.tv/2009/03/05/David_Grann_The_Lost_City_of_Z), author interview on [Fora.tv](https://zh.wikipedia.org/wiki/Fora.tv "wikilink")
 
 [Category:2009年書籍](https://zh.wikipedia.org/wiki/Category:2009年書籍 "wikilink")
 

@@ -2,7 +2,7 @@
 
 ## 歷史
 
-在2017年1月11日，冰塊酷巴和娛樂總監Jeff Kwatinetz在紐約市喜來登酒店時代廣場分店宣布BIG3聯盟正式成立。\[1\]這也呼應[2020年夏季奧運會加入](https://zh.wikipedia.org/wiki/2000年夏季奥林匹克运动会 "wikilink")3對3籃球比賽。
+在2017年1月11日，冰塊酷巴和娛樂總監Jeff Kwatinetz在紐約市喜來登酒店時代廣場分店宣布BIG3聯盟正式成立。\[1\]這也呼應[2020年夏季奧運會加入](../Page/2000年夏季奥林匹克运动会.md "wikilink")3對3籃球比賽。
 
 ## 球員陣容
 
@@ -415,36 +415,20 @@ The draft lottery was held on April 28, 2017 with Trilogy having the first pick 
 [Category:2017年紐約州建立](https://zh.wikipedia.org/wiki/Category:2017年紐約州建立 "wikilink") [Category:美國籃球聯賽](https://zh.wikipedia.org/wiki/Category:美國籃球聯賽 "wikilink") [Category:紐約州體育](https://zh.wikipedia.org/wiki/Category:紐約州體育 "wikilink") [Category:2017年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:2017年建立的體育聯賽 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.   (第1週後修訂)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. [Fox’s Big 3 basketball broadcast team: Gus Johnson, Jim Jackson and…Michael Rapaport?](http://awfulannouncing.com/fox/big-3-basketball-broadcast-team-fox-gus-johnson-jim-jackson-and-michael-rapaport.html) *awfulannouncing.com*. Retrieved June 15, 2017.

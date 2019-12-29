@@ -496,33 +496,19 @@
 [Category:EBiDAN](https://zh.wikipedia.org/wiki/Category:EBiDAN "wikilink") [Category:星尘传播](https://zh.wikipedia.org/wiki/Category:星尘传播 "wikilink") [Category:日本剧团](https://zh.wikipedia.org/wiki/Category:日本剧团 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
 
 1.
-
 2.  [行事予定。。。EBiDAN（恵比寿学園男子部）オフィシャルサイト](https://web.archive.org/web/20110623132603/http://ebidan.jp/schedule.php)（2011-06-23 [互联网档案馆](../Page/互联网档案馆.md "wikilink")）
-
 3.
 4.  根据该舞台剧宣传手册说明。
-
 5.  根据公演宣传手册所述。
-
 6.  根据公演宣传手册所述。
-
 7.  根据该公演宣传册所述。
-
 8.  根据该公演宣传册所述。
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. [速報！！新アイドルユニットのメンバーが決定☆☆｜EBiDAN オフィシャルブログ 「EBiDAN BLOG」 Poweredby Ameba](http://ameblo.jp/ebidan/entry-11076388665.html)
-
 14. [STARDUST - スターダスト オフィシャルサイト - ニュース - 第2期“超特急”始動\!草川拓弥 新メンバーに決定](http://www.stardust.co.jp/news/?id=1917)
-
 15.
 16.
-
 17.

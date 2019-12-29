@@ -124,32 +124,23 @@ Three.js函数库是一个独立的JavaScript文件。它在网页中可以通�
 
   - [kepo-ing Zz85](https://web.archive.org/web/20120531075249/http://www.lab4games.net/zz85/blog/)
 
-  - [Learning WebGL](http://learningwebgl.com)
+  - [Learning WebGL](https://web.archive.org/web/20190218044735/http://learningwebgl.com/)
 
   - [WebGL Review Site](http://webgl.com)
 
 <!-- end list -->
 
 1.  [O3D](https://zh.wikipedia.org/wiki/O3D "wikilink")
-
 2.  [Unity (game engine)](https://zh.wikipedia.org/wiki/Unity_\(game_engine\) "wikilink")
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.

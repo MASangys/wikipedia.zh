@@ -51,8 +51,6 @@
 [分類:巴西](https://zh.wikipedia.org/wiki/分類:巴西 "wikilink")
 
 1.
-
 2.
 3.
-
 4.  . *The Lost City of Z: A Tale of Deadly Obsession in the Amazon.* New York: Doubleday Publishing, 2009. ISBN 978-0-385-51353-1

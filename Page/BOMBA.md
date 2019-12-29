@@ -4,7 +4,7 @@
 
 *BOMBA*為香港公司 FFW Group Limited 火火木集團有限公司旗下的影視創作工作室，業務除一般廣告製作外，同時亦活躍於短片創作和藝人管理。「We Dream, We Do」為其口號。
 
-公司最初由余仲天（Fox Yu）在大學畢業後創辦，致力發揮新一代創意，提供大眾娛樂之餘同時看準了網路廣告這個新興版塊。初期作品風格以科幻為主，後期風格多以人性電影感為主。
+公司最初由Fox Yu在大學畢業後創辦，致力發揮新一代創意，提供大眾娛樂之餘同時看準了網路廣告這個新興版塊。初期作品風格以科幻為主，後期風格多以人性電影感為主。
 
 BOMBA 最初由八名來自不同大專院校的學生組成，製作團隊靠自學CG及拍攝技巧，自費製作並上載至互聯網與公眾分享，反應熱烈。
 
@@ -16,7 +16,13 @@ BOMBA 在網站中亦有發佈網誌及散文小說，作品包括 : 那年暑�
 
 ## 重大事件
 
-2017年4月，BOMBA 製作並發佈了一套微電影《星戀空》，但有關影片使用了影片分享網站 [YouTube](../Page/YouTube.md "wikilink") 新功能 - 付費觀看，並設價格為八元港幣，引起爭議，有關影片被極度負評，其後 BOMBA 成員余仲天（Fox Yu）在影片發佈後亦發佈 Q\&A 來澄清，但網民怒火亦未因此影片而熄滅，亦有人表示歡迎有關模式。\[1\]值得一提的是，BOMBA 在《星戀空》及其解釋影片收費意義後，主頻道及其所有附屬頻道一度停止發佈影片至今，BOMBA 成員亦未有說明原因。
+2017年4月，BOMBA 製作並發佈了一套微電影《星戀空》，但有關影片使用了影片分享網站 [YouTube](../Page/YouTube.md "wikilink") 新功能 - 付費觀看，並設價格為八元港幣，引起爭議，其後 BOMBA 成員余仲天（Fox Yu）在影片發佈後亦發佈 Q\&A 來澄清，但網民怒火亦未因此影片而熄滅，亦有人表示歡迎有關模式。\[1\]值得一提的是，BOMBA 在《星戀空》及其解釋影片收費意義後，主頻道及其所有附屬頻道一度停止發佈影片，BOMBA 成員亦未有說明原因。直至2019年11月23日，BOMBA在YouTube上發放最後一條影片宣佈離開YouTube，並公佈其所創立的新影視串流平台Roarship，但再次引起爭議。
+
+## 爭議
+
+2019年11月17日，BOMBA 團隊在[YouTube](../Page/YouTube.md "wikilink")的原頻道「BOMBA」刪除所有影片(包括在子頻道「BOMBA小品台」、「BOMBA幕後台」的影片)。
+
+
 
 ## 旗下藝人
 
@@ -29,7 +35,7 @@ BOMBA 在網站中亦有發佈網誌及散文小說，作品包括 : 那年暑�
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/余仲天" title="wikilink">余仲天</a><br />
-（Fox Yu）</p></td>
+（Fox）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/威仔" title="wikilink">威仔</a><br />
@@ -57,6 +63,6 @@ BOMBA 在網站中亦有發佈網誌及散文小說，作品包括 : 那年暑�
 ## 外部連結
 
   -
-[Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink") [Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink")
+[Category:香港網絡文化](https://zh.wikipedia.org/wiki/Category:香港網絡文化 "wikilink")
 
 1.  [Bomba 「8蚊風波」惹爭議，Fox解畫：燈光師人工已經好貴](http://ent.fanpiece.com/purestalker/Bomba-8%E8%9A%8A%E9%A2%A8%E6%B3%A2-%E6%83%B9%E7%88%AD%E8%AD%B0-Fox%E8%A7%A3%E7%95%AB-%E7%87%88%E5%85%89%E5%B8%AB%E4%BA%BA%E5%B7%A5%E5%B7%B2%E7%B6%93%E5%A5%BD%E8%B2%B4-c1284018.html), FanPiece, 2017-05-25

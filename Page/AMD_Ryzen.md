@@ -1,6 +1,6 @@
 **AMD Ryzen**（ ）是美商[超微開發並推出市場的](https://zh.wikipedia.org/wiki/超微 "wikilink")[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器品牌](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，AMD [Zen微架構的微處理器產品之一](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，其純CPU產品線於2017年3月上市販售，以Ryzen為品牌命名的[APU產品線於](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")2017年10月上架。「Ryzen」品牌於2016年12月13日AMD的New Horizon峰會上發表。\[1\]中文名為「**锐龙**」（2017年3月到8月之间的中文名称为「锐龙AMD Ryzen」，2017年8月之后的中文名称为「AMD锐龙」）。
 
-2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代[AMD FX系列](../Page/AMD_FX.md "wikilink")；\[2\]2017年10月發表代號「Raven Ridge」的Ryzen APU產品線；2018年4月發表了代號「Pinnacle Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink") 4.0之第三代Ryzen處理器（整合Vega內顯的第三代Ryzen仍然是PCIe 3.0）。\[5\]\[6\]
+2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代[AMD FX系列](../Page/AMD_FX.md "wikilink")；\[2\]2017年10月發表代號「Raven Ridge」的Ryzen APU產品線；2018年4月發表了代號「Pinnacle Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink") 4.0之第三代Ryzen處理器（整合Vega內顯的第三代Ryzen仍然是PCIe 3.0、Zen+微架構）。\[5\]\[6\]
 
 ## 概覽
 
@@ -49,6 +49,8 @@ Zen+是Zen的小幅改進版，採用「12奈米」LP（Leading Performance）�
   - 改善每個CCX之間的通訊延時，尤其是使用低時脈參數的記憶體時
 
 不過，儘管仍維持不鎖定處理器倍頻的設定，對Ryzen 7 2700X的實測表明其本身的可超頻空間不高，在[風冷](../Page/風冷.md "wikilink")的情況下也很難達成 4.5 GHz以上的時脈，此時的CPU核心電壓已經處於危險水平。而對手Intel的Core i7 8700K預設就高達4.7GHz的加速時脈，儘管它也必須大幅強化供電及解熱組件（一般需要[液冷套件](https://zh.wikipedia.org/wiki/電腦水冷 "wikilink")）方能達成超頻至5 GHz的結果。
+
+### Zen 2微架構
 
 ## 處理器列表
 
@@ -977,7 +979,7 @@ YD1200BBAEBOX</p></td>
 
 表格清單附註：
 
-#### 行動型處理器
+#### 筆記型電腦處理器
 
 目前推出的 Ryzen Mobile 系列處理器主要用於[超極致筆電](../Page/Ultrabook.md "wikilink")，\[94\]全數使用「Raven Ridge」晶片，含一個CCX（有4個CPU核心），[BGA封裝的](../Page/球柵陣列封裝.md "wikilink")[Socket FP5](https://zh.wikipedia.org/wiki/Socket_FP5 "wikilink")，支援雙通道記憶體，內建GPU，部分型號還不會開啓[同步多執行緒](https://zh.wikipedia.org/wiki/同步多執行緒 "wikilink")。
 
@@ -1908,7 +1910,7 @@ YD2600BBAFBOX</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>3400G</strong></p></td>
-<td><p>B0</p></td>
+<td></td>
 <td><p>4/8</p></td>
 <td><p>3.7</p></td>
 <td><p>4.2</p></td>
@@ -2053,7 +2055,7 @@ YD2600BBAFBOX</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>3200G</strong></p></td>
-<td><p>B0</p></td>
+<td></td>
 <td><p>4/4</p></td>
 <td><p>3.6</p></td>
 <td><p>4.0</p></td>
@@ -2077,7 +2079,11 @@ YD2600BBAFBOX</p></td>
 </tbody>
 </table>
 
+#### 筆記型電腦處理器
+
 ### 基於 Zen 2 微架構
+
+#### Ryzen Threadripper
 
 #### 桌上型處理器
 
@@ -2349,295 +2355,158 @@ YD2600BBAFBOX</p></td>
 
   - [AMD「Ryzen 7」の半導体チップの姿](https://pc.watch.impress.co.jp/docs/column/kaigai/1047507.html)
 
-  - [cpu-collection.de](http://www.cpu-collection.de/?tn=0&l0=co&l1=AMD&l2=Athlon) AMD Athlon processor images and descriptions
+  - [cpu-collection.de](https://web.archive.org/web/20061208042440/http://www.cpu-collection.de/?tn=0&l0=co&l1=AMD&l2=Athlon) AMD Athlon processor images and descriptions
 
   - [AMD's New Horizon summit](http://www.youtube.com/watch?v=1v44wWAOHn8&sf58130647=1) Ryzen 7 發表
 
 [Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink") [Category:AMD處理器](https://zh.wikipedia.org/wiki/Category:AMD處理器 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.  <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-3400g>
-
 7.
-
 8.
-
 9.
 10. [Tips for Building a Better AMD Ryzen™ System](http://community.amd.com/community/gaming/blog/2017/03/14/tips-for-building-a-better-amd-ryzen-system)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26. ，編譯自[Ryzen Mobile is Launched: AMD APUs for Laptops, with Vega and Updated Zen , by Ian Cutress](https://www.anandtech.com/show/11964/ryzen-mobile-is-launched-amd-apus-for-laptops-with-vega-and-updated-zen)
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
-
 34. <https://www.amd.com/en/products/cpu/amd-ryzen-7-1700x>
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
-
 41. <https://www.amd.com/en/products/cpu/amd-ryzen-5-1600x>
-
 42.
-
 43.
-
 44.
-
 45.
-
 46. ，原載於[1](https://elchapuzasinformatico.com/2017/04/amd-ryzen-5-1600-review/5/)
-
 47.
-
 48.
-
 49.
-
 50. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-5-2400g>
-
 51. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
-
 52. <https://www.techpowerup.com/241444/amd-ryzen-raven-ridge-comes-with-a-limited-pcie-interface>
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
-
 67.
-
 68. <https://rog.asus.com/articles/technologies/your-guide-to-the-ryzen-am4-platform-and-its-x370-b350-and-a320-chipsets/>
-
 69.
-
 70. ，原載於Computerbase、ASRock、usb.org、hardware.fr
-
 71.
-
 72.
-
 73.
-
 74. <https://www.amd.com/zh-hant/products/apu/amd-ryzen-3-2200g>
-
 75.
 76.
 77.
 78.
 79.
 80.
-
 81.
-
 82.
-
 83.
-
 84.
-
 85.
-
 86.
-
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
-
 95.
-
 96.
-
 97.
-
 98.
-
 99.
-
 100.
-
 101.
-
 102.
-
 103.
 104.
-
 105.
-
 106.
-
 107.
-
 108.
-
 109.
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
 121.
-
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127.
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
-
 134.
-
 135.
-
 136.
-
 137.
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146.
 147.
 148.
-
 149.

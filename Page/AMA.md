@@ -12,7 +12,7 @@
 
 ## 醫學
 
-  - [高齡產婦](https://zh.wikipedia.org/wiki/高齡產婦 "wikilink")（Advanced maternal age）
+  - [高齡產婦](../Page/高齡產婦.md "wikilink")（Advanced maternal age）
 
   - , a patient leaving a medical facility early and against the advice of medical staff
 

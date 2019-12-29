@@ -89,33 +89,19 @@ Rosé與其他成員不同，是在正式出道前從未在媒體露過面的新
 [Category:BLACKPINK成員](https://zh.wikipedia.org/wiki/Category:BLACKPINK成員 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:新西蘭女歌手](https://zh.wikipedia.org/wiki/Category:新西蘭女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:日語歌手](https://zh.wikipedia.org/wiki/Category:日語歌手 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:韓國舞者](https://zh.wikipedia.org/wiki/Category:韓國舞者 "wikilink") [Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink") [Category:奧克蘭人](https://zh.wikipedia.org/wiki/Category:奧克蘭人 "wikilink") [Category:墨爾本人](https://zh.wikipedia.org/wiki/Category:墨爾本人 "wikilink") [Category:韓裔紐西蘭人](https://zh.wikipedia.org/wiki/Category:韓裔紐西蘭人 "wikilink") [Category:在韓國的新西兰人](https://zh.wikipedia.org/wiki/Category:在韓國的新西兰人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.

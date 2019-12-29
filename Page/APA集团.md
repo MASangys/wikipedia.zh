@@ -18,7 +18,7 @@ APA是“**A**lways **P**leasant **A**menity”（永远愉快而惬意\[12\]）
 
 ### APA酒店
 
-开展新都市型酒店事业和综合度假村\[14\]，主要服务[出差途中的公司](https://zh.wikipedia.org/wiki/出差 "wikilink")[职员](https://zh.wikipedia.org/wiki/职员 "wikilink")\[15\]。城区外还经营有[高尔夫球场和](https://zh.wikipedia.org/wiki/高爾夫球場 "wikilink")[滑雪场等设施](https://zh.wikipedia.org/wiki/滑雪场 "wikilink")\[16\]。与普通商务酒店不同，APA酒店提供[餐厅和](../Page/餐馆.md "wikilink")[温泉等服务](https://zh.wikipedia.org/wiki/温泉 "wikilink")，亦承接[婚宴](../Page/婚宴.md "wikilink")举办\[17\]\[18\]。除标准的商务型酒店外，客户还可选择较高级的“APA别墅酒店”（），或是更适合观光休闲的“APA度假酒店”（）\[19\]。官网上有使用“阿帕酒店”这一中文名\[20\]\[21\]。
+开展新都市型酒店事业和综合度假村\[14\]，主要服务[出差途中的公司](https://zh.wikipedia.org/wiki/出差 "wikilink")[职员](https://zh.wikipedia.org/wiki/职员 "wikilink")\[15\]。城区外还经营有[高尔夫球场和](../Page/高爾夫球場.md "wikilink")[滑雪场等设施](https://zh.wikipedia.org/wiki/滑雪场 "wikilink")\[16\]。与普通商务酒店不同，APA酒店提供[餐厅和](../Page/餐馆.md "wikilink")[温泉等服务](https://zh.wikipedia.org/wiki/温泉 "wikilink")，亦承接[婚宴](../Page/婚宴.md "wikilink")举办\[17\]\[18\]。除标准的商务型酒店外，客户还可选择较高级的“APA别墅酒店”（），或是更适合观光休闲的“APA度假酒店”（）\[19\]。官网上有使用“阿帕酒店”这一中文名\[20\]\[21\]。
 
 自2011年起，APA酒店几乎每月都在[东京23区内新开一家店铺](https://zh.wikipedia.org/wiki/东京23区 "wikilink")\[22\]，在其他地区则是选择有竞争力的酒店作为“APA酒店伙伴”（），提供与APA酒店通用的网上预订等服务\[23\]。酒店于2011年9月后开展[特许经营模式](https://zh.wikipedia.org/wiki/特许经营 "wikilink")\[24\]，，特许经营店铺已达39家\[25\]\[26\]。
 
@@ -122,144 +122,76 @@ APA集團董事長兼書籍的作者[元谷外志雄](../Page/元谷外志雄.md
 [Category:日本地產公司](https://zh.wikipedia.org/wiki/Category:日本地產公司 "wikilink") [Category:日本建築公司](https://zh.wikipedia.org/wiki/Category:日本建築公司 "wikilink") [Category:家族式企業](https://zh.wikipedia.org/wiki/Category:家族式企業 "wikilink") [Category:餐旅公司](https://zh.wikipedia.org/wiki/Category:餐旅公司 "wikilink") [Category:旅馆品牌](https://zh.wikipedia.org/wiki/Category:旅馆品牌 "wikilink") [Category:中日关系](https://zh.wikipedia.org/wiki/Category:中日关系 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:赤坂](https://zh.wikipedia.org/wiki/Category:赤坂 "wikilink") [Category:1971年成立的公司](https://zh.wikipedia.org/wiki/Category:1971年成立的公司 "wikilink")
 
 1.   【公式】アパグループ |accessdate=2017-01-17 |work=www.apa.co.jp |language=ja |archiveurl=<https://web.archive.org/web/20170108012916/https://www.apa.co.jp/company> |archivedate=2017-01-08 |deadurl=yes }}
-
 2.   【公式】アパグループ |accessdate=2017-01-17 |work=www.apa.co.jp |language=ja |archiveurl=<https://web.archive.org/web/20170108043447/https://www.apa.co.jp/company/company05> |archivedate=2017-01-08 |deadurl=yes }}
-
 3.
-
 4.
-
 5.  官方网站上[历史沿革部分](https://www.apa.co.jp/company/company03)有“APA株式会社的前身，信金开发株式会社”（）的表述。
-
 6.   【公式】アパグループ |accessdate=2017-01-17 |work=www.apa.co.jp |language=ja |archiveurl = <https://web.archive.org/web/20170108032100/http://www.apa.co.jp/company/company03> |archivedate=2017-01-08 |deadurl=yes }}
-
 7.
-
 8.   銀座新聞ニュース |accessdate=2017-01-17 |work=ginzanews.net |date=2016-04-14 |language=ja |archiveurl=<https://web.archive.org/web/20170117115553/http://ginzanews.net/?page_id=31261> |archivedate=2017-01-17 |quote= |deadurl=yes }}
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
 34.
-
 35.  真の近現代史観　懸賞論文 |accessdate=2017-01-17 |work=ronbun.apa.co.jp |language=ja |archiveurl=<https://web.archive.org/web/20160730122554/http://ronbun.apa.co.jp//announce/index.html> |archivedate=2016-07-30 |deadurl=yes }}
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.  AppleTown |accessdate=2017-01-17 |work=apa-appletown.com |language=ja |archiveurl=<https://web.archive.org/web/20161022231147/http://apa-appletown.com/category/wine> |archivedate=2016-10-22 |deadurl=yes }}
-
 66.
-
 67.
-
 68.
-
 69.
 70.  テレビ紹介情報 |accessdate=2017-01-17 |work=kakaku.com |language=ja |archiveurl=<https://web.archive.org/web/20170117170916/http://kakaku.com/tv/channel%3D8/programID%3D13468/page%3D285/> |archivedate=2017-01-17 |quote= |deadurl=yes }}
-
 71.
-
 72.
-
 73.
-
 74.

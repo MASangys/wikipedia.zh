@@ -29,51 +29,27 @@ Access Now是由Brett所罗门和卡梅伦在2009年伊朗的阿什拉夫有争�
 [Category:2009年建立的組織](https://zh.wikipedia.org/wiki/Category:2009年建立的組織 "wikilink") [Category:倡导团体](https://zh.wikipedia.org/wiki/Category:倡导团体 "wikilink") [Category:互联网相关组织](https://zh.wikipedia.org/wiki/Category:互联网相关组织 "wikilink")
 
 1.
-
 2.
-
 3.   Access|accessdate=2015-09-21}}
-
 4.   Access|accessdate=2015-09-21}}
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.  Access|accessdate=2015-09-21}}
-
 13.  Access|accessdate=2015-09-21|deadurl=yes|archiveurl=[https://web.archive.org/web/20151001213834/https://www.accessnow.org/pages/tech|archivedate=2015-10-01](https://web.archive.org/web/20151001213834/https://www.accessnow.org/pages/tech%7Carchivedate=2015-10-01)}}
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.  Access|accessdate=2015-09-21|deadurl=yes|archiveurl=[https://web.archive.org/web/20151001214409/https://www.accessnow.org/about/staff|archivedate=2015-10-01](https://web.archive.org/web/20151001214409/https://www.accessnow.org/about/staff%7Carchivedate=2015-10-01)}}
-
 23.  Access|accessdate=2015-09-22|deadurl=yes|archiveurl=[https://web.archive.org/web/20151001215415/https://www.accessnow.org/about/funding|archivedate=2015-10-01](https://web.archive.org/web/20151001215415/https://www.accessnow.org/about/funding%7Carchivedate=2015-10-01)}}
-
 24.
-
 25.

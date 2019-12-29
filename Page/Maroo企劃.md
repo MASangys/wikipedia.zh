@@ -17,6 +17,10 @@
 
 2019年1月，旗下藝人[朴志訓結束限定團體](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")[Wanna One為期一年半的活動回到所屬社當日即開通了官咖](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[4\]，並接著進行了官方粉絲俱樂部一期會員招募與上架官方個人網站\[5\]。
 
+2019年3月，旗下藝人[朴志訓SOLO出道](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")。
+
+2019年9月，參與[PRODUCE X 101的練習生](../Page/PRODUCE_X_101.md "wikilink")[李宇鎮](https://zh.wikipedia.org/wiki/李宇鎮 "wikilink")、[李太勝](https://zh.wikipedia.org/wiki/李太勝 "wikilink")、[李津宇以特別企劃組合](https://zh.wikipedia.org/wiki/李津宇 "wikilink")[TEEN TEEN出道](../Page/TEEN_TEEN.md "wikilink")。
+
 ## 旗下艺人
 
 ### 男藝人
@@ -32,7 +36,7 @@
   - [金延智](../Page/金延智.md "wikilink")
   - [韩英](https://zh.wikipedia.org/wiki/韩英 "wikilink")
   - [Euna Kim](../Page/Euna_Kim_\(韓國歌手\).md "wikilink")\[6\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
-  - [崔玟熙](../Page/崔玟熙.md "wikilink")(前[myB](https://zh.wikipedia.org/wiki/myB "wikilink")、[BONUSbaby](../Page/BONUSbaby.md "wikilink"))
+  - [崔玟熙](../Page/崔玟熙.md "wikilink")（[BONUSbaby](../Page/BONUSbaby.md "wikilink")、前[myB成員](https://zh.wikipedia.org/wiki/myB "wikilink")）
   - [全珉柱](../Page/全珉柱.md "wikilink")（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - 徐恩彩\[7\]
   - 安多比（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）
@@ -51,9 +55,9 @@
 <td><p>應援色</p></td>
 </tr>
 <tr class="even">
-<td><p>2017年1月1日（韩国）</p></td>
+<td><p>2017年1月1日（韓國）</p></td>
 <td><p><a href="../Page/BONUSbaby.md" title="wikilink">BONUSbaby</a></p></td>
-<td><p>旼熙、夏允、彩賢、多允、佳蘊</p></td>
+<td><p><a href="../Page/崔玟熙.md" title="wikilink">玟熙</a>、夏允、彩賢、多允、佳蘊</p></td>
 <td><p>旼熙</p></td>
 <td></td>
 <td><p>未公佈</p></td>
@@ -71,8 +75,8 @@
 <tr class="even">
 <td><p>2019年9月18日（韓國）</p></td>
 <td><p><a href="../Page/TEEN_TEEN.md" title="wikilink">TEEN TEEN</a></p></td>
-<td><p>李宇鎮、李太勝、李津宇</p></td>
-<td><p>李宇鎮</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李宇鎮" title="wikilink">李宇鎮</a>、<a href="https://zh.wikipedia.org/wiki/李太勝" title="wikilink">李太勝</a>、<a href="https://zh.wikipedia.org/wiki/李津宇" title="wikilink">李津宇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李宇鎮" title="wikilink">李宇鎮</a></p></td>
 <td><p>活動中</p></td>
 <td><p>未公布</p></td>
 <td><p>未公布</p></td>
@@ -92,6 +96,7 @@
   - 1PS（2014—2015）
   - [myB](https://zh.wikipedia.org/wiki/myB "wikilink")（2015—2016）\[8\]
   - [河锡辰](https://zh.wikipedia.org/wiki/河锡辰 "wikilink")
+  - [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")（2015—2018）
   - [Supernova](https://zh.wikipedia.org/wiki/超新星_\(韩国组合\) "wikilink")（2007－2018）
   - 孔瑜真（[BONUSbaby](../Page/BONUSbaby.md "wikilink")）
 
@@ -108,7 +113,7 @@
 
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
-1.  <http://mwave.interest.me/en/kpop-news/article/99015/kim-jong-kook-signs-exclusive-contract-with-maroo-entertainment>
+1.
 2.  <https://www.soompi.com/2016/12/15/ex-myb-members-join-maroo-entertainments-new-girl-group/>
 3.  <http://m.entertain.naver.com/read?oid=109&aid=0003454453>
 4.  <http://cafe.daum.net/park-jihoon>

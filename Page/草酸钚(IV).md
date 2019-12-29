@@ -24,5 +24,4 @@
 
 1.
 2.  DA Nissen. The thermal decomposition of Plutonium (IV) oxalate hexahydrate. Journal of Thermal Analysis and Calorimetry, 1980. 18(1). DOI: 10.1007/BF01909457
-
 3.  Myers, M.N. [THERMAL DECOMPOSITION OF PLUTONIUM(IV) OXALATE AND HYDROFLUORINATION OF PLUTONIUM(IV) OXALATE AND OXIDE](https://www.osti.gov/scitech/servlets/purl/4181389). SciTech Connect, 1956. DOI: 10.2172/4181389

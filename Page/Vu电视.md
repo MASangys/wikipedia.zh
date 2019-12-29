@@ -20,35 +20,22 @@ Vu科技的面板零部件全部进口自中国大陆、台湾、韩国和日本
 [Category:印度科技公司](https://zh.wikipedia.org/wiki/Category:印度科技公司 "wikilink") [Category:显示科技公司](https://zh.wikipedia.org/wiki/Category:显示科技公司 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.

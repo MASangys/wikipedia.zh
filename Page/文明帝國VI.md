@@ -32,7 +32,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a></p></td>
 <td><p><a href="../Page/秦始皇.md" title="wikilink">秦始皇</a></p></td>
 <td><p>始皇帝</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朝代循环" title="wikilink">改朝换代</a></p></td>
+<td><p><a href="../Page/朝代循环.md" title="wikilink">改朝换代</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/虎蹲炮" title="wikilink">虎蹲炮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/万里长城" title="wikilink">长城</a></p></td>
 </tr>

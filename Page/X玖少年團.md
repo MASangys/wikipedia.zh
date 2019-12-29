@@ -68,13 +68,20 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019</p></td>
 <td><p><a href="../Page/烈火英雄.md" title="wikilink">烈火英雄</a></p></td>
 <td><p>谷嘉诚</p></td>
 <td><p>周浩</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>待播</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/充满爱" title="wikilink">充满爱</a></p></td>
+<td><p>谷嘉诚</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -84,32 +91,7 @@
 </tbody>
 </table>
 
-### 網絡劇
-
-| 播映年份  | 劇名                                                              | 播出平台                                                                                     | 出演成员 | 角色  |
-| ----- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---- | --- |
-| 2016年 | [超星星學園](https://zh.wikipedia.org/wiki/超星星學園 "wikilink")         | [騰訊視頻](../Page/腾讯视频.md "wikilink")                                                       | 肖戰   | 方天擇 |
-| 伍嘉成   | 沈昊                                                              |                                                                                          |      |     |
-| 彭楚粵   | 李亞當                                                             |                                                                                          |      |     |
-| 谷嘉誠   | 蘇格拉底                                                            |                                                                                          |      |     |
-| 郭子凡   | 周董                                                              |                                                                                          |      |     |
-| 趙磊    | 毛子尖                                                             |                                                                                          |      |     |
-| 陳澤希   | 傅立葉                                                             |                                                                                          |      |     |
-| 2018年 | [我的法則·辦公室篇](https://zh.wikipedia.org/wiki/我的法則·辦公室篇 "wikilink") | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")                                    | 夏之光  | 光光  |
-| 2018年 | [哦！我的皇帝陛下](../Page/哦！我的皇帝陛下.md "wikilink")                      | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")                                    | 谷嘉誠  | 北堂弈 |
-| 伍嘉成   | 北堂棠                                                             |                                                                                          |      |     |
-| 肖戰    | 北堂墨染                                                            |                                                                                          |      |     |
-| 彭楚粵   | 白無塵                                                             |                                                                                          |      |     |
-| 陳澤希   | 蘇尋仙                                                             |                                                                                          |      |     |
-| 焉栩嘉   | 尚羽                                                              |                                                                                          |      |     |
-| 郭子凡   | 北堂靖                                                             |                                                                                          |      |     |
-| 趙磊    | 谷磊                                                              |                                                                                          |      |     |
-| 夏之光   | 瑶光                                                              |                                                                                          |      |     |
-| 2019年 | [极限17·滑魂](https://zh.wikipedia.org/wiki/极限17·滑魂 "wikilink")     | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")/[芒果TV](../Page/芒果TV.md "wikilink") | 郭子凡  | 楊步凡 |
-| 陳澤希   | 陳晞文                                                             |                                                                                          |      |     |
-|       |                                                                 |                                                                                          |      |     |
-
-### 電視劇
+### 電視劇/網絡劇
 
 <table>
 <thead>
@@ -126,64 +108,218 @@
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/相愛穿梭千年2：月光下的交換" title="wikilink">相愛穿梭千年2：月光下的交換</a></p></td>
 <td><p><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
+<td><p>肖戰</p></td>
 <td><p>梁老板</p></td>
 </tr>
 <tr class="even">
-<td><p>2018年</p></td>
-<td><p><a href="../Page/斗破苍穹_(电视剧).md" title="wikilink">鬥破蒼穹</a></p></td>
-<td><p><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a></p></td>
-<td><p>谷嘉誠</p></td>
-<td><p>虎珈</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超星星學園" title="wikilink">超星星學園</a></p></td>
+<td><p><a href="../Page/腾讯视频.md" title="wikilink">騰訊視頻</a></p></td>
+<td><p>肖戰</p></td>
+<td><p>方天擇</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>伍嘉成</p></td>
-<td><p>昊天</p></td>
+<td><p>沈昊</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
-<td><p>林修崖</p></td>
+<td><p>彭楚粵</p></td>
+<td><p>李亞當</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>彭楚粵</p></td>
-<td><p>韓閑</p></td>
+<td><p>谷嘉誠</p></td>
+<td><p>蘇格拉底</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>郭子凡</p></td>
+<td><p>周董</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>趙磊</p></td>
+<td><p>毛子尖</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>陳澤希</p></td>
-<td><p>夜嵐</p></td>
+<td><p>傅立葉</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2018年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的法則·辦公室篇" title="wikilink">我的法則·辦公室篇</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>夏之光</p></td>
+<td><p>光光</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/哦！我的皇帝陛下.md" title="wikilink">哦！我的皇帝陛下</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>谷嘉誠</p></td>
+<td><p>北堂弈/佳成</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>伍嘉成</p></td>
+<td><p>北堂棠</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>肖戰</p></td>
+<td><p>北堂墨染</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>彭楚粵</p></td>
+<td><p>白無塵</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>陳澤希</p></td>
+<td><p>蘇尋仙</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>焉栩嘉</p></td>
+<td><p>尚羽</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>郭子凡</p></td>
+<td><p>北堂靖</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>趙磊</p></td>
+<td><p>谷磊</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>夏之光</p></td>
+<td><p>瑶光</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/斗破苍穹_(电视剧).md" title="wikilink">鬥破蒼穹</a></p></td>
+<td><p><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a></p></td>
+<td><p>谷嘉誠</p></td>
+<td><p>虎珈</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>伍嘉成</p></td>
+<td><p>昊天</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>肖戰</p></td>
+<td><p>林修崖</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>彭楚粵</p></td>
+<td><p>韓閑</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>陳澤希</p></td>
+<td><p>夜嵐</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p><a href="../Page/陪你到世界之巅.md" title="wikilink">陪你到世界之巅</a></p></td>
 <td><p><a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
 <td><p>焉栩嘉</p></td>
 <td><p>夏凌</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/陈情令.md" title="wikilink">陈情令</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
+<td><p>肖戰</p></td>
 <td><p>魏無羨</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/小欢喜.md" title="wikilink">小欢喜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東方衛視" title="wikilink">東方衛視</a><br />
 <a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p>郭子凡</p></td>
 <td><p>季杨杨</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/九千米的爱情.md" title="wikilink">九千米的爱情</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>夏之光</p></td>
+<td><p>周宇航</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/极限17：滑魂.md" title="wikilink">极限17：滑魂</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a>/<a href="../Page/芒果TV.md" title="wikilink">芒果TV</a></p></td>
+<td><p>郭子凡</p></td>
+<td><p>楊步凡</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>陳澤希</p></td>
+<td><p>陳晞文</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/扑通扑通的青春.md" title="wikilink">扑通扑通的青春</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/优酷视频" title="wikilink">优酷视频</a></p></td>
+<td><p>谷嘉誠</p></td>
+<td><p>江白龙</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/庆余年.md" title="wikilink">庆余年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>肖戰</p></td>
+<td><p>言冰雲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -195,53 +331,53 @@
 （少年）</p></td>
 </tr>
 <tr class="odd">
-<td><p>待播</p></td>
 <td><p><a href="../Page/狼殿下.md" title="wikilink">狼殿下</a></p></td>
 <td><p>未知</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
+<td><p>肖戰</p></td>
 <td><p>疾衝</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>待播</p></td>
-<td><p><a href="../Page/庆余年.md" title="wikilink">庆余年</a></p></td>
-<td><p>未知</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
-<td><p>言冰雲</p></td>
-</tr>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/九千米的爱情.md" title="wikilink">九千米的爱情</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
-<td><p>夏之光</p></td>
-<td><p>周宇航</p></td>
-</tr>
-<tr class="even">
-<td><p>待播</p></td>
-<td><p><a href="../Page/扑通扑通的青春.md" title="wikilink">扑通扑通的青春</a></p></td>
-<td><p>未知</p></td>
-<td><p>谷嘉诚</p></td>
-<td><p>江白龙</p></td>
-</tr>
-<tr class="odd">
-<td><p>待播</p></td>
 <td><p><a href="../Page/斗罗大陆_(电视剧).md" title="wikilink">斗罗大陆</a></p></td>
 <td><p>未知</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>拍摄中</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南歌" title="wikilink">南歌</a></p></td>
-<td><p>未知</p></td>
-<td><p>谷嘉诚</p></td>
+<td><p>肖戰</p></td>
+<td><p>唐三</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>拍摄中</p></td>
+<td><p><a href="../Page/南歌.md" title="wikilink">南歌</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>谷嘉誠</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/乘风少年" title="wikilink">乘风少年</a></p></td>
+<td><p>未知</p></td>
+<td><p>伍嘉成</p></td>
+<td><p>顾阳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/余生，请多指教.md" title="wikilink">余生，请多指教</a></p></td>
 <td><p><a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肖戰" title="wikilink">肖戰</a></p></td>
+<td><p>肖戰</p></td>
 <td><p>顾魏</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/十二譚.md" title="wikilink">十二谭</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/优酷视频" title="wikilink">优酷视频</a></p></td>
+<td><p>谷嘉誠</p></td>
+<td><p>莲玄</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>老友餐厅</p></td>
+<td><p>未知</p></td>
+<td><p>伍嘉成</p></td>
+<td><p>耿之南</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -430,36 +566,27 @@
 <tr class="odd">
 <td><p>2016年1月16日</p></td>
 <td><p>Who I Am（RAP）</p></td>
-<td><center>
-<p>谷嘉誠[14]</p></td>
-<td><center>
-<p>-</p></td>
-<td><center>
-<p>-</p></td>
+<td><p>谷嘉誠[14]</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>《<a href="../Page/燃燒吧少年.md" title="wikilink">燃燒吧少年</a>》第九期RAP担当对战</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年4月25日</p></td>
 <td><p>踩影子</p></td>
-<td><center>
-<p>彭楚粵[15]</p></td>
-<td><center>
-<p>彭楚粵</p></td>
-<td><center>
-<p>-</p></td>
+<td><p>彭楚粵[15]</p></td>
+<td><p>彭楚粵</p></td>
+<td><p>-</p></td>
 <td><p>《<a href="../Page/哦！我的皇帝陛下.md" title="wikilink">哦！我的皇帝陛下</a>》插曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月20日</p></td>
 <td><p>炽热</p></td>
-<td><center>
-<p>谷嘉誠、焉栩嘉<ref><a href="http://www.zynews.com/yule/2018052147287.html">X玖少年团新歌酷狗大热，焉栩嘉谷嘉诚作词，粉丝：燃爆了</a></p>
+<td><p>谷嘉誠、焉栩嘉<ref><a href="http://www.zynews.com/yule/2018052147287.html">X玖少年团新歌酷狗大热，焉栩嘉谷嘉诚作词，粉丝：燃爆了</a></p>
 </center>
 <p></ref></p></td>
-<td><center>
-<p>-</p></td>
-<td><center>
-<p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>X玖少年团《Keep Online》专辑</p></td>
 </tr>
 <tr class="even">

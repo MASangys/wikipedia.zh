@@ -50,13 +50,8 @@
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:安装软件](https://zh.wikipedia.org/wiki/Category:安装软件 "wikilink")
 
 1.  <http://support.microsoft.com/kb/82731>
-
 2.  <http://support.microsoft.com/kb/103939>
-
 3.  <http://support.microsoft.com/kb/926069>
-
 4.
-
 5.
-
 6.

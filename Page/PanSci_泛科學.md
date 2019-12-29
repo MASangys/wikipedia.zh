@@ -38,7 +38,7 @@
 
   -
   -
-  - [Pansci泛科學 - 泛答](https://panswer.me/profiles/u201611291207844534)
+  - [Pansci泛科學 - 泛答](https://web.archive.org/web/20170308224338/https://panswer.me/profiles/u201611291207844534)
 
   - [PanSci 泛科學| 台灣數位文化協會](http://www.adct.org.tw/services-plans/pansci)
 
@@ -51,44 +51,27 @@
 [Category:臺灣媒體改革運動](https://zh.wikipedia.org/wiki/Category:臺灣媒體改革運動 "wikilink") [Category:台灣新聞網站](https://zh.wikipedia.org/wiki/Category:台灣新聞網站 "wikilink") [Category:中文新聞網站](https://zh.wikipedia.org/wiki/Category:中文新聞網站 "wikilink") [Category:科普](https://zh.wikipedia.org/wiki/Category:科普 "wikilink") [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:臺灣科學組織](https://zh.wikipedia.org/wiki/Category:臺灣科學組織 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
 13.
 14.
 15.
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.

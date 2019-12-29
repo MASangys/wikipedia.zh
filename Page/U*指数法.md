@@ -9,13 +9,9 @@
 [Category:机械设计](https://zh.wikipedia.org/wiki/Category:机械设计 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

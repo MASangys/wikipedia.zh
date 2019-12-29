@@ -19,7 +19,7 @@
   - 同年7月13日，成員丁俟江、李宇鎭以《[Love is....(사랑은....)](https://www.youtube.com/watch?v=QglLFncNbGs)》回歸。
   - 同年7月26日，以《[I Got You](https://www.youtube.com/watch?v=1oxOnWws0UQ)》回歸。
 
-### 2018年：《Real Man(레알 남자)》
+### 2018年：《Real Man(레알 남자)》、解散
 
   - 2018年1月18日，The EastLight.以《[Real Man(레알 남자)](https://www.youtube.com/watch?v=SiQeBQLBu3U)》回歸
   - 2018年4月26日，The EastLight.發布《[넌 괜찮니](https://www.youtube.com/watch?v=xaTeFGsYkUw)》單曲

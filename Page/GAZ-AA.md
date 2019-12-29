@@ -46,16 +46,11 @@
 [Category:貨車](https://zh.wikipedia.org/wiki/Category:貨車 "wikilink") [Category:軍用卡車](https://zh.wikipedia.org/wiki/Category:軍用卡車 "wikilink") [Category:蘇聯武器](https://zh.wikipedia.org/wiki/Category:蘇聯武器 "wikilink")
 
 1.  『《Technology transfer to the USSR, 1928-1937 and 1966-1975: The role of Western technology in Soviet economic development》』第116頁
-
 2.  『《German Military Vehicles of World War II: An Illustrated Guide to Cars, Trucks, Half-Tracks, Motorcycles, Amphibious Vehicles and Others》』第88頁
-
 3.
 4.  『《Prices of Tractors, Trucks, and Automobiles, U.S.S.R., 1928-1949》』第16頁
-
 5.
 6.  『《Modern Fighting Vehicles》』第136頁
-
 7.  『Кочнев, Е.Д. (2008). Энциклопедия военных автомобилей. - 2-е изд., Перераб. и доп.. М.: ООО 《Книжное издательство "За рулем"》.』第640頁
-
 8.
 9.

@@ -348,10 +348,10 @@ function calendar:setYearRange( year1, year2 )
 `   if type( year1 ) == 'number' and type( year2 ) == 'number' then`
 `       local year`
 `       if year1 < 0 or year2 < 0 then -- Leave a gap for negative years to avoid having a minus sign and a dash right next to each other.`
-`           year = string.format( '%d – %d', year1, year2 )`
+`           year = string.format( '%d年－ %d年', year1, year2 )`
 `           year = formatNegative( year )`
 `       else`
-`           year = string.format( '%d–%d', year1, year2 )`
+`           year = string.format( '%d年－%d年', year1, year2 )`
 `       end`
 `       self.year = year`
 `   end`
@@ -1092,7 +1092,7 @@ local function makeCalendarBox( args )
 `   unix.nextYear = getUnixTime( year + 1 )`
 `   if unix.thisYear and unix.nextYear then`
 `       unix:setLink( 'UNIX时间' )`
-`       unix:setYear( (unix.thisYear + 1) .. " – " .. unix.nextYear )`
+`       unix:setYear( (unix.thisYear + 1) .. "－" .. unix.nextYear )`
 `   end`
 
 `   box:addCalendar( unix )`

@@ -57,7 +57,8 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
 | 原創單曲                                                                       |                         |                                    |
 | [2015年](../Page/2015年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")   | **HIKAKIN & SEIKIN「」**  | [下载](../Page/數位音樂下載.md "wikilink") |
 | [2017年](../Page/2017年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") | **HIKAKIN & SEIKIN「」**  | [下载](../Page/數位音樂下載.md "wikilink") |
-| [2018年](../Page/2018年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")   | **HIKAKIN & SEIKIN「今」** |                                    |
+| [2018年](../Page/2018年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")   | **HIKAKIN & SEIKIN「今」** | [下载](../Page/數位音樂下載.md "wikilink") |
+| [2018年](../Page/2018年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink") | **HIKAKIN & SEIKIN「」**  | [下载](../Page/數位音樂下載.md "wikilink") |
 
 ### 专辑
 

@@ -89,14 +89,19 @@
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Linda_Kennedy" title="wikilink">Linda Kennedy</a></p></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Vijitra_Duangdee" title="wikilink">Vijitra Duangdee</a></p></td>
+</tr>
 </tbody>
 </table>
 
 ### 前員工
 
-|                               **去向不明或待業**                               |
-| :---------------------------------------------------------------------: |
-| [Pamela Ambler](https://zh.wikipedia.org/wiki/Pamela_Ambler "wikilink") |
+|                          **近況：轉投[有線新聞](https://zh.wikipedia.org/wiki/有線新聞 "wikilink")**                           |
+| :---------------------------------------------------------------------------------------------------------------: |
+| [Diane To](https://zh.wikipedia.org/wiki/Diane_To "wikilink")／[杜若渝](https://zh.wikipedia.org/wiki/杜若渝 "wikilink") |
+|                                                  **近況：去向不明或待業**                                                   |
+|                      [Pamela Ambler](https://zh.wikipedia.org/wiki/Pamela_Ambler "wikilink")                      |
 
 ## 参考资料
 

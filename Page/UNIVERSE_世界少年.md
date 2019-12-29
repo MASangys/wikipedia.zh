@@ -143,7 +143,7 @@
 
 <!-- end list -->
 
-  - [UNIVERSE - 世界少年 :: 유니버스](https://www.facebook.com/officialuniverseboys)
+  - [UNVS的Facebook專頁](https://m.facebook.com/officialunvs/)
 
 <!-- end list -->
 
@@ -151,15 +151,7 @@
 
 <!-- end list -->
 
-  - [official_universeboys](https://www.instagram.com/official_universeboys/)
-
-<!-- end list -->
-
-  - ;Youtube
-
-<!-- end list -->
-
-  - [UNIVERSE-世界少年](https://www.youtube.com/channel/UCfTtFc3v4Ys_SiwPBs_C5Cg)
+  - [UNVS的Instagram帳戶](https://instagram.com/official.unvs?igshid=1y3lcu77vcrt/)
 
 <!-- end list -->
 
@@ -167,7 +159,7 @@
 
 <!-- end list -->
 
-  - [UNIVERSE世界少年](https://twitter.com/universe161221)
+  - [UNVS的Twitter帳戶](http://www.twitter.com/unvs_official/)
 
 <!-- end list -->
 
@@ -175,7 +167,7 @@
 
 <!-- end list -->
 
-  - [UNIVERSE世界少年](http://www.weibo.com/u/5990896742)
+  - [UNVS的新浪微博](http://www.weibo.com/u/5990896742/)
 
 <!-- end list -->
 
@@ -192,7 +184,7 @@
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.  [UNIVERSE世界少年 誓言以最誠懇態度來台](https://www.mymusic.net.tw/ezpc/w/editOffice/news/show/1962)
-2.  [UNIVERSE 世界少年將來台 Long Stay！](http://kpopn.niusnews.com/=K0nh3lg8)
+2.
 3.
 4.
 5.

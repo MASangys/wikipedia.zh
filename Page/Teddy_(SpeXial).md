@@ -1,4 +1,4 @@
-**陳向熙**（英文名：Teddy，），藝名**Teddy**，台灣男藝人。粉絲名為「蜂蜜」。曾參加上海模特選拔，是上海模特兒比賽出身，透過網路被星探發掘。此後成為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Evan於](../Page/Evan_\(SpeXial\).md "wikilink")2014年6月5日正式從SpeXial 出道。現為《[綜藝3國智](../Page/綜藝3國智.md "wikilink")》、《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》的主持人。
+**陳向熙**（英文名：Teddy，），藝名**Teddy**，台灣男藝人。粉絲名為「蜂蜜」。曾參加上海模特選拔，是上海模特兒比賽出身，透過網路被星探發掘。此後成為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期前成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Evan於](../Page/Evan_\(SpeXial\).md "wikilink")2014年6月5日正式從SpeXial 出道。現為《[綜藝3國智](../Page/綜藝3國智.md "wikilink")》、《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》的主持人。
 
 ## 音樂作品
 
@@ -158,7 +158,7 @@
 <td><p>主持人</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017年4月07日</p></td>
+<td><p>2017年4月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我愛偶像" title="wikilink">我愛偶像</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
@@ -175,11 +175,10 @@
 | 2019年9月13日                                               | [綜藝新時代](../Page/綜藝新時代.md "wikilink")                                                         | [民視無線台](../Page/民視無線台.md "wikilink") | 來賓 |
 | |[綜藝大集合](../Page/綜藝大集合.md "wikilink")                    | [民視無線台](../Page/民視無線台.md "wikilink")                                                         | 來賓                                   |    |
 | |[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")                    | [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")                                            | 來賓                                   |    |
-| |[全民星攻略](../Page/全民星攻略.md "wikilink")                    | [東森綜合台](../Page/東森綜合台.md "wikilink")                                                         |                                      |    |
-| |[請問 今晚住誰家](../Page/請問_今晚住誰家.md "wikilink")              |                                                                                              |                                      |    |
-| |[美鳳有約](https://zh.wikipedia.org/wiki/美鳳有約 "wikilink")   | [民視無線台](../Page/民視無線台.md "wikilink")                                                         |                                      |    |
+| |[全民星攻略](../Page/全民星攻略.md "wikilink")                    | [東森綜合台](../Page/東森綜合台.md "wikilink")                                                         | 來賓                                   |    |
+| |[請問 今晚住誰家](../Page/請問_今晚住誰家.md "wikilink")              | [東森超視](../Page/東森超視.md "wikilink")                                                           | 來賓                                   |    |
 | |[台視17Q](../Page/台視17Q.md "wikilink")                    | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")                                            | 來賓                                   |    |
-| |[型男大主廚](../Page/型男大主廚.md "wikilink")                    |                                                                                              | 來賓                                   |    |
+| |[型男大主廚](../Page/型男大主廚.md "wikilink")                    | [三立都會台](../Page/三立都會台.md "wikilink")                                                         | 來賓                                   |    |
 
 ## 出版物
 
@@ -199,7 +198,7 @@
   - [SpeXial晨翔與Teddy玩親親　狂吐送醫打點滴](http://www.appledaily.com.tw/realtimenews/article/new/20141221/527976/)
   - [SpeXial玩遊戲 Teddy貼臉粉絲](http://news.ltn.com.tw/news/entertainment/paper/807183)
   - [晨翔同志天菜 Teddy總當好人](http://udn.com/news/story/7260/608366)
-  - [分享你糗問答／引路人熊亞告訴你　SpeXial裡誰最Special！](http://angelanddevil.fanily.com.tw/detail.do?id=946670039191747)
+  - [分享你糗問答／引路人熊亞告訴你　SpeXial裡誰最Special！](https://web.archive.org/web/20150219072602/http://angelanddevil.fanily.com.tw/detail.do?id=946670039191747)
   - [人氣惡女來啦！　快睜大你的眼睛看仔細～](http://angelanddevil.fanily.com.tw/detail.do?id=906313766427287)
   - [最可愛寵物系BOY　《終極》毛小孩代言人是他…](http://curate.fanily.com.tw/detail.do?id=790184140465978)
   - [SpeXial晨翔生日被整　搞到面目全非](http://www.appledaily.com.tw/realtimenews/article/new/20150104/535897/)

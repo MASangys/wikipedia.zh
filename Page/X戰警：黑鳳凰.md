@@ -1,6 +1,6 @@
-《**X戰警：黑鳳凰**》（，或記作）是2019年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，角色取自[漫威漫畫](../Page/漫威漫畫.md "wikilink")的漫畫書《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》，由[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")制作，[华特迪士尼工作室电影发行](https://zh.wikipedia.org/wiki/华特迪士尼工作室电影 "wikilink")。該片為「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第十二部作品，也是其系列最終回。本片原本作為全新的X戰警電影三部曲的首部曲，但在迪士尼收購影響下，確認為「X戰警系列電影」最終章。其後福斯重新製作，並且由迪士尼發行。也是第一部由迪士尼發行非「[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")」的漫威電影。
+《**X戰警：黑鳳凰**》（，或記作）是2019年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，角色取自[漫威漫畫](../Page/漫威漫畫.md "wikilink")的漫畫書《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》，由[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")制作並通過[华特迪士尼工作室电影執行发行](https://zh.wikipedia.org/wiki/华特迪士尼工作室电影 "wikilink")。該片為「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第十二部作品，也是其系列最終回。本片原本作為全新的X戰警電影三部曲的首部曲，但在迪士尼收購影響下，確認為「X戰警系列電影」最終章。其後福斯重新製作，並且由迪士尼發行。也是第一部由迪士尼發行非「[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")」的漫威電影。
 
-《X戰警：黑鳳凰》由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")執導及編劇，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")以及[潔西卡·雀絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")。
+《X戰警：黑鳳凰》由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")執導及編劇，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")以及[潔西卡·崔絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·崔絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")。
 
 由於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》重置了「X戰警系列電影」的時間線，金柏格開始對所著的《》進行一次全新且更為忠於原作的改編，且比早前他在《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》時的嘗試還更為投入。2016年4月，片商證實《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》的續集將改編自《黑鳳凰傳奇》。金柏格於2017年6月簽約執導該片，值得一提的是，該片也是金柏格的導演[處女作](../Page/處女作.md "wikilink")。6月，大多數的《X戰警：天啟》演員陸陸續續地回歸，而[主體拍攝則於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")6月28日在[蒙特婁開始](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。
 
@@ -92,7 +92,7 @@ Quicksilver／Pietro Maximoff</p></td>
 <td><p>變種人，萬磁王的兒子，擁有超越音速的移動能力。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/潔西卡·雀絲坦" title="wikilink">潔西卡·雀絲坦</a>[10]<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/潔西卡·崔絲坦" title="wikilink">潔西卡·崔絲坦</a>[10]<br />
 Jessica Chastain</p></td>
 <td><p>武科<br />
 Vuk</p></td>
@@ -123,11 +123,11 @@ Margaret Smith</p></td>
 
 金柏格在2017年3月初表示，他與製片人哈奇·帕克已開始為電影的籌備作業進行準備，而《X-Men: Supernova》只是他們給續集的一個代號罷了。他說，他們早在《X戰警：天啟》的後期製作階段便開始討論該片的故事，他們想拍一部「狂放且激進的電影，以與《[羅根](../Page/羅根_\(電影\).md "wikilink")》那讓人感到狂放且激進的方式來擴展宇宙，而《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》也正是使用了這種方法」\[27\]。福斯於4月釋出官方片名《X-Men: Dark Phoenix》，並定於2018年11月2日發行\[28\]。5月，法斯賓達表示，他將回歸出演該片\[29\]。帕克暗示了年輕版的[小淘氣](../Page/小淘氣.md "wikilink")可能會客串出現在片中\[30\]，而電影也可能去探索《黑鳳凰傳奇》的主線劇情中的宇宙元素\[31\]。
 
-6月，據傳，名為的外星種族將出現在片中\[32\]，而[安潔莉娜·裘莉則關注著其中一名角色](https://zh.wikipedia.org/wiki/安潔莉娜·裘莉 "wikilink")，儘管她並沒有簽約飾演該角色的意願。[潔西卡·雀絲坦也正關注著相同的角色](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")\[33\]。福斯證實，金柏格將會執導該片，麥艾維、法斯賓達、勞倫斯和霍特皆簽下了一部以上的電影。除了特納以外，據報導，其他《X戰警：天啟》的演員[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")與[寇帝·史密-麥菲](../Page/寇帝·史密-麥菲.md "wikilink")也紛紛回歸，而該片的製片人則由金柏格、辛格、帕克與擔任。雀絲坦加盟飾演反派帝國的女王。據傳，該片的劇本與《X戰警：最後戰役》相比，「更接近」原來的《黑鳳凰傳奇》\[34\]\[35\]。據報導，曾在《X戰警：天啟》的刪減片段中出現的將客串出現在片中\[36\]。
+6月，據傳，名為的外星種族將出現在片中\[32\]，而[安潔莉娜·裘莉則關注著其中一名角色](https://zh.wikipedia.org/wiki/安潔莉娜·裘莉 "wikilink")，儘管她並沒有簽約飾演該角色的意願。[潔西卡·崔絲坦也正關注著相同的角色](https://zh.wikipedia.org/wiki/潔西卡·崔絲坦 "wikilink")\[33\]。福斯證實，金柏格將會執導該片，麥艾維、法斯賓達、勞倫斯和霍特皆簽下了一部以上的電影。除了特納以外，據報導，其他《X戰警：天啟》的演員[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")與[寇帝·史密-麥菲](../Page/寇帝·史密-麥菲.md "wikilink")也紛紛回歸，而該片的製片人則由金柏格、辛格、帕克與擔任。崔絲坦加盟飾演反派帝國的女王。據傳，該片的劇本與《X戰警：最後戰役》相比，「更接近」原來的《黑鳳凰傳奇》\[34\]\[35\]。據報導，曾在《X戰警：天啟》的刪減片段中出現的將客串出現在片中\[36\]。
 
 ### 拍攝
 
-該片的[主體拍攝始於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2017年6月28日，地點位在[加拿大](../Page/加拿大.md "wikilink")[魁北克省](../Page/魁北克省.md "wikilink")的[蒙特婁](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")\[37\]\[38\]，[暫定名稱為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「Teen Spirit」\[39\]。6月底前，[伊凡·彼得斯回歸於該片中飾演](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[快銀](../Page/快銀.md "wikilink")，而則加盟飾演一名未知的角色\[40\]。8月初，雀絲坦證實自己已簽約加盟劇組\[41\]。金柏格表示，他希望該片能像之前的X戰警電影那樣「富含人性」且「感情強烈」\[42\]。9月，[鋼人的演員](../Page/鋼人_\(漫威漫畫\).md "wikilink")[丹尼爾·寇德摩爾](../Page/丹尼爾·寇德摩爾.md "wikilink")簽約加盟劇組，但是否會再次飾演鋼人仍是未知\[43\]。[奧莉薇亞·孟恩在](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")9月底證實，她將回歸飾演[靈蝶](../Page/靈蝶.md "wikilink")，並將靈蝶與黑鳳凰兩人描述為「一對好搭檔」\[44\]。《X戰警：黑鳳凰》在蒙特婁的拍攝作業於10月14日結束\[45\]\[46\]。
+該片的[主體拍攝始於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2017年6月28日，地點位在[加拿大](../Page/加拿大.md "wikilink")[魁北克省](../Page/魁北克省.md "wikilink")的[蒙特婁](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")\[37\]\[38\]，[暫定名稱為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「Teen Spirit」\[39\]。6月底前，[伊凡·彼得斯回歸於該片中飾演](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[快銀](../Page/快銀.md "wikilink")，而則加盟飾演一名未知的角色\[40\]。8月初，崔絲坦證實自己已簽約加盟劇組\[41\]。金柏格表示，他希望該片能像之前的X戰警電影那樣「富含人性」且「感情強烈」\[42\]。9月，[鋼人的演員](../Page/鋼人_\(漫威漫畫\).md "wikilink")[丹尼爾·寇德摩爾](../Page/丹尼爾·寇德摩爾.md "wikilink")簽約加盟劇組，但是否會再次飾演鋼人仍是未知\[43\]。[奧莉薇亞·孟恩在](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")9月底證實，她將回歸飾演[靈蝶](../Page/靈蝶.md "wikilink")，並將靈蝶與黑鳳凰兩人描述為「一對好搭檔」\[44\]。《X戰警：黑鳳凰》在蒙特婁的拍攝作業於10月14日結束\[45\]\[46\]。
 
 ## 音樂
 
@@ -145,7 +145,7 @@ Margaret Smith</p></td>
 
 ### 評價
 
-本片獲得了普遍負面的評價。[爛番茄](../Page/爛番茄.md "wikilink")根據349條評論，持有23%的新鮮度，平均得分4.64／10，觀眾投票則給出64%的分數，平均得分為3.63／5\[54\]。在[Metacritic](../Page/Metacritic.md "wikilink")上，電影獲得了43分\[55\]。
+本片獲得了普遍負面的評價。[爛番茄](../Page/爛番茄.md "wikilink")根據351條評論，持有23%的新鮮度，平均得分4.63／10，觀眾投票獲得64%的分數，平均得分為3.63／5\[54\]。在[Metacritic](../Page/Metacritic.md "wikilink")上，電影獲得了43分\[55\]。
 
 ### 票房
 
@@ -156,10 +156,6 @@ Margaret Smith</p></td>
 2016年5月，金柏格表示，他希望《X戰警：黑鳳凰》能成為全新的X戰警電影三部曲的首部曲\[61\]。2017年12月，[華特迪士尼公司](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[收購了二十一世紀福斯](../Page/迪士尼收購21世紀福斯.md "wikilink")，迪士尼CEO[勞勃·艾格表示](https://zh.wikipedia.org/wiki/勞勃·艾格 "wikilink")，[X戰警系列電影將與迪士尼旗下的](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")[漫威電影宇宙結合](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[62\]。目前除[萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")飾演的「[死侍](../Page/死侍.md "wikilink")」外，其餘全數將重啟製作。
 
 ## 備註
-
-<div class="references-small">
-
-</div>
 
 ## 參考資料
 
@@ -176,7 +172,7 @@ Margaret Smith</p></td>
   -
   -
   -
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink") [Category:2019年3D电影](https://zh.wikipedia.org/wiki/Category:2019年3D电影 "wikilink") [Category:2019年美國電影](https://zh.wikipedia.org/wiki/Category:2019年美國電影 "wikilink") [Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink") [Category:2010年代冒险片](https://zh.wikipedia.org/wiki/Category:2010年代冒险片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:美國動作片](https://zh.wikipedia.org/wiki/Category:美國動作片 "wikilink") [Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink") [Category:美國續集電影](https://zh.wikipedia.org/wiki/Category:美國續集電影 "wikilink") [Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:1975年背景電影](https://zh.wikipedia.org/wiki/Category:1975年背景電影 "wikilink") [Category:1992年背景電影](https://zh.wikipedia.org/wiki/Category:1992年背景電影 "wikilink") [Category:蒙特利尔取景电影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景电影 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:X戰警電影](https://zh.wikipedia.org/wiki/Category:X戰警電影 "wikilink") [Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink") [Category:悲劇電影](https://zh.wikipedia.org/wiki/Category:悲劇電影 "wikilink")
+[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink") [Category:2019年3D电影](https://zh.wikipedia.org/wiki/Category:2019年3D电影 "wikilink") [Category:2019年美國電影](https://zh.wikipedia.org/wiki/Category:2019年美國電影 "wikilink") [Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink") [Category:2010年代冒险片](https://zh.wikipedia.org/wiki/Category:2010年代冒险片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:美國動作片](https://zh.wikipedia.org/wiki/Category:美國動作片 "wikilink") [Category:美國科幻動作片](https://zh.wikipedia.org/wiki/Category:美國科幻動作片 "wikilink") [Category:美國續集電影](https://zh.wikipedia.org/wiki/Category:美國續集電影 "wikilink") [Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:1975年背景電影](https://zh.wikipedia.org/wiki/Category:1975年背景電影 "wikilink") [Category:1992年背景電影](https://zh.wikipedia.org/wiki/Category:1992年背景電影 "wikilink") [Category:蒙特利尔取景电影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景电影 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink") [Category:悲劇電影](https://zh.wikipedia.org/wiki/Category:悲劇電影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:X戰警電影](https://zh.wikipedia.org/wiki/Category:X戰警電影 "wikilink") [Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink") [Category:賽門·金柏格電影](https://zh.wikipedia.org/wiki/Category:賽門·金柏格電影 "wikilink")
 
 1.
 2.
@@ -228,22 +224,15 @@ Margaret Smith</p></td>
 48.
 49.
 50.
-
 51.
 52.
 53.
 54.
-
 55.
-
 56.
-
 57.
 58.
-
 59.
-
 60.
-
 61.
 62.

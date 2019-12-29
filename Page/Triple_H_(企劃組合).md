@@ -277,23 +277,23 @@
 ## 外部連結
 
   -
-[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
+[Category:Cube娛樂](https://zh.wikipedia.org/wiki/Category:Cube娛樂 "wikilink") [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink")
 
-1.  [泫雅、Hui、E'Dawn 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2) 2017-04-04.
+1.  [泫雅、Hui、E'Dawn 組成「Triple H」](http://kpopn.niusnews.com/=K3102ju2)  2017-04-04.
 2.  [170419 Triple H 兴新所 EP 01](http://v.yinyuetai.com/video/2844187)
 3.  [泫雅組新企劃小分隊回歸 5月初進行活動](http://www.allthatstar.com/tw/view.php?action=5205&postID=323695) 2017-03-21
 4.  [Triple H 企劃組合 Logo](https://twitter.com/cubeunited/status/848913832684736512) 2017-04-03.
 5.  [泫雅新小分隊logo公開 攜Hui、E'Dawn組Triple H](http://www.allthatstar.com/tw/view.php?action=5207&postID=325226)  2017-04-04.
-6.  [Triple H 將推出綜藝節目，19日首播](http://kpopn.niusnews.com/=K1db9od4) 2017-04-05.
-7.  [泫雅新限定團體「Triple H」首波概念照](http://kpopn.niusnews.com/=K1drmrb4) 2017-04-12.
-8.  [Triple H 個人概念照公開](http://kpopn.niusnews.com/=K1rn4rb1) 2017-04-13.
+6.  [Triple H 將推出綜藝節目，19日首播](http://kpopn.niusnews.com/=K1db9od4)  2017-04-05.
+7.  [泫雅新限定團體「Triple H」首波概念照](http://kpopn.niusnews.com/=K1drmrb4)  2017-04-12.
+8.  [Triple H 個人概念照公開](http://kpopn.niusnews.com/=K1rn4rb1)  2017-04-13.
 9.  [「Triple H 興新所」預告](https://www.youtube.com/watch?v=5GMr-l6LumY) 2017-04-13.
-10. [Triple H 5月1日發行新作，預告公開](http://kpopn.niusnews.com/=K0nv3o38) 2017-04-17.
-11. [Triple H 首張迷你專輯《199X》曲目表](http://kpopn.niusnews.com/=K03kw282) 2017-04-21.
+10. [Triple H 5月1日發行新作，預告公開](http://kpopn.niusnews.com/=K0nv3o38)  2017-04-17.
+11. [Triple H 首張迷你專輯《199X》曲目表](http://kpopn.niusnews.com/=K03kw282)  2017-04-21.
 12. [PENTAGON Hui對NEVER一位還沒有實感 最感謝PRODUCE 101 S2的練習生](http://entertain.naver.com/read?oid=109&aid=0003551150)2017-06-05
 13. [Triple H製作歌曲Never 8個音源排行榜 All Kill](http://entertain.naver.com/read?oid=215&aid=0000553962)2017-06-05
 14. [Produce排名一位Never 製作的泫雅 x Hui x E'Dawn的Triple H 再發現](http://entertain.naver.com/read?oid=312&aid=0000262841)2017-06-05
-15. [Hui：《Never》多虧有國民的兒子](http://kpopn.niusnews.com/=K318tf82)2017-06-06
+15. [Hui：《Never》多虧有國民的兒子](http://kpopn.niusnews.com/=K318tf82) 2017-06-06
 16.
 17.
 18.

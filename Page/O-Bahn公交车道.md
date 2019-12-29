@@ -1,6 +1,6 @@
 **O-Bahn公交车道**（简称**O-Bahn**，[音译](../Page/音译.md "wikilink")**奥巴恩**）是位于[南澳大利亚州](../Page/南澳大利亚州.md "wikilink")[阿德莱德](../Page/阿德莱德.md "wikilink")的[导向公交车道](../Page/導向巴士.md "wikilink")。该车道作为当地[快速公交系统的一部分](https://zh.wikipedia.org/wiki/快速公交系统 "wikilink")，用于服务阿德莱德东北郊区的乘客。O-Bahn系统的想法最初由[戴姆勒](../Page/戴姆勒.md "wikilink")设想提出，最初的目的是为了能够让[德国](../Page/德国.md "wikilink")[埃森](../Page/埃森.md "wikilink")的公交车能够与[有轨电车的隧道共用](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，以便在运行时避开其他交通的拥堵。
 
-阿德莱德O-Bahn在1986年正式通车，用于应对的迅速发展，并以此取代了早期的计划。O-Bahn公交车道使用集合了公交与铁路系统元素的特制的轨道，连接[錦林息公共運輸交匯處](../Page/錦林息公共運輸交匯處.md "wikilink")、[北樂提公共運輸交匯處](../Page/北樂提公共運輸交匯處.md "wikilink")和位于[摩保利的](https://zh.wikipedia.org/wiki/摩保利 "wikilink")[茶樹廣場公共運輸交匯處](https://zh.wikipedia.org/wiki/茶樹廣場公共運輸交匯處 "wikilink")，全长12公里，用时15分钟。公交车也可以在各中转站离开O-Bahn，进入普通道路继续行驶，避免了乘客转车的困扰。轨道上的公交车可以以最高100千米/时的速度行驶，一小时内从[阿德萊德市中心到茶树广场的最大载客量可达](https://zh.wikipedia.org/wiki/阿德萊德市中心 "wikilink")18,000人次。，O-Bahn工作日每日客流量达31,000人次。\[1\]
+阿德莱德O-Bahn在1986年正式通车，用于应对的迅速发展，并以此取代了早期的计划。O-Bahn公交车道使用集合了公交与铁路系统元素的特制的轨道，连接[錦林息公共運輸交匯處](../Page/錦林息公共運輸交匯處.md "wikilink")、[北樂提公共運輸交匯處](../Page/北樂提公共運輸交匯處.md "wikilink")和位于的[茶樹廣場公共運輸交匯處](https://zh.wikipedia.org/wiki/茶樹廣場公共運輸交匯處 "wikilink")，全长12公里，用时15分钟。公交车也可以在各中转站离开O-Bahn，进入普通道路继续行驶，避免了乘客转车的困扰。轨道上的公交车可以以最高100千米/时的速度行驶，一小时内从[阿德萊德市中心到茶树广场的最大载客量可达](https://zh.wikipedia.org/wiki/阿德萊德市中心 "wikilink")18,000人次。，O-Bahn工作日每日客流量达31,000人次。\[1\]
 
 目前，O-Bahn延长工程已被批准建设，2017年中旬建成后，经过的公交车可以进一步减少进入市区所需经过的一些拥堵的十字路口。O-Bahn的建设还使得原有破旧的郊区排水渠变成了目前的，成为了能够吸引周边居民的公共开放空间；它同时也激发了终点站所在地摩保利的开发和建设。
 
@@ -38,44 +38,27 @@ O-Bahn服务目前由与签署协议的运营。，该公交车道工作日日�
 
 1.
 2.  Northeast Busway Project (Brochure). South Australian Department of Transport (1983).
-
 3.  Busway Information, Paper Two: O-Bahn Guided Bus Concept. South Australian Department of Transport (1983).
-
 4.
-
 5.
-
 6.  Wilson, Tom. Items of Interest for Planning of Luton Dunstable Translink, Appendix A: Report on Adelaide O-Bahn. (Tom Wilson was the Principal Consultant Service Development & Busway Operations Manager 1981–1989.)
-
 7.  Busway Information, Paper Three: Operational Strategy. South Australian Department of Transport (1983).
-
 8.
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
 17. Northeast Busway (Brochure). State (South Australia) Transport Authority (1990).
-
 18.
-
 19. [Klemzig Interchange](https://www.adelaidemetro.com.au/var/metro/storage/images/timetables-maps/interchanges/klemzig-interchange/60687-12-eng-AU/Klemzig-Interchange.png) Adelaide Metro
-
 20. [Zone A Klemzig Interchange - East side](https://www.adelaidemetro.com.au/stops/view/16667) Adelaide Metro
-
 21. [Zone B Klemzig Interchange - West side](https://www.adelaidemetro.com.au/stops/view/17189) Adelaide Metro
-
 22.
 23.
 24.
-
 25.
-
 26.

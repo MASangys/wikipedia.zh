@@ -35,11 +35,8 @@
 [Category:2017年電子遊戲](https://zh.wikipedia.org/wiki/Category:2017年電子遊戲 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:獨立遊戲](https://zh.wikipedia.org/wiki/Category:獨立遊戲 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:原生中文遊戲](https://zh.wikipedia.org/wiki/Category:原生中文遊戲 "wikilink") [Category:擬人化事物主角題材作品](https://zh.wikipedia.org/wiki/Category:擬人化事物主角題材作品 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink")
 
 1.  [Nintendo Switch "Panty Party" Trailer](https://www.youtube.com/watch?v=vRk_n82_Dx8)
-
 2.  [Panty Party Also Launches April 25 On Switch In The West](https://nintendosoup.com/panty-party-also-launches-april-25-on-switch-in-the-west/)
-
 3.  [Panty Party physical release officially revealed, including limited edition](https://nintendoeverything.com/panty-party-physical-release-officially-revealed-including-limited-edition/)
-
 4.
 5.
 6.

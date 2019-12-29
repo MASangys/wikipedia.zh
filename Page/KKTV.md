@@ -55,7 +55,12 @@
 <tr class="even">
 <td><p>2018年7月4日</p></td>
 <td><p><a href="../Page/美男魚澡堂.md" title="wikilink">美男魚澡堂</a></p></td>
-<td><p><a href="../Page/李沛旭.md" title="wikilink">李沛旭</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/陳昊森.md" title="wikilink">陳昊森</a> </p></td>
+<td><p><a href="../Page/李沛旭.md" title="wikilink">李沛旭</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/陳昊森.md" title="wikilink">陳昊森</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年2月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2020因為愛你" title="wikilink">2020因為愛你</a></p></td>
+<td><p>{{ link-ko|李時剛|이시강}}、<a href="https://zh.wikipedia.org/wiki/張又瑋" title="wikilink">張又瑋</a>、黃士杰 </p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-**BRANDNEW MUSIC**（）是一家[韓國经纪及唱片公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2011年創立。主要業務為[音樂專輯](../Page/音樂專輯.md "wikilink")、[音源製作](https://zh.wikipedia.org/wiki/音源 "wikilink")，娛樂管理。
+**BRANDNEW MUSIC**（）是一家[韓國经纪及唱片公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2011年創立。主要業務為[音樂專輯](../Page/音樂專輯.md "wikilink")、[音源](../Page/音源.md "wikilink")製作，娛樂管理。
 
 ## 歷史
 
@@ -67,13 +67,11 @@ BRANDNEW MUSIC於2013年1月推出網絡節目"Brand New Live"。\[10\]同年夏
 
   - [AB6IX](../Page/AB6IX.md "wikilink")
 
-### 練習生
+  - [BDC](../Page/BDC.md "wikilink")
 
-  - BRANDNEWZ
-      - 李垠尚 ([X1](../Page/X1_\(組合\).md "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
-      - 金施勲 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
-      - 尹晶煥 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
-      - 洪誠俊 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+### 簽約藝人
+
+  - [李垠尚](../Page/李垠尚.md "wikilink")（[X1](../Page/X1_\(組合\).md "wikilink")）
 
 ### 製作人
 
@@ -158,47 +156,27 @@ BRANDNEW MUSIC於2013年1月推出網絡節目"Brand New Live"。\[10\]同年夏
 [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:韩国唱片公司](https://zh.wikipedia.org/wiki/Category:韩国唱片公司 "wikilink")
 
 1.  [1](http://koreajoongangdaily.joins.com/news/article/article.aspx?aid=3003745)"Rhymer finds success after years of struggle". Korea Joongang Daily. May 4, 2015. Retrieved March 31, 2016.
-
 2.  "Rhymer". Brand New Music (in Korean). Retrieved March 31, 2016
-
 3.  [2](http://www.kpopstarz.com/articles/250086/20151020/san-e-verbal-jint-concert.htm)"South Korean Rappers Verbal Jint And San E Plan Tokyo Showcase Concert For Next Month". KpopStarz. October 20, 2015. Retrieved March 31, 2016.
-
 4.
 5.
 6.
 7.
 8.  [3](http://www.allkpop.com/article/2012/09/stardom-entertainment-files-lawsuit-against-brand-new-music-over-miss-s-new-single)"Stardom Entertainment files lawsuit against BRANDNEW MUSIC over Miss $'s new single". Allkpop. September 27, 2012. Retrieved March 31, 2016.
-
 9.  [4](http://www.allkpop.com/article/2012/12/brand-new-music-releases-happy-brand-new-year-mv)"BRANDNEW MUSIC releases "Happy Brand New Year" MV". Allkpop. December 5, 2012. Retrieved March 31, 2016.
-
 10. [5](http://www.allkpop.com/article/2013/01/brand-new-music-launches-the-first-episode-of-their-reality-series-brand-new-live)"Brand New Music launches the first episode of their reality series 'Brand New LIVE'". Allkpop. January 31, 2013. Retrieved September 20, 2013.
-
 11. [6](http://www.allkpop.com/article/2013/06/san-e-signs-with-brand-new-music-after-parting-ways-with-jype-releases-rap-circus-mv)"San E signs with Brand New Music after parting ways with JYPE + releases "Rap Circus" MV". Allkpop. June 3, 2013. Retrieved March 31, 2016.
-
 12. [7](http://2016.mb.com.ph/2016/02/13/exclusive-hip-hop-getting-more-popular-in-korea-san-e/)"EXCLUSIVE: Hip hop getting more popular in Korea – San E". The Manila Bulletin. February 13, 2016. Retrieved March 31, 2016.
-
 13. [8](http://www.allkpop.com/article/2014/06/san-e-and-raina-achieve-an-all-kill-with-a-midsummer-nights-sweetness)"San E and Raina achieve an all-kill with 'A Midsummer Night's Sweetness'". Allkpop. June 12, 2014. Retrieved March 31, 2016.
-
 14. [9](https://www.soompi.com/2014/01/13/verbal-jint-phantom-san-e-and-makes-us-feels-feel-brand-new-in-new-mv/)"Verbal Jint, Phantom, San E, and Other Makes Us Feels “Feel BRAND NEW” in New MV". Soompi. January 13, 2014. Retrieved March 31, 2016.
-
 15. [10](http://www.kpopstarz.com/articles/87144/20140408/c-luv-brand-new-entertainment-rhymer.htm)"C-Luv Joins Brand New Entertainment with Verbal Jint, San E, and Bumkey". KpopStarz. April 8, 2014. Retrieved April 4, 2016.
-
 16. [11](https://www.soompi.com/2014/08/29/swings-leaves-brand-new-music-to-focus-on-his-own-agency-just-music/)"Swings Leaves Brand New Music to Focus on His Own Agency Just Music". Soompi. August 29, 2014. Retrieved March 31, 2016.
-
 17. [12](http://www.kpopstarz.com/articles/147415/20141205/brand-new-day-verbal-jint-san-e.htm)"Editor's Pick: On 'Brand New Day' Verbal Jint And San E Join Forces With Their Labelmates To Create Greatness". KpopStarz. December 5, 2014. Retrieved March 31, 2016.
-
 18. [13](http://www.kpopstarz.com/articles/164448/20150116/eluphant-is-now-officially-a-member-of-brand-new-music.htm)"Hip-Hop Duo Eluphant Officially Joins Record Label Brand New Music". KpopStarz. January 16, 2015. Retrieved April 4, 2016.
-
 19. [14](http://www.allkpop.com/article/2015/02/kim-gu-ras-son-kim-dong-hyun-to-debut-in-the-first-half-of-this-year-as-gree-under-brand-new-music)"Kim Gu Ra's son Kim Dong Hyun to debut in the first half of this year as 'GREE' under Brand New Music". Allkpop. February 25, 2015. Retrieved April 4, 2016.
-
 20. [15](http://world.kbs.co.kr/english/program/program_artist_detail.htm?No=109951)"Pretty Brown (프리티브라운)". KBS World Radio. Retrieved 2 April 2016.
-
 21. [16](http://hiphopkr.com/news/unpretty-rapstar-2-contestant-kittib-signs-with-brand-new-music/)"Unpretty Rapstar 2 contestant KittiB signs with Brand New Music". Hip Hop Kr. November 17, 2015. Retrieved November 17, 2015.
-
 22. [17](http://www.allkpop.com/article/2015/12/brand-new-musics-artists-incl-san-e-verbal-jint-and-more-heat-it-up-in-new-mv)"Unpretty Rapstar 2 contestant KittiB signs with Brand New Music". Hip Hop Kr. November 17, 2015. Retrieved November 17, 2015.
-
 23. [18](http://www.allkpop.com/article/2016/02/check-out-esbees-mv-for-i-just-wanna-sing-feat-hanhae)"Check out Esbee's MV for 'I Just Wanna Sing' feat. Hanhae\!". Allkpop. February 16, 2016. Retrieved March 30, 2016.
-
 24. [19](http://www.koreaboo.com/news/chancellor-formerly-known-as-one-way-chance-joins-brand-new-music/)"Chancellor, Formerly Known As One Way Chance, Joins BRAND NEW MUSIC". Koreaboo. March 24, 2016. Retrieved March 24, 2016.
-
 25. [20](http://www.koreaboo.com/news/129069/)"Yang Dong Geun joins BrandNew Music for his activities as a rapper". Koreaboo. March 6, 2016. Retrieved March 30, 2016.

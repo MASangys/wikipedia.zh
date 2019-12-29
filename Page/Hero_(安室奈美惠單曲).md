@@ -1,12 +1,12 @@
 《**Hero**》為[日本](../Page/日本.md "wikilink")歌手安室奈美惠以個人單獨名義於2016年7月27日發行的第45張單曲，透過[Avex trax與安室的個人廠牌Dimension](../Page/Avex_trax.md "wikilink") Point發行。歌曲由音樂製作人與Sunny Boy作曲、填詞與編曲，並由後者負責製作。《Hero》是一首結合[舞曲](../Page/舞曲.md "wikilink")音樂元素的[流行曲](../Page/流行_\(音樂類型\).md "wikilink")，歌詞主要環繞勇氣和勝利等主題。
 
-歌曲獲[NHK起用為電視台轉播](../Page/日本廣播協會.md "wikilink")[里約熱內盧奧運會與](../Page/2016年夏季奧林匹克運動會.md "wikilink")[帕運會的主題曲](https://zh.wikipedia.org/wiki/2016年夏季帕拉林匹克運動會 "wikilink")。在樂評方面，歌曲於發行前後獲樂評家讚揚它的多樣性，而安室的聲樂亦被認為能帶來勇氣。安室於2017年宣佈退出樂壇後，《Hero》的銷量獲刺激急速上升。其中實體銷量從[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")外回升至前50位內，累計銷量超過8萬張。在下載方面，歌曲則相隔383天以來再次登上下載榜單首位，累計下載量超過75萬首。
+歌曲獲[NHK起用為電視台轉播](../Page/日本廣播協會.md "wikilink")[里約熱內盧奧運會與](../Page/2016年夏季奧林匹克運動會.md "wikilink")[帕運會的主題曲](../Page/2016年夏季帕拉林匹克運動會.md "wikilink")。在樂評方面，歌曲於發行前後獲樂評家讚揚它的多樣性，而安室的聲樂亦被認為能帶來勇氣。安室於2017年宣佈退出樂壇後，《Hero》的銷量獲刺激急速上升。其中實體銷量從[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")外回升至前50位內，累計銷量超過8萬張。在下載方面，歌曲則相隔383天以來再次登上下載榜單首位，累計下載量超過75萬首。
 
 《Hero》拍攝了多個宣傳录像带，並分別由導演與YKBX拍攝了兩個版本的音樂录像带，為安室首次嘗試由兩個導演合作拍攝同一首歌的音樂录像带。安室曾於演唱會「[namie amuro LIVE STYLE 2016-2017](https://zh.wikipedia.org/wiki/namie_amuro_LIVE_STYLE_2016-2017 "wikilink")」、「」與「」演唱歌曲。2017年12月31日，安室登上「[第68回NHK紅白歌合戰](../Page/第68回NHK紅白歌合戰.md "wikilink")」獻唱歌曲，成為歌曲唯一一場電視演出。
 
 ## 發行背景
 
-2015年，安室奈美惠發行專輯《[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")》後，隨即展開巡迴演唱會「[namie amuro LIVEGENIC 2015-2016](https://zh.wikipedia.org/wiki/namie_amuro_LIVEGENIC_2015-2016 "wikilink")」\[1\]，並先後發行了《[Red Carpet](../Page/Red_Carpet.md "wikilink")》與《[Mint](../Page/Mint.md "wikilink")》兩張單曲\[2\]\[3\]。2016年3月23日，[NHK宣佈起用安室的新曲](../Page/日本廣播協會.md "wikilink")《Hero》為電視台轉播[里約熱內盧奧運會與](../Page/2016年夏季奧林匹克運動會.md "wikilink")[帕運會的主題曲](https://zh.wikipedia.org/wiki/2016年夏季帕拉林匹克運動會 "wikilink")\[4\]。NHK方面指選用安室的原因為「她的歌聲有著穿透人心的力量」以及認為安室是「受到廣泛年齡層支持」的頂尖女性歌手\[5\]。而安室亦對獲起用一事表示「非常榮幸」以及「會帶著為運動員加油的心情來演唱這首歌曲」\[6\]。
+2015年，安室奈美惠發行專輯《[_genic](https://zh.wikipedia.org/wiki/_genic "wikilink")》後，隨即展開巡迴演唱會「[namie amuro LIVEGENIC 2015-2016](https://zh.wikipedia.org/wiki/namie_amuro_LIVEGENIC_2015-2016 "wikilink")」\[1\]，並先後發行了《[Red Carpet](../Page/Red_Carpet.md "wikilink")》與《[Mint](../Page/Mint.md "wikilink")》兩張單曲\[2\]\[3\]。2016年3月23日，[NHK宣佈起用安室的新曲](../Page/日本廣播協會.md "wikilink")《Hero》為電視台轉播[里約熱內盧奧運會與](../Page/2016年夏季奧林匹克運動會.md "wikilink")[帕運會的主題曲](../Page/2016年夏季帕拉林匹克運動會.md "wikilink")\[4\]。NHK方面指選用安室的原因為「她的歌聲有著穿透人心的力量」以及認為安室是「受到廣泛年齡層支持」的頂尖女性歌手\[5\]。而安室亦對獲起用一事表示「非常榮幸」以及「會帶著為運動員加油的心情來演唱這首歌曲」\[6\]。
 
 6月17日，官方公佈《Hero》單曲定於7月23日發行，並同時公開了單曲的封面、發行版本與收錄曲目等詳情\[7\]。單曲亦同時收錄c/w曲目《Show Me What You've Got》\[8\]。《Hero》的12吋黑膠唱片版本其後於「[namie amuro LIVE STYLE 2016-2017](https://zh.wikipedia.org/wiki/namie_amuro_LIVE_STYLE_2016-2017 "wikilink")」會場作限定發行\[9\]。
 

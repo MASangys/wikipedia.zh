@@ -11,8 +11,6 @@
 [Category:田納西大學校友](https://zh.wikipedia.org/wiki/Category:田納西大學校友 "wikilink") [Category:范德堡大學校友](https://zh.wikipedia.org/wiki/Category:范德堡大學校友 "wikilink") [Category:非洲裔美國政治人物](https://zh.wikipedia.org/wiki/Category:非洲裔美國政治人物 "wikilink") [Category:奧克拉荷馬州參議員](https://zh.wikipedia.org/wiki/Category:奧克拉荷馬州參議員 "wikilink") [Category:俄克拉何馬州民主黨人](https://zh.wikipedia.org/wiki/Category:俄克拉何馬州民主黨人 "wikilink")
 
 1.  [Porter, Edward Melvin | The Encyclopedia of Oklahoma History and Culture](http://www.okhistory.org/publications/enc/entry.php?entry=PO017)
-
 2.
 3.  <http://bigstory.ap.org/article/a95f2917b18346998d222741d74ff71d/oklahomas-first-black-state-senator-dies-86>
-
 4.  [Oklahoma's first black state senator dies](http://newsok.com/article/5511232)

@@ -296,32 +296,19 @@
 [Category:IKON巡迴演唱會](https://zh.wikipedia.org/wiki/Category:IKON巡迴演唱會 "wikilink") [Category:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2016年巡迴演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
-
 16.
 17.

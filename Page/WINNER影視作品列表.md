@@ -33,21 +33,21 @@
 
 ## 電台主持
 
-|                       |                     |                                                              |                     |
-| --------------------- | ------------------- | ------------------------------------------------------------ | ------------------- |
-| 日期                    | 電視台                 | 節目名稱                                                         | 參與成員                |
-| 2014年11月24日           | MBC FM4U            | [Tablo的夢想電台](https://zh.wikipedia.org/wiki/Tablo "wikilink") | 姜昇潤（代班DJ）、李昇勳、宋旻浩   |
-| 2014年11月25－27日        | MBC FM4U            | [Tablo的夢想電台](https://zh.wikipedia.org/wiki/Tablo "wikilink") | 姜昇潤（代班DJ）           |
-| 2016年2月2日、9日、16日、23日  | AZ TALK Melon Radio | WINNER WONDERLAND                                            | WINNER              |
-| 2017年4月11日、18日        | AZ TALK Melon Radio | WINNER WONDERLAND S.2                                        |                     |
-| 2017年4月27－30日         | KBS Cool FM         | 朴芝潤的歌謠廣場                                                     | 姜昇潤（Special DJ）     |
-| 2017年6月28日、29日        | MBC FM4U            | Mithra的夜間營業                                                  | 宋旻浩（Special DJ）     |
-| 2017年12月7日            | KBS Cool FM         | [李洪基](../Page/李洪基.md "wikilink")的Kiss The Radio              | 李昇勳、姜昇潤（Special DJ） |
-| 2018年4月17日、4月24日、5月1日 | AZ TALK Melon Radio | WINNER WONDERLAND S.3                                        | WINNER              |
-| 2018年4月23日－27日        | KBS Cool FM         | Kiss The Radio                                               | 李昇勳、姜昇潤（Special DJ） |
-| 2018年10月29日－11月4日     | SBS Power FM        | Young Street                                                 | 姜昇潤（Special DJ）     |
-| 2019年3月11－17日         | MBC FM4U            | 夢想電台                                                         | 姜昇潤（Special DJ）     |
-|                       |                     |                                                              |                     |
+|                           |                     |                                                              |                     |
+| ------------------------- | ------------------- | ------------------------------------------------------------ | ------------------- |
+| 日期                        | 電視台                 | 節目名稱                                                         | 參與成員                |
+| 2014年11月24日               | MBC FM4U            | [Tablo的夢想電台](https://zh.wikipedia.org/wiki/Tablo "wikilink") | 姜昇潤（代班DJ）、李昇勳、宋旻浩   |
+| 2014年11月25－27日            | MBC FM4U            | [Tablo的夢想電台](https://zh.wikipedia.org/wiki/Tablo "wikilink") | 姜昇潤（代班DJ）           |
+| 2016年2月2日、9日、16日、23日      | AZ TALK Melon Radio | WINNER WONDERLAND                                            | WINNER              |
+| 2017年4月11日、18日            | AZ TALK Melon Radio | WINNER WONDERLAND S.2                                        |                     |
+| 2017年4月27－30日             | KBS Cool FM         | 朴芝潤的歌謠廣場                                                     | 姜昇潤（Special DJ）     |
+| 2017年6月28日、29日            | MBC FM4U            | Mithra的夜間營業                                                  | 宋旻浩（Special DJ）     |
+| 2017年12月7日                | KBS Cool FM         | [李洪基](../Page/李洪基.md "wikilink")的Kiss The Radio              | 李昇勳、姜昇潤（Special DJ） |
+| 2018年4月17日、4月24日、5月1日     | AZ TALK Melon Radio | WINNER WONDERLAND S.3                                        | WINNER              |
+| 2018年4月23日－27日            | KBS Cool FM         | Kiss The Radio                                               | 李昇勳、姜昇潤（Special DJ） |
+| 2018年10月29日－11月4日         | SBS Power FM        | Young Street                                                 | 姜昇潤（Special DJ）     |
+| 2019年11月11日－11月14日、11月16日 | MBC 標準 FM           | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")               | 姜昇潤（Special DJ）     |
+|                           |                     |                                                              |                     |
 
 ## 電台廣播
 
@@ -178,11 +178,12 @@
 
 ### 播映中
 
-| 節目列表 |
-| ---- |
-|      |
-| 播出日期 |
-|      |
+| 節目列表                |
+| ------------------- |
+|                     |
+| 播出日期                |
+| 2019年10月25日－2019年月日 |
+|                     |
 
 ## 綜藝節目
 
@@ -288,32 +289,35 @@
 | 12月29日        |
 |               |
 
-| 2019年綜藝節目列表 |
-| ----------- |
-| 日期          |
-| 1月1日        |
-| 1月4日        |
-| 1月6日、13日    |
-| 1月12日       |
-| 1月13日       |
-| 1月29日       |
-| 1月31日       |
-| 2月12日       |
-| 4月5日        |
-| 5月23日       |
-| 4月5日、12日    |
-| 5月25日、6月1日  |
-| 5月28日       |
-| 6月4日        |
-| 6月12日       |
-| 6月18日       |
-| 6月23日、30日   |
-| 7月7日        |
-| 7月10日、7月17日 |
-| 7月14日       |
-| 7月20日、7月27日 |
-| 9月14日、9月21日 |
-|             |
+| 2019年綜藝節目列表  |
+| ------------ |
+| 日期           |
+| 1月1日         |
+| 1月4日         |
+| 1月6日、13日     |
+| 1月12日        |
+| 1月13日        |
+| 1月29日        |
+| 1月31日        |
+| 2月12日        |
+| 4月5日         |
+| 5月23日        |
+| 4月5日、12日     |
+| 5月25日、6月1日   |
+| 5月28日        |
+| 6月4日         |
+| 6月12日        |
+| 6月18日        |
+| 6月23日、30日    |
+| 7月7日         |
+| 7月10日、7月17日  |
+| 7月14日        |
+| 7月20日、7月27日  |
+| 9月14日、9月21日  |
+| 11月5日        |
+| 11月7日        |
+| 11月29日、12月6日 |
+|              |
 
 ## 音樂錄影帶
 
@@ -357,6 +361,8 @@
 | 2018年                                                                           | 《EVERYD4Y》                                                                      | 4月4日                                                             | [EVERYDAY](https://m.youtube.com/watch?v=d1D1SJ-KqaQ)            | 4月12日                                                        | [EVERYDAY](https://www.youtube.com/watch?v=Kmn302zD2qw)      |
 | 《MILLIONS》                                                                      | 12月19日                                                                          | [MILLIONS](https://www.youtube.com/watch?v=PALjhRpnfbk)          |                                                                  |                                                              |                                                              |
 | 2019年                                                                           | 《WE》                                                                            | 5月15日                                                            | [AH YEAH](https://www.youtube.com/watch?v=Pm0_G8Zl0ek)           | 5月16日                                                        | [AH YEAH](https://www.youtube.com/watch?v=AVTenFTYy1k)       |
+| 《CROSS》                                                                         | 10月23日                                                                          | [SOSO](https://www.youtube.com/watch?v=oDKMLDH8kqc)              |                                                                  |                                                              |                                                              |
+|                                                                                 |                                                                                 |                                                                  |                                                                  |                                                              |                                                              |
 
   - 參演音樂錄影帶
 

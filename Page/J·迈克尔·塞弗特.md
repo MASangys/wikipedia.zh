@@ -57,7 +57,7 @@
 5.
 6.
 7.
-8.  [An "Introduction To The World Of Sex Tourism"](https://kinseyconfidential.org/sex-tourism-sex-tourists/) (Feb 21, 2016) by The  for Research in Sex, Gender, and Reproduction.
+8.  [An "Introduction To The World Of Sex Tourism"](https://kinseyconfidential.org/sex-tourism-sex-tourists/)  (Feb 21, 2016) by The  for Research in Sex, Gender, and Reproduction.
 9.
 10.
 11.

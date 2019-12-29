@@ -7,10 +7,7 @@
 [Category:德国雕塑作品](https://zh.wikipedia.org/wiki/Category:德国雕塑作品 "wikilink") [Category:2001年作品](https://zh.wikipedia.org/wiki/Category:2001年作品 "wikilink") [Category:蒂賓根大學](https://zh.wikipedia.org/wiki/Category:蒂賓根大學 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

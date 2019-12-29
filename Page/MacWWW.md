@@ -5,13 +5,9 @@
 [Category:1992年軟體](https://zh.wikipedia.org/wiki/Category:1992年軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.

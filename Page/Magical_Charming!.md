@@ -48,7 +48,7 @@ Magical Charming\!在2013年Getchu.com舉辦的美少女遊戲大賞中獲得綜
 ## 外部連結
 
   - [日文版遊戲官網](http://www.lumpofsugar.co.jp/product/magicha/index.php)
-  - [中文版遊戲官網](http://www.hikarifield.com/magicha/index.html)
+  - [中文版遊戲官網](https://web.archive.org/web/20170416051016/http://www.hikarifield.com/magicha/index.html)
 
 [Category:2013年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2013年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
 

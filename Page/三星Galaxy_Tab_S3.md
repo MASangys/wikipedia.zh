@@ -1,4 +1,4 @@
-**三星Galaxy Tab S3 9.7**是[三星电子制造的Android](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，于2017年2月发布\[1\]，运行[Android 9.0](https://zh.wikipedia.org/wiki/Android_9.0 "wikilink") pie。这台平板电脑搭载了[高通](../Page/高通.md "wikilink") SM8996 (高通骁龙820)[SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")，由 2个2.15 GHz Kryo和2个1.6 GHz Kryo CPU核心、Adreno 530 GPU、4 GB的[记忆体和](https://zh.wikipedia.org/wiki/记忆体 "wikilink")32 GB储存空间组成，最大可以扩充到256 GB的[MicroSD](../Page/MicroSD.md "wikilink")记忆卡,电池为不可拆卸式6000mAh，支援快充。三星Galaxy Tab S3 9.7(Wi-Fi)是429克，而三星Galaxy Tab S3 9.7(LTE)是434克\[2\]\[3\]。
+**三星Galaxy Tab S3 9.7**是[三星电子制造的Android](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，于2017年2月发布\[1\]，运行[Android 7.0 Nougat](https://zh.wikipedia.org/wiki/Android_7.0 "wikilink")，可更新至[Android 9.0 Pie](https://zh.wikipedia.org/wiki/Android_9.0 "wikilink")。这台平板电脑搭载了[高通](../Page/高通.md "wikilink") SM8996 (高通骁龙820)[SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")，由 2个2.15 GHz Kryo和2个1.6 GHz Kryo CPU核心、Adreno 530 GPU、4 GB的[记忆体和](https://zh.wikipedia.org/wiki/记忆体 "wikilink")32 GB储存空间组成，最大可以扩充到256 GB的[MicroSD](../Page/MicroSD.md "wikilink")记忆卡,电池为不可拆卸式6000mAh，支援[Quick Charge 3.0快速充電](../Page/高通快充.md "wikilink")。三星Galaxy Tab S3 9.7(Wi-Fi)是429克，而三星Galaxy Tab S3 9.7(LTE)是434克\[2\]\[3\]。
 
 ## 技術規格
 
@@ -27,7 +27,7 @@
 
 [分类:三星Galaxy](https://zh.wikipedia.org/wiki/分类:三星Galaxy "wikilink")
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2017年面世的產品](https://zh.wikipedia.org/wiki/Category:2017年面世的產品 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2017年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2017年面世的平板電腦 "wikilink")
 
 1.
 2.

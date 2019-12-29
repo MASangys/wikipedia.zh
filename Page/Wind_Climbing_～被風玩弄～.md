@@ -25,9 +25,6 @@
 [Category:咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/Category:咕嚕咕嚕魔法陣 "wikilink") [Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink") [Category:朝日放送動畫主題曲](https://zh.wikipedia.org/wiki/Category:朝日放送動畫主題曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

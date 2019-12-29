@@ -23,7 +23,7 @@
 &amp;<br />
 版本代號</p></th>
 <th><p>製程<br />
-(<a href="https://zh.wikipedia.org/wiki/奈米" title="wikilink">奈米</a>)</p></th>
+(<a href="https://zh.wikipedia.org/wiki/nm" title="wikilink">nm</a>)</p></th>
 <th><p>電晶體數<br />
 &amp;<br />
 晶粒面積</p></th>
@@ -61,7 +61,7 @@
 類型</p></td>
 <td><p>匯流排<br />
 寬度<br />
-(<a href="../Page/位元.md" title="wikilink">位元</a>)</p></td>
+(<a href="https://zh.wikipedia.org/wiki/bit" title="wikilink">bit</a>)</p></td>
 <td><p>頻寬<br />
 (<a href="https://zh.wikipedia.org/wiki/Gigabyte" title="wikilink">GB</a>/s)</p></td>
 <td><p><a href="../Page/DirectX.md" title="wikilink">DirectX</a></p></td>
@@ -240,7 +240,7 @@ $229 (8 GB)</p></td>
 
   - [RADEON RX 500 系列](http://radeon.com/zh-cn/rx500/)
 
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink") [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
+[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
 
 1.
 2.

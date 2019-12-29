@@ -38,47 +38,27 @@
 [Category:愛爾蘭YouTuber](https://zh.wikipedia.org/wiki/Category:愛爾蘭YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.  PewDiePie Shoutout winner\!\! {{\!}} Holy Crap I can't believe it|date = 2013-05-04 |publisher=|accessdate=2017-02-11}}
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20.
 21.
-
 22.
-
 23.
 24.
-
 25.

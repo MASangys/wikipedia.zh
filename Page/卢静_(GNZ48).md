@@ -196,51 +196,32 @@
 
 ## 外部連結
 
-  - [GNZ48成员详情页：卢静](http://www.gnz48.com/member/member_details.html?sid=30032)
+  - [SNH48 Group成员详情页：卢静](http://www.snh48.com/member_details.html?sid=30032)
 
   -
   -
 [Category:GNZ48成員](https://zh.wikipedia.org/wiki/Category:GNZ48成員 "wikilink") [Category:盧姓](https://zh.wikipedia.org/wiki/Category:盧姓 "wikilink") [Category:龙岩人](https://zh.wikipedia.org/wiki/Category:龙岩人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.  说好的六点见|date=2019-05-07|publisher=[今日头条](../Page/今日头条.md "wikilink")|access-date=2019-05-16}}
-
 18.
-
 19.
 20.
 21.
-
 22.
 23.

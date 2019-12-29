@@ -22,18 +22,11 @@
 [Category:2017年电子游戏](https://zh.wikipedia.org/wiki/Category:2017年电子游戏 "wikilink") [Category:炸弹人系列](https://zh.wikipedia.org/wiki/Category:炸弹人系列 "wikilink") [Category:科樂美遊戲](https://zh.wikipedia.org/wiki/Category:科樂美遊戲 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:Xbox_One游戏](https://zh.wikipedia.org/wiki/Category:Xbox_One游戏 "wikilink") [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.  \[<http://www.ign.com/articles/2018/03/15/super-bomberman-r-getting-ps4-xbox-one-pc-release-with-platform-exclusive-halo-ratchet-portal-characters>? SUPER BOMBERMAN R GETTING PS4, XBOX ONE, PC RELEASE WITH PLATFORM-EXCLUSIVE HALO, RATCHET, PORTAL CHARACTERS\].IGN.2018-03-15.\[2018-03-16\].
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.  [Super Bomberman R sold better in Japan than most of the series in the past 20 years](https://www.destructoid.com/super-bomberman-r-sold-better-in-japan-than-most-of-the-series-in-the-past-20-years-424555.phtml).Destructoid.2017-03-17.\[2017-03-20\].
-
 8.  [SUPER BOMBERMAN R on Nintendo Switch](http://www.metacritic.com/game/switch/super-bomberman-r).Metacritic.\[2017-03-20\].
-
 9.

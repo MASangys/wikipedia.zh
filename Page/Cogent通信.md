@@ -41,50 +41,27 @@ Cogent尚未同意与最大的IPv6连接提供商[Hurricane Electric对等连接
 [Category:華盛頓哥倫比亞特區公司](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區公司 "wikilink") [Category:納斯達克上市公司](https://zh.wikipedia.org/wiki/Category:納斯達克上市公司 "wikilink") [Category:美国互联网服务提供商](https://zh.wikipedia.org/wiki/Category:美国互联网服务提供商 "wikilink") [Category:總部在美國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在美國的跨國公司 "wikilink")
 
 1.
-
 2.  [Visualizing Internet Topology at a Macroscopic Scale](http://www.caida.org/research/topology/as_core_network/) April 2005
-
 3.  [AS ranking](http://as-rank.caida.org/)
-
 4.
-
 5.  [Lightwave - Cogent Communications banks on Ethernet over IP](http://lw.pennnet.com/display_article/308794/13/ARTCL/none/none/Cogent-Communications-banks-on-Ethernet-over-IP/)
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. [Cogent Press release Level3 dispute Oct 7 2005](http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/10-07-2005/0004163871&EDATE)
-
 19. [The Telia-Cogent Spat Could Ruin the Web For Many](http://gigaom.com/2008/03/14/the-telia-cogent-spat-could-ruin-web-for-many/), Om Malik, 2008-03-14
-
 20. [Sprint-Nextel Severs Its Internet Connection to Cogent Communications](http://www.earthtimes.org/articles/show/sprint-nextel-severs-its-internet-connection-to-cogent-communications,603138.shtml)
-
 21. [Telia resolves internet dispute](http://thelocal.se/10786/20080330/) , <http://thelocal.se>, Peter Vinthagen Simpson, 2008-03-30
-
 22. [Important: Status regarding Cogent connectivity](https://web.archive.org/web/20110611002310/http://es.net/news-and-publications/important-status-regarding-cogent-connectivity/), Energy Sciences Network press release, Steve Cotter, Lawrence Berkeley National Lab
-
 23. [E-mail from Hurricane Electric explaining why the two networks are severed on the nanog (North American Network Operators Group) mailing list](http://mailman.nanog.org/pipermail/nanog/2009-October/014017.html)
-
 24. [adminhacks.org, March 2016](http://adminhacks.com/broken-IPv6.html)
-
 25.

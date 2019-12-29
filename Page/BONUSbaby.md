@@ -212,6 +212,13 @@
 <td><p>學校前導片出演[3][4]、<br />
 學校網路舞蹈課程助教[5][6]</p></td>
 </tr>
+<tr class="even">
+<td><p>10月29日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MIXNINE" title="wikilink">MIXNINE</a></p></td>
+<td><p>全員</p></td>
+<td><p><a href="../Page/崔玟熙.md" title="wikilink">玟熙</a>、夏允、多允、彩賢通過經紀公司初選進入正式比賽，佳蘊、瑜真未通過</p></td>
+</tr>
 </tbody>
 </table>
 

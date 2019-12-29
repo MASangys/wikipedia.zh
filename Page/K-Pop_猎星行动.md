@@ -295,8 +295,8 @@ K-pop猎星行动第二季的最终赢家将会获得CJ E\&M和CUBE Entertainmen
 
 <!-- end list -->
 
-  - Sorn是女子组合CLC成员，经过Cube娱乐的3年培训后在2015年3月出道。
-  - Lucia现在是女子组合[A'N'D的成员](https://zh.wikipedia.org/wiki/A'N'D "wikilink")，也是臺灣演员。
+  - Sorn是女子组合[CLC](../Page/CLC.md "wikilink")成员，经过Cube娱乐的3年培训后在2015年3月出道。
+  - Lucia现在是女子组合[A'N'D](https://zh.wikipedia.org/wiki/A'N'D "wikilink")、[KOGIRLS的成员](https://zh.wikipedia.org/wiki/KOGIRLS "wikilink")，也是臺灣演员。
   - Rince是菲律宾BASSIX的成员。
   - Charlene和Charmaine在菲律宾组成一个叫“MILES”的表演组合。
   - Chris在Channel V（臺灣）做主持人。他参加了《Taiwan's Next Generations》第二季，由[蔡依林](../Page/蔡依林.md "wikilink")做他的导师。
@@ -304,7 +304,7 @@ K-pop猎星行动第二季的最终赢家将会获得CJ E\&M和CUBE Entertainmen
   - Jasmine、Maressa和Yvonne在新加坡组建了一个叫“BLANCHE”的表演组合。
   - June是一个在泰国的舞者
   - Nicola现在在伦敦攻读时装设计学院的学位。
-  - Andy在加拿大上大学。 他正在追求音乐的成就。
+  - Andy在加拿大上大学。 他正在追求音乐的成就。現為[Seven O'Clock成員](../Page/Seven_O'Clock.md "wikilink")。
 
 第二季:
 
@@ -327,7 +327,7 @@ K-pop猎星行动第二季的最终赢家将会获得CJ E\&M和CUBE Entertainmen
 
 第三季:
 
-  - Andy是个[FNC娱乐的练习生](../Page/FNC娛樂.md "wikilink")。 他首次在中国亮相是发布单曲《Puppy Love》的时候。
+  - Andy曾是个[FNC娛樂](../Page/FNC娛樂.md "wikilink")的练习生，一年後離開了公司。他首次在中国亮相是发布单曲《Puppy Love》的时候。現時使用的藝名是「蘇志尹」。
   - Putri回到了马来西亚，做一个独立歌手。在2015年她生下一个女孩。
   - Stephanie搬到了澳大利亚悉尼去为她的音乐事业奋斗。
   - Jasmine、Maressa和Yvonne在新加坡组建了一个叫“BLANCHE”的表演组合。

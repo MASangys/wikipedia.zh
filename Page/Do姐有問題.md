@@ -1010,7 +1010,7 @@
 <td><p>1600<br />
 <strong>2000</strong></p></td>
 <td><p><a href="../Page/商務艙.md" title="wikilink">商務艙</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西本德_(威斯康星州)" title="wikilink">西本德</a><br />
+<td><p><a href="../Page/西本德_(威斯康星州).md" title="wikilink">西本德</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/北豪森" title="wikilink">北豪森</a></strong></p></td>
 <td><p><a href="../Page/美元.md" title="wikilink">美元</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/歐元" title="wikilink">歐元</a></strong></p></td>

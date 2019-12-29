@@ -87,7 +87,7 @@
 <tr class="odd">
 <td><p><a href="../Page/注册表.md" title="wikilink">注册表</a>编辑器</p></td>
 <td><p>用来查看和维护注册表。</p></td>
-<td><p>Windows 3.1</p></td>
+<td><p>Windows NT 3.1</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Windows工作排程器.md" title="wikilink">计划任务</a></p></td>
@@ -121,7 +121,7 @@
 
 | 组件                                                                   | 描述                                                                                                    | 引入版本                                                                       |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")       | 微软公司为Windows环境所开发的壳程序（shell）及脚本语言技术，采用的是命令行界面。这项全新的技术提供了丰富的控制与自动化的系统管理能力。                             | [Windows XP](../Page/Windows_XP.md "wikilink")                             |
+| [Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")       | 微软公司为Windows环境所开发的壳程序（shell）及脚本语言技术，采用的是命令行界面。这项全新的技术提供了丰富的控制与自动化的系统管理能力。                             | [Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")            |
 | [Windows Shell](../Page/命令提示字元.md "wikilink")                        | 提供用户访问各种各样的应用程序与管理操作系统的功能。                                                                            | [Windows 95](../Page/Windows_95.md "wikilink")                             |
 | [文件资源管理器](https://zh.wikipedia.org/wiki/Windows_Explorer "wikilink") | Microsoft Windows操作系统中浏览电脑中档案与文件夹结构的基本工具。                                                             | [Windows 95](../Page/Windows_95.md "wikilink")                             |
 | [Windows 搜索](https://zh.wikipedia.org/wiki/Windows搜索 "wikilink")     | 微软为操作系统设计的带有索引的桌面搜索平台。 其在Windows Vista, Windows Sever 2008 和 Windows 7 也被称为即时搜索，它是Windows索引服务的一个成功实践。 | [Windows Vista](../Page/Windows_Vista.md "wikilink")，在此之前的系统版本可下载应用获得相同的功能 |
@@ -213,7 +213,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/螢幕小鍵盤" title="wikilink">螢幕小鍵盤</a> (osk.exe)</p></td>
 <td><p><a href="../Page/虛擬鍵盤.md" title="wikilink">虛擬鍵盤</a></p></td>
-<td></td>
+<td><p><a href="../Page/Windows_2000.md" title="wikilink">Windows 2000</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/小畫家" title="wikilink">小畫家</a></p></td>
@@ -335,7 +335,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows相片檢視器" title="wikilink">Windows相片檢視器</a></p></td>
 <td><p>圖片查看器</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></td>
+<td><p><a href="../Page/Windows_XP.md" title="wikilink">Windows XP</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Mail_(Windows)" title="wikilink">郵件</a></p></td>

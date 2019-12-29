@@ -795,6 +795,203 @@
 </tbody>
 </table>
 
+### 2019年
+
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p>內容概要</p></th>
+<th><p>出場動物</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>899</p></td>
+<td><p>2019年1月6日</p></td>
+<td><p>濟州島山莊 吉祥物哈姆雷特<br />
+在村子裡消失的鞋子達到30雙以上! 竊盜鞋子的小黑<br />
+無法遏制的破壞本能! 大麥町犬西羅!</p></td>
+<td><p>迷你豬 (米克斯犬/驢)<br />
+<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a><br />
+<a href="../Page/大麥町.md" title="wikilink">大麥町</a>犬/<a href="https://zh.wikipedia.org/wiki/鬥牛犬" title="wikilink">鬥牛犬</a></p></td>
+</tr>
+<tr class="even">
+<td><p>900</p></td>
+<td><p>2019年1月13日</p></td>
+<td><p>害怕五胞胎 膽小鬼爸爸 雷奧<br />
+斑馬也會產生分離焦慮?! 盧卡的分離焦慮克服記<br />
+一生一世 陷入苦惱的夫妻</p></td>
+<td><p><a href="../Page/沙皮狗.md" title="wikilink">沙皮犬</a><br />
+斑馬(迷你馬 )<br />
+<a href="https://zh.wikipedia.org/wiki/臘腸犬" title="wikilink">臘腸犬</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>901</p></td>
+<td><p>2019年1月20日</p></td>
+<td><p>最小人生N次秘書犬 EQ天才雅麗<br />
+來自江邊北路的救助信號 救助貓咪一等兵<br />
+峰兒和奶奶　溫暖的冬日故事</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯基犬" title="wikilink">潘布魯克威爾斯柯基犬</a><br />
+<a href="../Page/混種短毛貓.md" title="wikilink">米克斯貓</a><br />
+<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a></p></td>
+</tr>
+<tr class="even">
+<td><p>902</p></td>
+<td><p>2019年1月27日</p></td>
+<td><p>寒冬下　熱熱鬧鬧的一大家子磨合一整天<br />
+稍微特殊的情侶?! 單身漢與天才鸚鵡<br />
+從黑暗中傳來急切的聲音#地下#獵首#懸疑</p></td>
+<td><p><a href="../Page/坎高犬.md" title="wikilink">坎高犬</a>/<a href="https://zh.wikipedia.org/wiki/Black_Russian_Terrier" title="wikilink">黑俄羅斯㹴</a>/<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a><br />
+<a href="../Page/和尚鸚鵡.md" title="wikilink">和尚鸚鵡</a>/<a href="https://zh.wikipedia.org/wiki/Dusky-headed_parakeet" title="wikilink">灰頭錐尾鸚鵡</a><br />
+<a href="../Page/指標犬.md" title="wikilink">德國短毛波音達獵犬</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>903</p></td>
+<td><p>2019年2月3日</p></td>
+<td><p>半強迫在高地生活 下不來喵 奇奧<br />
+神奇的發作按鈕 四方車輛厭惡犬 哈比<br />
+因為意想不到的相見 被焦慮壟罩的平靜鄉村</p></td>
+<td><p><a href="../Page/混種短毛貓.md" title="wikilink">米克斯貓</a>/<a href="../Page/俄羅斯藍貓.md" title="wikilink">俄羅斯藍貓</a>/<a href="../Page/大丹犬.md" title="wikilink">大丹犬</a><br />
+<a href="https://zh.wikipedia.org/wiki/銀狐犬" title="wikilink">銀狐犬</a>/<a href="https://zh.wikipedia.org/wiki/臘腸犬" title="wikilink">臘腸犬</a><br />
+<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a></p></td>
+</tr>
+<tr class="even">
+<td><p>904</p></td>
+<td><p>2019年2月10日</p></td>
+<td><p>人間世事難料 萬萬沒想到為此事煩惱<br />
+一個模子刻出來的狐狸 與小狗相似率200%的紅狐狸<br />
+屋外很危險 二門不出的死宅犬拖網</p></td>
+<td><p><a href="../Page/混種狗.md" title="wikilink">米克斯犬</a><br />
+<a href="../Page/薩摩耶犬.md" title="wikilink">薩摩耶犬</a>/<a href="../Page/赤狐.md" title="wikilink">紅狐狸</a><br />
+<a href="../Page/珍島犬.md" title="wikilink">珍島犬</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>905</p></td>
+<td><p>2019年2月17日</p></td>
+<td><p>3年來完美犯罪 襲擊大雁的原型是?!<br />
+不要找我狗 自由靈魂小黑結束兩年的離家出走生活<br />
+峰兒和奶奶　溫暖的冬日故事(續901集)</p></td>
+<td><p>大雁/豹貓<br />
+<a href="../Page/珍島犬.md" title="wikilink">珍島犬</a><br />
+<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a></p></td>
+</tr>
+<tr class="even">
+<td><p>906</p></td>
+<td><p>2019年2月24日</p></td>
+<td><p>一直以來沒有過這種狗寶寶?! #真的真的_衝擊_長相 #絕對老顏<br />
+莞島的名人 數學天才小愛?!<br />
+來路不明的黑色小傢伙</p></td>
+<td><p><a href="../Page/混種狗.md" title="wikilink">米克斯犬</a><br />
+<a href="https://zh.wikipedia.org/wiki/Dusky-headed_parakeet" title="wikilink">灰頭錐尾鸚鵡</a>/<a href="https://zh.wikipedia.org/wiki/Turquoise-fronted_amazon" title="wikilink">藍頂亞馬遜鸚鵡</a><br />
+<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a>/<a href="../Page/混種短毛貓.md" title="wikilink">黑貓</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>907</p></td>
+<td><p>2019年3月3日</p></td>
+<td><p>Baby&amp;TheBeast I 寶寶和伴侶犬 在一起養也沒關係嗎?!<br />
+奇怪的暴君 奇異的育兒 企鵝孵著到底是什麼呢?!<br />
+歲月漫長 愛更深</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/貴賓犬" title="wikilink">迷你貴賓犬</a>/<a href="https://zh.wikipedia.org/wiki/美國可卡犬" title="wikilink">美國可卡犬</a>/<a href="../Page/混種短毛貓.md" title="wikilink">貓</a>/<a href="../Page/大白熊犬.md" title="wikilink">大白熊犬</a>/<a href="https://zh.wikipedia.org/wiki/柯基犬" title="wikilink">潘布魯克威爾斯柯基犬</a>/<a href="https://zh.wikipedia.org/wiki/Tervuren_dog" title="wikilink">比利時牧羊犬</a>/<a href="https://zh.wikipedia.org/wiki/拉不拉多犬" title="wikilink">黑拉拉</a><br />
+<a href="../Page/漢波德企鵝.md" title="wikilink">洪堡企鵝</a><br />
+<a href="../Page/博美犬.md" title="wikilink">博美犬</a>/<a href="../Page/比熊犬.md" title="wikilink">比熊犬</a>/<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a></p></td>
+</tr>
+<tr class="even">
+<td><p>908</p></td>
+<td><p>2019年3月10日</p></td>
+<td><p>Baby&amp;TheBeast II 寶寶和伴侶犬 在一起養也沒關係嗎?! (續907集)<br />
+多重性格的我 犬公版海德哲爾基與我 小黑<br />
+素食主義者 卡拉卡拉鷹 Justin</p></td>
+<td><p><a href="../Page/馬爾濟斯.md" title="wikilink">馬爾濟斯</a>犬/<a href="https://zh.wikipedia.org/wiki/美國可卡犬" title="wikilink">美國可卡犬</a><br />
+<a href="https://zh.wikipedia.org/wiki/貴賓犬" title="wikilink">迷你貴賓犬</a>/<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a><br />
+<a href="https://zh.wikipedia.org/wiki/Southern_crested_caracara" title="wikilink">卡拉卡拉鷹</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>909</p></td>
+<td><p>2019年3月17日</p></td>
+<td><p>新婚夫妻與13之杜賓犬<br />
+叫喚也不要看 憤怒直400% 馴服野蠻犬 諾利<br />
+孤獨無人島上的朋友們(續894集)</p></td>
+<td><p><a href="../Page/杜賓犬.md" title="wikilink">杜賓犬</a><br />
+<a href="../Page/珍島犬.md" title="wikilink">珍島犬</a>/<a href="../Page/喜樂蒂牧羊犬.md" title="wikilink">喜樂蒂牧羊犬</a>/<a href="https://zh.wikipedia.org/wiki/貴賓犬" title="wikilink">貴賓犬</a><br />
+<a href="../Page/混種狗.md" title="wikilink">米克斯犬</a></p></td>
+</tr>
+<tr class="even">
+<td><p>910</p></td>
+<td><p>2019年3月24日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>911</p></td>
+<td><p>2019年3月31日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>912</p></td>
+<td><p>2019年4月7日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>913</p></td>
+<td><p>2019年4月14日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>914</p></td>
+<td><p>2019年4月21日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>915</p></td>
+<td><p>2019年4月28日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>916</p></td>
+<td><p>2019年5月5日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>917</p></td>
+<td><p>2019年5月12日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>918</p></td>
+<td><p>2019年5月19日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>919</p></td>
+<td><p>2019年5月26日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>920</p></td>
+<td><p>2019年6月2日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 備註及參考資料
 
 ### 備註
@@ -803,7 +1000,7 @@
 
 ## 外部連結
 
-  - [SBS TV 動物農場 官方網站](http://tv.sbs.co.kr/zoo/index.html)
+  - [SBS TV 動物農場 官方網站](https://web.archive.org/web/20090902124658/http://tv.sbs.co.kr/zoo/index.html)
 
 <references />
 

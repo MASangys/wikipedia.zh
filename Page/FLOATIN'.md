@@ -19,7 +19,6 @@
 [Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink") [Category:CHEMISTRY歌曲](https://zh.wikipedia.org/wiki/Category:CHEMISTRY歌曲 "wikilink") [Category:2002年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
 4.

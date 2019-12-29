@@ -8,7 +8,7 @@
 | ---------- | ----------------------------------------------------- | --------------------------------- | ------ | --- | ----------- | ----- | -------------------------------------------------------------------------- |
 | 2012年7月19日 | [Crayon Pop](../Page/Crayon_Pop.md "wikilink")        | GeumMi、Ellin、ChoA、Way             | GeumMi | 活動中 | Sketch Book | 青蘋果綠  | [Soyul因個人因素約滿離隊](../Page/昭燏.md "wikilink")，其餘4位成員確定續約， 4人仍會以CrayonPop繼續活動。 |
 | 2014年1月7日  | [Be.A](https://zh.wikipedia.org/wiki/Be.A "wikilink") | Kiu、BornUs、G.LOW、Ato、Loki、BomB    | Kiu    | 活動中 | —           | —     | 原 **K-Much**，於2017年3月增加成員BomB，並更名                                          |
-| 2019年6月17日 | [青空少年](../Page/青空少年.md "wikilink")                    | Bon、Tae Woong、Double.D、Seung Hyun | Bon    | 活動中 | —           | —     |                                                                            |
+| 2019年6月17日 | [BZ Boys](../Page/BZ_Boys.md "wikilink")              | Bon、Tae Woong、Double.D、Seung Hyun | Bon    | 活動中 | Blueness    | —     |                                                                            |
 
 ### 演員
 

@@ -20,7 +20,7 @@
 
 ### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
-|- |rowspan="2"|[2016](https://zh.wikipedia.org/wiki/2016年Mnet亞洲音樂大獎 "wikilink") |\[2\] |rowspan="2" |NCT 127 | |- |align="center"| | |- |rowspan=3| [2017](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") |男子組合舞蹈表演賞 |rowspan=3| NCT 127 《Cherry Bomb》 | |- |亞洲新人賞 | |- |Qoo10 年度歌曲 | |- |rowspan=2| [2018](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink") |Worldwide Fans' Choice Top10 |rowspan=2| NCT 127 | |- |最佳男子團體賞 | |}
+|- |rowspan="2"|[2016年](../Page/2016年Mnet亚洲音乐大奖.md "wikilink") |年度歌手 |rowspan="9" |NCT 127 | |- |align="center"|最佳新人男子組合 | |- |rowspan=3|[2017年](https://zh.wikipedia.org/wiki/2017年Mnet亚洲音乐大奖 "wikilink") |男子組合舞蹈表演賞 | |- |亞洲新人賞 | |- |Qoo10 年度歌曲 | |- |rowspan=2|[2018年](https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖 "wikilink") |Worldwide Fans' Choice Top10 | |- |最佳男子團體賞 | |- |rowspan=4|[2019年](https://zh.wikipedia.org/wiki/2019年Mnet亚洲音乐大奖 "wikilink") |年度歌手 | |- |Worldwide Fans' Choice Top10 | |- |亞洲新人賞 |WayV | |- |}
 
 ### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
@@ -28,15 +28,19 @@
 
 ### [首爾歌謠大賞（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
-|- | 2017年 | 新人賞 | NCT 127 |  |- | 2018年 | 舞蹈表演賞 | NCT 127 |  |- |}
+|- | 2017年 | 新人賞 | rowspan=3|NCT 127 |  |- | rowspan=2|2018年 | 本賞 |  |- | 舞蹈表演賞 |  |- |}
 
 ###
 
-|- | 2016年 | 最佳新星（男子組合）\[3\] | NCT U |  |}
+|- | 2016年 | 最佳新星（男子組合）\[2\] | NCT U |  |}
 
-### SORIBADA Best K-Music Awards
+### [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")
 
-|- | 2017年 | 新韓流最佳表演獎 | NCT 127 |  |- |}
+|- | 2017年 | 新韓流表演賞 | rowspan=4|NCT 127 |  |- | 2018年 | rowspan=2|本賞 |  |- | rowspan=2|2019年 |  |- | Social Artist 賞 |  |- |}
+
+### [VLIVE AWARDS V HEARTBEAT](../Page/VLIVE_AWARDS_V_HEARTBEAT.md "wikilink")
+
+|- |2019年 |Global Artist Top 12 |NCT | |}
 
 ### 其他韓國頒獎典禮
 
@@ -93,4 +97,3 @@
 
 1.
 2.
-3.

@@ -24,7 +24,7 @@
 
 ### Oricon公信榜
 
-| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 最高銷售量   | 總銷量                                                                                        | 停留時間 | 參考資料 |-| | 專輯日榜 | \#1 | 46,781 | 323,718+ | 78週 |  |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 最高銷售量   | 總銷量                                                                                        | 停留時間 | 參考資料 |-| | 專輯日榜 | \#1 | 46,781 | 325,393+ | 78週 |  |
 | ---------------------------------------- | ---- | ------- | ------------------------------------------------------------------------------------------ | ---- | -------- | :--- | --- | ------ | -------- | --- |  |
 | 專輯週榜                                     | \#2  | 130,594 | [1](http://www.oricon.co.jp/rank/ja/w/2017-07-10/)                                         |      |          |      |     |        |          |     |  |
 | 專輯月榜                                     | \#2  | 130,594 | [2](https://web.archive.org/web/20170802104445/http://www.oricon.co.jp/rank/ja/m/2017-06/) |      |          |      |     |        |          |     |  |
@@ -43,7 +43,7 @@
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.  [TWICE 開設日本官方網站與推特](http://kpopn.niusnews.com/=K1donbx4) Kpopn. 2017-02-09
-2.  [TWICE 將正式進軍日本](http://kpopn.niusnews.com/=K2q7s6u3) Kpopn. 2017-02-24
+2.  [TWICE 將正式進軍日本](http://kpopn.niusnews.com/=K2q7s6u3)  Kpopn. 2017-02-24
 3.  [渋谷の 트와이스 - 시부야1 트와이스 - TWICE in SHIBUYA 1](https://www.youtube.com/watch?v=uLOUHe2h_Ew) Youtube. 2017-02-14
 4.  [渋谷2の 트와이스 - 시부야2 트와이스 - TWICE in SHIBUYA 2](https://www.youtube.com/watch?v=oh8YQe8DYBY) Youtube. 2017-02-16
 5.  [TWICE(트와이스) DEBUT IN JAPAN - TWICE 日本でデビュー](https://www.youtube.com/watch?v=xNnGrt-jCVw) Youtube. 2017-02-07

@@ -61,27 +61,15 @@
 [Category:布隆迪政治](https://zh.wikipedia.org/wiki/Category:布隆迪政治 "wikilink") [Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink")
 
 1.
-
 2.  [BURUNDI 2012 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/204307.pdf)
-
 3.  [BURUNDI 2014 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/236546.pdf)
-
 4.  [BURUNDI 2016 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/265442.pdf)
-
 5.  [BURUNDI 2015 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/252869.pdf)
-
 6.  [BURUNDI 2013 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/220300.pdf)
-
 7.  [BURUNDI 2011 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/186383.pdf)
-
 8.  [BURUNDI 2010 HUMAN RIGHTS REPORT](https://www.state.gov/documents/organization/160111.pdf)
-
 9.  [BURUNDI 2009 HUMAN RIGHTS REPORT](https://www.state.gov/j/drl/rls/hrrpt/2009/af/135941.htm)
-
 10. [BURUNDI 2008 HUMAN RIGHTS REPORT](https://www.state.gov/j/drl/rls/hrrpt/2008/af/118987.htm)
-
 11. [Article 29, Constitution Interimaire Post-Transition de la Republique du Burundi, Ministere de la Justice, Republique du Burundi](http://justice.gov.bi/IMG/pdf/Constitution_de_la_Republique_du_Burundi.pdf)
-
 12. ["Fiches pays Adoption: Burundi", France Diplomatie, French Ministry of Foreign Affairs, Google translation](http://www.diplomatie.gouv.fr/fr/enjeux-internationaux/adoption-internationale-2605/comment-adopter-a-l-etranger/les-fiches-pays/fiches-pays-adoption/article/burundi-82909)
-
 13.

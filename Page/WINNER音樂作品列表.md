@@ -166,12 +166,23 @@
 <td><p>63</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/CROSS_(WINNER韓語迷你專輯)" title="wikilink">CROSS</a></p></td>
+<td><ul>
+<li>發行日期：2019年10月23日</li>
+<li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>
+<li>發行公司：<a href="https://zh.wikipedia.org/wiki/韓國通訊" title="wikilink">KT音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
+<li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
+</ul></td>
+<td><p>4</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>日本</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/WE_(WINNER日語迷你專輯)" title="wikilink">WE</a></p></td>
 <td><ul>
 <li>發行日期：2019年8月7日</li>
@@ -182,7 +193,7 @@
 <td><p>colspan="6" </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -794,7 +805,9 @@
 | [Love Me Love Me](https://m.youtube.com/watch?v=ppOWR7ZLl7Q)    |                                                              |
 | [Island](https://m.youtube.com/watch?v=kRj4toENrnA)             |                                                              |
 | 2018年                                                           | [Everyday](https://m.youtube.com/watch?v=d1D1SJ-KqaQ)        |
-|                                                                 |                                                              |
+| [MILLIONS](https://www.youtube.com/watch?v=PALjhRpnfbk)         |                                                              |
+| 2019年                                                           | [AH YEAH](https://www.youtube.com/watch?v=Pm0_G8Zl0ek)       |
+| [SOSO](https://www.youtube.com/watch?v=oDKMLDH8kqc)             |                                                              |
 
 ## 其他歌曲
 
@@ -833,21 +846,21 @@
 <tr class="even">
 <td><p>2015年7月31日</p></td>
 <td><p>Show Me The Money 4 Episode 2</p></td>
-<td><p>거북선 (Turtle Ship)</p></td>
+<td><p>龜船（거북선/Turtle Ship）</p></td>
 <td><p>宋旻浩</p></td>
-<td><p>Ja Mezz, Andup, Paloalto, One</p></td>
+<td><p>Ja Mezz、Andup、Paloalto、One</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年8月7日</p></td>
 <td><p>Show Me The Money 4 Episode 3</p></td>
 <td><p>Moneyflow</p></td>
 <td><p>宋旻浩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>, Paloalto</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>、Paloalto</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年8月21日</p></td>
 <td><p>Show Me The Money 4 Episode 5</p></td>
-<td><p>Fear</p></td>
+<td><p>膽怯（겁/Fear）</p></td>
 <td><p>宋旻浩</p></td>
 <td><p><a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a></p></td>
 </tr>
@@ -861,9 +874,9 @@
 <tr class="even">
 <td><p>2015年8月28日</p></td>
 <td><p>Show Me The Money 4 Episode 6</p></td>
-<td><p>Victim + 위하여</p></td>
+<td><p>Victim + 乾杯（위하여）</p></td>
 <td><p>宋旻浩</p></td>
-<td><p>B-Free, Paloalto</p></td>
+<td><p>B-Free、Paloalto</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年3月9日</p></td>
@@ -874,8 +887,8 @@
 </tr>
 <tr class="even">
 <td><p>2016年5月9日</p></td>
-<td><p>Hip-Hop的民族 Episode 6</p></td>
-<td><p>엄마야</p></td>
+<td><p>嘻哈民族 Episode 6</p></td>
+<td><p>媽媽呀（엄마야）</p></td>
 <td><p>宋旻浩</p></td>
 <td><p><a href="../Page/文熙景.md" title="wikilink">文熙景</a></p></td>
 </tr>
@@ -889,7 +902,7 @@
 <tr class="even">
 <td><p>2016年12月31日</p></td>
 <td><p>無限挑戰 偉大的遺產</p></td>
-<td><p>쏘아 (SHOOT!)</p></td>
+<td><p>發射（쏘아/SHOOT!）</p></td>
 <td><p>宋旻浩</p></td>
 <td><p><a href="../Page/Haha.md" title="wikilink">Haha</a></p></td>
 </tr>
@@ -910,8 +923,8 @@
 <tr class="odd">
 <td><p>2017年9月21日</p></td>
 <td><p>Another Light</p></td>
-<td><p>백허그(Back Hug)</p></td>
-<td><p>宋旻浩、李昇勳(僅參與作詞)</p></td>
+<td><p>Back Hug（백허그）</p></td>
+<td><p>宋旻浩、李昇勳（參與作詞）</p></td>
 <td><p><a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a></p></td>
 </tr>
 <tr class="even">
@@ -923,8 +936,8 @@
 </tr>
 <tr class="odd">
 <td><p>2017年11月30日</p></td>
-<td><p>機智牢房生活原聲帶Part 2</p></td>
-<td><p>門(문)(Prod. by ZICO)</p></td>
+<td><p>機智牢房生活原聲帶 Part 2</p></td>
+<td><p>門（문/The Door）</p></td>
 <td><p>宋旻浩、姜昇潤</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Zico" title="wikilink">Zico</a></p></td>
 </tr>
@@ -937,15 +950,15 @@
 </tr>
 <tr class="odd">
 <td><p>2018年3月5日</p></td>
-<td><p>고무줄다리기(Rubber band)</p></td>
-<td><p>宋旻浩(僅參與作詞、作曲)</p></td>
+<td><p>Rubber Band</p></td>
+<td><p>Rubber Band（고무줄다리기）</p></td>
+<td><p>宋旻浩（參與作詞、作曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2018年3月15日</p></td>
 <td><p>GOØDevil</p></td>
-<td><p>鍊金術</p></td>
+<td><p>鍊金術（Alchemy）</p></td>
 <td><p>宋旻浩</p></td>
 <td><p>Ja Mezz、<a href="../Page/Dok2.md" title="wikilink">Dok2</a></p></td>
 </tr>
@@ -957,11 +970,39 @@
 <td><p><a href="../Page/勝利_(歌手).md" title="wikilink">勝利</a></p></td>
 </tr>
 <tr class="even">
+<td><p>2019年6月27日</p></td>
+<td><p>G1</p></td>
+<td><p>飛蛾（불나방/I'n on fire）</p></td>
+<td><p>宋旻浩（參與作詞、作曲）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>、Blue.D</p></td>
+</tr>
+<tr class="odd">
+<td><p>HOOLIGAN</p></td>
+<td><p>宋旻浩</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a></p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月13日</p></td>
+<td><p>姜食堂3</p></td>
+<td><p>撫摸撫摸（쓰담쓰담/Pat Pat）</p></td>
+<td><p>宋旻浩</p></td>
+<td><p><a href="../Page/P.O.md" title="wikilink">P.O</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月30日</p></td>
+<td><p>Tony Lip</p></td>
+<td><p>Promise</p></td>
+<td><p>宋旻浩</p></td>
+<td><p><a href="../Page/P.O.md" title="wikilink">P.O</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月2日</p></td>
+<td><p>I'm Your Blue Dream</p></td>
+<td><p>Nobody</p></td>
+<td><p>宋旻浩</p></td>
+<td><p>Blue.D</p></td>
 </tr>
 </tbody>
 </table>

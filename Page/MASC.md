@@ -284,12 +284,12 @@ MASC獨特的隊名來源，除了取自於Masculine的縮寫，有男子氣概�
 
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
-1.  [MASC 加入新成員，將於10/12回歸](http://kpopn.niusnews.com/=K3wii003)
+1.
 2.  \[<http://tenasia.hankyung.com/archives/997831‘데뷔>’ 마스크, 다 잘해도 되나요? ‘만능돌의 탄생’ \]
 3.  [신인 그룹 마스크, 작곡·연출·연기·랩 각양각색의 경력자들 모였다](http://www.kukinews.com/news/article.html?no=389824)
 4.  [男团MASC发生团内暴力事件 成员ACE退团 韓聯社](http://chinese.yonhapnews.co.kr/allheadlines/2018/07/30/0200000000ACK20180730000900881.HTML)
 5.  [MASC成員26決定退團並表示此決定和成員之間的不合無關](http://tw.weibo.com/yinyuetaikoreamusic/4268247438278045)
-6.  [新男團 E7 公開 ʺUʺ MV](http://kpopn.niusnews.com/=K0thw811)
+6.
 7.  [E7 "항상 노력하는 그룹 E7 입니다" (인터뷰)](http://news.heraldcorp.com/view.php?ud=20120924000875&md=20120927003406_BL)
 8.  [마스크(MASC), 세 번째 멤버 ACE(에이스) 티저 공개](http://www.wowtv.co.kr/newscenter/news/view.asp?bcode=T30001000&artid=A201608090038)
 9.  <http://www.sinchew.com.my/node/1825616>

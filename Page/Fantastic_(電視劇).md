@@ -136,7 +136,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金永敏" title="wikilink">金永敏</a></p></td>
+<td><p><a href="../Page/金永敏.md" title="wikilink">金永敏</a></p></td>
 <td><p>崔振泰</p></td>
 <td><p><a href="../Page/羅偉亮.md" title="wikilink">羅偉亮</a></p></td>
 <td></td>

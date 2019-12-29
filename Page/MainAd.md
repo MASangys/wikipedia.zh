@@ -25,16 +25,10 @@ MainAd从2011年开始支持意大利地球社。\[8\]
 [Category:市场营销](https://zh.wikipedia.org/wiki/Category:市场营销 "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
 
 1.   crunchbase|website=www.crunchbase.com|access-date=2017-03-08}}
-
 2.
-
 3.   Pubblicità Italia|last=Meneghetti|first=website created by TVN S.r.l - www.televisionet.tv - Davide Catalano - Salvatore Lentini - Marco Arcangeli - Matteo|website=www.pubblicitaitalia.it|access-date=2016-11-16}}
-
 4.   News and views sul marketing pubblicitario|language=it|access-date=2016-11-16}}
-
 5.
 6.   crunchbase|website=www.crunchbase.com|access-date=2016-11-16}}
-
 7.   News and views sul marketing pubblicitario|language=it|access-date=2016-11-22}}
-
 8.

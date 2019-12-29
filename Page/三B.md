@@ -4,7 +4,7 @@
 
 ## 起源
 
-科内利乌斯在《柏林綜合音樂報》（）的一篇文章中，將白遼士當作第三個B，在該文章的最後以「Bach, Beethoven, Berlioz\!」作為結尾\[1\]。數十年後彪罗在給朋友的信上用了以下的[雙關語](https://zh.wikipedia.org/wiki/雙關語 "wikilink")：「Mein musikalisches Glaubensbekenntniss steht in Es dur, mit drei B-en in der Vorzeichnung: Bach, Beethoven, und Brahms\!」\[2\]。在德文中，*B*代表[B{{Music也代表](https://zh.wikipedia.org/wiki/B♭_\(音名\) "wikilink")[降音符](https://zh.wikipedia.org/wiki/降音符 "wikilink")，上述的話可以翻譯為：「我音樂的[信條是](https://zh.wikipedia.org/wiki/信條 "wikilink")[降E大調](https://zh.wikipedia.org/wiki/降E大調 "wikilink")，其中的[調號有三個b](https://zh.wikipedia.org/wiki/調號 "wikilink")（降音符）：贝多芬、巴赫及勃拉姆斯！」
+科内利乌斯在《柏林綜合音樂報》（）的一篇文章中，將白遼士當作第三個B，在該文章的最後以「Bach, Beethoven, Berlioz\!」作為結尾\[1\]。數十年後彪罗在給朋友的信上用了以下的[雙關語](https://zh.wikipedia.org/wiki/雙關語 "wikilink")：「Mein musikalisches Glaubensbekenntniss steht in Es dur, mit drei B-en in der Vorzeichnung: Bach, Beethoven, und Brahms\!」\[2\]。在德文中，*B*代表[B{{Music也代表](https://zh.wikipedia.org/wiki/B♭_\(音名\) "wikilink")[降音符](https://zh.wikipedia.org/wiki/降音符 "wikilink")，上述的話可以翻譯為：「我音樂的[信條是](https://zh.wikipedia.org/wiki/信條 "wikilink")[降E大調](../Page/降E大調.md "wikilink")，其中的[調號有三個b](https://zh.wikipedia.org/wiki/調號 "wikilink")（降音符）：贝多芬、巴赫及勃拉姆斯！」
 
 ## 參考資料
 

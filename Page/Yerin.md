@@ -62,7 +62,7 @@
 
 ## 影視作品
 
-僅列出Yerin個人參與或有特別個人表演之作品；所屬團體之共同作品，請參閱 [GFRIEND影視作品列表](https://zh.wikipedia.org/wiki/GFRIEND影視作品列表 "wikilink")。
+僅列出Yerin個人參與或有特別個人表演之作品；所屬團體之共同作品，請參閱 [GFRIEND影視作品列表](../Page/GFRIEND影視作品列表.md "wikilink")。
 
 ### 廣播節目
 

@@ -146,7 +146,7 @@
 ## 練習生
 
   - [趙慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")（前[gugudan成員](https://zh.wikipedia.org/wiki/gugudan "wikilink")）
-  - [金旻奎 (2001年生)](https://zh.wikipedia.org/wiki/金旻奎_\(2001年生\) "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - [金旻奎 (2001年生)](../Page/金旻奎_\(2001年生\).md "wikilink")（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 崔俊聖（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 昔日練習生

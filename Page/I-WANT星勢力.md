@@ -106,19 +106,7 @@
   - [I-WANT星勢力 官方粉絲專頁](https://www.facebook.com/iwant.star/)
   - [2017世大運主題曲《擁抱世界擁抱你》Official MV](https://www.youtube.com/watch?v=yHZEG3P9tiM/)
 
-## 相關報導
-
-  - [「2017世大運主題曲決賽奪冠 曾宇辰等六組歌手出道」，《自由時報》，2016-12-21](http://www.nextmag.com.tw/breakingnews/entertainment/210874)
-  - [「I-WANT星勢力曾宇辰 奪世大運主題曲冠軍」，《中時電子報》，2016-12-21](http://www.chinatimes.com/realtimenews/20161221005410-260404)
-  - [「參選世大運主題曲 4組正能量歌手合力唱」，《自由時報》2016-10-05](http://ent.ltn.com.tw/news/breakingnews/1847361)
-  - [「這個團體做了什麼事 竟釣出A-Lin親自留言」，《自由時報》，2017-01-04](http://ent.ltn.com.tw/news/breakingnews/1937659)
-  - [「「星勢力」舞炯恩操刀編曲 A-Lin親致謝」，《NOWnews》，2017-01-05](http://www.nownews.com/n/2017/01/05/2362012)
-  - [「I-WANT星勢力世大運受好評　編舞人是蔡依林恩師」，《三立新聞》2017-08-22](http://www.setn.com/News.aspx?NewsID=285861)
-  - [「唇顎裂曾宇辰世大運跳舞！排練第一天就跪下來」，《ETtoday星光雲》2017-08-22](https://star.ettoday.net/news/994413?t=%E5%94%87%E9%A1%8E%E8%A3%82%E6%9B%BE%E5%AE%87%E8%BE%B0%E4%B8%96%E5%A4%A7%E9%81%8B%E8%B7%B3%E8%88%9E%EF%BC%81%E3%80%80%E3%80%8C%E6%8E%92%E7%B7%B4%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%B7%AA%E4%B8%8B%E4%BE%86%E3%80%8D)
-  - [「唱紅世大運主題曲 I-WANT星勢力展魅力」，《聯合報》2017-08-22](https://udn.com/news/story/11406/2657862)
-  - [「I-WANT 星勢力 國慶晚會熱鬧登場」，《聯合報》2017-10-09](https://udn.com/news/story/7314/2747766)
-
-[Category:台灣藝人](https://zh.wikipedia.org/wiki/Category:台灣藝人 "wikilink") [Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:華語音樂團體](https://zh.wikipedia.org/wiki/Category:華語音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年台灣建立](https://zh.wikipedia.org/wiki/Category:2016年台灣建立 "wikilink")
+[Category:台灣藝人](https://zh.wikipedia.org/wiki/Category:台灣藝人 "wikilink") [Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年台灣建立](https://zh.wikipedia.org/wiki/Category:2016年台灣建立 "wikilink")
 
 1.   生活 {{\!}} 中央社 CNA|accessdate=2018-01-19}}
 2.   音樂 {{\!}} 噓！星聞|last=聯合新聞網|newspaper=噓！星聞|accessdate=2018-01-19|language=zh-TW}}

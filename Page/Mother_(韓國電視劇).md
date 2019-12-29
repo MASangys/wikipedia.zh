@@ -30,7 +30,7 @@
 <td><p><strong>對成年人或小孩也不會撒謊的女人。</strong> 江原大學鳥類學實驗室的研究員，專門研究海鷗。學科及其研究室被廢除後，在附近的小學擔任科學老師。計劃在候鳥離開時前往冰島的鳥類學中心。但是秀珍遇見了慧娜。一個隱瞞被母親打、被同學們排斥也如常行動、在晚上獨自在街上走來走去的孩子。看見慧娜時，秀珍心裡的警示燈響起了。「別看那個孩子。不要靠近那個孩子。那個孩子不是你，和你沒有任何關係。」慧娜被母親拋棄的那天，秀珍下定決心要把慧娜帶走。</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/許律.md" title="wikilink">許律</a></p></td>
 <td><p>金慧娜／金允福</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃紫嫻" title="wikilink">黃紫嫻</a></p></td>
 <td><p><strong>在別人問她之前先說沒關係的孩子。</strong> 小學一年級。身上總有傷口，看見食物便雙眼發光，透過傳單學習韓文，晚上帶著小吱的倉鼠籠子到街上流連。慧娜的母親子英看起來並不幸福，有時候也會一邊發火一邊打慧娜。慧娜嘗試理解母親子英，因為如果連媽媽也失去的話，世上便沒有誰了。那天晚上，慧娜被子英痛打並拋棄時，慧娜才醒悟：應該先要從母親開始保護自己。</p></td>
@@ -39,7 +39,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/李慧英_(1962年)" title="wikilink">李慧英</a><br />
 </p></td>
 <td><p>車英信（姜英信）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳子瑩" title="wikilink">陳子瑩</a></p></td>
+<td><p><a href="../Page/陳子瑩.md" title="wikilink">陳子瑩</a></p></td>
 <td><p><strong>秀珍的母親，60代美麗及有威嚴的女演員。</strong> 過著演員生活，沒有丈夫地養大了三個女兒。人們說那樣子很適合英信，堅強的女性，母性的魅力。最好的房子、最好的學校、最好的衣服、最好的朋友們，英信希望只給秀珍最好的。但是英信並不知道秀珍真正想要的是什麼。秀珍在她二十五歲時銷聲匿跡了。此後不久，秀珍以憔悴的樣子出現，拜託英信給她錢。這次絕對不會再放手了。但是女兒秀珍竟有一個不知道爸爸是誰的女兒。</p></td>
 </tr>
 <tr class="odd">
@@ -238,7 +238,7 @@
 <tr class="odd">
 <td></td>
 <td><p>張禹均</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳子瑩" title="wikilink">陳子瑩</a></p></td>
+<td><p><a href="../Page/陳子瑩.md" title="wikilink">陳子瑩</a></p></td>
 <td><p>害怕搭纜車的小男孩。和他的爸爸幫助秀珍與慧娜躲過警察的盤查。</p></td>
 </tr>
 <tr class="even">
@@ -294,7 +294,7 @@
 <tr class="even">
 <td><p><a href="../Page/鄭愛妍.md" title="wikilink">鄭愛妍</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳子瑩" title="wikilink">陳子瑩</a></p></td>
+<td><p><a href="../Page/陳子瑩.md" title="wikilink">陳子瑩</a></p></td>
 <td><p>申子英的辯護律師。</p></td>
 </tr>
 <tr class="odd">
@@ -501,7 +501,7 @@
 <tr class="even">
 <td><p>電視部門<br />
 女子新人演技賞</p></td>
-<td></td>
+<td><p><a href="../Page/許律.md" title="wikilink">許律</a></p></td>
 <td></td>
 <td></td>
 <td></td>

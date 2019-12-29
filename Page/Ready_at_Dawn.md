@@ -1,5 +1,7 @@
 **Ready at Dawn Studios**是一家美国的电子游戏开发商，成立于2003年，公司早期成员来自[顽皮狗](../Page/顽皮狗.md "wikilink")和[暴雪娱乐](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")。\[1\]\[2\]公司因开发了[PlayStation Portable平台上的](../Page/PlayStation_Portable.md "wikilink")《[战神：奥林匹斯之链](../Page/战神：奥林匹斯之链.md "wikilink")》、《[戰神：斯巴達的亡魂](../Page/戰神：斯巴達的亡魂.md "wikilink")》以及[PlayStation 4上的](../Page/PlayStation_4.md "wikilink")《[教团1886](https://zh.wikipedia.org/wiki/教团1886 "wikilink")》而为人熟知。虽然Ready at Dawn开发的游戏作品多是[索尼互动娱乐旗下的游戏系列](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")，但公司并非是其子公司，而是独立运营。
 
+2018年7月23日，公司的CTO Andrea Pessino 在twitter宣佈之後的遊戲全部使用[Rust](../Page/Rust.md "wikilink")開發。
+
 ## 公司作品
 
 [Ready-at-Dawn-Logo-2003-2014.png](https://zh.wikipedia.org/wiki/File:Ready-at-Dawn-Logo-2003-2014.png "fig:Ready-at-Dawn-Logo-2003-2014.png")

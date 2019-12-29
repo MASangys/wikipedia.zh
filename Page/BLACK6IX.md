@@ -4,33 +4,32 @@
 
 ### 2017年：出道，首張+第二张單曲
 
-3月23日，在官方Youtube发布成员介绍影片\[1\]。
-
-3月30日，在官方Youtube发布出道曲/单曲预告影片\[2\]。
-
-4月6日，官方Youtube頻道發佈《Please》MV\[3\]。
-
-4月7日，正式出道，以及发行首張單曲《Please》\[4\]。
-
-4月11日，官方Youtube頻道發佈《Please》舞蹈版MV\[5\]。
-
-9月3日，官方Youtube频道發布《Like A Flower》MV\[6\]。
-
-11月9日，官方Youtube頻道發佈《Like A Flower》舞蹈版MV\[7\]。
+  - 3月23日，在官方Youtube发布成员介绍影片\[1\]。
+  - 3月30日，在官方Youtube发布出道曲/单曲预告影片\[2\]。
+  - 4月6日，官方Youtube頻道發佈《Please》MV\[3\]。
+  - 4月7日，正式出道，以及发行首張單曲《Please》\[4\]。
+  - 4月11日，官方Youtube頻道發佈《Please》舞蹈版MV\[5\]。
+  - 9月3日，官方Youtube频道發布《Like A Flower》MV\[6\]。
+  - 11月9日，官方Youtube頻道發佈《Like A Flower》舞蹈版MV\[7\]。
 
 ### 2018年：第三张單曲 + 首張迷你專輯
 
-1月31日，官方Youtube頻道發佈《Alone》Teaser\[8\]。
+  - 1月31日，官方Youtube頻道發佈《Alone》Teaser\[8\]。
+  - 2月3日，官方Youtube頻道發佈《Alone》MV\[9\]。
+  - 3月6日，官方Youtube頻道發佈《Alone》Performance Ver. MV\[10\]。
+  - 10月27日，官方Youtube發佈《Swamp Of Despair 절망의 늪》Teaser\[11\]。
+  - 10月30日，官方Youtube發布首張迷你專輯 《Swamp Of Despair 절망의 늪 》 MV\[12\]。
+  - 11月14日，官方Youtube發布 《Swamp Of Despair 절망의 늪 》 Performance Ver. MV\[13\]。
 
-2月3日，官方Youtube頻道發佈《Alone》MV\[9\]。
+### 2019年
 
-3月6日，官方Youtube頻道發佈《Alone》Performance Ver. MV\[10\]。
-
-10月27日，官方Youtube發佈《Swamp Of Despair 절망의 늪》Teaser\[11\]。
-
-10月30日，官方Youtube發布首張迷你專輯 《Swamp Of Despair 절망의 늪 》 MV\[12\]。
-
-11月14日，官方Youtube發布 《Swamp Of Despair 절망의 늪 》 Performance Ver. MV\[13\]。
+  - 5月10日\~12日，舉辦[歐洲巡迴演唱會](https://zh.wikipedia.org/wiki/歐洲 "wikilink")《THE BLACK PEARL WORLD TOUR》\[14\]。
+  - 8月23日\~25日、8月27日\~28日 & 8月30日\~9月1日，在[日本](../Page/日本.md "wikilink")[大阪舉辦](https://zh.wikipedia.org/wiki/大阪 "wikilink")《BLACK6IX SEASON2 SUMMER LIVE in OSAKA》。
+  - 9月21日\~23日，在日本大阪舉辦《BLACK6IX AUTUMN LIVE in OSAKA》。
+  - 9月30日\~10月1日，在[菲律賓舉辦](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")《BLACK6IX WORLD TOUR IN THE PHILIPPINES》。
+  - 10月13日，在日本[東京舉辦](https://zh.wikipedia.org/wiki/東京 "wikilink")《BLACK6IX LIVE IN TOKYO》。
+  - 11月5日\~7日預定，在日本大阪舉辦《BLACK6IX 2019 NOVEMBER SEASON LIVE》。
+  - 11月27日預定，在[巴西](../Page/巴西.md "wikilink")舉辦《THE BLACK PEARL WORLD TOUR》\[15\]。
 
 ## 成員列表
 
@@ -196,6 +195,35 @@
 
 ## 演出
 
+### 演唱會
+
+|           |
+| --------- |
+| **2018年** |
+| 日期        |
+| 1月29日     |
+| 1月31日     |
+| 2月3日      |
+
+|             |
+| ----------- |
+| **2019年**   |
+| 日期          |
+| 5月10日       |
+| 5月11日       |
+| 5月12日       |
+| 8月23日       |
+| 8月24日       |
+| 8月25日       |
+| 8月27日\~28日  |
+| 8月30日\~9月1日 |
+| 9月21日\~23日  |
+| 9月30日       |
+| 10月1日       |
+| 10月13日      |
+| 11月5日\~7日預定 |
+| 11月27日預定    |
+
 ### 音樂節目
 
 <table>
@@ -286,3 +314,5 @@
 11.
 12.
 13.
+14.
+15.

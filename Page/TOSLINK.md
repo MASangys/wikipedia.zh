@@ -37,15 +37,10 @@ ADAT Lightpipe或ADAT Optical与TOSLINK采用相同的接口（[JIS](https://zh.
 [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink") [Category:數位音訊](https://zh.wikipedia.org/wiki/Category:數位音訊 "wikilink") [Category:日本发明](https://zh.wikipedia.org/wiki/Category:日本发明 "wikilink")
 
 1.  [Toshiba TOTX1701](http://www.semicon.toshiba.co.jp/openb2b/websearch/productDetails.jsp?partKey=TOTX1701%28F%29)  TOSLINK Transmitter Module specifications.
-
 2.  ["What Is TOSLINK?"](http://www.semicon.toshiba.co.jp/eng/product/opto/faq/toslink/answer_toslink01.html) Toshiba Toslink FAQs.
-
 3.   100621 digikey.com
-
 4.
 5.
 6.
-
 7.
-
 8.

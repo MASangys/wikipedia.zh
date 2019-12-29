@@ -2,25 +2,22 @@
 
 ( function ( window, document, $, mw, gt ) {
 
-//automatic api:edit function to send yourself messages function
-sendMessage( targetPage, msgPage, linkTo ) {
+//automatic api:edit function to send yourself messages function sendMessage( targetPage, msgPage, linkTo ) {
 
 `   var api = new mw.Api();`
 `   api.post( {`
 `       'action' : 'edit',`
 `       'title' : targetPage,`
 `       'appendtext' : "\n``",`
-`       'summary' : '新訊息（`[`維基百科大歷險自動模擬`](../Page/WP:TWA.md "wikilink")`3）',`
-`       'token' : mw.user.tokens.get('editToken')`
+`       'summary' : '新訊息（`[`維基百科大歷險自動模擬`](https://zh.wikipedia.org/wiki/WP:TWA "wikilink")`3）',`
+`       'token' : mw.user.tokens.get('csrfToken')`
 `   } ).done( function () {`
 `       window.location.href = linkTo;`
 `   } );`
 
 }
 
-// Fail gracefully post-save but not postedit var postEditButtons =
-\[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() )
-{
+// Fail gracefully post-save but not postedit var postEditButtons = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtons.push( {`
 `               name: '按此返回並進行編輯',`
@@ -31,9 +28,7 @@ sendMessage( targetPage, msgPage, linkTo ) {
 
 }
 
-// Fail gracefully post-save but not postedit for visual editor var
-postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) ===
-'view' && \!gt.isPostEdit() ) {
+// Fail gracefully post-save but not postedit for visual editor var postEditButtonsVisual = \[\]; if ( mw.config.get( 'wgAction' ) === 'view' && \!gt.isPostEdit() ) {
 
 `       postEditButtonsVisual.push( {`
 `               name: '返回',`
@@ -384,8 +379,7 @@ gt.defineTour( {
 `               //13`
 `               title: '第三關完成！',`
 `               description: '`
-[<File:Wesnothmusic.ogg>`
- ``(short).ogg`](https://zh.wikipedia.org/wiki/File:Wesnothmusic.ogg_\(short\).ogg "fig:File:Wesnothmusic.ogg (short).ogg")
+[<File:Wesnothmusic.ogg>`   ``(short).ogg`](https://zh.wikipedia.org/wiki/File:Wesnothmusic.ogg_\(short\).ogg "fig:File:Wesnothmusic.ogg (short).ogg")
 <b>`踏上第四關⋯⋯`</b>`',`
 `               onShow: gt.parseDescription,`
 `               overlay: false,`

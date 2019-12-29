@@ -31,26 +31,17 @@ A型灯泡常配有约长的E26（直径26毫米，100–120V）或E27（直径2
 [Category:灯](https://zh.wikipedia.org/wiki/Category:灯 "wikilink") [Category:電光源](https://zh.wikipedia.org/wiki/Category:電光源 "wikilink") [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.

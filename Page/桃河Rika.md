@@ -195,11 +195,9 @@
 [Category:日本女性配音員](https://zh.wikipedia.org/wiki/Category:日本女性配音員 "wikilink") [Category:EARLY_WING](https://zh.wikipedia.org/wiki/Category:EARLY_WING "wikilink") [Category:岡山縣出身人物](https://zh.wikipedia.org/wiki/Category:岡山縣出身人物 "wikilink")
 
 1.  由於沒有固定的中文正式譯名，故有時譯作“**桃河-{里}-香**”或“**桃河莉佳**”等。
-
 2.
 3.
 4.
-
 5.
 6.
 7.
@@ -209,25 +207,14 @@
 11.
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22. 第4期常態嘉賓。
-
 23. 擔任節目嘉賓出演。
-
 24.

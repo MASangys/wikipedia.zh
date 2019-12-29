@@ -72,6 +72,17 @@
 <td><p>5</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/An_Ode.md" title="wikilink">An Ode</a></p></td>
+<td><ul>
+<li>發行日期：2019年9月16日</li>
+<li>製作公司：Pledis娛樂</li>
+<li>發行公司：Stone Music、Genie Music、華納音樂</li>
+<li>形式：CD、數位音樂下載</li>
+</ul></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -398,9 +409,8 @@ Hot.</a><br />
 <li>韓國：82,771+<ref>〈MANSAE〉韓國數位下載量統計：</li>
 <li></li>
 <li></li>
-<li></li>
-</ul>
-<p></ref></p></td>
+<li><p></ref></p></li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>Pretty U<small>（예쁘다）</small></p></td>
@@ -1412,7 +1422,7 @@ World</a><br />
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p>勝寛 &amp; <a href="../Page/率滨.md" title="wikilink">率濱</a>（<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寬" title="wikilink">勝寬</a> &amp; <a href="../Page/率滨.md" title="wikilink">率濱</a>（<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>捐<small>（연）（原唱：）</small></p></td>
@@ -1426,7 +1436,7 @@ World</a><br />
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p>勝寛</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寬" title="wikilink">勝寬</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1442,7 +1452,7 @@ World</a><br />
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>《위대한 유혹자 OST Part.3》[37]</p></td>
-<td><p>DK</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1450,18 +1460,42 @@ World</a><br />
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>《불후의 명곡 - 전설을 노래하다` - 불후의 명곡 조용필을 노래하다 2》[38]</p></td>
-<td><p>SEVENTEEN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>A-teen</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p>網劇《A-Teen》OST</p></td>
+<td><p>網劇《A-Teen》OST[39]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>9-TEEN</p></td>
+<td><p>2019年</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>網劇《A-TEEN 2》OST[40]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Miracle</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>《조선로코 - 녹두전 OST Part 3》[41]</p></td>
+<td><p><a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Sweetest Thing</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>電視劇《巧克力》OST[42]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寬" title="wikilink">勝寬</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -1506,7 +1540,7 @@ World</a><br />
 （한여름밤의 꿀）</a></p></td>
 <td><p><a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/Raina.md" title="wikilink">Raina</a></p></td>
 <td><p>於《SEVENTEEN PROJECT》<br />
-第三集演出[39]</p></td>
+第三集演出[43]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1522,7 +1556,7 @@ World</a><br />
 <td><p><a href="https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol4-like-a-loose-cannon-coups-hansol">LIKE A LOOSE CANNON</a></p></td>
 <td><p>Goldie</p></td>
 <td></td>
-<td><p>曾於Brand New Day Vol.5上表演[40]</p></td>
+<td><p>曾於Brand New Day Vol.5上表演[44]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1589,7 +1623,7 @@ World</a><br />
 <td><p><a href="https://www.youtube.com/watch?v=RyeZxV_25fs">Bang SEVENTEEN ver.</a></p></td>
 <td><p>SEVENTEEN</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=B_u5amB7cDs">Bang!</a></p></td>
-<td><p>[41]</p></td>
+<td><p>[45]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1630,7 +1664,7 @@ World</a><br />
 <td><p>SEVENTEEN (Vocal Team)</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=B_s81YkMlUU">We Gonna Make It Shine</a></p></td>
 <td><p>WOOZI、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
-<td><p>曾於同年7月16日演唱會上表演[42]</p></td>
+<td><p>曾於同年7月16日演唱會上表演[46]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1649,7 +1683,7 @@ World</a><br />
 | [떠내려가 (Drift Away)](https://www.youtube.com/watch?v=rYo96L2hyNk) | [Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、勝寛、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink") | 由WOOZI、Vernon、[勝寛作詞](../Page/夫勝寛.md "wikilink")，WOOZI參與作曲；後收錄於正規一輯《[Love & Letter](../Page/Love_&_Letter.md "wikilink")》                                        |                                                                                                                                                                                           |                                                                                                                           |
 | 2016年                                                            | 11月1日                                                                                                                                                                  | [Check-In](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol12-check-in-hiphop-team-scoups-wonwoo-mingyu-vernon)                                    | Hip-hop Team                                                                                                                                                                              | 於同日發佈[MV](https://www.youtube.com/watch?v=SyqR3y9h6eU)；後收錄於迷你四輯《[Al1](../Page/Al1.md "wikilink")》                         |
 | 2017年                                                            | 2月13日                                                                                                                                                                  | [ZERO](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol13-0zero-dino)                                                                              | Dino                                                                                                                                                                                      | 由Dino作詞，桂範洙作曲                                                                                                             |
-| 7月22日                                                            | [言行一致 (언행일치) Concert ver.](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol14-concert-ver)                                                                | Hip-hop Team                                                                                                                                                    | 曾於同年7月15日演唱會上表演\[43\]                                                                                                                                                                     |                                                                                                                           |
+| 7月22日                                                            | [言行一致 (언행일치) Concert ver.](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol14-concert-ver)                                                                | Hip-hop Team                                                                                                                                                    | 曾於同年7月15日演唱會上表演\[47\]                                                                                                                                                                     |                                                                                                                           |
 | 2018年                                                            | 1月1日                                                                                                                                                                   | [The real thing](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol15-the-real-thing-dino)                                                           | Dino                                                                                                                                                                                      | 曾於2017年7月14日演唱會上表演                                                                                                        |
 | 3月8日                                                             | [夜伴雨(밤과 비)](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol16-the8)                                                                                      | The 8                                                                                                                                                           | 由The8作詞，The8、Woozi、桂範洙作曲                                                                                                                                                                  |                                                                                                                           |
 
@@ -1679,7 +1713,7 @@ World</a><br />
 <a href="https://www.youtube.com/watch?v=O1H_vLSgnZQ">Part Switch Ver.</a><br />
 <a href="https://www.youtube.com/watch?v=GNNhb3hvm58">Acoustic Ver.</a><br />
 <a href="https://www.youtube.com/watch?v=_E3xrZUZCqU">Performance Ver.</a></p></td>
-<td><p>Dee Shin[44]</p></td>
+<td><p>Dee Shin[48]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月9日</p></td>
@@ -1692,7 +1726,7 @@ World</a><br />
 <a href="https://www.youtube.com/watch?v=8BXT1sKzNT0">Performance Team Concert ver.</a><br />
 <a href="https://www.youtube.com/watch?v=AxDtMWrlhpI">Hiphop Team Concert ver.</a><br />
 <a href="https://www.youtube.com/watch?v=PobYFdp939E">Vocal Team Concert ver.</a></p></td>
-<td><p>Im Seong-gwan[45]</p></td>
+<td><p>Im Seong-gwan[49]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1703,7 +1737,7 @@ World</a><br />
 <a href="https://www.youtube.com/watch?v=046_3Bu3iAA">Dancecal 'Dear Carat' ver.</a><br />
 <a href="https://www.youtube.com/watch?v=0iPOkrx9aQY">Dancecal 'LETTER ver.'</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Q-1MgSRMxE8">Part Switch ver.</a></p></td>
-<td><p>Shin Hui-won[46]</p></td>
+<td><p>Shin Hui-won[50]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月15日</p></td>
@@ -1719,7 +1753,7 @@ World</a><br />
 <td><p><a href="https://www.youtube.com/watch?v=A1gJQpMSkEU">DANCE PRACTICE ver.</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=J44jvBZzFVY">Rooftop ver.</a></p></td>
 <td><p>{{tsl|en|Digipedi</p></td>
-<td><p>Digipedi}}[47]</p></td>
+<td><p>Digipedi}}[51]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月16日</p></td>
@@ -1734,7 +1768,7 @@ World</a><br />
 <td><p><a href="https://www.youtube.com/watch?v=Tct9c4MrmMA">Check-In</a> (Hip-hop Team)</p></td>
 <td></td>
 <td></td>
-<td><p>Beomjin[48]</p></td>
+<td><p>Beomjin[52]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1856,7 +1890,7 @@ World</a><br />
 <td></td>
 <td><p><a href="https://m.youtube.com/watch?v=JCp6mEHj5Tw">Choreography Video</a></p></td>
 <td><p>{{tsl|en|Digipedi</p></td>
-<td><p>Digipedi}}[49]</p></td>
+<td><p>Digipedi}}[53]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月16日</p></td>
@@ -1917,7 +1951,7 @@ World</a><br />
 | 發佈日期       | 歌曲名稱                                                     | 演唱者                                                                                               | 參與成員                                                                                                            | 導演                |
 | ---------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
 | 2015年12月3日 | [Q\&A](https://www.youtube.com/watch?v=tc1ll7xXCmw)      | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") & [Ailee](../Page/李艺真.md "wikilink")          | [S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、Vernon | {{tsl|en|Digipedi |
-| 2016年2月11日 | [Chocolate](https://www.youtube.com/watch?v=qx8f1-_pQwg) | [尹鍾信](../Page/尹鍾信.md "wikilink") & [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Unit | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Team                                                  | Gudals Kim\[50\]  |
+| 2016年2月11日 | [Chocolate](https://www.youtube.com/watch?v=qx8f1-_pQwg) | [尹鍾信](../Page/尹鍾信.md "wikilink") & [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Unit | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Team                                                  | Gudals Kim\[54\]  |
 
 ### 參演音樂錄影帶
 
@@ -2092,35 +2126,25 @@ World</a><br />
 [Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
 9.
-
 10.
 11.
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
 22.
 23.
@@ -2128,49 +2152,30 @@ World</a><br />
 25.
 26.
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33. SoundCloud：
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
+51.
+52.
+53.
+54.

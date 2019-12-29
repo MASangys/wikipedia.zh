@@ -155,6 +155,7 @@ Apeace成員分為三個小隊：Lapis5、Jade5與Onyx5，各有五名成員\[3\
   - 8th《CHANGE my LIFE / 看似無盡的道路...（）》（2017年3月22日）
   - 9th《》（2017年12月13日）
   - 10th《》（2019年1月23日）
+  - 11th《》（2019年11月20日）
 
 ''' 日語專輯 '''
 
@@ -175,11 +176,7 @@ Apeace成員分為三個小隊：Lapis5、Jade5與Onyx5，各有五名成員\[3\
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:2010年韓國建立](https://zh.wikipedia.org/wiki/Category:2010年韓國建立 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

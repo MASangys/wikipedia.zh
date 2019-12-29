@@ -45,6 +45,5 @@
 [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:蠟筆小新歌曲](https://zh.wikipedia.org/wiki/Category:蠟筆小新歌曲 "wikilink") [Category:朝日電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台動畫主題曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
 
 1.
-
 2.
 3.

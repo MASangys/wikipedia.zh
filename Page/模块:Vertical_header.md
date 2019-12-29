@@ -7,7 +7,9 @@ function p.cell(frame)
 `   local vertAlign = frame.args.vertAlign`
 `   local maxWidth = frame.args.maxWidth`
 `   local noBold = frame.args.noBold`
-`   local style = frame.args.style`
+`   local style = frame.args.style:gsub("\"", """)`
+`   local cellStyle = frame.args.cellstyle:gsub("\"", """)`
+`   local rotate= frame.args.rotate`
 `   local wikiText = "class = \"nowrap"`
 `   local normalAlign = ""`
 `   -- local stupidIEAlign = ""`
@@ -16,8 +18,7 @@ function p.cell(frame)
 `   if maxWidth ~= "" then`
 `       width = maxWidth`
 `   else`
-`       for eachMatch in text:gmatch("`
-`") do`
+`       for eachMatch in text:gmatch("<[bB][rR] */? *>") do`
 `           rows = rows + 1`
 `       end`
 `       width = rows * 0.875`
@@ -33,7 +34,7 @@ function p.cell(frame)
 `       wikiText = wikiText .. "21px"`
 `   end`
 `   wikiText = wikiText .. " .4em .2em;background-position:50% .4em !important;"`
-`   wikiText = wikiText .. "min-width:" .. width .. ";max-width:" .. width .. ";width:" .. width .. ";overflow:hidden\""`
+`   wikiText = wikiText .. "min-width:" .. width .. ";max-width:" .. width .. ";width:" .. width .. ";overflow:hidden;" .. cellStyle .. "\""`
 `   wikiText = wikiText .. " | <div style=\"" .. frame:preprocess("``") .. "-ms-transform: none \ ;padding-left:1px;text-align:"`
 `   if vertAlign == "top" then`
 `       normalAlign = "right"`

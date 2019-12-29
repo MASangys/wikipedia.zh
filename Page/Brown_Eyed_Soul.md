@@ -12,7 +12,7 @@
 
 ### live專輯
 
-  - 2008年 *Brown Eyed Soul Christmas Concert Live 2007* ([音源和](https://zh.wikipedia.org/wiki/音源 "wikilink")[DVD同時發行](https://zh.wikipedia.org/wiki/DVD "wikilink"))
+  - 2008年 *Brown Eyed Soul Christmas Concert Live 2007* ([音源](../Page/音源.md "wikilink")和[DVD同時發行](https://zh.wikipedia.org/wiki/DVD "wikilink"))
   - 2011年 ''Soul Fever
 
 ### 單曲

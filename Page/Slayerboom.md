@@ -7,9 +7,7 @@
 
 [Category:中国配音员](https://zh.wikipedia.org/wiki/Category:中国配音员 "wikilink") [Category:男性配音员](https://zh.wikipedia.org/wiki/Category:男性配音员 "wikilink") [Category:中华人民共和国编剧](https://zh.wikipedia.org/wiki/Category:中华人民共和国编剧 "wikilink") [Category:郝姓](https://zh.wikipedia.org/wiki/Category:郝姓 "wikilink")
 
-1.  [藤新！皇贞季！山新！Slayerboom！十月魔都萤火虫声优都是怪物系列第二弹！](http://www.fireflyacg.com/index.php?s=/home/article/detail/id/361.html)
-
+1.
 2.  [众星云集《盗墓三番队》打造国产听觉盛宴](http://news.17173.com/content/11242016/105757955.shtml)
-
 3.
 4.

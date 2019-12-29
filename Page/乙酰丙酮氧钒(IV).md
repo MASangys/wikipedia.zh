@@ -18,5 +18,4 @@
 [Category:四价钒化合物](https://zh.wikipedia.org/wiki/Category:四价钒化合物 "wikilink") [Category:乙酰丙酮配合物](https://zh.wikipedia.org/wiki/Category:乙酰丙酮配合物 "wikilink")
 
 1.
-
 2.

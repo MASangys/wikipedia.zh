@@ -22,4 +22,4 @@
 2.  [《NBA 2K18》IGN评分8.4分 对手刻画逼真瑕不掩瑜！](http://www.ali213.net/news/html/2017-9/321141.html)
 3.  [NBA 2K18 on Steam](http://store.steampowered.com/app/577800/NBA_2K18/)
 4.  [【NBA 2K18】滿頁的負評究竟怎麼了，籃球系列神作禁得起這波考驗嗎？](http://game.kikinote.net/10991)
-5.  [《NBA 2K18》Switch遊戲頻頻出錯 掉幀崩潰問題嚴重](http://www.focusnews.top/news-13314501.html)
+5.

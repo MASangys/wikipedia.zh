@@ -72,7 +72,7 @@
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.  [NCT DREAM 9日發行首張單曲專輯《The First》回歸！成員渽民因傷缺席](http://www.koreastardaily.com/tc/news/90512)KSD韓星網
-2.  [NCT DREAM S.M. Ent.：NCT DREAM 將於2月回歸](http://kpopn.niusnews.com/=K1ybzbx6)Kpopn
-3.  [NCT DREAM 以六人組在2月9日回歸！](http://kpopn.niusnews.com/=K3wfjp84)Kpopn
-4.  [NCT DREAM《The First》音源、MV](http://kpopn.niusnews.com/=K320pt83)Kpopn
+2.  [NCT DREAM S.M. Ent.：NCT DREAM 將於2月回歸](http://kpopn.niusnews.com/=K1ybzbx6) Kpopn
+3.  [NCT DREAM 以六人組在2月9日回歸！](http://kpopn.niusnews.com/=K3wfjp84) Kpopn
+4.  [NCT DREAM《The First》音源、MV](http://kpopn.niusnews.com/=K320pt83) Kpopn
 5.

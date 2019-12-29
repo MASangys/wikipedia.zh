@@ -17,5 +17,5 @@
 
 [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink") [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
-1.  <http://kpopn.niusnews.com/=K1rvbol2>
+1.
 2.  <http://www.koreastardaily.com/tc/news/74024>

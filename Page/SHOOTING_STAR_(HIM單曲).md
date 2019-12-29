@@ -61,8 +61,6 @@
 [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/Category:咕嚕咕嚕魔法陣 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

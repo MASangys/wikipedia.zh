@@ -22,9 +22,6 @@ BIGBANG的首張迷你專輯《[Always](../Page/Always_\(BIGBANG迷你專輯\).m
 [Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2007年迷你專輯](https://zh.wikipedia.org/wiki/Category:2007年迷你專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

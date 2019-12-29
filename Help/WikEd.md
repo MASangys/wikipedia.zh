@@ -639,7 +639,7 @@ Under real-world conditions with typical wiki content, WYSIWYG editing is more c
 The design philosophy of **wikEd** is:
 
   - Simple, small, and intuitive user interface (no navigation through complex menu structures, no popups, special buttons must be added as plugins)
-  - Cross site compatibility between all [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink") installations (not only Wikipedia)
+  - Cross site compatibility between all [MediaWiki](../Page/MediaWiki.md "wikilink") installations (not only Wikipedia)
   - Multi-language support
   - Multi-browser support by using cross-browser standards-compatible code
   - Use of the browser-internal rich-text editor

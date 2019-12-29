@@ -1,4 +1,4 @@
-《**Princess Principal**》（）是一部由[Studio 3Hz及](../Page/3Hz.md "wikilink")[Actas](../Page/Actas.md "wikilink")聯合製作的原創動畫，於2017年7月9日首播\[1\]。另外，以動畫為題的手機遊戲《Princess Principal: GAME OF MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\](已於2018年12月28日15點閉服)\[3\]。2018年4月29日，官方宣布製作動畫續篇，預計總共六章，並於2019年冬季在劇院公開第一章\[4\]。另外，因為Principal與Principle發音相同，所以也被稱作為公主代理人或公主準則。
+《**Princess Principal**》（）是一部由[Studio 3Hz及](../Page/3Hz.md "wikilink")[Actas](../Page/Actas.md "wikilink")聯合製作的原創動畫，於2017年7月9日首播\[1\]。另外，以動畫為題的手機遊戲《Princess Principal: GAME OF MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]（已於2018年12月28日15點閉服）\[3\]。2018年4月29日，官方宣布製作動畫續篇，預計總共六章，並於2019年冬季在劇院公開第一章\[4\]。另外，因為Principal與Principle發音相同，所以也被稱作為公主代理人或公主準則。
 
 ## 故事簡介
 
@@ -33,7 +33,7 @@
 <!-- end list -->
 
   -
-    留學英國的日本人。雖然個子矮小，但有著超越其父親十兵衞的達人級水準的劍術，能砍子彈，也擅長使用暗器及手槍，聲稱因興趣關係而練習劍術。在體術方面，與使用C球時的安潔不分上下。不習慣西洋文化。雖然父親是幕府的支持者，但她是效忠天皇的一方，也因此在護衞任務中把視為叛黨的父親殺死。然而，她也為此而傷心流淚。
+    留學英國的日本人，是個左撇子。雖然個子矮小，但有著超越其父親十兵衞的達人級水準的劍術，能砍子彈，也擅長使用暗器及手槍，聲稱因興趣關係而練習劍術。在體術方面，與使用C球時的安潔不分上下。不習慣西洋文化。雖然父親是幕府的支持者，但她是效忠天皇的一方，也因此在護衞任務中把視為叛黨的父親殺死。然而，她也為此而傷心流淚。
     来到阿尔比昂留学的目的是為日本政府監視和報告阿爾比昂王國的局勢，看王国或共和国哪一方值得信赖。最終選擇暫時與公主一方同盟，加入成為共和國間諜的助力。目前入讀皇家學院，與貝翠絲是室友。
 
 <!-- end list -->
@@ -260,16 +260,10 @@
 [Category:Actas](https://zh.wikipedia.org/wiki/Category:Actas "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:架空世界背景作品](https://zh.wikipedia.org/wiki/Category:架空世界背景作品 "wikilink") [Category:交換身分題材動畫](https://zh.wikipedia.org/wiki/Category:交換身分題材動畫 "wikilink") [Category:公主主角題材動畫](https://zh.wikipedia.org/wiki/Category:公主主角題材動畫 "wikilink") [Category:間諜題材動畫](https://zh.wikipedia.org/wiki/Category:間諜題材動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.

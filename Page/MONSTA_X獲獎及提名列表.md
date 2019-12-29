@@ -12,7 +12,7 @@
 
 ### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
-|- | rowspan="2" |2015年 | Red Carpet: Next Generation Asian Artist | rowspan="3" |MONSTA X | |- | 最佳新人男子組合 | |- | rowspan="2" |2016年 | 男子部門Best of Next獎 | |- | 最佳舞蹈表演－男子組合 | 《Stuck》 | |- | rowspan="1" |2017年 | Best Concert Performer獎 | rowspan="3" |MONSTA X | |- | rowspan="4" |2018年 | KISS ME Style in Music | |- | Worldwide Fans' Choice Top10 | |- | Mwave Global Fans' Choice | 《DRAMARAMA》 | |- | 最佳舞蹈表演男團 | 《Shoot Out》 | |}
+|- | rowspan="2" |2015年 | Red Carpet: Next Generation Asian Artist | rowspan="3" |MONSTA X | |- | 最佳新人男子組合 | |- | rowspan="2" |2016年 | 男子部門Best of Next獎 | |- | 最佳舞蹈表演－男子組合 | 《Stuck》 | |- | rowspan="1" |2017年 | Best Concert Performer獎 | rowspan="3" |MONSTA X | |- | rowspan="4" |2018年 | KISS ME Style in Music | |- | Worldwide Fans' Choice Top10 | |- | Mwave Global Fans' Choice | 《DRAMARAMA》 | |- | 最佳舞蹈表演男團 | 《Shoot Out》 | |- | rowspan="1" |2019年 | World performer | MONSTA X | |}
 
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
@@ -37,6 +37,10 @@
 ### [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")
 
 |- |2017年 |rowspan="2" |本賞 |rowspan="5" |MONSTA X | |- |rowspan="2" |2018年 | |- |新韓流藝人賞 | |- |rowspan="2" |2019年 |rowspan="1" |本賞 | |- |rowspan="1" |NEW WAVE賞 | |}
+
+### [VLIVE AWARDS V HEARTBEAT](../Page/VLIVE_AWARDS_V_HEARTBEAT.md "wikilink")
+
+|- |rowspan="2" |2019年 |Global Artist Top 12 |rowspan="2" |MONSTA X | |- | VLIVE Global Partnership | |}
 
 ## 外部連結
 

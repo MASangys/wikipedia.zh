@@ -4,4 +4,4 @@ NHL系列的首作是于1991年在[Mega Drive上发行的](../Page/Mega_Drive.md
 
 ## 参考资料
 
-[Category:1991年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:1991年首发的电子游戏系列 "wikilink") [Category:艺电电子游戏系列](https://zh.wikipedia.org/wiki/Category:艺电电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink") [Category:NHL系列](https://zh.wikipedia.org/wiki/Category:NHL系列 "wikilink")
+[Category:1991年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:1991年首发的电子游戏系列 "wikilink") [Category:艺电电子游戏系列](https://zh.wikipedia.org/wiki/Category:艺电电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:體育電子遊戲](https://zh.wikipedia.org/wiki/Category:體育電子遊戲 "wikilink") [Category:NHL系列](https://zh.wikipedia.org/wiki/Category:NHL系列 "wikilink")

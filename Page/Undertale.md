@@ -331,7 +331,7 @@ Chara在Flowey死亡後，會出現在玩家面前，解釋他們透過玩家的
 
 ## 評價
 
-《Undertale》獲得相當的好評。在[Metacritic](../Page/Metacritic.md "wikilink")以及[GameRankings上分別獲評為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")92/100和94.26%的佳績。\[5\]\[6\] [Rock, Paper, Shotgun的Jack](../Page/Rock,_Paper,_Shotgun.md "wikilink") de Quidt称赞了游戏的平衡度\[7\]。[Jim Sterling給予遊戲高度評價](https://zh.wikipedia.org/wiki/Jim_Sterling "wikilink")，譽其為「他一生玩過最棒的RPG遊戲之一」。\[8\][Destructoid](../Page/Destructoid.md "wikilink")的編輯 Ben Davis 讚美它的幽默和角色設計，並給予編輯賞。\[9\][Game Informer的](../Page/Game_Informer.md "wikilink") Daniel Tack 給予該遊戲9.5/10的高分，稱游戏是「迷人、爽快的旅程」，「組織緊張的體驗值得你關注」。\[10\] Toby於2016年初在推特上表示感謝[IGN](../Page/IGN.md "wikilink")授予該遊戲2015年度「最佳電腦遊戲」、「最佳故事獎」和「最佳狗狗獎」等三個獎項。\[11\]
+《Undertale》獲得相當的好評。在[Metacritic](../Page/Metacritic.md "wikilink")以及[GameRankings](../Page/GameRankings.md "wikilink")上分別獲評為92/100和94.26%的佳績。\[5\]\[6\] [Rock, Paper, Shotgun的Jack](../Page/Rock,_Paper,_Shotgun.md "wikilink") de Quidt称赞了游戏的平衡度\[7\]。[Jim Sterling給予遊戲高度評價](https://zh.wikipedia.org/wiki/Jim_Sterling "wikilink")，譽其為「他一生玩過最棒的RPG遊戲之一」。\[8\][Destructoid](../Page/Destructoid.md "wikilink")的編輯 Ben Davis 讚美它的幽默和角色設計，並給予編輯賞。\[9\][Game Informer的](../Page/Game_Informer.md "wikilink") Daniel Tack 給予該遊戲9.5/10的高分，稱游戏是「迷人、爽快的旅程」，「組織緊張的體驗值得你關注」。\[10\] Toby於2016年初在推特上表示感謝[IGN](../Page/IGN.md "wikilink")授予該遊戲2015年度「最佳電腦遊戲」、「最佳故事獎」和「最佳狗狗獎」等三個獎項。\[11\]
 
 ### 獲獎記錄
 

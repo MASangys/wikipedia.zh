@@ -5,7 +5,7 @@
   - 距離前一張單曲《[STAR TRAIN](../Page/STAR_TRAIN.md "wikilink")》約1年零四個月發行的單曲\[1\]，為Perfume在2017發行的第一彈單曲。以初回限定盤及通常盤兩種形態發行。
   - 《**TOKYO GIRL**》為[日本電視台週三連續劇](../Page/日本電視台週三連續劇.md "wikilink")《[東京白日夢女](../Page/東京白日夢女.md "wikilink")》主題曲\[2\]。
   - MV中出現的一座虛構建築物名為「Perfume塔」。特別的是，劇中女主角[吉高由里子](../Page/吉高由里子.md "wikilink")在MV中客串演出，而三位成員私下和吉高也有著不錯的交情。\[3\]
-  - B面曲《**寶石之雨**》（宝石の雨）為「Ora2 × Perfume 口腔Beauty Project」廣告歌。
+  - B面曲《**寶石之雨**》（）為「Ora2 × Perfume 口腔Beauty Project」廣告歌。
 
 ## 收錄歌曲
 
@@ -13,9 +13,9 @@
 
 ### DVD
 
-1.  **TOKYO GIRL -Video Clip-**
-2.  **Perfume View**
-3.  **Special Teaser Trailer**
+1.  TOKYO GIRL -Video Clip-
+2.  Perfume View
+3.  Special Teaser Trailer
 
 ## 資料來源
 

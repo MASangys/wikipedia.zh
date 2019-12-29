@@ -27,31 +27,23 @@
 
 ## 参考资料
 
-[Category:絕對武力系列玩家](https://zh.wikipedia.org/wiki/Category:絕對武力系列玩家 "wikilink")
+[Category:絕對武力系列玩家](https://zh.wikipedia.org/wiki/Category:絕對武力系列玩家 "wikilink") [Category:電子競技選手](https://zh.wikipedia.org/wiki/Category:電子競技選手 "wikilink")
 
 1.
 2.
 3.
-
 4.
-
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
 15.
 16.
 17.
-
 18.

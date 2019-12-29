@@ -1,6 +1,4 @@
-**馬振桓**（英文名：**Evan**，），藝名**Evan**。粉絲名為「小木馬」。2歲半時隨著父母移民到[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")。2012年加拿大[SunShine Nation](../Page/SunShine_Nation.md "wikilink")-Sunshine Boys比賽冠軍。後為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Teddy於](../Page/Teddy_\(SpeXial\).md "wikilink")2014年6月5日正式出道。在團內擔任副主唱、[英文Rapper](../Page/饒舌.md "wikilink")、[英文擔當](https://zh.wikipedia.org/wiki/英語 "wikilink")。被列為[SpeXial](../Page/SpeXial.md "wikilink")最帥的。
-
-
+**馬振桓**（英文名：**Evan**，），藝名**Evan**。粉絲名為「小木馬」。2歲半時隨著父母移民到[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")。2012年加拿大[SunShine Nation](../Page/SunShine_Nation.md "wikilink")-Sunshine Boys比賽冠軍。後為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Teddy於](../Page/Teddy_\(SpeXial\).md "wikilink")2014年6月5日正式出道。在團內擔任副主唱、[英文Rapper](../Page/饒舌.md "wikilink")、[英文擔當](https://zh.wikipedia.org/wiki/英語 "wikilink")。被列為[SpeXial](../Page/SpeXial.md "wikilink")最帥。
 
 ## 音樂作品
 
@@ -8,11 +6,62 @@
 
 ### 個人單曲
 
-| |**發行日期**  | **歌曲名稱**                                                                                     | **合作歌手**                                              | **作詞**                                                  | **作曲**                                              | **備註**                                   |
-| ---------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------- |
-| 2016年      | [劍心飛揚](https://www.kkbox.com/tw/tc/song/OsK00aPW503v.x1Bv.x1B0XL-index.html)                 | [Dylan](https://zh.wikipedia.org/wiki/熊梓淇 "wikilink") | [郭申生](https://zh.wikipedia.org/wiki/郭申生 "wikilink")     | 網路劇《[刺客列傳](../Page/刺客列傳.md "wikilink")》主題曲          |                                          |
-| 2017年11月2日 | [Don't Break My Heart](https://www.kkbox.com/tw/tc/song/i9M00G5-HUIOCRZkOCRZk0XL-index.html) |                                                       | [梁瓊元](https://zh.wikipedia.org/wiki/梁瓊元 "wikilink")、馬振桓 | [梁瓊元](https://zh.wikipedia.org/wiki/梁瓊元 "wikilink") | Evan創作生日單曲                               |
-| 2018年      | 最難的溫柔                                                                                        | [宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")    | [姚若龍](https://zh.wikipedia.org/wiki/姚若龍 "wikilink")     | 林正                                                  | 《[終極一班5](../Page/終極一班5.md "wikilink")》插曲 |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>歌名</p></th>
+<th><p>合作歌手</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p>劍心飛揚</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
+<td><p>郭申生</p></td>
+<td><p>網路劇《<a href="../Page/刺客列傳.md" title="wikilink">刺客列傳</a>》主題曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017</p></td>
+<td><p>Don't Break My Heart</p></td>
+<td></td>
+<td><p>梁瓊元<br />
+馬振桓</p></td>
+<td><p>梁瓊元</p></td>
+<td><p>Evan創作生日單曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>最難的溫柔</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅弘証" title="wikilink">宏正</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姚若龍" title="wikilink">姚若龍</a></p></td>
+<td><p>林正</p></td>
+<td><p>《<a href="../Page/終極一班5.md" title="wikilink">終極一班5</a>》插曲</p></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>Touch</p></td>
+<td></td>
+<td><p>韓尚敬<br />
+萬姍</p></td>
+<td><p>韓尚敬</p></td>
+<td><p>《<a href="../Page/外貌至上主義.md" title="wikilink">外貌至上主義</a>》插曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>守語</p></td>
+<td></td>
+<td><p>馬振桓</p></td>
+<td><p>Lilsong</p></td>
+<td><p>《中二病會傳染》主題曲</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 影視作品
 

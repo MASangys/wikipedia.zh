@@ -72,7 +72,7 @@
 <td><p>21:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑市_(電視劇)" title="wikilink">黑市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
+<td><p><a href="../Page/Chill_Club.md" title="wikilink">Chill Club</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,7 +81,7 @@
 <tr class="even">
 <td><p>22:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/C9_旅行團" title="wikilink">C9 旅行團</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a></p></td>
+<td><p><a href="../Page/港男入贅手冊.md" title="wikilink">港男入贅手冊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -250,14 +250,14 @@
 </tr>
 <tr class="odd">
 <td><p>21:30 - 22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
+<td><p><a href="../Page/Chill_Club.md" title="wikilink">Chill Club</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>22:30 - 23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a></p></td>
+<td><p><a href="../Page/港男入贅手冊.md" title="wikilink">港男入贅手冊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -697,7 +697,7 @@
 <td><p>本地音樂</p></td>
 <td><p>逢星期日</p></td>
 <td><p>21:30 - 22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
+<td><p><a href="../Page/Chill_Club.md" title="wikilink">Chill Club</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3613,7 +3613,7 @@ Be A Better Me</p></td>
 <td><p>真人秀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/今鋪搞電了" title="wikilink">今鋪搞電了</a><br />
 Good Game Bro</p></td>
-<td><p>演出：<a href="https://zh.wikipedia.org/wiki/郭爾君" title="wikilink">郭爾君</a>、<a href="https://zh.wikipedia.org/wiki/床哥" title="wikilink">床哥</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/雞翼" title="wikilink">雞翼</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/Kevin" title="wikilink">Kevin</a>、<a href="https://zh.wikipedia.org/wiki/Mari" title="wikilink">Mari</a><br />
+<td><p>演出：<a href="../Page/郭爾君.md" title="wikilink">郭爾君</a>、<a href="https://zh.wikipedia.org/wiki/床哥" title="wikilink">床哥</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/雞翼" title="wikilink">雞翼</a>@<a href="https://zh.wikipedia.org/wiki/JFFT" title="wikilink">JFFT</a>、<a href="https://zh.wikipedia.org/wiki/Kevin" title="wikilink">Kevin</a>、<a href="https://zh.wikipedia.org/wiki/Mari" title="wikilink">Mari</a><br />
 旁白：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td><p><a href="../Page/惠普.md" title="wikilink">HP</a></p></td>
 <td><p>外判節目（<a href="../Page/香港.md" title="wikilink">香港</a>Farland）</p></td>
@@ -3658,7 +3658,7 @@ Go Green Shopping</p></td>
 <td><p>真人秀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花姐鬥SHOPPING" title="wikilink">花姐鬥SHOPPING</a><br />
 Festive Shopping With Fa Jie</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/吳啟洋" title="wikilink">吳啟洋</a>、<a href="https://zh.wikipedia.org/wiki/歐鎮灝" title="wikilink">歐鎮灝</a></p></td>
+<td><p>主持：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="../Page/吳啟洋.md" title="wikilink">吳啟洋</a>、<a href="https://zh.wikipedia.org/wiki/歐鎮灝" title="wikilink">歐鎮灝</a></p></td>
 <td><p><a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧</a></p></td>
 <td></td>
 </tr>

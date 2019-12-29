@@ -40,7 +40,7 @@ Lamigo TV為專屬於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "
 
 ## 外部連結
 
-  - [Lamigo TV 官方網站](http://www.lamigo.tv/mobile)
+  - [Lamigo TV 官方網站](https://web.archive.org/web/20170203075151/http://www.lamigo.tv/mobile/)
 
 <!-- end list -->
 

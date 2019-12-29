@@ -12,12 +12,9 @@ Arlequin由[日内瓦大学遗传学与生物统计学实验室开发](https://z
 [Category:生物信息学软件](https://zh.wikipedia.org/wiki/Category:生物信息学软件 "wikilink") [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink") [Category:科学软件](https://zh.wikipedia.org/wiki/Category:科学软件 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
 7.

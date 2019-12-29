@@ -74,41 +74,28 @@ Xperia XZ Premium 发售时采用[Android 7.1.1 Nougat操作系统](../Page/Andr
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2017年面世的手機](https://zh.wikipedia.org/wiki/Category:2017年面世的手機 "wikilink")
 
 1.  [Sony Xperia X新機齊發！4K螢幕回歸、首創動態視覺拍照 | ETtoday3C新聞 | ETtoday 新聞雲](http://www.ettoday.net/news/20170227/874233.htm)
-
 2.  [ソニー，4K液晶搭載の「Xperia XZ Premium」など新型スマートフォン4製品を発表 - 4Gamer.net](http://www.4gamer.net/games/128/G012871/20170227078/)
-
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
 14.
 15.
 16.
 17.
-
 18.
 19.
-
 20.
 21.
 22.
-
 23.
 24.
 25.
-
 26.

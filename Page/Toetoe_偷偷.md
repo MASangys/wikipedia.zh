@@ -24,12 +24,8 @@
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:2013年建立的網站](https://zh.wikipedia.org/wiki/Category:2013年建立的網站 "wikilink") [Category:雲端平台](https://zh.wikipedia.org/wiki/Category:雲端平台 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

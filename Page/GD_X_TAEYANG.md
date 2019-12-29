@@ -355,24 +355,14 @@ G-Dragon及太陽是在12歲時被YG娛樂的社長[梁鉉錫](../Page/梁鉉錫
 [Category:BIGBANG子團體](https://zh.wikipedia.org/wiki/Category:BIGBANG子團體 "wikilink") [Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.

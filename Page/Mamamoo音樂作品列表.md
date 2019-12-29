@@ -43,6 +43,17 @@
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/reality_in_Black" title="wikilink">reality in Black</a></p></td>
+<td><ul>
+<li>發行日期：2019年11月14日</li>
+<li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
+<li>發行公司：<a href="../Page/Kakao_M.md" title="wikilink">Kakao M</a></li>
+<li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
+</ul></td>
+<td><p>4</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -251,9 +262,8 @@
 <li></li>
 <li></li>
 <li></li>
-<li></li>
-</ul>
-<p></ref></p></td>
+<li><p></ref></p></li>
+</ul></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -478,12 +488,23 @@
 </tr>
 <tr class="odd">
 <td><p>Gleam</p></td>
-<td></td>
+<td><p>26</p></td>
 <td></td>
 <td><ul>
-<li>韓國：—</li>
+<li>韓國：—<ref>Cumulative sales for "Gleam":</li>
+<li><p></ref></p></li>
 </ul></td>
 <td><p>DAVICH眼鏡廣告曲</p></td>
+</tr>
+<tr class="even">
+<td><p>Destiny</p></td>
+<td><p>6</p></td>
+<td></td>
+<td><ul>
+<li>韓國：—<ref>Cumulative sales for "Destiny":</li>
+<li><p></ref></p></li>
+</ul></td>
+<td><p><a href="../Page/Queendom_(韓國綜藝).md" title="wikilink">Queendom競演歌曲</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -961,6 +982,7 @@
 | Wind flower                                                                                                                                       | \[55\]                                   |                     |                          |
 | 2019年                                                                                                                                             | 고고베베(gogobebe)                           | {{tsl|en|Zanybros   | Zanybros}}               |
 | 다 빛이나 (Gleam)                                                                                                                                     |                                          | \[56\]              |                          |
+| [HIP](../Page/Reality_in_Black_\(MAMAMOO專輯\).md "wikilink")                                                                                       |                                          |                     |                          |
 |                                                                                                                                                   |                                          |                     |                          |
 
 ## 外部連結
@@ -971,102 +993,58 @@
 [Category:Mamamoo](https://zh.wikipedia.org/wiki/Category:Mamamoo "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
 17.
 18.
 19.
 20.
-
 21.
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.

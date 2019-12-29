@@ -4497,7 +4497,7 @@ The 男子漢</p></td>
 
 ## 外部連結
 
-  - [PRODUCE 101 官方網站](http://mnettv.interest.me/produce101)
+  - [PRODUCE 101 官方網站](https://web.archive.org/web/20170317013049/http://mnettv.interest.me/produce101)
 
   - [PRODUCE 101 maboy投票網站](https://101maboy.com/m101.php)
 

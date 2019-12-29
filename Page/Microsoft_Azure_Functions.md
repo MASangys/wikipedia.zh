@@ -136,5 +136,5 @@ Azure Functions 除了提供 Azure Portal 上的程式碼編修，以及採用 g
 1.  [Azure Functions 觸發程序和繫結概念](https://docs.microsoft.com/zh-tw/azure/azure-functions/functions-triggers-bindings)
 2.  [Azure Functions 取用和 App Service 方案](https://docs.microsoft.com/zh-tw/azure/azure-functions/functions-scale)
 3.  [Azure Functions Pricing](https://azure.microsoft.com/en-us/pricing/details/functions/)
-4.  [Deploying Azure Functions Automatically](https://shellmonger.com/2016/12/02/deploying-azure-functions-automatically/)
+4.
 5.  [Azure Functions HTTP 和 Webhook 繫結](https://docs.microsoft.com/zh-tw/azure/azure-functions/functions-bindings-http-webhook#a-nameworking-with-keysa使用金鑰)

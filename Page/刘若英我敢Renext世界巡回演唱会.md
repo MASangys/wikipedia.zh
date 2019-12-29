@@ -157,7 +157,7 @@
 <td><p>4月9日</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
-<td><p><a href="../Page/香港體育館.md" title="wikilink">紅墈體育館</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紅磡體育館" title="wikilink">紅磡體育館</a></p></td>
 <td><p><a href="../Page/張艾嘉.md" title="wikilink">張艾嘉</a></p></td>
 </tr>
 <tr class="odd">

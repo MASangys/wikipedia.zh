@@ -57,81 +57,44 @@ SandForce于2011年1月创建了“SandForce可信”计划，该计划确定了
 [Category:米爾皮塔斯公司](https://zh.wikipedia.org/wiki/Category:米爾皮塔斯公司 "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink") [Category:無廠半導體公司](https://zh.wikipedia.org/wiki/Category:無廠半導體公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. <http://www.anandtech.com/show/7520/lsi-announces-sandforce-sf3700-sata-and-pcie-in-one-silicon>
-
 19.
-
 20. [LSI Introduces Blazing Fast SF3700 Series SSD Controller, Supports Both PCIe and SATA 6Gbps](http://hothardware.com/News/LSI-Introduces-Blazing-Fast-SF3700-Series-SSD-Controller-Supports-Both-PCIe-and-SATA-6Gbps/)
-
 21. [Kingston Unveils First PCIe SSD: 1800 MB/s Read Speeds](http://www.tomshardware.com/news/kingston-pcie-ssd,25600.html)
-
 22. [Kingston HyperX Predator PCI Express SSD Unveiled With LSI SandForce SF3700 PCIe Flash Controller](http://hothardware.com/News/Kingston-HyperX-Predator-PCI-Express-SSD-Unveiled--With-LSI-Sandforce-SF3700-Flash-Controller/)
-
 23. <http://www.anandtech.com/show/7660/mushkin-ces-2014-sf3700-ssds>
-
 24.
 25.
 26.
 27. [LSI updates Sandforce controllers with the new SF3700 line](http://semiaccurate.com/2013/11/19/lsi-updates-sandforce-controllers-new-sf3700-line/)
-
 28.
 29. [ASUS Z87-A LGA 1150 Motherboard Review/Conclusion](http://www.hardocp.com/article/2013/06/03/asus_z87a_lga_1150_motherboard_review/7#.Uq4DGZDU6Cy)
-
 30. [Vertex 2 - Agility 2 and Haswell](http://www.ocztechnologyforum.com/forum/showthread.php?111964-Vertex-2-Agility-2-and-Haswell)
-
 31. [Force F80 not compatible with Haswell?](http://forum.corsair.com/v3/showthread.php?t=122058)
-
 32.
-
 33.
-
 34.
-
 35. [LSI SandForce AES Encryption Strength Flaw Revealed](http://www.storagereview.com/lsi_sandforce_aes_encryption_strength_flaw_revealed)
-
 36. [SandForce SF-2000 encryption flaw discovered](http://www.bit-tech.net/news/hardware/2012/06/12/sandforce-sf-2000-encryption/1)
-
 37.
-
 38. [256-bit AES encryption broken in SandForce SSD controllers](http://techreport.com/news/23096/256-bit-aes-encryption-broken-in-sandforce-ssd-controllers)
-
 39.
-
 40.
-
 41.
-
 42. <http://www.lsi.com/partners/sandforce-driven-program/pages/default.aspx>

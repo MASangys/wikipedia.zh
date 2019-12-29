@@ -1,4 +1,4 @@
-**NVM Express**（**NVMe**），或称**非易失性内存主机控制器接口规范**（，缩写：），是一个逻辑设备接口[规范](../Page/标准.md "wikilink")。它是與[AHCI](../Page/AHCI.md "wikilink")類似的、基於裝置邏輯接口的[匯流排傳輸協定規範](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（相當於通讯协议中的[应用层](https://zh.wikipedia.org/wiki/应用层 "wikilink")），用于访问通过[PCI Express](../Page/PCI_Express.md "wikilink")（PCIe）总线附加的[非揮發性記憶體](../Page/非揮發性記憶體.md "wikilink")介质（例如採用[快閃記憶體的](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")[固態硬碟機](../Page/固态硬盘.md "wikilink")），雖然理論上不一定要求PCIe匯流排協定。
+**NVM Express**（**NVMe**），或称**非易失性内存主机控制器接口规范**（，缩写：），是一个逻辑设备接口[规范](../Page/标准.md "wikilink")。它是與[AHCI](../Page/AHCI.md "wikilink")類似的、基於裝置邏輯接口的[匯流排傳輸協定規範](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（相當於通讯协议中的[应用层](../Page/应用层.md "wikilink")），用于访问通过[PCI Express](../Page/PCI_Express.md "wikilink")（PCIe）总线附加的[非揮發性記憶體](../Page/非揮發性記憶體.md "wikilink")介质（例如採用[快閃記憶體的](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")[固態硬碟機](../Page/固态硬盘.md "wikilink")），雖然理論上不一定要求PCIe匯流排協定。
 
 NVM代表非揮發性記憶體（non-volatile memory）的[首字母縮略字](../Page/首字母縮略字.md "wikilink")，这是固态硬盘（SSD）的常见的闪存形式。此規範主要是為基於快閃記憶體的存儲裝置提供一個低延時、內部並行化的原生界面規範，也為現代[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、電腦平台及相關應用提供原生存儲並行化的支援\[1\]，令主機硬體和軟體可以充分利用固態存儲裝置的並列化存儲能力。相比此前[機械硬碟機](https://zh.wikipedia.org/wiki/硬碟機 "wikilink")（HDD）時代的[AHCI](../Page/AHCI.md "wikilink")，NVMe/NVMHCI降低了[I/O操作等待時間](https://zh.wikipedia.org/wiki/I/O "wikilink")、提升同一時間內的操作數、更大容量的操作隊列等。
 
@@ -123,7 +123,7 @@ NVM代表非揮發性記憶體（non-volatile memory）的[首字母縮略字](.
 
   - 官方網站：
   - [LFCS: Preparing Linux for nonvolatile memory devices](https://lwn.net/Articles/547903/), [LWN.net](../Page/LWN.net.md "wikilink"), April 19, 2013, by Jonathan Corbet
-  - [Multipathing PCI Express Storage](http://events.linuxfoundation.org/sites/events/files/slides/LinuxVault2015_KeithBusch_PCIeMPath.pdf), [Linux Foundation](https://zh.wikipedia.org/wiki/Linux_Foundation "wikilink"), March 12, 2015, by Keith Busch
+  - [Multipathing PCI Express Storage](https://web.archive.org/web/20161118033839/http://events.linuxfoundation.org/sites/events/files/slides/LinuxVault2015_KeithBusch_PCIeMPath.pdf), [Linux Foundation](https://zh.wikipedia.org/wiki/Linux_Foundation "wikilink"), March 12, 2015, by Keith Busch
 
 [Category:计算机存储总线](https://zh.wikipedia.org/wiki/Category:计算机存储总线 "wikilink") [Category:固态计算机存储](https://zh.wikipedia.org/wiki/Category:固态计算机存储 "wikilink")
 

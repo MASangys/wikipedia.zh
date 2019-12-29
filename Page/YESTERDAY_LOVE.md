@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>動畫《<a href="https://zh.wikipedia.org/wiki/名侦探柯南_(動畫)" title="wikilink">名偵探柯南</a>》片尾曲<br />
-2016年12月17日 -</p></td>
+2016年12月17日 - 2017年6月24日</p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />

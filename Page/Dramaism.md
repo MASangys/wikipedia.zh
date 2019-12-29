@@ -128,9 +128,28 @@
       - 出演：[本田翼](../Page/本田翼.md "wikilink")、[岡山天音](https://zh.wikipedia.org/wiki/岡山天音 "wikilink")
       - 原作：[金田一蓮十郎](../Page/金田一蓮十郎.md "wikilink")
       - 劇本：[吹原幸太](https://zh.wikipedia.org/wiki/吹原幸太 "wikilink")
-  - 春：**[狂賭之淵 Season2](../Page/狂賭之淵.md "wikilink")（）**
+  - 2月17日－：**[後街女孩 -極道偶像-](../Page/後街女孩.md "wikilink")（）**
+      - 出演：[白洲迅](../Page/白洲迅.md "wikilink")、[柾木玲彌](https://zh.wikipedia.org/wiki/柾木玲彌 "wikilink")、[花澤將人](https://zh.wikipedia.org/wiki/花澤將人 "wikilink")
+      - 原作：[Jasmine Gyuh](https://zh.wikipedia.org/wiki/Jasmine_Gyuh "wikilink")
+      - 劇本：伊藤秀裕、吹原幸太、佐東みどり
+  - 3月30日－：**[狂賭之淵 Season2](../Page/狂賭之淵.md "wikilink")（）**
       - 出演：[濱邊美波](../Page/濱邊美波.md "wikilink")、[高杉真宙](../Page/高杉真宙.md "wikilink")
       - 原作：[河本焰](../Page/河本焰.md "wikilink")、畫：[尚村透](../Page/尚村透.md "wikilink")
       - 劇本：[高野水澄](https://zh.wikipedia.org/wiki/高野水澄 "wikilink")、[英勉](https://zh.wikipedia.org/wiki/英勉 "wikilink")
+  - 5月5日－：**[公關技院](../Page/公關技院.md "wikilink")〜令和〜（）**
+      - 出演：[龍星涼](../Page/龍星涼.md "wikilink")
+      - 原作：[室積光](https://zh.wikipedia.org/wiki/室積光 "wikilink")
+      - 劇本：[森迅史](https://zh.wikipedia.org/wiki/森迅史 "wikilink")
+  - 6月30日－：**[Scam](https://zh.wikipedia.org/wiki/Scam "wikilink")（）**
+      - 出演：[杉野遙亮](../Page/杉野遙亮.md "wikilink")
+      - 原案：[鈴木大介](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")「老人喰い」
+      - 劇本：[繼田淳](https://zh.wikipedia.org/wiki/繼田淳 "wikilink")
+  - 9月1日－：**[REAL⇔FAKE](https://zh.wikipedia.org/wiki/REAL⇔FAKE "wikilink")**
+      - 出演：[荒牧慶彥](https://zh.wikipedia.org/wiki/荒牧慶彥 "wikilink")、[植田圭輔](https://zh.wikipedia.org/wiki/植田圭輔 "wikilink")、[小澤廉](https://zh.wikipedia.org/wiki/小澤廉 "wikilink")
+      - 劇本：[毛利亘宏](../Page/毛利亘宏.md "wikilink")
+  - 10月20日－：**[左撇子艾倫](https://zh.wikipedia.org/wiki/左撇子艾倫 "wikilink")（）**
+      - 出演：[神尾楓珠](../Page/神尾楓珠.md "wikilink")、[池田依來沙](../Page/池田依來沙.md "wikilink")
+      - 原作：かっぴー・nifuni
+      - 劇本：根本ノンジ
 
 [Category:Dramaism](https://zh.wikipedia.org/wiki/Category:Dramaism "wikilink") [Category:TBS深夜劇集](https://zh.wikipedia.org/wiki/Category:TBS深夜劇集 "wikilink") [Category:每日放送深夜劇集](https://zh.wikipedia.org/wiki/Category:每日放送深夜劇集 "wikilink") [Category:日本電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇列表 "wikilink") [Category:日本電視劇播放時段](https://zh.wikipedia.org/wiki/Category:日本電視劇播放時段 "wikilink")

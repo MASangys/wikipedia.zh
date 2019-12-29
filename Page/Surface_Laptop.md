@@ -6,6 +6,8 @@ Surface Laptop于2017年5月2日在\#MicrosoftEDU活动现场发布 ，搭载 Wi
 
 2018年微軟推出了第二代產品 Surface Laptop 2，主要升級為採用[英特爾第八代Core](https://zh.wikipedia.org/wiki/英特爾 "wikilink") i5或 i7核心處理器。
 
+2019年微軟推出了第三代產品 Surface Laptop 3，主要升級為採用[英特爾第十代Core](https://zh.wikipedia.org/wiki/英特爾 "wikilink") i5或 i7核心處理器。
+
 ## 功能
 
 ### 软件

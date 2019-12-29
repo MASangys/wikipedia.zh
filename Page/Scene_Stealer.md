@@ -49,7 +49,7 @@
 <tr class="odd">
 <td><p>試播</p></td>
 <td><p>2016年9月16日</p></td>
-<td><p>由<a href="https://zh.wikipedia.org/wiki/Binnie" title="wikilink">Binnie</a>（<a href="https://zh.wikipedia.org/wiki/OH_MY_GIRL" title="wikilink">OH MY GIRL</a>）透過V live節目採訪</p></td>
+<td><p>由<a href="../Page/Binnie.md" title="wikilink">Binnie</a>（<a href="https://zh.wikipedia.org/wiki/OH_MY_GIRL" title="wikilink">OH MY GIRL</a>）透過V live節目採訪</p></td>
 <td></td>
 </tr>
 <tr class="even">

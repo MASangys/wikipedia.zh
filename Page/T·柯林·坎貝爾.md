@@ -45,31 +45,18 @@ Campbell's [h-index](https://zh.wikipedia.org/wiki/h-index "wikilink") according
 [Category:American_biochemists](https://zh.wikipedia.org/wiki/Category:American_biochemists "wikilink") [Category:Cornell_University_faculty](https://zh.wikipedia.org/wiki/Category:Cornell_University_faculty "wikilink") [Category:Diet_food_advocates](https://zh.wikipedia.org/wiki/Category:Diet_food_advocates "wikilink") [Category:1934年出生](https://zh.wikipedia.org/wiki/Category:1934年出生 "wikilink") [Category:美國生物化學家](https://zh.wikipedia.org/wiki/Category:美國生物化學家 "wikilink") [Category:康乃爾大學教師](https://zh.wikipedia.org/wiki/Category:康乃爾大學教師 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  Campbell and Campbell 2005, p. 132.
-
 2.  Campbell and Campbell 2005, p. 132.
-
 3.  *The China Study*, p. 4.
-
 4.
 5.  ["About PCRM"](http://www.pcrm.org/about/index.html) , Physicians Committee for Responsible Medicine, accessed December 3, 2010.
-
 6.  Sherwell, Philip. ["Bill Clinton's new diet: nothing but beans, vegetables and fruit to combat heart disease"](http://www.telegraph.co.uk/news/worldnews/northamerica/usa/8038801/Bill-Clintons-new-diet-nothing-but-beans-vegetables-and-fruit-to-combat-heart-disease.html), *The Daily Telegraph*, October 3, 2010.
-
 7.  Sherwell, Philip.
-
 8.  Campbell and Campbell 2005, p. 132.
-
 9.  [Talk by T. Colin Campbell](http://video.google.com/videoplay?docid=-1308977765978236346#), Google Videos, 20:24 mins, accessed December 3, 2010.
-
 10. [Lectures: eCornell 3-course sequence in plant-based nutrition](http://www.ecornell.com/certificates/plant-based-nutrition/certificate-in-plant-based-nutrition/), privately accessed December 3, 2010
-
 11. ["Interview with T. Colin Campbell"](http://www.vegparadise.com/24carrot92.html), 2007
-
 12.
 13. "[Nutrition Advice From the China Study](http://well.blogs.nytimes.com/2011/01/07/nutrition-advice-from-the-china-study/)". *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink"),* January 7, 2011.
-
 14. , Cornell University, accessed December 3, 2010.
-
 15. Gupta, Sanjay.
-
 16. Sherwell, Philip.

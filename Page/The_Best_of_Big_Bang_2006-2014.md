@@ -154,22 +154,14 @@
 [Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:2014年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.

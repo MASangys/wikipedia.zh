@@ -444,7 +444,7 @@
 <td><p>女子韻律體操特別MC</p></td>
 </tr>
 <tr class="odd">
-<td><p>2月18日至今</p></td>
+<td><p>2月18日-2019年10月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
@@ -545,7 +545,7 @@
 與<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a>（固定MC）</p></td>
 </tr>
 <tr class="odd">
-<td><p>3月16日至今</p></td>
+<td><p>3月16日-9月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傻瓜們的牢獄生活" title="wikilink">傻瓜們的牢獄生活</a></p></td>
 <td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
@@ -767,7 +767,7 @@ V LIVE</p></td>
 V LIVE</p></td>
 <td><p>GOING SEVENTEEN SPIN-OFF</p></td>
 <td><p>24</p></td>
-<td><p>每週一公開（每兩星期一集）</p></td>
+<td><p>每週一公開（每兩週一集）</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年3月10日－3月31日</p></td>
@@ -824,7 +824,7 @@ V LIVE</p></td>
 V LIVE</p></td>
 <td><p>GOING SEVENTEEN 2019</p></td>
 <td></td>
-<td><p>每週一公開（每兩星期一集）</p></td>
+<td><p>每週一公開（每週或每兩週更新一集）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1052,6 +1052,9 @@ V LIVE</p></td>
 | 9月17日           |
 | 9月23日           |
 | 9月27日           |
+| 10月20日          |
+| 11月3日           |
+|                 |
 
 ## 電台節目
 
@@ -1140,6 +1143,9 @@ V LIVE</p></td>
 | 1月31日          |
 | 2月7日           |
 | 9月24日          |
+| 9月25日          |
+| 9月26日          |
+| 9月26日          |
 
 ## 其他節目
 
@@ -1241,9 +1247,9 @@ V LIVE</p></td>
 
 ## 音樂劇
 
-| 演出日期        | 劇名                                                              | 參演成員                                               | 角色                                                  | 演出場次                                                        |
-| ----------- | --------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------- |
-| 2019年6月15日- | [Excalibur](https://zh.wikipedia.org/wiki/Excalibur "wikilink") | [DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink") | [亞瑟王](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink") | 6月19、22、25、28、30日 7月12、13、17、18、19、20、21、23、24、26、27、28、31日 |
+| 演出日期        | 劇名                                                              | 參演成員                                               | 角色                                                  | 演出場次                                                                |
+| ----------- | --------------------------------------------------------------- | -------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------- |
+| 2019年6月15日- | [Excalibur](https://zh.wikipedia.org/wiki/Excalibur "wikilink") | [DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink") | [亞瑟王](https://zh.wikipedia.org/wiki/亞瑟王 "wikilink") | 6月19、22、25、28、30日 7月12、13、17、18、19、20、21、23、24、26、27、28、31日， 8月1、3日 |
 
 ## 雜誌拍攝與訪問
 
@@ -1776,67 +1782,38 @@ V LIVE</p></td>
 [Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  IMdb上的
-
 6.
-
 7.  [香港電影導演會 (2005-2014)](http://www.tonyleung.info/films/hong-kong-film-directors-awards-1.txt)
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.
 19.
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.  ananweb - マガジンハウス|newspaper=ananweb - マガジンハウス|accessdate=2017-12-22|language=ja}}

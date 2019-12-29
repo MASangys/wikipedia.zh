@@ -79,12 +79,8 @@ Flower初次單獨登上《[Music Station](https://zh.wikipedia.org/wiki/Music_S
 [Category:FLOWER歌曲](https://zh.wikipedia.org/wiki/Category:FLOWER歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:冬天題材樂曲](https://zh.wikipedia.org/wiki/Category:冬天題材樂曲 "wikilink") [Category:雪題材樂曲](https://zh.wikipedia.org/wiki/Category:雪題材樂曲 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

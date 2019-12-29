@@ -1,14 +1,14 @@
-《**Feel'eM**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第10張韓語迷你專輯，專輯名的發音為「Film（電影）」，亦是「Feel them」的縮寫，有「感受他們」的意思 \[1\]。先行曲《SOMEDAY》（）於2017年2月24日公開音源。專輯於2017年3月6日發行，主打歌曲為《MOVIE》（）\[2\]\[3\]。
+《**Feel'eM**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第10張韓語迷你專輯，專輯名的發音為「Film（電影）」，亦是「Feel them」的縮寫，有「感受他們」的意思 \[1\]。先行曲《SOMEDAY》（）於2017年2月24日公開音源。專輯於2017年3月6日發行，主打歌曲為〈MOVIE〉（）\[2\]\[3\]。
 
 ## 背景
 
-2017年2月20日，公開專輯名稱「Feel'eM」及發行日期 \[4\]。2月21日，發布專輯回歸日程 \[5\]。
+2017年2月20日，公開專輯名稱《Feel'eM》及發行日期 \[4\]。2月21日，發布專輯回歸日程 \[5\]。
 
-2月24日，公開專輯先行曲《SOMEDAY》 \[6\]\[7\]，由成員[炫植作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳參與Rap填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，歌曲表達即使後悔也不變的初心，雖然在不確定的未來中充滿了未知，但堅信彼此一定會在變得更好的時候再次相遇的決心，展現了Vocal感性懇切的歌聲和強烈不失情感的Rap的完美融合；公開後空降[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")、Melon、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、[Mnet](../Page/Mnet.md "wikilink")、Money3 1位、Olleh 2位、Bugs 5位。
+2月24日，公開專輯先行曲〈SOMEDAY〉 \[6\]\[7\]，由成員[炫植作曲填詞編曲](https://zh.wikipedia.org/wiki/炫植 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳參與Rap填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，歌曲表達即使後悔也不變的初心，雖然在不確定的未來中充滿了未知，但堅信彼此一定會在變得更好的時候再次相遇的決心，展現了Vocal感性懇切的歌聲和強烈不失情感的Rap的完美融合；公開後空降[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")、Melon、[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")、[Mnet](../Page/Mnet.md "wikilink")、Money3 1位、Olleh 2位、Bugs 5位。
 
 2月26日，公開 A Piece of Concept 概念照 \[8\] 。2月27日，公開第一波團體及七名成員概念照 \[9\]。2月28日，公開Track List \[10\]。3月2日，公開Album Preview \[11\]。3月3日，公開第二波成員概念照 \[12\] 和 7 Story Films \[13\]。3月5日，發佈主打曲M/V Teaser \[14\]。3月6日，18:00PM發布專輯完整曲目及主打曲完整版M/V \[15\]\[16\]，專輯概念為成員鎰勳在英國倫敦旅行之後所提出 \[17\]。
 
-主打歌曲《MOVIE》，由成員[鎰勳作曲填詞編曲](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel參與Rap填詞](https://zh.wikipedia.org/wiki/Peniel "wikilink")，是以鋼琴和[銅管樂器](../Page/銅管樂器.md "wikilink")（labrosones）為主要編曲的最新流行嘻哈龐克舞曲，描述男人愛上了某個受傷女人的故事，就像普遍愛情電影裡的愛情故事一樣，浪漫地墜入愛河裡，卻也充滿了男人的力量和紳士的一面的歌曲 \[18\]。
+主打歌曲〈MOVIE〉，由成員[鎰勳作曲填詞編曲](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel參與Rap填詞](https://zh.wikipedia.org/wiki/Peniel "wikilink")，是以鋼琴和[銅管樂器](../Page/銅管樂器.md "wikilink")（labrosones）為主要編曲的最新流行嘻哈龐克舞曲，描述男人愛上了某個受傷女人的故事，就像普遍愛情電影裡的愛情故事一樣，浪漫地墜入愛河裡，卻也充滿了男人的力量和紳士的一面的歌曲 \[18\]。
 
 ## 曲目
 
@@ -261,43 +261,23 @@
 [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink") [Category:BTOB音樂專輯](https://zh.wikipedia.org/wiki/Category:BTOB音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.  [비투비, '필름' 이미지 티저 공개…7人7色 '킹스맨' 재현](http://m.entertain.naver.com/read?oid=311&aid=0000706840&lfrom=twitter&vt=4) 2017-02-27 NAVER
-
-2.  [BTOB《Feel'eM》曲目表公開](http://kpopn.niusnews.com/=K2eye571) 2017-02-28 Kpopn
-
+2.  [BTOB《Feel'eM》曲目表公開](http://kpopn.niusnews.com/=K2eye571)  2017-02-28 Kpopn
 3.  [BTOB 10TH MINI ALBUM 재킷 촬영 현장 공개](http://m.star.naver.com/BTOB/news/end?id=8999237&langCode=ko) 2017-03-04 NAVER
-
 4.  [BTOB 10th MINI ALBUM 「Feel'eM」](https://twitter.com/OFFICIALBTOB/status/833692749694124033) OFFICALBTOB Twitter
-
 5.  [BTOB 10TH MINI ALBUM「Feel'eM」COMEBACK SCHEDULE](https://twitter.com/OFFICIALBTOB/status/834055204970622976) OFFICALBTOB Twitter
-
 6.  [BTOB 10TH MINI ALBUM「Feel'eM」MUSIC PRE-RELEASE '언젠가(SOMEDAY)'](https://twitter.com/OFFICIALBTOB/status/834417620803674113) OFFICALBTOB Twitter
-
 7.  [비투비, 선공개 곡 '언젠가' 커버 공개..컴백 임박](http://entertain.naver.com/read?oid=109&aid=0003484838&lfrom=twitter) 2017-02-23 OSEN
-
 8.  [BTOB 10TH MINI ALBUM「Feel'eM」A PIECE OF CONCEPT](https://twitter.com/OFFICIALBTOB/status/835836940478001153) OFFICALBTOB Twitter
-
 9.  [BTOB 10TH MINI ALBUM「Feel'eM」CONCEPT PHOTO I](https://twitter.com/OFFICIALBTOB/status/835868100071473152) OFFICALBTOB Twitter
-
 10. [BTOB 10TH MINI ALBUM「Feel'eM」TRACK LIST](https://twitter.com/OFFICIALBTOB/status/836229472152129536) OFFICALBTOB Twitter
-
 11.
-
 12. [BTOB 10TH MINI ALBUM「Feel'eM」CONCEPT PHOTO II](https://twitter.com/OFFICIALBTOB/status/837317238466174976?s=09) OFFICALBTOB Twitter
-
 13.
-
 14.
-
 15.
-
 16.
-
 17. [비투비, 타이틀곡 뮤비 촬영 끝…컴백 준비도 끝](http://entertain.naver.com/read?oid=241&aid=0002644501&lfrom=twitter)  2017-02-24 NAVER
-
 18. [비투비, 열번째 미니앨범 '필름(Feel'eM)' 트랙리스트 공개.. 타이틀은 정일훈 자작곡](http://entertain.naver.com/read?oid=404&aid=0000168590&lfrom=twitter) 2017-02-28 NAVER
-
 19.
-
 20.
-
 21.

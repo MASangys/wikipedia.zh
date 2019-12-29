@@ -6,6 +6,6 @@
 
 ## 参考资料
 
-[Category:芳香化合物](https://zh.wikipedia.org/wiki/Category:芳香化合物 "wikilink") [Category:化学小作品](https://zh.wikipedia.org/wiki/Category:化学小作品 "wikilink") [Category:氮化合物](https://zh.wikipedia.org/wiki/Category:氮化合物 "wikilink") [Category:亚硝基化合物](https://zh.wikipedia.org/wiki/Category:亚硝基化合物 "wikilink")
+[Category:芳香化合物](https://zh.wikipedia.org/wiki/Category:芳香化合物 "wikilink") [Category:化学小作品](https://zh.wikipedia.org/wiki/Category:化学小作品 "wikilink") [Category:氮化合物](https://zh.wikipedia.org/wiki/Category:氮化合物 "wikilink") [Category:亚硝基化合物](https://zh.wikipedia.org/wiki/Category:亚硝基化合物 "wikilink") [Category:氮-氮化合物](https://zh.wikipedia.org/wiki/Category:氮-氮化合物 "wikilink")
 
 1.  *[Diazald in Chemical Synthesis](http://www.sigmaaldrich.com/chemistry/chemical-synthesis/technology-spotlights/diazald.html)*, Sigma Aldrich

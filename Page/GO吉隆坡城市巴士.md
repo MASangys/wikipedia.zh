@@ -1,6 +1,6 @@
 **GO吉隆坡城市巴士**（简称**GO吉隆坡城巴**，英文为**GOKL CityBus**）是[马来西亚](../Page/马来西亚.md "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")市中心的免费巴士服务，为[吉隆坡市政局](../Page/吉隆坡市政局.md "wikilink")所拥有，并由[快捷通巴士](../Page/快捷通巴士.md "wikilink")负责营运。\[1\] \[2\] \[3\]
 
-[吉隆坡城中城](../Page/吉隆坡城中城.md "wikilink")、[武吉免登](../Page/武吉免登.md "wikilink")和[茨厂街](../Page/茨厂街.md "wikilink")是这项服务营运后的主要途经地点。这项服务于2012年8月31日开始营运，并从原本的两个路线增加至四个以红蓝绿紫代表的路线，可以通过GO吉隆坡城巴巴士站前往市内主要旅游景点、商场和[铁路车站](../Page/巴生谷综合运输系统.md "wikilink")。2019年3月第五条路线－橙线正式投入运作，从[蒂蒂旺沙站起往东沿敦拉萨路至](https://zh.wikipedia.org/wiki/蒂蒂旺沙站 "wikilink")[马来西亚国防部](../Page/马来西亚国防部.md "wikilink")基地，往南进入甘榜峇鲁北部后回到蒂蒂旺沙站。\[4\]同年4月第六条路线－粉红线也开始提供来往[大学站和斯里班底人民组屋](https://zh.wikipedia.org/wiki/大学站_\(吉隆坡\) "wikilink")（PPR Sri Pantai）的服务，途经班底峇鲁路、班底达南路、甘榜巴西路、格灵芝路以及广播大厦（Angsapuri）和[孟沙南城](../Page/孟沙南城.md "wikilink")\[5\]。
+[吉隆坡城中城](../Page/吉隆坡城中城.md "wikilink")、[武吉免登](../Page/武吉免登.md "wikilink")和[茨厂街](../Page/茨厂街.md "wikilink")是这项服务营运后的主要途经地点。这项服务于2012年8月31日开始营运，并从原本的两个路线增加至四个以红蓝绿紫代表的路线，可以通过GO吉隆坡城巴巴士站前往市内主要旅游景点、商场和[铁路车站](../Page/巴生谷综合运输系统.md "wikilink")。2019年3月第五条路线－橙线正式投入运作，从[蒂蒂旺沙站起往东沿敦拉萨路至](https://zh.wikipedia.org/wiki/蒂蒂旺沙站 "wikilink")[马来西亚国防部](../Page/马来西亚国防部.md "wikilink")基地，往南进入甘榜峇鲁北部后回到蒂蒂旺沙站。\[4\]同年4月第六条路线－粉红线也开始提供来往[大学站和斯里班底人民组屋](https://zh.wikipedia.org/wiki/大学站_\(吉隆坡\) "wikilink")（PPR Sri Pantai）的服务，途经班底峇鲁路、班底达南路、甘榜巴西路、格灵芝路以及广播大厦（Angsapuri）和[孟沙南城](../Page/孟沙南城.md "wikilink")\[5\]。第七条路线－绿松石线(Turquoise line)开始提供来往拿督克拉末轻快铁站至Flat Kelumpuk Bambu 的服务，途径士迪亚旺沙轻快铁站并在10月22日投入运作。
 
 ## 巴士路线
 
@@ -12,7 +12,7 @@
 
   - **红线**（休闲）： [蒂蒂旺沙巴士总站至](https://zh.wikipedia.org/wiki/蒂蒂旺沙站 "wikilink")[吉隆坡中央车站](https://zh.wikipedia.org/wiki/吉隆坡中央车站 "wikilink")
 
-所有巴士依据[Go 吉隆坡城巴路线图](http://www.gokl.com.my/getting_around)顺时针转。这些路线和[吉隆坡快捷通的路线不相同以避免产生竞争](https://zh.wikipedia.org/wiki/吉隆坡快捷通 "wikilink")。GO吉隆坡城巴主要为吉隆坡市中心（KLCBD）的乘客提供一个省钱、免费、环保又有效率的服务。\[6\]
+所有巴士依据[Go 吉隆坡城巴路线图](https://web.archive.org/web/20170425214109/http://www.gokl.com.my/getting_around)顺时针转。这些路线和[吉隆坡快捷通的路线不相同以避免产生竞争](https://zh.wikipedia.org/wiki/吉隆坡快捷通 "wikilink")。GO吉隆坡城巴主要为吉隆坡市中心（KLCBD）的乘客提供一个省钱、免费、环保又有效率的服务。\[6\]
 
 ## 停靠巴士站
 

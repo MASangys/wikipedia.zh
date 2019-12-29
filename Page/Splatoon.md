@@ -26,7 +26,7 @@
 
 ## 评价
 
-《Splatoon》获得积极评价，在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[MetaCritic的汇总得分为](https://zh.wikipedia.org/wiki/MetaCritic "wikilink")82%和81/100\[19\]\[20\]。《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》打出25/30分\[21\]。
+《Splatoon》获得积极评价，在[GameRankings](../Page/GameRankings.md "wikilink")和[MetaCritic的汇总得分为](https://zh.wikipedia.org/wiki/MetaCritic "wikilink")82%和81/100\[19\]\[20\]。《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》打出25/30分\[21\]。
 
 ### 销量
 

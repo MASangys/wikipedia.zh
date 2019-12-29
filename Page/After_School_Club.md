@@ -519,45 +519,46 @@
 
 ### 2019
 
-| 集數  | 播放日期       | 來賓                                                                                  |
-| --- | ---------- | ----------------------------------------------------------------------------------- |
-| 349 | 2019年1月1日  | [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")                             |
-| 350 | 2018年1月8日  | Kevin                                                                               |
-| 351 | 2019年1月16日 | [KNK](../Page/KNK.md "wikilink")                                                    |
-| 352 | 2019年1月23日 | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")                               |
-| 353 | 2019年1月30日 | [GFRIEND](../Page/GFRIEND.md "wikilink")                                            |
-| 354 | 2019年2月5日  | [VAV](../Page/VAV.md "wikilink")                                                    |
-| 355 | 2019年2月12日 | [NATURE](../Page/Nature_\(組合\).md "wikilink")                                       |
-| 356 | 2019年2月19日 | [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")                                 |
-| 357 | 2019年2月26日 | [Seven O'Clock](../Page/Seven_O'Clock.md "wikilink")                                |
-| 358 | 2019年3月6日  | [IMFACT](../Page/IMFACT.md "wikilink")                                              |
-| 359 | 2019年3月13日 | [TREI](../Page/TREI.md "wikilink")                                                  |
-| 360 | 2019年3月19日 | [100%](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")                        |
-| 361 | 2019年3月26日 | [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink") |
-| 362 | 2019年4月2日  | [GWSN](https://zh.wikipedia.org/wiki/GWSN "wikilink")                               |
-| 363 | 2019年4月9日  | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")                   |
-| 364 | 2019年4月16日 | [DAY6](../Page/DAY6.md "wikilink")                                                  |
-| 365 | 2019年4月23日 | [BVNDIT](../Page/BVNDIT.md "wikilink")                                              |
-| 366 | 2019年4月30日 | [1TEAM](../Page/1TEAM.md "wikilink")                                                |
-| 367 | 2019年5月7日  | Newkidd                                                                             |
-| 368 | 2019年5月14日 | [Eric Nam](../Page/Eric_Nam.md "wikilink")                                          |
-| 369 | 2019年5月21日 | [Weki Meki](../Page/Weki_Meki.md "wikilink")                                        |
-| 370 | 2019年5月28日 | [LADIES' CODE](https://zh.wikipedia.org/wiki/LADIES'_CODE "wikilink")               |
-| 371 | 2019年6月4日  | [AB6IX](../Page/AB6IX.md "wikilink")                                                |
-| 372 | 2019年6月11日 | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")                               |
-| 373 | 2019年6月18日 | [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")                             |
-| 374 | 2019年6月25日 | [ATEEZ](../Page/ATEEZ.md "wikilink")                                                |
-| 375 | 2019年7月2日  | OnlyOneOf                                                                           |
-| 376 | 2019年7月9日  | [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")                             |
-| 377 | 2019年7月16日 | [NOIR](../Page/NOIR.md "wikilink")                                                  |
-| 378 | 2019年7月23日 | [KNK](../Page/KNK.md "wikilink")                                                    |
-| 379 | 2019年7月30日 | WOOSUNG(김우성)                                                                        |
-| 380 | 2019年8月6日  | [PENTAGON](https://zh.wikipedia.org/wiki/PENTAGON "wikilink")                       |
-| 381 | 2019年8月13日 | [THE ROSE](../Page/The_Rose_\(樂團\).md "wikilink")                                   |
-| 382 | 2019年8月20日 | [VAV](../Page/VAV.md "wikilink")                                                    |
-| 383 | 2019年8月27日 | [Rocket Punch](../Page/Rocket_Punch.md "wikilink")                                  |
-| 384 | 2019年9月3日  | [JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")                             |
-| 385 | 2019年9月10日 | [EVERGLOW](../Page/EVERGLOW.md "wikilink")                                          |
+| 集數  | 播放日期        | 來賓                                                                                  |
+| --- | ----------- | ----------------------------------------------------------------------------------- |
+| 349 | 2019年1月1日   | [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")                             |
+| 350 | 2018年1月8日   | Kevin                                                                               |
+| 351 | 2019年1月16日  | [KNK](../Page/KNK.md "wikilink")                                                    |
+| 352 | 2019年1月23日  | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")                               |
+| 353 | 2019年1月30日  | [GFRIEND](../Page/GFRIEND.md "wikilink")                                            |
+| 354 | 2019年2月5日   | [VAV](../Page/VAV.md "wikilink")                                                    |
+| 355 | 2019年2月12日  | [NATURE](../Page/Nature_\(組合\).md "wikilink")                                       |
+| 356 | 2019年2月19日  | [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")                                 |
+| 357 | 2019年2月26日  | [Seven O'Clock](../Page/Seven_O'Clock.md "wikilink")                                |
+| 358 | 2019年3月6日   | [IMFACT](../Page/IMFACT.md "wikilink")                                              |
+| 359 | 2019年3月13日  | [TREI](../Page/TREI.md "wikilink")                                                  |
+| 360 | 2019年3月19日  | [100%](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")                        |
+| 361 | 2019年3月26日  | [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink") |
+| 362 | 2019年4月2日   | [GWSN](https://zh.wikipedia.org/wiki/GWSN "wikilink")                               |
+| 363 | 2019年4月9日   | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")                   |
+| 364 | 2019年4月16日  | [DAY6](../Page/DAY6.md "wikilink")                                                  |
+| 365 | 2019年4月23日  | [BVNDIT](../Page/BVNDIT.md "wikilink")                                              |
+| 366 | 2019年4月30日  | [1TEAM](../Page/1TEAM.md "wikilink")                                                |
+| 367 | 2019年5月7日   | Newkidd                                                                             |
+| 368 | 2019年5月14日  | [Eric Nam](../Page/Eric_Nam.md "wikilink")                                          |
+| 369 | 2019年5月21日  | [Weki Meki](../Page/Weki_Meki.md "wikilink")                                        |
+| 370 | 2019年5月28日  | [LADIES' CODE](https://zh.wikipedia.org/wiki/LADIES'_CODE "wikilink")               |
+| 371 | 2019年6月4日   | [AB6IX](../Page/AB6IX.md "wikilink")                                                |
+| 372 | 2019年6月11日  | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")                               |
+| 373 | 2019年6月18日  | [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")                             |
+| 374 | 2019年6月25日  | [ATEEZ](../Page/ATEEZ.md "wikilink")                                                |
+| 375 | 2019年7月2日   | OnlyOneOf                                                                           |
+| 376 | 2019年7月9日   | [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")                             |
+| 377 | 2019年7月16日  | [NOIR](../Page/NOIR.md "wikilink")                                                  |
+| 378 | 2019年7月23日  | [KNK](../Page/KNK.md "wikilink")                                                    |
+| 379 | 2019年7月30日  | WOOSUNG(김우성)                                                                        |
+| 380 | 2019年8月6日   | [PENTAGON](https://zh.wikipedia.org/wiki/PENTAGON "wikilink")                       |
+| 381 | 2019年8月13日  | [THE ROSE](../Page/The_Rose_\(樂團\).md "wikilink")                                   |
+| 382 | 2019年8月20日  | [VAV](../Page/VAV.md "wikilink")                                                    |
+| 383 | 2019年8月27日  | [Rocket Punch](../Page/Rocket_Punch.md "wikilink")                                  |
+| 384 | 2019年9月3日   | [JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")                             |
+| 385 | 2019年9月10日  | [EVERGLOW](../Page/EVERGLOW.md "wikilink")                                          |
+| 398 | 2019年12月10日 | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")                   |
 
 ## 註釋
 

@@ -26,11 +26,7 @@
 [Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:美国军用车辆](https://zh.wikipedia.org/wiki/Category:美国军用车辆 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.

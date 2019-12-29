@@ -1,4 +1,4 @@
-8世纪的Eyckensis法典是以2本组成手稿为基础的[福音书](https://zh.wikipedia.org/wiki/福音书 "wikilink")，据推测这2本手稿形成了12世纪至1988年的卷绕。Eyckensis法典是比利时最古老的书籍\[1\]。自8世纪起它便一直被保存在当今马泽克([Maaseik](https://zh.wikipedia.org/wiki/Maaseik "wikilink")) 辖区的领土上。此书可能创作于埃希特纳赫修道院的书桌上。
+8世纪的Eyckensis法典是以2本组成手稿为基础的[福音书](../Page/福音书.md "wikilink")，据推测这2本手稿形成了12世纪至1988年的卷绕。Eyckensis法典是比利时最古老的书籍\[1\]。自8世纪起它便一直被保存在当今马泽克([Maaseik](https://zh.wikipedia.org/wiki/Maaseik "wikilink")) 辖区的领土上。此书可能创作于埃希特纳赫修道院的书桌上。
 
 ## 手稿A与手稿B的描述
 
@@ -111,16 +111,10 @@ Wouters, J., B. Rigoli, A. Peckstadt en L. Watteeuw, L. (1997) Un matériel nouv
 [Category:四福音书](https://zh.wikipedia.org/wiki/Category:四福音书 "wikilink") [Category:8世紀書籍](https://zh.wikipedia.org/wiki/Category:8世紀書籍 "wikilink")
 
 1.  Coenen, J., Het oudste boek van België, *Het Boek 10*, 1921, S. 189-194.
-
 2.  *Acta Sanctorium, Martii*, unter Leitung von J. Carnandet, 3. Teil, Paris-Rom, 1865, S. 383-390, Abs. 7.
-
 3.  *Abbaye d’Aldeneik, à Maaseik*, in *Monasticon belge, 6, Province de Limbourg*, Lüttich, 1976, S. 87.
-
 4.
 5.  Netzer, N.(1994) *Cultural Interplay in the Eighth Century. The Trier Gospels and the Making of a Scriptorium at Echternach*, Cambridge-New York.
-
 6.  Wouters, J., Gancedo, G., Peckstadt, A., Watteeuw, L. (1992). The conservation of the Codex Eyckensis: the evolution of the project and the assessment of materials and adhesives for the repair of parchment. *The* *Paper Conservator* 16, 67-77. http://www.tandfonline.com/doi/abs/10.1080/03094227.1992.9638578
-
 7.  Coppens, C. , A. Derolez und H. Heymans (1994) *Codex Eyckensis: an insular gospel book from the abbey of Aldeneik.* Maaseik: Museactron.
-
 8.  https://www.arts.kuleuven.be/english/news/codex eyckensis

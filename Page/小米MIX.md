@@ -1,4 +1,6 @@
-**小米MIX**是[小米科技在](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年10月25日发布的一款Android[智能手机](../Page/智能手机.md "wikilink")。有标准版和尊享版两种版本。
+**小米MIX**是[小米科技在](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年10月25日发布的一款Android[智能手机](../Page/智能手机.md "wikilink")。有标准版和尊享版两种版本。 小米MIX為全球首款實際定義「全面屏」，且帶動趨勢的手機。
+
+被收藏在[德國慕尼黑國際設計博物館以及](https://zh.wikipedia.org/wiki/德國慕尼黑國際設計博物館 "wikilink")[芬蘭國家設計博物館內](https://zh.wikipedia.org/wiki/芬蘭國家設計博物館 "wikilink")。
 
 ## 外观
 
@@ -133,5 +135,5 @@
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
-1.   小米最高端MIX手机的首席设计师！解读菲利普·斯塔克|accessdate=2018-05-28|date=2017-05-27|work=www.sohu.com}}
+1.   小米最高端MIX手机的首席设计师！解读菲利普·斯塔克|accessdate=2018-05-28|date=2017-05-27|work=www.sohu.com|archive-url=[https://web.archive.org/web/20180528214709/http://www.sohu.com/a/144062571_738502|archive-date=2018-05-28|dead-url=yes](https://web.archive.org/web/20180528214709/http://www.sohu.com/a/144062571_738502%7Carchive-date=2018-05-28%7Cdead-url=yes)}}
 2.  [小米MIX白色发布](http://www.techweb.com.cn/tele/2017-01-06/2467901.shtml),小米MIX最初只有黑色版，后在[CES](https://zh.wikipedia.org/wiki/CES "wikilink") 2017展会上发布白色版本

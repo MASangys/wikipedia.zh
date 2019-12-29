@@ -82,49 +82,30 @@ HIV病毒正在演化为更温和的形式，但要成为不致死的病毒还�
 [Category:HIV/AIDS](https://zh.wikipedia.org/wiki/Category:HIV/AIDS "wikilink") [Category:性病](https://zh.wikipedia.org/wiki/Category:性病 "wikilink")
 
 1.
-
 2.
 3.  Dhar¹, D. V., Amit, P., & Kumar, M. S. In-Silico Identification of New Genes in HIV-1 by ORF Prediction Method.
-
 4.
-
 5.  Goudsmit, Jaap.
-
 6.  [1](http://www.avert.org/hivtypes.htm) Introduction to HIV types, groups and subtypes.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16. [CBER - Donor Screening Assays for Infectious Agents and HIV Diagnostic Assays](http://www.fda.gov/cber/products/testkits.htm)
-
 17.
-
 18.
-
 19. <http://aidsinfo.nih.gov/guidelines>
-
 20.
 21.
 22.
 23. Human Immunodeficiency Virus Type 2 (HIV-2) by New York State Department of Health AIDS Institute: <http://www.hivguidelines.org>
-
 24.
 25. R Kannangai, S David, G Sridharan.
-
 26.
 27.
 28.

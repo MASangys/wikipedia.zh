@@ -2,7 +2,7 @@
 
 ## 评价
 
-本游戏收到普遍好评。[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")给出81.73%和81/100的分数。\[1\]\[2\] {{-}}
+本游戏收到普遍好评。[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")给出81.73%和81/100的分数。\[1\]\[2\] {{-}}
 
 ## 参考资料
 

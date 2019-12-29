@@ -1546,7 +1546,7 @@
 <td><p>6</p></td>
 <td><p>旅遊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新世紀山陰戀事" title="wikilink">新世紀山陰戀事</a></p></td>
-<td><p>主持：<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="https://zh.wikipedia.org/wiki/郭爾君" title="wikilink">郭爾君</a><br />
+<td><p>主持：<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/郭爾君.md" title="wikilink">郭爾君</a><br />
 旁白：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td></td>
 <td></td>
@@ -1839,7 +1839,7 @@
 <td><p>20</p></td>
 <td><p>長者/旅遊</p></td>
 <td></td>
-<td><p>主持：、<a href="https://zh.wikipedia.org/wiki/李文意" title="wikilink">阿My</a></p></td>
+<td><p>主持：、<a href="../Page/李文意.md" title="wikilink">阿My</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2160,7 +2160,7 @@
 <td><p>9</p></td>
 <td><p>真人秀</p></td>
 <td><p><a href="../Page/回憶備份.md" title="wikilink">回憶備份</a></p></td>
-<td><p>演出：<a href="https://zh.wikipedia.org/wiki/郭爾君" title="wikilink">郭爾君</a>、<a href="https://zh.wikipedia.org/wiki/柯煒林" title="wikilink">柯煒林</a><br />
+<td><p>演出：<a href="../Page/郭爾君.md" title="wikilink">郭爾君</a>、<a href="https://zh.wikipedia.org/wiki/柯煒林" title="wikilink">柯煒林</a><br />
 旁白：<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a></p></td>
 <td></td>
 <td></td>
@@ -3334,7 +3334,7 @@
 <td><p>15</p></td>
 <td><p>旅遊</p></td>
 <td><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊</a></p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
+<td><p>主持：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td></td>
 <td><p>原名《帶花姐去旅行》</p></td>
 </tr>
@@ -3353,7 +3353,7 @@
 <td><p>賀年</p></td>
 <td></td>
 <td><p>主持：<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a><br />
-嘉賓：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
+嘉賓：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
 演出：、、、</p></td>
 <td></td>
 <td></td>
@@ -3812,7 +3812,7 @@
 <td><p>20</p></td>
 <td><p>旅遊</p></td>
 <td><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊 2</a></p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
+<td><p>主持：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3874,7 +3874,7 @@
 <td><p>10月6日</p></td>
 <td></td>
 <td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a></p></td>
+<td><p><a href="../Page/港男入贅手冊.md" title="wikilink">港男入贅手冊</a></p></td>
 <td><p>主持：<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a>、<a href="https://zh.wikipedia.org/wiki/吳保錡" title="wikilink">吳保錡</a>、<a href="https://zh.wikipedia.org/wiki/歐陽仲豪" title="wikilink">歐陽仲豪</a>、<a href="../Page/林明禎.md" title="wikilink">林明禎</a>、<a href="../Page/陳健安.md" title="wikilink">陳健安</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、</p></td>
 <td></td>
 <td></td>
@@ -3919,7 +3919,7 @@
 <td><p>10月27日</p></td>
 <td></td>
 <td><p>音樂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a></p></td>
+<td><p><a href="../Page/Chill_Club.md" title="wikilink">Chill Club</a></p></td>
 <td><p>主持：<a href="../Page/湯寶如.md" title="wikilink">湯寶如</a>、<a href="../Page/彭家麗.md" title="wikilink">彭家麗</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td></td>
 <td></td>

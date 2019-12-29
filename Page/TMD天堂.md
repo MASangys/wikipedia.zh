@@ -177,7 +177,7 @@
 ## 外部連結
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2017年電視電影](https://zh.wikipedia.org/wiki/Category:2017年電視電影 "wikilink") [Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink") [Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink") [Category:大臺北取景電影](https://zh.wikipedia.org/wiki/Category:大臺北取景電影 "wikilink") [Category:台北市背景電影](https://zh.wikipedia.org/wiki/Category:台北市背景電影 "wikilink") [Category:貧窮題材電影](https://zh.wikipedia.org/wiki/Category:貧窮題材電影 "wikilink") [Category:公視外購電視節目](https://zh.wikipedia.org/wiki/Category:公視外購電視節目 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2017年電視電影](https://zh.wikipedia.org/wiki/Category:2017年電視電影 "wikilink") [Category:中視電視節目](https://zh.wikipedia.org/wiki/Category:中視電視節目 "wikilink") [Category:臺灣社會題材作品](https://zh.wikipedia.org/wiki/Category:臺灣社會題材作品 "wikilink") [Category:大臺北取景電影](https://zh.wikipedia.org/wiki/Category:大臺北取景電影 "wikilink") [Category:台北市背景電影](https://zh.wikipedia.org/wiki/Category:台北市背景電影 "wikilink") [Category:貧窮題材電影](https://zh.wikipedia.org/wiki/Category:貧窮題材電影 "wikilink") [Category:公視外購電視節目](https://zh.wikipedia.org/wiki/Category:公視外購電視節目 "wikilink")
 
 1.  [廖慧珍路邊辛苦撿回收！慘遭路人鄙視「好受傷」](http://star.ettoday.net/news/899353)
 2.  [昔日《小象隊》路邊拾荒 被路人鄙視好受傷](http://ent.ltn.com.tw/news/breakingnews/2027709)

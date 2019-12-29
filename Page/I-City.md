@@ -17,7 +17,7 @@ i-City未来将会有一座[轻快铁站](https://zh.wikipedia.org/wiki/i-City�
 
 [Category:多媒体超级走廊](https://zh.wikipedia.org/wiki/Category:多媒体超级走廊 "wikilink") [Category:科學與技術](https://zh.wikipedia.org/wiki/Category:科學與技術 "wikilink") [Category:八打灵县](https://zh.wikipedia.org/wiki/Category:八打灵县 "wikilink")
 
-1.  ["The creative making of i-City"](http://www.starproperty.my/index.php/articles/property-news/the-creative-making-of-i-city/), StarProperty.my
+1.  ["The creative making of i-City"](http://www.starproperty.my/index.php/articles/property-news/the-creative-making-of-i-city/) , StarProperty.my
 2.  "i-Residence @i-City sold in three months." [New Straits Times](https://zh.wikipedia.org/wiki/New_Straits_Times "wikilink"). Financial Times Ltd. 2012. Retrieved June 21, 2015 from HighBeam Research: [1](http://www.highbeam.com/doc/1P1-208214624.html)
 3.
 4.

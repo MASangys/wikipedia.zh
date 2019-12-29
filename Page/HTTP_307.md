@@ -81,12 +81,8 @@ exit();
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink") [Category:计算机错误](https://zh.wikipedia.org/wiki/Category:计算机错误 "wikilink") [Category:HTTP/1.1](https://zh.wikipedia.org/wiki/Category:HTTP/1.1 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.

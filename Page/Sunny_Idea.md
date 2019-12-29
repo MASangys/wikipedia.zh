@@ -27,11 +27,13 @@
 <th><p>width ="200px"| 第五主打</p></th>
 <th><p>width ="200px"| 第六主打</p></th>
 <th><p>width ="200px"| 第七主打</p></th>
+<th><p>width ="200px"| 第八主打</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>colspan ="23" | 2015年</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -54,9 +56,11 @@
 <td><p>鬼叫我窮牙</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>colspan = "23" | 2017年</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -78,9 +82,11 @@
 <td><p>Stupid BOII</p></td>
 <td><p>Runaway</p></td>
 <td><p>小故事</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>colspan = "23" | 2019年</p></td>
+<td><p>colspan = "23" | 20XX年</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -99,6 +105,7 @@
 <td><p>飢餓遊戲</p></td>
 <td><p>求生</p></td>
 <td><p>寫真家‬‬</p></td>
+<td><p>樹窿</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -113,9 +120,11 @@
 <td><p>I Just Wanna Stay With You</p></td>
 <td><p>維多利亞</p></td>
 <td><p>主宰</p></td>
+<td><p>揮揮手</p></td>
 <td><p>逃生門‬</p></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>

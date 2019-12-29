@@ -59,8 +59,8 @@
 </tr>
 <tr class="odd">
 <td><p>2017年4月2日</p></td>
-<td><p>星期日：<br />
-21:00-21:30</p></td>
+<td><p>星期六：<br />
+18:00-18:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Weekly_Re-Viu" title="wikilink">Weekly Re-Viu</a></p></td>
 <td></td>
 <td><p><a href="../Page/路透社.md" title="wikilink">路透社</a>製作</p></td>
@@ -127,6 +127,16 @@ Market Express</p></td>
 16:30-17:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/24K財經" title="wikilink">24K財經</a><br />
 24K Finance</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/24K_Finformation" title="wikilink">24K Finformation製作</a><br />
+普通話節目</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月1日</p></td>
+<td><p>星期日：<br />
+18:00-19:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/24K財經Pro" title="wikilink">24K財經Pro</a><br />
+24K Finance Pro</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/24K_Finformation" title="wikilink">24K Finformation製作</a><br />
 普通話節目</p></td>
@@ -277,7 +287,7 @@ HFPA Presents Globes Red Carpet Live</p></td>
 <td><p><br />
 2016 BBC Music Awards</p></td>
 <td><p>主持：、、<br />
-演出：、<a href="https://zh.wikipedia.org/wiki/Lukas_Graham" title="wikilink">Lukas Graham</a>、<a href="https://zh.wikipedia.org/wiki/Emeli_Sandé" title="wikilink">Emeli Sandé</a>、<a href="https://zh.wikipedia.org/wiki/Coldplay" title="wikilink">Coldplay</a>、<a href="https://zh.wikipedia.org/wiki/John_Legend" title="wikilink">John Legend</a>、、<a href="../Page/凱撒首領.md" title="wikilink">Kaiser Chiefs</a>、<a href="https://zh.wikipedia.org/wiki/Craig_David" title="wikilink">Craig David</a>、<a href="https://zh.wikipedia.org/wiki/Robbie_Williams" title="wikilink">Robbie Williams</a></p></td>
+演出：<a href="https://zh.wikipedia.org/wiki/The_1975" title="wikilink">The 1975</a>、<a href="https://zh.wikipedia.org/wiki/Lukas_Graham" title="wikilink">Lukas Graham</a>、<a href="https://zh.wikipedia.org/wiki/Emeli_Sandé" title="wikilink">Emeli Sandé</a>、<a href="https://zh.wikipedia.org/wiki/Coldplay" title="wikilink">Coldplay</a>、<a href="https://zh.wikipedia.org/wiki/John_Legend" title="wikilink">John Legend</a>、、<a href="../Page/凱撒首領.md" title="wikilink">Kaiser Chiefs</a>、<a href="https://zh.wikipedia.org/wiki/Craig_David" title="wikilink">Craig David</a>、<a href="https://zh.wikipedia.org/wiki/Robbie_Williams" title="wikilink">Robbie Williams</a></p></td>
 <td></td>
 <td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國</a>）／4月1日09:30-11:15重播／5月3日09:00-11:00重播</p></td>
 </tr>
@@ -533,474 +543,26 @@ One Love Manchester</p></td>
 <td><p><strong>現場直播</strong><br />
 外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="https://zh.wikipedia.org/wiki/全國廣播公司" title="wikilink">NBC</a>）</p></td>
 </tr>
+<tr class="odd">
+<td><p>12月4日</p></td>
+<td><p>17:00-21:00</p></td>
+<td><p>音樂頒獎禮</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019年Mnet亞洲音樂大獎" title="wikilink">2019 MAMA亞洲音樂大獎 - 日本站</a><br />
+2019 Mnet Asian Music Awards in Japan</p></td>
+<td><p>主持：<br />
+演出：<br />
+粵語現場翻譯：</p></td>
+<td><p><a href="https://viu.tv/encore/2-01-9-mnet-asian-music-awards-in-japan">ViuTV網頁</a></p></td>
+<td><p><strong>現場直播</strong><br />
+外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／即時粵語現場翻譯</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 體育節目
-
-### 西甲系列
-
-  - 賽季期間提供每月一場[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")（La Liga）直播。
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>賽季</p></td>
-<td><p>播放日</p></td>
-<td><p>時間</p></td>
-<td><p>播放賽事</p></td>
-<td><p>備註</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017–18賽季西班牙足球甲級聯賽" title="wikilink">2017-18年</a></p></td>
-<td><p>2017年9月9日</p></td>
-<td><p>22:10-00:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華倫西亞足球會" title="wikilink">華倫西亞</a> 對 <a href="https://zh.wikipedia.org/wiki/馬德里體育會" title="wikilink">馬德里體育會</a><br />
-Valencia vs At. Madrid</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_2" title="wikilink">Now Sports 2同步播出</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年10月22日</p></td>
-<td><p>00:30-02:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華倫西亞足球會" title="wikilink">華倫西亞</a> 對 <a href="https://zh.wikipedia.org/wiki/西維爾足球會" title="wikilink">西維爾</a><br />
-Valencia vs Sevilla</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年11月25日</p></td>
-<td><p>23:10-01:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/皇家馬德里" title="wikilink">皇家馬德里</a> 對 <a href="https://zh.wikipedia.org/wiki/馬拉加足球會" title="wikilink">馬拉加</a><br />
-Real Madrid vs Malaga</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年12月16日</p></td>
-<td><p>23:10-01:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/畢爾包足球會" title="wikilink">畢爾包</a> 對 <a href="../Page/皇家蘇斯達.md" title="wikilink">皇家蘇斯達</a><br />
-Bilbao vs Real Sociedad</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年1月20日</p></td>
-<td><p>19:57-22:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛斯賓奴" title="wikilink">愛斯賓奴</a> 對 <a href="https://zh.wikipedia.org/wiki/西維爾足球會" title="wikilink">西維爾</a><br />
-Espanyol vs Sevilla</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年2月27日</p></td>
-<td><p>02:27-03:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華倫西亞足球會" title="wikilink">華倫西亞</a> 對 <a href="../Page/皇家蘇斯達.md" title="wikilink">皇家蘇斯達</a><br />
-Valencia vs Real Sociedad</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年4月1日</p></td>
-<td><p>22:12-00:15</p></td>
-<td><p><a href="../Page/雷加利斯體育會.md" title="wikilink">利根尼斯</a> 對 <a href="https://zh.wikipedia.org/wiki/華倫西亞足球會" title="wikilink">華倫西亞</a><br />
-Leganes vs Valencia</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年5月20日</p></td>
-<td><p>22:10-00:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/畢爾包足球會" title="wikilink">畢爾包</a> 對 <a href="https://zh.wikipedia.org/wiki/愛斯賓奴" title="wikilink">愛斯賓奴</a><br />
-Bilbao vs Espanyol</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/2018–19賽季西班牙足球甲級聯賽.md" title="wikilink">2018-19年</a></p></td>
-<td><p>2018年9月23日</p></td>
-<td><p>22:10-00:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/維拉利爾足球俱樂部" title="wikilink">維拉利爾</a> 對 <a href="https://zh.wikipedia.org/wiki/華倫西亞足球會" title="wikilink">華倫西亞</a><br />
-Villarreal vs Valencia</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/beIN_-_Now_Sports_2" title="wikilink">beIN - Now Sports 2同步播出</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2018年10月21日</p></td>
-<td><p>00:25-02:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/維拉利爾足球俱樂部" title="wikilink">維拉利爾</a> 對 <a href="https://zh.wikipedia.org/wiki/馬德里體育會" title="wikilink">馬德里體育會</a><br />
-Villarreal vs At. Madrid</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年11月25日</p></td>
-<td><p>23:10-01:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西維爾足球會" title="wikilink">西維爾</a> 對 <a href="https://zh.wikipedia.org/wiki/皇家華拉度列足球會" title="wikilink">華拉度列</a><br />
-Sevilla vs Valladolid</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年12月16日</p></td>
-<td><p>18:55-21:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西維爾足球會" title="wikilink">西維爾</a> 對 <a href="https://zh.wikipedia.org/wiki/基羅納足球會" title="wikilink">基朗拿</a><br />
-Sevilla vs Girona</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### [世界盃](https://zh.wikipedia.org/wiki/世界盃足球賽 "wikilink")
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>賽季</p></td>
-<td><p>播放日</p></td>
-<td><p>時間</p></td>
-<td><p>播放賽事</p></td>
-<td><p>備註</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年世界盃足球賽" title="wikilink">2018 FIFA世界盃</a></p></td>
-<td><p>2017年12月1日</p></td>
-<td><p>23:00-00:00</p></td>
-<td><p><a href="../Page/2018年國際足協世界盃抽籤儀式.md" title="wikilink">2018年國際足協世界盃抽籤儀式</a><br />
-2018 FIFA World Cup seeding</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_2" title="wikilink">Now Sports 2同步播出</a>[1]</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/2018年國際足協女子U-20世界盃.md" title="wikilink">2018 FIFA U-20女子世界盃</a></p></td>
-<td><p>2018年8月20日</p></td>
-<td><p>21:50-00:00</p></td>
-<td><p>準決賽：<a href="https://zh.wikipedia.org/wiki/英格蘭國家U20女子足球隊" title="wikilink">英格蘭</a> 對 <a href="https://zh.wikipedia.org/wiki/日本國家U20女子足球隊" title="wikilink">日本</a><br />
-Semi-final: England vs Japan</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_3" title="wikilink">Now Sports 3同步播出</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年國際足協女子U-17世界盃" title="wikilink">2018 FIFA U-17女子世界盃</a></p></td>
-<td><p>2018年11月14日</p></td>
-<td><p>05:50-08:00</p></td>
-<td><p>分組賽： <a href="https://zh.wikipedia.org/wiki/烏拉圭國家U17女子足球隊" title="wikilink">烏拉圭</a> 對 <a href="https://zh.wikipedia.org/wiki/加納國家U17女子足球隊" title="wikilink">加納</a><br />
-Group stage: Uruguay vs Ghana</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年11月29日</p></td>
-<td><p>02:50-05:00</p></td>
-<td><p>準決賽：<a href="https://zh.wikipedia.org/wiki/新西蘭國家U17女子足球隊" title="wikilink">新西蘭</a> 對 <a href="https://zh.wikipedia.org/wiki/西班牙國家U17女子足球隊" title="wikilink">西班牙</a><br />
-Semi-final: New Zealand vs Spain</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>05:50-08:00</p></td>
-<td><p>準決賽：<a href="https://zh.wikipedia.org/wiki/墨西哥國家U17女子足球隊" title="wikilink">墨西哥</a> 對 <a href="https://zh.wikipedia.org/wiki/加拿大國家U17女子足球隊" title="wikilink">加拿大</a><br />
-Semi-final: Mexico vs Canada</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年12月2日</p></td>
-<td><p>05:50-08:00</p></td>
-<td><p>決賽：<a href="https://zh.wikipedia.org/wiki/西班牙國家U17女子足球隊" title="wikilink">西班牙</a> 對 <a href="https://zh.wikipedia.org/wiki/墨西哥國家U17女子足球隊" title="wikilink">墨西哥</a><br />
-Final: Spain vs Mexico</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-### 其他
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>賽事類型</p></td>
-<td><p>播放日</p></td>
-<td><p>時間</p></td>
-<td><p>播放賽事</p></td>
-<td><p>備註</p></td>
-</tr>
-<tr class="even">
-<td><p>欖球</p></td>
-<td><p>2017年4月7日</p></td>
-<td><p>13:30-17:45</p></td>
-<td><p><a href="../Page/2017年香港國際七人欖球賽.md" title="wikilink">國泰航空／匯豐香港國際七人欖球賽2017</a><br />
-Cathay Pacific/HSBC Hong Kong Sevens 2017</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_Prime" title="wikilink">Now Sports Prime及</a><a href="https://zh.wikipedia.org/wiki/Now_Sports_4" title="wikilink">Now Sports 4同步播出</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年4月8日</p></td>
-<td><p>15:10-19:45</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年4月9日</p></td>
-<td><p>12:00-20:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>高爾夫球</p></td>
-<td><p>2017年5月4日</p></td>
-<td><p>02:00-07:00</p></td>
-<td><p>PGA Tour 2017 The Players Championship</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Golf_3" title="wikilink">Now Golf 3同步播出</a></p></td>
-</tr>
-<tr class="even">
-<td><p>2017年10月25日及26日</p></td>
-<td><p>14:00-16:00</p></td>
-<td><p>WGC-HSBC Champions 2017 -D1</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Golf_2" title="wikilink">Now Golf 2同步播出</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年10月27日及28日</p></td>
-<td><p>12:00-16:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年5月14日</p></td>
-<td><p>02:00-07:00</p></td>
-<td><p>PGA Tour 2018 THE PLAYERS Championship -D4</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Golf_3" title="wikilink">Now Golf 3同步播出</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2018年10月25日及26日</p></td>
-<td><p>14:00-16:00</p></td>
-<td><p>WGC-HSBC Champions 2018</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Golf_2" title="wikilink">Now Golf 2同步播出</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年10月27日及28日</p></td>
-<td><p>12:00-16:00</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年3月18日</p></td>
-<td><p>01:00-06:00</p></td>
-<td><p>PGA Tour 2019 THE PLAYERS Championship</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Golf_3" title="wikilink">Now Golf 3同步播出</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>足球</p></td>
-<td><p>2017年6月13日</p></td>
-<td><p>19:55-22:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年亞洲盃資格賽#B.E7.B5.84" title="wikilink">2019亞洲盃外圍賽</a> - <a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a> 對 <a href="https://zh.wikipedia.org/wiki/北韓國家足球隊" title="wikilink">朝鮮</a><br />
-AFC Asian Cup 2019 Qualifiers Final Round - Hong Kong vs DPR Korea</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_Prime" title="wikilink">Now Sports Prime及</a><a href="https://zh.wikipedia.org/wiki/Now_Sports_3" title="wikilink">Now Sports 3同步播出</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年7月18日</p></td>
-<td><p>19:15-21:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃</a> 2017 - <a href="https://zh.wikipedia.org/wiki/AC米蘭" title="wikilink">AC米蘭</a> 對 <a href="https://zh.wikipedia.org/wiki/多蒙特足球會" title="wikilink">多蒙特</a><br />
-International Champions Cup 2017 - A.C.Milan vs Dortmund</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_3" title="wikilink">now Sports 3同步播出</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年7月18日</p></td>
-<td><p>19:15-21:15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃</a> 2017 - <a href="https://zh.wikipedia.org/wiki/拜仁慕尼黑" title="wikilink">拜仁慕尼黑</a> 對 <a href="https://zh.wikipedia.org/wiki/AC米蘭" title="wikilink">AC米蘭</a><br />
-International Champions Cup 2017 - Bayern Munich vs A.C.Milan</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年7月25日</p></td>
-<td><p>19:30-21:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃</a> 2017 - <a href="https://zh.wikipedia.org/wiki/車路士" title="wikilink">車路士</a> 對 <a href="https://zh.wikipedia.org/wiki/拜仁慕尼黑" title="wikilink">拜仁慕尼黑</a><br />
-International Champions Cup 2017 - Chelsea vs Bayern Munich</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年7月27日</p></td>
-<td><p>11:30-13:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃</a> 2017 - <a href="https://zh.wikipedia.org/wiki/曼城足球會" title="wikilink">曼城</a> 對 <a href="https://zh.wikipedia.org/wiki/皇家馬德里" title="wikilink">皇家馬德里</a><br />
-International Champions Cup 2017 - Man City vs Real Madrid</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>19:30-21:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃</a> 2017 - <a href="https://zh.wikipedia.org/wiki/拜仁慕尼黑" title="wikilink">拜仁慕尼黑</a> 對 <a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a><br />
-International Champions Cup 2017 - Bayern Munich vs Inter</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年7月29日</p></td>
-<td><p>19:30-21:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國際冠軍盃" title="wikilink">國際冠軍盃</a> 2017 - <a href="https://zh.wikipedia.org/wiki/車路士" title="wikilink">車路士</a> 對 <a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a><br />
-International Champions Cup 2017 - Chelsea vs Inter</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年9月5日</p></td>
-<td><p>20:40-22:45</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年亞洲盃資格賽#B.E7.B5.84" title="wikilink">2019亞洲盃外圍賽</a> - <a href="../Page/馬來西亞國家足球隊.md" title="wikilink">馬來西亞</a> 對 <a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a><br />
-AFC Asian Cup 2019 Qualifiers Final Round - Malaysia vs Hong Kong</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年10月5日</p></td>
-<td><p>19:55-22:00</p></td>
-<td><p>撐起港隊-<a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a> 對 <a href="../Page/老撾國家足球隊.md" title="wikilink">老撾</a><br />
-Come on HK-Hong Kong vs Laos</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年11月5日</p></td>
-<td><p>22:00-00:00</p></td>
-<td><p><a href="../Page/英格蘭足總盃.md" title="wikilink">英格蘭足總盃</a>17/18第一圈：<a href="https://zh.wikipedia.org/wiki/沃金足球俱樂部" title="wikilink">禾京</a> 對 <a href="https://zh.wikipedia.org/wiki/貝利足球會" title="wikilink">貝利</a><br />
-England FA Cup 17/18 Round 1: Woking vs Bury</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年11月9日</p></td>
-<td><p>19:55-22:00</p></td>
-<td><p>撐起港隊-<a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a> 對 <a href="https://zh.wikipedia.org/wiki/巴林國家足球隊" title="wikilink">巴林</a><br />
-Come on HK-Hong Kong vs Bahrain</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年11月14日</p></td>
-<td><p>19:55-22:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019年亞洲盃資格賽#B.E7.B5.84" title="wikilink">2019亞洲盃外圍賽</a> - <a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a> 對 <a href="../Page/黎巴嫩國家足球隊.md" title="wikilink">黎巴嫩</a><br />
-AFC Asian Cup 2019 Qualifiers Final Round - Hong Kong vs Lebanon</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年12月2日</p></td>
-<td><p>22:55-01:00</p></td>
-<td><p><a href="../Page/英格蘭足總盃.md" title="wikilink">英格蘭足總盃</a>17/18第二圈：<a href="https://zh.wikipedia.org/wiki/布拉德福德城足球俱樂部" title="wikilink">巴拉福特</a> 對 <a href="https://zh.wikipedia.org/wiki/普利茅夫足球會" title="wikilink">普利茅夫</a><br />
-England FA Cup 17/18 Round 2: Bradford vs Plymouth</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年1月6日</p></td>
-<td><p>15:25-17:30</p></td>
-<td><p><a href="../Page/第41屆省港盃.md" title="wikilink">第41屆省港盃</a> 首回合 - 廣東 對 <a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a><br />
-The 41st Guangdong–Hong Kong Cup 1st Leg - Guangdong Vs Hong Kong</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2019年1月9日</p></td>
-<td><p>19:55-22:00</p></td>
-<td><p><a href="../Page/第41屆省港盃.md" title="wikilink">第41屆省港盃</a> 次回合 - <a href="https://zh.wikipedia.org/wiki/香港足球代表隊" title="wikilink">香港</a> 對 廣東<br />
-The 41st Guangdong–Hong Kong Cup 2nd Leg - Hong Kong Vs Guangdong</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>游泳</p></td>
-<td><p>2017年9月30日及10月1日</p></td>
-<td><p>18:00-20:00</p></td>
-<td><p>FINA/airweave 游泳世界盃2017-香港<br />
-FINA/airweave Swimming World Cup 2017-Hong Kong</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_1" title="wikilink">now Sports 1同步播出</a></p></td>
-</tr>
-<tr class="even">
-<td><p>網球</p></td>
-<td><p>2017年10月9日至10月13日</p></td>
-<td><p>19:00-21:00</p></td>
-<td><p>英國保誠呈獻：<a href="../Page/香港網球公開賽.md" title="wikilink">保誠香港網球公開賽</a>2017<br />
-Prudential Presents:Prudential Hong Kong Tennis Open 2017</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_4" title="wikilink">now Sports 4同步播出</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年10月15日</p></td>
-<td><p>20:30-01:05</p></td>
-<td><p>英國保誠呈獻：<a href="../Page/香港網球公開賽.md" title="wikilink">保誠香港網球公開賽</a>2017 - 單打決賽<br />
-Prudential Hong Kong Tennis Open 2017 -Singles Final</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年10月8日至12日</p></td>
-<td><p>19:00-21:00</p></td>
-<td><p><a href="../Page/香港網球公開賽.md" title="wikilink">保誠香港網球公開賽2018</a><br />
-Prudential Presents: Prudential Hong Kong Tennis Open 2018</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>賽車</p></td>
-<td><p>2017年12月2日及3日</p></td>
-<td><p>11:00-12:00</p></td>
-<td><p>2017國際汽聯香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>賽車排位賽<br />
-2017 FIA Formula E HKT Hong Kong E-Prix Qualifying</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_1" title="wikilink">now Sports 1同步播出</a></p></td>
-</tr>
-<tr class="even">
-<td><p>2019年3月10日</p></td>
-<td><p>11:30-13:00</p></td>
-<td><p>2019香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>大賽排位賽<br />
-2019 HKT Hong Kong E-Prix Qualifying</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_5" title="wikilink">now Sports 5同步播出</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2019年3月17日</p></td>
-<td><p>15:00-16:00</p></td>
-<td><p>2019香港電訊<a href="../Page/電動方程式.md" title="wikilink">電動方程式</a>大賽精華<br />
-2019 HKT Hong Kong E-Prix Highlights</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>拳擊</p></td>
-<td><p>2018年9月16日</p></td>
-<td><p>08:00-12:00</p></td>
-<td><p>HBO拳賽直播 - 艾華利斯 對 戈洛夫金<br />
-HBO PPV Boxing Live - Saul Canelo Alvarez vs. Gennady GGG Golovkin II</p></td>
-<td><p>與now 642 FIGHT SPORTS同步播出</p></td>
-</tr>
-<tr class="odd">
-<td><p>羽毛球</p></td>
-<td><p>2019年3月22日</p></td>
-<td><p>19:00-23:00</p></td>
-<td><p><a href="../Page/2019年湯恩佳盃.md" title="wikilink">湯恩佳盃 2019 亞洲羽毛球混合團體錦標賽</a> - 半準決賽(2)<br />
-2019 Badminton Asia Mixed Team Championships - Quarterfinals(2)</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_1" title="wikilink">Now Sports 1同步播出</a></p></td>
-</tr>
-<tr class="even">
-<td><p>2019年3月23日</p></td>
-<td><p>13:00-17:00</p></td>
-<td><p><a href="../Page/2019年湯恩佳盃.md" title="wikilink">湯恩佳盃 2019 亞洲羽毛球混合團體錦標賽</a> - 準決賽(1)<br />
-2019 Badminton Asia Mixed Team Championships - Semifinals(1)</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## 參見
 
   - [ViuTVsix節目表](http://viu.tv/epg/96)
 
 [Category:香港電視娛樂節目列表](https://zh.wikipedia.org/wiki/Category:香港電視娛樂節目列表 "wikilink")
-
-1.  [俄羅斯世界盃 2018 由 Now TV 獨家播！ViuTV 免費直播 19 場](https://ezone.ulifestyle.com.hk/article/1959424/%E4%BF%84%E7%BE%85%E6%96%AF%E4%B8%96%E7%95%8C%E7%9B%83%202018%20%E7%94%B1%20Now%20TV%20%E7%8D%A8%E5%AE%B6%E6%92%AD%EF%BC%81ViuTV%20%E5%85%8D%E8%B2%BB%E7%9B%B4%E6%92%AD%2019%20%E5%A0%B4)

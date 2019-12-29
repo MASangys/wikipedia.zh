@@ -20,7 +20,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.monrose.de/)
+  - [官方網站](https://web.archive.org/web/20100426141001/http://www.monrose.de/)
 
 [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:流行音樂團體](https://zh.wikipedia.org/wiki/Category:流行音樂團體 "wikilink")
 

@@ -4,7 +4,7 @@
 
 ### [亞洲明星盛典 Artist Awards）](../Page/亞洲明星盛典.md "wikilink")（Asia
 
-|- | rowspan="2"|2016年 | 最受歡迎藝人－TOP 50\[1\] | rowspan="6"|SEVENTEEN |  |- | 歌手部門－最佳之星獎 |  |- | rowspan="2"|2017年 | 最受歡迎藝人－TOP 10\[2\] |  |- | 歌手部門－最佳藝人獎 |  |- | rowspan="2"|2018年 | 年度藝人 |  |- | Best Artist獎 |  |- |}
+|- | rowspan="2"|2016年 | 最受歡迎藝人－TOP 50\[1\] | rowspan="9"|SEVENTEEN |  |- | 歌手部門－最佳之星獎 |  |- | rowspan="2"|2017年 | 最受歡迎藝人－TOP 10\[2\] |  |- | 歌手部門－最佳藝人獎 |  |- | rowspan="2"|2018年 | 年度藝人 |  |- | Best Artist獎 |  |- | rowspan="3"|2019年 | 歌手部門－年度專輯 |  |- | Best Icon獎 |  |- | Best Social Artist獎 |  |- |}
 
 ### 亞洲模特頒獎典禮（Asia Model Festival Awards）
 
@@ -20,11 +20,11 @@
 
 ### [Mnet亞洲音樂大獎 Asian Music Awards）](../Page/Mnet亞洲音樂大獎.md "wikilink")（Mnet
 
-|- | rowspan="2"|2015年 |  | rowspan="2"|SEVENTEEN |  |- |  |  |- | rowspan="5"|2016年 |  | Love & Letter |  |- | 最佳亞洲風格 | rowspan="2"|SEVENTEEN |  |- |  |  |- |  | rowspan="2"|Pretty U |  |- |  |  |- | rowspan="7"|[2017年](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") |  | [Al1](../Page/Al1.md "wikilink") |  |- |  | rowspan="3"| 울고 싶지 않아 (Don't Wanna Cry) |  |- | \[3\] |  |- | \[4\] |  |- | \[5\] | rowspan="3"| SEVENTEEN |  |- |  |  |- | 國際最受歡迎藝人獎 |  |- | rowspan="7"|[2018年](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink") |  | rowspan="3"| SEVENTEEN |  |- |  |  |- |  |  |- |  | 《Oh My\!》 |  |- |  | [夫碩順](../Page/夫碩順.md "wikilink") |  |- |  | 《A-Teen》 |  |- |}
+|- | rowspan="2"|2015年 | 最佳新人男子組合 | rowspan="2"|SEVENTEEN |  |- | UnionPay年度歌手 |  |- | rowspan="5"|2016年 | HotelsCombined年度專輯 | Love & Letter |  |- | 最佳亞洲風格 | rowspan="2"|SEVENTEEN |  |- | 國際表演者獎 |  |- | HotelsCombined年度歌曲 | rowspan="2"|Pretty U |  |- | 最佳舞蹈表演男團獎 |  |- | rowspan="7"|2017年 | Qoo10年度專輯 | [Al1](../Page/Al1.md "wikilink") |  |- | Qoo10年度歌曲 | rowspan="3"| 울고 싶지 않아 (Don't Wanna Cry) |  |- | 最佳MV獎\[3\] |  |- | 最佳舞蹈表演男團獎\[4\] |  |- | 最佳男團獎\[5\] | rowspan="3"| SEVENTEEN |  |- | Qoo10年度歌手 |  |- | 國際最受歡迎藝人獎 |  |- | rowspan="6"|2018年 | Worldwide Fan's Choice Top 10 | rowspan="3"| SEVENTEEN |  |- | Mwave Global Fans' Choice |  |- | 最佳男子團體 |  |- | 最佳舞蹈表演男團 | 《Oh My\!》 |  |- | 最佳子團 | [夫碩順](../Page/夫碩順.md "wikilink") |  |- | 最佳影視原聲帶 | 《A-Teen》 |  |- | rowspan="7"|2019年 | 最佳男子團體 | rowspan="4"| SEVENTEEN |  |- | 最佳男子舞蹈團體 |  |- | 最佳現場演出企劃獎 |  |- | 突破成就獎 |  |- |}
 
 ### [甜瓜音樂獎 Music Awards）](../Page/甜瓜音樂獎.md "wikilink")（Melon
 
-|- | 2015年 | 新人獎 | SEVENTEEN |  |- | rowspan="2"|2016年 | 舞蹈獎（男子部門） | rowspan="2"|Pretty U |  |- | MBC音樂之星獎 |  |- | rowspan="2"|2017年 | Stage of the Year | SEVENTEEN |  |- | Hot Trend獎 | WOOZI〈DOWNPOUR〉 |  |- |- | rowspan="2"|2018年 | 舞蹈獎（男子部門） | rowspan="2"|THANKS |  |}
+|- | 2015年 | 新人獎 | SEVENTEEN |  |- | rowspan="2"|2016年 | 舞蹈獎（男子部門） | rowspan="2"|Pretty U |  |- | MBC音樂之星獎 |  |- | rowspan="2"|2017年 | Stage of the Year | SEVENTEEN |  |- | Hot Trend獎 | WOOZI〈DOWNPOUR〉 |  |- |- | 2018年 | 舞蹈獎（男子部門） | THANKS |  |- | rowspan="2"|2019年 | Stage of the Year | rowspan="1"|SEVENTEEN |  |- | 舞蹈獎（男子部門） | Home |  |}
 
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
@@ -193,9 +193,16 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Besrt3 新人獎</p></td>
+<td><p>Best3 新人獎</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">2019 VLIVE AWARDS V HEARTBEAT</a></p></td>
+<td><p>Global Artist Top 12</p></td>
+<td><p>SEVENTEEN</p></td>
 <td></td>
 <td></td>
 </tr>

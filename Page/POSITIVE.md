@@ -23,7 +23,5 @@
 [Category:森川美穗歌曲](https://zh.wikipedia.org/wiki/Category:森川美穗歌曲 "wikilink") [Category:1991年單曲](https://zh.wikipedia.org/wiki/Category:1991年單曲 "wikilink") [Category:亂馬½](https://zh.wikipedia.org/wiki/Category:亂馬½ "wikilink") [Category:富士電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台動畫主題曲 "wikilink")
 
 1.
-
 2.
-
 3.

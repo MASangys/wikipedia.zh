@@ -1091,12 +1091,10 @@ KING</p></th>
 [Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:恐龍題材電視劇](https://zh.wikipedia.org/wiki/Category:恐龍題材電視劇 "wikilink")
 
 1.  <http://www.toei.co.jp/tv/kyouryu-brave/story/1209786_2706.html>
-
 2.
 3.
 4.
 5.
 6.  <http://www.toei.co.jp/tv/kyouryu-brave/story/1209667_2706.html>
-
 7.
 8.  官方字幕標記卻是弦重Ver.

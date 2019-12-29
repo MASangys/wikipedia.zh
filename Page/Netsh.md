@@ -4,11 +4,11 @@ Netsh常用于重置[TCP/IP 协议栈到缺省或已知良好的状态](../Page/
 
 Netsh的一项功能可以允许用户改变他们的 [IP地址](../Page/IP地址.md "wikilink")。
 
-从[Windows Vista起](../Page/Windows_Vista.md "wikilink")，netsh也可以更改无线设置（例如[SSID](../Page/服务集_\(无线局域网\).md "wikilink")）。
+从[Windows Vista起](../Page/Windows_Vista.md "wikilink")，netsh也可以读取和更改无线连接配置（例如[SSID](../Page/服务集_\(无线局域网\).md "wikilink")）。使用管理员身份运行命令“netsh wlan show profile name="曾经连接过的网络的SSID" key=clear”可以查看曾经连接过的无线网络的详细配置（包括密码）。
 
 Netsh同样可以用于读取[IPv6](../Page/IPv6.md "wikilink")栈。
 
-输入“netsh winsock reset”可修复与其他网络设备通讯时的[TCP/IP问题](https://zh.wikipedia.org/wiki/TCP/IP协议族 "wikilink")。
+执行“netsh winsock reset”可修复与其他网络设备通讯时的[TCP/IP问题](https://zh.wikipedia.org/wiki/TCP/IP协议族 "wikilink")。其主要作用为重置winsock目录，重新初始化网络环境，以解决由于软件冲突、病毒等原因造成的参数错误问题。（命令执行后需按提示重启电脑）（winsock是Windows网络编程接口，winsock工作在应用层，它提供与底层传输协议无关的高层数据传输编程接口）
 
 ## 外部链接
 

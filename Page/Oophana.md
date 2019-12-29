@@ -24,6 +24,5 @@
 3.
 4.
 5.  Berry A. J. (1963). "The anatomy of two Malayan limestone hill Streptaxidae, *Sinoennea kanchingensis* Tomlin and *Oophana diaphanopepla* van Benthem Jutting, with special reference to the genital system". *Proceedings of the Malacological Society of London* **35**: 139-150.
-
 6.
 7.

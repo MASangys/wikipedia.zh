@@ -33,9 +33,7 @@
 <references />
 
 1.  "Mardon, Catherine A.". Canadian Who's Who 1910-. 22 January 2016.
-
 2.  ["Authors"](http://www.goldenmeteoritepress.com/?page_id=2) .Golden Meteorite Press. Golden Meteorite Press. Retrieved 4 July 2016.
-
 3.
 4.
 5.
@@ -46,26 +44,16 @@
 10.
 11.
 12. [Mardon, Austin](../Page/奧斯丁·馬當.md "wikilink"); Mardon, Catherine (29 March 2016). ["Austin and Catherine Mardon: Home ownership offers safe place for people with disabilities"](http://edmontonjournal.com/opinion/columnists/austin-and-catherine-mardon-home-ownership-offers-safe-place-for-people-with-disabilities). Edmonton Journal. Retrieved 4 July 2016.
-
 13.
 14. Mardon, Catherine (2012). [Curveballs](https://books.google.com.au/books?id=n1aaMQEACAAJ&lpg=PP1&pg=PP1#v=onepage&q&f=false). Edmonton, Alberta, Canada: Golden Meteorite Press. ISBN 978-1-897472-10-1.
-
 15. Mardon, Catherine; Mardon, Austin (2013). [Gandy and Parker Escape the Zoo: An Illustrated Adventure](https://www.amazon.ca/Gandy-Parker-Escape-Zoo-Illustrated/dp/189747282X/ref=sr_1_fkmr0_1?ie=UTF8&qid=1467734946&sr=8-1-fkmr0&keywords=gandy+and+parker+excape+the+zoo). Edmonton, Alberta, Canada: Golden Meteorite Press. ISBN 978-1897472828.
-
 16. Mardon, Catherine (2015). [Screwballs](https://books.google.ca/books/about/Screwballs.html?id=a4DLoAEACAAJ&redir_esc=y). Edmonton, Alberta, Canada: Golden Meteorite Press. ISBN 978-1-897472-54-5.
-
 17. Mardon, Catherine (2015). [Gandy and the Princess](https://www.amazon.ca/Gandy-Princess-Catherine-Mardon/dp/1897472560/ref=sr_1_3?s=books&ie=UTF8&qid=1467735239&sr=1-3). Edmonton, Alberta, Canada: Golden Meteorite Press. ISBN 978-1897472569.
-
 18. "Mardon, Catherine A.". Canadian Who's Who 1910-. 22 January 2016. author: \[...\] Gandy & Cadet 2015"
-
 19. Mardon, Catherine (2015). Gandy and the Cadet. Edmonton, Alberta, Canada: Golden Meteorite Press. ISBN 9781897480182.
-
 20. Mardon, Catherine (22 January 2016). "Mardon, Catherine A.". Canadian Who's Who 1910-. author: \[...\] Gandy and the White Man"
-
 21. Mardon, Catherine; [Mardon, Austin](../Page/奧斯丁·馬當.md "wikilink") (2016). Gandy and the Man in White. Edmonton, Alberta, Canada: Golden Meteorite Press. ISBN 9781897480274.
-
 22. "Mardon, Catherine A.". Canadian Who's Who 1910-. 22 January 2016. author: \[...\] Gandy and the Rear Window forthcoming 2016"
-
 23.
 24.
 25.

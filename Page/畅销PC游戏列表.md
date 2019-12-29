@@ -758,7 +758,7 @@ Koch Media<br />
 <td><p>仙剑奇侠传</p></td>
 <td><p>2011年7月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/电子角色扮演游戏" title="wikilink">电子角色扮演游戏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/北京軟星" title="wikilink">北京軟星</a></p></td>
+<td><p><a href="../Page/北京軟星.md" title="wikilink">北京軟星</a></p></td>
 <td><p><a href="../Page/大宇資訊.md" title="wikilink">大宇資訊</a>百游</p></td>
 </tr>
 <tr class="odd">

@@ -99,8 +99,8 @@ P227與P226一樣，都將操作部件設在槍身左側，位於滑套以下。
   - [格洛克21](../Page/格洛克21.md "wikilink")／[30](../Page/格洛克30.md "wikilink")／[41](../Page/格洛克41.md "wikilink")
   - [HK USP手槍](../Page/HK_USP手槍.md "wikilink")
   - [HK Mk 23 Mod 0半自動手槍](../Page/HK_Mk_23_Mod_0半自動手槍.md "wikilink")
-  - [HK45半自動手槍](https://zh.wikipedia.org/wiki/HK45半自動手槍 "wikilink")
-  - [HS2000半自動手槍](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")
+  - [HK45半自動手槍](../Page/HK45半自動手槍.md "wikilink")
+  - [HS2000半自動手槍](../Page/HS2000半自動手槍.md "wikilink")
   - [春田XDM半自動手槍](../Page/春田XDM半自動手槍.md "wikilink")
   - [史密斯威森軍警型半自動手槍](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
 

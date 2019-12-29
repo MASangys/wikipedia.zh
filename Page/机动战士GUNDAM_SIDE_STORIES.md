@@ -7,7 +7,7 @@
 ## 收录作品
 
   - 机动战士高达外传 MISSING LINK
-  - 机动战士高达外传 THE BLUE DESTINY
+  - [机动战士高达外传 THE BLUE DESTINY](../Page/机动战士GUNDAM外传_THE_BLUE_DESTINY.md "wikilink")
   - [机动战士高达外传 殖民地堕落之地…](../Page/機動戰士GUNDAM外傳_殖民地墮落之地.md "wikilink")
   - [机动战士高达外传 宇宙、闪光的尽头…](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")
   - ZEONIC FRONT 机动战士高达0079
@@ -31,6 +31,12 @@
   -
     20岁。军曹军衔。
     在队中代号是:“开膛手（Ripper）”
+
+<!-- end list -->
+
+  -
+    36岁。少尉军衔。
+    在队中代号是:“缄默者（Bomer）”
 
 ## 参考资料
 

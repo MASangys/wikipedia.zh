@@ -2,6 +2,8 @@
 
 2015年5月28日，該公司收購美國的[Path](../Page/Path_\(私密社交网站\).md "wikilink")\[3\]，2016年1月11日宣佈收購[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")76.4%的股份\[4\]。
 
+2019年10月28日[Kakao](../Page/Kakao.md "wikilink")和[SK電訊將互相交換價值](https://zh.wikipedia.org/wiki/SK電訊 "wikilink")3000億韓元的股份，通過這種方式，SK電訊將持有Kakao公司2.5%的股份，Kakao將持有SK電訊1.6%的股份。
+
 ## 相關服務及品牌
 
   - [KakaoTalk](../Page/KakaoTalk.md "wikilink")

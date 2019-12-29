@@ -54,7 +54,7 @@
 
 ## 外部連結
 
-  - [後山鐵道風華 文化資產數位博物館](http://document.hccc.gov.tw/railway/index.htm)
+  - [後山鐵道風華 文化資產數位博物館](https://web.archive.org/web/20180904154004/http://document.hccc.gov.tw/railway/index.htm)
   - [中華電視公司－歷史上的今天 1974年5月20日東線LCK31蒸汽老火車頭當廢鐵賣](http://news.cts.com.tw/cts/general/197405/197405201744199.html#.WVETF46GPEY)
 
 [Category:臺灣鐵路管理局車輛](https://zh.wikipedia.org/wiki/Category:臺灣鐵路管理局車輛 "wikilink") [Category:台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:台灣蒸汽機車 "wikilink") [Category:日本製台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:日本製台灣蒸汽機車 "wikilink")

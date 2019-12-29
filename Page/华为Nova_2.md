@@ -39,31 +39,23 @@ Nova 2搭载基于[Android 7.0 Nougat的](../Page/Android_Nougat.md "wikilink")[
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:華為手機](https://zh.wikipedia.org/wiki/Category:華為手機 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.
 9.
 10.
 11.
 12.
 13.
-
 14.
 15.
-
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.

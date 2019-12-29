@@ -4,7 +4,7 @@
 
 LiMux是首个取-{}-得德国技术服务部TÜV IT的行业应用（）认证的Linux桌面发行版。\[4\]它最初基于[Debian](../Page/Debian.md "wikilink")，之后改为Ubuntu——最流行的Debian衍生版。基于Ubuntu 8.10的第三版于2010年12月可用，基于Ubuntu 10.04 LTS的第四版于2011年8月可用\[5\]；尽管使用了KDE Desktop 3.5\[6\]，2012年8月的4.1版也基于Ubuntu 10.04 LTS。未来的LiMux版本将基于Ubuntu 14.04 LTS。LiMux的名称取自<strong>Li</strong>n<strong>ux</strong>与<strong>M</strong>ünchen（慕尼黑）。
 
-有类似成果的项目包括：[中国政府的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[中标麒麟](../Page/中标麒麟.md "wikilink")（Kylin），[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[宪兵](../Page/宪兵.md "wikilink")的[GendBuntu](https://zh.wikipedia.org/wiki/GendBuntu "wikilink")，[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")的Open.Amsterdam\[7\]\[8\]，[西班牙](../Page/西班牙.md "wikilink")[萨拉戈萨](../Page/萨拉戈萨.md "wikilink")的AZLinux，[維也納](../Page/維也納.md "wikilink")的（已放弃）\[9\]，以及[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[索洛图恩](https://zh.wikipedia.org/wiki/索洛图恩 "wikilink")（已放弃）。\[10\]
+有类似成果的项目包括：[中国政府的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[中标麒麟](../Page/中标麒麟.md "wikilink")（Kylin），[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[宪兵](../Page/宪兵.md "wikilink")的[GendBuntu](https://zh.wikipedia.org/wiki/GendBuntu "wikilink")，[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")的Open.Amsterdam\[7\]\[8\]，[西班牙](../Page/西班牙.md "wikilink")[萨拉戈萨](../Page/萨拉戈萨.md "wikilink")的AZLinux，[維也納](../Page/維也納.md "wikilink")的（已放弃）\[9\]，以及[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[索洛图恩](../Page/索洛图恩.md "wikilink")（已放弃）。\[10\]
 
 ## 历史
 
@@ -128,91 +128,47 @@ LiMux客户端5.0版本于2014年11月发布，它基于Ubuntu 12.04 LTS和使�
 [Category:基于Debian的发行版](https://zh.wikipedia.org/wiki/Category:基于Debian的发行版 "wikilink") [Category:Linux软件项目](https://zh.wikipedia.org/wiki/Category:Linux软件项目 "wikilink") [Category:国家资助的Linux发行版](https://zh.wikipedia.org/wiki/Category:国家资助的Linux发行版 "wikilink") [Category:Ubuntu衍生版](https://zh.wikipedia.org/wiki/Category:Ubuntu衍生版 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11. <http://www.linuxvoice.com/the-big-switch/>
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32. [LiMux: Linux in München unter politischem Beschuss](http://www.heise.de/open/meldung/LiMux-Linux-in-Muenchen-unter-politischem-Beschuss-2260806.html), Heise online, 2014-07-15
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42. [慕尼黑放弃 Linux，2020 年或将全面迁入 Windows - 开源中国社区](https://oschina.net/news/90592/2020-move-from-linux-to-windows)
-
 43.
-
 44. [Solidot | 慕尼黑从 Linux 切换到 Windows 10 将花费 5000 万欧元](http://www.solidot.org/story?sid=54620)
-
 45.

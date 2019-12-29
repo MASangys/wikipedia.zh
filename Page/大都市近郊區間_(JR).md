@@ -68,7 +68,7 @@
   - 山陽新幹線：西明石站－相生站
   - [加古川線](../Page/加古川線.md "wikilink")：－谷川站（全線）
   - [赤穗線](../Page/赤穗線.md "wikilink")：相生站－
-  - [山陰本線](../Page/山陰本線.md "wikilink")：[京都站](https://zh.wikipedia.org/wiki/京都站 "wikilink")－[園部站](https://zh.wikipedia.org/wiki/園部站 "wikilink")
+  - [山陰本線](../Page/山陰本線.md "wikilink")：[京都站](../Page/京都站.md "wikilink")－[園部站](https://zh.wikipedia.org/wiki/園部站 "wikilink")
   - [關西本線](../Page/關西本線.md "wikilink")：－[JR難波站](https://zh.wikipedia.org/wiki/JR難波站 "wikilink")
   - [草津線](../Page/草津線.md "wikilink")：柘植站－[草津站](https://zh.wikipedia.org/wiki/草津站_\(滋賀縣\) "wikilink")（全線）
   - [奈良線](../Page/奈良線.md "wikilink")：京都站－[木津站](https://zh.wikipedia.org/wiki/木津站_\(京都府\) "wikilink")（全線）
@@ -90,14 +90,14 @@
   - [博多南線](../Page/博多南線.md "wikilink")：[博多站](../Page/博多站.md "wikilink")－[博多南站](https://zh.wikipedia.org/wiki/博多南站 "wikilink")（全線）\[3\]
   - [日豐本線](../Page/日豐本線.md "wikilink")：[小倉站](../Page/小倉站_\(福岡縣\).md "wikilink")－
   - [日田彥山線](../Page/日田彥山線.md "wikilink")：－
-  - [筑豐本線](../Page/筑豐本線.md "wikilink")：－[原田站](https://zh.wikipedia.org/wiki/原田站_\(福岡縣\) "wikilink")（全線）
+  - [筑豐本線](../Page/筑豐本線.md "wikilink")：－[原田站](../Page/原田站_\(福岡縣\).md "wikilink")（全線）
   - [後藤寺線](../Page/後藤寺線.md "wikilink")：[新飯塚站](https://zh.wikipedia.org/wiki/新飯塚站 "wikilink")－（全線）
 
 ### 新潟近郊區間
 
 [新潟近郊区間.png](https://zh.wikipedia.org/wiki/File:新潟近郊区間.png "fig:新潟近郊区間.png") **新潟近郊區間**為JR東日本以下區間。不包括[上越新幹線](../Page/上越新幹線.md "wikilink")。
 
-  - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：－[新津站](https://zh.wikipedia.org/wiki/新津站 "wikilink")
+  - [磐越西線](https://zh.wikipedia.org/wiki/磐越西線 "wikilink")：－[新津站](../Page/新津站.md "wikilink")
   - [羽越本線](../Page/羽越本線.md "wikilink")：新津站－
   - [白新線](../Page/白新線.md "wikilink")：[新潟站](../Page/新潟站.md "wikilink")－（全線）
   - [信越本線](../Page/信越本線.md "wikilink")：[直江津站](../Page/直江津站.md "wikilink")－新潟站（新潟縣內全線）

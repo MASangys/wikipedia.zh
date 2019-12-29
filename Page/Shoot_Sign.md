@@ -162,26 +162,28 @@
 
 （中心成員：小嶋陽菜）
 
-  - Team A：[入山杏奈](../Page/入山杏奈.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")
-  - Team A / NMB48 Team M：[白間美瑠](../Page/白間美瑠.md "wikilink")
-  - Team A / HKT48 Team KIV：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
-  - Team K：[峯岸南](../Page/峯岸南.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
-  - Team K / HKT48 Team H：[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")
-  - Team B：[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")、[渡辺麻友](https://zh.wikipedia.org/wiki/渡辺麻友 "wikilink")
-  - Team B / NGT48 Team NIII：[柏木由紀](../Page/柏木由紀.md "wikilink")
-  - Team 4：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")、[川本紗矢](../Page/川本紗矢.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")
-  - Team 8：[小栗有以](../Page/小栗有以.md "wikilink")、大西桃香
-  - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")
-  - SKE48 Team E：[後藤樂樂](../Page/後藤樂樂.md "wikilink")、[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")
-  - NMB48 Team N：[市川美織](../Page/市川美織.md "wikilink")、山本彩加、[山本彩](../Page/山本彩.md "wikilink")
-  - NMB48 Team M：[吉田朱里](../Page/吉田朱里.md "wikilink")
-  - HKT48 Team H：[指原莉乃](../Page/指原莉乃.md "wikilink")
-  - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")
-  - NGT48 Team NIII：[北原里英](../Page/北原里英.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")
+  - Team A：★[入山杏奈](../Page/入山杏奈.md "wikilink")（11）、[大家志津香](../Page/大家志津香.md "wikilink")（4）、★[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")（46）、★[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")（25）
+  - Team K：[峯岸南](../Page/峯岸南.md "wikilink")（37）、★[向井地美音](../Page/向井地美音.md "wikilink")（7）、★[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")（6）
+  - Team B：★[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")（10）、★[木崎由里亞](../Page/木崎由里亞.md "wikilink")（11）、★[渡辺麻友](https://zh.wikipedia.org/wiki/渡辺麻友 "wikilink")（40）
+  - Team B / NGT48 Team NIII：★[柏木由紀](../Page/柏木由紀.md "wikilink")（38）
+  - Team 4：★[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")（6）、[川本紗矢](../Page/川本紗矢.md "wikilink")（5）、★[小嶋真子](../Page/小嶋真子.md "wikilink")（8）、[込山榛香](../Page/込山榛香.md "wikilink")（2）、★[高橋朱里](../Page/高橋朱里.md "wikilink")（8）
+  - Team 8：[小栗有以](../Page/小栗有以.md "wikilink")（2）、大西桃香（初）
+  - SKE48 Team S：★[松井珠理奈](../Page/松井珠理奈.md "wikilink")（35）
+  - SKE48 Team E：[後藤樂樂](../Page/後藤樂樂.md "wikilink")（2）、★[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")（8）
+  - NMB48 Team N：[市川美織](../Page/市川美織.md "wikilink")（3）、山本彩加（初）、★[山本彩](../Page/山本彩.md "wikilink")（22）
+  - NMB48 Team M：[吉田朱里](../Page/吉田朱里.md "wikilink")（初）
+  - NMB48 Team M / Team A ：★[白間美瑠](../Page/白間美瑠.md "wikilink")（3）
+  - HKT48 Team H：★[指原莉乃](../Page/指原莉乃.md "wikilink")（30）
+  - HKT48 Team H / Team K：★[兒玉遥](https://zh.wikipedia.org/wiki/兒玉遥 "wikilink")（9）
+  - HKT48 Team KIV / Team A：★[宮脇咲良](../Page/宮脇咲良.md "wikilink")（14）
+  - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")（2）
+  - NGT48 Team NIII：[北原里英](../Page/北原里英.md "wikilink")（27）、[中井莉加](../Page/中井莉加.md "wikilink")（2）
+
+前方有★的成员為媒体选拔組（通常盤封面成员），而括号内的数字则代表该名成员进入选拔名单的次数。
 
 ### 悄悄的…
 
-  - AKB48 Team A：[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")
+  - Team A：[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")
 
 ### Vacancy
 
@@ -189,8 +191,8 @@
 
 （中心成員：松井珠理奈）
 
-  - Team 4 / SKE48 Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")
   - SKE48 Team S：二村春香、松井珠理奈
+  - SKE48 Team S / Team 4：[北川綾巴](../Page/北川綾巴.md "wikilink")
   - SKE48 Team KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")
   - SKE48 Team E：[木本花音](../Page/木本花音.md "wikilink")、熊崎晴香、[後藤乐乐](https://zh.wikipedia.org/wiki/後藤乐乐 "wikilink")、斉藤真木子、菅原茉椰、[須田亜香里](https://zh.wikipedia.org/wiki/須田亜香里 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")
 
@@ -200,10 +202,10 @@
 
 （中心成員：白間美瑠）
 
-  - Team A / NMB48 Team M：[白間美瑠](../Page/白間美瑠.md "wikilink")
-  - Team 4 / NMB48 Team M：[渋谷凪咲](https://zh.wikipedia.org/wiki/渋谷凪咲 "wikilink")
   - NMB48 Team N：市川美織、[上西恵](https://zh.wikipedia.org/wiki/上西恵 "wikilink")、[須藤凜凜花](../Page/須藤凜凜花.md "wikilink")、[谷川愛梨](../Page/谷川愛梨.md "wikilink")、[薮下柊](../Page/薮下柊.md "wikilink")、山本彩加、山本彩
   - NMB48 Team M：[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")
+  - NMB48 Team M / Team A：[白間美瑠](../Page/白間美瑠.md "wikilink")
+  - NMB48 Team M / Team 4：[渋谷凪咲](https://zh.wikipedia.org/wiki/渋谷凪咲 "wikilink")
   - NMB48 Team BII：植村梓、[太田夢莉](../Page/太田夢莉.md "wikilink")、沖田彩華、[藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")、村瀬紗英、[矢倉楓子](../Page/矢倉楓子.md "wikilink")
 
 ### 轉不停的摩天輪
@@ -212,12 +214,12 @@
 
 （中心成員：兒玉遥、宮脇咲良）
 
-  - Team A / HKT48 Team KIV：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
-  - Team K / HKT48 Team H：兒玉遥
-  - Team B / HKT48 Team H：[矢吹奈子](../Page/矢吹奈子.md "wikilink")
-  - Team 4 / HKT48 Team KIV：[朝長美桜](https://zh.wikipedia.org/wiki/朝長美桜 "wikilink")
   - HKT48 Team H：井上由莉耶、[神志那結衣](../Page/神志那結衣.md "wikilink")、指原莉乃、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")
+  - HKT48 Team H / Team K：兒玉遥
+  - HKT48 Team H / Team B：[矢吹奈子](../Page/矢吹奈子.md "wikilink")
   - HKT48 Team KIV：[田中優香](https://zh.wikipedia.org/wiki/田中優香 "wikilink")、[淵上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")
+  - HKT48 Team KIV / Team A：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
+  - HKT48 Team KIV / Team 4：[朝長美桜](https://zh.wikipedia.org/wiki/朝長美桜 "wikilink")
   - HKT48 Team TII：栗原紗英、[松岡花](../Page/松岡花.md "wikilink")、山下艾米丽
   - HKT48研究生：武田智加
 
@@ -279,9 +281,9 @@
       - [Type A 初回限定盤](http://www.kingrecords.co.jp/cs/g/gKIZM-90473/)
       - [Type A 通常盤](http://www.kingrecords.co.jp/cs/g/gKIZM-473/)
       - [Type B 初回限定盤](http://www.kingrecords.co.jp/cs/g/gKIZM-90475/)
-      - [Type B 通常盤](http://www.kingrecords.co.jp/cs/g/gKIZM-475/)
+      - [Type B 通常盤](https://web.archive.org/web/20180115071601/http://www.kingrecords.co.jp/cs/g/gKIZM-475/)
       - [Type C 初回限定盤](http://www.kingrecords.co.jp/cs/g/gKIZM-90477/)
-      - [Type C 通常盤](http://www.kingrecords.co.jp/cs/g/gKIZM-477/)
+      - [Type C 通常盤](https://web.archive.org/web/20180115071633/http://www.kingrecords.co.jp/cs/g/gKIZM-477/)
       - [Type D 初回限定盤](http://www.kingrecords.co.jp/cs/g/gKIZM-90479/)
       - [Type D 通常盤](http://www.kingrecords.co.jp/cs/g/gKIZM-479/)
       - [Type E 初回限定盤](http://www.kingrecords.co.jp/cs/g/gKIZM-90481/)

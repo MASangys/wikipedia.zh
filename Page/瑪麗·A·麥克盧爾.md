@@ -16,14 +16,11 @@
 
 1.
 2.  Paula M. Nelson, 'Home and Family First: Women and Political Culture', in *The Plains Political Tradition: Essays on South Dakota Political Culture*, Jon K. Lauck (ed.), John E. Miller (ed.),  (ed.), [Pierre, South Dakota](https://zh.wikipedia.org/wiki/皮尔_\(南达科他州\) "wikilink"):  Press, 2011, p. 155
-
 3.  [The American Presidency Project](http://www.presidency.ucsb.edu/ws/index.php?pid=16891#axzz1tGTy7hCL)
-
 4.
 5.
 6.
 7.
-
 8.
 9.
 10.

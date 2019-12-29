@@ -12,7 +12,5 @@
 2.
 3.
 4.  ["NBA 2K11 – PlayStation 2"](http://www.metacritic.com/game/playstation-2/nba-2k11). *[Metacritic](../Page/Metacritic.md "wikilink")*. Retrieved October 9, 2016.
-
 5.  ["NBA 2K11 – PSP"](http://www.metacritic.com/game/psp/nba-2k11). *[Metacritic](../Page/Metacritic.md "wikilink")*. Retrieved October 9, 2016.
-
 6.  ["NBA 2K11 – Wii"](http://www.metacritic.com/game/wii/nba-2k11). *[Metacritic](../Page/Metacritic.md "wikilink")*. Retrieved October 9, 2016.

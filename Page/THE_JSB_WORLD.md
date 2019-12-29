@@ -29,10 +29,7 @@
 [Category:J_Soul_Brothers的音樂專輯](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers的音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:2017年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon專輯週榜冠軍作品 "wikilink") [Category:2017年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Oricon專輯月榜冠軍作品 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

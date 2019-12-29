@@ -608,14 +608,9 @@ iOS 11移除了对[32位元](../Page/32位元.md "wikilink")處理器的支援�
 [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.  [32位元掰掰　iOS11全面邁向64位元時代](http://www.nownews.com/n/2017/06/07/2552474)
-
 7.  [功能变中文名！苹果iOS11.2测试版更加本土化 - 苹果,iOS11.2 - IT之家](https://www.ithome.com/html/iphone/332305.htm)

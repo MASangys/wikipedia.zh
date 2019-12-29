@@ -1,4 +1,4 @@
-**《NS-SHAFT》**，[中国大陆](../Page/中国大陆.md "wikilink")俗称“**是男人就下100层**”，[香港](../Page/香港.md "wikilink")一般称作“**小朋友落樓梯**”，台湾称“**小朋友下楼梯**”，是20世纪90年代由[日本](../Page/日本.md "wikilink")公司开发的一款[平台类型](../Page/平台游戏.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，原作为[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")\[1\]\[2\]。
+**《NS-SHAFT》**，[中国大陆](../Page/中国大陆.md "wikilink")俗称“**是男人就下100层**”，[香港](../Page/香港.md "wikilink")一般称作“**小朋友落樓梯**”，台湾称“**小朋友下楼梯**”，是1996年由[日本](../Page/日本.md "wikilink")公司开发的一款[平台类型](../Page/平台游戏.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，原作为[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")\[1\]\[2\]。
 
 ## 概况
 
@@ -11,10 +11,8 @@
 ## 外部链接
 
   -
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink") [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink")
+[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:平台游戏](https://zh.wikipedia.org/wiki/Category:平台游戏 "wikilink") [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
 
 1.
-
 2.
-
 3.

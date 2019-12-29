@@ -11,6 +11,5 @@
 ## 參考文獻
 
 1.  Johnson, Nelson. *Boardwalk Empire*, Medford, N.J., Plexus Publishing, 2002 ISBN 0-937548-49-9
-
 2.
 3.

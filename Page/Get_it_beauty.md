@@ -73,8 +73,8 @@
 </tr>
 <tr class="even">
 <td><p>妍斗孔</p></td>
-<td><p>《新品任堂》</p></td>
 <td><p>EP01-EP24</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1150,72 +1150,96 @@ K-面膜輔助使用法<br />
 <td><p>29</p></td>
 <td><p>10月4日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《新品任堂》<br />
+《Lara Review》</p></td>
+<td><p>我不是你認識的我 剛更新新品<br />
+體貼的SPA生活</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
 <td><p>10月11日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平伽伐尼電流&amp;按摩儀<br />
+秋日EARTHY區EARTHY造型</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>10月18日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平陰影眼影<br />
+2019立體感和觸感</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
 <td><p>10月25日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平腮紅<br />
+快來～在韓國第一次見到吧？</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
 <td><p>11月1日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柳善皓" title="wikilink">柳善皓</a></p></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>美生平TEEN<br />
+供食仁堂第一期上學篇</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>34</p></td>
 <td><p>11月8日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柳善皓" title="wikilink">柳善皓</a></p></td>
+<td><p>《美生平》<br />
+《Get It Box》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平皮膚調節爽膚水<br />
+用化妝克服嘴唇太薄的方法<br />
+供食仁堂第二期週末篇</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>35</p></td>
 <td><p>11月15日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平沖洗面膜<br />
+護理頭髮<br />
+Top Star新品Patch</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>36</p></td>
 <td><p>11月22日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《美生平》<br />
+《Lara Review》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平潔面紙巾<br />
+心動，皮膚營養劑<br />
+晚安 ~ Good Night單品</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>11月29日</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>《美生平》<br />
+《新品任堂》</p></td>
+<td><p>選出美生平卸妝油<br />
+我身體的你 feat. Bianca</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -401,9 +401,9 @@
 <td></td>
 <td><p>不懷好意的花香</p></td>
 <td><p>八田洋介</p></td>
-<td><p>八田洋介</p></td>
 <td><p>長坂慶太</p></td>
 <td><p>-</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -411,9 +411,9 @@
 <td></td>
 <td><p>鳥的行踪</p></td>
 <td><p>夏目真悟</p></td>
-<td><p>夏目真悟</p></td>
 <td><p>久貝典史、小田剛生</p></td>
 <td><p>-</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -438,27 +438,16 @@
 [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:2017年UHF動畫](https://zh.wikipedia.org/wiki/Category:2017年UHF動畫 "wikilink") [Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.

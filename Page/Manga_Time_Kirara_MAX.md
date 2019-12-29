@@ -123,27 +123,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td><p>2017年7-8月号</p></td>
-<td><p>2017年11月号</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>食物语</p></td>
 <td></td>
 <td><p>電柱棒</p></td>
 <td><p>2017年9-11月号</p></td>
 <td><p>2018年1月号</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td><p>2017年11月号-2018年1月号</p></td>
-<td><p>2018年3月号</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -163,7 +147,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>班长的愿望</p></td>
 <td></td>
 <td><p>户田大贵</p></td>
 <td><p>2018年8-9月号</p></td>
@@ -171,7 +155,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>初恋＊Rail Trip</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td><p>2018年8-9月号</p></td>
@@ -187,7 +171,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p>社畜小姐和离家出走少女</p></td>
 <td></td>
 <td></td>
 <td><p>2018年9-11月号</p></td>
@@ -195,22 +179,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td><p>春雨</p></td>
-<td></td>
-<td><p>2019年1月号</p></td>
-<td><p>宽幅四格</p></td>
-</tr>
-<tr class="even">
-<td></td>
+<td><p>旅海绘坊</p></td>
 <td></td>
 <td><p>森永</p></td>
 <td><p>2018年11月号-2019年1月号</p></td>
 <td><p>2019年3月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>宇崎</p></td>
@@ -218,21 +194,37 @@
 <td><p>2019年6月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>艾恩与由香里</p></td>
+<tr class="odd">
+<td><p>缘与由香里</p></td>
 <td></td>
 <td></td>
 <td><p>2019年1-3月号</p></td>
 <td><p>2019年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td><p>2019年5-6月号</p></td>
 <td><p>2019年9月号</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>生命短暂 行善吧少女</p></td>
+<td></td>
+<td><p>土管</p></td>
+<td><p>2019年8-10月号</p></td>
+<td><p>2019年12月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>六条小姐是灵魂画宅</p></td>
+<td></td>
+<td></td>
+<td><p>2019年9-10月号</p></td>
+<td><p>2020年2月号</p></td>
+<td><p>&lt;!--|-</p></td>
 </tr>
 </tbody>
 </table>
@@ -260,20 +252,38 @@
 <tbody>
 <tr class="odd">
 <td></td>
+<td><p>Healing Spell.</p></td>
 <td></td>
-<td><p><a href="../Page/山本启治.md" title="wikilink">超肉</a></p></td>
-<td><p>rowspan=2 </p></td>
+<td><p>rowspan=4 </p></td>
 <td><p>Vol. 1</p></td>
-<td><p>2006年2月号</p></td>
+<td><p>2005年5月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p><a href="../Page/山本启治.md" title="wikilink">超肉</a></p></td>
+<td><p>2006年2月号</p></td>
+<td><p>未出版单行本</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td><p>2007年6月号</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>龟井树里</p></td>
+<td><p>2004年11月号</p></td>
+<td><p>2005年3月号</p></td>
+<td><p>未出版单行本</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -359,9 +369,28 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>rowspan=20 </p></td>
+<td><p>rowspan=26 </p></td>
 <td><p>Vol. 1</p></td>
+<td><p>2005年7月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td><p>2009年6月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2004年12月号</p></td>
+<td><p>主要连载于姐妹杂志<br />
+未出版单行本</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -428,6 +457,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td><p>樱太助</p></td>
+<td><p>2004年12月号</p></td>
+<td><p>与姐妹杂志同时连载<br />
+未出版单行本</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/親親小魔女！_(寺本薰)" title="wikilink">親親小魔女！</a></p></td>
 <td></td>
 <td></td>
@@ -436,7 +475,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/狐魅家族日记簿" title="wikilink">狐魅家族日记簿</a></p></td>
 <td></td>
 <td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
@@ -445,12 +484,21 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/○本的住人.md" title="wikilink">○书的居民</a></p></td>
 <td></td>
 <td></td>
 <td><p>2004年11月号</p></td>
 <td><p>2015年12月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>犬神</p></td>
+<td><p>2005年10月号</p></td>
+<td><p>未出版单行本</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -512,12 +560,21 @@
 <td></td>
 <td></td>
 <td></td>
+<td><p>2005年7月号</p></td>
+<td><p>未出版单行本</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 <td><p>2007年7月号</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Glee Green Island</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/东由希" title="wikilink">东由希</a></p></td>
@@ -526,12 +583,21 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
 <td><p>2009年5月号</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>仙銀神酒</p></td>
+<td><p>2005年10月号</p></td>
+<td><p>未出版单行本</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1536,10 +1602,37 @@
 <td></td>
 <td></td>
 <td></td>
+<td><p>2017年7-8月号</p></td>
+<td><p>2017年11月号</p></td>
+<td><p>2019年12月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2017年11月号-2018年1月号</p></td>
+<td><p>2018年3月号</p></td>
+<td><p>2020年1月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
 <td><p>2018年4-6月号</p></td>
 <td><p>2018年7月号</p></td>
 <td><p>2018年8月号</p></td>
 <td><p>因故终止</p></td>
+</tr>
+<tr class="even">
+<td><p>欢迎光临魔王城</p></td>
+<td></td>
+<td><p>春雨</p></td>
+<td></td>
+<td><p>2019年1月号</p></td>
+<td><p>2020年1月号</p></td>
+<td><p>宽幅四格</p></td>
 </tr>
 </tbody>
 </table>

@@ -51,17 +51,10 @@ Superfly的出道專輯，收錄單曲《[Hello Hello](https://zh.wikipedia.org/
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:Superfly音樂專輯](https://zh.wikipedia.org/wiki/Category:Superfly音樂專輯 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.

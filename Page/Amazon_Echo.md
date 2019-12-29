@@ -9,6 +9,5 @@ Echo于2014年11月6日在[亚马逊官网上线](https://zh.wikipedia.org/wiki/
 [Category:亞馬遜公司](https://zh.wikipedia.org/wiki/Category:亞馬遜公司 "wikilink") [Category:智能音箱](https://zh.wikipedia.org/wiki/Category:智能音箱 "wikilink") [Category:2014年面世的產品](https://zh.wikipedia.org/wiki/Category:2014年面世的產品 "wikilink")
 
 1.
-
 2.
 3.

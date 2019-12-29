@@ -70,7 +70,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 
   - [高畑充希](../Page/高畑充希.md "wikilink")：演員、本年NHK[晨間劇](../Page/連續電視小說.md "wikilink")《[當家姐姐](https://zh.wikipedia.org/wiki/當家姐姐 "wikilink")》飾演主角・小橋常子。
 
-  - ：女子[田徑選手](https://zh.wikipedia.org/wiki/田徑 "wikilink")，於當年[夏季帕拉林匹克運動會女子田徑](https://zh.wikipedia.org/wiki/2016年夏季帕拉林匹克運動會 "wikilink")400公尺競賽獲得銅牌。
+  - ：女子[田徑選手](https://zh.wikipedia.org/wiki/田徑 "wikilink")，於當年[夏季帕拉林匹克運動會女子田徑](../Page/2016年夏季帕拉林匹克運動會.md "wikilink")400公尺競賽獲得銅牌。
 
   - [萩野公介](../Page/萩野公介.md "wikilink")：[游泳](../Page/游泳.md "wikilink")選手，於當年[夏季奧林匹克運動會男子混合](../Page/2016年夏季奧林匹克運動會.md "wikilink")400公尺競賽獲得金牌。
 

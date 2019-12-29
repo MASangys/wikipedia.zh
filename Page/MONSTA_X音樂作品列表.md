@@ -209,6 +209,16 @@ Heat</a><br />
 <td><p>23</p></td>
 </tr>
 <tr class="even">
+<td><p>Follow-Find you</p></td>
+<td><ul>
+<li>發行日期：2019年10月28日</li>
+<li>廠牌：STARSHIP娛樂、LOEN娛樂</li>
+<li>格式：CD、數位音樂下載</li>
+</ul></td>
+<td><p>2</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>

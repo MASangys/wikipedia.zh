@@ -33,25 +33,15 @@ Ilaksh的文字系統被重新設計。\[11\]\[12\]它有兩種形式：一種�
 [分類:人工語言](https://zh.wikipedia.org/wiki/分類:人工語言 "wikilink") [分類:語言](https://zh.wikipedia.org/wiki/分類:語言 "wikilink")
 
 1.  Joshua Foer, ["John Quijada and Ithkuil, the Language He Invented"](http://www.newyorker.com/reporting/2012/12/24/121224fa_fact_foer), *[The New Yorker](https://zh.wikipedia.org/wiki/The_New_Yorker "wikilink")*, Dec. 24, 2012.
-
 2.  [*A Philosophical Design for a Hypothetical Language*](http://www.ithkuil.net/00_intro.html)
-
 3.  [Ithkuil FAQs](http://ithkuil.net/faqs.html)
-
 4.  [*A Philosophical Design for a Hypothetical Language*](http://www.ithkuil.net/00_intro.html)
-
 5.  [Ithkuil Intro](http://ithkuil.net/00_intro.html)
-
 6.  (Russian) [«Скорость мысли», Станислав Козловский](http://old.computerra.ru/xterra/205420/)  – *Speed of thought* by Stanislav Kozlovsky, *Computerra*, №26–27, June 20, 2004
-
 7.  [Ithkuil and its philosophical design](http://library.conlang.org/articles/ithkuil_Komputerra_17.pdf) (Russian) by Mikhail Gertelman, Kompyuterra (17(781)2009 p 12)
-
 8.  [The 2008 Smiley Award Winner: Ithkuil](http://dedalvs.com/smileys/2008.html)
-
 9.
 10.
 11. [Ilaksh script diagram (indicates what the various parts of an Ilaksh logogram indicate) (no longer available on site, link shows archive.org's cache)](https://web.archive.org/web/20110605210044/http://ithkuil.net/ilaksh/images/script_diagram.gif)
-
 12. [Ilaksh formal / ornamental script example, an updated version of the older script diagram](http://ithkuil.net/11_script.htm#Sec11o6)
-
 13. [Ilaksh Chapter 11: The Writing System](http://www.ithkuil.net/11_script.htm)

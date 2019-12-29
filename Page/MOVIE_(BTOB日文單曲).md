@@ -34,9 +34,9 @@
 
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
-1.  [日本6thシングル『MOVIE - JPN ver. -』キッスエンタ.jpオンライン予約販売決定！！](https://btobofficial.jp/contents/89493) 2017-03-31 BTOB JAPAN OFFICIAL
+1.  [日本6thシングル『MOVIE - JPN ver. -』キッスエンタ.jpオンライン予約販売決定！！](https://btobofficial.jp/contents/89493)  2017-03-31 BTOB JAPAN OFFICIAL
 2.  [20170503 RELEASE BTOB 日本6thシングル「MOVIE - JPN ver.-」 <公開スケジュール発表>](https://twitter.com/BTOB_JPN/status/852476483612295169) BTOB_Melody JAPAN Twitter
-3.  [BTOB 日本6thシングル『MOVIE - JPN ver. -』発売決定！](https://btobofficial.jp/contents/92857) 2017-04-19 BTOB JAPAN OFFICIAL
+3.  [BTOB 日本6thシングル『MOVIE - JPN ver. -』発売決定！](https://btobofficial.jp/contents/92857)  2017-04-19 BTOB JAPAN OFFICIAL
 4.
 5.
 6.

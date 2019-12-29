@@ -47,42 +47,31 @@
 4.
 5.
 6.
-
 7.
 8.  [English 2005](https://zh.wikipedia.org/wiki/#English "wikilink"), p. 101
-
 9.
-
 10.
 11.
-
 12.
-
 13.
 14.
 15.
 16.
 17.
-
 18.
 19.
 20.
 21.
 22.
 23. [Crouse 2005](https://zh.wikipedia.org/wiki/#Crouse "wikilink"), p. 208
-
 24.
 25. [Dawson 2006](https://zh.wikipedia.org/wiki/#Dawson "wikilink"), pp. 48–50
-
 26.
-
 27. [Crouse 2005](https://zh.wikipedia.org/wiki/#Crouse "wikilink"), p. 103
-
 28.
 29.
 30.
 31.
 32.
-
 33.
 34.

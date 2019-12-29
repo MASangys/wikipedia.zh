@@ -372,7 +372,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
 <!-- end list -->
 
-  - ：往[京都站](https://zh.wikipedia.org/wiki/京都站 "wikilink")、[大阪站](https://zh.wikipedia.org/wiki/大阪站 "wikilink")、方向（JR巴士關東、西日本JR巴士）
+  - ：往[京都站](../Page/京都站.md "wikilink")、[大阪站](https://zh.wikipedia.org/wiki/大阪站 "wikilink")、方向（JR巴士關東、西日本JR巴士）
 
   - ：往京都、[奈良](https://zh.wikipedia.org/wiki/奈良站 "wikilink")、大阪、難波、[神戶三宮方向](https://zh.wikipedia.org/wiki/三宮車站 "wikilink")（JR巴士關東、西日本JR巴士）
 
@@ -394,7 +394,7 @@ A區與B區之間的轉角（東南角）是服務台與投幣式置物櫃，與
 
   - CASUAL TWINKLE號：往大阪（[東梅田](https://zh.wikipedia.org/wiki/梅田站_\(大阪市營地下鐵\) "wikilink")、[阿倍野橋](../Page/大阪阿部野橋站.md "wikilink")）（近鐵巴士）
 
-  - ：往[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")・[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")、、[枚方](../Page/枚方市站.md "wikilink")（關東巴士、）
+  - ：往[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")・[京都](../Page/京都站.md "wikilink")、、[枚方](../Page/枚方市站.md "wikilink")（關東巴士、）
 
   - ：往、[奈良](https://zh.wikipedia.org/wiki/近鐵奈良站 "wikilink")，往[天理](../Page/天理市.md "wikilink")、、、（關東巴士、）
 

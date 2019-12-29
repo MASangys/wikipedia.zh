@@ -49,8 +49,22 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>第11屆</p></td>
+<td><p>2019年</p></td>
+<td><p><strong>年度歌曲獎</strong></p></td>
+<td><p>《MILLIONS》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>網友人氣獎</p></td>
+<td><p>WINNER</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>男子舞蹈獎</p></td>
+<td><p>《MILLIONS》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,6 +203,20 @@
 <tr class="even">
 <td><p>Qoo10 年度歌曲</p></td>
 <td><p>《Really Really》</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第21屆</p></td>
+<td><p>2019年</p></td>
+<td><p>最佳歌唱表演獎（團體）</p></td>
+<td><p>WINNER</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -585,34 +613,19 @@
 [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink") [Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink")
 
 1.  [MelOn Music Awards\#2014](../Page/甜瓜音樂獎.md "wikilink")
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.

@@ -17,16 +17,10 @@ Promethean在英国[兰开夏郡](https://zh.wikipedia.org/wiki/兰开夏郡 "wi
 [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:显示科技公司](https://zh.wikipedia.org/wiki/Category:显示科技公司 "wikilink")
 
 1.  [Supergroup and Promethean World in £400m listings bonanza](http://www.dailymail.co.uk/money/article-1257554/Supergroup-Promethean-World-400m-listings-bonanza.html) Daily Mail, 12 March 2010
-
 2.  [Promethean World Said to Offer 224 Million-Pound IPO](http://www.businessweek.com/news/2010-03-01/promethean-world-said-to-offer-224-million-pound-ipo-update1-.html) Bloomberg, 1 March 2010
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.

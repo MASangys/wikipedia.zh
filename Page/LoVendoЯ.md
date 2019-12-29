@@ -365,7 +365,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp</a> Sapporo</p></td>
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp</a> Sapporo</p></td>
 <td></td>
 <td></td>
 </tr>

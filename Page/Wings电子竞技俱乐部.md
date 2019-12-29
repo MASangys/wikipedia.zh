@@ -66,25 +66,15 @@
 [Category:2014年建立的體育俱樂部](https://zh.wikipedia.org/wiki/Category:2014年建立的體育俱樂部 "wikilink") [Category:Dota_2竞技团队](https://zh.wikipedia.org/wiki/Category:Dota_2竞技团队 "wikilink") [Category:中国大陆电子竞技团队](https://zh.wikipedia.org/wiki/Category:中国大陆电子竞技团队 "wikilink") [Category:重庆体育](https://zh.wikipedia.org/wiki/Category:重庆体育 "wikilink")
 
 1.  [Teenage captain leads esports team to $9.1 million prize](http://www.espn.com/esports/story/_/id/17296935/teenage-captain-leads-esports-team-91-million-prize).ESPN.2016-08-15.\[2017-03-22\].
-
 2.  [DOTA2 Wings队员离队事件 四名队员齐发声](http://games.sina.com.cn/g/f/2017-04-24/fyepsec0621194.shtml).新浪游戏.2017-04-24.\[2017-05-08\].
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.  \<name=mnw\>
-
 10.
-
 11.
-
 12. [技不如人甘拜下风 Wings落选中国劳伦斯奖](http://gg.163.com/16/1215/21/C8C09B2P00314QVB.html).网易游戏.2016-12-15.\[2017-03-22\].
-
 13. [The Game Awards 2016 Nominees](http://thegameawards.com/nominees/) .The Game Awards.\[2017-03-22\].

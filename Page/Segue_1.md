@@ -22,20 +22,16 @@ Segue 1位於和太陽有著相同距離的[人馬座星流](../Page/人馬座�
 1.
 2.
 3.
-
 4.
 5.
 6.
 7.
 8.
 9.
-
 10.
 11.
-
 12.
 13.
-
 14.
 15.
 16.
@@ -44,24 +40,15 @@ Segue 1位於和太陽有著相同距離的[人馬座星流](../Page/人馬座�
 19.
 20.
 21.
-
 22.
 23.
 24.
-
 25.
-
 26. [news.nationalgeographic.com 2014-05-1 Fossil Galaxy](http://news.nationalgeographic.com/news/2014/05/140510-fossil-galaxy-astronomy-science-space-stars/)
-
 27. [The Astrophysical Journal 2014-04-16 Segue 1: An Unevolved Fossil Galaxy from the Early Universe](http://iopscience.iop.org/0004-637X/786/1/74/article?fromSearchPage=true)
-
 28. <http://arxiv.org/pdf/1403.6116v1.pdf>
-
 29. [Cornell University 2014-03-24 Segue 1: An Unevolved Fossil Galaxy from the Early Universe](http://arxiv.org/abs/1403.6116)
-
 30.
 31.
-
 32.
-
 33.

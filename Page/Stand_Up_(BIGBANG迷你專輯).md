@@ -17,13 +17,8 @@
 [Category:BIGBANG音樂專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG音樂專輯 "wikilink") [Category:2008年迷你專輯](https://zh.wikipedia.org/wiki/Category:2008年迷你專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

@@ -2,7 +2,7 @@
 
 俄罗斯技术集团Rostec包括由700家企业组成的14家控股公司：11家[国防工业领域的控股公司](https://zh.wikipedia.org/wiki/国防工业 "wikilink")，3家民用领域的控股公司。\[1\]其所屬企业遍布在俄罗斯60个联邦主体，向世界70多个国家出口产品。\[2\]
 
-俄羅斯技术集团Rostec于2007年作为俄罗斯特有的 “国有集团” 营业单位类型创立。[俄罗斯政府注入资金建立俄国家技术集团](https://zh.wikipedia.org/wiki/俄罗斯政府 "wikilink")。总经理为。\[3\]总部设在[莫斯科](../Page/莫斯科.md "wikilink")。\[4\]
+俄羅斯技术集团Rostec于2007年作为俄罗斯特有的 “国有集团” 营业单位类型创立。[俄罗斯政府注入资金建立俄国家技术集团](https://zh.wikipedia.org/wiki/俄罗斯政府 "wikilink")。总经理为[谢尔盖·切梅佐夫](../Page/谢尔盖·切梅佐夫.md "wikilink")。\[3\]总部设在[莫斯科](../Page/莫斯科.md "wikilink")。\[4\]
 
 ## 历史
 
@@ -18,7 +18,7 @@
   - 俄罗斯总统助理兼总统管理局国家法律厅厅长[拉丽莎·布理切娃](https://zh.wikipedia.org/wiki/拉丽莎·布理切娃 "wikilink")（Larisa Brycheva）；
   - 俄罗斯总统助理[伊格尔·列维金](https://zh.wikipedia.org/wiki/伊格尔·列维金 "wikilink")（Igor Levitin）；
   - [俄罗斯联邦财政部部长](https://zh.wikipedia.org/wiki/俄罗斯联邦财政部 "wikilink")[安頓·謝魯阿諾夫](https://zh.wikipedia.org/wiki/安頓·謝魯阿諾夫 "wikilink")；
-  - [俄罗斯总统办公厅副厅长](https://zh.wikipedia.org/wiki/俄罗斯总统办公厅 "wikilink")[弗拉基米尔·奥斯特罗温科](https://zh.wikipedia.org/wiki/弗拉基米尔·奥斯特罗温科 "wikilink")（Vladimir Ostrovenko）；
+  - [俄罗斯总统办公厅](../Page/俄罗斯总统办公厅.md "wikilink")副厅长[弗拉基米尔·奥斯特罗温科](https://zh.wikipedia.org/wiki/弗拉基米尔·奥斯特罗温科 "wikilink")（Vladimir Ostrovenko）；
   - 俄罗斯总统助理[尤里·乌沙科夫](https://zh.wikipedia.org/wiki/尤里·乌沙科夫 "wikilink")（Yury Ushakov）；
   - 俄罗斯联邦国防部副部长[亚历山大·福明](https://zh.wikipedia.org/wiki/亚历山大·福明 "wikilink")（Alexander Fomin）。 
 
@@ -237,7 +237,7 @@ RT-业务发展有限责任公司负责落实Rostec战略，以便提高商业�
   - [IT和](https://zh.wikipedia.org/wiki/IT "wikilink")[通讯](https://zh.wikipedia.org/wiki/通讯 "wikilink")
   - [医疗设备](https://zh.wikipedia.org/wiki/医疗 "wikilink") 
   - [复合材料](../Page/复合材料.md "wikilink") 
-  - [生物技术](https://zh.wikipedia.org/wiki/生产 "wikilink") 
+  - [生物技术](../Page/生产.md "wikilink") 
   - [汽车](../Page/汽车.md "wikilink")和[工程机械制造](https://zh.wikipedia.org/wiki/工程机械 "wikilink")\[20\]
 
 根据关于俄罗斯国家技术集团Rostechnologii联邦法律，集团的宗旨是在国内外市场上支持俄罗斯高科技工业产品研发制造企业，吸引向不同[工业部门企业](https://zh.wikipedia.org/wiki/工业 "wikilink")，包括[国防工业复合体企业](https://zh.wikipedia.org/wiki/国防工业 "wikilink")，特别是Rostechnologii由于持有多数股权而能够影响决定过程企业的投资，以便促进[高科技工业产品的](https://zh.wikipedia.org/wiki/高科技 "wikilink")[研发](https://zh.wikipedia.org/wiki/研发 "wikilink")、[制造和](https://zh.wikipedia.org/wiki/制造 "wikilink")[出口](https://zh.wikipedia.org/wiki/出口 "wikilink")。\[21\]
@@ -351,72 +351,41 @@ Rostec是“未来工程师”国际工业论坛的协办单位。该论坛是�
 [Category:俄羅斯國有公司](https://zh.wikipedia.org/wiki/Category:俄羅斯國有公司 "wikilink") [Category:主权财富基金](https://zh.wikipedia.org/wiki/Category:主权财富基金 "wikilink") [Category:俄羅斯控股公司](https://zh.wikipedia.org/wiki/Category:俄羅斯控股公司 "wikilink")
 
 1.
-
 2.   4-Traders|last=4-traders|accessdate=2017-03-27}}
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.  Оборонпром|accessdate=2017-03-27|work=www.oboronprom.ru|deadurl=yes|archiveurl=[https://web.archive.org/web/20170316205244/http://www.oboronprom.ru/business/pvo|archivedate=2017-03-16](https://web.archive.org/web/20170316205244/http://www.oboronprom.ru/business/pvo%7Carchivedate=2017-03-16)}}
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
 27.
 28.
 29.
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.

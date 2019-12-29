@@ -89,7 +89,7 @@
                                     [酢浆草目](../Page/酢浆草目.md "wikilink") Oxalidales
                                     [金虎尾目](../Page/金虎尾目.md "wikilink") Malpighiales
 
-                            [锦葵类植物](https://zh.wikipedia.org/wiki/锦葵类植物 "wikilink") malvids
+                            [锦葵类植物](../Page/锦葵类植物.md "wikilink") malvids
 
                               -
 

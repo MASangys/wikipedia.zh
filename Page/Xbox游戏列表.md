@@ -6928,7 +6928,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Robin_Hood:_Defender_of_the_Crown" title="wikilink">Robin Hood: Defender of the Crown</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Cinemaware" title="wikilink">Cinemaware</a></p></td>
+<td><p><a href="../Page/Cinemaware.md" title="wikilink">Cinemaware</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ZOO_Digital_Group" title="wikilink">ZOO Digital Group</a>, <a href="https://zh.wikipedia.org/wiki/Capcom" title="wikilink">Capcom</a></p></td>
 <td></td>
 <td></td>

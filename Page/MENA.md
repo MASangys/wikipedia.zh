@@ -78,20 +78,12 @@ MENA一词在英文中主要用于学术、军事、灾难救援以及商务写�
 [Category:中东](https://zh.wikipedia.org/wiki/Category:中东 "wikilink") [Category:北非](https://zh.wikipedia.org/wiki/Category:北非 "wikilink") [Category:字首縮寫](https://zh.wikipedia.org/wiki/Category:字首縮寫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  Dumper, Michael, and Stanley, Bruce E., *Cities of the Middle East and North Africa: A Historical Encyclopaedia*, 2007
-
 7.
-
 8.
-
 9.
-
 10.

@@ -12,7 +12,7 @@
 
 ### LLTD
 
-链路层拓扑发现（LLTD）协议使应用程序能设备和确定[网络拓扑](https://zh.wikipedia.org/wiki/网络拓扑 "wikilink")。在[Windows Vista中](../Page/Windows_Vista.md "wikilink")，它可以在网络地图上实现网络中所有设备的图形化视图。Windows XP计算机若想出现在网络地图上，则必须下载并安装[LLTD Responder](https://web.archive.org/web/20100801233602/http://www.microsoft.com/downloads/details.aspx?FamilyId=4F01A31D-EE46-481E-BA11-37F485FA34EA&displaylang=en)。提供音频或视频播放或带宽敏感的设备可以实现协议*[QoS扩展](../Page/服务质量.md "wikilink")*，使它们优先接收流，并在可用带宽变少时播放体验受到更少影响。
+链路层拓扑发现（LLTD）协议使应用程序能[发现设备和确定](../Page/服务发现.md "wikilink")[网络拓扑](https://zh.wikipedia.org/wiki/网络拓扑 "wikilink")。在[Windows Vista中](../Page/Windows_Vista.md "wikilink")，它可以在网络地图上实现网络中所有设备的图形化视图。Windows XP计算机若想出现在网络地图上，则必须下载并安装[LLTD Responder](https://web.archive.org/web/20100801233602/http://www.microsoft.com/downloads/details.aspx?FamilyId=4F01A31D-EE46-481E-BA11-37F485FA34EA&displaylang=en)。提供音频或视频播放或带宽敏感的设备可以实现协议*[QoS扩展](../Page/服务质量.md "wikilink")*，使它们优先接收流，并在可用带宽变少时播放体验受到更少影响。
 
 ### qWAVE
 

@@ -158,14 +158,9 @@
 [Category:紐西蘭演員](https://zh.wikipedia.org/wiki/Category:紐西蘭演員 "wikilink") [Category:新西兰电影演员](https://zh.wikipedia.org/wiki/Category:新西兰电影演员 "wikilink") [Category:紐西蘭電視演員](https://zh.wikipedia.org/wiki/Category:紐西蘭電視演員 "wikilink") [Category:新西蘭薩摩亞人後裔](https://zh.wikipedia.org/wiki/Category:新西蘭薩摩亞人後裔 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

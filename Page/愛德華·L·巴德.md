@@ -42,7 +42,7 @@
 
 ## 流行文化
 
-[HBO](../Page/HBO.md "wikilink")電視劇《[酒私風雲](../Page/酒私風雲.md "wikilink")》中，由演員Kevin O'Rourke飾演巴德。
+[HBO](../Page/HBO.md "wikilink")電視劇《[酒私風雲](../Page/酒私風雲.md "wikilink")》中，由演員[凱文·奧羅克](../Page/凱文·奧羅克.md "wikilink")飾演巴德。
 
 ## 參見
 
@@ -54,7 +54,6 @@
 [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:费城政治家](https://zh.wikipedia.org/wiki/Category:费城政治家 "wikilink") [Category:新澤西州共和黨黨員](https://zh.wikipedia.org/wiki/Category:新澤西州共和黨黨員 "wikilink") [Category:宾夕法尼亚大学沃顿商学院校友](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚大学沃顿商学院校友 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -62,12 +61,10 @@
 6.
 7.
 8.
-
 9.
 10.
 11.
 12.
 13.
 14.
-
 15.

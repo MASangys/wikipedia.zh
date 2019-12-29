@@ -1741,68 +1741,41 @@
 3.
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.  2004年10月3日因九Production的創立人及執行社長[平林尚三](../Page/平林尚三.md "wikilink")病逝，同年10月31日解散。
-
 10. 掛尾良夫編「聲優事典 男性篇：田原Aruno」《聲優事典 第二版》，第185頁，[Kinema旬報社](../Page/電影旬報.md "wikilink")，1996年3月30日 ISBN 4-87376-160-3
-
 11.
 12.
 13.
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. [PC Engine版](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")。
-
 24. [PS版](../Page/PlayStation.md "wikilink")。
-
 25. [Sega Saturn版](../Page/世嘉土星.md "wikilink")。
-
 26. [GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PS2版](../Page/PlayStation_2.md "wikilink")。
-
 27.
 28.
-
 29. 客串出演。
-
 30. 後來發行DVD新錄製版。
-
 31. 後來以DVD的方式收錄發行。
-
 32.
 33. 後來以BD的方式收錄發行。
-
 34. 紀錄片，負責時任總統[喬治·W·布希的日語配音](https://zh.wikipedia.org/wiki/喬治·W·布希 "wikilink")。
-
 35. 客串出演。
-
 36. 後來以Blu-ray珍藏版的方式收錄發行。
-
 37. 從[TBS播出版錄製](../Page/TBS電視台.md "wikilink")。
-
 38.
 39.
-
 40.
 41.
 42. 完全版追加錄音部分。
-
 43. [WOWOW](../Page/WOWOW.md "wikilink")播出版。

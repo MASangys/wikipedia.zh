@@ -406,7 +406,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/星球大戰前傳III：黑帝君臨" title="wikilink">星球大戰前傳III：黑帝君臨</a></strong></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/托賓·貝爾.md" title="wikilink">托賓·貝爾</a></p></td>
 <td><p><a href="../Page/恐懼鬥室2.md" title="wikilink">恐懼鬥室2</a></p></td>
 <td></td>
 </tr>
@@ -432,7 +432,7 @@
 <td><p><strong><a href="../Page/無間道風雲.md" title="wikilink">無間道風雲</a></strong></p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/托賓·貝爾.md" title="wikilink">托賓·貝爾</a></p></td>
 <td><p><a href="../Page/恐懼鬥室3.md" title="wikilink">恐懼鬥室3</a></p></td>
 <td></td>
 </tr>
@@ -772,7 +772,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朱迪·科默.md" title="wikilink">朱迪·科默</a></p></td>
-<td><p><a href="../Page/殺死伊芙.md" title="wikilink">殺死伊芙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杀死伊芙" title="wikilink">杀死伊芙</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

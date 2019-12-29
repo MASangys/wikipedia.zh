@@ -6,20 +6,14 @@ XMEN病人一般會具有慢性的EB病毒感染，CD4+淋巴球減少、[B淋�
 
 ## 参考资料
 
-[Category:罕見疾病](https://zh.wikipedia.org/wiki/Category:罕見疾病 "wikilink") [Category:免疫系统失调](https://zh.wikipedia.org/wiki/Category:免疫系统失调 "wikilink") [Category:遺傳疾病](https://zh.wikipedia.org/wiki/Category:遺傳疾病 "wikilink") [Category:X染色體](https://zh.wikipedia.org/wiki/Category:X染色體 "wikilink")
+[Category:罕見疾病](https://zh.wikipedia.org/wiki/Category:罕見疾病 "wikilink") [Category:免疫系统疾病](https://zh.wikipedia.org/wiki/Category:免疫系统疾病 "wikilink") [Category:遺傳疾病](https://zh.wikipedia.org/wiki/Category:遺傳疾病 "wikilink") [Category:X染色體](https://zh.wikipedia.org/wiki/Category:X染色體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.

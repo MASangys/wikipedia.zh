@@ -227,6 +227,48 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>第21屆</p></td>
+<td><p>2019年</p></td>
+<td><p>《<a href="../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&amp;_INSECURITY.md" title="wikilink">ECLIPSE</a>》</p></td>
+<td><p>最佳男子組合－舞蹈表演獎</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GOT7</p></td>
+<td><p>Favorite Dance Performance</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Worldwide Fan's Choice TOP 10</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳男子團體獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度歌手</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -342,8 +384,22 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>第34屆</p></td>
+<td><p>2019年</p></td>
+<td><p>《<a href="../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&amp;_INSECURITY.md" title="wikilink">SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</a>》</p></td>
+<td><p>唱片部門－本賞</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/JUS2.md" title="wikilink">JUS2</a> -《<a href="../Page/FOCUS.md" title="wikilink">FOCUS</a>》</p></td>
+<td><p>唱片部門－本賞</p></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>GOT7</p></td>
+<td><p>抖音最受歡迎藝人獎</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -462,6 +518,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>第29屆</p></td>
+<td><p>2019年</p></td>
+<td><p>《<a href="../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&amp;_INSECURITY.md" title="wikilink">SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</a>》</p></td>
+<td><p>本賞</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>GOT7</p></td>
+<td><p>人氣獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>韓流特別獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -486,34 +563,25 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>GOT7</p></td>
 <td><p>BEST POPULAR 獎</p></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-</tbody>
-</table>
-
-### 韓國第一品牌大賞（Korea First Brand Awards）
-
-韓國第一品牌大賞（대한민국 퍼스트브랜드 대상）是韓國消費者論壇自2003年成立，以「消費者滿意度」為核心，由消費者們從各部門類別評選出將於明年引領韓國的第一名品牌並授獎的頒獎禮。
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>屆數</p></td>
-<td><p>年度</p></td>
-<td><p>提名項目</p></td>
-<td><p>獎項</p></td>
-<td><p>結果</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>第2屆</p></td>
+<td><p>第4屆</p></td>
 <td><p>2019年</p></td>
 <td><p>GOT7</p></td>
-<td><p>男子團體</p></td>
-<td><p>[8]</p></td>
+<td><p>Best K-Culture 獎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>AAA大賞─Performance of the Year</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -534,6 +602,28 @@
 
 |- | 2017年 || Best of Best Hot Star || GOT7 ||  |}
 
+## 韓國其他頒獎典禮
+
+### 全球V LIVE獎
+
+V LIVE是韓國[Naver公司旗下的網路直播平台](https://zh.wikipedia.org/wiki/Naver "wikilink")，可讓明星與全球粉絲進行實時聊天、播放預錄節目。每年會根據粉絲票選結果頒發最受歡迎的藝人頻道獎，於2019年首次舉辦專屬的頒獎典禮《2019 VLIVE AWARDS V HEARTBEAT》。  |- | 2017年 || 全球藝人Top10 || GOT7 ||  |- | 2018年 || 全球藝人Top10 || GOT7 ||  |- | 2019年 || 全球藝人Top10 || GOT7 ||  |}
+
+### V LIVE AWARDS V HEARTBEAT
+
+|- | 2019年 || GLOBAL ARTIST TOP 12 || GOT7 ||  |}
+
+### V LIVE YEAR END PARTY
+
+|- | 2017年 || Best Worldwide Influencer || GOT7 ||  |}
+
+### 韓國第一品牌大賞（Korea First Brand Awards）
+
+韓國第一品牌大賞（대한민국 퍼스트브랜드 대상）是韓國消費者論壇自2003年成立，以「消費者滿意度」為核心，由消費者們從各部門類別評選出將於明年引領韓國的第一名品牌並授獎的頒獎禮。  |- | 2019年 || 男子團體 || GOT7 || \[8\] |}
+
+### 大韓民國服務大賞
+
+本獎項是由韓國政府部門、國會小組委員會、文化體育觀光部以及國防部一起設立的服務大賞。自2008年以來，頒獎典禮旨在尋找爲國家和社區發展做出巨大貢獻的人，鼓勵人們致力於促進奉獻和分享的活動\[9\]。  |- |rowspan=2| 2019年 || 大韓民國服務大賞 ||rowspan=2| GOT7 || |- | 國會外交統一委員會獎\[10\] || |}
+
 ## 國際頒獎典禮
 
 ### [MTV歐洲音樂大獎 Europe Music Awards）](../Page/MTV歐洲音樂大獎.md "wikilink")（MTV
@@ -545,17 +635,21 @@
 [告示牌音樂獎是由美國知名音樂雜誌](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")[《告示牌》自](../Page/告示牌_\(雜誌\).md "wikilink")1989年起主辦的音樂獎。  |- | 2019年 || [最佳社群媒體藝人獎
 （Top Social Artist）](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝人 "wikilink") || GOT7 ||  |}
 
+###
+
+|- | 2015年 || ROOKIE OF THE YEAR || GOT7 || |- | rowspan=2| 2016年 || BEST MUSIC VIDEO|| rowspan=2|GOT7 || |- | BEST FANDOM || |- | rowspan=3| 2017年 || FUSE MUSIC VIDEO OF THE YEAR || rowspan=2|HARD CARRY ||  |- | BEST CHOREOGRAPHY || |- | BEST FANDOM || GOT7 ||  |- | rowspan=3| 2018年 || BEST MALE GROUP ||rowspan=3| GOT7 ||  |- | LATIN AMERICA POPULARITY AWARD || |- | TWITTER BEST FANDOM || |- | 2019年 || TWITTER BEST FANDOM || GOT7 ||  |}
+
 ### 澳洲SBS流行音樂獎（SBS PopAsia Award）
 
-|- | 2014年 || 最佳新人獎 || GOT7 || |- | 2016年 || 年度最佳男子團體 || GOT7 ||\[9\] |}
+|- | 2014年 || 最佳新人獎 || GOT7 || |- | 2016年 || 年度最佳男子團體 || GOT7 ||\[11\] |}
 
 ### Fashion Power時尚影響力盛典
 
-|- | 2015年 || 亞洲風尚影響力組合獎 || GOT7 || \[10\] |}
+|- | 2015年 || 亞洲風尚影響力組合獎 || GOT7 || \[12\] |}
 
 ### SEED大獎
 
-|- | 2015年 || 最受歡迎亞洲藝人獎 || GOT7 || \[11\] |}
+|- | 2015年 || 最受歡迎亞洲藝人獎 || GOT7 || \[13\] |}
 
 ### 音樂風雲榜年度盛典
 
@@ -572,14 +666,6 @@
 ### ATK獎
 
 |- | 2016年 || 隨機舞蹈王獎 || GOT7 ||  |}
-
-### 全球V Live獎
-
-|- | 2017年 || 全球藝人Top10 || GOT7 ||  |- | 2018年 || 全球藝人Top10 || GOT7 ||  |- | 2019年 || 全球藝人Top10 || GOT7 ||  |}
-
-### 越南V LIVE YEAR END PARTY 2017
-
-|- | 2017年 || Best Worldwide Influencer || GOT7 ||  |}
 
 ### 泰國 JOOX THAILAND MUSIC AWARDS
 
@@ -668,6 +754,12 @@
 <td><p><a href="../Page/SPINNING_TOP_:_BETWEEN_SECURITY_&amp;_INSECURITY.md" title="wikilink">SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</a></p></td>
 </tr>
 <tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Call_My_Name.md" title="wikilink">Call My Name</a></p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「*」：打榜中</li>
 <li>「/」：未入榜（含節目停播、未出演）</li>
@@ -698,10 +790,10 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p>8</p></td>
+<td><p>9</p></td>
 </tr>
 <tr class="odd">
-<td><p>一位歌曲總數：28<br />
+<td><p>一位歌曲總數：29<br />
 四台冠軍歌曲總數：4<br />
 五台冠軍歌曲總數：1</p></td>
 <td><p>HOT3歌曲總數：3</p></td>
@@ -716,8 +808,8 @@
 |       |              |                         |                                              |        |
 | ----- | ------------ | ----------------------- | -------------------------------------------- | ------ |
 | 年份    | 日期           | 獲獎歌曲                    | 專輯                                           | 來源     |
-| 2016年 | 3月31日        | 《Fly》                   | FLIGHT LOG : DEPARTURE                       | \[12\] |
-| 10月6日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE | \[13\]                                       |        |
+| 2016年 | 3月31日        | 《Fly》                   | FLIGHT LOG : DEPARTURE                       | \[14\] |
+| 10月6日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE | \[15\]                                       |        |
 | 2017年 | 3月23日        | 《Never Ever》            | FLIGHT LOG : ARRIVAL                         |        |
 | 2018年 | 9月27日        | 《Lullaby》               | Present: YOU                                 |        |
 | 10月4日 |              |                         |                                              |        |
@@ -739,7 +831,7 @@
 <td><p>4月1日</p></td>
 <td><p>《Fly》</p></td>
 <td><p>FLIGHT LOG : DEPARTURE</p></td>
-<td><p>[14]</p></td>
+<td><p>[16]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月7日</p></td>
@@ -760,7 +852,7 @@
 <td><p>3月23日</p></td>
 <td><p>《Look》</p></td>
 <td><p>Eyes On You</p></td>
-<td><p>[15]</p></td>
+<td><p>[17]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月28日</p></td>
@@ -790,6 +882,14 @@
 <td><p>SPINNING TOP : BETWEEN SECURITY &amp; INSECURITY</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>11月15日</p></td>
+<td><p>《니가 부르는 나의 이름》<br />
+（You Calling My Name）</p></td>
+<td><p>Call My Name</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -816,7 +916,7 @@
 |       |              |                         |                                              |        |
 | ----- | ------------ | ----------------------- | -------------------------------------------- | ------ |
 | 年份    | 日期           | 獲獎歌曲                    | 專輯                                           | 來源     |
-| 2016年 | 4月3日         | 《Fly》                   | FLIGHT LOG : DEPARTURE                       | \[16\] |
+| 2016年 | 4月3日         | 《Fly》                   | FLIGHT LOG : DEPARTURE                       | \[18\] |
 | 10月9日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE |                                              |        |
 | 2018年 | 9月30日        | 《Lullaby》               | Present: YOU                                 |        |
 | 2019年 | 6月2日         | 《ECLIPSE》               | SPINNING TOP : BETWEEN SECURITY & INSECURITY |        |
@@ -834,92 +934,13 @@
 |        |              |                         |                        |        |
 | ------ | ------------ | ----------------------- | ---------------------- | ------ |
 | 年份     | 日期           | 獲獎歌曲                    | 專輯                     | 來源     |
-| 2015年  | 10月6日        | 《If You Do》             | MAD                    | \[17\] |
-| 10月13日 | \[18\]       |                         |                        |        |
-| 10月20日 | \[19\]       |                         |                        |        |
-| 2016年  | 3月29日        | 《Fly》                   | FLIGHT LOG : DEPARTURE | \[20\] |
-| 4月5日   | \[21\]       |                         |                        |        |
+| 2015年  | 10月6日        | 《If You Do》             | MAD                    | \[19\] |
+| 10月13日 | \[20\]       |                         |                        |        |
+| 10月20日 | \[21\]       |                         |                        |        |
+| 2016年  | 3月29日        | 《Fly》                   | FLIGHT LOG : DEPARTURE | \[22\] |
+| 4月5日   | \[23\]       |                         |                        |        |
 | 10月18日 | 《Hard Carry》 | FLIGHT LOG : TURBULENCE |                        |        |
 | 2017年  | 3月21日        | 《Never Ever》            | FLIGHT LOG : ARRIVAL   |        |
-
-## 其他獎項
-
-###
-
-<table>
-<tbody>
-<tr class="odd">
-<td><p>屆數</p></td>
-<td><p>年度</p></td>
-<td><p>提名項目</p></td>
-<td><p>獎項</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>第10屆</p></td>
-<td><p>2014年</p></td>
-<td><p>GOT7</p></td>
-<td><p>ROOKIE OF THE YEAR</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>第11屆</p></td>
-<td><p>2015年</p></td>
-<td><p>GOT7</p></td>
-<td><p>BEST MUSIC VIDEO</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>BEST FANDOM</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>第12屆</p></td>
-<td><p>2016年</p></td>
-<td><p>HARD CARRY</p></td>
-<td><p>FUSE MUSIC VIDEO OF THE YEAR</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>BEST CHOREOGRAPHY</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>GOT7</p></td>
-<td><p>BEST FANDOM</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>第13屆</p></td>
-<td><p>2017年</p></td>
-<td><p>GOT7</p></td>
-<td><p>BEST MALE GROUP</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>LATIN AMERICA POPULARITY AWARD</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>TWITTER BEST FANDOM</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
 
 ## 註釋
 
@@ -948,3 +969,5 @@
 19.
 20.
 21.
+22.
+23.

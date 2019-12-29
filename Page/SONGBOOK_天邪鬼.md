@@ -20,8 +20,6 @@
 [Category:中島美嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:中島美嘉音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:合輯](https://zh.wikipedia.org/wiki/Category:合輯 "wikilink") [Category:2016年書籍](https://zh.wikipedia.org/wiki/Category:2016年書籍 "wikilink") [Category:自傳](https://zh.wikipedia.org/wiki/Category:自傳 "wikilink")
 
 1.
-
 2.
 3.
-
 4.

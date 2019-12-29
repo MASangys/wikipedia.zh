@@ -13,7 +13,7 @@ SMTM第六季的4组制作人团队分别由[Zico](https://zh.wikipedia.org/wiki
 
 **JAY PARK & Dok2队（[朴載範](../Page/朴載範.md "wikilink") & [Dok2](../Page/Dok2.md "wikilink")）：**
 
-  - [朴載範](../Page/朴載範.md "wikilink")： CEO及歌手兼Rapper，曾担任SMTM4导师。
+  - [朴載範](../Page/朴載範.md "wikilink")：[AOMG](../Page/AOMG.md "wikilink") CEO及歌手兼Rapper，曾担任SMTM4导师。
   - [Dok2](../Page/Dok2.md "wikilink")：[ILLIONAIRE联合CEO及Rapper](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")，曾担任SMTM3及SMTM5导师。
 
 **[DYNAMIC DUO队](../Page/Dynamic_Duo.md "wikilink")（ & ）：**

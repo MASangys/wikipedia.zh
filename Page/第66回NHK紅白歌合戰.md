@@ -107,7 +107,7 @@
 
   - [羽生結弦](https://zh.wikipedia.org/wiki/羽生結弦 "wikilink")：[花式溜冰選手](https://zh.wikipedia.org/wiki/花式溜冰 "wikilink")
 
-  - [又吉直樹](../Page/又吉直樹.md "wikilink")：[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，今年以作家身份推出首部[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[火花](https://zh.wikipedia.org/wiki/火花_\(小説\) "wikilink")》，並憑此獲得[芥川龍之介獎](../Page/芥川龍之介獎.md "wikilink")
+  - [又吉直樹](../Page/又吉直樹.md "wikilink")：[搞笑藝人](../Page/搞笑藝人.md "wikilink")，今年以作家身份推出首部[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[火花](https://zh.wikipedia.org/wiki/火花_\(小説\) "wikilink")》，並憑此獲得[芥川龍之介獎](../Page/芥川龍之介獎.md "wikilink")
 
   - [三宅宏實](https://zh.wikipedia.org/wiki/三宅宏實 "wikilink")：女子[舉重](https://zh.wikipedia.org/wiki/舉重 "wikilink")[運動員](https://zh.wikipedia.org/wiki/運動員 "wikilink")，2016年將連續第4次參與[奧運](https://zh.wikipedia.org/wiki/奧運 "wikilink")
 

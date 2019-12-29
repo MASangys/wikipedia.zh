@@ -55,7 +55,7 @@ Sender ID提案也是一个涉及[知识产权](../Page/知识产权.md "wikilin
   - [MARID Co-Chairs Clarify Consensus Statement](http://www.moongroup.com/index.php?option=content&task=view&id=26&Itemid=2)
   - [*MARID to close*](https://web.archive.org/web/20040929020641/http://www.imc.org/ietf-mxcomp/mail-archive/msg05054.html)邮件列表话题。
   - [Sender ID: A Tale of Open Standards and Corporate Greed?](http://www.circleid.com/posts/sender_id_a_tale_of_open_standards_and_corporate_greed_part_i/)
-  - ["SPF: SPF vs Sender ID"](http://www.openspf.org/SPF_vs_Sender_ID)
+  - ["SPF: SPF vs Sender ID"](https://web.archive.org/web/20071102120517/http://www.openspf.org/SPF_vs_Sender_ID)
 
 [Category:电子邮件身份验证](https://zh.wikipedia.org/wiki/Category:电子邮件身份验证 "wikilink") [Category:垃圾邮件过滤](https://zh.wikipedia.org/wiki/Category:垃圾邮件过滤 "wikilink") [Category:微软](https://zh.wikipedia.org/wiki/Category:微软 "wikilink")
 

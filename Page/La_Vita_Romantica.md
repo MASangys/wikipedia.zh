@@ -78,8 +78,6 @@
 [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:ALI_PROJECT音樂專輯](https://zh.wikipedia.org/wiki/Category:ALI_PROJECT音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

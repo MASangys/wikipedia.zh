@@ -1,4 +1,4 @@
-**Loco**（，），本名**權赫禹**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")，所屬唱片旗下歌手。2012年参加[Mnet饒舌](../Page/Mnet媒體.md "wikilink")[选秀](../Page/选秀.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》第一季获得冠軍。\[1\]\[2\]\[3\]
+**Loco**（，），本名**權赫禹**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")，所屬[AOMG](../Page/AOMG.md "wikilink")唱片旗下歌手。2012年参加[Mnet饒舌](../Page/Mnet媒體.md "wikilink")[选秀](../Page/选秀.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")》第一季获得冠軍。\[1\]\[2\]\[3\]
 與 [Gray](../Page/Gray_\(歌手\).md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、及[Crush共同所屬於團體VV](../Page/Crush_\(歌手\).md "wikilink"):D。 2019年2月7日入伍,在接受基礎軍事訓練後作為義務員警服兵役。
 
 ## 音乐作品
@@ -524,7 +524,7 @@ Feat.：Loco</p></td>
 <tr class="even">
 <td><p>2014年6月10日</p></td>
 <td><p>躺下（누워）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gummy" title="wikilink">Gummy</a>（Feat. Loco）</p></td>
+<td><p><a href="../Page/Gummy_(歌手).md" title="wikilink">Gummy</a>（Feat. Loco）</p></td>
 <td><p>《既然爱过...足矣》（사랑했으니..됐어）</p></td>
 <td><p>作词</p></td>
 <td><p>Feat.：Loco</p></td>
@@ -549,11 +549,11 @@ Feat.：Loco、<a href="https://zh.wikipedia.org/wiki/$asha" title="wikilink">$a
 <tr class="odd">
 <td><p>2014年7月25日</p></td>
 <td><p>NaNa（나나）</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. Loco &amp; ）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. Loco &amp; <a href="../Page/AOMG.md" title="wikilink">AOMG</a>）</p></td>
 <td><p>《NaNa》</p></td>
 <td><p>作词、Feat.</p></td>
 <td><p>作词：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、Loco<br />
-Feat.：Loco &amp; </p></td>
+Feat.：Loco &amp; <a href="../Page/AOMG.md" title="wikilink">AOMG</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2014年8月11日</p></td>
@@ -1017,26 +1017,15 @@ Feat.：Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a
 [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:弘益大學校友](https://zh.wikipedia.org/wiki/Category:弘益大學校友 "wikilink") [Category:权姓](https://zh.wikipedia.org/wiki/Category:权姓 "wikilink") [Category:音乐选秀节目冠军](https://zh.wikipedia.org/wiki/Category:音乐选秀节目冠军 "wikilink") [Category:2012年出道](https://zh.wikipedia.org/wiki/Category:2012年出道 "wikilink") [Category:AOMG音乐家](https://zh.wikipedia.org/wiki/Category:AOMG音乐家 "wikilink") [Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

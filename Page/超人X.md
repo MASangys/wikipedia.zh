@@ -1353,20 +1353,12 @@ tE・rU</p></td>
 [Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink") [Category:2015年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年開播的日本電視劇集 "wikilink") [Category:東京電視台特攝節目](https://zh.wikipedia.org/wiki/Category:東京電視台特攝節目 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:赛博朋克作品](https://zh.wikipedia.org/wiki/Category:赛博朋克作品 "wikilink") [Category:卡片題材作品](https://zh.wikipedia.org/wiki/Category:卡片題材作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.

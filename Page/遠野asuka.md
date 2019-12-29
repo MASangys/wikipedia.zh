@@ -112,7 +112,7 @@
 
 ## 外部連結
 
-  - [東寶藝能公式Profile](http://www.toho-ent.co.jp/actress/profile.php?id=6811)
+  - [東寶藝能公式Profile](https://web.archive.org/web/20170202050430/http://www.toho-ent.co.jp/actress/profile.php?id=6811)
 
   - [遠野あすか Official blog](http://ameblo.jp/tono-asuka) (Ameba Blog)
 

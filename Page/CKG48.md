@@ -1,8 +1,8 @@
-**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48](../Page/SNH48.md "wikilink")的姊妹團體，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有33名成員，擁有「IDOLS Ft」一項計畫。
+**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48](../Page/SNH48.md "wikilink")的姊妹團體，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有34名成員，擁有「IDOLS Ft」一項計畫。
 
 ## 概要
 
-CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆 "wikilink")[中國](../Page/中國.md "wikilink")本土化大型女子偶像團體，而自2019年起運營公司宣布CKG48相關業務將全面輻射至[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[貴州等西南地區](https://zh.wikipedia.org/wiki/貴州 "wikilink")。CKG48為SNH48第四個姊妹團，但與其他SNH48姊妹團不同，CKG48並非以「重慶」的[漢語拼音縮寫命名](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，組合名稱取自「重慶」的[邮政式拼音](https://zh.wikipedia.org/wiki/邮政式拼音 "wikilink")（**C**hung**k**in**g**）的縮寫「CKG」（亦正是[重慶江北國際機場的](https://zh.wikipedia.org/wiki/重慶江北國際機場 "wikilink")[IATA代碼](https://zh.wikipedia.org/wiki/IATA代碼 "wikilink")）。2017年6月2日，絲芭傳媒舉行SNH48第四屆總決選啟動儀式宣佈SNH48第四個姊妹團CKG48成立，同時開啟一期生招募\[2\]。CKG48以重慶為中心進行演藝活動，曾为其專屬表演場地的「[CKG48星夢劇院](https://zh.wikipedia.org/wiki/CKG48星夢劇院 "wikilink")」位於[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")[南岸区](../Page/南岸区.md "wikilink")[國瑞中心于](https://zh.wikipedia.org/wiki/國瑞中心 "wikilink")2017年11月开业，并于2018年12月31日起停止营业。
+CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆 "wikilink")[中國](../Page/中國.md "wikilink")本土化大型女子偶像團體，而自2019年起運營公司宣布CKG48相關業務將全面輻射至[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[貴州等西南地區](https://zh.wikipedia.org/wiki/貴州 "wikilink")。CKG48為SNH48第四個姊妹團，但與其他SNH48姊妹團不同，CKG48並非以「重慶」的[漢語拼音縮寫命名](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，組合名稱取自「重慶」的[邮政式拼音](https://zh.wikipedia.org/wiki/邮政式拼音 "wikilink")（**C**hung**k**in**g**）的縮寫「CKG」（亦正是[重慶江北國際機場的](https://zh.wikipedia.org/wiki/重慶江北國際機場 "wikilink")[IATA代碼](https://zh.wikipedia.org/wiki/IATA代碼 "wikilink")），于部分场合会使用“热血少女”之名称。2017年6月2日，絲芭傳媒舉行SNH48第四屆總決選啟動儀式宣佈SNH48第四個姊妹團CKG48成立，同時開啟一期生招募\[2\]。CKG48以重慶為中心進行演藝活動，曾为其專屬表演場地的「[CKG48星夢劇院](https://zh.wikipedia.org/wiki/CKG48星夢劇院 "wikilink")」位於[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")[南岸区](../Page/南岸区.md "wikilink")[國瑞中心于](https://zh.wikipedia.org/wiki/國瑞中心 "wikilink")2017年11月开业，并于2018年12月31日起停止营业。
 
 ## 略歷
 
@@ -65,14 +65,17 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
   - 7月20日，在成都乐空间举行《少女•山茶•成长》公演首演，同时有以下事项发表：
       - GNZ48六期生鄢羽蝶通过CKG48对于IDOLS Ft成员的考核，正式加入CKG48。
   - 9月7日，于当日《少女•山茶•成长》公演发表以下事项：
+      - 开始实施发言人轮换制度，剧场发言人由全体成员轮流兼任。
       - SNH48六期生周倩玉通过CKG48对于IDOLS Ft成员的考核，正式加入CKG48；
       - CKG48将制作创作唱演纪录节目《开机开板！》。
+  - 10月5日，于当日《国庆节特别公演》发表以下事项：
+      - SHY48三期生王嘉瑜通过CKG48对于IDOLS Ft成员的考核，正式加入CKG48。
 
 ## 成員名單
 
 ### 正式成员
 
-  - 成员21人，全部成员目前均为[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。
+  - 成员22人，全部成员目前均为[IDOLS Ft成员](../Page/IDOLS_Ft.md "wikilink")。
 
 | 正式成员 |
 | ---- |
@@ -89,6 +92,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 | 谯玉珍  |
 | 田密   |
 | 田倩兰  |
+| 王嘉瑜  |
 | 王梦竹  |
 | 魏小燕  |
 | 吴学雨  |
@@ -638,10 +642,18 @@ Team C陶菀瑞，Team K刘炅然，预备生余梦露暂休</p></td>
 <td><p>(21)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>10月5日</p></td>
+<td><p>SHY48 3期生王嘉瑜加入CKG48</p></td>
+<td><p>+1</p></td>
+<td><p>34</p></td>
+<td><p>(22)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-| 昇格時間   | 姓名  | 加入期                        | 昇格隊伍 | 备注                       |
+| 升格時間   | 姓名  | 加入期                        | 升格隊伍 | 备注                       |
 | ------ | --- | -------------------------- | ---- | ------------------------ |
 | 2017年  |     |                            |      |                          |
 | 10月27日 | 柏欣妤 | 1期                         | C    | 2019年1月19日移籍BEJ48 Team J |
@@ -679,7 +691,7 @@ Team C陶菀瑞，Team K刘炅然，预备生余梦露暂休</p></td>
 | 鄭陽瑩    | 1期  | 2018年3月7日資料刪除              |      |                          |
 |        |     |                            |      |                          |
 
-| 昇格時間  | 姓名  | 加入期                        | 昇格隊伍                 | 備注                       |
+| 升格時間  | 姓名  | 加入期                        | 升格隊伍                 | 備注                       |
 | ----- | --- | -------------------------- | -------------------- | ------------------------ |
 | 2018年 |     |                            |                      |                          |
 | 5月18日 | 徐楚雯 | 2期                         | C                    | 2019年1月19日移籍GNZ48 Team G |

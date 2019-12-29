@@ -23,32 +23,151 @@
 
 ### 單曲
 
-| 張數  | 名稱                  | 發行日期        | 最高排名 |
-| --- | ------------------- | ----------- | ---- |
-| 1st | ****                | 2014年12月3日  | 155位 |
-| 2nd | ****                | 2015年5月20日  | ?位   |
-| 3rd | ****                | 2017年5月24日  | 69位  |
-| 4st | **Trip Trip Trip**  | 2017年7月26日  | 69位  |
-| 5th | ****                | 2017年10月25日 | 65位  |
-| 6th | ****                | 2018年8月22日  | 129位 |
-| 7th | **OPEN THE WORLDS** | 2019年4月24日  |      |
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>發售日</p></th>
+<th><p>標題</p></th>
+<th><p>規格編號</p></th>
+<th><p>最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>VAP</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p>2014年12月3日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>VPCG-82325</p></td>
+<td><p>155位</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2015年5月25日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>網路配信</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lantis</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2017年5月24日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>LACM-14609</p></td>
+<td><p>69位</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2017年7月26日</p></td>
+<td><p><strong><a href="../Page/Trip_Trip_Trip.md" title="wikilink">Trip Trip Trip</a></strong></p></td>
+<td><p>LACM-14622</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2017年10月25日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>LACM-14659</p></td>
+<td><p>65位</p></td>
+</tr>
+<tr class="even">
+<td><p>6th</p></td>
+<td><p>2018年8月22日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>LACM-14792</p></td>
+<td><p>129位</p></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p>2019年4月24日</p></td>
+<td><p><strong>OPEN THE WORLDS</strong></p></td>
+<td><p>LACM-14857</p></td>
+<td><p>86位</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 專輯
 
-| 張數  | 名稱             | 發行日期       | 最高排名 |
-| --- | -------------- | ---------- | ---- |
-| 1st | **oresama**    | 2015年12月2日 | 256位 |
-| 2nd | **Hi-Fi POPS** | 2018年4月11日 | 27位  |
+<table>
+<thead>
+<tr class="header">
+<th><p>枚</p></th>
+<th><p>發售日</p></th>
+<th><p>標題</p></th>
+<th><p>規格編號</p></th>
+<th><p>最高位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>通常盤</p></td>
+<td><p>初回限定盤盤</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>VAP</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-</p></td>
+<td><p>2015年12月2日</p></td>
+<td><p><strong>oresama</strong></p></td>
+<td><p>VPCG-82325</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Lantis</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2018年4月11日</p></td>
+<td><p><strong>Hi-Fi POPS</strong></p></td>
+<td><p>LACA-15715</p></td>
+<td><p>LACA-35715</p></td>
+</tr>
+</tbody>
+</table>
+
+### 網路限定曲
+
+| 發售日         | 標題               |
+| ----------- | ---------------- |
+| 2016年12月14日 | ** WINTER LOVE** |
+| 2019年1月3日   | ****             |
 
 ### 合作作品
 
-| 時期                 | 歌曲                                                     | 合作                                                                 | 收錄CD         |
-| ------------------ | ------------------------------------------------------ | ------------------------------------------------------------------ | ------------ |
-| 2014年              | **オオカミハート**                                            | 電視動畫「[狼少女和黑王子](../Page/狼少女和黑王子.md "wikilink")」片尾曲                  | **オオカミハート**  |
-| 2017年              | **ワンダードライブ**                                           | 電視動畫「[愛麗絲與藏六](https://zh.wikipedia.org/wiki/愛麗絲與藏六 "wikilink")」片頭曲 | **ワンダードライブ** |
-| **Trip Trip Trip** | 電視動畫「[咕嚕咕嚕魔法陣](../Page/咕嚕咕嚕魔法陣.md "wikilink")2017版」片頭曲 | **Trip Trip Trip**                                                 |              |
-| **流星ダンスフロア**       | **流星ダンスフロア**                                           |                                                                    |              |
-| 2018年              | **ホトハシル**                                              | 電視動畫「[魔法律事務所](https://zh.wikipedia.org/wiki/魔法律事務所 "wikilink")」片尾曲 | **ホトハシル**    |
+| 時期                 | 歌曲                                                     | 合作                                                                 |
+| ------------------ | ------------------------------------------------------ | ------------------------------------------------------------------ |
+| 2014年              | **オオカミハート**                                            | 電視動畫「[狼少女和黑王子](../Page/狼少女和黑王子.md "wikilink")」片尾曲                  |
+| 2017年              | **ワンダードライブ**                                           | 電視動畫「[愛麗絲與藏六](https://zh.wikipedia.org/wiki/愛麗絲與藏六 "wikilink")」片頭曲 |
+| **Trip Trip Trip** | 電視動畫「[咕嚕咕嚕魔法陣](../Page/咕嚕咕嚕魔法陣.md "wikilink")2017版」片頭曲 |                                                                    |
+| **流星ダンスフロア**       |                                                        |                                                                    |
+| 2018年              | **ホトハシル**                                              | 電視動畫「[魔法律事務所](https://zh.wikipedia.org/wiki/魔法律事務所 "wikilink")」片尾曲 |
+| 2019年              | **OPEN THE WORLDS**                                    | 電視動畫「[叛逆性百萬亞瑟王 第二季](../Page/叛逆性百萬亞瑟王.md "wikilink")」片頭曲            |
 
 ## 備註欄
 

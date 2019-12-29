@@ -157,89 +157,56 @@ SATA Express向下相容是裝置層級的，只要存儲裝置支援SATA均可�
 
   - US patent 20130294023, November 7, 2013, assigned to Raphael Gay
 
-  - [MultiLink SAS presentations, press releases and roadmaps](http://scsita.org/library/multilink-sas/), [SCSI Trade Association](https://zh.wikipedia.org/wiki/SCSI_Trade_Association "wikilink")
+  - [MultiLink SAS presentations, press releases and roadmaps](https://web.archive.org/web/20190101025346/http://www.scsita.org/library/multilink-sas/), [SCSI Trade Association](https://zh.wikipedia.org/wiki/SCSI_Trade_Association "wikilink")
 
 [Category:2013年面世](https://zh.wikipedia.org/wiki/Category:2013年面世 "wikilink") [Category:计算机存储总线](https://zh.wikipedia.org/wiki/Category:计算机存储总线 "wikilink") [Category:固态计算机存储](https://zh.wikipedia.org/wiki/Category:固态计算机存储 "wikilink") [Category:Serial_ATA](https://zh.wikipedia.org/wiki/Category:Serial_ATA "wikilink") [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
 26.
 27.
 28.
-
 29.
 30.
 31.
 32.
 33.
 34.
-
 35.
 36.
 37.
 38.
-
 39.
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
 48.
 49.

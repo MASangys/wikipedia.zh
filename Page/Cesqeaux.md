@@ -198,28 +198,16 @@ Cesqeaux曾在大型音乐节上表演，如[明日世界电子音乐节巴西�
 [Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.  `|work=`和`|newspaper=`只需其一 ([帮助](https://zh.wikipedia.org/wiki/Help:引文格式1错误#redundant_parameters "wikilink"))
-
 9.
-
 10.
-
 11.  Billboard|accessdate=2017-02-08|language=en}}
-
 12.
-
 13.
-
 14.

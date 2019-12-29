@@ -608,6 +608,150 @@
 </tbody>
 </table>
 
+### WINNER JAPAN TOUR 2019
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>城市</p></th>
+<th><p>國家/地區</p></th>
+<th><p>演出場地</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年7月3日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中野サンプラザホール" title="wikilink">中野サンプラザホール</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪城ホール" title="wikilink">大阪城ホール</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月17日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛知" title="wikilink">愛知</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名古屋国際会議場_センチュリーホール" title="wikilink">名古屋国際会議場 センチュリーホール</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉" title="wikilink">千葉</a></p></td>
+<td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張メッセ展示ホール</a>9</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月10日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/八王子市民会館" title="wikilink">オリンパスホール八王子</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/靜岡" title="wikilink">靜岡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/静岡市民文化会館" title="wikilink">静岡市民文化会館 大ホール</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月1日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛知" title="wikilink">愛知</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本特殊陶業市民会館_フォレストホール" title="wikilink">日本特殊陶業市民会館 フォレストホール</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月14日</p></td>
+<td><p><a href="../Page/京都.md" title="wikilink">京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ロームシアター京都_メインホール" title="wikilink">ロームシアター京都　メインホール</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡" title="wikilink">福岡</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/マリンメッセ福岡" title="wikilink">マリンメッセ福岡</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### WINNER \[CROSS\] TOUR
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>城市</p></th>
+<th><p>國家/地區</p></th>
+<th><p>演出場地</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年10月26日</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月24日</p></td>
+<td><p><a href="../Page/臺北.md" title="wikilink">臺北</a></p></td>
+<td></td>
+<td><p><a href="../Page/國立體育大學綜合體育館.md" title="wikilink">國立體育大學綜合體育館</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月21日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/雅加達" title="wikilink">雅加達</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TENNIS_INDOOR_SENAYAN" title="wikilink">TENNIS INDOOR SENAYAN</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月28日</p></td>
+<td><p><a href="../Page/澳門.md" title="wikilink">澳門</a></p></td>
+<td><p><a href="../Page/中國.md" title="wikilink">中國</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新濠影滙綜藝館" title="wikilink">新濠影滙綜藝館</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月11日</p></td>
+<td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月18日</p></td>
+<td><p><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年2月8日</p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 粉絲見面會
 
 ### Worldwide Inner Circle Conference：WWIC 2015
@@ -932,6 +1076,7 @@
 | 2019年5月25日     | HallyuPopFest 2019                                                                                           | 新加坡室內體育館                                       |
 | 2019年7月6日      | SBS Super Concert                                                                                            | 香港亞洲國際博覽館                                      |
 | 2019年8月25日     | 2019 K-Asian Festival                                                                                        | 仁川亞運主體育場                                       |
+| 2019年10月11日    | Asia Song Festival 2019                                                                                      | 釜山亞運會主競技場                                      |
 |                |                                                                                                              |                                                |
 
 ## 參考文獻
@@ -944,20 +1089,12 @@
 [Category:WINNER](https://zh.wikipedia.org/wiki/Category:WINNER "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

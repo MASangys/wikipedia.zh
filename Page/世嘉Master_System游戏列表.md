@@ -2955,7 +2955,7 @@
 </center></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/怒之铁拳_(游戏)" title="wikilink">怒之铁拳</a></p></td>
+<td><p><a href="../Page/怒之铁拳_(游戏).md" title="wikilink">怒之铁拳</a></p></td>
 <td><p><em>Streets of Rage</em></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
 <td><p>世嘉</p></td>

@@ -268,52 +268,28 @@
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.   LineageOS Wiki|accessdate=28 February 2018|date=22 February 2017}}
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20. `|author=`和`|last=`
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.

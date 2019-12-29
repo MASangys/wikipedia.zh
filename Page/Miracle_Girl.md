@@ -2,7 +2,7 @@
 
 ## 概要
 
-《Miracle Girl》部分歌曲的作詞是由後來與聲優[高山南](../Page/高山南.md "wikilink")組成音樂組合[TWO-MIX的音樂製作人](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")[永野椎菜](../Page/永野椎菜.md "wikilink")擔任。還有，由永野負責作詞的歌曲都由負責作曲。
+《Miracle Girl》部分歌曲的作詞是由後來與聲優[高山南](../Page/高山南.md "wikilink")組成音樂組合[TWO-MIX](../Page/TWO-MIX.md "wikilink")的音樂製作人[永野椎菜](../Page/永野椎菜.md "wikilink")擔任。還有，由永野負責作詞的歌曲都由負責作曲。
 
 表題專輯歌曲「Miracle Girl」（曾經被[日本電視台](../Page/日本電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[YAWARA！](https://zh.wikipedia.org/wiki/以柔克剛 "wikilink")》選為片頭主題曲使用）並沒有在這張專輯收錄。但是在同年10月1日以單曲的形式發行之後，翌年1990年4月18日發行的第5張個人專輯《》則有收錄。
 
@@ -38,7 +38,7 @@
 10. **Keep On "Keeping On"**
       - 作詞：永野椎菜，作曲：辛島美登里
 
-## 來源
+## 參考來源
 
 [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink") [Category:日本索尼音樂娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂音樂專輯 "wikilink")
 

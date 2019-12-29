@@ -27,7 +27,5 @@
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:兒玉沙織的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織的樂曲 "wikilink") [Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")
 
 1.
-
 2.
-
 3.

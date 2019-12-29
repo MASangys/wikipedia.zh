@@ -543,7 +543,7 @@
 <tr class="odd">
 <td><p>5月4日－6月1日</p></td>
 <td><p>Netflix</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/犯人就是你" title="wikilink">犯人就是你</a>》</p></td>
+<td><p>《<a href="../Page/明星來解謎.md" title="wikilink">明星來解謎</a>》</p></td>
 <td><p>世正</p></td>
 <td><p>第2-10集</p></td>
 </tr>
@@ -604,31 +604,45 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>5月4日－</p></td>
+<td><p>5月4日－7月27日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
 <td><p>《 一起遊戲吧！GG》</p></td>
 <td><p>素慧</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5月11日－6月</p></td>
+<td><p>5月11日－6月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>《 <a href="../Page/叢林的法則.md" title="wikilink">叢林的法則</a> 》</p></td>
 <td><p>美娜</p></td>
 <td><p>泰國篇</p></td>
 </tr>
 <tr class="even">
-<td><p>5月18日－</p></td>
+<td><p>5月18日－6月23日</p></td>
 <td><p><a href="../Page/TV朝鮮.md" title="wikilink">TV朝鮮</a></p></td>
 <td><p>《 <a href="../Page/首先一起去吧.md" title="wikilink">首先一起去吧</a> 》</p></td>
 <td><p>素慧</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5月19日－</p></td>
+<td><p>5月19日－6月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《 <a href="../Page/丫頭們.md" title="wikilink">丫頭們</a> 》</p></td>
 <td><p>有情</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月20日－</p></td>
+<td><p>Lifetime</p></td>
+<td><p>《 Beauty Time 》</p></td>
+<td><p>娜榮</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11月8日</p></td>
+<td><p>Netflix</p></td>
+<td><p>《<a href="../Page/明星來解謎_(第二季).md" title="wikilink">明星來解謎 (第二季)</a>》</p></td>
+<td><p>世正</p></td>
 <td></td>
 </tr>
 </tbody>

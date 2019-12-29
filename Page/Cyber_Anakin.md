@@ -25,24 +25,14 @@
 [Category:黑客](https://zh.wikipedia.org/wiki/Category:黑客 "wikilink") [Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:身份不明人物](https://zh.wikipedia.org/wiki/Category:身份不明人物 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [KM.RU - Cyberinsurance.com （英文）](https://www.cyberinsurance.com/breaches/kmru/)
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.

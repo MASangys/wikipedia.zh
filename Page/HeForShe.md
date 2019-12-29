@@ -4,7 +4,7 @@
 
 ## 連結
 
-  - [官方網站](http://www.heforshe.org/zh)
+  - [官方網站](https://web.archive.org/web/20170721230936/http://www.heforshe.org/zh)
 
   -   - [他為她 Heforshe](https://www.facebook.com/chineseheforshe/)中文版Facebook頁面（非官方）
 

@@ -41,35 +41,20 @@
 [Category:第七世代寶可夢](https://zh.wikipedia.org/wiki/Category:第七世代寶可夢 "wikilink") [Category:幽靈屬性寶可夢](https://zh.wikipedia.org/wiki/Category:幽靈屬性寶可夢 "wikilink") [Category:妖精屬性寶可夢](https://zh.wikipedia.org/wiki/Category:妖精屬性寶可夢 "wikilink") [Category:2016年推出的電子遊戲角色](https://zh.wikipedia.org/wiki/Category:2016年推出的電子遊戲角色 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

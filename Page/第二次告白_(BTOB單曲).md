@@ -1,4 +1,4 @@
-《**第二次告白**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")於2013年4月10日發行的第二張韓文單曲，描述為挽回喜歡的女孩，決定向她進行第二次告白的心情。\[1\]\[2\]
+**第二次告白**（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")於2013年4月10日發行的第二張韓文單曲，描述為挽回喜歡的女孩，決定向她進行第二次告白的心情。\[1\]\[2\]
 
 ## 曲目
 
@@ -11,35 +11,29 @@
 
 ## 音樂節目
 
-| 2013年音樂節目現場                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------- |
-| 日期                                                                                                                      |
-| colspan=3 style="background:\#9be6ff | 두 번째 고백 (2nd Confession)                                                         |
-| [Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》                 |
-| 4月11日                                                                                                                   |
-| 4月18日                                                                                                                   |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》              |
-| 4月12日                                                                                                                   |
-| 4月19日                                                                                                                   |
-| 5月3日                                                                                                                    |
-| 5月10日                                                                                                                   |
-| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》 |
-| 4月13日                                                                                                                   |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》              |
-| 4月14日                                                                                                                   |
-| 4月20日                                                                                                                   |
-| [MBC Every1](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》        |
-| 4月17日                                                                                                                   |
-| 4月24日                                                                                                                   |
-| 5月1日                                                                                                                    |
-| 5月8日                                                                                                                    |
-| [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")《Simply Kpop》                                                  |
-| 4月23日                                                                                                                   |
-| 4月30日                                                                                                                   |
-| 5月7日                                                                                                                    |
-| 5月14日                                                                                                                   |
-| 5月21日                                                                                                                   |
-| 5月28日                                                                                                                   |
+| 2013年音樂節目現場                                                     |
+| --------------------------------------------------------------- |
+| 電視台                                                             |
+| colspan=5 style="background:\#9be6ff | 두 번째 고백 (2nd Confession) |
+| [Mnet](../Page/Mnet.md "wikilink")                              |
+| 4月18日                                                           |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")             |
+| 4月19日                                                           |
+| 5月3日                                                            |
+| 5月10日                                                           |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")             |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")             |
+| 4月20日                                                           |
+| [MBC Every1](https://zh.wikipedia.org/wiki/MBC "wikilink")      |
+| 4月24日                                                           |
+| 5月1日                                                            |
+| 5月8日                                                            |
+| [阿里郎電視台](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")       |
+| 4月30日                                                           |
+| 5月7日                                                            |
+| 5月14日                                                           |
+| 5月21日                                                           |
+| 5月28日                                                           |
 
 ## 榜單成績
 
@@ -115,7 +109,7 @@
 
 [Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink")
 
-1.  [BTOB【第二次告白】預告](http://kpopn.niusnews.com/=K1oxxxn4) 2017-02-20 kpopn
-2.  [BTOB《第二次告白》MV](http://kpopn.niusnews.com/=K0twk800) 2017-02-20 kpopn
+1.  [BTOB【第二次告白】預告](http://kpopn.niusnews.com/=K1oxxxn4)  2017-02-20 kpopn
+2.  [BTOB《第二次告白》MV](http://kpopn.niusnews.com/=K0twk800)  2017-02-20 kpopn
 3.
 4.

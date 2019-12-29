@@ -137,20 +137,12 @@ ROM卡带通常比光盘等其他存储介质有着更小的容量\[6\]（[Lotus
 [Category:電子遊戲儲存媒體](https://zh.wikipedia.org/wiki/Category:電子遊戲儲存媒體 "wikilink") [Category:電子遊戲配送](https://zh.wikipedia.org/wiki/Category:電子遊戲配送 "wikilink") [Category:已被淘汰的電腦硬體](https://zh.wikipedia.org/wiki/Category:已被淘汰的電腦硬體 "wikilink") [Category:電腦儲存媒體](https://zh.wikipedia.org/wiki/Category:電腦儲存媒體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.  [NES清理套件手册](../Page/红白机.md "wikilink")
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

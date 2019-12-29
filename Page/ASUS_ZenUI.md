@@ -87,6 +87,8 @@ ZenUI並不限使用於[ASUS旗下產品](https://zh.wikipedia.org/wiki/ASUS "wi
 
 ## 参考文献
 
-[Category:華碩產品](https://zh.wikipedia.org/wiki/Category:華碩產品 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
+[分類:華碩軟體](https://zh.wikipedia.org/wiki/分類:華碩軟體 "wikilink")
+
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
 
 1.  <https://play.google.com/store/apps/dev?id=6704106470901776285>

@@ -106,7 +106,7 @@
 
   - [火将ロシエルの遊び場♪](https://live.line.me/channels/43142) - [LINE LIVE](https://zh.wikipedia.org/wiki/LINE_LIVE "wikilink")（2016年10月24日-）
   - [ろしにゃんROOM](https://www.showroom-live.com/roshinyanroom) - [SHOWROOM](https://zh.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")（2016年1月4日-）
-  - [火将ロシエル](http://twitcasting.tv/kasyou3roshieru) - [TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting "wikilink")（2015年4月5日-）
+  - [火将ロシエル](http://twitcasting.tv/kasyou3roshieru) - [TwitCasting](../Page/TwitCasting.md "wikilink")（2015年4月5日-）
   - [火将ロシエルのお部屋](http://com.nicovideo.jp/community/co3192705) - [ニコニコミュニティ](https://zh.wikipedia.org/wiki/ニコニコミュニティ "wikilink")
   - [☆猫耳メイド屋☆](http://com.nicovideo.jp/community/co1276152) - ニコニコミュニティ
 

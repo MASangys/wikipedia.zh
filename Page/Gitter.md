@@ -38,18 +38,13 @@ Gitter与[Trello](../Page/Trello.md "wikilink")、\[18\][Jenkins](../Page/Jenkin
 [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:即时通讯服务器软件](https://zh.wikipedia.org/wiki/Category:即时通讯服务器软件 "wikilink") [Category:聊天网站](https://zh.wikipedia.org/wiki/Category:聊天网站 "wikilink") [Category:网络应用程序](https://zh.wikipedia.org/wiki/Category:网络应用程序 "wikilink") [Category:云端应用程序](https://zh.wikipedia.org/wiki/Category:云端应用程序 "wikilink") [Category:商业聊天软件](https://zh.wikipedia.org/wiki/Category:商业聊天软件 "wikilink") [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink") [Category:2013年建立的网站](https://zh.wikipedia.org/wiki/Category:2013年建立的网站 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.
 10.
 11.
@@ -59,5 +54,4 @@ Gitter与[Trello](../Page/Trello.md "wikilink")、\[18\][Jenkins](../Page/Jenkin
 15.
 16.
 17.
-
 18.

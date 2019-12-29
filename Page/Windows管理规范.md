@@ -1,46 +1,46 @@
-**Windows管理规范**（**Windows Management Instrumentation**，缩写**WMI**）由一系列对[Windows Driver Model的扩展组成](../Page/Windows_Driver_Model.md "wikilink")，它通过组件提供信息和通知，提供了一个[操作系统](../Page/操作系统.md "wikilink")的接口。WMI是[微软](../Page/微软.md "wikilink")对（DMTF）的（WBEM）和[通用信息模型](../Page/通用信息模型.md "wikilink")（CIM）标准的实现。
+**Windows管理规范**（**Windows Management Instrumentation**，缩写**WMI**）由一系列对[Windows Driver Model的扩展组成](../Page/Windows_Driver_Model.md "wikilink")，它通过组件提供信息和通知，並提供了一个[操作系统](../Page/操作系统.md "wikilink")的接口。WMI是[微软](../Page/微软.md "wikilink")对（DMTF）的（WBEM）和[通用信息模型](../Page/通用信息模型.md "wikilink")（CIM）标准的实现。
 
-WMI允许[脚本语言](../Page/脚本语言.md "wikilink")（例如[VBScript](../Page/VBScript.md "wikilink")或[Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")）来本地或远程管理[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")和[服务器](../Page/服务器.md "wikilink")。WMI预装在[Windows 2000及更新版的微软](../Page/Windows_2000.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，它也可以手动下载以适用于[Windows NT](../Page/Windows_NT.md "wikilink")、[Windows 95和](../Page/Windows_95.md "wikilink")[Windows 98等操作系统](../Page/Windows_98.md "wikilink")\[1\]。\[2\]
+WMI预装在[Windows 2000及更新版的微软](../Page/Windows_2000.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，适用于[Windows NT](../Page/Windows_NT.md "wikilink")、[Windows 95和](../Page/Windows_95.md "wikilink")[Windows 98等操作系统](../Page/Windows_98.md "wikilink")，\[1\]\[2\]並允许使用[脚本语言](../Page/脚本语言.md "wikilink")（例如[VBScript](../Page/VBScript.md "wikilink")或[Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")）来本地或远程管理[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")和[服务器](../Page/服务器.md "wikilink")。
 
-微软为WMI提供了一个称之为**Windows Management Instrumentation Command-line**（**WMIC**）的[命令行界面](../Page/命令行界面.md "wikilink")。\[3\]
+微软亦为WMI提供了一个称为**Windows Management Instrumentation Command-line**（**WMIC**）的[命令行界面](../Page/命令行界面.md "wikilink")。\[3\]
 
 ## WMI目的
 
-WMI的目的是定义一系列独立于环境的专有规范，允许管理信息在管理应用程序之间共享。WMI规定了[企业管理标准以及现有的适用于Windows的相关技术](https://zh.wikipedia.org/wiki/企业管理 "wikilink")，例如（DMI）和[SNMP](../Page/简单网络管理协议.md "wikilink")。WMI通过提供统一的模型来补充其他标准。该模型表示可以通过一种常用方式来访问受管环境的任何来源的管理数据。
+WMI通过提供统一的模型来补充其他标准。该模型表示可以通过一种常用方式来访问受管环境的任何来源的管理数据。其規範目的是定义一系列独立于环境的专有规范，並允许管理信息在管理应用程序之间共享。此規範规定了[企业管理标准以及现有的适用于Windows的相关技术](https://zh.wikipedia.org/wiki/企业管理 "wikilink")，例如（DMI）和[SNMP](../Page/简单网络管理协议.md "wikilink")。
 
 ## 开发过程
 
-因为WMI使用CIM和提供者集合来抽取可管理的实体，所以提供者的开发意味着数个步骤。主要步骤可归纳如下：
+因为WMI使用了CIM 物件管理員和資料提供者(Provider) 集合来抽取可管理的实体\[4\]，資料提供者程序的开发可意味着有数个步骤。主要步骤如下：
 
 1.  创建可管理的实体模型
     1.  定义一个模型
     2.  实现该模型
-2.  创建WMI提供者
-    1.  确定要实现的提供者类型
-    2.  确定该提供者的托管模型
-    3.  用ALT向导创建提供者模板
-    4.  在该提供者中实现代码逻辑
-    5.  使用WMI和该系统注册该提供者
-3.  测试该提供者
+2.  创建WMI資料提供者
+    1.  确定要实现的資料提供者类型
+    2.  确定该資料提供者的托管模型
+    3.  用ALT向导创建資料提供者模板
+    4.  在该資料提供者中实现代码逻辑
+    5.  使用WMI和该系统注册该資料提供者
+3.  测试该資料提供者
 4.  创建使用者样本代码
 
-## WMI提供者的重要性
+## WMI資料提供者的重要性
 
-自从[Windows NT 4.0](../Page/Windows_NT_4.0.md "wikilink") SP4时代的第一个WMI实现发布（作为外部下载）以来，微软一直在向Windows添加WMI提供者：
+自从[Windows NT 4.0](../Page/Windows_NT_4.0.md "wikilink") SP4的第一个作为外部下载的WMI发布以来，微软一直向WindowsWMI提供添加的功能：
 
-  - 在Windows NT 4.0上，安装WMI后，微软提供了大约15个可用的WMI提供者
-  - 在[Windows 2000发布之时](../Page/Windows_2000.md "wikilink")，微软已发布29个WMI提供者作为操作系统预装的一部分
-  - 在[Windows Server 2003发布时](../Page/Windows_Server_2003.md "wikilink")，微软在平台上包含80多个WMI提供者
-  - [Windows Vista包含](../Page/Windows_Vista.md "wikilink")13个新的WMI提供者\[4\]，总数量接近100个
-  - [Windows Server 2008包含更多提供者](../Page/Windows_Server_2008.md "wikilink")，例如用于[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink") 7、[PowerShell和](../Page/Windows_PowerShell.md "wikilink")[虚拟化的提供者](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")
+  - 在Windows NT 4.0，安装WMI后，微软提供了大约15个可用的WMI資料提供者
+  - 在[Windows 2000发布时](../Page/Windows_2000.md "wikilink")，微软已发布29个WMI資料提供者作为操作系统预装的一部分
+  - 在[Windows Server 2003发布时](../Page/Windows_Server_2003.md "wikilink")，微软在平台上包含80多个WMI資料提供者
+  - [Windows Vista中包含](../Page/Windows_Vista.md "wikilink")13个新的WMI資料提供者\[5\]，总数量接近100个
+  - [Windows Server 2008包含更多資料提供者](../Page/Windows_Server_2008.md "wikilink")，例如用于[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink") 7、[PowerShell和](../Page/Windows_PowerShell.md "wikilink")[虚拟化的資料提供者](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")
 
-许多客户解读了提供者数量的增长，认为这表示着WMI已经成为微软Windows一项“无处不在”的管理层，即使微软从未明确承诺这点。
+即使微软从未明确承诺，有许多客户將資料提供者数量的增长解釋为WMI已经成为微软Windows一项“无处不在”管理层的標志。
 
-因为Windows中通过WMI管理数据的不断增加，[信息技术](../Page/信息技术.md "wikilink")领域的人员开始开发基于WMI的脚本和自动化程序。除了脚本需求外，大多数领先的管理软件（包括[MOM](../Page/MOM.md "wikilink")、、ADS、[HP](../Page/惠普.md "wikilink")  for Windows（HPOV）、[BMC Software](../Page/BMC軟件公司.md "wikilink")、[CA, Inc](https://zh.wikipedia.org/wiki/CA科技 "wikilink")）都提供WMI功能，允许通过各种用户接口使用或提供WMI信息。这使得不能在WMI层面上编程的[系统管理员](../Page/系统管理员.md "wikilink")和操作员无需编写脚本或程序，也能享受到WMI的优势，甚至无需了解它。
+由於Windows中通过WMI管理数据不断增加，[信息技术](../Page/信息技术.md "wikilink")领域的人员开始开发基于WMI的脚本和自动化程序。除了脚本需求外，大多数领先的管理软件（包括[MOM](../Page/MOM.md "wikilink")、、ADS、[HP](../Page/惠普.md "wikilink")  for Windows（HPOV）、[BMC Software](../Page/BMC軟件公司.md "wikilink")、[CA, Inc](https://zh.wikipedia.org/wiki/CA科技 "wikilink")）都提供WMI功能，亦允许通过各种用户接口使用或提供WMI信息。这使得无法在WMI上编程的[系统管理员](../Page/系统管理员.md "wikilink")和操作员无需预先了解也能享受到WMI的优势。
 
 ## 特性
 
-对于愿意开发一个或多个WMI提供者的人来说，WMI提供了许多特性的开箱即用。
+对于愿意开发一个或多个WMI提供者的人来说，WMI提供了许多「開箱即用」的特性。
 
 ## 参考资料
 
@@ -64,4 +64,5 @@ WMI的目的是定义一系列独立于环境的专有规范，允许管理信�
 1.  [WMI Redistributable for Windows NT](http://www.microsoft.com/downloads/details.aspx?familyid=C174CFB1-EF67-471D-9277-4C2B1014A31E&displaylang=en)
 2.
 3.  [Description of WMIC](http://support.microsoft.com/kb/290216)
-4.  [Windows Vista Client Manageability](http://download.microsoft.com/download/b/e/3/be37cbce-425e-45c2-a9f5-378026b5be81/04-d-WinMgmtTech-v03-TOURB-FINAL.ppt)
+4.
+5.  [Windows Vista Client Manageability](http://download.microsoft.com/download/b/e/3/be37cbce-425e-45c2-a9f5-378026b5be81/04-d-WinMgmtTech-v03-TOURB-FINAL.ppt)

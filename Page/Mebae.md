@@ -158,7 +158,7 @@ KADOKAWA</p></td>
 
   - 忌野律蝶羽（[集英社](../Page/集英社.md "wikilink")，《》第11號－第12號）
 
-### 主要參加動畫作品
+### 動畫參加作品
 
   - 廣島祐介名義
 
@@ -187,13 +187,15 @@ KADOKAWA</p></td>
 
   - [BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（總承包商：[Ordet](../Page/Ordet.md "wikilink")、2010年，原畫）
 
-  - [Six♥Princess](http://fukuhen.lammfromm.jp/?p=7824)（導演：，2010年，人物設定）
+  - （導演：，2010年，人物設定）
 
   - [C](../Page/C_\(動畫\).md "wikilink")（總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，2011年，人物設定）
 
   - [罪惡王冠](../Page/罪惡王冠.md "wikilink")（總承包商：[Production I.G 6課](../Page/Production_I.G.md "wikilink")、2011年，第9話片尾插圖）
 
   - [問題兒童都來自異世界？](../Page/問題兒童都來自異世界？.md "wikilink")（總承包商：[diomedéa](https://zh.wikipedia.org/wiki/diomedéa "wikilink")，2013年，第2話片尾插圖）
+
+  - SixHeartsPrincess（總承包商：STUDIO PONCOTAN、，2016年，試播版分鏡）
 
 ### 遊戲
 

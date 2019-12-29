@@ -62,7 +62,6 @@
 [Category:美国陆军荣誉勋章获得者](https://zh.wikipedia.org/wiki/Category:美国陆军荣誉勋章获得者 "wikilink") [Category:陆军杰出服役勋章获得者](https://zh.wikipedia.org/wiki/Category:陆军杰出服役勋章获得者 "wikilink") [Category:功绩勋章获得者](https://zh.wikipedia.org/wiki/Category:功绩勋章获得者 "wikilink") [Category:国防部优异服役勋章获得者](https://zh.wikipedia.org/wiki/Category:国防部优异服役勋章获得者 "wikilink") [Category:马里昂军事学院校长](https://zh.wikipedia.org/wiki/Category:马里昂军事学院校长 "wikilink") [Category:美国陆军中将](https://zh.wikipedia.org/wiki/Category:美国陆军中将 "wikilink") [Category:美國越戰人物](https://zh.wikipedia.org/wiki/Category:美國越戰人物 "wikilink") [Category:西点军校校友](https://zh.wikipedia.org/wiki/Category:西点军校校友 "wikilink") [Category:麻薩諸塞州人](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州人 "wikilink")
 
 1.
-
 2.
 3.
 4.

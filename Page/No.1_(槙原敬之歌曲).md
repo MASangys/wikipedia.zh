@@ -21,9 +21,9 @@
 
   - （2008年，專輯「Ska Flavor \#1」）
 
-## 來源
+## 參考來源
 
-[Category:槙原敬之歌曲](https://zh.wikipedia.org/wiki/Category:槙原敬之歌曲 "wikilink") [Category:1993年單曲](https://zh.wikipedia.org/wiki/Category:1993年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:1993年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1993年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:槙原敬之歌曲](https://zh.wikipedia.org/wiki/Category:槙原敬之歌曲 "wikilink") [Category:1993年單曲](https://zh.wikipedia.org/wiki/Category:1993年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:1993年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1993年Oricon單曲週榜冠軍作品 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
 
 1.
 2.

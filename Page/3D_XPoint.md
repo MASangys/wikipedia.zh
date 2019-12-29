@@ -45,40 +45,26 @@
 [Category:電腦記憶體](https://zh.wikipedia.org/wiki/Category:電腦記憶體 "wikilink") [Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink") [Category:非易失性存储器](https://zh.wikipedia.org/wiki/Category:非易失性存储器 "wikilink")
 
 1.
-
 2.  [Why 3D XPoint Isn’t Phase Change Memory](http://www.eetimes.com/author.asp?section_id=36&doc_id=132735)
-
 3.
-
 4.
-
 5.   <https://hubb.blob.core.windows.net/5a741d00-0c8a-45e4-9112-cfe073fe4ed1-published/3fde87a3-3307-485e-8528-2c1f6436d737/MASTC01%20-%20MASTC01_-_SF16_MASTC01_102?sv=2014-02-14&sr=c&sig=QY6WHaQ267MeMFMaYT%2BfUJuBzMTkEwjrsv7%2BCzSr6pY%3D&se=2016-10-09T17%3A50%3A09Z&sp=r>
-
 6.
 7.
-
 8.
 9.
 10.
 11.
 12. By Chris Mellor, The Register. “[Goodbye: XPoint is Intel's best exit from NAND production hell](http://www.theregister.co.uk/2016/04/21/xpoint_is_intels_exit_from_nand_production_hell/).” April 21, 2016. April 22, 2016.
-
 13.
-
 14.
 15.
 16.
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.

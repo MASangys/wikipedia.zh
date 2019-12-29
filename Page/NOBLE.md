@@ -9,20 +9,12 @@
 [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:Versailles音樂專輯](https://zh.wikipedia.org/wiki/Category:Versailles音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.  [NEO Magazine](http://www.neomag.co.uk) (10-02-2010)
-
 4.  [Versaille's UK show news](https://web.archive.org/web/20120302175828/http://www.neomag.co.uk/news.asp?intID=1054)
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
