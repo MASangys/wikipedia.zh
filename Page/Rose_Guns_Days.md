@@ -51,7 +51,7 @@
 
 ## 漫画
 
-《Rose Guns Days》有漫画改编并在史克威尔艾尼克斯和讲谈社旗下的漫画杂志上连载，并有[单行本出版](https://zh.wikipedia.org/wiki/单行本 "wikilink")。面向[北美地区](../Page/北美地区.md "wikilink")的英文翻译版本由代理出版\[8\]。至今暂无官方中文化翻译版本。
+《Rose Guns Days》有漫画改编并在史克威尔艾尼克斯和讲谈社旗下的漫画杂志上连载，并有[单行本](../Page/单行本.md "wikilink")出版。面向[北美地区](../Page/北美地区.md "wikilink")的英文翻译版本由代理出版\[8\]。至今暂无官方中文化翻译版本。
 
 <table>
 <thead>

@@ -19,7 +19,7 @@
 ### 隧道修築工事用鐵路車輛
 
   - [聖哥達基線隧道](../Page/聖哥達基線隧道.md "wikilink")
-  - [英法海底隧道](https://zh.wikipedia.org/wiki/英法海底隧道 "wikilink")
+  - [英法海底隧道](../Page/英法海底隧道.md "wikilink")
   - [倫敦地鐵](https://zh.wikipedia.org/wiki/倫敦地鐵 "wikilink")
 
 ### 調車機車

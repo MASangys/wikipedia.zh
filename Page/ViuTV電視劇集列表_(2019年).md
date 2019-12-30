@@ -536,7 +536,7 @@ Mama Fairy and the Woodcutter</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>05/12-<br />
 <br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a><br />
 Legal High</p></td>
 <td style="text-align: center;"></td>
@@ -722,7 +722,7 @@ About Time</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>25/12-<br />
 21/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a><br />
 Dark City</p></td>
 <td style="text-align: center;"><p>20</p></td>
@@ -1032,7 +1032,7 @@ The Liar &amp; His Lover</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>19/11-<br />
 01/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a><br />
 Love in the moonlight</p></td>
 <td style="text-align: center;"><p>23</p></td>
@@ -1143,7 +1143,7 @@ Detective Yugami</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>03/12-<br />
 01/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2020年)" title="wikilink">續20年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/午夜伴廊.md" title="wikilink">午夜伴廊</a><br />
 Midnight Cousin</p></td>
 <td style="text-align: center;"><p>20</p></td>

@@ -37,7 +37,7 @@ CZ 75 D緊湊型的衍生型：PČR緊湊型（PČR意為：捷克警察）由�
   - [CZ 85半自動手槍](../Page/CZ_85半自動手槍.md "wikilink")
   - [CZ 97半自動手槍](../Page/CZ_97半自動手槍.md "wikilink")
   - [CZ 100半自動手槍](https://zh.wikipedia.org/wiki/CZ_100半自動手槍 "wikilink")
-  - [CZ 110半自動手槍](https://zh.wikipedia.org/wiki/CZ_110半自動手槍 "wikilink")
+  - [CZ 110半自動手槍](../Page/CZ_110半自動手槍.md "wikilink")
   - [CZ 2075 RAMI半自動手槍](https://zh.wikipedia.org/wiki/CZ_2075_RAMI半自動手槍 "wikilink")
   - [CZ P-10 C半自動手槍](../Page/CZ_P-10_C半自動手槍.md "wikilink")
   - [白頭山手槍](../Page/白頭山手槍.md "wikilink")

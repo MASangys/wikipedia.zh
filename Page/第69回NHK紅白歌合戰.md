@@ -229,7 +229,7 @@
 
   - [佐藤健](../Page/佐藤健.md "wikilink")：演員，本年春季NHK晨間劇《[一半，藍色。](../Page/一半，藍色。.md "wikilink")》中飾演萩尾律。
 
-  - [出川哲朗](https://zh.wikipedia.org/wiki/出川哲朗 "wikilink")：[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，明年NHK電視節目《超級實驗綜藝很厲害哦！出川先生》主持人。
+  - [出川哲朗](https://zh.wikipedia.org/wiki/出川哲朗 "wikilink")：[搞笑藝人](../Page/搞笑藝人.md "wikilink")，明年NHK電視節目《超級實驗綜藝很厲害哦！出川先生》主持人。
 
   - [永野芽郁](../Page/永野芽郁.md "wikilink")：演員，本年春季NHK晨間劇《一半，藍色。》飾演主角・鈴愛。
 

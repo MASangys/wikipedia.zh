@@ -1,4 +1,4 @@
-**iPhone 11 Pro**和**iPhone 11 Pro Max**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[智能手機](../Page/智能手机.md "wikilink")。兩款都是繼iPhone XS和iPhone XS Max之後，iPhone的第13代旗艦產品。它們於2019年9月10日於[蘋果園區](../Page/蘋果園區.md "wikilink")的史蒂夫·喬布斯劇院（Steve Jobs Theater）中，蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[提姆·庫克](../Page/提姆·庫克.md "wikilink")對它與低端型號[iPhone 11一同亮相並作出簡介](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")。新型號從[iPhone XS有著重大變化](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")，就是該款手機配備了全新的後置三鏡頭拍攝系統\[1\]，還有新研發的[Apple A13晶片](https://zh.wikipedia.org/wiki/Apple_A13 "wikilink")\[2\]。iPhone 11是蘋果公司的第一款具有「專業」稱號的iPhone\[3\]，此名稱之前只用於較大尺寸的蘋果公司產品（例如[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")）\[4\]。該型號是第一款包含18W快速充電器及Lightning轉換USB-C電線的iPhone，讓它可以跟Mac電腦連接\[5\]。
+**iPhone 11 Pro**和**iPhone 11 Pro Max**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[智能手機](../Page/智能手机.md "wikilink")。兩款都是繼iPhone XS和iPhone XS Max之後，iPhone的第13代旗艦產品。它們於2019年9月10日於[蘋果園區](../Page/蘋果園區.md "wikilink")的史蒂夫·喬布斯劇院（Steve Jobs Theater）中，蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[提姆·庫克](../Page/提姆·庫克.md "wikilink")對它與低端型號[iPhone 11一同亮相並作出簡介](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")。新型號從[iPhone XS有著重大變化](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")，就是該款手機配備了全新的後置三鏡頭拍攝系統\[1\]，還有新研發的[Apple A13晶片](../Page/Apple_A13.md "wikilink")\[2\]。iPhone 11是蘋果公司的第一款具有「專業」稱號的iPhone\[3\]，此名稱之前只用於較大尺寸的蘋果公司產品（例如[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")）\[4\]。該型號是第一款包含18W快速充電器及Lightning轉換USB-C電線的iPhone，讓它可以跟Mac電腦連接\[5\]。
 
 預售日期從2019年9月13日開始，並於2019年9月20日正式發行\[6\]。
 
@@ -12,7 +12,7 @@ iPhone 11 Pro和Pro Max均有四種顏色可供選擇：金色、太空灰、銀
 
 ### 硬件
 
-iPhone 11 Pro及Pro Max都配備了[Apple A13Bionic處理器](https://zh.wikipedia.org/wiki/Apple_A13 "wikilink")。兩款型號都有３種容量可供選擇：64GB、256GB，及最大的512GB。它們均維持上一代一樣4GB的RAM\[10\]\[11\]。兩款型號 的防水等級均為IP68的防水防塵等級，能夠在4米的水深抵禦30分鐘。然而保修不再包括手機的任何由水引致的損壞\[12\]。此外，兩款型號與之前的iPhone一樣，這兩款皆沒有耳機插孔，並隨機配備帶Lightning接口的有線EarPods\[13\]。iPhone 11 Pro是首款配備18W快速充電器的iPhone，不再是iPhone 11及之前iPhone型號中配備的5W充電器\[14\]。
+iPhone 11 Pro及Pro Max都配備了[Apple A13Bionic處理器](../Page/Apple_A13.md "wikilink")。兩款型號都有３種容量可供選擇：64GB、256GB，及最大的512GB。它們均維持上一代一樣4GB的RAM\[10\]\[11\]。兩款型號 的防水等級均為IP68的防水防塵等級，能夠在4米的水深抵禦30分鐘。然而保修不再包括手機的任何由水引致的損壞\[12\]。此外，兩款型號與之前的iPhone一樣，這兩款皆沒有耳機插孔，並隨機配備帶Lightning接口的有線EarPods\[13\]。iPhone 11 Pro是首款配備18W快速充電器的iPhone，不再是iPhone 11及之前iPhone型號中配備的5W充電器\[14\]。
 
 ### 螢幕
 

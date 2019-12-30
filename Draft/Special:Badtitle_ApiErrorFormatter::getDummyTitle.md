@@ -23,7 +23,7 @@ UBI Taiwan [台灣無條件基本收入協會為致力推動](https://zh.wikiped
 
 <!-- end list -->
 
-  - 核心成員有媒體連絡人廖芷妮、蘇嘉冠，以及宋至晟、[朱智德等人](https://zh.wikipedia.org/wiki/朱智德 "wikilink")。
+  - 核心成員有媒體連絡人廖芷妮、蘇嘉冠，以及宋至晟、[朱智德](../Page/朱智德.md "wikilink")等人。
 
 ## 參考文獻
 

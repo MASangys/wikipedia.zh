@@ -16,7 +16,7 @@
 
 ## 评价
 
-本作获得了中等程度的评价。游戏评价机构[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")分别为本作打出68.31分\[4\]和67分\[5\]（满分均为100分）。在评论得分方面，本作也获得了从五成到八成不等的得分。
+本作获得了中等程度的评价。游戏评价机构[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")分别为本作打出68.31分\[4\]和67分\[5\]（满分均为100分）。在评论得分方面，本作也获得了从五成到八成不等的得分。
 
 ## 注解
 

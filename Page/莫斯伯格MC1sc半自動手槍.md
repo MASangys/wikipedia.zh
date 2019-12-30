@@ -25,7 +25,7 @@ MC1sc是一款[撞針](../Page/撞針.md "wikilink")擊發的聚合物框架手�
 
   - [S\&W M\&P護盾型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
 
-  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PPS半自動手槍 "wikilink")
+  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS半自動手槍](../Page/瓦爾特PPS半自動手槍.md "wikilink")
 
   - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特CCP半自動手槍 "wikilink")
 

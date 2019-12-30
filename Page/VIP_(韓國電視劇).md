@@ -400,7 +400,7 @@
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[朝鮮浪漫喜劇–綠豆傳](../Page/朝鮮浪漫喜劇–綠豆傳.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[抓住幽靈](../Page/抓住幽靈.md "wikilink")》、《[Black Dog](../Page/Black_Dog_\(電視劇\).md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[花黨：朝鮮婚姻介紹所](../Page/花黨：朝鮮婚姻介紹所.md "wikilink")》、《[輔佐官2–改變世界的人們](../Page/輔佐官2–改變世界的人們.md "wikilink")》、《[檢察官內傳](https://zh.wikipedia.org/wiki/檢察官內傳 "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[花黨：朝鮮婚姻介紹所](../Page/花黨：朝鮮婚姻介紹所.md "wikilink")》、《[輔佐官2–改變世界的人們](../Page/輔佐官2–改變世界的人們.md "wikilink")》、《[檢察官內傳](../Page/檢察官內傳.md "wikilink")》
 
 ## 參考資料
 

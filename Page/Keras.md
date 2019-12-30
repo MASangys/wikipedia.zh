@@ -6,7 +6,7 @@
 
 Keras包含许多常用神经网络构建块的实现，例如层、[目标](https://zh.wikipedia.org/wiki/损失函数 "wikilink")、[激活函数](../Page/激活函数.md "wikilink")、[优化器和一系列工具](../Page/最优化.md "wikilink")，可以更轻松地处理图像和文本数据。其代码托管在[GitHub](../Page/GitHub.md "wikilink")上，社区支持论坛包括GitHub的问题页面和Slack通道。
 
-除标准神经网络外，Keras还支持[卷积神经网络](../Page/卷积神经网络.md "wikilink")和[循环神经网络](https://zh.wikipedia.org/wiki/循环神经网络 "wikilink")。其他常见的实用公共层支持有Dropout、批量归一化和池化层等。\[9\]
+除标准神经网络外，Keras还支持[卷积神经网络](../Page/卷积神经网络.md "wikilink")和[循环神经网络](../Page/循环神经网络.md "wikilink")。其他常见的实用公共层支持有Dropout、批量归一化和池化层等。\[9\]
 
 Keras允许用户在智能手机（[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")）、网页或[Java虚拟机](../Page/Java虚拟机.md "wikilink")上制作深度模型\[10\]，还允许在[圖形處理器](../Page/圖形處理器.md "wikilink")和[张量处理器](../Page/张量处理器.md "wikilink")的集群上使用深度学习模型的分布式训练\[11\]。
 

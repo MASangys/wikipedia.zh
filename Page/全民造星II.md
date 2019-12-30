@@ -1,6 +1,6 @@
 《**全民造星II**》（英語：King Maker II）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的大型選秀節目，是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的第二季。比賽由2019年9月30日至12月6日於[ViuTV](../Page/ViuTV.md "wikilink")播出，而《全民造星II總決賽》（英語：King Maker II Final Competition）於12月15日在[將軍澳](../Page/將軍澳.md "wikilink")[邵氏影城進行總決賽舉行](https://zh.wikipedia.org/wiki/邵氏影城 "wikilink")，ViuTV現場直播，總決賽結束後緊接播出《造星彩蛋II》（英語：King Maker II Final Competition After Show）\[1\]\[2\]\[3\]。
 
-最終[吳啟洋](https://zh.wikipedia.org/wiki/吳啟洋 "wikilink")（Phoebus）奪得冠軍，而亞軍和季軍分別由[張天賦](https://zh.wikipedia.org/wiki/張天賦 "wikilink")（MC）和[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）奪得。
+最終[吳啟洋](../Page/吳啟洋.md "wikilink")（Phoebus）奪得冠軍，而亞軍和季軍分別由[張天賦](https://zh.wikipedia.org/wiki/張天賦 "wikilink")（MC）和[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）奪得。
 
 ## 簡介
 
@@ -10,7 +10,7 @@
 
 #### 第一輪比賽：96強進60強（第2－13集）
 
-  - 星級評判團：[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[陳詠燊](https://zh.wikipedia.org/wiki/陳詠燊 "wikilink")、[黃天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")、[王貽興](../Page/王貽興.md "wikilink")、[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")（MIRROR 12人共同操控一盞藍燈）
+  - 星級評判團：[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[陳詠燊](https://zh.wikipedia.org/wiki/陳詠燊 "wikilink")、[黃天頤](../Page/黃天頤.md "wikilink")、[王貽興](../Page/王貽興.md "wikilink")、[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")（MIRROR 12人共同操控一盞藍燈）
   - 星級導師團：[火火](../Page/火火.md "wikilink")、[Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")、[陳潔靈](../Page/陳潔靈.md "wikilink")
 
 每名參賽者準備一分半鐘表演，並按照編號順序出場作賽。賽前於[Eye Catching Idol選舉](https://www.facebook.com/pg/ViuTV.hk/photos/?tab=album&album_id=2250203885235020&ref=page_internal)得到最多「心心」的五位參賽者，可直接入圍60強。與上季不同，他們亦需要按編號順序參與比賽，並接受評判的評分，但評分並不會影響入圍結果。第一輪比賽原為99強，但錄影前27號、33號及84號參賽者已退選。\[4\]
@@ -2618,7 +2618,7 @@
 
 備註：
 
-  - 最終14號[吳啟洋](https://zh.wikipedia.org/wiki/吳啟洋 "wikilink")（Phoebus）、20號[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）、38號[范卓言](https://zh.wikipedia.org/wiki/范卓言 "wikilink")（JJ）、69號[阮頌揚](../Page/阮頌揚.md "wikilink")（Brian）、74號[歐鎮灝](https://zh.wikipedia.org/wiki/歐鎮灝 "wikilink")（George）及82號[丘凱雄](https://zh.wikipedia.org/wiki/丘凱雄 "wikilink")（Hugo）晉級終極10強。
+  - 最終14號[吳啟洋](../Page/吳啟洋.md "wikilink")（Phoebus）、20號[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）、38號[范卓言](https://zh.wikipedia.org/wiki/范卓言 "wikilink")（JJ）、69號[阮頌揚](../Page/阮頌揚.md "wikilink")（Brian）、74號[歐鎮灝](https://zh.wikipedia.org/wiki/歐鎮灝 "wikilink")（George）及82號[丘凱雄](https://zh.wikipedia.org/wiki/丘凱雄 "wikilink")（Hugo）晉級終極10強。
 
 <table>
 <thead>

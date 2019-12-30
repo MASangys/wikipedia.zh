@@ -841,7 +841,7 @@ Rhapsody In Property</p></td>
 <td style="text-align: center;"><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊</a><br />
 ERROR Crazy Trip</p></td>
 <td style="text-align: center;"><p>15</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
@@ -1071,7 +1071,7 @@ Taiwan Meimei</p></td>
 <td style="text-align: center;"><p><a href="../Page/花姐ERROR遊.md" title="wikilink">花姐ERROR遊 2</a><br />
 ERROR Crazy Trip 2</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
 </tr>
@@ -3672,7 +3672,7 @@ Your Face Your Fate II</p></td>
 <td style="text-align: center;"><p>27/10-<br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Chill_Club" title="wikilink">Chill Club</a><br />
+<td style="text-align: center;"><p><a href="../Page/Chill_Club.md" title="wikilink">Chill Club</a><br />
 Chill Club</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/湯寶如.md" title="wikilink">湯寶如</a>、<a href="../Page/彭家麗.md" title="wikilink">彭家麗</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
@@ -3723,7 +3723,7 @@ Mirror Go</p></td>
 <td style="text-align: center;"><p>06/10-<br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/港男入贅手冊" title="wikilink">港男入贅手冊</a><br />
+<td style="text-align: center;"><p><a href="../Page/港男入贅手冊.md" title="wikilink">港男入贅手冊</a><br />
 Hong Kong Guys foreign Love Guide</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/郭嘉駿.md" title="wikilink">郭嘉駿</a>、<a href="https://zh.wikipedia.org/wiki/吳保錡" title="wikilink">吳保錡</a>、<a href="https://zh.wikipedia.org/wiki/歐陽仲豪" title="wikilink">歐陽仲豪</a>、<a href="../Page/林明禎.md" title="wikilink">林明禎</a>、<a href="../Page/陳健安.md" title="wikilink">陳健安</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、</p></td>
@@ -4011,7 +4011,7 @@ Fai Gor appreciation of Bistro S2</p></td>
 ERROR CNY Show</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a><br />
-嘉賓：<a href="https://zh.wikipedia.org/wiki/黃慧君" title="wikilink">花姐</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
+嘉賓：<a href="../Page/黃慧君.md" title="wikilink">花姐</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/唐寧_(香港).md" title="wikilink">唐寧</a>、<a href="../Page/江若琳.md" title="wikilink">江若琳</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/劉浩龍.md" title="wikilink">劉浩龍</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/李健宏.md" title="wikilink">KB</a>、<a href="https://zh.wikipedia.org/wiki/雲文子" title="wikilink">雲文子</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><br />
 演出：、、、</p></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/error-cny-show">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>賀年節目</strong><br />

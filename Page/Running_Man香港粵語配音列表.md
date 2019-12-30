@@ -547,7 +547,7 @@
 </tr>
 <tr class="even">
 <td><p>特別出演</p></td>
-<td><p><a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a>(#3.16)、<a href="https://zh.wikipedia.org/wiki/金東範" title="wikilink">金東範</a>(#4.08)、(#4.25)、<a href="../Page/李昇勳.md" title="wikilink">李昇勳</a>(#11.16)、<a href="https://zh.wikipedia.org/wiki/姜澯熙" title="wikilink">澯熙</a>(#11.25)、金鎮雄(#12.03)</p></td>
+<td><p><a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a>(#3.16)、<a href="https://zh.wikipedia.org/wiki/金東範" title="wikilink">金東範</a>(#4.08)、(#4.25)、<a href="../Page/李昇勳.md" title="wikilink">李昇勳</a>(#11.16)、<a href="../Page/姜澯熙.md" title="wikilink">澯熙</a>(#11.25)、金鎮雄(#12.03)</p></td>
 <td></td>
 </tr>
 <tr class="odd">

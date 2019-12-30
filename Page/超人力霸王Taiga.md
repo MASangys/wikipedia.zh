@@ -70,7 +70,7 @@
 <p><strong>工藤ヒロユキ</strong><br />
 <strong>（）</strong></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/井上祐貴" title="wikilink">井上祐貴</a></p></td>
+<p><a href="../Page/井上祐貴.md" title="wikilink">井上祐貴</a></p></td>
 <td><p><strong>超人力霸王大河</strong>、<strong>超人力霸王泰塔斯</strong>、<strong>超人力霸王風真</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
 </tr>
 <tr class="odd">

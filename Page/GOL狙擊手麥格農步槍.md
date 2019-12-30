@@ -1,6 +1,6 @@
 **GOL狙擊手麥格農步槍**（；GOL全寫：**G**ottfrieds **O**riginelle **L**ösungen，意為：戈特弗里德的原始解決方案）是一款由[德国](../Page/德国.md "wikilink")[黑森](../Page/黑森.md "wikilink")州[比克瑙的槍械製造商GOL](https://zh.wikipedia.org/wiki/比克瑙 "wikilink")-馬蒂奇有限公司所研製和生產的[手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[.308溫徹斯特](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")）、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300 Win Mag，7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-這款武器的生產公司，GOL馬蒂奇有限公司於1986年，由戈特弗里德·普雷希特最初以狩獵及運動武器戈特弗里德·普雷希特之名所創立。該公司的[座右銘是](https://zh.wikipedia.org/wiki/座右銘 "wikilink")：『沒有什麼比這更便宜了……但也沒有什麼能夠比你做得更好了，它不適用於「重新發明輪子」……車輪早已存在』。
+這款武器的生產公司，GOL馬蒂奇有限公司於1986年，由戈特弗里德·普雷希特最初以狩獵及運動武器戈特弗里德·普雷希特之名所創立。該公司的[座右銘](../Page/座右銘.md "wikilink")是：『沒有什麼比這更便宜了……但也沒有什麼能夠比你做得更好了，它不適用於「重新發明輪子」……車輪早已存在』。
 
 該步槍分為戰術型以及運動與比賽型兩種配置。它是以奧地利[斯泰爾SSG 69為藍本加以研發而成](../Page/斯泰爾SSG_69狙擊步槍.md "wikilink")。
 

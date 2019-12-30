@@ -275,7 +275,7 @@
 ## 同時段作品
 
   - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[V.I.P](../Page/VIP_\(韓國電視劇\).md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[檢察官內傳](https://zh.wikipedia.org/wiki/檢察官內傳 "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[檢察官內傳](../Page/檢察官內傳.md "wikilink")》
 
 ## 參考資料
 

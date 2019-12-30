@@ -84,7 +84,7 @@
 
   - ：知名主持人，曾擔任過2屆紅白的紅組主持。
 
-  - [三明治人](../Page/三明治人.md "wikilink")：[搞笑藝人二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，[2020年東京奧運聖火傳遞的官方大使](../Page/2020年夏季奥林匹克运动会.md "wikilink")。
+  - [三明治人](../Page/三明治人.md "wikilink")：[搞笑藝人](../Page/搞笑藝人.md "wikilink")二人組，[2020年東京奧運聖火傳遞的官方大使](../Page/2020年夏季奥林匹克运动会.md "wikilink")。
 
   - ：職業高爾夫球手。
 

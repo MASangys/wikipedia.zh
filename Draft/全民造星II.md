@@ -4,7 +4,7 @@
 
 ### 第一輪比賽：99強進60強（第2集起）
 
-  - 星級評判團：[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")、[黃天頤](https://zh.wikipedia.org/wiki/黃天頤 "wikilink")、[王貽興](../Page/王貽興.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[陳詠燊](https://zh.wikipedia.org/wiki/陳詠燊 "wikilink")
+  - 星級評判團：[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")、[黃天頤](../Page/黃天頤.md "wikilink")、[王貽興](../Page/王貽興.md "wikilink")、[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[陳詠燊](https://zh.wikipedia.org/wiki/陳詠燊 "wikilink")
   - 星級導師團：[火火](../Page/火火.md "wikilink")、[Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")
 
 出場次序為參賽者之參賽編號。與上季不同，直接入圍60強的五位參賽者繼續按照編號出場，評判事前亦不知道該五人直接入圍。

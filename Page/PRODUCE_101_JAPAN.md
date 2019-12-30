@@ -1,4 +1,4 @@
-《**PRODUCE 101 JAPAN**》是[日本](../Page/日本.md "wikilink")[吉本興業](../Page/吉本興業.md "wikilink")與[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[CJ E\&M共同策划的](../Page/CJ_E&M.md "wikilink")[實境節目](../Page/真人實境秀.md "wikilink")，節目以《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》作為藍本，以101名來自日本各地的練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個长期活动的團體\[1\]並於2020年正式出道\[2\]。節目最終回中公布團體名為[JO1](https://zh.wikipedia.org/wiki/JO1 "wikilink")（）。
+《**PRODUCE 101 JAPAN**》是[日本](../Page/日本.md "wikilink")[吉本興業](../Page/吉本興業.md "wikilink")與[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[CJ E\&M共同策划的](../Page/CJ_E&M.md "wikilink")[實境節目](../Page/真人實境秀.md "wikilink")，節目以《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》作為藍本，以101名來自日本各地的練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個长期活动的團體\[1\]並於2020年正式出道\[2\]。節目最終回中公布團體名為[JO1](../Page/JO1.md "wikilink")（）。
 
 ## 導師
 

@@ -22,7 +22,7 @@
 
 ## 評價與銷量
 
-《特技摩托賽HD》推出後廣受好評，在評論匯總網站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")上分別獲得了86.1%和86分的佳績\[39\]\[40\]。本作上市首月即賣出超過30萬份\[41\]；2010年9月14日，RedLynx宣布本作銷量已突破130萬份\[42\]。另外，本作的第一個和第二個[可下載內容分別賣出了](https://zh.wikipedia.org/wiki/可下載內容 "wikilink")36萬和9萬份\[43\]\[44\]。2011年5月27日，RedLynx宣布本作銷量突破200萬份\[45\]。2009年，《特技摩托賽HD》獲Xbox社群票選為最佳Arcade遊戲和最佳創新遊戲\[46\]。2010年9月，《特技摩托賽HD》在[IGN](../Page/IGN.md "wikilink")的「前25佳Xbox Live Arcade遊戲」名單中排名第16名\[47\]。本作還獲得電玩雜誌《》的「完美」評價\[48\]。
+《特技摩托賽HD》推出後廣受好評，在評論匯總網站[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")上分別獲得了86.1%和86分的佳績\[39\]\[40\]。本作上市首月即賣出超過30萬份\[41\]；2010年9月14日，RedLynx宣布本作銷量已突破130萬份\[42\]。另外，本作的第一個和第二個[可下載內容分別賣出了](https://zh.wikipedia.org/wiki/可下載內容 "wikilink")36萬和9萬份\[43\]\[44\]。2011年5月27日，RedLynx宣布本作銷量突破200萬份\[45\]。2009年，《特技摩托賽HD》獲Xbox社群票選為最佳Arcade遊戲和最佳創新遊戲\[46\]。2010年9月，《特技摩托賽HD》在[IGN](../Page/IGN.md "wikilink")的「前25佳Xbox Live Arcade遊戲」名單中排名第16名\[47\]。本作還獲得電玩雜誌《》的「完美」評價\[48\]。
 
 輿論多對本作遊戲內容和遊戲性抱持正面看法。IGN的狄蒙·哈特費爾德（Daemon Hatfield）表示：「《特技摩托賽HD》的內容有一卡車那麼多。」並表示本作「真正地活用了Xbox Live的機能。」\[49\]。[GameTrailers](../Page/GameTrailers.md "wikilink")的編輯認為本作內容豐富，「物超所值」\[50\]。[Eurogamer](../Page/Eurogamer.md "wikilink")的湯姆·布拉姆威爾（Tom Bramwell）表示，「《特技摩托賽HD》能讓人一玩再玩」\[51\]。[Giant Bomb的布萊德](../Page/Giant_Bomb.md "wikilink")·舒梅克（Daemon Hatfield）則對遊戲的排行榜功能予以高度評價\[52\]。
 

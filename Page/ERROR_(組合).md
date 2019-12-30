@@ -1,6 +1,6 @@
 **ERROR**是香港男子跳唱及[搞笑團體](https://zh.wikipedia.org/wiki/搞笑 "wikilink")，於2018年12月2日出道，以「騎呢cam爆男子組合」為定位。\[1\]
 
-**ERROR**為[ViuTV](../Page/ViuTV.md "wikilink")選秀節目《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的其中一隊衍生組合，隊員由節目其中4位參賽者組成，隊名源自[惡搞另一隊於全民造星誕生的跳唱組合](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")。團隊經理人為《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的其中一個監製[黃慧君](https://zh.wikipedia.org/wiki/黃慧君 "wikilink")（花姐）及其導演 [Vinci Tang](https://zh.wikipedia.org/wiki/Vinci_Tang "wikilink")（大濟哥）。
+**ERROR**為[ViuTV](../Page/ViuTV.md "wikilink")選秀節目《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的其中一隊衍生組合，隊員由節目其中4位參賽者組成，隊名源自[惡搞另一隊於全民造星誕生的跳唱組合](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")。團隊經理人為《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的其中一個監製[黃慧君](../Page/黃慧君.md "wikilink")（花姐）及其導演 [Vinci Tang](https://zh.wikipedia.org/wiki/Vinci_Tang "wikilink")（大濟哥）。
 
 ## 發展歷程
 
@@ -68,21 +68,21 @@
 
 ### 綜藝節目（ViuTV）
 
-| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|節目名稱                   | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
-| --------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| 2019年                                         | Good Night Show 個個得把口                                             | 193                                             |                                               |
-| 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")                        | 全體                                              | 訪問嘉賓                                          |
-| 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")                        | 全體                                              |                                               |
-| 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                                    | 全體                                              |                                               |
-| 2019年                                         | 見習女神                                                              | 肥仔                                              |                                               |
-| 2019年                                         | Cooking Gigi 台灣篇                                                  | 肥仔、保錡                                           |                                               |
-| 2019年                                         | [估你唔到](../Page/估你唔到.md "wikilink")                                | 肥仔、保錡、193                                       | 第1-2集嘉賓                                       |
-| 2019年                                         | [花姐ERROR遊 2](../Page/花姐ERROR遊.md "wikilink")                      | 全體                                              |                                               |
-| 2019年                                         | [全民造星II](../Page/全民造星II.md "wikilink")                            | 肥仔                                              | 幕後人員                                          |
-| 2019年                                         | [港男入贅手冊](https://zh.wikipedia.org/wiki/港男入贅手冊 "wikilink")         | 保錡、193                                          | 第5-8集主持                                       |
-| 2019年                                         | [Chill Club](https://zh.wikipedia.org/wiki/Chill_Club "wikilink") | 全體                                              | 第3集嘉賓                                         |
-| 2019年                                         | [Chill Club](https://zh.wikipedia.org/wiki/Chill_Club "wikilink") | 肥仔                                              | 第4集嘉賓                                         |
-| 2020年                                         | 辣伙頭                                                               | 保錡、193                                          | 嘉賓                                            |
+| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|節目名稱 | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
+| --------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| 2019年                                         | Good Night Show 個個得把口                           | 193                                             |                                               |
+| 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")      | 全體                                              | 訪問嘉賓                                          |
+| 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")      | 全體                                              |                                               |
+| 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                  | 全體                                              |                                               |
+| 2019年                                         | 見習女神                                            | 肥仔                                              |                                               |
+| 2019年                                         | Cooking Gigi 台灣篇                                | 肥仔、保錡                                           |                                               |
+| 2019年                                         | [估你唔到](../Page/估你唔到.md "wikilink")              | 肥仔、保錡、193                                       | 第1-2集嘉賓                                       |
+| 2019年                                         | [花姐ERROR遊 2](../Page/花姐ERROR遊.md "wikilink")    | 全體                                              |                                               |
+| 2019年                                         | [全民造星II](../Page/全民造星II.md "wikilink")          | 肥仔                                              | 幕後人員                                          |
+| 2019年                                         | [港男入贅手冊](../Page/港男入贅手冊.md "wikilink")          | 保錡、193                                          | 第5-8集主持                                       |
+| 2019年                                         | [Chill Club](../Page/Chill_Club.md "wikilink")  | 全體                                              | 第3集嘉賓                                         |
+| 2019年                                         | [Chill Club](../Page/Chill_Club.md "wikilink")  | 肥仔                                              | 第4集嘉賓                                         |
+| 2020年                                         | 辣伙頭                                             | 保錡、193                                          | 嘉賓                                            |
 
 ### 劇集（ViuTV）
 

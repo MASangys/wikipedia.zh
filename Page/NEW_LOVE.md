@@ -30,7 +30,7 @@
 
 ## 宣傳
 
-本作是[日本年號從](https://zh.wikipedia.org/wiki/日本年號 "wikilink")[平成](../Page/平成.md "wikilink")變更為[令和](../Page/令和.md "wikilink")後的首張作品。於[2019年](../Page/2019年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")變更年號時，在[澀谷十字路口前的](https://zh.wikipedia.org/wiki/澀谷路口 "wikilink")[澀谷東急百貨本店牆面上揭示了發售通知的屋外看板](../Page/東急百貨店.md "wikilink")。截至同年[5月3日](../Page/5月3日.md "wikilink")所揭示的是設計為平成與令和年號的限定視覺，蘊含著感謝平成與歡迎令和之意。截至[5月4日](../Page/5月4日.md "wikilink")〜[5月14日](../Page/5月14日.md "wikilink")所揭示的是使用了專輯封面原圖的視覺形象。透過[AR](../Page/擴增實境.md "wikilink") [app掃描看板](https://zh.wikipedia.org/wiki/app "wikilink")，即可獲得AR限定預約購入特典券\[21\]。
+本作是[日本年號從](https://zh.wikipedia.org/wiki/日本年號 "wikilink")[平成](../Page/平成.md "wikilink")變更為[令和](../Page/令和.md "wikilink")後的首張作品。於[2019年](../Page/2019年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")變更年號時，在[澀谷十字路口前的](../Page/澀谷路口.md "wikilink")[澀谷東急百貨本店牆面上揭示了發售通知的屋外看板](../Page/東急百貨店.md "wikilink")。截至同年[5月3日](../Page/5月3日.md "wikilink")所揭示的是設計為平成與令和年號的限定視覺，蘊含著感謝平成與歡迎令和之意。截至[5月4日](../Page/5月4日.md "wikilink")〜[5月14日](../Page/5月14日.md "wikilink")所揭示的是使用了專輯封面原圖的視覺形象。透過[AR](../Page/擴增實境.md "wikilink") [app掃描看板](https://zh.wikipedia.org/wiki/app "wikilink")，即可獲得AR限定預約購入特典券\[21\]。
 
 本作的[電視廣告](../Page/電視廣告.md "wikilink")是由在將曲目5「」使用為主題歌的[江崎固力果](../Page/江崎固力果.md "wikilink")「[Pocky](https://zh.wikipedia.org/wiki/Pocky "wikilink")」廣告中出演的女演員[宮澤理惠](../Page/宮澤理惠.md "wikilink")擔任解說詞旁白\[22\]。
 

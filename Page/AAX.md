@@ -4,7 +4,7 @@ AAX（全稱：Atom Asset Exchange）是一家數字貨幣[交易所](https://zh
 
 AAX於2018年成立，其現任行政總裁為Thor Chan\[4\]\[5\]。
 
-倫敦證券交易所的Millennium交易平台撮合引擎應用於超過40個金融市場，包括[倫敦證券交易所](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")、[香港證券交易所](https://zh.wikipedia.org/wiki/香港證券交易所 "wikilink")、[約翰尼斯堡證券交易所](https://zh.wikipedia.org/wiki/約翰尼斯堡證券交易所 "wikilink")、[新加坡交易所](../Page/新加坡交易所.md "wikilink")、TP-ICAP\[6\]\[7\]\[8\]。
+倫敦證券交易所的Millennium交易平台撮合引擎應用於超過40個金融市場，包括[倫敦證券交易所](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")、[香港證券交易所](https://zh.wikipedia.org/wiki/香港證券交易所 "wikilink")、[約翰尼斯堡證券交易所](../Page/約翰尼斯堡證券交易所.md "wikilink")、[新加坡交易所](../Page/新加坡交易所.md "wikilink")、TP-ICAP\[6\]\[7\]\[8\]。
 
 ## 產品
 

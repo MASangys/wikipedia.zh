@@ -18,7 +18,7 @@
 ### 2016至2020年度
 
   - 2016年度第一名：《[10 Count](../Page/10_Count.md "wikilink")》[寶井理人](https://zh.wikipedia.org/wiki/寶井理人 "wikilink")\[9\]
-  - 2017年度第一名：《憂鬱的早晨》[日高翔子](https://zh.wikipedia.org/wiki/日高翔子 "wikilink")\[10\]
+  - 2017年度第一名：《憂鬱的早晨》[日高翔子](../Page/日高翔子.md "wikilink")\[10\]
   - 2018年度第一名：《百與卍》[紗久樂さわ](https://zh.wikipedia.org/wiki/紗久樂さわ "wikilink")\[11\]
   - 2019年度第一名：《徘徊期的少年》（ラムスプリンガの情景）[吾妻香夜](https://zh.wikipedia.org/wiki/吾妻香夜 "wikilink")\[12\]
   - 2020年度第一名：《新裝版あちらこちらぼくら》たなと\[13\]

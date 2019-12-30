@@ -91,7 +91,7 @@
 
   - ，[非建制地區](https://zh.wikipedia.org/wiki/非建制地區 "wikilink")
 
-  - [艾達 （路易斯安那州）](https://zh.wikipedia.org/wiki/艾达_\(路易斯安那州\) "wikilink")，一個村莊
+  - [艾達 （路易斯安那州）](../Page/艾达_\(路易斯安那州\).md "wikilink")，一個村莊
 
   - [艾達縣 （愛荷華州）](https://zh.wikipedia.org/wiki/艾達縣_\(愛荷華州\) "wikilink")
 

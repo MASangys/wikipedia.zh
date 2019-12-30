@@ -33,7 +33,7 @@
 
 另一方面對這種良好狀況不認同的[恐怖組織](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")「滅亡迅雷.net」，將Humagear駭入使其失控，企圖消滅人類。然而政府早已查知他們的行動，並設立直屬於[內閣官房](../Page/內閣官房.md "wikilink")的對人工智能特務機關「A.I.M.S.」。目的在於鎮壓失控的AI機器人與維持治安。
 
-其中，沒有搞笑才能卻以[搞笑藝人為目標的飛電或人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，其活躍的搞笑場地遭到AI奪走。因而受到打擊的或人，得知創立「飛電Intelligence」的創辦人同時為社長的祖父死訊。在他遺留下來的遺言中，指定或人擔任「飛電Intelligence」的第二任社長。
+其中，沒有搞笑才能卻以[搞笑藝人](../Page/搞笑藝人.md "wikilink")為目標的飛電或人，其活躍的搞笑場地遭到AI奪走。因而受到打擊的或人，得知創立「飛電Intelligence」的創辦人同時為社長的祖父死訊。在他遺留下來的遺言中，指定或人擔任「飛電Intelligence」的第二任社長。
 
 對若大企業的社長沒興趣的或人，在其眼前卻出現因「滅亡迅雷.net」的駭入而失控的Humagear。因此接受只有「飛電Intelligence」的社長才能擁有的「飛電ZERO-ONE驅動器」，進而變身成假面騎士ZERO-ONE。
 

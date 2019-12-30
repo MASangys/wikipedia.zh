@@ -21,7 +21,7 @@
   -
   - ，新澤西東北的街區
 
-  - [哈瓦那 (北达科他州)](https://zh.wikipedia.org/wiki/哈瓦那_\(北达科他州\) "wikilink")
+  - [哈瓦那 (北达科他州)](../Page/哈瓦那_\(北达科他州\).md "wikilink")
 
   -
   -

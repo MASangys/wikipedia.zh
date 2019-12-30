@@ -16,7 +16,7 @@ iPhone 11搭载一块6.1英寸的圆角Liquid [视网膜LCD显示屏](https://zh
 
 ### 性能
 
-iPhone 11搭载[Apple A13 **Bionic**](https://zh.wikipedia.org/wiki/Apple_A13 "wikilink")，该芯片采用7纳米制程，共集成85亿个晶体管，在性能和功耗上皆较上代有较大改进。
+iPhone 11搭载[Apple A13 **Bionic**](../Page/Apple_A13.md "wikilink")，该芯片采用7纳米制程，共集成85亿个晶体管，在性能和功耗上皆较上代有较大改进。
 
 ## 參考文獻
 

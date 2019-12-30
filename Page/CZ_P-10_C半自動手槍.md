@@ -64,7 +64,7 @@ CZ P-10 C被評為“2017年度手槍”獎。\[23\]
   - [CZ 82半自動手槍](../Page/CZ_82半自動手槍.md "wikilink")
   - [CZ 97半自動手槍](../Page/CZ_97半自動手槍.md "wikilink")
   - [CZ 100半自動手槍](https://zh.wikipedia.org/wiki/CZ_100半自動手槍 "wikilink")
-  - [CZ 110半自動手槍](https://zh.wikipedia.org/wiki/CZ_110半自動手槍 "wikilink")
+  - [CZ 110半自動手槍](../Page/CZ_110半自動手槍.md "wikilink")
   - [CZ 2075 RAMI半自動手槍](https://zh.wikipedia.org/wiki/CZ_2075_RAMI半自動手槍 "wikilink")
 
 ## 資料來源

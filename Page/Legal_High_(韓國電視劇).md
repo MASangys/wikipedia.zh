@@ -152,7 +152,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/文藝元" title="wikilink">文藝元</a></p></td>
 <td><p>南雪熙</p></td>
 <td><p>在仁的大學同學。因爸爸是江南數一數二的建築物財閥，再加上有着教育熱情的媽媽，她順利地進入了法學院。但是，她在模擬考試中總是得到最高分數，但一進入考場就會出現頭髮發白的症狀，因此經過3年的復讀，終於瀟灑地放棄了考試，現在她以「爸爸準備的咖啡廳老闆」的身份生活。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植婉雯" title="wikilink">植婉雯</a></p></td>
+<td><p><a href="../Page/植婉雯.md" title="wikilink">植婉雯</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

@@ -392,7 +392,7 @@
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019_MBC演技大獎" title="wikilink">MBC演技大賞</a></p></td>
+<td><p><a href="../Page/2019_MBC演技大獎.md" title="wikilink">MBC演技大賞</a></p></td>
 <td><p>水木迷你劇部門<br />
 男子最優秀演技獎</p></td>
 <td><p><a href="../Page/金相中.md" title="wikilink">金相中</a></p></td>

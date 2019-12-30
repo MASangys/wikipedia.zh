@@ -4,7 +4,7 @@
 
 | 景区名称                                                         | 所在地级行政区                          | 所在县级行政区                                             | 最大游客承载量（人） |
 | ------------------------------------------------------------ | -------------------------------- | --------------------------------------------------- | ---------- |
-| [三河古镇](https://zh.wikipedia.org/wiki/三河镇_\(肥西县\) "wikilink") | [合肥市](../Page/合肥市.md "wikilink") | [肥西县](../Page/肥西县.md "wikilink")                    | 45000      |
+| [三河古镇](../Page/三河镇_\(肥西县\).md "wikilink")                    | [合肥市](../Page/合肥市.md "wikilink") | [肥西县](../Page/肥西县.md "wikilink")                    | 45000      |
 | 方特欢乐世界                                                       | [芜湖市](../Page/芜湖市.md "wikilink") | [鸠江区](https://zh.wikipedia.org/wiki/鸠江区 "wikilink") | 40000      |
 | 方特梦幻王国                                                       | 芜湖市                              | 鸠江区                                                 | 28000      |
 | 方特东方神画                                                       | 芜湖市                              | 鸠江区                                                 | 10000      |
@@ -18,7 +18,7 @@
 | [棠樾牌坊群](https://zh.wikipedia.org/wiki/棠樾牌坊群 "wikilink")-鲍家花园 | 黄山市                              | [歙县](../Page/歙县.md "wikilink")                      | 15000      |
 | [宏村](../Page/宏村.md "wikilink")景区                             | 黄山市                              | [黟县](../Page/黟县.md "wikilink")                      | 66100      |
 | [西递景区](../Page/西递村.md "wikilink")                            | 黄山市                              | 黟县                                                  | 66100      |
-| 八里河景区                                                        | [阜阳市](../Page/阜阳市.md "wikilink") | [颍上县](https://zh.wikipedia.org/wiki/颍上县 "wikilink") | 80000      |
+| 八里河景区                                                        | [阜阳市](../Page/阜阳市.md "wikilink") | [颍上县](../Page/颍上县.md "wikilink")                    | 80000      |
 | [万佛湖景区](../Page/龙河口水库.md "wikilink")                         | [六安市](../Page/六安市.md "wikilink") | [舒城县](../Page/舒城县.md "wikilink")                    | 30000      |
 | [天堂寨](../Page/天堂寨.md "wikilink")旅游景区                         | 六安市                              | [金寨县](../Page/金寨县.md "wikilink")                    | 50000      |
 | [九华山](../Page/九华山.md "wikilink")风景名胜区                        | [池州市](../Page/池州市.md "wikilink") | [青阳县](https://zh.wikipedia.org/wiki/青阳县 "wikilink") | 90000      |
