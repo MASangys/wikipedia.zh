@@ -436,7 +436,7 @@ MP5在[土耳其](../Page/土耳其.md "wikilink")、[希臘](https://zh.wikiped
 
   -   - [英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（A3、SD、K）
 
-      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（SF）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](../Page/特種槍械司令部.md "wikilink")（SF）
 
       - 槍械授權警員（SF）
 

@@ -77,7 +77,7 @@ Wiki提供至少一个[标题搜索](https://zh.wikipedia.org/wiki/标题搜索 
   - [群件](https://zh.wikipedia.org/wiki/群件 "wikilink")
   - [知識管理](https://zh.wikipedia.org/wiki/知識管理 "wikilink")
   - [知識共享](https://zh.wikipedia.org/wiki/知識共享 "wikilink")
-  - [MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")
+  - [MediaWiki](../Page/MediaWiki.md "wikilink")
   - [社会性软件](../Page/社会性软件.md "wikilink")
   - [Web 2.0](../Page/Web_2.0.md "wikilink")
   - [Wiki软件比较](../Page/Wiki软件比较.md "wikilink")

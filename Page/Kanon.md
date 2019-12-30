@@ -122,9 +122,9 @@ Kanon在1999年6月4日作為[十八禁遊戲發售](https://zh.wikipedia.org/wi
 
 ### 漫畫
 
-本遊戲改编的，由負責[插圖的漫画于](https://zh.wikipedia.org/wiki/插圖 "wikilink")2000年2月號至2002年7月號在[Media Works的杂志](https://zh.wikipedia.org/wiki/Media_Works "wikilink")《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》上连载，漫画的标题也为《Kanon》。\[42\]\[43\]兩本漫画[单行本于](https://zh.wikipedia.org/wiki/单行本 "wikilink")2000年9月至2002年7月27日发售。\[44\]\[45\]
+本遊戲改编的，由負責[插圖的漫画于](https://zh.wikipedia.org/wiki/插圖 "wikilink")2000年2月號至2002年7月號在[Media Works的杂志](https://zh.wikipedia.org/wiki/Media_Works "wikilink")《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》上连载，漫画的标题也为《Kanon》。\[42\]\[43\]兩本漫画[单行本](../Page/单行本.md "wikilink")于2000年9月至2002年7月27日发售。\[44\]\[45\]
 
-由[霜月絹鯊](../Page/霜月絹鯊.md "wikilink")作畫的漫画于2006年6月30日\[46\]至2007年10月20日在[角川書店](../Page/角川書店.md "wikilink")下的杂志《[Dragon Age Pure](../Page/Dragon_Age_Pure.md "wikilink")》连载，漫画的标题也为《Kanon 真正的思念是對方的微笑》。兩本漫画[单行本于](https://zh.wikipedia.org/wiki/单行本 "wikilink")2007年4月1日至12月8日由[富士見書房](../Page/富士見書房.md "wikilink")发售。\[47\]\[48\]
+由[霜月絹鯊](../Page/霜月絹鯊.md "wikilink")作畫的漫画于2006年6月30日\[46\]至2007年10月20日在[角川書店](../Page/角川書店.md "wikilink")下的杂志《[Dragon Age Pure](../Page/Dragon_Age_Pure.md "wikilink")》连载，漫画的标题也为《Kanon 真正的思念是對方的微笑》。兩本漫画[单行本](../Page/单行本.md "wikilink")于2007年4月1日至12月8日由[富士見書房](../Page/富士見書房.md "wikilink")发售。\[47\]\[48\]
 
 Key公司也授權推出2套與自家[個人電腦遊戲相關的系列漫畫](../Page/个人电脑.md "wikilink")，而在這些作品內容中也收錄了與《Kanon》主題的[讀切作品](https://zh.wikipedia.org/wiki/單篇 "wikilink")。其中角川書店於2002年5月將所繪製的短篇漫畫經過整理，另外推出了名為《Kanon & Air Sky》（）的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。其中在《Kanon & Air Sky》之中內容總共收錄了12篇、共計140頁的短篇漫畫，每個章節則是收錄原本Key推出的視覺小說《Kanon》和《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》所沒有描述的故事，並且以交互呈現的方式收錄在作品選集中\[49\]\[50\]。另外同樣經過Key公司的授權，[Enterbrain](../Page/Enterbrain.md "wikilink")於2003年8月推出了同樣以《Kanon》和《AIR》故事為題材、由所繪製的《》\[51\]\[52\]。
 
