@@ -51,7 +51,7 @@
   - 《[力人傳說](https://zh.wikipedia.org/wiki/力人傳說 "wikilink")》（[小畑健](../Page/小畑健.md "wikilink")）
   - 《[超能機動爺爺G](https://zh.wikipedia.org/wiki/超能機動爺爺G "wikilink")》（[土方茂](../Page/小畑健.md "wikilink")）
   - 《[忍空](../Page/忍空.md "wikilink")》（[桐山光侍](https://zh.wikipedia.org/wiki/桐山光侍 "wikilink")）
-  - 《[D・N・A²](../Page/DNA².md "wikilink")》、《[SHADOW LADY](https://zh.wikipedia.org/wiki/SHADOW_LADY "wikilink")》（[桂正和](../Page/桂正和.md "wikilink")）
+  - 《[D・N・A²](../Page/DNA².md "wikilink")》、《[SHADOW LADY](../Page/SHADOW_LADY.md "wikilink")》（[桂正和](../Page/桂正和.md "wikilink")）
   - 《[RASH\!\!](https://zh.wikipedia.org/wiki/RASH!! "wikilink")》（[北条司](../Page/北条司.md "wikilink")）
   - 《[翠山警匪雙子星](https://zh.wikipedia.org/wiki/翠山警匪雙子星 "wikilink")》（[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")）
   - 《[TOKYO 罪惡剋星](https://zh.wikipedia.org/wiki/TOKYO_罪惡剋星 "wikilink")》（[次原隆二](../Page/次原隆二.md "wikilink")）

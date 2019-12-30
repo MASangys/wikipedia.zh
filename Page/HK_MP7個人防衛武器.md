@@ -151,7 +151,7 @@ MP7採用4.6×30毫米是以早年的實驗性[HK36突擊步槍](../Page/HK36突
 
       - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")
 
-      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（MP7SF）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](../Page/特種槍械司令部.md "wikilink")（MP7SF）
 
   -   - [美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")\[39\]\[40\]
       - [部份地方警察單位](../Page/美國警察.md "wikilink")\[41\]\[42\]\[43\]

@@ -89,7 +89,7 @@ G3步槍在1959年被西德联邦国防军正式裝備，在1997年被[HK G36突
 
       - [英國武裝部隊](https://zh.wikipedia.org/wiki/英國軍事 "wikilink")（G3KA4命名為L100A1、[MC-51](../Page/MC-51卡賓槍.md "wikilink")）
       - [英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")（G3KA4、[G3SG/1及](https://zh.wikipedia.org/wiki/HK_G3SG/1狙擊步槍 "wikilink")[MC-51](../Page/MC-51卡賓槍.md "wikilink")）
-      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（G3KS）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](../Page/特種槍械司令部.md "wikilink")（G3KS）
 
   - —除原廠版本外，葡萄牙亦曾把生產線賣給美國一家槍械製造廠，其後該廠推出半自動民用型（類似[HK91](https://zh.wikipedia.org/wiki/HK91半自動步槍 "wikilink")）及執法部門型。
 

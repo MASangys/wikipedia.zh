@@ -1,4 +1,4 @@
-**白朗寧Auto-5**（，簡稱：**Auto-5**、**A-5**，意為：白朗寧自動五發式霰彈槍）是一款由[美国](../Page/美国.md "wikilink")著名[輕兵器设计家](https://zh.wikipedia.org/wiki/輕兵器 "wikilink")[约翰·勃朗宁](../Page/约翰·勃朗宁.md "wikilink")所研製、[後座作用](../Page/後座作用.md "wikilink")操作的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可發射[12鉛徑、16鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+**白朗寧Auto-5**（，簡稱：**Auto-5**、**A-5**，意為：白朗寧自動五發式霰彈槍）是一款由[美国](../Page/美国.md "wikilink")著名[輕兵器](../Page/輕兵器.md "wikilink")设计家[约翰·勃朗宁](../Page/约翰·勃朗宁.md "wikilink")所研製、[後座作用](../Page/後座作用.md "wikilink")操作的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，可發射[12鉛徑、16鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 這也是全球第一枝設計獲得成功的自動裝填霰彈槍，甚至直到1998年以前仍然在生產。而「Automatic 5」之名來自這枝自動裝填霰彈槍的5發霰彈藥筒裝彈量，其中4發霰彈藥筒就在[管式彈倉內](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，另外1發就在[膛室](../Page/膛室.md "wikilink")之內。
 

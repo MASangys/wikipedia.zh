@@ -3955,7 +3955,7 @@
 </tr>
 <tr class="odd">
 <td><p>409</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHADOW_LADY" title="wikilink">月光淑女</a></p></td>
+<td><p><a href="../Page/SHADOW_LADY.md" title="wikilink">月光淑女</a></p></td>
 <td><p><a href="../Page/桂正和.md" title="wikilink">桂正和</a></p></td>
 <td><p>－</p></td>
 <td><p>1995.31</p></td>

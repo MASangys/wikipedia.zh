@@ -224,7 +224,7 @@ G36在[2008年南奧塞梯衝突中出現過](https://zh.wikipedia.org/wiki/2008
 
       - \[91\]（G36CSF）
 
-      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")（G36CSF）
+      - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](../Page/特種槍械司令部.md "wikilink")（G36CSF）
 
       - 多個警察部門（G36K、G36C）
 

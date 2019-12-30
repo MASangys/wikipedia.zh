@@ -69,7 +69,7 @@ Altezza／IS銷往歐洲、北美和日本的掀背旅行車型號多了一個�
 
 在日本，Altezza RS 200型號有較多的改裝零配件，因為引擎的空間與[MR2](../Page/豐田MR2.md "wikilink")（SW20）或者[Celica](../Page/豐田Celica.md "wikilink")（ST202）相似，但卻提供了升級版本的雙重可變汽門正時系統（Dual VVT-i）。所以不少的改裝公司歷年來都有推出改裝版本的Altezza／IS。
 
-豐田歐洲車隊（TTE）首次發佈其首台改裝的IS 200，隨後幾年才有RMM公司發佈他們改裝的IS 300。MillenWorks公司改裝的所謂「IS 430」就在2003年於[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[拉斯維加斯的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")[美國汽車用品協會](https://zh.wikipedia.org/wiki/美國汽車用品協會 "wikilink")（SEMA）改裝車展上首次亮相。這台「IS 430」型號其實是一台IS 300搭載了一台來自[凌志GS的](https://zh.wikipedia.org/wiki/凌志GS "wikilink")4.3L[V8引擎](https://zh.wikipedia.org/wiki/V8 "wikilink")。不過凌志廠方指他們無意生產這台「IS 430」。在歐洲，豐田歐洲車隊改裝了一台搭載了[機械增壓](https://zh.wikipedia.org/wiki/機械增壓 "wikilink")4.3L[V8引擎的IS](https://zh.wikipedia.org/wiki/V8 "wikilink") 300，使它成為了一台可以輸出ECE標準405 PS（298 kW）動力，由靜止加速至時速100公里只需4.5秒的汽車。豐田歐洲車隊亦推出了一個機械增壓套裝，可以使一台IS 200的動力輸出可以達到ECE標準204 ps（150 kw）。
+豐田歐洲車隊（TTE）首次發佈其首台改裝的IS 200，隨後幾年才有RMM公司發佈他們改裝的IS 300。MillenWorks公司改裝的所謂「IS 430」就在2003年於[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[拉斯維加斯的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")[美國汽車用品協會](https://zh.wikipedia.org/wiki/美國汽車用品協會 "wikilink")（SEMA）改裝車展上首次亮相。這台「IS 430」型號其實是一台IS 300搭載了一台來自[凌志GS](../Page/凌志GS.md "wikilink")的4.3L[V8引擎](https://zh.wikipedia.org/wiki/V8 "wikilink")。不過凌志廠方指他們無意生產這台「IS 430」。在歐洲，豐田歐洲車隊改裝了一台搭載了[機械增壓](https://zh.wikipedia.org/wiki/機械增壓 "wikilink")4.3L[V8引擎的IS](https://zh.wikipedia.org/wiki/V8 "wikilink") 300，使它成為了一台可以輸出ECE標準405 PS（298 kW）動力，由靜止加速至時速100公里只需4.5秒的汽車。豐田歐洲車隊亦推出了一個機械增壓套裝，可以使一台IS 200的動力輸出可以達到ECE標準204 ps（150 kw）。
 
 與此同時，不少日本汽車改裝公司如HKS、Blitz、Top Secret、Tard、Power Enterprise及豐田汽車自己的[豐田競賽發展部門](https://zh.wikipedia.org/wiki/豐田競賽發展部門 "wikilink")（TRD）也開始發展不少提高性能的零配件，如機械增壓、渦輪增壓、節流閥，甚至完整的變換套裝。
 
@@ -79,7 +79,7 @@ Altezza／IS銷往歐洲、北美和日本的掀背旅行車型號多了一個�
 
 2005年年尾，經過徹底改款後的2006年款IS型號正式推出市場。「豐田Altezza」的名稱亦隨凌志正式引進日本市場而停止使用。在正式投產前，一台投產前的第二代IS型號示範車就曾於2005年的日內瓦汽車展展出。而銷情呆滯的凌志IS SportCross／豐田Altezza Gita旅行車就從第二代開始正式離開凌志汽車系列，停止生產。
 
-全新IS是繼2006年款性能型轎車[GS後](https://zh.wikipedia.org/wiki/凌志GS "wikilink")，第二台依據[L-finesse設計哲學而生產的汽車型號](https://zh.wikipedia.org/wiki/凌志#L-finesse "wikilink")。新一代的IS除了以光滑和酷似雙門小轎車的外型作為特徵之外，其長坡度的汽車頂和以重疊箭頭狀設計為基調的車頭和窗門設計亦是特色之一。這個予人整體感覺向前的設計令不少人回想起早期的凌志[LF-C概念雙門小轎車](https://zh.wikipedia.org/wiki/凌志LF#LF-C "wikilink")。最終，第二代IS在2005年的北美國際汽車展出首次亮相。
+全新IS是繼2006年款性能型轎車[GS後](../Page/凌志GS.md "wikilink")，第二台依據[L-finesse設計哲學而生產的汽車型號](https://zh.wikipedia.org/wiki/凌志#L-finesse "wikilink")。新一代的IS除了以光滑和酷似雙門小轎車的外型作為特徵之外，其長坡度的汽車頂和以重疊箭頭狀設計為基調的車頭和窗門設計亦是特色之一。這個予人整體感覺向前的設計令不少人回想起早期的凌志[LF-C概念雙門小轎車](https://zh.wikipedia.org/wiki/凌志LF#LF-C "wikilink")。最終，第二代IS在2005年的北美國際汽車展出首次亮相。
 
 在[日本](../Page/日本.md "wikilink")、[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")市場，共有三個版本發售：
 

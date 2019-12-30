@@ -61,7 +61,7 @@
       - [中華民國國軍](../Page/中華民國國軍.md "wikilink")
           - [中華民國憲兵](../Page/中華民國憲兵.md "wikilink")
 
-  -   - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")
+  -   - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特種槍械司令部](../Page/特種槍械司令部.md "wikilink")
 
   -   - 部份地方警察局的[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")
 

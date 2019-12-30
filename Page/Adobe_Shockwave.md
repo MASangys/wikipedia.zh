@@ -14,7 +14,7 @@ Shockwave一般由[Adobe](../Page/Adobe.md "wikilink") [Director制作](../Page/
 
 ## 应用
 
-虽然Shockwave预期的定位是各种在线[电影](../Page/电影.md "wikilink")和[动画](../Page/动画.md "wikilink")，但事实上它更多地被用于[游戏](../Page/游戏.md "wikilink")开发领域。它经常被使用在需要使用大量[图像资源的在线应用环境上](https://zh.wikipedia.org/wiki/图像 "wikilink")。在线学习工具涉及到物理的模拟、图表和计算，所以Shockwave也被大量应用。
+虽然Shockwave预期的定位是各种在线[电影](../Page/电影.md "wikilink")和[动画](../Page/动画.md "wikilink")，但事实上它更多地被用于[游戏](../Page/游戏.md "wikilink")开发领域。它经常被使用在需要使用大量[图像](../Page/图像.md "wikilink")资源的在线应用环境上。在线学习工具涉及到物理的模拟、图表和计算，所以Shockwave也被大量应用。
 
 ## 历史
 
