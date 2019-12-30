@@ -1,4 +1,4 @@
-**Miracast**是由[Wi-Fi聯盟於](https://zh.wikipedia.org/wiki/Wi-Fi聯盟 "wikilink")2012年所制定，以[Wi-Fi直連](https://zh.wikipedia.org/wiki/Wi-Fi直連 "wikilink")（Wi-Fi Direct）為基礎的無線顯示標準。支援此標準的消費性電子產品（又稱[3C裝置](https://zh.wikipedia.org/wiki/3C_\(商品代稱\) "wikilink")）可透過無線方式分享[視訊畫面](https://zh.wikipedia.org/wiki/視訊 "wikilink")，例如[手機可透過Miracast將影片或照片直接在](https://zh.wikipedia.org/wiki/手機 "wikilink")[電視或其他裝置播放而無需任何連接線](https://zh.wikipedia.org/wiki/電視 "wikilink")，也不需透過[無線熱點](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")（AP，Access Point）。
+**Miracast**是由[Wi-Fi聯盟於](https://zh.wikipedia.org/wiki/Wi-Fi聯盟 "wikilink")2012年所制定，以[Wi-Fi直連](https://zh.wikipedia.org/wiki/Wi-Fi直連 "wikilink")（Wi-Fi Direct）為基礎的無線顯示標準。支援此標準的消費性電子產品（又稱[3C裝置](../Page/3C_\(商品代稱\).md "wikilink")）可透過無線方式分享[視訊畫面](https://zh.wikipedia.org/wiki/視訊 "wikilink")，例如[手機可透過Miracast將影片或照片直接在](https://zh.wikipedia.org/wiki/手機 "wikilink")[電視或其他裝置播放而無需任何連接線](https://zh.wikipedia.org/wiki/電視 "wikilink")，也不需透過[無線熱點](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")（AP，Access Point）。
 
 ## 軟硬體支援
 

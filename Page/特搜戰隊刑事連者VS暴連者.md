@@ -85,7 +85,7 @@ VS系列</p></td>
     **今中笑里<small>｜**[西島未智](https://zh.wikipedia.org/wiki/西島未智 "wikilink")</small>
     **伯亞舞<small>｜**[坂野真彌](https://zh.wikipedia.org/wiki/坂野真彌 "wikilink")</small>
     **八手電話鱷<small>｜**[津久井教生](../Page/津久井教生.md "wikilink") 聲</small>
-    **真幌<small>｜**[櫻井映里](https://zh.wikipedia.org/wiki/櫻井映里 "wikilink")</small>
+    **真幌<small>｜**[櫻井映里](../Page/櫻井映里.md "wikilink")</small>
     **女服務生<small>｜**[小川摩起](https://zh.wikipedia.org/wiki/小川摩起 "wikilink")</small><small>（特別客串）</small>
     **女服務生<small>｜**[鈴木霞](../Page/鈴木霞.md "wikilink")</small><small>（特別客串）</small>
 

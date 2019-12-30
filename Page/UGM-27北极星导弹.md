@@ -4,7 +4,7 @@
 
 北極星的后续型是1972年开始发展的[波塞冬导弹](https://zh.wikipedia.org/wiki/UGM-73海神飛彈 "wikilink")（UGM-73 Poseidon）。海神在1980年代陸續於十艘新造的美國海軍[彈道潛艇上服役數年之後](https://zh.wikipedia.org/wiki/彈道潛艇 "wikilink")，又被更後繼的[三叉戟I型导弹取代](https://zh.wikipedia.org/wiki/三叉戟导弹 "wikilink")。
 
-在北極星的發展过程中采用了一些新的系统评估手段，包括项目评估与回顾技术[PERT](https://zh.wikipedia.org/wiki/PERT "wikilink")。它取代了过时的[甘特图表评估法](https://zh.wikipedia.org/wiki/甘特图 "wikilink")。
+在北極星的發展过程中采用了一些新的系统评估手段，包括项目评估与回顾技术[PERT](https://zh.wikipedia.org/wiki/PERT "wikilink")。它取代了过时的[甘特图](../Page/甘特图.md "wikilink")表评估法。
 
 ## 相关
 

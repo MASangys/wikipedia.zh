@@ -50,7 +50,7 @@ FN弩炮狙擊步槍的研發目的是參與2009年1月15日[美国](../Page/美
 
 槍機尾部是弩炮狙擊步槍的主要手動保險，當使用[拇指向下按動保險到位就處於保險位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，保險會卡住[擊針以起到保險作用](../Page/撞針.md "wikilink")；而當使用[拇指向上扳動保險就處於待擊位置](https://zh.wikipedia.org/wiki/拇指 "wikilink")，可以隨時扣動扳機進行射擊。弩炮狙擊步槍亦設有[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")（）。防跌落保險可以防止[擊針在此槍不慎摔落或受到各種巨大的撞擊以下釋放並且撞擊](../Page/撞針.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。手動保險和防跌落保險是弩炮狙擊步槍最初帶有的雙重保險系統。
 
-目前版本更改進設計，新增了在狙擊步槍設計史上極其罕見的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")。該保險位於背部，必需按壓才可發射以減低了[走火機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。新增握把式保險的原因是為了讓使用者在攜帶狙擊步槍進入作戰區域後，槍彈上膛和手動保險向上扳動保險到待擊位置時，供使用者安全攜帶狙擊步槍的最後一道保險，增加攜帶時的安全性。一般而言，握把式保險只在[手枪](../Page/手枪.md "wikilink")（例如[M1911系列和](../Page/M1911手槍.md "wikilink")[HS2000系列](https://zh.wikipedia.org/wiki/HS2000半自動手槍 "wikilink")）和[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")系列和[QCW-05系列](../Page/05式微声冲锋枪.md "wikilink")）上使用。不過從弩炮狙擊步槍的[精度測試結果而言](../Page/準確與精密.md "wikilink")，並未發現握把式保險會影響使用者的握持和射擊表現。
+目前版本更改進設計，新增了在狙擊步槍設計史上極其罕見的[握把式保險](https://zh.wikipedia.org/wiki/握把式保險 "wikilink")。該保險位於背部，必需按壓才可發射以減低了[走火機會](https://zh.wikipedia.org/wiki/走火 "wikilink")。新增握把式保險的原因是為了讓使用者在攜帶狙擊步槍進入作戰區域後，槍彈上膛和手動保險向上扳動保險到待擊位置時，供使用者安全攜帶狙擊步槍的最後一道保險，增加攜帶時的安全性。一般而言，握把式保險只在[手枪](../Page/手枪.md "wikilink")（例如[M1911系列和](../Page/M1911手槍.md "wikilink")[HS2000系列](../Page/HS2000半自動手槍.md "wikilink")）和[冲锋枪](../Page/冲锋枪.md "wikilink")（例如[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")系列和[QCW-05系列](../Page/05式微声冲锋枪.md "wikilink")）上使用。不過從弩炮狙擊步槍的[精度測試結果而言](../Page/準確與精密.md "wikilink")，並未發現握把式保險會影響使用者的握持和射擊表現。
 
 ### 槍托
 

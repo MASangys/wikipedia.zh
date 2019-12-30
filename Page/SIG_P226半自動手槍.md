@@ -994,7 +994,7 @@ SIG P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧
   - [三軍戰鬥手槍](https://zh.wikipedia.org/wiki/三軍戰鬥手槍 "wikilink")（Joint Combat Pistol，JCP）
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
-  - [HK P9S](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")
+  - [HK P9S](../Page/HK_P9S半自動手槍.md "wikilink")
   - [史密斯威森M459](../Page/史密斯威森M459半自動手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227半自動手槍.md "wikilink")
   - [SIG P228](../Page/SIG_P228半自動手槍.md "wikilink")

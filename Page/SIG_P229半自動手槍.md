@@ -345,7 +345,7 @@ P229經典型22不能夠與[SIG Sauer Mosquito](../Page/SIG蚊子半自動手槍
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [FN HP-DA](../Page/白朗寧雙動半自動手槍.md "wikilink")
-  - [HK P9S](https://zh.wikipedia.org/wiki/HK_P9S半自動手槍 "wikilink")
+  - [HK P9S](../Page/HK_P9S半自動手槍.md "wikilink")
   - [史密斯威森M459](../Page/史密斯威森M459半自動手槍.md "wikilink")
 
 ## 資料來源
