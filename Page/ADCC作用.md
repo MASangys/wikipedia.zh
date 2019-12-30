@@ -6,7 +6,7 @@
 
 ## 嗜酸性粒细胞的ADCC作用
 
-有些[寄生虫](../Page/寄生虫.md "wikilink")的细胞大小已经超过[吞噬作用](../Page/吞噬作用.md "wikilink")所能吞噬的范围，它们也有一个外部结构或，耐受由[中性粒细胞](../Page/中性粒细胞.md "wikilink")和[巨噬细胞](../Page/巨噬细胞.md "wikilink")所释放物质的攻击。而在[IgE定位在这些寄生虫上后](https://zh.wikipedia.org/wiki/免疫球蛋白E "wikilink")，[嗜酸性粒细胞的](https://zh.wikipedia.org/wiki/嗜酸性粒细胞 "wikilink")（FceRI）会识别这些IgE，随后发挥作用杀死寄生虫。
+有些[寄生虫](../Page/寄生虫.md "wikilink")的细胞大小已经超过[吞噬作用](../Page/吞噬作用.md "wikilink")所能吞噬的范围，它们也有一个外部结构或，耐受由[中性粒细胞](../Page/中性粒细胞.md "wikilink")和[巨噬细胞](../Page/巨噬细胞.md "wikilink")所释放物质的攻击。而在[IgE定位在这些寄生虫上后](../Page/免疫球蛋白E.md "wikilink")，[嗜酸性粒细胞的](https://zh.wikipedia.org/wiki/嗜酸性粒细胞 "wikilink")（FceRI）会识别这些IgE，随后发挥作用杀死寄生虫。
 
 ## 参考文献
 
