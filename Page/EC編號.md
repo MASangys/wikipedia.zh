@@ -43,7 +43,7 @@ A + O → AO (<small><strong>氧化</strong></small>)</p></td>
 <a href="../Page/水解酶.md" title="wikilink">水解酶</a></p></td>
 <td><p>從<a href="https://zh.wikipedia.org/wiki/底物" title="wikilink">底物以</a><a href="../Page/水解.md" title="wikilink">水解</a>來生成兩個化合物</p></td>
 <td><p>AB + H<sub>2</sub>O → AOH + BH</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/脂肪酶" title="wikilink">脂肪酶</a>， <a href="https://zh.wikipedia.org/wiki/澱粉酶" title="wikilink">澱粉酶</a>， <a href="https://zh.wikipedia.org/wiki/蛋白酶" title="wikilink">蛋白酶</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/脂肪酶" title="wikilink">脂肪酶</a>， <a href="https://zh.wikipedia.org/wiki/澱粉酶" title="wikilink">澱粉酶</a>， <a href="../Page/蛋白酶.md" title="wikilink">蛋白酶</a></p></td>
 </tr>
 <tr class="even">
 <td><p><br />

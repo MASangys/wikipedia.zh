@@ -129,7 +129,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/香港電影金像獎最佳動作設計" title="wikilink">最佳動作設計</a></p></td>
+<td><p><a href="../Page/香港電影金像獎最佳動作設計.md" title="wikilink">最佳動作設計</a></p></td>
 <td><p><a href="../Page/成家班.md" title="wikilink">成家班</a></p></td>
 <td></td>
 <td></td>

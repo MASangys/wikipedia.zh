@@ -637,7 +637,7 @@ AAA的男女成員在台前和幕後的一些親密互動，在愛好者羣體�
 </tr>
 <tr class="odd">
 <td><p><strong>AAA TOUR 2006 -1st ATTACK ROUND 2-</strong></p></td>
-<td><p>3月16日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a><br />
+<td><p>3月16日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a><br />
 3月19日 埼玉パストラルかぞ<br />
 3月22日 <a href="https://zh.wikipedia.org/wiki/NIIGATA_LOTS" title="wikilink">NIIGATA LOTS</a><br />
 3月24日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
@@ -649,13 +649,13 @@ AAA的男女成員在台前和幕後的一些親密互動，在愛好者羣體�
 <tr class="even">
 <td><p><strong>AAA TOUR 2006 -2nd ATTACK-</strong></p></td>
 <td><p>6月11日 福岡DRUM LOGOS<br />
-6月13日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a><br />
-6月15日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sapporo</a><br />
+6月13日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a><br />
+6月15日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sapporo</a><br />
 6月17日 新潟Phase<br />
-6月21日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a><br />
+6月21日 <a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a><br />
 6月23日 広島CLUB QUATTRO<br />
 6月27日 なんばHatch<br />
-6月29日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Tokyo</a> </p></td>
+6月29日 <a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a> </p></td>
 <td></td>
 <td></td>
 </tr>
@@ -670,23 +670,23 @@ AAA的男女成員在台前和幕後的一些親密互動，在愛好者羣體�
 <td><p><strong>AAA TOUR 2007 -4th ATTACK-</strong></p></td>
 <td><p>3月10日 ハーモニーホール座間<br />
 3月23日 なんばHatch<br />
-3月24日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a><br />
+3月24日 <a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a><br />
 3月28日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
 3月29日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
-4月1日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a><br />
+4月1日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a><br />
 4月3日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
 4月4日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a><br />
-4月15日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sapporo</a> </p></td>
+4月15日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sapporo</a> </p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>AAA TOUR 2007 -4th ATTACK ROUND 2-</strong></p></td>
-<td><p>6月13日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a><br />
+<td><p>6月13日 <a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a><br />
 6月14日 なんばHatch<br />
 6月19日 <a href="../Page/澀谷公會堂.md" title="wikilink">澀谷公會堂</a><br />
 6月20日 <a href="../Page/澀谷公會堂.md" title="wikilink">澀谷公會堂</a><br />
-6月22日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sapporo</a><br />
-6月27日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Fukuoka</a> </p></td>
+6月22日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sapporo</a><br />
+6月27日 <a href="../Page/Zepp.md" title="wikilink">Zepp Fukuoka</a> </p></td>
 <td></td>
 <td></td>
 </tr>
@@ -721,8 +721,8 @@ AAA的男女成員在台前和幕後的一些親密互動，在愛好者羣體�
 3月31日 <a href="../Page/澀谷公會堂.md" title="wikilink">澀谷公會堂</a><br />
 4月1日 <a href="../Page/澀谷公會堂.md" title="wikilink">澀谷公會堂</a><br />
 4月4日 <a href="https://zh.wikipedia.org/wiki/NHK大廳" title="wikilink">NHK大廳</a><br />
-4月6日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">ZEPP福岡</a><br />
-4月12日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">ZEPP札幌</a> </p></td>
+4月6日 <a href="../Page/Zepp.md" title="wikilink">ZEPP福岡</a><br />
+4月12日 <a href="../Page/Zepp.md" title="wikilink">ZEPP札幌</a> </p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -834,25 +834,25 @@ AAA的男女成員在台前和幕後的一些親密互動，在愛好者羣體�
 6月18日 秋田縣大會堂<br />
 6月25日 <a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a><br />
 6月26日 <a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a><br />
-6月28日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a><br />
-6月29日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a><br />
+6月28日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a><br />
+6月29日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a><br />
 7月1日 新潟縣民会館<br />
 7月7日 伊勢原市民文化会館 </p></td>
 <td><p>全國巡迴演唱</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>AAA 6th Anniversary Tour</strong></p></td>
-<td><p>9月7日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Tokyo</a><br />
-9月8日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Tokyo</a><br />
-9月10日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a><br />
-9月12日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a><br />
-9月13日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Nagoya</a><br />
-9月15日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Fukuoka</a><br />
-9月18日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sapporo</a><br />
-9月27日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Tokyo</a><br />
-9月28日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Tokyo</a><br />
-10月3日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Osaka</a><br />
-10月4日 <a href="https://zh.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Osaka</a> </p></td>
+<td><p>9月7日 <a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a><br />
+9月8日 <a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a><br />
+9月10日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a><br />
+9月12日 <a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a><br />
+9月13日 <a href="../Page/Zepp.md" title="wikilink">Zepp Nagoya</a><br />
+9月15日 <a href="../Page/Zepp.md" title="wikilink">Zepp Fukuoka</a><br />
+9月18日 <a href="../Page/Zepp.md" title="wikilink">Zepp Sapporo</a><br />
+9月27日 <a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a><br />
+9月28日 <a href="../Page/Zepp.md" title="wikilink">Zepp Tokyo</a><br />
+10月3日 <a href="../Page/Zepp.md" title="wikilink">Zepp Osaka</a><br />
+10月4日 <a href="../Page/Zepp.md" title="wikilink">Zepp Osaka</a> </p></td>
 <td><p>首次週年紀念全國巡迴演唱會</p></td>
 <td></td>
 </tr>

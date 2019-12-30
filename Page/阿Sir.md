@@ -22,7 +22,7 @@
 ## 相關條目
 
   - [香港語文](../Page/香港語文.md "wikilink")
-  - [香港粵語](https://zh.wikipedia.org/wiki/香港粵語 "wikilink")
+  - [香港粵語](../Page/香港粵語.md "wikilink")
   - [香港英語](https://zh.wikipedia.org/wiki/香港英語 "wikilink")
 
 [分類:香港特定人群稱謂](https://zh.wikipedia.org/wiki/分類:香港特定人群稱謂 "wikilink")

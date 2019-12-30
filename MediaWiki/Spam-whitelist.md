@@ -1,9 +1,7 @@
-`# 符合此列表的外部連結在被加入頁面時會被`[`MediaWiki:Spam-blacklist阻攔而無法加入`](../Page/MediaWiki:Spam-blacklist.md "wikilink")`，因此有此白名單防止過度阻攔`
-`# 黑名單僅在中文維基百科有效，維基媒體計劃共用的黑名單列表請見`[`:meta:Spam``
- ``blacklist`](../Page/:meta:Spam_blacklist.md "wikilink")
-`# Mediawiki軟體對黑名單列表的詳細說明請見`[`:mw:Extension:SpamBlacklist`](../Page/:mw:Extension:SpamBlacklist.md "wikilink")
-`# 管理员可以通过`[`seth's``
- ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
+`# 符合此列表的外部連結在被加入頁面時會被`[`MediaWiki:Spam-blacklist阻攔而無法加入`](../MediaWiki/Spam-blacklist.md "wikilink")`，因此有此白名單防止過度阻攔`
+`# 黑名單僅在中文維基百科有效，維基媒體計劃共用的黑名單列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
+`# Mediawiki軟體對黑名單列表的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")
+`# 管理员可以通过`[`seth's``   ``tool`](https://tools.wmflabs.org/searchsbl/?userdeflang=zh&userdefproj=w)`在垃圾链接黑名单中搜索匹配项`
 `#  `
 
 ```
@@ -18,6 +16,7 @@
 #   * Every non-blank line is a regex fragment which will only match hosts
 #     inside URLs
 
+hilive\.tv\/news
 wenku\.baidu\.com\/link\?
 # Does not completely work as expected due to [[bugzilla:65848|bugzilla:65848]].
 (?<=\.|\/)voafanti\.com(?::\d+)?\/gate\/big5\/(?=(?:[a-z0-9_\-.]+\.)?voachinese\.com\/)
@@ -100,6 +99,7 @@ facebook\.com\/groups\/wp\.eduprog\.tw #台灣教育專案
 facebook\.com\/groups\/WikiTyphoons # 漢語維基氣象學編輯社群 ([[Wikipedia:太平洋颱風季專題|Wikipedia:太平洋颱風季專題]])
 www\.ptt\.cc\/bbs\/NTU\/M\.1527347855\.A\.D33\.html # [[Wikipedia:台大維基社/2018年台灣勞權議題編輯松|Wikipedia:台大維基社/2018年台灣勞權議題編輯松]]
 www\.ptt\.cc\/bbs\/WomenTalk\/M\.1542375527\.A\.359\.html # [[基進黨#黨內性騷擾|基進黨#黨內性騷擾]] oldid=52525277
+www\.ptt\.cc\/man\/sex\/DB2A\/D963\/DE2F\/DE42\/DE82\/DFC7\/index.html # [[D51|D51]]
 www\.williamlong\.info
 www\.huojiali\.com
 www\.ptt\.cc\/man\/Railway\/DCDC\/D8CA\/M\.1229339468\.A\.176\.html # [[Special:PermaLink/51454467|Special:PermaLink/51454467]]

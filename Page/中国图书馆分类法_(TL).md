@@ -122,7 +122,7 @@
 
 ::\*TL84 放射性计量学与计量技术
 
-::\*TL91 [核爆炸](https://zh.wikipedia.org/wiki/核爆炸 "wikilink")
+::\*TL91 [核爆炸](../Page/核爆炸.md "wikilink")
 
 ::\*TL92 [放射性同位素](../Page/放射性同位素.md "wikilink")的生产与制备
 

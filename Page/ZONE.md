@@ -140,11 +140,11 @@
 
   - ZONE FIRST SUMMER LIVE 2002 こぐまの大移動大暴走だべさツアー*（初の全国ツアー）*
       - 7月30日 [CLUB DIAMOND HALL](https://zh.wikipedia.org/wiki/CLUB_DIAMOND_HALL "wikilink")（[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")）
-      - 7月31日 [ZEPP OSAKA](https://zh.wikipedia.org/wiki/Zepp "wikilink")（[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")）
-      - 8月2日 [ZEPP FUKUOKA](https://zh.wikipedia.org/wiki/Zepp "wikilink")（[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")）
-      - 8月4日 [ZEPP SENDAI](https://zh.wikipedia.org/wiki/Zepp "wikilink")（[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")）
-      - 8月6日 [ZEPP TOKYO](https://zh.wikipedia.org/wiki/Zepp "wikilink")（[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
-      - 8月8日 [ZEPP SAPPORO](https://zh.wikipedia.org/wiki/Zepp "wikilink")（[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
+      - 7月31日 [ZEPP OSAKA](../Page/Zepp.md "wikilink")（[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")）
+      - 8月2日 [ZEPP FUKUOKA](../Page/Zepp.md "wikilink")（[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")）
+      - 8月4日 [ZEPP SENDAI](../Page/Zepp.md "wikilink")（[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")）
+      - 8月6日 [ZEPP TOKYO](../Page/Zepp.md "wikilink")（[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
+      - 8月8日 [ZEPP SAPPORO](../Page/Zepp.md "wikilink")（[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
   - 12月31日 [第53回NHK紅白歌合戦](https://zh.wikipedia.org/wiki/第53回NHK紅白歌合戦 "wikilink")（[NHKホール](../Page/NHK放送中心.md "wikilink")）
       - 「夢ノカケラ・・・」を演奏
 

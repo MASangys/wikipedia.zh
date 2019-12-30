@@ -176,7 +176,7 @@
   - [K](../Page/K_\(歌手\).md "wikilink")『over...』（3月11日）
   - [湘南乃風](https://zh.wikipedia.org/wiki/湘南乃風 "wikilink")『』（4月22日）
   - [Rie fu](../Page/Rie_fu.md "wikilink")『I Wanna Go To A Place...』（4月29日）
-  - [奧田美和子](https://zh.wikipedia.org/wiki/奧田美和子 "wikilink")『』（5月27日）
+  - [奧田美和子](../Page/奧田美和子.md "wikilink")『』（5月27日）
   - [DEPAPEPE](../Page/DEPAPEPE.md "wikilink")『START』（6月10日）
   - [椿屋四重奏](https://zh.wikipedia.org/wiki/椿屋四重奏 "wikilink")『紫陽花』（6月17日）
   - [Def Tech](https://zh.wikipedia.org/wiki/Def_Tech "wikilink")『My Way』『KONOMAMA』（6月24日）

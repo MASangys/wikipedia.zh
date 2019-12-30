@@ -111,7 +111,7 @@ ESCP著名[校友](../Page/校友.md "wikilink")主要分布在政界和商界�
 6.
 7.
 8.
-9.  [Andreas Kaplan](https://zh.wikipedia.org/wiki/安德烈亚斯·卡普兰 "wikilink"), European Management and European Business Schools: Insights from the History of Business Schools, European Management Journal, 2014
+9.  [Andreas Kaplan](../Page/安德烈亚斯·卡普兰.md "wikilink"), European Management and European Business Schools: Insights from the History of Business Schools, European Management Journal, 2014
 10.
 11.  CCI Paris Île-de-France|accessdate=2017-12-10|work=www.cci-paris-idf.fr|language=fr}}
 12.

@@ -181,7 +181,7 @@ Calligra包括下列的應用程式：
   - **[Flow](https://zh.wikipedia.org/wiki/Calligra_Flow "wikilink")**（過去稱為**Kivio**）, a programmable [flowchart](https://zh.wikipedia.org/wiki/flowchart "wikilink") drawing program with dynamically loadable [stencils](https://zh.wikipedia.org/wiki/stencil "wikilink"). Developed by [theKompany](https://zh.wikipedia.org/wiki/theKompany "wikilink"), which offers additional (non-free) stencils for sale.
   - **[Karbon14](https://zh.wikipedia.org/wiki/Karbon14 "wikilink")**，矢量绘图程序。
   - **[Krita](../Page/Krita.md "wikilink")**（過去稱為Krayon和KImageshop），点阵图象处理程序。
-  - **[Plan](../Page/Calligra_Plan.md "wikilink")**（過去稱為**KPlato**），可以產生[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")（[Gantt](https://zh.wikipedia.org/wiki/甘特图 "wikilink")）的專案管理軟體。
+  - **[Plan](../Page/Calligra_Plan.md "wikilink")**（過去稱為**KPlato**），可以產生[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")（[Gantt](../Page/甘特图.md "wikilink")）的專案管理軟體。
   - **[Braindump](https://zh.wikipedia.org/wiki/Braindump_\(software\) "wikilink")**，筆記程序。
   - **[Author](https://zh.wikipedia.org/wiki/Calligra_Author "wikilink")**，可以產生電子書的軟體。
 

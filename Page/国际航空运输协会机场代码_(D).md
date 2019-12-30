@@ -1639,7 +1639,7 @@
 <td><p>DRI</p></td>
 <td><p>KDRI</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德里德_(路易斯安那州)" title="wikilink">德里德</a>，<a href="../Page/路易斯安那州.md" title="wikilink">路易斯安那州</a></p></td>
+<td><p><a href="../Page/德里德_(路易斯安那州).md" title="wikilink">德里德</a>，<a href="../Page/路易斯安那州.md" title="wikilink">路易斯安那州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

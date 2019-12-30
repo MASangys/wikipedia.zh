@@ -15,7 +15,7 @@ DokuWiki是由[德国人Andreas](https://zh.wikipedia.org/wiki/德国人 "wikili
 ## 主要特性
 
   - [文本存储](https://zh.wikipedia.org/wiki/TXT "wikilink")：DokuWiki通过txt文件存储页面，不需要[数据库](../Page/数据库.md "wikilink")。
-  - [版本控制](../Page/版本控制.md "wikilink")：DokuWiki存储每一个Wiki页面的所有版本，允许用户比较当前版本和任何历史版本。使用了和[MediaWiki类似的差异引擎](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")（比较版本间的差异的软件）。通过计时锁定机制，可以防止不同用户编辑同一个页面时产生冲突。2012年1月发布的新版中，加入了媒体文件版本控制。
+  - [版本控制](../Page/版本控制.md "wikilink")：DokuWiki存储每一个Wiki页面的所有版本，允许用户比较当前版本和任何历史版本。使用了和[MediaWiki](../Page/MediaWiki.md "wikilink")类似的差异引擎（比较版本间的差异的软件）。通过计时锁定机制，可以防止不同用户编辑同一个页面时产生冲突。2012年1月发布的新版中，加入了媒体文件版本控制。
   - [访问控制](https://zh.wikipedia.org/wiki/存取控制 "wikilink")：访问控制可以通过用户管理程序完成，用户管理程序允许定义用户和用户组，以及定义[访问控制列表](https://zh.wikipedia.org/wiki/访问控制列表 "wikilink")，其中管理员用户可以定义页面和名字空间级别的权限。
   - [插件](../Page/插件.md "wikilink")：DokuWiki具有一个通用的插件接口，这个接口简化插件的开发和维护的过程。目前已经有超过100个可用的插件。管理员用户在插件管理程序的帮助下可以很容易地集成和管理这些插件。
   - [模板](https://zh.wikipedia.org/wiki/模板 "wikilink")：Wiki的外观可以自定义。开发社群已经提供了许多不同的模板。

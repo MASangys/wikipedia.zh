@@ -249,13 +249,13 @@
   -
 
       -
-        **[山陰本線](../Page/山陰本線.md "wikilink")**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")（舊線）
+        **[山陰本線](../Page/山陰本線.md "wikilink")**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](../Page/京都站.md "wikilink")（舊線）
           -
             使用車輛：Kiha 58系（<span lang="ja">キハ58系</span>）列車
         **[京濱東北線](../Page/京濱東北線.md "wikilink")**——[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")
           -
             使用車輛：[209系列車](https://zh.wikipedia.org/wiki/JR東日本209系電力動車組 "wikilink")
-        **[東海道本線](../Page/東海道本線.md "wikilink")**（俗稱**[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")**一段）——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
+        **[東海道本線](../Page/東海道本線.md "wikilink")**（俗稱**[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")**一段）——[京都](../Page/京都站.md "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
           -
             使用車輛：221系列車
         **[山手線](../Page/山手線.md "wikilink")**——<span lang="ja">[澀谷](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")</span>—[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")
@@ -351,14 +351,14 @@
             使用車輛：[Kiha66系](https://zh.wikipedia.org/wiki/日本國鐵Kiha66系柴油動車組 "wikilink")（キハ66系）、[Kiha58系](https://zh.wikipedia.org/wiki/日本國鐵Kiha58系柴油動車組 "wikilink")（キハ58系）、[Kiha200系](https://zh.wikipedia.org/wiki/JR九州Kiha200系柴油動車組 "wikilink")（キハ200系）
         **[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")**
           -
-            [二日市](https://zh.wikipedia.org/wiki/二日市站 "wikilink")—[博多](../Page/博多站.md "wikilink")
+            [二日市](../Page/二日市站.md "wikilink")—[博多](../Page/博多站.md "wikilink")
             使用車輛：[811系](https://zh.wikipedia.org/wiki/JR九州811系電力動車組 "wikilink")、[813系](https://zh.wikipedia.org/wiki/JR九州813系電力動車組 "wikilink")
             [鳥栖](https://zh.wikipedia.org/wiki/鳥栖站 "wikilink")→[博多](../Page/博多站.md "wikilink")
             使用車輛：[787系](https://zh.wikipedia.org/wiki/JR九州787系電車 "wikilink")、[Kiha72系](https://zh.wikipedia.org/wiki/JR九州Kiha72系柴油動車組 "wikilink")（キハ72系）
         **[山陽本線](../Page/山陽本線.md "wikilink")**——[神戶](../Page/神戶站_\(兵庫縣\).md "wikilink")—[西明石](https://zh.wikipedia.org/wiki/西明石站 "wikilink")
           -
             使用車輛：[201系](https://zh.wikipedia.org/wiki/日本國鐵201系電車 "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[207系](https://zh.wikipedia.org/wiki/JR西日本207系電車 "wikilink")、[221系A編成](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系W編成](../Page/JR西日本223系電力動車組.md "wikilink")
-        **[山陰本線](../Page/山陰本線.md "wikilink")**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")
+        **[山陰本線](../Page/山陰本線.md "wikilink")**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](../Page/京都站.md "wikilink")
           -
             使用車輛：Kiha58系（キハ58系）
         **[中央線](https://zh.wikipedia.org/wiki/中央快速線 "wikilink")**——[新宿](https://zh.wikipedia.org/wiki/新宿站 "wikilink")—[東京](https://zh.wikipedia.org/wiki/東京站 "wikilink")
@@ -452,11 +452,11 @@
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[209系](https://zh.wikipedia.org/wiki/JR東日本209系電力動車組 "wikilink")
         **[東海道本線](../Page/東海道本線.md "wikilink")**[品川](https://zh.wikipedia.org/wiki/品川站 "wikilink")—[川崎](../Page/川崎站.md "wikilink")—[橫濱](https://zh.wikipedia.org/wiki/橫濱站 "wikilink")
           -
-            使用車輛：[113系](../Page/日本國鐵113系電力動車組.md "wikilink")、151系「第一[木靈號列車](https://zh.wikipedia.org/wiki/木靈號列車 "wikilink")（こだま）」（增加[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪段](https://zh.wikipedia.org/wiki/大阪站 "wikilink")）、[185系](https://zh.wikipedia.org/wiki/日本國鐵Kiha_185系柴油動車組 "wikilink")「跳舞者（踴り子）111號」、[211系](../Page/日本國鐵211系電力動車組.md "wikilink")、[215系快速](../Page/JR東日本215系電力動車組.md "wikilink")「ACTY（アクティー）」、[251系](../Page/JR東日本255系電力動車組.md "wikilink")「SuperView跳舞者（スーパービュー踊り子）1號」
-        **JR[嵯峨野線](../Page/嵯峨野線.md "wikilink")（[山陰本線](../Page/山陰本線.md "wikilink")）**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")
+            使用車輛：[113系](../Page/日本國鐵113系電力動車組.md "wikilink")、151系「第一[木靈號列車](https://zh.wikipedia.org/wiki/木靈號列車 "wikilink")（こだま）」（增加[京都](../Page/京都站.md "wikilink")—[大阪段](https://zh.wikipedia.org/wiki/大阪站 "wikilink")）、[185系](https://zh.wikipedia.org/wiki/日本國鐵Kiha_185系柴油動車組 "wikilink")「跳舞者（踴り子）111號」、[211系](../Page/日本國鐵211系電力動車組.md "wikilink")、[215系快速](../Page/JR東日本215系電力動車組.md "wikilink")「ACTY（アクティー）」、[251系](../Page/JR東日本255系電力動車組.md "wikilink")「SuperView跳舞者（スーパービュー踊り子）1號」
+        **JR[嵯峨野線](../Page/嵯峨野線.md "wikilink")（[山陰本線](../Page/山陰本線.md "wikilink")）**——[龜岡](https://zh.wikipedia.org/wiki/龜岡站 "wikilink")—[京都](../Page/京都站.md "wikilink")
           -
             使用車輛：DD51+舊型客車、DD51+12系客車、KIHA181系、KIHA40系、KIHA58系「急行丹後」、KIHA181系「Asashio（あさしお）」、KIHA40系+58系
-        **[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")（[東海道本線](../Page/東海道本線.md "wikilink")）**——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
+        **[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")（[東海道本線](../Page/東海道本線.md "wikilink")）**——[京都](../Page/京都站.md "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
           -
             使用車輛：
             [201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[207系](../Page/JR西日本207系電力動車組.md "wikilink")、[113系5000番台](../Page/日本國鐵113系電力動車組.md "wikilink")、[117系](https://zh.wikipedia.org/wiki/日本國鐵117系電力動車組 "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系2000番台](../Page/JR西日本223系電力動車組.md "wikilink")、
@@ -548,7 +548,7 @@
           -
             使用車輛：
             103系／kumoha12形（クモハ12形）
-        **[湖西線](../Page/湖西線.md "wikilink")**（[北陸本線](../Page/北陸本線.md "wikilink")／[湖西線](../Page/湖西線.md "wikilink")／[東海道本線](../Page/東海道本線.md "wikilink")）——[敦賀](../Page/敦賀站.md "wikilink")—[近江鹽津](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")—[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")—[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
+        **[湖西線](../Page/湖西線.md "wikilink")**（[北陸本線](../Page/北陸本線.md "wikilink")／[湖西線](../Page/湖西線.md "wikilink")／[東海道本線](../Page/東海道本線.md "wikilink")）——[敦賀](../Page/敦賀站.md "wikilink")—[近江鹽津](https://zh.wikipedia.org/wiki/近江鹽津站 "wikilink")—[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")—[京都](../Page/京都站.md "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")
           -
             使用車輛：
             [113系](../Page/日本國鐵113系電力動車組.md "wikilink")（L編成）、117系、201系、207系、221系（A編成）、
@@ -585,7 +585,7 @@
         **[大阪環狀線](../Page/大阪環狀線.md "wikilink")**——內／外圈全線（[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[天王寺](../Page/天王寺站.md "wikilink")—[京橋](https://zh.wikipedia.org/wiki/京橋站_\(大阪府\) "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")）
           -
             使用車輛：[103系](../Page/日本國鐵103系電力動車組.md "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系0番台](../Page/JR西日本223系電力動車組.md "wikilink")
-        **[東海道本線](../Page/東海道本線.md "wikilink")**——[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")—[高槻](../Page/高槻站.md "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[神戶上下行](../Page/神戶站_\(兵庫縣\).md "wikilink")
+        **[東海道本線](../Page/東海道本線.md "wikilink")**——[京都](../Page/京都站.md "wikilink")—[高槻](../Page/高槻站.md "wikilink")—[大阪](https://zh.wikipedia.org/wiki/大阪站 "wikilink")—[神戶上下行](../Page/神戶站_\(兵庫縣\).md "wikilink")
           -
             使用車輛：
             [201系](../Page/日本國鐵201系電力動車組.md "wikilink")、[205系](../Page/日本國鐵205系電力動車組.md "wikilink")、[207系](../Page/日本國鐵207系電力動車組.md "wikilink")、[221系](https://zh.wikipedia.org/wiki/JR西日本221系電力動車組 "wikilink")、[223系](../Page/JR西日本223系電力動車組.md "wikilink")、

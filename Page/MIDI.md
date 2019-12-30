@@ -115,7 +115,7 @@ MIDI訊息（包含時間資訊）會被收集和儲存在一個[電腦檔案](.
 
 ## 參見
 
-  - [戴夫·史密斯](https://zh.wikipedia.org/wiki/戴夫·史密斯 "wikilink")
+  - [戴夫·史密斯](../Page/戴夫·史密斯.md "wikilink")
   - [ABC記譜法](../Page/ABC记谱法.md "wikilink")
 
 ## 參考文獻

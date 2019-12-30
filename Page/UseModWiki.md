@@ -1,4 +1,4 @@
-[Usemod_logo.svg](https://zh.wikipedia.org/wiki/File:Usemod_logo.svg "fig:Usemod_logo.svg") **UseModWiki**（Usenet Moderation Project (Usemod)）是Clifford Adams 所開發的[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，它採用[Perl](../Page/Perl.md "wikilink")做為開發的程式語言，它最大的特點是不使用任何的資料庫管理系統來儲存頁面內容，任何的新增頁面都直接儲存於檔案系統內，[維基百科曾採用UseModWiki做為所有語言版本的](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，之後才自行開發[MediaWiki做為現有的介面](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")。
+[Usemod_logo.svg](https://zh.wikipedia.org/wiki/File:Usemod_logo.svg "fig:Usemod_logo.svg") **UseModWiki**（Usenet Moderation Project (Usemod)）是Clifford Adams 所開發的[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，它採用[Perl](../Page/Perl.md "wikilink")做為開發的程式語言，它最大的特點是不使用任何的資料庫管理系統來儲存頁面內容，任何的新增頁面都直接儲存於檔案系統內，[維基百科曾採用UseModWiki做為所有語言版本的](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，之後才自行開發[MediaWiki](../Page/MediaWiki.md "wikilink")做為現有的介面。
 
 ## 歷史回顧
 

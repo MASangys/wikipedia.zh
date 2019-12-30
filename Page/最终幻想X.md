@@ -84,7 +84,7 @@
 
 ### 媒体评论
 
-日本和西方媒体都给游戏打出高分。日本电子游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》和《Fami通 PS2》给游戏打出接近满分的39/40\[140\]；而在《Fami通》2006年上半年的史上最佳游戏读者票选中，游戏获得首位\[141\]。另一日本游戏杂志《The Play Station》给游戏打出29/30。三本杂志特别称赞了游戏的情节、画面和影片\[142\]。游戏在[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")的汇总得分为91%和92/100\[143\]\[144\]。制作人[桥本真司](../Page/桥本真司.md "wikilink")称总体评价“极好”，得到媒体的称赞和奖项\[145\]。
+日本和西方媒体都给游戏打出高分。日本电子游戏杂志《[Fami通](../Page/Fami通.md "wikilink")》和《Fami通 PS2》给游戏打出接近满分的39/40\[140\]；而在《Fami通》2006年上半年的史上最佳游戏读者票选中，游戏获得首位\[141\]。另一日本游戏杂志《The Play Station》给游戏打出29/30。三本杂志特别称赞了游戏的情节、画面和影片\[142\]。游戏在[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")的汇总得分为91%和92/100\[143\]\[144\]。制作人[桥本真司](../Page/桥本真司.md "wikilink")称总体评价“极好”，得到媒体的称赞和奖项\[145\]。
 
 [IGN](../Page/IGN.md "wikilink")的大卫·史密斯对配音演员和游戏性的革新——特别是变化的战斗和召唤系统、可以选择在战斗中更换队员，以及角色发展和物品管理系统——表示称赞。他们亦称《最终幻想X》的图形在前作之上做了一切可能改进，游戏总的说来“是系列最好看的游戏，也大概是最好玩的游戏”\[146\]。[GameSpot](../Page/GameSpot.md "wikilink")的[格雷格·卡萨文赞扬了游戏的情节](https://zh.wikipedia.org/wiki/格雷格·卡萨文 "wikilink")，谓其相当复杂、结局令人满意、通过有感染力的主角提达避免了角色扮演游戏的俗套。他还称赞音乐“多样且在各种游戏场面都很应景”\[147\]。 [GamePro同样对角色发展系统和战斗系统表示称赞](https://zh.wikipedia.org/wiki/GamePro "wikilink")，称其为“系列中的两大革新”\[148\]。GameSpot的雷蒙德·帕迪拉夸赞游戏画面“拔尖”，同时也对角色模型、背景、过场和动画表示肯定\[149\]。[Game Revolution称赞配音](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")“在平均之上”，并称赞音乐“充足”\[150\]。
 

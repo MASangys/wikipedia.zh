@@ -1,6 +1,6 @@
 [Mobile01_homepage_Portable.png](https://zh.wikipedia.org/wiki/File:Mobile01_homepage_Portable.png "fig:Mobile01_homepage_Portable.png")
 
-****，簡稱**01**（**Zero-One**）、俗稱**膜拜01**、**摩比01**、**小惡魔**等。是專門討論各種[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[3C等產品與介紹](https://zh.wikipedia.org/wiki/3C_\(商品代稱\) "wikilink")[台灣各景點的網路論壇](https://zh.wikipedia.org/wiki/台灣 "wikilink")，由詠勝科技有限公司（位於台灣的[臺南和](https://zh.wikipedia.org/wiki/臺南 "wikilink")[臺北](../Page/臺北.md "wikilink")）維護。在[Alexa的統計中](https://zh.wikipedia.org/wiki/Alexa "wikilink")，Mobile01是台灣關於3C產品資訊討論的高瀏覽率網站之一。
+****，簡稱**01**（**Zero-One**）、俗稱**膜拜01**、**摩比01**、**小惡魔**等。是專門討論各種[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[行動裝置](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")、[3C等產品與介紹](../Page/3C_\(商品代稱\).md "wikilink")[台灣各景點的網路論壇](https://zh.wikipedia.org/wiki/台灣 "wikilink")，由詠勝科技有限公司（位於台灣的[臺南和](https://zh.wikipedia.org/wiki/臺南 "wikilink")[臺北](../Page/臺北.md "wikilink")）維護。在[Alexa的統計中](https://zh.wikipedia.org/wiki/Alexa "wikilink")，Mobile01是台灣關於3C產品資訊討論的高瀏覽率網站之一。
 
 Mobile01的標誌為[英文的Mobile與一個](https://zh.wikipedia.org/wiki/英文 "wikilink")01所構成，其中01以一個小[惡魔的](https://zh.wikipedia.org/wiki/惡魔 "wikilink")[卡通](../Page/卡通.md "wikilink")圖案所化成。在Mobile01中，小惡魔為站內會員愛好3C產品的精神象徵。
 

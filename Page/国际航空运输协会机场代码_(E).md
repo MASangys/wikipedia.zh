@@ -1590,7 +1590,7 @@
 <td><p>ETB</p></td>
 <td><p>KETB</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西本德_(威斯康星州)" title="wikilink">西本德</a>，<a href="https://zh.wikipedia.org/wiki/威斯康星州" title="wikilink">威斯康星州</a></p></td>
+<td><p><a href="../Page/西本德_(威斯康星州).md" title="wikilink">西本德</a>，<a href="https://zh.wikipedia.org/wiki/威斯康星州" title="wikilink">威斯康星州</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

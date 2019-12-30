@@ -34,7 +34,7 @@
 
 </ref>
 
-  - 2011年3月，一名33歲彭姓男子在[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區中正路租間套房](../Page/東區_\(新竹市\).md "wikilink")，利用FOXY軟體下載持卡人的消費紀錄，取得信用卡卡號、[授權碼等個資](https://zh.wikipedia.org/wiki/授權碼 "wikilink")，冒名盜刷購買[3C產品後立即拍賣掉](https://zh.wikipedia.org/wiki/3C_\(商品代稱\) "wikilink")，作為生活費及購[毒品](../Page/毒品.md "wikilink")解癮。同年4月10日，[基隆市政府](../Page/基隆市政府.md "wikilink")警察局第一分局趁彭男取貨物時將他逮捕，彭男坦稱以此手法盜刷18筆、得款新台幣71951元，訊後被警方依[詐欺](https://zh.wikipedia.org/wiki/詐欺 "wikilink")、[偽造文書](../Page/偽造文書.md "wikilink")及妨害電腦使用罪嫌移送[臺灣新竹地方法院檢察署偵辦](https://zh.wikipedia.org/wiki/臺灣新竹地方法院檢察署 "wikilink")。<ref>
+  - 2011年3月，一名33歲彭姓男子在[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區中正路租間套房](../Page/東區_\(新竹市\).md "wikilink")，利用FOXY軟體下載持卡人的消費紀錄，取得信用卡卡號、[授權碼等個資](https://zh.wikipedia.org/wiki/授權碼 "wikilink")，冒名盜刷購買[3C產品後立即拍賣掉](../Page/3C_\(商品代稱\).md "wikilink")，作為生活費及購[毒品](../Page/毒品.md "wikilink")解癮。同年4月10日，[基隆市政府](../Page/基隆市政府.md "wikilink")警察局第一分局趁彭男取貨物時將他逮捕，彭男坦稱以此手法盜刷18筆、得款新台幣71951元，訊後被警方依[詐欺](https://zh.wikipedia.org/wiki/詐欺 "wikilink")、[偽造文書](../Page/偽造文書.md "wikilink")及妨害電腦使用罪嫌移送[臺灣新竹地方法院檢察署偵辦](https://zh.wikipedia.org/wiki/臺灣新竹地方法院檢察署 "wikilink")。<ref>
 
 </ref>
 

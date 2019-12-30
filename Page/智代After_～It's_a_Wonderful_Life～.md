@@ -29,7 +29,7 @@
 
 ## 漫畫
 
-由作畫的[漫画于](https://zh.wikipedia.org/wiki/漫画 "wikilink")2007年4月20日至2007年10月20日在[角川書店](../Page/角川書店.md "wikilink")下的杂志《[Dragon Age Pure](../Page/Dragon_Age_Pure.md "wikilink")》连载，漫画的标题也为《》\[5\]\[6\]。漫画于2007年12月6日由[富士見書房](../Page/富士見書房.md "wikilink")发售一本[单行本](https://zh.wikipedia.org/wiki/单行本 "wikilink")。\[7\]
+由作畫的[漫画于](https://zh.wikipedia.org/wiki/漫画 "wikilink")2007年4月20日至2007年10月20日在[角川書店](../Page/角川書店.md "wikilink")下的杂志《[Dragon Age Pure](../Page/Dragon_Age_Pure.md "wikilink")》连载，漫画的标题也为《》\[5\]\[6\]。漫画于2007年12月6日由[富士見書房](../Page/富士見書房.md "wikilink")发售一本[单行本](../Page/单行本.md "wikilink")。\[7\]
 
 ## 評價
 

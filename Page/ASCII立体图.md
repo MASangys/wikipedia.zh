@@ -1,4 +1,4 @@
-**ASCII立体图**（ASCII stereogram），是[ASCII艺术](../Page/ASCII艺术.md "wikilink")的一种形式，它利用觀察[图像時](https://zh.wikipedia.org/wiki/图像 "wikilink")，令視線产生适当的交叉从而生成[三维图像的](https://zh.wikipedia.org/wiki/三维 "wikilink")[错视](https://zh.wikipedia.org/wiki/错视 "wikilink")。
+**ASCII立体图**（ASCII stereogram），是[ASCII艺术](../Page/ASCII艺术.md "wikilink")的一种形式，它利用觀察[图像](../Page/图像.md "wikilink")時，令視線产生适当的交叉从而生成[三维图像的](https://zh.wikipedia.org/wiki/三维 "wikilink")[错视](https://zh.wikipedia.org/wiki/错视 "wikilink")。
 
 以图1为例，为了得到[三维效果](https://zh.wikipedia.org/wiki/三维 "wikilink")，观察者需要使眼睛偏离[聚焦状态](https://zh.wikipedia.org/wiki/聚焦 "wikilink")，这样同一行中的两个相邻字符就会贴近到一起。为了帮助聚焦，努力使两个顶上的两个大写字母 O 看起来像三个，确保中间那个 O 的图像稳定并且位于焦点之上。一旦做到了这一点，往下看下面的图像，这时三维效果就很明显了：7列字母會呈現遠近相間的視覺效果。如果图 1 底部的两个 O 看起来像三个，那么遠近效果就会相反。另外也可以通过视线交叉观察到相反的三维效果。
 

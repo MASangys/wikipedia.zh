@@ -12,7 +12,7 @@
 
 Wiki网站中的基于自由链接的跨Wiki链接，比如说维基百科，同样地遵守这样的原则，但是分隔符在这种情况下用于网站内部链接。这些链接如果用作内部链接将会被解析和转换为它们的本原，这使得输入变得容易，但是这可能会同其它一些特殊符号起冲突。比如在维基百科中，`[[MeatBall:AssumeGoodFaith|MeatBall:AssumeGoodFaith]]`会显示为,{{tsl|de|InterWiki|}}（以前的语法为：`[[DeWikipedia:InterWiki|DeWikipedia:InterWiki]]`）将显示为.
 
-[MediaWiki软件有一个附加属性](https://zh.wikipedia.org/wiki/MediaWiki "wikilink")，它使用类似的符号以创建自动的跨语言链接－比如说链接\[\[de:InterWiki|de:InterWiki\]\]（开头没有冒号）会自动创建一个标签“其它语言:”于文章顶端和底端。不同种类的其它[Wiki软件也有一些用于这种](https://zh.wikipedia.org/wiki/Wiki软件 "wikilink")“半内部”链接的特性，比如像对于[名字空间或者多种的子社区的支持](https://zh.wikipedia.org/wiki/名字空间 "wikilink")。
+[MediaWiki](../Page/MediaWiki.md "wikilink")软件有一个附加属性，它使用类似的符号以创建自动的跨语言链接－比如说链接\[\[de:InterWiki|de:InterWiki\]\]（开头没有冒号）会自动创建一个标签“其它语言:”于文章顶端和底端。不同种类的其它[Wiki软件也有一些用于这种](https://zh.wikipedia.org/wiki/Wiki软件 "wikilink")“半内部”链接的特性，比如像对于[名字空间或者多种的子社区的支持](https://zh.wikipedia.org/wiki/名字空间 "wikilink")。
 
 ## 实现
 

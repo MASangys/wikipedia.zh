@@ -173,10 +173,10 @@
 
 ### 主持人
 
-  - 初代 - [鴕鳥俱樂部](../Page/鴕鳥俱樂部.md "wikilink")（[搞笑三人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")、1993年4月播出～）
+  - 初代 - [鴕鳥俱樂部](../Page/鴕鳥俱樂部.md "wikilink")（[搞笑三人組](../Page/搞笑藝人.md "wikilink")、1993年4月播出～）
       - [バカルディ](https://zh.wikipedia.org/wiki/さまぁ～ず "wikilink")（1994－1995年星期五版**クイズ電脳バトラー**）
   - 2代目 - [キャイ～ン](https://zh.wikipedia.org/wiki/キャイ～ン "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、1996年4月－）
-  - 3代目 - [山崎邦正](https://zh.wikipedia.org/wiki/山崎邦正 "wikilink")（[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")）、[リサ・ステッグマイヤー (麗莎史特格麥亞)](https://zh.wikipedia.org/wiki/リサ・ステッグマイヤー_\(麗莎史特格麥亞\) "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（1998年4月－）
+  - 3代目 - [山崎邦正](https://zh.wikipedia.org/wiki/山崎邦正 "wikilink")（[搞笑藝人](../Page/搞笑藝人.md "wikilink")）、[リサ・ステッグマイヤー (麗莎史特格麥亞)](https://zh.wikipedia.org/wiki/リサ・ステッグマイヤー_\(麗莎史特格麥亞\) "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（1998年4月－）
   - 4代目 - [角田信朗](https://zh.wikipedia.org/wiki/角田信朗 "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")、當時是[格闘家](https://zh.wikipedia.org/wiki/格闘家 "wikilink")）、[山川惠里佳](https://zh.wikipedia.org/wiki/山川惠里佳 "wikilink")（[talent](https://zh.wikipedia.org/wiki/talent "wikilink")）（2001年4月－）
   - 5代目 - [極楽とんぼ](https://zh.wikipedia.org/wiki/極楽とんぼ "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2002年4月－）
   - 6代目 - [TIM](https://zh.wikipedia.org/wiki/TIM "wikilink")（[搞笑搭檔](https://zh.wikipedia.org/wiki/搞笑搭檔 "wikilink")、2003年4月－2007年3月）

@@ -21,7 +21,7 @@ DNA連接酶也可以處理[鈍端](https://zh.wikipedia.org/wiki/黏状末端 "
 在[哺乳類細胞](https://zh.wikipedia.org/wiki/哺乳類 "wikilink")，至少有四種黏合酶被發現與命名：
 
   - I型連接酶：為最主要的DNA連接酶，作用為連接DNA複製過程中產生的[岡崎片段](../Page/岡崎片段.md "wikilink")，且在DNA[重組](https://zh.wikipedia.org/wiki/重組 "wikilink")、[修復也都是需要依靠I型連接酶的功能](../Page/DNA修復.md "wikilink")。
-  - II型連接酶：II型連接酶當初是在小牛胸腺與胎牛肝臟中純化出來的，不過後來被證實只是III型經過[蛋白酶切過的片段](https://zh.wikipedia.org/wiki/蛋白酶 "wikilink")。
+  - II型連接酶：II型連接酶當初是在小牛胸腺與胎牛肝臟中純化出來的，不過後來被證實只是III型經過[蛋白酶](../Page/蛋白酶.md "wikilink")切過的片段。
   - III型連接酶：III型連接酶與XRCC1蛋白形成[複合體](https://zh.wikipedia.org/wiki/蛋白质复合体 "wikilink")，主要作用在[鹼基切除修復的黏合反應](https://zh.wikipedia.org/wiki/DNA修復#鹼基切除修復 "wikilink")。
   - IV型連接酶：IV型連接酶與XRCC4蛋白形成複合體；III型與IV型都參與修復DNA的黏合過程，並一起參與[非同源性末端接合的最後一個反應](https://zh.wikipedia.org/wiki/DNA修復#非同源性末端接合 "wikilink")。
 

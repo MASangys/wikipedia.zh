@@ -109,7 +109,7 @@ OpenType通过微软的Office和Publisher等软件支持复杂书写文本，Ado
 
 所谓“[外字](https://zh.wikipedia.org/wiki/外字 "wikilink")”，源自日语的“表外汉字”（，hyōgai kanji）。与拉丁语言不同，在[东亚](https://zh.wikipedia.org/wiki/东亚 "wikilink")[表意文字系统如](https://zh.wikipedia.org/wiki/表意文字 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[日文中](https://zh.wikipedia.org/wiki/日文 "wikilink")，没有固定数量的字符集。一般字符集只含有8,000到15,000的常用字，另外数万个非常用字、生僻字，往往没有在各国的标准中给予编码。另外一个情况是[异体字](../Page/异体字.md "wikilink")：一个表意文字（[汉字](../Page/汉字.md "wikilink")）在不同的历史时期、地域产生了不同的字形，而一些地名人名等专有名字必须要使用传统的写法，需要使用这些冷僻字形，造成了生僻字问题，日语中称为“外字”问题。
 
-为了处理这些冷僻字，先前已经出现过很多方案，比如在[万国码中的私用区域](https://zh.wikipedia.org/wiki/万国码 "wikilink")（Private use area）增加编码等。这样的处理方法无法在制定环境以外的地方使用，基于私用区域编码的万国码制作的文档无法通用。另外一个办法就是将其处理成[图像](https://zh.wikipedia.org/wiki/图像 "wikilink")，这又导致文字排版的麻烦，因为版面指令无法作用于图像，无法被当成文本搜索，而且由于机器从字体描绘字形和描绘图像的机制完全不同，这样的处理导致插入的冷僻字看起来很突兀。
+为了处理这些冷僻字，先前已经出现过很多方案，比如在[万国码中的私用区域](https://zh.wikipedia.org/wiki/万国码 "wikilink")（Private use area）增加编码等。这样的处理方法无法在制定环境以外的地方使用，基于私用区域编码的万国码制作的文档无法通用。另外一个办法就是将其处理成[图像](../Page/图像.md "wikilink")，这又导致文字排版的麻烦，因为版面指令无法作用于图像，无法被当成文本搜索，而且由于机器从字体描绘字形和描绘图像的机制完全不同，这样的处理导致插入的冷僻字看起来很突兀。
 
 SING技术是和[Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink") 2一起发布的，它允许用户创建新字形，每个新字形作为一个独立的字体打包。这样打包出来的字形称为*字形包（glyphlet）*。这种格式通过Adobe公开的，且基于OpenType。这个包的内容包括字形的[TrueType](../Page/TrueType.md "wikilink")或[CFF轮廓样式](https://zh.wikipedia.org/wiki/CFF "wikilink")，标准OpenType表格，声明字形的尺寸和组合行为，以及元数据，附加信息，如字形包的认证、所属，还有读音或者部首分类等语言方面的分类等。SING字形包也可以使用[Fontlab公司的SigMaker](https://zh.wikipedia.org/wiki/Fontlab "wikilink")3程序创建。
 

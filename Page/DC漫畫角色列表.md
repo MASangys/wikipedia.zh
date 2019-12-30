@@ -315,7 +315,7 @@
 <td><p>General Zod</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/巨化女" title="wikilink">巨化女</a></p></td>
+<td><p><a href="../Page/巨化女.md" title="wikilink">巨化女</a></p></td>
 <td><p>多麗絲·祖伊爾博士</p></td>
 <td><p>Giganta</p></td>
 </tr>
