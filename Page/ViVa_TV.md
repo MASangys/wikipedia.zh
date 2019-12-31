@@ -1,4 +1,4 @@
-> 本文内容由[ViVa TV](https://zh.wikipedia.org/wiki/ViVa TV)转换而来。
+> 本文内容由[ViVa TV](https://zh.wikipedia.org/wiki/ViVa_TV)转换而来。
 
 
 **美好家庭購物股份有限公司**（英語：Shopnet Homeshopping Co., Ltd.，縮寫：**ViVa TV**，簡稱：美好家庭購物）為[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視購物頻道](https://zh.wikipedia.org/wiki/電視購物 "wikilink")。\[1\]\[2\] [China_Television_Building_20151031.jpg](https://zh.wikipedia.org/wiki/File:China_Television_Building_20151031.jpg "fig:China_Television_Building_20151031.jpg")6樓\]\]

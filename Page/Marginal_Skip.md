@@ -1,4 +1,4 @@
-> 本文内容由[Marginal Skip](https://zh.wikipedia.org/wiki/Marginal Skip)转换而来。
+> 本文内容由[Marginal Skip](https://zh.wikipedia.org/wiki/Marginal_Skip)转换而来。
 
 
 是日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")在2009年4月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]

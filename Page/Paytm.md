@@ -1,3 +1,6 @@
+> 本文内容由[Paytm](https://zh.wikipedia.org/wiki/Paytm)转换而来。
+
+
 **Paytm** 是第三方支付的電子商務公司，總部位於印度諾伊達，於西元2010年加入了印度的財經科技產業，母公司為One97 Communications。公司創立初期提供手機充電、線上支付、線上購物，類似於電子商務公司Flipkart(新加坡)、亞馬遜公司Amazon.com。2015年時，新增預定巴士旅遊的功能P在2016年更與 Cinépolis合作，開放電影票預定的功能。
 
 ## 背景

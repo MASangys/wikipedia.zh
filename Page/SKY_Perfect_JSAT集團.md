@@ -1,3 +1,6 @@
+> 本文内容由[SKY Perfect JSAT集團](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT集團)转换而来。
+
+
 **SKY Perfect JSAT集團**（，），是[日本](../Page/日本.md "wikilink")**株式会社SKY Perfect JSAT控股**（）所領導的[衛星通信集團](https://zh.wikipedia.org/wiki/衛星通信 "wikilink")。一般以**SKY Perfect JSAT**（）單指其旗下經營[SKY PerfecTV\!](../Page/SKY_PerfecTV!.md "wikilink")、[WAKUWAKU JAPAN等](https://zh.wikipedia.org/wiki/WAKUWAKU_JAPAN "wikilink")[收費電視](https://zh.wikipedia.org/wiki/收費電視 "wikilink")[品牌](../Page/品牌.md "wikilink")的**SKY Perfect JSAT株式会社**（）。
 
 ## 沿革

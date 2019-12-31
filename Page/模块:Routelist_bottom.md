@@ -1,4 +1,4 @@
-> 本文内容由[模块:Routelist bottom](https://zh.wikipedia.org/wiki/模块:Routelist bottom)转换而来。
+> 本文内容由[模块:Routelist bottom](https://zh.wikipedia.org/wiki/模块:Routelist_bottom)转换而来。
 
 
 local p = {}

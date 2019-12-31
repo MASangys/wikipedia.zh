@@ -1,3 +1,6 @@
+> 本文内容由[Ela8te](https://zh.wikipedia.org/wiki/Ela8te)转换而来。
+
+
 **Ela8te**（）是韓國ENTERHAMA娛樂原定在2016年推出的女子流行音樂團體，成員包括[太恩](../Page/李太恩.md "wikilink")、[多萊](../Page/金多萊.md "wikilink")、[真詠](../Page/張真詠.md "wikilink")，三位成員曾在2011年4月以 [RANIA](../Page/RANIA.md "wikilink")成員身分出道。
 
 ## 經歷

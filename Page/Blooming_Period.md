@@ -1,4 +1,4 @@
-> 本文内容由[Blooming Period](https://zh.wikipedia.org/wiki/Blooming Period)转换而来。
+> 本文内容由[Blooming Period](https://zh.wikipedia.org/wiki/Blooming_Period)转换而来。
 
 
 《**Blooming Period**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block B第五張韓語迷你專輯](../Page/Block_B.md "wikilink")，於2016年4月11日發行，主打歌曲為《Toy》\[1\]。

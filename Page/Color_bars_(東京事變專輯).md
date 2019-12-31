@@ -1,4 +1,4 @@
-> 本文内容由[Color bars \(東京事變專輯\)](https://zh.wikipedia.org/wiki/Color bars \(東京事變專輯\))转换而来。
+> 本文内容由[Color bars \(東京事變專輯\)](https://zh.wikipedia.org/wiki/Color_bars_\(東京事變專輯\))转换而来。
 
 
 《**color bars**》（，*color bars*）是[東京事變](../Page/東京事變.md "wikilink")的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music於](../Page/維京唱片.md "wikilink")2012年1月18日發行。初回限定為「精美外紙盒仕樣、東京事變團員相片卡、演唱會抽選券」。

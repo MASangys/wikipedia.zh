@@ -1,3 +1,6 @@
+> 本文内容由[高氯酸铟\(III\)](https://zh.wikipedia.org/wiki/高氯酸铟\(III\))转换而来。
+
+
 **高氯酸铟(III)**是一种无机化合物，化学式为In(ClO<sub>4</sub>)<sub>3</sub>。
 
 ## 制备
@@ -27,10 +30,7 @@
 [Category:缺少物质图片的化学品条目](https://zh.wikipedia.org/wiki/Category:缺少物质图片的化学品条目 "wikilink")
 
 1.  顾学民 等. 无机化学丛书 第二卷 铍 碱土金属 硼 铝 镓分族. 科学出版社, 2011. pp 480. 3.17.1 第VIIA族含氧酸盐
-
 2.  朱文祥 等. 无机化合物制备手册. 化学工业出版社, 2006. pp 782. 【XVII-96】 八水合高氯酸铟
-
 3.  Ilyukhin A B, Malyarik M A. The Crystal Structure of Indium Perchlorates \[In(H(2)O)(6)\](ClO(4))(3) and \[In(H(2)O)(6)\](ClO(4))(3) center dot 3H(2)O\[J\]. Russian Journal of Inorganic Chemistry, 1999, 44(4):476-479.
-
 4.
 5.

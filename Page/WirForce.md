@@ -1,3 +1,6 @@
+> 本文内容由[WirForce](https://zh.wikipedia.org/wiki/WirForce)转换而来。
+
+
 **WirForce**是由[4Gamers](../Page/4Gamers.md "wikilink")於[臺北市](../Page/臺北市.md "wikilink")舉辦的[Lan Party](../Page/LAN_party.md "wikilink")[電競派對](https://zh.wikipedia.org/wiki/電競 "wikilink")，第一屆在2014年8月29-31日舉行。活動參與者通常分為[自攜設備](../Page/自攜設備.md "wikilink")（BYOC）\[1\]玩家及一般玩家。BYOC玩家可自行攜帶電腦配備至會場，將其電腦配備以[區域網路連結](../Page/局域网.md "wikilink")，多人一同玩[網路遊戲](../Page/网络游戏.md "wikilink")；而BYOC玩家與一般玩家則皆可參與BYOC區以外之活動，如[單機遊戲試玩](https://zh.wikipedia.org/wiki/單機遊戲 "wikilink")、遊戲設備體驗、現場實體遊戲同樂、社群活動參與、觀看電競比賽、[音樂會等等](https://zh.wikipedia.org/wiki/音樂會 "wikilink")。
 
 WirForce \[waɪˈrfors\] 為一個由4Gamers創辦人暨執行長黃智仁所創之[複合字](../Page/合成词.md "wikilink")，讀音以及[意譯即英文字的](https://zh.wikipedia.org/wiki/意譯 "wikilink") [wire](https://zh.wikipedia.org/wiki/wikt:en:wire "wikilink")（[英語](../Page/英语.md "wikilink")：[動詞](../Page/动词.md "wikilink")，連線） 加上 [force](https://zh.wikipedia.org/wiki/wikt:en:force "wikilink")（[英語](../Page/英语.md "wikilink")：[名詞](../Page/名詞.md "wikilink")，力量）；因此WirForce代表的涵義為連線的力量。

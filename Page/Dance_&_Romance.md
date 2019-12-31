@@ -1,3 +1,6 @@
+> 本文内容由[Dance \& Romance](https://zh.wikipedia.org/wiki/Dance_\&_Romance)转换而来。
+
+
 《**Dance & Romance**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黃翊第三張個人](../Page/黃翊_\(香港\).md "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於1990年10月發行。2017年9月24日環球唱片推出復刻版[1](https://www.hksingerchannel.com/single-post/2017/09/30/%E3%80%8AChannel%E7%8B%82%E7%A2%9F%E6%B4%BE%E3%80%8B%EF%BC%9A%E9%BB%83%E7%BF%8A-%E5%A5%BD%E8%81%B2%E9%9F%B3%E8%B7%A8%E4%B8%96%E7%B4%80%E5%86%8D%E7%94%9F)，分別是單碟復刻版及《環球經典禮讚（3in1）- 黃翊》。
 
 ## 簡介

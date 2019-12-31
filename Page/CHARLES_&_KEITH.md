@@ -1,3 +1,6 @@
+> 本文内容由[CHARLES \& KEITH](https://zh.wikipedia.org/wiki/CHARLES_\&_KEITH)转换而来。
+
+
 **CHARLES & KEITH**（）是由兄弟檔 [Charles Wong和](https://zh.wikipedia.org/wiki/Charles_Wong "wikilink")[Keith Wong](https://zh.wikipedia.org/wiki/Keith_Wong "wikilink") 於[1996年](../Page/1996年.md "wikilink")在[新加坡](../Page/新加坡.md "wikilink")創立。該品牌的產品包含鞋履、包袋、皮帶、太陽眼鏡、手環等各類時尚配飾。截止至2014年，該集團旗下已經在全球36個國家的各大城市的黃金商圈設立了450家門店。
 
 ## 品牌簡介

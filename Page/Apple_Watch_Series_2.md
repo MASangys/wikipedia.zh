@@ -1,4 +1,4 @@
-> 本文内容由[Apple Watch Series 2](https://zh.wikipedia.org/wiki/Apple Watch Series 2)转换而来。
+> 本文内容由[Apple Watch Series 2](https://zh.wikipedia.org/wiki/Apple_Watch_Series_2)转换而来。
 
 
 **Apple Watch Series 1/ Series 2**是第二代的[Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")\[1\]\[2\]，在2016年的9月8日發布\[3\]。

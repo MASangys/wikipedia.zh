@@ -1,3 +1,6 @@
+> 本文内容由[鈴木E族引擎](https://zh.wikipedia.org/wiki/鈴木E族引擎)转换而来。
+
+
 **鈴木E族引擎**是2010年代[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")，屬於、[DOHC的結構設計](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")，同時也是該公司首度開發的柴油引擎。
 
 ## 歷史與概要

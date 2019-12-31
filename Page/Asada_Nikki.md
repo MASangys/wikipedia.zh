@@ -1,4 +1,4 @@
-> 本文内容由[Asada Nikki](https://zh.wikipedia.org/wiki/Asada Nikki)转换而来。
+> 本文内容由[Asada Nikki](https://zh.wikipedia.org/wiki/Asada_Nikki)转换而来。
 
 
 **Asada Nikki**\[1\]（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。[自畫像是粉紅色的兔子](https://zh.wikipedia.org/wiki/自畫像 "wikilink")\[4\]\[5\]。

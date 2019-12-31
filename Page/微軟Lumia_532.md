@@ -1,4 +1,4 @@
-> 本文内容由[微軟Lumia 532](https://zh.wikipedia.org/wiki/微軟Lumia 532)转换而来。
+> 本文内容由[微軟Lumia 532](https://zh.wikipedia.org/wiki/微軟Lumia_532)转换而来。
 
 
 **微軟Lumia 532**\[1\]是[微軟移動開發的一款入門級](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Windows Phone 8.1作業系統](../Page/Windows_Phone_8.1.md "wikilink")。\[2\]

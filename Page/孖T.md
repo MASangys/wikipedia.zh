@@ -1,3 +1,6 @@
+> 本文内容由[孖T](https://zh.wikipedia.org/wiki/孖T)转换而来。
+
+
 [HKJC_Double_Trio.jpg](https://zh.wikipedia.org/wiki/File:HKJC_Double_Trio.jpg "fig:HKJC_Double_Trio.jpg") **孖T**（）是[香港賽馬](../Page/香港賽馬.md "wikilink")其中一個設有多寶彩金 (Jackpot) 的投注種類，由[香港賽馬會](../Page/香港賽馬會.md "wikilink")接受投注，在指定的連續兩場賽事均選中第一名、第二名及第三名馬匹，毋須順序。
 
 ## 投注金額

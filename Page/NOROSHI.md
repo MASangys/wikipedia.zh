@@ -1,3 +1,6 @@
+> 本文内容由[NOROSHI](https://zh.wikipedia.org/wiki/NOROSHI)转换而来。
+
+
 《''' NOROSHI '''》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第37張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2016年12月7日發行
 
 ## 概要

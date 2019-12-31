@@ -1,4 +1,4 @@
-> 本文内容由[超級機器人大戰OG THE MOON DWELLERS](https://zh.wikipedia.org/wiki/超級機器人大戰OG THE MOON DWELLERS)转换而来。
+> 本文内容由[超級機器人大戰OG THE MOON DWELLERS](https://zh.wikipedia.org/wiki/超級機器人大戰OG_THE_MOON_DWELLERS)转换而来。
 
 
 {{ external media | align = | width = | video1 =[PS4『超級機器人大戰OG THE MOON DWELLERS』繁體中文版宣傳影片 - YouTube](https://www.youtube.com/watch?v=oG8RPFnQstY) }}

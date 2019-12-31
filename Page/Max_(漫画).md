@@ -1,4 +1,4 @@
-> 本文内容由[Max \(漫画\)](https://zh.wikipedia.org/wiki/Max \(漫画\))转换而来。
+> 本文内容由[Max \(漫画\)](https://zh.wikipedia.org/wiki/Max_\(漫画\))转换而来。
 
 
 **Max (漫画)**，是[漫威漫画专门制作限制级漫画的漫画书](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")。于2001年推出后，该漫画书的推出为漫威首次打破[漫画准则管理局](../Page/漫画准则管理局.md "wikilink")的制度并建立了自己的评级系统。\[1\]

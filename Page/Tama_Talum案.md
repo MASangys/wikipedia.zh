@@ -1,3 +1,6 @@
+> 本文内容由[Tama Talum案](https://zh.wikipedia.org/wiki/Tama_Talum案)转换而来。
+
+
 **Tama Talum案**是一個發生在[臺灣](../Page/臺灣.md "wikilink")的[刑事案件爭議](https://zh.wikipedia.org/wiki/刑事 "wikilink")，[布農族](../Page/布農族.md "wikilink")人Talum Suqluman因為[非法持有](https://zh.wikipedia.org/wiki/非法 "wikilink")[獵槍和盜獵](https://zh.wikipedia.org/wiki/獵槍 "wikilink")，在2015年被判有罪。該案件引發臺灣社會對原住民[文化](../Page/文化.md "wikilink")及[權利的抗議與討論](https://zh.wikipedia.org/wiki/權利 "wikilink")。“Tama”為[布農語](../Page/布農語.md "wikilink")對父執輩尊稱，故族人稱Tama Talum。
 
 ## 事發

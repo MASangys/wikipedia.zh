@@ -1,4 +1,4 @@
-> 本文内容由[奥林巴斯AIR A01](https://zh.wikipedia.org/wiki/奥林巴斯AIR A01)转换而来。
+> 本文内容由[奥林巴斯AIR A01](https://zh.wikipedia.org/wiki/奥林巴斯AIR_A01)转换而来。
 
 
 **奥林巴斯 Air A01**是一款于2015年2月推出的可更换镜头[数码相机](../Page/数码相机.md "wikilink")产品\[1\]，属于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，可以兼容该系统中的交换用镜头。

@@ -1,3 +1,6 @@
+> 本文内容由[Lang HS.30步兵战车](https://zh.wikipedia.org/wiki/Lang_HS.30步兵战车)转换而来。
+
+
 **Lang HS.30步兵战车**（又称SPz 12-3）是[联邦德国于](https://zh.wikipedia.org/wiki/联邦德国 "wikilink")1958年装备的一款[步兵战车](../Page/步兵战车.md "wikilink")，由[瑞士的西斯帕诺](https://zh.wikipedia.org/wiki/瑞士 "wikilink")·苏莎公司设计。其装备了一门高威力的20毫米机炮，使其成为第一款现代意义上的步兵战车。但由于繁多的设计缺陷和机械故障，使订单数量大减。原定生产10,000辆，实际仅交付2,176辆。[联邦国防军中的Lang](https://zh.wikipedia.org/wiki/联邦国防军 "wikilink") HS.30已被[黄鼠狼步兵战车取代](https://zh.wikipedia.org/wiki/黄鼠狼步兵战车 "wikilink")。
 
 ## 背景与设计

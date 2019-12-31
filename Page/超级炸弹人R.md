@@ -1,3 +1,6 @@
+> 本文内容由[超级炸弹人R](https://zh.wikipedia.org/wiki/超级炸弹人R)转换而来。
+
+
 是一款由[科乐美和](https://zh.wikipedia.org/wiki/科乐美 "wikilink")公司制作的动作类[电子游戏](../Page/电子游戏.md "wikilink")。本作于2017年3月3日首发于任天堂Switch平台，是任天堂Switch平台发售初期少有的官方中文化的游戏。2018年3月，科乐美宣布游戏会在2018年6月于[Xbox One](../Page/Xbox_One.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Windows等平台上发售](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[1\]\[2\]
 
 玩家控制的角色在一个2D环境中进行游戏。玩家需要布置陷阱和炸弹来击败对手。\[3\]

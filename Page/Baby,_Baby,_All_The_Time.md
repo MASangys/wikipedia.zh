@@ -1,3 +1,6 @@
+> 本文内容由[Baby, Baby, All The Time](https://zh.wikipedia.org/wiki/Baby,_Baby,_All_The_Time)转换而来。
+
+
 ***Baby, Baby, All The Time*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由Liberty Records於1956年發行，為單聲道形式。\[1\] 此單曲「Baby, Baby, All The Time)」為非專輯單曲，收錄的兩首[爵士樂歌曲都是原創](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。
 
 ## 曲目和格式

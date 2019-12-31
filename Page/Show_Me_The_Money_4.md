@@ -1,3 +1,6 @@
+> 本文内容由[Show Me The Money 4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4)转换而来。
+
+
 **Show Me The Money 4**（，简称：**SMTM4**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第四季](../Page/Show_Me_The_Money.md "wikilink")，于2015年6月26日至8月28日每逢周五晚间11时整（[KST](../Page/韩国标准时.md "wikilink")）播出。\[1\]
 
 SMTM第四季由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand New Music的](../Page/Brand_New_Music.md "wikilink")、[San E](../Page/San_E.md "wikilink")；[AOMG](../Page/AOMG.md "wikilink")的[朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")以及的与[Block B的成员](../Page/Block_B.md "wikilink")[Zico担任导师](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。\[2\]此季超过7000名参赛者参与面试，有越来越多的偶像Rapper、退伍军人和女Rapper报名参赛。优胜者将获得1亿韩元奖金以及一辆[起亚早安](../Page/起亚早安.md "wikilink")汽车。[Snoop Dogg也作为特别嘉宾参与节目](../Page/史努比狗狗.md "wikilink")，担任游击任务的评审。本季的冠军及亚军分别是[Basick和](https://zh.wikipedia.org/wiki/Basick "wikilink")[MINO](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")。

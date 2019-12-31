@@ -1,3 +1,6 @@
+> 本文内容由[Ruby Ruby love](https://zh.wikipedia.org/wiki/Ruby_Ruby_love)转换而来。
+
+
 《**Ruby Ruby Love**》（）是一部 OnStyle 網路劇\[1\]，於2017年1月18日在[Naver播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，由[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）\[2\]\[3\]、[李哲宇](../Page/李哲宇.md "wikilink")、[李伊庚](../Page/李伊庚.md "wikilink")主演。全劇共有五集，將於1月18日連續公開第一、二集，並於19日、25日、26日各公開一集。本劇為[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[徐玄第一次出演和主演的網路劇](https://zh.wikipedia.org/wiki/徐玄 "wikilink")。
 
 ## 劇情

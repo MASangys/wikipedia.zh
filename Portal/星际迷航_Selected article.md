@@ -1,4 +1,4 @@
-> 本文内容由[Portal:星际迷航/Selected article](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected article)转换而来。
+> 本文内容由[Portal:星际迷航/Selected article](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected_article)转换而来。
 
 
 __TOC__

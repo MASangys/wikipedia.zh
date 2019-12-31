@@ -1,4 +1,4 @@
-> 本文内容由[Google Fi](https://zh.wikipedia.org/wiki/Google Fi)转换而来。
+> 本文内容由[Google Fi](https://zh.wikipedia.org/wiki/Google_Fi)转换而来。
 
 
 **Google Fi** 是[Google](../Page/Google.md "wikilink")旗下的[移动虚拟运营商](../Page/移动虚拟运营商.md "wikilink")（MVNO），通过 [T-Mobile](../Page/T-Mobile.md "wikilink") 和 [Sprint](../Page/Sprint.md "wikilink") 的Wi-Fi和[蜂窩行動網路向美国以及超过](https://zh.wikipedia.org/wiki/蜂窩行動網路 "wikilink")120个国家的漫游用户提供语音及数据服务\[1\]\[2\]\[3\]。

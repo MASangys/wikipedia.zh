@@ -1,3 +1,6 @@
+> 本文内容由[硫酸铈\(IV\)铵](https://zh.wikipedia.org/wiki/硫酸铈\(IV\)铵)转换而来。
+
+
 **硫酸铈(IV)铵**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为(NH<sub>4</sub>)<sub>4</sub>Ce(SO<sub>4</sub>)<sub>4</sub>。它是橙色固体，为强氧化剂。
 
 ## 结构

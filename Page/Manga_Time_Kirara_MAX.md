@@ -1,3 +1,6 @@
+> 本文内容由[Manga Time Kirara MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX)转换而来。
+
+
 是由芳文社发行的四格漫画杂志杂志。原则上于每月19日发售，B5尺寸。与《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》系列的其他杂志同属姐妹誌。杂志口号是“Dokidoki★Visual全开杂志”（）。
 
 ## 簡介

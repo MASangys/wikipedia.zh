@@ -1,3 +1,6 @@
+> 本文内容由[TVBS精采台](https://zh.wikipedia.org/wiki/TVBS精采台)转换而来。
+
+
 **TVBS精采台**（\[1\]，於[中華民國國家通訊傳播委員會正式名稱為](https://zh.wikipedia.org/wiki/中華民國國家通訊傳播委員會 "wikilink")**聯利精采台**），為聯利媒體股份有限公司（TVBS）家族頻道之一，前身是[TVB8的台灣版](../Page/TVB8_\(台灣版\).md "wikilink")。
 
 ## 歷史

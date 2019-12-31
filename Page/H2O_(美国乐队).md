@@ -1,4 +1,4 @@
-> 本文内容由[H2O \(美国乐队\)](https://zh.wikipedia.org/wiki/H2O \(美国乐队\))转换而来。
+> 本文内容由[H2O \(美国乐队\)](https://zh.wikipedia.org/wiki/H2O_\(美国乐队\))转换而来。
 
 
 **H<sub>2</sub>O** 是一支美国[硬核朋克](../Page/硬核朋克.md "wikilink")乐队，于1994年成立于[纽约](../Page/纽约.md "wikilink")。

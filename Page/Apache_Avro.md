@@ -1,4 +1,4 @@
-> 本文内容由[Apache Avro](https://zh.wikipedia.org/wiki/Apache Avro)转换而来。
+> 本文内容由[Apache Avro](https://zh.wikipedia.org/wiki/Apache_Avro)转换而来。
 
 
 {{ Infobox software | name = Apache Avro | logo = | screenshot = | caption = | collapsible = | developer = [Apache软件基金会](../Page/Apache软件基金会.md "wikilink") | status = 活跃 | latest release version = 1.8.2 | latest release date =  | latest preview version = | latest preview date = | operating_system = | programming language = | genre = [远程过程调用框架](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink") | license = [Apache许可证](../Page/Apache许可证.md "wikilink") 2.0 | website = <http://avro.apache.org/> }}

@@ -1,4 +1,4 @@
-> 本文内容由[Cv \(流體係數\)](https://zh.wikipedia.org/wiki/Cv \(流體係數\))转换而来。
+> 本文内容由[Cv \(流體係數\)](https://zh.wikipedia.org/wiki/Cv_\(流體係數\))转换而来。
 
 
 **C<sub>v</sub> 流體係數**是流體設備有關其允許[流體流動能力的相對度量](https://zh.wikipedia.org/wiki/流體 "wikilink")，描述的是、[閥或其他組件的壓力差和流體通過](https://zh.wikipedia.org/wiki/閥 "wikilink")[流率之間的關係](https://zh.wikipedia.org/wiki/體積流率 "wikilink")。

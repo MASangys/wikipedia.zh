@@ -1,3 +1,6 @@
+> 本文内容由[HIV亚型](https://zh.wikipedia.org/wiki/HIV亚型)转换而来。
+
+
 治疗[人类免疫缺陷病毒感染的一大障碍是病毒的高遗传变异性](https://zh.wikipedia.org/wiki/人类免疫缺陷病毒 "wikilink")。\[1\]HIV可分为两种主要类型：HIV-1型和HIV-2型。HIV-1与生活在西非的[黑猩猩和](https://zh.wikipedia.org/wiki/黑猩猩屬 "wikilink")[大猩猩](../Page/大猩猩.md "wikilink")体内发现的病毒有关，而HIV-2与西非的濒危灵长类体内发现的病毒有关。\[2\]</ref>HIV-1病毒向下可分为几组：其中，HIV-1的M组病毒数量占优，是艾滋病（AIDS）流行的肇因。基于基因序列数据，M组可进一步细分为各亚型。已知某一些亚型更具毒性或对不同药物具有抗药性。通常认为，HIV-2病毒的毒性比HIV-1低，也更不容易传播：尽管已知HIV-2也会导致艾滋病。
 
 ## 主要类型

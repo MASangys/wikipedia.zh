@@ -1,3 +1,6 @@
+> 本文内容由[Ninelie EP](https://zh.wikipedia.org/wiki/Ninelie_EP)转换而来。
+
+
 《**ninelie EP**》是[Aimer](../Page/Aimer.md "wikilink")的第9支[单曲](../Page/单曲.md "wikilink")。[2016年](../Page/2016年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")由[SME Records发售](../Page/SME_Records.md "wikilink")，有三种类型的CD发售。
 
 ## 概要

@@ -1,4 +1,4 @@
-> 本文内容由[Hey violet](https://zh.wikipedia.org/wiki/Hey violet)转换而来。
+> 本文内容由[Hey violet](https://zh.wikipedia.org/wiki/Hey_violet)转换而来。
 
 
 **Hey Violet**是一個[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，成立於美國[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，由Miranda Miller(吉他／鍵盤樂器／人聲)、Nia Lovelis(鼓／人聲)、Rena Lovelis(貝斯／主唱)和Casey Moreta(吉他)組成。 2008年以**Cherri Bomb**成團時，成員都還是中學生。原始的團員為Julia Pierce、Miranda Miller、Rena Lovelis和Nia Lovelis。2013年時Pierce離開該團，Moreta便加入樂團。2015年時將團名改為Hey Violet，不久後即被簽入[Hi Or Hey Records](https://zh.wikipedia.org/wiki/Hi_Or_Hey_Records "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[Somewhere I Belong \(專輯\)](https://zh.wikipedia.org/wiki/Somewhere I Belong \(專輯\))转换而来。
+> 本文内容由[Somewhere I Belong \(專輯\)](https://zh.wikipedia.org/wiki/Somewhere_I_Belong_\(專輯\))转换而来。
 
 
 **《Somewhere I Belong》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[莫文蔚](../Page/莫文蔚.md "wikilink")的第十五張個人專輯，首張英文爵士專輯，於2013年1月18日發行。\[1\]

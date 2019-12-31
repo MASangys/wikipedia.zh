@@ -1,4 +1,4 @@
-> 本文内容由[Related Designs](https://zh.wikipedia.org/wiki/Related Designs)转换而来。
+> 本文内容由[Related Designs](https://zh.wikipedia.org/wiki/Related_Designs)转换而来。
 
 
 **Related Designs**，是[德国](../Page/德国.md "wikilink")的游戏开发工作室，专门从事PC平台的战略游戏。2007年，育碧收购该公司30％的股权。\[1\]2013年4月，育碧购买购买该公司剩余70％的股权，使该公司成为育碧的全资子公司。\[2\]2014年6月，该公司完全融入[Ubisoft Blue Byte](../Page/Ubisoft_Blue_Byte.md "wikilink")。\[3\]

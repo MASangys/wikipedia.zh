@@ -1,4 +1,4 @@
-> 本文内容由[In My Life](https://zh.wikipedia.org/wiki/In My Life)转换而来。
+> 本文内容由[In My Life](https://zh.wikipedia.org/wiki/In_My_Life)转换而来。
 
 
 《》是英国[披头士乐队](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")1965年的一首歌曲，收录于专辑《》中。该曲由[约翰·列侬](../Page/约翰·列侬.md "wikilink")与[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")共同创作。列侬最先完成了这首歌曲的初始版本，但麦卡特尼促成了这首歌曲的最终版本。这首歌在滚石杂志的“[滚石杂志五百大歌曲](../Page/滚石杂志五百大歌曲.md "wikilink")”排行榜中被列为第23名，[魔力杂志在](https://zh.wikipedia.org/wiki/魔力杂志 "wikilink")2000年把这首歌评为世界上有史以来最好的歌曲\[1\] 。 [Original_lyrics_to_John_Lennon's_'In_my_life'.jpg](https://zh.wikipedia.org/wiki/File:Original_lyrics_to_John_Lennon's_'In_my_life'.jpg "fig:Original_lyrics_to_John_Lennon's_'In_my_life'.jpg")

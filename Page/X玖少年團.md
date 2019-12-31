@@ -1,3 +1,6 @@
+> 本文内容由[X玖少年團](https://zh.wikipedia.org/wiki/X玖少年團)转换而来。
+
+
 **X玖少年團**(英語：**X NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛傳媒於](https://zh.wikipedia.org/wiki/天娛傳媒 "wikilink")2016年推出的男子演唱組合\[1\]。團名中的**X**代表未知和無限可能;**玖**則代表了中國民間古老傳说“龍生九子”的涵義。\[2\]，成員包括：[肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")、[伍嘉成](../Page/伍嘉成.md "wikilink")、[谷嘉誠](../Page/谷嘉誠.md "wikilink")、[彭楚粤](../Page/彭楚粤.md "wikilink")、[趙磊](https://zh.wikipedia.org/wiki/趙磊 "wikilink")、[陳澤希](../Page/陳澤希.md "wikilink")、[郭子凡](../Page/郭子凡.md "wikilink")、[夏之光](../Page/夏之光.md "wikilink")及[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")。
 
 ## 成員資料

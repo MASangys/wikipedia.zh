@@ -1,4 +1,4 @@
-> 本文内容由[七龍珠Z 超級賽亞人孫悟空](https://zh.wikipedia.org/wiki/七龍珠Z 超級賽亞人孫悟空)转换而来。
+> 本文内容由[七龍珠Z 超級賽亞人孫悟空](https://zh.wikipedia.org/wiki/七龍珠Z_超級賽亞人孫悟空)转换而来。
 
 
 《**七龙珠Z 超級賽亞人孙悟空**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: Super Saiyan Son Goku），是[七龍珠在](../Page/七龙珠.md "wikilink")1991年3月9日上映的第7部劇場版動畫。\[1\]故事时间在[赛亚人事件之后](https://zh.wikipedia.org/wiki/赛亚人 "wikilink")。

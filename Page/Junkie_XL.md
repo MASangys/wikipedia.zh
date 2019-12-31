@@ -1,4 +1,4 @@
-> 本文内容由[Junkie XL](https://zh.wikipedia.org/wiki/Junkie XL)转换而来。
+> 本文内容由[Junkie XL](https://zh.wikipedia.org/wiki/Junkie_XL)转换而来。
 
 
 **湯姆·霍肯伯格**（，）或稱作**Junkie XL**和**JXL**，是一位[荷蘭男音樂家](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、多重器樂演奏家、作曲家與監製。「Junkie」代表著「吸毒者」，他對「Junkie XL」一名解釋，當自己過度勞累時就永不會到達那種地步，而「XL」則代表著「擴大視野」。他時常與[漢斯·季默](../Page/漢斯·季默.md "wikilink")合作。

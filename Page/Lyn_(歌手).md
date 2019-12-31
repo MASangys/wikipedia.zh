@@ -1,4 +1,4 @@
-> 本文内容由[Lyn \(歌手\)](https://zh.wikipedia.org/wiki/Lyn \(歌手\))转换而来。
+> 本文内容由[Lyn \(歌手\)](https://zh.wikipedia.org/wiki/Lyn_\(歌手\))转换而来。
 
 
 **LYn**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，本名**李世真**。2001年以首張個人專輯《My First Confession》出道，2002年起改使用藝名LYn。\[1\]

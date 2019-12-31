@@ -1,3 +1,6 @@
+> 本文内容由[日產Primera](https://zh.wikipedia.org/wiki/日產Primera)转换而来。
+
+
 **日產Primera**（**Nissan Primera**）是[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")歐洲部門於1990年所推出的[中型車](https://zh.wikipedia.org/wiki/中型車 "wikilink")，與[日產藍鳥為姐妹車](https://zh.wikipedia.org/wiki/日產藍鳥 "wikilink")，用以取代及車系主打歐洲市場的中產階級客層，於日本及中國、東南亞、歐洲、大洋洲都有銷售，在[北美洲](../Page/北美洲.md "wikilink")市場多以**[英菲尼迪G](../Page/英菲尼迪G.md "wikilink")20**之名出售，臺灣[裕隆汽車正式翻譯為](https://zh.wikipedia.org/wiki/裕隆汽車 "wikilink")「霹靂馬」，在中國的正式翻譯則為「派美」，在港澳的正式翻譯則為「名駿」。1990年起第一代P10上市，1995年推出第二代P11，2001年推出第三代P12，直到2008年結束生產。其在歐洲市場的勁敵為[福特Mondeo](https://zh.wikipedia.org/wiki/福特Mondeo "wikilink")、、[福斯Passat](https://zh.wikipedia.org/wiki/福斯Passat "wikilink")、、[沃尔沃S40](../Page/沃尔沃S40.md "wikilink")和[奧迪A6](https://zh.wikipedia.org/wiki/奧迪A6 "wikilink")，日本及東南亞市場的勁敵為[三菱戈藍](https://zh.wikipedia.org/wiki/三菱戈藍 "wikilink")、[速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")、、[本田Accord](https://zh.wikipedia.org/wiki/本田Accord "wikilink")、、[現代索納塔和](../Page/现代索纳塔.md "wikilink")[馬自達Capella](../Page/馬自達626.md "wikilink")。
 
 ## 歷史

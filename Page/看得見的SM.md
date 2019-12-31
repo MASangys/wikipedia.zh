@@ -1,3 +1,6 @@
+> 本文内容由[看得見的SM](https://zh.wikipedia.org/wiki/看得見的SM)转换而来。
+
+
 《**看得見的SM**》（韓語：）是韓國[V LIVE電視台的綜藝節目](https://zh.wikipedia.org/wiki/V_LIVE "wikilink")，由[利特](../Page/利特.md "wikilink")([Super Junior](../Page/Super_Junior.md "wikilink"))、[Yeri](../Page/Yeri.md "wikilink")([Red Velvet](../Page/Red_Velvet.md "wikilink"))、[金政模](https://zh.wikipedia.org/wiki/金政模 "wikilink")([TRAX](https://zh.wikipedia.org/wiki/TRAX "wikilink"))主持，而不同藝人與明星出演。節目將展現[SM娛樂](../Page/SM娛樂.md "wikilink")藝人展現私下/日常生活的一面,同時在節目中能看見SM娛樂藝人展現各種不同的面貌\[1\]。
 
 ## 各集資訊

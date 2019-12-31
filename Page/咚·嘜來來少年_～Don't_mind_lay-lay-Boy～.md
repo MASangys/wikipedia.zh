@@ -1,3 +1,6 @@
+> 本文内容由[咚·嘜來來少年 ～Don\'t mind lay-lay-Boy～](https://zh.wikipedia.org/wiki/咚·嘜來來少年_～Don\'t_mind_lay-lay-Boy～)转换而来。
+
+
 《**咚·嘜來來少年 ～Don't mind lay-lay-Boy～**》（）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")的個人總計第2張單曲。1989年10月25日由[環球唱片（舊名Kitty Record）發行](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 解說

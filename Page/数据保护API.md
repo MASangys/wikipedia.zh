@@ -1,3 +1,6 @@
+> 本文内容由[数据保护API](https://zh.wikipedia.org/wiki/数据保护API)转换而来。
+
+
 **数据保护API**（全称：，缩写**DPAPI**）是一个简单的[密码学](../Page/密码学.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink") ，作为一个组件内置在[Windows 2000及之后版本的](../Page/Windows_2000.md "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")中。理论上，数据保护API可以实现任何类型的数据对称加密；在实践中，其在Windows操作系统中的主要用途是执行[非对称私钥的](https://zh.wikipedia.org/wiki/非对称加密 "wikilink")[对称加密](https://zh.wikipedia.org/wiki/对称加密 "wikilink")，使用用户或系统的秘密信息作为[熵](../Page/熵.md "wikilink")的重要来源。
 
 对于几乎所有密码系统来说，最困难的挑战之一是“密钥管理”——其中部分即是，如何安全地存储解密密钥。如果密钥以纯文本存储，则可以访问密钥的任何用户都可以访问加密的数据。如果密钥被加密，则又需要另一个密钥，周而复始。DPAPI允许开发者使用从用户的登录私钥导出的对称密钥来加密密钥，或者在系统加密的情况下使用系统的域验证私钥来加密密钥。

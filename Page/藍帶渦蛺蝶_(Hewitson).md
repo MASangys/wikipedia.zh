@@ -1,4 +1,7 @@
-**藍帶渦蛺蝶**（學名：*Diaethria eluina*）俗稱**88蝶**和**數字蝶**，是屬於[蛺蝶科](../Page/蛺蝶科.md "wikilink")[線蛺蝶亞科](../Page/線蛺蝶亞科.md "wikilink")的一種[蝴蝶](../Page/蝴蝶.md "wikilink")，是[渦蛺蝶屬](../Page/渦蛺蝶屬.md "wikilink")的一種。分佈於南美洲北至中部一帶，模式產地為巴西[米納斯吉拉斯州](https://zh.wikipedia.org/wiki/米納斯吉拉斯州 "wikilink")\[1\]。
+> 本文内容由[藍帶渦蛺蝶 \(Hewitson\)](https://zh.wikipedia.org/wiki/藍帶渦蛺蝶_\(Hewitson\))转换而来。
+
+
+**藍帶渦蛺蝶**（學名：*Diaethria eluina*），俗稱**88蝶**（Eluina Eighty-eight）和**數字蝶**，是屬於[蛺蝶科](../Page/蛺蝶科.md "wikilink")[線蛺蝶亞科](../Page/線蛺蝶亞科.md "wikilink")的一種[蝴蝶](../Page/蝴蝶.md "wikilink")，是[渦蛺蝶屬](../Page/渦蛺蝶屬.md "wikilink")的一種。分佈於南美洲北至中部一帶，模式產地為巴西[米納斯吉拉斯州](https://zh.wikipedia.org/wiki/米納斯吉拉斯州 "wikilink")\[1\]。
 
 ## 亞種
 

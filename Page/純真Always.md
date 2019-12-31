@@ -1,3 +1,6 @@
+> 本文内容由[純真Always](https://zh.wikipedia.org/wiki/純真Always)转换而来。
+
+
 《**純真Always**》（），是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[田所梓](../Page/田所梓.md "wikilink")的第3張單曲。[結城愛良](../Page/結城愛良.md "wikilink")作詞、堀江晶太作曲。2016年2月10日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 背景、音樂性

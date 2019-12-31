@@ -1,3 +1,6 @@
+> 本文内容由[Portal:神經科學/Intro](https://zh.wikipedia.org/wiki/Portal:神經科學/Intro)转换而来。
+
+
 <div style="float:left;margin-right:0.9em">
 
 [Chimp_Brain_in_a_jar.jpg](https://zh.wikipedia.org/wiki/File:Chimp_Brain_in_a_jar.jpg "fig:Chimp_Brain_in_a_jar.jpg")\]\]

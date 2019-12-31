@@ -1,3 +1,6 @@
+> 本文内容由[宾得 K-3 II](https://zh.wikipedia.org/wiki/宾得_K-3_II)转换而来。
+
+
 **賓得士K-3 II**（**Pentax K-3 II**）是[理光](../Page/理光.md "wikilink")推出的高階[APS-C](https://zh.wikipedia.org/wiki/APS-C "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")，發表於2015年4月22日。
 
 ## 概要

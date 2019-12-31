@@ -1,3 +1,6 @@
+> 本文内容由[GT赛车3 A-Spec](https://zh.wikipedia.org/wiki/GT赛车3_A-Spec)转换而来。
+
+
 是一款在[索尼](../Page/索尼.md "wikilink")[PlayStation 2上发行的](../Page/PlayStation_2.md "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")。《GT赛车3》由[Polyphony Digital制作](../Page/Polyphony_Digital.md "wikilink")、[索尼電腦娛樂于](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2001年发行。 {{-}}
 
 ## 评价

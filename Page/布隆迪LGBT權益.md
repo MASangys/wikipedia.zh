@@ -1,3 +1,6 @@
+> 本文内容由[布隆迪LGBT權益](https://zh.wikipedia.org/wiki/布隆迪LGBT權益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**布隆迪**面临着法律问题。[布隆迪将男性或女性的同性间性行为视为犯罪](https://zh.wikipedia.org/wiki/布隆迪 "wikilink")。
 
 ## 有关同性性行为的法律

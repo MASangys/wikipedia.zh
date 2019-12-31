@@ -1,3 +1,6 @@
+> 本文内容由[小米Max 2](https://zh.wikipedia.org/wiki/小米Max_2)转换而来。
+
+
 **小米Max 2**是[小米科技在](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2017年5月25日发布的一款Android[智能手机](../Page/智能手机.md "wikilink")。
 
 ## 参考资料

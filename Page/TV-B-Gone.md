@@ -1,3 +1,6 @@
+> 本文内容由[TV-B-Gone](https://zh.wikipedia.org/wiki/TV-B-Gone)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:TV-B-Gone_complete.jpg "fig:右") **TV-B-Gone**是一个能[遙控](../Page/遙控.md "wikilink")关闭众多（约85%）[品牌](../Page/品牌.md "wikilink")[电视机](../Page/电视机.md "wikilink")的设备。它的作用是为允许[公共场所的](../Page/公共空間.md "wikilink")[公眾关闭附近的电视机](https://zh.wikipedia.org/wiki/公眾 "wikilink")。其发明人将其称之为“环境管理装置”。该设备是[鑰匙圈的一部分](https://zh.wikipedia.org/wiki/鑰匙圈 "wikilink")，并像其他遥控设备一样采用[电池](../Page/电池.md "wikilink")供电。虽然该设备可能需要最多72秒才能找到适配电视机接收机的特定代码，但流行的大多数电视机会在最开始的几秒内被关闭。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[BMT布莱顿线](https://zh.wikipedia.org/wiki/BMT布莱顿线)转换而来。
+
+
 **布萊頓線**（），又稱「布萊頓海灘線」（）\[1\]，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。任何時候都有[Q線慢車停靠](../Page/紐約地鐵Q線.md "wikilink")，而平日還有[B線快車營運](../Page/紐約地鐵B線.md "wikilink")。Q線在布萊頓線在路線的南端[康尼島-斯提威爾大道開始](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT布萊頓線\) "wikilink")，行駛全線，通過[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")南側軌道進入[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")。B線在[布萊頓海灘開始](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")，途經大橋北側軌道進入[IND第六大道線](../Page/IND第六大道線.md "wikilink")。
 
 ## 服務頻率

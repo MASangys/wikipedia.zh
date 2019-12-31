@@ -1,4 +1,4 @@
-> 本文内容由[Puyo \(漫畫家\)](https://zh.wikipedia.org/wiki/Puyo \(漫畫家\))转换而来。
+> 本文内容由[Puyo \(漫畫家\)](https://zh.wikipedia.org/wiki/Puyo_\(漫畫家\))转换而来。
 
 
 **Puyo**（，），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。他的作品主要以[電子遊戲為題材](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，在[同人漫畫選集或](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")[輕小說](../Page/輕小說.md "wikilink")發表插圖為中心。

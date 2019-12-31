@@ -1,3 +1,6 @@
+> 本文内容由[开放Web基金会](https://zh.wikipedia.org/wiki/开放Web基金会)转换而来。
+
+
 **开放Web基金会**（**Open Web Foundation**，缩写OWF）是一个致力于开发和保护新兴网络技术规范的非营利组织。该基金会遵循类似[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的开源模式。参与者包括Apache副总裁兼董事会成员、[歐萊禮](../Page/歐萊禮.md "wikilink")CEO[提姆·奥莱理等](https://zh.wikipedia.org/wiki/提姆·奥莱理 "wikilink")。
 
 ## 历史

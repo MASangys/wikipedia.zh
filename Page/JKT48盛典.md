@@ -1,3 +1,6 @@
+> 本文内容由[JKT48盛典](https://zh.wikipedia.org/wiki/JKT48盛典)转换而来。
+
+
 《**JKT48 Festival**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")的[专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。在2017年2月22日由发售。[歌词中大部分都是从日语翻译成](https://zh.wikipedia.org/wiki/歌词 "wikilink")[印度尼西亚语的](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
 
 ## 概要

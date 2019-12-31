@@ -1,4 +1,4 @@
-> 本文内容由[Honey Granny](https://zh.wikipedia.org/wiki/Honey Granny)转换而来。
+> 本文内容由[Honey Granny](https://zh.wikipedia.org/wiki/Honey_Granny)转换而来。
 
 
 **Honey Granny**，在2014年，由[香港](../Page/香港.md "wikilink")黑幫「[和勝和](../Page/和勝和.md "wikilink")」前任[坐館](https://zh.wikipedia.org/wiki/坐館 "wikilink")「上海仔」[郭永鴻](../Page/郭永鴻.md "wikilink")女友江美怡，和其女兒郭敏芝，於[香港](../Page/香港.md "wikilink")（總部）成立以經營連鎖韓式雪糕店。

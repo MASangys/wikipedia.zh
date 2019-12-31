@@ -1,4 +1,4 @@
-> 本文内容由[AAA \(电子游戏产业\)](https://zh.wikipedia.org/wiki/AAA \(电子游戏产业\))转换而来。
+> 本文内容由[AAA \(电子游戏产业\)](https://zh.wikipedia.org/wiki/AAA_\(电子游戏产业\))转换而来。
 
 
 **AAA**（读作“3A”）在[电子游戏产业](../Page/电子游戏产业.md "wikilink")中是指，高製作预算、高[行銷成本的游戏](https://zh.wikipedia.org/wiki/市場行銷 "wikilink")\[1\]\[2\]\[3\]\[4\]。其中行銷成本也是巨大的開銷，宣傳費用甚至可能超過製作遊戲本身的花費\[5\]。根據[inXile娛樂](https://zh.wikipedia.org/wiki/inXile娛樂 "wikilink") [CEO](https://zh.wikipedia.org/wiki/CEO "wikilink") Brian Fargo的訪談，以相對AAA低一階的AA級遊戲來說，在2018年AA級的製作預算上限已達到2000萬美元的水準\[6\]。由上述數字可知，AAA級遊戲的製作費用無疑是一筆相對更高的巨額投資。

@@ -1,3 +1,6 @@
+> 本文内容由[OpenServer](https://zh.wikipedia.org/wiki/OpenServer)转换而来。
+
+
 **OpenServer**，曾稱為SCO UNIX、SCO OpenDesktop或SCO ODT，是由[聖克魯茲公司開發出來的專有作業系統](../Page/聖克魯茲作業.md "wikilink")，曾被 [SCO Group](../Page/SCO_Group.md "wikilink") 收購，現時由 Xinuos 擁有。
 
 ## 歷史

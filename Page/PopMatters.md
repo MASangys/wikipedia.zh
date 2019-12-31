@@ -1,4 +1,7 @@
-《**PopMatters**》是一本國際線上雜誌，由莎拉·萨普科於1999年創建。\[1\]該雜誌主要刊登對[流行文化](../Page/流行文化.md "wikilink")的一些評論，\[2\]涵蓋[电视](../Page/电视.md "wikilink")、[电影](../Page/电影.md "wikilink")、[图书](../Page/图书.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[體育](../Page/体育运动.md "wikilink")、[戲劇](https://zh.wikipedia.org/wiki/劇場_\(藝術\) "wikilink")、[視覺藝術](../Page/視覺藝術.md "wikilink")、[旅行和](https://zh.wikipedia.org/wiki/旅行 "wikilink")[互联网](../Page/互联网.md "wikilink")等領域。\[3\]
+> 本文内容由[PopMatters](https://zh.wikipedia.org/wiki/PopMatters)转换而来。
+
+
+《**PopMatters**》是一本國際線上雜誌，由莎拉·萨普科於1999年創建。\[1\]該雜誌主要刊登對[流行文化](../Page/流行文化.md "wikilink")的一些評論，\[2\]涵蓋[电视](../Page/电视.md "wikilink")、[电影](../Page/电影.md "wikilink")、[图书](../Page/图书.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[體育](../Page/体育运动.md "wikilink")、[戲劇](https://zh.wikipedia.org/wiki/劇場_\(藝術\) "wikilink")、[視覺藝術](../Page/視覺藝術.md "wikilink")、[旅行](../Page/旅行.md "wikilink")和[互联网](../Page/互联网.md "wikilink")等領域。\[3\]
 
 ## 參考來源
 

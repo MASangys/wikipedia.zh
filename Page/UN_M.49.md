@@ -1,4 +1,4 @@
-> 本文内容由[UN M.49](https://zh.wikipedia.org/wiki/UN M.49)转换而来。
+> 本文内容由[UN M.49](https://zh.wikipedia.org/wiki/UN_M.49)转换而来。
 
 
 **UN M.49**是一份由[聯合國用於地理分区和分组](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[统计目標對國家及地區進行編碼的技術文件](https://zh.wikipedia.org/wiki/统计 "wikilink")，每個三位由數字組成的區域代碼可以是指各式各樣的地理、政治或經濟區域，像一個[大陸](https://zh.wikipedia.org/wiki/大陸 "wikilink")，一個[國家或](https://zh.wikipedia.org/wiki/國家 "wikilink")[人類發展分類下的一組](https://zh.wikipedia.org/wiki/人類發展 "wikilink")。

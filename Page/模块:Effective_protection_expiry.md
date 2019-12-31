@@ -1,4 +1,4 @@
-> 本文内容由[模块:Effective protection expiry](https://zh.wikipedia.org/wiki/模块:Effective protection expiry)转换而来。
+> 本文内容由[模块:Effective protection expiry](https://zh.wikipedia.org/wiki/模块:Effective_protection_expiry)转换而来。
 
 
 local p = {}

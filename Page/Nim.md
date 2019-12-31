@@ -1,3 +1,6 @@
+> 本文内容由[Nim](https://zh.wikipedia.org/wiki/Nim)转换而来。
+
+
 **Nim**是一个[命令式](../Page/指令式編程.md "wikilink")、[多范式支持](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")、[静态类型](https://zh.wikipedia.org/wiki/静态类型 "wikilink")、[编译型的](https://zh.wikipedia.org/wiki/編譯語言 "wikilink")[程序设计语言](../Page/编程语言.md "wikilink")，由Andreas Rumpf设计和开发，设计目标是高效、富有表现力以及优雅。Nim支持[元编程](../Page/元编程.md "wikilink")、[函数式](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")、[消息传递](https://zh.wikipedia.org/wiki/訊息傳遞_\(軟體\) "wikilink")、[面向过程以及](../Page/过去式.md "wikilink")[面向对象编程](../Page/面向对象程序设计.md "wikilink")。
 
 ## 语言设计

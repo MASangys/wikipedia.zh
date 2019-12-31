@@ -1,3 +1,6 @@
+> 本文内容由[TeamTO](https://zh.wikipedia.org/wiki/TeamTO)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:LOGO-new-TEAMTO-RVB.jpg "fig:缩略图") **TeamTO**是一家法国独立的动画制作公司。制作高水准国际化的的动画电影和动画剧集。为更好地把控制作环节质量，公司坚持在法国本土完成所有的动画制作。
 
 ## 发展历程

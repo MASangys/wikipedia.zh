@@ -1,3 +1,6 @@
+> 本文内容由[Sayuri](https://zh.wikipedia.org/wiki/Sayuri)转换而来。
+
+
 **Sayuri**（，）為来自[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")，又常被称为「缺氧少女Sayuri（）」。所屬[唱片公司](../Page/唱片公司.md "wikilink")為。
 
 ## 經歷

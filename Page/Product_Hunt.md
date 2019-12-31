@@ -1,4 +1,4 @@
-> 本文内容由[Product Hunt](https://zh.wikipedia.org/wiki/Product Hunt)转换而来。
+> 本文内容由[Product Hunt](https://zh.wikipedia.org/wiki/Product_Hunt)转换而来。
 
 
 **Product Hunt**是一個供用戶分享和發現[產品的網站](https://zh.wikipedia.org/wiki/產品 "wikilink")。網站於2013年由瑞安·胡佛（）創立，之後加入了[Y Combinator](../Page/Y_Combinator_\(公司\).md "wikilink")。用戶可以以每天線性格式發送不同產品貼文到該網站上，網站亦有類似[Hacker News或](../Page/Hacker_News.md "wikilink")[Reddit](../Page/Reddit.md "wikilink")的留言系統。在一天中取得最高票的產品在當天的列表中排序最高。

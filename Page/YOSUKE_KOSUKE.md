@@ -1,4 +1,4 @@
-> 本文内容由[YOSUKE KOSUKE](https://zh.wikipedia.org/wiki/YOSUKE KOSUKE)转换而来。
+> 本文内容由[YOSUKE KOSUKE](https://zh.wikipedia.org/wiki/YOSUKE_KOSUKE)转换而来。
 
 
 **YOSUKE KOSUKE（ヨースケコースケ）**，[日本](../Page/日本.md "wikilink")的男性雙人歌唱團體，由[創作歌手](../Page/創作歌手.md "wikilink")坂上庸介和演員[米原幸佑](../Page/米原幸佑.md "wikilink")於2014年組成，2015年1月28日發行出道專輯『IT'S MY WORLD』。

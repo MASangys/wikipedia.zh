@@ -1,4 +1,4 @@
-> 本文内容由[前進吧！高捷少女 Initiating Station](https://zh.wikipedia.org/wiki/前進吧！高捷少女 Initiating Station)转换而来。
+> 本文内容由[前進吧！高捷少女 Initiating Station](https://zh.wikipedia.org/wiki/前進吧！高捷少女_Initiating_Station)转换而来。
 
 
 《**前進吧！高捷少女 Initiating Station**》是[希萌創意](../Page/希萌創意.md "wikilink")與遊戲社團[NarratoR合作](https://zh.wikipedia.org/wiki/NarratoR "wikilink")，為[臺灣](../Page/臺灣.md "wikilink")[高雄捷運](../Page/高雄捷運.md "wikilink")的[虛擬代言人](https://zh.wikipedia.org/wiki/虛擬代言人 "wikilink")《[高捷少女](../Page/高捷少女.md "wikilink")》系列發表的第一款遊戲。2015年11月20日於官方粉絲專頁上透露遊戲的製作消息，並於2016年1月30日至1月31日的第27屆[開拓動漫祭](../Page/開拓動漫祭.md "wikilink")(FF27)發行。\[1\]\[2\]\[3\]\[4\]

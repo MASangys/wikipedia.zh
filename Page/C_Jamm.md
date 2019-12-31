@@ -1,3 +1,6 @@
+> 本文内容由[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm)转换而来。
+
+
 **C Jamm**（，）\[1\]，本名**柳圣民**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")及团体$exy $treet & Yello Music成员。\[2\]出道初期曾以Rap界的现状为由取艺名为**无趣**（），但现在几乎已经不再使用。现所属带领的旗下。于2015年7月7日发行首张个人专辑《Good Boy Doing Bad Things》。\[3\]曾参加[Show Me The Money 5获得亚军](../Page/Show_Me_The_Money_5.md "wikilink")，\[4\]而获得冠军的则是他童年时的朋友[BewhY](../Page/BewhY.md "wikilink")。\[5\]
 
 ## 生涯
@@ -166,26 +169,15 @@
 [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink") [Category:21世纪的韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪的韩国歌手 "wikilink") [Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink") [Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink") [Category:Just_Music音乐家](https://zh.wikipedia.org/wiki/Category:Just_Music音乐家 "wikilink") [Category:Show_Me_The_Money参赛者](https://zh.wikipedia.org/wiki/Category:Show_Me_The_Money参赛者 "wikilink") [Category:韓國新教徒](https://zh.wikipedia.org/wiki/Category:韓國新教徒 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

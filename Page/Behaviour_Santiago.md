@@ -1,4 +1,4 @@
-> 本文内容由[Behaviour Santiago](https://zh.wikipedia.org/wiki/Behaviour Santiago)转换而来。
+> 本文内容由[Behaviour Santiago](https://zh.wikipedia.org/wiki/Behaviour_Santiago)转换而来。
 
 
 **Behaviour Santiago**（原名**Wanako Studios**），是Behaviour Interactive所持有的智利游戏开发商。

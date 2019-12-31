@@ -1,4 +1,4 @@
-> 本文内容由[Perfect \(迷你專輯\)](https://zh.wikipedia.org/wiki/Perfect \(迷你專輯\))转换而来。
+> 本文内容由[Perfect \(迷你專輯\)](https://zh.wikipedia.org/wiki/Perfect_\(迷你專輯\))转换而来。
 
 
 是英國、愛爾蘭[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[一世代的](https://zh.wikipedia.org/wiki/一世代 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年10月22日發行。\[1\] 這張迷你專輯包含了可以於[iTunes數位下載的四首歌曲](https://zh.wikipedia.org/wiki/iTunes "wikilink")。

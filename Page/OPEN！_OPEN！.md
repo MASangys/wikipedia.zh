@@ -1,4 +1,4 @@
-> 本文内容由[OPEN！ OPEN！](https://zh.wikipedia.org/wiki/OPEN！ OPEN！)转换而来。
+> 本文内容由[OPEN！ OPEN！](https://zh.wikipedia.org/wiki/OPEN！_OPEN！)转换而来。
 
 
 《**OPEN！ OPEN！**》，官方英文名***OPEN！ OPEN！***，是一部於[2015年上映的真人動畫電影](https://zh.wikipedia.org/wiki/2015年電影列表 "wikilink")。本部電影為[簡嫚書](../Page/簡嫚書.md "wikilink")首部電影執導處女作並擔任女主角。由[曹晏豪](../Page/曹晏豪.md "wikilink")、[洪都拉斯](../Page/洪都拉斯_\(藝人\).md "wikilink")、[翁虹](../Page/翁虹.md "wikilink")、[施文彬](../Page/施文彬.md "wikilink")領銜主演。[台灣原訂於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2015年8月7日上映，因受[蘇迪勒颱風影響順延至](https://zh.wikipedia.org/wiki/颱風蘇迪勒_\(2015年\) "wikilink")2015年8月28日上映\[1\]，至2015年9月6日止，全國總票房為新台幣355萬，最後總票房為800萬。

@@ -1,3 +1,6 @@
+> 本文内容由[Y翼戰機](https://zh.wikipedia.org/wiki/Y翼戰機)转换而来。
+
+
 **Y翼戰機**（英語：Y-WING）是[星球大戰系列中虛構的一類轟炸型星際戰鬥機](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")，在星際大戰第四、五、六部曲，以及動畫[星際大戰：複製人之戰系列中都有登場](https://zh.wikipedia.org/wiki/星際大戰：複製人之戰 "wikilink")。此機型在擴充宇宙的故事中亦有多次出現。
 
 ## 历史

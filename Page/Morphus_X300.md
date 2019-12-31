@@ -1,3 +1,6 @@
+> 本文内容由[Morphus X300](https://zh.wikipedia.org/wiki/Morphus_X300)转换而来。
+
+
 '''Morphus X300 '''是由中國深圳的廠商 Aikun 所製作的[平板](https://zh.wikipedia.org/wiki/平板 "wikilink")[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，早於2015年曝光概念機。\[1\]曾透過尋求募資，但最後沒有達到目標。\[2\]在[任天堂Switch](../Page/任天堂Switch.md "wikilink")公開亮相之後的2017年[國際消費性電子展](../Page/消費電子展.md "wikilink")（2017 CES）中，該設備在現場吸引不少參觀者目光。\[3\]
 
 ## 評價

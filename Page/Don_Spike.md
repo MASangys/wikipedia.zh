@@ -1,4 +1,4 @@
-> 本文内容由[Don Spike](https://zh.wikipedia.org/wiki/Don Spike)转换而来。
+> 本文内容由[Don Spike](https://zh.wikipedia.org/wiki/Don_Spike)转换而来。
 
 
 **Don Spike**（，），本名**金明秀**（）是[韓國的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")及[音樂製作人](../Page/音樂製作人.md "wikilink")。\[1\]\[2\]常為音樂組合[Brown Eyed Soul的成员](../Page/Brown_Eyed_Soul.md "wikilink")[Naul](../Page/Naul.md "wikilink")及實力派歌手[金範洙](../Page/金範洙.md "wikilink")製作音樂。\[3\]自2013年起更成為的教授，\[4\]亦有參與多個電視[綜藝節目](../Page/綜藝節目.md "wikilink")演出。\[5\]\[6\]

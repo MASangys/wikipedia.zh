@@ -1,4 +1,4 @@
-> 本文内容由[Culture Depot](https://zh.wikipedia.org/wiki/Culture Depot)转换而来。
+> 本文内容由[Culture Depot](https://zh.wikipedia.org/wiki/Culture_Depot)转换而来。
 
 
 **Culture Depot Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2010年5月16日。當前旗下藝人包括合[全智賢](../Page/全智賢.md "wikilink")、[高素榮](../Page/高素榮.md "wikilink")等多名演員。

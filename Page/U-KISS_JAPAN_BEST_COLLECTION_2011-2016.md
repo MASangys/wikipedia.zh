@@ -1,3 +1,6 @@
+> 本文内容由[U-KISS JAPAN BEST COLLECTION 2011-2016](https://zh.wikipedia.org/wiki/U-KISS_JAPAN_BEST_COLLECTION_2011-2016)转换而来。
+
+
 《**U-KISS JAPAN BEST COLLECTION 2011-2016**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")首張日語[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，在2016年12月21日以四個版本：初回生產限定盤、MV盤、通常盤及event・mu-mo盤（）推出\[1\]。
 
 ## 背景

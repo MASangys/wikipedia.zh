@@ -1,4 +1,4 @@
-> 本文内容由[Windows CE 5.0](https://zh.wikipedia.org/wiki/Windows CE 5.0)转换而来。
+> 本文内容由[Windows CE 5.0](https://zh.wikipedia.org/wiki/Windows_CE_5.0)转换而来。
 
 
 **Windows CE 5.0**(代号为“**Macallan**”) \[1\]是Windows CE 4.2的后续版本,Windows CE .NET家庭版的第三个发行版本。

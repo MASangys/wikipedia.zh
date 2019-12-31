@@ -1,3 +1,6 @@
+> 本文内容由[IMAGINE](https://zh.wikipedia.org/wiki/IMAGINE)转换而来。
+
+
 **株式会社イマジン(IMAGINE Co.,Ltd.) **是進行音樂製作、作家、藝術家的管理的音樂事務所。
 
 主要製作動畫和遊戲相關的音樂。
@@ -81,6 +84,6 @@
 
 ## 外部連結
 
-  - [株式会社イマジン](http://www.imagine-music.co.jp/)
+  - [株式会社イマジン](https://web.archive.org/web/20061105162504/http://www.imagine-music.co.jp/)
 
 [Category:1986年成立的公司](https://zh.wikipedia.org/wiki/Category:1986年成立的公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

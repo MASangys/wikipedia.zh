@@ -1,3 +1,6 @@
+> 本文内容由[武裝少女Machiavellianism](https://zh.wikipedia.org/wiki/武裝少女Machiavellianism)转换而来。
+
+
 《**武裝少女Machiavellianism**》（）是黑神遊夜原作、神崎負責作畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於2014年3月發售的《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")）2014年5月號開始連載\[1\]\[2\]。[單行本已出版](https://zh.wikipedia.org/wiki/單行本 "wikilink")9冊。本編的標題是借用[政治學家](https://zh.wikipedia.org/wiki/政治學 "wikilink")[馬基雅維利](../Page/馬基雅維利.md "wikilink")。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年4月至6月播放。
 
 ## 故事簡介

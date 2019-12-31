@@ -1,3 +1,6 @@
+> 本文内容由[Force Motors](https://zh.wikipedia.org/wiki/Force_Motors)转换而来。
+
+
 **Force Motors**，舊稱**Bajaj Tempo**， 是一家[印度](../Page/印度.md "wikilink")的車輛製造商，旗下有三輪動力車輛、多用途車輛、[休旅車](https://zh.wikipedia.org/wiki/休旅車 "wikilink")、商用輕重型車輛、拖拉機及巴士等產品線。該企業原名Firodia Tempo Ltd.，並在稍後被 Bajaj Auto 持有部分股權時改名Bajaj Tempo Ltd.。\[1\]
 
 此外，該公司亦為[奔馳及](https://zh.wikipedia.org/wiki/奔馳 "wikilink")[寶馬在印度當地供應零組件](https://zh.wikipedia.org/wiki/寶馬 "wikilink")。\[2\]

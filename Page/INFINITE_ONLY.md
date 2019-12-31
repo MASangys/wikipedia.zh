@@ -1,4 +1,4 @@
-> 本文内容由[INFINITE ONLY](https://zh.wikipedia.org/wiki/INFINITE ONLY)转换而来。
+> 本文内容由[INFINITE ONLY](https://zh.wikipedia.org/wiki/INFINITE_ONLY)转换而来。
 
 
 《**INFINITE ONLY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第六張韓語迷你專輯，於2016年9月19日發行\[1\]，主打曲為《태풍》。

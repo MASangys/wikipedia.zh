@@ -1,4 +1,4 @@
-> 本文内容由[Portal:社会/Featured biography/1](https://zh.wikipedia.org/wiki/Portal:社会/Featured biography/1)转换而来。
+> 本文内容由[Portal:社会/Featured biography/1](https://zh.wikipedia.org/wiki/Portal:社会/Featured_biography/1)转换而来。
 
 
 {{\#if:|

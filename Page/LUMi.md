@@ -1,3 +1,6 @@
+> 本文内容由[LUMi](https://zh.wikipedia.org/wiki/LUMi)转换而来。
+
+
 **LUMi**（乐弥\[1\]）是Akatsuki Virtual Artists推出的[Vocaloid虚拟歌手](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。她是经由各领域的专业人士之手而诞生：漫画家深山フギン担当角色设计，[声优](https://zh.wikipedia.org/wiki/声优 "wikilink")[大原沙耶香](../Page/大原沙耶香.md "wikilink")提供原声，雅马哈Vocaloid开发组馬場修三担当声音库开发，Cork公司董事长兼总经理佐渡島庸平担当编辑。\[2\]\[3\]
 
 问世于2017年5月19日。\[4\]6月2日，发布其官方曲，并举行第一届LUMi DTM创作者大赛，次日，发布其免费试用版。\[5\]8月14日，首发限量版线下开始发售。8月30日，普通版及下载版线上开始发售，同时首发限量版也可购买。\[6\]

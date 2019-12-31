@@ -1,4 +1,4 @@
-> 本文内容由[鈴木Fronte 800](https://zh.wikipedia.org/wiki/鈴木Fronte 800)转换而来。
+> 本文内容由[鈴木Fronte 800](https://zh.wikipedia.org/wiki/鈴木Fronte_800)转换而来。
 
 
 **鈴木Fronte 800**乃是[日本](../Page/日本.md "wikilink")鈴木汽車工業（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1965年至1969年間製造發售的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，該款車的基本機械構造和[第一代Fronte](https://zh.wikipedia.org/wiki/鈴木Fronte#第一代TLA/FEA/FEA-II型（1962年-1967年） "wikilink")（FEA-II型）相似，但車身尺碼加以放大。

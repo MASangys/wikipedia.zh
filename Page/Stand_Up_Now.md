@@ -1,3 +1,6 @@
+> 本文内容由[Stand Up Now](https://zh.wikipedia.org/wiki/Stand_Up_Now)转换而来。
+
+
 《**Stand Up Now**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的首張單曲。2017年8月23日由[Being發行](../Page/Being_\(公司\).md "wikilink")。
 
 ## 解說
@@ -54,10 +57,7 @@
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:Being歌曲](https://zh.wikipedia.org/wiki/Category:Being歌曲 "wikilink") [Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.

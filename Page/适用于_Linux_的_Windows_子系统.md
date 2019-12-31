@@ -1,4 +1,4 @@
-> 本文内容由[适用于 Linux 的 Windows 子系统](https://zh.wikipedia.org/wiki/适用于 Linux 的 Windows 子系统)转换而来。
+> 本文内容由[适用于 Linux 的 Windows 子系统](https://zh.wikipedia.org/wiki/适用于_Linux_的_Windows_子系统)转换而来。
 
 
 **适用于 Linux 的 Windows 子系统**（，简称**WSL**）是一个为在[Windows 10和](../Page/Windows_10.md "wikilink")[Windows Server 2019上能够原生运行](../Page/Windows_Server_2019.md "wikilink")[Linux](../Page/Linux.md "wikilink")二进制可执行文件（[ELF格式](../Page/可執行與可鏈接格式.md "wikilink")）的[兼容层](../Page/兼容层.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Birdie Buddy](https://zh.wikipedia.org/wiki/Birdie_Buddy)转换而来。
+
+
 《**Birdie Buddy**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2011年8月8日播出，由曾獲韓國漫畫大獎的漫畫家（이현세）《BUDDY》的[高爾夫漫畫](https://zh.wikipedia.org/wiki/高爾夫 "wikilink")\[1\]改編而成的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。和追求事實性的以往作品不同，結合了高爾夫和武俠的獨特風格。劇情是講述了鄉下天才少女夢想成為職業高爾夫選手的故事。\[2\]\[3\]
 
 ## 演員陣容

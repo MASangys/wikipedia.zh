@@ -1,3 +1,6 @@
+> 本文内容由[SandForce](https://zh.wikipedia.org/wiki/SandForce)转换而来。
+
+
 **SandForce**是一家美国[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")，坐落于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[米尔皮塔斯](../Page/米尔皮塔斯_\(加利福尼亚州\).md "wikilink")，业务为设计和制造用于[固态硬盘](../Page/固态硬盘.md "wikilink")（SSD）的[闪存控制器](../Page/闪存控制器.md "wikilink")。\[1\]2012年1月4日，SandForce被[LSI公司](../Page/LSI公司.md "wikilink")收购，成为LSI的闪存组件部门。在LSI之后，2014年5月6日被[安华高科技收购](../Page/博通有限.md "wikilink")\[2\]，同月29日，希捷科技宣布有意收购LSI的闪存组件部门。\[3\]
 
 SandForce由Alex Naqvi和Rado Danilak于2006年成立。2009年4月，他们宣布进入固态驱动器市场。\[4\]\[5\]

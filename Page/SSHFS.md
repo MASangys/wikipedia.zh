@@ -1,3 +1,6 @@
+> 本文内容由[SSHFS](https://zh.wikipedia.org/wiki/SSHFS)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Unmount_SSHFS.png "fig:右") **SSHFS**（**SSH Filesystem**）是一种通过普通[ssh连接来](https://zh.wikipedia.org/wiki/ssh "wikilink")[挂载和与远程](https://zh.wikipedia.org/wiki/挂载 "wikilink")[服务器](../Page/服务器.md "wikilink")或[工作站](../Page/工作站.md "wikilink")上的[目录和](../Page/目录_\(文件系统\).md "wikilink")[文件交互的](../Page/電腦檔案.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。\[1\]该种客户端通过[SSH文件传输协议](../Page/SSH文件传输协议.md "wikilink")（SFTP）与远程文件系统交互，\[2\]这是一种通过任何可靠提供[文件访问](https://zh.wikipedia.org/wiki/文件访问 "wikilink")、和[文件管理功能的网络协议](https://zh.wikipedia.org/wiki/文件管理器 "wikilink")，它在设计上是[Secure Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议2.0版的一个扩展。
 
 当前使用[FUSE](../Page/FUSE.md "wikilink")的SSHFS实现是早期版本的一个重写。该重写由完成，他也编写[FUSE](../Page/FUSE.md "wikilink")。\[3\]

@@ -1,4 +1,4 @@
-> 本文内容由[Oh!K TV ASIA](https://zh.wikipedia.org/wiki/Oh!K TV ASIA)转换而来。
+> 本文内容由[Oh!K TV ASIA](https://zh.wikipedia.org/wiki/Oh!K_TV_ASIA)转换而来。
 
 
 **Oh\!K TV Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广播公司 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，主要在[東南亞播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。該台播出的大多数節目主要來自韓國[MBC電視台](https://zh.wikipedia.org/wiki/文化广播_\(韩国\) "wikilink")（除了[tvN的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤单又灿烂的神－鬼怪](https://zh.wikipedia.org/wiki/孤单又灿烂的神－鬼怪 "wikilink")》[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[师任堂，光的日记](https://zh.wikipedia.org/wiki/师任堂，光的日记 "wikilink")》），並以韓語、華語及馬來語（語言和字幕）24小時滾動播出MBC的戲劇和綜藝節目。\[1\]\[2\]

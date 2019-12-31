@@ -1,4 +1,4 @@
-> 本文内容由[Swordfish Studios](https://zh.wikipedia.org/wiki/Swordfish Studios)转换而来。
+> 本文内容由[Swordfish Studios](https://zh.wikipedia.org/wiki/Swordfish_Studios)转换而来。
 
 
 **Swordfish Studios**，是总部设在英国伯明翰的软件开发公司，由特雷弗·威廉姆斯和琼·芬尼根在2002年9月成立\[1\]。2004年，旗鱼工作室被独立游戏开发者协会评为“年度开发者”。

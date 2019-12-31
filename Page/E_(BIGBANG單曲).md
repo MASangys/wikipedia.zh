@@ -1,4 +1,4 @@
-> 本文内容由[E \(BIGBANG單曲\)](https://zh.wikipedia.org/wiki/E \(BIGBANG單曲\))转换而来。
+> 本文内容由[E \(BIGBANG單曲\)](https://zh.wikipedia.org/wiki/E_\(BIGBANG單曲\))转换而来。
 
 
 **E**是[南韓五人男子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BIGBANG在闊別](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")11年後終於發行的《**MADE SERIES**》中最後一個月的韓文單曲《**E**》，收錄兩首新歌。 2015年8月5日於各大音源網站公開線上音源，2015年8月12日為實體單曲發行日，實體單曲共有《**E**》黑版及《**e**》白色版兩種版本。

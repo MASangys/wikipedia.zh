@@ -1,3 +1,6 @@
+> 本文内容由[模块:Check isxn](https://zh.wikipedia.org/wiki/模块:Check_isxn)转换而来。
+
+
 \-- This template is a copy of the ISXN validation code from [Module:Citation/CS1](https://zh.wikipedia.org/wiki/Module:Citation/CS1 "wikilink") -- which allows for validating ISBN, ISMN, and ISSN without invoking a citation template
 
 local p = {}

@@ -1,4 +1,4 @@
-> 本文内容由[青空Jumping Heart](https://zh.wikipedia.org/wiki/青空Jumping Heart)转换而来。
+> 本文内容由[青空Jumping Heart](https://zh.wikipedia.org/wiki/青空Jumping_Heart)转换而来。
 
 
 **《青空Jumping Heart》**（）是[Aqours](../Page/Aqours.md "wikilink")的单曲，2016年7月20日由[Lantis](../Page/Lantis.md "wikilink")发行\[1\]\[2\]。

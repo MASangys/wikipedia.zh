@@ -1,3 +1,6 @@
+> 本文内容由[ID-0](https://zh.wikipedia.org/wiki/ID-0)转换而来。
+
+
 《**ID-0**》是在2017年4月播出的[日本](../Page/日本.md "wikilink")原創[3DCG](../Page/三维计算机图形.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[谷口悟朗](../Page/谷口悟朗.md "wikilink")擔任導演、[黑田洋介](../Page/黑田洋介.md "wikilink")擔任編劇、[三次元負責動畫製作](../Page/三次元_\(動畫製作公司\).md "wikilink")\[1\]\[2\]。
 
 ## 登場人物

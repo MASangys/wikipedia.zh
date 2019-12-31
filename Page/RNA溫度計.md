@@ -1,3 +1,6 @@
+> 本文内容由[RNA溫度計](https://zh.wikipedia.org/wiki/RNA溫度計)转换而来。
+
+
 [FourU.png](https://zh.wikipedia.org/wiki/File:FourU.png "fig:FourU.png")，[SD序列高亮表示](https://zh.wikipedia.org/wiki/夏因-達爾加諾序列 "wikilink")\]\]**RNA溫度計**（RNA thermometer），亦稱**RNA溫度傳感器**（RNA thermosensor）是一類對溫度敏感的[非編碼RNA](https://zh.wikipedia.org/wiki/非編碼RNA "wikilink")，能隨溫度變化調控[基因表达](https://zh.wikipedia.org/wiki/基因表达 "wikilink")。RNA溫度計主要調控與熱休克和冷休克反應有關的基因，但與[致病性](https://zh.wikipedia.org/wiki/病原體 "wikilink")、[飢餓狀態等過程相關的基因調控也有關係](https://zh.wikipedia.org/wiki/飢餓 "wikilink")\[1\]。
 
 RNA溫度計一般通過[二級結構](../Page/二級結構.md "wikilink")的改變對溫度變化做出反應。結構的改變會使RNA上等重要區域暴露或遮蔽，進而改變對應編碼[基因](../Page/基因.md "wikilink")的[轉譯速率](https://zh.wikipedia.org/wiki/轉譯 "wikilink")。

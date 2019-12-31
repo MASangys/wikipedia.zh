@@ -1,3 +1,6 @@
+> 本文内容由[Rookie](https://zh.wikipedia.org/wiki/Rookie)转换而来。
+
+
 《**Rookie**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的第四張](../Page/Red_Velvet.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[SM Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2017年2月1日發行。
 
 ## 發行與宣傳

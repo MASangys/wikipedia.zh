@@ -1,3 +1,6 @@
+> 本文内容由[關8的灌飽元氣CD!!](https://zh.wikipedia.org/wiki/關8的灌飽元氣CD!!)转换而来。
+
+
 《**關8的灌飽元氣CD\!\!**》（）為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第8張專輯，於2015年11月11日由INFINITY RECORDS發行。
 
 ## 收錄歌曲

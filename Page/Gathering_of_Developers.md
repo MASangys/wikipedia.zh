@@ -1,4 +1,4 @@
-> 本文内容由[Gathering of Developers](https://zh.wikipedia.org/wiki/Gathering of Developers)转换而来。
+> 本文内容由[Gathering of Developers](https://zh.wikipedia.org/wiki/Gathering_of_Developers)转换而来。
 
 
 **Gathering of Developers**（又名为**God Games and Gathering**）是一个德克萨斯州的游戏出版公司，成立于1998年1月，宗旨为弥补发行商和独立游戏开发者之间的差距，允许独立开发者控制自己的项目、所有权和知识产权，并参与出版和营销决策。该公司是由几个有经验的开发公司合作的游戏发行商。该公司后来成为[Take-Two Interactive的子公司](../Page/Take-Two_Interactive.md "wikilink")。

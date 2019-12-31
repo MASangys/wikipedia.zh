@@ -1,3 +1,6 @@
+> 本文内容由[IT\'S ME](https://zh.wikipedia.org/wiki/IT\'S_ME)转换而来。
+
+
 《**IT'S ME**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（前韓國[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")隊長）的第一張迷你專輯，由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")於2016年11月8日發行。
 
 ## 發行

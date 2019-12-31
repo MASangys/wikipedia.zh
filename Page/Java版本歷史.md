@@ -1,3 +1,6 @@
+> 本文内容由[Java版本歷史](https://zh.wikipedia.org/wiki/Java版本歷史)转换而来。
+
+
 [Java](../Page/Java.md "wikilink")語言自[JDK](../Page/JDK.md "wikilink")1.0版本以來經歷了許多次更新，也在基本[程式庫中增加了大量的](https://zh.wikipedia.org/wiki/程式庫 "wikilink")[類別和套件](../Page/类_\(计算机科学\).md "wikilink")。從J2SE 1.4開始，Java語言的變動由 Java Community Process（JCP）管理，JCP使用Java規範請求（Java Specification Requests，JSRs）來建議和定義對[Java平台內容的新增和修改](https://zh.wikipedia.org/wiki/Java平台 "wikilink")。Java語言由Java語言規範（Java Language Specification，JLS）定義，對JLS的更改則根據[JSR 901管理](https://zh.wikipedia.org/wiki/JSR_901 "wikilink")。
 
 除了語言上的變化，多年來Java标准庫（JCL）发生了巨大的变化，從JDK 1.0中的幾百個類暴增到J2SE 5中的三千多個類。[Swing](../Page/Swing_\(Java\).md "wikilink")、Java2D等的全新[API被加入其中](../Page/应用程序接口.md "wikilink")，而許多原本JDK 1.0的類和方法已被弃用。當然，仍然有一些程式可以將Java程式從新版本的Java平台轉換為較舊版本（例如Java 5.0降轉到1.4）。 

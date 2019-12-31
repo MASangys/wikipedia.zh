@@ -1,3 +1,6 @@
+> 本文内容由[对YouTube的审查](https://zh.wikipedia.org/wiki/对YouTube的审查)转换而来。
+
+
 \[\[<File:YouTube> world map May 2016 Update.png|thumb|400px|
 
 <center>
@@ -44,7 +47,7 @@
 
 ### 泰国
 
-2006年，泰國当局禁止泰國IP地址用戶訪問YouTube。泰國當局確定的20個具有攻擊性的影片，並要求YouTube刪除之前也自行檢查其他影片的內容。2007年3月8日的這一周，YouTube再次被[泰國封鎖](../Page/泰国.md "wikilink")。許多部落客認為是前任總理[塔克辛·欽那瓦在](https://zh.wikipedia.org/wiki/塔克辛·欽那瓦 "wikilink")[有線電視新聞網的訪問所導致](https://zh.wikipedia.org/wiki/CNN "wikilink")，泰國政府則未對於這次禁令提供理由。YouTube於3月10日又再次被開放使用。2007年4月30日晚間，[泰国](../Page/泰国.md "wikilink")政府再次封锁YouTube且长达近４个月。原因是该网站上的一段视频显示了两只脚对着泰国国王[蒲美蓬·阿杜德](../Page/普密蓬·阿杜德.md "wikilink")，而这在泰国被认为是冒犯动作。不過政府之後聲稱將在幾天後解除封鎖YouTube網頁，只會封鎖網站內這類影片而不是整個網站。交通部長指出：「當他們決定移除該影片時，我們將會撤銷禁令。」在這一事件中，[網際網路](../Page/互联网.md "wikilink")[新聞](../Page/新闻.md "wikilink")[部落格](../Page/網誌.md "wikilink")[Mashable](../Page/Mashable.md "wikilink")也因報導對於YouTube影片的問題也被泰國當局封鎖。最后YouTube同意禁止在网站上出现此段视频之后，於8月30日获得解封。\[4\]2007年9月21日，泰國當局透過法院想要禁止一最近出現的影片，內容指出[泰國樞密院院長](https://zh.wikipedia.org/wiki/泰國樞密院 "wikilink")[炳·廷素拉暖](../Page/炳·廷素拉暖.md "wikilink")企圖操縱皇室，使自己繼承成為[泰國國王](../Page/泰国君主列表.md "wikilink")。
+2006年，泰國当局禁止泰國IP地址用戶訪問YouTube。泰國當局確定的20個具有攻擊性的影片，並要求YouTube刪除之前也自行檢查其他影片的內容。2007年3月8日的這一周，YouTube再次被[泰國封鎖](../Page/泰国.md "wikilink")。許多部落客認為是前任總理[塔克辛·欽那瓦在](https://zh.wikipedia.org/wiki/塔克辛·欽那瓦 "wikilink")[有線電視新聞網的訪問所導致](https://zh.wikipedia.org/wiki/CNN "wikilink")，泰國政府則未對於這次禁令提供理由。YouTube於3月10日又再次被開放使用。2007年4月30日晚間，[泰国](../Page/泰国.md "wikilink")政府再次封锁YouTube且长达近４个月。原因是该网站上的一段视频显示了两只脚对着泰国国王[蒲美蓬·阿杜德](../Page/普密蓬·阿杜德.md "wikilink")，而这在泰国被认为是冒犯动作。不過政府之後聲稱將在幾天後解除封鎖YouTube網頁，只會封鎖網站內這類影片而不是整個網站。交通部長指出：「當他們決定移除該影片時，我們將會撤銷禁令。」在這一事件中，[網際網路](../Page/互联网.md "wikilink")[新聞](../Page/新闻.md "wikilink")[部落格](../Page/網誌.md "wikilink")[Mashable](../Page/Mashable.md "wikilink")也因報導對於YouTube影片的問題也被泰國當局封鎖。最后YouTube同意禁止在网站上出现此段视频之后，於8月30日获得解封。\[4\]2007年9月21日，泰國當局透過法院想要禁止一最近出現的影片，內容指出[泰國樞密院院長](https://zh.wikipedia.org/wiki/泰國樞密院 "wikilink")[炳·廷素拉暖](../Page/炳·廷素拉暖.md "wikilink")企圖操縱王室，使自己繼承成為[泰國國王](../Page/泰国君主列表.md "wikilink")。
 
 ### 伊朗
 
@@ -90,7 +93,7 @@
 
   - 2009年8月6日，《[中国国防报](https://zh.wikipedia.org/wiki/中国国防报 "wikilink")》发表文章指责[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")和YouTube是西方敌对势力的宣传与颠覆工具，并称要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力。\[28\]\[29\]\[30\]随后YouTube在中国一直处于封锁状态\[31\]，不过期间仍不时有部分地区报告可突然访问一小段时间（例如可以[Https方式开启网站](https://zh.wikipedia.org/wiki/Https "wikilink")，但不一定能播放影片），可能与防火长城调整规则、技术故障或Google技术调整有关。
 
-Google[透明度报告](../Page/透明度报告.md "wikilink")统计数据显示，YouTube作为[Google产品之一是被中国封锁时间最长的网站](https://zh.wikipedia.org/wiki/Google产品 "wikilink")，持续时间长达3654天（截至2019年3月26日），高于[伊朗的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")3572天和[巴基斯坦](../Page/巴基斯坦.md "wikilink")的1233天。\[32\] 并且把“YouTube”列入审查词汇之列。
+Google[透明度报告](../Page/透明度报告.md "wikilink")统计数据显示，YouTube作为[Google产品之一是被中国封锁时间最长的网站](https://zh.wikipedia.org/wiki/Google产品 "wikilink")，持续时间长达3884天（截至2019年11月11日），高于[伊朗的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")3572天和[巴基斯坦](../Page/巴基斯坦.md "wikilink")的1233天。\[32\] 并且把“YouTube”列入审查词汇之列。
 
 虽然YouTube目前仍然遭到防火长城的封锁，包括[中国中央电视台](../Page/中国中央电视台.md "wikilink")在内的许多中国媒体却已在YouTube上开通了官方频道\[33\]，并定期上传相关节目的视频。同樣的也有許多專以分享YouTube影片的微博帳號出現可供訂閱，並有視頻網站專門成立追蹤的頻道。
 

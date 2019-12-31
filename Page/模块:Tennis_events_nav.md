@@ -1,4 +1,4 @@
-> 本文内容由[模块:Tennis events nav](https://zh.wikipedia.org/wiki/模块:Tennis events nav)转换而来。
+> 本文内容由[模块:Tennis events nav](https://zh.wikipedia.org/wiki/模块:Tennis_events_nav)转换而来。
 
 
 \-- This module implements [Template:Infobox tennis tournament event/events](https://zh.wikipedia.org/wiki/Template:Infobox_tennis_tournament_event/events "wikilink"). -- \[SublimeLinter luacheck-globals:mw\]

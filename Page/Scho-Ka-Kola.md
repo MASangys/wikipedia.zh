@@ -1,3 +1,6 @@
+> 本文内容由[Scho-Ka-Kola](https://zh.wikipedia.org/wiki/Scho-Ka-Kola)转换而来。
+
+
 **Scho-Ka-Kola**是[德国](../Page/德国.md "wikilink")于1936年出品的一种[黑巧克力](https://zh.wikipedia.org/wiki/黑巧克力 "wikilink")，其名源于配方中的“巧克力（**Scho**kolade）”、“[咖啡](../Page/咖啡.md "wikilink")（**Ka**ffee）”和“[可樂果](../Page/可樂果.md "wikilink")（**Kola**nuss）”三个词的[前缀](https://zh.wikipedia.org/wiki/前缀 "wikilink")\[1\]。该款巧克力由于含有高含量的[咖啡因](../Page/咖啡因.md "wikilink")，而具有强烈的提神功效。[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间，Scho-Ka-Kola是[德国国防军标准](https://zh.wikipedia.org/wiki/德国国防军 "wikilink")[口糧之一](https://zh.wikipedia.org/wiki/口糧 "wikilink")，不仅受到士兵欢迎，也成为收藏家追捧的珍品。现时厂方仍大致以1930年代的配方和包装生产Scho-Ka-Kola，并以“能量巧克力”作宣传，在德国及少数其他国家发售。
 
 ## 历史

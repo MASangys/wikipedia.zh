@@ -1,3 +1,6 @@
+> 本文内容由[TML廣場](https://zh.wikipedia.org/wiki/TML廣場)转换而来。
+
+
 [TML_Tower.jpg](https://zh.wikipedia.org/wiki/File:TML_Tower.jpg "fig:TML_Tower.jpg") [TML_Tower_Lobby_2015.jpg](https://zh.wikipedia.org/wiki/File:TML_Tower_Lobby_2015.jpg "fig:TML_Tower_Lobby_2015.jpg")
 
 **TML廣場**（），位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[荃灣](../Page/荃灣.md "wikilink")海盛路3號，是[億京發展](../Page/億京發展.md "wikilink")旗下的工廈物業。大廈樓高32層，總樓面超過100萬呎，每層面積約3.8萬方呎，於2013年10月落成，毗鄰有線電視大樓及[ONE MIDTOWN](../Page/ONE_MIDTOWN.md "wikilink")。地皮由澳洲基金嘉民集團於2010年售予億京發展，作價8.75億元。\[1\]建築師為ALKF+。第一太平戴維斯作為獨家市務代理出售及物業管理。\[2\]

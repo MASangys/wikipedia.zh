@@ -1,4 +1,4 @@
-> 本文内容由[EARTHBOUND PAPAS](https://zh.wikipedia.org/wiki/EARTHBOUND PAPAS)转换而来。
+> 本文内容由[EARTHBOUND PAPAS](https://zh.wikipedia.org/wiki/EARTHBOUND_PAPAS)转换而来。
 
 
 **EARTHBOUND PAPAS**（アースバウンド・パパス）是一个日本[摇滚](../Page/摇滚.md "wikilink")组合。由[Square Enix的原](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")（现）社员组成。以植松伸夫为领队的The Blackmages（[黑魔导士](../Page/黑魔导士.md "wikilink")）后继组合。通称为EBP。目前在日本国内以及国际舞台上频繁活跃中。并曾于2014年赴香港演出，2015年赴北京、上海演出。\[1\]

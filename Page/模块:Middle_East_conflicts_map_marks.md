@@ -1,3 +1,6 @@
+> 本文内容由[模块:Middle East conflicts map marks](https://zh.wikipedia.org/wiki/模块:Middle_East_conflicts_map_marks)转换而来。
+
+
 local p = {
 
 `   gov = 'Location dot red.svg',`

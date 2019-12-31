@@ -1,4 +1,4 @@
-> 本文内容由[I am A Dreamer](https://zh.wikipedia.org/wiki/I am A Dreamer)转换而来。
+> 本文内容由[I am A Dreamer](https://zh.wikipedia.org/wiki/I_am_A_Dreamer)转换而来。
 
 
 《**I am A Dreamer**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[朴孝信](../Page/朴孝信.md "wikilink")的第七張韓語正規專輯，於2016年10月3日數位發行\[1\]；10月7日實體發行。

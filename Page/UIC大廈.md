@@ -1,3 +1,6 @@
+> 本文内容由[UIC大廈](https://zh.wikipedia.org/wiki/UIC大廈)转换而来。
+
+
 **UIC大廈**（）是一棟位於[新加坡](../Page/新加坡.md "wikilink")[珊頓道的](https://zh.wikipedia.org/wiki/珊頓道 "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，其全名為**聯合工業有限公司大廈**（）。大廈於1973年完工，共40層樓，建築高度與[文華大酒店二座](https://zh.wikipedia.org/wiki/文華大酒店 "wikilink")\[1\]、[雪佛龍大廈](../Page/雪佛龍大廈.md "wikilink")\[2\]同為。在1973年完工時與文華大酒店二座同為[新加坡最高的建築物](../Page/新加坡摩天大樓列表.md "wikilink")\[3\] ，然而僅過一年就被建築高度為的[大華銀行大廈](../Page/大華銀行大廈.md "wikilink")二座超越。\[4\]
 
 ## 歷史

@@ -1,4 +1,4 @@
-> 本文内容由[深喉 \(X档案剧集\)](https://zh.wikipedia.org/wiki/深喉 \(X档案剧集\))转换而来。
+> 本文内容由[深喉 \(X档案剧集\)](https://zh.wikipedia.org/wiki/深喉_\(X档案剧集\))转换而来。
 
 
 《**X檔案**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第一季的第二集，于1993年9月17日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")。节目由剧集主创[克里斯·卡特编剧](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")，丹尼尔·沙克海姆执导，剧情介绍的多项要素之后成为[电视剧中层层谜团的重要组成部分](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。

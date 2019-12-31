@@ -1,3 +1,6 @@
+> 本文内容由[Ibappi](https://zh.wikipedia.org/wiki/Ibappi)转换而来。
+
+
 **Ibappi**（）是由[茨城交通](../Page/茨城交通.md "wikilink")發行及引入的[IC卡](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[車票](../Page/車票.md "wikilink")。於同公司的一般路線巴士専用。其登錄商標屬於茨城交通\[1\]。
 
 ## 概要
@@ -72,11 +75,8 @@ Ibappi能在各茨城交通的營業所及水戶車站前乘客服務站發售\[
 [Category:日本智能卡](https://zh.wikipedia.org/wiki/Category:日本智能卡 "wikilink") [Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink") [Category:茨城交通](https://zh.wikipedia.org/wiki/Category:茨城交通 "wikilink")
 
 1.  日本 第5768232号（權利者為茨城交通株式会社）
-
 2.  [公式サイト](http://www.ibako.co.jp/regular/ibappi/)
-
 3.  [時刻表・経路検索](http://www.ibako.co.jp/regular/bus_search/)
-
 4.
 5.
 6.

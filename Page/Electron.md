@@ -1,3 +1,6 @@
+> 本文内容由[Electron](https://zh.wikipedia.org/wiki/Electron)转换而来。
+
+
 **Electron**（原名为**Atom Shell**\[1\]）是[GitHub](../Page/GitHub.md "wikilink")开发的一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")。\[2\]它允许使用[Node.js](../Page/Node.js.md "wikilink")（作为后端）和[Chromium](../Page/Chromium.md "wikilink")（作为前端）完成桌面[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")[应用程序](../Page/应用程序.md "wikilink")的开发。Electron现已被多个开源[Web应用程序用于前端与后端的开发](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")，著名项目包括GitHub的[Atom和](../Page/Atom_\(文字編輯器\).md "wikilink")[微软](../Page/微软.md "wikilink")的[Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")。\[3\]\[4\]
 
 一个基础的Electron包含三个文件：`package.json`（元数据）、`main.js`（代码）和`index.html`（[图形用户界面](../Page/图形用户界面.md "wikilink")）。框架由Electron可执行文件（[Windows中为](https://zh.wikipedia.org/wiki/Windows "wikilink")`electron.exe、`[macOS中为](https://zh.wikipedia.org/wiki/macOS "wikilink")`electron.app`、[Linux](../Page/Linux.md "wikilink")中为`electron`）提供。开发者可以自行添加标志、自定义图标、重命名或编辑Electron可执行文件。

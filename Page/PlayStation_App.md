@@ -1,4 +1,4 @@
-> 本文内容由[PlayStation App](https://zh.wikipedia.org/wiki/PlayStation App)转换而来。
+> 本文内容由[PlayStation App](https://zh.wikipedia.org/wiki/PlayStation_App)转换而来。
 
 
 **PlayStation App**是[索尼互动娱乐创建的](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[Android](../Page/Android.md "wikilink")和[iOS手机](https://zh.wikipedia.org/wiki/iOS "wikilink")[应用程序](../Page/应用程序.md "wikilink")（App），用户可用该程序连接[PlayStation Network](../Page/PlayStation_Network.md "wikilink")。

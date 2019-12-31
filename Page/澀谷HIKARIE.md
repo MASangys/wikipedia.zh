@@ -1,3 +1,6 @@
+> 本文内容由[澀谷HIKARIE](https://zh.wikipedia.org/wiki/澀谷HIKARIE)转换而来。
+
+
 [Shibuya_Hikarie_Ⅱ.JPG](https://zh.wikipedia.org/wiki/File:Shibuya_Hikarie_Ⅱ.JPG "fig:Shibuya_Hikarie_Ⅱ.JPG") [缩略图](https://zh.wikipedia.org/wiki/File:Shibuya_Hikarie_ShinQs_Ground_Floor_2013.jpg "fig:缩略图") **澀谷HIKARIE**（）是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[澀谷站東口](https://zh.wikipedia.org/wiki/澀谷站 "wikilink")，舊東急文化會館址的一處綜合商業設施，在2012年4月26日正式開業。大廈樓高34層，地下則有4層。除了ShinQs東急百貨店之外，還有2層餐廳專層、8樓的「8/」文創空間、活動大廳「Hikarie大廳」、辦公室和設置了2,000個座位的音樂劇場「東急THEATRE Orb」。
 
 2012年，澀谷HIKARIE獲得Good Design獎\[1\]。

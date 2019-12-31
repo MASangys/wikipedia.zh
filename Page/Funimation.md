@@ -1,3 +1,6 @@
+> 本文内容由[Funimation](https://zh.wikipedia.org/wiki/Funimation)转换而来。
+
+
 **Funimation**，是[日裔美國人](../Page/日裔美國人.md "wikilink")福永元（Gen Fukunaga）\[1\]在[美國所創建動畫及娛樂相關事業](https://zh.wikipedia.org/wiki/美國 "wikilink")，其中以片商**Funimation Productions, LLC**為運作核心、[商業名稱](../Page/商業名稱.md "wikilink")**FUNimation Entertainment**\[2\]，現以企業集團Group 1200 Media方式運作\[3\]。
 
 ## 概要

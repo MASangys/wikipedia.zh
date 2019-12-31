@@ -1,3 +1,6 @@
+> 本文内容由[Feel so right](https://zh.wikipedia.org/wiki/Feel_so_right)转换而来。
+
+
 《**Feel so right**》是[日本](../Page/日本.md "wikilink")女子[演唱團體](https://zh.wikipedia.org/wiki/演唱 "wikilink")[MAX的第](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年12月5日由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

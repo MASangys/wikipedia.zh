@@ -1,4 +1,4 @@
-> 本文内容由[松下Lumix DMC-GM5](https://zh.wikipedia.org/wiki/松下Lumix DMC-GM5)转换而来。
+> 本文内容由[松下Lumix DMC-GM5](https://zh.wikipedia.org/wiki/松下Lumix_DMC-GM5)转换而来。
 
 
 **Lumix DMC-GM5**是松下公司于2014年10月推出的[微4/3系统相机](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，属于[数码无反分类](../Page/無反光鏡可換鏡頭相機.md "wikilink")。

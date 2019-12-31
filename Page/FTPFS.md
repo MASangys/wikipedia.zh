@@ -1,3 +1,6 @@
+> 本文内容由[FTPFS](https://zh.wikipedia.org/wiki/FTPFS)转换而来。
+
+
 **FTPFS**是指支持通过标准文件系统的[应用程序接口](../Page/应用程序接口.md "wikilink")（API）访问[文件传输协议](../Page/文件传输协议.md "wikilink")（FTP）服务器的[文件系统](../Page/文件系统.md "wikilink")。
 
 在[Linux](../Page/Linux.md "wikilink")系统中，FTPFS最初实现为一个[Linux内核](../Page/Linux内核.md "wikilink")模块，允许用户[挂载一个](https://zh.wikipedia.org/wiki/挂载 "wikilink")[FTP服务器到本地文件系统](../Page/文件传输协议.md "wikilink")，但它从不被认为是完美的方式。在2003年，它已转换为使用LUFS，以及之后变为[FUSE](../Page/FUSE.md "wikilink")。现在它被称为，因为它使用为FTP传输通用的[libcurl](../Page/CURL.md "wikilink")，并正成为主要[Linux发行版](../Page/Linux发行版.md "wikilink")的一部分。也有用于FTP站点智能镜像的LftpFS。

@@ -1,4 +1,4 @@
-> 本文内容由[In Through the Out Door](https://zh.wikipedia.org/wiki/In Through the Out Door)转换而来。
+> 本文内容由[In Through the Out Door](https://zh.wikipedia.org/wiki/In_Through_the_Out_Door)转换而来。
 
 
 《****》是英国摇滚乐队[齐柏林飞艇的第八张录音室专辑](https://zh.wikipedia.org/wiki/齐柏林飞艇乐队 "wikilink")，发行于1979年8月。它是乐队最后一张完全由新歌组成的专辑，最后一张登顶美国[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")的录音室专辑，也是鼓手[约翰·博纳姆去世前发行的最后一张专辑](https://zh.wikipedia.org/wiki/约翰·博纳姆 "wikilink")。尽管该专辑受到了差评\[1\]，它在英美两国的榜单表现非常出色，也取得了商业成功。

@@ -1,3 +1,6 @@
+> 本文内容由[High Heels \(迷你專輯\)](https://zh.wikipedia.org/wiki/High_Heels_\(迷你專輯\))转换而来。
+
+
 *High Heels*是韩国女子组合[CLC](../Page/CLC.md "wikilink")第一次发行的一张日本迷你专辑，也是Cube娱乐（日本）最新发行的第一张专辑。\[1\]
 
 ## 概况

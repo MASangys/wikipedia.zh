@@ -1,3 +1,6 @@
+> 本文内容由[AMD Radeon 500系列](https://zh.wikipedia.org/wiki/AMD_Radeon_500系列)转换而来。
+
+
 **Radeon 500系列**，是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[顯示核心系列](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。這個系列目前有核心代號為Polaris 20、Polaris 21以及Polaris 12的晶片。目前本產品線基本上是Radeon 400系列產品的小幅升級版，主要是時脈、供電以及運作功耗控制（包括視訊回放）等方面的改進，不過部分型號也採用了新的晶片，如Radeon RX 560及RX 550。\[1\]
 
 ## 產品

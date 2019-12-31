@@ -1,3 +1,6 @@
+> 本文内容由[Innocent \(蒼井翔太單曲\)](https://zh.wikipedia.org/wiki/Innocent_\(蒼井翔太單曲\))转换而来。
+
+
 {{ external media | align = right | video1 = [イノセント - YouTube公式視聴動画](https://www.youtube.com/watch?v=bOPHZ-E_Fus) | video2 = [ずっと… - YouTube公式視聴動画](https://www.youtube.com/watch?v=ae3N_YfKxtk) | video3 = [Summer Dreamin' - YouTube公式視聴動画](https://www.youtube.com/watch?v=OVfRpWWKfn8) }} 《**Innocent**》（）是[蒼井翔太](../Page/蒼井翔太.md "wikilink")第六張單曲。2016年7月27日由國王唱片發行。\[1\]\[2\]
 
 ## 概要

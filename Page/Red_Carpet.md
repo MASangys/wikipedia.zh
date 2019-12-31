@@ -1,4 +1,4 @@
-> 本文内容由[Red Carpet](https://zh.wikipedia.org/wiki/Red Carpet)转换而来。
+> 本文内容由[Red Carpet](https://zh.wikipedia.org/wiki/Red_Carpet)转换而来。
 
 
 《**Red Carpet**》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2015年12月2日發行\[1\]的第43張單曲。

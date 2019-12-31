@@ -1,4 +1,4 @@
-> 本文内容由[Go! Japan TV 日本大放送](https://zh.wikipedia.org/wiki/Go! Japan TV 日本大放送)转换而来。
+> 本文内容由[Go! Japan TV 日本大放送](https://zh.wikipedia.org/wiki/Go!_Japan_TV_日本大放送)转换而来。
 
 
 《**Go\! Japan TV 日本大放送**》（）由[香港](../Page/香港.md "wikilink")製作，是一個專門宣傳[日本](../Page/日本.md "wikilink")旅遊的節目。

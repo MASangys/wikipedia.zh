@@ -1,4 +1,4 @@
-> 本文内容由[模块:WPMILHIST Infobox style](https://zh.wikipedia.org/wiki/模块:WPMILHIST Infobox style)转换而来。
+> 本文内容由[模块:WPMILHIST Infobox style](https://zh.wikipedia.org/wiki/模块:WPMILHIST_Infobox_style)转换而来。
 
 
 local retval = {

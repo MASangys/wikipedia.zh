@@ -1,3 +1,6 @@
+> 本文内容由[ASUS ZenUI](https://zh.wikipedia.org/wiki/ASUS_ZenUI)转换而来。
+
+
 **ASUS ZenUI**是由[ASUS开发的一款适用于](https://zh.wikipedia.org/wiki/ASUS "wikilink")[Android](../Page/Android.md "wikilink")的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")，預設搭載於ASUS自家出廠旗下手機[ZenFone系列與平板電腦](https://zh.wikipedia.org/wiki/ZenFone "wikilink")[ZenPad系列](https://zh.wikipedia.org/wiki/ZenPad "wikilink")。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-WikidataDesc.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-WikidataDesc.js)转换而来。
+
+
 /\*\*
 
 `* WikidataDesc`

@@ -1,3 +1,6 @@
+> 本文内容由[Nobody](https://zh.wikipedia.org/wiki/Nobody)转换而来。
+
+
 《**Nobody**》，是[韩国女子组合](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Wonder Girls第一張](../Page/Wonder_Girls.md "wikilink")[EP](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《》（2008年）中的一首歌曲。2008年9月22日，南韓發行了[数字下载单曲](https://zh.wikipedia.org/wiki/音乐下载 "wikilink")。这首歌由[公园金年撰写](https://zh.wikipedia.org/wiki/公园金年 "wikilink")，并參考意大利三重唱La La的作品《Johnny Johnny》中的一些元素。它在数小时内变得流行，成为各种数字音乐网站的首选搜索词。\[1\]该歌曲以四种不同的语言录音和发布：[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")、[英语](../Page/英语.md "wikilink")、[普通话與](../Page/現代標準漢語.md "wikilink")[日语](../Page/日语.md "wikilink")。
 
 《Nobody》的现场表演录像《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》有一段时间是YouTube上最受欢迎的[K-pop视频](https://zh.wikipedia.org/wiki/K-pop "wikilink")，直到2011年9月1日被[少女时代](../Page/少女时代.md "wikilink")的音乐录影带《[Gee](../Page/Gee_\(專輯\).md "wikilink")》超越。

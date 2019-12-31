@@ -1,4 +1,4 @@
-> 本文内容由[鄭俊弘 THE RED CONCERT 2015 紅色演唱會](https://zh.wikipedia.org/wiki/鄭俊弘 THE RED CONCERT 2015 紅色演唱會)转换而来。
+> 本文内容由[鄭俊弘 THE RED CONCERT 2015 紅色演唱會](https://zh.wikipedia.org/wiki/鄭俊弘_THE_RED_CONCERT_2015_紅色演唱會)转换而来。
 
 
 《**鄭俊弘The Red Concert 2015演唱會**》是香港男歌手[鄭俊弘](../Page/鄭俊弘.md "wikilink")第二個人演唱會，於2015年9月5日假九龍灣國際展貿中心舉行，名字全寫為「Ecco呈獻：鄭俊弘 The Red Concert 2015 演唱會」。

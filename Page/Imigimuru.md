@@ -1,3 +1,6 @@
+> 本文内容由[Imigimuru](https://zh.wikipedia.org/wiki/Imigimuru)转换而来。
+
+
 **Imigimuru**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。
 
 代表作是目前在[KADOKAWA](../Page/KADOKAWA.md "wikilink")連載、2016年7月至9月播出同名[電視動畫的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[這個美術社大有問題！](https://zh.wikipedia.org/wiki/這個美術社大有問題！ "wikilink")》。

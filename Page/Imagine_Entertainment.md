@@ -1,4 +1,4 @@
-> 本文内容由[Imagine Entertainment](https://zh.wikipedia.org/wiki/Imagine Entertainment)转换而来。
+> 本文内容由[Imagine Entertainment](https://zh.wikipedia.org/wiki/Imagine_Entertainment)转换而来。
 
 
 **Imagine Entertainment LLC**，簡稱**Imagine Entertainment**，在1986年，由導演[朗·侯活](../Page/朗·侯活.md "wikilink")和監製[白賴仁·基沙](../Page/白賴仁·基沙.md "wikilink")（兩者為聯席董事長），於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州比華利山](../Page/比佛利山_\(加利福尼亞州\).md "wikilink")（總部）成立。

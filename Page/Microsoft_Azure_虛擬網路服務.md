@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Azure 虛擬網路服務](https://zh.wikipedia.org/wiki/Microsoft Azure 虛擬網路服務)转换而来。
+> 本文内容由[Microsoft Azure 虛擬網路服務](https://zh.wikipedia.org/wiki/Microsoft_Azure_虛擬網路服務)转换而来。
 
 
 **Microsoft Azure 虛擬網路服務** 是 Microsoft Azure 所提供的網路通訊服務，並運行於 Azure 資料中心內，供應運算資源所需要的網路通訊能力以及必需的資源，例如 IP 位址。

@@ -1,3 +1,6 @@
+> 本文内容由[Joox](https://zh.wikipedia.org/wiki/Joox)转换而来。
+
+
 Joox是由[騰訊公司在](https://zh.wikipedia.org/wiki/騰訊公司 "wikilink")[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，[香港](../Page/香港.md "wikilink")及[南非地區子公司運營的音樂平台](https://zh.wikipedia.org/wiki/南非 "wikilink")。\[1\]\[2\]其用户分为免费用户与Purchase VIP付费用户两种，Purchase VIP在各個地区定价不同。Purchase VIP拥有收听Hi-Fi格式音乐，离线收听等功能。\[3\]由CAMIA数据周刊调研得出，Joox在[Google Play泰国区下载量排名第](../Page/Google_Play.md "wikilink")6，次于[Spotify](../Page/Spotify.md "wikilink")。\[4\]也被称作东南亚版[QQ音乐](../Page/QQ音乐.md "wikilink")。\[5\]
 
 ## 背景
@@ -30,19 +33,12 @@ Joox与[Spotify](../Page/Spotify.md "wikilink")同样，采用的是[免费增�
 [Category:音樂軟體](https://zh.wikipedia.org/wiki/Category:音樂軟體 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:腾讯音乐娱乐集团](https://zh.wikipedia.org/wiki/Category:腾讯音乐娱乐集团 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.

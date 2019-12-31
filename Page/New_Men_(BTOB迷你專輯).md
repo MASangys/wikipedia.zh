@@ -1,3 +1,6 @@
+> 本文内容由[New Men \(BTOB迷你專輯\)](https://zh.wikipedia.org/wiki/New_Men_\(BTOB迷你專輯\))转换而来。
+
+
 《**NEW MEN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第9張韓語迷你專輯，於2016年11月7日發行，主打歌曲為〈祈禱（I'll Be Your Man）〉（）\[1\]。
 
 ## 背景

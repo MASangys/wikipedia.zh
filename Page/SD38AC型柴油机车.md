@@ -1,3 +1,6 @@
+> 本文内容由[SD38AC型柴油机车](https://zh.wikipedia.org/wiki/SD38AC型柴油机车)转换而来。
+
+
 **SD38AC型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）在1971年推出的一款[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，这是[SD38型柴油机车](../Page/SD38型柴油机车.md "wikilink")的交—直流电传动版本，主要竞争对象是[通用电气](../Page/通用电气.md "wikilink")公司的[U23C型柴油机车](../Page/U23C型柴油机车.md "wikilink")。
 
 1965年，易安迪公司宣布同时推出9款标准型柴油机车，这一系列的机车实现了高度的标准化，全部采用全新的[645系列柴油机](../Page/易安迪645系列柴油机.md "wikilink")，功率等级范围为1000～6000马力，除了包括3000马力等级的[GP40](../Page/GP40型柴油机车.md "wikilink")、[SD40型柴油机车](../Page/SD40型柴油机车.md "wikilink")之外，产品线还涵盖了2000马力等级的[GP38](../Page/GP38型柴油机车.md "wikilink")、SD38型柴油机车，两者分别取代上一代的[GP28](../Page/GP28型柴油机车.md "wikilink")、[SD28型柴油机车](../Page/SD28型柴油机车.md "wikilink")的位置；3000马力以上的车型均采用[交流牵引发电机](../Page/交流發電機.md "wikilink")，而3000马力以下的车型则采用传统的[直流牵引发电机](https://zh.wikipedia.org/wiki/直流發電機 "wikilink")。

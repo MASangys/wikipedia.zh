@@ -1,4 +1,4 @@
-> 本文内容由[Unpretty Rapstar 3](https://zh.wikipedia.org/wiki/Unpretty Rapstar 3)转换而来。
+> 本文内容由[Unpretty Rapstar 3](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3)转换而来。
 
 
 《**Unpretty Rapstar 3**》（）是在2016年7月29日星期五晚11点播出的[韩国音乐节目](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。节目类似之前在Mnet播出的[Show Me The Money系列hiphop选秀节目](../Page/Show_Me_The_Money.md "wikilink")，区别是参与节目的竞演者均为女性Rapper。另外每一次音源任务都会有知名Hiphop制作人参与，对出演者的实力进行评估，发行音源是用一种强者生存的方式进行。

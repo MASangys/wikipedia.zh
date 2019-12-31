@@ -1,3 +1,6 @@
+> 本文内容由[Selfish](https://zh.wikipedia.org/wiki/Selfish)转换而来。
+
+
 《**Selfish**》是[前田敦子](../Page/前田敦子.md "wikilink")的第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2016年6月22日由[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 收錄曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Amis](https://zh.wikipedia.org/wiki/Amis)转换而来。
+
+
 **李昕**（），[藝名](../Page/藝名.md "wikilink")**Amis 艾蜜絲**，曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink") \[1\]，現為[味全龍](../Page/味全龍.md "wikilink")啦啦隊總教練\[2\]，在[臉書粉專擁有超過](https://zh.wikipedia.org/wiki/臉書 "wikilink")29萬名粉絲，被譽為「啦啦隊女神」\[3\]。
 
 ## 經歷

@@ -1,4 +1,4 @@
-> 本文内容由[ViuTV電視劇集列表 \(2016年\)](https://zh.wikipedia.org/wiki/ViuTV電視劇集列表 \(2016年\))转换而来。
+> 本文内容由[ViuTV電視劇集列表 \(2016年\)](https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_\(2016年\))转换而来。
 
 
 本列表列出[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於2016年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。

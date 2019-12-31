@@ -1,3 +1,6 @@
+> 本文内容由[NU\'EST演唱會列表](https://zh.wikipedia.org/wiki/NU\'EST演唱會列表)转换而来。
+
+
 此頁面主要列舉韓國男子團體[NU'EST](../Page/NU'EST.md "wikilink")及其子組合[NU'EST-M和](https://zh.wikipedia.org/wiki/NU'EST-M "wikilink")[NU'EST W歷年舉辦的](../Page/NU'EST.md "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、見面會及其他參與的大型公演等。迄今，組合演出地點遍佈世界各地不同的國家，包括[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")等。
 
 ## 2012年
@@ -17,10 +20,10 @@
 
   - **新輯紀念迷你演唱會 (SHOW TIME\! NU'EST TIME\! in Seoul)**\[2\]
 
-|            |           |           |
-| ---------- | --------- | --------- |
-| **日期**     | **演唱會站次** | **舉行地點**  |
-| 2013年2月13日 | 韓國        | 首爾麻浦區藝術中心 |
+|            |           |              |
+| ---------- | --------- | ------------ |
+| **日期**     | **演唱會站次** | **舉行地點**     |
+| 2013年2月13日 | 韓國        | 韓國首爾市麻浦區藝術中心 |
 
   - **NU'EST 出道一週年 Live ～Show Time～ (NU'EST Debut 1st Anniversary Live ～Show Time ～)**
 
@@ -97,7 +100,7 @@
 
 \== 2015年 ==
 
-  - **NU'EST Re:BIRTH 泰國粉絲見面會 (NU'EST RE:BIRTH FAN MEETING IN THAILAND)**\[8\]
+  - **NU'EST [Re:BIRTH](https://zh.wikipedia.org/wiki/Re:BIRTH "wikilink") 泰國粉絲見面會 (NU'EST RE:BIRTH FAN MEETING IN THAILAND)**\[8\]
 
 |            |           |                     |
 | ---------- | --------- | ------------------- |
@@ -106,10 +109,10 @@
 
   - **NU'EST The 3rd Anniversary Fan Meeting-The First L.O.Λ.E Story**\[9\]
 
-|            |           |                |
-| ---------- | --------- | -------------- |
-| **日期**     | **演唱會站次** | **舉行地點**       |
-| 2015年3月15日 | 韓國        | 首爾江南區三成洞白岩藝術禮堂 |
+|            |           |                   |
+| ---------- | --------- | ----------------- |
+| **日期**     | **演唱會站次** | **舉行地點**          |
+| 2015年3月15日 | 韓國        | 韓國首爾市江南區三成洞白岩藝術禮堂 |
 
   - **NU'EST LIVE TOUR「SHOW TIME3」**
 
@@ -142,10 +145,10 @@
 
   - **NU'EST「SUMMER VACATION」韓國粉絲見面會 (NU'EST FAN MEETING 'SUMMER VACATION' in Korea)**
 
-|           |           |                   |
-| --------- | --------- | ----------------- |
-| **日期**    | **演唱會站次** | **舉行地點**          |
-| 2015年8月9日 | 韓國        | 首爾 Ilchi Art Hall |
+|           |           |                      |
+| --------- | --------- | -------------------- |
+| **日期**    | **演唱會站次** | **舉行地點**             |
+| 2015年8月9日 | 韓國        | 韓國首爾市 Ilchi Art Hall |
 
   - **NU'EST WORLD TOUR CONCERT RE:VIVE**
 
@@ -176,7 +179,7 @@
 | 2015年9月27日  | 愛知        | 愛知 Zepp 名古屋 |
 | 2015年11月21日 | 札幌        | 北海道 Zepp 札幌 |
 
-  - **『Bridge the World』專輯發行紀念特別Live**
+  - **『[Bridge the World](../Page/Bridge_the_World.md "wikilink")』專輯發行紀念特別Live**
 
 |             |           |             |
 | ----------- | --------- | ----------- |
@@ -204,7 +207,7 @@
 | 2016年5月3日－4日 | 東京        | 東京惠比壽 The Garden Hall |
 |              |           |                       |
 
-  - **The 5th Mini Album 'CANVAS' PRESS Showcase**
+  - **The 5th Mini Album '[CANVAS](https://zh.wikipedia.org/wiki/Canvas_\(NU'EST專輯\) "wikilink")' PRESS Showcase**
 
 |        |           |                       |
 | ------ | --------- | --------------------- |
@@ -228,37 +231,37 @@
 
   - **2017 NU'EST W FAN MEETING - L.O.Λ.E & DREAM**\[11\]
 
-|                |           |           |
-| -------------- | --------- | --------- |
-| **日期**         | **演唱會站次** | **舉行地點**  |
-| 2017年8月26日－27日 | 首爾        | 高麗大學華晶體育館 |
+|                |           |                                                 |
+| -------------- | --------- | ----------------------------------------------- |
+| **日期**         | **演唱會站次** | **舉行地點**                                        |
+| 2017年8月26日－27日 | 首爾        | 韓國首爾市城北區[高麗大學](../Page/高麗大學.md "wikilink")華晶體育館 |
 
   - **2017 NU'EST W SPECIAL CONCERT**
 
-|             |           |              |
-| ----------- | --------- | ------------ |
-| **日期**      | **演唱會站次** | **舉行地點**     |
-| 2017年10月29日 | 台北        | 國立臺灣大學體育館一樓  |
-| 2017年11月18日 | 香港        | 九龍灣國際展貿中心ー匯星 |
+|             |           |                                                  |
+| ----------- | --------- | ------------------------------------------------ |
+| **日期**      | **演唱會站次** | **舉行地點**                                         |
+| 2017年10月29日 | 台北        | [國立臺灣大學體育館一樓](../Page/國立臺灣大學綜合體育館.md "wikilink") |
+| 2017年11月18日 | 香港        | 九龍灣國際展貿中心ー匯星                                     |
 
 
 \== 2018年 ==
 
   - **NU'EST W CONCERT <DOUBLE YOU>**
 
-|           |           |                                 |
-| --------- | --------- | ------------------------------- |
-| **日期**    | **演唱會站次** | **舉行地點**                        |
-| 3月16日-18日 | 首爾        | 奥林匹克公園SK手球賽場                    |
-| 4月28日     | 曼谷        | Thunder Dome, Muang Thong Thani |
-| 5月26日     | 台北        | 新北市五股工商展覽館                      |
+|           |           |                                                         |
+| --------- | --------- | ------------------------------------------------------- |
+| **日期**    | **演唱會站次** | **舉行地點**                                                |
+| 3月16日-18日 | 首爾        | 韓國首爾市松坡區[奥林匹克公園SK手球賽場](../Page/SK奧林匹克手球館.md "wikilink") |
+| 4月28日     | 曼谷        | Thunder Dome, Muang Thong Thani                         |
+| 5月26日     | 台北        | 新北市五股工商展覽館                                              |
 
-  - **'WHO, YOU' SHOWCASE**
+  - **'[WHO, YOU](https://zh.wikipedia.org/wiki/WHO,_YOU "wikilink")' SHOWCASE**
 
-|        |           |              |
-| ------ | --------- | ------------ |
-| **日期** | **演唱會站次** | **舉行地點**     |
-| 6月25日  | 首爾松坡區     | 奥林匹克公園奥林匹克大廳 |
+|        |           |                      |
+| ------ | --------- | -------------------- |
+| **日期** | **演唱會站次** | **舉行地點**             |
+| 6月25日  | 首爾        | 韓國首爾市松坡區奥林匹克公園奥林匹克大廳 |
 
   - **NU'EST W CONCERT <DOUBLE YOU> ENCORE**
 
@@ -269,7 +272,7 @@
 | 10月27日 | 曼谷        | Thunder Dome, Muang Thong Thani |
 |        |           |                                 |
 
-  - **'WAKE, N' SHOWCASE**
+  - **'[WAKE, N](https://zh.wikipedia.org/wiki/WAKE,N "wikilink")' SHOWCASE**
 
 |        |           |                          |
 | ------ | --------- | ------------------------ |
@@ -278,21 +281,21 @@
 
   - **NU'EST W CONCERT <DOUBLE YOU> FINAL IN SEOUL**
 
-|            |           |          |
-| ---------- | --------- | -------- |
-| **日期**     | **演唱會站次** | **舉行地點** |
-| 12月15日-16日 | 首爾        | 蠶室室內體育館  |
-|            |           |          |
+|            |           |                 |
+| ---------- | --------- | --------------- |
+| **日期**     | **演唱會站次** | **舉行地點**        |
+| 12月15日-16日 | 首爾        | 韓國首爾市松坡區蠶室室內體育館 |
+|            |           |                 |
 
 
 \== 2019年 ==
 
   - **2019 NU'EST CONCERT <Segno> IN SEOUL**
 
-|           |           |                                                      |
-| --------- | --------- | ---------------------------------------------------- |
-| **日期**    | **演唱會站次** | **舉行地點**                                             |
-| 4月12日-14日 | 首爾        | 首爾市松坡區[奥林匹克體操競技場](../Page/首尔奥林匹克体操竞技场.md "wikilink") |
+|           |           |                                                        |
+| --------- | --------- | ------------------------------------------------------ |
+| **日期**    | **演唱會站次** | **舉行地點**                                               |
+| 4月12日-14日 | 首爾        | 韓國首爾市松坡區[奥林匹克體操競技場](../Page/首尔奥林匹克体操竞技场.md "wikilink") |
 
   - **2019 NU'EST TOUR <Segno>**
 
@@ -306,19 +309,39 @@
 | 9月7日      | 吉隆坡       | 馬來西亞雪蘭莪州莎亞南[美拉華蒂體育館](../Page/美拉华蒂体育馆.md "wikilink")               |
 | 9月14日     | 台北        | 新北市[新莊體育館](../Page/新莊體育館.md "wikilink")                           |
 
+  - **'[The Table](../Page/The_Table_\(NU'EST專輯\).md "wikilink")' SHOWCASE** ****
+
+|        |           |                                                 |
+| ------ | --------- | ----------------------------------------------- |
+| **日期** | **演唱會站次** | **舉行地點**                                        |
+| 10月21日 | 首爾東大門區    | 韓國首爾市東大門區[慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂 |
+
   - **2019 NU'EST FAN MEETING - L.O.Λ.E PAGE**
 
-|            |           |                                                      |
-| ---------- | --------- | ---------------------------------------------------- |
-| **日期**     | **演唱會站次** | **舉行地點**                                             |
-| 11月15日-17日 | 首爾        | 首爾市松坡區[奥林匹克體操競技場](../Page/首尔奥林匹克体操竞技场.md "wikilink") |
+|            |           |                                                        |
+| ---------- | --------- | ------------------------------------------------------ |
+| **日期**     | **演唱會站次** | **舉行地點**                                               |
+| 11月15日-17日 | 首爾        | 韓國首爾市松坡區[奥林匹克體操競技場](../Page/首尔奥林匹克体操竞技场.md "wikilink") |
 
   - **2019 NU'EST REN SPECIAL LIVE SHOW - \<REN'S LIFE\>**
 
-|        |           |                                                |
-| ------ | --------- | ---------------------------------------------- |
-| **日期** | **演唱會站次** | **舉行地點**                                       |
-| 11月23日 | 香港        | 香港[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink") |
+|              |           |                                                   |
+| ------------ | --------- | ------------------------------------------------- |
+| **日期**       | **演唱會站次** | **舉行地點**                                          |
+| （因故中止）11月23日 | 香港        | 香港[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")    |
+| 12月7日        | 台北        | 台北市[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")TICC |
+| 12月15日       | 曼谷        | 泰國曼谷韓潮百貨商城 6樓ULTRA ARENA                          |
+
+## 2020年
+
+  - **2020 NU'EST BAEKHO MINI CONCERT - <BAEKHO-liday>** ****
+
+|        |           |                                            |
+| ------ | --------- | ------------------------------------------ |
+| **日期** | **演唱會站次** | **舉行地點**                                   |
+| 1月11日  | 澳門        | [澳門百老匯](../Page/澳門百老匯.md "wikilink") 百老匯舞台 |
+| 2月14日  | 台北        | 國立臺灣大學體育館一樓                                |
+| 2月16日  | 曼谷        | 泰國曼谷邦卡皮購物中心 MCC HALL                       |
 
 
 \== 其他公演 ==
@@ -390,7 +413,7 @@
 | 5月13日                    | K-POP EXPO IN JEJU 韓國濟州島音樂節                                       | 韓國濟州綜合體育場                                                       |                                                                                                                                              |
 | 6月4日                     | [2016 Dream Concert](../Page/夢想演唱會.md "wikilink") \[14\]          | 韓國首爾世界盃競技場                                                      |                                                                                                                                              |
 | 9月23日                    | Angels Giving Hope 2016                                           | 韓國首爾奧林匹克體操競技場                                                   |                                                                                                                                              |
-| 11月27日                   | 2016 Super Seoul Dream Concert                                    | 韓國首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")                      |                                                                                                                                              |
+| 11月27日                   | 2016 Super Seoul Dream Concert                                    | 韓國首爾九老區[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")                   |                                                                                                                                              |
 |                          |                                                                   |                                                                 |                                                                                                                                              |
 
 ### 2017年至2018年
@@ -443,7 +466,7 @@ MC：JR、Ren[15]</p></td>
 <tr class="even">
 <td><p>10月1日</p></td>
 <td><p>Korea Music Festival（KMF）</p></td>
-<td><p>韓國首爾高尺巨蛋</p></td>
+<td><p>韓國首爾九老區高尺天空巨蛋</p></td>
 <td><p>NU'EST W</p></td>
 </tr>
 <tr class="odd">
@@ -533,7 +556,7 @@ MC：JR、Ren[15]</p></td>
 <tr class="odd">
 <td><p>1月25日</p></td>
 <td><p>第27屆 <a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a></p></td>
-<td><p>韓國首爾高尺天空巨蛋</p></td>
+<td><p>韓國首爾九老區高尺天空巨蛋</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -683,7 +706,7 @@ MC：JR、Ren[15]</p></td>
 <tr class="even">
 <td><p>12月28日</p></td>
 <td><p><a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS 歌謠大祝祭</a></p></td>
-<td><p>首爾汝矣島KBS電視台音樂廳</p></td>
+<td><p>韓國首爾汝矣島KBS電視台音樂廳</p></td>
 <td><p>NU'EST W</p></td>
 </tr>
 </tbody>
@@ -707,42 +730,32 @@ MC：JR、Ren[15]</p></td>
 | 8月9日   | 旼炫's Sweet Music Box                              | 韓國首爾廣津區兒童大公園森林舞台                                                        | 旼炫       |
 | 8月17日  | KCON 2019 LA                                      | 美國洛杉磯會議中心史坦波中心                                                          |          |
 | 9月28日  | Super K-Pop Festival Indonesia 2019               | 印尼雅加達印尼會展中心（ICE BSD HALL）                                               |          |
+| 10月19日 | 2019 BOF 釜山同一個亞洲文化節 K-POP演唱會                      | 韓國釜山廣域市華明生態公園                                                           |          |
 | 11月24日 | Pepsi Concert \#FORTHELOVEOFIT 'All Four Seasons' | 韓國首爾松坡區蠶室學生體育館                                                          |          |
 | 11月26日 | 2019 亞洲明星盛典（AAA）                                  | 越南河內[美亭國家體育場](https://zh.wikipedia.org/wiki/美亭國家體育場 "wikilink")         |          |
+| 12月14日 | K-Met Festival 2019                               | 泰國曼谷Union Hall 6樓Union Mall                                             |          |
+| 12月25日 | 2019 [SBS 歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")    | 韓國首爾九老區高尺天空巨蛋                                                           |          |
+| 12月27日 | 2019 [KBS 歌謠大祝祭](../Page/KBS歌謠盛典.md "wikilink")   | 韓國首爾汝矣島KBS電視台音樂廳                                                        |          |
+| 12月31日 | 2019 [MBC 歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")  | 韓國[京畿道](../Page/京畿道.md "wikilink")一山 MBC 夢想中心                           |          |
 
 ## 參考資料
 
 [Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
-1.  [NU'EST 前往海外見粉絲！](http://kpopn.niusnews.com/=K0glkgg6)
-
+1.
 2.  [NU'EST 2月舉行迷你演唱會](http://kpopn.niusnews.com/=K0t1f8g0)
-
 3.  [NU'EST回饋台灣粉絲首開唱　邀歌迷中文填詞《SANDY》](http://star.ettoday.net/news/212009)
-
 4.  [NU'EST 日本兩周年開唱](http://kpopn.niusnews.com/=K301u2j2)
-
 5.  [NU'EST 成功結束首次日巡](http://kpopn.niusnews.com/=K02tftw0)
-
 6.
 7.  [NU'EST 即將展開歐巡](http://kpopn.niusnews.com/=K043mv37)
-
 8.
-
 9.  [NU'EST慶祝兩週年 正式成立後援會](http://www.koreastardaily.com/tc/news/39321)
-
 10. [Nu'est香港開騷慶祝白虎生日](https://news.mingpao.com/pns/nu'est%E9%A6%99%E6%B8%AF%E9%96%8B%E9%A8%B7%E6%85%B6%E7%A5%9D%E7%99%BD%E8%99%8E%E7%94%9F%E6%97%A5/web_tc/article/20150722/s00016/1437501937782)
-
 11.
-
-12. [KCON 演唱會完整演出名單](http://kpopn.niusnews.com/=K0282tw2)
-
+12.
 13.
-
 14.
-
 15.
-
 16.  MBC 연예 스포츠|accessdate=2018-10-06|work=MBC 연예|language=ko}}
-
 17.

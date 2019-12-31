@@ -1,3 +1,6 @@
+> 本文内容由[Que Sera, Sera \(fhána歌曲\)](https://zh.wikipedia.org/wiki/Que_Sera,_Sera_\(fhána歌曲\))转换而来。
+
+
 《**Que Sera, Sera**》（）是[日本](../Page/日本.md "wikilink")音樂團體[fhána的首張歌曲](https://zh.wikipedia.org/wiki/fhána "wikilink")。林英樹作詞、佐藤純一作曲。2013年8月21日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要

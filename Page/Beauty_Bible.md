@@ -1,3 +1,6 @@
+> 本文内容由[Beauty Bible](https://zh.wikipedia.org/wiki/Beauty_Bible)转换而来。
+
+
 《**Beauty Bible**》（韓語：）是韓國[KBS電視台的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，第一季由[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[全烋星](../Page/全烋星.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、（名模）主持；第二季由[Jessica](https://zh.wikipedia.org/wiki/Jessica_\(1989年出生\) "wikilink")、[金栽經](../Page/金栽經.md "wikilink")(Rainbow)主持\[1\]，製作單位邀請不同藝人與明星，分享他（她）們的美妝知識或技巧。
 
 ## 各集資訊

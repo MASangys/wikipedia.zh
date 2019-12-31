@@ -1,4 +1,4 @@
-> 本文内容由[Shouldn\'t Have...](https://zh.wikipedia.org/wiki/Shouldn\'t Have...)转换而来。
+> 本文内容由[Shouldn\'t Have...](https://zh.wikipedia.org/wiki/Shouldn\'t_Have...)转换而来。
 
 
 《**Shouldn't Have...**》\[1\]（）是[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[白娥娟](../Page/白娥娟.md "wikilink")於2015年5月20日發行的數位歌曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作；KT音樂發行。這是白娥娟第一首創作歌曲，並和JYP娛樂旗下樂團[DAY6](../Page/DAY6.md "wikilink")成員[Young K合作](../Page/姜永晛.md "wikilink")。\[2\]

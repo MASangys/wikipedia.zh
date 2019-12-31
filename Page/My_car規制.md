@@ -1,3 +1,6 @@
+> 本文内容由[My car規制](https://zh.wikipedia.org/wiki/My_car規制)转换而来。
+
+
 **My car規制**（）是[日本](../Page/日本.md "wikilink")為了保護風景區、自然公園等自然[環境所實施的一種政策](https://zh.wikipedia.org/wiki/環境 "wikilink")。
 
 ## 概要
@@ -73,3 +76,5 @@
   - [乘鞍Skyline My car規制資訊](http://www.hida-norikura.com/mycar/) - 飛驒乘鞍觀光協會
 
 [Category:日本自然保育](https://zh.wikipedia.org/wiki/Category:日本自然保育 "wikilink") [Category:道路運輸](https://zh.wikipedia.org/wiki/Category:道路運輸 "wikilink") [Category:日本交通](https://zh.wikipedia.org/wiki/Category:日本交通 "wikilink")
+
+[Category:日本的環境政策](https://zh.wikipedia.org/wiki/Category:日本的環境政策 "wikilink")

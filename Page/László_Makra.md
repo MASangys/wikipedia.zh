@@ -1,3 +1,6 @@
+> 本文内容由[László Makra](https://zh.wikipedia.org/wiki/László_Makra)转换而来。
+
+
 [László_Makra.jpg](https://zh.wikipedia.org/wiki/File:László_Makra.jpg "fig:László_Makra.jpg") **László Makra**（1952年6月5日出生于Siklós市）气候学家，教授。其主要研究领域为花粉气候学，其中，分析了豚草花粉的与气候的关系和豚草花粉浓度与呼吸系统疾病之间的关系。
 
 ## 职业

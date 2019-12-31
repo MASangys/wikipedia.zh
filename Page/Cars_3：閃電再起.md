@@ -1,4 +1,4 @@
-> 本文内容由[Cars 3：閃電再起](https://zh.wikipedia.org/wiki/Cars 3：閃電再起)转换而来。
+> 本文内容由[Cars 3：閃電再起](https://zh.wikipedia.org/wiki/Cars_3：閃電再起)转换而来。
 
 
 《**Cars 3：閃電再起**》（）是一部由[皮克斯動畫工作室製作](https://zh.wikipedia.org/wiki/皮克斯動畫工作室 "wikilink")、並由[華特迪士尼發行的](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")2017年美國[3D](../Page/3D電影.md "wikilink")[電腦動畫電影](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")，為執導。本片為2011年的電影《[Cars 2：世界大賽](../Page/Cars_2：世界大賽.md "wikilink")》的續集，北美於2017年6月16日上映\[1\]。

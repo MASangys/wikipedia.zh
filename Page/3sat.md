@@ -1,3 +1,6 @@
+> 本文内容由[3sat](https://zh.wikipedia.org/wiki/3sat)转换而来。
+
+
 **3sat**是一家总部位于[德国](../Page/德国.md "wikilink")[美因茨](../Page/美因茨.md "wikilink")的公共电视台，由[德国公共广播联盟](https://zh.wikipedia.org/wiki/德国公共广播联盟 "wikilink")（ARD）、[德国电视二台](https://zh.wikipedia.org/wiki/德国电视二台 "wikilink")（ZDF）、[奥地利广播集团](https://zh.wikipedia.org/wiki/奥地利广播集团 "wikilink")（ORF）以及[瑞士广播电视集团](../Page/瑞士广播电视集团.md "wikilink")（SRG SSR）共同运营，面向德国、[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")、[瑞士等德语使用者较多的国家播出](https://zh.wikipedia.org/wiki/瑞士 "wikilink")。
 
 ## 概要

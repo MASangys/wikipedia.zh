@@ -1,3 +1,6 @@
+> 本文内容由[Undine \(牧野由依單曲\)](https://zh.wikipedia.org/wiki/Undine_\(牧野由依單曲\))转换而来。
+
+
 《**Undine**》（）是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[牧野由依](../Page/牧野由依.md "wikilink")的第2張單曲。2005年10月21日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 解說

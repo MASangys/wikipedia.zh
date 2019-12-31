@@ -1,3 +1,6 @@
+> 本文内容由[N-甲基-N-亚硝基对甲苯磺酰胺](https://zh.wikipedia.org/wiki/N-甲基-N-亚硝基对甲苯磺酰胺)转换而来。
+
+
 ***N*-甲基-*N*-亚硝基对甲苯磺酰胺**安全且易于使用，可用作有毒且不稳定的[重氮甲烷](../Page/重氮甲烷.md "wikilink")的前驱体。\[1\]
 
 加入[氢氧化钠](../Page/氢氧化钠.md "wikilink")、[氢氧化钾](../Page/氢氧化钾.md "wikilink")等[碱](../Page/碱.md "wikilink")性试剂后，发生[消除反应](../Page/消除反应.md "wikilink")，生成[重氮甲烷](../Page/重氮甲烷.md "wikilink")及副产物[对甲苯磺酸](../Page/对甲苯磺酸.md "wikilink")：

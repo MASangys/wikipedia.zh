@@ -1,4 +1,4 @@
-> 本文内容由[Step by step \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Step by step \(濱崎步單曲\))转换而来。
+> 本文内容由[Step by step \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Step_by_step_\(濱崎步單曲\))转换而来。
 
 
 \-{T|Step by step}-

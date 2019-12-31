@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG錄像作品列表](https://zh.wikipedia.org/wiki/BIGBANG錄像作品列表)转换而来。
+
+
 《**BIGBANG錄像作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG歷年發行的演唱會DVD](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、藍光，及歷年在[YouTube](../Page/YouTube.md "wikilink")上發佈的音樂錄影帶。
 
 ## 音樂錄影帶

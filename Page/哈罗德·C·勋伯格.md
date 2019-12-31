@@ -1,3 +1,6 @@
+> 本文内容由[哈罗德·C·勋伯格](https://zh.wikipedia.org/wiki/哈罗德·C·勋伯格)转换而来。
+
+
 **哈罗德·查尔斯·勋伯格**（，），[美国](../Page/美国.md "wikilink")音乐评论家、[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")，曾获1971年[普利策奖](../Page/普利策奖.md "wikilink")\[1\]。
 
 ## 简介

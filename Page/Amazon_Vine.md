@@ -1,4 +1,4 @@
-> 本文内容由[Amazon Vine](https://zh.wikipedia.org/wiki/Amazon Vine)转换而来。
+> 本文内容由[Amazon Vine](https://zh.wikipedia.org/wiki/Amazon_Vine)转换而来。
 
 
 **Amazon Vine**是一个由[亚马逊组织出来的该平台顶尖产品评论人的](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[社区](../Page/社区.md "wikilink")群体。这些顶尖评论人只能通过被亚马逊邀请的方式加入Amazon Vine，也就是说，亚马逊非常严格地控制着Amazon Vine的数量、质量以及可信度\[1\]。

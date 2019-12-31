@@ -1,4 +1,4 @@
-> 本文内容由[鈴木Fronte Coupe](https://zh.wikipedia.org/wiki/鈴木Fronte Coupe)转换而来。
+> 本文内容由[鈴木Fronte Coupe](https://zh.wikipedia.org/wiki/鈴木Fronte_Coupe)转换而来。
 
 
 **鈴木Fronte Coupe**乃[日本](../Page/日本.md "wikilink")鈴木汽車工業（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1971年至1976年之間開發製造、從[鈴木Fronte](../Page/鈴木Fronte.md "wikilink")衍生而出的[輕型](../Page/輕型車.md "wikilink")[轎跑車](../Page/轎跑車.md "wikilink")。

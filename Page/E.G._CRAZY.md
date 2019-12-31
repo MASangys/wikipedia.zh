@@ -1,3 +1,6 @@
+> 本文内容由[E.G. CRAZY](https://zh.wikipedia.org/wiki/E.G._CRAZY)转换而来。
+
+
 《**E.G. CRAZY**》是[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")4張原創專輯。於2017年1月18日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

@@ -1,4 +1,4 @@
-> 本文内容由[槍彈辯駁3 －The End of 希望峰學園－](https://zh.wikipedia.org/wiki/槍彈辯駁3 －The End of 希望峰學園－)转换而来。
+> 本文内容由[槍彈辯駁3 －The End of 希望峰學園－](https://zh.wikipedia.org/wiki/槍彈辯駁3_－The_End_of_希望峰學園－)转换而来。
 
 
 《**槍彈辯駁3 －The End of 希望峰學園－**》（），是將《[槍彈辯駁](../Page/槍彈辯駁系列.md "wikilink")》系列遊戲改編的電視動畫，在2016年播出。2015年12月2日宣佈製作決定的消息，與遊戲最新作《[新槍彈辯駁V3 大家的自相殘殺新學期](../Page/新槍彈辯駁V3_大家的自相殘殺新學期.md "wikilink")》同步發行\[1\]。

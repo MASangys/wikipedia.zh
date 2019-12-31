@@ -1,3 +1,6 @@
+> 本文内容由[模块:VG release table](https://zh.wikipedia.org/wiki/模块:VG_release_table)转换而来。
+
+
 require('Module:No globals')
 
 local getArgs = require('Module:Arguments').getArgs local p = {}

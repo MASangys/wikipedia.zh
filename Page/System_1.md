@@ -1,3 +1,6 @@
+> 本文内容由[System 1](https://zh.wikipedia.org/wiki/System_1)转换而来。
+
+
 **System 1**，原名**Macintosh系统软件**（），是[蘋果公司推出的首款](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Macintosh操作系统](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，属于[经典Mac OS系列](https://zh.wikipedia.org/wiki/Mac_OS版本历史 "wikilink")。1984年1月24日，System 1随首款[Macintosh系列](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")[个人计算机](../Page/个人电脑.md "wikilink")发布。\[1\]
 
 ## 功能

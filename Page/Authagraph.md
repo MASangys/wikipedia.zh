@@ -1,3 +1,6 @@
+> 本文内容由[Authagraph](https://zh.wikipedia.org/wiki/Authagraph)转换而来。
+
+
 **Authagraph**（）是一種在長方形平面上，以盡可能不使比例失真的方式製作的一種新式[地圖投影法](https://zh.wikipedia.org/wiki/地圖投影法 "wikilink")，最初係由[日本](../Page/日本.md "wikilink")的[建築師](https://zh.wikipedia.org/wiki/建築師 "wikilink")在1999年發表。這種投影法是透過將[地球](../Page/地球.md "wikilink")表面等分為96個球面三角形，並將其以各區域的面積比例不變的方式，投射在正四面體的平面上而製作成地圖\[1\]。由於Authagraph是已知的地圖投影法中，能同時將「維持地圖上各處面積比例」以及「將製成地圖時產生的變形平均分配至地球整體」兩點做得最周到的製圖法，除了能在[地理學中應用](https://zh.wikipedia.org/wiki/地理學 "wikilink")，也被認為可應用在醫療與教育用途上\[2\]。
 
 Authagraph投影法的名字是由「[authalic](https://zh.wikipedia.org/wiki/wikt:en:authalic "wikilink")」（等面積）和「[graph](https://zh.wikipedia.org/wiki/wikt:en:graph "wikilink")」（圖）兩個字結合而成，意指能在長方形平面上以等比例方式呈現面積的地圖\[3\]\[4\]。

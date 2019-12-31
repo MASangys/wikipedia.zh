@@ -1,3 +1,6 @@
+> 本文内容由[J·T·墨菲](https://zh.wikipedia.org/wiki/J·T·墨菲)转换而来。
+
+
 **詹姆斯·托马斯·墨菲**（，），通称**J·T·墨菲**，[马里昂军事学院](../Page/马里昂军事学院.md "wikilink")创始人。墨菲曾担任[弗吉尼亚军事学院学员总队长并以第一名的成绩毕业](https://zh.wikipedia.org/wiki/弗吉尼亚军事学院 "wikilink")，他在[南北战争中被推举为](https://zh.wikipedia.org/wiki/美国南北战争 "wikilink")[美利坚联盟国陆军中校](https://zh.wikipedia.org/wiki/美利坚联盟国 "wikilink")，曾率领阿拉巴马大学学生军与联邦军队作战。他还曾在麦迪逊学院、林奇堡学院、和[阿拉巴马大学](../Page/阿拉巴马大学.md "wikilink")等学校任教。1871年，墨菲担任[霍华德学院第六任校长](https://zh.wikipedia.org/wiki/桑福德大学 "wikilink")。1887年，在霍华德学院搬迁至[伯明翰市后](../Page/伯明翰_\(阿拉巴马州\).md "wikilink")，墨菲将极少数不愿离开的教职员工凝聚起来，在霍华德学院旧址创立[马里昂军事学院](../Page/马里昂军事学院.md "wikilink")，并被推举为第一任校长（1887年－1906年）。1912年，墨菲病逝于[佛罗里达州](../Page/佛罗里达州.md "wikilink")的[迈阿密市](https://zh.wikipedia.org/wiki/迈阿密市 "wikilink")。
 
 ## 简介

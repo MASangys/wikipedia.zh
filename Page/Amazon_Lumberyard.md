@@ -1,3 +1,6 @@
+> 本文内容由[Amazon Lumberyard](https://zh.wikipedia.org/wiki/Amazon_Lumberyard)转换而来。
+
+
 **Amazon Lumberyard**是一款免费的跨平台[3A](../Page/AAA_\(电子游戏产业\).md "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")，是[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")在2015年获得[Crytek](../Page/Crytek.md "wikilink")授权后，以[CryEngine为基础构建而成](https://zh.wikipedia.org/wiki/CryEngine "wikilink")\[1\]\[2\]\[3\]。该引擎与[亞馬遜網路服務系統](https://zh.wikipedia.org/wiki/亞馬遜網路服務系統 "wikilink")（AWS）集成，允许开发人员在亚马逊的服务器上构建或托管他们的游戏，并且通过[Twitch](../Page/Twitch.md "wikilink")来进行游戏直播\[4\]。亚马逊向最终用户免费提供Lumberyard引擎的源代码，但有一些限制：用户不能将源代码进行公开，或使用它来发布自己的游戏引擎\[5\]。
 
 Lumberyard于2016年2月9日与[GameLift一起推出](https://zh.wikipedia.org/wiki/GameLift "wikilink")\[6\]。该引擎目前处于测试阶段，可用于构建[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink")、[PlayStation 4平台上的游戏](../Page/PlayStation_4.md "wikilink")\[7\]\[8\]，对[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台提供有限的支持\[9\]。

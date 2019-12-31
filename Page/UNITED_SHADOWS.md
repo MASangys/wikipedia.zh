@@ -1,3 +1,6 @@
+> 本文内容由[UNITED SHADOWS](https://zh.wikipedia.org/wiki/UNITED_SHADOWS)转换而来。
+
+
 《**UNITED SHADOWS**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第九張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們第八張由[華納唱片（日本）發行的專輯](../Page/華納音樂集團.md "wikilink")，在2017年4月12日以四個版本：通常盤、初回限定盤A、初回限定盤B及Primadonna盤推出\[1\]。打入Oricon單曲週榜前十名的單曲：《[JUST DO IT](https://zh.wikipedia.org/wiki/JUST_DO_IT_\(FTIsland單曲\) "wikilink")》在專輯推出前預先發行。
 
 ## 背景

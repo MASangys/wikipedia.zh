@@ -1,4 +1,4 @@
-> 本文内容由[AAA ARENA TOUR 2014 -Gold Symphony-](https://zh.wikipedia.org/wiki/AAA ARENA TOUR 2014 -Gold Symphony-)转换而来。
+> 本文内容由[AAA ARENA TOUR 2014 -Gold Symphony-](https://zh.wikipedia.org/wiki/AAA_ARENA_TOUR_2014_-Gold_Symphony-)转换而来。
 
 
 「**AAA ARENA TOUR 2014 -Gold Symphony-**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](https://zh.wikipedia.org/wiki/AAA "wikilink")2015年2月25日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Spähpanzer SP I.C.](https://zh.wikipedia.org/wiki/Spähpanzer_SP_I.C.)转换而来。
+
+
 **Spähpanzer SP I.C.**（缩写被称为SP. 1.C. ,SP 是Spähpanzer的缩写, 德语的意思为‘侦察坦克’)是德国以增强轻型坦克的反坦克火力而建造的实验型坦克。这是为了让轻型坦克在侦察的同时具备反坦克的火力，但是这项工程已被取消。SP 1.C. 在蓝图上拥有两个原型车版本但实际建造出来的只有一辆， 现存于德国科布伦茨博物馆。 \[1\]\[2\] [Spähpanzer_SP_I.C._Bild_1.jpg](https://zh.wikipedia.org/wiki/File:Spähpanzer_SP_I.C._Bild_1.jpg "fig:Spähpanzer_SP_I.C._Bild_1.jpg")
 
 ## 相关条目

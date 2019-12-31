@@ -1,3 +1,6 @@
+> 本文内容由[Just Because!](https://zh.wikipedia.org/wiki/Just_Because!)转换而来。
+
+
 《**Just Because\!**》是由[鴨志田一擔任劇本統籌及編劇](https://zh.wikipedia.org/wiki/鴨志田一 "wikilink")、[比村奇石](../Page/比村奇石.md "wikilink")擔任人物原案的[日本](../Page/日本.md "wikilink")原創[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2017年10月5日起在[AT-X](../Page/AT-X.md "wikilink")電視台首播\[1\]\[2\]。
 
 ## 故事簡介
@@ -503,7 +506,7 @@ Lunch·BOX、<a href="../Page/小美野雅彥.md" title="wikilink">小美野雅�
   - [電視動畫《Just Because\!》官方網站](http://justbecause.jp/)
 
   -
-  - [Just Because\! Media works 小說官方網站](http://mwbunko.com/978-4-04-893384-1/)
+  - [Just Because\! Media works 小說官方網站](https://web.archive.org/web/20171110172041/http://mwbunko.com/978-4-04-893384-1/)
 
 [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:戀愛動畫](https://zh.wikipedia.org/wiki/Category:戀愛動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 

@@ -1,3 +1,6 @@
+> 本文内容由[MC耀宗](https://zh.wikipedia.org/wiki/MC耀宗)转换而来。
+
+
 ## 生平
 
 ### 早期生涯

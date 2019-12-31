@@ -1,3 +1,6 @@
+> 本文内容由[Cogent通信](https://zh.wikipedia.org/wiki/Cogent通信)转换而来。
+
+
 **Cogent Communications**是一家基于[美国](../Page/美国.md "wikilink")的跨国[互联网服务供应商](../Page/互联网服务供应商.md "wikilink")。Cogent的主要服务包括通过[光纤](https://zh.wikipedia.org/wiki/光纤 "wikilink")、纯IP数据网络以及[数据中心](../Page/数据中心.md "wikilink")托管提供互联网接入和数据传输。\[1\]
 
 Cogent的[AS](../Page/自治系统.md "wikilink")（编号174）是互联网上具有最高排名的AS之一。\[2\]\[3\]

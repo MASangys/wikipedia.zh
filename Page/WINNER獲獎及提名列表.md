@@ -1,3 +1,6 @@
+> 本文内容由[WINNER獲獎及提名列表](https://zh.wikipedia.org/wiki/WINNER獲獎及提名列表)转换而来。
+
+
 《**WINNER獲獎及提名列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")出道至今於頒獎典禮、音樂節目的獲獎與提名。
 
 ## 韓國音樂頒獎典禮

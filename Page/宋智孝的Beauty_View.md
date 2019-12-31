@@ -1,3 +1,6 @@
+> 本文内容由[宋智孝的Beauty View](https://zh.wikipedia.org/wiki/宋智孝的Beauty_View)转换而来。
+
+
 《**宋智孝的Beauty View**》（，）是韓國[JTBC](../Page/JTBC.md "wikilink")的美妝綜藝節目，由[宋智孝](../Page/宋智孝.md "wikilink")\[1\]\[2\]\[3\]、[孔明主持](../Page/孔明_\(藝人\).md "wikilink")，美妝編輯[金美玖與時裝設計師](https://zh.wikipedia.org/wiki/金美玖 "wikilink")[Katia Cho(趙成京)擔任輔助主持](https://zh.wikipedia.org/wiki/Katia_Cho\(趙成京\) "wikilink")，每集邀請不同來賓參演，並介紹時下流行趨勢，與觀眾進行現場交流，根據觀眾的皮膚類型、色調，進行1:1的美妝秀。此外，還將介紹名人從素顏到完成化妝過程的相關內容。
 
 ## 節目格式

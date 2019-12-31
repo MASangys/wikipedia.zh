@@ -1,3 +1,6 @@
+> 本文内容由[Irene \(模特\)](https://zh.wikipedia.org/wiki/Irene_\(模特\))转换而来。
+
+
 **Irene Kim**（；），[藝名](../Page/藝名.md "wikilink")：**Irene**（），[韓國知名](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超級名模](../Page/超級名模.md "wikilink")。知名潮模、部落客、街拍人物，因特殊又時尚的妝髮衣著而大受歡迎\[1\]
 
 ## 出道經歷

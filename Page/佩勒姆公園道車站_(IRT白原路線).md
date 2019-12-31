@@ -1,3 +1,6 @@
+> 本文内容由[佩勒姆公園道車站 \(IRT白原路線\)](https://zh.wikipedia.org/wiki/佩勒姆公園道車站_\(IRT白原路線\))转换而来。
+
+
 **佩勒姆公園道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT白原路線](../Page/IRT白原路線.md "wikilink")一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯](../Page/布朗克斯.md "wikilink")及，設有[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[5號線](../Page/紐約地鐵5號線.md "wikilink")（僅繁忙時段的尖峰方向停站）列車服務\[1\]\[2\]。
 
 ## 車站結構

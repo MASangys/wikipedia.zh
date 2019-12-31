@@ -1,9 +1,12 @@
+> 本文内容由[JUNNA](https://zh.wikipedia.org/wiki/JUNNA)转换而来。
+
+
 **JUNNA**（，本名：境純菜）是日本的女[歌手](../Page/歌手.md "wikilink")，[愛知縣](../Page/愛知縣.md "wikilink")出身。
 
 ## 人物
 
   -
-    是[超時空要塞系列最年輕](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")（15歲）的時候當上歌姬。
+    是[超時空要塞系列最年輕](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")（15歲）歷代飯島真理與中島愛當年以19歲當選為歌姬的時候當上歌姬。
 
 ## 音樂唱片分類
 
@@ -14,7 +17,7 @@
 | 1st | 2017年11月1日 | **Here**     | VTCL-35263 | 14位                                          |
 | 2nd | 2018年7月18日 | **紅く、絶望の花。** | VTCL-35278 | 34位                                          |
 | 3rd | 2019年1月23日 | **コノユビトマレ**  | VTCL-35293 | 29位                                          |
-| 4th | 2019年7月24日 | **イルイミ**     | VTCL-35304 |                                              |
+| 4th | 2019年7月24日 | **イルイミ**     | VTCL-35304 | 41位                                          |
 
 ### 專輯
 
@@ -202,7 +205,6 @@
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:名古屋市出身人物](https://zh.wikipedia.org/wiki/Category:名古屋市出身人物 "wikilink") [Category:Flying_DOG旗下藝人](https://zh.wikipedia.org/wiki/Category:Flying_DOG旗下藝人 "wikilink")
 
 1.  美雲Δ**JUNNA**、フレイアΔ[鈴木實里](../Page/鈴木實里.md "wikilink")、カナメΔ[安野希世乃](../Page/安野希世乃.md "wikilink")、レイナΔ[東山奈央](../Page/東山奈央.md "wikilink")、マキナΔ[西田望見](../Page/西田望見.md "wikilink")。
-
 2.
 3.
 4.

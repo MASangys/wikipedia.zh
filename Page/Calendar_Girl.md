@@ -1,3 +1,6 @@
+> 本文内容由[Calendar Girl](https://zh.wikipedia.org/wiki/Calendar_Girl)转换而来。
+
+
 ***Calendar Girl*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第三張[密紋唱片](../Page/密紋唱片.md "wikilink")，由Liberty Records於1956年發行，目錄號是 LRP-3012，唱片為單聲道形式。 \[1\] \[2\] 這是一張概念專輯，為了符合主題，前十二首歌曲都有不同月份的標題，而最後一首歌曲的標題為「Thirteenth Month」。其中兩首歌曲「February Brings the Rain」和「This October」是由她的第二任丈夫「Bobby Troup」特別為這張專輯製作的。值得一提，這專輯不同於其他Julie London專輯，原創[爵士樂作品比較多](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，但可惜唱片公司沒有為此專輯發布任何單曲作宣傳。
 
 ## 曲目

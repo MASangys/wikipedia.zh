@@ -1,3 +1,6 @@
+> 本文内容由[Project No.9](https://zh.wikipedia.org/wiki/Project_No.9)转换而来。
+
+
 **株式會社project No.9**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 作品列表

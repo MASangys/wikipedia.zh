@@ -1,4 +1,4 @@
-> 本文内容由[存在 \(潔西 J專輯\)](https://zh.wikipedia.org/wiki/存在 \(潔西 J專輯\))转换而来。
+> 本文内容由[存在 \(潔西 J專輯\)](https://zh.wikipedia.org/wiki/存在_\(潔西_J專輯\))转换而来。
 
 
 《**存在**\[1\]》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[歌手](../Page/歌手.md "wikilink")[潔西·J的第二張](https://zh.wikipedia.org/wiki/潔西·J "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2013年9月23日發售。

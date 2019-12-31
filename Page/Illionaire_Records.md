@@ -1,3 +1,6 @@
+> 本文内容由[Illionaire Records](https://zh.wikipedia.org/wiki/Illionaire_Records)转换而来。
+
+
 **Illionaire Records**（）是由說唱歌手[The Quiett和](../Page/The_Quiett.md "wikilink")[Dok2](../Page/Dok2.md "wikilink")於2011年1月所創立的一間韓國獨立唱片公司。儘管其規模小，由於旗下說唱歌手的高知名度，Illionaire Records被認為是韓國最有影響力的嘻哈唱片公司之一。\[1\]\[2\]\[3\]
 
 ## 歷史
@@ -21,11 +24,11 @@ Dok2和The Quiett代表Illionaire Records錄製Hiphop選秀節目[Show Me The Mo
   - [The Quiett](../Page/The_Quiett.md "wikilink")
 
   -
-**Ambition Musik**
+**[Ambition Musik](https://zh.wikipedia.org/wiki/Ambition_Musik "wikilink")**
 
   - Keem Hyoeun
   - [Changmo](../Page/Changmo.md "wikilink")
-  - Hash Swan
+  - [Hash Swan](https://zh.wikipedia.org/wiki/Hash_Swan "wikilink")
   - ASH ISLAND
   - Leellamarz
   - Way Ched
@@ -36,18 +39,11 @@ Dok2和The Quiett代表Illionaire Records錄製Hiphop選秀節目[Show Me The Mo
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.

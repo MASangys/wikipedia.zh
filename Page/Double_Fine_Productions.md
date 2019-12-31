@@ -1,4 +1,4 @@
-> 本文内容由[Double Fine Productions](https://zh.wikipedia.org/wiki/Double Fine Productions)转换而来。
+> 本文内容由[Double Fine Productions](https://zh.wikipedia.org/wiki/Double_Fine_Productions)转换而来。
 
 
 **Double Fine Productions**是一間[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子遊戲開發公司](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，由[提姆·謝弗](../Page/提姆·謝弗.md "wikilink")在離開[LucasArts](../Page/LucasArts.md "wikilink")後於2000年創立，總部位於[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")\[1\]。謝弗與程式設計師[大衛·迪克森](https://zh.wikipedia.org/wiki/大衛·迪克森 "wikilink")（David Dixon）和[強納森·曼茲](https://zh.wikipedia.org/wiki/強納森·曼茲 "wikilink")（Jonathan Menzies）在舊金山的一間木底鞋店舊址內成立了Double Fine工作室。在進行一款遊戲實驗版本的數個月後，來自《[神通鬼大](../Page/神通鬼大.md "wikilink")》團隊的成員和其他新員工陸續加入了遊戲的開發行列，該遊戲最後成為《[瘋狂世界](../Page/瘋狂世界.md "wikilink")》（*Psychonauts*）這款作品，並在2005年4月發行。\[2\]2019年，[微软](../Page/微软.md "wikilink")宣布收购Double Fine Productions，成为[Xbox游戏工作室](../Page/Xbox游戏工作室.md "wikilink")旗下的一员。

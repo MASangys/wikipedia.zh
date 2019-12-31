@@ -1,3 +1,6 @@
+> 本文内容由[SD9型柴油机车](https://zh.wikipedia.org/wiki/SD9型柴油机车)转换而来。
+
+
 **SD9型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）于1954年推出的一款[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是易安迪公司的第二代“SD”系列六轴[干线调车机车](https://zh.wikipedia.org/wiki/干线调车机车 "wikilink")，主要竞争对象是[美国机车公司](../Page/美国机车公司.md "wikilink")的[RSD-12型柴油机车](https://zh.wikipedia.org/wiki/RSD-12型柴油机车 "wikilink")。
 
 继1952年推出了SD7型柴油机车后（“SD”是“Special Duty”的缩写，意为“特种用途”），易安迪公司又在1954年推出功率更大的SD9型柴油机车。1954年1月至1959年6月间，易安迪为美国本土的铁路公司共制造了471台SD9型柴油机车，主要用户包括[南太平洋铁路](https://zh.wikipedia.org/wiki/南太平洋鐵路 "wikilink")、[芝加哥、伯靈頓和昆西鐵路](../Page/芝加哥、伯靈頓和昆西鐵路.md "wikilink")、、、、[宾夕法尼亚铁路](https://zh.wikipedia.org/wiki/宾夕法尼亚铁路 "wikilink")、[密尔沃基铁路](https://zh.wikipedia.org/wiki/密尔沃基铁路 "wikilink")。SD9型柴油机车的后继产品是[SD18](../Page/SD18型柴油机车.md "wikilink")、[SD24型柴油机车](../Page/SD24型柴油机车.md "wikilink")。

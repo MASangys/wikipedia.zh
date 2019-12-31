@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-BugStatusUpdate.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-BugStatusUpdate.js)转换而来。
+
+
 /\*
 
 `* Bug Status Update Gadget`

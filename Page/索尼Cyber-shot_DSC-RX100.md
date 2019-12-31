@@ -1,4 +1,4 @@
-> 本文内容由[索尼Cyber-shot DSC-RX100](https://zh.wikipedia.org/wiki/索尼Cyber-shot DSC-RX100)转换而来。
+> 本文内容由[索尼Cyber-shot DSC-RX100](https://zh.wikipedia.org/wiki/索尼Cyber-shot_DSC-RX100)转换而来。
 
 
 **索尼 Cyber-shot DSC-RX100**（简称**RX100**）是由[索尼](../Page/索尼.md "wikilink")于2012年6月发布的紧凑型不可换镜头[数码相机](../Page/数码相机.md "wikilink")，特色为在紧凑的空间内设计配置了1英寸规格传感器与高表现的镜头，上市初7万円/$650\[1\]\[2\]定价一度被认为难以接受，随后RX100在各类评测中的优异表现则证明物有所值。

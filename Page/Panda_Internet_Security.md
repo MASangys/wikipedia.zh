@@ -1,4 +1,4 @@
-> 本文内容由[Panda Internet Security](https://zh.wikipedia.org/wiki/Panda Internet Security)转换而来。
+> 本文内容由[Panda Internet Security](https://zh.wikipedia.org/wiki/Panda_Internet_Security)转换而来。
 
 
 **熊貓雲端防毒軟體**是[熊貓安全公司推出的](https://zh.wikipedia.org/wiki/熊貓安全公司 "wikilink")[防毒產品之一](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")，分免費版和付費版兩種版本。它是一個基於[雲端技術的軟體](../Page/雲端運算.md "wikilink")，也就是說，檔案掃描在遠端的伺服器上進行，而不會佔用使用者電腦的資源。熊貓安全公司的「集體智慧」（Collective Intelligence）技術是該軟體的基礎\[1\] 。該軟體可以執行手動的系統掃描，或持續在背景常駐以提供即時保護對抗病毒和惡意網站，但也會稍微拖慢系統速度\[2\] 。

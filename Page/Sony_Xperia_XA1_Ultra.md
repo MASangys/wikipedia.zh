@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia XA1 Ultra](https://zh.wikipedia.org/wiki/Sony_Xperia_XA1_Ultra)转换而来。
+
+
 **Sony Xperia XA1 Ultra**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2017年2月27日在[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")上發布的中階型手機\[1\]\[2\]，主打自拍功能，已經於2017年5月22日在全球上市。
 
 ## 顏色

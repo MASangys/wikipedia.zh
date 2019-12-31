@@ -1,4 +1,4 @@
-> 本文内容由[SIG M400突擊步槍](https://zh.wikipedia.org/wiki/SIG M400突擊步槍)转换而来。
+> 本文内容由[SIG M400突擊步槍](https://zh.wikipedia.org/wiki/SIG_M400突擊步槍)转换而来。
 
 
 **SIG M400**是一款由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製和生產的縮短版本[突擊步枪](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")／[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")／[半自動步枪](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")，該槍是以較早期型5.56毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[AR-15和](../Page/AR-15自動步槍.md "wikilink")[M16為藍本](../Page/M16突擊步槍.md "wikilink")，主要發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，亦有些型號發射步槍子彈。

@@ -1,4 +1,4 @@
-> 本文内容由[華碩ZenFone 3](https://zh.wikipedia.org/wiki/華碩ZenFone 3)转换而来。
+> 本文内容由[華碩ZenFone 3](https://zh.wikipedia.org/wiki/華碩ZenFone_3)转换而来。
 
 
 **ASUS ZenFone 3**\[1\]是[華碩](../Page/華碩.md "wikilink")於2016年5月30日在[COMPUTEX展發表之](https://zh.wikipedia.org/wiki/COMPUTEX "wikilink")[ZenFone第三代系列產品](https://zh.wikipedia.org/wiki/ZenFone "wikilink")，搭載[Android 6.0](https://zh.wikipedia.org/wiki/Android_6.0 "wikilink") 、[64位元](../Page/64位元.md "wikilink") [Qualcomm Snapdragon處理器](https://zh.wikipedia.org/wiki/Qualcomm_Snapdragon "wikilink")，是[ZenFone系列中首次全系列搭載非](https://zh.wikipedia.org/wiki/ZenFone "wikilink")[英特爾Atom處理器的手機系列](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，螢幕尺寸落在5.2吋到6.8吋之間，其最高規格(Deluxe)搭載了[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 821處理器 / 6GB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink") / 256GB [ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")。

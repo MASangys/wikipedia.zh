@@ -1,3 +1,6 @@
+> 本文内容由[PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季)转换而来。
+
+
 《**PRODUCE 101 第二季**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet頻道在](../Page/Mnet媒體.md "wikilink")2017年推出的韓國第一個「經紀公司大型企劃男團」新[男團選拔](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")／生存[實境節目](../Page/真人實境秀.md "wikilink")，節目以《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》第一季作為藍本，以101名來自不同[經紀公司](../Page/經紀公司.md "wikilink")的男練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，並以[YMC娛樂旗下藝人的身份進行為期](../Page/Imagine_Asia.md "wikilink")1年6個月的活動至2018年12月31日。節目最終回中公布團體名為**[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")**（）。
 
 ## 導師

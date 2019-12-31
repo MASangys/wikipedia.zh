@@ -1,3 +1,6 @@
+> 本文内容由[A New Trilogy](https://zh.wikipedia.org/wiki/A_New_Trilogy)转换而来。
+
+
 《**A New Trilogy**》 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2016年4月25日发布。该专辑共收入7首歌曲，主打歌曲為〈Destiny〉。
 
 ## 背景及回歸日程

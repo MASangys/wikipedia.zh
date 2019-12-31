@@ -1,4 +1,4 @@
-> 本文内容由[Apple A9](https://zh.wikipedia.org/wiki/Apple A9)转换而来。
+> 本文内容由[Apple A9](https://zh.wikipedia.org/wiki/Apple_A9)转换而来。
 
 
 **苹果A9**是一款由[苹果公司设计的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[系统芯片](../Page/系统芯片.md "wikilink")（SoC）。它内含了基于苹果自主[微架构](https://zh.wikipedia.org/wiki/微架构 "wikilink")（区别于ARM发布的公版微架构）的中央处理器核心，擁有[64位元](../Page/64位元.md "wikilink")[ARMv8-A](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[指令集架构](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")。这款芯片于2015年9月9日发布，首先被搭载于[iPhone 6S和iPhone](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink") 6S Plus智能手机中。\[1\]苹果公司宣称该芯片较前一代[苹果A8的](https://zh.wikipedia.org/wiki/苹果A8 "wikilink")[中央处理器](../Page/中央处理器.md "wikilink")性能提高了70%，而图形性能提高了90%。\[2\]

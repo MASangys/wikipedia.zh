@@ -1,3 +1,6 @@
+> 本文内容由[Hangar 13](https://zh.wikipedia.org/wiki/Hangar_13)转换而来。
+
+
 **Hangar 13**是[2K Games于](../Page/2K_Games.md "wikilink")2014年12月在[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[诺瓦托前](https://zh.wikipedia.org/wiki/诺瓦托_\(加利福尼亚州\) "wikilink")成立的游戏开发工作室，由漫画书和电子游戏作者主管。2016年10月7日，工作室处女作《[黑手党3](https://zh.wikipedia.org/wiki/黑手党3 "wikilink")》面世。
 
 ## 简史

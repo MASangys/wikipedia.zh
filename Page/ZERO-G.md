@@ -1,3 +1,6 @@
+> 本文内容由[ZERO-G](https://zh.wikipedia.org/wiki/ZERO-G)转换而来。
+
+
 **ZERO-G**是一家動畫企劃與製作以及相關業務為主的日本公司。由導演[根岸弘](../Page/根岸弘.md "wikilink")成立。並取得RADIX MOBANIMATION動畫作品的相關所有版權。
 
 ZERO-G名稱繼承自根岸弘在1991年創立的動畫公司ZERO-G-ROOM（），而ZERO-G-ROOM在90年代以來經過一系列公司重組合併為[RADIX ACE ENTERTAINMENT](../Page/RADIX_ACE_ENTERTAINMENT.md "wikilink")。

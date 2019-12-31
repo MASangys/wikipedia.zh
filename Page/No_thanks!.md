@@ -1,3 +1,6 @@
+> 本文内容由[No thanks!](https://zh.wikipedia.org/wiki/No_thanks!)转换而来。
+
+
 **No thanks\!**是发行的卡牌游戏。
 
 ## 组成

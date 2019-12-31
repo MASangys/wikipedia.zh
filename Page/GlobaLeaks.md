@@ -1,3 +1,6 @@
+> 本文内容由[GlobaLeaks](https://zh.wikipedia.org/wiki/GlobaLeaks)转换而来。
+
+
 **GlobaLeaks** 是一開源免費的自由軟體，其主要目的是確保吹哨揭弊行動計畫的安全與匿名。這套軟體由赫爾墨斯中心（[Hermes Center for Transparency and Digital Human Rights](https://hermescenter.org/)）開發維護，它是一個義大利非政府組織，至力於推動網路言論自由。
 
 這套軟體賦權讓任何人，即便不具技術背景，也可輕易地設定操作一套安全的吹哨揭弊平台。

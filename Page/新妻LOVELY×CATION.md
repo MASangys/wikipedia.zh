@@ -1,3 +1,6 @@
+> 本文内容由[新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION)转换而来。
+
+
 《**新妻LOVELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌hibiki works在2017年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，CATION系列的第六部作品及最後一部作品。
 
 ## 故事

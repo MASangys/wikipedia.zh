@@ -1,3 +1,6 @@
+> 本文内容由[GNUmed](https://zh.wikipedia.org/wiki/GNUmed)转换而来。
+
+
 **GNUmed**是一個供[类Unix系统](../Page/类Unix系统.md "wikilink")（[BSD](../Page/BSD.md "wikilink")、[Linux](../Page/Linux.md "wikilink")與[UNIX](../Page/UNIX.md "wikilink")）、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS與其他平臺使用的](https://zh.wikipedia.org/wiki/macOS "wikilink")[電子健康紀錄](../Page/電子健康紀錄.md "wikilink")(EMR)系統。GNUmed目標是提供尊重病人隱私且基於開放標準的。
 
 GNUmed基於第三方專案，如[自由](../Page/自由软件.md "wikilink")/[开放源代码](../Page/开放源代码.md "wikilink")的[数据库](../Page/数据库.md "wikilink")[PostgreSQL](../Page/PostgreSQL.md "wikilink")，並以[Python](../Page/Python.md "wikilink")撰寫。它也支援基於[wxPython的](https://zh.wikipedia.org/wiki/wxPython "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")。
@@ -22,7 +25,7 @@ GNUmed主要是用來管理電子健康紀錄。它提供了紙本紀錄的歸�
 
 GNUmed支援許多功能，很多都是以外掛程式的形式來拓展核心功能。這些功能從醫學論文紀錄歸檔系統疫苗接種狀態管理等。GNUmed文件系統中提供了一份所有功能的清單。
 
-官方的Wiki上也有一個章節是[GNUmed今天可以為我做什麼？](http://wiki.gnumed.de/bin/view/Gnumed/WhatCanIActuallyDOWithGNUmedToday)其包含了更廣泛的概觀。每個[版本](http://twiki.gnotary.de/bin/view/Gnumed/ReleasePage)都會加入不同的功能。
+官方的Wiki上也有一個章節是[GNUmed今天可以為我做什麼？](https://web.archive.org/web/20110719033049/http://wiki.gnumed.de/bin/view/Gnumed/WhatCanIActuallyDOWithGNUmedToday)其包含了更廣泛的概觀。每個[版本](http://twiki.gnotary.de/bin/view/Gnumed/ReleasePage)都會加入不同的功能。
 
 第三方軟體可以透過GNUmed的介面來與其互動並使用其功能。
 
@@ -41,7 +44,7 @@ GNUmed支援許多功能，很多都是以外掛程式的形式來拓展核心�
 ## 外部連結
 
   -
-  - [GNUmed文件系統](http://wiki.gnumed.de/bin/view/Gnumed)
+  - [GNUmed文件系統](https://web.archive.org/web/20110514101326/http://wiki.gnumed.de/bin/view/Gnumed)
 
   - [GNUmed開發者中心](http://savannah.gnu.org/projects/gnumed/)
 

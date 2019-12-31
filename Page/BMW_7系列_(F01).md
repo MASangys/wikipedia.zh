@@ -1,4 +1,4 @@
-> 本文内容由[BMW 7系列 \(F01\)](https://zh.wikipedia.org/wiki/BMW 7系列 \(F01\))转换而来。
+> 本文内容由[BMW 7系列 \(F01\)](https://zh.wikipedia.org/wiki/BMW_7系列_\(F01\))转换而来。
 
 
 [BMW_730d_F01_(8432286046).jpg](https://zh.wikipedia.org/wiki/File:BMW_730d_F01_\(8432286046\).jpg "fig:BMW_730d_F01_(8432286046).jpg")

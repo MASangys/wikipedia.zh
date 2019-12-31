@@ -1,4 +1,4 @@
-> 本文内容由[P.A. Semi](https://zh.wikipedia.org/wiki/P.A. Semi)转换而来。
+> 本文内容由[P.A. Semi](https://zh.wikipedia.org/wiki/P.A._Semi)转换而来。
 
 
 **P. A. Semi**（原名“Palo Alto Semiconductor”\[1\]）是一家总部位于[加利福尼亚州圣克拉拉市的](../Page/圣克拉拉_\(加利福尼亚州\).md "wikilink")[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")。

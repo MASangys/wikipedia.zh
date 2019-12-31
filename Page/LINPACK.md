@@ -1,3 +1,6 @@
+> 本文内容由[LINPACK](https://zh.wikipedia.org/wiki/LINPACK)转换而来。
+
+
 **LINPACK**是一个在[数字计算机上执行数字](../Page/電子計算機.md "wikilink")[线性代数](../Page/线性代数.md "wikilink")的软件[函式庫](../Page/函式庫.md "wikilink")。它由、Jim Bunch、[克里夫·莫勒尔](../Page/克里夫·莫勒尔.md "wikilink")及Gilbert Stewart以[Fortran](../Page/Fortran.md "wikilink")编写，并计划在二十世纪七十年代及八十年代早期于[超级计算机](../Page/超级计算机.md "wikilink")上使用。\[1\]\[2\]它很大程度上已被在现代架构上运行更高效的[LAPACK](../Page/LAPACK.md "wikilink")取代。
 
 LINPACK利用[BLAS](../Page/BLAS.md "wikilink")（基础线性代数程序集）函式庫执行基本的[向量](../Page/向量.md "wikilink")和[矩阵](../Page/矩阵.md "wikilink")运算。

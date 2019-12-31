@@ -1,3 +1,6 @@
+> 本文内容由[ResearcherID](https://zh.wikipedia.org/wiki/ResearcherID)转换而来。
+
+
 **研究员ID**（**ResearcherID**）是一个识别学术[作者的身份系统](https://zh.wikipedia.org/wiki/作者 "wikilink")。此系统于2008年1月由[汤森路透](../Page/汤森路透.md "wikilink")（Thomson Reuters）公司推出。
 
 此唯一性标识符旨在解决作者识别的问题。在科学文献中通常引用文章作者的名字、姓氏以及首字母。但在有些时候，会出现同名的作者，或者因错拼等原因而导致一个作者使用了多个名称。

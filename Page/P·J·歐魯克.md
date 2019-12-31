@@ -1,3 +1,6 @@
+> 本文内容由[P·J·歐魯克](https://zh.wikipedia.org/wiki/P·J·歐魯克)转换而来。
+
+
 **P·J·歐魯克**（**Patrick Jake** "**P. J.**" **O'Rourke**，）是[美國的一位政治諷刺家和記者](https://zh.wikipedia.org/wiki/美國 "wikilink")。他是[卡托研究所](../Page/卡托研究所.md "wikilink")的研究員，也是[大西洋月刊的記者](https://zh.wikipedia.org/wiki/大西洋月刊 "wikilink")。自2011年開始，他是[每日野獸](../Page/每日野獸.md "wikilink")的專欄作家\[1\]。他在英國也很著名，在1990年代曾長期出演[英國航空](../Page/英國航空.md "wikilink")的電視廣告。
 
 ## 參考資料

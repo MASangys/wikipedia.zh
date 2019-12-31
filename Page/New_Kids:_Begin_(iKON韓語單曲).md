@@ -1,3 +1,6 @@
+> 本文内容由[New Kids: Begin \(iKON韓語單曲\)](https://zh.wikipedia.org/wiki/New_Kids:_Begin_\(iKON韓語單曲\))转换而来。
+
+
 《NEW KIDS: BEGIN》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[iKON時隔一年的新作品](https://zh.wikipedia.org/wiki/iKON "wikilink")，也是首次以全新藝名發行的作品。2017年5月16日宣佈在5月22日下午6點發表新專輯回歸。
 
 ## 曲目

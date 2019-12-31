@@ -1,3 +1,6 @@
+> 本文内容由[哈里斯·J](https://zh.wikipedia.org/wiki/哈里斯·J)转换而来。
+
+
 **哈里斯·J**（，）是[英国歌手](https://zh.wikipedia.org/wiki/英国 "wikilink")。 哈里斯毕业于伦敦BRIT表演艺术学院。\[1\]
 
 ## 事业

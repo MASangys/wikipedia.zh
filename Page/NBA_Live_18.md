@@ -1,3 +1,6 @@
+> 本文内容由[NBA Live 18](https://zh.wikipedia.org/wiki/NBA_Live_18)转换而来。
+
+
 是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[EA Tiburon開發](../Page/EA_Tiburon.md "wikilink")，[EA Sports發行](../Page/EA_Sports.md "wikilink")。遊戲於2017年9月15日在[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One平台上推出](../Page/Xbox_One.md "wikilink")。
 
 2017年6月，[艺电](../Page/艺电.md "wikilink")（EA）在[E3 2017前夕舉辦的EA](https://zh.wikipedia.org/wiki/E3_2017 "wikilink") Play記者會中，正式公開《NBA Live 18》。\[1\]

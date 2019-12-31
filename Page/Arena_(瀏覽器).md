@@ -1,3 +1,6 @@
+> 本文内容由[Arena \(瀏覽器\)](https://zh.wikipedia.org/wiki/Arena_\(瀏覽器\))转换而来。
+
+
 **Arena**（也稱為**Arena WWW** ）\[1\]\[2\]是[UNIX](../Page/UNIX.md "wikilink")早期的[網頁瀏覽器和](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[網頁編輯器](https://zh.wikipedia.org/wiki/網頁編輯器 "wikilink")。該瀏覽器最初由於1993年編寫，後來由[CERN和](https://zh.wikipedia.org/wiki/CERN "wikilink")[全球資訊網協會](https://zh.wikipedia.org/wiki/全球資訊網協會 "wikilink")（W3C）繼續進行開發，隨後由Yggdrasil Computing公司開發。作為瀏覽器的試驗台，Arena用於測試[HTML 3.0](../Page/HTML.md "wikilink")\[3\]、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[PNG](../Page/PNG.md "wikilink")\[4\]和[Libwww](../Page/Libwww.md "wikilink")\[5\]\[6\]\[7\]。Arena在[全球資訊網發展初期被廣泛使用和流行](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")。
 
 Arena發展早於[Netscape Navigator和](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")[Internet Explorer](../Page/Internet_Explorer.md "wikilink")，後來許多創新技術被用於這些商業產品\[8\]。它也是第一個支援背景圖像、表格、環繞圖像的文本流和內聯數學表達式的瀏覽器\[9\]\[10\]。
@@ -29,65 +32,37 @@ Arena最初是為Unix開發的，雖然有談論[Windows和](https://zh.wikipedi
 [Category:1993年軟體](https://zh.wikipedia.org/wiki/Category:1993年軟體 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink") [Category:Usenet客戶端](https://zh.wikipedia.org/wiki/Category:Usenet客戶端 "wikilink") [Category:全球資訊網聯盟](https://zh.wikipedia.org/wiki/Category:全球資訊網聯盟 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
-
 34.
 35.

@@ -1,3 +1,6 @@
+> 本文内容由[REAL \(周湯豪專輯\)](https://zh.wikipedia.org/wiki/REAL_\(周湯豪專輯\))转换而来。
+
+
 《**REAL**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")周湯豪的第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，也是他由[金牌大風轉投](../Page/金牌大風_\(台灣\).md "wikilink")[太陽娛樂後睽違四年推出的第三張個人專輯](../Page/太陽娛樂文化.md "wikilink")。專輯於2016年10月15日開始發行\[1\]。
 
 ## 背景
@@ -25,5 +28,4 @@
 [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:周湯豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周湯豪音樂專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
 
 1.
-
 2.

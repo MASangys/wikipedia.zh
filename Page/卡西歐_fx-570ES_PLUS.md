@@ -1,4 +1,4 @@
-> 本文内容由[卡西歐 fx-570ES PLUS](https://zh.wikipedia.org/wiki/卡西歐 fx-570ES PLUS)转换而来。
+> 本文内容由[卡西歐 fx-570ES PLUS](https://zh.wikipedia.org/wiki/卡西歐_fx-570ES_PLUS)转换而来。
 
 
 **卡西歐 fx-570ES PLUS**是一款由卡西歐推出的科學函數計算器，為卡西歐 fx-570ES的改進型號。

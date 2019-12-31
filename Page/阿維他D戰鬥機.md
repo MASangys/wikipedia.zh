@@ -1,3 +1,6 @@
+> 本文内容由[阿維他D戰鬥機](https://zh.wikipedia.org/wiki/阿維他D戰鬥機)转换而来。
+
+
 **阿維他D戰鬥機**是德國阿維他飛機公司(德文:Automobil und Aviatik AG)在[奧匈帝國分公司於](https://zh.wikipedia.org/wiki/奧匈帝國 "wikilink")[第一次世界大戰時研製的雙翼戰鬥機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，阿維他飛機公司原本是德國公司但在德國寂寂無名，反而在奧匈的分公司卻出名得多。
 
 阿維他D戰鬥機因為其設計師伯格而因此也被稱為「伯格戰鬥機」。

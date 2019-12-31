@@ -1,3 +1,6 @@
+> 本文内容由[TheThe](https://zh.wikipedia.org/wiki/TheThe)转换而来。
+
+
 **TheThe**或**THeThE**（）是一個[韓國的音樂團體](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，1997年成立\[1\]。2004年曾憑藉正規專輯《The The Band》獲得[韓國音樂大獎](../Page/韓國音樂大獎.md "wikilink")。
 
 ## 音樂作品

@@ -1,3 +1,6 @@
+> 本文内容由[RPCS3](https://zh.wikipedia.org/wiki/RPCS3)转换而来。
+
+
 **RPCS3**是一个在[Windows与](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")上运行的[开源](../Page/开源软件.md "wikilink")[模拟器及](../Page/游戏机模拟器.md "wikilink")[调试工具](../Page/调试工具.md "wikilink")，能够模拟[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")，目前正处于开发阶段。\[1\]本软件可以让PlayStation 3的游戏在[PC上运行与](../Page/个人电脑.md "wikilink")[调试](https://zh.wikipedia.org/wiki/调试 "wikilink")。截至2017年6月初，本模拟器可以正常运行约170个商业游戏。\[2\]\[3\]
 
 ## 开发

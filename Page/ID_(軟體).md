@@ -1,3 +1,6 @@
+> 本文内容由[ID \(軟體\)](https://zh.wikipedia.org/wiki/ID_\(軟體\))转换而来。
+
+
 **iD**是一個用於編輯或建立[開放街圖](../Page/開放街圖.md "wikilink")地理資料的[自由線上編輯器](../Page/自由软件.md "wikilink")，以[JavaScript](../Page/JavaScript.md "wikilink")編寫並於2013年釋出。其設計目標為簡單且有高[易用性](../Page/易用性.md "wikilink")\[1\]，並在開放街圖的主要頁面上作為預設的編輯器。
 
 ## 使用

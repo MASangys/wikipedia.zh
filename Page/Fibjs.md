@@ -1,3 +1,6 @@
+> 本文内容由[Fibjs](https://zh.wikipedia.org/wiki/Fibjs)转换而来。
+
+
 **Fibjs**是一个能在服务器端运行[JavaScript](../Page/JavaScript.md "wikilink")的[开放源代码](../Page/开放源代码.md "wikilink")、[跨平台JavaScript](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[执行环境](https://zh.wikipedia.org/wiki/执行环境 "wikilink")。Fibjs 使用 [协程](../Page/协程.md "wikilink") , 同步风格 & 非阻塞IO模型来构建可伸缩的高可用的系统. Fibjs含有一系列內置模块，使得程序可以脱离[Apache HTTP Server或](../Page/Apache_HTTP_Server.md "wikilink")[IIS](https://zh.wikipedia.org/wiki/IIS "wikilink")，作为独立的服务器运行。Fibjs的出现降低了开发者的开发难度，并大大提升了javascript在服务端性能表现。
 
 ## 概览
@@ -21,7 +24,7 @@ Fibjs内置近150个内置模块和对象, 已经有数十万个javascript模块
 
 ## 历史
 
-Fibjs于2012年写成，其作者是刘琥（Leo Hoo），网名叫作响马，圈内人都尊称他大叔或马叔。刘琥同时是开源服务器应用框架Netbox\[3\]\[4\]的作者、中国著名社区网站[西祠胡同创始人](https://zh.wikipedia.org/wiki/西祠胡同 "wikilink")。
+Fibjs于2012年写成，其作者是刘琥（Leo Hoo），网名叫作响马，圈内人都尊称他大叔或马叔。刘琥同时是开源服务器应用框架Netbox\[3\]\[4\]的作者、中国著名社区网站[西祠胡同](../Page/西祠胡同.md "wikilink")创始人。
 
 Fibjs的出现源自于一个名为“孢子社区”的一个项目，在做技术选型的时候考虑到前后端代码复用，方便招聘开发人员等原因，决定将后端转向JS平台。当时，刘琥认为Node.js的异步开发模式不是一个适合大规模部署的方式，会给开发和维护带来很大问题。刘琥更倾向于使用Go的方式来实现异步，从而能达到更高的并发，于是Fibjs就出现了。\[5\]
 

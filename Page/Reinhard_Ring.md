@@ -1,3 +1,6 @@
+> 本文内容由[Reinhard Ring](https://zh.wikipedia.org/wiki/Reinhard_Ring)转换而来。
+
+
 Reinhard Ring(1948年12月17日至今)是一名德国[节奏](../Page/节奏.md "wikilink")学教授。现任[汉诺威音乐学院节奏学教授](https://www.hmtm-hannover.de/de/hochschule/personen/m-r/prof-reinhard-ring/)，[中央音乐学院客座教授](http://iome.ccom.edu.cn/teaching-internships/external-experts/)。1992至2003年之间，曾任国际节奏学协会主席和日内瓦节奏杂志（Le Rythme）主编。他是闻名音乐界的达尔克罗兹专家。\[1\]
 
 ## 生平及授课经历

@@ -1,3 +1,6 @@
+> 本文内容由[Little Busters!角色列表](https://zh.wikipedia.org/wiki/Little_Busters!角色列表)转换而来。
+
+
 本條目是日本企業[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")、[J.C.Staff推出的電玩](https://zh.wikipedia.org/wiki/J.C.Staff "wikilink")、動畫作品──**[Little Busters\!（校園剋星）](../Page/Little_Busters!.md "wikilink")**的登場角色名單。
 
 ## 登場人物

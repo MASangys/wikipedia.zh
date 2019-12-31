@@ -1,3 +1,6 @@
+> 本文内容由[ACVR1B](https://zh.wikipedia.org/wiki/ACVR1B)转换而来。
+
+
 **1B型激活素受体**（Activin receptor type-1B），缩写为**ACVR1B**或**ALK-4**，在人体中是一种由*ACVR1B*[基因](../Page/基因.md "wikilink")[编码的蛋白质](https://zh.wikipedia.org/wiki/基因表达 "wikilink")\[1\]\[2\]。
 
 ALK-4能够对[激活素或激活素样配体](https://zh.wikipedia.org/wiki/激活素 "wikilink")（即[抑制素](../Page/激活素与抑制素.md "wikilink")）的信号进行转导。激活素首先与或结合，之后再与ALK-4形成复合物。上述过程能够招募、或者分子\[3\]。ALK-4也可以转导、GDF-1、Vg1的信号。但是，和激活素不同，这些分子（与ALK-4的结合）需要蛋白等共受体\[4\]。

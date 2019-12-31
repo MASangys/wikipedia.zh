@@ -1,4 +1,4 @@
-> 本文内容由[BK 5航空機炮](https://zh.wikipedia.org/wiki/BK 5航空機炮)转换而来。
+> 本文内容由[BK 5航空機炮](https://zh.wikipedia.org/wiki/BK_5航空機炮)转换而来。
 
 
 **BK 5航空機炮**（）是一門由[納粹德國](../Page/納粹德國.md "wikilink")在[二战後期由](../Page/第二次世界大战.md "wikilink")[莱茵金属](../Page/莱茵金属.md "wikilink")研製及生產的[航空](https://zh.wikipedia.org/wiki/航空机关炮 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，發射50毫米[口徑機炮炮彈](https://zh.wikipedia.org/wiki/口徑 "wikilink")。

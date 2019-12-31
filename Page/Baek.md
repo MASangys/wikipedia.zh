@@ -1,3 +1,6 @@
+> 本文内容由[Baek](https://zh.wikipedia.org/wiki/Baek)转换而来。
+
+
 **Baek**（、，）是[日本](../Page/日本.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市出身](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")。就讀於[武藏野美術大學](../Page/武藏野美術大學.md "wikilink")大學院造形研究科。經紀公司是[Horipro](../Page/Horipro.md "wikilink")。時裝雜誌《》的\[1\]。她會說[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")、[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，同時亦正在學[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")\[2\]，擅長做甜點、刺繡和編織\[3\]。
 
 ## 簡介

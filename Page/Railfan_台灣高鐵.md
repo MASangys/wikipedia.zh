@@ -1,4 +1,4 @@
-> 本文内容由[Railfan 台灣高鐵](https://zh.wikipedia.org/wiki/Railfan 台灣高鐵)转换而来。
+> 本文内容由[Railfan 台灣高鐵](https://zh.wikipedia.org/wiki/Railfan_台灣高鐵)转换而来。
 
 
 是一款由[音樂館和Actainment合作制作的](https://zh.wikipedia.org/wiki/音樂館 "wikilink")[铁路模拟类游戏](https://zh.wikipedia.org/wiki/铁路模拟类游戏 "wikilink")，2007年7月12日在[PlayStation 3上发行](../Page/PlayStation_3.md "wikilink")\[1\]，根据[台湾高铁路線制作](https://zh.wikipedia.org/wiki/台湾高铁 "wikilink")，模擬駕駛[台灣高速鐵路700T型電聯車](../Page/台灣高速鐵路700T型電聯車.md "wikilink")。制作组共抓取了台湾高铁路線两旁共700公里的景色。

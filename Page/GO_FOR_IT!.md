@@ -1,3 +1,6 @@
+> 本文内容由[GO FOR IT!](https://zh.wikipedia.org/wiki/GO_FOR_IT!)转换而来。
+
+
 《**GO FOR IT\!**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星第五張日語專輯](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")，在2012年9月18日以初回限定盤、通常盤及五個成員完全初回限定盤推出\[1\]；因隊長[允鶴當時正在軍隊服役](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")，故這大碟是他唯一一張未參與的超新星專輯。
 
 ## 背景

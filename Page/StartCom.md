@@ -1,3 +1,6 @@
+> 本文内容由[StartCom](https://zh.wikipedia.org/wiki/StartCom)转换而来。
+
+
 **StartCom** 是一家位于以色列[埃拉特](../Page/埃拉特.md "wikilink")的证书颁发机构，主要服务包括StartCom Linux Enterprise（[Linux发行版](../Page/Linux发行版.md "wikilink")），StartSSL（[证书颁发](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")）和MediaHost（[网站托管](https://zh.wikipedia.org/wiki/網頁寄存服務 "wikilink")）。StartCom在中国、香港、英国和西班牙开设有新的分支机构\[1\]。
 
 2016年，Mozilla在讨论是否删除沃通和StartCom根证书的调查中发现\[2\]，位于中国深圳的[沃通](https://zh.wikipedia.org/wiki/沃通 "wikilink")（WoSign）已经由几个不同公司将StartCom秘密收购。在Mozilla和苹果\[3\]\[4\]的制裁影响下，位于北京的沃通母公司[奇虎360](../Page/奇虎360.md "wikilink")集团决定在2016年内重组这些公司，重组后的StartCom将从丑闻缠身的沃通分离，完全成为奇虎360的下属公司\[5\]。

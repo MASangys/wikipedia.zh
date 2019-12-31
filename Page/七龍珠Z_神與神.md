@@ -1,4 +1,4 @@
-> 本文内容由[七龍珠Z 神與神](https://zh.wikipedia.org/wiki/七龍珠Z 神與神)转换而来。
+> 本文内容由[七龍珠Z 神與神](https://zh.wikipedia.org/wiki/七龍珠Z_神與神)转换而来。
 
 
 《**七龍珠Z 神與神**》（，），是2013年3月30日上映的第18部《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》劇場版動畫\[1\]，也是首部有連接電視動畫《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》的劇場版，亦是《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》的第14部劇場版動畫。这是继《[七龙珠 最强之道](https://zh.wikipedia.org/wiki/七龙珠_最强之道 "wikilink")》后，相隔18年再度推出全新劇場版。香港是在2013年8月15日，臺灣是在2013年10月25日上映\[2\]。

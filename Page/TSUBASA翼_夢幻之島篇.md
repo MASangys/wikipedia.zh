@@ -1,4 +1,4 @@
-> 本文内容由[TSUBASA翼 夢幻之島篇](https://zh.wikipedia.org/wiki/TSUBASA翼 夢幻之島篇)转换而来。
+> 本文内容由[TSUBASA翼 夢幻之島篇](https://zh.wikipedia.org/wiki/TSUBASA翼_夢幻之島篇)转换而来。
 
 
 《**TSUBASA翼 夢幻之島篇**》（），是由漫畫團隊[CLAMP](../Page/CLAMP.md "wikilink")所創作的少年漫畫作品，為《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》的續作，於講談社月刊雜誌《[Magazine SPECIAL](../Page/Magazine_SPECIAL.md "wikilink")》連載，故事劇情銜接《[×××HOLiC](../Page/×××HOLiC.md "wikilink")·戻》。

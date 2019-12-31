@@ -1,4 +1,4 @@
-> 本文内容由[WELCOME BACK \(iKON日語專輯\)](https://zh.wikipedia.org/wiki/WELCOME BACK \(iKON日語專輯\))转换而来。
+> 本文内容由[WELCOME BACK \(iKON日語專輯\)](https://zh.wikipedia.org/wiki/WELCOME_BACK_\(iKON日語專輯\))转换而来。
 
 
 《**WELCOME BACK**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[iKON首張日語](https://zh.wikipedia.org/wiki/iKON "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年1月13日以三個版本：CD盤、CD+DVD與2CD+2DVD DELUXE EDITION推出\[1\]。

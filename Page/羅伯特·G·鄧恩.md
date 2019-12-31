@@ -1,3 +1,6 @@
+> 本文内容由[羅伯特·G·鄧恩](https://zh.wikipedia.org/wiki/羅伯特·G·鄧恩)转换而来。
+
+
 **羅伯特·G·「鮑伯」·鄧恩**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[明尼蘇達州參議院及](https://zh.wikipedia.org/wiki/明尼蘇達州參議院 "wikilink")[眾議院議員](https://zh.wikipedia.org/wiki/明尼蘇達州眾議院 "wikilink")。
 
 ## 生平

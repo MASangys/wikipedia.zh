@@ -1,4 +1,4 @@
-> 本文内容由[YOUTH \(防彈少年團專輯\)](https://zh.wikipedia.org/wiki/YOUTH \(防彈少年團專輯\))转换而来。
+> 本文内容由[YOUTH \(防彈少年團專輯\)](https://zh.wikipedia.org/wiki/YOUTH_\(防彈少年團專輯\))转换而来。
 
 
 《**YOUTH**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")第二張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年9月7日以三個版本：通常盤、初回限定盤及Loppi・HMV限定盤推出\[1\]。三張打入Oricon單曲週榜前三名的單曲：《FOR YOU》、《I NEED U -Japanese Ver.-》及《RUN -Japanese Ver.-》在專輯推出前預先發行。

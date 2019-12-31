@@ -1,3 +1,6 @@
+> 本文内容由[李知勳 \(SEVENTEEN\)](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\))转换而来。
+
+
 **李知勳**（，），藝名**WOOZI** （，），[韓國男](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[藝人](../Page/艺人.md "wikilink")、[作詞家](../Page/填詞.md "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[釜山廣域市](../Page/釜山廣域市.md "wikilink")人。\[1\] [Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下13人男子流行音樂團體[SEVENTEEN成員](../Page/Seventeen_\(組合\).md "wikilink")，也是分隊主唱隊的隊長，並擔任SEVENTEEN的[專輯製作人](../Page/音樂製作人.md "wikilink")。
 
 漢字名「知勳」意為「知悉、功德」。藝名「WOOZI」取自「遇見智慧（遇智）」，意為能夠智慧的享受音樂，也可以解釋為「我們知勳兒（**우**리**지**훈이）」的縮寫。\[2\]
@@ -50,9 +53,8 @@
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p>12月4日</p></td>
-<td><p><strong>《Q&amp;A》</strong><small>（數位單曲）</small>[13]<ref name="Q&A"></p>
+<td><p><strong>《Q&amp;A》</strong><small>（數位單曲）</small>[13]<ref name="Q&A">* </p>
 <ul>
-<li></li>
 <li></li>
 <li></li>
 <li></li>
@@ -65,9 +67,8 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p>2月12日</p></td>
-<td><p>《2月號》<ref></p>
+<td><p>《2月號》<ref>* </p>
 <ul>
-<li></li>
 <li></li>
 <li></li>
 <li></li>
@@ -125,9 +126,8 @@
 <tr class="even">
 <td><p>1月19日</p></td>
 <td><p>《행보 2016 윤종신 /<br />
-작사가 윤종신 Live Part 2》<ref></p>
+작사가 윤종신 Live Part 2》<ref>* </p>
 <ul>
-<li></li>
 <li></li>
 <li></li>
 <li></li>
@@ -664,85 +664,52 @@
 [Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink") [Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink") [Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink")
 
 1.
-
 2.
-
 3.  於2017年《17 JAPAN CON Say the name SEVENTEEN》演唱會場刊中提及（翻譯參考 [本質惡霸 @微博](http://weibo.wbdacdn.com/user/5720095900/status4075793766787137.html)）
-
 4.
 5.
 6.
 7.
-
 8.  [YouTube](../Page/YouTube.md "wikilink")上的
-
 9.
-
 10.  3分39秒起
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
-
 25.
-
 26.
-
 27. 於《SEVENTEEN Project：出道大作戰》EP.3 首次演出：
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
 34. 於《SEVENTEEN Project：出道大作戰》EP.5 首次演出：
-
 35. 於2018年6月30日 《SEVENTEEN CONCERT 『IDEAL CUT』》首次表演
-
 36.
 37.
-
 38.
 39.
 40.
 41.
-
 42.
 43.
-
 44.
 45.
 46.
-
 47.
 48.
 49.
-
 50.

@@ -1,4 +1,4 @@
-> 本文内容由[Dream \(迷你專輯\)](https://zh.wikipedia.org/wiki/Dream \(迷你專輯\))转换而来。
+> 本文内容由[Dream \(迷你專輯\)](https://zh.wikipedia.org/wiki/Dream_\(迷你專輯\))转换而来。
 
 
 《**Dream**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")成員[鄭恩地](../Page/鄭恩地.md "wikilink")以個人女[歌手](../Page/歌手.md "wikilink")身份活動的首張個人[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[Plan A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年4月18日發行。

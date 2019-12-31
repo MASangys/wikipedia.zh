@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox artist](https://zh.wikipedia.org/wiki/模块:Infobox_artist)转换而来。
+
+
 \--本模块用于执行  及  模板 --后续会将  模板亦改为通过此模块执行，但艺人信息框模板结构较为复杂，故实现起来需要更长的时间。
 
 local p = {}

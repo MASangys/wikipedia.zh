@@ -1,3 +1,6 @@
+> 本文内容由[APRIL\'s 噓CRET](https://zh.wikipedia.org/wiki/APRIL\'s_噓CRET)转换而来。
+
+
 《'''APRIL's 噓CRET '''》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP媒體](../Page/DSP媒體.md "wikilink")公司旗下的女子團體[APRIL為主角所拍攝的](../Page/APRIL_\(女子團體\).md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，主人公為團員娜恩\[1\]。
 
 ## 各集內容

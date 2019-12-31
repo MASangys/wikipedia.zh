@@ -1,3 +1,6 @@
+> 本文内容由[KennyS](https://zh.wikipedia.org/wiki/KennyS)转换而来。
+
+
 **肯尼·施卢普**（，），游戏化名**kennyS**，是一名法国职业[电子竞技](../Page/电子竞技.md "wikilink")选手。施卢普的电子竞技生涯始于2011年，起初他是一名《[反恐精英：起源](https://zh.wikipedia.org/wiki/反恐精英：起源 "wikilink")》的职业选手， 2012转战《[反恐精英：全球攻势](../Page/反恐精英：全球攻势.md "wikilink")》（《CS：GO》）。kennyS被认为是世界上最好的《CS：GO》[AWP狙击手之一](../Page/精密國際AW狙擊步槍.md "wikilink")，其出色表现受到了电竞界的极大关注\[1\]\[2\]。他在2015年[游戏大奖](../Page/游戏大奖.md "wikilink")中被评为“年度电子竞技玩家”\[3\]。
 
 ## 职业生涯

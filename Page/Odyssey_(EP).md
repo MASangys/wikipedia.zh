@@ -1,4 +1,4 @@
-> 本文内容由[Odyssey \(EP\)](https://zh.wikipedia.org/wiki/Odyssey \(EP\))转换而来。
+> 本文内容由[Odyssey \(EP\)](https://zh.wikipedia.org/wiki/Odyssey_\(EP\))转换而来。
 
 
 《**Odyssey**》是[香港](../Page/香港.md "wikilink")歌手[馮允謙](../Page/馮允謙.md "wikilink")第四張個人唱片，於2015年6月11日推出。

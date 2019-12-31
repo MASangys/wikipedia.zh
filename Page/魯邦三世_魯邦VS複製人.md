@@ -1,4 +1,4 @@
-> 本文内容由[魯邦三世 魯邦VS複製人](https://zh.wikipedia.org/wiki/魯邦三世 魯邦VS複製人)转换而来。
+> 本文内容由[魯邦三世 魯邦VS複製人](https://zh.wikipedia.org/wiki/魯邦三世_魯邦VS複製人)转换而来。
 
 
 《**魯邦三世 魯邦VS複製人**》（）是1978年12月16日上映的《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》系列首部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。

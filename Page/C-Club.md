@@ -1,3 +1,6 @@
+> 本文内容由[C-Club](https://zh.wikipedia.org/wiki/C-Club)转换而来。
+
+
 **《戚𡤕 - 俱樂部》**（ [轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：**C - Klub**）是[塞爾維亞著名流行女歌手](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")[Ceca的第二張](../Page/戚𡤕.md "wikilink")[混音專輯](https://zh.wikipedia.org/wiki/混音專輯 "wikilink")，發布日期爲2012年6月17日，曲風融合了[出神音樂和](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")[流行-民謠](https://zh.wikipedia.org/wiki/流行-民謠 "wikilink")。 該專輯祇推出了一隻[雷射唱片版本](https://zh.wikipedia.org/wiki/雷射唱片 "wikilink") \[1\]
 
 ## 關於專輯

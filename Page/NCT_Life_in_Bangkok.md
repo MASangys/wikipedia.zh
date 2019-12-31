@@ -1,3 +1,6 @@
+> 本文内容由[NCT Life in Bangkok](https://zh.wikipedia.org/wiki/NCT_Life_in_Bangkok)转换而来。
+
+
 《**NCT Life in Bangkok**》（韓語：）是韓國[V Live電視台的綜藝節目](https://zh.wikipedia.org/wiki/V_Live "wikilink")，由[NCT](../Page/NCT.md "wikilink")出演。節目將展現[NCT](../Page/NCT.md "wikilink")在[曼谷](../Page/曼谷.md "wikilink")日常生活的私下樣子,同時在節目中能看見[NCT](../Page/NCT.md "wikilink")各種不同的面貌\[1\]。
 
 ## 拍攝地點

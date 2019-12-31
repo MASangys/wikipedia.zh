@@ -1,3 +1,6 @@
+> 本文内容由[迷徒Chloe](https://zh.wikipedia.org/wiki/迷徒Chloe)转换而来。
+
+
 《**迷徒Chloe**》【迷徒第二季】（英語： Lost ? Me too II ），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、[吳岱凌](../Page/吳岱凌.md "wikilink")、[張雁名](../Page/張雁名.md "wikilink")、[穆熙妍](../Page/穆熙妍.md "wikilink")等人主演。
 
 傳遞娛樂的《迷徒》故事IP，開啟了一種寫實的風格，打破了台灣偶像劇慣有的王子公主夢幻童話套路，不論是第一季的Claire或是第二季的Chloe，都以寫實的職場都會女性為主人翁切入，探討女性在追求夢想、追逐愛情以及事業、感情、成名、虛榮等人生諸多選項中"迷途"，在其中迷失或重新找到自我的過程；兩季的影像視覺，也具質感與電影感。

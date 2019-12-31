@@ -1,4 +1,4 @@
-> 本文内容由[White forces](https://zh.wikipedia.org/wiki/White forces)转换而来。
+> 本文内容由[White forces](https://zh.wikipedia.org/wiki/White_forces)转换而来。
 
 
 《**White forces**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第十一張單曲。於2016年2月10日由[愛貝克思集團](../Page/愛貝克思集團.md "wikilink")發售。

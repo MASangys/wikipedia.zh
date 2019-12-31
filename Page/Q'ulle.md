@@ -1,3 +1,6 @@
+> 本文内容由[Q\'ulle](https://zh.wikipedia.org/wiki/Q\'ulle)转换而来。
+
+
 **Q'ulle**（きゅーる 或稱 キュール）是一個[日本](../Page/日本.md "wikilink")的女子搖滾舞蹈團體，前身為試跳團體「[DANCEROID](../Page/DANCEROID.md "wikilink")」，該團體於2014年解散後，其中五位成員為了向更高的目標邁進而於同年10月15日宣布結成\[1\]。
 與DANCEROID以舞蹈為主不同，Q'ulle亦在在演出中加入歌唱的元素\[2\]；音樂演出的部份則由支援樂團負責。
 支援樂團構成成員為：源田爽馬(Sow)(吉他手)，板井直樹(Naoki Itai) \[3\](吉他手)，北村望(Nozo)(鼓手)，櫻井陸来(Rock)(貝斯手)，モチヅキヤスノリ(Yasu)(鍵盤手)

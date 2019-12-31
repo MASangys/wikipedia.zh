@@ -1,4 +1,4 @@
-> 本文内容由[One HarbourGate](https://zh.wikipedia.org/wiki/One HarbourGate)转换而来。
+> 本文内容由[One HarbourGate](https://zh.wikipedia.org/wiki/One_HarbourGate)转换而来。
 
 
 [One_HarbourGate_201705.jpg](https://zh.wikipedia.org/wiki/File:One_HarbourGate_201705.jpg "fig:One_HarbourGate_201705.jpg") [One_HarbourGate_Entrance_2017.jpg](https://zh.wikipedia.org/wiki/File:One_HarbourGate_Entrance_2017.jpg "fig:One_HarbourGate_Entrance_2017.jpg") [One_HarbourWalk_vacant_shops_201705.jpg](https://zh.wikipedia.org/wiki/File:One_HarbourWalk_vacant_shops_201705.jpg "fig:One_HarbourWalk_vacant_shops_201705.jpg") [One_HarbourGate_open_space_2017.jpg](https://zh.wikipedia.org/wiki/File:One_HarbourGate_open_space_2017.jpg "fig:One_HarbourGate_open_space_2017.jpg")\]\] **One HarbourGate**是位於香港[紅磡灣](../Page/紅磡灣.md "wikilink")紅鸞道18號的甲級全海景寫字樓項目，共建有建4幢物業，分別為兩座商廈及兩座商舖。項目由[會德豐地產](../Page/會德豐地產.md "wikilink")發展、建築公司PLP及[呂元祥建築師事務所](../Page/呂元祥建築師事務所.md "wikilink")設計，[協興建築](../Page/協興建築.md "wikilink")承建的商廈，於2016年年底落成。

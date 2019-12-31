@@ -1,10 +1,13 @@
+> 本文内容由[=LOVE](https://zh.wikipedia.org/wiki/=LOVE)转换而来。
+
+
 **=LOVE**（，簡稱「」）是2017年成立的[日本](../Page/日本.md "wikilink")女子[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。 [缩略图](https://zh.wikipedia.org/wiki/File:2018.03.25_＝LOVE_「Equal_Love」／イコールラブ「イコラブ」＝LOVE×-きっと君だ！presents_=LIVE特別演唱會_in_台湾_@台北_Syntrend_三創生活園區_5樓clapper_studio_DSC_3135_\(40113360225\).jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:2018.03.25_＝LOVE_「Equal_Love」／イコールラブ「イコラブ」＝LOVE×-きっと君だ！presents_=LIVE特別演唱會_in_台湾_@台北_Syntrend_三創生活園區_5樓clapper_studio_DSC_3033_\(40297843404\).jpg "fig:缩略图")
 
 ## 概要
 
-該團體是由當時[HKT48](../Page/HKT48.md "wikilink")現役在籍偶像的[指原莉乃](../Page/指原莉乃.md "wikilink")、加上以[聲優](../Page/聲優.md "wikilink")養成著稱的[代代木動畫學院](../Page/代代木動畫學院.md "wikilink")，出於「聲優教育」而誕生的「聲優偶像」，於2017年開始活動。
+該團體是由當時為[HKT48](../Page/HKT48.md "wikilink")在籍[偶像的](../Page/偶像_\(日本\).md "wikilink")[指原莉乃](../Page/指原莉乃.md "wikilink")領銜製作、加上以[聲優](../Page/聲優.md "wikilink")養成著稱的[代代木動畫學院](../Page/代代木動畫學院.md "wikilink")，出於「聲優教育」而誕生的「聲優偶像」，於2017年開始活動。
 
-團名「=LOVE」以英文讀做「」，[注音假名轉寫成](https://zh.wikipedia.org/wiki/振假名 "wikilink")「」，意為「等於愛」。指原莉乃認為「偶像必須被[粉絲喜愛](../Page/爱好者.md "wikilink")，自己也必須喜愛偶像這份工作」、「覺得偶像就是愛」，因而命名\[1\]\[2\]。
+團名「=LOVE」以英文讀做「」，[注音假名轉寫成](https://zh.wikipedia.org/wiki/振假名 "wikilink")「」，意為「等於愛」。指原認為「偶像必須被[粉絲喜愛](../Page/爱好者.md "wikilink")，自己也必須喜愛偶像這份工作」、「覺得偶像就是愛」，因而命名\[1\]\[2\]。
 
 ## 歷史
 
@@ -82,7 +85,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>髙松瞳</p></td>
+<td><p>高松瞳<br />
+（）</p></td>
 <td></td>
 <td></td>
 <td><p>東京都</p></td>
@@ -123,31 +127,31 @@
 
 ## 作品
 
-※「最高位」为单曲或专辑在[Oricon週榜的最高名次](../Page/Oricon公信榜.md "wikilink")\[12\]。
+※「最高排位」为单曲或专辑在[Oricon週榜的最高名次](../Page/Oricon公信榜.md "wikilink")\[12\]。
 
 ### 单曲
 
-| 序號     | 發售日          | 名称                                                                   | 發售形態                                                                                        | 唱片編號        | 形態             | 最高位 |
-| ------ | ------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- | -------------- | --- |
-| 1      | 2017年9月6日    | 《[=LOVE](../Page/=LOVE_\(单曲\).md "wikilink")》                        | [CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink")+[DVD](../Page/DVD-Video.md "wikilink") | VVCL-1108/9 | 初回生產限定盤 Type-A | 8位  |
-| CD+DVD | VVCL-1110/1  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
-| CD     | VVCL-1112    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 2      | 2017年12月6日   | 《[我们的制服圣诞节](https://zh.wikipedia.org/wiki/我们的制服圣诞节 "wikilink")》      | CD+DVD                                                                                      | VVCL-1135/6 | 初回生產限定盤 Type-A | 3位  |
-| CD+DVD | VVCL-1137/8  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
-| CD     | VVCL-1139    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 3      | 2018年5月16日   | 《[為時已晚的警告](../Page/為時已晚的警告.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1237/8 | 初回生產限定盤 Type-A | 3位  |
-| CD+DVD | VVCL-1239/40 | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
-| CD     | VVCL-1241    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 4      | 2018年10月17日  | 《[Want you\! Want you\!](../Page/Want_you!_Want_you!.md "wikilink")》 | CD+DVD                                                                                      | VVCL-1300/1 | 初回生產限定盤 Type-A | 2位  |
-| CD+DVD | VVCL-1302/3  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
-| CD     | VVCL-1304    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 5      | 2019年4月24日   | 《[去尋找鑽石百合](../Page/去尋找鑽石百合.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A | 2位  |
-| CD+DVD | VVCL-1437/8  | 初回仕様限定盤 Type-B                                                       |                                                                                             |             |                |     |
-| CD     | VVCL-1439    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 6      | 2019年10月30日  | （題名未定）                                                               | CD+DVD                                                                                      |             | 初回生產限定盤 Type-A | （）  |
-| CD+DVD |              | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
-| CD+DVD |              | 初回生產限定盤 Type-C                                                       |                                                                                             |             |                |     |
-| CD     |              | 通常盤 Type-D                                                           |                                                                                             |             |                |     |
+| 序號     | 發售日          | 名称                                                                   | 發售形態                                                                                        | 唱片編號        | 形態             | 最高排位     |
+| ------ | ------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- | -------------- | -------- |
+| 1      | 2017年9月6日    | 《[=LOVE](../Page/=LOVE_\(单曲\).md "wikilink")》                        | [CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink")+[DVD](../Page/DVD-Video.md "wikilink") | VVCL-1108/9 | 初回生產限定盤 Type-A | 8位       |
+| CD+DVD | VVCL-1110/1  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |          |
+| CD     | VVCL-1112    | 通常盤 Type-C                                                           |                                                                                             |             |                |          |
+| 2      | 2017年12月6日   | 《[我们的制服圣诞节](https://zh.wikipedia.org/wiki/我们的制服圣诞节 "wikilink")》      | CD+DVD                                                                                      | VVCL-1135/6 | 初回生產限定盤 Type-A | 3位       |
+| CD+DVD | VVCL-1137/8  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |          |
+| CD     | VVCL-1139    | 通常盤 Type-C                                                           |                                                                                             |             |                |          |
+| 3      | 2018年5月16日   | 《[為時已晚的警告](../Page/為時已晚的警告.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1237/8 | 初回生產限定盤 Type-A | 3位       |
+| CD+DVD | VVCL-1239/40 | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |          |
+| CD     | VVCL-1241    | 通常盤 Type-C                                                           |                                                                                             |             |                |          |
+| 4      | 2018年10月17日  | 《[Want you\! Want you\!](../Page/Want_you!_Want_you!.md "wikilink")》 | CD+DVD                                                                                      | VVCL-1300/1 | 初回生產限定盤 Type-A | 2位       |
+| CD+DVD | VVCL-1302/3  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |          |
+| CD     | VVCL-1304    | 通常盤 Type-C                                                           |                                                                                             |             |                |          |
+| 5      | 2019年4月24日   | 《[去尋找鑽石百合](../Page/去尋找鑽石百合.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A | 2位       |
+| CD+DVD | VVCL-1437/8  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |          |
+| CD     | VVCL-1439    | 通常盤 Type-C                                                           |                                                                                             |             |                |          |
+| 6      | 2019年10月30日  | 《》                                                                   | CD+DVD                                                                                      | VVCL-1560/1 | 初回生產限定盤 Type-A | 1位\[13\] |
+| CD+DVD | VVCL-1562/3  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |          |
+| CD+DVD | VVCL-1564/5  | 初回生產限定盤 Type-C                                                       |                                                                                             |             |                |          |
+| CD     | VVCL-1566    | 通常盤 Type-D                                                           |                                                                                             |             |                |          |
 
 ## 参考文献
 
@@ -175,24 +179,15 @@
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:指原莉乃](https://zh.wikipedia.org/wiki/Category:指原莉乃 "wikilink") [Category:代代木动画学院](https://zh.wikipedia.org/wiki/Category:代代木动画学院 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
+13.

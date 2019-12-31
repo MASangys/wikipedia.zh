@@ -1,3 +1,6 @@
+> 本文内容由[Animation StudiO Seven](https://zh.wikipedia.org/wiki/Animation_StudiO_Seven)转换而来。
+
+
 **株式會社Animation StudiO Seven**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 簡介

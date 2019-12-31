@@ -1,4 +1,4 @@
-> 本文内容由[模块:Protection banner](https://zh.wikipedia.org/wiki/模块:Protection banner)转换而来。
+> 本文内容由[模块:Protection banner](https://zh.wikipedia.org/wiki/模块:Protection_banner)转换而来。
 
 
 \-- This module implements  and its daughter templates such as -- ,  and .

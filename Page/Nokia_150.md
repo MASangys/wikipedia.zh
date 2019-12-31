@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 150](https://zh.wikipedia.org/wiki/Nokia_150)转换而来。
+
+
 **Nokia 150**是[HMD Global生產的](../Page/HMD_Global.md "wikilink")[Nokia直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，2016年12月13日發布。\[1\]\[2\]
 
 ## 規格

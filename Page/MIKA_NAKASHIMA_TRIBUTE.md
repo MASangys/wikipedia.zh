@@ -1,3 +1,6 @@
+> 本文内容由[MIKA NAKASHIMA TRIBUTE](https://zh.wikipedia.org/wiki/MIKA_NAKASHIMA_TRIBUTE)转换而来。
+
+
 《**MIKA NAKASHIMA TRIBUTE**》是[中島美嘉](../Page/中島美嘉.md "wikilink")的致敬專輯，於2016年2月24日發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[LOST SONG](https://zh.wikipedia.org/wiki/LOST_SONG)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")動畫公司[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")×[DWANGO共同製作的原創](../Page/多玩國.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2018年4月7日首播\[1\]。
 
 2016年11月，在[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的「[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink") Birthday Live 2016 ～Cheers\!\!\!～」活動中，發表[歌手](../Page/歌手.md "wikilink")鈴木KONOMI決定挑戰配音工作，第一次為該作動畫獻聲\[2\]。
@@ -353,13 +356,9 @@
 [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Ultra_Super_Pictures](https://zh.wikipedia.org/wiki/Category:Ultra_Super_Pictures "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:Netflix外購動畫](https://zh.wikipedia.org/wiki/Category:Netflix外購動畫 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -375,7 +374,5 @@
 17.
 18.
 19.
-
 20.
-
 21.

@@ -1,3 +1,6 @@
+> 本文内容由[华为Nova 2](https://zh.wikipedia.org/wiki/华为Nova_2)转换而来。
+
+
 **华为Nova 2**是由[华为公司设计和销售的](https://zh.wikipedia.org/wiki/华为公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，也是[华为Nova](../Page/华为Nova.md "wikilink")的换代产品，包括Nova 2和Nova 2 Plus两个版本，于2017年5月26日发布。
 
 Nova 2以拍照功能为主打\[1\]，手机除提供双摄像头和前置高清摄像头外，还提供手势拍照功能。由于手机拥有独特的外观设计，因而被称为“华为高[颜值手机](https://zh.wikipedia.org/wiki/颜值 "wikilink")”\[2\]。

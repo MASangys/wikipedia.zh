@@ -1,3 +1,6 @@
+> 本文内容由[Earth Star Dream](https://zh.wikipedia.org/wiki/Earth_Star_Dream)转换而来。
+
+
 {{•}} |過往成員 = {{•}}齋藤愛永{{•}}海月泉
 [中島由貴](https://zh.wikipedia.org/wiki/中島由貴 "wikilink"){{•}}{{•}} |獎項 = }} **Earth Star Dream**（）是由六位[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")組成的[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，唱片公司為EARTH STAR Records。
 

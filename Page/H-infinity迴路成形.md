@@ -1,3 +1,6 @@
+> 本文内容由[H-infinity迴路成形](https://zh.wikipedia.org/wiki/H-infinity迴路成形)转换而来。
+
+
 **H-infinity迴路成形**（H-infinity loop-shaping）是現代[控制理论](../Page/控制理论.md "wikilink")中的一種設計方法，結合了傳統的控制分析方式（例如[波德靈敏度積分](../Page/波德靈敏度積分.md "wikilink")）及[H-infinity最佳化技術](https://zh.wikipedia.org/wiki/H_infinity "wikilink")，目的是讓控制器的穩定性及性能都維持在良好的水準，不過實際上的受控系統和設計時理想系統的誤差需要在一定範圍內。基本上，控制系統的設計者透過在[頻域](../Page/頻域.md "wikilink")上受控系統[傳遞函數上不同頻段的加權來描述理想的系統響應以及雜訊抑制能力](https://zh.wikipedia.org/wiki/傳遞函數 "wikilink")。所得的迴路成形會再經過最佳化進行「強健處理」（robustified）。強健處理在高頻及低頻的影響不大，不過在單位增益附近的響應會再作調整，讓系統的穩定[相位裕度](../Page/相位裕度.md "wikilink")可以達到最大值。H-infinity迴路成形可以用在[多重輸入多重輸出](https://zh.wikipedia.org/wiki/多重輸入多重輸出 "wikilink")（MIMO）系統。
 
 H-infinity迴路成形可以用商用軟體達成\[1\]。

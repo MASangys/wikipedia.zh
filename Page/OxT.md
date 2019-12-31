@@ -1,3 +1,6 @@
+> 本文内容由[OxT](https://zh.wikipedia.org/wiki/OxT)转换而来。
+
+
 **OxT**（オクト）由歌手[大石昌良](../Page/大石昌良.md "wikilink")與作曲家[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")所組成的音樂團體。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[ACCA13區監察課](https://zh.wikipedia.org/wiki/ACCA13區監察課)转换而来。
+
+
 《**ACCA13區監察課**》（）為日本漫畫家[小野夏芽](../Page/小野夏芽.md "wikilink")所繪製的[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。該漫畫作品於2013年至2016年在日本漫畫雜誌《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）中連載。電視動畫於2017年1月10日開始播出。
 
 2016年12月開始在《月刊BIG GANGAN》連載番外篇《ACCA13區監察課 P.S.》，並於2017年10月連載完畢。

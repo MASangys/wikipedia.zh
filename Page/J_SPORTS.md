@@ -1,3 +1,6 @@
+> 本文内容由[J SPORTS](https://zh.wikipedia.org/wiki/J_SPORTS)转换而来。
+
+
 **J SPORTS**是[日本](../Page/日本.md "wikilink")的一家专门播出体育节目的电视台，隶属于株式会社J SPORTS（），旧称SKY sports、J SKY sports。
 
 ## 概要

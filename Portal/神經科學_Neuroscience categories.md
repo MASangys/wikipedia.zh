@@ -1,3 +1,6 @@
+> 本文内容由[Portal:神經科學/Neuroscience categories](https://zh.wikipedia.org/wiki/Portal:神經科學/Neuroscience_categories)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

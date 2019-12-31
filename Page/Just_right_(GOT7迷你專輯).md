@@ -1,4 +1,4 @@
-> 本文内容由[Just right \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/Just right \(GOT7迷你專輯\))转换而来。
+> 本文内容由[Just right \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/Just_right_\(GOT7迷你專輯\))转换而来。
 
 
 《**Just right**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第三張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2015年7月13日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music，主打歌為《Just right》。12月23日發行《Just right》特別版專輯（Special Edition）。

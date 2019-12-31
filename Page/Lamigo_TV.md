@@ -1,3 +1,6 @@
+> 本文内容由[Lamigo TV](https://zh.wikipedia.org/wiki/Lamigo_TV)转换而来。
+
+
 Lamigo TV為專屬於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿隊的](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")[網路轉播平台](https://zh.wikipedia.org/wiki/網路 "wikilink")\[1\]，僅限於桃猿隊[主場賽事轉播](https://zh.wikipedia.org/wiki/主場 "wikilink")，並持續推出相關[棒球](../Page/棒球.md "wikilink")節目，如「10號總動猿」等。目前節目內容可於[meme直播等平台收視](https://zh.wikipedia.org/wiki/meme直播 "wikilink")。
 
 ## 簡介

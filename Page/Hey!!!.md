@@ -1,3 +1,6 @@
+> 本文内容由[Hey!!!](https://zh.wikipedia.org/wiki/Hey!!!)转换而来。
+
+
 《**Hey\!\!\!**》是[日本](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[FLOW出道以來的第](../Page/FLOW_\(樂團\).md "wikilink")22張單曲、也是樂團成立以來總計第26張單曲。2011年8月31日由[Ki/oon Records（日本索尼音樂娛樂）發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[好運RACE](https://zh.wikipedia.org/wiki/好運RACE)转换而来。
+
+
 《'''好運RACE '''》（）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Comedy TV的綜藝節目](https://zh.wikipedia.org/wiki/Comedy_TV "wikilink")，由[利特](../Page/利特.md "wikilink")、[許卿煥](../Page/許卿煥.md "wikilink")、[李尚民](https://zh.wikipedia.org/wiki/李尚民 "wikilink")、[金日中](https://zh.wikipedia.org/wiki/金日中 "wikilink")、[張東民](../Page/張東民.md "wikilink")、[李相俊](../Page/李相俊.md "wikilink")等人共同主持，節目結合蛇形梯子遊戲與旅行作為主軸\[1\]。
 
 ## 收視率

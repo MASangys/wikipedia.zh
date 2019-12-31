@@ -1,3 +1,6 @@
+> 本文内容由[2016 BIGBANG World Tour MADE Final in Seoul Live \(現場專輯\)](https://zh.wikipedia.org/wiki/2016_BIGBANG_World_Tour_MADE_Final_in_Seoul_Live_\(現場專輯\))转换而来。
+
+
 《**2016 BIGBANG World Tour \[MADE\] Final in Seoul Live**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG推出的第九張韓語](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作發佈，在2016年6月3日正式發行。該專輯收錄於2016年3月4日至6日在[首爾奧林匹克體操競技場舉行為期三天的演唱會](../Page/首尔奥林匹克体操竞技场.md "wikilink")。
 
 ## 概要

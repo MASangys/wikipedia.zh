@@ -1,3 +1,6 @@
+> 本文内容由[Anarkismo.net](https://zh.wikipedia.org/wiki/Anarkismo.net)转换而来。
+
+
 **Anarkismo.net**是一个国际新闻评论网站，持[无政府共产主义](https://zh.wikipedia.org/wiki/无政府共产主义 "wikilink")、[纲领主义和](https://zh.wikipedia.org/wiki/纲领主义 "wikilink")[特别主义立场](https://zh.wikipedia.org/wiki/特别主义 "wikilink")。该网站创建于2005年5月1日。该网站自启动以来，已经发表了2万多篇用不同语言撰写的文章。该网站由一个代表来自不同国家的多个[无政府主义](../Page/无政府主义.md "wikilink")组织的集体管理。围绕该网站，实际上已出现一个类似于[国际组织的架构](https://zh.wikipedia.org/wiki/国际政党组织 "wikilink")。
 
 ## 参与组织

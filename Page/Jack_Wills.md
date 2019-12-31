@@ -1,3 +1,6 @@
+> 本文内容由[Jack Wills](https://zh.wikipedia.org/wiki/Jack_Wills)转换而来。
+
+
 **Jack Wills**是英國服裝品牌。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[David Ussishkin](https://zh.wikipedia.org/wiki/David_Ussishkin)转换而来。
+
+
 **David Ussishkin**是以色列考古学家，1935年出生于耶路撒冷。1966年开始，在特拉维夫大学考古系教书。2005年，以特拉维夫大学考古系教授的身份退休。Ussishkin是以色列地区铁器时代考古的著名专家。他曾在多个地点（包括[Lachish](https://zh.wikipedia.org/wiki/Lachish "wikilink")，Jezreel和[Megiddo](../Page/米吉多.md "wikilink")）指挥和协调重大挖掘工作。 
 
 在1968年至1971年，他在他的同事Gabriel Barkay的协助下，承担了对Silwan村建造的耶路撒冷第一圣殿时期墓地Silwan墓地岩石切割墓的第一次完整调查。\[1\]\[2\]

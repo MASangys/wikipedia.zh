@@ -1,3 +1,6 @@
+> 本文内容由[Supreme](https://zh.wikipedia.org/wiki/Supreme)转换而来。
+
+
 **Supreme**（簡稱：**SUP**）是一個[滑板運動用品及服裝品牌](https://zh.wikipedia.org/wiki/滑板運動 "wikilink")\[1\]\[2\]，於1994年4月由[James Jebbia創建於](https://zh.wikipedia.org/wiki/James_Jebbia "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")。
 
 ## 品牌概念

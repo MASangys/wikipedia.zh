@@ -1,4 +1,4 @@
-> 本文内容由[One Light](https://zh.wikipedia.org/wiki/One Light)转换而来。
+> 本文内容由[One Light](https://zh.wikipedia.org/wiki/One_Light)转换而来。
 
 
 《**One Light**》，為[Kalafina](../Page/Kalafina.md "wikilink")的第十八張單曲。由[梶浦由記](../Page/梶浦由記.md "wikilink")作詞、作曲。距離上一張單曲《[ring your bell](https://zh.wikipedia.org/wiki/ring_your_bell "wikilink")》發售約三个月，於2015年8月12日發行。

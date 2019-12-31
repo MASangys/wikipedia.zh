@@ -1,4 +1,4 @@
-> 本文内容由[Sony Xperia X Compact](https://zh.wikipedia.org/wiki/Sony Xperia X Compact)转换而来。
+> 本文内容由[Sony Xperia X Compact](https://zh.wikipedia.org/wiki/Sony_Xperia_X_Compact)转换而来。
 
 
 **Sony Xperia X Compact**是[索尼](../Page/索尼.md "wikilink")於2016年9月1日在IFA柏林展发表的旗艦手機，同時發佈了同為X系列的[Sony Xperia XZ](../Page/Sony_Xperia_XZ.md "wikilink")。XC搭載4.6吋螢幕、高通[骁龙](https://zh.wikipedia.org/wiki/骁龙 "wikilink")650處理器、3GB記憶體、搭载全新2300万像素Exmor RS相机模组，带有三重影像技术，支持混合对焦，激光自动对焦，0.6秒快速启动，24mm广角G Lens镜头，BIONZ移动图像处理器，SteadyShot五轴电子防抖。

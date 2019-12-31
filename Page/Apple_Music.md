@@ -1,4 +1,4 @@
-> 本文内容由[Apple Music](https://zh.wikipedia.org/wiki/Apple Music)转换而来。
+> 本文内容由[Apple Music](https://zh.wikipedia.org/wiki/Apple_Music)转换而来。
 
 
 ****是[苹果公司于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2015年6月30日推出的一款在线音乐[流媒体](../Page/流媒体.md "wikilink")服务。此项服务的用户可以根据自己的选择，在设备上点播歌曲。服务中还包括了网络电台“”。用户可免费试用三个月，之后转为收费服务。能够根据用户的口味向用户推荐音乐，整个服务也整合到了语音控制服务中。2016年时，这项服务支持全球113个国家和地区，是全球第二大流媒体音乐服务，次于[Spotify](../Page/Spotify.md "wikilink")。其在不同国家的收费有所差别，而且在部分地区不提供电台服务。

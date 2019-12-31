@@ -1,3 +1,6 @@
+> 本文内容由[Fighting吧！天團](https://zh.wikipedia.org/wiki/Fighting吧！天團)转换而来。
+
+
 《**Fighting吧！天團**》是[臺灣](../Page/臺灣.md "wikilink")[年代MUCH台](../Page/年代MUCH台.md "wikilink")和[壹電視綜合台](../Page/壹電視綜合台.md "wikilink")共同推出的偶像[實境秀節目](https://zh.wikipedia.org/wiki/實境秀節目 "wikilink")，採錄影播出。於2017年3月12日播出，2017年6月18日播出最後一集，播出時間為週日20:00-21:30首播，並於隔週六於[年代MUCH台](../Page/年代MUCH台.md "wikilink")和[壹電視綜合台](../Page/壹電視綜合台.md "wikilink")重播。其概念與韓國娛樂公司的選拔制度非常相似，讓尚未出道的練習生，透過節目放送就有粉絲支持。節目播畢後播放幕後花絮《**天團下課後**》。
 
 ## 播出時間

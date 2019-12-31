@@ -1,3 +1,6 @@
+> 本文内容由[The First \(NCT Dream單曲\)](https://zh.wikipedia.org/wiki/The_First_\(NCT_Dream單曲\))转换而来。
+
+
 《**The First**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[NCT Dream的首張單曲專輯](../Page/NCT.md "wikilink")，並以主打歌《最後的初戀》(My First and Last)正式展開宣傳活動\[1\]。由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，KT音樂發行，於2017年2月9日發行。
 
 ## 簡介

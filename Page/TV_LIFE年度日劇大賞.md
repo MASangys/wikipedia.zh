@@ -1,3 +1,6 @@
+> 本文内容由[TV LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/TV_LIFE年度日劇大賞)转换而来。
+
+
 《**TV LIFE年度日劇大賞**》（），是由日本雜誌《TV LIFE》公開由觀眾投票選出的電視劇獎。
 
 ## 評選方式
@@ -355,7 +358,7 @@
 <td><p><a href="../Page/上川隆也.md" title="wikilink">上川隆也</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/青澀時代" title="wikilink">青澀時代</a>》</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藤原紀香" title="wikilink">藤原紀香</a><br />
-<small>《》《<a href="../Page/網路情人.md" title="wikilink">網路情人</a>》<br />
+<small>《<a href="https://zh.wikipedia.org/wiki/新聞女郎" title="wikilink">新聞女郎</a>》《<a href="../Page/網路情人.md" title="wikilink">網路情人</a>》<br />
 《》</small></p></td>
 <td><p><a href="../Page/深田恭子.md" title="wikilink">深田恭子</a><br />
 <small>《<a href="../Page/神啊！请多给我一点时间.md" title="wikilink">神啊！请多给我一点时间</a>》</small></p></td>
@@ -744,7 +747,7 @@
 <td><p><a href="../Page/木村文乃.md" title="wikilink">木村文乃</a> (2)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》</small></p></td>
 <td><p><a href="../Page/岡田健史.md" title="wikilink">岡田健史</a><br />
-<small>《》</small></p></td>
+<small>《<a href="../Page/中學聖日記.md" title="wikilink">中學聖日記</a>》</small></p></td>
 <td><p>《Find The Answer》- <a href="../Page/嵐.md" title="wikilink">嵐</a><br />
 （<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>）</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》<br />

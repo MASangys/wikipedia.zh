@@ -1,4 +1,4 @@
-> 本文内容由[Be Myself](https://zh.wikipedia.org/wiki/Be Myself)转换而来。
+> 本文内容由[Be Myself](https://zh.wikipedia.org/wiki/Be_Myself)转换而来。
 
 
 **Be Myself**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華語女歌手](https://zh.wikipedia.org/wiki/華語 "wikilink")[鍾曉玉的首張專輯](https://zh.wikipedia.org/wiki/鍾曉玉 "wikilink")\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[TWICEcoaster: LANE 2](https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2)转换而来。
+
+
 《**TWICEcoaster: LANE 2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2016年10月推出的第三張韓語迷你專輯《[TWICEcoaster: LANE 1](../Page/TWICEcoaster:_LANE_1.md "wikilink")》的改版特別專輯，同時也是TWICE的第一張特別專輯。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，KT音樂發行，於2017年2月20日推出。主打歌曲為〈KNOCK KNOCK〉。
 
 ## 背景

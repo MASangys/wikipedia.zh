@@ -1,4 +1,4 @@
-> 本文内容由[Highlight \(Highlight專輯\)](https://zh.wikipedia.org/wiki/Highlight \(Highlight專輯\))转换而来。
+> 本文内容由[Highlight \(Highlight專輯\)](https://zh.wikipedia.org/wiki/Highlight_\(Highlight專輯\))转换而来。
 
 
 《**Highlight**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第三張正規專輯](../Page/Highlight_\(韓國組合\).md "wikilink")，本作亦是成員[張賢勝](../Page/張賢勝.md "wikilink")退出組合後，首次以五人之姿發行的作品。由[Cube娛樂](../Page/Cube娛樂.md "wikilink")企劃，2016年6月27日公開先行曲〈Butterfly〉，專輯則於隊長[尹斗俊](../Page/尹斗俊.md "wikilink")生日7月4日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]，主打曲為〈Ribbon〉（）。

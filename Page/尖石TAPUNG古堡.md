@@ -1,3 +1,6 @@
+> 本文内容由[尖石TAPUNG古堡](https://zh.wikipedia.org/wiki/尖石TAPUNG古堡)转换而来。
+
+
 **尖石TAPUNG古堡**，又稱**李棟山古堡**，是一座位在臺灣新竹縣[尖石鄉](../Page/尖石鄉.md "wikilink")的[軍事](../Page/軍事.md "wikilink")要塞。\[1\]
 
 ## 歷史

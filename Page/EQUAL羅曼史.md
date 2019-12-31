@@ -1,3 +1,6 @@
+> 本文内容由[EQUAL羅曼史](https://zh.wikipedia.org/wiki/EQUAL羅曼史)转换而来。
+
+
 《**EQUAL羅曼史**》（）是[日本](../Page/日本.md "wikilink")[女子偶像組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[CoCo的首張單曲](../Page/CoCo_\(組合\).md "wikilink")。1989年9月6日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

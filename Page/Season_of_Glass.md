@@ -1,4 +1,4 @@
-> 本文内容由[Season of Glass](https://zh.wikipedia.org/wiki/Season of Glass)转换而来。
+> 本文内容由[Season of Glass](https://zh.wikipedia.org/wiki/Season_of_Glass)转换而来。
 
 
 《**Season of Glass**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")作為出道作品的首張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，KT音樂發行，於2015年1月15日推出。此專輯為「校園系列三部曲」的第一部曲，以《유리구슬（Glass Bead）》為主打歌曲。《Season of Glass》曾於[Gaon Chart專輯週榜排行第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")9，並售出超過1萬張。

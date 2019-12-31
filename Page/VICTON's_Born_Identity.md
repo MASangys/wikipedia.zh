@@ -1,3 +1,6 @@
+> 本文内容由[VICTON\'s Born Identity](https://zh.wikipedia.org/wiki/VICTON\'s_Born_Identity)转换而来。
+
+
 《**VICTON's Born Identity**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan A娛樂公司旗下的男性團體](../Page/Plan_A娛樂.md "wikilink")[VICTON](../Page/VICTON.md "wikilink")為主角所拍攝的[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。將團員們的真實日常生活毫不保留地完整公開\[1\]\[2\]。
 
 ## 播出時間

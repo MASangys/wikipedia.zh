@@ -1,3 +1,6 @@
+> 本文内容由[模块:Portal bar](https://zh.wikipedia.org/wiki/模块:Portal_bar)转换而来。
+
+
 \-- This module implements .
 
 require('Module:No globals')

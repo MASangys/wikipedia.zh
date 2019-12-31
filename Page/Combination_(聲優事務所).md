@@ -1,3 +1,6 @@
+> 本文内容由[Combination \(聲優事務所\)](https://zh.wikipedia.org/wiki/Combination_\(聲優事務所\))转换而来。
+
+
 **株式會社Combination**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 概要
@@ -35,5 +38,4 @@
 [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
-
 2.

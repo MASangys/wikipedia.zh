@@ -1,3 +1,6 @@
+> 本文内容由[查爾斯·A·麥克萊娜漢](https://zh.wikipedia.org/wiki/查爾斯·A·麥克萊娜漢)转换而来。
+
+
 **查爾斯·A·麥克萊娜漢**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[马里兰州众议院議員](https://zh.wikipedia.org/wiki/马里兰州众议院 "wikilink")。
 
 ## 生平
@@ -92,11 +95,8 @@
 [Category:北卡羅來納州人](https://zh.wikipedia.org/wiki/Category:北卡羅來納州人 "wikilink") [Category:馬里蘭州眾議員](https://zh.wikipedia.org/wiki/Category:馬里蘭州眾議員 "wikilink") [Category:馬里蘭州共和黨人](https://zh.wikipedia.org/wiki/Category:馬里蘭州共和黨人 "wikilink")
 
 1.
-
 2.  [Charles McClenahan, former delegate, dies at 76](http://www.delmarvanow.com/story/news/local/maryland/2017/05/12/charles-mcclenahan-former-delegate-dies-76/319839001/)
-
 3.   Retrieved on Jan. 1, 2008
-
 4.
 5.
 6.

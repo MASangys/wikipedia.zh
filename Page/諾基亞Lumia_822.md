@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Lumia 822](https://zh.wikipedia.org/wiki/諾基亞Lumia_822)转换而来。
+
+
 **诺基亚Lumia 822**是一款在2012年10月29日发布的运行[Windows Phone 8操作系统的](../Page/Windows_Phone_8.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[Verizon定制机](https://zh.wikipedia.org/wiki/Verizon "wikilink")。\[1\]\[2\]\[3\] 是[诺基亚Lumia 820的改进型号](../Page/诺基亚Lumia_820.md "wikilink")。Lumia 822支持Qi标准充电和[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")。
 
 ## 历史

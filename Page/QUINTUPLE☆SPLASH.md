@@ -1,3 +1,6 @@
+> 本文内容由[QUINTUPLE☆SPLASH](https://zh.wikipedia.org/wiki/QUINTUPLE☆SPLASH)转换而来。
+
+
 《**QUINTUPLE☆SPLASH**》是日本[Parasol](../Page/Parasol.md "wikilink")於2015年12月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，以女學校為背景描敘「校園青春」和「泳衣萌」的戀愛故事。\[3\]
 
 ## 故事

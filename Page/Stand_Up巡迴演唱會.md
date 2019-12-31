@@ -1,3 +1,6 @@
+> 本文内容由[Stand Up巡迴演唱會](https://zh.wikipedia.org/wiki/Stand_Up巡迴演唱會)转换而来。
+
+
 **Stand Up巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG出道以來第一場日本巡迴演唱會](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，以支持他們在日本推出的手張正規專輯《[Number 1](../Page/Number_1_\(BIGBANG日語專輯\).md "wikilink")》，而這場演唱會的[東京場次也製作成CD及DVD發行](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[1\]\[2\]
 
 ## 特別嘉賓

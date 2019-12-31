@@ -1,3 +1,6 @@
+> 本文内容由[Skull \(歌手\)](https://zh.wikipedia.org/wiki/Skull_\(歌手\))转换而来。
+
+
 **Skull**（；），本名**曹成鎮**（音譯，），是[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[雷鬼](../Page/雷鬼音樂.md "wikilink")[歌手](https://zh.wikipedia.org/wiki/歌唱 "wikilink")\[1\]。他因為其歌曲《Love Inside》而在[牙買加十分出名](https://zh.wikipedia.org/wiki/牙買加 "wikilink")。\[2\]
 
 ## 作品
@@ -110,9 +113,6 @@
 [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.

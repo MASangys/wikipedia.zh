@@ -1,3 +1,6 @@
+> 本文内容由[GFRIEND影視作品列表](https://zh.wikipedia.org/wiki/GFRIEND影視作品列表)转换而来。
+
+
 《**GFRIEND媒體作品列表**》主要列舉[韓國女子音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")歷年參與各類電視節目、固定節目、電視劇、音樂錄影帶及音樂現場。
 
 ## 影視作品

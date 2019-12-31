@@ -1,3 +1,6 @@
+> 本文内容由[MoviePass](https://zh.wikipedia.org/wiki/MoviePass)转换而来。
+
+
 **MoviePass**是美国的一家电影票订阅服务提供商，于2011年在[纽约](../Page/纽约.md "wikilink")创立。\[1\]订阅了其包月服务的会员可以在当月每天前往影院观看一场电影。
 
 MoviePass曾尝试过不同的订阅价格。2017年8月，在分析公司Helios and Matheson收购了MoviePass的大部分股份后，包月价格降为每月9.95美元。\[2\]此举旨在通过扩大用户数量以获取更多有关用户观影习惯的数据。

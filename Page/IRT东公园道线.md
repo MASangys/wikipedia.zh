@@ -1,3 +1,6 @@
+> 本文内容由[IRT东公园道线](https://zh.wikipedia.org/wiki/IRT东公园道线)转换而来。
+
+
 **東公園道線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT其中一條路線](../Page/跨區捷運公司.md "wikilink")，由開始沿往南，再沿往。通過[猶提卡大道後](https://zh.wikipedia.org/wiki/皇冠高地-猶提卡大道車站_\(IRT東公園道線\) "wikilink")，路線上升至高架，成為[新地段線](https://zh.wikipedia.org/wiki/IRT新地段線 "wikilink")，以的[新地段大道結束](https://zh.wikipedia.org/wiki/新地段大道車站_\(IRT新地段線\) "wikilink")。東公園道線的西端位於[東河下方的](https://zh.wikipedia.org/wiki/東河_\(紐約\) "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。
 
 [IRT諾斯特蘭大道線](../Page/IRT諾斯特蘭大道線.md "wikilink")在[富蘭克林大道車站開始分岔了慢車軌道往南](https://zh.wikipedia.org/wiki/富蘭克林大道車站_\(IRT東公園道線\) "wikilink")\[8\]。

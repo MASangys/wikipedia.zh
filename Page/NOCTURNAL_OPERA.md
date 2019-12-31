@@ -1,3 +1,6 @@
+> 本文内容由[NOCTURNAL OPERA](https://zh.wikipedia.org/wiki/NOCTURNAL_OPERA)转换而来。
+
+
 《**NOCTURNAL OPERA**》是日本[視覺系](../Page/視覺系.md "wikilink")[哥德金屬搖滾樂團](https://zh.wikipedia.org/wiki/哥德金屬 "wikilink")  的第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2004年7月20日發行\[1\]\[2\]。歐洲盤由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")  發行，為內含兩隻[唱片的](../Page/CD.md "wikilink")型態發售\[3\]\[4\]。
 
 ## 概述
@@ -14,13 +17,8 @@
 [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:Moi_dix_Mois音樂專輯](https://zh.wikipedia.org/wiki/Category:Moi_dix_Mois音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.

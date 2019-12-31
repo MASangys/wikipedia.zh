@@ -1,3 +1,6 @@
+> 本文内容由[Vanilla Acoustic](https://zh.wikipedia.org/wiki/Vanilla_Acoustic)转换而来。
+
+
 Vanilla Acoustic（）是[大韓民國的獨立樂隊](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，由Vanilla Man和SUNGAH組成。
 
 ## 成員資料

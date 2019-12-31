@@ -1,3 +1,6 @@
+> 本文内容由[SDP35型柴油机车](https://zh.wikipedia.org/wiki/SDP35型柴油机车)转换而来。
+
+
 **SDP35型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）于1964年推出，在[SD35型柴油机车](../Page/SD35型柴油机车.md "wikilink")基础上发展而来的一款干线客货运通用[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。
 
 1964年，当时的要求易安迪公司为其开发一款客货运通用机车，用来替换日渐老化的[易安迪E系列](../Page/易安迪E系列.md "wikilink")客运柴油机车，既可以牵引采用蒸汽取暖的[旅客列车](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")，又可以作为货运机车牵引[货物列车](https://zh.wikipedia.org/wiki/货物列车 "wikilink")。于是，易安迪公司在SD35型柴油机车的基础上研制了SDP35型柴油机车，其主要特点是在车体内增加了为列车供暖的蒸汽锅炉，并改为使用经过改良的D77型[牵引电动机](https://zh.wikipedia.org/wiki/牽引電動機 "wikilink")。1964年7月至1965年9月间，易安迪公司共制造了35台SDP35型柴油机车，其中海岸快线铁路订购了20台，[联合太平洋铁路订购了](../Page/聯合太平洋鐵路.md "wikilink")10台，订购了4台，订购了1台。1966年，随着新一代的[易安迪645系列柴油机](../Page/易安迪645系列柴油机.md "wikilink")研制成功，易安迪公司亦推出了[SDP40型柴油机车](../Page/SDP40型柴油机车.md "wikilink")，作为SDP35型柴油机车的后继产品。

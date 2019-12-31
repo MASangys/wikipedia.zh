@@ -1,4 +1,4 @@
-> 本文内容由[USRA 重天皇蒸汽機車](https://zh.wikipedia.org/wiki/USRA 重天皇蒸汽機車)转换而来。
+> 本文内容由[USRA 重天皇蒸汽機車](https://zh.wikipedia.org/wiki/USRA_重天皇蒸汽機車)转换而来。
 
 
 ## 背景

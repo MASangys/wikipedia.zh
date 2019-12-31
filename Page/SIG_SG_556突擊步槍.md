@@ -1,4 +1,4 @@
-> 本文内容由[SIG SG 556突擊步槍](https://zh.wikipedia.org/wiki/SIG SG 556突擊步槍)转换而来。
+> 本文内容由[SIG SG 556突擊步槍](https://zh.wikipedia.org/wiki/SIG_SG_556突擊步槍)转换而来。
 
 
 **SIG SG 556**是一系列由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研制和生產的[突擊步枪](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")／[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")／[半自動步枪](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")，是[SIG SG 550系列突擊步槍的美國製半自動民用型](../Page/SIG_SG_550突擊步槍.md "wikilink")，主要發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，亦有些型號發射[7.62×39毫米蘇聯口徑](../Page/7.62×39mm.md "wikilink")（M43）步槍子彈。

@@ -1,3 +1,6 @@
+> 本文内容由[For Life](https://zh.wikipedia.org/wiki/For_Life)转换而来。
+
+
 《**For Life**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[EXO](../Page/EXO.md "wikilink")繼2015年發行《[Sing For You](../Page/Sing_For_You.md "wikilink")》後第三張冬日特別專輯，歌曲將以中韓兩種語言錄製發行，由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，[KT音樂發行](https://zh.wikipedia.org/wiki/韓國通訊 "wikilink")，於2016年12月19日推出。
 
 ## 簡介

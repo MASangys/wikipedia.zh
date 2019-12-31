@@ -1,4 +1,4 @@
-> 本文内容由[Frog City Software](https://zh.wikipedia.org/wiki/Frog City Software)转换而来。
+> 本文内容由[Frog City Software](https://zh.wikipedia.org/wiki/Frog_City_Software)转换而来。
 
 
 **Frog City Software**，是一个游戏开发商，于在1995年成立，该工作室侧重于战略游戏。Frog City Software是Take-Two公司的子公司，直到2006年关闭。

@@ -1,3 +1,6 @@
+> 本文内容由[世紀帝國II：拉者崛起](https://zh.wikipedia.org/wiki/世紀帝國II：拉者崛起)转换而来。
+
+
 是1999年[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的第四個[擴充資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，僅限於[Steam](../Page/Steam.md "wikilink")平台的HD版本。本資料片新增了四個[東南亞文明且更新了印度種族的建築風格](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，遊戲中也增加了一些新單位、建築和物件。
 
 [拉者為](https://zh.wikipedia.org/wiki/拉者 "wikilink")[南亞](https://zh.wikipedia.org/wiki/南亞 "wikilink")、[東南亞以及](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[印度](../Page/印度.md "wikilink")等地對[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")、君主或[酋長的稱呼](https://zh.wikipedia.org/wiki/酋長 "wikilink")，又譯作拉惹。

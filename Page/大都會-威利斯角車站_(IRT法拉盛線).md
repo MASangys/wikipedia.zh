@@ -1,3 +1,6 @@
+> 本文内容由[大都會-威利斯角車站 \(IRT法拉盛線\)](https://zh.wikipedia.org/wiki/大都會-威利斯角車站_\(IRT法拉盛線\))转换而来。
+
+
 **大都會-威利斯角車站**（），曾名為「威利斯角-謝亞球場車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線](../Page/IRT法拉盛線.md "wikilink")的一個快車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，以及在大部分[紐約大都會](../Page/紐約大都會.md "wikilink")棒球比賽和[美國網球公開賽後前往](https://zh.wikipedia.org/wiki/美國網球公開賽 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")時營運，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")\[1\]。車站位於[皇后區](../Page/皇后區.md "wikilink")[法拉盛草原-可樂娜公園介乎](https://zh.wikipedia.org/wiki/法拉盛草原-可樂娜公園 "wikilink")114街及126街的。車站的高峰期通常是大都會在位於車站北側的[花旗球場](../Page/花旗球場.md "wikilink")（以及自1964年起至2008年為止在[謝亞球場](../Page/謝亞球場.md "wikilink")）比賽時，以及在車站南面的[美國網球協會比莉·珍·金網球中心](../Page/美國網球協會比莉·珍·金網球中心.md "wikilink")時。
 
 ## 車站結構

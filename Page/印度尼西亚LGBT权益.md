@@ -1,3 +1,6 @@
+> 本文内容由[印度尼西亚LGBT权益](https://zh.wikipedia.org/wiki/印度尼西亚LGBT权益)转换而来。
+
+
 **女[同性戀](../Page/同性戀.md "wikilink")，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**[印度尼西亚](../Page/印度尼西亚.md "wikilink")**面临着非[LGBT](../Page/LGBT.md "wikilink")居民没有经历过的法律挑战和偏见。传统习俗不赞成同性婚姻和[異裝](../Page/異裝.md "wikilink")，也影响了公共政策的制定。例如，印度尼西亚同性伴侣和以同性伴侣为户主的家庭没有资格获得[异性婚姻夫妇可获得的任何法律保护](../Page/异性恋.md "wikilink")。印度尼西亚没有俗稱[雞姦法的反同性性行為歧視法律](https://zh.wikipedia.org/wiki/雞姦法 "wikilink")，目前也没有将成年人之间自愿的非商业性的私人同性性行为定为刑事犯罪，但印度尼西亚法律也并不保护LGBT社区免遭[歧视和](https://zh.wikipedia.org/wiki/歧视 "wikilink")[仇恨犯罪](../Page/仇恨犯罪.md "wikilink")。目前，印度尼西亚不承认[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。2015年7月，印度尼西亚宗教事务部长表示，在印度尼西亚同性恋是不被接受的，因为宗教规范强烈反对这种行为。\[1\]印度尼西亚强调社会和谐的重要性，注重义务而不是权利，这意味着人权与LGBT权利一样非常脆弱。\[2\]然而，印度尼西亚的LGBT社区正在稳步地变得更有能见度政治上也更活跃。\[3\]
 
 最近，印度尼西亚的LGBT人群正面临越来越大的敌意。\[4\]2016年初，印度尼西亚的LGBT人群和活动家面临着更激烈的反对、[恐同袭击和](https://zh.wikipedia.org/wiki/恐同 "wikilink")[仇恨言论](https://zh.wikipedia.org/wiki/仇恨言论 "wikilink")，甚至有些是由印度尼西亚当局发起。\[5\]2016年2月，[人权观察](../Page/人权观察.md "wikilink")敦促印度尼西亚政府捍卫LGBT群体的权利并公开谴责官员的歧视言论。\[6\]

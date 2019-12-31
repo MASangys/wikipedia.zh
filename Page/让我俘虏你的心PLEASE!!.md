@@ -1,3 +1,6 @@
+> 本文内容由[让我俘虏你的心PLEASE!!](https://zh.wikipedia.org/wiki/让我俘虏你的心PLEASE!!)转换而来。
+
+
 《**让我俘虏你的心PLEASE\!\!**》（）是由[Aqours](../Page/Aqours.md "wikilink")的迷你小队 “AZALEA” 于 2016 年 5 月 25 日所发售的首张单曲。也是 LoveLive\! Sunshine\!\! 系列所发售的第二张小队单曲。
 
 ## 概要

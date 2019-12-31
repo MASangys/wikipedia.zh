@@ -1,4 +1,4 @@
-> 本文内容由[ViuTV電視劇集列表 \(2010年代\)](https://zh.wikipedia.org/wiki/ViuTV電視劇集列表 \(2010年代\))转换而来。
+> 本文内容由[ViuTV電視劇集列表 \(2010年代\)](https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_\(2010年代\))转换而来。
 
 
 本條目列出2010年代於[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")播出的劇集。

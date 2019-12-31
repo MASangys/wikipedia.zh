@@ -1,3 +1,6 @@
+> 本文内容由[DD35A型柴油机车](https://zh.wikipedia.org/wiki/DD35A型柴油机车)转换而来。
+
+
 **DD35A型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）在1960年代推出的一款大功率电力传动[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。
 
 ## 开发背景

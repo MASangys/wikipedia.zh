@@ -1,4 +1,4 @@
-> 本文内容由[Metal \(API\)](https://zh.wikipedia.org/wiki/Metal \(API\))转换而来。
+> 本文内容由[Metal \(API\)](https://zh.wikipedia.org/wiki/Metal_\(API\))转换而来。
 
 
 **Metal** 是一个兼顾图形与计算功能的，面向底层、低开销的硬件加速[应用程序接口](../Page/应用程序接口.md "wikilink")（API），其类似于将 [OpenGL](../Page/OpenGL.md "wikilink") 与 [OpenCL](../Page/OpenCL.md "wikilink") 的功能集成到了同一个API上，最初支持它的系统是 [iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")。Metal 使得 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 可以实现其他平台的类似功能，例如 [Khronos Group](https://zh.wikipedia.org/wiki/Khronos_Group "wikilink") 的跨平台 [Vulkan](../Page/Vulkan_\(API\).md "wikilink") 与 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 上的 [Direct3D 12](https://zh.wikipedia.org/wiki/Direct3D#Direct3D_12 "wikilink")。

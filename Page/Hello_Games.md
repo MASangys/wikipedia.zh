@@ -1,4 +1,4 @@
-> 本文内容由[Hello Games](https://zh.wikipedia.org/wiki/Hello Games)转换而来。
+> 本文内容由[Hello Games](https://zh.wikipedia.org/wiki/Hello_Games)转换而来。
 
 
 **Hello Games Ltd**是英国一家游戏开发商和发行商，总部设在英国吉尔福德，因开发制作了《[无人深空](../Page/无人深空.md "wikilink")》（No Man's Sky）而知名。

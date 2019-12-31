@@ -1,3 +1,6 @@
+> 本文内容由[蝴蝶结 \(Aimer单曲\)](https://zh.wikipedia.org/wiki/蝴蝶结_\(Aimer单曲\))转换而来。
+
+
 **《蝴蝶结》**（蝶々結び）是[Aimer](../Page/Aimer.md "wikilink")的第11张[单曲](../Page/单曲.md "wikilink")。2016年8月17日开始发售。初回生産限定盤内含收录有音乐视频和录音棚实录影像的DVD。此外，早期出货版光盘还附有第十支单曲「insane dream / us」W購入者特典的明星片。
 
 ## 概述

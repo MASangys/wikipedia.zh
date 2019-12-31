@@ -1,3 +1,6 @@
+> 本文内容由[Machico](https://zh.wikipedia.org/wiki/Machico)转换而来。
+
+
 **Machico**（）是[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")及[聲優](../Page/聲優.md "wikilink")，[Horipro](../Page/Horipro.md "wikilink")所屬。
 
 ## 人物

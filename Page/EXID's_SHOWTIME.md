@@ -1,4 +1,4 @@
-> 本文内容由[EXID\'s SHOWTIME](https://zh.wikipedia.org/wiki/EXID\'s SHOWTIME)转换而来。
+> 本文内容由[EXID\'s SHOWTIME](https://zh.wikipedia.org/wiki/EXID\'s_SHOWTIME)转换而来。
 
 
 《**EXID's SHOWTIME**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的[真人實境秀](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID五位成員擔當主角](https://zh.wikipedia.org/wiki/EXID "wikilink")\[1\]，2015年7月9日起逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18點至19點播出。\[2\]

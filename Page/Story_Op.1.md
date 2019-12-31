@@ -1,4 +1,4 @@
-> 本文内容由[Story Op.1](https://zh.wikipedia.org/wiki/Story Op.1)转换而来。
+> 本文内容由[Story Op.1](https://zh.wikipedia.org/wiki/Story_Op.1)转换而来。
 
 
 《**Story Op.1**》是韓國男子組合[SHINee](../Page/SHINee.md "wikilink")主唱[金鐘鉉於](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")2015年9月17日發行的首張原創小品輯\[1\]。小品集共收錄9首歌曲，是鐘鉉作為DJ主持MBC FM4U廣播《藍色夜晚》在企劃環節「藍色深夜作詞，那個男人作曲」中受到好評的自創歌曲，經重新編曲後收錄在小品集中\[2\]。主打曲《一天的盡頭》（）融合了悠揚的鋼琴伴奏和鐘鉉的磁性嗓音，是一首傳遞感動的治癒系抒情曲，MV已在專輯發行當日公布。

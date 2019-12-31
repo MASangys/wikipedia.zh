@@ -1,3 +1,6 @@
+> 本文内容由[DigiCert](https://zh.wikipedia.org/wiki/DigiCert)转换而来。
+
+
 **DigiCert**公司是一家私人持股，总部于[美国](../Page/美国.md "wikilink")，基于[X.509](../Page/X.509.md "wikilink")的[SSL](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")[数字证书认证机构](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")（CA）。作为一个，DigiCert为[网页浏览器](../Page/网页浏览器.md "wikilink")核验网站所有方的身份。
 
 作为[CA/浏览器论坛](https://zh.wikipedia.org/wiki/CA/浏览器论坛 "wikilink")（设立公共信任数字证书行业标准的组织\[1\]）的创始成员，DigiCert促进了[扩展验证证书](../Page/扩展验证证书.md "wikilink")（EV）的发展。\[2\]DigiCert也与[微软](../Page/微软.md "wikilink")合作开发和促进SSL中的[主题备用名称](https://zh.wikipedia.org/wiki/主题备用名称 "wikilink")，用于在[Microsoft Exchange Server中使用](../Page/Microsoft_Exchange_Server.md "wikilink")。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Studio Ponoc](https://zh.wikipedia.org/wiki/Studio_Ponoc)转换而来。
+
+
 **Studio Ponoc**（）是由日本動畫製作人[西村義明](../Page/西村義明.md "wikilink")於2015年4月期間成立的動畫工作室。
 
 名稱中的「Ponoc」在[克羅埃西亞語裡的意思是](https://zh.wikipedia.org/wiki/克羅埃西亞語 "wikilink")「午夜」，西村義明將此作爲代表迎接全新一日的開始。\[1\]

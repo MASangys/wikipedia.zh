@@ -1,4 +1,4 @@
-> 本文内容由[52 Hz I Love You](https://zh.wikipedia.org/wiki/52 Hz I Love You)转换而来。
+> 本文内容由[52 Hz I Love You](https://zh.wikipedia.org/wiki/52_Hz_I_Love_You)转换而来。
 
 
 </ref> | country =  | language = [國語](../Page/中華民國國語.md "wikilink") | budget = [新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")8,000萬\[1\] | gross = 新台幣4,627萬\[2\] | preceded_by = | followed_by = | cn_name = | hk_name = | mo_name = | tw_name = 52 Hz I Love You | sg_name = | website = }}

@@ -1,3 +1,6 @@
+> 本文内容由[WASP-121b](https://zh.wikipedia.org/wiki/WASP-121b)转换而来。
+
+
 **WASP-121b**是一顆環繞恆星的[太陽系外行星](../Page/太陽系外行星.md "wikilink")\[1\]\[2\]。WASP-121b是首顆在其大氣層內發現[平流層](https://zh.wikipedia.org/wiki/平流層 "wikilink")（[大氣層中溫度隨高度上升的氣層](https://zh.wikipedia.org/wiki/大氣層 "wikilink")）的系外行星\[3\]\[4\]。WASP-121b在天球上位於[船尾座](../Page/船尾座.md "wikilink") \[5\]，距離地球約880光年\[6\]\[7\]。
 
 ## 概要
@@ -18,13 +21,10 @@
 [Category:2015年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2015年發現的系外行星 "wikilink") [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink") [Category:船尾座](https://zh.wikipedia.org/wiki/Category:船尾座 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
-
 6.
 7.
 8.

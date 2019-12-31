@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM 鐵血的孤兒登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM 鐵血的孤兒登場機體列表)转换而来。
+> 本文内容由[機動戰士GUNDAM 鐵血的孤兒登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒登場機體列表)转换而来。
 
 
 本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")》及其外傳的登場機體。\[1\] \[2\] \[3\] \[4\] \[5\]

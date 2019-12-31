@@ -1,3 +1,6 @@
+> 本文内容由[Utada In The Flesh Tour 2010](https://zh.wikipedia.org/wiki/Utada_In_The_Flesh_Tour_2010)转换而来。
+
+
 《**Utada In The Flesh Tour 2010**》是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")以Utada的名義發行的影音作品，於2013年12月9日透過[iTunes Store發行](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")。
 
 ## 概述

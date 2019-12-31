@@ -1,3 +1,6 @@
+> 本文内容由[Always \(BIGBANG迷你專輯\)](https://zh.wikipedia.org/wiki/Always_\(BIGBANG迷你專輯\))转换而来。
+
+
 《**Always**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的首張迷你專輯](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作發佈，在2007年8月16日發行。專輯售出了12萬張\[1\]。
 
 ## 概要

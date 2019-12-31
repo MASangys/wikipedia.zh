@@ -1,3 +1,6 @@
+> 本文内容由[峻瀅II](https://zh.wikipedia.org/wiki/峻瀅II)转换而来。
+
+
 [The_Beaumount_(full_view).jpg](https://zh.wikipedia.org/wiki/File:The_Beaumount_\(full_view\).jpg "fig:The_Beaumount_(full_view).jpg") [Base_of_The_Beaumount_Phase_2.jpg](https://zh.wikipedia.org/wiki/File:Base_of_The_Beaumount_Phase_2.jpg "fig:Base_of_The_Beaumount_Phase_2.jpg") [The_Beaumount_phase_2_under_construction_in_April_2015.JPG](https://zh.wikipedia.org/wiki/File:The_Beaumount_phase_2_under_construction_in_April_2015.JPG "fig:The_Beaumount_phase_2_under_construction_in_April_2015.JPG")
 
 **峻瀅II**（英語：**The Beaumount II**）位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[石角路](../Page/石角路.md "wikilink")6號，發展商及管理公司分別為長江實業及港基物業。

@@ -1,4 +1,4 @@
-> 本文内容由[Weinberg-Salam 模型](https://zh.wikipedia.org/wiki/Weinberg-Salam 模型)转换而来。
+> 本文内容由[Weinberg-Salam 模型](https://zh.wikipedia.org/wiki/Weinberg-Salam_模型)转换而来。
 
 
 **Weinberg-Salam 模型**是[史蒂文·温伯格](../Page/史蒂文·温伯格.md "wikilink")和[Abdus Salam提出](https://zh.wikipedia.org/wiki/Abdus_Salam "wikilink")[弱電統一的](../Page/電弱交互作用.md "wikilink")[規範場論模型](../Page/规范场论.md "wikilink")。

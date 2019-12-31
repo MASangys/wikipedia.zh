@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla应用程序框架](https://zh.wikipedia.org/wiki/Mozilla应用程序框架)转换而来。
+
+
 **Mozilla应用程序框架**（）是一套[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[软件组件](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")，其构成了[Mozilla](../Page/Mozilla.md "wikilink")[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它最早被称为**XPFE**，一个跨平台前端的[縮寫](../Page/縮寫.md "wikilink")。后来也曾被称为**XPToolkit**。为避免混淆，它现在被称为Mozilla应用程序框架。
 
 类似于[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[、Qt和](../Page/Qt.md "wikilink")[wxWidgets等](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")，它的目的是提供适合制作网络应用程序（例如[网页浏览器](../Page/网页浏览器.md "wikilink")）的跨平台功能子集，以利用Gecko排版引擎中构建的跨平台功能。

@@ -1,4 +1,4 @@
-> 本文内容由[Budcat Creations](https://zh.wikipedia.org/wiki/Budcat Creations)转换而来。
+> 本文内容由[Budcat Creations](https://zh.wikipedia.org/wiki/Budcat_Creations)转换而来。
 
 
 **Budcat Creations**，是总部设在美国爱荷华州爱荷华市的游戏开发商，由杰森安德森和艾萨克·伯恩斯于在2000年成立，是动视公司的全资附属公司，尽管该工作室以前曾与[艺电](../Page/艺电.md "wikilink")和[Majesco有合作伙伴关系](https://zh.wikipedia.org/wiki/Majesco "wikilink")。

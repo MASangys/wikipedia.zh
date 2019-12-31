@@ -1,4 +1,4 @@
-> 本文内容由[三星Gear Live](https://zh.wikipedia.org/wiki/三星Gear Live)转换而来。
+> 本文内容由[三星Gear Live](https://zh.wikipedia.org/wiki/三星Gear_Live)转换而来。
 
 
 **Samsung Gear Live** 是一款由[Samsung和](https://zh.wikipedia.org/wiki/Samsung "wikilink")[Google](../Page/Google.md "wikilink")共同开发与设计，使用[Android Wear的](https://zh.wikipedia.org/wiki/Android_Wear "wikilink")[智能手表](../Page/智能手表.md "wikilink")，并于2014年6月25日在2014年I/O大会正式发售。\[1\]和[LG G Watch一致](../Page/LG_G_Watch.md "wikilink")，Samsung Gear Live使用了经过修改以使之更加适应于[可穿戴设备的Android版本](https://zh.wikipedia.org/wiki/可穿戴设备 "wikilink")，可以使用[低功耗蓝牙和运行](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")[安卓4.3及以上版本的智能手机连接](https://zh.wikipedia.org/wiki/安卓 "wikilink")。\[2\]

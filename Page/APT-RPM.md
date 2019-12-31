@@ -1,3 +1,6 @@
+> 本文内容由[APT-RPM](https://zh.wikipedia.org/wiki/APT-RPM)转换而来。
+
+
 **APT-RPM**是一個修改版的[高级包装工具](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")，其目標是與[RPM套件管理員](../Page/RPM套件管理員.md "wikilink")共同運作。原先由Alfredo Kojima移植到RPM，爾後由Gustavo Niemeyer改進，他們兩個當時都在[Conectiva](https://zh.wikipedia.org/wiki/Conectiva "wikilink") [Linux发行版](../Page/Linux发行版.md "wikilink")工作。
 
 2005年3月，這個程式的維護者，Gustavo Niemeyer，宣佈他將不會繼續開發這個程式，並將會專注於**Smart軟體包管理器**，其計畫成為APT-RPM的繼承者。

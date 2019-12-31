@@ -1,4 +1,4 @@
-> 本文内容由[Shut up!! Shut up!! Shut up!!](https://zh.wikipedia.org/wiki/Shut up!! Shut up!! Shut up!!)转换而来。
+> 本文内容由[Shut up!! Shut up!! Shut up!!](https://zh.wikipedia.org/wiki/Shut_up!!_Shut_up!!_Shut_up!!)转换而来。
 
 
 「**Shut up\!\! Shut up\!\! Shut up\!\!**」是EXILE THE SECOND的第4張單曲、2016年8月24日於日本發行。\[1\]

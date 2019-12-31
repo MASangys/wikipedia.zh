@@ -1,4 +1,4 @@
-> 本文内容由[Gray Matter Interactive](https://zh.wikipedia.org/wiki/Gray Matter Interactive)转换而来。
+> 本文内容由[Gray Matter Interactive](https://zh.wikipedia.org/wiki/Gray_Matter_Interactive)转换而来。
 
 
 **Gray Matter Interactive**（原称**Xatrix Entertainment**），是一家由Drew Markham，格雷格·古德里奇和迈克尔·考夫曼（外号Maxx）成立于1994年的美国游戏开发商，并于2002年1月被[动视](../Page/动视.md "wikilink")收购。

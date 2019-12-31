@@ -1,3 +1,6 @@
+> 本文内容由[Optus](https://zh.wikipedia.org/wiki/Optus)转换而来。
+
+
 **Optus**（全稱**Singtel Optus Pty Limited**）是[新加坡电信](../Page/新加坡电信.md "wikilink")旗下的一家公司。自2001年起由[新加坡电信](../Page/新加坡电信.md "wikilink")完全拥有。Optus目前是[澳洲第二大](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[电信供应商](https://zh.wikipedia.org/wiki/电信供应商 "wikilink"),仅次于[澳洲电信公司](https://zh.wikipedia.org/wiki/澳洲电信 "wikilink")。
 
 ## 概況

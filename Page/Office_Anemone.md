@@ -1,3 +1,6 @@
+> 本文内容由[Office Anemone](https://zh.wikipedia.org/wiki/Office_Anemone)转换而来。
+
+
 **株式會社Office Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[演員](../Page/演員.md "wikilink")經紀公司。
 
 ## 概要
@@ -10,13 +13,10 @@
 
   - [野川櫻](../Page/野川櫻.md "wikilink")
 
-  - [石黑千尋](../Page/石黑千尋.md "wikilink")
-
   - [伏田里穗](../Page/伏田里穗.md "wikilink")
 
   -
-  - 藤川茜
-
+  -
   - [井上穗乃花](../Page/井上穗乃花.md "wikilink")（井上喜久子的女兒，Jr.所屬\[4\]）
 
   - [田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")（2019年3月從原屬的RETREAT移籍）\[5\]
@@ -41,7 +41,9 @@
 
   - 山川朋美（現所屬：）
 
-  - 桐矢麻衣（預留）
+  - 桐矢麻衣
+
+  - [石黑千尋](../Page/石黑千尋.md "wikilink")（成立個人事務所）
 
 ## 腳註
 
@@ -60,12 +62,8 @@
 [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
 
 1.
-
 2.
 3.  翻譯成中文是「大姐姐們也請多多指教」。
-
 4.
-
 5.
-
 6.

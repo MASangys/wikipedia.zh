@@ -1,3 +1,6 @@
+> 本文内容由[BOYS24](https://zh.wikipedia.org/wiki/BOYS24)转换而来。
+
+
 **少年24**（)是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ E\&M旗下的男子練習生團體](../Page/CJ_E&M.md "wikilink")，成員是由選秀節目[少年24](../Page/少年24.md "wikilink")中脫穎而出的練習生。隨著成員交替，現時有二十七個習生。少年24會於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明洞](../Page/明洞.md "wikilink")專用公演場舉行公演，並會在2017年8月尾舉行總決賽決定出道成員。
 
 官方粉絲名稱為**H:Our**（)，意思為:\[1\]
@@ -707,7 +710,7 @@ Isaac</p></td>
 
 ## 外部链接
 
-  - [Mnet官方网站](http://boys24.mnet.com/) / [官方Instagram](https://web.archive.org/web/20160522054623/https://www.instagram.com/boys24_official/) / [官方Facebook](https://www.facebook.com/BOYS24.official) / [官方Twitter](https://twitter.com/Boys24_official) / [官方Twitter](https://twitter.com/boys24_for_hour) / [官方粉丝Cafe](http://cafe.daum.net/BOYS24)
+  - [Mnet官方网站](https://web.archive.org/web/20160909231833/http://boys24.mnet.com/) / [官方Instagram](https://web.archive.org/web/20160522054623/https://www.instagram.com/boys24_official/) / [官方Facebook](https://www.facebook.com/BOYS24.official) / [官方Twitter](https://twitter.com/Boys24_official) / [官方Twitter](https://twitter.com/boys24_for_hour) / [官方粉丝Cafe](http://cafe.daum.net/BOYS24)
 
 ### 少年個人社交網站(SNS)
 

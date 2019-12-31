@@ -1,3 +1,6 @@
+> 本文内容由[百慕大惊魂 \(X档案\)](https://zh.wikipedia.org/wiki/百慕大惊魂_\(X档案\))转换而来。
+
+
 《**百慕大惊魂**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第六季的第三集，于1998年11月22日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福克斯广播公司 "wikilink")。节目由剧集主创人[克里斯·卡特编剧并执导](../Page/克里斯·卡特_\(編劇\).md "wikilink")，属“每周怪物”系列作品，同主线剧情的[层层谜团没有联系](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。本集首播的[尼尔森家庭收视比率为](https://zh.wikipedia.org/wiki/尼尔森收视率 "wikilink")10.8，观众人数约有1820万。《百慕大惊魂》得到评论界的普遍好评，许多评论家都对节目独特的摄制风格赞赏有加。
 
 [联邦调查局](../Page/联邦调查局.md "wikilink")特工[福克斯·穆德](https://zh.wikipedia.org/wiki/福克斯·穆德 "wikilink")（[大卫·杜考夫尼](https://zh.wikipedia.org/wiki/大卫·杜考夫尼 "wikilink")）和[丹娜·斯嘉丽](https://zh.wikipedia.org/wiki/丹娜·斯嘉丽 "wikilink")（[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）受命调查人称“档案”的悬案，这些案件大多同[超自然现象有关](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。穆德相信有超自然现象存在，但斯嘉丽对此抱怀疑态度，希望能证明实情并非如此，但两人依然结成深厚的友谊。穆德在这集里意外来到[百慕大三角边缘的一艘豪华客轮上](https://zh.wikipedia.org/wiki/百慕大三角 "wikilink")，发现自己已经穿越时空回到[第二次世界大战](../Page/第二次世界大战.md "wikilink")全面爆发的1939年9月3日。[德国军人登上客轮寻找](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")“[雷神之锤](https://zh.wikipedia.org/wiki/妙尔尼尔 "wikilink")”，据称得到此物就能确保赢得战争。与此同时，斯嘉丽从[孤枪狭处得知穆德失踪的消息后赶往](https://zh.wikipedia.org/wiki/孤枪狭 "wikilink")[约翰·埃德加·胡佛大楼](https://zh.wikipedia.org/wiki/约翰·埃德加·胡佛大楼 "wikilink")，找人帮忙寻回下落不明的搭档。

@@ -1,3 +1,6 @@
+> 本文内容由[小花 \(小魔女DoReMi\)](https://zh.wikipedia.org/wiki/小花_\(小魔女DoReMi\))转换而来。
+
+
 ，是[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")』中的架空角色之一，也是系列作中的主角之一，隸屬**魔法堂(MAHO堂**)的其中一名「小麻煩魔女」，第四部以（台灣譯為薪旗山花）的假名在人間的美空小學上學，但因魔女沒有姓氏，正式名稱為**「魔女小花(Majo-Hana chan)」**。日本[配音員](../Page/配音員.md "wikilink")為[大谷育江](../Page/大谷育江.md "wikilink")，中文版配音員為[林美秀](../Page/林美秀_\(配音員\).md "wikilink")。
 
 ## 個人設定

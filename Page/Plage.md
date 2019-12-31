@@ -1,3 +1,6 @@
+> 本文内容由[Plage](https://zh.wikipedia.org/wiki/Plage)转换而来。
+
+
 《**Plage**》是[譽田哲也](../Page/譽田哲也.md "wikilink")的長篇小說，於2015年發行。
 
 ## 主要登場人物

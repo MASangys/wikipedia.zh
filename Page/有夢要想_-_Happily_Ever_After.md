@@ -1,4 +1,4 @@
-> 本文内容由[有夢要想 - Happily Ever After](https://zh.wikipedia.org/wiki/有夢要想 - Happily Ever After)转换而来。
+> 本文内容由[有夢要想 - Happily Ever After](https://zh.wikipedia.org/wiki/有夢要想_-_Happily_Ever_After)转换而来。
 
 
 **有夢要想 - Happily Ever After**為香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")（Kay Tse）**第62支派台作品**，為[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")10周年主題曲。

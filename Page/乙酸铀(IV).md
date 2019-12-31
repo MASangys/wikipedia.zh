@@ -1,3 +1,6 @@
+> 本文内容由[乙酸铀\(IV\)](https://zh.wikipedia.org/wiki/乙酸铀\(IV\))转换而来。
+
+
 **乙酸铀(IV)**是四价铀的[乙酸盐](../Page/乙酸盐.md "wikilink")，是[化学式](../Page/化学式.md "wikilink")为U(CH<sub>3</sub>COO)<sub>4</sub>的绿色固体，在干燥空气中稳定，遇[水](../Page/水.md "wikilink")分解。除了正盐外，四价铀的碱式乙酸盐也是已知的，氟取代的[三氟乙酸盐](https://zh.wikipedia.org/wiki/三氟乙酸盐 "wikilink")，以及其它[羧酸盐都有报道](https://zh.wikipedia.org/wiki/羧酸盐 "wikilink")。\[1\]
 
 ## 制备
@@ -37,11 +40,8 @@
 
 1.
 2.  Paul R C, Ghetra J S, Bains M S, et al. Uranium (IV) acetate\[J\]. Inorganic Syntheses, Volume 9, 41-43. DOI: 10.1002/9780470132401.ch12
-
 3.
 4.
 5.  Selbin J, Schober M, Ortego J D. The chemistry of uranium (IV)—II: Some new compounds with oxygen and nitrogen donor ligands\[J\]. Journal of Inorganic and Nuclear Chemistry, 1966, 28(6-7): 1385-1395. DOI: 10.1016/0022-1902(66)80171-9
-
 6.  Kline R J, Kershner C J. The oxidation of uranium (IV) acetate by silver acetate in liquid ammonia\[J\]. Inorganic Chemistry, 1966, 5(5): 932-934. DOI: 10.1021/ic50039a047
-
 7.  Grdenić D, Korpar-Čolig B. Uranium (IV) acetate and its double acetates with magnesium, iron, and zinc\[J\]. Journal of Inorganic and Nuclear Chemistry, 1968, 30(7): 1751-1755. DOI: 10.1016/0022-1902(68)80349-5

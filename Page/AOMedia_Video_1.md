@@ -1,3 +1,6 @@
+> 本文内容由[AOMedia Video 1](https://zh.wikipedia.org/wiki/AOMedia_Video_1)转换而来。
+
+
 **AOMedia Video 1**（简称**AV1**）是一個[開放](../Page/自由檔案格式.md "wikilink")、[免專利的](../Page/買斷式授權.md "wikilink")[影片編碼格式](../Page/视频编解码器.md "wikilink")，專為通过网络进行[串流传输而设计](https://zh.wikipedia.org/wiki/串流传输 "wikilink")。它由[開放媒體聯盟](../Page/開放媒體聯盟.md "wikilink")（AOMedia）開發，該聯盟由半導體企業、[隨選視訊](../Page/隨選視訊.md "wikilink")供應商和[網頁瀏覽器開發商於](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")2015年成立。[互聯網工程任務組](https://zh.wikipedia.org/wiki/互聯網工程任務組 "wikilink")（IETF）也將這項工作標準化為互聯網視頻編解碼器（）\[1\]。
 
 AV1的目標是取代其前身，即由谷歌开发的[VP9](../Page/VP9.md "wikilink")视频压缩格式，並與[動態圖像專家組（MPEG）领导开发的](../Page/MPEG.md "wikilink")[高效率視訊編碼（HEVC）以及由](https://zh.wikipedia.org/wiki/HEVC "wikilink")[中华人民共和国的数字音视频编码技术标准工作组主导开发的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[第二代数字音视频编解码技术标准（AVS2）競爭](../Page/AVS.md "wikilink")。\[2\]\[3\]。
@@ -19,8 +22,6 @@ AV1是一种使用传统的基于区块编码但也加入了新技术的频率�
 [Category:影片和電影技術](https://zh.wikipedia.org/wiki/Category:影片和電影技術 "wikilink") [Category:有損壓縮算法](https://zh.wikipedia.org/wiki/Category:有損壓縮算法 "wikilink") [Category:公開格式](https://zh.wikipedia.org/wiki/Category:公開格式 "wikilink") [Category:視頻壓縮技術](https://zh.wikipedia.org/wiki/Category:視頻壓縮技術 "wikilink") [Category:视频通讯](https://zh.wikipedia.org/wiki/Category:视频通讯 "wikilink")
 
 1.  [AV1 ist eingefroren und 30 Prozent besser als VP9](https://www.golem.de/news/videocodec-av1-ist-eingefroren-und-30-prozent-besser-als-vp9-1803-133457.html)
-
 2.
 3.
-
 4.

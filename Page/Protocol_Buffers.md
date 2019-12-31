@@ -1,4 +1,4 @@
-> 本文内容由[Protocol Buffers](https://zh.wikipedia.org/wiki/Protocol Buffers)转换而来。
+> 本文内容由[Protocol Buffers](https://zh.wikipedia.org/wiki/Protocol_Buffers)转换而来。
 
 
 **Protocol Buffers**是一種[序列化](../Page/序列化.md "wikilink")資料結構的协议。對於透過管道(pipeline)或儲存資料進行通訊的程式開發上是很有用的。這個方法包含一個[接口描述語言](https://zh.wikipedia.org/wiki/接口描述語言 "wikilink")，描述一些資料結構，並提供程式工具根據這些描述產生程式碼，用於將這些資料結構產生或解析資料串流。

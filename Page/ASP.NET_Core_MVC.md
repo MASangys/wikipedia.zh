@@ -1,4 +1,4 @@
-> 本文内容由[ASP.NET Core MVC](https://zh.wikipedia.org/wiki/ASP.NET Core MVC)转换而来。
+> 本文内容由[ASP.NET Core MVC](https://zh.wikipedia.org/wiki/ASP.NET_Core_MVC)转换而来。
 
 
 **ASP.NET Core MVC** 是 [ASP.NET Core](../Page/ASP.NET_Core.md "wikilink") 內，提供給 Web 應用程式開發的框架，它可視為 [ASP.NET MVC](https://zh.wikipedia.org/wiki/ASP.NET_MVC "wikilink") 的後繼版本，其主要功能均衍生自 ASP.NET MVC，但它除了基於 ASP.NET Core 外，也將 ASP.NET MVC 與類似平台進行了整合，例如負責 View 的 ASP.NET Web Pages 以及負責 [RESTful](https://zh.wikipedia.org/wiki/REST "wikilink") API 的 ASP.NET Web API，都與 ASP.NET Core MVC 的核心合併，因此在 ASP.NET Core MVC 中將可同時並存 MVC 網頁以及 RESTful API。

@@ -1,4 +1,4 @@
-> 本文内容由[Team Bondi](https://zh.wikipedia.org/wiki/Team Bondi)转换而来。
+> 本文内容由[Team Bondi](https://zh.wikipedia.org/wiki/Team_Bondi)转换而来。
 
 
 **Team Bondi**，是澳大利亚的游戏开发商。该公司曾在2011年5月开发Windows，PlayStation 3和Xbox 360平台游戏《[黑色洛城](../Page/黑色洛城.md "wikilink")》，由[Rockstar Games发行](../Page/Rockstar_Games.md "wikilink")。\[1\]该游戏获得好评和商业上的成功，但是被几名工作人员指责工作条件差从而引起争议。因为未能获得另一个游戏项目，该工作室清算。2011年8月，肯尼迪·米勒·米切尔购买该工作室。

@@ -1,4 +1,4 @@
-> 本文内容由[Control T](https://zh.wikipedia.org/wiki/Control T)转换而来。
+> 本文内容由[Control T](https://zh.wikipedia.org/wiki/Control_T)转换而来。
 
 
 Control T (2015年5月14號成立)，[臺灣](../Page/臺灣.md "wikilink")樂團，成員共有四人，由團長男主唱兼吉他正嘉、女主唱妮蓁、吉他手阿蘇和鼓手富元所組成；樂團四人皆畢業於[桃園高中](https://zh.wikipedia.org/wiki/國立桃園高級中學 "wikilink")，因創作該校畢業歌曲「足跡」而踏上音樂路。

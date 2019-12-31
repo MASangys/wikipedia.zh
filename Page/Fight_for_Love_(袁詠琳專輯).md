@@ -1,4 +1,4 @@
-> 本文内容由[Fight for Love \(袁詠琳專輯\)](https://zh.wikipedia.org/wiki/Fight for Love \(袁詠琳專輯\))转换而来。
+> 本文内容由[Fight for Love \(袁詠琳專輯\)](https://zh.wikipedia.org/wiki/Fight_for_Love_\(袁詠琳專輯\))转换而来。
 
 
 《**Fight For Love**》是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[袁詠琳](../Page/袁詠琳.md "wikilink")發行第三張國語專輯\[1\]。

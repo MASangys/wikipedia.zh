@@ -1,3 +1,6 @@
+> 本文内容由[VPN屏蔽](https://zh.wikipedia.org/wiki/VPN屏蔽)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Evidence-VPNChina_IP_blocked_by_enwikipedia.jpg "fig:缩略图")的截图，显示当前[VPN所用的](../Page/虛擬私人網路.md "wikilink")[IP在某些](../Page/IP地址.md "wikilink")[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")项目中遭屏蔽\]\] **VPN屏蔽**技术用于屏蔽[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")（VPN）所使用的[加密](../Page/加密.md "wikilink")[隧道协议](../Page/隧道协议.md "wikilink")通讯方式，屏蔽者多为国家政府或公司等大型组织。目的可能是确保[计算机安全](../Page/计算机安全.md "wikilink")，也可能是通过阻止用户使用VPN绕过[网络防火墙系统](https://zh.wikipedia.org/wiki/网络防火墙 "wikilink")，以加强[互联网审查](../Page/互联网审查.md "wikilink")。
 
 ## 技术
@@ -14,25 +17,25 @@
 
 2012年底，提供VPN服务的公司声称，中国的[防火长城](../Page/防火长城.md "wikilink")已经可以“学习、发现并屏蔽”许多不同VPN系统的加密通讯手段。
 
-2017年，中国政府要求电信运营商屏蔽个人所用的VPN，截止期限是2018年2月\[5\]。
+2017年，中国政府要求电信运营商屏蔽个人所用的VPN，截止期限是2018年2月\[5\]。然而工信部对此报道作出回应，称该部未下发相关通知，此报道为不实消息\[6\]。
 
 ### 伊朗
 
-[伊朗政府于](https://zh.wikipedia.org/wiki/伊朗 "wikilink")2013年3月开始屏蔽非政府认可的VPN\[6\]，此事在[2013年伊朗总统选举](../Page/2013年伊朗总统选举.md "wikilink")的前几个月发生，官方宣称此举是为“起诉违反国家法律的用户”，以及“在司法监督下，将违法者送上国家法院”。据报道，使用政府批准的VPN时可能会受监视，私人数据亦可能被检查\[7\]。
+[伊朗政府于](https://zh.wikipedia.org/wiki/伊朗 "wikilink")2013年3月开始屏蔽非政府认可的VPN\[7\]，此事在[2013年伊朗总统选举](../Page/2013年伊朗总统选举.md "wikilink")的前几个月发生，官方宣称此举是为“起诉违反国家法律的用户”，以及“在司法监督下，将违法者送上国家法院”。据报道，使用政府批准的VPN时可能会受监视，私人数据亦可能被检查\[8\]。
 
 ### 叙利亚
 
-在2011年民众起事后，[叙利亚](../Page/叙利亚.md "wikilink")开始采用[深度包检测](../Page/深度包检测.md "wikilink")屏蔽VPN连接\[8\]，审查目标包括各种VPN协议，如OpenVPN、L2TP和PPTP。
+在2011年民众起事后，[叙利亚](../Page/叙利亚.md "wikilink")开始采用[深度包检测](../Page/深度包检测.md "wikilink")屏蔽VPN连接\[9\]，审查目标包括各种VPN协议，如OpenVPN、L2TP和PPTP。
 
 ## 在线服务使用
 
 ### Hulu
 
-为防止来自[美国](../Page/美国.md "wikilink")之外用户的未经授权访问，2014年4月，[Hulu](../Page/Hulu.md "wikilink")开始阻止使用VPN之IP地址的用户访问该站。此举同时阻止了一些正常的美国用户来访，这些用户使用VPN是出于安全考虑。VikingVPN、NordVPN、、TorGuard等VPN提供商随后分别表示会直接与Hulu探讨解决方案，或是放出更多的专用IP地址，以期解决其客户遇到的问题\[9\]。
+为防止来自[美国](../Page/美国.md "wikilink")之外用户的未经授权访问，2014年4月，[Hulu](../Page/Hulu.md "wikilink")开始阻止使用VPN之IP地址的用户访问该站。此举同时阻止了一些正常的美国用户来访，这些用户使用VPN是出于安全考虑。VikingVPN、NordVPN、、TorGuard等VPN提供商随后分别表示会直接与Hulu探讨解决方案，或是放出更多的专用IP地址，以期解决其客户遇到的问题\[10\]。
 
 ### Netflix
 
-2014年9月，多家电影制片厂向[Netflix](../Page/Netflix.md "wikilink")施加压力，要求屏蔽VPN访问；当时已有200,000余名[澳大利亚用户使用Netflix](../Page/澳大利亚公民.md "wikilink")，尽管该站还没有在[澳大利亚](../Page/澳大利亚.md "wikilink")上线\[10\]。同使用VPN访问其他视频网站一样，使用VPN访问Netflix此前可得到更为安全的观看体验，并可在海外继续欣赏。Netflix用户此前亦使用VPN绕过[Verizon等运营商推出的节流措施](https://zh.wikipedia.org/wiki/威訊 "wikilink")\[11\]。
+2014年9月，多家电影制片厂向[Netflix](../Page/Netflix.md "wikilink")施加压力，要求屏蔽VPN访问；当时已有200,000余名[澳大利亚用户使用Netflix](../Page/澳大利亚公民.md "wikilink")，尽管该站还没有在[澳大利亚](../Page/澳大利亚.md "wikilink")上线\[11\]。同使用VPN访问其他视频网站一样，使用VPN访问Netflix此前可得到更为安全的观看体验，并可在海外继续欣赏。Netflix用户此前亦使用VPN绕过[Verizon等运营商推出的节流措施](https://zh.wikipedia.org/wiki/威訊 "wikilink")\[12\]。
 
 ## 参见
 
@@ -54,3 +57,4 @@
 9.
 10.
 11.
+12.

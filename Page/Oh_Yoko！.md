@@ -1,3 +1,6 @@
+> 本文内容由[Oh Yoko！](https://zh.wikipedia.org/wiki/Oh_Yoko！)转换而来。
+
+
 \<\!--\>\<---\>   **Oh Yoko\!**是由[约翰·列侬](../Page/约翰·列侬.md "wikilink")写作并演唱的歌曲，1971年发行。这首歌被专辑[Imagine收录](https://zh.wikipedia.org/wiki/Imagine "wikilink")，是专辑的第10首歌曲。这一首歌的主题是作者的妻子[小野洋子](../Page/小野洋子.md "wikilink")。[Nicky Hopkins与](https://zh.wikipedia.org/wiki/Nicky_Hopkins "wikilink")[Phil Spector协助列侬完成了歌曲](https://zh.wikipedia.org/wiki/Phil_Spector "wikilink")。这首歌的口琴部分由列侬演奏， 这首歌也是整张专辑的最后一首歌。
 
 ## 创作背景
@@ -15,7 +18,7 @@
   - [Nicky Hopkins](https://zh.wikipedia.org/wiki/Nicky_Hopkins "wikilink")：[钢琴](../Page/钢琴.md "wikilink")
   - [Klaus Voormann](https://zh.wikipedia.org/wiki/Klaus_Voormann "wikilink")：[贝斯](https://zh.wikipedia.org/wiki/贝斯 "wikilink")
   - [Alan White](https://zh.wikipedia.org/wiki/Alan_White "wikilink"):[架子鼓](https://zh.wikipedia.org/wiki/架子鼓 "wikilink")
-  - [Phil Spector](https://zh.wikipedia.org/wiki/Phil_Spector "wikilink"):[和声](https://zh.wikipedia.org/wiki/和声 "wikilink")
+  - [Phil Spector](https://zh.wikipedia.org/wiki/Phil_Spector "wikilink"):[和声](../Page/和声.md "wikilink")
   - [Rod Linton](https://zh.wikipedia.org/wiki/Rod_Linton "wikilink"),[Andy Davis](https://zh.wikipedia.org/wiki/Andy_Davis "wikilink"):[吉他](../Page/吉他.md "wikilink")
 
 ## 参考资料
@@ -27,5 +30,4 @@
 [Category:1971年歌曲](https://zh.wikipedia.org/wiki/Category:1971年歌曲 "wikilink") [Category:搖滾樂小作品](https://zh.wikipedia.org/wiki/Category:搖滾樂小作品 "wikilink") [Category:約翰·藍儂歌曲](https://zh.wikipedia.org/wiki/Category:約翰·藍儂歌曲 "wikilink")
 
 1.  [John Lennon:"Oh Yoko\!|The Beatles Bible"](https://www.beatlesbible.com/people/john-lennon/songs/oh-yoko/)
-
 2.

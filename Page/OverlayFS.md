@@ -1,3 +1,6 @@
+> 本文内容由[OverlayFS](https://zh.wikipedia.org/wiki/OverlayFS)转换而来。
+
+
 **OverlayFS**是一个面向[Linux](../Page/Linux.md "wikilink")的[文件系统](../Page/文件系统.md "wikilink")服务，其实现一个面向其他[文件系统](../Page/文件系统.md "wikilink")的。
 
 它于2014年被合并到[Linux内核](../Page/Linux内核.md "wikilink")的3.18版本。\[1\]\[2\]其4.0版本带来了必要的改进，例如[Docker中所需的](https://zh.wikipedia.org/wiki/Docker_\(軟體\) "wikilink")`overlay2`存储驱动程序。\[3\]

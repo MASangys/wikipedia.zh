@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Recentchangestext/zh-mo](https://zh.wikipedia.org/wiki/MediaWiki:Recentchangestext/zh-mo)转换而来。
+
+
 <div class="plainlinks nomobile" id="recentchangesblock">
 
 <table>

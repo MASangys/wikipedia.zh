@@ -1,3 +1,6 @@
+> 本文内容由[Picarto.tv](https://zh.wikipedia.org/wiki/Picarto.tv)转换而来。
+
+
 **Picarto.tv**是[影音串流平台](https://zh.wikipedia.org/wiki/影音串流 "wikilink")，主要是以[繪畫等藝術性質為內容](https://zh.wikipedia.org/wiki/繪畫 "wikilink")。
 
 ## 歷史

@@ -1,4 +1,4 @@
-> 本文内容由[Windows Central](https://zh.wikipedia.org/wiki/Windows Central)转换而来。
+> 本文内容由[Windows Central](https://zh.wikipedia.org/wiki/Windows_Central)转换而来。
 
 
 **Windows Central**是由[Mobile Nations創建的科技網站](../Page/Mobile_Nations.md "wikilink")。\[1\] \[2\] 它報導、介紹並評論有關於：[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Microsoft Cortana](https://zh.wikipedia.org/wiki/Microsoft_Cortana "wikilink")、……等等主題。

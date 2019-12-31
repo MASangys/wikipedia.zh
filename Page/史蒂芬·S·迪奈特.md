@@ -1,3 +1,6 @@
+> 本文内容由[史蒂芬·S·迪奈特](https://zh.wikipedia.org/wiki/史蒂芬·S·迪奈特)转换而来。
+
+
 **史蒂芬·S·迪奈特**（，）是一名美國男編劇、製片人及導演。他最廣為人知的作品是電視頻道[Starz的電視劇](https://zh.wikipedia.org/wiki/Starz_\(電視頻道\) "wikilink")《[浴血戰士](https://zh.wikipedia.org/wiki/斯巴達克斯_\(電視連續劇\) "wikilink")》及電影《[環太平洋2：起義時刻](../Page/環太平洋2：起義時刻.md "wikilink")》（2018年）。
 
 ## 简历

@@ -1,3 +1,6 @@
+> 本文内容由[YG K Plus](https://zh.wikipedia.org/wiki/YG_K_Plus)转换而来。
+
+
 **YG KPLUS**是韩国著名[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")，与ESteem Models为韩国两大模特公司，拥有近两百位专业模特与培训模特。女[創辦人兼](https://zh.wikipedia.org/wiki/創辦人 "wikilink")[总裁](../Page/总裁.md "wikilink")Go Eun-kyung本身也是模特出身，作为[星探](../Page/星探.md "wikilink")曾发掘[车胜元](https://zh.wikipedia.org/wiki/车胜元 "wikilink"), [苏志燮等一线韩国明星](https://zh.wikipedia.org/wiki/苏志燮 "wikilink")。2008年独自成立KPLUS。2014年2月KPLUS正式被[YG娱乐收购](https://zh.wikipedia.org/wiki/YG娱乐 "wikilink")，成为[上市公司](../Page/上市公司.md "wikilink")YG PLUS的[子公司](../Page/子公司.md "wikilink")，改名为**YGKPLUS**。
 
 ## 转签[YG演员部](https://zh.wikipedia.org/wiki/YG娱乐 "wikilink")

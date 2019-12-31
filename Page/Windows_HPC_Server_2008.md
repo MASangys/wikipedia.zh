@@ -1,4 +1,4 @@
-> 本文内容由[Windows HPC Server 2008](https://zh.wikipedia.org/wiki/Windows HPC Server 2008)转换而来。
+> 本文内容由[Windows HPC Server 2008](https://zh.wikipedia.org/wiki/Windows_HPC_Server_2008)转换而来。
 
 
 **Windows HPC Server 2008**, 由[Microsoft公司于](https://zh.wikipedia.org/wiki/Microsoft "wikilink")2008年9月22日发行, 是[Windows Compute Cluster Server 2003的后续版本](https://zh.wikipedia.org/wiki/Windows_Server_2003#Windows_Compute_Cluster_Server "wikilink")，就像WCCS一样, Windows HPC Server 2008是设计于需要高性能计算集群的高端应用。\[1\] 此服务器软件声称能有效扩展到数以千计的内核。针对于超算机的工作负荷，它存在很多的特点：比如高速的NetworkDirect RDMA接口，高效率且具有可扩展性的群集管理工具（Cluster Management Tools），针对[面向服务的体系结构](../Page/面向服务的体系结构.md "wikilink")的作业计划工具（SOA Job Scheduler），以及基于开源接口的消息传递接口\[2\]，和通过“超算基础配置文件（High Performance Computing Basic Profile，HPCBP）”这个基于（Open Grid Forum，OGF）标准特性来实现集群互通性\[3\]。

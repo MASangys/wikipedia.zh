@@ -1,4 +1,4 @@
-> 本文内容由[Little Glee Monster](https://zh.wikipedia.org/wiki/Little Glee Monster)转换而来。
+> 本文内容由[Little Glee Monster](https://zh.wikipedia.org/wiki/Little_Glee_Monster)转换而来。
 
 
 **Little Glee Monster**，[日本](../Page/日本.md "wikilink")女子歌唱團體，隸屬旗下。

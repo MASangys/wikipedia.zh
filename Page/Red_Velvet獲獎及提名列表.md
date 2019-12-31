@@ -1,3 +1,6 @@
+> 本文内容由[Red Velvet獲獎及提名列表](https://zh.wikipedia.org/wiki/Red_Velvet獲獎及提名列表)转换而来。
+
+
 **Red Velvet獲獎及提名列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet出道至今於頒獎典禮](../Page/Red_Velvet.md "wikilink")、音樂節目的獲獎與提名。
 
 ## 韓國

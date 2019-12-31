@@ -1,3 +1,6 @@
+> 本文内容由[CLARE VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE)转换而来。
+
+
 **株式會社CLARE VOICE**（，）是[日本](../Page/日本.md "wikilink")的[聲優](../Page/聲優.md "wikilink")事務所。
 
 公司名的「CLARE」取自**C**ONNECT（連繫）、**L**EAD（領導）、**A**CTOR（演員）、**R**ESPONSIBILITY（責任）、**E**ARNEST（誠摯）的首字母。

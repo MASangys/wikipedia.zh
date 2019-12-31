@@ -1,3 +1,6 @@
+> 本文内容由[Chrysalis \(I.O.I迷你專輯\)](https://zh.wikipedia.org/wiki/Chrysalis_\(I.O.I迷你專輯\))转换而来。
+
+
 ***Chrysalis***是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[I.O.I](../Page/I.O.I.md "wikilink")的首張迷你專輯，於2016年5月4日公開線上音源，實體專輯於2016年5月9日發售和公開單曲"Dream Girls"音源。
 
 ## 曲目

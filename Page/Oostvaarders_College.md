@@ -1,4 +1,4 @@
-> 本文内容由[Oostvaarders College](https://zh.wikipedia.org/wiki/Oostvaarders College)转换而来。
+> 本文内容由[Oostvaarders College](https://zh.wikipedia.org/wiki/Oostvaarders_College)转换而来。
 
 
 **Oostvaarders College**，簡稱称为 **OVC**，是一所位于[荷兰](../Page/荷兰.md "wikilink")[阿尔梅勒](../Page/阿尔梅勒.md "wikilink")的学校，為The Foundation ABVO Flevoland的一部分。它是普通中等教育的基础，特别是在[弗莱福兰](https://zh.wikipedia.org/wiki/弗莱福兰 "wikilink")。一开始是一个很小的学校，后来却成了阿尔梅勒最大的中学之一，有超过4000名学生。

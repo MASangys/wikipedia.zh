@@ -1,3 +1,6 @@
+> 本文内容由[BewhY](https://zh.wikipedia.org/wiki/BewhY)转换而来。
+
+
 **BewhY**（，），本名**李秉鈺**（），[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")及团体$exy $treet & Yello Music成员。他最初使用“BY”作为自己的艺名，但为了给名字赋予意义而改为BewhY。\[1\]2012年以“Be The Livest”出道，后参加[Show Me The Money 5获得冠军后名声大噪](../Page/Show_Me_The_Money_5.md "wikilink")。\[2\]\[3\]\[4\]\[5\]说唱歌手[C Jamm是他从高中时就在同一所学校和教会的朋友](../Page/C_Jamm.md "wikilink")，与BewhY一样也是虔诚的基督教徒。\[6\]\[7\]
 
 ## 经历

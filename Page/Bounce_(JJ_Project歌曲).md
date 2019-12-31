@@ -1,3 +1,6 @@
+> 本文内容由[Bounce \(JJ Project歌曲\)](https://zh.wikipedia.org/wiki/Bounce_\(JJ_Project歌曲\))转换而来。
+
+
 \<**Bounce**\>是韓國男子組合[JJ Project所發行的出道單曲](../Page/JJ_Project.md "wikilink"),於2012年5月19日發行。專輯<Bounce>則在2012年5月20日發行。專輯裡一共有4首歌,包括主打歌Bounce。
 
 ## 背景

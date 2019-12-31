@@ -1,4 +1,4 @@
-> 本文内容由[People Can Fly](https://zh.wikipedia.org/wiki/People Can Fly)转换而来。
+> 本文内容由[People Can Fly](https://zh.wikipedia.org/wiki/People_Can_Fly)转换而来。
 
 
 **People Can Fly**（有段时间名为**Epic Games Poland**），是一家由Adrian Chmielarz成立于2002年2月，总部设在波兰华沙的游戏开发商。该团队目前有20名成员（不包括外部承包商）。

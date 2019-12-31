@@ -1,4 +1,4 @@
-> 本文内容由[Cafe Little Wish](https://zh.wikipedia.org/wiki/Cafe Little Wish)转换而来。
+> 本文内容由[Cafe Little Wish](https://zh.wikipedia.org/wiki/Cafe_Little_Wish)转换而来。
 
 
 《**Cafe Little Wish**》（）是日本遊戲品牌ぱてぃしぇ開發並於2003年2月14日所推出的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[PC](../Page/PC.md "wikilink")平台[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2003年5月29日由Princess Soft發售[Dreamcast](../Page/Dreamcast.md "wikilink")和[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。\[2\]\[3\]該遊戲故事開始於失去記憶的主角来到Cafe Little Wish用餐，但因沒錢，於是以打工来補償损失。

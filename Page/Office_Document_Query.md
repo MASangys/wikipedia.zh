@@ -1,4 +1,4 @@
-> 本文内容由[Office Document Query](https://zh.wikipedia.org/wiki/Office Document Query)转换而来。
+> 本文内容由[Office Document Query](https://zh.wikipedia.org/wiki/Office_Document_Query)转换而来。
 
 
 **Office Document Query**（缩写：ODQ）即通用流式文档查询语言。它是一种通用于不同文档格式的查询语言。

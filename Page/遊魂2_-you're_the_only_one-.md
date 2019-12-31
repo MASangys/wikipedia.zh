@@ -1,3 +1,6 @@
+> 本文内容由[遊魂2 -you\'re the only one-](https://zh.wikipedia.org/wiki/遊魂2_-you\'re_the_only_one-)转换而来。
+
+
 是[Lump of Sugar在](../Page/Lump_of_Sugar.md "wikilink")2016年9月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，《[遊魂 -Kiss on my Deity-](../Page/遊魂_-Kiss_on_my_Deity-.md "wikilink")》的續作，2015年Lump of Sugar發表10周年紀念企劃的作品之一\[3\]，2016年12月9日由HIKARI FIELD在[Steam](../Page/Steam.md "wikilink")平台發售全年齡中文版。\[4\]2017年4月28日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《遊魂2 -After Stories-》（）。\[5\]
 
 ## 系統

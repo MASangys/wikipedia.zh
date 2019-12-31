@@ -1,3 +1,6 @@
+> 本文内容由[创世纪II：女巫的复仇](https://zh.wikipedia.org/wiki/创世纪II：女巫的复仇)转换而来。
+
+
 是一款由[理查·蓋瑞特](../Page/理查·蓋瑞特.md "wikilink")制作、[Sierra On-Line发行的](https://zh.wikipedia.org/wiki/Sierra_On-Line "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏是[创世纪系列第二部作品](https://zh.wikipedia.org/wiki/创世纪系列 "wikilink")，最初于1982年在[Apple II发行](../Page/Apple_II.md "wikilink")。\[1\]
 
 本游戏的玩法与[前作相类似](https://zh.wikipedia.org/wiki/创世纪_\(游戏\) "wikilink")。

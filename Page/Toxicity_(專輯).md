@@ -1,4 +1,4 @@
-> 本文内容由[Toxicity \(專輯\)](https://zh.wikipedia.org/wiki/Toxicity \(專輯\))转换而来。
+> 本文内容由[Toxicity \(專輯\)](https://zh.wikipedia.org/wiki/Toxicity_\(專輯\))转换而来。
 
 
 ***Toxicity*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[墮落體制的第二張專輯](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，是在2001年發表的。開賣第一週便遇到 [911恐怖攻擊事件](https://zh.wikipedia.org/wiki/911恐怖攻擊事件 "wikilink")，並且在美、加兩地以220,000張的銷量奪得兩地的銷量第一名\[1\]。在全世界一共售出一千二百萬張\[2\]。在美國獲得[白金認證](https://zh.wikipedia.org/wiki/音樂唱片銷售認證 "wikilink")。

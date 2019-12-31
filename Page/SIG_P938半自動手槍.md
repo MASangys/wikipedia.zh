@@ -1,4 +1,4 @@
-> 本文内容由[SIG P938半自動手槍](https://zh.wikipedia.org/wiki/SIG P938半自動手槍)转换而来。
+> 本文内容由[SIG P938半自動手槍](https://zh.wikipedia.org/wiki/SIG_P938半自動手槍)转换而来。
 
 
 **SIG P938**是一系列由[西格&紹爾](../Page/西格&紹爾.md "wikilink")研製研製及生產的袖珍型單動型[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2012年（美國著名槍展）以上首度展出，是[SIG P238半自動手槍的](../Page/SIG_P238半自動手槍.md "wikilink")[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。

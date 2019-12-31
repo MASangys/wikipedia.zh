@@ -1,3 +1,6 @@
+> 本文内容由[GIRLS \(EXO-CBX迷你專輯\)](https://zh.wikipedia.org/wiki/GIRLS_\(EXO-CBX迷你專輯\))转换而来。
+
+
 《**GIRLS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO-CBX](../Page/EXO-CBX.md "wikilink")日本出道迷你專輯，由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，2017年5月24日於日本正式發行，唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")，共收錄7首新歌，主打歌為《Ka-CHING\!》。
 
 此張專輯不僅收錄了韓語首張迷你專輯《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》同名主打歌的日語版，還收錄了只限初回限定的《KING and QUEEN》。

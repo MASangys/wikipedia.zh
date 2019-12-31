@@ -1,3 +1,6 @@
+> 本文内容由[六氰合钴\(III\)酸铜\(II\)](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸铜\(II\))转换而来。
+
+
 **六氰合钴(III)酸铜(II)**是一种无机化合物，化学式为Cu<sub>3</sub>\[Co(CN)<sub>6</sub>\]<sub>2</sub>。
 
 ## 制备

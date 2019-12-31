@@ -1,4 +1,4 @@
-> 本文内容由[緘默 \(DC漫畫\)](https://zh.wikipedia.org/wiki/緘默 \(DC漫畫\))转换而来。
+> 本文内容由[緘默 \(DC漫畫\)](https://zh.wikipedia.org/wiki/緘默_\(DC漫畫\))转换而来。
 
 
 **緘默**（）是一名出現於[DC漫畫](../Page/DC漫畫.md "wikilink")的虛構[超級反派角色](https://zh.wikipedia.org/wiki/超級反派 "wikilink")，由傑夫·洛布與[吉姆·李](../Page/吉姆·李.md "wikilink")所創作。角色首次登場於《[蝙蝠俠](https://zh.wikipedia.org/wiki/蝙蝠俠_\(漫畫書\) "wikilink")》第609期（2003年1月）。

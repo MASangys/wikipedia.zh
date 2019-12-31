@@ -1,4 +1,4 @@
-> 本文内容由[KWAN GOR 坤哥](https://zh.wikipedia.org/wiki/KWAN GOR 坤哥)转换而来。
+> 本文内容由[KWAN GOR 坤哥](https://zh.wikipedia.org/wiki/KWAN_GOR_坤哥)转换而来。
 
 
 《**KWAN GOR 坤哥**》是[香港](../Page/香港.md "wikilink")歌手[吳業坤](../Page/吳業坤.md "wikilink")的第一張個人唱片，於2015年11月18日發行。

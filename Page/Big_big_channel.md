@@ -1,3 +1,6 @@
+> 本文内容由[Big big channel](https://zh.wikipedia.org/wiki/Big_big_channel)转换而来。
+
+
 **big big channel**（台灣名為：**大大平台**\[1\]\[2\]\[3\]）是[TVB旗下](https://zh.wikipedia.org/wiki/TVB "wikilink")[大台網](../Page/大台網.md "wikilink")有限公司2017年7月推出的[手機應用程式暨社交平台](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，目前在香港，台湾和大多[东南亚国家可以下载和使用](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。
 
 ## 源起
@@ -306,9 +309,13 @@ big big channel於2017年6月23日推出[iOS和](https://zh.wikipedia.org/wiki/i
 
 另外，[now宽频电视的频道转播了五个](https://zh.wikipedia.org/wiki/now宽频电视 "wikilink")[翡翠即日重温而被用戶投诉](https://zh.wikipedia.org/wiki/翡翠即日重温 "wikilink")，通訊事務管理局决定向now宽频电视发出劝谕警告。
 
+## 被指退貨透明度不足
+
+2019年10月，[消費者委員會批評big](../Page/消費者委員會_\(香港\).md "wikilink") big shop沒有於使用者帳戶提供退貨的說明及連結。消費者需要透過電話或電郵向客戶服務求助。\[13\]
+
 ## 相關條目
 
-  - [See See TVB](https://zh.wikipedia.org/wiki/See_See_TVB "wikilink")：主要公佈big big channel活動的[面書專頁](https://zh.wikipedia.org/wiki/面書 "wikilink")，於2016年10月開始發佈。\[13\]\[14\]\[15\]\[16\]\[17\]
+  - [See See TVB](https://zh.wikipedia.org/wiki/See_See_TVB "wikilink")：主要公佈big big channel活動的[面書專頁](https://zh.wikipedia.org/wiki/面書 "wikilink")，於2016年10月開始發佈。\[14\]\[15\]\[16\]\[17\]\[18\]
 
 ## 註釋
 
@@ -335,33 +342,19 @@ big big channel於2017年6月23日推出[iOS和](https://zh.wikipedia.org/wiki/i
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  黎金良.[藝人張曦雯、馬國明及鄧佩儀出席網劇開鏡儀式](http://www.hkcna.hk/content/2017/0311/552542.shtml).香港新聞網-香港中國通訊社.2017-03-11
-
 8.  [big big channel《降魔的番外篇–首部曲》開鏡](http://b.tvb.com/whatsnew/?p=22054).tvb.com .2017-03-13
-
 9.  [推出兩線短劇　陸永「四眼沙僧」夠破格](http://hk.on.cc/hk/bkn/cnt/entertainment/20170823/bkn-20170823000212148-0823_00862_001.html).東網.2017-08-23
-
 10.
-
 11. 純情跟蹤狂.[TVB為賺錢走火入魔，Big big channel大揭藝人私隱](http://ent.fanpiece.com/purestalker/TVB%E7%82%BA%E8%B3%BA%E9%8C%A2%E8%B5%B0%E7%81%AB%E5%85%A5%E9%AD%94-Big-big-channel%E5%A4%A7%E6%8F%AD%E8%97%9D%E4%BA%BA%E7%A7%81%E9%9A%B1-c1287848.html).大娛樂家 - fanpiece.2017-07-01
-
 12. 倪清江.[Big Channel　通訊局裁定違規罰30萬](https://www.hk01.com/社會新聞/194794/無綫電視五節目間接宣傳Big).香港01.2018-06-01
-
-13. [SeeSeeTVB](http://seeseetvb.net/)
-
-14.
-
+13.
+14. [SeeSeeTVB](http://seeseetvb.net/)
 15.
-
 16.
-
 17.
+18.

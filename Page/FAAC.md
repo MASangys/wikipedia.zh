@@ -1,3 +1,6 @@
+> 本文内容由[FAAC](https://zh.wikipedia.org/wiki/FAAC)转换而来。
+
+
 **FAAC**（意大利语的字头缩写，即自动开门系统工厂），是一家[意大利](../Page/意大利.md "wikilink")公司，成立于1965年的。其在中国开设的分公司以**法柯**作为中文名注册。
 
 公司主营人行、车行[通道控制与](https://zh.wikipedia.org/wiki/通道控制 "wikilink")[自动化](https://zh.wikipedia.org/wiki/自动化 "wikilink")\[1\]，产品包括自动控制系统、[自动门](https://zh.wikipedia.org/wiki/自动门 "wikilink")、挡车器、升降路桩、通道控制、停车场系统、电控板及配件\[2\]。

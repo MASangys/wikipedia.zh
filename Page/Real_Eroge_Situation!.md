@@ -1,3 +1,6 @@
+> 本文内容由[Real Eroge Situation!](https://zh.wikipedia.org/wiki/Real_Eroge_Situation!)转换而来。
+
+
 是由日本遊戲品牌自宅すたじお製作並於2017年1月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來在2018年1月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Real Eroge Situation\! H×3》。\[2\]
 
 ## 故事

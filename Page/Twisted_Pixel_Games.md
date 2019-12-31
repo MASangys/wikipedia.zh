@@ -1,4 +1,4 @@
-> 本文内容由[Twisted Pixel Games](https://zh.wikipedia.org/wiki/Twisted Pixel Games)转换而来。
+> 本文内容由[Twisted Pixel Games](https://zh.wikipedia.org/wiki/Twisted_Pixel_Games)转换而来。
 
 
 **Twisted Pixel Games**，是一家总部位于[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奥斯汀市的游戏开发商](https://zh.wikipedia.org/wiki/奥斯汀市 "wikilink")。原本是一个承包商，Twisted Pixel Games发布具有自主知识产权的游戏如《[The Maw](https://zh.wikipedia.org/wiki/The_Maw "wikilink")》和《['Splosion Man](https://zh.wikipedia.org/wiki/'Splosion_Man "wikilink")》。2011年10月12日，该工作室成为[微软工作室的一部分](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")。在2015年9月30日重新成为一家独立的公司。

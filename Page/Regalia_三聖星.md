@@ -1,4 +1,4 @@
-> 本文内容由[Regalia 三聖星](https://zh.wikipedia.org/wiki/Regalia 三聖星)转换而来。
+> 本文内容由[Regalia 三聖星](https://zh.wikipedia.org/wiki/Regalia_三聖星)转换而来。
 
 
 《**Regalia 三聖星**》是[永谷敬之](../Page/永谷敬之.md "wikilink")擔任製作人，[QP:flapper](../Page/QP:flapper.md "wikilink")擔當角色原案，[Actas](../Page/Actas.md "wikilink")製作的原創動畫，電視動畫於2016年7月7日開始播出\[1\]。

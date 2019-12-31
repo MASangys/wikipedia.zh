@@ -1,4 +1,7 @@
-**Golden Child**（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")於2017年推出之十人男子偶像團體，最初由十一名成員組成，現任成員包括[大烈](../Page/李大烈.md "wikilink")、[Y](https://zh.wikipedia.org/wiki/崔聖允 "wikilink")、[長埈](https://zh.wikipedia.org/wiki/李長埈 "wikilink")、[TAG](https://zh.wikipedia.org/wiki/孫永宅 "wikilink") 、[勝民](https://zh.wikipedia.org/wiki/裴勝民 "wikilink")、[宰鉉](https://zh.wikipedia.org/wiki/奉宰鉉 "wikilink")、[知範](https://zh.wikipedia.org/wiki/金知範 "wikilink")、[東炫](https://zh.wikipedia.org/wiki/金東炫_\(Golden_Child_成員\) "wikilink")、[周燦](https://zh.wikipedia.org/wiki/洪周燦 "wikilink")、[普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")。於2017年8月28日發行首張迷你專輯《Gol-Cha\! 》主打歌〈담다디 (DamDaDi)〉正式出道。2018年1月7日，成員在錫因身體健康因素退出。
+> 本文内容由[Golden Child](https://zh.wikipedia.org/wiki/Golden_Child)转换而来。
+
+
+**Golden Child**（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")於2017年推出之十人男子偶像團體，最初由十一名成員組成，現任成員包括[大烈](../Page/李大烈.md "wikilink")、[Y](../Page/崔誠允.md "wikilink")、[長埈](../Page/李長埈.md "wikilink")、[TAG](../Page/孫永宅.md "wikilink") 、[勝民](../Page/裴勝民.md "wikilink")、[宰鉉](../Page/奉宰鉉.md "wikilink")、[知範](../Page/金知範.md "wikilink")、[東炫](../Page/金東炫_\(Golden_Child_成員\).md "wikilink")、[周燦](../Page/洪周燦.md "wikilink")、[普閔](../Page/崔普閔.md "wikilink")。於2017年8月28日發行首張迷你專輯《Gol-Cha\! 》主打歌〈담다디 (DamDaDi)〉正式出道。2018年1月7日，成員在錫因身體健康因素退出。
 
 團名意義為100年難得一見的完美孩子，並期許能帶領韓國歌謠界100年，引導未來100年的音樂潮流。
 
@@ -8,15 +11,15 @@
 
 ### 出道前
 
-[TAG](https://zh.wikipedia.org/wiki/孫永宅 "wikilink")、在錫曾分別以永宅、在浩作藝名在[KEYEAST經紀公司以I](https://zh.wikipedia.org/wiki/KEYEAST "wikilink").D成員準備出道，但最終解散。當時，一起練習的成員還有前Twi-light、[Bigflo](../Page/Bigflo.md "wikilink")成員其天。
+[TAG](../Page/孫永宅.md "wikilink")、在錫曾分別以永宅、在浩作藝名在[KEYEAST經紀公司以I](https://zh.wikipedia.org/wiki/KEYEAST "wikilink").D成員準備出道，但最終解散。當時，一起練習的成員還有前Twi-light、[Bigflo](../Page/Bigflo.md "wikilink")成員其天。
 
 ### 2017年
 
 #### W Project、出道團
 
-2017年1月10日，以[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")的新男團和女團出道計畫目標進行的W Project廣為人知，因此公開Woollim Boys的主唱[周燦和Woollim](https://zh.wikipedia.org/wiki/洪周燦 "wikilink") Girls主唱So Yoon(윤소윤)第一首數位單曲〈沒有像你一樣的人〉。
+2017年1月10日，以[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")的新男團和女團出道計畫目標進行的W Project廣為人知，因此公開Woollim Boys的主唱[周燦和Woollim](../Page/洪周燦.md "wikilink") Girls主唱So Yoon(윤소윤)第一首數位單曲〈沒有像你一樣的人〉。
 
-2月13日，作為W Project第二彈，公開[長埈和TAG的第二首數位單曲](https://zh.wikipedia.org/wiki/李長埈 "wikilink")〈乾旱 (Feat. BéE)〉。3月31日，作為W Project第三彈，公開[大烈](../Page/李大烈.md "wikilink")、在錫、[東炫的舞蹈影像](https://zh.wikipedia.org/wiki/金東炫_\(Golden_Child_成員\) "wikilink")。
+2月13日，作為W Project第二彈，公開[長埈和TAG的第二首數位單曲](../Page/李長埈.md "wikilink")〈乾旱 (Feat. BéE)〉。3月31日，作為W Project第三彈，公開[大烈](../Page/李大烈.md "wikilink")、在錫、[東炫的舞蹈影像](../Page/金東炫_\(Golden_Child_成員\).md "wikilink")。
 
 5月15日， [Woollim娛樂](../Page/Woollim娛樂.md "wikilink")通過官方Twitter公開團體名稱\[1\]、LOGO及專輯名稱，並且開設Golden Child 官方Fan Cafe、Twitter和Facebook。5月17日，公開所有成員的名字。\[2\]5月22日，公開出道團綜《[2017 WoollimPICK](../Page/2017_WOOLLIM_PICK.md "wikilink")》概念照\[3\]及預告；5月30日，於Mnet及Vapp初放送。
 
@@ -60,124 +63,81 @@
 
 1月26日至2月3日，於日本進行迷你三輯《WISH》發售紀念活動。
 
-#### 周燦個人單曲SOLO出道
-
-2月27日，成員周燦發行數位音源 "문제아 (A Song For Me)"，此首歌曲翻唱自二人團體 The Classic 第一張正規專輯《魔法之城》收錄曲。
-
-#### 原聲帶歌曲演唱
-
-3月1日，成員Y與勝民為[JTBC](../Page/JTBC.md "wikilink")金土劇《[Legal High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"。
+2月27日，成員周燦發行數位音源 "問題啊 (A Song For Me)"。3月1日，成員Y與勝民為[JTBC](../Page/JTBC.md "wikilink")金土劇《[Legal High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"。4月21日，成員普閔出演網路劇[A-TEEN第二季](../Page/A-TEEN_2_\(電視劇\).md "wikilink")「柳周河」一角。
 
 #### 特別單曲
 
-5月2日，特別數位單曲 "그러다 봄 (Spring Again)" 發行。
+5月2日，特別數位單曲 "그러다 봄 (Spring Again)" 發行，也是相隔七個月發表新作品，這也是他們的第一首季節歌曲，是為了報答在空白期等待他們而發行的特別專輯。
 
-#### 節目主持
+6月19日，成員周燦開始擔任電台CASPER RADIO《周燦的洪心三說》節目DJ。7月5日，成員普閔開始擔任《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》第35代MC。7月24日，成員長埈、宰鉉開始主持網路節目《STAR WARS》。
 
-6月19日，成員周燦開始擔任電台CASPER RADIO《周燦的洪心三說》節目DJ。 7月5日，成員普閔開始擔任《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》第35代MC。 7月24日，成員長埈、宰鉉開始主持網路節目《STAR WARS》。
+10月16日，完全體出演的網路劇《吵吵鬧鬧 雞毛蒜皮的合租生活》首播，並於每週三、週六韓國時間晚上七點公開影片。
+
+#### 第一張正規專輯
+
+11月4日，公開10位成員概念照並發布將於11月18日發行第一張正規專輯《[Re-boot](../Page/Re-boot.md "wikilink")》的消息，這也是繼去年10月後睽違近一年又一個月發行的實體專輯作品\[6\]。
 
 ## 成員資料
 
-<table>
-<thead>
-<tr class="header">
-<th><p>成員列表</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>現任成員</p></td>
-</tr>
-<tr class="even">
-<td><p>藝名</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/李大烈.md" title="wikilink">大烈</a><br />
-（）</p></td>
-</tr>
-<tr class="even">
-<td><p>Y<br />
-（）</p></td>
-</tr>
-<tr class="odd">
-<td><p>長埈<br />
-（）</p></td>
-</tr>
-<tr class="even">
-<td><p>TAG<br />
-（）</p></td>
-</tr>
-<tr class="odd">
-<td><p>勝民<br />
-（）</p></td>
-</tr>
-<tr class="even">
-<td><p>宰鉉<br />
-（）</p></td>
-</tr>
-<tr class="odd">
-<td><p>知範<br />
-（）</p></td>
-</tr>
-<tr class="even">
-<td><p>東炫<br />
-（）</p></td>
-</tr>
-<tr class="odd">
-<td><p>周燦<br />
-（）</p></td>
-</tr>
-<tr class="even">
-<td><p>普閔<br />
-（）</p></td>
-</tr>
-<tr class="odd">
-<td><p>已離開成員</p></td>
-</tr>
-<tr class="even">
-<td><p>在錫<br />
-（）</p></td>
-</tr>
-</tbody>
-</table>
+| 成員列表                                                |
+| --------------------------------------------------- |
+| 現任成員                                                |
+| **藝名**                                              |
+| **英文**                                              |
+| [大烈](../Page/李大烈.md "wikilink")                     |
+| Dae Yeol                                            |
+| [Y](../Page/崔誠允.md "wikilink")                      |
+| Y                                                   |
+| [長埈](../Page/李長埈.md "wikilink")                     |
+| Jang Jun                                            |
+| [TAG](../Page/孫永宅.md "wikilink")                    |
+| TAG                                                 |
+| [勝民](../Page/裴勝民.md "wikilink")                     |
+| Seung Min                                           |
+| [宰鉉](../Page/奉宰鉉.md "wikilink")                     |
+| Jae Hyun                                            |
+| [知範](../Page/金知範.md "wikilink")                     |
+| Ji Beom                                             |
+| [東炫](../Page/金東炫_\(Golden_Child_成員\).md "wikilink") |
+| Dong Hyun                                           |
+| [周燦](../Page/洪周燦.md "wikilink")                     |
+| Joo Chan                                            |
+| [普閔](../Page/崔普閔.md "wikilink")                     |
+| Bo Min                                              |
+| 已離開成員                                               |
+| 在錫                                                  |
+| Jae Seok                                            |
 
 ## 韓國音樂著作權協會之登記編號
 
 | **成員** | **登記名稱** | **登記編號** | **曲目列表** |
 | ------ | -------- | -------- | -------- |
-| 李長埈    | 이장준      | 10014361 | \[6\]    |
-| TAG    | 손영택      | 10009509 | \[7\]    |
+| 李長埈    | 이장준      | 10014361 | \[7\]    |
+| TAG    | 손영택      | 10009509 | \[8\]    |
 
 ## 音樂作品
 
+### 正規專輯
+
+  - 2019-11-18：[Re-boot](../Page/Re-boot.md "wikilink")
+
 ### 迷你專輯
 
-  - 2017年：[Gol-Cha\!](../Page/Gol-Cha!.md "wikilink")
-  - 2018年：[奇蹟 (기적)](../Page/奇蹟_\(Golden_Child專輯\).md "wikilink")
-  - 2018年：[WISH](../Page/WISH_\(Golden_Child專輯\).md "wikilink")
+  - 2017-08-28：[Gol-Cha\!](../Page/Gol-Cha!.md "wikilink")
+  - 2018-01-29：[奇蹟 (기적)](../Page/奇蹟_\(Golden_Child專輯\).md "wikilink")
+  - 2018-10-24：[WISH](../Page/WISH_\(Golden_Child專輯\).md "wikilink")
 
 ### 單曲專輯
 
-  - 2018年：[Goldenness](../Page/Goldenness.md "wikilink")
+  - 2018-07-04：[Goldenness](../Page/Goldenness.md "wikilink")
 
 ### 數位單曲
 
-  - 2019年：[그러다 봄 (Spring Again)](../Page/그러다_봄_\(Spring_Again\).md "wikilink")
+  - 2019-05-02：그러다 봄 (Spring Again)
 
 |}
 
 ## 影視作品
-
-
-
-## 廣告代言
-
-| 年份                                          | 廣告名稱              | 種類   | 參與成員 |
-| ------------------------------------------- | ----------------- | ---- | ---- |
-| 2019年                                       | 正官庄 I-PASS 紅蔘CAMP | 保健食品 | 普閔   |
-| lilybyred                                   | 美妝                |      |      |
-| My Dahlia                                   | 香水                |      |      |
-| [Le Coq Sportif](../Page/樂卡克.md "wikilink") | 運動服裝、用品           |      |      |
 
 ## 宣傳大使
 
@@ -187,304 +147,119 @@
 
 ## 演唱會及其他演出
 
+### Showcase
+
+| 年次     | **日期**                                                      | 專輯名稱                                                         | **地點**                   | 舉行場所                          |
+| ------ | ----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------ | ----------------------------- |
+| 2017年  | 8月28日                                                       | 迷你一輯 《[Gol-Cha\!](../Page/Gol-Cha!.md "wikilink")》           | 首爾                       | Blue Square Samsung Card Hall |
+| 2018年  | 1月29日                                                       | 迷你二輯《[奇蹟 (기적)](../Page/奇蹟_\(Golden_Child專輯\).md "wikilink")》 | Blue Square IMarket Hall |                               |
+| 10月24日 | 迷你三輯《[WISH](../Page/WISH_\(Golden_Child專輯\).md "wikilink")》 | Ilchi Art Hall                                               |                          |                               |
+| 2019年  | 11月18日                                                      | 正規一輯《[Re-boot](../Page/Re-boot.md "wikilink")》               | YES24 LIVE HALL          |                               |
+
 ### 演唱會及見面會
 
-  - 首次游擊演唱會
+| **日期**                                | **地點**   | 舉行場所                     | **備註**  |
+| ------------------------------------- | -------- | ------------------------ | ------- |
+| 游擊演唱會                                 |          |                          |         |
+| 2017年7月9日                             | 首爾       | COEX LIVE廣場              | 正式出道前   |
+| 2018 1st Japan Fanmeeting “奇蹟”及發行紀念活動 |          |                          |         |
+| 2018年3月3日                             | 日本東京     | TEAM SMILE 豐洲PIT         | 見面會     |
+| 2018年3月4日                             | 簽名握手會    |                          |         |
+| 2018年3月5日                             | Differ有明 |                          |         |
+| 1st Fanmeeting “GOLDEN DAY”           |          |                          |         |
+| 2018年5月22日                            | 首爾       | Blue Square IMarket Hall |         |
+| 2018年5月24日                            | 日本愛知     | 名古屋國際會議場 Central Hall    |         |
+| 2018年5月25日                            | 日本東京     | Zepp Tokyo               |         |
+| 2018年5月28日                            | 日本福岡     | 福岡國際會議場 Main Hall        |         |
+| 2018年5月30日                            | 日本大阪     | Zepp Namba               |         |
+| 2018年5月31日                            |          |                          |         |
+| Fanclub 創團式“明朗金僮會”                    |          |                          |         |
+| 2018年10月14日                           | 首爾       | Blue Square IMarket Hall |         |
+| 2019 Fanclub 創團式 in Japan             |          |                          |         |
+| 2019年10月22日                           | 日本千葉     | 舞濱圓形劇場                   |         |
+| 1ST CONCERT FUTURE AND PAST           |          |                          |         |
+| 2019年1月18日                            | 首爾       | Blue Square IMarket Hall | 首次單獨演唱會 |
+| 2019年1月19日                            |          |                          |         |
 
-| 日期        | 演唱會站次 | 舉行地點        |
-| --------- | ----- | ----------- |
-| 2017年7月9日 | 首爾站   | COEX LIVE廣場 |
+### 大型演唱會、年末舞台
 
-  - Golden Child 1ST MINI ALBUM \[Gol-Cha\!\] SHOWCASE
-
-| 日期         | 見面會站次 | 舉行地點                          |
-| ---------- | ----- | ----------------------------- |
-| 2017年8月28日 | 首爾站   | Blue Square Samsung Card Hall |
-
-  - Golden Child Fan Meeting & Mini Live
-
-| 日期          | 見面會站次   | 舉行地點                      |
-| ----------- | ------- | ------------------------- |
-| 2017年12月10日 | 松戶站(取消) | 千葉morino hall 21(松戸市文化会館) |
-
-  - Golden Child 2ND MINI ALBUM \[기적(奇蹟)\] SHOWCASE
-
-| 日期         | 見面會站次 | 舉行地點                     |
-| ---------- | ----- | ------------------------ |
-| 2018年1月29日 | 首爾站   | Blue Square IMarket Hall |
-
-  - Golden Child 2018 1st Japan Fanmeeting “奇蹟”及發行紀念活動
-
-<table style="width:36%;">
-<colgroup>
-<col style="width: 12%" />
-<col style="width: 7%" />
-<col style="width: 16%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>活動站次</p></th>
-<th><p>舉行地點</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年3月3日</p></td>
-<td><p>見面會<br />
-東京豐洲站</p></td>
-<td><p>TEAM SMILE 豐洲PIT</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年3月4日</p></td>
-<td><p>簽名握手會<br />
-東京豐洲站</p></td>
-<td><p>TEAM SMILE 豐洲PIT</p></td>
-</tr>
-<tr class="odd">
-<td><p>2018年3月5日</p></td>
-<td><p>簽名握手會<br />
-東京有明站</p></td>
-<td><p>Differ有明</p></td>
-</tr>
-</tbody>
-</table>
-
-  - Golden Child Fanmeeting “GOLDEN DAY”
-
-| 日期            | 演唱會站次 | 舉行地點                     |
-| ------------- | ----- | ------------------------ |
-| 2018年5月22日    | 首爾站   | Blue Square IMarket Hall |
-| 2018年5月24日    | 愛知站   | 名古屋國際會議場 Central Hall    |
-| 2018年5月25日    | 東京站   | Zepp Tokyo               |
-| 2018年5月28日    | 福岡站   | 福岡國際會議場 Main Hall        |
-| 2018年5月30-31日 | 大阪站   | Zepp Namba               |
-
-  - 2018 Golden Child 粉絲俱樂部創團式“明朗金僮會”
-
-| 日期          | 見面會站次 | 舉行地點                     |
-| ----------- | ----- | ------------------------ |
-| 2018年10月14日 | 首爾站   | Blue Square IMarket Hall |
+| 大型演唱會列表 |
+| ------- |
+| 年份      |
+| 2017年   |
+| 10月24日  |
+| 10月31日  |
+| 2018年   |
+| 5月12日   |
+| 6月24日   |
+| 7月5日    |
+| 8月11日   |
+| 9月29日   |
+| 12月31日  |
+| 2019年   |
+| 9月28日   |
+| 10月19日  |
+| 12月27日  |
 
 ### 公演活動
 
-<table style="width:48%;">
-<colgroup>
-<col style="width: 9%" />
-<col style="width: 22%" />
-<col style="width: 15%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>日期</p></td>
-<td><p>演唱會名稱</p></td>
-<td><p>舉行地點</p></td>
-</tr>
-<tr class="even">
-<td><p>9月9日</p></td>
-<td><p>仁川 K-POP CONCERT 2017</p></td>
-<td><p>仁川文鶴競技場主會場</p></td>
-</tr>
-<tr class="odd">
-<td><p>9月24日</p></td>
-<td><p>2017 Guro Festival</p></td>
-<td><p>安養川舞台</p></td>
-</tr>
-<tr class="even">
-<td><p>9月26日</p></td>
-<td><p>MU:CON 2017 Asia Music Network Showcase</p></td>
-<td><p>AMN stage(MBC公開hall)</p></td>
-</tr>
-<tr class="odd">
-<td><p>10月20日</p></td>
-<td><p>2017 希望Big演唱會</p></td>
-<td><p>龍山 現代IPARK Mall</p></td>
-</tr>
-<tr class="even">
-<td><p>10月31日</p></td>
-<td><p>2017 BOF Awards (釜山One Asia Festival閉幕式)</p></td>
-<td><p>釜山 cinema center</p></td>
-</tr>
-<tr class="odd">
-<td><p>11月3日</p></td>
-<td><p>2017 Korea C. Festival</p></td>
-<td><p>首爾 光化門廣場</p></td>
-</tr>
-<tr class="even">
-<td><p>12月3日</p></td>
-<td><p>VLIVE ROOKIE STAGE 2017<br />
-[peekavoo&amp;voom stage]</p></td>
-<td><p>首爾 yes24 Hall</p></td>
-</tr>
-</tbody>
-</table>
+| 2017年公演活動列表 |
+| ----------- |
+| 日期          |
+| 9月24日       |
+| 9月26日       |
+| 10月20日      |
+| 11月3日       |
+| 12月3日       |
 
-<table style="width:48%;">
-<colgroup>
-<col style="width: 9%" />
-<col style="width: 22%" />
-<col style="width: 15%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>日期</p></td>
-<td><p>演唱會名稱</p></td>
-<td><p>舉行地點</p></td>
-</tr>
-<tr class="even">
-<td><p>2月10日</p></td>
-<td><p>江陵Kpop World Festa</p></td>
-<td><p>江陵原州大學<br />
-江陵校區運動場</p></td>
-</tr>
-<tr class="odd">
-<td><p>2月20日</p></td>
-<td><p>白石藝術大學 入學典禮</p></td>
-<td><p>白石藝術大學</p></td>
-</tr>
-<tr class="even">
-<td><p>2月24日</p></td>
-<td><p>平昌冬季奧林匹克 紀念慶典</p></td>
-<td><p>江原道春川 湖畔體育館</p></td>
-</tr>
-<tr class="odd">
-<td><p>4月15日</p></td>
-<td><p>KCON 2018 JAPAN</p></td>
-<td><p>日本 千葉幕張國際展覽館</p></td>
-</tr>
-<tr class="even">
-<td><p>4月22日</p></td>
-<td><p>2018 水原JS盃 祝賀公演</p></td>
-<td><p>水原世界盃競技場</p></td>
-</tr>
-<tr class="odd">
-<td><p>5月12日</p></td>
-<td><p>2018 <a href="../Page/夢想演唱會.md" title="wikilink">夢想演唱會</a></p></td>
-<td><p><a href="../Page/首爾世界盃競技場.md" title="wikilink">首爾世界盃競技場</a></p></td>
-</tr>
-<tr class="even">
-<td><p>6月24日</p></td>
-<td><p>KCON 2018 NY</p></td>
-<td><p>保德信大廈<br />
-(Prudential Center)</p></td>
-</tr>
-<tr class="odd">
-<td><p>7月5日</p></td>
-<td><p>M COUNTDOWN in TAIPEI</p></td>
-<td><p>臺北小巨蛋</p></td>
-</tr>
-<tr class="even">
-<td><p>8月11日</p></td>
-<td><p>KCON 2018 LA</p></td>
-<td><p>洛杉磯史坦波中心<br />
-(LOS ANGELES STAPLES CENTER)</p></td>
-</tr>
-<tr class="odd">
-<td><p>9月29日</p></td>
-<td><p>KCON 2018 THAILAND</p></td>
-<td><p>曼谷IMPACT會展中心</p></td>
-</tr>
-<tr class="even">
-<td><p>10月9日</p></td>
-<td><p>World Friends Music Festival</p></td>
-<td><p>華城綜合競技場</p></td>
-</tr>
-<tr class="odd">
-<td><p>10月20日</p></td>
-<td><p>第24屆巨濟市民日慶典 和平演唱會</p></td>
-<td><p>街道特設舞台</p></td>
-</tr>
-<tr class="even">
-<td><p>10月27日</p></td>
-<td><p>第29屆京畿道Sports For All Festival</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>11月30日</p></td>
-<td><p>印尼慈善演唱會</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>12月11日</p></td>
-<td><p>UP CHEER 樂 演唱會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS昌原大廳</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>12月31日</p></td>
-<td><p>2018 <a href="../Page/MBC歌謠大祭典.md" title="wikilink">MBC歌謠大祭典</a></p></td>
-<td><p>上岩洞 <a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 經營中心</p></td>
-</tr>
-</tbody>
-</table>
+| 2018年公演活動列表 |
+| ----------- |
+| 日期          |
+| 2月10日       |
+| 2月20日       |
+| 2月24日       |
+| 4月22日       |
+| 10月9日       |
+| 10月20日      |
+| 10月27日      |
+| 11月30日      |
+| 12月11日      |
 
-|           |                                                    |                                            |
-| --------- | -------------------------------------------------- | ------------------------------------------ |
-| 日期        | 演唱會名稱                                              | 舉行地點                                       |
-| 4月19日     | 第58屆慶尚南道居民體育大會                                     | 巨濟綜合體育場                                    |
-| 4月26日     | 第33屆利川陶瓷祭典                                         | Ye's Park 大劇場                              |
-| 5月18日     | 2019 [夢想演唱會](../Page/夢想演唱會.md "wikilink")          | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink") |
-| 5月19日     | 韓國娛樂音樂饗宴                                           | 台北南港展覽館                                    |
-| 6月15日     | 2019 K-POP Artist Festival                         | 首爾樂園 東門 特設舞台                               |
-| 7月23日-24日 | 2019 JAPAN Live Tour:夢 Japan Collection X THE SHOW | Zepp Osaka Bayside                         |
-| 8月16日     | 2019 K-WORLD FESTA 開幕公演                            | KSPO DOME (體操競技場)                          |
-| 8月17日     | KIMA WEEK 2019 in 浦項                               | 迎月台 海上樓閣前 廣場                               |
-| 8月20日     | 2019 K-WORLD FESTA                                 | 奧林匹克公園 (Olympic Hall)                      |
-| 9月20日     | 第9回 中國人留學生慶典 K-POP開幕演唱會                            | 清州大學 主舞台                                   |
-| 9月28日     | KCON 2019 THAILAND                                 | IMPACT Arena                               |
+| 2019年公演活動列表 |
+| ----------- |
+| 日期          |
+| 4月19日       |
+| 4月26日       |
+| 5月19日       |
+| 6月15日       |
+| 7月23日       |
+| 7月24日       |
+| 8月16日       |
+| 8月17日       |
+| 8月20日       |
+| 9月20日       |
+| 10月5日       |
+| 10月11日      |
 
-### 簽售會
 
-|        |        |                            |    |
-| ------ | ------ | -------------------------- | -- |
-| 年份     | 日期     | 地點                         | 備註 |
-| 2017年  | 9月2日   | 鐘路簽售會                      |    |
-| 9月3日   | 新村簽售會  |                            |    |
-| 9月9日   | 仁川簽售會  |                            |    |
-| 9月10日  | 龍山簽售會  |                            |    |
-| 9月16日  | 釜山簽售會  |                            |    |
-| 9月16日  | 大邱簽售會  |                            |    |
-| 9月17日  | 日山簽售會  |                            |    |
-| 9月24日  | 大田簽售會  |                            |    |
-| 10月14日 | 大學路簽售會 |                            |    |
-| 10月15日 | 狎鷗亭簽售會 |                            |    |
-| 11月4日  | 盆唐簽售會  |                            |    |
-| 11月5日  | 上岩簽售會  |                            |    |
-| 12月23日 | 上岩簽售會  | 2018 season's greeting 簽名會 |    |
-
-|       |        |       |    |
-| ----- | ------ | ----- | -- |
-| 年份    | 日期     | 地點    | 備註 |
-| 2018年 | 2月2日   | 堂山簽售會 |    |
-| 2月3日  | 上岩簽售會  |       |    |
-| 2月4日  | 和谷簽售會  |       |    |
-| 2月9日  | 清潭簽售會  |       |    |
-| 2月11日 | 大邱簽售會  |       |    |
-| 釜山簽售會 |        |       |    |
-| 2月23日 | 狎鷗亭簽售會 |       |    |
-| 2月25日 | 麻浦簽售會  |       |    |
-| 3月16日 | 堂山簽售會  |       |    |
-| 3月17日 | 上岩簽售會  |       |    |
-| 3月18日 | 和谷簽售會  |       |    |
-| 4月6日  | 銅雀簽售會  |       |    |
-| 4月7日  | 木洞簽售會  |       |    |
-| 4月8日  | 盆唐簽售會  |       |    |
-
-|       |        |       |    |
-| ----- | ------ | ----- | -- |
-| 年份    | 日期     | 地點    | 備註 |
-| 2018年 | 7月14日  | 銅雀簽售會 |    |
-| 7月15日 | 宣陵簽售會  |       |    |
-| 7月20日 | 木洞簽售會  |       |    |
-| 7月22日 | 上岩簽售會  |       |    |
-| 7月27日 | 龍山簽售會  |       |    |
-| 7月28日 | 釜山簽售會  |       |    |
-| 大邱簽售會 |        |       |    |
-| 8月4日  | 木洞簽售會  |       |    |
-| 8月18日 | 江南簽售會  |       |    |
-| 8月19日 | 乙支路簽售會 |       |    |
-| 8月26日 | 木洞簽售會  |       |    |
 
 ## 獎項
+
+### 偶像運動會獎項
+
+| 年份                                                                     | 名稱                                                                     | 參賽項目        | 參與成員          | 成績                             | 獎項 |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ------------- | ------------------------------ | -- |
+| 2018年                                                                  | [第十四屆偶像明星運動會春節特輯](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 男子有氧體操(團體賽) | 大烈、Y、長埈、東炫、普閔 | 藝術分9.20，實施分9.00，扣分0.00 總分18.20 | 銅牌 |
+| [第十五屆偶像明星運動會中秋特輯](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 男子團體射箭                                                                 | TAG、知範、普閔   |               |                                |    |
+| 男子田徑60公尺                                                               | Y                                                                      | 7秒60        | 金牌            |                                |    |
+| 長埈                                                                     | 7秒668                                                                  | 銀牌          |               |                                |    |
+| 男子室內足排球(團體賽)                                                           | 長埈                                                                     |             | 金牌            |                                |    |
+| 男子400公尺接力                                                              | Y、長埈、勝民、周燦                                                             | 58秒60       |               |                                |    |
+| 2019年                                                                  | [第十六屆偶像明星運動會春節特輯](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 男子田徑60公尺    | Y             | 7秒520                          |    |
+| 長埈                                                                     | 7秒528                                                                  | 銅牌          |               |                                |    |
+| 男子400公尺接力                                                              | Y、長埈、勝民、東炫                                                             | 59秒60       | 銀牌            |                                |    |
+| [第十七屆偶像明星運動會中秋特輯](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink") | 男子田徑60公尺                                                               | 長埈          | 7秒45          | 銅牌                             |    |
+| 男子400公尺接力                                                              | Y、長埈、勝民、東炫                                                             | 58秒24       | 金牌            |                                |    |
 
 ### 大型頒獎禮獲獎獎項
 
@@ -567,7 +342,13 @@
 <td><p>IF</p></td>
 </tr>
 <tr class="odd">
-<td><p>WISH</p></td>
+<td><p><a href="../Page/WISH_(Golden_Child專輯).md" title="wikilink">WISH</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Re-boot.md" title="wikilink">Re-boot</a></p></td>
 </tr>
 <tr class="even">
 <td><ul>
@@ -606,3 +387,4 @@
 5.
 6.
 7.
+8.

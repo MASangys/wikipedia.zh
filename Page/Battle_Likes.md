@@ -1,3 +1,6 @@
+> 本文内容由[Battle Likes](https://zh.wikipedia.org/wiki/Battle_Likes)转换而来。
+
+
 《**Battle Likes**》（韓語：배틀라이크）是韓國[KBS電視台的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，由不同藝人與明星出演。節目將展現藝人與明星體驗韓國文化樣子,同時在節目中能看見藝人與明星展現各種不同的面貌。
 
 ## 各集資訊

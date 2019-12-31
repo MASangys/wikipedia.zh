@@ -1,3 +1,6 @@
+> 本文内容由[USN日志](https://zh.wikipedia.org/wiki/USN日志)转换而来。
+
+
 **USN日志**（**USN Journal**）是[NTFS](../Page/NTFS.md "wikilink")的一个特性，全称**U**pdate **S**equence **N**umber **Journal**（更新序列号码日志），或称更改日志（Change Journal）\[1\]，它维护一个对已做更改的记录。注意不要与[NTFS](../Page/NTFS.md "wikilink")文件系统的日志设计混淆。
 
 在[Windows 2000发布时](../Page/Windows_2000.md "wikilink")，[微软](../Page/微软.md "wikilink")提供了[NTFS](../Page/NTFS.md "wikilink") 3.0版，其中包含众多新的特性和改进。自Windows 2000起，可以设置在NTFS[分区上跟踪该卷的文件和目录的更改](../Page/硬盘分区.md "wikilink")，提供各种对象在何时、做了何种更改的记录。在该功能启用后，系统将在该卷的USN日志中记录对该卷的更改。

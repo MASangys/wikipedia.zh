@@ -1,4 +1,4 @@
-> 本文内容由[BMW M52](https://zh.wikipedia.org/wiki/BMW M52)转换而来。
+> 本文内容由[BMW M52](https://zh.wikipedia.org/wiki/BMW_M52)转换而来。
 
 
 [M52NonTUB28.jpg](https://zh.wikipedia.org/wiki/File:M52NonTUB28.jpg "fig:M52NonTUB28.jpg") **BMW M52**為[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[寶馬公司生產的一系列](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[直列六缸](https://zh.wikipedia.org/wiki/直列六缸引擎 "wikilink")，自然吸氣，頂置雙[凸輪軸](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")（DOHC）[汽油引擎](../Page/汽油引擎.md "wikilink")。M52系列為[M50系列引擎的換代品](../Page/BMW_M50.md "wikilink")，生產年代為1994-2001。

@@ -1,3 +1,6 @@
+> 本文内容由[Team G 3rd Stage「雙面偶像」公演](https://zh.wikipedia.org/wiki/Team_G_3rd_Stage「雙面偶像」公演)转换而来。
+
+
 **GNZ48 Team G 3rd Stage「雙面偶像」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演同時也是GNZ48 Team G的首套原創公演\[1\]。
 
 ## 概要
@@ -170,7 +173,7 @@ SNH48于2018年9月5日及11日分批释出了该公演全部曲目的音源。
 ## 軼事
 
   - 首次有16人曲穿插於Unit曲之中。
-  - 首次Unit曲人選大於16人。
+  - 首次Unit曲人選大於16人（於各场公演擔任Center的成员（谢蕾蕾、王溪源）在初日公演参与了两首Unit曲）。
   - 该公演于2018年12月9日成为SNH48 Group各套公演中由同一队伍表演的周期最长的公演，及于2019年3月1日成为SNH48 Group各套公演中由同一队伍表演的场次最多的公演。
 
 ## 參考資料

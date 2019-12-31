@@ -1,4 +1,4 @@
-> 本文内容由[Sony Xperia X Performance](https://zh.wikipedia.org/wiki/Sony Xperia X Performance)转换而来。
+> 本文内容由[Sony Xperia X Performance](https://zh.wikipedia.org/wiki/Sony_Xperia_X_Performance)转换而来。
 
 
 **Sony Xperia X Performance**(Xperia XP)是Sony Mobile 於 MWC 2016年2月22日發表的旗艦手機，同時也是全新 X 系列智慧型手機中的旗艦版。搭載 5.0 吋 Full HD 曲面玻璃顯示幕、[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 820 處理器、3 GB 記憶體。2,300萬畫素主鏡頭，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能，配有指紋傳感器。同時發佈X系列的[Xperia X及](../Page/Sony_Xperia_X.md "wikilink")[Xperia XA](https://zh.wikipedia.org/wiki/Xperia_XA "wikilink")。

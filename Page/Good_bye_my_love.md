@@ -1,3 +1,6 @@
+> 本文内容由[Good bye my love](https://zh.wikipedia.org/wiki/Good_bye_my_love)转换而来。
+
+
 《**good bye my love**》，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[鬼束千尋](../Page/鬼束千尋.md "wikilink")的第21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2016年11月2日發行。
 
 ## 概述

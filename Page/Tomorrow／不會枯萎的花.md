@@ -1,3 +1,6 @@
+> 本文内容由[Tomorrow／不會枯萎的花](https://zh.wikipedia.org/wiki/Tomorrow／不會枯萎的花)转换而来。
+
+
 《**tomorrow／不會枯萎的花**》（）是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[下川美娜](../Page/下川美娜.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年2月20日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

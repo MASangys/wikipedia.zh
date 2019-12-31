@@ -1,3 +1,6 @@
+> 本文内容由[Homolje](https://zh.wikipedia.org/wiki/Homolje)转换而来。
+
+
 Homolje（, ）是位于多瑙河南部塞尔维亚东部的一个小地理区域。它集中在Žagubica镇，较小的部分属于Kučevo，Majdanpek和Petrovac市。在狭义上，术语“Homolje”只适用于姆拉瓦河周围的Homolje山谷，但它通常适用于山谷北部的H​​omolje山（940米）和南部的Beljanica山和Crni Vrh山。它是人口稀少，着名的未受破坏的性质。
 
 ## 人口

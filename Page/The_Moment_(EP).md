@@ -1,4 +1,4 @@
-> 本文内容由[The Moment \(EP\)](https://zh.wikipedia.org/wiki/The Moment \(EP\))转换而来。
+> 本文内容由[The Moment \(EP\)](https://zh.wikipedia.org/wiki/The_Moment_\(EP\))转换而来。
 
 
 《**The Moment**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[Supper Moment的第六張](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，原定於2015年推出，後因印刷問題而延至翌年推出。專輯收錄了[Supper Moment在](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")2015年的所有派台歌曲，但曲目並沒有按派台次序排列。

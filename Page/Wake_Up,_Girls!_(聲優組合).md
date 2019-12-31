@@ -1,3 +1,6 @@
+> 本文内容由[Wake Up, Girls! \(聲優組合\)](https://zh.wikipedia.org/wiki/Wake_Up,_Girls!_\(聲優組合\))转换而来。
+
+
 **Wake Up, Girls\!**是出自[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[Wake Up, Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")》的7人女性[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，由[avex與](../Page/愛貝克思集團.md "wikilink")[81 Produce在](../Page/81_Produce.md "wikilink")2012年9月至12月舉辦的甄選會中選出\[1\]，並於2013年7月首次公開成員\[2\]。[唱片公司](../Page/唱片公司.md "wikilink")為，2019年3月8日[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")公演結束後正式解散\[3\]。
 
 ## 成員

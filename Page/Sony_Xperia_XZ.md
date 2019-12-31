@@ -1,4 +1,4 @@
-> 本文内容由[Sony Xperia XZ](https://zh.wikipedia.org/wiki/Sony Xperia XZ)转换而来。
+> 本文内容由[Sony Xperia XZ](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ)转换而来。
 
 
 **Sony Xperia XZ**是[索尼](../Page/索尼.md "wikilink")於2016年9月1日正式發表的旗艦手機\[1\]，乃继[Sony Xperia X Performance后所发表的机型](../Page/Sony_Xperia_X_Performance.md "wikilink")。与其一同发布的还有主打小屏的[Sony Xperia X Compact](../Page/Sony_Xperia_X_Compact.md "wikilink")。

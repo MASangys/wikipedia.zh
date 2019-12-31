@@ -1,3 +1,6 @@
+> 本文内容由[SIBLING蛋白](https://zh.wikipedia.org/wiki/SIBLING蛋白)转换而来。
+
+
 **SIBLING蛋白**是一種[非胶原蛋白](https://zh.wikipedia.org/wiki/非胶原蛋白 "wikilink")，是[骨和](https://zh.wikipedia.org/wiki/骨 "wikilink")[牙本质的](https://zh.wikipedia.org/wiki/牙本质 "wikilink")[细胞外基质](../Page/细胞外基质.md "wikilink")的组成部分。其英文部分「SIBLING」为小整联N-连接[糖蛋白](https://zh.wikipedia.org/wiki/糖蛋白 "wikilink")（small integrin-binding ligand, N-linked glycoprotein）的缩写。有证据表明SIBLING蛋白在这些组织的[矿化中起关键作用](https://zh.wikipedia.org/wiki/矿化 "wikilink")。\[1\]
 
 下列蛋白质属于SIBLING蛋白：\[2\]\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[BUG也無妨](https://zh.wikipedia.org/wiki/BUG也無妨)转换而来。
+
+
 《**BUG也無妨**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2017年2月15日由[EMI RECORDS/UNIVERSAL MUSIC發行](../Page/環球音樂_\(日本\).md "wikilink")。中心成員由[指原莉乃](../Page/指原莉乃.md "wikilink")擔當。
 
 ## 概要

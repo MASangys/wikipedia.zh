@@ -1,3 +1,6 @@
+> 本文内容由[容祖兒·My Secret·Live](https://zh.wikipedia.org/wiki/容祖兒·My_Secret·Live)转换而来。
+
+
 **《容祖兒·My Secret·Live》** 是香港樂壇天后[容祖兒](../Page/容祖兒.md "wikilink")首次於[香港演藝學院](../Page/香港演藝學院.md "wikilink")舉行的個人售票演唱會，亦是其首個以非派台歌曲（Side-track）為主的演唱會。主辦機構為[英皇娛樂](../Page/英皇娛樂.md "wikilink")，主題贊助為[美國萬通保險](https://zh.wikipedia.org/wiki/美國萬通保險 "wikilink")。
 
 ## 簡介

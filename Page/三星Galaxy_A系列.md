@@ -1,4 +1,4 @@
-> 本文内容由[三星Galaxy A系列](https://zh.wikipedia.org/wiki/三星Galaxy A系列)转换而来。
+> 本文内容由[三星Galaxy A系列](https://zh.wikipedia.org/wiki/三星Galaxy_A系列)转换而来。
 
 
 **三星Galaxy A系列**是由[三星Galaxy系列分拆出的](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")[智慧型手機系列](../Page/智能手机.md "wikilink")，其產品線橫跨低中高階。該系列的命名方式與[三星Galaxy S系列及](../Page/三星Galaxy_S系列.md "wikilink")[三星Galaxy Note系列以數字一順序命名的方式不同](../Page/三星Galaxy_Note系列.md "wikilink")。在2019年4月8日，[三星電子](../Page/三星電子.md "wikilink")為簡化生產線，宣布將[三星Galaxy J系列與本系列合併](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink")\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Actas](https://zh.wikipedia.org/wiki/Actas)转换而来。
+
+
 **株式會社Actas**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，杉並動畫振興協議會會員。
 
 ## 簡介

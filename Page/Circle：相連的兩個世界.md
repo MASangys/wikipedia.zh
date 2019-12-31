@@ -1,3 +1,6 @@
+> 本文内容由[Circle：相連的兩個世界](https://zh.wikipedia.org/wiki/Circle：相連的兩個世界)转换而来。
+
+
 《**Circle：相連的兩個世界**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2017年5月22日起播出的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。內容描述外星人與地球人之間的互動與故事。\[1\]
 
 ## 演員陣容

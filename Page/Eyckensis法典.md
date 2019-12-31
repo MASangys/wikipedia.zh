@@ -1,3 +1,6 @@
+> 本文内容由[Eyckensis法典](https://zh.wikipedia.org/wiki/Eyckensis法典)转换而来。
+
+
 8世纪的Eyckensis法典是以2本组成手稿为基础的[福音书](../Page/福音书.md "wikilink")，据推测这2本手稿形成了12世纪至1988年的卷绕。Eyckensis法典是比利时最古老的书籍\[1\]。自8世纪起它便一直被保存在当今马泽克([Maaseik](https://zh.wikipedia.org/wiki/Maaseik "wikilink")) 辖区的领土上。此书可能创作于埃希特纳赫修道院的书桌上。
 
 ## 手稿A与手稿B的描述

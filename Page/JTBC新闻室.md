@@ -1,3 +1,6 @@
+> 本文内容由[JTBC新闻室](https://zh.wikipedia.org/wiki/JTBC新闻室)转换而来。
+
+
 《**JTBC新闻室**》（，）是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[JTBC](../Page/JTBC.md "wikilink")电视台的旗舰新闻节目，[韩国标准时间](https://zh.wikipedia.org/wiki/韩国标准时间 "wikilink")（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）每天19:55播出，周一至周四时长95分钟，周五时长65分钟，周末时长55分钟（以上均含广告），其前身为《JTBC News 10》和《JTBC News 9》。
 
 ## 历史

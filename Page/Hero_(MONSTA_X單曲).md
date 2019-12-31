@@ -1,3 +1,6 @@
+> 本文内容由[Hero \(MONSTA X單曲\)](https://zh.wikipedia.org/wiki/Hero_\(MONSTA_X單曲\))转换而来。
+
+
 《**HERO（日語版）**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MONSTA X的出道日語單曲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")，由Punch Sound（）作曲、ZERO（YVES\&ADAMS）填詞，並在2017年5月17日以三個不同版本推出\[1\]。
 
 ## 背景
@@ -62,22 +65,13 @@
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:MONSTA_X](https://zh.wikipedia.org/wiki/Category:MONSTA_X "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.

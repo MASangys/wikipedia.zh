@@ -1,4 +1,4 @@
-> 本文内容由[Pink Dot SG](https://zh.wikipedia.org/wiki/Pink Dot SG)转换而来。
+> 本文内容由[Pink Dot SG](https://zh.wikipedia.org/wiki/Pink_Dot_SG)转换而来。
 
 
 [Pink_Dot_SG_-_20090516.jpg](https://zh.wikipedia.org/wiki/File:Pink_Dot_SG_-_20090516.jpg "fig:Pink_Dot_SG_-_20090516.jpg")举行\]\] **Pink Dot SG**（以下简称**粉红点**\[1\]）是新加坡的一个年度运动及户外活动，从2009年至今，每年都会在[芳林公园举行](https://zh.wikipedia.org/wiki/芳林公园 "wikilink")，旨在声援[同性恋、双性恋、跨性别（LGBT）人士](../Page/LGBT.md "wikilink")，倡导“有爱无类”（freedom to love）\[2\]。其首场集会的出席人数估计有1000到2500人左右\[3\]\[4\]，在2015年剧增至2万8000人\[5\]。

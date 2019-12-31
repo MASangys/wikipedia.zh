@@ -1,3 +1,6 @@
+> 本文内容由[尋找MOMOLAND](https://zh.wikipedia.org/wiki/尋找MOMOLAND)转换而来。
+
+
 《**尋找MOMOLAND**》（韓語：모모랜드를 찾아서）是韓國[Mnet](../Page/Mnet.md "wikilink")電視台的綜藝節目，由[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、[Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[裴允貞](https://zh.wikipedia.org/wiki/裴允貞 "wikilink")、[鄭鎮石擔任固定評審](https://zh.wikipedia.org/wiki/鄭鎮石 "wikilink")，節目亦邀請嘉賓擔任特別評審。節目主要為[Dublekick Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "wikilink")，透過節目進行選秀組成女團[MOMOLAND](../Page/MOMOLAND.md "wikilink")的成員\[1\]。
 
 ## 練習生

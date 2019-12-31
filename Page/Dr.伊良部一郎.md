@@ -1,3 +1,6 @@
+> 本文内容由[Dr.伊良部一郎](https://zh.wikipedia.org/wiki/Dr.伊良部一郎)转换而来。
+
+
 《**Dr.伊良部一郎**》是[朝日電視台](../Page/朝日電視台.md "wikilink")於2011年1月30日至3月27日星期日晚間電視劇時段播出，由[德重聰主演](https://zh.wikipedia.org/wiki/德重聰 "wikilink")。
 
 ## 製作人員

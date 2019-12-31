@@ -1,4 +1,4 @@
-> 本文内容由[Viola Beach](https://zh.wikipedia.org/wiki/Viola Beach)转换而来。
+> 本文内容由[Viola Beach](https://zh.wikipedia.org/wiki/Viola_Beach)转换而来。
 
 
 **Viola Beach**是一支[英國獨立流行音樂樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")，在2013年組成，最後成員為克里斯‧伦纳德（Kris Leonard，結他手及主唱）、里弗‧里夫斯（River Reeves，結他手）、湯馬士·洛（Tomas Lowe，男低音）和杰克‧戴金（Jack Dakin，鼓手）。四名成員以及其經理人於2016年2月13日在[瑞典](../Page/瑞典.md "wikilink")的一場交通意外中全部身亡\[1\]\[2\]\[3\]\[4\]\[5\]。

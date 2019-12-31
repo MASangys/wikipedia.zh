@@ -1,3 +1,6 @@
+> 本文内容由[Gashina](https://zh.wikipedia.org/wiki/Gashina)转换而来。
+
+
 **《Gashina》**（）為韓國歌手[善美的一首單曲](https://zh.wikipedia.org/wiki/善美 "wikilink")，此單曲由MakeUS娛樂在2017年8月22日發行\[1\]。
 
 ## 發行背景

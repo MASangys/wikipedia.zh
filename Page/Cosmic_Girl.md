@@ -1,3 +1,6 @@
+> 本文内容由[Cosmic Girl](https://zh.wikipedia.org/wiki/Cosmic_Girl)转换而来。
+
+
 **柳珠伊**（，，），出道時藝名為**珠伊**（，），退出[RANIA](../Page/RANIA.md "wikilink")後改為**Cosmic Girl**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為DR Music旗下女子組合[RANIA](../Page/RANIA.md "wikilink")的主唱擔當，並於2014年5月至10月期間兼任隊長。現為[RBW娛樂旗下Solo藝人](../Page/Rainbow_Bridge_World.md "wikilink")。
 
 出道前，曾以**U주**（）身份發行OST。曾為[YG娛樂](../Page/YG娛樂.md "wikilink")練習生及[2NE1](../Page/2NE1.md "wikilink")預備成員\[1\]。

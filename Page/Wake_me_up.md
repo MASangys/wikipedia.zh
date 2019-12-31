@@ -1,3 +1,6 @@
+> 本文内容由[Wake me up](https://zh.wikipedia.org/wiki/Wake_me_up)转换而来。
+
+
 《**Wake me up**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第2張DVD單曲。於2014年2月26日透過[NORTHERN MUSIC發行](../Page/NORTHERN_MUSIC.md "wikilink")。
 
 ## 概述

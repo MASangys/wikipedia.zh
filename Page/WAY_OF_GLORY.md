@@ -1,3 +1,6 @@
+> 本文内容由[WAY OF GLORY](https://zh.wikipedia.org/wiki/WAY_OF_GLORY)转换而来。
+
+
 《**WAY OF GLORY**》是[AAA的第](../Page/AAA_\(團體\).md "wikilink")11張原創專輯。於2017年2月22日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

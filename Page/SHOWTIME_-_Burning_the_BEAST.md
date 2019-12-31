@@ -1,3 +1,6 @@
+> 本文内容由[SHOWTIME - Burning the BEAST](https://zh.wikipedia.org/wiki/SHOWTIME_-_Burning_the_BEAST)转换而来。
+
+
 **SHOWTIME - Burning the BEAST**（）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")频道于2014年4月10日至2014年7月17日播出的[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")，由[男子组合](../Page/男子音乐组合.md "wikilink")[BEAST担当主角](https://zh.wikipedia.org/wiki/BEAST "wikilink")。\[1\]节目同第一季的[EXO's SHOWTIME一样](../Page/EXO's_SHOWTIME.md "wikilink")，包括回答粉丝们的问题，以及做各种任务。[男子组合](../Page/男子音乐组合.md "wikilink")[BEAST被选为第二季的主角](https://zh.wikipedia.org/wiki/BEAST "wikilink")。第3集[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")[李准特别出演](../Page/李準_\(歌手\).md "wikilink")。
 
 ## 演出成员

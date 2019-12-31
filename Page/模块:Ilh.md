@@ -1,3 +1,6 @@
+> 本文内容由[模块:Ilh](https://zh.wikipedia.org/wiki/模块:Ilh)转换而来。
+
+
 local ilh = {} local getArgs local yesno = require('Module:Yesno')
 
 local args --local frameArgs local COMMON_TAIL='</span>' local MODEL={

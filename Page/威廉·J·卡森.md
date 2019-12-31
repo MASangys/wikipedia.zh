@@ -1,3 +1,6 @@
+> 本文内容由[威廉·J·卡森](https://zh.wikipedia.org/wiki/威廉·J·卡森)转换而来。
+
+
 **威廉·J·卡森**（；\[1\]），是美國的[民主黨政治人物](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，前[密苏里州参议院議員](https://zh.wikipedia.org/wiki/密苏里州参议院 "wikilink")。
 
 ## 生平

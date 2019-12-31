@@ -1,3 +1,6 @@
+> 本文内容由[Global Warning巡迴演唱會](https://zh.wikipedia.org/wiki/Global_Warning巡迴演唱會)转换而来。
+
+
 **Global Warning巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG第一次舉辦的亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，該巡演共造訪5個國家11座城市，共動員20萬名歌迷進場觀賞。\[1\]
 
 ## 演唱歌單

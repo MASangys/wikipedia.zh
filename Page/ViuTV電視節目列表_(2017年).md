@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV電視節目列表 \(2017年\)](https://zh.wikipedia.org/wiki/ViuTV電視節目列表_\(2017年\))转换而来。
+
+
 本條目列出2017年於[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")播出的電視節目（只限綜藝及資訊節目）。
 
 除特別註明外，所有節目均為高清製作。
@@ -3060,7 +3063,7 @@ University Secrets</p></td>
 Local Gingers</p></td>
 <td style="text-align: center;"><p>4<br />
 (26)</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黃天頤.md" title="wikilink">黃天頤</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/local-gingers">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong></p></td>
 </tr>
@@ -3146,7 +3149,7 @@ ATP 17 Highlights 2017</p></td>
 Local Gingers</p></td>
 <td style="text-align: center;"><p>22<br />
 (26)</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黃天頤.md" title="wikilink">黃天頤</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/local-gingers">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
 10月14日改為12:30-13:00播出</p></td>

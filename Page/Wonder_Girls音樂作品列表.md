@@ -1,3 +1,6 @@
+> 本文内容由[Wonder Girls音樂作品列表](https://zh.wikipedia.org/wiki/Wonder_Girls音樂作品列表)转换而来。
+
+
 韓國女子組合[Wonder Girls迄今共發行](../Page/Wonder_Girls.md "wikilink")3張正規專輯、4張迷你專輯、2張精選輯及18張單曲。
 
 ## 專輯

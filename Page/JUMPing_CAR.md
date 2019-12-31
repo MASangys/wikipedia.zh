@@ -1,4 +1,4 @@
-> 本文内容由[JUMPing CAR](https://zh.wikipedia.org/wiki/JUMPing CAR)转换而来。
+> 本文内容由[JUMPing CAR](https://zh.wikipedia.org/wiki/JUMPing_CAR)转换而来。
 
 
 《**JUMPing CAR**》是[Hey\! Say\! JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")4張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年6月24日由[J Storm發售](../Page/J_Storm.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·H·博伊德 \(政治人物\)](https://zh.wikipedia.org/wiki/詹姆斯·H·博伊德_\(政治人物\))转换而来。
+
+
 **詹姆斯·H·「吉米」·博伊德**（，）是一名[大西洋城](../Page/大西洋城.md "wikilink")[政客和犯罪](https://zh.wikipedia.org/wiki/政客 "wikilink")，他為腐敗的[大西洋縣](../Page/大西洋縣.md "wikilink")[伊努·L·強森](../Page/伊努·L·強森.md "wikilink")和[新澤西州參議員](https://zh.wikipedia.org/wiki/新澤西州參議院 "wikilink")[法蘭克·S·法利](../Page/法蘭克·S·法利.md "wikilink")工作。
 
 ## 早年

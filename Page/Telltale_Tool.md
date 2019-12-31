@@ -1,4 +1,4 @@
-> 本文内容由[Telltale Tool](https://zh.wikipedia.org/wiki/Telltale Tool)转换而来。
+> 本文内容由[Telltale Tool](https://zh.wikipedia.org/wiki/Telltale_Tool)转换而来。
 
 
 **Telltale Tool**是[诉说游戏公司以](https://zh.wikipedia.org/wiki/诉说游戏 "wikilink")[Lua](../Page/Lua.md "wikilink")脚本语言自主开发的[游戏引擎](../Page/游戏引擎.md "wikilink")。\[1\]它採用可移植設計，使得诉说游戏能够同时在多个平台发布和更新游戏。\[2\]

@@ -1,4 +1,4 @@
-> 本文内容由[Gossip Girl \(Rainbow迷你專輯\)](https://zh.wikipedia.org/wiki/Gossip Girl \(Rainbow迷你專輯\))转换而来。
+> 本文内容由[Gossip Girl \(Rainbow迷你專輯\)](https://zh.wikipedia.org/wiki/Gossip_Girl_\(Rainbow迷你專輯\))转换而来。
 
 
 「**Gossip Girl**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow的首張迷你專輯](https://zh.wikipedia.org/wiki/Rainbow "wikilink")。2009年11月12日由[DSP Media發售](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。以專輯同名歌曲「Gossip Girl」為派台歌、「Not your Girl」為第二派台歌。2011年Rainbow於日本出道，重新填上日語歌詞，並以單曲形式推出。

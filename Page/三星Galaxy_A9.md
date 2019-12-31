@@ -1,4 +1,4 @@
-> 本文内容由[三星Galaxy A9](https://zh.wikipedia.org/wiki/三星Galaxy A9)转换而来。
+> 本文内容由[三星Galaxy A9](https://zh.wikipedia.org/wiki/三星Galaxy_A9)转换而来。
 
 
 **三星Galaxy A9 (2016)**是[三星電子](../Page/三星電子.md "wikilink")製造的[Android](../Page/Android.md "wikilink")中階旗艦智慧型手機\[1\]，於2016年1月，與三星Galaxy A3（2016）、[三星Galaxy A5（2016）還有三星](../Page/三星Galaxy_A5_\(2016\).md "wikilink")[Galaxy A7（2016）同時發布](../Page/三星Galaxy_A7_\(2016\).md "wikilink")，運行Android 5.1.1 Lollipop作業系統。這台智慧型手機搭載了高通 [驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink") 652 SoC，由 4個ARM Cortex-A72 和 4個ARM Cortex-A53 核心、Adreno510 GPU、3 GB的記憶體和32 GB儲存空間組成，最大可以擴充到128 GB的MicroSD記憶卡，電池為不可拆卸式4000mAh，支援快充。另外，這款手機並未在台灣上市。\[2\]\[3\]

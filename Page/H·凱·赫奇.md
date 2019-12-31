@@ -1,3 +1,6 @@
+> 本文内容由[H·凱·赫奇](https://zh.wikipedia.org/wiki/H·凱·赫奇)转换而来。
+
+
 **小哈里·凱·赫奇**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[艾奥瓦州参议院議員](https://zh.wikipedia.org/wiki/艾奥瓦州参议院 "wikilink")。
 
 ## 生平

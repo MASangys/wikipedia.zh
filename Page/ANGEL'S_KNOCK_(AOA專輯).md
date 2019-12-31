@@ -1,3 +1,6 @@
+> 本文内容由[ANGEL\'S KNOCK \(AOA專輯\)](https://zh.wikipedia.org/wiki/ANGEL\'S_KNOCK_\(AOA專輯\))转换而来。
+
+
 《**Angel's Knock**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[AOA首張正規專輯](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，於2017年1月2日發行。
 
 ## 簡介

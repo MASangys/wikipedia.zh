@@ -1,4 +1,4 @@
-> 本文内容由[Gentlemen\'s Game](https://zh.wikipedia.org/wiki/Gentlemen\'s Game)转换而来。
+> 本文内容由[Gentlemen\'s Game](https://zh.wikipedia.org/wiki/Gentlemen\'s_Game)转换而来。
 
 
 《**Gentlemen's Game**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM的第](https://zh.wikipedia.org/wiki/2PM "wikilink")6張正規專輯，於2016年9月13日發行，主打曲為〈Promise (I'll Be)〉。

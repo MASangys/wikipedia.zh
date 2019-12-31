@@ -1,4 +1,4 @@
-> 本文内容由[Sony Channel \(亞洲\)](https://zh.wikipedia.org/wiki/Sony Channel \(亞洲\))转换而来。
+> 本文内容由[Sony Channel \(亞洲\)](https://zh.wikipedia.org/wiki/Sony_Channel_\(亞洲\))转换而来。
 
 
 **索尼台**是以傾向女性娛樂為主，專門播映荷里活熱門節目的新加坡电视頻道。索尼台提供劇集、喜劇、時尚生活及實境節目、電影。

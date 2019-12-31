@@ -1,4 +1,4 @@
-> 本文内容由[Two Yoo Project - Sugar Man](https://zh.wikipedia.org/wiki/Two Yoo Project - Sugar Man)转换而来。
+> 本文内容由[Two Yoo Project - Sugar Man](https://zh.wikipedia.org/wiki/Two_Yoo_Project_-_Sugar_Man)转换而来。
 
 
 《**Two Yoo Project - Sugar Man**》（）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的音樂綜藝節目\[1\]\[2\]，於2015年8月19日及8月26日以《Two Yoo Project - 尋找Sugar Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放；第三季將於2019年11月29日起，逢韓國時間星期五晚上9時開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜](../Page/金伊娜.md "wikilink")及[2NE1](../Page/2NE1.md "wikilink")成員[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。第三季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[金伊娜](../Page/金伊娜.md "wikilink")、[Heize](https://zh.wikipedia.org/wiki/Heize "wikilink")。

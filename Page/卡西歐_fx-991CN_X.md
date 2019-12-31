@@ -1,4 +1,4 @@
-> 本文内容由[卡西歐 fx-991CN X](https://zh.wikipedia.org/wiki/卡西歐 fx-991CN X)转换而来。
+> 本文内容由[卡西歐 fx-991CN X](https://zh.wikipedia.org/wiki/卡西歐_fx-991CN_X)转换而来。
 
 
 **卡西欧 fx-991CNX**是卡西欧公司在2014年6月24日发布的面向中文用户的科学函数计算器。这个型号的计算器用于取代原先的型号[卡西歐 fx-991ES PLUS](../Page/卡西歐_fx-991ES_PLUS.md "wikilink")，并在原型号上进行改进，增加了功能，提升了屏幕分辨率，将系统界面全部变为[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")（亦可以使用英文显示）和图形化，以方便用户使用。

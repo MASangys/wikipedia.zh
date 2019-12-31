@@ -1,4 +1,4 @@
-> 本文内容由[WWE 環球冠軍](https://zh.wikipedia.org/wiki/WWE 環球冠軍)转换而来。
+> 本文内容由[WWE 環球冠軍](https://zh.wikipedia.org/wiki/WWE_環球冠軍)转换而来。
 
 
 [Finn_Balor_Wm31Axxess.jpg](https://zh.wikipedia.org/wiki/File:Finn_Balor_Wm31Axxess.jpg "fig:Finn_Balor_Wm31Axxess.jpg")\]\]

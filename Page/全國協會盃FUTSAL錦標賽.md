@@ -1,3 +1,6 @@
+> 本文内容由[全國協會盃FUTSAL錦標賽](https://zh.wikipedia.org/wiki/全國協會盃FUTSAL錦標賽)转换而来。
+
+
 {{ infobox football tournament | current = | logo = | founded = 2016年 | number of teams = | region =  | current champions = 男子組︰嘉義縣
 U13男︰文化國小(台南)
 U13女︰尖山國小(苗栗) | most successful club = 男子組︰[銘傳大學足球隊](../Page/銘傳大學足球隊.md "wikilink")（5 次） | no_of_titles = | website = }} **全國協會盃FUTSAL錦標賽**是一項[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[五人制足球競賽](https://zh.wikipedia.org/wiki/室内五人足球 "wikilink")，由[中華民國足球協會](../Page/中華民國足球協會.md "wikilink")主辦，前名為全國協會盃少年FUTSAL錦標賽，第一屆賽事共有26隊參賽。第二屆增設了社會組，並改名為全國協會盃FUTSAL錦標賽，共有47隊參賽。。
@@ -31,9 +34,7 @@ U13女︰尖山國小(苗栗) | most successful club = 男子組︰[銘傳大學
 [Category:台灣足球賽事](https://zh.wikipedia.org/wiki/Category:台灣足球賽事 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

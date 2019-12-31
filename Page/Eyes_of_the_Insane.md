@@ -1,4 +1,4 @@
-> 本文内容由[Eyes of the Insane](https://zh.wikipedia.org/wiki/Eyes of the Insane)转换而来。
+> 本文内容由[Eyes of the Insane](https://zh.wikipedia.org/wiki/Eyes_of_the_Insane)转换而来。
 
 
 《****》（有“疯人之眼”之意）是[美国](../Page/美国音乐.md "wikilink")[敲击金属](../Page/敲击金属.md "wikilink")乐队[超级杀手合唱团](https://zh.wikipedia.org/wiki/超级杀手合唱团 "wikilink")2006年的一首歌曲，收录在同年专辑唱片《基督幻觉》中。歌词内容源于《[德克萨斯月刊](https://zh.wikipedia.org/wiki/德克萨斯月刊 "wikilink")》杂志上一篇题为《战争伤亡》的文章，其中探讨了一位美国军人从[伊拉克战场回国后感受到的精神痛苦](../Page/伊拉克战争.md "wikilink")。《》由歌手汤姆·阿拉亚创作，当时《基督幻觉》正在进行前期制作。这首歌得到乐评人的普遍好评，在丹麦单曲排行榜最高排到第15名。

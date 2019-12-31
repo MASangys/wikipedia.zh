@@ -1,3 +1,6 @@
+> 本文内容由[機甲少女 Frame Arms Girl](https://zh.wikipedia.org/wiki/機甲少女_Frame_Arms_Girl)转换而来。
+
+
 是由[島田文金](../Page/島田文金.md "wikilink")擔任人物原案，將[柳瀨敬之](../Page/柳瀨敬之.md "wikilink")設計的機器人模型《Frame Arms》改編為[美少女](../Page/美少女.md "wikilink")形象的塑膠模型系列，發行商為[壽屋](../Page/壽屋.md "wikilink")。漫畫版自《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》2017年2月號開始連載\[1\]，[電視動畫在](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年4月開始播出\[2\]。2018年3月25日在「AnimeJapan 2018」發表續編製作決定\[3\]。2018年7月30日宣布劇場版動畫製作決定\[4\]，2019年7月21日上映。
 
 模型系列分為地球防衛機構和月面兩個陣營，地球防衛機構人物設計由島田文金負責，月面則是由[駒都英二](../Page/駒都英二.md "wikilink")設計。

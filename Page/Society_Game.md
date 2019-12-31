@@ -1,3 +1,6 @@
+> 本文内容由[Society Game](https://zh.wikipedia.org/wiki/Society_Game)转换而来。
+
+
 《**Society Game**》（），是韓國[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目\[1\]，此節目由心理戰遊戲綜藝節目《[The Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](https://zh.wikipedia.org/wiki/鄭中淵 "wikilink")\[2\]。由製作單位挑選22名參賽者\[3\]一起合宿2周，期間有許多遊戲將會進行。生存到最後的玩家最多可獲得一億五千萬韓圓獎金。
 
 除此之外，製作單位亦會於進行中增加改變之設定(詳見下方特殊事件)，使村莊結構有所改變。

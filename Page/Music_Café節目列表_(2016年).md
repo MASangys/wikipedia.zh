@@ -1,4 +1,4 @@
-> 本文内容由[Music Café節目列表 \(2016年\)](https://zh.wikipedia.org/wiki/Music Café節目列表 \(2016年\))转换而来。
+> 本文内容由[Music Café節目列表 \(2016年\)](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2016年\))转换而来。
 
 
 <div id="contentSub">

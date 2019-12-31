@@ -1,4 +1,4 @@
-> 本文内容由[Reality \(INFINITE迷你專輯\)](https://zh.wikipedia.org/wiki/Reality \(INFINITE迷你專輯\))转换而来。
+> 本文内容由[Reality \(INFINITE迷你專輯\)](https://zh.wikipedia.org/wiki/Reality_\(INFINITE迷你專輯\))转换而来。
 
 
 《**Reality**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第五張韓語迷你專輯，於2015年7月13日發行\[1\]，主打曲為《Bad》。

@@ -1,3 +1,6 @@
+> 本文内容由[DNSCurve](https://zh.wikipedia.org/wiki/DNSCurve)转换而来。
+
+
 **DNSCurve**是设计的一种[域名系统](../Page/域名系统.md "wikilink")（DNS）的新安全协议。
 
 ## 描述

@@ -1,3 +1,6 @@
+> 本文内容由[Love Panic！](https://zh.wikipedia.org/wiki/Love_Panic！)转换而来。
+
+
 《**Love Panic！**》（）是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[高橋洋子](../Page/高橋洋子.md "wikilink")的單曲。1993年10月21日由[環球唱片（舊名Kitty Record）發行](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 解說

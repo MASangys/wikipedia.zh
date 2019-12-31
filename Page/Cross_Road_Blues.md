@@ -1,4 +1,4 @@
-> 本文内容由[Cross Road Blues](https://zh.wikipedia.org/wiki/Cross Road Blues)转换而来。
+> 本文内容由[Cross Road Blues](https://zh.wikipedia.org/wiki/Cross_Road_Blues)转换而来。
 
 
 《》（参考译名《十字路口布鲁斯》，常简称为《》）是一首藍調歌曲，由美国布鲁斯艺人[罗伯特·约翰逊](../Page/罗伯特·约翰逊.md "wikilink")创作和录制于1936年。约翰逊单人弹唱，使用一把[原声吉他演奏](https://zh.wikipedia.org/wiki/原声吉他 "wikilink")[滑音管吉他](../Page/滑音管吉他.md "wikilink")技巧，以[三角洲藍調](../Page/三角洲藍調.md "wikilink")风格表演该曲。这首歌已成为了罗伯特·约翰逊传说的一部分，传说中他为获得音乐才藝向魔鬼出卖灵魂，而歌曲中的十字路口被认为是他出卖灵魂的地点，尽管歌词没有包含任何明确的线索。

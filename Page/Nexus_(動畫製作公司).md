@@ -1,3 +1,6 @@
+> 本文内容由[Nexus \(動畫製作公司\)](https://zh.wikipedia.org/wiki/Nexus_\(動畫製作公司\))转换而来。
+
+
 **株式會社Nexus**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 首部總承包製作的電視動畫為2015年7月播放的《[若葉女孩](../Page/若葉女孩.md "wikilink")》\[1\]。此外，Nexus經常協助攝影及製作[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、[SILVER LINK.和](../Page/SILVER_LINK..md "wikilink")[P.A. Works的動畫作品](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]\[3\]。

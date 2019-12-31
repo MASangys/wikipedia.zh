@@ -1,4 +1,4 @@
-> 本文内容由[I Wanna Know](https://zh.wikipedia.org/wiki/I Wanna Know)转换而来。
+> 本文内容由[I Wanna Know](https://zh.wikipedia.org/wiki/I_Wanna_Know)转换而来。
 
 
 《**I Wanna Know**》是瑞典音樂人[艾利索](../Page/艾利索.md "wikilink")的一支單曲，該歌曲由臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")演唱，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2016年9月30日發行\[1\]；該歌曲於[Hit FM年度百首單曲排行榜位居第](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")25名\[2\]。

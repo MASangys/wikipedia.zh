@@ -1,3 +1,6 @@
+> 本文内容由[My Boo \(Ghost Town DJ\'s歌曲\)](https://zh.wikipedia.org/wiki/My_Boo_\(Ghost_Town_DJ\'s歌曲\))转换而来。
+
+
 "**My Boo**" 是[美國嘻哈團體Ghost](https://zh.wikipedia.org/wiki/美國 "wikilink") Town DJ's所發行的單曲。並收錄於“ So So Def Bass All-Stars”專輯當中，由[杰梅因·杜普里](../Page/杰梅因·杜普里.md "wikilink")的So So Def音樂製作公司和[哥倫比亞唱片共同發行](https://zh.wikipedia.org/wiki/哥倫比亞唱片 "wikilink")。
 
 ## 奔跑舞挑戰

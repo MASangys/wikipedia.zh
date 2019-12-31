@@ -1,3 +1,6 @@
+> 本文内容由[UEC杯世界電腦圍棋大會](https://zh.wikipedia.org/wiki/UEC杯世界電腦圍棋大會)转换而来。
+
+
 **UEC杯世界電腦圍棋大會**（）[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[電氣通信大學](../Page/電氣通信大學.md "wikilink")（UEC）舉办的世界電腦[圍棋錦標賽](https://zh.wikipedia.org/wiki/圍棋 "wikilink")\[1\]，自2007年起每年舉辦。冠亚軍可以與職業圍棋選手進行比賽。
 
 UEC杯世界電腦圍棋大會首日進行預賽，積分前16位的圍棋程-{zh-cn:序;zh-tw:式;}-入圍第2天的單敗淘汰賽。

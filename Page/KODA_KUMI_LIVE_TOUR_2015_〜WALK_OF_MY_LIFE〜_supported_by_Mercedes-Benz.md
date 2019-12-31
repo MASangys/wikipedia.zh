@@ -1,4 +1,4 @@
-> 本文内容由[KODA KUMI LIVE TOUR 2015 〜WALK OF MY LIFE〜 supported by Mercedes-Benz](https://zh.wikipedia.org/wiki/KODA KUMI LIVE TOUR 2015 〜WALK OF MY LIFE〜 supported by Mercedes-Benz)转换而来。
+> 本文内容由[KODA KUMI LIVE TOUR 2015 〜WALK OF MY LIFE〜 supported by Mercedes-Benz](https://zh.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2015_〜WALK_OF_MY_LIFE〜_supported_by_Mercedes-Benz)转换而来。
 
 
 《KODA KUMI LIVE TOUR 2015 〜WALK OF MY LIFE〜 supported by Mercedes-Benz》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年於日本舉辦的巡迴演唱會。

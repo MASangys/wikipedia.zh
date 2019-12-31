@@ -1,3 +1,6 @@
+> 本文内容由[LRGB](https://zh.wikipedia.org/wiki/LRGB)转换而来。
+
+
 [Deep_View_of_the_Large_and_Small_Magellanic_Clouds.jpg](https://zh.wikipedia.org/wiki/File:Deep_View_of_the_Large_and_Small_Magellanic_Clouds.jpg "fig:Deep_View_of_the_Large_and_Small_Magellanic_Clouds.jpg") [Eagle_Nebula_M16_LRGB_Composite.jpg](https://zh.wikipedia.org/wiki/File:Eagle_Nebula_M16_LRGB_Composite.jpg "fig:Eagle_Nebula_M16_LRGB_Composite.jpg")LRGB影像。\]\] **LRGB**，即Luminance（[亮度](https://zh.wikipedia.org/wiki/亮度 "wikilink")）、Red（紅光）、Green（綠光）、Blue（藍光）的縮寫，是[業餘天文學](../Page/業餘天文學.md "wikilink")的一項攝影技術，該技術是將高解析度的與較低解析度的彩色影像融合，以產生高品質的彩色影像\[1\]。
 
 ## 概要

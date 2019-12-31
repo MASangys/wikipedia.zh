@@ -1,3 +1,6 @@
+> 本文内容由[Minstrellus](https://zh.wikipedia.org/wiki/Minstrellus)转换而来。
+
+
 ***Minstrellus***是[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蛺蜆蝶族](../Page/蛺蜆蝶族.md "wikilink")裡的一個屬，尚無正式中文學名命名。共有4個物種，從[澤蜆蝶屬](../Page/澤蜆蝶屬.md "wikilink")分離成新屬，分佈於亞馬遜西部\[1\]。
 
 ## 物種

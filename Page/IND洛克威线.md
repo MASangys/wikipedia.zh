@@ -1,3 +1,6 @@
+> 本文内容由[IND洛克威线](https://zh.wikipedia.org/wiki/IND洛克威线)转换而来。
+
+
 **洛克威線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND分部的](../Page/獨立地鐵系統.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")線，在[皇后區](../Page/皇后區.md "wikilink")營運。此線在[IND福爾頓街線的](https://zh.wikipedia.org/wiki/IND福爾頓街線 "wikilink")[洛克威林蔭路分岔](https://zh.wikipedia.org/wiki/洛克威林蔭路車站_\(IND福爾頓街線\) "wikilink")，橫過[牙買加灣進入](https://zh.wikipedia.org/wiki/牙買加灣 "wikilink")。[A線列車在](../Page/紐約地鐵A線.md "wikilink")[遠洛克威-莫特大道支線及三角線以北](https://zh.wikipedia.org/wiki/遠洛克威-莫特大道車站_\(IND洛克威線\) "wikilink")\[1\]。[洛克威公園接駁線](../Page/洛克威公園接駁線.md "wikilink")來往[寬水道及](https://zh.wikipedia.org/wiki/寬水道車站_\(IND洛克威線\) "wikilink")[洛克威公園-海灘116街](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")。繁伭時段有5班A線列車提供來往洛克威公園及[曼哈頓](../Page/曼哈頓.md "wikilink")。
 
 此線在1880年以紐約、伍德哈文及洛克威鐵路名義興建。1877年公司化，路線希望紓緩洛克威的海灘度假區，比南側鐵路節省行車時間30分鐘。鐵路在1887年賣給長島鐵路，而列車則開始使用支線經連往舊遠洛克威支線的連接線服務遠洛克威。長島鐵路自該年開始使用該支線。伍德哈文交匯以南的路線在1905年電氣化。通過牙買加灣的木製支架經常發生火災。1950年5月7日發生大火令路線中斷，但長島鐵路已經破產，因此並無恢復路線服務。

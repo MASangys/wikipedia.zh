@@ -1,3 +1,6 @@
+> 本文内容由[BLEACH 漂靈：劇場版－地獄篇](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－地獄篇)转换而来。
+
+
 《**BLEACH 死神劇場版 地獄篇**》（）是於2010年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH 死神](../Page/BLEACH.md "wikilink")》的2010年上映[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")4作。
 
 ## 故事簡介

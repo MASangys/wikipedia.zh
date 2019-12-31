@@ -1,3 +1,6 @@
+> 本文内容由[Z:ON](https://zh.wikipedia.org/wiki/Z:ON)转换而来。
+
+
 **Z:ON**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")2人男子組合\[1\]，成員Khan和Gyeom均為2016年解散的組合[ZPZG前成員](https://zh.wikipedia.org/wiki/ZPZG "wikilink")\[2\]\[3\]，於2016年8月6日發行數位單曲《a second side》（）出道\[4\]。
 
 2016年6月Z:ON已經在日本舉行見面會\[5\]，並於同年9月舉行演唱會《A Second Side》\[6\]；11月9日發行首張同名日語單曲《A Second Side》。

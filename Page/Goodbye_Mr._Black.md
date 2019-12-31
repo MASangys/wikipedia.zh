@@ -1,4 +1,4 @@
-> 本文内容由[Goodbye Mr. Black](https://zh.wikipedia.org/wiki/Goodbye Mr. Black)转换而来。
+> 本文内容由[Goodbye Mr. Black](https://zh.wikipedia.org/wiki/Goodbye_Mr._Black)转换而来。
 
 
 《**Goodbye Mr. Black**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月16日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[文彩元](../Page/文彩元.md "wikilink")、[金剛-{于}-](../Page/金剛于.md "wikilink")、[宋再臨](../Page/宋再臨.md "wikilink")及-{[柳仁英](../Page/柳仁英.md "wikilink")}-主演。此劇改編自同名網路漫畫，概念来自《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》，由《[想你](../Page/想你.md "wikilink")》、《[能聽見我的心嗎？](../Page/能聽見我的心嗎？.md "wikilink")》、《[心情好的日子](../Page/心情好的日子.md "wikilink")》的[文熙貞作家執筆和曾執導](https://zh.wikipedia.org/wiki/文熙貞 "wikilink")《[Dr. JIN](../Page/Dr._JIN.md "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》的[韓熙](../Page/韓熙.md "wikilink")導演合作。

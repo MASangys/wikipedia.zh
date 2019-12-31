@@ -1,3 +1,6 @@
+> 本文内容由[Kratos \(VIXX迷你專輯\)](https://zh.wikipedia.org/wiki/Kratos_\(VIXX迷你專輯\))转换而来。
+
+
 《**Kratos**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")第3張迷你韓語專輯，於2016年10月31日發行，主打歌曲為《The Closer》\[1\]。
 
 ## 背景

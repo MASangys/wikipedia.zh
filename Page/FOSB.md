@@ -1,3 +1,6 @@
+> 本文内容由[FOSB](https://zh.wikipedia.org/wiki/FOSB)转换而来。
+
+
 **FBJ murine osteosarcoma viral oncogene homolog B**,又名為**FOSB** 或 **FosB**，是一個在人體中由*FOSB* [基因](../Page/基因.md "wikilink")編碼（encoded）的[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。 \[1\]\[2\]\[3\]FOS 基因家族由四個成員組成：、 FOSB、 、和。 這些基因組成（encode） [亮氨酸拉链](../Page/亮氨酸拉链.md "wikilink")（leucine zipper）[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。這種蛋白質可以與 這個蛋白質及其家族 (e.g., 、) [二聚體化](https://zh.wikipedia.org/wiki/二聚體 "wikilink")（dimerize），然後形成[转录因子](../Page/转录因子.md "wikilink")（transcription factor）綜合區－[AP-1转录因子](../Page/AP-1转录因子.md "wikilink")。
 
 如同這些，FOS蛋白質就被表示成關於細胞增加、細胞差異化、細胞轉型的調節者。 \[4\]
@@ -31,12 +34,8 @@ FosB与其[選擇性剪接形成的产物](https://zh.wikipedia.org/wiki/選擇�
 [Category:Addiction](https://zh.wikipedia.org/wiki/Category:Addiction "wikilink") [Category:Oncogenes](https://zh.wikipedia.org/wiki/Category:Oncogenes "wikilink") [Category:Transcription_factors](https://zh.wikipedia.org/wiki/Category:Transcription_factors "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.

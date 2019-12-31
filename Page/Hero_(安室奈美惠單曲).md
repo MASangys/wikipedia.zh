@@ -1,4 +1,4 @@
-> 本文内容由[Hero \(安室奈美惠單曲\)](https://zh.wikipedia.org/wiki/Hero \(安室奈美惠單曲\))转换而来。
+> 本文内容由[Hero \(安室奈美惠單曲\)](https://zh.wikipedia.org/wiki/Hero_\(安室奈美惠單曲\))转换而来。
 
 
 《**Hero**》為[日本](../Page/日本.md "wikilink")歌手安室奈美惠以個人單獨名義於2016年7月27日發行的第45張單曲，透過[Avex trax與安室的個人廠牌Dimension](../Page/Avex_trax.md "wikilink") Point發行。歌曲由音樂製作人與Sunny Boy作曲、填詞與編曲，並由後者負責製作。《Hero》是一首結合[舞曲](../Page/舞曲.md "wikilink")音樂元素的[流行曲](../Page/流行_\(音樂類型\).md "wikilink")，歌詞主要環繞勇氣和勝利等主題。

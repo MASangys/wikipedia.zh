@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Pay](https://zh.wikipedia.org/wiki/Microsoft_Pay)转换而来。
+
+
 **Microsoft Pay**是Microsoft行動支付和數位電子錢包服務，允許用戶在某些裝置上付款和存儲會員卡。 目前支持使用Microsoft Lumia 950，Lumia 950 XL和Lumia 650進行付款。Microsoft電子錢包不需要Microsoft電子錢包特定的非接觸式付款終端，並且可以與現有的非接觸式終端配合使用。\[1\] 與[Google Pay類似](../Page/Google_Pay.md "wikilink")，Microsoft Wallet使用主機卡仿真（HCE）進行店內付款。\[2\]
 
 ## 歷史

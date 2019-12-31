@@ -1,3 +1,6 @@
+> 本文内容由[BEJ48發行作品列表](https://zh.wikipedia.org/wiki/BEJ48發行作品列表)转换而来。
+
+
 **BEJ48發行作品列表**列出[BEJ48歷年來發行的EP](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、專輯和DVD。
 
 ## 元气觉醒

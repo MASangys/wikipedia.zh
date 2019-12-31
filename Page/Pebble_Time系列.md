@@ -1,4 +1,4 @@
-> 本文内容由[Pebble Time系列](https://zh.wikipedia.org/wiki/Pebble Time系列)转换而来。
+> 本文内容由[Pebble Time系列](https://zh.wikipedia.org/wiki/Pebble_Time系列)转换而来。
 
 
 **Pebble Time** 系列由[Pebble](../Page/Pebble.md "wikilink")公司在2015年5月14日发布的智能手表系列。这个系列相对于第一代pebble旧产品新增了彩色e-paper屏幕和麦克风，并在充电口上做出了一系列调整，与之一起发布的还有被称为“Time-optimized”的新系统。\[1\]

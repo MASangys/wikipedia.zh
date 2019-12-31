@@ -1,3 +1,6 @@
+> 本文内容由[STARTING NOW！](https://zh.wikipedia.org/wiki/STARTING_NOW！)转换而来。
+
+
 《**STARTING NOW！**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")兼任作詞的第34張單曲。藤田卓也作曲。2016年7月13日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 單曲概要、音樂性

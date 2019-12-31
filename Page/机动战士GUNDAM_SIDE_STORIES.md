@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM SIDE STORIES](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SIDE_STORIES)转换而来。
+
+
 是[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")在2014年5月29日于[PlayStation 3平台发售的动作游戏](../Page/PlayStation_3.md "wikilink")。有通常版和限定版（Limited Edition）两个版本。
 
 《SIDE STORIES》是自[机动战士高达外传 宇宙、闪光的尽头…发售](../Page/機動戰士GUNDAM外傳_宇宙、閃光的盡頭….md "wikilink")11年后的又一部[机动战士高达外传作品](https://zh.wikipedia.org/wiki/机动战士GUNDAM外传 "wikilink")，本作中收录有新作《MISSING LINK》和另外6部外传旧作。\[1\]

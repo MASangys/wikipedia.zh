@@ -1,3 +1,6 @@
+> 本文内容由[One of These Nights](https://zh.wikipedia.org/wiki/One_of_These_Nights)转换而来。
+
+
 [One of These Nights是老鹰乐队的第四张录音室专辑](../Page/One_of_These_Nights.md "wikilink")，于1975年发布。这张专辑是老鹰乐队第一张登公告牌第一名的专辑，此后老鹰乐队每张专辑都超过100万的销量。
 
 ## 背景

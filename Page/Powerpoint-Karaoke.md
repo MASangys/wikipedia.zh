@@ -1,3 +1,6 @@
+> 本文内容由[Powerpoint-Karaoke](https://zh.wikipedia.org/wiki/Powerpoint-Karaoke)转换而来。
+
+
 **PowerPoint Karaoke**，也被称作 **Battledecks** 或 **Battle Decks**，是一种即兴活动。参加者需根据一系列他们从未见过的幻灯片来进行展示。它的名字来源于 [Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink") 和 [卡拉OK](../Page/卡拉OK.md "wikilink")。这项活动是为了搞笑，也可以被当作是一种即兴剧场，或者是一种 [Theatresports](../Page/Theatresports.md "wikilink") 游戏。
 
 幻灯片可以使用真正的幻灯片也可以使用某种神秘话题，或者来自几个不同的幻灯片的毫无意义的组合，亦或是随意组合的幻灯片（比如用网上随意下载的图片加上无关的文字）。有时，在演讲之前会给一个主题，让演讲者牵强附会，把主题和幻灯片联系在一起。

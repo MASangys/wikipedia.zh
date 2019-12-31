@@ -1,3 +1,6 @@
+> 本文内容由[GP9型柴油机车](https://zh.wikipedia.org/wiki/GP9型柴油机车)转换而来。
+
+
 **GP9型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）于1954年推出的一款[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是易安迪公司的第二代“GP”系列四轴[干线调车机车](https://zh.wikipedia.org/wiki/干线调车机车 "wikilink")，主要竞争对象是[美国机车公司](../Page/美国机车公司.md "wikilink")的[RS-11](https://zh.wikipedia.org/wiki/RS-11型柴油机车 "wikilink")、[RS-18型柴油机车](https://zh.wikipedia.org/wiki/RS-18型柴油机车 "wikilink")。
 
 1949年，易安迪公司成功研制了新一代的[GP7型柴油机车](../Page/GP7型柴油机车.md "wikilink")。作为第一款GP系列四轴干线调车机车（“GP”是“General Purpose”的缩写，意为“通用”），这款1500马力的干线调车机车推出市场后立即受到各大铁路公司的欢迎，许多一级铁路公司乃至地方铁路公司都订购了该型机车。1954年1月，易安迪公司推出功率更大的GP9型柴油机车，作为GP7型柴油机车的换代产品。在GP9型柴油机车投产约五个月后，GP7型柴油机车亦在易安迪的产品目录中消失。GP9型柴油机车不仅延续了上一代的成功，其销量更是青出于蓝。同时，易安迪公司还在1954年推出了六轴版本的[SD9型柴油机车](../Page/SD9型柴油机车.md "wikilink")。GP9型柴油机车的后继产品则是1959年推出的[GP18型柴油机车](../Page/GP18型柴油机车.md "wikilink")。

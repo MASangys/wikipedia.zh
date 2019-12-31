@@ -1,3 +1,6 @@
+> 本文内容由[Teddy \(SpeXial\)](https://zh.wikipedia.org/wiki/Teddy_\(SpeXial\))转换而来。
+
+
 **陳向熙**（英文名：Teddy，），藝名**Teddy**，台灣男藝人。粉絲名為「蜂蜜」。曾參加上海模特選拔，是上海模特兒比賽出身，透過網路被星探發掘。此後成為台灣團體[SpeXial](../Page/SpeXial.md "wikilink")第二期前成員，與[晨翔](https://zh.wikipedia.org/wiki/晨翔 "wikilink")、[Evan於](../Page/Evan_\(SpeXial\).md "wikilink")2014年6月5日正式從SpeXial 出道。現為《[綜藝3國智](../Page/綜藝3國智.md "wikilink")》、《[完全娛樂](https://zh.wikipedia.org/wiki/完全娛樂 "wikilink")》的主持人。
 
 ## 音樂作品

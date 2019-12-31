@@ -1,4 +1,4 @@
-> 本文内容由[Jerry Holkins](https://zh.wikipedia.org/wiki/Jerry Holkins)转换而来。
+> 本文内容由[Jerry Holkins](https://zh.wikipedia.org/wiki/Jerry_Holkins)转换而来。
 
 
 **Jerry Holkins**，1976年2月6日在美国出生，与Mike Krahulik是漫画网站竹篙商场的主要作家。Holkins有时会使用Tycho Brahe为笔名，Holkins一分钱街机角色的名字。

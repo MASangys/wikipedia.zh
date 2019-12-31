@@ -1,3 +1,6 @@
+> 本文内容由[Uber Eats](https://zh.wikipedia.org/wiki/Uber_Eats)转换而来。
+
+
 [UberEats_cyclist_in_Amsterdam.jpg](https://zh.wikipedia.org/wiki/File:UberEats_cyclist_in_Amsterdam.jpg "fig:UberEats_cyclist_in_Amsterdam.jpg")的Uber Eats。\]\] **Uber Eats**是[Uber推出的一項餐飲外送服務](https://zh.wikipedia.org/wiki/Uber "wikilink")，[Uber第一个的延伸产品](https://zh.wikipedia.org/wiki/Uber "wikilink")，利用網路在幾十分鐘内提供餐飲外送服務\[1\]。
 
 Uber Eats与世界各地城市的当地餐廳合作，并讓使用者可以使用手机应用程序在線上订餐。

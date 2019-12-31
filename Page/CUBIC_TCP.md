@@ -1,3 +1,6 @@
+> 本文内容由[CUBIC TCP](https://zh.wikipedia.org/wiki/CUBIC_TCP)转换而来。
+
+
 **CUBIC**是一个为具有高带宽和高延迟的[长胖网络](https://zh.wikipedia.org/wiki/长胖网络 "wikilink")（LFN）优化的[TCP](../Page/传输控制协议.md "wikilink")[拥塞控制](../Page/拥塞控制.md "wikilink")实现。\[1\]
 
 它相比更加平缓和具有数学上的意义，其中的窗口大小是一个自上次拥塞事件以来的时间的[三次函数](https://zh.wikipedia.org/wiki/三次函数 "wikilink")，[拐点](../Page/拐点.md "wikilink")被设置为拥塞事件发生时的窗口大小。因为它是一个三次函数，所以它有两个阶段进行窗口增加。第一部分是一个[凹函数](../Page/凹函数.md "wikilink")，将窗口大小快速提升至最后拥塞事件发生时的大小。第二个部分为一个[凸函数](../Page/凸函数.md "wikilink")，CUBIC探针以较缓和的速度寻求更大的带宽。CUBIC会在凹凸增长区域花费大量时间，以允许网络在CUBIC开始寻求更多带宽前达到稳定。

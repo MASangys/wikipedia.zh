@@ -1,3 +1,6 @@
+> 本文内容由[K-pop Star 3](https://zh.wikipedia.org/wiki/K-pop_Star_3)转换而来。
+
+
 《**K-pop Star 3**》（）是[韓國電視台](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》綜藝時段中的一部[綜藝節目](../Page/綜藝節目.md "wikilink")，亦是K-pop Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 
 ## 播放時間
@@ -746,7 +749,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李彩燕" title="wikilink">李彩燕</a></p></td>
+<td><p><a href="../Page/李彩演.md" title="wikilink">李彩演</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -755,7 +758,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>李彩玲</p></td>
+<td><p>李彩領</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1002,7 +1005,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>李彩鈴</p></td>
+<td><p>李彩領</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1298,14 +1301,14 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>完全彩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李彩燕" title="wikilink">李彩燕</a></p></td>
+<td><p><a href="../Page/李彩演.md" title="wikilink">李彩演</a></p></td>
 <td><p><a href="../Page/高潤荷.md" title="wikilink">潤荷</a> - 彗星</p></td>
 <td><p>JYP</p></td>
 <td><p><strong>組合</strong>生存</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>李彩玲</p></td>
+<td><p>李彩領</p></td>
 <td></td>
 <td></td>
 <td></td>

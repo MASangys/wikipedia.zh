@@ -1,3 +1,6 @@
+> 本文内容由[SNL Korea](https://zh.wikipedia.org/wiki/SNL_Korea)转换而来。
+
+
 《**SNL Korea**》（），全称《**Saturday Night Live Korea**》（）是于2011年12月3日起在韩国[tvN电视台播出的喜剧直播节目](../Page/TVN.md "wikilink")。节目是从美国[NBC电视台引进了](../Page/全国广播公司.md "wikilink")《[Saturday Night Live](../Page/週六夜現場.md "wikilink")》的形式并制作，与原版的SNL一样每周由嘉宾出演节目并现场直播。第三季连续3期直播后，接下来的一期将播出前几期的精选部分。自第五季起，SNL Korea的观众年龄分级从19岁调整至15岁。
 
 ## 历史

@@ -1,4 +1,4 @@
-> 本文内容由[H2O Delirious](https://zh.wikipedia.org/wiki/H2O Delirious)转换而来。
+> 本文内容由[H2O Delirious](https://zh.wikipedia.org/wiki/H2O_Delirious)转换而来。
 
 
 **H2O Delirious**，本名喬納森（，\[1\]）美國籍Youtuber。截至2019年10月，其頻道已累積1200萬個訂閱者，在遊戲類頻道中排名第二十二。

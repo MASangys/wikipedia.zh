@@ -1,3 +1,6 @@
+> 本文内容由[ZFC系統無法確定的命題列表](https://zh.wikipedia.org/wiki/ZFC系統無法確定的命題列表)转换而来。
+
+
 **ZFC系統無法確定的命題列表**乃一數學命題列表。在[ZFC系統](../Page/策梅洛-弗兰克尔集合论.md "wikilink")（ZF公理加上[选择公理](../Page/选择公理.md "wikilink")，[公理化集合论](../Page/公理化集合论.md "wikilink")之典範）被假設為[相容的前提下](https://zh.wikipedia.org/wiki/一致性_\(邏輯\) "wikilink")，以下的[數學命題被證明了與ZFC系統彼此獨立](https://zh.wikipedia.org/wiki/數學 "wikilink")。與ZFC獨立（有時稱為在ZFC中不能確定）乃指該命題不能從ZFC的公理出發而被證明或證否。
 
 ## 公理化集合论

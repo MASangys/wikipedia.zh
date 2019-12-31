@@ -1,4 +1,4 @@
-> 本文内容由[2 Player Productions](https://zh.wikipedia.org/wiki/2 Player Productions)转换而来。
+> 本文内容由[2 Player Productions](https://zh.wikipedia.org/wiki/2_Player_Productions)转换而来。
 
 
 兩位玩家製作（2 Player Productions）為美國一間影片製作公司，總部設於[奧勒岡州](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink")[波特蘭](https://zh.wikipedia.org/wiki/波特蘭 "wikilink")，由Pawl Owens、Paul Levering、Asif Siddiky在2005年創立，公司主要製作遊戲文化以及遊戲製作過程的紀錄片。

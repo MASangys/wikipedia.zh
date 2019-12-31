@@ -1,3 +1,6 @@
+> 本文内容由[The Archies](https://zh.wikipedia.org/wiki/The_Archies)转换而来。
+
+
 **The Archies**是一個美國[虛擬](https://zh.wikipedia.org/wiki/虚拟团队 "wikilink")[車庫搖滾](../Page/車庫搖滾.md "wikilink")樂團，由美國電視卡通節目《[The Archie Show](https://zh.wikipedia.org/wiki/The_Archie_Show "wikilink")》裡的一群青少年卡通人物[Archie Andrews](../Page/阿奇·安德鲁.md "wikilink")、[Reggie Mantle](https://zh.wikipedia.org/wiki/Reggie_Mantle "wikilink")、[Jughead Jones](https://zh.wikipedia.org/wiki/Jughead_Jones "wikilink")、[Veronica Lodge](https://zh.wikipedia.org/wiki/维罗妮卡.罗姿 "wikilink")、[Betty Cooper組成](../Page/贝蒂·古柏.md "wikilink")。通過[虛擬樂團的形式](https://zh.wikipedia.org/wiki/虚拟团队 "wikilink")，該團體在現實世界也大獲成功。
 
 該虛擬樂團的音樂由[Ron Dante獻聲](https://zh.wikipedia.org/wiki/Ron_Dante "wikilink")，並發行一系列的單曲和專輯。該團體最成功的歌曲《[Sugar, Sugar](https://zh.wikipedia.org/wiki/Sugar,_Sugar "wikilink")》成為1968年至1972年間最熱門的口香糖音樂類型的歌曲之一\[1\]。

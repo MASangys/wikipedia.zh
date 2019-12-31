@@ -1,3 +1,6 @@
+> 本文内容由[INCS toenter](https://zh.wikipedia.org/wiki/INCS_toenter)转换而来。
+
+
 **株式會社INCS toenter**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 簡介

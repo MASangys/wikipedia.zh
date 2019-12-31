@@ -1,3 +1,6 @@
+> 本文内容由[Julie Is Her Name](https://zh.wikipedia.org/wiki/Julie_Is_Her_Name)转换而来。
+
+
 ***Julie Is Her Name*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第一張[密紋唱片](../Page/密紋唱片.md "wikilink")，由Liberty Records於1955年12月發行，目錄號為LRP-3006，為單聲道形式。 隨後重新處理立體聲專輯，這種立體聲版本於1960年5月25日發布，目錄號為LST-7037。\[1\] 專輯中的第一首單曲「[Cry Me A River](https://zh.wikipedia.org/wiki/Cry_Me_A_River "wikilink")(淚流成河)」受到極大的成功，廣為傳唱，也是她最知名的代表作，讓她成為50～60年代最受歡迎的[爵士樂女歌手](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。此曲的作者「Arthur Hamilton」是「Julie London」高中同學，有趣的是此曲原本是要讓黑人爵士名伶，有爵士第一夫人美譽的「Ella Fitzgarld」演唱，陰錯陽差下卻成為「茱莉倫敦」最知名的歌曲。
 
 ## 曲目

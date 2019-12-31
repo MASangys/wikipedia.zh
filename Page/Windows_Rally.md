@@ -1,3 +1,6 @@
+> 本文内容由[Windows Rally](https://zh.wikipedia.org/wiki/Windows_Rally)转换而来。
+
+
 **Windows Rally**是[微软](../Page/微软.md "wikilink")公司一套旨在简化有线和[无线](../Page/无线网络.md "wikilink")[网络互联](../Page/计算机网络.md "wikilink")[设备的设置与维护的技术](https://zh.wikipedia.org/wiki/外部设备 "wikilink")。这些技术旨在提高设备与[互联网](../Page/互联网.md "wikilink")或运行[Microsoft Windows的计算机互联的稳定性与安全性](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，可以提供对网络[服务质量](../Page/服务质量.md "wikilink")（QoS）的控制，以及对数据共享、通信和娱乐的诊断。Windows Rally技术面向下列设备提供：
 
   - [無線接取器](https://zh.wikipedia.org/wiki/無線接取器 "wikilink")、[个人电脑](../Page/个人电脑.md "wikilink")和[服务器](../Page/服务器.md "wikilink")

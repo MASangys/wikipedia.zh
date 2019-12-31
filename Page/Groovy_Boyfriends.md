@@ -1,3 +1,6 @@
+> 本文内容由[Groovy Boyfriends](https://zh.wikipedia.org/wiki/Groovy_Boyfriends)转换而来。
+
+
 **Groovy Boyfriends**（）為1992年組團，1999年解散的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 成員

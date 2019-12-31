@@ -1,3 +1,6 @@
+> 本文内容由[UNIVERSE 世界少年](https://zh.wikipedia.org/wiki/UNIVERSE_世界少年)转换而来。
+
+
 **UNVS**（曾名為**UNIVERSE－世界少年**，；），為UNI Entertainment 與[寰亞唱片聯手推出的](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，最初成員包括勇勇、詩勳、蒼空、IL、旻鎬等5位。於韓國組成、培訓後，在2016年12月14日抵達[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，並展開長達三個月的出道宣傳期。2016年12月21日，在[台北舉辦出道記者會](https://zh.wikipedia.org/wiki/台北 "wikilink")，並同時發行出道單曲《I'll be here》，成為第一組在台灣正式出道的韓國偶像團體。\[1\]\[2\]
 團名「UNIVERSE」意為：期許能夠成為一個在世界各地都得到喜愛的團體。\[3\]
 

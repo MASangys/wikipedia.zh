@@ -1,3 +1,6 @@
+> 本文内容由[未完成Stride](https://zh.wikipedia.org/wiki/未完成Stride)转换而来。
+
+
 《**未完成Stride**》（）是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[兒玉沙織](../Page/兒玉沙織.md "wikilink")的個人總計第7張單曲。2012年8月8日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要

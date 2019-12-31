@@ -1,3 +1,6 @@
+> 本文内容由[Where Were You Last Night](https://zh.wikipedia.org/wiki/Where_Were_You_Last_Night)转换而来。
+
+
 《**Where Were You Last Night**》（直译“昨夜你在何处”）是瑞典流行歌手[安琪·巴格尔](https://zh.wikipedia.org/wiki/Ankie_Bagger "wikilink")（Ankie Bagger）于1989年推出的专辑，由Sonet Records出版\[1\]。
 
 专辑里以单曲形式发售的歌曲有《People Say It's in the Air》、《Where Were You Last Night》，以及翻唱自[Kiss乐队的](https://zh.wikipedia.org/wiki/Kiss合唱团 "wikilink")《I Was Made for Lovin' You》和《Love Really Hurts Without You》。《Where Were You Last Night》后多次被翻唱，其中以芬兰金属乐队[夜愿](../Page/夜愿.md "wikilink")的版本最为著名。

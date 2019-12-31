@@ -1,3 +1,6 @@
+> 本文内容由[漫威英雄 Online](https://zh.wikipedia.org/wiki/漫威英雄_Online)转换而来。
+
+
 是一款以[漫威漫畫](../Page/漫威漫畫.md "wikilink")世界為背景的[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")。,\[1\]玩家在遊戲中扮演漫威世界的[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，對付[九頭蛇等反派以拯救世界](https://zh.wikipedia.org/wiki/九頭蛇_\(漫威漫畫\) "wikilink")。遊戲並提供英文、法文、繁體中文等多種語言以供不同語言和國家的使用者遊玩。
 
 2017年11月15日，迪士尼宣布關閉本遊戲\[2\]，並於同月27日結束營運\[3\]\[4\]\[5\]\[6\]。

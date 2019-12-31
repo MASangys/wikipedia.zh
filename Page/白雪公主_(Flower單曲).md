@@ -1,3 +1,6 @@
+> 本文内容由[白雪公主 \(Flower單曲\)](https://zh.wikipedia.org/wiki/白雪公主_\(Flower單曲\))转换而来。
+
+
 《**白雪公主**》（）是日本女子組合[Flower的第](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")6單曲，於2013年12月25日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要

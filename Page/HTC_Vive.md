@@ -1,4 +1,4 @@
-> 本文内容由[HTC Vive](https://zh.wikipedia.org/wiki/HTC Vive)转换而来。
+> 本文内容由[HTC Vive](https://zh.wikipedia.org/wiki/HTC_Vive)转换而来。
 
 
 [HTC_Vive_(16).jpg](https://zh.wikipedia.org/wiki/File:HTC_Vive_\(16\).jpg "fig:HTC_Vive_(16).jpg")

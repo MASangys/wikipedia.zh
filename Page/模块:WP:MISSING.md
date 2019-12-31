@@ -1,3 +1,6 @@
+> 本文内容由[模块:WP:MISSING](https://zh.wikipedia.org/wiki/模块:WP:MISSING)转换而来。
+
+
 local p = {}
 
 function p.titleToJson(title) -- Load mediawiki page and decodes it as json

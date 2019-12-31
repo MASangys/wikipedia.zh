@@ -1,3 +1,6 @@
+> 本文内容由[P0f](https://zh.wikipedia.org/wiki/P0f)转换而来。
+
+
 **p0f** 是一个多功能工具，用于被动式获取 操作系统指纹 以识别远程主机操作系统，并且可以穿透防火墙。
 
 p0f可以检测远程主机的连接方式、距离、运行时间，并且可以用于检测企业环境中未授权的网络连接。p0f可以检测到某些类型的数据包过滤器和[NAT设置](../Page/网络地址转换.md "wikilink")，有时可以确定其他[ISP的名称](https://zh.wikipedia.org/wiki/ISP "wikilink")。 p0f使用被动式获取操作系统指纹，因此不增加网络负载。没有名称搜索、没有直接通信、不使用[ARIN查询](https://zh.wikipedia.org/wiki/ARIN "wikilink")、没有[Traceroute](../Page/Traceroute.md "wikilink")。

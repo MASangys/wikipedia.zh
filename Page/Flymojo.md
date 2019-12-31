@@ -1,3 +1,6 @@
+> 本文内容由[Flymojo](https://zh.wikipedia.org/wiki/Flymojo)转换而来。
+
+
 **Flymojo有限公司**\[1\]（），是一名规划中的、由[马来西亚政府](../Page/马来西亚政府.md "wikilink")控股的区域航空公司。2015年，公司宣布将主要枢纽设置于[士乃国际机场](../Page/士乃国际机场.md "wikilink")，次要枢纽设置于[亚庇国际机场](https://zh.wikipedia.org/wiki/亚庇国际机场 "wikilink")\[2\]\[3\]。
 
 但是航空公司还没有开始运营，而其也到2016年5月30日吊销，并没有任何延期申请\[4\]。
@@ -53,20 +56,12 @@ flymojo fleet
 [Category:马来西亚航空公司](https://zh.wikipedia.org/wiki/Category:马来西亚航空公司 "wikilink")
 
 1.  目前暂无中文名，参见：http://www.sinchew.com.my/node/440930
-
 2.  <http://www.sinchew.com.my/node/1436178>
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.

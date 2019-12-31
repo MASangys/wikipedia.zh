@@ -1,3 +1,6 @@
+> 本文内容由[What\'s my name\? \(迷你專輯\)](https://zh.wikipedia.org/wiki/What\'s_my_name\?_\(迷你專輯\))转换而来。
+
+
 《**What's my name?**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第九張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")（雖稱為第十三張），由[MBK娛樂](../Page/MBK娛樂.md "wikilink")於2017年6月14日發佈。\[1\]
 
 ## 曲目列表

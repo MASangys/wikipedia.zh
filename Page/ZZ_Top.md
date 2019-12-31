@@ -1,3 +1,6 @@
+> 本文内容由[ZZ Top](https://zh.wikipedia.org/wiki/ZZ_Top)转换而来。
+
+
 **ZZ Top**是1969年成立于美国[德克萨斯州](../Page/德克萨斯州.md "wikilink")[休斯敦](../Page/休斯敦.md "wikilink")的一个[摇滚乐](../Page/摇滚乐.md "wikilink")队。当前的成员有[贝斯手兼](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手兼主唱](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（也是乐队队长，主要填词、作曲人）和[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")。该乐队阵容已经维持了超过45年，是主要唱片公司中为数不多的几个乐队之一。“作为真正的[草根](../Page/草根.md "wikilink")音乐家，他们几乎没有同行”，前音乐人、评论家兼收藏家评论道，“Gibbons是美国最棒的几个摇滚界蓝调吉他手之一，Hill和Beard也为他提供了终极的节奏部分的支援。”\[1\]
 
 乐队在1971年发行了他们的第一张专辑《ZZ Top's First Album》。乐队由蓝调音乐风的摇滚乐起价，用[合成器](../Page/合成器.md "wikilink")将[新浪潮](../Page/新浪潮.md "wikilink")、[龐克搖滾和](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")融合到一起。此外，乐队也以充满了[雙關語](https://zh.wikipedia.org/wiki/雙關語 "wikilink")、的歌词见长。

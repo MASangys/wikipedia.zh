@@ -1,3 +1,6 @@
+> 本文内容由[REDengine](https://zh.wikipedia.org/wiki/REDengine)转换而来。
+
+
 **REDengine**是[CD Projekt RED独立开发的](https://zh.wikipedia.org/wiki/CD_Projekt_RED "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")\[1\]，专为CD Projekt RED的[非线性](https://zh.wikipedia.org/wiki/沙盒类游戏 "wikilink")[角色扮演游戏设计](../Page/電子角色扮演遊戲.md "wikilink")。
 
 ## 特色
@@ -41,21 +44,14 @@ REDengine 3具有灵活的渲染器，用于[延期或前向](https://zh.wikiped
 [Category:游戏引擎](https://zh.wikipedia.org/wiki/Category:游戏引擎 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.

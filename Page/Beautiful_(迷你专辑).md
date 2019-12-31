@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful \(迷你专辑\)](https://zh.wikipedia.org/wiki/Beautiful_\(迷你专辑\))转换而来。
+
+
 《**Beautiful**》 是韩国女子组合[f(x)的美籍成员](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Amber的出道](https://zh.wikipedia.org/wiki/刘逸云 "wikilink")[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，在2015年2月13日由[SM娱乐发行](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink").
 
 ## 背景与发行

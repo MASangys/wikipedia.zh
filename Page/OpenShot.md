@@ -1,3 +1,6 @@
+> 本文内容由[OpenShot](https://zh.wikipedia.org/wiki/OpenShot)转换而来。
+
+
 **OpenShot影片編輯器**是[自由且開放原始碼的](../Page/自由及开放源代码软件.md "wikilink")[影片剪輯軟體](https://zh.wikipedia.org/wiki/影片剪輯軟體 "wikilink")，支援[FreeBSD](../Page/FreeBSD.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS與](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。该專案在2008年8月由Jonathan Thomas发起，其目標是提供穩定、自由且易於使用的影片編輯器\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]。
 
 OpenShot的核心影片編輯功能是以[C++](../Page/C++.md "wikilink")函式庫實作，稱之為libopenshot。OpenShot使用[Qt](../Page/Qt.md "wikilink")[部件工具箱](../Page/部件工具箱.md "wikilink")並提供[Python](../Page/Python.md "wikilink") [API](../Page/应用程序接口.md "wikilink")。
@@ -31,19 +34,11 @@ Bryan Lunduke在2017年3月31日於Network World上撰寫了一篇評論，其�
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

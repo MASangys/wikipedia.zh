@@ -1,4 +1,4 @@
-> 本文内容由[樂天 \(Lotte\)](https://zh.wikipedia.org/wiki/樂天 \(Lotte\))转换而来。
+> 本文内容由[樂天 \(Lotte\)](https://zh.wikipedia.org/wiki/樂天_\(Lotte\))转换而来。
 
 
 [Lotte-logo.jpg](https://zh.wikipedia.org/wiki/File:Lotte-logo.jpg "fig:Lotte-logo.jpg") [Khitai7.jpg](https://zh.wikipedia.org/wiki/File:Khitai7.jpg "fig:Khitai7.jpg")\]\] [Daegu-Lotte_Young_Plaza.jpg](https://zh.wikipedia.org/wiki/File:Daegu-Lotte_Young_Plaza.jpg "fig:Daegu-Lotte_Young_Plaza.jpg")

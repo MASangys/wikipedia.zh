@@ -1,3 +1,6 @@
+> 本文内容由[EGG FIRM](https://zh.wikipedia.org/wiki/EGG_FIRM)转换而来。
+
+
 **株式會社EGG FIRM**（）於2015年成立，是[日本](../Page/日本.md "wikilink")一家[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 概要

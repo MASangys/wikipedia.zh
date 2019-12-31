@@ -1,3 +1,6 @@
+> 本文内容由[HomePod](https://zh.wikipedia.org/wiki/HomePod)转换而来。
+
+
 **HomePod** 是由[蘋果公司開發的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，於 2017 年[蘋果公司全球軟體開發者年會時發表](https://zh.wikipedia.org/wiki/蘋果公司全球軟體開發者年會 "wikilink")，原本規劃 2017 年 12 月上市，後來延後至 2018 年 2 月 9 日上市。上市時提供白與太空灰兩色。HomePod 使用 [Siri](../Page/Siri.md "wikilink") 作为其虚拟助理，不仅支持 [Apple Music](../Page/Apple_Music.md "wikilink")，也可通过支持[隔空播放 2](../Page/隔空播放.md "wikilink") 的应用流化音频，并可支持 HomeKit，其会自动将自己设置为家居中枢以提供[智慧家庭](../Page/智慧家庭.md "wikilink")及远程访问服务。\[1\]。HomePod 目前在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")、[中華民國](../Page/中華民國.md "wikilink")（臺灣）及[日本](../Page/日本.md "wikilink")提供，但其餘國家或地區目前仍尚未正式發表。
 
 ## 設計

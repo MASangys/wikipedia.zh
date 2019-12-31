@@ -1,4 +1,4 @@
-> 本文内容由[圣剑传说DS 玛娜之子](https://zh.wikipedia.org/wiki/圣剑传说DS 玛娜之子)转换而来。
+> 本文内容由[圣剑传说DS 玛娜之子](https://zh.wikipedia.org/wiki/圣剑传说DS_玛娜之子)转换而来。
 
 
 是2006年在掌上游戏机[任天堂DS](../Page/任天堂DS.md "wikilink")发行的[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。其由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")和[Nex娱乐开发](https://zh.wikipedia.org/wiki/Nex娱乐 "wikilink")，史克威尔艾尼克斯和[任天堂](../Page/任天堂.md "wikilink")发行。这是[圣剑传说系列第六部作品](https://zh.wikipedia.org/wiki/圣剑传说系列 "wikilink")，是玛娜世界子系列的首部作品，其前作为2003年的《[新约 圣剑传说](https://zh.wikipedia.org/wiki/新约_圣剑传说 "wikilink")》。《玛娜之子》采用[高度奇幻的世界观](https://zh.wikipedia.org/wiki/高度奇幻 "wikilink")，讲述四名年轻英雄和入侵的怪物战斗，了解毁灭他们家族之大变灾的故事。

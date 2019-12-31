@@ -1,3 +1,6 @@
+> 本文内容由[SMASHING ANTHEMS](https://zh.wikipedia.org/wiki/SMASHING_ANTHEMS)转换而来。
+
+
 《**SMASHING ANTHEMS**》是[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第十一張個人專輯，於2015年11月11日由[King Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 收錄曲

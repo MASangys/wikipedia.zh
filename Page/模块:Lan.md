@@ -1,3 +1,6 @@
+> 本文内容由[模块:Lan](https://zh.wikipedia.org/wiki/模块:Lan)转换而来。
+
+
 local l={} local getArgs
 
 local args l.fallbackList={

@@ -1,4 +1,4 @@
-> 本文内容由[七龍珠Z 復活的融合!!悟空和達爾](https://zh.wikipedia.org/wiki/七龍珠Z 復活的融合!!悟空和達爾)转换而来。
+> 本文内容由[七龍珠Z 復活的融合!!悟空和達爾](https://zh.wikipedia.org/wiki/七龍珠Z_復活的融合!!悟空和達爾)转换而来。
 
 
 《**七龍珠Z 復活的融合\!\!悟空和贝吉塔**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The Rebirth of Fusion\!\! Goku and Vegeta），是[七龍珠在](../Page/七龙珠.md "wikilink")1995年3月4日上映的第15部劇場版動畫。\[1\]故事时间在在[魔人布欧事件之后](https://zh.wikipedia.org/wiki/魔人布欧 "wikilink")。

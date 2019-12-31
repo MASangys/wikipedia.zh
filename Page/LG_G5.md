@@ -1,3 +1,6 @@
+> 本文内容由[LG G5](https://zh.wikipedia.org/wiki/LG_G5)转换而来。
+
+
 LG G5是LG電子開發的[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。 在2016年世界移動大會上宣佈為[LG G4的繼任者](../Page/LG_G4.md "wikilink")。 延續了G4的可換電池，但G5與前代G4有很大的差別，像是鋁製底盤和模組化，並且由提供許多功能的模組可以替換（例如相機模組或具有DAC的模組）。另外模組化配件無法熱插拔，同期最大的競爭對手為[三星Galaxy S7](../Page/三星Galaxy_S7.md "wikilink")、[Sony Xperia X Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、[HTC 10](../Page/HTC_10.md "wikilink")。還有後來有出支援4G網路3載波聚合的G5 Speed。\[1\]\[2\]\[3\]\[4\]
 
 ## 技術規格

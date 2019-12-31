@@ -1,4 +1,4 @@
-> 本文内容由[Park YOHO](https://zh.wikipedia.org/wiki/Park YOHO)转换而来。
+> 本文内容由[Park YOHO](https://zh.wikipedia.org/wiki/Park_YOHO)转换而来。
 
 
 [Park_YOHO_Phase_1B_Landscape_area_2016.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Phase_1B_Landscape_area_2016.jpg "fig:Park_YOHO_Phase_1B_Landscape_area_2016.jpg") [Park_YOHO_Green_area_2016.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Green_area_2016.jpg "fig:Park_YOHO_Green_area_2016.jpg")用\]\] [Park_YOHO_Lake_201706.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Lake_201706.jpg "fig:Park_YOHO_Lake_201706.jpg") [Park_YOHO_Fairyland_overview1_2017.jpg](https://zh.wikipedia.org/wiki/File:Park_YOHO_Fairyland_overview1_2017.jpg "fig:Park_YOHO_Fairyland_overview1_2017.jpg")

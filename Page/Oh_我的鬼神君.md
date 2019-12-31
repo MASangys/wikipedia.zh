@@ -1,4 +1,4 @@
-> 本文内容由[Oh 我的鬼神君](https://zh.wikipedia.org/wiki/Oh 我的鬼神君)转换而来。
+> 本文内容由[Oh 我的鬼神君](https://zh.wikipedia.org/wiki/Oh_我的鬼神君)转换而来。
 
 
 《**Oh 我的鬼神君**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年7月3日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由[曹政奭](../Page/曹政奭.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[金瑟琪](../Page/金瑟琪.md "wikilink")及[林周煥](../Page/林周煥.md "wikilink")主演，《[高校處世王](../Page/高校處世王.md "wikilink")》[柳濟元導演](https://zh.wikipedia.org/wiki/柳濟元 "wikilink")、[楊熙勝作家再次攜手打造的作品](https://zh.wikipedia.org/wiki/楊熙勝 "wikilink")。

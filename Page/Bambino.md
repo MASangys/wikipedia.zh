@@ -1,4 +1,9 @@
-**Bambino**（[韩国语](https://zh.wikipedia.org/wiki/韓國語 "wikilink")：밤비노）是JS娛樂于2015年推出的韓國4人[女子音樂團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")。在2015年6月23日，[Bambino](../Page/Bambino.md "wikilink")發行她們的第一張單曲《오빠오빠（哥哥 哥哥）》並正式出道。\[1\]
+> 本文内容由[Bambino](https://zh.wikipedia.org/wiki/Bambino)转换而来。
+
+
+**Bambino**（[韩国语](https://zh.wikipedia.org/wiki/韓國語 "wikilink")：밤비노）是[JS娛樂于](https://zh.wikipedia.org/wiki/JS娛樂 "wikilink")2015年推出的韓國4人[女子音樂團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")。在2015年6月23日，[Bambino](../Page/Bambino.md "wikilink")發行她們的第一張單曲《오빠오빠（哥哥 哥哥）》並正式出道。\[1\]
+
+於2017年已解散。
 
 ## 經歷
 
@@ -86,7 +91,7 @@ Bambino在2014年9月12日創建了官方Facebook賬號并在其頁面發佈了4
 
 ### JS娛樂
 
-  - JS娛樂第一屆音樂會 ([Bambino](../Page/Bambino.md "wikilink"), [Laysha](https://zh.wikipedia.org/wiki/Laysha "wikilink"), [Diana](https://zh.wikipedia.org/wiki/Diana "wikilink"), [Rampage Guys](https://zh.wikipedia.org/wiki/Rampage_Guys "wikilink"))\[7\]
+  - JS娛樂第一屆音樂會 ([Bambino](../Page/Bambino.md "wikilink"), [Laysha](../Page/Laysha.md "wikilink"), [Diana](https://zh.wikipedia.org/wiki/Diana "wikilink"), [Rampage Guys](https://zh.wikipedia.org/wiki/Rampage_Guys "wikilink"))\[7\]
 
 ## 爭議
 
@@ -101,7 +106,7 @@ Bambino在2014年9月12日創建了官方Facebook賬號并在其頁面發佈了4
   - [Bambino's Fancafe](http://cafe.daum.net/BAMBINo)
 
   -
-[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink") [Category:CS1American_English来源_(en-us)](https://zh.wikipedia.org/wiki/Category:CS1American_English来源_\(en-us\) "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
+[Category:含有冗余参数的引用的页面](https://zh.wikipedia.org/wiki/Category:含有冗余参数的引用的页面 "wikilink") [Category:CS1American_English来源_(en-us)](https://zh.wikipedia.org/wiki/Category:CS1American_English来源_\(en-us\) "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.
 2.

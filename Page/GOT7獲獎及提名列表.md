@@ -1,3 +1,6 @@
+> 本文内容由[GOT7獲獎及提名列表](https://zh.wikipedia.org/wiki/GOT7獲獎及提名列表)转换而来。
+
+
 **[GOT7](../Page/GOT7.md "wikilink")**是韓國七人男子組合，隸屬於[JYP娛樂](../Page/JYP娛樂.md "wikilink")，主要列舉韓國男子團體GOT7由出道至今於頒獎典禮的獲獎及提名。
 
 ## 韓國音樂頒獎典禮

@@ -1,4 +1,4 @@
-> 本文内容由[Shiny Entertainment](https://zh.wikipedia.org/wiki/Shiny Entertainment)转换而来。
+> 本文内容由[Shiny Entertainment](https://zh.wikipedia.org/wiki/Shiny_Entertainment)转换而来。
 
 
 **Shiny Entertainment**，是总部设在美国加州拉古纳海滩的游戏开发商，由戴维·佩里在1993年10月成立。2007年，Shiny Entertainment与The Collective合并成Double Helix Games。

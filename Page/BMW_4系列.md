@@ -1,4 +1,4 @@
-> 本文内容由[BMW 4系列](https://zh.wikipedia.org/wiki/BMW 4系列)转换而来。
+> 本文内容由[BMW 4系列](https://zh.wikipedia.org/wiki/BMW_4系列)转换而来。
 
 
 **BMW 4系列**（）是[德国](../Page/德国.md "wikilink")汽车制造商[BMW](../Page/BMW.md "wikilink")所生产的一个[中级车系](https://zh.wikipedia.org/wiki/中型车 "wikilink")，自2013年10月5日起以[轿跑车型](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")（F32）上市，其目的是将既有的[3系轿跑车替换为全新的](../Page/BMW_3系列.md "wikilink")4系，以进一步区分更具运动性的轿跑车\[1\]\[2\]。该系列的概念于2012年12月在[慕尼黑](../Page/慕尼黑.md "wikilink")首次向公众发布，并在次年1月的[底特律车展率先亮相](https://zh.wikipedia.org/wiki/底特律车展 "wikilink")。其后配备有硬顶折叠敞篷的[敞篷版](../Page/敞篷车.md "wikilink")（F33）于2014年3月8日推出市场。而融合了敞篷和轿跑元素的（F36）则可用作配备[汽油发动机的](https://zh.wikipedia.org/wiki/汽油发动机 "wikilink")428i、428i xDrive和435i，以及[柴油发动机的](https://zh.wikipedia.org/wiki/柴油发动机 "wikilink")420d\[3\]。

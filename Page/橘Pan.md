@@ -1,3 +1,6 @@
+> 本文内容由[橘Pan](https://zh.wikipedia.org/wiki/橘Pan)转换而来。
+
+
 **橘Pan**（，），[日本](../Page/日本.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[編劇](../Page/編劇.md "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")。
 
 ## 主要參加作品

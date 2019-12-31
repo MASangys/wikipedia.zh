@@ -1,3 +1,6 @@
+> 本文内容由[Laundry Day](https://zh.wikipedia.org/wiki/Laundry_Day)转换而来。
+
+
 《**Laundry Day**》（）是韓國[OnStyle](../Page/OnStyle.md "wikilink")的綜藝節目\[1\]，由藝人[盧弘喆](../Page/盧弘喆.md "wikilink")、藝人[許志雄](https://zh.wikipedia.org/wiki/許志雄 "wikilink")、模特兒[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、造型師[韓慧妍](https://zh.wikipedia.org/wiki/韓慧妍 "wikilink")、藝人[Irene主持](../Page/Irene_\(Red_Velvet\).md "wikilink")\[2\]，每期會邀請大韓民國的"大勢"來賓，透過嘉賓帶來的要洗的衣服來瞭解最新潮流資訊、服裝取向品味，以及穿搭小技巧等，以及由此衍生出來的音樂、藝術等多方位談話性綜藝節目。
 
 ## 各集資訊

@@ -1,3 +1,6 @@
+> 本文内容由[Que Sera, Sera](https://zh.wikipedia.org/wiki/Que_Sera,_Sera)转换而来。
+
+
 《**Que Sera, Sera**》是[美國女性](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")[桃樂絲·黛的單曲](https://zh.wikipedia.org/wiki/桃樂絲·黛 "wikilink")\[1\]，1956年由[Columbia Records](https://zh.wikipedia.org/wiki/哥倫比亞唱片 "wikilink")（現已併入[Sony Music](../Page/索尼音樂娛樂.md "wikilink")）發行。
 
 ## 解說

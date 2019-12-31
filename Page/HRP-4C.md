@@ -1,3 +1,6 @@
+> 本文内容由[HRP-4C](https://zh.wikipedia.org/wiki/HRP-4C)转换而来。
+
+
 {{ infobox robot | name = HRP-4C | logo = | logosize = | image = HRP-4C UCROA.jpg | imsize = | alt = | caption = HRP-4C | manufacturer = [産業技術總合研究所](https://zh.wikipedia.org/wiki/産業技術總合研究所 "wikilink") | year_of_creation = 2009年 | type = [人形机器人](https://zh.wikipedia.org/wiki/人形机器人 "wikilink") | purpose = | derived_from = | replaced_by = | website = }}
 
 **HRP-4C**是[日本](../Page/日本.md "wikilink")研究機構[産業技術總合研究所](https://zh.wikipedia.org/wiki/産業技術總合研究所 "wikilink")（AIST）所開發的類人型[女性](../Page/女性.md "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")（Fembot），也稱為未夢（ミーム）\[1\]。

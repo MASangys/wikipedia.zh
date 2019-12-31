@@ -1,3 +1,6 @@
+> 本文内容由[升C小调圆舞曲Op. 64, No. 2 \(肖邦\)](https://zh.wikipedia.org/wiki/升C小调圆舞曲Op._64,_No._2_\(肖邦\))转换而来。
+
+
 **升C小调圆舞曲**（）是[肖邦的作品](../Page/弗雷德里克·肖邦.md "wikilink")64的第二首曲子，与[小狗圆舞曲](https://zh.wikipedia.org/wiki/降D大調“小狗”圓舞曲 "wikilink")（Op. 64, No. 1）相伴。此曲创作于1847年。肖邦将这首圆舞曲献给。
 
 它由三个主题组成：

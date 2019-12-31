@@ -1,3 +1,6 @@
+> 本文内容由[比亞迪K9A](https://zh.wikipedia.org/wiki/比亞迪K9A)转换而来。
+
+
 **比亞迪K9A**（又稱**比亞迪K9D**）是一款由[比亞迪汽車生產的](https://zh.wikipedia.org/wiki/比亞迪汽車 "wikilink")[單層](https://zh.wikipedia.org/wiki/單層巴士 "wikilink")[純電動巴士](https://zh.wikipedia.org/wiki/電動汽車 "wikilink")。
 
 ## 比亚迪K9F

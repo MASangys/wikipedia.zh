@@ -1,4 +1,4 @@
-> 本文内容由[GNU Guile](https://zh.wikipedia.org/wiki/GNU Guile)转换而来。
+> 本文内容由[GNU Guile](https://zh.wikipedia.org/wiki/GNU_Guile)转换而来。
 
 
 **GNU Guile** 是 [GNU 计划首选的扩展系统](../Page/GNU計劃.md "wikilink")，是 [Scheme](../Page/Scheme.md "wikilink") 程序设计语言的一种实现，首个版本于1993年问世。

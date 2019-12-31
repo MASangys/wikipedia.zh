@@ -1,3 +1,6 @@
+> 本文内容由[Lovelinus](https://zh.wikipedia.org/wiki/Lovelinus)转换而来。
+
+
 《**Lovelinus**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第一張單曲](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2015年12月7日發布。主打曲為《그대에게 (For you)》。
 
 ## 概要

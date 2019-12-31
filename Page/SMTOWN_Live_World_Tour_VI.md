@@ -1,3 +1,6 @@
+> 本文内容由[SMTOWN Live World Tour VI](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_VI)转换而来。
+
+
 **SMTOWN Live World Tour VI**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")的家族聯合世界巡迴演唱會。這次巡演於2017年舉行。
 
 ## 參與藝人
@@ -133,6 +136,5 @@
 [Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
 
 1.  [SMTOWN LIVE第六次世界巡迴演出即將於7/8日揭開華麗序幕](http://www.koreastardaily.com/tc/news/94684)
-
 2.
 3.  [官方資訊](http://www.smtown.com/Link/Board/6875872)

@@ -1,4 +1,7 @@
-'''Red Velvet First Concert "Red Room" '''是韓國女子組合[Red Velvet于](../Page/Red_Velvet.md "wikilink")2017年舉辦的第一次單獨亚洲巡回演唱會。
+> 本文内容由[Red Room](https://zh.wikipedia.org/wiki/Red_Room)转换而来。
+
+
+'''Red Velvet First Concert "Red Room" '''是韓國女子組合[Red Velvet于](../Page/Red_Velvet.md "wikilink")2017年至2018年舉辦的第一次單獨亚洲巡回演唱會。
 
 ## 概述
 
@@ -76,7 +79,7 @@
 <td><p>5月25日</p></td>
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
 <td></td>
-<td><p>1,500[6]</p></td>
+<td><p>20,000[6]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -84,7 +87,7 @@
 <td><p>5月27日</p></td>
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
 <td></td>
-<td><p>1,588[7]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -92,7 +95,7 @@
 <td><p>5月30日</p></td>
 <td><p><a href="../Page/廣島縣.md" title="wikilink">廣島縣</a></p></td>
 <td></td>
-<td><p>1,204[8]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -100,7 +103,7 @@
 <td><p>6月1日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td></td>
-<td><p>1,000[9]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -108,7 +111,7 @@
 <td><p>6月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
 <td></td>
-<td><p>4,800[10]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -124,7 +127,7 @@
 <td><p>6月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神奈川" title="wikilink">神奈川</a></p></td>
 <td><p><a href="../Page/橫濱國際平和會議場.md" title="wikilink">橫濱國際平和會議場</a></p></td>
-<td><p>10,004[11]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -138,7 +141,7 @@
 </tr>
 <tr class="odd">
 <td><p>colspan= 5"| 總計</p></td>
-<td><p>51,096</p></td>
+<td><p>51,000</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -209,8 +212,3 @@
 4.
 5.
 6.
-7.
-8.
-9.
-10.
-11.

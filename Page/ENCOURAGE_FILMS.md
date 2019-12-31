@@ -1,3 +1,6 @@
+> 本文内容由[ENCOURAGE FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS)转换而来。
+
+
 **株式會社ENCOURAGE FILMS**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 簡介

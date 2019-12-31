@@ -1,3 +1,6 @@
+> 本文内容由[Al1](https://zh.wikipedia.org/wiki/Al1)转换而来。
+
+
 《**Al1**》\[1\]\[2\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的第四張迷你專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及桂範洙](../Page/李知勳_\(SEVENTEEN\).md "wikilink")（）擔任製作人，其他成員們共同參與作詞和編舞。由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")企劃，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2017年5月22日發行，主打曲為〈Don't Wanna Cry ()〉。
 
 ## 概述

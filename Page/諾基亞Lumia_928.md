@@ -1,4 +1,4 @@
-> 本文内容由[諾基亞Lumia 928](https://zh.wikipedia.org/wiki/諾基亞Lumia 928)转换而来。
+> 本文内容由[諾基亞Lumia 928](https://zh.wikipedia.org/wiki/諾基亞Lumia_928)转换而来。
 
 
 **諾基亞Lumia 928**\[1\]\[2\]是[諾基亞與](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Verizon合作](https://zh.wikipedia.org/wiki/Verizon "wikilink")\[3\]推出的旗艦型手機。

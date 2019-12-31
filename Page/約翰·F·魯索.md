@@ -1,3 +1,6 @@
+> 本文内容由[約翰·F·魯索](https://zh.wikipedia.org/wiki/約翰·F·魯索)转换而来。
+
+
 **約翰·F·魯索**（；），是美國的[民主黨政治人物](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，前[新泽西州参议院議員及議長](https://zh.wikipedia.org/wiki/新泽西州参议院 "wikilink")。
 
 ## 生平
@@ -15,10 +18,8 @@
 [Category:聖母大學校友](https://zh.wikipedia.org/wiki/Category:聖母大學校友 "wikilink") [Category:哥伦比亚法学院校友](https://zh.wikipedia.org/wiki/Category:哥伦比亚法学院校友 "wikilink") [Category:新澤西州參議員](https://zh.wikipedia.org/wiki/Category:新澤西州參議員 "wikilink") [Category:新泽西州民主党人](https://zh.wikipedia.org/wiki/Category:新泽西州民主党人 "wikilink") [Category:新澤西州律師](https://zh.wikipedia.org/wiki/Category:新澤西州律師 "wikilink") [Category:罹患食道癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患食道癌逝世者 "wikilink")
 
 1.  Sullivan, Joseph F. ["IN NEW JERSEY, AN EARLY ENTRY FOR GOVERNOR"](https://query.nytimes.com/gst/fullpage.html?res=9B0DE6D9103FF935A25755C0A961948260&sec=&spon=&pagewanted=all), *[The New York Times](https://zh.wikipedia.org/wiki/The_New_York_Times "wikilink")*, June 16, 1987. Accessed April 25, 2008.
-
 2.
 3.
-
 4.
 5.
 6.

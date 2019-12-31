@@ -1,3 +1,6 @@
+> 本文内容由[Wake Up \(MC HotDog专辑\)](https://zh.wikipedia.org/wiki/Wake_Up_\(MC_HotDog专辑\))转换而来。
+
+
 《**Wake Up**》是臺灣[饶舌歌手](https://zh.wikipedia.org/wiki/饶舌 "wikilink")[MC HotDog的個人首張完整](../Page/MC_HotDog.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2007年6月，《Wake Up》專輯獲[第18屆金曲獎最佳國語專輯獎](https://zh.wikipedia.org/wiki/第18屆金曲獎 "wikilink")，表示其另類風格受評審肯定。
 
 《Wake Up》与MC HotDog的上个专辑《九局下半》相差了4年多。“我这4年多来，先是当兵，中间又混了2年，一直在玩音乐、表演、写歌。我没出片这段时间，华语地区有很多饶舌歌手出现，但他们唱不出什么，所以我希望用这张专辑唤起大家的记忆，wake up，我回来了。”\[1\]

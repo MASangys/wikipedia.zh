@@ -1,3 +1,6 @@
+> 本文内容由[TAP快運航空](https://zh.wikipedia.org/wiki/TAP快運航空)转换而来。
+
+
 **快運航空**（）是一家總部位於[葡萄牙](../Page/葡萄牙.md "wikilink")[里斯本](../Page/里斯本.md "wikilink")的航空公司，於2016年初成立，它為[TAP葡萄牙航空](../Page/TAP葡萄牙航空.md "wikilink")的[子公司](../Page/子公司.md "wikilink")，提供來往歐洲及北非的客運服務。
 
 ## 歷史

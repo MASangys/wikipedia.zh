@@ -1,3 +1,6 @@
+> 本文内容由[Summer Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets)转换而来。
+
+
 《**Summer Pockets**》是日本游戏制作公司[Key制作的一部](../Page/Key_\(遊戲品牌\).md "wikilink")[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")。2016年12月9日，Key社官方推特公布形象封面與四位女主角的人設草圖等初步情報\[1\]。这部作品的主题句是「唯有那份眩目，未曾忘卻（）」，把故事发生地点设置在[濑户内海的一个名为鸟白岛的](https://zh.wikipedia.org/wiki/濑户内海 "wikilink")[离岛上](https://zh.wikipedia.org/wiki/离岛 "wikilink")，讲述了男主角和岛上的女孩相遇和交流发生的故事\[2\]。於2018年6月29号发售。\[3\]
 
 ## 遊戲玩法和劇情概要

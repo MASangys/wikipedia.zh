@@ -1,3 +1,6 @@
+> 本文内容由[AsteroidOS](https://zh.wikipedia.org/wiki/AsteroidOS)转换而来。
+
+
 **AsteroidOS**是一个为[智能手表](../Page/智能手表.md "wikilink")设计的[开放源代码](../Page/开放源代码.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。\[1\]\[2\]\[3\]它可作为一些[Android Wear设备固件的替代品](https://zh.wikipedia.org/wiki/Android_Wear "wikilink")。\[4\]
 
 ## 软件架构

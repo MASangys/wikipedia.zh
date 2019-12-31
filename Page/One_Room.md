@@ -1,3 +1,6 @@
+> 本文内容由[One Room](https://zh.wikipedia.org/wiki/One_Room)转换而来。
+
+
 《**One Room**》是在2017年1月開始播放的[日本](../Page/日本.md "wikilink")原創短篇[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，為[SMIRAL animation繼](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")《[枕男子](../Page/枕男子.md "wikilink")》和《[動畫鍛鍊！EX](../Page/動畫鍛鍊！EX.md "wikilink")》系列之後推出的第三部[第一人稱視角動畫](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")，內容描述三個發生在「你（One）的房間（Room）」的故事\[1\]。另有男性角色版本《**Room Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]。
 
 ## 登場人物

@@ -1,3 +1,6 @@
+> 本文内容由[SISTAR\'S SHOWTIME](https://zh.wikipedia.org/wiki/SISTAR\'S_SHOWTIME)转换而来。
+
+
 《**SISTAR'S SHOWTIME**》（）是于2015年1月8日至2015年2月26日在[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")播出的[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")，由[女子组合](../Page/女子音乐组合.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")担当主角。\[1\]
 
 ## 节目介绍

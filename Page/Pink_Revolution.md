@@ -1,4 +1,4 @@
-> 本文内容由[Pink Revolution](https://zh.wikipedia.org/wiki/Pink Revolution)转换而来。
+> 本文内容由[Pink Revolution](https://zh.wikipedia.org/wiki/Pink_Revolution)转换而来。
 
 
 《**Pink Revolution**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")的第三張正規專輯，於2016年9月26日發行。主打曲為《Only One (내가 설렐 수 있게)》。

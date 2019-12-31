@@ -1,4 +1,4 @@
-> 本文内容由[HK VP9半自動手槍](https://zh.wikipedia.org/wiki/HK VP9半自動手槍)转换而来。
+> 本文内容由[HK VP9半自動手槍](https://zh.wikipedia.org/wiki/HK_VP9半自動手槍)转换而来。
 
 
 **HK VP9**（Heckler & Koch VP9）是一系列由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")在2014年所設計和生產的[高分子](../Page/高分子.md "wikilink")[底把](../Page/机匣.md "wikilink")、[擊針擊發式](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是以[HK P30為基礎加以研發的改進型](../Page/HK_P30半自動手槍.md "wikilink")。先後推出[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W這兩種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，9毫米口徑的[钢](../Page/钢.md "wikilink")製可拆卸式雙排[彈匣](../Page/彈匣.md "wikilink")的容量為15發，而.40 S\&W口徑則為13發。

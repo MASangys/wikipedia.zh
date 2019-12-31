@@ -1,4 +1,4 @@
-> 本文内容由[Jin \(Lovelyz\)](https://zh.wikipedia.org/wiki/Jin \(Lovelyz\))转换而来。
+> 本文内容由[Jin \(Lovelyz\)](https://zh.wikipedia.org/wiki/Jin_\(Lovelyz\))转换而来。
 
 
 **JIN**（，）本名**朴明恩**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[釜山廣域市](../Page/釜山廣域市.md "wikilink")。所屬公司為[Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並為旗下女子組合[Lovelyz成員之一](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。2013年11月，發表單曲《只是你不在》。2014年和[INFINITE H合作單曲](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")《Life Goes On》，同年以組合[Lovelyz一員出道](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、隊內擔任第一主唱、高音擔當。

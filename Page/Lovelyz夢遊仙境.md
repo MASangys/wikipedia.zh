@@ -1,3 +1,6 @@
+> 本文内容由[Lovelyz夢遊仙境](https://zh.wikipedia.org/wiki/Lovelyz夢遊仙境)转换而来。
+
+
 《**Lovelyz夢遊仙境**》（）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，由女團[Lovelyz主持](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，節目每集以「愛麗絲夢遊仙境」為背景，播出Lovelyz成員們的日常生活\[1\]\[2\]。
 
 ## 各集嘉賓

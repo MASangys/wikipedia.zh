@@ -1,3 +1,6 @@
+> 本文内容由[BMT海滩线](https://zh.wikipedia.org/wiki/BMT海滩线)转换而来。
+
+
 **海灘線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT分部的](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，在[59街途經四線軌道地塹連接](https://zh.wikipedia.org/wiki/59街車站_\(BMT第四大道線\) "wikilink")[BMT第四大道線至](https://zh.wikipedia.org/wiki/BMT第四大道線 "wikilink")[康尼島](../Page/康尼島.md "wikilink")。此線經常成為[曼哈頓](../Page/曼哈頓.md "wikilink")與康尼島之間最快的快車列車所在路線，因為沿線都沒有快車站，但只有N線慢車，任何時候都服務全線。[86街以北同時在繁忙時段的尖峰方向還有幾班](https://zh.wikipedia.org/wiki/86街車站_\(BMT海灘線\) "wikilink")[W線列車營運](../Page/紐約地鐵W線.md "wikilink")。
 
 ## 路線服務

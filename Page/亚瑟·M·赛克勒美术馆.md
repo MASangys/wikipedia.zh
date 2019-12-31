@@ -1,3 +1,6 @@
+> 本文内容由[亚瑟·M·赛克勒美术馆](https://zh.wikipedia.org/wiki/亚瑟·M·赛克勒美术馆)转换而来。
+
+
 [Sackler_Gallery.jpg](https://zh.wikipedia.org/wiki/File:Sackler_Gallery.jpg "fig:Sackler_Gallery.jpg")
 
 **亚瑟·M·赛克勒美术馆**，位于[美国](../Page/美国.md "wikilink")首都[华盛顿特区的](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[国家广场](../Page/国家广场.md "wikilink")南侧，归属[史密森尼学会](../Page/史密森尼学会.md "wikilink")管理运营。该美术馆与邻近的[弗瑞尔美术馆共同组成了史密森尼博物馆中亚洲艺术部分](https://zh.wikipedia.org/wiki/弗瑞尔美术馆 "wikilink")，因此往往被统称为“弗瑞尔·赛克勒美术馆”。美术馆开放于[1987年](../Page/1987年.md "wikilink")，其主体部分位于[艾尼德·豪普特花园的地下](https://zh.wikipedia.org/wiki/艾尼德·豪普特花园 "wikilink")。

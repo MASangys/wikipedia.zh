@@ -1,3 +1,6 @@
+> 本文内容由[TOKYO GIRL](https://zh.wikipedia.org/wiki/TOKYO_GIRL)转换而来。
+
+
 《**TOKYO GIRL**》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](../Page/Perfume_\(日本音樂團體\).md "wikilink")23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。單曲於2017年2月15日發行。唱片公司為[Perfume Records/Universal J](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 介绍

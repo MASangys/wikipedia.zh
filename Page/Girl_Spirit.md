@@ -1,4 +1,4 @@
-> 本文内容由[Girl Spirit](https://zh.wikipedia.org/wiki/Girl Spirit)转换而来。
+> 本文内容由[Girl Spirit](https://zh.wikipedia.org/wiki/Girl_Spirit)转换而来。
 
 
 **Girl Spirit**（）是自2016年7月19日起在[韩国有线](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[电视台](../Page/电视台.md "wikilink")[JTBC](../Page/JTBC.md "wikilink")播出的[音乐](../Page/音乐.md "wikilink")竞技[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。节目目的是在突出近几年展示出的十二个[女子组合中](../Page/女子音乐组合.md "wikilink")，有主唱才能的成员。\[1\]节目在每周二晚22:50（[韩国时间](../Page/韩国标准时.md "wikilink")）播出。\[2\]

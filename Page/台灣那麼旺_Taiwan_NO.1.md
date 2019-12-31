@@ -1,4 +1,4 @@
-> 本文内容由[台灣那麼旺 Taiwan NO.1](https://zh.wikipedia.org/wiki/台灣那麼旺 Taiwan NO.1)转换而来。
+> 本文内容由[台灣那麼旺 Taiwan NO.1](https://zh.wikipedia.org/wiki/台灣那麼旺_Taiwan_NO.1)转换而来。
 
 
 《**台灣那麼旺**》（Taiwan NO.1）是[民視無線台](../Page/民視無線台.md "wikilink")大型歌唱選秀節目\[1\]\[2\]\[3\]\[4\]\[5\]，2016年5月28日開播，[孫樂欣領導](https://zh.wikipedia.org/wiki/孫樂欣 "wikilink")[欣享娛樂製作](https://zh.wikipedia.org/wiki/欣享娛樂 "wikilink")，[胡瓜](../Page/胡瓜.md "wikilink")、[白家綺](../Page/白家綺.md "wikilink")主持，採線上直播方式，可[APP預測優勝者](https://zh.wikipedia.org/wiki/APP "wikilink")。此節目是2016年1月胡瓜與[百是傳播老闆](https://zh.wikipedia.org/wiki/百是傳播 "wikilink")[黃義雄](../Page/黃義雄.md "wikilink")爆發口角而罷錄《[明日之星Super Star](../Page/明日之星Super_Star.md "wikilink")》之後，再次主持民視大型歌唱選秀節目\[6\]。2018年12月29日（第135集），更換製作單位為[民間全民電視公司](../Page/民間全民電視公司.md "wikilink")節目製作部綜藝中心，並採用全新賽制\[7\]\[8\]。2019年3月9日，因[白家綺](../Page/白家綺.md "wikilink")告假待產而由[王瞳](../Page/王瞳.md "wikilink")接手代班主持。2019年9月14日，[王瞳](../Page/王瞳.md "wikilink")交棒[白家綺](../Page/白家綺.md "wikilink")結束代班，[白家綺](../Page/白家綺.md "wikilink")正式回歸主持\[9\]

@@ -1,4 +1,4 @@
-> 本文内容由[Island Days](https://zh.wikipedia.org/wiki/Island Days)转换而来。
+> 本文内容由[Island Days](https://zh.wikipedia.org/wiki/Island_Days)转换而来。
 
 
 是[日本](../Page/日本.md "wikilink")KLON（）公司在2014年7月3日於[任天堂3DS](../Page/任天堂3DS.md "wikilink")平台上發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")、[塔防類型](https://zh.wikipedia.org/wiki/塔防 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。\[1\]原本最初預定是在5月1日發售\[2\]，後來延期到6月26日發售但因為要清除增加語音所帶來的BUG而又再次延期到7月3日發售。\[3\]

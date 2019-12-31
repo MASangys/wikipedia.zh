@@ -1,4 +1,4 @@
-> 本文内容由[白银的意志 ARGEVOLLEN](https://zh.wikipedia.org/wiki/白银的意志 ARGEVOLLEN)转换而来。
+> 本文内容由[白银的意志 ARGEVOLLEN](https://zh.wikipedia.org/wiki/白银的意志_ARGEVOLLEN)转换而来。
 
 
 《**白银的意志 ARGEVOLLEN**》（），是日本於2014年7月播放的原创[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。

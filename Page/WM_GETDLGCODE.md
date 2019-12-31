@@ -1,3 +1,6 @@
+> 本文内容由[WM GETDLGCODE](https://zh.wikipedia.org/wiki/WM_GETDLGCODE)转换而来。
+
+
 **WM_GETDLGCODE**，是[Windows操作系统内建的一种标准Windows消息](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")。\[1\]如果使用[Windows API函数IsDialogMessage来过滤Windows消息](../Page/Windows_API.md "wikilink")，操作系统在下述情形会发送一条WM_GETDLGCODE消息给对话框或窗体内的控件：\[2\]
 
   - 确定控件是否会处理特定类型输入。

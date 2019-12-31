@@ -1,4 +1,4 @@
-> 本文内容由[Pink MEMORY](https://zh.wikipedia.org/wiki/Pink MEMORY)转换而来。
+> 本文内容由[Pink MEMORY](https://zh.wikipedia.org/wiki/Pink_MEMORY)转换而来。
 
 
 《**Pink MEMORY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")於2015年7月16日（數碼專輯\[1\]）及21日（實體專輯\[2\]\[3\]）發行的第二張正規[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，實體專輯分別有紅、白兩個版本。主打曲為<Remember>。

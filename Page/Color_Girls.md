@@ -1,4 +1,4 @@
-> 本文内容由[Color Girls](https://zh.wikipedia.org/wiki/Color Girls)转换而来。
+> 本文内容由[Color Girls](https://zh.wikipedia.org/wiki/Color_Girls)转换而来。
 
 
 **Color Girls**是[中國](../Page/中國.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/偶像 "wikilink")[SNH48](../Page/SNH48.md "wikilink")的一個主打可愛青春風格的衍生團體，團體成立發布於2016年4月20日，由[費沁源](../Page/費沁源.md "wikilink")、[洪珮-{雲}-](../Page/洪珮雲.md "wikilink")、[謝妮](https://zh.wikipedia.org/wiki/謝妮 "wikilink")、[杨冰怡](https://zh.wikipedia.org/wiki/杨冰怡 "wikilink")、[孫珍妮](https://zh.wikipedia.org/wiki/孫珍妮 "wikilink")5人組成，團員所屬的[經紀公司](../Page/經紀公司.md "wikilink")均為[上海絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")，成員均為SNH48的00後的次世代主力成員，全員正式亮相於[SNH48第三屆總選舉](../Page/SNH48第三屆總選舉.md "wikilink")。Color Girls与[7SENSES](https://zh.wikipedia.org/wiki/7SENSES "wikilink")、[HO2](https://zh.wikipedia.org/wiki/HO2_\(偶像團體\) "wikilink")、[BlueV](https://zh.wikipedia.org/wiki/BlueV "wikilink")、[Style-7合称SNH](https://zh.wikipedia.org/wiki/Style-7 "wikilink")48 FAMILY GROUP\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[驾驶舱iPad](https://zh.wikipedia.org/wiki/驾驶舱iPad)转换而来。
+
+
 **驾驶舱iPad**（）是[航空](../Page/航空.md "wikilink")业中用以取代[纸](../Page/纸.md "wikilink")质航图和手册的[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")。这项技术目前被私人和商业驾驶员使用。
 
 ## 历史与测试

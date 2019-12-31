@@ -1,3 +1,6 @@
+> 本文内容由[Forget Me Not](https://zh.wikipedia.org/wiki/Forget_Me_Not)转换而来。
+
+
 《**Forget Me Not**》（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：），[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的第41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2016年11月2日發行。
 
 ## 概述

@@ -1,4 +1,4 @@
-> 本文内容由[Dirty Diana](https://zh.wikipedia.org/wiki/Dirty Diana)转换而来。
+> 本文内容由[Dirty Diana](https://zh.wikipedia.org/wiki/Dirty_Diana)转换而来。
 
 
 "**Dirty Diana**" 是一首由美国歌手[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")演唱的歌曲，也是他第七张录音室专辑《[Bad](https://zh.wikipedia.org/wiki/Bad "wikilink")》里的第七首曲目。 此曲由[史诗唱片](../Page/史诗唱片.md "wikilink")在1988年4月18日作为专辑里的第五个单曲发行。这首歌使用了和他之前一张专辑《[Thriller](https://zh.wikipedia.org/wiki/Thriller "wikilink")》中的《[Beat It](../Page/Beat_It.md "wikilink")》类似的重金属风格，其中的吉他独奏由[史蒂夫·史蒂文斯演奏](https://zh.wikipedia.org/wiki/史蒂夫·史蒂文斯 "wikilink")。"Dirty Diana" 是杰克逊编写，[昆西·琼斯](../Page/昆西·琼斯.md "wikilink")和杰克逊共同制作完成的。这首歌的歌词与[追星族](../Page/追星族.md "wikilink")有关。 "Dirty Diana"  节奏中等，曲调为[降b大调](https://zh.wikipedia.org/wiki/降B大調 "wikilink")。

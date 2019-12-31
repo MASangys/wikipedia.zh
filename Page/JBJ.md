@@ -1,3 +1,6 @@
+> 本文内容由[JBJ](https://zh.wikipedia.org/wiki/JBJ)转换而来。
+
+
 **JBJ**（）是由《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》節目中，排名第21-30名中的7位參賽者所組成的韓國男子演唱團體，成員包括[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、金泰東、[權玄彬](../Page/權玄彬.md "wikilink")、[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")。金泰東因合約問題而無法加入，最終JBJ成員只有六個。JBJ原是粉絲自創的假想男团，後因反應火熱而正式與[CJ E\&M和](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")[LOEN娛樂合作](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，以[FAVE娛樂旗下藝人的身份進行為期](https://zh.wikipedia.org/wiki/LOEN娛樂#Fave_Entertainment\(原Loen_Tree\) "wikilink")7個月的活動。2017年10月18日以第一張迷你專輯《[Fantasy](../Page/Fantasy_\(JBJ迷你專輯\).md "wikilink")》正式出道，並於當晚8點在[高麗大學](../Page/高麗大學.md "wikilink")化汀體育館舉行出道演唱會。
 
 JBJ意為「**Just Be Joyful**」（就這樣在舞台上享受吧），官方應援數字為**787**，原因是787與JBJ形狀相似，另外亦代表87名中的7（7 of 87，全部練習生101名－因健康下車的3名－出道組11名＝87名）。官方應援色為以官方應援數字787調校出的RGB色碼\#787FFF \[1\]和 \#FFF787\[2\]雙色。
@@ -891,89 +894,47 @@ Vlive</p></td>
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:期間限定團體](https://zh.wikipedia.org/wiki/Category:期間限定團體 "wikilink") [Category:JBJ](https://zh.wikipedia.org/wiki/Category:JBJ "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
 
 1.  Pantone 2725C
-
 2.  Yellow 0131 C
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. [\[★이력서\] 엠 아이 핫샷? 아이 엠 핫샷(HOTSHOT)\!](http://www.staraz.co.kr/news/articleView.html?idxno=19003)，Kid Monster將寫錯“鉉”作“銯”
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43. BOF為英文Busan One Asia Festival的縮寫，活動中文名稱為釜山同一個亞洲文化節。
-
 44.
-
 45.

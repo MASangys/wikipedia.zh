@@ -1,3 +1,6 @@
+> 本文内容由[DEAR.](https://zh.wikipedia.org/wiki/DEAR.)转换而来。
+
+
 《**DEAR.**》是[Hey\! Say\! JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")5張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2016年7月27日由[J Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 概要

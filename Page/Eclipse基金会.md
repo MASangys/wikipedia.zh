@@ -1,3 +1,6 @@
+> 本文内容由[Eclipse基金会](https://zh.wikipedia.org/wiki/Eclipse基金会)转换而来。
+
+
 **Eclipse基金会**是管理和运营[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")[Eclipse](../Page/Eclipse.md "wikilink")的基金会。
 
 ## 历史

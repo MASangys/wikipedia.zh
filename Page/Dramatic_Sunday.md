@@ -1,4 +1,4 @@
-> 本文内容由[Dramatic Sunday](https://zh.wikipedia.org/wiki/Dramatic Sunday)转换而来。
+> 本文内容由[Dramatic Sunday](https://zh.wikipedia.org/wiki/Dramatic_Sunday)转换而来。
 
 
 **Dramatic Sunday**（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")及其[聯播網](../Page/電視聯播網.md "wikilink")（[FNS](https://zh.wikipedia.org/wiki/FNS "wikilink")），從2010年10月份開始，於每星期日晚間9:00－9:54（[日本時間](../Page/日本標準時間.md "wikilink")）播出的[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[連續劇系列](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。

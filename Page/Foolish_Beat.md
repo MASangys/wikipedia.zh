@@ -1,4 +1,4 @@
-> 本文内容由[Foolish Beat](https://zh.wikipedia.org/wiki/Foolish Beat)转换而来。
+> 本文内容由[Foolish Beat](https://zh.wikipedia.org/wiki/Foolish_Beat)转换而来。
 
 
 《**愚蠢的節奏**》（**Foolish Beat**）是美國女歌手[黛比·吉布森](../Page/黛比·吉布森.md "wikilink")在1988年2月發行的歌曲，它在告示牌單曲榜獲得一週冠軍，成為黛比·吉布森首支全美冠軍單曲，〈愚蠢的節奏〉在英國單曲榜最高名次為第9名\[1\]\[2\]。

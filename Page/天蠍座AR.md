@@ -1,3 +1,6 @@
+> 本文内容由[天蠍座AR](https://zh.wikipedia.org/wiki/天蠍座AR)转换而来。
+
+
 [Artist’s_impression_video_of_the_exotic_binary_star_system_AR_Scorpii_(video).webm](https://zh.wikipedia.org/wiki/File:Artist’s_impression_video_of_the_exotic_binary_star_system_AR_Scorpii_\(video\).webm "fig:Artist’s_impression_video_of_the_exotic_binary_star_system_AR_Scorpii_(video).webm")
 
 **天蠍座AR**（**AR Scorpii**，縮寫：AR Sco）是由快速自轉且有強磁場的[白矮星](../Page/白矮星.md "wikilink")和[紅矮星](../Page/紅矮星.md "wikilink")組成的[聯星](../Page/聯星.md "wikilink")系統\[1\]。該系統的白矮星是第一顆被發現的白矮星[脈衝星](https://zh.wikipedia.org/wiki/脈衝星 "wikilink")\[2\]。

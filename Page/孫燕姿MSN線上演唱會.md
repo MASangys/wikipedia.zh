@@ -1,3 +1,6 @@
+> 本文内容由[孫燕姿MSN線上演唱會](https://zh.wikipedia.org/wiki/孫燕姿MSN線上演唱會)转换而来。
+
+
 **孫燕姿MSN線上演唱會**是歌手[孫燕姿于](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")2002年6月8日舉行的一場演唱會。此次演唱會聯合[MSN](../Page/MSN.md "wikilink")平台以網路付費直播的方式呈現，是繼[Madonna](https://zh.wikipedia.org/wiki/Madonna "wikilink")、[Alanis Morissette之後第三位在網路舉辦演唱會的歌手](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink")\[1\]。
 
 ## 背景

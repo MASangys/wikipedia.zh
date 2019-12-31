@@ -1,3 +1,6 @@
+> 本文内容由[Asm.js](https://zh.wikipedia.org/wiki/Asm.js)转换而来。
+
+
 **asm.js**是一个[中間語言](../Page/中間語言.md "wikilink")，设计目的是使采用[C等](https://zh.wikipedia.org/wiki/C语言 "wikilink")[编程语言](../Page/编程语言.md "wikilink")编写的[计算机软件可运行为](https://zh.wikipedia.org/wiki/计算机软件 "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")，同时性能特征明显优于标准[JavaScript](../Page/JavaScript.md "wikilink")。
 
 asm.js包括一个[JavaScript](../Page/JavaScript.md "wikilink")的严格子集，其中的代码采用具有手动内存管理的静态类型语言（就像C语言）编写，代码使用一个[源代码至源代码编译器](https://zh.wikipedia.org/wiki/源代码至源代码编译器 "wikilink")（例如基于[LLVM](../Page/LLVM.md "wikilink")的）翻译。通过将语言特性限制在适合和其他性能改进的范围内，性能得到了提高。

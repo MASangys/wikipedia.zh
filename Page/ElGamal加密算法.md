@@ -1,3 +1,6 @@
+> 本文内容由[ElGamal加密算法](https://zh.wikipedia.org/wiki/ElGamal加密算法)转换而来。
+
+
 在[密码学](../Page/密码学.md "wikilink")中，**ElGamal加密算法**是一个基于[迪菲-赫尔曼密钥交换的](https://zh.wikipedia.org/wiki/迪菲-赫尔曼密钥交换 "wikilink")[非对称加密算法](https://zh.wikipedia.org/wiki/非对称加密 "wikilink")。它在1985年由[塔希尔·盖莫尔提出](https://zh.wikipedia.org/wiki/塔希尔·盖莫尔 "wikilink")。\[1\][GnuPG](../Page/GnuPG.md "wikilink")和[PGP](../Page/PGP.md "wikilink")等很多密码学系统中都应用到了ElGamal算法。
 
 ElGamal加密算法可以定义在任何[循环群](https://zh.wikipedia.org/wiki/循环群 "wikilink")\(G\)上。它的安全性取决于\(G\)上的[离散对数](../Page/离散对数.md "wikilink")难题。

@@ -1,3 +1,6 @@
+> 本文内容由[Vibes](https://zh.wikipedia.org/wiki/Vibes)转换而来。
+
+
 《**Vibes**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張敬軒的第](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")19張專輯，是加盟英皇娛樂後第三張錄音室專輯\[1\]，於2016年10月6日推出。
 
 ## 曲目

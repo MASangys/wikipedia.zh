@@ -1,3 +1,6 @@
+> 本文内容由[模块:Lebanese insurgency detailed map](https://zh.wikipedia.org/wiki/模块:Lebanese_insurgency_detailed_map)转换而来。
+
+
 return {
 
 `   marks = {`

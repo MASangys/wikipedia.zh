@@ -1,3 +1,6 @@
+> 本文内容由[心意告示牌 \(JKT48单曲\)](https://zh.wikipedia.org/wiki/心意告示牌_\(JKT48单曲\))转换而来。
+
+
 《**心意告示牌**》（Kokoro No Placard）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48](../Page/JKT48.md "wikilink")的第7張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")。单曲於2014年8月27日由發行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《心意告示牌》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第37首單曲《[心意告示牌](../Page/心意告示牌.md "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要

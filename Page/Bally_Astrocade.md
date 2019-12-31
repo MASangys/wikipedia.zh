@@ -1,4 +1,4 @@
-> 本文内容由[Bally Astrocade](https://zh.wikipedia.org/wiki/Bally Astrocade)转换而来。
+> 本文内容由[Bally Astrocade](https://zh.wikipedia.org/wiki/Bally_Astrocade)转换而来。
 
 
 **Bally Astrocade**（又稱為**Bally Professional Arcade**、**Bally Home Library Computer**或**Bally Computer System**\[1\]）是一款於1977年由[Midway](../Page/Midway.md "wikilink")（當時為[Bally Manufacturing的遊戲部門](https://zh.wikipedia.org/wiki/Bally_Manufacturing "wikilink")）研發的第二世代[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。

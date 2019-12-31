@@ -1,3 +1,6 @@
+> 本文内容由[VIXX音樂作品列表](https://zh.wikipedia.org/wiki/VIXX音樂作品列表)转换而来。
+
+
 《**VIXX音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[VIXX](../Page/VIXX.md "wikilink")歷年發行之各類音樂作品。
 
 ## 專輯
@@ -38,7 +41,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Voodoo" title="wikilink">Voodoo</a></p></td>
+<td><p><a href="../Page/VOODOO.md" title="wikilink">VOODOO</a></p></td>
 <td><ul>
 <li>發行日期：2013年11月25日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>

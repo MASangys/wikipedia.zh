@@ -1,3 +1,6 @@
+> 本文内容由[Bear in Mind](https://zh.wikipedia.org/wiki/Bear_in_Mind)转换而来。
+
+
 《**Bear In Mind**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁靖琪](../Page/梁靖琪.md "wikilink")的首張個人音樂專輯，於2005年6月29日推出。
 
 ## 曲目列表

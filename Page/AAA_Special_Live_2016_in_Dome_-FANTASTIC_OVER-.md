@@ -1,3 +1,6 @@
+> 本文内容由[AAA Special Live 2016 in Dome -FANTASTIC OVER-](https://zh.wikipedia.org/wiki/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER-)转换而来。
+
+
 『*' AAA Special Live 2016 in Dome -FANTASTIC OVER-*'』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2017年3月22日發售的第19張影像作品。
 
 ## 概要

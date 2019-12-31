@@ -1,3 +1,6 @@
+> 本文内容由[遊戲王VRAINS](https://zh.wikipedia.org/wiki/遊戲王VRAINS)转换而来。
+
+
 《**遊戲王VRAINS**》（）是一部於2017年開播的[日本](../Page/日本.md "wikilink")電視動畫，為《[遊戲王](../Page/遊戲王.md "wikilink")》系列的第六部作品。該作最初於2017年2月對外宣布，電視動畫定於2017年5月起在[東京電視網](../Page/東京電視網.md "wikilink")開始播放，接續前作《[遊戲王ARC-V](../Page/遊戲王ARC-V.md "wikilink")》\[1\]。該作的標語是「讓我們向前邁進一步，嘗試一下吧！」，並透過[虛擬實境展現決鬥](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")。作品的主角是，當他在VR空間內時，他的髮型和服裝會改變\[2\]。作品首次引入「連結召喚（リンク召喚）」\[3\]和「[VR決鬥](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")（ブイアールデュエル）」等設定。2017年3月，原作者[高橋和希](../Page/高橋和希.md "wikilink")在自己的[Instagram](../Page/Instagram.md "wikilink")透露，該作的[人物設計](../Page/人物設計.md "wikilink")完全由動畫團隊所負責\[4\]。
 
 名稱「VRAINS」為「VR」（虛擬實境）、「AI」（人工智慧）和「NS」（網路系統）所組成。

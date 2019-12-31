@@ -1,3 +1,6 @@
+> 本文内容由[锰\(IV\)酸锂](https://zh.wikipedia.org/wiki/锰\(IV\)酸锂)转换而来。
+
+
 **锰(IV)酸锂**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Li<sub>2</sub>MnO<sub>3</sub>。它可用于[锂离子电池](../Page/锂离子电池.md "wikilink")的[正极材料](https://zh.wikipedia.org/wiki/正极 "wikilink")。\[1\]
 
 ## 制备

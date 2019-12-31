@@ -1,4 +1,4 @@
-> 本文内容由[Four Loko](https://zh.wikipedia.org/wiki/Four Loko)转换而来。
+> 本文内容由[Four Loko](https://zh.wikipedia.org/wiki/Four_Loko)转换而来。
 
 
 **Four Loko**，是一款源自於[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[酒](../Page/酒.md "wikilink")類飲料，它是由位於[芝加哥](../Page/芝加哥.md "wikilink")的「Phusion Projects」公司自2005年起設計銷售的\[1\]，並且在其後推廣至全美48個州。

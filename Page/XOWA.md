@@ -1,3 +1,6 @@
+> 本文内容由[XOWA](https://zh.wikipedia.org/wiki/XOWA)转换而来。
+
+
 **XOWA**是一个主要由匿名开发者用[Java](../Page/Java.md "wikilink")编写的[开源软件](../Page/开源软件.md "wikilink")，适用于希望在没有互联网连接的情况下运行自己的维基百科或任何其他兼容[Wiki](../Page/Wiki.md "wikilink")的用户。 XOWA与[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OSX](../Page/MacOS.md "wikilink")，[Linux](../Page/Linux.md "wikilink")和[Android](../Page/Android.md "wikilink")兼容。\[1\]
 
 ## 主要功能

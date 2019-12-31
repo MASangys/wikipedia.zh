@@ -1,3 +1,6 @@
+> 本文内容由[MRS-1型柴油机车 \(EMD\)](https://zh.wikipedia.org/wiki/MRS-1型柴油机车_\(EMD\))转换而来。
+
+
 **MRS-1型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）于1952年为（USATC）设计制造的一款1,600马力电力传动[柴油机车](../Page/柴油機車.md "wikilink")。
 
 1950年代初，随着[苏联](../Page/苏联.md "wikilink")在东西欧之间拉起了[铁幕](../Page/铁幕.md "wikilink")，美国加入[联合国军](../Page/联合国军.md "wikilink")卷入[朝鲜战争](../Page/朝鲜战争.md "wikilink")，美苏两大阵营的对抗趋向白热化。为了应对[冷战](../Page/冷战.md "wikilink")时期紧张的国际形势，以及可能发生在各地的局部战争甚至大规模战争，美国陆军运输兵决定招标采购一款可适用于多种铁路系统的柴油机车，以增强战争爆发时的紧急动员和军事运输力量。根据[美国陆军](../Page/美国陆军.md "wikilink")提出的技术设计要求，通用汽车易安迪公司与[美国机车公司](../Page/美国机车公司.md "wikilink")（联同[通用电气](../Page/通用电气.md "wikilink")公司）提出了各自的军用柴油机车设计方案\[1\]。

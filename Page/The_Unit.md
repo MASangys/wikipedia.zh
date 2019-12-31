@@ -1,3 +1,6 @@
+> 本文内容由[The Unit](https://zh.wikipedia.org/wiki/The_Unit)转换而来。
+
+
 《**The Unit**》（，，別名為**THE FINAL 99 MATCH**）為[MBK娛樂](../Page/MBK娛樂.md "wikilink")及[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS電視台斥資](../Page/韓國放送公社.md "wikilink")70億韓圓（約新台幣1.9億元）製作的大型選秀節目\[1\]，其中「**UNI+**」是代表「**You & I Plus**」的意思。\[2\]\[3\]\[4\]官方觀眾粉絲名稱為「UNI+ MAKER」。
 
 節目邀請現役或曾活動的偶像，重新挖掘其價值與潛力，並推出限定團體。\[5\]\[6\]製作組約收到500份左右申請書，節目於2017年10月28日正式開播，并在2018年2月11日结束。\[7\]\[8\]
@@ -83,7 +86,7 @@
 <td><p><a href="../Page/JOO.md" title="wikilink">鄭雅璘</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜蕙姸" title="wikilink">姜蕙姸</a></p></td>
+<td><p><a href="../Page/姜蕙姸.md" title="wikilink">姜蕙姸</a></p></td>
 </tr>
 <tr class="even">
 <td><p>南侑廷</p></td>
@@ -2491,119 +2494,64 @@
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韩国音乐比赛](https://zh.wikipedia.org/wiki/Category:韩国音乐比赛 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.  더 유닛 : 훈남쓰 - All Day \[M/V\]}}
-
 48.  더 유닛 : K.B.S - Question \[M/V\]}}
-
 49.
-
 50.
-
 51.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.10.13\]|date=2017-10-17|url=[https://www.youtube.com/watch?v=LRizfAJXQDY|accessdate=2017-11-13](https://www.youtube.com/watch?v=LRizfAJXQDY%7Caccessdate=2017-11-13)}}
-
 52.  더 유닛 - 빛 \[Music Bank Special Stage / 2017.10.20\]|date=2017-10-24|url=[https://www.youtube.com/watch?v=HSAo_3TJ4iU|accessdate=2017-11-13](https://www.youtube.com/watch?v=HSAo_3TJ4iU%7Caccessdate=2017-11-13)}}
-
 53.
-
 54.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.11.03\]|date=2017-11-07|url=[https://www.youtube.com/watch?v=tgvQcr8mkrk|accessdate=2017-11-13](https://www.youtube.com/watch?v=tgvQcr8mkrk%7Caccessdate=2017-11-13)}}
-
 55.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.11.17\]|date=2017-11-17|url=[https://www.youtube.com/watch?v=OuEEx3ovOro|accessdate=2017-11-17](https://www.youtube.com/watch?v=OuEEx3ovOro%7Caccessdate=2017-11-17)}}
-
 56.  더 유닛 - 마이턴 \[Music Bank Special Stage / 2017.11.24\]|date=2017-11-17|url=[https://www.youtube.com/watch?v=Rb7FQGTLRxY|accessdate=2017-11-24](https://www.youtube.com/watch?v=Rb7FQGTLRxY%7Caccessdate=2017-11-24)}}
-
 57.
-
 58.
-
 59.
-
 60.
-
 61.
-
 62.

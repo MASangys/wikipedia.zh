@@ -1,4 +1,4 @@
-> 本文内容由[Mythic Entertainment](https://zh.wikipedia.org/wiki/Mythic Entertainment)转换而来。
+> 本文内容由[Mythic Entertainment](https://zh.wikipedia.org/wiki/Mythic_Entertainment)转换而来。
 
 
 **Mythic Entertainment**（曾用名BioWare Mythic，EA Mythic,Inc.和Interworld Productions）是弗吉尼亚州费尔法克斯的一个游戏开发商，该工作室在2001年发布大型多人在线角色扮演游戏《[亚瑟王的暗黑时代](../Page/亚瑟王的暗黑时代.md "wikilink")》（Dark Age of Camelot）。该公司也曾在20世纪90年代中期创作多人在线游戏。

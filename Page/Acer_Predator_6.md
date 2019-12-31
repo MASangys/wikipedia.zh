@@ -1,4 +1,4 @@
-> 本文内容由[Acer Predator 6](https://zh.wikipedia.org/wiki/Acer Predator 6)转换而来。
+> 本文内容由[Acer Predator 6](https://zh.wikipedia.org/wiki/Acer_Predator_6)转换而来。
 
 
 **Predator 6**，是[宏碁](../Page/宏碁.md "wikilink")於2015年9月2日即将推出旗艦智能，搭載Android5.1，配有6.0英寸1280x720[解析度的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、Helio X20十核處理器、4GB的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，後置攝像頭具有1300畫素OIS光學防抖動功能，前置則有800畫素廣角自拍和備有美顏模式。電池方面使用?mAh。這款手機苍穹黑，皓月银，流光金，栖霞粉，暮光紫，同期最大競爭對手是小米Note。\[1\]

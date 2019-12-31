@@ -1,3 +1,6 @@
+> 本文内容由[Begin Again \(電視節目\)](https://zh.wikipedia.org/wiki/Begin_Again_\(電視節目\))转换而来。
+
+
 《**Begin Again**》（）\[1\]為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的音樂節目，由韓國頂級音樂人在海外陌生的城市挑戰街頭路演\[2\]\[3\]。第一季出演者為[李素羅](../Page/李素羅.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[尹道賢](https://zh.wikipedia.org/wiki/尹道賢 "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")\[4\]。
 
 ## 各集內容

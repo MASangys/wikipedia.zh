@@ -1,3 +1,6 @@
+> 本文内容由[DNS沉洞](https://zh.wikipedia.org/wiki/DNS沉洞)转换而来。
+
+
 **DNS沉洞**（），又名**沉洞服务器**、**网络**[沉洞或者](https://zh.wikipedia.org/wiki/沉洞 "wikilink")**黑洞DNS**\[1\]指[DNS服务器给出错误信息](https://zh.wikipedia.org/wiki/DNS "wikilink")，从而防止访问特定[域名](../Page/域名.md "wikilink")。
 
 ## 運作情形

@@ -1,3 +1,6 @@
+> 本文内容由[SIXTH SENSE ADVENTURE](https://zh.wikipedia.org/wiki/SIXTH_SENSE_ADVENTURE)转换而来。
+
+
 《**SIXTH SENSE ADVENTURE**》是[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")「[涼宮春日系列](../Page/涼宮春日系列.md "wikilink")」自2016年12月18日起在[角子機](../Page/角子機.md "wikilink")機台《角子機 涼宮春日的憂鬱》搭配使用的最新單曲，由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 解說

@@ -1,4 +1,4 @@
-> 本文内容由[Annapurna Pictures](https://zh.wikipedia.org/wiki/Annapurna Pictures)转换而来。
+> 本文内容由[Annapurna Pictures](https://zh.wikipedia.org/wiki/Annapurna_Pictures)转换而来。
 
 
 **Annapurna Pictures**是在2011年，由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[甲骨文公司](../Page/甲骨文公司.md "wikilink")[首席執行官](https://zh.wikipedia.org/wiki/首席執行官 "wikilink")[勞倫斯·埃里森](https://zh.wikipedia.org/wiki/勞倫斯·埃里森 "wikilink")（Larry Ellison）和芭芭拉·布思的女兒[梅根·艾利森](https://zh.wikipedia.org/wiki/梅根·艾利森 "wikilink")，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")（總部）創辦的電影發行商及製作商。

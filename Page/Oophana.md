@@ -1,3 +1,6 @@
+> 本文内容由[Oophana](https://zh.wikipedia.org/wiki/Oophana)转换而来。
+
+
 是一個會呼吸空氣的[樹生蝸牛的](https://zh.wikipedia.org/wiki/樹生蝸牛 "wikilink")[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，是[有肺類](https://zh.wikipedia.org/wiki/有肺類 "wikilink")[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物之下的](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")[柄眼類](../Page/柄眼類.md "wikilink")[扭蝸牛科的成員](https://zh.wikipedia.org/wiki/扭蝸牛科 "wikilink")\[1\]\[2\]。
 
 ## 分佈

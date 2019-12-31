@@ -1,4 +1,4 @@
-> 本文内容由[Showtime Mamamoo X GFriend](https://zh.wikipedia.org/wiki/Showtime Mamamoo X GFriend)转换而来。
+> 本文内容由[Showtime Mamamoo X GFriend](https://zh.wikipedia.org/wiki/Showtime_Mamamoo_X_GFriend)转换而来。
 
 
 《**SHOWTIME MAMAMOO X GFRIEND**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")的[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO和](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")成員共同拍攝\[1\]，2016年7月7日起逢星期四[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18:00至19:00播出。

@@ -1,3 +1,6 @@
+> 本文内容由[Rubber Soul \(组合\)](https://zh.wikipedia.org/wiki/Rubber_Soul_\(组合\))转换而来。
+
+
 {{ otheruses | subject=韩国一女子组合 | other=[披頭四的一張專輯](https://zh.wikipedia.org/wiki/披頭四 "wikilink") | Rubber Soul }}
 
 **Rubber Soul**（）是韩国女子组合。2015年2月10日她们以单曲《Life》正式出道，该单曲由曾帮助过她们的导师[Mad Clown合作制作](../Page/Mad_Clown.md "wikilink")。组合出道时为3人团体，分别为：Choi Cho、Kim、Lala，后成员Lala退出变为2人团体。团名来自[披头士乐队专辑](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")《Rubber Soul》，该名字展示了成员以流行音乐家和表演艺术家身份与听众交流的愿望\[1\]。

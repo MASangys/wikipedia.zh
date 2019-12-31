@@ -1,4 +1,4 @@
-> 本文内容由[Neo-Geo Pocket Color游戏列表](https://zh.wikipedia.org/wiki/Neo-Geo Pocket Color游戏列表)转换而来。
+> 本文内容由[Neo-Geo Pocket Color游戏列表](https://zh.wikipedia.org/wiki/Neo-Geo_Pocket_Color游戏列表)转换而来。
 
 
 本电子游戏列表列举了[SNK](../Page/SNK.md "wikilink") [Neo Geo Pocket Color的](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。

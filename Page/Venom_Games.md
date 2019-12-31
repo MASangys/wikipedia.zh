@@ -1,4 +1,4 @@
-> 本文内容由[Venom Games](https://zh.wikipedia.org/wiki/Venom Games)转换而来。
+> 本文内容由[Venom Games](https://zh.wikipedia.org/wiki/Venom_Games)转换而来。
 
 
 **Venom Games**，是总部设在纽卡斯尔的英国游戏开发商。

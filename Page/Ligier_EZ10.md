@@ -1,4 +1,4 @@
-> 本文内容由[Ligier EZ10](https://zh.wikipedia.org/wiki/Ligier EZ10)转换而来。
+> 本文内容由[Ligier EZ10](https://zh.wikipedia.org/wiki/Ligier_EZ10)转换而来。
 
 
 **利吉爾\[1\]EZ10**（，全稱為 Ligier EZ-10 Easy Mile，下文簡稱EZ10），是使用[電池為動力的](https://zh.wikipedia.org/wiki/電池 "wikilink")[自動駕駛汽車](../Page/自動駕駛汽車.md "wikilink")。其車體的生產製造由集團負責；而車上[導航系統的設計與安裝由Easy](https://zh.wikipedia.org/wiki/導航系統 "wikilink") Mile公司提供。Easy Mile是Ligier與另家專營機器人服務的法國公司robosoft共組的[合資企業](https://zh.wikipedia.org/wiki/合資企業 "wikilink")\[2\]。

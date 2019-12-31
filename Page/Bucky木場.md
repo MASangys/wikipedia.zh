@@ -1,3 +1,6 @@
+> 本文内容由[Bucky木場](https://zh.wikipedia.org/wiki/Bucky木場)转换而来。
+
+
 **Bucky木場**（，），[日本](../Page/日本.md "wikilink")資深男[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")、[配音員](../Page/配音員.md "wikilink")。[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")（簡稱俳協）所屬\[1\]。出身於[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")\[2\]。
 
 ## 人物簡介

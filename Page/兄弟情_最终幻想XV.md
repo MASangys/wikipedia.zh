@@ -1,3 +1,6 @@
+> 本文内容由[兄弟情 最终幻想XV](https://zh.wikipedia.org/wiki/兄弟情_最终幻想XV)转换而来。
+
+
 是一款由[史克威爾艾尼克斯製作](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，同屬《[最終幻想XV](../Page/最終幻想XV.md "wikilink")》世界觀的動畫。
 
 ## 登場人物

@@ -1,3 +1,6 @@
+> 本文内容由[OpenBazaar](https://zh.wikipedia.org/wiki/OpenBazaar)转换而来。
+
+
 **开放宝市**（）是一个[去中心化的](https://zh.wikipedia.org/wiki/去中心化 "wikilink")[电商](https://zh.wikipedia.org/wiki/电商 "wikilink")。\[1\]\[2\]\[3\]\[4\]她的用户使用多种与[比特币](../Page/比特币.md "wikilink")类似的[加密](../Page/加密.md "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")，\[5\]其灵感来自一个匿名组织的DarkMarket项目。
 
 与依赖中央服务器交换数据的商业电商不同，开放宝市的服务器存在于用户们的[对等网络中](../Page/對等網路.md "wikilink")，无任何监管中心，无任何手续费用。\[6\]他们的口号是“买卖自由/Buy and Sell Freely”。

@@ -1,3 +1,6 @@
+> 本文内容由[Salute to Dear Leslie](https://zh.wikipedia.org/wiki/Salute_to_Dear_Leslie)转换而来。
+
+
 《**Salute to Dear Leslie**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[古巨基](../Page/古巨基.md "wikilink")為紀念其偶像[張國榮](../Page/張國榮.md "wikilink")而推出的翻唱專輯，於2017年3月17日推出。除了開首的《Dear Leslie》是新歌外，其餘歌曲都是翻唱。
 
 ## 曲目列表

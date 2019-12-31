@@ -1,3 +1,6 @@
+> 本文内容由[BLACKPINK音樂作品列表](https://zh.wikipedia.org/wiki/BLACKPINK音樂作品列表)转换而来。
+
+
 **BLACKPINK音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")自2016年出道至今所發行的音樂作品。該團體隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，以單曲《[Square One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》在2016年8月8日正式出道。迄今，BLACKPINK在韓國及日本共發行了4張單曲、3張迷你專輯、1張正規專輯\[1\]。
 
 ## 正規專輯

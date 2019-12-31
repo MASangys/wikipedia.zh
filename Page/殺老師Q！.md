@@ -1,3 +1,6 @@
+> 本文内容由[殺老師Q！](https://zh.wikipedia.org/wiki/殺老師Q！)转换而来。
+
+
 《**殺老師Q！**》（）是2015年11月號的《[最強Jump](https://zh.wikipedia.org/wiki/最強Jump "wikilink")》上連載，《[暗殺教室](https://zh.wikipedia.org/wiki/暗殺教室 "wikilink")》的[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。企畫、故事為渡邉築、作畫為[青戶成](https://zh.wikipedia.org/wiki/青戶成 "wikilink")。把原作世界觀變成RPG世界的[喜劇](../Page/喜劇.md "wikilink")作品。已發布第4冊[單行本及](https://zh.wikipedia.org/wiki/單行本 "wikilink")[ONA](https://zh.wikipedia.org/wiki/ONA "wikilink")。
 
 ## 劇情

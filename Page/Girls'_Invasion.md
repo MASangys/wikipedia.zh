@@ -1,3 +1,6 @@
+> 本文内容由[Girls\' Invasion](https://zh.wikipedia.org/wiki/Girls\'_Invasion)转换而来。
+
+
 《**Girls' Invasion**》 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的首張正規專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2014年11月17日發行。该专辑共收入9首歌曲，主打歌曲為〈Candy Jelly Love〉。該專輯於2015年3月3日以《[Hi\~](../Page/Hi~.md "wikilink")》作为改版专辑重新發行。
 
 ## 背景

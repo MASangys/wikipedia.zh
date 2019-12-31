@@ -1,3 +1,6 @@
+> 本文内容由[Netsh](https://zh.wikipedia.org/wiki/Netsh)转换而来。
+
+
 在计算机科学中，**netsh**（亦称**[网络壳层](../Page/计算机网络.md "wikilink")**）是一个存在于自[微软](../Page/微软.md "wikilink")[Windows 2000开始的所有](../Page/Windows_2000.md "wikilink")[Windows NT系列中的命令行工具](../Page/Windows_NT.md "wikilink")。它允许本地或远程配置[网络设备](https://zh.wikipedia.org/wiki/网络设备 "wikilink")，例如[硬件接口](../Page/介面_\(資訊科技\).md "wikilink")。
 
 Netsh常用于重置[TCP/IP 协议栈到缺省或已知良好的状态](../Page/协议栈.md "wikilink")，在[Windows 98中的一项任务需要重新安装](../Page/Windows_98.md "wikilink")[TCP/IP适配器](https://zh.wikipedia.org/wiki/TCP/IP协议族 "wikilink")。在此模式中，必须提供一份Netsh有关作出更改值的日志文件。

@@ -1,3 +1,6 @@
+> 本文内容由[EFF DES破解机](https://zh.wikipedia.org/wiki/EFF_DES破解机)转换而来。
+
+
 [Board300.jpg](https://zh.wikipedia.org/wiki/File:Board300.jpg "fig:Board300.jpg")这台价值250,000美元的DES破解机包含1,856个定制的芯片，能在短短几天之内暴力破解DES的密钥。图中展示了机器的双面[电路板](https://zh.wikipedia.org/wiki/电路板 "wikilink")，安装了64个“深译”芯片\]\]
 
 **EFF DES破解机**（）是[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")（EFF）在1998年建造的机器，用于[暴力破解美国政府的](https://zh.wikipedia.org/wiki/暴力破解法 "wikilink")[数据加密标准](https://zh.wikipedia.org/wiki/数据加密标准 "wikilink")，即DES加密算法，昵称“**深译**”（）。这台机器能够对DES[密钥空间中所有的](https://zh.wikipedia.org/wiki/密钥空间 "wikilink")[密钥](../Page/密钥.md "wikilink")逐一进行尝试，从而将[密文破解](https://zh.wikipedia.org/wiki/密文 "wikilink")，其目的在于证明DES的[密钥长度不足](https://zh.wikipedia.org/wiki/密钥长度 "wikilink")，不能保证安全。

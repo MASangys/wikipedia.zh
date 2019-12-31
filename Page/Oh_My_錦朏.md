@@ -1,3 +1,6 @@
+> 本文内容由[Oh My 錦朏](https://zh.wikipedia.org/wiki/Oh_My_錦朏)转换而来。
+
+
 《**Oh My 金雨**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2016年11月16日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")。由《[蔣英實](../Page/蔣英實_\(電視劇\).md "wikilink")》金英兆導演和全浩成、李明熙作家攜手合作。講述是一位爸爸照顧患有[尼曼匹克症](../Page/尼曼匹克症.md "wikilink")、記憶喪失的8歲女兒的過程中，體悟到人生價值的故事。
 
 ## 演員陣容

@@ -1,3 +1,6 @@
+> 本文内容由[Vernon](https://zh.wikipedia.org/wiki/Vernon)转换而来。
+
+
 Vernon是一個常見的男子名，常譯為「弗農」、「維農」。它可以指：
 
 ## 地名

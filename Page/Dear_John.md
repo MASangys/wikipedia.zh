@@ -1,3 +1,6 @@
+> 本文内容由[Dear John](https://zh.wikipedia.org/wiki/Dear_John)转换而来。
+
+
 **Dear John**，是一支[香港](../Page/香港.md "wikilink")樂隊，由[衛蘭](../Page/衛蘭.md "wikilink")、[衛詩](../Page/衛詩.md "wikilink")和[JUDE組成](../Page/曾若華.md "wikilink")。「Dear John」的名字來源，是“[Dear Jane](../Page/Dear_Jane.md "wikilink")”樂團的女子版。「Dear John」的產生完全是即興。该乐团成立于2016年。
 
 2017年，[連詩雅正式退出该乐团](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")，轉投[hmv MUSIC](../Page/HMV數碼中國集團.md "wikilink")。

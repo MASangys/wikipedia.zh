@@ -1,3 +1,6 @@
+> 本文内容由[Miracle Girl](https://zh.wikipedia.org/wiki/Miracle_Girl)转换而来。
+
+
 《**Miracle Girl**》（）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[永井真理子](../Page/永井真理子.md "wikilink")\[1\]的第4張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。1989年5月24日由[Fan House發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 概要

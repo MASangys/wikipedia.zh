@@ -1,4 +1,4 @@
-> 本文内容由[贞操带 \(BDSM\)](https://zh.wikipedia.org/wiki/贞操带 \(BDSM\))转换而来。
+> 本文内容由[贞操带 \(BDSM\)](https://zh.wikipedia.org/wiki/贞操带_\(BDSM\))转换而来。
 
 
 在BDSM中使用的贞操带可以用作高潮控制的一部分，以防止佩戴者进行性交或手淫。在BDSM中，贞操带可以由男性和女性穿着，使用时间可以为有限期或长期。

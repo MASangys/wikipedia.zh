@@ -1,4 +1,4 @@
-> 本文内容由[HTTP 451](https://zh.wikipedia.org/wiki/HTTP 451)转换而来。
+> 本文内容由[HTTP 451](https://zh.wikipedia.org/wiki/HTTP_451)转换而来。
 
 
 在[電腦網路領域中](https://zh.wikipedia.org/wiki/電腦網路 "wikilink")，**HTTP 451 因法律原因不可用**（）是一種[HTTP協定的錯誤](https://zh.wikipedia.org/wiki/HTTP "wikilink")[狀態代碼](https://zh.wikipedia.org/wiki/HTTP狀態碼 "wikilink")，當使用者請求存取某個經政府審核等查核方法後認定不合法的來源時，就會顯示這個錯誤代碼。

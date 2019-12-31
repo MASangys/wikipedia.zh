@@ -1,3 +1,6 @@
+> 本文内容由[RY作战](https://zh.wikipedia.org/wiki/RY作战)转换而来。
+
+
 **RY作战**是指[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间[大日本帝国](../Page/大日本帝国.md "wikilink")对[瑙鲁与](../Page/諾魯.md "wikilink")[巴纳巴岛](../Page/巴纳巴岛.md "wikilink")入侵计划，其目的在于获取岛上的[磷酸盐资源](../Page/磷酸鹽.md "wikilink")。
 
 ## 背景

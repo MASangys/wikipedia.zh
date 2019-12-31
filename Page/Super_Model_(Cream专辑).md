@@ -1,4 +1,4 @@
-> 本文内容由[Super Model \(Cream专辑\)](https://zh.wikipedia.org/wiki/Super Model \(Cream专辑\))转换而来。
+> 本文内容由[Super Model \(Cream专辑\)](https://zh.wikipedia.org/wiki/Super_Model_\(Cream专辑\))转换而来。
 
 
 **《Cream Garden》**是香港歌手李蕴前組合[Cream的第二張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，包含两张CD和一张VCD。

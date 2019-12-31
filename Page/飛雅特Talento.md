@@ -1,3 +1,6 @@
+> 本文内容由[飛雅特Talento](https://zh.wikipedia.org/wiki/飛雅特Talento)转换而来。
+
+
 **飛雅特Talento**是[意大利](../Page/意大利.md "wikilink")汽車公司[菲亚特的一款轻型商用车](https://zh.wikipedia.org/wiki/菲亚特 "wikilink")，此车型1981年第一次售卖。此车型共有两代。
 
 ## 第一代（1981-1993）

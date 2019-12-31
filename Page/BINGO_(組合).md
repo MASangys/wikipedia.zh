@@ -1,3 +1,6 @@
+> 本文内容由[BINGO \(組合\)](https://zh.wikipedia.org/wiki/BINGO_\(組合\))转换而来。
+
+
 **BINGO**，[香港](../Page/香港.md "wikilink")的女子跳唱組合，於2016年成立，現共2位成員。BINGO的現有成員包括關嘉敏（Carman）及陳康琪（Odilia） 現於天盟娛樂旗下。
 
 ## 團名由來

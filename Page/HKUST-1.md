@@ -1,3 +1,6 @@
+> 本文内容由[HKUST-1](https://zh.wikipedia.org/wiki/HKUST-1)转换而来。
+
+
 **HKUST-1**是一种[金属有机框架材料](../Page/金属有机框架材料.md "wikilink")，其名称来自于[香港科技大学](https://zh.wikipedia.org/wiki/香港科技大学 "wikilink")（）。它是[1,3,5-苯三甲酸和](https://zh.wikipedia.org/wiki/1,3,5-苯三甲酸 "wikilink")[铜](../Page/铜.md "wikilink")的[配合物](../Page/配合物.md "wikilink")。\[1\]
 
 ## 制备

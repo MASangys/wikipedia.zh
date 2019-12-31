@@ -1,4 +1,4 @@
-> 本文内容由[Believe \(Kalafina單曲\)](https://zh.wikipedia.org/wiki/Believe \(Kalafina單曲\))转换而来。
+> 本文内容由[Believe \(Kalafina單曲\)](https://zh.wikipedia.org/wiki/Believe_\(Kalafina單曲\))转换而来。
 
 
 《**believe**》，為[Kalafina](../Page/Kalafina.md "wikilink")的第十六張單曲。由[梶浦由記](../Page/梶浦由記.md "wikilink")作詞・作曲。距離上一張單曲「[heavenly blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")」發售約三個月，於2014年11月19日發行，也是兩張精選專輯發行以來第一張未被其收錄的單曲。

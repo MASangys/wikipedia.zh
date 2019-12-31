@@ -1,3 +1,6 @@
+> 本文内容由[模块:Japanese calendar](https://zh.wikipedia.org/wiki/模块:Japanese_calendar)转换而来。
+
+
 \-- This module defines an "era" class for processing eras in the Japanese calendar. -- It also contains functions to export the class properties to \#invoke.
 
 local eras = mw.loadData( 'Module:Japanese calendar/data' ) local halfToFull = require( 'Module:Convert character width' ).full -- Converts half-width characters to full-width characters.

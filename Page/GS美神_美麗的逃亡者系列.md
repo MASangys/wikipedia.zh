@@ -1,3 +1,6 @@
+> 本文内容由[GS美神 美麗的逃亡者系列](https://zh.wikipedia.org/wiki/GS美神_美麗的逃亡者系列)转换而来。
+
+
 《**GS美神 美麗的逃亡者系列**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志](../Page/椎名高志.md "wikilink")的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[GS美神](../Page/GS美神_極樂大作戰！！.md "wikilink")》的[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")、[單曲系列](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 全5張。1994年1月21日全由[King Records同步發行](../Page/國王唱片.md "wikilink")。

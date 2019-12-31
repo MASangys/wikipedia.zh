@@ -1,3 +1,6 @@
+> 本文内容由[ROM卡带](https://zh.wikipedia.org/wiki/ROM卡带)转换而来。
+
+
 [PokemonSilverBoard.jpg](https://zh.wikipedia.org/wiki/File:PokemonSilverBoard.jpg "fig:PokemonSilverBoard.jpg")》[Game Boy Color卡带](../Page/Game_Boy_Color.md "wikilink")（1999年發售），带有用来保存游戏及存档的电池供电[非永久性存储器](https://zh.wikipedia.org/wiki/非永久性存储器 "wikilink")（尺寸56 mm × 65 mm × 8 mm）\]\]
 
 ，有时简称**卡带**或**卡**，是与[家用电脑](../Page/家用电脑.md "wikilink")、[电子游戏机及少部分](https://zh.wikipedia.org/wiki/电子游戏机 "wikilink")[电子乐器联接的消费性电子设备](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")，主要是由拆卸式外壳保护的[唯讀記憶體](../Page/唯讀記憶體.md "wikilink")（ROM）构成。ROM卡带可用来储存[电子游戏](../Page/电子游戏.md "wikilink")等应用程序数据。

@@ -1,3 +1,6 @@
+> 本文内容由[TAT-1](https://zh.wikipedia.org/wiki/TAT-1)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:The_Bell_System_technical_journal_\(1922\)_\(14753547484\).jpg "fig:缩略图") **TAT-1**（）是第一条系统，位于[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")[奧本](../Page/奧本.md "wikilink")与[纽芬兰](https://zh.wikipedia.org/wiki/纽芬兰 "wikilink")之间。\[1\]该电缆系统在1955年至1956年间铺设了两条，每个方向一条。它于1956年9月25日开始应用。\[2\]该电缆系统能够同时承载35门电话线路。\[3\]第36条信道用于承载22条[电报](../Page/电报.md "wikilink")线路。
 
 ## 历史

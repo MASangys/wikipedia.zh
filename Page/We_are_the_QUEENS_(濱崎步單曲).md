@@ -1,4 +1,4 @@
-> 本文内容由[We are the QUEENS \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/We are the QUEENS \(濱崎步單曲\))转换而来。
+> 本文内容由[We are the QUEENS \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/We_are_the_QUEENS_\(濱崎步單曲\))转换而来。
 
 
 \-{T|We are the QUEENS}-

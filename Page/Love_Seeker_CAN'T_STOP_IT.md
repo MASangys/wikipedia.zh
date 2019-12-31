@@ -1,3 +1,6 @@
+> 本文内容由[Love Seeker CAN\'T STOP IT](https://zh.wikipedia.org/wiki/Love_Seeker_CAN\'T_STOP_IT)转换而来。
+
+
 《**Love Seeker CAN'T STOP IT**》（）是[日本](../Page/日本.md "wikilink")音樂組合的總計第2張單曲。1992年4月29日經由發行。
 
 ## 解說

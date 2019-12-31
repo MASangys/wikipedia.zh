@@ -1,4 +1,4 @@
-> 本文内容由[IPhone OS 3](https://zh.wikipedia.org/wiki/IPhone OS 3)转换而来。
+> 本文内容由[IPhone OS 3](https://zh.wikipedia.org/wiki/IPhone_OS_3)转换而来。
 
 
 **iPhone OS 3**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")（時稱為[iPhone OS](https://zh.wikipedia.org/wiki/iPhone_OS "wikilink")）的第三個主要版本，取代前代作業系統[iPhone OS 2](https://zh.wikipedia.org/wiki/iPhone_OS_2 "wikilink")。iPhone OS 3於2009年3月在蘋果位於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[庫帕提諾的](https://zh.wikipedia.org/wiki/Cupertino "wikilink")[公司總部中首次公布](https://zh.wikipedia.org/wiki/Apple_Campus "wikilink")，並於同年6月17日正式推出。與之前iPhone OS的更新模式相同，iPhone OS 3可以在所有舊款的iPhone OS裝置上運行（但iPod touch裝置用戶需花9.95[美元](../Page/美元.md "wikilink")才可升級）。此外，iPhone OS 3是最後一個被命名為iPhone OS的主要版本（iPhone OS 3之後皆稱為iOS）\[1\]。繼任者為2010年6月21日推出的[iOS 4](https://zh.wikipedia.org/wiki/iOS_4 "wikilink")\[2\]。

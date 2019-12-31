@@ -1,4 +1,4 @@
-> 本文内容由[You\'re in Love \(威爾森·菲利浦歌曲\)](https://zh.wikipedia.org/wiki/You\'re in Love \(威爾森·菲利浦歌曲\))转换而来。
+> 本文内容由[You\'re in Love \(威爾森·菲利浦歌曲\)](https://zh.wikipedia.org/wiki/You\'re_in_Love_\(威爾森·菲利浦歌曲\))转换而来。
 
 
 《**You're in Love**》是美國白人女子三人重唱[威尔森·菲利浦](../Page/威尔森·菲利浦.md "wikilink")（）在1991年1月發行的單曲，此單曲在告示牌單曲榜奪得1週冠軍，成為該團第3首全美冠軍單曲\[1\]\[2\]。

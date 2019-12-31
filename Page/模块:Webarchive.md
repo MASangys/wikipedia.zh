@@ -1,3 +1,6 @@
+> 本文内容由[模块:Webarchive](https://zh.wikipedia.org/wiki/模块:Webarchive)转换而来。
+
+
 \--[---------------------------------- Lua module implementing the {{webarchive}} template. A merger of the functionality of three templates: {{wayback}}, {{webcite}} and {{cite archives}}](https://zh.wikipedia.org/wiki/----------------------------------_Lua_module_implementing_the_{{webarchive}}_template._A_merger_of_the_functionality_of_three_templates:_{{wayback}},_{{webcite}}_and_{{cite_archives}} "wikilink")
 
 local p = {}

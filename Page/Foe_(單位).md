@@ -1,3 +1,6 @@
+> 本文内容由[Foe \(單位\)](https://zh.wikipedia.org/wiki/Foe_\(單位\))转换而来。
+
+
 **foe** 是一個用來描述[超新星](../Page/超新星.md "wikilink")所釋出[能量](../Page/能量.md "wikilink")的單位，其值為10<sup>44</sup>[焦耳](../Page/焦耳.md "wikilink")或10<sup>51</sup>[erg](https://zh.wikipedia.org/wiki/erg "wikilink")。\[1\]一個 **bethe (B)** 和一個 foe 等值。\[2\]
 
 foe 是 \[ten to the power of\] **f**ifty-**o**ne **e**rgs\[3\] 的[首字母縮寫](https://zh.wikipedia.org/wiki/首字母縮寫 "wikilink")。

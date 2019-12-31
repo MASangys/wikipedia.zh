@@ -1,3 +1,6 @@
+> 本文内容由[VROMANCE](https://zh.wikipedia.org/wiki/VROMANCE)转换而来。
+
+
 **VROMANCE**（），原名**Bromance**\[1\]，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")4人男子組合\[2\]，於2016年7月12日發行迷你專輯《THE ACTION》以主打歌《女性朋友》（）出道\[3\]。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[2016 Re-ALBUM](https://zh.wikipedia.org/wiki/2016_Re-ALBUM)转换而来。
+
+
 《**2016 Re-ALBUM**》是[韓國第一代](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")於2016年5月11日加入[YG娛樂](../Page/YG娛樂.md "wikilink")重啟活動後，於同年12月1日所發行的重新錄音專輯。專輯由[YG娛樂](../Page/YG娛樂.md "wikilink")製作、[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2016年12月1日午夜0時通過各大數位音樂網站公開線上音源，實體專輯則於12月6日以兩種版本發售。此專輯從水晶男孩於1997年至2000年解散前所發行的五張專輯中，精選十首曲目重新編曲、錄音、混音，並收錄2016年10月發行的數位單曲《[THREE WORDS](../Page/THREE_WORDS.md "wikilink")》，主打歌為〈COUPLE〉、〈騎士道〉、〈戀情〉。
 
 ## 背景

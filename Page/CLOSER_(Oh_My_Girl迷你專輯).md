@@ -1,4 +1,4 @@
-> 本文内容由[CLOSER \(Oh My Girl迷你專輯\)](https://zh.wikipedia.org/wiki/CLOSER \(Oh My Girl迷你專輯\))转换而来。
+> 本文内容由[CLOSER \(Oh My Girl迷你專輯\)](https://zh.wikipedia.org/wiki/CLOSER_\(Oh_My_Girl迷你專輯\))转换而来。
 
 
 《**CLOSER**》，是韓國女子演唱團體[Oh My Girl的第二張迷你專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，以〈CLOSER〉為主打歌。

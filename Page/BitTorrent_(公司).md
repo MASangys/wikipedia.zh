@@ -1,4 +1,4 @@
-> 本文内容由[BitTorrent \(公司\)](https://zh.wikipedia.org/wiki/BitTorrent \(公司\))转换而来。
+> 本文内容由[BitTorrent \(公司\)](https://zh.wikipedia.org/wiki/BitTorrent_\(公司\))转换而来。
 
 
 **BitTorrent, Inc.**，总部位于[美国](../Page/美国.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")，是一家私人持有的[美国](../Page/美国.md "wikilink")公司。公司由[Bram Cohen和Ashwin](../Page/布莱姆·科亨.md "wikilink") Navin成立于2004年9月22日。公司持续开发[BitTorrent点对点协议](../Page/BitTorrent_\(协议\).md "wikilink")，以及使用该协议的[µTorrent和BitTorrent等软件](https://zh.wikipedia.org/wiki/µTorrent "wikilink")。

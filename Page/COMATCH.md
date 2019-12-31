@@ -1,3 +1,6 @@
+> 本文内容由[COMATCH](https://zh.wikipedia.org/wiki/COMATCH)转换而来。
+
+
 [COMATCH_Logo_Neu.png](https://zh.wikipedia.org/wiki/File:COMATCH_Logo_Neu.png "fig:COMATCH_Logo_Neu.png")
 
 **COMATCH**是一家欧洲的独立咨询师在线平台，为不同规模的公司与在其平台上注册在线的独立咨询师和行业专家之间进行中介服务，\[1\]总部位于德国首都柏林，其分部分别设立于[比荷卢经济联盟](https://zh.wikipedia.org/wiki/比荷卢经济联盟 "wikilink")、[北欧国家](../Page/北歐.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")等非德语区国家\[2\]。

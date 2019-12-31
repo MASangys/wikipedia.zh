@@ -1,4 +1,4 @@
-> 本文内容由[Perfume WORLD TOUR 3rd](https://zh.wikipedia.org/wiki/Perfume WORLD TOUR 3rd)转换而来。
+> 本文内容由[Perfume WORLD TOUR 3rd](https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_3rd)转换而来。
 
 
 {{ external media | align = right | video1 = [Teaser - YouTube](http://www.youtube.com/watch?v=Y6wHbccdjyo) | video2 = [SPOT - YouTube](https://www.youtube.com/watch?v=A0gMGgT1EiI) }} 《**Perfume WORLD TOUR 3rd**》是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume "wikilink")11張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/Blu-ray。

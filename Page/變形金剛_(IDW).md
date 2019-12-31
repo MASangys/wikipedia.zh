@@ -1,4 +1,4 @@
-> 本文内容由[變形金剛 \(IDW\)](https://zh.wikipedia.org/wiki/變形金剛 \(IDW\))转换而来。
+> 本文内容由[變形金剛 \(IDW\)](https://zh.wikipedia.org/wiki/變形金剛_\(IDW\))转换而来。
 
 
 **變形金剛**漫畫為IDW根據孩之寶的變形金剛人物和玩具系列而出版的漫畫系列。

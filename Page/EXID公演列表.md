@@ -1,3 +1,6 @@
+> 本文内容由[EXID公演列表](https://zh.wikipedia.org/wiki/EXID公演列表)转换而来。
+
+
 《**EXID公演列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID歷年舉辦的演唱會](https://zh.wikipedia.org/wiki/EXID "wikilink")、見面會及其他公演。
 
 ## 演唱會

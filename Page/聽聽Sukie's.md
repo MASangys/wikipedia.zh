@@ -1,3 +1,6 @@
+> 本文内容由[聽聽Sukie\'s](https://zh.wikipedia.org/wiki/聽聽Sukie\'s)转换而来。
+
+
 《**聽聽Sukie's**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[石詠莉](../Page/石詠莉.md "wikilink")的第三張個人音樂專輯，亦是她第一張發燒翻唱專輯，於2015年6月27日推出。
 
 此專輯主要翻唱了男歌手的歌曲，亦有一首全新創作的新歌。此專輯令聽眾重新認識她的聲音，又擺脫其[Freeze](../Page/Freeze.md "wikilink")時期的性感形象，令她更備受肯定。其後推出了黑膠唱片版及香港版，後者加收了五首歌曲的演奏版。

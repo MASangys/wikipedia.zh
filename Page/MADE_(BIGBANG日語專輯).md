@@ -1,3 +1,6 @@
+> 本文内容由[MADE \(BIGBANG日語專輯\)](https://zh.wikipedia.org/wiki/MADE_\(BIGBANG日語專輯\))转换而来。
+
+
 《**MADE**日語專輯》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")發售的日語專輯，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的新公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2017年2月15日在日本推出。\[1\]
 
 ## 概要

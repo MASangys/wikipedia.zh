@@ -1,3 +1,6 @@
+> 本文内容由[模块:Rfx](https://zh.wikipedia.org/wiki/模块:Rfx)转换而来。
+
+
 -----
 
 \-- Module:Rfx -- -- This is a library for retrieving information about requests -- -- for adminship and requests for bureaucratship on the English -- -- Wikipedia. Please see the module documentation for instructions. --

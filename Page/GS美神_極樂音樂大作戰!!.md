@@ -1,3 +1,6 @@
+> 本文内容由[GS美神 極樂音樂大作戰!!](https://zh.wikipedia.org/wiki/GS美神_極樂音樂大作戰!!)转换而来。
+
+
 《**GS美神 極樂音樂大作戰\!\!**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志](../Page/椎名高志.md "wikilink")的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[GS美神](../Page/GS美神_極樂大作戰！！.md "wikilink")》的[動畫原聲帶系列專輯](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 全2張。1993年7月21日、11月3日全由[King Records分別發行](../Page/國王唱片.md "wikilink")。

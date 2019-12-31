@@ -1,4 +1,4 @@
-> 本文内容由[Tech Arts](https://zh.wikipedia.org/wiki/Tech Arts)转换而来。
+> 本文内容由[Tech Arts](https://zh.wikipedia.org/wiki/Tech_Arts)转换而来。
 
 
 **Tech Arts**（テックアーツ）是[日本](../Page/日本.md "wikilink")[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，位在[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")，成立於1996年10月。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\][北海道色情遊戲組合](https://zh.wikipedia.org/wiki/北海道色情遊戲組合 "wikilink")（北海道えろげー組合）的加盟公司之一。\[7\]

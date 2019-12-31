@@ -1,3 +1,6 @@
+> 本文内容由[TvN10 Awards](https://zh.wikipedia.org/wiki/TvN10_Awards)转换而来。
+
+
 《**tvN10大獎**》（，）為[韓國有線電視頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年度舉行的娛樂頒獎典禮，tvN開台10週年特別項目「tvN10慶典」（）系列活動之一。頒獎對象為tvN開台至今（2006年10月9日－2016年6月30日）這10年間之電視劇、綜藝節目及相關演員、藝人。
 
 ## 直播概況

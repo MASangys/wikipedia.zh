@@ -1,3 +1,6 @@
+> 本文内容由[HAPPY PARTY TRAIN](https://zh.wikipedia.org/wiki/HAPPY_PARTY_TRAIN)转换而来。
+
+
 **《HAPPY PARTY TRAIN》**是[Aqours](../Page/Aqours.md "wikilink")的第三张单曲，2017年4月5日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

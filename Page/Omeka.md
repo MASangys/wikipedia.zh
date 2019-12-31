@@ -1,3 +1,6 @@
+> 本文内容由[Omeka](https://zh.wikipedia.org/wiki/Omeka)转换而来。
+
+
 **Omeka**是一個免費、[開源的線上](../Page/开放源代码.md "wikilink")[數位典藏](../Page/數位典藏.md "wikilink")[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")\[1\]，
 
 使用者能透過Omeka出版、展示[文化遺產](https://zh.wikipedia.org/wiki/文化遺產 "wikilink")，並能透過主題、[插件](../Page/插件.md "wikilink")擴充其功能\[2\]。

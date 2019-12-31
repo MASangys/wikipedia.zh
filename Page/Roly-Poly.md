@@ -1,3 +1,6 @@
+> 本文内容由[Roly-Poly](https://zh.wikipedia.org/wiki/Roly-Poly)转换而来。
+
+
 《**Roly-Poly**》（）為南韓[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的一首單曲](https://zh.wikipedia.org/wiki/T-ara "wikilink")，也是她們的第二張迷你專輯《[John Travolta Wannabe](../Page/John_Travolta_Wannabe.md "wikilink")》之主打單曲。此單曲在2011年6月29日發行，8月1日創下了音源銷售額3億韓元歷史最高紀錄，而音源累積銷售收入更超過了25億韓元\[1\]。
 
 《Roly-Poly》是繼《[Bo Peep Bo Peep](../Page/Bo_Peep_Bo_Peep.md "wikilink")》後連續三週在「[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")」與「[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")」獲得1位的歌曲，而《Roly-Poly》的銷售量超過了200萬張\[2\]，下載次數更突破了400萬次\[3\]。《Roly-Poly》成為當年南韓國家音樂榜單「[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")」年度榜首歌曲。
@@ -214,102 +217,54 @@ T-ara的《Roly-Poly》前三句由[居麗負責的歌詞傳出了不少的](htt
 [Category:T-ara歌曲](https://zh.wikipedia.org/wiki/Category:T-ara歌曲 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:2011年歌曲](https://zh.wikipedia.org/wiki/Category:2011年歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:2012年歌曲](https://zh.wikipedia.org/wiki/Category:2012年歌曲 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  [T-ara再發復古照 坦言想打造國民歌曲](http://www.koreastardaily.com/tc/news/9137) - 韓星網
-
 5.  [T-ara新曲人氣火爆 挺進各大音樂排行榜](http://www.koreastardaily.com/tc/news/9291)  - 韓星網
-
 6.  [新寺洞老虎談他的創作](http://kpopn.niusnews.com/=K25spuu6) - Kpopn
-
 7.  [T-ara新专辑封面发布 掀80年代迪斯科复古风](http://gb.cri.cn/27564/2011/06/22/3465s3285329.htm)  - 國際在線
-
 8.  [T-ara公開彩色封面照 恩靜智妍和孝敏出演MV](http://www.koreastardaily.com/tc/news/9230)  - 韓星網
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51. [女子組合 T-ara現場唱〈Roly Poly〉,遭網友狠批「唱真爛」\!](http://www.koreastardaily.com/tc/news/10116)  - 韓星網
-
 52.

@@ -1,3 +1,6 @@
+> 本文内容由[ULTRAMAN](https://zh.wikipedia.org/wiki/ULTRAMAN)转换而来。
+
+
 《**ULTRAMAN-超人再現-**》是[清水榮一](../Page/清水榮一.md "wikilink")原作，[下口智裕](../Page/下口智裕.md "wikilink")繪畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，是[圓谷製作](../Page/圓谷製作.md "wikilink")1966年的[超人力霸王系列](../Page/超人力霸王系列.md "wikilink")始祖初代超人的續篇漫畫，[小學館](../Page/小學館.md "wikilink")出版，2011年12月開始在《[月刊Hero's](../Page/月刊Hero's.md "wikilink")》創刊號連載\[1\]。
 
 漫画于2017年被制作为有声漫画公开，并于2019年動畫化。

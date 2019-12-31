@@ -1,3 +1,6 @@
+> 本文内容由[Out筆豬仔團](https://zh.wikipedia.org/wiki/Out筆豬仔團)转换而来。
+
+
 《**Out筆豬仔團**》（**To Sacrifice To Satisfy**），原名《**寧願少喫餐，OO錢咪慳**》，為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[旅遊及](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2017年7月4日至10月10日逢星期二22:30-23:00於[ViuTV](../Page/ViuTV.md "wikilink")播出\[1\]，由[劉秉賓](../Page/劉秉賓.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink")、（Suzuki）及[趙詠瑤](../Page/趙詠瑤.md "wikilink")主持。
 
 四位節目主持分成兩組到[新西蘭旅遊](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")，[劉秉賓](../Page/劉秉賓.md "wikilink")及[羅伊婷](../Page/羅伊婷.md "wikilink")被分派到北島，而及[趙詠瑤](../Page/趙詠瑤.md "wikilink")被分派到南島[皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮_\(新西蘭\) "wikilink")，但是他們只有很少旅費，所以整個行程都要省吃儉用，務求達成世界級慳錢之旅\[2\]\[3\]\[4\]\[5\]。

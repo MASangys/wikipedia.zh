@@ -1,3 +1,6 @@
+> 本文内容由[K·J·阿帕](https://zh.wikipedia.org/wiki/K·J·阿帕)转换而来。
+
+
 **肯奈迪·詹姆斯·費茲傑洛德·“K·J”·阿帕**（，\[1\]\[2\] ），是一名[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")。2017年，於[The CW電視劇](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_\(電視劇\).md "wikilink")》中飾演“[亞契·安德魯斯](https://zh.wikipedia.org/wiki/阿奇·安德魯 "wikilink")”而出名。
 
 ## 個人生活

@@ -1,3 +1,6 @@
+> 本文内容由[Valter Di Salvo](https://zh.wikipedia.org/wiki/Valter_Di_Salvo)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Valter_di_Salvo.jpg "fig:缩略图") **巴爾特·迪·薩爾沃**（生於1963年7月2日）是阿斯拜爾學院和卡塔爾足球協會足球運動表現與科學總監 ; 他也是阿斯拜爾世界研究員計劃和每年阿斯拜爾學院全球峰會的執行總監。\[1\]
 
 ## 生平

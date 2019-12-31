@@ -1,4 +1,4 @@
-> 本文内容由[4J Studios](https://zh.wikipedia.org/wiki/4J Studios)转换而来。
+> 本文内容由[4J Studios](https://zh.wikipedia.org/wiki/4J_Studios)转换而来。
 
 
 **4J Studios**是一间苏格兰电子游戏开发工作室。公司的游戏由[ZeniMax Media](../Page/ZeniMax_Media.md "wikilink")、[Mojang](../Page/Mojang.md "wikilink")和[微软工作室等多间发行商发行](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")。公司许多雇员来自[VIS娱乐](https://zh.wikipedia.org/wiki/VIS娱乐 "wikilink")，一间关闭的工作室。

@@ -1,3 +1,6 @@
+> 本文内容由[台鐵LCK20型蒸汽機車](https://zh.wikipedia.org/wiki/台鐵LCK20型蒸汽機車)转换而来。
+
+
 **臺鐵LCK20型蒸汽機車**為[臺灣鐵路管理局](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")[臺東線](../Page/臺東線.md "wikilink")最早使用的蒸汽機車。LCK20型的特色在於出廠時車身漆有「IMPERIAL TAIWAN RAILWAY」字樣，而1912年引進的[CT240型同樣擁有此特徵](../Page/台鐵CT240型蒸汽機車.md "wikilink")，不過此特徵並未持續很久。
 
 ## 簡介
@@ -45,6 +48,6 @@
 
 ## 外部連結
 
-  - [後山鐵道風華 文化資產數位博物館](http://document.hccc.gov.tw/railway/index.htm)
+  - [後山鐵道風華 文化資產數位博物館](https://web.archive.org/web/20180904154004/http://document.hccc.gov.tw/railway/index.htm)
 
 [Category:臺灣鐵路管理局車輛](https://zh.wikipedia.org/wiki/Category:臺灣鐵路管理局車輛 "wikilink") [Category:台灣蒸汽機車](https://zh.wikipedia.org/wiki/Category:台灣蒸汽機車 "wikilink") [Category:阿里山森林鐵路](https://zh.wikipedia.org/wiki/Category:阿里山森林鐵路 "wikilink")

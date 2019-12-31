@@ -1,3 +1,6 @@
+> 本文内容由[The 20th Anniversary](https://zh.wikipedia.org/wiki/The_20th_Anniversary)转换而来。
+
+
 《**THE 20TH ANNIVERSARY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")自2016年12月推出重新錄音專輯《[2016 Re-ALBUM](../Page/2016_Re-ALBUM.md "wikilink")》後，時隔四個月回歸的新作品。專輯由[YG娛樂](../Page/YG娛樂.md "wikilink")製作、[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2017年4月28日下午6時通過各大數位音樂網站公開線上音源，實體專輯則於4月29日發售。此專輯為[水晶男孩](../Page/水晶男孩.md "wikilink")出道二十週年企劃行程之一，亦是[水晶男孩](../Page/水晶男孩.md "wikilink")繼2000年5月31日《[Blue Note](../Page/Blue_Note.md "wikilink")》後，暌違17年發表收錄新曲的專輯。專輯收錄雙主打歌〈BE WELL〉及〈SAD SONG〉、2016年10月發行的單曲〈[THREE WORDS](../Page/THREE_WORDS.md "wikilink")〉，與八首重新混音的熱門歌曲。
 
 ## 背景
@@ -284,66 +287,35 @@
 [Category:水晶男孩音樂專輯](https://zh.wikipedia.org/wiki/Category:水晶男孩音樂專輯 "wikilink") [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon專輯週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.

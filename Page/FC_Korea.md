@@ -1,4 +1,4 @@
-> 本文内容由[FC Korea](https://zh.wikipedia.org/wiki/FC Korea)转换而来。
+> 本文内容由[FC Korea](https://zh.wikipedia.org/wiki/FC_Korea)转换而来。
 
 
 ，是一支位於[東京都](../Page/東京都.md "wikilink")的日本足球會，現時在[關東足球聯賽甲級聯賽作賽](https://zh.wikipedia.org/wiki/關東足球聯賽 "wikilink")。同時，**FC Korea**創建了**在日朝鮮人聯合足球代表隊**加入了[非国际足联足球組織](https://zh.wikipedia.org/wiki/非国际足联足球 "wikilink")[独立足球协会联合会](../Page/獨立足球協會聯合會.md "wikilink")。

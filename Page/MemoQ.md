@@ -1,3 +1,6 @@
+> 本文内容由[MemoQ](https://zh.wikipedia.org/wiki/MemoQ)转换而来。
+
+
 **memoQ**是一款可以在[Microsoft Windows上运行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[专有](../Page/专有软件.md "wikilink")[電腦輔助翻譯](../Page/電腦輔助翻譯.md "wikilink")（CAT）[軟體套裝](https://zh.wikipedia.org/wiki/軟體套裝 "wikilink")。它由2004年成立的翻译管理软件提供商——匈牙利软件公司Kilgray Fordítástechnológiai Kft（Kilgray Translation Technologies）开发\[1\]，并在2012年\[2\]和2013年\[3\]被称为翻译技术行业发展最快的公司之一。memoQ为[桌面](../Page/个人电脑.md "wikilink")、[客户端/服务器和](../Page/主從式架構.md "wikilink")[网络应用环境提供](https://zh.wikipedia.org/wiki/网络应用 "wikilink")[翻譯記憶](../Page/翻譯記憶.md "wikilink")、[术语](https://zh.wikipedia.org/wiki/术语学 "wikilink")、[机器翻译](../Page/机器翻译.md "wikilink")集成和参考资料信息管理。
 
 ## 与其他CAT工具的互操作性

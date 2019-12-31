@@ -1,3 +1,6 @@
+> 本文内容由[Fucking Hell](https://zh.wikipedia.org/wiki/Fucking_Hell)转换而来。
+
+
 **Fucking Hell**是一种[德国](../Page/德国.md "wikilink")的清淡啤酒，酒精含量为4.9%。\[1\]商标持有者是柏林啤酒饮料批发公司。
 
 ## 名称

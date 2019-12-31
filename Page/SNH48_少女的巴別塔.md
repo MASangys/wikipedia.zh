@@ -1,4 +1,4 @@
-> 本文内容由[SNH48 少女的巴別塔](https://zh.wikipedia.org/wiki/SNH48 少女的巴別塔)转换而来。
+> 本文内容由[SNH48 少女的巴別塔](https://zh.wikipedia.org/wiki/SNH48_少女的巴別塔)转换而来。
 
 
 《**SNH48 少女的巴別塔**》（）是以女子偶像組合[SNH48](../Page/SNH48.md "wikilink")為主角的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")，在[SNH48星夢劇院首映](https://zh.wikipedia.org/wiki/SNH48星夢劇院 "wikilink")\[1\]，電影紀錄由[SNH48第一屆總選舉](../Page/SNH48第一屆總選舉.md "wikilink")至[SNH48第二屆總選舉前SNH](https://zh.wikipedia.org/wiki/SNH48第二屆總選舉 "wikilink")48團體中發生的事跡。由[彭曉海執導](https://zh.wikipedia.org/wiki/彭曉海 "wikilink")。

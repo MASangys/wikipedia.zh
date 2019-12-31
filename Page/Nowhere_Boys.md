@@ -1,3 +1,6 @@
+> 本文内容由[Nowhere Boys](https://zh.wikipedia.org/wiki/Nowhere_Boys)转换而来。
+
+
 **Nowhere Boys**是一支香港樂隊，於2015年成立，現為音樂份子(Frenzi Music)旗下樂隊。樂隊成員包括主音Van Chan、鼓手Nate Wong、 吉他手Kenneth Angus、 鍵琴手／小提琴手Fisher Kan(漁佬)和低音吉他手Hansun Chan。樂隊將他們的音樂稱為Cinematic Rock (電影式搖滾)。Nowhere Boys大部份的歌曲都啟發自電影。
 
 ## 簡介

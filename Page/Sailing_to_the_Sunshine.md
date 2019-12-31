@@ -1,3 +1,6 @@
+> 本文内容由[Sailing to the Sunshine](https://zh.wikipedia.org/wiki/Sailing_to_the_Sunshine)转换而来。
+
+
 **《Sailing to the Sunshine》**是电视动画《[LoveLive\! Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")》的[原声音乐](../Page/原声音乐.md "wikilink")集，2016年11月30日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

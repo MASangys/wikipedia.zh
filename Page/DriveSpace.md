@@ -1,3 +1,6 @@
+> 本文内容由[DriveSpace](https://zh.wikipedia.org/wiki/DriveSpace)转换而来。
+
+
 **DriveSpace**（最初称为**DoubleSpace**，即双倍空间）是一个从[MS-DOS](../Page/MS-DOS.md "wikilink") 6.0版本开始提供的[磁盘压缩](../Page/磁盘压缩.md "wikilink")实用工具。DriveSpace的目的是用户可在磁盘空间上存储的数据量，通过即时的透明压缩和解压。它主要用于[硬盘](../Page/硬盘.md "wikilink")，但也支持对[软盘](../Page/软盘.md "wikilink")使用。
 
 ## 概述

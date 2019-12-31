@@ -1,3 +1,6 @@
+> 本文内容由[AMS Euler](https://zh.wikipedia.org/wiki/AMS_Euler)转换而来。
+
+
 '''AMS Euler '''是一款直立[意大利体](../Page/意大利体.md "wikilink")，由[美国数学学会](../Page/美國數學學會.md "wikilink")（AMS）委托字体设计师[赫尔曼·察普夫](../Page/赫尔曼·察普夫.md "wikilink")设计，[高德纳](../Page/高德纳.md "wikilink")与他在[斯坦福大学的研究生提供技术上的帮助](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")。字体的版权归属于[美国数学学会](https://zh.wikipedia.org/wiki/美国数学学会 "wikilink")。AMS Euler模仿数学家在黑板上演算数学公式的字迹，Euler直立的风格即是由于黑板字迹通常并不呈现[斜体样式](../Page/意大利体.md "wikilink")\[1\]\[2\]。这款字与[赫尔曼·察普夫](../Page/赫尔曼·察普夫.md "wikilink")设计的其他字体（如[帕拉提诺体](../Page/帕拉提诺体.md "wikilink")、[Aldus以及](https://zh.wikipedia.org/wiki/Aldus（字体） "wikilink")[Melior](https://zh.wikipedia.org/wiki/Melior "wikilink")）搭配起来十分协调，但是和[TeX](../Page/TeX.md "wikilink")系统的默认字体[Computer Modern混排效果很差](../Page/Computer_Modern.md "wikilink")。
 
 数字化的Euler字形是由[高德纳](../Page/高德纳.md "wikilink")开发的计算机辅助字体设计系统[Metafont制作完成的](../Page/METAFONT.md "wikilink")。察普夫在1980年至1981年的两年的时间内设计完成了整套Euler字体的字形，于1983年后又为数字版做了质量监督与指导工作。斯坦福大学的计算机科学系与数字[文字设计专业的学生完成了Euler的](../Page/字体排印学.md "wikilink")[Metafont开发工作](../Page/METAFONT.md "wikilink")。这项工作由John Hobby指导，Scott Kim、Carol Twombly、Daniel Mills、David Siegel等人先后加入其中。其中Siegel在1985年完成了整个项目的数字化工作，并以此作为自己硕士论文的题目。

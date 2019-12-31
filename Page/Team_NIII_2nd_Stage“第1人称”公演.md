@@ -1,3 +1,6 @@
+> 本文内容由[Team NIII 2nd Stage“第1人称”公演](https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演)转换而来。
+
+
 **GNZ48 Team NIII 2nd Stage「第1人稱」公演**是[GNZ48的剧场公演](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，此套公演同時也是GNZ48的首套原創公演，由Team NIII演繹\[1\]。
 
 ## 概要

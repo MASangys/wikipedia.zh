@@ -1,3 +1,6 @@
+> 本文内容由[GeneCards](https://zh.wikipedia.org/wiki/GeneCards)转换而来。
+
+
 [Chromosomal_position_of_c4orf21_gene.png](https://zh.wikipedia.org/wiki/File:Chromosomal_position_of_c4orf21_gene.png "fig:Chromosomal_position_of_c4orf21_gene.png") **GeneCards**（中文大意：基因卡片）是一個收錄人[基因組](../Page/基因組.md "wikilink")、[轉錄組](https://zh.wikipedia.org/wiki/轉錄組 "wikilink")、[蛋白質組的](https://zh.wikipedia.org/wiki/蛋白質組 "wikilink")[數據庫](https://zh.wikipedia.org/wiki/數據庫 "wikilink")。該數據庫亦提供所有已知以及推測的人類基因的功能信息\[1\]\[2\]\[3\]\[4\]。該數據庫由[魏茨曼科學研究學院](../Page/魏茨曼科學研究學院.md "wikilink")創立，該數據庫的運作亦由該機構負責。該數據庫旨在爲研究者提供相關基因現有生物醫學信息的速覽，包括基因編碼的蛋白質以及相關疾病\[5\]\[6\]\[7\]。
 
 ## 參見

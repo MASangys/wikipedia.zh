@@ -1,3 +1,6 @@
+> 本文内容由[SAP HANA](https://zh.wikipedia.org/wiki/SAP_HANA)转换而来。
+
+
 **SAP HANA**（全称SAP **H**igh-performance **AN**alytic **A**ppliance)是由[SAP开发的一款内置](../Page/SAP公司.md "wikilink")[列式数据库](../Page/列式数据库.md "wikilink")的系统平台。狭义上SAP HANA指的是其内置的[数据库管理系统](../Page/数据库管理系统.md "wikilink")，其主要功能是存储和检索数据。广义上，SAP HANA指的是HANA数据库系统及周边的各种功能组成的平台。SAP HANA除内置数据库以外，还具有高级分析（例如预测分析，[空间数据处理](https://zh.wikipedia.org/wiki/空间数据处理 "wikilink")，[文本分析](https://zh.wikipedia.org/wiki/文本分析 "wikilink")，文本搜索，流分析，图形数据处理）功能\[1\]，[ETL功能](https://zh.wikipedia.org/wiki/ETL "wikilink")，并内置了[应用程序服务器](https://zh.wikipedia.org/wiki/应用程序服务器 "wikilink")。
 
 ## 概要

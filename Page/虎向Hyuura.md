@@ -1,3 +1,6 @@
+> 本文内容由[虎向Hyuura](https://zh.wikipedia.org/wiki/虎向Hyuura)转换而来。
+
+
 **虎向Hyuura**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。其作品主要以戀愛為主題，在全年齡或[成人漫畫雜誌發表](https://zh.wikipedia.org/wiki/成人漫畫 "wikilink")。2011年之後，主要在[角川書店](../Page/角川書店.md "wikilink")《[Comptiq](../Page/Comptiq.md "wikilink")》、[茜新社](../Page/茜新社.md "wikilink")《》執筆。
 
 ## 作品列表

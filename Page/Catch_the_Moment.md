@@ -1,3 +1,6 @@
+> 本文内容由[Catch the Moment](https://zh.wikipedia.org/wiki/Catch_the_Moment)转换而来。
+
+
 《**Catch the Moment**》（）是[LiSA](../Page/LiSA.md "wikilink")的第11張編號單曲，2017年2月15日由[Aniplex](../Page/Aniplex.md "wikilink")發售，同日開放[數位音樂下載](../Page/數位音樂下載.md "wikilink")\[1\]。其版本已於2017年1月11日先行公布\[2\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[TIGHT-BREAK](https://zh.wikipedia.org/wiki/TIGHT-BREAK)转换而来。
+
+
 《**TIGHT-BREAK**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[SPYKE](../Page/SPYKE.md "wikilink")的第5張單曲。1997年5月21日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 概要

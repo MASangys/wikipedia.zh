@@ -1,4 +1,4 @@
-> 本文内容由[节奏天国 The best+](https://zh.wikipedia.org/wiki/节奏天国 The best+)转换而来。
+> 本文内容由[节奏天国 The best+](https://zh.wikipedia.org/wiki/节奏天国_The_best+)转换而来。
 
 
 ，是[节奏天国](../Page/节奏天国.md "wikilink")移植于[任天堂3DS](../Page/任天堂3DS.md "wikilink")平台的作品，本系列的第四作，由[任天堂企划开发本部](../Page/任天堂企划开发本部.md "wikilink")所开发。

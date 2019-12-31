@@ -1,3 +1,6 @@
+> 本文内容由[Modus vivendi](https://zh.wikipedia.org/wiki/Modus_vivendi)转换而来。
+
+
 ***Modus vivendi***（權宜的妥協）是一個[拉丁語詞彙](../Page/拉丁语.md "wikilink")，其意思為“生活模式”或是“生活方式”。該詞彙經常用於表示一種允許衝突中的各方得以和平共處的協議或安排。在科學或生物學之中，該詞彙被用於描述生物的習性。\[1\]
 
 ## 術語

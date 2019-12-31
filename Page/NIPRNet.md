@@ -1,3 +1,6 @@
+> 本文内容由[NIPRNet](https://zh.wikipedia.org/wiki/NIPRNet)转换而来。
+
+
 **非保密互联网协议路由网络**（\[1\]，缩写**NIPRNet**）是一个交换非保密信息的专用IP网络，包含围绕私网用户但。\[2\]\[3\]\[4\]\[5\]NIPRNet也为用户提供[互联网](../Page/互联网.md "wikilink")接入。
 
 NIPRNet创建于1980年代，由[美国国防部](../Page/美国国防部.md "wikilink")拥有的[网际协议](../Page/网际协议.md "wikilink")[路由器](../Page/路由器.md "wikilink")组成，并由（DISA）管理，旨在取代早期的。\[6\]

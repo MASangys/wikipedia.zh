@@ -1,3 +1,6 @@
+> 本文内容由[Google Cast](https://zh.wikipedia.org/wiki/Google_Cast)转换而来。
+
+
 **Google Cast**，在使用者设备上名为**Chromecast built-in**，\[1\]是[Google](../Page/Google.md "wikilink")的一項服務，類似[Chromecast](../Page/Chromecast.md "wikilink")，用於將支援Google Cast的應用程式，如[YouTube](../Page/YouTube.md "wikilink")等的畫面投放到[Android TV上](../Page/Android_TV.md "wikilink")。
 
 ## 参见

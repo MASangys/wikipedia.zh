@@ -1,4 +1,4 @@
-> 本文内容由[LAST \(電視劇\)](https://zh.wikipedia.org/wiki/LAST \(電視劇\))转换而来。
+> 本文内容由[LAST \(電視劇\)](https://zh.wikipedia.org/wiki/LAST_\(電視劇\))转换而来。
 
 
 《**LAST**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2015年7月24日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[黃金帝國](../Page/黃金帝國.md "wikilink")》、《[追擊者 THE CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國](../Page/趙南國.md "wikilink")導演與《[狗與狼的時間](https://zh.wikipedia.org/wiki/狗與狼的時間 "wikilink")》[韓智勳編劇攜手打造](https://zh.wikipedia.org/wiki/韓智勳 "wikilink")。講述了原本在證券行業呼風喚雨的男主人公因一次投資失敗而在一夜間失去一切淪為流浪漢，在有森嚴等級制度的流浪漢組織中一步一步往上爬，最終推翻組織頭目掌握組織主導權的故事。\[1\]

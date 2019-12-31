@@ -1,3 +1,6 @@
+> 本文内容由[Chantek](https://zh.wikipedia.org/wiki/Chantek)转换而来。
+
+
 Chantek（）\[1\]出生於美國喬治亞州亞特蘭大的[耶基斯国家灵长类研究中心](../Page/耶基斯国家灵长类研究中心.md "wikilink")，是一名雄性混血[蘇門達臘](../Page/蘇門達臘猩猩.md "wikilink")／[婆羅洲猩猩](../Page/婆羅洲猩猩.md "wikilink")\[2\]。Chantek 能夠使用150種美國手語，他也能理解口語美語\[3\]。他懂得使用工具以及多種與智慧相關的技能，還知道以勞動換取金錢的意義。他喜歡繪畫、音樂和項鍊\[4\]。這些技能由美國學者 Lyn Miles和Ann Southcombe教授。
 
 ## 參考

@@ -1,3 +1,6 @@
+> 本文内容由[资源 \(Windows\)](https://zh.wikipedia.org/wiki/资源_\(Windows\))转换而来。
+
+
 [Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")**资源**(resources)是指嵌入可执行程序([EXE](https://zh.wikipedia.org/wiki/EXE "wikilink"), [DLL](https://zh.wikipedia.org/wiki/Dynamic-Link_Library "wikilink"), [CPL](../Page/控制面板.md "wikilink"), [MUI等](../Page/多语言用户界面.md "wikilink"))的只读数据。\[1\]\[2\]\[3\]
 
 [Windows API提供了便捷访问应用程序资源的方法](../Page/Windows_API.md "wikilink")。

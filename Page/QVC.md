@@ -1,3 +1,6 @@
+> 本文内容由[QVC](https://zh.wikipedia.org/wiki/QVC)转换而来。
+
+
 **QVC**是[美国](../Page/美国.md "wikilink")最大的[电视购物公司](https://zh.wikipedia.org/wiki/电视购物 "wikilink")，成立于1986年，总部位于美国[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[威彻斯特](https://zh.wikipedia.org/wiki/威彻斯特 "wikilink")，其旗下频道通过[地面](https://zh.wikipedia.org/wiki/地面电视 "wikilink")、[卫星](../Page/卫星电视.md "wikilink")、[有线电视](../Page/有线电视.md "wikilink")及[互联网](../Page/互联网.md "wikilink")面向全球多国播出。“QVC”的名称源自“**Q**uality, **V**alue, **C**onvenience”（质量、价格、便捷）的首字母缩写\[1\]。
 
 ## 历史与发展

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Convert character width](https://zh.wikipedia.org/wiki/模块:Convert_character_width)转换而来。
+
+
 \-- This module converts support characters from half-width to full-width, and vice versa. -- See [Halfwidth and fullwidth forms](https://zh.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms "wikilink") for an explanation of half- and full-width characters.
 
 \-- @todo FIXME: Needs more characters adding, needs support for diacritic marks.

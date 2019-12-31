@@ -1,3 +1,6 @@
+> 本文内容由[模块:Year in various calendars](https://zh.wikipedia.org/wiki/模块:Year_in_various_calendars)转换而来。
+
+
 \-- Load dependencies. local getArgs = require('Module:Arguments').getArgs local numToRoman = require( 'Module:Roman' ).main local getOlympiad = require( 'Module:Ancient Olympiads' )._main local getDynasty = require( 'Module:Ancient Egypt era' )._main local getPharaoh = require( 'Module:Ancient Egypt kings' )._main local numToArmenian = require( 'Module:Armenian' ).main local getRegnal = require( 'Module:British regnal year' ).main local japaneseEra = require( 'Module:Japanese calendar' ).era()
 
 \-- Define constants. local lang = mw.language.getContentLanguage() local currentYear = tonumber( lang:formatDate( 'Y' ) )

@@ -1,4 +1,4 @@
-> 本文内容由[Sony Xperia Z5](https://zh.wikipedia.org/wiki/Sony Xperia Z5)转换而来。
+> 本文内容由[Sony Xperia Z5](https://zh.wikipedia.org/wiki/Sony_Xperia_Z5)转换而来。
 
 
 **Sony Xperia Z5**，是[索尼](../Page/索尼.md "wikilink")於2015年9月2日在柏林發表的旗艦手機，搭載5.2吋螢幕、[高通](../Page/高通.md "wikilink") [Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,300萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能，配有指紋傳感器。\[1\]同时发布还有同为Z系列的[Xperia Z5 Compact和](../Page/Sony_Xperia_Z5_Compact.md "wikilink")[Xperia Z5 Premium](../Page/Sony_Xperia_Z5_Premium.md "wikilink")。

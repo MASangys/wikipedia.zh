@@ -1,4 +1,4 @@
-> 本文内容由[雷明登Nylon 66半自動步槍](https://zh.wikipedia.org/wiki/雷明登Nylon 66半自動步槍)转换而来。
+> 本文内容由[雷明登Nylon 66半自動步槍](https://zh.wikipedia.org/wiki/雷明登Nylon_66半自動步槍)转换而来。
 
 
 **雷明登Nylon 66**（）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")所研製及生產的[半自动步槍](https://zh.wikipedia.org/wiki/半自动步槍 "wikilink")，發射[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。

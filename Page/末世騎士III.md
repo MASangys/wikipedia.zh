@@ -1,3 +1,6 @@
+> 本文内容由[末世騎士III](https://zh.wikipedia.org/wiki/末世騎士III)转换而来。
+
+
 是一款將由Gunfire Games開發、[THQ Nordic發行的](../Page/THQ_Nordic.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")。本作是《[末世騎士II](../Page/暗黑血统II.md "wikilink")》的續作，也是《末世騎士》系列的第三部作品。遊戲於2018年11月27日在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One平台同步發售](../Page/Xbox_One.md "wikilink")。\[1\]\[2\]本作首度支援簡體中文字幕。\[3\]
 
 ## 系統

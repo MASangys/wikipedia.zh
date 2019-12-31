@@ -1,3 +1,6 @@
+> 本文内容由[DHX Media](https://zh.wikipedia.org/wiki/DHX_Media)转换而来。
+
+
 **DHX Media**是一間加拿大[媒體製作](https://zh.wikipedia.org/wiki/傳播媒體 "wikilink")、發行和廣播公司，於2006年由**Decode Entertainment**和**Halifax Film Company**合併而成，是不少[兒童電視節目的主要製片商和國際發行商](https://zh.wikipedia.org/wiki/兒童電視節目 "wikilink")。
 
 ## 相關條目

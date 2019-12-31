@@ -1,3 +1,6 @@
+> 本文内容由[LocalWiki](https://zh.wikipedia.org/wiki/LocalWiki)转换而来。
+
+
 **LocalWiki**是一個蒐集並[開放世界上各地的當地知識的](../Page/自由內容.md "wikilink")[協作專案](../Page/虛擬社群.md "wikilink")。LocalWiki由的建立者Mike Ivanov與Philip Neustrom所打造\[1\]。營運之非營利組織（位在[加州](../Page/加利福尼亚州.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")）\[2\]及在專案網頁上執行的軟體之名稱也都是「LocalWiki」。
 
 ## 歷史
@@ -35,41 +38,23 @@ LocalWiki軟體包含了[所見即所得編輯介面以讓編輯更簡單](https
 [Category:协作项目](https://zh.wikipedia.org/wiki/Category:协作项目 "wikilink") [Category:旧金山组织](https://zh.wikipedia.org/wiki/Category:旧金山组织 "wikilink") [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:内容管理系统](https://zh.wikipedia.org/wiki/Category:内容管理系统 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

@@ -1,4 +1,4 @@
-> 本文内容由[Love marginal](https://zh.wikipedia.org/wiki/Love marginal)转换而来。
+> 本文内容由[Love marginal](https://zh.wikipedia.org/wiki/Love_marginal)转换而来。
 
 
 **《Love marginal》**是[μ's的迷你小队](https://zh.wikipedia.org/wiki/μ's "wikilink")“Printemps”在2011年5月25日发售的首张单曲，也是整个“LoveLive\!”企划发表的首张小队单曲。

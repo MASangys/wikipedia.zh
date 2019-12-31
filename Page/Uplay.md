@@ -1,3 +1,6 @@
+> 本文内容由[Uplay](https://zh.wikipedia.org/wiki/Uplay)转换而来。
+
+
 **Uplay**是由[育碧](../Page/育碧.md "wikilink")研发的一款集[数字发行](https://zh.wikipedia.org/wiki/数字发行 "wikilink")、[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人电子游戏和通信服务的](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。同时，Uplay向玩家提供了诸多游戏公司所采用的[成就收集系统](https://zh.wikipedia.org/wiki/成就_\(电子游戏\) "wikilink")。该系统也是跨平台制的（[PC](../Page/个人电脑.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Wii U](../Page/Wii_U.md "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")）。[Wii U平台的Uplay程序于](../Page/Wii_U.md "wikilink")2012年12月1日在[任天堂eShop](../Page/任天堂eShop.md "wikilink")上发行。\[1\]Uplay往往只支持育碧公司自主开发的游戏，尽管有些第三方开发商的游戏仍在育碧商城中贩卖，但Uplay并不支持这些游戏。\[2\]
 
 ## 特性

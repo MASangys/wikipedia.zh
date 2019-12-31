@@ -1,3 +1,6 @@
+> 本文内容由[Santini SMS](https://zh.wikipedia.org/wiki/Santini_SMS)转换而来。
+
+
 **Santini SMS** 是一個義大利[自行車](../Page/自行車.md "wikilink")服品牌，全名為「Santini Maglificio Sportivo」。由[Pietro Santini在](https://zh.wikipedia.org/wiki/Pietro_Santini "wikilink")1965年於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[拉廖成立](../Page/拉廖_\(科莫省\).md "wikilink")。\[1\] 創辦人少年喜歡騎車，後來接手姊姊們的紡織廠\[2\]，轉型成為製作及設計自行車服飾，並堅持產品線留在義大利本土生產。
 
 ## 自行車服製造商

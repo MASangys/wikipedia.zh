@@ -1,4 +1,4 @@
-> 本文内容由[JR北海道Kiha 281系柴聯車](https://zh.wikipedia.org/wiki/JR北海道Kiha 281系柴聯車)转换而来。
+> 本文内容由[JR北海道Kiha 281系柴聯車](https://zh.wikipedia.org/wiki/JR北海道Kiha_281系柴聯車)转换而来。
 
 
 **Kiha 281系柴油動車組**（）是[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）在1992年（[平成](../Page/平成.md "wikilink")4年）引進，1994年（平成6年）開始營運的特急形[柴油動車組](https://zh.wikipedia.org/wiki/柴油動車組 "wikilink")。\[1\]

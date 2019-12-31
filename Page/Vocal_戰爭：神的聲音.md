@@ -1,4 +1,4 @@
-> 本文内容由[Vocal 戰爭：神的聲音](https://zh.wikipedia.org/wiki/Vocal 戰爭：神的聲音)转换而来。
+> 本文内容由[Vocal 戰爭：神的聲音](https://zh.wikipedia.org/wiki/Vocal_戰爭：神的聲音)转换而来。
 
 
 《**Vocal戰爭: 神的聲音**》（）是由[SBS製作的全新型態音樂](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")[節目](../Page/綜藝節目.md "wikilink")。\[1\]由200為現場觀眾--神之耳以及5位神的聲音決定選手的合格與否，合格者將挑戰一名神的聲音，將其擊敗後將獲得獎金。节目在2016年2月10日试播，2016年3月30日开始正式放送，于每周三23:10播出。\[2\]於2016年8月17日播出最後一集，並正式停播。

@@ -1,3 +1,6 @@
+> 本文内容由[Noir \(B.A.P專輯\)](https://zh.wikipedia.org/wiki/Noir_\(B.A.P專輯\))转换而来。
+
+
 《**Noir**》是韓國組合[B.A.P](../Page/B.A.P.md "wikilink")的第二張正規專輯，於2016年11月7日發行，主打曲為〈Skydive〉。專輯發行前，TS娛樂宣布隊長方容國因[恐慌症](../Page/恐慌症.md "wikilink")將不參與本張專輯宣傳。
 
 ## 概要

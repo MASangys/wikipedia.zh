@@ -1,3 +1,6 @@
+> 本文内容由[GlobalSign](https://zh.wikipedia.org/wiki/GlobalSign)转换而来。
+
+
 **GlobalSign**是一家WebTrust认证的[数字证书认证机构和SSL证书签发商](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")，于1996年在[比利时](../Page/比利时.md "wikilink")创立\[1\]。现为GMO Internet, Inc. 成员企业，在[美国](../Page/美国.md "wikilink")、[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[英国等国家或地区均设有办事处](https://zh.wikipedia.org/wiki/英国 "wikilink")。\[2\]
 
 ## 主要产品

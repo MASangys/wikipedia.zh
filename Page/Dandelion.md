@@ -1,3 +1,6 @@
+> 本文内容由[Dandelion](https://zh.wikipedia.org/wiki/Dandelion)转换而来。
+
+
 **dandelion**（）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，設立於2012年5月30日。
 
 ## 旗下藝人

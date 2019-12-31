@@ -1,4 +1,4 @@
-> 本文内容由[孩子先生 \(EP\)](https://zh.wikipedia.org/wiki/孩子先生 \(EP\))转换而来。
+> 本文内容由[孩子先生 \(EP\)](https://zh.wikipedia.org/wiki/孩子先生_\(EP\))转换而来。
 
 
 《**孩子先生**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張智霖](../Page/張智霖.md "wikilink")的個人音樂專輯，於1999年4月發行。

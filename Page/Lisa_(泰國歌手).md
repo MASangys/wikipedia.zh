@@ -1,3 +1,6 @@
+> 本文内容由[Lisa \(泰國歌手\)](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\))转换而来。
+
+
 **叻莉莎·瑪諾班**（，；），曾用名**布蘭布里亞·瑪諾班**（，），是一名在[韓國發展的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[泰國籍女](https://zh.wikipedia.org/wiki/泰國 "wikilink")[歌手](../Page/歌手.md "wikilink")，她以藝名**Lisa**（，）為人熟知，是[YG娛樂](../Page/YG娛樂.md "wikilink")成立以來第一位出道的外國藝人\[1\]，現為該經紀公司旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")成員之一，在隊內擔任饒舌及舞蹈的角色。\[2\]
 
 ## 早年生活及教育

@@ -1,4 +1,4 @@
-> 本文内容由[Don\'t Stop the Music](https://zh.wikipedia.org/wiki/Don\'t Stop the Music)转换而来。
+> 本文内容由[Don\'t Stop the Music](https://zh.wikipedia.org/wiki/Don\'t_Stop_the_Music)转换而来。
 
 
 「**Don't Stop the Music**」是[EXILE SHOKICHI於](../Page/SHOKICHI.md "wikilink")2015年7月22日發行的第3張單曲。分別有CD+DVD及CD ONLY共2種形態發行。另外還有FC及MOBILE限定的ONE COIN CD發售。

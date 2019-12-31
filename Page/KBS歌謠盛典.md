@@ -1,3 +1,6 @@
+> 本文内容由[KBS歌謠盛典](https://zh.wikipedia.org/wiki/KBS歌謠盛典)转换而来。
+
+
 《**KBS歌謠盛典**》(；)，是韓國[KBS每年年末舉行的](https://zh.wikipedia.org/wiki/KBS "wikilink")[K-Pop年度特別音樂節目暨頒獎典禮](https://zh.wikipedia.org/wiki/K-Pop "wikilink")。
 
 ## 歷史沿革
@@ -247,6 +250,20 @@
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島</a>KBS電視台音樂廳</p></td>
 <td><p><a href="../Page/金碩珍.md" title="wikilink">Jin</a>、<a href="https://zh.wikipedia.org/wiki/燦烈" title="wikilink">燦烈</a>、<a href="https://zh.wikipedia.org/wiki/裴柱現" title="wikilink">Irene</a>、<a href="https://zh.wikipedia.org/wiki/Sana" title="wikilink">Sana</a><br />
 <a href="../Page/頌樂.md" title="wikilink">頌樂</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a>、<a href="../Page/Yerin.md" title="wikilink">Yerin</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>2018年12月28日（星期五）</p></td>
+<td><p><a href="../Page/金碩珍.md" title="wikilink">Jin</a>、<a href="https://zh.wikipedia.org/wiki/燦烈" title="wikilink">燦烈</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>2019年12月27日（星期五）</p></td>
+<td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a>一山</p></td>
+<td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a>、<a href="../Page/朴珍榮.md" title="wikilink">朴珍榮</a>、<a href="https://zh.wikipedia.org/wiki/裴柱現" title="wikilink">Irene</a></p></td>
 <td></td>
 </tr>
 </tbody>

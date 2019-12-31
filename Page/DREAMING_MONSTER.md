@@ -1,3 +1,6 @@
+> 本文内容由[DREAMING MONSTER](https://zh.wikipedia.org/wiki/DREAMING_MONSTER)转换而来。
+
+
 **DREAMING MONSTER（）**為主要在日本活動的8人組偶像團體。成員皆为在20歲以上的大人系偶像。
 
 ## 经历

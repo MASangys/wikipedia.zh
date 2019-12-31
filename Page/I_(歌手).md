@@ -1,3 +1,6 @@
+> 本文内容由[I \(歌手\)](https://zh.wikipedia.org/wiki/I_\(歌手\))转换而来。
+
+
 **車允智**（，），是韓國[WM娛樂旗下女歌手](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，以藝名**I**（）活動。2017年1月11日，以首張迷你專輯《I Dream》正式出道。
 
 ## 演藝經歷

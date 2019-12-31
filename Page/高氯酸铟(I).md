@@ -1,3 +1,6 @@
+> 本文内容由[高氯酸铟\(I\)](https://zh.wikipedia.org/wiki/高氯酸铟\(I\))转换而来。
+
+
 **高氯酸铟(I)**是一种无机化合物，化学式为InClO<sub>4</sub>。
 
 ## 制备
@@ -13,5 +16,4 @@
 [Category:铟化合物](https://zh.wikipedia.org/wiki/Category:铟化合物 "wikilink") [Category:高氯酸盐](https://zh.wikipedia.org/wiki/Category:高氯酸盐 "wikilink") [Category:缺少物质图片的化学品条目](https://zh.wikipedia.org/wiki/Category:缺少物质图片的化学品条目 "wikilink")
 
 1.  Ashraf M, Azizaltahman A M, Headridge J B. Preparation of indium(I) perchlorate, tetrafluoroborate, and hexafluorophosphate\[J\]. Journal of the Chemical Society Dalton Transactions, 1977, 2(2):170-173. <doi:10.1039/DT9770000170>
-
 2.

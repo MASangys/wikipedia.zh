@@ -1,4 +1,4 @@
-> 本文内容由[A \(BIGBANG單曲\)](https://zh.wikipedia.org/wiki/A \(BIGBANG單曲\))转换而来。
+> 本文内容由[A \(BIGBANG單曲\)](https://zh.wikipedia.org/wiki/A_\(BIGBANG單曲\))转换而来。
 
 
 **A**是[南韓五人男子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BIGBANG在闊別](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")11年後終於發行的《**MADE SERIES**》中第二個月的韓文單曲《**A**》，收錄兩首新歌。 2015年6月2日於各大音源網站公開線上音源，2015年6月3日為實體單曲發行日，實體單曲共有《**A**》黑版及《**a**》白色版兩種版本。

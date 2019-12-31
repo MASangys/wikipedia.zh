@@ -1,4 +1,4 @@
-> 本文内容由[HTTP 303](https://zh.wikipedia.org/wiki/HTTP 303)转换而来。
+> 本文内容由[HTTP 303](https://zh.wikipedia.org/wiki/HTTP_303)转换而来。
 
 
 **HTTP 303 See Other** ，自 RFC 2616 (HTTP 1.1)起，用于在收到[HTTP POST请求之后](https://zh.wikipedia.org/wiki/HTTP_POST "wikilink")，进行[URL重定向的操作](https://zh.wikipedia.org/wiki/URL重定向 "wikilink")。\[1\]

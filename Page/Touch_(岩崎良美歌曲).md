@@ -1,3 +1,6 @@
+> 本文内容由[Touch \(岩崎良美歌曲\)](https://zh.wikipedia.org/wiki/Touch_\(岩崎良美歌曲\))转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[岩崎良美](../Page/岩崎良美.md "wikilink")的第20張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1985年3月21日由[Canyon Record（今Pony Canyon）發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HRESULT](https://zh.wikipedia.org/wiki/HRESULT)转换而来。
+
+
 在[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程领域中](https://zh.wikipedia.org/wiki/编程 "wikilink")，**HRESULT**是一种在 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 操作系统中使用的数据类型，并且曾更早在 [IBM](../Page/IBM.md "wikilink")/Microsoft [OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink") [操作系统](../Page/操作系统.md "wikilink")中使用。用来表示错误和警告的情况。
 
 HRESULT的最初目的是为了防止OS/2操作系统的不同子系统中的错误代码之间的冲突，正式地规定第三方和[微软](../Page/微软.md "wikilink")内部使用的错误代码范围。它是基于数字的错误代码，HRESULT中的各个位编码包含有关错误代码的性质及其来源的信息。

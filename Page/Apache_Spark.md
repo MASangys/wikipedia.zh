@@ -1,4 +1,4 @@
-> 本文内容由[Apache Spark](https://zh.wikipedia.org/wiki/Apache Spark)转换而来。
+> 本文内容由[Apache Spark](https://zh.wikipedia.org/wiki/Apache_Spark)转换而来。
 
 
 **Apache Spark**是一個[開源叢集運算框架](https://zh.wikipedia.org/wiki/開源 "wikilink")，最初是由加州大學柏克萊分校AMPLab所開發。相對於[Hadoop的](../Page/Apache_Hadoop.md "wikilink")[MapReduce](../Page/MapReduce.md "wikilink")會在執行完工作後將中介資料存放到磁碟中，Spark使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。Spark在記憶體內執行程式的運算速度能做到比Hadoop MapReduce的運算速度快上100倍，即便是執行程式於硬碟時，Spark也能快上10倍速度。\[1\]Spark允許用戶將資料加載至叢集記憶體，並多次對其進行查詢，非常適合用於[機器學習演算法](https://zh.wikipedia.org/wiki/機器學習 "wikilink")。\[2\]

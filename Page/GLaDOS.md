@@ -1,3 +1,6 @@
+> 本文内容由[GLaDOS](https://zh.wikipedia.org/wiki/GLaDOS)转换而来。
+
+
 **GLaDOS**（**G**enetic **L**ifeform **a**nd **D**isk **O**perating **S**ystem\[1\] 基因生命体与[磁盘操作系统](../Page/DOS.md "wikilink")）是[传送门系列电子游戏中的虚构](https://zh.wikipedia.org/wiki/传送门系列 "wikilink")[人工智能](../Page/人工智能.md "wikilink")体，在《[传送门](https://zh.wikipedia.org/wiki/传送门 "wikilink")》、《[传送门2](https://zh.wikipedia.org/wiki/传送门2 "wikilink")》、《》和《》等游戏中登场。角色由与设计，由配音。在游戏作品中，GLaDOS扮演了负责测试和维护实验设施的角色。在最初的《传送门》中，GLaDOS以引导者的角色登场，随着自己意图逐渐明晰，她的言语和行为也跟着变得邪恶。后来[维尔福创作的漫画](https://zh.wikipedia.org/wiki/维尔福 "wikilink")《Lab Rat》和游戏续作《传送门2》揭示她曾受到科学家的虐待，并在系列剧情正式发生之前用[神经毒素杀死了所有的科学家](https://zh.wikipedia.org/wiki/神经毒素 "wikilink")。她在第一作中被玩家摧毁，但在续作中复活，而且被戏剧性地让另一个人工智能体塞入土豆电池中。
 
 角色设计灵感始于创作游戏《》之时。当时艾瑞克·沃保撰写台词并使用了[语音合成](../Page/语音合成.md "wikilink")程序，而其他开发者感觉语音合成结果很有趣。最初设计者计划只让GLaDOS在《传送门》游戏前期出现，之后却受到了其他人的喜爱，测试玩家也因为她的指导而乐于完成游戏，结果角色的地位得到了提升。 虽然游戏已经设计了其他角色，但之后全都不再采用，只留下了GLaDOS一个角色。GLaDOS的外貌经过了数次修改，最终成为了现在的版本。至于配音方面，爱伦·麦克莱恩用自己的声音模仿语音合成器的效果，之后又进行处理，使声音听起来更像机器人。《传送门》和《传送门2》结尾歌曲均由麦克莱恩演唱，其中《[仍然活着](https://zh.wikipedia.org/wiki/仍然活着 "wikilink")》取得了巨大成功，不光出现在《》系列游戏中，而且在[YouTube](../Page/YouTube.md "wikilink")的歌曲翻唱中也十分流行。

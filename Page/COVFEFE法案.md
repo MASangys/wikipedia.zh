@@ -1,3 +1,6 @@
+> 本文内容由[COVFEFE法案](https://zh.wikipedia.org/wiki/COVFEFE法案)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:COVFEFE_Act.pdf "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Mike_Quigley_official_photo_\(cropped\).jpg "fig:缩略图")\]\] **COVFEFE法案**，全名《**以參與為目的的各種電子渠道通訊法案**》（）是一项於2017年在[第115屆美國國會期間被提交到](https://zh.wikipedia.org/wiki/第115屆美國國會 "wikilink")[美国众议院的法案](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")。
 
 该法案建議修改《》，將[美國總統的](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[推特帖文和在其他](https://zh.wikipedia.org/wiki/推特 "wikilink")[社交媒体上的互動加以保存](https://zh.wikipedia.org/wiki/社交媒体 "wikilink")，並由[國家檔案和記錄管理局存儲](https://zh.wikipedia.org/wiki/國家檔案和記錄管理局 "wikilink")\[1\]\[2\]。

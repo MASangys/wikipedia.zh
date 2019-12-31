@@ -1,3 +1,6 @@
+> 本文内容由[Air \(INFINITE專輯\)](https://zh.wikipedia.org/wiki/Air_\(INFINITE專輯\))转换而来。
+
+
 《**Air**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第三張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年5月24日以三個版不同版本推出\[1\]。
 
 ## 背景
@@ -72,29 +75,17 @@
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.

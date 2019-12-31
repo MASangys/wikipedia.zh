@@ -1,4 +1,4 @@
-> 本文内容由[Camper and Nicholsons](https://zh.wikipedia.org/wiki/Camper and Nicholsons)转换而来。
+> 本文内容由[Camper and Nicholsons](https://zh.wikipedia.org/wiki/Camper_and_Nicholsons)转换而来。
 
 
 **Camper and Nicholsons International SA**，簡稱**Camper and Nicholsons**，在1782年，由Frances Calense由[倫敦航塢工作](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，遷至[漢普群](https://zh.wikipedia.org/wiki/漢普群 "wikilink")[戈斯波特](../Page/戈斯波特.md "wikilink")。

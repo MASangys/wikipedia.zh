@@ -1,3 +1,6 @@
+> 本文内容由[XGirl](https://zh.wikipedia.org/wiki/XGirl)转换而来。
+
+
 《**XGirl**》是[樂視在](https://zh.wikipedia.org/wiki/樂視 "wikilink")2013年推出的懸疑推理破案劇。
 
 **XGirl**是由[周秀娜](../Page/周秀娜.md "wikilink")、[張經偉](https://zh.wikipedia.org/wiki/張經偉 "wikilink")、[李昕岳](../Page/李昕岳.md "wikilink")、[王茗主演的一齣推理劇](https://zh.wikipedia.org/wiki/王茗 "wikilink")。本劇在描述三個身份不明的美麗大妞擁有神秘的超能力，小警官陳濤決定幫助三人尋找各自身分的故事

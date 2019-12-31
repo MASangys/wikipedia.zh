@@ -1,3 +1,6 @@
+> 本文内容由[東方天空璋 ～ Hidden Star in Four Seasons.](https://zh.wikipedia.org/wiki/東方天空璋_～_Hidden_Star_in_Four_Seasons.)转换而来。
+
+
 是由同人組織[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")發布的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")16作。
 
 ## 玩法
@@ -19,7 +22,7 @@
 
 ### 頭目角色
 
-  - **愛塔妮緹·拉爾瓦**（）
+  - **艾塔妮緹·菈兒芭**（）
 
 <!-- end list -->
 
@@ -61,7 +64,7 @@
 <td><p>朝靄散後的仲夏日<br />
 Miracle Blue Sky</p></td>
 <td><p>仲夏的高空（）</p></td>
-<td><p>愛塔妮緹拉爾瓦</p></td>
+<td><p>艾塔妮緹菈兒芭</p></td>
 <td></td>
 </tr>
 <tr class="even">

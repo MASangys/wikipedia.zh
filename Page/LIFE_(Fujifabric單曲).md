@@ -1,3 +1,6 @@
+> 本文内容由[LIFE \(Fujifabric單曲\)](https://zh.wikipedia.org/wiki/LIFE_\(Fujifabric單曲\))转换而来。
+
+
 《**LIFE**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的總計第15張\[1\][單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2014年2月12日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要

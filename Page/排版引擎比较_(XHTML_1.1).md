@@ -1,4 +1,4 @@
-> 本文内容由[排版引擎比较 \(XHTML 1.1\)](https://zh.wikipedia.org/wiki/排版引擎比较 \(XHTML 1.1\))转换而来。
+> 本文内容由[排版引擎比较 \(XHTML 1.1\)](https://zh.wikipedia.org/wiki/排版引擎比较_\(XHTML_1.1\))转换而来。
 
 
 下表比较了[XHTML 1.1对一些](../Page/XHTML.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的支持与兼容性。

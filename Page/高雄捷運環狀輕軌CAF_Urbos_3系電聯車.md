@@ -1,4 +1,7 @@
-**高雄捷運環狀輕軌CAF Urbos 3電聯車**是指在[高雄捷運環狀輕軌上營運的](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌 "wikilink")[動力分散式電聯車](../Page/動力分散式列車.md "wikilink")，在全線完工時總數預定達到24列。第一階段九列列車為西班牙[CAF公司](../Page/鐵路建設和協助公司.md "wikilink")[Urbos 3系列車輛](https://zh.wikipedia.org/wiki/Urbos "wikilink")，首列列車於2014年運抵高雄，是中華民國第一款正式營運載客的輕軌列車，也是台灣第一款來自[西班牙](../Page/西班牙.md "wikilink")的列車。
+> 本文内容由[高雄捷運環狀輕軌CAF Urbos 3系電聯車](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌CAF_Urbos_3系電聯車)转换而来。
+
+
+**高雄捷運環狀輕軌CAF Urbos 3電聯車**是指在[高雄捷運環狀輕軌上營運的](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌 "wikilink")[動力分散式電聯車](../Page/動力分散式列車.md "wikilink")，在全線完工時總數預定達到24列。第一階段九列列車為西班牙[CAF公司](../Page/鐵路建設和協助公司.md "wikilink")[Urbos 3系列車輛](https://zh.wikipedia.org/wiki/Urbos "wikilink")，首列列車於2014年運抵高雄，是臺灣第一款正式營運載客的輕軌列車，也是台灣第一款來自[西班牙](../Page/西班牙.md "wikilink")的列車。
 
 ## 歷史
 

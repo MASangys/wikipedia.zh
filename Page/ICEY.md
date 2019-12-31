@@ -1,3 +1,6 @@
+> 本文内容由[ICEY](https://zh.wikipedia.org/wiki/ICEY)转换而来。
+
+
 《**ICEY**》，又称“**艾希**”，是由[上海幻刃网络独立开发并由](https://zh.wikipedia.org/wiki/上海幻刃网络 "wikilink")[心动网络](../Page/心动网络.md "wikilink")发行的含[META要素的横版动作游戏](https://zh.wikipedia.org/wiki/META "wikilink")，游戏于2016年11月17日在[PlayStation 4与](../Page/PlayStation_4.md "wikilink")[Steam](../Page/Steam.md "wikilink")平台上发售，稍后移植智能手机版，且于2018年登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台\[1\]。本作是心动网络首次发行的PlayStation 4平台游戏。\[2\]
 
 《ICEY》还未上市期间已获得[科隆游戏展](../Page/Gamescom.md "wikilink")、[东京电玩展](../Page/东京电玩展.md "wikilink")等专业展会的业界奖项和提名，以及[索尼互动娱乐和游戏界媒体的关注](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")。\[3\]\[4\]

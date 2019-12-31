@@ -1,4 +1,4 @@
-> 本文内容由[Harmonia \(游戏\)](https://zh.wikipedia.org/wiki/Harmonia \(游戏\))转换而来。
+> 本文内容由[Harmonia \(游戏\)](https://zh.wikipedia.org/wiki/Harmonia_\(游戏\))转换而来。
 
 
 是[Key於](../Page/Key_\(遊戲品牌\).md "wikilink")2016年9月23日发售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")，是Key15周年纪念作品。被归类为“[视觉小说](../Page/视觉小说.md "wikilink")”，讲述了人造人的男主角与两位少女相遇并了解了真正的感情的故事\[1\]。

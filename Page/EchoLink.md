@@ -1,3 +1,6 @@
+> 本文内容由[EchoLink](https://zh.wikipedia.org/wiki/EchoLink)转换而来。
+
+
 **EchoLink**是一个免费的基于[计算机的](https://zh.wikipedia.org/wiki/计算机 "wikilink")[业余无线电](../Page/业余无线电.md "wikilink")软件，业余无线电爱好者可以借此与其他业余无线电台使用[网络协议通话技术](https://zh.wikipedia.org/wiki/网络协议通话技术 "wikilink")（VoIP）技术在[互联网](../Page/互联网.md "wikilink")上进行通联，或遥控连接至互联网的中继台进行通联。本软件由乔纳森·泰勒（，呼号为K1RFD）设计。
 
 此软件能够使业余无线电爱好者进行全球范围的通联，极大地提升了业余无线电台的通信能力。从本质上来说，EchoLink与其他VoIP软件（例如[Skype](../Page/Skype.md "wikilink")）相同，但EchoLink拥有连接业余无线电台[收发信机的能力](https://zh.wikipedia.org/wiki/收发信机 "wikilink")。因此，手持式业余无线电收发信机可以连接至本地的EchoLink节点（节点是一台连接至EchoLink系统的电台），然后使用节点的互联网连接，通过VoIP技术与世界各地的其他节点通联。连接EchoLink节点无需其他硬件或软件。
@@ -50,7 +53,7 @@ EchoIRLP是的一个[插件](../Page/插件.md "wikilink")，能够使IRLP节点
   - [EchoIRLP](https://web.archive.org/web/20070305170448/http://www.echoirlp.org/)
   - [W6DTW commentary and critique on EchoLink](http://w6dtw.blogspot.com/2007/08/echolink-follies.html)
   - [Rede Portuguesa Echolink (Portuguese Echolink Network)](https://web.archive.org/web/20130603003317/http://www.redeportuguesaecholink.com/)
-  - [Red Echolink en España (Spanish Echolink Network)](http://www.echolink.es)
+  - [Red Echolink en España (Spanish Echolink Network)](https://web.archive.org/web/20181228203423/http://echolink.es/)
 
 [Category:業餘無線電](https://zh.wikipedia.org/wiki/Category:業餘無線電 "wikilink") [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink")
 

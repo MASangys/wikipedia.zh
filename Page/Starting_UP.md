@@ -1,3 +1,6 @@
+> 本文内容由[Starting UP](https://zh.wikipedia.org/wiki/Starting_UP)转换而来。
+
+
 **Starting UP**（）是[日本](../Page/日本.md "wikilink")女性歌手的第15張單曲。2001年4月21日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 解說

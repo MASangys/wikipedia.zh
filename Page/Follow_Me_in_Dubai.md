@@ -1,3 +1,6 @@
+> 本文内容由[Follow Me in Dubai](https://zh.wikipedia.org/wiki/Follow_Me_in_Dubai)转换而来。
+
+
 《''' Follow Me in Dubai '''》（）是韓國[Fashion N電視台的美妝美容綜藝節目](https://zh.wikipedia.org/wiki/Fashion_N "wikilink")，由[G.Na](https://zh.wikipedia.org/wiki/G.Na "wikilink")、[朴恩智等人主持](https://zh.wikipedia.org/wiki/朴恩智 "wikilink")\[1\]，並與每一期的嘉賓一起討論美妝、美容資訊與知識的綜藝節目。
 
 ## 各集嘉賓

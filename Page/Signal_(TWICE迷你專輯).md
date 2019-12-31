@@ -1,3 +1,6 @@
+> 本文内容由[Signal \(TWICE迷你專輯\)](https://zh.wikipedia.org/wiki/Signal_\(TWICE迷你專輯\))转换而来。
+
+
 《**SIGNAL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[Genie音樂](../Page/Genie音樂.md "wikilink")發行，於2017年5月15日推出。同名主打歌曲〈SIGNAL〉，由[朴軫永](../Page/朴軫永.md "wikilink")製作。
 
 ## 背景

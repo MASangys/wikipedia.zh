@@ -1,3 +1,6 @@
+> 本文内容由[Alpine Linux](https://zh.wikipedia.org/wiki/Alpine_Linux)转换而来。
+
+
 **Alpine Linux**是一个由社区开发的[Linux操作系统](https://zh.wikipedia.org/wiki/Linux操作系统 "wikilink")，该操作系统以安全为理念，面向x86[路由器](../Page/路由器.md "wikilink")、[防火墙](../Page/防火墙.md "wikilink")、[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")、IP电话盒及[服务器](../Page/服务器.md "wikilink")而设计。
 
 ## 版本历史
@@ -68,11 +71,17 @@
 </tr>
 <tr class="even">
 <td></td>
+<td><p>2019-12-19</p></td>
+<td><p>2021-11-01</p></td>
+<td><p>5.4.xx</p></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td><p>滾動更新</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><small></small></p></td>
 <td></td>
 <td></td>

@@ -1,3 +1,6 @@
+> 本文内容由[客製化Android韌體列表](https://zh.wikipedia.org/wiki/客製化Android韌體列表)转换而来。
+
+
 本條目（清單）收錄較為知名的第三方團隊/廠商製作並（曾經）經常更新、基於[Android](../Page/Android.md "wikilink")的售後[韌體](../Page/韌體.md "wikilink")（客製化韌體）。
 
 智慧型手機廠商的客製版Android系統（即原廠韌體）則不在本條目的收錄範圍。但要注意的是像是MIUI、Flyme、Smartisan OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫安裝的，也屬於售後韌體之列。

@@ -1,3 +1,6 @@
+> 本文内容由[NCAA第一级别](https://zh.wikipedia.org/wiki/NCAA第一级别)转换而来。
+
+
 [NCAA_logo.svg](https://zh.wikipedia.org/wiki/File:NCAA_logo.svg "fig:NCAA_logo.svg") **NCAA第一级别**（）是美国[国家大学体育协会](https://zh.wikipedia.org/wiki/国家大学体育协会 "wikilink")（）校际体育赛事的最高级别。与第二、第三级别学校相比，第一级别学校在预算、设施、体育奖学金等各方面都更有优势。第一级别原先称为“大学级别”（），与“学院级别”（）相对。1973年，大学级别更名为第一级别，学院级别则细分为第二、三级别。\[1\]
 
 在NCAA第一级别各種運動項目中， 所有队伍级别都是相等的， 除了[美式足球](../Page/美式足球.md "wikilink")。在NCAA第一级别中，[美式足球](../Page/美式足球.md "wikilink")是唯一有子级别划分的運動項目。\[2\]\[3\]

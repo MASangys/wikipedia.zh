@@ -1,3 +1,6 @@
+> 本文内容由[Just Bring It](https://zh.wikipedia.org/wiki/Just_Bring_It)转换而来。
+
+
 『**Just Bring It**』\[1\]是[BAND-MAID](../Page/BAND-MAID.md "wikilink")出道以來首張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年1月11日由[日本皇冠發售](https://zh.wikipedia.org/wiki/日本皇冠 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Dimsum](https://zh.wikipedia.org/wiki/Dimsum)转换而来。
+
+
 **dimsum**是[马来西亚](../Page/马来西亚.md "wikilink")一家[流媒体](../Page/流媒体.md "wikilink")服务商，透过网络以及手机应用程序，专门提供视频点播服务[视频点播服务](https://zh.wikipedia.org/wiki/:隨選視訊 "wikilink")（Video on Demand），由星报媒体集团（Star Media Group）旗下公司——星报在线有限公司（Star Online Sdn Bhd）所管理。目前可在马来西亚以及汶莱,新加坡地区观看。
 
 “dimsum”取名之灵感源自粤式美食“[点心](../Page/廣式點心.md "wikilink")”的译音。将“点心（dimsum）”两字拆开来，即是“点（dim）”与“心（sum）”，含义即是“点”选您“心”爱的节目。dimsum标志中间的播放符号代表“点”，另外四画则代表“心”字。

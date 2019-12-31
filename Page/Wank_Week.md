@@ -1,4 +1,4 @@
-> 本文内容由[Wank Week](https://zh.wikipedia.org/wiki/Wank Week)转换而来。
+> 本文内容由[Wank Week](https://zh.wikipedia.org/wiki/Wank_Week)转换而来。
 
 
 [Big4jan2016.jpg](https://zh.wikipedia.org/wiki/File:Big4jan2016.jpg "fig:Big4jan2016.jpg") **Wank Week**（中文譯作**自慰週**）是一個在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[第四台播出的一系列](../Page/第四台_\(英國\).md "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視 "wikilink")，其內容具一定爭議性；原本的計劃包括三個關於[自慰](../Page/自慰.md "wikilink")的紀錄片節目。但是計劃在2007年3月正式播映後，隨即引來公眾對機構高層的抨擊，並引起對編輯人員的標準和該機構[公共廣播](../Page/公共廣播.md "wikilink")服務許可的質疑。儘管該節目後來被取消播映，但是在稍後的日子当中的內容可能会被播出。\[1\]

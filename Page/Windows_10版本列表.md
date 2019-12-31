@@ -1,4 +1,4 @@
-> 本文内容由[Windows 10版本列表](https://zh.wikipedia.org/wiki/Windows 10版本列表)转换而来。
+> 本文内容由[Windows 10版本列表](https://zh.wikipedia.org/wiki/Windows_10版本列表)转换而来。
 
 
 **[Windows 10](../Page/Windows_10.md "wikilink")**作業系統若不計「N」版、「KN」版以及其他变种，有十二大**版本**（如计算服务器和游戏机的不自称为Windows 10的版本，则为十六个），它們的功能集和面向的硬體都不盡相同。\[1\]\[2\]

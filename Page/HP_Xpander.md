@@ -1,4 +1,4 @@
-> 本文内容由[HP Xpander](https://zh.wikipedia.org/wiki/HP Xpander)转换而来。
+> 本文内容由[HP Xpander](https://zh.wikipedia.org/wiki/HP_Xpander)转换而来。
 
 
 **HP Xpander**是一款由[惠普公司在](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")2001年设计的[图形计算器](../Page/图形计算器.md "wikilink")，但是在计划投入生产前的几个星期，这个项目被取消。\[1\]这款计算器可以使用触摸或键盘两种方式进行输入，拥有一个大尺寸的[灰度](https://zh.wikipedia.org/wiki/灰度 "wikilink")[触摸屏](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")（240×320）。HP Xpander机身采用[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")[塑料](../Page/塑料.md "wikilink")和少部分半透明[蓝色塑料](https://zh.wikipedia.org/wiki/蓝色 "wikilink")，因此它看起来类似于[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")。

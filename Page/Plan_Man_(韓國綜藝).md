@@ -1,3 +1,6 @@
+> 本文内容由[Plan Man \(韓國綜藝\)](https://zh.wikipedia.org/wiki/Plan_Man_\(韓國綜藝\))转换而来。
+
+
 **《Plan Man》**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[製片公司J](https://zh.wikipedia.org/wiki/製片公司 "wikilink") Family於2016年推出的旅遊[綜藝節目](../Page/綜藝節目.md "wikilink")，主持人[殷志源在節目中接受明星們的委託](https://zh.wikipedia.org/wiki/殷志源 "wikilink")，親自為他們制定旅遊計劃。不僅包括旅行地的選擇、行程安排，殷志源還擔任導遊與明星們一同出遊\[1\]。節目第一季於2016年5月22日至8月14日逢星期日[韓國時間晚上](https://zh.wikipedia.org/wiki/韓國 "wikilink")10時播出，第二季於2017年3月13日至8月24日逢星期一至五[韓國時間晚上](https://zh.wikipedia.org/wiki/韓國 "wikilink")6時播出，第三季於2018年2月26日至3月20日逢星期一至五[韓國時間晚上](https://zh.wikipedia.org/wiki/韓國 "wikilink")6時播出。
 
 ## 節目內容

@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Azure 備份服務](https://zh.wikipedia.org/wiki/Microsoft Azure 備份服務)转换而来。
+> 本文内容由[Microsoft Azure 備份服務](https://zh.wikipedia.org/wiki/Microsoft_Azure_備份服務)转换而来。
 
 
 **Microsoft Azure 備份服務** 是 Microsoft Azure 利用[Azure儲存體所發展的資料備份服務](../Page/Microsoft_Azure_儲存體.md "wikilink") (Backup as a Service)，用來備份雲端或是地端的資料。

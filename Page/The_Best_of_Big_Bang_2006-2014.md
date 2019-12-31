@@ -1,3 +1,6 @@
+> 本文内容由[The Best of Big Bang 2006-2014](https://zh.wikipedia.org/wiki/The_Best_of_Big_Bang_2006-2014)转换而来。
+
+
 《**The Best of Big Bang 2006-2014**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的新公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2014年11月24日在日本推出。\[1\]
 
 ## 背景

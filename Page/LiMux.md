@@ -1,3 +1,6 @@
+> 本文内容由[LiMux](https://zh.wikipedia.org/wiki/LiMux)转换而来。
+
+
 **LiMux – The IT evolution**是[慕尼黑](../Page/慕尼黑.md "wikilink")（[德国](../Page/德国.md "wikilink")第三大城市）将软件系统从[闭源](https://zh.wikipedia.org/wiki/闭源 "wikilink")、[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")[微软](../Page/微软.md "wikilink")产品迁移到[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")的项目。该项目已于2013年底成功完成，涉及将15,000台[个人电脑](../Page/个人电脑.md "wikilink")和[笔记本电脑迁移到自由及开源软件](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。LiMux也是该项目中使用的[Linux发行版](../Page/Linux发行版.md "wikilink")（一个[Ubuntu](../Page/Ubuntu.md "wikilink")衍生版）的名称，它包含[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")（以及WollMux）作为主要的生产力软件。\[1\]该项目最初使用[OpenOffice](https://zh.wikipedia.org/wiki/OpenOffice "wikilink")，但后来切换到LibreOffice。\[2\]慕尼黑报告称，除获得软件的自由决定权和增加安全性外，这也节约了1170万[欧元](../Page/欧元.md "wikilink")（约合1600万美元）。\[3\]
 
 其中的IT进化（IT Evolution）与“革命”对应，不是没有计划的急剧过渡，而是较慢但连续的“进化”。

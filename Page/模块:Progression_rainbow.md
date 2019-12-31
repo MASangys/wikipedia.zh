@@ -1,4 +1,4 @@
-> 本文内容由[模块:Progression rainbow](https://zh.wikipedia.org/wiki/模块:Progression rainbow)转换而来。
+> 本文内容由[模块:Progression rainbow](https://zh.wikipedia.org/wiki/模块:Progression_rainbow)转换而来。
 
 
 local list = {

@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone 4 \(2017年\)](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017年\))转换而来。
+
+
 **ASUS ZenFone 4 系列**是[華碩](../Page/華碩.md "wikilink")於2017年8月17日在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北發表之](https://zh.wikipedia.org/wiki/台北 "wikilink")[ZenFone第四代系列產品](https://zh.wikipedia.org/wiki/ZenFone "wikilink")，[孔劉](../Page/孔劉.md "wikilink")(공유)為[亞太區](https://zh.wikipedia.org/wiki/亞太區 "wikilink")[代言人](https://zh.wikipedia.org/wiki/代言人 "wikilink")。
 
 ## 基本規格比較

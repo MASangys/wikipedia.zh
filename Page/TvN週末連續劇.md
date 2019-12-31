@@ -1,3 +1,6 @@
+> 本文内容由[TvN週末連續劇](https://zh.wikipedia.org/wiki/TvN週末連續劇)转换而来。
+
+
 **tvN週末連續劇**（），或稱**tvN土日連續劇**，是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")播映的電視劇。\[1\]
 
 ## 播出時間更動表
@@ -50,7 +53,7 @@
 <td style="text-align: center;"><p>-{<a href="../Page/秘密森林.md" title="wikilink">秘密森林</a>}-<br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/曹承佑.md" title="wikilink">曹承佑</a>、<a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>、<a href="../Page/李浚赫.md" title="wikilink">李浚赫</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="../Page/劉在明.md" title="wikilink">劉在明</a>、<a href="../Page/李璟榮.md" title="wikilink">李璟榮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/曹承佑.md" title="wikilink">曹承佑</a>、<a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>、<a href="../Page/李浚赫.md" title="wikilink">李浚赫</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="../Page/劉在明.md" title="wikilink">劉在明</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a>、<a href="../Page/李璟榮.md" title="wikilink">李璟榮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/安吉鎬" title="wikilink">安吉鎬</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李秀妍" title="wikilink">李秀妍</a></p></td>
 <td style="text-align: center;"></td>
@@ -176,7 +179,7 @@
 <td style="text-align: center;"><p><a href="../Page/阿爾罕布拉宮的回憶_(電視劇).md" title="wikilink">阿爾罕布拉宮的回憶</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="../Page/炫彬.md" title="wikilink">炫彬</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/炫彬.md" title="wikilink">炫彬</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="../Page/朴勳.md" title="wikilink">朴勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/安吉鎬" title="wikilink">安吉鎬</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/宋在貞.md" title="wikilink">宋在貞</a></p></td>
 <td style="text-align: center;"></td>
@@ -265,7 +268,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月28日－<br />
-2019年11月</p></td>
+2019年11月17日</p></td>
 <td style="text-align: center;"><p><a href="../Page/請融化我吧.md" title="wikilink">請融化我吧</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -275,12 +278,12 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年11月－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年12月14日－<br />
+2020年2月</p></td>
 <td style="text-align: center;"><p><a href="../Page/愛的迫降.md" title="wikilink">愛的迫降</a><br />
 </p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄彬" title="wikilink">玄彬</a>、<a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a>、、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<a href="../Page/金正鉉_(1990年).md" title="wikilink">金正鉉</a></p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄彬" title="wikilink">玄彬</a>、<a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a>、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<a href="../Page/金正鉉_(1990年).md" title="wikilink">金正鉉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李政孝" title="wikilink">李政孝</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴智恩_(編劇).md" title="wikilink">朴智恩</a></p></td>
 <td style="text-align: center;"></td>

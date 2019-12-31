@@ -1,4 +1,4 @@
-> 本文内容由[諾基亞Lumia 810](https://zh.wikipedia.org/wiki/諾基亞Lumia 810)转换而来。
+> 本文内容由[諾基亞Lumia 810](https://zh.wikipedia.org/wiki/諾基亞Lumia_810)转换而来。
 
 
 **諾基亞Lumia 810** （）是[諾基亞與](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[T-Mobile](../Page/T-Mobile.md "wikilink")合作於2012年推出的一款[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載[Windows Phone 8作業系統](../Page/Windows_Phone_8.md "wikilink")。

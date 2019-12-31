@@ -1,3 +1,6 @@
+> 本文内容由[X 重生](https://zh.wikipedia.org/wiki/X_重生)转换而来。
+
+
 是德国游戏开发商[Egosoft开发的一款](https://zh.wikipedia.org/wiki/Egosoft "wikilink")[空间模拟游戏](https://zh.wikipedia.org/wiki/空间模拟游戏 "wikilink")，是[X系列游戏的第六作](https://zh.wikipedia.org/wiki/X系列_\(游戏\) "wikilink")。该游戏于2013年11月15日发布。是《X³：阿尔比恩序曲》后的续作。\[1\]本作运行在Microsoft Windows、Mac OS X、Linux环境下，Egosoft的总监Bernd Lehahn表示《X 重生》不会在游戏机平台运行。\[2\]
 
 ## 追加下载内容

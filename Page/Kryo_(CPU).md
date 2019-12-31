@@ -1,3 +1,6 @@
+> 本文内容由[Kryo \(CPU\)](https://zh.wikipedia.org/wiki/Kryo_\(CPU\))转换而来。
+
+
 **Kryo**是[高通](../Page/高通.md "wikilink")設計的或高通基於ARM Cortex-A系列客製的[64位元](../Page/64位元.md "wikilink")[ARMv8相容](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[中央處理單元系列](https://zh.wikipedia.org/wiki/中央處理單元 "wikilink")，用於其自家的[驍龍產品線](https://zh.wikipedia.org/wiki/驍龍 "wikilink")，接替[32位元](../Page/32位元.md "wikilink")ARMv7相容的[Krait處理器單元](../Page/Krait_\(CPU\).md "wikilink")。
 
 ## Kryo 200

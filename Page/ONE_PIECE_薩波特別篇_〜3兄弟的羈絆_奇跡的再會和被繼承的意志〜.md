@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜)转换而来。
+
+
 《**ONE PIECE 薩波特別篇 〜3兄弟的羈絆 奇跡的再會和被繼承的意志〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2015年8月22日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出\[1\]。
 
 ## 製作

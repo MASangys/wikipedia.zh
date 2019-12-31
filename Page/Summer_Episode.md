@@ -1,3 +1,6 @@
+> 本文内容由[Summer Episode](https://zh.wikipedia.org/wiki/Summer_Episode)转换而来。
+
+
 ***Summer Episode*** 是韓國兄妹組合[樂童音樂家於](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")2017年7月20日發行的首張單曲專輯。
 
 ## 背景

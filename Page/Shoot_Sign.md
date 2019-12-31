@@ -1,3 +1,6 @@
+> 本文内容由[Shoot Sign](https://zh.wikipedia.org/wiki/Shoot_Sign)转换而来。
+
+
 《**Shoot Sign**》（）是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第47張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在2017年3月15日由[國王唱片](../Page/國王唱片.md "wikilink")發行。A面曲的[center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）由[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")擔任，這也是小嶋在AKB48的最後一張單曲\[1\]。
 
 ## 简介

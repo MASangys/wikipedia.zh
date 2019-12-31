@@ -1,3 +1,6 @@
+> 本文内容由[MFi认证](https://zh.wikipedia.org/wiki/MFi认证)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Made_for_iPod.svg "fig:右") [蘋果公司的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")**MFi认证**（"**Made for iPhone/iPod/iPad**"）是用于苹果[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPhone的硬件和软件](https://zh.wikipedia.org/wiki/iPhone "wikilink")[外部设备开发者的许可程序](https://zh.wikipedia.org/wiki/外部设备 "wikilink") 。该名称原是**Made for iPod**的缩写版本。该认证涵盖各种设备连接器，包括耳机插孔、原和新的[Lightning接头](../Page/Lightning接头.md "wikilink")，以及[AirPlay支持](https://zh.wikipedia.org/wiki/AirPlay "wikilink")。加入MFi计划并通过认证测试的公司能在其产品包装上展示特定MFi相关标志，例如“Made for iPod”徽章。
 
 ## Made for iPod

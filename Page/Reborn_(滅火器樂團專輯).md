@@ -1,4 +1,4 @@
-> 本文内容由[Reborn \(滅火器樂團專輯\)](https://zh.wikipedia.org/wiki/Reborn \(滅火器樂團專輯\))转换而来。
+> 本文内容由[Reborn \(滅火器樂團專輯\)](https://zh.wikipedia.org/wiki/Reborn_\(滅火器樂團專輯\))转换而来。
 
 
 《**REBORN**》是[滅火器樂團的第四張專輯](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")，於2016年3月25日由滅火器樂團創立公司[火氣音樂首張製作由](https://zh.wikipedia.org/wiki/火氣音樂 "wikilink")[五月天](../Page/五月天.md "wikilink")創立公司相關企業[相知國際發行](https://zh.wikipedia.org/wiki/相知國際 "wikilink")。\[1\]\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Armenian](https://zh.wikipedia.org/wiki/模块:Armenian)转换而来。
+
+
 \-- This module implements . It converts numbers to old Armenian -- numerals, for numbers from 1-29999.
 
 local p = {}

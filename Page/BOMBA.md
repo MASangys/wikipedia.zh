@@ -1,3 +1,6 @@
+> 本文内容由[BOMBA](https://zh.wikipedia.org/wiki/BOMBA)转换而来。
+
+
 **BOMBA**為[香港](../Page/香港.md "wikilink")的[影視創作](https://zh.wikipedia.org/wiki/影視 "wikilink")[工作室](https://zh.wikipedia.org/wiki/工作室 "wikilink")，除了製作廣告外，同時亦活躍於攝製網絡影片。
 
 ## 簡介

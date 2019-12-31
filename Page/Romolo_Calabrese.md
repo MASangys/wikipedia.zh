@@ -1,4 +1,4 @@
-> 本文内容由[Romolo Calabrese](https://zh.wikipedia.org/wiki/Romolo Calabrese)转换而来。
+> 本文内容由[Romolo Calabrese](https://zh.wikipedia.org/wiki/Romolo_Calabrese)转换而来。
 
 
 **Romolo Calabrese**, 是一位意大利建筑师, 一直活跃在国际与国内设计界与理论界。\[1\] 他出生于米兰，1998年毕业于米兰理工大学建筑学专业。 于1995 至1997 在阿尔多·罗西的事务所任职, 其间参与多个设计项目。并于1999年在米兰 成立了 RRC 建筑事务所。 随后2003年于法国尼斯区代卡成立了第二个工作室。由于一直以来积极参与于各类建筑竞赛, 2007年荣获西办牙萨拉戈萨"Viviendas y Oficinas"建筑设计竞赛一等奖\[2\] , 并承接了隶属于2008世界博览会新城区建设的住宅设计项目。 随后他参加了Rizoma : "青年意大利建筑师双年展"。\[3\] 2012荣获贝尔林戈市中学设计竞赛一等奖。 \[4\]

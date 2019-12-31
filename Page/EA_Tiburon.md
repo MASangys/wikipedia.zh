@@ -1,4 +1,4 @@
-> 本文内容由[EA Tiburon](https://zh.wikipedia.org/wiki/EA Tiburon)转换而来。
+> 本文内容由[EA Tiburon](https://zh.wikipedia.org/wiki/EA_Tiburon)转换而来。
 
 
 **EA Tiburon**，是位于美国佛罗里达州奥兰多市的开发工作室。该工作室成立于1994年，\[1\]它的前身是Tiburon Entertainment，1998年被[美国艺电收购](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")\[2\]。

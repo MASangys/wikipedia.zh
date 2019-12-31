@@ -1,4 +1,7 @@
-**《SBS 8點新聞》**（，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS的旗艦](../Page/SBS_\(韓國\).md "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，於韓國標準時間每日19:55-20:55播放。這節新聞於1991年12月9日即SBS的啓播日開播，也打破了韓國的電視台於每晚9點播放主新聞的傳統，因而以「提早1小時的新聞（）」為口號。
+> 本文内容由[SBS 8点新闻](https://zh.wikipedia.org/wiki/SBS_8点新闻)转换而来。
+
+
+**《SBS 8點新聞》**（，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS的旗艦](../Page/SBS_\(韓國\).md "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，於韓國標準時間每日19:55-20:55播放。這節新聞於1991年12月9日即SBS的啓播日開播，也打破了韓國的電視台於每晚9點播放主新聞的傳統，因而以「提早1小時的新聞（）」為口號；目前為韓國唯一於19:55播出新聞的[無線電視台](../Page/地面電視.md "wikilink")。
 
 [2011年](../Page/2011年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")，本節新聞與SBS一樣，迎來其開播20週年紀念日，使得本節目成為開播時間最長的一檔由民營電視台開辦的晚間新聞節目。
 
@@ -81,7 +84,7 @@
 ## 主播
 
   - 工作日：金贤宇、崔惠林
-  - 週末：Kim Yong-tae、鄭美善
+  - 週末：Kim Bum-joo、Kim Min-hyung
 
 ## 20點整點報時贊助商
 

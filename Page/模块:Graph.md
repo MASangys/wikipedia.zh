@@ -1,3 +1,6 @@
+> 本文内容由[模块:Graph](https://zh.wikipedia.org/wiki/模块:Graph)转换而来。
+
+
 \-- ATTENTION: Please edit this code at <https://de.wikipedia.org/wiki/Modul:Graph> -- This way all wiki languages can stay in sync. Thank you\! -- -- Version History: -- 2016-01-09 _PLEASE UPDATE when modifying anything_ -- 2016-01-28 For maps, always use wikiraw:// protocol. <https://> will be disabled soon. -- 2016-03-20 Allow omitted data for charts, labels for line charts with string (ordinal) scale at point location -- 2016-05-16 Added encodeTitleForPath() to help all path-based APIs graphs like pageviews
 
 local p = {}

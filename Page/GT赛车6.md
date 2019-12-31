@@ -1,3 +1,6 @@
+> 本文内容由[GT赛车6](https://zh.wikipedia.org/wiki/GT赛车6)转换而来。
+
+
 是一款在[索尼](../Page/索尼.md "wikilink")[PlayStation 3上发行的](../Page/PlayStation_3.md "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")。GT赛车6由[Polyphony Digital制作](../Page/Polyphony_Digital.md "wikilink")、[索尼電腦娛樂于](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2013年发行。初回限定特典为20款15周年纪念车和15周年纪念DLC。 {{-}}
 
 ## 评价

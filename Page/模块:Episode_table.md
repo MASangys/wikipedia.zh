@@ -1,3 +1,6 @@
+> 本文内容由[模块:Episode table](https://zh.wikipedia.org/wiki/模块:Episode_table)转换而来。
+
+
 \-- This module implements  and .
 
 local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )

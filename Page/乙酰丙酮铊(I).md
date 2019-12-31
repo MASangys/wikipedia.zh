@@ -1,3 +1,6 @@
+> 本文内容由[乙酰丙酮铊\(I\)](https://zh.wikipedia.org/wiki/乙酰丙酮铊\(I\))转换而来。
+
+
 **乙酰丙酮铊(I)**是[乙酰丙酮](../Page/乙酰丙酮.md "wikilink")形成的铊(I)盐，化学式为\[Tl(C<sub>5</sub>H<sub>7</sub>O<sub>2</sub>)\]<sub>2</sub>。乙酰丙酮铊(I)在固态为二聚体，通过Tl…Tl相互作用和氧桥连接。\[1\]
 
 ## 制备

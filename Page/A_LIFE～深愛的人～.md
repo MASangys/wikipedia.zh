@@ -1,3 +1,6 @@
+> 本文内容由[A LIFE～深愛的人～](https://zh.wikipedia.org/wiki/A_LIFE～深愛的人～)转换而来。
+
+
 ，2017年1月15日至2017年3月19日於[TBS電視台](../Page/TBS電視台.md "wikilink")「[周日劇場](../Page/周日劇場.md "wikilink")」時段播出的連續劇。由[木村拓哉](../Page/木村拓哉.md "wikilink")主演\[1\]\[2\]，編劇為《》系列的編劇[橋部敦子](../Page/橋部敦子.md "wikilink")。
 
 ## 劇情概要

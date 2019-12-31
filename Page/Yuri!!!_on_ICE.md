@@ -1,3 +1,6 @@
+> 本文内容由[Yuri!!! on ICE](https://zh.wikipedia.org/wiki/Yuri!!!_on_ICE)转换而来。
+
+
 《**YURI\!\!\! on ICE**》（）是由日本動畫公司[MAPPA](../Page/MAPPA.md "wikilink")製作的原創[花式滑冰題材](https://zh.wikipedia.org/wiki/花式滑冰 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。自2016年10月5日起播放至同年12月21日止，全12集。\[2\]劇情描述日本花式滑冰運動員勝生勇利、他的偶像（後來成為教練）的俄羅斯滑冰冠軍維克托、以及俄羅斯新生代滑冰運動員尤里互相切磋，並參加[国际滑冰联盟花样滑冰大奖赛](../Page/国际滑冰联盟花样滑冰大奖赛.md "wikilink")的故事。
 
 在日本，作品的BD銷量超過40000張，還獲得了[東京動畫獎](../Page/東京動畫獎.md "wikilink")票選年度最佳動畫等多項殊榮。該作品對主角之間的同性關係的描述也引發討論。

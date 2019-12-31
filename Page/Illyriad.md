@@ -1,3 +1,6 @@
+> 本文内容由[Illyriad](https://zh.wikipedia.org/wiki/Illyriad)转换而来。
+
+
 是由Illyriad Games Ltd開發的[网页](../Page/网页游戏.md "wikilink")[獨立遊戲](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。\[1\]\[2\]\[3\]
 
 不同于许多浏览器游戏，由Illyriad没有设定游戏目标。游戏无限循环，没有计划重置。\[4\]\[5\]

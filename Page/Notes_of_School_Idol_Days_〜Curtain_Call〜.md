@@ -1,4 +1,4 @@
-> 本文内容由[Notes of School Idol Days 〜Curtain Call〜](https://zh.wikipedia.org/wiki/Notes of School Idol Days 〜Curtain Call〜)转换而来。
+> 本文内容由[Notes of School Idol Days 〜Curtain Call〜](https://zh.wikipedia.org/wiki/Notes_of_School_Idol_Days_〜Curtain_Call〜)转换而来。
 
 
 『**Notes of School Idol Days 〜Curtain Call〜**』是動畫電影「[LoveLive\! 學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")」的[原聲音樂集](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，在2015年8月5日由[Lantis](../Page/Lantis.md "wikilink")發售。

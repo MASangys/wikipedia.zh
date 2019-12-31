@@ -1,3 +1,6 @@
+> 本文内容由[Haha Land](https://zh.wikipedia.org/wiki/Haha_Land)转换而来。
+
+
 《**Haha Land**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[盧洪哲](https://zh.wikipedia.org/wiki/盧洪哲 "wikilink")、[柳真](../Page/柳真.md "wikilink")等人共同主持，主要為追求人和動物幸福共存的探索型綜藝節目\[1\]\[2\]\[3\]。
 
 ## 各集內容

@@ -1,4 +1,7 @@
-**Nasty Nasty**是[大韓民國的一個混聲組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，於2014年8月27日推出，由[ZE:A](../Page/ZE:A.md "wikilink")的[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")（Kevin）、[Nine Muses的](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、組成。同年9月4日，該組合正式公開《Knock》完整版MV，通過Mnet音樂節目《M！Countdown》正式出道。
+> 本文内容由[Nasty Nasty](https://zh.wikipedia.org/wiki/Nasty_Nasty)转换而来。
+
+
+**Nasty Nasty**是[大韓民國的一個混聲組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，於2014年8月27日推出，由[ZE:A](../Page/ZE:A.md "wikilink")的（Kevin）、[Nine Muses的](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink")[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、組成。同年9月4日，該組合正式公開《Knock》完整版MV，通過Mnet音樂節目《M！Countdown》正式出道。
 
 ## 暫停活動成員列表
 

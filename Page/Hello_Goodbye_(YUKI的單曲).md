@@ -1,3 +1,6 @@
+> 本文内容由[Hello Goodbye \(YUKI的單曲\)](https://zh.wikipedia.org/wiki/Hello_Goodbye_\(YUKI的單曲\))转换而来。
+
+
 \-{「}-**Hello Goodbye**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")8张单曲。
 
 ## 简介

@@ -1,4 +1,4 @@
-> 本文内容由[Cassette Vision](https://zh.wikipedia.org/wiki/Cassette Vision)转换而来。
+> 本文内容由[Cassette Vision](https://zh.wikipedia.org/wiki/Cassette_Vision)转换而来。
 
 
 是一款[Epoch於](https://zh.wikipedia.org/wiki/Epoch "wikilink")1981年7月30日在[日本](../Page/日本.md "wikilink")發售的[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。售價為13,500[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")\[1\]。

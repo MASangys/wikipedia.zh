@@ -1,3 +1,6 @@
+> 本文内容由[XULRunner](https://zh.wikipedia.org/wiki/XULRunner)转换而来。
+
+
 **XULRunner**是[Mozilla](../Page/Mozilla.md "wikilink")平台的一个封装版本，目的是实现独立的桌面应用程序开发。它们已在可执行文件中自带，所以运行这些程序不需要一个浏览器。该应用程序采用Mozilla开发的[XUL](../Page/XUL.md "wikilink")编写。它取代了Gecko运行时环境（*Gecko Runtime Environment*），一个有着类似目的但已停滞的项目。\[1\]XULRunner首个稳定的开发者预览版本于2006年2月发布，基于Mozilla 1.8代码。
 
 XULRunner是一种“技术实验”而不是实际的产品\[2\]，因此没有“官方”的XULRunner版本，只有以相应Firefox版本的代码为基础的稳定版本。

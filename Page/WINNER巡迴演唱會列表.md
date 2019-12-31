@@ -1,3 +1,6 @@
+> 本文内容由[WINNER巡迴演唱會列表](https://zh.wikipedia.org/wiki/WINNER巡迴演唱會列表)转换而来。
+
+
 《**WINNER巡迴演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")出道至今所舉行的團體演唱會、見面會及大型公演。
 
 ## 演唱會

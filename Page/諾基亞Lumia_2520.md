@@ -1,4 +1,4 @@
-> 本文内容由[諾基亞Lumia 2520](https://zh.wikipedia.org/wiki/諾基亞Lumia 2520)转换而来。
+> 本文内容由[諾基亞Lumia 2520](https://zh.wikipedia.org/wiki/諾基亞Lumia_2520)转换而来。
 
 
 **諾基亞Lumia 2520**，是[诺基亚](../Page/诺基亚.md "wikilink")在2013年10月23日（[北京时间](../Page/北京时间.md "wikilink")）于[阿布扎比](../Page/阿布扎比.md "wikilink")举行的Nokia World 2013发布会上，所发布的唯一一款基于Windows RT 8.1系统的Lumia 2520[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，其搭载了包含LTE基带的MSM8974 SoC，使用了一块分辨率为1920\*1080的10.1寸屏幕。

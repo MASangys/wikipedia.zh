@@ -1,4 +1,4 @@
-> 本文内容由[歡迎來到Pia Carrot!!2](https://zh.wikipedia.org/wiki/歡迎來到Pia Carrot!!2)转换而来。
+> 本文内容由[歡迎來到Pia Carrot!!2](https://zh.wikipedia.org/wiki/歡迎來到Pia_Carrot!!2)转换而来。
 
 
 是[Cocktail Soft](../Page/Cocktail_Soft.md "wikilink")（[F\&C](../Page/F&C.md "wikilink")）在1997年10月31日發售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，[歡迎來到Pia Carrot\!\!系列第](../Page/歡迎來到Pia_Carrot!!系列.md "wikilink")2作、「1」的4年後的故事。第二期OVA動畫(1999年)『Pia♥キャロットへようこそ\!\!2 DX』，臺灣[群英社](../Page/群英社.md "wikilink")譯為《快餐店之戀2》，臺灣[中視於](https://zh.wikipedia.org/wiki/中視 "wikilink")2012年8月6日至8日以《女僕咖啡廳》為名稱於深夜播出\[1\]。

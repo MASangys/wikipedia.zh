@@ -1,3 +1,6 @@
+> 本文内容由[Sleep Talking](https://zh.wikipedia.org/wiki/Sleep_Talking)转换而来。
+
+
 **《Sleep Talking》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")第三張韓語迷你專輯，於2013年8月22日發行，主打歌曲為〈Sleep Talking〉（）。
 
 ## 背景

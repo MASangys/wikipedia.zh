@@ -1,4 +1,4 @@
-> 本文内容由[Chicken Race \(日劇\)](https://zh.wikipedia.org/wiki/Chicken Race \(日劇\))转换而来。
+> 本文内容由[Chicken Race \(日劇\)](https://zh.wikipedia.org/wiki/Chicken_Race_\(日劇\))转换而来。
 
 
 **Chicken Race**（日語：チキンレース）於2013年11月10日以單元劇形式，在日本收費民營電視臺[WOWOW](../Page/WOWOW.md "wikilink")播出。由[岡田惠和](../Page/岡田惠和.md "wikilink")編劇、[若松節朗執導](https://zh.wikipedia.org/wiki/若松節朗 "wikilink")，[寺尾聰](../Page/寺尾聰.md "wikilink")與[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")，並為[WOWOW](../Page/WOWOW.md "wikilink")首次以[4K解析度](../Page/4K解析度.md "wikilink")拍攝之戲劇。\[1\]\[2\]

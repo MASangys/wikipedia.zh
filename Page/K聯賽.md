@@ -1,3 +1,6 @@
+> 本文内容由[K聯賽](https://zh.wikipedia.org/wiki/K聯賽)转换而来。
+
+
 **K聯賽**（，）作为[韩国的职业足球联赛](https://zh.wikipedia.org/wiki/韩国 "wikilink")，分为两个等级，第一级为[韩国职业足球经典联赛](https://zh.wikipedia.org/wiki/经典K联赛 "wikilink")，第二级为[韩国职业足球挑战联赛](https://zh.wikipedia.org/wiki/挑戰K聯賽 "wikilink")。\[1\]\[2\] 由于第一级和第二级联赛名称与之过于接近，经常引发一些认知上的误解和争议。\[3\]2018年，「經典K聯賽」改名為「[K聯賽1](../Page/K聯賽1.md "wikilink")」（K League 1），「挑戰K聯賽」改名為「[K聯賽2](../Page/K聯賽2.md "wikilink")」（K League 2）。 聯賽有使用[VAR技術](https://zh.wikipedia.org/wiki/VAR "wikilink")。
 
 ## 历史

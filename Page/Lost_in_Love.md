@@ -1,3 +1,6 @@
+> 本文内容由[Lost in Love](https://zh.wikipedia.org/wiki/Lost_in_Love)转换而来。
+
+
 《**Lost in Love**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[何雁詩的第](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")2張個人音樂專輯，於2017年1月24日發行\[1\]。
 
 ## 簡介

@@ -1,4 +1,4 @@
-> 本文内容由[Exact Audio Copy](https://zh.wikipedia.org/wiki/Exact Audio Copy)转换而来。
+> 本文内容由[Exact Audio Copy](https://zh.wikipedia.org/wiki/Exact_Audio_Copy)转换而来。
 
 
 **Exact Audio Copy**（**EAC**）是一个运行在[Microsoft Windows系统上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[CD抓轨](https://zh.wikipedia.org/wiki/抓轨 "wikilink")[程序](../Page/计算机程序.md "wikilink")。经测试，证明其也能够在[Linux](../Page/Linux.md "wikilink")系统上新版本的[Wine](../Page/Wine.md "wikilink")中运行。\[1\]该程序最初由Andre Wiethoff在1998年编写，那时他还是[德国多特蒙德工业大学的学生](../Page/多特蒙德工业大学.md "wikilink")，他表示“受够了其它音频采集器”\[2\]从而着手开发一个自己的程序。

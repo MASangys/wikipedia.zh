@@ -1,3 +1,6 @@
+> 本文内容由[DirectAccess](https://zh.wikipedia.org/wiki/DirectAccess)转换而来。
+
+
 **DirectAccess**，也称**统一远程访问**（Unified Remote Access），是一种类VPN技术，它可以为已连接互联网的客户端计算机提供[内部网连通性](https://zh.wikipedia.org/wiki/内部网 "wikilink")。不同于许多传统的必须由用户明确启动与终止的[虛擬私人網路](../Page/虛擬私人網路.md "wikilink")（VPN）连接，DirectAccess连接被设计成在计算机连接到互联网后就尽快自动连接。DirectAccess在[Windows Server 2008 R2中引入](../Page/Windows_Server_2008_R2.md "wikilink")，为[Windows 7和](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows 8企业版客户端提供此服务](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。2010年，（UAG）发布，这简化了DirectAccess在Windows 2008 R2上的部署\[1\]，包含额外组件使其更容易集成而无需在网络上部署[IPv6](../Page/IPv6.md "wikilink")，并有专用的用户界面用于配置和监控。虽然DirectAccess基于微软技术，但也有第三方解决方案使用DirectAccess来访问内部的[UNIX](../Page/UNIX.md "wikilink")和[Linux](../Page/Linux.md "wikilink")服务器。在[Windows Server 2012中](../Page/Windows_Server_2012.md "wikilink")，DirectAccess被完全集成到操作系统，提供有用户界面用于配置，并有原生的IPv6和IPv4支持。\[2\]
 
 ## 技术

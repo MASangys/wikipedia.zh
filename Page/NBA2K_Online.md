@@ -1,3 +1,6 @@
+> 本文内容由[NBA2K Online](https://zh.wikipedia.org/wiki/NBA2K_Online)转换而来。
+
+
 《**NBA2K Online**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")，也是《[NBA 2K](https://zh.wikipedia.org/wiki/NBA_2K "wikilink")》系列第一款線上遊戲，由[2K Sports](../Page/2K_Sports.md "wikilink")、[Visual Concepts和](../Page/Visual_Concepts.md "wikilink")[騰訊遊戲](../Page/騰訊遊戲.md "wikilink")聯合開發代理。台灣則由[遊戲新幹線](../Page/遊戲新幹線.md "wikilink")旗下[競網國際代理](https://zh.wikipedia.org/wiki/競網國際 "wikilink")，並且邀請到[勒布朗·詹姆士成為代言人](https://zh.wikipedia.org/wiki/勒布朗·詹姆士 "wikilink")，為台灣第一款[NBA](../Page/NBA.md "wikilink")籃球線上遊戲。台灣地區已於2018年3月30日結束營運。\[1\]
 
 而遊戲也於2018年推出續作《[NBA2K Online 2](../Page/NBA2K_Online_2.md "wikilink")》。

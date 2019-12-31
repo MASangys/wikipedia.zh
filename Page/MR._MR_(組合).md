@@ -1,4 +1,4 @@
-> 本文内容由[MR. MR \(組合\)](https://zh.wikipedia.org/wiki/MR. MR \(組合\))转换而来。
+> 本文内容由[MR. MR \(組合\)](https://zh.wikipedia.org/wiki/MR._MR_\(組合\))转换而来。
 
 
 **MR. MR**（），為[韓國E](https://zh.wikipedia.org/wiki/韓國 "wikilink")-HO娛樂的6人男子組合，出道時為5人組合，於2012年10月4日，發行數碼單曲《Who's That Girl》，主打曲為單曲同名歌曲《Who\`s That Girl》。\[1\]

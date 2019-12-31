@@ -1,3 +1,6 @@
+> 本文内容由[New Beginning](https://zh.wikipedia.org/wiki/New_Beginning)转换而来。
+
+
 『**New Beginning**』是[BAND-MAID](../Page/BAND-MAID.md "wikilink")®出道前第2張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2015年11月18日發售。
 
 ## 概要

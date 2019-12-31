@@ -1,3 +1,6 @@
+> 本文内容由[MTV影視大獎最佳電影](https://zh.wikipedia.org/wiki/MTV影視大獎最佳電影)转换而来。
+
+
 **MTV影視大獎最佳電影**（MTV Movie & TV Awards for Best Movie）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳電影，於1992年開始頒發。
 
 ## 歷屆得主

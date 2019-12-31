@@ -1,3 +1,6 @@
+> 本文内容由[华为Nova](https://zh.wikipedia.org/wiki/华为Nova)转换而来。
+
+
 **华为Nova**是[华为公司于](https://zh.wikipedia.org/wiki/华为公司 "wikilink")2016/17年出品的[智能手机](../Page/智能手机.md "wikilink")，包括华为Nova、华为Nova Plus和华为Nova青春版三个版本。其中Nova、Nova Plus于2016年9月1日在[柏林国际广播展](https://zh.wikipedia.org/wiki/柏林国际广播展 "wikilink")（IFA）发布\[1\]\[2\]，而Nova青春版则于2017年3月24日发布\[3\]。华为Nova手机定位为轻旗舰，以年轻乐活族为销售对象，突出设计、拍摄和性能方面的特色，其名称“Nova”取自“innovation”（创新）和“bossanova”（激情）\[4\]\[5\]。而Nova在拉丁语中也是“新”的意思，在天文系中，“Nova”是[新星](../Page/新星.md "wikilink")的意思，意即成为年轻消费需求中“最闪亮的星”\[6\]\[7\]。
 
 另外，华为也在海外市场推出华为Nova Lite，但实际上Nova Lite是[荣耀8青春版在日本](https://zh.wikipedia.org/wiki/华为荣耀8 "wikilink")、台湾使用的名称，与Nova青春版没有任何关系。Nova Lite在欧洲则被命名为华为P8 Lite（2017）和荣耀8 Lite\[8\]\[9\]。
@@ -12,7 +15,7 @@
 
 ### 硬件
 
-华为Nova、Nova Plus外壳采用的是一体化金属设计以及三面弧度工艺，其中侧边框圆弧可令用户在握持时更加舒适。而机身设计以简约为特点，机身背面采用喷砂工艺和撞色天窗设计\[13\]\[14\]。整体设计灵感源于现代经典建筑曲线\[15\]。而Nova青春版则与Nova、Nova Plus不同，采用了金属中框加双面玻璃的设计，正反两面都加入了2.5D弧面玻璃，中框和玻璃接缝处的倒角部分做了抛光处理。Nova青春版樱语粉、魅海蓝色的背面还采用了流光水波纹技术，该技术是根据受到了水面[涟漪在光线的照射下能够折射出不同颜色的现象而设计的](https://zh.wikipedia.org/wiki/涟漪 "wikilink")，在背面玻璃底部附有一层0.1mm厚度的膜片，采用了17层光学处理工艺，遇到光线之后能够反射出类似于波纹的效果\[16\]。
+华为Nova、Nova Plus外壳采用的是一体化金属设计以及三面弧度工艺，其中侧边框圆弧可令用户在握持时更加舒适。而机身设计以简约为特点，机身背面采用喷砂工艺和撞色天窗设计\[13\]\[14\]。整体设计灵感源于现代经典建筑曲线\[15\]。而Nova青春版则与Nova、Nova Plus不同，采用了金属中框加双面玻璃的设计，正反两面都加入了2.5D弧面玻璃，中框和玻璃接缝处的倒角部分做了抛光处理。Nova青春版樱语粉、魅海蓝色的背面还采用了流光水波纹技术，该技术是根据受到了水面[涟漪在光线的照射下能够折射出不同颜色的现象而设计的](../Page/表面張力波.md "wikilink")，在背面玻璃底部附有一层0.1mm厚度的膜片，采用了17层光学处理工艺，遇到光线之后能够反射出类似于波纹的效果\[16\]。
 
 屏幕方面，Nova、Nova Plus采用2.5D玻璃和1080p IPS技术的显示屏，其中Nova显示屏为5英寸，而Nova Plus则为5.5英寸\[17\]。而Nova青春版则采用5.2英寸1080p分辨率的FHD屏幕\[18\]。三款机型均配备了[指纹识别](../Page/指纹识别.md "wikilink")模块\[19\]\[20\]，官方声称指纹识别模块识别速度为全球最快，0.3秒内即可实现指纹解锁\[21\]。
 
@@ -53,39 +56,26 @@
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:華為手機](https://zh.wikipedia.org/wiki/Category:華為手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
 13.
 14.
 15.
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
 23.
 24.
@@ -104,39 +94,26 @@
 37.
 38.
 39.
-
 40.
 41.
 42. \[[http://news.163.com/17/0425/16/CISMD04800018AOP.html\]五一出游扮靓秘笈HUAWEI](http://news.163.com/17/0425/16/CISMD04800018AOP.html%5D五一出游扮靓秘笈HUAWEI) nova 青春版打造闪亮潮人范[网易](../Page/网易.md "wikilink").2017.04.25
-
 43. \[[http://www.cctime.com/html/2017-4-24/1282295.htm\]流光水波纹带火HUAWEI](http://www.cctime.com/html/2017-4-24/1282295.htm%5D流光水波纹带火HUAWEI) nova 青春版[飞象网](https://zh.wikipedia.org/wiki/飞象网 "wikilink").2017.04.24
-
 44. \[[http://mobile.163.com/17/0419/13/CICV3PJK0011802A.html\]学霸关晓彤拯救跑男团](http://mobile.163.com/17/0419/13/CICV3PJK0011802A.html%5D学霸关晓彤拯救跑男团) 有颜有才为HUAWEI nova 青春版代言[网易](../Page/网易.md "wikilink").2017.04.19
-
 45.
 46.
-
 47.
 48.
-
 49.
-
 50.
-
 51.
-
 52.
 53.
 54.
 55.
 56.
-
 57.
 58.
-
 59.
 60.
-
 61.
-
 62.

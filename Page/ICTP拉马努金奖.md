@@ -1,3 +1,6 @@
+> 本文内容由[ICTP拉马努金奖](https://zh.wikipedia.org/wiki/ICTP拉马努金奖)转换而来。
+
+
 **ICTP面向发展中国家中年轻数学家的拉马努金奖**（英語：**ICTP Ramanujan Prize for Young Mathematicians from Developing Countries**），是一个以[印度](../Page/印度.md "wikilink")数学家[斯里尼瓦瑟·拉马努金](../Page/斯里尼瓦瑟·拉马努金.md "wikilink")命名的数学奖项，每年由[国际理论物理中心](../Page/国际理论物理中心.md "wikilink")颁发。 该奖项成立于2004年，\[1\] 并由2005年开始颁发。
 
 该奖项办法给来自[发展中国家](../Page/发展中国家.md "wikilink")并在发展中国家中做出杰出贡献且年龄低于45岁的数学家。\[2\] 该奖项得到了印度科技部和[挪威科学与文学院](../Page/挪威科学与文学院.md "wikilink")通过[阿贝尔基金会的支持](../Page/阿贝尔奖.md "wikilink")，并同[国际数学联盟](../Page/国际数学联盟.md "wikilink")有合作关系。

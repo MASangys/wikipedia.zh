@@ -1,4 +1,4 @@
-> 本文内容由[Are you OK](https://zh.wikipedia.org/wiki/Are you OK)转换而来。
+> 本文内容由[Are you OK](https://zh.wikipedia.org/wiki/Are_you_OK)转换而来。
 
 
 **Are You OK**，源自中國企業家[雷军](../Page/雷军.md "wikilink")在[印度](../Page/印度.md "wikilink")的营销演讲，之后因其衍生出的[二次创作作品而备受公众注目](https://zh.wikipedia.org/wiki/二次创作 "wikilink")，并演化成一句流行语和文化现象。

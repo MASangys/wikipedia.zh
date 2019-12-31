@@ -1,3 +1,6 @@
+> 本文内容由[C预处理器](https://zh.wikipedia.org/wiki/C预处理器)转换而来。
+
+
 **C预处理器**是C语言、C++语言的[预处理器](../Page/预处理器.md "wikilink")。用于在编译器处理程序之前预扫描源代码，完成[头文件](../Page/头文件.md "wikilink")的包含, [巨集](../Page/巨集.md "wikilink")扩展, , 行控制（line control）等操作。
 
 ## 编译阶段

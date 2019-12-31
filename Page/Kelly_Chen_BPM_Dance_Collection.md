@@ -1,4 +1,4 @@
-> 本文内容由[Kelly Chen BPM Dance Collection](https://zh.wikipedia.org/wiki/Kelly Chen BPM Dance Collection)转换而来。
+> 本文内容由[Kelly Chen BPM Dance Collection](https://zh.wikipedia.org/wiki/Kelly_Chen_BPM_Dance_Collection)转换而来。
 
 
 2001年4月30日 (附送迷你唱片封面磁石){{·w}}2001年4月20日 | Recorded = 2001年 | Genre = 粵語 國語 [電子音樂](../Page/電子音樂.md "wikilink") [電子舞曲](../Page/電子舞曲.md "wikilink") [浩室音樂](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink") [鐵克諾音樂](https://zh.wikipedia.org/wiki/鐵克諾音樂 "wikilink") [出神音樂](https://zh.wikipedia.org/wiki/出神音樂 "wikilink") [的士高](https://zh.wikipedia.org/wiki/的士高 "wikilink") [鼓打貝斯](../Page/鼓打貝斯.md "wikilink") [嘻哈音樂](../Page/嘻哈音樂.md "wikilink") | Length = | Label = [正東唱片](../Page/正東唱片.md "wikilink")

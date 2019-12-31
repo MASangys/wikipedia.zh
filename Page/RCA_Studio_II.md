@@ -1,4 +1,4 @@
-> 本文内容由[RCA Studio II](https://zh.wikipedia.org/wiki/RCA Studio II)转换而来。
+> 本文内容由[RCA Studio II](https://zh.wikipedia.org/wiki/RCA_Studio_II)转换而来。
 
 
 **RCA Studio II**是一款由[RCA](../Page/RCA.md "wikilink")于1977年1月推出的[家用游戏机](../Page/家用游戏机.md "wikilink")。Studio II游戏的图像是黑白色\[1\]并且与早期的[Pong和它們的克隆机类似](https://zh.wikipedia.org/wiki/Pong "wikilink")。Studio II同样也没有游戏手柄或其他游戏控制器。游戏机内嵌两个具有十个按键的键盘。游戏平台能够发出一些简单的声响。

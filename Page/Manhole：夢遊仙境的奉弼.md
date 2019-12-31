@@ -1,3 +1,6 @@
+> 本文内容由[Manhole：夢遊仙境的奉弼](https://zh.wikipedia.org/wiki/Manhole：夢遊仙境的奉弼)转换而来。
+
+
 《**Manhole：奇幻國度的奉弼**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年8月9日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[奇怪的兒媳](../Page/奇怪的兒媳.md "wikilink")》朴萬英、《[推理的女王](../Page/推理的女王.md "wikilink")》劉英恩導演執導與《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》李在坤作家合作打造。此劇講述單戀了秀珍28年的奉弼為阻止她在一週後舉行的婚禮，於是隨機地穿越時空往返過去與現代的故事。台灣地區由愛奇藝台灣站8月10日起每周四、五上午10點播出。
 
 此劇自開播後收視陷入頹勢，第8集創下的1.4%（AGB尼爾森全國基準）是韓國史上最低的黃金時段劇集收視紀錄，打破2000年的《》創下的紀錄（1.8%）。\[1\]
@@ -52,7 +55,7 @@
 <td><p><br />
 <small></p></td>
 <td><p>楊九吉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蔡威賢" title="wikilink">蔡威賢</a></p></td>
+<td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 <td><p>撞球網咖店老闆，善良憨厚，單戀貞愛。</p></td>
 </tr>
 <tr class="even">

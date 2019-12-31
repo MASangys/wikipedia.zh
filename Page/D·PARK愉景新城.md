@@ -1,3 +1,6 @@
+> 本文内容由[D·PARK愉景新城](https://zh.wikipedia.org/wiki/D·PARK愉景新城)转换而来。
+
+
 **D·PARK愉景新城**是[香港](../Page/香港.md "wikilink")[荃灣區](../Page/荃灣區.md "wikilink")大型屋苑[愉景新城](../Page/愉景新城.md "wikilink")基座的購物商場。
 
 ## 特色
@@ -56,7 +59,9 @@
 
 翻新後以「全球首個多元智能兒童購物樂園」作為商場焦點。而新標誌「D．PARK愉景新城」設計以[七巧板](../Page/七巧板.md "wikilink")拼湊，代表色彩繽紛、樂趣、玩樂、家庭四大元素，再分別薈成英文字母的「d」和「p」字，以七個形狀不一的板塊引發無限想像力，並可幻化成過萬個有意義的形狀，寓意「D．PARK愉景新城」為一個繽紛玩樂親子優閒購物的據點。\[9\]
 
-<File:HK> Discovery Park New Kid's Street 201402.jpg|翻新後的「兒童街」（2014年） <File:Discovery> Park Level 1 Gold Street 201501.jpg|「兒童街」原址改為Gold Street，主打內地自由行（2015年） <File:D> Park Storytelling Zone 201806.jpg|2樓 Story-telling Zone（2018年）
+2018年12月，發展商將韓國家品雜貨店Modern House改為Donut Village。分為親子餐廳，商店和以攀爬繩網為主的遊戲室。
+
+<File:HK> Discovery Park New Kid's Street 201402.jpg|翻新後的「兒童街」（2014年） <File:Discovery> Park Level 1 Gold Street 201501.jpg|「兒童街」原址改為Gold Street，主打內地自由行（2015年） <File:D> Park Storytelling Zone 201806.jpg|2樓 Story-telling Zone（2018年） <File:Donut> Village in D·PARK 201910.jpg|1樓Donut Village
 
 ## 商場活動
 
@@ -147,7 +152,7 @@
 4.  [O.A.U.](http://hk.ulifestyle.com.hk/spot/detail.html?id=ABdGDVowBwNZHwNi)HK.Ulifestyle.com
 5.  [TEENIE WEENIE](http://hk.ulifestyle.com.hk/spot/detail.html?id=ABdGDVowBwNZHwNj)HK.Ulifestyle.com
 6.  香港經濟日報：愉景新城擬「升級」 大翻新 劉雪霞、胡幗詠 2012-06-18
-7.  [【17】新世界料愉景新城商場明年首季完成翻新 《加拿大星島日報》 2015-11-05](http://toronto.singtao.ca/462861/2015-11-05/post-%E3%80%9017%E3%80%91%E6%96%B0%E4%B8%96%E7%95%8C%E6%96%99%E6%84%89%E6%99%AF%E6%96%B0%E5%9F%8E%E5%95%86%E5%A0%B4%E6%98%8E%E5%B9%B4%E9%A6%96%E5%AD%A3%E5%AE%8C%E6%88%90%E7%BF%BB%E6%96%B0/?variant=zh-hk)
+7.
 8.  [﻿Executive日記——兒童智能樂園 愉景新城任玩 《頭條日報》 2016-04-18](http://hd.stheadline.com/news/columns/0/20160418/444720/)
 9.  [新世界7億打造新界西親子商場 《成報》 2015-11-06](http://www.property.hk/news_content.php?ln=tc&author=PHK_NEWSPROP&id=41325)
 10.

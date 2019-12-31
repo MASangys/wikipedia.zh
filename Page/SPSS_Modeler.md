@@ -1,3 +1,6 @@
+> 本文内容由[SPSS Modeler](https://zh.wikipedia.org/wiki/SPSS_Modeler)转换而来。
+
+
 **IBM SPSS Modeler** 是 [IBM](../Page/IBM.md "wikilink") 公司的一款[数据挖掘](../Page/数据挖掘.md "wikilink")与[预测分析软件](https://zh.wikipedia.org/wiki/预测分析 "wikilink")。用户可以通过可视化的界面来调用[决策树](../Page/决策树.md "wikilink")（ID3）和[神经网络](../Page/人工神经网络.md "wikilink")（[BP](../Page/反向传播算法.md "wikilink")）等统计和数据挖掘[算法](../Page/算法.md "wikilink")建立，而不必进行[编程](https://zh.wikipedia.org/wiki/编程 "wikilink")，也不必知道这些算法的内在原理，从而降低了[数据分析工作的难度](https://zh.wikipedia.org/wiki/数据分析 "wikilink")。
 
 ## 产品历史
@@ -25,16 +28,10 @@ Clementine 是世界上首款采用[图形用户界面](../Page/图形用户界�
 [Category:付費軟件](https://zh.wikipedia.org/wiki/Category:付費軟件 "wikilink") [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

@@ -1,3 +1,6 @@
+> 本文内容由[POTEMAYO](https://zh.wikipedia.org/wiki/POTEMAYO)转换而来。
+
+
 是日本漫畫家之搞笑漫畫作品。2004年7月9日開始於[雙葉社旗下雜誌](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")《[Comic High\!](https://zh.wikipedia.org/wiki/Comic_High! "wikilink")》上連載，直至2011年1月22日連載結束。2007年7月6日，由[J.C.STAFF製作的電視動畫於日本播出共](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")12話。
 
 ## 外部連結

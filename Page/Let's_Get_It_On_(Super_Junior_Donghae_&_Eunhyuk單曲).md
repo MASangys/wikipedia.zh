@@ -1,4 +1,4 @@
-> 本文内容由[Let\'s Get It On \(Super Junior Donghae \& Eunhyuk單曲\)](https://zh.wikipedia.org/wiki/Let\'s Get It On \(Super Junior Donghae \& Eunhyuk單曲\))转换而来。
+> 本文内容由[Let\'s Get It On \(Super Junior Donghae \& Eunhyuk單曲\)](https://zh.wikipedia.org/wiki/Let\'s_Get_It_On_\(Super_Junior_Donghae_\&_Eunhyuk單曲\))转换而来。
 
 
 《**Let's Get It On**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior Donghae & Eunhyuk第四張日語單曲](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")。2015年9月30日由[Avex trax發售](../Page/Avex_trax.md "wikilink")。\[1\]\[2\]

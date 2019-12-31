@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t Stop Can\'t Stop](https://zh.wikipedia.org/wiki/Don\'t_Stop_Can\'t_Stop)转换而来。
+
+
 "Don't Stop Can't Stop"是韓國男子組合2PM於2010年4月19日以數位及實體形式發行的單曲。\[1\]</ref> "Without U"被加入了這個單曲，並在多個音樂排行榜上排名第一。\[2\]\[3\]\[4\] 雖然"목숨을 건다 (I Will Give You My Life)"不是官方單曲，但製作了音樂錄影帶。\[5\]
 
 ## 曲目
@@ -15,9 +18,6 @@
 
 1.
 2.
-
 3.   KBS 2TV *\[//en.wikipedia.org/wiki/Music_Bank_(TV_series) Music Bank\]* – [K-chart list](http://www.kbs.co.kr/2tv/enter/musicbank/chart)
-
 4.   KBS 2TV *Music Bank* – [VOD list](http://www.kbs.co.kr/2tv/enter/musicbank/vod)
-
 5.  [2PM - I Will Give You My Life Music Video](https://www.youtube.com/watch?v=_F49TpQWfk8).

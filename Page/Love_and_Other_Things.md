@@ -1,3 +1,6 @@
+> 本文内容由[Love and Other Things](https://zh.wikipedia.org/wiki/Love_and_Other_Things)转换而来。
+
+
 《**Love And Other Things**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")的第10張音樂專輯，於2017年7月28日推出，也是她轉投[華納唱片後的首張專輯](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")。此專輯榮獲[2017年度叱咤樂壇至尊唱片大獎](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")。
 
 ## 曲目列表

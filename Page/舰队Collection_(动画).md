@@ -1,4 +1,4 @@
-> 本文内容由[舰队Collection \(动画\)](https://zh.wikipedia.org/wiki/舰队Collection \(动画\))转换而来。
+> 本文内容由[舰队Collection \(动画\)](https://zh.wikipedia.org/wiki/舰队Collection_\(动画\))转换而来。
 
 
 《**舰队Collection**》（），是由[日本](../Page/日本.md "wikilink")Diomedéa基于角川游戏的同名游戏所制作2015年[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，2013年9月公布，\[1\]共12集，该动画先在东京MX和KBS于2015年1月8日和2015年3月26日播放，后在其他电视台播放\[2\]\[3\]\[4\]后公布将有一部续集\[5\]，除此之外在2016年动画电影上映\[6\]。 2019年一月於武道館公開第二季PV

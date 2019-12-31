@@ -1,3 +1,6 @@
+> 本文内容由[Vitamix](https://zh.wikipedia.org/wiki/Vitamix)转换而来。
+
+
 **Vita-Mix公司**（，簡稱**Vitamix**）是美國一家專注於製造高性能攪拌機的企業，該企業自1921年以來由巴納德家族（）私人擁有和經營。該企業自1948年以來一直位於俄亥俄州的Olmsted Falls，其員工人數目前總計大於1,000名。
 
 ## 產品

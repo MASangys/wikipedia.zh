@@ -1,3 +1,6 @@
+> 本文内容由[Segue 1](https://zh.wikipedia.org/wiki/Segue_1)转换而来。
+
+
 {{ Infobox Galaxy | image = | caption = | name = Segue 1 | epoch = [J2000](https://zh.wikipedia.org/wiki/曆元#儒略年和J2000 "wikilink") | type = dSph or GC\[1\]\[2\] | ra = \[3\] | dec = \[4\] | dist_ly = 75 ± 6.5 [kly](../Page/光年.md "wikilink") (23 ± 2 [kpc](../Page/秒差距.md "wikilink"))\[5\] | z = | mass_light_ratio = 3400 (V)\[6\] | appmag_v = 13.8 ± 0.5\[7\] | size_v = 8.8′\[8\] | constellation name = [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink") | names = Segue 1 }}
 
 **Segue 1**是[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")在2006年於[獅子座發現的一個](https://zh.wikipedia.org/wiki/獅子座 "wikilink")[矮橢球星系或](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")[球狀星團](../Page/球狀星團.md "wikilink") \[9\]。它在距離太陽約23,000秒差距之處，以206Km/s的相對速度移動\[10\]\[11\]。Segue 1的外觀有值得注意的長度比（大約是2：1），形狀與[半光度半徑大約是](../Page/有效半徑.md "wikilink")30秒差距\[12\]\[13\]。如果Segue 1現在正受到潮汐力的擾亂，這種拉長的比率可能是銀河的潮汐力造成的\[14\]。

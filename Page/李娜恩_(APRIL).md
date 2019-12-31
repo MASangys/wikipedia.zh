@@ -1,4 +1,4 @@
-> 本文内容由[李娜恩 \(APRIL\)](https://zh.wikipedia.org/wiki/李娜恩 \(APRIL\))转换而来。
+> 本文内容由[李娜恩 \(APRIL\)](https://zh.wikipedia.org/wiki/李娜恩_\(APRIL\))转换而来。
 
 
 **李娜恩**（韓語：**이나은<sup>*Lee Na Eun*</sup>** ，1999年5月5日－），韓國女子組合[APRIL成員](../Page/APRIL_\(女子團體\).md "wikilink")，韓國女歌手、演員。

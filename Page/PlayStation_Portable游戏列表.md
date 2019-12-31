@@ -1,4 +1,4 @@
-> 本文内容由[PlayStation Portable游戏列表](https://zh.wikipedia.org/wiki/PlayStation Portable游戏列表)转换而来。
+> 本文内容由[PlayStation Portable游戏列表](https://zh.wikipedia.org/wiki/PlayStation_Portable游戏列表)转换而来。
 
 
 本电子游戏列表列举了[索尼](../Page/索尼.md "wikilink")[PlayStation Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。

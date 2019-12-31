@@ -1,3 +1,6 @@
+> 本文内容由[Sentimental Journey \(YUKI的单曲\)](https://zh.wikipedia.org/wiki/Sentimental_Journey_\(YUKI的单曲\))转换而来。
+
+
 \-{「}-****-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")5张单曲。
 
 ## 简介

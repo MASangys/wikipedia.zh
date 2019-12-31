@@ -1,3 +1,6 @@
+> 本文内容由[Panty Party](https://zh.wikipedia.org/wiki/Panty_Party)转换而来。
+
+
 《**Panty Party**》是由臺灣獨立遊戲製作團隊愛莉姆遊戲（AnimuGame）製作的動作遊戲，在2017年1月24日於Steam平台上架發行。遊戲有繁體中文、英文、日文等13種語言。在遊戲中，玩家將扮演能變身成[女式內褲](../Page/女式內褲.md "wikilink")的[魔法少女](../Page/魔法少女.md "wikilink")與她的敵人（也是內褲）互相戰鬥。於2019年初宣佈將於春季在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上發售\[1\]，其後確定eShop下載版於4月25日\[2\]；實體版於7月上市\[3\]。
 
 ## 遊戲機制

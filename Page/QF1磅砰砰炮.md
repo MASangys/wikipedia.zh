@@ -1,3 +1,6 @@
+> 本文内容由[QF1磅砰砰炮](https://zh.wikipedia.org/wiki/QF1磅砰砰炮)转换而来。
+
+
 [QF1pounderGunIWMApril2008.jpg](https://zh.wikipedia.org/wiki/File:QF1pounderGunIWMApril2008.jpg "fig:QF1pounderGunIWMApril2008.jpg")
 
 **QF1磅炮**是一款由英國研發生產的37毫米[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")。因其發射時會發出砰砰的聲音，QF1磅炮得到了「砰砰炮」的諢名。QF1磅砰砰炮是世界上第一款機炮，曾被多個國家當作步兵支援武器和輕型[防空炮使用](https://zh.wikipedia.org/wiki/防空炮 "wikilink")\[1\]\[2\]\[3\]。

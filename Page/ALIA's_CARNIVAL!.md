@@ -1,4 +1,4 @@
-> 本文内容由[ALIA\'s CARNIVAL!](https://zh.wikipedia.org/wiki/ALIA\'s CARNIVAL!)转换而来。
+> 本文内容由[ALIA\'s CARNIVAL!](https://zh.wikipedia.org/wiki/ALIA\'s_CARNIVAL!)转换而来。
 
 
 《**ALIA's CARNIVAL\!**》是日本[NanaWind](../Page/NanaWind.md "wikilink")在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年5月29日發售續作《**ALIA's CARNIVAL\! Flowering Sky**》。\[3\]\[4\]2015年10月29日由dramatic create發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《ALIA's CARNIVAL\! 聖禮》（）\[5\]\[6\]，2019年3月14日發售[PlayStation 4版](../Page/PlayStation_4.md "wikilink")《ALIA's CARNIVAL\! 聖禮補遺》（）。\[7\]2016年5月27日發售合集《ALIA's CARNIVAL\! Wパッケージ》。\[8\]

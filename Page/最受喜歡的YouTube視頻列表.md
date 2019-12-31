@@ -1,3 +1,6 @@
+> 本文内容由[最受喜歡的YouTube視頻列表](https://zh.wikipedia.org/wiki/最受喜歡的YouTube視頻列表)转换而来。
+
+
 **最受喜歡的YouTube影片列表**列出了[YouTube](../Page/YouTube.md "wikilink")網站上喜歡數最多的30支影片，這些數據直接來自於YouTube。\[1\]YouTube在2010年3月開始使用「喜歡和討厭」功能，用來替網站上的影片評分，並取代先前的[五星評分制度](https://zh.wikipedia.org/wiki/五星評分 "wikilink")。\[2\]
 
 截至2019年12月，韓國男團[防彈少年團](../Page/防彈少年團.md "wikilink")是擁有最多最受喜歡的影片的歌手，總共有3支影片在前30的名單中，而[紅髮艾德](../Page/紅髮艾德.md "wikilink")、[BLACKPINK](../Page/BLACKPINK.md "wikilink")、[小賈斯汀及](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")[魔力紅](../Page/魔力紅.md "wikilink")各有2支影片進入前30。

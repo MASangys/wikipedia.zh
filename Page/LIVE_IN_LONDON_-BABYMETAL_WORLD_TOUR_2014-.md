@@ -1,4 +1,4 @@
-> 本文内容由[LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-](https://zh.wikipedia.org/wiki/LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-)转换而来。
+> 本文内容由[LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-](https://zh.wikipedia.org/wiki/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-)转换而来。
 
 
 《**LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ イン ロンドン -ベビーメタル ワールド ツアー ニゼロイチヨン-）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2015年發行的第四張現場影像作品\[1\]。

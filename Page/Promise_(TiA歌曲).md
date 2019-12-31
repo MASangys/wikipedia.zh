@@ -1,3 +1,6 @@
+> 本文内容由[Promise \(TiA歌曲\)](https://zh.wikipedia.org/wiki/Promise_\(TiA歌曲\))转换而来。
+
+
 《**Promise**》是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")的第4張單曲。2005年8月3日由[EPIC Records Japan發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
 
 ## 解說

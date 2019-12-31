@@ -1,3 +1,6 @@
+> 本文内容由[Love Me Again](https://zh.wikipedia.org/wiki/Love_Me_Again)转换而来。
+
+
 《**Love Me Again**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul](../Page/G.Soul.md "wikilink")的首張[單曲專輯](https://zh.wikipedia.org/wiki/單曲專輯 "wikilink")，於2015年6月29日發行。
 
 ## 概要

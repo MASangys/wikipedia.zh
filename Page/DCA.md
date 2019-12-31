@@ -1,3 +1,6 @@
+> 本文内容由[DCA](https://zh.wikipedia.org/wiki/DCA)转换而来。
+
+
 **DCA**可能指：
 
 ## 计算机

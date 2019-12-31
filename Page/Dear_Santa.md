@@ -1,4 +1,4 @@
-> 本文内容由[Dear Santa](https://zh.wikipedia.org/wiki/Dear Santa)转换而来。
+> 本文内容由[Dear Santa](https://zh.wikipedia.org/wiki/Dear_Santa)转换而来。
 
 
 **Dear Santa**是[韩國](https://zh.wikipedia.org/wiki/韩國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代子團體](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")的第一張聖誕特別迷你專輯，於2015年12月4日發行。

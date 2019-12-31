@@ -1,4 +1,4 @@
-> 本文内容由[大航海时代III 太阳海岸](https://zh.wikipedia.org/wiki/大航海时代III 太阳海岸)转换而来。
+> 本文内容由[大航海时代III 太阳海岸](https://zh.wikipedia.org/wiki/大航海时代III_太阳海岸)转换而来。
 
 
 是日本[光荣公司出品的](https://zh.wikipedia.org/wiki/光荣公司 "wikilink")[模拟类游戏](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")[大航海时代系列的第三部](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")，于1996年11月29日发行。

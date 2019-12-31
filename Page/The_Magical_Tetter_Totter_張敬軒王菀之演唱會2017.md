@@ -1,3 +1,6 @@
+> 本文内容由[The Magical Tetter Totter 張敬軒王菀之演唱會2017](https://zh.wikipedia.org/wiki/The_Magical_Tetter_Totter_張敬軒王菀之演唱會2017)转换而来。
+
+
 **The Magical Teeter Totter** 張敬軒王菀之演唱會2017，是[香港](../Page/香港.md "wikilink")歌手[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[王菀之於](https://zh.wikipedia.org/wiki/王菀之 "wikilink")2017年2月16日至19日在[紅磡體育館舉辦的](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")4場大型演唱會。
 
 主辦單位[英皇娛樂集團](https://zh.wikipedia.org/wiki/英皇娛樂集團 "wikilink")，主題贊助廠商為[AIA](https://zh.wikipedia.org/wiki/AIA "wikilink")。

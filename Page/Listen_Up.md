@@ -1,4 +1,4 @@
-> 本文内容由[Listen Up](https://zh.wikipedia.org/wiki/Listen Up)转换而来。
+> 本文内容由[Listen Up](https://zh.wikipedia.org/wiki/Listen_Up)转换而来。
 
 
 《**Listen Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[謝霆鋒](../Page/謝霆鋒.md "wikilink")的第16張[音樂專輯](../Page/音樂專輯.md "wikilink")，第四張國語專輯，於2004年5月14日推出。

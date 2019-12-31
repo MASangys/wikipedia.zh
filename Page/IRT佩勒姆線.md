@@ -1,3 +1,6 @@
+> 本文内容由[IRT佩勒姆線](https://zh.wikipedia.org/wiki/IRT佩勒姆線)转换而来。
+
+
 **IRT佩勒姆線**（），又稱南方林蔭路-佩勒姆灣公園線\[1\]，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")一條路線，有[6號線與](../Page/紐約地鐵6號線.md "wikilink")[\<6\>列車行走](../Page/紐約地鐵6號線.md "wikilink")\[2\]。此線在擴展時興建，1918年至1920年間啟用。此線既有高架也有地下路段，[惠特洛克大道則為最南端的高架車站](https://zh.wikipedia.org/wiki/惠特洛克大道車站_\(IRT佩勒姆線\) "wikilink")。此線由開始到[佩勒姆灣公園總站南面都設有三條軌道](https://zh.wikipedia.org/wiki/佩勒姆灣公園車站_\(IRT佩勒姆線\) "wikilink")。佩勒姆線同時連接威斯徹斯特車廠，也是6號線列車儲車地，位於[威斯徹斯特廣場-東特雷蒙特大道以北](https://zh.wikipedia.org/wiki/威斯徹斯特廣場-東特雷蒙特大道車站_\(IRT佩勒姆線\) "wikilink")。截至2013年每日有205,590人次乘搭。
 
 ## 服務形式

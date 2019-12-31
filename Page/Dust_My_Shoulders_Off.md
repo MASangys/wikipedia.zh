@@ -1,3 +1,6 @@
+> 本文内容由[Dust My Shoulders Off](https://zh.wikipedia.org/wiki/Dust_My_Shoulders_Off)转换而来。
+
+
 《**Dust My Shoulders Off**》是中国女歌手[张靓颖于](https://zh.wikipedia.org/wiki/张靓颖 "wikilink")2016年10月14日在全球范围内发行的第一支英文单曲，美国歌手[Timbaland参与了伴唱](https://zh.wikipedia.org/wiki/Timbaland "wikilink")，这是她第一张英文专辑中的首支单曲。歌曲由Timbaland 和 Jim Beanz制作。
 
 ## 音乐录影带

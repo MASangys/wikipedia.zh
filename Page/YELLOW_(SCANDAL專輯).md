@@ -1,4 +1,4 @@
-> 本文内容由[YELLOW \(SCANDAL專輯\)](https://zh.wikipedia.org/wiki/YELLOW \(SCANDAL專輯\))转换而来。
+> 本文内容由[YELLOW \(SCANDAL專輯\)](https://zh.wikipedia.org/wiki/YELLOW_\(SCANDAL專輯\))转换而来。
 
 
 《**YELLOW**》是日本女子摇滚乐队[SCANDAL的第七张录音室专辑](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")，于2016年3月2日发售。\[1\]

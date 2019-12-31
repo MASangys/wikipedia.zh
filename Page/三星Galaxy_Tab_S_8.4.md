@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Tab S 8.4](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S_8.4)转换而来。
+
+
 **三星Galaxy Tab S 8.4**是一個8.4英寸、[Android](../Page/Android.md "wikilink")為基礎的[平板電腦](../Page/平板電腦.md "wikilink")，生產和銷售都是[三星電子](../Page/三星電子.md "wikilink")。
 
 它屬於[Samsung Galaxy Tab和](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab "wikilink")[Samsung Galaxy S系列之間的高端產品](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S "wikilink")，其中還包括10.5寸機型，三星Galaxy Tab S 10.5。它於2014年6月12日發布，隨後於2014年7月2日發售。他有純Wi-F版本，和Wi-Fi、4G版本。這是三星的第二款8.4英寸平板電腦，此產品的競爭對手是[LG G Pad 8.3和](https://zh.wikipedia.org/wiki/LG_G_Pad "wikilink")[iPad Mini 2](https://zh.wikipedia.org/wiki/iPad_Mini "wikilink")。

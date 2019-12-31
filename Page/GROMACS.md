@@ -1,3 +1,6 @@
+> 本文内容由[GROMACS](https://zh.wikipedia.org/wiki/GROMACS)转换而来。
+
+
 **GROMACS**（全称：，**全称格罗宁根华讯模拟体系**）是一套[分子动力学](../Page/分子动力学.md "wikilink")模拟程序包，主要用来模拟研究蛋白质、脂质、核酸等生物分子的性质。它起初由荷兰[格罗宁根大学](../Page/格罗宁根大学.md "wikilink")生物化学系开发，目前由来自世界各地的大学和研究机构维护\[1\]\[2\]\[3\]。GROMACS是开源免费的软件，4.6版之前的版本使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")(GPL)发行，而4.6版之后使用[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")(LGPL)发行\[4\]。
 
 ## 历史

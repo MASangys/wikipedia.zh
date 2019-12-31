@@ -1,4 +1,7 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Dusk_view_201706.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Retail_Void_201706.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Gatetower_Mall_Level_7-8_Void_2017.jpg "fig:缩略图")百貨7樓閒座區\]\] [缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Level_12-13_Restaurants_Void_201706.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Level_15_Sky_Corridor_201706.jpg "fig:缩略图") **JR Gate Tower**（）是位於[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村區](https://zh.wikipedia.org/wiki/中村區 "wikilink")[名古屋站上蓋的第三座高樓](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")，同時為[名古屋站一部份](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")。該建築在JR名古屋站櫻通口北面，在2017年3月落成，同年4月17日正式開幕。
+> 本文内容由[JR Gate Tower](https://zh.wikipedia.org/wiki/JR_Gate_Tower)转换而来。
+
+
+[缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Dusk_view_201706.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Retail_Void_201706.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Gatetower_Mall_Level_7-8_Void_2017.jpg "fig:缩略图")百貨7樓閒座區\]\] [缩略图](https://zh.wikipedia.org/wiki/File:JR_Gate_Tower_Level_12-13_Restaurants_Void_201706.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Level_15_Sky_Corridor_201706.jpg "fig:缩略图") **JR Gate Tower**（）是位於[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村區](https://zh.wikipedia.org/wiki/中村區 "wikilink")[名古屋站](../Page/名古屋站.md "wikilink")上蓋的第三座高樓，同時為[名古屋站](../Page/名古屋站.md "wikilink")一部份。該建築在JR名古屋站櫻通口北面，在2017年3月落成，同年4月17日正式開幕。
 
 ## 歷史
 

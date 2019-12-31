@@ -1,3 +1,6 @@
+> 本文内容由[妃十三學園 Alternative Girls](https://zh.wikipedia.org/wiki/妃十三學園_Alternative_Girls)转换而来。
+
+
 是開發的[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，2016年7月20正式在[Android](../Page/Android.md "wikilink")與[iOS平台上市](https://zh.wikipedia.org/wiki/iOS "wikilink"),在2018年7月20升級成2。2017年1月18日正式在Android和iOS平台上發佈中文版。繁體中文版由台灣[真好玩娛樂科技](https://zh.wikipedia.org/wiki/真好玩娛樂科技 "wikilink")《9Splay行動遊戲》代理2018年5月16日終止營運，簡體中文版由中國[bilibili代理](https://zh.wikipedia.org/wiki/bilibili "wikilink")。日文簡稱「」。
 
 ## 概要

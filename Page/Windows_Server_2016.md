@@ -1,4 +1,4 @@
-> 本文内容由[Windows Server 2016](https://zh.wikipedia.org/wiki/Windows Server 2016)转换而来。
+> 本文内容由[Windows Server 2016](https://zh.wikipedia.org/wiki/Windows_Server_2016)转换而来。
 
 
 **Windows Server 2016**\[1\]（前称**Windows Server vNext**）是[微软](../Page/微软.md "wikilink")推出的第七个[Windows Server系列](../Page/Windows_Server.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，它是[Windows 10的服务器版本](../Page/Windows_10.md "wikilink")。它的第一个早期预览版本（技术预览版）连同System Center的第一个技术预览版于2014年10月1日推出\[2\]。正式版于2016年9月26日推出\[3\]，并于同年10月12日正式发售\[4\]。Server 2016没有和Windows 10同时发布，对此官方解释称这是为了在正式版发布前推出更多的技术预览版以便改善系统的稳定性。

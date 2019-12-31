@@ -1,4 +1,4 @@
-> 本文内容由[May Dream](https://zh.wikipedia.org/wiki/May Dream)转换而来。
+> 本文内容由[May Dream](https://zh.wikipedia.org/wiki/May_Dream)转换而来。
 
 
 《**May Dream**》，[日本](../Page/日本.md "wikilink")女[創作歌手](../Page/創作歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")12張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2016年5月18日由[PONY CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")\[1\]，此張專輯亦是aiko睽違兩年發行的創作專輯。

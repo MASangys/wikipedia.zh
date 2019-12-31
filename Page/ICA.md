@@ -1,3 +1,6 @@
+> 本文内容由[ICA](https://zh.wikipedia.org/wiki/ICA)转换而来。
+
+
 **ICA**可以指：
 
 ## 商業

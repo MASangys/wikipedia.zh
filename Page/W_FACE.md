@@ -1,3 +1,6 @@
+> 本文内容由[W FACE](https://zh.wikipedia.org/wiki/W_FACE)转换而来。
+
+
 《**W FACE ～inside～**》、《**W FACE ～outside～**》為[日本](../Page/日本.md "wikilink")女歌手[倖田來未](../Page/倖田來未.md "wikilink")於2017年3月8日發行的第13、14張[原創專輯](https://zh.wikipedia.org/wiki/原創專輯 "wikilink")。
 
 ## 簡介

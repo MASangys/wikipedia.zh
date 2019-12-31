@@ -1,3 +1,6 @@
+> 本文内容由[U-KISS solo\&unit ALBUM](https://zh.wikipedia.org/wiki/U-KISS_solo\&unit_ALBUM)转换而来。
+
+
 《**U-KISS solo\&unit ALBUM**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第六張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2017年3月15日以四個版本：CD＋Blu-ray盤、CD＋DVD盤、通常盤及mu-mo盤推出\[1\]，這也是成員[Kevin離隊前最後一張參與的作品](../Page/禹成賢.md "wikilink")\[2\]。
 
 ## 概觀

@@ -1,3 +1,6 @@
+> 本文内容由[Entrez](https://zh.wikipedia.org/wiki/Entrez)转换而来。
+
+
 [Entrez.svg](https://zh.wikipedia.org/wiki/File:Entrez.svg "fig:Entrez.svg") **Entrez**全局查詢跨數據庫搜索系統是一個引擎。它能讓使用者能一次搜尋[NCBI網站上的許多不同的](https://zh.wikipedia.org/wiki/NCBI "wikilink")[健康科學數據庫](https://zh.wikipedia.org/wiki/健康科學 "wikilink")\[1\]。該數據庫能快速搜尋蛋白質的[一級結構](https://zh.wikipedia.org/wiki/一級結構 "wikilink")、高級結構，以及相關的參考資料。Entrez系統同時還提供[基因](../Page/基因.md "wikilink")的序列信息以及染色體定位。另外，可以從Entrez系統上獲取一些教材。其名稱「Entrez」（源自法語，意思爲「進來吧！」）旨在表現該數據庫歡迎公眾搜尋NLM（國家醫學圖書館）的內容的熱情。
 
 ## 數據庫

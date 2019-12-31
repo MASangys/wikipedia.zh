@@ -1,3 +1,6 @@
+> 本文内容由[Style Follow](https://zh.wikipedia.org/wiki/Style_Follow)转换而来。
+
+
 《**Style Follow**》（，）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[SBS电视台制作并播出的](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[秀英與模特兒](../Page/秀英_\(少女時代\).md "wikilink")主持。節目以[美妝為主軸](../Page/化妆.md "wikilink")\[1\]\[2\]。
 
 ## 主持

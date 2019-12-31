@@ -1,3 +1,6 @@
+> 本文内容由[宇通ZK6128HGE](https://zh.wikipedia.org/wiki/宇通ZK6128HGE)转换而来。
+
+
 **宇通ZK6128HGE**（）是一款由[宇通客車](../Page/宇通客車.md "wikilink")生產的兩軸[低地台](../Page/低地台巴士.md "wikilink")[單層巴士](https://zh.wikipedia.org/wiki/單層巴士 "wikilink")。
 
 ## 相關條目

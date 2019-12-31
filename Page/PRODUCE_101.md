@@ -1,4 +1,4 @@
-> 本文内容由[PRODUCE 101](https://zh.wikipedia.org/wiki/PRODUCE 101)转换而来。
+> 本文内容由[PRODUCE 101](https://zh.wikipedia.org/wiki/PRODUCE_101)转换而来。
 
 
 《**PRODUCE 101**》（）是[Mnet在](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")2016年推出的韓國第一個「經紀公司大型企劃女團」新女團選拔／生存實境節目，以101名來自不同經紀公司的女練習生作為主角，在節目中同吃同住、完成各種任務，最後獲選的11名成員將會組成一個團體，以[YMC Entertainment旗下藝人的身份進行為期一年的活動](https://zh.wikipedia.org/wiki/YMC_Entertainment "wikilink")。節目最終回中公布團體名為 **[I.O.I](../Page/I.O.I.md "wikilink")**（）。

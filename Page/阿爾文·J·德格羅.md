@@ -1,3 +1,6 @@
+> 本文内容由[阿爾文·J·德格羅](https://zh.wikipedia.org/wiki/阿爾文·J·德格羅)转换而来。
+
+
 **阿爾文·J·德格羅**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[密歇根州參議院代表一部分](https://zh.wikipedia.org/wiki/密歇根州參議院 "wikilink")的議員\[1\]。
 
 ## 生平

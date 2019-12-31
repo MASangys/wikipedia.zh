@@ -1,3 +1,6 @@
+> 本文内容由[Venchi](https://zh.wikipedia.org/wiki/Venchi)转换而来。
+
+
 **Venchi**是[意大利](../Page/意大利.md "wikilink")[朱古力製造商](https://zh.wikipedia.org/wiki/朱古力 "wikilink")，於1878年在[都靈成立](https://zh.wikipedia.org/wiki/都靈 "wikilink")。
 
 2006年，Venchi開始涉足製作雪糕，由世界各地的商店銷售。

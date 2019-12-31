@@ -1,4 +1,4 @@
-> 本文内容由[模块:Mailing list member](https://zh.wikipedia.org/wiki/模块:Mailing list member)转换而来。
+> 本文内容由[模块:Mailing list member](https://zh.wikipedia.org/wiki/模块:Mailing_list_member)转换而来。
 
 
 local yesno = require('Module:Yesno')

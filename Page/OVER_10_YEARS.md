@@ -1,3 +1,6 @@
+> 本文内容由[OVER 10 YEARS](https://zh.wikipedia.org/wiki/OVER_10_YEARS)转换而来。
+
+
 《**OVER 10 YEARS**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的組團十周年紀念專輯，於2017年6月7日發行，並以《**Wind**》為此專輯的主打曲目\[1\]。
 
 ## 背景
@@ -100,18 +103,11 @@
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:FTIsland音樂專輯](https://zh.wikipedia.org/wiki/Category:FTIsland音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.

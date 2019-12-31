@@ -1,3 +1,6 @@
+> 本文内容由[ASOBISYSTEM](https://zh.wikipedia.org/wiki/ASOBISYSTEM)转换而来。
+
+
 **ASOBISYSTEM**（，）是一家总部位于[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")[涉谷区的市场营销](https://zh.wikipedia.org/wiki/涉谷区 "wikilink")、经纪与著作权管理公司。
 
 ## 公司简介

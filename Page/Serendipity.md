@@ -1,3 +1,6 @@
+> 本文内容由[Serendipity](https://zh.wikipedia.org/wiki/Serendipity)转换而来。
+
+
 《**Serendipity**》是日本歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的數碼單曲，於2015年5月20日發行，而與樂隊Sensation合作的版本則於2016年1月6日發行。
 
 ## 概要
@@ -19,10 +22,8 @@
 [Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2015年單曲](https://zh.wikipedia.org/wiki/Category:2015年單曲 "wikilink") [Category:2016年單曲](https://zh.wikipedia.org/wiki/Category:2016年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.

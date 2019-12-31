@@ -1,4 +1,4 @@
-> 本文内容由[CGP Grey](https://zh.wikipedia.org/wiki/CGP Grey)转换而来。
+> 本文内容由[CGP Grey](https://zh.wikipedia.org/wiki/CGP_Grey)转换而来。
 
 
 **C·G·P·格雷**（），本名**科林·格雷戈里·帕爾默·格雷**（）\[1\]\[2\]，是一名在[YouTube](../Page/YouTube.md "wikilink")上的影片製作者。他擁有[美國和](https://zh.wikipedia.org/wiki/美國公民 "wikilink")雙國籍\[3\]。他的頻道主要內容為說明短片，主題包括政治、地理、經濟和英國文化。頻道第一段流行的影片是解釋[英倫諸島的名稱](https://zh.wikipedia.org/wiki/英倫諸島 "wikilink")\[4\]。此後，格雷的短片便被受關注，[商業內幕](https://zh.wikipedia.org/wiki/商業內幕 "wikilink")、[哈芬登郵報](https://zh.wikipedia.org/wiki/哈芬登郵報 "wikilink")、[福布斯](../Page/福布斯.md "wikilink")和[華盛頓郵報等媒體皆有報導](https://zh.wikipedia.org/wiki/華盛頓郵報 "wikilink")\[5\]\[6\]\[7\]\[8\]。

@@ -1,3 +1,6 @@
+> 本文内容由[SIGAINT](https://zh.wikipedia.org/wiki/SIGAINT)转换而来。
+
+
 **SIGAINT**是一個運行在[暗網](../Page/暗网.md "wikilink")｢[Tor Hidden Service](../Page/Tor.md "wikilink")｣裡面的一家[電子郵件服務業者](../Page/电子邮件.md "wikilink")，以極嚴密的[匿名](../Page/匿名服务列表.md "wikilink")、[隱私和](../Page/网络隐私.md "wikilink")[安全性聞名](../Page/信息安全.md "wikilink")。SIGAINT 是暗網裡面歷史最悠久的、也是眾多資安專家推薦的電子郵件服務。\[1\]\[2\]\[3\]
 
 ## 使用方法

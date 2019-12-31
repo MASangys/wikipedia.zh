@@ -1,3 +1,6 @@
+> 本文内容由[JoWooD娱乐](https://zh.wikipedia.org/wiki/JoWooD娱乐)转换而来。
+
+
 是一家于1995年建立的[奥地利游戏公司](https://zh.wikipedia.org/wiki/奥地利 "wikilink")。
 
 公司由Dieter Bernauer、Johann Reitinger、Johann Schilcher和Andreas Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wikilink")。不久，公司搬迁至[利岑](https://zh.wikipedia.org/wiki/利岑县 "wikilink")。

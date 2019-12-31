@@ -1,4 +1,4 @@
-> 本文内容由[Pixel \(智能手机\)](https://zh.wikipedia.org/wiki/Pixel \(智能手机\))转换而来。
+> 本文内容由[Pixel \(智能手机\)](https://zh.wikipedia.org/wiki/Pixel_\(智能手机\))转换而来。
 
 
 **Google Pixel & Pixel XL**是[Google](../Page/Google.md "wikilink")在2016年10月4日推出的全新[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，接任之前的[Nexus 6P系列](../Page/Nexus_6P.md "wikilink")，也是[Pixel系列首次推出智能手機產品](../Page/Google_Pixel.md "wikilink")；於當地時間2016年10月4日的Google秋季發表會上正式公布。Pixel & Pixel XL分別為5吋、5.5吋兩個版本，由[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")，Google掌控硬件設計研發，搭載降頻版高通驍龍821處理器和[Android Nougat](../Page/Android_Nougat.md "wikilink") 7.1系統，\[1\]\[2\]支持IP53级别防水/防尘。\[3\]Pixel & Pixel XL也是首次在系统中直接搭载Google的智能助手应用[Google Assistant的机型](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")。\[4\]

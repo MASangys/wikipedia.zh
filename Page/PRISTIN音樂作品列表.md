@@ -1,3 +1,6 @@
+> 本文内容由[PRISTIN音樂作品列表](https://zh.wikipedia.org/wiki/PRISTIN音樂作品列表)转换而来。
+
+
 **PRISTIN音樂作品列表**主要列舉[韓國女子組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")（）歷年發行的各類音樂專輯、影視歌曲等音樂作品及創作作品。
 
 ## 音樂作品

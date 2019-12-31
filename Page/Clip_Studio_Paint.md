@@ -1,3 +1,6 @@
+> 本文内容由[Clip Studio Paint](https://zh.wikipedia.org/wiki/Clip_Studio_Paint)转换而来。
+
+
 **Clip Studio Paint**（CSP）是由日本[CELSYS公司所開發的繪圖軟體](https://zh.wikipedia.org/wiki/CELSYS公司 "wikilink")，號稱整合[ComicStudio](../Page/ComicStudio.md "wikilink")與[IllustStudio](https://zh.wikipedia.org/wiki/IllustStudio "wikilink")，可用於漫畫原稿、插畫、動畫繪製。
 
 ## 概述

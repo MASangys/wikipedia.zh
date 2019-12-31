@@ -1,3 +1,6 @@
+> 本文内容由[Cheetah](https://zh.wikipedia.org/wiki/Cheetah)转换而来。
+
+
 **Cheetah**（，），本名**金恩英**（），[韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")，2010年以组合成员的身份发表单曲《Stop (Money Can\`t Buy Me Love)》正式出道，现为[C9娱乐](../Page/C9娱乐.md "wikilink")旗下艺人。\[1\]2015年参加[真人秀竞赛节目](../Page/真人實境秀.md "wikilink")《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》并获得冠军后一举成名。
 
 ## 生涯
@@ -351,66 +354,36 @@ Cheetah于2015年8月2日推出了《Unpretty Rapstar》节目结束后的第一
 [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韩国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌女歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:2010年出道](https://zh.wikipedia.org/wiki/Category:2010年出道 "wikilink") [Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink") [Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink") [Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.

@@ -1,3 +1,6 @@
+> 本文内容由[D+SECT](https://zh.wikipedia.org/wiki/D+SECT)转换而来。
+
+
 《**D+SECT**》是日本[視覺系](../Page/視覺系.md "wikilink")[哥德金屬搖滾樂團](https://zh.wikipedia.org/wiki/哥德金屬 "wikilink")  的第五張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2010年12月15日發行\[1\]。此作收錄了來自首張專輯《[Dix infernal](../Page/Dix_infernal.md "wikilink")》的曲目《Ange》的重新編曲錄製版，並重命名為《 》。專輯於[Oricon](../Page/Oricon.md "wikilink")上持續一週排名113位\[2\]。
 
 ## 收錄曲

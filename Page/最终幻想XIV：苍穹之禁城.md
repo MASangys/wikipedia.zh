@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XIV：苍穹之禁城](https://zh.wikipedia.org/wiki/最终幻想XIV：苍穹之禁城)转换而来。
+
+
 是由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")开发的[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）《[最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")》的首部[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，发行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](../Page/MacOS.md "wikilink")、[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[PlayStation 4平台](../Page/PlayStation_4.md "wikilink")。该资料片于2015年6月23日在全球发行，于2015年11月19日于中国大陆发行。全球发行时，距离《重生之境》的发行已有将近2年，而距离夭折的初版《[最终幻想XIV](../Page/最终幻想XIV.md "wikilink")》的上线也已经有将近5年的时间。该资料片由[吉田直树](../Page/吉田直树.md "wikilink")担任制作人与总监，而于初版上线后就不再继续担任工作的[植松伸夫](../Page/植松伸夫.md "wikilink")也再度回归，协助[祖坚正庆](../Page/祖坚正庆.md "wikilink")共同负责该资料片的音乐。该资料片以两种方式发售：只包含《苍穹之禁城》的独立版、以及包含《重生之境》和《苍穹之禁城》的同捆版，以便玩家可以根据自己的需要选择，而于同一天发行的Mac OS X版资料片只有同捆版。
 
 《苍穹之禁城》的剧情主要围绕着发生在伊修加德的人民和盘踞在龙堡的龙族之间的，长达千年之久的龙诗战争开展。玩家在游戏本体的最后一个版本中经历了一系列动荡，并被指责为杀人犯。经历了这些的玩家逃到了伊修加德以寻求避难，却又被卷入了结束龙诗战争，恢复人类龙族之间和平的使命当中。玩家在冒险途中，逐步揭露了龙诗战争的真相，并发现了一场蓄意隐藏真相的阴谋。该资料片开放了全新的地区，并提升了等级上限，增加了3个新玩家职业和1个可选择的种族，还增加了飞行坐骑和飞空艇，玩家可以乘坐这些载具傲游天空。

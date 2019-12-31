@@ -1,3 +1,6 @@
+> 本文内容由[YOYO家族](https://zh.wikipedia.org/wiki/YOYO家族)转换而来。
+
+
 YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東森幼幼台](../Page/東森幼幼台.md "wikilink")所屬兒童音樂組合，於2000年成立，由於[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，在兒童間廣受歡迎\[1\]。
 
 ## 成員
@@ -274,7 +277,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>天秤座</p></td>
 <td><p>A型</p></td>
 <td><p>1－5</p></td>
-<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台</a>並加入<a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸經營親子酒店</a>，並成立兒童團體「蘋果家族」</p></td>
+<td><p>2006年加入<a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸經營親子酒店</a>，並成立兒童團體「蘋果家族」</p></td>
 <td><p><br />
 紅色</p></td>
 <td></td>
@@ -290,7 +293,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>雙子座</p></td>
 <td><p>B型</p></td>
 <td><p>2－7</p></td>
-<td><p>移籍至MOMO親子台並加入MOMO家族，已婚，育有一子一女，目前定居於<a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a>，在中國大陸發展</p></td>
+<td><p>2007年加入<a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子一女，目前定居於<a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a>，在中國大陸發展</p></td>
 <td><p><br />
 粉紅色</p></td>
 <td></td>
@@ -332,7 +335,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>處女座</p></td>
 <td><p>A型</p></td>
 <td><p>5－11</p></td>
-<td><p>目前主要活躍於主持界</p></td>
+<td><p>現為全方位藝人，目前主要活躍於主持界</p></td>
 <td><p><br />
 淡紫色</p></td>
 <td></td>
@@ -347,7 +350,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p>水瓶座</p></td>
 <td><p>O型</p></td>
 <td><p>6－7、9</p></td>
-<td><p>因服役未參與第八張專輯（<a href="https://zh.wikipedia.org/wiki/動物音樂課" title="wikilink">動物音樂課專輯</a>）</p></td>
+<td><p>因服役未參與第八張專輯「動物音樂課」</p></td>
 <td><p><br />
 綠色</p></td>
 </tr>
@@ -432,7 +435,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/11月20日.md" title="wikilink">11月20日</a></p></td>
 <td><p>天蠍座</p></td>
 <td><p>B型</p></td>
-<td><p>第二代，目前主要活躍於主持界</p></td>
+<td><p>第二代，以藝名「橘橘」繼續在藝能界活動。</p></td>
 <td><p><br />
 橙色</p></td>
 <td></td>
@@ -444,7 +447,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/6月9日.md" title="wikilink">6月9日</a></p></td>
 <td><p>雙子座</p></td>
 <td><p>A型</p></td>
-<td></td>
+<td><p>2019年以部落客身份復出</p></td>
 <td><p><br />
 紫紅色</p></td>
 <td></td>
@@ -461,7 +464,7 @@ YOYO家族為[東森電視](../Page/東森電視.md "wikilink")旗下頻道[東�
 <td><p><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p>獅子座</p></td>
 <td><p>B型</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞混血</a>，目前主要活躍於戲劇與廣告演出</p></td>
+<td><p>父親是<a href="https://zh.wikipedia.org/wiki/馬來西亞" title="wikilink">馬來西亞華裔</a>，目前主要活躍於戲劇與廣告演出</p></td>
 <td><p><br />
 藍色</p></td>
 <td></td>

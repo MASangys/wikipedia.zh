@@ -1,4 +1,4 @@
-> 本文内容由[C POSIX library](https://zh.wikipedia.org/wiki/C POSIX library)转换而来。
+> 本文内容由[C POSIX library](https://zh.wikipedia.org/wiki/C_POSIX_library)转换而来。
 
 
 **C POSIX library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki/POSIX "wikilink")。包含了一些在[C语言标准库之外的函数](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。

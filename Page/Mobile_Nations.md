@@ -1,4 +1,4 @@
-> 本文内容由[Mobile Nations](https://zh.wikipedia.org/wiki/Mobile Nations)转换而来。
+> 本文内容由[Mobile Nations](https://zh.wikipedia.org/wiki/Mobile_Nations)转换而来。
 
 
 **Mobile Nations**是一家[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[網路媒體公司](https://zh.wikipedia.org/wiki/網路媒體公司 "wikilink")，旗下網站有：**[Windows Central](../Page/Windows_Central.md "wikilink")**\[1\]、**Android Central**\[2\]、**iMore**\[3\]、**CrackBerry**\[4\]、**Connectedly**\[5\]。

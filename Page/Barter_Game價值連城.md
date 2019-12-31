@@ -1,4 +1,4 @@
-> 本文内容由[Barter Game價值連城](https://zh.wikipedia.org/wiki/Barter Game價值連城)转换而来。
+> 本文内容由[Barter Game價值連城](https://zh.wikipedia.org/wiki/Barter_Game價值連城)转换而来。
 
 
 《**Barter Game價值連城**》（**Barter Game**）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年7月4日至9月5日逢周一至二22:00-23:00在[ViuTV](../Page/ViuTV.md "wikilink")播出，節目旁白為[梁祖堯](../Page/梁祖堯.md "wikilink")。\[1\]

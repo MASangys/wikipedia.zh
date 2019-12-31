@@ -1,4 +1,4 @@
-> 本文内容由[AMD Radeon Rx 300](https://zh.wikipedia.org/wiki/AMD Radeon Rx 300)转换而来。
+> 本文内容由[AMD Radeon Rx 300](https://zh.wikipedia.org/wiki/AMD_Radeon_Rx_300)转换而来。
 
 
 **AMD Radeon Rx 300**系列顯示核心，研發代號「**Pirates Islands**」，是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")系列。根據超微的顯示核心發展路線「Pirates Islands」將接替「Volcanic Islands」（即[AMD Radeon Rx 200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](../Page/高頻寬記憶體.md "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。 Pirates Islands系列顯示核心於2015年6月16日美國E3展正式發布，並於當年6月18日展開第一波的銷售，第一波銷售的卡號皆為[AMD Radeon Rx 200系列型號的修訂版本](../Page/AMD_Radeon_Rx_200.md "wikilink")，而基於全新核心"Fiji"的R9 Fury系列則於當年6月24日後開始銷售。

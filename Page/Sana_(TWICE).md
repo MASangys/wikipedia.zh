@@ -1,4 +1,4 @@
-> 本文内容由[Sana \(TWICE\)](https://zh.wikipedia.org/wiki/Sana \(TWICE\))转换而来。
+> 本文内容由[Sana \(TWICE\)](https://zh.wikipedia.org/wiki/Sana_\(TWICE\))转换而来。
 
 
 **湊崎紗夏**（，），藝名**Sana**（ ，），[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE的日本成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。

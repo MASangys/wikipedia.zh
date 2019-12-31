@@ -1,3 +1,6 @@
+> 本文内容由[火將Rosiel](https://zh.wikipedia.org/wiki/火將Rosiel)转换而来。
+
+
 **火將Rosiel**（，），日本[埼玉縣](../Page/埼玉縣.md "wikilink")出生，生日6月19日\[1\]。是日本女性[角色扮演者](../Page/Cosplay.md "wikilink")、[模特兒](../Page/模特兒.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
 
 ## 簡歷

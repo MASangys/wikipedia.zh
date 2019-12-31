@@ -1,3 +1,6 @@
+> 本文内容由[BMT纳苏街线](https://zh.wikipedia.org/wiki/BMT纳苏街线)转换而来。
+
+
 **納蘇街線**（）是曼哈頓[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線。此線是布魯克林的[BMT牙買加線跨過](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[威廉斯堡大橋](../Page/威廉斯堡大橋.md "wikilink")的延續，繼續延長至[BMT百老匯線至](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")前，之後路線再進入布魯克林（[寬街以南自](https://zh.wikipedia.org/wiki/寬街車站_\(BMT納蘇街線\) "wikilink")2010年6月25日後沒有列車營運）
 
 路線任何時候都有[J線列車營運](../Page/紐約地鐵J線與Z線.md "wikilink")。[Z線提供繁忙時段額外服務](../Page/紐約地鐵J線與Z線.md "wikilink")，以尖峰方向營運。

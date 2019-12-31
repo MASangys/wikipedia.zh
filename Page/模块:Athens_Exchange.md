@@ -1,4 +1,4 @@
-> 本文内容由[模块:Athens Exchange](https://zh.wikipedia.org/wiki/模块:Athens Exchange)转换而来。
+> 本文内容由[模块:Athens Exchange](https://zh.wikipedia.org/wiki/模块:Athens_Exchange)转换而来。
 
 
 \-- To be used in template  for mapping web addresses

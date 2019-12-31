@@ -1,4 +1,4 @@
-> 本文内容由[Portal:星际迷航/Selected episode](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected episode)转换而来。
+> 本文内容由[Portal:星际迷航/Selected episode](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected_episode)转换而来。
 
 
 __TOC__

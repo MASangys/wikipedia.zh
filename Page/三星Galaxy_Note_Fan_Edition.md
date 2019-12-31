@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Note Fan Edition](https://zh.wikipedia.org/wiki/三星Galaxy_Note_Fan_Edition)转换而来。
+
+
 **三星Galaxy Note粉絲版**（；略稱：**三星Galaxy Note FE**），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")於2017年7月7日推出的[三星Galaxy](../Page/三星Galaxy.md "wikilink") [Note系列](../Page/三星Galaxy_Note系列.md "wikilink")[智能](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[平板](https://zh.wikipedia.org/wiki/平板手機 "wikilink")[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，首發僅在[韓國銷售](https://zh.wikipedia.org/wiki/韓國 "wikilink")，10月25日正式在[馬來西亞發售](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，11月在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[越南發售](https://zh.wikipedia.org/wiki/越南 "wikilink")。
 
 因自燃事件而回收的[三星Galaxy Note 7重製版手機](../Page/三星Galaxy_Note_7.md "wikilink")，利用未開封的三星Galaxy Note 7與未使用的元件所製造，為充份利用資源的環保專案，保留了三星Galaxy Note 7的設計與功能，但升級了軟體與電池，且背殼還印上了「Fan Edition」的字樣。

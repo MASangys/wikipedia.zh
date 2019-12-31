@@ -1,3 +1,6 @@
+> 本文内容由[四氯合钯\(II\)酸铵](https://zh.wikipedia.org/wiki/四氯合钯\(II\)酸铵)转换而来。
+
+
 **四氯合钯(II)酸铵**是一种[配合物](../Page/配合物.md "wikilink")，化学式为(NH<sub>4</sub>)<sub>2</sub>\[PdCl<sub>4</sub>\]。
 
 ## 制备和性质
@@ -13,5 +16,4 @@
 [Category:钯配合物](https://zh.wikipedia.org/wiki/Category:钯配合物 "wikilink")
 
 1.  W P Griffith, *et al*. Gmelin Handbook of Inorganic Chemistry (8th edition) - Pd Palladium Supplement Vol B2. Springer-Verlag Berlin Heidelberg GmbH 1989. pp 135-138. Ammonium Tetrachloropalladate. ISBN 978-3-662-09190-6; DOI 10.1007/978-3-662-09188-3
-
 2.

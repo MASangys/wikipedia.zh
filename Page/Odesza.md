@@ -1,3 +1,6 @@
+> 本文内容由[Odesza](https://zh.wikipedia.org/wiki/Odesza)转换而来。
+
+
 </ref> | past_members = }}
 
 **Odesza**（有时使用风格化写作“**ODESZA**”）是一个来自美国[华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图的电子乐团体](https://zh.wikipedia.org/wiki/西雅图 "wikilink")。乐队由哈里森·米尔斯（）和克莱顿·奈特（）在2012年组建。\[1\] 两人是的同学。

@@ -1,3 +1,6 @@
+> 本文内容由[DBSCAN](https://zh.wikipedia.org/wiki/DBSCAN)转换而来。
+
+
 **DBSCAN，**英文全寫為**Density-based spatial clustering of applications with noise** ，是在 1996 年由Martin Ester, [Hans-Peter Kriegel](https://zh.wikipedia.org/wiki/Hans-Peter_Kriegel "wikilink"), Jörg Sander 及 Xiaowei Xu 提出的[聚類分析](../Page/聚类分析.md "wikilink")[算法](../Page/算法.md "wikilink")， 這個算法是以密度為本的：給定某空間裡的一個點集合，這算法能把附近的點分成一組（有很多[相鄰點的點](https://zh.wikipedia.org/wiki/相鄰點 "wikilink")），並標記出位於低密度區域的局外點（最接近它的點也十分遠）。DBSCAN 是最常用的聚類分析算法之一，也是科學文章中最常引用的聚類分析算法之一。
 
 在 2014 年，這個算法在領頭[數據挖掘會議](../Page/数据挖掘.md "wikilink") KDD 上獲頒發了 Test of Time award，該獎項是頒發給一些於理論及實際層面均獲得持續性的關注的算法。

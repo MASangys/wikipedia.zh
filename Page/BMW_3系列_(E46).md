@@ -1,4 +1,4 @@
-> 本文内容由[BMW 3系列 \(E46\)](https://zh.wikipedia.org/wiki/BMW 3系列 \(E46\))转换而来。
+> 本文内容由[BMW 3系列 \(E46\)](https://zh.wikipedia.org/wiki/BMW_3系列_\(E46\))转换而来。
 
 
 **BMW E46**是德國[寶馬公司](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[BMW 3系列車型第四代](../Page/BMW_3系列.md "wikilink")，是[E36的換代產品](https://zh.wikipedia.org/wiki/BMW_E36 "wikilink")。

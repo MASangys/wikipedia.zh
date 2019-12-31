@@ -1,4 +1,4 @@
-> 本文内容由[鈴木MR Wagon](https://zh.wikipedia.org/wiki/鈴木MR Wagon)转换而来。
+> 本文内容由[鈴木MR Wagon](https://zh.wikipedia.org/wiki/鈴木MR_Wagon)转换而来。
 
 
 **鈴木MR Wagon**（）是2001年至2016年間由[日本](../Page/日本.md "wikilink")[鈴木公司開發生產的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，其兄弟車是。關於車名「MR Wagon」來自1999年[東京車展](../Page/東京車展.md "wikilink")所展出之[概念車](../Page/概念車.md "wikilink")採[中置後驅](../Page/中置後驅.md "wikilink")佈局（mid-engine, rear-wheel-drive layout），故[縮寫](../Page/縮寫.md "wikilink")成「MR」；此外還具有「Magical Relax」之涵義\[1\]。

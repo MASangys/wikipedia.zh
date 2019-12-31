@@ -1,3 +1,6 @@
+> 本文内容由[The War](https://zh.wikipedia.org/wiki/The_War)转换而来。
+
+
 《**THE WAR**》是[韩国偶像團體](https://zh.wikipedia.org/wiki/韩国 "wikilink")[EXO](../Page/EXO.md "wikilink")第四張正規專輯。距離第三張正規專輯《[EX'ACT](../Page/EX'ACT.md "wikilink")》有13個月之久，於2017年7月19日發行。 後續改版專輯《**THE WAR: THE POWER OF MUSIC**》則於2017年9月5日發行。
 
 ## 簡介

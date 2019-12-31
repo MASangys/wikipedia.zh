@@ -1,3 +1,6 @@
+> 本文内容由[公主LOVELIVE!](https://zh.wikipedia.org/wiki/公主LOVELIVE!)转换而来。
+
+
 是日本Princess Sugar於2015年9月18日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2016年由萌えAPP分別發售[Android](../Page/Android.md "wikilink")版和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]\[3\]2017年5月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《姫様LOVEライフ\!-もーっと\!イチャイチャ☆ぱらだいす\!-》。\[4\]
 
 ## 故事

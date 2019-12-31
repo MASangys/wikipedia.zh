@@ -1,4 +1,4 @@
-> 本文内容由[Syfy \(亞洲\)](https://zh.wikipedia.org/wiki/Syfy \(亞洲\))转换而来。
+> 本文内容由[Syfy \(亞洲\)](https://zh.wikipedia.org/wiki/Syfy_\(亞洲\))转换而来。
 
 
 **Syfy**（又稱**超自然科幻頻道**）為一專門播放[科幻](../Page/科學幻想.md "wikilink")、[奇幻與](../Page/奇幻作品.md "wikilink")[恐怖類型電影與電視劇的娛樂頻道](../Page/恐怖電影.md "wikilink")，由[NBC環球](../Page/NBC環球.md "wikilink")旗下所有的衛星及有線電視頻道。[NBC環球](../Page/NBC環球.md "wikilink")因應收視習慣的改變，決定收播亞洲區頻道。\[1\]

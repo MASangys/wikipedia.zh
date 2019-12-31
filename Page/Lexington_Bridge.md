@@ -1,3 +1,6 @@
+> 本文内容由[Lexington Bridge](https://zh.wikipedia.org/wiki/Lexington_Bridge)转换而来。
+
+
 **Lexington Bridge**是一個活躍在2006年至2009年的[男子團體](../Page/男子音乐组合.md "wikilink")。該團體由來自美國的[Rob Uncles](https://zh.wikipedia.org/wiki/Rob_Uncles "wikilink")、來自英國的[Nye Oakley](https://zh.wikipedia.org/wiki/Nye_Oakley "wikilink")、[Dax O'Callaghan](https://zh.wikipedia.org/wiki/Dax_O'Callaghan "wikilink")、[Jerome Simeon和來自荷蘭的](https://zh.wikipedia.org/wiki/Jerome_Simeon "wikilink")[Ephraim Beks組成](https://zh.wikipedia.org/wiki/Ephraim_Beks "wikilink")\[1\]\[2\]。2010年5月，該團體宣布解散。
 
 ## 音樂作品

@@ -1,3 +1,6 @@
+> 本文内容由[Bixby](https://zh.wikipedia.org/wiki/Bixby)转换而来。
+
+
 **Bixby**是由[三星電子](../Page/三星電子.md "wikilink")開發的[虛擬助理](../Page/虛擬助理.md "wikilink")軟件。使用者可以使用自然的對話與手機進行互動，完成搜尋資料、查詢天氣等許多服務，部分非旗艦機無法啟動語音助理。2018年8月9日，bixby2.0版正式在[Galaxy Note 9上推出](../Page/三星Galaxy_Note_9.md "wikilink")。
 
 ## 特徵
@@ -81,13 +84,9 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 #### Galaxy J
 
   - [三星Galaxy J6(2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")（只限Bixby主頁及提醒）
-
   - [三星Galaxy J4 (2018)](../Page/三星Galaxy_J4_\(2018\).md "wikilink")（只限Bixby主頁）
-
   - 三星Galaxy J6+（只限Bixby主頁）
-
   - [三星Galaxy J8(2018)](../Page/三星Galaxy_J8.md "wikilink")（只限Bixby主頁及提醒）
-
   -
 #### Galaxy C
 

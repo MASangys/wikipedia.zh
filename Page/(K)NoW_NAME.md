@@ -1,3 +1,6 @@
+> 本文内容由[\(K\)NoW NAME](https://zh.wikipedia.org/wiki/\(K\)NoW_NAME)转换而来。
+
+
 **(K)NoW_NAME**簡稱**(K)_N**，是[日本](../Page/日本.md "wikilink")的[音樂創作團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")，隸屬。
 
 電視動畫《[灰與幻想的格林姆迦爾](../Page/灰與幻想的格林姆迦爾.md "wikilink")》的所有歌曲及配樂皆由本團體創作\[1\]。於2017年4月播出的《[櫻花任務](https://zh.wikipedia.org/wiki/櫻花任務 "wikilink")》也由本團體提供音樂\[2\]。

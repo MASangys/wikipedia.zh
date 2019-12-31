@@ -1,3 +1,6 @@
+> 本文内容由[1090 〜Thousand Dreams〜](https://zh.wikipedia.org/wiki/1090_〜Thousand_Dreams〜)转换而来。
+
+
 「**\#1090 〜Thousand Dreams〜**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")於[1992年](../Page/1992年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")發行的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

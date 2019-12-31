@@ -1,3 +1,6 @@
+> 本文内容由[CONFUSED MEMORIES](https://zh.wikipedia.org/wiki/CONFUSED_MEMORIES)转换而来。
+
+
 《**CONFUSED MEMORIES**》是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")的第3張單曲。1997年5月28日由[EMI MUSIC JAPAN（舊名東芝EMI）發行](../Page/EMI音樂日本.md "wikilink")。
 
 ## 概要

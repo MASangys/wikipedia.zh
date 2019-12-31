@@ -1,3 +1,6 @@
+> 本文内容由[DAOKO](https://zh.wikipedia.org/wiki/DAOKO)转换而来。
+
+
 **DAOKO**（），日本女性饒舌歌手，於東京都出道。
 
 ## 人物簡介

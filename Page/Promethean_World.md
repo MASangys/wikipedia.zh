@@ -1,3 +1,6 @@
+> 本文内容由[Promethean World](https://zh.wikipedia.org/wiki/Promethean_World)转换而来。
+
+
 **Promethean World**，是一家互动教学技术提供商，供应一系列教学展示硬件产品以及互动教学软件产品。它的总部位于苏格兰[兰开夏郡](https://zh.wikipedia.org/wiki/兰开夏郡 "wikilink")[布莱克本](../Page/布莱克本.md "wikilink")和美国[亚特兰大](../Page/亚特兰大.md "wikilink")。它曾在[伦敦证券交易所](../Page/伦敦证券交易所.md "wikilink")上市，并曾是[富时小型公司指数成分股](https://zh.wikipedia.org/wiki/富时小型公司指数 "wikilink")，直至2015年9月被[网龙网络](../Page/网龙网络.md "wikilink")收购。
 
 ## 历史

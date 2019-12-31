@@ -1,4 +1,4 @@
-> 本文内容由[HSL 2](https://zh.wikipedia.org/wiki/HSL 2)转换而来。
+> 本文内容由[HSL 2](https://zh.wikipedia.org/wiki/HSL_2)转换而来。
 
 
 **HSL 2**（，，）是一條位於[魯汶及](https://zh.wikipedia.org/wiki/魯汶 "wikilink")[昂斯的比利時高速鐵路](https://zh.wikipedia.org/wiki/昂斯 "wikilink")，全長64公里，全數位於高速專線，自2002年12月15日開始營業。

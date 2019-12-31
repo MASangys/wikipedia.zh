@@ -1,3 +1,6 @@
+> 本文内容由[UBlock Origin](https://zh.wikipedia.org/wiki/UBlock_Origin)转换而来。
+
+
 **uBlock Origin**（发音*you-block*，）是一款[自由、开源](../Page/自由及开放源代码软件.md "wikilink")、[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[内容过滤](https://zh.wikipedia.org/wiki/内容过滤 "wikilink")[浏览器扩展](https://zh.wikipedia.org/wiki/浏览器扩展 "wikilink")，包含广告屏蔽功能。此扩展可在多款浏览器上使用，包括[Safari](../Page/Safari.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Edge](../Page/Microsoft_Edge.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")和[Opera及相关的兼容浏览器](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")。
 
 uBlock Origin已获得多家技术网站的赞誉，其内存占用比其他同样功能的扩展更少。\[1\]\[2\]\[3\]\[4\]uBlock Origin的目标是为用户提供自行实施内容过滤的选择。\[5\]\[6\]

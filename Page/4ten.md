@@ -1,3 +1,6 @@
+> 本文内容由[4ten](https://zh.wikipedia.org/wiki/4ten)转换而来。
+
+
 **4ten**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jungle娛樂](../Page/Jungle娛樂.md "wikilink")於2014年8月28日推出的女子流行音樂團體，現任成員為隊長[Hyeji](https://zh.wikipedia.org/wiki/Hyeji "wikilink")、[Hyejin](https://zh.wikipedia.org/wiki/Hyejin "wikilink")、[Heeo及](https://zh.wikipedia.org/wiki/Heeo "wikilink")[Yun](https://zh.wikipedia.org/wiki/Yun "wikilink")。
 
 ## 歷程

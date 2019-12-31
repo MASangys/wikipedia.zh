@@ -1,3 +1,6 @@
+> 本文内容由[RAINZ](https://zh.wikipedia.org/wiki/RAINZ)转换而来。
+
+
 **RAINZ**（），團名起源於"在下雨天見面"，含意為"**RA**pturously **IN**spiriting boy**Z**"，成員由《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》參賽者[金聲利](https://zh.wikipedia.org/wiki/金聲利 "wikilink")、朱元鐸、李基遠、張大賢、洪殷基、邊賢民、徐晟赫7位組成，是繼[JBJ](../Page/JBJ.md "wikilink")後第二組出道的粉絲假想團體。確定於2017年10月12日以迷你專輯出道，由《나야 나》製作人製作， 編舞則為權宰勝。\[1\]
 
 RAINZ的官方顏色為紫丁香Lilac Breeze和水天藍Aqua Sky，包含『初戀』和『年輕時候的回憶』等涵義，代表著粉絲們對RAINZ來說是初戀般的存在，以及《PRODUCE 101》第二季是大家共同的年輕時的回憶。另外，Aqua Sky為雨後天晴的水天藍色，同時也代表著成員們經歷了艱辛的練習生時期後，終將面對幸福、向大眾傳遞積極正能量的意義。\[2\]
@@ -288,7 +291,7 @@ SOLO</p></td>
   -
   -
   -
-  - [金聲利](https://www.instagram.com/seong_leeee/)的Instagram專頁
+  - [金聲利](https://www.instagram.com/seongri0406/)的Instagram專頁
 
   - [朱元鐸](https://www.instagram.com/j_wontagii/)的Instagram專頁
 

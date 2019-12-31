@@ -1,3 +1,6 @@
+> 本文内容由[MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND)转换而来。
+
+
 **MOMOLAND**（），是（前稱Dublekick Company）於2016年透過與[Mnet](../Page/Mnet.md "wikilink")合作的練習生競爭節目[《SURVIVAL MOMOLAND를 찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出 [慧彬](../Page/慧彬.md "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、[妍雨](https://zh.wikipedia.org/wiki/李多斌 "wikilink")、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE 七名成員。後來再加入兩名成員 、DAISY。
 
 2017年3月28日，加入在[《SURVIVAL MOMOLAND를 찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂](../Page/JYP娛樂.md "wikilink")練習生出身的DAISY。

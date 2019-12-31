@@ -1,3 +1,6 @@
+> 本文内容由[面影Warp](https://zh.wikipedia.org/wiki/面影Warp)转换而来。
+
+
 《**面影Warp**》（）是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[nano.RIPE的第](https://zh.wikipedia.org/wiki/nano.RIPE "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年8月3日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 簡介
@@ -37,11 +40,8 @@
 [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:Lantis發行的單曲](https://zh.wikipedia.org/wiki/Category:Lantis發行的單曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.

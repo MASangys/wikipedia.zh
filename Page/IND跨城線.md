@@ -1,3 +1,6 @@
+> 本文内容由[IND跨城線](https://zh.wikipedia.org/wiki/IND跨城線)转换而来。
+
+
 **跨城線**（）又稱「布魯克林-皇后區跨城線」，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林及](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[皇后區](../Page/皇后區.md "wikilink")，屬於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。此線提供布魯克林西部和皇后區西北部之間的跨城列車服務，也是唯一不經過[曼哈頓](../Page/曼哈頓.md "wikilink")的主幹線。
 
 ## 服務形式

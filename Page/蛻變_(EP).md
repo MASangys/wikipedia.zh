@@ -1,3 +1,6 @@
+> 本文内容由[蛻變 \(EP\)](https://zh.wikipedia.org/wiki/蛻變_\(EP\))转换而来。
+
+
 《**蛻變**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[石詠莉](../Page/石詠莉.md "wikilink")的第1張個人音樂專輯，於2012年11月26日推出。
 
 ## 曲目列表

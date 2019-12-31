@@ -1,3 +1,6 @@
+> 本文内容由[P與JK](https://zh.wikipedia.org/wiki/P與JK)转换而来。
+
+
 《**P與JK** 》（）是日本漫畫家[三次真紀](https://zh.wikipedia.org/wiki/三次真紀 "wikilink")（）的[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。由2013年1月號的「[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")」漫畫雜誌（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）上開始連載，2014年11月號起作者因產假休刊，2015年11月號繼續連載。作品標題中的「P」代表“Police”（警察）；「JK」為“jyoshi kousei”（）日本女高中生的流行簡稱。
 
 總發行量截至2016年11月已超過230萬本。2017年本作獲得第41回[講談社漫畫賞少女部門賞](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink") \[1\]，同年3月25日真人電影版於日本公開上映。

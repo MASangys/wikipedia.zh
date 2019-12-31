@@ -1,3 +1,6 @@
+> 本文内容由[CP System III](https://zh.wikipedia.org/wiki/CP_System_III)转换而来。
+
+
 是[卡普空](../Page/卡普空.md "wikilink")于1996年开发的[街机](../Page/街机.md "wikilink")[主板](../Page/主板.md "wikilink")，该主板同时是[CP System的第二个继承者](../Page/CP_System.md "wikilink")。CPS-3是卡普空最后一块专用主板，其后卡普空将游戏平台迁移至基于[世嘉DC的](https://zh.wikipedia.org/wiki/世嘉DC "wikilink")[Naomi](https://zh.wikipedia.org/wiki/Naomi "wikilink")。
 
 ## 历史
@@ -72,4 +75,4 @@
   -
 ## 参考文献
 
-[Category:街机主板](https://zh.wikipedia.org/wiki/Category:街机主板 "wikilink") [Category:卡普空](https://zh.wikipedia.org/wiki/Category:卡普空 "wikilink")
+[Category:卡普空街機主機板](https://zh.wikipedia.org/wiki/Category:卡普空街機主機板 "wikilink") [Category:1996年电子游戏界](https://zh.wikipedia.org/wiki/Category:1996年电子游戏界 "wikilink")

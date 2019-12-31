@@ -1,3 +1,6 @@
+> 本文内容由[Run, BIGBANG Scout](https://zh.wikipedia.org/wiki/Run,_BIGBANG_Scout)转换而来。
+
+
 **Run, BIGBANG Scout**（）為[韓國的綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG主持](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，節目以紀念BIGBANG十週年，一起製作特別回憶的[真人實境秀](../Page/真人實境秀.md "wikilink")節目\[1\]\[2\]。
 
 ## 節目列表

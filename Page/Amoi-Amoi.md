@@ -1,3 +1,6 @@
+> 本文内容由[Amoi-Amoi](https://zh.wikipedia.org/wiki/Amoi-Amoi)转换而来。
+
+
 **AMOi-AMOi** 是[马来西亚](../Page/马来西亚.md "wikilink") [RedPeople](https://zh.wikipedia.org/wiki/RedPeople "wikilink") 公司推出，第一个由[网红组成的女子偶像团体](https://zh.wikipedia.org/wiki/网红 "wikilink")。现任成员分别是吳翠媚（May Ng）、曾樂晴（Stella Chen）、洪少琦（ShaoQi）和 王依渟（ET Wang）\[1\]。
 
 ## 经历

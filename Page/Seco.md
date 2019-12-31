@@ -1,3 +1,6 @@
+> 本文内容由[Seco](https://zh.wikipedia.org/wiki/Seco)转换而来。
+
+
 ***Seco***是[蜆蝶科](../Page/蜆蝶科.md "wikilink")[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蜆蝶族](../Page/蜆蝶族.md "wikilink")裡的一個屬，尚無正式中文學名命名。共有3個物種，各自分佈於南美洲的不同地域\[1\]。
 
 ## 演化樹

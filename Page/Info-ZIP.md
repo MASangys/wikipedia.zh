@@ -1,3 +1,6 @@
+> 本文内容由[Info-ZIP](https://zh.wikipedia.org/wiki/Info-ZIP)转换而来。
+
+
 **Info-ZIP**是一套处理[ZIP压缩文件的](../Page/ZIP格式.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")。它自1989年以来一直在流通，由4个可单独安装的软件包组成：**Zip**和**UnZip**命令行实用工具；以及在[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[经典Mac OS上的图形用户界面](https://zh.wikipedia.org/wiki/Mac_OS版本历史 "wikilink")：**WiZ**和**MacZip**。
 
 Info-ZIP的Zip和UnZip已被[移植到几十个](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[计算机平台](../Page/系统平台.md "wikilink")。UnZip网页阐述道，UnZip是“世界上第三大可移植程序”，第一名是[Hello World](../Page/Hello_World.md "wikilink")，第二名可能是，第三名也可能是[Linux内核](../Page/Linux内核.md "wikilink")。\[1\]大多数[Linux](../Page/Linux.md "wikilink")和[Unix发行版中的](https://zh.wikipedia.org/wiki/Unix "wikilink")“zip”和“unzip”程序都是Info-ZIP的Zip和UnZip。

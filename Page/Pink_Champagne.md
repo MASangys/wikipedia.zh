@@ -1,4 +1,4 @@
-> 本文内容由[Pink Champagne](https://zh.wikipedia.org/wiki/Pink Champagne)转换而来。
+> 本文内容由[Pink Champagne](https://zh.wikipedia.org/wiki/Pink_Champagne)转换而来。
 
 
 《**Pink Champagne**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")17张[单曲](../Page/单曲.md "wikilink")，於2016年8月10日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。

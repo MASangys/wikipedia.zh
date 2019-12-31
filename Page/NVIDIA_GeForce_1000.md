@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA GeForce 1000](https://zh.wikipedia.org/wiki/NVIDIA GeForce 1000)转换而来。
+> 本文内容由[NVIDIA GeForce 1000](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_1000)转换而来。
 
 
 **NVIDIA GeForce 1000 系列**是[輝達目前第二新的繪圖晶片系列](https://zh.wikipedia.org/wiki/輝達 "wikilink")，採用了Pascal架構，晶片代碼採「GP」開頭。

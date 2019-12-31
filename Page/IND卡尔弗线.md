@@ -1,3 +1,6 @@
+> 本文内容由[IND卡尔弗线](https://zh.wikipedia.org/wiki/IND卡尔弗线)转换而来。
+
+
 **卡爾弗線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線，由向南至[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[康尼島](../Page/康尼島.md "wikilink")。此線以命名，並興建了現時地鐵路線的前身，原初路線。卡爾弗線慢車軌道有[F線使用](../Page/紐約地鐵F線.md "wikilink")，另外[G線也服務介乎](../Page/紐約地鐵G線.md "wikilink")[卑爾根街和教堂大道之間的路段](https://zh.wikipedia.org/wiki/卑爾根街車站_\(IND卡爾弗線\) "wikilink")。教堂大道以北的快車軌道自1976年就未曾定期使用，介乎[迪特馬斯大道及](../Page/迪特馬斯大道車站_\(IND卡爾弗線\).md "wikilink")[X大道的尖峰特快軌道自](../Page/X大道車站_\(IND卡爾弗線\).md "wikilink")1987年也未曾再有定期使用\[1\]。
 
 此線以一個[傑伊街-都會科技以北的](https://zh.wikipedia.org/wiki/傑伊街-都會科技車站_\(IND卡爾弗線\) "wikilink")[聯鎖開始](https://zh.wikipedia.org/wiki/聯鎖 "wikilink")，該處卡爾弗線可以前往[IND第六大道線](../Page/IND第六大道線.md "wikilink")或[IND第八大道線](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")，南至的[教堂大道為止](https://zh.wikipedia.org/wiki/教堂大道車站_\(IND卡爾弗線\) "wikilink")，全線多為四線軌道，之後上升跨過，也是唯一原初[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")位於地面以上的建築。肯辛頓，一個坡度容許列車上升至紐約市興建、以名義為營運的三線軌道高架結構。此坡度1954年啟用時由肯辛頓西北到[日落公園的舊路線仍然以](https://zh.wikipedia.org/wiki/日落公園_\(布魯克林\) "wikilink")的方式維持原樣，直至1975年關閉為止。此線在康尼島的最後部分位於雙層高架結構的下層，[BMT布萊頓線在上方](https://zh.wikipedia.org/wiki/BMT布萊頓線 "wikilink")。

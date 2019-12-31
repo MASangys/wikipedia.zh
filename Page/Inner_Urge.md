@@ -1,3 +1,6 @@
+> 本文内容由[Inner Urge](https://zh.wikipedia.org/wiki/Inner_Urge)转换而来。
+
+
 《**Inner Urge**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[上坂菫的第](https://zh.wikipedia.org/wiki/上坂菫 "wikilink")6張單曲。松浦勇氣作詞、作曲。2015年7月22日由[STARCHILD發行](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 解說

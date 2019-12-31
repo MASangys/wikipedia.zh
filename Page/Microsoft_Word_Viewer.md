@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Word Viewer](https://zh.wikipedia.org/wiki/Microsoft Word Viewer)转换而来。
+> 本文内容由[Microsoft Word Viewer](https://zh.wikipedia.org/wiki/Microsoft_Word_Viewer)转换而来。
 
 
 **Microsoft Word Viewer**是一個可以在[Microsoft Windows執行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[免費軟體](../Page/免費軟體.md "wikilink")，並且可以檢視和列印[Microsoft Word的文件](../Page/Microsoft_Word.md "wikilink")。 這個軟體可以從[Microsoft網站上免費下載](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。\[1\] Word Viewer可以從被開啟的Word文件中複製其內容，然後在[Word文件內貼上](https://zh.wikipedia.org/wiki/Word "wikilink")。\[2\]

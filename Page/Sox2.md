@@ -1,3 +1,6 @@
+> 本文内容由[Sox2](https://zh.wikipedia.org/wiki/Sox2)转换而来。
+
+
 **SRY盒-2**（SRY：性別決定區，**S**ex Determining **R**egion **Y**），又稱「**Sox2**」（人的Sox2應寫爲**SOX2**），是一種對未分化的[胚胎幹細胞](../Page/胚胎幹細胞.md "wikilink")（ESC）、神經幹細胞等再生能力以及[多能性維持至關重要](../Page/細胞潛能.md "wikilink")[轉錄因子](https://zh.wikipedia.org/wiki/轉錄因子 "wikilink")\[1\]。對Sox2的研究對幹細胞生物學、[再生醫學](../Page/再生醫學.md "wikilink")的發展有重要意義\[2\]。
 
 Sox2隸屬於Sox轉錄因子[家族](https://zh.wikipedia.org/wiki/蛋白質家族 "wikilink")。Sox轉錄因子家族在哺乳動物的發育過程中扮演重要角色。該家族的蛋白質都有一個保守的DNA結合[結構域](https://zh.wikipedia.org/wiki/結構域 "wikilink")，長約80個氨基酸殘基，稱爲（High-mobility group，高遷移律組）盒結構域\[3\]。

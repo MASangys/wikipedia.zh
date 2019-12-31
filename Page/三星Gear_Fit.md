@@ -1,4 +1,4 @@
-> 本文内容由[三星Gear Fit](https://zh.wikipedia.org/wiki/三星Gear Fit)转换而来。
+> 本文内容由[三星Gear Fit](https://zh.wikipedia.org/wiki/三星Gear_Fit)转换而来。
 
 
 **Samsung Gear Fit** 是一款由[三星于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2014年4月11日发布的属于[Samsung Gear产品系列的智能健康腕带](https://zh.wikipedia.org/wiki/Samsung_Gear "wikilink")。Samsung Gear Fit具有一个弯曲的[AMOLED显示屏](https://zh.wikipedia.org/wiki/AMOLED显示屏 "wikilink")\[1\]，在发布会上三星公司表示这是世界第一款（“world's first”）带有弯曲的耐磨Super AMOLED触摸显示屏设备。Samsung Gear Fit主要消费对象为健身人群，所以其带有一些健康相关应用功能。

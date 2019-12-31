@@ -1,4 +1,4 @@
-> 本文内容由[HAPPY GO](https://zh.wikipedia.org/wiki/HAPPY GO)转换而来。
+> 本文内容由[HAPPY GO](https://zh.wikipedia.org/wiki/HAPPY_GO)转换而来。
 
 
 **HAPPY GO**（**快樂購**）2005年1月開始啟用，由[鼎鼎聯合行銷營運發行](https://zh.wikipedia.org/wiki/鼎鼎聯合行銷 "wikilink")，[台灣首張跨產業整合多個店家不同消費性商品的聯合紅利集點卡](https://zh.wikipedia.org/wiki/台灣 "wikilink")，日常生活中的食、衣、住、行、育、樂，只要在合作的特約商店消費，不論使用[現金](https://zh.wikipedia.org/wiki/現金 "wikilink")、[百貨公司](../Page/百貨公司.md "wikilink")禮券或[信用卡](../Page/信用卡.md "wikilink")支付消費金額都可以獲得紅利點數，並將紅利點數累積在消費者名下的集點卡上。\[1\]

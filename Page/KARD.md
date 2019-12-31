@@ -1,3 +1,6 @@
+> 本文内容由[KARD](https://zh.wikipedia.org/wiki/KARD)转换而来。
+
+
 **KARD**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP媒體](../Page/DSP媒體.md "wikilink")於2016年推出的混聲企劃團體，以「**K**ing」、「**A**ce」、「joke**R**」、「hi**D**den」等四種撲克牌卡片為概念，由兼具作詞、作曲、編舞等才華的練習生組成團體，成員包括「King」BM、「Ace」J.Seph、「Black jokeR」全昭珉、「Color jokeR」全志佑。2017年7月19日正式出道，於出道Showcase公布粉絲名稱為「HIDDEN KARD」\[1\]。
 
 DSP Media 表示：「混聲企劃團體 K.A.R.D 是分為三個階段的企劃，每張專輯都有一位隱藏成員。最後一張卡片『D』代表了隱藏成員，也具有展現無法預測的音樂與表演的意義。」

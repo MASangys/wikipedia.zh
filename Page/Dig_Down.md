@@ -1,3 +1,6 @@
+> 本文内容由[Dig Down](https://zh.wikipedia.org/wiki/Dig_Down)转换而来。
+
+
 "**Dig Down**" 是一首英国[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[MUSE的和麦克](../Page/缪斯乐队.md "wikilink")·埃利佐多（Mike Elizondo）协同制作的一首单曲，于2017年5月18日发布。是即将发售的乐队的第八张[录音室专辑的特色曲目](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。这首歌第一次出现在在[英国单曲下载排行榜时的排名是](https://zh.wikipedia.org/wiki/英国单曲下载排行榜 "wikilink")94名。\[1\]
 
 ## 背景

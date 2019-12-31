@@ -1,3 +1,6 @@
+> 本文内容由[Blackpink \(迷你專輯\)](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\))转换而来。
+
+
 **Blackpink**（風格化為**BLΛƆKPIИK**，，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")以組合名稱作為專輯名字的日本出道迷你專輯，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2017年8月30日以五種不同版本發售\[1\]。
 
 ## 背景

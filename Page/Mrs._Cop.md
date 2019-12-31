@@ -1,4 +1,4 @@
-> 本文内容由[Mrs. Cop](https://zh.wikipedia.org/wiki/Mrs. Cop)转换而来。
+> 本文内容由[Mrs. Cop](https://zh.wikipedia.org/wiki/Mrs._Cop)转换而来。
 
 
 《**Mrs. Cop**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2015年8月3日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，是《Mrs. Cop》系列作品第一季。由《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》[劉仁植](../Page/劉仁植.md "wikilink")導演執導與《[對我說謊試試](https://zh.wikipedia.org/wiki/對我說謊試試 "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink")作家合作打造。講述重案組刑警們追捕犯人、尋求正義的一系列故事。\[1\]

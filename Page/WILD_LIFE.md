@@ -1,3 +1,6 @@
+> 本文内容由[WILD LIFE](https://zh.wikipedia.org/wiki/WILD_LIFE)转换而来。
+
+
 《**WILD LIFE**》是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")的影音作品，分別於2011年4月20日及5月18日發行DVD及藍光版本。
 
 ## 概述

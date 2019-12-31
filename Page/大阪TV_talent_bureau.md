@@ -1,3 +1,6 @@
+> 本文内容由[大阪TV talent bureau](https://zh.wikipedia.org/wiki/大阪TV_talent_bureau)转换而来。
+
+
 **株式會社大阪TV talent bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北區堂島](../Page/北區_\(大阪市\).md "wikilink")，營運至2018年3月31日\[1\]為止的[聲優](../Page/聲優.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱：**TTB**。
 
 ## 概要
@@ -388,10 +391,9 @@
   - \-{脇}-朱紀（現藝名：-{脇}-，現所屬：Partner's Pro）
 
   -
-## 來源
+## 參考來源
 
 [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink") [Category:2018年結業公司](https://zh.wikipedia.org/wiki/Category:2018年結業公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:日本已結業聲優事務所](https://zh.wikipedia.org/wiki/Category:日本已結業聲優事務所 "wikilink")
 
 1.
-
 2.

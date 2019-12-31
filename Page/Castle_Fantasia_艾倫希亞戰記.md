@@ -1,3 +1,6 @@
+> 本文内容由[Castle Fantasia 艾倫希亞戰記](https://zh.wikipedia.org/wiki/Castle_Fantasia_艾倫希亞戰記)转换而来。
+
+
 是[Studio e.go\!於](../Page/Studio_e.go!.md "wikilink")2000年4月21日發售的[即時戰略類型](https://zh.wikipedia.org/wiki/即時戰略 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年7月25日發售重製版\[2\]，[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Castle Fantasia 艾倫希亞戰記 Plus Stories》（）由[角川書店](../Page/角川書店.md "wikilink")於2005年2月24日發售。\[3\]中文版由臺灣的[信必優多媒體](https://zh.wikipedia.org/wiki/信必優多媒體 "wikilink")（SYMBIO）代理並於2000年9月29日發售。
 
 ## 故事

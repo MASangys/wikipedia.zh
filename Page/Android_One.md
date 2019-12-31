@@ -1,4 +1,4 @@
-> 本文内容由[Android One](https://zh.wikipedia.org/wiki/Android One)转换而来。
+> 本文内容由[Android One](https://zh.wikipedia.org/wiki/Android_One)转换而来。
 
 
 **Android One**是运行[Android](../Page/Android.md "wikilink")系统的[消费电子产品系列](https://zh.wikipedia.org/wiki/消费电子产品 "wikilink")。这是由[Google](../Page/Google.md "wikilink")開發的搭载原生[Android](../Page/Android.md "wikilink")系统的设备，市场面向[发展中国家](../Page/发展中国家.md "wikilink")的人们和客户的第一个智能手机。\[1\][Google](../Page/Google.md "wikilink")负责设计、开发、营销和支持这些设备，原始设备制造商（OEM）负责制造。Android One[智能手机](../Page/智能手机.md "wikilink")运行Android原生系统，没有经过制造商的定制，因此许多智能手机厂商申请加入。由Google负责安全性和系统更新，避免手机出现问题以及缺乏安全更新。\[2\]\[3\]第一批的Android One设备特性包括[联发科四核](https://zh.wikipedia.org/wiki/联发科 "wikilink")[MT6582移动芯片系统](https://zh.wikipedia.org/wiki/联发科#四核 "wikilink")。\[4\]

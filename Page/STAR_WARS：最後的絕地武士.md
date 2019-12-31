@@ -1,4 +1,4 @@
-> 本文内容由[STAR WARS：最後的絕地武士](https://zh.wikipedia.org/wiki/STAR WARS：最後的絕地武士)转换而来。
+> 本文内容由[STAR WARS：最後的絕地武士](https://zh.wikipedia.org/wiki/STAR_WARS：最後的絕地武士)转换而来。
 
 
 《**STAR WARS：最後的絕地武士**》（），也可稱作《**星際大戰八部曲：最後的絕地武士**》（）\[1\]是一部於2017年上映的[史詩](../Page/史诗片.md "wikilink")[太空歌劇](../Page/太空歌劇.md "wikilink")[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為[萊恩·尊遜執導和編劇](https://zh.wikipedia.org/wiki/萊恩·尊遜 "wikilink")。本片是《[星際大戰](../Page/星際大戰.md "wikilink")》系列電影的第八部作品和2015年電影《[STAR WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》的續集。電影由[盧卡斯影業製作](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")，[華特迪士尼工作室電影](../Page/華特迪士尼工作室電影.md "wikilink")負責發行。

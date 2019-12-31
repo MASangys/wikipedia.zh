@@ -1,4 +1,4 @@
-> 本文内容由[Atelier KAGUYA](https://zh.wikipedia.org/wiki/Atelier KAGUYA)转换而来。
+> 本文内容由[Atelier KAGUYA](https://zh.wikipedia.org/wiki/Atelier_KAGUYA)转换而来。
 
 
 **Atelier KAGUYA**（アトリエかぐや）是日本アステックトゥーワン公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，簡稱「竹子社」。\[1\]\[2\]該品牌是由數個團隊組成，最早是由**TEAM HEARTBEAT**和**Berkshire Yorkshire**兩團隊為主，目前只有**Honky-Tonk Pumpkin**、**TEAM Gassa-Q**、**Cheshier cat**、**BARE & BUNNY**還有製作發售遊戲。

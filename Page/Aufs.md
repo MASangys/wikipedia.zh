@@ -1,3 +1,6 @@
+> 本文内容由[Aufs](https://zh.wikipedia.org/wiki/Aufs)转换而来。
+
+
 **aufs**（全称：**advanced multi-layered unification filesystem**，**高级多层统一文件系统**）用于为[Linux](../Page/Linux.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")实现。该名称最初是**AnotherUnionFS**的[首字母縮略字](../Page/首字母縮略字.md "wikilink")，但从第2版开始它代表“advanced multi-layered unification filesystem”。
 
 aufs是之前的的完全重写，2006年由开发\[1\]。它旨在提高可靠性和性能，但也引入了一些新概念，例如可写分支平衡\[2\]和其他改进——其中一些目前已在UnionFS 2.x分支中实现。

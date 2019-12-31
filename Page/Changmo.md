@@ -1,4 +1,7 @@
-**Changmo** ([韓語](../Page/諺文.md "wikilink"): 창모，1994年5月31日－)，本名Ku Chang-mo ([韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 구창모)，\[1\] 是一名[韓國說唱歌手和製作人](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。 他於2016年3月18日發表了他的首張專輯 *M O T O N W* 。\[2\] 在2016年10月，他加入了[Dok2](../Page/Dok2.md "wikilink")的唱片公司Ambition Musik。\[3\]
+> 本文内容由[Changmo](https://zh.wikipedia.org/wiki/Changmo)转换而来。
+
+
+**Changmo** ([韓語](../Page/諺文.md "wikilink"): 창모，1994年5月31日－)，本名Ku Chang-mo ([韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 구창모)，\[1\] 是一名[韓國說唱歌手和製作人](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。 他於2016年3月18日發表了他的首張專輯 *M O T O N W* 。\[2\] 在2016年10月，他加入了[Dok2](../Page/Dok2.md "wikilink")的唱片公司[Ambition Musik](https://zh.wikipedia.org/wiki/Ambition_Musik "wikilink")。\[3\]
 
 ## 音樂作品
 
@@ -374,22 +377,13 @@
 [Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.

@@ -1,3 +1,6 @@
+> 本文内容由[Love \& Hate \(孝琳專輯\)](https://zh.wikipedia.org/wiki/Love_\&_Hate_\(孝琳專輯\))转换而来。
+
+
 《**Love & Hate**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（韓國[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")隊長）的首張正規專輯，由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")於2013年11月26日發行。
 
 ## 發行

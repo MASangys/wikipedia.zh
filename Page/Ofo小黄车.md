@@ -1,3 +1,6 @@
+> 本文内容由[Ofo小黄车](https://zh.wikipedia.org/wiki/Ofo小黄车)转换而来。
+
+
 **ofo**是一家2014年创办于[北京市](../Page/北京市.md "wikilink")的无桩停靠[共享单车公司](https://zh.wikipedia.org/wiki/共享单车 "wikilink")。
 
 ## 历史

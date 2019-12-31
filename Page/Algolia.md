@@ -1,3 +1,6 @@
+> 本文内容由[Algolia](https://zh.wikipedia.org/wiki/Algolia)转换而来。
+
+
 **Algolia**是一家[美国](../Page/美国.md "wikilink")的[创业公司](https://zh.wikipedia.org/wiki/创业公司 "wikilink")，通过[SaaS](https://zh.wikipedia.org/wiki/SaaS "wikilink")（软件即服务）模式提供网络搜索产品。
 
 ## 发展历史

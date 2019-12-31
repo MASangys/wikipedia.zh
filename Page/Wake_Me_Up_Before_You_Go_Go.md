@@ -1,4 +1,4 @@
-> 本文内容由[Wake Me Up Before You Go Go](https://zh.wikipedia.org/wiki/Wake Me Up Before You Go Go)转换而来。
+> 本文内容由[Wake Me Up Before You Go Go](https://zh.wikipedia.org/wiki/Wake_Me_Up_Before_You_Go_Go)转换而来。
 
 
 《**離去之前叫醒我**》（）是英國前雙人男子樂團[轟！合唱團](../Page/威猛樂隊.md "wikilink")（Wham\!）在1984年5月所發行的單曲，此單曲在英美兩地雙雙摘冠，這使得轟！合唱團知名度大漲，旋即成為歐美樂壇上最炙手可熱的男子樂團。

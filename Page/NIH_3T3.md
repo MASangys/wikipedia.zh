@@ -1,3 +1,6 @@
+> 本文内容由[NIH 3T3](https://zh.wikipedia.org/wiki/NIH_3T3)转换而来。
+
+
 [NIH_3T3.jpg](https://zh.wikipedia.org/wiki/File:NIH_3T3.jpg "fig:NIH_3T3.jpg")類似，爲梭形\]\] **[NIH](https://zh.wikipedia.org/wiki/美國國立健康研究院 "wikilink") 3T3**，亦稱**3T3**，是一個由[紐約大學醫學院病理學系的乔治](https://zh.wikipedia.org/wiki/紐約大學 "wikilink")·托达洛（George Todaro）以及哈沃德·格林（Howard Green）兩名研究人員於1962年構建的永生化細胞系\[1\]。NIH 3T3細胞的來源是NIH瑞士[小鼠](https://zh.wikipedia.org/wiki/小鼠 "wikilink")（NIH Swiss mice）的胚胎[成纖維細胞](https://zh.wikipedia.org/wiki/成纖維細胞 "wikilink")。其名稱中的3T3指該細胞在建系過程中每3天傳代（transfer）一次，每次接種3 x 10<sup>5</sup>個細胞。在傳代20-30次後，兩名成功人員成功建立了今天的NIH 3T3細胞系\[2\]\[3\]。
 
 ## 細胞系的建立

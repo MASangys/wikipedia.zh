@@ -1,3 +1,6 @@
+> 本文内容由[Kisum](https://zh.wikipedia.org/wiki/Kisum)转换而来。
+
+
 **Kisum**（, ）\[1\]，本名**趙慧玲**（），[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌女歌手](../Page/饒舌.md "wikilink")。\[2\]曾参加了[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")，\[3\]2015年參加了[Hiphop選秀節目](../Page/嘻哈.md "wikilink")[Unpretty Rapstar第一季](../Page/Unpretty_Rapstar.md "wikilink")\[4\]后，人气逐渐增长。
 
 ## 音樂作品
@@ -361,36 +364,20 @@
 [Category:韩国饶舌女歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌女歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.

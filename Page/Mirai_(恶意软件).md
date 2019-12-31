@@ -1,3 +1,6 @@
+> 本文内容由[Mirai \(恶意软件\)](https://zh.wikipedia.org/wiki/Mirai_\(恶意软件\))转换而来。
+
+
 **Mirai**（\[1\]，中文直譯「**未來**」\[2\]\[3\]）是一款[恶意软件](../Page/恶意软件.md "wikilink")，它可以使运行[Linux](../Page/Linux.md "wikilink")的计算系统成为被远程操控的“[僵尸](../Page/殭屍電腦.md "wikilink")”，以达到通过[僵尸网络进行大规模网络攻击的目的](https://zh.wikipedia.org/wiki/僵尸网络 "wikilink")。Mirai的主要感染对象是可访问网络的消费级电子设备，例如[网络监控摄像机和](../Page/閉路電視.md "wikilink")[家庭路由器等](../Page/路由器.md "wikilink")\[4\]。Mirai构建的僵尸网络已经参与了几次影响广泛的大型[分布式拒绝服务攻击](../Page/阻斷服務攻擊.md "wikilink")（DDoS攻击），包括2016年9月20日针对计算机安全撰稿人个人网站的攻击、对法国网站托管商的攻击\[5\]，以及[2016年10月Dyn公司网络攻击事件](https://zh.wikipedia.org/wiki/2016年10月Dyn公司遭到网络攻击事件 "wikilink")\[6\]\[7\]\[8\]。目前已经确认上述攻击全部由Mirai作者构建的僵尸网络发起的攻击。
 
 Mirai的[源代码](../Page/源代码.md "wikilink")已经以[开源的形式发布至黑客论坛](../Page/开源软件.md "wikilink")\[9\]，其中的技术也已被其他一些恶意软件采用\[10\]。

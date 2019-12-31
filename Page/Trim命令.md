@@ -1,3 +1,6 @@
+> 本文内容由[Trim命令](https://zh.wikipedia.org/wiki/Trim命令)转换而来。
+
+
 **trim命令**（[ATA命令集中称为](../Page/ATAPI.md "wikilink")**TRIM**，中称为**UNMAP**），它使[操作系统](../Page/操作系统.md "wikilink")能通知[固态硬盘](../Page/固态硬盘.md "wikilink")（SSD）哪些数据块已不再考虑使用，可以被内部擦除。\[1\]
 
 Trim在SSD被推出后很快被跟着推出。因为SSD的底层操作与硬盘驱动器显著不同，操作系统处理诸如删除和格式化等操作的典型方式将导致SSD上的写操作不可预期的逐步性能退化。\[2\]Trim（意为修整、修剪、裁剪）使SSD能更有效地处理[垃圾收集](../Page/写入放大.md "wikilink")，否则将减慢在未来对所涉及块的写入操作。\[3\]

@@ -1,4 +1,4 @@
-> 本文内容由[Hilltop Hoods](https://zh.wikipedia.org/wiki/Hilltop Hoods)转换而来。
+> 本文内容由[Hilltop Hoods](https://zh.wikipedia.org/wiki/Hilltop_Hoods)转换而来。
 
 
 **Hilltop Hoods**是一个[澳大利亚](../Page/澳大利亚.md "wikilink")的[hip hop组合](https://zh.wikipedia.org/wiki/hip_hop "wikilink")。 该组合由Suffa（Matt Lambert）以及MC Pressure（Daniel Smith）于1994年在[阿德莱德](../Page/阿德莱德.md "wikilink")组建， 成员DJ Debris（Barry Francis）在创建人DJ Next（Ben Hare）1999年离开组合之后加入。组合在1997年发布了第一张[密纹唱片](https://zh.wikipedia.org/wiki/密纹唱片 "wikilink")， *Back Once Again(又一次)*， 并在之后的时间陆续发布了七张录音室唱片和三张DVD，并于2006年发布了一张重制版本的  *The Hard Road(漫漫长路) 专辑*。

@@ -1,4 +1,4 @@
-> 本文内容由[Take the \'A\' Train](https://zh.wikipedia.org/wiki/Take the \'A\' Train)转换而来。
+> 本文内容由[Take the \'A\' Train](https://zh.wikipedia.org/wiki/Take_the_\'A\'_Train)转换而来。
 
 
 《**Take the 'A' Train**》是由创作的[爵士标准曲](../Page/爵士经典曲.md "wikilink")，曾作为[艾灵顿公爵乐团的标志名曲](https://zh.wikipedia.org/wiki/艾灵顿公爵 "wikilink")。在艾灵顿和史崔洪合作的众多曲目中，该曲可以说是最著名的作品。

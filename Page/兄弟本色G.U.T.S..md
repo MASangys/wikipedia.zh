@@ -1,3 +1,6 @@
+> 本文内容由[兄弟本色G.U.T.S.](https://zh.wikipedia.org/wiki/兄弟本色G.U.T.S.)转换而来。
+
+
 **兄弟本色G.U.T.S.**，來自[臺灣](../Page/臺灣.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")團體，其中成員為創作歌手[張震嶽](../Page/張震嶽.md "wikilink")、饒舌歌手[熱狗](../Page/MC_HotDog.md "wikilink")（MC HotDog）、饒舌團體[頑童MJ116](../Page/頑童MJ116.md "wikilink")（簡稱「頑童」，成員「瘦子」陳昱榕、「小春」周文傑、 「大淵」林睦淵）等五人。
 
 ## 簡介

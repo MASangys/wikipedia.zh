@@ -1,3 +1,6 @@
+> 本文内容由[Corbin Fisher](https://zh.wikipedia.org/wiki/Corbin_Fisher)转换而来。
+
+
 **Corbin Fisher**是[美國的一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[㚻片公司](https://zh.wikipedia.org/wiki/㚻片公司 "wikilink")，位於內華達州[拉斯維加](https://zh.wikipedia.org/wiki/拉斯維加 "wikilink")\[1\]。該公司的主要影片均在網站發布，旗下擁有多個子網站\[2\]。該公司和[斯洛伐克](../Page/斯洛伐克.md "wikilink")的[Bel Ami公司有合作關係](../Page/Bel_Ami.md "wikilink")。
 
 ## 參考資料

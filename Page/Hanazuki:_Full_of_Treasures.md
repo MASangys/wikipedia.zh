@@ -1,3 +1,6 @@
+> 本文内容由[Hanazuki: Full of Treasures](https://zh.wikipedia.org/wiki/Hanazuki:_Full_of_Treasures)转换而来。
+
+
 **Hanazuki: Full of Treasures**是一部由和[孩之寶工作室](../Page/孩之寶工作室.md "wikilink")製作的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[兒童](https://zh.wikipedia.org/wiki/兒童電視節目 "wikilink")[动画](https://zh.wikipedia.org/wiki/动画影集 "wikilink")，基於Hanneke Metselaar and Niko Stumpo的角色和設定所創作，由Stephen Davis和擔任執行製作人。
 
 該劇於2017年1月12日於[YouTube](../Page/YouTube.md "wikilink")上首播\[1\]，並和於稍後亮相的產品線（包括玩具線和電子手機應用程序等）結合\[2\]。該網絡影集收到評論家的普遍好評，將其和其它動畫影集（如《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》和《[史帝芬宇宙](../Page/史帝芬宇宙.md "wikilink")》）作出正面對比（），讚賞其故事、美觀及深層意義\[3\]\[4\]\[5\]。2017年5月為止，該劇集已有超過1.2億人觀看\[6\]。

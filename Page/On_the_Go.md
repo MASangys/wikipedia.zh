@@ -1,4 +1,4 @@
-> 本文内容由[On the Go](https://zh.wikipedia.org/wiki/On the Go)转换而来。
+> 本文内容由[On the Go](https://zh.wikipedia.org/wiki/On_the_Go)转换而来。
 
 
 《**On The Go**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林二汶的第](https://zh.wikipedia.org/wiki/林二汶 "wikilink")2張個人音樂專輯、第1張國語專輯，於2014年7月25日發行。

@@ -1,4 +1,4 @@
-> 本文内容由[ULTRA TOWER](https://zh.wikipedia.org/wiki/ULTRA TOWER)转换而来。
+> 本文内容由[ULTRA TOWER](https://zh.wikipedia.org/wiki/ULTRA_TOWER)转换而来。
 
 
 **ULTRA TOWER**，日本樂團，成員共有四人。

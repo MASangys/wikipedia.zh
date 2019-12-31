@@ -1,3 +1,6 @@
+> 本文内容由[Utada Hikaru in Budokan 2004 光之5](https://zh.wikipedia.org/wiki/Utada_Hikaru_in_Budokan_2004_光之5)转换而来。
+
+
 《**Utada Hikaru in Budokan 2004 光之5**》（）是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")的影音作品，於2004年7月28日以DVD版本發行。
 
 ## 概要

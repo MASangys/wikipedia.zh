@@ -1,3 +1,6 @@
+> 本文内容由[模块:PrevalenceData](https://zh.wikipedia.org/wiki/模块:PrevalenceData)转换而来。
+
+
 \-- This module is specifically the Wikidata property "prevalence" (P1193), due -- to its particular need for ranges and area-based qualifiers, and the lack of -- support for these in the main Wikidata module.
 
 \-- Completely untested. local p = {}

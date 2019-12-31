@@ -1,3 +1,6 @@
+> 本文内容由[THE BLACK SWAN](https://zh.wikipedia.org/wiki/THE_BLACK_SWAN)转换而来。
+
+
 **THE BLACK SWAN**是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，於2014年3月31日始動，同年6月6日起展開樂團的首次巡演「NEEDLESS x NEEDLESS」，三個月期間共舉行14場演出，足跡遍及東京、仙台、新潟、金沢、名古屋、福岡、廣島、岡山、大阪\[1\]。2018年5月1日解散。
 
 ## 成員
@@ -68,4 +71,4 @@
 2.  [VKDB - THE BLACK SWAN](https://www.vkdb.jp/THE+BLACK+SWAN.html)
 3.  [VROCKHK - THE BLACK SWAN新單曲《RAGE》](http://vrockhk.com/2017/02/08/33377/)
 4.  [THE BLACK SWAN鼓手煉出版愛貓虎徹成長紀錄](http://vrockhk.com/2016/02/13/24010/)
-5.  [The Black Swan 官方網頁 - 專輯列表](http://www.theblackswan.jp/disco.html)
+5.

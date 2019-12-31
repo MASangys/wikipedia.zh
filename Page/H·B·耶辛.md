@@ -1,3 +1,6 @@
+> 本文内容由[H·B·耶辛](https://zh.wikipedia.org/wiki/H·B·耶辛)转换而来。
+
+
 **H·B·耶辛**（，），原名漢斯·巴格·耶辛（），[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")（印尼）文學評論家、文獻學家、教授。他在[哥倫打洛市出生](https://zh.wikipedia.org/wiki/哥倫打洛市 "wikilink")，父親在石油公司工作，喜歡看書；他自己則在就讀小學期間養成閱讀習慣，還在高中畢業之前開始撰寫文學評論。他在畢業之後曾經在助理駐紮官府工作過一陣子，然後又接受邀請前往巴達維亞（今[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")），在國營出版社[圖書編譯局](../Page/圖書編譯局.md "wikilink")工作。他在1950年代先後入讀[印度尼西亚大学和](https://zh.wikipedia.org/wiki/印度尼西亚大学 "wikilink")[耶鲁大学](../Page/耶鲁大学.md "wikilink")；回國後除了擔任教職，他還參加過《文學》、《地平線》雜誌的編務。他在主編《文學》雜誌期間，刊登了一篇運用擬人法描寫[安拉](../Page/安拉.md "wikilink")的短篇小說，卻拒絕公開化名作者的身分，因此法庭裁定這篇小說褻瀆宗教，判處耶辛監禁一年，緩刑兩年。
 
 耶辛在刑期屆滿之後成立[耶辛文学文献中心](https://zh.wikipedia.org/wiki/耶辛文学文献中心 "wikilink")，負責記錄印尼文學。他在晚年六度中風，並於2000年逝世，遺體在[卡利巴達英雄陵園安葬](https://zh.wikipedia.org/wiki/卡利巴達英雄陵園 "wikilink")。他被稱為「印度尼西亞文學教皇」，除了在工作方面獲得好評，還獲得多項獎項。

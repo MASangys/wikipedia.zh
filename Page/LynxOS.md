@@ -1,3 +1,6 @@
+> 本文内容由[LynxOS](https://zh.wikipedia.org/wiki/LynxOS)转换而来。
+
+
 **LynxOS**是美国Lynx Software推出的一款应用于嵌入式系统上的[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[实时操作系统](../Page/实时操作系统.md "wikilink")。\[1\]主要应用于[航空电子](../Page/航空电子.md "wikilink")、[航天](../Page/航天.md "wikilink")系统、[电信](../Page/电信.md "wikilink")领域和[过程控制](../Page/过程控制.md "wikilink")。\[2\]现在LynxOS是一种Linux兼容操作系统。\[3\]
 
 ## 特色

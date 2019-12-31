@@ -1,4 +1,4 @@
-> 本文内容由[Google Duo](https://zh.wikipedia.org/wiki/Google Duo)转换而来。
+> 本文内容由[Google Duo](https://zh.wikipedia.org/wiki/Google_Duo)转换而来。
 
 
 **Duo**是[Google](../Page/Google.md "wikilink")开发的一款[手机应用](../Page/流動應用程式.md "wikilink")，同时提供[Android](../Page/Android.md "wikilink")和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。2016年5月18日，它在[Google I/O大会上](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[1\]\[2\]与即时通信应用[Allo一同宣布](../Page/Google_Allo.md "wikilink")。Duo于8月16日在美国正式推出，并于几天后拓展到全球。\[3\]\[4\]\[5\]Duo在推出2天后便爬升至[Google Play免费应用榜单的第一名](../Page/Google_Play.md "wikilink")。\[6\]

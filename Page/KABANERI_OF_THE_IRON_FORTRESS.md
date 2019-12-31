@@ -1,3 +1,6 @@
+> 本文内容由[KABANERI OF THE IRON FORTRESS](https://zh.wikipedia.org/wiki/KABANERI_OF_THE_IRON_FORTRESS)转换而来。
+
+
 《**KABANERI OF THE IRON FORTRESS**》是[2016年](../Page/2016年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")由[Sony Records发售的日本乐团](../Page/Sony_Music_Records.md "wikilink")[EGOIST](../Page/EGOIST.md "wikilink")第7支[单曲](../Page/单曲.md "wikilink")。
 
 ## 摘要

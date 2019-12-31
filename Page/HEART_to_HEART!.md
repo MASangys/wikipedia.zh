@@ -1,3 +1,6 @@
+> 本文内容由[HEART to HEART!](https://zh.wikipedia.org/wiki/HEART_to_HEART!)转换而来。
+
+
 **《HEART to HEART\!》**是[μ's的单曲](https://zh.wikipedia.org/wiki/μ's "wikilink")，于2015年10月28日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

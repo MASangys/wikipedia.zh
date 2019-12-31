@@ -1,4 +1,4 @@
-> 本文内容由[IPod touch \(第六代\)](https://zh.wikipedia.org/wiki/IPod touch \(第六代\))转换而来。
+> 本文内容由[IPod touch \(第六代\)](https://zh.wikipedia.org/wiki/IPod_touch_\(第六代\))转换而来。
 
 
 **第六代[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod touch**，而**iPod touch 6**或**iTouch 6**为俗称）是[苹果公司設計的第六代可携式多媒体播放器](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，属于iPod系列。它使用與[第五代iPod touch一样的](https://zh.wikipedia.org/wiki/iPod_touch_5 "wikilink")4吋[Retina螢幕和与](https://zh.wikipedia.org/wiki/Retina "wikilink")[iPhone 6一样的](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")[Apple A8处理器](../Page/Apple_A8.md "wikilink")。iPod touch 6移除了iPod touch 5机身背面左下角的Loop挂绳孔。

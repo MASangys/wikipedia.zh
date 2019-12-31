@@ -1,4 +1,7 @@
-**AppImage**是一种在[Linux](../Page/Linux.md "wikilink")系统中用于分发[便携式软件而不需要超级用户权限来安装它们的格式](../Page/綠色軟體.md "wikilink")。\[1\] 它还试图允许Linux的上游开发者来分发他们的程序而不用考虑不同Linux发行版间的区别。  在2004年，它以**klik**的名字发布。自那时起，它就被不断地开发，并在2011年被重新命名为**PortableLinuxApps**，在2013年被重新命名为**AppImage**。
+> 本文内容由[AppImage](https://zh.wikipedia.org/wiki/AppImage)转换而来。
+
+
+**AppImage**是一种在[Linux](../Page/Linux.md "wikilink")系统中用于分发[便携式软件而不需要超级用户权限来安装它们的格式](../Page/綠色軟體.md "wikilink")。\[1\] 它还试图允许Linux的上游开发者来分发他们的程序而不用考虑不同Linux发行版间的区别。 AppImage的核心思想是一个文件即一个应用程序 。每个AppImage都包含应用程序以及应用程序运行所需的所有文件。换句话说，除了操作系统本身的基础组件，Appimage无需依赖即可运行。 在2004年，它以**klik**的名字发布。自那时起，它就被不断地开发，并在2011年被重新命名为**PortableLinuxApps**，在2013年被重新命名为**AppImage**。
 
 ## 描述
 
@@ -18,7 +21,7 @@ AppImage不把Linux应用程序安装在文件系统相应的目录中。相反�
 
 ### klik
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Klik.png "fig:缩略图") *AppImage*的前身*klik*由Simon Peter在2014年设计。\[3\] 客户端软件使用[GPL许可证](../Page/GNU通用公共许可证.md "wikilink")。klik与用户的浏览器交互。用户只需在浏览器中输入以`klik://`打头的URL，便能下载一个“配方”文件，它可以用于生成.cmg文件。使用这一方式，一个“配方”文件可以用来在很广泛的平台上供应软件包。但因为Linux内核的挂载压缩文件限制，所以在使用klik时，除非使用[FUSE](../Page/FUSE.md "wikilink")，否則一次只能运行八个软件。每次运行程序时，这个文件都会被重新挂载，这意味着用户可以将.cmg文件删除来移除程序。它的下一个版本，*klik2*，正在开发中，并且可能原生地与FUSE核心模块协作，但是它从未达到测试阶段。\[4\] 在2011年前后，klik项目不再活动，并且主页在一段时间内下线了。\[5\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Klik.png "fig:缩略图") *AppImage*的前身*klik*由Simon Peter在2004年设计。\[3\] 客户端软件使用[GPL许可证](../Page/GNU通用公共许可证.md "wikilink")。klik与用户的浏览器交互。用户只需在浏览器中输入以`klik://`打头的URL，便能下载一个“配方”文件，它可以用于生成.cmg文件。使用这一方式，一个“配方”文件可以用来在很广泛的平台上供应软件包。但因为Linux内核的挂载压缩文件限制，所以在使用klik时，除非使用[FUSE](../Page/FUSE.md "wikilink")，否則一次只能运行八个软件。每次运行程序时，这个文件都会被重新挂载，这意味着用户可以将.cmg文件删除来移除程序。它的下一个版本，*klik2*，正在开发中，并且可能原生地与FUSE核心模块协作，但是它从未达到测试阶段。\[4\] 在2011年前后，klik项目不再活动，并且主页在一段时间内下线了。\[5\]
 
 ### PortableLinuxApps
 
@@ -31,7 +34,7 @@ Simon Peter开始了一个名为*PortableLinuxApps*的后续项目。\[6\] 这�
 ## 参见
 
   - [Autopackage](../Page/Autopackage.md "wikilink")
-  - [Snappy](../Page/Snappy.md "wikilink")
+  - [Snappy_(包管理器)](../Page/Snappy_\(包管理器\).md "wikilink")
   - [Flatpak](../Page/Flatpak.md "wikilink")
   - [Zero Install](https://zh.wikipedia.org/wiki/Zero_install "wikilink")
   - ROX

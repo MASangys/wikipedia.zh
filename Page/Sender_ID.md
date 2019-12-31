@@ -1,3 +1,6 @@
+> 本文内容由[Sender ID](https://zh.wikipedia.org/wiki/Sender_ID)转换而来。
+
+
 **Sender ID**是曾经加入[发件人策略框架](../Page/发件人策略框架.md "wikilink")（SPF）和Caller ID的前 [IETF工作组的一项反](../Page/互联网工程任务组.md "wikilink")协议。 Sender ID主要定义在实验性RFC 4406，而其余部分在RFC 4405、RFC 4407和RFC 4408中定义。
 
 ## 操作原理

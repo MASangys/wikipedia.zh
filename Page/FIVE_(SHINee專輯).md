@@ -1,3 +1,6 @@
+> 本文内容由[FIVE \(SHINee專輯\)](https://zh.wikipedia.org/wiki/FIVE_\(SHINee專輯\))转换而来。
+
+
 《**FIVE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2017年2月22日以三個版本：初回限定盤A、初回限定盤B、通常盤及FC限定盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[因為妳](https://zh.wikipedia.org/wiki/因為妳 "wikilink")》（）及《[Winter Wonderland](https://zh.wikipedia.org/wiki/Winter_Wonderland_\(SHINee單曲\) "wikilink")》在專輯推出前預先發行。
 
 ## 概觀

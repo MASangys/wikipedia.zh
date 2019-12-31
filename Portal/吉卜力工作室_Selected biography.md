@@ -1,4 +1,4 @@
-> 本文内容由[Portal:吉卜力工作室/Selected biography](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected biography)转换而来。
+> 本文内容由[Portal:吉卜力工作室/Selected biography](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected_biography)转换而来。
 
 
 <small></small>

@@ -1,4 +1,4 @@
-> 本文内容由[MIX \(漫畫\)](https://zh.wikipedia.org/wiki/MIX \(漫畫\))转换而来。
+> 本文内容由[MIX \(漫畫\)](https://zh.wikipedia.org/wiki/MIX_\(漫畫\))转换而来。
 
 
 《**MIX**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[安達充繪畫的](https://zh.wikipedia.org/wiki/安達充 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，於《[月刊少年Sunday](../Page/月刊少年Sunday.md "wikilink")》2012年6月號開始連載\[1\]。連載開始便造成該月刊缺貨，増刷也沒有遏止該情況。於是第1話便於《月刊少年Sunday》2012年7月號與《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》2012年28號上再度刊載。截至2019年4月為止漫畫累計含電子版突破800萬本。

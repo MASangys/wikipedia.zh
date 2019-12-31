@@ -1,3 +1,6 @@
+> 本文内容由[IConcerts](https://zh.wikipedia.org/wiki/IConcerts)转换而来。
+
+
 **iConcerts**是一家致力於現場音樂的電視頻道，首播於2006年6月21日。它是瑞士Transmedia Communication集团旗下的一个跨平台现场演唱会频道。iConcerts拥有全世界最大、最丰富的演唱会资料库，内容包含现场演唱会、电视音乐节目、纪录片等。iConcerts高画质频道更是欧洲高画质电视的先驱者，在近期更延伸收视范围至亚洲与非洲，該頻道現可於全球85個國家收看\[1\]。
 
 該頻道主要圍繞[古典搖滾和](https://zh.wikipedia.org/wiki/古典搖滾 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")音樂，但也會覆蓋全部的音樂流派。

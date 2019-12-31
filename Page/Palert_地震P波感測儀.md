@@ -1,4 +1,4 @@
-> 本文内容由[Palert 地震P波感測儀](https://zh.wikipedia.org/wiki/Palert 地震P波感測儀)转换而来。
+> 本文内容由[Palert 地震P波感測儀](https://zh.wikipedia.org/wiki/Palert_地震P波感測儀)转换而来。
 
 
 **Palert 地震P波感測儀**是[三聯科技](../Page/三聯科技.md "wikilink")股份有限公司開發的地震警報器，此警報器藉由偵測[地震](../Page/地震.md "wikilink")的[P波](../Page/P波.md "wikilink")來判斷振動程度，並在[S波](../Page/S波.md "wikilink")到達前發出警報，以達到[地震預警的效果](https://zh.wikipedia.org/wiki/地震預警 "wikilink")。\[1\]

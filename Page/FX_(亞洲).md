@@ -1,4 +1,4 @@
-> 本文内容由[FX \(亞洲\)](https://zh.wikipedia.org/wiki/FX \(亞洲\))转换而来。
+> 本文内容由[FX \(亞洲\)](https://zh.wikipedia.org/wiki/FX_\(亞洲\))转换而来。
 
 
 **FX**為美國[FX電視網的](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")[亞洲娛樂頻道](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，由[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")所有、[星空傳媒負責發送](https://zh.wikipedia.org/wiki/星空傳媒 "wikilink")。\[1\] 2012年，FX印度被FX亞洲取代。

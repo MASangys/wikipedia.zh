@@ -1,4 +1,4 @@
-> 本文内容由[AAA 3rd Anniversary Live 080922-080923 日本武道館](https://zh.wikipedia.org/wiki/AAA 3rd Anniversary Live 080922-080923 日本武道館)转换而来。
+> 本文内容由[AAA 3rd Anniversary Live 080922-080923 日本武道館](https://zh.wikipedia.org/wiki/AAA_3rd_Anniversary_Live_080922-080923_日本武道館)转换而来。
 
 
 『**3rd Anniversary Live 080922-080923 日本武道館**』是[日本](../Page/日本.md "wikilink")團體[AAA在](../Page/AAA_\(團體\).md "wikilink")2009年1月14日發售的第七個影像作品。

@@ -1,4 +1,4 @@
-> 本文内容由[SUPER LOVERS](https://zh.wikipedia.org/wiki/SUPER LOVERS)转换而来。
+> 本文内容由[SUPER LOVERS](https://zh.wikipedia.org/wiki/SUPER_LOVERS)转换而来。
 
 
 是日本漫畫家[阿部美幸](../Page/阿部美幸.md "wikilink")的耽美漫畫作品，作品講述一對年齡差距8歲的養兄弟的愛情故事。由於主角之一的弟弟在故事開始的年齡只有8歲，未成年前就與兄長有過度親密的行為，而成為議論甚至批評的焦點之一。2010年時於《Ciel》開始連載，2014年8月時移至《Emerald》連載至今。漫畫單行本由[角川書店](../Page/角川書店.md "wikilink")出版發行。2012年起外文譯本先有韓文版，次年有法文版。2016年4月起電視播放第一期，2016年9月中文版授權[台灣角川](../Page/台灣角川.md "wikilink")出版發行，次年起陸續出現中文、意大利文、德文譯本。

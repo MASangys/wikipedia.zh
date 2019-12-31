@@ -1,3 +1,6 @@
+> 本文内容由[InfiniBand](https://zh.wikipedia.org/wiki/InfiniBand)转换而来。
+
+
 **InfiniBand**（直译为“无限带宽”技术，缩写为**IB**）是一个用于[高性能计算的计算机网络通信标准](../Page/超级计算机.md "wikilink")，它具有极高的[吞吐量](../Page/吞吐量.md "wikilink")和极低的[延迟](https://zh.wikipedia.org/wiki/潜伏时间_\(工程学\) "wikilink")，用于计算机与计算机之间的数据互连。InfiniBand也用作服务器与存储系统之间的直接或交换互连，以及存储系统之间的互连。\[1\]
 
 截至2014年，它是超级计算机最常用的互连技术。和[英特尔](../Page/英特尔.md "wikilink")制造InfiniBand[主机总线适配器和](https://zh.wikipedia.org/wiki/主机总线适配器 "wikilink")[網路交換器](../Page/網路交換器.md "wikilink")，并根据2016年2月的报道，\[2\][甲骨文公司](../Page/甲骨文公司.md "wikilink")已经设计了自己的Infiniband交换机单元和服务器适配芯片，用于自己的产品线和第三方。Mellanox IB卡可用于[Solaris](../Page/Solaris.md "wikilink")、[RHEL](../Page/Red_Hat_Enterprise_Linux.md "wikilink")、、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[HP-UX](../Page/HP-UX.md "wikilink")、、\[3\] [AIX](../Page/IBM_AIX.md "wikilink")。\[4\]它被设计为[可扩展和使用](https://zh.wikipedia.org/wiki/可扩展性 "wikilink")的[网络拓扑](https://zh.wikipedia.org/wiki/网络拓扑 "wikilink")。

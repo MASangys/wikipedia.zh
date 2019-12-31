@@ -1,3 +1,6 @@
+> 本文内容由[JOY \(YUKI的单曲\)](https://zh.wikipedia.org/wiki/JOY_\(YUKI的单曲\))转换而来。
+
+
 「**JOY**」是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")9张单曲。2005年1月19日发行。
 
 ## 简介

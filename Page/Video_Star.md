@@ -1,3 +1,6 @@
+> 本文内容由[Video Star](https://zh.wikipedia.org/wiki/Video_Star)转换而来。
+
+
 《**Video Star**》（）是于2016年7月12日起在[MBC有线频道](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")中播出的[脱口秀](../Page/脱口秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。《Video Star》是MBC电视台播出的《[Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中衍生出的节目，\[1\]节目形式与《Radio Star》基本相同，不同的是《Video Star》的主持全部由女艺人担当。\[2\]
 
 ## 主持

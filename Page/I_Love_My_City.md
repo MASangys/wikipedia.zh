@@ -1,4 +1,4 @@
-> 本文内容由[I Love My City](https://zh.wikipedia.org/wiki/I Love My City)转换而来。
+> 本文内容由[I Love My City](https://zh.wikipedia.org/wiki/I_Love_My_City)转换而来。
 
 
 《**I Love My City**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[林佳儀](../Page/林佳儀.md "wikilink")的第四張專輯，在1996年10月19日推出。專輯的第一主打歌是大碟同名歌曲《I Love My City》，而第二主打歌則是《決定去愛》。

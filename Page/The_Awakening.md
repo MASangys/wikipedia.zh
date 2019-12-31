@@ -1,3 +1,6 @@
+> 本文内容由[The Awakening](https://zh.wikipedia.org/wiki/The_Awakening)转换而来。
+
+
 《**The Awakening**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第四張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年3月6日推出，共有6首歌曲，主打歌為《FINGERTIP》。
 
 ## 事件

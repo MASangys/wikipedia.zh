@@ -1,3 +1,6 @@
+> 本文内容由[DIXANADU](https://zh.wikipedia.org/wiki/DIXANADU)转换而来。
+
+
 《**DIXANADU**》是日本[視覺系](../Page/視覺系.md "wikilink")[哥德金屬搖滾樂團](https://zh.wikipedia.org/wiki/哥德金屬 "wikilink")  的第四張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2007年3月28日發行\[1\]，限定盤於2007年8月31日發行\[2\]，歐洲盤於2007年5月4日由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")  發行\[3\]。此作收錄了來自首張專輯《[Dix infernal](../Page/Dix_infernal.md "wikilink")》的兩支曲目《》和《》的重新編曲錄製版，並以[英文重命名為](https://zh.wikipedia.org/wiki/英文 "wikilink")《》和《》。
 
 ## 概述
@@ -17,17 +20,11 @@
 [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:Moi_dix_Mois音樂專輯](https://zh.wikipedia.org/wiki/Category:Moi_dix_Mois音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
-
 8.
-
 9.

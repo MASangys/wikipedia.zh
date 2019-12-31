@@ -1,4 +1,4 @@
-> 本文内容由[All My Loving](https://zh.wikipedia.org/wiki/All My Loving)转换而来。
+> 本文内容由[All My Loving](https://zh.wikipedia.org/wiki/All_My_Loving)转换而来。
 
 
 《》是一首[披头士乐队的歌曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，收录于1963年专辑《》中。该曲由[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")创作，署名为[列侬-麦卡特尼](https://zh.wikipedia.org/wiki/列侬-麦卡特尼 "wikilink")。它在加拿大以[单曲](../Page/单曲.md "wikilink")形式发行，登顶该国排行榜。尽管这首歌在英美两国都没有发行单曲，但它在广播上非常流行，促使[百代唱片以它为标题曲发行了](https://zh.wikipedia.org/wiki/百代唱片 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。1964年2月9日，该曲是披头士第一次在美国埃德·沙利文秀上登场时唱的第一首歌。

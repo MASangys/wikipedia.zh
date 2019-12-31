@@ -1,3 +1,6 @@
+> 本文内容由[Action \(NU\'EST迷你專輯\)](https://zh.wikipedia.org/wiki/Action_\(NU\'EST迷你專輯\))转换而来。
+
+
 **《Action》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")首張韓語迷你專輯，於2012年7月11日發行，主打歌曲為〈Action〉。
 
 ## 背景

@@ -1,4 +1,4 @@
-> 本文内容由[忘記悲傷的方法 Documentary of 乃木坂46](https://zh.wikipedia.org/wiki/忘記悲傷的方法 Documentary of 乃木坂46)转换而来。
+> 本文内容由[忘記悲傷的方法 Documentary of 乃木坂46](https://zh.wikipedia.org/wiki/忘記悲傷的方法_Documentary_of_乃木坂46)转换而来。
 
 
 《**忘記悲傷的方法 Documentary of 乃木坂46**》（），[2015年](https://zh.wikipedia.org/wiki/2015年電影 "wikilink")[日本](../Page/日本.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")，以日本大型女子組合[乃木坂46為主題](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。這部電影於2015年7月10日於日本全國上映。

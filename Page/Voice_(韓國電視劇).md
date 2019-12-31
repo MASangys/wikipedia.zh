@@ -1,3 +1,6 @@
+> 本文内容由[Voice \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Voice_\(韓國電視劇\))转换而来。
+
+
 《**Voice**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年1月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series）。由《[詐欺遊戲](../Page/詐欺遊戲_\(韓國電視劇\).md "wikilink")》金弘善導演與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》[馬珍媛](../Page/馬珍媛.md "wikilink")作家共同打造。本劇講述因一次事故而失去家人的刑警與112舉報中心隊員，在犯罪率第一、檢舉率全國最低的盛雲支廳「112舉報中心黃金時間隊」工作，並追逐殺害他們家人的連鎖殺人犯、解決案件的過程。
 
 《Voice》在播放期间，创下了OCN史上最高收視率的韓劇。\[1\] 然而因为暴力残忍场面引起争论，韩国放送通信审议委员会对它给了劝告处分。\[2\] 为了将真实的场景拍摄出来，也把11至12集观看等级将调整到19岁以上可观看。\[3\]

@@ -1,4 +1,4 @@
-> 本文内容由[Ubisoft Massive](https://zh.wikipedia.org/wiki/Ubisoft Massive)转换而来。
+> 本文内容由[Ubisoft Massive](https://zh.wikipedia.org/wiki/Ubisoft_Massive)转换而来。
 
 
 **Ubisoft Massive**，是一家总部位于瑞典[马尔默](../Page/马尔默.md "wikilink")的瑞典游戏工作室。从2008年开始该公司为育碧所有。\[1\]

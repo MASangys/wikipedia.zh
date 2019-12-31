@@ -1,3 +1,6 @@
+> 本文内容由[WILD SPICE](https://zh.wikipedia.org/wiki/WILD_SPICE)转换而来。
+
+
 《**WILD SPICE**》是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[奧井雅美](../Page/奧井雅美.md "wikilink")的個人總計第34張單曲。2006年8月9日由（現在改名Dwango User Entertainment）發行。
 
 ## 概要

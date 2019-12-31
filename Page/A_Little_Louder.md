@@ -1,3 +1,6 @@
+> 本文内容由[A Little Louder](https://zh.wikipedia.org/wiki/A_Little_Louder)转换而来。
+
+
 《**A Little Louder**》，是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[小塵埃](../Page/小塵埃.md "wikilink")的第二張個人[粵語流行音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2016年9月26日推出。
 
 ## 創作意念

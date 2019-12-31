@@ -1,4 +1,4 @@
-> 本文内容由[粉紅噪音樂團 PinkNoise](https://zh.wikipedia.org/wiki/粉紅噪音樂團 PinkNoise)转换而来。
+> 本文内容由[粉紅噪音樂團 PinkNoise](https://zh.wikipedia.org/wiki/粉紅噪音樂團_PinkNoise)转换而来。
 
 
 **粉紅噪音**（英譯：Pink Noise），2010年成軍於台北，為台灣新生代 Progressive Rock 創作樂團，曲風受歐美前衛金屬樂團影響。

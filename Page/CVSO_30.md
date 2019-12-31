@@ -1,4 +1,4 @@
-> 本文内容由[CVSO 30](https://zh.wikipedia.org/wiki/CVSO 30)转换而来。
+> 本文内容由[CVSO 30](https://zh.wikipedia.org/wiki/CVSO_30)转换而来。
 
 
 **CVSO 30**是一顆距離地球約1200光年的[金牛T星](../Page/金牛T星.md "wikilink")，在天球上位於[獵戶座](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")\[1\]，該恆星周圍有兩顆[太陽系外行星](../Page/太陽系外行星.md "wikilink")候選天體（CVSO 30b與c）。

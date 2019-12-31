@@ -1,4 +1,4 @@
-> 本文内容由[Beautiful Angel](https://zh.wikipedia.org/wiki/Beautiful Angel)转换而来。
+> 本文内容由[Beautiful Angel](https://zh.wikipedia.org/wiki/Beautiful_Angel)转换而来。
 
 
 《**Beautiful Angel**》為[歌手](../Page/歌手.md "wikilink")[蕭瀟](../Page/蕭瀟.md "wikilink")首張個人專輯，於2003年1月8日發行。專輯的製作歷時一年，唱片風格融合流行、搖滾、民謠等元素。\[1\]

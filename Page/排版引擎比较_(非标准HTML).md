@@ -1,4 +1,4 @@
-> 本文内容由[排版引擎比较 \(非标准HTML\)](https://zh.wikipedia.org/wiki/排版引擎比较 \(非标准HTML\))转换而来。
+> 本文内容由[排版引擎比较 \(非标准HTML\)](https://zh.wikipedia.org/wiki/排版引擎比较_\(非标准HTML\))转换而来。
 
 
 下表比较了不赞成使用和专有的[HTML](../Page/HTML.md "wikilink")[元素与](../Page/HTML元素.md "wikilink")[属性对一些](../Page/HTML.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的支持和兼容性。请参阅各个产品的条目以获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。

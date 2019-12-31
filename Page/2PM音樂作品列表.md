@@ -1,3 +1,6 @@
+> 本文内容由[2PM音樂作品列表](https://zh.wikipedia.org/wiki/2PM音樂作品列表)转换而来。
+
+
 南韓男子組合**[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")**現隸屬於[JYP娛樂](../Page/JYP娛樂.md "wikilink")，迄今共發行11張正規專輯、3張合輯、1張迷你專輯與40張單曲。
 
 2PM於2008年以《》出道，憑2009年單曲〈Again & Again〉正式打開知名度。在隊長[朴載範](../Page/朴載範.md "wikilink")因爭議事件離開後，其餘成員也從固定節目中下車\[1\]。2009年9月，2PM以6人之姿攜正規專輯《[01:59PM](https://zh.wikipedia.org/wiki/01:59PM "wikilink")》重返歌壇，主打曲為〈Heartbeast〉，此次回歸空降多個專輯榜與單曲榜冠軍\[2\]，同時獲得\[3\]。隔年，2PM發行單曲《[Don't Stop Can't Stop](../Page/Don't_Stop_Can't_Stop.md "wikilink")》及迷你專輯《》，均取得韓國[Gaon Chart冠軍](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。此外儘管專輯並未於美國當地宣傳，《Still 02:00PM》仍在2010年11月1日登上[告示牌世界專輯榜第](https://zh.wikipedia.org/wiki/告示牌世界專輯榜 "wikilink")13名。\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[Team SIII Waiting Stage「天才少女日記」公演](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「天才少女日記」公演)转换而来。
+
+
 **SHY48 Team SIII Waiting Stage「天才少女日記」公演**是[SHY48](../Page/SHY48.md "wikilink")的劇場公演。此套公演同時為SHY48 Team SIII的第二套公演，也是將姊妹團體原有曲庫組合而成的復刻公演\[1\]\[2\]。
 
 ## 概要
@@ -69,9 +72,7 @@
 [Category:SNH48_Group剧场公演](https://zh.wikipedia.org/wiki/Category:SNH48_Group剧场公演 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.

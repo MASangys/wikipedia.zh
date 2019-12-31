@@ -1,3 +1,6 @@
+> 本文内容由[MHC1類分子](https://zh.wikipedia.org/wiki/MHC1類分子)转换而来。
+
+
 [MHC_Class_1.svg](https://zh.wikipedia.org/wiki/File:MHC_Class_1.svg "fig:MHC_Class_1.svg") **MHC1類分子**（MHC class I），爲兩種MHC（[主要組織相容性複合物](https://zh.wikipedia.org/wiki/主要組織相容性複合物 "wikilink")）分子之一，能夠與長8-13[氨基酸](../Page/氨基酸.md "wikilink")殘基的內源性[肽](../Page/肽.md "wikilink")段結合，並將之呈遞到細胞表面。MHC1類分子由一條較長的重鏈（α鏈）和一條較短的輕鏈（β）組成。MHC1類分子的輕鏈又稱爲[β-2微球蛋白](https://zh.wikipedia.org/wiki/Β2微球蛋白 "wikilink")（β2m），並非由MHC基因編碼。人β2m由15號染色體上的*B2M*基因編碼（人HLA（在人體內MHC稱爲HLA，[人白細胞抗原](https://zh.wikipedia.org/wiki/人白細胞抗原 "wikilink")（Human Leukocyte Antigen）基因位於6號染色體上）\[1\]\[2\]。MHC1類分子的功能爲呈遞內源性抗原，並激活[CD8+ T細胞](https://zh.wikipedia.org/wiki/細胞毒性T細胞 "wikilink")（細胞毒性T細胞，CTL）。
 
 與不同，MHC1類分子在哺乳動物的大部分細胞中都有分佈。\[3\]。可以將MHC1類分子比作細胞的「告示板」，它能夠將細胞內肽（蛋白質）的合成情況展示給CD8+ T細胞，如果後者檢測到不正常之處（如細胞感染病毒時，病毒的蛋白質就會被MHC1類分子呈遞到細胞表面），CD8+ T細胞就會將這個細胞殺死\[4\]。

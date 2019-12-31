@@ -1,3 +1,6 @@
+> 本文内容由[P.O.P](https://zh.wikipedia.org/wiki/P.O.P)转换而来。
+
+
 **P.O.P**（朝鲜语：**피오피**），是DWM娛樂旗下的[女子音乐团体](../Page/女子音乐组合.md "wikilink")\[1\]，團名為“Puzzle Of POP”的縮寫，有著「為了解開流行音樂之謎而聚集一起的六名偵探團」的意思。\[2\] P.O.P是由[MAMAMOO及](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[VROMANCE](../Page/VROMANCE.md "wikilink")所屬社[RBW Ent.負責進行培訓及製作](../Page/Rainbow_Bridge_World.md "wikilink")，管理及經紀部分是歸屬於DWM Entertainment，組合最初成員有Haeri、A-Hyeong、MISO、Seol、Yeonha、Yeonju六名成員。2017年7月26日携迷你专辑《Puzzle Of POP》正式出道。\[3\]\[4\]2017年10月24日，成员Yeonha因健康问题退出组合，现今成员为：Haeri、A-Hyeong、MISO、Seol、Yeonju。
 
 ## 經歷

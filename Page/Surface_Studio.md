@@ -1,3 +1,6 @@
+> 本文内容由[Surface Studio](https://zh.wikipedia.org/wiki/Surface_Studio)转换而来。
+
+
 **Surface Studio**是[微软](../Page/微软.md "wikilink")推出的运行[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[Windows 10的](../Page/Windows_10.md "wikilink")[一体机产品](https://zh.wikipedia.org/wiki/一体机 "wikilink")，于2016年10月26日正式发布\[1\]，是[Microsoft Surface系列的新产品](../Page/Microsoft_Surface.md "wikilink")。它拥有一块支持[多点触摸和数字墨水的](https://zh.wikipedia.org/wiki/多点触摸 "wikilink")28[英寸PixelSense显示屏](https://zh.wikipedia.org/wiki/英寸 "wikilink")，[分辨率](../Page/分辨率.md "wikilink")为4500x3000，可以通过放低屏幕变成专业数字画板\[2\]。Surface Studio一共有三种版本，售价从2999美元到4199美元不等。
 
 2018年10月3日，微软发布 Surface Studio 2，对其处理器、显卡、触摸屏及硬盘等配置进行了升级。\[3\]

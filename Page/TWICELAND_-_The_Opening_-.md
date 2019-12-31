@@ -1,3 +1,6 @@
+> 本文内容由[TWICELAND - The Opening -](https://zh.wikipedia.org/wiki/TWICELAND_-_The_Opening_-)转换而来。
+
+
 **TWICELAND - The Opening -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2017年舉辦的第一次單獨巡迴演唱會。
 
 ## 概述

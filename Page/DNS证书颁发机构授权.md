@@ -1,3 +1,6 @@
+> 本文内容由[DNS证书颁发机构授权](https://zh.wikipedia.org/wiki/DNS证书颁发机构授权)转换而来。
+
+
 **DNS证书颁发机构授权**（，[简称](https://zh.wikipedia.org/wiki/简称 "wikilink")：）是一种政策机制，允许[域名](../Page/域名.md "wikilink")持有人指定可以为其域签发证书的[证书颁发机构](../Page/证书颁发机构.md "wikilink")。该政策凭借一个新的[域名系统](../Page/域名系统.md "wikilink")[资源记录](../Page/域名伺服器記錄類型列表.md "wikilink")“CAA”来实现。
 
 这一标准由计算机科学家和罗布·斯特拉德林（）起草，旨在应对公众对证书颁发机构安全性的担忧。它是由[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")建议的一项[互联网标准](https://zh.wikipedia.org/wiki/互联网标准 "wikilink")。

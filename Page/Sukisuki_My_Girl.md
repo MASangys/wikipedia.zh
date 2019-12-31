@@ -1,3 +1,6 @@
+> 本文内容由[Sukisuki My Girl](https://zh.wikipedia.org/wiki/Sukisuki_My_Girl)转换而来。
+
+
 《**Sukisuki♡My Girl**》（）是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的出道單曲。1998年11月26日由[環球唱片（舊名水星音樂娛樂）發行](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 解說

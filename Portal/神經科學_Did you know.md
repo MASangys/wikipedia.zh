@@ -1,3 +1,6 @@
+> 本文内容由[Portal:神經科學/Did you know](https://zh.wikipedia.org/wiki/Portal:神經科學/Did_you_know)转换而来。
+
+
 [Human_brain_NIH.jpg](https://zh.wikipedia.org/wiki/File:Human_brain_NIH.jpg "fig:Human_brain_NIH.jpg") ...[神經脈衝的速度可達每秒](https://zh.wikipedia.org/wiki/神經脈衝 "wikilink")120公尺！
 
 ...that the [amygdala](https://zh.wikipedia.org/wiki/amygdala "wikilink") plays an important role in the processing and [memory](https://zh.wikipedia.org/wiki/memory "wikilink") of [emotional reactions](https://zh.wikipedia.org/wiki/emotions "wikilink")?

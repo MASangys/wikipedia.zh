@@ -1,3 +1,6 @@
+> 本文内容由[POSITIVE](https://zh.wikipedia.org/wiki/POSITIVE)转换而来。
+
+
 《**POSITIVE**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[森川美穗](../Page/森川美穗.md "wikilink")個人總計第15張單曲。1991年12月18日由[東芝EMI](../Page/EMI音樂日本.md "wikilink")（現已併入改名[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink") [EMI唱片日本](../Page/環球音樂_\(日本\).md "wikilink")）發行。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[Hanokage](https://zh.wikipedia.org/wiki/Hanokage)转换而来。
+
+
 **Hanokage**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[群馬縣](../Page/群馬縣.md "wikilink")\[1\]。
 
 ## 簡介

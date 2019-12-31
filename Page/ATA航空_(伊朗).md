@@ -1,4 +1,4 @@
-> 本文内容由[ATA航空 \(伊朗\)](https://zh.wikipedia.org/wiki/ATA航空 \(伊朗\))转换而来。
+> 本文内容由[ATA航空 \(伊朗\)](https://zh.wikipedia.org/wiki/ATA航空_\(伊朗\))转换而来。
 
 
 [ATA_Airlines_A320.jpg](https://zh.wikipedia.org/wiki/File:ATA_Airlines_A320.jpg "fig:ATA_Airlines_A320.jpg") [ATA_Airlines_MD-83.jpg](https://zh.wikipedia.org/wiki/File:ATA_Airlines_MD-83.jpg "fig:ATA_Airlines_MD-83.jpg") **ATA航空** （，[IATA代码](https://zh.wikipedia.org/wiki/国际航空运输协会航空公司代码 "wikilink")：**I3**；[ICAO代码](../Page/国际民航组织航空公司代码.md "wikilink")：**TBZ**，[呼号](https://zh.wikipedia.org/wiki/航空公司呼号 "wikilink")：**ATALAR**）是一家枢纽机场设在[大不里士](../Page/大不里士.md "wikilink")的的伊朗航空公司。ATA航空运营国内和去其他[中东地区国家和](https://zh.wikipedia.org/wiki/中东地区 "wikilink")[欧洲](../Page/欧洲.md "wikilink")的国际航班。

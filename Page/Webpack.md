@@ -1,3 +1,6 @@
+> 本文内容由[Webpack](https://zh.wikipedia.org/wiki/Webpack)转换而来。
+
+
 **Webpack** 是一個[開源的](../Page/开放源代码.md "wikilink")[前端打包工具](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")。Webpack 提供了[前端開發缺乏的](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")[模組化開發方式](https://zh.wikipedia.org/wiki/模組_\(程式設計\) "wikilink")，將各種靜態資源視為[模組](https://zh.wikipedia.org/wiki/模組_\(程式設計\) "wikilink")，並從它生成優化過的[程式碼](https://zh.wikipedia.org/wiki/程式碼 "wikilink")。\[1\]
 
 Webpack可以從[終端](../Page/終端.md "wikilink")、或是更改 `webpack.config.js` 來設定各項功能。\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[約翰·J·班瓦](https://zh.wikipedia.org/wiki/約翰·J·班瓦)转换而来。
+
+
 **約翰·約瑟夫·班瓦**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[加利福尼亚州参议院與](https://zh.wikipedia.org/wiki/加利福尼亚州参议院 "wikilink")[众议院議員](https://zh.wikipedia.org/wiki/加利福尼亚州众议院 "wikilink")。
 
 ## 生平

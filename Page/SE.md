@@ -1,3 +1,6 @@
+> 本文内容由[SE](https://zh.wikipedia.org/wiki/SE)转换而来。
+
+
 ## 艺术和媒体
 
   - [瑟](../Page/瑟.md "wikilink")，中国传统乐器

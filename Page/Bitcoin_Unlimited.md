@@ -1,3 +1,6 @@
+> 本文内容由[Bitcoin Unlimited](https://zh.wikipedia.org/wiki/Bitcoin_Unlimited)转换而来。
+
+
 **Bitcoin Unlimited** (比特幣無限)是連接的完整節點(full node)軟件客戶端。
 
 與[比特币核心](../Page/比特币核心.md "wikilink")(Bitcoin Core)客戶端硬編碼的塊大小限制到1MB (1,048,576位元組)相比， Bitcoin Unlimited刪除了區塊大小的限制，允許用戶通過協商來確定塊大小。它是比特幣協議硬分叉的一種，它可以從根本上解除區塊大小的限制。

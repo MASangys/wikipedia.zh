@@ -1,3 +1,6 @@
+> 本文内容由[UTADA HIKARU SINGLE CLIP COLLECTION VOL.4](https://zh.wikipedia.org/wiki/UTADA_HIKARU_SINGLE_CLIP_COLLECTION_VOL.4)转换而来。
+
+
 《**UTADA HIKARU SINGLE CLIP COLLECTION VOL.4**》為[宇多田光](../Page/宇多田光.md "wikilink")第四部影音特輯，於2006年9月27日以[DVD形式發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

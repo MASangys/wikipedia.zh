@@ -1,3 +1,6 @@
+> 本文内容由[Lovelyz8](https://zh.wikipedia.org/wiki/Lovelyz8)转换而来。
+
+
 《**Lovelyz8**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第一個迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2015年10月1日發布。主打曲為《Ah-Choo》，先行曲為《Shooting star》，於2015年9月14日發行。出道前因惡性言論而暫停活動的[徐智秀](../Page/徐智秀.md "wikilink")隨本張專輯回歸。
 
 ## 概要

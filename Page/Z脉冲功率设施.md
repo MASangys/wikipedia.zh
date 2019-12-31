@@ -1,3 +1,6 @@
+> 本文内容由[Z脉冲功率设施](https://zh.wikipedia.org/wiki/Z脉冲功率设施)转换而来。
+
+
 [The_Z_Machine_(8056998596).jpg](https://zh.wikipedia.org/wiki/File:The_Z_Machine_\(8056998596\).jpg "fig:The_Z_Machine_(8056998596).jpg")，供电设备浸没在2百万升（(2,000 m³)）和2.3百万升（2,300 m³）[去离子水的同心室中](https://zh.wikipedia.org/wiki/去离子水 "wikilink")，作为[绝缘体](https://zh.wikipedia.org/wiki/绝缘体 "wikilink")。 然而，当机器放电时的[电磁脉冲](../Page/电磁脉冲.md "wikilink")导致令人印象深刻的闪电，被称为“闪络(flashover)”，其可以在房间中的许多金属物体周围被看到。\]\]
 
 **Z脉冲功率设施**()，非正式称为"Z机"，是世界上最大的高频电磁波发生器，设计用于在极端温度和压力条件下测试材料。自1996年10月重新装修以来\[1\]，它主要被用作[惯性约束聚变](https://zh.wikipedia.org/wiki/惯性约束聚变 "wikilink")（ICF）研究设施。 由[桑迪亚国家实验室](../Page/桑迪亚国家实验室.md "wikilink")操作，它收集数据以帮助[核武器](../Page/核武器.md "wikilink")和最终的[核聚变脉冲发电厂](https://zh.wikipedia.org/wiki/核動力 "wikilink")(nuclear power)的[计算机建模](../Page/计算机模拟.md "wikilink")。 Z机位于[新墨西哥州](../Page/新墨西哥州.md "wikilink")[阿尔伯克基的桑迪亚的主要场所](https://zh.wikipedia.org/wiki/阿尔伯克基 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Duel](https://zh.wikipedia.org/wiki/Duel)转换而来。
+
+
 《**Duel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年6月3日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series）。本劇由《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》金允珠編劇和《[又，吳海英](../Page/又，吳海英.md "wikilink")》李鍾在導演合作，講述的是與複製人相遇後被捲入驚人事件中的刑警張得天（[鄭在詠](../Page/鄭在詠.md "wikilink") 飾）、對張得天與複製人之間的關係產生疑問並開始追踪真相的崔朝惠（[金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink") 飾），與為了生存下去不得不對決，分為善惡兩方的複製人（[梁世宗](../Page/梁世宗_\(韓國\).md "wikilink") 飾）之間的故事。另外，[Viu](../Page/Viu.md "wikilink")和[tvN Asia將會同步播出](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")，僅在新加坡播出，tvN Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
 
 ## 演員陣容

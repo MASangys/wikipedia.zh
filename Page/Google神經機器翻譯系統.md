@@ -1,3 +1,6 @@
+> 本文内容由[Google神經機器翻譯系統](https://zh.wikipedia.org/wiki/Google神經機器翻譯系統)转换而来。
+
+
 **Google神經機器翻譯系統**（，简写：GNMT），是[Google](../Page/Google.md "wikilink")開發的（NMT）系統，於2016年11月推出，它使用[人工神經網絡來提高](../Page/人工神经网络.md "wikilink")[Google翻譯的流暢度和準確性](../Page/Google翻译.md "wikilink")。\[1\]\[2\]\[3\]Google神經機器翻譯系統通過應用（EBMT）[機器翻譯方法來改進翻譯質量](https://zh.wikipedia.org/wiki/機器翻譯 "wikilink")，系統会從數百萬個示例中學習。\[4\]翻譯系統提出的系統學習架構首先通過[Google翻譯支持的一百多種語言進行了測試](https://zh.wikipedia.org/wiki/Google翻譯 "wikilink")。\[5\]隨著大型框架的发展，系統会隨著時間的推移學習，做出更好，更自然的翻譯。\[6\]GNMT能夠一次过翻譯整句句子，而不是逐字翻譯。\[7\]\[8\]
 
 ## 历史
@@ -27,50 +30,29 @@ GNMT系統改進了以前的Google翻譯系统，GNMT系統可以處理「零點
 [Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink") [Category:计算语言学](https://zh.wikipedia.org/wiki/Category:计算语言学 "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:神經網路](https://zh.wikipedia.org/wiki/Category:神經網路 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17. [Google Switches to its Own Translation System](http://googlesystem.blogspot.com/2007/10/google-translate-switches-to-googles.html), October 22, 2007
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.

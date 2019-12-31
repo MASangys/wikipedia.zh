@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 130 Classic](https://zh.wikipedia.org/wiki/Nokia_130_Classic)转换而来。
+
+
 **Nokia 130 Classic**是[微軟行動](../Page/微軟行動.md "wikilink")生產的[Nokia直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，2014年8月11日發布。\[1\]\[2\]
 
 ## 規格
@@ -39,7 +42,7 @@
 
 ## 外部連結
 
-  - [Nokia 130 Classic——全球](https://www.nokia.com/en_int/phones/nokia-130-classic)
+  - [Nokia 130 Classic——全球](https://web.archive.org/web/20170907231916/http://www.nokia.com/en_int/phones/nokia-130-classic)
 
   - [Nokia 130 Classic——中國](https://www.nokia.com/zh_int/phones/nokia-130-classic)
 

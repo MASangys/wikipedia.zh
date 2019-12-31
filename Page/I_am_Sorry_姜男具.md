@@ -1,3 +1,6 @@
+> 本文内容由[I am Sorry 姜男具](https://zh.wikipedia.org/wiki/I_am_Sorry_姜男具)转换而来。
+
+
 《'''I am Sorry 姜男具 '''》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年12月19日起播出的[晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")，由《[Punch](../Page/Punch_\(電視劇\).md "wikilink")》金孝彥導演執導與《[TV小說－恩熙](../Page/恩熙.md "wikilink")》安洪蘭作家合作打造。此劇講述原本與丈夫擁有平凡生活的侔娥，其夫突然被發現為財閥集團失散多年的兒子後，從而逐漸被背叛及陷害的故事。
 
 ## 演員陣容

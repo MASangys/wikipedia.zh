@@ -1,4 +1,4 @@
-> 本文内容由[Solo \(借记卡\)](https://zh.wikipedia.org/wiki/Solo \(借记卡\))转换而来。
+> 本文内容由[Solo \(借记卡\)](https://zh.wikipedia.org/wiki/Solo_\(借记卡\))转换而来。
 
 
 **Solo**是[英国发行的一种借记卡品牌](https://zh.wikipedia.org/wiki/英国 "wikilink")，是当时已有的[Switch卡的姊妹卡](../Page/Switch_\(借记卡\).md "wikilink")。1997年7月1日由Switch卡公司推出，是针对没有资格申请Switch（或随后的）[支票账户的持卡人](https://zh.wikipedia.org/wiki/支票账户 "wikilink")（如青少年）提供的一款储蓄卡产品。Solo卡于2011年3月31日永久退出市场。\[1\]\[2\]

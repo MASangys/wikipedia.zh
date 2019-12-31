@@ -1,3 +1,6 @@
+> 本文内容由[模块:Carousel](https://zh.wikipedia.org/wiki/模块:Carousel)转换而来。
+
+
 local p = {} local lang = mw.language.new('zh')
 
 function tostringOrNil(value)

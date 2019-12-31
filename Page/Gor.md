@@ -1,3 +1,6 @@
+> 本文内容由[Gor](https://zh.wikipedia.org/wiki/Gor)转换而来。
+
+
 **Gor**是美國作家John Norman在1960年代先後完成的一系列[反地球小說](https://zh.wikipedia.org/wiki/反地球 "wikilink")。以其包含哲學、情色和奇幻色彩的寫作風格而出名。本書最主要也最有名的特色為高度的[父權社會架構](https://zh.wikipedia.org/wiki/父權社會 "wikilink")，女性在Gor的世界中常被高度奴隸化。依據[科幻小說百科全書](../Page/科幻小說百科全書.md "wikilink")的評價，Norman的「性哲學」是「廣為厭惡的」\[1\]。儘管受到女權組織及媒體的高度抨擊，本書無庸置疑的啟發了一系列的[次文化<ref>{{Cite web](../Page/次文化.md "wikilink")\[\[Gor\#cite_note-2|<span class="mw-reflink-text">\[2\]</span>\]\]。
 
 ## 簡介

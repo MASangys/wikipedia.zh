@@ -1,4 +1,4 @@
-> 本文内容由[FILM LOTUS Ⅳ](https://zh.wikipedia.org/wiki/FILM LOTUS Ⅳ)转换而来。
+> 本文内容由[FILM LOTUS Ⅳ](https://zh.wikipedia.org/wiki/FILM_LOTUS_Ⅳ)转换而来。
 
 
 《**FILM LOTUS Ⅳ**》，日本女歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的第四張音樂錄影帶選集。2005年3月24日發行。

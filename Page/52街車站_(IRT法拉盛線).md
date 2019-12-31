@@ -1,3 +1,6 @@
+> 本文内容由[52街車站 \(IRT法拉盛線\)](https://zh.wikipedia.org/wiki/52街車站_\(IRT法拉盛線\))转换而来。
+
+
 **52街車站**（），又稱「52街-林肯大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線](../Page/IRT法拉盛線.md "wikilink")一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")52街及，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構

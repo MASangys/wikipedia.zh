@@ -1,3 +1,6 @@
+> 本文内容由[To All Tha Dreamers](https://zh.wikipedia.org/wiki/To_All_Tha_Dreamers)转换而来。
+
+
 《**To All Tha Dreamers**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2005年1月1日由[Sony Music Entertainment發行](../Page/SME_Records.md "wikilink")。此外這裡也記述SOUL'd OUT的[同名專輯](https://zh.wikipedia.org/wiki/To_All_Tha_Dreamers#專輯 "wikilink")。
 
 發行時名稱應該是『To All **The** Dreamers』，但確定正式的名稱是『To All **Tha** Dreamers』，所以並非誤植。
@@ -89,12 +92,9 @@ SOUL'd OUT表示此專輯的實際錄製時間是在2004年夏天開始進行。
 [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:烘焙王](https://zh.wikipedia.org/wiki/Category:烘焙王 "wikilink")
 
 1.
-
 2.  2003年8月發行的首張與以來，不包含同年12月發行的混音專輯《》。
-
 3.
 4.
 5.
 6.
-
 7.

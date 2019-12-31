@@ -1,4 +1,4 @@
-> 本文内容由[模块:VG Series Reviews](https://zh.wikipedia.org/wiki/模块:VG Series Reviews)转换而来。
+> 本文内容由[模块:VG Series Reviews](https://zh.wikipedia.org/wiki/模块:VG_Series_Reviews)转换而来。
 
 
 local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')

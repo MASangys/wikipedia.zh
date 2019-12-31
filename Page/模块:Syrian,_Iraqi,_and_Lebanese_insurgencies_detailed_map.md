@@ -1,3 +1,6 @@
+> 本文内容由[模块:Syrian, Iraqi, and Lebanese insurgencies detailed map](https://zh.wikipedia.org/wiki/模块:Syrian,_Iraqi,_and_Lebanese_insurgencies_detailed_map)转换而来。
+
+
 return {
 
 `   secondaryModules = {`

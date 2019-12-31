@@ -1,3 +1,6 @@
+> 本文内容由[TensorFlow](https://zh.wikipedia.org/wiki/TensorFlow)转换而来。
+
+
 **TensorFlow**是一个[开源](../Page/开放源代码.md "wikilink")[软件库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，用于各种感知和语言理解任务的[机器学习](../Page/机器学习.md "wikilink")。\[1\]目前被50个团队\[2\]用于研究和生产许多[Google商业产品](../Page/Google产品列表.md "wikilink")\[3\]，如[语音辨識](https://zh.wikipedia.org/wiki/语音辨識 "wikilink")、[Gmail](../Page/Gmail.md "wikilink")、[Google 相册和搜索](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")\[4\]，其中许多产品曾使用过其前任软件DistBelief。
 
 TensorFlow最初由[谷歌大脑](../Page/谷歌大脑.md "wikilink")团队开发，用于[Google](../Page/Google.md "wikilink")的研究和生产，于2015年11月9日在[Apache 2.0开源许可证下发布](https://zh.wikipedia.org/wiki/Apache_2.0 "wikilink")。\[5\]\[6\]

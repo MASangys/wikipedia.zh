@@ -1,3 +1,6 @@
+> 本文内容由[欢乐的种子 \(YUKI的单曲\)](https://zh.wikipedia.org/wiki/欢乐的种子_\(YUKI的单曲\))转换而来。
+
+
 \-{「}-**欢乐的种子**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")12张单曲。
 
 ## 简介

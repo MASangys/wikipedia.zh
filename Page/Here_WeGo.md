@@ -1,4 +1,4 @@
-> 本文内容由[Here WeGo](https://zh.wikipedia.org/wiki/Here WeGo)转换而来。
+> 本文内容由[Here WeGo](https://zh.wikipedia.org/wiki/Here_WeGo)转换而来。
 
 
 **HERE**是一款由[諾基亞爲](../Page/诺基亚.md "wikilink")[Android](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows Phone平臺開發的地圖移動應用程式](../Page/Windows_Phone.md "wikilink")。 在發佈Windows Phone版幾年后， 該應用2014年年底和2015年年初在[Google Play和](../Page/Google_Play.md "wikilink")[iOS商店發售](https://zh.wikipedia.org/wiki/iOS "wikilink")。 地圖每月更新兩至三次。\[1\]

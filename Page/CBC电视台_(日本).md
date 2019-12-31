@@ -1,3 +1,6 @@
+> 本文内容由[CBC电视台 \(日本\)](https://zh.wikipedia.org/wiki/CBC电视台_\(日本\))转换而来。
+
+
 **株式会社CBC电视**（）是[日本](../Page/日本.md "wikilink")的一家以[中京广域圈](https://zh.wikipedia.org/wiki/中京广域圈 "wikilink")（[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")、[岐阜县](../Page/岐阜县.md "wikilink")、[三重县](../Page/三重县.md "wikilink")）为放送地域的[电视台](../Page/电视台.md "wikilink")，由[中部日本放送](../Page/中部日本放送.md "wikilink")全资控股，为[JNN联播网成员](https://zh.wikipedia.org/wiki/JNN "wikilink")，[呼号为](https://zh.wikipedia.org/wiki/呼号 "wikilink")“JOGX-DTV”。
 
 ## 概况

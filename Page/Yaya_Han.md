@@ -1,4 +1,4 @@
-> 本文内容由[Yaya Han](https://zh.wikipedia.org/wiki/Yaya Han)转换而来。
+> 本文内容由[Yaya Han](https://zh.wikipedia.org/wiki/Yaya_Han)转换而来。
 
 
 **Yaya Han**（）是一名[華裔美國人](https://zh.wikipedia.org/wiki/華裔美國人 "wikilink")[cosplayer](https://zh.wikipedia.org/wiki/cosplayer "wikilink")、[模特兒](../Page/模特兒.md "wikilink")和劇裝設計師\[1\]，經常在cosplay比賽擔任評判。她在[Syfy](../Page/Syfy.md "wikilink")的真人秀《》中主演\[2\]，以及在的《**》中擔任嘉賓評判\[3\]。Yaya於2014年被稱為十大最受歡迎cosplayer之一。\[4\]

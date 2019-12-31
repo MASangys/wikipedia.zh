@@ -1,3 +1,6 @@
+> 本文内容由[第二次告白 \(BTOB單曲\)](https://zh.wikipedia.org/wiki/第二次告白_\(BTOB單曲\))转换而来。
+
+
 **第二次告白**（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")於2013年4月10日發行的第二張韓文單曲，描述為挽回喜歡的女孩，決定向她進行第二次告白的心情。\[1\]\[2\]
 
 ## 曲目

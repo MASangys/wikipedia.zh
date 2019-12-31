@@ -1,3 +1,6 @@
+> 本文内容由[Vue.js](https://zh.wikipedia.org/wiki/Vue.js)转换而来。
+
+
 **Vue.js**（，或简称为**Vue**）是一个用于创建用户界面的[开源](../Page/开源软件.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")框架，也是一个创建[单页应用](../Page/单页应用.md "wikilink")的[Web应用框架](../Page/Web应用框架.md "wikilink")\[1\]。 2016年一项针对JavaScript的调查表明，Vue有着89%的开发者满意度。\[2\] 在[GitHub](../Page/GitHub.md "wikilink")上，该项目平均每天能收获95颗星，\[3\]\[4\]为Github有史以来星标数第3多的项目。\[5\]
 
 ## 综述
@@ -70,38 +73,21 @@ Vue在插入、更新或者移除DOM时，提供多种不同方式的应用过�
 [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink") [Category:Web应用框架](https://zh.wikipedia.org/wiki/Category:Web应用框架 "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.

@@ -1,3 +1,6 @@
+> 本文内容由[RRDtool](https://zh.wikipedia.org/wiki/RRDtool)转换而来。
+
+
 RRDtool (輪替型資料庫工具, round-robin database tool) 旨在處理[時間序列](../Page/時間序列.md "wikilink")資料，例如網路頻寬、溫度或CPU負載。 資料儲存在[環形緩衝區](../Page/環形緩衝區.md "wikilink")為基底的資料庫中，因此系統儲存佔用量隨時間保持恆定。不同於[循環制的計算機科學概念](https://zh.wikipedia.org/wiki/循環制 "wikilink")。
 
 也包括以圖形格式提取循環資料的工具。 綁定程式語言Perl、Python、Ruby、Tcl、PHP和Lua。有一個獨立且完整的Java實施稱為rrd4j。

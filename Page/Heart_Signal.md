@@ -1,3 +1,6 @@
+> 本文内容由[Heart Signal](https://zh.wikipedia.org/wiki/Heart_Signal)转换而来。
+
+
 《**Heart Signal**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel A於](../Page/Channel_A.md "wikilink")2017年製作的綜藝節目，由[尹鍾信](../Page/尹鍾信.md "wikilink")\[1\]、[李尚敏](../Page/李尚敏.md "wikilink")\[2\]\[3\]、[神童](../Page/神童_\(藝人\).md "wikilink")、[金伊娜](../Page/金伊娜.md "wikilink")\[4\]、[沈素英](../Page/沈素英.md "wikilink")\[5\]、[楊宰雄等人主持](https://zh.wikipedia.org/wiki/楊宰雄 "wikilink")，主軸以製作組尋找8位年輕男女於「信號小屋」（位於[首爾](../Page/首爾.md "wikilink")[麻浦區](../Page/麻浦區.md "wikilink")上岩洞）中合宿一個月，並於其中彼此之間出現的信號進行推理愛情節目\[6\]\[7\]\[8\]。
 若主持人猜測正確，可獲得愛的原石（鑽石）一顆，一顆原石相當於韓圓50萬元（新台幣1萬3千四百多元；美金四百四十多元；日幣4萬8千一百多元），但主持人們唯有累積至最後一期，並答對最後一期的題目後，方可將原石換成現金。
 2018年3月16日起，開播此節目的[第二季](https://zh.wikipedia.org/wiki/Heart_Signal_\(第二季\) "wikilink")。

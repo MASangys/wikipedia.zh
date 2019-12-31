@@ -1,4 +1,4 @@
-> 本文内容由[FORTISSIMO \(輕小說\)](https://zh.wikipedia.org/wiki/FORTISSIMO \(輕小說\))转换而来。
+> 本文内容由[FORTISSIMO \(輕小說\)](https://zh.wikipedia.org/wiki/FORTISSIMO_\(輕小說\))转换而来。
 
 
 《**FORTISSIMO**》（），是由[葉瀨敦子企劃](https://zh.wikipedia.org/wiki/葉瀨敦子 "wikilink")、原田爽香編寫的[日本](../Page/日本.md "wikilink")多媒體作品，原作為小說形式於雜誌[電擊SYLPH連載](https://zh.wikipedia.org/wiki/電擊SYLPH "wikilink")。故事繼承前作《**[BROTHERS CONFLICT](https://zh.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")**》的設定。人物設定同樣由宇多所（ウダジョ）擔當。

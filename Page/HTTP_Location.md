@@ -1,3 +1,6 @@
+> 本文内容由[HTTP Location](https://zh.wikipedia.org/wiki/HTTP_Location)转换而来。
+
+
 HTTP Location 是在兩種情況下，因來自[HTTP服務器的響應中返回](../Page/超文本传输协议.md "wikilink")[頭域](https://zh.wikipedia.org/wiki/HTTP头字段列表 "wikilink")：
 
 1.  要求網頁瀏覽器加載其他網頁([網域名稱轉址](../Page/網域名稱轉址.md "wikilink"))。在这种情况下，應該使用[HTTP狀態碼](https://zh.wikipedia.org/wiki/HTTP狀態碼 "wikilink")3xx發送Location頭（Location header）。當請求的[URI具有以下內容時](../Page/统一资源标志符.md "wikilink")，Web服務器響應傳遞：

@@ -1,4 +1,4 @@
-> 本文内容由[BBC Micro](https://zh.wikipedia.org/wiki/BBC Micro)转换而来。
+> 本文内容由[BBC Micro](https://zh.wikipedia.org/wiki/BBC_Micro)转换而来。
 
 
 **BBC Micro**是由[艾康电脑公司为](https://zh.wikipedia.org/wiki/艾康电脑 "wikilink")[BBC公司的计算机认知计划](https://zh.wikipedia.org/wiki/BBC "wikilink")（Computer Literacy Project）设计和生产的[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")，冠以BBC品牌销售。

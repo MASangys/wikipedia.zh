@@ -1,4 +1,4 @@
-> 本文内容由[MBig TV](https://zh.wikipedia.org/wiki/MBig TV)转换而来。
+> 本文内容由[MBig TV](https://zh.wikipedia.org/wiki/MBig_TV)转换而来。
 
 
 **MBig TV**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台因應新媒體環境的變化趨勢](https://zh.wikipedia.org/wiki/MBC "wikilink")，專為移動裝置用戶打造的頻道\[1\]，也是韓國電視台第一家為移動裝置用戶開設專用頻道\[2\]。於2016年2月初開始正式營運，並且推出第一個企劃的網路綜藝節目《[花美男Bromance](../Page/花美男Bromance.md "wikilink")》。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Wonderful Rush](https://zh.wikipedia.org/wiki/Wonderful_Rush)转换而来。
+
+
 **《Wonderful Rush》**是[μ's的单曲第](https://zh.wikipedia.org/wiki/μ's "wikilink")5作，于2012年9月5日由[Lantis](../Page/Lantis.md "wikilink")发行。主唱根据第4回总选举投票结果由南小鸟担任。角色的排列顺亦反映了第4回总选举的结果。CD收录了乐曲及广播剧，[DVD收录了](https://zh.wikipedia.org/wiki/DVD "wikilink")《Wonderful Rush》的PV。
 
 ## 概要

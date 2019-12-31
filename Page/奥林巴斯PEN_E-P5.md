@@ -1,4 +1,4 @@
-> 本文内容由[奥林巴斯PEN E-P5](https://zh.wikipedia.org/wiki/奥林巴斯PEN E-P5)转换而来。
+> 本文内容由[奥林巴斯PEN E-P5](https://zh.wikipedia.org/wiki/奥林巴斯PEN_E-P5)转换而来。
 
 
 **奥林巴斯 PEN E-P5**是一台[微4/3系统可换镜头数码无反机型](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，由奥林巴斯公司于2013年5月10日发布\[1\]。

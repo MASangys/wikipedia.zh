@@ -1,4 +1,4 @@
-> 本文内容由[BMW Z](https://zh.wikipedia.org/wiki/BMW Z)转换而来。
+> 本文内容由[BMW Z](https://zh.wikipedia.org/wiki/BMW_Z)转换而来。
 
 
 是[德国](../Page/德国.md "wikilink")汽车制造商[BMW](../Page/BMW.md "wikilink")从开始编号的一个传统[双座敞篷车类别](https://zh.wikipedia.org/wiki/双座敞篷车 "wikilink")。Z类别已经生产了五个不同世代的四个系列，其中包括各款[轿跑车变体](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")、一款[超级跑车以及一款](https://zh.wikipedia.org/wiki/超级跑车 "wikilink")[概念车](https://zh.wikipedia.org/wiki/概念车 "wikilink")。

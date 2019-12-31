@@ -1,3 +1,6 @@
+> 本文内容由[Strætó BS](https://zh.wikipedia.org/wiki/Strætó_BS)转换而来。
+
+
 **Strætó BS**（）是一間[冰島的公車客運公司](https://zh.wikipedia.org/wiki/冰島 "wikilink")，主要服務首都[雷克雅維克](../Page/雷克雅維克.md "wikilink")及周圍衛星城鎮和郊區（即[首都地區](https://zh.wikipedia.org/wiki/大雷克雅未克區 "wikilink") ）的居民。公車車身呈亮黃色，常被當地人稱作「strætó」，也就是「strætisvagn」（漢語譯為公車，直譯為街道車廂、街道馬車）的暱稱。Strætó BS在SVR（Strætisvagnar Reykjavíkur，[雷克雅維克](../Page/雷克雅維克.md "wikilink")街道車）與AV（Almenningsvagnar，公共車）合併後於2001年7月1日開始營運。SVR原先營運於首都地區的北部，而AV在該區的南部營運。
 
 ## 公車路網

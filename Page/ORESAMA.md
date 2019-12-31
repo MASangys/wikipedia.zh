@@ -1,3 +1,6 @@
+> 本文内容由[ORESAMA](https://zh.wikipedia.org/wiki/ORESAMA)转换而来。
+
+
 **ORESAMA**是[日本](../Page/日本.md "wikilink")的二人音乐組合，由PON與小島英也所組成。2014年組成。
 
 ## 概要

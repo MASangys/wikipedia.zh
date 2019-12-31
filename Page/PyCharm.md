@@ -1,3 +1,6 @@
+> 本文内容由[PyCharm](https://zh.wikipedia.org/wiki/PyCharm)转换而来。
+
+
 **PyCharm**是一个用于计算机编程的集成开发环境（IDE），主要用于Python语言开发，由捷克公司JetBrains开发\[1\]，提供代码分析、图形化调试器，集成测试器、集成[版本控制](../Page/版本控制.md "wikilink")系统，并支持使用Django进行网页开发。
 
 PyCharm是一个跨平台开发环境，拥有[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")版本。社区版在[Apache许可证](../Page/Apache许可证.md "wikilink")下发布\[2\] ，另外还有专业版在专用许可证下发布，其拥有许多额外功能。

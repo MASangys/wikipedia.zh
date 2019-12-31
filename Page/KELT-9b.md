@@ -1,3 +1,6 @@
+> 本文内容由[KELT-9b](https://zh.wikipedia.org/wiki/KELT-9b)转换而来。
+
+
 </ref> | radius_earth = 21.2\[1\] | stellar_flux = | temperature = }}      **KELT-9b**是目前已知的[太陽系外行星](../Page/太陽系外行星.md "wikilink")之中，表面溫度最高的[熱木星](../Page/熱木星.md "wikilink")，它的晝半球表面溫度高達4,600 K（4,330 °C），高於所有光譜型[M型恆星與大部分K型恆星](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")\[2\]。它的母恆星是距離地球約620光年（190 秒差距）的A型主序星[HD 195689](https://zh.wikipedia.org/wiki/HD_195689 "wikilink")，即KELT-9 \[3\]。
 
 ## 概要

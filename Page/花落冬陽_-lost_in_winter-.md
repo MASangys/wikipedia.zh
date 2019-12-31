@@ -1,3 +1,6 @@
+> 本文内容由[花落冬陽 -lost in winter-](https://zh.wikipedia.org/wiki/花落冬陽_-lost_in_winter-)转换而来。
+
+
 《**花落冬陽 -lost in winter-**》（英語版名：**Snowdreams - lost in winter -**，簡稱**花落冬陽**）是由台灣團隊[+觀象草圖+原創獨立製作的](https://zh.wikipedia.org/wiki/+觀象草圖+ "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")（AVG）\[1\]。在2015年末發表製作消息\[2\]，並於2016年1月底公開體驗版\[3\]\[4\]，同年7月16日官方推出遊戲的前導漫畫。故事以[台北東區為背景](https://zh.wikipedia.org/wiki/台北東區 "wikilink")\[5\]，遊戲中許多地點、背景甚至是物品\[6\]都是實際存在的（少數參考原型已經消失）。但因為是獨立製作，成員皆為利用下班後空閒時間動工，因此尚未有正式版的明確時程。不過目前除了正體中文版外，還預定有簡體中文和英文版，以及登錄[Steam](../Page/Steam.md "wikilink")的企劃。\[7\]
 
 ## 歷程概要

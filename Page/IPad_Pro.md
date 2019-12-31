@@ -1,4 +1,4 @@
-> 本文内容由[IPad Pro](https://zh.wikipedia.org/wiki/IPad Pro)转换而来。
+> 本文内容由[IPad Pro](https://zh.wikipedia.org/wiki/IPad_Pro)转换而来。
 
 
 [缩略图](https://zh.wikipedia.org/wiki/File:IPad_Pro_and_Apple_Pencil_\(boxed\).jpg "fig:缩略图")

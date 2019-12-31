@@ -1,4 +1,4 @@
-> 本文内容由[賽蓮 \(DIK-1-1\)](https://zh.wikipedia.org/wiki/賽蓮 \(DIK-1-1\))转换而来。
+> 本文内容由[賽蓮 \(DIK-1-1\)](https://zh.wikipedia.org/wiki/賽蓮_\(DIK-1-1\))转换而来。
 
 
 **賽蓮（DIK-1-1）**（，DIK-1-1），又名**塞拉姆**、「**迪奇卡小孩**」（Dikika Baby）、「**露西的小孩**」（Lucy’s baby），為一具幼兒化石，年代距今約330萬年前，死時大概三歲，保存狀況罕見地完整，包含頭骨及軀幹，2000年在衣索比亞的迪奇卡(Dikika)被發現，於2006年《美國科學人》（Scientific American）發表，與曾被稱為「人類最早祖先」的[露西](../Page/露西_\(南方古猿\).md "wikilink")（Lucy）發現處僅距4公里，同屬[阿法南猿人](../Page/阿法南方古猿.md "wikilink")（[Australopithecus afarensis](../Page/阿法南方古猿.md "wikilink")），因此賽蓮有「露西的小孩」（Lucy’s baby）之稱，值得注意的是，其實露西的生活年代為距今320萬年前，比賽蓮晚了約十萬年。 \[1\]

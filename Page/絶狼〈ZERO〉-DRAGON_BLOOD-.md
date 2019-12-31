@@ -1,3 +1,6 @@
+> 本文内容由[絶狼〈ZERO〉-DRAGON BLOOD-](https://zh.wikipedia.org/wiki/絶狼〈ZERO〉-DRAGON_BLOOD-)转换而来。
+
+
 《**絶狼〈ZERO〉-DRAGON BLOOD-**》（）是[日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的最新電視作品，於2017年1月6日起在[東京電視台](../Page/東京電視台.md "wikilink")聯播網的深夜時段播出，全13集。
 
 ## 本劇特色

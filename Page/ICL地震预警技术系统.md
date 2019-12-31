@@ -1,3 +1,6 @@
+> 本文内容由[ICL地震预警技术系统](https://zh.wikipedia.org/wiki/ICL地震预警技术系统)转换而来。
+
+
 **ICL地震预警技术系统**，也称**大陆地震预警系统**，是在[中國大陸建成的一个](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[地震預警系統](../Page/地震預警系統.md "wikilink")，可以在[地震波](../Page/地震波.md "wikilink")到達各地前的一段時間差内生成地震預警警報，向[手機](../Page/智能手机.md "wikilink")、[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、專用接收終端等渠道發佈预警信息。截至2016年3月，该系统运用中國大陸[国家地震烈度速报与预警工程](../Page/国家地震烈度速报与预警工程.md "wikilink")已建成的部分台站，系统覆盖面積達到220万平方公里、覆盖人口佔[中国大陸人员密集之地震区人口的](https://zh.wikipedia.org/wiki/地震帶#中国地震带的分布 "wikilink")90%，是全球规模最大的地震预警系统。ICL为“[成都高新减灾研究所](https://zh.wikipedia.org/wiki/成都高新减灾研究所 "wikilink")”英文名称“”（关爱生命机构）的首字母缩写。
 
 ## 研發歷史
@@ -16,29 +19,33 @@ ICL地震预警系统的主研者是中國[留學生](https://zh.wikipedia.org/w
 
 ### 地區
 
-ICL地震预警技术系统在2012年主要用於汶川大地震[余震区和四川](https://zh.wikipedia.org/wiki/餘震 "wikilink")、雲南交界处，其後發展到中國大陸其他地區\[10\]。至2014年，此系統在中國大陸15个省市被採用，覆盖面積接近100万平方公里\[11\]。至2016年3月，中國大陸合共有31个省、市、自治区採用ICL地震预警系统（例如[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[陝西](https://zh.wikipedia.org/wiki/陝西 "wikilink")、[甘肅等](https://zh.wikipedia.org/wiki/甘肅 "wikilink")），系统覆盖面積達到220万平方公里、覆盖人口佔[中国大陸人员密集之地震区人口的](https://zh.wikipedia.org/wiki/地震帶#中国地震带的分布 "wikilink")90%，是全球规模最大的地震预警系统\[12\]\[13\]。這個系统的出現令中國成為有能力發出地震预警的國家\[14\]。
+ICL地震预警技术系统在2012年主要用於汶川大地震[余震区和四川](https://zh.wikipedia.org/wiki/餘震 "wikilink")、雲南交界处，其後發展到中國大陸其他地區\[10\]。至2014年，此系統在中國大陸15个省市被採用，覆盖面積接近100万平方公里\[11\]。至2016年3月，中國大陸合共有31个省、市、自治区採用ICL地震预警系统（例如[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[陝西](https://zh.wikipedia.org/wiki/陝西 "wikilink")、[甘肅等](https://zh.wikipedia.org/wiki/甘肅 "wikilink")），系统覆盖面積達到220万平方公里、覆盖人口佔[中国大陸人员密集之地震区人口的](https://zh.wikipedia.org/wiki/地震帶#中国地震带的分布 "wikilink")90%，是全球规模最大的地震预警系统\[12\]\[13\]。這個系统的出現使中國成為继[墨西哥](../Page/墨西哥.md "wikilink")、[日本](../Page/日本.md "wikilink")之后，世界上第三个有能力向公众发布地震预警的国家\[14\]\[15\]\[16\]。
 
-ICL地震预警技术系统在2014年出口到[海地](../Page/海地.md "wikilink")，而成都高新减灾研究所與联合建设的[尼泊尔](../Page/尼泊尔.md "wikilink")地震预警系统亦在2015年投入建设\[15\]。
+ICL地震预警技术系统在2014年出口到[海地](../Page/海地.md "wikilink")，而成都高新减灾研究所與联合建设的[尼泊尔](../Page/尼泊尔.md "wikilink")地震预警系统亦在2015年投入建设\[17\]。
 
 ### 對象
 
 #### 政府和基建
 
-自2014年起，ICL地震预警技术系统為[中華人民共和國民政部](https://zh.wikipedia.org/wiki/中華人民共和國民政部 "wikilink")[國家減災中心](https://zh.wikipedia.org/wiki/國家減災中心 "wikilink")、四川省应急管理办公室、雲南省应急管理办公室、四川省消防總隊等[災害管理相關部門提供地震預警和地震烈度速報服務](https://zh.wikipedia.org/wiki/災害管理 "wikilink")，而包括四川公安在內的近20個[政務微博會發佈預警資訊](https://zh.wikipedia.org/wiki/政務微博 "wikilink")\[16\]。四川省成都市和[安徽省](../Page/安徽省.md "wikilink")[滁州市](../Page/滁州市.md "wikilink")的城市地震预警系统建设項目亦初步应用了此系统\[17\]。
+自2014年起，ICL地震预警技术系统為[中華人民共和國民政部](https://zh.wikipedia.org/wiki/中華人民共和國民政部 "wikilink")[國家減災中心](https://zh.wikipedia.org/wiki/國家減災中心 "wikilink")、四川省应急管理办公室、雲南省应急管理办公室、四川省消防總隊等[災害管理相關部門提供地震預警和地震烈度速報服務](https://zh.wikipedia.org/wiki/災害管理 "wikilink")，而包括四川公安在內的近20個[政務微博會發佈預警資訊](https://zh.wikipedia.org/wiki/政務微博 "wikilink")\[18\]。四川省成都市和[安徽省](../Page/安徽省.md "wikilink")[滁州市](../Page/滁州市.md "wikilink")的城市地震预警系统建设項目亦初步应用了此系统\[19\]。
 
-ICL地震预警技术系统也用於[公共建設上](https://zh.wikipedia.org/wiki/公共建設 "wikilink")，例如：成都[高新区所有公立学校均受系统覆盖](https://zh.wikipedia.org/wiki/高新区 "wikilink")，可以由校园广播發出地震预警；[成都地铁](../Page/成都地铁.md "wikilink")在2014年啟用此系统，以後一旦接收到地震预警，列車便會减速至25公里每小時、並紧急停靠到最接近的站台\[18\]。燃氣、[高鐵](https://zh.wikipedia.org/wiki/中華人民共和國高速鐵路 "wikilink")、[化工等重大工程也逐步採用此系統](https://zh.wikipedia.org/wiki/化學工程 "wikilink")\[19\]。人員密集或進行重大工程的場所可以安裝專用終端，用作接收地震预警，從而降低人命傷亡、避免[次生災害](https://zh.wikipedia.org/wiki/次生災害 "wikilink")\[20\]。
+ICL地震预警技术系统也用於[公共建設上](https://zh.wikipedia.org/wiki/公共建設 "wikilink")，例如：成都[高新区所有公立学校均受系统覆盖](https://zh.wikipedia.org/wiki/高新区 "wikilink")，可以由校园广播發出地震预警；[成都地铁](../Page/成都地铁.md "wikilink")在2014年啟用此系统，以後一旦接收到地震预警，列車便會减速至25公里每小時、並紧急停靠到最接近的站台\[20\]。燃氣、[高鐵](https://zh.wikipedia.org/wiki/中華人民共和國高速鐵路 "wikilink")、[化工等重大工程也逐步採用此系統](https://zh.wikipedia.org/wiki/化學工程 "wikilink")\[21\]。人員密集或進行重大工程的場所可以安裝專用終端，用作接收地震预警，從而降低人命傷亡、避免[次生災害](https://zh.wikipedia.org/wiki/次生災害 "wikilink")\[22\]。
 
 #### 公眾
 
-预警系统在2012年4月首次獲电视台採用，一旦發生地震，合作电视台的电视畫面便會在地震波来临前自动顯示预警弹窗和倒计时\[21\]。
+预警系统在2012年4月首次獲电视台採用，一旦發生地震，合作电视台的电视畫面便會在地震波来临前自动顯示预警弹窗和倒计时\[23\]。
 
-使用[行動作業系統](../Page/行動作業系統.md "wikilink")的民眾可以在[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（[App Store](../Page/App_Store_\(iOS\).md "wikilink")）或[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")[应用商店免費下載專用軟體](https://zh.wikipedia.org/wiki/应用商店 "wikilink")，只要身處地震預警網（覆蓋面積200萬平方公里，以ICL地震预警技术系统為核心技術），就可以接收地震預警\[22\]。
+使用[行動作業系統](../Page/行動作業系統.md "wikilink")的民眾可以在[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（[App Store](../Page/App_Store_\(iOS\).md "wikilink")）或[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")[应用商店免費下載專用軟體](https://zh.wikipedia.org/wiki/应用商店 "wikilink")，只要身處地震預警網（覆蓋面積200萬平方公里，以ICL地震预警技术系统為核心技術），就可以接收地震預警\[24\]。
+
+2019年11月，[小米公司与成都高新减灾研究所共同宣布](https://zh.wikipedia.org/wiki/小米公司 "wikilink")，[MIUI](../Page/MIUI.md "wikilink")和[小米电视](../Page/小米电视.md "wikilink")产品上正式启用两者联合研制的地震预警系统，并将无偿向全球同行开放研发经验\[25\]\[26\]。
+
+2019年12月5日，电视地震预警功能成功为部分电视用户提供[唐山市](../Page/唐山市.md "wikilink")[丰南区](../Page/丰南区.md "wikilink")发生4.5级地震的提前预警。该功能由成都高新减灾研究所和北京酷云互动合作研发，并已内置到[创维](https://zh.wikipedia.org/wiki/创维 "wikilink")、[康佳](https://zh.wikipedia.org/wiki/康佳 "wikilink")、[长虹](https://zh.wikipedia.org/wiki/长虹 "wikilink")、[乐视等厂商的部分](https://zh.wikipedia.org/wiki/乐视 "wikilink")[智能电视](https://zh.wikipedia.org/wiki/智能电视 "wikilink")，以及新潮传媒、农广传媒等户外屏幕终端中，用户覆盖量达数亿。收到预警信息的终端将在大屏幕上弹窗显示并语音播报地震预警信息\[27\]。
 
 ## 成果
 
-截至2016年3月，ICL地震预警技术系统未有漏报或误报破坏性地震和余震的紀錄，响应时间為6.2秒，预警盲区有21公里\[23\]。
+截至2016年3月，ICL地震预警技术系统未有漏报或误报破坏性地震和余震的紀錄，响应时间為6.2秒，预警盲区有21公里\[28\]。
 
-2011年4月，ICL地震预警技术系统成功對一次汶川大地震余震作出预警\[24\]。2013年2月，云南發生4.9级地震，系统成功在地震波到达雲南[昭通市](../Page/昭通市.md "wikilink")前15秒發出预警，是中國大陸首次国内成功对破坏性地震作预警\[25\]。ICL地震预警技术系统累計在最少30次破壞性地震中成功發出預警，有減輕災害破壞的實際效用\[26\]。這些地震包括[2013年蘆山地震](https://zh.wikipedia.org/wiki/2013年蘆山地震 "wikilink")、[2014年魯甸地震](https://zh.wikipedia.org/wiki/2014年魯甸地震 "wikilink")、[2017年九寨沟地震](../Page/2017年九寨沟地震.md "wikilink")等\[27\]\[28\]。[2019年宜宾地震](../Page/2019年宜宾地震.md "wikilink")中，由成都高新减灾研究所研发的ICL地震预警技术系统对此次地震进行了预警。此次地震宜宾市提前10秒预警，提前61秒向成都预警，宜宾、成都的部分民众通过公共广播、电视、手机、专用地震预警终端收到预警提示。\[29\]
+2011年4月，ICL地震预警技术系统成功對一次汶川大地震余震作出预警\[29\]。2013年2月，云南發生4.9级地震，系统成功在地震波到达雲南[昭通市](../Page/昭通市.md "wikilink")前15秒發出预警，是中國大陸首次国内成功对破坏性地震作预警\[30\]。ICL地震预警技术系统累計在最少30次破壞性地震中成功發出預警，有減輕災害破壞的實際效用\[31\]。這些地震包括[2013年蘆山地震](https://zh.wikipedia.org/wiki/2013年蘆山地震 "wikilink")、[2014年魯甸地震](https://zh.wikipedia.org/wiki/2014年魯甸地震 "wikilink")、[2017年九寨沟地震](../Page/2017年九寨沟地震.md "wikilink")等\[32\]\[33\]。[2019年宜宾地震](../Page/2019年宜宾地震.md "wikilink")中，由成都高新减灾研究所研发的ICL地震预警技术系统对此次地震进行了预警。此次地震宜宾市提前10秒预警，提前61秒向成都预警，宜宾、成都的部分民众通过公共广播、电视、手机、专用地震预警终端收到预警提示。\[34\]
 
 ## 参见
 
@@ -65,7 +72,7 @@ ICL地震预警技术系统也用於[公共建設上](https://zh.wikipedia.org/w
 11.
 12.
 13.
-14.
+14. 2014中国地震预警事业发展与展望蓝皮书 - 成都高新减灾研究所
 15.
 16.
 17.
@@ -81,3 +88,8 @@ ICL地震预警技术系统也用於[公共建設上](https://zh.wikipedia.org/w
 27.
 28.
 29.
+30.
+31.
+32.
+33.
+34.

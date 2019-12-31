@@ -1,4 +1,4 @@
-> 本文内容由[THE K2](https://zh.wikipedia.org/wiki/THE K2)转换而来。
+> 本文内容由[THE K2](https://zh.wikipedia.org/wiki/THE_K2)转换而来。
 
 
 《**守護者K2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年9月23日起播出的[創社10周年特別企劃連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》[郭正煥導演指導和](https://zh.wikipedia.org/wiki/郭正煥 "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》編劇[張赫麟共同製作的作品](https://zh.wikipedia.org/wiki/張赫麟 "wikilink")。講述一位無比熱愛國家與同事卻慘遭陷害的特種部隊隊員金濟夏（[池昌旭](../Page/池昌旭.md "wikilink") 飾），被準第一夫人相中挖角，聘用為其的御用保鏢，代號「K2」。故事圍繞著他與總-{}-統候選人張世俊議員的私生女高安娜（[林潤娥](https://zh.wikipedia.org/wiki/林潤娥 "wikilink") 飾）的戀情，以及刻畫崔宥真（[宋玧妸](../Page/宋玧妸.md "wikilink") 飾）隱藏的野心和政治與家族鬥爭。

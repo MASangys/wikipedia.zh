@@ -1,3 +1,6 @@
+> 本文内容由[DMC Festival](https://zh.wikipedia.org/wiki/DMC_Festival)转换而来。
+
+
 DMC超级盛典(**DMC Festival**)是[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")（[韩国文化广播公司](https://zh.wikipedia.org/wiki/韩国文化广播公司 "wikilink")）在首尔上岩文化广场一带举行的大型庆典活动。30多年一直在汝矣岛的MBC电视台于2014年9月把新总部设在上岩洞数码媒体城（DMC），开启了上岩时代。\[1\]为了宣传“融合媒体与娱乐（Media & Entertainment）”的地区—数码媒体城(Digital Media City)，并创造数码环境与人文气息共存的文化氛围，电视台充分利用大众熟知的电视广播与音乐内容，进行了丰富的活动。
 
 ## 活動說明

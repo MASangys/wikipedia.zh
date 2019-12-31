@@ -1,3 +1,6 @@
+> 本文内容由[LkCa 15](https://zh.wikipedia.org/wiki/LkCa_15)转换而来。
+
+
 **LkCa 15**是一顆位於的恆[金牛T星](../Page/金牛T星.md "wikilink")。該恆星是年輕的[主序前星](https://zh.wikipedia.org/wiki/主序前星 "wikilink")，並且亮度變化不規則\[1\]。
 
 ## 概要

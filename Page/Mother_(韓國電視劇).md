@@ -1,3 +1,6 @@
+> 本文内容由[Mother \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Mother_\(韓國電視劇\))转换而来。
+
+
 《**Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年1月24日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")，由《[芝加哥打字機](../Page/芝加哥打字機_\(電視劇\).md "wikilink")》[金哲圭](../Page/金哲圭.md "wikilink")導演執導與電影《[下女的誘惑](../Page/下女的誘惑.md "wikilink")》鄭瑞京作家合作打造。此劇翻拍自同名日劇《[Mother](https://zh.wikipedia.org/wiki/2個媽媽 "wikilink")》，講述一個小學老師為了救活一個受虐的小學生，而自願成為其假母親並將其帶離受虐環境的故事\[1\]\[2\]\[3\]。
 
 愛奇藝台灣站1月25日起，每周四、五上午10點播出。香港由[奇妙77台播出](https://zh.wikipedia.org/wiki/奇妙77台 "wikilink")。

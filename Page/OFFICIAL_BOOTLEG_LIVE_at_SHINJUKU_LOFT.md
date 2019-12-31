@@ -1,3 +1,6 @@
+> 本文内容由[OFFICIAL BOOTLEG LIVE at SHINJUKU LOFT](https://zh.wikipedia.org/wiki/OFFICIAL_BOOTLEG_LIVE_at_SHINJUKU_LOFT)转换而来。
+
+
 《**OFFICIAL BOOTLEG LIVE at SHINJUKU LOFT**》是日本樂團MIKA RANMARU的現場專輯，於2016年1月27日發行。
 
 ## 解說

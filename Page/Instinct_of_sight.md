@@ -1,4 +1,7 @@
-**Instinct of Sight** (簡稱IOS)，是一隊五人[香港](../Page/香港.md "wikilink")[獨立樂團](https://zh.wikipedia.org/wiki/獨立樂團 "wikilink")，樂隊於2014年春成立。成員有主音阿寶、結他手阿維、阿聰、貝斯手及嘶吼阿恆和鼓手阿健。樂隊以[Post-Hardcore為創作基礎](https://zh.wikipedia.org/wiki/Post-Hardcore "wikilink")，實驗性地探索音樂可能性，旋律結合[嘶吼唱腔](https://zh.wikipedia.org/wiki/嘶吼唱腔 "wikilink")，編曲複雜多變。作為[香港](../Page/香港.md "wikilink")獨立音樂、[金属乐队](https://zh.wikipedia.org/wiki/金屬樂隊 "wikilink")，演出自成立後持續活躍於[中港台](https://zh.wikipedia.org/wiki/中港台 "wikilink")，樂隊曾獲邀參與香港[Clockenflap](../Page/Clockenflap.md "wikilink")、[wow and flutter](http://wowandflutter.hk/)\[1\]、台灣[Wake Up Festival](../Page/Wake_Up音樂祭.md "wikilink")\[2\]、聲波浪潮音樂節\[3\]、台灣[山海屯音樂節](../Page/山海屯音樂節.md "wikilink")\[4\]等大型音樂節的演出，樂隊亦同時受[Dr. Martens](https://zh.wikipedia.org/wiki/Dr._Martens "wikilink")、[Vans](https://zh.wikipedia.org/wiki/Vans "wikilink")\[5\]等經典年輕品牌歡迎，受邀[中國香港國際紋身展](http://www.hktattoocon.com/2018/)\[6\]等活動。2015年樂隊被選成為「StreetVoice大團誕生樂隊」\[7\]，是香港近年倍受注目的重型獨立樂隊\[8\]。
+> 本文内容由[Instinct of sight](https://zh.wikipedia.org/wiki/Instinct_of_sight)转换而来。
+
+
+**Instinct of Sight** (簡稱IOS)，是一隊四人[香港](../Page/香港.md "wikilink")[獨立樂團](https://zh.wikipedia.org/wiki/獨立樂團 "wikilink")，樂隊於2014年春成立。成員有主音阿寶、結他手阿維、貝斯手及嘶吼阿恆和鼓手阿健。樂隊以[Post-Hardcore為創作基礎](https://zh.wikipedia.org/wiki/Post-Hardcore "wikilink")，實驗性地探索音樂可能性，旋律結合[嘶吼唱腔](https://zh.wikipedia.org/wiki/嘶吼唱腔 "wikilink")，編曲複雜多變。作為[香港](../Page/香港.md "wikilink")獨立音樂、[金属乐队](https://zh.wikipedia.org/wiki/金屬樂隊 "wikilink")，演出自成立後持續活躍於[中港台](https://zh.wikipedia.org/wiki/中港台 "wikilink")，樂隊曾獲邀參與香港[Clockenflap](../Page/Clockenflap.md "wikilink")、[wow and flutter](http://wowandflutter.hk/)\[1\]、台灣[Wake Up Festival](../Page/Wake_Up音樂祭.md "wikilink")\[2\]、聲波浪潮音樂節\[3\]、台灣[山海屯音樂節](../Page/山海屯音樂節.md "wikilink")\[4\]等大型音樂節的演出，樂隊亦同時受[Dr. Martens](https://zh.wikipedia.org/wiki/Dr._Martens "wikilink")、[Vans](https://zh.wikipedia.org/wiki/Vans "wikilink")\[5\]等經典年輕品牌歡迎，受邀[中國香港國際紋身展](http://www.hktattoocon.com/2018/)\[6\]等活動。2015年樂隊被選成為「StreetVoice大團誕生樂隊」\[7\]，是香港近年倍受注目的重型獨立樂隊\[8\]。
 
 **Instinct of Sight** 2018年推出作品《Armour》紀錄克服阻礙的覺悟（由結他手意外受傷事件觸發）\[9\]；《定格》反思生命的意義，新生代自身價值的議題；《光影》與本地樂隊[逆流](../Page/逆流.md "wikilink")主音Kit Lo一同創作，以刻畫過去現在未來入詞。Instinct of Sight的音樂緊貼成員經歷，歌曲可理解為青春的碎片，歌曲之間的互相串聯、互為詮釋。樂隊從曲詞編監、混音到視像後期製作均由成員親自參與，音樂編曲多變，結他變奏起伏大，為創作出有畫面感的音樂，採用大量Synth及和音。**Instinct of Sight**的音樂風格不盲從特定風格約束，如人類的豐富感情 波瀾壯闊又寂靜如絲。
 
@@ -6,7 +9,7 @@
 
   - Jacey po（阿寶，主音，2014年〜現在）
   - Sze Wai Chan（阿維，結他手，2014年〜現在）
-  - Chung Wing Kwok（阿聰，結他手，2014年～現在）
+  - Chung Wing Kwok（阿聰，結他手，2014年～2019年，巳離隊）
   - Kin T. Poon（阿健，鼓手，2014年〜現在）
   - Elvis Law (阿恆，低音結他手，2014年〜現在）
 
@@ -37,6 +40,12 @@
 2018年在累積相當現場經驗後，樂隊決定推出[音樂專輯](../Page/音樂專輯.md "wikilink")，同年除了根據現場演出調整編曲及專注錄音、Music Video製作外，也為本地獨立樂隊The Priceless Boat、[臺灣](../Page/臺灣.md "wikilink")獨立樂隊[血肉果汁機](../Page/血肉果汁機.md "wikilink")在台中 Legacy Taichung傳音樂展演空間 作專場開場。2018年中推出《Armour》透露數年前成員隱藏了結他手嚴重骨折的事實\[32\]，歌曲中透露了五人在路上互相鼓勵扶持的情誼，並於2018年底**Instinct of Sight**公佈了10首歌的大碟即將推出的消息。
 
 Instinct of Sight的歌曲於[Spotify](../Page/Spotify.md "wikilink")、JOOX\[33\]、[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[MOOV](../Page/MOOV.md "wikilink")、等等主流音樂平台上架。
+
+### 2019　
+
+2019年3月，Instinct of Sight於九展musiz zone舉行《BLENDED ABSTRACT》CD Release Party。
+
+Instinct of Sight於10月在社交媒體宣佈結他手阿聰巳離隊，樂隊由五人變回四人陣容。
 
 ## 參與演出
 
@@ -190,67 +199,40 @@ Instinct of Sight的歌曲於[Spotify](../Page/Spotify.md "wikilink")、JOOX\[33
   - [【HKMC2】二〇一七。香港樂評選入圍香港樂評年度旋律](http://www.hkmc2.com/2017_nom/)
   - [【網址】英國 Architects 領軍 山海屯音樂節全陣容公布](https://blow.streetvoice.com/29519-%E8%8B%B1%E5%9C%8B-architects-%E9%A0%98%E8%BB%8D-%E5%B1%B1%E6%B5%B7%E5%B1%AF%E9%9F%B3%E6%A8%82%E7%AF%80%E5%85%A8%E9%99%A3%E5%AE%B9%E5%85%AC%E5%B8%83/)
 
-<references />
-
 ## 参考来源
 
-[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink") [Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:香港藝人](https://zh.wikipedia.org/wiki/Category:香港藝人 "wikilink")
+[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink") [Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.
 23.
-
 24.
 25.
 26.
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.

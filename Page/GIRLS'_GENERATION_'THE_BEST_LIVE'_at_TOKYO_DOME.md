@@ -1,4 +1,4 @@
-> 本文内容由[GIRLS\' GENERATION \'THE BEST LIVE\' at TOKYO DOME](https://zh.wikipedia.org/wiki/GIRLS\' GENERATION \'THE BEST LIVE\' at TOKYO DOME)转换而来。
+> 本文内容由[GIRLS\' GENERATION \'THE BEST LIVE\' at TOKYO DOME](https://zh.wikipedia.org/wiki/GIRLS\'_GENERATION_\'THE_BEST_LIVE\'_at_TOKYO_DOME)转换而来。
 
 
 **GIRLS' GENERATION 'THE BEST LIVE' at TOKYO DOME**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代日本出道四周年演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。

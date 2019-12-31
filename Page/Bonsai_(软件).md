@@ -1,3 +1,6 @@
+> 本文内容由[Bonsai \(软件\)](https://zh.wikipedia.org/wiki/Bonsai_\(软件\))转换而来。
+
+
 **Bonsai**是一个为大型[编程项目设计的基于](https://zh.wikipedia.org/wiki/编程 "wikilink")[Web的](https://zh.wikipedia.org/wiki/Web "wikilink")[CVS代码库浏览器](../Page/協作版本系統.md "wikilink")。它最初是为填补[Mozilla](../Page/Mozilla.md "wikilink")项目的需求而开发，允许众多开发人员编辑极大的代码库。
 
 ## 特性

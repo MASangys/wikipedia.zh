@@ -1,3 +1,6 @@
+> 本文内容由[No Way Back](https://zh.wikipedia.org/wiki/No_Way_Back)转换而来。
+
+
 《**No Way Back**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA的第](../Page/AAA_\(團體\).md "wikilink")54張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2017年7月5日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

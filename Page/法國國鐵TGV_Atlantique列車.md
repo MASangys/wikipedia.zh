@@ -1,3 +1,6 @@
+> 本文内容由[法國國鐵TGV Atlantique列車](https://zh.wikipedia.org/wiki/法國國鐵TGV_Atlantique列車)转换而来。
+
+
 **法國國鐵TGV Atlantique列車**（TGV-A）是第二代的[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")，最高營運車速可達300公里/小時，從1989年開始投入[法國國家鐵路](https://zh.wikipedia.org/wiki/法國國家鐵路 "wikilink")（SNCF）[法國高速鐵路大西洋線的營運](https://zh.wikipedia.org/wiki/法國高速鐵路大西洋線 "wikilink")。
 
 ## 概要

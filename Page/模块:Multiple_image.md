@@ -1,4 +1,4 @@
-> 本文内容由[模块:Multiple image](https://zh.wikipedia.org/wiki/模块:Multiple image)转换而来。
+> 本文内容由[模块:Multiple image](https://zh.wikipedia.org/wiki/模块:Multiple_image)转换而来。
 
 
 \-- implements [template:multiple image](https://zh.wikipedia.org/wiki/template:multiple_image "wikilink") local p = {}

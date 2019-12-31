@@ -1,4 +1,4 @@
-> 本文内容由[名侦探柯南 EpisodeONE 变小的名侦探](https://zh.wikipedia.org/wiki/名侦探柯南 EpisodeONE 变小的名侦探)转换而来。
+> 本文内容由[名侦探柯南 EpisodeONE 变小的名侦探](https://zh.wikipedia.org/wiki/名侦探柯南_EpisodeONE_变小的名侦探)转换而来。
 
 
 是电视动画《[名侦探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》的特别节目，于2016年12月9日播出。宣传语为“那日那时，在各个地方到底发生了什么！？”（）

@@ -1,4 +1,4 @@
-> 本文内容由[Shaba Games](https://zh.wikipedia.org/wiki/Shaba Games)转换而来。
+> 本文内容由[Shaba Games](https://zh.wikipedia.org/wiki/Shaba_Games)转换而来。
 
 
 **Shaba Games**，是在1997年9月成立的游戏开发商，位于加利福尼亚州旧金山市。2002年被动视收购。2009年10月8日，动视关闭该工作室。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[MAGiC BOYZ](https://zh.wikipedia.org/wiki/MAGiC_BOYZ)转换而来。
+
+
 （）是[日本](../Page/日本.md "wikilink")的一支[嘻哈乐](https://zh.wikipedia.org/wiki/嘻哈乐 "wikilink")[男子组合](../Page/男子音乐组合.md "wikilink")。他们是[星尘传播旗下音乐组合](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[惠比寿学园男子部推出的选拔企划](https://zh.wikipedia.org/wiki/惠比寿学园男子部 "wikilink")“”所推出来的一系列组合之一。组合由（）、（）、（藤田真广）和四名[MC和](https://zh.wikipedia.org/wiki/MC_\(音樂\) "wikilink")（安本丞）一名[DJ组成](https://zh.wikipedia.org/wiki/DJ "wikilink")。
 
 其粉丝一直用“”称呼他们。

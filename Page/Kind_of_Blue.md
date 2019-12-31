@@ -1,4 +1,4 @@
-> 本文内容由[Kind of Blue](https://zh.wikipedia.org/wiki/Kind of Blue)转换而来。
+> 本文内容由[Kind of Blue](https://zh.wikipedia.org/wiki/Kind_of_Blue)转换而来。
 
 
 《》是美国[爵士](../Page/爵士.md "wikilink")乐手[邁爾士·戴維斯](../Page/邁爾士·戴維斯.md "wikilink")的一张录音室专辑，由[哥伦比亚唱片发行于](https://zh.wikipedia.org/wiki/哥伦比亚唱片 "wikilink")1959年8月17日。该专辑在纽约市录音，录音期为1959年3月2日和4月22日。参与录音的有戴维斯的六人组，包括钢琴师[比爾·艾文斯](../Page/比爾·艾文斯.md "wikilink")、鼓手、贝斯手[保罗·钱伯斯](../Page/保罗·钱伯斯.md "wikilink")、萨克斯风演奏家[約翰·柯川](../Page/約翰·柯川.md "wikilink")和[加農炮艾德利](../Page/加農炮艾德利.md "wikilink")。在艾文斯加入后，戴维斯继续了他在前一张专辑《》（1958）中尝试的[莫達爾爵士樂](../Page/莫達爾爵士樂.md "wikilink")。《》完全以[调式](../Page/调式.md "wikilink")（）为基础，和他早期的[硬博普樂风格截然不同](https://zh.wikipedia.org/wiki/硬博普樂 "wikilink")。

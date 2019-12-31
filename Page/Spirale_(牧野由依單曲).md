@@ -1,3 +1,6 @@
+> 本文内容由[Spirale \(牧野由依單曲\)](https://zh.wikipedia.org/wiki/Spirale_\(牧野由依單曲\))转换而来。
+
+
 《**Spirale**》（）是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[牧野由依](../Page/牧野由依.md "wikilink")的第7張單曲。2008年1月23日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 解說

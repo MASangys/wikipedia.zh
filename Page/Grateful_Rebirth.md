@@ -1,4 +1,4 @@
-> 本文内容由[Grateful Rebirth](https://zh.wikipedia.org/wiki/Grateful Rebirth)转换而来。
+> 本文内容由[Grateful Rebirth](https://zh.wikipedia.org/wiki/Grateful_Rebirth)转换而来。
 
 
 《**Grateful Rebirth**》於2016年6月8日以mini-album（迷你大碟）的形式，由SHAMANIPPON開始發售。

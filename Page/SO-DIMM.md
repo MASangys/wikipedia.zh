@@ -1,3 +1,6 @@
+> 本文内容由[SO-DIMM](https://zh.wikipedia.org/wiki/SO-DIMM)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:1GB_DDR2_SO-DIMM.png "fig:缩略图") DDR2 SO-DIMM\]\] [缩略图](https://zh.wikipedia.org/wiki/File:4GB_DDR3_SO-DIMM.jpg "fig:缩略图") [右](https://zh.wikipedia.org/wiki/File:Laptop_SODIMM_DDR_Memory_Comparison_V2.svg "fig:右") **小外形双列直插式内存模块**（），通常简称为**SO-DIMM**或**SODIMM**，它是一种采用[集成电路](../Page/集成电路.md "wikilink")的[電腦記憶體](../Page/電腦記憶體.md "wikilink")。SO-DIMM类似[DIMM](../Page/DIMM.md "wikilink")，但它的体积更小，大约是常规DIMM的一半。
 
 SO-DIMM经常用于空间有限的系统，例如[筆記型電腦](../Page/筆記型電腦.md "wikilink")、基于[Mini-ITX](../Page/Mini-ITX.md "wikilink")[主板](../Page/主板.md "wikilink")的小体积[个人电脑](../Page/个人电脑.md "wikilink")，高端可升级办公[打印机](../Page/打印机.md "wikilink")，以及诸如[路由器](../Page/路由器.md "wikilink")、[NAS设备等](../Page/網路附加儲存.md "wikilink")。

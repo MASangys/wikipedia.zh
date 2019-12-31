@@ -1,4 +1,4 @@
-> 本文内容由[Inside \(游戏\)](https://zh.wikipedia.org/wiki/Inside \(游戏\))转换而来。
+> 本文内容由[Inside \(游戏\)](https://zh.wikipedia.org/wiki/Inside_\(游戏\))转换而来。
 
 
 《**Inside**》是一款由獨立遊戲工作室[Playdead](../Page/Playdead.md "wikilink")所開發及發行的[平台](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")[解謎及](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。遊戲無論在主題及視覺上均類似同一公司的另一款作品《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》，玩家需扮演一名小男孩，在黑白色的遊戲環境中解決不同的難題，並同時避免在3D滾動時死亡。

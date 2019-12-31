@@ -1,4 +1,4 @@
-> 本文内容由[Change of Heart](https://zh.wikipedia.org/wiki/Change of Heart)转换而来。
+> 本文内容由[Change of Heart](https://zh.wikipedia.org/wiki/Change_of_Heart)转换而来。
 
 
 《**Change of Heart**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[羅孝勇](../Page/羅孝勇.md "wikilink")的第1張個人音樂專輯，於2014年12月12日發行。

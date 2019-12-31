@@ -1,3 +1,6 @@
+> 本文内容由[小克拉倫斯·D·拉巴里](https://zh.wikipedia.org/wiki/小克拉倫斯·D·拉巴里)转换而来。
+
+
 **小克拉倫斯·D·拉巴里**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[紐約州眾議院議員](https://zh.wikipedia.org/wiki/紐約州眾議院 "wikilink")。
 
 ## 生平

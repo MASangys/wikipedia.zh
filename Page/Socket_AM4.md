@@ -1,4 +1,4 @@
-> 本文内容由[Socket AM4](https://zh.wikipedia.org/wiki/Socket AM4)转换而来。
+> 本文内容由[Socket AM4](https://zh.wikipedia.org/wiki/Socket_AM4)转换而来。
 
 
 **Socket AM4**是[超微半導體公司開發的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[中央處理器插座](../Page/CPU插座.md "wikilink")，用於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen處理器以及ARM公司授權AMD開發的](../Page/AMD_Ryzen.md "wikilink")[ARM架構處理器上](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[1\]\[2\]

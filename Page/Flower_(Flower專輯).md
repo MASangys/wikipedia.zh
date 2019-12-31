@@ -1,3 +1,6 @@
+> 本文内容由[Flower \(Flower專輯\)](https://zh.wikipedia.org/wiki/Flower_\(Flower專輯\))转换而来。
+
+
 《**Flower**》是日本女子組合[Flower的首張](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，2014年1月22日由[Sony Music Associated Records Inc.發行](../Page/日本索尼音樂娛樂.md "wikilink")，台灣則於2014年6月20日由[索尼音樂娛樂發售](../Page/台灣索尼音樂娛樂.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[利比亚LGBT权益](https://zh.wikipedia.org/wiki/利比亚LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**利比亚**面临着法律问题。[利比亚](../Page/利比亚.md "wikilink")将男性或女性的同性间性行为视为犯罪。
 
 ## 刑法

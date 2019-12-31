@@ -1,4 +1,4 @@
-> 本文内容由[USB Type-C](https://zh.wikipedia.org/wiki/USB Type-C)转换而来。
+> 本文内容由[USB Type-C](https://zh.wikipedia.org/wiki/USB_Type-C)转换而来。
 
 
 [LeTV_X600_USB_Type_C_port.jpg](https://zh.wikipedia.org/wiki/File:LeTV_X600_USB_Type_C_port.jpg "fig:LeTV_X600_USB_Type_C_port.jpg")

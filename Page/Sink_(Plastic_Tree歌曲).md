@@ -1,3 +1,6 @@
+> 本文内容由[Sink \(Plastic Tree歌曲\)](https://zh.wikipedia.org/wiki/Sink_\(Plastic_Tree歌曲\))转换而来。
+
+
 《**Sink**》是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Plastic Tree的第](../Page/Plastic_Tree.md "wikilink")5張單曲。1999年8月25日由[WARNER MUSIC JAPAN（日本華納音樂）發行](../Page/日本華納音樂.md "wikilink")。
 
 ## 概要

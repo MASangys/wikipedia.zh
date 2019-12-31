@@ -1,3 +1,6 @@
+> 本文内容由[TATA结合蛋白](https://zh.wikipedia.org/wiki/TATA结合蛋白)转换而来。
+
+
 **TATA结合蛋白质**（，**TBP**）是一种[通用转录因子](https://zh.wikipedia.org/wiki/通用转录因子 "wikilink")，具体结合于[DNA序列上的](../Page/脱氧核糖核酸.md "wikilink")[TATA盒](https://zh.wikipedia.org/wiki/TATA盒 "wikilink")。TATA盒位于[真核](../Page/真核生物.md "wikilink")[基因](../Page/基因.md "wikilink")的[转录](../Page/转录.md "wikilink")起始位点上游约30个[bp](../Page/碱基对.md "wikilink")，属于[啟動子](../Page/啟動子.md "wikilink")区\[1\]。TBP可以和各个[TBP相关因子共同组成](https://zh.wikipedia.org/wiki/TBP相关因子 "wikilink")[通用转录因子](https://zh.wikipedia.org/wiki/通用转录因子 "wikilink")[TF<sub>II</sub>D](https://zh.wikipedia.org/wiki/TFIID "wikilink"),再进一步组成[RNA聚合酶Ⅱ](../Page/RNA聚合酶Ⅱ.md "wikilink")的[转录起始复合物](https://zh.wikipedia.org/wiki/转录起始复合物 "wikilink")\[2\]。
 
 ## 蛋白质的相互作用

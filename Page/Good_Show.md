@@ -1,4 +1,4 @@
-> 本文内容由[Good Show](https://zh.wikipedia.org/wiki/Good Show)转换而来。
+> 本文内容由[Good Show](https://zh.wikipedia.org/wiki/Good_Show)转换而来。
 
 
 《**Good Show**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黃伊汶](../Page/黃伊汶.md "wikilink")的第4張音樂專輯、第2張EP，於2004年10月29日發行。

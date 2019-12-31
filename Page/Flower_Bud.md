@@ -1,4 +1,4 @@
-> 本文内容由[Flower Bud](https://zh.wikipedia.org/wiki/Flower Bud)转换而来。
+> 本文内容由[Flower Bud](https://zh.wikipedia.org/wiki/Flower_Bud)转换而来。
 
 
 《**Flower Bud**》，是韓國女子演唱團體[GFRIEND](../Page/GFRIEND.md "wikilink")的第二張迷你專輯，為「校園系列三部曲」的第二部曲，以(Me Gustas Tu)為主打歌。

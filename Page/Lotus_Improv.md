@@ -1,4 +1,4 @@
-> 本文内容由[Lotus Improv](https://zh.wikipedia.org/wiki/Lotus Improv)转换而来。
+> 本文内容由[Lotus Improv](https://zh.wikipedia.org/wiki/Lotus_Improv)转换而来。
 
 
 **Lotus Improv** 是一個新概念的試算表軟體，在 1991 年於 NeXT 平台發佈 1.0 版本，接著在 1993 年於 Windows 發佈 2.0 版本與 2.1 修本版本，Windows 的第一個版本即是 2.0 並無 1.0 的版本產生；而後 Lotus Software 由於市場與公司的原因，並沒有再推出後續版本，也沒有對其產品於 NeXT 與 Windows 平台再有維護檔案。

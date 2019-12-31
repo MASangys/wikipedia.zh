@@ -1,4 +1,4 @@
-> 本文内容由[M\(A\)DE IN JAPAN \(濱崎步專輯\)](https://zh.wikipedia.org/wiki/M\(A\)DE IN JAPAN \(濱崎步專輯\))转换而来。
+> 本文内容由[M\(A\)DE IN JAPAN \(濱崎步專輯\)](https://zh.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN_\(濱崎步專輯\))转换而来。
 
 
 《**M(A)DE IN JAPAN**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第17張原創專輯，於2016年6月29日在日本發行，也是濱崎步第一張未能賣出5萬銷量的原創專輯。

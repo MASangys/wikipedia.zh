@@ -1,3 +1,6 @@
+> 本文内容由[塗鴉BEAT](https://zh.wikipedia.org/wiki/塗鴉BEAT)转换而来。
+
+
 《'''塗鴉BEAT '''》（）是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2017年1月25日發行
 
 ## 概要

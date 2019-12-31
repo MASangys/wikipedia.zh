@@ -1,4 +1,4 @@
-> 本文内容由[B\'z LIVE-GYM 2015 -EPIC NIGHT-](https://zh.wikipedia.org/wiki/B\'z LIVE-GYM 2015 -EPIC NIGHT-)转换而来。
+> 本文内容由[B\'z LIVE-GYM 2015 -EPIC NIGHT-](https://zh.wikipedia.org/wiki/B\'z_LIVE-GYM_2015_-EPIC_NIGHT-)转换而来。
 
 
 《**B'z LIVE-GYM 2015 -EPIC NIGHT-**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")的LIVE映像化作品。以[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray的形式发售](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[Love Song \(電視劇\)](https://zh.wikipedia.org/wiki/Love Song \(電視劇\))转换而来。
+> 本文内容由[Love Song \(電視劇\)](https://zh.wikipedia.org/wiki/Love_Song_\(電視劇\))转换而来。
 
 
 《**悅音響起**》（），2016年4月11日起，每週一晚間9:00－9:54於[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")播出的[月9連續劇](https://zh.wikipedia.org/wiki/月9 "wikilink")\[1\]，由[福山雅治](../Page/福山雅治.md "wikilink")主演。此劇的編劇為獲得的新銳編劇[倉光泰子](../Page/倉光泰子.md "wikilink")。福山雅治是繼《[破案天才伽利略](https://zh.wikipedia.org/wiki/破案天才伽利略 "wikilink")》之後睽違三年主演月九劇\[2\]\[3\]。

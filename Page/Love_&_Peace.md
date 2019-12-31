@@ -1,4 +1,4 @@
-> 本文内容由[Love \& Peace](https://zh.wikipedia.org/wiki/Love \& Peace)转换而来。
+> 本文内容由[Love \& Peace](https://zh.wikipedia.org/wiki/Love_\&_Peace)转换而来。
 
 
 《**Love & Peace**》是梁漢文婚後首張推出的個人迷你專輯(EP)，以抒情情歌為主，共收錄7首全新歌。同時亦是金牌唱片易名為「金牌大風」後所發行第一張梁漢文唱片。Edmond 請來同樣是新秀歌唱比賽出身的吳國敬監製新歌「住家丁麵」，歌詞中帶出他愛家的一面。另一曲「痛快」則由雷頌德炮製，此外，碟內還收錄了 Edmond 為網上遊戲的主題曲「安魂戰曲」和「最愛」。

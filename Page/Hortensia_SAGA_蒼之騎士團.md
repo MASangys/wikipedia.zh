@@ -1,3 +1,6 @@
+> 本文内容由[Hortensia SAGA 蒼之騎士團](https://zh.wikipedia.org/wiki/Hortensia_SAGA_蒼之騎士團)转换而来。
+
+
 是一款[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")（RPG），由日本電子遊戲公司[SEGA所開發的一款遊戲](https://zh.wikipedia.org/wiki/SEGA "wikilink") ，分為日文、繁體、簡體三個版本，其中繁體版由[奧爾資訊](../Page/奧爾資訊.md "wikilink")代理營運。
 
 ## 遊戲內容

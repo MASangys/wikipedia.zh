@@ -1,3 +1,6 @@
+> 本文内容由[Oh！ 半地下室的女神們](https://zh.wikipedia.org/wiki/Oh！_半地下室的女神們)转换而来。
+
+
 《'''Oh！ 半地下室的女神們 '''》（） ，於在2017年10月19日[OnStyle](../Page/OnStyle.md "wikilink")網路播出\[1\]，由[夏沇秀](../Page/夏沇秀.md "wikilink")、[素珍](https://zh.wikipedia.org/wiki/素珍 "wikilink")、[車貞媛](https://zh.wikipedia.org/wiki/車貞媛 "wikilink")、[羅海嶺等人主演](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")\[2\]\[3\]。
 
 ## 劇情

@@ -1,4 +1,4 @@
-> 本文内容由[Portal:社会/Featured article/21](https://zh.wikipedia.org/wiki/Portal:社会/Featured article/21)转换而来。
+> 本文内容由[Portal:社会/Featured article/21](https://zh.wikipedia.org/wiki/Portal:社会/Featured_article/21)转换而来。
 
 
 {{\#if:|

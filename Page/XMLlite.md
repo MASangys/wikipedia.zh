@@ -1,3 +1,6 @@
+> 本文内容由[XMLlite](https://zh.wikipedia.org/wiki/XMLlite)转换而来。
+
+
 **XMLlite**是[Windows操作系统提供的了一组服务](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")，用户可以使用C/C++语言和其它微软的开发工具开发基于[XML](../Page/XML.md "wikilink")的本机应用程序。它支持XML 1.0、[SAX](https://zh.wikipedia.org/wiki/Simple_API_for_XML "wikilink")、[XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink") 1.0，并提供了包括[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[XDR在内的](https://zh.wikipedia.org/wiki/XDR_Schema "wikilink")[XML Schema 语言](../Page/XML_Schema_语言.md "wikilink")、[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")、[XPath](../Page/XPath.md "wikilink")等技术。
 
 XMLlite是前向读写XML文件，不缓冲或者建立XML文件的结构。

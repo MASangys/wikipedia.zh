@@ -1,3 +1,6 @@
+> 本文内容由[SORARU](https://zh.wikipedia.org/wiki/SORARU)转换而来。
+
+
 **SORARU**（そらる，），是[日本](../Page/日本.md "wikilink")男性[歌手](../Page/歌手.md "wikilink")。出生於[宮城縣](../Page/宮城縣.md "wikilink")。血型[O型](../Page/ABO血型系统.md "wikilink")。身高176公分，體重59\~60公斤。有弟弟、妹妹，是家裡的長子。
 
 負責音樂組合[After the Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
@@ -17,7 +20,7 @@
 
 [After the Rain と 大事な話](http://ameblo.jp/uni-mafumafu/entry-12115234958.html) まふまふ公式ブログ 2016年1月8日</ref>。
 
-  - 偶爾會和[まふまふ](https://zh.wikipedia.org/wiki/まふまふ "wikilink")、[うらたぬき](https://zh.wikipedia.org/wiki/浦田涉 "wikilink")、一起錄製玩遊戲的實況影片，四人合稱為「」。
+  - 偶爾會和[まふまふ](https://zh.wikipedia.org/wiki/まふまふ "wikilink")、[うらたぬき](../Page/浦田涉.md "wikilink")、一起錄製玩遊戲的實況影片，四人合稱為「」。
   - 學空手道8年、柔道3年，皆有拿到黑帶。（2012年6月29日的推特）\[1\]
   - 因為膚色很白所以很常被叫做 "（半片又稱魚餅或魚糕，一種魚漿製品。）"，而繪師[くまお所繪的](https://zh.wikipedia.org/wiki/くまお "wikilink")**そらる**吉祥物"はんぺん"被廣為接受，最後還被商品化\[2\]。
   - 於2017/11/03生日當天同時推特追隨數破百萬
@@ -152,7 +155,7 @@
 <td><p>第10名</p></td>
 </tr>
 <tr class="odd">
-<td><p>3rd</p></td>
+<td><p>＃</p></td>
 <td><p>2016年7月19日</p></td>
 <td><p>ビー玉の中の宇宙[6]</p></td>
 <td><p>そらる</p></td>
@@ -184,6 +187,76 @@
 </ol></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p>2019年7月17日</p></td>
+<td><p>ワンダー[7]</p></td>
+<td><p><a href="../Page/環球音樂_(日本).md" title="wikilink">環球音樂</a></p></td>
+<td><p>初回限定盤A（附DVD）</p></td>
+<td><p>TYCT-69151</p></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<dl>
+<dt>CD</dt>
+
+</dl>
+<ol>
+<li>銀の祈誓</li>
+<li>アイフェイクミー</li>
+<li>幻日</li>
+<li>アイソレイト</li>
+<li>海中の月を掬う</li>
+<li>ユーリカ</li>
+<li>ありふれた魔法</li>
+<li>アンサー</li>
+<li>教えて神様</li>
+<li>それは永遠のような</li>
+<li>オレンジの約束</li>
+<li>10</li>
+<li>ワンダー</li>
+</ol>
+<dl>
+<dt>DVD-A</dt>
+
+</dl>
+<ol>
+<li>Music Video:「アイフェイクミー」「海中の月を掬う」</li>
+<li>Music Videoメイキング映像: 「アイフェイクミー」「海中の月を掬う」</li>
+<li>「SORARU LIVE TOUR 2019 -10th Anniversary Parade-」</li>
+</ol>
+<dl>
+<dt>DVD-B</dt>
+
+</dl>
+<ol>
+<li>「そらるが贅沢キャンプに行ってみた」</li>
+<li>「楓-cover-」Studio Session</li>
+</ol></td>
+<td><p>第2名</p></td>
+</tr>
+<tr class="odd">
+<td><p>初回限定盤B（附DVD）</p></td>
+<td><p>TYCT-69152</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>通常盤</p></td>
+<td><p>TYCT-60142</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -206,7 +279,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>預定2017年11月8日</p></td>
-<td><p>夢見るたまごの育て方[7]</p></td>
+<td><p>夢見るたまごの育て方[8]</p></td>
 <td><p>-</p></td>
 <td><p>CD</p></td>
 <td></td>
@@ -323,7 +396,7 @@
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2017年7月21日</p></td>
-<td><p>リバース・イン・ワンダーランド[8]</p></td>
+<td><p>リバース・イン・ワンダーランド[9]</p></td>
 <td><p>Celo Project</p></td>
 <td><p>CD</p></td>
 <td><div class="NavFrame collapsed" style="clear:both;border:0;">
@@ -487,6 +560,7 @@
   - 2.5 Song MATE 2015年4月号（2015年2月20日、フールズメイト）
   - 歌ってみたの本 September 2016（2016年8月1日、KADOKAWA）ISBN 978-4047342620
   - 歌ってみたの本 September 2017（2017年8月1日、KADOKAWA）ISBN 978-4047347359
+  - anan(アンアン) No.2180 (2019年12月11日、若者文化) ISBN 491-0204831293
 
 ## 來源
 
@@ -513,5 +587,6 @@
 4.  [Album『そらあい』特設網站](http://soraru.jp/)
 5.  [Album『夕溜まりのしおり』特設網站](http://soraru.tokyo/)
 6.  [Album『ビー玉の中の宇宙』特設網站](http://bnu.soraruru.jp/)
-7.  [Album『夢見るたまごの育て方』特設網站](https://yumetama.soraruru.jp/)
-8.  [Album『リバース・イン・ワンダーランド』特設網站](http://riw.soraruru.jp)
+7.
+8.  [Album『夢見るたまごの育て方』特設網站](https://yumetama.soraruru.jp/)
+9.  [Album『リバース・イン・ワンダーランド』特設網站](http://riw.soraruru.jp)

@@ -1,3 +1,6 @@
+> 本文内容由[KBS演藝大獎](https://zh.wikipedia.org/wiki/KBS演藝大獎)转换而来。
+
+
 **《KBS演藝大獎》**（；）是由[韓國三大](https://zh.wikipedia.org/wiki/韓國 "wikilink")[無線電視台之一的](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")[韓國放送公社](../Page/韓國放送公社.md "wikilink")（KBS）自1987年起主辦，以表彰過去一年中為觀眾帶來歡笑和感動的藝人而舉辦的頒獎典禮。創立初期的典禮名稱為《KBS喜劇大獎》（），1995年曾更名為《KBS喜劇大祝祭》（），其後一度取消頒獎典禮。直至2002年起復辦，並正式更名為《KBS演藝大獎》，定於每年12月第4個周六於[汝矣島](../Page/汝矣島.md "wikilink")洞KBS新館公開廳舉行。
 
 ## 歷屆主持名單

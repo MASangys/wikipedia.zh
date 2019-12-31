@@ -1,3 +1,6 @@
+> 本文内容由[Moment \(Vivian or Kazuma歌曲\)](https://zh.wikipedia.org/wiki/Moment_\(Vivian_or_Kazuma歌曲\))转换而来。
+
+
 「**moment**」是[徐若瑄](../Page/徐若瑄.md "wikilink")與[遠藤一馬結成的組合Vivian](https://zh.wikipedia.org/wiki/遠藤一馬 "wikilink") or Kazuma的首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2003年1月29日在日本發行。標題曲《moment》亦是《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》的主題曲。
 
 同年4月23日發行本作的混音單曲「**moment remixes**」。

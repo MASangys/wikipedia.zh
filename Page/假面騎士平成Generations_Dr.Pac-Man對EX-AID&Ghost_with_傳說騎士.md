@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with 傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID\&Ghost_with_傳說騎士)转换而来。
+
+
 《**假面騎士平成Generations Dr. Pac-Man對EX-AID & Ghost with 傳說騎士**》（'''），是日本特攝節目《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》聯動劇場版，日本地區於2016年12月10日上映。
 
 ## 本作特色

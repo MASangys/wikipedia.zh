@@ -1,4 +1,4 @@
-> 本文内容由[排版引擎比较 \(HTML5画布\)](https://zh.wikipedia.org/wiki/排版引擎比较 \(HTML5画布\))转换而来。
+> 本文内容由[排版引擎比较 \(HTML5画布\)](https://zh.wikipedia.org/wiki/排版引擎比较_\(HTML5画布\))转换而来。
 
 
 下表比较了[HTML5](../Page/HTML5.md "wikilink")[画布元素对绘图](../Page/Canvas_\(HTML元素\).md "wikilink")[API的支持及网页浏览器的原生支持程度](https://zh.wikipedia.org/wiki/API "wikilink")，无任何[插件](../Page/插件.md "wikilink")、附加组件或[ECMAScript](../Page/ECMAScript.md "wikilink")工作区。

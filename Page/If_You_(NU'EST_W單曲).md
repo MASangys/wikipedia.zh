@@ -1,3 +1,6 @@
+> 本文内容由[If You \(NU\'EST W單曲\)](https://zh.wikipedia.org/wiki/If_You_\(NU\'EST_W單曲\))转换而来。
+
+
 **If You**（）是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")由於成員[黃旼炫](../Page/黃旼炫.md "wikilink")加入限時企劃團體[Wanna One後](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，組成的分隊[NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink")\[1\]所發行的韓文數位單曲\[2\] 。2017年7月25日於各大音源網站公開線上音源。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[8chan](https://zh.wikipedia.org/wiki/8chan)转换而来。
+
+
 **8chan**（或稱**Infinitechan**、**8ch**）是一個美國[貼圖討論版](https://zh.wikipedia.org/wiki/貼圖討論版 "wikilink")，由用戶建立的討論版組成。建立每個版的用戶會自動成為該版的版主，而網站的管理員甚少介入版內的管理工作。\[1\]
 
 任何符合美國法律的內容均可發佈到該網站上。

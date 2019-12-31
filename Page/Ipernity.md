@@ -1,3 +1,6 @@
+> 本文内容由[Ipernity](https://zh.wikipedia.org/wiki/Ipernity)转换而来。
+
+
 **ipernity**為一提供免費及付費[數位相片儲存](https://zh.wikipedia.org/wiki/數位攝影 "wikilink")、及網路社群平台的網站。該網站是專為作家、藝術家和普通用戶，發表照片、[博客文章](https://zh.wikipedia.org/wiki/博客 "wikilink")，或提供視頻和音頻文件共享。 ipernity經常被拿來與另一網路相簿平台[Flickr](../Page/Flickr.md "wikilink")做比較\[1\]\[2\]\[3\]。
 
 ## 歷史

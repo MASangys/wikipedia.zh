@@ -1,3 +1,6 @@
+> 本文内容由[Portal:推想小說/Header](https://zh.wikipedia.org/wiki/Portal:推想小說/Header)转换而来。
+
+
 __NOTOC__
 
 <table style="width:10%;">

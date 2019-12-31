@@ -1,4 +1,4 @@
-> 本文内容由[MTN 8](https://zh.wikipedia.org/wiki/MTN 8)转换而来。
+> 本文内容由[MTN 8](https://zh.wikipedia.org/wiki/MTN_8)转换而来。
 
 
 {{ infobox football tournament | current = 2014 MTN 8 | logo = | founded = 1972 | number of teams = 8 | region =  | current champions = [凱薩酋長足球會](https://zh.wikipedia.org/wiki/凱薩酋長足球會 "wikilink") | most successful club = [凱薩酋長足球會](https://zh.wikipedia.org/wiki/凱薩酋長足球會 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[SONGBOOK 天邪鬼](https://zh.wikipedia.org/wiki/SONGBOOK_天邪鬼)转换而来。
+
+
 《**SONGBOOK 天邪鬼**》（）是[日本](../Page/日本.md "wikilink")歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的合輯+書籍，於2016年10月5日發行。
 
 ## 概述

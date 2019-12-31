@@ -1,3 +1,6 @@
+> 本文内容由[特里·F·摩尔](https://zh.wikipedia.org/wiki/特里·F·摩尔)转换而来。
+
+
 **特里·菲茨杰拉德·摩尔**（） ，前美国陆军上校、法务官出身。现任[美国阿拉巴马南区联邦地区法院法官](https://zh.wikipedia.org/wiki/美国阿拉巴马南区联邦地区法院 "wikilink")。
 
 ## 简介
@@ -36,20 +39,16 @@
 [Category:马里昂军事学院校友](https://zh.wikipedia.org/wiki/Category:马里昂军事学院校友 "wikilink") [Category:阿拉巴马大学校友](https://zh.wikipedia.org/wiki/Category:阿拉巴马大学校友 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
 7.
 8.
-
 9.
 10.
 11.
-
 12.
 13.
 14.

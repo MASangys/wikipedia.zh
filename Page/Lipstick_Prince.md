@@ -1,3 +1,6 @@
+> 本文内容由[Lipstick Prince](https://zh.wikipedia.org/wiki/Lipstick_Prince)转换而来。
+
+
 《**LipStick Prince**》（）是為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[OnStyle](../Page/OnStyle.md "wikilink")的一檔男性[美妝](../Page/化妆.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")，2016年12月1日開始\[1\]，逢[韓國時間星期四](../Page/韩国标准时.md "wikilink")21時00分在[OnStyle](../Page/OnStyle.md "wikilink")播出，每集約54分鐘。
 
 《LipStick Prince》是打破「只有女性會化妝」的偏見\[2\]，由八位花美男偶像共同出演的改造節目，透過節目，成員們展示最令人心動的美妝，滿足諸多女性觀眾的幻想與好奇心\[3\] ，第一季由[金希澈擔任節目MC](../Page/希澈.md "wikilink")，[Block B成員](../Page/Block_B.md "wikilink")[P.O](../Page/P.O.md "wikilink")、[U-Kwon](../Page/U-Kwon.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")成員[徐恩光](../Page/徐恩光.md "wikilink")、[MONSTA X成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[Shownu](../Page/孫賢祐.md "wikilink")、[NCT](../Page/NCT.md "wikilink")成員[道英](../Page/道英.md "wikilink")、[SF9成員](https://zh.wikipedia.org/wiki/SF9 "wikilink")[路雲](https://zh.wikipedia.org/wiki/金錫宇 "wikilink")、歌手[Tony An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。每期節目都將邀請不同的「公主」，「王子」們需根據每期不同的主題，依次為「公主」化妝，公主將從中挑選一位最終成功俘獲自己芳心的「王子」。

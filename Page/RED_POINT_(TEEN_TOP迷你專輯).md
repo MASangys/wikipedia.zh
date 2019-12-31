@@ -1,4 +1,4 @@
-> 本文内容由[RED POINT \(TEEN TOP迷你專輯\)](https://zh.wikipedia.org/wiki/RED POINT \(TEEN TOP迷你專輯\))转换而来。
+> 本文内容由[RED POINT \(TEEN TOP迷你專輯\)](https://zh.wikipedia.org/wiki/RED_POINT_\(TEEN_TOP迷你專輯\))转换而来。
 
 
 《**RED POINT**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")7枚迷你韓語專輯，於2016年1月18日發行，主打歌曲為《死角地帶》（）\[1\]。

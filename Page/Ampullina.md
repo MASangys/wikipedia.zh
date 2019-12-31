@@ -1,3 +1,6 @@
+> 本文内容由[Ampullina](https://zh.wikipedia.org/wiki/Ampullina)转换而来。
+
+
 是一個已滅絕的深水[海螺的](https://zh.wikipedia.org/wiki/海螺 "wikilink")[屬級分類](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，屬於[新進腹足類](../Page/新進腹足類.md "wikilink")的[海洋](https://zh.wikipedia.org/wiki/海洋生物 "wikilink")[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")。這些海螺都是[表生動物相](https://zh.wikipedia.org/wiki/表生動物相 "wikilink")（epifaunal grazers）。牠們存活的年代從[侏羅紀到上](https://zh.wikipedia.org/wiki/侏羅紀 "wikilink")[中新世](../Page/中新世.md "wikilink")時代。
 
 ## 物種

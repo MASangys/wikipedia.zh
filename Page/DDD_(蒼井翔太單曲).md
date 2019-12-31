@@ -1,3 +1,6 @@
+> 本文内容由[DDD \(蒼井翔太單曲\)](https://zh.wikipedia.org/wiki/DDD_\(蒼井翔太單曲\))转换而来。
+
+
 {{ external media | align = right | video1 = [DDD - YouTube公式視聴動画](https://www.youtube.com/watch?v=_Sim_NGRp90) | video2 = [north star - YouTube公式視聴動画](https://www.youtube.com/watch?v=jJwoaO0bGQI) | video3 = [Endless Song - YouTube公式視聴動画](https://www.youtube.com/watch?v=Iq8xQzFQiUg) }} 「**DDD**」（Triple D）是[蒼井翔太](../Page/蒼井翔太.md "wikilink")第七張單曲，2016年10月19日由國王唱片發售。\[1\]。
 
 ## 概要

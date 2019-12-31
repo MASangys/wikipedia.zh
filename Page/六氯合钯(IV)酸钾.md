@@ -1,3 +1,6 @@
+> 本文内容由[六氯合钯\(IV\)酸钾](https://zh.wikipedia.org/wiki/六氯合钯\(IV\)酸钾)转换而来。
+
+
 **六氯合钯(IV)酸钾**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为K<sub>2</sub>\[PdCl<sub>6</sub>\]。
 
 ## 制备

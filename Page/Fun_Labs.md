@@ -1,4 +1,4 @@
-> 本文内容由[Fun Labs](https://zh.wikipedia.org/wiki/Fun Labs)转换而来。
+> 本文内容由[Fun Labs](https://zh.wikipedia.org/wiki/Fun_Labs)转换而来。
 
 
 **Fun Labs**，是罗马尼亚布加勒斯特的一家游戏公司，成立于1999年，他们的主要发行商为[动视](../Page/动视.md "wikilink")。该工作室因Cabela系列游戏和Prototype系列游戏而知名。

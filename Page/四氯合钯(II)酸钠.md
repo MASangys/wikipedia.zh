@@ -1,3 +1,6 @@
+> 本文内容由[四氯合钯\(II\)酸钠](https://zh.wikipedia.org/wiki/四氯合钯\(II\)酸钠)转换而来。
+
+
 **四氯合钯(II)酸钠**是一种[配合物](../Page/配合物.md "wikilink")，化学式为Na<sub>2</sub>\[PdCl<sub>4</sub>\]。易溶于水和乙醇。\[1\]
 
 ## 制备

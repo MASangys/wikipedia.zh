@@ -1,4 +1,4 @@
-> 本文内容由[七龍珠Z 銀河面臨危機!!身手不凡的高手](https://zh.wikipedia.org/wiki/七龍珠Z 銀河面臨危機!!身手不凡的高手)转换而来。
+> 本文内容由[七龍珠Z 銀河面臨危機!!身手不凡的高手](https://zh.wikipedia.org/wiki/七龍珠Z_銀河面臨危機!!身手不凡的高手)转换而来。
 
 
 《**七龙珠Z 银河面临危机\!\!身手不凡的高手**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The Galaxy's at the Brink\!\! The Super Incredible Guy），是[七龍珠在](../Page/七龙珠.md "wikilink")1993年7月10日上映的第12部劇場版動畫。\[1\]故事时间在在[沙鲁事件之后](https://zh.wikipedia.org/wiki/沙鲁 "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[Remember \(歌曲\)](https://zh.wikipedia.org/wiki/Remember \(歌曲\))转换而来。
+> 本文内容由[Remember \(歌曲\)](https://zh.wikipedia.org/wiki/Remember_\(歌曲\))转换而来。
 
 
 《**Remember**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")的代表[歌曲](../Page/歌曲.md "wikilink")，於2015年7月14日發行，收錄於第二張正規[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")《[Pink MEMORY](../Page/Pink_MEMORY.md "wikilink")》。

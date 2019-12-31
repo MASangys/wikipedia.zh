@@ -1,4 +1,4 @@
-> 本文内容由[Mounting Up 如鷹展翅](https://zh.wikipedia.org/wiki/Mounting Up 如鷹展翅)转换而来。
+> 本文内容由[Mounting Up 如鷹展翅](https://zh.wikipedia.org/wiki/Mounting_Up_如鷹展翅)转换而来。
 
 
 《**Mounting Up 如鷹展翅**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Mounting Up）是一套青春舞台劇，亦是[香港仔浸信會呂明才書院](../Page/香港仔浸信會呂明才書院.md "wikilink")建校四十週年藝術紀念作品，由[人間搞作](https://zh.wikipedia.org/wiki/人間搞作 "wikilink")、[壹加壹製作有限公司製作](https://zh.wikipedia.org/wiki/壹加壹製作有限公司 "wikilink")。故事講述一班青春學生的不同生活景況，各有自己的理想與目標，經過努力應對挑戰，受到旁人一直的打氣，注目自己的目標。在十年後，興奮地於終點重聚，展現自己達到的理想。此劇亦是香港仔浸信會呂明才書院首部公演的**福音音樂劇**，由[禤楊美鄰女士擔任舞台劇大會](https://zh.wikipedia.org/wiki/禤楊美鄰 "wikilink")[顧問](https://zh.wikipedia.org/wiki/顧問 "wikilink")。

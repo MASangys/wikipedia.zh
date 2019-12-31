@@ -1,4 +1,4 @@
-> 本文内容由[X射線營地 \(電影\)](https://zh.wikipedia.org/wiki/X射線營地 \(電影\))转换而来。
+> 本文内容由[X射線營地 \(電影\)](https://zh.wikipedia.org/wiki/X射線營地_\(電影\))转换而来。
 
 
 是2014年的美國獨立[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")，根據[關塔那摩灣拘押中心的X射線營地拘留設施拍攝](https://zh.wikipedia.org/wiki/關塔那摩灣拘押中心 "wikilink")。電影是由彼得·薩特勒（Peter Sattler）編導，[克莉絲汀·史都華](../Page/克莉絲汀·史都華.md "wikilink")、佩曼·莫阿迪（Peyman Moaadi）主演，約翰·卡羅爾·林奇、約瑟朱利安·索里亞，及[萊恩·加里森參演](https://zh.wikipedia.org/wiki/萊恩·加里森 "wikilink")。

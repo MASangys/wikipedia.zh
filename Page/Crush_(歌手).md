@@ -1,4 +1,4 @@
-> 本文内容由[Crush \(歌手\)](https://zh.wikipedia.org/wiki/Crush \(歌手\))转换而来。
+> 本文内容由[Crush \(歌手\)](https://zh.wikipedia.org/wiki/Crush_\(歌手\))转换而来。
 
 
 **申效涉**\[1\]（，），為人熟知的藝名為**Crush**（），是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[R\&B及](https://zh.wikipedia.org/wiki/R&B "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")音乐人，於2012年憑藉〈Red Dress〉一曲出道。

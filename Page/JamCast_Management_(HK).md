@@ -1,4 +1,4 @@
-> 本文内容由[JamCast Management \(HK\)](https://zh.wikipedia.org/wiki/JamCast Management \(HK\))转换而来。
+> 本文内容由[JamCast Management \(HK\)](https://zh.wikipedia.org/wiki/JamCast_Management_\(HK\))转换而来。
 
 
 **JamCast Management (Hong Kong) Limited**，簡稱**JamCast**，在1998年，由[陳穎儀和](https://zh.wikipedia.org/wiki/陳穎儀 "wikilink")[李珮詩於](https://zh.wikipedia.org/wiki/李珮詩 "wikilink")[香港](../Page/香港.md "wikilink")（總部）成立。

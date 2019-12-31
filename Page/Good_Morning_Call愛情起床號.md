@@ -1,4 +1,4 @@
-> 本文内容由[Good Morning Call愛情起床號](https://zh.wikipedia.org/wiki/Good Morning Call愛情起床號)转换而来。
+> 本文内容由[Good Morning Call愛情起床號](https://zh.wikipedia.org/wiki/Good_Morning_Call愛情起床號)转换而来。
 
 
 《**Good Morning Call 愛情起床號**》是[高須賀由枝的漫畫書](https://zh.wikipedia.org/wiki/高須賀由枝 "wikilink")。

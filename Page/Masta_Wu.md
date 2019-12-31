@@ -1,3 +1,6 @@
+> 本文内容由[Masta Wu](https://zh.wikipedia.org/wiki/Masta_Wu)转换而来。
+
+
 __索引__
 
 Masta Wu（[韓語](../Page/朝鮮語.md "wikilink")：**마스타 우**，1978年10月25日－），181cm，63kg，信仰為基督教，是韓國男饒舌歌手、鮮明的個性和獨特的說唱風格，並曾為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下。

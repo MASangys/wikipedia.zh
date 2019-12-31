@@ -1,3 +1,6 @@
+> 本文内容由[MATERIAL BRAVE](https://zh.wikipedia.org/wiki/MATERIAL_BRAVE)转换而来。
+
+
 是[戲畫於](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2012年3月23日發售的[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")、[角色扮演](../Page/電子角色扮演遊戲.md "wikilink")、[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2013年1月25日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《MATERIAL BRAVE Ignition》（）。\[3\]\[4\]除了遊戲也還發售漫畫、小說\[5\]、CD。
 
 ## 故事

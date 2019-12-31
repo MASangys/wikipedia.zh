@@ -1,4 +1,4 @@
-> 本文内容由[三星Galaxy Core](https://zh.wikipedia.org/wiki/三星Galaxy Core)转换而来。
+> 本文内容由[三星Galaxy Core](https://zh.wikipedia.org/wiki/三星Galaxy_Core)转换而来。
 
 
 三星**Galaxy Core**是[三星電子](../Page/三星電子.md "wikilink")生產的[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。單[SIM卡型號在](https://zh.wikipedia.org/wiki/SIM "wikilink")2013年5月初公佈，在月尾發售；而單SIM卡版本在7月發售。單SIM卡型號並不在一些國家發售，另外雙卡模式已於2013年5月中下旬發布。\[1\]

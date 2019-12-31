@@ -1,4 +1,4 @@
-> 本文内容由[模块:Sports results](https://zh.wikipedia.org/wiki/模块:Sports results)转换而来。
+> 本文内容由[模块:Sports results](https://zh.wikipedia.org/wiki/模块:Sports_results)转换而来。
 
 
 \-- Module to build results cross-tables for standings in Sports -- See documentation for details

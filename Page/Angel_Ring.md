@@ -1,3 +1,6 @@
+> 本文内容由[Angel Ring](https://zh.wikipedia.org/wiki/Angel_Ring)转换而来。
+
+
 是日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")公司於2010年6月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2012年由萌えAPP分別發售[Android](../Page/Android.md "wikilink")版、[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[3\]
 
 ## 故事

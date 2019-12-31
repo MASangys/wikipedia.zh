@@ -1,3 +1,6 @@
+> 本文内容由[Tox](https://zh.wikipedia.org/wiki/Tox)转换而来。
+
+
 **Tox**是一个使用[端到端加密法及](https://zh.wikipedia.org/wiki/端到端加密法 "wikilink")[点对点网络的即时通讯和视频电话协议](https://zh.wikipedia.org/wiki/点对点网络 "wikilink")，遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")协议发布。该项目的目标是为所有人提供安全而方便的通信方式\[1\]。此协议的一个参考实现已作为[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")发布。
 
 ## 历史

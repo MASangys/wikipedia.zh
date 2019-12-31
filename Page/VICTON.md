@@ -1,3 +1,6 @@
+> 本文内容由[VICTON](https://zh.wikipedia.org/wiki/VICTON)转换而来。
+
+
 **VICTON**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Plan A娛樂首次推出的](../Page/Plan_A娛樂.md "wikilink")7人男子組合\[1\]。成員包括韓勝宇、姜昇植、許燦、林勢俊、都韓勢、崔秉燦、鄭秀彬，於2016年11月9日發行迷你專輯《Voice To New World》，以主打歌《I'm fine》出道\[2\]。
 
 出道前曾以[Mnet](../Page/Mnet.md "wikilink")實境節目《Me&7Men》亮相。 他們亦是女子組合[APINK的師弟](https://zh.wikipedia.org/wiki/APINK "wikilink")，在出道前已備受大眾矚目。

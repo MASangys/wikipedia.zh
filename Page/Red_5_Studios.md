@@ -1,3 +1,6 @@
+> 本文内容由[Red 5 Studios](https://zh.wikipedia.org/wiki/Red_5_Studios)转换而来。
+
+
 **Red 5 Studios**，是美国一家电子游戏开发公司，为[第九城市](../Page/第九城市.md "wikilink")子公司。
 
 ## 历史
@@ -33,23 +36,16 @@
 [Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink") [Category:第九城市](https://zh.wikipedia.org/wiki/Category:第九城市 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.
 7.
-
 8.
 9.
-
 10.
-
 11. <https://twitter.com/FadedPez/status/757697647075467264> |title= Faded Pez July 25, 2016 Twitter: No longer with Red 5 as of today
-
 12.
 13.
-
 14.

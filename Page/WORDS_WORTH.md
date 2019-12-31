@@ -1,3 +1,6 @@
+> 本文内容由[WORDS WORTH](https://zh.wikipedia.org/wiki/WORDS_WORTH)转换而来。
+
+
 是日本[élf公司在](https://zh.wikipedia.org/wiki/élf "wikilink")1993年7月22日發售的[角色扮演類型的](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，1999年3月25日發售重製版。\[1\]遊戲發售後也改編成OVA和小說。
 
 ## 故事

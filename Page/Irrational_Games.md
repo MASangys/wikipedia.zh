@@ -1,4 +1,4 @@
-> 本文内容由[Irrational Games](https://zh.wikipedia.org/wiki/Irrational Games)转换而来。
+> 本文内容由[Irrational Games](https://zh.wikipedia.org/wiki/Irrational_Games)转换而来。
 
 
 **Irrational Games**（称为**2K Boston, Inc.**/**2K Australia Pty. Ltd**），成立于1997年，由Looking Glass Studios的三名前雇员：肯·莱文，崔泰源乔纳森和Robert Fermier创立。 2006年1月9日，[Take-Two宣布](https://zh.wikipedia.org/wiki/Take-Two "wikilink")，他们已经购买该工作室，并会在[2K Games品牌发布游戏](../Page/2K_Games.md "wikilink")。

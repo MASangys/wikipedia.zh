@@ -1,4 +1,4 @@
-> 本文内容由[Sirens Vocal Band](https://zh.wikipedia.org/wiki/Sirens Vocal Band)转换而来。
+> 本文内容由[Sirens Vocal Band](https://zh.wikipedia.org/wiki/Sirens_Vocal_Band)转换而来。
 
 
 **Sirens Vocal Band**（中文譯名：**藍色警報**），或稱 **Sirens 藍色警報**，是臺灣[阿卡貝拉的人聲樂團](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")，成立於2009年4月，成員包括小小 (吳貞璇)、蜻蜓 (黃千庭)、LowC (羅肇麒)、小鐵 (朱世明)，除 LowC 外，團員皆非音樂相關背景出身，擅長在表演中結合豐富的舞台呈現，並與觀眾互動\[1\]。

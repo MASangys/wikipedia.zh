@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build)转换而来。
+
+
 《**假面騎士Build**》（），為2017年9月3日於[朝日電視台](../Page/朝日電視台.md "wikilink")08:00\~08:30，\[1\]播放的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")\[2\]\[3\]，本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第19部[平成](../Page/平成.md "wikilink")系列作品，假面騎士Build 也是本作主角變身的英雄的名字。口號是「勝利的法則已被確定\! 」\[4\]
 
 香港方面，在無線電視取消假面騎士時段導致《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》被跳過播放之後，[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")購入了《-{幪面超人系列}-》版權，并由該作開始播放，並將本作譯名為《-{幪面超人Build}-》，由2018年12月30日開始，於[ViuTV](../Page/ViuTV.md "wikilink")每週日上午11:00－11:30雙語廣播粵語配音版及日語版（第二至十集，週日中午12:00－12:30；第十一至十三集，週六深夜00:30－01:00重播；第十四集起，週六深夜00:35－01:00重播）。粵語配音版配上繁體中文字幕後進行網上直播。提供約7日節目重溫。此作是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")首部播放的《-{幪面超人系列}-》作品。
@@ -2161,7 +2164,7 @@
 <td><p>「Gokunetsu Kinniku！Cross-Z Magma！」<br />
 （日文原文，<br />
 中文意思「極熱筋肉！迫近之熔岩！」）</p></td>
-<td><p>最強形態加格鬥型形態，擁有龍的氣息以及熔岩的無限燃燒能力。<br />
+<td><p>超進化形態加格鬥型形態，擁有龍的氣息以及熔岩的無限燃燒能力。<br />
 無論是性能和格鬥能力都大幅提升，可將滿裝瓶裏的龍虛擬實體化並與變身者共同戰鬥，而且還纏繞著熔岩。<br />
 與之相對的，其配色與燃燒SMASH 大致上相同，可謂不謀而合，背部更可自動展開熊熊燃燒的炎之翼，在高速飛行的同時還能產生猛炎的旋風，將地上的敵人燒盡。</p></td>
 <td><p><strong>Volcanic Attack</strong><br />
@@ -3443,13 +3446,12 @@
     音效：[小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
     本作正派假面騎士和部分反派騎士的變身腰帶，由葛城巧開發和特别制造，稱爲「**騎士系統（Rider System）**」\[40\]。
     由於附加了識別功能，只限定危險等級超過3以上的人才能使用，所以在一開始只有桐生戰兔能使用該腰帶，但隨著萬丈龍我的危險等級提升至3，其於第11話起亦能使用該腰帶。
-    目前該腰帶提供給假面騎士Build 、假面騎士Cross-Z\[41\]、假面騎士Grease\[42\]、假面騎士Rogue 和假面騎士Blood 使用。
-    在第9話透露，製造創造驅動器的目的是爲了製造假面騎士，但葛城巧亦因此不斷找白老鼠來做人體實驗改造成「SMASH」\[43\]，此舉亦是爲了尋找可成爲假面騎士的合適者\[44\]，不過卻因此惹來當年受潘朵拉之盒所散發出的光芒影響的人希望以此作爲增强自己國家的軍事能力。
-    本來只搭載假面騎士Build 的變身機能\[45\]，但第13話經桐生戰兔改良後，創造驅動器亦搭載探查「Best Match」功能。
-    有兩個滿裝瓶插口，左邊是生物類型，右邊是非生物類型滿裝瓶。如該兩款滿裝瓶為最佳配對，就會發出音效「Best Match」（原文「」）\[46\]，然後利用腰帶左邊的把手攪動作變身或轉換形態。雖然兩款滿裝瓶可隨意配對\[47\]，但只有「Best Match」的組合才能發揮完全的戰鬥力。
-    總括來説「Best Match」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Best Match！Are You Ready? ■■\! Yeah\!」（原文「」\[48\]，發動必殺技的音效為「Ready Go！Vortex Finish\! Yeah\!」（原文「」）
+    在第9話透露，製造創造驅動器的目的是爲了製造假面騎士，但葛城巧亦因此不斷找白老鼠來做人體實驗改造成「SMASH」\[41\]，此舉亦是爲了尋找可成爲假面騎士的合適者\[42\]，不過卻因此惹來當年受潘朵拉之盒所散發出的光芒影響的人希望以此作爲增强自己國家的軍事能力。
+    本來只搭載假面騎士Build 的變身機能\[43\]，但經桐生戰兔改良後，創造驅動器亦搭載探查「Best Match」功能。
+    有兩個滿裝瓶插口，左邊是生物類型，右邊是非生物類型滿裝瓶。如該兩款滿裝瓶為最佳配對，就會發出音效「Best Match」（原文「」）\[44\]，然後利用腰帶左邊的把手攪動作變身或轉換形態。雖然兩款滿裝瓶可隨意配對\[45\]，但只有「Best Match」的組合才能發揮完全的戰鬥力。
+    總括來説「Best Match」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Best Match！Are You Ready? ■■\! Yeah\!」（原文「」\[46\]，發動必殺技的音效為「Ready Go！Vortex Finish\! Yeah\!」（原文「」）
     而「Trial」形態的腰帶音效首先為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Are You Ready? 」（原文「」，發動必殺技的音效為「Ready Go！Vortex Attack\!」（原文「」）
-    而其他假面騎士的變身音效與假面騎士Build 的「Best Match」音效基本一樣，唯一分別為「Are You Ready? ■■\! ■■\!」（原文「」\[49\]。
+    而其他假面騎士的變身音效與假面騎士Build 的「Best Match」音效基本一樣，唯一分別為「Are You Ready? ■■\! ■■\!」（原文「」\[47\]。
 
 <!-- end list -->
 
@@ -3461,12 +3463,11 @@
     原文： / *Sclash Driver*
     音效：[若本規夫](../Page/若本規夫.md "wikilink")
     本作次要正派假面騎士的變身腰帶，由葛城巧設計，并稱其為「最高傑作」，最後由桐生戰兔將其正式完成。
-    目前該腰帶提供給假面騎士Cross-Z 、假面骑士Grease \[50\]和假面骑士Rogue \[51\]使用。
     只限定於危险等级約4的變身者使用，而最初危险等级約2-3之間的冰室幻德因接受了不人道的人體實驗，才能勉强使用。
     将「濃縮膠涷」插入驅動器裏的插槽，音效为「■■Jelly！」，下壓扳手型手把挤压濃縮膠涷即可變身，音效為「壓碎了！流動了！溢满而出了！■■！Buraa！」；反之將鱷魚裂痕滿裝瓶插入插槽後，音效則為「裂了！吞食了！粉碎而散了！■■！Oraa！」。
     下壓手把所發動必殺音效為「Scrap Break！」（Cross-Z 充填形態）（原文：）、「Scrap Finish！（原文：）」（Grease）（原文：）或「Crack Up Finish！Gabu Gabu Gabu！」（Rogue）（原文：）。
-    當插入满裝瓶\[52\]時，所發出的音效為「●●Bottle！」，下壓手把所發動必殺音效為「壓碎不了！●●Crush！」
-    由於這種系統為了完全發揮滿裝瓶成分的效果，結果是使用時相當於讓使用者直接接觸星雲氣體，進而產生和被潘朵拉之盒發出的光照到時相同的副作用\[53\]；其系統將會讓變身者變得好戰、暴躁，且每次變身都會加劇\[54\]。
+    當插入满裝瓶\[48\]時，所發出的音效為「●●Bottle！」，下壓手把所發動必殺音效為「壓碎不了！●●Crush！」
+    由於這種系統為了完全發揮滿裝瓶成分的效果，結果是使用時相當於讓使用者直接接觸星雲氣體，進而產生和被潘朵拉之盒發出的光照到時相同的副作用\[49\]；其系統將會讓變身者變得好戰、暴躁，且每次變身都會加劇\[50\]。
 
 <!-- end list -->
 
@@ -3478,10 +3479,9 @@
     原文： / *Evol Driver*
     音效：[金尾哲夫](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")
     本作惡役騎士的變身腰帶，由Evolto開發，同時為創造驅動器的原型，有著「究极的驅動器」之稱。
-    目前該腰帶提供給假面騎士Evol \[55\]和假面騎士Mad Rogue \[56\]使用。
-    根據葛城忍留下的资料，這是一種通過形成高功率推進力而產生Evolto的點火設備，其驅動器只限定於危险等级大約5以上的變身者使用\[57\]，而且要激活它的「終極」功能，該驅動器將是必不可少的。
+    根據葛城忍留下的资料，這是一種通過形成高功率推進力而產生Evolto的點火設備，其驅動器只限定於危险等级大約5以上的變身者使用\[51\]，而且要激活它的「終極」功能，該驅動器將是必不可少的。
     其驅動器里能將潘朵拉之盒的力量發揮至最大功率，而本身潘朵拉之盒的持有者就是Evolto，所以只有Evolto能發揮其強大的力量，當中的充填装置更被用來重修Evolto的躯体。
-    將進化瓶插入後，音效首先為「（指定進化瓶）！Rider System！」，然後為「Evolution！Are You Ready? ■■\! Fuhhahhahhahhahha\!」（原文「」）\[58\]；插入非指定進化瓶時的音效為「Creation！」（原文「」）。
+    將進化瓶插入後，音效首先為「（指定進化瓶）！Rider System！」，然後為「Evolution！Are You Ready? ■■\! Fuhhahhahhahhahha\!」（原文「」）\[52\]；插入非指定進化瓶時的音效為「Creation！」（原文「」）。
     將滿裝瓶插入後，音效則為「（生物類型滿裝瓶）！（非生物類型滿裝瓶）！」，然後為「Evol Match！Are You Ready? ■■\! Fuhhahhahhahhahha\!」（原文「」。
     發動必殺技的音效為「Ready Go！Evoltex ●●\! Ciao\!」（原文「」）；而發動技能的音效則為「Ready Go！●●Finish\! Ciao\!」（原文「」）
 
@@ -3509,7 +3509,7 @@
   -
     原文： / *Nebula steam Gun*
     音效：[小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
-    Bros 系戰士\[59\]\[60\]的變身用鎗型武器，同時也是假面騎士Rogue 和假面騎士Mad Rogue的武器，為變壓蒸氣鎗的原型版本，開發者為最上魁星。
+    Bros 系戰士\[53\]\[54\]的變身用鎗型武器，同時也是假面騎士Rogue 和假面騎士Mad Rogue的武器，為變壓蒸氣鎗的原型版本，開發者為最上魁星。
     啟動時的音效為此武器的名稱，裝填鱷魚裂痕滿裝瓶時，音效為「（滿裝瓶）！」，按動扳機發動必殺技，音效為「Funky Break！（原文「」）」。
     當裝填非變身用無最佳搭配的滿裝瓶時，音效為「Lost Match！（原文「」）」」，反之在裝填非變身用有最佳搭配的滿裝瓶時，音效則為「Full Bottle！」，再按動扳機發動必殺技，音效為「Funky Attack！（原文「」）」。
     同樣地可與蒸氣刃合成為步鎗模式。
@@ -3523,8 +3523,8 @@
   -
     原文： / *Cross-Z Dragon*
     音效：[小林克也](https://zh.wikipedia.org/wiki/小林克也 "wikilink")
-    桐生戰兔所開發的自律寵物機件，同時也是假面騎士Cross-Z 的變身道具\[61\]。
-    在戰兔的設定下，只需透過單一滿裝瓶就可發揮戰力，但前提是身為使用者的龍我必須與其達到情感同步狀態才能發動變身\[62\]。
+    桐生戰兔所開發的自律寵物機件，同時也是假面騎士Cross-Z 的變身道具\[55\]。
+    在戰兔的設定下，只需透過單一滿裝瓶就可發揮戰力，但前提是身為使用者的龍我必須與其達到情感同步狀態才能發動變身\[56\]。
     除了可隨著所搭配的滿裝瓶使出各種攻擊以外，亦可將生物體內所侵入的毒物吸出並進行吸收與分解以解毒，起動時通常會有音樂響動，不適合隱秘行動。
     配合創造驅動器及「龍（Dragon）」滿裝瓶使用即可變身成假面騎士Cross-Z「龍形態（Dragon Form）」。
     插入其它滿裝瓶的音效為「Cross-Z Flame」（原文「」）。而插入「龍（Dragon）」滿裝瓶的音效為「Wake Up\!」（原文「」），再插入創造驅動器的音效為「Cross-Z Dragon」（原文「」）。
@@ -3547,7 +3547,7 @@
 
   -
     原文： / *Rabbit Tank Sparkling*
-    桐生戰兔使用「兔子（Rabbit）」和「坦克（Tank）」滿裝瓶\[63\]激活吸收潘朵拉之盒所散發出的能量的空白瓶後所開發出的罐型道具。
+    桐生戰兔使用「兔子（Rabbit）」和「坦克（Tank）」滿裝瓶\[57\]激活吸收潘朵拉之盒所散發出的能量的空白瓶後所開發出的罐型道具。
     可透過與創造驅動器連動進行強化變身成「兔子坦克氣泡形態（RabbitTank Sparkling Form）」。
     變身音效為「Are You Ready? ■■\! Yea！Yeah\!」（原文「」，配合創造驅動器時發動必殺技的音效為「Ready Go！Sparkling Finish！」（原文：）。
 
@@ -3562,10 +3562,10 @@
     葛城巧根据其父葛城忍所留下的资料所開發的強化道具，根據冰室幻德透露，大多數的SMASH 會Hazard 化是因為這個強化道具的緣故，繼而被稱為「禁忌的道具（禁断のアイテム）」。
     裝在創造驅動器上或注入此道具內的Hazard 成份入體內可立即顯著提升使用者的危險等級，後於第45話得知此道具的最大功能是用於淨化失落滿裝瓶。
     打開上方的防護蓋，按下按鈕後的啟動時的音效為「Hazard On！」（原文：），並裝置於創造驅動器的齒輪區上方，然後轉動手把，碼表上的指針開始移動後即可變身成「危險形態（Hazard Form）」。
-    此道具有著一旦使用時間過久就會失去自我甚至想要破壞眼前所有一切的副作用，所以相當地危險\[64\]。另外Hard SMASH 可直接將Hazard 成分打入體內，代價是被打倒會灰飛煙滅。
+    此道具在創造驅動器的搭配下，如果不使用同一種滿裝瓶變身的話，一旦使用時間過長將有失控暴走的副作用\[58\]，\[59\]。另外Hard SMASH 可直接將Hazard 成分打入體內，代價是被打倒會灰飛煙滅。
     再按下按鈕後即可進入「**充溢模式**」（原文： / *Overflow Mode*），啟動時的音效為「Max Hazard On！」（原文：）。
     另外，無論搭配哪個「Best Match」形態，啟動時的音效都是「不可控的開關，漆黑危險！不妙！」（原文：）
-    於《假面騎士Build 提昇危險等級的7種最佳配對》前篇中得知戰兔為了抑制危險扳機的副作用，已經設計出強制解除變身的裝置，只差補足所缺的數據就可著手開發\[65\]。
+    於《假面騎士Build 提昇危險等級的7種最佳配對》前篇中得知戰兔為了抑制危險扳機的副作用，已經設計出強制解除變身的裝置，只差補足所缺的數據就可著手開發\[60\]。
 
 <!-- end list -->
 
@@ -3599,7 +3599,7 @@
 
   -
     原文： / *Full Full Rabbit Tank Bottle*
-    原本是桐生戰兔為了抑制危險扳機的副作用而開發的強行停止裝置\[66\]，但後來變成了強化變身用的柱狀瓶型道具。
+    原本是桐生戰兔為了抑制危險扳機的副作用而開發的強行停止裝置\[61\]，但後來變成了強化變身用的柱狀瓶型道具。
     原因是在第26話中戰兔因「微量兔子（Low Rabbit）」滿裝瓶的最佳配對實驗中發現出「兔子兔子（RabbitRabbit）」的特殊配對後才得以開發出的。
     使用時，先不停搖動至使指示器切換為指定顏色，將兩端分離並折叠，後搭配危險扳機插入驅動器插槽，啟動充溢模式後，即可在不受危險扳機的副作用影響的情況下以追加外掛裝甲的型式變身為「兔子兔子形態（RabbitRabbit Form）」或「坦克坦克形態（TankTank Form）」。
     第39話得知被葛城巧進行微調整過，讓變身後的型態更適合自己的身體。
@@ -3628,7 +3628,7 @@
 
   -
     原文： / *Genius FullBottle*
-    為葛城忍所遺留下來資料中所設計出來對抗艾博魯特的大瓶型道具\[67\]，可將其中一塊綠色潘朵拉嵌板透過特殊程序轉換而成，後由桐生戰兔\[68\]將其完成。
+    為葛城忍所遺留下來資料中所設計出來對抗艾博魯特的大瓶型道具\[62\]，可將其中一塊綠色潘朵拉嵌板透過特殊程序轉換而成，後由桐生戰兔\[63\]將其完成。
     第48話因为戰兔將置入了十个失落滿裝瓶的白色嵌板置入在潘朵拉之盒中，连同瓶子内的力量全被吸收进去，使盒子发出一道用於將另一个地球拉过来的彩色光柱，而最终失去了力量。
     於《[Build NEW WORLD 假面騎士Cross-Z](https://zh.wikipedia.org/wiki/Build_NEW_WORLD#假面騎士Cross-Z "wikilink")》已經被戰兔製造另一個天才滿裝瓶
     配合創造驅動器可使假面騎士Build 變身成「天才形態（Genius Form）」。
@@ -3671,7 +3671,7 @@
     外型上可看出有一对被分隔的紫鳄鱼的头部的一面，將兩端分離並折叠後便完整地呈现出鳄鱼头部的造型。
     配合创造驱动器即可变身成「始源形態（Prime Form）」。
     變身音效為「Are You Ready？■■！Doiladoiladoiladoila！Doila！」（原文：）。
-    後在與艾博魯特一戰中因變身者冰室幻德過度使用而被搞壞，戰兔還説要花上一个月才能將其完整修补，因此成了假面騎士Rogue無強化形態的原因。
+    後在與艾博魯特一戰中因變身者冰室幻德過度使用而被搞壞，戰兔還説要花上一个月才能將其完整修补，因此成了假面騎士Rogue在本篇無強化形態的原因。
 
 <!-- end list -->
 
@@ -3710,7 +3710,7 @@
 
   -
     原文： / *-{Steam Blade}-*
-    為本作恶役騎士\[69\]使用的短刀武器，可與變壓蒸氣鎗或星雲蒸氣鎗合成為步鎗模式。
+    為本作恶役騎士\[64\]使用的短刀武器，可與變壓蒸氣鎗或星雲蒸氣鎗合成為步鎗模式。
     在變壓蒸氣鎗的步鎗模式下，啟動音效為該模式的名稱，而在星雲蒸氣鎗下，則加多一个「Funky！」的音效。
     在閥門表面的箭頭「3」默認向右時，打開部件「1」，滑動部件「2」，再順時針轉動閥門90°使其箭頭「3」與箭頭「1」同向时時發動必殺技，音效為「Ice ●●！」，随之再多次顺时针转动180°，聲效則以「Elek / Devil ●●！」交替更迭。
     裝填变身用满装瓶時，音效为「XX！（所使用的满装瓶的名称）」，按動扳機發動必殺技，音效为「●● Shot！XX！」；在装填非变身用满装瓶時，音效則為「Lost Match！」或「Full Bottle！」，再按動扳機發動必殺技，音效为「●● Attack！」
@@ -3724,7 +3724,7 @@
 
   -
     原文： / *-{Twin Breaker}-*
-    為使用挤壓驅動器再搭配濃縮膠涷的次要假面騎士\[70\]所裝備的可變型武器，一人一把地裝備於左腕\[71\]，啟動時的聲效亦如此。
+    為使用挤壓驅動器再搭配濃縮膠涷的次要假面騎士\[65\]所裝備的可變型武器，一人一把地裝備於左腕\[66\]，啟動時的聲效亦如此。
     具有「攻擊者模式（Attacker Mode）」和「光線模式（Beam Mode）」兩個模式，而且也是切換模式時的聲效，而必殺聲效為「●● Break！」（攻擊者模式下）和「●● Finish！」（光線模式下）。
     在裝填满裝瓶或濃縮膠涷時，發動的聲效为「●●！」，按壓開關時的必殺聲效為「●●Break / Finish！」；在裝填Cross-Z Dragon 或兔子坦克气泡時的聲效為「Ready Go！」，按壓開關時的必殺聲效為「●●Break / Finish！」；而兔子坦克气泡時則在前面加多一個「Oraa！」的聲效。
 
@@ -3747,7 +3747,7 @@
   -
     原文： / *-{Pandora Panel}-*
     原本是镶嵌在潘朵拉之盒周围的嵌板，10年前被神秘人——石動惣一碰觸之時產生顏色，且其中2面綠色的嵌板掉落，三年前時與盒子一同由東都政府所保管着，其後被Faust 竊走了脱落的兩面。
-    現已知其中一塊位於「nascita」地下基地內的牆壁上\[72\]，而另一塊則位於Faust 的實驗室内部，其後桐生戰兔得到東都的兩面嵌板，之後皆已嵌入潘朵拉之盒內。
+    現已知其中一塊位於「nascita」地下基地內的牆壁上\[67\]，而另一塊則位於Faust 的實驗室内部，其後桐生戰兔得到東都的兩面嵌板，之後皆已嵌入潘朵拉之盒內。
     每面嵌板具有最多能插入10枚滿裝瓶的插槽，而且只要為「最佳配對（Best Match）」的滿裝瓶組合放置於左右兩側的鑲嵌區，其中心位置就會發光。
     嵌板共有6面，對應著30組60枚滿裝瓶組合，而三都間各持有兩面嵌板及20枚滿裝瓶。
     :\* 東都：綠色，滿裝瓶：[假面騎士Build\#滿裝瓶（Full Bottle）](https://zh.wikipedia.org/wiki/假面騎士Build#滿裝瓶（Full_Bottle） "wikilink")
@@ -3792,7 +3792,7 @@
 <td><p>style="text-align:center”| <strong>Machine Builder</strong><br />
 <strong>機械創造者</strong></p></td>
 <td><p>原文：<br />
-由創造手機插入滿裝瓶後變換模式而成[73]。<br />
+由創造手機插入滿裝瓶後變換模式而成[68]。<br />
 初次登場話數：1<br />
 全長：214cm<br />
 乾燥重量：134.0kg<br />
@@ -4607,7 +4607,7 @@
 <td><p>Crocodile Crack</p></td>
 <td><p>クロコダイルクラック</p></td>
 <td><p>鱷魚裂痕</p></td>
-<td><p>-[74]</p></td>
+<td><p>-[69]</p></td>
 <td><p>生物</p></td>
 <td><p>西都</p></td>
 <td></td>
@@ -4617,7 +4617,7 @@
 <td><p>Low Rabbit</p></td>
 <td><p>ローラビット</p></td>
 <td><p>微量兔子</p></td>
-<td><p>兔子[75]</p></td>
+<td><p>兔子[70]</p></td>
 <td><p>東都</p></td>
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/兔子" title="wikilink">兔子般的跳跃能力</a>，但威力比较弱。</p></td>
 <td><p>此滿裝瓶內的星雲氣體成份與兔子滿裝瓶相同，但成份總量較微弱。<br />
@@ -5515,7 +5515,7 @@
 <td><p>幻影SMASH</p></td>
 <td><p>Mirage Smash</p></td>
 <td><p>3</p></td>
-<td><p>鍋島正弘[76]</p></td>
+<td><p>鍋島正弘[71]</p></td>
 <td><p>207.2 cm</p></td>
 <td><p>112.2 kg</p></td>
 <td><p>分身能力</p></td>
@@ -5606,7 +5606,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>不明[77]</p></td>
+<td><p>不明[72]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5631,7 +5631,7 @@
 將敵人壓縮及破壞的壓縮機構強化外，裝甲強度與格鬥攻擊的威力也隨之提高。</p></td>
 </tr>
 <tr class="odd">
-<td><p>不明[78]</p></td>
+<td><p>不明[73]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5658,7 +5658,7 @@
 肩部的橡膠部份膨脹，能安全接受敵人攻擊。</p></td>
 </tr>
 <tr class="odd">
-<td><p>[79]</p></td>
+<td><p>[74]</p></td>
 <td><p>獠牙SMASH</p></td>
 <td><p>Fang Smash</p></td>
 <td><p>13</p></td>
@@ -5689,7 +5689,7 @@
 <td><p>飛翔SMASH Hazard</p></td>
 <td><p>Flying Smash Hazard</p></td>
 <td><p>16</p></td>
-<td><p>不明[80]</p></td>
+<td><p>不明[75]</p></td>
 <td><p>202.5 cm</p></td>
 <td><p>105.5 kg</p></td>
 <td><p>飛行能力</p></td>
@@ -5861,7 +5861,7 @@
     體重：96.0kg
     特色 / 能力：圓盤光刃的射出
     人類身份：石動美空（貝魯娜姬）
-    石動美空\[81\]使用「CD」失落滿裝瓶後與兩個强壮Clone SMASH 融合的怪人樣貌。
+    石動美空\[76\]使用「CD」失落滿裝瓶後與兩個强壮Clone SMASH 融合的怪人樣貌。
 
 #### 城堡Lost SMASH
 
@@ -5929,10 +5929,10 @@
 集數</p></th>
 <th><p>日本原文標題</p></th>
 <th><p>中文標題</p></th>
-<th><p>香港中文標題[82]</p></th>
-<th><p>台灣中文標題[83]</p></th>
+<th><p>香港中文標題[77]</p></th>
+<th><p>台灣中文標題[78]</p></th>
 <th><p>登場敵方怪人</p></th>
-<th><p>關東收視率[84]</p></th>
+<th><p>關東收視率[79]</p></th>
 <th><p>編劇</p></th>
 <th><p>導演</p></th>
 </tr>
@@ -5953,8 +5953,8 @@
 </tr>
 <tr class="even">
 <td><p>2017/09/03</p></td>
-<td><p>2018/12/30[85]</p></td>
-<td><p>（<span class="math inline">1010<sup>0</sup> = 1</span>[86]）<br />
+<td><p>2018/12/30[80]</p></td>
+<td><p>（<span class="math inline">1010<sup>0</sup> = 1</span>[81]）<br />
 1</p></td>
 <td></td>
 <td><p>他们是最佳配對</p></td>
@@ -5972,8 +5972,8 @@
 </tr>
 <tr class="odd">
 <td><p>2017/09/10</p></td>
-<td><p>2019/01/06[87]</p></td>
-<td><p>（<span class="math inline"><em>F</em><sub> − <em>n</em></sub> = ( − 1)<sup><em>n</em> + 1</sup><em>F</em><sub><em>n</em></sub></span>，<span class="math inline"><em>F</em><sub> − 3</sub> = 2</span>[88]）<br />
+<td><p>2019/01/06[82]</p></td>
+<td><p>（<span class="math inline"><em>F</em><sub> − <em>n</em></sub> = ( − 1)<sup><em>n</em> + 1</sup><em>F</em><sub><em>n</em></sub></span>，<span class="math inline"><em>F</em><sub> − 3</sub> = 2</span>[83]）<br />
 2</p></td>
 <td></td>
 <td><p>無辜的逃犯</p></td>
@@ -5991,8 +5991,8 @@
 </tr>
 <tr class="even">
 <td><p>2017/09/17</p></td>
-<td><p>2019/01/13[89]</p></td>
-<td><p>（<span class="math inline">${2^n+1 \over n^2}\in \mathbb{N}$</span>， <span class="math inline"><em>n</em> = 3</span>[90]）<br />
+<td><p>2019/01/13[84]</p></td>
+<td><p>（<span class="math inline">${2^n+1 \over n^2}\in \mathbb{N}$</span>， <span class="math inline"><em>n</em> = 3</span>[85]）<br />
 3</p></td>
 <td></td>
 <td><p>正義的界線</p></td>
@@ -6011,15 +6011,15 @@
 </tr>
 <tr class="odd">
 <td><p>2017/09/24</p></td>
-<td><p>2019/01/20[91]</p></td>
-<td><p>（<span class="math inline">$\begin{smallmatrix}max\\G:planer\end{smallmatrix}\chi(G)=4$</span>[92]）<br />
+<td><p>2019/01/20[86]</p></td>
+<td><p>（<span class="math inline">$\begin{smallmatrix}max\\G:planer\end{smallmatrix}\chi(G)=4$</span>[87]）<br />
 4</p></td>
 <td></td>
 <td><p>化証為零</p></td>
 <td><p>死無對証</p>
 <hr/>
 <p>見證將是零</p></td>
-<td></td>
+<td><p>歸零的證言</p></td>
 <td><ul>
 <li>血逐</li>
 <li>正方形SMASH</li>
@@ -6029,14 +6029,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017/10/01[93]</p></td>
-<td><p>2019/01/27[94]</p></td>
-<td><p>（<span class="math inline">arg min [𝕊<sub><em>n</em></sub> ∉ {<em>s</em><em>o</em><em>l</em><em>v</em><em>a</em><em>b</em><em>l</em><em>e</em>}] = 5</span>[95]）<br />
+<td><p>2017/10/01[88]</p></td>
+<td><p>2019/01/27[89]</p></td>
+<td><p>（<span class="math inline">arg min [𝕊<sub><em>n</em></sub> ∉ {<em>s</em><em>o</em><em>l</em><em>v</em><em>a</em><em>b</em><em>l</em><em>e</em>}] = 5</span>[90]）<br />
 5</p></td>
 <td></td>
 <td><p>危險的身份</p></td>
 <td><p>危險身份</p></td>
-<td></td>
+<td><p>危險的身分</p></td>
 <td><ul>
 <li>血逐</li>
 <li>壓縮SMASH</li>
@@ -6047,15 +6047,15 @@
 </tr>
 <tr class="odd">
 <td><p>2017/10/08</p></td>
-<td><p>2019/02/04[96]</p></td>
-<td><p>（<span class="math inline">$\pi^2 \over \textstyle \sum_{n=1}^\infty \displaystyle n^{-2}$</span><span class="math inline"> = 6</span>[97]）<br />
+<td><p>2019/02/04[91]</p></td>
+<td><p>（<span class="math inline">$\pi^2 \over \textstyle \sum_{n=1}^\infty \displaystyle n^{-2}$</span><span class="math inline"> = 6</span>[92]）<br />
 6</p></td>
 <td></td>
 <td><p>憤怒的月面空翻</p></td>
 <td><p>憤怒的月光空翻</p>
 <hr/>
 <p>憤怒的月光聲</p></td>
-<td></td>
+<td><p>憤怒的月面空翻</p></td>
 <td><p>2.6%</p></td>
 <td></td>
 <td></td>
@@ -6063,13 +6063,13 @@
 </tr>
 <tr class="even">
 <td><p>2017/10/15</p></td>
-<td><p>2019/02/11[98]</p></td>
-<td><p>（<span class="math inline">$\begin{smallmatrix}max\\G:torus\end{smallmatrix}\chi(G)=7$</span>[99]）<br />
+<td><p>2019/02/11[93]</p></td>
+<td><p>（<span class="math inline">$\begin{smallmatrix}max\\G:torus\end{smallmatrix}\chi(G)=7$</span>[94]）<br />
 7</p></td>
 <td></td>
 <td><p>惡魔的科學家</p></td>
 <td><p>魔鬼的科學家</p></td>
-<td></td>
+<td><p>惡魔科學家</p></td>
 <td><ul>
 <li>夜霸</li>
 <li>血逐</li>
@@ -6081,13 +6081,13 @@
 </tr>
 <tr class="odd">
 <td><p>2017/10/22</p></td>
-<td><p>2019/02/17[100]</p></td>
-<td><p>（<span class="math inline">$\underset{z:bilinear}{\arg_n\max}[\sum_{i}^nx_i^2\sum_{i}^ny_i^2=\sum_{i}^nz_i^2]=8$</span>[101]）<br />
+<td><p>2019/02/17[95]</p></td>
+<td><p>（<span class="math inline">$\underset{z:bilinear}{\arg_n\max}[\sum_{i}^nx_i^2\sum_{i}^ny_i^2=\sum_{i}^nz_i^2]=8$</span>[96]）<br />
 8</p></td>
 <td></td>
 <td><p>初次說話的記憶</p></td>
 <td><p>記憶開始交談</p></td>
-<td></td>
+<td><p>開始訴說的記憶</p></td>
 <td><ul>
 <li>夜霸</li>
 <li>血逐</li>
@@ -6099,15 +6099,15 @@
 </tr>
 <tr class="even">
 <td><p>2017/10/29</p></td>
-<td><p>2019/02/24[102]</p></td>
-<td><p>（<span class="math inline"><em>x</em> − <em>y</em> = 1(<em>x</em>, <em>y</em> ∈ {<em>m</em><sup><em>n</em></sup>})</span>，<span class="math inline"><em>x</em> = 9</span>[103]）<br />
+<td><p>2019/02/24[97]</p></td>
+<td><p>（<span class="math inline"><em>x</em> − <em>y</em> = 1(<em>x</em>, <em>y</em> ∈ {<em>m</em><sup><em>n</em></sup>})</span>，<span class="math inline"><em>x</em> = 9</span>[98]）<br />
 9</p></td>
 <td></td>
 <td><p>創世計劃的陷阱</p></td>
 <td><p>BUILD計劃的陷阱</p>
 <hr/>
 <p>專案建設的陷阱</p></td>
-<td></td>
+<td><p>Build計劃的陷阱</p></td>
 <td><ul>
 <li>夜霸</li>
 <li>血逐</li>
@@ -6118,14 +6118,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017/11/12[104]</p></td>
-<td><p>2019/03/03[105]</p></td>
-<td><p>（<span class="math inline">$\sum_{n=1}^\infty{1 \over n^3(n+1)^3}+\pi^2=10$</span>[106]）<br />
+<td><p>2017/11/12[99]</p></td>
+<td><p>2019/03/03[100]</p></td>
+<td><p>（<span class="math inline">$\sum_{n=1}^\infty{1 \over n^3(n+1)^3}+\pi^2=10$</span>[101]）<br />
 10</p></td>
 <td></td>
 <td><p>滅亡的科技</p></td>
 <td><p>銷毀技術</p></td>
-<td></td>
+<td><p>滅亡的科技</p></td>
 <td><ul>
 <li>血逐</li>
 <li>夜霸</li>
@@ -6137,15 +6137,16 @@
 </tr>
 <tr class="even">
 <td><p>2017/11/19</p></td>
-<td><p>2019/03/10[107]<br />
-2019/03/16[108]</p></td>
-<td><p>（<span class="math inline">⌞1.30637....3<sub><em>n</em></sub><sup>2</sup>⌟ = 11</span>[109]）<br />
+<td><p>2019/03/10[102]<br />
+2019/03/16[103]</p></td>
+<td><p>（<span class="math inline">⌞1.30637....3<sub><em>n</em></sub><sup>2</sup>⌟ = 11</span>[104]）<br />
 11</p></td>
 <td></td>
 <td><p>燃燒之龍</p></td>
 <td><p>燃燒吧，龍</p>
 <hr/>
 <p>燒了，龍</p></td>
+<td><p>燃燒之龍</p></td>
 <td><ul>
 <li>夜霸</li>
 <li>伸縮SMASH</li>
@@ -6153,17 +6154,17 @@
 <td><p>4.1%</p></td>
 <td><p>諸田敏</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017/11/26</p></td>
-<td><p>2019/03/17[110]<br />
-2019/03/23[111]</p></td>
-<td><p>（<span class="math inline">$-{1 \over \zeta(-1)} =12$</span>[112]）<br />
+<td><p>2019/03/17[105]<br />
+2019/03/23[106]</p></td>
+<td><p>（<span class="math inline">$-{1 \over \zeta(-1)} =12$</span>[107]）<br />
 12</p></td>
 <td></td>
 <td><p>陰謀的理論</p></td>
 <td><p>陰謀論</p></td>
+<td><p>陰謀的理論</p></td>
 <td><ul>
 <li>夜霸</li>
 <li>血逐</li>
@@ -6171,18 +6172,17 @@
 <td><p>3.2%</p></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2017/12/03</p></td>
-<td><p>2019/03/24[113]<br />
-2019/03/30[114]</p></td>
-<td><p>（<span class="math inline">#{<em>A</em><em>r</em><em>c</em><em>h</em><em>i</em><em>m</em><em>e</em><em>d</em><em>e</em><em>a</em><em>n</em> <em>s</em><em>o</em><em>l</em><em>i</em><em>d</em>} = 13</span>[115]）<br />
+<td><p>2019/03/24[108]<br />
+2019/03/30[109]</p></td>
+<td><p>（<span class="math inline">#{<em>A</em><em>r</em><em>c</em><em>h</em><em>i</em><em>m</em><em>e</em><em>d</em><em>e</em><em>a</em><em>n</em> <em>s</em><em>o</em><em>l</em><em>i</em><em>d</em>} = 13</span>[110]）<br />
 13</p></td>
 <td></td>
 <td><p>揭開面紗的是誰？</p></td>
 <td><p>誰把面紗帶走了？</p></td>
-<td></td>
+<td><p>脫掉面紗的是誰？</p></td>
 <td><ul>
 <li>血逐</li>
 <li>夜霸</li>
@@ -6194,16 +6194,16 @@
 </tr>
 <tr class="odd">
 <td><p>2017/12/10</p></td>
-<td><p>2019/03/31[116]<br />
-2019/04/06[117]</p></td>
-<td><p>（<span class="math inline">$\underset{n :even}{\arg\min}[\forall x,\phi(x)\neq  n]=14$</span>[118]）<br />
+<td><p>2019/03/31[111]<br />
+2019/04/06[112]</p></td>
+<td><p>（<span class="math inline">$\underset{n :even}{\arg\min}[\forall x,\phi(x)\neq  n]=14$</span>[113]）<br />
 14</p></td>
 <td></td>
 <td><p>虛偽的假面騎士</p></td>
 <td><p>-{虛假的幪面超人}-</p>
 <hr/>
 <p>假卡門騎士</p></td>
-<td></td>
+<td><p>虛假的假面騎士</p></td>
 <td><ul>
 <li>血逐</li>
 </ul></td>
@@ -6213,14 +6213,14 @@
 </tr>
 <tr class="even">
 <td><p>2017/12/17</p></td>
-<td><p>2019/04/07[119]<br />
-2019/04/13[120]</p></td>
-<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [2<sup><em>n</em></sup> − 7 = <em>m</em><sup>2</sup>] = 15</span>[121]）<br />
+<td><p>2019/04/07[114]<br />
+2019/04/13[115]</p></td>
+<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [2<sup><em>n</em></sup> − 7 = <em>m</em><sup>2</sup>] = 15</span>[116]）<br />
 15</p></td>
 <td></td>
 <td><p>審判桐生戰兔！</p></td>
 <td><p>仙草法官！</p></td>
-<td></td>
+<td><p>審判桐生戰兔！</p></td>
 <td><ul>
 <li>夜霸</li>
 <li>強壯SMASH Hazard</li>
@@ -6232,14 +6232,14 @@
 </tr>
 <tr class="odd">
 <td><p>2017/12/24</p></td>
-<td><p>2019/04/14[122]<br />
-2019/04/20[123]</p></td>
-<td><p>（<span class="math inline">2 ⇈ 3 = 2<sup>2<sup>2</sup></sup> = 16</span>[124]）<br />
+<td><p>2019/04/14[117]<br />
+2019/04/20[118]</p></td>
+<td><p>（<span class="math inline">2 ⇈ 3 = 2<sup>2<sup>2</sup></sup> = 16</span>[119]）<br />
 16</p></td>
 <td></td>
 <td><p>兵器的英雄</p></td>
 <td><p>武器英雄</p></td>
-<td></td>
+<td><p>兵器的英雄</p></td>
 <td><ul>
 <li>壓縮SMASH Hazard</li>
 <li>飛翔SMASH Hazard</li>
@@ -6263,17 +6263,17 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018/01/07[125]</p></td>
-<td><p>2019/04/21[126]<br />
-2019/04/27[127]</p></td>
-<td><p>（<span class="math inline"><em>F</em><sub>2</sub> = 2<sup>2<sup>2</sup></sup> + 1 = 17</span>[128]）<br />
+<td><p>2018/01/07[120]</p></td>
+<td><p>2019/04/21[121]<br />
+2019/04/27[122]</p></td>
+<td><p>（<span class="math inline"><em>F</em><sub>2</sub> = 2<sup>2<sup>2</sup></sup> + 1 = 17</span>[123]）<br />
 17</p></td>
 <td></td>
 <td><p>騎士戰爭開戰</p></td>
 <td><p>-{幪面超人戰爭的爆發}-</p>
 <hr/>
 <p>騎手戰爭的爆發</p></td>
-<td></td>
+<td><p>騎士戰爭開打</p></td>
 <td><ul>
 <li>強壯SMASH Hazard</li>
 <li>城堡 Hard SMASH</li>
@@ -6286,14 +6286,14 @@
 </tr>
 <tr class="even">
 <td><p>2018/01/14</p></td>
-<td><p>2019/05/05[129][130]<br />
-2019/05/11[131][132]</p></td>
-<td><p>（<span class="math inline">#{<em>f</em><em>a</em><em>m</em><em>i</em><em>l</em><em>y</em> <em>o</em><em>f</em> <em>f</em><em>i</em><em>n</em><em>i</em><em>t</em><em>e</em> <em>g</em><em>r</em><em>o</em><em>u</em><em>p</em>} = 18</span>[133]）<br />
+<td><p>2019/05/05[124][125]<br />
+2019/05/11[126][127]</p></td>
+<td><p>（<span class="math inline">#{<em>f</em><em>a</em><em>m</em><em>i</em><em>l</em><em>y</em> <em>o</em><em>f</em> <em>f</em><em>i</em><em>n</em><em>i</em><em>t</em><em>e</em> <em>g</em><em>r</em><em>o</em><em>u</em><em>p</em>} = 18</span>[128]）<br />
 18</p></td>
 <td></td>
 <td></td>
 <td><p>黃金戰士</p></td>
-<td></td>
+<td><p>黃金的騎士</p></td>
 <td><ul>
 <li>城堡 Hard SMASH</li>
 <li>鍬形蟲 Hard SMASH</li>
@@ -6305,9 +6305,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/01/21</p></td>
-<td><p>2019/05/12[134]<br />
-2019/05/18[135]</p></td>
-<td><p>（<span class="math inline">$7\sqrt[3]{20}-\Bigl(\sqrt[3]{\frac{5}{3}}-\sqrt[3]{\frac{2}{3}}\Bigr)^6=19$</span>[136]）<br />
+<td><p>2019/05/12[129]<br />
+2019/05/18[130]</p></td>
+<td><p>（<span class="math inline">$7\sqrt[3]{20}-\Bigl(\sqrt[3]{\frac{5}{3}}-\sqrt[3]{\frac{2}{3}}\Bigr)^6=19$</span>[131]）<br />
 19</p></td>
 <td></td>
 <td><p>禁忌的道具</p></td>
@@ -6335,9 +6335,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/01/28</p></td>
-<td><p>2019/05/19[137]<br />
-2019/05/25[138]</p></td>
-<td><p>（<span class="math inline"><em>e</em><sup><em>π</em></sup> − <em>π</em> ≃ 20</span>[139]）<br />
+<td><p>2019/05/19[132]<br />
+2019/05/25[133]</p></td>
+<td><p>（<span class="math inline"><em>e</em><sup><em>π</em></sup> − <em>π</em> ≃ 20</span>[134]）<br />
 20</p></td>
 <td></td>
 <td><p>惡魔的扳機</p></td>
@@ -6355,9 +6355,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/02/04</p></td>
-<td><p>2019/05/26[140]<br />
-2019/06/01[141]</p></td>
-<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [∀<em>x</em>∃<em>ι</em> ≤ <em>n</em>, <em>x</em> + <em>ι</em> ∉ {<em>h</em><em>a</em><em>r</em><em>s</em><em>h</em><em>a</em><em>d</em>}] = 21</span>[142]）<br />
+<td><p>2019/05/26[135]<br />
+2019/06/01[136]</p></td>
+<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [∀<em>x</em>∃<em>ι</em> ≤ <em>n</em>, <em>x</em> + <em>ι</em> ∉ {<em>h</em><em>a</em><em>r</em><em>s</em><em>h</em><em>a</em><em>d</em>}] = 21</span>[137]）<br />
 21</p></td>
 <td></td>
 <td><p>阻止不了的危險</p></td>
@@ -6375,9 +6375,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/02/11</p></td>
-<td><p>2019/06/02[143]<br />
-2019/06/08[144]</p></td>
-<td><p>（<span class="math inline">${2143 \over \pi^4}\simeq22$</span>[145]）<br />
+<td><p>2019/06/02[138]<br />
+2019/06/08[139]</p></td>
+<td><p>（<span class="math inline">${2143 \over \pi^4}\simeq22$</span>[140]）<br />
 22</p></td>
 <td></td>
 <td><p>涙之勝利</p></td>
@@ -6403,9 +6403,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/02/18</p></td>
-<td><p>2019/06/09[146]<br />
-2019/06/15[147]</p></td>
-<td><p>（<span class="math inline">$\sqrt{x-2\sqrt{x+2\sqrt{x+2\sqrt{x-...}}}}=1+4\sqrt{3}\sin20^\circ=23$</span>[148]）<br />
+<td><p>2019/06/09[141]<br />
+2019/06/15[142]</p></td>
+<td><p>（<span class="math inline">$\sqrt{x-2\sqrt{x+2\sqrt{x+2\sqrt{x-...}}}}=1+4\sqrt{3}\sin20^\circ=23$</span>[143]）<br />
 23</p></td>
 <td></td>
 <td><p>西之幻影</p></td>
@@ -6421,9 +6421,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/02/25</p></td>
-<td><p>2019/06/16[149]<br />
-2019/06/22[150]</p></td>
-<td><p>（<span class="math inline">$\sum_{n=1}^Nn^2 =m^2$</span>，<span class="math inline"><em>N</em> = 24</span>[151]）<br />
+<td><p>2019/06/16[144]<br />
+2019/06/22[145]</p></td>
+<td><p>（<span class="math inline">$\sum_{n=1}^Nn^2 =m^2$</span>，<span class="math inline"><em>N</em> = 24</span>[146]）<br />
 24</p></td>
 <td></td>
 <td><p>名為ROGUE的男人</p></td>
@@ -6442,9 +6442,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/03/04</p></td>
-<td><p>2019/06/23[152]<br />
-2019/06/29[153]</p></td>
-<td><p>（<span class="math inline">(<em>n</em> − 1)! + 1 = <em>n</em><sup><em>k</em></sup> = 25</span>[154]）<br />
+<td><p>2019/06/23[147]<br />
+2019/06/29[148]</p></td>
+<td><p>（<span class="math inline">(<em>n</em> − 1)! + 1 = <em>n</em><sup><em>k</em></sup> = 25</span>[149]）<br />
 25</p></td>
 <td></td>
 <td><p>偶像覺醒</p></td>
@@ -6460,9 +6460,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/03/11</p></td>
-<td><p>2019/06/30[155]<br />
-2019/07/06[156]</p></td>
-<td><p>（<span class="math inline">#{<em>s</em><em>p</em><em>o</em><em>r</em><em>a</em><em>d</em><em>i</em><em>c</em> <em>g</em><em>r</em><em>o</em><em>u</em><em>p</em>} = 26</span>[157]）<br />
+<td><p>2019/06/30[150]<br />
+2019/07/06[151]</p></td>
+<td><p>（<span class="math inline">#{<em>s</em><em>p</em><em>o</em><em>r</em><em>a</em><em>d</em><em>i</em><em>c</em> <em>g</em><em>r</em><em>o</em><em>u</em><em>p</em>} = 26</span>[152]）<br />
 26</p></td>
 <td></td>
 <td><p>背叛的死亡配對</p></td>
@@ -6478,9 +6478,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/03/18</p></td>
-<td><p>2019/07/07[158]<br />
-2019/07/13[159]</p></td>
-<td><p>（<span class="math inline">#{<em>e</em><em>x</em><em>o</em><em>t</em><em>i</em><em>c</em> 7 − <em>s</em><em>p</em><em>h</em><em>e</em><em>r</em><em>e</em>} = 27</span>[160]）<br />
+<td><p>2019/07/07[153]<br />
+2019/07/13[154]</p></td>
+<td><p>（<span class="math inline">#{<em>e</em><em>x</em><em>o</em><em>t</em><em>i</em><em>c</em> 7 − <em>s</em><em>p</em><em>h</em><em>e</em><em>r</em><em>e</em>} = 27</span>[155]）<br />
 27</p></td>
 <td></td>
 <td><p>逆襲的英雄</p></td>
@@ -6495,9 +6495,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/03/25</p></td>
-<td><p>2019/07/14[161]<br />
-2019/07/20[162]</p></td>
-<td><p>（<span class="math inline">1 + 2 + 4 + 7 + 14 = 28</span>[163]）<br />
+<td><p>2019/07/14[156]<br />
+2019/07/20[157]</p></td>
+<td><p>（<span class="math inline">1 + 2 + 4 + 7 + 14 = 28</span>[158]）<br />
 28</p></td>
 <td></td>
 <td><p>天才是在坦克出現時</p></td>
@@ -6523,9 +6523,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/04/01</p></td>
-<td><p>2019/07/21[164]<br />
-2019/07/27[165]</p></td>
-<td><p>（<span class="math inline"><em>A</em>(3, 2) = <em>A</em>(2, <em>A</em>(2, <em>A</em>(2, 1))) = 29</span>[166]）<br />
+<td><p>2019/07/21[159]<br />
+2019/07/27[160]</p></td>
+<td><p>（<span class="math inline"><em>A</em>(3, 2) = <em>A</em>(2, <em>A</em>(2, <em>A</em>(2, 1))) = 29</span>[161]）<br />
 29</p></td>
 <td></td>
 <td><p>開幕的鐘聲已響起</p></td>
@@ -6547,9 +6547,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/04/08</p></td>
-<td><p>2019/07/28[167]<br />
-2019/08/03[168]</p></td>
-<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[169]）<br />
+<td><p>2019/07/28[162]<br />
+2019/08/03[163]</p></td>
+<td><p>（<span class="math inline">arg<sub><em>n</em></sub>max [{<em>t</em><em>o</em><em>t</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em> of n} ⊂ {<em>p</em><em>r</em><em>i</em><em>m</em><em>e</em>}] = 30</span>[164]）<br />
 30</p></td>
 <td></td>
 <td><p>潘朵拉之盒的真相</p></td>
@@ -6566,9 +6566,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/04/15</p></td>
-<td><p>2019/08/04[170]<br />
-2019/08/10[171]</p></td>
-<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[172]）<br />
+<td><p>2019/08/04[165]<br />
+2019/08/10[166]</p></td>
+<td><p>（<span class="math inline"><em>M</em><sub>5</sub> = 2<sup>5</sup> − 1 = 31</span>[167]）<br />
 31</p></td>
 <td></td>
 <td><p>狂暴的熔岩！</p></td>
@@ -6592,9 +6592,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/04/22</p></td>
-<td><p>2019/08/11[173]<br />
-2019/08/17[174]</p></td>
-<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[175]）<br />
+<td><p>2019/08/11[168]<br />
+2019/08/17[169]</p></td>
+<td><p>（<span class="math inline">#{<em>c</em><em>r</em><em>y</em><em>s</em><em>t</em><em>a</em><em>l</em> <em>c</em><em>l</em><em>a</em><em>s</em><em>s</em>} = 32</span>[170]）<br />
 32</p></td>
 <td></td>
 <td><p>被安排好的悲劇</p></td>
@@ -6616,9 +6616,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/04/29</p></td>
-<td><p>2019/08/18[176]<br />
-2019/08/24[177]</p></td>
-<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[178]）<br />
+<td><p>2019/08/18[171]<br />
+2019/08/24[172]</p></td>
+<td><p>（<span class="math inline">$\sqrt{{2\sqrt{2}\pi \over 9}\sum_{n=0}^\infty{(4n!)(1103+26390n) \over ({4^n}{99^n}n!)^4}}=33$</span>[173]）<br />
 33</p></td>
 <td></td>
 <td><p>最終兵器Evol</p></td>
@@ -6634,9 +6634,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/05/06</p></td>
-<td><p>2019/08/25[179]<br />
-2019/08/31[180]</p></td>
-<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[181]）<br />
+<td><p>2019/08/25[174]<br />
+2019/08/31[175]</p></td>
+<td><p>（<span class="math inline">⌈log<sub>10</sub>log<sub>10</sub>log<sub>10</sub><em>S</em><em>k</em><sub>1</sub>⌉ = 34</span>[176]）<br />
 34</p></td>
 <td></td>
 <td><p>分離四散的最佳配對</p></td>
@@ -6651,9 +6651,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/05/13</p></td>
-<td><p>2019/09/01[182]<br />
-2019/09/07[183]</p></td>
-<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[184]）<br />
+<td><p>2019/09/01[177]<br />
+2019/09/07[178]</p></td>
+<td><p>（<span class="math inline">#{<em>n</em><em>o</em><em>n</em><em>t</em><em>r</em><em>i</em><em>v</em><em>i</em><em>a</em><em>l</em> <em>k</em><em>n</em><em>o</em><em>t</em> | <em>c</em>(<em>L</em>)  ≤ 8} = 35</span>[179]）<br />
 35</p></td>
 <td></td>
 <td><p>破滅之塔</p></td>
@@ -6666,9 +6666,9 @@
 </tr>
 <tr class="even">
 <td><p>2018/05/20</p></td>
-<td><p>2019/09/08[185]<br />
-2019/09/14[186]</p></td>
-<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[187]）<br />
+<td><p>2019/09/08[180]<br />
+2019/09/14[181]</p></td>
+<td><p>（<span class="math inline">(1 + 2 + 3)<sup>2</sup> = 1<sup>3</sup> + 2<sup>3</sup> + 3<sup>3</sup> = 36</span>[182]）<br />
 36</p></td>
 <td></td>
 <td><p>Evolto狩獵星球</p></td>
@@ -6684,9 +6684,9 @@
 </tr>
 <tr class="odd">
 <td><p>2018/05/27</p></td>
-<td><p>2019/09/15[188]<br />
-2019/09/21[189]</p></td>
-<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[190]）<br />
+<td><p>2019/09/15[183]<br />
+2019/09/21[184]</p></td>
+<td><p>（<span class="math inline">$\underset{\rho :prime}{\arg\min}[\rho \not\in \{regular\}]=37$</span>[185]）<br />
 37</p></td>
 <td></td>
 <td><p>究極的階段</p></td>
@@ -6705,12 +6705,13 @@
 </tr>
 <tr class="even">
 <td><p>2018/06/03</p></td>
-<td></td>
-<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[191]）<br />
+<td><p>2019/09/22[186]<br />
+2019/09/28[187]</p></td>
+<td><p>（<span class="math inline"><em>M</em><sub><em>M</em><em>a</em><em>g</em><em>i</em><em>c</em><em>H</em><em>e</em><em>x</em><em>g</em><em>o</em><em>n</em></sub> = 38</span>[188]）<br />
 38</p></td>
 <td></td>
 <td><p>瘋狂的世界</p></td>
-<td></td>
+<td><p>瘋狂的世界</p></td>
 <td></td>
 <td><ul>
 <li>Engine Bros</li>
@@ -6725,12 +6726,13 @@
 </tr>
 <tr class="odd">
 <td><p>2018/06/10</p></td>
-<td></td>
-<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[192]）<br />
+<td><p>2019/09/29[189]<br />
+2019/10/05[190]</p></td>
+<td><p>（<span class="math inline">$4\pi^2-\sum_{n=1}^\infty{16 \over n^2(n+1)^2(n+2)^2}=39$</span>[191]）<br />
 39</p></td>
 <td></td>
 <td><p>無法阻止的天才</p></td>
-<td></td>
+<td><p>無法阻止的天才</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>2.5%</p></td>
@@ -6752,12 +6754,13 @@
 </tr>
 <tr class="odd">
 <td><p>2018/06/17</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[193]）<br />
+<td><p>2019/10/06[192]<br />
+2019/10/12[193]</p></td>
+<td><p>（<span class="math inline">$\underset{y}{\arg\min}[x^2-77y^2=1]=40$</span>[194]）<br />
 40</p></td>
 <td></td>
 <td><p>終末的變革</p></td>
-<td></td>
+<td><p>最後的革命</p></td>
 <td></td>
 <td><ul>
 <li>壓縮Clone SMASH</li>
@@ -6770,12 +6773,13 @@
 </tr>
 <tr class="even">
 <td><p>2018/06/24</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[194]）<br />
+<td><p>2019/10/13[195]<br />
+2019/10/19[196]</p></td>
+<td><p>（<span class="math inline">$\underset{q}{\arg\max}[\forall_n\leq q-2,q^2+q+n=\rho]=41$</span>[197]）<br />
 41</p></td>
 <td></td>
 <td><p>最佳配對的真相</p></td>
-<td></td>
+<td><p>最佳匹配的真相</p></td>
 <td></td>
 <td><ul>
 <li>強壯Clone SMASH</li>
@@ -6788,12 +6792,13 @@
 </tr>
 <tr class="odd">
 <td><p>2018/07/01</p></td>
-<td></td>
-<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[195]）<br />
+<td><p>2019/10/20[198]<br />
+2019/10/26[199]</p></td>
+<td><p>（<span class="math inline"><em>p</em>(10) = 42</span>[200]）<br />
 42</p></td>
 <td></td>
 <td><p>疑惑的遺產</p></td>
-<td></td>
+<td><p>懷疑的遺產</p></td>
 <td></td>
 <td><ul>
 <li>壓縮Clone SMASH</li>
@@ -6806,12 +6811,13 @@
 </tr>
 <tr class="even">
 <td><p>2018/07/08</p></td>
-<td></td>
-<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[196]）<br />
+<td><p>2019/10/27[201]<br />
+2019/11/02[202]</p></td>
+<td><p>（<span class="math inline">$({1 \over \pi} ln 884736744)^2 \simeq 43$</span>[203]）<br />
 43</p></td>
 <td></td>
 <td><p>另外一位的Build</p></td>
-<td></td>
+<td><p>另一個版本</p></td>
 <td></td>
 <td><ul>
 <li>強壯Clone SMASH*2</li>
@@ -6823,12 +6829,13 @@
 </tr>
 <tr class="odd">
 <td><p>2018/07/15</p></td>
-<td></td>
-<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[197]）<br />
+<td><p>2019/11/10[204][205]<br />
+2019/11/16[206][207]</p></td>
+<td><p>（<span class="math inline">$!5=5!\sum_{k=0}^5{(-1)^k \over k!}=44$</span>[208]）<br />
 44</p></td>
 <td></td>
 <td><p>Evolto的末路</p></td>
-<td></td>
+<td><p>艾博魯特的末日</p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>2.5%</p></td>
@@ -6837,12 +6844,13 @@
 </tr>
 <tr class="even">
 <td><p>2018/07/22</p></td>
-<td></td>
-<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[198]）<br />
+<td><p>2019/11/17[209]<br />
+2019/11/23[210]</p></td>
+<td><p>（<span class="math inline">3<sup>2/<em>γ</em></sup> ≃ 45</span>[211]）<br />
 45</p></td>
 <td></td>
 <td><p>希望的科學家</p></td>
-<td></td>
+<td><p>帶來希望的科學家</p></td>
 <td></td>
 <td><ul>
 <li>飛翔Clone SMASH*N</li>
@@ -6867,12 +6875,15 @@
 </tr>
 <tr class="even">
 <td><p>2018/07/29</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[199]）<br />
+<td><p>2019/11/24[212]<br />
+2019/11/30[213]</p></td>
+<td><p>（<span class="math inline">$\sqrt[3]{3^3+36^3+37^3} =46$</span>[214]）<br />
 46</p></td>
 <td></td>
 <td><p>誓言的Be The One</p></td>
-<td></td>
+<td><p>立誓要成為唯一</p>
+<hr/>
+<p>宣誓的Be The One</p></td>
 <td></td>
 <td><ul>
 <li>強壯Clone SMASH</li>
@@ -6886,13 +6897,14 @@
 <td><p>上堀內佳壽也</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018/08/12[200]</p></td>
-<td></td>
-<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[201]）<br />
+<td><p>2018/08/12[215]</p></td>
+<td><p>2019/12/01[216]<br />
+2019/12/07[217]</p></td>
+<td><p>（<span class="math inline">$arctan({1 \over 73})+arctan({1 \over 132})=arctan({1 \over x})$</span>，<span class="math inline"><em>x</em> = 47</span>[218]）<br />
 47</p></td>
 <td></td>
 <td><p>零度之炎</p></td>
-<td></td>
+<td><p>零級火焰</p></td>
 <td></td>
 <td><ul>
 <li>城堡Lost SMASH</li>
@@ -6910,12 +6922,13 @@
 </tr>
 <tr class="even">
 <td><p>2018/08/19</p></td>
-<td></td>
-<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[202]）<br />
+<td><p>2019/12/08[219]<br />
+2019/12/14[220]</p></td>
+<td><p>（<span class="math inline">$\underset{N}{\arg\min}[\forall_n\geq N,\exists p \in(n,{9n \over 8})]=48$</span>[221]）<br />
 48</p></td>
 <td></td>
 <td><p>走向愛與和平的世界</p></td>
-<td></td>
+<td><p>世界大同</p></td>
 <td></td>
 <td><ul>
 <li>艾博魯特（怪人態）
@@ -6929,12 +6942,13 @@
 </tr>
 <tr class="odd">
 <td><p>2018/08/26</p></td>
-<td></td>
-<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[203]）<br />
+<td><p>2019/12/15[222]<br />
+2019/12/21[223]</p></td>
+<td><p>（<span class="math inline">6667<sup>2</sup> = 44448889</span>，<span class="math inline">7<sup>2</sup> = 49</span>[224]）<br />
 49</p></td>
 <td></td>
 <td><p>Build就是創造明日</p></td>
-<td></td>
+<td><p>Build所創造的未來</p></td>
 <td></td>
 <td><p>2.7%</p></td>
 <td></td>
@@ -6965,6 +6979,7 @@
   - 《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
   - 《[劇場版 假面騎士Build Be The One](../Page/劇場版_假面騎士Build_Be_The_One.md "wikilink")》（2018年8月4日上映）
   - 《[假面騎士平成Generations Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》（2018年12月22日上映）
+  - 《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》（2019年12月21日上映）
 
 ### 電視劇集
 
@@ -6992,7 +7007,7 @@
 
   -
     （原題：）
-    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[204\]。
+    月刊雜誌**《てれびくん》**2018年2月號付錄的特別篇[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")\[225\]。
 
 <!-- end list -->
 
@@ -7019,7 +7034,7 @@
 <!-- end list -->
 
   -
-    2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build 的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon 和來賓藝人田中卓志所共演的短篇影像\[205\]。
+    2017年11月26日所播出的企劃「假面騎士藝人」第三彈，飾演主角桐生戰兔 / 假面騎士Build 的演員犬飼貴丈亦於該節目中登場。另外於該節目中播放由假面騎士Build、假面騎士Amazon 和來賓藝人田中卓志所共演的短篇影像\[226\]。
 
 ### 映像商品
 
@@ -7072,13 +7087,13 @@
 
 ### 主題曲
 
-  - \* 「Be The One」\[206\]
+  - \* 「Be The One」\[227\]
     演唱：PANDORA feat.Beverly
-    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[207\]
+    作詞、作曲、編曲：[小室哲哉](../Page/小室哲哉.md "wikilink")、[淺倉大介](https://zh.wikipedia.org/wiki/淺倉大介 "wikilink")\[228\]
 
 ### 插曲
 
-  - \* 「Ready Go\!\!」\[208\]
+  - \* 「Ready Go\!\!」\[229\]
     第27、28話的插曲。
     演唱：ats-、清水武仁&渡邊徹 Feat. AXL21
     作詞：Mio Aoyama
@@ -7165,7 +7180,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p>2018年12月30日－2019年12月1日</p></td>
+<td><p>2018年12月30日－2019年12月15日</p></td>
 <td><p>星期日 11:00－11:30（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）<br />
 （設星期六重播時間為00:35-01:00）（<a href="https://zh.wikipedia.org/wiki/UTC+8" title="wikilink">UTC+8</a>）</p></td>
 <td><p><a href="../Page/香港數碼地面電視廣播.md" title="wikilink">數碼地面電視</a></p></td>
@@ -7200,417 +7215,232 @@
 [Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink") [Category:2017年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年開播的日本電視劇集 "wikilink") [Category:平行世界背景作品](https://zh.wikipedia.org/wiki/Category:平行世界背景作品 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:天才主角題材作品](https://zh.wikipedia.org/wiki/Category:天才主角題材作品 "wikilink")
 
 1.  10月1日改為9:00-9:30
-
 2.  因播放時間更動，從原先的8:00延後至現在的9:00－9:30，與前半小時播出的《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》順序交換過來，接續播出的《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》則無受到影響，維持原本播放時間。如果《光之美少女》的時段在之後也更換為非動畫，那麼自1984年10月以來的動畫檔次也將結束。
-
 3.
-
 4.  是本作主角**桐生戰兔／假面騎士Build**的專屬台詞。
-
 5.  2019年8月2日起每週五更新兩集
-
 6.  [東都都徽](https://pre00.deviantart.net/52ad/th/pre/f/2017/248/4/4/touto_by_markolios-dbmhfw0.png)
-
 7.  在冰室泰山過世後，目前暫由他人代理。
-
 8.  而多治見喜子本身亦存有侵略的野心，才會順應冰室幻德的挑釁發動戰爭。
-
 9.  实际上是走東都首相之后门而得来的
-
 10. 第2話時透過瀧川紗羽手持的「nascita」名片上得知。
-
 11. [西都都徽](https://pre00.deviantart.net/9c2c/th/pre/f/2017/248/9/d/seito_by_markolios-dbmhefd.png)
-
 12. 部分年輕人才被輸出去外國亦是復興經濟的計劃之一。
-
 13. 比较讽刺的是其行事作风和难波重工同样
-
 14. [北都都徽](https://pre00.deviantart.net/4fdb/th/pre/f/2017/248/9/4/hokuto_by_markolios-dbmhbdr.png)
-
 15. 如葛城京香。
-
 16. 因為諧音發音的關係，聽起來極似「北都三笨蛋」，導致最初在戰兔及龍我面前自報名號之時，被龍我吐槽。
-
 17. 第20話得知他們在自願成為北都的兵器後，就將自己的本名捨棄掉（包含本名、血型還有軍屬編號等相關資料皆刻在其所戴的軍牌上），而改名成現在的代號。
-
 18. 三人於後皆改造成Hazard SMASH。
-
 19. 《ROGUE》序章
-
 20. 至于有没有人敢光明正大地跟难波作对就不得而知了
-
 21. 不少人因此推测难波重工可能已筹备了一笔庞大的秘密资金，用于此机构上
-
 22. 「[月面空翻](https://zh.wikipedia.org/wiki/:en:Moonsault "wikilink")」為[職業摔角](../Page/職業摔角.md "wikilink")裏其中一種招式。
-
 23. 以第14話爲例，在桐生戰兔製造兔子坦克氣泡罐過程當中測試不少Best Match組合的滿裝瓶，但只有「Rabbit」和「Tank」的滿裝瓶能順利激活。
-
 24. 在平成假面騎士中相當少見的變身道具名稱和型態名稱不同。此類的前例是假面騎士Ghost 的羅賓魂（Robin Damashi，使用的眼魂為「Robin hood」）
-
 25. 劇中直接命名為「仮面ライダークローズ」。
-
 26. 劇中直接命名為「仮面ライダークローズチャージ」。
-
 27. 劇中直接命名為「仮面ライダークローズマグマ」。
-
 28. 劇中直接命名為「仮面ライダーグレートクローズ」。
-
 29. 劇中直接命名為「仮面ライダーグリス」。
-
 30. 劇中直接命名為「仮面ライダーグリズブリザード」。
-
 31. 劇中直接命名為「仮面ライダーローグ」。
-
 32. 劇中直接命名為「仮面ライダープライムローグ」。
-
 33. 第33話以石動惣一的軀體首次變身，後於第35和37話附身在萬丈龍我和桐生戰兔的體内，並根據變身階段分為一到三，第38話起擬態成石動的樣貌以繼續活跃，後於第46話為了向Build等人宣戰而擬態成御堂正邦的樣貌並發布视频
-
 34. 雖然不太明顯。
-
 35. 第12話中代替冰室幻德變身來欺瞞民眾，《假面騎士Build 提昇危險等級的7種最佳配對》前篇中則是幫戰兔收集危險扳機的資料。
-
 36. 事实上這些能力都是艾博魯特与生俱来的特殊能力
-
 37. 兩個世界的最上魁星合體
-
 38. 劇中直接命名為「ネビュラヘルブロス」。
-
 39. 劇中直接命名為「ヘルブロス」。
-
 40. 此為「創世計劃（Project Build）」的一部分。
-
-41. 充填形態除外
-
-42. 最终形態下
-
-43. 其後該技術亦被夜霸及血逐用來做人體實驗。
-
-44. 類似《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中假面騎士誕生的情節。
-
-45. 第43話得知葛城忍所使用的創造驅動器為試驗版本，因此能發揮出滿裝瓶最大的能力，後於第46話证实其早已被假面騎士Grease 偷走，并用来变身成暴风雪形態。
-
-46. 追加安裝危险扳機後的音效則是「Super Best Match」（原文「」）
-
-47. 如非「Best Match」的組合則稱為「Trial」（原文「」）。
-
-48. 葛城忍版本的則是没有「Best Match」的音效
-
-49. 假面騎士Blood 的则是加了「Overflow！」和「Yabei！」的音效。
-
-50. 只有在「充填形態（Charge Form）」下
-
-51. 後面兩人的腰帶則是由內海成彰透過石動惣一所盜取的數據資料製作而成
-
-52. 鱷魚裂痕滿裝瓶除外
-
-53. 桐生戰兔曾為了不讓萬丈龍我再胡亂使用而打算由自己進行變身時，卻因無法承受其所產生的劇烈刺激而失敗（第20話時猿渡一海也因過度的劇烈刺激導致半途解除變身）。
-
-54. 萬丈龍我在第一次使用時就曾因冷靜不了而亂打一通，結果一度因在攻擊時煞不住車而讓手卡進樹幹裡。
-
-55. 假面騎士Evol 所持有的進化驅動器曾在火星一戰中遭到貝魯娜姬毀壞，後經葛城巧（桐生戰兔）之父葛城忍修復並製成設計圖檔案，後得知被失去記憶前的戰兔（還是葛城巧的時候）找到並藏在淨化裝置內作為動力系統，失忆後的他為了赎回被挟持的冰室泰山而將其完璧归赵於Evolto手中。
-
-56. 內海成彰所持有的進化驅動器則是艾博魯特透過葛城忍的協助下將其製作而成，但該驅動器是調整成適合人類使用，所以能力方面及體力會有所限制。
-
-57. 因Evolto没有實體的缘故，所以必須依靠他人（即石動惣一、萬丈龍我和桐生戰兔）的躯體來頂替
-
-58. 追加安装進化扳機時的音效則為「Revolution！」（原文「」）
-
-59. 兩人共用一把來變身，而且Hell Bros也以此來變身
-
-60. 聯動劇場版中則是Kaiser 系戰士，而且两名戰士皆以一人一把來變身成Bi-Kaiser
-
-61. 如同《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的「Fang Memory」一樣。
-
-62. 所以在第一次中只顧著想變身的龍我才因此失敗，後在第二次龍我因香澄的信激發內心的情感下終於成功變身。
-
-63. 中間曾使用其他的滿裝瓶組合激活，但都失敗，直到這個組合才成功。
-
-64. 也因此在第21話時，使用後的戰兔接二連三地擊倒龍我和三羽鴉，甚至擊殺青羽。
-
-65. 本篇第22話証實此裝置開啟後，會使危險扳機全力輸出而自毀，但也會讓使用危險扳機的戰兔隨之消散而亡。
-
-66. 就是本篇22話登場的裝置
-
-67. 艾博魯特曾將葛城忍的研究檔案內的部份資料刪除，而戰兔在重新修復檔案後發現此段資料
-
-68. 正確來說應該是葛城巧。
-
-69. 夜霸、血逐、Bros系騎士和假面騎士Evol、Mad Rogue
-
-70. 即假面騎士Cross-Z 和假面騎士Grease
-
-71. Grease 在使用「Dragon」濃縮膠涷時則是多出一把，并安置在右腕
-
-72. 似乎本身就嵌在牆壁內，但在第4話得知是石動惣一放置於牆上
-
-73. 基本上都是裝置「獅子（Lion）」滿裝瓶，但在「獅子（Lion）」滿裝瓶被奪走後改裝置其他滿裝瓶（例如第30話）。
-
-74. 其實是帶有裂紋的圖案。
-
-75. 此滿裝瓶的圖案跟「滿裝滿裝兔子坦克瓶」兔子模式的圖案相同。
-
-76. 為目前唯一一位被改造一次以上的實驗對象
-
-77. 在劇中被猿渡一海擊倒後就沒相關畫面，因此無法確認真實樣貌及相關身份。
-
-78. 真實身份不明。根據服裝推斷該變身者疑是北都的罪犯，如同東都中央刑務所的罪犯般被Faust 作為實驗對象。
-
-79. 只有在字幕提及名稱，官網無介紹文。
-
-80.
-81. 正確來說應該是貝魯娜姬。
-
-82. 香港ViuTV標題，以播放時所顯示的字幕及節目表為準。
-
-83. 木棉花的翻譯。
-
-84. 日本關東地區平均收視率。
-
-85. 早上11:00-11:30播映。
-
-86. 此為[零次方的公式](https://zh.wikipedia.org/wiki/冪#指数是1或者0 "wikilink")，任何0以外的數的0次方皆等於1。
-
-87. 中午12:00-12:30播映。
-
-88. 此為[費波那契數列的公式](https://zh.wikipedia.org/wiki/費波那契數列 "wikilink")，數列第-3項的值為2。
-
+41. 其後該技術亦被夜霸及血逐用來做人體實驗。
+42. 類似《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中假面騎士誕生的情節。
+43. 第43話得知葛城忍所使用的創造驅動器為試驗版本，因此能發揮出滿裝瓶最大的能力，後於第46話证实其早已被假面騎士Grease 偷走，并用来变身成暴风雪形態。
+44. 追加安裝危险扳機後的音效則是「Super Best Match」（原文「」）
+45. 如非「Best Match」的組合則稱為「Trial」（原文「」）。
+46. 葛城忍版本的則是没有「Best Match」的音效
+47. 假面騎士Blood 的则是加了「Overflow！」和「Yabei！」的音效。
+48. 鱷魚裂痕滿裝瓶除外
+49. 桐生戰兔曾為了不讓萬丈龍我再胡亂使用而打算由自己進行變身時，卻因無法承受其所產生的劇烈刺激而失敗（第20話時猿渡一海也因過度的劇烈刺激導致半途解除變身）。
+50. 萬丈龍我在第一次使用時就曾因冷靜不了而亂打一通，結果一度因在攻擊時煞不住車而讓手卡進樹幹裡。
+51. 因Evolto没有實體的缘故，所以必須依靠他人（即石動惣一、萬丈龍我和桐生戰兔）的躯體來頂替
+52. 追加安装進化扳機時的音效則為「Revolution！」（原文「」）
+53. 兩人共用一把來變身，而且Hell Bros也以此來變身
+54. 聯動劇場版中則是Kaiser 系戰士，而且两名戰士皆以一人一把來變身成Bi-Kaiser
+55. 如同《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的「Fang Memory」一樣。
+56. 所以在第一次中只顧著想變身的龍我才因此失敗，後在第二次龍我因香澄的信激發內心的情感下終於成功變身。
+57. 中間曾使用其他的滿裝瓶組合激活，但都失敗，直到這個組合才成功。
+58. 也因此在第21話時，使用後的戰兔接二連三地擊倒龍我和三羽鴉，甚至擊殺青羽。
+59. 後續登場的假面騎士build 兔子兔子型態、坦克坦克型態以及假面騎士metal build的雙坦克危險型態就是使用同一種元素的滿裝瓶才不受其副作用影響
+60. 本篇第22話証實此裝置開啟後，會使危險扳機全力輸出而自毀，但也會讓使用危險扳機的戰兔隨之消散而亡，於第27話時將其數據完成進而創造雙兔子坦克滿裝瓶。
+61. 就是本篇22話登場的裝置
+62. 艾博魯特曾將葛城忍的研究檔案內的部份資料刪除，而戰兔在重新修復檔案後發現此段資料
+63. 正確來說應該是葛城巧。
+64. 夜霸、血逐、Bros系騎士和假面騎士Evol、Mad Rogue
+65. 即假面騎士Cross-Z 和假面騎士Grease
+66. Grease 在使用「Dragon」濃縮膠涷時則是多出一把，并安置在右腕
+67. 似乎本身就嵌在牆壁內，但在第4話得知是石動惣一放置於牆上
+68. 基本上都是裝置「獅子（Lion）」滿裝瓶，但在「獅子（Lion）」滿裝瓶被奪走後改裝置其他滿裝瓶（例如第30話）。
+69. 其實是帶有裂紋的圖案。
+70. 此滿裝瓶的圖案跟「滿裝滿裝兔子坦克瓶」兔子模式的圖案相同。
+71. 為目前唯一一位被改造一次以上的實驗對象
+72. 在劇中被猿渡一海擊倒後就沒相關畫面，因此無法確認真實樣貌及相關身份。
+73. 真實身份不明。根據服裝推斷該變身者疑是北都的罪犯，如同東都中央刑務所的罪犯般被Faust 作為實驗對象。
+74. 只有在字幕提及名稱，官網無介紹文。
+75.
+76. 正確來說應該是貝魯娜姬。
+77. 香港ViuTV標題，以播放時所顯示的字幕及節目表為準。
+78. 木棉花的翻譯。
+79. 日本關東地區平均收視率。
+80. 早上11:00-11:30播映。
+81. 此為[零次方的公式](https://zh.wikipedia.org/wiki/冪#指数是1或者0 "wikilink")，任何0以外的數的0次方皆等於1。
+82. 中午12:00-12:30播映。
+83. 此為[費波那契數列的公式](https://zh.wikipedia.org/wiki/費波那契數列 "wikilink")，數列第-3項的值為2。
+84. 中午12:00-12:30播映。
+85. 此為1990年國際數學奧林匹亞競賽（IMO）的第3道問題。
+86. 中午12:00-12:30播映。
+87. 此為[四色定理](../Page/四色定理.md "wikilink")的公式，證明任何地圖都可以只用四種顏色來著色。
+88. 此話開始調整播放時間。
 89. 中午12:00-12:30播映。
-
-90. 此為1990年國際數學奧林匹亞競賽（IMO）的第3道問題。
-
+90. 此為[五次方程](../Page/五次方程.md "wikilink")的公式，説明五次以上的方程式無法以代數方式解開。
 91. 中午12:00-12:30播映。
-
-92. 此為[四色定理](../Page/四色定理.md "wikilink")的公式，證明任何地圖都可以只用四種顏色來著色。
-
-93. 此話開始調整播放時間。
-
-94. 中午12:00-12:30播映。
-
-95. 此為[五次方程](../Page/五次方程.md "wikilink")的公式，説明五次以上的方程式無法以代數方式解開。
-
-96. 中午12:00-12:30播映。
-
-97. 此為[黎曼ζ函數](../Page/黎曼ζ函數.md "wikilink")的公式，本式為「ζ(2)=π^2/6」的變式。
-
-98. 中午12:00-12:30播映。
-
-99. 此為[曲面染色的公式](https://zh.wikipedia.org/wiki/曲面染色 "wikilink")，在甜甜圈狀表面上的地圖塗色，最少需要用到7種顏色。雖然本公式是四色定理的延續，但解決時間卻比四色定理還要早。
-
+92. 此為[黎曼ζ函數](../Page/黎曼ζ函數.md "wikilink")的公式，本式為「ζ(2)=π^2/6」的變式。
+93. 中午12:00-12:30播映。
+94. 此為[曲面染色的公式](https://zh.wikipedia.org/wiki/曲面染色 "wikilink")，在甜甜圈狀表面上的地圖塗色，最少需要用到7種顏色。雖然本公式是四色定理的延續，但解決時間卻比四色定理還要早。
+95. 中午12:00-12:30播映。
+96. 此為[胡爾維茲定理的公式](https://zh.wikipedia.org/wiki/胡爾維茲定理 "wikilink")，當n=1,2,4,8時，本式便成立，其中最大值為8。
+97. 中午12:00-12:30播映。
+98. 此為[卡塔蘭猜想](../Page/卡塔蘭猜想.md "wikilink")的公式，本內容為除了「8=2^3」與「9=3^2」以外，沒有連續兩個整數都是正整數的冪。
+99. 11月05日因播放第49屆全日本大學驛站接力賽（）而停播一次。
 100. 中午12:00-12:30播映。
-
-101. 此為[胡爾維茲定理的公式](https://zh.wikipedia.org/wiki/胡爾維茲定理 "wikilink")，當n=1,2,4,8時，本式便成立，其中最大值為8。
-
-102. 中午12:00-12:30播映。
-
-103. 此為[卡塔蘭猜想](../Page/卡塔蘭猜想.md "wikilink")的公式，本內容為除了「8=2^3」與「9=3^2」以外，沒有連續兩個整數都是正整數的冪。
-
-104. 11月05日因播放第49屆全日本大學驛站接力賽（）而停播一次。
-
-105. 中午12:00-12:30播映。
-
-106. 此為知名泰米爾天才數學家——[斯里尼瓦瑟•拉馬努金所發現的公式](https://zh.wikipedia.org/wiki/斯里尼瓦瑟•拉馬努金 "wikilink")。
-
-107. 早上11:00-11:30播映。
-
-108. 深夜00:30-01:00重播。
-
-109. 此為[米爾斯常數的公式](https://zh.wikipedia.org/wiki/米爾斯常數 "wikilink")，其值「A≃ 1.306377……」，本式為由米爾斯常數產生的米爾斯質數，而米爾斯質數中的第2項為11。
-
-110. 早上11:00-11:30播映。
-
-111. 深夜00:30-01:00重播。
-
-112. 此為[1+2+3+4+……](https://zh.wikipedia.org/wiki/1+2+3+4+…… "wikilink")（又稱發散級數）的公式，即「ζ(−1)=-1/12」的變式。
-
-113. 早上11:00-11:30播映。
-
-114. 深夜00:30-01:00重播。
-
-115. 此為[阿基米德立體](../Page/阿基米德立體.md "wikilink")的公式，此式總共有13種。
-
-116. 早上11:00-11:30播映。
-
-117. 深夜00:35-01:00重播。
-
-118. 此為[非歐拉商數](../Page/非歐拉商數.md "wikilink")的公式。其定義為不在[歐拉函數](https://zh.wikipedia.org/wiki/歐拉函數 "wikilink") φ 值域中的整數n。除1以外，所有奇數都是非歐拉商數，而偶數中最小的非歐拉商數為14。
-
-119. 早上11:00-11:30播映。
-
-120. 深夜00:35-01:00重播。
-
-121. 此為拉馬努金問題第464號，滿足本式的n的解只有3、4、5、7、15這五個數字，因此本式求的最大解為15（2^15-7=32761=181^2）。
-
-122. 早上11:00-11:30播映。
-
-123. 深夜00:35-01:00重播。
-
-124. 此為[高德納箭號表示法](../Page/高德納箭號表示法.md "wikilink")的公式，所謂的高德納箭號表示法是種用來表示巨大數的方法。
-
-125. 12月31日因逢日本新年而停播一次。
-
-126. 早上11:00-11:30播映。
-
-127. 深夜00:35-01:00重播。
-
-128. 此為[費馬數](../Page/費馬數.md "wikilink")的公式。其定義為「Fn = 2^2^n + 1」。
-
+101. 此為知名泰米爾天才數學家——[斯里尼瓦瑟•拉馬努金所發現的公式](https://zh.wikipedia.org/wiki/斯里尼瓦瑟•拉馬努金 "wikilink")。
+102. 早上11:00-11:30播映。
+103. 深夜00:30-01:00重播。
+104. 此為[米爾斯常數的公式](https://zh.wikipedia.org/wiki/米爾斯常數 "wikilink")，其值「A≃ 1.306377……」，本式為由米爾斯常數產生的米爾斯質數，而米爾斯質數中的第2項為11。
+105. 早上11:00-11:30播映。
+106. 深夜00:30-01:00重播。
+107. 此為[1+2+3+4+……](https://zh.wikipedia.org/wiki/1+2+3+4+…… "wikilink")（又稱發散級數）的公式，即「ζ(−1)=-1/12」的變式。
+108. 早上11:00-11:30播映。
+109. 深夜00:30-01:00重播。
+110. 此為[阿基米德立體](../Page/阿基米德立體.md "wikilink")的公式，此式總共有13種。
+111. 早上11:00-11:30播映。
+112. 深夜00:35-01:00重播。
+113. 此為[非歐拉商數](../Page/非歐拉商數.md "wikilink")的公式。其定義為不在[歐拉函數](https://zh.wikipedia.org/wiki/歐拉函數 "wikilink") φ 值域中的整數n。除1以外，所有奇數都是非歐拉商數，而偶數中最小的非歐拉商數為14。
+114. 早上11:00-11:30播映。
+115. 深夜00:35-01:00重播。
+116. 此為拉馬努金問題第464號，滿足本式的n的解只有3、4、5、7、15這五個數字，因此本式求的最大解為15（2^15-7=32761=181^2）。
+117. 早上11:00-11:30播映。
+118. 深夜00:35-01:00重播。
+119. 此為[高德納箭號表示法](../Page/高德納箭號表示法.md "wikilink")的公式，所謂的高德納箭號表示法是種用來表示巨大數的方法。
+120. 12月31日因逢日本新年而停播一次。
+121. 早上11:00-11:30播映。
+122. 深夜00:35-01:00重播。
+123. 此為[費馬數](../Page/費馬數.md "wikilink")的公式。其定義為「Fn = 2^2^n + 1」。
+124. 早上11:00-11:30播映。
+125. 由於直播[NBA](../Page/NBA.md "wikilink")季後賽：聖安東尼奧馬刺VS丹佛金塊，4月28日停播第一次。
+126. 深夜00:35-01:00重播。
+127. 5月4日停播第二次，原定時間改播《[金田一少年之事件簿R](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")》。
+128. 此為[魔群](../Page/魔群.md "wikilink")的公式，Finite group的中文為「有限群」，而有限群中的無限族總共有18個。
 129. 早上11:00-11:30播映。
-
-130. 由於直播[NBA](../Page/NBA.md "wikilink")季後賽：聖安東尼奧馬刺VS丹佛金塊，4月28日停播第一次。
-
-131. 深夜00:35-01:00重播。
-
-132. 5月4日停播第二次，原定時間改播《[金田一少年之事件簿R](https://zh.wikipedia.org/wiki/金田一少年之事件簿_\(動畫\) "wikilink")》。
-
-133. 此為[魔群](../Page/魔群.md "wikilink")的公式，Finite group的中文為「有限群」，而有限群中的無限族總共有18個。
-
-134. 早上11:00-11:30播映。
-
-135. 深夜00:35-01:00重播。
-
-136. 此為拉馬努金問題第1076號，原式為「6√7 3√20-19=3√5/3-3√2/3」。
-
-137. 早上11:00-11:30播映。
-
-138. 深夜00:35-01:00重播。
-
-139. 此為[接近整數的公式](https://zh.wikipedia.org/wiki/接近整數 "wikilink")，本式的結果約為19.999099979…，因此近似值為20。
-
-140. 早上11:00-11:30播映。
-
-141. 深夜00:35-01:00重播。
-
-142. 此為[哈沙德數](../Page/哈沙德數.md "wikilink")的公式，該式的意思為「整數中並無連續21個整數都是哈沙德數」。
-
-143. 早上11:00-11:30播映。
-
-144. 深夜00:35-01:00重播。
-
-145. 此為拉馬努金所發現的圓周率，其近似值為「2143/22≃π^4」的變式。
-
-146. 早上11:00-11:30播映。
-
-147. 深夜00:35-01:00重播。
-
-148. 此為拉馬努金問題第507號，本式中x的解為23。
-
-149. 早上11:00-11:30播映。
-
-150. 深夜00:35-01:00重播。
-
-151. 此為[砲彈問題的公式](https://zh.wikipedia.org/wiki/砲彈問題 "wikilink")，該式意為「1^2+2^2+3^2+……+n^2=m^2」。
-
-152. 早上11:00-11:30播映。
-
-153. 深夜00:35-01:00重播。
-
-154. 此為[博卡問題的公式](https://zh.wikipedia.org/wiki/博卡問題 "wikilink")，原問題為求「n\!+1=m^2」之解，而本問題的解只有（4,5）、（5,11）、（7,71）三組，但標題算式變化為(n-1)，即n-1階加1等於n的k次方。
-
-155. 早上11:00-11:30播映。
-
-156. 深夜00:35-01:00重播。
-
-157. 此為[散在群的公式](https://zh.wikipedia.org/wiki/散在群 "wikilink")，總數為26個。
-
-158. 早上11:00-11:30播映。
-
-159. 深夜00:35-01:00重播。
-
-160. 此為第七[異種球面的視覺化](https://zh.wikipedia.org/wiki/異種球面 "wikilink")
-
-161. 早上11:00-11:30播映。
-
-162. 深夜00:35-01:00重播。
-
-163. 此為[完全數的公式](https://zh.wikipedia.org/wiki/完全數 "wikilink")，意思是該數除了自身以外的所有因數的總和，剛好等於這個數本身。
-
-164. 早上11:00-11:30播映。
-
-165. 深夜00:35-01:00重播。
-
-166. 此為[阿克曼函數](../Page/阿克曼函數.md "wikilink")的公式，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
-
-167. 早上11:00-11:30播映。
-
-168. 深夜00:35-01:00重播。
-
-169. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
-
-170. 早上11:00-11:30播映。
-
-171. 深夜00:35-01:00重播。
-
-172. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
-
-173. 早上11:00-11:30播映。
-
-174. 深夜00:35-01:00重播。
-
-175. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
-
-176. 早上11:00-11:30播映。
-
-177. 深夜00:35-01:00重播。
-
-178. 此為拉馬努金圓周率的變體
-
-179. 早上11:00-11:30播映。
-
-180. 深夜00:35-01:00重播。
-
-181. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79 \< 10^10^10^34」
+130. 深夜00:35-01:00重播。
+131. 此為拉馬努金問題第1076號，原式為「6√7 3√20-19=3√5/3-3√2/3」。
+132. 早上11:00-11:30播映。
+133. 深夜00:35-01:00重播。
+134. 此為[接近整數的公式](https://zh.wikipedia.org/wiki/接近整數 "wikilink")，本式的結果約為19.999099979…，因此近似值為20。
+135. 早上11:00-11:30播映。
+136. 深夜00:35-01:00重播。
+137. 此為[哈沙德數](../Page/哈沙德數.md "wikilink")的公式，該式的意思為「整數中並無連續21個整數都是哈沙德數」。
+138. 早上11:00-11:30播映。
+139. 深夜00:35-01:00重播。
+140. 此為拉馬努金所發現的圓周率，其近似值為「2143/22≃π^4」的變式。
+141. 早上11:00-11:30播映。
+142. 深夜00:35-01:00重播。
+143. 此為拉馬努金問題第507號，本式中x的解為23。
+144. 早上11:00-11:30播映。
+145. 深夜00:35-01:00重播。
+146. 此為[砲彈問題的公式](https://zh.wikipedia.org/wiki/砲彈問題 "wikilink")，該式意為「1^2+2^2+3^2+……+n^2=m^2」。
+147. 早上11:00-11:30播映。
+148. 深夜00:35-01:00重播。
+149. 此為[博卡問題的公式](https://zh.wikipedia.org/wiki/博卡問題 "wikilink")，原問題為求「n\!+1=m^2」之解，而本問題的解只有（4,5）、（5,11）、（7,71）三組，但標題算式變化為(n-1)，即n-1階加1等於n的k次方。
+150. 早上11:00-11:30播映。
+151. 深夜00:35-01:00重播。
+152. 此為[散在群的公式](https://zh.wikipedia.org/wiki/散在群 "wikilink")，總數為26個。
+153. 早上11:00-11:30播映。
+154. 深夜00:35-01:00重播。
+155. 此為第七[異種球面的視覺化](https://zh.wikipedia.org/wiki/異種球面 "wikilink")
+156. 早上11:00-11:30播映。
+157. 深夜00:35-01:00重播。
+158. 此為[完全數的公式](https://zh.wikipedia.org/wiki/完全數 "wikilink")，意思是該數除了自身以外的所有因數的總和，剛好等於這個數本身。
+159. 早上11:00-11:30播映。
+160. 深夜00:35-01:00重播。
+161. 此為[阿克曼函數](../Page/阿克曼函數.md "wikilink")的公式，這是一種需要兩個自然數作為輸入值，並且能產生出巨大數的遞迴函式。
+162. 早上11:00-11:30播映。
+163. 深夜00:35-01:00重播。
+164. 此為全部[素數的最大值](https://zh.wikipedia.org/wiki/素數 "wikilink")，英文中「totative」一詞意為「小於整數n，並與n互質的數」，而「prime」一詞意為「質數」。本式意為在一個與整數n互質且小於n的數全部都是質數（與30互質的數有1、7、11、13、17、19、23、29這八個，除1以外都是質數）的條件下，符合此條件的數字中最大的整數是30。
+165. 早上11:00-11:30播映。
+166. 深夜00:35-01:00重播。
+167. 此為[梅森質數的公式](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")，其定義是符合Mn=2^n-1的質數。
+168. 早上11:00-11:30播映。
+169. 深夜00:35-01:00重播。
+170. 此為[晶體學點群的總數](https://zh.wikipedia.org/wiki/晶體學點群 "wikilink")，「crystal class」的中文意為「晶系」，而晶體學的點群總共有32種之意。
+171. 早上11:00-11:30播映。
+172. 深夜00:35-01:00重播。
+173. 此為拉馬努金圓周率的變體
+174. 早上11:00-11:30播映。
+175. 深夜00:35-01:00重播。
+176. 此為[斯奎斯數的公式](https://zh.wikipedia.org/wiki/斯奎斯數 "wikilink")，南非數學家史丹利•斯奎斯提出的巨大數的一種。斯奎斯於1933年提出了第一斯奎斯數的上界（需要黎曼假設成立）：「e^e^e^79 \< 10^10^10^34」
      由於第一斯奎斯數的值僅僅近似於10^10^10^34，以常用對數計算後得到的答案也是近似值，因此算式使用┌與┐這兩個「取頂符號」。
-
-182. 早上11:00-11:30播映。
-
-183. 深夜00:35-01:00重播。
-
-184. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
-
-185. 早上11:00-11:30播映。
-
-186. 深夜00:35-01:00重播。
-
-187. 此為[立方數](../Page/立方數.md "wikilink")的公式
-
-188. 早上11:00-11:30播映。
-
-189. 深夜00:35-01:00重播。
-
-190. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
-
-191. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
-
-192. 此為[收斂級數的公式](https://zh.wikipedia.org/wiki/收斂級數 "wikilink")。
-
-193. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
-
-194. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
-
-195. 此為[整數分拆](../Page/整數分拆.md "wikilink")的公式，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
-
-196. 同樣為接近整数的公式，即「e^π√43≃ 884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
-
-197. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
-
-198. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
-
-199. 此為[立方根](../Page/立方根.md "wikilink")的公式，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
-
-200. 8月05日停播一次。
-
-201. 此為[反正切](../Page/反正切.md "wikilink")的公式，即反三角函數的一種。
-
-202. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
-
-203. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
-
-204. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
-
-205. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
-
-206. 第1話未用於片頭，而是用於片尾。
-
-207. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗 / 假面騎士Cronus （聲） 。
-
-208.
+177. 早上11:00-11:30播映。
+178. 深夜00:35-01:00重播。
+179. 此為[素紐結的公式](https://zh.wikipedia.org/wiki/素紐結 "wikilink")，交叉數小於等於8個的素紐結，總數是35個之意。
+180. 早上11:00-11:30播映。
+181. 深夜00:35-01:00重播。
+182. 此為[立方數](../Page/立方數.md "wikilink")的公式
+183. 早上11:00-11:30播映。
+184. 深夜00:35-01:00重播。
+185. 此為[非正規質數的公式](https://zh.wikipedia.org/wiki/非正規質數 "wikilink")，本式意為非正規質數中，最小的數字為37之意。
+186. 早上11:00-11:30播映。
+187. 深夜00:35-01:00重播。
+188. 此為[六角魔方的公式](https://zh.wikipedia.org/wiki/六角魔方 "wikilink")，即任一排數字的和皆相等的魔方陣，其任何一排的總和皆為38。
+189. 早上11:00-11:30播映。
+190. 深夜00:35-01:00重播。
+191. 此為[收斂級數的公式](https://zh.wikipedia.org/wiki/收斂級數 "wikilink")。
+192. 早上11:00-11:30播映。
+193. 深夜00:35-01:00重播。
+194. 此為[佩爾方程的公式](https://zh.wikipedia.org/wiki/佩爾方程 "wikilink")，指的是具有x^2-ny^2=1的形式，且n為正整數的二元二次方程式。
+195. 早上11:00-11:30播映。
+196. 深夜00:35-01:00重播。
+197. 此為[歐拉質數生成式的公式](https://zh.wikipedia.org/wiki/歐拉質數生成式 "wikilink")，把整數帶入這項質數生成式fn(q)=q^2+q+n的n中，從第0到n-2項為止都能讓該式產生質數的整數，總共有2、3、5、11、17、41這六個，這六個數被稱為「歐拉幸運數」。
+198. 早上11:00-11:30播映。
+199. 深夜00:35-01:00重播。
+200. 此為[整數分拆](../Page/整數分拆.md "wikilink")的公式，「p(n)」是用來表示自然數n有多少種分拆方式的表示法。
+201. 早上11:00-11:30播映。
+202. 深夜00:35-01:00重播。
+203. 同樣為接近整数的公式，即「e^π√43≃ 884736743.999777…」的變式。實際用計算機計算本式後的答案約為「43.00000000000105…」，因此本式近似值是43。
+204. 早上11:00-11:30播映。
+205. 由於直播[NBA](../Page/NBA.md "wikilink")常規賽：費城七六人VS波特蘭拓荒者，11月03日停播第一次。
+206. 深夜00:35-01:00重播。
+207. 11月9日停播第二次，原定時間改播《[真PK Trip](../Page/真PK_Trip.md "wikilink")》。
+208. 此為[錯排問題](https://zh.wikipedia.org/wiki/錯排問題 "wikilink")（Derangement）的公式，錯排問題是指n個物體的置換排列中，每個排列中的每個物體都不在原本的位置上的排列順序。該數表記法可寫成「Dn」、「dn」或「\!n」。
+209. 早上11:00-11:30播映。
+210. 深夜00:35-01:00重播。
+211. 此為[歐拉．馬斯刻若尼常數的公式](https://zh.wikipedia.org/wiki/歐拉．馬斯刻若尼常數 "wikilink")。該常數的代表符號為γ，它的近似值是「0.57721566490153…」。
+212. 早上11:00-11:30播映。
+213. 深夜00:35-01:00重播。
+214. 此為[立方根](../Page/立方根.md "wikilink")的公式，在實數系中，實數在實數系中，實數α的立方根通常用於「³√α」和「α³」來表示。
+215. 8月05日停播一次。
+216. 早上11:00-11:30播映。
+217. 深夜00:35-01:00重播。
+218. 此為[反正切](../Page/反正切.md "wikilink")的公式，即反三角函數的一種。
+219. 早上11:00-11:30播映。
+220. 深夜00:35-01:00重播。
+221. 此為[伯特蘭．切比雪夫定理的公式](https://zh.wikipedia.org/wiki/伯特蘭．切比雪夫定理 "wikilink")。本定理說明當整數n\>3，則至少存在一個質數p，符合「n\<p\<2n」。而本式意為當n大於等於48的時候，「n～9n/8」之間必定會存質數存在之意。
+222. 早上11:00-11:30播映。
+223. 深夜00:35-01:00重播。
+224. 此為[立面根的公式](https://zh.wikipedia.org/wiki/立面根 "wikilink")，就是兩個同樣的位数相乘的公式，例如「α²」。
+225. 根據官網所公佈的得知時間軸大約是在本篇第19 - 20話之間
+226. 田中卓志每一彈都參與演出，但每次都成修卡怪人欺負的對象。
+227. 第1話未用於片頭，而是用於片尾。
+228. 淺倉大介亦有與貴水博之組成日本音樂組合\<<Access>\>，其中成員貴水博之亦曾於前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》飾演檀正宗 / 假面騎士Cronus （聲） 。
+229.

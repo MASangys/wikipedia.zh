@@ -1,3 +1,6 @@
+> 本文内容由[BALDR HEART](https://zh.wikipedia.org/wiki/BALDR_HEART)转换而来。
+
+
 《**BALDR HEART**》是[戲畫在](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2016年8月26日發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[動作類型](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BALDR系列的第7作。2016年12月22日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《BALDR HEART EXE》。\[3\]
 
 ## 故事

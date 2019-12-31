@@ -1,8 +1,11 @@
+> 本文内容由[假面騎士Build角色列表](https://zh.wikipedia.org/wiki/假面騎士Build角色列表)转换而来。
+
+
 **假面騎士Build角色列表**展示於[朝日電視台](../Page/朝日電視台.md "wikilink")放映的特攝劇集《**[假面騎士Build](../Page/假面騎士Build.md "wikilink")**》（原題：）各個角色。
 
 ## 假面騎士
 
-****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾；香港配音：[張振熙](../Page/張振熙.md "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇、冬季電影版、平成世代Forever）；大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
+****（[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")飾；香港配音：[張振熙](../Page/張振熙.md "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（本篇、冬季電影版、平成世代Forever）、歐祖豪（ZI-O）；大陆配音：[郝祥海](https://zh.wikipedia.org/wiki/郝祥海 "wikilink")）
 
   -
     **假面騎士Build**、**假面騎士Evol（被艾博魯特附身時）** 的變身者，26歲。
@@ -101,7 +104,7 @@
     口頭禪是「現在的我，是不會輸的！」以及「力量在沸腾，灵魂在燃烧，我的熔岩在喷涌而出！我势不可挡！」。
     於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》第1話-第2話登場。
 
-****（[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[34\]飾；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")；香港配音：[梁皓翔](../Page/梁皓翔.md "wikilink")；大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
+****（[武田航平](https://zh.wikipedia.org/wiki/武田航平 "wikilink")\[34\]飾；台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（本篇）；香港配音：[梁皓翔](../Page/梁皓翔.md "wikilink")；大陆配音：[郭盛](https://zh.wikipedia.org/wiki/郭盛 "wikilink")）
 
   -
     **假面騎士Grease（港譯: 古列斯）** 的變身者，29歲，7月17日生\[35\]，軍屬編號「907101080」\[36\]，AB血型，暱稱「海海（カズミン）\[37\]」。
@@ -181,10 +184,11 @@
     第47話面对同样被艾博魯特的遗传因子拟態化的鷲尾兄弟，而自愿留下来和他们俩决斗，直到内海的出現和他的心声被透露出来後才正式双剑合并，在鷲尾兄弟被消灭后便遇到艾博魯特，并再次对战不果反被击倒，在目睹内海牺牲後便利用蒸氣槍撤退，後得知猿渡的牺牲後陷入了悲伤。
     第48話在戰兔和龍我先后被已進化成究极態的艾博魯特打败後，便独自一人和其對戰，第一次被打败至头盔破裂，第二次在打中了進化扳機后又使出必杀技時更是直接被秒杀，最后道出遗言後\[59\]便安然消散，壮烈牺牲。
     第49話在沒有天空之壁的世界中，擔任父親冰室泰山的首相秘書，並接受紗羽訪問。
+    在Cross-Z外傳篇因潘朵拉之盒的波動而恢復舊世界的記憶。
     曾持有「火箭（Rocket）」滿裝瓶，後因血逐而落入戰兔手上。
     變身成夜霸的口號是「蒸血」\[60\]（日語原文為「蒸血」）。
 
-****（[越智友己](https://zh.wikipedia.org/wiki/越智友己 "wikilink")、[大竹優青](https://zh.wikipedia.org/wiki/大竹優青 "wikilink")（童年期）飾；香港配音：[陳成港](../Page/陳成港.md "wikilink")；大陆配音：[胡霖](../Page/胡霖.md "wikilink")）
+****（[越智友己](https://zh.wikipedia.org/wiki/越智友己 "wikilink")、[大竹優青](https://zh.wikipedia.org/wiki/大竹優青 "wikilink")（童年期）飾；香港配音：[陳成港](../Page/陳成港.md "wikilink")；台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")；大陆配音：[胡霖](../Page/胡霖.md "wikilink")）
 
   -
     **夜霸（港譯: 暗黑騎士）**、**Hell Bros**、**假面騎士Mad Rogue**的變身者，27歲。
@@ -208,7 +212,7 @@
     第49話在沒有天空之壁的世界中，工作於難波機械製造所，還试图折断一根铁棍，结果反被打伤。
     變身成夜霸的口號是「蒸血」（日語原文為「蒸血」）。
 
-**** （[木山廉彬飾](https://zh.wikipedia.org/wiki/木山廉彬 "wikilink")；香港配音：[杜景煜](../Page/杜景煜.md "wikilink")）
+**** （[木山廉彬飾](https://zh.wikipedia.org/wiki/木山廉彬 "wikilink")；香港配音：[譚禹晉](../Page/譚禹晉.md "wikilink")；台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
 
   -
     **假面騎士Build** 的變身者，27歲。\[66\]
@@ -230,7 +234,7 @@
     諷刺的是其留下的資料卻由失憶的自己（桐生戰兔）持有而且擠壓驅動器的資料更被人拿來發動戰爭。
     變身後的口頭禅是「我叫假面騎士Build ，即「創動」和「形成」之含義的Build ，以後就多多指教了。」\[73\]。
 
-****（[小久保丈二飾](https://zh.wikipedia.org/wiki/小久保丈二 "wikilink")）
+****（[小久保丈二飾](https://zh.wikipedia.org/wiki/小久保丈二 "wikilink")；香港配音：[羅偉亮](../Page/羅偉亮.md "wikilink")）
 
   -
     **假面騎士Build** 的變身者。
@@ -248,7 +252,7 @@
     第45話最终向戰兔等人透露了自己的计划——「利用超越一切物理法则的现象創立新世界」，正因如此为了人类才會向艾博魯特诈降，以便趁机反击，结果遭到毒殺至倒在其子戰兔的怀里，再道出遗言後便彻底消散。
     與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的園咲琉兵衛、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的笛木奏、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的蠻野天十郎、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗等皆為父親類型的反派角色。如果進一步分類的話，他屬於為了拯救他人而無奈地成為反派的父親角色類型。
 
-****（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")；香港配音：[袁德基](../Page/袁德基.md "wikilink")；大陆配音：[陈思宇](https://zh.wikipedia.org/wiki/陈思宇 "wikilink")）
+****（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")；香港配音：[袁德基](../Page/袁德基.md "wikilink")；台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")；大陆配音：[陈思宇](https://zh.wikipedia.org/wiki/陈思宇 "wikilink")）
 
   -
     **血逐** 、**假面騎士Evol**（被艾博魯特附身時）的變身者，48歲。
@@ -321,7 +325,7 @@
 
 ### 東都政府
 
-****（[山田明鄉飾](https://zh.wikipedia.org/wiki/山田明鄉 "wikilink")；香港配音：[黃志明](../Page/黃志明_\(香港\).md "wikilink")）
+****（[山田明鄉飾](https://zh.wikipedia.org/wiki/山田明鄉 "wikilink")；香港配音：[黃志明](../Page/黃志明_\(香港\).md "wikilink")；台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
 
   -
     極力推動和平主義的東都首相，也是首相辅佐官——冰室幻德之父。
@@ -439,6 +443,8 @@
     第47話和纱羽来到了潘朵拉之塔，并目睹了猿渡的亢奋决斗，還叫他住手仮被拒绝，结果猿渡不管刚才的死亡征兆然后直接秒杀了城堡Lost SMASH ，被猿渡拜托把其中一个失落滿裝瓶交给戰兔又目睹其完全消散后陷入了万分哀伤。
     第48話在黑白双色嵌板成功对接在一起後及时拿着潘朵拉之盒，成功让戰兔将已置入了十个失落滿裝瓶的白色嵌板一口气置入在潘朵拉之盒中。
     第49話手腕中的手镯终于脱落，并在無天空之壁的世界中，在nascita帮父亲打杂，不仅第一次被猿渡一见钟情而使其昏倒外，還因第一次和戰兔相遇又以为是佐藤太郎而倍感意外。
+    在Cross-Z外傳篇因潘朵拉之盒的波動而恢復舊世界的記憶。
+    在Grease外傳篇最後向猿渡一海告白。
 
 ****（[瀧裕可里](https://zh.wikipedia.org/wiki/瀧裕可里 "wikilink")\[112\]飾；香港配音：[陳雪瑩](../Page/陳雪瑩.md "wikilink")；台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")（本篇）、[連思宇](../Page/連思宇.md "wikilink")（冬季電影版）；大陆配音：[叶知秋](https://zh.wikipedia.org/wiki/叶知秋 "wikilink")）
 
@@ -468,6 +474,8 @@
     第47話较早时被内海通电，後和美空来到了潘朵拉之塔，并和幻德与内海会合，且将其中两个滿裝瓶交给两人，让他们成功消灭了鷲尾兄弟。
     第48話在塔顶一睹戰兔三人对垒艾博魯特一戰中，甚至于目睹了整个战况，而感到惶恐不已。
     第49話在沒天空之壁的世界中，成了中央政經日報的記者。
+    在Cross-Z外傳篇因潘朵拉之盒的波動而恢復舊世界的記憶。
+    在Grease外傳篇和冰室幻德成為情侶。
 
 ### 其他人物
 
@@ -511,7 +519,7 @@
 
 ### 北都政府
 
-****（[魏涼子](https://zh.wikipedia.org/wiki/魏涼子 "wikilink")\[115\]飾；香港配音：[莊巧兒](../Page/莊巧兒.md "wikilink")）
+****（[魏涼子](https://zh.wikipedia.org/wiki/魏涼子 "wikilink")\[115\]飾；香港配音：[莊巧兒](../Page/莊巧兒.md "wikilink")；台灣配音：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")）
 
   -
     北都首相，**貓頭鷹 Lost SMASH** 的變身者。
@@ -531,7 +539,7 @@
 
 ### 北都三羽鴉
 
-****（[榮信飾](https://zh.wikipedia.org/wiki/榮信 "wikilink")）
+****（[榮信飾](https://zh.wikipedia.org/wiki/榮信 "wikilink")；台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
 
   -
     **城堡 Hard SMASH**、**城堡 Hazard SMASH** 的變身者，軍屬編號「759139193」。
@@ -545,7 +553,7 @@
     第47話被濒死的猿渡一擊彻底消灭。
     第49話在沒天空之壁的世界中存活，并和猿渡造访nascita，但隨後與其他兩人將興奮過度的猿渡抬走。
 
-****（[芹澤興人飾](https://zh.wikipedia.org/wiki/芹澤興人 "wikilink")）
+****（[芹澤興人飾](https://zh.wikipedia.org/wiki/芹澤興人 "wikilink")；台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
 
   -
     **鍬形蟲 Hard SMASH**、**鍬形蟲 Hazard SMASH** 的變身者，軍屬編號「330488381」。
@@ -559,7 +567,7 @@
     第47話被猿渡消灭。
     第49話在沒天空之壁的世界中存活，并和猿渡造访nascita，但隨後與其他兩人將興奮過度的猿渡抬走。
 
-****（[吉村卓也飾](https://zh.wikipedia.org/wiki/吉村卓也 "wikilink")）
+****（[吉村卓也飾](https://zh.wikipedia.org/wiki/吉村卓也 "wikilink")；台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")）
 
   -
     **貓頭鷹 Hard SMASH**、**貓頭鷹 Hazard SMASH** 的變身者，軍屬編號「800110158」。
@@ -627,7 +635,7 @@
 
 ### 西都政府
 
-****（[富家規政飾](https://zh.wikipedia.org/wiki/富家規政 "wikilink")；香港配音：[黎家希](../Page/黎家希.md "wikilink")）
+****（[富家規政飾](https://zh.wikipedia.org/wiki/富家規政 "wikilink")；香港配音：[黎家希](../Page/黎家希.md "wikilink")；台灣配音：[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")）
 
   -
     西都首相。
@@ -677,7 +685,7 @@
 
 ## 難波重工
 
-****（[濱田晃](https://zh.wikipedia.org/wiki/濱田晃 "wikilink")\[123\]、[富家規政](https://zh.wikipedia.org/wiki/富家規政 "wikilink")（偽裝成御堂正邦時）飾 香港配音：[黎家希](../Page/黎家希.md "wikilink")）
+****（[濱田晃](https://zh.wikipedia.org/wiki/濱田晃 "wikilink")\[123\]、[富家規政](https://zh.wikipedia.org/wiki/富家規政 "wikilink")（偽裝成御堂正邦時）飾；香港配音：[黎家希](../Page/黎家希.md "wikilink")；台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
 
   -
     難波重工的[會長](https://zh.wikipedia.org/wiki/會長 "wikilink")，Faust 的幕後資助者，喜歡吃甜食。

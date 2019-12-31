@@ -1,3 +1,6 @@
+> 本文内容由[Present \(東京少年單曲\)](https://zh.wikipedia.org/wiki/Present_\(東京少年單曲\))转换而来。
+
+
 《**Present**》，或譯作**禮物**（）是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[東京少年的總計第](../Page/東京少年_\(樂團\).md "wikilink")4張單曲。1990年8月21日發行。發行公司為[Victor Entertainment](../Page/勝利娛樂.md "wikilink")。
 
 ## 解說

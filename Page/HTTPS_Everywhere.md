@@ -1,3 +1,6 @@
+> 本文内容由[HTTPS Everywhere](https://zh.wikipedia.org/wiki/HTTPS_Everywhere)转换而来。
+
+
 **HTTPS Everywhere**是一个[自由且](../Page/自由软件.md "wikilink")[开源的](../Page/开放源代码.md "wikilink")[瀏覽器擴充功能](../Page/瀏覽器擴充功能.md "wikilink")，支持[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Mozilla Firefox和](../Page/Firefox.md "wikilink")[Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")，由非营利组织和[电子前哨基金会](../Page/电子前哨基金会.md "wikilink")（EFF）共同开发\[1\]。该插件会在网站支持的情况下自动转用更安全的[HTTPS连接](../Page/超文本传输安全协议.md "wikilink")，减少使用[HTTP的情况](../Page/超文本传输协议.md "wikilink")\[2\]。
 
 ## 开发

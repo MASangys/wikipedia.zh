@@ -1,4 +1,4 @@
-> 本文内容由[Sweet Power](https://zh.wikipedia.org/wiki/Sweet Power)转换而来。
+> 本文内容由[Sweet Power](https://zh.wikipedia.org/wiki/Sweet_Power)转换而来。
 
 
 **Sweet Power**（），[日本](../Page/日本.md "wikilink")知名[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，1996年創立。旗下簽約藝人以[演員](../Page/演員.md "wikilink")及[模特兒](../Page/模特兒.md "wikilink")為主。

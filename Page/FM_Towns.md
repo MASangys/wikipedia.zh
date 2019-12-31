@@ -1,4 +1,4 @@
-> 本文内容由[FM Towns](https://zh.wikipedia.org/wiki/FM Towns)转换而来。
+> 本文内容由[FM Towns](https://zh.wikipedia.org/wiki/FM_Towns)转换而来。
 
 
 **FM Towns**是日本公司[富士通](../Page/富士通.md "wikilink")生产的一种[个人电脑](../Page/个人电脑.md "wikilink")。电脑起初定向为多媒体应用与[游戏用私人电脑](../Page/电脑游戏.md "wikilink")，但后来逐渐开始与一般电脑兼容。1993年，与既存FM Towns游戏兼容的游戏机[FM Towns Marty发行](../Page/FM_Towns_Marty.md "wikilink")。

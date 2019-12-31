@@ -1,3 +1,6 @@
+> 本文内容由[BanG Dream!](https://zh.wikipedia.org/wiki/BanG_Dream!)转换而来。
+
+
 《**BanG Dream\!**》是以連載於《》的同名[漫畫作品為基礎的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[日本](../Page/日本.md "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")企劃\[1\]，該漫畫由原作\[2\]、石田彩作畫\[3\]，並由負責人物設定\[4\]，故事描述女高中生的[樂團活動](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")\[5\]。各角色的[聲優](../Page/聲優.md "wikilink")則實際組成名為「Poppin'Party」、「Roselia」、「Afterglow」、「Pastel＊Palettes」、「Hello, Happy World\!」等樂團並持續舉辦[LIVE等活动](https://zh.wikipedia.org/wiki/音樂會 "wikilink")。[電視動畫在](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年1月播放\[6\]，[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")（第14話）則於同年8月於日本各電視台播放。第二季在2019年1月開始播放，第三季將於2020年1月播放，電影版已於2019年9月13日在日本上映。
 
 ## 概要

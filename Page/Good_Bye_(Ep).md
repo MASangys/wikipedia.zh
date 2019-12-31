@@ -1,4 +1,4 @@
-> 本文内容由[Good Bye \(Ep\)](https://zh.wikipedia.org/wiki/Good Bye \(Ep\))转换而来。
+> 本文内容由[Good Bye \(Ep\)](https://zh.wikipedia.org/wiki/Good_Bye_\(Ep\))转换而来。
 
 
 **Goodbye**是韓國女子歌手[咸𤨒晶](../Page/咸𤨒晶.md "wikilink")特別發行的個人限量專輯。主打歌為*Goodbye*，是[T-ara網劇](https://zh.wikipedia.org/wiki/T-ara "wikilink")<甜蜜的誘惑>中*Only for You*的插曲。

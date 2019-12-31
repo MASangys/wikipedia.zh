@@ -1,3 +1,6 @@
+> 本文内容由[Global Icon](https://zh.wikipedia.org/wiki/Global_Icon)转换而来。
+
+
 **Global Icon** ([朝鮮語](../Page/朝鮮語.md "wikilink")：지아이)也稱：**GI**， 是Simtong娛樂在2013年創建的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")。她們在2013年4月3日發行單曲《Beatles》\[1\]。該組合因成員多爲短髮並有男性化的風格，與當前韓國女子組合的風格十分不同，所以有'假小子女團'的稱號。但在經歷過成員變化后，在2015年回歸時，該女團變為走性感路綫。\[2\]
 
 ## 經歷

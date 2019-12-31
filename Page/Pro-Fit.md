@@ -1,3 +1,6 @@
+> 本文内容由[Pro-Fit](https://zh.wikipedia.org/wiki/Pro-Fit)转换而来。
+
+
 **有限公司Pro-Fit**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介

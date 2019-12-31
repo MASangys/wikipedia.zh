@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Asha 310](https://zh.wikipedia.org/wiki/諾基亞Asha_310)转换而来。
+
+
 **諾基亞Asha 310**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[功能手機](https://zh.wikipedia.org/wiki/功能手機 "wikilink")，2013年2月13日發布。
 
 ## 規格

@@ -1,3 +1,6 @@
+> 本文内容由[I\'ll be the one](https://zh.wikipedia.org/wiki/I\'ll_be_the_one)转换而来。
+
+
 《**I'll be the one**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[HΛL的第](https://zh.wikipedia.org/wiki/HΛL "wikilink")6首單曲。2002年6月19日由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

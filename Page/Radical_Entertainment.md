@@ -1,4 +1,4 @@
-> 本文内容由[Radical Entertainment](https://zh.wikipedia.org/wiki/Radical Entertainment)转换而来。
+> 本文内容由[Radical Entertainment](https://zh.wikipedia.org/wiki/Radical_Entertainment)转换而来。
 
 
 **Radical Entertainment**，是总部设在加拿大不列颠哥伦比亚省温哥华的游戏开发商。它成立于1991年，先前的游戏由其他游戏发行商发行。2005年，该工作室被收购维旺迪游戏，现在为动视暴雪的子公司。\[1\]该工作室是不列颠哥伦比亚省最古老的游戏工作室，一个完全拥有的子公司，常常被称为温哥华游戏业中的骨干力量。\[2\]

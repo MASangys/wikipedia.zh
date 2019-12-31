@@ -1,3 +1,6 @@
+> 本文内容由[Scramble \(堀江由衣 with UNSCANDAL歌曲\)](https://zh.wikipedia.org/wiki/Scramble_\(堀江由衣_with_UNSCANDAL歌曲\))转换而来。
+
+
 《**Scramble**》（）是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[堀江由衣](../Page/堀江由衣.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年10月27日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 概要

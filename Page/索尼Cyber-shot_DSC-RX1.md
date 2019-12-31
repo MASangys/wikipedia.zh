@@ -1,4 +1,4 @@
-> 本文内容由[索尼Cyber-shot DSC-RX1](https://zh.wikipedia.org/wiki/索尼Cyber-shot DSC-RX1)转换而来。
+> 本文内容由[索尼Cyber-shot DSC-RX1](https://zh.wikipedia.org/wiki/索尼Cyber-shot_DSC-RX1)转换而来。
 
 
 **索尼 Cyber-shot DSC-RX1**是[索尼](../Page/索尼.md "wikilink")于2012年9月推出的固定镜头数码相机\[1\]，最大特点在于其装配了全画幅尺寸传感器，且配置蔡司35mm F2镜头，而使其成为了世界上第一台全画幅规格的固定镜头数码相机\[2\]。

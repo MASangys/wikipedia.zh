@@ -1,4 +1,4 @@
-> 本文内容由[IOS 10](https://zh.wikipedia.org/wiki/IOS 10)转换而来。
+> 本文内容由[IOS 10](https://zh.wikipedia.org/wiki/IOS_10)转换而来。
 
 
 **iOS 10**是[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS第十个主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，于旧金山当地时间2016年6月13日召开的[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")2016首日公布，是[iOS 9的后继版本](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")。iOS 10的新特性主要是提供了新的-{zh-tw:鎖定螢幕;zh-hans:锁屏}-交互模式，新的控制中心，增强的[iMessage等等](https://zh.wikipedia.org/wiki/iMessage "wikilink")，正式版已于2016年9月14日发布。

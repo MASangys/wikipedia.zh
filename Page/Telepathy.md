@@ -1,3 +1,6 @@
+> 本文内容由[Telepathy](https://zh.wikipedia.org/wiki/Telepathy)转换而来。
+
+
 **Telepathy**是一個用於在軟體上人際溝通的[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，例如[即時通訊](../Page/即時通訊.md "wikilink")、[VoIP](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")、視訊會議等等。Telepathy可以透過使用[D-Bus](../Page/D-Bus.md "wikilink")[行程間通訊](../Page/行程間通訊.md "wikilink")機制來建立通訊應用程式。它的目標是簡化通訊軟體的開發並在[自由與開放原始碼社群中透過定義應用程式與底層的網路協定的邏輯邊界來推廣](../Page/自由软件运动.md "wikilink")[代码复用](../Page/代码复用.md "wikilink")。
 
 ## 實作

@@ -1,4 +1,4 @@
-> 本文内容由[Carbonated Games](https://zh.wikipedia.org/wiki/Carbonated Games)转换而来。
+> 本文内容由[Carbonated Games](https://zh.wikipedia.org/wiki/Carbonated_Games)转换而来。
 
 
 **Carbonated Games**，是微软工作室旗下工作室。由约书亚·霍华德成立和运行，从2004年开始运营直到2008年3月27日解散。

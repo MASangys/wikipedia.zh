@@ -1,3 +1,6 @@
+> 本文内容由[FACE \(NU\'EST單曲\)](https://zh.wikipedia.org/wiki/FACE_\(NU\'EST單曲\))转换而来。
+
+
 **《FACE》**是韓國男子團體[NU'EST](../Page/NU'EST.md "wikilink")出道單曲，於2012年3月15日發行。主打曲〈FACE〉為韓國男子團體出道曲於YOUTUBE頻道最高觀看次數記錄保持者，迄今觀看次數已抵達一億。
 
 ## 背景

@@ -1,4 +1,4 @@
-> 本文内容由[孤單公園 \(EP\)](https://zh.wikipedia.org/wiki/孤單公園 \(EP\))转换而来。
+> 本文内容由[孤單公園 \(EP\)](https://zh.wikipedia.org/wiki/孤單公園_\(EP\))转换而来。
 
 
 《孤單公園》是[張敬軒的專輯](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")，收錄了4首歌曲，由環球唱片2004年4月24日發行。

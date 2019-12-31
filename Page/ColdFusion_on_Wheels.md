@@ -1,4 +1,4 @@
-> 本文内容由[ColdFusion on Wheels](https://zh.wikipedia.org/wiki/ColdFusion on Wheels)转换而来。
+> 本文内容由[ColdFusion on Wheels](https://zh.wikipedia.org/wiki/ColdFusion_on_Wheels)转换而来。
 
 
 **CFWheels**（全称：Coldfusion on Wheels）是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")。\[1\]它的名字有时缩写为**Wheels**。

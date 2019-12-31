@@ -1,3 +1,6 @@
+> 本文内容由[Boom Shakalaka](https://zh.wikipedia.org/wiki/Boom_Shakalaka)转换而来。
+
+
 《*' Boom Shakalaka*'》（韓語：추석특집 붐샤카라카）是韓國[KBS的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，由[車銀優](../Page/車銀優.md "wikilink")（[ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")）、[李起光](../Page/李起光.md "wikilink")（[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")）、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）等人出演。節目為出演者以1980年代至2000年代，在韓國掀起熱潮的舞曲進行舞蹈對決的節目，除了能讓觀眾欣賞到藝人們的舞蹈實力外，還會與大家一起重溫不同年代流行的舞蹈，回顧那時代的回憶\[1\]\[2\]。
 
 ## 參與來賓

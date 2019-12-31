@@ -1,3 +1,6 @@
+> 本文内容由[Move-to-front transform](https://zh.wikipedia.org/wiki/Move-to-front_transform)转换而来。
+
+
 **MTF**（**Move-To-Front**）是一种数据编码方式，作为一个额外的步骤，用于提高[数据压缩](../Page/数据压缩.md "wikilink")技术效果。MTF主要使用的是数据“空间局部性”，也就是最近出现过的字符很可能在接下来的文本附近再次出现。
 
 ## MTF的主要思想

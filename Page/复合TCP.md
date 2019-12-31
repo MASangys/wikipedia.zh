@@ -1,3 +1,6 @@
+> 本文内容由[复合TCP](https://zh.wikipedia.org/wiki/复合TCP)转换而来。
+
+
 **复合TCP**（，简称**CTCP**）是[微软](../Page/微软.md "wikilink")自[Windows Vista及Window](../Page/Windows_Vista.md "wikilink") Server 2008开始在[TCP栈中引入的一个算法](../Page/传输控制协议.md "wikilink")。它旨在积极调整发送方的，以在不损害的基础上（[HSTCP同样遵循](https://zh.wikipedia.org/wiki/高速TCP "wikilink")）优化TCP对高[带宽时延积连接的表现](https://zh.wikipedia.org/wiki/带宽时延积 "wikilink")。该方案还可在Linux、Windows XP以及Windows Server 2003上使用。\[1\]
 
 ## 操作原理

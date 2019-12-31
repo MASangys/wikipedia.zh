@@ -1,4 +1,4 @@
-> 本文内容由[Unity \(海底光缆\)](https://zh.wikipedia.org/wiki/Unity \(海底光缆\))转换而来。
+> 本文内容由[Unity \(海底光缆\)](https://zh.wikipedia.org/wiki/Unity_\(海底光缆\))转换而来。
 
 
 **Unity**是2010年4月建设完成的[日本](../Page/日本.md "wikilink")与[美国](../Page/美国.md "wikilink")之间的跨[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[海底電纜](../Page/海底電纜.md "wikilink")系统。\[1\]\[2\]\[3\]

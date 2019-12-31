@@ -1,4 +1,4 @@
-> 本文内容由[Gotta Get High](https://zh.wikipedia.org/wiki/Gotta Get High)转换而来。
+> 本文内容由[Gotta Get High](https://zh.wikipedia.org/wiki/Gotta_Get_High)转换而来。
 
 
 《**Gotta Get High**》為香港女歌手[容祖兒](../Page/容祖兒.md "wikilink")的歌曲，亦是其專輯《[J-POP](https://zh.wikipedia.org/wiki/J-POP_\(專輯\) "wikilink")》的第二主打。

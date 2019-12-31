@@ -1,3 +1,6 @@
+> 本文内容由[The Red Summer](https://zh.wikipedia.org/wiki/The_Red_Summer)转换而来。
+
+
 《**The Red Summer**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的第一張](../Page/Red_Velvet.md "wikilink")[韓語夏日迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[SM娛樂](../Page/SM娛樂.md "wikilink")企劃並於2017年7月9日由[Genie Music發行](https://zh.wikipedia.org/wiki/Genie_Music "wikilink")。
 
 ## 背景與創作

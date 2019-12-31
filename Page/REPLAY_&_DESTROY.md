@@ -1,3 +1,6 @@
+> 本文内容由[REPLAY \& DESTROY](https://zh.wikipedia.org/wiki/REPLAY_\&_DESTROY)转换而来。
+
+
 《**REPLAY & DESTROY**》是日本LISMO Channel于2011年製作配信的手機劇，共4集，每集5分鐘。之後于2015年由[MBS重新製作成日劇](../Page/每日放送.md "wikilink")，在MBS、[TBS播出](../Page/TBS電視台.md "wikilink")，共8集，每集24分鐘。
 
 ## 手機劇

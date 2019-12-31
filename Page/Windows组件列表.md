@@ -1,3 +1,6 @@
+> 本文内容由[Windows组件列表](https://zh.wikipedia.org/wiki/Windows组件列表)转换而来。
+
+
 以下是 Microsoft Windows 组件列表。
 
 ## 配置与维护

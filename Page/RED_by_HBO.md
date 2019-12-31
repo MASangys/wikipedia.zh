@@ -1,3 +1,6 @@
+> 本文内容由[RED by HBO](https://zh.wikipedia.org/wiki/RED_by_HBO)转换而来。
+
+
 **Red by HBO**（前身為 **Screen Red**）是一个泛亞洲電影頻道。频道由[HBO Asia與](https://zh.wikipedia.org/wiki/HBO_\(頻道\) "wikilink")[美亞娛樂](../Page/美亞娛樂.md "wikilink")全力合作，在2010年啟播。該頻道主要播放來自亞洲國家的電影，所有這些都以原始語言呈現，並提供不同國家語言的字幕。與其他HBO亞洲頻道不同，Red by HBO 在他們的電影和电视剧中途会播放商業广告。
 
 2015年10月，該平台被HBO更名為Red by HBO，且頻道的覆蓋範圍擴大，涵蓋整个[東南亞地区](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。\[1\]

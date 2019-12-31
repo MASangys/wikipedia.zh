@@ -1,4 +1,4 @@
-> 本文内容由[Savannah \(住宅\)](https://zh.wikipedia.org/wiki/Savannah \(住宅\))转换而来。
+> 本文内容由[Savannah \(住宅\)](https://zh.wikipedia.org/wiki/Savannah_\(住宅\))转换而来。
 
 
 [Savannah_Place_2018.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Place_2018.jpg "fig:Savannah_Place_2018.jpg") [Savannah_Car_entrance_201911.jpg](https://zh.wikipedia.org/wiki/File:Savannah_Car_entrance_201911.jpg "fig:Savannah_Car_entrance_201911.jpg") **Savannah**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[至善街](../Page/至善街.md "wikilink")3號 ，是[會德豐](../Page/會德豐.md "wikilink")集團旗下的私人住宅屋苑。由梁黃顧建築師（香港）事務所設計，[協興建築](../Page/協興建築.md "wikilink")承建。物業分為4座樓高11至23層的大廈，共提供804伙單位，包括799個分層戶及5間洋房。屋苑於2016年5月開售，於2018年4月落成入伙。管理公司為夏利文物業管理有限公司，管理費每呎4.4元。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批單位的價單，定價由421萬至1187.9萬元。\[1\]

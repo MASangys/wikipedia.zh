@@ -1,3 +1,6 @@
+> 本文内容由[KSw 71](https://zh.wikipedia.org/wiki/KSw_71)转换而来。
+
+
 **KSw 71**是一顆高速自轉的[扁橢球體恆星](../Page/類球面.md "wikilink")，該恆星是[光譜型K型的巨星](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，半徑超過太陽10倍，被認為是兩顆距離極近的[聯星](../Page/聯星.md "wikilink")系統成員恆星合併後形成\[1\]。KSw71和其他[南瓜](../Page/南瓜.md "wikilink")形狀的恆星是由[克卜勒太空望遠鏡](../Page/克卜勒太空望遠鏡.md "wikilink")與[雨燕卫星的觀測資料發現](https://zh.wikipedia.org/wiki/雨燕卫星 "wikilink")。KSw 71的[X射線高峰強度超過太陽](https://zh.wikipedia.org/wiki/X射線 "wikilink")100倍\[2\]。
 
 ## 參考資料

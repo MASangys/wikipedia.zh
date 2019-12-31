@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft接口定义语言](https://zh.wikipedia.org/wiki/Microsoft接口定义语言)转换而来。
+
+
 **Microsoft接口定义语言**（；缩写：）是[微软](../Page/微软.md "wikilink")的基于文本的[接口描述语言](../Page/接口描述语言.md "wikilink")。扩展自[DCE/RPC](https://zh.wikipedia.org/wiki/DCE/RPC "wikilink") IDL用于微软的[组件对象模型](../Page/组件对象模型.md "wikilink")（Component Object Model）。 \[1\] 它的编译器是MIDL.exe（随[Windows SDK发行](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink")）。MIDL用于[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")(RPC)的接口、[DCOM接口](https://zh.wikipedia.org/wiki/DCOM "wikilink")、[OLE自动化的类型库等的描述](https://zh.wikipedia.org/wiki/Ole "wikilink").
 
 ## 简介

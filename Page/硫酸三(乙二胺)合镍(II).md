@@ -1,3 +1,6 @@
+> 本文内容由[硫酸三\(乙二胺\)合镍\(II\)](https://zh.wikipedia.org/wiki/硫酸三\(乙二胺\)合镍\(II\))转换而来。
+
+
 **硫酸三(乙二胺)合镍(II)**是镍(II)的[乙二胺](../Page/乙二胺.md "wikilink")[配合物](../Page/配合物.md "wikilink")，化学式为\[Ni(en)<sub>3</sub>\]SO<sub>4</sub>，其中en为乙二胺的简写。该配合物由\[Ni(en)<sub>3</sub>\]<sup>2+</sup>和SO<sub>4</sub><sup>2−</sup>离子构成。\[1\]
 
 ## 制备

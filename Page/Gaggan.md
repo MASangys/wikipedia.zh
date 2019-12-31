@@ -1,3 +1,6 @@
+> 本文内容由[Gaggan](https://zh.wikipedia.org/wiki/Gaggan)转换而来。
+
+
 **Gaggan** 是由厨师 Gaggan Anand 在泰国曼谷经营的餐厅。 在2015年，它被《餐厅》杂志命名为世界50最佳餐厅的亚洲最佳餐厅，在全球排名第10。
 
 ## 描述

@@ -1,3 +1,6 @@
+> 本文内容由[Q-MHz](https://zh.wikipedia.org/wiki/Q-MHz)转换而来。
+
+
 **Q-MHz**（）是日本的一支音樂製作組合，成員皆為作詞家及作曲家，包括[畑亞貴](../Page/畑亞貴.md "wikilink")、、及。
 
 ## 經歷

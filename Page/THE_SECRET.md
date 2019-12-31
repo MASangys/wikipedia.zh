@@ -1,4 +1,4 @@
-> 本文内容由[THE SECRET](https://zh.wikipedia.org/wiki/THE SECRET)转换而来。
+> 本文内容由[THE SECRET](https://zh.wikipedia.org/wiki/THE_SECRET)转换而来。
 
 
 《**THE SECRET**》，是韓國女子團體[宇宙少女的第二張迷你專輯](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，以《비밀이야(Secret)》為主打歌，於2016年8月17日發行，也是首張以13人回歸的專輯。

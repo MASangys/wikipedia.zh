@@ -1,4 +1,4 @@
-> 本文内容由[CAMP \(短電影\)](https://zh.wikipedia.org/wiki/CAMP \(短電影\))转换而来。
+> 本文内容由[CAMP \(短電影\)](https://zh.wikipedia.org/wiki/CAMP_\(短電影\))转换而来。
 
 
 《**CAMP**》是由韓國導演尹洪承與韓國演員[張根碩](../Page/張根碩.md "wikilink")共同企劃、導演的短篇電影\[1\]，於2013年9月拍攝，2015年3月14日發行，片長共40分鐘，由韓國[Tree J Company](http://treej-company.com/)及日本[Frau International CO](http://www.frau-inter.co.jp/jp/).共同製作發行。

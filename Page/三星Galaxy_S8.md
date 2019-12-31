@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy S8](https://zh.wikipedia.org/wiki/三星Galaxy_S8)转换而来。
+
+
 **Samsung Galaxy S8** 和 **Samsung Galaxy S8+** 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")于[美国东部时间](https://zh.wikipedia.org/wiki/美国东部时间 "wikilink")[2017年](../Page/2017年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")在[美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[林肯中心首發的Android系統高階旗艦](https://zh.wikipedia.org/wiki/林肯中心 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是三星[Galaxy S系列中的第八代](https://zh.wikipedia.org/wiki/Galaxy_S系列 "wikilink")，承繼三星[Galaxy S7](https://zh.wikipedia.org/wiki/Galaxy_S7 "wikilink")。三星於2017年世界流動通訊大會上宣佈將會於3月29日在[紐約舉行S](https://zh.wikipedia.org/wiki/紐約 "wikilink")8及S8 plus發表會。 它是全球第一部使用[HDR螢幕和](https://zh.wikipedia.org/wiki/HDR "wikilink") 10 納米處理器的手機，而且與前代S7不同，S8及S8+均為雙曲面玻璃屏幕，不設平面螢幕版本。三星S8拥有谜夜黑、耀星银、烟晶灰、雾屿蓝和绮梦金五种配色。同期競爭對手為[Sony Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[HTC U11和](../Page/HTC_U11.md "wikilink")[华为P10](../Page/华为P10.md "wikilink")。
 
 ## 上市及銷售

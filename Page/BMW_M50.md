@@ -1,4 +1,4 @@
-> 本文内容由[BMW M50](https://zh.wikipedia.org/wiki/BMW M50)转换而来。
+> 本文内容由[BMW M50](https://zh.wikipedia.org/wiki/BMW_M50)转换而来。
 
 
 [1993_bmw_325is_engine.jpg](https://zh.wikipedia.org/wiki/File:1993_bmw_325is_engine.jpg "fig:1993_bmw_325is_engine.jpg") **BMW M50**為[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[寶馬公司生產的一系列](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[直列六缸](https://zh.wikipedia.org/wiki/直列六缸引擎 "wikilink")，自然吸氣，頂置雙[凸輪軸](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")（DOHC）[汽油引擎](../Page/汽油引擎.md "wikilink")，1990年投產，為[M20系列引擎的換代產品](https://zh.wikipedia.org/wiki/BMW_M20 "wikilink")。1996年，M50（除S50外）停產並被[M52取代](../Page/BMW_M52.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Remember \(迷你專輯\)](https://zh.wikipedia.org/wiki/Remember_\(迷你專輯\))转换而来。
+
+
 [Pop_group_T-ara_is_greeting_on_stage_during_the_launch_ceremony_for_Team_Korea_on_September_11,_2014.jpg](https://zh.wikipedia.org/wiki/File:Pop_group_T-ara_is_greeting_on_stage_during_the_launch_ceremony_for_Team_Korea_on_September_11,_2014.jpg "fig:Pop_group_T-ara_is_greeting_on_stage_during_the_launch_ceremony_for_Team_Korea_on_September_11,_2014.jpg")组合\]\] 《**Remember**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第九張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")（雖稱為第十二張），由MBK娛樂於2016年11月9日發布\[1\]。此次專輯為[全寶藍](../Page/全寶藍.md "wikilink")及[朴昭妍](../Page/朴昭妍.md "wikilink")最後一次在T-ara所發行之專輯，兩人合約於2017年5月15日到期，在參加台灣演唱會後並沒有續約及參與後續專輯活動\[2\]。
 
 ## 發行背景
@@ -37,38 +40,21 @@
 [Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink") [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.  [MV & Album Review T-ara - 'Remember'](https://www.allkpop.com/article/2016/01/mv-album-review-t-ara-remember)
-
 2.  [T-ara昭妍寶藍月中離隊　真人騷被取消　改以4人體制回歸再延期](https://www.hk01.com/韓迷/89330/)
-
 3.  [T-ara to make a comeback soon\!](http://www.allkpop.com/article/2016/10/t-ara-to-make-a-comeback-soon)
-
 4.  [T-ara Reveals Comeback Date And Showcase Plans](http://www.soompi.com/2016/10/19/t-ara-to-make-comeback-with-non-dance-track) /
-
 5.  [T-ara Reveals Details About Title Track + New Teaser Image](http://www.soompi.com/2016/10/31/t-ara-reveals-details-title-track-new-teaser-image/)
-
 6.  [T-ara write a sweet handwritten letter to fans waiting for their comeback\!](https://www.allkpop.com/article/2016/11/t-ara-write-a-sweet-handwritten-letter-to-fans-waiting-for-their-comeback)
-
 7.  [T-ara reveals reason for their popularity among Chinese audience](http://www.asiastarz.com/articles/15950/20161122/t-ara-reveals-reason-popularity-chinese-audience.htm)
-
 8.  [女團T-ARA公開新曲「TIAMO」首波預告片和MV拍攝現場花絮視頻](http://www.koreastardaily.com/tc/news/86702)
-
 9.  [T-ara drop their 2nd teaser video for 'TIAMO'](https://www.allkpop.com/article/2016/11/t-ara-drop-their-2nd-teaser-video-for-tiamo)
-
-10. [T-ara《REMEMBER》音源、MV 公開](http://kpopn.niusnews.com/=K0382kw2)
-
+10.
 11. [T-ara新歌「TIAMO」MV點擊量破百萬　中文版14日公開](http://www.koreastardaily.com/tc/news/86978)
-
 12.
-13. [T-ara 公開《TIAMO》中文版 MV](http://kpopn.niusnews.com/=K2p5iij7)
-
+13.
 14. [T-ARAの「TIAMO」米FUSE TVが選んだ“2016年ベストミュージックビデオ1位”に](http://news.kstyle.com/article.ksn?articleNo=2062773)
-
 15. [T-ara《Tiamo》被選為美國FUSE TV 2016 Best K-pop MV 1位](http://www.koreastardaily.com/tc/news/90634)
-
 16.
-
 17.
-
 18.
-
 19.

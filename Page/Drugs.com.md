@@ -1,3 +1,6 @@
+> 本文内容由[Drugs.com](https://zh.wikipedia.org/wiki/Drugs.com)转换而来。
+
+
 **Drugs.com** 是美國一個提供藥物（學）資訊給消費者和專業醫護人員的線上藥物百科。
 
 ## 歷史

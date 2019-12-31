@@ -1,3 +1,6 @@
+> 本文内容由[ASCENDEAD MASTER](https://zh.wikipedia.org/wiki/ASCENDEAD_MASTER)转换而来。
+
+
 《**ASCENDEAD MASTER**》是日本[視覺系](../Page/視覺系.md "wikilink")樂團[Versailles簽約主流唱片公司](https://zh.wikipedia.org/wiki/Versailles "wikilink")[日本華納音樂](../Page/日本華納音樂.md "wikilink")後推出的首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是他們的第四張單曲，於2009年6月24日發行。此作分「通常盤」和三種版本的「初回限定盤」共四種形態發售。\[1\]\[2\]\[3\]
 
 錄製這張作品的同時，Versailles還攝製了一部約17分鐘的同名[迷你電影](https://zh.wikipedia.org/wiki/短片 "wikilink")，分割成三段，每段分別收入三種初回盤內含的DVD，電影第二段使用了[安東尼奧·韋華第的](https://zh.wikipedia.org/wiki/安東尼奧·韋華第 "wikilink")《[聖母悼歌](../Page/聖母悼歌.md "wikilink")》作為背景音樂。不同版本的CD收錄曲也不一樣，\[4\]\[5\]來自通常盤的《ASCENDEAD MASTER》和《》經重新灌錄後收入專輯《[JUBILEE](../Page/JUBILEE.md "wikilink")》。分別置入四種版本CD裡的SOUNDTRACK來自樂團原創的迷你電影。

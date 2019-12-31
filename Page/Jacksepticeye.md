@@ -1,3 +1,6 @@
+> 本文内容由[Jacksepticeye](https://zh.wikipedia.org/wiki/Jacksepticeye)转换而来。
+
+
 **肖恩·威廉·麥克洛克林**（Seán William McLoughlin，），較廣為人知的是化名**Jacksepticeye**（或簡稱**Jack**），愛爾蘭YouTuber，專注於的獨立遊戲\[1\]。截至2017年5月，Jacksepticeye已經有超過1500萬名訂閱者與70億觀看次數\[2\]，同時為YouTube最大的愛爾蘭人頻道\[3\]與第29多訂閱者頻道\[4\]。
 
 ## 早年生活

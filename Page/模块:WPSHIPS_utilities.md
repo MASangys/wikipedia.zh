@@ -1,3 +1,6 @@
+> 本文内容由[模块:WPSHIPS utilities](https://zh.wikipedia.org/wiki/模块:WPSHIPS_utilities)转换而来。
+
+
 require('Module:No globals')
 
 local wpsu={}

@@ -1,3 +1,6 @@
+> 本文内容由[Sweden Laundry](https://zh.wikipedia.org/wiki/Sweden_Laundry)转换而来。
+
+
 **Sweden Laundry**（），為韓國的女子雙人組合。由王世允及崔仁英組成。\[1\]
 
 ## 成員資料

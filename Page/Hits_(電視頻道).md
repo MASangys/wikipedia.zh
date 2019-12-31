@@ -1,3 +1,6 @@
+> 本文内容由[Hits \(電視頻道\)](https://zh.wikipedia.org/wiki/Hits_\(電視頻道\))转换而来。
+
+
 **Hits**（**HITS**）為一所有之[英語娛樂電視頻道](https://zh.wikipedia.org/wiki/英語 "wikilink")。本頻道於2013年12月9日在[新加坡](../Page/新加坡.md "wikilink")開始放送，節目主要是以[高畫質播映近](https://zh.wikipedia.org/wiki/高清電視 "wikilink")40年的老舊影集。
 
 ## 節目

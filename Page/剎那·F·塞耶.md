@@ -1,3 +1,6 @@
+> 本文内容由[剎那·F·塞耶](https://zh.wikipedia.org/wiki/剎那·F·塞耶)转换而来。
+
+
 **剎那·F·塞耶**（刹那·F·セイエイ，Setsuna·F·Seiei﹞是日昇動畫系列中《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》的主人公，聲優是[宮野真守](../Page/宮野真守.md "wikilink")。
 
 ## 人物介紹

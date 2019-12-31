@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia XA1](https://zh.wikipedia.org/wiki/Sony_Xperia_XA1)转换而来。
+
+
 **Sony Xperia XA1**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2017年2月27日發布的中階手機\[1\]，較罕見地採用了與旗艦級的[Sony Xperia XZ相同的攝像頭](../Page/Sony_Xperia_XZ.md "wikilink")\[2\]。
 
 Xperia XA1配備了5吋TFT螢幕、聯發科[曦力P](https://zh.wikipedia.org/wiki/Helio_\(系统芯片\) "wikilink")20處理器、3GB記憶體與32GB的內部存儲空間。攝像頭達旗艦等級的2300萬畫素，但部分功能有所減少\[3\]。

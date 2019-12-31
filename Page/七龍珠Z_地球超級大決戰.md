@@ -1,4 +1,4 @@
-> 本文内容由[七龍珠Z 地球超級大決戰](https://zh.wikipedia.org/wiki/七龍珠Z 地球超級大決戰)转换而来。
+> 本文内容由[七龍珠Z 地球超級大決戰](https://zh.wikipedia.org/wiki/七龍珠Z_地球超級大決戰)转换而来。
 
 
 《**七龙珠Z 地球超級大決戰**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The Decisive Battle for the Entire Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上映的第6部劇場版動畫。\[1\]故事时间在打败拉帝兹之后、[贝吉塔与拿帕来到地球之前](https://zh.wikipedia.org/wiki/贝吉塔 "wikilink")。

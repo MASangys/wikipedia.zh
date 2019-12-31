@@ -1,3 +1,6 @@
+> 本文内容由[Pure girls project](https://zh.wikipedia.org/wiki/Pure_girls_project)转换而来。
+
+
 **《Pure girls project》**是[μ's的迷你小队](https://zh.wikipedia.org/wiki/μ's "wikilink")“Printemps”在2013年8月21日发售的[单曲](../Page/单曲.md "wikilink")，也是Printemps的第二张单曲。
 
 ## 概况

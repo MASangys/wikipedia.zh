@@ -1,3 +1,6 @@
+> 本文内容由[PIECE OF BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB)转换而来。
+
+
 《**PIECE OF BTOB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")自2017年4月起，以每月一位成員推出Solo單曲的方式進行的特別企劃。七名成員通過多樣化的曲風，展現出各自鮮明的個性及色彩。\[1\] 2019年4月1日，實體專輯正式發行。\[2\]
 
 ## 背景

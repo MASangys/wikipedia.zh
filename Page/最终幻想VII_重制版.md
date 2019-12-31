@@ -1,4 +1,4 @@
-> 本文内容由[最终幻想VII 重制版](https://zh.wikipedia.org/wiki/最终幻想VII 重制版)转换而来。
+> 本文内容由[最终幻想VII 重制版](https://zh.wikipedia.org/wiki/最终幻想VII_重制版)转换而来。
 
 
 是[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")預定於2020年3月3日\[1\]在全球推出的游戏软件。将在[PlayStation 4平台先行推出](../Page/PlayStation_4.md "wikilink")，独占时间为1年。该游戏为[1997年](../Page/1997年.md "wikilink")在[PS平台推出的](../Page/PlayStation_\(遊戲機\).md "wikilink")[最终幻想系列第七作](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的完全[重制作品](https://zh.wikipedia.org/wiki/重制 "wikilink")。由于游戏容量的原因将会分为多部作品推出。计划于2020年3月发行的第一部作品将会深入描写原作游戏序盘的工业大都市米德加，故事将进行到离开米德加为止。

@@ -1,4 +1,4 @@
-> 本文内容由[淚 \(GENERATIONS單曲\)](https://zh.wikipedia.org/wiki/淚 \(GENERATIONS單曲\))转换而来。
+> 本文内容由[淚 \(GENERATIONS單曲\)](https://zh.wikipedia.org/wiki/淚_\(GENERATIONS單曲\))转换而来。
 
 
 《**涙**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")12张[单曲](../Page/单曲.md "wikilink")，於2016年6月29日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[TBS NEWS](https://zh.wikipedia.org/wiki/TBS_NEWS)转换而来。
+
+
 **TBS NEWS**是[日本](../Page/日本.md "wikilink")[TBS电视台运营的一个](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")24小时付费[新闻频道](https://zh.wikipedia.org/wiki/新闻频道 "wikilink")，主要提供TBS和[JNN电视网制作的新闻](https://zh.wikipedia.org/wiki/JNN "wikilink")。
 
 ## 概况

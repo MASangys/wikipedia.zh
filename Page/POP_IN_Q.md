@@ -1,3 +1,6 @@
+> 本文内容由[POP IN Q](https://zh.wikipedia.org/wiki/POP_IN_Q)转换而来。
+
+
 《**POP IN Q**》（）是於2016年12月23日在[日本](../Page/日本.md "wikilink")上映的原創[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，由[東映動畫製作並由](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[東映](../Page/東映.md "wikilink")發行，為東映動畫60週年紀念企劃作品\[1\]\[2\]。作品描述的是即將畢業的五位中學少女互相碰撞與成長的青春故事，並藉由舞蹈和音樂推動劇情\[3\]。電影原先安排在2017年1月上映\[4\]，但由於受到超乎預期的迴響而將上映日期提前至2016年12月23日\[5\]。此外，發行商東映亦決定擴大上映規模，使本片成為第一波[正月映畫及寒假主打作品](https://zh.wikipedia.org/wiki/贺岁片#日本 "wikilink")\[6\]，以動畫電影來說是相當特殊的案例\[7\]。
 
 ## 劇情

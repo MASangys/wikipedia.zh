@@ -1,3 +1,6 @@
+> 本文内容由[No Russian](https://zh.wikipedia.org/wiki/No_Russian)转换而来。
+
+
 **No Russian**（可譯為「**不准說俄語**」或「**俄語禁止**」）是2009年[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[決勝時刻：現代戰爭2](../Page/決勝時刻：現代戰爭2.md "wikilink")》的一个[關卡](../Page/關卡_\(電子遊戲\).md "wikilink")。在本關，玩家扮演的是一個潛伏在恐怖組織中的美國[中央情報局臥底](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")。為了獲得組織頭目的信任，主角必須到[莫斯科](../Page/莫斯科.md "wikilink")機場參與[屠殺行動](https://zh.wikipedia.org/wiki/屠殺 "wikilink")。由於玩家可以在遊戲中實施恐怖襲擊，本關卡在遊戲發布前後均引發了巨大爭議，並在一些國家遭到了審查。俄羅斯版本則直接移除了本關。
 
 ## 遊戲設定

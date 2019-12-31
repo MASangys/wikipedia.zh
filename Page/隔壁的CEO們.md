@@ -1,3 +1,6 @@
+> 本文内容由[隔壁的CEO們](https://zh.wikipedia.org/wiki/隔壁的CEO們)转换而来。
+
+
 《**隔壁的CEO們**》（韓語：）是韓國[MBC電視台的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")，由製作單位邀請來賓參與銷售建築物，並用所得的錢進行規畫管理，屬於真人秀綜藝節目。
 
 ## 來賓

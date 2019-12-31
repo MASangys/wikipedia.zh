@@ -1,3 +1,6 @@
+> 本文内容由[GS美神 廣播劇CD](https://zh.wikipedia.org/wiki/GS美神_廣播劇CD)转换而来。
+
+
 《**GS美神 廣播劇CD**》（）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志](../Page/椎名高志.md "wikilink")的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")《[GS美神 極樂大作戰\!\!](../Page/GS美神_極樂大作戰！！.md "wikilink")》收錄的廣播劇CD系列。
 
 全4枚。1994年8月24日至1995年12月21日全由[King Records發行](../Page/國王唱片.md "wikilink")。

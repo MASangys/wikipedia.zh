@@ -1,3 +1,6 @@
+> 本文内容由[FLUX樂團](https://zh.wikipedia.org/wiki/FLUX樂團)转换而来。
+
+
 **FLUX**是一個來自[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，成員有[黃勤鐘](https://zh.wikipedia.org/wiki/黃勤鐘 "wikilink")、[梁恩智](https://zh.wikipedia.org/wiki/梁恩智 "wikilink")、[李政德一共三人](https://zh.wikipedia.org/wiki/李政德 "wikilink")，於2012年組團，經歷2013年海洋音樂祭中獲得海洋之星，2014年發行首張錄音室作品《Too Young To Die》後，這隊電子搖滾的組合已經成為現場演出的開趴必備配方，他們於2016年發行首張專輯《[多元觀點](../Page/多元觀點.md "wikilink")》。
 
 ## 音樂作品

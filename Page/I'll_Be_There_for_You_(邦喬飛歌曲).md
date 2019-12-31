@@ -1,4 +1,4 @@
-> 本文内容由[I\'ll Be There for You \(邦喬飛歌曲\)](https://zh.wikipedia.org/wiki/I\'ll Be There for You \(邦喬飛歌曲\))转换而来。
+> 本文内容由[I\'ll Be There for You \(邦喬飛歌曲\)](https://zh.wikipedia.org/wiki/I\'ll_Be_There_for_You_\(邦喬飛歌曲\))转换而来。
 
 
 《**I'll Be There for You**》是美國[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[邦·喬飛](../Page/邦喬飛.md "wikilink")（）在1989年4月發行的單曲，這首單曲獲得[告示牌單曲榜冠軍](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")，成為邦·喬飛樂團第四首全美冠軍單曲，〈I'll Be There for You〉已經成為該樂團最具代表性的經典歌曲之一\[1\]\[2\]。

@@ -1,4 +1,4 @@
-> 本文内容由[月球 X](https://zh.wikipedia.org/wiki/月球 X)转换而来。
+> 本文内容由[月球 X](https://zh.wikipedia.org/wiki/月球_X)转换而来。
 
 
 [Lunar-x.jpg](https://zh.wikipedia.org/wiki/File:Lunar-x.jpg "fig:Lunar-x.jpg")

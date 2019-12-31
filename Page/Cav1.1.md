@@ -1,3 +1,6 @@
+> 本文内容由[Cav1.1](https://zh.wikipedia.org/wiki/Cav1.1)转换而来。
+
+
 **Ca<sub>v</sub>1.1**又稱為**L型鈣通道α1亞基**（calcium channel, voltage-dependent, L type, alpha 1S subunit，CACNA1S），為一種由*CACNA1S*[基因](../Page/基因.md "wikilink")轉譯而成的[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")\[1\]。有時又稱**CACNL1A3**或**受體**（dihydropyridine receptor，DHPR）。
 
 ## 功能
@@ -52,10 +55,7 @@ Ca<sub>v</sub>1.1可由阻斷。
 [Category:离子通道](https://zh.wikipedia.org/wiki/Category:离子通道 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.

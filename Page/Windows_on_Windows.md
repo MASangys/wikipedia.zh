@@ -1,4 +1,4 @@
-> 本文内容由[Windows on Windows](https://zh.wikipedia.org/wiki/Windows on Windows)转换而来。
+> 本文内容由[Windows on Windows](https://zh.wikipedia.org/wiki/Windows_on_Windows)转换而来。
 
 
 **Windows on Windows**，常指**16位WOW**\[1\]、**WOWEXEC**\[2\]或[简称](../Page/首字母縮略字.md "wikilink")**WOW**\[3\]。它是一个[Microsoft Windows NT](https://zh.wikipedia.org/wiki/Microsoft_Windows_NT "wikilink")[操作系统](../Page/操作系统.md "wikilink")家族中[32位版本的](../Page/32位元.md "wikilink")[兼容层](../Page/兼容层.md "wikilink")，目的是扩展以为运行为[Windows 3.x编写的](../Page/Windows_3.x.md "wikilink")[旧式](https://zh.wikipedia.org/wiki/遗留代码 "wikilink")[Win16应用程序提供有限支持](https://zh.wikipedia.org/wiki/Win16 "wikilink")。[64位系统上的](../Page/64位元.md "wikilink")“WOW”通常指在64位Windows上支持32位应用程序的[WOW64](../Page/WoW64.md "wikilink")。

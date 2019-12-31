@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG10 The Concert: 0.TO.10 in Japan \(影音專輯\)](https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_in_Japan_\(影音專輯\))转换而来。
+
+
 《**BIGBANG10 The Concert：0.TO.10 in Japan**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2016年7月30日於[日本](../Page/日本.md "wikilink")[大阪](../Page/大阪市.md "wikilink")[長居陸上競技場動員](https://zh.wikipedia.org/wiki/大阪市長居陸上競技場 "wikilink")5萬5千名觀眾舉行的「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」公演所推出的演唱會影音專輯，於2016年11月2日由[YGEX發行實體專輯及](https://zh.wikipedia.org/wiki/YGEX "wikilink")[數位音樂下載](../Page/數位音樂下載.md "wikilink")，此張演唱會專輯除了收錄「0.TO.10 in Japan」的現場盛況、成員個別多角度特寫鎖定畫面，同時承載了此前經過13個國家32座城市的「」公演回憶的記錄片電影《》也收錄其中。\[1\]
 
 ## 發行成績

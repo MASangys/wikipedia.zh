@@ -1,4 +1,4 @@
-> 本文内容由[REM \(Mr.Children單曲\)](https://zh.wikipedia.org/wiki/REM \(Mr.Children單曲\))转换而来。
+> 本文内容由[REM \(Mr.Children單曲\)](https://zh.wikipedia.org/wiki/REM_\(Mr.Children單曲\))转换而来。
 
 
 《**REM**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第5首音樂下載限定[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[阿爾文·H·庫庫克](https://zh.wikipedia.org/wiki/阿爾文·H·庫庫克)转换而来。
+
+
 **阿爾文·哈羅德·庫庫克**（；），是美國的[共和黨政治人物](../Page/共和黨_\(美國\).md "wikilink")，前[密歇根州众议院議員](https://zh.wikipedia.org/wiki/密歇根州众议院 "wikilink")。
 
 ## 生平

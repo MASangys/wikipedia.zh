@@ -1,3 +1,6 @@
+> 本文内容由[Prowin](https://zh.wikipedia.org/wiki/Prowin)转换而来。
+
+
 **Prowin温特有限公司**（）是[德国](../Page/德国.md "wikilink")的一家[多层次传销企业](../Page/多層次傳銷.md "wikilink")，分销种类包括清洁用品、保健品及饲料\[1\]。
 
 ## 参考资料

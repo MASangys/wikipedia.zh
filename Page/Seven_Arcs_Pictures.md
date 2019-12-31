@@ -1,3 +1,6 @@
+> 本文内容由[Seven Arcs Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures)转换而来。
+
+
 **株式會社Seven Arcs Pictures**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")，[Seven Arcs的相關企業](../Page/Seven_Arcs.md "wikilink")。
 
 2004年，Seven Arcs藉《[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")》正式涉足製作電視動畫。2012年，其創辦人上村修設立**Seven Arcs Pictures**並移轉實質製作部門至新公司\[1\]。Seven Arcs Pictures的主要業務為製作動畫，而Seven Arcs目前則主要負責企劃、製片和版權管理。

@@ -1,3 +1,6 @@
+> 本文内容由[Indexed Database API](https://zh.wikipedia.org/wiki/Indexed_Database_API)转换而来。
+
+
 **Indexed Database API**（简称**IndexedDB**，以前称WebSimpleDB）是[W3C推荐的一项](../Page/万维网联盟.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")标准\[1\]，是为提供一个具有[索引的](https://zh.wikipedia.org/wiki/数据库索引 "wikilink")[JSON](../Page/JSON.md "wikilink")对象集合的[事务性本地数据库操作接口](../Page/事務隔離.md "wikilink")。W3C于2015年1月8日发布了IndexedDB接口的最终建议。\[2\]
 
 ## 浏览器支持

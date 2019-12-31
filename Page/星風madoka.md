@@ -1,3 +1,6 @@
+> 本文内容由[星風madoka](https://zh.wikipedia.org/wiki/星風madoka)转换而来。
+
+
 **星風 まどか**，日本女演員，現任[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[宙組](../Page/宙組.md "wikilink")首席娘役\[1\]。 出生於[東京都](../Page/東京都.md "wikilink")[國分寺市](../Page/國分寺市.md "wikilink")\[2\]。中學就讀於[國立音樂大學](../Page/國立音樂大學.md "wikilink")附屬中學\[3\]。身高162公分\[4\]，血型A型\[5\]。暱稱 **まどか**\[6\]。
 
 ## 簡介
@@ -48,22 +51,14 @@
 [Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:日本音樂劇演員](https://zh.wikipedia.org/wiki/Category:日本音樂劇演員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 
 1.  [宙組 次期トップスター、トップ娘役について](http://kageki.hankyu.co.jp/news/20170707_002.html) 寶塚歌劇團官方網站。
-
 2.  『宝塚おとめ 2017年度版』 宝塚クリエイティブアーツ、2017年、150頁。ISBN 978-4-86649-004-5
-
 3.
 4.
 5.  「To The Future／宝塚GRAPH 2015年7月号」、宝塚クリエイティブアーツ、2015年、117頁。
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.

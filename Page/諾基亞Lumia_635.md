@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Lumia 635](https://zh.wikipedia.org/wiki/諾基亞Lumia_635)转换而来。
+
+
 "諾基亞Lumia 635"(英文:Nokia Lumia 635)是[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")2014年[六月所推出的一款](https://zh.wikipedia.org/wiki/六月 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。\[1\]
 
 ## 參考文獻

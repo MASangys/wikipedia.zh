@@ -1,4 +1,4 @@
-> 本文内容由[Aerials \(歌曲\)](https://zh.wikipedia.org/wiki/Aerials \(歌曲\))转换而来。
+> 本文内容由[Aerials \(歌曲\)](https://zh.wikipedia.org/wiki/Aerials_\(歌曲\))转换而来。
 
 
 《**Aerials**》是亞美尼亞裔[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂隊](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[墮落體制的EP](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，收錄於2002年該樂隊的第二張專輯*[Toxicity](../Page/Toxicity_\(專輯\).md "wikilink")*。此歌曲令樂隊在2003年獲得樂隊有史以來第2個[格萊美獎的提名](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")。同時，在美國的及都獲得了第1名的位置\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[N元语法](https://zh.wikipedia.org/wiki/N元语法)转换而来。
+
+
 **n元语法**（）指文本中连续出现的n个语词。n元语法模型是基于(n-1)阶[马尔可夫链](../Page/马尔可夫链.md "wikilink")的一种概率[语言模型](https://zh.wikipedia.org/wiki/语言模型 "wikilink")，通过n个语词出现的概率来推断语句的结构。\[1\]\[2\]这一模型被广泛应用于[概率论](https://zh.wikipedia.org/wiki/概率论 "wikilink")、通信理论、[计算语言学](../Page/计算语言学.md "wikilink")（如基于统计的[自然语言处理](../Page/自然语言处理.md "wikilink")）、[计算生物学](../Page/计算生物学.md "wikilink")（如[序列分析](https://zh.wikipedia.org/wiki/序列分析 "wikilink")）、[数据压缩](../Page/数据压缩.md "wikilink")等领域。
 
 当n分别为1、2、3时，又分别称为一元语法（）、[二元语法](https://zh.wikipedia.org/wiki/二元语法 "wikilink")（）与三元语法（）。\[3\]

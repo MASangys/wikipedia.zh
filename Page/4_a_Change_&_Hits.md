@@ -1,4 +1,4 @@
-> 本文内容由[4 a Change \& Hits](https://zh.wikipedia.org/wiki/4 a Change \& Hits)转换而来。
+> 本文内容由[4 a Change \& Hits](https://zh.wikipedia.org/wiki/4_a_Change_\&_Hits)转换而来。
 
 
 《**4 A Change & Hits**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的一張新曲+精選，於2002年12月5日推出。

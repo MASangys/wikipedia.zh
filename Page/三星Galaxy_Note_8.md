@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Note 8](https://zh.wikipedia.org/wiki/三星Galaxy_Note_8)转换而来。
+
+
 **三星Galaxy Note 8**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[2017年](../Page/2017年.md "wikilink")[8月](../Page/8月.md "wikilink")推出的[平板式高阶旗舰](../Page/平板手机.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，属[Galaxy Note系列](../Page/三星Galaxy_Note系列.md "wikilink")，于2017年8月23日在[美国](../Page/美国.md "wikilink")[纽约](../Page/纽约.md "wikilink")发布。\[1\]\[2\]由于前代[三星Galaxy Note 7发生](../Page/三星Galaxy_Note_7.md "wikilink")[锂电池](../Page/锂电池.md "wikilink")起火爆炸等災情而全球回收，Galaxy Note 8的发售格外受人注目。由于采用了与[Galaxy S8类似的](https://zh.wikipedia.org/wiki/Galaxy_S8 "wikilink")“全视曲面屏”设计，Galaxy Note8在外观方面与前代有较大不同，引人关注。\[3\]
 
 ## 特色

@@ -1,4 +1,4 @@
-> 本文内容由[Doujin Spirit同人動漫創作祭](https://zh.wikipedia.org/wiki/Doujin Spirit同人動漫創作祭)转换而来。
+> 本文内容由[Doujin Spirit同人動漫創作祭](https://zh.wikipedia.org/wiki/Doujin_Spirit同人動漫創作祭)转换而来。
 
 
 **同人動漫創作祭系列活動**，是由[彩櫻文化工作室所主辦的](https://zh.wikipedia.org/wiki/彩櫻文化工作室 "wikilink")[臺灣](../Page/臺灣.md "wikilink")[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")系列活動，分別為兩大系列：**同人動漫創作祭（Doujin Spirit）**及**華祭（Fantasy Area）**，以[臺中市為主要舉辦地點](https://zh.wikipedia.org/wiki/臺中市 "wikilink")，該工作室亦有負責規劃其他活動。\[1\]

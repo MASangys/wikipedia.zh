@@ -1,3 +1,6 @@
+> 本文内容由[ShuuKaRen](https://zh.wikipedia.org/wiki/ShuuKaRen)转换而来。
+
+
 **ShuuKaRen**是[日本](../Page/日本.md "wikilink")的二人歌唱舞蹈組合，由姐姐[藤井萩花和妹妹](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")[藤井夏恋](../Page/藤井夏恋.md "wikilink")组成。组合名取自二人名字的罗马字Shuu和Karen。所屬事務所為[LDH公司](../Page/LDH_\(藝能事務所\).md "wikilink")。所屬唱片公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下廠牌[Sony Music Associated Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")。
 
 ## 成员

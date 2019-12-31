@@ -1,3 +1,6 @@
+> 本文内容由[PubPeer](https://zh.wikipedia.org/wiki/PubPeer)转换而来。
+
+
 **PubPeer**是供使用者討論及評審[科學研究的](https://zh.wikipedia.org/wiki/科學研究 "wikilink")[網站](../Page/網站.md "wikilink")，名稱是結合public（大眾）和Peer review（[同行評審](../Page/同行評審.md "wikilink")），屬於的網站，使用者以研究所學生及年輕的研究員為主\[1\]，但因為是匿名舉報，也被質疑其公信力有問題\[2\]\[3\]。
 
 ## 歷史

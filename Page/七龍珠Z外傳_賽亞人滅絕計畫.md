@@ -1,4 +1,4 @@
-> 本文内容由[七龍珠Z外傳 賽亞人滅絕計畫](https://zh.wikipedia.org/wiki/七龍珠Z外傳 賽亞人滅絕計畫)转换而来。
+> 本文内容由[七龍珠Z外傳 賽亞人滅絕計畫](https://zh.wikipedia.org/wiki/七龍珠Z外傳_賽亞人滅絕計畫)转换而来。
 
 
 是[BANDAI在](https://zh.wikipedia.org/wiki/BANDAI "wikilink")1993年8月6日發售的[Family Computer平台](https://zh.wikipedia.org/wiki/Family_Computer "wikilink")[角色扮演類型遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]，後來在[Playdia](../Page/Playdia.md "wikilink")平台發售[互動式電影](../Page/互動式電影.md "wikilink")類型遊戲《**七龍珠Z 真賽亞人滅絕計畫**》（），遊戲分成地球篇和宇宙篇，地球篇是在1994年9月23日發售，宇宙篇是1994年12月16日發售\[2\]。除了遊戲外也在1993年發售OVA版共有兩卷。

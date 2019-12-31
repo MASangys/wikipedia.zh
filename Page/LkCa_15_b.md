@@ -1,4 +1,4 @@
-> 本文内容由[LkCa 15 b](https://zh.wikipedia.org/wiki/LkCa 15 b)转换而来。
+> 本文内容由[LkCa 15 b](https://zh.wikipedia.org/wiki/LkCa_15_b)转换而来。
 
 
 **LkCa 15 b**是一個環繞位於的恆星 [LkCa 15](../Page/LkCa_15.md "wikilink") 的行星天體。該天體由亞當·克勞斯（Adam Kraus）與麥可·愛爾蘭（Michael Ireland）於2011年以[凱克Ⅱ望遠鏡拍攝的影像中發現](../Page/凱克天文台.md "wikilink")\[1\]。2015年天文學家以[麦哲伦望远镜](../Page/麦哲伦望远镜.md "wikilink")和[大双筒望远镜](../Page/大双筒望远镜.md "wikilink")對它進行觀測，之後根據拍攝影像的研究結果認為該天體正處於[吸積形成行星的階段](https://zh.wikipedia.org/wiki/吸積 "wikilink")\[2\]。

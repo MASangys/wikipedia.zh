@@ -1,3 +1,6 @@
+> 本文内容由[九氢合铼\(VII\)酸钠](https://zh.wikipedia.org/wiki/九氢合铼\(VII\)酸钠)转换而来。
+
+
 **九氢合铼(VII)酸钠**是一种过渡金属氢负离子配合物，化学式为Na<sub>2</sub>\[ReH<sub>9</sub>\]。\[1\]\[2\]
 
 ## 制备
@@ -45,10 +48,7 @@ Na<sub>2</sub>\[ReH<sub>9</sub>\]可溶于[水](../Page/水.md "wikilink")和[�
 [Category:铼配合物](https://zh.wikipedia.org/wiki/Category:铼配合物 "wikilink") [Category:配位氢化物](https://zh.wikipedia.org/wiki/Category:配位氢化物 "wikilink") [Category:缺少物质图片的化学品条目](https://zh.wikipedia.org/wiki/Category:缺少物质图片的化学品条目 "wikilink")
 
 1.  Лидин Р.А. и др. Химические свойства неорганических веществ: Учеб. пособие для вузов. — 3-е изд., испр. — М.: Химия, 2000. — 480 с. — ISBN 5-7245-1163-0.
-
 2.  Рипан Р., Четяну И. Неорганическая химия. Химия металлов. — М.: Мир, 1972. — Т. 2. — 871 с.
-
 3.
 4.  朱文祥. 无机化合物制备手册. 化学工业出版社. pp 312-314. 【VII-74】九氢合铼酸二钠（sodium nonahydridorhenate）
-
 5.

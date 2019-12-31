@@ -1,4 +1,4 @@
-> 本文内容由[諾基亞Lumia 630](https://zh.wikipedia.org/wiki/諾基亞Lumia 630)转换而来。
+> 本文内容由[諾基亞Lumia 630](https://zh.wikipedia.org/wiki/諾基亞Lumia_630)转换而来。
 
 
 **諾基亞Lumia 630**\[1\](英文： Nokia Lumia 630)是[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")2014年[四月時推出的一款中低型手機](https://zh.wikipedia.org/wiki/四月 "wikilink")。

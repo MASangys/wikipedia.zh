@@ -1,3 +1,6 @@
+> 本文内容由[BeIN Sports](https://zh.wikipedia.org/wiki/BeIN_Sports)转换而来。
+
+
 **beIN Sports**，中文媒体通常称作“**贝因体育**”\[1\]、“**拜因体育**”\[2\]，或沿用其旧称“**半岛电视台体育频道**”\[3\]，是一家面向全球播出的体育电视网，为[卡塔尔](../Page/卡塔尔.md "wikilink")所拥有，原为旗下的“[半岛电视台](../Page/半岛电视台.md "wikilink")体育频道”（Al Jazeera Sports），2012年在法国开始使用“beIN Sport”作品牌名称开始播放节目，2014年，与面向阿拉伯世界播放的半岛体育台系列频道合并成立BeIN Media Group，现已与半岛电视台不再有关联，但BeIN Media Group却是半岛媒体集团旗下公司。
 
 ## 历史

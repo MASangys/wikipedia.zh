@@ -1,4 +1,4 @@
-> 本文内容由[\(What\'s the Story\) Morning Glory\?](https://zh.wikipedia.org/wiki/\(What\'s the Story\) Morning Glory\?)转换而来。
+> 本文内容由[\(What\'s the Story\) Morning Glory\?](https://zh.wikipedia.org/wiki/\(What\'s_the_Story\)_Morning_Glory\?)转换而来。
 
 
 《》（参考译名：晨光荣耀）是英国摇滚乐队[绿洲乐队](../Page/绿洲乐队.md "wikilink")的第二张录音室专辑，由发行于1995年10月2日。制作人为和乐队吉他手[諾爾·蓋勒格](../Page/諾爾·蓋勒格.md "wikilink")。这是鼓手参与的首张乐队专辑。该专辑的结构和编曲风格与前作《》大相径庭，諾爾·蓋勒格的创作重心转移到谣曲上，强调“宏大”的副歌，加上弦乐编曲和更多样化的器乐部分，与首张专辑的粗砺感形成了对比。

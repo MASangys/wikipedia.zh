@@ -1,3 +1,6 @@
+> 本文内容由[AccessNow.org](https://zh.wikipedia.org/wiki/AccessNow.org)转换而来。
+
+
 **Access Now**（又称为**AccessNow.org**）是一个致力于开放自由网络的[人权](../Page/人权.md "wikilink")、[公共政策](../Page/公共政策.md "wikilink")、與[倡議性之国际](https://zh.wikipedia.org/wiki/倡导团体 "wikilink")[非營利组织](https://zh.wikipedia.org/wiki/非營利组织 "wikilink")。
 
 Access Now自2009年成立以来，便持續倡議數位人權的議題，其針對下列五個主要的政策领域：數位安全、言论自由、隐私、網路歧视、以及商业與人权\[1\]。此組織反對封鎖網際网络、网络审查、国际贸易协定、以及政府的監控\[2\]\[3\]\[4\]\[5\]。Access Now 也支持[网络中立性](../Page/网络中立性.md "wikilink")、移动电话跟踪、使用加密和經過嚴謹討論所制定的网络安全法律法规。\[6\]\[7\]\[8\]\[9\]访问现在的运动目标支持其使命的各利益相关者，包括政府或科技公司。\[10\]\[11\]与电信公司还从事各种各样的问题，如透明度报告。\[12\]

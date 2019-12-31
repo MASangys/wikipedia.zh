@@ -1,3 +1,6 @@
+> 本文内容由[死亡天使 \(DC漫畫\)](https://zh.wikipedia.org/wiki/死亡天使_\(DC漫畫\))转换而来。
+
+
 **死亡天使**（），是一名在[DC漫畫](../Page/DC漫畫.md "wikilink")出版的漫畫中登場的[虛構人物](https://zh.wikipedia.org/wiki/虛構人物 "wikilink")，在《蝙蝠俠》漫畫裏首次現身。為一名由聖杜馬教團所創造的不死刺客，被教團譽為能夠接替蝙蝠俠的[高譚市](../Page/高譚市.md "wikilink")守-{}-護者。
 
 ## 人物

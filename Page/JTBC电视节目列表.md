@@ -1,3 +1,6 @@
+> 本文内容由[JTBC电视节目列表](https://zh.wikipedia.org/wiki/JTBC电视节目列表)转换而来。
+
+
 以下是**[JTBC](../Page/JTBC.md "wikilink")的[电视节目](../Page/电视节目.md "wikilink")列表**，按照节目名称及播出时间排序。
 
 ## 0–9

@@ -1,3 +1,6 @@
+> 本文内容由[印度LGBT权益](https://zh.wikipedia.org/wiki/印度LGBT权益)转换而来。
+
+
 [Anjali_gopalan.jpg](https://zh.wikipedia.org/wiki/File:Anjali_gopalan.jpg "fig:Anjali_gopalan.jpg")举行（2012年）\[1\]\]\] 2018年9月6日，印度最高法院废除了普遍认为是对同性恋者不友善的“377条”。从这一天起至今，**印度同性性行为不再属于违法。**
 
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群曾在[印度](../Page/印度.md "wikilink")面临着非[LGBT](../Page/LGBT.md "wikilink")居民没有经历过的法律和社会困难。

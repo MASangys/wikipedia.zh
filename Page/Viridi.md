@@ -1,3 +1,6 @@
+> 本文内容由[Viridi](https://zh.wikipedia.org/wiki/Viridi)转换而来。
+
+
 《**Viridi**》是一款[模擬遊戲](../Page/模擬遊戲.md "wikilink")，由[Ice Water Games開發](https://zh.wikipedia.org/wiki/Ice_Water_Games "wikilink")。這款遊戲在2015年8月20日發布於[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[MacOS](../Page/MacOS.md "wikilink")，2016年6月20日發佈於[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")。這遊戲令玩家照看一盆[多肉植物](../Page/多肉植物.md "wikilink")。\[1\]遊戲採取[免費增值](../Page/免費增值.md "wikilink")模式，也就是說這是一款[免費遊戲](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")，但裡面有部分內容需要購買。
 
 ## 玩法

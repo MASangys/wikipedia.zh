@@ -1,3 +1,6 @@
+> 本文内容由[IMI加利爾狙擊型步槍](https://zh.wikipedia.org/wiki/IMI加利爾狙擊型步槍)转换而来。
+
+
 **Galatz**（中文讀音：加拉爾；又稱：加利爾狙擊型，）是一款由[以色列軍事工業](../Page/以色列軍事工業.md "wikilink")（IMI）的分部門以色列武器工業（IWI）以[IMI加利爾ARM為藍本所研製及生產的](../Page/IMI_Galil突擊步槍.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")[狙擊步枪](https://zh.wikipedia.org/wiki/狙擊步枪 "wikilink")（[精確射手步槍](../Page/精確射手步槍.md "wikilink")），發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑高質量高](https://zh.wikipedia.org/wiki/口徑 "wikilink")[精度](../Page/準確與精密.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")以提高精度的一致性。\[1\]
 
 ## 描述

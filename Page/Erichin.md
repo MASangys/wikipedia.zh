@@ -1,3 +1,6 @@
+> 本文内容由[Erichin](https://zh.wikipedia.org/wiki/Erichin)转换而来。
+
+
 **Erichin**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。代表作有《》、《》。
 
 ## 經歷

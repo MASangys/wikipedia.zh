@@ -1,3 +1,6 @@
+> 本文内容由[T.H.罗杰斯学校](https://zh.wikipedia.org/wiki/T.H.罗杰斯学校)转换而来。
+
+
 [THRogersSchoolHouston.JPG](https://zh.wikipedia.org/wiki/File:THRogersSchoolHouston.JPG "fig:THRogersSchoolHouston.JPG") **T.H.罗杰斯学校**（**Thomas Horace Rogers School**）是一所[休斯顿的特殊学校](https://zh.wikipedia.org/wiki/休斯顿 "wikilink")，[休斯敦独立学区](../Page/休斯敦独立学区.md "wikilink")（HISD）经营本所学校，有三个项目：一个最天赋的孩子项目（从幼儿园到8年级），一个耳聋失聪孩子项目（从幼儿园到8年级）和 盲人项目（从托儿所到12年级）。\[1\]
 
 ## History
@@ -189,40 +192,22 @@ Previously the Japanese Educational Institute of Houston (JEI, ヒュースト�
 [Category:休斯顿教育](https://zh.wikipedia.org/wiki/Category:休斯顿教育 "wikilink") [Category:美国学校](https://zh.wikipedia.org/wiki/Category:美国学校 "wikilink")
 
 1.  "[T.H. Rogers School](http://www.throgers.org/php/eboard.php?menuPath=106_107) ." *T. H. Rogers Alumni*. Accessed October 11, 2008.
-
 2.  "[School Histories: the Stories Behind the Names](http://www.houstonisd.org/HISDConnectDS/v/index.jsp?vgnextoid=0afe09c28afc3110VgnVCM10000028147fa6RCRD&vgnextchannel=2e2b2f796138c010VgnVCM10000052147fa6RCRD) ." *[Houston Independent School District](https://zh.wikipedia.org/wiki/Houston_Independent_School_District "wikilink")*. Accessed September 24, 2008. "Thomas Horace “T. H.” Rogers was principal of San Jacinto High School. He was killed on February 14, 1954, when a stray bullet from a police officer's gun, intended for a fleeing burglar, struck him. The campus was a junior high from 1962 to 1979 and is now a mixture of Vanguard programs and programs for students with severe disabilities."
-
 3.  Markley, Melanie. "[Middle school to open in Briargrove area/Building once was Grady Elementary](https://web.archive.org/web/20110522031300/http://www.chron.com/CDA/archives/archive.mpl?id=1991_821583)." *[Houston Chronicle](https://zh.wikipedia.org/wiki/Houston_Chronicle "wikilink")*. November 10, 1991.
-
 4.  "[HISD meets opposition to planned school](https://web.archive.org/web/20110522031236/http://www.chron.com/CDA/archives/archive.mpl?id=1993_1161003)." *[Houston Chronicle](https://zh.wikipedia.org/wiki/Houston_Chronicle "wikilink")*. October 23, 1993.
-
 5.  Mark, Steve. "[Teachers revolt against T.H. Rogers principal](http://www.yourhoustonnews.com/river_oaks/news/teachers-revolt-against-t-h-rogers-principal/article_e845c7c8-904e-5d51-9836-afe1522c8592.html)." *[River Oaks Examiner](https://zh.wikipedia.org/wiki/River_Oaks_Examiner "wikilink")*. Thursday May 14, 2009. Retrieved on July 1, 2016.
-
 6.  [Blue Ribbon Schools Program, Schools Recognized 1982–1983 Through 1999-2002 (PDF)](http://www.ed.gov/programs/nclbbrs/list-1982.pdf)
-
 7.  [Microsoft Word - list-2003.doc](http://www.ed.gov/programs/nclbbrs/list-2003.pdf)
-
 8.
-
 9.  Hewitt, Paige. "[Chess champs' next big move is playing in world event](http://www.chron.com/disp/story.mpl/metropolitan/5299808.html)," *[Houston Chronicle](https://zh.wikipedia.org/wiki/Houston_Chronicle "wikilink")*. November 14, 2007. Retrieved on September 18, 2010.
-
 10. "[Best School - 2010 T.H.Rogers](http://www.houstonpress.com/bestof/2010/award/best-school-2015258/)." *[Houston Press](https://zh.wikipedia.org/wiki/Houston_Press "wikilink")*. Retrieved on December 13, 2010.
-
 11. "[Briargrove Elementary Attendance Zone](http://dept.houstonisd.org/ab/schoolboundarymaps/BriargroveES.pdf) ." *[Houston Independent School District](https://zh.wikipedia.org/wiki/Houston_Independent_School_District "wikilink")*.
-
 12. "[Grady Middle Attendance Zone](http://dept.houstonisd.org/ab/schoolboundarymaps/GradyMS.pdf) ." *[Houston Independent School District](https://zh.wikipedia.org/wiki/Houston_Independent_School_District "wikilink")*.
-
 13. "[Lee High School Attendance Zone](http://dept.houstonisd.org/ab/schoolboundarymaps/LeeHS.pdf) ." *[Houston Independent School District](https://zh.wikipedia.org/wiki/Houston_Independent_School_District "wikilink")*.
-
 14. [Home Page](https://web.archive.org/web/20050509100740/http://hs.houstonisd.org/leehs/home2.htm) as of May 9, 2005. *[Lee High School](https://zh.wikipedia.org/wiki/Lee_High_School_\(Houston,_Texas\) "wikilink")*.
-
 15. "[T. H. Rogers Elementary School](http://dept.houstonisd.org/profiles/Rogers_ES.pdf) " Profile, ''[Houston Independent School District](https://zh.wikipedia.org/wiki/Houston_Independent_School_District "wikilink")
-
 16. "[T. H. Rogers Secondary School](http://dept.houstonisd.org/profiles/RogersTH_MS.pdf) " Profile, ''[Houston Independent School District](https://zh.wikipedia.org/wiki/Houston_Independent_School_District "wikilink")
-
 17.
-
 18. "[About Our School](http://ms.houstonisd.org/throgers/Information/2007-2008/about_throgers.htm) ." *T. H. Rogers School*. Retrieved on January 22, 2010.
-
 19.
 20. Muñoz, Olivia and Sayoko Yamashita. "[Secondary School Program in Japanese Language and Culture in Houston, Texas](http://www.jstor.org/stable/489519)." *[The Journal of the Association of Teachers of Japanese](https://zh.wikipedia.org/wiki/The_Journal_of_the_Association_of_Teachers_of_Japanese "wikilink")*. [American Association of Teachers of Japanese](https://zh.wikipedia.org/wiki/American_Association_of_Teachers_of_Japanese "wikilink"), Vol. 20, No. 1 (Apr., 1986), pp. 57-60. CITED: p. 57. "\[...\]at the T. H. Rogers Education Center where the Japanese Educational Institute already conducts a supplemental school for children of Japanese living in Houston." However [the Japanese supplementary school's history page](https://web.archive.org/web/20000926031638/http://www.neosoft.com/~jlssh/gaiyou.htm) states that the classes for Japanese students were at "Westchester Education Center" at the time: "3月25日 Westchester Education Center (以下WEC) へ校舎移転。"

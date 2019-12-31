@@ -1,4 +1,4 @@
-> 本文内容由[Escape \(陳柏宇專輯\)](https://zh.wikipedia.org/wiki/Escape \(陳柏宇專輯\))转换而来。
+> 本文内容由[Escape \(陳柏宇專輯\)](https://zh.wikipedia.org/wiki/Escape_\(陳柏宇專輯\))转换而来。
 
 
 《**Escape**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的第十一張大碟，於2015年6月19日推出\[1\]。當中專輯第一主打是《回眸一笑》，第二主打則是《別來無恙》；音樂錄影帶短片則找來電影《[狂舞派](../Page/狂舞派.md "wikilink")》導演[黃修平](../Page/黃修平.md "wikilink")執導\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[BMT牙买加线](https://zh.wikipedia.org/wiki/BMT牙买加线)转换而来。
+
+
 **牙買加線**（），又稱「百老匯線」（）或「百老匯（布魯克林）線」（），是一條位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林區和](https://zh.wikipedia.org/wiki/布魯克林區 "wikilink")[皇后區](../Page/皇后區.md "wikilink")，屬於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的高架[地鐵](../Page/地鐵.md "wikilink")路線。此線由[威廉斯堡大橋](../Page/威廉斯堡大橋.md "wikilink")東南跨過百老匯到，乲後再向東跨過和到。路線在牙買加西部進入隧道，並在牙買加中心成為[射手大道線](../Page/射手大道線.md "wikilink")下層。[J線及](../Page/紐約地鐵J線與Z線.md "wikilink")[Z線列車服務牙買加線全線](../Page/紐約地鐵J線與Z線.md "wikilink")，而[M線服務](../Page/紐約地鐵M線.md "wikilink")[百老匯交匯以西的路段](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")。
 
 此線是紐約地鐵最長的高架鐵路，牙買加線也包括紐約地鐵最古老的高架結構：原初1885年的路線，舊，介乎[蓋茲大道及](https://zh.wikipedia.org/wiki/蓋茲大道車站_\(BMT牙買加線\) "wikilink")[凡希克凌大道](../Page/凡希克凌大道車站_\(BMT牙買加線\).md "wikilink")，也有最新的高架結構，1988年進入射手大道線地下段的斜坡。

@@ -1,4 +1,4 @@
-> 本文内容由[AMX 10 RC裝甲車](https://zh.wikipedia.org/wiki/AMX 10 RC裝甲車)转换而来。
+> 本文内容由[AMX 10 RC裝甲車](https://zh.wikipedia.org/wiki/AMX_10_RC裝甲車)转换而来。
 
 
 **AMX 10 RC裝甲車**是一款由[法國GIAT公司製造的輕型輪式偵察裝甲車](https://zh.wikipedia.org/wiki/法國 "wikilink")，目前共有約300輛服役於[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，另有108輛外銷至[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")、12輛外銷至[卡達](https://zh.wikipedia.org/wiki/卡達 "wikilink")。**AMX 10 RC**名稱中的**RC**是[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")*Roues-Canon*的縮寫，意為輪式火炮。

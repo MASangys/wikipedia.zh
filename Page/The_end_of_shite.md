@@ -1,3 +1,6 @@
+> 本文内容由[The end of shite](https://zh.wikipedia.org/wiki/The_end_of_shite)转换而来。
+
+
 \-{「}-**the end of shite**-{」}-[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")1张单曲。
 
 ## 简介

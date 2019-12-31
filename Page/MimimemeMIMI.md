@@ -1,3 +1,6 @@
+> 本文内容由[MimimemeMIMI](https://zh.wikipedia.org/wiki/MimimemeMIMI)转换而来。
+
+
 **mimimemeMIMI**（）是[日本](../Page/日本.md "wikilink")的音樂團體，隸屬[A-Sketch](../Page/A-Sketch.md "wikilink")旗下的動畫品牌Astro Voice\[1\]。本團體注重音樂的視覺與聽覺體驗\[2\]，團名的涵義是\[3\]。2017年7月18日，mimimemeMIMI宣布在同年9月9日舉行Live後解散，主唱Takao Yuki也從演藝界畢業\[4\]。
 
 ## 簡介

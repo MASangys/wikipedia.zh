@@ -1,3 +1,6 @@
+> 本文内容由[IP剧](https://zh.wikipedia.org/wiki/IP剧)转换而来。
+
+
 IP剧由Intellectual Property得名，此词意为知识产权。IP剧是指将具有人气的动漫、小说或者游戏和歌曲等具有知识产权的内容为影视题材进行再创造，改编而成的影视剧。
 
 ## 发展历程

@@ -1,4 +1,4 @@
-> 本文内容由[模块:Highlighted date list](https://zh.wikipedia.org/wiki/模块:Highlighted date list)转换而来。
+> 本文内容由[模块:Highlighted date list](https://zh.wikipedia.org/wiki/模块:Highlighted_date_list)转换而来。
 
 
 \-- This module takes a list of dates and adds a marker highlighting the closest -- date in the future.

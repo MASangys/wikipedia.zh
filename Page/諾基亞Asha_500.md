@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Asha 500](https://zh.wikipedia.org/wiki/諾基亞Asha_500)转换而来。
+
+
 **諾基亞Asha 500**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2013年10月22日發布。
 
 ## 規格

@@ -1,3 +1,6 @@
+> 本文内容由[NTRU](https://zh.wikipedia.org/wiki/NTRU)转换而来。
+
+
 **NTRU**是一个带有专利保护的开源[公开密钥加密](../Page/公开密钥加密.md "wikilink")系统，使用[基于格的加密算法来加密数据](https://zh.wikipedia.org/wiki/lattice-based_cryptography "wikilink")。它包括两部分算法：[NTRUEncrypt用来加密](https://zh.wikipedia.org/wiki/NTRUEncrypt "wikilink")，[NTRUSign用来进行](https://zh.wikipedia.org/wiki/NTRUSign "wikilink")[数字签名](https://zh.wikipedia.org/wiki/数字签名 "wikilink")。与其他流行的公钥加密系统不同，它可以防止被[Shor算法破解](https://zh.wikipedia.org/wiki/Shor算法 "wikilink")，并显著提升了性能。
 
 ## 历史

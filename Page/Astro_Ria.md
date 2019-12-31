@@ -1,4 +1,4 @@
-> 本文内容由[Astro Ria](https://zh.wikipedia.org/wiki/Astro Ria)转换而来。
+> 本文内容由[Astro Ria](https://zh.wikipedia.org/wiki/Astro_Ria)转换而来。
 
 
 **Astro Ria**、**Astro Ria HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的以](https://zh.wikipedia.org/wiki/Astro "wikilink")[马来语](../Page/马来语.md "wikilink")播出為主的马来语娱乐综合频道，该频道主要播出来的本地圈电视剧、综艺节目、美食、休闲、旅游节目以及电影等等。

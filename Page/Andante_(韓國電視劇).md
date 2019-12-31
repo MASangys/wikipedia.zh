@@ -1,3 +1,6 @@
+> 本文内容由[Andante \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Andante_\(韓國電視劇\))转换而来。
+
+
 《**Andante**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 1TV於](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")2017年9月24日起播出的\[1\]，由《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》朴基鎬導演執導與《玉琳成長日記》朴善子作家合作打造。此劇講述男主角轉學到農村學校後，生活中的點點滴滴與故事。\[2\]
 
 ## 演員陣容

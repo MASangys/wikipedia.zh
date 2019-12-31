@@ -1,4 +1,4 @@
-> 本文内容由[Transit Girls](https://zh.wikipedia.org/wiki/Transit Girls)转换而来。
+> 本文内容由[Transit Girls](https://zh.wikipedia.org/wiki/Transit_Girls)转换而来。
 
 
 《**Transit Girls**》（），2015年11月7日起每周六23:40 - 0:05（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[富士電視台](../Page/富士電視台.md "wikilink")播出的「[六劇](../Page/六劇.md "wikilink")」\[1\]。为日本电视连续剧史上第一次以“[百合](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")”为主题的作品\[2\]。

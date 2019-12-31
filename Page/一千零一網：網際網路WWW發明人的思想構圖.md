@@ -1,3 +1,6 @@
+> 本文内容由[一千零一網：網際網路WWW發明人的思想構圖](https://zh.wikipedia.org/wiki/一千零一網：網際網路WWW發明人的思想構圖)转换而来。
+
+
 《**一千零一網：網際網路WWW發明人的思想構圖**》（）（1999年），是由[提姆·柏內茲-李撰寫的書籍](https://zh.wikipedia.org/wiki/提姆·柏內茲-李 "wikilink")，描述了[全球資訊網是如何創造和他扮演的角色](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")。這是柏內茲-李所寫的唯一一本書。
 
 ## 參考文獻

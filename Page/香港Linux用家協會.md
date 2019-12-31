@@ -1,3 +1,6 @@
+> 本文内容由[香港Linux用家協會](https://zh.wikipedia.org/wiki/香港Linux用家協會)转换而来。
+
+
 **香港Linux用家協會**（全稱：Hong Kong Linux User Group、HKLUG）是[香港](../Page/香港.md "wikilink")[Linux](../Page/Linux.md "wikilink")[愛好者自發的](https://zh.wikipedia.org/wiki/愛好者 "wikilink")[非牟利組織](https://zh.wikipedia.org/wiki/非牟利組織 "wikilink")，成立於1997年10月。該社群設立的目的，是為了聚集香港各個[Linux](../Page/Linux.md "wikilink")及[自由軟件的用家及開發者](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，並提供互相交流的機會。而社群網站，亦為[香港](../Page/香港.md "wikilink")[Linux](../Page/Linux.md "wikilink")用戶提供社群[共筆系統](../Page/Wiki.md "wikilink")\[1\]及消息發放\[2\]等服務。
 
 ## 主要活動

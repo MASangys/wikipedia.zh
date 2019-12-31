@@ -1,4 +1,4 @@
-> 本文内容由[Creative Market](https://zh.wikipedia.org/wiki/Creative Market)转换而来。
+> 本文内容由[Creative Market](https://zh.wikipedia.org/wiki/Creative_Market)转换而来。
 
 
 **Creative Market**是一个提供设计资源的在线市场，主要销售WordPress主题、商业摄影等数字商品供他人使用，其名意为“创造力十足的市场”。Creative Market共有超过一百万名用户和超过25万件商品，\[1\]于2012年在加州旧金山成立由Aaron Epstein、Chris Williams和Darius A. Monsef IV创立。\[2\]

@@ -1,4 +1,4 @@
-> 本文内容由[BLUE ANT Entertainment](https://zh.wikipedia.org/wiki/BLUE ANT Entertainment)转换而来。
+> 本文内容由[BLUE ANT Entertainment](https://zh.wikipedia.org/wiki/BLUE_ANT_Entertainment)转换而来。
 
 
 **-{zh-tw:BLUE ANT娛樂台;zh-hk:BLUE ANT綜藝娛樂}-**（）為一東南亞地區英語綜合娛樂電視頻道，由Blue Ant Media所有。\[1\] 電視頻道於2013年9月開始發送，並以[高畫質播出](https://zh.wikipedia.org/wiki/高清電視 "wikilink")。[臺灣地區於](../Page/中華民國.md "wikilink")2018年1月9日下架頻道，其後經NCC再次批准。

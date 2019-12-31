@@ -1,3 +1,6 @@
+> 本文内容由[K-Pop 猎星行动](https://zh.wikipedia.org/wiki/K-Pop_猎星行动)转换而来。
+
+
 《**K-pop 猎星行动**》（，）是一个区域性的[K-Pop音乐](../Page/韓國流行音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，它给亚洲喜欢音乐的人带来一次成为K-Pop明星的机会。
 
 节目由CJ E\&M与Fox International共同打造，在[tvN](../Page/TVN.md "wikilink")、Channel V和Mnet等频道播出。第一季和第二季与[Cube娱乐合作](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，第三季则与[FNC娱乐合作](../Page/FNC娛樂.md "wikilink") ，共同寻找K-Pop明星。

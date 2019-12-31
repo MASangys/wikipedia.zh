@@ -1,3 +1,6 @@
+> 本文内容由[The Players](https://zh.wikipedia.org/wiki/The_Players)转换而来。
+
+
 《**The Players**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的第十二張专辑，於2016年10月28日推出，當中收錄了五首新歌及七首重新改編的精選舊曲
 
 ## 派台歌曲成績

@@ -1,3 +1,6 @@
+> 本文内容由[Lonely Girl](https://zh.wikipedia.org/wiki/Lonely_Girl)转换而来。
+
+
 ***Lonely Girl*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第二張[密紋唱片](../Page/密紋唱片.md "wikilink")，由Liberty Records於1956年發行，目錄號是 LRP-3012，唱片為單聲道形式。 隨後重新處理立體聲專輯，這種立體聲版本於1959年發布，目錄號為 LST-7029 。\[1\] 專輯的第一首單曲為「Lonely Girl(落寞少艾)」 ，此曲是她的第二任丈夫「Bobby Troup」為她而寫。
 
 ## 曲目

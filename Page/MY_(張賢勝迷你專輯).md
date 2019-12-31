@@ -1,4 +1,4 @@
-> 本文内容由[MY \(張賢勝迷你專輯\)](https://zh.wikipedia.org/wiki/MY \(張賢勝迷你專輯\))转换而来。
+> 本文内容由[MY \(張賢勝迷你專輯\)](https://zh.wikipedia.org/wiki/MY_\(張賢勝迷你專輯\))转换而来。
 
 
 《**MY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[張賢勝](../Page/張賢勝.md "wikilink")的首張韓語迷你專輯，於2015年5月8日線上發行\[1\]，主打曲為《你是我的第一次》（）。

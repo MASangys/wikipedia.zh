@@ -1,4 +1,4 @@
-> 本文内容由[LINE TOUCH 舞力全開](https://zh.wikipedia.org/wiki/LINE TOUCH 舞力全開)转换而来。
+> 本文内容由[LINE TOUCH 舞力全開](https://zh.wikipedia.org/wiki/LINE_TOUCH_舞力全開)转换而来。
 
 
 [LINE_TOUCH_舞力全開遊戲截圖.jpg](https://zh.wikipedia.org/wiki/File:LINE_TOUCH_舞力全開遊戲截圖.jpg "fig:LINE_TOUCH_舞力全開遊戲截圖.jpg") 《**LINE TOUCH 舞力全開**》於2015年4月30日由[艾玩天地](../Page/艾玩天地.md "wikilink")取得[台灣代理權](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，並於2015年7月7日正式於[Android](../Page/Android.md "wikilink")版本不刪檔封測\[2\]，於2015年7月14日於[iOS系統釋出](https://zh.wikipedia.org/wiki/iOS "wikilink")[正體中文的版本](https://zh.wikipedia.org/wiki/正體中文 "wikilink")\[3\]。是一款抓準節拍按鍵點擊的[音樂舞蹈](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[4\]。點擊有分單按（單光圈）、長按（雙光圈）、滑動（長箭頭）、雙按（雙按鍵）四種模式，當[光圈](../Page/光圈.md "wikilink")縮到與[按鍵相互重合時](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，點擊會得到最高的分數\[5\]。若遇到版本正在更新或未連接[網路時](https://zh.wikipedia.org/wiki/網路 "wikilink")，可使用[離線模式進行練習](https://zh.wikipedia.org/wiki/離線 "wikilink")（僅限於遊戲大廳的觸動經典模式）\[6\]\[7\]。

@@ -1,3 +1,6 @@
+> 本文内容由[減肥淘汰賽 Victory](https://zh.wikipedia.org/wiki/減肥淘汰賽_Victory)转换而来。
+
+
 《**減肥淘汰賽 Victory**》（，）[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，由[李秀景](https://zh.wikipedia.org/wiki/李秀景 "wikilink")、[申东烨](https://zh.wikipedia.org/wiki/申东烨 "wikilink")、[申奉仙](../Page/申奉仙.md "wikilink")、[李奎翰](../Page/李奎翰.md "wikilink")主持，節目每集從全國找出過胖的民眾，進行一連串減肥活動\[1\]。
 
 ## 各集嘉賓

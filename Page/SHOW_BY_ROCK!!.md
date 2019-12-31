@@ -1,4 +1,4 @@
-> 本文内容由[SHOW BY ROCK!!](https://zh.wikipedia.org/wiki/SHOW BY ROCK!!)转换而来。
+> 本文内容由[SHOW BY ROCK!!](https://zh.wikipedia.org/wiki/SHOW_BY_ROCK!!)转换而来。
 
 
 《**SHOW BY ROCK\!\!**》是[三麗鷗](../Page/三麗鷗.md "wikilink")旗下一個以樂隊為主題的人物企劃，簡稱為「**SB69**\[1\]」。其後由開發成為[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，並先後於2013年及2014年在iOS及Android平台上發行。

@@ -1,4 +1,4 @@
-> 本文内容由[京成AE型電聯車 \(2代\)](https://zh.wikipedia.org/wiki/京成AE型電聯車 \(2代\))转换而来。
+> 本文内容由[京成AE型電聯車 \(2代\)](https://zh.wikipedia.org/wiki/京成AE型電聯車_\(2代\))转换而来。
 
 
 **京成AE型電聯車**（）是[京成電鐵](../Page/京成電鐵.md "wikilink")的特急電動列車組，亦是第三款服務[Skyliner](../Page/Skyliner.md "wikilink")的車型。二代AE型於2010年取代上一代的[AE100型](../Page/京成AE100型電聯車.md "wikilink")，與新落成的[成田機場線](../Page/成田機場線.md "wikilink")一併投入服務。

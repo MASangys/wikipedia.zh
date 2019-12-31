@@ -1,4 +1,4 @@
-> 本文内容由[爱普生 R-D1](https://zh.wikipedia.org/wiki/爱普生 R-D1)转换而来。
+> 本文内容由[爱普生 R-D1](https://zh.wikipedia.org/wiki/爱普生_R-D1)转换而来。
 
 
 **爱普生 R-D1**是一台旁轴相机，由[精工爱普生公司在](https://zh.wikipedia.org/wiki/精工爱普生 "wikilink")2004年推出。其是世界上第一台装配数码成像传感器的[旁轴取景相机](https://zh.wikipedia.org/wiki/旁轴相机 "wikilink")。

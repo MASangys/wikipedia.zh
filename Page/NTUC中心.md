@@ -1,3 +1,6 @@
+> 本文内容由[NTUC中心](https://zh.wikipedia.org/wiki/NTUC中心)转换而来。
+
+
 **NTUC中心**（）是一棟位於[新加坡](../Page/新加坡.md "wikilink")[市中心](../Page/市中心_\(新加坡\).md "wikilink")[濱海灣濱海林蔭道一號的](../Page/濱海灣_\(新加坡\).md "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")，其建築高度為，共32層樓，介於[萊佛士坊](../Page/萊佛士坊.md "wikilink")與濱海灣之間。大廈比鄰於[萊佛士碼頭一號](https://zh.wikipedia.org/wiki/萊佛士碼頭一號 "wikilink")、[濱海舫等](https://zh.wikipedia.org/wiki/濱海舫 "wikilink")，\[1\]距離約100尺範圍內，\[2\]並與[新加坡地鐵](../Page/新加坡地鐵.md "wikilink")[萊佛士坊地鐵站以地下街商圈連接](https://zh.wikipedia.org/wiki/萊佛士坊地鐵站 "wikilink")。\[3\]
 
 NTUC中心官方正式名稱為**濱海林蔭道一號**（），屬於[甲級寫字樓](https://zh.wikipedia.org/wiki/頂級商辦大樓 "wikilink")，其地下室包含零售商圈。\[4\]大廈坐落在約11,366.9平方公尺的土地上，\[5\]總建築面積為48,302平方公尺，\[6\]，內共有39,000平方公尺的辦公室面積。\[7\]

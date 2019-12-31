@@ -1,3 +1,6 @@
+> 本文内容由[亂馬½ DoCo☆Second](https://zh.wikipedia.org/wiki/亂馬½_DoCo☆Second)转换而来。
+
+
 \-{T|zh-hans:乱马 DoCo☆Second; zh-hant:亂馬 DoCo☆Second;}- {{Infobox Album | Name = 亂馬 DoCo☆Second
 <small>（）</small> | Type = [專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink") | Artist =  | Cover = | Released = 1994年12月16日 | Recorded = | Genre = [動畫歌曲](../Page/動畫歌曲.md "wikilink")、[J-POP](../Page/日本流行音樂.md "wikilink") | Length = 31分 | Label = [Pony Canyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") | Producer = | Chart position = | Certification = | Last album = \[\[亂馬½_DoCo_First|亂馬 《**亂馬 DoCo☆Second**》（）是[日本](../Page/日本.md "wikilink")聲優組合的第2張專輯。1994年12月6日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 

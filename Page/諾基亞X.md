@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞X](https://zh.wikipedia.org/wiki/諾基亞X)转换而来。
+
+
 **諾基亞X**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2014年2月24日發布，該設備在手機發佈會當天發貨，諾基亞將產品定位於新興市場。它目前由[-{zh-tw:微軟行動;zh-hk:微軟流動;zh-cn:微软移动;}-出售和維護](../Page/微軟行動.md "wikilink")。2014年7月17日，微軟宣布將停止生產線。\[1\]
 
 ## 規格

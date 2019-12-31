@@ -1,4 +1,4 @@
-> 本文内容由[Switch \(借记卡\)](https://zh.wikipedia.org/wiki/Switch \(借记卡\))转换而来。
+> 本文内容由[Switch \(借记卡\)](https://zh.wikipedia.org/wiki/Switch_\(借记卡\))转换而来。
 
 
 **Switch**是英国发行的一种[借记卡](../Page/借记卡.md "wikilink")品牌，2002年被其所有者[万事达与](https://zh.wikipedia.org/wiki/万事达 "wikilink")[万事顺卡](../Page/万事顺卡.md "wikilink")（）品牌合并。由于在合并前，其在英国已经建立了强势的品牌，人们在其停止发行后数年仍以Switch代指借记卡交易。

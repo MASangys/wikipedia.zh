@@ -1,3 +1,6 @@
+> 本文内容由[I AM WILDCAT](https://zh.wikipedia.org/wiki/I_AM_WILDCAT)转换而来。
+
+
 **泰勒**（，）\[1\]泰勒較為知名的名稱為**I AM WILDCAT**，截至2017年8月底，I AM WILDCAT已累積530萬個訂閱者和6億總觀看數。
 
 ## 個人生活

@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·E·麥克萊倫](https://zh.wikipedia.org/wiki/詹姆斯·E·麥克萊倫)转换而来。
+
+
 **詹姆斯·E·麥克萊倫**（；），是美國的[民主黨政治人物及獸醫](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，前[馬里蘭州眾議院議員](https://zh.wikipedia.org/wiki/馬里蘭州眾議院 "wikilink")。
 
 ## 生平

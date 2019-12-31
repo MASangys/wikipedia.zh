@@ -1,4 +1,4 @@
-> 本文内容由[TEA FM](https://zh.wikipedia.org/wiki/TEA FM)转换而来。
+> 本文内容由[TEA FM](https://zh.wikipedia.org/wiki/TEA_FM)转换而来。
 
 
 **TEA FM**是[东马来西亚的中文广播电台](https://zh.wikipedia.org/wiki/东马来西亚 "wikilink")，是[启德行集团进军](https://zh.wikipedia.org/wiki/启德行集团 "wikilink")[广播电台领域之首家电台](https://zh.wikipedia.org/wiki/广播电台 "wikilink")，并将积极贴近砂沙听众的心。Tea FM在2015年10月27日推出免費[手機應用程式](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，方便聽眾在[智能手機和](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")收聽全天的電台節目。

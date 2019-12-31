@@ -1,3 +1,6 @@
+> 本文内容由[GKD1A型柴油机车](https://zh.wikipedia.org/wiki/GKD1A型柴油机车)转换而来。
+
+
 **GKD1A型柴油机车**（GKD1A）是[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大连机车车辆有限公司专为铁路站段](https://zh.wikipedia.org/wiki/大连机车车辆有限公司 "wikilink")、工矿企业、海港油田等用户研制的一种小型[调车](../Page/调车机车.md "wikilink")[柴油机车车型](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。其中"GK"代表其为工矿系列机车，"D"代表其传动方式为电传动，以区分传统的液力传动的"GK"系列机车，"1A"为其型号。
 
 ## 技术特点

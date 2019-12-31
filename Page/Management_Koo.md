@@ -1,4 +1,4 @@
-> 本文内容由[Management Koo](https://zh.wikipedia.org/wiki/Management Koo)转换而来。
+> 本文内容由[Management Koo](https://zh.wikipedia.org/wiki/Management_Koo)转换而来。
 
 
 **Management Koo**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。包括藝人管理等，當紅藝人包括演員[李重文](../Page/李重文.md "wikilink")、[權賢尚](../Page/權賢尚.md "wikilink")、[李枖原](../Page/李枖原.md "wikilink")等多名演員。

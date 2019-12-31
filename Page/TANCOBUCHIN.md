@@ -1,3 +1,6 @@
+> 本文内容由[TANCOBUCHIN](https://zh.wikipedia.org/wiki/TANCOBUCHIN)转换而来。
+
+
 **TANCOBUCHIN**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：たんこぶちん）是在[日本](../Page/日本.md "wikilink")[佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[唐津市組成的五人](../Page/唐津市_\(日本\).md "wikilink")[女子搖滾樂團](https://zh.wikipedia.org/wiki/女子 "wikilink")，小學時代已組成。
 
 ## 概述
@@ -77,5 +80,4 @@
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:山葉音樂傳播旗下藝人](https://zh.wikipedia.org/wiki/Category:山葉音樂傳播旗下藝人 "wikilink") [Category:日本女性搖滾歌手](https://zh.wikipedia.org/wiki/Category:日本女性搖滾歌手 "wikilink")
 
 1.  NODOKA與HONOKA是雙胞胎姊妹，姊姊是HONOKA，妹妹是NODOKA。
-
 2.

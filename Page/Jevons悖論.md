@@ -1,3 +1,6 @@
+> 本文内容由[Jevons悖論](https://zh.wikipedia.org/wiki/Jevons悖論)转换而来。
+
+
 [替代=Engraving of a view of Manchester from a distance, showing factories, smokestacks, and smoke.](https://zh.wikipedia.org/wiki/File:CottonopolisCropped.jpg "fig:替代=Engraving of a view of Manchester from a distance, showing factories, smokestacks, and smoke.")
 
 在[经济学](../Page/经济学.md "wikilink")中，当技术进步提高了使用资源的效率（减少任何一种使用所需的数量）时，**Jevons悖论**（有时是Jevons效应）就会发生，但资源消耗的速度上升是因为需求增加。\[1\] Jevons悖论也许是[环境经济学中最广为人知的悖论](https://zh.wikipedia.org/wiki/环境经济学 "wikilink")。\[2\]然而，政府和环保人士普遍认为，提高效率会降低资源消耗，忽视悖论的可能性。\[3\]
@@ -60,64 +63,43 @@ Jevons悖论表明，提高效率本身可能不会减少燃料使用，可持�
 [Category:经济学悖论](https://zh.wikipedia.org/wiki/Category:经济学悖论 "wikilink") [Category:Industrial_ecology](https://zh.wikipedia.org/wiki/Category:Industrial_ecology "wikilink") [Category:Peak_oil](https://zh.wikipedia.org/wiki/Category:Peak_oil "wikilink") [Category:能源政策](https://zh.wikipedia.org/wiki/Category:能源政策 "wikilink") [Category:節約能源](https://zh.wikipedia.org/wiki/Category:節約能源 "wikilink") [Category:Environmental_social_science_concepts](https://zh.wikipedia.org/wiki/Category:Environmental_social_science_concepts "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
 11.
 12.
 13.
-
 14.
 15.
-
 16.
 17.
 18.
-
 19.
-
 20.
 21.
-
 22.
-
 23.
 24.
-
 25.
 26.
 27.
 28.
-
 29.
-
 30.
-
 31.
 32.
 33.
-
 34.
-
 35.
 36.
 37.
-
 38.
 39.
 40.
-
 41.

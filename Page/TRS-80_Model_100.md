@@ -1,4 +1,4 @@
-> 本文内容由[TRS-80 Model 100](https://zh.wikipedia.org/wiki/TRS-80 Model 100)转换而来。
+> 本文内容由[TRS-80 Model 100](https://zh.wikipedia.org/wiki/TRS-80_Model_100)转换而来。
 
 
 **TRS-80 Model 100** 是一台在1983年推出的[可移动计算机](https://zh.wikipedia.org/wiki/可移动计算机 "wikilink")。它是最早的笔记本式计算机之一，其特点是拥有键盘和[液晶显示器](../Page/液晶显示器.md "wikilink")，可电池供电和形状像一本笔记本或一本大书。

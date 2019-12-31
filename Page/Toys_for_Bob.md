@@ -1,4 +1,4 @@
-> 本文内容由[Toys for Bob](https://zh.wikipedia.org/wiki/Toys for Bob)转换而来。
+> 本文内容由[Toys for Bob](https://zh.wikipedia.org/wiki/Toys_for_Bob)转换而来。
 
 
 **Toys for Bob**，是保罗·赖歇III和弗雷德·福特于1989年创立的小型美国游戏开发商。在90年代初制作Star Control和Star Control II: The Ur-Quan Masters，后来他们继续为Crystal Dynamics创造游戏。

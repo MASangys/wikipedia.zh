@@ -1,3 +1,6 @@
+> 本文内容由[KTM通勤铁路北马区](https://zh.wikipedia.org/wiki/KTM通勤铁路北马区)转换而来。
+
+
 **马来亚铁道通勤铁路北马区**（）是目前[KTM通勤铁路的四条线路中的其中一个](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")。怡保－巴东勿刹电气化双轨工程于2014年12月开始，并在2015年完工，同年9月11日正式开通。 \[1\]
 
 目前北马区有两条线路分别是北海－巴东勿刹线（简称**巴东勿刹线**）和大山脚－硝山线（简称**硝山线**）[大山脚站](../Page/大山脚站.md "wikilink")是这两条线路的[转乘站](https://zh.wikipedia.org/wiki/转乘站 "wikilink")。

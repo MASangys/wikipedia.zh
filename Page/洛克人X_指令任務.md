@@ -1,3 +1,6 @@
+> 本文内容由[洛克人X 指令任務](https://zh.wikipedia.org/wiki/洛克人X_指令任務)转换而来。
+
+
 是日本[卡普空](../Page/卡普空.md "wikilink")公司製作並於2004年7月29日販賣的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲平台為[PlayStation 2和](../Page/PlayStation_2.md "wikilink")[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")。本作是[洛克人X系列](../Page/洛克人X系列.md "wikilink")遊戲的外傳故事，X系列大部分都是[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，而本作是該系列第一款、也是目前唯一一款角色扮演遊戲。
 
 ## 系統

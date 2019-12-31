@@ -1,3 +1,6 @@
+> 本文内容由[Discovery Family](https://zh.wikipedia.org/wiki/Discovery_Family)转换而来。
+
+
 ****（前稱「****」和「****」）是一個由[孩之寶](../Page/孩之寶.md "wikilink")和[探索傳播](../Page/探索傳播.md "wikilink")擁有的[美國有線和](https://zh.wikipedia.org/wiki/美國 "wikilink")[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，宣傳自己是一個播放自製和外購的家庭向電視頻道，曾播放的節目包括[孩之寶](../Page/孩之寶.md "wikilink")的《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》、《[至Q寵物屋](../Page/至Q寵物屋.md "wikilink")》及[變形金剛相關的節目](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")，以及家庭向的[科普和自然類節目](https://zh.wikipedia.org/wiki/科普 "wikilink")。
 
 ## 參考數據

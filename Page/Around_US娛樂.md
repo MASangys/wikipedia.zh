@@ -1,3 +1,6 @@
+> 本文内容由[Around US娛樂](https://zh.wikipedia.org/wiki/Around_US娛樂)转换而来。
+
+
 **Around US娛樂**（；） 是由韓國組合[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")（現HIGHLIGHT）在2016年脫離[Cube娛樂](../Page/Cube娛樂.md "wikilink")後創立的娛樂公司。
 
 ## 概要

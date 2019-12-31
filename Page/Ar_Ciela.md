@@ -1,3 +1,6 @@
+> 本文内容由[Ar Ciela](https://zh.wikipedia.org/wiki/Ar_Ciela)转换而来。
+
+
 Ar Ciela又称作星语，是在[株式会社万普和](https://zh.wikipedia.org/wiki/株式会社万普 "wikilink")[Gust](../Page/Gust.md "wikilink")的原创作品“[魔塔大陸系列](../Page/魔塔大陸系列.md "wikilink")”（[PS2和](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PS3上的游戏软件](https://zh.wikipedia.org/wiki/PS3 "wikilink")）中以及其衍生作品和关联作品中出现的一种[架空语言](../Page/藝術語言.md "wikilink")，是通作品中另一个语言[Hymmnos语](../Page/Hymmnos语.md "wikilink")（）的前身。
 
 ### 基本

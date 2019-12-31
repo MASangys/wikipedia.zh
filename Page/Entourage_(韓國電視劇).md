@@ -1,4 +1,4 @@
-> 本文内容由[Entourage \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Entourage \(韓國電視劇\))转换而来。
+> 本文内容由[Entourage \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Entourage_\(韓國電視劇\))转换而来。
 
 
 《**Entourage**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年11月4日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[需要浪漫3](../Page/需要浪漫3.md "wikilink")》張英宇導演指導。是改編自美國電視劇《[我家也有大明星](../Page/我家也有大明星.md "wikilink")》，講述年少成名的男主人公車英斌（[徐康俊](../Page/徐康俊.md "wikilink")飾）和他的三個好朋友經歷人生低沉大起大落的故事。此剧特点就是拥有了韩国电视剧有史以来最多位艺人特别出演的电视剧。

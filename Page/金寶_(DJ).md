@@ -1,4 +1,4 @@
-> 本文内容由[金寶 \(DJ\)](https://zh.wikipedia.org/wiki/金寶 \(DJ\))转换而来。
+> 本文内容由[金寶 \(DJ\)](https://zh.wikipedia.org/wiki/金寶_\(DJ\))转换而来。
 
 
 **金寶** (Kinple，05月6日-)，[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，曾是[寶島聯播網](../Page/寶島聯播網.md "wikilink")主持人，[公視台語台](../Page/公視台語台.md "wikilink")棒球主播。

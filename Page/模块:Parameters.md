@@ -1,3 +1,6 @@
+> 本文内容由[模块:Parameters](https://zh.wikipedia.org/wiki/模块:Parameters)转换而来。
+
+
 \-- This module implements [Template:Parameters](https://zh.wikipedia.org/wiki/Template:Parameters "wikilink"). -- \[SublimeLinter luacheck-globals:mw\]
 
 local DEFINITIONS = {

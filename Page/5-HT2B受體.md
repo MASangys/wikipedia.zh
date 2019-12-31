@@ -1,3 +1,6 @@
+> 本文内容由[5-HT2B受體](https://zh.wikipedia.org/wiki/5-HT2B受體)转换而来。
+
+
 **5-羥色胺受體2B**或**血清素受體2B** (英語:**5-Hydroxytryptamine receptor 2B** (**5-HT<sub>2B</sub>**)或**serotonin receptor 2B**) 是在人類中由*HTR2B*基因編碼的[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")\[1\]\[2\]。 5-HT<sub>2B</sub>是[5-HT2受體](../Page/5-HT2受體.md "wikilink")家族中的成員。
 
 ## 参见

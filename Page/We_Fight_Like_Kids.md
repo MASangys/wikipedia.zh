@@ -1,4 +1,4 @@
-> 本文内容由[We Fight Like Kids](https://zh.wikipedia.org/wiki/We Fight Like Kids)转换而来。
+> 本文内容由[We Fight Like Kids](https://zh.wikipedia.org/wiki/We_Fight_Like_Kids)转换而来。
 
 
 《**We Fight Like Kids**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第九張個人專輯，同時亦為第五張細碟專輯，2015年9月4日於We Fight Like Kids 周國賢Live 2015優先發售，並於2015年9月8日正式公開發售。當中專輯第一主打是《年輕人們》，第二主打則是《我們都不是無辜的》。

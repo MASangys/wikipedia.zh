@@ -1,4 +1,4 @@
-> 本文内容由[文件管理器 \(Windows\)](https://zh.wikipedia.org/wiki/文件管理器 \(Windows\))转换而来。
+> 本文内容由[文件管理器 \(Windows\)](https://zh.wikipedia.org/wiki/文件管理器_\(Windows\))转换而来。
 
 
 **文件管理器**（）是[Microsoft Windows在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")1990年至1999年的产品中附带的[文件管理器程序](https://zh.wikipedia.org/wiki/文件管理器 "wikilink")。\[1\]它是一个单实例的图形界面，取代了[MS-DOS](../Page/MS-DOS.md "wikilink")的命令行界面来管理[文件](../Page/電腦檔案.md "wikilink")（复制、移动、打开、搜索等）。尽管文件管理器在[Windows 95和](../Page/Windows_95.md "wikilink")[Windows NT 4.0及之后的一些版本中也有提供](../Page/Windows_NT_4.0.md "wikilink")，[Windows Explorer后被引入并作为主要的文件管理器](../Page/檔案總管.md "wikilink")。

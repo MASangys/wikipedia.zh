@@ -1,3 +1,6 @@
+> 本文内容由[約翰·J·B·威爾遜](https://zh.wikipedia.org/wiki/約翰·J·B·威爾遜)转换而来。
+
+
 **约翰·J·B·威尔逊**（，），美国人，[文案](https://zh.wikipedia.org/wiki/文案 "wikilink")、。幼时随父母迁居[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣莫尼卡](../Page/圣莫尼卡.md "wikilink")，就读于[加州大学洛杉矶分校](https://zh.wikipedia.org/wiki/加州大学洛杉矶分校 "wikilink")，主修电影和电视，毕业后从事电影营销业务。
 
 威尔逊与莫·墨菲创办了一年一度的[金酸梅奖](https://zh.wikipedia.org/wiki/金酸梅奖 "wikilink")，“表彰”年度烂片。1981年，[奥斯卡奖当晚](../Page/第54届奥斯卡金像奖.md "wikilink")，他在家中举办晚宴，邀请好友们在他家客厅即兴颁奖。次年，《》报道活动，当时威尔逊站在纸板搭的讲台后，宣布《》获得[金草莓獎最差電影](../Page/金草莓獎最差電影.md "wikilink")。次年，金酸梅奖颁奖典礼的观众人数翻倍，到了更获得[CNN转播和两大主流新闻媒体的连线](https://zh.wikipedia.org/wiki/CNN "wikilink")。威尔逊在颁奖典礼中一直扮演着活跃的角色，故被封为“金酸梅奖首领”。2005年，他出版纪念金酸梅奖25周年的书籍《》。

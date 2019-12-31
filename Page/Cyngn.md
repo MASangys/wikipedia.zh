@@ -1,3 +1,6 @@
+> 本文内容由[Cyngn](https://zh.wikipedia.org/wiki/Cyngn)转换而来。
+
+
 **Cyngn**，是研發手機操作系統和自動駕駛風險投資公司，辦事處設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")和[帕羅奧圖](../Page/帕羅奧圖.md "wikilink")。
 
 ## 歷史

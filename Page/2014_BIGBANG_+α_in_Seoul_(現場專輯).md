@@ -1,3 +1,6 @@
+> 本文内容由[2014 BIGBANG +α in Seoul \(現場專輯\)](https://zh.wikipedia.org/wiki/2014_BIGBANG_+α_in_Seoul_\(現場專輯\))转换而来。
+
+
 《**2014 BIGBANG +α in Seoul**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG推出的第八張韓語](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作發佈，在2014年3月28日正式發行\[1\]。該專輯收錄於2014年1月24日至26日在[首爾奧林匹克體操競技場舉行為期三天的演唱會](../Page/首尔奥林匹克体操竞技场.md "wikilink")。
 
 ## 概要

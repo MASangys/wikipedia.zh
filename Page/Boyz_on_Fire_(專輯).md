@@ -1,4 +1,4 @@
-> 本文内容由[Boyz on Fire \(專輯\)](https://zh.wikipedia.org/wiki/Boyz on Fire \(專輯\))转换而来。
+> 本文内容由[Boyz on Fire \(專輯\)](https://zh.wikipedia.org/wiki/Boyz_on_Fire_\(專輯\))转换而来。
 
 
 《**Boyz on Fire**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的第四張正規專輯，於2016年7月19日舉行專輯記者會\[1\]，同月20日開始預購（烈火版、粉紅版），8月12日正式發行（閃亮版）\[2\]。首波主打歌為偶像劇《[終極一班4](../Page/終極一班4.md "wikilink")》主題曲《Boyz On Fire》，第二主打為《憂傷來襲》\[3\]。專輯發行首週（2016年第33週）即登上五大金榜第一名。

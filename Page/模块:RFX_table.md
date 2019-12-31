@@ -1,3 +1,6 @@
+> 本文内容由[模块:RFX table](https://zh.wikipedia.org/wiki/模块:RFX_table)转换而来。
+
+
 \-- This module is a replacement for the RfX report bot.
 
 local rfx = require( 'Module:Rfx' ) local colours = mw.loadData( 'Module:RFX report/colour' )

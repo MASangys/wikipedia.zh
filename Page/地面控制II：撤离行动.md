@@ -1,3 +1,6 @@
+> 本文内容由[地面控制II：撤离行动](https://zh.wikipedia.org/wiki/地面控制II：撤离行动)转换而来。
+
+
 是一款2004年上市的，由Massive Entertainment制作的[即时战术游戏](../Page/即时战术游戏.md "wikilink")。\[1\]本作为[地面控制的续作](../Page/地面控制_\(游戏\).md "wikilink")。和前作相似，本作采用全3D图像和可旋转视角。
 
 ## 登场人物

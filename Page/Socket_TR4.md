@@ -1,3 +1,6 @@
+> 本文内容由[Socket TR4](https://zh.wikipedia.org/wiki/Socket_TR4)转换而来。
+
+
 **Socket TR4**，或稱**Socket SP3r2**，是一種[AMD設計的](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器插座](../Page/CPU插座.md "wikilink")，適用於[LGA封裝的](https://zh.wikipedia.org/wiki/平面網格陣列封裝 "wikilink")[Ryzen ThreadRipper系列](../Page/AMD_Ryzen.md "wikilink")，於2017年8月10日隨同Ryzen ThreadRipper系列一同發表\[1\]\[2\]\[3\]
 
 ## 技術概況
@@ -11,6 +14,7 @@ Socket TR4由伺服器/工作站平台使用的[Socket SP3衍生而來](../Page/
   - [Zen微架構](../Page/AMD_Zen.md "wikilink")
   - [AMD Ryzen](../Page/AMD_Ryzen.md "wikilink")
   - [Socket AM4](../Page/Socket_AM4.md "wikilink")
+  - [Socket sTRX4](https://zh.wikipedia.org/wiki/Socket_sTRX4 "wikilink")
   - [Socket SP3](../Page/Socket_SP3.md "wikilink")
 
 ## 參考資料
@@ -18,14 +22,9 @@ Socket TR4由伺服器/工作站平台使用的[Socket SP3衍生而來](../Page/
 [Category:CPU插座](https://zh.wikipedia.org/wiki/Category:CPU插座 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.

@@ -1,4 +1,4 @@
-> 本文内容由[M \(BIGBANG單曲\)](https://zh.wikipedia.org/wiki/M \(BIGBANG單曲\))转换而来。
+> 本文内容由[M \(BIGBANG單曲\)](https://zh.wikipedia.org/wiki/M_\(BIGBANG單曲\))转换而来。
 
 
 **《M》**是[南韓五人男子組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BIGBANG回歸企劃](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")「Made Series」的第一張作品，共收錄兩首主打新曲，分別為〈Loser〉與〈Bae Bae〉，於2015年5月1日正式發行。

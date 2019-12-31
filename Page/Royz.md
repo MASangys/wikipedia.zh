@@ -1,3 +1,6 @@
+> 本文内容由[Royz](https://zh.wikipedia.org/wiki/Royz)转换而来。
+
+
 **Royz**是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 簡介

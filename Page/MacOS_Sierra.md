@@ -1,4 +1,4 @@
-> 本文内容由[MacOS Sierra](https://zh.wikipedia.org/wiki/MacOS Sierra)转换而来。
+> 本文内容由[MacOS Sierra](https://zh.wikipedia.org/wiki/MacOS_Sierra)转换而来。
 
 
 **macOS Sierra**（版本 10.12\[1\]）是[苹果公司为个人电脑和](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[服务器](../Page/服务器.md "wikilink")开发的作業系统[macOS（前称{{Nowrap的第](https://zh.wikipedia.org/wiki/OS_X "wikilink")13个版本。它是[OS X El Capitan的后续版本](../Page/OS_X_El_Capitan.md "wikilink")，主要注重“连续互通”、[iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")、視窗管理方面的改善以及对[Apple Pay和](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")[Siri](../Page/Siri.md "wikilink")的支援。苹果公司将重新命名为macOS，匹配了同公司其他作業系统（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS](https://zh.wikipedia.org/wiki/watchOS "wikilink")、[tvOS](https://zh.wikipedia.org/wiki/tvOS "wikilink")）的命名体系。macOS也呼应了历史上[Mac OS的命名](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。

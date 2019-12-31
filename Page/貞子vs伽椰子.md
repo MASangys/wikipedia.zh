@@ -1,3 +1,6 @@
+> 本文内容由[貞子vs伽椰子](https://zh.wikipedia.org/wiki/貞子vs伽椰子)转换而来。
+
+
 《**貞子vs伽椰子**》（）是一部2016年日本[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，由[白石晃士導演](https://zh.wikipedia.org/wiki/白石晃士 "wikilink")。由《[午夜凶鈴](../Page/午夜凶鈴.md "wikilink")》與《[咒怨](../Page/咒怨系列.md "wikilink")》兩大恐怖電影系列合作，[山本美月](../Page/山本美月.md "wikilink")、[玉城蒂娜](https://zh.wikipedia.org/wiki/玉城蒂娜 "wikilink")、[佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")、[田中美里](https://zh.wikipedia.org/wiki/田中美里 "wikilink")、[甲本雅裕等主演](https://zh.wikipedia.org/wiki/甲本雅裕 "wikilink")，於2016年6月18日在日本上映。
 
 ## 劇情

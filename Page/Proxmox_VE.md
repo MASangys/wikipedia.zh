@@ -1,3 +1,6 @@
+> 本文内容由[Proxmox VE](https://zh.wikipedia.org/wiki/Proxmox_VE)转换而来。
+
+
 **Proxmox VE**（，通常简称为**Proxmox**），是一个[开源的服务器虚拟化环境](https://zh.wikipedia.org/wiki/开源 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")。Proxmox VE基于[Debian](../Page/Debian.md "wikilink")，使用基于[Ubuntu](../Page/Ubuntu.md "wikilink")的定制[内核](../Page/Linux内核.md "wikilink")\[1\] \[2\]，包含安装程序\[3\]、网页控制台和命令行工具，并且向第三方工具提供了[REST](https://zh.wikipedia.org/wiki/REST "wikilink") API，在[Affero通用公共许可证第三版下发行](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink")。\[4\]。Proxmox VE支持两类虚拟化技术：基于容器的[LXC](../Page/LXC.md "wikilink")（自4.0版开始，3.4版及以前使用[OpenVZ](../Page/OpenVZ.md "wikilink")技术\[5\]）和硬件抽象层全虚拟化的[KVM](../Page/基于内核的虚拟机.md "wikilink")。\[6\]
 
 Proxmox名字本身没有意义。\[7\]

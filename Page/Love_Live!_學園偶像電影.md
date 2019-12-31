@@ -1,4 +1,4 @@
-> 本文内容由[Love Live! 學園偶像電影](https://zh.wikipedia.org/wiki/Love Live! 學園偶像電影)转换而来。
+> 本文内容由[Love Live! 學園偶像電影](https://zh.wikipedia.org/wiki/Love_Live!_學園偶像電影)转换而来。
 
 
 《**Love Live\! 學園偶像電影**》（）為[Love Live\! School Idol Project的相關動畫作品](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")。於2014年6月，電視動畫第二季播畢時，官方公布製作動畫劇場版的決定\[1\]。由[日昇動畫](../Page/日昇動畫.md "wikilink")製作、並由[松竹株式會社發布](https://zh.wikipedia.org/wiki/松竹株式會社 "wikilink")。

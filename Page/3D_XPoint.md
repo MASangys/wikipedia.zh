@@ -1,3 +1,6 @@
+> 本文内容由[3D XPoint](https://zh.wikipedia.org/wiki/3D_XPoint)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:3D_XPoint.png "fig:缩略图") **3D XPoint**（发音*three dee cross point*\[1\]）是一种由[英特尔](../Page/英特尔.md "wikilink")和[美光科技](../Page/美光科技.md "wikilink")于2015年7月宣布的[非揮發性記憶體](../Page/非揮發性記憶體.md "wikilink")（NVM）技术。英特尔为使用该技术的存储设备冠名**Optane**，而美光称为**QuantX**。它通常被认为是一种基于[相變化記憶體的技术](https://zh.wikipedia.org/wiki/相變化記憶體 "wikilink")，但也有其他可能性被提出。\[2\]
 
 该种技术的材料和物理细节尚未公布。位元存储基于bulk电阻的变化，结合可堆叠的跨网格数据存取阵列。

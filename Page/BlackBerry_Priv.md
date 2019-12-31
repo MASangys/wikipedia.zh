@@ -1,4 +1,4 @@
-> 本文内容由[BlackBerry Priv](https://zh.wikipedia.org/wiki/BlackBerry Priv)转换而来。
+> 本文内容由[BlackBerry Priv](https://zh.wikipedia.org/wiki/BlackBerry_Priv)转换而来。
 
 
 **BlackBerry priv**，是[黑莓公司](../Page/黑莓公司.md "wikilink")Android的[智能手机](../Page/智能手机.md "wikilink")，2015年10推出。美国，英国10月已接受预订。欧洲大部分国家可以经过第三方购买，如media makte等。這是黑莓首次推出基於Android系統旳[智能手机](../Page/智能手机.md "wikilink")，由於過往一直被指應用程式數量少，改用Android能利用其程式數量改善用戶體驗，吸引更多非商務人士購買。

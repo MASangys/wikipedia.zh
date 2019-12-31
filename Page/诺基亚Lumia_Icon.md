@@ -1,4 +1,4 @@
-> 本文内容由[诺基亚Lumia Icon](https://zh.wikipedia.org/wiki/诺基亚Lumia Icon)转换而来。
+> 本文内容由[诺基亚Lumia Icon](https://zh.wikipedia.org/wiki/诺基亚Lumia_Icon)转换而来。
 
 
 **诺基亚Lumia Icon**(也被称为**诺基亚Lumia 929**\[1\])是一款由[诺基亚](../Page/诺基亚.md "wikilink")开发的运行[微软](../Page/微软.md "wikilink")[Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink") 系统的高端智能手机，发布于2014年2月12日。\[2\]\[3\] 是[Verizon的定制机型](https://zh.wikipedia.org/wiki/Verizon "wikilink")， 国际版为[诺基亚Lumia 930](../Page/诺基亚Lumia_930.md "wikilink")。

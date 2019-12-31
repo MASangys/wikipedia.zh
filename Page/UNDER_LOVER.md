@@ -1,4 +1,4 @@
-> 本文内容由[UNDER LOVER](https://zh.wikipedia.org/wiki/UNDER LOVER)转换而来。
+> 本文内容由[UNDER LOVER](https://zh.wikipedia.org/wiki/UNDER_LOVER)转换而来。
 
 
 **UNDER LOVER**，又稱**地下情人**，是於影音網站發跡的男子雙人組合，團員為胡睿兒與楊琳。

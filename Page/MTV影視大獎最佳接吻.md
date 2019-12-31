@@ -1,3 +1,6 @@
+> 本文内容由[MTV影視大獎最佳接吻](https://zh.wikipedia.org/wiki/MTV影視大獎最佳接吻)转换而来。
+
+
 **MTV影視大獎最佳接吻**（MTV Movie & TV Awards for Best Kiss）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳接吻場面，於1992年開始頒發。
 
 ## 歷屆得主

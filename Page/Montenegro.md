@@ -1,3 +1,6 @@
+> 本文内容由[Montenegro](https://zh.wikipedia.org/wiki/Montenegro)转换而来。
+
+
 **Montenegro**可以指：
 
 ## Montenegro (國家)

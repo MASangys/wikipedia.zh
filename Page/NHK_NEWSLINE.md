@@ -1,3 +1,6 @@
+> 本文内容由[NHK NEWSLINE](https://zh.wikipedia.org/wiki/NHK_NEWSLINE)转换而来。
+
+
 **《NHK NEWSLINE》**是[日本放送协会](https://zh.wikipedia.org/wiki/日本放送协会 "wikilink")（NHK）旗下国际频道[NHK World-Japan](../Page/NHK_World-Japan_\(頻道\).md "wikilink")（前称[NHK World TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")）的整点新闻节目，每天24小时逢整点播出（日本时间20:00除外）。
 
 ## 概况

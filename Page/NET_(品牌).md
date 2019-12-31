@@ -1,4 +1,4 @@
-> 本文内容由[NET \(品牌\)](https://zh.wikipedia.org/wiki/NET \(品牌\))转换而来。
+> 本文内容由[NET \(品牌\)](https://zh.wikipedia.org/wiki/NET_\(品牌\))转换而来。
 
 
 **NET**是[臺灣](../Page/臺灣.md "wikilink")的平價[時尚歐美休閒服飾品牌](https://zh.wikipedia.org/wiki/時尚 "wikilink")，成立於1991年。

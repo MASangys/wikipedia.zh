@@ -1,4 +1,4 @@
-> 本文内容由[SE7EN \(電視節目\)](https://zh.wikipedia.org/wiki/SE7EN \(電視節目\))转换而来。
+> 本文内容由[SE7EN \(電視節目\)](https://zh.wikipedia.org/wiki/SE7EN_\(電視節目\))转换而来。
 
 
 《**SE7EN**》是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年4月10日至6月5日逢[星期日](../Page/星期日.md "wikilink")21:30-22:30於[ViuTV](../Page/ViuTV.md "wikilink")播放第一季，第二季於2017年1月7日至3月25日逢[星期六](../Page/星期六.md "wikilink")21:30-22:30播放。

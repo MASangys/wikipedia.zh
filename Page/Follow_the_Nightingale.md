@@ -1,4 +1,4 @@
-> 本文内容由[Follow the Nightingale](https://zh.wikipedia.org/wiki/Follow the Nightingale)转换而来。
+> 本文内容由[Follow the Nightingale](https://zh.wikipedia.org/wiki/Follow_the_Nightingale)转换而来。
 
 
 《**Follow the Nightingale**》是[Kokia的第](https://zh.wikipedia.org/wiki/Kokia "wikilink")18张单曲，由[Victor Entertainment于](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")2007年11月21日发行\[1\]。单曲B面为《Say Goodbye & Good Day》，两曲分别为[任天堂DS](../Page/任天堂DS.md "wikilink")游戏《[圣洁传说](https://zh.wikipedia.org/wiki/圣洁传说 "wikilink")》的主题曲和片尾曲\[2\]。

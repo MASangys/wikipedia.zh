@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG10 The Concert: 0.TO.10 The Final \(影音專輯\)](https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_The_Final_\(影音專輯\))转换而来。
+
+
 《**BIGBANG10 The Concert：0.TO.10 -The Final-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")發售的演唱會影音專輯，本作收錄了在2016年12月29日於[大阪京瓷巨蛋的](../Page/大阪巨蛋.md "wikilink")「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」紀念演唱會現場演出、巡迴演唱會紀錄片以及特別活動「Hajimari no Sayonara」\[1\]，此次的演唱會包括在日本四個城市共16場演出總計動員了781,500人\[2\]\[3\]\[4\]。實體影音專輯於2017年3月22日發行，同年3月29日提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")。\[5\]
 
 ## 發行版本
@@ -114,19 +117,11 @@
 [Category:BIGBANG演唱會影音專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG演唱會影音專輯 "wikilink") [Category:影音專輯](https://zh.wikipedia.org/wiki/Category:影音專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

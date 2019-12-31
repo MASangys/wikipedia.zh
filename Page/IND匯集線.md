@@ -1,3 +1,6 @@
+> 本文内容由[IND匯集線](https://zh.wikipedia.org/wiki/IND匯集線)转换而来。
+
+
 **匯集線**（）是[紐約地鐵一條](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND](../Page/獨立地鐵系統.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，由的[205街至](https://zh.wikipedia.org/wiki/諾伍德-205街車站_\(IND匯集線\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[哈萊姆區的](https://zh.wikipedia.org/wiki/哈萊姆區 "wikilink")[145街](https://zh.wikipedia.org/wiki/145街車站_\(IND匯集線\) "wikilink")，是布朗克斯唯一的路線，也是布朗克斯唯一全線地下化的路線。
 
 ## 服務

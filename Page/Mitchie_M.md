@@ -1,4 +1,4 @@
-> 本文内容由[Mitchie M](https://zh.wikipedia.org/wiki/Mitchie M)转换而来。
+> 本文内容由[Mitchie M](https://zh.wikipedia.org/wiki/Mitchie_M)转换而来。
 
 
 **Mitchie M**（）\[1\]是[日本](../Page/日本.md "wikilink")的[音樂製作人](../Page/音樂製作人.md "wikilink")，主要以[VOCALOID](../Page/VOCALOID.md "wikilink")軟件[初音未來](../Page/初音未來.md "wikilink")來創作歌曲，並以製作擬真人聲為目標\[2\]。

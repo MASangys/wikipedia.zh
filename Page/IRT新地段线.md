@@ -1,3 +1,6 @@
+> 本文内容由[IRT新地段线](https://zh.wikipedia.org/wiki/IRT新地段线)转换而来。
+
+
 **新地段線**（）或**利沃尼亞大道線**（）\[1\]是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT的一條](../Page/跨區捷運公司.md "wikilink")[地鐵](../Page/地鐵.md "wikilink")路線，位於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")，由的[猶提卡大道前往](https://zh.wikipedia.org/wiki/皇冠高地-猶提卡大道車站_\(IRT東公園道線\) "wikilink")的[新地段大道](https://zh.wikipedia.org/wiki/新地段大道車站_\(IRT新地段線\) "wikilink")\[2\]\[3\]\[4\]。
 
 ## 服務形式

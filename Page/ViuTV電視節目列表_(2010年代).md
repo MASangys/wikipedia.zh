@@ -1,4 +1,4 @@
-> 本文内容由[ViuTV電視節目列表 \(2010年代\)](https://zh.wikipedia.org/wiki/ViuTV電視節目列表 \(2010年代\))转换而来。
+> 本文内容由[ViuTV電視節目列表 \(2010年代\)](https://zh.wikipedia.org/wiki/ViuTV電視節目列表_\(2010年代\))转换而来。
 
 
 本列表是[ViuTV節目列表](../Page/ViuTV節目列表.md "wikilink")的子列表，列出2010年代的[ViuTV](../Page/ViuTV.md "wikilink")的綜藝及資訊節目。

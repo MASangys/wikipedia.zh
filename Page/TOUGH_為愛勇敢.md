@@ -1,3 +1,6 @@
+> 本文内容由[TOUGH 為愛勇敢](https://zh.wikipedia.org/wiki/TOUGH_為愛勇敢)转换而来。
+
+
 **TOUGH 為愛勇敢**，是[中島美嘉](../Page/中島美嘉.md "wikilink")個人第八張原創專輯。日本地區於2017年3月22日發行。
 
 ## 概述

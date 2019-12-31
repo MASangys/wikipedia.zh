@@ -1,3 +1,6 @@
+> 本文内容由[Purple \(Mamamoo迷你專輯\)](https://zh.wikipedia.org/wiki/Purple_\(Mamamoo迷你專輯\))转换而来。
+
+
 《**Purple**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[CJ E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2017年6月22日發行，主打曲為《Yes I Am》。主打歌《Yes I Am》在音源網站MelOn上公開24小時內的使用者數累積達940,435名，寫下2018年6月以前女團的最高紀錄。\[1\]7月5日，美國告示牌公布世界專輯排行，《Purple》成功登頂，成為MAMAMOO首次拿下世界專輯榜第1位的專輯。\[2\]
 
 ## 曲目

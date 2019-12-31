@@ -1,3 +1,6 @@
+> 本文内容由[Gray \(歌手\)](https://zh.wikipedia.org/wiki/Gray_\(歌手\))转换而来。
+
+
 **Gray**（，），本名**李盛華**（），或有譯名為**李星和**，[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[說唱歌手及](https://zh.wikipedia.org/wiki/說唱歌手 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。為[朴載範](../Page/朴載範.md "wikilink")和[DJ PUMPKIN共同經營的](https://zh.wikipedia.org/wiki/DJ_PUMPKIN "wikilink")[AOMG](../Page/AOMG.md "wikilink")旗下歌手之一\[1\]。與[Loco](../Page/Loco.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、及[Crush等歌手共同所屬於VV](../Page/Crush_\(歌手\).md "wikilink"):D crew。
 
 ## 音乐作品

@@ -1,3 +1,6 @@
+> 本文内容由[NIRF](https://zh.wikipedia.org/wiki/NIRF)转换而来。
+
+
 **NIRF**（Np95/ICBP90-like RING finger protein） 是由[日本](../Page/日本.md "wikilink")[福岛医科大学](https://zh.wikipedia.org/wiki/福岛医科大学 "wikilink") Kochi 教授于2002 年新发现的核蛋白，基因定位于 9p24.1。NIRF 蛋白全长含有802个氨基酸残基，包含了 UBL（ubiquitin-like domain）、PHD、YDG/SRA 和 RING finger 四个结构域，同时还有一个Rb结合位点。其分子结构与鼠 NP95 和人 ICBP90 蛋白结构相似，NIRF 还具有E3（ubiquitin / UBL． protein ligase，泛素/类泛素连接酶）的功能，也能发生自身泛素化，现已探明该蛋白能与 Cdk2-cyclin E2 结合，还能参与 PCNP（PEST-containing nuclear protein）的泛素化。研究也发现 NIRF 能与 P53 蛋白相互结合，是 P53 蛋白的一个 E3-ligase，从而表明NIRF 可能与真核细胞的调控与增殖密切相关。
 
 ## 参考文献

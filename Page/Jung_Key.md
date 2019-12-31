@@ -1,3 +1,6 @@
+> 本文内容由[Jung Key](https://zh.wikipedia.org/wiki/Jung_Key)转换而来。
+
+
 **Jung Key**\[1\]（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[作詞人及](https://zh.wikipedia.org/wiki/作詞人 "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。\[2\]
 
 ## 音樂作品

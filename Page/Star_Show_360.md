@@ -1,3 +1,6 @@
+> 本文内容由[Star Show 360](https://zh.wikipedia.org/wiki/Star_Show_360)转换而来。
+
+
 **Star Show 360**（）是在[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")频道播出的[綜藝節目](../Page/綜藝節目.md "wikilink")。节目在每周一下午5:30播出并在下午11:10重播，共8集。由[利特](../Page/利特.md "wikilink")和担任主持。\[1\]
 
 ## 主持

@@ -1,4 +1,4 @@
-> 本文内容由[Super Nintendo Entertainment System游戏列表](https://zh.wikipedia.org/wiki/Super Nintendo Entertainment System游戏列表)转换而来。
+> 本文内容由[Super Nintendo Entertainment System游戏列表](https://zh.wikipedia.org/wiki/Super_Nintendo_Entertainment_System游戏列表)转换而来。
 
 
 [SNES-Mod1-Console-Set.png](https://zh.wikipedia.org/wiki/File:SNES-Mod1-Console-Set.png "fig:SNES-Mod1-Console-Set.png")

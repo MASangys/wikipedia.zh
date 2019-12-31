@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG The Non Stop MIX](https://zh.wikipedia.org/wiki/BIGBANG_The_Non_Stop_MIX)转换而来。
+
+
 《**BIGBANG The Non Stop MIX**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG的](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[日本](../Page/日本.md "wikilink")首張混音[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由[日本環球音樂製作發行](../Page/環球音樂_\(日本\).md "wikilink")，於2012年4月4日在日本推出。
 
 ## 概要

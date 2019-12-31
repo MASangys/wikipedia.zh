@@ -1,3 +1,6 @@
+> 本文内容由[TWICELAND](https://zh.wikipedia.org/wiki/TWICELAND)转换而来。
+
+
 TWICELAND是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2017年開始舉辦的一系列單獨巡迴演唱會。而首部曲[TWICELAND - The Opening -正式於](../Page/TWICELAND_-_The_Opening_-.md "wikilink")2017年2月17在韓國首爾開唱，為巡迴演唱會拉開帷幕。
 
 ## 巡迴演唱會

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Ancient Olympiads](https://zh.wikipedia.org/wiki/模块:Ancient_Olympiads)转换而来。
+
+
 \-- This module implements . It converts a year in the Julian -- calendar to the equivalent year of the ancient Greek era organized by Olympiads.
 
 local data = mw.loadData( 'Module:Ancient Olympiads/data' ) local lang = mw.language.getContentLanguage()

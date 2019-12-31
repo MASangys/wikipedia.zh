@@ -1,3 +1,6 @@
+> 本文内容由[OTA位图](https://zh.wikipedia.org/wiki/OTA位图)转换而来。
+
+
 **OTA位图**（**OTA Bitmap**）是[诺基亚](../Page/诺基亚.md "wikilink")（Nokia）为手机上的黑白图像定义的一个规范。
 
 ## 引入

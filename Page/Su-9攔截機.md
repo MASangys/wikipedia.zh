@@ -1,3 +1,6 @@
+> 本文内容由[Su-9攔截機](https://zh.wikipedia.org/wiki/Su-9攔截機)转换而来。
+
+
 [蘇霍伊Su](../Page/苏霍伊航空集团.md "wikilink")-9攔截機，[北約代號](../Page/北約代號.md "wikilink")「捕魚籠」（Fishpot），是[蘇聯研發的單引擎全天候攔截機](../Page/苏联.md "wikilink"),曾配發於[蘇聯國土防空軍](https://zh.wikipedia.org/wiki/蘇聯國土防空軍 "wikilink")。\[1\]
 
 ## 開發

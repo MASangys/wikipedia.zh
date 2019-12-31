@@ -1,3 +1,6 @@
+> 本文内容由[2009年Sidekick數據丟失事件](https://zh.wikipedia.org/wiki/2009年Sidekick數據丟失事件)转换而来。
+
+
 **2009年Sidekick數據丟失事件**导致约800000名[美国](../Page/美国.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")用户暂时失去个人数据，丟失的数据包括他们的行動電話中的电子邮件、通訊錄和照片。于本次事件中丟失数据的[服务器](../Page/服务器.md "wikilink")是由微软运营的\[1\]。受影響的手機品牌为[Danger Hiptop](https://zh.wikipedia.org/wiki/Danger_Hiptop "wikilink")，也被稱為“**Sidekick**”，透過[T-Mobile](../Page/T-Mobile.md "wikilink")[蜂窩網絡連線](../Page/蜂窝网络.md "wikilink")。此事件于当时是[雲端運算](../Page/雲端運算.md "wikilink")史中最大的灾难\[2\]。 [右](https://zh.wikipedia.org/wiki/File:SidekickII.jpg "fig:右") Sidekick智能手機起初由[危险公司](https://zh.wikipedia.org/wiki/危险公司 "wikilink")（Danger, Inc.）生產。微軟于2007年2月收購的该公司，收購後，前危险公司人員被聘请到微軟娛樂和裝置部門的行動通訊業務（MCB），他們在微軟手機平台“[Microsoft Kin](../Page/Microsoft_Kin.md "wikilink")”計畫进行研制\[3\]。不過，大部分前危险公司的員工很快就離開了微軟公司。\[4\] Microsoft接手了數據服務伺服器的運行工作，其數據中心在数据丟失时託管了客戶數據。\[5\]
 
 2009年9月底，T-Mobile Sidekick手機用戶開始注意到數據服務的中斷。數據中斷時間持續了大約兩週。2009年10月10日，T-Mobile宣布存儲在Sidekick手機上的個人信息將永久性丟失，但这说法后来被推翻。\[6\]

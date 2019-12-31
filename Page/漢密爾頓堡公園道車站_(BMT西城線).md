@@ -1,3 +1,6 @@
+> 本文内容由[漢密爾頓堡公園道車站 \(BMT西城線\)](https://zh.wikipedia.org/wiki/漢密爾頓堡公園道車站_\(BMT西城線\))转换而来。
+
+
 **漢密爾頓堡公園道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[自治市公園漢密爾頓堡公園道及新烏得勒支大道交界](https://zh.wikipedia.org/wiki/自治市公園_\(布魯克林\) "wikilink")，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
@@ -66,12 +69,8 @@
 [Category:BMT西城線車站](https://zh.wikipedia.org/wiki/Category:BMT西城線車站 "wikilink") [Category:布魯克林紐約地鐵車站](https://zh.wikipedia.org/wiki/Category:布魯克林紐約地鐵車站 "wikilink") [Category:1916年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1916年啟用的鐵路車站 "wikilink") [Category:1916年紐約州建立](https://zh.wikipedia.org/wiki/Category:1916年紐約州建立 "wikilink")
 
 1.
-
 2.
-
 3.  <https://www.loc.gov/resource/g3804nm.gla00188/?sp=15>
-
 4.
 5.
-
 6.

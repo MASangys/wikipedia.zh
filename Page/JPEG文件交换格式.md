@@ -1,3 +1,6 @@
+> 本文内容由[JPEG文件交换格式](https://zh.wikipedia.org/wiki/JPEG文件交换格式)转换而来。
+
+
 **JPEG文件交换格式**（**JPEG File Interchange Format**，**JFIF**）是一个[图像文件格式标准](https://zh.wikipedia.org/wiki/图像文件格式 "wikilink")。它是一种交换符合[JPEG](../Page/JPEG.md "wikilink")交换格式（JIF）标准的[JPEG](../Page/JPEG.md "wikilink")编码文件的格式。它解决了JIF在简单JPEG编码文件交换方面的一些限制。与所有符合JIF的文件一样，JFIF文件中的图像数据使用[JPEG](../Page/JPEG.md "wikilink")标准的技术压缩，因此JFIF有时被称为“JPEG/JFIF”。
 
 ## 目的

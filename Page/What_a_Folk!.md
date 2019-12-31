@@ -1,3 +1,6 @@
+> 本文内容由[What a Folk!](https://zh.wikipedia.org/wiki/What_a_Folk!)转换而来。
+
+
 《**What a Folk\!\!\!\!\!\!**》是[台灣男歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[盧廣仲](../Page/盧廣仲.md "wikilink")的第五張全創作[專輯](../Page/音樂專輯.md "wikilink"), 於2016年6月7日發行，以民謠元素為基底，在編曲上對吉他有更深一層的探究，盧廣仲說：「我想要做一張不管是在家或是旅行，都可以聽一整天的民謠專輯。」\[1\]日本版專輯於2017年8月23日發行, 收錄限定 Bonus Track 一首「一定要相信自己」日文版「いつも信じて」，由[川島小鳥](../Page/川島小鳥.md "wikilink")填詞。\[2\]。
 
 ## 曲目

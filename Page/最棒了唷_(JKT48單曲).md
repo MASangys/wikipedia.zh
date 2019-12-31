@@ -1,3 +1,6 @@
+> 本文内容由[最棒了唷 \(JKT48單曲\)](https://zh.wikipedia.org/wiki/最棒了唷_\(JKT48單曲\))转换而来。
+
+
 《**Saikou ka yo**》（Luar Biasa）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48](../Page/JKT48.md "wikilink")的第15張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")。单曲於2016年12月21日日由發行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《LOVE TRIP》實際上就是姊妹團體[HKT48](../Page/HKT48.md "wikilink")的第8张單曲《[最棒了唷](../Page/最棒了唷.md "wikilink")》，只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要

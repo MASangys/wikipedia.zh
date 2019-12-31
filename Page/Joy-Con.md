@@ -1,3 +1,6 @@
+> 本文内容由[Joy-Con](https://zh.wikipedia.org/wiki/Joy-Con)转换而来。
+
+
 **Joy-Con**是[任天堂Switch](../Page/任天堂Switch.md "wikilink")游戏机的主要[控制器](https://zh.wikipedia.org/wiki/控制器 "wikilink")。它分为独立的两只，每只都含一个类比摇杆和一组按键。Joy-Con可以装在任天堂Switch主机上使用，也可以卸下来无线链接主机使用；分离时一对Joy-Con可供一名玩家使用，也可供两名玩家各用一只。
 
 ## 设计

@@ -1,4 +1,4 @@
-> 本文内容由[SpaceX CRS-7](https://zh.wikipedia.org/wiki/SpaceX CRS-7)转换而来。
+> 本文内容由[SpaceX CRS-7](https://zh.wikipedia.org/wiki/SpaceX_CRS-7)转换而来。
 
 
 **SpaceX CRS-7**，是指[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")（SpaceX）向[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（NASA）承包的第7次[商業補給服務](https://zh.wikipedia.org/wiki/商業補給服務 "wikilink")（CRS）\[1\]，意即對[国际空间站](../Page/国际空间站.md "wikilink")進行貨物補給的任務，於2015年6月28日執行，但在升空到（最大[動壓](https://zh.wikipedia.org/wiki/動壓 "wikilink")）不久後即發生爆炸\[2\]。

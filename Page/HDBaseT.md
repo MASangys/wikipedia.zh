@@ -1,3 +1,6 @@
+> 本文内容由[HDBaseT](https://zh.wikipedia.org/wiki/HDBaseT)转换而来。
+
+
 **HDBaseT**是由HDBaseT联盟推广和推进的[消費電子產品](../Page/消費電子產品.md "wikilink")和商业连接标准，它可通过（[Cat5e或更高](../Page/CAT-5.md "wikilink")）传输未压缩（HD）、音频、[电能](https://zh.wikipedia.org/wiki/电能 "wikilink")、、[以太网](../Page/以太网.md "wikilink")、[USB](../Page/USB.md "wikilink")和一些控制信号，其使用与[以太网](../Page/以太网.md "wikilink")相同的。\[1\]
 
 ## 参见

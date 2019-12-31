@@ -1,3 +1,6 @@
+> 本文内容由[UDP tracker](https://zh.wikipedia.org/wiki/UDP_tracker)转换而来。
+
+
 **UDP tracker**[协议是一个高性能](../Page/网络传输协议.md "wikilink")、低开销的[BitTorrent tracker协议](https://zh.wikipedia.org/wiki/BitTorrent_tracker "wikilink")。它使用无状态的[用户数据报协议](../Page/用户数据报协议.md "wikilink")（UDP）而非通过[传输控制协议](../Page/传输控制协议.md "wikilink")（TCP）的[HTTP传输与Tracker通信的数据](https://zh.wikipedia.org/wiki/HTTP "wikilink")，且数据采用自定义的二进制格式而不是BitTorrent标准的用于大多数通信的[bencode算法](https://zh.wikipedia.org/wiki/bencode "wikilink")。
 
 此协议的[URL为下列格式](../Page/统一资源定位符.md "wikilink")：<udp://tracker:port>。

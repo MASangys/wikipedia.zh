@@ -1,3 +1,6 @@
+> 本文内容由[Emmet](https://zh.wikipedia.org/wiki/Emmet)转换而来。
+
+
 **Emmet**（以前名为**Zen Coding**\[1\]）是一套面向[文本编辑器](../Page/文本编辑器.md "wikilink")的[插件](../Page/插件.md "wikilink")，它允许通过[内容辅助](../Page/内容辅助.md "wikilink")高速度的编写和编辑[HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink")、[XSL和其他结构化的代码格式](../Page/可扩展样式语言.md "wikilink")。此项目2008年由Vadim Makeev发起\[2\]，并由Sergey Chikuyonok和其他Emmet用户基于Zen Coding 2.0的概念继续积极开发。\[3\]这套工具已经被一些高端的文本编辑器采纳，以及存在于Emmet团队开发或其他人独立实现的插件中。不过，Emmet独立于任何文本编辑器，它的引擎可以直接处理文本，而无需与任何特定软件相关。\[4\]
 
 Emmet以[MIT許可證](../Page/MIT許可證.md "wikilink")开源。

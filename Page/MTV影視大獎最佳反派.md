@@ -1,3 +1,6 @@
+> 本文内容由[MTV影視大獎最佳反派](https://zh.wikipedia.org/wiki/MTV影視大獎最佳反派)转换而来。
+
+
 **MTV影視大獎最佳反派**（MTV Movie & TV Award for Best Villain）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給於電影中有出色表現的反派，於1992年開始頒發。
 
 其中第8屆有兩位演員共同獲得此獎，分別是[麥·迪倫](../Page/麥·迪倫.md "wikilink")和[斯蒂芬·多爾夫](../Page/斯蒂芬·多爾夫.md "wikilink")。

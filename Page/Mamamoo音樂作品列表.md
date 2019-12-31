@@ -1,3 +1,6 @@
+> 本文内容由[Mamamoo音樂作品列表](https://zh.wikipedia.org/wiki/Mamamoo音樂作品列表)转换而来。
+
+
 《**Mamamoo音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Mamamoo](../Page/Mamamoo.md "wikilink")歷年發行之各類音樂作品。
 
 ## 韓語

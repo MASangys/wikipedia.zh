@@ -1,3 +1,6 @@
+> 本文内容由[硫酸铈\(III\)铵](https://zh.wikipedia.org/wiki/硫酸铈\(III\)铵)转换而来。
+
+
 **硫酸铈(III)铵**是一种无机化合物，[化学式](../Page/化学式.md "wikilink")为NH<sub>4</sub>Ce(SO<sub>4</sub>)<sub>2</sub>。
 
 ## 制备

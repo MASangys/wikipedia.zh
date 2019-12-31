@@ -1,4 +1,4 @@
-> 本文内容由[GCl 38](https://zh.wikipedia.org/wiki/GCl 38)转换而来。
+> 本文内容由[GCl 38](https://zh.wikipedia.org/wiki/GCl_38)转换而来。
 
 
 {{ Infobox globular cluster | name = GCl 38 | image = | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | class = | constellation = [武仙座](../Page/武仙座.md "wikilink") | ra = \[1\] | dec = \[2\] | dist_ly =  | dist_pc = \[3\] | appmag_v = 14.7\[4\] | size_v = | mass_kg = | mass_msol = | radius_ly = | v_hb = 20.0\[5\] | age = \[6\] | absmag_v = | notes = | names = Palomar 14, Arp 1, \[7\] }}

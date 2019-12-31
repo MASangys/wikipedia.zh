@@ -1,3 +1,6 @@
+> 本文内容由[Theatre Academy](https://zh.wikipedia.org/wiki/Theatre_Academy)转换而来。
+
+
 **戏剧学院公司**（，）是[日本](../Page/日本.md "wikilink")一所综合演员培训机构及[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")。
 
 ## 公司简介

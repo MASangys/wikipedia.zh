@@ -1,3 +1,6 @@
+> 本文内容由[Mad Dog](https://zh.wikipedia.org/wiki/Mad_Dog)转换而来。
+
+
 《**Mad Dog**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2017年10月11日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[浪漫小鎮](../Page/浪漫小鎮.md "wikilink")》[黃義慶](../Page/黃義慶.md "wikilink")導演執導與金秀珍作家合作打造。\[1\]此劇講述不同的保險犯罪案件，以揭露韓國社會真實現象的故事。\[2\]\[3\]\[4\]。
 
 ## 演員陣容
@@ -57,7 +60,7 @@
 </tbody>
 </table>
 
-### 韓國航空
+### 周韓航空
 
 <table style="width:70%;">
 <colgroup>
@@ -77,7 +80,7 @@
 <td><p><a href="../Page/崔元英.md" title="wikilink">崔元英</a></p></td>
 <td><p>朱賢基</p></td>
 <td><p><a href="../Page/陳健豪.md" title="wikilink">陳健豪</a></p></td>
-<td><p>財閥三世，韓國航空母公司韓國航空運輸集團JH的副主席。</p></td>
+<td><p>財閥三世，周韓航空母公司周韓航空運輸集團JH的副主席。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金永勳.md" title="wikilink">金永勳</a></p></td>

@@ -1,4 +1,4 @@
-> 本文内容由[Winter diary ～A7 Classical～](https://zh.wikipedia.org/wiki/Winter diary ～A7 Classical～)转换而来。
+> 本文内容由[Winter diary ～A7 Classical～](https://zh.wikipedia.org/wiki/Winter_diary_～A7_Classical～)转换而来。
 
 
 《**Winter diary ～A7 Classical～**》（Winter diary〜A7古典精選〜）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的[古典](../Page/古典音乐.md "wikilink")[混音](../Page/混音.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2015年12月23日在[日本](../Page/日本.md "wikilink")發行。

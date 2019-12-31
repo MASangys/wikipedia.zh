@@ -1,4 +1,4 @@
-> 本文内容由[Yesterday and Today](https://zh.wikipedia.org/wiki/Yesterday and Today)转换而来。
+> 本文内容由[Yesterday and Today](https://zh.wikipedia.org/wiki/Yesterday_and_Today)转换而来。
 
 
 </ref> }} 《》（可译作《昨天和今天》）是[英国摇滚乐队](https://zh.wikipedia.org/wiki/英国 "wikilink")[披头士由](https://zh.wikipedia.org/wiki/披头士 "wikilink")[Capitol唱片发行的第九张录音室专辑](https://zh.wikipedia.org/wiki/Capitol唱片 "wikilink")。在60年代，它只在美国，加拿大发行，但在70年代，它在日本有过发行。这张专辑的原始封面引起了巨大的争议，在原始封面上，披头士乐队的成员身穿白色工作服，四周与身体上布满了断头娃娃和肉块。这张专辑的名字来源于歌曲《》（可译作“昨天”）。在专辑的早期封面上，单词“昨天”被加上了引号。

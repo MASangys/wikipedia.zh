@@ -1,4 +1,4 @@
-> 本文内容由[CODE - 秘密的房间](https://zh.wikipedia.org/wiki/CODE - 秘密的房间)转换而来。
+> 本文内容由[CODE - 秘密的房间](https://zh.wikipedia.org/wiki/CODE_-_秘密的房间)转换而来。
 
 
 《**CODE - 秘密的房間**》（；）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的一檔密室解謎類遊戲節目，韓國時間每周五晚上11:00播出。\[1\]

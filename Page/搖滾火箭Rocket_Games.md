@@ -1,3 +1,6 @@
+> 本文内容由[搖滾火箭Rocket Games](https://zh.wikipedia.org/wiki/搖滾火箭Rocket_Games)转换而来。
+
+
 **搖滾火箭Rocket Games**，簡稱**搖滾火箭**，是[雷爵網絡科技](../Page/雷爵網絡科技.md "wikilink")旗下手機遊戲平台，於2017年7月成立，並於2017年中國國際數碼互動娛樂展覽會[ChinaJoy](../Page/ChinaJoy.md "wikilink")首次對外公布形象，未來將會在上面推出全新的手遊作品，與雷爵本身發行的作品做出區隔。\[1\]\[2\]
 
 ## 品牌歷史

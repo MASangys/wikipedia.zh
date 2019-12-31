@@ -1,4 +1,4 @@
-> 本文内容由[Psyche Voice](https://zh.wikipedia.org/wiki/Psyche Voice)转换而来。
+> 本文内容由[Psyche Voice](https://zh.wikipedia.org/wiki/Psyche_Voice)转换而来。
 
 
 《**Psyche Voice**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[J.Arie的第二張音樂專輯](https://zh.wikipedia.org/wiki/J.Arie "wikilink")，於2014年11月25日推出。

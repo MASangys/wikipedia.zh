@@ -1,4 +1,4 @@
-> 本文内容由[PAM Development](https://zh.wikipedia.org/wiki/PAM Development)转换而来。
+> 本文内容由[PAM Development](https://zh.wikipedia.org/wiki/PAM_Development)转换而来。
 
 
 **PAM Development**，又称**Power and Magic Development**，是总部设在法国巴黎的一家游戏开发商。公司成立于1995年，在2006年被[Take Two Interactive收购](https://zh.wikipedia.org/wiki/Take_Two_Interactive "wikilink")。\[1\]\[2\]\[3\]

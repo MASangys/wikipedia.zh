@@ -1,4 +1,4 @@
-> 本文内容由[Teddy Go!](https://zh.wikipedia.org/wiki/Teddy Go!)转换而来。
+> 本文内容由[Teddy Go!](https://zh.wikipedia.org/wiki/Teddy_Go!)转换而来。
 
 
 《**Teddy Go\!**》（） ，2015年10月10日起每周六23:40 - 0:05（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[富士電視台](../Page/富士電視台.md "wikilink")播出的「[六劇](../Page/六劇.md "wikilink")」，改編自的小說，此劇亦是[森川葵](../Page/森川葵.md "wikilink")個人初次主演連續劇\[1\]。

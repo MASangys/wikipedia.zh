@@ -1,4 +1,4 @@
-> 本文内容由[J9 新歌＋Party精選](https://zh.wikipedia.org/wiki/J9 新歌＋Party精選)转换而来。
+> 本文内容由[J9 新歌＋Party精選](https://zh.wikipedia.org/wiki/J9_新歌＋Party精選)转换而来。
 
 
 《**J9 新歌+Party精選**》是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第二張[混音](../Page/混音.md "wikilink")專輯，由[新力音樂於](../Page/台灣索尼音樂娛樂.md "wikilink")2004年11月12日發行。該專輯內容包括蔡依林於新力音樂時期的8首歌曲的混音版本與2首新歌；專輯中的歌曲《招牌動作》於[Hit FM年度百首單曲排行榜位居第](../Page/Hit_FM聯播網.md "wikilink")61名\[1\]。

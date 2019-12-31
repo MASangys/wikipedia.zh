@@ -1,3 +1,6 @@
+> 本文内容由[Blendtec](https://zh.wikipedia.org/wiki/Blendtec)转换而来。
+
+
 **Blendtec**是[美國一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[攪拌機製造商](https://zh.wikipedia.org/wiki/攪拌機 "wikilink")，為K-TEC公司的部門之一，創始人為[Tom Dickson](../Page/Will_It_Blend?.md "wikilink")。成立於1975年，總部位於[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")[奧勒姆](https://zh.wikipedia.org/wiki/奧勒姆_\(猶他州\) "wikilink")\[1\]\[2\]\[3\]。其以系列廣告「*[Will It Blend?](../Page/Will_It_Blend?.md "wikilink")*」的[病毒式行銷聞名](https://zh.wikipedia.org/wiki/病毒式行銷 "wikilink")\[4\]。
 
 2013年7月，Blendtec以Blendtec Signature Series™和Stealth®攪拌機系列的創新榮獲2013年金獎創新獎。\[5\]Blendtec也是營養品公司Blendfresh™的母公司，該公司於2014年7月14日開始運營。\[6\]

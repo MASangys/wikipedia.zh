@@ -1,4 +1,4 @@
-> 本文内容由[星光少男 KING OF PRISM](https://zh.wikipedia.org/wiki/星光少男 KING OF PRISM)转换而来。
+> 本文内容由[星光少男 KING OF PRISM](https://zh.wikipedia.org/wiki/星光少男_KING_OF_PRISM)转换而来。
 
 
 《**KING OF PRISM**》是一輯動畫电影系列，包含了二部电影－「**星光少男 KING OF PRISM by PrettyRhythm**」和「**星光少男 KING OF PRISM PRIDE the HERO**」，以及一部動畫「**星光王子 KING OF PRISM -Shiny Seven Stars**」\[1\]。

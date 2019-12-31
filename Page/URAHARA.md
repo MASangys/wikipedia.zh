@@ -1,3 +1,6 @@
+> 本文内容由[URAHARA](https://zh.wikipedia.org/wiki/URAHARA)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")動畫公司[白組](../Page/白組.md "wikilink")與[EMT Squared共同製作的](../Page/EMT_Squared.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2017年10月至12月在[TOKYO MX](../Page/東京都會電視台.md "wikilink")、[AbemaTV](../Page/AbemaTV.md "wikilink")及[BS富士](../Page/BS富士.md "wikilink")首播。動畫的原作是2015年5月起於[Crunchyroll](../Page/Crunchyroll.md "wikilink")連載的插圖小說"PARK Harajuku: Crisis Team！"\[1\]\[2\]\[3\]，該小說是Crunchyroll和位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[原宿](../Page/原宿.md "wikilink")的零售商店PARK\[4\]共同推出的企劃。
 
 ## 故事簡介
@@ -291,13 +294,9 @@ STUDIO MASSKET</p></td>
 [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -310,13 +309,8 @@ STUDIO MASSKET</p></td>
 14.
 15.
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.

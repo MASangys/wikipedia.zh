@@ -1,4 +1,4 @@
-> 本文内容由[DOS MZ可执行文件](https://zh.wikipedia.org/wiki/DOS MZ可执行文件)转换而来。
+> 本文内容由[DOS MZ可执行文件](https://zh.wikipedia.org/wiki/DOS_MZ可执行文件)转换而来。
 
 
 **DOS MZ可执行文件**（）格式是[DOS](../Page/DOS.md "wikilink")中的.EXE[可执行文件格式](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。

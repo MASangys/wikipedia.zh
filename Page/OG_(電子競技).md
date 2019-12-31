@@ -1,3 +1,6 @@
+> 本文内容由[OG \(電子競技\)](https://zh.wikipedia.org/wiki/OG_\(電子競技\))转换而来。
+
+
 **OG**是一支来自欧洲的[Dota 2電子競技戰隊](../Page/Dota_2.md "wikilink")，组建于2015年。OG战队为人所知的成绩是于建队后一个月内即夺得[2015年法兰克福特级锦标赛的冠军](https://zh.wikipedia.org/wiki/2015年法兰克福特级锦标赛 "wikilink")，并于2018年与2019年连续两年夺得了[Dota 2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，成为了Dota 2国际邀请赛上第一支双冠王队伍与第一支连续两年夺得冠军的卫冕队伍。
 
 ## 历史

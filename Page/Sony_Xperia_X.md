@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia X](https://zh.wikipedia.org/wiki/Sony_Xperia_X)转换而来。
+
+
 **Sony Xperia X**是[索尼](../Page/索尼.md "wikilink")於2016年2月22日在MWC發表的手機，同時發佈了同為X系列的[Sony Xperia XA](../Page/Sony_Xperia_XA.md "wikilink")。XA搭載5吋螢幕、MediaTek helio™ P10處理器、2GB記憶體、搭载全新1300万像素Exmor RS相机模组，支持混合对焦，激光自动对焦。
 
 ## 设计

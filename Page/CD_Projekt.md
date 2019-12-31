@@ -1,4 +1,4 @@
-> 本文内容由[CD Projekt](https://zh.wikipedia.org/wiki/CD Projekt)转换而来。
+> 本文内容由[CD Projekt](https://zh.wikipedia.org/wiki/CD_Projekt)转换而来。
 
 
 | ISIN = PLOPTTC00011 | area_served = 全球 | key_people = 亚当·季辛斯基（）<small>（总裁、CEO）</small>

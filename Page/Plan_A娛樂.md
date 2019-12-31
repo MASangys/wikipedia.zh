@@ -1,4 +1,4 @@
-> 本文内容由[Plan A娛樂](https://zh.wikipedia.org/wiki/Plan A娛樂)转换而来。
+> 本文内容由[Plan A娛樂](https://zh.wikipedia.org/wiki/Plan_A娛樂)转换而来。
 
 
 **Plan A娛樂**（），前稱**A Cube娛樂**（），是於2011年在[韓國創辦的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營娛樂製作及藝人管理。2015年，[LOEN娛樂收購](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")70%股份，成為旗下子公司。2018年，[Kakao M收購餘下](../Page/Kakao_M.md "wikilink")30%股份，成为全资子公司。2019年，[Kakao M旗下子公司Plan](../Page/Kakao_M.md "wikilink") A娛樂與[FAVE娛樂合併](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")，新公司名為**[Play M娛樂](https://zh.wikipedia.org/wiki/Play_M娛樂 "wikilink")**（）。

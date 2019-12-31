@@ -1,4 +1,4 @@
-> 本文内容由[模块:Color contrast](https://zh.wikipedia.org/wiki/模块:Color contrast)转换而来。
+> 本文内容由[模块:Color contrast](https://zh.wikipedia.org/wiki/模块:Color_contrast)转换而来。
 
 
 \-- -- This module implements --  --  --  --  -- local p = {} local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )

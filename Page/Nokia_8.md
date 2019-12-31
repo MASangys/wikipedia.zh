@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 8](https://zh.wikipedia.org/wiki/Nokia_8)转换而来。
+
+
 **Nokia 8**\[1\]是一款运行[Android Nougat操作系统的诺基亚品牌高阶机](../Page/Android_Nougat.md "wikilink")。这是[HMD Global推出的首款旗舰机型](../Page/HMD_Global.md "wikilink")。\[2\]\[3\]此款手机于2017年8月16日在[伦敦](../Page/伦敦.md "wikilink")发布\[4\]，9月6日在欧洲开始发售。其改进版本**[Nokia 8 Sirocco](../Page/Nokia_8_Sirocco.md "wikilink")**于2018年2月25日在[西班牙](../Page/西班牙.md "wikilink")[巴塞罗那举办的](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink")[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")上发布。\[5\]
 
 ## 规格

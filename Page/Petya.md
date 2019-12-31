@@ -1,3 +1,6 @@
+> 本文内容由[Petya](https://zh.wikipedia.org/wiki/Petya)转换而来。
+
+
 [PetyaA.jpg](https://zh.wikipedia.org/wiki/File:PetyaA.jpg "fig:PetyaA.jpg") **Petya**是一种在2016年被首次发现的[勒索軟體](../Page/勒索軟體.md "wikilink")\[1\]。2017年6月，Petya的一个新变种「NotPetya」被用于发动一次的[网络攻击](https://zh.wikipedia.org/wiki/攻擊_\(電腦\) "wikilink")。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 [Petya.Random.png](https://zh.wikipedia.org/wiki/File:Petya.Random.png "fig:Petya.Random.png") 此次攻击类似在2017年5月爆发的[WannaCry](../Page/WannaCry.md "wikilink")勒索攻击，两者都利用同一个已修复的Windows安全漏洞——[EternalBlue](../Page/永恒之蓝.md "wikilink")（永恒之蓝）。\[8\][乌克兰](../Page/乌克兰.md "wikilink")可能是此次事件中遭受最严重影响的国家。\[9\]有观点认为此次网络攻击是对乌克兰的一次政治目的的攻击\[10\]，论据是6月28日为[乌克兰人的](https://zh.wikipedia.org/wiki/乌克兰人 "wikilink")[公众假期](https://zh.wikipedia.org/wiki/公众假期 "wikilink")。\[11\]

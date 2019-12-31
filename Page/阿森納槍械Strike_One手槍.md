@@ -1,3 +1,6 @@
+> 本文内容由[阿森納槍械Strike One手槍](https://zh.wikipedia.org/wiki/阿森納槍械Strike_One手槍)转换而来。
+
+
 **阿森納槍械“STRIKE ONE”** 手槍（，也被簡稱為：AF1）是一種由[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")於2012年推出的[聚合物](../Page/聚合物.md "wikilink")或[7075鋁合金](../Page/7075鋁合金.md "wikilink")製[擊針平移式](https://zh.wikipedia.org/wiki/擊針平移式 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")\[1\] 。該槍在俄語中被稱為“Стриж”（Strizh），為“迅速”或“雨燕”的意思。
 
 ## 設計

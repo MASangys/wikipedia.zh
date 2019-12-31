@@ -1,3 +1,6 @@
+> 本文内容由[B咖流氓](https://zh.wikipedia.org/wiki/B咖流氓)转换而来。
+
+
 是一部2015年美國劇情電影，由[尼克·桑多](../Page/尼克·桑多.md "wikilink")編劇和執導。本片主演是[柏翠茜·雅格](https://zh.wikipedia.org/wiki/柏翠茜·雅格 "wikilink")、、[多門尼克·隆巴多西](../Page/多門尼克·隆巴多西.md "wikilink")、[米高·伊派里奧里](../Page/米高·伊派里奧里.md "wikilink")、[文森特·皮亞扎和](https://zh.wikipedia.org/wiki/文森特·皮亞扎 "wikilink")[尼克·桑多](../Page/尼克·桑多.md "wikilink")。本片於2015年12月4日由和發行商負責上映。
 
 ## 演員

@@ -1,3 +1,6 @@
+> 本文内容由[Android KitKat](https://zh.wikipedia.org/wiki/Android_KitKat)转换而来。
+
+
 **Android KitKat**是[Google](../Page/Google.md "wikilink")繼Android Jelly Bean之後開發的[Android](../Page/Android.md "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，於2013年10月正式發佈。原始開發代號為Key Lime Pie（酸檸派），而正式代號為KitKat（[奇巧](https://zh.wikipedia.org/wiki/奇巧 "wikilink")）。
 
 ## 參見

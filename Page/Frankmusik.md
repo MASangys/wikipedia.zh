@@ -1,3 +1,6 @@
+> 本文内容由[Frankmusik](https://zh.wikipedia.org/wiki/Frankmusik)转换而来。
+
+
 **Frankmusik**（），本名**文森·詹姆斯·特納**（），出生於英國，是名[流行電音音樂人](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[音樂製作人](../Page/音樂製作人.md "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")。
 
 ## 唱片

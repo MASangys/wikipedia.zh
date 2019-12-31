@@ -1,3 +1,6 @@
+> 本文内容由[Refeia](https://zh.wikipedia.org/wiki/Refeia)转换而来。
+
+
 **refeia**，[日本](../Page/日本.md "wikilink")男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")。2007年以前別名**巳島**（）或**巳島**。
 
 代表是目前續刊中的《》、《[聖劍使的禁咒詠唱](https://zh.wikipedia.org/wiki/聖劍使的禁咒詠唱 "wikilink")》（兩部都由[淡群赤光](../Page/淡群赤光.md "wikilink")著作，後者曾在2015年1月至3月播出同名電視動畫）。

@@ -1,3 +1,6 @@
+> 本文内容由[HBeAg](https://zh.wikipedia.org/wiki/HBeAg)转换而来。
+
+
 [Hepatitis_B_virus_v2.svg](https://zh.wikipedia.org/wiki/File:Hepatitis_B_virus_v2.svg "fig:Hepatitis_B_virus_v2.svg") [HBV_Genome.svg](https://zh.wikipedia.org/wiki/File:HBV_Genome.svg "fig:HBV_Genome.svg") **HBeAg**是[乙型肝炎的一種](https://zh.wikipedia.org/wiki/乙型肝炎 "wikilink")[病毒蛋白](https://zh.wikipedia.org/wiki/病毒蛋白 "wikilink")，為病毒活躍複製的指標。如果個體身上存在此種蛋白，則有可能傳播病毒。
 
 ## 結構

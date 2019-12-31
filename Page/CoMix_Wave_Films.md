@@ -1,3 +1,6 @@
+> 本文内容由[CoMix Wave Films](https://zh.wikipedia.org/wiki/CoMix_Wave_Films)转换而来。
+
+
 **CoMix Wave Films**（），簡稱「CWF」、「」，是一家日本[動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 概要

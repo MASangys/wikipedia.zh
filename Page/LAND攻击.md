@@ -1,3 +1,6 @@
+> 本文内容由[LAND攻击](https://zh.wikipedia.org/wiki/LAND攻击)转换而来。
+
+
 LAND攻击（局域网拒绝服务攻击，，[縮寫](../Page/縮寫.md "wikilink")：**LAND attack**），是**[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")**（DoS攻击）的一种，通过发送精心构造的、具有相同源地址和目标地址的[欺骗](https://zh.wikipedia.org/wiki/Spoofing_attack "wikilink")[数据包](https://zh.wikipedia.org/wiki/網路封包 "wikilink")，致使缺乏相应防护机制的目标设备瘫痪。这种攻击方法最早在1997年被某人以“m3lt”的名称提出，并于多年之后的[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")、[Windows XP](../Page/Windows_XP.md "wikilink") SP2等[操作系统](../Page/操作系统.md "wikilink")中重现。
 
 ## 原理

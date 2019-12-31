@@ -1,3 +1,6 @@
+> 本文内容由[FashionGuide](https://zh.wikipedia.org/wiki/FashionGuide)转换而来。
+
+
 **FashionGuide**是台灣的一個時尚美妝網站，由風尚數位科技股份有限公司經營。FashionGuide係由謝攸升、張倫維等人於1997年所創立，是以討論區的形式經營社群，並且擁有大量的時尚美容資料庫\[1\]。
 
 ## 歷史和發展
@@ -26,7 +29,7 @@
 
 1.  [FashionGuide網友口碑帶起廣告業績](https://www.bnext.com.tw/article/4898/BN-ARTICLE-4898)
 2.  [隋棠主持流行時尚 帶頭打擊黑心商品](http://www.epochtimes.com/b5/7/7/27/n1784376.htm)
-3.  [Fashion Guide評鑑標章 美妝新指標](https://survey.fashionguide.com.tw/products-list/new)
+3.
 4.  [FashionGuide 部落格服務](https://fgblog.fashionguide.com.tw/)
 5.  [CyberAgent投資知名時尚美妝網站FashionGuide](https://www.bnext.com.tw/article/26195/BN-ARTICLE-26195)
 6.  [亞洲最具權威公信力的TAB亞洲美妝大賞誕生](http://www.ettoday.net/news/20170105/841680.htm)

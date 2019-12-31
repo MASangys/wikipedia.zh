@@ -1,3 +1,6 @@
+> 本文内容由[NEOGENE CREATION](https://zh.wikipedia.org/wiki/NEOGENE_CREATION)转换而来。
+
+
 《**NEOGENE CREATION**》是[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第十二張個人專輯，於2016年12月21日由[King Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 收錄曲

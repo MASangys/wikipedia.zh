@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Grand系列](https://zh.wikipedia.org/wiki/三星Galaxy_Grand系列)转换而来。
+
+
 **三星Galaxy Grand系列**是由[三星Galaxy系列分拆成的中低端](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")[智能手機系列](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
 
 ## 產品

@@ -1,4 +1,4 @@
-> 本文内容由[模块:Football manager history](https://zh.wikipedia.org/wiki/模块:Football manager history)转换而来。
+> 本文内容由[模块:Football manager history](https://zh.wikipedia.org/wiki/模块:Football_manager_history)转换而来。
 
 
 \-- Implement [Template:Football manager history](https://zh.wikipedia.org/wiki/Template:Football_manager_history "wikilink") to avoid articles being -- added to [:Category:Pages where template include size is exceeded](https://zh.wikipedia.org/wiki/Category:Pages_where_template_include_size_is_exceeded "wikilink") -- when the template is used many times.

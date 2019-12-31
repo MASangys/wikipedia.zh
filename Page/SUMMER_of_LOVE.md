@@ -1,4 +1,4 @@
-> 本文内容由[SUMMER of LOVE](https://zh.wikipedia.org/wiki/SUMMER of LOVE)转换而来。
+> 本文内容由[SUMMER of LOVE](https://zh.wikipedia.org/wiki/SUMMER_of_LOVE)转换而来。
 
 
 《**SUMMER of LOVE**》，是日本歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年7月22日發行的首張夏日精選輯。

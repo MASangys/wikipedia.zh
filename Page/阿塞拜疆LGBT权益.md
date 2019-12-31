@@ -1,3 +1,6 @@
+> 本文内容由[阿塞拜疆LGBT权益](https://zh.wikipedia.org/wiki/阿塞拜疆LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**阿塞拜疆**面临着非[LGBT](../Page/LGBT.md "wikilink")居民没有经历过的法律挑战和偏见。同性性行为在[阿塞拜疆](../Page/阿塞拜疆.md "wikilink")合法，但以同性伴侣为户主的家庭没有资格获得[异性婚姻夫妇可获得的任何法律保护](../Page/异性恋.md "wikilink")。
 
 ## 历史

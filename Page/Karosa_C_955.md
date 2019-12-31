@@ -1,3 +1,6 @@
+> 本文内容由[Karosa C 955](https://zh.wikipedia.org/wiki/Karosa_C_955)转换而来。
+
+
 **Karosa C 955** 由[捷克](../Page/捷克.md "wikilink")巴士製造商[Karosa在](https://zh.wikipedia.org/wiki/Karosa "wikilink")2001年至2006年间研发。 
 
 ## 特征

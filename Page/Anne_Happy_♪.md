@@ -1,4 +1,4 @@
-> 本文内容由[Anne Happy ♪](https://zh.wikipedia.org/wiki/Anne Happy ♪)转换而来。
+> 本文内容由[Anne Happy ♪](https://zh.wikipedia.org/wiki/Anne_Happy_♪)转换而来。
 
 
 《**Anne Happy♪**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[琴慈](../Page/琴慈.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，於[芳文社](../Page/芳文社.md "wikilink")雜誌《[漫畫時間Kirara Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》2013年2月號\[1\]開始連載至2019年1月號\[2\]\[3\]。共出版10冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[4\]，台灣和香港[東立均已出版第](https://zh.wikipedia.org/wiki/東立 "wikilink")1冊\[5\]\[6\]。由[SILVER LINK.負責動畫製作的](../Page/SILVER_LINK..md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年4月7日起陸續由[AT-X](../Page/AT-X.md "wikilink")等電視台開始播放。有时也被翻译成《**Unhappy♪**》 ，其中Anne来自于主角花小泉杏的名字。

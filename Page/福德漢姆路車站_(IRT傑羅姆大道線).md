@@ -1,3 +1,6 @@
+> 本文内容由[福德漢姆路車站 \(IRT傑羅姆大道線\)](https://zh.wikipedia.org/wiki/福德漢姆路車站_\(IRT傑羅姆大道線\))转换而来。
+
+
 **福德漢姆路車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT傑羅姆大道線](../Page/IRT傑羅姆大道線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布朗克斯](../Page/布朗克斯.md "wikilink")及交界，設有[4號線](https://zh.wikipedia.org/wiki/紐約地鐵4號線 "wikilink")（任何時候停站）列車服務。
 
 車站於1917年6月2日作為傑羅姆大道線的首部分投入服務，設有來往王橋路車站和149街車站的接駁服務。當時王橋路車站只使用南行月台\[1\]\[2\]。1918年7月17日改為直通至[IRT萊辛頓大道線](../Page/IRT萊辛頓大道線.md "wikilink")\[3\]。此站於2004年翻新。

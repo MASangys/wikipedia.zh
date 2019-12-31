@@ -1,4 +1,4 @@
-> 本文内容由[Materials Studio](https://zh.wikipedia.org/wiki/Materials Studio)转换而来。
+> 本文内容由[Materials Studio](https://zh.wikipedia.org/wiki/Materials_Studio)转换而来。
 
 
 **Materials Studio** 是一个用于材料模拟和建模的软件，由 [Accelrys](https://zh.wikipedia.org/wiki/Accelrys "wikilink") 开发\[1\]。

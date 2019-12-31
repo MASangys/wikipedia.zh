@@ -1,3 +1,6 @@
+> 本文内容由[X大道車站](https://zh.wikipedia.org/wiki/X大道車站)转换而来。
+
+
 **X大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IND卡爾弗線的一個慢車](https://zh.wikipedia.org/wiki/IND卡爾弗線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，設有[F線](../Page/紐約地鐵F線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構

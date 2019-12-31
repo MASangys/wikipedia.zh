@@ -1,3 +1,6 @@
+> 本文内容由[NHK新闻 \(电视节目\)](https://zh.wikipedia.org/wiki/NHK新闻_\(电视节目\))转换而来。
+
+
 **《NHK新闻》**（，）是[日本放送协会](https://zh.wikipedia.org/wiki/日本放送协会 "wikilink")（NHK）的新闻节目，也是日本现有的电视节目中播出历史最长的。节目在[NHK综合频道播放](https://zh.wikipedia.org/wiki/NHK综合频道 "wikilink")，部分时段的《NHK新闻》也会在[NHK World Premium频道播出](../Page/NHK_World_Premium.md "wikilink")。
 
 ## 概况

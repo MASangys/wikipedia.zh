@@ -1,3 +1,6 @@
+> 本文内容由[模块:PatternedCandidateUtils2](https://zh.wikipedia.org/wiki/模块:PatternedCandidateUtils2)转换而来。
+
+
 \--\[=\[
 
 ` 已知以下幾種情況會導致錯誤，但是我們可以善意地認為沒有人會故意這樣做：`

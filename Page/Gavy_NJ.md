@@ -1,4 +1,4 @@
-> 本文内容由[Gavy NJ](https://zh.wikipedia.org/wiki/Gavy NJ)转换而来。
+> 本文内容由[Gavy NJ](https://zh.wikipedia.org/wiki/Gavy_NJ)转换而来。
 
 
 *' Gavy NJ*'（)，是[韓國Good](https://zh.wikipedia.org/wiki/韓國 "wikilink") Berry娛樂於2005年11月10日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")。組合以強勁的演唱實力獲得不少歡迎，初出道便獲得金唱片最佳新人獎，更被譽為"女版[SG Wannabe](../Page/SG_Wannabe.md "wikilink")"。

@@ -1,3 +1,6 @@
+> 本文内容由[RANIA](https://zh.wikipedia.org/wiki/RANIA)转换而来。
+
+
 **RANIA**（，全寫為**R**egener**A**tio**N** **I**dol of **A**sia）是韓國DR Music所推出的女子流行音樂團體，2016年12月28日至2017年9月曾更名為**BP RANIA**（），出道時的七位成員包括、[Riko](../Page/Riko.md "wikilink")、[Saem](https://zh.wikipedia.org/wiki/黃以娜 "wikilink")、[珠伊](../Page/Cosmic_Girl.md "wikilink")、[Di](../Page/金多萊.md "wikilink")、[T-ae](../Page/李太恩.md "wikilink")、[Xia](../Page/張真詠.md "wikilink")，並在[2011年](../Page/2011年.md "wikilink")[4月](../Page/4月.md "wikilink")以首張單曲《Teddy Riley, The First Expansion In Asia》正式出道。在經過了成員的變遷後，現任成員為[惠美](https://zh.wikipedia.org/wiki/惠美_\(1995年\) "wikilink")、Namfon、瑛欣、丞泫、Larissa。
 
 ## 經歷

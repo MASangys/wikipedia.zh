@@ -1,4 +1,4 @@
-> 本文内容由[Portal:夏洛克·福尔摩斯/Selected picture](https://zh.wikipedia.org/wiki/Portal:夏洛克·福尔摩斯/Selected picture)转换而来。
+> 本文内容由[Portal:夏洛克·福尔摩斯/Selected picture](https://zh.wikipedia.org/wiki/Portal:夏洛克·福尔摩斯/Selected_picture)转换而来。
 
 
 -----

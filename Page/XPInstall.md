@@ -1,3 +1,6 @@
+> 本文内容由[XPInstall](https://zh.wikipedia.org/wiki/XPInstall)转换而来。
+
+
 **XPInstall**（Cross-Platform Install）是一种被[Mozilla Application Suite](../Page/Mozilla_Application_Suite.md "wikilink")、[SeaMonkey](../Page/SeaMonkey.md "wikilink")、[Mozilla Firefox](../Page/Firefox.md "wikilink")、[Mozilla Thunderbird以及其他基于](../Page/Mozilla_Thunderbird.md "wikilink")[XUL](../Page/XUL.md "wikilink")的应用程序为安装[Mozilla扩展而使用的技术](https://zh.wikipedia.org/wiki/Mozilla扩展 "wikilink")，它可以为主应用程序增添功能。
 
 一个XPI（发音“zippy”，从XPInstall派生）安装包是一个[ZIP文件](../Page/ZIP格式.md "wikilink")，其根目录中包含一个安装脚本或清单文件，以及若干数据文件。

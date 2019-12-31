@@ -1,4 +1,4 @@
-> 本文内容由[SHOWTA. BEST](https://zh.wikipedia.org/wiki/SHOWTA. BEST)转换而来。
+> 本文内容由[SHOWTA. BEST](https://zh.wikipedia.org/wiki/SHOWTA._BEST)转换而来。
 
 
 『**SHOWTA. BEST**』是[蒼井翔太](../Page/蒼井翔太.md "wikilink")在「SHOWTA.」時期的精選輯。2016年7月6日發售。

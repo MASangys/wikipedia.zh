@@ -1,4 +1,4 @@
-> 本文内容由[ASP.NET Core](https://zh.wikipedia.org/wiki/ASP.NET Core)转换而来。
+> 本文内容由[ASP.NET Core](https://zh.wikipedia.org/wiki/ASP.NET_Core)转换而来。
 
 
 **ASP.NET Core** 是新一代的 [ASP.NET](../Page/ASP.NET.md "wikilink")，早期稱為 ASP.NET vNext，並且在推出初期命名為 ASP.NET 5，但隨著 [.NET Core](../Page/.NET_Core.md "wikilink") 的成熟，以及 ASP.NET 5 的命名會使得外界將它視為 ASP.NET 的升級版，但它其實是新一代從頭開始打造的 ASP.NET 核心功能，因此微軟宣佈將它改為與 .NET Core 同步的名稱\[1\]，即 ASP.NET Core。

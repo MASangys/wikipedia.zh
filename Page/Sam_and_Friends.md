@@ -1,4 +1,4 @@
-> 本文内容由[Sam and Friends](https://zh.wikipedia.org/wiki/Sam and Friends)转换而来。
+> 本文内容由[Sam and Friends](https://zh.wikipedia.org/wiki/Sam_and_Friends)转换而来。
 
 
 《**Sam & Friends**》是香港歌手[許冠傑](../Page/許冠傑.md "wikilink")發行第十八張粵語專輯。

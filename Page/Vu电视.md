@@ -1,3 +1,6 @@
+> 本文内容由[Vu电视](https://zh.wikipedia.org/wiki/Vu电视)转换而来。
+
+
 **Vu电视**（**Vu Televisions**），或者称**Vu科技**（**Vu Technologies**），是一个2006年成立于[印度](../Page/印度.md "wikilink")[孟买](../Page/孟买.md "wikilink")的奢侈[电视](../Page/电视.md "wikilink")品牌和LED电视及显示制造商。它也是印度最大的电视线上品牌\[1\]。
 
 ## 历史和产品

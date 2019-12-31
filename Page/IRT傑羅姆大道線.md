@@ -1,3 +1,6 @@
+> 本文内容由[IRT傑羅姆大道線](https://zh.wikipedia.org/wiki/IRT傑羅姆大道線)转换而来。
+
+
 **IRT傑羅姆大道線**（），非正式被稱為「IRT伍德羅恩線」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條路線，主要沿[布朗克斯](../Page/布朗克斯.md "wikilink")的行走。原初為[IRT營運的路線](../Page/跨區捷運公司.md "wikilink")，作為擴展的一部分，在1917和1918年啟用。此線是高架和地下混合的路線，[161街-洋基體育場是最南端的高架車站](https://zh.wikipedia.org/wiki/161街-洋基體育場車站 "wikilink")。路線在[伍德羅恩車站以南設有三條軌道直至](https://zh.wikipedia.org/wiki/伍德羅恩車站_\(IRT傑羅姆大道線\) "wikilink")[138街-大廣場車站](https://zh.wikipedia.org/wiki/138街-大廣場車站_\(IRT傑羅姆大道線\) "wikilink")。伍德羅恩線亦設有通往[傑羅姆車廠的軌道](https://zh.wikipedia.org/wiki/紐約地鐵車廠#傑羅姆車廠 "wikilink")，該處是4號線列車儲車地，僅僅位於[貝德福德公園林蔭路-雷曼學院車站以北](../Page/貝德福德公園林蔭路-雷曼學院車站_\(IRT傑羅姆大道線\).md "wikilink")。
 
 ## 服務形式

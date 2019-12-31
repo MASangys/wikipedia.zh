@@ -1,4 +1,4 @@
-> 本文内容由[Devil \(專輯\)](https://zh.wikipedia.org/wiki/Devil \(專輯\))转换而来。
+> 本文内容由[Devil \(專輯\)](https://zh.wikipedia.org/wiki/Devil_\(專輯\))转换而来。
 
 
 **《Devil》**是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的出道](../Page/Super_Junior.md "wikilink")10周年特別紀念專輯，2015年7月16日發行。\[1\]這張專輯距該組合上張韓語專輯《[Mamacita](../Page/Mamacita.md "wikilink")》相距10個月。此專輯是成員[藝聲](../Page/藝聲.md "wikilink")退伍後復出的首張韓語專輯。

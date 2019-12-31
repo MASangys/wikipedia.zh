@@ -1,3 +1,6 @@
+> 本文内容由[徐鵬 \(美宝集团CEO\)](https://zh.wikipedia.org/wiki/徐鵬_\(美宝集团CEO\))转换而来。
+
+
 **徐鹏**（英文名：），祖籍[山东省](https://zh.wikipedia.org/wiki/山东省 "wikilink")[沾化](https://zh.wikipedia.org/wiki/沾化 "wikilink")，1988年出生于山东省济南市，是一名企业家、慈善家、作家2016年获得加州州立大学洛杉矶分校总统奖章的获得者。\[1\]徐与其父亲的所谓科技遭到众多业内人士的质疑\[2\]\[3\]\[4\]。
 
 ## 生平

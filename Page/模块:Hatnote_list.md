@@ -1,4 +1,4 @@
-> 本文内容由[模块:Hatnote list](https://zh.wikipedia.org/wiki/模块:Hatnote list)转换而来。
+> 本文内容由[模块:Hatnote list](https://zh.wikipedia.org/wiki/模块:Hatnote_list)转换而来。
 
 
 -----

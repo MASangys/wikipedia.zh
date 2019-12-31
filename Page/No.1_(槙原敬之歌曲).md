@@ -1,3 +1,6 @@
+> 本文内容由[No.1 \(槙原敬之歌曲\)](https://zh.wikipedia.org/wiki/No.1_\(槙原敬之歌曲\))转换而来。
+
+
 《**No.1**》（），是[日本](../Page/日本.md "wikilink")男性[創作歌手](../Page/創作歌手.md "wikilink")[槙原敬之](../Page/槙原敬之.md "wikilink")的第8張單曲。1993年9月1日由[WEA MUSIC（日本華納音樂）發行](../Page/日本華納音樂.md "wikilink")。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[Kakao](https://zh.wikipedia.org/wiki/Kakao)转换而来。
+
+
 **Kakao**（）是[韓國的一家互聯網公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，成立于2014年，前身是[KakaoTalk](../Page/KakaoTalk.md "wikilink")的母公司Kakao Corp。2014年Daum Communications和Kakao Corp合併時改叫**Daum Kakao**\[1\]，次年改現名\[2\]。
 
 2015年5月28日，該公司收購美國的[Path](../Page/Path_\(私密社交网站\).md "wikilink")\[3\]，2016年1月11日宣佈收購[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")76.4%的股份\[4\]。

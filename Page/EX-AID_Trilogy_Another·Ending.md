@@ -1,3 +1,6 @@
+> 本文内容由[EX-AID Trilogy Another·Ending](https://zh.wikipedia.org/wiki/EX-AID_Trilogy_Another·Ending)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">
@@ -516,7 +519,7 @@ Level Billion</strong></p></td>
 
 ## 外部連結
 
-  - [官方網站](http://www.ex-aid-trilogy.com///)
+  - [官方網站](https://web.archive.org/web/20170827004718/http://www.ex-aid-trilogy.com/)
 
 ## 參考資料
 

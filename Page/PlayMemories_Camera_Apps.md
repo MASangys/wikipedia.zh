@@ -1,4 +1,4 @@
-> 本文内容由[PlayMemories Camera Apps](https://zh.wikipedia.org/wiki/PlayMemories Camera Apps)转换而来。
+> 本文内容由[PlayMemories Camera Apps](https://zh.wikipedia.org/wiki/PlayMemories_Camera_Apps)转换而来。
 
 
 [thumb](https://zh.wikipedia.org/wiki/FILE:SONY_PlayMemories_Camera_Apps_at_NEX-6.png "wikilink")，其上展示了 **PlayMemories Camera Apps** 列表\]\]

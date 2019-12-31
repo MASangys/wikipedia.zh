@@ -1,3 +1,6 @@
+> 本文内容由[模块:Iraqi insurgency detailed map](https://zh.wikipedia.org/wiki/模块:Iraqi_insurgency_detailed_map)转换而来。
+
+
 `   local m = mw.loadData('Module:Middle East conflicts map marks')`
 
 return {

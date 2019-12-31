@@ -1,4 +1,4 @@
-> 本文内容由[戰術行動Tango 51狙擊步槍](https://zh.wikipedia.org/wiki/戰術行動Tango 51狙擊步槍)转换而来。
+> 本文内容由[戰術行動Tango 51狙擊步槍](https://zh.wikipedia.org/wiki/戰術行動Tango_51狙擊步槍)转换而来。
 
 
 **戰術行動Tango 51狙擊步槍**（）是一款由[美国](../Page/美国.md "wikilink")槍械製造公司戰術行動公司以[雷明登700步槍](../Page/雷明登700步槍.md "wikilink")的槍機為藍本生產的[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。

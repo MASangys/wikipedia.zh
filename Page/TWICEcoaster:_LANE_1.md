@@ -1,3 +1,6 @@
+> 本文内容由[TWICEcoaster: LANE 1](https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_1)转换而来。
+
+
 《**TWICEcoaster: LANE 1**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，KT音樂發行，於2016年10月24日推出。主打歌曲為〈TT〉，由[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作。專輯發行首日隨即打入香港、馬來西亞、泰國、越南、新加坡、台灣、中國大陸、澳門等8個國家及地區的iTunes專輯榜首位\[1\]。12月19日發行改版專輯《聖誕特別版》（CHRISTMAS EDITION），2月20日發行特別版專輯《[TWICEcoaster: LANE 2](../Page/TWICEcoaster:_LANE_2.md "wikilink")》
 
 ## 背景

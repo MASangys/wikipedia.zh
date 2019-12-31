@@ -1,4 +1,4 @@
-> 本文内容由[RSP \(消歧義\)](https://zh.wikipedia.org/wiki/RSP \(消歧義\))转换而来。
+> 本文内容由[RSP \(消歧義\)](https://zh.wikipedia.org/wiki/RSP_\(消歧義\))转换而来。
 
 
 **RSP**可以指的意思或以下的英文縮寫：

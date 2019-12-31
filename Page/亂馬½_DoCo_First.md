@@ -1,3 +1,6 @@
+> 本文内容由[亂馬½ DoCo First](https://zh.wikipedia.org/wiki/亂馬½_DoCo_First)转换而来。
+
+
 \-{T|zh-hans:乱马 DoCo First; zh-hant:亂馬 DoCo First;}- {{Infobox Album | Name = 亂馬 DoCo\*First
 <small>（）</small> | Type = [專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink") | Artist =  | Cover = | Released = 1991年7月21日 | Recorded = | Genre = [動畫歌曲](../Page/動畫歌曲.md "wikilink")、[J-POP](../Page/日本流行音樂.md "wikilink") | Length = 29分 | Label = [Pony Canyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") | Producer = | Chart position =\* 第24名（[Oricon](../Page/Oricon公信榜.md "wikilink")） | Certification = | Last album = | This album = **亂馬 DoCo\*First**
 （1991年） | Next album = \[\[亂馬½_DoCo☆Second|亂馬 《**亂馬 DoCo\*First**》（）是[日本](../Page/日本.md "wikilink")聲優組合的第1張專輯。1991年7月21日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。

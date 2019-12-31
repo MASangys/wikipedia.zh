@@ -1,3 +1,6 @@
+> 本文内容由[Maroo企劃](https://zh.wikipedia.org/wiki/Maroo企劃)转换而来。
+
+
 **Maroo娱乐**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在2007年，为[MBK娱乐和](https://zh.wikipedia.org/wiki/MBK娱乐 "wikilink")[Mnet Media前旗下公司](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。當前藝人包括[朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")、[BONUSbaby](../Page/BONUSbaby.md "wikilink")、[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")、[TEEN TEEN等](../Page/TEEN_TEEN.md "wikilink")。
 
 ## 历史

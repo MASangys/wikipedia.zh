@@ -1,3 +1,6 @@
+> 本文内容由[七龍珠Z 最強對最強](https://zh.wikipedia.org/wiki/七龍珠Z_最強對最強)转换而来。
+
+
 是在日本於1991年7月20日上映的《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》第8部劇場版動畫。亦是《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》第5部劇場版動畫，也是首部有連接的劇場版。\[1\]\[2\]
 
 ## 故事

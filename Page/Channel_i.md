@@ -1,4 +1,4 @@
-> 本文内容由[Channel i](https://zh.wikipedia.org/wiki/Channel i)转换而来。
+> 本文内容由[Channel i](https://zh.wikipedia.org/wiki/Channel_i)转换而来。
 
 
 **Channel i**是香港一個網絡媒體平台，由[黃台仰](../Page/黃台仰.md "wikilink")及[梁天琦](../Page/梁天琦.md "wikilink")於2015年創辦，與[本土民主前線](../Page/本土民主前線.md "wikilink")關係密切，但現在負責人身份成謎。

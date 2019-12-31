@@ -1,4 +1,4 @@
-> 本文内容由[AMC \(亞洲\)](https://zh.wikipedia.org/wiki/AMC \(亞洲\))转换而来。
+> 本文内容由[AMC \(亞洲\)](https://zh.wikipedia.org/wiki/AMC_\(亞洲\))转换而来。
 
 
 AMC是AMC電視網于亚洲地区播出的電視頻道，AMC於2015年1月1日將[米高梅](../Page/米高梅.md "wikilink")頻道()正式更名為AMC。 首播的原創影集作品有:電腦狂人([奔腾年代](../Page/奔腾年代.md "wikilink"))、善惡分界線()、[驚嚇陰屍路](../Page/驚嚇陰屍路.md "wikilink")、[荒原](https://zh.wikipedia.org/wiki/荒原_\(電視劇\) "wikilink")、與[夜班經理](../Page/夜班經理.md "wikilink")，該頻道也播出[米高梅](../Page/米高梅.md "wikilink")、[派拉蒙電影](https://zh.wikipedia.org/wiki/派拉蒙電影 "wikilink")、[索尼影視娛樂](../Page/索尼影視娛樂.md "wikilink")\[1\] 的電影。

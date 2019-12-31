@@ -1,3 +1,6 @@
+> 本文内容由[三月的Phantasia](https://zh.wikipedia.org/wiki/三月的Phantasia)转换而来。
+
+
 **三月的Phantasia**（）是由主唱[Mia與數名網路](https://zh.wikipedia.org/wiki/Mia "wikilink")[音樂家及](https://zh.wikipedia.org/wiki/音樂家 "wikilink")[插畫家組成的](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[日本](../Page/日本.md "wikilink")音樂創作團體，其中Phantasia為「幻想」之意\[1\]。
 
 本團體從2015年8月開始活動\[2\]，並於2016年藉由演唱電視動畫《[制約之絆](../Page/制約之絆.md "wikilink")》的片尾曲「」正式出道\[3\]，之後亦為《[斬首循環 藍色學者與戲言跟班](../Page/戲言系列.md "wikilink")》和《[亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")》等動畫演唱主題曲\[4\]\[5\]。首張專輯在2017年3月發售\[6\]。

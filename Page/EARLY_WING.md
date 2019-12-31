@@ -1,3 +1,6 @@
+> 本文内容由[EARLY WING](https://zh.wikipedia.org/wiki/EARLY_WING)转换而来。
+
+
 **株式會社EARLY WING**（，）是於2009年11月設立的[日本](../Page/日本.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業，並分別在2012年8月8日及2014年5月設立新事務所「株式會社[Ability Soul Pro](https://zh.wikipedia.org/wiki/#Ability_Soul_Pro "wikilink")」與「株式會社[WITH LINE](https://zh.wikipedia.org/wiki/#WITH_LINE "wikilink")」。
 
 ## EARLY WING集團

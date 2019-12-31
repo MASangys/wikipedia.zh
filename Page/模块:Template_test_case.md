@@ -1,3 +1,6 @@
+> 本文内容由[模块:Template test case](https://zh.wikipedia.org/wiki/模块:Template_test_case)转换而来。
+
+
 \--\[\[
 
 `  A module for generating test case templates.`
@@ -307,8 +310,6 @@ function TestCase.new(invocationObj, options, cfg)
 `   if #templateOptions <= 1 then`
 `       templateOptions[1].requireMagicWord = false`
 `   end`
-
-`   mw.logObject(templateOptions)`
 
 `   -- Make the template objects`
 `   obj.templates = {}`

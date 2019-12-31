@@ -1,4 +1,4 @@
-> 本文内容由[PINK PARADISE](https://zh.wikipedia.org/wiki/PINK PARADISE)转换而来。
+> 本文内容由[PINK PARADISE](https://zh.wikipedia.org/wiki/PINK_PARADISE)转换而来。
 
 
 《**Apink 1ST CONCERT "PINK PARADISE"**》是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")的首次韓國暨亞洲巡回[演唱会](https://zh.wikipedia.org/wiki/演唱会 "wikilink")。\[1\]

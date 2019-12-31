@@ -1,4 +1,4 @@
-> 本文内容由[EA Salt Lake](https://zh.wikipedia.org/wiki/EA Salt Lake)转换而来。
+> 本文内容由[EA Salt Lake](https://zh.wikipedia.org/wiki/EA_Salt_Lake)转换而来。
 
 
 **EA Salt Lake**，是美国犹他州盐湖城的一个游戏开发商。该工作室为[艺电](../Page/艺电.md "wikilink")所有。

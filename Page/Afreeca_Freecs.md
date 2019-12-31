@@ -1,3 +1,6 @@
+> 本文内容由[Afreeca Freecs](https://zh.wikipedia.org/wiki/Afreeca_Freecs)转换而来。
+
+
 是一只来自[韩国的职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电子竞技](../Page/电子竞技.md "wikilink")队伍，该战队的前身为Anarchy战队，2015年12月30日，[AfreecaTV](../Page/AfreecaTV.md "wikilink")收购了Anarchy战队，并将其改为现名。目前该战队拥有[英雄联盟](../Page/英雄联盟.md "wikilink")和[絕地求生](../Page/絕地求生.md "wikilink")分部，其中绝地求生分部拥有Afreeca Freecs Ares和Afreeca Freecs Fatal两支队伍。
 
 ## 发展历程

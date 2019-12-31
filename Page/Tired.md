@@ -1,3 +1,6 @@
+> 本文内容由[Tired](https://zh.wikipedia.org/wiki/Tired)转换而来。
+
+
 **** ( 中文: *心已累* ) 是一首由挪威DJ[艾倫·沃克](../Page/艾倫·沃克.md "wikilink")製作的單曲，由[加文·詹姆斯主唱](https://zh.wikipedia.org/wiki/加文·詹姆斯 "wikilink")。這首單曲是「沃克世界」（World Of Walker）系列的前導曲目。
 
 ## 背景

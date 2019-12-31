@@ -1,3 +1,6 @@
+> 本文内容由[IFile](https://zh.wikipedia.org/wiki/IFile)转换而来。
+
+
 **iFile**是一款可访问系统文件的[iOS文件管理器](https://zh.wikipedia.org/wiki/iOS "wikilink")，只能在越狱的[iOS的系统上运行](https://zh.wikipedia.org/wiki/iOS "wikilink")，可在[Cydia](../Page/Cydia.md "wikilink")中以4.99美元购买，由Crasten Heinelt开发。\[1\]
 
 ## 主要功能

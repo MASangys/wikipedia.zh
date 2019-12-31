@@ -1,3 +1,6 @@
+> 本文内容由[附加组件 \(Mozilla\)](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\))转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Mozilla_plugins_screenshot_without_subpixel_rendering.png "fig:缩略图")附加组件管理器，显示已安装插件的界面\]\] **Mozilla附加组件**（**Mozilla Add-ons**）是一种可安装的[增强组件](../Page/插件.md "wikilink")，可以安装到[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")的包括[Firefox](../Page/Firefox.md "wikilink")、[Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")、[SeaMonkey](../Page/SeaMonkey.md "wikilink")和[Sunbird等及衍生项目](../Page/Mozilla_Sunbird.md "wikilink")。附加组件使用户可以增加或修改应用程序功能，使用[主题装饰外观](https://zh.wikipedia.org/wiki/主題包 "wikilink")，以及处理本并不支持的内容类型。
 
 附加组件的三种主要类别是：扩展、主题和插件。\[1\]前两种附加组件的主要托管及分发渠道是Mozilla Add-ons[網站](../Page/網站.md "wikilink")。

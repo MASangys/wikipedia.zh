@@ -1,4 +1,4 @@
-> 本文内容由[Digital Homicide Studios](https://zh.wikipedia.org/wiki/Digital Homicide Studios)转换而来。
+> 本文内容由[Digital Homicide Studios](https://zh.wikipedia.org/wiki/Digital_Homicide_Studios)转换而来。
 
 
 **Digital Homicide Studios L.L.C.**，是一家总部位于美国[亚利桑那州](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")[尤马的](../Page/尤馬縣_\(亞利桑那州\).md "wikilink")[游戏开发商](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")，由Robert Romine和James Oliver Romine Jr成立于2014年5月29日。该公司曾使用多个假名，包括**Imminent Uprising**和**ECC Games**（后更名为**Every Click Counts Games**）。该公司的第一款游戏《Forsaken Uprising》于2014年8月14日在[Steam](../Page/Steam.md "wikilink") Early Access发布，并在2014年12月3日完全发布。

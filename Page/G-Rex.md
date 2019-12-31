@@ -1,3 +1,6 @@
+> 本文内容由[G-Rex](https://zh.wikipedia.org/wiki/G-Rex)转换而来。
+
+
 **G-rex Gaming**（簡稱︰**G-rex**)，是一支台港澳地區知名的[電子競技戰隊](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，於2016年9月創立，隸屬[英皇娛樂](../Page/英皇娛樂.md "wikilink")子公司「[英皇電競」旗下的電競職業隊伍](../Page/英皇娛樂.md "wikilink")，前身為Raise Gaming（RG），參與《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》及《[絕地求生](../Page/絕地求生.md "wikilink")》等電競項目。
 
 ## 簡介
@@ -16,10 +19,8 @@
 <td><p>遊戲定位</p></td>
 <td><p>國家/地區</p></td>
 <td><p>生日</p></td>
-<td><p>備註</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -27,79 +28,27 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>PK</p></td>
-<td><p>謝宇庭</p></td>
-<td><p>TOP</p></td>
 <td></td>
-<td><p>1995年11月18日</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>Gemini</p></td>
+<td><p>黃楚軒</p></td>
+<td><p>打野</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Raise</p></td>
-<td><p>오지환</p></td>
-<td><p>Jungle</p></td>
 <td></td>
-<td><p>1997年10月18日</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Empt2y</p></td>
-<td><p>梁子皞</p></td>
-<td><p>Jungle</p></td>
-<td></td>
-<td><p>1997年7月15日</p></td>
-<td><p>於2019/3/6重新登錄</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Epic</p></td>
-<td><p>胡晉軒</p></td>
-<td><p>Jungle</p></td>
-<td></td>
-<td><p>1998年10月1日</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Wuji</p></td>
-<td><p>楊家宇</p></td>
-<td><p>Mid</p></td>
-<td></td>
-<td><p>1994年7月2日</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -109,13 +58,11 @@
 <tr class="odd">
 <td><p>Bruce</p></td>
 <td><p>邱致鈞</p></td>
-<td><p>AD Carry</p></td>
-<td></td>
+<td><p>下路</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -125,13 +72,11 @@
 <tr class="odd">
 <td><p>Atlen</p></td>
 <td><p>宋亞倫</p></td>
-<td><p>AD Carry</p></td>
+<td><p>下路</p></td>
 <td></td>
 <td><p>1999年9月11日</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,25 +86,15 @@
 <tr class="odd">
 <td><p>Eason</p></td>
 <td><p>尹以伸</p></td>
-<td><p>Support</p></td>
+<td><p>輔助</p></td>
 <td></td>
 <td><p>1998年8月19日</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Yoon</p></td>
-<td><p>김병윤</p></td>
-<td><p>Support</p></td>
-<td></td>
-<td><p>1996年7月4日</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -186,12 +121,60 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Lilv</p></td>
-<td><p>陳縉翰</p></td>
-<td><p>AD Carry</p></td>
 <td></td>
-<td><p>1998年9月20日</p></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">J Team隊員</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Wuji</p></td>
+<td><p>楊家宇</p></td>
+<td><p>Mid</p></td>
+<td></td>
+<td><p>1994年7月2日</p></td>
+<td><p>退役</p></td>
+</tr>
+<tr class="odd">
+<td><p>Yoon</p></td>
+<td><p>김병윤</p></td>
+<td><p>輔助</p></td>
+<td></td>
+<td><p>1996年7月4日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>PK</p></td>
+<td><p>謝宇庭</p></td>
+<td><p>TOP</p></td>
+<td></td>
+<td><p>1995年11月18日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Candy</p></td>
+<td><p>김승주</p></td>
+<td><p>中路</p></td>
+<td></td>
+<td><p>1996年1月21日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Mountain</p></td>
+<td><p>薛兆鴻</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td><p>1995年2月22日</p></td>
+<td><p>轉為總教練</p></td>
+</tr>
+<tr class="odd">
+<td><p>Empt2y</p></td>
+<td><p>梁子皞</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td><p>1997年7月15日</p></td>
+<td><p>轉為教練</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -202,33 +185,65 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Domo</p></td>
-<td><p>龔育德</p></td>
-<td><p>教練</p></td>
+<td><p>Epic</p></td>
+<td><p>胡晉軒</p></td>
+<td><p>打野</p></td>
 <td></td>
+<td><p>1998年10月1日</p></td>
 <td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/Ahq_e-Sports_Club" title="wikilink">Ahq e-Sports Club教練</a></p></td>
 </tr>
 <tr class="even">
+<td><p>Raise</p></td>
+<td><p>오지환</p></td>
+<td><p>打野</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1997年10月18日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Baybay</p></td>
+<td><p>王佑軍</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td><p>1996年11月28日</p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/G-Rex_Infinite" title="wikilink">GRI隊員</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Koala</p></td>
+<td><p>林志強</p></td>
+<td><p>輔助</p></td>
+<td></td>
+<td><p>1995年8月16日</p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">JT成員</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Stitch</p></td>
+<td><p>이승주</p></td>
+<td><p>下路</p></td>
+<td></td>
+<td><p>1996年11月2日</p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/Jin_Air_Greenwings" title="wikilink">JAG成員</a></p></td>
+</tr>
+<tr class="even">
 <td><p>Laba</p></td>
 <td><p>黃振揚</p></td>
-<td><p>Jungle</p></td>
+<td><p>打野</p></td>
 <td></td>
 <td><p>1999年3月15日</p></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/Vivo_Keyd" title="wikilink">Vivo Keyd隊員</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lilv</p></td>
+<td><p>陳縉翰</p></td>
+<td><p>下路</p></td>
+<td></td>
+<td><p>1998年9月20日</p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">JT隊員</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><p>Dream</p></td>
+<td><p>葉仲耀</p></td>
+<td><p>打野</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -236,50 +251,18 @@
 <tr class="odd">
 <td><p>Ran</p></td>
 <td><p>陳冠諭</p></td>
-<td><p>Jungle</p></td>
+<td><p>下路</p></td>
 <td></td>
+<td><p>1996年5月30日</p></td>
 <td></td>
-<td><p>現為<a href="../Page/傳說對決.md" title="wikilink">傳說對決</a><a href="../Page/閃電狼.md" title="wikilink">閃電狼</a>隊員</p></td>
 </tr>
 <tr class="even">
+<td><p>Fish</p></td>
+<td><p>楊于聖</p></td>
+<td><p>中路</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Stitch</p></td>
-<td><p>이승주</p></td>
-<td><p>AD Carry</p></td>
-<td></td>
-<td></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/Jin_Air_Green_Wings" title="wikilink">Jin Air Green Wings成員</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Jay</p></td>
-<td><p><a href="../Page/李杰_(電競選手).md" title="wikilink">李-{杰}-</a></p></td>
-<td><p>教練</p></td>
-<td></td>
-<td></td>
-<td><p>現為Bilibili Gaming教練</p></td>
-</tr>
-<tr class="odd">
-<td><p>Koala</p></td>
-<td><p>林志強</p></td>
-<td><p>SUP</p></td>
-<td></td>
-<td><p>1995年8月16日</p></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/J_Team" title="wikilink">J Team成員</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Baybay</p></td>
-<td><p>王佑軍</p></td>
-<td><p>Jungle</p></td>
-<td></td>
-<td><p>1996年11月28日</p></td>
-<td><p>現為<a href="https://zh.wikipedia.org/wiki/G-Rex_Infinite" title="wikilink">G-Rex Infinite成員</a></p></td>
+<td><p>1998年10月28日</p></td>
+<td><p>現為<a href="https://zh.wikipedia.org/wiki/G-Rex_Infinite" title="wikilink">GRI隊員</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -291,8 +274,8 @@
 <tr class="odd">
 <td><p>遊戲暱稱</p></td>
 <td><p>真實姓名</p></td>
-<td><p>國家/地區</p></td>
 <td><p>備註</p></td>
+<td><p>國家/地區</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -303,8 +286,8 @@
 <tr class="odd">
 <td><p>Toyz</p></td>
 <td><p><a href="../Page/劉偉健.md" title="wikilink">劉偉健</a></p></td>
-<td></td>
 <td><p>總監</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -313,10 +296,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Wei</p></td>
-<td><p>傅千威</p></td>
+<td><p>Mountain</p></td>
+<td><p>薛兆鴻</p></td>
+<td><p>總教練</p></td>
 <td></td>
-<td><p>主教練</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -327,8 +310,51 @@
 <tr class="odd">
 <td><p>Leo</p></td>
 <td><p>| 舒冠智</p></td>
-<td></td>
 <td><p>教練</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Empt2y</p></td>
+<td><p>梁子皞</p></td>
+<td><p>教練</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>陳建宏</p></td>
+<td><p>分析師</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 過往人員
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>遊戲暱稱</p></td>
+<td><p>真實姓名</p></td>
+<td><p>備註</p></td>
+<td><p>國家/地區</p></td>
+</tr>
+<tr class="even">
+<td><p>Wei</p></td>
+<td><p>傅千威</p></td>
+<td><p>主教練</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Jay</p></td>
+<td><p>|<a href="../Page/李杰_(電競選手).md" title="wikilink">李杰</a></p></td>
+<td><p>教練</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Domo</p></td>
+<td><p>龔育德</p></td>
+<td><p>教練</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

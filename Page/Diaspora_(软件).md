@@ -1,4 +1,4 @@
-> 本文内容由[Diaspora \(软件\)](https://zh.wikipedia.org/wiki/Diaspora \(软件\))转换而来。
+> 本文内容由[Diaspora \(软件\)](https://zh.wikipedia.org/wiki/Diaspora_\(软件\))转换而来。
 
 
 \[1\] | latest release date =  | latest preview version = | latest preview date = | programming language = [Ruby](../Page/Ruby.md "wikilink")\[2\] | platform = [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") | size = | language = | status = 活跃 | genre = [社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink") | license = [AGPLv3](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink")\[3\]\[4\]，部分是基于[MIT许可证的](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[双许可证](https://zh.wikipedia.org/wiki/多许可 "wikilink")\[5\] | website = [DiasporaFoundation.org](https://diasporafoundation.org) }}

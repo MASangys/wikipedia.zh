@@ -1,4 +1,4 @@
-> 本文内容由[Iyang Apay](https://zh.wikipedia.org/wiki/Iyang Apay)转换而来。
+> 本文内容由[Iyang Apay](https://zh.wikipedia.org/wiki/Iyang_Apay)转换而来。
 
 
 **沈中阿嬤**\[1\]\[2\]，太魯閣族名**Iyang Apay**\[3\]，[日本名](../Page/日本人名.md "wikilink")**美智子**\[4\]，[漢名](../Page/漢名.md "wikilink")**林沈中**，[臺灣](../Page/臺灣.md "wikilink")[花蓮縣](../Page/花蓮縣.md "wikilink")[秀林鄉](../Page/秀林鄉.md "wikilink")[太魯閣族](../Page/太魯閣族.md "wikilink")人，臺籍[慰安妇](../Page/慰安妇.md "wikilink")。

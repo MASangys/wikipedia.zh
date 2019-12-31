@@ -1,3 +1,6 @@
+> 本文内容由[Summer Vibes](https://zh.wikipedia.org/wiki/Summer_Vibes)转换而来。
+
+
 《**Summer Vibes**》，是韓國六人男子偶像團體[ASTRO的第二張迷你專輯](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，以〈숨가빠(Breathless)〉為主打歌。
 
 ## 事件

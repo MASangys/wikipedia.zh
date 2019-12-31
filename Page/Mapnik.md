@@ -1,3 +1,6 @@
+> 本文内容由[Mapnik](https://zh.wikipedia.org/wiki/Mapnik)转换而来。
+
+
 **Mapnik**是一個[开放源代码](../Page/开放源代码.md "wikilink")的[地图学](../Page/地图学.md "wikilink")工具集，提供基於客戶端與伺服器端的地圖[渲染](../Page/渲染.md "wikilink")使用，以[C++](../Page/C++.md "wikilink")撰寫。Mapnik的原始開發者，Artem Pavlenko將目標明確設定為透過使用子像素反鋸齒功能來建立美麗的地圖。Mapnik現在也有[Cairo渲染後端](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")。Mapnik使用[Boost C++ Libraries來處理如記憶體管理](../Page/Boost_C++_Libraries.md "wikilink")、存取[文件系统](../Page/文件系统.md "wikilink")、正規表達式與解析XML等的一般軟體工作。地圖的外觀可以使用[XML](../Page/XML.md "wikilink")檔案來定義，也可以透過C++、Python與[Node.js](../Page/Node.js.md "wikilink")等程式語言來建構。
 
 ## 資料格式

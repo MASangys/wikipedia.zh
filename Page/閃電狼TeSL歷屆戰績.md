@@ -1,3 +1,6 @@
+> 本文内容由[閃電狼TeSL歷屆戰績](https://zh.wikipedia.org/wiki/閃電狼TeSL歷屆戰績)转换而来。
+
+
 本列表統計的是[閃電狼](../Page/閃電狼.md "wikilink")於[台灣電子競技聯盟的各項紀錄列表](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")。
 
 ## 例行賽戰績

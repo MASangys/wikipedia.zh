@@ -1,4 +1,4 @@
-> 本文内容由[Found Songs](https://zh.wikipedia.org/wiki/Found Songs)转换而来。
+> 本文内容由[Found Songs](https://zh.wikipedia.org/wiki/Found_Songs)转换而来。
 
 
 《**Found Songs**》是冰島音樂家[Ólafur Arnalds的第二張單曲作品](https://zh.wikipedia.org/wiki/Ólafur_Arnalds "wikilink")，由英國音樂廠牌[Erased Tapes發行](https://zh.wikipedia.org/wiki/Erased_Tapes "wikilink")\[1\]，從最早的[數位音樂下載](../Page/數位音樂下載.md "wikilink")，後相繼推出[CD](../Page/CD.md "wikilink")和[黑膠唱片](../Page/黑膠唱片.md "wikilink")版本。

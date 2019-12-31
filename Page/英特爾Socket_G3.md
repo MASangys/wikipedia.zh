@@ -1,4 +1,4 @@
-> 本文内容由[英特爾Socket G3](https://zh.wikipedia.org/wiki/英特爾Socket G3)转换而来。
+> 本文内容由[英特爾Socket G3](https://zh.wikipedia.org/wiki/英特爾Socket_G3)转换而来。
 
 
 **Intel Socket G3**， 也稱為**rPGA 946B/947**\[1\]或**FCPGA 946**\[2\]，是[英特爾設計的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[處理器插座及對應處理器的管脚陣列](../Page/CPU插座.md "wikilink")，支援[Haswell微架構](../Page/Haswell微架構.md "wikilink")、[Broadwell微架構](../Page/Broadwell微架構.md "wikilink")系列中可插拔式的移動處理器。相容於單品項管理於型號字尾有一個「M」的處理器。\[3\]

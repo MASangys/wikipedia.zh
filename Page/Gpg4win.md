@@ -1,3 +1,6 @@
+> 本文内容由[Gpg4win](https://zh.wikipedia.org/wiki/Gpg4win)转换而来。
+
+
 **Gpg4win**是用于[Microsoft Windows上的电子邮件与文件的加密软件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"), 使用了[GnuPG](../Page/GnuPG.md "wikilink") [公钥加密](https://zh.wikipedia.org/wiki/公钥加密 "wikilink")。
 
 Gpg4win最初得到了德国[联邦信息安全办公室](../Page/联邦信息安全办公室.md "wikilink")的资助。\[1\]\[2\] Gpg4win及其所有包含的工具都是[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，Windows平台上典型的非商用选择。\[3\]\[4\]

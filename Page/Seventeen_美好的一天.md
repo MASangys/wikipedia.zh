@@ -1,3 +1,6 @@
+> 本文内容由[Seventeen 美好的一天](https://zh.wikipedia.org/wiki/Seventeen_美好的一天)转换而来。
+
+
 《**SEVENTEEN 美好的一天**》（）是韓國[MBC電視台的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")，由[SEVENTEEN出演](../Page/Seventeen_\(組合\).md "wikilink")。製作單位讓[SEVENTEEN全員自給自足生活](../Page/Seventeen_\(組合\).md "wikilink")，記錄生存過程的真人秀綜藝節目。\[1\]
 
 第一季標題為《13少年漂流記》（），成員前往位在[全羅南道](../Page/全羅南道.md "wikilink")的，進行為期五天的島上生活。

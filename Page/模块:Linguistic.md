@@ -1,3 +1,6 @@
+> 本文内容由[模块:Linguistic](https://zh.wikipedia.org/wiki/模块:Linguistic)转换而来。
+
+
 \-- some simple internationalization that can be called by other modules
 
 local p = {} local f = require('Module:Fallback') local i18n = mw.loadData('Module:I18n/linguistic')

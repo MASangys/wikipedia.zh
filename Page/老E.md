@@ -1,3 +1,6 @@
+> 本文内容由[老E](https://zh.wikipedia.org/wiki/老E)转换而来。
+
+
 **张驰**（），中国大陆游戏主播。曾用游戏用户名**Dream.E**，复出后改为**EdmundDZhang**，自称“**老E**”（有時候是以「E某」來稱呼自己）。曾与直播平台战旗签约，2018年9月1号轉為與虎牙平台簽約直播(中午12点以及晚上7点)現於bilibili直播。 同时活跃于视频网站[bilibili和](https://zh.wikipedia.org/wiki/bilibili "wikilink")[优酷](../Page/优酷.md "wikilink")投稿游戏实况，也會在[Youtube投稿其他遊戲實況](https://zh.wikipedia.org/wiki/Youtube "wikilink")。早期在「這不是解說」有介紹不少FC遊戲而廣為人知，後以高超的[FPS技术而闻名](../Page/第一人称射击游戏.md "wikilink")。
 
 ## 外部链接

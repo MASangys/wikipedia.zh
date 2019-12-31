@@ -1,3 +1,6 @@
+> 本文内容由[Discord](https://zh.wikipedia.org/wiki/Discord)转换而来。
+
+
 **Discord**是一款专为[电子游戏](../Page/电子游戏.md "wikilink")社区设计的免费[网络实时通话](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")[软件与](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[数字发行平台](https://zh.wikipedia.org/wiki/数字发行 "wikilink")，主要用户为游戏玩家，玩家之间可以在软件的聊天频道通过信息、图片、视频和音频进行互动。这款软件可以在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Linux](../Page/Linux.md "wikilink")和[网页上运行](https://zh.wikipedia.org/wiki/网页 "wikilink")。
 
 ## 历史发展

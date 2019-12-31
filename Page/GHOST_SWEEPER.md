@@ -1,3 +1,6 @@
+> 本文内容由[GHOST SWEEPER](https://zh.wikipedia.org/wiki/GHOST_SWEEPER)转换而来。
+
+
 《**GHOST SWEEPER**》是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")的首張單曲。1993年4月30日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 解說

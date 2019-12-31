@@ -1,3 +1,6 @@
+> 本文内容由[B.A.P獲獎及提名列表](https://zh.wikipedia.org/wiki/B.A.P獲獎及提名列表)转换而来。
+
+
 [B.A.P](../Page/B.A.P.md "wikilink")是隸屬於[TS娛樂](../Page/TS娛樂.md "wikilink")的男子組合，自2012年出道以來已獲頒多獎項。
 
 ## 主要獎項

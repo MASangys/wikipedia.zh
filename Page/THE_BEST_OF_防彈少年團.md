@@ -1,3 +1,6 @@
+> 本文内容由[THE BEST OF 防彈少年團](https://zh.wikipedia.org/wiki/THE_BEST_OF_防彈少年團)转换而来。
+
+
 《**THE BEST OF 防彈少年團**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，在2017年1月6日以四個版本：JAPAN EDITION豪華初回限定盤、JAPAN EDITION通常盤、KOREA EDITION豪華初回限定盤、及KOREA EDITION通常盤推出\[1\]\[2\]。
 
 ## 背景

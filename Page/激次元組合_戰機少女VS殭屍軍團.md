@@ -1,3 +1,6 @@
+> 本文内容由[激次元組合 戰機少女VS殭屍軍團](https://zh.wikipedia.org/wiki/激次元組合_戰機少女VS殭屍軍團)转换而来。
+
+
 為[Idea Factory和](../Page/Idea_Factory.md "wikilink")[Compile Heart](../Page/Compile_Heart.md "wikilink")，[Tamsoft於](https://zh.wikipedia.org/wiki/Tamsoft "wikilink")2015年10月15日所開發的[PlayStation Vita用](../Page/PlayStation_Vita.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。人物設計及原畫继续由插畫家[Tsunako](../Page/Tsunako.md "wikilink")擔任。是为[海王星系列的外传并为本系列第二部動作角色扮演遊戲](https://zh.wikipedia.org/wiki/海王星系列 "wikilink")。
 
 *在以下項目中，有出現許多與真實世界的企業名稱和遊戲名稱相同的名詞，在以下項目會另做遊戲中登場各名詞的說明。*

@@ -1,3 +1,6 @@
+> 本文内容由[Snaptee](https://zh.wikipedia.org/wiki/Snaptee)转换而来。
+
+
 Snaptee是一間以[香港](../Page/香港.md "wikilink")為總部的手機自製T-shirt程式公司。2013年創始，只要將圖畫輸入App，即可製作屬於自己的T-shirt。\[1\]
 
 ## 融資歷史

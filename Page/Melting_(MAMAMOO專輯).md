@@ -1,4 +1,4 @@
-> 本文内容由[Melting \(MAMAMOO專輯\)](https://zh.wikipedia.org/wiki/Melting \(MAMAMOO專輯\))转换而来。
+> 本文内容由[Melting \(MAMAMOO專輯\)](https://zh.wikipedia.org/wiki/Melting_\(MAMAMOO專輯\))转换而来。
 
 
 《**Melting**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的首張韓語正規專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[CJ E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2016年2月26日發行，主打曲為《You're the best》。

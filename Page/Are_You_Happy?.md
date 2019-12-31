@@ -1,3 +1,6 @@
+> 本文内容由[Are You Happy\?](https://zh.wikipedia.org/wiki/Are_You_Happy\?)转换而来。
+
+
 《**Are You Happy?**》是[嵐](../Page/嵐.md "wikilink")的第18張專輯，第15枚原創專輯，日本於2016年10月26日發行，台壓版於2016年11月18日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

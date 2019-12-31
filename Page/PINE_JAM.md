@@ -1,3 +1,6 @@
+> 本文内容由[PINE JAM](https://zh.wikipedia.org/wiki/PINE_JAM)转换而来。
+
+
 **株式會社PINE JAM**（）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")，設立於2015年7月3日\[1\]。
 
 ## 作品列表

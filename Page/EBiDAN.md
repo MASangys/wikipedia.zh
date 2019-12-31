@@ -1,3 +1,6 @@
+> 本文内容由[EBiDAN](https://zh.wikipedia.org/wiki/EBiDAN)转换而来。
+
+
 [EBiDAN_logo.jpg](https://zh.wikipedia.org/wiki/File:EBiDAN_logo.jpg "fig:EBiDAN_logo.jpg")
 
 （）是[日本](../Page/日本.md "wikilink")经纪公司[星尘传播旗下年轻男性](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[艺人](../Page/艺人.md "wikilink")及[演员所组成的剧团及艺人集体](https://zh.wikipedia.org/wiki/演员 "wikilink")，该名字源自“惠比寿学园男子部”（）的缩写。

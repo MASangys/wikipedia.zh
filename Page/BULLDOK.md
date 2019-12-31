@@ -1,3 +1,6 @@
+> 本文内容由[BULLDOK](https://zh.wikipedia.org/wiki/BULLDOK)转换而来。
+
+
 **BULLDOK**（）由[韓國Kconic](https://zh.wikipedia.org/wiki/韓國 "wikilink") entertainment 於2016年推出的五人女子團體，出道成員包括 小拉、GENIE、KIMI（隊長）、SAY、亨恩。團名是Bulldog（鬥牛犬）+Kconic Entertainment（經紀公司）的組合；[鬥牛犬是性情堅強勇敢](https://zh.wikipedia.org/wiki/鬥牛犬 "wikilink")，卻對主人很溫馴的狗種，是希望在舞台上表現出動感與力度，但是對粉絲展現出溫柔的一面的意思。2018年1月18日正式宣布解散。
 
 ## 經歷

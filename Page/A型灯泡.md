@@ -1,3 +1,6 @@
+> 本文内容由[A型灯泡](https://zh.wikipedia.org/wiki/A型灯泡)转换而来。
+
+
 [Gluehlampe_01_KMJ.png](https://zh.wikipedia.org/wiki/File:Gluehlampe_01_KMJ.png "fig:Gluehlampe_01_KMJ.png")
 
 **A型灯泡**（），指的是一种“经典”的梨形[电灯泡](https://zh.wikipedia.org/wiki/电灯泡 "wikilink")，大多配有[爱迪生螺口底座](https://zh.wikipedia.org/wiki/爱迪生螺口 "wikilink")。自20世纪早期起，此类灯泡一直是最常见的日常电灯。A型灯泡的型号后面的数字表示其最宽处直径，在北美按为一单位计算，\[1\]\[2\]在欧洲、印度则以[毫米](../Page/毫米.md "wikilink")计。\[3\]\[4\]\[5\]

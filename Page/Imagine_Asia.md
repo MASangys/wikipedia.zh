@@ -1,4 +1,4 @@
-> 本文内容由[Imagine Asia](https://zh.wikipedia.org/wiki/Imagine Asia)转换而来。
+> 本文内容由[Imagine Asia](https://zh.wikipedia.org/wiki/Imagine_Asia)转换而来。
 
 
 **Imagine Asia**\[1\]（），是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在1976年7月，包括影劇投資製作、電影投資製作、藝人管理、歌手演唱會企劃等，在2013年12月2日併購（Dream T Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛樂](../Page/YMC娛樂.md "wikilink")合共80%的股份並由DreamT娛樂管理。

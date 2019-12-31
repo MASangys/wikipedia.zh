@@ -1,3 +1,6 @@
+> 本文内容由[Creators in Pack](https://zh.wikipedia.org/wiki/Creators_in_Pack)转换而来。
+
+
 **株式會社Creators in Pack**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。除了從事總承包業務的studio C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
 
 ## 作品列表

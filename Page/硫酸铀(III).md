@@ -1,3 +1,6 @@
+> 本文内容由[硫酸铀\(III\)](https://zh.wikipedia.org/wiki/硫酸铀\(III\))转换而来。
+
+
 **硫酸铀(III)**是三价[铀的](https://zh.wikipedia.org/wiki/铀 "wikilink")[硫酸盐](https://zh.wikipedia.org/wiki/硫酸盐 "wikilink")，化学式为U<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>，具有[放射性](../Page/放射性.md "wikilink")。它是第一个被发现的水合的三价铀盐。
 
 ## 制备
@@ -17,9 +20,7 @@
 [Category:1960年代发现的物质](https://zh.wikipedia.org/wiki/Category:1960年代发现的物质 "wikilink")
 
 1.  Barnard, R., Bullock, J. I., & Larkworthy, L. F. (1967). Preparation and properties of hydrated uranium (III) sulphate. *Chemical Communications (London)*, (24), 1270b-1272. DOI: 10.1039/C1967001270B
-
 2.
 3.  Barnard, R., Bullock, J. I., & Larkworthy, L. F. (1972). The chemistry of the trivalent actinides. Part I. Uranium (III) sulphates and double sulphates. *Journal of the Chemical Society, Dalton Transactions*, (8-9), 964-970. <DOI:10.1039/DT9720000964>
-
 4.
 5.  Bullock J I, Ladd M F C, Povey D C, *et al*. The Chemistry of the trivalent actinoids. Part 7 \[1\]. Crystal structure analysis of \[NH<sub>4</sub>\]U\[SO<sub>4</sub>\]<sub>2</sub>·4H<sub>2</sub>O and comments on the structure of U<sub>2</sub>\[SO<sub>4</sub>\]<sub>3</sub>·9H<sub>2</sub>O. *Inorganica Chimica Acta*, 1980, 43:101-108. DOI: 10.1016/S0020-1693(00)90512-7

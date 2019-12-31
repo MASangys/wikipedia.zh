@@ -1,4 +1,4 @@
-> 本文内容由[Windows Server更新服务](https://zh.wikipedia.org/wiki/Windows Server更新服务)转换而来。
+> 本文内容由[Windows Server更新服务](https://zh.wikipedia.org/wiki/Windows_Server更新服务)转换而来。
 
 
 **Windows Server更新服务**\[1\]（，缩写**WSUS**），曾称为**软件更新服务**（Software Update Services，缩写**SUS**），是[微软公司开发的一个计算机程序](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，它允许管理员管理已为微软产品发布的[更新和](https://zh.wikipedia.org/wiki/修補程式 "wikilink")[热修复](../Page/热修复.md "wikilink")补丁分发到企业环境中的计算机。WSUS从[微软更新网站下载这些更新](../Page/Windows_Update.md "wikilink")，然后分发它们到网络上的计算机。WSUS运行在[Windows Server上](../Page/Windows_Server.md "wikilink")，免费[授权给微软客户](https://zh.wikipedia.org/wiki/授权 "wikilink")。

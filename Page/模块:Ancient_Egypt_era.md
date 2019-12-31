@@ -1,3 +1,6 @@
+> 本文内容由[模块:Ancient Egypt era](https://zh.wikipedia.org/wiki/模块:Ancient_Egypt_era)转换而来。
+
+
 \-- This module implements . It converts a year in the Gregorian -- calendar to the equivalent year of the ancient Egyptian era organized by dynasties and kings.
 
 local data = mw.loadData( 'Module:Ancient Egypt era/data' ) local lang = mw.language.getContentLanguage()

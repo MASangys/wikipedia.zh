@@ -1,4 +1,4 @@
-> 本文内容由[MLG 27遙控機炮](https://zh.wikipedia.org/wiki/MLG 27遙控機炮)转换而来。
+> 本文内容由[MLG 27遙控機炮](https://zh.wikipedia.org/wiki/MLG_27遙控機炮)转换而来。
 
 
 **MLG 27**（[德语](../Page/德语.md "wikilink")全寫：，意為：27毫米口徑海上輕型火砲）是一台由[莱茵金属](../Page/莱茵金属.md "wikilink")以[BK-27機炮](../Page/BK-27機炮.md "wikilink")為藍本研製與生產的[遙控](../Page/遙控武器系統.md "wikilink")[舰载](../Page/舰炮.md "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，發射27×145毫米機炮[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。

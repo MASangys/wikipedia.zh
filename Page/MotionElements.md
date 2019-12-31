@@ -1,3 +1,6 @@
+> 本文内容由[MotionElements](https://zh.wikipedia.org/wiki/MotionElements)转换而来。
+
+
 MotionElements 是一個提供[免版稅影音素材的網路平台](../Page/買斷式授權.md "wikilink")，授權的素材有影片素材、背景音樂素材、[Adobe After Effects](../Page/Adobe_After_Effects.md "wikilink") 模板、Apple Motion 模板以及[動態GIF](../Page/GIF.md "wikilink")\[1\]。
 
 MotionElements 創建於2010年，由Mark Sun, Joanne Chua, Sean Quek共同創立。Mark與Joanne原為[影片後製公司的經營者](https://zh.wikipedia.org/wiki/後期製作 "wikilink")，在經營過程中發現當時並無影音素材網站專注於亞洲公司的需求，使他們尋找適合的亞洲影片素材時感到困難，兩人便與Sean合資創立了以[亞洲需求為主軸的影音素材平台](../Page/亚洲.md "wikilink")，搜集各式亞洲風格素材，以及研發搜尋技術減少[跨語言搜尋的隔閡](../Page/跨語檢索.md "wikilink")。在2015年8月開始的第一輪募資中，獲得了KK Fund、Incubate Fund、500 Startups等基金領投\[2\]，MotionElements以該筆資金，先後在[日本](../Page/日本.md "wikilink")以及[台灣設立營運據點](../Page/臺灣.md "wikilink")\[3\]。

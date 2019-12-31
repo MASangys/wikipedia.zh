@@ -1,4 +1,4 @@
-> 本文内容由[卡西歐 fx-82MS](https://zh.wikipedia.org/wiki/卡西歐 fx-82MS)转换而来。
+> 本文内容由[卡西歐 fx-82MS](https://zh.wikipedia.org/wiki/卡西歐_fx-82MS)转换而来。
 
 
 **卡西欧 fx-82MS**是[卡西欧发行的一款](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")[科学计算器](https://zh.wikipedia.org/wiki/科学计算器 "wikilink")。该款计算器用于取代原先的型号[fx-82TL](https://zh.wikipedia.org/wiki/卡西欧_fx-82TL "wikilink")，并在原型号上进行改进，增加了功能。fx-82MS为卡西欧MS系列计算器的入门级机型。

@@ -1,3 +1,6 @@
+> 本文内容由[Kobi Arad](https://zh.wikipedia.org/wiki/Kobi_Arad)转换而来。
+
+
 **Kobi Arad**是以色列 - 美國鋼琴家和當代音樂作曲家。目前定居在紐約市\[1\]，他作曲，編曲和表現混合流派的音樂，包括第三流派音樂，古典音樂，爵士，R＆B ，嘻哈和電子音樂，他多作即興表演\[2\]。他的音樂曾被Ynet \[3\] 和All About Jazz報導\[4\]，其中後者稱他在2011年發布的專輯Sketches of Imaginary Landscapes 為「一位擁有多元化音樂才能和明確目標的音樂家。」\[5\] Arad與多位藝術家合作，例如有Stevie Wonder和Cindy Blackman \[6\]。 他曾與Kobi Arad Band在紐約Blue Note 演出由他編寫的作品\[7\]，並收錄和出版音樂，如Hal Leonard \[8\]。
 
 ## 音樂事業

@@ -1,3 +1,6 @@
+> 本文内容由[MYM娛樂](https://zh.wikipedia.org/wiki/MYM娛樂)转换而来。
+
+
 **MYM娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。MYM Entertainment 有「Me and You Making Entertainment」之意，顧名思義，公司創立的宗旨，是希望「우리가 만들어가는 세상의 모든 즐거움」，「我們一同創造世界上一切的歡樂」。
 
 ## 歷史

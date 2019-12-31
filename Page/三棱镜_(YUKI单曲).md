@@ -1,3 +1,6 @@
+> 本文内容由[三棱镜 \(YUKI单曲\)](https://zh.wikipedia.org/wiki/三棱镜_\(YUKI单曲\))转换而来。
+
+
 \-{「}-**三棱镜**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")2张单曲。
 
 ## 简介

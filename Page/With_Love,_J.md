@@ -1,3 +1,6 @@
+> 本文内容由[With Love, J](https://zh.wikipedia.org/wiki/With_Love,_J)转换而来。
+
+
 **With Love, J**是美籍韓裔歌手[Jessica第一張](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。專輯內六首韓文歌在2016年5月17日由[Coridel Entertainment發佈](https://zh.wikipedia.org/wiki/Coridel_Entertainment "wikilink")，而除了Dear Diary之外其他五首英文版在5月27發佈\[1\]。此張專輯是Jessica自2014年9月退出韓國女團[少女時代後的第一個作品](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，主打歌Fly和Love Me The Same分別在5月17、18日發佈\[2\]。
 
 ## 歌曲

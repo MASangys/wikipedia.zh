@@ -1,3 +1,6 @@
+> 本文内容由[NEWS金探號](https://zh.wikipedia.org/wiki/NEWS金探號)转换而来。
+
+
 《**NEWS金探號**》，是[非凡電視台](../Page/非凡電視台.md "wikilink")一個以輕鬆方式專門介紹旅遊、財經相關生活資訊的新聞性節目，[非凡新聞台](../Page/非凡新聞台.md "wikilink")播出時間為每周六至日22:00\~23:00。[台視綜合台](../Page/台視綜合台.md "wikilink")亦有播出。
 
 ## 節目宗旨
@@ -31,7 +34,7 @@
 <td><p><a href="../Page/非凡新聞台.md" title="wikilink">非凡新聞台</a></p></td>
 <td></td>
 <td><p>2014年3月1日－至今</p></td>
-<td><p>每周日22:00－23:00</p></td>
+<td><p>每周六日22:00－23:00</p></td>
 </tr>
 </tbody>
 </table>
@@ -55,10 +58,10 @@
 <td><p>每週日09:00－10:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/非凡新聞台.md" title="wikilink">非凡新聞台</a></p></td>
-<td></td>
 <td><p>2017年7月1日－至今</p></td>
 <td><p>每週六15:00－16:00</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>

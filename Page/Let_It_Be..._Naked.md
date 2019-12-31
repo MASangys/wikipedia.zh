@@ -1,4 +1,4 @@
-> 本文内容由[Let It Be... Naked](https://zh.wikipedia.org/wiki/Let It Be... Naked)转换而来。
+> 本文内容由[Let It Be... Naked](https://zh.wikipedia.org/wiki/Let_It_Be..._Naked)转换而来。
 
 
 《**Let It Be... Naked**》是在2003发表的[披头士乐队的专辑](../Page/披頭四樂隊.md "wikilink")。有两枚组的CD盘、30cm的[LP盘以及](../Page/密紋唱片.md "wikilink")17cm的[EP盘](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。包括日本在内的一部分地区首次将披头士乐队的作品以[拷贝限制型CD（CCCD）发售](../Page/Copy_Control.md "wikilink")，而英国以及美国等地仍旧使用的是通常的[CD-DA形式](../Page/CDDA.md "wikilink")。然而，由于[拷贝限制型CD（CCCD）的技术缺陷](../Page/Copy_Control.md "wikilink")，这些光盘的音质劣化十分明显\[1\]。之后，日本盘又重新以[CD-DA再次发售](../Page/CDDA.md "wikilink")。

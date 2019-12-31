@@ -1,3 +1,6 @@
+> 本文内容由[PC World](https://zh.wikipedia.org/wiki/PC_World)转换而来。
+
+
 《**PC World**》，亦可写成“PCWorld”，是一个由[国际数据集团](../Page/国际数据集团.md "wikilink")发行的[电脑杂志](https://zh.wikipedia.org/wiki/电脑杂志 "wikilink")。\[1\] 2013年后仅在网路发布。它主要提供电脑相关，[互联网](../Page/互联网.md "wikilink")，个人科技产品和服务的咨询意见。 
 
 目前PC World的总编辑是[瓊·菲利普斯](https://zh.wikipedia.org/wiki/瓊·菲利普斯 "wikilink")，他曾经是[连线](../Page/连线.md "wikilink")的编辑。 2012年，他代替[史蒂夫·福克斯成为总编辑](https://zh.wikipedia.org/wiki/史蒂夫·福克斯 "wikilink")。 \[2\]

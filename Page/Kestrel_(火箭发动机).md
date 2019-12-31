@@ -1,4 +1,4 @@
-> 本文内容由[Kestrel \(火箭发动机\)](https://zh.wikipedia.org/wiki/Kestrel \(火箭发动机\))转换而来。
+> 本文内容由[Kestrel \(火箭发动机\)](https://zh.wikipedia.org/wiki/Kestrel_\(火箭发动机\))转换而来。
 
 
 **Kestrel火箭发动机**是一款使用[液氧](../Page/液氧.md "wikilink")和[煤油](../Page/煤油.md "wikilink")作为燃料的[挤压循环火箭发动机](https://zh.wikipedia.org/wiki/挤压循环 "wikilink")。

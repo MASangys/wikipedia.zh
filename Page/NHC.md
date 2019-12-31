@@ -1,3 +1,6 @@
+> 本文内容由[NHC](https://zh.wikipedia.org/wiki/NHC)转换而来。
+
+
 **NHC**可以指：
 
   - Nag Hammadi Codex, or Nag Hammadi Codices：如或

@@ -1,3 +1,6 @@
+> 本文内容由[Production Ace](https://zh.wikipedia.org/wiki/Production_Ace)转换而来。
+
+
 **株式會社Production Ace**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[藝人及](https://zh.wikipedia.org/wiki/藝人 "wikilink")[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介

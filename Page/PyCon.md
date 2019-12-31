@@ -1,3 +1,6 @@
+> 本文内容由[PyCon](https://zh.wikipedia.org/wiki/PyCon)转换而来。
+
+
 **PyCon**（**Py**thon **Con**ference）是指一系列专门探讨和推广[Python](../Page/Python.md "wikilink")编程语言的[会议](https://zh.wikipedia.org/wiki/会议 "wikilink")\[1\]。起源于美国，但也在其他许多有活跃Python开发者社区的国家举办活动\[2\]\[3\]。此外还有一些会议专门对科学家推广[SciPy](../Page/SciPy.md "wikilink")库。
 
 ## 各地的会议

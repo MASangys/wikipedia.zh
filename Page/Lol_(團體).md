@@ -1,4 +1,4 @@
-> 本文内容由[Lol \(團體\)](https://zh.wikipedia.org/wiki/Lol \(團體\))转换而来。
+> 本文内容由[Lol \(團體\)](https://zh.wikipedia.org/wiki/Lol_\(團體\))转换而来。
 
 
 **lol**（）是[avex trax培訓的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[日本](../Page/日本.md "wikilink")男女混合五人歌舞表演團體。2015年8月12日以首張單曲『[fire\!](https://zh.wikipedia.org/wiki/fire! "wikilink")』主流出道。

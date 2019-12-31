@@ -1,4 +1,4 @@
-> 本文内容由[High Brow](https://zh.wikipedia.org/wiki/High Brow)转换而来。
+> 本文内容由[High Brow](https://zh.wikipedia.org/wiki/High_Brow)转换而来。
 
 
 **High Brow**，是[MBK Entertainment旗下的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")2人男子團體\[1\]。兩名成員皆就讀於美國[伯克利音樂學院](../Page/伯克利音樂學院.md "wikilink")，出道歌曲《THE MIND (마음)》與[Davichi](../Page/Davichi.md "wikilink")李海莉共同合作演唱，MV及概念照都是在他們就讀的伯克利音樂學院中拍攝而成，新曲則是由HIGHBROW成员이주헌負責作曲和作词。

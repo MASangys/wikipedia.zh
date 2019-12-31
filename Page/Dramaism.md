@@ -1,3 +1,6 @@
+> 本文内容由[Dramaism](https://zh.wikipedia.org/wiki/Dramaism)转换而来。
+
+
 **Dramaism**（），是[每日放送](../Page/每日放送.md "wikilink")每逢星期日不定時間播放的[電視連續劇時段](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
 
 ## 概要

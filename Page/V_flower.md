@@ -1,3 +1,6 @@
+> 本文内容由[V flower](https://zh.wikipedia.org/wiki/V_flower)转换而来。
+
+
 **flower**（）是Gynoid推出的[Vocaloid歌手](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。数据库由[雅马哈开发](https://zh.wikipedia.org/wiki/雅马哈 "wikilink")，后续升级由Gynoid完成，[HoneyWorks](../Page/HoneyWorks.md "wikilink")的画手设计出该角色，原声提供者未公佈。Vocaloid3产品“v flower”于2014年发售，Vocaloid4产品“v4 flower”于2015年发售。
 
 ## 角色

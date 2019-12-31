@@ -1,4 +1,4 @@
-> 本文内容由[Portal:Linux/Selected quote/Layout](https://zh.wikipedia.org/wiki/Portal:Linux/Selected quote/Layout)转换而来。
+> 本文内容由[Portal:Linux/Selected quote/Layout](https://zh.wikipedia.org/wiki/Portal:Linux/Selected_quote/Layout)转换而来。
 
 
 |                                                                                                                                   |     |                                                                                                                                |

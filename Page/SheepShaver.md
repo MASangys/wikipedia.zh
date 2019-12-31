@@ -1,3 +1,6 @@
+> 本文内容由[SheepShaver](https://zh.wikipedia.org/wiki/SheepShaver)转换而来。
+
+
 **SheepShaver**是一个为[BeOS](../Page/BeOS.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows设计的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[PowerPC](../Page/PowerPC.md "wikilink") [Macintosh模拟器](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")。SheepShaver最初由Christian Bauer设计开发，目前主要开发者为Gwenolé Beauchesne。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[不會停止的Jingle Bell](https://zh.wikipedia.org/wiki/不會停止的Jingle_Bell)转换而来。
+
+
 **《不會停止的Jingle Bell》**（）是[Aqours](../Page/Aqours.md "wikilink")的单曲，于2016年11月23日由[Lantis](../Page/Lantis.md "wikilink")发行\[1\]。
 
 ## 概况

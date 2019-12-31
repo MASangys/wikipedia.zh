@@ -1,3 +1,6 @@
+> 本文内容由[ICS藝術學院](https://zh.wikipedia.org/wiki/ICS藝術學院)转换而来。
+
+
 **ICS藝術學院**（ICS College of Arts），位於日本東京都目黑區。是日本最初設立的室內設計專門學校。
 
 ## 概要

@@ -1,4 +1,4 @@
-> 本文内容由[AAA 10th Anniversary SPECIAL 野外LIVE in 富士急高原樂園](https://zh.wikipedia.org/wiki/AAA 10th Anniversary SPECIAL 野外LIVE in 富士急高原樂園)转换而来。
+> 本文内容由[AAA 10th Anniversary SPECIAL 野外LIVE in 富士急高原樂園](https://zh.wikipedia.org/wiki/AAA_10th_Anniversary_SPECIAL_野外LIVE_in_富士急高原樂園)转换而来。
 
 
 『**AAA 10th Anniversary SPECIAL 野外LIVE in 富士急高原樂園**』是[日本](../Page/日本.md "wikilink")音樂團體[AAA在](../Page/AAA_\(團體\).md "wikilink")2016年1月27日發售的第17個影像作品。

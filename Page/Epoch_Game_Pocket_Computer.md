@@ -1,4 +1,4 @@
-> 本文内容由[Epoch Game Pocket Computer](https://zh.wikipedia.org/wiki/Epoch Game Pocket Computer)转换而来。
+> 本文内容由[Epoch Game Pocket Computer](https://zh.wikipedia.org/wiki/Epoch_Game_Pocket_Computer)转换而来。
 
 
 **Game Pocket Computer**是[Epoch於](https://zh.wikipedia.org/wiki/Epoch "wikilink")1984年發售的掌上遊戲機，售價12,000[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。它是以[Epoch Cassette Vision的掌上遊戲機版本為中心而開發](https://zh.wikipedia.org/wiki/Epoch_Cassette_Vision "wikilink")，亦是日本電子遊戲機歷史第一部以卡帶作為媒介的掌上遊戲機\[1\]。

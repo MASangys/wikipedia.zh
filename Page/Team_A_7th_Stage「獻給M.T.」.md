@@ -1,4 +1,4 @@
-> 本文内容由[Team A 7th Stage「獻給M.T.」](https://zh.wikipedia.org/wiki/Team A 7th Stage「獻給M.T.」)转换而来。
+> 本文内容由[Team A 7th Stage「獻給M.T.」](https://zh.wikipedia.org/wiki/Team_A_7th_Stage「獻給M.T.」)转换而来。
 
 
 [A72.jpg](https://zh.wikipedia.org/wiki/File:A72.jpg "fig:A72.jpg")

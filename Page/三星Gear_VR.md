@@ -1,4 +1,4 @@
-> 本文内容由[三星Gear VR](https://zh.wikipedia.org/wiki/三星Gear VR)转换而来。
+> 本文内容由[三星Gear VR](https://zh.wikipedia.org/wiki/三星Gear_VR)转换而来。
 
 
 [Woman_Using_a_Samsung_VR_Headset_at_SXSW_2015_(2015-03-15_14.10.24_by_Nan_Palmero).jpg](https://zh.wikipedia.org/wiki/File:Woman_Using_a_Samsung_VR_Headset_at_SXSW_2015_\(2015-03-15_14.10.24_by_Nan_Palmero\).jpg "fig:Woman_Using_a_Samsung_VR_Headset_at_SXSW_2015_(2015-03-15_14.10.24_by_Nan_Palmero).jpg")

@@ -1,3 +1,6 @@
+> 本文内容由[AMYO](https://zh.wikipedia.org/wiki/AMYO)转换而来。
+
+
 **AMYO**(Amber\&Yoanna)是由前女子團體[Roomie](../Page/Roomie.md "wikilink")成員[安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")（Amber）以及混血模特兒[孫尤安](../Page/孫尤安.md "wikilink")（Yoanna）組成的音樂組合，出道前在[Youtube上發表多首Cover歌曲而知名](https://zh.wikipedia.org/wiki/Youtube "wikilink")，2017年發行數位單曲《說破》，正式以[AMYO](../Page/AMYO.md "wikilink")組合形式出道。同年，結束與艾克斯娛樂合約，低調解散。
 
 ## 音樂作品

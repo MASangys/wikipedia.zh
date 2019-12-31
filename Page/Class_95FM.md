@@ -1,3 +1,6 @@
+> 本文内容由[Class 95FM](https://zh.wikipedia.org/wiki/Class_95FM)转换而来。
+
+
 **Class 95**是[新傳媒旗下的一個廣播頻道](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")，於1990年1月1日啟播，也是[新加坡](../Page/新加坡.md "wikilink")最高收聽率的[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")。Class 95 以[英語廣播](https://zh.wikipedia.org/wiki/英語 "wikilink")，頻道定位為「The Best Mix of Music」，以25至40嵗的專業與管理人士的聽眾為對象。
 
 ## 背景

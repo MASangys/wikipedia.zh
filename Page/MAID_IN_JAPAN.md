@@ -1,3 +1,6 @@
+> 本文内容由[MAID IN JAPAN](https://zh.wikipedia.org/wiki/MAID_IN_JAPAN)转换而来。
+
+
 『**MAID IN JAPAN**』是[BAND-MAID](../Page/BAND-MAID.md "wikilink")®出道前第1張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，在2014年1月8日發售。在2018年2月14日，加入兩首出道前的歌曲，重新發售。
 
 ## 概要

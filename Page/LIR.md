@@ -1,3 +1,6 @@
+> 本文内容由[LIR](https://zh.wikipedia.org/wiki/LIR)转换而来。
+
+
 **LIR**，[香港](../Page/香港.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成員共有四人，由[松岡李那](../Page/松岡李那.md "wikilink")和[王友良](../Page/王友良.md "wikilink")、[李礎業](../Page/李礎業.md "wikilink")、[鄧佑剛組成](https://zh.wikipedia.org/wiki/鄧佑剛 "wikilink")\[1\]\[2\]\[3\]\[4\]。
 
 ## 團名由來

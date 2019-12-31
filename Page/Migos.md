@@ -1,3 +1,6 @@
+> 本文内容由[Migos](https://zh.wikipedia.org/wiki/Migos)转换而来。
+
+
 ****或称**米戈斯**，是一支来自美国[佐治亚州](../Page/喬治亞州.md "wikilink")[劳伦斯维尔的嘻哈团体](../Page/勞倫斯維爾_\(喬治亞州\).md "wikilink")，组建于2009年。\[1\] 该组合由艺名分别为 Quavo、Offset 和 Takeoff 的三人组成。Migos在2013年发布他们选自混音带《Y.R.N. (Young Rich Niggas)》的首支商业单曲《》。他们还发布过若干单曲，例如《Fight Night》（2014年）、《Look at My Dab》（2015年）和名列榜单第一的单曲《Bad and Boujee》（2016年）。
 
 这支三人组合在2015年通过 Quality Control Music 和 300 Entertainment 发行了首张专辑《Yung Rich Nation》。其在2017年1月发行的第二张专辑《Culture》在告示牌前200榜单中排名第一。\[2\]\[3\] 由曾经担任亚特兰大说唱歌手 Gucci Mane 和[楊·吉茲经理人的](https://zh.wikipedia.org/wiki/楊·吉茲 "wikilink") Coach K 主持 Migos 的管理，\[4\] 他们也与制作人 DJ Durel , Murda Beatz 和 Zaytoven 有着频繁的合作。\[5\] 2018年1月发行的第三张专辑《Culture II》也在告示牌前200榜单中排名第一。

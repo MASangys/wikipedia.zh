@@ -1,3 +1,6 @@
+> 本文内容由[理查德·S·阿諾德](https://zh.wikipedia.org/wiki/理查德·S·阿諾德)转换而来。
+
+
 **理查德·謝潑德·阿諾德**（，），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[法官](../Page/法官.md "wikilink")。曾任聯邦第八巡迴上訴法院法官、此前出任美國阿肯色西區聯邦地區法院、美國阿肯色東區聯邦地區法院法官。[李察·尼克松及](https://zh.wikipedia.org/wiki/李察·尼克松 "wikilink")[比爾·克林頓曾考慮提名阿諾德為最高法院法官](https://zh.wikipedia.org/wiki/比爾·克林頓 "wikilink")。[埃默里大學教授Polly](https://zh.wikipedia.org/wiki/埃默里大學 "wikilink") Price，阿諾德之前法官助理、其傳記作者聲言阿諾德為傑出法學家，與[勒恩德·漢德般人所銘記](https://zh.wikipedia.org/wiki/勒恩德·漢德 "wikilink")："或許為無緣任職最高法院之最優秀法官"。
 
 ## 生平

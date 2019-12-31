@@ -1,3 +1,6 @@
+> 本文内容由[Intel Core i5處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_i5處理器列表)转换而来。
+
+
 **[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core i5](https://zh.wikipedia.org/wiki/Core_i5 "wikilink")** 是「Core i品牌」四個子系列之一。
 
 從[Sandy Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把微架構和代號改成相同名字。
@@ -193,7 +196,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i5-6402P</p></td>
@@ -206,7 +209,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Core i5-6500</p></td>
@@ -219,7 +222,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i5-6600</p></td>
@@ -232,7 +235,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Core i5-6400T</p></td>
@@ -245,7 +248,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i5-6500T</p></td>
@@ -258,7 +261,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Core i5-6500TE</p></td>
@@ -271,7 +274,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i5-6600T</p></td>
@@ -284,7 +287,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>35 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Core i5-6600K</p></td>
@@ -297,7 +300,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2133 MHz</p></td>
 <td><p>91 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -408,7 +411,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i5-7500</p></td>
@@ -421,7 +424,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Core i5-7600</p></td>
@@ -434,7 +437,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>65 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Core i5-7600K</p></td>
@@ -447,7 +450,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/DDR3L" title="wikilink">DDR3L</a>-1600 MHz /<br />
 <a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2400 MHz</p></td>
 <td><p>91 W</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LGA_1151" title="wikilink">LGA 1151</a></p></td>
+<td><p><a href="../Page/LGA_1151.md" title="wikilink">LGA 1151</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -467,13 +470,13 @@
 
   - 指令集：
 
-| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                         | TDP                                                            | 插槽   | 出品日期                                                          |
-| ------------- | ---- | ------ | ----------------- | -------- | ---- | ------------------------------ | -------------------------------------------------------------- | ---- | ------------------------------------------------------------- |
-| L2            | L3   |        |                   |          |      |                                |                                                                |      |                                                               |
-| Core i5-8400  | 主流   | 6 / 6  | 2.8 GHz (4.0 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1050 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 65 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i5-8500  | 主流   | 6 / 6  | 3.0 GHz (4.1 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1100 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 65 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i5-8600  | 主流   | 6 / 6  | 3.1 GHz (4.3 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1150 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 65 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
-| Core i5-8600K | 玩家超頻 | 6 / 6  | 3.6 GHz (4.3 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1150 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 95 W | [LGA 1151](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink") |
+| 型號            | 市場區隔 | 核心/執行緒 | 時脈頻率（超頻）          | 快取       | 顯示晶片 | 記憶體控制器                         | TDP                                                            | 插槽   | 出品日期                                       |
+| ------------- | ---- | ------ | ----------------- | -------- | ---- | ------------------------------ | -------------------------------------------------------------- | ---- | ------------------------------------------ |
+| L2            | L3   |        |                   |          |      |                                |                                                                |      |                                            |
+| Core i5-8400  | 主流   | 6 / 6  | 2.8 GHz (4.0 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1050 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 65 W | [LGA 1151](../Page/LGA_1151.md "wikilink") |
+| Core i5-8500  | 主流   | 6 / 6  | 3.0 GHz (4.1 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1100 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 65 W | [LGA 1151](../Page/LGA_1151.md "wikilink") |
+| Core i5-8600  | 主流   | 6 / 6  | 3.1 GHz (4.3 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1150 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 65 W | [LGA 1151](../Page/LGA_1151.md "wikilink") |
+| Core i5-8600K | 玩家超頻 | 6 / 6  | 3.6 GHz (4.3 GHz) | 6×256 KB | 9 MB | HD Graphics 630 (350/1150 MHz) | [DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2666 MHz | 95 W | [LGA 1151](../Page/LGA_1151.md "wikilink") |
 
 ## 移動型處理器
 
@@ -624,5 +627,4 @@
 [Category:Intel_x86處理器](https://zh.wikipedia.org/wiki/Category:Intel_x86處理器 "wikilink") [Category:Intel處理器列表](https://zh.wikipedia.org/wiki/Category:Intel處理器列表 "wikilink")
 
 1.
-
 2.

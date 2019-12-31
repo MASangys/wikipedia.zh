@@ -1,3 +1,6 @@
+> 本文内容由[不懂事的兒子的孝順旅行—跟著MOM走](https://zh.wikipedia.org/wiki/不懂事的兒子的孝順旅行—跟著MOM走)转换而来。
+
+
 《**不懂事的兒子的孝順旅行—跟著MOM走**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TV朝鮮](../Page/TV朝鮮.md "wikilink")的綜藝節目，由[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[許卿煥](../Page/許卿煥.md "wikilink")、[朴玄彬](../Page/朴玄彬.md "wikilink")、[宋在喜](../Page/宋在喜.md "wikilink")等人共同主持，節目主要展示明星、藝人或歌手與其母親一同旅行的點點滴滴與旅行過程中發生的故事\[1\]\[2\]。
 
 節目自2017年3月20日起於每週一晚上11點[KST在](https://zh.wikipedia.org/wiki/KST "wikilink")[TV朝鮮](../Page/TV朝鮮.md "wikilink")播出。

@@ -1,4 +1,4 @@
-> 本文内容由[Bitstream Charter](https://zh.wikipedia.org/wiki/Bitstream Charter)转换而来。
+> 本文内容由[Bitstream Charter](https://zh.wikipedia.org/wiki/Bitstream_Charter)转换而来。
 
 
 **Bitstream Charter** 是一個由[馬修·卡特](../Page/馬修·卡特.md "wikilink")於1987年為 [Bitstream](https://zh.wikipedia.org/wiki/Bitstream "wikilink") 設計的有襯線體字型\[1\]，它的設計是基於於18世紀所創造的字型\[2\]。被 Bitstream 分類為[過渡體字體](https://zh.wikipedia.org/wiki/襯線體#過渡體 "wikilink")（Bitstream Transitional 801），它亦有一些[粗襯線體的特質](https://zh.wikipedia.org/wiki/粗襯線體 "wikilink")，亦經常被分類為粗襯線體\[3\]\[4\]。

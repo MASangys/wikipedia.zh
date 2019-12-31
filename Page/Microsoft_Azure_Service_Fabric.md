@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Azure Service Fabric](https://zh.wikipedia.org/wiki/Microsoft Azure Service Fabric)转换而来。
+> 本文内容由[Microsoft Azure Service Fabric](https://zh.wikipedia.org/wiki/Microsoft_Azure_Service_Fabric)转换而来。
 
 
 **Microsoft Azure Service Fabric** 是微軟 Azure 平台上的平台服務之一，它也是基於微軟資源管理架構與基礎建設發展出的新型服務，可用來建置以[微服務](../Page/微服務.md "wikilink")為主的雲端分散式應用程式，而它也將會是 [Microsoft Azure 雲端服務](../Page/Microsoft_Azure_雲端服務.md "wikilink") 的後繼者。Azure 平台上的數個重要服務如 Azure SQL Database、Azure IoT 服務、Azure DocumentDB、Azure Event Hub 等服務都是使用 Service Fabric 作為基礎所開發。

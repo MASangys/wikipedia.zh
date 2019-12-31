@@ -1,4 +1,4 @@
-> 本文内容由[模块:Infobox gene](https://zh.wikipedia.org/wiki/模块:Infobox gene)转换而来。
+> 本文内容由[模块:Infobox gene](https://zh.wikipedia.org/wiki/模块:Infobox_gene)转换而来。
 
 
 local p = { }

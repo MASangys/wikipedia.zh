@@ -1,3 +1,6 @@
+> 本文内容由[V支隊 \(緬甸戰役\)](https://zh.wikipedia.org/wiki/V支隊_\(緬甸戰役\))转换而来。
+
+
 **孟加拉V支隊**（V Force），是[英國在](https://zh.wikipedia.org/wiki/英國 "wikilink")[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[緬甸戰役](../Page/緬甸戰役.md "wikilink")期間成立的一個由[孟加拉](https://zh.wikipedia.org/wiki/孟加拉 "wikilink")[穆斯林](../Page/穆斯林.md "wikilink")組成的偵察武裝和情報蒐集組織，在1942年和1943年的緬甸戰事僵局期間，為印度的[盟軍提供了一個屏障](https://zh.wikipedia.org/wiki/盟軍 "wikilink")，但V支隊無法破壞敵方戰線，蒐集到的情報少，就算蒐集了少量情報，也缺乏[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")[翻譯員或口譯員來處理](https://zh.wikipedia.org/wiki/翻譯 "wikilink")，效用不彰。且他們在[緬甸因屠殺十多萬](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[佛教徒而惡名昭彰](https://zh.wikipedia.org/wiki/佛教徒 "wikilink")，他們在[緬甸的後裔大多是](https://zh.wikipedia.org/wiki/緬甸 "wikilink")[羅興亞人](https://zh.wikipedia.org/wiki/羅興亞人 "wikilink")。
 
 ## 確立與組織

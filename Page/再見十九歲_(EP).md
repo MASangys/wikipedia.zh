@@ -1,4 +1,4 @@
-> 本文内容由[再見十九歲 \(EP\)](https://zh.wikipedia.org/wiki/再見十九歲 \(EP\))转换而来。
+> 本文内容由[再見十九歲 \(EP\)](https://zh.wikipedia.org/wiki/再見十九歲_\(EP\))转换而来。
 
 
 《**再見十九歲**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭家麗](../Page/彭家麗.md "wikilink")的第一張EP，首張粵語專輯，於1989年2月17日推出，這專輯中的主打歌是《再見十九歲》，另外B面是三首歌曲的伴唱版。

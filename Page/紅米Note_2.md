@@ -1,4 +1,4 @@
-> 本文内容由[紅米Note 2](https://zh.wikipedia.org/wiki/紅米Note 2)转换而来。
+> 本文内容由[紅米Note 2](https://zh.wikipedia.org/wiki/紅米Note_2)转换而来。
 
 
 **紅米Note 2**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年8月13日所推出的中階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為[紅米手機千元旗艦系列中的第二款產品](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink") [5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.5吋[Full HD螢幕](../Page/Full_HD.md "wikilink")、[MediaTek](https://zh.wikipedia.org/wiki/MediaTek "wikilink") [Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X10 64位元處理器 、2GB記憶體、16GB / 32GB 儲存空間，共有三種版本。

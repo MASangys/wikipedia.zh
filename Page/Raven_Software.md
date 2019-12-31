@@ -1,4 +1,4 @@
-> 本文内容由[Raven Software](https://zh.wikipedia.org/wiki/Raven Software)转换而来。
+> 本文内容由[Raven Software](https://zh.wikipedia.org/wiki/Raven_Software)转换而来。
 
 
 **Raven Software**（又称**Raven Entertainment Software, Inc.**），是一家总部位于美国威斯康星州的游戏开发公司，成立于1990年。1997年，乌鸦取得了与动视的独家出版协议，随后被动视收购。收购完成后，该工作室的大部分开发者离开工作室并成立Human Head Studios。

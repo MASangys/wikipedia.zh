@@ -1,3 +1,6 @@
+> 本文内容由[Mora](https://zh.wikipedia.org/wiki/Mora)转换而来。
+
+
 **mora**（モーラ）是[日本索尼音乐娱乐(日本)旗下的Label](../Page/日本索尼音樂娛樂.md "wikilink") Gate公司运营的日本-{zh-cn:数字;zh-tw:數位;}-音乐下载服务网站。
 
 ## 概要

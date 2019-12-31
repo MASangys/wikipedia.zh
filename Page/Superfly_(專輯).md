@@ -1,3 +1,6 @@
+> 本文内容由[Superfly \(專輯\)](https://zh.wikipedia.org/wiki/Superfly_\(專輯\))转换而来。
+
+
 《**Superfly**》為日本組合[Superfly](../Page/Superfly.md "wikilink")於2008年5月14日發行的同名出道專輯。
 
 ## 簡介

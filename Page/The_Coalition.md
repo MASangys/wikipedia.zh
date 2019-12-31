@@ -1,4 +1,4 @@
-> 本文内容由[The Coalition](https://zh.wikipedia.org/wiki/The Coalition)转换而来。
+> 本文内容由[The Coalition](https://zh.wikipedia.org/wiki/The_Coalition)转换而来。
 
 
 **The Coalition**，是微软旗下一家位于加拿大温哥华的游戏开发工作室，前身为Zipline Studios、微软游戏工作室温哥华分部（Microsoft Game Studios Vancouver）和黑图斯克工作室（Black Tusk Studios）。\[1\]2012年11月，工作室更名为黑图斯克工作室（Black Tusk Studios），并主要负责创作《光环》的相关作品。\[2\]更名前，该工作室为Microsoft Flight和一个Kinect游戏进行工作。\[3\]

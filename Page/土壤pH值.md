@@ -1,3 +1,6 @@
+> 本文内容由[土壤pH值](https://zh.wikipedia.org/wiki/土壤pH值)转换而来。
+
+
 [World_Soil_pH.svg](https://zh.wikipedia.org/wiki/File:World_Soil_pH.svg "fig:World_Soil_pH.svg")
 
 **土壤pH值**是衡量土壤中酸度或鹼度所代表的意義。是[溶液](../Page/溶液.md "wikilink")中[氢](../Page/氢.md "wikilink")[离子](../Page/离子.md "wikilink")[活度的一种标度](https://zh.wikipedia.org/wiki/活度 "wikilink")，也就是通常意义上溶液[酸](../Page/酸.md "wikilink")[碱](../Page/碱.md "wikilink")程度的衡量标准。土壤pH被認為是土壤中的主要變量，因為它控制發生的許多化學過程。

@@ -1,3 +1,6 @@
+> 本文内容由[StandBy I.O.I](https://zh.wikipedia.org/wiki/StandBy_I.O.I)转换而来。
+
+
 《**StandBy I.O.I**》（韓語：）是韓國[MNET的綜藝節目](https://zh.wikipedia.org/wiki/MNET "wikilink")，由[I.O.I](../Page/I.O.I.md "wikilink")全體成員出演。節目將紀錄[I.O.I](../Page/I.O.I.md "wikilink")11名成員的出道過程，包含錄音、寫真拍攝、練習現場等等的真實綜藝\[1\]。
 
 ## 參考資料

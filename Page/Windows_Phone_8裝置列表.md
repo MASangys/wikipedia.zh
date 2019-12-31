@@ -1,4 +1,4 @@
-> 本文内容由[Windows Phone 8裝置列表](https://zh.wikipedia.org/wiki/Windows Phone 8裝置列表)转换而来。
+> 本文内容由[Windows Phone 8裝置列表](https://zh.wikipedia.org/wiki/Windows_Phone_8裝置列表)转换而来。
 
 
 本列表中包括使用[Windows Phone 8操作系统的设备](../Page/Windows_Phone_8.md "wikilink")。

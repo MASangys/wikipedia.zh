@@ -1,4 +1,4 @@
-> 本文内容由[電波Jack-World Wide Akihabara-](https://zh.wikipedia.org/wiki/電波Jack-World Wide Akihabara-)转换而来。
+> 本文内容由[電波Jack-World Wide Akihabara-](https://zh.wikipedia.org/wiki/電波Jack-World_Wide_Akihabara-)转换而来。
 
 
 **電波Jack-World Wide Akihabara-**（, ），是[富士電視台](../Page/富士電視台.md "wikilink")聯播網，於2014年10月19日到2015年3月22日間，每週一凌晨2:50-3:20（JST）播映的談話娛樂性節目。也是[電波組.inc](../Page/電波組.inc.md "wikilink")第一個[無線電視的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]。

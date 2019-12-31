@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG獲獎及提名列表](https://zh.wikipedia.org/wiki/BIGBANG獲獎及提名列表)转换而来。
+
+
 <table>
 <caption><span style="font-size: 9pt"><strong>BIGBANG獲獎及提名列表</strong></span></caption>
 <tbody>

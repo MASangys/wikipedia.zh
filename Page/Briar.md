@@ -1,3 +1,6 @@
+> 本文内容由[Briar](https://zh.wikipedia.org/wiki/Briar)转换而来。
+
+
 **Briar**是一款正在研发中的通讯软件，旨在利用[点对点网络提高对话内容的安全性](https://zh.wikipedia.org/wiki/点对点网络 "wikilink")。Briar的源碼是以[自由軟體方式發表](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，並且依[GPLv3授權條款散佈](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")\[1\]。軟體由[Cure53](../Page/Cure53.md "wikilink")查核\[2\]\[3\]。
 
 ## 工作原理

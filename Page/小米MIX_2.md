@@ -1,3 +1,6 @@
+> 本文内容由[小米MIX 2](https://zh.wikipedia.org/wiki/小米MIX_2)转换而来。
+
+
 **小米MIX 2**，是一款由[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2017年9月11日所发表的[Android](../Page/Android.md "wikilink")系統全螢幕[智能手机](../Page/智能手机.md "wikilink")。小米MIX 2同樣由第一代[小米MIX](../Page/小米MIX.md "wikilink")手機的设计师[菲利普·斯塔克](../Page/菲利普·斯塔克.md "wikilink")所设计。\[1\]
 
 ## 經過

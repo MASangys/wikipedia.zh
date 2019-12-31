@@ -1,13 +1,16 @@
+> 本文内容由[模块:Xiangqi diagram plus](https://zh.wikipedia.org/wiki/模块:Xiangqi_diagram_plus)转换而来。
+
+
 \-- 模块:Xiangqi diagram的扩展版，支持更多功能 -- 目前还在测试中…… local p = {} function p.board(frame)
 
 `   local args = require('Module:Arguments').getArgs(frame)`
 `   ----设置对齐方式`
-`   local align = string.gsub(args[1] or `*`,'\n',`*`)`
+`   local align = string.gsub(args[1] or '', '\n', '')`
 `   if align == '' then`
 `       align = 'tright'`
 `   end`
-`   local header = string.gsub(args[2] or `*`,'\n',`*`)`
-`   local footer = string.gsub(args[93] or `*`,'\n',`*`)`
+`   local header = string.gsub(args[2] or '', '\n', '')`
+`   local footer = string.gsub(args[93] or '', '\n', '')`
 `   ----设置整张图片的尺寸`
 `   local size`
 `   local width`
@@ -30,8 +33,7 @@
 `       width = 225`
 `       height = 300`
 `   end`
-`   `
-`   `
+
 `   local rows = args.rows`
 `   local startrow = args.startrow`
 `   local top = 0`
@@ -42,7 +44,7 @@
 `   local left = 0`
 `   local bwidth = width`
 `   local bsize = size`
-`   `
+
 `   ----设置起始列和列数`
 `   if cols == nil and startcol ~= nil then`
 `       cols = 9 - startcol`
@@ -55,9 +57,8 @@
 `   end`
 `   if startcol ~= nil then`
 `       left = bwidth / 9 * (startcol - 1)`
-`       `
 `   end`
-`   `
+
 `   ----设置起始行及行数`
 `   if rows == nil and startrow ~= nil then`
 `       rows = 12 - startrow`
@@ -96,6 +97,10 @@
 
 </div>
 
+'
+
+`   qp = qp .. '`
+
 <div style="position:relative;width:' .. width .. 'px;height:' .. bheight .. 'px;overflow:hidden;">
 
 '
@@ -104,19 +109,28 @@
 
 <div style="position:absolute;top:-' .. top .. 'px;left:-' .. left .. 'px;width:' .. width .. 'px;">
 
-[' .. bwidth .. 'px](https://zh.wikipedia.org/wiki/File:Xiangqi_board.svg "fig:' .. bwidth .. 'px")
+'
+
+`   qp = qp .. '`[`'``   ``..``   ``bwidth``   ``..``   ``'px`](https://zh.wikipedia.org/wiki/File:Xiangqi_board.svg "fig:' .. bwidth .. 'px")`'`
+`   qp = qp .. '`
 
 </div>
 
 '
 
-`   for i = 0,9 do`
-`       for j = 0,8 do`
-`           local qz = string.gsub(args[i * 9 + j + 3] or `*`,'\n',`*`)`
+`   qp = qp .. '`
+
+<div style="position:absolute;top:-' .. top .. 'px;left:-' .. left .. 'px;width:' .. width .. 'px;">
+
+'
+
+`   for i = 0, 9 do`
+`       for j = 0, 8 do`
+`           local qz = string.gsub(args[i * 9 + j + 3] or '', '\n', '')`
 `           qz = string.gsub(qz, ' ', '')`
 `           qz = string.gsub(qz, '　', '')`
 `           qz = string.gsub(qz, '_', '')`
-`           `
+
 `           qz = string.gsub(qz, '车', 'rd')`
 `           qz = string.gsub(qz, '車', 'rd')`
 `           qz = string.gsub(qz, '伡', 'rl')`
@@ -138,14 +152,14 @@
 `           qz = string.gsub(qz, '将', 'gd')`
 `           qz = string.gsub(qz, '將', 'gd')`
 `           qz = string.gsub(qz, '包', 'cd')`
-`                       `
+
 `           qz = string.gsub(qz, '暗', 'rs')`
-`           `
-`           local sx = ((i + 1) * size) - top`
-`           local sy = (j * size) - left`
-`           `
+
+`           local sx = ((i + 1) * size)`
+`           local sy = (j * size)`
+
 `           local bj`
-`           `
+
 `           ----方框`
 `           bj = string.find(qz, '%[')`
 `           if bj ~= null then`
@@ -165,7 +179,7 @@
 
 `               qp = qp .. '`
 
-<div style="position:absolute;width:15%;height:15%;top:0px;right:0px;border-top:' .. sizef1 .. 'px solid #0f0;border-right:' ..sizef1 .. 'px solid #0f0;">
+<div style="position:absolute;width:15%;height:15%;top:0px;right:0px;border-top:' .. sizef1 .. 'px solid #0f0;border-right:' .. sizef1 .. 'px solid #0f0;">
 
 </div>
 
@@ -193,10 +207,10 @@
 
 '
 
-`           end `
+`           end`
 `           qz = string.gsub(qz, '%[', '')`
 `           qz = string.gsub(qz, '%]', '')`
-`           `
+
 `           ----標點`
 `           bj = string.find(qz, '%.')`
 `           if bj ~= null then`
@@ -214,7 +228,7 @@
 
 '
 
-`               qp = qp ..  '`
+`               qp = qp .. '`
 
 </div>
 
@@ -222,7 +236,7 @@
 
 `           end`
 `           qz = string.gsub(qz, '%.', '')`
-`           `
+
 `           ----標記叉號`
 `           bj = string.find(qz, 'x')`
 `           if bj ~= null then`
@@ -241,7 +255,7 @@
 
 `           end`
 `           qz = string.gsub(qz, 'x', '')`
-`           `
+
 `           if qz ~= '' then`
 `               qp = qp .. '`
 
@@ -259,19 +273,21 @@
 `           end`
 `       end`
 `   end`
-`   `
+
 `   ----箭头`
-`   local arrow =  args.arrow`
+`   local arrow = args.arrow`
 `   if arrow ~= nil then`
-`       qp = qp ..  drawArrow(arrow, size, top, left)`
+`       qp = qp .. drawArrow(arrow, size)`
 `   end`
 `   local count = 2`
 `   while args['arrow' .. count] ~= nil do`
-`       qp = qp ..  drawArrow(args['arrow' .. count], size, top, left)`
+`       qp = qp .. drawArrow(args['arrow' .. count], size)`
 `       count = count + 1`
 `   end`
-`   `
+
 `   qp = qp .. '`
+
+</div>
 
 </div>
 
@@ -289,14 +305,14 @@
 
 end
 
-function drawArrow(arrow, size, top, left)
+function drawArrow(arrow, size)
 
 `   arrow = string.gsub(arrow, ' ', '')`
 `   local start = 1`
 `   local t = {}`
 `   local str = ''`
 `   while true do`
-`       local pos = string.find(arrow, ',', start, true) `
+`       local pos = string.find(arrow, ',', start, true)`
 `       if not pos then`
 `           break`
 `       end`
@@ -307,28 +323,48 @@ function drawArrow(arrow, size, top, left)
 `   t[4] = t[4] * 1`
 `   while t[4] < 0 do`
 `       t[4] = t[4] + 360`
-`   end `
+`   end`
 `   while t[4] >= 360 do`
 `       t[4] = t[4] - 360`
-`   end `
+`   end`
 
+`   ----箭頭的底盤 拿來旋轉方向使用`
 `   str = str .. '`
 
-<div style="z-index:108;position:absolute;left:' .. (t[1] - 1) * size - left .. 'px;top:' .. t[2] * size - top .. 'px;width:' .. t[3] * size .. 'px;height:' .. size .. 'px;transform-origin:' .. size / 2 .. 'px ' .. size / 2 .. 'px;transform:rotate(' .. t[4] .. 'deg);">
+<div style="z-index:108;position:absolute;'
+    str = str .. 'left:' .. (t[1] - 1) * size .. 'px;'
+    str = str .. 'top:' .. t[2] * size .. 'px;'
+    str = str .. 'width:' .. t[3] * size .. 'px;'
+    str = str .. 'height:' .. size .. 'px;'
+    str = str .. 'transform-origin:' .. size / 2 .. 'px ' .. size / 2 .. 'px;'
+    str = str .. 'transform:rotate(' .. t[4] .. 'deg);">
 
 '
 
+`   ----箭頭的直線部分`
 `   str = str .. '`
 
-<div style="z-index:108;position:absolute;left:' .. size / 2 .. 'px;top:' .. size / 2 - size / 16 .. 'px;width:' .. (t[3] - 0.4) * size .. 'px;height:' .. size / 8 .. 'px;background-color:#0f0;">
+<div style="z-index:108;position:absolute;'
+    str = str .. 'left:' .. size / 2 .. 'px;'
+    str = str .. 'top:' .. size / 2 - size / 16 .. 'px;'
+    str = str .. 'width:' .. (t[3] - 0.4) * size .. 'px;'
+    str = str .. 'height:' .. size / 8 .. 'px;'
+    str = str .. 'background-color:#0f0;">
 
 </div>
 
 '
 
+`   ----箭頭的頭部分`
 `   str = str .. '`
 
-<div style="z-index:108;position:absolute;left:' .. t[3] * size .. 'px;top:' .. size / 2 - size / 4 .. 'px;width:0px;height:0px;border:' .. size / 4 .. 'px solid transparent;border-left-color:#0f0;border-left-width:' .. size / 2   .. 'px;">
+<div style="z-index:108;position:absolute;'
+    str = str .. 'left:' .. t[3] * size .. 'px;'
+    str = str .. 'top:' .. size / 2 - size / 4 .. 'px;'
+    str = str .. 'width:0px;height:0px;'
+    str = str .. 'border:' .. size / 4 .. 'px solid transparent;'
+    str = str .. 'border-left-color:#0f0;'
+    str = str .. 'border-left-width:' .. size / 2 .. 'px;">
 
 </div>
 

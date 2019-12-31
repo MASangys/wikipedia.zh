@@ -1,4 +1,4 @@
-> 本文内容由[Nokia 106](https://zh.wikipedia.org/wiki/Nokia 106)转换而来。
+> 本文内容由[Nokia 106](https://zh.wikipedia.org/wiki/Nokia_106)转换而来。
 
 
 **Nokia 106**是[Nokia生產的直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，2013年8月21日初始發布。\[1\]

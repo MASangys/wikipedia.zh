@@ -1,3 +1,6 @@
+> 本文内容由[Socket SP3](https://zh.wikipedia.org/wiki/Socket_SP3)转换而来。
+
+
 **Socket SP3**是一種[AMD設計的](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器插座](../Page/CPU插座.md "wikilink")，適用於[LGA封裝的](https://zh.wikipedia.org/wiki/平面網格陣列封裝 "wikilink")[AMD Epyc系列](../Page/AMD_Epyc.md "wikilink")，於2017年6月20日發表。\[1\]\[2\]\[3\]
 
 ## 技術概況

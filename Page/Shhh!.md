@@ -1,3 +1,6 @@
+> 本文内容由[Shhh!](https://zh.wikipedia.org/wiki/Shhh!)转换而来。
+
+
 《**Shhh\!**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2016年4月9日發行的第59張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於演唱會會場跟mu-mo限定發售\[1\]。
 
 ## 解說

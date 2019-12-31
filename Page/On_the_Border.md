@@ -1,3 +1,6 @@
+> 本文内容由[On the Border](https://zh.wikipedia.org/wiki/On_the_Border)转换而来。
+
+
 《**On The Border**》是[老鹰乐队](../Page/老鹰_\(乐队\).md "wikilink")1974年发行的第三张专辑，由Asylum发行。
 
 ## 背景

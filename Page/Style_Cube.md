@@ -1,3 +1,6 @@
+> 本文内容由[Style Cube](https://zh.wikipedia.org/wiki/Style_Cube)转换而来。
+
+
 **株式會社Style Cube**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")、[聲優](../Page/聲優.md "wikilink")事務所、影像製作公司。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[OpenH264](https://zh.wikipedia.org/wiki/OpenH264)转换而来。
+
+
 **OpenH264**是一个实时编码和解码[视频](../Page/视频.md "wikilink")[流至](../Page/流媒体.md "wikilink")[H.264/MPEG-4 AVC格式的](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")[自由软件](../Page/自由软件.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。它采用[简化BSD许可证发布](../Page/BSD许可证.md "wikilink")。\[1\]
 
 ## 历史

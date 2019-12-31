@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM UC \(游戏\)](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC_\(游戏\))转换而来。
+
+
 是[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")在2012年3月8日于[PlayStation 3平台发售的](../Page/PlayStation_3.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。有通常版和特装版两个版本。至2013年，在日本销量已达89,080份。\[1\]
 
 本作的剧情改编自《[機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》OVA动画的Episode 1-3。特装版中除游戏外，还包含花絮[藍光光碟](../Page/藍光光碟.md "wikilink")（BD）和小说《战后的战争》。\[2\]

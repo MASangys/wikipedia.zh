@@ -1,3 +1,6 @@
+> 本文内容由[S.M. THE BALLAD Vol. 2 – Breath](https://zh.wikipedia.org/wiki/S.M._THE_BALLAD_Vol._2_–_Breath)转换而来。
+
+
 《**S.M. THE BALLAD Vol. 2 – Breath**》是韩国[SM娱乐组合艺人组成的企划组合](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")[S.M.THE BALLAD的第二张](../Page/S.M.THE_BALLAD.md "wikilink")[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。专辑于2014年2月13日发行，主打歌为同名歌曲《Breath》\[1\]。
 
 ## 发行背景

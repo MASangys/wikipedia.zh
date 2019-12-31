@@ -1,3 +1,6 @@
+> 本文内容由[RIPEMD](https://zh.wikipedia.org/wiki/RIPEMD)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:RIPEMD_160_2.png "fig:右") **RIPEMD** (**RACE原始完整性校驗訊息摘要**)是一種加密哈希函數，由 [鲁汶大学](https://zh.wikipedia.org/wiki/荷语天主教鲁汶大学 "wikilink") Hans Dobbertin,Antoon Bosselaers 和 Bart Prenee組成的COSIC 研究小组发布于1996年。 RIPEMD是以MD4为基础原则所设计的 ，而且其表現與更有名的[SHA-1类似](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink").
 
 RIPEMD-160是以原始版RIPEMD所改进的160位元版本，而且是RIPEMD系列中最常见的版本。 RIPEMD-160是設計給学术社群所使用的，剛好相对于 [国家安全局 所设计](../Page/美国国家安全局.md "wikilink") [SHA-1](../Page/SHA-1.md "wikilink") 和 [SHA-2](../Page/SHA-2.md "wikilink") 算法。 另一方面，RIPEMD-160比SHA-1較少使用，所以可能造成RIPEMD-160比SHA還不常被審查。另外，RIPEMD-160並沒有任何專利所限制。

@@ -1,4 +1,4 @@
-> 本文内容由[華為Mate S](https://zh.wikipedia.org/wiki/華為Mate S)转换而来。
+> 本文内容由[華為Mate S](https://zh.wikipedia.org/wiki/華為Mate_S)转换而来。
 
 
 **Huawei Ascend Mate S**，是[華為於](https://zh.wikipedia.org/wiki/華為 "wikilink")2015年9月2日推出的旗艦智能手機，搭載Android5.1 with EMUI 3.1，配有5.5英寸1920×1080[解析度的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")、Hisilicon Kirin935八核處理器、3GB的[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，\[1\] 後置攝像頭具有1300畫素OIS光學防抖動功能，前置則有800畫素廣角自拍和備有美顏模式。電池方面使用2700mAh。這款手機配有苍穹黑，皓月银，流光金，玫瑰金，同期最大競爭對手是三星Note5。\[2\]

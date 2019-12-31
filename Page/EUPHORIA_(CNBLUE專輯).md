@@ -1,3 +1,6 @@
+> 本文内容由[EUPHORIA \(CNBLUE專輯\)](https://zh.wikipedia.org/wiki/EUPHORIA_\(CNBLUE專輯\))转换而来。
+
+
 《**EUPHORIA**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第七張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，第五張正規日語專輯，在2016年10月19日以四個版本：通常盤、初回限定盤A、初回限定盤B及Boice盤推出\[1\]。打入Oricon單曲週榜前五名的單曲《Puzzle》在專輯推出前預先發行。
 
 這專輯也是CNBLUE首次發行[Boxset專輯的作品](https://zh.wikipedia.org/wiki/Boxset "wikilink")，Boxset版本將是次作品的四種版本綑綁銷售，只限CNBLUE官方歌迷會「Boice」日本會員購買\[2\]。

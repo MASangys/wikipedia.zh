@@ -1,3 +1,6 @@
+> 本文内容由[R U Ready\?](https://zh.wikipedia.org/wiki/R_U_Ready\?)转换而来。
+
+
 《'''R U Ready? '''》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張正規專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2017年2月26日发行。该专辑共收入11首歌曲，主打歌曲為〈WoW\!〉。該專輯於2017年5月2日以《[現在，我們](../Page/現在，我們.md "wikilink")》作为改版专辑重新發行。
 
 ## 背景及回歸日程

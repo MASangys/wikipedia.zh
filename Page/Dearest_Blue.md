@@ -1,4 +1,4 @@
-> 本文内容由[Dearest Blue](https://zh.wikipedia.org/wiki/Dearest Blue)转换而来。
+> 本文内容由[Dearest Blue](https://zh.wikipedia.org/wiki/Dearest_Blue)转换而来。
 
 
 《**Dearest Blue**》是LiLiM DARKNESS在2016年5月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]\[3\]，BLUE系列的第8個作品\[4\]，遊戲的主題是「偏愛」。\[5\]

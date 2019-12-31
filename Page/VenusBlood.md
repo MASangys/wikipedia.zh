@@ -1,3 +1,6 @@
+> 本文内容由[VenusBlood](https://zh.wikipedia.org/wiki/VenusBlood)转换而来。
+
+
 《**VenusBlood**》是由日本遊戲品牌DualMage製作於2007年4月20日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第一部作品，DualMage後來改名為dualtail並且在2008年6月19日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[2\]後來在臺灣由[未來數位](../Page/未來數位.md "wikilink")公司代理正體中文版並於2012年6月8日發售。
 
 ## 故事

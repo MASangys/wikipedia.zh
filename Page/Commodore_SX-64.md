@@ -1,3 +1,6 @@
+> 本文内容由[Commodore SX-64](https://zh.wikipedia.org/wiki/Commodore_SX-64)转换而来。
+
+
 [Commodore_SX-64_standing.jpg](https://zh.wikipedia.org/wiki/File:Commodore_SX-64_standing.jpg "fig:Commodore_SX-64_standing.jpg")
 
 **Commodore SX-64**，亦被称为“经营管理64”（Executive 64），是[康懋达国际](../Page/康懋达国际.md "wikilink")出品的[Commodore 64计算机的可携带版本](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")，二者在运算能力上完全相同，于1984年始发售。此电脑据信是最早具有多色屏幕的[可移动计算机](https://zh.wikipedia.org/wiki/可移动计算机 "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[Calicosama](https://zh.wikipedia.org/wiki/Calicosama)转换而来。
+
+
 ***Calicosama***是[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蛺蜆蝶族](../Page/蛺蜆蝶族.md "wikilink")嬈蜆蝶亞族裡的一個屬，尚無正式中文學名命名。共有2個物種，從[美洛蜆蝶屬](../Page/美洛蜆蝶屬.md "wikilink")分離成新屬，分佈於中美洲\[1\]。
 
 ## 物種

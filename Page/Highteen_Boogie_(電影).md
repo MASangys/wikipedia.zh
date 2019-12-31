@@ -1,4 +1,4 @@
-> 本文内容由[Highteen Boogie \(電影\)](https://zh.wikipedia.org/wiki/Highteen Boogie \(電影\))转换而来。
+> 本文内容由[Highteen Boogie \(電影\)](https://zh.wikipedia.org/wiki/Highteen_Boogie_\(電影\))转换而来。
 
 
 《**Highteen Boogie**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1982年由日本[東寶](../Page/東寶.md "wikilink")公司發行。

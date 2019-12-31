@@ -1,3 +1,6 @@
+> 本文内容由[H.U.B](https://zh.wikipedia.org/wiki/H.U.B)转换而来。
+
+
 **H.U.B**（，為「**H**ope **U** **B**ounce」之簡寫）是New Planet娱乐推出的四人女子组合，現由Rui、Yehin、Chehee、Seoryeong和Hyosun五名成员组成。
 
 2016年11月24日，H.U.B携她们的首张数位單曲《我们一起的时间》（우리가 함께한 시간）首次亮相。\[1\]

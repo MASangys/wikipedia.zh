@@ -1,4 +1,4 @@
-> 本文内容由[TV Tennis](https://zh.wikipedia.org/wiki/TV Tennis)转换而来。
+> 本文内容由[TV Tennis](https://zh.wikipedia.org/wiki/TV_Tennis)转换而来。
 
 
 **TV Tennis**是由[Epoch於](https://zh.wikipedia.org/wiki/Epoch "wikilink")1975年9月12日發售的[日本](../Page/日本.md "wikilink")第一款家用電子遊戲機\[1\]\[2\]。當時定價為19,500[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。俗稱「**Pong Tennis**」。

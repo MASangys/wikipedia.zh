@@ -1,3 +1,6 @@
+> 本文内容由[Follow Me 8](https://zh.wikipedia.org/wiki/Follow_Me_8)转换而来。
+
+
 《**Follow Me8**》（）是韓國[Fashion N電視台的美妝美容綜藝節目](https://zh.wikipedia.org/wiki/Fashion_N "wikilink")，為五位藝人[徐智慧](../Page/徐智慧_\(1984年\).md "wikilink")\[1\]、[具在伊](../Page/具在伊.md "wikilink")\[2\]、[李周妍](../Page/李周妍.md "wikilink")\[3\]、[車貞媛](https://zh.wikipedia.org/wiki/車貞媛 "wikilink")\[4\]、[鄭彩姸](https://zh.wikipedia.org/wiki/鄭彩姸 "wikilink")\[5\]擔任主持人，並與每一期的嘉賓一起討論美妝、美容資訊與知識的綜藝節目。預計於2017年3月首播。
 
 ## 各集嘉賓

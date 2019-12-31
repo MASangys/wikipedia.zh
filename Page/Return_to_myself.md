@@ -1,3 +1,6 @@
+> 本文内容由[Return to myself](https://zh.wikipedia.org/wiki/Return_to_myself)转换而来。
+
+
 《**Return to myself**》是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[米倉千尋](../Page/米倉千尋.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2000年7月26日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 概要

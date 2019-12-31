@@ -1,3 +1,6 @@
+> 本文内容由[模块:EFloras](https://zh.wikipedia.org/wiki/模块:EFloras)转换而来。
+
+
 require('Module:No globals')
 
 local p = {}

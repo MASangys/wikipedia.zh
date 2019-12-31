@@ -1,3 +1,6 @@
+> 本文内容由[Maker\'s Pier](https://zh.wikipedia.org/wiki/Maker\'s_Pier)转换而来。
+
+
 [Maker’s_Pier_Overview_201706.jpg](https://zh.wikipedia.org/wiki/File:Maker’s_Pier_Overview_201706.jpg "fig:Maker’s_Pier_Overview_201706.jpg") [Maker’s_Pier_Overview1_201706.jpg](https://zh.wikipedia.org/wiki/File:Maker’s_Pier_Overview1_201706.jpg "fig:Maker’s_Pier_Overview1_201706.jpg") [Maker's_Pier_20170422-14.jpg](https://zh.wikipedia.org/wiki/File:Maker's_Pier_20170422-14.jpg "fig:Maker's_Pier_20170422-14.jpg") **Maker's Pier**為位於[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")港區金城埠頭2丁目7-1目的商場，於2017年3月30日正式開幕，鄰近[名古屋LEGOLAND Japan入口](../Page/日本樂高樂園.md "wikilink")。商場前身為金城埠頭中央綠地，在2016年1月31日關閉。\[1\]
 
 ## 規劃
@@ -9,7 +12,7 @@
   - 所在地
     〒455-0848 名古屋市港区金城ふ頭二丁目7-1
   - 鐵路
-    [名古屋站搭乘青波線](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")（Aonami）至終點站[金城埠頭站](https://zh.wikipedia.org/wiki/金城埠頭站 "wikilink")
+    [名古屋站](../Page/名古屋站.md "wikilink")搭乘青波線（Aonami）至終點站[金城埠頭站](https://zh.wikipedia.org/wiki/金城埠頭站 "wikilink")
   - 水上バス
     [名古屋市営地下鉄名港線](https://zh.wikipedia.org/wiki/名古屋市営地下鉄名港線 "wikilink")[名古屋港駅のある名古屋港ガーデン埠頭から](https://zh.wikipedia.org/wiki/名古屋港駅_\(名古屋市営地下鉄\) "wikilink")[水上バス](https://zh.wikipedia.org/wiki/水上バス "wikilink")「名古屋港トリトンライン」で約30分、のりばから徒歩7分で到着できる。
   - 自家用車
@@ -21,7 +24,7 @@
 
   - [Maker's Pier網頁](http://www.makerspier.com/)
 
-[Category:愛知縣觀光地](https://zh.wikipedia.org/wiki/Category:愛知縣觀光地 "wikilink") [Category:港區_(名古屋市)](https://zh.wikipedia.org/wiki/Category:港區_\(名古屋市\) "wikilink") [Category:名古屋市建築物](https://zh.wikipedia.org/wiki/Category:名古屋市建築物 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink")
+[Category:愛知縣旅遊景點](https://zh.wikipedia.org/wiki/Category:愛知縣旅遊景點 "wikilink") [Category:港區_(名古屋市)](https://zh.wikipedia.org/wiki/Category:港區_\(名古屋市\) "wikilink") [Category:名古屋市建築物](https://zh.wikipedia.org/wiki/Category:名古屋市建築物 "wikilink") [Category:2017年完工建築物](https://zh.wikipedia.org/wiki/Category:2017年完工建築物 "wikilink")
 
 1.
 2.

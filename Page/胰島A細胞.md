@@ -1,3 +1,6 @@
+> 本文内容由[胰島A細胞](https://zh.wikipedia.org/wiki/胰島A細胞)转换而来。
+
+
 **胰島A細胞**（alpha cells，亦作α-cells），是[胰島中的一種](https://zh.wikipedia.org/wiki/胰島 "wikilink")[內分泌腺上皮細胞](https://zh.wikipedia.org/wiki/內分泌 "wikilink")。在正常生理狀態下，胰島α細胞約佔胰島細胞總數的20%，而胰島β細胞約佔75%。胰島α與胰島β細胞的比例適當是維持[血糖](../Page/血糖.md "wikilink")穩態平衡的重要基礎\[1\]。通過馬洛里染色（Mallory Staining）可以區分胰島中的A細胞、B細胞、D細胞。
 
 ## 功能

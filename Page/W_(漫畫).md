@@ -1,4 +1,4 @@
-> 本文内容由[W \(漫畫\)](https://zh.wikipedia.org/wiki/W \(漫畫\))转换而来。
+> 本文内容由[W \(漫畫\)](https://zh.wikipedia.org/wiki/W_\(漫畫\))转换而来。
 
 
 **W**（）為[臺灣](../Page/臺灣.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")「[黃色書刊](../Page/黃色書刊_\(漫畫家\).md "wikilink")」連載的一部集動作、科幻、奇幻之大成的漫畫作品，在[comico連載中](https://zh.wikipedia.org/wiki/comico "wikilink")，2014年8月6日開始連載，2015年第一本單行本發行。

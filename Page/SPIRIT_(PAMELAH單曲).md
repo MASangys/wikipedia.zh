@@ -1,3 +1,6 @@
+> 本文内容由[SPIRIT \(PAMELAH單曲\)](https://zh.wikipedia.org/wiki/SPIRIT_\(PAMELAH單曲\))转换而来。
+
+
 《**SPIRIT**》是[日本](../Page/日本.md "wikilink")女子音樂組合的第7張單曲。1997年2月5日由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。
 
 ## 概要

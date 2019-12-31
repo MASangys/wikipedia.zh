@@ -1,4 +1,4 @@
-> 本文内容由[夜翼 \(DC漫畫\)](https://zh.wikipedia.org/wiki/夜翼 \(DC漫畫\))转换而来。
+> 本文内容由[夜翼 \(DC漫畫\)](https://zh.wikipedia.org/wiki/夜翼_\(DC漫畫\))转换而来。
 
 
 **夜翼**（）是一位出自[DC漫畫](../Page/DC漫畫.md "wikilink")的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，DC漫畫中曾有多名角色使用過此英雄名，現在使用該名號的是[迪克·格雷森](../Page/迪克·格雷森.md "wikilink")，第一任的[羅賓](../Page/羅賓_\(漫畫\).md "wikilink")，[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")的前助手。

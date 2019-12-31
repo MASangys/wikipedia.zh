@@ -1,3 +1,6 @@
+> 本文内容由[Enokids](https://zh.wikipedia.org/wiki/Enokids)转换而来。
+
+
 **Enokids**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。代表作《[琴浦小姐](../Page/琴浦小姐.md "wikilink")》曾在2013年1月至3月播出同名電視動畫\[1\]。
 
 ## 作品概覽

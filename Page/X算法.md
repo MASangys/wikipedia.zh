@@ -1,3 +1,6 @@
+> 本文内容由[X算法](https://zh.wikipedia.org/wiki/X算法)转换而来。
+
+
 <span>在[计算机科学](../Page/计算机科学.md "wikilink")中，**X算法**可用来求解[精确覆盖问题](../Page/精确覆盖问题.md "wikilink")。此名称最早在</span>[高德纳](../Page/高德纳.md "wikilink")的论文《舞蹈链》中出现，他认为此算法是“[试错法中最显而易见](https://zh.wikipedia.org/wiki/试错 "wikilink")”的。\[1\] 就技术而言，X算法是一个[深度优先的](../Page/深度优先搜索.md "wikilink")[不确定性](https://zh.wikipedia.org/wiki/不确定性算法 "wikilink")[回溯算法](https://zh.wikipedia.org/wiki/回溯 "wikilink")。由于X算法是一个解决精确覆盖问题的简洁方法，高德纳希望通过该算法体现[舞蹈链](../Page/舞蹈链.md "wikilink")数据结构的高效性，他把使用后者的X算法称为DLX。\[2\]
 
 X算法用由0和1组成的矩阵*A*来表示精确覆盖问题，目标是选出矩阵的若干行，使得其中的1在所有列中出现且仅出现一次。

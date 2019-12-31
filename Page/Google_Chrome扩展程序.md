@@ -1,3 +1,6 @@
+> 本文内容由[Google Chrome扩展程序](https://zh.wikipedia.org/wiki/Google_Chrome扩展程序)转换而来。
+
+
 **Google Chrome扩展程序**是用来向[Google Chrome添加或修改功能的](../Page/Google_Chrome.md "wikilink")[浏览器扩展程序](https://zh.wikipedia.org/wiki/浏览器扩展程序 "wikilink")。\[1\] 这些扩展程序使用[HTML](../Page/HTML.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")和[CSS语言编写而成](https://zh.wikipedia.org/wiki/CSS "wikilink")。\[2\] Google Chrome扩展程序可在[Chrome网上应用店](../Page/Chrome网上应用店.md "wikilink")下载\[3\] （其前身为[Google Chrome扩展程序中心](https://zh.wikipedia.org/wiki/Google_Chrome扩展程序中心 "wikilink")。）\[4\] ，截止于2010年2月，已发布了超过2200个扩展程序。\[5\] 所有使用[Google账户的用户均可在开发者提交扩展程序并审核通过后安装](https://zh.wikipedia.org/wiki/Google账户 "wikilink")。\[6\]
 
 ## Google Chrome 常用扩展程序
@@ -34,14 +37,9 @@
 [Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink") [Category:Vivaldi_(浏览器)](https://zh.wikipedia.org/wiki/Category:Vivaldi_\(浏览器\) "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.  [Developing Chrome Extensions Overview Page](http://code.google.com/chrome/extensions/overview.html)
-
 7.

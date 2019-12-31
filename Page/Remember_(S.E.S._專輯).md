@@ -1,3 +1,6 @@
+> 本文内容由[Remember \(S.E.S. 專輯\)](https://zh.wikipedia.org/wiki/Remember_\(S.E.S._專輯\))转换而来。
+
+
 《**Remember**》是[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S.E.S.的第六張](https://zh.wikipedia.org/wiki/S.E.S. "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2017年1月2日發行。此張專輯是該團體繼Choose My Life-U後，相隔十五年再次發行的原創專輯；以官方發行的專輯而言，則是繼Beautiful Songs精選輯後，相隔十四年再次發行的官方專輯。本張專輯是為了慶祝S.E.S.出道二十週年而重聚的企劃。
 
 ## 發展背景

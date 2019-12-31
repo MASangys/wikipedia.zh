@@ -1,4 +1,4 @@
-> 本文内容由[AAA 10th ANNIVERSARY Documentary ～Road of 10th ANNIVERSARY～](https://zh.wikipedia.org/wiki/AAA 10th ANNIVERSARY Documentary ～Road of 10th ANNIVERSARY～)转换而来。
+> 本文内容由[AAA 10th ANNIVERSARY Documentary ～Road of 10th ANNIVERSARY～](https://zh.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_Documentary_～Road_of_10th_ANNIVERSARY～)转换而来。
 
 
 『**AAA 10th ANNIVERSARY Documentary 〜Road of 10th ANNIVERSARY〜**』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2016年3月30日發售的第18個影像作品。

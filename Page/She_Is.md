@@ -1,4 +1,4 @@
-> 本文内容由[She Is](https://zh.wikipedia.org/wiki/She Is)转换而来。
+> 本文内容由[She Is](https://zh.wikipedia.org/wiki/She_Is)转换而来。
 
 
 《**She is**》（），是韓國男子組合[SHINee](../Page/SHINee.md "wikilink")成員[金鐘鉉首張韓語正規專輯](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，在2016年5月24日由SM娛樂製作、KT Music發行\[1\]，主打曲目為《喜歡》（）。

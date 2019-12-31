@@ -1,3 +1,6 @@
+> 本文内容由[Circle Guitar](https://zh.wikipedia.org/wiki/Circle_Guitar)转换而来。
+
+
 **CircleGuitar**（；），[香港](../Page/香港.md "wikilink")女[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")，曾被稱作「[Busking女皇](https://zh.wikipedia.org/wiki/Busking "wikilink")」，代表作品有《I Don't Care》、《喼喼人》、《我係90後》。
 
 ## 簡介

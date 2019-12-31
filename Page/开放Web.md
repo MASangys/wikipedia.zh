@@ -1,3 +1,6 @@
+> 本文内容由[开放Web](https://zh.wikipedia.org/wiki/开放Web)转换而来。
+
+
 **开放Web**（**Open Web**）运动拥护公开、合作、标准的[万维网](../Page/万维网.md "wikilink")交流，反对私有、独占、专有的Web解决方案。
 
 计算机科学家[坦塔克·塞里克](../Page/坦塔克·塞里克.md "wikilink")\[1\]指出了开放Web的三个方面：

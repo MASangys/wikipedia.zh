@@ -1,3 +1,6 @@
+> 本文内容由[Krait \(CPU\)](https://zh.wikipedia.org/wiki/Krait_\(CPU\))转换而来。
+
+
 **Krait**是[高通](../Page/高通.md "wikilink")設計的[ARMv7相容](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[中央處理單元](https://zh.wikipedia.org/wiki/中央處理單元 "wikilink")，使用於[驍龍S](https://zh.wikipedia.org/wiki/驍龍 "wikilink")4及驍龍400/600/800/801/805系列系統晶片（[SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")）上，於2012年發表並接替舊有的Scorpion處理器核心，大致的效能相當於至[Cortex-A15的水準](../Page/ARM_Cortex-A15_MPCore.md "wikilink")，但並不適用於[big.LITTLE結構](https://zh.wikipedia.org/wiki/big.LITTLE "wikilink")。\[1\]
 
 ## 概觀

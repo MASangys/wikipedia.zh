@@ -1,3 +1,6 @@
+> 本文内容由[The Package](https://zh.wikipedia.org/wiki/The_Package)转换而来。
+
+
 《**The Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2017年10月13日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[依然綠茵的日子](../Page/依然綠茵的日子.md "wikilink")》[全昌根](../Page/全昌根.md "wikilink")、《[善良的男人](https://zh.wikipedia.org/wiki/善良的男人 "wikilink")》[金鎮元導演執導與](https://zh.wikipedia.org/wiki/金鎮元 "wikilink")《[七級公務員](../Page/七級公務員_\(電視劇\).md "wikilink")》[千成日](../Page/千成日.md "wikilink")作家合作打造。此劇以法國旅行為主題，講述大家因為各自不同的原因參加了跟團旅行，原本不想要卻還是逐漸產生交集，隨之而來的一段交流和溝通的旅程，令觀眾看到旅行中的浪漫和旅人們令人暖心的故事。\[1\]台灣由愛奇藝台灣站10月13日起，每周五、六晚上10點同步韓國播出。
 
 ## 演員陣容

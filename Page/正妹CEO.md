@@ -1,3 +1,6 @@
+> 本文内容由[正妹CEO](https://zh.wikipedia.org/wiki/正妹CEO)转换而来。
+
+
 《**正妹CEO**》（）是一部改編自[蘇菲亞·阿莫魯索](../Page/蘇菲亞·阿莫魯索.md "wikilink")同名回憶錄的[美國電視](https://zh.wikipedia.org/wiki/美國 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[凱·卡農開創](https://zh.wikipedia.org/wiki/凱·卡農 "wikilink")，於2017年4月21日在[Netflix](../Page/Netflix.md "wikilink")開播。\[1\]\[2\]6月24日，本劇正式被Netflix取消。\[3\]
 
 ## 故事

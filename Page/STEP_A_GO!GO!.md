@@ -1,3 +1,6 @@
+> 本文内容由[STEP A GO!GO!](https://zh.wikipedia.org/wiki/STEP_A_GO!GO!)转换而来。
+
+
 《**STEP A GO\! GO\!**》是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[户松遥的第](https://zh.wikipedia.org/wiki/户松遥 "wikilink")15张[单曲](../Page/单曲.md "wikilink")唱片。该曲于2015年9月30日由[Music Ray'n发行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要

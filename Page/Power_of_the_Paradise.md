@@ -1,3 +1,6 @@
+> 本文内容由[Power of the Paradise](https://zh.wikipedia.org/wiki/Power_of_the_Paradise)转换而来。
+
+
 「**Power of the Paradise**」是[嵐](../Page/嵐.md "wikilink")的第50張單曲。於[2016年](../Page/2016年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[驚人的大會-Star King](https://zh.wikipedia.org/wiki/驚人的大會-Star_King)转换而来。
+
+
 《**驚人的大會-Star King**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台從](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2007年1月13日開播的一檔[真人實境](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由 [姜虎東主持](https://zh.wikipedia.org/wiki/姜虎東 "wikilink")、[利特](../Page/利特.md "wikilink")助理主持。節目每集會邀請[運動選手](https://zh.wikipedia.org/wiki/運動選手 "wikilink")、明星、藝人、歌手等一同討論熱門話題或比賽、[競技等](https://zh.wikipedia.org/wiki/競技 "wikilink")。
 
 ## 播放時段變更

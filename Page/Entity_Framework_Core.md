@@ -1,4 +1,4 @@
-> 本文内容由[Entity Framework Core](https://zh.wikipedia.org/wiki/Entity Framework Core)转换而来。
+> 本文内容由[Entity Framework Core](https://zh.wikipedia.org/wiki/Entity_Framework_Core)转换而来。
 
 
 **Entity Framework Core** 是微軟新一代的物件關聯對應 (ORM) 框架，以 [.NET Core](../Page/.NET_Core.md "wikilink") 實作，不過它是歸屬於 [ASP.NET Core](../Page/ASP.NET_Core.md "wikilink") 專案的一部份，在 ASP.NET Core 開始開發時就被列入標準功能，與現行的 [Entity Framework](../Page/Entity_Framework.md "wikilink") 一樣，是微軟官方建議使用的資料存取功能，但 [.NET Core](../Page/.NET_Core.md "wikilink") 成功移植 [ADO.NET](../Page/ADO.NET.md "wikilink") 基礎類別庫 System.Data 之後，開發人員仍能使用 ADO.NET 作為資料存取的解決方案。

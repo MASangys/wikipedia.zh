@@ -1,4 +1,4 @@
-> 本文内容由[模块:London ward populations](https://zh.wikipedia.org/wiki/模块:London ward populations)转换而来。
+> 本文内容由[模块:London ward populations](https://zh.wikipedia.org/wiki/模块:London_ward_populations)转换而来。
 
 
 \-- This module implements [Template:London ward populations](https://zh.wikipedia.org/wiki/Template:London_ward_populations "wikilink").

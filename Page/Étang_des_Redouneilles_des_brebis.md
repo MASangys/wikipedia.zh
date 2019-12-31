@@ -1,4 +1,4 @@
-> 本文内容由[Étang des Redouneilles des brebis](https://zh.wikipedia.org/wiki/Étang des Redouneilles des brebis)转换而来。
+> 本文内容由[Étang des Redouneilles des brebis](https://zh.wikipedia.org/wiki/Étang_des_Redouneilles_des_brebis)转换而来。
 
 
 **Étang des Redouneilles des brebis** 是一个在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[阿列日省](../Page/阿列日省.md "wikilink")萨巴藏的[湖](https://zh.wikipedia.org/wiki/湖 "wikilink")。海拔2228米，其表面积为0.015平方公里。\[1\]

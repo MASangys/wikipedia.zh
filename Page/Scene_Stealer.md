@@ -1,3 +1,6 @@
+> 本文内容由[Scene Stealer](https://zh.wikipedia.org/wiki/Scene_Stealer)转换而来。
+
+
 《**Scene Stealer-戲劇戰爭**》（韓語：씬스틸러-드라마 전쟁）\[1\]\[2\]是韓國[SBS的綜藝節目](https://zh.wikipedia.org/wiki/SBS "wikilink")，由[鄭埻夏](../Page/鄭埻夏.md "wikilink")、[金信英](../Page/金信英.md "wikilink")、[金正泰](../Page/金正泰.md "wikilink")、[黃石正](../Page/黃石正.md "wikilink")、[朴修弘](../Page/朴修弘.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")、[姜藝媛](https://zh.wikipedia.org/wiki/姜藝媛 "wikilink")、[李奎翰](../Page/李奎翰.md "wikilink")、[李施彥](../Page/李施彥.md "wikilink")、[李準赫](../Page/李準赫.md "wikilink")等人出演，韓國頂級「Scene Stealer」們所展開的演技對決節目，結合電視劇與實境綜藝節目。現場有100位VIP評審團（觀眾）及時進行評分，演員的目標是獲得越高票越好；另外節目初期時，同一電視劇中各隊有2次NG機會，當製作組判定目前電視劇為NG狀態時，可使用要NG機會與成員開作戰會議並調整演技方向，以利取得高分。第一季於2017年1月30日結束。
 
 ## 固定成員分隊

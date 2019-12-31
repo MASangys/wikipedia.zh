@@ -1,4 +1,4 @@
-> 本文内容由[Entex Select-A-Game](https://zh.wikipedia.org/wiki/Entex Select-A-Game)转换而来。
+> 本文内容由[Entex Select-A-Game](https://zh.wikipedia.org/wiki/Entex_Select-A-Game)转换而来。
 
 
 **Entex Select-a-game**是由[Entex Industries於](https://zh.wikipedia.org/wiki/Entex_Industries "wikilink")1981年發售的掌上遊戲機。它的生命週期十分短，總共只有6款遊戲發售\[1\]\[2\]。

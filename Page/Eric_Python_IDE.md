@@ -1,4 +1,4 @@
-> 本文内容由[Eric Python IDE](https://zh.wikipedia.org/wiki/Eric Python IDE)转换而来。
+> 本文内容由[Eric Python IDE](https://zh.wikipedia.org/wiki/Eric_Python_IDE)转换而来。
 
 
 **Eric**是一个[自由的软件](../Page/自由软件.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")，主要为开发[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")语言编写的程序而设计。历史上某个时期中，Eric4是这款软件针对Python 2的变种，而Eric5则针对Python 3。但自从Eric6发布以后，两者均由同一份代码所支持。\[1\]

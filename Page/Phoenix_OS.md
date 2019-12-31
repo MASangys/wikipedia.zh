@@ -1,3 +1,6 @@
+> 本文内容由[Phoenix OS](https://zh.wikipedia.org/wiki/Phoenix_OS)转换而来。
+
+
 **Phoenix OS**（鳳凰系統）是基於[Android-x86](../Page/Android-x86.md "wikilink")開發的[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，由鳳凰工作室(现为北京超卓科技\[1\])開發。其特點是用戶可以在[電腦上以視窗化的形式運行](https://zh.wikipedia.org/wiki/電腦 "wikilink")[Android](../Page/Android.md "wikilink")應用程式\[2\]\[3\]\[4\]\[5\]。
 
 現時主要更新的版本，是基於 Android7.1 及 Android5.1 兩種內核版本。

@@ -1,4 +1,4 @@
-> 本文内容由[VFTS 352](https://zh.wikipedia.org/wiki/VFTS 352)转换而来。
+> 本文内容由[VFTS 352](https://zh.wikipedia.org/wiki/VFTS_352)转换而来。
 
 
 [An_artist’s_impression_of_the_hottest_and_most_massive_touching_double_star.jpg](https://zh.wikipedia.org/wiki/File:An_artist’s_impression_of_the_hottest_and_most_massive_touching_double_star.jpg "fig:An_artist’s_impression_of_the_hottest_and_most_massive_touching_double_star.jpg")\[1\]。\]\] [The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg](https://zh.wikipedia.org/wiki/File:The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg "fig:The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg")

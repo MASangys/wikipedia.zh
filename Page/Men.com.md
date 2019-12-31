@@ -1,3 +1,6 @@
+> 本文内容由[Men.com](https://zh.wikipedia.org/wiki/Men.com)转换而来。
+
+
 **Men**（通常稱**men.com**以防混淆），是[MindGeek](../Page/MindGeek.md "wikilink")旗下的一家線上[㚻色網站](https://zh.wikipedia.org/wiki/㚻色 "wikilink")。
 
 該域名在2003年12月以130萬美元被收購。\[1\]
@@ -20,6 +23,5 @@
 [Category:美國男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:美國男同性戀色情片公司 "wikilink")
 
 1.
-
 2.
 3.  "[Here's Everything You Need To Know About The Very NSFW "In Front Of My Salad" Meme](https://www.buzzfeed.com/bradesposito/right-in-front-of-my-salad)." Buzzfeed. 2017-08-02. Retrieved 2017-08-02.

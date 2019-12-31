@@ -1,4 +1,4 @@
-> 本文内容由[PES Collection](https://zh.wikipedia.org/wiki/PES Collection)转换而来。
+> 本文内容由[PES Collection](https://zh.wikipedia.org/wiki/PES_Collection)转换而来。
 
 
 是一款蒐集球員實名圖案，組成玩家專屬足球球隊的蒐集系足球社群遊戲。

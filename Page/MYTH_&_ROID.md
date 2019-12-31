@@ -1,3 +1,6 @@
+> 本文内容由[MYTH \& ROID](https://zh.wikipedia.org/wiki/MYTH_\&_ROID)转换而来。
+
+
 **MYTH & ROID**（）為日本[MEDIA FACTORY所屬的音樂團體](https://zh.wikipedia.org/wiki/MEDIA_FACTORY "wikilink")。
 
 ## 概要

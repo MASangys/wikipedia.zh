@@ -1,3 +1,6 @@
+> 本文内容由[Flight Log: Arrival](https://zh.wikipedia.org/wiki/Flight_Log:_Arrival)转换而来。
+
+
 《**FLIGHT LOG : ARRIVAL**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第六張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是FLIGHT LOG（飛行日誌）系列專輯的最後一張作品，於2017年3月13日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music。共收錄八首曲目，主打歌為《Never Ever》。
 
 ## 背景

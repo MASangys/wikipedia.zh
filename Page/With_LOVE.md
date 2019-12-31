@@ -1,3 +1,6 @@
+> 本文内容由[With LOVE](https://zh.wikipedia.org/wiki/With_LOVE)转换而来。
+
+
 《**with LOVE**》（愛的陪伴\[1\]）是日本歌手西野加奈的第五張錄音室專輯，於2014年11月12日發售。
 
 ## 解說

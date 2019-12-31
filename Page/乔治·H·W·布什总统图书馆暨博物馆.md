@@ -1,3 +1,6 @@
+> 本文内容由[乔治·H·W·布什总统图书馆暨博物馆](https://zh.wikipedia.org/wiki/乔治·H·W·布什总统图书馆暨博物馆)转换而来。
+
+
 **乔治·H·W·布什总统图书馆暨博物馆**（George H. W. Bush Presidential Library and Museum）是第41任美国总统[乔治·H·W·布什的](https://zh.wikipedia.org/wiki/老布什 "wikilink")[总统图书馆](../Page/总统图书馆.md "wikilink")也是其最終安息地，位于德克萨斯州[大学城](https://zh.wikipedia.org/wiki/大学城_\(德克萨斯州\) "wikilink")[德克萨斯州A\&M大学西校区](https://zh.wikipedia.org/wiki/德克萨斯州A&M大学 "wikilink")，占地，由[国家档案和记录管理局](../Page/国家档案和记录管理局.md "wikilink")管理。
 
 乔治·H·W·布什总统图书馆暨博物馆于1997年11月6日揭幕，由Hellmuth, Obata and Kassabaum建筑师事务所设计。

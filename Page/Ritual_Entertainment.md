@@ -1,4 +1,4 @@
-> 本文内容由[Ritual Entertainment](https://zh.wikipedia.org/wiki/Ritual Entertainment)转换而来。
+> 本文内容由[Ritual Entertainment](https://zh.wikipedia.org/wiki/Ritual_Entertainment)转换而来。
 
 
 **Ritual Entertainment**，是由Robert Atkins, Mark Dochtermann, Jim Dosé, Richard 'Levelord' Gray, Michael Hadwin, Harry Miller, and Tom Mustaine成立于1996年的游戏开发商，总部设在美国德克萨斯州达拉斯，Ritual Entertainment的前身是Hipnotic Interactive，在此期间，他们开始发展工作室的招牌游戏SiN。

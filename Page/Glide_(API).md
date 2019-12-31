@@ -1,3 +1,6 @@
+> 本文内容由[Glide \(API\)](https://zh.wikipedia.org/wiki/Glide_\(API\))转换而来。
+
+
 **Glide**是[3dfx Interactive为其Voodoo](../Page/3dfx_Interactive.md "wikilink") [3D加速卡设计的](../Page/圖形處理器.md "wikilink")[3D图形](../Page/三维计算机图形.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")（API）。Glide最初作为专有API发布，但后来被3dfx[开放源码](../Page/开放源代码.md "wikilink")。\[1\]它主要用于加速三维图形渲染，支持3D几何与[纹理映射](https://zh.wikipedia.org/wiki/纹理映射 "wikilink")，但只适配Voodoo加速卡。3dfx的标准Glide API在20世纪90年代后期被业界广泛采用。然而好景不长，微软不断改进[Direct3D](../Page/Direct3D.md "wikilink")，其他显卡供应商逐步提供[OpenGL](../Page/OpenGL.md "wikilink")支持，市面上的产品种类日益丰富，导致Glide被淘汰。
 
 ## API

@@ -1,3 +1,6 @@
+> 本文内容由[Koeda](https://zh.wikipedia.org/wiki/Koeda)转换而来。
+
+
 **koeda**（，）是一名[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")创作歌手。[福冈县](../Page/福冈县.md "wikilink")出身。所属事務所是[INCS toenter](../Page/INCS_toenter.md "wikilink")，而所属的唱片公司则是BeanZoo。
 
 ## 来歴

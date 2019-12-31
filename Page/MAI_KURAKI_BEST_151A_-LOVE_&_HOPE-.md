@@ -1,3 +1,6 @@
+> 本文内容由[MAI KURAKI BEST 151A -LOVE \& HOPE-](https://zh.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_\&_HOPE-)转换而来。
+
+
 **Mai Kuraki BEST 151A　-LOVE & HOPE-**是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣](../Page/倉木麻衣.md "wikilink")第三張精選輯，於2014年11月12日分三種形式發行。
 
 ## 簡介

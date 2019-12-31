@@ -1,3 +1,6 @@
+> 本文内容由[Badi](https://zh.wikipedia.org/wiki/Badi)转换而来。
+
+
 《**Bʌ́di**》（日語假名：バディ），是[日本](../Page/日本.md "wikilink")的[男同性恋](https://zh.wikipedia.org/wiki/男同性恋 "wikilink")[杂志](../Page/杂志.md "wikilink")。
 
 ## 概要

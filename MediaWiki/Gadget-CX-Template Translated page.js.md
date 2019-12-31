@@ -1,4 +1,4 @@
-> 本文内容由[MediaWiki:Gadget-CX-Template Translated page.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-CX-Template Translated page.js)转换而来。
+> 本文内容由[MediaWiki:Gadget-CX-Template Translated page.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-CX-Template_Translated_page.js)转换而来。
 
 
 ( function( $, mw, undefined ) {

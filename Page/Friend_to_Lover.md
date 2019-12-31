@@ -1,4 +1,4 @@
-> 本文内容由[Friend to Lover](https://zh.wikipedia.org/wiki/Friend to Lover)转换而来。
+> 本文内容由[Friend to Lover](https://zh.wikipedia.org/wiki/Friend_to_Lover)转换而来。
 
 
 是日本[SMEE在](../Page/HOOKSOFT.md "wikilink")2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com](../Page/DMM.com.md "wikilink")在2015年2月13日發售DL版\[3\]，另外在2016年4月15日發售HD版。\[4\]2014年8月15日（[Comic Market](../Page/Comic_Market.md "wikilink") 86）發售《**Friend to Lover Mini Fandisc**》（フレラバ ミニファンディスク）。\[5\]2015年3月26日由KAGA CREATE（加賀クリエイト）發售[PSV版](../Page/PlayStation_Vita.md "wikilink")《**Friend to Lover 〜フレラバ〜**》。\[6\]

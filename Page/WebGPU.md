@@ -1,3 +1,6 @@
+> 本文内容由[WebGPU](https://zh.wikipedia.org/wiki/WebGPU)转换而来。
+
+
 **WebGPU**是針對[萬維網的新](https://zh.wikipedia.org/wiki/萬維網 "wikilink")[開放原始碼圖形API標準的草案提案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。蘋果的[WebKit](../Page/WebKit.md "wikilink")團隊於2017年2月7日宣布了該計畫。目前為止，蘋果正在向[W3C提出這個新標準](https://zh.wikipedia.org/wiki/W3C "wikilink")，試圖在瀏覽器中開發下一代圖形技術\[1\]\[2\]\[3\]。
 
 ## 參見

@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone Selfie](https://zh.wikipedia.org/wiki/華碩ZenFone_Selfie)转换而来。
+
+
 ZenFone Selfie為[華碩](../Page/華碩.md "wikilink")旗下一款手機，也是華碩第一次於手機正面搭載1300萬畫素鏡頭+閃光燈與雷射對焦。於2015/08/27發布，系統搭載[Android](../Page/Android.md "wikilink")5.0版本。
 
 Model no. ：　Z00UD Model Name：　ZD551KL 官方系統更新至 Android 6.0.1

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:推想小說/Body/box](https://zh.wikipedia.org/wiki/Portal:推想小說/Body/box)转换而来。
+
+
 <div style="clear: both;
 <!-- 隔 -->padding: {{{padding|.1em}}};
 <!-- 隔 -->padding-top: {{{padding-top|.1em}}};

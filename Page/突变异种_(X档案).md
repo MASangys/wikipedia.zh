@@ -1,4 +1,4 @@
-> 本文内容由[突变异种 \(X档案\)](https://zh.wikipedia.org/wiki/突变异种 \(X档案\))转换而来。
+> 本文内容由[突变异种 \(X档案\)](https://zh.wikipedia.org/wiki/突变异种_\(X档案\))转换而来。
 
 
 《**突变异种**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第一季的第三集，于1993年9月24日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")。节目由格伦·摩根和[黄毅瑜](../Page/黄毅瑜.md "wikilink")编剧，哈里·朗斯特里特执导，另有部分附加镜头由迈克尔·卡特曼导演。道格·休切逊饰演的变异连环杀手尤金·维克多·托姆斯在本集首度与观众见面，之后他还会在第一季第21集《[终结突变异种](https://zh.wikipedia.org/wiki/终结突变异种_\(X档案\) "wikilink")》中再次亮相。《突变异种》是《档案》“每周怪物”系列的第一集，其剧情同主线相对独立，与[剧中的层层谜团没有联系](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。

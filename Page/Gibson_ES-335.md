@@ -1,3 +1,6 @@
+> 本文内容由[Gibson ES-335](https://zh.wikipedia.org/wiki/Gibson_ES-335)转换而来。
+
+
 **Gibson ES-335**是一款半空心[電結他的型號](https://zh.wikipedia.org/wiki/電結他 "wikilink")，由[吉普森結他公司](https://zh.wikipedia.org/wiki/吉普森結他公司 "wikilink")(Gibson)於1958年開始[銷售的](https://zh.wikipedia.org/wiki/銷售 "wikilink")。為最有名的半空心電結他型號之一。
 
 現時，正式的ES-335型號是由Gibson及其子公司[易普豐](https://zh.wikipedia.org/wiki/易普豐結他公司 "wikilink")(Epiphone)所銷售，但有不少結他生產商製作及售賣其[拷貝版本](https://zh.wikipedia.org/wiki/拷貝 "wikilink")。

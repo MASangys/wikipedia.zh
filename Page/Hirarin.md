@@ -1,3 +1,6 @@
+> 本文内容由[Hirarin](https://zh.wikipedia.org/wiki/Hirarin)转换而来。
+
+
 **Hirarin**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[漫畫原作者](https://zh.wikipedia.org/wiki/漫畫原作者 "wikilink")。
 
 ## 來歷、人物

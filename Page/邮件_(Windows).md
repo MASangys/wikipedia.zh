@@ -1,4 +1,4 @@
-> 本文内容由[邮件 \(Windows\)](https://zh.wikipedia.org/wiki/邮件 \(Windows\))转换而来。
+> 本文内容由[邮件 \(Windows\)](https://zh.wikipedia.org/wiki/邮件_\(Windows\))转换而来。
 
 
 **邮件**（，也称**邮件应用**或**Windows邮件应用**）是一个[Microsoft Windows操作系统从](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Windows 8开始内置的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[电子邮件客户端](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")。\[1\]\[2\]作为微软[Metro设计接口理念的一部分](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")，邮件是起源自[Microsoft Office的](../Page/Microsoft_Office.md "wikilink")[Outlook程序的三应用之一](../Page/Microsoft_Outlook.md "wikilink")，另两者是[日历与](../Page/Outlook.com.md "wikilink")[人脉应用](../Page/Outlook.com.md "wikilink")。

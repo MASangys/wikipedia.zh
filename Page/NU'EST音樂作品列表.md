@@ -1,3 +1,6 @@
+> 本文内容由[NU\'EST音樂作品列表](https://zh.wikipedia.org/wiki/NU\'EST音樂作品列表)转换而来。
+
+
 NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST](../Page/NU'EST.md "wikilink")及其子團歷年參與詞曲創作歌曲及發行之各類音樂、影音作品。
 
 ## NU'EST
@@ -205,6 +208,17 @@ NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST](../Page/NU'
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong>7th</strong></p></td>
+<td><p>第七張迷你專輯《''' The Table '''》</p>
+<ul>
+<li>發行日期：2019年10月21日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
 <td><p>"—" 表示該專輯未有在榜上排名或未有資料或沒有在當地發行</p></td>
 <td></td>
 <td></td>
@@ -511,6 +525,16 @@ NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST](../Page/NU'
 </ul></td>
 <td><ol>
 <li>AND I</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/成為王的男人.md" title="wikilink">成為王的男人</a></p></td>
+<td><ul>
+<li>發行日期：2019年1月21日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><ol>
+<li>那天，我們</li>
 </ol></td>
 </tr>
 </tbody>

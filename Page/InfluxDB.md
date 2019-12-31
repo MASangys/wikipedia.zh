@@ -1,3 +1,6 @@
+> 本文内容由[InfluxDB](https://zh.wikipedia.org/wiki/InfluxDB)转换而来。
+
+
 **InfluxDB**是一个由[InfluxData](https://www.influxdata.com/)开发的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[时序型数据库](https://zh.wikipedia.org/wiki/时序型数据库 "wikilink")\[1\]。它由[Go](../Page/Go.md "wikilink")写成，着力于高性能地查询与存储时序型数据。InfluxDB被广泛应用于存储系统的监控数据，[IoT行业的实时数据等场景](../Page/物联网.md "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[六氰合钴\(III\)酸六氨合钴\(III\)](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸六氨合钴\(III\))转换而来。
+
+
 **六氰合钴(III)酸六氨合钴(III)**（[化学式](../Page/化学式.md "wikilink")：\[Co(NH<sub>3</sub>)<sub>6</sub>\]\[Co(CN)<sub>6</sub>\]）是一种[无机化合物](../Page/无机化合物.md "wikilink")，其阴、阳[离子](../Page/离子.md "wikilink")均为[配离子](https://zh.wikipedia.org/wiki/配离子 "wikilink")。
 
 ## 制备

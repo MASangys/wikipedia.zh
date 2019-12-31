@@ -1,3 +1,6 @@
+> 本文内容由[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A)转换而来。
+
+
 《**美選D.n.A**》（**The Queen of D.n.A**）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷選美節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，是香港電視史上第一個實況選美節目。
 
 節目名「D」和「A」分別代表[魔鬼](../Page/魔鬼.md "wikilink")（devil）同[天使](../Page/天使.md "wikilink")（angel）。參賽者無條件及背景限制，就算有[紋身](https://zh.wikipedia.org/wiki/紋身 "wikilink")、已婚，都可以參選。

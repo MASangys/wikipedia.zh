@@ -1,3 +1,6 @@
+> 本文内容由[DeepZenGo](https://zh.wikipedia.org/wiki/DeepZenGo)转换而来。
+
+
 **DeepZenGo**，有译为“深禅”\[1\]，是日本程序员、加藤英树等开发的[电脑围棋程序](https://zh.wikipedia.org/wiki/电脑围棋 "wikilink")，是在旧版本的Zen[围棋软件基础上加入了深度学习技术后开发的新版本](https://zh.wikipedia.org/wiki/围棋软件 "wikilink")，由日本[DWANGO公司](https://zh.wikipedia.org/wiki/DWANGO "wikilink")、[东京大学](../Page/东京大学.md "wikilink")、[日本棋院](../Page/日本棋院.md "wikilink")提供支持。在2016年11月第二届围棋电王战中分先以1:2不敌[赵治勋九段](https://zh.wikipedia.org/wiki/赵治勋 "wikilink")。在2017年3月18-19日在日本举办的第10届[UEC杯世界電腦圍棋大會](../Page/UEC杯世界電腦圍棋大會.md "wikilink")上获得亚军\[2\]。在2017年3月21-23日的[世界最强棋士决定战上以一胜二负的成绩名列第三名](https://zh.wikipedia.org/wiki/世界最强棋士决定战 "wikilink")\[3\]。在2017年3月26日的第5届[电圣战](../Page/电圣战.md "wikilink")上分先战胜了日本的[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")\[4\]。
 
 ## 棋力

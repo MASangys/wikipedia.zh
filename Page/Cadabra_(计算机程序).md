@@ -1,3 +1,6 @@
+> 本文内容由[Cadabra \(计算机程序\)](https://zh.wikipedia.org/wiki/Cadabra_\(计算机程序\))转换而来。
+
+
 Cadabra 是一款为研究张量分析和[场论而设计的](https://zh.wikipedia.org/wiki/场论 "wikilink")[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")
 
 在GNU通用公共许可证下发布的，Cadabra是免费软件。

@@ -1,3 +1,6 @@
+> 本文内容由[Holiday Night](https://zh.wikipedia.org/wiki/Holiday_Night)转换而来。
+
+
 《**Holiday Night**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的第六張韓語正規專輯](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，於2017年8月7日發行。此專輯發佈之時也是少女時代出道十週年，專輯包含十首歌曲，以歌曲〈All Night〉以及〈Holiday〉為雙主打。
 
 ## 背景及製作
@@ -203,42 +206,24 @@
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
 20.
-
 21.
 22.

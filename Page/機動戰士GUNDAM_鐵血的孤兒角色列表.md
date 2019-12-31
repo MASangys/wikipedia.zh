@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM 鐵血的孤兒角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM 鐵血的孤兒角色列表)转换而来。
+> 本文内容由[機動戰士GUNDAM 鐵血的孤兒角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒角色列表)转换而来。
 
 
 **機動戰士GUNDAM 鐵血的孤兒角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")》登場的角色。\[1\]\[2\]\[3\]\[4\]\[5\]

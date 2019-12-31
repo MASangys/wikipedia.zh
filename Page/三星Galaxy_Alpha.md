@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Alpha](https://zh.wikipedia.org/wiki/三星Galaxy_Alpha)转换而来。
+
+
 三星Galaxy Alpha 是三星电子制造的Android智慧型手机，于2014年9月发布，运行Android 4.4.4 KitKat（现已可升級至Android 5.0.2 Lolipop）。这台智慧型手机搭载了八核 Exynos 5430 SoC，由 四核1.8 GHz Cortex-A15 和四核1.3 GHz Cortex-A7核心、Mali-T628 MP6 GPU、2 GB的记忆体和32 GB储存空间组成，三星Galaxy Alpha没有micro SD插槽所以不能扩充容量, 电池为可拆卸式1860mAh，不支援快充。三星Galaxy Alpha只有115克。\[1\]
 
 ## 技術規格

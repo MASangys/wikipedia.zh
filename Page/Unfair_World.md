@@ -1,4 +1,4 @@
-> 本文内容由[Unfair World](https://zh.wikipedia.org/wiki/Unfair World)转换而来。
+> 本文内容由[Unfair World](https://zh.wikipedia.org/wiki/Unfair_World)转换而来。
 
 
 《**Unfair World**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2015年9月2日由[rhythm zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。

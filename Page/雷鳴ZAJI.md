@@ -1,3 +1,6 @@
+> 本文内容由[雷鳴ZAJI](https://zh.wikipedia.org/wiki/雷鳴ZAJI)转换而来。
+
+
 『**雷鳴ZAJI**』（日文原名：**雷鳴のZAJI**）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[車田正美的](https://zh.wikipedia.org/wiki/車田正美 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。描寫養成・開發「人間兵器」的秘密組織「白墓」、脫離組織的青年「沙奇」和白墓派出的「抹殺者」之間的戰鬥。
 
 ## 登場人物

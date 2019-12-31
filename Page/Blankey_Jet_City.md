@@ -1,3 +1,6 @@
+> 本文内容由[Blankey Jet City](https://zh.wikipedia.org/wiki/Blankey_Jet_City)转换而来。
+
+
 **Blankey Jet City**，[日本](../Page/日本.md "wikilink")三人摇滚乐队，其风格为[摇滚乐](../Page/摇滚乐.md "wikilink")和[另类摇滚](../Page/另类摇滚.md "wikilink")\[1\]。
 
 ## 成员

@@ -1,4 +1,4 @@
-> 本文内容由[转换 \(BDSM\)](https://zh.wikipedia.org/wiki/转换 \(BDSM\))转换而来。
+> 本文内容由[转换 \(BDSM\)](https://zh.wikipedia.org/wiki/转换_\(BDSM\))转换而来。
 
 
 [Bettie_Page_Klaw_1-6_collage.jpg](https://zh.wikipedia.org/wiki/File:Bettie_Page_Klaw_1-6_collage.jpg "fig:Bettie_Page_Klaw_1-6_collage.jpg") **雙向 (BDSM)**（英语：**Switch (BDSM)**），是在[BDSM](../Page/BDSM.md "wikilink")，有时为主导方，有时为顺从方的角色。合作伙伴可以根据心情转换角色，或者允许每个伙伴体验他们最佳的活动。例如，两个伙伴可能有相同的[支配与顺从倾向](https://zh.wikipedia.org/wiki/支配与顺从 "wikilink")，所有进行转换来体验自己喜欢的倾向。\[1\]’

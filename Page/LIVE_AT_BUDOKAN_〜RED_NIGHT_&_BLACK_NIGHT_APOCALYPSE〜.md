@@ -1,4 +1,4 @@
-> 本文内容由[LIVE AT BUDOKAN 〜RED NIGHT \& BLACK NIGHT APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE AT BUDOKAN 〜RED NIGHT \& BLACK NIGHT APOCALYPSE〜)转换而来。
+> 本文内容由[LIVE AT BUDOKAN 〜RED NIGHT \& BLACK NIGHT APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT_\&_BLACK_NIGHT_APOCALYPSE〜)转换而来。
 
 
 《**LIVE AT BUDOKAN 〜RED NIGHT & BLACK NIGHT APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ アット ブドウカン 〜レッド ナイト アンド ブラック ナイト アポカリプス〜）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2015年發行的第三張現場影像作品\[1\]。

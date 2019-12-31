@@ -1,3 +1,6 @@
+> 本文内容由[GNU Chess](https://zh.wikipedia.org/wiki/GNU_Chess)转换而来。
+
+
 **GNU Chess**是一個西洋棋引擎的[自由软件](../Page/自由软件.md "wikilink")，其可以與人類或是其他電腦程式玩一盤完整的[西洋棋](https://zh.wikipedia.org/wiki/西洋棋 "wikilink")。[GNU](../Page/GNU.md "wikilink") Chess的目標是提供研究的基礎。它已用於眾多的研究環境中。
 
 GNU Chess是自由軟體，以[GNU通用公共授權條款第三版或更新版本授權](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")，其由多個共同合作的開發者維護。做為其中一個最早提供完整[源代码](../Page/源代码.md "wikilink")的西洋棋電腦程式，它最早以前也僅提供基於[UNIX](../Page/UNIX.md "wikilink")系統的版本，至今也[移植到了許多](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[平臺上](../Page/系统平台.md "wikilink")。

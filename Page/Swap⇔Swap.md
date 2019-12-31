@@ -1,3 +1,6 @@
+> 本文内容由[Swap⇔Swap](https://zh.wikipedia.org/wiki/Swap⇔Swap)转换而来。
+
+
 《**Swap⇔Swap**》是創作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")作品。於[芳文社](../Page/芳文社.md "wikilink")杂誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2014年10月号至12月号客串連載，2015年3月号正式連載至2019年4月号。共發行4本[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。
 
 ## 剧情简介

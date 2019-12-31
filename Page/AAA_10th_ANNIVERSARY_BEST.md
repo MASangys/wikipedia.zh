@@ -1,4 +1,4 @@
-> 本文内容由[AAA 10th ANNIVERSARY BEST](https://zh.wikipedia.org/wiki/AAA 10th ANNIVERSARY BEST)转换而来。
+> 本文内容由[AAA 10th ANNIVERSARY BEST](https://zh.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST)转换而来。
 
 
 《**AAA 10th ANNIVERSARY BEST**》是[AAA的第](../Page/AAA_\(團體\).md "wikilink")4枚精選專輯及第10張原創專輯。於2015年9月16日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。

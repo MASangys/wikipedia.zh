@@ -1,3 +1,6 @@
+> 本文内容由[50街車站 \(BMT西城線\)](https://zh.wikipedia.org/wiki/50街車站_\(BMT西城線\))转换而来。
+
+
 **50街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[自治市公園](https://zh.wikipedia.org/wiki/自治市公園_\(布魯克林\) "wikilink")50街及新烏得勒支大道交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構

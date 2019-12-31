@@ -1,3 +1,6 @@
+> 本文内容由[華為Mate 9](https://zh.wikipedia.org/wiki/華為Mate_9)转换而来。
+
+
 **华为Mate 9**是由[华为公司设计和销售的](https://zh.wikipedia.org/wiki/华为公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，为Mate系列手机，也是[华为Mate 8的换代产品](../Page/华为Mate_8.md "wikilink")，包括Mate 9、Mate 9 Pro和Mate 9保时捷设计版三个版本，于2016年11月3日发布\[1\]。
 
 华为Mate 9是首款搭载[麒麟](https://zh.wikipedia.org/wiki/海思半导体 "wikilink")960芯片的智能手机，同时也是全球首款Cortex-A73及Mali G71 MP8实现商用的智能手机，在各项能力中都有着极大的提升\[2\]。
@@ -52,36 +55,26 @@ Mate 9全系列预装基于[Android 7.0的](https://zh.wikipedia.org/wiki/Androi
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:華為手機](https://zh.wikipedia.org/wiki/Category:華為手機 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13.
 14.
 15.
 16.
-
 17.
 18.
 19.
 20.
 21.
-
 22.
 23.
 24.
@@ -95,25 +88,16 @@ Mate 9全系列预装基于[Android 7.0的](https://zh.wikipedia.org/wiki/Androi
 32.
 33.
 34.
-
 35.
-
 36.
 37.
 38.
-
 39.
-
 40.
-
 41.
 42.
-
 43.
 44.
-
 45.
-
 46.
-
 47.

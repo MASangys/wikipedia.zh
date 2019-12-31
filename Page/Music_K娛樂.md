@@ -1,4 +1,4 @@
-> 本文内容由[Music K娛樂](https://zh.wikipedia.org/wiki/Music K娛樂)转换而来。
+> 本文内容由[Music K娛樂](https://zh.wikipedia.org/wiki/Music_K娛樂)转换而来。
 
 
 **MusicK娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]。成立在2014年，之前為[Keyeast](../Page/Keyeast.md "wikilink")的旗下子公司。2016年，脫離Keyeast，成爲獨立管理。當前藝人包括組合[IZ](https://zh.wikipedia.org/wiki/IZ "wikilink")。

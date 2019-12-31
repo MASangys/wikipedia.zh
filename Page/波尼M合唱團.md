@@ -1,3 +1,6 @@
+> 本文内容由[波尼M合唱團](https://zh.wikipedia.org/wiki/波尼M合唱團)转换而来。
+
+
 **Boney M.**是由[德國唱片製作人](https://zh.wikipedia.org/wiki/德國 "wikilink")[弗蘭克·法里恩](https://zh.wikipedia.org/wiki/弗蘭克·法里恩 "wikilink")（Frank Farian）創作的聲樂團體。最初位於[西德](../Page/西德.md "wikilink")，該組織陣容的四名原始成員包括來自[牙買加的](https://zh.wikipedia.org/wiki/牙買加 "wikilink")[Liz Mitchell和](https://zh.wikipedia.org/wiki/Liz_Mitchell "wikilink")[Marcia Barrett](https://zh.wikipedia.org/wiki/Marcia_Barrett "wikilink")，來自[蒙哲臘的](https://zh.wikipedia.org/wiki/蒙哲臘 "wikilink")[Maizie Williams和來自](https://zh.wikipedia.org/wiki/Maizie_Williams "wikilink")[阿魯巴](../Page/阿魯巴.md "wikilink")的[Bobby Farrell](https://zh.wikipedia.org/wiki/Bobby_Farrell "wikilink")。該團體成立於[1976年](https://zh.wikipedia.org/wiki/1976 "wikilink")，在[20世紀](https://zh.wikipedia.org/wiki/20世紀 "wikilink")[70年代末的](https://zh.wikipedia.org/wiki/70年代 "wikilink")[迪斯可時代成名](https://zh.wikipedia.org/wiki/迪斯可 "wikilink")。自[80年代以來](https://zh.wikipedia.org/wiki/80年代 "wikilink")，樂隊的各種陣容與不同的人員進行了交流。
 
 ## 歷史

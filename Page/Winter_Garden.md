@@ -1,3 +1,6 @@
+> 本文内容由[Winter Garden](https://zh.wikipedia.org/wiki/Winter_Garden)转换而来。
+
+
 **Winter Garden**是[SM娛樂](../Page/SM娛樂.md "wikilink")所製作的冬季特別企劃。其中演繹歌手包括[寳兒](https://zh.wikipedia.org/wiki/寳兒 "wikilink")、[f(x)和](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Red Velvet](../Page/Red_Velvet.md "wikilink")。其中包含三張單曲並于不同時間釋放出音源。
 
 ## 背景與發行
@@ -36,14 +39,9 @@ SM娛樂透過官方頻道分享其視頻，並邀請粉絲加入“Everyshot WI
 [Category:SMTOWN](https://zh.wikipedia.org/wiki/Category:SMTOWN "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.

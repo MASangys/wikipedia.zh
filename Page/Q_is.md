@@ -1,3 +1,6 @@
+> 本文内容由[Q is](https://zh.wikipedia.org/wiki/Q_is)转换而来。
+
+
 **《Q is.》**是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")第四張韓語迷你專輯，於2016年2月17日發行，主打歌曲為〈Overcome〉。
 
 ## 背景
@@ -10,11 +13,13 @@
 
 2017年，[JR](https://zh.wikipedia.org/wiki/金鐘炫 "wikilink")、[白虎](../Page/姜東昊.md "wikilink")、[旼炫](https://zh.wikipedia.org/wiki/旼炫 "wikilink")、[Ren參加](https://zh.wikipedia.org/wiki/Ren "wikilink")《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，四人在舞台上出色的表現讓觀眾眼前一亮\[7\]，使NU'EST所有發行過的專輯包括《Q is》自五月在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行\[8\]。
 
+2019年11月25日，Billboard選出從2010年開始的[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")百大最佳歌曲，《Q is.》主打歌〈OVERCOME〉亦有入選\[9\]。
+
 ## 簡介
 
-NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白虎參與了專輯的製作，專輯當中也收錄多首成員們的創作作品。 5首歌曲名各取一部分可以拼合成LOVE♥，這是由白虎提議送給NU'EST粉絲LOVE的禮物。\[9\]
+NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白虎參與了專輯的製作，專輯當中也收錄多首成員們的創作作品。 5首歌曲名各取一部分可以拼合成LOVE♥，這是由白虎提議送給NU'EST粉絲LOVE的禮物。\[10\]
 
-主打歌〈OVERCOME〉是[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") 曲風，希望藉著遺忘悲傷的咒語，慰勞對方的痛苦，傳達守護對方的心意。\[10\]
+主打歌〈OVERCOME〉是[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") 曲風，希望藉著遺忘悲傷的咒語，慰勞對方的痛苦，傳達守護對方的心意。\[11\]
 
 ## 曲目
 
@@ -79,18 +84,18 @@ NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白
 <td><p><a href="../Page/2016年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2016年2月</p></td>
 <td><p>#15<br />
-（6,177張）[11]</p></td>
+（6,177張）[12]</p></td>
 <td><p>2017年5月</p></td>
 <td><p>#30<br />
-（3,458張）[12]</p></td>
+（3,458張）[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年3月</p></td>
 <td><p>#31<br />
-（2,811張）[13]</p></td>
+（2,811張）[14]</p></td>
 <td><p>2017年6月</p></td>
 <td><p>#46<br />
-（1,997張）[14]</p></td>
+（1,997張）[15]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -98,14 +103,14 @@ NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白
 <td></td>
 <td><p>2017年7月</p></td>
 <td><p>#24</p>
-<p>（4,994張）[15]</p></td>
+<p>（4,994張）[16]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>2017年8月</p></td>
-<td><p>#33 （4,911張）[16]</p></td>
+<td><p>#33 （4,911張）[17]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -155,32 +160,19 @@ NU'EST 成員在《Q is》專輯中參與度比過往的專輯大大増加。白
 [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink") [Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
+17.

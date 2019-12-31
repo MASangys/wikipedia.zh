@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A7 \(2017\)](https://zh.wikipedia.org/wiki/三星Galaxy_A7_\(2017\))转换而来。
+
+
 **三星Galaxy A7 (2017)**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]\[2\]\[3\]，於2017年1月2日與[三星Galaxy A3（2017）和](../Page/三星Galaxy_A3_\(2017\).md "wikilink")[三星Galaxy A5（2017）一起發布](../Page/三星Galaxy_A5_\(2017\).md "wikilink")。 這是三星自2016年10月停售[Galaxy Note 7以來的第一批產品](../Page/三星Galaxy_Note_7.md "wikilink")。\[4\]三星Galaxy A7（2017）運行基於Android 6.0.1 Marshmallow作業系統的[Grace UX](../Page/TouchWiz.md "wikilink") 介面 。這台智慧型手機搭載了[三星Exynos](../Page/三星Exynos.md "wikilink") 7880 SoC，由8個ARM [Cortex-A](../Page/ARM處理器內核列表.md "wikilink")53 核心、Mali-T830MP3 GPU、3 GB的記憶體和32 GB儲存空間組成，最大可以擴充到256 GB的[MicroSD](../Page/MicroSD.md "wikilink")記憶卡，支援4G+3G雙卡雙待，電池為不可拆卸式3600mAh，支援快充。 另外，跟上一代A7多出的新功能有[IP68等級的防水](../Page/国际防护等级认证.md "wikilink")、Alway On Display顯示。
 
 ## 技術規格

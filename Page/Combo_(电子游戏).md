@@ -1,4 +1,4 @@
-> 本文内容由[Combo \(电子游戏\)](https://zh.wikipedia.org/wiki/Combo \(电子游戏\))转换而来。
+> 本文内容由[Combo \(电子游戏\)](https://zh.wikipedia.org/wiki/Combo_\(电子游戏\))转换而来。
 
 
 在[电子游戏](../Page/电子游戏.md "wikilink")中，**combo**（[combination的缩写](https://zh.wikipedia.org/wiki/wikt:combination "wikilink")，中文可稱「**连招**」「**连击**」「**連打**」等）是指连续完成的执行一系列动作指令。这些指令通常有严格的时间限制，完成可取得大量分数或优势。该术语源自[格斗游戏中组合拳的概念](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，现已经广泛运用于[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")、[清版射击和](https://zh.wikipedia.org/wiki/清版射击游戏 "wikilink")[体育等各类游戏](https://zh.wikipedia.org/wiki/体育类游戏 "wikilink")。Combo常作为游戏必需元素，但也可以用于高分或攻击威力修正，亦或仅仅用来展示华丽效果。

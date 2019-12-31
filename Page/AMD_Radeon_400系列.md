@@ -1,4 +1,4 @@
-> 本文内容由[AMD Radeon 400系列](https://zh.wikipedia.org/wiki/AMD Radeon 400系列)转换而来。
+> 本文内容由[AMD Radeon 400系列](https://zh.wikipedia.org/wiki/AMD_Radeon_400系列)转换而来。
 
 
 **AMD Radeon 400系列**顯示核心，是[AMD所推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")系列，開發代號為「Polaris」，以三星14nm [FinFET製程](../Page/多閘極電晶體.md "wikilink")（由[格羅方德代工](https://zh.wikipedia.org/wiki/格羅方德 "wikilink")）\[1\]，仍基於[GCN架構改造而來](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")，仍繼續採用[GDDR5](../Page/GDDR5.md "wikilink")顯示記憶體。AMD已於2016年中的台北國際電腦展上發表核心代號為「Polaris 10」的首款顯卡 Radeon RX 480，作為主流級應用，這是AMD自[Radeon HD 4000系列以來再次首先發布中高階級別的GPU](https://zh.wikipedia.org/wiki/Radeon_HD_4000 "wikilink")。競爭對手為NVIDIA的[GeForce 10系列](https://zh.wikipedia.org/wiki/GeForce_10系列 "wikilink")。開發代號為「Vega」的GPU預估將搭載HBM2顯示記憶體，並以Radeon 500系列之頂級型號面市。\[2\]

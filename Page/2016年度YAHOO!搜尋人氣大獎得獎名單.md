@@ -1,3 +1,6 @@
+> 本文内容由[2016年度YAHOO!搜尋人氣大獎得獎名單](https://zh.wikipedia.org/wiki/2016年度YAHOO!搜尋人氣大獎得獎名單)转换而来。
+
+
 **YAHOO\!人氣大獎2016 頒獎典禮**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2016年12月20日晚上8時假[尖沙咀](../Page/尖沙咀.md "wikilink")[文化中心](https://zh.wikipedia.org/wiki/文化中心 "wikilink")[露天廣場舉行](https://zh.wikipedia.org/wiki/露天廣場 "wikilink")，司儀由[森美擔任](https://zh.wikipedia.org/wiki/森美 "wikilink")，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
 
 ## 得獎名單

@@ -1,4 +1,4 @@
-> 本文内容由[Step \(何雁詩專輯\)](https://zh.wikipedia.org/wiki/Step \(何雁詩專輯\))转换而来。
+> 本文内容由[Step \(何雁詩專輯\)](https://zh.wikipedia.org/wiki/Step_\(何雁詩專輯\))转换而来。
 
 
 《**Step**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[何雁詩的第](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")1張個人音樂專輯，於2014年11月28日發行。

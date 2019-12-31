@@ -1,3 +1,6 @@
+> 本文内容由[阿瑞斯 \(DC漫畫\)](https://zh.wikipedia.org/wiki/阿瑞斯_\(DC漫畫\))转换而来。
+
+
 **阿瑞斯**（），有時又稱為**馬爾斯**（）或**戰爭**（），是一名出現於[DC漫畫](../Page/DC漫畫.md "wikilink")的虛構人物與超級反派。該人物是借鑑於[希臘神話中的](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")[奧林帕斯十二神裡的](https://zh.wikipedia.org/wiki/奧林帕斯十二神 "wikilink")[戰神](../Page/阿瑞斯.md "wikilink")。
 
 不斷引發戰爭與紛亂好獲取更強大神力的阿瑞斯是提倡和平的亞馬遜的公主——[神力女超人最強大的對手](https://zh.wikipedia.org/wiki/神力女超人 "wikilink")。

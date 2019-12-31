@@ -1,3 +1,6 @@
+> 本文内容由[巫术VI：创世神笔之诅咒](https://zh.wikipedia.org/wiki/巫术VI：创世神笔之诅咒)转换而来。
+
+
 是一款由[Sir-Tech](../Page/Sir-Tech.md "wikilink")制作和发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本游戏为[巫术系列](../Page/巫术系列.md "wikilink")的第6作，游戏最初于1990年发行。\[1\]
 
 David Bradley完全重写了本游戏的系统。

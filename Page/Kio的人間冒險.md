@@ -1,3 +1,6 @@
+> 本文内容由[Kio的人間冒險](https://zh.wikipedia.org/wiki/Kio的人間冒險)转换而来。
+
+
 是一款由來自中國廣州的漫畫家史悲和獨立程序員Light共同製作的[獵奇](../Page/獵奇.md "wikilink")[恐怖](../Page/恐怖遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。游戏的[免費版於](https://zh.wikipedia.org/wiki/免費遊戲 "wikilink")2016年9月9日發佈，\[1\]\[2\]Steam版在2017年4月6日发售。
 
 ## 劇情

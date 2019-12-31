@@ -1,3 +1,6 @@
+> 本文内容由[卡西歐 fx-3650P II](https://zh.wikipedia.org/wiki/卡西歐_fx-3650P_II)转换而来。
+
+
 Casio fx-3650P II是由Casio所推出的計數機，是fx-3650P及fx-3950P的改進型號。Casio fx-3650P有一個可顯示兩行文字的液晶螢幕。在香港，Casio fx-3650P II為香港考試及評核局認可的計數機之一\[1\]，並在計算機上印有紅色字「<span style="color: red">▌▌▌▌█ H.K.E.A.A. APPROVED</span>」。
 
 ## 與第一代fx-3650P和fx-3950P的分別

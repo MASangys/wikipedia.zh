@@ -1,4 +1,4 @@
-> 本文内容由[Platinum End](https://zh.wikipedia.org/wiki/Platinum End)转换而来。
+> 本文内容由[Platinum End](https://zh.wikipedia.org/wiki/Platinum_End)转换而来。
 
 
 《**Platinum End**》（）是一部[日本](../Page/日本.md "wikilink")[少年漫画](../Page/少年漫画.md "wikilink")，由[大场鸫原作](https://zh.wikipedia.org/wiki/大场鸫 "wikilink")、[小畑健](../Page/小畑健.md "wikilink")作画，于《[Jump Square](../Page/Jump_Square.md "wikilink")》2015年12月号正式开始连载\[1\]，该号杂志的正式发售日期是2015年11月4日。香港版及台灣版都將此作品歸類為[18禁](https://zh.wikipedia.org/wiki/18禁 "wikilink")。

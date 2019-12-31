@@ -1,4 +1,4 @@
-> 本文内容由[OVERLORD \(小說\)](https://zh.wikipedia.org/wiki/OVERLORD \(小說\))转换而来。
+> 本文内容由[OVERLORD \(小說\)](https://zh.wikipedia.org/wiki/OVERLORD_\(小說\))转换而来。
 
 
 《**OVERLORD**》（）是日本小說家[丸山くがね創作的](https://zh.wikipedia.org/wiki/丸山くがね "wikilink")[輕小說](../Page/輕小說.md "wikilink")系列，最初發表於小說投稿網站《Arcadia》，之後改在《[成為小說家吧](../Page/成為小說家吧.md "wikilink")》連載，2012年正式發行書籍版（故事情節有若干變動，網路上的稱為web版）。[電視動畫版](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月於日本開始播放第一季，第二季於2018年1月播放，第三季於2018年7月播放。

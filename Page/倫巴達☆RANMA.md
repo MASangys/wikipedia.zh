@@ -1,3 +1,6 @@
+> 本文内容由[倫巴達☆RANMA](https://zh.wikipedia.org/wiki/倫巴達☆RANMA)转换而来。
+
+
 《**倫巴達☆RANMA**》（）是[日本](../Page/日本.md "wikilink")聲優組合的單曲。1990年4月21日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

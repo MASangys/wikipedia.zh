@@ -1,3 +1,6 @@
+> 本文内容由[Tasty Road](https://zh.wikipedia.org/wiki/Tasty_Road)转换而来。
+
+
 《**Tasty Road**》（韓語：테이스티 로드）是韓國[Olive TV電視台製作的綜藝節目](https://zh.wikipedia.org/wiki/Olive_TV "wikilink")，第一季至第六季均由[朴秀真](../Page/朴秀真.md "wikilink")夥拍不同搭檔主持節目，包括諧星朴智宣、[金成恩](../Page/金成恩.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/Lizzy "wikilink")（[After School](../Page/After_School.md "wikilink")）\[1\]。隨著《Tasty Road 2015》（亦即本節目系列之第六季）播出完畢，[朴秀真](../Page/朴秀真.md "wikilink")亦宣布告別節目，[Lizzy亦同時退出](https://zh.wikipedia.org/wiki/Lizzy "wikilink")。《Tasty Road 2016》改由[Yura](../Page/Yura.md "wikilink")（[Girl's Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷](../Page/金玟廷.md "wikilink")主持。節目每集會指定尋找的韓國美食，並邀請藝人擔任來賓，一同與主持達成目標\[2\]。
 
 ## 節目播出相關事件

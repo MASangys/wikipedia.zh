@@ -1,3 +1,6 @@
+> 本文内容由[La Vita Romantica](https://zh.wikipedia.org/wiki/La_Vita_Romantica)转换而来。
+
+
 《》是日本[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink") [ALI PROJECT](../Page/ALI_PROJECT.md "wikilink") 的第六張[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，由[MellowHead於](../Page/Lantis.md "wikilink")2010年1月13日發行，\[1\]以「初回限定盤」和「通常盤」兩種形態同步發售，初回盤內含的DVD收錄三支[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")和攝製特典。\[2\]專輯標題採用[義大利文](https://zh.wikipedia.org/wiki/義大利文 "wikilink")，意為「浪漫人生」。
 
 ## 概要

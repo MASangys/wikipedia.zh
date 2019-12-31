@@ -1,4 +1,4 @@
-> 本文内容由[Qualidea Code](https://zh.wikipedia.org/wiki/Qualidea Code)转换而来。
+> 本文内容由[Qualidea Code](https://zh.wikipedia.org/wiki/Qualidea_Code)转换而来。
 
 
 《**Qualidea Code**》（）為原創動畫，是由[Super Dash文庫](../Page/Super_Dash文庫.md "wikilink")、[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")、[MF文庫J](../Page/MF文庫J.md "wikilink")、[GAGAGA文庫](../Page/GAGAGA文庫.md "wikilink")與[Jump SQ等出版社以及](https://zh.wikipedia.org/wiki/Jump_SQ "wikilink")[渡航](../Page/渡航.md "wikilink")、[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")、[相樂總三位輕小說作家組成的創作團體](https://zh.wikipedia.org/wiki/相樂總 "wikilink")**Speakeasy**推出的媒體聯合計畫**Project QUALIDEA**（）的一部分。\[1\]

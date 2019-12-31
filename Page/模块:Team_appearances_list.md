@@ -1,3 +1,6 @@
+> 本文内容由[模块:Team appearances list](https://zh.wikipedia.org/wiki/模块:Team_appearances_list)转换而来。
+
+
 \-- This module implements [Template:Team appearances list](https://zh.wikipedia.org/wiki/Template:Team_appearances_list "wikilink").
 
 local p = {}

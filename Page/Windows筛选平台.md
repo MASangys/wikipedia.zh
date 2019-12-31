@@ -1,3 +1,6 @@
+> 本文内容由[Windows筛选平台](https://zh.wikipedia.org/wiki/Windows筛选平台)转换而来。
+
+
 **Windows筛选平台**（**Windows Filtering Platform**，缩写**WFP**；也译**Windows过滤平台**）是[微软](../Page/微软.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中的一套[系统服务和](../Page/Windows服务.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，于2006年至2007年在[Windows Vista中首次引入](../Page/Windows_Vista.md "wikilink")。它允许[应用程序](../Page/应用程序.md "wikilink")绑定到包处理环节，过滤[协议栈](../Page/协议栈.md "wikilink")的流水线。它提供整合通信等功能，管理员可以将其配置为在每个应用程序的基础上调用处理逻辑。微软预期WFP将被[防火墙](../Page/防火墙.md "wikilink")及其他封包处理或连接监控组件使用，如[杀毒软件](../Page/杀毒软件.md "wikilink")和[家长控制软件](https://zh.wikipedia.org/wiki/家长控制 "wikilink")。另外，WFP也被用于实现[网络地址转换](../Page/网络地址转换.md "wikilink")（NAT）和存储[IPSec策略配置](https://zh.wikipedia.org/wiki/IPSec "wikilink")。
 
 ## 组件

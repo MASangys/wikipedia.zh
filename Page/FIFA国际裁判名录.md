@@ -1,3 +1,6 @@
+> 本文内容由[FIFA国际裁判名录](https://zh.wikipedia.org/wiki/FIFA国际裁判名录)转换而来。
+
+
 **FIFA国际裁判名录**（）是由[国际足球联合会](../Page/国际足球联合会.md "wikilink")支配、涉及[足球](../Page/足球.md "wikilink")领域（包括室外足球、[室内足球和](../Page/室内五人制足球.md "wikilink")[沙滩足球](https://zh.wikipedia.org/wiki/沙滩足球 "wikilink")）的全球性[裁判名录](https://zh.wikipedia.org/wiki/足球裁判 "wikilink")。名录上的成员有资格执法国际级别的比赛，并可在制服上佩戴国际足联徽章。
 
 ## 提名

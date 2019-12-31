@@ -1,3 +1,6 @@
+> 本文内容由[AMD Radeon Vega 系列](https://zh.wikipedia.org/wiki/AMD_Radeon_Vega_系列)转换而来。
+
+
 **Radeon Vega系列**是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[顯示核心系列](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。這些卡使用了"Vega"架構，並且搭載[HBM2高頻寬記憶體](https://zh.wikipedia.org/wiki/HBM2 "wikilink")。 \[1\]Vega是第一個使用第五代[GCN架構並且在](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")2018將由[Navi架構接替](https://zh.wikipedia.org/wiki/Navi "wikilink")。\[2\]
 
 使用了14nm [FinFET製程](https://zh.wikipedia.org/wiki/FinFET "wikilink")\[3\]的「Vega10」產品線在2017/8/14發布，包含RX Vega 56及RX Vega 64，價位在399美元至499美元不等。

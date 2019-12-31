@@ -1,3 +1,6 @@
+> 本文内容由[NHL系列](https://zh.wikipedia.org/wiki/NHL系列)转换而来。
+
+
 是由[EA加拿大](../Page/EA加拿大.md "wikilink")制作、[艺电](../Page/艺电.md "wikilink")发行的[冰球](../Page/冰球.md "wikilink")模拟游戏系列。游戏获得[國家冰球聯盟](../Page/國家冰球聯盟.md "wikilink")（NHL）的许可。
 
 NHL系列的首作是于1991年在[Mega Drive上发行的](../Page/Mega_Drive.md "wikilink")《[NHL冰球](https://zh.wikipedia.org/wiki/NHL冰球_\(游戏\) "wikilink")》。

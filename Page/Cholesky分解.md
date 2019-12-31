@@ -1,3 +1,6 @@
+> 本文内容由[Cholesky分解](https://zh.wikipedia.org/wiki/Cholesky分解)转换而来。
+
+
 [線性代數中](https://zh.wikipedia.org/wiki/線性代數 "wikilink")，**Cholesky分解**（）是指將一個[正定的](https://zh.wikipedia.org/wiki/正定矩陣 "wikilink")[埃爾米特矩陣分解成一個](https://zh.wikipedia.org/wiki/埃爾米特矩陣 "wikilink")[下三角矩陣與其](../Page/三角矩阵.md "wikilink")[共軛轉置之](https://zh.wikipedia.org/wiki/共軛轉置 "wikilink")[乘積](https://zh.wikipedia.org/wiki/乘積 "wikilink")。這種分解方式在提高代數運算效率、[蒙特卡羅方法等場合中十分有用](https://zh.wikipedia.org/wiki/蒙特卡羅方法 "wikilink")。[實數](https://zh.wikipedia.org/wiki/實數 "wikilink")[矩陣的Cholesky分解由](https://zh.wikipedia.org/wiki/矩陣 "wikilink")最先發明。實際應用中，Cholesky分解在求解[線性方程組中的效率約兩倍於](https://zh.wikipedia.org/wiki/線性方程組 "wikilink")[LU分解](../Page/LU分解.md "wikilink")。\[1\]
 
 ## 描述
@@ -401,7 +404,7 @@ Cholesky分解可以推廣到**元素中包含[算子](../Page/算子.md "wikili
   - [libflame](http://www.cs.utexas.edu/users/flame/)，帶有[LAPACK](../Page/LAPACK.md "wikilink")功能的C函數庫
   - [德克薩斯大學奧斯汀分校](../Page/德克薩斯大學奧斯汀分校.md "wikilink")，有關Cholesky分解高性能實現的筆記及影片
   - [Google](../Page/Google.md "wikilink")，[Library "Ceres Solver"](http://ceres-solver.org/).
-  - [MATLAB](../Page/MATLAB.md "wikilink")程式，[LDL分解](http://infohost.nmt.edu/~borchers/ldlt.html)
+  - [MATLAB](../Page/MATLAB.md "wikilink")程式，[LDL分解](https://web.archive.org/web/20120807190828/http://infohost.nmt.edu/~borchers/ldlt.html)
   - [Armadillo](http://arma.sourceforge.net/download.html)，一個C++線性函數包 (package)
 
 ### 模擬中矩陣的利用

@@ -1,3 +1,6 @@
+> 本文内容由[Hello Especially](https://zh.wikipedia.org/wiki/Hello_Especially)转换而来。
+
+
 《**Hello Especially**》是[日本](../Page/日本.md "wikilink")雙人[音樂組合](../Page/音樂組合.md "wikilink")[無限開關](../Page/無限開關.md "wikilink")的第19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月31日由發行。
 
 ## 單曲解說

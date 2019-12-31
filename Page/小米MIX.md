@@ -1,3 +1,6 @@
+> 本文内容由[小米MIX](https://zh.wikipedia.org/wiki/小米MIX)转换而来。
+
+
 **小米MIX**是[小米科技在](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年10月25日发布的一款Android[智能手机](../Page/智能手机.md "wikilink")。有标准版和尊享版两种版本。 小米MIX為全球首款實際定義「全面屏」，且帶動趨勢的手機。
 
 被收藏在[德國慕尼黑國際設計博物館以及](https://zh.wikipedia.org/wiki/德國慕尼黑國際設計博物館 "wikilink")[芬蘭國家設計博物館內](https://zh.wikipedia.org/wiki/芬蘭國家設計博物館 "wikilink")。

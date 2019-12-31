@@ -1,3 +1,6 @@
+> 本文内容由[Memory \(Mamamoo迷你專輯\)](https://zh.wikipedia.org/wiki/Memory_\(Mamamoo迷你專輯\))转换而来。
+
+
 《**MEMORY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[CJ E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2016年11月7日，發行第四張迷你專輯《MEMORY》，並公開主打歌曲《Décalcomanie》MV以及專輯收錄曲《絕不放手》， 《Draw, Draw & Draw》MV，在此專輯總共七首歌內有六首都拍攝了MV，規模不遜色於正規專輯。
 
 ## 青龍效應

@@ -1,3 +1,6 @@
+> 本文内容由[Libreboot](https://zh.wikipedia.org/wiki/Libreboot)转换而来。
+
+
 **Libreboot**（原名為**GNU Libreboot**）是一個目標為取代專有的[BIOS](../Page/BIOS.md "wikilink")[韌體](../Page/韌體.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，僅執行最少的工作來載入並執行現代的[32位元](../Page/32位元.md "wikilink")或[64位元](../Page/64位元.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
 
 ## 特徵
@@ -32,48 +35,26 @@ Libreboot的系統支援包含了下列的系統：\[22\]\[23\]\[24\]
 [Category:自由系統軟體](https://zh.wikipedia.org/wiki/Category:自由系統軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.

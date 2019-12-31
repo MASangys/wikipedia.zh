@@ -1,3 +1,6 @@
+> 本文内容由[Our Twenty For \(WINNER韓語單曲\)](https://zh.wikipedia.org/wiki/Our_Twenty_For_\(WINNER韓語單曲\))转换而来。
+
+
 《**OUR TWENTY FOR**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[WINNER](../Page/WINNER.md "wikilink") 自四月推出單曲專輯《[FATE NUMBER FOR](https://zh.wikipedia.org/wiki/Fate_Number_For_\(WINNER韓語單曲\) "wikilink")》後，時隔滿四個月回歸的新作品，並延續上一張專輯的發行日期，此次為8月4日下午4點正式線上發行，並於8月7日發行實體專輯。專輯名為《OUR TWENTY FOR》，是表達WINNER的年輕活力、對音樂的熱情與彼此深厚的友誼。且考慮到成員平均年齡為24（Twenty four）歲，此名稱也含有「青春」的雙重意義。\[1\]專輯的版本分別為《For Dream》和《For Youth》。
 
 ## 概要

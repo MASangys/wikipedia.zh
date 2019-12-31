@@ -1,3 +1,6 @@
+> 本文内容由[SILK](https://zh.wikipedia.org/wiki/SILK)转换而来。
+
+
 **SILK**是一个开发的[音频压缩格式和](../Page/数据压缩.md "wikilink")[音频编解码器](../Page/音频编解码器.md "wikilink")。它被开发用于[Skype](../Page/Skype.md "wikilink")，以取代编解码器。自从提供许可，它也已被用于其他目的。它已被扩展为互联网标准[Opus的编解码器](https://zh.wikipedia.org/wiki/Opus_codec "wikilink")。
 
 ## 详细情况

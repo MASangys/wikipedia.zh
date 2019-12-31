@@ -1,3 +1,6 @@
+> 本文内容由[We Are One \(歌曲\)](https://zh.wikipedia.org/wiki/We_Are_One_\(歌曲\))转换而来。
+
+
 《**We Are One**》是荷蘭DJ[硬威爾](../Page/硬威爾.md "wikilink")的一支單曲，該歌曲由臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")演唱，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2017年6月20日發行\[1\]\[2\]\[3\]；該歌曲於[Hit FM年度百首單曲排行榜位居第](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")99名\[4\]。
 
 ## 背景與發行

@@ -1,3 +1,6 @@
+> 本文内容由[硫酸铀\(IV\)](https://zh.wikipedia.org/wiki/硫酸铀\(IV\))转换而来。
+
+
 **硫酸铀(IV)**是一种水溶性[铀化合物](https://zh.wikipedia.org/wiki/铀 "wikilink")，化学式为U(SO<sub>4</sub>)<sub>2</sub>，高毒。
 
 ## 制备

@@ -1,4 +1,4 @@
-> 本文内容由[FASA Studio](https://zh.wikipedia.org/wiki/FASA Studio)转换而来。
+> 本文内容由[FASA Studio](https://zh.wikipedia.org/wiki/FASA_Studio)转换而来。
 
 
 **FASA Studio**（前称**FASA Interactive Technologies Inc**），成立于1995年，由FASA Corporation, Spectrum HoloByte和Denny Thorley创立。

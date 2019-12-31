@@ -1,3 +1,6 @@
+> 本文内容由[Zee TV](https://zh.wikipedia.org/wiki/Zee_TV)转换而来。
+
+
 **Zee TV**（）是[印度](../Page/印度.md "wikilink")的一家电视台，1992年10月开播，透過[有线电视](../Page/有线电视.md "wikilink")及[卫星电视](../Page/卫星电视.md "wikilink")向全球播出。Zee TV总部位于印度[马哈拉施特拉邦](../Page/马哈拉施特拉邦.md "wikilink")[首府](https://zh.wikipedia.org/wiki/首府 "wikilink")[孟买](../Page/孟买.md "wikilink")，隶属于旗下的（爱索尔集团还拥有运营多个新闻财经频道的公司）。Zee TV也是印度最大的商业电视传媒之一\[1\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[MSI协议](https://zh.wikipedia.org/wiki/MSI协议)转换而来。
+
+
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**MSI协议**是一个在多处理器系统中运行的基本的[缓存一致性协议](https://zh.wikipedia.org/wiki/快取一致性 "wikilink")。与其他缓存一致性协议一样，协议名称中“M，S，I”三个字母表明高速缓存行可能的状态。
 
 ## 概述

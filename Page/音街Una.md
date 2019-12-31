@@ -1,3 +1,6 @@
+> 本文内容由[音街Una](https://zh.wikipedia.org/wiki/音街Una)转换而来。
+
+
 **音街Una**（又译作**音街鳗**，日语原名****）是动画公司MTK与音乐公司[Internet合作推出的虚拟歌手](../Page/Internet_\(公司\).md "wikilink")，同时具备[Vocaloid和](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[AITalk](https://zh.wikipedia.org/wiki/AITalk "wikilink")[语音合成](../Page/语音合成.md "wikilink")技术。
 
 ## 人物设定

@@ -1,3 +1,6 @@
+> 本文内容由[TST \(組合\)](https://zh.wikipedia.org/wiki/TST_\(組合\))转换而来。
+
+
 **TST**（曾名為**一級秘密**，；），為JSL Company於2017年1月4日推出的男子組合，最初成員包括AIN、YOHAN、K、JungHoon、KyeongHa、YongHyeon、WooYoung等7位。2016年10月加入台灣籍成員[張豐豪](../Page/張豐豪.md "wikilink")，2018年5月起團名改為TST，6月11日KyeongHa因性騷擾案件引起部分粉丝不满自行主動退團，目前以6人形式活動，2019年1月JSL Company透過官方Fan cafe公告所屬社名變更為KJ MUSIC ENTERTANMENT。
 
 ## 經歷

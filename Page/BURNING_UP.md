@@ -1,4 +1,4 @@
-> 本文内容由[BURNING UP](https://zh.wikipedia.org/wiki/BURNING UP)转换而来。
+> 本文内容由[BURNING UP](https://zh.wikipedia.org/wiki/BURNING_UP)转换而来。
 
 
 《**BURNING UP**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[EXILE TRIBE的第](../Page/EXILE_TRIBE.md "wikilink")2张[单曲](../Page/单曲.md "wikilink")，於2013年7月10日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。

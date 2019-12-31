@@ -1,3 +1,6 @@
+> 本文内容由[Show Me The Money 5](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5)转换而来。
+
+
 **Show Me The Money 5**（，简称：**SMTM5**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第五季](../Page/Show_Me_The_Money.md "wikilink")，于2016年5月13日至7月15日每逢周五晚间播出。
 
 SMTM第五季的由[YG娛樂](../Page/YG娛樂.md "wikilink")的、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The Quiett](../Page/The_Quiett.md "wikilink")；[AOMG](../Page/AOMG.md "wikilink")的联合CEO [Simon D](../Page/Simon_D.md "wikilink")、制作人[Gray以及](../Page/Gray_\(歌手\).md "wikilink")[Mad Clown与](../Page/Mad_Clown.md "wikilink")[Leessang](../Page/Leessang.md "wikilink")的[Gill担任导师](../Page/吉成俊.md "wikilink")。\[1\]此季有破纪录的超过9000名参赛者参赛，优胜者将获得1亿韩元奖金及一辆[大众高尔夫](../Page/大众高尔夫.md "wikilink")轿车。

@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Asha 303](https://zh.wikipedia.org/wiki/諾基亞Asha_303)转换而来。
+
+
 **諾基亞Asha 303**是[諾基亞生產的直立式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[功能手機](https://zh.wikipedia.org/wiki/功能手機 "wikilink")，2011年10月26日發布。
 
 ## 規格

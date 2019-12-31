@@ -1,3 +1,6 @@
+> 本文内容由[Meet again \(Laputa\)](https://zh.wikipedia.org/wiki/Meet_again_\(Laputa\))转换而来。
+
+
 《**meet again**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")第3張單曲。1997年11月12日由[EMI MUSIC JAPAN（舊名東芝EMI）](../Page/EMI音樂日本.md "wikilink")\[1\]。
 
 ## 概要

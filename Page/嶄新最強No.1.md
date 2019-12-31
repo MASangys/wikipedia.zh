@@ -1,3 +1,6 @@
+> 本文内容由[嶄新最強No.1](https://zh.wikipedia.org/wiki/嶄新最強No.1)转换而来。
+
+
 《**嶄新最強No.1**》（）是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的第7張單曲。1996年5月20日由[ZAIN RECORDS（現已併入Being）發行](../Page/Being_\(公司\).md "wikilink")。
 
 ## 概要

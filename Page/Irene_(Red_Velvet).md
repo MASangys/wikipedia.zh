@@ -1,3 +1,6 @@
+> 本文内容由[Irene \(Red Velvet\)](https://zh.wikipedia.org/wiki/Irene_\(Red_Velvet\))转换而来。
+
+
 [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |IMDb =9364486 }}
 
 **裴柱現**\[1\]（；），常見譯名為**裴珠泫**\[2\]，藝名**Irene**（，），出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱市](https://zh.wikipedia.org/wiki/大邱市 "wikilink")，[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員兼隊長](../Page/Red_Velvet.md "wikilink")。

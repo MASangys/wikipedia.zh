@@ -1,3 +1,6 @@
+> 本文内容由[View Askew宇宙](https://zh.wikipedia.org/wiki/View_Askew宇宙)转换而来。
+
+
 **View Askew宇宙**（）是一系列[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")與[虛構世界](../Page/虛構世界.md "wikilink")，由身兼編劇和導演的[凱文·史密斯所創作](https://zh.wikipedia.org/wiki/凱文·史密斯 "wikilink")。在該宇宙的電影、電視劇和漫畫皆為史密斯的所製作。
 
 該宇宙各電影中的演員及角色時常會出現在不同的作品中，為此部分演員有時會在不同的電影中飾演相同或不同的角色，而由[傑森·繆斯](../Page/傑森·繆斯.md "wikilink")與史密斯共同飾演的[傑與沉默鮑勃](../Page/傑與沉默鮑勃.md "wikilink")則出現在幾乎所有的作品中。

@@ -1,3 +1,6 @@
+> 本文内容由[Show Me The Money 6](https://zh.wikipedia.org/wiki/Show_Me_The_Money_6)转换而来。
+
+
 **Show Me The Money 6**（，简称：**SMTM6**）是[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet频道制作并播出的](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，为[Show Me The Money系列的第六季](../Page/Show_Me_The_Money.md "wikilink")，\[1\]于2017年6月30日\[2\]至9月1日每逢周五晚间播出。
 
 SMTM第六季的4组制作人团队分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[3\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[4\][Dynamic Duo的](../Page/Dynamic_Duo.md "wikilink")、\[5\]和、\[6\]组成。\[7\]此季吸引了比往季更多的参赛者，超过13000名选手参赛也是SMTM历史上参赛人数最多的一季，包括、、NO:EL\[8\]、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")\[9\]、、、、Candle、[Junoflo](../Page/Junoflo.md "wikilink")、、、、、Ja Mezz、[Boi B](../Page/Rhythm_Power.md "wikilink")、[地球人](../Page/Rhythm_Power.md "wikilink")、、、、、、、[Untouchable成员](../Page/Untouchable_\(韓國團體\).md "wikilink")[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[10\]、、[TEEN TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[创造](../Page/創造_\(歌手\).md "wikilink")\[11\]、珍岛狗、PENOMECO、JJK、Rudals和SMTM第一季的制作人\[12\]等在内的众多韩国Hiphop界知名或小有名气的Rapper均报名参加了此季的海选。优胜者将获得1亿韩元奖金及一辆[雪佛兰科迈罗汽车](https://zh.wikipedia.org/wiki/雪佛兰科迈罗 "wikilink")。

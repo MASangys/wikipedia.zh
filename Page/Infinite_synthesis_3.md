@@ -1,3 +1,6 @@
+> 本文内容由[Infinite synthesis 3](https://zh.wikipedia.org/wiki/Infinite_synthesis_3)转换而来。
+
+
 **《infinite synthesis 3》**是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第四张专辑。于2016年10月5日由[日本NBC環球娛樂发售](../Page/NBC環球娛樂.md "wikilink")。
 
 ## 概要

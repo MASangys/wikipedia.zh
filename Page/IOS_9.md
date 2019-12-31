@@ -1,4 +1,4 @@
-> 本文内容由[IOS 9](https://zh.wikipedia.org/wiki/IOS 9)转换而来。
+> 本文内容由[IOS 9](https://zh.wikipedia.org/wiki/IOS_9)转换而来。
 
 
 **iOS 9**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第九個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")。iOS 9於2015年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月16日正式推出。繼任者為2016年9月13日推出的[iOS 10](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")\[1\]。與之前不同的是，iOS 9可以運行於所有搭載前代作業系統（即iOS 8）的裝置上\[2\]。

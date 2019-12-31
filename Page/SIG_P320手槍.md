@@ -1,3 +1,6 @@
+> 本文内容由[SIG P320手槍](https://zh.wikipedia.org/wiki/SIG_P320手槍)转换而来。
+
+
 **P320**是由德國槍械制造商[西格&紹爾](../Page/西格&紹爾.md "wikilink")（SIG Sauer）設計及生產的[半自動手槍](../Page/半自動手槍.md "wikilink")，目前由SIG Sauer位於德國[埃克爾恩弗爾德和美國](https://zh.wikipedia.org/wiki/埃克爾恩弗爾德 "wikilink")[新罕布什爾州](https://zh.wikipedia.org/wiki/新罕布什爾州 "wikilink")[埃克塞特](../Page/埃克塞特.md "wikilink")的工廠所生產。該槍有多種口徑，包括： [9×19毫米](https://zh.wikipedia.org/wiki/9毫米魯格彈 "wikilink")、[.357 SIG](../Page/.357_SIG.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")。當中9×19毫米口徑的P320於2014年1月15日在[北美市場推出](https://zh.wikipedia.org/wiki/北美 "wikilink")，緊隨著的是於2015年1月SHOT Show中亮相的.45 ACP口徑緊湊型 \[1\] 。P320是以[SIG Sauer P250作藍本進一步開發的手槍](../Page/SIG_P250手槍.md "wikilink")，它採用了[擊針平移式的機制和一個純雙動的擊鎚組](https://zh.wikipedia.org/wiki/擊針平移式 "wikilink")。2017年1月19日，P320勝出了[美國陸軍的XM](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")17模組化手槍系統招標，其特製改良版本將會成為M17（全尺寸型）和M18手槍（攜帶型），並預定將在不久未來取代所有[M9手槍](https://zh.wikipedia.org/wiki/M9手槍 "wikilink")。 \[2\]
 
 ## 設計特徵
@@ -71,29 +74,33 @@ P320 RX型和RX緊湊型則配備原廠提供的SIG Sauer Romeo1[反射式瞄準
 
 2017年1月19日，SIG Sauer P320模組化手槍系統（Modular Handgun System，簡稱：MHS）勝出了美軍的模組化手槍系統招標，並將會以“M17”的名義在軍隊中服役。儘管該手槍仍然發射9毫米魯格彈，合約中容許陸軍和其他部門購買SIG Sauer所推介的XM1152全金屬披甲彈和XM1153特別用途彈藥 \[10\]\[11\] 。該手槍發射的彈種為“溫徹斯特披甲[中空彈](../Page/中空彈.md "wikilink")”。2017年5月，美國陸軍宣佈第一個接收M17的單位為[第101空降師](https://zh.wikipedia.org/wiki/第101空降師 "wikilink")，這些手槍已經在11月末列裝該部隊\[12\]。與此同時，其餘美軍部門也表明他們希望引進這款手槍，意味著M17將成為整個美軍部隊的制式手槍。目前美軍打算購入一共421,000枝手槍；其中195,000枝手槍為陸軍使用、130,000枝為[空軍使用](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")、61,000枝為[海軍使用](../Page/美國海軍.md "wikilink")（只採用XM18緊湊型），35,000枝為[海軍陸戰隊使用](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")（採用M18）\[13\]\[14\] 。
 
+### FLUX MP17
+
+MP17是一款由FLUX Defense生產的P320底把套件，直接裝上P320全尺寸型/M17/M18的滑套總成（更短的滑套需安裝槍口制退器等配件加長槍管以避免槍口閃光造成傷害）及火控組即可使用。套件配有按下釋放鈕即自動彈出鎖定的槍托（SBR版）或手臂支撐器（撐臂版）、在扳機前的備用彈匣井、瞄具安裝口、QD槍背帶安裝孔及手動保險（可選擇不安裝）。底把前方設有一段MIL-STD-1913戰術導軌供安裝槍燈。由於設有備用彈匣井，因此MP17的裝彈量可達43發（2個21發彈匣+鏜室1發）\[15\]\[16\]。FLUX另有供MP17使用的兩點鎖定槍套，並使用Safariland的安裝介面\[17\]。
+
 ## 潛在的掉落擊發風險
 
-2017年7月，達拉斯警察局要求所有警員停止使用P320以待進一步調查\[15\]。目前有資料指出該槍在滑套後部掉落到地面約30度角時會令該槍有意外擊發的風險。該問題可能是由扳機壓力所引起；由於部份手槍的扳機過重，令它們在掉落到地面時受到慣性影響而繼續移動，從而導致走火。一些槍械網站，如“TheTruthAboutGuns.com”亦對P320進行了獨立測試，並宣稱確認了其潛在意外擊發率為40%\[16\]。從另一個測試結果得出，P320在彈匣部份最先掉落地面時也會有意外擊發的風險\[17\] 。2017年8月8日，西格&紹爾發表通知，表明他們會免費為所有P320升級，以解決這個問題\[18\]。
+2017年7月，達拉斯警察局要求所有警員停止使用P320以待進一步調查\[18\]。目前有資料指出該槍在滑套後部掉落到地面約30度角時會令該槍有意外擊發的風險。該問題可能是由扳機壓力所引起；由於部份手槍的扳機過重，令它們在掉落到地面時受到慣性影響而繼續移動，從而導致走火。一些槍械網站，如“TheTruthAboutGuns.com”亦對P320進行了獨立測試，並宣稱確認了其潛在意外擊發率為40%\[19\]。從另一個測試結果得出，P320在彈匣部份最先掉落地面時也會有意外擊發的風險\[20\] 。2017年8月8日，西格&紹爾發表通知，表明他們會免費為所有P320升級，以解決這個問題\[21\]。
 
 ## 使用國
 
-  -   - [丹麥國防軍](../Page/丹麥國防軍.md "wikilink")（P320 X-Carry）\[19\]\[20\]
+  -   - [丹麥國防軍](../Page/丹麥國防軍.md "wikilink")（P320 X-Carry）\[22\]\[23\]
 
-  -   - （P320 X系列）\[21\]
+  -   - （P320 X系列）\[24\]
 
-  -   - [泰國皇家警察](https://zh.wikipedia.org/wiki/泰國皇家警察 "wikilink")（152,468枝P320SP\[22\]\[23\]）
+  -   - [泰國皇家警察](https://zh.wikipedia.org/wiki/泰國皇家警察 "wikilink")（152,468枝P320SP\[25\]\[26\]）
 
-  -   - [美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")（M17）\[24\]\[25\]
+  -   - [美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")（M17）\[27\]\[28\]
 
       - [美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")（M18）
 
       - [美國空軍](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")（M18）
 
-      - \[26\]
+      - \[29\]
 
-      - \[27\]
+      - \[30\]
 
-      - \[28\]
+      - \[31\]
 
       - [芝加哥警察局](https://zh.wikipedia.org/wiki/芝加哥警察局 "wikilink")
 
@@ -105,15 +112,22 @@ P320 RX型和RX緊湊型則配備原廠提供的SIG Sauer Romeo1[反射式瞄準
 
   - 2017年—《》第二季：被索洛托夫（[喬許·史都華](../Page/喬許·史都華.md "wikilink")飾演）所使用。
 
+### 電子遊戲
+
+  - 2015年—《》：型號為P320，命名為“M17模塊化手槍系統”（M17 Modular Handgun System），由[美國陸軍小隊隊長所使用](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")。
+  - 2019年—《[-{zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭; zh-hk:使命召喚：現代戰爭}-](https://zh.wikipedia.org/wiki/使命召唤：现代战争_\(2019年遊戲\) "wikilink")》：型號為P320 RX緊湊型，命名為「M19」，預設没裝上紅點鏡。可進行自定義改裝。故事模式中由[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團和](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")[倫敦都市警部所使用](../Page/倫敦警察廳.md "wikilink")。
+  - 2019年—《[火線獵殺：絕境](../Page/幽灵行动：断点.md "wikilink")》：命名為「P320」，型號為M17。
+
 ## 另見
 
-  - [SIG P226手槍](../Page/SIG_P226手槍.md "wikilink")
+  - [SIG P226半自動手槍](../Page/SIG_P226半自動手槍.md "wikilink")
   - [SIG P250手槍](../Page/SIG_P250手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
   - [格洛克17](../Page/格洛克17.md "wikilink")
   - [瓦爾特P99手槍](../Page/瓦爾特P99手槍.md "wikilink")
-  - [瓦爾特PPQ手槍](../Page/瓦爾特PPQ手槍.md "wikilink")
-  - [HK VP9手槍](../Page/HK_VP9手槍.md "wikilink")
+  - [瓦爾特PPQ半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PPQ半自動手槍 "wikilink")
+  - [瓦爾特PPX半自動手槍](../Page/瓦爾特PPX半自動手槍.md "wikilink")
+  - [HK VP9半自動手槍](../Page/HK_VP9半自動手槍.md "wikilink")
   - [FN Five-seveN手槍](../Page/FN_Five-seveN手槍.md "wikilink")
   - [史密斯威森軍警型半自動手槍](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
   - [史密斯威森西格瑪半自動手槍](../Page/史密斯威森西格瑪半自動手槍.md "wikilink")
@@ -142,13 +156,13 @@ P320 RX型和RX緊湊型則配備原廠提供的SIG Sauer Romeo1[反射式瞄準
 12. [US Military's New 9mm Handgun M17 & M18 (SIG SAUER P320)](https://m.youtube.com/watch?v=sc-pQH9GSxA)
 13. [Army Names First Unit to Receive Service's New Pistol](http://www.military.com/daily-news/2017/05/03/army-names-first-unit-receive-services-new-pistol.html) - Military.com, 3 May 2017
 14. [MHS Update: Services Embrace Army’s New Sidearm](https://kitup.military.com/2017/05/modular-handgun-system-3.html) - Kitup.Military.com, 3 May 2017
-15. <http://www.thefirearmblog.com/blog/2017/08/02/breaking-p320-recall-issued-dallas-police-prohibited-duty-till-repaired/>
-16. <http://www.thetruthaboutguns.com/2017/08/jeremy-s/breaking-ttag-tests-show-p320-striker-fired-pistols-are-not-drop-safe/>
-17. <https://www.maxim.com/news/sig-sauer-p320-prone-to-discharge-2017-8>
-18. <https://www.sigsauer.com/press-releases/sig-sauer-issues-voluntary-upgrade-p320-pistol/>
-19.
-20.
-21.
+15.
+16.
+17.
+18. <http://www.thefirearmblog.com/blog/2017/08/02/breaking-p320-recall-issued-dallas-police-prohibited-duty-till-repaired/>
+19. <http://www.thetruthaboutguns.com/2017/08/jeremy-s/breaking-ttag-tests-show-p320-striker-fired-pistols-are-not-drop-safe/>
+20. <https://www.maxim.com/news/sig-sauer-p320-prone-to-discharge-2017-8>
+21. <https://www.sigsauer.com/press-releases/sig-sauer-issues-voluntary-upgrade-p320-pistol/>
 22.
 23.
 24.
@@ -156,3 +170,6 @@ P320 RX型和RX緊湊型則配備原廠提供的SIG Sauer Romeo1[反射式瞄準
 26.
 27.
 28.
+29.
+30.
+31.

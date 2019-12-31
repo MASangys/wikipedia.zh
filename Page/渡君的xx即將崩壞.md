@@ -1,3 +1,6 @@
+> 本文内容由[渡君的xx即將崩壞](https://zh.wikipedia.org/wiki/渡君的xx即將崩壞)转换而来。
+
+
 《**渡君的xx即將崩壞**》（），由日本女性漫畫家[鳴見奈留](../Page/鳴見奈留.md "wikilink")繪畫的漫畫，在2014年8月4日開始連載於《[Young Ace](../Page/Young_Ace.md "wikilink")》\[1\]，後來於2015年11月20日移籍至《》連載\[2\]。
 
 ## 概要

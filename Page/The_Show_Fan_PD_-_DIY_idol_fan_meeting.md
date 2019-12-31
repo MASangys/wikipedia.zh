@@ -1,3 +1,6 @@
+> 本文内容由[The Show Fan PD - DIY idol fan meeting](https://zh.wikipedia.org/wiki/The_Show_Fan_PD_-_DIY_idol_fan_meeting)转换而来。
+
+
 《**The Show \#Fan PD - DIY idol fan meeting**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")的綜藝節目，由 [金南珠](../Page/金南珠_\(歌手\).md "wikilink")（[Apink](../Page/Apink.md "wikilink")）與Sleepy（[Untouchable](../Page/Untouchable_\(韓國團體\).md "wikilink")）共同主持。\[1\]節目以粉絲自己當Fan meeting的製作導演，提出點子與偶像共同進行Fan meeting\[2\]\[3\]。
 
 節目於韓國時間2017年4月17日晚上六點三十分SBS funE電視首播。

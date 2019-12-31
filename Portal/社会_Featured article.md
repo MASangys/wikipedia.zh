@@ -1,4 +1,4 @@
-> 本文内容由[Portal:社会/Featured article](https://zh.wikipedia.org/wiki/Portal:社会/Featured article)转换而来。
+> 本文内容由[Portal:社会/Featured article](https://zh.wikipedia.org/wiki/Portal:社会/Featured_article)转换而来。
 
 
 __TOC__

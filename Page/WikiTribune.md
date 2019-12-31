@@ -1,3 +1,6 @@
+> 本文内容由[WikiTribune](https://zh.wikipedia.org/wiki/WikiTribune)转换而来。
+
+
 **WikiTribune**是一個於2017年4月25日由[吉米·威爾斯](../Page/吉米·威爾斯.md "wikilink")所宣布創立的網站\[1\]\[2\]。Wikitribune是威尔士的獨立計畫，不附屬於[維基百科或者是](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")\[3\]。根据他的说法，“WikiTribune的新闻来自人民，且为了人民”\[4\]。
 
 這個網站的预览版本已经上线，然而目前只提供給媒體等特定的受眾對象\[5\]。

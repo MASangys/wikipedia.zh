@@ -1,3 +1,6 @@
+> 本文内容由[1-2-Switch](https://zh.wikipedia.org/wiki/1-2-Switch)转换而来。
+
+
 《**1-2-Switch**》是[任天堂](../Page/任天堂.md "wikilink")为自家游戏机[任天堂Switch](../Page/任天堂Switch.md "wikilink")出品的[聚会游戏](https://zh.wikipedia.org/wiki/聚会游戏 "wikilink")，於2017年3月3日同游戏机[首发](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")\[1\]。游戏要玩家面对面，并仅通过游戏机的Joy-Con手柄操作\[2\]。由於本作傾向體感操作模式，包裝也標明本作無法於任天堂Switch掌機模式運行。
 
 ## 玩法

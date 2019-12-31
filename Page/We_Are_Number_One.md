@@ -1,3 +1,6 @@
+> 本文内容由[We Are Number One](https://zh.wikipedia.org/wiki/We_Are_Number_One)转换而来。
+
+
 《**We Are Number One**》是冰島兒童電視節目《[懶人小鎮](../Page/懶人小鎮.md "wikilink")》的一首歌曲，由 Máni Svavarsson 填詞、作曲。\[1\]
 
 這首歌在懶人小鎮第四季第12集首次撥出，內容描述劇情中反派羅比羅滕（Robbie Rotten），試圖教導他的四個分身如何抓住超級英雄。

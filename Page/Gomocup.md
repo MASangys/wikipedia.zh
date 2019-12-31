@@ -1,3 +1,6 @@
+> 本文内容由[Gomocup](https://zh.wikipedia.org/wiki/Gomocup)转换而来。
+
+
 **Gomocup**是[五子棋](../Page/五子棋.md "wikilink")[人工智能](../Page/人工智能.md "wikilink")的世界性比赛。自2000年以来，每年举办一次\[1\] 。截至2017年\[2\]，它是国际上最大且最有影响力的五子棋人工智能赛事，有来自约10个国家与地区的40余位作者参与。
 
 ## 规则
@@ -987,31 +990,18 @@ Sebastian Nowozin</p></td>
 [Category:五子棋類遊戲](https://zh.wikipedia.org/wiki/Category:五子棋類遊戲 "wikilink") [Category:紙筆遊戲](https://zh.wikipedia.org/wiki/Category:紙筆遊戲 "wikilink") [Category:傳統圖版遊戲](https://zh.wikipedia.org/wiki/Category:傳統圖版遊戲 "wikilink") [Category:日本游戏](https://zh.wikipedia.org/wiki/Category:日本游戏 "wikilink") [Category:人工智能](https://zh.wikipedia.org/wiki/Category:人工智能 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.  Česká federace piškvorek a renju|website=www.piskvorky.cz|access-date=2016-06-02}}
-
 12.
-
 13.
-
 14.
 15.
 16.

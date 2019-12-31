@@ -1,3 +1,6 @@
+> 本文内容由[Síragon](https://zh.wikipedia.org/wiki/Síragon)转换而来。
+
+
 **Síragon, C.A.**，是一家[委内瑞拉的](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink")[数码相机](../Page/数码相机.md "wikilink")、[平板电脑和](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[液晶电视制造商和代工商](https://zh.wikipedia.org/wiki/液晶电视 "wikilink")\[1\]\[2\]。此外他还设计和制造自己品牌的内存、闪存和电路板；公司工厂是在[卡拉沃沃州瓦伦西亚的北工业区](https://zh.wikipedia.org/wiki/卡拉沃沃州 "wikilink")。
 
 ## 概述

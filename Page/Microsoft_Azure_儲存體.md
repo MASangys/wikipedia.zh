@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Azure 儲存體](https://zh.wikipedia.org/wiki/Microsoft Azure 儲存體)转换而来。
+> 本文内容由[Microsoft Azure 儲存體](https://zh.wikipedia.org/wiki/Microsoft_Azure_儲存體)转换而来。
 
 
 **Azure 儲存服務** (Azure Storage) 是 [Microsoft Azure](../Page/Microsoft_Azure.md "wikilink") 平台內實作的資料儲存服務，目前為 Azure 平台服務的主要資料保存地。

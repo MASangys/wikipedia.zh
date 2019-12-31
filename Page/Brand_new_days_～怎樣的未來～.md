@@ -1,3 +1,6 @@
+> 本文内容由[Brand new days ～怎樣的未來～](https://zh.wikipedia.org/wiki/Brand_new_days_～怎樣的未來～)转换而来。
+
+
 《**Brand new days ～怎樣的未來～**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第七張日語單曲，該曲如汽水般清爽，是旋律和歌聲都充滿疾速奔馳感、彷彿能燃燒夏日的歌曲\[1\]。2017年8月30日於[日本](../Page/日本.md "wikilink")正式發行 \[2\]\[3\]。
 
 ## 專輯資訊
@@ -103,11 +106,11 @@
 
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:BTOB單曲](https://zh.wikipedia.org/wiki/Category:BTOB單曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
-1.  [BTOB 日本7thシングル『Brand new days ～どんな未来を～』発売決定！！](https://btobofficial.jp/contents/109626) 2017-07-21 BTOB JAPAN OFFICIAL
+1.  [BTOB 日本7thシングル『Brand new days ～どんな未来を～』発売決定！！](https://btobofficial.jp/contents/109626)  2017-07-21 BTOB JAPAN OFFICIAL
 2.  發行日期原訂於2017年8月23日，後因製作原因而延期至2017年8月30日發行。
-3.  [BTOB 日本7thシングル発売日延期のお知らせ](https://btobofficial.jp/contents/110696) 2017-07-21 BTOB JAPAN OFFICIAL
+3.  [BTOB 日本7thシングル発売日延期のお知らせ](https://btobofficial.jp/contents/110696)  2017-07-21 BTOB JAPAN OFFICIAL
 4.  [BTOB 日本7thシングル "Brand new days 〜どんな未来を〜" 2017.08.30 Release](https://twitter.com/BTOB_JPN/status/896972832181067779) BTOB_JPN Twitter
-5.  [BTOB 日本7thシングル『Brand new days ～どんな未来を～』発売決定！！](https://btobofficial.jp/contents/109626) 2017-08-15 BTOB JAPAN OFFICAL
+5.  [BTOB 日本7thシングル『Brand new days ～どんな未来を～』発売決定！！](https://btobofficial.jp/contents/109626)  2017-08-15 BTOB JAPAN OFFICAL
 6.  [BTOB日本7thシングル『Brand new days ～どんな未来を～』タワーレコード全店総合シングルチャート1位](https://twitter.com/BTOB_JPN/status/903468632310562818) BTOB_JPN Twitter
 7.  [8/28～9/3集計タワレコ全店総合シングル週間チャートは](https://twitter.com/tower_info/status/904523155925897216) TOWER_Info Twitter
 8.  [BTOB日本7thシングル『Brand new days ～どんな未来を～』 8月のタワーレコード全店総合シングル月間チャートにて....見事、1位に輝きました\!\!](https://twitter.com/BTOB_JPN/status/905026709748989954) BTOB_JPN Twitter

@@ -1,3 +1,6 @@
+> 本文内容由[JPEG Network Graphics](https://zh.wikipedia.org/wiki/JPEG_Network_Graphics)转换而来。
+
+
 **JPEG Network Graphics**（缩写**JNG**，)）是一个基于[JPEG](../Page/JPEG.md "wikilink")的[图形文件格式](https://zh.wikipedia.org/wiki/图形文件格式 "wikilink")，但它与[PNG](../Page/PNG.md "wikilink")也密切相关：它使用PNG文件结构（使用不同的签名）作为包装JPEG编码的图像数据的[容器格式](../Page/视频文件格式.md "wikilink")。
 
 ## 格式

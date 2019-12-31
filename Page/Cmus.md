@@ -1,3 +1,6 @@
+> 本文内容由[Cmus](https://zh.wikipedia.org/wiki/Cmus)转换而来。
+
+
 **cmus**（C\* Music Player）是一个小型、快速的面向[类Unix系统](../Page/类Unix系统.md "wikilink")操作系统的控制台式[音频播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。cmus以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL）条款分发，并只通过内置的[ncurses以](https://zh.wikipedia.org/wiki/ncurses "wikilink")操作。
 
 这种纯文本设计减少了程序运行所需要的资源，使其成为了旧款或性能较弱的计算机，以及不具有图形环境（例如[X Window System](../Page/X_Window系統.md "wikilink")）系统的好选择。

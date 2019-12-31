@@ -1,3 +1,6 @@
+> 本文内容由[无心法师II](https://zh.wikipedia.org/wiki/无心法师II)转换而来。
+
+
 為2017年[中國](../Page/中國.md "wikilink")網路電視劇，第二季改編自尼罗同名第三部作品，由[韩东君](../Page/韩东君.md "wikilink")、[陈瑶](../Page/陈瑶.md "wikilink")、[王彦霖](../Page/王彦霖.md "wikilink")、[李蘭迪](../Page/李蘭迪.md "wikilink")、[Mike及](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")[高泰宇](../Page/高泰宇.md "wikilink")領銜主演，故事的開端將定於20年后的1937年，把岳綺羅吞噬的饕餮化為人形出來人世間，人稱「小丁貓」，白琉璃化身變成一條小白蛇，顧大人之子顧基也將登場。除此之外，蘇桃將加入一同冒險、反派人物白川凜也將登場與無心對陣。該劇於2016年8月8日開機，同年11月初杀青，亦於2017年8月14日在[搜狐](../Page/搜狐.md "wikilink")视频和[腾讯视频](../Page/腾讯视频.md "wikilink")首播。\[1\]
 
 ## 播出時間及平台

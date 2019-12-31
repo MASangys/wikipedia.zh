@@ -1,3 +1,6 @@
+> 本文内容由[PanSci 泛科學](https://zh.wikipedia.org/wiki/PanSci_泛科學)转换而来。
+
+
 **PanSci 泛科學**，簡稱**PanSci**或**泛科學**，是一個成立於[臺灣](../Page/臺灣.md "wikilink")的[科普](https://zh.wikipedia.org/wiki/科普 "wikilink")[網站](../Page/網站.md "wikilink")及[社群](https://zh.wikipedia.org/wiki/群體 "wikilink")。該組織原為[台灣數位文化協會在](https://zh.wikipedia.org/wiki/台灣數位文化協會 "wikilink")2011年發起之[育成計畫](https://zh.wikipedia.org/wiki/育成中心 "wikilink")，創辦者為徐挺耀（史萊姆）與前[全球之聲](../Page/全球之聲.md "wikilink")編輯鄭國威（P編）等人\[1\]；2014年從台灣數位文化協會獨立，成立「泛科知識股份有限公司」。該組織專注於邀請各領域[科學研究者](https://zh.wikipedia.org/wiki/科學研究法 "wikilink")、[教育](../Page/教育.md "wikilink")者、[愛好者以及社會大眾一同在](../Page/爱好者.md "wikilink")[實體與](https://zh.wikipedia.org/wiki/實體 "wikilink")[虛擬公共論壇中思辨](https://zh.wikipedia.org/wiki/虚拟 "wikilink")[社會議題中的](../Page/社会问题.md "wikilink")[科學面向](https://zh.wikipedia.org/wiki/科學 "wikilink")。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 旗下事業

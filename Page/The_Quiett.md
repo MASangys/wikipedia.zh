@@ -1,3 +1,6 @@
+> 本文内容由[The Quiett](https://zh.wikipedia.org/wiki/The_Quiett)转换而来。
+
+
 **The Quiett**（，），本名**申东甲**（），[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌](../Page/饒舌.md "wikilink")[男歌手及](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。他在2004年创立独立饶舌音乐厂牌，后于2010年离开。在2011年，他与饶舌歌手[Dok2](../Page/Dok2.md "wikilink")合伙成立了嘻哈音乐厂牌[ILLIONAIRE RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，现为公司的联合CEO。\[1\]\[2\]
 
 ## 生平与经历
@@ -12,7 +15,7 @@ The Quiett于1985年在京畿道光明市出生，他在中学生时期无意间
 
 ### 2010年－至今：ILLIONAIRE RECORDS
 
-在2010年3月发行第四张正规专辑《》后，The Quiett于同年12月离开了Soul Company。\[10\]2011年1月1日，他与[Dok2](../Page/Dok2.md "wikilink")共同成立了[ILLIONAIRE RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，\[11\]饶舌歌手也于同年稍晚的时候加入公司，\[12\]随后于2011年和2013年分别发表了《》和《》两张专辑。2014年发行ILLIONAIRE RECORDS首张合作专辑《》，之后与[Dok2](../Page/Dok2.md "wikilink")以制作人的身份一同出演[Mnet的](../Page/Mnet媒體.md "wikilink")[嘻哈竞技真人秀](../Page/嘻哈音樂.md "wikilink")《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》并随团队选手组合[IKON](../Page/IKON.md "wikilink")成员[Bobby一同获得优胜](../Page/金知元_\(饒舌者\).md "wikilink")。2015年，发布个人第五张正规专辑《》，并于次年再次以制作人的身份出演《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》。\[13\]\[14\]\[15\]2016年连续三周以一周一曲的方式发行了《Still Got Luv》、《Mission》和《Beautiful Life II》三首单曲，其中两首单曲分别与金孝恩和Hash Swan合作，随后又与[CHANGMO合作的成立了Ambition](https://zh.wikipedia.org/wiki/CHANGMO "wikilink") Music。2017年，发行个人第六张正规专辑《Millionaire Poetry》。
+在2010年3月发行第四张正规专辑《》后，The Quiett于同年12月离开了Soul Company。\[10\]2011年1月1日，他与[Dok2](../Page/Dok2.md "wikilink")共同成立了[ILLIONAIRE RECORDS](https://zh.wikipedia.org/wiki/ILLIONAIRE_RECORDS "wikilink")，\[11\]饶舌歌手也于同年稍晚的时候加入公司，\[12\]随后于2011年和2013年分别发表了《》和《》两张专辑。2014年发行ILLIONAIRE RECORDS首张合作专辑《》，之后与[Dok2](../Page/Dok2.md "wikilink")以制作人的身份一同出演[Mnet的](../Page/Mnet媒體.md "wikilink")[嘻哈竞技真人秀](../Page/嘻哈音樂.md "wikilink")《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》并随团队选手组合[IKON](../Page/IKON.md "wikilink")成员[Bobby一同获得优胜](../Page/金知元_\(饒舌者\).md "wikilink")。2015年，发布个人第五张正规专辑《》，并于次年再次以制作人的身份出演《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》。\[13\]\[14\]\[15\]2016年连续三周以一周一曲的方式发行了《Still Got Luv》、《Mission》和《Beautiful Life II》三首单曲，其中两首单曲分别与金孝恩和[Hash Swan合作](https://zh.wikipedia.org/wiki/Hash_Swan "wikilink")，随后又与[CHANGMO合作的成立了Ambition](https://zh.wikipedia.org/wiki/CHANGMO "wikilink") Music。2017年，发行个人第六张正规专辑《Millionaire Poetry》。
 
 ## 音乐作品
 
@@ -436,40 +439,24 @@ The Quiett于1985年在京畿道光明市出生，他在中学生时期无意间
 [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:韓國嘻哈歌手](https://zh.wikipedia.org/wiki/Category:韓國嘻哈歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韩国饶舌男歌手](https://zh.wikipedia.org/wiki/Category:韩国饶舌男歌手 "wikilink") [Category:21世纪韩国歌手](https://zh.wikipedia.org/wiki/Category:21世纪韩国歌手 "wikilink") [Category:2000年代歌手](https://zh.wikipedia.org/wiki/Category:2000年代歌手 "wikilink") [Category:2010年代歌手](https://zh.wikipedia.org/wiki/Category:2010年代歌手 "wikilink") [Category:2000年出道](https://zh.wikipedia.org/wiki/Category:2000年出道 "wikilink") [Category:韩国嘻哈音乐制作人](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐制作人 "wikilink") [Category:光明市出身人物](https://zh.wikipedia.org/wiki/Category:光明市出身人物 "wikilink") [Category:韩国嘻哈音乐家](https://zh.wikipedia.org/wiki/Category:韩国嘻哈音乐家 "wikilink") [Category:韩国作曲家](https://zh.wikipedia.org/wiki/Category:韩国作曲家 "wikilink") [Category:Soul_Company音乐家](https://zh.wikipedia.org/wiki/Category:Soul_Company音乐家 "wikilink") [Category:ILLIONAIRE_RECORDS](https://zh.wikipedia.org/wiki/Category:ILLIONAIRE_RECORDS "wikilink") [Category:韩国企业家](https://zh.wikipedia.org/wiki/Category:韩国企业家 "wikilink") [Category:韩国音乐大奖获得者](https://zh.wikipedia.org/wiki/Category:韩国音乐大奖获得者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
 22.

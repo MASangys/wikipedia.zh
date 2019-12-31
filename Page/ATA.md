@@ -1,3 +1,6 @@
+> 本文内容由[ATA](https://zh.wikipedia.org/wiki/ATA)转换而来。
+
+
 **ATA**或 **Ata**可能指的是：
 
 ## 計算機科學

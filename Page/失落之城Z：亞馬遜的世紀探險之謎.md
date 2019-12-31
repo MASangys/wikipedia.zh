@@ -1,3 +1,6 @@
+> 本文内容由[失落之城Z：亞馬遜的世紀探險之謎](https://zh.wikipedia.org/wiki/失落之城Z：亞馬遜的世紀探險之謎)转换而来。
+
+
 《失落之城Z：亞馬遜的世紀探險之謎》（The Lost City of Z: A Tale of Deadly Obsession in the Amazon）是在2009年書籍，敘述英國探險家[珀西·佛斯特深入亞馬遜雨林企圖尋找古文明Z的故事](https://zh.wikipedia.org/wiki/珀西·佛斯特 "wikilink")\[1\]。
 
 ## 評價

@@ -1,3 +1,6 @@
+> 本文内容由[NBA 2K18](https://zh.wikipedia.org/wiki/NBA_2K18)转换而来。
+
+
 《**NBA 2K18**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Visual Concepts開發](../Page/Visual_Concepts.md "wikilink")，[2K Sports發行](../Page/2K_Sports.md "wikilink")。《NBA 2K18》是《[NBA 2K17](../Page/NBA_2K17.md "wikilink")》的續作。遊戲於2017年9月19日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台上推出。
 
 傳奇珍藏版封面人物為[俠客·歐尼爾](https://zh.wikipedia.org/wiki/俠客·歐尼爾 "wikilink")；一般版封面人物為[凱里·厄文](https://zh.wikipedia.org/wiki/凱里·厄文 "wikilink")；加拿大版封面人物則為[德瑪爾·德羅贊](https://zh.wikipedia.org/wiki/德瑪爾·德羅贊 "wikilink")。

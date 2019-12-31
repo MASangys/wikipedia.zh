@@ -1,3 +1,6 @@
+> 本文内容由[VxD](https://zh.wikipedia.org/wiki/VxD)转换而来。
+
+
 **VxD**是在[Microsoft Windows/386](../Page/Windows_2.1x.md "wikilink")、[Windows 3.x的](../Page/Windows_3.x.md "wikilink")386增强模式及[Windows 9x中使用的](../Page/Windows_9x.md "wikilink")[设备驱动程序模型](https://zh.wikipedia.org/wiki/设备驱动程序 "wikilink")，并在一定程度上被、以及（及更高版本）多任务（`TASKMGR`）使用。\[1\]VxDs可以访问[内核](../Page/内核.md "wikilink")和所有运行中[进程的内存](https://zh.wikipedia.org/wiki/进程 "wikilink")，以及对硬件的原始访问。
 
 ## 设计

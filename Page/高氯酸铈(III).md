@@ -1,3 +1,6 @@
+> 本文内容由[高氯酸铈\(III\)](https://zh.wikipedia.org/wiki/高氯酸铈\(III\))转换而来。
+
+
 **高氯酸铈(III)**（）是[铈](../Page/铈.md "wikilink")(III)的[高氯酸](../Page/高氯酸.md "wikilink")盐，分子式为Ce(ClO<sub>4</sub>)<sub>3</sub>。
 
 ## 化学性质
@@ -21,7 +24,5 @@
 1.
 2.
 3.   CeCl3O12 {{\!}} ChemSpider|2017-08-29}}
-
 4.   CeCl3O12 - PubChem |language = en |website = pubchem.ncbi.nlm.nih.gov |access-date = 2017-08-29 }}
-
 5.

@@ -1,3 +1,6 @@
+> 本文内容由[天狼星XM](https://zh.wikipedia.org/wiki/天狼星XM)转换而来。
+
+
 [网络电台](https://zh.wikipedia.org/wiki/网络电台 "wikilink") | revenue =  50亿[美元](../Page/美元.md "wikilink")<small>（2016年）</small>\[1\] | operating_income =  18.76亿美元<small>（2016年）</small>\[2\] | net_income =  7.46亿美元<small>（2016年）</small>\[3\] | assets =  80.00亿美元<small>（2016年）</small>\[4\] | equity =  -7.92亿美元<small>（2016年）</small>\[5\] | owner = （占股68.5%）\[6\] | num_employees = 2,323人 | num_employees_year = 2015年\[7\] | divisions =
  | homepage =  }}
 

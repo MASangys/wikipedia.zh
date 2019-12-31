@@ -1,3 +1,6 @@
+> 本文内容由[SoundFont](https://zh.wikipedia.org/wiki/SoundFont)转换而来。
+
+
 **SoundFont**是一个[品牌](../Page/品牌.md "wikilink")名统称，它是指使用来播放[MIDI](../Page/MIDI.md "wikilink")文件的[檔案格式](../Page/檔案格式.md "wikilink")和相关技术。其最早在声卡上用于其[General MIDI支持](../Page/General_MIDI.md "wikilink")。
 
 ## 规范

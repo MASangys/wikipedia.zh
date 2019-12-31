@@ -1,3 +1,6 @@
+> 本文内容由[Insomniac Games](https://zh.wikipedia.org/wiki/Insomniac_Games)转换而来。
+
+
 **Insomniac Games**是一家位于美国加州[伯班克的电子游戏开发公司](../Page/伯班克_\(加利福尼亚州\).md "wikilink")，公司最早以“**Xtreme Software**”之名在1994年成立，一年后更改为现名称。\[1\]公司令人熟知的游戏作品有《[-{zh-cn:小龙斯派罗;zh-hant:寶貝龍 Spyro the Dragon;}-](../Page/寶貝龍_Spyro_the_Dragon系列.md "wikilink")》系列、《[-{zh-cn:瑞奇与叮当;zh-hant:拉捷特與克拉克;}-](../Page/拉捷特與克拉克系列.md "wikilink")》系列、《》系列等。公司虽然大部分作品由[索尼互动娱乐发行](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")，但其自身一直保持独立；它也为[微软制作过](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")[Xbox One的](../Page/Xbox_One.md "wikilink")《[日落过载](../Page/日落过载.md "wikilink")》以及交给第三方发行的《》等作品。2019年8月19日，[索尼互动娱乐宣布收购Insomniac](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink") Games，成为其第一方游戏开发工作室。\[2\] [Insomniac.png](https://zh.wikipedia.org/wiki/File:Insomniac.png "fig:Insomniac.png")
 
 ## 公司作品

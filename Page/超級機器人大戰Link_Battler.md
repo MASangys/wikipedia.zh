@@ -1,3 +1,6 @@
+> 本文内容由[超級機器人大戰Link Battler](https://zh.wikipedia.org/wiki/超級機器人大戰Link_Battler)转换而来。
+
+
 是[萬普](../Page/萬普.md "wikilink")公司在1999年10月1日發售的[Game Boy Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。\[1\]\[2\]
 
 ## 系統

@@ -1,3 +1,6 @@
+> 本文内容由[Huawei Ideos X1](https://zh.wikipedia.org/wiki/Huawei_Ideos_X1)转换而来。
+
+
 **Huawei Ideos X1**型號為U8180。是由[華為公司所生產的入門手機](https://zh.wikipedia.org/wiki/華為 "wikilink")，以輕小方便為特色。背後印有Google字樣，係為[Google](../Page/Google.md "wikilink")授權生產合作之。\[1\]\[2\]\[3\]\[4\]
 
 ## 多媒體規格

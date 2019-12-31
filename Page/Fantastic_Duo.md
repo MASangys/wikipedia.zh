@@ -1,4 +1,4 @@
-> 本文内容由[Fantastic Duo](https://zh.wikipedia.org/wiki/Fantastic Duo)转换而来。
+> 本文内容由[Fantastic Duo](https://zh.wikipedia.org/wiki/Fantastic_Duo)转换而来。
 
 
 《**Fantastic Duo：我手中的歌手**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](../Page/SBS_\(韓國\).md "wikilink")《[星期天真好](../Page/星期天真好.md "wikilink")》一部的綜藝節目，於2016年2月9日試播，第一季於4月17日起逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國 "wikilink")4時50分開始播放，每集約100分鐘，由[全炫茂擔任主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]。10月26日，SBS電視台方面表示，綜藝節目《Fantastic Duo：我手中的歌手》將於11月20日播出最後一集\[2\]。2017年2月8日，SBS電視台方面表示，綜藝節目《Fantastic Duo：我手中的歌手》將於四月中旬播出第二季\[3\]，MC由[全炫茂繼續接任主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[4\]。

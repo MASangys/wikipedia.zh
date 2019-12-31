@@ -1,3 +1,6 @@
+> 本文内容由[聯盟MS](https://zh.wikipedia.org/wiki/聯盟MS)转换而来。
+
+
 **聯盟MS**（，[GRAU](https://zh.wikipedia.org/wiki/GRAU "wikilink")：**11F732A48**）為[聯盟號宇宙飛船的最新型號](https://zh.wikipedia.org/wiki/聯盟號宇宙飛船 "wikilink")，是太空船的改良版，改良最大的部分為通訊與導航子系統。
 
 此太空船由[俄羅斯聯邦宇宙局用於](https://zh.wikipedia.org/wiki/俄羅斯聯邦宇宙局 "wikilink")[載人航太](https://zh.wikipedia.org/wiki/載人航太 "wikilink")。聯盟MS進行了最小幅度的額外改裝，以反映天線與感應器的限制，以及改善了推進器的放置\[1\]。

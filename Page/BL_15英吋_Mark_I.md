@@ -1,3 +1,6 @@
+> 本文内容由[BL 15英吋 Mark I](https://zh.wikipedia.org/wiki/BL_15英吋_Mark_I)转换而来。
+
+
 **BL 15英吋 Mark I**（）是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[皇家海军所研發的一款大口徑艦砲](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")，其服役歷史長久，最早隨著1915年[伊莉莎白女王級戰艦一同服役](https://zh.wikipedia.org/wiki/伊莉莎白女王級戰艦 "wikilink")，期間參與了一戰、二戰和冷戰，最終1960年隨著[前衛號戰艦一同退出皇家海軍](https://zh.wikipedia.org/wiki/前衛號戰艦 "wikilink")，可以被視為一款相當成功的艦砲。
 
 ## 簡介

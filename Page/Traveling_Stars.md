@@ -1,4 +1,4 @@
-> 本文内容由[Traveling Stars](https://zh.wikipedia.org/wiki/Traveling Stars)转换而来。
+> 本文内容由[Traveling Stars](https://zh.wikipedia.org/wiki/Traveling_Stars)转换而来。
 
 
 《**Traveling Stars**》（）是於2015年8月28日發售\[1\]的[Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，由[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")製作。2016年3月18日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Traveling Stars MiniFanDisc ジルコニアVer.》（）。2016年11月24日由GN Software發售PlayStation Vita平台。\[2\]

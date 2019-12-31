@@ -1,4 +1,4 @@
-> 本文内容由[BMW F32](https://zh.wikipedia.org/wiki/BMW F32)转换而来。
+> 本文内容由[BMW F32](https://zh.wikipedia.org/wiki/BMW_F32)转换而来。
 
 
 ****是[德国](../Page/德国.md "wikilink")汽车制造商[BMW](../Page/BMW.md "wikilink")为其所生产的一款[中型车所指定的企业内部标识](https://zh.wikipedia.org/wiki/中型车 "wikilink")。作为[BMW 4系列的第一代车型](../Page/BMW_4系列.md "wikilink")，它的前身是3系列的。[轿跑款的F](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")32于2012年12月在[慕尼黑](../Page/慕尼黑.md "wikilink")首次向公众发布，并在次年1月的[底特律车展率先亮相](https://zh.wikipedia.org/wiki/底特律车展 "wikilink")。其后配备有硬顶折叠敞篷的[敞篷版](../Page/敞篷车.md "wikilink")（F33）和融合了敞篷和轿跑元素的（F36）也相继于2014年推出市场。

@@ -1,4 +1,4 @@
-> 本文内容由[Baby Sitter](https://zh.wikipedia.org/wiki/Baby Sitter)转换而来。
+> 本文内容由[Baby Sitter](https://zh.wikipedia.org/wiki/Baby_Sitter)转换而来。
 
 
 《**Baby Sitter**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2016年3月14日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[趙如晶及](https://zh.wikipedia.org/wiki/趙如晶 "wikilink")[金敏俊](../Page/金敏俊.md "wikilink")主演。此劇講述在富人家照顧3個孩子的保姆，勾引男主人之後發生的慘痛故事。

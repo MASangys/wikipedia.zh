@@ -1,3 +1,6 @@
+> 本文内容由[GT Steel Group](https://zh.wikipedia.org/wiki/GT_Steel_Group)转换而来。
+
+
 **GT Steel Construction Group Limited**，簡稱**GT Steel Construction Group**及**GT Steel Group**（），在2003年，由創辦人、主席及行政總裁王清佑及其相關人士，於總部[新加坡](../Page/新加坡.md "wikilink")成立「G-Tech Metal Pte. Ltd.」，業務在新加坡經營设计、供应和制造独立的结构钢產品\[1\]。
 
 股份在2017年7月17日於港交所創業板上市，原代碼為8402.HK。招股定價為0.5至0.7港元之間，發行新股數目為1.2億股，集資額為5020萬港元\[2\]\[3\]\[4\]。

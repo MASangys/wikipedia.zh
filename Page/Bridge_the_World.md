@@ -1,3 +1,6 @@
+> 本文内容由[Bridge the World](https://zh.wikipedia.org/wiki/Bridge_the_World)转换而来。
+
+
 《**Bridge the World**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")首張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2015年11月18日以三個版不同版本推出\[1\]。
 
 ## 背景
@@ -94,26 +97,15 @@
 [Category:2015年音樂專輯](https://zh.wikipedia.org/wiki/Category:2015年音樂專輯 "wikilink") [Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.

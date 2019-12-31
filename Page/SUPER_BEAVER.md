@@ -1,4 +1,4 @@
-> 本文内容由[SUPER BEAVER](https://zh.wikipedia.org/wiki/SUPER BEAVER)转换而来。
+> 本文内容由[SUPER BEAVER](https://zh.wikipedia.org/wiki/SUPER_BEAVER)转换而来。
 
 
 **SUPER BEAVER**（スーパービーバー）為日本搖滾樂團，於2005年組成。略稱為「ビーバー」（BEAVER）。

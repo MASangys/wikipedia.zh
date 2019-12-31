@@ -1,4 +1,4 @@
-> 本文内容由[Little One](https://zh.wikipedia.org/wiki/Little One)转换而来。
+> 本文内容由[Little One](https://zh.wikipedia.org/wiki/Little_One)转换而来。
 
 
 《**Little One**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[吳日言](../Page/吳日言.md "wikilink")的第1張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2004年8月6日推出。

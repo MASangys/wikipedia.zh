@@ -1,3 +1,6 @@
+> 本文内容由[中居正广 ON\&ON AIR](https://zh.wikipedia.org/wiki/中居正广_ON\&ON_AIR)转换而来。
+
+
 《**中居正广 ON\&ON AIR**》（）是一档在[日本](../Page/日本.md "wikilink")的[谈话类电台节目](https://zh.wikipedia.org/wiki/谈话节目 "wikilink")，其由[日本放送](../Page/日本放送.md "wikilink")制作播出并在[日本全国广播网联播](../Page/NRN.md "wikilink")。该节目是[中居正广的冠名节目](https://zh.wikipedia.org/wiki/中居正广 "wikilink")。
 
 本节目的前身名为《**中居正広のSome girl' SMAP**》（）。

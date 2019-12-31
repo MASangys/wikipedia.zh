@@ -1,4 +1,4 @@
-> 本文内容由[Can You Hear Me\? \(IU迷你专辑\)](https://zh.wikipedia.org/wiki/Can You Hear Me\? \(IU迷你专辑\))转换而来。
+> 本文内容由[Can You Hear Me\? \(IU迷你专辑\)](https://zh.wikipedia.org/wiki/Can_You_Hear_Me\?_\(IU迷你专辑\))转换而来。
 
 
 **Can You Hear Me?**是韩国创作歌手IU的第二张日语迷你专辑。\[1\]

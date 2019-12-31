@@ -1,3 +1,6 @@
+> 本文内容由[3Hz](https://zh.wikipedia.org/wiki/3Hz)转换而来。
+
+
 **株式會社3Hz**（，[振假名](https://zh.wikipedia.org/wiki/振假名 "wikilink")：\[1\]\[2\]，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 ## 簡介

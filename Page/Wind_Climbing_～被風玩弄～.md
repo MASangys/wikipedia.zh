@@ -1,3 +1,6 @@
+> 本文内容由[Wind Climbing ～被風玩弄～](https://zh.wikipedia.org/wiki/Wind_Climbing_～被風玩弄～)转换而来。
+
+
 《**Wind Climbing ～被風玩弄～**》（）是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")的第2張單曲。1994年11月10日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行\[1\]\[2\]。
 
 ## 解說

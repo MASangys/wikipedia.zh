@@ -1,3 +1,6 @@
+> 本文内容由[Amrita \(牧野由依單曲\)](https://zh.wikipedia.org/wiki/Amrita_\(牧野由依單曲\))转换而来。
+
+
 《**Amrita**》（）是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[牧野由依](../Page/牧野由依.md "wikilink")的首張單曲。2005年8月18日由[Victor Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 
 ## 解說

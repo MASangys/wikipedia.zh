@@ -1,4 +1,4 @@
-> 本文内容由[Laplace 拉普拉斯的神子](https://zh.wikipedia.org/wiki/Laplace 拉普拉斯的神子)转换而来。
+> 本文内容由[Laplace 拉普拉斯的神子](https://zh.wikipedia.org/wiki/Laplace_拉普拉斯的神子)转换而来。
 
 
 《**Laplace 拉普拉斯的神子**》是一款以固定三維俯視角進行的[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")（MMORPG），美術風格為日式動漫畫風格。遊戲中玩家扮演神子，對抗潘朵拉之盒中跑出來的七原罪惡魔：傲慢、嫉妒、憤怒、懶惰、貪婪、暴食、色慾，在亞爾斯多雷大陸進行精彩的冒險。

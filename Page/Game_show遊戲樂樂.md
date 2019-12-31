@@ -1,3 +1,6 @@
+> 本文内容由[Game show遊戲樂樂](https://zh.wikipedia.org/wiki/Game_show遊戲樂樂)转换而来。
+
+
 《**Game show遊戲樂樂**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的綜藝節目](../Page/SBS_\(韓國\).md "wikilink")，於2016年12月20日啟播，逢[韓國時間星期六上午](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")1時00分開始播放，每集約40-60分鐘。節目主要分為〈遊戲交流會〉〈現在圈飯啦〉〈希澈遊戲團〉〈遊戲排位show！〉等部分，節目每個環節均以遊戲為主軸，是個希望讓不懂電玩遊戲的人也能輕鬆享受的節目。
 
 ## 節目part

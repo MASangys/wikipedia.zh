@@ -1,4 +1,4 @@
-> 本文内容由[BMW 2系列](https://zh.wikipedia.org/wiki/BMW 2系列)转换而来。
+> 本文内容由[BMW 2系列](https://zh.wikipedia.org/wiki/BMW_2系列)转换而来。
 
 
 **BMW 2系列**（）是[德国](../Page/德国.md "wikilink")汽车制造商[BMW](../Page/BMW.md "wikilink")旗下的一个[紧凑车系](../Page/紧凑型轿车.md "wikilink")。其所属的首个[轿跑车款](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")（F22）自2013年12月起生产，并于2014年3月8日起投放市场\[1\] 。这一车系创立的目的是为纪念传奇的\[2\]。2系轿跑车如同[X1和](../Page/BMW_X1.md "wikilink")[五门版1系一样](../Page/BMW_1系列.md "wikilink")，均由设于[萨克森州的](https://zh.wikipedia.org/wiki/萨克森州 "wikilink")生产\[3\]。它的面世取代了第一代1系的相应车型，同时还是[BMW F20的姊妹车型](https://zh.wikipedia.org/wiki/BMW_F20 "wikilink")。[敞篷车](../Page/敞篷车.md "wikilink")款也取代了1系的敞篷版本，这便意味着，BMW将其未来的紧凑型轿跑车和敞篷车均归纳为一个独立的车系。2系敞篷车款（F23）于2014年9月10日对公众发布，并自2015年2月28日起投放德国市场。

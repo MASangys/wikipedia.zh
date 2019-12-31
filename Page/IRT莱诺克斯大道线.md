@@ -1,3 +1,6 @@
+> 本文内容由[IRT莱诺克斯大道线](https://zh.wikipedia.org/wiki/IRT莱诺克斯大道线)转换而来。
+
+
 **萊諾克斯大道線**（）是[紐約地鐵其中一條](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT路線](../Page/跨區捷運公司.md "wikilink")，主要作為一部分興建。這條路線較短，只服務[曼哈頓上城](https://zh.wikipedia.org/wiki/曼哈頓上城 "wikilink")。
 
 ## 服務

@@ -1,4 +1,4 @@
-> 本文内容由[SHOWTIME Infinite](https://zh.wikipedia.org/wiki/SHOWTIME Infinite)转换而来。
+> 本文内容由[SHOWTIME Infinite](https://zh.wikipedia.org/wiki/SHOWTIME_Infinite)转换而来。
 
 
 《**SHOWTIME INFINITE**》為韓國MBC every1的真人實境節目，節目每季邀請一組韓國偶像組合，以問答形式對組合進行實況錄製。由偶像團體[INFINITE](../Page/INFINITE.md "wikilink")擔當主角，也是時隔兩年該團體再次出演的綜藝節目。於韓國時間2015年12月10日下午6點在頻道首播。

@@ -1,3 +1,6 @@
+> 本文内容由[IMMORAL](https://zh.wikipedia.org/wiki/IMMORAL)转换而来。
+
+
 《**IMMORAL**》是BLUE GALE在2004年6月24日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2004年12月22日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")，後來也改編成OVA和小說發售。
 
 ## 故事

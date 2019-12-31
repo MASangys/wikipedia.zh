@@ -1,3 +1,6 @@
+> 本文内容由[Rainbow \(山本彩專輯\)](https://zh.wikipedia.org/wiki/Rainbow_\(山本彩專輯\))转换而来。
+
+
 《**Rainbow**》是日本女性[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[山本彩](../Page/山本彩.md "wikilink")的首張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2016年10月26日由[laugh out loud\! records發行](../Page/YOSHIMOTO_R_and_C.md "wikilink")。收錄曲《雪戀》是[NTT DOCOMO和](../Page/NTT_DOCOMO.md "wikilink")[RecoChoku](../Page/RecoChoku.md "wikilink")的音樂下載網站d Hit的廣告歌\[1\]，《喘口氣時》則是煙草商[JT](https://zh.wikipedia.org/wiki/日本煙草產業公司 "wikilink")（只限於[日本電視台](../Page/日本電視台.md "wikilink")系節目《》）的廣告歌\[2\]。
 
 ## 概要

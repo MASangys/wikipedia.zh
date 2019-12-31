@@ -1,4 +1,4 @@
-> 本文内容由[Source Serif Pro](https://zh.wikipedia.org/wiki/Source Serif Pro)转换而来。
+> 本文内容由[Source Serif Pro](https://zh.wikipedia.org/wiki/Source_Serif_Pro)转换而来。
 
 
 **Source Serif Pro**是一個由Frank Grießhammer為[Adobe Systems所建立的有襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。它是Adobe的第三個[开放源代码](../Page/开放源代码.md "wikilink")字體家族，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。

@@ -1,4 +1,4 @@
-> 本文内容由[All-New, All-Different Marvel](https://zh.wikipedia.org/wiki/All-New, All-Different Marvel)转换而来。
+> 本文内容由[All-New, All-Different Marvel](https://zh.wikipedia.org/wiki/All-New,_All-Different_Marvel)转换而来。
 
 
 《**全新全異漫威宇宙**》（），是[漫威漫畫](../Page/漫威漫畫.md "wikilink")在2015年发布的系列图书名称。

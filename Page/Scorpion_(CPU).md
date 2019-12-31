@@ -1,3 +1,6 @@
+> 本文内容由[Scorpion \(CPU\)](https://zh.wikipedia.org/wiki/Scorpion_\(CPU\))转换而来。
+
+
 **Scorpion**是[高通](../Page/高通.md "wikilink")設計的[ARMv7相容](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[CPU核心](https://zh.wikipedia.org/wiki/CPU "wikilink")，使用於高通的[驍龍系統晶片](https://zh.wikipedia.org/wiki/驍龍 "wikilink")（[SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")）上。效能上大致與[ARM Cortex-A8以及](../Page/ARM_Cortex-A8.md "wikilink")相仿。
 
 ## 概觀

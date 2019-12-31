@@ -1,3 +1,6 @@
+> 本文内容由[运用你的幻想II](https://zh.wikipedia.org/wiki/运用你的幻想II)转换而来。
+
+
 《**运用你的幻想 II**》（英文《**Use Your Illusion II**》）是美国硬摇滚乐队Guns N' Roses的第四张摇滚专辑，在1991年9月17日发行，与《**[Use Your Illusion I](https://zh.wikipedia.org/wiki/运用幻象I "wikilink")》**同时发行。
 
 ## 曲目

@@ -1,4 +1,4 @@
-> 本文内容由[手裏劍戰隊忍忍者 VS 特急者 THE MOVIE 忍者 In Wonderland](https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者 VS 特急者 THE MOVIE 忍者 In Wonderland)转换而来。
+> 本文内容由[手裏劍戰隊忍忍者 VS 特急者 THE MOVIE 忍者 In Wonderland](https://zh.wikipedia.org/wiki/手裏劍戰隊忍忍者_VS_特急者_THE_MOVIE_忍者_In_Wonderland)转换而来。
 
 
 《**手裏劍戰隊忍忍者 VS 特急者 THE MOVIE 忍者 In Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")**》和《**[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")**》的劇場版作品。

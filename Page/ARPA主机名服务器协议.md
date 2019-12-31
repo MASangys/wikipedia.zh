@@ -1,3 +1,6 @@
+> 本文内容由[ARPA主机名服务器协议](https://zh.wikipedia.org/wiki/ARPA主机名服务器协议)转换而来。
+
+
 **[ARPA主机名服务器协议](../Page/國防高等研究計劃署.md "wikilink")**（NAMESERVER\[1\]）是一种的用于转换[主机名到互联网地址的](https://zh.wikipedia.org/wiki/主机_\(网络\) "wikilink")[网络](../Page/计算机网络.md "wikilink")[协议](../Page/网络传输协议.md "wikilink")。[IANA将](../Page/互联网号码分配局.md "wikilink")[TCP和](../Page/传输控制协议.md "wikilink")[UDP的](../Page/用户数据报协议.md "wikilink")[端口](../Page/通訊埠.md "wikilink")[42分配用于NAMESERVER](https://zh.wikipedia.org/wiki/TCP/UDP端口列表 "wikilink")；此端口在[微软Windows操作系统上更常被](https://zh.wikipedia.org/wiki/微软Windows "wikilink")[WINS](../Page/WINS.md "wikilink")使用。
 
 ## 应用

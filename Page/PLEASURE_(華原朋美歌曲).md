@@ -1,3 +1,6 @@
+> 本文内容由[PLEASURE \(華原朋美歌曲\)](https://zh.wikipedia.org/wiki/PLEASURE_\(華原朋美歌曲\))转换而来。
+
+
 《**PLEASURE**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[華原朋美](../Page/華原朋美.md "wikilink")的第22張單曲。2003年2月26日\[1\]由[WARNER MUSIC JAPAN（日本華納音樂）發行](../Page/日本華納音樂.md "wikilink")\[2\]。
 
 此外該單曲也是唯一以[CCCD的形式收錄](../Page/Copy_Control.md "wikilink")。

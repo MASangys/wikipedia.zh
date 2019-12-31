@@ -1,4 +1,4 @@
-> 本文内容由[双截龙III 罗塞塔之石](https://zh.wikipedia.org/wiki/双截龙III 罗塞塔之石)转换而来。
+> 本文内容由[双截龙III 罗塞塔之石](https://zh.wikipedia.org/wiki/双截龙III_罗塞塔之石)转换而来。
 
 
 是1991年在[红白机](../Page/红白机.md "wikilink")推出的横向卷轴[清版动作游戏](../Page/清版动作游戏.md "wikilink")。游戏为[双截龙系列第三款红白机游戏](https://zh.wikipedia.org/wiki/双截龙系列 "wikilink")，由[Technos Japan开发](https://zh.wikipedia.org/wiki/Technos_Japan "wikilink")。游戏零散改编自街机版《[双截龙3 罗塞塔之石](../Page/双截龙3_罗塞塔之石.md "wikilink")》，但并非移植版，而是同期开发的平行项目\[1\]。

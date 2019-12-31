@@ -1,3 +1,6 @@
+> 本文内容由[IKoncert 2016：Showtime Tour](https://zh.wikipedia.org/wiki/IKoncert_2016：Showtime_Tour)转换而来。
+
+
 《**iKoncert 2016：Showtime Tour**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON的首場亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/iKON "wikilink")，以支持他們的第一張專輯《[Welcome Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》，此次巡演由2016年1月30日和31日在韓國[首爾奧林匹克體操競技場的兩場演出拉開帷幕](../Page/首尔奥林匹克体操竞技场.md "wikilink")，並成功聚集2萬4千名歌迷進場觀賞，在之後陸續造訪了[日本](../Page/日本.md "wikilink")、[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[香港](../Page/香港.md "wikilink")、[臺灣](../Page/中華民國.md "wikilink")、[泰國](../Page/泰国.md "wikilink")\[1\]。、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞及](../Page/马来西亚.md "wikilink")[印尼等國家及地區](../Page/印度尼西亚.md "wikilink")。\[2\]
 
 ## 背景

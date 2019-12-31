@@ -1,3 +1,6 @@
+> 本文内容由[Franky仲村](https://zh.wikipedia.org/wiki/Franky仲村)转换而来。
+
+
 **Franky仲村**（，），[日本](../Page/日本.md "wikilink")男[演員](../Page/演員.md "wikilink")、[配音員](../Page/配音員.md "wikilink")。劇團「在阪劇團『激富』」的團長\[1\]。出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。
 
 ## 人物簡介

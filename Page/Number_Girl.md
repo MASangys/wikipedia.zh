@@ -1,15 +1,14 @@
-，日本[另类摇滚](../Page/另类摇滚.md "wikilink")乐队\[1\]。1995年8月在福冈组成，2002年11月30日解散。2019年2月15日宣布重新组成\[2\]。现在所属唱片公司为[环球音乐 (日本)](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，所属唱片为USM JAPAN，所属经纪公司为Eight
+> 本文内容由[Number Girl](https://zh.wikipedia.org/wiki/Number_Girl)转换而来。
 
-Beater。
+
+，日本[另类摇滚](../Page/另类摇滚.md "wikilink")乐队\[1\]。1995年8月在福冈组成，2002年11月30日解散。2019年2月15日宣布重新组成\[2\]。现在所属唱片公司为[环球音乐 (日本)](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，所属唱片为USM JAPAN，所属经纪公司为Eight Beater。
 
 ## 成员
 
-| 姓名                     | 担当    | 本名               | 出生日期              | 出身地                  |
-| ---------------------- | ----- | ---------------- | ----------------- | -------------------- |
-| **向井 秀德** （むかい しゅうとく）  | 主唱 吉他 | 向井 秀德 （むかい ひでのり） | 1973年10月26日 （45岁） | 佐贺县三养基郡北茂安町 （现为三养基町） |
-| **田渊 ひさ子** （たぶち ひさこ）   | 吉他    | 田渊 久子 （たぶち ひさこ）  | 1975年12月9日 （43岁）  | 福冈县福冈市               |
-| **中尾 宪太郎** （なかお けんたろう） | 贝斯    | 相同               | 1974年6月17日 （45岁）  | 福冈县北九州市              |
-| **アヒト・イナザワ**           | 爵士鼓   | 鰰泽 亚人 （いなざわ あひと） | 1973年6月6日 （46岁）   | 福冈县糟屋郡须惠町            |
+  - **向井秀德**（，），出生于[佐贺县](../Page/佐贺县.md "wikilink")[三养基郡北茂安町](https://zh.wikipedia.org/wiki/三养基郡 "wikilink")（现[三养基町](https://zh.wikipedia.org/wiki/三养基町 "wikilink")），担任主唱、吉他。
+  - **田渊久子**（，），出生于[福冈县](../Page/福冈县.md "wikilink")[福冈市](https://zh.wikipedia.org/wiki/福冈市 "wikilink")，担任吉他。
+  - **中尾宪太郎**（，），出生于[福冈县](../Page/福冈县.md "wikilink")[北九州市](../Page/北九州市.md "wikilink")，担任贝斯。
+  - **鰰泽 亚人**（，），出生于[福冈县](../Page/福冈县.md "wikilink")[糟屋郡](../Page/糟屋郡.md "wikilink")须惠町，担任爵士鼓。
 
 ## 名称的由来
 
@@ -56,9 +55,697 @@ Number Girl的[MV大部分是由向井导演的](../Page/音樂錄影帶.md "wik
   - Atari Shock （1996年2月）
   - Omoide in my head （1996年6月）
 
+### 单曲
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>发售日</p></th>
+<th><p>标题</p></th>
+<th><p>编号</p></th>
+<th><p>收录曲</p></th>
+<th><p>备注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>1998年8月20日</p></td>
+<td><p><strong>DRUNKEN HEARTED</strong></p></td>
+<td><p>ATMK-09211</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>DRUNKEN HEARTED</li>
+<li>SUPER YOUNG</li>
+<li>NEW GIRL(mono dead)
+</div>
+</div></li>
+</ol></td>
+<td><p>automatic kiss records</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>1999年5月26日</p></td>
+<td><p><strong>透明少女</strong></p></td>
+<td><p>TOCT-22009</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>透明少女</li>
+<li>はいから狂い</li>
+<li>WAVE OF MUTILATION(<a href="https://zh.wikipedia.org/wiki/ピクシーズ" title="wikilink">ピクシーズのカバー</a>)
+</div>
+</div></li>
+</ol></td>
+<td><p>主流出道首作，Oricon最高85位</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>1999年9月22日</p></td>
+<td><p><strong>DESTRUCTION BABY</strong></p></td>
+<td><p>TOCT-22021</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>DESTRUCTION BABY</li>
+<li>TEENAGE CASUALTIES</li>
+<li>CRAMP DISCHARGER</li>
+<li>DRUNK AFTERNOON
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高50位</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2000年5月31日</p></td>
+<td><p><strong>URBAN GUITAR SAYONARA</strong></p></td>
+<td><p>TOCT-22073</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>URBAN GUITAR SAYONARA</li>
+<li>SENTIMENTAL GIRL'S VIOLENT JOKE</li>
+<li>真っ昼間ガール
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高33位</p></td>
+</tr>
+<tr class="odd">
+<td><p>5th</p></td>
+<td><p>2000年11月29日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>TOCT-22125</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>鉄風　鋭くなって</li>
+<li>TUESDAY GIRL</li>
+<li>INAZAWA CHAINSAW
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高30位</p></td>
+</tr>
+<tr class="even">
+<td><p>6th</p></td>
+<td><p>2002年3月20日</p></td>
+<td><p><strong>NUM-AMI-DABUTZ</strong></p></td>
+<td><p>TOCT-22203</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>NUM-AMI-DABUTZ</li>
+<li>Fight Fight</li>
+<li>MACHIGAI</li>
+<li>Mukai Night
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高26位</p></td>
+</tr>
+<tr class="odd">
+<td><p>7th</p></td>
+<td><p>2002年4月8日</p></td>
+<td><p><strong>I don't know</strong></p></td>
+<td><p>CR-19C</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全3曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>I don't know</li>
+<li>中学一年生(インスト)</li>
+<li>サーティーン(インスト)
+</div>
+</div></li>
+</ol></td>
+<td><p>转回地下</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 专辑
+
+<table>
+<thead>
+<tr class="header">
+<th><p> </p></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>収録曲</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p><a href="../Page/1997年.md" title="wikilink">1997年</a><a href="../Page/11月6日.md" title="wikilink">11月6日</a><br />
+<a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/2月10日.md" title="wikilink">2月10日</a>(再発)<br />
+<a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/8月20日.md" title="wikilink">8月20日</a>(LP)</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SCHOOL_GIRL_BYE_BYE" title="wikilink">SCHOOL GIRL BYE BYE</a></strong></p></td>
+<td><p>ATMK-09208<br />
+KOGA-060:再発<br />
+KONO-001:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>omoide in my head</li>
+<li>大あたりの季節</li>
+<li>センチメンタル過剰</li>
+<li>September girlfriend</li>
+<li>IGGY POP FUNCLUB</li>
+<li>水色革命</li>
+<li>渚にて</li>
+<li>summer of California 73</li>
+<li>mini grammer</li>
+<li>我起立唯我一人</li>
+<li>4track professional
+</div>
+</div></li>
+</ol></td>
+<td><p>automatic kiss<br />
+K.O.G.A Records</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://zh.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a><br />
+<a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a>(再発)<br />
+<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/6月18日.md" title="wikilink">6月18日</a>(15th Anniversary Edition)<br />
+<a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a>(LP)</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SCHOOL_GIRL_DISTORTIONAL_ADDICT" title="wikilink">SCHOOL GIRL DISTORTIONAL ADDICT</a></strong></p></td>
+<td><p>TOCT-24157<br />
+TOCT-11310:再発<br />
+UPCY-6824:15th Anniversary Edition<br />
+JSLP-046:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全10曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>タッチ</li>
+<li>PIXIE DU</li>
+<li>裸足の季節</li>
+<li>YOUNG GIRL SEVENTEEN SEXUALLY KNOWING</li>
+<li>桜のダンス</li>
+<li>日常に生きる少女</li>
+<li>狂って候</li>
+<li>透明少女</li>
+<li>転校生</li>
+<li>EIGHT BEATER</li>
+</ol>
+<p>15th Anniversary Edition DISC2</p>
+<ol>
+<li>タッチ (1999 Live at Club Que)</li>
+<li>PIXIE DU (1999 Live at Club Que)</li>
+<li>裸足の季節 (1999 Live at Club Que)</li>
+<li>YOUNG GIRL SEVENTEEN SEXUALLY KNOWING (1999 Live at Club Que)</li>
+<li>桜のダンス (1999 Live at Club Que)</li>
+<li>日常に生きる少女 (1999 Live at Club Que)</li>
+<li>狂って候 (1999 Live at Club Que)</li>
+<li>透明少女 (1999 Live at Club Que)</li>
+<li>転校生 (1999 Live at Club Que)</li>
+<li>EIGHT BEATER (1999 Live at Club Que)
+</div>
+</div></li>
+</ol></td>
+<td><p>メジャー1stフルアルバム。オリコン最高42位<br />
+オリコン最高50位(15th)</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://zh.wikipedia.org/wiki/7月19日" title="wikilink">7月19日</a><br />
+<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/6月18日.md" title="wikilink">6月18日</a>(15th Anniversary Edition)<br />
+<a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a>(LP)</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/SAPPUKEI" title="wikilink">SAPPUKEI</a></strong></p></td>
+<td><p>TOCT-24390<br />
+UPCY-6854:15th Anniversary Edition<br />
+JSLP-047:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>BRUTAL NUMBER GIRL</li>
+<li>ZEGEN VS UNDERCOVER</li>
+<li>SASU-YOU</li>
+<li>URBAN GUITAR SAYONARA</li>
+<li>ABSTRACT TRUTH</li>
+<li>TATTOOあり</li>
+<li>SAPPUKEI</li>
+<li>U-REI</li>
+<li>YARUSE NAKIOのBEAT</li>
+<li>TRAMPOLINE GIRL</li>
+<li>BRUTAL MAN</li>
+</ol>
+<p>15th Anniversary Edition DISC2</p>
+<ol>
+<li>BRUTAL NUMBER GIRL (2002/7/20 なんばハッチ「NUM-HEAVYMETALLIC TOUR」)</li>
+<li>ZEGEN VS UNDERCOVER (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>SASU-YOU (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>URBAN GUITAR SAYONARA (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>ABSTRACT TRUTH (2001/7/2 神戸チキンジョージ「騒やかな群像」)</li>
+<li>TATTOO あり (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>SAPPUKEI (2001/8/8 心斎橋CLUB QUATTRO「騒やかな群像」)</li>
+<li>U-REI (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>YARUSE NAKIO の BEAT (2000/12/27 福岡DRUM LOGOS「INAZAWA CHAINSAW」)</li>
+<li>TRAMPOLINE GIRL (2001/6/10 名古屋ダイアモンドホール「名工大祭ライブ」)</li>
+<li>BRUTAL MAN (2001/8/29 渋谷AX「騒やかな群像」)
+</div>
+</div></li>
+</ol></td>
+<td><p>メジャー2ndフルアルバム。オリコン最高24位<br />
+オリコン最高82位(15th)</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a><br />
+<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/6月18日.md" title="wikilink">6月18日</a>(15th Anniversary Edition)<br />
+<a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a>(LP)</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/NUM-HEAVYMETALLIC" title="wikilink">NUM-HEAVYMETALLIC</a></strong></p></td>
+<td><p>TOCT-24764<br />
+UPCY-6856:15th Anniversary Edition<br />
+JSLP-048:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Num-Heavymetallic</li>
+<li>Inuzini</li>
+<li>Num-Ami-Dabutz</li>
+<li>Tombo The Electric Bloodred</li>
+<li>Delayed Brain</li>
+<li>Cibiccoさん</li>
+<li>Manga Sick</li>
+<li>Fu･Si･Gi</li>
+<li>性的少女</li>
+<li>Frustration In My Blood</li>
+<li>黒目がちな少女</li>
+</ol>
+<p>15th Anniversary Edition DISC2</p>
+<ol>
+<li>NUM-HEAVYMETALLIC (2002/6/19 秋田LIVE SPOT 2000)</li>
+<li>INUZINI (2002/7/3 宇都宮VOGUE)</li>
+<li>NUM-AMI-DABUTZ (2002/7/5 水戸ライトハウス)</li>
+<li>Tombo the electric bloodred (2002/7/3 宇都宮VOGUE)</li>
+<li>delayed brain (2002/7/5 水戸ライトハウス)</li>
+<li>CIBICCOさん (2002/7/18 京都磔磔)</li>
+<li>MANGA SICK (2002/6/19 秋田LIVE SPOT 2000)</li>
+<li>FU・SI・GI (2002/6/22 郡山HIP SHOP)</li>
+<li>性的少女 (2002/7/16 米子ベリエ)</li>
+<li>Frustration in my blood (2002/6/15 札幌ペニーレーン)</li>
+<li>黒目がちな少女 (2002/5/15 佐賀GEILS)
+</div>
+</div></li>
+</ol></td>
+<td><p>メジャー3rd・最終フルアルバム。オリコン最高15位<br />
+オリコン最高91位(15th)</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 专辑
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>发售日</p></th>
+<th><p>标题</p></th>
+<th><p>编号</p></th>
+<th><p>收录曲</p></th>
+<th><p>备注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>1997年11月6日<br />
+1999年2月10日（重发）<br />
+2000年8月20日（LP）</p></td>
+<td><p><strong></strong></p></td>
+<td><p>ATMK-09208<br />
+KOGA-060<br />
+KONO-001:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>omoide in my head</li>
+<li>大あたりの季節</li>
+<li>センチメンタル過剰</li>
+<li>September girlfriend</li>
+<li>IGGY POP FUNCLUB</li>
+<li>水色革命</li>
+<li>渚にて</li>
+<li>summer of California 73</li>
+<li>mini grammer</li>
+<li>我起立唯我一人</li>
+<li>4track professional
+</div>
+</div></li>
+</ol></td>
+<td><p>automatic kiss<br />
+K.O.G.A Records</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>1999年7月23日<br />
+2011年10月26日（重发）<br />
+2014年6月18日（15th Anniversary Edition）<br />
+2016年1月29日（LP）</p></td>
+<td><p><strong></strong></p></td>
+<td><p>TOCT-24157<br />
+TOCT-11310<br />
+UPCY-6824:15th Anniversary Edition<br />
+JSLP-046:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全10曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>タッチ</li>
+<li>PIXIE DU</li>
+<li>裸足の季節</li>
+<li>YOUNG GIRL SEVENTEEN SEXUALLY KNOWING</li>
+<li>桜のダンス</li>
+<li>日常に生きる少女</li>
+<li>狂って候</li>
+<li>透明少女</li>
+<li>転校生</li>
+<li>EIGHT BEATER</li>
+</ol>
+<p>15th Anniversary Edition DISC2</p>
+<ol>
+<li>タッチ (1999 Live at Club Que)</li>
+<li>PIXIE DU (1999 Live at Club Que)</li>
+<li>裸足の季節 (1999 Live at Club Que)</li>
+<li>YOUNG GIRL SEVENTEEN SEXUALLY KNOWING (1999 Live at Club Que)</li>
+<li>桜のダンス (1999 Live at Club Que)</li>
+<li>日常に生きる少女 (1999 Live at Club Que)</li>
+<li>狂って候 (1999 Live at Club Que)</li>
+<li>透明少女 (1999 Live at Club Que)</li>
+<li>転校生 (1999 Live at Club Que)</li>
+<li>EIGHT BEATER (1999 Live at Club Que)
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高42位</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2000年7月19日<br />
+2014年6月18日（15th Anniversary Edition）<br />
+2016年1月29日（LP）</p></td>
+<td><p><strong></strong></p></td>
+<td><p>TOCT-24390<br />
+UPCY-6854:15th Anniversary Edition<br />
+JSLP-047:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>BRUTAL NUMBER GIRL</li>
+<li>ZEGEN VS UNDERCOVER</li>
+<li>SASU-YOU</li>
+<li>URBAN GUITAR SAYONARA</li>
+<li>ABSTRACT TRUTH</li>
+<li>TATTOOあり</li>
+<li>SAPPUKEI</li>
+<li>U-REI</li>
+<li>YARUSE NAKIOのBEAT</li>
+<li>TRAMPOLINE GIRL</li>
+<li>BRUTAL MAN</li>
+</ol>
+<p>15th Anniversary Edition DISC2</p>
+<ol>
+<li>BRUTAL NUMBER GIRL (2002/7/20 なんばハッチ「NUM-HEAVYMETALLIC TOUR」)</li>
+<li>ZEGEN VS UNDERCOVER (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>SASU-YOU (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>URBAN GUITAR SAYONARA (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>ABSTRACT TRUTH (2001/7/2 神戸チキンジョージ「騒やかな群像」)</li>
+<li>TATTOO あり (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>SAPPUKEI (2001/8/8 心斎橋CLUB QUATTRO「騒やかな群像」)</li>
+<li>U-REI (2001/6/24 日比谷野音「騒やかな群像」)</li>
+<li>YARUSE NAKIO の BEAT (2000/12/27 福岡DRUM LOGOS「INAZAWA CHAINSAW」)</li>
+<li>TRAMPOLINE GIRL (2001/6/10 名古屋ダイアモンドホール「名工大祭ライブ」)</li>
+<li>BRUTAL MAN (2001/8/29 渋谷AX「騒やかな群像」)
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高24位</p></td>
+</tr>
+<tr class="even">
+<td><p>4th</p></td>
+<td><p>2002年4月26日<br />
+2014年6月18日（15th Anniversary Edition）<br />
+2016年1月29日（LP）</p></td>
+<td><p><strong></strong></p></td>
+<td><p>TOCT-24764<br />
+UPCY-6856:15th Anniversary Edition<br />
+JSLP-048:LP</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Num-Heavymetallic</li>
+<li>Inuzini</li>
+<li>Num-Ami-Dabutz</li>
+<li>Tombo The Electric Bloodred</li>
+<li>Delayed Brain</li>
+<li>Cibiccoさん</li>
+<li>Manga Sick</li>
+<li>Fu･Si･Gi</li>
+<li>性的少女</li>
+<li>Frustration In My Blood</li>
+<li>黒目がちな少女</li>
+</ol>
+<p>15th Anniversary Edition DISC2</p>
+<ol>
+<li>NUM-HEAVYMETALLIC (2002/6/19 秋田LIVE SPOT 2000)</li>
+<li>INUZINI (2002/7/3 宇都宮VOGUE)</li>
+<li>NUM-AMI-DABUTZ (2002/7/5 水戸ライトハウス)</li>
+<li>Tombo the electric bloodred (2002/7/3 宇都宮VOGUE)</li>
+<li>delayed brain (2002/7/5 水戸ライトハウス)</li>
+<li>CIBICCOさん (2002/7/18 京都磔磔)</li>
+<li>MANGA SICK (2002/6/19 秋田LIVE SPOT 2000)</li>
+<li>FU・SI・GI (2002/6/22 郡山HIP SHOP)</li>
+<li>性的少女 (2002/7/16 米子ベリエ)</li>
+<li>Frustration in my blood (2002/6/15 札幌ペニーレーン)</li>
+<li>黒目がちな少女 (2002/5/15 佐賀GEILS)
+</div>
+</div></li>
+</ol></td>
+<td><p>最后一张专辑。Oricon最高15位</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 演唱会专辑
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>发售日</p></th>
+<th><p>标题</p></th>
+<th><p>编号</p></th>
+<th><p>收录曲</p></th>
+<th><p>备注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>1999年12月16日<br />
+2013年3月27日（SHM-CD）<br />
+2015年7月29日（BD）</p></td>
+<td><p><strong></strong></p></td>
+<td><p>TOCT-24283<br />
+TOCT-95174:SHM-CD<br />
+UPXY-6032:BD</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全14曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>EIGHT BEATER</li>
+<li>IGGY POP FANCLUB</li>
+<li>タッチ</li>
+<li>桜のダンス</li>
+<li>SAMURAI</li>
+<li>裸足の季節</li>
+<li>YOUNG GIRL 17 SEXUALLY KNOWING</li>
+<li>透明少女</li>
+<li>狂って候</li>
+<li>DESTRUCION BABY</li>
+<li>日常に生きる少女</li>
+<li>我起立一個人</li>
+<li>SUPER YOUNG</li>
+<li>OMOIDE IN MY HEAD
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高58位</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p>2003年1月29日<br />
+2015年7月29日（BD）</p></td>
+<td><p><strong></strong></p></td>
+<td><p>TOCT-24920<br />
+TOCT-95175:SHM-CD<br />
+UPXY-6033:BD</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全21曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>DISC1</p>
+<ol>
+<li>I don’t know</li>
+<li>鉄風 鋭くなって</li>
+<li>ZEGEN VS UNDERCOVER</li>
+<li>TATTOOあり</li>
+<li>透明少女</li>
+<li>はいから狂い</li>
+<li>URBAN GUITAR SAYONARA</li>
+<li>NUM-AMI-DABUTZ</li>
+<li>delayed brain</li>
+<li>性的少女</li>
+<li>CIBICCOさん</li>
+</ol>
+<p>DISC2</p>
+<ol>
+<li>SAPPUKEI</li>
+<li>U-REI</li>
+<li>MANGA SICK</li>
+<li>Sentimental girl’s violent joke</li>
+<li>DESTRUCTION BABY</li>
+<li>YOUNG GIRL 17 SEXUALLY KNOWING</li>
+<li>TRAMPOLINE GIRL</li>
+<li>日常に生きる少女</li>
+<li>OMOIDE IN MY HEAD</li>
+<li>IGGY POP FAN CLUB
+</div>
+</div></li>
+</ol></td>
+<td><p>Oricon最高20位</p></td>
+</tr>
+<tr class="odd">
+<td><p>3rd</p></td>
+<td><p>2019年7月24日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>UICZ-4458</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全20曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>DISC1</p>
+<ol>
+<li>NUM-AMI-DABUTZ</li>
+<li>鉄風 鋭くなって</li>
+<li>SASU-YOU</li>
+<li>Tombo the electric bloodred</li>
+<li>INUZINI</li>
+<li>MANGA SICK</li>
+<li>裸足の季節</li>
+<li>CIBICCOさん</li>
+<li>Frustration in my blood</li>
+<li>delayed brain</li>
+</ol>
+<p>DISC2</p>
+<ol>
+<li>DESTRUCTION BABY</li>
+<li>FIGHT FIGHT</li>
+<li>性的少女</li>
+<li>狂って候</li>
+<li>黒目がちな少女</li>
+<li>BRUTAL MAN</li>
+<li>OMOIDE IN MY HEAD</li>
+<li>I don’t know</li>
+<li>NUM-HEAVYMETALLIC</li>
+<li>EIGHT BEATER</li>
+</ol></td>
+<td><p>Oricon最高28位</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 脚注
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
+[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:1995年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:1995年成立的音乐团体 "wikilink")
 
 1.
 2.

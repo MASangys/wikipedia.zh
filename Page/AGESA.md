@@ -1,3 +1,6 @@
+> 本文内容由[AGESA](https://zh.wikipedia.org/wiki/AGESA)转换而来。
+
+
 **AMD通用封装软件架构**（，缩写**AGESA**）是[AMD64架构](../Page/X86-64.md "wikilink")（X86-64）的[主板上初始化系统设备之](https://zh.wikipedia.org/wiki/主機板 "wikilink")协议。此类主板的[BIOS](../Page/BIOS.md "wikilink")中之AGESA软件负责[处理器核心](../Page/中央处理器.md "wikilink")、[内存和](https://zh.wikipedia.org/wiki/内存 "wikilink")[HyperTransport](../Page/HyperTransport.md "wikilink")控制器的初始化。
 
 AGESA文档以前只面向签署[保密协议](../Page/保密协议.md "wikilink")（NDA）的AMD合作伙伴提供。2011年初，AGESA开源，以纳入[coreboot](https://zh.wikipedia.org/wiki/coreboot "wikilink")。\[1\]

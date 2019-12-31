@@ -1,4 +1,4 @@
-> 本文内容由[Don\'t Stop Karaoke](https://zh.wikipedia.org/wiki/Don\'t Stop Karaoke)转换而来。
+> 本文内容由[Don\'t Stop Karaoke](https://zh.wikipedia.org/wiki/Don\'t_Stop_Karaoke)转换而来。
 
 
 《**Don't Stop Karaoke**》是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的首張[影音專輯](../Page/音樂錄影帶.md "wikilink")，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2000年7月11日發行。該專輯內容包括專輯《[1019](../Page/1019_\(專輯\).md "wikilink")》和《[Don't Stop](../Page/Don't_Stop.md "wikilink")》中的歌曲的17支音樂錄影帶\[1\]。

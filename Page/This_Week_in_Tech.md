@@ -1,4 +1,4 @@
-> 本文内容由[This Week in Tech](https://zh.wikipedia.org/wiki/This Week in Tech)转换而来。
+> 本文内容由[This Week in Tech](https://zh.wikipedia.org/wiki/This_Week_in_Tech)转换而来。
 
 
 **This Week in Tech**（被稱為**TWiT**，「本週科技」）是一個每週[Podcast](https://zh.wikipedia.org/wiki/Podcast "wikilink")，[TWiT.tv](../Page/TWiT.tv.md "wikilink")網絡因此Podcast而得名。它是由和其他前員工主持，現時由傑森·霍威爾（Jason Howell）製作，內容主要為對於現時[互聯網及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[家用電器](https://zh.wikipedia.org/wiki/家用電器 "wikilink")[科技的評測及討論](https://zh.wikipedia.org/wiki/科技 "wikilink")。TWiT於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[佩塔盧馬製作](https://zh.wikipedia.org/wiki/佩塔盧馬 "wikilink")，之前的6年則於附近的一家小屋中錄製\[1\]。此Podcast的網上[直播時間為](https://zh.wikipedia.org/wiki/直播 "wikilink")[太平洋標準時間每星期天下午](https://zh.wikipedia.org/wiki/太平洋標準時間 "wikilink")3時。

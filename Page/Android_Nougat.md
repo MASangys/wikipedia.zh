@@ -1,4 +1,4 @@
-> 本文内容由[Android Nougat](https://zh.wikipedia.org/wiki/Android Nougat)转换而来。
+> 本文内容由[Android Nougat](https://zh.wikipedia.org/wiki/Android_Nougat)转换而来。
 
 
 **Android Nougat**（安卓[牛轧糖](../Page/牛轧糖.md "wikilink")，開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")：**Android N**）是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")作業系統的第7个主要版本。首个[测试版本在](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")2016年3月9日发行，正式版本在2016年8月22日发行。[Google Nexus设备可首先接受更新](../Page/Google_Nexus.md "wikilink")\[1\]。

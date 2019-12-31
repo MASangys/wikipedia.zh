@@ -1,3 +1,6 @@
+> 本文内容由[Ceca](https://zh.wikipedia.org/wiki/Ceca)转换而来。
+
+
 **斯韋特蘭娜·拉日納托維奇**（，[轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：**Svetlana Ražnatović**，[藝名](../Page/藝名.md "wikilink")：**Цеца**，[轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：'''Ceca '''，)，是[塞爾維亞著名流行女歌手](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")，出生地為[前南斯拉夫](https://zh.wikipedia.org/wiki/南斯拉夫社會主義聯邦共和國 "wikilink")[塞爾維亞](../Page/塞爾維亞社會主義共和國.md "wikilink")[托普利卡州的一個名叫](https://zh.wikipedia.org/wiki/托普利卡州 "wikilink")[日托拉賈的市鎮](https://zh.wikipedia.org/wiki/日托拉賈 "wikilink")。她是一名[女低音](../Page/女低音.md "wikilink")(Alto)，擅長塞爾維亞[極速-民謠曲風](https://zh.wikipedia.org/wiki/極速-民謠 "wikilink")，它融合了[塞爾維亞民間音樂](https://zh.wikipedia.org/wiki/塞爾維亞民間音樂 "wikilink")，現代[流行音樂和](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[舞曲](../Page/舞曲.md "wikilink")等風格。她夙有"The Icon of "Turbo-folk""的美譽，也是[巴爾幹半島最受歡迎的歌手之一](https://zh.wikipedia.org/wiki/巴爾幹半島 "wikilink")。
 
 ## 早年生活

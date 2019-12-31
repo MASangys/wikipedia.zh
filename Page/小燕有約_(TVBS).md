@@ -1,3 +1,6 @@
+> 本文内容由[小燕有約 \(TVBS\)](https://zh.wikipedia.org/wiki/小燕有約_\(TVBS\))转换而来。
+
+
 《**小燕有約**》是台灣[TVBS頻道的](https://zh.wikipedia.org/wiki/TVBS頻道 "wikilink")[談話性節目](https://zh.wikipedia.org/wiki/談話性節目 "wikilink")\[1\]\[2\]，資深藝人[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")（小燕姐）主持，2017年3月6日23:00首播，2018年3月13日停播。
 
 ## 播出時間

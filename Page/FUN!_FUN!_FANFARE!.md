@@ -1,3 +1,6 @@
+> 本文内容由[FUN! FUN! FANFARE!](https://zh.wikipedia.org/wiki/FUN!_FUN!_FANFARE!)转换而来。
+
+
 《**FUN\! FUN\! FANFARE\!**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")7張原創專輯，於2014年12月24日由[Epic Records Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Mix Speaker\'s,Inc.](https://zh.wikipedia.org/wiki/Mix_Speaker\'s,Inc.)转换而来。
+
+
 **Mix Speaker's,Inc.**（），[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。成立於2006年。
 
 ## 成員

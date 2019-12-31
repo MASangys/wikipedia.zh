@@ -1,4 +1,4 @@
-> 本文内容由[RSVP Technologies Inc.](https://zh.wikipedia.org/wiki/RSVP Technologies Inc.)转换而来。
+> 本文内容由[RSVP Technologies Inc.](https://zh.wikipedia.org/wiki/RSVP_Technologies_Inc.)转换而来。
 
 
 **RSVP Technologies Inc.**是一家从事[人工智能](../Page/人工智能.md "wikilink")的科技公司，主要开发[自然语言人机接口](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。公司于2013年在[滑铁卢成立](https://zh.wikipedia.org/wiki/滑铁卢_\(安大略省\) "wikilink")。创始人[李明教授是](https://zh.wikipedia.org/wiki/李明_\(滑铁卢大学教授\) "wikilink")[加拿大皇家学会会士](https://zh.wikipedia.org/wiki/加拿大皇家学会 "wikilink")，现任[滑铁卢大学教授](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[Fuihappu濱車站](https://zh.wikipedia.org/wiki/Fuihappu濱車站)转换而来。
+
+
 **Fuihappu濱站**（）是位於[北海道](../Page/北海道.md "wikilink")[沙流郡](../Page/沙流郡.md "wikilink")[門別町](../Page/門別町.md "wikilink")（現時的[日高町](../Page/日高町_\(北海道\).md "wikilink")）富川西，隸屬於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）[日高本線](../Page/日高本線.md "wikilink")，已廢除的[臨時車站](https://zh.wikipedia.org/wiki/臨時車站 "wikilink")。
 
 本車站主要是夏季至秋季期間，供旅客摸蜆及體驗拖網捕魚等。

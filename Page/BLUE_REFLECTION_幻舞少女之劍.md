@@ -1,3 +1,6 @@
+> 本文内容由[BLUE REFLECTION 幻舞少女之劍](https://zh.wikipedia.org/wiki/BLUE_REFLECTION_幻舞少女之劍)转换而来。
+
+
 ，簡稱，是由[Gust](../Page/Gust.md "wikilink")開發並由[光榮特庫摩發行在](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[PlayStation Vita平台的](../Page/PlayStation_Vita.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，在2017年3月30日開始在日本發售，而北美和歐洲地區方面則是同年的9月26日和9月29日。玩家扮演的角色名叫白井日菜子，是一位曾備受期待但因為腳傷而變得無法跳舞的芭蕾舞者，她在一次機緣際會下被賦予魔法力量成為「反像者」，使她可以自由活動、跟「原種」和其他怪物戰鬥。日菜子的一天分為以女高中生的身分度過的日常和以「反像者」身分於異世界奔走的非日常，當她與同學相熟起來後，更可使用使用她們的支援技能。此作同時是Gust的「Beautiful Girls Festival」系列的最後一作，前兩作分別為《》和《[無夜國度2](https://zh.wikipedia.org/wiki/无夜国度2_新月的新娘 "wikilink")》。
 
 《BLUE REFLECTION 幻舞少女之劍》由細井順三擔任製作人，[系列構成由](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")[時雨澤惠一](../Page/時雨澤惠一.md "wikilink")、[五十嵐雄策和](https://zh.wikipedia.org/wiki/五十嵐雄策 "wikilink")[夏海公司](../Page/夏海公司.md "wikilink")負責，而角色設計與監修則交給[岸田梅爾](../Page/岸田梅爾.md "wikilink")。

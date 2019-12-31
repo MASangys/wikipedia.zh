@@ -1,3 +1,6 @@
+> 本文内容由[Smile \(倉木麻衣專輯\)](https://zh.wikipedia.org/wiki/Smile_\(倉木麻衣專輯\))转换而来。
+
+
 '''Smile '''是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[倉木麻衣](../Page/倉木麻衣.md "wikilink")第十一張原創專輯，於2017年2月15日分三種形式發行。
 
 ## 簡介

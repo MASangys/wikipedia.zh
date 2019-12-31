@@ -1,4 +1,4 @@
-> 本文内容由[Lostorage incited WIXOSS](https://zh.wikipedia.org/wiki/Lostorage incited WIXOSS)转换而来。
+> 本文内容由[Lostorage incited WIXOSS](https://zh.wikipedia.org/wiki/Lostorage_incited_WIXOSS)转换而来。
 
 
 《**失憶煽動WIXOSS**》（、）是[J.C.STAFF製作的原創電視動畫](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2016年10月起首播\[1\]。

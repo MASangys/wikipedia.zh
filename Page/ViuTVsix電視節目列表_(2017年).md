@@ -1,3 +1,6 @@
+> 本文内容由[ViuTVsix電視節目列表 \(2017年\)](https://zh.wikipedia.org/wiki/ViuTVsix電視節目列表_\(2017年\))转换而来。
+
+
 本列表列出2017年由[香港](../Page/香港.md "wikilink")[ViuTVsix](../Page/ViuTVsix.md "wikilink")所播放的節目（只限綜藝及資訊節目）。
 
 除特別註明外，所有節目均為高清製作。

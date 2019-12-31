@@ -1,3 +1,6 @@
+> 本文内容由[GAZ-AA](https://zh.wikipedia.org/wiki/GAZ-AA)转换而来。
+
+
 **GAZ-AA**（）是以[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")為原型，[蘇聯所生產的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[貨車](https://zh.wikipedia.org/wiki/貨車 "wikilink")\[1\]\[2\]。生産由[高爾基汽車廠負責](../Page/高尔基汽车厂.md "wikilink")。[第二次世界大戰中也做為](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[軍用卡車來使用](https://zh.wikipedia.org/wiki/軍用卡車 "wikilink")，或是加裝防空武器後做為防空車輛\[3\]。因為其1.5噸的載重量\[4\]，而有POLUTORKA（，也有1.5的意思）的暱稱。
 
 ## 簡介

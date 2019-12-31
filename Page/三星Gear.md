@@ -1,3 +1,6 @@
+> 本文内容由[三星Gear](https://zh.wikipedia.org/wiki/三星Gear)转换而来。
+
+
 **三星Gear系列**于2013年正式面世，起初它只是智能穿戴手表，后来于2015年发展出360相机、VR头盔、无线运动型耳机、[蓝牙耳机等产品](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")。有传闻三星有意开发出小型投影机。三星Gear智能穿戴手表系列分成2个时代：Samsung Gear（2013-2014年）和Samsung Gear S（2014年至今）。
 
 ## 三星Gear 穿戴型智能手表系列

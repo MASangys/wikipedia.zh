@@ -1,3 +1,6 @@
+> 本文内容由[EXO-CBX](https://zh.wikipedia.org/wiki/EXO-CBX)转换而来。
+
+
 **EXO-CBX**（，）是[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO](../Page/EXO.md "wikilink")的子團體小分隊，組合名稱是由三位成員**X**iumin、**B**aekhyun和**C**hen的英文名開頭字母所組成，於2016年10月31日推出首張迷你專輯《Hey Mama\!》。
 
 該小分組沒有隊長，2016年10月31日，EXO-CBX第一次活動由抽選選出一日隊長Xiumin。\[1\]

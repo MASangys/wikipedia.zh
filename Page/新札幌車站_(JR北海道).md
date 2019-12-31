@@ -1,4 +1,4 @@
-> 本文内容由[新札幌車站 \(JR北海道\)](https://zh.wikipedia.org/wiki/新札幌車站 \(JR北海道\))转换而来。
+> 本文内容由[新札幌車站 \(JR北海道\)](https://zh.wikipedia.org/wiki/新札幌車站_\(JR北海道\))转换而来。
 
 
 [Shin-Sapporo_Sta_ticket_gate_201205.JPG](https://zh.wikipedia.org/wiki/File:Shin-Sapporo_Sta_ticket_gate_201205.JPG "fig:Shin-Sapporo_Sta_ticket_gate_201205.JPG") [Shin-Sapporo_station_platform.jpg](https://zh.wikipedia.org/wiki/File:Shin-Sapporo_station_platform.jpg "fig:Shin-Sapporo_station_platform.jpg") **新札幌站**（）是[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[厚別區](../Page/厚別區.md "wikilink")厚別中央2条5丁目6[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）[千歲線](../Page/千歲線.md "wikilink")上的車站。

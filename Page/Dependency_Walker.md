@@ -1,3 +1,6 @@
+> 本文内容由[Dependency Walker](https://zh.wikipedia.org/wiki/Dependency_Walker)转换而来。
+
+
 **Dependency Walker** 或 **depends.exe** 是一个[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，用于在[Microsoft Windows操作系统中列出](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[可执行程序的输入与输出函数](https://zh.wikipedia.org/wiki/Portable_Executable "wikilink")。该软件递归树形显示所有的依赖可执行文件。该软件包含在[Microsoft Visual Studio中直到Visual](../Page/Microsoft_Visual_Studio.md "wikilink") Studio 2005 (Version 8.0)以及[Windows XP SP2的](https://zh.wikipedia.org/wiki/Windows_XP_SP2 "wikilink"). 最新版本v2.2.10011不在dependencywalker.com网站上；但是包含在[Windows Driver Kit](https://zh.wikipedia.org/wiki/Windows_Driver_Kit "wikilink") v10 \[1\]\[2\]\[3\]\[4\]。
 
 Windows 7引入了Windows API-sets的概念, 一种DLL重定向（redirection）.\[5\]\[6\] \[7\] Dependency Walker还不能很好处理这回总间接层次。

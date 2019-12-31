@@ -1,4 +1,4 @@
-> 本文内容由[Pink Ocean](https://zh.wikipedia.org/wiki/Pink Ocean)转换而来。
+> 本文内容由[Pink Ocean](https://zh.wikipedia.org/wiki/Pink_Ocean)转换而来。
 
 
 《**PINK OCEAN**》，是韓國女子演唱團體[Oh My Girl的第三張迷你專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，以〈LIAR LIAR〉為主打歌。

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Ancient Egypt kings](https://zh.wikipedia.org/wiki/模块:Ancient_Egypt_kings)转换而来。
+
+
 \-- This module implements . It converts a year in the Gregorian -- calendar to the equivalent year of the ancient Egyptian era organized by pharaohs and kings.
 
 local data = mw.loadData( 'Module:Ancient Egypt kings/data' ) local lang = mw.language.getContentLanguage()

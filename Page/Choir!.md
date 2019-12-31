@@ -1,3 +1,6 @@
+> 本文内容由[Choir!](https://zh.wikipedia.org/wiki/Choir!)转换而来。
+
+
 《**Choir\!**》是天蓬元帥創作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")作品。於[德間書店](../Page/德間書店.md "wikilink")杂誌《月刊COMIC RYU》2006年11月號首度發表，2011年1月號連載結束。已經出版全3本[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。該作品敘述著三位女中學生的日常生活。
 
 ## 登場角色

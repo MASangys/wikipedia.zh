@@ -1,4 +1,4 @@
-> 本文内容由[The Piper at the Gates of Dawn](https://zh.wikipedia.org/wiki/The Piper at the Gates of Dawn)转换而来。
+> 本文内容由[The Piper at the Gates of Dawn](https://zh.wikipedia.org/wiki/The_Piper_at_the_Gates_of_Dawn)转换而来。
 
 
 《****》（参考译名《**黎明门前的风笛手**》）是英国摇滚乐队[平克·弗洛伊德](../Page/平克·弗洛伊德.md "wikilink")的首张录音室专辑，也是在前乐队成员[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")领导下发行的唯一一张专辑。专辑题名取自[肯尼思·格拉姆](../Page/肯尼思·格拉姆.md "wikilink")所作小说《[柳林風聲](../Page/柳林風聲.md "wikilink")》的第七章标题，万花筒状的封面图片由维克·辛（）拍摄。该专辑由[披头士乐队工程师](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")[诺曼·史密斯](https://zh.wikipedia.org/wiki/诺曼·史密斯 "wikilink")（）担任制作人，在1967年2月至5月期间完成录音。它在英国由[EMI哥伦比亚](https://zh.wikipedia.org/wiki/EMI哥伦比亚 "wikilink")（）发行于1967年8月，在美国由[高塔唱片](https://zh.wikipedia.org/wiki/高塔唱片 "wikilink")（）发行于同年10月，配合了乐队的美国巡演日程。

@@ -1,3 +1,6 @@
+> 本文内容由[SCS Software](https://zh.wikipedia.org/wiki/SCS_Software)转换而来。
+
+
 **SCS Software s.r.o.** 是[捷克](../Page/捷克.md "wikilink")[布拉格](../Page/布拉格.md "wikilink")的一間[電子游戏](../Page/电子游戏.md "wikilink")[开发公司](../Page/游戏开发者.md "wikilink")，主要開發[微軟](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[MacOS](../Page/MacOS.md "wikilink")和[Linux](../Page/Linux.md "wikilink")的運輸[模拟游戏](../Page/模擬遊戲.md "wikilink")，包括系列和卡车模拟系列。
 
 ## 遊戲

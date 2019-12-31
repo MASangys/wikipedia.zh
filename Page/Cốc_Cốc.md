@@ -1,4 +1,4 @@
-> 本文内容由[Cốc Cốc](https://zh.wikipedia.org/wiki/Cốc Cốc)转换而来。
+> 本文内容由[Cốc Cốc](https://zh.wikipedia.org/wiki/Cốc_Cốc)转换而来。
 
 
 **Cốc Cốc浏览器**（，，原名**Cờ Rôm+**）是[越南的一款](https://zh.wikipedia.org/wiki/越南 "wikilink")[免费](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")，主要面向越南市场，由越南基于[Chromium](../Page/Chromium.md "wikilink")的开放源代码而研发出来的，\[1\]同[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Comodo Dragon使用同一种平台](../Page/科摩多龙安全浏览器.md "wikilink")。Cốc Cốc浏览器支持[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[OS X两种操作系统](https://zh.wikipedia.org/wiki/OS_X "wikilink")，\[2\]\[3\]以及英语和越南语两种语言。\[4\]

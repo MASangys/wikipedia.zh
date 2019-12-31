@@ -1,3 +1,6 @@
+> 本文内容由[AAA ARENA TOUR 2016 -LEAP OVER-](https://zh.wikipedia.org/wiki/AAA_ARENA_TOUR_2016_-LEAP_OVER-)转换而来。
+
+
 『*' AAA ARENA TOUR 2016 -LEAP OVER-*'』為日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2016年11月9日發售的第18張影像作品。
 
 ## 概要

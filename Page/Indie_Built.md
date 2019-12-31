@@ -1,4 +1,4 @@
-> 本文内容由[Indie Built](https://zh.wikipedia.org/wiki/Indie Built)转换而来。
+> 本文内容由[Indie Built](https://zh.wikipedia.org/wiki/Indie_Built)转换而来。
 
 
 **Indie Built**（原名为**Access Software**），是一家由布鲁斯·卡弗成立于1982年的游戏开发商，工作室位于犹他州盐湖城。\[1\]

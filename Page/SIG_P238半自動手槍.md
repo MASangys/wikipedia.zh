@@ -1,4 +1,4 @@
-> 本文内容由[SIG P238半自動手槍](https://zh.wikipedia.org/wiki/SIG P238半自動手槍)转换而来。
+> 本文内容由[SIG P238半自動手槍](https://zh.wikipedia.org/wiki/SIG_P238半自動手槍)转换而来。
 
 
 **SIG P238**是一系列由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的袖珍型單動式[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2009年（美國著名槍展）上首度展出，發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。

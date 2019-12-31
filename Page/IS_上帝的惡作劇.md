@@ -1,3 +1,6 @@
+> 本文内容由[IS 上帝的惡作劇](https://zh.wikipedia.org/wiki/IS_上帝的惡作劇)转换而来。
+
+
 《**IS～上帝的惡作劇～**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[六花千代的](https://zh.wikipedia.org/wiki/六花千代 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，單行本全17卷。講述主人公星野春因出生時生為IS（[性別分化症](https://zh.wikipedia.org/wiki/双性人 "wikilink")）在其成長中所經歷的故事，包含肯定自己的存在及在求學過程的種種故事。2007年本作品獲得第31屆[講談社漫畫賞少女部門賞](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")。\[1\]於2011年改編成电视连续剧。
 
 ## 劇情簡介

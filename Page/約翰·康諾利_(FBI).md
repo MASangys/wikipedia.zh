@@ -1,4 +1,4 @@
-> 本文内容由[約翰·康諾利 \(FBI\)](https://zh.wikipedia.org/wiki/約翰·康諾利 \(FBI\))转换而来。
+> 本文内容由[約翰·康諾利 \(FBI\)](https://zh.wikipedia.org/wiki/約翰·康諾利_\(FBI\))转换而来。
 
 
 **小約翰·約瑟夫·康諾利**（****，）\[1\] ，為前[聯邦調查局特工](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")。他因為參與[冬山幫](../Page/冬山幫.md "wikilink")、與已故的[白毛·巴爾傑](https://zh.wikipedia.org/wiki/白毛·巴爾傑 "wikilink")，以及有關係，而被控[敲詐](https://zh.wikipedia.org/wiki/敲詐 "wikilink")、[妨礙司法公正](../Page/妨礙司法公正.md "wikilink")和[謀殺](../Page/謀殺.md "wikilink")等罪名。

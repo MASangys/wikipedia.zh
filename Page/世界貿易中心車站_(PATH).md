@@ -1,4 +1,4 @@
-> 本文内容由[世界貿易中心車站 \(PATH\)](https://zh.wikipedia.org/wiki/世界貿易中心車站 \(PATH\))转换而来。
+> 本文内容由[世界貿易中心車站 \(PATH\)](https://zh.wikipedia.org/wiki/世界貿易中心車站_\(PATH\))转换而来。
 
 
 **世界貿易中心車站**（）是位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[捷運車站](../Page/捷運車站.md "wikilink")，屬於[世界貿易中心建築群的一部分](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")，為[紐新航港局過哈德遜河捷運](../Page/紐新航港局過哈德遜河捷運.md "wikilink")（PATH）的東端[總站](https://zh.wikipedia.org/wiki/總站 "wikilink")，也是PATH系統的紐華克賓州車站–世貿中心、霍伯肯–世貿中心等2個[運行系統的端點站](https://zh.wikipedia.org/wiki/運行系統 "wikilink")。

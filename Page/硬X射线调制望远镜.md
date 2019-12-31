@@ -1,3 +1,6 @@
+> 本文内容由[硬X射线调制望远镜](https://zh.wikipedia.org/wiki/硬X射线调制望远镜)转换而来。
+
+
 **硬X射线调制望远镜**（，简称），又名**慧眼**，是中国研制的第一个[X射线天文卫星](../Page/X射线天文卫星.md "wikilink")，于2017年6月15日11时在[酒泉卫星发射中心由](https://zh.wikipedia.org/wiki/酒泉卫星发射中心 "wikilink")[长征四号乙运载火箭成功发射至预定轨道](https://zh.wikipedia.org/wiki/长征四号乙 "wikilink")。探测器将用于X射线宽波段[巡天](https://zh.wikipedia.org/wiki/巡天 "wikilink")，发现被尘埃遮挡的超大质量黑洞和未知类型天体；通过观测[黑洞](../Page/黑洞.md "wikilink")、[中子星](../Page/中子星.md "wikilink")、[活动星系核等高能天体](https://zh.wikipedia.org/wiki/活动星系核 "wikilink")；研究致密天体和黑洞强引力中物质的动力学和高能辐射过程；探索利用X射线脉冲星实现航天器自主导航的技术和原理。
 
 该项目是[中国科技部](https://zh.wikipedia.org/wiki/中国科技部 "wikilink")，[中国科学院](../Page/中国科学院.md "wikilink")和[清华大学共同合作的](https://zh.wikipedia.org/wiki/清华大学 "wikilink")，自2000年以来一直在发展。

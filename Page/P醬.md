@@ -1,3 +1,6 @@
+> 本文内容由[P醬](https://zh.wikipedia.org/wiki/P醬)转换而来。
+
+
 **P醬**（，，\[1\]），[日本](../Page/日本.md "wikilink")[寫真偶像](../Page/寫真偶像.md "wikilink")，前[AV女優](../Page/AV女優.md "wikilink")。原藝名為**風子**（）。她以擁有P罩杯的[巨乳](../Page/巨乳.md "wikilink")而聞名。\[2\]
 
 ## 簡歷

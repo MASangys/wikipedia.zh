@@ -1,4 +1,4 @@
-> 本文内容由[Flight Log: Departure](https://zh.wikipedia.org/wiki/Flight Log: Departure)转换而来。
+> 本文内容由[Flight Log: Departure](https://zh.wikipedia.org/wiki/Flight_Log:_Departure)转换而来。
 
 
 《**FLIGHT LOG : DEPARTURE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第五張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2016年3月21日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music。此張專輯以雙主打的形式進行宣傳，主打歌分別為《Fly》及《HOME RUN》。\[1\]

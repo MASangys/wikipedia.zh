@@ -1,3 +1,6 @@
+> 本文内容由[SEA-ME-WE 4](https://zh.wikipedia.org/wiki/SEA-ME-WE_4)转换而来。
+
+
 [SEA-ME-WE-4-Route.png](https://zh.wikipedia.org/wiki/File:SEA-ME-WE-4-Route.png "fig:SEA-ME-WE-4-Route.png") **亚欧4号国际海底光缆**（全称：**South East Asia–Middle East–Western Europe 4**，简称**SEA-ME-WE 4**），又稱**法新歐亞四號海纜**，是一条[光纤](../Page/光導纖維.md "wikilink")[海缆系统](../Page/海底電纜.md "wikilink")，它为[新加坡](../Page/新加坡.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[泰国](../Page/泰国.md "wikilink")、[孟加拉国](../Page/孟加拉国.md "wikilink")、[印度](../Page/印度.md "wikilink")、[斯里蘭卡](../Page/斯里蘭卡.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")、[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")、[苏丹共和国](../Page/苏丹共和国.md "wikilink")、[埃及](../Page/埃及.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[突尼西亞](../Page/突尼西亞.md "wikilink")、[阿尔及利亚和](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")[法国之间提供通信服务](https://zh.wikipedia.org/wiki/法国 "wikilink")。\[1\]它旨在作为[SEA-ME-WE 3电缆的补充](../Page/SEA-ME-WE_3.md "wikilink")，而不是替代它。
 
 该海缆总长度约18,800公里，是[东南亚](https://zh.wikipedia.org/wiki/东南亚 "wikilink")、[印度次大陸](../Page/印度次大陸.md "wikilink")、[中东](../Page/中东.md "wikilink")和[欧洲](../Page/欧洲.md "wikilink")的主要。\[2\]\[3\]

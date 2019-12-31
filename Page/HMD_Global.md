@@ -1,3 +1,6 @@
+> 本文内容由[HMD Global](https://zh.wikipedia.org/wiki/HMD_Global)转换而来。
+
+
 **HMD Global Oy**，品牌为简写**HMD**，风格化**hmd.**，中文名称**赫名迪**，是一家以[诺基亚](../Page/诺基亚.md "wikilink")的品牌名开发[Android](../Page/Android.md "wikilink")手機设备的芬兰公司。它由曾在诺基亚擔任副總裁與產品经理的Jean-Francois Baril于2016年創辦\[1\]，[富智康收购了](https://zh.wikipedia.org/wiki/富智康 "wikilink")[微软移动的功能机业务](https://zh.wikipedia.org/wiki/微软移动 "wikilink")，HMD則取得诺基亚品牌未來10年獨家使用權\[2\]，以及一份授权许可协议。此收购于2016年12月完成\[3\]。该公司目前由執行長Florian Seiche领导，总部设在[赫尔辛基](../Page/赫尔辛基.md "wikilink")附近的[埃斯波](../Page/埃斯波.md "wikilink")。
 
 HMD由诺基亚资深工作人员组成\[4\]，该公司制作功能手机，以及使用Android平台的智能手机和平板电脑\[5\]。而產品的制造和分销則由[富士康的](../Page/鴻海科技集團.md "wikilink")[FIH Mobile部门执行](../Page/富智康集團.md "wikilink")\[6\]。雖然诺基亚本身并未直接在HMD投资，但有一名董事会成员代表，可设定强制性要求，并将收到专利的授权使用费，及授权HMD研发产品的属性\[7\]\[8\]。

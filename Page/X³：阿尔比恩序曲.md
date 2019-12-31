@@ -1,3 +1,6 @@
+> 本文内容由[X³：阿尔比恩序曲](https://zh.wikipedia.org/wiki/X³：阿尔比恩序曲)转换而来。
+
+
 是德国游戏制造商Egosoft开发的一款空间模拟游戏，是《[X³：地球人冲突](../Page/X³：地球人冲突.md "wikilink")》的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。该游戏于2011年11月发布。
 
 本作的时间线设定在旧的X宇宙与新的X宇宙之间。 {{-}}

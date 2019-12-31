@@ -1,3 +1,6 @@
+> 本文内容由[If Only如果田馥甄巡迴演唱會](https://zh.wikipedia.org/wiki/If_Only如果田馥甄巡迴演唱會)转换而来。
+
+
 《**IF ONLY 如果田馥甄巡迴演唱會**》是[S.H.E](../Page/S.H.E.md "wikilink")團員[田馥甄](../Page/田馥甄.md "wikilink")第一張演唱會影音專輯，收錄[田馥甄](../Page/田馥甄.md "wikilink")於2014年12月6日、2014年12月7日在[臺北小巨蛋以及](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")2015年9月19日[高雄巨蛋舉行的](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")“[如果世界巡迴演唱會](https://zh.wikipedia.org/wiki/如果世界巡迴演唱會 "wikilink")”的現場影音。\[1\]\[2\]\[3\]
 
 ## 曲目收錄

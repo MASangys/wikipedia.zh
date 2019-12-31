@@ -1,4 +1,4 @@
-> 本文内容由[BMW F15](https://zh.wikipedia.org/wiki/BMW F15)转换而来。
+> 本文内容由[BMW F15](https://zh.wikipedia.org/wiki/BMW_F15)转换而来。
 
 
 ****是[德国](../Page/德国.md "wikilink")汽车制造商[BMW](../Page/BMW.md "wikilink")所生产的一款跨界[运动型多用途车](../Page/运动型多用途车.md "wikilink")。作为[BMW X5的第三代车型](../Page/BMW_X5.md "wikilink")，它与前作车型使用相同的[平台](../Page/汽车平台.md "wikilink")，但有着更全面的改款，其中包括内部及外部的表面变化。该型号于2013年5月30日首次向公众发布，并在同年的[法兰克福车展率先亮相](https://zh.wikipedia.org/wiki/法兰克福车展 "wikilink")。

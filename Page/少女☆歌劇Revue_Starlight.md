@@ -1,11 +1,14 @@
-《**少女☆歌劇Revue Starlight**》（）是由[武士道和](../Page/武士道_\(公司\).md "wikilink")共同策劃的[跨媒體製作](../Page/跨媒體製作.md "wikilink")企劃，推出了[音樂劇](../Page/音樂劇.md "wikilink")和[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
+> 本文内容由[少女☆歌劇Revue Starlight](https://zh.wikipedia.org/wiki/少女☆歌劇Revue_Starlight)转换而来。
+
+
+《**少女☆歌劇Revue Starlight**》（）是由[武士道和](../Page/武士道_\(公司\).md "wikilink")共同策劃的[跨媒體製作](../Page/跨媒體製作.md "wikilink")企劃，推出了[音樂劇](../Page/音樂劇.md "wikilink")和[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。2019年11月3日宣布將在2020年初夏上映「少女☆歌劇Revue Starlight 再生產總集篇」以及預定製作完全新作的劇場版\[2\]。
 
 ## 登場人物
 
 ### 主要人物
 
   -
-    聖翔音乐学园第99期演员育成科学生，学号1号。生日9月27日。對早起有困難，總是需要室友真晝的幫忙。在光轉入聖翔後，『向成為Star』的夢想努力，讓自己可以準時起床，對於課業和練習更加進取。对小时候觀賞的『Starlight』深感着迷，從而走向舞台之道的舞台少女。无论何时都很有精神、声音洪亮，也有些冒失。與兒時交換了「命運」的小光一同參加了Revue選拔。
+    聖翔音乐学园第99期演员育成科学生，学号1号。生日9月27日。對早起有困難，總是需要室友真晝的幫忙。在光轉入聖翔後，向『成為Star』的夢想努力，讓自己可以準時起床，對於課業和練習更加進取。对小时候觀賞的『Starlight』深感着迷，從而走向舞台之道的舞台少女。无论何时都很有精神、声音洪亮，也有些冒失。與兒時交換了「命運」的小光一同參加了Revue選拔。
     光轉入聖翔前，在Revue中總是最後一名；光轉入之後，被排除在外。但是在偶然看到光和純那的對戰，跳入了舞台並參加Revue，從那之後的對戰都使華戀加速成長。
     使用武器為一把[佩劍](../Page/佩劍_\(西方\).md "wikilink")，名為「Possibility of Puberty」。
 
@@ -38,7 +41,7 @@
 <!-- end list -->
 
   -
-    聖翔音乐学园第99期演员育成科学生，学号15号。生日7月12日。溫柔地包容每個人，在第99期同儕之間猶如「媽媽」般的存在。暱稱「BANANA」\[2\]。不論歌舞還是演出都相當出众，如今仍十分喜愛一年级時大家一起出演的『Starlight』。總是关心努力过度的纯那。
+    聖翔音乐学园第99期演员育成科学生，学号15号。生日7月12日。溫柔地包容每個人，在第99期同儕之間猶如「媽媽」般的存在。暱稱「BANANA」\[3\]。不論歌舞還是演出都相當出众，如今仍十分喜愛一年级時大家一起出演的『Starlight』。總是关心努力过度的纯那。
     動畫中，不只演技精湛，對於幕後的工作也感興趣。在99期演出了『Starlight』後，在100期『Starlight』中參與腳本的製作。
     因執著於一年級時的『Starlight』，十分抗拒華戀與小光重逢後帶來的改變。第7話揭露她在無數次贏得Revue后冠後輪迴，只為重現當時無法觸及的耀眼與感動。不断轮回重复之下越發迷茫，在長頸鹿的誘導下觸發小光的归来，刺激了华恋的成長。畏懼改變的同時被嶄新的大家所吸引；最终在純那的陪伴下解開心結并全力投身于第100期的『Starlight』制作。
     使用武器為兩把一大一小的[日本刀](../Page/日本刀.md "wikilink")，名為「輪舞」。
@@ -149,13 +152,13 @@
 ## 舞台劇
 
   - 少女☆歌劇Revue Starlight -The LIVE- \#1
-    於2017年9月22日至24日在公演，並於會場發售限定單曲\[3\]。
+    於2017年9月22日至24日在公演，並於會場發售限定單曲\[4\]。
   - 少女☆歌劇Revue Starlight -The LIVE- \#1 revival
     於2018年1月6日至8日在公演。
   - 少女☆歌劇Revue Starlight -The LIVE- \#2 Transition
     於2018年10月13日至21日在公演。
   - 少女☆歌劇Revue Starlight -The LIVE- \#2 revival
-    於2019年7月12日至15日在[舞濱圓形劇場](../Page/舞濱圓形劇場.md "wikilink")公演。\[4\]
+    於2019年7月12日至15日在[舞濱圓形劇場](../Page/舞濱圓形劇場.md "wikilink")公演。\[5\]
 
 ## 音樂作品
 
@@ -168,6 +171,7 @@
 | 3rd | 2018年7月18日 | 星のダイアローグ            | PCCG-70432 |
 | 4th | 2018年8月1日  | Fly Me to the Star  | PCCG-01703 |
 | 5th | 2019年1月9日  | 約束タワー               | PCCG-70445 |
+| 6th | 2019年8月7日  | Star Diamond        | PCCG-01788 |
 |     |            |                     |            |
 
 ## 電視動畫
@@ -203,13 +207,13 @@
 
 ### 主題曲
 
-  - 片頭曲「」\[5\]（第1話 - ）
+  - 片頭曲「」\[6\]（第1話 - ）
     作詞：中村彼方，作、編曲：本多友紀，主唱：Starlight九九組
     第1話為片尾插入。
 
 <!-- end list -->
 
-  - 片尾曲「Fly Me to the Star」\[6\]（第3话-）
+  - 片尾曲「Fly Me to the Star」\[7\]（第3话-）
     作詞：中村彼方，作曲：，編曲：、小高光太郎
     主唱（第3話）：神樂光（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）
     主唱（第4話）：愛城華戀（[小山百代](../Page/小山百代.md "wikilink")）、神樂光（三森鈴子）
@@ -244,20 +248,20 @@
 （管絃樂編曲）</p></td>
 <td><p>星見純那（佐藤日向）、神樂光（三森鈴子）、<br />
 愛城華戀（小山百代）</p></td>
-<td><p>1[7]</p></td>
+<td><p>1[8]</p></td>
 </tr>
 <tr class="even">
 <td><p>The Star Knows</p></td>
 <td><p>中村康隆</p></td>
 <td><p>、藤井亮太、谷直木</p></td>
 <td><p>星見純那（佐藤日向）、愛城華戀（小山百代）</p></td>
-<td><p>2[8]</p></td>
+<td><p>2[9]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>藤澤慶昌</p></td>
 <td><p>愛城華戀（小山百代）、天堂真矢（富田麻帆）</p></td>
-<td><p>3[9]</p></td>
+<td><p>3[10]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -278,7 +282,7 @@
 <td><p>RE:CREATE</p></td>
 <td><p>三好啓太</p></td>
 <td><p>神樂光（三森鈴子）、大場奈奈（小泉萌香）</p></td>
-<td><p>8[10]</p></td>
+<td><p>8[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -329,7 +333,7 @@
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>日文標題[11]</p></th>
+<th><p>日文標題[12]</p></th>
 <th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
@@ -500,7 +504,7 @@ Studio Lings、德田拓也、辻浩樹</p></td>
 
 ### 藍光版
 
-| 卷數 | 發售日期\[12\]  | 收錄內容           | 規格編號      |
+| 卷數 | 發售日期\[13\]  | 收錄內容           | 規格編號      |
 | -- | ----------- | -------------- | --------- |
 | 1  | 2018年10月24日 | 第1話\~第4話、OVA1  | OVXN-0041 |
 | 2  | 2018年12月26日 | 第5話\~第8話、OVA2  | OVXN-0042 |
@@ -519,29 +523,25 @@ Studio Lings、德田拓也、辻浩樹</p></td>
 ## 外部連結
 
   - [《少女☆歌劇Revue Starlight》官方網站](http://revuestarlight.com/)
+  - [《少女☆歌劇Revue Starlight -Re LIVE-》手機遊戲官方網站](https://revuestarlight.bushimo.jp/)
 
-  - [《少女☆歌劇Revue Starlight -Re LIVE-》官方網站](https://revuestarlight.bushimo.jp/)
+<!-- end list -->
+
+  - [《少女☆歌劇Revue Starlight -Re LIVE-》手機遊戲中文官方網站](https://www.tw.revuestarlight-relive.com/)
 
   -
 [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:日本音樂劇作品](https://zh.wikipedia.org/wiki/Category:日本音樂劇作品 "wikilink") [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink")
 
 1.
-
-2.  「場奈奈」的連音。本人亦十分愛用香蕉制品。
-
-3.
-
+2.
+3.  「場奈奈」的連音。本人亦十分愛用香蕉制品。
 4.
-
 5.
-
 6.
 7.
-
 8.
 9.
 10.
-
 11.
-
 12.
+13.

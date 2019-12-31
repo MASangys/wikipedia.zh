@@ -1,4 +1,4 @@
-> 本文内容由[Portal:Linux/Selected picture](https://zh.wikipedia.org/wiki/Portal:Linux/Selected picture)转换而来。
+> 本文内容由[Portal:Linux/Selected picture](https://zh.wikipedia.org/wiki/Portal:Linux/Selected_picture)转换而来。
 
 
 [Portal:Linux/Selected picture/13](https://zh.wikipedia.org/wiki/Portal:Linux/Selected_picture/13 "wikilink")

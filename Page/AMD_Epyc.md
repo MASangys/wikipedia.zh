@@ -1,3 +1,6 @@
+> 本文内容由[AMD Epyc](https://zh.wikipedia.org/wiki/AMD_Epyc)转换而来。
+
+
 **AMD Epyc**（或者全大寫字母**EPYC**）是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[微處理器產品線](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，中文名为“霄龙”，採用[Zen微架構](../Page/AMD_Zen.md "wikilink")。與2017年6月發表並開始供貨，取代推出已有14年歷史的[Opteron系列](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")。\[1\] 2019年8月8日\[2\]，基于[Zen 2微结构](https://zh.wikipedia.org/wiki/Zen_2 "wikilink")7nm制程第二代**EPYC**处理器Rome发布。\[3\]
 
 ## 設計概略

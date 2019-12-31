@@ -1,4 +1,4 @@
-> 本文内容由[APRIL \(女子團體\)](https://zh.wikipedia.org/wiki/APRIL \(女子團體\))转换而来。
+> 本文内容由[APRIL \(女子團體\)](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\))转换而来。
 
 
 **APRIL**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DSP媒體](../Page/DSP媒體.md "wikilink")於2015年推出的六人女子團體，初始成員包括[昭珉](../Page/全昭珉.md "wikilink")、[采媛](https://zh.wikipedia.org/wiki/金彩媛 "wikilink")、[玹珠](../Page/李玹珠.md "wikilink")、[娜恩](../Page/李娜恩.md "wikilink")、[睿娜](https://zh.wikipedia.org/wiki/梁睿娜 "wikilink")、[真率](https://zh.wikipedia.org/wiki/李眞率 "wikilink")。經成員變動後，現任成員有[彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、[采媛](https://zh.wikipedia.org/wiki/金彩媛 "wikilink")、[娜恩](../Page/李娜恩.md "wikilink")、[睿娜](https://zh.wikipedia.org/wiki/梁睿娜 "wikilink")、[Rachel](https://zh.wikipedia.org/wiki/成那然 "wikilink")、[真率](https://zh.wikipedia.org/wiki/李眞率 "wikilink")。2015年8月24日推出首張迷你專輯《Dreaming》。2015年8月25日於SBS MTV《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》以主打曲《Dream Candy》正式出道。

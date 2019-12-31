@@ -1,3 +1,6 @@
+> 本文内容由[Julie Sings Film Songs](https://zh.wikipedia.org/wiki/Julie_Sings_Film_Songs)转换而来。
+
+
 ***Julie Sings Film Songs***是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[爵士樂女](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")[歌手](../Page/歌手.md "wikilink")[茱莉·倫敦](../Page/茱莉·倫敦.md "wikilink")的第十二張[密紋](../Page/密紋唱片.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，收錄<The Boy On A Dolphin>、<Laura>等[爵士樂歌曲](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。其中\<[Cry Me A River](https://zh.wikipedia.org/wiki/Cry_Me_A_River "wikilink")\>是她最知名的代表作。此[迷你專輯由London唱片於](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")1957年5月 發行，目錄號是RE-U 1076，為單聲道形式。\[1\] \[2\]
 
 ## 曲目和格式

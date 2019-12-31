@@ -1,4 +1,4 @@
-> 本文内容由[NBA 2K17](https://zh.wikipedia.org/wiki/NBA 2K17)转换而来。
+> 本文内容由[NBA 2K17](https://zh.wikipedia.org/wiki/NBA_2K17)转换而来。
 
 
 《**NBA 2K17**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[Visual Concepts開發](../Page/Visual_Concepts.md "wikilink")，[2K Sports發行](../Page/2K_Sports.md "wikilink")。《NBA 2K17》是《NBA 2K16》的續作。遊戲於2016年9月20日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox One和](../Page/Xbox_One.md "wikilink")[Xbox 360平台上推出](../Page/Xbox_360.md "wikilink")。

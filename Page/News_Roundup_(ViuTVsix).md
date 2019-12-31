@@ -1,3 +1,6 @@
+> 本文内容由[News Roundup \(ViuTVsix\)](https://zh.wikipedia.org/wiki/News_Roundup_\(ViuTVsix\))转换而来。
+
+
 《**News Roundup**》（節目表及主播口播為《ViuTV News》），是由[路透社](../Page/路透社.md "wikilink")製作、[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")旗下英文頻道[ViuTVsix](../Page/ViuTVsix.md "wikilink")播出的英語新聞節目，[香港時間](../Page/香港時間.md "wikilink")每天19:00-19:30和23:30-00:00播出\[1\]。
 
 香港其他免費電視台的英語新聞節目有[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台](../Page/明珠台.md "wikilink")的《[七點半新聞報道](../Page/七點半新聞報道.md "wikilink")》（）和《[晚間新聞](../Page/無綫電視晚間新聞.md "wikilink")》（）及[奇妙電視](../Page/奇妙電視.md "wikilink")[香港國際財經台](../Page/香港國際財經台.md "wikilink")的[Main News和](../Page/香港國際財經台主要新聞、晚間新聞.md "wikilink")[Late News](../Page/香港國際財經台主要新聞、晚間新聞.md "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[洛克人X \(遊戲\)](https://zh.wikipedia.org/wiki/洛克人X \(遊戲\))转换而来。
+> 本文内容由[洛克人X \(遊戲\)](https://zh.wikipedia.org/wiki/洛克人X_\(遊戲\))转换而来。
 
 
 是1993年12月17日[卡普空](../Page/卡普空.md "wikilink")發行於[超級任天堂](../Page/超級任天堂.md "wikilink")上的[電視遊戲](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，[洛克人系列](../Page/洛克人系列.md "wikilink")的第一個分支，也是[洛克人X系列](../Page/洛克人X系列.md "wikilink")主軸故事的最初作品。

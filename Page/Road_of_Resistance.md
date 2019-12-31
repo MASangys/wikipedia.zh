@@ -1,4 +1,4 @@
-> 本文内容由[Road of Resistance](https://zh.wikipedia.org/wiki/Road of Resistance)转换而来。
+> 本文内容由[Road of Resistance](https://zh.wikipedia.org/wiki/Road_of_Resistance)转换而来。
 
 
 **Road of Resistance**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ロード・オブ・レジスタンス）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2015年2月1日發行的數位音樂下載單曲。由唱片公司[BMD FOX RECORDS發行](../Page/TOY'S_FACTORY.md "wikilink")\[1\]\[2\]\[3\]\[4\]。

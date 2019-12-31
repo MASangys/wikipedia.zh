@@ -1,3 +1,6 @@
+> 本文内容由[Gen.G](https://zh.wikipedia.org/wiki/Gen.G)转换而来。
+
+
 **Gen.G**是一支韩国电子竞技俱乐部，成立于2017年，曾用名KSV Esports。
 
 ## 英雄联盟分部

@@ -1,4 +1,4 @@
-> 本文内容由[东方深秘录 ～ Urban Legend in Limbo.](https://zh.wikipedia.org/wiki/东方深秘录 ～ Urban Legend in Limbo.)转换而来。
+> 本文内容由[东方深秘录 ～ Urban Legend in Limbo.](https://zh.wikipedia.org/wiki/东方深秘录_～_Urban_Legend_in_Limbo.)转换而来。
 
 
 是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")14.5作。\[1\]\[2\]

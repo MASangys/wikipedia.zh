@@ -1,3 +1,6 @@
+> 本文内容由[Re:CREATORS](https://zh.wikipedia.org/wiki/Re:CREATORS)转换而来。
+
+
 《**Re:CREATORS**》是[廣江禮威原作](https://zh.wikipedia.org/wiki/廣江禮威 "wikilink")，[青木英](../Page/青木英.md "wikilink")監督，[TROYCA](../Page/TROYCA.md "wikilink")製作的原創動畫\[1\]，牧野龍一進行角色設計，I-IV負責機械設計，澤野弘之擔任音樂製作，由Aniplex和小學館聯合出品。電視動畫於2017年4月8日播出。
 
 本作是現代背景下的反穿越式幻想戰鬥故事，核心概念是「由人們所創作的各種作品中的角色要制裁自己的創作者，並且取代他們的位置」。這就是作品標題《Re:CREATORS》的含義，對於被創作的虛構角色而言，創作他們不是「創作者」（creators），而是「造物主」（CREATORS），角色希望改變自己的世界，於是決定把高高在上的「眾神」拖到地上施以制裁，讓「眾人」能夠翻身成為「造物主」（CREATORS）。

@@ -1,3 +1,6 @@
+> 本文内容由[Studio Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia)转换而来。
+
+
 **有限会社Studio Fantasia**（），是[日本](../Page/日本.md "wikilink")[动画工作室](https://zh.wikipedia.org/wiki/动画工作室 "wikilink")，由饭冢智久成立于1983年10月12日，总部位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[练马区](https://zh.wikipedia.org/wiki/练马区 "wikilink")，專門負責動畫[外判](../Page/外判.md "wikilink")公司。2016年11月16日申请[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。
 
 ## 作品列表

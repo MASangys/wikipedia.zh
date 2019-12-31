@@ -1,4 +1,4 @@
-> 本文内容由[梅賽德斯F1 W06 Hybrid](https://zh.wikipedia.org/wiki/梅賽德斯F1 W06 Hybrid)转换而来。
+> 本文内容由[梅賽德斯F1 W06 Hybrid](https://zh.wikipedia.org/wiki/梅賽德斯F1_W06_Hybrid)转换而来。
 
 
 （科技总监）{{-}} （执行技术总监） | Predecessor = [梅賽德斯F1 W05 Hybrid](../Page/梅賽德斯F1_W05_Hybrid.md "wikilink") | Successor = [梅賽德斯F1 W07 Hybrid](../Page/梅賽德斯F1_W07_Hybrid.md "wikilink") | Team = [梅賽德斯AMG國油F1車隊](https://zh.wikipedia.org/wiki/梅賽德斯車隊 "wikilink") | Drivers = 6.  [尼可·羅斯堡](https://zh.wikipedia.org/wiki/尼可·羅斯堡 "wikilink")\[1\]

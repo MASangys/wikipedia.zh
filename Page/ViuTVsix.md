@@ -1,3 +1,6 @@
+> 本文内容由[ViuTVsix](https://zh.wikipedia.org/wiki/ViuTVsix)转换而来。
+
+
 **ViuTVsix**（），又稱96台，是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")擁有的一條綜合[英語娛樂電視頻道](https://zh.wikipedia.org/wiki/英語 "wikilink")，2017年3月31日啟播，定頻於[香港數碼地面電視廣播](../Page/香港數碼地面電視廣播.md "wikilink")96頻道，節目以[英語廣播為主](https://zh.wikipedia.org/wiki/英語 "wikilink")。\[1\]
 
 現時以「96台 ViuTVsix」作為中文稱呼，而大部分節目預告的英文稱呼則刪減了「Channel 96」（96台）字眼。該頻道的主要競爭對手為[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台](../Page/明珠台.md "wikilink")及[奇妙電視有限公司旗下的](https://zh.wikipedia.org/wiki/奇妙電視有限公司 "wikilink")[香港國際財經台](../Page/香港國際財經台.md "wikilink")。

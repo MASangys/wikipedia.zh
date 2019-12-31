@@ -1,3 +1,6 @@
+> 本文内容由[Lucid Dream](https://zh.wikipedia.org/wiki/Lucid_Dream)转换而来。
+
+
 《**Lucid Dream**》（）是2017年2月22日上映的一部韓國懸疑片，講述一名為了守護家園的父親，透過夢中助手的幫助，找到綁架兒子的犯人及其犯罪線索的故事。
 
 ### 主要演員

@@ -1,4 +1,4 @@
-> 本文内容由[2gether 4ever Encore演唱會影音館](https://zh.wikipedia.org/wiki/2gether 4ever Encore演唱會影音館)转换而来。
+> 本文内容由[2gether 4ever Encore演唱會影音館](https://zh.wikipedia.org/wiki/2gether_4ever_Encore演唱會影音館)转换而来。
 
 
 《**2GETHER 4EVER ENCORE演唱會影音館**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")的第五張演唱會影音專輯，亦是第四次世界巡迴演唱會《[2gether 4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/2gether_4ever世界巡迴演唱會 "wikilink")》Encore場的影音實錄。此張演唱會影音專輯收錄了S.H.E於2014年8月9日、8月10日於[台北小巨蛋舉辦的](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")《[2gether 4ever世界巡迴演唱會](https://zh.wikipedia.org/wiki/Together_Forever世界巡迴演唱會 "wikilink")》安可場演唱會台北場第二天8月10日的演唱會實況的現場影音，並獨家收錄台北場第一天8月9日和2014年7月19日於[高雄巨蛋舉辦的安可場演唱會高雄場的特別曲目](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。\[1\]\[2\]

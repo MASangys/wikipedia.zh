@@ -1,4 +1,7 @@
-'''National Trade Center ''' **NTC國家商貿中心**位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")[七期重劃區朝富路與市政北二路口](https://zh.wikipedia.org/wiki/七期重劃區 "wikilink")，是[興富發建設](../Page/興富發建設.md "wikilink")建造的商辦大樓，並由國際建築事務所[Aedas設計](https://zh.wikipedia.org/wiki/Aedas "wikilink")。\[1\]落成後，將成為臺中市第六高的大樓。
+> 本文内容由[NTC國家商貿中心](https://zh.wikipedia.org/wiki/NTC國家商貿中心)转换而来。
+
+
+**NTC國家商貿中心**（）位於[臺灣](../Page/臺灣.md "wikilink")[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[西屯區](../Page/西屯區.md "wikilink")[七期重劃區朝富路與市政北二路口](https://zh.wikipedia.org/wiki/七期重劃區 "wikilink")，是[興富發建設](../Page/興富發建設.md "wikilink")建造的商辦大樓，並由國際建築事務所[Aedas設計](https://zh.wikipedia.org/wiki/Aedas "wikilink")，基地面積1382[坪](../Page/坪.md "wikilink")。\[1\]樓高165.6[公尺](https://zh.wikipedia.org/wiki/公尺 "wikilink")，為臺中市第六高的大樓。
 
 ## 建築設計
 
@@ -9,5 +12,4 @@
 [Category:台中市建築物](https://zh.wikipedia.org/wiki/Category:台中市建築物 "wikilink") [Category:西屯區](https://zh.wikipedia.org/wiki/Category:西屯區 "wikilink") [Category:台灣摩天大樓](https://zh.wikipedia.org/wiki/Category:台灣摩天大樓 "wikilink") [Category:臺中第七期重劃區](https://zh.wikipedia.org/wiki/Category:臺中第七期重劃區 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
 
 1.  [台中國家商貿中心 | NTC](http://www.jsl.com.tw/Case_NTC/index.asp)
-
 2.

@@ -1,4 +1,4 @@
-> 本文内容由[IWI DAN狙擊步槍](https://zh.wikipedia.org/wiki/IWI DAN狙擊步槍)转换而来。
+> 本文内容由[IWI DAN狙擊步槍](https://zh.wikipedia.org/wiki/IWI_DAN狙擊步槍)转换而来。
 
 
 **IWI DAN .338手動槍機狙擊步槍**是一枝由[以色列](../Page/以色列.md "wikilink")[武器工業](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")（IWI）自2014年起生產、並且以的名字命名的[旋转后拉式枪机式手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射用於狙擊、火力強大的[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Magnum，8.6×70毫米或8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。而且正如所發射的彈藥，其主要目的是遠距離狙擊，和有限度的反器材用途。

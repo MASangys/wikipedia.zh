@@ -1,4 +1,4 @@
-> 本文内容由[Black Dog](https://zh.wikipedia.org/wiki/Black Dog)转换而来。
+> 本文内容由[Black Dog](https://zh.wikipedia.org/wiki/Black_Dog)转换而来。
 
 
 《****》（参考译名《黑狗》）是英国摇滚乐队[齐柏林飞艇的一首歌曲](https://zh.wikipedia.org/wiki/齐柏林飞艇乐队 "wikilink")，是他们[未命名的第四张录音室专辑的开场曲目](../Page/Led_Zeppelin_IV.md "wikilink")。它在美国和澳大利亚以[单曲](../Page/单曲.md "wikilink")形式发行，[B面曲为](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《》。歌曲的吉他反复乐节（riff）由贝斯手[約翰·保羅·瓊斯创作](../Page/約翰·保羅·瓊斯_\(音樂家\).md "wikilink")\[1\]\[2\]，其中的一句歌词“”指向英伦三岛的[黑犬](../Page/黑犬.md "wikilink")传说。

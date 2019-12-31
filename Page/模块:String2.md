@@ -1,3 +1,6 @@
+> 本文内容由[模块:String2](https://zh.wikipedia.org/wiki/模块:String2)转换而来。
+
+
 local p = {}
 
 p.upper = function(frame)

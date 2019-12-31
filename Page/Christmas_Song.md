@@ -1,3 +1,6 @@
+> 本文内容由[Christmas Song](https://zh.wikipedia.org/wiki/Christmas_Song)转换而来。
+
+
 《**Christmas Song**》（日語：クリスマスソング）是日本樂團[back number於](https://zh.wikipedia.org/wiki/back_number "wikilink")[2015年](../Page/2015年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")發行的第14張單曲。
 
 ## 解說

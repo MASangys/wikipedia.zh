@@ -1,4 +1,4 @@
-> 本文内容由[机动战士Z GUNDAM：HOT SCRAMBLE](https://zh.wikipedia.org/wiki/机动战士Z GUNDAM：HOT SCRAMBLE)转换而来。
+> 本文内容由[机动战士Z GUNDAM：HOT SCRAMBLE](https://zh.wikipedia.org/wiki/机动战士Z_GUNDAM：HOT_SCRAMBLE)转换而来。
 
 
 是一款由[Game Studio公司制作](https://zh.wikipedia.org/wiki/Game_Studio "wikilink")，[万代发行的射击](https://zh.wikipedia.org/wiki/万代 "wikilink")[游戏](../Page/游戏.md "wikilink")。本游戏于1986年8月28日在日本地区[FC游戏机发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[1\]本游戏根据同名漫画改编，是高达系列的第一作。

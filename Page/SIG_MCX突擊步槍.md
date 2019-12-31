@@ -1,3 +1,6 @@
+> 本文内容由[SIG MCX突擊步槍](https://zh.wikipedia.org/wiki/SIG_MCX突擊步槍)转换而来。
+
+
 **SIG MCX**是一款由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的一系列[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，採用了從[SIG MPX衝鋒槍結轉改進而成的](../Page/SIG_MPX衝鋒槍.md "wikilink")[短行程導氣活塞氣動式系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")，並且具有[半自動型和](https://zh.wikipedia.org/wiki/半自動步枪 "wikilink")[擊發調變](../Page/擊發調變槍械.md "wikilink")（[突擊步枪](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")）型兩種配置。\[1\]目前可發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、和[7.62×39毫米蘇聯](../Page/7.62×39mm.md "wikilink")（M43）這三種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 於[西格&紹爾](../Page/西格&紹爾.md "wikilink")在新罕布什爾州的工廠建製的SIG MCX，根據西格&紹爾小冊子對該步槍的描述，為“經過徹底改造以後成為短、輕量、消聲”的武器。\[2\]
@@ -53,7 +56,7 @@ SIG設計的上機匣可在裝上適配器以後與標準的[AR-15和](../Page/A
 
   -   - [特别行动组](../Page/特别行动组_\(葡萄牙\).md "wikilink")，SIG MCX 5.56毫米口徑\[41\]
 
-  -   - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特別罪案及行動特種槍械司令部反恐特種槍械警員](https://zh.wikipedia.org/wiki/特種槍械司令部 "wikilink")\[42\]\[43\]
+  -   - [倫敦都市警部](../Page/倫敦警察廳.md "wikilink")[特別罪案及行動特種槍械司令部反恐特種槍械警員](../Page/特種槍械司令部.md "wikilink")\[42\]\[43\]
 
       -
       -

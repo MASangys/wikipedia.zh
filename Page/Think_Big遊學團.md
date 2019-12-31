@@ -1,4 +1,4 @@
-> 本文内容由[Think Big遊學團](https://zh.wikipedia.org/wiki/Think Big遊學團)转换而来。
+> 本文内容由[Think Big遊學團](https://zh.wikipedia.org/wiki/Think_Big遊學團)转换而来。
 
 
 《**Think Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，於2015年10月24日首播，播至2017年6月24日\[1\]\[2\]\[3\]。

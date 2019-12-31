@@ -1,3 +1,6 @@
+> 本文内容由[小米Max](https://zh.wikipedia.org/wiki/小米Max)转换而来。
+
+
 **小米Max**是[小米科技在](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年5月10日发布的一款Android[智能手机](../Page/智能手机.md "wikilink")。其特点是采用了6.44英寸大小的屏幕。
 
 ## 參考資料

@@ -1,3 +1,6 @@
+> 本文内容由[Mystery of Sound](https://zh.wikipedia.org/wiki/Mystery_of_Sound)转换而来。
+
+
 《**Mystery of Sound**》是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")的第2張單曲。1996年12月4日由[EMI MUSIC JAPAN（舊名東芝EMI）發行](../Page/EMI音樂日本.md "wikilink")。
 
 ## 概要

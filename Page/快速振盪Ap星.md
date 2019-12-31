@@ -1,3 +1,6 @@
+> 本文内容由[快速振盪Ap星](https://zh.wikipedia.org/wiki/快速振盪Ap星)转换而来。
+
+
 **快速振盪Ap星**（**Rapidly oscillating Ap stars**，縮寫：**roAp stars**）是[恆星光譜](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[Ap型恆星的次型](https://zh.wikipedia.org/wiki/Ap和Bp星 "wikilink")，特徵是短時間內或[徑向速度的急速變化](https://zh.wikipedia.org/wiki/徑向速度 "wikilink")。已知的此型恆星光變週期在5到23分鐘之間。這類恆星在赫羅圖的[主序帶上的](https://zh.wikipedia.org/wiki/主序帶 "wikilink")[盾牌座 δ變星](https://zh.wikipedia.org/wiki/盾牌座_δ變星 "wikilink")[不穩定帶](../Page/不穩定帶.md "wikilink")。
 
 ## 發現

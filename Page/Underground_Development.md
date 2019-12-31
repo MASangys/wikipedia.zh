@@ -1,4 +1,4 @@
-> 本文内容由[Underground Development](https://zh.wikipedia.org/wiki/Underground Development)转换而来。
+> 本文内容由[Underground Development](https://zh.wikipedia.org/wiki/Underground_Development)转换而来。
 
 
 **Underground Development**（前身为**Z-Axis Games**）是于大卫·伦茨在1994年创立的游戏开发商。\[1\]

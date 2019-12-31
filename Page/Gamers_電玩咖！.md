@@ -1,3 +1,6 @@
+> 本文内容由[Gamers 電玩咖！](https://zh.wikipedia.org/wiki/Gamers_電玩咖！)转换而来。
+
+
 ，是[葵關南](../Page/葵關南.md "wikilink")創作、仙人掌擔任插畫的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，連載時間於2015年3月20日開始至今。由《[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")／[富士見書房](../Page/富士見書房.md "wikilink")）發行，目前已發行13冊。
 
 2016年10月22日，於富士見Fantasia文庫例行性舉辦的2016年大感謝祭活動中宣布決定製作動畫\[1\]。同年10月26日，由高橋翼作畫的漫畫版開始在《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》（KADOKAWA）2016年12月號連載。2017年7月至9月，首播同名電視動畫。

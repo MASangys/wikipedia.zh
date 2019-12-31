@@ -1,3 +1,6 @@
+> 本文内容由[本田HR-V](https://zh.wikipedia.org/wiki/本田HR-V)转换而来。
+
+
 **本田HR-V** 是一款由[本田技研工業生產的](https://zh.wikipedia.org/wiki/本田技研 "wikilink")[次緊湊型](https://zh.wikipedia.org/wiki/次紧凑型车 "wikilink")[SUV](../Page/运动型多用途车.md "wikilink")。第一代以 為基礎開發，1999年至 2006年間在日本和部份東南亞市場銷售。第二代HR-V以第三代[本田Fit為基礎](../Page/本田飞度.md "wikilink")，2015年開始在北美、澳洲、巴西、和部份東南亞市場銷售。第二代本田HR-V的規格基本上和2013年末開始在日本國內銷售的 一致。
 
 根據本田歷史網站\[1\] 的說法，HR-V 這個名字，代表 Hi-rider Revolutionary Vehicle。HR-V是為了滿足小型車用戶對於 SUV 優點的需求(特别是較大的[CR-V](../Page/本田CR-V.md "wikilink"))，如增加的貨物空間、更好的視野，同時也有更好的操控性、性能和能效。

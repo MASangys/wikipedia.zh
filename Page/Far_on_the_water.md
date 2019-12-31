@@ -1,4 +1,4 @@
-> 本文内容由[Far on the water](https://zh.wikipedia.org/wiki/Far on the water)转换而来。
+> 本文内容由[Far on the water](https://zh.wikipedia.org/wiki/Far_on_the_water)转换而来。
 
 
 《**far on the water**》是[Kalafina](../Page/Kalafina.md "wikilink")的第5張[原創專輯](../Page/音樂專輯.md "wikilink")。於2015年9月16日由[SME Records發行](../Page/SME_Records.md "wikilink")，共發行四個版本，其中完全限定生產盤（黑膠盤）於當年9月30日發行。此專輯的黑膠盤是Kalafina首張黑膠專輯。\[1\]

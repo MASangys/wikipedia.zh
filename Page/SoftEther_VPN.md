@@ -1,4 +1,4 @@
-> 本文内容由[SoftEther VPN](https://zh.wikipedia.org/wiki/SoftEther VPN)转换而来。
+> 本文内容由[SoftEther VPN](https://zh.wikipedia.org/wiki/SoftEther_VPN)转换而来。
 
 
 **SoftEther VPN**是一個由[筑波大學研究生Daiyuu](https://zh.wikipedia.org/wiki/筑波大學 "wikilink") Nobori（[登大遊](../Page/登大遊.md "wikilink")）因碩士論文而開發的開源、跨平台、多重協定的[虛擬私人網路](../Page/虛擬私人網路.md "wikilink")方案，此方案讓一些[虛擬私人網路](../Page/虛擬私人網路.md "wikilink")協定像是SSL VPN 、[L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")、[IPsec](../Page/IPsec.md "wikilink")、[OpenVPN](../Page/OpenVPN.md "wikilink")以及微軟[SSTP都由同一個單一](https://zh.wikipedia.org/wiki/SSTP "wikilink")[VPN伺服器提供](https://zh.wikipedia.org/wiki/VPN "wikilink")。在2014年1月4日以[GNU通用公共授權條款的方式转变为](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。

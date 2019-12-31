@@ -1,3 +1,6 @@
+> 本文内容由[Coone](https://zh.wikipedia.org/wiki/Coone)转换而来。
+
+
 庫恩(coone)，生於1983年5月30日，是一位著名的[比利時人](https://zh.wikipedia.org/wiki/Belgium "wikilink") [硬派音樂製作人與DJ](https://zh.wikipedia.org/wiki/Hardstyle "wikilink")。
 
 ## 職業生涯

@@ -1,3 +1,6 @@
+> 本文内容由[YU-NO 在這世界盡頭詠唱愛的少女](https://zh.wikipedia.org/wiki/YU-NO_在這世界盡頭詠唱愛的少女)转换而来。
+
+
 是[élf公司在](https://zh.wikipedia.org/wiki/élf "wikilink")1996年12月26日發售的[文字冒險類型](https://zh.wikipedia.org/wiki/文字冒險 "wikilink")[美少女](../Page/美少女遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。遊戲曾兩度改篇為動畫；4集的成人動畫版在1998年由Pink Pineapple發售\[2\]，電視動畫版則在2019年4月2日開始播放，預計撥放26集\[3\]\[4\]。
 
 2014年1月[MAGES.從élf公司取得版權後於同年](../Page/5pb..md "wikilink")12月28日宣布重製版企劃\[5\]，2017年3月16日在[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita平台上推出重製版遊戲](../Page/PlayStation_Vita.md "wikilink")，由旗下團隊ASADA PROJECTS負責製作\[6\]。

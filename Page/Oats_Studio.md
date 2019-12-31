@@ -1,3 +1,6 @@
+> 本文内容由[Oats Studio](https://zh.wikipedia.org/wiki/Oats_Studio)转换而来。
+
+
 **Oats Studio**是一間由[南非導演](https://zh.wikipedia.org/wiki/南非 "wikilink")[尼爾·布洛姆坎普於](https://zh.wikipedia.org/wiki/尼爾·布洛姆坎普 "wikilink")2017年起創立的[美國製片公司](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 該公司最早是從2017年起，由布洛姆坎普宣布創立的，並確認將會推出一系列實驗性短片和其他內容；該短片都會在[YouTube](../Page/YouTube.md "wikilink")上免費供人觀看，並讓用戶透過[Steam](../Page/Steam.md "wikilink")來付費下載其素材和相關產品\[1\]。Oats Studios的目標是製作許多原創和有趣內容的短片，最終來衡量是否製作成完整的電影和系列作品\[2\]。

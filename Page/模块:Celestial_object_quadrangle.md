@@ -1,3 +1,6 @@
+> 本文内容由[模块:Celestial object quadrangle](https://zh.wikipedia.org/wiki/模块:Celestial_object_quadrangle)转换而来。
+
+
 \-- This module implements/replaces -- [Template:Lunar quadrangle](https://zh.wikipedia.org/wiki/Template:Lunar_quadrangle "wikilink") -- [Template:Mars quadrangle](https://zh.wikipedia.org/wiki/Template:Mars_quadrangle "wikilink") -- [Template:Mercury quadrangle category](https://zh.wikipedia.org/wiki/Template:Mercury_quadrangle_category "wikilink") -- [Template:Venus quadrangle](https://zh.wikipedia.org/wiki/Template:Venus_quadrangle "wikilink") local p = {} -- 月球區 local function moonquad(lat, lon)
 
 `   local function LQ(n)`

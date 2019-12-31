@@ -1,3 +1,6 @@
+> 本文内容由[ORCID](https://zh.wikipedia.org/wiki/ORCID)转换而来。
+
+
 **开放的研究员和贡献者ID**（，简称**ORCID**）是一种非[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")，用以唯一性识别[科学家](../Page/科学家.md "wikilink")及其他[学术作者和贡献者](https://zh.wikipedia.org/wiki/学术作者 "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。此地址簿要解决的问题是，特定作者在或[出版物](../Page/出版物.md "wikilink")上的[人名](../Page/人名.md "wikilink")可能不唯一而难以识别，它们可能改变（如因[婚姻](../Page/婚姻.md "wikilink")）、顺序上有文化的差异、对不同的部分缩写，以及使用不同的[文字](../Page/文字.md "wikilink")系统。它为一个[人](../Page/人.md "wikilink")提供一个持久的身份，类似为数字网络上的内容相关实体创建[数字对象标识符](../Page/DOI.md "wikilink")（DOI）\[6\]。
 
 ORCID组织提供一个开放、独立的注册表，旨在成为研究和[学术出版](../Page/学术出版.md "wikilink")领域中贡献者识别的[事实标准](https://zh.wikipedia.org/wiki/事实标准 "wikilink")。2012年10月16日，ORCID启动其注册服务\[7\]\[8\]，并开始发布用户标识符\[9\]。

@@ -1,4 +1,4 @@
-> 本文内容由[蒂亞 \(AV女優\)](https://zh.wikipedia.org/wiki/蒂亞 \(AV女優\))转换而来。
+> 本文内容由[蒂亞 \(AV女優\)](https://zh.wikipedia.org/wiki/蒂亞_\(AV女優\))转换而来。
 
 
 **蒂亞**（，），[沖繩縣](../Page/沖繩縣.md "wikilink")出道的[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")。是[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本](../Page/日本.md "wikilink")[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")。曾是[S1所屬女優](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")，曾是[E-BODY專屬女優](https://zh.wikipedia.org/wiki/E-BODY "wikilink")，現為專屬女優。隸屬於[Mine's事務所](https://zh.wikipedia.org/wiki/Mine's "wikilink")\[1\]。

@@ -1,4 +1,4 @@
-> 本文内容由[Only you \(遊戲\)](https://zh.wikipedia.org/wiki/Only you \(遊戲\))转换而来。
+> 本文内容由[Only you \(遊戲\)](https://zh.wikipedia.org/wiki/Only_you_\(遊戲\))转换而来。
 
 
 是[ALICESOFT](../Page/ALICESOFT.md "wikilink")在1996年1月1日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，2001年7月26日發售重製版《**Only you -Re Cross-**》（Only you -リ・クルス-）。\[3\]\[4\]2002年10月31日由GeneX發售重製版的[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《**Only you -熱鬥學園-**》（Only you -リベルクルス-）。\[5\]

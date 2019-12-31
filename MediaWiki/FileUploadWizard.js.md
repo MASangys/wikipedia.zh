@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:FileUploadWizard.js](https://zh.wikipedia.org/wiki/MediaWiki:FileUploadWizard.js)转换而来。
+
+
 /\*
 
   - \===============================================================

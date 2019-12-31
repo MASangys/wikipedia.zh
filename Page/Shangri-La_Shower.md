@@ -1,3 +1,6 @@
+> 本文内容由[Shangri-La Shower](https://zh.wikipedia.org/wiki/Shangri-La_Shower)转换而来。
+
+
 **《Shangri-La Shower》**是[μ's的单曲](https://zh.wikipedia.org/wiki/μ's "wikilink")，于2014年10月1日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Nextbit](https://zh.wikipedia.org/wiki/Nextbit)转换而来。
+
+
 **Nextbit**（全稱：**Nextbit Systems Inc.**）是[美國的科技公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，成立於2013年。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 歷史

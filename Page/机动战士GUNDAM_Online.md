@@ -1,4 +1,4 @@
-> 本文内容由[机动战士GUNDAM Online](https://zh.wikipedia.org/wiki/机动战士GUNDAM Online)转换而来。
+> 本文内容由[机动战士GUNDAM Online](https://zh.wikipedia.org/wiki/机动战士GUNDAM_Online)转换而来。
 
 
 是[BANDAI NAMCO Online开发的一款](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Online "wikilink")[大型多人在线第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏#大型多人在线第三人称射击游戏 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Lovelyz Diary](https://zh.wikipedia.org/wiki/Lovelyz_Diary)转换而来。
+
+
 **Lovelyz Diary**（韓語：러블리즈 다이어리）是一系列由[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Lovelyz出演的](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")[綜藝及](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")。節目中將展現[Lovelyz各種不同的各種面貌](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
 
 ## 第一季 （Lovelyz Diary）

@@ -1,3 +1,6 @@
+> 本文内容由[Dunia引擎](https://zh.wikipedia.org/wiki/Dunia引擎)转换而来。
+
+
 **Dunia引擎**，是由[育碧蒙特利尔](../Page/育碧蒙特利尔.md "wikilink")开发的[游戏引擎](../Page/游戏引擎.md "wikilink")，用来创建《[極地戰嚎](https://zh.wikipedia.org/wiki/極地戰嚎 "wikilink")》系列游戏。它基于 [CryEngine1](../Page/CryENGINE.md "wikilink")，并经过大量修改，最终被用于《[極地戰嚎2](../Page/極地戰嚎2.md "wikilink")》，其中只保留了CryEngine1里2-3%的代码。\[1\] 一个经过改进和修改的版本被用于《[阿凡达](../Page/阿凡达.md "wikilink")（遊戲）》。
 
 《極地戰嚎2》的植被技术也被用于《[刺客教條2](https://zh.wikipedia.org/wiki/刺客教條2 "wikilink")》和《[刺客教條：兄弟会](../Page/刺客教條：兄弟會.md "wikilink")》，虽然这些游戏没有使用Dunia引擎，而是使用[Anvil引擎](../Page/Anvil引擎.md "wikilink")。\[2\]

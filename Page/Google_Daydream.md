@@ -1,3 +1,6 @@
+> 本文内容由[Google Daydream](https://zh.wikipedia.org/wiki/Google_Daydream)转换而来。
+
+
 **Daydream**（意为“白日梦”）是一个[虚拟现实](../Page/虚拟现实.md "wikilink")（VR）平台，由[Google](../Page/Google.md "wikilink")为第七代[Android](../Page/Android.md "wikilink")移动操作系统——[Android Nougat开发](../Page/Android_Nougat.md "wikilink")\[1\]\[2\]。最初于2016年5月举行的[Google I/O开发者大会上宣布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[3\]\[4\]，首款VR头设在2016年11月10日推出\[5\]。
 
 与Google的第一代VR平台[Google Cardboard不同](../Page/Google_Cardboard.md "wikilink")，Daydream自[Android 7.1 Nougat起便集成在](../Page/Android_Nougat.md "wikilink")[Android](../Page/Android.md "wikilink")操作系统中。Daydream平台规范包括软件和硬件两方面，与之兼容的手机标识为“Daydream-ready”。

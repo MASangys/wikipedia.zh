@@ -1,4 +1,4 @@
-> 本文内容由[MAN WITH A MISSION](https://zh.wikipedia.org/wiki/MAN WITH A MISSION)转换而来。
+> 本文内容由[MAN WITH A MISSION](https://zh.wikipedia.org/wiki/MAN_WITH_A_MISSION)转换而来。
 
 
 **MAN WITH A MISSION**（）是[日本](../Page/日本.md "wikilink")一個搖滾樂團，隸屬於Sony Music Records，事務所為shibuya eggman。官方設定為樂團由五名狼頭人身的究極生命體組成\[1\]\[2\]。樂團名的意思是「背負使命的男人」\[3\]，樂團簡稱**MWAM**。此外，樂團已在各大媒體上被稱為「**狼人樂團**（）」。

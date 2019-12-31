@@ -1,4 +1,4 @@
-> 本文内容由[TABOO TATTOO－禁忌咒紋－](https://zh.wikipedia.org/wiki/TABOO TATTOO－禁忌咒紋－)转换而来。
+> 本文内容由[TABOO TATTOO－禁忌咒紋－](https://zh.wikipedia.org/wiki/TABOO_TATTOO－禁忌咒紋－)转换而来。
 
 
 《**TABOO TATTOO－禁忌咒紋－**》（）是一部由真所作的漫畫作品，於2010年1月開始在[KADOKAWA](../Page/KADOKAWA.md "wikilink")的[月刊Comic Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。

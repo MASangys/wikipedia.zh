@@ -1,3 +1,6 @@
+> 本文内容由[Mapillary](https://zh.wikipedia.org/wiki/Mapillary)转换而来。
+
+
 **Mapillary**是一個由位於[瑞典](../Page/瑞典.md "wikilink")[马尔默](../Page/马尔默.md "wikilink")的Mapillary AB開發，用來分享含有地理標記照片的服務。其建立者想要利用[众包](../Page/众包.md "wikilink")的方式來把整個世界（不僅是街道）以照片的形式儲存。
 
 ## 背景
@@ -45,27 +48,17 @@ Mapillary計畫透過將其使用者生成的資料授權給其他公司使用�
 
   - [OSM wiki上的Mapillary](http://wiki.openstreetmap.org/wiki/Mapillary)
 
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:2014年建立的网站](https://zh.wikipedia.org/wiki/Category:2014年建立的网站 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:街景地图](https://zh.wikipedia.org/wiki/Category:街景地图 "wikilink") [Category:開放街圖](https://zh.wikipedia.org/wiki/Category:開放街圖 "wikilink") [Category:2014年瑞典建立](https://zh.wikipedia.org/wiki/Category:2014年瑞典建立 "wikilink")
+[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:2014年建立的网站](https://zh.wikipedia.org/wiki/Category:2014年建立的网站 "wikilink") [Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:街景地图](https://zh.wikipedia.org/wiki/Category:街景地图 "wikilink") [Category:開放街圖](https://zh.wikipedia.org/wiki/Category:開放街圖 "wikilink") [Category:2014年瑞典建立](https://zh.wikipedia.org/wiki/Category:2014年瑞典建立 "wikilink") [Category:路線規劃軟體](https://zh.wikipedia.org/wiki/Category:路線規劃軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.   Legal|url = [http://www.mapillary.com/legal.html|accessdate](http://www.mapillary.com/legal.html%7Caccessdate) = 2015-07-21|first = Mapillary AB,|last = Sweden}}
-
 8.
-
 9.
 10.
-
 11.
-
 12.

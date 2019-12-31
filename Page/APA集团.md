@@ -1,3 +1,6 @@
+> 本文内容由[APA集团](https://zh.wikipedia.org/wiki/APA集团)转换而来。
+
+
 **APA集团株式会社**（APA集团，）是一家以[城市发展和](../Page/城市规划.md "wikilink")为主业的公司，旗下经营有APA酒店等\[1\]。总部位于日本[東京都](../Page/東京都.md "wikilink")[港区](../Page/港區_\(東京都\).md "wikilink")[赤坂](../Page/赤坂.md "wikilink")\[2\]，本店登记于[石川县](../Page/石川縣.md "wikilink")[金泽市](../Page/金澤市.md "wikilink")\[3\]。
 
 ## 历史

@@ -1,4 +1,4 @@
-> 本文内容由[模块:Infobox VG awards](https://zh.wikipedia.org/wiki/模块:Infobox VG awards)转换而来。
+> 本文内容由[模块:Infobox VG awards](https://zh.wikipedia.org/wiki/模块:Infobox_VG_awards)转换而来。
 
 
 require('Module:No globals')

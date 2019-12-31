@@ -1,4 +1,4 @@
-> 本文内容由[Monster \(電視劇\)](https://zh.wikipedia.org/wiki/Monster \(電視劇\))转换而来。
+> 本文内容由[Monster \(電視劇\)](https://zh.wikipedia.org/wiki/Monster_\(電視劇\))转换而来。
 
 
 《**Monster**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月28日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。由《[百年遺產](../Page/百年遺產.md "wikilink")》、《[湔雪的魔女](../Page/湔雪的魔女.md "wikilink")》[朱成宇导演和](https://zh.wikipedia.org/wiki/朱成宇 "wikilink")《[Giant](https://zh.wikipedia.org/wiki/Giant "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》[張英哲](../Page/張英哲.md "wikilink")、[鄭景順作家攜手合作](../Page/鄭景順_\(編劇\).md "wikilink")。講述深受姨父陷害的男人在各種困境中，最終收穫愛情的故事。\[1\]

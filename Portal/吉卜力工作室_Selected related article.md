@@ -1,4 +1,4 @@
-> 本文内容由[Portal:吉卜力工作室/Selected related article](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected related article)转换而来。
+> 本文内容由[Portal:吉卜力工作室/Selected related article](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected_related_article)转换而来。
 
 
 ## 用法

@@ -1,3 +1,6 @@
+> 本文内容由[YES!! \(大橋彩香單曲\)](https://zh.wikipedia.org/wiki/YES!!_\(大橋彩香單曲\))转换而来。
+
+
 《**YES\!\!**》是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[大橋彩香](../Page/大橋彩香.md "wikilink")的個人出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2014年8月6日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 解說

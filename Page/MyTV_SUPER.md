@@ -1,4 +1,4 @@
-> 本文内容由[MyTV SUPER](https://zh.wikipedia.org/wiki/MyTV SUPER)转换而来。
+> 本文内容由[MyTV SUPER](https://zh.wikipedia.org/wiki/MyTV_SUPER)转换而来。
 
 
 是香港[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下MyTV Super Limited於2016年3月成立的收費[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，於同月15日起測試，4月18日正式推出\[1\]，初期提供[流動應用程式](../Page/流動應用程式.md "wikilink")版及[解碼器版](https://zh.wikipedia.org/wiki/解碼器 "wikilink")。2017年2月，myTV SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕同時睇功能配對手機、平板電腦及網頁觀看）。2017年3月，無綫電視宣佈平台用戶數量達至三百萬；2017年4月17日開始接受香港市民訂購至尊版，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入。；2019年4月1日開始接受香港市民訂購myTV Gold，除了基本版頻道，也增加更多組合（包括[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") Movie、[beIN SPORTS頻道組合及](https://zh.wikipedia.org/wiki/beIN_Sports "wikilink")[Discovery頻道組合](https://zh.wikipedia.org/wiki/Discovery "wikilink")）和點播組合加入。2019年9月1日起，myTV SUPER全新頻道[myTV SUPER 18台正式登陸](https://zh.wikipedia.org/wiki/myTV_SUPER_18台 "wikilink")，提供全面本地賽馬資訊，從馬圈消息、晨操片段、賽前分析、至賽事直播和賽後檢討都一一涵蓋。myTV SUPER更增設「賽馬」專區，提供貼士、賽事、預測及策略等賽馬資訊。

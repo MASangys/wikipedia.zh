@@ -1,3 +1,6 @@
+> 本文内容由[模块:WikidataIB](https://zh.wikipedia.org/wiki/模块:WikidataIB)转换而来。
+
+
 \-- Module to implement use of a blacklist and whitelist for infobox fields -- Can take a named parameter |qid which is the Wikidata ID for the article -- if not supplied, it will use the Wikidata ID associated with the current page. -- Fields in blacklist are never to be displayed, i.e. module must return nil in all circumstances -- Fields in whitelist return local value if it exists or the Wikidata value otherwise -- The name of the field that this function is called from is passed in named parameter |name -- The name is compulsory when blacklist or whitelist is used, -- so the module returns nil if it is not supplied. -- blacklist is passed in named parameter |suppressfields (or |spf) -- whitelist is passed in named parameter |fetchwikidata (or |fwd)
 
 local p = {}

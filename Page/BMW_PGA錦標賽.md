@@ -1,4 +1,4 @@
-> 本文内容由[BMW PGA錦標賽](https://zh.wikipedia.org/wiki/BMW PGA錦標賽)转换而来。
+> 本文内容由[BMW PGA錦標賽](https://zh.wikipedia.org/wiki/BMW_PGA錦標賽)转换而来。
 
 
 **BMW PGA錦標賽**（BMW PGA Championship）是高爾夫歐洲巡迴賽的一項賽事。BMW PGA錦標賽開始於1955年，最早的名稱是英國PGA錦標賽（British PGA Championship）。賽事固定在每年五月於英格蘭瑟里的Wentworth Club西球場舉行\[1\]。冠軍可以獲得這個球季的美國公開賽和之後三年的英國公開賽的出場權。

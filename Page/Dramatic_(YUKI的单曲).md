@@ -1,3 +1,6 @@
+> 本文内容由[Dramatic \(YUKI的单曲\)](https://zh.wikipedia.org/wiki/Dramatic_\(YUKI的单曲\))转换而来。
+
+
 \-{「}-**Dramatic**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")11张单曲。
 
 ## 简介

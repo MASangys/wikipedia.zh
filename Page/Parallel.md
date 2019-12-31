@@ -1,3 +1,6 @@
+> 本文内容由[Parallel](https://zh.wikipedia.org/wiki/Parallel)转换而来。
+
+
 《**PARALLEL**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第五張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2017年8月1日推出，共有8首歌曲，主打歌為《LOVE WHISPER (귀를 기울이면)》，這張專輯的改版於2017年9月13日推出，命名為《**Rainbow**》，主打歌為《Summer Rain (여름비)》。
 
 ## 《PARALLEL》

@@ -1,4 +1,4 @@
-> 本文内容由[模块:Article history](https://zh.wikipedia.org/wiki/模块:Article history)转换而来。
+> 本文内容由[模块:Article history](https://zh.wikipedia.org/wiki/模块:Article_history)转换而来。
 
 
 -----

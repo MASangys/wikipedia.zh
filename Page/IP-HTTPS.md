@@ -1,3 +1,6 @@
+> 本文内容由[IP-HTTPS](https://zh.wikipedia.org/wiki/IP-HTTPS)转换而来。
+
+
 **IP基于HTTPS**（，或**IP-HTTPS**、**MS-IPHTTPS**）是一个[微软](../Page/微软.md "wikilink")的[隧道协议](../Page/隧道协议.md "wikilink")。IP-HTTPS协议与早期的[6to4](../Page/6to4.md "wikilink")和[Teredo隧道](../Page/Teredo隧道.md "wikilink")机制类似，它使[IPv6](../Page/IPv6.md "wikilink")数据包可以在非IPv6网络上传输。
 
 ## 微软对过渡协议的偏好

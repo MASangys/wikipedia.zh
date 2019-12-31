@@ -1,4 +1,4 @@
-> 本文内容由[Carbon Black](https://zh.wikipedia.org/wiki/Carbon Black)转换而来。
+> 本文内容由[Carbon Black](https://zh.wikipedia.org/wiki/Carbon_Black)转换而来。
 
 
 **Carbon Black**（原名“**Bit9**”）是一家成立于2002年的[计算机安全](../Page/计算机安全.md "wikilink")公司，总部位于美国[麻薩諸塞州](../Page/麻薩諸塞州.md "wikilink")[沃尔瑟姆](../Page/沃尔瑟姆_\(马萨诸塞州\).md "wikilink")\[1\]。公司主要提供终端防护产品，检测恶意行为并阻止来自恶意文件攻击\[2\]。

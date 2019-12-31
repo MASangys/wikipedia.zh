@@ -1,4 +1,4 @@
-> 本文内容由[Gewehr 98步槍](https://zh.wikipedia.org/wiki/Gewehr 98步槍)转换而来。
+> 本文内容由[Gewehr 98步槍](https://zh.wikipedia.org/wiki/Gewehr_98步槍)转换而来。
 
 
 **Gewehr 98步槍**（又稱：G98、Gew 98、毛瑟M1898或M98），是德國毛瑟槍廠在德國軍方採用[Gewehr 88步槍後](../Page/Gewehr_88步槍.md "wikilink")，為了奪回在德國槍械市場的地位而研製的步槍。該槍發射[7.92×57mm毛瑟步槍子彈](https://zh.wikipedia.org/wiki/7.92×57mm毛瑟 "wikilink")，其內置彈倉能裝彈5發。Gew 98在1898年到1935年間為[德國軍隊的制式步槍](https://zh.wikipedia.org/wiki/德國軍隊 "wikilink")，直到它在1935年被[毛瑟Kar98k步槍](../Page/毛瑟Kar98k步槍.md "wikilink")取代為止。Gew 98的出現成功地取代了在德軍服役的[Gewehr 88步槍](../Page/Gewehr_88步槍.md "wikilink")，並首次在[義和團之亂中投入使用](https://zh.wikipedia.org/wiki/義和團之亂 "wikilink")，也是德軍在[第一次世界大戰中使用的主力步槍](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")。該槍也成功地出口到多個國家，包括：[中國](../Page/中國.md "wikilink")、[奧斯曼帝國和](https://zh.wikipedia.org/wiki/奧斯曼帝國 "wikilink")[西班牙](../Page/西班牙.md "wikilink")等。而在[第二次世界大戰期間它亦有被](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")的[人民衝鋒隊所使用](https://zh.wikipedia.org/wiki/人民衝鋒隊 "wikilink")。

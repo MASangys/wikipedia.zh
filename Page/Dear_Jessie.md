@@ -1,4 +1,4 @@
-> 本文内容由[Dear Jessie](https://zh.wikipedia.org/wiki/Dear Jessie)转换而来。
+> 本文内容由[Dear Jessie](https://zh.wikipedia.org/wiki/Dear_Jessie)转换而来。
 
 
 《**親愛的潔西**》（）是美國女歌手[瑪丹娜在](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")1989年12月發行的歌曲，這是她第四張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《**[宛如祈禱者](https://zh.wikipedia.org/wiki/Like_a_Prayer "wikilink")**》（）中所推出的第五首單曲，該單曲只在英國地區獨立發行。

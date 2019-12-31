@@ -1,3 +1,6 @@
+> 本文内容由[澳門巴士N1A路線](https://zh.wikipedia.org/wiki/澳門巴士N1A路線)转换而来。
+
+
 **澳巴N1A路線**，由**[澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")**經營，往返**[筷子基北灣](https://zh.wikipedia.org/wiki/沙梨頭北街／筷子基北灣總站 "wikilink")**和**[亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地公共巴士轉乘區 "wikilink")**的夜間循環巴士路線。
 
 ## 歷史
@@ -68,6 +71,10 @@
 |   22    |                                                 M19 白朗古將軍馬路                                                  |
 |   23    |                                                 M21 青洲／嘉應花園                                                  |
 |   24    |                            M95/3 [沙梨頭北街／筷子基北灣](../Page/沙梨頭北街／筷子基北灣.md "wikilink")                            |
+
+## 圖片集
+
+<File:TCM> ML7490 N1A.JPG|五洲龍FDG6920BG <File:TCM> 3116 N1A.jpg|宇通ZK6115HG1
 
 ## 參考資料
 

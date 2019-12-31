@@ -1,3 +1,6 @@
+> 本文内容由[雷電V](https://zh.wikipedia.org/wiki/雷電V)转换而来。
+
+
 是2016年MOSS開發的日系[卷轴射擊遊戲](https://zh.wikipedia.org/wiki/卷轴射擊遊戲 "wikilink")，[雷電系列正統第六作](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")，2016年2月25日在[Xbox One發售](../Page/Xbox_One.md "wikilink")。\[1\]2017年9月14日在[PlayStation 4平台發售](../Page/PlayStation_4.md "wikilink")\[2\]，2017年10月10日發售Windows版，2019年7月25日在[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台發售。\[3\]
 
 ## 系統

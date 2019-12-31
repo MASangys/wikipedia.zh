@@ -1,4 +1,4 @@
-> 本文内容由[Chop Suey! \(歌曲\)](https://zh.wikipedia.org/wiki/Chop Suey! \(歌曲\))转换而来。
+> 本文内容由[Chop Suey! \(歌曲\)](https://zh.wikipedia.org/wiki/Chop_Suey!_\(歌曲\))转换而来。
 
 
 "**Chop Suey\!**" 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[墮落體制的第二張專輯](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")[Toxicity的第一張](../Page/Toxicity_\(專輯\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2001年8月正式發行。此首贏得了樂隊的第一個[格萊美獎提名](https://zh.wikipedia.org/wiki/格萊美獎 "wikilink")，因此往往被視為樂隊的招牌歌曲。歌曲原名叫-自殺(Suicide) ，為了能在電子媒體播放改成-雜碎(Chop Suey\!)。歌詞運用[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")[福音中](https://zh.wikipedia.org/wiki/福音 "wikilink")，[耶穌被釘十字架](../Page/耶穌被釘十字架.md "wikilink")上死前最後說的七句話，其中的話語。

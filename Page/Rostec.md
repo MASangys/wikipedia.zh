@@ -1,3 +1,6 @@
+> 本文内容由[Rostec](https://zh.wikipedia.org/wiki/Rostec)转换而来。
+
+
 *'Rostec **（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Ростех；[俄語羅馬化](https://zh.wikipedia.org/wiki/俄語羅馬化 "wikilink")，Rostekh），全名為**協助開發生產與出口先進技術工業產品國營事業«Rostec»**（俄語：Государственная корпорация по содействию разработке, производству и экспорту высокотехнологичной промышленной продукции «Ростех»；英語：State Corporation for Assistance to Development, Production and Export of Advanced Technology Industrial Product «Rostec»），舊稱**Rostekhnologii*'（俄語：Ростехнологии，意為「俄羅斯技術」），是一家[俄罗斯](../Page/俄罗斯.md "wikilink")国有集团，其宗旨是促进民用军用[高科技工业产品的研发](https://zh.wikipedia.org/wiki/高科技 "wikilink")、制造和出口，创立于2007年。
 
 俄罗斯技术集团Rostec包括由700家企业组成的14家控股公司：11家[国防工业领域的控股公司](https://zh.wikipedia.org/wiki/国防工业 "wikilink")，3家民用领域的控股公司。\[1\]其所屬企业遍布在俄罗斯60个联邦主体，向世界70多个国家出口产品。\[2\]

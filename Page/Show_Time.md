@@ -1,4 +1,4 @@
-> 本文内容由[Show Time](https://zh.wikipedia.org/wiki/Show Time)转换而来。
+> 本文内容由[Show Time](https://zh.wikipedia.org/wiki/Show_Time)转换而来。
 
 
 《**Show Time**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")的首張國語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2003年12月5日推出，也是他自[四大天王及](../Page/四大天王_\(團體\).md "wikilink")[羅密歐解散後加盟](../Page/羅密歐_\(團體\).md "wikilink")[愛貝克思的首張大碟](../Page/愛貝克思_\(台灣\).md "wikilink")。

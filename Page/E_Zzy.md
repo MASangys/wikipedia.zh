@@ -1,3 +1,6 @@
+> 本文内容由[E Zzy](https://zh.wikipedia.org/wiki/E_Zzy)转换而来。
+
+
 **E Zzy**樂團成立於2010春天。 由日籍音樂製作人- 金木義則(Kaneki Yoshinori)透過河岸留言Open Jam發掘來自不同音樂背景之年輕菁英樂手，籌組成混合曲風( Fusion)演奏樂團。
 
 「E Zzy」的音樂組成元素包含 Jazz、Rock 、Metal、Electronic、Classical…；融合了爵士搖滾、古典金屬的Fusion & Funky型式；將樂器的演奏以更多變的型式融合呈現。\[1\]

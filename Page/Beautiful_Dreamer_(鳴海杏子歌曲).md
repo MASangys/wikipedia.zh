@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful Dreamer \(鳴海杏子歌曲\)](https://zh.wikipedia.org/wiki/Beautiful_Dreamer_\(鳴海杏子歌曲\))转换而来。
+
+
 《**Beautiful Dreamer**》（）是[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")[鳴海杏子](../Page/鳴海杏子.md "wikilink")的首張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。ENA☆作詞、作曲。2013年11月6日由[Earth Star Records發行](https://zh.wikipedia.org/wiki/Earth_Star_Entertainment#音樂事業 "wikilink")。
 
 ## 背景、音樂性

@@ -1,4 +1,4 @@
-> 本文内容由[ONE PIECE 梅利特別篇〜另一位夥伴的故事〜](https://zh.wikipedia.org/wiki/ONE PIECE 梅利特別篇〜另一位夥伴的故事〜)转换而来。
+> 本文内容由[ONE PIECE 梅利特別篇〜另一位夥伴的故事〜](https://zh.wikipedia.org/wiki/ONE_PIECE_梅利特別篇〜另一位夥伴的故事〜)转换而来。
 
 
 《**ONE PIECE 梅利特別篇〜另一位夥伴的故事〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2013年8月24日在日本播出。

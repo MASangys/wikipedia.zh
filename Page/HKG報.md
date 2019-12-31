@@ -1,3 +1,6 @@
+> 本文内容由[HKG報](https://zh.wikipedia.org/wiki/HKG報)转换而来。
+
+
 《**HKG報**》是一家立場親[激進建制派](../Page/激進建制派.md "wikilink")的[香港媒體](https://zh.wikipedia.org/wiki/香港媒體 "wikilink")，於2015年由建制派政治組織「[幫港出聲](https://zh.wikipedia.org/wiki/幫港出聲 "wikilink")」召集人[周融](../Page/周融.md "wikilink")所創辦\[1\]\[2\]。據周融解釋，「HKG」可解作「Hong Kong Good」或「Hong Kong Great」，可譯做「香港好」或「香港偉大」\[3\]。
 
 ## 背景

@@ -1,4 +1,4 @@
-> 本文内容由[模块:Pop density](https://zh.wikipedia.org/wiki/模块:Pop density)转换而来。
+> 本文内容由[模块:Pop density](https://zh.wikipedia.org/wiki/模块:Pop_density)转换而来。
 
 
 \-- -- This module implements  -- local p = {} local math_module = require( "Module:Math" ) local precision = math_module._precision

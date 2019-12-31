@@ -1,4 +1,4 @@
-> 本文内容由[SM STATION](https://zh.wikipedia.org/wiki/SM STATION)转换而来。
+> 本文内容由[SM STATION](https://zh.wikipedia.org/wiki/SM_STATION)转换而来。
 
 
 「**SM STATION**」為[SM娛樂](../Page/SM娛樂.md "wikilink")跳脫傳統專輯發行方式，以1年52週，每週推出全新數位單曲，並透過與多方藝人、製作人、作曲家合作，進行品牌與品牌之間交流，發行音樂作品的計畫\[1\]。

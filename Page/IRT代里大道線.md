@@ -1,3 +1,6 @@
+> 本文内容由[IRT代里大道線](https://zh.wikipedia.org/wiki/IRT代里大道線)转换而来。
+
+
 **代里大道線**（）是一條[紐約地鐵路線](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")，（[IRT](../Page/跨區捷運公司.md "wikilink")）一部分。此線是[IRT白原路線](../Page/IRT白原路線.md "wikilink")在[布朗克斯](../Page/布朗克斯.md "wikilink")東北段[東180街以北的支線](https://zh.wikipedia.org/wiki/東180街車站_\(IRT白原路線\) "wikilink")。截至2013年每日有34,802人次乘搭\[1\]。
 
 此線是最後遺存的路段。

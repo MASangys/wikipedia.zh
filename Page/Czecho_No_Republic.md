@@ -1,4 +1,4 @@
-> 本文内容由[Czecho No Republic](https://zh.wikipedia.org/wiki/Czecho No Republic)转换而来。
+> 本文内容由[Czecho No Republic](https://zh.wikipedia.org/wiki/Czecho_No_Republic)转换而来。
 
 
 **Czecho No Republic**（チェコ・ノー・リパブリック）是一個[日本](../Page/日本.md "wikilink")的[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。現在的成員有武井優心、ロマンス（ex.山崎正太郎）、八木類、砂川一黄、タカハシマイ五個人。所屬唱片公司是[日本古倫美亞](../Page/日本古倫美亞.md "wikilink") 。

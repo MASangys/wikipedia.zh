@@ -1,4 +1,4 @@
-> 本文内容由[FILM LOTUS Ⅵ](https://zh.wikipedia.org/wiki/FILM LOTUS Ⅵ)转换而来。
+> 本文内容由[FILM LOTUS Ⅵ](https://zh.wikipedia.org/wiki/FILM_LOTUS_Ⅵ)转换而来。
 
 
 《**FILM LOTUS Ⅵ**》，日本女歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的第六張音樂錄影帶選集。2007年8月22日發行。

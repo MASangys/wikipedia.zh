@@ -1,4 +1,4 @@
-> 本文内容由[Vicarious Visions](https://zh.wikipedia.org/wiki/Vicarious Visions)转换而来。
+> 本文内容由[Vicarious Visions](https://zh.wikipedia.org/wiki/Vicarious_Visions)转换而来。
 
 
 **Vicarious Visions**，是美国游戏开发商，总部设在纽约州梅纳兹。该工作室是由兄弟Karthik Bala和Guha Bala于1990年成立，当时他们还在读高中。

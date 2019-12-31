@@ -1,3 +1,6 @@
+> 本文内容由[IP地址欺骗](https://zh.wikipedia.org/wiki/IP地址欺骗)转换而来。
+
+
 [IP_spoofing_en.svg](https://zh.wikipedia.org/wiki/File:IP_spoofing_en.svg "fig:IP_spoofing_en.svg") 在[-{zh-cn:计算机网络; zh-tw:電腦網路;}-里面](../Page/计算机网络.md "wikilink")，**IP地址欺骗**或**IP欺骗**是指带有假的源[IP地址](../Page/IP地址.md "wikilink")的[IP协议](../Page/网际协议.md "wikilink")[分组](https://zh.wikipedia.org/wiki/分组 "wikilink")（数据报），目的是冒充另一个计算系统身份。\[1\] 使发送方可以保持匿名的一种技术是使用[代理服务器](../Page/代理服务器.md "wikilink")。
 
 ## 背景

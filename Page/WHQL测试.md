@@ -1,3 +1,6 @@
+> 本文内容由[WHQL测试](https://zh.wikipedia.org/wiki/WHQL测试)转换而来。
+
+
 **Windows硬件质量实验室测试**（），简称**WHQL测试，**是对所涉及的第三方[硬件](../Page/硬件.md "wikilink")或[软件](../Page/软件.md "wikilink")进行一系列测试，然后提交测试的日志文件到[微软](../Page/微软.md "wikilink")供微软审核的一个测试流程。该流程也可能包含微软在各种设备上运行自己的测试，例如不同的硬件和不同的[Microsoft Windows版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 概述

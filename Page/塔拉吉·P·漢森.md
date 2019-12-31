@@ -1,3 +1,6 @@
+> 本文内容由[塔拉吉·P·漢森](https://zh.wikipedia.org/wiki/塔拉吉·P·漢森)转换而来。
+
+
 **塔拉吉·潘妲·漢森**（\[1\]\[2\]， ，）\[3\]\[4\]是一名美國女演員兼歌手。其於[霍華德大學修習演藝課程](https://zh.wikipedia.org/wiki/霍華德大學 "wikilink")，並展開[好萊塢事業](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。2016年，〈[時代雜誌](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")〉將其評選為[時代百大人物之一](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。
 
 2005年因演出《[班傑明的奇幻旅程](../Page/奇幻逆緣.md "wikilink")》而入圍了[奧斯卡金像獎](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")[最佳女配角以及](https://zh.wikipedia.org/wiki/奧斯卡最佳女配角獎 "wikilink")[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")[最佳女配角](https://zh.wikipedia.org/wiki/美國演員工會獎最佳女配角 "wikilink")。2011年憑《》首次獲[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")提名；2011年至2013年間，參與了[CBS電視劇](../Page/CBS_\(電視網\).md "wikilink")《[疑犯追蹤](https://zh.wikipedia.org/wiki/疑犯追蹤 "wikilink")》的演出；2015年主演了[FOX人氣劇](../Page/福斯廣播公司.md "wikilink")《[嘻哈帝國](https://zh.wikipedia.org/wiki/嘻哈帝國 "wikilink")》，並獲得評論家的好評，更奪得[第73屆金球獎最佳電視劇情類影集女演員獎及](https://zh.wikipedia.org/wiki/第73屆金球獎 "wikilink")劇情類影集最佳女演員獎，同時入圍了兩屆黃金時段艾美獎最佳劇情類影集女主角獎。2017年憑《[關鍵少數](https://zh.wikipedia.org/wiki/隱藏人物 "wikilink")》獲得首座[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")。

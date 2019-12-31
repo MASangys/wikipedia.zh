@@ -1,3 +1,6 @@
+> 本文内容由[H·R·麥克馬斯特](https://zh.wikipedia.org/wiki/H·R·麥克馬斯特)转换而来。
+
+
 **赫伯特·雷蒙德·“H·R”·麦克马斯特**（Herbert Raymond "H. R." McMaster，）是[美国](../Page/美国.md "wikilink")[陆军中将](../Page/美国陆军.md "wikilink")，曾任[美国总统](../Page/美国总统.md "wikilink")[唐纳德·特朗普的](https://zh.wikipedia.org/wiki/唐纳德·特朗普 "wikilink")[国家安全顾问](../Page/总统国家安全事务助理.md "wikilink")。他目前的军事职务是的主任，以及[美国陆军训练和作战指挥部副总指挥](../Page/美国陆军训练与条令司令部.md "wikilink")。
 
 ## 早期的生活和教育

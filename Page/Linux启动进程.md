@@ -1,3 +1,6 @@
+> 本文内容由[Linux启动进程](https://zh.wikipedia.org/wiki/Linux启动进程)转换而来。
+
+
 **Linux启动进程**是启动Linux时执行的一个复杂的初始化过程。它在很多方面类似于[BSD](../Page/BSD.md "wikilink")系统和别的[类Unix系统](../Page/类Unix系统.md "wikilink")的启动过程。\[1\]\[2\]
 
 启动一个Linux系统涉及到很多阶段和软件组件，包括硬件初始化、执行启动加载程序、加载和启动[Linux内核](../Page/Linux内核.md "wikilink")镜像，和执行很多启动脚本和[守护进程](../Page/守护进程.md "wikilink")。\[3\]对于不同的阶段和组件它们存在不同的变化和途径；比如[GRUB](../Page/GNU_GRUB.md "wikilink")、[LILO](../Page/LILO.md "wikilink")、[SYSLINUX](../Page/SYSLINUX.md "wikilink")或者Loadlin等能被用来当作启动加载器\[4\]，同时启动脚本可以是传统的[init](https://zh.wikipedia.org/wiki/init "wikilink")\[5\]风格，也可以是系统配置能被执行的现代替代方案比如[systemd或](https://zh.wikipedia.org/wiki/systemd "wikilink")[Upstart](../Page/Upstart.md "wikilink")。

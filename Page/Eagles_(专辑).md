@@ -1,3 +1,6 @@
+> 本文内容由[Eagles \(专辑\)](https://zh.wikipedia.org/wiki/Eagles_\(专辑\))转换而来。
+
+
 [Eagles是美國摇滚乐队](../Page/Eagles_\(专辑\).md "wikilink")[Eagles的第一张专辑](../Page/老鹰_\(乐队\).md "wikilink"),1972年5月在伦敦奥林匹克录音室录制，次月发行。该专辑在滚石杂志2012年的500强专辑评选上排名368位。\[1\]
 
 ## 曲目

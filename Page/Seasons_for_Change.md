@@ -1,3 +1,6 @@
+> 本文内容由[Seasons for Change](https://zh.wikipedia.org/wiki/Seasons_for_Change)转换而来。
+
+
 **Seasons for Change** 是一個香港[另類搖滾樂團](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")，來自香港牛頭角的[大業街](https://zh.wikipedia.org/wiki/大業街 "wikilink")，目前與美國獨立音樂廠牌[Famined Records簽約](https://zh.wikipedia.org/wiki/Famined_Records "wikilink")\[1\]。樂團成立時間在2014年，由主音KASA、吉他手Dennis Ho、鼓手Kulo Ming 和貝斯手Wan Tsz Ching 所成立。2015年吉他手Don Chan 的加入，並正式發佈他們的第一首單曲：Rain。歌曲自推出以來己大受好評，所以樂隊於同年正式與澳洲著名搖滾樂隊[Tonight Alive](https://zh.wikipedia.org/wiki/Tonight_Alive "wikilink") 監製 Dave Petrovic 合作灌碌首張專輯《Timeless Collective》，於2016年11月11日由[Famined Records及](https://zh.wikipedia.org/wiki/Famined_Records "wikilink")[Victory Records](https://zh.wikipedia.org/wiki/Victory_Records "wikilink") 發行。
 
 ## 樂團成員

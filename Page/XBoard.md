@@ -1,3 +1,6 @@
+> 本文内容由[XBoard](https://zh.wikipedia.org/wiki/XBoard)转换而来。
+
+
 **XBoard**是一個[X Window系統上的](../Page/X_Window系統.md "wikilink")[圖形化西洋棋棋盤](../Page/图形用户界面.md "wikilink")。它是由[GNU計劃](../Page/GNU計劃.md "wikilink")所開發並維護的[自由软件](../Page/自由软件.md "wikilink")。**WinBoard**是在[Microsoft Windows上原生執行的XBoard移植版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 概覽

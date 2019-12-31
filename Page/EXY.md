@@ -1,3 +1,6 @@
+> 本文内容由[EXY](https://zh.wikipedia.org/wiki/EXY)转换而来。
+
+
 **EXY**（，），本名**秋昭贞**\[1\]\[2\]（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")旗下女子組合[宇宙少女及小分隊](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")**Sweet**組\[3\]成員，在隊中擔任隊長、主Rapper、在每張專輯裡擔任作曲者、作詞者。原預計於2011年以Viva Girls出道，因公司倒閉而告吹，後加入[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")。2016年2月25日以宇宙少女成員身份，發行首張迷你專輯《WOULD YOU LIKE?》正式出道。
 
 ## 经历

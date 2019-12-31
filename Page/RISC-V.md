@@ -1,3 +1,6 @@
+> 本文内容由[RISC-V](https://zh.wikipedia.org/wiki/RISC-V)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Yunsup_Lee_holding_RISC_V_prototype_chip.jpg "fig:缩略图") **RISC-V**（发音为“risk-five”）是一個基于[精简指令集](../Page/精简指令集.md "wikilink")（RISC）原则的[开源](../Page/开源标准.md "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")（ISA），簡易解釋為[開源軟體運動相對應的一種](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")「開源硬體」。该项目2010年始于[加州大學柏克萊分校](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，但许多贡献者是该大学以外的志愿者和行业工作者。
 
 与大多数指令集相比，RISC-V指令集可以自由地用于任何目的，允许任何人[设计](../Page/集成电路设计.md "wikilink")、制造和销售RISC-V[芯片和](../Page/集成电路.md "wikilink")[软件](../Page/软件.md "wikilink")而不必支付給任何公司專利費。虽然这不是第一个开源指令集\[1\]，但它具有重要意义，因为其设计使其适用于现代计算设备（如仓库规模[云计算机](../Page/雲端運算.md "wikilink")、高端[移动电话](../Page/移动电话.md "wikilink")和微小[嵌入式系统](../Page/嵌入式系统.md "wikilink")）。设计者考虑到了这些用途中的性能与功率效率。该指令集还具有众多支持的软件，这解决了新指令集通常的弱点。\[2\]
@@ -42,7 +45,7 @@ OpenRISC是一款基於DLX的開源ISA，並且具有相關的RISC設計。它�
 
 ## 激勵要求
 
-RISC設計者們認為指令集因為位於硬體和軟體之間，所以是電腦主要的溝通橋樑，因此如果有一個設計良好的指令集是開源而且可以被任何人使用的，就可以讓更多的資源能夠重複利用，而大大的減少軟體的成本。而這樣的指令集也會增加硬體供應商市場的競爭，因為硬體供應商們可以挪用更多資源來進行設計，減少處理軟體支援的事務。\[11\]
+RISC設計者們認為指令集因為位於硬體和軟體之間，所以是電腦主要的溝通橋樑，因此如果有一個設計良好的指令集是開源而且可以被任何人使用的，就可以讓更多的資源能夠重複利用，而大大的減少軟體的成本。而這樣的指令集也會增加硬體供應商市場的競爭力，因為硬體供應商們可以挪用更多資源來進行設計，減少處理軟體支援的事務。\[11\]
 
 設計者聲稱在指令集設計領域裡，新的設計準則漸漸變得罕見，而近四十年中，大多數成功的設計變得越來越相似。至於那些失敗的指令集，大多數是因為他們的贊助商賺不了錢，而不是因為其指令集在技術上有多差。所以，一個在成熟的設計準則之下開發且設計良好的開源指令集想必能吸引許多供應商長期的支援。\[12\]
 
@@ -337,27 +340,18 @@ RISC-V 支援多個 CPU 與 thread。其標準記憶體同步模式是「釋放�
 [Category:2010年软件](https://zh.wikipedia.org/wiki/Category:2010年软件 "wikilink") [Category:指令集架構](https://zh.wikipedia.org/wiki/Category:指令集架構 "wikilink") [Category:开源微处理器](https://zh.wikipedia.org/wiki/Category:开源微处理器 "wikilink")
 
 1.  )
-
 2.  [新浪-图灵奖得主加入清華，牵头推动芯片开源](https://t.cj.sina.com.cn/articles/view/5703921756/153faf05c01900gt8p)
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.  [RSIC-V開源CPU殺出](https://technews.tw/2018/11/16/sifive-7-series-cpu-ip-vs-arm/)
-
 8.
 9.
 10.
 11.
-
 12.
 13.
-
 14.
 15.
 16.
@@ -372,9 +366,7 @@ RISC-V 支援多個 CPU 與 thread。其標準記憶體同步模式是「釋放�
 25.
 26.
 27.
-
 28.
 29.
 30.
-
 31.

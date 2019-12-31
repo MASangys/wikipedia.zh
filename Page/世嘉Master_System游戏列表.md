@@ -1,4 +1,4 @@
-> 本文内容由[世嘉Master System游戏列表](https://zh.wikipedia.org/wiki/世嘉Master System游戏列表)转换而来。
+> 本文内容由[世嘉Master System游戏列表](https://zh.wikipedia.org/wiki/世嘉Master_System游戏列表)转换而来。
 
 
 本电子游戏列表列举了[世嘉Master System的](../Page/世嘉Master_System.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。

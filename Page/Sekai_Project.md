@@ -1,4 +1,4 @@
-> 本文内容由[Sekai Project](https://zh.wikipedia.org/wiki/Sekai Project)转换而来。
+> 本文内容由[Sekai Project](https://zh.wikipedia.org/wiki/Sekai_Project)转换而来。
 
 
 **Sekai Project**是一家[美国](../Page/美国.md "wikilink")的[电子游戏](../Page/电子游戏.md "wikilink")发行商，主要将日本的[视觉小说](../Page/视觉小说.md "wikilink")翻译为英语并在日本外发售。此外，也在日本外发行原创英语视觉小说、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、以及非视觉小说类的电子游戏等。

@@ -1,4 +1,4 @@
-> 本文内容由[SNK对卡普空 千年之战](https://zh.wikipedia.org/wiki/SNK对卡普空 千年之战)转换而来。
+> 本文内容由[SNK对卡普空 千年之战](https://zh.wikipedia.org/wiki/SNK对卡普空_千年之战)转换而来。
 
 
 是一款由[Dimps](../Page/Dimps.md "wikilink")制作、[SNK](../Page/SNK.md "wikilink")发行的[格斗类游戏](https://zh.wikipedia.org/wiki/格斗类游戏 "wikilink")。\[1\]本游戏于1999年11月30日在日本地区[Neo Geo Pocket Color平台发行](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")。\[2\]本游戏共包括28位来自SNK和卡普空的角色，其中有8位是隐藏角色。游戏选项包括2人附属队伍和3人队伍，当然还有一对一模式。玩家可以选择卡普空式的级别评价标准，或为SNK式的分数评价标准，或者为“中间式”的增强大招模式。

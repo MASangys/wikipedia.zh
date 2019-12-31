@@ -1,3 +1,6 @@
+> 本文内容由[H-infinity控制](https://zh.wikipedia.org/wiki/H-infinity控制)转换而来。
+
+
 ***H*<sub>∞</sub>**（***H*-infinity**）**控制法**是[控制理論中用來設計](https://zh.wikipedia.org/wiki/控制理論 "wikilink")[控制器](https://zh.wikipedia.org/wiki/控制器 "wikilink")，可以達到穩定性，並且可以保證性能的設計方式。要使用*H*<sub>∞</sub>方法，控制器的設計者需將控制問題表示為[數學最佳化問題](../Page/最优化.md "wikilink")，並且找到使最佳化成立的控制器。
 
 *H*<sub>∞</sub>較傳統控制技術好的優點是可以應用在包括多個變數，各頻道之間有互相耦合的問題，而*H*<sub>∞</sub>的缺點是其因為技巧以及其中的數學，若要成功的應用，需要對需控制的系統有很好的建模。很重要的是所得的控制器只是在規定的成本函數下是最佳的，若用一般評估控制器性能方式來評比（例如整定時間、使用能量等），不一定是最佳的。而且像飽和之類的非線性特性也很不好處理。*H*<sub>∞</sub>是在1970年代末及1980年代初由（靈敏度最小化、sensitivity minimization）\[1\]、J. William Helton（宽带匹配、broadband matching）\[2\]及（增益裕度最佳化、gain margin optimization）\[3\]等人提出。
@@ -30,7 +33,7 @@
 
 \[F_\ell(\mathbf{P},\mathbf{K}) = P_{11} + P_{12}\,\mathbf{K}\,(I-P_{22}\,\mathbf{K})^{-1}\,P_{21}\]
 
-因此\(\mathcal{H}_\infty\)控制設計的目標是找到控制器\(\mathbf{K}\)使用\(F_\ell(\mathbf{P},\mathbf{K})\)依照\(\mathcal{H}_\infty\)計算時有最小值。相同的定義也可以用在\(\mathcal{H}_2\)控制器設計。\(F_\ell(\mathbf{P},\mathbf{K})\)的無限模定義為：
+因此\(\mathcal{H}_\infty\)控制設計的目標是找到控制器\(\mathbf{K}\)使用\(F_\ell(\mathbf{P},\mathbf{K})\)依照\(\mathcal{H}_\infty\)計算時有最小值。相同的定義也可以用在\(\mathcal{H}_2\)控制器設計。[傳遞函數矩陣](../Page/傳遞函數矩陣.md "wikilink")\(F_\ell(\mathbf{P},\mathbf{K})\)的無限模定義為：
 
 \[||F_\ell(\mathbf{P},\mathbf{K})||_\infty = \sup_\omega \bar{\sigma}(F_\ell(\mathbf{P},\mathbf{K})(j\omega))\]
 

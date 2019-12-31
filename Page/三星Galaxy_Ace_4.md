@@ -1,4 +1,4 @@
-> 本文内容由[三星Galaxy Ace 4](https://zh.wikipedia.org/wiki/三星Galaxy Ace 4)转换而来。
+> 本文内容由[三星Galaxy Ace 4](https://zh.wikipedia.org/wiki/三星Galaxy_Ace_4)转换而来。
 
 
 三星**Galaxy Ace 4**是由[三星電子](../Page/三星電子.md "wikilink")生產的[Android](../Page/Android.md "wikilink")智能手機。Galaxy Ace 4在2014年6月發表，在8月開始發售，為[Ace 3的後續機種](../Page/三星Galaxy_Ace_3.md "wikilink")\[1\]。其LTE機型也於2014年公佈。

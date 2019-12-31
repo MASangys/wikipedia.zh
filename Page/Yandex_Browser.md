@@ -1,4 +1,4 @@
-> 本文内容由[Yandex Browser](https://zh.wikipedia.org/wiki/Yandex Browser)转换而来。
+> 本文内容由[Yandex Browser](https://zh.wikipedia.org/wiki/Yandex_Browser)转换而来。
 
 
 **Yandex Browser**（正式名稱**Yandex.Browser**；）是一個由[俄羅斯網路搜尋公司](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[Yandex](../Page/Yandex.md "wikilink")開發的基於[Chromium](../Page/Chromium.md "wikilink")之[免費](../Page/免費軟體.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]，使用[Blink](../Page/Blink.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")\[2\]，现在可以運行在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Android](../Page/Android.md "wikilink")和[iOS等平台](https://zh.wikipedia.org/wiki/iOS "wikilink")\[3\]。Yandex.Browser利用Yandex安全系統檢查網頁的安全，並與[卡巴斯基實驗室](../Page/卡巴斯基實驗室.md "wikilink")合作檢查下載文件\[4\]\[5\]。Yandex.Browser也使用[Opera軟件](../Page/Opera軟件.md "wikilink")的技術來加速瀏覽連​​接速度較慢的網頁\[6\] 。

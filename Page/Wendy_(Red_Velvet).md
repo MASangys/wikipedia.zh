@@ -1,4 +1,4 @@
-> 本文内容由[Wendy \(Red Velvet\)](https://zh.wikipedia.org/wiki/Wendy \(Red Velvet\))转换而来。
+> 本文内容由[Wendy \(Red Velvet\)](https://zh.wikipedia.org/wiki/Wendy_\(Red_Velvet\))转换而来。
 
 
 [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |IMDb=9364488 }}  **孫勝完**\[1\]\[2\]（，，），曾用譯名為**孫承歡**\[3\]，藝名**Wendy**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")，現為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。

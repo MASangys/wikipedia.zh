@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV 2017](https://zh.wikipedia.org/wiki/ViuTV_2017)转换而来。
+
+
 《**ViuTV 2017**》是由[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的節目巡禮，宣傳[ViuTV](../Page/ViuTV.md "wikilink")的於2017年的播映節目和介紹[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的英文頻道[ViuTVsix](../Page/ViuTVsix.md "wikilink")96台於2017年3月31日啟播。節目全長30分鐘連廣告。
 
 ## 播放時間

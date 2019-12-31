@@ -1,3 +1,6 @@
+> 本文内容由[哈里森車站 \(PATH\)](https://zh.wikipedia.org/wiki/哈里森車站_\(PATH\))转换而来。
+
+
 **哈里森車站**（）是[PATH系統的一個](../Page/紐新航港局過哈德遜河捷運.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[新澤西州](https://zh.wikipedia.org/wiki/新澤西州 "wikilink")介乎[280號州際公路及](https://zh.wikipedia.org/wiki/280號州際公路_\(新澤西州\) "wikilink")[帕塞伊克河](../Page/帕塞伊克河.md "wikilink")之間的法蘭克·E·羅奇斯林蔭路（697號縣道），設有任何時候都營運的[紐瓦克－世界貿易中心線列車營運](https://zh.wikipedia.org/wiki/紐瓦克－世界貿易中心線 "wikilink")。
 
 ## 車站結構

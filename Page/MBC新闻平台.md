@@ -1,3 +1,6 @@
+> 本文内容由[MBC新闻平台](https://zh.wikipedia.org/wiki/MBC新闻平台)转换而来。
+
+
 **MBC新闻平台**（****；****）是韓國[MBC的主新聞節目](https://zh.wikipedia.org/wiki/文化广播公司 "wikilink")。
 
 ## 历史

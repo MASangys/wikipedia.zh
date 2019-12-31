@@ -1,3 +1,6 @@
+> 本文内容由[AMD Ryzen](https://zh.wikipedia.org/wiki/AMD_Ryzen)转换而来。
+
+
 **AMD Ryzen**（ ）是美商[超微開發並推出市場的](https://zh.wikipedia.org/wiki/超微 "wikilink")[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器品牌](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，AMD [Zen微架構的微處理器產品之一](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，其純CPU產品線於2017年3月上市販售，以Ryzen為品牌命名的[APU產品線於](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")2017年10月上架。「Ryzen」品牌於2016年12月13日AMD的New Horizon峰會上發表。\[1\]中文名為「**锐龙**」（2017年3月到8月之间的中文名称为「锐龙AMD Ryzen」，2017年8月之后的中文名称为「AMD锐龙」）。
 
 2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代[AMD FX系列](../Page/AMD_FX.md "wikilink")；\[2\]2017年10月發表代號「Raven Ridge」的Ryzen APU產品線；2018年4月發表了代號「Pinnacle Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援[PCIe](https://zh.wikipedia.org/wiki/PCIe "wikilink") 4.0之第三代Ryzen處理器（整合Vega內顯的第三代Ryzen仍然是PCIe 3.0、Zen+微架構）。\[5\]\[6\]

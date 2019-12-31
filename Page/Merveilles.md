@@ -1,3 +1,6 @@
+> 本文内容由[Merveilles](https://zh.wikipedia.org/wiki/Merveilles)转换而来。
+
+
 《**merveilles**》是日本[視覺系](../Page/視覺系.md "wikilink")搖滾樂團 [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink") 的第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，發行於1998年3月18日\[1\]。歐洲版由MABELL於2004年在[法國發行](https://zh.wikipedia.org/wiki/法國 "wikilink")\[2\]。「Merveilles」是[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")，意為「奇蹟」或「奇觀」。這張專輯於2004年被音樂雜誌《Band Yarouze》列為1989–1998年間的最佳專輯之一\[3\]。
 
 ## 概述

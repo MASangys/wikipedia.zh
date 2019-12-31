@@ -1,3 +1,6 @@
+> 本文内容由[TV動物農場](https://zh.wikipedia.org/wiki/TV動物農場)转换而来。
+
+
 《**TV 動物農場**》（，\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS的時事教養](../Page/SBS_\(韓國\).md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、、、[Tony An等人主持](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")\[2\]，節目主軸為人（包括藝人與一般人）與動物互動，並推廣[動物保護等相關議題](https://zh.wikipedia.org/wiki/動物保護 "wikilink")。 自2001年5月1日開始播映，\[3\]是韓國知名的[長壽節目](https://zh.wikipedia.org/wiki/長壽節目 "wikilink")。\[4\]
 
 ## 歷代主持

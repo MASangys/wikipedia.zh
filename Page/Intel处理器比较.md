@@ -1,3 +1,6 @@
+> 本文内容由[Intel处理器比较](https://zh.wikipedia.org/wiki/Intel处理器比较)转换而来。
+
+
 ## 英特尔处理器列表
 
 <table>

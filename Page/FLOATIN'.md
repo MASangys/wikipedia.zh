@@ -1,3 +1,6 @@
+> 本文内容由[FLOATIN\'](https://zh.wikipedia.org/wiki/FLOATIN\')转换而来。
+
+
 「**FLOATIN**'」（化學漂流）是[日本](../Page/日本.md "wikilink")流行組合[化學超男子](../Page/化學超男子.md "wikilink")第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年7月17日發售。
 
 ## 解說

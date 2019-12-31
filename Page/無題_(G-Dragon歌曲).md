@@ -1,3 +1,6 @@
+> 本文内容由[無題 \(G-Dragon歌曲\)](https://zh.wikipedia.org/wiki/無題_\(G-Dragon歌曲\))转换而来。
+
+
 《**無題**》（）是[韓國流行音樂男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G-Dragon](../Page/G-Dragon.md "wikilink")的歌曲，也是作為《[權志龍](../Page/權志龍_\(專輯\).md "wikilink")》完整版迷你專輯的主打曲。[YG娛樂](../Page/YG娛樂.md "wikilink")在2017年6月8日於[韓國時間下午](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")6時通過各大數位音樂網站發行線上音源。
 
 ## 背景
@@ -236,49 +239,28 @@ G-Dragon在結束了2015年至2016年的后，便開始投入製作專輯的工�
 [Category:G-Dragon歌曲](https://zh.wikipedia.org/wiki/Category:G-Dragon歌曲 "wikilink") [Category:韓國歌曲](https://zh.wikipedia.org/wiki/Category:韓國歌曲 "wikilink") [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink") [Category:2017年歌曲](https://zh.wikipedia.org/wiki/Category:2017年歌曲 "wikilink") [Category:2017年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲週榜冠軍作品 "wikilink") [Category:2017年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon單曲月榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2017年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon數位下載月榜冠軍作品 "wikilink") [Category:2017年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2017年Gaon流媒體週榜冠軍作品 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
 15.
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.

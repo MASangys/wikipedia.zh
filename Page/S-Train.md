@@ -1,3 +1,6 @@
+> 本文内容由[S-Train](https://zh.wikipedia.org/wiki/S-Train)转换而来。
+
+
 250px\]\]\[ \[<File:S-TRAIN> logo.svg |pxl = 250px |圖像說明 = S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train优等列车 |日文原名 = |平假名 = |羅馬拼音 = |營運商 = [西武铁道](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")（西武铁道） |列車種類 = [特急列車](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")、[座席指定制列车](https://zh.wikipedia.org/wiki/座席指定制列车 "wikilink")(工作日·休息日运行) |運行路段 = [元町·中华街](https://zh.wikipedia.org/wiki/元町·中华街站 "wikilink")－[西武秩父](https://zh.wikipedia.org/wiki/西武秩父站 "wikilink")（休息日）、[丰洲](https://zh.wikipedia.org/wiki/丰洲站 "wikilink")－[所泽](https://zh.wikipedia.org/wiki/所泽站 "wikilink") |主要途徑路線 = [横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](../Page/西武秩父线.md "wikilink") |使用車輛 = [西武40000系电力动车组](https://zh.wikipedia.org/wiki/西武40000系电力动车组 "wikilink") |服務開始日 = 2017年3月25日 |服務停止日 = |備註 = 优等列车 |全寬備註 = }} **S-Train**是由[西武铁道运营](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")，在[东京地下铁](https://zh.wikipedia.org/wiki/东京地下铁 "wikilink")、[东京急行电铁和](https://zh.wikipedia.org/wiki/东京急行电铁 "wikilink")[横滨高速铁道](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")-{zh-cn:线路交路;zh-tw:等路線;zh-hk:等路線}-[直通运行的对号入座制](https://zh.wikipedia.org/wiki/直通运行 "wikilink")[特别急行列车服务](https://zh.wikipedia.org/wiki/特别急行列车 "wikilink")，于2017年3月25日正式上线运营。
 
 ## 概要
@@ -230,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p>F-13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新宿三丁目站" title="wikilink">新宿三丁目站</a></p></td>
+<td><p><a href="../Page/新宿三丁目站.md" title="wikilink">新宿三丁目站</a></p></td>
 <td></td>
 <td><p>◯</p></td>
 <td><p>東京地下鐵: <a href="https://zh.wikipedia.org/wiki/File:Subway_TokyoMarunouchi.png" title="fig:Subway_TokyoMarunouchi.png">Subway_TokyoMarunouchi.png</a> 丸之内线 (M-09)<br />
@@ -258,7 +261,7 @@
 </tr>
 <tr class="odd">
 <td><p>TY03</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中目黑站" title="wikilink">中目黑站</a></p></td>
+<td><p><a href="../Page/中目黑站.md" title="wikilink">中目黑站</a></p></td>
 <td></td>
 <td><p>※</p></td>
 <td><p>（運転停車のみ）</p></td>
@@ -266,7 +269,7 @@
 </tr>
 <tr class="even">
 <td><p>TY07</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/自由丘站_(东京都)" title="wikilink">自由丘站</a></p></td>
+<td><p><a href="../Page/自由丘站_(东京都).md" title="wikilink">自由丘站</a></p></td>
 <td></td>
 <td><p>◯</p></td>
 <td><p>東京急行電鐵: <a href="https://zh.wikipedia.org/wiki/File:Tokyu_OM_line_symbol.svg" title="fig:Tokyu_OM_line_symbol.svg">Tokyu_OM_line_symbol.svg</a> <a href="../Page/大井町線.md" title="wikilink">大井町線</a> (OM10)</p></td>

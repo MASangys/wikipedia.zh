@@ -1,3 +1,6 @@
+> 本文内容由[Home Sweet Home \(YUKI的单曲\)](https://zh.wikipedia.org/wiki/Home_Sweet_Home_\(YUKI的单曲\))转换而来。
+
+
 「**Home Sweet Home**」是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")7张单曲。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[THQ Nordic](https://zh.wikipedia.org/wiki/THQ_Nordic)转换而来。
+
+
 **THQ Nordic GmbH**（原名为“**Nordic Games GmbH**”）是一家位于[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[维也纳的电子游戏公司](https://zh.wikipedia.org/wiki/维也纳 "wikilink")，成立于2011年。旗下游戏作品和系列品牌多来自其在2011年收购的已破产的奥地利游戏公司[JoWooD Entertainment和在](https://zh.wikipedia.org/wiki/JoWooD娛樂 "wikilink")2013年购得的老牌美国游戏公司[THQ旗下一些品牌](https://zh.wikipedia.org/wiki/THQ "wikilink")。2016年，公司宣布其名称将从Nordic Games更改为THQ Nordic，并会使用之前收购的THQ的品牌和标志。\[1\]2018年，公司宣布收购德国传媒集团，而公司旗下的游戏公司[Deep Silver也包含在内](../Page/Deep_Silver.md "wikilink")；Deep Silver拥有《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列。\[2\]2019年，收購《[暗黑血统III](https://zh.wikipedia.org/wiki/暗黑血统III "wikilink")》開發工作室Gunfire Games。\[3\]
 
 公司除了自身的游戏开发和发行业务，也接手一些其他开发商在Windows平台的游戏发行工作，最著名的是芬兰游戏开发商[綠美迪娛樂](../Page/綠美迪娛樂.md "wikilink")的《[心靈殺手](https://zh.wikipedia.org/wiki/心靈殺手 "wikilink")》和《[量子裂痕](../Page/量子裂痕.md "wikilink")》。\[4\]

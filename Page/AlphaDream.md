@@ -1,4 +1,9 @@
+> 本文内容由[AlphaDream](https://zh.wikipedia.org/wiki/AlphaDream)转换而来。
+
+
 是一家日本的[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")。公司在2000年于日本东京成立，初期成员多来自[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")，包括了史克威尔的前社长水野哲夫和作曲家等人。公司为任天堂开发的《[马里奥与路易RPG](https://zh.wikipedia.org/wiki/马里奥与路易RPG "wikilink")》系列和《哈姆太郎》系列而为人熟知。
+
+由於AlphaDream近年收入低迷，開發成本負擔的加重和財務赤字等原因，最終於2019年10月1日宣告破產倒閉。\[1\]
 
 ## 公司作品
 
@@ -143,11 +148,29 @@ Mario &amp; Luigi: Dream Team</p></td>
 <td><p>马里奥与路易RPG1 豪华版<br />
 マリオ＆ルイージRPG1 DX<br />
 Mario &amp; Luigi: Superstar Saga + Bowser's Minions</p></td>
-<td><p>2017年</p></td>
+<td><p>2003-2017年</p></td>
 <td><p>角色扮演</p></td>
 <td><p>任天堂</p></td>
 <td><p>任天堂3DS</p></td>
 <td><p>《马里奥与路易RPG1》的复刻版</p></td>
+</tr>
+<tr class="odd">
+<td><p>马里奥与路易RPG3 豪华版<br />
+マリオ&amp;ルイージRPG3 DX<br />
+Mario &amp; Luigi: Bowser's Inside Story + Bowser Jr.'s Journey</p></td>
+<td><p>2009-2018年</p></td>
+<td><p>角色扮演</p></td>
+<td><p>任天堂</p></td>
+<td><p>任天堂3DS</p></td>
+<td><p>《马里奥与路易RPG3》的复刻版</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -157,4 +180,6 @@ Mario &amp; Luigi: Superstar Saga + Bowser's Minions</p></td>
 ## 外部链接
 
   -
-[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink") [Category:2019年結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2019年結業電子遊戲公司 "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:已破產公司](https://zh.wikipedia.org/wiki/Category:已破產公司 "wikilink")
+
+1.

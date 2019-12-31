@@ -1,4 +1,4 @@
-> 本文内容由[HK P2A1信號槍](https://zh.wikipedia.org/wiki/HK P2A1信號槍)转换而来。
+> 本文内容由[HK P2A1信號槍](https://zh.wikipedia.org/wiki/HK_P2A1信號槍)转换而来。
 
 
 **HK P2A1**是一具[單發](https://zh.wikipedia.org/wiki/單發 "wikilink")、[中折裝填式](../Page/中折式.md "wikilink")26.5毫米[信號槍](https://zh.wikipedia.org/wiki/信號槍 "wikilink")，發射26.5×80毫米[信號彈](https://zh.wikipedia.org/wiki/信號彈 "wikilink")、[煙霧彈或](https://zh.wikipedia.org/wiki/煙霧彈 "wikilink")[照明彈](https://zh.wikipedia.org/wiki/照明彈 "wikilink")。

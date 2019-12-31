@@ -1,3 +1,6 @@
+> 本文内容由[Following \(迷你专辑\)](https://zh.wikipedia.org/wiki/Following_\(迷你专辑\))转换而来。
+
+
 《**Following**》是韩国女歌手[金泫雅](../Page/金泫雅.md "wikilink")的第六张迷你专辑。于2017年8月29日发行，唱片公司为[Cube娛樂](../Page/Cube娛樂.md "wikilink")和[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ## 發行過程

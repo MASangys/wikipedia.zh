@@ -1,4 +1,4 @@
-> 本文内容由[The Still Life](https://zh.wikipedia.org/wiki/The Still Life)转换而来。
+> 本文内容由[The Still Life](https://zh.wikipedia.org/wiki/The_Still_Life)转换而来。
 
 
 《**THE STILL LIFE**》（中譯：堅如既往）是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第九張原創專輯，日本地區於2016年7月6日發行。

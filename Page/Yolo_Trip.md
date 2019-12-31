@@ -1,3 +1,6 @@
+> 本文内容由[Yolo Trip](https://zh.wikipedia.org/wiki/Yolo_Trip)转换而来。
+
+
 《**Yolo Trip**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OliveTV的綜藝節目](https://zh.wikipedia.org/wiki/OliveTV "wikilink")，由[MBK娛樂](../Page/MBK娛樂.md "wikilink")旗下之女團[DIA出演](https://zh.wikipedia.org/wiki/DIA "wikilink")，並由《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》與《[團結才能火](../Page/團結才能火.md "wikilink")》製作團隊製作，節目主要以[DIA成員自擬清單進行美食探索](https://zh.wikipedia.org/wiki/DIA "wikilink")、旅行、觀光等，並紀錄下過程中的點點滴滴或小故事\[1\]。
 
 ## 節目命名之原因

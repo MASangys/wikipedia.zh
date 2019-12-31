@@ -1,18 +1,21 @@
-**Surprise U**（）是韓國[Fantagio](../Page/Fantagio.md "wikilink")娛樂於2017年，繼[5urprise](../Page/5urprise.md "wikilink")後成立的第二支演員組合，團名中的「U」有著Urban & Unique，即幹練又唯一的意思\[1\]。成員包括尹挺赫、車璌河、殷瑎成、池建玗和金鉉書。
+> 本文内容由[Surprise U](https://zh.wikipedia.org/wiki/Surprise_U)转换而来。
+
+
+**Surprise U**（）是韓國[Fantagio](../Page/Fantagio.md "wikilink")娛樂於2017年，繼[5urprise](../Page/5urprise.md "wikilink")後成立的第二支演員組合，團名中的「U」有著Urban & Unique，即幹練又唯一的意思\[1\]。成員包括尹挺赫、[車璌河](../Page/車璌河.md "wikilink")、殷瑎成、[池建玗和金鉉書](https://zh.wikipedia.org/wiki/池建玗 "wikilink")。
 
 ## 成員資料
 
   - **名字粗體為隊長。**
 
-| 成員列表         |
-| ------------ |
-| 藝名           |
-| 漢字           |
-| **尹挺赫**\[2\] |
-| 車璌河\[3\]     |
-| 殷瑎成\[4\]     |
-| 池建玗\[5\]     |
-| 金鉉書\[6\]     |
+| 成員列表                                                     |
+| -------------------------------------------------------- |
+| 藝名                                                       |
+| 漢字                                                       |
+| **尹挺赫**\[2\]                                             |
+| [車璌河](../Page/車璌河.md "wikilink")\[3\]                    |
+| 殷瑎成\[4\]                                                 |
+| [池建玗](https://zh.wikipedia.org/wiki/池建玗 "wikilink")\[5\] |
+| 金鉉書\[6\]                                                 |
 
 ## 經歷
 
@@ -172,30 +175,32 @@ NAVER TV</small></p></td>
 | 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[推理的女王2](../Page/推理的女王2.md "wikilink")》              | 車璌河  |     | 出演 | 第8集  |    |
 | 2018年                            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                      | 《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》            | 車璌河  | 奉植秀 | 配角 |      |    |
 | 2018年                            | [KBS](https://zh.wikipedia.org/wiki/KBS_\(韓國\) "wikilink")   | 《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》              | 車璌河  | 黃志龍 |    |      |    |
-| 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[愛到最後](../Page/愛到最後.md "wikilink")》                  | 殷瑎成  | 케이  | 配角 |      |    |
+| 2018年                            | [KBS2](https://zh.wikipedia.org/wiki/KBS2_\(韓國\) "wikilink") | 《[愛到最後](../Page/愛到最後.md "wikilink")》                  | 殷瑎成  |     | 配角 |      |    |
 | 2018年                            | [OCN](https://zh.wikipedia.org/wiki/OCN_\(韓國\) "wikilink")   | 《[Voice2](../Page/Voice2.md "wikilink")》              | 殷瑎成  | 姜率  | 出演 | 第7集  |    |
 | 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink") | 《[第3種魅力](../Page/第3種魅力.md "wikilink")》                | 尹挺赫  | 李刑警 | 配角 |      |    |
 | 2018年                            | [JTBC](https://zh.wikipedia.org/wiki/JTBC_\(韓國\) "wikilink") | 《[先熱情地打掃吧](../Page/先熱情地打掃吧.md "wikilink")》            | 車璌河  | 黃在民 | 配角 |      |    |
 | 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[銀行家](https://zh.wikipedia.org/wiki/銀行家 "wikilink")》 | 車璌河  | 文洪柱 | 配角 |      |    |
 | 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》            | 池建玗  | 成西權 | 配角 |      |    |
+| 2019年                            | [MBC](https://zh.wikipedia.org/wiki/MBC_\(韓國\) "wikilink")   | 《[有瑕疵的人們](../Page/有瑕疵的人們.md "wikilink")》              | 車璌河  | 朱元錫 | 配角 |      |    |
 
 ### 網絡劇
 
-| 年份    | 播放平台                                                                          | 劇名                                                                        | 出演成員    | 角色      | 性質 | 出演集數 | 備註    |
-| ----- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------- | ------- | -- | ---- | ----- |
-| 2017年 | [NAVER tvcast](../Page/NAVER.md "wikilink")                                   | 《愛豆權限代理》                                                                  | 全員      | 同名角色    | 主演 | 全集   | 團體出道作 |
-| 2017年 | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                     | 《復仇筆記》                                                                    | 池建玗、金鉉書 | 胡具俊、楊亞俊 | 配角 |      |       |
-| 2018年 | [XtvN](https://zh.wikipedia.org/wiki/XtvN "wikilink")                         | 《復仇筆記2》                                                                   | 池建玗     | 胡具俊     | 客串 |      |       |
-| 2018年 | [YouTube](https://zh.wikipedia.org/wiki/YouTube_\(韓國\) "wikilink")            | 《[Top Management](../Page/Top_Management.md "wikilink")》                  | 池建玗、殷瑎成 | 練習生     | 其他 |      |       |
-| 2019年 | [SBS、Netflix](https://zh.wikipedia.org/wiki/SBS、Netflix_\(韓國\) "wikilink")    | 《[農夫士官學校](../Page/農夫士官學校.md "wikilink")》                                  | 尹挺赫     |         | 配角 |      |       |
-| 2019年 | [Vlive、YouTube](https://zh.wikipedia.org/wiki/Vlive、YouTube\(韓國\) "wikilink") | 《[獨立也能過得好的女孩智恩2](https://zh.wikipedia.org/wiki/獨立也能過得好的女孩智恩2 "wikilink")》 | 車璌河     | 河俊      | 主角 |      |       |
+| 年份                                                        | 播放平台                                                                          | 劇名                                                                        | 出演成員    | 角色      | 性質  | 出演集數 | 備註    |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------- | ------- | --- | ---- | ----- |
+| 2017年                                                     | [NAVER tvcast](../Page/NAVER.md "wikilink")                                   | 《愛豆權限代理》                                                                  | 全員      | 同名角色    | 主演  | 全集   | 團體出道作 |
+| 2017年                                                     | [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink")                     | 《復仇筆記》                                                                    | 池建玗、金鉉書 | 胡具俊、楊亞俊 | 配角  |      |       |
+| [OKSUSU](https://zh.wikipedia.org/wiki/OKSUSU "wikilink") | 《復仇筆記》                                                                        | 殷瑎成                                                                       |         | 客串      | 第4集 |      |       |
+| 2018年                                                     | [XtvN](https://zh.wikipedia.org/wiki/XtvN "wikilink")                         | 《復仇筆記2》                                                                   | 池建玗     | 胡具俊     | 客串  |      |       |
+| 2018年                                                     | [YouTube](https://zh.wikipedia.org/wiki/YouTube_\(韓國\) "wikilink")            | 《[Top Management](../Page/Top_Management.md "wikilink")》                  | 池建玗、殷瑎成 | 練習生     | 其他  |      |       |
+| 2019年                                                     | [SBS、Netflix](https://zh.wikipedia.org/wiki/SBS、Netflix_\(韓國\) "wikilink")    | 《[農夫士官學校](../Page/農夫士官學校.md "wikilink")》                                  | 尹挺赫     |         | 配角  |      |       |
+| 2019年                                                     | [Vlive、YouTube](https://zh.wikipedia.org/wiki/Vlive、YouTube\(韓國\) "wikilink") | 《[獨立也能過得好的女孩智恩2](https://zh.wikipedia.org/wiki/獨立也能過得好的女孩智恩2 "wikilink")》 | 車璌河     | 河俊      | 主角  |      |       |
 
 ### 話劇
 
-| 日期                | 劇名                                                                              | 出演成員 | 角色    | 備註 |
-| ----------------- | ------------------------------------------------------------------------------- | ---- | ----- | -- |
-| 2018年7月13日至12月30日 | 《[형제의 밤](https://zh.wikipedia.org/wiki/형제의_밤 "wikilink")》                       | 殷瑎成  |       |    |
-| 2019年8月31日至11月17日 | 《[킬롤로지(Killology)](https://zh.wikipedia.org/wiki/킬롤로지\(Killology\) "wikilink")》 | 殷瑎成  | DAVEY |    |
+| 日期                | 劇名                                                                              | 出演成員 | 角色  | 備註 |
+| ----------------- | ------------------------------------------------------------------------------- | ---- | --- | -- |
+| 2018年7月13日至12月30日 | 《[형제의 밤](https://zh.wikipedia.org/wiki/형제의_밤 "wikilink")》                       | 殷瑎成  | 수동  |    |
+| 2019年8月31日至11月17日 | 《[킬롤로지(Killology)](https://zh.wikipedia.org/wiki/킬롤로지\(Killology\) "wikilink")》 | 殷瑎成  | 데이비 |    |
 
 ### 音樂錄影帶(MV)
 
@@ -205,6 +210,13 @@ NAVER TV</small></p></td>
 | 2018年1月3日  | 《[재미없을 나이(Twenty-something)](https://www.youtube.com/watch?v=hAh_vba90Us)》           | 宋主喜      | 殷瑎成  |
 | 2019年9月8日  | 《[사랑이란 멜로는 없어(I Still love you a lot)](https://www.youtube.com/watch?v=txofagPZhnI)》 | 전상근      | 池建玗  |
 
+### 綜藝節目
+
+| 日期               | 播放平台                                                        | 節日名稱        | 出演成員    | 備註   |
+| ---------------- | ----------------------------------------------------------- | ----------- | ------- | ---- |
+| 2019年3月25日至3月29日 | [Vlive](https://zh.wikipedia.org/wiki/Vlive "wikilink")     | 《BOOM UP⤴︎》 | 車璌河、殷瑎成 |      |
+| 2019年10月18日      | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | 《戀愛的干預2》    | 池建玗     | 短片出演 |
+
 ## 其他
 
 ### 漫畫
@@ -213,7 +225,7 @@ NAVER TV</small></p></td>
 | ---- | ------------------------------------------------------ | ---- | --------- |
 | 2017 | [《練習生》](http://www.comica.com/webtoon/episode/100820/) | 全員   | 以成員作為人物原形 |
 
-### 現場演講
+### 短篇電影訪談
 
 | 播出日期       | 名稱                                                    | 參加成員 | 備注                     |
 | ---------- | ----------------------------------------------------- | ---- | ---------------------- |
@@ -229,15 +241,16 @@ NAVER TV</small></p></td>
 
 ### SHOWCASE
 
-| 日期        | 名稱                          | 參加成員 | 備注 |
-| --------- | --------------------------- | ---- | -- |
-| 2017年7月7日 | Surprise U's Debut Showcase | 全員   | 出道 |
+| 日期        | 名稱                                                                                   | 參加成員 | 備注 |
+| --------- | ------------------------------------------------------------------------------------ | ---- | -- |
+| 2017年7月7日 | 《[Surprise U's Debut Showcase](https://www.youtube.com/watch?v=pRPcH1ppTm4&t=1376s)》 | 全員   | 出道 |
 
 ### CF
 
-| 年份    | 廣告名稱                                                        | 參與成員 | 備注 |
-| ----- | ----------------------------------------------------------- | ---- | -- |
-| 2017年 | 《[McDonald's](https://www.youtube.com/watch?v=qoKCewvdfp0)》 | 池建玗  |    |
+| 年份    | 廣告名稱                                                                           | 參與成員 | 備注 |
+| ----- | ------------------------------------------------------------------------------ | ---- | -- |
+| 2017年 | 《[McDonald's](https://www.youtube.com/watch?v=qoKCewvdfp0)》                    | 池建玗  |    |
+| 2018年 | 《[Google 어시스턴트](https://www.youtube.com/watch?v=49vROJlqq-E&feature=youtu.be)》 | 車璌河  |    |
 
 ## 外部連結
 
@@ -259,11 +272,11 @@ NAVER TV</small></p></td>
 
 [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [Fantagio 推出新演員團體 SURPRISE U](http://kpopn.niusnews.com/=K0gwkhw0)
-2.  [Fantagio官方網站所用漢字 - 尹挺赫](http://www.fantagio.kr/cn/artists/yoon-jeong-hyuk/profile/)
+1.
+2.
 3.  [Fantagio官方微博所用漢字 - 車璌河](http://www.weibo.com/2754180691/FcoFS8K9w?from=page_1006062754180691)
 4.  [Fantagio官方微博所用漢字 - 殷瑎成](http://weibo.com/2754180691/FbMXTC3pi?ref=home&rid=6_0_8_2606577590114035418)
-5.  [Fantagio官方網站所用漢字 - 池建玗](http://www.fantagio.kr/cn/artists/ji-geon-woo/profile/)
+5.
 6.  [Fantagio官方微博所用漢字 - 金鉉書](http://www.weibo.com/2754180691/Fd9PhpKOQ?from=page_1006062754180691)
 7.  [코미카-판타지오, 첫 기획웹툰 ‘트레니즈’ 인기](http://gametoc.hankyung.com/news/articleView.html?idxno=42812)
 8.  [판타지오-코미카 공동 기획 웹툰 '트레니즈' OST](https://www.genie.co.kr/detail/albumInfo?axnm=80931214)

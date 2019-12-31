@@ -1,3 +1,6 @@
+> 本文内容由[超次元動作 戰機少女U](https://zh.wikipedia.org/wiki/超次元動作_戰機少女U)转换而来。
+
+
 為[Idea Factory](../Page/Idea_Factory.md "wikilink")、[Tamsoft和](https://zh.wikipedia.org/wiki/Tamsoft "wikilink")[Compile Heart於](../Page/Compile_Heart.md "wikilink")2014年8月28日所發售的[PlayStation Vita用](../Page/PlayStation_Vita.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。人物設計及原畫由插畫家[Tsunako](../Page/Tsunako.md "wikilink")擔任。是为[海王星系列的外传](https://zh.wikipedia.org/wiki/海王星系列 "wikilink")，并且是本系列第一部[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。
 
 *在以下項目中，有出現許多與真實世界的企業名稱和遊戲名稱相同的名詞，在以下項目會另做遊戲中登場各名詞的說明。*

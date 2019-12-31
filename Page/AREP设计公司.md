@@ -1,3 +1,6 @@
+> 本文内容由[AREP设计公司](https://zh.wikipedia.org/wiki/AREP设计公司)转换而来。
+
+
 **AREP**（，“管理，研究，交换”）是一个由[法国国家铁路](../Page/法国国家铁路.md "wikilink")拥有的多学科顾问公司。公司于1997年由[Jean-Marie Duthilleul和](https://zh.wikipedia.org/wiki/Jean-Marie_Duthilleul "wikilink")[Étienne Tricaud为首的建筑师和工程师创立](https://zh.wikipedia.org/wiki/Étienne_Tricaud "wikilink")\[1\]。公司主要负责法国和全世界各地的城市交通枢纽项目。\[2\]其600余个雇员来自15个国家，种类包括城市规划、建筑、工程、经济、技术、设计以及项目经理等。 [201604_UFO-Shape_SNH.JPG](https://zh.wikipedia.org/wiki/File:201604_UFO-Shape_SNH.JPG "fig:201604_UFO-Shape_SNH.JPG")\]\] [Bitexco_Financial_Tower_20022012_cropped.JPG](https://zh.wikipedia.org/wiki/File:Bitexco_Financial_Tower_20022012_cropped.JPG "fig:Bitexco_Financial_Tower_20022012_cropped.JPG")[金融塔](../Page/金融塔_\(胡志明市\).md "wikilink")\]\]
 
 ## 结构

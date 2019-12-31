@@ -1,3 +1,6 @@
+> 本文内容由[Wings电子竞技俱乐部](https://zh.wikipedia.org/wiki/Wings电子竞技俱乐部)转换而来。
+
+
 **Wings电子竞技俱乐部**（Wings Gaming，又称“**Wings战队**”、“**护国神翼**”）是一支来自中国重庆的《[Dota 2](../Page/Dota_2.md "wikilink")》[电子竞技](../Page/电子竞技.md "wikilink")队伍。因为在2016年的[DOTA2国际邀请赛上获得冠军而受到广泛关注](https://zh.wikipedia.org/wiki/DOTA2国际邀请赛 "wikilink")。\[1\]
 
 2017年4月，Wings俱乐部的5名DOTA 2战队的冠军成员宣布与俱乐部解约。\[2\]

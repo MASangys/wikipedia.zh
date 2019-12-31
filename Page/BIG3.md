@@ -1,3 +1,6 @@
+> 本文内容由[BIG3](https://zh.wikipedia.org/wiki/BIG3)转换而来。
+
+
 **BIG3** 是專業室內3對3 籃球比賽聯盟，參賽成員主要以前NBA球員為主。由[冰塊酷巴和娛樂總監](../Page/艾斯·库伯.md "wikilink")創立。
 
 ## 歷史

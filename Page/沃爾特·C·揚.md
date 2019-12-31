@@ -1,3 +1,6 @@
+> 本文内容由[沃爾特·C·揚](https://zh.wikipedia.org/wiki/沃爾特·C·揚)转换而来。
+
+
 **沃爾特·克羅斯頓·「華特」·揚**（；），是美國的[民主黨政治人物](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，前[佛羅里達州眾議院議員](https://zh.wikipedia.org/wiki/佛羅里達州眾議院 "wikilink")。
 
 ## 生平

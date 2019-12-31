@@ -1,3 +1,6 @@
+> 本文内容由[BLOODY STREAM](https://zh.wikipedia.org/wiki/BLOODY_STREAM)转换而来。
+
+
 《**BLOODY STREAM**》是[日本](../Page/日本.md "wikilink")男[歌手](../Page/歌手.md "wikilink")的單曲。[兒玉沙織](../Page/兒玉沙織.md "wikilink")作詞、作曲。2013年1月30日由[華納日本娛樂發行](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。
 
 ## 解說

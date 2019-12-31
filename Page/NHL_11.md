@@ -1,3 +1,6 @@
+> 本文内容由[NHL 11](https://zh.wikipedia.org/wiki/NHL_11)转换而来。
+
+
 是一款[冰球](../Page/冰球.md "wikilink")类[电子游戏](../Page/电子游戏.md "wikilink")。本游戏成为庆祝《[NHL系列](../Page/NHL系列.md "wikilink")》20周年之作。\[1\] 游戏由[EA加拿大](../Page/EA加拿大.md "wikilink")制作、[EA Sports发行](../Page/EA_Sports.md "wikilink")。于2010年9月7日在北美发行，其他地区在两周内发行。游戏具有以物理为基础的引擎，取代了旧的以动画为基础的引擎。这一变化被《NHL 11》的制作人Sean Ramjagsingh所夸耀，称其为《NHL 11》的最大变化。其他一个巨大变化是游戏引入了折断的球杆。这个意味着当玩家击球时，可能会把球杆弄断。由于《NHL 11》没有得到[国际冰球联合会](../Page/国际冰球联合会.md "wikilink")的许可，游戏没有使用其球衣。《NHL》的游戏封面是[芝加哥黑鷹](../Page/芝加哥黑鷹.md "wikilink")队长，他于2010年成功地帮助队伍在49年里赢得第一个斯坦尼杯冠军。
 
 ## 玩法

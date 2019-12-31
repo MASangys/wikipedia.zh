@@ -1,3 +1,6 @@
+> 本文内容由[Running Man嘉賓列表](https://zh.wikipedia.org/wiki/Running_Man嘉賓列表)转换而来。
+
+
 本列表為統計嘉賓出演《**[Running Man](../Page/Running_Man.md "wikilink")**》歷年次數及集數的節目嘉賓列表。
 
 ## 嘉賓

@@ -1,4 +1,4 @@
-> 本文内容由[松下Lumix DMC-GM1](https://zh.wikipedia.org/wiki/松下Lumix DMC-GM1)转换而来。
+> 本文内容由[松下Lumix DMC-GM1](https://zh.wikipedia.org/wiki/松下Lumix_DMC-GM1)转换而来。
 
 
 **DMC-GM1**是松下公司于2013年10月推出的[微4/3系统相机](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，属于[数码无反分类](../Page/無反光鏡可換鏡頭相機.md "wikilink")。其最受瞩目的特点为轻便小巧——该机推出时，松下宣布其为最小的可换镜头数码相机\[1\]；然而这是以不具备取景器、机身防抖以及[热靴](../Page/热靴.md "wikilink")缺失为代价交换而来；次年推出的[松下 Lumix DMC-GM5机型](https://zh.wikipedia.org/wiki/松下_Lumix_DMC-GM5 "wikilink")，即响应用户呼声，内置[电子取景器](../Page/电子取景器.md "wikilink")并配置热靴接口。

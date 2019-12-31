@@ -1,4 +1,4 @@
-> 本文内容由[Heaven Sent Gaming](https://zh.wikipedia.org/wiki/Heaven Sent Gaming)转换而来。
+> 本文内容由[Heaven Sent Gaming](https://zh.wikipedia.org/wiki/Heaven_Sent_Gaming)转换而来。
 
 
 **Heaven Sent Gaming**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[艺术](../Page/艺术.md "wikilink")和[娛樂](../Page/娛樂.md "wikilink")公司，[漫畫家的](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[作者的](https://zh.wikipedia.org/wiki/作者 "wikilink")[網絡小說](../Page/網絡小說.md "wikilink")、[游戏开发者](../Page/游戏开发者.md "wikilink")提供廣泛的娛樂服務為主。總部位於美國[新墨西哥州](../Page/新墨西哥州.md "wikilink")的[阿布奎基](../Page/阿布奎基_\(新墨西哥州\).md "wikilink")、公司於2006年由[马里奥·J·卢塞罗和](https://zh.wikipedia.org/wiki/马里奥·J·卢塞罗 "wikilink")[伊莎贝尔·鲁伊斯·卢塞罗創立](https://zh.wikipedia.org/wiki/伊莎贝尔·鲁伊斯·卢塞罗 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[向日葵 \(shela單曲\)](https://zh.wikipedia.org/wiki/向日葵_\(shela單曲\))转换而来。
+
+
 《**向日葵**》（Himawari）是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")的個人總計第8張單曲。2002年9月19日由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")\[1\]。
 
 ## 概要

@@ -1,4 +1,4 @@
-> 本文内容由[Mantle \(API\)](https://zh.wikipedia.org/wiki/Mantle \(API\))转换而来。
+> 本文内容由[Mantle \(API\)](https://zh.wikipedia.org/wiki/Mantle_\(API\))转换而来。
 
 
 **Mantle**是一个由[AMD主导开发的](https://zh.wikipedia.org/wiki/AMD "wikilink")\[1\]面向3D游戏的[图形渲染](https://zh.wikipedia.org/wiki/彩現 "wikilink") [API](../Page/应用程序接口.md "wikilink")，开发从2013年开始，并在[DICE的帮助下进行](https://zh.wikipedia.org/wiki/DICE "wikilink")。\[2\]尽管[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One配置的GPU也支持Mantle](../Page/Xbox_One.md "wikilink")，Mantle作为[Direct3D](../Page/Direct3D.md "wikilink")和[OpenGL](../Page/OpenGL.md "wikilink")的补充，主要用于[PC](../Page/PC.md "wikilink")。\[3\]\[4\]

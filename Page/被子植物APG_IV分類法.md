@@ -1,3 +1,6 @@
+> 本文内容由[被子植物APG IV分類法](https://zh.wikipedia.org/wiki/被子植物APG_IV分類法)转换而来。
+
+
 **被子植物APG IV分類法**是由[被子植物種系發生學組](https://zh.wikipedia.org/wiki/被子植物種系發生學組 "wikilink")（Angiosperm Phylogeny Group，簡稱APG）開發的第4版本的一個現代的，主要是基於[分子的](https://zh.wikipedia.org/wiki/分子系统发生学 "wikilink")[被子植物](../Page/被子植物.md "wikilink")（開花植物）的植物分類學系統。它於2016年被出版，距其前身[APG III系統於](../Page/被子植物APG_III分类法.md "wikilink")2009年出版有7年，以及1998年第一個[APG系統被出版的](../Page/被子植物APG分类法.md "wikilink")18年後出版。2009年，系統的線性安排單獨發布; APG IV文件包括這樣的安排，與2009年的版本相互交叉引用。
 
 相比[APG III系統](https://zh.wikipedia.org/wiki/APG_III "wikilink"), APG IV分類系統承認了五個新的[目和一些](../Page/目_\(生物\).md "wikilink")[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")，五個新的目分別是[紫草目](https://zh.wikipedia.org/wiki/紫草目 "wikilink")、[五椏果目](https://zh.wikipedia.org/wiki/五椏果目 "wikilink")、[茶茱萸目](https://zh.wikipedia.org/wiki/茶茱萸目 "wikilink")、[水螅花目和](https://zh.wikipedia.org/wiki/水螅花目 "wikilink")[黃漆姑目](https://zh.wikipedia.org/wiki/黃漆姑目 "wikilink")，總共承認了64目和416科。總的來說，作者將他們的哲學描述為“保守的”，基於僅在“充分支持的需求”得到證明的情況下從[APG III系統進行更改](../Page/被子植物APG_III分类法.md "wikilink")。 這有時導致與已發表的研究不相容的放置，但在分類可以改變之前需要進一步研究。

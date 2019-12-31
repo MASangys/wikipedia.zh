@@ -1,4 +1,4 @@
-> 本文内容由[LOL \(EP\)](https://zh.wikipedia.org/wiki/LOL \(EP\))转换而来。
+> 本文内容由[LOL \(EP\)](https://zh.wikipedia.org/wiki/LOL_\(EP\))转换而来。
 
 
 《**LOL**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2015年11月26日在[香港](../Page/香港.md "wikilink")發行。

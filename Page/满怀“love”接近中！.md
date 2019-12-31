@@ -1,3 +1,6 @@
+> 本文内容由[满怀“love”接近中！](https://zh.wikipedia.org/wiki/满怀“love”接近中！)转换而来。
+
+
 **《满怀“love”接近中！》**（），又译作“**满怀爱意接近中！**”，是[μ's的单曲第](https://zh.wikipedia.org/wiki/μ's "wikilink")4作，于2012年2月15日由[Lantis](../Page/Lantis.md "wikilink")发行。主唱根据第3回总选举投票结果由高坂穗乃果担任。角色的排列顺亦反映了第3回总选举的结果。CD收录了乐曲及广播剧，[DVD收录了](https://zh.wikipedia.org/wiki/DVD "wikilink")《满怀“love”接近中！》的PV。
 
 ## 概要

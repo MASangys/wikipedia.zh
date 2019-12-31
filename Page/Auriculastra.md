@@ -1,3 +1,6 @@
+> 本文内容由[Auriculastra](https://zh.wikipedia.org/wiki/Auriculastra)转换而来。
+
+
 是[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[耳螺科](../Page/耳螺科.md "wikilink")的一個屬，是一種在[鹽沼生活的螺](https://zh.wikipedia.org/wiki/鹽沼 "wikilink")，而且能夠呼吸空氣。本屬舊屬[原始有肺目](https://zh.wikipedia.org/wiki/原始有肺目 "wikilink")\[1\]，今屬[真有肺類](https://zh.wikipedia.org/wiki/真有肺類 "wikilink")。
 
 ## 物種

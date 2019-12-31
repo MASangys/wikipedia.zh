@@ -1,3 +1,6 @@
+> 本文内容由[Hato Popoko](https://zh.wikipedia.org/wiki/Hato_Popoko)转换而来。
+
+
 **Hato Popoko**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。居住於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。
 
 其作品主要在[芳文社](../Page/芳文社.md "wikilink")的《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》、[竹書房](../Page/竹書房.md "wikilink")《》、[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")《[電撃萌王](https://zh.wikipedia.org/wiki/電撃萌王 "wikilink")》上連載和發表。同時也從事[漫畫選集的執筆](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")。

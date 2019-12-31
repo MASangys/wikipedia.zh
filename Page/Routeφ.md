@@ -1,3 +1,6 @@
+> 本文内容由[Routeφ](https://zh.wikipedia.org/wiki/Routeφ)转换而来。
+
+
 **Routeφ**（；），是[日本](../Page/日本.md "wikilink")[R\&C JAPAN與](https://zh.wikipedia.org/wiki/R&C_JAPAN "wikilink")[吉本興業](../Page/吉本興業.md "wikilink")於2001年推出的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")，當時有2名成員[日本](../Page/日本.md "wikilink")籍的[高橋麻里奈與](https://zh.wikipedia.org/wiki/高橋麻里奈 "wikilink")[韓國籍的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[崔秀榮](../Page/秀英_\(少女時代\).md "wikilink")。此團體由2001年12月，由東京電視台的綜藝節目《五花八門淺草橋》中的《日韓超級偶像雙人試鏡會》 （ASAYAN，此亦為早安少女组出道節目）\[1\]\[2\]舉辦之日韓雙人組合爭霸戰，當時參與選拔者中日本籍約8,698人、韓國籍約7,194人。出道當年適逢日韓合辦[2002年世界杯足球賽](https://zh.wikipedia.org/wiki/2002年世界盃足球賽 "wikilink")。\[3\]
 
 命名為Routeφ，是因來自日本和韓國的2位成員的想成為歌壇界新的路線，由[河村隆一](../Page/河村隆一.md "wikilink")擔任製作人並發行三張單曲，同時成為時尚品牌「CHUBBYGANGn」與「melon」雜誌之專屬模特，然而約一年多後（2003年）解散。

@@ -1,3 +1,6 @@
+> 本文内容由[BELIEVE ME \(小坂由美子歌曲\)](https://zh.wikipedia.org/wiki/BELIEVE_ME_\(小坂由美子歌曲\))转换而来。
+
+
 《**BELIEVE ME**》是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[小坂由美子](../Page/小坂由美子.md "wikilink")的第4張單曲。1993年3月21日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 解說

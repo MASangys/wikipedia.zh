@@ -1,4 +1,4 @@
-> 本文内容由[V煞 \(漫畫\)](https://zh.wikipedia.org/wiki/V煞 \(漫畫\))转换而来。
+> 本文内容由[V煞 \(漫畫\)](https://zh.wikipedia.org/wiki/V煞_\(漫畫\))转换而来。
 
 
 《**V字仇杀队**》（）是由[阿兰·摩尔](../Page/阿兰·摩尔.md "wikilink")创作、[大卫·劳埃德创作插图的](https://zh.wikipedia.org/wiki/大卫·劳埃德 "wikilink")[视觉小说](../Page/视觉小说.md "wikilink")，[DC漫画出版商Vertigo出版](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")。剧情描绘了[反乌托邦](../Page/反乌托邦.md "wikilink")和后末日时代的20世纪90年代的英国，此前20世纪80年代的核战争毁灭了世界的大部分地区。法西斯主义党派[北方之火](../Page/北方之火.md "wikilink")用集中营消灭对手，从而统治这个警察当道的国度。漫画追随着其名义上的主角、戴着[盖伊·福克斯面具的](https://zh.wikipedia.org/wiki/盖伊·福克斯面具 "wikilink")[无政府主义](../Page/无政府主义.md "wikilink")革命者[V](../Page/V_\(漫畫人物\).md "wikilink")。V精心策划了一场戏剧性的革命家活动，来谋杀他以前的俘虏——推翻政府并说服人们统治自己，同时鼓励一名年轻的女性埃维·哈蒙德做他的得意门生。

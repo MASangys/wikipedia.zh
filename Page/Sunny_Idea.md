@@ -1,3 +1,6 @@
+> 本文内容由[Sunny Idea](https://zh.wikipedia.org/wiki/Sunny_Idea)转换而来。
+
+
 **意晴**（**Sunny Idea**），[香港](../Page/香港.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")成立於2013年 及**HKonlineTV** 網絡電視成立於2014年。公司現時主要負責[歌手](../Page/歌手.md "wikilink")和[藝人經紀業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")，旗下著名歌手和藝人包括[王灝兒](../Page/王灝兒.md "wikilink")、[關楚耀](../Page/關楚耀.md "wikilink")、[董嘉儀](../Page/董嘉儀.md "wikilink")等。
 
 ## 旗下藝人

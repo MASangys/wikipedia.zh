@@ -1,3 +1,6 @@
+> 本文内容由[My SMT](https://zh.wikipedia.org/wiki/My_SMT)转换而来。
+
+
 《**My SMT**》，全名為《**My SM Television**》，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")自2016年9月19日起製作，而由Naver VOD播出的網路綜藝節目， 首檔SM家族藝人專屬直播互動綜藝節目，主要內容以採訪一至數位[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的藝人\[1\]\[2\]、並與該藝人進行綜藝活動，同時也與粉絲互動為主。
 
 ## 常规班底

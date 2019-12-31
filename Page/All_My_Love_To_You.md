@@ -1,3 +1,6 @@
+> 本文内容由[All My Love To You](https://zh.wikipedia.org/wiki/All_My_Love_To_You)转换而来。
+
+
 《**All My Love To You**》是[日本](../Page/日本.md "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")[舞蹈](../Page/舞蹈.md "wikilink")[歌唱團體](https://zh.wikipedia.org/wiki/歌唱 "wikilink")[DA PUMP的第](../Page/DA_PUMP.md "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年11月7日由[avex tune發行](../Page/愛貝克思集團.md "wikilink")。
 
 ## 概要

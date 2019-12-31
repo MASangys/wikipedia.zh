@@ -1,4 +1,4 @@
-> 本文内容由[LIVE 〜LEGEND I、D、Z APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE 〜LEGEND I、D、Z APOCALYPSE〜)转换而来。
+> 本文内容由[LIVE 〜LEGEND I、D、Z APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜)转换而来。
 
 
 《**LIVE 〜LEGEND I、D、Z APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ 〜レジェンド アイ、ディー、ゼット アポカリプス〜）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2013年發行的第一張現場影像作品\[1\]。

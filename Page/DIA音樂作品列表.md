@@ -1,3 +1,6 @@
+> 本文内容由[DIA音樂作品列表](https://zh.wikipedia.org/wiki/DIA音樂作品列表)转换而来。
+
+
 **DIA音樂作品列表**主要列舉[韓國女子組合](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[DIA](https://zh.wikipedia.org/wiki/DIA_\(韓國音樂團體\) "wikilink")（）歷年發行的各類音樂專輯、影視歌曲及廣告歌曲。
 
 ## 音樂作品

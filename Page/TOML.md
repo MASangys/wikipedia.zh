@@ -1,3 +1,6 @@
+> 本文内容由[TOML](https://zh.wikipedia.org/wiki/TOML)转换而来。
+
+
 **TOML** 是一种旨在成为一个小规模、易于使用的语义化的[配置文件格式](https://zh.wikipedia.org/wiki/配置文件格式 "wikilink")，\[1\]它被设计为可以无二义性的转换为一个[哈希表](../Page/哈希表.md "wikilink")。
 
 “TOML”这个名字是“Tom's Obvious, Minimal Language（汤姆的浅显的、极简的语言）”的首字母略写词\[2\]。“Tom”指它的作者。

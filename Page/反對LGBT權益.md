@@ -1,3 +1,6 @@
+> 本文内容由[反對LGBT權益](https://zh.wikipedia.org/wiki/反對LGBT權益)转换而来。
+
+
 **反對LGBT權益**是反對[女同性戀](../Page/女同性戀.md "wikilink")，[男同性戀者](https://zh.wikipedia.org/wiki/男同性戀者 "wikilink")，[双性恋](../Page/双性恋.md "wikilink")和[跨性別](../Page/跨性別.md "wikilink")能獲得法律平等保障和對待的[權利](https://zh.wikipedia.org/wiki/自然權利 "wikilink")。
 
 對於反對的原因不一，有的是基於[歧視](../Page/歧視.md "wikilink")。或担心对[家庭](../Page/家庭.md "wikilink")价值观的影响。不少會經由[宗教](../Page/宗教.md "wikilink")、[道德](../Page/道德.md "wikilink")、[同性恋恐惧症](https://zh.wikipedia.org/wiki/同性恋恐惧症 "wikilink")、[跨性別恐懼症](../Page/跨性別恐懼症.md "wikilink")、偏執\[1\]、仇恨\[2\]、 [意識形態](../Page/意識形態.md "wikilink")、或其他原因的刺激。

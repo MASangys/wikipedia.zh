@@ -1,4 +1,4 @@
-> 本文内容由[BlackBerry Passport](https://zh.wikipedia.org/wiki/BlackBerry Passport)转换而来。
+> 本文内容由[BlackBerry Passport](https://zh.wikipedia.org/wiki/BlackBerry_Passport)转换而来。
 
 
 **BlackBerry Passport**，又名**BlackBerry Q30**\[1\]，是[黑莓公司](../Page/黑莓公司.md "wikilink")于2014年9月24日发表的[智能手机](../Page/智能手机.md "wikilink")，以商务人士作为主要使用人群。该款手机是[程守宗](../Page/程守宗.md "wikilink")担任黑莓公司CEO后发布的首款手机，此举是希望从过去智能手机市场挫败后卷土重来\[2\]。手机搭载4.5英寸屏幕，配备了具备[触控板功能的](https://zh.wikipedia.org/wiki/触控板 "wikilink")[物理键盘](https://zh.wikipedia.org/wiki/物理键盘 "wikilink")，并预装了黑莓公司自行研发的[BlackBerry 10.3系统](../Page/BlackBerry_10.md "wikilink")。由于手机的外观酷似一本[护照](../Page/护照.md "wikilink")，因此这部手机在汉语里可称作为**黑莓护照**\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Ithkuil](https://zh.wikipedia.org/wiki/Ithkuil)转换而来。
+
+
 **Ithkuil**是由John Quijada所创造的一门人造实验语言\[1\]。旨在简单而明确地表达更深层次的人类认知，特别是在范畴化方面。作为[先验](https://zh.wikipedia.org/wiki/先驗語言 "wikilink")[哲学语言](../Page/哲学语言.md "wikilink")和[逻辑语言的交汇点](https://zh.wikipedia.org/wiki/逻辑语言 "wikilink")，其尽可能的消除[自然语言中可能出现的语意模糊和歧义](https://zh.wikipedia.org/wiki/自然语言 "wikilink")\[2\]。ithkuil以其语法的高度曲折和音系的宽大著称，虽然后者在最终定型的版本中被简化。Ithkuil是Iţkuîl的无附标写法，而Iţkuîl用其本身解释是“一种假想的语言”。Quijada表示他创造Ithkuil的目的不是为了用于日常对话，而是希望在诸如哲学、艺术、科学、政治这些高端的方面得到一些前所未有的想法\[3\]。
 
 从最早版本的语法书撷得的例子来看\[4\]，通常在自然语言中需要长篇大论说明的一些事件或概念，在Ithkuil中仅仅需要不长的文段就可以对译，例如：「Tram-mļöi hhâsmařpţuktôx」这段文段若译成英语则是「On the contrary, I think it may turn out that this rugged mountain range trails off at some point」，译成汉语则是“正相反，我认为这段嶒棱的山丘可能會在某個時刻完全消失”\[5\]。至今未有人能够流利地使用Ithkuil作为日常语言交谈（包括Quijada本人），但Quijada认为他创造的语言虽较复杂，仍适合用于人类交流。

@@ -1,3 +1,6 @@
+> 本文内容由[D.o.b](https://zh.wikipedia.org/wiki/D.o.b)转换而来。
+
+
 《**d.o.b**》（韓語：）是韓國[MNET電視台的綜藝節目](https://zh.wikipedia.org/wiki/MNET "wikilink")，為**d**ance **o**r **b**and的縮寫。由[FNC娛樂](../Page/FNC娛樂.md "wikilink")的新人訓練學院（NEOZ SCHOOL）第一期學員分為舞蹈和樂團兩支隊伍進行競爭，為真人選秀綜藝節目\[1\]。
 
 ## 學員分隊

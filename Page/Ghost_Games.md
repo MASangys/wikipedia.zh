@@ -1,4 +1,4 @@
-> 本文内容由[Ghost Games](https://zh.wikipedia.org/wiki/Ghost Games)转换而来。
+> 本文内容由[Ghost Games](https://zh.wikipedia.org/wiki/Ghost_Games)转换而来。
 
 
 **Ghost Games**（原名**EA Gothenburg**），是[美国艺电所拥有并位于瑞典和英国](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")（Ghost Games UK）的游戏开发商。该工作室专注于使用寒霜引擎开发[极品飞车系列游戏](https://zh.wikipedia.org/wiki/极品飞车 "wikilink")。80％的Criterion Games staff（前[极品飞车系列游戏的开发商](https://zh.wikipedia.org/wiki/极品飞车 "wikilink")）的员工来到Ghost Games UK来发展该系列游戏。

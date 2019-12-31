@@ -1,4 +1,4 @@
-> 本文内容由[J Dream公司](https://zh.wikipedia.org/wiki/J Dream公司)转换而来。
+> 本文内容由[J Dream公司](https://zh.wikipedia.org/wiki/J_Dream公司)转换而来。
 
 
 **傑尼斯夢想公司**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：，[日語](https://zh.wikipedia.org/wiki/日本語 "wikilink")：）是[日本](../Page/日本.md "wikilink")一家[電影製作公司](../Page/电影制片厂.md "wikilink")，其[董事長](../Page/董事長.md "wikilink")兼[總經理是](https://zh.wikipedia.org/wiki/總經理 "wikilink")[Johnny喜多川](https://zh.wikipedia.org/wiki/Johnny喜多川 "wikilink")，[董事](../Page/董事.md "wikilink")為[SMAP](../Page/SMAP.md "wikilink")首席[經紀人飯島三智](https://zh.wikipedia.org/wiki/經紀人 "wikilink")。

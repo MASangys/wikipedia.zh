@@ -1,3 +1,6 @@
+> 本文内容由[Max Mix](https://zh.wikipedia.org/wiki/Max_Mix)转换而来。
+
+
 **株式會社Max Mix**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[中央區](../Page/中央區_\(東京都\).md "wikilink")[新富](../Page/新富_\(東京都中央區\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")（聲優事務所）。成立於2007年3月30日\[2\]。
 
 ## 所屬聲優

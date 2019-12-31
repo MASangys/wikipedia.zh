@@ -1,3 +1,6 @@
+> 本文内容由[IOS应用程序审核](https://zh.wikipedia.org/wiki/IOS应用程序审核)转换而来。
+
+
 根据[苹果公司规定](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，所有适用于[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[移动应用程序需要通过](../Page/流動應用程式.md "wikilink")**苹果的审核**，同时根据[iOS软件开发工具包协议中所述](https://zh.wikipedia.org/wiki/iOS软件开发工具包 "wikilink")，进行基本的可靠性测试和其他分析后，才能在[App Store上架](../Page/App_Store_\(iOS\).md "wikilink")。如果应用程序被苹果拒绝上架，应用程序仍可通过Ad Hoc发布的方式进行小部分分发，这需要由软件开发者手动向苹果提交请求，以将应用程序许可给个人iPhone\[1\]。
 
 苹果公司的一直禁止开发商发布其拒绝通知的内容，且苹果公司已经开始在拒绝信件中加入明确的不公开警告\[2\]。开发者可以要求应用程序不在指定国家或地区的App Store上架\[3\]。
@@ -86,9 +89,13 @@ App Store仍拥有尚未被下架，且被评级为成人级的《[Playboy](../P
 
 2019年5月8日，中国医疗咨询平台[丁香医生](../Page/丁香医生.md "wikilink")更新后的iOS版由于存在避开应用程序内购机制（IAP）的应用内购买功能、内容或者服务，违反了相关要求，被苹果公司拒绝，其后丁香医生两度通过邮件形式进行申诉，表示图文问诊中使用的支付模式属于平台医生针对患者的个性化需求而提供的线上医疗服务。而丁香医生负责人认为，苹果公司的做法侵犯了平台医生的合法权益，因此计划起诉苹果公司\[59\]。
 
+### HKmap.live
+
+2019年9月21日，一位[匿名](../Page/匿名.md "wikilink")的开发者向苹果App Store提出可實時顯示香港警員及警車身處位置等的應用程式的上架申请，后于26日被拒绝，理由与付款选项等问题有关。在解决问题后，该应用又被重新提交，然而在10月2日再次被苹果公司拒绝，理由是“其会帮助用户逃避执法，鼓勵進行違法活動”。而開發者隨後於[Twitter](../Page/Twitter.md "wikilink")上表示该程式“只提供資訊，並沒鼓勵市民進行違法活動” 其后，该程序正式被苹果批准上架，\[60\]\[61\]但苹果公司又將再其下架\[62\]。
+
 ## 相关诉讼
 
-2017年8月10日，北京一家律师事务所代表28家应用开发商，向[国家发改委和](https://zh.wikipedia.org/wiki/国家发改委 "wikilink")[国家工商总局控告苹果公司强制下架部分应用程序以及对应用程序打赏功能抽取](https://zh.wikipedia.org/wiki/国家工商总局 "wikilink")30%的提成等行为，违反《[中华人民共和国反垄断法](https://zh.wikipedia.org/wiki/中华人民共和国反垄断法 "wikilink")》。律师事务所称苹果公司涉嫌“滥用市场支配地位”的行为，包括拒绝交易、差别待遇、附条件交易即搭售、定价过高等内容。对此，苹果公司回应称，大部分从中国提交的应用程序都可以在48小时或更短的时间内得到审核和通过。如果某个应用程序因为违反了App Store的相关指南而被拒绝或被移除，开发者可以使用申诉流程，向App Store就其具体情况提出再次审核并可以获取支持，从而帮助其尽快恢复上线\[60\]\[61\]。
+2017年8月10日，北京一家律师事务所代表28家应用开发商，向[国家发改委和](https://zh.wikipedia.org/wiki/国家发改委 "wikilink")[国家工商总局控告苹果公司强制下架部分应用程序以及对应用程序打赏功能抽取](https://zh.wikipedia.org/wiki/国家工商总局 "wikilink")30%的提成等行为，违反《[中华人民共和国反垄断法](https://zh.wikipedia.org/wiki/中华人民共和国反垄断法 "wikilink")》。律师事务所称苹果公司涉嫌“滥用市场支配地位”的行为，包括拒绝交易、差别待遇、附条件交易即搭售、定价过高等内容。对此，苹果公司回应称，大部分从中国提交的应用程序都可以在48小时或更短的时间内得到审核和通过。如果某个应用程序因为违反了App Store的相关指南而被拒绝或被移除，开发者可以使用申诉流程，向App Store就其具体情况提出再次审核并可以获取支持，从而帮助其尽快恢复上线\[63\]\[64\]。
 
 ## 参见
 
@@ -108,113 +115,66 @@ App Store仍拥有尚未被下架，且被评级为成人级的《[Playboy](../P
 [Category:ITunes](https://zh.wikipedia.org/wiki/Category:ITunes "wikilink") [Category:苹果公司服务](https://zh.wikipedia.org/wiki/Category:苹果公司服务 "wikilink") [Category:IOS越狱](https://zh.wikipedia.org/wiki/Category:IOS越狱 "wikilink") [Category:在线内容分发](https://zh.wikipedia.org/wiki/Category:在线内容分发 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.  [WWDC 2010 Steve Jobs on the App Store](http://allthingsd.com/20100607/wwdc-2010-steve-jobs-on-the-app-store/)
-
 10.
-
 11. Jannie Zaaiman, Louise Leenan *Iccws 2015 - The Proceedings of the 10th International Conference on Cyber Warfare and Security*, Academic Conferences Limited, 2015, pp. 160
-
 12.
-
 13.
-
 14. [苹果App Store火线下架遭感染的软件](http://www.cnbeta.com/articles/431557.htm) — cnbeta
-
 15.
-
 16.
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
 36.
-
 37. Mercedes Bunz: [German publisher in row with Apple over pin-ups in iPhone app](https://www.theguardian.com/media/pda/2010/mar/09/bild-iphone-app)
-
 38.
 39.
-
 40.
 41.
 42.
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
 52.
-
 53.
-
 54.
 55.
-
 56.
 57.
-
 58.
-
 59.
-
 60.
-
 61.
+62.
+63.
+64.

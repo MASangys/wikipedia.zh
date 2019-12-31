@@ -1,4 +1,4 @@
-> 本文内容由[Pennsylvania 6-5000 \(歌曲\)](https://zh.wikipedia.org/wiki/Pennsylvania 6-5000 \(歌曲\))转换而来。
+> 本文内容由[Pennsylvania 6-5000 \(歌曲\)](https://zh.wikipedia.org/wiki/Pennsylvania_6-5000_\(歌曲\))转换而来。
 
 
 "**Pennsylvania 6-5000**" 是一首[Glenn Miller](../Page/格伦·米勒.md "wikilink") 和他的大乐团在1940年所录制的摇摆乐和流行爵士标准曲，并由Glenn Miller发行在RCA Bluebird的[单曲](../Page/单曲.md "wikilink")[黑胶唱片上](https://zh.wikipedia.org/wiki/黑胶唱片 "wikilink")。

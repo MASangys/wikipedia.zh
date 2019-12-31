@@ -1,4 +1,4 @@
-> 本文内容由[Ain\'t That a Kick in the Head\?](https://zh.wikipedia.org/wiki/Ain\'t That a Kick in the Head\?)转换而来。
+> 本文内容由[Ain\'t That a Kick in the Head\?](https://zh.wikipedia.org/wiki/Ain\'t_That_a_Kick_in_the_Head\?)转换而来。
 
 
 **Ain't That a Kick in the Head?**是一首非常值得玩味的歌曲。它是在1960年，由作曲，[Sammy Cahn作词](https://zh.wikipedia.org/wiki/Sammy_Cahn "wikilink")，[Nelson Riddle指挥](https://zh.wikipedia.org/wiki/Nelson_Riddle "wikilink")，并且由[迪安·马丁](../Page/迪安·马丁.md "wikilink")在该年的5月10日首次演唱。在电影[Ocean's 11 (1960)中](https://zh.wikipedia.org/wiki/Ocean's_11_\(1960\) "wikilink")，Martin还与铁琴演奏家和他的四重奏乐队合作表演了一段这首歌曲。

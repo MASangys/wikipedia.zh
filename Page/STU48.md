@@ -1,3 +1,6 @@
+> 本文内容由[STU48](https://zh.wikipedia.org/wiki/STU48)转换而来。
+
+
 **STU48**是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，由作詞家[秋元康](../Page/秋元康.md "wikilink")擔任總製作人，為[AKB48](../Page/AKB48.md "wikilink")在日本國內的第6個姊妹團體。於2017年5月開始活動，在[日本西部的](https://zh.wikipedia.org/wiki/西日本 "wikilink")[瀨戶內地方](../Page/瀨戶內地方.md "wikilink")以[船](../Page/船.md "wikilink")上[劇場做為活動根據地](../Page/劇場_\(建築\).md "wikilink")，為[AKB48集團](../Page/AKB48集團.md "wikilink")首個活動據點非都市的團體。團名源自「瀨戶內」的[羅馬拼音](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「**S**e**T**o**U**chi」。运营公司與原生成員所屬的經紀公司為設立於[廣島市](../Page/廣島市.md "wikilink")的\[1\]；所屬唱片公司则与AKB48相同，为[KING RECORDS旗下品牌](../Page/國王唱片.md "wikilink")「[You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")」。
 
 ## 特色

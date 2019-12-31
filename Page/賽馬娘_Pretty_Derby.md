@@ -1,3 +1,6 @@
+> 本文内容由[賽馬娘 Pretty Derby](https://zh.wikipedia.org/wiki/賽馬娘_Pretty_Derby)转换而来。
+
+
 ，是由遊戲開發公司[Cygames](../Page/Cygames.md "wikilink")製作的以[手機遊戲為主導](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，包含動畫、漫畫和音樂的多媒體企劃\[1\]。簡稱『**馬娘**（****）』。預定2018年上市\[2\]。
 
 遊戲內容是以[競賽馬](https://zh.wikipedia.org/wiki/競賽馬 "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")為主題，並以「系列」作稱呼在賽場上以勝利為目標的[養成遊戲](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")。
@@ -632,21 +635,16 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 1.
 2.
 3.
-
 4.
 5.
-
 6.
 7.
-
 8.
 9.
 10.
-
 11.
 12.
 13.
-
 14.
 15.
 16.
@@ -665,10 +663,7 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 29.
 30.
 31.
-
 32.
 33.
-
 34.
-
 35.

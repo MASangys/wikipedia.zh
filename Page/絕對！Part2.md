@@ -1,3 +1,6 @@
+> 本文内容由[絕對！Part2](https://zh.wikipedia.org/wiki/絕對！Part2)转换而来。
+
+
 《**絕對！Part2**》（）是[日本](../Page/日本.md "wikilink")女[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[早坂好惠](../Page/早坂好惠.md "wikilink")的出道首張單曲。1990年10月24日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

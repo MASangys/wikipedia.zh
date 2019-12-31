@@ -1,3 +1,6 @@
+> 本文内容由[YoungQueenz](https://zh.wikipedia.org/wiki/YoungQueenz)转换而来。
+
+
 **YoungQueenz**（或**YOUNG QUEENZ**，），香港饒舌歌手，專輯作品有《 [異常火曜日](https://zh.wikipedia.org/wiki/異常火曜日 "wikilink")\[1\]》、以及以[御宅MOBB名義](https://zh.wikipedia.org/wiki/御宅MOBB "wikilink")\[2\]發表的《御宅MOBB : 御宅 - OTAKU MOBBIN' 》。
 
 2011年，YoungQueenz创立了独立音乐厂牌 [撒野作風 Wildstyle Records](https://zh.wikipedia.org/wiki/撒野作風_Wildstyle_Records "wikilink")，名字来自电影《Wild Style》。歌曲《水原希子》用粗野声腔，疯狂的Trap Metal说唱风格侵略内地HipHop乐迷的耳膜\[3\]。

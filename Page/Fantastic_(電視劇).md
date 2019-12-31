@@ -1,4 +1,4 @@
-> 本文内容由[Fantastic \(電視劇\)](https://zh.wikipedia.org/wiki/Fantastic \(電視劇\))转换而来。
+> 本文内容由[Fantastic \(電視劇\)](https://zh.wikipedia.org/wiki/Fantastic_\(電視劇\))转换而来。
 
 
 《**Fantastic**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2016年9月2日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[LAST](../Page/LAST_\(電視劇\).md "wikilink")》[趙南國](../Page/趙南國.md "wikilink")執導與《[吸血鬼偶像](../Page/吸血鬼偶像.md "wikilink")》李成恩作家共同打造的作品，講述韓流明星與生命即將走到盡頭的電視劇編劇相遇的浪漫喜劇。

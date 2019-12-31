@@ -1,4 +1,4 @@
-> 本文内容由[三星Galaxy S7](https://zh.wikipedia.org/wiki/三星Galaxy S7)转换而来。
+> 本文内容由[三星Galaxy S7](https://zh.wikipedia.org/wiki/三星Galaxy_S7)转换而来。
 
 
 **Samsung Galaxy S7** 和 **Samsung Galaxy S7 Edge** 是韓國[三星電子](../Page/三星電子.md "wikilink")在2016年推出的[Android](../Page/Android.md "wikilink")系統頂尖高階旗艦[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是[三星Galaxy S系列中的第七代](../Page/三星Galaxy_S系列.md "wikilink")，承繼[三星Galaxy S6](../Page/三星Galaxy_S6.md "wikilink")。該手機在2016年2月21日[MWC](https://zh.wikipedia.org/wiki/MWC "wikilink")（[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")）的三星新聞發布會上首次亮相，歐洲和北美版本定於2016年3月11日公佈。與前代 S6 一樣，S7分為普通版和擁有曲面屏的Edge版本，S7也是前代S6的改進，恢復[Galaxy S5的一些設計特徵](https://zh.wikipedia.org/wiki/Galaxy_S5 "wikilink")， 競爭對手為[iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、Huawei P9、HTC 10、小米5。\[1\]\[2\]目前已經可以更新到 [Samsung Experience](../Page/Samsung_Experience.md "wikilink") 9介面的 [Android Oreo](../Page/Android_Oreo.md "wikilink") (8)版本。\[3\]

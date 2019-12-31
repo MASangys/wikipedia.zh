@@ -1,4 +1,4 @@
-> 本文内容由[华为Mate 8](https://zh.wikipedia.org/wiki/华为Mate 8)转换而来。
+> 本文内容由[华为Mate 8](https://zh.wikipedia.org/wiki/华为Mate_8)转换而来。
 
 
 **Huawei Mate 8**是[华为](../Page/华为.md "wikilink")在2015年11月推出的一款高端[Android](../Page/Android.md "wikilink")智能手机。

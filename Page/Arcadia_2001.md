@@ -1,4 +1,4 @@
-> 本文内容由[Arcadia 2001](https://zh.wikipedia.org/wiki/Arcadia 2001)转换而来。
+> 本文内容由[Arcadia 2001](https://zh.wikipedia.org/wiki/Arcadia_2001)转换而来。
 
 
 **Arcadia 2001**是一款由[Emerson Radio於](https://zh.wikipedia.org/wiki/Emerson_Radio "wikilink")1982年發售的[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[8位元](../Page/8位元.md "wikilink")家用遊戲機。但是由開始發售至停產，它的壽命只有18個月，亦只推出數十款遊戲\[1\]\[2\]\[3\]\[4\]。

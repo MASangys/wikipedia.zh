@@ -1,4 +1,4 @@
-> 本文内容由[Hello Nico](https://zh.wikipedia.org/wiki/Hello Nico)转换而来。
+> 本文内容由[Hello Nico](https://zh.wikipedia.org/wiki/Hello_Nico)转换而来。
 
 
 **Hello Nico**，臺灣獨立搖滾樂團，2013年成立，成員為詹宇庭、李詠恩、陳信伯、關惠中，2016年獲得[第27屆金曲獎最佳新人獎提名](https://zh.wikipedia.org/wiki/第27屆金曲獎 "wikilink")。

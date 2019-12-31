@@ -1,3 +1,6 @@
+> 本文内容由[模块:Series overview](https://zh.wikipedia.org/wiki/模块:Series_overview)转换而来。
+
+
 \-- This module implements .
 
 require('Module:No globals') local yesno = require('Module:Yesno') local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )

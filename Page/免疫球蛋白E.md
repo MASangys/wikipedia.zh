@@ -1,3 +1,6 @@
+> 本文内容由[免疫球蛋白E](https://zh.wikipedia.org/wiki/免疫球蛋白E)转换而来。
+
+
 [IgE.jpg](https://zh.wikipedia.org/wiki/File:IgE.jpg "fig:IgE.jpg") [Mast_cells.jpg](https://zh.wikipedia.org/wiki/File:Mast_cells.jpg "fig:Mast_cells.jpg") [Allergy_degranulation_processes_01.svg](https://zh.wikipedia.org/wiki/File:Allergy_degranulation_processes_01.svg "fig:Allergy_degranulation_processes_01.svg"),[蛋白酶](../Page/蛋白酶.md "wikilink"),[趋化因子](../Page/趋化因子.md "wikilink"),[肝素](../Page/肝素.md "wikilink")); 5 - 颗粒; 6 - 肥大细胞; 7 - 新合成的介质 ([前列腺素](../Page/前列腺素.md "wikilink"), [白三烯](../Page/白三烯.md "wikilink"),[血栓素](https://zh.wikipedia.org/wiki/血栓素 "wikilink"), PAF)\]\]
 
 **免疫球蛋白E**（，簡稱****）是一类只发现于哺乳动物内的抗体，是正常人血清中含量最小的免疫球蛋白\[1\]。免疫球蛋白E由黏膜下淋巴组织中的\[2\][效应B细胞合成](https://zh.wikipedia.org/wiki/效应B细胞 "wikilink")，IgE的单体由两个重链和两个轻链组成\[3\]。它是一类亲细胞抗体。IgE可引起I型变态反应（又称[过敏](../Page/过敏.md "wikilink")），同时可能与机体抗寄生虫免疫有关。\[4\]寄生虫和过敏原入侵时，血清中的免疫球蛋白E的含量有明显的提升。

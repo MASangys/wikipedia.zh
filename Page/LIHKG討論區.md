@@ -1,3 +1,6 @@
+> 本文内容由[LIHKG討論區](https://zh.wikipedia.org/wiki/LIHKG討論區)转换而来。
+
+
 **LIHKG討論區**，俗稱**連登\[1\]**，是[香港](../Page/香港.md "wikilink")的[網上討論區](https://zh.wikipedia.org/wiki/網上討論區 "wikilink")，由[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[高登討論區](../Page/高登討論區.md "wikilink")第三方[應用程式](../Page/流動應用程式.md "wikilink")「HKG+」演變而成，於2016年11月25日正式開始運作。\[2\]\[3\]2019年，LIHKG討論區登上Google年度搜尋榜熱爆關鍵字及本地頭條榜首\[4\]。
 
 網站[域名](../Page/域名.md "wikilink")是lihkg.com，但也可以通過縮短域名lih.kg訪問。（[.kg是](https://zh.wikipedia.org/wiki/.kg "wikilink")[吉爾吉斯斯坦的](https://zh.wikipedia.org/wiki/吉爾吉斯斯坦 "wikilink")[國家頂級域名](https://zh.wikipedia.org/wiki/國家頂級域名 "wikilink")。）

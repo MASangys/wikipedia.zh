@@ -1,3 +1,6 @@
+> 本文内容由[模块:Template:Keep](https://zh.wikipedia.org/wiki/模块:Template:Keep)转换而来。
+
+
 local data = require( 'Module:Template:Keep/data' )
 
 local z = {}

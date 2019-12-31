@@ -1,3 +1,6 @@
+> 本文内容由[THE BEAT GARDEN](https://zh.wikipedia.org/wiki/THE_BEAT_GARDEN)转换而来。
+
+
 **THE BEAT GARDEN**是[日本](../Page/日本.md "wikilink")音樂組合，四人男子團體。2016年7月27日以單曲『Never End』正式出道。
 
 ## 概要
@@ -243,6 +246,16 @@ UMCK-7017</p></td>
 ヒューマン (Instrumental)</p></td>
 <td><p>8位</p></td>
 </tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2019年12月4日</p></td>
+<td><p><strong>Snow White Girl</strong></p></td>
+<td><p>CD+DVD<br />
+CD</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -341,9 +354,10 @@ Satisfaction<br />
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p>Larger| ONE MAN LIVE 2019「THE NEST」</p></td>
+<td><p>Larger| ONE MAN LIVE 2019-2020「THE NEST」</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
-<p>10月27日 愛知 DIAMOND HALL</p>
+<p>10月27日 愛知 DIAMOND HALL<br />
+1月26日 東京 新木場 STUDIO COAST</p>
 </div></td>
 </tr>
 </tbody>

@@ -1,4 +1,4 @@
-> 本文内容由[FILM LOTUS Ⅸ](https://zh.wikipedia.org/wiki/FILM LOTUS Ⅸ)转换而来。
+> 本文内容由[FILM LOTUS Ⅸ](https://zh.wikipedia.org/wiki/FILM_LOTUS_Ⅸ)转换而来。
 
 
 《**FILM LOTUS Ⅸ**》，日本女歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的第九張音樂錄影帶選集。2016年6月29日發行。

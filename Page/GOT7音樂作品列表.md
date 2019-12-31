@@ -1,3 +1,6 @@
+> 本文内容由[GOT7音樂作品列表](https://zh.wikipedia.org/wiki/GOT7音樂作品列表)转换而来。
+
+
 **[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男子組合，於2014在年正式出道。GOT7在韓迄今共發行4張正規專輯、4張改版專輯及11張迷你專輯。而在日本發行了1張正規專輯、4張迷你專輯及7張單曲。
 
 唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂](../Page/Genie音樂.md "wikilink")及[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。

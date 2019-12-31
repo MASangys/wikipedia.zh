@@ -1,3 +1,6 @@
+> 本文内容由[V \(漫畫人物\)](https://zh.wikipedia.org/wiki/V_\(漫畫人物\))转换而来。
+
+
 **V**是一名美國漫畫的虛構人物。出自於阿蘭·摩爾與大衛·勞埃德所創作的漫畫《[V怪客](../Page/V煞_\(漫畫\).md "wikilink")》，V同時也是該漫畫的主角。
 
 他是一名[無政府主義革命者](https://zh.wikipedia.org/wiki/無政府主義 "wikilink")、自發性的治安維持者和[自由鬥士](https://zh.wikipedia.org/wiki/行動宣傳 "wikilink")。V總是以在臉上戴著[蓋伊·福克斯面具](../Page/蓋伊·福克斯面具.md "wikilink")、留著長髮，身披斗篷的模樣出現在他人面前。

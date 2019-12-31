@@ -1,4 +1,4 @@
-> 本文内容由[Hopeless Love](https://zh.wikipedia.org/wiki/Hopeless Love)转换而来。
+> 本文内容由[Hopeless Love](https://zh.wikipedia.org/wiki/Hopeless_Love)转换而来。
 
 
 《**Hopeless Love**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")的首張個人單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年4月5日發行。

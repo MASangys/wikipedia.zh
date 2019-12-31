@@ -1,3 +1,6 @@
+> 本文内容由[J·P·奥德威](https://zh.wikipedia.org/wiki/J·P·奥德威)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Twinklingstarsarelaughing.png "fig:右") [右](https://zh.wikipedia.org/wiki/File:1855_Donniker_OrdwayHall_Boston.png "fig:右") **约翰·庞德·奥德威**（，）是[美国](../Page/美国.md "wikilink")一位医生，作曲家，音乐企业家和政治家。\[1\]
 
 他出生在马萨诸塞州的[萨勒姆](../Page/塞勒姆_\(马萨诸塞州\).md "wikilink")，在1840年代中期奥德威和他的父亲Aaron在[波士顿](../Page/波士顿.md "wikilink")开了一家音乐商店。约翰也是一个音乐出版商和作曲家，他的"Twinkling Stars are Laughing, Love" (1855)由海顿四重奏记录直到1902年和1904年。"Dreaming of Home and Mother" (1851)是一个受欢迎的内战时代的伤感歌曲，并且继续演出。它在中国（《[送别](../Page/送别_\(歌曲\).md "wikilink")》）和日本（《》）的翻译版本尤其受欢迎。\[2\]

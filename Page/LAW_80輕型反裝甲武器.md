@@ -1,4 +1,4 @@
-> 本文内容由[LAW 80輕型反裝甲武器](https://zh.wikipedia.org/wiki/LAW 80輕型反裝甲武器)转换而来。
+> 本文内容由[LAW 80輕型反裝甲武器](https://zh.wikipedia.org/wiki/LAW_80輕型反裝甲武器)转换而来。
 
 
 **LAW 80**（全稱：**L**ight **A**nti-armour **W**eapon **80**，意為：輕型反裝甲武器80；有時會被誤稱為LAW 94）是一具由[英国武器製造商](https://zh.wikipedia.org/wiki/英国 "wikilink")所研製和生產的單兵攜帶、一次射擊型[反坦克](../Page/反坦克戰.md "wikilink")[火箭推進](../Page/火箭弹发射器.md "wikilink")[榴彈類別武器](../Page/火箭推進榴彈.md "wikilink")，目前由英國陸軍和其他一些軍隊所使用，發射94毫米火箭彈。

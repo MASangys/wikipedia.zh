@@ -1,3 +1,6 @@
+> 本文内容由[Amar pelos dois](https://zh.wikipedia.org/wiki/Amar_pelos_dois)转换而来。
+
+
 《**Amar pelos dois**》是由葡萄牙歌手[薩爾瓦多·索布拉爾演唱的曲子](../Page/萨尔瓦多·索布拉尔.md "wikilink")，作曲人為他的姊姊[路易莎·索布拉爾](../Page/路易莎·索布拉尔.md "wikilink")。此曲贏得了2017年的[葡萄牙音樂節](../Page/葡萄牙音樂節.md "wikilink")及[歐洲歌唱大賽](../Page/2017年欧洲歌唱大赛.md "wikilink")，使葡萄牙自參賽（1964年）以來首度獲得冠軍。2017年3月10日，本曲透過Sons em Trânsito進行數位發行。
 
 ## 歐洲歌唱大賽

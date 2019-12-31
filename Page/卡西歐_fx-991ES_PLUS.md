@@ -1,4 +1,4 @@
-> 本文内容由[卡西歐 fx-991ES PLUS](https://zh.wikipedia.org/wiki/卡西歐 fx-991ES PLUS)转换而来。
+> 本文内容由[卡西歐 fx-991ES PLUS](https://zh.wikipedia.org/wiki/卡西歐_fx-991ES_PLUS)转换而来。
 
 
 **卡西歐 fx-991ES PLUS**是一款由卡西欧推出的科学计算器，为卡西欧 fx-991ES的改进型号。

@@ -1,3 +1,6 @@
+> 本文内容由[Rapi:t](https://zh.wikipedia.org/wiki/Rapi:t)转换而来。
+
+
 **Rapi:t**（）是來往[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[難波](../Page/難波.md "wikilink")與[關西國際機場之間的](https://zh.wikipedia.org/wiki/關西國際機場 "wikilink")[特急列車](https://zh.wikipedia.org/wiki/特急列車 "wikilink")，由[南海電鐵營運](https://zh.wikipedia.org/wiki/南海電鐵 "wikilink")，路線主要經[南海本線](../Page/南海本線.md "wikilink")。列車名為公開徵求，取自「快速」的德語「」。
 
 ## 服務
@@ -6,7 +9,7 @@ Rapi:t約每隔30分鐘開出一班列車來往[難波站及](../Page/難波站_
 
 由關西機場至新今宮站行車時間約為36分鐘，關西機場至難波全程則為39分鐘。票價為單程1430[日圓](../Page/日圓.md "wikilink")（其中包括920日圓基本運費與510日圓的[特急料金價格](https://zh.wikipedia.org/wiki/特急料金 "wikilink")）。
 
-Rapi:t的主要競爭對手是[JR西日本的](https://zh.wikipedia.org/wiki/JR西日本 "wikilink")[遙號列車](../Page/遙號列車.md "wikilink")（），其價格較為高昂，但可直接到達[新大阪](https://zh.wikipedia.org/wiki/新大阪站 "wikilink")、[京都等多個主要車站](https://zh.wikipedia.org/wiki/京都站 "wikilink")。
+Rapi:t的主要競爭對手是[JR西日本的](https://zh.wikipedia.org/wiki/JR西日本 "wikilink")[遙號列車](../Page/遙號列車.md "wikilink")（），其價格較為高昂，但可直接到達[新大阪](../Page/新大阪站.md "wikilink")、[京都等多個主要車站](../Page/京都站.md "wikilink")。
 
 ## 停靠車站
 

@@ -1,3 +1,6 @@
+> 本文内容由[BTOB演唱會列表](https://zh.wikipedia.org/wiki/BTOB演唱會列表)转换而来。
+
+
 **BTOB演唱會列表**主要列出[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[BTOB](../Page/BTOB.md "wikilink")**自2012年出道以來所舉辦之演唱會、見面會、大型活動及其他演出。\[1\]
 
 ## 單獨演唱會

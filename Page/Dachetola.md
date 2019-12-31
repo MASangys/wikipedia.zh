@@ -1,3 +1,6 @@
+> 本文内容由[Dachetola](https://zh.wikipedia.org/wiki/Dachetola)转换而来。
+
+
 ***Dachetola***是[蜆蝶科](../Page/蜆蝶科.md "wikilink")[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蜆蝶族](../Page/蜆蝶族.md "wikilink")裡的一個屬，尚無正式中文學名命名。共有4個物種，分佈於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")\[1\]。此屬是黑紋蜆蝶屬的[旁系群](../Page/旁系群.md "wikilink")\[2\]。
 
 ## 物種

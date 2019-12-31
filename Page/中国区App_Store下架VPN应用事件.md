@@ -1,3 +1,6 @@
+> 本文内容由[中国区App Store下架VPN应用事件](https://zh.wikipedia.org/wiki/中国区App_Store下架VPN应用事件)转换而来。
+
+
 **中国大陸区App Store下架VPN应用事件**，指2017年7月底，美国[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[中国大陸要求下](https://zh.wikipedia.org/wiki/中华人民共和国政府 "wikilink")，于[中国大陸地区](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")[App Store内移除了数十个](../Page/App_Store_\(iOS\).md "wikilink")[VPN应用](https://zh.wikipedia.org/wiki/VPN "wikilink")，引发了VPN应用开发商及新闻媒体对苹果公司和中国大陸政府的批评\[1\]\[2\]。
 
 ## 背景
@@ -42,54 +45,36 @@ VPN应用开发商对苹果公司和中国大陸政府均持批评态度。遭�
 [Category:中国大陸网络审查](https://zh.wikipedia.org/wiki/Category:中国大陸网络审查 "wikilink") [Category:苹果公司服务](https://zh.wikipedia.org/wiki/Category:苹果公司服务 "wikilink") [Category:2017年7月](https://zh.wikipedia.org/wiki/Category:2017年7月 "wikilink") [Category:2017年中国大陸网络事件](https://zh.wikipedia.org/wiki/Category:2017年中国大陸网络事件 "wikilink") [Category:2017年中国大陸政治事件](https://zh.wikipedia.org/wiki/Category:2017年中国大陸政治事件 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
 16.
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
 25.
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
 33.
 34.

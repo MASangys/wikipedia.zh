@@ -1,4 +1,4 @@
-> 本文内容由[Radiant Entertainment](https://zh.wikipedia.org/wiki/Radiant Entertainment)转换而来。
+> 本文内容由[Radiant Entertainment](https://zh.wikipedia.org/wiki/Radiant_Entertainment)转换而来。
 
 
 **Radiant Entertainment**，是一家位于美国加州的游戏工作室。

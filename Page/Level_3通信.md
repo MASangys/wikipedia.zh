@@ -1,4 +1,4 @@
-> 本文内容由[Level 3通信](https://zh.wikipedia.org/wiki/Level 3通信)转换而来。
+> 本文内容由[Level 3通信](https://zh.wikipedia.org/wiki/Level_3通信)转换而来。
 
 
 **Level 3通信**（Level 3 Communcations）是一家总部位于[美国](../Page/美国.md "wikilink")[科罗拉多州的跨国](https://zh.wikipedia.org/wiki/科罗拉多州 "wikilink")[电信](../Page/电信.md "wikilink")服务及[互联网服务提供商](https://zh.wikipedia.org/wiki/互联网服务提供商 "wikilink")。\[1\]

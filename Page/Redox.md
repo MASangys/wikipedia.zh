@@ -1,3 +1,6 @@
+> 本文内容由[Redox](https://zh.wikipedia.org/wiki/Redox)转换而来。
+
+
 **Redox**是用[Rust](../Page/Rust.md "wikilink")语言写就的[类Unix](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")[微内核](https://zh.wikipedia.org/wiki/微内核 "wikilink")[操作系统](../Page/操作系统.md "wikilink")。Redox追求可用性、自由和安全性，目标是把Rust语言的创新（安全、并发、实用）带入到现代的微内核和整套的应用程序。\[1\]
 
 ## 支持

@@ -1,4 +1,4 @@
-> 本文内容由[畅销Wii U游戏列表](https://zh.wikipedia.org/wiki/畅销Wii U游戏列表)转换而来。
+> 本文内容由[畅销Wii U游戏列表](https://zh.wikipedia.org/wiki/畅销Wii_U游戏列表)转换而来。
 
 
 这是一份销售或出货超过100万份的[Wii U](../Page/Wii_U.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")清单。

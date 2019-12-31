@@ -1,3 +1,6 @@
+> 本文内容由[JK经济](https://zh.wikipedia.org/wiki/JK经济)转换而来。
+
+
 **JK经济**（），在日本指有偿提供与[女高中生](https://zh.wikipedia.org/wiki/女高中生 "wikilink")（，简称JK）近距离接触服务的[商业](../Page/商业.md "wikilink")模式\[1\]\[2\]。
 
 ## 发展
@@ -54,61 +57,37 @@
 [Category:女孩](https://zh.wikipedia.org/wiki/Category:女孩 "wikilink") [Category:日本性产业](https://zh.wikipedia.org/wiki/Category:日本性产业 "wikilink") [Category:性交易](https://zh.wikipedia.org/wiki/Category:性交易 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
 8.
 9.
 10.
-
 11.
-
 12.
 13.
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20. ["In-debt idols send wrong message to girls"](http://www.japantimes.co.jp/news/2014/10/11/national/media-national/debt-idols-send-wrong-message-girls), [Japan Times](https://zh.wikipedia.org/wiki/日本时报 "wikilink")
-
 21. [](http://www.asahi.com/articles/TKY201310020130.html), [朝日新闻](https://zh.wikipedia.org/wiki/朝日新闻 "wikilink"), 2013年10月2日
-
 22.
 23.
-
 24.
 25. [](http://toyokeizai.net/articles/-/99154)
-
 26.
-
 27. [2014 Trafficking in Persons Report](http://www.state.gov/j/tip/rls/tiprpt/countries/2014/226748.htm) [美国国务院](../Page/美国国务院.md "wikilink")
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.

@@ -1,3 +1,6 @@
+> 本文内容由[Ttabo](https://zh.wikipedia.org/wiki/Ttabo)转换而来。
+
+
 **付英男**（[韓文漢字音](https://zh.wikipedia.org/wiki/韓文漢字音 "wikilink")：，音譯：，，），出道時藝名為**Double**（），加入[RANIA](../Page/RANIA.md "wikilink")後改為**Ttabo**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為HY娛樂旗下中國女子組合MissMass的主Rapper、主領舞、副唱擔當以及DR Music旗下女子組合[RANIA](../Page/RANIA.md "wikilink")的主Rapper、領舞、副唱擔當，亦為團內唯一的中國成員\[1\]，2019年8月28日官方證實已退出[RANIA](../Page/RANIA.md "wikilink")。
 
 出道前曾擔任韓星演唱會開場舞蹈員、新浪秀場主播。

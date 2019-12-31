@@ -1,3 +1,6 @@
+> 本文内容由[My Tale](https://zh.wikipedia.org/wiki/My_Tale)转换而来。
+
+
 《**My Tale**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[JW的第三張音樂專輯](../Page/王灝兒.md "wikilink")，於2017年7月18日推出，收錄了她加盟至新公司[Sunny Idea後的派台歌曲](../Page/Sunny_Idea.md "wikilink")。
 
 ## 曲目列表

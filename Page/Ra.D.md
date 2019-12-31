@@ -1,3 +1,6 @@
+> 本文内容由[Ra.D](https://zh.wikipedia.org/wiki/Ra.D)转换而来。
+
+
 **Ra.D**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")、音樂製作人。
 
 ## 音乐作品

@@ -1,4 +1,4 @@
-> 本文内容由[VIA C3處理器列表](https://zh.wikipedia.org/wiki/VIA C3處理器列表)转换而来。
+> 本文内容由[VIA C3處理器列表](https://zh.wikipedia.org/wiki/VIA_C3處理器列表)转换而来。
 
 
 **[C3](../Page/VIA_C3.md "wikilink")**系列處理器為 [VIA第五代處理器](https://zh.wikipedia.org/wiki/VIA "wikilink")，主要面向桌上與移動板平台市場

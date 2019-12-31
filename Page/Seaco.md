@@ -1,3 +1,6 @@
+> 本文内容由[Seaco](https://zh.wikipedia.org/wiki/Seaco)转换而来。
+
+
 **Seaco Srl**，在1998年，由原和[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用電氣每各一半合組營運企業](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")，業務主要在全球銷售和租賃形式[集裝箱](https://zh.wikipedia.org/wiki/集裝箱 "wikilink")。而英國海運貨櫃公司遭美國聯邦法院按照以《[美國法典第11章破產法](https://zh.wikipedia.org/wiki/美國法典第11章破產法 "wikilink")》進行申請破產\[1\]。
 
 2011年12月15日，[海航集團以](https://zh.wikipedia.org/wiki/海航集團 "wikilink")10.5億美元，收購從美國通用電氣所持該股權\[2\]\[3\]。

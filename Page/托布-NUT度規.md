@@ -1,3 +1,6 @@
+> 本文内容由[托布-NUT度規](https://zh.wikipedia.org/wiki/托布-NUT度規)转换而来。
+
+
 **托布-NUT度規**（，\[1\] <small>或</small> ）是一个[爱因斯坦场方程](../Page/爱因斯坦场方程.md "wikilink")的精確解，為[广义相对论的框架下所建構出的宇宙模型](../Page/廣義相對論.md "wikilink")。
 
 托布-NUT度規是由（Abraham Haskel Taub）发现\[2\]，並由（Ezra T. Newman）、T. 昂蒂（T. Unti）和 L. 坦布里諾（L.Tamburino）拓展到更大的[流形](../Page/流形.md "wikilink")\[3\]，其首字母缩写組成了「托布-NUT」當中的「NUT」。

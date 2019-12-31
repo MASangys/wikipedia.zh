@@ -1,4 +1,4 @@
-> 本文内容由[Between Today and Tomorrow](https://zh.wikipedia.org/wiki/Between Today and Tomorrow)转换而来。
+> 本文内容由[Between Today and Tomorrow](https://zh.wikipedia.org/wiki/Between_Today_and_Tomorrow)转换而来。
 
 
 《**Between Today and Tomorrow**》（）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")和管弦家合作的器樂曲，於2012年1月7日開始提供數位下載\[1\]。在跨業合作部分，這首歌曲同時也是[芭蕾舞](../Page/芭蕾舞.md "wikilink")舞者[紀錄片](../Page/紀錄片.md "wikilink")－《今日和明日之間》的主題曲\[2\]\[3\]。

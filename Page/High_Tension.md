@@ -1,3 +1,6 @@
+> 本文内容由[High Tension](https://zh.wikipedia.org/wiki/High_Tension)转换而来。
+
+
 《**High Tension**》（）是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第46張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在2016年11月16日由[國王唱片](../Page/國王唱片.md "wikilink")發行。同名[標題曲的](../Page/A面與B面.md "wikilink")[center是](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")[島崎遙香](../Page/島崎遙香.md "wikilink")\[1\]，這也是島崎2016年底從AKB48[畢業前的最後一支單曲](../Page/畢業_\(演藝界\).md "wikilink")。
 
 ## 简介

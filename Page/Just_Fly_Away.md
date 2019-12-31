@@ -1,3 +1,6 @@
+> 本文内容由[Just Fly Away](https://zh.wikipedia.org/wiki/Just_Fly_Away)转换而来。
+
+
 《**Just Fly Away**》是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[米倉千尋](../Page/米倉千尋.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2000年2月2日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 
 ## 概要

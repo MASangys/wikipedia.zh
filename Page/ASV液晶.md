@@ -1,3 +1,6 @@
+> 本文内容由[ASV液晶](https://zh.wikipedia.org/wiki/ASV液晶)转换而来。
+
+
 **ASV液晶**（），是[夏普公司在CPA产品的一个技术](https://zh.wikipedia.org/wiki/夏普 "wikilink")，该液晶屏常应用在夏普手机和其他品牌照相机中\[1\]。
 
 ## 技术特点

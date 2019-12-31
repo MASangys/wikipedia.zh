@@ -1,3 +1,6 @@
+> 本文内容由[Sentimental Generation](https://zh.wikipedia.org/wiki/Sentimental_Generation)转换而来。
+
+
 《**Sentimental Generation**》（）是[日本](../Page/日本.md "wikilink")[偶像藝人](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")的首張單曲。2006年4月19日由[MMV LDC發行](../Page/Marvelous.md "wikilink")。
 
 ## 概要

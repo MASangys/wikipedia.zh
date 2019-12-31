@@ -1,3 +1,6 @@
+> 本文内容由[BMT默特尔大道线](https://zh.wikipedia.org/wiki/BMT默特尔大道线)转换而来。
+
+
 **默特爾大道線**（），又稱「默特爾大道高架鐵路」（）\[1\]，是[紐約地鐵一條全線](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[高架鐵路的路線](https://zh.wikipedia.org/wiki/高架鐵路 "wikilink")，屬於[BMT分部](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")。此線是[布魯克林其中一個最後殘餘的高架鐵路](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。該路線作為[BMT牙買加線的分岔前往](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[布什維克](https://zh.wikipedia.org/wiki/布什維克 "wikilink")、及，在其原初的東端總站，路德墓地對面為總站。直至1969年為止，路線可一直延至，在1944年前更可跨過[布魯克林大橋](../Page/布魯克林大橋.md "wikilink")到[曼哈頓](../Page/曼哈頓.md "wikilink")的為總站。
 
 ## 服務

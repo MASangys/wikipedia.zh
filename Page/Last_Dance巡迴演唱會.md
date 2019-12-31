@@ -1,3 +1,6 @@
+> 本文内容由[Last Dance巡迴演唱會](https://zh.wikipedia.org/wiki/Last_Dance巡迴演唱會)转换而来。
+
+
 **「Last Dance」巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2017年年末於日本四大巨蛋及首爾舉辦的巡迴演唱會，首場演唱會將在2017年11月18日的[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")演出並拉開巡演帷幕，最終場次以2017年12月31日的韓國首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")場次畫下句點。這次的巡演將有14場通過日本四座城市舉行，預計將會有646,000名觀眾出席日本的巡演，而最終的2場則在韓國首爾舉辦，總計在5座城市共舉行16場的演出。至此，BIGBANG再次打破了自身紀錄，他們成為第一個連續5年在日本巨蛋舉辦巡迴演唱會的外國歌手，而這次的巡演[T.O.P因現階段正在韓國](../Page/T.O.P..md "wikilink")的關係，將不會出演。\[1\]
 
 ## 背景
@@ -254,27 +257,15 @@
 [Category:BIGBANG巡迴演唱會](https://zh.wikipedia.org/wiki/Category:BIGBANG巡迴演唱會 "wikilink") [Category:各艺人巡回演唱会](https://zh.wikipedia.org/wiki/Category:各艺人巡回演唱会 "wikilink") [Category:2017年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2017年巡迴演唱會 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.

@@ -1,3 +1,6 @@
+> 本文内容由[Leon \(專輯\)](https://zh.wikipedia.org/wiki/Leon_\(專輯\))转换而来。
+
+
 《**Leon**》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的首張[音樂專輯](../Page/音樂專輯.md "wikilink")，收錄了十首歌曲，於1990年7月6日推出，此專輯是黎明入行以來的首張音樂專輯作品\[1\]\[2\]。
 
 ## 製作背景

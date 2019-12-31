@@ -1,3 +1,6 @@
+> 本文内容由[HTC U Play](https://zh.wikipedia.org/wiki/HTC_U_Play)转换而来。
+
+
 **HTC U Play**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，运行[Android](../Page/Android.md "wikilink") [6操作系统](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")。並且與[HTC U Ultra一樣將搭載全新](../Page/HTC_U_Ultra.md "wikilink") HTC Sense Companion AI人工智慧介面，將可依日常習慣提出智慧建議。
 
 ## 簡介

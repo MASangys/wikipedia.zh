@@ -1,4 +1,4 @@
-> 本文内容由[EXOPLANET ＃3 - The EXO\'rDIUM -](https://zh.wikipedia.org/wiki/EXOPLANET ＃3 - The EXO\'rDIUM -)转换而来。
+> 本文内容由[EXOPLANET ＃3 - The EXO\'rDIUM -](https://zh.wikipedia.org/wiki/EXOPLANET_＃3_-_The_EXO\'rDIUM_-)转换而来。
 
 
 **EXO PLANET \#3 - The EXO'rDIUM -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO](../Page/EXO.md "wikilink")於2016年舉辦的第三次巡迴演唱會。本次演唱會主題是有「開始、緒論」意思的單字「exordium」。如同主題一般，這次演唱會將成為以正規三輯《[EX'ACT](../Page/EX'ACT.md "wikilink")》回歸的 EXO，完美展現更加成長面貌的新序幕」與「演唱會將以結合 EXO 的世界觀、音樂、表演的舞台，讓觀眾陷入 EXO 的魅力中。\[1\]

@@ -1,4 +1,4 @@
-> 本文内容由[模块:Submit an edit request](https://zh.wikipedia.org/wiki/模块:Submit an edit request)转换而来。
+> 本文内容由[模块:Submit an edit request](https://zh.wikipedia.org/wiki/模块:Submit_an_edit_request)转换而来。
 
 
 \-- This module implements .

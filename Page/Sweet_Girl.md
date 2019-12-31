@@ -1,4 +1,4 @@
-> 本文内容由[Sweet Girl](https://zh.wikipedia.org/wiki/Sweet Girl)转换而来。
+> 本文内容由[Sweet Girl](https://zh.wikipedia.org/wiki/Sweet_Girl)转换而来。
 
 
 《**Sweet Girl**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B1A4](../Page/B1A4.md "wikilink")的第6枚[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年8月10日發行\[1\]，主打歌曲為《Sweet Girl》。

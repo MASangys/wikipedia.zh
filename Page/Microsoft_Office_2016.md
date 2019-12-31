@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Office 2016](https://zh.wikipedia.org/wiki/Microsoft Office 2016)转换而来。
+> 本文内容由[Microsoft Office 2016](https://zh.wikipedia.org/wiki/Microsoft_Office_2016)转换而来。
 
 
 **Microsoft Office 2016**（版本代號**Office 16**）是一个于2015年9月22日正式发行的[Microsoft Office套裝软件](../Page/Microsoft_Office.md "wikilink")。\[1\]\[2\]最新的预览版在芝加哥发布会上发布，并介绍了相比它的上一个版本[Microsoft Office 2013所新增加的功能](https://zh.wikipedia.org/wiki/Microsoft_Office_2013 "wikilink")。\[3\]新功能包括：深度整合的云端服务，可以直接在桌面版本创建、打开、编辑并保存在云端的文件；一款名为“-{zh-tw:告訴我您想要執行的動作;zh-cn:告诉我你想要做什么}-”的搜索工具，并支持[Word](../Page/Microsoft_Word.md "wikilink")、[Excel和](../Page/Microsoft_Excel.md "wikilink")[PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")；与连接到[在线 Office的用户](../Page/Office_Online.md "wikilink")-{zh-tw:即時;zh-hans:实时}-协作编辑。\[4\]

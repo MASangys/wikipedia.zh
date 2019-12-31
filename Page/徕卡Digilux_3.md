@@ -1,4 +1,4 @@
-> 本文内容由[徕卡Digilux 3](https://zh.wikipedia.org/wiki/徕卡Digilux 3)转换而来。
+> 本文内容由[徕卡Digilux 3](https://zh.wikipedia.org/wiki/徕卡Digilux_3)转换而来。
 
 
 **徕卡 Digilux 3**是一台[数码](../Page/数码相机.md "wikilink")[单反相机](../Page/单镜反光相机.md "wikilink")，由[徕卡公司在](../Page/徕卡相机.md "wikilink")2006年9月发布\[1\]\[2\]。

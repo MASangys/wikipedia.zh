@@ -1,3 +1,6 @@
+> 本文内容由[SPYKE](https://zh.wikipedia.org/wiki/SPYKE)转换而来。
+
+
 **SPYKE**（），[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。1994年組團，1998年解散。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[Hello \(Mamamoo迷你專輯\)](https://zh.wikipedia.org/wiki/Hello_\(Mamamoo迷你專輯\))转换而来。
+
+
 《**Hello**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第一張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[CJ E\&M於](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")2014年6月18日發行。
 
 ## 曲目

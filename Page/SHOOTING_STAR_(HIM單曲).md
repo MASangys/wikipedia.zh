@@ -1,3 +1,6 @@
+> 本文内容由[SHOOTING STAR \(HIM單曲\)](https://zh.wikipedia.org/wiki/SHOOTING_STAR_\(HIM單曲\))转换而来。
+
+
 《**SHOOTING STAR**》是[日本](../Page/日本.md "wikilink")[音樂企劃製作組合](../Page/音樂製作人.md "wikilink")的第5張單曲。1996年5月2日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。此外這裡也記述日本女性[歌手](../Page/歌手.md "wikilink")的翻唱版本\[1\]。
 
 ## 解說

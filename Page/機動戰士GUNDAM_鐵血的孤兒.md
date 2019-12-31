@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM 鐵血的孤兒](https://zh.wikipedia.org/wiki/機動戰士GUNDAM 鐵血的孤兒)转换而来。
+> 本文内容由[機動戰士GUNDAM 鐵血的孤兒](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒)转换而来。
 
 
 《**機動戰士高達 鐵血的孤兒**》（）是2015年10月4日播出的[鋼彈動畫作品](https://zh.wikipedia.org/wiki/鋼彈 "wikilink")。這套作品的消息，由[每日放送](../Page/每日放送.md "wikilink")(MBS)於2015年7月15日首次公布\[1\]\[2\]，於2016年10月2日上映第二季。本作口號為「生命之糧，就在戰場」，並受日本知名雜誌「[Animage](../Page/Animage.md "wikilink")」獲選為ANIME GRAND-PRIX第39回年度最佳動畫大獎第一名，並且在同年由日本[NHK電視台所舉辦的](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")「BestAnime100」萬作票選中得到了第70名的殊榮，為前一百名內的三部鋼彈作品之一。

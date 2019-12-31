@@ -1,3 +1,6 @@
+> 本文内容由[CBC電台](https://zh.wikipedia.org/wiki/CBC電台)转换而来。
+
+
 **株式会社CBC电台**（）是[日本](../Page/日本.md "wikilink")的一家以[中京广域圈](https://zh.wikipedia.org/wiki/中京广域圈 "wikilink")（[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")、[岐阜县](../Page/岐阜县.md "wikilink")、[三重县](../Page/三重县.md "wikilink")）为放送地域的[广播电台](https://zh.wikipedia.org/wiki/广播电台 "wikilink")，由[中部日本放送](../Page/中部日本放送.md "wikilink")全资控股，为[JRN](https://zh.wikipedia.org/wiki/JRN "wikilink")[广播联播网的成员](https://zh.wikipedia.org/wiki/广播联播网 "wikilink")。
 
 ## 概况

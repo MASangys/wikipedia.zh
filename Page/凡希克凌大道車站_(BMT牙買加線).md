@@ -1,3 +1,6 @@
+> 本文内容由[凡希克凌大道車站 \(BMT牙買加線\)](https://zh.wikipedia.org/wiki/凡希克凌大道車站_\(BMT牙買加線\))转换而来。
+
+
 **凡希克凌大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT牙買加線的一個](https://zh.wikipedia.org/wiki/BMT牙買加線 "wikilink")[隔站停靠](../Page/隔站停靠.md "wikilink")的[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")及凡希克凌大道\[1\]，設有[Z線](../Page/紐約地鐵J線與Z線.md "wikilink")（僅繁忙時段的尖峰方向停站）、[J線](../Page/紐約地鐵J線與Z線.md "wikilink")（任何時候停站（繁忙時段的尖峰方向除外））列車服務\[2\]。
 
 ## 車站結構

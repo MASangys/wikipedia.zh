@@ -1,4 +1,4 @@
-> 本文内容由[BMW M54](https://zh.wikipedia.org/wiki/BMW M54)转换而来。
+> 本文内容由[BMW M54](https://zh.wikipedia.org/wiki/BMW_M54)转换而来。
 
 
 [BMW_M54B25_002.jpg](https://zh.wikipedia.org/wiki/File:BMW_M54B25_002.jpg "fig:BMW_M54B25_002.jpg") **BMW M54**系列引擎是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")公司生產的一系列自然吸氣[雙頂置凸輪軸](../Page/顶置凸轮轴.md "wikilink")[直列六缸](../Page/直列六缸发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，作為[M52系列發動機的換代](../Page/BMW_M52.md "wikilink")。相比M52系列，M54的升級之處為全鋁缸體和全鋁機頭，僅汽缸內襯為鋼製。和M52類似，M54亦採用[可变气门正时](../Page/可变气门正时.md "wikilink")技術（即[雙VANOS技術](https://zh.wikipedia.org/wiki/BMW_VANOS "wikilink")）。生產年代為2000-2006年，配備[BMW 3系列E](../Page/BMW_3系列.md "wikilink")46型各型號，以及寶馬5系列，Z3，Z4，X3，X5部分車型。和前代M54不同的是，M54並未在盛產期內進行技術升級，故沒有TU改型（Technique update，即技術升級）。\[1\]

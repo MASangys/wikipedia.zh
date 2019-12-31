@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia XZs](https://zh.wikipedia.org/wiki/Sony_Xperia_XZs)转换而来。
+
+
 **Sony Xperia XZs**是[索尼流動通訊於](https://zh.wikipedia.org/wiki/索尼流動通訊 "wikilink")2017年2月27日在[世界流動通訊大會與](https://zh.wikipedia.org/wiki/世界流動通訊大會 "wikilink")[Xperia XZ Premium一同發佈的旗艦手機](../Page/Sony_Xperia_XZ_Premium.md "wikilink")\[1\]\[2\]，為[Xperia XZ的升級改良版本](../Page/Sony_Xperia_XZ.md "wikilink")。
 
 Xperia XZs搭載1900萬像素Motion Eye™相機，配備五軸光學防震、三重影像感測技術，高通[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")820處理器，5.2吋螢幕，4GB記憶體、32/64GB ROM，同時支持IP65/68級防水。\[3\]

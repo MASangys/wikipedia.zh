@@ -1,4 +1,4 @@
-> 本文内容由[寶貝龍 Spyro the Dragon系列](https://zh.wikipedia.org/wiki/寶貝龍 Spyro the Dragon系列)转换而来。
+> 本文内容由[寶貝龍 Spyro the Dragon系列](https://zh.wikipedia.org/wiki/寶貝龍_Spyro_the_Dragon系列)转换而来。
 
 
 是一个[平台动作游戏系列](https://zh.wikipedia.org/wiki/平台动作游戏 "wikilink")，由多家游戏工作室制作，也曾由多家发行商推出，目前由[动视](../Page/动视.md "wikilink")持有其版权。Spyro(史派羅)和他的蜻蜓朋友Sparx是這一系列平台遊戲的主角，自1998年以來，共出了寶貝龍傳奇三部曲（）及其他共十種的遊戲。該系列已在全球銷售超過共20萬套\[1\]。在Spyro系列結束後，主角群被轉到新系列[Skylanders的旗下](../Page/寶貝龍世界系列.md "wikilink")。

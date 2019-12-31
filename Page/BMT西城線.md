@@ -1,3 +1,6 @@
+> 本文内容由[BMT西城線](https://zh.wikipedia.org/wiki/BMT西城線)转换而来。
+
+
 **BMT西城線**（）是[紐約地鐵一條路線](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")，服務[布魯克林的](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[日落公園](https://zh.wikipedia.org/wiki/日落公園_\(布魯克林\) "wikilink")、[自治市公園](https://zh.wikipedia.org/wiki/自治市公園_\(布魯克林\) "wikilink")、、、及[康尼島](../Page/康尼島.md "wikilink")。[D線列車在任何時候都在全線以慢車營運](../Page/紐約地鐵D線.md "wikilink")。雖然中央快車軌道設有沿線三個快車站，現時沒有定期快車服務。
 
 高架路線起初以「新烏德勒支大道線」命名，取代地面的\[1\]。

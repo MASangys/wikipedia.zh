@@ -1,4 +1,4 @@
-> 本文内容由[Wonder Girls獲獎與提名列表](https://zh.wikipedia.org/wiki/Wonder Girls獲獎與提名列表)转换而来。
+> 本文内容由[Wonder Girls獲獎與提名列表](https://zh.wikipedia.org/wiki/Wonder_Girls獲獎與提名列表)转换而来。
 
 
 <table>

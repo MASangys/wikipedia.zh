@@ -1,4 +1,4 @@
-> 本文内容由[White Light \(Superfly单曲\)](https://zh.wikipedia.org/wiki/White Light \(Superfly单曲\))转换而来。
+> 本文内容由[White Light \(Superfly单曲\)](https://zh.wikipedia.org/wiki/White_Light_\(Superfly单曲\))转换而来。
 
 
 《**White Light**》是日本樂團[Superfly](../Page/Superfly.md "wikilink")的歌曲。樂曲是[万代南梦宫遊戲](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")《[熱情傳奇](../Page/熱情傳奇.md "wikilink")》的主題曲，2015年1月21日作为單曲數位發行，也是Superfly第五張錄音室專輯《[White](https://zh.wikipedia.org/wiki/White_\(Superfly專輯\) "wikilink")》的主打歌曲\[1\]。

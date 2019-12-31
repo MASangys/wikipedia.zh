@@ -1,3 +1,6 @@
+> 本文内容由[H定理](https://zh.wikipedia.org/wiki/H定理)转换而来。
+
+
 **H定理**（）於1872年由[路德维希·玻尔兹曼](../Page/路德维希·玻尔兹曼.md "wikilink")提出，在经典[統計力學中描述物理量](https://zh.wikipedia.org/wiki/統計力學 "wikilink")「H」在接近[理想氣體](../Page/理想氣體.md "wikilink")系統中的下降趨勢\[1\]，其中H這個[積分數值代表](https://zh.wikipedia.org/wiki/積分 "wikilink")**分子隨時間流逝因傳遞而改變的動能**，個別分子的動能可於統計後成為一特定的分布。由於H可以用作定義熱力學[熵](../Page/熵.md "wikilink")的一種表述，H定理是早期用來展現統計物理的威力。H定理可以從可逆微觀機制推導出[熱力學第二定律](https://zh.wikipedia.org/wiki/熱力學第二定律 "wikilink")。它被認為可以否證熱力學第二定律\[2\]\[3\]\[4\]。
 
 H定理可以很自然地從波茲曼提出的動力學方程式「[波茲曼方程式](https://zh.wikipedia.org/wiki/波茲曼方程式 "wikilink")」推導出。H定理衍伸出許多關於其真實含意的討論，主要如下：

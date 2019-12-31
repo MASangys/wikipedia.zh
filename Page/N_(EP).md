@@ -1,3 +1,6 @@
+> 本文内容由[N \(EP\)](https://zh.wikipedia.org/wiki/N_\(EP\))转换而来。
+
+
 《**N**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[曾詠欣的第](https://zh.wikipedia.org/wiki/曾詠欣 "wikilink")1張音樂專輯，於2015年12月9日推出。
 
 ## 曲目列表

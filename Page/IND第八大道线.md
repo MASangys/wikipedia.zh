@@ -1,3 +1,6 @@
+> 本文内容由[IND第八大道线](https://zh.wikipedia.org/wiki/IND第八大道线)转换而来。
+
+
 **第八大道線**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市一條](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的路線之一。1932年通車，是[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")（IND）第一條路線，紐約人也因此將整個IND系統稱為「第八大道地鐵」\[1\]\[2\]\[3\]。大部分路段都設有四條軌道，兩個方向各一條慢車和快車軌道，最北端和最南端除外，該兩處只有兩條快車軌道。此線在定為「A線」，由西至東依次為A1、A3、A4及A2軌道\[4\]，由南端大約800開始\[5\]到北端的1540為止（以英呎計算）\[6\]\[7\]。
 
 此線由[英伍德的](https://zh.wikipedia.org/wiki/英伍德_\(曼哈頓\) "wikilink")[207街至](https://zh.wikipedia.org/wiki/英伍德-207街車站_\(IND第八大道線\) "wikilink")[布魯克林高地的](https://zh.wikipedia.org/wiki/布魯克林高地 "wikilink")[高街以南一個](https://zh.wikipedia.org/wiki/高街車站_\(IND第八大道線\) "wikilink")[聯鎖](https://zh.wikipedia.org/wiki/聯鎖 "wikilink")，包括、以及[第八大道](https://zh.wikipedia.org/wiki/第八大道_\(曼哈頓\) "wikilink")。全線位於地下，但近北端分岔出來的[207街車廠是位於地面的](https://zh.wikipedia.org/wiki/紐約地鐵車廠#207街車廠 "wikilink")。此線與[IND匯集線](../Page/IND匯集線.md "wikilink")、[IND第六大道線](../Page/IND第六大道線.md "wikilink")及[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")有[立體交匯](../Page/立體交匯.md "wikilink")。在[59街-哥倫布圓環與](../Page/59街-哥倫布圓環車站.md "wikilink")[145街之間](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")，路線可稱作「中央公園西線」。

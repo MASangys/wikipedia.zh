@@ -1,4 +1,4 @@
-> 本文内容由[微軟Lumia 550](https://zh.wikipedia.org/wiki/微軟Lumia 550)转换而来。
+> 本文内容由[微軟Lumia 550](https://zh.wikipedia.org/wiki/微軟Lumia_550)转换而来。
 
 
 **微軟Lumia 550**是一款經濟型智能手機，由微軟生產，2015年10月6日在[紐約舉行的新聞發佈會上](https://zh.wikipedia.org/wiki/紐約 "wikilink")，伴隨[Lumia 950公開介紹](../Page/微軟Lumia_950.md "wikilink")。\[1\] 該裝置將在2015年12月推出。\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[春日井站 \(JR東海\)](https://zh.wikipedia.org/wiki/春日井站_\(JR東海\))转换而来。
+
+
 [South_entrance_of_Kasugai_station(JR).JPG](https://zh.wikipedia.org/wiki/File:South_entrance_of_Kasugai_station\(JR\).JPG "fig:South_entrance_of_Kasugai_station(JR).JPG")
 
 **春日井站**（）是一個位於[愛知縣](../Page/愛知縣.md "wikilink")[春日井市](../Page/春日井市.md "wikilink")一丁目，屬於[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）、[日本貨物鐵道](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")（JR貨物）[中央本線](../Page/中央本線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。
@@ -25,7 +28,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>上行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名古屋站" title="wikilink">名古屋方向</a>[2]</p></td>
+<td><p><a href="../Page/名古屋站.md" title="wikilink">名古屋方向</a>[2]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -136,5 +139,4 @@
 [Category:日本鐵路車站_Ka](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Ka "wikilink") [Category:中央本線車站_(東海旅客鐵道)](https://zh.wikipedia.org/wiki/Category:中央本線車站_\(東海旅客鐵道\) "wikilink") [Category:日本貨物鐵道車站](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道車站 "wikilink") [Category:愛知縣鐵路車站](https://zh.wikipedia.org/wiki/Category:愛知縣鐵路車站 "wikilink") [Category:春日井市](https://zh.wikipedia.org/wiki/Category:春日井市 "wikilink") [Category:1927年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1927年啟用的鐵路車站 "wikilink")
 
 1.  駅構内の案内表記。これらはJR東海公式サイトの[各駅の時刻表](http://railway.jr-central.co.jp/time-schedule/search/index.html)で参照可能（駅掲示用時刻表のPDFが使われているため。2015年1月現在）。
-
 2.

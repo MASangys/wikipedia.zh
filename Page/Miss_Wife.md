@@ -1,4 +1,4 @@
-> 本文内容由[Miss Wife](https://zh.wikipedia.org/wiki/Miss Wife)转换而来。
+> 本文内容由[Miss Wife](https://zh.wikipedia.org/wiki/Miss_Wife)转换而来。
 
 
 《**帥氣的噩夢**》（），2015年上映的[韓國電影](../Page/韓國電影.md "wikilink")。

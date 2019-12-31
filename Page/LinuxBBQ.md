@@ -1,3 +1,6 @@
+> 本文内容由[LinuxBBQ](https://zh.wikipedia.org/wiki/LinuxBBQ)转换而来。
+
+
 **LinuxBBQ**是一款来自中国的基于[debian不稳定分支的](https://zh.wikipedia.org/wiki/debian "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")\[1\]。
 
 ## 安装

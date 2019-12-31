@@ -1,3 +1,6 @@
+> 本文内容由[X戰警：黑鳳凰](https://zh.wikipedia.org/wiki/X戰警：黑鳳凰)转换而来。
+
+
 《**X戰警：黑鳳凰**》（，或記作）是2019年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，角色取自[漫威漫畫](../Page/漫威漫畫.md "wikilink")的漫畫書《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》，由[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")制作並通過[华特迪士尼工作室电影執行发行](https://zh.wikipedia.org/wiki/华特迪士尼工作室电影 "wikilink")。該片為「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第十二部作品，也是其系列最終回。本片原本作為全新的X戰警電影三部曲的首部曲，但在迪士尼收購影響下，確認為「X戰警系列電影」最終章。其後福斯重新製作，並且由迪士尼發行。也是第一部由迪士尼發行非「[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")」的漫威電影。
 
 《X戰警：黑鳳凰》由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")執導及編劇，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")以及[潔西卡·崔絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·崔絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")。

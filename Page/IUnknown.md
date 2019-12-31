@@ -1,3 +1,6 @@
+> 本文内容由[IUnknown](https://zh.wikipedia.org/wiki/IUnknown)转换而来。
+
+
 在[程序设计](../Page/程序设计.md "wikilink")中，**IUnknown**[介面是](../Page/介面_\(資訊科技\).md "wikilink")[组件对象模型](../Page/组件对象模型.md "wikilink")（COM）中的基礎介面。COM規格書\[1\]中規定COM物件至少要實現此一介面，而且其他所有的COM介面都需要衍生自IUnknown介面。IUnknown提供所有COM物件都支援的兩種基本特性：利用[引用计数](../Page/引用计数.md "wikilink")來進行物件生命周期管理，以及存取許多事先定義的介面。
 
 IUnknown介面會包括一個指向的[指標](../Page/指標_\(電腦科學\).md "wikilink")，虛擬方法表是一個有許多[函数指针](../Page/函数指针.md "wikilink")的列表，函数指针會指向許多實現IUnknown介面所宣告的函數，以和介面中宣告順序相同的方式排列。而進程內呼叫產生的大致和[C++](../Page/C++.md "wikilink")中呼叫[虛擬方法的開銷相近](https://zh.wikipedia.org/wiki/虛擬方法 "wikilink")。

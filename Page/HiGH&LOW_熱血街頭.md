@@ -1,4 +1,4 @@
-> 本文内容由[HiGH\&LOW 熱血街頭](https://zh.wikipedia.org/wiki/HiGH\&LOW 熱血街頭)转换而来。
+> 本文内容由[HiGH\&LOW 熱血街頭](https://zh.wikipedia.org/wiki/HiGH\&LOW_熱血街頭)转换而来。
 
 
 是由[EXILE HIRO領銜策劃](../Page/五十嵐廣行.md "wikilink")[EXILE TRIBE綜合大型原創娛樂項目](../Page/EXILE_TRIBE.md "wikilink")，項目包括由2015年開播的電視劇、漫畫和SNS社交平台互動，以及在2016年的原創音樂專輯、演唱會及電影\[1\]。 從電視劇為出發點，以「全員主役\[2\]（中譯：全員主演）」為賣點標題，從電視劇開始到電影描寫每一個角色和團體，參演包括[LDH旗下的EXILE](../Page/LDH_\(藝能事務所\).md "wikilink") TRIBE：[EXILE](../Page/放浪兄弟.md "wikilink")、[劇團EXILE](../Page/劇團EXILE.md "wikilink")、[EXILE THE SECOND](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")、[三代目J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")、[GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink")、[E-girls等成員](https://zh.wikipedia.org/wiki/E-girls "wikilink")，此外更有很多出名的演員參與演出，包括[林遣都](../Page/林遣都.md "wikilink")、[山田裕貴](../Page/山田裕貴.md "wikilink")、[早乙女太一](https://zh.wikipedia.org/wiki/早乙女太一 "wikilink")、[Golden Bomber](../Page/Golden_Bomber.md "wikilink")（金爆）、[窪田正孝](../Page/洼田正孝.md "wikilink")、YOU、[小泉今日子](../Page/小泉今日子.md "wikilink")、[BIGBANG成員](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[勝利等人](https://zh.wikipedia.org/wiki/勝利 "wikilink")\[3\]。

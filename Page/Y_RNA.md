@@ -1,4 +1,4 @@
-> 本文内容由[Y RNA](https://zh.wikipedia.org/wiki/Y RNA)转换而来。
+> 本文内容由[Y RNA](https://zh.wikipedia.org/wiki/Y_RNA)转换而来。
 
 
 **Y RNA**係一種短[非編碼RNA](https://zh.wikipedia.org/wiki/非編碼RNA "wikilink")。它是[Ro60核糖核蛋白顆粒的組分之一](../Page/TRIM21.md "wikilink")\[1\]。在全身性紅斑狼瘡患者體內，它是患者自身抗體的攻擊目標之一\[2\]。Y RNA對DNA複製來說至關重要，因爲它們能與[染色質和](https://zh.wikipedia.org/wiki/染色質 "wikilink")[起始點識別複合物](../Page/起始點識別複合物.md "wikilink")相互作用\[3\]\[4\]。

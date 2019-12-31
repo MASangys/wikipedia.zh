@@ -1,3 +1,6 @@
+> 本文内容由[GNZ48發行作品列表](https://zh.wikipedia.org/wiki/GNZ48發行作品列表)转换而来。
+
+
 **GNZ48發行作品列表**列出[GNZ48歷年來發行的EP](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")、專輯和DVD。
 
 ## 你所不知道的我

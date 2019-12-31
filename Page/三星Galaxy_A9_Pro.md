@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A9 Pro](https://zh.wikipedia.org/wiki/三星Galaxy_A9_Pro)转换而来。
+
+
 **三星Galaxy A9 Pro (2016)**是[三星電子](../Page/三星電子.md "wikilink")製造的Android智慧型手機\[1\]，於2016年3月發布，運行Android 6.0.1 Marshmallow，在中國被稱為A9高配版\[2\]。這台智慧型手機搭載了高通 [驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink") 652 SoC，由 4個ARM Cortex-A72 和 4個ARM Cortex-A53 核心、Adreno510 GPU、4 GB的記憶體和32 GB儲存空間組成，最大可以擴充到200 GB的MicroSD記憶卡電池為不可拆卸式5000mAh，支援快充。三星Galaxy A9（2016）和Pro版本之間的差異部分，A9（2016）只有3GB記憶體和稍微小一點的4000mAh的電池，還有重量稍微輕一點，只有210克。另外，這款手機並未在台灣及香港上市\[3\]。
 
 ## 技術規格

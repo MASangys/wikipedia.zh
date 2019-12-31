@@ -1,4 +1,4 @@
-> 本文内容由[A+ \(泫雅迷你專輯\)](https://zh.wikipedia.org/wiki/A+ \(泫雅迷你專輯\))转换而来。
+> 本文内容由[A+ \(泫雅迷你專輯\)](https://zh.wikipedia.org/wiki/A+_\(泫雅迷你專輯\))转换而来。
 
 
 《A <sup>+</sup>》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE成員](../Page/4minute.md "wikilink")[泫雅的第四張迷你專輯](../Page/金泫雅.md "wikilink")。於2015年8月21日發行。唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。主打歌為"Roll Deep（잘나가서 그래）"。\[1\]

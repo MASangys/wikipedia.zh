@@ -1,3 +1,6 @@
+> 本文内容由[Mycastor](https://zh.wikipedia.org/wiki/Mycastor)转换而来。
+
+
 ***Mycastor***是[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蛺蜆蝶族](../Page/蛺蜆蝶族.md "wikilink")蛺蜆蝶亞族裡的一個屬，尚無正式中文學名命名。共有3個物種，分佈於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")\[1\]。
 
 ## 物種

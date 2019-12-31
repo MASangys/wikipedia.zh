@@ -1,3 +1,6 @@
+> 本文内容由[Livendula](https://zh.wikipedia.org/wiki/Livendula)转换而来。
+
+
 ***Livendula***是[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蛺蜆蝶族](../Page/蛺蜆蝶族.md "wikilink")蛺蜆蝶亞族裡的一個屬，尚無正式中文學名命名。共有12個物種，分佈於亞馬遜低地\[1\]。
 
 ## 物種

@@ -1,3 +1,6 @@
+> 本文内容由[迈克尔·T·弗林](https://zh.wikipedia.org/wiki/迈克尔·T·弗林)转换而来。
+
+
 **迈克尔·托马斯·“-{zh-cn:麦克;zh-tw:麥克;zh-hk:米克;}-”·弗林**（**Michael Thomas "Mike" Flynn**，）\[1\]是[美國的前任](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家安全顧問](https://zh.wikipedia.org/wiki/國家安全顧問 "wikilink")。他是一位退役軍人，前美國陸軍中將，前[美國國防情報局](../Page/美國國防情報局.md "wikilink")局長。
 
 ## 國防情報局長

@@ -1,3 +1,6 @@
+> 本文内容由[OpenKM](https://zh.wikipedia.org/wiki/OpenKM)转换而来。
+
+
 **OpenKM**是一个免费/自由的，提供用于管理任意文件的Web界面。 OpenKM包括内容存储库，[Lucene](../Page/Lucene.md "wikilink")索引和工作流。 OpenKM系统是使用[Java](../Page/Java.md "wikilink")技术开发的。
 
 2005年，两名从事商业文档管理解决方案（Sharepoint，Documentum，Hummingbird等）的开源项目（Excalibur搜索引擎或Kofax OCR引擎）参与者，决定启动基于高级技术的开源项目，以构建命名为OpenKM的文件管理系统。

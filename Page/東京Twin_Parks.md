@@ -1,4 +1,4 @@
-> 本文内容由[東京Twin Parks](https://zh.wikipedia.org/wiki/東京Twin Parks)转换而来。
+> 本文内容由[東京Twin Parks](https://zh.wikipedia.org/wiki/東京Twin_Parks)转换而来。
 
 
 **東京Twin Parks**（）是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[東新橋一丁目](https://zh.wikipedia.org/wiki/東新橋 "wikilink")[汐留](../Page/汐留.md "wikilink")地區內的[雙子塔分售式超高層公寓](https://zh.wikipedia.org/wiki/雙子塔 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Chaness](https://zh.wikipedia.org/wiki/Chaness)转换而来。
+
+
 **Chaness**（）為Aquagro娛樂旗下女子團體[LPG於](../Page/LPG_\(音樂團體\).md "wikilink")2014年推出的子團，成員包括羅熙、智媛、梨源、頌夏、[志恩](../Page/康志恩.md "wikilink")。
 
 2015年，羅熙退出，改以四人體制活動。

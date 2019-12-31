@@ -1,4 +1,4 @@
-> 本文内容由[View-source URI方案](https://zh.wikipedia.org/wiki/View-source URI方案)转换而来。
+> 本文内容由[View-source URI方案](https://zh.wikipedia.org/wiki/View-source_URI方案)转换而来。
 
 
 **view-source** [URI方案是部分](../Page/统一资源标志符.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")采用的一种特殊[URL](../Page/统一资源定位符.md "wikilink")，功效是显示指定资源的源代码。\[1\]

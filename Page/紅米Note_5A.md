@@ -1,3 +1,6 @@
+> 本文内容由[紅米Note 5A](https://zh.wikipedia.org/wiki/紅米Note_5A)转换而来。
+
+
 **紅米Note 5A**（又稱：**紅米Note 5A標準版**、**紅米Y1 Lite**、**紅米Note 5A高配版**、**紅米Y1**）是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2017年8月21日發表的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")\[1\]。紅米Note 5A標準版採用[高通](../Page/高通.md "wikilink")[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")425處理器、5.5吋1280×720 HD螢幕、2GB／3GB記憶體、16GB／32GB儲存空間、[Android](../Page/Android.md "wikilink") 7.1（[MIUI](../Page/MIUI.md "wikilink") 8）；紅米Note 5A高配版則採用[高通](../Page/高通.md "wikilink")[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")435處理器、5.5吋1280×720 HD螢幕、3GB／4GB記憶體、32GB／64GB儲存空間、[Android](../Page/Android.md "wikilink") 7.1（[MIUI](../Page/MIUI.md "wikilink") 9）。
 
 2017年8月22日，在中國大陸正式上市\[2\]\[3\]\[4\]。

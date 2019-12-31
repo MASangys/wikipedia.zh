@@ -1,3 +1,6 @@
+> 本文内容由[LimeSDR](https://zh.wikipedia.org/wiki/LimeSDR)转换而来。
+
+
 **LimeSDR**是一個由[Lime Microsystems創建的](https://zh.wikipedia.org/wiki/Lime_Microsystems "wikilink")[軟件無線電](https://zh.wikipedia.org/wiki/軟件無線電 "wikilink")，於2016年6月21日透過[CrowdSupply](https://zh.wikipedia.org/wiki/CrowdSupply "wikilink")[群眾募資](../Page/群眾募資.md "wikilink")成立。
 
 ## 概要

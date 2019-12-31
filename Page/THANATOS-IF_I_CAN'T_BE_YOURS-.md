@@ -1,3 +1,6 @@
+> 本文内容由[THANATOS-IF I CAN\'T BE YOURS-](https://zh.wikipedia.org/wiki/THANATOS-IF_I_CAN\'T_BE_YOURS-)转换而来。
+
+
 《**THANATOS-IF I CAN'T BE YOURS-**》是日本动画电影《[新世紀エヴァンゲリオン 劇場版 THE END OF EVANGELION Air/まごころを、君に](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")》的主题曲。[1997年](../Page/1997年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")由[STARCHILD发售的LOREN](https://zh.wikipedia.org/wiki/STARCHILD "wikilink") & MASH与ARIANNE的シングル「**THE END OF EVANGELION**」中首次释出。
 
 ## 概要

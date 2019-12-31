@@ -1,3 +1,6 @@
+> 本文内容由[Yasuyuki](https://zh.wikipedia.org/wiki/Yasuyuki)转换而来。
+
+
 **Yasuyuki**（，），[日本](../Page/日本.md "wikilink")男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")，目前居住在[埼玉縣](../Page/埼玉縣.md "wikilink")。他的作品主要從事[電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[成人](../Page/日本成人遊戲.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")的[原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")、[人物設定](../Page/人物設計.md "wikilink")。網路線上別名**yasu**。同人創作團體「**紙切**」主宰。
 
 ## 作品列表

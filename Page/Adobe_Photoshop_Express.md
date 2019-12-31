@@ -1,4 +1,4 @@
-> 本文内容由[Adobe Photoshop Express](https://zh.wikipedia.org/wiki/Adobe Photoshop Express)转换而来。
+> 本文内容由[Adobe Photoshop Express](https://zh.wikipedia.org/wiki/Adobe_Photoshop_Express)转换而来。
 
 
 **Adobe Photoshop Express** 是一款[Adobe](../Page/Adobe.md "wikilink")推出的基於[Flash的](../Page/Adobe_Flash.md "wikilink")[圖像編輯](https://zh.wikipedia.org/wiki/圖像編輯 "wikilink")[網絡應用程式和](../Page/网络应用程序.md "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")，用戶不用下載就可以直接編輯博客和社交網絡上的圖片。 類似于[Picnik](../Page/Picnik.md "wikilink")，應用程式也與例如[Facebook](../Page/Facebook.md "wikilink")、[Flickr](../Page/Flickr.md "wikilink")、[Picasa](../Page/Picasa.md "wikilink")和[Photobucket](../Page/Photobucket.md "wikilink")的網站連接使用。\[1\]

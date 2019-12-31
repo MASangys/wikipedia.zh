@@ -1,4 +1,4 @@
-> 本文内容由[諾基亞Lumia 735](https://zh.wikipedia.org/wiki/諾基亞Lumia 735)转换而来。
+> 本文内容由[諾基亞Lumia 735](https://zh.wikipedia.org/wiki/諾基亞Lumia_735)转换而来。
 
 
 **諾基亞Lumia 735**（由**微軟Lumia 735** 替代）是一款由[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。 亮相於2014年9月4日的[柏林IFA](https://zh.wikipedia.org/wiki/柏林IFA "wikilink")，該設備是一個中檔智能手機，并以“自拍”爲賣點——一個500萬像素，廣角前置攝像頭。這款手機將會在某些市場推出3G雙卡雙待版本，以Lumia730品牌銷售。\[1\]\[2\]

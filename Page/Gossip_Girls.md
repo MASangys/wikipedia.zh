@@ -1,4 +1,4 @@
-> 本文内容由[Gossip Girls](https://zh.wikipedia.org/wiki/Gossip Girls)转换而来。
+> 本文内容由[Gossip Girls](https://zh.wikipedia.org/wiki/Gossip_Girls)转换而来。
 
 
 《**Gossip Girls**》為台灣女子團體[Popu Lady的第四張音樂寫真](../Page/Popu_Lady.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。

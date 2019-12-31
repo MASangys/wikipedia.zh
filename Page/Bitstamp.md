@@ -1,3 +1,6 @@
+> 本文内容由[Bitstamp](https://zh.wikipedia.org/wiki/Bitstamp)转换而来。
+
+
 **Bitstamp**是一家位于卢森堡的比特币交易所，按交易量统计截至2016年是世界第二大交易所。\[1\] 中国大陆网民戏称之为“邮局”。该平台经营[美元](../Page/美元.md "wikilink")和[比特币](../Page/比特币.md "wikilink")现货交易，可存入或取出[美元](../Page/美元.md "wikilink")、[欧元](../Page/欧元.md "wikilink")、[比特币](../Page/比特币.md "wikilink")、[莱特币](../Page/莱特币.md "wikilink")、[瑞波币等](https://zh.wikipedia.org/wiki/瑞波币 "wikilink")。
 
 ## 历史

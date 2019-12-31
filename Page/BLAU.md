@@ -1,3 +1,6 @@
+> 本文内容由[BLAU](https://zh.wikipedia.org/wiki/BLAU)转换而来。
+
+
 《**BLAU**》，是[日本](../Page/日本.md "wikilink")女歌手[藍井艾露](../Page/藍井艾露.md "wikilink")的首張原創專輯，於2013年1月30日由[SME Records發行](../Page/SME_Records.md "wikilink")。
 
 ## 収録曲

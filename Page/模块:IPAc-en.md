@@ -1,3 +1,6 @@
+> 本文内容由[模块:IPAc-en](https://zh.wikipedia.org/wiki/模块:IPAc-en)转换而来。
+
+
 \-- This module implements [Template:IPAc-en](https://zh.wikipedia.org/wiki/Template:IPAc-en "wikilink").
 
 local data = mw.loadData('模块:IPAc-en/data') local p = {}

@@ -1,3 +1,6 @@
+> 本文内容由[Flower Way \(金世正單曲\)](https://zh.wikipedia.org/wiki/Flower_Way_\(金世正單曲\))转换而来。
+
+
 《**Jelly Box - 꽃길 (Prod. By 지코([ZICO](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")))**》是韓國女歌手[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")（女子團體[gu9udan主唱](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）的數位單曲，也是[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")的音樂企劃“”第三首作品。由Jellyfish娛樂於2016年11月23日發行\[1\]\[2\]\[3\]\[4\]。
 
 ## 發行

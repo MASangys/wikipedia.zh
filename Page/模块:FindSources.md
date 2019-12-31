@@ -1,3 +1,6 @@
+> 本文内容由[模块:FindSources](https://zh.wikipedia.org/wiki/模块:FindSources)转换而来。
+
+
 local fs={} local getArgs local KW_LIMIT=5
 
 function fs.linkbuilder(args,url_model,split,url_other,firstword_show,split_show)

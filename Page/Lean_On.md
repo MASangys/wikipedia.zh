@@ -1,4 +1,4 @@
-> 本文内容由[Lean On](https://zh.wikipedia.org/wiki/Lean On)转换而来。
+> 本文内容由[Lean On](https://zh.wikipedia.org/wiki/Lean_On)转换而来。
 
 
 《**Lean On**》是一首由[超級雷射光](https://zh.wikipedia.org/wiki/超級雷射光 "wikilink")（Major Lazer）與[DJ Snake共同製作的](https://zh.wikipedia.org/wiki/DJ_Snake "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")[舞曲](../Page/舞曲.md "wikilink")\[1\]\[2\]，收錄於2015年的錄音室專輯《[和平任務](https://zh.wikipedia.org/wiki/和平任務 "wikilink")》（*Peace Is the Mission*），人聲及填詞則與歌手[MØ](../Page/MØ.md "wikilink")合作\[3\]\[4\]\[5\]。這首歌作為專輯的先行單曲於2015年3月2日獨立發行\[6\]。

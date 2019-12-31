@@ -1,3 +1,6 @@
+> 本文内容由[超人X](https://zh.wikipedia.org/wiki/超人X)转换而来。
+
+
 {{ Infobox television | | show_name = 超人X | eng_name =  | image = [280px](https://zh.wikipedia.org/wiki/檔案:Ultraman_X_Poster_resized.jpg "wikilink") | format = [特攝片](../Page/特攝片.md "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink") | runtime = 約30分鐘 | creator = [圓谷製作公司](https://zh.wikipedia.org/wiki/圓谷製作公司 "wikilink") | writer = [小林雄次](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")
 [小林弘利](https://zh.wikipedia.org/wiki/小林弘利 "wikilink")
 [中野貴雄](https://zh.wikipedia.org/wiki/中野貴雄 "wikilink")

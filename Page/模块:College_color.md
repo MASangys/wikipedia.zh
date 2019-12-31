@@ -1,4 +1,4 @@
-> 本文内容由[模块:College color](https://zh.wikipedia.org/wiki/模块:College color)转换而来。
+> 本文内容由[模块:College color](https://zh.wikipedia.org/wiki/模块:College_color)转换而来。
 
 
 \-- -- This module implements , , -- , , -- , , and  -- local p = {}

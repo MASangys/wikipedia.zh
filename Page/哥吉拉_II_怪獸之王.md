@@ -1,3 +1,6 @@
+> 本文内容由[哥吉拉 II 怪獸之王](https://zh.wikipedia.org/wiki/哥吉拉_II_怪獸之王)转换而来。
+
+
 《**哥吉拉 II 怪獸之王**》（，或記作）是一部於2019年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[怪獸電影](../Page/怪獸電影.md "wikilink")，由[麥可·道格堤](../Page/麥可·道格堤.md "wikilink")執導。本片為2014年電影《[哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉_\(2014年電影\) "wikilink")》的續集，以及[傳奇影業的](https://zh.wikipedia.org/wiki/傳奇影業 "wikilink")[怪獸宇宙](../Page/怪獸宇宙.md "wikilink")第三部作品。主演包括[凱爾·錢德勒](../Page/凱爾·錢德勒.md "wikilink")、[薇拉·法蜜嘉](https://zh.wikipedia.org/wiki/薇拉·法蜜嘉 "wikilink")、[米莉·芭比·布朗](../Page/米莉·芭比·布朗.md "wikilink")、[布萊德利·惠特福德](../Page/布萊德利·惠特福德.md "wikilink")、[莎莉·霍金斯](../Page/莎莉·霍金斯.md "wikilink")、[查爾斯·丹斯](https://zh.wikipedia.org/wiki/查爾斯·丹斯 "wikilink")、[托馬斯·米德蒂奇](../Page/托馬斯·米德蒂奇.md "wikilink")、[艾莎·辛德斯](../Page/艾莎·辛德斯.md "wikilink")、[小歐席亞·傑克森](../Page/小歐席亞·傑克森.md "wikilink")、[大衛·史崔森](../Page/大衛·史崔森.md "wikilink")、[渡邊謙](../Page/渡邊謙.md "wikilink")和[章子怡](../Page/章子怡.md "wikilink")。
 
 《哥吉拉 II 怪獸之王》於2019年5月31日在美國上映。續集《[哥吉拉對金剛](https://zh.wikipedia.org/wiki/哥吉拉對金剛 "wikilink")》定於2020年11月20日在美國上映。

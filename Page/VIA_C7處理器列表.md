@@ -1,4 +1,4 @@
-> 本文内容由[VIA C7處理器列表](https://zh.wikipedia.org/wiki/VIA C7處理器列表)转换而来。
+> 本文内容由[VIA C7處理器列表](https://zh.wikipedia.org/wiki/VIA_C7處理器列表)转换而来。
 
 
 **[C7](https://zh.wikipedia.org/wiki/VIA_C7 "wikilink")**系列處理器為[VIA推出的第七代處理器](https://zh.wikipedia.org/wiki/VIA "wikilink")，主要面向客製化處理器與嵌入式處理器市場。

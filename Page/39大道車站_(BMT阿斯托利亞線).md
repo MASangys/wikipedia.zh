@@ -1,3 +1,6 @@
+> 本文内容由[39大道車站 \(BMT阿斯托利亞線\)](https://zh.wikipedia.org/wiki/39大道車站_\(BMT阿斯托利亞線\))转换而来。
+
+
 **39大道車站**（），又稱「39大道-荷蘭溪車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個慢車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[長島市](https://zh.wikipedia.org/wiki/長島市_\(皇后區\) "wikilink")39大道及31街交界，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）與[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
 
 ## 歷史

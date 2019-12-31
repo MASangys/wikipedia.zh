@@ -1,3 +1,6 @@
+> 本文内容由[謎擬Q](https://zh.wikipedia.org/wiki/謎擬Q)转换而来。
+
+
 是[任天堂](../Page/任天堂.md "wikilink")和[Game Freak所特許經營的](../Page/Game_Freak.md "wikilink")《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢系列 "wikilink")》系列裡的虛構生物「[寶可夢](https://zh.wikipedia.org/wiki/寶可夢列表 "wikilink")」之一，在《[精靈寶可夢 太陽](../Page/精靈寶可夢_太陽／月亮.md "wikilink")》與《[精靈寶可夢 月亮](../Page/精靈寶可夢_太陽／月亮.md "wikilink")》中首次被引入。它被稱為畫皮寶可夢，因為它偽裝成另一個名為[皮卡丘](../Page/皮卡丘.md "wikilink")的寶可夢以企圖交到更多的朋友。
 
 ## 設計與特色

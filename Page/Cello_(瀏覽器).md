@@ -1,6 +1,9 @@
+> 本文内容由[Cello \(瀏覽器\)](https://zh.wikipedia.org/wiki/Cello_\(瀏覽器\))转换而来。
+
+
 **Cello**是全世界第一款[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，由[康奈爾法學院法律資訊研究所的托馬斯](https://zh.wikipedia.org/wiki/康奈爾法學院 "wikilink")·布魯斯（Thomas R. Bruce）所開發。1993年作為[共享軟體](../Page/共享軟體.md "wikilink")發布\[1\]\[2\]。
 
-Cello是因為律師的網路使用需求而建立的，他們傾向於使用[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，而不是支援早期網頁瀏覽器的[UNIX](../Page/UNIX.md "wikilink")作業系統。缺少Windows瀏覽器意味著許多法律專家無法讀取網路上的法律資訊\[3\]。Cello在1993至1994年間很流行，但是在[Mosaic](../Page/Mosaic.md "wikilink")和[Netscape發表後就不再受歡迎了](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")，此後Cello的發展就被放棄了\[4\]\[5\]。
+Cello是因為律師的網路使用需求而建立的，他們傾向於使用[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，而不是早期網頁瀏覽器支援的[UNIX](../Page/UNIX.md "wikilink")作業系統。缺少Windows瀏覽器意味著許多法律專家無法讀取網路上的法律資訊\[3\]。Cello在1993至1994年間很流行，但是在[Mosaic](../Page/Mosaic.md "wikilink")和[Netscape發表後就不再受歡迎了](https://zh.wikipedia.org/wiki/網景領航員 "wikilink")，此後Cello的發展就被放棄了\[4\]\[5\]。
 
 ## 發展歷程
 
@@ -32,50 +35,30 @@ Cello在存取網際網路和處理超媒體文件方面有不錯的表現\[27\]
 [Category:康乃爾大學](https://zh.wikipedia.org/wiki/Category:康乃爾大學 "wikilink") [Category:1993年軟體](https://zh.wikipedia.org/wiki/Category:1993年軟體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19. [](http://www.sfr-fresh.com/windows/misc/old/winter15.zip:a/WINTER15.DOC)
-
 20.
-
 21.
-
 22.
-
 23.
 24.
 25.
 26.
-
 27.
 28.

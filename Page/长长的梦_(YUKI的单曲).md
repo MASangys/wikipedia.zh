@@ -1,3 +1,6 @@
+> 本文内容由[长长的梦 \(YUKI的单曲\)](https://zh.wikipedia.org/wiki/长长的梦_\(YUKI的单曲\))转换而来。
+
+
 \-{「}-**长长的梦**-{」}-（）是[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")10张单曲。
 
 ## 简介

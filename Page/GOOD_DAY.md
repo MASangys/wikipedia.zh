@@ -1,4 +1,9 @@
+> 本文内容由[GOOD DAY](https://zh.wikipedia.org/wiki/GOOD_DAY)转换而来。
+
+
 **GOOD DAY**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[C9娛樂於](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")2017年推出的10人女子偶像團體，成員包括喜珍、Genie、Cherry、彩率、那阭、智源、夏恩、Viva、甫珉、Lucky。組合於2017年8月30日攜迷你专辑《All Day Good Day》正式出道。
+
+雖然所屬社並未正式公布解散消息，但合理推測組合目前實際上已經解散。
 
 ## 經歷
 
@@ -16,11 +21,18 @@
 
 ### 參加 The Unit
 
-2017年10月，其中六位成員參加 [The Unit](../Page/The_Unit.md "wikilink")。Lucky 在第1集被淘汰，但於第4集復活。Genie和彩率在第7集被淘汰。喜珍、Viva和Lucky則在第13集被淘汰。智源在决赛中最终排名第11名，无缘進入出道組。
+2017年10月，其中六位成員參加《[The Unit](../Page/The_Unit.md "wikilink")》。Lucky 在第1集被淘汰，但於第4集復活。Genie和彩率在第7集被淘汰。喜珍、Viva和Lucky則在第13集被淘汰。智源在决赛中最终排名第11名，无缘進入出道組。
 
-## 成員(皆正名)
+### 解散、部分成員加入新女團
+
+2019年11月10日，公司[C9娛樂開通了名為](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")[C9 GIRLZ的Twitter](https://zh.wikipedia.org/wiki/C9_GIRLZ "wikilink")、Instagram、Facebook、YouTube、V Live頻道。
+
+11月11日起，公布的成員有智源、彩率、Viva（改藝名為**Sunn**）、Lucky（改藝名為**Belle**）、夏恩（改藝名為**YeAh**）。由此推測團體已解散。
+
+## 成員
 
   - 名字**粗體**為隊長
+  - 全部成員皆已正名
 
 <table>
 <thead>
@@ -206,7 +218,11 @@
 
   - [C9 Entertainment](https://www.youtube.com/channel/UCbhxZsCX8OPzwefC7pXVFwQ)的Youtube
 
-[Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+<!-- end list -->
+
+  - [c9_girlz](https://www.instagram.com/c9_girlz/)(後續團體)的Instagram帳戶
+
+[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:2019年韓國廢除](https://zh.wikipedia.org/wiki/Category:2019年韓國廢除 "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.
 2.

@@ -1,3 +1,6 @@
+> 本文内容由[对侠盗猎车手IV的争议](https://zh.wikipedia.org/wiki/对侠盗猎车手IV的争议)转换而来。
+
+
 《[俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")》是一款由[Rockstar North开发](../Page/Rockstar_North.md "wikilink")，[Rockstar Games发行的](../Page/Rockstar_Games.md "wikilink")[開放世界](../Page/開放世界.md "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。2008年4月29日[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360版本发布后](../Page/Xbox_360.md "wikilink")，游戏引发了争议。记者和政府官员纷纷评论游戏中的暴力描写，游戏有时更被称为“谋杀模拟器”\[1\]。游戏中的[醉酒驾驶情节也受到批评](https://zh.wikipedia.org/wiki/醉酒驾驶 "wikilink")，导致有组织要求[ESRB改变游戏](../Page/娛樂軟件分級委員會.md "wikilink")[评级](../Page/电子游戏分级系统.md "wikilink")。同样，一些游戏特性在澳大利亚和新西兰版本中遭到审查，不过这些删剪内容随后被恢复。游戏发布后发生的几次如谋杀和性暴力的犯罪活动都被归因于犯罪者的游戏体验，这引起了进一步的争议。以反对此系列游戏而知名的前律师[杰克·汤普森](../Page/杰克·汤普森.md "wikilink")在《侠盗猎车手IV》发布前痛批游戏，并向其母公司[Take-Two Interactive提起诉讼](../Page/Take-Two_Interactive.md "wikilink")，还威胁到如果某些游戏功能没有被移除，他会禁售游戏。游戏还引发了市政府官员与机构的进一步的争议与诉讼。
 
 ## 游戏内容
@@ -6,7 +9,7 @@
 
 《侠盗猎车手IV》对暴力与谋杀的描写受到广泛批评。美国电台主持人、[保守主义](../Page/保守主义.md "wikilink")者[格林·贝克](../Page/格林·贝克.md "wikilink")在[他的节目上以](https://zh.wikipedia.org/wiki/格伦·贝克节目 "wikilink")《侠盗猎车手IV》为例，声称美国军方使用暴力游戏。他引用戴维·格罗斯曼（Dave Grossman）[中校的说法](https://zh.wikipedia.org/wiki/中校 "wikilink")，即军方使用射击游戏麻木士兵对杀戮的感觉。\[2\]贝克还谈到把游戏称作“谋杀模拟器”的律师[杰克·汤普森](../Page/杰克·汤普森.md "wikilink")。[家长电视委员会的全国基层主管加文](https://zh.wikipedia.org/wiki/家长电视委员会 "wikilink")·麦基尔南（Gavin McKiernan）补充道，游戏是一个“成人产品”，称[研究显示暴力媒体对儿童有潜在影响](../Page/傳媒暴力研究.md "wikilink")。汤普森重申，游戏应参照澳大利亚版本，在美国重新评级。\[3\]\[4\]
 
-在一些对犯罪活动的报道中，作案者称主要受到《侠盗猎车手IV》的影响。2008年6月27日，6名青少年在纽约[新海德公园进行犯罪活动后被捕](https://zh.wikipedia.org/wiki/新海德公园 "wikilink")。这些少年抢劫了一个男人，敲掉他的牙齿，还企图劫持汽车，并用短棍砸了一辆路过的货车。根据[拿骚县警察的说法](https://zh.wikipedia.org/wiki/拿骚县_\(纽约州\) "wikilink")，少年声称他们受到《侠盗猎车手IV》的启发\[5\]\[6\]。2008年8月4日，BBC Newsbeat报道一名18岁的学生因企图劫持出租车并谋杀司机在泰国[曼谷](../Page/曼谷.md "wikilink")被捕。一名曼谷警察队长表示学生“想知道现实生活中是否能像游戏那样轻松抢到出租车”\[7\]。《侠盗猎车手IV》随后被泰国封杀\[8\]。2013年8月24日，[天空新闻报道一名](../Page/天空新闻台.md "wikilink")90岁的女子在美国[路易斯安那州](../Page/路易斯安那州.md "wikilink")[斯洛特被杀](https://zh.wikipedia.org/wiki/斯洛特_\(路易斯安那州\) "wikilink")，當時一名8岁男孩在玩完《侠盗猎车手IV》后抓起一把手枪射向她的头部\[9\]。
+在一些对犯罪活动的报道中，作案者称主要受到《侠盗猎车手IV》的影响。2008年6月27日，6名青少年在纽约[新海德公园进行犯罪活动后被捕](https://zh.wikipedia.org/wiki/新海德公园 "wikilink")。这些少年抢劫了一个男人，敲掉他的牙齿，还企图劫持汽车，并用短棍砸了一辆路过的货车。根据[拿骚县警察的说法](https://zh.wikipedia.org/wiki/拿骚县_\(纽约州\) "wikilink")，少年声称他们受到《侠盗猎车手IV》的启发\[5\]\[6\]。2008年8月4日，BBC Newsbeat报道一名18岁的学生因企图劫持出租车并谋杀司机在泰国[曼谷](../Page/曼谷.md "wikilink")被捕。一名曼谷警察队长表示学生“想知道现实生活中是否能像游戏那样轻松抢到出租车”\[7\]。《侠盗猎车手IV》随后被泰国封杀\[8\]。2013年8月24日，[天空新闻报道一名](../Page/天空新闻台.md "wikilink")90岁的女子在美国[路易斯安那州](../Page/路易斯安那州.md "wikilink")[斯洛特被杀](../Page/斯洛特_\(路易斯安那州\).md "wikilink")，當時一名8岁男孩在玩完《侠盗猎车手IV》后抓起一把手枪射向她的头部\[9\]。
 
 ### 醉酒驾驶情节
 
@@ -54,94 +57,50 @@
 [Category:俠盜獵車手IV](https://zh.wikipedia.org/wiki/Category:俠盜獵車手IV "wikilink") [Category:电子游戏争议](https://zh.wikipedia.org/wiki/Category:电子游戏争议 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
 40.
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.

@@ -1,4 +1,4 @@
-> 本文内容由[Across Entertainment](https://zh.wikipedia.org/wiki/Across Entertainment)转换而来。
+> 本文内容由[Across Entertainment](https://zh.wikipedia.org/wiki/Across_Entertainment)转换而来。
 
 
 **株式會社Across Entertainment**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。由曾管理[東京俳優生活協同組合](../Page/東京俳優生活協同組合.md "wikilink")的藤崎淳\[2\]在2008年4月\[3\]創立。

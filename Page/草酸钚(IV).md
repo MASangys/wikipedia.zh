@@ -1,3 +1,6 @@
+> 本文内容由[草酸钚\(IV\)](https://zh.wikipedia.org/wiki/草酸钚\(IV\))转换而来。
+
+
 **草酸钚(IV)**是[钚](../Page/钚.md "wikilink")(IV)的[草酸盐](https://zh.wikipedia.org/wiki/草酸盐 "wikilink")，化学式为Pu(C<sub>2</sub>O<sub>4</sub>)<sub>2</sub>，有放射性。
 
 ## 化学性质

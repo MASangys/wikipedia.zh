@@ -1,4 +1,4 @@
-> 本文内容由[Wanna Be \(AOA單曲\)](https://zh.wikipedia.org/wiki/Wanna Be \(AOA單曲\))转换而来。
+> 本文内容由[Wanna Be \(AOA單曲\)](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA單曲\))转换而来。
 
 
 「**Wanna be**」是[韓國的女子樂團和舞蹈團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[AOA的第](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")2張單曲。於2012年10月10日發行。唱片公司為[FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。

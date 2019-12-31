@@ -1,3 +1,6 @@
+> 本文内容由[Samsung Experience](https://zh.wikipedia.org/wiki/Samsung_Experience)转换而来。
+
+
 **Samsung Experience**（前身：**[Samsung TouchWiz](../Page/TouchWiz.md "wikilink")**）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子以及其合作伙伴为基于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[Android](../Page/Android.md "wikilink")操作系统的[三星Galaxy系列设备上所开发的一款用户界面](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")。\[1\]
 
 ## 历史

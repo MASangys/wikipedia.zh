@@ -1,3 +1,6 @@
+> 本文内容由[My Jolly Days](https://zh.wikipedia.org/wiki/My_Jolly_Days)转换而来。
+
+
 《**My Jolly Days**》是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[奧井雅美](../Page/奧井雅美.md "wikilink")的個人總計第5張單曲。1994年8月5日由[STARCHILD](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")（[King Records](../Page/國王唱片.md "wikilink")）發行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HTTP 307](https://zh.wikipedia.org/wiki/HTTP_307)转换而来。
+
+
 **307 Temporary Redirect**是[HTTP协议中的一个状态码](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")（Status Code）。可以理解为一个临时的重定向\[1\]。
 
 但该响应代码与[302重定向有所区别的地方在于](../Page/HTTP_302.md "wikilink")，收到307响应码后，客户端应保持请求方法不变向新的地址发出请求。\[2\]

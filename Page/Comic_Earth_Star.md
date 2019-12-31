@@ -1,3 +1,6 @@
+> 本文内容由[Comic Earth Star](https://zh.wikipedia.org/wiki/Comic_Earth_Star)转换而来。
+
+
 《漫畫地球之星》（；）是[Earth Star Entertainment發行的網路漫畫雜誌](../Page/Earth_Star_Entertainment.md "wikilink")，實體書於2011年3月11日出版\[1\]，又於2014年11月12日停刊。從2015年開始改為單純網路漫畫雜誌。
 
 視頻租賃連鎖店“TSUTAYA”於2010年成立[Culture Convenience Club](../Page/Culture_Convenience_Club.md "wikilink")，開始於[Pixiv](../Page/Pixiv.md "wikilink")招募新人漫畫家和插圖師。

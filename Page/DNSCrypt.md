@@ -1,3 +1,6 @@
+> 本文内容由[DNSCrypt](https://zh.wikipedia.org/wiki/DNSCrypt)转换而来。
+
+
 **DNSCrypt**是由Frank Denis及付业成（Yecheng Fu）主導设计的[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，用于用户[计算机与递归](https://zh.wikipedia.org/wiki/计算机 "wikilink")[域名服务器之间的](https://zh.wikipedia.org/wiki/域名服务器 "wikilink")[域名系统](../Page/域名系统.md "wikilink")（DNS）通信的身份验证。\[1\]
 
 DNSCrypt将未修改的DNS查询与响应以密码学结构打包来检测是否被伪造。它儘管未使用[端對端加密](https://zh.wikipedia.org/wiki/端對端加密 "wikilink")，但也足夠抵禦針對DNS的[中間人攻擊](https://zh.wikipedia.org/wiki/中間人攻擊 "wikilink")、[DNS快取投毒攻擊](https://zh.wikipedia.org/wiki/DNS快取侵害 "wikilink")、[DNS劫持等](https://zh.wikipedia.org/wiki/DNS劫持 "wikilink")，尤其是在[區域網路中](https://zh.wikipedia.org/wiki/區域網路 "wikilink")。\[2\]除此以外還缓解了基于[UDP的请求查询至少与回应一样大的放大攻击](../Page/用户数据报协议.md "wikilink")。DNSCrypt也可以用于[访问控制](https://zh.wikipedia.org/wiki/访问控制 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[AMA](https://zh.wikipedia.org/wiki/AMA)转换而来。
+
+
 **Ama**或**AMA**可以指：
 
 ## 地理

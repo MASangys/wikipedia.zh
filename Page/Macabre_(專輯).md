@@ -1,3 +1,6 @@
+> 本文内容由[Macabre \(專輯\)](https://zh.wikipedia.org/wiki/Macabre_\(專輯\))转换而来。
+
+
 《**MACABRE**》是日本搖滾樂團[Dir en grey於](../Page/Dir_en_grey.md "wikilink")2000年發行的第2張錄音室專輯。
 
 ## 專輯簡介

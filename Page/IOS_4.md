@@ -1,4 +1,4 @@
-> 本文内容由[IOS 4](https://zh.wikipedia.org/wiki/IOS 4)转换而来。
+> 本文内容由[IOS 4](https://zh.wikipedia.org/wiki/IOS_4)转换而来。
 
 
 **iOS 4** 是[美国](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第四個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iPhone OS 3](https://zh.wikipedia.org/wiki/iPhone_OS_3 "wikilink")。iOS 4於2010年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年6月21日正式推出。iOS 4是第一個不支援所有能運行前代系統的裝置的iOS主要版本，也是第一個被命名為iOS的主要版本（前代系統皆稱為[iPhone OS](https://zh.wikipedia.org/wiki/iPhone_OS "wikilink")）。繼任者為2011年10月12日推出的[iOS 5](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")\[1\]。

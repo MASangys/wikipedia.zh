@@ -1,3 +1,6 @@
+> 本文内容由[Anon](https://zh.wikipedia.org/wiki/Anon)转换而来。
+
+
 《**anon**》是[日本](../Page/日本.md "wikilink")男[演員](../Page/演員.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[藤木直人](../Page/藤木直人.md "wikilink")的個人總計第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年8月1日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Sin 七大罪](https://zh.wikipedia.org/wiki/Sin_七大罪)转换而来。
+
+
 《**sin 七大罪**》（）是模型雜誌出版商[Hobby Japan](https://zh.wikipedia.org/wiki/Hobby_Japan "wikilink")2012年推出的「魔王崇拜型計劃」的[跨媒體製作](../Page/跨媒體製作.md "wikilink")，內容包括[手辦](https://zh.wikipedia.org/wiki/手辦 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。同時2012年10月有OVA化發表，但計劃最終取消。
 
 電視動畫的先行製作，漫畫《sin 七大罪》於2016年8月29日開始在漫畫網站[Comic Fire進行連載](https://zh.wikipedia.org/wiki/Comic_Fire "wikilink")，作畫是。新連載漫畫《七大罪 日常默示錄》於[Media Factory](../Page/Media_Factory.md "wikilink")《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，作畫是\[1\]。電視動畫《sin 七大罪》2017年4月14日起由[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")等電視台播出。

@@ -1,3 +1,6 @@
+> 本文内容由[崩壞3rd](https://zh.wikipedia.org/wiki/崩壞3rd)转换而来。
+
+
 《**崩壞3rd**》（国内官方名称“崩坏3”）是由[中国游戏开发商](https://zh.wikipedia.org/wiki/台灣 "wikilink")[米哈游開發的的手機与PC平台](../Page/G妹遊戲.md "wikilink")3D动作遊戲。[崩壞學園系列的第](https://zh.wikipedia.org/wiki/崩壞學園 "wikilink")3作，遊戲沿用了前作《[崩壞學園2](https://zh.wikipedia.org/wiki/崩壞學園2 "wikilink")》角色\[1\]。故事背景、剧情和世界观与《崩坏学园2》有所不同。讲述了女主角琪亚娜·卡斯兰娜和她的朋友们的冒险\[2\]。游戏为[ACT类型游戏](../Page/动作游戏.md "wikilink")。\[3\]
 
 ## 评价

@@ -1,3 +1,6 @@
+> 本文内容由[模块:British regnal year](https://zh.wikipedia.org/wiki/模块:British_regnal_year)转换而来。
+
+
 \-- This module implements . It converts a year in the Gregorian -- calendar to the equivalent English or British regnal year.
 
 local data = mw.loadData( 'Module:British regnal year/data' )

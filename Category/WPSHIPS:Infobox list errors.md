@@ -1,3 +1,6 @@
+> 本文内容由[Category:WPSHIPS:Infobox list errors](https://zh.wikipedia.org/wiki/Category:WPSHIPS:Infobox_list_errors)转换而来。
+
+
 This is a tracking category for list errors in [WP:SHIPS](https://zh.wikipedia.org/wiki/WP:SHIPS "wikilink") infoboxes. Lists in the various infobox templates use the common unordered list (\*) markup. The templates read the list markup and produce the correct HTML for unbulleted lists. This overcomes limitations that exist in the [Mediawiki:Common.css](../MediaWiki/Common.css.md "wikilink") `plainlist` class and the templates  and .
 
 In the past, the [WP:SHIPS infobox usage guide](https://zh.wikipedia.org/wiki/Template:Infobox_ship_begin/Usage_guide "wikilink") required unbulleted lists for reasons of limited available space and for aesthetics. Editors used a variety of other methods to create lists in infoboxes. These included  line break HTML tags and the use of  and  templates. Problems with these methods are:

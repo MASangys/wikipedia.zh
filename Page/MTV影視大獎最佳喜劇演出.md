@@ -1,3 +1,6 @@
+> 本文内容由[MTV影視大獎最佳喜劇演出](https://zh.wikipedia.org/wiki/MTV影視大獎最佳喜劇演出)转换而来。
+
+
 **MTV影視大獎最佳喜劇演出**（MTV Movie & TV Award for Best Comedic Performance）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳喜劇演出，於1992年開始頒發。
 
 此獎項並不限於出演喜劇之演員，為動畫角色配音亦可獲得提名，例如第二屆[羅賓·威廉斯](../Page/羅賓·威廉斯.md "wikilink")於迪士尼動畫《[阿拉丁](https://zh.wikipedia.org/wiki/阿拉丁_\(電影\) "wikilink")》聲演燈神一角，順利入圍之外，更成功獲獎。

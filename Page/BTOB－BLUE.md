@@ -1,3 +1,6 @@
+> 本文内容由[BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE)转换而来。
+
+
 **BTOB－BLUE**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")於2016年首度推出的子團，由Vocalists成員[徐恩光](../Page/徐恩光.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")組成。2016年9月19日，發表首張[韓語數位單曲](https://zh.wikipedia.org/wiki/韓語 "wikilink")〈[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")〉正式出道。
 
 ## 成員列表

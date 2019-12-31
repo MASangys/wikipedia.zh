@@ -1,3 +1,6 @@
+> 本文内容由[精靈寶可夢 THE ORIGIN](https://zh.wikipedia.org/wiki/精靈寶可夢_THE_ORIGIN)转换而来。
+
+
 是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")》系列電視動畫特別篇，改編自系列第一作《[精靈寶可夢 紅·綠](../Page/精靈寶可夢_紅·綠.md "wikilink")》。
 
 ## 作品概要

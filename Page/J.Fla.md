@@ -1,3 +1,6 @@
+> 本文内容由[J.Fla](https://zh.wikipedia.org/wiki/J.Fla)转换而来。
+
+
 **J.Fla**（****；原名：****），韓國音樂人、作曲家、[YouTube](../Page/YouTube.md "wikilink")[網路红人](https://zh.wikipedia.org/wiki/網路红人 "wikilink")。被唱片公司「Ostereo Records」簽約出道\[1\]\[2\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Prequel \(Dreamcatcher迷你專輯\)](https://zh.wikipedia.org/wiki/Prequel_\(Dreamcatcher迷你專輯\))转换而来。
+
+
 《**Prequel**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[Dreamcatcher](../Page/Dreamcatcher.md "wikilink")的第一張迷你專輯，由[Happy Face娛樂製作及發行](../Page/Happy_Face娛樂.md "wikilink")，於2017年7月27日推出，共有6首歌曲，主打歌為《Fly high》。
 
 ## 事件
@@ -93,10 +96,10 @@
 
 ## 發行歷史
 
-| style="background:\#FF79BC |發行地區 | style="background:\#FF79BC |發行日期 | style="background:\#FF79BC |發行方式                                    | style="background:\#FF79BC |唱片公司                      | style="background:\#FF79BC |發行公司                   |
-| -------------------------------- | -------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------- |
-| 全球                               | 2017年7月27日                       | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink") | [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") |
-|                                  |                                  |                                                                     |                                                       |                                                    |
+| style="background:\#FF79BC |發行地區 | style="background:\#FF79BC |發行日期 | style="background:\#FF79BC |發行方式                                    | style="background:\#FF79BC |唱片公司                                    | style="background:\#FF79BC |發行公司                   |
+| -------------------------------- | -------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
+| 全球                               | 2017年7月27日                       | [CD](../Page/CD.md "wikilink")、[數位下載](../Page/數位音樂下載.md "wikilink") | [Interpark音樂](https://zh.wikipedia.org/wiki/Interpark音樂 "wikilink") | [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") |
+|                                  |                                  |                                                                     |                                                                     |                                                    |
 
 ## 參考資料
 
@@ -104,14 +107,14 @@
 
 [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2017年迷你專輯](https://zh.wikipedia.org/wiki/Category:2017年迷你專輯 "wikilink")
 
-1.  [Dreamcatcher 7/27回歸，行程表公開](http://kpopn.niusnews.com/=K38ffu00)
+1.
 2.  [Dreamcatcher reveals new dreamy teaser images for 1st mini album](http://www.allkpop.com/article/2017/07/dream-catcher-reveals-new-dreamy-teaser-images-for-1st-mini-album-prequel)
-3.  [Dreamcatcher 《Prequel》概念照(Before)](http://kpopn.niusnews.com/=K0mlmgg7)
-4.  [Dreamcatcher 《Prequel》概念照(After)](http://kpopn.niusnews.com/=K0gkhf80)
-5.  [Dreamcatcher 新輯團體概念照](https://kpopn.niusnews.com/=K1zy7r77)
-6.  [Dreamcatcher 《Prequel》曲目表](http://kpopn.niusnews.com/=K0vv2k35)
-7.  [Dreamcatcher 《Fly high》神秘預告](http://kpopn.niusnews.com/=K0mmkv37)
-8.  [Dreamcatcher 《Fly high》詭譎預告](http://kpopn.niusnews.com/=K2pp6607)
-9.  [Dreamcatcher 《Prequel》音源試聽](http://kpopn.niusnews.com/=K155x5d9)
-10. [Dreamcatcher 《Fly high》MV 預告](http://kpopn.niusnews.com/=K3kk0gg5)
-11. [Dreamcatcher 《Prequel》MV、音源](http://kpopn.niusnews.com/=K0332t82)
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.

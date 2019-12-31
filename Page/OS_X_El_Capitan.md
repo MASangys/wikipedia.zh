@@ -1,4 +1,4 @@
-> 本文内容由[OS X El Capitan](https://zh.wikipedia.org/wiki/OS X El Capitan)转换而来。
+> 本文内容由[OS X El Capitan](https://zh.wikipedia.org/wiki/OS_X_El_Capitan)转换而来。
 
 
 **OS X El Capitan**（版本10.11）是[苹果公司为个人电脑和](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")开发的[OS X第](https://zh.wikipedia.org/wiki/OS_X "wikilink")12个版本。它是[OS X 10.10 Yosemite的后续](../Page/OS_X_Yosemite.md "wikilink")。「El Capitan」名稱取自美國加州[優勝美地國家公園](../Page/優勝美地國家公園.md "wikilink")內的一塊巨岩「[酋長岩](https://zh.wikipedia.org/wiki/酋長岩 "wikilink")」。OS X El Capitan的第一个测试版在2015年6月8日召开的WWDC 2015演讲不久后发布给开发者。OS X El Capitan是一个小更新，主要注重性能、稳定性、安全性，而不是新增大量新功能。\[1\]

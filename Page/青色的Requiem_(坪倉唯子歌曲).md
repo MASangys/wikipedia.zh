@@ -1,3 +1,6 @@
+> 本文内容由[青色的Requiem \(坪倉唯子歌曲\)](https://zh.wikipedia.org/wiki/青色的Requiem_\(坪倉唯子歌曲\))转换而来。
+
+
 《**青色的Requiem**》（）是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")的第6張單曲。2002年8月7日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 概要

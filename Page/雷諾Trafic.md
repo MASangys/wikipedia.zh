@@ -1,3 +1,6 @@
+> 本文内容由[雷諾Trafic](https://zh.wikipedia.org/wiki/雷諾Trafic)转换而来。
+
+
 **雷諾Trafic**是由[法國汽車公司](https://zh.wikipedia.org/wiki/法國 "wikilink")[雷諾於](https://zh.wikipedia.org/wiki/雷諾 "wikilink")1981年開始推出的一款[客貨車](https://zh.wikipedia.org/wiki/客貨車 "wikilink")，此車型共有三代。
 
 ## 第一代（1980–2001）

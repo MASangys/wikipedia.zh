@@ -1,3 +1,6 @@
+> 本文内容由[MYNAME is](https://zh.wikipedia.org/wiki/MYNAME_is)转换而来。
+
+
 《**MYNAME is**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是他們在[日本環球音樂的第二張作品以及大哥](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")[仁秀入伍前最後一張團體作品](https://zh.wikipedia.org/wiki/姜仁秀 "wikilink")\[1\]，於2017年7月19日以七個版不同版本推出\[2\]。
 
 ## 背景
@@ -74,29 +77,17 @@
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink") [Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.

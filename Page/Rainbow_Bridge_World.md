@@ -1,3 +1,6 @@
+> 本文内容由[Rainbow Bridge World](https://zh.wikipedia.org/wiki/Rainbow_Bridge_World)转换而来。
+
+
 **Rainbow Bridge World**，簡稱RBW，是一間[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由3位作曲家(Kim Do Hoon)、(Hwang Sung Jin)與(Kim Jin Woo)共同成立，前身為WA Entertainment，2015年合併為**Rainbow Bridge World**。2017年3月，RBW成立獨立嘻哈音樂品牌「All Right Music」。\[1\]
 
 ## 公司歷程

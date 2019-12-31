@@ -1,4 +1,4 @@
-> 本文内容由[Rita Grosse-Ruyken](https://zh.wikipedia.org/wiki/Rita Grosse-Ruyken)转换而来。
+> 本文内容由[Rita Grosse-Ruyken](https://zh.wikipedia.org/wiki/Rita_Grosse-Ruyken)转换而来。
 
 
 **Rita Maria Walburga Grosse-Ruyken**，出生于[德国](../Page/德国.md "wikilink")[巴伐利亚州的](https://zh.wikipedia.org/wiki/巴伐利亚州 "wikilink")[多瑙沃特](../Page/多瑙沃特.md "wikilink")。她是一名当代德国艺术家，\[1\]\[2\]雕塑家，同时也是一名从事多媒体装置艺术，艺术影片制作以及行为艺术\[3\]的艺术家。她以“光，声，空间，形态”为核心的装置艺术作品主要由动态的纯金和纯银雕塑组成。使她在国际上享有声誉的，是她的个人展览Rays of Light。\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Age](https://zh.wikipedia.org/wiki/模块:Age)转换而来。
+
+
 \-- Implement various "age of" and other date-related templates.
 
 local _Date, _currentDate local function getExports(frame)

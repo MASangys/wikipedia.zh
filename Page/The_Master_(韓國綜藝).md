@@ -1,3 +1,6 @@
+> 本文内容由[The Master \(韓國綜藝\)](https://zh.wikipedia.org/wiki/The_Master_\(韓國綜藝\))转换而来。
+
+
 《**The Master**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")於2017年製作的綜藝節目，以特級歌手間競演或生存戰為主軸的音樂節目類型綜藝\[1\]。節目預計於2017年11月開播。
 
 ## 節目預告

@@ -1,3 +1,6 @@
+> 本文内容由[雷電III](https://zh.wikipedia.org/wiki/雷電III)转换而来。
+
+
 是由日本遊戲品牌MOSS製作於2005年3月31日上市的[清版射擊類型](https://zh.wikipedia.org/wiki/清版射擊遊戲 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第四作](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")。2005年9月22日發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")\[1\]，2006年3月17日發售[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[2\]
 
 ## 系統

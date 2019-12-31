@@ -1,3 +1,6 @@
+> 本文内容由[Manz AG](https://zh.wikipedia.org/wiki/Manz_AG)转换而来。
+
+
 **Manz AG**，也称**Manz Automation**，是一家成立于1987年的德国跨国高科技设备制造公司，总部位于德国[罗伊特林根城](https://zh.wikipedia.org/wiki/罗伊特林根城 "wikilink")。Manz AG公司专精于提供先进的生产设备解决方案，包括[自动化](https://zh.wikipedia.org/wiki/自动化 "wikilink")、激光加工、测试与检测、[湿化学法](https://zh.wikipedia.org/wiki/湿化学法 "wikilink")、等，服务于电子、储能、太阳能设备制造和解决方案\[1\]。
 
 公司的总部是在德国[罗伊特林根](https://zh.wikipedia.org/wiki/罗伊特林根 "wikilink") ，在[蒂宾根](../Page/蒂宾根行政区.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[斯洛文尼亚](../Page/斯洛文尼亚.md "wikilink")、[中国大陆](../Page/中国大陆.md "wikilink")和[台湾拥有生产基地](https://zh.wikipedia.org/wiki/台湾 "wikilink")；此外在美国、韩国和印度\[2\]设有销售办公室。\[3\]。

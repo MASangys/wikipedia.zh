@@ -1,3 +1,6 @@
+> 本文内容由[Go2Sky](https://zh.wikipedia.org/wiki/Go2Sky)转换而来。
+
+
 **Go2Sky**是[斯洛伐克](../Page/斯洛伐克.md "wikilink")一家[包机航空公司](https://zh.wikipedia.org/wiki/包机 "wikilink")，总部位于[布拉迪斯拉发](../Page/布拉迪斯拉发.md "wikilink")，其[枢纽机场为](https://zh.wikipedia.org/wiki/枢纽机场 "wikilink")[布拉迪斯拉发机场](../Page/布拉迪斯拉发机场.md "wikilink")。
 
 ## 历史

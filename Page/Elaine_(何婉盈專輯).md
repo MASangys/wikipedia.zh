@@ -1,4 +1,4 @@
-> 本文内容由[Elaine \(何婉盈專輯\)](https://zh.wikipedia.org/wiki/Elaine \(何婉盈專輯\))转换而来。
+> 本文内容由[Elaine \(何婉盈專輯\)](https://zh.wikipedia.org/wiki/Elaine_\(何婉盈專輯\))转换而来。
 
 
 《**Elaine**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[何婉盈](../Page/何婉盈.md "wikilink")的首張個人同名音樂專輯，也是她唯一一張唱片。專輯第一主打歌為《任性》，第二主打歌為《愛上你是我一生的錯》，第三主打歌為《週日清晨》。

@@ -1,4 +1,4 @@
-> 本文内容由[Chained Up](https://zh.wikipedia.org/wiki/Chained Up)转换而来。
+> 本文内容由[Chained Up](https://zh.wikipedia.org/wiki/Chained_Up)转换而来。
 
 
 《**Chained Up**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第二張韓語正規專輯，於2015年11月10日發行\[1\]，主打曲目為《Chained Up》（）。

@@ -1,3 +1,6 @@
+> 本文内容由[克里斯多福·B·藍登](https://zh.wikipedia.org/wiki/克里斯多福·B·藍登)转换而来。
+
+
 **克里斯多福·碧爾·藍登**（，）或簡稱**克里斯多福·B·藍登**（），是一位[美國男導演](https://zh.wikipedia.org/wiki/美國 "wikilink")、製片人和編劇。
 
 ## 早期生活
@@ -166,6 +169,5 @@
 [Category:1975年出生](https://zh.wikipedia.org/wiki/Category:1975年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink") [Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink") [Category:美国肥皂剧作家](https://zh.wikipedia.org/wiki/Category:美国肥皂剧作家 "wikilink") [Category:美國電視編劇](https://zh.wikipedia.org/wiki/Category:美國電視編劇 "wikilink") [Category:爱尔兰裔美国人](https://zh.wikipedia.org/wiki/Category:爱尔兰裔美国人 "wikilink") [Category:男同性戀作家](https://zh.wikipedia.org/wiki/Category:男同性戀作家 "wikilink") [Category:美國LGBT作家](https://zh.wikipedia.org/wiki/Category:美國LGBT作家 "wikilink") [Category:恐怖片導演](https://zh.wikipedia.org/wiki/Category:恐怖片導演 "wikilink")
 
 1.
-
 2.
 3.

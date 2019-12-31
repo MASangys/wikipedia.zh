@@ -1,3 +1,6 @@
+> 本文内容由[Teredo隧道](https://zh.wikipedia.org/wiki/Teredo隧道)转换而来。
+
+
 **Teredo**是一个[IPv6转换机制](../Page/IPv6转换机制.md "wikilink")，它可为运行在[IPv4](../Page/IPv4.md "wikilink")[互联网](../Page/互联网.md "wikilink")但没有[IPv6](../Page/IPv6.md "wikilink")网络原生连接的支持IPv6的主机提供完全的连通性。与其他的类似协议不同，它可以在[网络地址转换](../Page/网络地址转换.md "wikilink")（NAT）设备（例如家庭路由器）后完成功能。
 
 Teredo使用[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[隧道协议](../Page/隧道协议.md "wikilink")提供[IPv6](../Page/IPv6.md "wikilink")连通性，将IPv6[資料包](https://zh.wikipedia.org/wiki/資料包 "wikilink")[封裝在IPv](https://zh.wikipedia.org/wiki/封裝_\(網路\) "wikilink")4[用户数据报协议](../Page/用户数据报协议.md "wikilink")（UDP）数据包内。Teredo路由器将这些数据报在[IPv4](../Page/IPv4.md "wikilink")互联网上传输及通过NAT设备。其他在IPv6网络上的Teredo节点（被称为Teredo中继，英文为**Teredo relays**）接收数据包，解开它们的封装，以及传递它们。

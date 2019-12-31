@@ -1,3 +1,6 @@
+> 本文内容由[B计划娱乐](https://zh.wikipedia.org/wiki/B计划娱乐)转换而来。
+
+
 **B計畫娛樂**（），\[1\]有時也簡稱為“**B計劃**”，為[美國一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[電影製作](../Page/電影製作.md "wikilink")公司，2001年由[畢·彼特](https://zh.wikipedia.org/wiki/畢·彼特 "wikilink")、和[珍妮佛·安妮斯頓成立](https://zh.wikipedia.org/wiki/珍妮佛·安妮斯頓 "wikilink")。在2005年彼特和安妮斯頓[離婚](https://zh.wikipedia.org/wiki/離婚 "wikilink")、格雷出任[派拉蒙電影的總經理後](https://zh.wikipedia.org/wiki/派拉蒙電影 "wikilink")，彼特成為公司的唯一[所有人](https://zh.wikipedia.org/wiki/所有權 "wikilink")。 B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無間行者 "wikilink")(2006) , [為奴十二年](https://zh.wikipedia.org/wiki/為奴十二年 "wikilink")(2013) 和[月光男孩](../Page/月光男孩.md "wikilink")(2016) 奪得[奧斯卡最佳影片獎](https://zh.wikipedia.org/wiki/奧斯卡最佳影片獎 "wikilink")。
 
 ## 製片交易

@@ -1,3 +1,6 @@
+> 本文内容由[科摩罗LGBT权益](https://zh.wikipedia.org/wiki/科摩罗LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**科摩罗**面临着法律问题。[科摩罗有同性性行为被认为是违反自然的行为的法律](https://zh.wikipedia.org/wiki/科摩罗 "wikilink")。 同意年龄为十三岁。
 
 ## 有关同性性行为的法律

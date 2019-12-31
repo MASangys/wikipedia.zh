@@ -1,4 +1,4 @@
-> 本文内容由[模块:Uses Wikidata](https://zh.wikipedia.org/wiki/模块:Uses Wikidata)转换而来。
+> 本文内容由[模块:Uses Wikidata](https://zh.wikipedia.org/wiki/模块:Uses_Wikidata)转换而来。
 
 
 local p = {}

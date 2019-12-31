@@ -1,3 +1,6 @@
+> 本文内容由[Sweetbox](https://zh.wikipedia.org/wiki/Sweetbox)转换而来。
+
+
 「SWEETBOX」于1995年出道，期间也换了5名女主唱，发行过的大部分歌曲都曾经被其他歌手翻唱过，比如像[S.H.E](../Page/S.H.E.md "wikilink")《爱呢》、《Remember》、《Always On My Mind》等。Sweetbox主要在亚洲地区发展。
 
 ## 由来

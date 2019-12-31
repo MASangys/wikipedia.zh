@@ -1,4 +1,4 @@
-> 本文内容由[Sana \(歌手\)](https://zh.wikipedia.org/wiki/Sana \(歌手\))转换而来。
+> 本文内容由[Sana \(歌手\)](https://zh.wikipedia.org/wiki/Sana_\(歌手\))转换而来。
 
 
 **sana**（，）是[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")。身高155公分\[1\]\[2\]\[3\]。

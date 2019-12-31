@@ -1,3 +1,6 @@
+> 本文内容由[宇宙戰隊九連者 THE MOVIE Goes·Indaver的逆襲](https://zh.wikipedia.org/wiki/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver的逆襲)转换而来。
+
+
 《**宇宙戰隊九連者 THE MOVIE Goes・Indaver的逆襲**》（），是日本特攝節目《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》於2017年8月5日上映的劇場版作品。
 
 此外《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》劇場版《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》同步上映。

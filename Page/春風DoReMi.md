@@ -1,3 +1,6 @@
+> 本文内容由[春風DoReMi](https://zh.wikipedia.org/wiki/春風DoReMi)转换而来。
+
+
 ，是[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")『[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")』中的架空角色之一，也是系列作中的主角之一，隸屬**魔法堂(MAHO堂**)的其中一名「小麻煩魔女」，也是故事中的核心角色。日本[配音員](../Page/配音員.md "wikilink")為[千葉千恵巳](https://zh.wikipedia.org/wiki/千葉千恵巳 "wikilink")，中文版配音員為[楊凱凱](../Page/楊凱凱.md "wikilink")→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")(第二期31\~49話)。
 
 ## 個人設定

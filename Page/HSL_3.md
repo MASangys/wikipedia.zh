@@ -1,4 +1,4 @@
-> 本文内容由[HSL 3](https://zh.wikipedia.org/wiki/HSL 3)转换而来。
+> 本文内容由[HSL 3](https://zh.wikipedia.org/wiki/HSL_3)转换而来。
 
 
 **HSL 3**（，，）是一條[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[高速鐵路](../Page/高速鐵路.md "wikilink")線，連接列日和德國近亞琛的邊境，全長56公里，當中42公里為高速專線。

@@ -1,3 +1,6 @@
+> 本文内容由[King Kong by STARSHIP娛樂](https://zh.wikipedia.org/wiki/King_Kong_by_STARSHIP娛樂)转换而来。
+
+
 **King Kong by STARSHIP娛樂**（），是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，原名為King Kong娛樂（），於2009年成立。2017年，[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")宣布與**King Kong娛樂**正式合併，演員經紀隸屬[King Kong by STARSHIP娛樂](../Page/King_Kong_by_STARSHIP娛樂.md "wikilink")，同時亦成為STARSHIP娛樂的子公司。
 
 ## 歷史

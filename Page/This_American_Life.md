@@ -1,4 +1,4 @@
-> 本文内容由[This American Life](https://zh.wikipedia.org/wiki/This American Life)转换而来。
+> 本文内容由[This American Life](https://zh.wikipedia.org/wiki/This_American_Life)转换而来。
 
 
 **This American Life**（**TAL**）是一個由製作，並由主持的[電台節目](https://zh.wikipedia.org/wiki/電台 "wikilink")。該節目在[美國製作](https://zh.wikipedia.org/wiki/美國 "wikilink")，約每星期一集，每集約一小時長\[1\]。該節目在美國及全球不同[公共廣播](../Page/公共廣播.md "wikilink")電台上廣播，另外可透過每週免費[Podcast收聽](https://zh.wikipedia.org/wiki/Podcast "wikilink")。它的主要內容分類為[非虛構](https://zh.wikipedia.org/wiki/非虛構作品 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞學 "wikilink")，但有時亦會包含[隨筆](https://zh.wikipedia.org/wiki/隨筆 "wikilink")、[回憶錄](https://zh.wikipedia.org/wiki/回憶錄 "wikilink")、現場錄音及短篇小說。該節目第一集於1995年11月17日廣播\[2\]，當時稱為「Your Radio Playhouse」。它在2014年6月前是由發佈\[3\]，後來改為由節目人員自行發佈，並由把節目送至各公共廣播電台\[4\]。

@@ -1,4 +1,4 @@
-> 本文内容由[BBC First](https://zh.wikipedia.org/wiki/BBC First)转换而来。
+> 本文内容由[BBC First](https://zh.wikipedia.org/wiki/BBC_First)转换而来。
 
 
 **BBC First**是一個付費娛樂電視頻道，主要播出喜劇和電視劇節目。BBC First由[英國廣播公司商業分支](../Page/英國廣播公司商業分支.md "wikilink")所有並運營，在2014年開始播出，首個播出國家是[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")\[1\]\[2\]\[3\]。2013年10月，BBC宣布將在2014年新增三個頻道，BBC First就是其中之一\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:消防/RowBox](https://zh.wikipedia.org/wiki/Portal:消防/RowBox)转换而来。
+
+
 <table style="width:10%;">
 <colgroup>
 <col style="width: 5%" />

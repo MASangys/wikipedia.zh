@@ -1,3 +1,6 @@
+> 本文内容由[光之美少女 Dream Stars!](https://zh.wikipedia.org/wiki/光之美少女_Dream_Stars!)转换而来。
+
+
 《**電影 光之美少女 Dream Stars\!**》於2017年3月18日在[日本](../Page/日本.md "wikilink")上映\[1\]。本作是第九次結集光之美少女系列成員的作品，Dream Stars系列電影唯一作品。
 
 從這部電影開始，光之美少女不再像以往一樣全體登場，而是改由部分系列成員登場。

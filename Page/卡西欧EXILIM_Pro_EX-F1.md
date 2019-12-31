@@ -1,4 +1,4 @@
-> 本文内容由[卡西欧EXILIM Pro EX-F1](https://zh.wikipedia.org/wiki/卡西欧EXILIM Pro EX-F1)转换而来。
+> 本文内容由[卡西欧EXILIM Pro EX-F1](https://zh.wikipedia.org/wiki/卡西欧EXILIM_Pro_EX-F1)转换而来。
 
 
 **EXILIM PRO EX-F1**是[卡西欧公司于](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")2008年3月推出的一款数码相机\[1\]，属于[桥式相机定位](https://zh.wikipedia.org/wiki/桥式相机 "wikilink")。F1最大特点在于高速拍摄，最高可按照60fps的速率记录静止画面；在录像模式下，最高可以记录1200fps影像。

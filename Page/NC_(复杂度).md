@@ -1,4 +1,4 @@
-> 本文内容由[NC \(复杂度\)](https://zh.wikipedia.org/wiki/NC \(复杂度\))转换而来。
+> 本文内容由[NC \(复杂度\)](https://zh.wikipedia.org/wiki/NC_\(复杂度\))转换而来。
 
 
 在[计算复杂度理论](https://zh.wikipedia.org/wiki/计算复杂度理论 "wikilink")，**NC**（Nick's Class），是一个复杂度类，是能被[并行计算](../Page/并行计算.md "wikilink")机在[多对数函数时间](https://zh.wikipedia.org/wiki/多对数函数 "wikilink")（*[O](../Page/大O符号.md "wikilink")*(log<sup>*c*</sup> *n*)）内以[多项式空间](https://zh.wikipedia.org/wiki/多项式空间 "wikilink")（或者说*[O](../Page/大O符号.md "wikilink")*(*n*<sup>*k*</sup>)并行线程）下解决的[判定问题的集合](https://zh.wikipedia.org/wiki/判定问题 "wikilink")，最先由[史提芬·古克提出](https://zh.wikipedia.org/wiki/史提芬·古克 "wikilink")。\[1\]

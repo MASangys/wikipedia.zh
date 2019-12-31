@@ -1,4 +1,4 @@
-> 本文内容由[Beat \'Em \& Eat \'Em](https://zh.wikipedia.org/wiki/Beat \'Em \& Eat \'Em)转换而来。
+> 本文内容由[Beat \'Em \& Eat \'Em](https://zh.wikipedia.org/wiki/Beat_\'Em_\&_Eat_\'Em)转换而来。
 
 
 是由電子遊戲商Mystique所開發；於1982年發售適用於[雅達利2600](../Page/雅達利2600.md "wikilink")平台的動作遊戲。此作品的內容帶有情色成分，與同由Mystique所發行的遊戲《[卡斯特的復仇](https://zh.wikipedia.org/wiki/卡斯特的復仇 "wikilink")》皆引來爭議。

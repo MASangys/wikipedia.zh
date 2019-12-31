@@ -1,3 +1,6 @@
+> 本文内容由[18大道車站 \(BMT西城線\)](https://zh.wikipedia.org/wiki/18大道車站_\(BMT西城線\))转换而来。
+
+
 **18大道車站**（）是一個[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線](../Page/BMT西城線.md "wikilink")的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構

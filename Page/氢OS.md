@@ -1,3 +1,6 @@
+> 本文内容由[氢OS](https://zh.wikipedia.org/wiki/氢OS)转换而来。
+
+
 **氢OS**（H<sub>2</sub> OS）是中国智能手机制造商[一加](../Page/一加.md "wikilink")为旗下智能手机开发的[Android](../Page/Android.md "wikilink")操作系统的定制版本（替代使用者介面）。另一个专为海外市场开发的版本是“**Oxygen OS**”，一般中文名直譯為「氧OS」\[1\]\[2\]，不過實際上無論氫OS還是Oxygen OS，使用的Linux內核和驅動程式模組是相同的，而兩者目前已合并至同一套Android框架中。
 
 ## 版本歷史
@@ -48,38 +51,21 @@ Oxygen OS相對而言新增功能較少，但也有少量跟進氫OS的功能更
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:一加](https://zh.wikipedia.org/wiki/Category:一加 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18. ZAEKE｜知客|url=[http://www.zaeke.com/article-7934-1.html|website=www.zaeke.com](http://www.zaeke.com/article-7934-1.html%7Cwebsite=www.zaeke.com)}}
-
 19.

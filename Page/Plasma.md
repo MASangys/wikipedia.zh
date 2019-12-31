@@ -1,3 +1,6 @@
+> 本文内容由[Plasma](https://zh.wikipedia.org/wiki/Plasma)转换而来。
+
+
 **Plasma** 或 **plasm** 可指：
 
 ## 科学技术

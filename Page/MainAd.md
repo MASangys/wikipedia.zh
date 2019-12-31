@@ -1,3 +1,6 @@
+> 本文内容由[MainAd](https://zh.wikipedia.org/wiki/MainAd)转换而来。
+
+
 **MainAd**是一个国际广告技术公司，从事数字效果营销。公司总部位于意大利佩斯卡拉市。\[1\]\[2\]
 
 ## 背景

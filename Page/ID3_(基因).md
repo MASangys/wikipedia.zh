@@ -1,3 +1,6 @@
+> 本文内容由[ID3 \(基因\)](https://zh.wikipedia.org/wiki/ID3_\(基因\))转换而来。
+
+
 **ID3**（分化抑制因子3，**I**nhibitor of **D**ifferentiation 3），正式名稱爲「inhibitor of DNA binding 3, HLH protein」（DNA結合抑制因子3，HLH（螺旋-環-螺旋）蛋白）。人ID3蛋白由*ID3*[基因](../Page/基因.md "wikilink")編碼\[1\]\[2\]。
 
 ## 功能

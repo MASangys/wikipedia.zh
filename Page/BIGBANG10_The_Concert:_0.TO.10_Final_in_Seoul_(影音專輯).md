@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG10 The Concert: 0.TO.10 Final in Seoul \(影音專輯\)](https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_Final_in_Seoul_\(影音專輯\))转换而来。
+
+
 《**BIGBANG10 The Concert 0.TO.10 Final in Seoul**》\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2017年1月7日、8日於韓國[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")舉行為期兩天的「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」終場公演所推出的演唱會影音專輯，分別於2017年5月25日及6月15日發行實體影音專輯DVD版本與藍光版本，兩種版本均收錄「0.TO.10 Final in Seoul」的現場盛況，5月30日則在各大音源網站推出[數位音樂下載](../Page/數位音樂下載.md "wikilink")。兩天的終場演唱會共吸引6萬4千名歌迷進場觀賞，而追隨「0.TO.10」紀念巡迴演唱會的歌迷更超過130萬名。\[2\]\[3\]
 
 ## 背景
@@ -80,16 +83,10 @@
 [Category:BIGBANG演唱會影音專輯](https://zh.wikipedia.org/wiki/Category:BIGBANG演唱會影音專輯 "wikilink") [Category:影音專輯](https://zh.wikipedia.org/wiki/Category:影音專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
-
 8.

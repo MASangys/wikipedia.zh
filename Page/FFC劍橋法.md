@@ -1,3 +1,6 @@
+> 本文内容由[FFC劍橋法](https://zh.wikipedia.org/wiki/FFC劍橋法)转换而来。
+
+
 **FFC劍橋法**（）是一種將固體金屬，尤其是[氧化物](../Page/氧化物.md "wikilink")，置於陰極，在熔融鹽中還原成較純金屬或者[合金](../Page/合金.md "wikilink")的[電化學方法](https://zh.wikipedia.org/wiki/電化學 "wikilink")。FFC劍橋法被視為一種具有潛力的精煉方式，未來可能可以取代某些現有的金屬生產方式，例如長期用於精煉[鈦的](https://zh.wikipedia.org/wiki/鈦 "wikilink")[克羅爾法](../Page/克羅爾法.md "wikilink")。
 
 ## 歷史

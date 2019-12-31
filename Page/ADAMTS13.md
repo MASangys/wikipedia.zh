@@ -1,3 +1,6 @@
+> 本文内容由[ADAMTS13](https://zh.wikipedia.org/wiki/ADAMTS13)转换而来。
+
+
 **ADAMTS13**（***a** **d**isintegrin **a**nd **m**etalloproteinase with a **t**hrombo**s**pondin type 1 motif, member **13***），又稱**溫韋伯氏因子裂解酶**（von Willebrand factor-cleaving protease，VWFCP）是一種含[锌](../Page/锌.md "wikilink")的[金屬蛋白酶](https://zh.wikipedia.org/wiki/金屬蛋白酶 "wikilink")。ADAMTS13可以裂解一種稱為（vWf）的大型[凝血因子](https://zh.wikipedia.org/wiki/凝血因子 "wikilink")。本酵素存在於[血液](../Page/血液.md "wikilink")之中，降解vWf多聚體，以降低它們的活性\[1\]。
 
 ## 遺傳學

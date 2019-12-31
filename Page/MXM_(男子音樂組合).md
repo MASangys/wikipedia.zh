@@ -1,3 +1,6 @@
+> 本文内容由[MXM \(男子音樂組合\)](https://zh.wikipedia.org/wiki/MXM_\(男子音樂組合\))转换而来。
+
+
 **MXM**為韓國[Brand New Music在](../Page/Brand_New_Music.md "wikilink")2017年推出的男子團體，也是該社作為傳統HipHop公司所推出的第一個男子偶像團體。成員包括[PRODUCE 101 (第二季)人氣練習生](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")[林煐岷](../Page/林煐岷.md "wikilink")（第15名）和[金東賢](../Page/金東賢.md "wikilink")（第28名）。2017年7月27日發行先行單曲《GOOD DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 
 ## 隊名由來
@@ -652,6 +655,8 @@
   - [BNM BOYS](http://channels.vlive.tv/DC6459/video) 的V LIVE頻道
 
   - [BNM BOYS](https://www.youtube.com/channel/UCv1JYvsu-__rGWRE2ueYTcw/featured)的YouTube頻道
+
+  - [BNM BOYS](https://music.163.com/#/user/home?id=396221870)的網易雲音樂主頁
 
 [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink") [Category:PRODUCE_101](https://zh.wikipedia.org/wiki/Category:PRODUCE_101 "wikilink")
 

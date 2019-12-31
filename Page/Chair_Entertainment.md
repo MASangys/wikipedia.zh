@@ -1,4 +1,4 @@
-> 本文内容由[Chair Entertainment](https://zh.wikipedia.org/wiki/Chair Entertainment)转换而来。
+> 本文内容由[Chair Entertainment](https://zh.wikipedia.org/wiki/Chair_Entertainment)转换而来。
 
 
 **Chair Entertainment**，是一家总部位于美国犹他州盐湖城的游戏开发商。

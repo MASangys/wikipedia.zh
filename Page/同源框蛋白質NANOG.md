@@ -1,3 +1,6 @@
+> 本文内容由[同源框蛋白質NANOG](https://zh.wikipedia.org/wiki/同源框蛋白質NANOG)转换而来。
+
+
 **NANOG**（讀法：nanOg）是一种对未[分化的](../Page/细胞分化.md "wikilink")[胚胎干细胞](https://zh.wikipedia.org/wiki/胚胎干细胞 "wikilink")（ESC）自我更新至关重要的[转录因子](../Page/转录因子.md "wikilink")。人体的NANOG蛋白质由*NANOG*基因编码\[1\]\[2\]。
 
 ## 结构

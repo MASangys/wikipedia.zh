@@ -1,4 +1,4 @@
-> 本文内容由[姐姐們的Slam Dunk](https://zh.wikipedia.org/wiki/姐姐們的Slam Dunk)转换而来。
+> 本文内容由[姐姐們的Slam Dunk](https://zh.wikipedia.org/wiki/姐姐們的Slam_Dunk)转换而来。
 
 
 《**姐姐們的Slam Dunk**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS的綜藝節目](https://zh.wikipedia.org/wiki/KBS "wikilink")，於2016年4月8日啟播。這是KBS時隔8年後推出纯女性的綜藝节目，節目中成員們將使用2,196,000韓元的夢想經費來挑戰自己過去未能實現的夢想。

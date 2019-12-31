@@ -1,3 +1,6 @@
+> 本文内容由[M.E.N](https://zh.wikipedia.org/wiki/M.E.N)转换而来。
+
+
 {{ 藝人 |姓名=M.E.N |類型=組合 |圖片= |圖片尺寸=
 
 |國籍= |語言=[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")、[華語](https://zh.wikipedia.org/wiki/華語 "wikilink") |音樂類型=[J-pop](https://zh.wikipedia.org/wiki/J-pop "wikilink") |出道地點=[日本](../Page/日本.md "wikilink") |成員 = Tae Hwa[陳泰華](https://zh.wikipedia.org/wiki/陳泰華 "wikilink")、[JungJin](https://zh.wikipedia.org/wiki/JungJin "wikilink")、[尹采成](../Page/尹采成.md "wikilink")、[Ji Hwan](https://zh.wikipedia.org/wiki/Ji_Hwan "wikilink")、[任英弼](https://zh.wikipedia.org/wiki/任英弼 "wikilink") | }} **M.E.N**（）），是完全由韓國人所組成的日本流行團體。於2012年推出首張單曲**Especially**。該組合由Tae Hwa(韓國BATTLE前成員)、Ji Hwan、JungJin(已解散之韓團A'ST1的隊長)及演員[任英弼及模特兒](https://zh.wikipedia.org/wiki/任英弼 "wikilink")[尹采成](../Page/尹采成.md "wikilink")所組成。

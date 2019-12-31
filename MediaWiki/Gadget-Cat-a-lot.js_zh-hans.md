@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-Cat-a-lot.js/zh-hans](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-Cat-a-lot.js/zh-hans)转换而来。
+
+
 //
 
 ``` javascript

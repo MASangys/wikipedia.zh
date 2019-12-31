@@ -1,4 +1,4 @@
-> 本文内容由[WWE \& Company](https://zh.wikipedia.org/wiki/WWE \& Company)转换而来。
+> 本文内容由[WWE \& Company](https://zh.wikipedia.org/wiki/WWE_\&_Company)转换而来。
 
 
 WWE & Company（“WWE”）是由[九龙仓集团有限公司](https://zh.wikipedia.org/wiki/九龙仓 "wikilink")（香港联合证券交易所代号： 0004），[连卡佛](../Page/连卡佛.md "wikilink")载思集团（旗下拥有连卡佛专卖店）的华镫集团（“[华镫](https://www.waltonbrown.com/tc/)”）及嘉宏电商控股有限公司 （[eCargo](http://www.ecargo.com/) Enterprise Limited） （澳洲证券交易所代号：ECG）（“嘉宏”）共同成立的合资企业，其初始资金为3亿元人民币。该公司于2015年8月20日在香港成立，由华镫总裁郑伟雄及嘉宏首席执行官和创办人[刘堃](https://en.wikipedia.org/wiki/Christopher_Lau_Kwan)出任联席行政总裁\[1\]

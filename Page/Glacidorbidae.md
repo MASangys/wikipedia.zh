@@ -1,3 +1,6 @@
+> 本文内容由[Glacidorbidae](https://zh.wikipedia.org/wiki/Glacidorbidae)转换而来。
+
+
 **Glacidorbidae**科是[腹足綱](https://zh.wikipedia.org/wiki/腹足綱 "wikilink")[軟體動物的一個](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")[淡水螺](https://zh.wikipedia.org/wiki/淡水螺 "wikilink")[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")，屬於[異鰓類](../Page/異鰓類.md "wikilink")支序的[泛有肺類](../Page/泛有肺類.md "wikilink")支序\[1\]。
 
 ## 分類

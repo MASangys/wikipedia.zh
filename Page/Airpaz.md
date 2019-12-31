@@ -1,3 +1,6 @@
+> 本文内容由[Airpaz](https://zh.wikipedia.org/wiki/Airpaz)转换而来。
+
+
 **Airpaz**是一家总部设立在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加达](../Page/雅加达.md "wikilink")的旅游网站，2011年创办。主要业务为帮助客户预定机票。\[1\]。服务对象包括东南亚、大洋洲、以及美洲。
 
 ## 合作伙伴

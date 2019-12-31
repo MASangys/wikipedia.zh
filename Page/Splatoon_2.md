@@ -1,3 +1,6 @@
+> 本文内容由[Splatoon 2](https://zh.wikipedia.org/wiki/Splatoon_2)转换而来。
+
+
 是[任天堂](../Page/任天堂.md "wikilink")开发并发行在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上的[第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")。本作于2017年7月21日在全球发行。其前作为[Wii U平台的](../Page/Wii_U.md "wikilink")《[Splatoon](../Page/Splatoon.md "wikilink")》。
 
 ## 概要

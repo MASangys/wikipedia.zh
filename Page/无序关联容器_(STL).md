@@ -1,4 +1,4 @@
-> 本文内容由[无序关联容器 \(STL\)](https://zh.wikipedia.org/wiki/无序关联容器 \(STL\))转换而来。
+> 本文内容由[无序关联容器 \(STL\)](https://zh.wikipedia.org/wiki/无序关联容器_\(STL\))转换而来。
 
 
 [C++程序设计语言中](https://zh.wikipedia.org/wiki/C++程序设计语言 "wikilink")，**`unordered_map`**、**`unordered_multimap`**、**`unordered_set`**、**`unordered_multiset`**是[标准模板库](../Page/标准模板库.md "wikilink")（STL）提供的一类**无序关联容器**（unordered associative containers）。是通过[哈希表](../Page/哈希表.md "wikilink")实现的[数据结构](../Page/数据结构.md "wikilink")。无序是指元素的名字（或者键值）的存储是无序的；这与用[平衡二叉树实现的元素名字是有序存储的](https://zh.wikipedia.org/wiki/平衡二叉树 "wikilink")“[关联容器](../Page/关联数组.md "wikilink")”是相对概念。

@@ -1,4 +1,4 @@
-> 本文内容由[From Japan](https://zh.wikipedia.org/wiki/From Japan)转换而来。
+> 本文内容由[From Japan](https://zh.wikipedia.org/wiki/From_Japan)转换而来。
 
 
 **株式會社FROM JAPAN**（、）是一家日本企業，為居住在日本以外的人士提供跨國[電子商業服務](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，主要提供日本國內各大[拍賣和](https://zh.wikipedia.org/wiki/拍賣網站 "wikilink")[購物網站的代購](https://zh.wikipedia.org/wiki/購物網站 "wikilink")、代標及商品運送服務。

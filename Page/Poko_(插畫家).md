@@ -1,3 +1,6 @@
+> 本文内容由[Poko \(插畫家\)](https://zh.wikipedia.org/wiki/Poko_\(插畫家\))转换而来。
+
+
 **Poko**（），[日本](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。代表作有曾經播出同名電視動畫的《[死後文](https://zh.wikipedia.org/wiki/死後文 "wikilink")》（著：[雨宮諒](../Page/雨宮諒.md "wikilink")）、《[三坪房間的侵略者\!?](../Page/三坪房間的侵略者！？.md "wikilink")》（著：[健速](https://zh.wikipedia.org/wiki/健速 "wikilink")）。
 
 ## 人物簡介

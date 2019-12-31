@@ -1,3 +1,6 @@
+> 本文内容由[北京CBD万达广场](https://zh.wikipedia.org/wiki/北京CBD万达广场)转换而来。
+
+
 [BeijingWandaPlazabyDennisDeng.jpg](https://zh.wikipedia.org/wiki/File:BeijingWandaPlazabyDennisDeng.jpg "fig:BeijingWandaPlazabyDennisDeng.jpg") **北京CBD万达广场**，位于[北京市](../Page/北京市.md "wikilink")[朝阳区](../Page/朝阳区_\(北京市\).md "wikilink")[建国路](../Page/建国路_\(北京\).md "wikilink")93号，是北京的[万达广场之一](https://zh.wikipedia.org/wiki/万达广场 "wikilink")，也是[万达集团](../Page/万达集团.md "wikilink")总部所在地。
 
 ## 简介
@@ -23,24 +26,16 @@ Beijing CBD 2016 November.jpg| Beijing CBD 2016 November (retouched).jpg| 万达
 [Category:万达广场](https://zh.wikipedia.org/wiki/Category:万达广场 "wikilink") [Category:北京市酒店](https://zh.wikipedia.org/wiki/Category:北京市酒店 "wikilink") [Category:北京市寫字樓](https://zh.wikipedia.org/wiki/Category:北京市寫字樓 "wikilink") [Category:北京市商场](https://zh.wikipedia.org/wiki/Category:北京市商场 "wikilink") [Category:北京市电影院](https://zh.wikipedia.org/wiki/Category:北京市电影院 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.

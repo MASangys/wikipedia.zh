@@ -1,3 +1,6 @@
+> 本文内容由[Story Op.2](https://zh.wikipedia.org/wiki/Story_Op.2)转换而来。
+
+
 《**Story Op.2**》是韓國男子組合[SHINee](../Page/SHINee.md "wikilink")主唱[金鐘鉉於](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")2017年4月24日發行的第二張原創小品輯\[1\]。小品集共收錄10首歌曲（線上版收錄9首歌曲，實體版共10首歌曲），包括鐘鉉作為前DJ主持MBC FM4U廣播《藍色夜晚》在企劃環節「藍色深夜作詞，那個男人作曲」中受到好評的自創歌曲，以及在Mnet Live Connection已公開的〈Elevator〉經重新編曲後收錄在小品集中\[2\]。主打曲〈Lonely〉由獨步性聲樂家[泰妍傾情參與](https://zh.wikipedia.org/wiki/泰妍 "wikilink")，音樂錄影帶已在專輯發行當日公布。
 
 ## 曲目

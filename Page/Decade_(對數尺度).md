@@ -1,4 +1,4 @@
-> 本文内容由[Decade \(對數尺度\)](https://zh.wikipedia.org/wiki/Decade \(對數尺度\))转换而来。
+> 本文内容由[Decade \(對數尺度\)](https://zh.wikipedia.org/wiki/Decade_\(對數尺度\))转换而来。
 
 
 [Three_decades.png](https://zh.wikipedia.org/wiki/File:Three_decades.png "fig:Three_decades.png") [Three_decades_x10.png](https://zh.wikipedia.org/wiki/File:Three_decades_x10.png "fig:Three_decades_x10.png")

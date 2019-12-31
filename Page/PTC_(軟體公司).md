@@ -1,3 +1,6 @@
+> 本文内容由[PTC \(軟體公司\)](https://zh.wikipedia.org/wiki/PTC_\(軟體公司\))转换而来。
+
+
 **PTC**是一家[電腦軟體及服務公司](../Page/软件.md "wikilink")，創立於1985年，總部設立於美國麻州[波士頓市郊](https://zh.wikipedia.org/wiki/Boston "wikilink")，於1988年率先開發參數固態[電腦輔助設計模型軟體(CAD)](https://zh.wikipedia.org/wiki/:计算机辅助设计 "wikilink")，並在1998年推出有關[產品生命週期管理(PLM)的Internet](https://zh.wikipedia.org/wiki/:产品生命周期 "wikilink")-based產品。PTC ([NASDAQ](https://zh.wikipedia.org/wiki/NASDAQ "wikilink"): PTC)為合作夥伴及開發人員打造產品、服務及[物聯網(IoT)與](https://zh.wikipedia.org/wiki/:物联网 "wikilink")[擴增實境(AR)平台](https://zh.wikipedia.org/wiki/:擴增實境 "wikilink")。
 
 ## 產品

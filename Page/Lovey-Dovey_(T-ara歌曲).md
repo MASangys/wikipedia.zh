@@ -1,3 +1,6 @@
+> 本文内容由[Lovey-Dovey \(T-ara歌曲\)](https://zh.wikipedia.org/wiki/Lovey-Dovey_\(T-ara歌曲\))转换而来。
+
+
 **《Lovey-Dovey》**（）為南韓[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的一首單曲](https://zh.wikipedia.org/wiki/T-ara "wikilink")，也是她們的第五張迷你專輯《》之主打單曲。此單曲在2012年1月3日發行。
 
 《Lovey-Dovey》是一首富含電子流行音樂風格的單曲，在音樂的元素當中也結合了打碟與處牛鈴，此類的音樂風格在歐美地區的音樂俱樂部與地下舞廳非常備受喜愛\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-fixlinkstyle.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-fixlinkstyle.js)转换而来。
+
+
 /\*\*
 
 `* 維基百科``修復工具 ver: 0.5`

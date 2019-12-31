@@ -1,4 +1,4 @@
-> 本文内容由[Sing For You](https://zh.wikipedia.org/wiki/Sing For You)转换而来。
+> 本文内容由[Sing For You](https://zh.wikipedia.org/wiki/Sing_For_You)转换而来。
 
 
 《**Sing For You**》是南韓偶像團體[EXO](../Page/EXO.md "wikilink")第二張冬日特別專輯。距離第一張冬日特別專輯《[Miracles in December](https://zh.wikipedia.org/wiki/EXO音乐作品列表 "wikilink")》長達約2年之久，歌曲以中韩两种语言录制发行，新歌在V app EXO频道最初公开。\[1\]而專輯部分收錄會捐給 S.M. Entertainment 與聯合國兒童基金會 UNICEF 合作推動的「SMile fou U」慈善活動，幫助亞洲孩童接受音樂教育。\[2\]此專輯以雙主打歌的形式活動，兩首歌曲分別為《Sing For You》、《Unfair (불공평해)》。\[3\]

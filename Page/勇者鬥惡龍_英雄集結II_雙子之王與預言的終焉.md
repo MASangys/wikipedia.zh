@@ -1,4 +1,4 @@
-> 本文内容由[勇者鬥惡龍 英雄集結II 雙子之王與預言的終焉](https://zh.wikipedia.org/wiki/勇者鬥惡龍 英雄集結II 雙子之王與預言的終焉)转换而来。
+> 本文内容由[勇者鬥惡龍 英雄集結II 雙子之王與預言的終焉](https://zh.wikipedia.org/wiki/勇者鬥惡龍_英雄集結II_雙子之王與預言的終焉)转换而来。
 
 
 ，是由[光荣特库摩](../Page/光荣特库摩.md "wikilink")旗下ω-Force制作部开发，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发行的[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏于2016年5月在日本推出，对应[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita平台](../Page/PlayStation_Vita.md "wikilink")；正体中文版于2016年8月发行，对应PlayStation 4和PlayStation Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上发售。

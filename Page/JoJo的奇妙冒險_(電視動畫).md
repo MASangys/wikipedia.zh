@@ -1,4 +1,4 @@
-> 本文内容由[JoJo的奇妙冒險 \(電視動畫\)](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 \(電視動畫\))转换而来。
+> 本文内容由[JoJo的奇妙冒險 \(電視動畫\)](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險_\(電視動畫\))转换而来。
 
 
 <table>

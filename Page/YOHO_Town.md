@@ -1,3 +1,6 @@
+> 本文内容由[YOHO Town](https://zh.wikipedia.org/wiki/YOHO_Town)转换而来。
+
+
 **YOHO Town**（新時代廣場）位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[元朗區](../Page/元朗區.md "wikilink")元龍街8號，鄰近元朗港鐵站及形點YOHO MALL商場。是[新鴻基地產](../Page/新鴻基地產.md "wikilink")的大型綜合城市計劃 \[[YOHO series](../Page/YOHO系列.md "wikilink")\] 的第一期住宅項目。以“WANNA BE PART OF IT” 為屋苑宣傳口號。項目在2003年7月首次開售，2004年9月入伙。管理公司為[新鴻基地產集團旗下的](https://zh.wikipedia.org/wiki/新鴻基地產集團 "wikilink")[啟勝管理服務有限公司](https://zh.wikipedia.org/wiki/啟勝管理服務有限公司 "wikilink")。
 
 ## 住客會所

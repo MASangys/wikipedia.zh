@@ -1,3 +1,6 @@
+> 本文内容由[VIERA](https://zh.wikipedia.org/wiki/VIERA)转换而来。
+
+
 **VIERA**，是[日本](../Page/日本.md "wikilink")[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")（舊稱松下電器）的平板液晶、電漿、[OLED等電視品牌](https://zh.wikipedia.org/wiki/OLED "wikilink")。
 
 ## 概要
@@ -260,7 +263,7 @@ Panasonic VIERA電漿電視全球銷售第一，一直以來都是龍頭老大�
 
 ## 型號命名方式
 
-2009年至2013年期間[機種](https://zh.wikipedia.org/wiki/機種 "wikilink")，以數字代表每一代（不同[年代款式演進](https://zh.wikipedia.org/wiki/年代 "wikilink")），以英文代號命名，其中型號若有「T」的為3D款式，其中英文「P」開頭的為plasma電漿機種，「L」開頭的為LCD/LED液晶機種。
+2009年至2013年期間[機種](https://zh.wikipedia.org/wiki/機種 "wikilink")，以數字代表每一代（不同[年代](../Page/年代.md "wikilink")款式演進），以英文代號命名，其中型號若有「T」的為3D款式，其中英文「P」開頭的為plasma電漿機種，「L」開頭的為LCD/LED液晶機種。
 
 2014年後，改以A、C、D、E的順序代表每一代，以數字代表等級（數字越大通常為越高階款式），其中英文有「S」的為smart智慧聯網機種，英文有「X」的為4K機種。
 

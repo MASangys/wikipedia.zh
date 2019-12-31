@@ -1,4 +1,4 @@
-> 本文内容由[Scared Rider Xechs](https://zh.wikipedia.org/wiki/Scared Rider Xechs)转换而来。
+> 本文内容由[Scared Rider Xechs](https://zh.wikipedia.org/wiki/Scared_Rider_Xechs)转换而来。
 
 
 《**Scared Rider Xechs**》是[Red Entertainment在](../Page/Red_Entertainment.md "wikilink")2010年7月1日發售的[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。遊戲分為日常部分與戰鬥部分，以遭到由本能支配的“紅之世界”的生命體侵略的象徵著理性的“青之世界”為舞台，講述在青之世界擔任戰鬥指揮官的主人公與夥伴們的故事。\[1\]

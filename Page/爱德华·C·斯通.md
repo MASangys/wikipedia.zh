@@ -1,3 +1,6 @@
+> 本文内容由[爱德华·C·斯通](https://zh.wikipedia.org/wiki/爱德华·C·斯通)转换而来。
+
+
 **爱德华·卡罗尔·斯通** （, ）\[1\]，美国航天科学家，[加利福尼亚理工学院物理学教授](https://zh.wikipedia.org/wiki/加利福尼亚理工学院 "wikilink")，前[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")[喷气推进实验室](../Page/喷气推进实验室.md "wikilink")(JPL)主任。\[2\]\[3\]他是“[旅行者计划](https://zh.wikipedia.org/wiki/旅行者计划 "wikilink")”迄今为止唯一的项目首席科学家，是“[旅行者1号](../Page/旅行者1号.md "wikilink")”最权威的发言人。\[4\]
 
 ## 生平

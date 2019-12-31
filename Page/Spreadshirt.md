@@ -1,3 +1,6 @@
+> 本文内容由[Spreadshirt](https://zh.wikipedia.org/wiki/Spreadshirt)转换而来。
+
+
 **Spreadshirt**是一家德国在线零售公司，在全世界18个地区市场都有业务。客户可以在其网站上自己创作、售卖和选购T恤、运动衫等服饰\[1\]。
 
 ## Spreadshirt 辱华事件

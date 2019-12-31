@@ -1,6 +1,9 @@
+> 本文内容由[Collabora](https://zh.wikipedia.org/wiki/Collabora)转换而来。
+
+
 **Collabora**是一間由Robert McQueen、Philippe Kalaf與Robert Taylor於[英國劍橋成立的全球化](../Page/劍橋.md "wikilink")[私人公司](../Page/私人公司.md "wikilink")，其在[劍橋](../Page/劍橋.md "wikilink")與[蒙特利尔](../Page/蒙特利尔.md "wikilink")設有辦公室。其提供了諮詢、訓練與產品給其他公司。
 
-Collabora最初著重於[即時通訊](../Page/即時通訊.md "wikilink")、[網際協議通話技術與視訊會議科技](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")，但它也很快地拓展其產品到一般的多媒體、行動網路科技、協作基礎設施、汽車資訊娛樂平臺、圖形最佳化、多媒體互操作性與生產力軟體。它是[LibreOffice的主要開發者之一](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")\[1\]\[2\]\[3\]。
+Collabora最初著重於[即時通訊](../Page/即時通訊.md "wikilink")、[網際協議通話技術與視訊會議科技](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")，但它也很快地拓展其產品到一般的多媒體、行動網路科技、協作基礎設施、汽車資訊娛樂平臺、圖形最佳化、多媒體互操作性與生產力軟體。其 Collabora Productivity 部門，是[LibreOffice的主要開發者之一](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")\[1\]\[2\]\[3\]。
 
 2015年時，英國政府的皇冠商業服務（）宣佈在所有非營利政府組織導入Collabora GovOffice與Collabora CloudSuite\[4\]。
 
@@ -31,6 +34,9 @@ Collabora最初著重於[即時通訊](../Page/即時通訊.md "wikilink")、[�
   - Farstream與[Telepathy](../Page/Telepathy.md "wikilink")：一個由Collabora創立者所打造的VoIP與協作框架。包含了Empathy聊天客戶端。
   - [Pitivi與GES](https://zh.wikipedia.org/wiki/Pitivi "wikilink")：[自由软件](../Page/自由软件.md "wikilink")桌面的影片編輯器。在2008年至2009年間，Collabora的多媒體事務部努力改善Pitivi\[15\]。GES函式庫最初由Collabora於2011年建立，提供在[MeeGo](../Page/MeeGo.md "wikilink")平臺上編輯影片的能力\[16\]。
   - Maynard，一個Weston殼層
+  - [vkmark](https://github.com/vkmark/vkmark), 一個可延伸的 Vulkan 效能測試工具\[17\]
+  - [Zink](https://gitlab.freedesktop.org/kusma/mesa/tree/zink), 一個在 [Vulkan](../Page/Vulkan_\(API\).md "wikilink") 之上，透過 [Mesa Gallium](https://zh.wikipedia.org/wiki/Mesa_\(computer_graphics\)#Gallium3D "wikilink") 的 [OpenGL](../Page/OpenGL.md "wikilink") 實作\[18\]
+  - [Monado](https://monado.dev/), 一個 GNU/Linux 上運作的自由與開放原始碼的延展實境(XR) ([VR](https://zh.wikipedia.org/wiki/Virtual_reality "wikilink")/[AR](https://zh.wikipedia.org/wiki/Augmented_reality "wikilink")/[MR](https://zh.wikipedia.org/wiki/Mixed_reality "wikilink")) 平台 [OpenXR Runtime](../Page/OpenXR.md "wikilink")，支援 Sony PlayStation VR 硬體驅動。 \[19\]
 
 ## 參考資料
 
@@ -55,3 +61,6 @@ Collabora最初著重於[即時通訊](../Page/即時通訊.md "wikilink")、[�
 14.
 15.
 16.
+17.
+18.  Open Source Consulting|language=en|access-date=2019-08-04}}
+19.  Open Source Consulting|language=en|access-date=2019-08-04}}

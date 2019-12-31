@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A5 \(2016\)](https://zh.wikipedia.org/wiki/三星Galaxy_A5_\(2016\))转换而来。
+
+
 **三星 Galaxy A5 (2016)** 是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]\[2\]，於2015年12月2日推出，同時推出的還有[三星Galaxy A3 (2016)](../Page/三星Galaxy_A3_\(2016\).md "wikilink")，[三星Galaxy A7 (2016)和](../Page/三星Galaxy_A7_\(2016\).md "wikilink")[三星Galaxy A9 (2016)](../Page/三星Galaxy_A9.md "wikilink")。
 
 這台智慧型手機搭載了Exynos 7580 SoC，由8個[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") Cortex-A53 核心、Mali-T720MP2 GPU、2 GB的[記憶體和](https://zh.wikipedia.org/wiki/記憶體 "wikilink")16 GB內建儲存空間組成，最大可以擴充到128 GB的[MicroSD](../Page/MicroSD.md "wikilink")記憶卡，支援雙卡雙待，[電池為不可拆卸式](https://zh.wikipedia.org/wiki/電池 "wikilink")2900mAh，支援快充。 另外，中國版SM-A5100為搭載[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")615的手機版本\[3\]。

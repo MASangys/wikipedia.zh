@@ -1,4 +1,4 @@
-> 本文内容由[Sony Xperia Z3+](https://zh.wikipedia.org/wiki/Sony Xperia Z3+)转换而来。
+> 本文内容由[Sony Xperia Z3+](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3+)转换而来。
 
 
 **Sony Xperia Z3+**(日版名為Sony Xperia Z4)，是[索尼](../Page/索尼.md "wikilink")於2015年4月20日在日本發表的旗艦手機，搭載5.2吋螢幕、[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 810 MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,070萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能。

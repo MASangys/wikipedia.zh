@@ -1,4 +1,4 @@
-> 本文内容由[Mother Game～她們的階級～](https://zh.wikipedia.org/wiki/Mother Game～她們的階級～)转换而来。
+> 本文内容由[Mother Game～她們的階級～](https://zh.wikipedia.org/wiki/Mother_Game～她們的階級～)转换而来。
 
 
 《**Mother Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），2015年4月14日至6月16日於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")[週二劇場時段](../Page/TBS週二連續劇.md "wikilink")（毎週二晚間10:00－10:54）播出的連續劇\[1\]\[2\]，此劇亦為[木村文乃](../Page/木村文乃.md "wikilink")首部擔任主演的戲劇作品。

@@ -1,3 +1,6 @@
+> 本文内容由[初戀無限Touch](https://zh.wikipedia.org/wiki/初戀無限Touch)转换而来。
+
+
 是由[马伟豪导演执导](https://zh.wikipedia.org/wiki/马伟豪 "wikilink")，[陈晓东](https://zh.wikipedia.org/wiki/陈晓东 "wikilink")、[梁咏琪](https://zh.wikipedia.org/wiki/梁咏琪 "wikilink")、[许冠英](https://zh.wikipedia.org/wiki/许冠英 "wikilink")、[黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")、[冯德伦等主演的一部浪漫爱情喜剧](https://zh.wikipedia.org/wiki/冯德伦 "wikilink")。该片于1997年3月23日在香港上映。
 
 ## 劇情簡介

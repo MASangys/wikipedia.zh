@@ -1,3 +1,6 @@
+> 本文内容由[THE LEGEND](https://zh.wikipedia.org/wiki/THE_LEGEND)转换而来。
+
+
 **THE LEGEND**（；即漢字**傳說**），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人男子組合\[1\]，於2014年7月9日發行單曲《The Legend》以主打歌《美·男（因為還有所迷戀）》（）出道\[2\]。
 
 2015年7月，由於JK SPACE娛樂與GYM娛樂合併，故團體轉至合併後的新公司SS娛樂\[3\]。到2016年7月，THE LEGEND以公司未履行業務為由，向SS娛樂要求解約\[4\]\[5\]。

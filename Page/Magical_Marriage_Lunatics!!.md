@@ -1,3 +1,6 @@
+> 本文内容由[Magical Marriage Lunatics!!](https://zh.wikipedia.org/wiki/Magical_Marriage_Lunatics!!)转换而来。
+
+
 是日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")公司於2013年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，電腦CLUB於2014年7月31日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")\[2\]，萌えAPP於2014年分別發售[Android](../Page/Android.md "wikilink")版和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[3\]
 
 ## 故事

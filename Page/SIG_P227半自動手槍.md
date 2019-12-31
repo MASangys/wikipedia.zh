@@ -1,4 +1,4 @@
-> 本文内容由[SIG P227半自動手槍](https://zh.wikipedia.org/wiki/SIG P227半自動手槍)转换而来。
+> 本文内容由[SIG P227半自動手槍](https://zh.wikipedia.org/wiki/SIG_P227半自動手槍)转换而来。
 
 
 [Sig_Sauer_P227_RS_with_Mag.jpg](https://zh.wikipedia.org/wiki/File:Sig_Sauer_P227_RS_with_Mag.jpg "fig:Sig_Sauer_P227_RS_with_Mag.jpg")。\]\]

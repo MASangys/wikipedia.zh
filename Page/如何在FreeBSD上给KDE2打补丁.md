@@ -1,3 +1,6 @@
+> 本文内容由[如何在FreeBSD上给KDE2打补丁](https://zh.wikipedia.org/wiki/如何在FreeBSD上给KDE2打补丁)转换而来。
+
+
 “**如何在FreeBSD上给KDE2打补丁**”（）是一个俄罗斯的[网络模因](https://zh.wikipedia.org/wiki/网络模因 "wikilink")。其起源于2004年5月8日，一个名为的俄罗斯[IRC](../Page/IRC.md "wikilink")的`#anime`（[日本动画](../Page/日本动画.md "wikilink")）聊天室中的提问\[1\]，大致可以翻译为：
 
   -

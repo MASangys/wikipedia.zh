@@ -1,3 +1,6 @@
+> 本文内容由[RELAXIN\' 詩情話逸](https://zh.wikipedia.org/wiki/RELAXIN\'_詩情話逸)转换而来。
+
+
 《**RELAXIN' 詩情話逸**》是[日本](../Page/日本.md "wikilink")歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的企劃專輯，於2015年3月4日發行。
 
 ## 概要

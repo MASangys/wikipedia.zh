@@ -1,3 +1,6 @@
+> 本文内容由[毛里求斯LGBT权益](https://zh.wikipedia.org/wiki/毛里求斯LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**毛里求斯**的权利在共和国法律上是复杂和模糊的。[性悖軌被国家的法律禁止](../Page/性悖軌法.md "wikilink")，但他们对[同性恋和](https://zh.wikipedia.org/wiki/同性恋 "wikilink")[性别认同的话题保持沉默](https://zh.wikipedia.org/wiki/性别认同 "wikilink")。该国是支持[联合国性取向和性别认同宣言的](../Page/聯合國性傾向與性別認同議題.md "wikilink")66个签署国之一。虽然同性伴侣关系不被承认，但LGBT群体得到保护，不受任何形式的歧视，宪法保障个人享有私人生活的权利。\[1\]
 
 ## 关于同性性行为的法律
@@ -63,22 +66,14 @@ Moments.mu成立于2014年，是毛里求斯第一家为LGBT社群服务的旅�
 [Category:非洲LGBT權益](https://zh.wikipedia.org/wiki/Category:非洲LGBT權益 "wikilink") [Category:模里西斯政治](https://zh.wikipedia.org/wiki/Category:模里西斯政治 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
 11.
-
 12.

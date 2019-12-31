@@ -1,3 +1,6 @@
+> 本文内容由[螢火蟲 \(DC漫畫\)](https://zh.wikipedia.org/wiki/螢火蟲_\(DC漫畫\))转换而来。
+
+
 **螢火蟲**（）是一名登場於[DC漫畫](../Page/DC漫畫.md "wikilink")出版的漫畫書中的虛構[超級反派](https://zh.wikipedia.org/wiki/超級反派 "wikilink")，是[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")的敵人之一。DC漫畫曾有兩個人使用過此名號，第一個是加菲爾德·林斯，首次登場於《[偵探漫畫](https://zh.wikipedia.org/wiki/偵探漫畫 "wikilink")》\#184（1952年6月）。該角色的創作者為[France Herron與](https://zh.wikipedia.org/wiki/France_Herron "wikilink")[Dick Sprang](https://zh.wikipedia.org/wiki/Dick_Sprang "wikilink")\[1\]。
 
 第二名是泰德·卡森，首次登場於《[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")》\#126（1959年），創作者為[比爾·芬格和](https://zh.wikipedia.org/wiki/比爾·芬格 "wikilink")[Sheldon Moldoff](https://zh.wikipedia.org/wiki/Sheldon_Moldoff "wikilink")。

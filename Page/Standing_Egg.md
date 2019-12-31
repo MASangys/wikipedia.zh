@@ -1,3 +1,6 @@
+> 本文内容由[Standing Egg](https://zh.wikipedia.org/wiki/Standing_Egg)转换而来。
+
+
 **Standing EGG**（），為2010年出道的韓國的獨立樂團，由Egg 1、Egg 2、Egg 3組成。2016年夏，單曲《여름밤에 우린（仲夏夜的我們）》橫掃韓國各大音源榜單\[1\]，逐漸打響大眾知名度。
 
 ## 現場表演成員

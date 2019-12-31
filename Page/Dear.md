@@ -1,3 +1,6 @@
+> 本文内容由[Dear](https://zh.wikipedia.org/wiki/Dear)转换而来。
+
+
 《**Dear**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")的首張特別專輯，於2016年12月15日發行。主打曲為《Cause you're my star (별의 별)》。
 
 ## 概要

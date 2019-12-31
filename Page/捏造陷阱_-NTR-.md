@@ -1,3 +1,6 @@
+> 本文内容由[捏造陷阱 -NTR-](https://zh.wikipedia.org/wiki/捏造陷阱_-NTR-)转换而来。
+
+
 ，通稱《**捏造陷阱**》，由日本女性漫畫家[コダマナオコ繪畫的](../Page/Kodamanaoko.md "wikilink")[百合漫畫](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")，2014年11月18日開始連載於[一迅社](../Page/一迅社.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》\[1\]。
 
 ## 概要

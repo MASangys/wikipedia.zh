@@ -1,3 +1,6 @@
+> 本文内容由[FIFA 17](https://zh.wikipedia.org/wiki/FIFA_17)转换而来。
+
+
 是一款以足球為題材的電子遊戲。由[艺电](../Page/艺电.md "wikilink")開發，並為[FIFA系列](../Page/FIFA系列.md "wikilink")的第24部作品。遊戲於2016年9月28日於北美上市。並在2016年9月30日於全世界上市。遊戲平台為[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One](../Page/Xbox_One.md "wikilink")。遊戲除了新增更多球員外，還新增了類似[NBA 2K16中的MyCAREER模式的](https://zh.wikipedia.org/wiki/NBA_2K16 "wikilink")「The Journey\[1\]」模式。
 
 ## 開發

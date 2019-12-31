@@ -1,3 +1,6 @@
+> 本文内容由[WOT - 安全网上冲浪](https://zh.wikipedia.org/wiki/WOT_-_安全网上冲浪)转换而来。
+
+
 **WOT - 安全网上冲浪**（WOT Services）是一款适用于[Chrome与](https://zh.wikipedia.org/wiki/Chrome "wikilink")[Firefox](../Page/Firefox.md "wikilink")浏览器的隐私保护扩展，通过以交通灯的方式告知用户即将访问网站的安全性。2016年时，该扩展曾因涉嫌窃取、贩卖用户隐私数据而被下架。\[1\]
 
 ## 声誉等级

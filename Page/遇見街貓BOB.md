@@ -1,3 +1,6 @@
+> 本文内容由[遇見街貓BOB](https://zh.wikipedia.org/wiki/遇見街貓BOB)转换而来。
+
+
 《**遇見街貓BOB**》（）是一部2016年[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[喜劇片](https://zh.wikipedia.org/wiki/喜劇片 "wikilink")，由[羅傑·史波提斯伍德](../Page/羅傑·史波提斯伍德.md "wikilink")執導，改編自的。由[路克·索德威飾演詹姆士](https://zh.wikipedia.org/wiki/路克·索德威 "wikilink")·伯恩，鮑伯（）飾演牠自己。
 
 該片於2016年11月3日在倫敦首映，隔日在英國廣泛上映，而臺灣則於2016年12月16日上映。

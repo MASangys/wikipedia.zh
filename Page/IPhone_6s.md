@@ -1,4 +1,4 @@
-> 本文内容由[IPhone 6s](https://zh.wikipedia.org/wiki/IPhone 6s)转换而来。
+> 本文内容由[IPhone 6s](https://zh.wikipedia.org/wiki/IPhone_6s)转换而来。
 
 
 **iPhone 6s**和**iPhone 6s Plus**是由[苹果公司设计销售的智能手机](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。两款产品于2015年9月9日发布，外型除了後方的“s”註記之外與6基本一致，不過在內部具备相當程度改进过的硬件规格與相機及壓力感應触摸屏技术3D Touch，性能較以往的iPhone大幅提升，同時在機身工藝做出了強化改造，而配色方面也首次增加了玫瑰金選項。

@@ -1,3 +1,6 @@
+> 本文内容由[御江戶 -O·EDO-](https://zh.wikipedia.org/wiki/御江戶_-O·EDO-)转换而来。
+
+
 《**御江戶 -O·EDO-**》（）為[日本](../Page/日本.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的首張單曲。1990年5月21日由[Apollon](../Page/萬代.md "wikilink")（2000年解散）發行。
 
 ## 解說

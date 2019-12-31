@@ -1,4 +1,4 @@
-> 本文内容由[Sarachi Yomi](https://zh.wikipedia.org/wiki/Sarachi Yomi)转换而来。
+> 本文内容由[Sarachi Yomi](https://zh.wikipedia.org/wiki/Sarachi_Yomi)转换而来。
 
 
 **Sarachi Yomi**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[1\]。

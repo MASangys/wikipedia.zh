@@ -1,3 +1,6 @@
+> 本文内容由[MENA](https://zh.wikipedia.org/wiki/MENA)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:MENA.png "fig:缩略图")
 
 **MENA**是一个英语首字母略缩词，指[中东](../Page/中东.md "wikilink")以及[北非](https://zh.wikipedia.org/wiki/北非 "wikilink")（）。MENA涵盖了一个相当面积广阔的区域，从[摩洛哥一直至](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，包括所有的中东、[馬什里克以及](../Page/马什里克.md "wikilink")[馬格里布](../Page/馬格里布.md "wikilink")国家。MENA有时候亦会被视作“[大中东地区](../Page/大中东地区.md "wikilink")”的同义词。 该区域人口大概有三亿八千万人，占世界人口比例6%。

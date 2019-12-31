@@ -1,3 +1,6 @@
+> 本文内容由[NAT64](https://zh.wikipedia.org/wiki/NAT64)转换而来。
+
+
 **NAT64**是一种通过[网络地址转换](../Page/网络地址转换.md "wikilink")（NAT）形式促成[IPv6](../Page/IPv6.md "wikilink")与[IPv4](../Page/IPv4.md "wikilink")主机间通信的[IPv6转换机制](../Page/IPv6转换机制.md "wikilink")。NAT64网关需要至少一个IPv4地址和一个包含32位地址空间的IPv6网段来完成IPv4与IPv6协议间的翻译\[1\]。
 
 IPv6客户端将希望与之通信的IPv4地址嵌入在IPv6网络段的主机部分，构成一个嵌入在IPv6地址中的IPv4数据包，并发往生成的地址。NAT64网关则创建IPv6与IPv4地址间的映射，这可以为手动配置，也可以自动确定。\[2\]

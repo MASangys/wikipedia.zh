@@ -1,3 +1,6 @@
+> 本文内容由[4Gamers](https://zh.wikipedia.org/wiki/4Gamers)转换而来。
+
+
 **就肆電競**（）一家台灣[電競](https://zh.wikipedia.org/wiki/電子競技 "wikilink")[規劃](https://zh.wikipedia.org/wiki/規劃 "wikilink")、執行、[行銷和](https://zh.wikipedia.org/wiki/行銷 "wikilink")[轉播的整合公司](https://zh.wikipedia.org/wiki/轉播 "wikilink")，成立於2013年，以推廣電競運動及文化活動、辦理專業電子競技比賽、活絡電競社群為主要目標。\[1\]\[2\]\[3\]\[4\] 就肆電競旗下目前有專精電競解決方案的4Gamers、專責廣告代理的Redark entertainment（方舟數位娛樂）、專注社群與實況經紀的Elemental Totem（元素圖騰）等子品牌。
 
 除每月推出「4GAMERS」電競數位雜誌，就肆電競也多次與[英特爾](../Page/英特尔.md "wikilink")、[Nvidia](../Page/英伟达.md "wikilink")、[微星科技](../Page/微星科技.md "wikilink")、[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")、[羅技](../Page/羅技.md "wikilink")等遊戲原廠合作，推出[《戰車世界》](../Page/坦克世界.md "wikilink")、[《星海爭霸II》](../Page/星际争霸II：虚空之遗.md "wikilink")、[《爐石戰記》](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")、[《鬥陣特攻》以及](../Page/鬥陣特攻.md "wikilink")[《英雄聯盟》等電競賽事](../Page/英雄联盟.md "wikilink")。\[5\]\[6\]

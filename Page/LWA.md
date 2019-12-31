@@ -1,3 +1,6 @@
+> 本文内容由[LWA](https://zh.wikipedia.org/wiki/LWA)转换而来。
+
+
 **LTE-WLAN aggregation** (**LWA**) 為[3GPP](../Page/3GPP.md "wikilink")所制定的新規格. 在LWA運作下, 當一台有[LTE](../Page/長期演進技術.md "wikilink") 與 [Wi-Fi](../Page/Wi-Fi.md "wikilink") 能力的行動手持裝置可以在被網路端配置後, 同時使用LTE與Wi-Fi傳輸資料. 它提供的方法有別於另外一種技術,  可以被佈署而"不用"更換網路端硬體的基礎建設與行動裝置, 但LWA同時卻提供了與LAA相似的效能.
 
 對於一般使用者而言, LWA提供了[LTE](../Page/長期演進技術.md "wikilink") 與 [Wi-Fi](../Page/Wi-Fi.md "wikilink")的無縫(seamless)接合同時實質上的提高了效能. 對營運商而言, LWA只需佈署[Wi-Fi](../Page/Wi-Fi.md "wikilink")後, 即可增進系統效能並且減少網路營運與管理成本. LWA可以以所謂的"collocated manner"佈署, 這種情況eNB與[Wi-Fi](../Page/Wi-Fi.md "wikilink") AP或AC(原文應該是想表示AP Controller)是被整合在同一台實體終端上. 另外一種"non-collocated manner"佈署方式, eNB與[Wi-Fi](../Page/Wi-Fi.md "wikilink") AP或AC則是用標準的接口所連接(參考Xw reference point). 後者的佈署方案特別適合於需要支援大區域的Wi-Fi範圍, 而這些Wi-Fi服務是第三方所提供(例如是一間大學校園)而並非某個營運商.

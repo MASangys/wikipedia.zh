@@ -1,3 +1,6 @@
+> 本文内容由[Hanazono Room](https://zh.wikipedia.org/wiki/Hanazono_Room)转换而来。
+
+
 [Hanazono_Room_appearance.jpg](https://zh.wikipedia.org/wiki/File:Hanazono_Room_appearance.jpg "fig:Hanazono_Room_appearance.jpg")  **Hanazono Room**是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")、由P-Studio（）股份有限公司管理、營運的[片場](https://zh.wikipedia.org/wiki/片場系統 "wikilink")，其中的[游泳池](../Page/游泳池.md "wikilink")以「那個泳池」（／）聞名。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone 4 \(2014年\)](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2014年\))转换而来。
+
+
 **華碩ZenFone 4 (2014年)**（型號：**華碩ZenFone 4 A400CG**、**華碩ZenFone 4 A450CG**）是[華碩](../Page/華碩.md "wikilink")生產的[華碩ZenFone系列](../Page/華碩ZenFone系列.md "wikilink")直立式[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2014年5月30日發布。
 
 ## 規格

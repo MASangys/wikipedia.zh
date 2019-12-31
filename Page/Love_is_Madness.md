@@ -1,4 +1,4 @@
-> 本文内容由[Love is Madness](https://zh.wikipedia.org/wiki/Love is Madness)转换而来。
+> 本文内容由[Love is Madness](https://zh.wikipedia.org/wiki/Love_is_Madness)转换而来。
 
 
 《**Love is Madness**》（）是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&的第](https://zh.wikipedia.org/wiki/15& "wikilink")4張單曲，於2015年2月9日發行。

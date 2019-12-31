@@ -1,4 +1,4 @@
-> 本文内容由[The MOBB](https://zh.wikipedia.org/wiki/The MOBB)转换而来。
+> 本文内容由[The MOBB](https://zh.wikipedia.org/wiki/The_MOBB)转换而来。
 
 
 《**The MOBB**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")推出的企劃組合[MOBB](../Page/MOBB.md "wikilink")的首張專輯。

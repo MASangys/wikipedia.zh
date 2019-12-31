@@ -1,3 +1,6 @@
+> 本文内容由[2017年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2017年Oricon專輯週榜冠軍作品列表)转换而来。
+
+
 **2017年Oricon專輯週榜冠軍作品列表**列出2017年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。
 
 ## 冠軍專輯列表

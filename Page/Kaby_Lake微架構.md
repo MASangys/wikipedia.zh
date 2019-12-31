@@ -1,4 +1,4 @@
-> 本文内容由[Kaby Lake微架構](https://zh.wikipedia.org/wiki/Kaby Lake微架構)转换而来。
+> 本文内容由[Kaby Lake微架構](https://zh.wikipedia.org/wiki/Kaby_Lake微架構)转换而来。
 
 
 **Kaby Lake**是[Intel发布的](https://zh.wikipedia.org/wiki/Intel "wikilink")[14纳米处理器架构代号](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")，接替[Skylake微架構](../Page/Skylake微架構.md "wikilink")。\[1\]Kaby Lake已于2017年1月发售\[2\]。

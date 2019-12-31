@@ -1,4 +1,4 @@
-> 本文内容由[Into the West](https://zh.wikipedia.org/wiki/Into the West)转换而来。
+> 本文内容由[Into the West](https://zh.wikipedia.org/wiki/Into_the_West)转换而来。
 
 
 ******是一首由[安妮·藍妮克絲演唱的歌曲](https://zh.wikipedia.org/wiki/安妮·藍妮克絲 "wikilink")，也是2003年電影《[魔戒三部曲：王者再臨](https://zh.wikipedia.org/wiki/魔戒三部曲：王者再臨 "wikilink")》的曲。本曲由藍妮克絲、電影製作人與共同編劇與電影編曲[霍華·蕭共同創作](https://zh.wikipedia.org/wiki/霍華·蕭 "wikilink")\[1\]，於2003年電影《魔戒三部曲：王者再臨》的片尾當中演奏\[2\]。該曲後來被[紐西蘭歌手](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、與美國歌手[彼得·霍藍斯](../Page/彼得·霍藍斯.md "wikilink")翻唱過。2014年，德國[阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")[重金屬樂團](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")在第5張專輯**當中收錄並翻唱該曲\[3\]。

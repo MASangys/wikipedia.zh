@@ -1,3 +1,6 @@
+> 本文内容由[NBA 2K11](https://zh.wikipedia.org/wiki/NBA_2K11)转换而来。
+
+
 是一款由[Visual Concepts公司制作](../Page/Visual_Concepts.md "wikilink")、2K Sports发行的篮球类[电子游戏](../Page/电子游戏.md "wikilink")。本游戏于2010年10月5日首先发行。游戏在索尼PlayStation 2、PlayStation 3、Windows和Xbox 360发行。本游戏是[NBA 2K系列的第](../Page/NBA_2K系列.md "wikilink")12作。
 
 《NBA 2K11》是一款篮球模拟游戏，根据美国NBA篮球而制作。

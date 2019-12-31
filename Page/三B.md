@@ -1,3 +1,6 @@
+> 本文内容由[三B](https://zh.wikipedia.org/wiki/三B)转换而来。
+
+
 在[古典音乐](../Page/古典音乐.md "wikilink")史中，**三B**指三位古典时期的[德国](../Page/德国.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，他们是：[巴赫](https://zh.wikipedia.org/wiki/巴赫 "wikilink")（**B**ach）、[贝多芬](https://zh.wikipedia.org/wiki/贝多芬 "wikilink")（**B**eethoven）、[勃拉姆斯](https://zh.wikipedia.org/wiki/勃拉姆斯 "wikilink")（**B**rahms）。此一詞語常用在[古典音乐](../Page/古典音乐.md "wikilink")的討論中，以表示這三位音樂家在古典音樂中的代表性。
 
 三B一詞語最早是由[彼得·科内利乌斯在](https://zh.wikipedia.org/wiki/彼得·科内利乌斯 "wikilink")1854年提出，他所指的三B是贝多芬、巴赫及法國作曲家[白遼士](https://zh.wikipedia.org/wiki/白遼士 "wikilink")（**B**erlioz），後來是由[汉斯·冯·彪罗](../Page/汉斯·冯·彪罗.md "wikilink")提出以勃拉姆斯取代白遼士，也就是現在常提到的三B。

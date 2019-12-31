@@ -1,3 +1,6 @@
+> 本文内容由[Win32控制台](https://zh.wikipedia.org/wiki/Win32控制台)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Windows_PowerShell_1.0_PD.png "fig:右")上使用Win32控制台窗口的[Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")。\]\] [右](https://zh.wikipedia.org/wiki/File:GNU_Midnight_Commander_4.1.36_Windows_Vista.png "fig:右") 在Win32控制台中使用[方框绘制字符](../Page/方框绘制字符.md "wikilink")。\]\] **Win32控制台**（）是[Windows API系统内运行](../Page/Windows_API.md "wikilink")[控制台应用程序](../Page/控制台应用程序.md "wikilink")的的实现。每个Win32控制台有一个[屏幕缓冲区和一个](https://zh.wikipedia.org/wiki/屏幕缓冲区 "wikilink")[输入缓冲区](https://zh.wikipedia.org/wiki/緩衝器 "wikilink")，并可在[視窗](../Page/視窗.md "wikilink")或的屏幕下使用，使用Alt+Enter键可在两者间切换。
 
 Win32控制台通常用于不需要显示图像但可能使用颜色的应用程序。以[命令行界面](../Page/命令行界面.md "wikilink")工具举例：命令行解释器有[Windows命令行提示符](../Page/命令提示字元.md "wikilink")、[Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")；[文件管理器有](https://zh.wikipedia.org/wiki/檔案管理器 "wikilink")和；编辑器有。

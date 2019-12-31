@@ -1,3 +1,6 @@
+> 本文内容由[My Swagger](https://zh.wikipedia.org/wiki/My_Swagger)转换而来。
+
+
 《**MY SWAGGER**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第四張日語單曲，距離上張日語單曲《[LAUGH LAUGH LAUGH](https://zh.wikipedia.org/wiki/LAUGH_LAUGH_LAUGH "wikilink")》睽違了一年8個月之久。此單曲由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2017年5月24日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。主打歌為《MY SWAGGER》。\[1\]
 
 ## 背景

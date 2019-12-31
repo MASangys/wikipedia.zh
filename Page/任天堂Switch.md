@@ -1,3 +1,6 @@
+> 本文内容由[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")公司出品的[電子遊戲機](../Page/電子遊戲機.md "wikilink")，於2017年3月3日在日本、[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[香港](../Page/香港.md "wikilink")發售，同年12月1日在[韩国和](https://zh.wikipedia.org/wiki/韩国 "wikilink")[台湾发售](https://zh.wikipedia.org/wiki/台湾 "wikilink")。擁有可拆卸控制器和可分離式主機，遊戲載體使用了專用[卡匣](https://zh.wikipedia.org/wiki/卡匣 "wikilink")。主机[處理器使用了](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[NVIDIA定制的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[Tegra X1](https://zh.wikipedia.org/wiki/图睿#Tegra_X1系列 "wikilink")[系统芯片](../Page/系统芯片.md "wikilink")，這是任天堂首次採用NVIDIA的系统芯片。\[1\]開發期中的主機於2015年3月17日以「**NX**」代號首次公佈，在2016年10月20日首次於網路影片上公開正式名稱任天堂Switch和其造型。\[2\]
 
 ## 沿革

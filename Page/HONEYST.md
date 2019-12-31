@@ -1,3 +1,6 @@
+> 本文内容由[HONEYST](https://zh.wikipedia.org/wiki/HONEYST)转换而来。
+
+
 **HONEYST**（）為韓國FNC娛樂公司旗下的四人男子樂團組合，成員包括吳昇錫、金哲敏、徐東成、金歡。與[SF9皆為NEOZ一期生](https://zh.wikipedia.org/wiki/SF9 "wikilink")，並參與FNC娛樂舉辦的選秀節目《d.o.b》。節目中將新人訓練學院的第一期學員分成 NEOZ DANCE、[NEOZ BAND](https://www.youtube.com/watch?v=3o3m0np6--M) 兩組進行競爭，雖然最終由舞蹈組獲得優勝，但公司表示他們將以新的團名「HONEYST」重新出發，並於2017年5月17日正式出道\[1\]。2019年4月26日，FNC宣布組合解散，成員將各自活動\[2\]\[3\]。
 
 團名「HONEYST」是取自甜蜜的（HONEY）和藝術家（ARTIST）以及誠實（HONEST），包含著四名甜蜜的藝術家、甜蜜以及正直且真實的演出的意思。

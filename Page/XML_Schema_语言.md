@@ -1,3 +1,6 @@
+> 本文内容由[XML Schema 语言](https://zh.wikipedia.org/wiki/XML_Schema_语言)转换而来。
+
+
 **XML schema**是指各种[XML](../Page/XML.md "wikilink")文档（称作schema），用于表示在XML一般规则之外的特定文档的结构与内容的约束。其中被W3C采纳为推荐标准的schema语言是[XSD](https://zh.wikipedia.org/wiki/XSD "wikilink").
 
 XML schema语言的不完全列表:
@@ -125,19 +128,12 @@ XML schema语言的不完全列表:
 [Category:XML](https://zh.wikipedia.org/wiki/Category:XML "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.

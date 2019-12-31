@@ -1,4 +1,4 @@
-> 本文内容由[LoveLive! μ\'s Final LoveLive! 2016 ～μ’sic Forever♪♪♪♪♪♪♪♪♪～](https://zh.wikipedia.org/wiki/LoveLive! μ\'s Final LoveLive! 2016 ～μ’sic Forever♪♪♪♪♪♪♪♪♪～)转换而来。
+> 本文内容由[LoveLive! μ\'s Final LoveLive! 2016 ～μ’sic Forever♪♪♪♪♪♪♪♪♪～](https://zh.wikipedia.org/wiki/LoveLive!_μ\'s_Final_LoveLive!_2016_～μ’sic_Forever♪♪♪♪♪♪♪♪♪～)转换而来。
 
 
 「**LoveLive\! μ's Final LoveLive\!〜μ'sic Forever♪♪♪♪♪♪♪♪♪〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2016年3月31日和4月1日於[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉辦的演唱會，並於2016年9月28日發售收錄演唱會的[藍光光碟](../Page/藍光光碟.md "wikilink")與[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。\[1\]

@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft ScanDisk](https://zh.wikipedia.org/wiki/Microsoft ScanDisk)转换而来。
+> 本文内容由[Microsoft ScanDisk](https://zh.wikipedia.org/wiki/Microsoft_ScanDisk)转换而来。
 
 
 **Microsoft ScanDisk**（也称**ScanDisk**）是一个包含在[MS-DOS](../Page/MS-DOS.md "wikilink")和[Windows 9x中的诊断工具](../Page/Windows_9x.md "wikilink")，可以检查和修复磁盘的[文件系统](../Page/文件系统.md "wikilink")错误。它在MS-DOS 6.2中被首次引入。[CHKDSK](../Page/CHKDSK.md "wikilink")是其成功简化后的继任者。

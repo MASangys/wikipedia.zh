@@ -1,3 +1,6 @@
+> 本文内容由[EMT Squared](https://zh.wikipedia.org/wiki/EMT_Squared)转换而来。
+
+
 **株式會社EMT Squared**（，）是[日本](../Page/日本.md "wikilink")的[動畫製作公司](../Page/日本动画.md "wikilink")。
 
 代表人宮本秀晃曾在[TMS娛樂](../Page/TMS娛樂.md "wikilink")擔任製作人\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[The Rose \(樂團\)](https://zh.wikipedia.org/wiki/The_Rose_\(樂團\))转换而来。
+
+
 **The Rose**（）是[韓國J](https://zh.wikipedia.org/wiki/韓國 "wikilink")\&Star娛樂旗下的四人男子樂團，成員為[吉他手金佑星](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[鍵盤手朴洮儁](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")、[鼓手李河寯](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[貝斯手李载炯](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")，由年紀最長的金佑星擔任隊長。2017年8月3日以單曲《Sorry》正式出道，全團包辦作詞作曲及編曲，不僅演奏樂器，同時也都身兼Vocal。團名The Rose象徵該團的音樂猶如[玫瑰](../Page/玫瑰.md "wikilink")花朵般美麗，同時又有著玫瑰花莖上的針刺一般強烈的風格\[1\]，而玫瑰除了紅色，還有各種顏色，這也意味著希望帶給大家豐富多樣的音樂面貌\[2\]。官方粉絲名為「Black Rose」。
 
 ## 經歷
@@ -193,23 +196,14 @@
 [Category:韓國樂團](https://zh.wikipedia.org/wiki/Category:韓國樂團 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.

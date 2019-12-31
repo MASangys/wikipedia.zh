@@ -1,3 +1,6 @@
+> 本文内容由[瓦努阿图LGBT权益](https://zh.wikipedia.org/wiki/瓦努阿图LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**[瓦努阿图](../Page/瓦努阿图.md "wikilink")**面临着许多法律和社会方面的挑战。以同性伴侣为主的家庭没有资格获得与异性恋夫妻相同的法律保护。
 
 2011年，瓦努阿图在[联合国签署了](https://zh.wikipedia.org/wiki/联合国 "wikilink")《[关于根据性取向和性别认同结束暴力行为和有关侵犯人权行为的联合声明](../Page/聯合國性傾向與性別認同議題.md "wikilink")》，谴责对LGBT人士的暴力和歧视。\[1\]
@@ -51,18 +54,11 @@
 [Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink") [Category:瓦努阿图政治](https://zh.wikipedia.org/wiki/Category:瓦努阿图政治 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.

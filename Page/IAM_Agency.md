@@ -1,3 +1,6 @@
+> 本文内容由[IAM Agency](https://zh.wikipedia.org/wiki/IAM_Agency)转换而来。
+
+
 **IAM Agency**（，）是[日本](../Page/日本.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")，主要經營[聲優](../Page/聲優.md "wikilink")事業。
 
 ## 簡介

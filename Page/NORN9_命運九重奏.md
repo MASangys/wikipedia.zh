@@ -1,4 +1,4 @@
-> 本文内容由[NORN9 命運九重奏](https://zh.wikipedia.org/wiki/NORN9 命運九重奏)转换而来。
+> 本文内容由[NORN9 命運九重奏](https://zh.wikipedia.org/wiki/NORN9_命運九重奏)转换而来。
 
 
 《**NORN9 命運九重奏**》（）是於2013年5月30日發售的[PlayStation Portable戀愛](../Page/PlayStation_Portable.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。

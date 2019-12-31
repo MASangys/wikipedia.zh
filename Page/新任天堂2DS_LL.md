@@ -1,3 +1,6 @@
+> 本文内容由[新任天堂2DS LL](https://zh.wikipedia.org/wiki/新任天堂2DS_LL)转换而来。
+
+
 是[任天堂](../Page/任天堂.md "wikilink")公司發售的[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")，亦是[新任天堂3DS系列的第六款掌上遊戲機](../Page/任天堂3DS家族.md "wikilink")。新任天堂2DS XL於2017年7月13日在日本發售\[1\]，而北美則於2017年7月28日發售\[2\]。
 
 新任天堂2DS XL不同於[任天堂2DS](../Page/任天堂2DS.md "wikilink")，此採用與[任天堂3DS](../Page/任天堂3DS.md "wikilink")相同的折疊式設計，其餘按鈕設計和規格均與[新任天堂3DS](../Page/新任天堂3DS.md "wikilink")相同，與上一代一樣兼容3DS遊戲，並且沒有裸視3D功能\[3\]。

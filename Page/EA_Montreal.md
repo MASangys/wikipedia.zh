@@ -1,4 +1,4 @@
-> 本文内容由[EA Montreal](https://zh.wikipedia.org/wiki/EA Montreal)转换而来。
+> 本文内容由[EA Montreal](https://zh.wikipedia.org/wiki/EA_Montreal)转换而来。
 
 
 **EA Montreal**，是[加拿大](../Page/加拿大.md "wikilink")的游戏开发工作室。该工作室设在魁北克[蒙特利尔](../Page/蒙特利尔.md "wikilink")，2004年3月17日由[美国艺电创立](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")\[1\]。

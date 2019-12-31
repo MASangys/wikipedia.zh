@@ -1,3 +1,6 @@
+> 本文内容由[KEYTALK](https://zh.wikipedia.org/wiki/KEYTALK)转换而来。
+
+
 **KEYTALK**，[日本](../Page/日本.md "wikilink")4人[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")\[1\]。於[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[下北澤](../Page/下北澤.md "wikilink")組成並以此地作為活動據點。2007年組團，2009年使用現名。2013年出道。
 
 其中專輯《》曾在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜中排名第4 ，單曲《》在Oricon公信榜週榜中最高曾排名第7。

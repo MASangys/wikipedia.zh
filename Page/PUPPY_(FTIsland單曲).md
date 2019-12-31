@@ -1,4 +1,4 @@
-> 本文内容由[PUPPY \(FTIsland單曲\)](https://zh.wikipedia.org/wiki/PUPPY \(FTIsland單曲\))转换而来。
+> 本文内容由[PUPPY \(FTIsland單曲\)](https://zh.wikipedia.org/wiki/PUPPY_\(FTIsland單曲\))转换而来。
 
 
 《**To The Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十八張單曲（第十五張主流單曲），由[李洪基](../Page/李洪基.md "wikilink")與[Corin作曲](https://zh.wikipedia.org/wiki/Corin "wikilink")、洪基、及WISE作詞，並在2015年9月16日以四個不同版本推出\[1\]。

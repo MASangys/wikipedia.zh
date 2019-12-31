@@ -1,3 +1,6 @@
+> 本文内容由[秋葉原之旅 -THE ANIMATION-](https://zh.wikipedia.org/wiki/秋葉原之旅_-THE_ANIMATION-)转换而来。
+
+
 《**秋葉原之旅 -THE ANIMATION-**》（*AKIBA'S TRIP -THE ANIMATION-*）改編自同名以[PlayStation Portable為平台的](../Page/PlayStation_Portable.md "wikilink")[秋葉原之旅](../Page/秋葉原之旅.md "wikilink")。2016年9月15日，於[東京電玩展2016宣佈推出電視動畫](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")\[1\]，並從2017年1月4日開始播放。
 
 ## 登場人物

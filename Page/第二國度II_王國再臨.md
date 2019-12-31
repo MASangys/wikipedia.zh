@@ -1,3 +1,6 @@
+> 本文内容由[第二國度II 王國再臨](https://zh.wikipedia.org/wiki/第二國度II_王國再臨)转换而来。
+
+
 是由[LEVEL-5](../Page/LEVEL-5.md "wikilink")開發並由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 4平台的](../Page/PlayStation_4.md "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，前作為《[第二國度 白色聖灰的女王](../Page/第二國度_白色聖灰的女王.md "wikilink")》。該遊戲原定在2018年1月19日開始在全球發售\[1\]，期後官方於2017年12月13日將預定發售日改至次年3月23日\[2\]。
 
 主人公為一位被篡奪帝位，並試圖取回其王國的年輕國王伊凡·佩蒂威斯卡·蒂爾卓姆（Evan Pettiwhisker Tildrum），玩家可以操縱他於[開放世界](../Page/開放世界.md "wikilink")中隨處走動，而其他角色則在與敵人戰鬥時可供使用。在戰鬥期間，玩家可以使用魔法技能和放出可施放法術的元素生物「Higgledies」。
@@ -98,7 +101,6 @@
 10.
 11.
 12.
-
 13.
 14.
 15.
@@ -106,9 +108,6 @@
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.

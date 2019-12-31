@@ -1,4 +1,4 @@
-> 本文内容由[Magazine House](https://zh.wikipedia.org/wiki/Magazine House)转换而来。
+> 本文内容由[Magazine House](https://zh.wikipedia.org/wiki/Magazine_House)转换而来。
 
 
 **MAGAZINE HOUSE**（）是一間日本的出版社，舊社名為「平凡出版股份有限公司」。

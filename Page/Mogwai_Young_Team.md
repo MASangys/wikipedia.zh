@@ -1,4 +1,4 @@
-> 本文内容由[Mogwai Young Team](https://zh.wikipedia.org/wiki/Mogwai Young Team)转换而来。
+> 本文内容由[Mogwai Young Team](https://zh.wikipedia.org/wiki/Mogwai_Young_Team)转换而来。
 
 
 **Mogwai Young Team**是[後搖滾](../Page/後搖滾.md "wikilink")樂團[魔怪的第一張](../Page/魔怪_\(樂團\).md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於1997年10月27日由[Chemikal Underground發行](https://zh.wikipedia.org/wiki/Chemikal_Underground "wikilink")。有[CD](../Page/CD.md "wikilink")和[黑膠唱片](../Page/黑膠唱片.md "wikilink")二種版本。

@@ -1,3 +1,6 @@
+> 本文内容由[Hey Yah \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/Hey_Yah_\(GOT7迷你專輯\))转换而来。
+
+
 《**Hey Yah**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")在日本出道兩年後所發行的首張日語迷你專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2016年11月16日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")，共收錄6首新歌，主打歌為《Hey Yah》。
 
 此張專輯不僅收錄了[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")[祐榮二度為師弟跨刀製作的歌曲](https://zh.wikipedia.org/wiki/祐榮 "wikilink")《Over & Over》，GOT7成員更首次嘗試創作日語歌曲，成功發表了《Let me know》、《如果沒有離別・・・》兩首詞曲創作。

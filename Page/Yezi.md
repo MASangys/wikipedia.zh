@@ -1,3 +1,6 @@
+> 本文内容由[Yezi](https://zh.wikipedia.org/wiki/Yezi)转换而来。
+
+
 **Yezi**（，），本名**利禮智**\[1\]（），\[2\]\[3\][韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[歌手](../Page/歌手.md "wikilink")及[饶舌歌手](../Page/饒舌.md "wikilink")。2012年以[音乐团体](../Page/女子音乐组合.md "wikilink")[FIESTAR](../Page/FIESTAR.md "wikilink")成员的身份出道。在2015年参加[Mnet的](../Page/Mnet媒體.md "wikilink")《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》并进入半决赛后，她发布了几首数字单曲并正式以独唱歌手的身份出道。她的首张个人[迷你专辑](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《Foresight Dream》于2016年1月28日公开。
 
 ## 早年生活与生涯
@@ -236,71 +239,42 @@ Yezi于2015年12月11日发布了新版本《疯狗》单曲，歌曲由[Brand N
 [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韩国偶像艺人](https://zh.wikipedia.org/wiki/Category:韩国偶像艺人 "wikilink") [Category:韩国舞蹈音乐家](https://zh.wikipedia.org/wiki/Category:韩国舞蹈音乐家 "wikilink") [Category:翰林演艺艺术高中校友](https://zh.wikipedia.org/wiki/Category:翰林演艺艺术高中校友 "wikilink") [Category:江陵市出身人物](https://zh.wikipedia.org/wiki/Category:江陵市出身人物 "wikilink") [Category:Unpretty_Rapstar参赛者](https://zh.wikipedia.org/wiki/Category:Unpretty_Rapstar参赛者 "wikilink") [Category:蒙面歌王参赛者](https://zh.wikipedia.org/wiki/Category:蒙面歌王参赛者 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
 20.
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
 34.
 35.
 36.
 37.
 38.
-
 39.
-
 40.

@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG音樂作品列表](https://zh.wikipedia.org/wiki/BIGBANG音樂作品列表)转换而来。
+
+
 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG於](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2006年開始他們的歌手職業生涯，組合剛出道時成果雖尚未顯著但也是相當成功的，首張正規專輯《[Bigbang Vol.1](../Page/BIGBANG_Vol.1_\(BIGBANG專輯\).md "wikilink")》的淨銷售量已超過15萬張\[1\]。2007年發行首張迷你專輯《[Always](../Page/Always_\(BIGBANG迷你專輯\).md "wikilink")》，包含成名作品〈謊言〉（韓語：거짓말），成為團體首張熱門專輯。後續發行的迷你專輯取得與先前一樣的成功，《[Hot Issue](../Page/Hot_Issue_\(BIGBANG迷你專輯\).md "wikilink")》帶來了〈最後的問候〉（韓語：마지막 인사），而《[Stand Up](../Page/Stand_Up_\(BIGBANG迷你專輯\).md "wikilink")》則帶來〈一天一天〉（韓語：하루하루），兩首主打曲均居於榜單前列\[2\]\[3\]。第二張韓語正規專輯《[Remember](https://zh.wikipedia.org/wiki/Remember_\(BIGBANG專輯\) "wikilink")》在2008年11月5日發行，主打曲〈紅霞〉也成為BIGBANG歷年發行的作品最熱門的歌曲之一。
 
 2007年末，BIGBANG進軍日本音樂產業，首張日語迷你專輯《[For the World](https://zh.wikipedia.org/wiki/For_the_World_\(BIGBANG日語迷你專輯\) "wikilink")》發行於2008年初\[4\]</ref>，而在2009年8月19日推出日語正規二輯《[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG_\(2009年專輯\) "wikilink")》\[5\]\[6\]，收錄了兩首主打曲《[My Heaven](https://zh.wikipedia.org/wiki/My_Heaven "wikilink")》以及《[Gara Gara GO\!\!](https://zh.wikipedia.org/wiki/Gara_Gara_GO!! "wikilink")》，其中〈[My Heaven](https://zh.wikipedia.org/wiki/My_Heaven "wikilink")〉空降[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")第三名，取得了不錯的成績。\[7\]\[8\]\[9\]

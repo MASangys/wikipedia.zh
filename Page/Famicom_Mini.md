@@ -1,4 +1,4 @@
-> 本文内容由[Famicom Mini](https://zh.wikipedia.org/wiki/Famicom Mini)转换而来。
+> 本文内容由[Famicom Mini](https://zh.wikipedia.org/wiki/Famicom_Mini)转换而来。
 
 
 是一系列[红白机](../Page/红白机.md "wikilink")（Famicom）的[Game Boy Advance移植游戏](../Page/Game_Boy_Advance.md "wikilink")。

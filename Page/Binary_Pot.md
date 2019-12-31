@@ -1,3 +1,6 @@
+> 本文内容由[Binary Pot](https://zh.wikipedia.org/wiki/Binary_Pot)转换而来。
+
+
 《**Binary Pot**》（）是[AUGUST](../Page/AUGUST.md "wikilink")製作的[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，已於2002年2月22日發售\[2\]，通常版已於2004年3月26日發售\[3\]。
 
 ## 遊戲系統

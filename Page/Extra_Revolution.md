@@ -1,3 +1,6 @@
+> 本文内容由[Extra Revolution](https://zh.wikipedia.org/wiki/Extra_Revolution)转换而来。
+
+
 《**Extra Revolution**》（）是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")[ZAQ](../Page/ZAQ.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年10月23日由[Lantis](../Page/Lantis.md "wikilink")發行。此外這裡也記述同年11月27日發行聲優組合「KANBAN娘。」的翻唱版本。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[模块:WLink](https://zh.wikipedia.org/wiki/模块:WLink)转换而来。
+
+
 local WLink = { suite = "WLink",
 
 `               serial = "2016-10-05" };`

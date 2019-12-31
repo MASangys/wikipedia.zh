@@ -1,3 +1,6 @@
+> 本文内容由[LEVEL UP PROJECT!](https://zh.wikipedia.org/wiki/LEVEL_UP_PROJECT!)转换而来。
+
+
 《**LEVEL UP PROJECT\!**》（）是[韓國Oksusu的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet拍攝](../Page/Red_Velvet.md "wikilink")。
 
 2017年7月27日起逢星期四至六[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")10:00在手機視頻APP“Oksusu”先行播出。

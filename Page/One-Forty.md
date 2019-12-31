@@ -1,3 +1,6 @@
+> 本文内容由[One-Forty](https://zh.wikipedia.org/wiki/One-Forty)转换而来。
+
+
 **One-Forty**（法人名稱：社團法人台灣四十分之一移工教育文化協會）是[台灣在地的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[非營利組織](../Page/非營利組織.md "wikilink")，2015年由[政治大學企管系畢業的](https://zh.wikipedia.org/wiki/政治大學 "wikilink")[陳凱翔](../Page/陳凱翔.md "wikilink")以及[台灣大學工管系畢業的吳致寧共同創立](https://zh.wikipedia.org/wiki/台灣大學 "wikilink")，前身為移工商學院\[1\]\[2\]，全名為社團法人台灣四十分之一移工教育文化協會。組成目的是發現在台灣有許多來自[東南亞國家的移工因為長期從事勞動性質的工作而缺乏學習的機會](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，以至於回國後，難以找到更好的工作，因此容易再次陷入貧窮而再度出國工作，因此設計學習型課程培力移工。\[3\]
 
 ## 移工培力

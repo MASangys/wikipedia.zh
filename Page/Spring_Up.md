@@ -1,4 +1,4 @@
-> 本文内容由[Spring Up](https://zh.wikipedia.org/wiki/Spring Up)转换而来。
+> 本文内容由[Spring Up](https://zh.wikipedia.org/wiki/Spring_Up)转换而来。
 
 
 《**Spring Up**》，是韓國六人男子偶像團體[ASTRO的首張迷你專輯](https://zh.wikipedia.org/wiki/ASTRO "wikilink")，以〈숨바꼭질(Hide & Seek)〉為主打歌。

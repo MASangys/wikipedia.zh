@@ -1,4 +1,4 @@
-> 本文内容由[WakuWaku Japan](https://zh.wikipedia.org/wiki/WakuWaku Japan)转换而来。
+> 本文内容由[WakuWaku Japan](https://zh.wikipedia.org/wiki/WakuWaku_Japan)转换而来。
 
 
 **WakuWaku Japan**（亦寫作**WAKUWAKU JAPAN**\[1\]），隸屬於日本[SKY Perfect JSAT Group旗下之電視節目供應商WAKUWAKU](https://zh.wikipedia.org/wiki/SKY_Perfect_JSAT_Group "wikilink") JAPAN公司，向日本國外的電視台綜合播放日本電視節目的[付費頻道](https://zh.wikipedia.org/wiki/收費電視 "wikilink")。該頻道全天候播放由日本製播的節目。頻道播放語言包含馬來語、中文、英語等。另外，在某些國家亦提供字幕服務。

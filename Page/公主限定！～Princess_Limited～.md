@@ -1,4 +1,4 @@
-> 本文内容由[公主限定！～Princess Limited～](https://zh.wikipedia.org/wiki/公主限定！～Princess Limited～)转换而来。
+> 本文内容由[公主限定！～Princess Limited～](https://zh.wikipedia.org/wiki/公主限定！～Princess_Limited～)转换而来。
 
 
 是日本Princess Sugar在2011年2月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Princess Sugar的第一作\[2\]，電腦CLUB（電脳CLUB）在2011年10月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]後來在2012年由PoRO發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]

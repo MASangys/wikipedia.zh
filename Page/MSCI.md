@@ -1,3 +1,6 @@
+> 本文内容由[MSCI](https://zh.wikipedia.org/wiki/MSCI)转换而来。
+
+
 **MSCI**公司，又称**明晟**，（原**[Morgan Stanley](../Page/摩根士丹利.md "wikilink") ** 摩根士丹利资本国际公司和 **MSCI Barra**），是一家美国、、[对冲基金](../Page/对冲基金.md "wikilink")[股價指數](../Page/股價指數.md "wikilink")和[股東權益](../Page/股東權益.md "wikilink")[投資組合](../Page/投資組合.md "wikilink")分析工具提供商。它发布MSCI BRIC、和指数。
 
 ## 历史

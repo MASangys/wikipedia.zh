@@ -1,4 +1,4 @@
-> 本文内容由[Cherish 2](https://zh.wikipedia.org/wiki/Cherish 2)转换而来。
+> 本文内容由[Cherish 2](https://zh.wikipedia.org/wiki/Cherish_2)转换而来。
 
 
 《**Cherish 2**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[馬浚偉](../Page/馬浚偉.md "wikilink")的第15張唱片，於2014年6月12日推出。

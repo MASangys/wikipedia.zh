@@ -1,3 +1,6 @@
+> 本文内容由[Beginner \(JKT48單曲\)](https://zh.wikipedia.org/wiki/Beginner_\(JKT48單曲\))转换而来。
+
+
 《**Beginner**》是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48](../Page/JKT48.md "wikilink")的第12張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")。单曲於2016年1月1日日由發行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《Beginner》實際上就是姊妹團體[AKB48](../Page/AKB48.md "wikilink")的第18张單曲《[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")》，只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要

@@ -1,4 +1,4 @@
-> 本文内容由[Nexus 5X](https://zh.wikipedia.org/wiki/Nexus 5X)转换而来。
+> 本文内容由[Nexus 5X](https://zh.wikipedia.org/wiki/Nexus_5X)转换而来。
 
 
 **Nexus 5X**（代号 Bullhead）是一款[Google](../Page/Google.md "wikilink")在2015年推出的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。在2015年9月29日，Google发布两款新[Nexus系列的智能手机](../Page/Google_Nexus.md "wikilink")，分别为[LG电子代工的的Nexus](https://zh.wikipedia.org/wiki/LG电子 "wikilink") 5X，及[华为](../Page/华为.md "wikilink")生产的[Nexus 6P](../Page/Nexus_6P.md "wikilink")。此两款新手机将主打[摄像头](../Page/摄像头.md "wikilink")技术、[传感器](../Page/传感器.md "wikilink")技术和安全性等特色。Nexus 5X运行[Android 6.0 "Marshmallow"系统](../Page/Android_Marshmallow.md "wikilink")。\[1\]

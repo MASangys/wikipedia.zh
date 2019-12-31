@@ -1,3 +1,6 @@
+> 本文内容由[激動戰士MAN勃哥](https://zh.wikipedia.org/wiki/激動戰士MAN勃哥)转换而来。
+
+
 《**激動戰士MAN勃哥**》（）是一部2011年[加拿大](../Page/加拿大.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[動作片](../Page/動作片.md "wikilink")，由史蒂芬·卡斯坦斯基執導和監製，並與傑瑞米·吉萊斯皮共同編劇。本片為[Astron-6](../Page/Astron-6.md "wikilink")製作，在片中仿效了1980年代的拙劣畫面和特效。
 
 該片於2011年9月22日在[奇幻電影節上首映](https://zh.wikipedia.org/wiki/奇幻電影節 "wikilink")。

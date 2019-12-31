@@ -1,3 +1,6 @@
+> 本文内容由[Amenity\'s Life](https://zh.wikipedia.org/wiki/Amenity\'s_Life)转换而来。
+
+
 《**Amenity's Life**》是[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")制作的一部[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[日本成人](../Page/日本成人遊戲.md "wikilink")[戀愛冒險游戏](https://zh.wikipedia.org/wiki/戀愛冒險游戏 "wikilink")，已於2016年12月22日發售\[1\]。已於2017年5月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Amenity's Life MiniFanDisc -レゾナ＆板野奏 Ver.-》。
 
 ## 系統

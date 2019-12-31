@@ -1,3 +1,6 @@
+> 本文内容由[BitTorrent协议加密](https://zh.wikipedia.org/wiki/BitTorrent协议加密)转换而来。
+
+
 **协议加密**（**Protocol encryption**，**PE**）、**消息流加密**（**message stream encryption**，**MSE**）或**协议头加密**（**protocol header encrypt**，**PHE**）是部分[對等網路](../Page/對等網路.md "wikilink")[檔案分享](../Page/檔案分享.md "wikilink")[客户端的特性](../Page/檔案分享程式比較.md "wikilink")，包括[BitTorrent客户端](https://zh.wikipedia.org/wiki/BitTorrent客户端 "wikilink")。它们尝试增强隐私和保密性，并尝试使第三方（如[互联网服务供应商](../Page/互联网服务供应商.md "wikilink")）更难识别流量头部。
 
 MSE/PE在[BitComet](../Page/BitComet.md "wikilink")、、[Deluge](../Page/Deluge.md "wikilink")、[Flashget](../Page/快车.md "wikilink")、[KTorrent](../Page/KTorrent.md "wikilink")、[Mainline](https://zh.wikipedia.org/wiki/BitTorrent客户端 "wikilink")、[µTorrent](https://zh.wikipedia.org/wiki/µTorrent "wikilink")、[qBittorrent](https://zh.wikipedia.org/wiki/qBittorrent "wikilink")、[rTorrent](https://zh.wikipedia.org/wiki/rTorrent "wikilink")、[Transmission](../Page/Transmission.md "wikilink")、和[Vuze](../Page/Vuze.md "wikilink")等软件中有被实现。PHE在旧版本的BitComet中被实现。类似的协议在最新版本的非BitTorrent系统（包括[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")）中也有实现\[1\]。

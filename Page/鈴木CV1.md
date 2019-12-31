@@ -1,3 +1,6 @@
+> 本文内容由[鈴木CV1](https://zh.wikipedia.org/wiki/鈴木CV1)转换而来。
+
+
 **鈴木CV1**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司在](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1981年至1985年間開發製造的單人座[微型車](https://zh.wikipedia.org/wiki/微型車 "wikilink")。
 
 ## 歷史與概要

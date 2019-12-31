@@ -1,3 +1,6 @@
+> 本文内容由[NOX夜神](https://zh.wikipedia.org/wiki/NOX夜神)转换而来。
+
+
 **NOX夜神**是一款PC端的[安卓模拟器及创业公司](https://zh.wikipedia.org/wiki/安卓 "wikilink")。
 
 ## 概述

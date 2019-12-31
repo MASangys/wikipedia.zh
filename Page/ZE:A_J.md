@@ -1,4 +1,4 @@
-> 本文内容由[ZE:A J](https://zh.wikipedia.org/wiki/ZE:A J)转换而来。
+> 本文内容由[ZE:A J](https://zh.wikipedia.org/wiki/ZE:A_J)转换而来。
 
 
 **ZE:A J**由[ZE:A](../Page/ZE:A.md "wikilink")成員[凱文](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")(Kevin)、[泰憲](https://zh.wikipedia.org/wiki/泰憲 "wikilink")、[熹哲](../Page/熹哲.md "wikilink")、[旼佑](../Page/旼佑.md "wikilink")、[桐俊所組成](https://zh.wikipedia.org/wiki/桐俊 "wikilink")。J代表了Jewel（寶石）、Joy（喜悅）、Jolly（刺激）、Justice（正義）、Join（連接），意思是指，要成為連接韓日兩國，帶來和ZE:A帝國之子完整體不一樣的感覺和刺激、精彩的組合。

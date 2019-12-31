@@ -1,4 +1,4 @@
-> 本文内容由[Love Memory](https://zh.wikipedia.org/wiki/Love Memory)转换而来。
+> 本文内容由[Love Memory](https://zh.wikipedia.org/wiki/Love_Memory)转换而来。
 
 
 《**Love Memory**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[糖兄妹](../Page/糖兄妹.md "wikilink")的第一張音樂專輯，於2010年10月25日限量發售。

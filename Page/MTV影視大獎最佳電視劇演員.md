@@ -1,3 +1,6 @@
+> 本文内容由[MTV影視大獎最佳電視劇演員](https://zh.wikipedia.org/wiki/MTV影視大獎最佳電視劇演員)转换而来。
+
+
 **MTV影視大獎最佳電視劇演員**（MTV Movie & TV Awards for Best Actor in a Show）是[MTV影視大獎](../Page/MTV影視大獎.md "wikilink")重要的獎項之一，頒發給年度最佳電視劇演員，於2017年開始頒發。
 
 ## 歷屆得主

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Guidedtour-tour-askflow.js](https://zh.wikipedia.org/wiki/MediaWiki:Guidedtour-tour-askflow.js)转换而来。
+
+
 `   ( function ( window, document, $, mw, gt ) {`
 
 `   // Declare a variable for use later`

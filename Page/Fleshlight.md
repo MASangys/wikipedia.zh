@@ -1,3 +1,6 @@
+> 本文内容由[Fleshlight](https://zh.wikipedia.org/wiki/Fleshlight)转换而来。
+
+
 **Fleshlight**是[人工陰道](../Page/人工陰道.md "wikilink")[性玩具的](https://zh.wikipedia.org/wiki/性玩具 "wikilink")[品牌](../Page/品牌.md "wikilink")\[1\]
 
 ## 用法

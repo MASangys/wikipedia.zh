@@ -1,3 +1,6 @@
+> 本文内容由[ACUTE](https://zh.wikipedia.org/wiki/ACUTE)转换而来。
+
+
 是一首由製作，2009年8月21日投稿的音樂影片，續篇為。由[初音](../Page/初音未來.md "wikilink")、[巡音](../Page/巡音流歌.md "wikilink")、[KAITO所演唱](../Page/Kaito.md "wikilink")，兩篇歌曲故事描述三角戀情。
 
 ## 歌曲

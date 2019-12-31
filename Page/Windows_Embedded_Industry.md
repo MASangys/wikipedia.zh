@@ -1,3 +1,6 @@
+> 本文内容由[Windows Embedded Industry](https://zh.wikipedia.org/wiki/Windows_Embedded_Industry)转换而来。
+
+
 **Windows Embedded Industry**（又称**Windows Embedded工业版**\[1\]，前称**Windows Embedded POSReady**和**Windows Embedded for Point of Service**）是一个[操作系统](../Page/操作系统.md "wikilink")系列，由[微软](../Page/微软.md "wikilink")开发，是[Windows Embedded家族的一部分](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")\[2\]。Windows Embedded Industry基于[Windows NT](../Page/Windows_NT.md "wikilink")，设计用于工业设备中，如[收银机](../Page/收銀機.md "wikilink")、[ATM和](../Page/自動櫃員機.md "wikilink")[自助结账系统](../Page/自助结帐系统.md "wikilink")\[3\]。Windows Embedded 8.1 Industry是该系列的最终版本，此后的Windows 10 IoT Enterprise取代了Windows Embedded Industry和Windows Embedded Standard系列。
 
 ## 版本
@@ -48,58 +51,33 @@ Windows Embedded 8.1 Industry基于[Windows 8.1](../Page/Windows_8.1.md "wikilin
 [Category:嵌入式操作系统](https://zh.wikipedia.org/wiki/Category:嵌入式操作系统 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17.
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.

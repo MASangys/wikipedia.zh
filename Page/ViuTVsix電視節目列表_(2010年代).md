@@ -1,3 +1,6 @@
+> 本文内容由[ViuTVsix電視節目列表 \(2010年代\)](https://zh.wikipedia.org/wiki/ViuTVsix電視節目列表_\(2010年代\))转换而来。
+
+
 本列表是[ViuTVsix節目列表](../Page/ViuTVsix節目列表.md "wikilink")的子列表，列出2010年代[ViuTVsix](../Page/ViuTVsix.md "wikilink")的綜藝及資訊節目。
 
 ## 2017年

@@ -1,4 +1,4 @@
-> 本文内容由[HTC 10](https://zh.wikipedia.org/wiki/HTC 10)转换而来。
+> 本文内容由[HTC 10](https://zh.wikipedia.org/wiki/HTC_10)转换而来。
 
 
 **HTC 10**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2016年開發的新一代旗艦級[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android 8.0.0操作系统](../Page/Android_Oreo.md "wikilink")（出廠版本為[Android 6.0.1](../Page/Android_Marshmallow.md "wikilink")），競爭對手為[Samsung Galaxy S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")、[LG G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、[Huawei P9](https://zh.wikipedia.org/wiki/Huawei_P9 "wikilink")。

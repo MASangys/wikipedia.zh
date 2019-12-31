@@ -1,4 +1,4 @@
-> 本文内容由[Super Star 我要当歌手2](https://zh.wikipedia.org/wiki/Super Star 我要当歌手2)转换而来。
+> 本文内容由[Super Star 我要当歌手2](https://zh.wikipedia.org/wiki/Super_Star_我要当歌手2)转换而来。
 
 
 《**我要當歌手**2》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](https://zh.wikipedia.org/wiki/友松傳播 "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super Band伴奏，2015年4月19日起每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")08:00首播。\[1\]

@@ -1,4 +1,4 @@
-> 本文内容由[WILD WILD WILD](https://zh.wikipedia.org/wiki/WILD WILD WILD)转换而来。
+> 本文内容由[WILD WILD WILD](https://zh.wikipedia.org/wiki/WILD_WILD_WILD)转换而来。
 
 
 「**WILD WILD WILD**」是[EXILE THE SECOND的第](../Page/EXILE_THE_SECOND.md "wikilink")4張單曲。2016年9月21日於日本發行。\[1\]

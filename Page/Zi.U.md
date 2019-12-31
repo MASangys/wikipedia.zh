@@ -1,3 +1,6 @@
+> 本文内容由[Zi.U](https://zh.wikipedia.org/wiki/Zi.U)转换而来。
+
+
 **金摯囿**\[1\]（，，），出道時藝名為**瑟智**（，），2016年改為**Zi.U**（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為DR Music旗下女子組合[RANIA](../Page/RANIA.md "wikilink")的成員，出道時的擔當為副唱、門面，2016年改為領唱、領舞、形象 \[2\]，2019年8月28日官方證實已退出[RANIA](../Page/RANIA.md "wikilink")。
 
 出道前曾擔任模特兒\[3\]，亦曾為[跆拳道](../Page/跆拳道.md "wikilink")4段選手。

@@ -1,3 +1,6 @@
+> 本文内容由[Ariel Project](https://zh.wikipedia.org/wiki/Ariel_Project)转换而来。
+
+
 **Ariel Project** （日語：**アリエルプロジェクト**），是港日娛樂綜藝工作室「Star Creative Production」旗下第一隊成立的[香港](../Page/香港.md "wikilink")日系[女子偶像組合](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")。經過一連串嚴格的歌舞審查及面試，從中挑選來自[香港](../Page/香港.md "wikilink")土生土長的少女作為成員。
 
 Ariel Project 除了每月於香港舉行定期演出外，亦已先後遠赴台灣、日本、中國（上海與廣州）及韓國參與演出。

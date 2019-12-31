@@ -1,4 +1,4 @@
-> 本文内容由[鈴木Mighty Boy](https://zh.wikipedia.org/wiki/鈴木Mighty Boy)转换而来。
+> 本文内容由[鈴木Mighty Boy](https://zh.wikipedia.org/wiki/鈴木Mighty_Boy)转换而来。
 
 
 **鈴木Mighty Boy**（）乃是[日本](../Page/日本.md "wikilink")鈴木汽車工業（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1983年至1988年間開發製造的，衍生自[第二代鈴木Cervo](https://zh.wikipedia.org/wiki/鈴木Cervo#第二代SS40型（1982年-1987年） "wikilink")，車迷常暱稱其為「Ma坊（）」\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[E·梅爾文·波特](https://zh.wikipedia.org/wiki/E·梅爾文·波特)转换而来。
+
+
 **愛德華·梅爾文·波特**（；），是美國的[民主黨政治人物](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")、律師及[民權活動家](../Page/公民权利和政治权利.md "wikilink")，前[俄克拉何马州参议院議員](https://zh.wikipedia.org/wiki/俄克拉何马州参议院 "wikilink")。
 
 ## 生平

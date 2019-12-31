@@ -1,4 +1,4 @@
-> 本文内容由[SCREEN mode](https://zh.wikipedia.org/wiki/SCREEN mode)转换而来。
+> 本文内容由[SCREEN mode](https://zh.wikipedia.org/wiki/SCREEN_mode)转换而来。
 
 
 **SCREEN mode**（）是由歌手[林勇](../Page/林勇.md "wikilink")與作曲家[太田雅友](../Page/太田雅友.md "wikilink")所組成的[日本](../Page/日本.md "wikilink")樂團。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。

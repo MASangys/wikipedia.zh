@@ -1,4 +1,4 @@
-> 本文内容由[Release Me \(威爾森·菲利浦歌曲\)](https://zh.wikipedia.org/wiki/Release Me \(威爾森·菲利浦歌曲\))转换而来。
+> 本文内容由[Release Me \(威爾森·菲利浦歌曲\)](https://zh.wikipedia.org/wiki/Release_Me_\(威爾森·菲利浦歌曲\))转换而来。
 
 
 《**Release Me**》是美國白人女子三人重唱[威尔森·菲利浦](../Page/威尔森·菲利浦.md "wikilink")（）在1990年6月發行的單曲，這是該團推出的第2首單曲，此單曲在告示牌單曲榜奪得2週冠軍，成為該團第2首全美冠軍單曲\[1\]\[2\]。

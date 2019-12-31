@@ -1,4 +1,4 @@
-> 本文内容由[皇宇 \(ZECO\)](https://zh.wikipedia.org/wiki/皇宇 \(ZECO\))转换而来。
+> 本文内容由[皇宇 \(ZECO\)](https://zh.wikipedia.org/wiki/皇宇_\(ZECO\))转换而来。
 
 
 **皇宇（ZECO）**，[臺灣](../Page/臺灣.md "wikilink")的[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，擅長設計機械、美少女、軍武題材，2009年在中央研究院數位文化中心的邀約下於其所屬文化振興雜誌『[CCC創作集](../Page/CCC創作集.md "wikilink")（Creative Comic Collection）』繪製了《陽炎少女丹陽》的一系列插圖\[1\]，發表後在日本獲得迴響，以此為契機，2011年在日本COMIC GUM月刊展開了漫畫作品《[鋼鐵少女](../Page/钢铁少女.md "wikilink")》的連載\[2\]，可說是戰艦[擬人化風潮的先驅](https://zh.wikipedia.org/wiki/擬人化 "wikilink")，並展開多元的跨領域作企劃。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Just You and I](https://zh.wikipedia.org/wiki/Just_You_and_I)转换而来。
+
+
 《**Just You and I**》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2017年5月31日發行的第47張單曲，為安室引退樂壇前最後一張實體單曲。
 
 ## 簡介

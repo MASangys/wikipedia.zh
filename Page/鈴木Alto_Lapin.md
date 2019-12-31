@@ -1,4 +1,4 @@
-> 本文内容由[鈴木Alto Lapin](https://zh.wikipedia.org/wiki/鈴木Alto Lapin)转换而来。
+> 本文内容由[鈴木Alto Lapin](https://zh.wikipedia.org/wiki/鈴木Alto_Lapin)转换而来。
 
 
 鈴木Alto Lapin（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2002年起開始製造發售的[輕型](../Page/輕型車.md "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")、[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。關於車名「Lapin」在[法語中意指](https://zh.wikipedia.org/wiki/法語 "wikilink")[兔子](https://zh.wikipedia.org/wiki/兔子 "wikilink")，由於該車款之目標對象為[女性](../Page/女性.md "wikilink")車主，可愛的車身外觀符合此名稱\[1\]。此外，該車款之第一代曾[換牌生產成](../Page/换牌工程.md "wikilink")[馬自達Spiano](../Page/馬自達Spiano.md "wikilink")。 {{-}}

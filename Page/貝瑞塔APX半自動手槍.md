@@ -1,3 +1,6 @@
+> 本文内容由[貝瑞塔APX半自動手槍](https://zh.wikipedia.org/wiki/貝瑞塔APX半自動手槍)转换而来。
+
+
 **貝瑞塔APX**（）是一款由[義大利的槍械製造商](https://zh.wikipedia.org/wiki/義大利 "wikilink")[貝瑞塔](../Page/貝瑞塔.md "wikilink")為[美軍](https://zh.wikipedia.org/wiki/美軍 "wikilink")（XM17 MHS competition）而設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")、和[.40 S\&W這三種手槍](../Page/.40_S&W.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 以前貝瑞塔曾以更低的價格提供其[M9A3型號](../Page/貝瑞塔M9手槍.md "wikilink")，用以作為M9採購計劃的延續。但其後據悉M9A3的變化實在非常顯著，超出了工程變更建議書（ECP）的範圍而遭到拒絕，而[國防部更傾向展開全新的採購競標](../Page/美国国防部.md "wikilink")。\[2\]

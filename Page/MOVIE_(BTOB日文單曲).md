@@ -1,3 +1,6 @@
+> 本文内容由[MOVIE \(BTOB日文單曲\)](https://zh.wikipedia.org/wiki/MOVIE_\(BTOB日文單曲\))转换而来。
+
+
 《**MOVIE（JPN ver.）**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第六張日語單曲，同時也是BTOB第十張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Feel'eM](../Page/Feel'eM.md "wikilink")》主打曲「MOVIE」的日文版。2017年5月3日於[日本](../Page/日本.md "wikilink")正式發行。
 
 ## 專輯資訊

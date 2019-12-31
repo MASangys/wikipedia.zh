@@ -1,3 +1,6 @@
+> 本文内容由[Good Timing](https://zh.wikipedia.org/wiki/Good_Timing)转换而来。
+
+
 《**Good Timing**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B1A4](../Page/B1A4.md "wikilink")的第三張韓語正規專輯，於2016年11月28日發行，主打曲為〈是謊言啊〉。
 
 ## 公開

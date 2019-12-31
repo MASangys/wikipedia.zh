@@ -1,3 +1,6 @@
+> 本文内容由[Accelerated Mobile Pages](https://zh.wikipedia.org/wiki/Accelerated_Mobile_Pages)转换而来。
+
+
 （简称**AMP**，意为“加速移动页面”）是[Google](../Page/Google.md "wikilink")带领开发的[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，目的是为提升[移动设备](../Page/移动设备.md "wikilink")对[网站的访问速度](../Page/網站.md "wikilink")\[1\]。AMP也可指其衍生的标准和[库等项目成果](../Page/函式庫.md "wikilink")。AMP在[HTML](../Page/HTML.md "wikilink")等广泛使用的网络技术基础上进行改良，它的核心称作，是HTML的一种。服务于技术预览期结束后的2016年2月正式发布\[2\]\[3\]\[4\]。
 
 ## 构成

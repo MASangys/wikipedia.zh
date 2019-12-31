@@ -1,3 +1,6 @@
+> 本文内容由[安琪TV](https://zh.wikipedia.org/wiki/安琪TV)转换而来。
+
+
 **安琪TV**（），是[印度](../Page/印度.md "wikilink")的一家[基督教](../Page/基督教.md "wikilink")电视台，由“三位一体公共电视有限公司”（Trinity Television）创立，通过[卫星电视](../Page/卫星电视.md "wikilink")、[有线电视](../Page/有线电视.md "wikilink")及网络播出\[1\]。
 
 ## 概要

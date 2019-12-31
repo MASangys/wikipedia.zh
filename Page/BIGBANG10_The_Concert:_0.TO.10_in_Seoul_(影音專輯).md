@@ -1,3 +1,6 @@
+> 本文内容由[BIGBANG10 The Concert: 0.TO.10 in Seoul \(影音專輯\)](https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_in_Seoul_\(影音專輯\))转换而来。
+
+
 《**BIGBANG10 The Concert：0.TO.10 in Seoul**》\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG在](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2016年8月20日於[首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")舉行的「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」第二場公演所推出的演唱會影音專輯，分別於2017年2月8日、9日及17日在日本、韓國、臺灣發行，此次演唱會共吸引6萬5千名歌迷進場觀賞，亦成為韓國史上動員最多觀眾的演出\[2\]。此張演唱會專輯共以三種不同版本推出，均收錄「0.TO.10 in Seoul」的現場盛況。
 
 ## 發行版本

@@ -1,3 +1,6 @@
+> 本文内容由[勇氣Fighter](https://zh.wikipedia.org/wiki/勇氣Fighter)转换而来。
+
+
 《**勇氣Fighter**》（）是[日本](../Page/日本.md "wikilink")男[歌手](../Page/歌手.md "wikilink")的首張單曲。1992年5月1日由[EMI MUSIC JAPAN（舊名東芝EMI）發行](../Page/EMI音樂日本.md "wikilink")。
 
 ## 概要

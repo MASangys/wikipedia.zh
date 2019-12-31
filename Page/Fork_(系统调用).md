@@ -1,3 +1,6 @@
+> 本文内容由[Fork \(系统调用\)](https://zh.wikipedia.org/wiki/Fork_\(系统调用\))转换而来。
+
+
 在[计算机领域中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，尤其是[Unix及](../Page/UNIX.md "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")操作系统中，**fork**（进程复制）是一种创建自身[行程](../Page/行程.md "wikilink")副本的操作。它通常是[内核](../Page/内核.md "wikilink")实现的一种[系统调用](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。Fork是类Unix操作系统上创建进程的一种主要方法，甚至历史上是唯一方法。
 
 ## 概述

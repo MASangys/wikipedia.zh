@@ -1,3 +1,6 @@
+> 本文内容由[O-Bahn公交车道](https://zh.wikipedia.org/wiki/O-Bahn公交车道)转换而来。
+
+
 **O-Bahn公交车道**（简称**O-Bahn**，[音译](../Page/音译.md "wikilink")**奥巴恩**）是位于[南澳大利亚州](../Page/南澳大利亚州.md "wikilink")[阿德莱德](../Page/阿德莱德.md "wikilink")的[导向公交车道](../Page/導向巴士.md "wikilink")。该车道作为当地[快速公交系统的一部分](https://zh.wikipedia.org/wiki/快速公交系统 "wikilink")，用于服务阿德莱德东北郊区的乘客。O-Bahn系统的想法最初由[戴姆勒](../Page/戴姆勒.md "wikilink")设想提出，最初的目的是为了能够让[德国](../Page/德国.md "wikilink")[埃森](../Page/埃森.md "wikilink")的公交车能够与[有轨电车的隧道共用](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，以便在运行时避开其他交通的拥堵。
 
 阿德莱德O-Bahn在1986年正式通车，用于应对的迅速发展，并以此取代了早期的计划。O-Bahn公交车道使用集合了公交与铁路系统元素的特制的轨道，连接[錦林息公共運輸交匯處](../Page/錦林息公共運輸交匯處.md "wikilink")、[北樂提公共運輸交匯處](../Page/北樂提公共運輸交匯處.md "wikilink")和位于的[茶樹廣場公共運輸交匯處](https://zh.wikipedia.org/wiki/茶樹廣場公共運輸交匯處 "wikilink")，全长12公里，用时15分钟。公交车也可以在各中转站离开O-Bahn，进入普通道路继续行驶，避免了乘客转车的困扰。轨道上的公交车可以以最高100千米/时的速度行驶，一小时内从[阿德萊德市中心到茶树广场的最大载客量可达](https://zh.wikipedia.org/wiki/阿德萊德市中心 "wikilink")18,000人次。，O-Bahn工作日每日客流量达31,000人次。\[1\]

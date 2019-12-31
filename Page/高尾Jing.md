@@ -1,3 +1,6 @@
+> 本文内容由[高尾Jing](https://zh.wikipedia.org/wiki/高尾Jing)转换而来。
+
+
 **高尾Jing**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。男性\[1\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")。代表作有《》、《[BAMBOO BLADE C](../Page/BAMBOO_BLADE.md "wikilink")》。
 
 ## 作品列表

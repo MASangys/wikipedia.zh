@@ -1,3 +1,6 @@
+> 本文内容由[HTC U11](https://zh.wikipedia.org/wiki/HTC_U11)转换而来。
+
+
 **HTC U11**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，目前運行[Android 9.0.0](../Page/Android_Pie.md "wikilink")（出廠版本為[Android 7.1.1](../Page/Android_Nougat.md "wikilink")）操作系统，同級競品為[Samsung Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[Asus ZenFone 4 Pro](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017\) "wikilink")、[LG G6](../Page/LG_G6.md "wikilink")、[iPhone 8](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")。
 
 ## 簡介

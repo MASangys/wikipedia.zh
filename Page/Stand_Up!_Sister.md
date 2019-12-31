@@ -1,3 +1,6 @@
+> 本文内容由[Stand Up! Sister](https://zh.wikipedia.org/wiki/Stand_Up!_Sister)转换而来。
+
+
 \-{「}-**Stand Up\! Sister**-{」}-（）是YUKI的第4张单曲。2002年11月20日由EPIC Records Japan发行\[1\]。
 
 ## 简介

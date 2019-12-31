@@ -1,4 +1,4 @@
-> 本文内容由[触控 ID](https://zh.wikipedia.org/wiki/触控 ID)转换而来。
+> 本文内容由[触控 ID](https://zh.wikipedia.org/wiki/触控_ID)转换而来。
 
 
 [缩略图](https://zh.wikipedia.org/wiki/File:IPhone_6s_-_Touch_ID_front_view-93104.jpg "fig:缩略图")的Touch ID模組\]\] -{zh-hans:**触控 ID**（）;zh-hant:**Touch ID** }-是[苹果公司设计发布的一款](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[指纹识别](../Page/指纹识别.md "wikilink")功能，使用在[iPhone 5S](../Page/IPhone_5s.md "wikilink")、iPhone SE、iPhone 6、[iPhone 6 Plus](../Page/IPhone_6.md "wikilink")、iPhone 6s、[iPhone 6s Plus](https://zh.wikipedia.org/wiki/IPhone_6S "wikilink")、iPhone 7、[iPhone 7 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")、iPhone 8、[iPhone 8 Plus](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")、[iPad Air 2](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")、[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")、[iPad Mini 3](../Page/IPad_mini_3.md "wikilink")、[iPad Mini 4](../Page/IPad_mini_4.md "wikilink")、[MacBook Pro](../Page/MacBook_Pro.md "wikilink") (2016與其後繼機型配備Touch bar版)與[MacBook Air](../Page/MacBook_Air.md "wikilink") (2018 Retina與後繼機型）。

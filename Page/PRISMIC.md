@@ -1,3 +1,6 @@
+> 本文内容由[PRISMIC](https://zh.wikipedia.org/wiki/PRISMIC)转换而来。
+
+
 \-{『}--{』}-是[YUKI在乐队](../Page/YUKI_\(歌手\).md "wikilink")解散以后第一张专辑。2002年3月27日由EPIC Records Japan发行\[1\]\[2\]。
 
 ## 简介

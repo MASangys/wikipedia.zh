@@ -1,3 +1,6 @@
+> 本文内容由[Lovelyz所愛的加拿大](https://zh.wikipedia.org/wiki/Lovelyz所愛的加拿大)转换而来。
+
+
 《**Lovelyz所愛的加拿大**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SkyTravel自](https://zh.wikipedia.org/wiki/SkyTravel "wikilink")2017年6月8日起於[Youtube播出的](https://zh.wikipedia.org/wiki/Youtube "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，節目讓[Lovelyz以平凡少女的身分](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，分隊前往[加拿大](../Page/加拿大.md "wikilink")進行對抗\[1\]。
 
 ## 各集內容

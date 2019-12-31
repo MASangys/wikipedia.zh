@@ -1,3 +1,6 @@
+> 本文内容由[Asko](https://zh.wikipedia.org/wiki/Asko)转换而来。
+
+
 阿斯科
 
 **Asko Appliances AB**（大陸地區稱**雅士高**，臺灣地區稱**瑞典賽寧家電**），簡稱**Asko**，是一家[瑞典](../Page/瑞典.md "wikilink")的[家用電器製造公司](../Page/家用电器.md "wikilink")，其主要產品有[洗碗機](../Page/洗碗機.md "wikilink")、[洗衣機](../Page/洗衣機.md "wikilink")，[烘衣機](https://zh.wikipedia.org/wiki/烘衣機 "wikilink")。其總部位於[西約特蘭](https://zh.wikipedia.org/wiki/西約特蘭 "wikilink")[瓦拉市的Jung](https://zh.wikipedia.org/wiki/瓦拉市 "wikilink")。 其產品在瑞典持續以ASKO品牌出售，並以相同的名稱出口。在北美，台灣Asko只引入洗碗機，洗衣機，乾衣櫃，烤箱，蒸烤爐及冰箱。

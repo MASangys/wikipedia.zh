@@ -1,3 +1,6 @@
+> 本文内容由[腹語師 \(DC漫畫\)](https://zh.wikipedia.org/wiki/腹語師_\(DC漫畫\))转换而来。
+
+
 **腹語師**（），是一名在[DC漫畫](../Page/DC漫畫.md "wikilink")出版的漫畫中登場的[虛構人物與](https://zh.wikipedia.org/wiki/虛構人物 "wikilink")[超級反派](https://zh.wikipedia.org/wiki/超級反派 "wikilink")。在DC漫畫宇宙中是[蝙蝠俠](../Page/蝙蝠俠.md "wikilink")的敵人之一。
 
 ## 虛構傳記

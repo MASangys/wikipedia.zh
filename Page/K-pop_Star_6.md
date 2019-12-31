@@ -1,3 +1,6 @@
+> 本文内容由[K-pop Star 6](https://zh.wikipedia.org/wiki/K-pop_Star_6)转换而来。
+
+
 ## 海选阵容
 
 ### Casting 結果

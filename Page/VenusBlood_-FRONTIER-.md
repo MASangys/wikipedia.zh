@@ -1,4 +1,7 @@
-《**VenusBlood -FRONTIER-**》是由日本遊戲品牌dualtail製作於2012年4月27日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第五部作品，2016年12月22日發售續作《VenusBlood -RAGNAROK-》。\[2\]
+> 本文内容由[VenusBlood -FRONTIER-](https://zh.wikipedia.org/wiki/VenusBlood_-FRONTIER-)转换而来。
+
+
+《**VenusBlood -FRONTIER-**》是由日本遊戲品牌dualtail製作於2012年4月27日發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，VenusBlood系列的第五部作品，2016年12月22日發售續作《VenusBlood -RAGNAROK-》。\[2\]2019年12月20日發售日文和英文的國際版\[3\]，預定將在[Steam](../Page/Steam.md "wikilink")發售簡體中文版。
 
 ## 故事
 
@@ -43,17 +46,17 @@
 ## 主題曲
 
   - 片頭曲「命運鑰匙（）」
-    作詞：悠季，作曲、編曲：伊吹ユキヒロ，主唱：solfa feat.悠季\[3\]
+    作詞：悠季，作曲、編曲：伊吹ユキヒロ，主唱：solfa feat.悠季\[4\]
   - 片尾曲「blank page」
     作詞：天ヶ咲麗，作曲、編曲：iyuna，主唱：solfa feat.iyuna
 
 ## 工作人員
 
   - 企劃：dualtail
-  - 原畫：トシぞー、丹下ゲンタ、桐川いくむ、白家ミカ
-  - SD角色：丹下ゲンタ、トシぞー、実々みみず
-  - 角色設計：継宮凰姫
-  - 劇本：久巳友和、イルカ、け～まる
+  - 原畫：トシぞー、丹下ゲンタ、桐川いくむ、白家ミカ、実々みみず（國際版）、塩屋染（國際版）、継宮凰姫（國際版）
+  - SD角色：丹下ゲンタ、トシぞー、実々みみず、塩屋染（國際版）
+  - 角色設計：継宮凰姫、丹下ゲンタ（國際版）、ウキヨライフ（國際版）
+  - 劇本：久巳友和、イルカ、け～まる、オガタカ（國際版）
   - 演出：樋舘誠、ミスターN
   - 程式：tomsan
   - 音樂：solfa
@@ -63,7 +66,7 @@
 
 ## 評價
 
-《VenusBlood -FRONTIER-》於2012年獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")的エロス系作品賞BLACK金賞。\[4\]
+《VenusBlood -FRONTIER-》於2012年獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")的エロス系作品賞BLACK金賞。\[5\]
 
 ## 相關條目
 
@@ -74,13 +77,14 @@
 
 ## 外部連結
 
-  - [ninetail](http://ninetail.tk/)
   - [官方網站](http://ninetail.tk/td10/VenusBlood-FRONTIER-.html)
   - [英文版官方網站](http://www.ninetail.tk/tde10/index.html)
+  - [國際版官方網站](http://www.ninetail.tk/td10I/VenusBloodFRONTIER_intl_jp.html)
 
-[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:北歐神話題材作品](https://zh.wikipedia.org/wiki/Category:北歐神話題材作品 "wikilink")
+[Category:2012年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2012年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:模擬遊戲](https://zh.wikipedia.org/wiki/Category:模擬遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:北歐神話題材作品](https://zh.wikipedia.org/wiki/Category:北歐神話題材作品 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
 
 1.
 2.
 3.
 4.
+5.

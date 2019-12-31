@@ -1,3 +1,6 @@
+> 本文内容由[Redux \(JavaScript函式庫\)](https://zh.wikipedia.org/wiki/Redux_\(JavaScript函式庫\))转换而来。
+
+
 **Redux**一个用于应用程序状态管理的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[JavaScript库](https://zh.wikipedia.org/wiki/JavaScript库 "wikilink")。Redux经常与[React](../Page/React.md "wikilink")搭配运用，但其也可以独立使用。
 
 ## 历史
@@ -16,5 +19,4 @@ Redux由Dan Abramov与 Andrew Clark于2015年创建。\[1\]Redux是由[Facebook]
 
 1.
 2.
-
 3.

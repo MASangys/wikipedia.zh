@@ -1,3 +1,6 @@
+> 本文内容由[INORAN](https://zh.wikipedia.org/wiki/INORAN)转换而来。
+
+
 **INORAN**（，）是一位[日本](../Page/日本.md "wikilink")音樂家、結他手、歌手及作曲家，是日本知名搖滾樂團[LUNA SEA的節奏結他手及始創人之一](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")。本名**井上清信**（），生於[日本神奈川縣](../Page/神奈川縣.md "wikilink")[秦野市](../Page/秦野市.md "wikilink")，神奈川縣立大秦野高等學校畢業。INORAN是一名左撇子。目前為LUNA SEA、Tourbillon及Muddy Apes的成員。
 
 ## 經歷

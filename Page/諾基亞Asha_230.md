@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Asha 230](https://zh.wikipedia.org/wiki/諾基亞Asha_230)转换而来。
+
+
 **諾基亞Asha 230**是[諾基亞生產的平板式](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，2014年2月24日發布。
 
 ## 規格

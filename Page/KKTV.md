@@ -1,3 +1,6 @@
+> 本文内容由[KKTV](https://zh.wikipedia.org/wiki/KKTV)转换而来。
+
+
 **KKTV**為[日本](../Page/日本.md "wikilink")[KDDI](../Page/KDDI.md "wikilink")集團旗下[KKBOX](../Page/KKBOX.md "wikilink")所成立的[OTT](https://zh.wikipedia.org/wiki/OTT "wikilink")(Over-The-Top)品牌，結合[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陆各地的影音內容](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")，與影音串流服務，除了在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")推出[軟體提供用戶隨身收看外](https://zh.wikipedia.org/wiki/軟體 "wikilink")，也支援[中華電信MOD](../Page/中華電信MOD.md "wikilink")、[AirPlay和](https://zh.wikipedia.org/wiki/AirPlay "wikilink")[Chromecast](../Page/Chromecast.md "wikilink")，可以直接將影音內容投放到電視上使用\[1\]。
 
 除了海內外授權戲劇內容，KKTV也投入自製原生內容，目前已上架五部自製劇。

@@ -1,3 +1,6 @@
+> 本文内容由[Ghost RE:BIRTH](https://zh.wikipedia.org/wiki/Ghost_RE:BIRTH)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

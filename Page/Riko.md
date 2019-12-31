@@ -1,3 +1,6 @@
+> 本文内容由[Riko](https://zh.wikipedia.org/wiki/Riko)转换而来。
+
+
 **金珠妍**（，，），藝名為**Riko**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，曾為DR Music旗下女子組合[RANIA](../Page/RANIA.md "wikilink")的主唱擔當。在出道前，**Riko**亦為[RANIA](../Page/RANIA.md "wikilink")的隊長。
 
 由於從小在[日本](../Page/日本.md "wikilink")學習，因此所以[日文很流利](https://zh.wikipedia.org/wiki/日文 "wikilink")。

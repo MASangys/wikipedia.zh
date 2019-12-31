@@ -1,4 +1,4 @@
-> 本文内容由[Show Me The Money](https://zh.wikipedia.org/wiki/Show Me The Money)转换而来。
+> 本文内容由[Show Me The Money](https://zh.wikipedia.org/wiki/Show_Me_The_Money)转换而来。
 
 
 **Show Me The Money**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet制作并播出的大型](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，第一季于2012年在[Mnet](../Page/Mnet.md "wikilink")首播。节目带动了Hiphop音乐在韩国的流行，\[1\]\[2\]每季參賽人數不斷增加；同時也因為[饒舌](../Page/饒舌.md "wikilink")歌手在說唱時都會說[髒話](../Page/髒話.md "wikilink")和比出因此也造成了不少的爭議。\[3\]

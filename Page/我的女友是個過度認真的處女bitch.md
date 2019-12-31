@@ -1,3 +1,6 @@
+> 本文内容由[我的女友是個過度認真的處女bitch](https://zh.wikipedia.org/wiki/我的女友是個過度認真的處女bitch)转换而来。
+
+
 是由創作的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於2015年7月20日開始在[KADOKAWA](../Page/KADOKAWA.md "wikilink")的[網路漫畫網站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")「Comic Newtype」連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年10月11日起[AT-X](../Page/AT-X.md "wikilink")首播，日文標題更名為「****」。
 
 ## 故事簡介

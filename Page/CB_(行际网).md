@@ -1,4 +1,4 @@
-> 本文内容由[CB \(行际网\)](https://zh.wikipedia.org/wiki/CB \(行际网\))转换而来。
+> 本文内容由[CB \(行际网\)](https://zh.wikipedia.org/wiki/CB_\(行际网\))转换而来。
 
 
 **Groupement des Cartes Bancaires CB**（意为CB[银行卡](../Page/银行卡.md "wikilink")集团），亦被人们称作**CB**，是[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")，拥有超过46,000台[自动柜员机以及超过](https://zh.wikipedia.org/wiki/自动柜员机 "wikilink")100万个受理点。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[AQUOS](https://zh.wikipedia.org/wiki/AQUOS)转换而来。
+
+
 [TVPixel.jpg](https://zh.wikipedia.org/wiki/File:TVPixel.jpg "fig:TVPixel.jpg") **夏普Aquos**（），是一个日本[夏普公司创建的](https://zh.wikipedia.org/wiki/夏普 "wikilink")和部件的品牌。它从小型可持有款式（比如13吋B系列）到大型电视戏院屏幕（比如65吋高清系列），此外还为一些移动手机等设备提供屏幕。
 
 ## 概述

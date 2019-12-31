@@ -1,3 +1,6 @@
+> 本文内容由[NEO \(电玩家\)](https://zh.wikipedia.org/wiki/NEO_\(电玩家\))转换而来。
+
+
 **NEO**，原名**菲利普·鮑里斯·庫布斯基**（，），波兰[反恐精英](../Page/反恐精英.md "wikilink")项目职业电子竞技选手。2004年加入PGS，并带领战队获2006年[WCG](../Page/世界电子竞技大赛.md "wikilink")、2007年[ESWC冠军](https://zh.wikipedia.org/wiki/ESWC "wikilink")。2007年获eSports Award最佳电竞选手奖，2008年被HLTV票选为“十年最佳选手”。2009年率AGAiN战队击败Fnatic再次获WCG冠军。2011年率ESC Gaming第三次获WCG冠军。2011年带领团队或4次MVP奖项。2012年后转攻[CS:GO](https://zh.wikipedia.org/wiki/CS:GO "wikilink")，率ESC获IEM大师赛冠军。NEO以凶狠枪法知名，常常能带领队伍实现逆转。\[1\]\[2\]
 
 ## 参考资料

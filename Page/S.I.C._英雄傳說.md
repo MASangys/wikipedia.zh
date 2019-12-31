@@ -1,3 +1,6 @@
+> 本文内容由[S.I.C. 英雄傳說](https://zh.wikipedia.org/wiki/S.I.C._英雄傳說)转换而来。
+
+
 ****是基於[假面騎士系列](../Page/假面騎士系列.md "wikilink")以及 **Super Imaginative Chogokin** 模型的一系列模型小説，於《月刊 Hobby Japan》連載。
 
 ## 標題列表

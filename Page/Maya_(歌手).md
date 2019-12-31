@@ -1,4 +1,4 @@
-> 本文内容由[Maya \(歌手\)](https://zh.wikipedia.org/wiki/Maya \(歌手\))转换而来。
+> 本文内容由[Maya \(歌手\)](https://zh.wikipedia.org/wiki/Maya_\(歌手\))转换而来。
 
 
 **Maya**（音譯，，本名**金英淑**）[大韓民國實力女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，[作詞家](../Page/填詞.md "wikilink")，亦是參加多個[戲劇演出的](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[演員](../Page/演員.md "wikilink")

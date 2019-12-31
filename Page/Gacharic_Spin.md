@@ -1,3 +1,6 @@
+> 本文内容由[Gacharic Spin](https://zh.wikipedia.org/wiki/Gacharic_Spin)转换而来。
+
+
 **Gacharic Spin** 是[日本](../Page/日本.md "wikilink")的5人女子搖滾樂團，於2009年6月組成。現任成員有F チョッパー KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依.md "wikilink")，團員組成有[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[鍵盤手與表演者](https://zh.wikipedia.org/wiki/键盘手 "wikilink")，主要音樂類型為[J-POP與](../Page/日本流行音樂.md "wikilink")[搖滾樂等](../Page/摇滚乐.md "wikilink")\[1\]
 
 ## 成員

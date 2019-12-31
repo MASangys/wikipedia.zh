@@ -1,4 +1,4 @@
-> 本文内容由[Nexus 6P](https://zh.wikipedia.org/wiki/Nexus 6P)转换而来。
+> 本文内容由[Nexus 6P](https://zh.wikipedia.org/wiki/Nexus_6P)转换而来。
 
 
 **Nexus 6P**（代号 Angler）是一款[Google](../Page/Google.md "wikilink")在2015年推出，由[华为](../Page/华为.md "wikilink")代工的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。在2015年9月29日，Google发布两款新[Nexus系列的智能手机](../Page/Google_Nexus.md "wikilink")，分别为LG生产基本款的[Nexus 5X](../Page/Nexus_5X.md "wikilink")，及华为生产高端市場的Nexus 6P。此两款新手机将主打摄像头技术、传感器技术和安全性等特色。Nexus 6P运行[Android 6.0 "Marshmallow"系统](../Page/Android_Marshmallow.md "wikilink")。\[1\]

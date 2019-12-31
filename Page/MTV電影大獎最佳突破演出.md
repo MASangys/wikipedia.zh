@@ -1,3 +1,6 @@
+> 本文内容由[MTV電影大獎最佳突破演出](https://zh.wikipedia.org/wiki/MTV電影大獎最佳突破演出)转换而来。
+
+
 **MTV電影大獎最佳突破演出**（MTV Movie Award for Best Breakthrough Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org/wiki/MTV電影大獎 "wikilink")，頒發給於電影中有突破演出的演員，於1992年開始頒發。
 
 ## 歷屆得主

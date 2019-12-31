@@ -1,3 +1,6 @@
+> 本文内容由[模块:Italic title](https://zh.wikipedia.org/wiki/模块:Italic_title)转换而来。
+
+
 \-- This module implements .
 
 require('Module:No globals') local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local checkTypeForNamedArg = libraryUtil.checkTypeForNamedArg local yesno = require('Module:Yesno')
