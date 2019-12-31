@@ -1,3 +1,6 @@
+> 本文内容由[Apple A13](https://zh.wikipedia.org/wiki/Apple_A13)转换而来。
+
+
 **Apple A13 Bionic**（仿生）是[苹果公司设计的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[64位元](../Page/64位元.md "wikilink")系統单晶片。这款[SoC于](https://zh.wikipedia.org/wiki/SoC "wikilink")2019年9月11日发布，采用[台積電第二代](https://zh.wikipedia.org/wiki/台積電 "wikilink")[7nm制程工艺](../Page/7纳米制程.md "wikilink")，内有85亿个晶体管。首先被搭载于[iPhone 11及](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")[iPhone 11 Pro中](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")。
 
 ## 设计

@@ -1,3 +1,6 @@
+> 本文内容由[Cloud9 IDE](https://zh.wikipedia.org/wiki/Cloud9_IDE)转换而来。
+
+
 **Cloud9 IDE**是一个在线[集成开发环境](../Page/集成开发环境.md "wikilink")，从2.0版到3.0版都是以[开放性源代码的形式发布的](https://zh.wikipedia.org/wiki/开源 "wikilink")。它支持多种编程语言，主要包括[C](https://zh.wikipedia.org/wiki/C語言 "wikilink"),[c++](https://zh.wikipedia.org/wiki/c++ "wikilink")， [PHP](../Page/PHP.md "wikilink"), [Ruby](../Page/Ruby.md "wikilink"), [Perl](../Page/Perl.md "wikilink"), [Python](../Page/Python.md "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink") 在 [Node.js](../Page/Node.js.md "wikilink"),和[Go](../Page/Go.md "wikilink")两种平台上的应用。 它几乎是用JavaScript编写成的，并使用Node.js作为后台伺服器。编辑器组件使用[Ace(editor)](https://zh.wikipedia.org/wiki/Ace\(editor\) "wikilink")。
 
 Cloud9于2016年7月被亚马逊收购。\[1\]截至2018年3月，在Cloud9原有网站上注册的账户有的还在使用，但新注册的账户可能不会通过审核，这是因为Cloud9现在是亚马逊网络服务器(AWS)的一部分，因此，新用户必须拥有一个AWS的帐户才能使用Cloud9的服务。\[2\]

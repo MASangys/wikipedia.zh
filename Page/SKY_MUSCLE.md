@@ -1,3 +1,6 @@
+> 本文内容由[SKY MUSCLE](https://zh.wikipedia.org/wiki/SKY_MUSCLE)转换而来。
+
+
 《**偉大的運動場－SKY MUSCLE**》（），簡稱**SKY MUSCLE**，為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的試播節目\[1\]，由[俞世潤](../Page/俞世潤.md "wikilink")、[朴娜勑](../Page/朴娜勑.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）、[權赫秀](../Page/權赫秀.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")）、[JooE](../Page/JooE.md "wikilink")（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）\[2\]及知名健身教練梁致勝等人共同演出，節目主軸為演藝界「運動人代表們」變身為運動教練，與想要進行體力和身材管理的參加者們一起愉快地運動\[3\]\[4\]。
 
 ## 節目成員

@@ -1,3 +1,6 @@
+> 本文内容由[UiO-66](https://zh.wikipedia.org/wiki/UiO-66)转换而来。
+
+
 **UiO-66**是一种[金属有机框架材料](../Page/金属有机框架材料.md "wikilink")，化学式为C<sub>48</sub>H<sub>28</sub>O<sub>32</sub>Zr<sub>6</sub>，它由[对苯二甲酸](../Page/对苯二甲酸.md "wikilink")的有机骨架链接[锆](../Page/锆.md "wikilink")结点而成。UiO为[奥斯陆大学](../Page/奥斯陆大学.md "wikilink")[挪威语](../Page/挪威语.md "wikilink")（Universitetet i Oslo）的缩写。
 
 ## 制备

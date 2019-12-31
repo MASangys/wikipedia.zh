@@ -1,3 +1,6 @@
+> 本文内容由[Vicetone](https://zh.wikipedia.org/wiki/Vicetone)转换而来。
+
+
 **Vicetone** 是來自[荷蘭的電子音樂雙人組](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，由 Ruben den Boer (1992年1月22日 - ) 和 Victor Pool (1992年7月9日 - ) 所組成。2013年，Vicetone 被票選為DJ雜誌百大DJ中的第60名\[1\] 。在2014年時，上升了24名來到第36名\[2\]，2015年下降了14名來到50名\[3\]。2016年再次下降31名來到81名。2019年再次入榜第83名\[4\]。
 
 ## 事業

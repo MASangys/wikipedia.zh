@@ -1,3 +1,6 @@
+> 本文内容由[ESP32](https://zh.wikipedia.org/wiki/ESP32)转换而来。
+
+
 **ESP32**是一系列低成本，低功耗的[單晶片微控制器](https://zh.wikipedia.org/wiki/單晶片 "wikilink")，集成了[Wi-Fi](../Page/Wi-Fi.md "wikilink")和雙模[藍牙](../Page/藍牙.md "wikilink")。 ESP32系列採用Tensilica Xtensa LX6微處理器，包括雙核心和單核變體，內建天線開關，RF變換器，[功率放大器](https://zh.wikipedia.org/wiki/功率放大器 "wikilink")，[低雜訊接收放大器](https://zh.wikipedia.org/wiki/低雜訊接收放大器 "wikilink")，濾波器和電源管理模組。
 
 ESP32 由總部位於[上海的中國公司](https://zh.wikipedia.org/wiki/上海 "wikilink")[樂鑫信息科技創建和開發](https://zh.wikipedia.org/wiki/樂鑫信息科技 "wikilink")，由[台積電採用](https://zh.wikipedia.org/wiki/台積電 "wikilink")40[奈米技術製造](https://zh.wikipedia.org/wiki/奈米 "wikilink")\[1\]。它是[ESP8266微控制器的後繼產品](https://zh.wikipedia.org/wiki/ESP8266 "wikilink")。

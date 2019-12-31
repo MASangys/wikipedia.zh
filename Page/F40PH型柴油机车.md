@@ -1,3 +1,6 @@
+> 本文内容由[F40PH型柴油机车](https://zh.wikipedia.org/wiki/F40PH型柴油机车)转换而来。
+
+
 **F40PH型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）于1970年代推出的一款干线客运[柴油机车](../Page/柴油機車.md "wikilink")。
 
 1970年，为了挽救岌岌可危的美国铁路客运业务，[美国国家铁路客运公司](../Page/美鐵.md "wikilink")（美铁）经[国会批准成立](../Page/美国国会.md "wikilink")，并于1971年5月1日起开始营运，接管了当时全美20家大型铁路公司的客运业务。1970年代初，为了汰换各种各样从不同铁路公司接手的柴油机车，美铁首先向易安迪公司订购了[SDP40F型柴油机车](../Page/SDP40F型柴油机车.md "wikilink")，随后又向[通用电气](../Page/通用电气.md "wikilink")公司订购了[P30CH型柴油机车](https://zh.wikipedia.org/wiki/P30CH型柴油机车 "wikilink")，用于牵引[长途城际](../Page/城际铁路.md "wikilink")[旅客列车](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")。而中短途城际旅客列车方面，美铁则引进了易安迪公司的F40PH型柴油机车。1975年5月8日，美铁向易安迪公司发出了首批30台F40PH型柴油机车的订单。1976年4月9日，首批F40PH型柴油机车正式投入服务，初期主要担当中短途旅客列车的牵引任务，例如[新英格兰地区的](https://zh.wikipedia.org/wiki/新英格蘭 "wikilink")[东北走廊城际列车和](https://zh.wikipedia.org/wiki/東北走廊 "wikilink")[南加州的](https://zh.wikipedia.org/wiki/南加利福尼亞州 "wikilink")。

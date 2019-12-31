@@ -1,3 +1,6 @@
+> 本文内容由[NuGet](https://zh.wikipedia.org/wiki/NuGet)转换而来。
+
+
 **NuGet**是一个[自由开源](../Page/自由及开放源代码软件.md "wikilink")[软件包管理系统](../Page/软件包管理系统.md "wikilink")。用于Microsoft开发平台。以前称NuPack。\[1\]\[2\]
 
 2010年首次发布。已经进化为一个庞大的工具与服务生态系统。\[3\]

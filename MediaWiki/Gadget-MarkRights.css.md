@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-MarkRights.css](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-MarkRights.css)转换而来。
+
+
 .markrights-bureaucrat:after {
 
 `   color: black;`

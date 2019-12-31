@@ -1,3 +1,6 @@
+> 本文内容由[模块:Tracklist](https://zh.wikipedia.org/wiki/模块:Tracklist)转换而来。
+
+
 \-- This module implements [Template:Tracklist](https://zh.wikipedia.org/wiki/Template:Tracklist "wikilink")
 
 local yesno = require('Module:Yesno') local checkType = require('libraryUtil').checkType

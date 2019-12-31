@@ -1,3 +1,6 @@
+> 本文内容由[Antares \(專輯\)](https://zh.wikipedia.org/wiki/Antares_\(專輯\))转换而来。
+
+
 《**Antares**》，是[加拿大](../Page/加拿大.md "wikilink")[华裔](https://zh.wikipedia.org/wiki/华裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[吳亦凡](../Page/吳亦凡.md "wikilink")的首張個人正規專輯，由[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")及[環球唱片共同製作與發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。2018年10月19日，開放預購以及發行與合唱的先導單曲《Coupe》，並於11月2日通過各大數位音樂網站公開線上音源 \[1\]，且於11月6日在國內全網上線\[2\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Lena \(韓國\)](https://zh.wikipedia.org/wiki/Lena_\(韓國\))转换而来。
+
+
 **Lena**， ，本名**姜萊娜** ，[韓國KIWI](https://zh.wikipedia.org/wiki/韓國 "wikilink") MEDIA GROUP旗下女團「[公園少女](https://zh.wikipedia.org/wiki/公園少女 "wikilink")」成員 ，在隊伍裡擔任第二主唱、門面、中心以及忙內。
 
 ## 學歷

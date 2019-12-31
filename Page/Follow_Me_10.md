@@ -1,3 +1,6 @@
+> 本文内容由[Follow Me 10](https://zh.wikipedia.org/wiki/Follow_Me_10)转换而来。
+
+
 《**Follow Me 10**》（）是韓國[Fashion N電視台的美妝美容綜藝節目](https://zh.wikipedia.org/wiki/Fashion_N "wikilink")，由[素珍](../Page/素珍_\(韓國歌手\).md "wikilink")（Girl's Day）\[1\]、[張熙軫](../Page/張熙軫.md "wikilink")\[2\]、[林玹珠](../Page/林玹珠.md "wikilink")\[3\]、[崔玟熙](../Page/崔玟熙.md "wikilink")（[BONUSbaby](../Page/BONUSbaby.md "wikilink")）\[4\]、[임보라](https://www.instagram.com/3.48kg)\[5\]等人主持，節目主軸為與每一期的嘉賓一起討論美妝、美容資訊與知識的綜藝節目\[6\]。
 
 ## 各集嘉賓

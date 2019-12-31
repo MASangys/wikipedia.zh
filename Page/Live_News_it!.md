@@ -1,3 +1,6 @@
+> 本文内容由[Live News it!](https://zh.wikipedia.org/wiki/Live_News_it!)转换而来。
+
+
 **Live News it\!**（日语片假名：）是[富士电视台和](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[富士新聞網](../Page/富士新聞網.md "wikilink")（FNN）各台播放的晚间新闻资讯节目，于2019年4月1日启播。\[1\]节目的缩写是“it\!”，部分报纸的电视节目指南中会写为“”（Live N it\!）。
 
 ## 摘要

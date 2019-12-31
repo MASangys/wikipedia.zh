@@ -1,3 +1,6 @@
+> 本文内容由[3D Touch](https://zh.wikipedia.org/wiki/3D_Touch)转换而来。
+
+
 \-{T|zh:3D Touch; zh-hans:三维触控; zh-hant:3D觸控}-
 
 **三维触控**（3D Touch）是[蘋果公司開發的一項技術](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，可以使觸控板和触摸屏區分施加在其表面上的各種力。它使用壓力傳感器，為Apple的設備添加另一種輸入方法。\[1\]\[2\]該技術於2014年9月9日在[Apple Watch推出期間首次亮相](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")。從Apple Watch開始，Force Touch已被整合到Apple陣容的許多產品中。這包括著名的MacBook和妙控板 2。該技術在[iPhone型號上稱為三维触控](https://zh.wikipedia.org/wiki/iPhone "wikilink")。該技術通過提供接受輸入的第三維來為軟件帶來可用性增強。訪問快捷方式、預覽詳細信息、繪圖藝術和系統範圍的功能，使用戶能夠通過在輸入表面上施加力來額外地與顯示的內容互動,不過目前蘋果公司的iPhone 11系列已經移除了3D Touch的功能

@@ -1,3 +1,6 @@
+> 本文内容由[Yujie Yao](https://zh.wikipedia.org/wiki/Yujie_Yao)转换而来。
+
+
 Yujie Yao ist in 1999 wegen Studium in Deutschland angekommen und war er am Anfang in der Stadt Magdeburg bzw. an der Universität Magdeburg und an der Hochschule Mittweida. Seit 2002 ist Yujie Yao zuerst zum Studium an der TU Dresdenm nach Dresden umgzogen und weiterhin in Dresden geblieben.
 
 Yujie Yao ist seit 2009 als Mitglied des Ausländerbeirates der Landeshauptstadt Dresden(aktuelle Name heißt Intergration und Ausländerbeirat der Landeshauptstadt Dresden)gewählt und bis heute 3. Mal wieder gewählt.

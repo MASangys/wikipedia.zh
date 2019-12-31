@@ -1,3 +1,6 @@
+> 本文内容由[Stray Kids World Tour \'District 9 : Unlock\'](https://zh.wikipedia.org/wiki/Stray_Kids_World_Tour_\'District_9_:_Unlock\')转换而来。
+
+
 **Stray Kids World Tour 'District 9 : Unlock**'是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的首次單獨世界巡迴演唱會。巡迴演唱會於2019年11月23、24日以首爾為起點，陸續將於其他國家及城市演出。
 
 ## 概述

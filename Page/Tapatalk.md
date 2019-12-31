@@ -1,3 +1,6 @@
+> 本文内容由[Tapatalk](https://zh.wikipedia.org/wiki/Tapatalk)转换而来。
+
+
 **Tapatalk**是一個在流動設備上的[互聯網論壇應用程序](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，由[Tapatalk Inc.開發](https://zh.wikipedia.org/wiki/Tapatalk_Inc. "wikilink")。\[1\]
 
 Tapatalk主要給流動設備提供更好的論壇平台，並且允許用戶可以在同一個介面同時訪問多個論壇。該應用程序最初是為[Android](../Page/Android.md "wikilink")設計的，但現在也支持[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") Phone模式。

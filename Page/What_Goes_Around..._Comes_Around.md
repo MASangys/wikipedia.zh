@@ -1,3 +1,6 @@
+> 本文内容由[What Goes Around... Comes Around](https://zh.wikipedia.org/wiki/What_Goes_Around..._Comes_Around)转换而来。
+
+
 **What Goes Around... Comes Around** 為[Jive唱片在](https://zh.wikipedia.org/wiki/Jive唱片 "wikilink")2006年12月推出的[當代節奏藍調單曲](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[賈斯汀·汀布萊克自己是](https://zh.wikipedia.org/wiki/賈斯汀·汀布萊克 "wikilink")[填詞人之一](../Page/詞曲作家.md "wikilink")，[提姆巴蘭](../Page/提姆巴蘭.md "wikilink")是製作人之一。在2007年1月28日, 此曲在[英國排](https://zh.wikipedia.org/wiki/英國 "wikilink")59名\[1\]；在2007年3月26日，此曲在[澳洲最高排第](https://zh.wikipedia.org/wiki/澳洲 "wikilink")3名\[2\]\[3\]；在2007年4月9日, 此曲在[紐西蘭最高排第](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")3名。此曲於[美國被出售超過](https://zh.wikipedia.org/wiki/美國 "wikilink")350萬次 \[4\]。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[Alluxio](https://zh.wikipedia.org/wiki/Alluxio)转换而来。
+
+
 **Alluxio**是一个[开源的虚拟分布式文件系统](https://zh.wikipedia.org/wiki/開源 "wikilink")( Virtual Distributed File System, VDFS)。 Alluxio最初起源于一个叫Tachyon的研究项目，它是[加州大学伯克利分校AMPLab实验室由师从Scott](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink") Shenker教授和Ion Stoica教授的李浩源博士的博士论文课题\[1\] 。Alluxio位于大数据栈中的计算和存储之间。它为计算框架提供了数据抽象层，使得应用能够通过一个共同的接口连接底层不同的存储系统。这个软件是以[Apache License的开源协议进行发布的](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。
 
 2919年, 首届数据编排峰会\[2\]在位于加州山景城的计算机历史博物馆举办。众多业界巨擘介绍了他们在构架数据编排平台方面的观点和经验。数据分析、机器学习和人工智能等一系列数据驱动型应用能够通过Alluxio提供的API（例如Hadoop HDFS API, S3 API, FUSE API)高速交互访问底层多种存储系统中的数据。另外，Alluxio之上还能够运行多种流行的计算框架，包括[Presto](../Page/Presto.md "wikilink"), [Apache Spark](../Page/Apache_Spark.md "wikilink"),[Apache Hive](https://zh.wikipedia.org/wiki/Apache_Hive "wikilink"), 以及[Tensorflow等](https://zh.wikipedia.org/wiki/Tensorflow "wikilink")。

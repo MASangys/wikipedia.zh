@@ -1,3 +1,6 @@
+> 本文内容由[東方鬼形獸 ～ Wily Beast and Weakest Creature.](https://zh.wikipedia.org/wiki/東方鬼形獸_～_Wily_Beast_and_Weakest_Creature.)转换而来。
+
+
 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")所製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")17作，在2019年5月5日舉行的第16回博麗神社春季例大祭發佈體驗版，2019年8月12日在[Comic Market](../Page/Comic_Market.md "wikilink") 96發售正式版。
 
 ## 遊戲系統

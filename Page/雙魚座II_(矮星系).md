@@ -1,3 +1,6 @@
+> 本文内容由[雙魚座II \(矮星系\)](https://zh.wikipedia.org/wiki/雙魚座II_\(矮星系\))转换而来。
+
+
 {{ Infobox Galaxy | image = | caption = | name = 雙魚座II矮星系 | epoch = [J2000](https://zh.wikipedia.org/wiki/曆元#儒略年和J2000 "wikilink") | type = dSph | ra = \[1\] | dec = \[2\] | dist_ly = 585 [kly](../Page/光年.md "wikilink") \[3\] | z = | absmag_v = −5.0\[4\] | size_v = 2.2{{±|0.2|0.2}}′\[5\] | constellation name = [雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink") | names = Pisces II,\[6\] Psc II\[7\] }}
 
 **雙魚座II**（**Psc II**）是坐落在[雙魚座的一個](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，於2010年從[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")的觀測資料中發現\[8\]。這個星系與[太陽的距離大約是](https://zh.wikipedia.org/wiki/太陽 "wikilink")18萬[秒差距](../Page/秒差距.md "wikilink")。它的類型是[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")（dsph），意思是它有著拉長的形狀，半光度半徑大約是60秒差距，長軸與短軸的比率是5：3\[9\]。

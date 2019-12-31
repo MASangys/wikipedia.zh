@@ -1,3 +1,6 @@
+> 本文内容由[Alexander Schleicher滑翔机制造公司](https://zh.wikipedia.org/wiki/Alexander_Schleicher滑翔机制造公司)转换而来。
+
+
 **Alexander Schleicher 滑翔机制造公司**是一家德国的[滑翔机制造商](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")，位于德国[黑森](../Page/黑森.md "wikilink")州的[瓦瑟山麓波彭豪森](https://zh.wikipedia.org/wiki/瓦瑟山麓波彭豪森 "wikilink")。企业有105名员工，每年生产90到100架滑翔机，其中65%出口到其他国家。
 
 该公司生产的很多型号都被看作是滑翔机发展的里程碑，并创造了多项世界纪录。例如[Hans-Werner Grosse驾驶一架](https://zh.wikipedia.org/wiki/Hans-Werner_Grosse "wikilink")[ASW 12滑翔机在](https://zh.wikipedia.org/wiki/Schleicher_ASW_12滑翔机 "wikilink")1972年4月25日从德国[吕贝克](../Page/吕贝克.md "wikilink")飞到了法国的[比亚里茨](../Page/比亚里茨.md "wikilink")，全程1460公里，创造了一项滑翔机的飞行距离世界纪录。直到今天，Alexander Schleicher有限公司仍然是一家领先的滑翔机制造商。\[1\]

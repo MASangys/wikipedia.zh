@@ -1,3 +1,6 @@
+> 本文内容由[ASCA](https://zh.wikipedia.org/wiki/ASCA)转换而来。
+
+
 **ASCA**（\[1\]），[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")。本名大仓明日香\[2\]，出生于[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")。2013年出道，为[日本索尼音乐娱乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")。
 
 ## 经历

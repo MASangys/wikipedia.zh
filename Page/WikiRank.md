@@ -1,3 +1,6 @@
+> 本文内容由[WikiRank](https://zh.wikipedia.org/wiki/WikiRank)转换而来。
+
+
 **Wikirank.net**(或**WikiRank**) - 用於自動質量評估和比較 [维基百科](../Page/维基百科.md "wikilink")中文章的在線Web服務。
 
 科學作品服務的第一次提及是在2015年。\[1\]其中一項描述使用WikiRank服務進行質量評估結果的研究被認為是維基百科和其他 [維基媒體的最重要發現之一。](../Page/维基媒体基金会.md "wikilink")2017-2018項目。\[2\]\[3\]

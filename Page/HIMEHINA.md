@@ -1,3 +1,6 @@
+> 本文内容由[HIMEHINA](https://zh.wikipedia.org/wiki/HIMEHINA)转换而来。
+
+
 **HIMEHINA**（），是由田中姬（）与铃木雏（）二人组成的[日本](../Page/日本.md "wikilink")[虛擬YouTuber](../Page/虛擬YouTuber.md "wikilink")组合，主要在[YouTube](../Page/YouTube.md "wikilink")頻道“HIMEHINA Channel”进行活动。
 
 ## 简介

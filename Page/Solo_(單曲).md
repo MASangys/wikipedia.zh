@@ -1,3 +1,6 @@
+> 本文内容由[Solo \(單曲\)](https://zh.wikipedia.org/wiki/Solo_\(單曲\))转换而来。
+
+
 《**Solo**》（風格化為**SOLO**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的成員[Jennie的個人出道單曲](../Page/Jennie_\(韓國歌手\).md "wikilink")，單曲由[Genie音樂](../Page/Genie音樂.md "wikilink")和[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")發行於2018年11月12日。《Solo》曲風以[嘻哈風格為主軸](../Page/嘻哈音樂.md "wikilink")，[泰迪是這首歌曲的主要製作人](../Page/泰迪·朴.md "wikilink")，並與24對作曲創作做出了貢獻。
 
 ## 背景及預告

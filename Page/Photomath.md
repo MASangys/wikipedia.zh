@@ -1,3 +1,6 @@
+> 本文内容由[Photomath](https://zh.wikipedia.org/wiki/Photomath)转换而来。
+
+
 **Photomath**是一種被稱為“ [相機](../Page/照相機.md "wikilink")[計算器](../Page/计算器.md "wikilink") \[1\]” 的[移動應用程序](../Page/流動應用程式.md "wikilink")，它利用[手機的](../Page/移动电话.md "wikilink")[相機来識別](../Page/照相機.md "wikilink")[數學](../Page/数学.md "wikilink")[方程](../Page/方程.md "wikilink")式，並在[屏幕上顯示逐步解決方案](../Page/显示器.md "wikilink")。它可以在[Android](../Page/Android.md "wikilink")和[iOS上免費使用](https://zh.wikipedia.org/wiki/iOS "wikilink")。應用程序由[總部設在](https://zh.wikipedia.org/wiki/總部 "wikilink")[克羅地亞](../Page/克罗地亚.md "wikilink")[薩格勒布的Microblink于](https://zh.wikipedia.org/wiki/萨格勒布 "wikilink")[2014年](../Page/2014年.md "wikilink")發布，註冊辦事處在[倫敦](../Page/伦敦.md "wikilink")，[英國](https://zh.wikipedia.org/wiki/英国 "wikilink")。該公司專門從事文本識別軟件开发。\[2\]
 
 截至[2016年](../Page/2016年.md "wikilink")，除了印刷文本，它還能識別手寫内容\[3\]並提供[數學](../Page/数学.md "wikilink")[方程](../Page/方程.md "wikilink")的步驟。\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Date table sorting](https://zh.wikipedia.org/wiki/模块:Date_table_sorting)转换而来。
+
+
 local yesno = require('Module:Yesno') local lang = mw.language.getContentLanguage() local N_YEAR_DIGITS = 12 local MAX_YEAR = 10^N_YEAR_DIGITS - 1
 
 -----

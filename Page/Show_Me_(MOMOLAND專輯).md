@@ -1,3 +1,6 @@
+> 本文内容由[Show Me \(MOMOLAND專輯\)](https://zh.wikipedia.org/wiki/Show_Me_\(MOMOLAND專輯\))转换而来。
+
+
 《**Show Me**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MOMOLAND](../Page/MOMOLAND.md "wikilink")的第五張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由MLD娛樂在2019年3月20日發行，主打歌為**I'm So Hot**。由於成員 DAISY和泰河各因個人原因和健康問題而在此次回歸缺席，距離上一張迷你專輯有9個月之久。\[1\]\[2\]
 
 ## 曲目

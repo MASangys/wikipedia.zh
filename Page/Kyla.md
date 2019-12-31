@@ -1,3 +1,6 @@
+> 本文内容由[Kyla](https://zh.wikipedia.org/wiki/Kyla)转换而来。
+
+
 **凱拉·率喜·馬西**（；；），藝名為**Kyla**（），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，隊內擔任Rapper。
 
 ## 生涯

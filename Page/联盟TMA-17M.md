@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-17M](https://zh.wikipedia.org/wiki/联盟TMA-17M)转换而来。
+
+
 **联盟TMA-17M**（）是[俄罗斯](../Page/俄罗斯.md "wikilink")[联盟TMA系列飞船之一](https://zh.wikipedia.org/wiki/联盟TMA "wikilink")。飞船搭载[远征44任务三名宇航员于](https://zh.wikipedia.org/wiki/远征44 "wikilink")2015年7月在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")[拜科努尔航天发射场](../Page/拜科努尔航天发射场.md "wikilink")发射升空，飞赴[国际空间站](../Page/国际空间站.md "wikilink")。这是[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")自1967年以来的第124次载人飞行。
 
 2015年12月11日，联盟TMA-17M成功降落在哈萨克斯坦[杰兹卡兹甘外](https://zh.wikipedia.org/wiki/杰兹卡兹甘 "wikilink")121公里处\[1\]。

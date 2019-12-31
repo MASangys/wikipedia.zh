@@ -1,3 +1,6 @@
+> 本文内容由[VERIVERY](https://zh.wikipedia.org/wiki/VERIVERY)转换而来。
+
+
 **VERIVERY**（韓語：**베리베리**；縮寫：**VRVR**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2019年推出的七人男子團體，由**東憲**、**號英**、**愍撰**、**啓賢**、**延浩**、**勇勝**、**岡旻**七名成員組成，並由**東憲**擔任隊長，官方粉絲名稱為「**VERRER**」。
 
 官方應援色為**7649 CP**、**663 UP**及**Glittering Silver**。

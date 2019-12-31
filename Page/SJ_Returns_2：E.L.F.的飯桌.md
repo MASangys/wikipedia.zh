@@ -1,3 +1,6 @@
+> 本文内容由[SJ Returns 2：E.L.F.的飯桌](https://zh.wikipedia.org/wiki/SJ_Returns_2：E.L.F.的飯桌)转换而来。
+
+
 《**SJ Returns 2：E.L.F.的飯桌**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年11月5日起開播的綜藝節目\[1\]，由[Super Junior](../Page/Super_Junior.md "wikilink") [利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")出演（[藝聲](../Page/藝聲.md "wikilink")因準備個人專輯故不參與）。
 
 於2019年9月9日播出[第三季](../Page/SJ_returns_3.md "wikilink")。

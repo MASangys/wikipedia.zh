@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Fred West](https://zh.wikipedia.org/wiki/Draft:Fred_West)转换而来。
+
+
 佛瑞德·韋斯特
 
 [窒息自殺](https://zh.wikipedia.org/wiki/窒息自殺 "wikilink") 佛瑞德里克 華特 史蒂芬 韋斯特 (1941年9月29日-1995年1月1日)

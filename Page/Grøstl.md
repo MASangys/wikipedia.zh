@@ -1,3 +1,6 @@
+> 本文内容由[Grøstl](https://zh.wikipedia.org/wiki/Grøstl)转换而来。
+
+
 **Grøstl** 是一款参与[NIST散列函数竞赛的](https://zh.wikipedia.org/wiki/NIST散列函数竞赛 "wikilink")[加密散列函数](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")。Grøstl入选比赛最后五强。 它与[AES一样使用相同的](https://zh.wikipedia.org/wiki/AES "wikilink")[S盒](../Page/S盒.md "wikilink")结构。创造者声称在[酷睿2](../Page/酷睿2.md "wikilink")处理器中其速度达到每字节21.4个周期。
 
 根据提交的文件显示，Grøstl之名从德语而来。该名称原指一道奥地利菜，而该菜式的英语名称则称为哈希（中文称之为[乞食牛肉](https://zh.wikipedia.org/wiki/乞食牛肉 "wikilink")）。

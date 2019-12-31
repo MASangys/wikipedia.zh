@@ -1,3 +1,6 @@
+> 本文内容由[Here we are](https://zh.wikipedia.org/wiki/Here_we_are)转换而来。
+
+
 《**here we are**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第12張單曲。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[紅米Note 7](https://zh.wikipedia.org/wiki/紅米Note_7)转换而来。
+
+
 **Redmi Note 7**是[小米科技于](../Page/小米集團.md "wikilink")[北京时间](../Page/北京市.md "wikilink")2019年1月10日下午2时在北京发布的一款[智能手机](../Page/智能手机.md "wikilink")，并于2019年1月15日10时（北京时间）在中国大陆市场正式发售。其采用了频率为最高2.2GHz的[高通](../Page/高通.md "wikilink")[骁龙](../Page/高通驍龍.md "wikilink")660八核处理器、6.3英寸2340\*1080分辨率的[LCD显示屏](../Page/液晶显示器.md "wikilink")，搭载基于[Android 9的](../Page/Android_Pie.md "wikilink")[MIUI](../Page/MIUI.md "wikilink")10\[1\]\[2\]\[3\] 。该款手机提供三种颜色，分别为亮黑色、梦幻蓝（蓝紫渐变）以及暮光金（粉紫渐变）。
 
 Redmi Note 7提供三种内存和存储版本，分别为3GB运行内存+32GB机身存储、4GB运行内存+64GB机身存储、6GB运行内存+64GB机身存储。另外，小米公司还在其线下渠道提供4GB运行内存+128GB机身存储的特别版本，无法在网络渠道购买。该版本售价为1499元人民币。

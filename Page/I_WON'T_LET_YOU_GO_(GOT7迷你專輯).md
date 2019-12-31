@@ -1,3 +1,6 @@
+> 本文内容由[I WON\'T LET YOU GO \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/I_WON\'T_LET_YOU_GO_\(GOT7迷你專輯\))转换而来。
+
+
 《**I WON'T LET YOU GO**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")在日本的第三張日語迷你專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2019年1月30日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")，共收錄4首新歌，主打歌為《I WON'T LET YOU GO》。
 
 ## 背景

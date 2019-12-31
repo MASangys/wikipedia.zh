@@ -1,3 +1,6 @@
+> 本文内容由[你那邊怎樣·我這邊OK](https://zh.wikipedia.org/wiki/你那邊怎樣·我這邊OK)转换而来。
+
+
 《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的電視劇，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次聯合製作](../Page/新传媒私人有限公司.md "wikilink")、合作拍攝，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")跨境合作，兩地實景拍摄；台灣團隊由身兼總導演、總監製的[王小棣](../Page/王小棣.md "wikilink")帶領、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[藍心湄](../Page/藍心湄.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[黄俊雄(艺人)](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[方偉杰](https://zh.wikipedia.org/wiki/方偉杰 "wikilink")、[沈琳宸](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")、[范文芳](../Page/范文芳.md "wikilink")領銜主演。\[1\]\[2\]本劇於2019年1月16日開拍，5月30日殺青。
 
 本劇以2016年轟動台灣的[自動提款機吐鈔盜領案件為背景](https://zh.wikipedia.org/wiki/第一商業銀行#事件 "wikilink")，劇情將雙線開展，一條故事線在新加坡，另一條故事線則在台北；本劇同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\] \[4\]

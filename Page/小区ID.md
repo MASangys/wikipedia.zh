@@ -1,3 +1,6 @@
+> 本文内容由[小区ID](https://zh.wikipedia.org/wiki/小区ID)转换而来。
+
+
 GSM **小区ID**（Cell ID，也称CID）是一个全局唯一的号码，用于区分各个[基地收发机站](../Page/基站子系统.md "wikilink")（Base Transceiver Station，简称BTS）或者，如果不是在[GSM](../Page/GSM.md "wikilink")网络内的话，则区分一个[位置区码](https://zh.wikipedia.org/wiki/移动性管理#位置区 "wikilink")（Location Area Code，简称LAC）中的BTS的一个扇面（Sector）。
 
 在某些情况下，CID的第一位或最后一位数字代表该小区的扇面（Sector）ID：

@@ -1,3 +1,6 @@
+> 本文内容由[反ICERD大集會](https://zh.wikipedia.org/wiki/反ICERD大集會)转换而来。
+
+
 **反ICERD大集會**（；），亦稱**812大集會**（）\[1\]、**812主權集會**（）\[2\]，是[馬來西亞多個](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[馬來](https://zh.wikipedia.org/wiki/馬來人 "wikilink")[穆斯林](../Page/穆斯林.md "wikilink")[非政府組織在](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")[巫統與](https://zh.wikipedia.org/wiki/巫統 "wikilink")[伊斯蘭黨的支持下於](https://zh.wikipedia.org/wiki/馬來西亞伊斯蘭黨 "wikilink")2018年12月8日在[吉隆坡](../Page/吉隆坡.md "wikilink")[獨立廣場舉辦的集會](https://zh.wikipedia.org/wiki/獨立廣場_\(吉隆坡\) "wikilink")，集會的最初目的為反對[馬來西亞政府簽署](https://zh.wikipedia.org/wiki/馬來西亞政府 "wikilink")[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")《[消除一切形式種族歧視國際公約](https://zh.wikipedia.org/wiki/消除一切形式種族歧視國際公約 "wikilink")》（）。雖然政府隨後承諾不簽署該公約，主辦方仍如期舉行集會，唯更改集會形式與目的，“感謝政府不簽署公約”\[3\]之餘也“慶祝人民成功促使政府放棄簽署公約”\[4\]。
 
 集會主辦方向[警方作出申請後獲准舉行集會](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")，是警方首次批准類似大集會的進行，此集會亦是馬來西亞首次政黨輪替、[希望聯盟政府上台後的首場大型社會運動](https://zh.wikipedia.org/wiki/希望聯盟 "wikilink")。警方允許該集會於12月8日下午2時至6時於吉隆坡獨立廣場一帶舉行，也決定封鎖周圍的6條道路，讓路該集會。集會最終和平結束，現場並無發生任何騷亂事件，警方亦無逮捕任何違法人士。主辦方聲稱至少50萬人出席集會，警方則估計大約5萬5千人出席集會，而網絡媒體《[當今大馬](https://zh.wikipedia.org/wiki/當今大馬 "wikilink")》則預估當天共有8萬人出席\[5\]。

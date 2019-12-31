@@ -1,3 +1,6 @@
+> 本文内容由[派遣占卜師ATARU](https://zh.wikipedia.org/wiki/派遣占卜師ATARU)转换而来。
+
+
 ，2019年1月17日起於[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")「[木九](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")」時段（21:00 - 21:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[遊川和彥](../Page/遊川和彥.md "wikilink")編劇、[杉咲花](../Page/杉咲花.md "wikilink")主演\[1\]\[2\]。此劇為編劇遊川和彥初次執導連續劇\[3\]\[4\]。
 
 ## 登場人物

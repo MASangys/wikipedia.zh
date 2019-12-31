@@ -1,3 +1,6 @@
+> 本文内容由[PAX游戏展](https://zh.wikipedia.org/wiki/PAX游戏展)转换而来。
+
+
 **便士街机游戏博览会**，英文全称为**Penny Arcade Expo**，由于展会不再仅仅涉猎街机游戏，现一般仅用缩写，称其为**PAX**展会。PAX是一个大型展会。展会内容涵盖[电子游戏](../Page/电子游戏.md "wikilink")、[桌游](https://zh.wikipedia.org/wiki/桌游 "wikilink")、[街机](../Page/街机.md "wikilink")等流行的游戏种类。展会每年在[美国](../Page/美国.md "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")、[波士顿](../Page/波士顿.md "wikilink")、[費城](../Page/費城.md "wikilink")、[圣安东尼奥和](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")[澳大利亚](../Page/澳大利亚.md "wikilink")[維多利亞州](../Page/維多利亞州.md "wikilink")的[墨尔本](../Page/墨尔本.md "wikilink")市举办。PAX展会最初由[杰里·霍尔金斯和](../Page/Jerry_Holkins.md "wikilink")。他们两人是美国著名[网络漫画](https://zh.wikipedia.org/wiki/网络漫画 "wikilink")《》的作者，由于他们想参加一个只有游戏的博览会，于是创办了PAX展会。\[1\]\[2\]
 
 第一届PAX展会举办于2004年。游戏展开幕式由游戏业内人士发表主题演讲，展会有游戏主题的音乐会、游戏主题讲座、独立游戏和大型游戏开发商及发行商的参展展位、[局域网联机](../Page/LAN_party.md "wikilink")[多人电子游戏对战](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")、桌游锦标赛和电子游戏自由游玩区等各种活动可以参加。每一届PAX展会会举办一个持续整个展会的锦标赛，参照[马拉松](../Page/马拉松.md "wikilink")将其取名为欧米茄松(megathon)。参赛人员随机组成队伍，相互竞争并最终争夺大奖。欧米茄松的决赛在展会的闭幕式举行，决赛游戏包括《[俄羅斯方塊](../Page/俄羅斯方塊.md "wikilink")》、《[乓](../Page/乓.md "wikilink")》、《[光环3](https://zh.wikipedia.org/wiki/光环3 "wikilink")》和《》。

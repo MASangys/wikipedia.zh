@@ -1,3 +1,6 @@
+> 本文内容由[Focos](https://zh.wikipedia.org/wiki/Focos)转换而来。
+
+
 **Focos**是一款运行于[iOS上的图像拍摄与](https://zh.wikipedia.org/wiki/iOS "wikilink")[处理应用](../Page/图像处理.md "wikilink")。其利用iPhone的多镜头设计，在拍摄时形成3D模型，可以合成具有[浅景深效果的照片](https://zh.wikipedia.org/wiki/散景 "wikilink")\[1\]，或添加虚拟光源照明。其在2019年8月更新的2.0版本，取消了多摄限制，可以对任意照片进行景深模拟。
 
 Focos程序本体免费，具有内购选项可升级为专业版。本体提供圆形光圈虚化与单光源模拟功能；进阶版本的程序允许模拟不同的[光圈](../Page/光圈.md "wikilink")形状，来模拟不同的[散景效果](https://zh.wikipedia.org/wiki/散景 "wikilink")；或增设更多的虚拟光源。

@@ -1,3 +1,6 @@
+> 本文内容由[JavaScript库列表](https://zh.wikipedia.org/wiki/JavaScript库列表)转换而来。
+
+
 下面是知名[JavaScript库的列表](https://zh.wikipedia.org/wiki/JavaScript函数库 "wikilink")。
 
 ## 约束编程

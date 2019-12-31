@@ -1,3 +1,6 @@
+> 本文内容由[蓋特機器人飛焰 〜THE EARTH SUICIDE〜](https://zh.wikipedia.org/wiki/蓋特機器人飛焰_〜THE_EARTH_SUICIDE〜)转换而来。
+
+
 《**蓋特機器人飛焰 〜THE EARTH SUICIDE〜**》（）是[永井豪](../Page/永井豪.md "wikilink")、[石川賢原作](https://zh.wikipedia.org/wiki/石川賢原作 "wikilink")，[津島直人](../Page/津島直人.md "wikilink")所繪製的[蓋特機器人](../Page/蓋特機器人.md "wikilink")系列[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。原本是從2007年9月開始在漫畫網站「MAGNA」（幻冬舍Comic）上連載，但是隨著MANGA網站的停刊，連載也隨之結束。但是後來追加繪製的最終話則在單行本第三集刊載，整個故事算是有告一段落。
 
 ## 概要

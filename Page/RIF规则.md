@@ -1,3 +1,6 @@
+> 本文内容由[RIF规则](https://zh.wikipedia.org/wiki/RIF规则)转换而来。
+
+
 **RIF规则**是一个[连珠](../Page/连珠.md "wikilink")开局规则。它是[国际连珠联盟](../Page/国际连珠联盟.md "wikilink")（RIF）在1996年审定的开局规则，来替代[交换规则](../Page/交换规则.md "wikilink")。在1996年到2008年间，RIF规则作为[世界连珠锦标赛](../Page/世界连珠锦标赛.md "wikilink")的正式规则使用。\[1\]
 
 ## 规则介绍

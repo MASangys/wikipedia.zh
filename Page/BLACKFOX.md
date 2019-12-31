@@ -1,3 +1,6 @@
+> 本文内容由[BLACKFOX](https://zh.wikipedia.org/wiki/BLACKFOX)转换而来。
+
+
 是日本動畫公司[Studio 3Hz](../Page/3Hz.md "wikilink")，在2018年3月24日宣布製作的原創[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")\[1\]，將於2019年10月5日日本上映\[2\]。
 
 ## 故事簡介

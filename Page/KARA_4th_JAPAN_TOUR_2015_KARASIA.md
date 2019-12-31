@@ -1,3 +1,6 @@
+> 本文内容由[KARA 4th JAPAN TOUR 2015 KARASIA](https://zh.wikipedia.org/wiki/KARA_4th_JAPAN_TOUR_2015_KARASIA)转换而来。
+
+
 **KARA 4th JAPAN TOUR 2015 KARASIA**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara](../Page/Kara.md "wikilink")的第四次[日本](../Page/日本.md "wikilink")全國巡迴演唱會。巡迴演唱會於2015年9月1日開始，地點為Zepp Namba大阪；於9月29日結束，地點為[橫濱國際平和會議場](../Page/橫濱國際平和會議場.md "wikilink")國立大廳。
 
 ## 演出日期

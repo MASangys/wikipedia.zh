@@ -1,3 +1,6 @@
+> 本文内容由[漢諾威CL攻擊機](https://zh.wikipedia.org/wiki/漢諾威CL攻擊機)转换而来。
+
+
 **漢諾威CL攻擊機**是在[第一次世界大戰時由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[漢諾威飛機公司](https://zh.wikipedia.org/wiki/漢諾威飛機公司 "wikilink")(德文:Hannoversche Waggonfabrik)研製的雙翼攻擊機，CL原本是指比一般偵察機（代號為C）輕巧的雙座機，原本是用作為偵察機提供直接的護航，但後來發展成為對地攻擊機尤其以其後座機槍作為居高臨下的機槍火力點。
 
 漢諾威公司原是一家專門從事製造火車車廂的工廠，當[第一次世界大戰爆發後的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")1915年開始生產飛機零件，1916年開始成立飛機研製部門，漢諾威公司造飛機的優勢是由於要造火車車廂而存有大批木材和大批熟手的木匠，漢諾威CL攻擊機也因此被稱為飛行車廂。

@@ -1,3 +1,6 @@
+> 本文内容由[Happy 2006黎明北京演唱會](https://zh.wikipedia.org/wiki/Happy_2006黎明北京演唱會)转换而来。
+
+
 **Happy 2006黎明北京演唱會**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2005年12月31日在[北京工人體育館舉行](https://zh.wikipedia.org/wiki/北京工人體育館 "wikilink")，是該體育館在2008年閉館改建前的最後一個演唱活動\[1\]\[2\]\[3\]。
 
 ## 製作概念

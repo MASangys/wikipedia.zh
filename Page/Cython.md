@@ -1,3 +1,6 @@
+> 本文内容由[Cython](https://zh.wikipedia.org/wiki/Cython)转换而来。
+
+
 **Cython**是结合了[Python](../Page/Python.md "wikilink")和[C的语法的一种语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，可以简单的认为就是给Python加上了静态类型后的语法，使用者可以維持大部分的Python語法，而不需要大幅度調整主要的程式邏輯與演算法。但由于会直接编译为二进制程序，所以性能较Python会有很大提升。\[1\]\[2\]
 
 Cython被大量運用在CPython函式庫的撰寫，以取得較高的執行效能。Cython將CPython代碼轉譯成 C 或 C++ 語法後，自動包裝上函式呼叫界面生成 .pyx 後綴的執行檔，即可當成普通的函式庫。其性能一般遜於原生的 C/C++ 函式庫，但由於 CPython 語法的易用性可以縮短開發時間。Cython 也可以用於編譯以 C/C++ 為 CPython 撰寫的函式庫。

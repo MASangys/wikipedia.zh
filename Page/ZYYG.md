@@ -1,3 +1,6 @@
+> 本文内容由[ZYYG](https://zh.wikipedia.org/wiki/ZYYG)转换而来。
+
+
 **ZYYG**（读音：）是[日本](../Page/日本.md "wikilink")摇滚乐队，1993年结成，1999年解散。为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。2006年曾经一夜复活。2019年宣布正式复出进行音乐活动。
 
 ## 简介

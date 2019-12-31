@@ -1,3 +1,6 @@
+> 本文内容由[超異域公主連結 Re:Dive](https://zh.wikipedia.org/wiki/超異域公主連結_Re:Dive)转换而来。
+
+
 是一款由[Cygames](../Page/Cygames.md "wikilink")所製作的奇幻風格角色扮演手機遊戲，前身為2015年至2016年間營運的《公主連結》。本遊戲除了在日本上市外，也與海外業者合作推出包含簡體中文（由[bilibili](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[1\]代理營運）、繁體中文（由[台灣碩網](../Page/So-net.md "wikilink")\[2\]代理營運）、韓文（[Kakao Game](https://en.m.wikipedia.org/wiki/Kakao_Games)；英文維基）等版本\[3\]。
 
 2019年2月15日，在一周年[生放送上宣布](https://zh.wikipedia.org/wiki/生放送 "wikilink")[電視動畫化](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[BZ Boys](https://zh.wikipedia.org/wiki/BZ_Boys)转换而来。
+
+
 **BZ Boys**（），是[Chrome娛樂於](https://zh.wikipedia.org/wiki/Chrome娛樂 "wikilink")2019年推出的四人男子组合\[1\]，成員包括Bon、Taewoong、Double D及Seunghyun。粉絲名稱為「Blueness」。
 
 ## 成員資料

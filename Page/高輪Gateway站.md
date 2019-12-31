@@ -1,3 +1,6 @@
+> 本文内容由[高輪Gateway站](https://zh.wikipedia.org/wiki/高輪Gateway站)转换而来。
+
+
 **高輪Gateway站**（，華語圈又譯作「高輪入口」\[1\]\[2\]\[3\]）是[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[港南地區一座正在建設的](../Page/港南_\(東京都港區\).md "wikilink")[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）車站，再開發計劃展開時曾暫名「**品川新站**」\[4\]。車站預定於2020年啟用，屆時將供[山手線](../Page/山手線.md "wikilink")與[京濱東北線](../Page/京濱東北線.md "wikilink")使用。
 
 ## 歷史

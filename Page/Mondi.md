@@ -1,3 +1,6 @@
+> 本文内容由[Mondi](https://zh.wikipedia.org/wiki/Mondi)转换而来。
+
+
 **Mondi Group**是一家跨國包装和纸业公司，在[約翰內斯堡證券交易所及](https://zh.wikipedia.org/wiki/約翰內斯堡證券交易所 "wikilink")[倫敦證券交易所](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")[双重上市](https://zh.wikipedia.org/wiki/双重上市 "wikilink")，其中“Mondi Limited”的總部位於[約翰內斯堡](https://zh.wikipedia.org/wiki/約翰內斯堡 "wikilink")，“Mondi plc”的總部位於[阿德利斯通](https://zh.wikipedia.org/wiki/阿德利斯通 "wikilink")，集團總部位於[維也納](../Page/維也納.md "wikilink")。
 
 ## 歷史

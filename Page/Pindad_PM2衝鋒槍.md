@@ -1,3 +1,6 @@
+> 本文内容由[Pindad PM2衝鋒槍](https://zh.wikipedia.org/wiki/Pindad_PM2衝鋒槍)转换而来。
+
+
 **Pindad PM2** 是一款由[印度尼西亚](../Page/印度尼西亚.md "wikilink")槍械製造商為森林警衛部門和[執法機關使用而研製和生產的](../Page/警察.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計目標

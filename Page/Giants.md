@@ -1,3 +1,6 @@
+> 本文内容由[Giants](https://zh.wikipedia.org/wiki/Giants)转换而来。
+
+
 《**GIANTS**》是遊戲[英雄聯盟推出的數位單曲](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")，詞曲皆由[Riot Games音樂團隊製作完成](../Page/Riot_Games.md "wikilink")，於2019年11月10日正式發布。
 
 ## 介紹

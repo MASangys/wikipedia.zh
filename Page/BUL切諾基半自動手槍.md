@@ -1,3 +1,6 @@
+> 本文内容由[BUL切諾基半自動手槍](https://zh.wikipedia.org/wiki/BUL切諾基半自動手槍)转换而来。
+
+
 **BUL切諾基**（）是一款由[以色列](../Page/以色列.md "wikilink")槍械製造商以[捷克](../Page/捷克.md "wikilink")（CZ-UB）設計的[CZ 75為基礎生產的聚合物](../Page/CZ_75手槍.md "wikilink")[底把式](https://zh.wikipedia.org/wiki/機匣 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，亦是的後繼型，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述

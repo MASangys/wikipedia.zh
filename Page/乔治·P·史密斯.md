@@ -1,3 +1,6 @@
+> 本文内容由[乔治·P·史密斯](https://zh.wikipedia.org/wiki/乔治·P·史密斯)转换而来。
+
+
 **乔治·皮爾森·史密斯**（，），[美国](../Page/美国.md "wikilink")[化学家](../Page/化学家.md "wikilink")，[密苏里大学](../Page/密苏里大学.md "wikilink")教授，2018年[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")得主。\[1\]
 
 ## 研究

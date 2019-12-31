@@ -1,3 +1,6 @@
+> 本文内容由[HKmap.live](https://zh.wikipedia.org/wiki/HKmap.live)转换而来。
+
+
 **HKmap.live**是[網站](../Page/網站.md "wikilink")和[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，提供實時顯示[紀律部隊](../Page/紀律部隊.md "wikilink")位置的服務\[1\]。该地图主要标签警员，引起[香港警察及](https://zh.wikipedia.org/wiki/香港警察 "wikilink")[建制派人士的反对](../Page/建制派_\(香港\).md "wikilink")，中國大陸政府介入。几经波折后，其[iOS應用程式被App](https://zh.wikipedia.org/wiki/iOS "wikilink") Store下架，但Android版仍可以在[Google Play下載](../Page/Google_Play.md "wikilink")\[2\]，网站也仍可使用。
 
 ## 功能

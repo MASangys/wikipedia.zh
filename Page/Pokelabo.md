@@ -1,3 +1,6 @@
+> 本文内容由[Pokelabo](https://zh.wikipedia.org/wiki/Pokelabo)转换而来。
+
+
 **Pokelabo 公司**（；）是一間位於[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[社群網路遊戲開發暨營運公司](https://zh.wikipedia.org/wiki/社群網路 "wikilink")。 
 
 ## 歷史

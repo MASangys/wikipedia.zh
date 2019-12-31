@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:Infobox French commune](https://zh.wikipedia.org/wiki/Draft:Template:Infobox_French_commune)转换而来。
+
+
 | image_skyline = {{ \#ifexist:Media: |  }} | imagesize = {{ px| }} | image_caption =  | image = {{ \#ifexist:Media: | |  {{ if both|  |  |
  }} }} | image_flag =  | flag_size =  | flag_link =  | image_shield =  | shield_size = {{ \#if:  |  | 80x80px }} | shield_link =  | motto =  | image_map = {{ \#if:  |  | {{ \#if:  |  }} }} | mapsize =  | map_caption =  | pushpin_map = {{ \#if:  | | {{ \#if:  | | {{ \#if:  | France }} }} }} | pushpin_mapsize = 270 | pushpin_label_position = {{ \#ifeq: {{ \#expr:  \> 3 }} | 1 | left | right}} | pushpin_map_caption = {{ \#switch:  |97|98 = |\#default = </small>
 

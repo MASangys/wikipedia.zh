@@ -1,3 +1,6 @@
+> 本文内容由[當C遇上G7](https://zh.wikipedia.org/wiki/當C遇上G7)转换而来。
+
+
 《**當C遇上G7**》（）是一部由新晉導演[簡君晉](../Page/簡君晉.md "wikilink")執導，[陳家樂](../Page/陳家樂_\(藝人\).md "wikilink")、[周永恆](../Page/周永恆.md "wikilink")、[陳康健](../Page/陳康健.md "wikilink")、[勞嘉怡](../Page/勞嘉怡.md "wikilink")及[陳嘉寶主演的青春電影](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")，於2013年10月27日在香港上映。插曲《只得一秒》由[陳康健](../Page/陳康健.md "wikilink")主唱。
 
 該片入圍2013年香港亞洲電影節「香港首作」單元之一。\[1\]

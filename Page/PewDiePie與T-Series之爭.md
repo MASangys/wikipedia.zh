@@ -1,3 +1,6 @@
+> 本文内容由[PewDiePie與T-Series之爭](https://zh.wikipedia.org/wiki/PewDiePie與T-Series之爭)转换而来。
+
+
 **PewDiePie與T-Series之爭**是兩個[YouTube](../Page/YouTube.md "wikilink")頻道之間的網絡比賽，由Felix Kjellberg的[PewDiePie](../Page/PewDiePie.md "wikilink")與營運的印度音樂唱片公司[T-Series](../Page/T-Series.md "wikilink")爭奪[最多訂閱人數的YouTube頻道的頭銜](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")，最後T-Series的訂閱數超越PewDiePie\[1\]，勝出對決。
 
 T-Series自2017年2月成為，PewDiePie則自2013年起成為最多訂閱頻道。T-Series的訂閱數在2019年多次短暫超越PewDiePie，並在3月27日至31日期間保持優勢\[2\]。其後PewDiePie重奪首位，惟兩個星期後終於永久失落頭銜。T-Series的優勢不斷擴大，更在5月29日突破一億訂閱大關。

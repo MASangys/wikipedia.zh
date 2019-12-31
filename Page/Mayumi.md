@@ -1,3 +1,6 @@
+> 本文内容由[Mayumi](https://zh.wikipedia.org/wiki/Mayumi)转换而来。
+
+
 **Júlia Nakamura**（ID：Mayumi，），是位[日裔](https://zh.wikipedia.org/wiki/日裔 "wikilink")[巴西](../Page/巴西.md "wikilink")籍《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》職業選手，目前效力於巴西的 [INTZ e-Sports](https://zh.wikipedia.org/wiki/INTZ_e-Sports "wikilink") 中擔任輔助。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 個人生涯

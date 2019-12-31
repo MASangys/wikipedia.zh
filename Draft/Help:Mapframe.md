@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Help:Mapframe](https://zh.wikipedia.org/wiki/Draft:Help:Mapframe)转换而来。
+
+
 本页面将演示如何使用\<mapframe/\></code>和\<maplink/\>标签显示地图。
 
 ## 开始使用

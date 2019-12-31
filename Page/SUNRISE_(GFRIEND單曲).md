@@ -1,3 +1,6 @@
+> 本文内容由[SUNRISE \(GFRIEND單曲\)](https://zh.wikipedia.org/wiki/SUNRISE_\(GFRIEND單曲\))转换而来。
+
+
 《**SUNRISE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")2019年2月13日在日本發行第二張日語單曲，且A面是第二張韓語正規專輯[Time for us的主打歌](../Page/Time_for_us.md "wikilink")，由[Source Music製作](../Page/Source_Music.md "wikilink")，[King Records發行](../Page/國王唱片.md "wikilink")，於2019年2月13日推出，主打歌為〈SUNRISE -JP Ver.-〉。\[1\]
 
 ## 背景

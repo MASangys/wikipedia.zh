@@ -1,3 +1,6 @@
+> 本文内容由[Brazzers](https://zh.wikipedia.org/wiki/Brazzers)转换而来。
+
+
 **Brazzers**（）是一個總部設於[加拿大](../Page/加拿大.md "wikilink")[蒙特婁的](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")[色情](../Page/色情.md "wikilink")[製片公司](https://zh.wikipedia.org/wiki/製片公司 "wikilink")。主要經營著由多達三十一種[硬調色情所組成的網站](https://zh.wikipedia.org/wiki/硬調色情 "wikilink")，該公司的口號是「世上最好的高畫質色情網站！」\[1\]截至2015年10月，Brazzers.com的流量排名為第936位\[2\]。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Ampaw](https://zh.wikipedia.org/wiki/Ampaw)转换而来。
+
+
 ***Ampaw***是一種，意指用[米香](../Page/米香.md "wikilink")製成的[玉米花](../Page/玉米花.md "wikilink")。
 
 而在[宿霧語](../Page/宿霧語.md "wikilink")中，*Ampaw*也是一種[委婉](../Page/委婉.md "wikilink")詞用法，意思是指一個人空談理論，不能解決實際問題\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[摩尼教抄本殘頁 MIK III 4979](https://zh.wikipedia.org/wiki/摩尼教抄本殘頁_MIK_III_4979)转换而来。
+
+
 **摩尼教抄本殘頁編號「 4979」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一張收藏於德國[柏林亞洲藝術博物館的](https://zh.wikipedia.org/wiki/亞洲藝術博物館_\(柏林\) "wikilink")[摩尼教](../Page/摩尼教.md "wikilink")[泥金裝飾手抄本](../Page/泥金裝飾手抄本.md "wikilink")殘頁斷片，繪製於8–9世紀期間，20世紀初被[德國吐魯番考察隊](../Page/德國吐魯番考察隊.md "wikilink")發現於新疆[高昌](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")遺址。殘頁長12.4釐米、寬25.2釐米，兩面均有繪製插圖，上書以[摩尼字母](../Page/摩尼字母.md "wikilink")寫成的[粟特語](https://zh.wikipedia.org/wiki/粟特語 "wikilink")、[突厥語和](https://zh.wikipedia.org/wiki/突厥語族 "wikilink")[中古波斯語文本](https://zh.wikipedia.org/wiki/中古波斯語 "wikilink")。\[1\]
 
 ## 描述

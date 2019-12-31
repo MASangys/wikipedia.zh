@@ -1,3 +1,6 @@
+> 本文内容由[GNU cflow](https://zh.wikipedia.org/wiki/GNU_cflow)转换而来。
+
+
 **GNU cflow**是[GNU計劃](../Page/GNU計劃.md "wikilink")中的一款，其读取一系列[C语言源文件并生成外部引用的流程图](https://zh.wikipedia.org/wiki/C语言 "wikilink")。此软件仅需读取源码而无需运行代码编译后的软件。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[OKAY.com屋企](https://zh.wikipedia.org/wiki/OKAY.com屋企)转换而来。
+
+
 **OKAY.com屋企**（，簡稱「OKAY」），[香港](../Page/香港.md "wikilink")註冊網上地產公司，成立於2011年。
 
 ## 公司背景

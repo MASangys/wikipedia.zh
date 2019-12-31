@@ -1,3 +1,6 @@
+> 本文内容由[UNVEIL](https://zh.wikipedia.org/wiki/UNVEIL)转换而来。
+
+
 《**UNVEIL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於每次回歸前所舉辦的Showcase](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
 
 ## 概述

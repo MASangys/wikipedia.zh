@@ -1,3 +1,6 @@
+> 本文内容由[Vanishing Vision](https://zh.wikipedia.org/wiki/Vanishing_Vision)转换而来。
+
+
 Vanishing Vision 是日本 [视觉系乐队](https://zh.wikipedia.org/wiki/视觉系 "wikilink")[X JAPAN的第一张专辑](../Page/X_Japan.md "wikilink")
 
 ## 历史

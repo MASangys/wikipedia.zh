@@ -1,3 +1,6 @@
+> 本文内容由[Draft:RAP](https://zh.wikipedia.org/wiki/Draft:RAP)转换而来。
+
+
 饒舌是一種聲音傳遞的音樂類型
 
 **RAP** 可以指

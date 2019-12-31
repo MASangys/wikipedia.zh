@@ -1,3 +1,6 @@
+> 本文内容由[S-甲基半胱氨酸](https://zh.wikipedia.org/wiki/S-甲基半胱氨酸)转换而来。
+
+
 ***S*-甲基半胱氨酸**是一种[氨基酸](../Page/氨基酸.md "wikilink")，化学式为CH<sub>3</sub>SCH<sub>2</sub>CH(NH<sub>2</sub>)CO<sub>2</sub>H。它是[半胱氨酸](../Page/半胱氨酸.md "wikilink")的[巯基氢被甲基取代的衍生物](https://zh.wikipedia.org/wiki/巯基 "wikilink")。这种氨基酸广泛存在于植物中，包括一些可食用蔬菜。\[1\]
 
 ## 生物合成

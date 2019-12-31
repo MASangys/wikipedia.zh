@@ -1,3 +1,6 @@
+> 本文内容由[Ninja \(构建系统\)](https://zh.wikipedia.org/wiki/Ninja_\(构建系统\))转换而来。
+
+
 **Ninja**是一个专注于速度的小型[构建系统](../Page/組建自動化.md "wikilink")\[1\]，由Evan Martin于2010年在[Chrome团队工作时开发](../Page/Google_Chrome.md "wikilink")。
 
 ## 背景

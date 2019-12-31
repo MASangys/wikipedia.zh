@@ -1,3 +1,6 @@
+> 本文内容由[IBSF世界撞球錦標賽](https://zh.wikipedia.org/wiki/IBSF世界撞球錦標賽)转换而来。
+
+
 **IBSF世界撞球錦標賽**（IBSF World Billiards Championship），舊稱**世界業餘撞球錦標賽**（World Amateur Billiards Championship），是[英式撞球](../Page/英式撞球.md "wikilink")的首要國際業餘賽事。該活動的歷史可追溯至1951年，自1973年起受到[國際撞球與司諾克聯合會的認可](https://zh.wikipedia.org/wiki/國際撞球與司諾克聯合會 "wikilink")。
 
 ## 歷年決賽結果

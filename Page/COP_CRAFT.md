@@ -1,3 +1,6 @@
+> 本文内容由[COP CRAFT](https://zh.wikipedia.org/wiki/COP_CRAFT)转换而来。
+
+
 是[賀東招二](../Page/賀東招二.md "wikilink")所作的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[村田蓮爾](../Page/村田蓮爾.md "wikilink")繪畫。
 
 ## 概要

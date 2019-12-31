@@ -1,3 +1,6 @@
+> 本文内容由[Star☆Twinkle 光之美少女](https://zh.wikipedia.org/wiki/Star☆Twinkle_光之美少女)转换而来。
+
+
 《**星光閃亮☆光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")製作的[魔法少女](../Page/魔法少女.md "wikilink")動畫，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十六作，第十四代光之美少女。2019年2月3日於[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放。\[1\]
 
 ## 概要

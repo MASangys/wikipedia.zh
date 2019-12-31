@@ -1,3 +1,6 @@
+> 本文内容由[福特Telstar](https://zh.wikipedia.org/wiki/福特Telstar)转换而来。
+
+
 **福特Telstar**（英语：Ford Telstar）是由[福特汽車亞洲部門與](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[日本](../Page/日本.md "wikilink")[馬自達汽車共同開發的](https://zh.wikipedia.org/wiki/馬自達汽車 "wikilink")[中型轎車及家庭房車](https://zh.wikipedia.org/wiki/中型轎車 "wikilink")，用以取代車系主打亞洲及大洋洲市場的中產階級客層，於日本及東南亞、大洋洲都有銷售，1982年開始生產，直至2001年停止生產，由[福特蒙迪歐](https://zh.wikipedia.org/wiki/福特蒙迪歐 "wikilink")（Mondeo）取代，車體本身以[馬自達626](../Page/馬自達626.md "wikilink")為藍本，並重新設計車身外觀。臺灣[福特六和汽車](../Page/福特六和汽車.md "wikilink")正式翻譯為「天王星」，在港澳的正式翻譯則為「天皇星」。此款車在日本及東南亞、大洋洲市場的對手為[日產Bluebird](https://zh.wikipedia.org/wiki/日產Bluebird "wikilink")、[三菱Galant](https://zh.wikipedia.org/wiki/三菱戈藍 "wikilink")、[豐田Camry](https://zh.wikipedia.org/wiki/豐田Camry "wikilink")、[本田Accord](https://zh.wikipedia.org/wiki/本田Accord "wikilink")、[速霸陸Legacy](../Page/速霸陸Legacy.md "wikilink")、[現代Sonata](https://zh.wikipedia.org/wiki/現代索納塔 "wikilink")、。
 
 {{-}}

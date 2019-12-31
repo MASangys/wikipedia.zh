@@ -1,3 +1,6 @@
+> 本文内容由[Supipara - Alice the magical conductor.](https://zh.wikipedia.org/wiki/Supipara_-_Alice_the_magical_conductor.)转换而来。
+
+
 《**Supipara - Alice the magical conductor.**》（）是[日本](../Page/日本.md "wikilink")[minori公司发行的全年龄游戏](https://zh.wikipedia.org/wiki/minori "wikilink")。其前篇《NICE TO MEET YOU\!》于2011年12月29日发行，第一部《Spring Has Come \!》于2012年5月18日发行。minori的社长[酒井伸和称此游戏的第一章制作成本达一亿](https://zh.wikipedia.org/wiki/酒井伸和 "wikilink")[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")，耗资大头在CG的绘制。\[1\]
 
 ## 故事简介

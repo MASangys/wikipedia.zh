@@ -1,3 +1,6 @@
+> 本文内容由[＃MeToo \(中國大陸\)](https://zh.wikipedia.org/wiki/＃MeToo_\(中國大陸\))转换而来。
+
+
 **[\#MeToo](../Page/＃MeToo.md "wikilink")**（、）于2018年1月在中国大陆开始。MeToo运动2018年在中国爆发，席卷了中国学术界、公益圈、媒体界、宗教界等。\[1\]
 
 ## 运动开端

@@ -1,3 +1,6 @@
+> 本文内容由[M2 X Genie音樂獎](https://zh.wikipedia.org/wiki/M2_X_Genie音樂獎)转换而来。
+
+
 **M2 X Genie音樂獎**（，簡稱：**MGMA**）是[韓國音樂界的獎項之一](https://zh.wikipedia.org/wiki/韓國音樂 "wikilink")，由[Mnet媒體](../Page/Mnet媒體.md "wikilink")的數位新媒體平臺M2與[韓國通訊的子公司](../Page/KT公司.md "wikilink")[Genie音樂](../Page/Genie音樂.md "wikilink")聯合舉辦的韓國流行音樂頒獎典禮，目的在於獎勵成就出眾的音樂藝術家。頒獎典禮定於2019年8月1日在韓國[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")，屆時將通過Genie音樂主頁、手機應用程式、以及音樂專門頻道Mnet和數位頻道M2等進行現場直播\[1\]。
 
 ## 簡介

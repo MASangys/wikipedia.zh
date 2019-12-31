@@ -1,3 +1,6 @@
+> 本文内容由[迷你KTV](https://zh.wikipedia.org/wiki/迷你KTV)转换而来。
+
+
 **迷你KTV**（又名**电话亭KTV**）是一种形状和大小类似于[电话亭且里面配套有](https://zh.wikipedia.org/wiki/电话亭 "wikilink")[卡拉OK](../Page/卡拉OK.md "wikilink")机器的隔间，流行于中国、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[越南等](https://zh.wikipedia.org/wiki/越南 "wikilink")[东亚地区](https://zh.wikipedia.org/wiki/东亚 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 构造与使用

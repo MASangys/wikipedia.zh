@@ -1,3 +1,6 @@
+> 本文内容由[AOMG](https://zh.wikipedia.org/wiki/AOMG)转换而来。
+
+
 **AOMG**（，簡稱：；）是由[Jay Park成立於](https://zh.wikipedia.org/wiki/Jay_Park "wikilink")2013年的[嘻哈廠牌](../Page/嘻哈音樂.md "wikilink")，是唱片企劃及製作公司\[1\]。
 
 ## 歷史沿革

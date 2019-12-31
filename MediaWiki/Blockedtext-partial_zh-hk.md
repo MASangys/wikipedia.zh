@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Blockedtext-partial/zh-hk](https://zh.wikipedia.org/wiki/MediaWiki:Blockedtext-partial/zh-hk)转换而来。
+
+
 __NOEDITSECTION____NOTOC__
 
 <table>

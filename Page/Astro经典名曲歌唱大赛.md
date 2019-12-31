@@ -1,3 +1,6 @@
+> 本文内容由[Astro经典名曲歌唱大赛](https://zh.wikipedia.org/wiki/Astro经典名曲歌唱大赛)转换而来。
+
+
 《**Astro经典名曲歌唱大赛**》（，簡稱CGM）是[马来西亚](../Page/马来西亚.md "wikilink")[Astro制作的马来西亚最大型经典名曲歌唱真人秀节目](https://zh.wikipedia.org/wiki/Astro "wikilink")，2001年第一届节目名称为《Astro乐龄歌艺大赛》至到2005年转型为《经典名曲歌唱大赛》\[1\]\[2\]，此节目現由顏江瀚主持。
 2017年除了歌唱比赛，[Astro AEC在比赛结束后做出特輯訪問優勝者或參賽者心得並制作了衍生歌唱节目](../Page/Astro_AEC.md "wikilink")《好经典》以及农历新年特备节目《好经典桃李争春》。
 

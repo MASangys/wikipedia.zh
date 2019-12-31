@@ -1,3 +1,6 @@
+> 本文内容由[模块:Box-header](https://zh.wikipedia.org/wiki/模块:Box-header)转换而来。
+
+
 local p = {} ---------- Config data ---------- local namedColours = mw.loadData( 'Module:Box-header/colours' ) local modes = {
 
 `   lightest = { sat=0.10, val=1.00 },`

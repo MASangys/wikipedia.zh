@@ -1,3 +1,6 @@
+> 本文内容由[CORSAK](https://zh.wikipedia.org/wiki/CORSAK)转换而来。
+
+
 **胡梦周**\[1\]（\[2\]），艺名**CORSAK**，中国的[电子音乐制作人](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")\[3\]\[4\]，出生于上海市\[5\]，主要作品有《溯（Reverse）》\[6\]、《芽（Glow）》\[7\]\[8\]、《溺（Drowning）》等。
 
 ## 经历

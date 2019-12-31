@@ -1,3 +1,6 @@
+> 本文内容由[DAICON FILM版 归来的奥特曼](https://zh.wikipedia.org/wiki/DAICON_FILM版_归来的奥特曼)转换而来。
+
+
 《**DAICON FILM版 归来的奥特曼　MAT ARROW-1号出发命令**》（，）是日本业余团队[DAICON FILM](https://zh.wikipedia.org/wiki/DAICON_FILM "wikilink")（[GAINAX](../Page/GAINAX.md "wikilink")前身）在1983年[自主制作的](https://zh.wikipedia.org/wiki/獨立電影 "wikilink")[特攝片](../Page/特攝片.md "wikilink")。影片采用[8毫米胶片](../Page/8毫米胶片.md "wikilink")拍摄，引用以及致敬[圓谷製作](../Page/圓谷製作.md "wikilink")的特摄电视剧集《[归来的奥特曼](../Page/超人力霸王傑克.md "wikilink")》，由深爱着[奥特曼系列的](../Page/超人力霸王系列.md "wikilink")[庵野秀明](../Page/庵野秀明.md "wikilink")担任总导演并亲自出演奥特曼、[赤井孝美](../Page/赤井孝美.md "wikilink")担任[特效導演](https://zh.wikipedia.org/wiki/特效導演 "wikilink")。\[1\]\[2\]
 
 该片是作为1983年[日本科幻大會](../Page/日本科幻大會.md "wikilink")「DAICON4」推广活动的一环而制作上映，片长约26分钟。是一部超越业余领域的高完成度作品，厚重的故事和精致的[比例模型](../Page/比例模型.md "wikilink")摄影在当时引起了很大的话题。之后经圓谷製作的许可，GAINAX在2001年发售了[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。\[3\]\[4\]

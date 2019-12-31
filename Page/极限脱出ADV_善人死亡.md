@@ -1,3 +1,6 @@
+> 本文内容由[极限脱出ADV 善人死亡](https://zh.wikipedia.org/wiki/极限脱出ADV_善人死亡)转换而来。
+
+
 是2012年[任天堂3DS](../Page/任天堂3DS.md "wikilink")和[PlayStation Vita平台游戏](../Page/PlayStation_Vita.md "wikilink")。游戏男一号西格玛连同其他八人遭到绑架，被迫参加决定个人生死命运的九人游戏。随着游戏的进展，主角发掘出游戏背后的秘密及真实目的。
 
 [游戏系统共分为](https://zh.wikipedia.org/wiki/游戏性 "wikilink")“逃脫”和“小说”两部分。玩家在“逃脫”模式中必须解开[密室逃脱](../Page/密室逃脱.md "wikilink")场景中的谜题；而“小说”模式则以[视觉小说](../Page/视觉小说.md "wikilink")模式叙述游戏剧情，玩家读完后需要做出影响游戏结局的决定。游戏结局多达24个。借助游戏的[流程图](../Page/流程图.md "wikilink")，玩家可以回溯之前完成的部分，重新作出抉择，进而改变故事的走向。

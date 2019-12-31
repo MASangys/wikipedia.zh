@@ -1,3 +1,6 @@
+> 本文内容由[Platinum \(男子團體\)](https://zh.wikipedia.org/wiki/Platinum_\(男子團體\))转换而来。
+
+
 **Platinum**（韓語：**플래티넘**），是[韓國IN](https://zh.wikipedia.org/wiki/韓國 "wikilink") MEDIA A\&D於2019年推出的七人男子團體，成員包括Jess、Hagie、Woon Sub、Ha Jin、Cha Bin、RA.L及Sun Min。
 
 ## 成員資料

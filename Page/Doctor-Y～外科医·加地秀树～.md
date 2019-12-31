@@ -1,3 +1,6 @@
+> 本文内容由[Doctor-Y～外科医·加地秀树～](https://zh.wikipedia.org/wiki/Doctor-Y～外科医·加地秀树～)转换而来。
+
+
 [网络剧](https://zh.wikipedia.org/wiki/网络剧 "wikilink") | creator = <small>（[奥斯卡传播](https://zh.wikipedia.org/wiki/奥斯卡传播 "wikilink")）</small> | writer =  | director = 山田勇人 | starring = [胜村政信](https://zh.wikipedia.org/wiki/胜村政信 "wikilink") | narrated =  | country =  | language = [日本语](https://zh.wikipedia.org/wiki/日本语 "wikilink") | num_seasons = 4<small>（电视版）</small>
 3<small>（网络版）</small> | num_episodes = 4<small>（电视版）</small>
 18<small>（网络版）</small> | theme_music_composer = [泽田完](https://zh.wikipedia.org/wiki/泽田完 "wikilink") | producer =  | executive_producer =  | company = [朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink"){{\\}} | distributor = [朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink") | network = [朝日电视网](../Page/全日本新聞網.md "wikilink") | audio_format = [立体声广播](../Page/立體聲.md "wikilink") | related = [Doctor-X～外科医·大门未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科医·大门未知子～ "wikilink") }}

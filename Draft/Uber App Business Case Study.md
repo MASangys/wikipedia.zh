@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Uber App Business Case Study](https://zh.wikipedia.org/wiki/Draft:Uber_App_Business_Case_Study)转换而来。
+
+
 **Uber App Business Case Study**
 
 ## new terms and definitions

@@ -1,3 +1,6 @@
+> 本文内容由[超級機器人大戰DD](https://zh.wikipedia.org/wiki/超級機器人大戰DD)转换而来。
+
+
 為[萬代南夢宮娛樂開發的](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[智能手機遊戲](https://zh.wikipedia.org/wiki/智能手機 "wikilink")\[1\]。簡稱「機戰DD」或是「SRWDD」。於[2019年](../Page/2019年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")開始營運。免費下載（[部分道具需付費](https://zh.wikipedia.org/wiki/微交易 "wikilink")）。
 
 本作宣傳詞為「鋼之勇者們，超越次元的奮戰」

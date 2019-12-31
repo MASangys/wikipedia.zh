@@ -1,3 +1,6 @@
+> 本文内容由[The Book Of Us : Entropy](https://zh.wikipedia.org/wiki/The_Book_Of_Us_:_Entropy)转换而来。
+
+
 《**The Book Of Us : Entropy**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")所推出的第三張[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2019年10月22日發行，由JYP娛樂製作，Dreamus發行。共收錄十一首曲目，主打歌為《The Book Of Us : Entropy'》。
 
 ## 背景

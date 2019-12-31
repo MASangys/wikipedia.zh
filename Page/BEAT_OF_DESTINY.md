@@ -1,3 +1,6 @@
+> 本文内容由[BEAT OF DESTINY](https://zh.wikipedia.org/wiki/BEAT_OF_DESTINY)转换而来。
+
+
 《**BEAT OF DESTINY**》是[日本](../Page/日本.md "wikilink")雙人音樂團體[TWO-MIX](../Page/TWO-MIX.md "wikilink")的第11張單曲。1998年5月8日由[King Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 解說

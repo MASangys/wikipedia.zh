@@ -1,3 +1,6 @@
+> 本文内容由[ProPhoto RGB](https://zh.wikipedia.org/wiki/ProPhoto_RGB)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:CIExy1931_ProPhoto.svg "fig:缩略图")。三角形中不包含彩色範圍的部分則為人眼一般不可見的不存在色彩。\]\] **ProPhoto RGB**色彩空間，也被稱爲ROMM RGB色彩空間（Reference Output Medium Metric RGB Color Space），該色彩空間由[Kodak專爲攝影輸出而所開發設計](../Page/伊士曼柯达公司.md "wikilink")，相較一般的RGB色彩空間來説，該色彩空間所提供的[色域](../Page/色域.md "wikilink")十分寬裕，甚至包含[CIE](https://zh.wikipedia.org/wiki/CIE "wikilink") [Lab色彩空間中](../Page/Lab色彩空间.md "wikilink")90%以上的表面色彩和1980年Pointer所記錄的可能出現的100%的表面色彩。\[1\]該色域的表現範圍甚至較[寬色域RGB色彩空間還要大](https://zh.wikipedia.org/wiki/寬色域RGB色彩空間 "wikilink")。ProPhoto RGB色域也被用於非綫性相關[色階操作最小](https://zh.wikipedia.org/wiki/色階 "wikilink")[色調而使用](https://zh.wikipedia.org/wiki/色调 "wikilink")。不過這種色彩空間的缺點之一是該色彩空間包含有大約13%的通常[不存在色彩](https://zh.wikipedia.org/wiki/禁色_\(顏色\) "wikilink")。 [缩略图](https://zh.wikipedia.org/wiki/File:CIE1931xy_gamut_comparison.svg "fig:缩略图") 由於該[色彩空間](../Page/色彩空間.md "wikilink")十分巨大，所以一般建議采用16位[色深工作模式以防止出現過於明顯的](../Page/色彩深度.md "wikilink")[色調分離現象](https://zh.wikipedia.org/wiki/色調分離 "wikilink")。在通常的8位色深工作模式中該問題會非常顯著，因爲在該模式下[色彩的梯度會非常大而且明顯](../Page/色彩梯度.md "wikilink")。
 
 在該色彩空間之下有兩種相應的場景空間顏色編碼，一種為[RIMM RGB](https://zh.wikipedia.org/wiki/RIMM_RGB "wikilink")，其被用於編碼標準動態範圍場景空間圖像，另一種[ERIMM RGB則用於編碼擴展的動態範圍場景空間圖像](https://zh.wikipedia.org/wiki/ERIMM_RGB "wikilink")。

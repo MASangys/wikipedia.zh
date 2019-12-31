@@ -1,3 +1,6 @@
+> 本文内容由[Ddu-Du Ddu-Du \(日本單曲\)](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du_\(日本單曲\))转换而来。
+
+
 《**Ddu-Du Ddu-Du**》（風格化為**DDU-DU DDU-DU**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的首張[日本](../Page/日本.md "wikilink")單曲，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2018年8月22日以六種不同版本發售。\[1\]
 
 發行後，根據日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")排行榜的銷售統計，這張單曲在第一週共賣出了24,385張，使單曲登上該榜的單曲排行榜週榜第7名\[2\]，月銷售量則以27,263張居於單曲月榜第13名\[3\]。

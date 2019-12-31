@@ -1,3 +1,6 @@
+> 本文内容由[未來的約定 \(SING女團單曲\)](https://zh.wikipedia.org/wiki/未來的約定_\(SING女團單曲\))转换而来。
+
+
 〈**未來的約定**〉是中國女子音樂團體[SING女團](https://zh.wikipedia.org/wiki/SING女團 "wikilink")2018年第七張單曲音樂，也是[SING女團三周年主題曲](https://zh.wikipedia.org/wiki/SING女團 "wikilink") ，於9月14日发行。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 曲目

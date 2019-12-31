@@ -1,3 +1,6 @@
+> 本文内容由[波士顿轻轨绿线C支线](https://zh.wikipedia.org/wiki/波士顿轻轨绿线C支线)转换而来。
+
+
 波士顿轻轨**C支线**也被称作**灯塔街支线**或**克利夫兰环岛支线**，位于[美国](../Page/美国.md "wikilink")[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[波士顿](../Page/波士顿.md "wikilink")，是一条沿着往返于波士顿市中心和[布鲁克莱恩的](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")[轻轨](../Page/轻轨.md "wikilink")线。[波士顿轻轨绿线](../Page/波士顿轻轨绿线.md "wikilink")一共有4条支线，其中C支线在[肯莫尔站](../Page/肯莫尔站.md "wikilink")分叉开往[圣玛丽街站](https://zh.wikipedia.org/wiki/圣玛丽街站 "wikilink")，之后在灯塔街道路中央隔离带行驶，终点站为[克利夫兰环岛站](../Page/克利夫兰环岛站.md "wikilink")。[肯莫尔站](../Page/肯莫尔站.md "wikilink")同时也是B支线和D支线的分叉口。B、C、D支线在肯莫尔站汇合后沿着和行驶至波士顿市中心。，C支线入城方向的终点站为[波士顿北站](https://zh.wikipedia.org/wiki/波士顿北站 "wikilink")，继续向北前往[莱希米尔站](../Page/莱希米尔站.md "wikilink")需要换乘E支线。
 
 ## 信号灯

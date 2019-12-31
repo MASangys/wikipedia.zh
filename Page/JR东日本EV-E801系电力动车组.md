@@ -1,3 +1,6 @@
+> 本文内容由[JR东日本EV-E801系电力动车组](https://zh.wikipedia.org/wiki/JR东日本EV-E801系电力动车组)转换而来。
+
+
 **EV-E801系电力动车组**（）是由[东日本旅客铁道](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")（JR东日本）自2017年3月4日起在日本北部[秋田县](../Page/秋田县.md "wikilink")[男鹿线上运营的一种两节编组](../Page/男鹿線.md "wikilink")[电池电力动车组](../Page/電聯車.md "wikilink")（BEMU） 。\[1\]
 
 ## 概述

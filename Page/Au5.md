@@ -1,3 +1,6 @@
+> 本文内容由[Au5](https://zh.wikipedia.org/wiki/Au5)转换而来。
+
+
 **奧斯汀·柯林斯**（Austin Collins, 藝名 Au5） 是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[唱片騎師和音樂製作人](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")，出生於[新澤西州](../Page/新泽西州.md "wikilink")。\[1\]''' 柯林斯的藝名是從他名字頭三個英文字幕做成。
 
 柯林斯在2014年內發表歌曲《Snowblind》而《Crossroad》在唱片公司 [Monstercat](../Page/Monstercat.md "wikilink") 上，各首達到超逾八百萬的觀看次數。他的作品最知名混合[迴響貝斯](../Page/迴響貝斯.md "wikilink")，[出神音樂](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")，和[前衛浩室音樂的特性](https://zh.wikipedia.org/wiki/前衛浩室音樂 "wikilink")。

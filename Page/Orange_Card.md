@@ -1,3 +1,6 @@
+> 本文内容由[Orange Card](https://zh.wikipedia.org/wiki/Orange_Card)转换而来。
+
+
 [オレンジカード500JR西.jpg](https://zh.wikipedia.org/wiki/File:オレンジカード500JR西.jpg "fig:オレンジカード500JR西.jpg")發售的500日圓面額Orange Card（卡面圖案已模糊化處理）\]\] **Orange Card**（），是[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")（國鐵）與[分割民營化之後的](../Page/國鐵分割民營化.md "wikilink")[JR](../Page/JR.md "wikilink")曾經發行的[磁条](https://zh.wikipedia.org/wiki/磁条 "wikilink")[儲值卡](https://zh.wikipedia.org/wiki/儲值卡 "wikilink")。可供搭車乘客在所屬[車站的](https://zh.wikipedia.org/wiki/車站 "wikilink")[自動售票機購買車票](https://zh.wikipedia.org/wiki/自動售票機 "wikilink")，省去使用紙鈔、硬幣之不便。
 
 ## 概要

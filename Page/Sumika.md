@@ -1,3 +1,6 @@
+> 本文内容由[Sumika](https://zh.wikipedia.org/wiki/Sumika)转换而来。
+
+
 **sumika**是[日本](../Page/日本.md "wikilink")的四人[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")。2013年结成。为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
 
 ## 成员

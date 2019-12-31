@@ -1,3 +1,6 @@
+> 本文内容由[Sodapoppin](https://zh.wikipedia.org/wiki/Sodapoppin)转换而来。
+
+
 **湯瑪斯·傑佛森·強斯·莫里士四世**（，），網路暱稱**Sodapoppin**，是一位美國籍[Twitch主播和](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")[網絡名人](../Page/網絡紅人.md "wikilink")。他是Twitch上擁有最高觀眾人數的實況主之一，擁有超過兩百萬追蹤人數和兩億觀看人數。\[1\]
 
 Sodapoppin也有一個擁有超過九十萬訂閱人數的[YouTube](../Page/YouTube.md "wikilink")頻道，在2018年10月已累積超過三億觀看次數。\[2\]

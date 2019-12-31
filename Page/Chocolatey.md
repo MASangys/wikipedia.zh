@@ -1,3 +1,6 @@
+> 本文内容由[Chocolatey](https://zh.wikipedia.org/wiki/Chocolatey)转换而来。
+
+
 **Chocolatey**是一个[Windows下的](https://zh.wikipedia.org/wiki/Windows "wikilink")[软件包管理器](https://zh.wikipedia.org/wiki/软件包管理器 "wikilink")，你可以像在类Unix系统中使用[Yum和](https://zh.wikipedia.org/wiki/Yum "wikilink")[APT一样使用它](https://zh.wikipedia.org/wiki/高级包装工具 "wikilink")，在Windows中实现自动化轻松管理Windows软件的所有方面（安装，配置，升级和卸载）。
 
 ## 语法

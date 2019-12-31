@@ -1,3 +1,6 @@
+> 本文内容由[ØZI](https://zh.wikipedia.org/wiki/ØZI)转换而来。
+
+
 **ØZI**（），本名**陳奕凡**，是一名台灣創作歌手，出生於[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，父親為知名攝影師陳文彬，母親則是全方位藝人[葉璦菱](../Page/葉璦菱.md "wikilink")，主持人[利菁](../Page/利菁.md "wikilink")是他的阿姨。ØZI自4歲就開始學習古典鋼琴、小提琴、吉他等樂器，14歲開始創作英文詞曲\[1\]，現為 新樂園音樂有限公司 Forbidden Paradise 旗下藝人。
 
 ## 簡介

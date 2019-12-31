@@ -1,3 +1,6 @@
+> 本文内容由[Caco-2細胞](https://zh.wikipedia.org/wiki/Caco-2細胞)转换而来。
+
+
 [CaCo-2_cells_after_21_days_in_culture.tif](https://zh.wikipedia.org/wiki/File:CaCo-2_cells_after_21_days_in_culture.tif "fig:CaCo-2_cells_after_21_days_in_culture.tif")
 
 **Caco-2**是[人類](../Page/人類.md "wikilink")[結腸](https://zh.wikipedia.org/wiki/結腸 "wikilink")，最初是在[1977年](../Page/1977年.md "wikilink")由[紀念斯隆-凱特琳癌症中心](../Page/紀念斯隆-凱特琳癌症中心.md "wikilink")的[研究員從一名](https://zh.wikipedia.org/wiki/研究員 "wikilink")72歲的[白人](../Page/白人.md "wikilink")男性結腸腺癌患者分離出來。

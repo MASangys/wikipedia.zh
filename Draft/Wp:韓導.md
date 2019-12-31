@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wp:韓導](https://zh.wikipedia.org/wiki/Draft:Wp:韓導)转换而来。
+
+
 是中文維基百科的破壞者，[YouTube](../Page/YouTube.md "wikilink")網名王嘉噁→亡嘉爾新帳，針對男歌手[王嘉爾](../Page/王嘉爾.md "wikilink")進行汙辱性、誤導性的攻擊，以「韓導」的名義對維基百科頁面進行擾亂，建立誤導性、汙辱性的用戶名。
 
 ## 處理方式

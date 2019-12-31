@@ -1,3 +1,6 @@
+> 本文内容由[Boom Technology](https://zh.wikipedia.org/wiki/Boom_Technology)转换而来。
+
+
 **Boom Technology**是一家位于美国的[超音速客机](https://zh.wikipedia.org/wiki/超音速客机 "wikilink")[创业公司](https://zh.wikipedia.org/wiki/创业公司 "wikilink")，正在设计一款名为Overture的2.2[马赫](../Page/马赫.md "wikilink")55座超音速客机，航程8300km，将于2023年投入使用。截至2019年1月，它已筹集1.41亿美元的[风险投资](../Page/风险投资.md "wikilink")。一架三分之一大小的原型机将于2019年进行试飞。\[1\]
 
 ## 参考文献

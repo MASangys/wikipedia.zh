@@ -1,3 +1,6 @@
+> 本文内容由[Jupyter](https://zh.wikipedia.org/wiki/Jupyter)转换而来。
+
+
 **Jupyter**（）是一个[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")，旨在“为数十种编程语言的[交互式计算开发](https://zh.wikipedia.org/wiki/交互式计算 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，开放标准和服务”。2014年由Fernando Pérez从[IPython](../Page/IPython.md "wikilink")中衍生出来，Jupyter支持几十种语言的执行环境。Jupyter Project的名称是对Jupyter支持的三种核心编程语言的引用，这三种语言是[Julia](../Page/Julia_\(编程语言\).md "wikilink")、[Python](../Page/Python.md "wikilink")和[R](../Page/R语言.md "wikilink")，也是对[伽利略记录发现](https://zh.wikipedia.org/wiki/伽利略 "wikilink")[木星的卫星](../Page/木星的卫星.md "wikilink")的笔记本的致敬。Jupyter项目开发并支持交互式计算产品Jupyter Notebook、JupyterHub和JupyterLab，这是Jupyter Notebook的下一代版本。
 
 ## 历史

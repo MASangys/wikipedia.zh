@@ -1,3 +1,6 @@
+> 本文内容由[Perry Dino](https://zh.wikipedia.org/wiki/Perry_Dino)转换而来。
+
+
 **Perry Dino**（），[香港](../Page/香港.md "wikilink")紀實[畫家](https://zh.wikipedia.org/wiki/畫家 "wikilink")，創作以香港政治事件和社會運動為題材的紀實畫。
 
 ## 簡歷

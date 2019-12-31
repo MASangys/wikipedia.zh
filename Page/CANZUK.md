@@ -1,3 +1,6 @@
+> 本文内容由[CANZUK](https://zh.wikipedia.org/wiki/CANZUK)转换而来。
+
+
 **CANZUK**是一个构想中的政治经济联盟，名称取自该联盟理论组成国名字的首字母缩写，即[加拿大](../Page/加拿大.md "wikilink") (C)，[澳大利亚](../Page/澳大利亚.md "wikilink") (A)，[新西兰](../Page/新西兰.md "wikilink") (NZ) 与[联合王国](https://zh.wikipedia.org/wiki/联合王国 "wikilink") (UK)，四国当下共享着相同[语言](../Page/英语.md "wikilink")，文化，[政治体制与](../Page/西敏制.md "wikilink")[君主](../Page/英国君主.md "wikilink")，亦均为[英联邦王国](https://zh.wikipedia.org/wiki/英联邦王国 "wikilink")。联盟计划组成为一个类似于前[欧洲经济共同体的组织](https://zh.wikipedia.org/wiki/欧洲经济共同体 "wikilink")\[1\]，通过增多边贸易额，加强外交政策合作，军事合作以及实现四国国民的自由流动达成该目标\[2\]。CANZUK组织想法受到各种智库（如[CANZUK国际协会与](https://zh.wikipedia.org/wiki/:en:CANZUK_International "wikilink")[亚当斯密研究所等](https://zh.wikipedia.org/wiki/:en:Adam_Smith_Institute "wikilink")）与组成四国的部分政客支持。
 
 ## 历史
@@ -28,7 +31,7 @@ CANZUK一词最早被《殖民地到英联邦（*Colonies Into Commonwealth*）�
 
 ### 加拿大
 
-几位议员在2017年[加拿大保守党领导人选举中对CANZUK建议表示支持](../Page/加拿大保守黨.md "wikilink")。该次选举最终的获胜者，[安德魯·熙爾](https://zh.wikipedia.org/wiki/安德魯·熙爾 "wikilink")，在2017年三月对CANZUK提出的自由贸易协议表示支持。在[温哥华的一场辩论中](../Page/溫哥華.md "wikilink")，熙尔表示“我十分支持我国在与澳大利亚，新西兰和英国之间构建贸易协定，我们拥有着相同的法律框架，共同的民主系统以及同种投资和贸易的立法与条例，但我们并不同中国享有这些优势。\[27\]”
+几位议员在2017年[加拿大保守党领导人选举中对CANZUK建议表示支持](../Page/加拿大保守黨.md "wikilink")。该次选举最终的获胜者，[安德魯·熙爾](../Page/安德魯·熙爾.md "wikilink")，在2017年三月对CANZUK提出的自由贸易协议表示支持。在[温哥华的一场辩论中](../Page/溫哥華.md "wikilink")，熙尔表示“我十分支持我国在与澳大利亚，新西兰和英国之间构建贸易协定，我们拥有着相同的法律框架，共同的民主系统以及同种投资和贸易的立法与条例，但我们并不同中国享有这些优势。\[27\]”
 
 其他保守党领导人候选人也对CANZUK所提出的自由贸易与自由流动表示接受并将其列入他们的竞选大纲，这些候选人包括[艾琳·奥图尔和](https://zh.wikipedia.org/wiki/:en:Erin_O'Toole "wikilink")[莊文浩](../Page/莊文浩.md "wikilink")\[28\]。2017年4月，奥图尔放出了一条与CANZUK国际合作的视频，形容CANZUK计划为“没有道理不做的”，认为加拿大已经为美国及其公民提供了自由贸易与自由流动权，“那为何不能为我们其他亲密的盟友提供同等的待遇呢？”\[29\]2017年5月，莊文浩宣布对脱欧后CANZUK国家间的自由流动运动表示支持，说道“一个很好的想法使得我们同澳大利亚，新西兰与联合王国开创一个新的贸易协定，特别是在英国退出欧洲公投的指引下\[30\]。”
 

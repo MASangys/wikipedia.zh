@@ -1,3 +1,6 @@
+> 本文内容由[Love Live! Sunshine!! 學園偶像電影\~彩虹彼端\~](https://zh.wikipedia.org/wiki/Love_Live!_Sunshine!!_學園偶像電影\~彩虹彼端\~)转换而来。
+
+
 《**Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~**》\[1\]（）为Project [LoveLive\! Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。制作动画剧场版的决定于2017年12月电视动画第二季播毕时由官方正式公布。本片由[日昇动画制作](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")、并由[松竹](../Page/松竹.md "wikilink")株式会社发行，2019年1月4日开始在[日本](../Page/日本.md "wikilink")全國128館中播映。\[2\]
 
 ## 劇情大綱

@@ -1,3 +1,6 @@
+> 本文内容由[Pixel 4](https://zh.wikipedia.org/wiki/Pixel_4)转换而来。
+
+
 **Pixel 4及Pixel 4 XL**是由[Google](../Page/Google.md "wikilink")发布的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，两款手机分别为[Pixel 3及Pixel 3 XL的后继机型](../Page/Pixel_3.md "wikilink")。Google于2019年6月公布Pixel 4系列的背部外观，证实其存在\[1\]。该系列手机于2019年10月15日在Google的新品发布会上正式公布，并于10月24日在美国正式发售\[2\]。
 
 ## 规格

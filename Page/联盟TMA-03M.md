@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-03M](https://zh.wikipedia.org/wiki/联盟TMA-03M)转换而来。
+
+
 **联盟TMA-03M**（）是[俄罗斯](../Page/俄罗斯.md "wikilink")[联盟TMA系列飞船之一](https://zh.wikipedia.org/wiki/联盟TMA "wikilink")，也是[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")的第112次飞行。飞船搭载三名宇航员于2011年12月21日在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")[拜科努尔航天发射场](../Page/拜科努尔航天发射场.md "wikilink")发射升空，飞赴国际空间站。飞船于2011年12月23日16时19分与国际空间站成功对接\[1\]\[2\]。
 
 飞船的乘组人员是指令长[奥列格·科诺年科](../Page/奥列格·科诺年科.md "wikilink")、欧空局[荷兰](../Page/荷兰.md "wikilink")宇航员[安德烈·凯珀斯和](https://zh.wikipedia.org/wiki/安德烈·凯珀斯 "wikilink")[美国](../Page/美国.md "wikilink")宇航员[唐纳德·佩蒂特](https://zh.wikipedia.org/wiki/唐纳德·佩蒂特 "wikilink")\[3\]。

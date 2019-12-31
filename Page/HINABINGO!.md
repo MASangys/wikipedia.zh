@@ -1,3 +1,6 @@
+> 本文内容由[HINABINGO!](https://zh.wikipedia.org/wiki/HINABINGO!)转换而来。
+
+
 《**HINABINGO\!**》是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[日向坂46](../Page/日向坂46.md "wikilink")冠名演出的深夜綜藝節目系列，由[日本電視台](../Page/日本電視台.md "wikilink")製播、搞笑藝人[小籔千豐](../Page/小籔千豐.md "wikilink")主持。自2019年4月16日首度播出，播出時間為日本時間每週一深夜25時29分－59分（即週二凌晨1時29分－59分），每集長約30分鐘。目前已播出2[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
 
 ## 概要

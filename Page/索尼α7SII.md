@@ -1,3 +1,6 @@
+> 本文内容由[索尼α7SII](https://zh.wikipedia.org/wiki/索尼α7SII)转换而来。
+
+
 **索尼α7S II**（型號：**ILCE-7SM2**，簡稱**A7S2**）是一個由[索尼](../Page/索尼.md "wikilink")製造[全畫幅](https://zh.wikipedia.org/wiki/全畫幅 "wikilink")[無反光鏡可換鏡頭相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")。於2015年9月11日發表，為[索尼 α7S的後繼機種](https://zh.wikipedia.org/wiki/索尼_α7S "wikilink")。
 
 能直接錄製[4K解析度](../Page/4K解析度.md "wikilink")影片，且不需要像α7S那樣外接設備，這使它非常適合[電影製作人](https://zh.wikipedia.org/wiki/電影製作人 "wikilink")。 \[1\] 2016年12月，[JAXA在](https://zh.wikipedia.org/wiki/JAXA "wikilink")[國際太空站安裝了索尼α](https://zh.wikipedia.org/wiki/國際太空站 "wikilink")7SII ，是第一個在太空中拍攝的4K商業影片。 \[2\]

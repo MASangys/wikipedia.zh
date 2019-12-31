@@ -1,3 +1,6 @@
+> 本文内容由[DutchCow](https://zh.wikipedia.org/wiki/DutchCow)转换而来。
+
+
 **荷兰乳牛**（英文：DutchCow）是[欧洲](../Page/欧洲.md "wikilink")的一个[乳品品牌](https://zh.wikipedia.org/wiki/乳品 "wikilink")。该品牌由[荷兰](../Page/荷兰.md "wikilink")尤尼森有限公司创立，并于20世纪90年代初正式进入中国市场\[1\]。
 
 ## 简介

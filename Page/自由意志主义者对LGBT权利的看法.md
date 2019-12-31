@@ -1,3 +1,6 @@
+> 本文内容由[自由意志主义者对LGBT权利的看法](https://zh.wikipedia.org/wiki/自由意志主义者对LGBT权利的看法)转换而来。
+
+
 **自由意志主义者对LGBT权利的看法**阐述了[自由意志主义个人和政党如何将自由意志主义哲学应用于](https://zh.wikipedia.org/wiki/自由意志主义 "wikilink")[女同性恋者](https://zh.wikipedia.org/wiki/女同性恋者 "wikilink")、[男同性恋者](https://zh.wikipedia.org/wiki/男同性恋者 "wikilink")、[双性恋者和](https://zh.wikipedia.org/wiki/双性恋者 "wikilink")[跨性别者](https://zh.wikipedia.org/wiki/跨性别者 "wikilink")（LGBT）权利的主题。
 
 ## 各国

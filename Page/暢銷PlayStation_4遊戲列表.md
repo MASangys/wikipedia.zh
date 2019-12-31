@@ -1,3 +1,6 @@
+> 本文内容由[暢銷PlayStation 4遊戲列表](https://zh.wikipedia.org/wiki/暢銷PlayStation_4遊戲列表)转换而来。
+
+
 已售出或出货至少100万份的[PlayStation 4游戏](../Page/PlayStation_4.md "wikilink")。
 
 ## 列表

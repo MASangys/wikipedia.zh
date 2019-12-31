@@ -1,3 +1,6 @@
+> 本文内容由[中国铁路DK1型蒸汽机车](https://zh.wikipedia.org/wiki/中国铁路DK1型蒸汽机车)转换而来。
+
+
 **DK1型**是[中国铁路一款干线货运用途](../Page/中華人民共和國鐵路運輸.md "wikilink")[煤水车式](https://zh.wikipedia.org/wiki/煤水车 "wikilink")[蒸汽机车](../Page/蒸汽機車.md "wikilink")，前身为[南满州铁道](../Page/南滿洲鐵道.md "wikilink")（Dekai，意指Decapod第1型）型蒸汽机车。
 
 ## 历史

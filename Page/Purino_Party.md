@@ -1,3 +1,6 @@
+> 本文内容由[Purino Party](https://zh.wikipedia.org/wiki/Purino_Party)转换而来。
+
+
 《**Purino Party**》是日本遊戲公司[FrontWing](../Page/FrontWing.md "wikilink")於2016年6月23日發售的[三消類型](https://zh.wikipedia.org/wiki/消除類遊戲 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]\[2\]，同公司旗下遊戲《[Pure Girl](../Page/Pure_Girl.md "wikilink")》和《[Innocent Girl](../Page/Innocent_Girl.md "wikilink")》的[跨界作品](../Page/跨界作品.md "wikilink")。
 
 ## 系統

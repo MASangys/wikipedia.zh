@@ -1,3 +1,6 @@
+> 本文内容由[Fantastic Time](https://zh.wikipedia.org/wiki/Fantastic_Time)转换而来。
+
+
 「**Fantastic Time**」 是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")17张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年10月26日由[J Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 收錄曲

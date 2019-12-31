@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士ZI-O 外傳 RIDER TIME](https://zh.wikipedia.org/wiki/假面騎士ZI-O_外傳_RIDER_TIME)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

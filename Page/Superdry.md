@@ -1,3 +1,6 @@
+> 本文内容由[Superdry](https://zh.wikipedia.org/wiki/Superdry)转换而来。
+
+
 **Superdry plc**是一家[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[品牌](../Page/品牌.md "wikilink")的[服裝](https://zh.wikipedia.org/wiki/服裝 "wikilink")[公司](../Page/公司.md "wikilink")，也是Superdry品牌的所有者。Superdry在[倫敦證券交易所上市](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")，是[富時250指數](../Page/富時250指數.md "wikilink")的股票之一。\[1\]\[2\]
 
 ## 歷史

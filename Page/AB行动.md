@@ -1,3 +1,6 @@
+> 本文内容由[AB行动](https://zh.wikipedia.org/wiki/AB行动)转换而来。
+
+
 **AB行动**（，“特殊平定行动”），是[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间[纳粹德国暴力运动的第二阶段](../Page/納粹德國.md "wikilink")，旨在消除预定会最终兼并的领土上的知识分子和[波兰社会的上层阶级](../Page/波蘭人.md "wikilink")。大多数谋杀事件被安排为在德国抵达时从城镇中[大规模失踪的形式](../Page/强迫失踪.md "wikilink")。\[1\]在1940年春季和夏季，[波兰总督府的纳粹当局逮捕了](../Page/波蘭總督府.md "wikilink")3万多名波兰人。\[2\]其中约有7千人随后被秘密处决，包括社区领导、教授、教师和牧师（被认定为有犯罪嫌疑）。秘密处决在多个地点进行，包括附近[森林中的一片区域](../Page/帕尔米里大屠杀.md "wikilink")。\[3\][AB-Aktion](http://www1.yadvashem.org/odot_pdf/Microsoft%20Word%20-%205710.pdf), Shoah Resource Center, The International School for Holocaust Studies. </ref>\[4\]其他人被送往[德国集中营](../Page/納粹集中營.md "wikilink")。
 
 ## 历史

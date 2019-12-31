@@ -1,3 +1,6 @@
+> 本文内容由[放牛班COWBOYZ](https://zh.wikipedia.org/wiki/放牛班COWBOYZ)转换而来。
+
+
 **放牛班COWBOYZ**，為原[TOP1男子漢成員](https://zh.wikipedia.org/wiki/TOP1男子漢 "wikilink")\[1\][李宜柏](../Page/李宜柏.md "wikilink")、[曾奕翔](https://zh.wikipedia.org/wiki/曾奕翔 "wikilink")
 
 ## 經歷

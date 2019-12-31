@@ -1,3 +1,6 @@
+> 本文内容由[三溴合锗\(II\)酸铯](https://zh.wikipedia.org/wiki/三溴合锗\(II\)酸铯)转换而来。
+
+
 **三溴合锗(II)酸铯**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为CsGeBr<sub>3</sub>，它是具有二阶[非线性光学性质的](https://zh.wikipedia.org/wiki/非线性光学 "wikilink")[钙钛矿材料](../Page/钙钛矿_\(结构\).md "wikilink")。\[1\]
 
 ## 制备

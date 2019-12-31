@@ -1,3 +1,6 @@
+> 本文内容由[Tesla Cybertruck](https://zh.wikipedia.org/wiki/Tesla_Cybertruck)转换而来。
+
+
 ****又称****或**赛博皮卡**，是[特斯拉公司研发的即将上市的](../Page/特斯拉_\(公司\).md "wikilink")[纯电动](https://zh.wikipedia.org/wiki/纯电动车 "wikilink")。特斯拉公司在发布会上共公布了三个型号，基础款为单电机后轮驱动，续航里程为400km，加速时间为6.5秒；性能款双电机全轮驱动版本续航里程为480km，加速时间为4.5秒；最高性能款为三电机全轮驱动续航里程为800km，加速时间为2.9秒。\[1\]
 
 美国平均日销售的皮卡约为6500辆，特斯拉公司称其研发Cybertruck的动机是为了取代这些燃烧化石燃料的皮卡。\[2\]\[3\] Cybertruck车身使用[不锈钢及](https://zh.wikipedia.org/wiki/不锈钢 "wikilink")[钛](../Page/钛.md "wikilink")材质。\[4\]

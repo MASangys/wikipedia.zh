@@ -1,3 +1,6 @@
+> 本文内容由[OceanBase](https://zh.wikipedia.org/wiki/OceanBase)转换而来。
+
+
 **OceanBase**(OB)是阿里巴巴集團研發的[資料庫軟體](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，用於[淘寶網和諸多阿里集團的雲端服務](https://zh.wikipedia.org/wiki/淘寶網 "wikilink")、部分政府機構、銀行，擅長於海量資料處理，目前速度為全球排名第一。
 
 2019年10月在視為資料庫界的國際聖杯TPC-C测试中，OceanBase以每分鐘存取6000多萬筆資訊的速度，擊敗蟬聯九年冠軍的美國[甲骨文資料庫](../Page/甲骨文公司.md "wikilink")(Oracle )拿下冠軍，且擊敗幅度是超越甲骨文的3000多萬筆效能近一倍。\[1\]

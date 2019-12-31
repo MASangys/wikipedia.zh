@@ -1,3 +1,6 @@
+> 本文内容由[VT-5轻型坦克](https://zh.wikipedia.org/wiki/VT-5轻型坦克)转换而来。
+
+
 **VT-5轻型坦克**是一款[中华人民共和国于](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")2010年代计划设计的新型轻型坦克，2016年於外銷展上首次公開。\[1\]
 
 ## 研发始末

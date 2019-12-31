@@ -1,3 +1,6 @@
+> 本文内容由[Far Lands or Bust](https://zh.wikipedia.org/wiki/Far_Lands_or_Bust)转换而来。
+
+
 《**Far Lands or Bust**》是连载于[YouTube](../Page/YouTube.md "wikilink")上的一个视频系列，由美国游戏主播兼网页设计师Kurt J. Mac所制作，记录了他自2011年3月28日\[1\]起在[沙盒游戏](https://zh.wikipedia.org/wiki/沙盒游戏 "wikilink")《[我的世界](../Page/我的世界.md "wikilink")》中探寻边境之地的过程。
 
 ## 边境之地

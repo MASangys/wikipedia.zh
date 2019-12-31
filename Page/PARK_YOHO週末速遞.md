@@ -1,3 +1,6 @@
+> 本文内容由[PARK YOHO週末速遞](https://zh.wikipedia.org/wiki/PARK_YOHO週末速遞)转换而来。
+
+
 《**PARK YOHO週末速遞**》（PARK YOHO Weekend Express）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的生活消閒資訊節目，該節目由[新鴻基地產](../Page/新鴻基地產.md "wikilink")贊助，於下列不同時間及頻道播映：
 
   - 於2019年5月18日至6月8日每周六晚上20:00-20:30於[翡翠台](../Page/翡翠台.md "wikilink")播出；

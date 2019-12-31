@@ -1,3 +1,6 @@
+> 本文内容由[Presto \(SQL查询引擎\)](https://zh.wikipedia.org/wiki/Presto_\(SQL查询引擎\))转换而来。
+
+
 **Presto**是一种用于大数据的高性能分布式[SQL](../Page/SQL.md "wikilink")查询引擎。其架构允许用户查询各种数据源，如Hadoop、AWS S3、Alluxio、[MySQL](../Page/MySQL.md "wikilink")、[Cassandra](../Page/Cassandra.md "wikilink")、Kafka和MongoDB。甚至可以在单个查询中查询来自多个数据源的数据。Presto是[Apache许可证](../Page/Apache许可证.md "wikilink")下发布的社区驱动的开源软件。
 
 ## 历史

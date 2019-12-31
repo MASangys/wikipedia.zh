@@ -1,3 +1,6 @@
+> 本文内容由[Milet](https://zh.wikipedia.org/wiki/Milet)转换而来。
+
+
 **milet**，[日本](../Page/日本.md "wikilink")女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")\[1\]，2019年出道。为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
 
 ## 经历

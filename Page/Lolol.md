@@ -1,3 +1,6 @@
+> 本文内容由[Lolol](https://zh.wikipedia.org/wiki/Lolol)转换而来。
+
+
 **lolol**是[lol的首張原創專輯](../Page/Lol_\(團體\).md "wikilink")。2017年8月2日由avex trax發售\[1\]。
 
 ## 发售形態

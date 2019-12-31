@@ -1,3 +1,6 @@
+> 本文内容由[Perfume 6th Tour 2016 ｢COSMIC EXPLORER｣](https://zh.wikipedia.org/wiki/Perfume_6th_Tour_2016_｢COSMIC_EXPLORER｣)转换而来。
+
+
 《****》是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")13張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/Blu-ray\[1\]。
 
 ## 规格

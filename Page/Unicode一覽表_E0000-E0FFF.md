@@ -1,3 +1,6 @@
+> 本文内容由[Unicode一覽表 E0000-E0FFF](https://zh.wikipedia.org/wiki/Unicode一覽表_E0000-E0FFF)转换而来。
+
+
 **注意：**此頁面中顯示的代碼點被用於特殊目的。它們不是可顯示的字符，且不允許在HTML中使用。
 
 |                                                                                                |

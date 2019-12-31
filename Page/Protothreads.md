@@ -1,3 +1,6 @@
+> 本文内容由[Protothreads](https://zh.wikipedia.org/wiki/Protothreads)转换而来。
+
+
 **Protothreads**是一种低开销的[并发编程机制](../Page/并发计算.md "wikilink")。Protothreads充当[无栈的轻量级](https://zh.wikipedia.org/wiki/调用栈 "wikilink")[线程](../Page/线程.md "wikilink")或[协程](../Page/协程.md "wikilink")，它使用了极小的每protothread内存：一个短整数保存执行位置，一个字节作为让步标志。
 
 ## 简介

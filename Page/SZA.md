@@ -1,3 +1,6 @@
+> 本文内容由[SZA](https://zh.wikipedia.org/wiki/SZA)转换而来。
+
+
 **索拉娜·伊马尼·罗**（，），後改名為**阿瑪拉琪·基農索**（[伊博語](../Page/伊博語.md "wikilink")：Amarachi Chinonso，意指「**上帝恩典在不遠處**」\[1\]），較為人知的是艺名**SZA**（(，\[2\]），是一名美國歌手及詞曲作家。2012年10月，SZA以[個人出版的方式發行其出道](https://zh.wikipedia.org/wiki/個人出版 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《》，半年後又再發佈第二張EP《》。2013年7月，她宣佈自己已與簽約，並在它的旗下發行第三張EP《》\[3\]\[4\]。SZA的首張錄音室專輯《》於2017年6月9日正式發行，隨即受到音樂評論家的普遍讚譽\[5\]。它在[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")首登榜時便排名第三，最終更取得[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")的[白金認證](https://zh.wikipedia.org/wiki/音樂唱片銷售認證 "wikilink")，更獲《[時代雜誌](../Page/時代雜誌.md "wikilink")》評選為2017年的最佳專輯。在當屆[第60届格莱美奖](../Page/第60届格莱美奖.md "wikilink")上，《Ctrl》獲得四項提名，而SZA本人亦得到[最佳新人的提名](../Page/格莱美奖最佳新人.md "wikilink")\[6\]。
 
 SZA是一位歌手，其歌曲常被形容為伴有[靈魂樂](../Page/靈魂樂.md "wikilink")和[嘻哈](../Page/嘻哈.md "wikilink")等元素的\[7\]，而歌詞則往往圍繞著性和[懷舊](../Page/懷舊.md "wikilink")等的主題\[8\]。[艾拉·費茲潔拉](../Page/艾拉·費茲潔拉.md "wikilink")、[碧玉](../Page/碧玉_\(歌手\).md "wikilink")、[傑米羅奎爾](../Page/傑米羅奎爾.md "wikilink")和[勞倫·希爾等歌手對SZA有著深切的影響](https://zh.wikipedia.org/wiki/勞倫·希爾 "wikilink")\[9\]\[10\]，而歌手之外的藝術家則有電影製作人[史派克·李](../Page/史派克·李.md "wikilink")\[11\]。

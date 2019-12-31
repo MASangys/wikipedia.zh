@@ -1,3 +1,6 @@
+> 本文内容由[RockySaaS](https://zh.wikipedia.org/wiki/RockySaaS)转换而来。
+
+
 **RockySaaS**是盘石集團旗下負責[SaaS產品研發](https://zh.wikipedia.org/wiki/SaaS "wikilink")、運營的全資[子公司](../Page/子公司.md "wikilink")，由盘石創始人兼[董事長](../Page/董事長.md "wikilink")田宁於2011年創立\[1\]。公司的總部位於[中國](../Page/中國.md "wikilink")[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")，並在[北京設有分公司](https://zh.wikipedia.org/wiki/北京 "wikilink")。其業務現已拓展至社交、HR、資訊、平臺和資料等不同領域\[2\]。
 
 ## 發展歷程

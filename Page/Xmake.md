@@ -1,3 +1,6 @@
+> 本文内容由[Xmake](https://zh.wikipedia.org/wiki/Xmake)转换而来。
+
+
 **XMake**是一个基于Lua的[开源轻量级](https://zh.wikipedia.org/wiki/开源 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[自動化構建系統](https://zh.wikipedia.org/wiki/Build_automation "wikilink")，支持在各种主流平台上构建项目
 
 xmake的目标是开发者更加关注于项目本身开发，简化项目的描述和构建，并且提供平台无关性，使得一次编写，随处构建

@@ -1,3 +1,6 @@
+> 本文内容由[無雙OROCHI 蛇魔 3](https://zh.wikipedia.org/wiki/無雙OROCHI_蛇魔_3)转换而来。
+
+
 是由[光榮特庫摩的ω](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")-force開發發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，是[无双大蛇系列的第](../Page/無雙OROCHI系列.md "wikilink")5部作品。遊戲的[PlayStation 4及](../Page/PlayStation_4.md "wikilink")[Nintendo Switch版於](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2018年9月27日正式發行，而[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox One則於](../Page/Xbox_One.md "wikilink")2018年10月16日發行\[1\]\[2\]\[3\]。
 
 在2019年12月19日會發行加强版無雙OROCHI 蛇魔 3 ultimate，首登陸在switch和ps4，pc版本發行在2020年2月14日。

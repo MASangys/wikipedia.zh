@@ -1,3 +1,6 @@
+> 本文内容由[SHA YAN](https://zh.wikipedia.org/wiki/SHA_YAN)转换而来。
+
+
 《**SHA YAN**》 是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[林愷倫個人首張](../Page/Karencici.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於正式發行，一共收錄11首歌曲。\[1\]
 
 ## 曲目

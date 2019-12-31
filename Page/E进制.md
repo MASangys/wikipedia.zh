@@ -1,3 +1,6 @@
+> 本文内容由[E进制](https://zh.wikipedia.org/wiki/E进制)转换而来。
+
+
 **e进制**是以[自然對數](../Page/自然對數.md "wikilink")的[底數](https://zh.wikipedia.org/wiki/底數 "wikilink")——[e作為](https://zh.wikipedia.org/wiki/e_\(常數\) "wikilink")[進位制](https://zh.wikipedia.org/wiki/進位制 "wikilink")[底數的](https://zh.wikipedia.org/wiki/底數 "wikilink")[进制](https://zh.wikipedia.org/wiki/进制 "wikilink")。類似於[三进制](https://zh.wikipedia.org/wiki/三进制 "wikilink")，通常使用0、1、2三个数字來表達，但由於除了0、1和2之外大部分的整數在e进制中皆需要用[無窮小數來表示](https://zh.wikipedia.org/wiki/無窮小數 "wikilink")，因此不是一個實用的進位制，但在[底數經濟度](../Page/底數經濟度.md "wikilink")模型中，e进制被認為是最高效率的進位制\[1\]\[2\]。
 
 ## 性質

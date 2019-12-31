@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM NT](https://zh.wikipedia.org/wiki/机动战士GUNDAM_NT)转换而来。
+
+
 《**机动战士GUNDAM NT**》（）是[日本](../Page/日本.md "wikilink")[动画系列GUNDAM系列中的一部](../Page/日本动画.md "wikilink")[动画电影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")\[1\]。2018年11月30日在日本全国90所[电影院上映](https://zh.wikipedia.org/wiki/电影院 "wikilink")\[2\]，2019年1月11日於[台灣上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")，1月24日於[新加坡](../Page/新加坡.md "wikilink")上映，2月14日於[香港](../Page/香港.md "wikilink")上映，7月12日於中國大陸上映。该作是首部在中国大陆公映的GUNDAM电影。
 
 ## 概要

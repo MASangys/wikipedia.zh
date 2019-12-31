@@ -1,3 +1,6 @@
+> 本文内容由[四氯合铜\(II\)酸二乙铵](https://zh.wikipedia.org/wiki/四氯合铜\(II\)酸二乙铵)转换而来。
+
+
 **四氯合铜(II)酸二乙铵**或**二乙胺四氯合铜(II)酸盐**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为C<sub>8</sub>H<sub>24</sub>Cl<sub>4</sub>Cu，它是一种[热致变色](../Page/热致变色.md "wikilink")的物质。
 
 ## 制备

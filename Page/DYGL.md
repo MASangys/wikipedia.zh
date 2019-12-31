@@ -1,3 +1,6 @@
+> 本文内容由[DYGL](https://zh.wikipedia.org/wiki/DYGL)转换而来。
+
+
 </ref> |genre=[摇滚](../Page/摇滚.md "wikilink") }}
 
 **DYGL**（\[1\]），日本獨立搖滾樂團。2012年就讀於明治學院大學時成立。 念作day-glo，英文意思是螢光劑。 \[2\]

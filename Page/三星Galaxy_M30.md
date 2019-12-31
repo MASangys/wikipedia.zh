@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy M30](https://zh.wikipedia.org/wiki/三星Galaxy_M30)转换而来。
+
+
 **三星Galaxy M30/A40s**是[三星電子](../Page/三星電子.md "wikilink")制造運行基於[Android 9 Pie作業系統的](../Page/Android_Pie.md "wikilink")[One UI介面的中階手機](../Page/One_UI.md "wikilink")。\[1\]**在中國大陸、香港和台灣改名為三星Galaxy A40s銷售。**\[2\]這台智慧型手機搭載了[Exynos](../Page/三星Exynos.md "wikilink") 7904 14[nm](https://zh.wikipedia.org/wiki/納米 "wikilink")[系統晶片](../Page/系统芯片.md "wikilink")，由2個Cortex-A73@1.8GHz核心和6個Cortex-A53@1.6GHz核心、Mali-G71 MP2[圖形處理器](../Page/圖形處理器.md "wikilink")、6/4GB的記憶體和128/64GB儲存空間組成。\[3\]
 
 支援可以擴充到512GB的[microSD記憶卡](https://zh.wikipedia.org/wiki/microSD "wikilink")。4G雙卡雙待。5000mAh Li-Po電池，支援15w快充。M30採用三星自家的6.4吋Infinity-U Super-AMOLED FHD+螢幕。\[4\]

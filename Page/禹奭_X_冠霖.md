@@ -1,3 +1,6 @@
+> 本文内容由[禹奭 X 冠霖](https://zh.wikipedia.org/wiki/禹奭_X_冠霖)转换而来。
+
+
 **禹奭 X 冠霖**（，），是[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下推出的特別企劃組合，成員有男子團體[PENTAGON的禹奭和個人歌手賴冠霖](../Page/Pentagon_\(男子組合\).md "wikilink")。於2019年3月11日，發表迷你專輯《9801》正式出道。\[1\]
 
 ## 經歷

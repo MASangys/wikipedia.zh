@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Ettore Sottsass](https://zh.wikipedia.org/wiki/Draft:Ettore_Sottsass)转换而来。
+
+
 **埃托雷·索特萨斯**（英语：Ettore Sottsass，1917年9月14日-2007年12月31日）是二十世纪一位重要的意大利建筑师和设计师。他的设计包含家具、珠宝、玻璃、灯光、家居用品、办公设备、以及许多建筑和室内设计。
 
 ## 早期生涯

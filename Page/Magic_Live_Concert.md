@@ -1,3 +1,6 @@
+> 本文内容由[Magic Live Concert](https://zh.wikipedia.org/wiki/Magic_Live_Concert)转换而来。
+
+
 **Magic Live Concert**，是一個慈善音樂會，於2008年11月7日至9日在[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")的「匯星」場館（Star Hall）舉行，由歌手[黎明](../Page/黎明.md "wikilink")、[光良](../Page/光良.md "wikilink")、[衛蘭](../Page/衛蘭.md "wikilink")各演唱一場，收益捐給[香港公益金](../Page/香港公益金.md "wikilink")作慈善用途\[1\]。
 
 ## 背景

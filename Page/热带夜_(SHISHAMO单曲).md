@@ -1,3 +1,6 @@
+> 本文内容由[热带夜 \(SHISHAMO单曲\)](https://zh.wikipedia.org/wiki/热带夜_\(SHISHAMO单曲\))转换而来。
+
+
 《**热带夜**》（）是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第3张单曲，于2015年8月5日发行。
 
 ## 简介

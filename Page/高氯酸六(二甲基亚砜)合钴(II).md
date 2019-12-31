@@ -1,3 +1,6 @@
+> 本文内容由[高氯酸六\(二甲基亚砜\)合钴\(II\)](https://zh.wikipedia.org/wiki/高氯酸六\(二甲基亚砜\)合钴\(II\))转换而来。
+
+
 **高氯酸六(二甲基亚砜)合钴(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为\[Co(C<sub>2</sub>H<sub>6</sub>SO)<sub>6</sub>\](ClO<sub>4</sub>)<sub>2</sub>，它是具有爆炸性的粉色晶体。\[1\]
 
 ## 制备

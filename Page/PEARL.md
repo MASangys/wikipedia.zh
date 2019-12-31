@@ -1,3 +1,6 @@
+> 本文内容由[PEARL](https://zh.wikipedia.org/wiki/PEARL)转换而来。
+
+
 **PEARL**'即**过程与实验自动化实时语言**，为一类[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程语言](../Page/编程语言.md "wikilink")。该语言设计之初便支持[多任务处理及](https://zh.wikipedia.org/wiki/多任务处理 "wikilink")[实时计算](../Page/实时计算.md "wikilink")。该语言作为一种[高级语言是支持](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[跨平台使用的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。自1977年起，[德国标准化学会](../Page/德国标准化学会.md "wikilink")多次定义标准。其最新版本为1998年发布的PEARL-90，该版本由DIN 66253-2标准定义。
 
 尽管PEARL的名称与[Perl](../Page/Perl.md "wikilink")语言类似，但请区分二者。后者是[拉里·沃尔](../Page/拉里·沃尔.md "wikilink")在1987年创建的语言，与PEARL语言无关。

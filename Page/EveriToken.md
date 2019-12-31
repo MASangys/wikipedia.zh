@@ -1,3 +1,6 @@
+> 本文内容由[EveriToken](https://zh.wikipedia.org/wiki/EveriToken)转换而来。
+
+
 **everiToken** 是一个于[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[楚格州](../Page/楚格州.md "wikilink")注册的公有链平台\[1\]，主要专注于底层公链开发\[2\]。该平台采用不同于UTXO与账户/余额模式的Token-based记账模型\[3\]以及区别于[智能合约](../Page/智能合约.md "wikilink")的安全合约\[4\]。
 
 everiToken采用面对面小额支付协议everiPay，为用户提供支付服务\[5\]。采用数据块验证和转移标准协议everiPass，适用于权益转移、身份证明以及密钥访问等领域\[6\]。

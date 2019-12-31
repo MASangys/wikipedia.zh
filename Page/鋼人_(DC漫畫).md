@@ -1,3 +1,6 @@
+> 本文内容由[鋼人 \(DC漫畫\)](https://zh.wikipedia.org/wiki/鋼人_\(DC漫畫\))转换而来。
+
+
 **鋼人**（）是一名[DC漫畫](../Page/DC漫畫.md "wikilink")旗下的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，初次登场于《[超人歷險記](https://zh.wikipedia.org/wiki/超人_\(漫画书\) "wikilink")》\#2（1993年1月）。\[1\]
 
 ## 人物

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:模块:SZBUS/data](https://zh.wikipedia.org/wiki/Draft:模块:SZBUS/data)转换而来。
+
+
 \-- index: {code, endpoint1, direction, endpoint2, fare, company, note,} -- optional: {image, endpoint3, direction1,}
 
 local szbusline = {

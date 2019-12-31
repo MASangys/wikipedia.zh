@@ -1,3 +1,6 @@
+> 本文内容由[维亚康姆CBS](https://zh.wikipedia.org/wiki/维亚康姆CBS)转换而来。
+
+
 **维亚康姆CBS公司**（）是一家总部位于[美国](../Page/美国.md "wikilink")[纽约市的](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[大众传媒](https://zh.wikipedia.org/wiki/大众传媒 "wikilink")[跨国公司](https://zh.wikipedia.org/wiki/跨国公司 "wikilink")，由[CBS公司](../Page/CBS公司.md "wikilink")与[第二代维亚康姆集团在](../Page/維亞康姆.md "wikilink")2019年12月4日[合并而成](https://zh.wikipedia.org/wiki/合并 "wikilink")。\[1\]\[2\]\[3\]\[4\][第二代维亚康姆集团是由](../Page/維亞康姆.md "wikilink")在2005年分拆而成。\[5\]维亚康姆CBS公司主要致力于、[电视](../Page/电视.md "wikilink")、[出版及](https://zh.wikipedia.org/wiki/出版 "wikilink")[数字媒体等领域](https://zh.wikipedia.org/wiki/数字媒体 "wikilink")。
 
 ## 公司历史

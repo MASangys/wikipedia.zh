@@ -1,3 +1,6 @@
+> 本文内容由[豐田Vios](https://zh.wikipedia.org/wiki/豐田Vios)转换而来。
+
+
 **豐田Vios**是由四門小型[轎車製作的日本製造商](https://zh.wikipedia.org/wiki/轎車 "wikilink")[豐田](https://zh.wikipedia.org/wiki/豐田 "wikilink")，主要面向[亞太地區的新興市場](https://zh.wikipedia.org/wiki/亞太 "wikilink")。
 
 豐田威馳於2002年推出，作為[豐田Tercel](https://zh.wikipedia.org/wiki/豐田Tercel "wikilink")（在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")、[馬來西亞和](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡](../Page/新加坡.md "wikilink")以Soluna銷售）的替代品，填補了亞洲[次緊湊型車級](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，在[豐田卡羅拉和](https://zh.wikipedia.org/wiki/豐田卡羅拉 "wikilink")[凱美瑞之下](https://zh.wikipedia.org/wiki/豐田凱美瑞 "wikilink")，也在該地區銷售。從2005年開始，Vios也在大多數亞太地區的掀背車配件[豐田Yaris](../Page/豐田Yaris.md "wikilink")上銷售。第二代Vios被稱為[Yaris轎車在](../Page/豐田Yaris.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[特立尼達和多巴哥](https://zh.wikipedia.org/wiki/特立尼達和多巴哥 "wikilink")、[牙買加](https://zh.wikipedia.org/wiki/牙買加 "wikilink")、[中東和](https://zh.wikipedia.org/wiki/中東 "wikilink")[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")。

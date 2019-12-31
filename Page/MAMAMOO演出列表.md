@@ -1,3 +1,6 @@
+> 本文内容由[MAMAMOO演出列表](https://zh.wikipedia.org/wiki/MAMAMOO演出列表)转换而来。
+
+
 《*' MAMAMOO演出列表*'》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink") [MAMAMOO歷年舉行的演唱會](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")、參與的國內外公開演出活動。
 
 ## 演唱會

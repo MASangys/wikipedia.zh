@@ -1,3 +1,6 @@
+> 本文内容由[DJ普雷米尔](https://zh.wikipedia.org/wiki/DJ普雷米尔)转换而来。
+
+
 [DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_(5_von_6).jpg](https://zh.wikipedia.org/wiki/File:DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_\(5_von_6\).jpg "fig:DJ_Preemo_-_Gods_of_Rap_Tour_2019_-_Berlin_(5_von_6).jpg") **克里斯托弗·爱德华·马丁**（英语：**Christopher Edward Martin**，1966年3月21日 - ）， \[1\]艺名**DJ普雷米尔**（**DJ Premier**，亦称为**Preemo**），美国[唱片制作人和](../Page/音樂製作人.md "wikilink")[DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")，并且是嘻哈二人组[Gang Starr](https://zh.wikipedia.org/wiki/Gang_Starr "wikilink")（另一成员为[Guru](https://zh.wikipedia.org/wiki/Guru_\(饶舌歌手\) "wikilink")）和[PRhyme](https://zh.wikipedia.org/wiki/PRhyme "wikilink")（另一成员为[Royce da 5'9"](https://zh.wikipedia.org/wiki/Royce_da_5'9" "wikilink")）中的一员。
 
 ## 早年生活

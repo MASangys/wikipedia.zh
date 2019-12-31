@@ -1,3 +1,6 @@
+> 本文内容由[能量色散X射线谱](https://zh.wikipedia.org/wiki/能量色散X射线谱)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:EDS_-_Rimicaris_exoculata.png "fig:右")到K[电子层发出的](https://zh.wikipedia.org/wiki/电子层 "wikilink")[X射线](../Page/X射线.md "wikilink")（Kα线和Kβ线）；其中一个峰来自于铁的L电子层。\]\]
 
 **能量色散X射线谱**（Energy-dispersive X-ray spectroscopy，英文缩写有**EDS**、**EDX、EDXS**或**XEDS**），有时也被称作**能量色散X射线分析**（<span>energy dispersive X-ray analysis</span>，**EDXA**）或**能量色散X射线微量分析**（<span>energy dispersive X-ray microanalysis</span>，**EDXMA**）是一种用于[元素分析](../Page/元素分析.md "wikilink")和[化学表征的分析手段](../Page/表征.md "wikilink")。该手段通过收集[X射线机或其他X射线源产生的](https://zh.wikipedia.org/wiki/X射线机 "wikilink")[X射线](../Page/X射线.md "wikilink")和样品相互作用时发出的X射线进行分析。由于不同[元素因原子结构不同而](https://zh.wikipedia.org/wiki/元素 "wikilink")[发射谱各异](../Page/發射光譜.md "wikilink")，所以可以通过分析X射线谱分辨样品所含的不同成分\[1\]。

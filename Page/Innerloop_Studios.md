@@ -1,3 +1,6 @@
+> 本文内容由[Innerloop Studios](https://zh.wikipedia.org/wiki/Innerloop_Studios)转换而来。
+
+
 是一家[挪威](../Page/挪威.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")开发商，以其图形技术而闻名。工作室于1996年成立，2003年因资金原因关闭。工作室主要为[PC平台开发游戏](../Page/个人电脑.md "wikilink")，因为[游戏主机的性能限制使得他们的图形技术需要缩水才能稳定运行](https://zh.wikipedia.org/wiki/游戏主机 "wikilink")。\[1\]
 
 ## 游戏

@@ -1,3 +1,6 @@
+> 本文内容由[SHISHAMO BEST](https://zh.wikipedia.org/wiki/SHISHAMO_BEST)转换而来。
+
+
 《**SHISHAMO BEST**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第1张[精选专辑](https://zh.wikipedia.org/wiki/精选专辑 "wikilink")，于2019年6月19日发行。
 
 ## 简介

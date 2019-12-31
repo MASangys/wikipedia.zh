@@ -1,3 +1,6 @@
+> 本文内容由[格勒诺布尔有轨电车E线](https://zh.wikipedia.org/wiki/格勒诺布尔有轨电车E线)转换而来。
+
+
 **格勒诺布尔有轨电车E线**（）是法国东南部城市[格勒诺布尔](../Page/格勒诺布尔.md "wikilink")的一条[有轨电车线路](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，全长11.5公里，于2014至2015年间建成通车。
 
 ## 历史

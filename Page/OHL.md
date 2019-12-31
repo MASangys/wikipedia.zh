@@ -1,3 +1,6 @@
+> 本文内容由[OHL](https://zh.wikipedia.org/wiki/OHL)转换而来。
+
+
 **OHL**（全称：；；[音译](../Page/音译.md "wikilink")：奥夫拉斯孔·瓦尔特·拉因）是总部设在[西班牙](../Page/西班牙.md "wikilink")的[跨国](../Page/跨國公司.md "wikilink")[建筑公司](../Page/建筑施工.md "wikilink")，主要经营[基础设施](../Page/基础设施.md "wikilink")、商业地产、[住宅](../Page/住宅.md "wikilink")楼和[收费公路建设](../Page/收費道路.md "wikilink")。OHL公司亦活跃于[巴西](../Page/巴西.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")以及美国，在[迈阿密](../Page/迈阿密.md "wikilink")建有分部大楼。
 
 OHL成立于1999年，由奥夫拉斯孔·瓦尔特建筑公司和拉因公司合并而成，注册资本9亿[美元](../Page/美元.md "wikilink")。\[1\]2008年7月在[馬德里證券交易所](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[IBEX 35](../Page/IBEX_35.md "wikilink")[指数上市](../Page/股價指數.md "wikilink")。

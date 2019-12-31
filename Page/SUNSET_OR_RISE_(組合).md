@@ -1,3 +1,6 @@
+> 本文内容由[SUNSET OR RISE \(組合\)](https://zh.wikipedia.org/wiki/SUNSET_OR_RISE_\(組合\))转换而来。
+
+
 **SUNSET OR RISE**是[香港](../Page/香港.md "wikilink")男女[音樂組合](../Page/音樂組合.md "wikilink")，於2016年11月成立，由男主音及結他手TOMY何家銘和女主音TAMMY鄺凱欣組成。2018年推出出道單曲《YOU LOOK SO FINE》，正式出道。
 
 ## 簡歷

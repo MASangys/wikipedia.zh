@@ -1,3 +1,6 @@
+> 本文内容由[夜笙歌 \(SING女團單曲\)](https://zh.wikipedia.org/wiki/夜笙歌_\(SING女團單曲\))转换而来。
+
+
 《**夜笙歌**》是中國女子音樂團體[SING女團](https://zh.wikipedia.org/wiki/SING女團 "wikilink")2018年主打曲，第四張[電子國風單曲音樂](https://zh.wikipedia.org/wiki/電子國風 "wikilink")，於7月6日发行。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 曲目

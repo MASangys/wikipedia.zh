@@ -1,3 +1,6 @@
+> 本文内容由[Blackview](https://zh.wikipedia.org/wiki/Blackview)转换而来。
+
+
 **Blackview**是[中國](../Page/中國.md "wikilink")一家總部位於[香港](../Page/香港.md "wikilink")的智能手機生產商，\[1\]隸屬於深圳市多科電子有限公司，其產品於全球多國市場銷售。\[2\]
 
 ## 參考文獻

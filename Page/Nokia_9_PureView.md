@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 9 PureView](https://zh.wikipedia.org/wiki/Nokia_9_PureView)转换而来。
+
+
 **Nokia 9 PureView**是[HMD Global推出的旗艦機型](../Page/HMD_Global.md "wikilink")，2019年2月26日在[西班牙](../Page/西班牙.md "wikilink")[巴塞隆拿舉辦的](https://zh.wikipedia.org/wiki/巴塞隆拿 "wikilink")[世界行動通訊大會](../Page/世界行動通訊大會.md "wikilink")上發佈\[1\]。搭載全球首個5顆主攝像鏡頭，鏡頭皆為[蔡司認證](../Page/蔡司公司.md "wikilink")，並採用來自的多鏡頭拍攝技術。支援IP67防水防塵，運行Android 9 Pie。
 
 ## 規格

@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士令和The First Generation](https://zh.wikipedia.org/wiki/假面騎士令和The_First_Generation)转换而来。
+
+
 《**假面騎士令和The First Generation**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》和《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》聯動劇場版，是『令和騎士X平成騎士』日本於2019年12月21日上映。
 
 ## 本作特色

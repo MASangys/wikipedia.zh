@@ -1,3 +1,6 @@
+> 本文内容由[Black ACE](https://zh.wikipedia.org/wiki/Black_ACE)转换而来。
+
+
 **Black ACE**（），是依據[优酷](../Page/优酷.md "wikilink")偶像男團競演養成類真人秀《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年3月28日成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](../Page/賴煜哲.md "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、陳順、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]，粉絲名為「 桃心 」應援色為「藍寶紅漸變色  」。
 
 ## 團隊經歷

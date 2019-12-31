@@ -1,3 +1,6 @@
+> 本文内容由[DNS托管服务](https://zh.wikipedia.org/wiki/DNS托管服务)转换而来。
+
+
 域名解析系统（DNS） 托管服务是一种提供运行、维护[域名系统](../Page/域名系统.md "wikilink")服务器的服务\[1\]。大部分 [域名注册机构](https://zh.wikipedia.org/wiki/域名注册商 "wikilink") 提供的服务内容中就包括DNS托管和注册。除了付费使用的DNS服务以外，也有部分DNS托管机构提供免费服务。 许多第三方DNS托管服务提供 [动态DNS](https://zh.wikipedia.org/wiki/動態DNS "wikilink")。
 
 DNS托管服务提供商可以通过在多个地理位置搭建服务器来提高自己的[灾备能力](https://zh.wikipedia.org/wiki/灾备 "wikilink")，降低其他地区用户的访问延迟。用户可以通过更改自己的本地DNS地址来更换自己使用的DNS托管服务提供商，借此一定程度上提高自己访问某些特定网站的速度，其原理是DNS服务节点距离用户越近，DNS查询请求和其返回内容在网络上传播的距离也就越近，故响应速度也就越快\[2\]。

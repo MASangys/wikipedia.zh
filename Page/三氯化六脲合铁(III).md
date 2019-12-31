@@ -1,3 +1,6 @@
+> 本文内容由[三氯化六脲合铁\(III\)](https://zh.wikipedia.org/wiki/三氯化六脲合铁\(III\))转换而来。
+
+
 **三氯化六脲合铁(III)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为\[Fe(CON<sub>2</sub>H<sub>4</sub>)<sub>6</sub>\]Cl<sub>3</sub>。它是浅绿色固体，可由六水合[氯化铁](../Page/氯化铁.md "wikilink")和[尿素](../Page/尿素.md "wikilink")在室温下按1:6化学计量比混合并研磨得到，反应吸热。\[1\]它还可以通过氯化铁的乙醇溶液和尿素反应，缓慢挥发或者加入[己烷](../Page/己烷.md "wikilink")来得到。\[2\]该配合物在198°C乙二醇溶液中分解，可以制得[Fe<sub>3</sub>O<sub>4</sub>](../Page/四氧化三铁.md "wikilink")。\[3\]
 
 ## 参考文献

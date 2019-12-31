@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wikipedia:当前的破坏](https://zh.wikipedia.org/wiki/Draft:Wikipedia:当前的破坏)转换而来。
+
+
 ###
 
   - 已发出最后警告。

@@ -1,3 +1,6 @@
+> 本文内容由[FN HMP機槍筴艙](https://zh.wikipedia.org/wiki/FN_HMP機槍筴艙)转换而来。
+
+
 **FN HMP**（HMP全寫：，意為：重機槍筴艙）是一款由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠所研製和生產的](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")系統，筴艙以內搭載著一挺[FN M3P](../Page/白朗寧M2重機槍.md "wikilink") [12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[航空型](../Page/航空机关枪.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")。
 
 ## 概述

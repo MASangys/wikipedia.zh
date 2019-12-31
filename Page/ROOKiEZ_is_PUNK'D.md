@@ -1,3 +1,6 @@
+> 本文内容由[ROOKiEZ is PUNK\'D](https://zh.wikipedia.org/wiki/ROOKiEZ_is_PUNK\'D)转换而来。
+
+
 [和声](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")）</small>
 
   - <small>（[贝斯](https://zh.wikipedia.org/wiki/低音吉他 "wikilink"){{\\}}[和声](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")）</small>

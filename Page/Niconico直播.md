@@ -1,3 +1,6 @@
+> 本文内容由[Niconico直播](https://zh.wikipedia.org/wiki/Niconico直播)转换而来。
+
+
 **Niconico直播**（，簡稱：）是[Dwango提供的視頻直播服務](https://zh.wikipedia.org/wiki/Dwango "wikilink")。雖然服務名稱上帶有「直播」一詞，但此服務並不是透過廣播訊號來發送，而是使用網路傳遞直播視頻。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[法国SOLEIL同步辐射加速器](https://zh.wikipedia.org/wiki/法国SOLEIL同步辐射加速器)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:VueAerienneSynchrotronSOLEIL.jpg "fig:缩略图") [右](https://zh.wikipedia.org/wiki/File:Schéma_de_principe_du_synchrotron.jpg "fig:右") [右](https://zh.wikipedia.org/wiki/File:SynchrotronSoleil-VueInterieur.jpg "fig:右") **SOLEIL** （ [法语](../Page/法语.md "wikilink")中的 “太阳”）是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")附近的[同步加速器](../Page/同步加速器.md "wikilink")设施。在2006年5月14日进行第一次电子加速，名称SOLEIL是LURE优化中介能量光源（法语：*Source optimisée de lumière d'énergie intermédiaire du LURE* ；英语：LURE optimised intermediary energy light source）首字母缩略词，LURE代表电磁辐射应用实验室（*Laboratoire pour l'utilisation du rayonnement électromagnétique*）*。*
 
 该设施由[法国国家科学研究中心](../Page/法國國家科學研究中心.md "wikilink") （CNRS）和[法国替代能源和原子能委员会](../Page/原子能和替代能源委员会.md "wikilink") （CEA）（两个法国国家研究机构）持有的民用公司运营。它位于[巴黎西南郊区](../Page/埃松省.md "wikilink")[埃松省](../Page/埃松省.md "wikilink")的 [Saint-Aubin](../Page/圣欧班_\(埃松省\).md "wikilink") ，靠近[Gif-sur-Yvette和](../Page/伊韦特河畔吉夫.md "wikilink")[Saclay](../Page/萨克来.md "wikilink") ，拥有其他[核物理和](../Page/原子核物理学.md "wikilink")[粒子物理设施](../Page/粒子物理學.md "wikilink")。

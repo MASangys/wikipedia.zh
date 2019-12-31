@@ -1,3 +1,6 @@
+> 本文内容由[GAZ-46兩棲人員車](https://zh.wikipedia.org/wiki/GAZ-46兩棲人員車)转换而来。
+
+
 [GAZ-46_visually_modified_to_resemble_a_Ford_GPA_during_the_VII_Aircraft_Picnic_in_Kraków_(14).jpg](https://zh.wikipedia.org/wiki/File:GAZ-46_visually_modified_to_resemble_a_Ford_GPA_during_the_VII_Aircraft_Picnic_in_Kraków_\(14\).jpg "fig:GAZ-46_visually_modified_to_resemble_a_Ford_GPA_during_the_VII_Aircraft_Picnic_in_Kraków_(14).jpg")
 
 **GAZ-46兩棲人員車**是[第二次世界大戰後的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")1953年蘇聯[高爾基汽車廠仿製的美國](https://zh.wikipedia.org/wiki/高爾基汽車廠 "wikilink")[福特GPA兩棲吉普車](https://zh.wikipedia.org/wiki/福特GPA兩棲吉普車 "wikilink")，兩者外表幾乎相同。

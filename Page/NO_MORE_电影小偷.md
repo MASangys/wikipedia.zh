@@ -1,3 +1,6 @@
+> 本文内容由[NO MORE 电影小偷](https://zh.wikipedia.org/wiki/NO_MORE_电影小偷)转换而来。
+
+
 [Comic_Market_94_Day_3_Cosplayers_(44006190952).jpg](https://zh.wikipedia.org/wiki/File:Comic_Market_94_Day_3_Cosplayers_\(44006190952\).jpg "fig:Comic_Market_94_Day_3_Cosplayers_(44006190952).jpg")（C94）上[cosplay警灯男与相机男](https://zh.wikipedia.org/wiki/cosplay "wikilink")。\]\] **NO MORE 电影小偷**（）是[日本](../Page/日本.md "wikilink")全国的[电影院在](https://zh.wikipedia.org/wiki/电影院 "wikilink")[电影](../Page/电影.md "wikilink")正片播出之前放映的礼仪宣传[广告](https://zh.wikipedia.org/wiki/电视广告 "wikilink")，由「去电影院吧！」实行委員会（）制作，作为「防止电影盗录宣传活动」（）的启发广告于2007年6月30日（即8月30日施行的2个月前）开始放映，当时只计划播出至2015年\[1\]。导演\[2\]。
 
 广告为「相机男」[偷拍](../Page/偷拍.md "wikilink")电影后被逮捕的[默剧](https://zh.wikipedia.org/wiki/默剧 "wikilink")，并由旁白告知「在电影院内拍摄电影或录音是犯罪行为」。2010年3月因应推出第2版，2012年11月因应「违法下载入刑」推出第3版，2014年10月推出第4版，包括登场角色的服装等均有更新\[3\]。

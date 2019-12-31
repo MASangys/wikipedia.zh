@@ -1,3 +1,6 @@
+> 本文内容由[Off-White](https://zh.wikipedia.org/wiki/Off-White)转换而来。
+
+
 **Off-White**（Off-White 或 OFF-WHITE c/o VIRGIL ABLOH）是一家意大利街头潮牌及奢侈品品牌，由美国设计师[維吉爾·阿伯拉赫](../Page/維吉爾·阿伯拉赫.md "wikilink")于2012年在意大利米兰创建\[1\]，专注于设计季节性高街潮流服饰，目前在全球共有24家门店。
 
 ## 品牌历史

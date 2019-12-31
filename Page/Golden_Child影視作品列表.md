@@ -1,3 +1,6 @@
+> 本文内容由[Golden Child影視作品列表](https://zh.wikipedia.org/wiki/Golden_Child影視作品列表)转换而来。
+
+
 《**Golden Child影視作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Golden Child歷年參與之各類電視節目](../Page/Golden_Child.md "wikilink")、固定節目、電視劇演出。
 
 ## 電視劇

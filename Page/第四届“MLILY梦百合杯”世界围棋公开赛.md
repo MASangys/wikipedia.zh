@@ -1,3 +1,6 @@
+> 本文内容由[第四届“MLILY梦百合杯”世界围棋公开赛](https://zh.wikipedia.org/wiki/第四届“MLILY梦百合杯”世界围棋公开赛)转换而来。
+
+
 **第四届[“MLILY梦百合0压床垫杯”世界围棋公开赛](https://zh.wikipedia.org/wiki/“MLILY梦百合杯”世界围棋公开赛 "wikilink")**
 
 ## 预选赛

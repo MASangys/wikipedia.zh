@@ -1,3 +1,6 @@
+> 本文内容由[Forever Young \(BLACKPINK歌曲\)](https://zh.wikipedia.org/wiki/Forever_Young_\(BLACKPINK歌曲\))转换而来。
+
+
 《**Forever Young**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的歌曲，收錄於她們的首張韓語[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》中，作為專輯的第二首主打歌曲由[Genie音樂](../Page/Genie音樂.md "wikilink")發行於2018年6月15日\[1\]。歌曲是由[泰迪](../Page/泰迪·朴.md "wikilink")、Future Bounce和R.Tee共同創作，泰迪亦是這首歌曲的主要製作人。發行後，該歌曲顯著的商業表現被[Gaon Chart K-POP大獎提名為](../Page/Gaon_Chart_K-POP大獎.md "wikilink")2018年的年度歌曲之一\[2\]\[3\]。截至2019年5月，《Forever Young》在[Spotify](../Page/Spotify.md "wikilink")上擁有超過8000萬流媒播放次數。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[The Banker \(電視劇\)](https://zh.wikipedia.org/wiki/The_Banker_\(電視劇\))转换而来。
+
+
 《**The Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年3月27日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")。改編自日本人氣漫畫《監査役野崎修平》，由《[拖旅行箱的女人](../Page/拖旅行箱的女人.md "wikilink")》的[李在珍導演執導](../Page/李在珍_\(導演\).md "wikilink")，徐恩貞、吳惠蘭、裴尚旭作家共同執筆。此劇講述在金錢和權力聚集的龐大銀行腐敗和不合理情況下，爲維護正義而奮鬥的人們的故事。\[1\]\[2\]
 
 ## 演員陣容

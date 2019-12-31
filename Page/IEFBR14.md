@@ -1,3 +1,6 @@
+> 本文内容由[IEFBR14](https://zh.wikipedia.org/wiki/IEFBR14)转换而来。
+
+
 **IEFBR14**是[IBM](../Page/IBM.md "wikilink")[大型计算机](../Page/大型计算机.md "wikilink")的[应用程序](../Page/应用程序.md "wikilink")。运行于的所有后继操作系统中，包括等。该程序是一个仅会返回[返回码](https://zh.wikipedia.org/wiki/退出状态 "wikilink")0的占位程序，类似于[类Unix系统](../Page/类Unix系统.md "wikilink")中的[true命令](../Page/True和false_\(命令\).md "wikilink")。\[1\]
 
 ## 作用

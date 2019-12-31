@@ -1,3 +1,6 @@
+> 本文内容由[MySQL数据库引擎的比较](https://zh.wikipedia.org/wiki/MySQL数据库引擎的比较)转换而来。
+
+
 这是MySQL数据库管理系统（DBMS）的可用数据库引擎之间的比较。 **数据库引擎** （或“存储引擎”）是DBMS用于从数据库[创建，读取，更新和删除](https://zh.wikipedia.org/wiki/创建，读取，更新和删除 "wikilink")（CRUD）数据的底层软件组件。
 
 <table>

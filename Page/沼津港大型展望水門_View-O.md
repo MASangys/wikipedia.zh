@@ -1,3 +1,6 @@
+> 本文内容由[沼津港大型展望水門 View-O](https://zh.wikipedia.org/wiki/沼津港大型展望水門_View-O)转换而来。
+
+
 **沼津港大型展望水門 View-O**（），座落於[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[沼津市](../Page/沼津市.md "wikilink")，是為了避免[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")[大地震造成的](../Page/地震.md "wikilink")[海嘯影響到沼津港而興建的海港](https://zh.wikipedia.org/wiki/海嘯 "wikilink")[水門](https://zh.wikipedia.org/wiki/水門 "wikilink")。平時作為[觀光](https://zh.wikipedia.org/wiki/觀光 "wikilink")[瞭望台](https://zh.wikipedia.org/wiki/瞭望台 "wikilink")，海嘯時具有公眾避難設施的用途。
 
 ## 介紹

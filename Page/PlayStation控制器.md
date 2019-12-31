@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation控制器](https://zh.wikipedia.org/wiki/PlayStation控制器)转换而来。
+
+
 **PlayStation控制器**（）是[索尼電腦娛樂为它旗下的](../Page/索尼互動娛樂.md "wikilink")[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")[家用电子游戏机所发布的第一个](../Page/家用游戏机.md "wikilink")[游戏控制器](../Page/游戏控制器.md "wikilink")。最初版本（型号SCPH-1010）于1994年12月3日与PlayStation一同发布。\[1\]
 
 ## 设计

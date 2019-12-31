@@ -1,3 +1,6 @@
+> 本文内容由[One-hot](https://zh.wikipedia.org/wiki/One-hot)转换而来。
+
+
 | [二進制](https://zh.wikipedia.org/wiki/二進制 "wikilink") | [格雷碼](https://zh.wikipedia.org/wiki/格雷碼 "wikilink") | One-hot  |
 | --------------------------------------------------- | --------------------------------------------------- | -------- |
 | 000                                                 | 000                                                 | 00000001 |

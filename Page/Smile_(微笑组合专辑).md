@@ -1,3 +1,6 @@
+> 本文内容由[Smile \(微笑组合专辑\)](https://zh.wikipedia.org/wiki/Smile_\(微笑组合专辑\))转换而来。
+
+
 ***Smile（微笑）***是瑞典流行乐队[Smile.dk的首张专辑](../Page/微笑組合.md "wikilink")。 该专辑在日本达成金唱片销量， \[1\]而Smile.dk于1998年在香港获得“最佳国际女子乐队组合”。 <ref>
 
 <div>

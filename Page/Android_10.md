@@ -1,3 +1,6 @@
+> 本文内容由[Android 10](https://zh.wikipedia.org/wiki/Android_10)转换而来。
+
+
 **Android 10**（开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android Q**），是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")-{zh-hant:作業系統;zh-hans:操作系统}-的第10个主要版本，继承[2018年](../Page/2018年.md "wikilink")發行的[Android Pie](../Page/Android_Pie.md "wikilink")。Android 10的首個开发者预览版本（即测试版）在2019年3月14日發行並提供下載。\[1\]正式版於2019年9月3日發行。此版本Android是各Android版本中，首次不用[甜品來命名](https://zh.wikipedia.org/wiki/甜品 "wikilink")。\[2\]
 
 ## 特性

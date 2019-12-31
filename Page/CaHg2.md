@@ -1,3 +1,6 @@
+> 本文内容由[CaHg2](https://zh.wikipedia.org/wiki/CaHg2)转换而来。
+
+
 **CaHg<sub>2</sub>**是[钙](../Page/钙.md "wikilink")和[汞](../Page/汞.md "wikilink")形成的[金属间化合物](https://zh.wikipedia.org/wiki/金属间化合物 "wikilink")，熔点746 °C。\[1\]
 
 ## 制备

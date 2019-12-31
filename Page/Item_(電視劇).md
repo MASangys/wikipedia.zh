@@ -1,3 +1,6 @@
+> 本文内容由[Item \(電視劇\)](https://zh.wikipedia.org/wiki/Item_\(電視劇\))转换而来。
+
+
 《**ITEM**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年2月11日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[爸爸，我來伺候你](../Page/爸爸，我來伺候你.md "wikilink")》金成旭、朴美妍導演與《[救救我](../Page/救救我.md "wikilink")》鄭怡道作家合作打造。此劇講述命運交錯的首爾地方檢察官與廣域調查隊犯罪側寫師，在偵辦連續殺人案的過程當中，經歷與多項擁有特殊能力物品有關的離奇事件，從中逐步揭露其背後陰謀，並持續與幕後黑手展開正邪對決的故事。\[1\]\[2\]\[3\]
 
 台灣由[LINE TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink") 、friDay影音、ELTA OTT、[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")，每周二、三 中午12點更新。香港[Viu](../Page/Viu.md "wikilink")於每周一、二深夜更新。

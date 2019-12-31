@@ -1,3 +1,6 @@
+> 本文内容由[小米MIX 3](https://zh.wikipedia.org/wiki/小米MIX_3)转换而来。
+
+
 **小米MIX 3**是一款由[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2018年10月25日所发布的搭载[安卓系统的全面屏](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。是小米MIX系列的第四款产品。
 
 ## 概述

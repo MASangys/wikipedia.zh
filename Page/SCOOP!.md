@@ -1,3 +1,6 @@
+> 本文内容由[SCOOP!](https://zh.wikipedia.org/wiki/SCOOP!)转换而来。
+
+
 《**SCOOP\!**》（日語：スクープ），是一部由[東寶](../Page/東寶.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")製作的電影，2016年10月1日於日本上映。本片改編自1985年由[原田真人](../Page/原田真人.md "wikilink")電影《盜寫1/250秒》，由[福山雅治](../Page/福山雅治.md "wikilink")主演。
 
 ## 登場角色

@@ -1,3 +1,6 @@
+> 本文内容由[OUI娛樂](https://zh.wikipedia.org/wiki/OUI娛樂)转换而来。
+
+
 **OUI娛樂**（韓語：**위 엔터테인먼트**；英語：'''OUI Entertainment '''），是一間韓國娛樂經紀公司。創立於2014年，旗下藝人包含[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")、[張大賢](../Page/張大賢.md "wikilink")、[劉勇河](https://zh.wikipedia.org/wiki/劉勇河 "wikilink")、[金俊抒](https://zh.wikipedia.org/wiki/金俊抒 "wikilink")、[金曜漢](../Page/金曜漢.md "wikilink")、[趙晟旭](https://zh.wikipedia.org/wiki/趙晟旭 "wikilink")、[薛仁雅](../Page/薛仁雅.md "wikilink")。
 
 ## 概述

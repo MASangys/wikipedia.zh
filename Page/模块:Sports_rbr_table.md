@@ -1,3 +1,6 @@
+> 本文内容由[模块:Sports rbr table](https://zh.wikipedia.org/wiki/模块:Sports_rbr_table)转换而来。
+
+
 \-- This module implements  local p = {}
 
 \-- Internationalisation local labels = {

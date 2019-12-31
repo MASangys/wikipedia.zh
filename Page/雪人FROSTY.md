@@ -1,3 +1,6 @@
+> 本文内容由[雪人FROSTY](https://zh.wikipedia.org/wiki/雪人FROSTY)转换而来。
+
+
 《**雪人FROSTY**》（）是改編自美國漫畫家[金·奧崔](../Page/金·奧崔.md "wikilink")的作品《[雪人](../Page/雪人.md "wikilink")》、由[Rankin Bass負責執導](https://zh.wikipedia.org/wiki/Rankin_Bass "wikilink")，於1965年12月9日在[CBS電視網上作為](../Page/CBS_\(電視網\).md "wikilink")[聖誕節特別節目播放](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")。\[1\]
 
 ## 登場人物

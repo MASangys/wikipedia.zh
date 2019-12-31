@@ -1,3 +1,6 @@
+> 本文内容由[MO：Astray](https://zh.wikipedia.org/wiki/MO：Astray)转换而来。
+
+
 《**MO：Astray 細胞迷途**》是由台灣信仰遊戲開發、[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")監製而發行的像素風格橫向動作[解謎遊戲](../Page/解謎遊戲.md "wikilink")。遊戲對應[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，在2019年10月25日於[Steam](../Page/Steam.md "wikilink")平台全球發售。
 
 ## 遊戲操作

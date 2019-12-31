@@ -1,3 +1,6 @@
+> 本文内容由[LOVE³ -Love Cube-](https://zh.wikipedia.org/wiki/LOVE³_-Love_Cube-)转换而来。
+
+
 是由NEKO WORK H製作於2019年7月25日在[Steam](../Page/Steam.md "wikilink")發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]，盒裝版於7月26日發售\[2\]，遊戲分全年齡版和18禁版。臺灣由[未來數位](../Page/未來數位.md "wikilink")代理盒裝版。
 
 ## 故事

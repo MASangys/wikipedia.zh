@@ -1,3 +1,6 @@
+> 本文内容由[G-LOG](https://zh.wikipedia.org/wiki/G-LOG)转换而来。
+
+
 **《G-LOG》**是由[GFRIEND](../Page/GFRIEND.md "wikilink")成員親自拍下她們生活的片段，於4月11日起播出至今 。\[1\] 節目在SOURCE MUSIC的YOUTUBE頻道播出。\[2\]
 
 節目片頭歌曲為《SHOW UP》收錄在正規二輯《Time for us》裡。

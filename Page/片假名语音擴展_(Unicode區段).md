@@ -1,3 +1,6 @@
+> 本文内容由[片假名语音擴展 \(Unicode區段\)](https://zh.wikipedia.org/wiki/片假名语音擴展_\(Unicode區段\))转换而来。
+
+
 **片假名语音擴展**是一个包含了用于书写[阿伊努语的小型假名的](https://zh.wikipedia.org/wiki/阿伊努语 "wikilink")[Unicode区块](https://zh.wikipedia.org/wiki/Unicode区块 "wikilink")。
 
 更多小型片假名可见于[小型假名扩展](../Page/小型假名扩展.md "wikilink")区块。

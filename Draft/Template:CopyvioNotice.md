@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:CopyvioNotice](https://zh.wikipedia.org/wiki/Draft:Template:CopyvioNotice)转换而来。
+
+
 <noinclude></noinclude>{{<includeonly>subst:</includeonly>\#if:|
 
 ## 您創建的條目[:可能侵犯版權](https://zh.wikipedia.org/wiki/:{{{1}}} "wikilink")

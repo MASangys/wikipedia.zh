@@ -1,3 +1,6 @@
+> 本文内容由[Girlkind](https://zh.wikipedia.org/wiki/Girlkind)转换而来。
+
+
 **Girlkind**（），是[韓國Next](https://zh.wikipedia.org/wiki/韓國 "wikilink") Level娛樂於2018年推出的五人女子組合，成員包括Medic Jin、JK、Xeheun、Sun J及Ellyn\[1\]，粉絲名為Onekind\[2\]。
 
 ## 成員資料

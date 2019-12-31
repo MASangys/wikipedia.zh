@@ -1,3 +1,6 @@
+> 本文内容由[Deadmau5音乐作品列表](https://zh.wikipedia.org/wiki/Deadmau5音乐作品列表)转换而来。
+
+
 該條目展示[加拿大](../Page/加拿大.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink") [Deadmau5](../Page/Deadmau5.md "wikilink")（电子鼠）發行的音樂作品。其到目前为止一共发行了8張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，9張[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")，1張原聲專輯，2張視訊專輯，6張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，48首[單曲和](https://zh.wikipedia.org/wiki/單曲 "wikilink")18部[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
 
 ## 专辑

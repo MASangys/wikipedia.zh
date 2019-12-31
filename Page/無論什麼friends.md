@@ -1,3 +1,6 @@
+> 本文内容由[無論什麼friends](https://zh.wikipedia.org/wiki/無論什麼friends)转换而来。
+
+
 《**無論什麼friends**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台的綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。節目名稱由兩個環節名稱：“無論什麼ranking mart”和“味道偵探friends”前後組合而成。節目主軸是用排名的方式瞭解同時代生活的人們所關心的事物，可以帶來有共鳴的愉快笑容請期待出演者爲了避免花自己的錢而努力推理的樣子。\[1\]\[2\]\[3\]\[4\]
 
 ## 節目成員

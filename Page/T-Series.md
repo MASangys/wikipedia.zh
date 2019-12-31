@@ -1,3 +1,6 @@
+> 本文内容由[T-Series](https://zh.wikipedia.org/wiki/T-Series)转换而来。
+
+
 **超级卡带工业私人有限公司**（暂定名称），（），又名**T-Series**\[1\]\[2\]是一家印度的音樂音乐录像带和电影公司，1983年由创办。\[3\]
 
 截至2018年，T-Series是印度[宝莱坞](../Page/宝莱坞.md "wikilink")音樂唱片巨頭，在电影業也有一定起色，与[薩爾曼·汗](../Page/薩爾曼·汗.md "wikilink")、[阿傑·德烏根](https://zh.wikipedia.org/wiki/阿傑·德烏根 "wikilink")、[阿克夏·庫馬](../Page/阿克夏·庫馬.md "wikilink")、[阿米爾·罕](https://zh.wikipedia.org/wiki/阿米爾·罕 "wikilink")、[蘭比爾·卡浦爾](../Page/蘭比爾·卡浦爾.md "wikilink")等艺人之间有合作关系。\[4\]

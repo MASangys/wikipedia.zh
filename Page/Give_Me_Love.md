@@ -1,3 +1,6 @@
+> 本文内容由[Give Me Love](https://zh.wikipedia.org/wiki/Give_Me_Love)转换而来。
+
+
 「**Give Me Love**」 是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")18张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年12月14日由[J Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 收錄曲

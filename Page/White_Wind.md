@@ -1,3 +1,6 @@
+> 本文内容由[White Wind](https://zh.wikipedia.org/wiki/White_Wind)转换而来。
+
+
 《**White Wind**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第九張](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，此為「四季系列」企劃的最後一張專輯。由[Rainbow Bridge World企劃製作](../Page/Rainbow_Bridge_World.md "wikilink")，透過[Kakao M於](../Page/Kakao_M.md "wikilink")2019年3月14日發行，主打歌為《고고베베(gogobebe)》。
 
 ## 背景

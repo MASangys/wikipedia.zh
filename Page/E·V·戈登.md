@@ -1,3 +1,6 @@
+> 本文内容由[E·V·戈登](https://zh.wikipedia.org/wiki/E·V·戈登)转换而来。
+
+
 **艾瑞克·瓦倫丁·戈登**（，簡稱**E·V·戈登**，）是[加拿大](../Page/加拿大.md "wikilink")[語言學家](https://zh.wikipedia.org/wiki/語言學家 "wikilink")，曾於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[利茲大學與](https://zh.wikipedia.org/wiki/利茲大學 "wikilink")[曼徹斯特大學任教](https://zh.wikipedia.org/wiki/曼徹斯特大學 "wikilink")。
 
 ## 生平

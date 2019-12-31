@@ -1,3 +1,6 @@
+> 本文内容由[R·C·布福德](https://zh.wikipedia.org/wiki/R·C·布福德)转换而来。
+
+
 **羅伯特·坎特伯里·布福德**（，），通稱**R·C·布福德**（），現任[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA](../Page/NBA.md "wikilink")聯盟[聖安東尼奧馬刺](../Page/圣安东尼奥马刺.md "wikilink")[執行長一職](../Page/首席执行官.md "wikilink")。他在2002年被任命为馬刺总经理，五年後兼任馬刺队总裁。同时也担任体育部门总裁。在[2013–14賽季和](../Page/2013-14_NBA賽季.md "wikilink")[2015–16賽季](../Page/2015-16_NBA赛季.md "wikilink")，布福德兩次獲得[NBA年度最佳總管榮譽](https://zh.wikipedia.org/wiki/NBA年度最佳行政人員 "wikilink")。
 
 ## 早期生涯

@@ -1,3 +1,6 @@
+> 本文内容由[埃利邁文 \(Unicode區段\)](https://zh.wikipedia.org/wiki/埃利邁文_\(Unicode區段\))转换而来。
+
+
 **埃利邁文**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了用於古國的文字－[埃利邁文](../Page/埃利邁文.md "wikilink")。\[1\]
 
 ## 歷史

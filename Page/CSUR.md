@@ -1,3 +1,6 @@
+> 本文内容由[CSUR](https://zh.wikipedia.org/wiki/CSUR)转换而来。
+
+
 **CSUR**（ConScript Unicode Registry）是一个协调[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[私人使用区](../Page/私人使用区.md "wikilink")中分配给的[码位的志愿项目](https://zh.wikipedia.org/wiki/码位 "wikilink")。\[1\]这个项目由创立，并由他和[叶密豪维护](https://zh.wikipedia.org/wiki/叶密豪 "wikilink")，然而这个项目已有数年未更新。这个项目与[统一码联盟官方并无关联](https://zh.wikipedia.org/wiki/统一码联盟 "wikilink")。
 
 **UCSUR** （Under-ConScript Unicode Registry）是一个仿效CSUR，为尚未被CSUR支持的人工文字分配码位的项目。该项目由蕾貝卡·貝滕科特（Rebecca Bettencourt）运营。\[2\]

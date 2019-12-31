@@ -1,3 +1,6 @@
+> 本文内容由[Calu-3細胞](https://zh.wikipedia.org/wiki/Calu-3細胞)转换而来。
+
+
 **Calu-3**是經常應用於[癌症](../Page/癌症.md "wikilink")[研究](../Page/研究.md "wikilink")和[藥物開發的](https://zh.wikipedia.org/wiki/藥物 "wikilink")[人類](../Page/人類.md "wikilink")[肺癌](../Page/肺癌.md "wikilink")，最初於1975年由[紀念斯隆-凱特琳癌症中心](../Page/紀念斯隆-凱特琳癌症中心.md "wikilink")科研人員分離自一名25歲[高加索](../Page/高加索.md "wikilink")[男性](../Page/男性.md "wikilink")肺癌[患者的](https://zh.wikipedia.org/wiki/患者 "wikilink")[胸腔積液](https://zh.wikipedia.org/wiki/胸腔 "wikilink")。
 
 ## 特徵

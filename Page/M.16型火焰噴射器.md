@@ -1,3 +1,6 @@
+> 本文内容由[M.16型火焰噴射器](https://zh.wikipedia.org/wiki/M.16型火焰噴射器)转换而来。
+
+
 **M.16型火焰噴射器**（）是[德意志帝國](../Page/德意志帝國.md "wikilink")在[第一次世界大戰期間使用的背負式](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")。它是世上第一種用於作戰的[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")。
 
 ## 使用

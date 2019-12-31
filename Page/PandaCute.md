@@ -1,3 +1,6 @@
+> 本文内容由[PandaCute](https://zh.wikipedia.org/wiki/PandaCute)转换而来。
+
+
 **PandaCute** 成立於 2016 年 10 月，隊伍前身為一支業餘戰隊，在贏下《2016 英雄聯盟陽光杯 5V5》冠軍\[1\]後，得到 Global Esports\[2\] 的青睞成為[香港](../Page/香港.md "wikilink")首支女子職業戰隊，戰隊主力參與《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》的賽事，除了奪下香港區所有女子賽事的冠軍後，亦曾到[中國](../Page/中國.md "wikilink")[無錫擊倒來自各地的好手](https://zh.wikipedia.org/wiki/無錫 "wikilink")，拿下《亞洲英雄聯盟女子全明星賽 2017》殿軍\[3\]。
 
 ## 隊伍成績

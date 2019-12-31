@@ -1,3 +1,6 @@
+> 本文内容由[SHAKE \(SMAP单曲\)](https://zh.wikipedia.org/wiki/SHAKE_\(SMAP单曲\))转换而来。
+
+
 | Certification = [三白金銷量](../Page/音乐唱片销售认证列表.md "wikilink")（[日本唱片協會](../Page/日本唱片協會.md "wikilink")） | Chart position =  | Last single =
 <small>（1996年）</small> | This single = **SHAKE**
 <small>（1996年）</small> | Next single =

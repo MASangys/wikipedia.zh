@@ -1,3 +1,6 @@
+> 本文内容由[UnBORDE](https://zh.wikipedia.org/wiki/UnBORDE)转换而来。
+
+
 **unBORDE**是[日本华纳音乐旗下的](https://zh.wikipedia.org/wiki/日本华纳音乐 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")之一，成立于2010年12月21日。
 
 ## 简介

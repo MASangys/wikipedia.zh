@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Tab S2 8.0](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S2_8.0)转换而来。
+
+
 **三星Galaxy Tab S2 8.0 LTE/Wi-Fi**是一款基於Android 5.0.1的8吋平板電腦，由[三星電子](../Page/三星電子.md "wikilink")生產。它屬於[三星Galaxy S系列](../Page/三星Galaxy_S系列.md "wikilink")，於2015年7月20日宣布，並於同年9月3日與[三星Galaxy Tab S2 9.7一同發布](../Page/三星Galaxy_Tab_S2_9.7.md "wikilink")。它有單獨[Wi-Fi](../Page/Wi-Fi.md "wikilink")和Wi-Fi +。[4G](../Page/4G.md "wikilink")版本已停產。
 
 ## 歷史

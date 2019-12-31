@@ -1,3 +1,6 @@
+> 本文内容由[Arkane Studios](https://zh.wikipedia.org/wiki/Arkane_Studios)转换而来。
+
+
 **Arkane Studios**是一家法國[遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發商 "wikilink")，於1999年在法國[里昂](../Page/里昂.md "wikilink")成立。該公司首款遊戲《[地城英雄誌](../Page/地城英雄誌.md "wikilink")》於2002年問世，其後陸續推出《[魔法門 黑暗彌賽亞](https://zh.wikipedia.org/wiki/魔法門_黑暗彌賽亞 "wikilink")》、《[冤罪殺機](../Page/冤罪殺機.md "wikilink")》、《[獵魂](../Page/獵魂_\(2017年遊戲\).md "wikilink")》等知名作品。2006年，於美國[德克薩斯州的](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")成立一個分部。\[1\]2010年，被[貝塞斯達軟體的母公司](https://zh.wikipedia.org/wiki/貝塞斯達軟體 "wikilink")[ZeniMax Media收購為旗下子公司](../Page/ZeniMax_Media.md "wikilink")。\[2\]
 
 ## 歷史

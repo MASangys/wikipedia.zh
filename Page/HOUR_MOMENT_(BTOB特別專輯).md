@@ -1,3 +1,6 @@
+> 本文内容由[HOUR MOMENT \(BTOB特別專輯\)](https://zh.wikipedia.org/wiki/HOUR_MOMENT_\(BTOB特別專輯\))转换而来。
+
+
 《**HOUR MOMENT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的首張[韓語特別專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")。先行曲《Friend》於2018年10月23日發行音源。專輯於2018年11月12日正式發行，並分為2種版本。主打歌曲為〈既是美麗又痛苦的〉（）。
 
 ## 背景

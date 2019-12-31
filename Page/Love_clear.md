@@ -1,3 +1,6 @@
+> 本文内容由[Love clear](https://zh.wikipedia.org/wiki/Love_clear)转换而来。
+
+
 是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2019年1月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

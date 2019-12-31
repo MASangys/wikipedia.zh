@@ -1,3 +1,6 @@
+> 本文内容由[PSYCHO-PASS角色列表](https://zh.wikipedia.org/wiki/PSYCHO-PASS角色列表)转换而来。
+
+
 **PSYCHO-PASS角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")》及其外傳登場的角色。
 
 ## 主要人物

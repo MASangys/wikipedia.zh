@@ -1,3 +1,6 @@
+> 本文内容由[SAY NO](https://zh.wikipedia.org/wiki/SAY_NO)转换而来。
+
+
 **《SAY NO》**是中國偶像組合[GNZ48的第](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")4張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")\[1\]，於2017年9月23日發行。
 
 ## 簡介

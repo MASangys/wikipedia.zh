@@ -1,3 +1,6 @@
+> 本文内容由[BanG Dream!音樂作品](https://zh.wikipedia.org/wiki/BanG_Dream!音樂作品)转换而来。
+
+
 | 類別                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------- |
 | <span style="float:right;">[↙](https://zh.wikipedia.org/wiki/BanG_Dream!音樂作品#專輯 "wikilink")</span>專輯            |

@@ -1,3 +1,6 @@
+> 本文内容由[LOVE LOOP](https://zh.wikipedia.org/wiki/LOVE_LOOP)转换而来。
+
+
 《**LOVE LOOP**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")在日本的第四張日語迷你專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2019年7月31日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")，共收錄5首新歌，主打歌為《LOVE LOOP》。12月18日，發行改板專輯《LOVE LOOP \~Sing for U Special Edition\~》。
 
 ## 背景

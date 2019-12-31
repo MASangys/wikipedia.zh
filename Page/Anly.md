@@ -1,3 +1,6 @@
+> 本文内容由[Anly](https://zh.wikipedia.org/wiki/Anly)转换而来。
+
+
 **Anly**（），[日本](../Page/日本.md "wikilink")女[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，隶属于[日本索尼音乐娱乐](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")。
 
 ## 生平

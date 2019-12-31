@@ -1,3 +1,6 @@
+> 本文内容由[銀河戰士 Prime 4](https://zh.wikipedia.org/wiki/銀河戰士_Prime_4)转换而来。
+
+
 是由[Retro Studios負責開發](https://zh.wikipedia.org/wiki/Retro_Studios "wikilink")，任天堂發行在[任天堂Switch](../Page/任天堂Switch.md "wikilink")上推出的專用遊戲軟體。本作是《[銀河戰士](../Page/銀河戰士系列.md "wikilink")》系列的最新作，也是繼2007年發售在[Wii](../Page/Wii.md "wikilink")平台上的《[銀河戰士 Prime 3 墮落](https://zh.wikipedia.org/wiki/銀河戰士_Prime_3_墮落 "wikilink")》，睽違十年以上的《銀河戰士 Prime》系列第四作。
 
 __目录__

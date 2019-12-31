@@ -1,3 +1,6 @@
+> 本文内容由[幻T形接頭](https://zh.wikipedia.org/wiki/幻T形接頭)转换而来。
+
+
 [thumb組成](https://zh.wikipedia.org/wiki/image:MagicTee.jpg "wikilink")。\]\] **幻T形接頭**（）\[1\]，簡稱**幻T**，是一種或功率均分[定向耦合器](https://zh.wikipedia.org/wiki/功率分配器方向耦合器 "wikilink")，屬於一種[微波器件](https://zh.wikipedia.org/wiki/微波 "wikilink")\[2\]。它是[環形耦合器](../Page/環形耦合器.md "wikilink")的替代品，然而因為它是三維結構的，不容易在[微帶線](../Page/微帶線.md "wikilink")或中實現。
 
 幻T最初是在[第二次世界大戰中開發的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，由[貝爾實驗室的WA](https://zh.wikipedia.org/wiki/貝爾實驗室 "wikilink") Tyrell 在1947年的IRE論文中發表。Robert L. Kyhl和Bob Dicke在同一時間獨立創造了幻T。

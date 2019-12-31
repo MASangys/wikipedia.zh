@@ -1,3 +1,6 @@
+> 本文内容由[嵌合抗原受體T細胞](https://zh.wikipedia.org/wiki/嵌合抗原受體T細胞)转换而来。
+
+
 **嵌合抗原受體T細胞**（，[縮寫](../Page/縮寫.md "wikilink")：）是一種經[基因改造的](https://zh.wikipedia.org/wiki/基因改造 "wikilink")[T細胞](https://zh.wikipedia.org/wiki/T細胞 "wikilink")。
 
 它具有人工T細胞受體。嵌合抗原受體則是一種經[生物工程改造的](../Page/生物工程学.md "wikilink")[蛋白](../Page/蛋白.md "wikilink")，它可以令T細胞中和某種特定的蛋白質。這種受體名曰「嵌合」是因爲它結合了原T細胞的功能和新的抗原識別功能於一體。

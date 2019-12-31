@@ -1,3 +1,6 @@
+> 本文内容由[CAKI-1](https://zh.wikipedia.org/wiki/CAKI-1)转换而来。
+
+
 **CAKI-1** (亦稱**ATCC HTB-46**) 是[人類](../Page/人類.md "wikilink")[腎](../Page/腎.md "wikilink")[透明細胞癌](https://zh.wikipedia.org/wiki/透明細胞癌 "wikilink")[皮膚](../Page/皮膚.md "wikilink")轉移\[1\]，最初是分離自一名49歲的[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")[腎癌](../Page/腎癌.md "wikilink")[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")\[2\]。
 
 ## 特徴

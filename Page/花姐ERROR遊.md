@@ -1,3 +1,6 @@
+> 本文内容由[花姐ERROR遊](https://zh.wikipedia.org/wiki/花姐ERROR遊)转换而来。
+
+
 《**花姐ERROR遊**》是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》衍生的男子組合[ERROR首個冠名節目](https://zh.wikipedia.org/wiki/ERROR_\(香港男子组合\) "wikilink")，主持為梁業（肥仔）、[何啟華](../Page/何啟華.md "wikilink")（Dee）、[郭嘉駿](../Page/郭嘉駿.md "wikilink")（193）、吳保錡（保錡）及黃慧君（花姐），花姐亦為《全民造星》監製。五人到日本探索古靈精怪鬼馬事物，[ERROR及花姐亦不斷接受挑戰](https://zh.wikipedia.org/wiki/ERROR_\(香港男子组合\) "wikilink")，輸家需接受大懲罰，旨於打破長輩與年輕一輩的隔膜。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]
 
 ## 主要內容

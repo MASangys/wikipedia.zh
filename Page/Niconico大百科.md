@@ -1,3 +1,6 @@
+> 本文内容由[Niconico大百科](https://zh.wikipedia.org/wiki/Niconico大百科)转换而来。
+
+
 **Niconico大百科**（，簡稱：）是[大百科新聞社](../Page/大百科新聞社.md "wikilink")提供的[線上百科全書](https://zh.wikipedia.org/wiki/線上百科全書 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[WEEKEND－TIFFANY](https://zh.wikipedia.org/wiki/WEEKEND－TIFFANY)转换而来。
+
+
 **《WEEKEND－TIFFANY》**（），是[SM娛樂](../Page/SM娛樂.md "wikilink")演唱會品牌系列《[THE AGIT](../Page/THE_AGIT.md "wikilink")》系列演唱會，韓國女子組合[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Tiffany為該系列第六位藝人](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，\[1\]亦是首場個人的演唱會。\[2\][SM娛樂](../Page/SM娛樂.md "wikilink")6月1號宣布將在6月24日至26日追加三場，共舉行6場演出。\[3\]\[4\]
 
 ## 演出時間表

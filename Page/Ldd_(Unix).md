@@ -1,3 +1,6 @@
+> 本文内容由[Ldd \(Unix\)](https://zh.wikipedia.org/wiki/Ldd_\(Unix\))转换而来。
+
+
 **Ldd**（，意译为**列出动态库依赖关系**）是一款在[类Unix系统](../Page/类Unix系统.md "wikilink")的实用工具，负责在[命令行内输出](https://zh.wikipedia.org/wiki/命令行 "wikilink")[程序或](https://zh.wikipedia.org/wiki/程序 "wikilink")[共享库所依赖的](https://zh.wikipedia.org/wiki/共享库 "wikilink")[函数库](../Page/函式庫.md "wikilink")。\[1\]此工具由及开发。\[2\] Ldd在指定的程序缺少部分函数库的情况下将无法显示结果。
 
 ## 安全性

@@ -1,3 +1,6 @@
+> 本文内容由[乙酰丙酮钴\(III\)](https://zh.wikipedia.org/wiki/乙酰丙酮钴\(III\))转换而来。
+
+
 **乙酰丙酮钴(III)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为Co(C<sub>5</sub>H<sub>7</sub>O<sub>2</sub>)<sub>3</sub>，或简写成Co(acac)<sub>3</sub>。它与相应的铝、铬、锰(III)化合物同构。乙酰丙酮钴(III)难溶于水，可溶于甲醇及卤代烃，在脂肪烃中溶解度较小。\[1\]
 
 ## 制备

@@ -1,3 +1,6 @@
+> 本文内容由[To. Jenny](https://zh.wikipedia.org/wiki/To._Jenny)转换而来。
+
+
 《**To.Jenny**》（，），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wikilink")2018年7月10日起，周二晚上11點播出，共兩集的音樂劇。此劇講述通過音樂向初戀表達愛意的純情男生，和即使在惡劣環境下，依然一直努力追求夢想的女生。\[1\]\[2\]
 
 ## 演員陣容

@@ -1,3 +1,6 @@
+> 本文内容由[Google Nest](https://zh.wikipedia.org/wiki/Google_Nest)转换而来。
+
+
 **Google Nest**是[Google LLC的](../Page/Google.md "wikilink")[品牌](../Page/品牌.md "wikilink")之一，用于銷售[智能家居产品](../Page/智慧家庭.md "wikilink")，主要有[智能音箱](../Page/智能音箱.md "wikilink")、[智能显示器](../Page/智能显示器.md "wikilink")、、[煙霧探測器](https://zh.wikipedia.org/wiki/煙霧探測器 "wikilink")、[路由器](../Page/路由器.md "wikilink")以及包括、和在內的[安全警報系统](https://zh.wikipedia.org/wiki/防盜報警 "wikilink")。\[1\]
 
 前[苹果工程师](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[托尼·法戴爾](../Page/托尼·法戴爾.md "wikilink")和Matt Rogers于2010年创立Nest Labs公司，並建立Nest品牌。\[2\]该公司的首款旗舰产品是于2011年推出的Nest Learning Thermostat。该产品具有可编程，自主学习和支持[Wi-Fi](../Page/Wi-Fi.md "wikilink")等功能。 随后是2013年10月推出的[烟雾和](https://zh.wikipedia.org/wiki/煙霧探測器 "wikilink")[一氧化碳探测器](https://zh.wikipedia.org/wiki/一氧化碳探測器 "wikilink")。\[3\]在2014年收购之后，该公司于2015年6月开始推出其Nest Cam系列的安全摄像頭產品。\[4\]

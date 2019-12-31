@@ -1,3 +1,6 @@
+> 本文内容由[DIC](https://zh.wikipedia.org/wiki/DIC)转换而来。
+
+
 **DIC** 可能指：
 
 ## 科學

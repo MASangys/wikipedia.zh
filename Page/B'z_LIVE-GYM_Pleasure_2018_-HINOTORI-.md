@@ -1,3 +1,6 @@
+> 本文内容由[B\'z LIVE-GYM Pleasure 2018 -HINOTORI-](https://zh.wikipedia.org/wiki/B\'z_LIVE-GYM_Pleasure_2018_-HINOTORI-)转换而来。
+
+
 《**B'z LIVE-GYM Pleasure 2018 -HINOTORI-**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的影像作品。以[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[Blu-ray Disc形式發售](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")\[1\]\[2\]。
 
 關於樂曲「**[HINOTORI](https://zh.wikipedia.org/wiki/#HINOTORI "wikilink")**」亦會在本頁中說明。

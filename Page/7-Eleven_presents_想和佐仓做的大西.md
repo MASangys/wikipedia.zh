@@ -1,3 +1,6 @@
+> 本文内容由[7-Eleven presents 想和佐仓做的大西](https://zh.wikipedia.org/wiki/7-Eleven_presents_想和佐仓做的大西)转换而来。
+
+
 **7-Eleven presents 想和佐仓做的大西**（）是一个由[文化放送](../Page/文化放送_\(日本\).md "wikilink")[超\!A\&G+播送的日本可视电台节目](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")，原名**想和佐仓做的大西**，自[2016年](../Page/2016年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")每周播送，同时由[音泉](../Page/音泉.md "wikilink")在线提供纯音频版。节目自第14回开始由[7-Eleven](../Page/7-Eleven.md "wikilink")赞助，自第40回开始于节目标题增加赞助商名称并变更为现名。
 
 ## 主持人

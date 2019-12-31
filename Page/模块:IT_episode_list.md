@@ -1,3 +1,6 @@
+> 本文内容由[模块:IT episode list](https://zh.wikipedia.org/wiki/模块:IT_episode_list)转换而来。
+
+
 local p = {}
 
 local getArgs local yesno = require('Module:Yesno') local mm = require('Module:Math') local contrast_ratio = require('Module:Color contrast')._ratio local HTMLcolor = mw.loadData( 'Module:Color contrast/colors' )

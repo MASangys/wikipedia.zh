@@ -1,3 +1,6 @@
+> 本文内容由[CZ P-10 C半自動手槍](https://zh.wikipedia.org/wiki/CZ_P-10_C半自動手槍)转换而来。
+
+
 **CZ P-10 C**是一系列由[捷克](../Page/捷克.md "wikilink")槍械製造商從2014年開始設計及生產，並且於2017年正式推出的緊湊型[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]該手槍是為了自我防衛和武裝部隊人員的使用而設計的（儘管截至2018年以來僅有[波兰一國以下的官方武裝部隊採用](https://zh.wikipedia.org/wiki/波兰 "wikilink")）。發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W這兩種](../Page/.40_S&W.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 CZ P-10 C具有機械性和熱穩定性[聚合物](../Page/聚合物.md "wikilink")[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並且採用了[玻璃钢和三塊可互換的握把背板加固](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")。\[2\]其[彈匣](../Page/彈匣.md "wikilink")可向下與[CZ 75 P-07兼容](https://zh.wikipedia.org/wiki/CZ_75_P-07半自動手槍 "wikilink")，但反之卻不能。\[3\]

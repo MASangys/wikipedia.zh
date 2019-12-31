@@ -1,3 +1,6 @@
+> 本文内容由[KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome](https://zh.wikipedia.org/wiki/KARASIA_2013_HAPPY_NEW_YEAR_in_Tokyo_Dome)转换而来。
+
+
 **KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara](../Page/Kara.md "wikilink")於2013年1月6日，在日本[東京巨蛋](../Page/東京巨蛋.md "wikilink")所舉辦的演唱會。是韓國女藝人史上首次在東京巨蛋開唱。
 
 ## 演出日期

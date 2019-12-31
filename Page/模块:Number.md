@@ -1,3 +1,6 @@
+> 本文内容由[模块:Number](https://zh.wikipedia.org/wiki/模块:Number)转换而来。
+
+
 local getArgs = require('Module:Arguments').getArgs local p = { PrimeTable = {} } local numdata = nil --[輸入一個數字n，檢查n是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列 (一般Lua函數) 注意 : 此為指數時間複雜問題 --最差情況時間複雜度為 O(2^因數個數) --呼叫時請謹慎](https://zh.wikipedia.org/wiki/輸入一個數字n，檢查n是否為半完全數，如是列出最先搜到的和為自身之因數數列，否則輸出空陣列_\(一般Lua函數\)_注意_:_此為指數時間複雜問題_--最差情況時間複雜度為_O\(2^因數個數\)_--呼叫時請謹慎 "wikilink") function p._checkSemiperfectNumber(input)
 
 `   local number = tonumber(input) or 0`

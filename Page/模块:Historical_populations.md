@@ -1,3 +1,6 @@
+> 本文内容由[模块:Historical populations](https://zh.wikipedia.org/wiki/模块:Historical_populations)转换而来。
+
+
 \-- -- This template implements  -- local p = {} local lang = mw.getContentLanguage()
 
 local function ifexist(page)

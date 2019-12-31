@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Google雲端平台](https://zh.wikipedia.org/wiki/Draft:Google雲端平台)转换而来。
+
+
 **Google云端平台**（，简称为**GCP**）是一系列由[Google](../Page/Google.md "wikilink")提供的[云计算服务](../Page/雲端運算.md "wikilink")，在运行[Google搜索](../Page/Google搜索.md "wikilink")和[YouTube](../Page/YouTube.md "wikilink")的服务器上提供[基础设施服务](https://zh.wikipedia.org/wiki/基礎設施即服務 "wikilink")、[平台服务及](../Page/平台即服务.md "wikilink")[无服务器计算环境](https://zh.wikipedia.org/wiki/無伺服器計算 "wikilink")。\[1\]除了提供管理工具外，Google云端平台还提供了一系列模块化云服务，包括：云计算、[数据存储](../Page/電腦數據存貯器.md "wikilink")、[数据分析及](https://zh.wikipedia.org/wiki/数据分析 "wikilink")[机器学习](../Page/机器学习.md "wikilink")等。\[2\]用户注册账号时需要提供[信用卡](../Page/信用卡.md "wikilink")或银行卡支付信息。\[3\]
 
 2008年4月，Google发布了[应用程序引擎](../Page/Google應用服務引擎.md "wikilink")，同时也是其旗下首款云端计算服务，为开发者提供位于Google[数据中心](../Page/数据中心.md "wikilink")的网页应用开发及托管服务。2011年11月，应用程序引擎于正式向大众开放。自其发布以来，Google为云端平台添加了多款服务。

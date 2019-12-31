@@ -1,3 +1,6 @@
+> 本文内容由[Shirabi](https://zh.wikipedia.org/wiki/Shirabi)转换而来。
+
+
 **Shirabi**（，），[日本](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。居住於[埼玉縣](../Page/埼玉縣.md "wikilink")[川口市](../Page/川口市.md "wikilink")\[1\]。代表作是負責插圖，並播出改編電視動畫的《[龍王的工作！](../Page/龍王的工作！.md "wikilink")》、《[無彩限的幻影世界](../Page/無彩限的幻影世界.md "wikilink")》。
 
 ## 人物簡介

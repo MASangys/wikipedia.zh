@@ -1,3 +1,6 @@
+> 本文内容由[VSDC免费视频编辑器](https://zh.wikipedia.org/wiki/VSDC免费视频编辑器)转换而来。
+
+
 **VSDC Free Video Editor**(VSDC免费视频编辑器是由)[Flash-Integro LLC](https://zh.wikipedia.org/wiki/Flash-Integro_LLC "wikilink")\[1\]发布的非线性编辑系统（NLE）。 该程序专为编辑各种格式的数字视频和音频文件而定制，包括高清和超高清分辨率，提供专业的后期制作效果，以及以4k分辨率导出，从屏幕捕获视频，录制语音的能力 ，刻录光盘，将多媒体文件保存为多种支持格式，并在[Facebook](../Page/Facebook.md "wikilink")，[Vimeo](../Page/Vimeo.md "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Instagram](../Page/Instagram.md "wikilink")和[Twitter](../Page/Twitter.md "wikilink")\[2\]上发布。根据GoPro\[3\]这是Windows的最好的免费视频编辑器。
 
 ## 布局

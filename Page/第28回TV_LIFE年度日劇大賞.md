@@ -1,3 +1,6 @@
+> 本文内容由[第28回TV LIFE年度日劇大賞](https://zh.wikipedia.org/wiki/第28回TV_LIFE年度日劇大賞)转换而来。
+
+
 [第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink") ← **第28回** → [第29回](https://zh.wikipedia.org/wiki/第29回TV_LIFE年度日劇大賞 "wikilink")
 
 **第28回[TV LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2018年播出的連續劇做出的觀眾投票。

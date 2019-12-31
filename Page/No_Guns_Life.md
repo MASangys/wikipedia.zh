@@ -1,3 +1,6 @@
+> 本文内容由[No Guns Life](https://zh.wikipedia.org/wiki/No_Guns_Life)转换而来。
+
+
 《**非槍人生NO GUNS LIFE**》（）是由カラスマタスク（乌丸匡）执笔，在[集英社](../Page/集英社.md "wikilink")旗下月刊杂志《ULTRA JUMP》2013年八月号上刊载的短篇漫画 。漫画以科幻的架空世界观为中心，以[冷硬派](https://zh.wikipedia.org/wiki/冷硬派 "wikilink")（Hard-boiled）的风格，展开了一系列热血格斗故事。获得好评后，于2014年开始连载，到2019年为止，已发售单行本共九卷。于2019年3月15日确认动画化，由Mad House负责动画制作。\[1\]小岛秀夫称赞《NO GUNS LIFE》的主人公-{乾十三}-，是“最后的昭和式英雄”。
 
 ## 故事简介

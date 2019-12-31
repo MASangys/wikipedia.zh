@@ -1,3 +1,6 @@
+> 本文内容由[MTR Express](https://zh.wikipedia.org/wiki/MTR_Express)转换而来。
+
+
 **MTR Express**是一所隸屬[港鐵集團的瑞典的鐵路公司](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink")，運營[哥德堡和](../Page/哥德堡中央車站.md "wikilink")[斯德哥爾摩的城際列車](../Page/斯德哥爾摩中央車站.md "wikilink")。
 
 2013年七月，港鐵獲准在[哥德堡和](../Page/哥德堡中央車站.md "wikilink")[斯德哥爾摩之間開辦路線](../Page/斯德哥爾摩中央車站.md "wikilink")。\[1\]MTR Express於2015年3月21日開始運營。\[2\]現時擁有六列[Stadler FLIRT列車](https://zh.wikipedia.org/wiki/Stadler_FLIRT "wikilink")。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Watch](https://zh.wikipedia.org/wiki/Watch)转换而来。
+
+
 《**Watch**》是美國歌手[怪奇比莉的首張迷你專輯](https://zh.wikipedia.org/wiki/怪奇比莉 "wikilink")《[不要對我笑](https://zh.wikipedia.org/wiki/不要對我笑 "wikilink")》中的一首歌。 它於2017年6月30日發行，是迷你專輯的第三張單曲。\[1\] 從比莉的角度來看，這首歌是關於不與您想要的人在一起，而對此卻無能為力。
 
 ## 音樂錄影帶

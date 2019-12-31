@@ -1,3 +1,6 @@
+> 本文内容由[Hump Back](https://zh.wikipedia.org/wiki/Hump_Back)转换而来。
+
+
 **Hump Back**是[日本](../Page/日本.md "wikilink")的3人女性[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")。2009年结成，2018年主流出道。现为[VAP](../Page/VAP.md "wikilink")旗下艺人。
 
 ## 成员

@@ -1,3 +1,6 @@
+> 本文内容由[Hoody](https://zh.wikipedia.org/wiki/Hoody)转换而来。
+
+
 Hoody(韓語:후디,1990年2月11日－),本名金炫靜(韓語:김현정),是韓國歌手兼作詞人,於2013年首次亮相，是全女性地下嘻哈樂隊Amourette的成員。 2015年，她成為第一位與嘻哈唱片公司[AOMG](../Page/AOMG.md "wikilink")簽約的女歌手.
 
 ## 音樂作品

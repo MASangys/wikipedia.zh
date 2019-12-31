@@ -1,3 +1,6 @@
+> 本文内容由[這本BL不得了！](https://zh.wikipedia.org/wiki/這本BL不得了！)转换而来。
+
+
 《**這本BL不得了！**》（）為[日本](../Page/日本.md "wikilink")宙出版從2008年起所發行的[BL作品導覽書](../Page/BL_\(和製英語\).md "wikilink")\[1\]。由讀者及專業人士投票選出BL類型的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說各](https://zh.wikipedia.org/wiki/小說 "wikilink")20部並在書中詳細介紹，在每年的12月公布翌年度名單。
 
 ## 漫畫獲選名單（僅列出歷屆第一名）

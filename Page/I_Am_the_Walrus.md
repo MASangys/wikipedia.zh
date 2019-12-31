@@ -1,3 +1,6 @@
+> 本文内容由[I Am the Walrus](https://zh.wikipedia.org/wiki/I_Am_the_Walrus)转换而来。
+
+
 **《我是海象》**是一首[披头士乐队于](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")1967年发行的歌曲。它于该年12月出现在披头士乐队的电视电影《[Magical Mystery Tour](https://zh.wikipedia.org/wiki/Magical_Mystery_Tour "wikilink")》中，同时也收录在和此电影同名的英国版[迷你专辑和美国版专辑里](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。该歌曲是热门单曲《Hello, Goodbye》的[b面歌曲](https://zh.wikipedia.org/wiki/b面 "wikilink")。《我是海象》在1967年12月同时以单曲和专辑身份位居英国排行榜的第一和第二。
 
 ## 创作过程

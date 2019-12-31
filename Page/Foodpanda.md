@@ -1,3 +1,6 @@
+> 本文内容由[Foodpanda](https://zh.wikipedia.org/wiki/Foodpanda)转换而来。
+
+
 **Foodpanda**是一家總部位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林](../Page/柏林.md "wikilink")的餐飲外送服務公司\[1\]，已於全球40個國家和地區營運\[2\]。Foodpanda與當地的多家餐廳合作，並利用手機應用程式和網站提供訂餐服務。
 
 2016年12月，Foodpanda被德國競爭對手Delivery Hero收購\[3\]。

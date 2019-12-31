@@ -1,3 +1,6 @@
+> 本文内容由[光系统 II](https://zh.wikipedia.org/wiki/光系统_II)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:PhotosystemII.PNG "fig:右") **光系统II** （或**水 - 质体醌氧化还原酶** ）是氧[光合作用](../Page/光合作用.md "wikilink")的[光依赖性反应中的第一个](https://zh.wikipedia.org/wiki/光依赖性反应 "wikilink")[蛋白质复合物](https://zh.wikipedia.org/wiki/蛋白质复合体 "wikilink")。它位于[植物](../Page/植物.md "wikilink")、[藻类和](../Page/藻類.md "wikilink")[蓝细菌的](../Page/藍菌門.md "wikilink")[类囊体膜中](https://zh.wikipedia.org/wiki/類囊體 "wikilink")。 在光系统中，[酶](../Page/酶.md "wikilink")捕获光的[光子](../Page/光子.md "wikilink")以激发[电子](../Page/电子.md "wikilink")，然后通过各种[辅酶和](../Page/辅因子.md "wikilink")[辅因子](../Page/辅因子.md "wikilink")转移[电子](../Page/电子.md "wikilink")以将[质体醌](../Page/质体醌.md "wikilink")还原为质体醌。 激发的电子[氧化水而被取代](../Page/氧化还原反应.md "wikilink")，形成[氢离子和分子氧](https://zh.wikipedia.org/wiki/氢离子 "wikilink")。
 
 通过[光解水得到的电子来补充丢失的电子](https://zh.wikipedia.org/wiki/光分解作用 "wikilink")，光系统 II为所有光合作用提供电子。由水的氧化产生的氢离子（质子）有助于产生[质子梯度](../Page/电化学梯度.md "wikilink")， [ATP合成酶用于产生](https://zh.wikipedia.org/wiki/三磷酸腺苷合酶 "wikilink")[ATP](../Page/三磷酸腺苷.md "wikilink")。转移到质体醌的赋能电子最终用于还原 为[NADPH或用于](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")[非循环电子流](https://zh.wikipedia.org/wiki/光依赖性反应 "wikilink") 。 \[1\]

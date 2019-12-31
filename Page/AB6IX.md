@@ -1,3 +1,6 @@
+> 本文内容由[AB6IX](https://zh.wikipedia.org/wiki/AB6IX)转换而来。
+
+
 **AB6IX**（韓語：**에이비식스**），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brand New Music旗下的五人](../Page/Brand_New_Music.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2019年5月22日出道，由[林煐岷](../Page/林煐岷.md "wikilink")、[田雄](../Page/全雄.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭以及](../Page/朴佑鎮.md "wikilink")[李大輝](../Page/李大輝.md "wikilink")所組成，並由[林煐岷](../Page/林煐岷.md "wikilink")擔任隊長。\[1\]\[2\]\[3\]
 
 ## 團體資料

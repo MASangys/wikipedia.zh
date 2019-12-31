@@ -1,3 +1,6 @@
+> 本文内容由[OpenGameArt.org](https://zh.wikipedia.org/wiki/OpenGameArt.org)转换而来。
+
+
 **Open Game Art**是一個旨在與[自由及開放原始碼的](../Page/自由及开放源代码软件.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")專案一同使用的媒體儲存庫，提供了[開放內容的素材](https://zh.wikipedia.org/wiki/開放內容 "wikilink")。
 
 其目的是讓開發者可以很輕鬆的以高品質且具適當授權條款的藝術作品來取代原有的低品質圖像\[1\]\[2\]。2D與3D的藝術作品都可以放上來，音效與音樂也可以，不像其他類似的專案，如僅處理音訊樣本與歌曲的，以及僅限於音訊樣本的。

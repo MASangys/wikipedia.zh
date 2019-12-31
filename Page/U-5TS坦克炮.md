@@ -1,3 +1,6 @@
+> 本文内容由[U-5TS坦克炮](https://zh.wikipedia.org/wiki/U-5TS坦克炮)转换而来。
+
+
 **U-5TS“錘子”**（；，意為：[錘子](../Page/槌.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：****／****）是一門由[前苏联](../Page/苏联.md "wikilink")／[俄罗斯](../Page/俄罗斯.md "wikilink")OKB-9設計局所研製、所生產的單管[滑膛式](../Page/滑膛槍炮.md "wikilink")[坦克炮](../Page/坦克炮.md "wikilink")，並安裝在[T-62](../Page/T-62主战坦克.md "wikilink")[主戰坦克以上](https://zh.wikipedia.org/wiki/坦克#主戰坦克 "wikilink")，發射115毫米滑膛[炮彈](../Page/炮彈.md "wikilink")。
 
 這是機械製造的工藝進步解決了精準度不足的問題以後，全世界第一款為坦克而研製的滑膛式火炮。並因滑膛砲炮彈不會因自旋而導致能量損失以及發射時炮管損耗較小而重新獲得重視，而獲運用於設計坦克砲以後，預示著坦克炮從[线膛炮到滑膛炮的主炮變化](https://zh.wikipedia.org/wiki/线膛炮 "wikilink")。

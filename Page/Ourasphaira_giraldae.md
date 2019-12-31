@@ -1,3 +1,6 @@
+> 本文内容由[Ourasphaira giraldae](https://zh.wikipedia.org/wiki/Ourasphaira_giraldae)转换而来。
+
+
 ***Ourasphaira giraldae***疑似為一種史前[真菌](../Page/真菌.md "wikilink")，其[化石](../Page/化石.md "wikilink")出土於[加拿大](../Page/加拿大.md "wikilink")[西北領地的河口](https://zh.wikipedia.org/wiki/西北地方_\(加拿大\) "wikilink")[頁岩層中](https://zh.wikipedia.org/wiki/頁岩 "wikilink")，年代為距今9億-10億年前的[中元古代至](https://zh.wikipedia.org/wiki/中元古代 "wikilink")[新元古代](https://zh.wikipedia.org/wiki/新元古代 "wikilink")。2019年2月，[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[列日大學的研究團隊首次於期刊](https://zh.wikipedia.org/wiki/列日大學 "wikilink")《**》中發表本屬與本種，當時僅推測本種為多細胞的[真核](../Page/真核生物.md "wikilink")[微生物](../Page/微生物.md "wikilink")\[1\]。同年5月，研究團隊又於著名科學期刊《[自然](../Page/自然_\(期刊\).md "wikilink")》發表論文，主張本種屬於[真菌](../Page/真菌.md "wikilink")\[2\]。
 
 *Ourasphaira giraldae*的化石為一[多細胞且具](../Page/多細胞生物.md "wikilink")與分枝的絲狀結構，絲狀結構長10-35微米，最多有觀察到三級的分枝，分枝的位點皆有隔板分隔，其末端有球形結構，直徑約為33-80微米，可能是[孢子](../Page/孢子.md "wikilink")；球形結構與絲狀結構以一個球根狀的構造相連，後者又以隔板與絲狀結構分隔\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Mirrors \(專輯\)](https://zh.wikipedia.org/wiki/Mirrors_\(專輯\))转换而来。
+
+
 《**Mirrors**》 (風格化為全大寫) 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[GOT7](../Page/GOT7.md "wikilink")成員[王嘉爾](../Page/王嘉爾.md "wikilink")首張個人正規專輯，專輯由發行於2019年10月25日。專輯共收錄8首歌曲，包括先行曲《Bullet to the Heart》和《Dway\!》、及主打歌《Titanic》。
 
 ## 專輯背景

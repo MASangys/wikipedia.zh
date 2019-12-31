@@ -1,3 +1,6 @@
+> 本文内容由[RT-Thread](https://zh.wikipedia.org/wiki/RT-Thread)转换而来。
+
+
 **RT-Thread**是一款开源实时操作系统。它主要包含一个实时内核和与实时应用有关的各种组件。\[1\]它在2017年获得华强聚丰及思必驰天使轮投资。\[2\]\[3\]
 
 ## RT-Thread内核

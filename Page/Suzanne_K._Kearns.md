@@ -1,3 +1,6 @@
+> 本文内容由[Suzanne K. Kearns](https://zh.wikipedia.org/wiki/Suzanne_K._Kearns)转换而来。
+
+
 **Suzanne K. Kearns** 是加拿大作者、学者、 [滑铁卢大学航空系教授](../Page/滑鐵盧大學.md "wikilink")。\[1\] 现供职于环境学院，执教地理和航空专业。\[2\]\[3\] 研究领域为航空安全、培训方法论和 [人体工学](../Page/人因工程学.md "wikilink")。 Kearns是若干航空著作的作者，及'Aviation Fundamentals'\[4\] 教科丛书的系列编辑\[5\] ，也以参与 [国际民用航空组织](../Page/国际民用航空组织.md "wikilink") (ICAO)的国际新一代航空专业人员(NGAP)方案及全球航空培训倡议的有关工作而知名.\[6\]
 
 ## 教育

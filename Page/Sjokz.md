@@ -1,3 +1,6 @@
+> 本文内容由[Sjokz](https://zh.wikipedia.org/wiki/Sjokz)转换而来。
+
+
 **艾芙耶·迪普爾特雷**（，；），較廣為人知的是其化名**Sjokz**（，），比利時主持人、記者與前《[魔域幻境之浴血戰場](../Page/魔域幻境之浴血戰場.md "wikilink")》職業電競選手，曾在2013年至2018年間擔任[Riot Games的賽事主持人](../Page/Riot_Games.md "wikilink")，現為該公司旗下的自由身記者。
 
 ## 早年生活

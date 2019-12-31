@@ -1,3 +1,6 @@
+> 本文内容由[Harder, Better, Faster, Stronger](https://zh.wikipedia.org/wiki/Harder,_Better,_Faster,_Stronger)转换而来。
+
+
 《**Harder，Better，Faster，Stronger**》是[法国双人组](https://zh.wikipedia.org/wiki/法国 "wikilink")[Daft Punk的一首](https://zh.wikipedia.org/wiki/Daft_Punk "wikilink")[单曲](../Page/单曲.md "wikilink")。该单曲于2001年10月13日首次发行，之后于2007年10月15日在专辑《Alive 2007》中发行现场版。\[1\]\[2\]现场版于2009年获得[格莱美最佳舞蹈录音奖](https://zh.wikipedia.org/wiki/格莱美 "wikilink")。2011年10月，[NME将其列为](https://zh.wikipedia.org/wiki/NME "wikilink")“15年150首最佳曲目”榜单中的第132位。\[3\]
 
 ## 作曲

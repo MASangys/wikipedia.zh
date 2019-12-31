@@ -1,3 +1,6 @@
+> 本文内容由[CPRM](https://zh.wikipedia.org/wiki/CPRM)转换而来。
+
+
 **CPRM**(Content Protection for Recordable Media.內容保護型可錄製媒體）是一種[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光燒錄片的機制](../Page/藍光光碟.md "wikilink")，用以保護[版權壓制](https://zh.wikipedia.org/wiki/版權 "wikilink")[盜版現象](https://zh.wikipedia.org/wiki/盜版 "wikilink")，21世紀初4C Entity組織推出的一種硬體型機制。多見於日系的「光碟燒錄型錄放影機」上，隨著燒錄片被可靠廉價又大容量[固態硬碟](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")、可攜硬碟取代後，CPRM機器已經逐漸式微與罕見。
 
 21世紀初 IBM、Intel、松下 、[東芝意識到大容量燒錄光碟片的發展和家庭化會極大蔓延盜版現象侵害影視利益](https://zh.wikipedia.org/wiki/東芝 "wikilink")，其結為4C Entity組織推出的一種機制稱為CPRM，是一種影視傳遞全流程植入CSS型暗碼傳遞規則，並做入硬體電腦[晶片中使其不能被修改](https://zh.wikipedia.org/wiki/晶片 "wikilink")，理想情境是CPRM化的光碟燒錄機錄製CPRM化的衛星訊號節目時只能保有一份，且只能在CPRM機體上撥放其檔案不能被家用電腦所複製解碼，若是同時帶有硬碟和燒錄機的錄放影機將節目錄在硬碟中,在燒錄到CPRM光碟片後,硬碟中的節目也強制之刪除，使用者手中永遠只會有一份。\[1\]，後來有一些電腦影片撥放軟件取得了CPRM認證可在電腦上製造出一個虛擬密鑰環境來撥放，但也只能撥放無法複製原始檔案。\[2\]

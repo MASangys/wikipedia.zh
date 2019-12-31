@@ -1,3 +1,6 @@
+> 本文内容由[第69回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第69回NHK紅白歌合戰)转换而来。
+
+
 **第69回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（）於2018年12月31日下午7時15分至11時45分（[JST](../Page/日本標準時間.md "wikilink")）在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式舉行。本次也是[平成](../Page/平成.md "wikilink")時代最後一屆的红白歌合战。
 
 ## 概要
@@ -293,7 +296,7 @@
 
   - [菅原小春](../Page/菅原小春.md "wikilink")：[米津玄師](../Page/米津玄師.md "wikilink")的背景舞者\[39\]。
 
-  - [高梨沙羅](../Page/高梨沙羅.md "wikilink")（2018年平昌冬奧[女子個人普通跳台滑雪競賽銅牌得主](https://zh.wikipedia.org/wiki/2018年冬季奧林匹克運動會跳台滑雪比賽 "wikilink")）、[伊藤美誠](../Page/伊藤美誠.md "wikilink")（桌球選手）、[平野美宇](../Page/平野美宇.md "wikilink")（桌球選手）：於特別企劃「支持自己走下去的歌」（）以預錄影像登場。
+  - [高梨沙羅](../Page/高梨沙羅.md "wikilink")（2018年平昌冬奧[女子個人普通跳台滑雪競賽銅牌得主](../Page/2018年冬季奧林匹克運動會跳台滑雪比賽.md "wikilink")）、[伊藤美誠](../Page/伊藤美誠.md "wikilink")（桌球選手）、[平野美宇](../Page/平野美宇.md "wikilink")（桌球選手）：於特別企劃「支持自己走下去的歌」（）以預錄影像登場。
 
 ### 演奏嘉賓
 

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:FOP](https://zh.wikipedia.org/wiki/Draft:FOP)转换而来。
+
+
 **** is a pejorative term for a foolish man. 是一種貶義愚蠢人的詞
 
 **FOP** 或 **fop** may also refer to:

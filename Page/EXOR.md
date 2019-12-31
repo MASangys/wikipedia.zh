@@ -1,3 +1,6 @@
+> 本文内容由[EXOR](https://zh.wikipedia.org/wiki/EXOR)转换而来。
+
+
 **Exor N.V.**是一家意大利的[控股公司](../Page/控股公司.md "wikilink")，在[荷兰](../Page/荷兰.md "wikilink")注册成立，由意大利[阿涅利家族](../Page/阿涅利家族.md "wikilink")所有\[1\]。它的资本总额接近240亿美元，有超过一个世纪的投资历史\[2\]。其主要投资包括[菲亚特克莱斯勒汽车](../Page/菲亚特克莱斯勒汽车.md "wikilink")、、[法拉利汽車](../Page/法拉利汽車.md "wikilink")、、[尤文图斯足球俱乐部](../Page/尤文图斯足球俱乐部.md "wikilink")和[经济学人](../Page/经济学人.md "wikilink")。根据2018年[财富世界500强排行榜的结果](https://zh.wikipedia.org/wiki/财富世界500强 "wikilink")，Exor在意大利的收入排名第一，全球收入排名第\[3\]\[4\]。
 
 ## 控股

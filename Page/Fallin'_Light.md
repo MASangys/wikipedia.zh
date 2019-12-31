@@ -1,3 +1,6 @@
+> 本文内容由[Fallin\' Light](https://zh.wikipedia.org/wiki/Fallin\'_Light)转换而来。
+
+
 **《Fallin' Light》**是韓國女子團體[GFRIEND](../Page/GFRIEND.md "wikilink")作為首張日文正規專輯。由[Source Music製作](../Page/Source_Music.md "wikilink")，[King Records發行](https://zh.wikipedia.org/wiki/King_Records "wikilink")，於2019年11月13日於各國發行推出，主打歌為《Fallin' Light》。
 
 ## 背景

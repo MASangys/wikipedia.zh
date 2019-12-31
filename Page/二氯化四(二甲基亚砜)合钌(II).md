@@ -1,3 +1,6 @@
+> 本文内容由[二氯化四\(二甲基亚砜\)合钌\(II\)](https://zh.wikipedia.org/wiki/二氯化四\(二甲基亚砜\)合钌\(II\))转换而来。
+
+
 **二氯化四(二甲基亚砜)合钌(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为RuCl<sub>2</sub>(DMSO)<sub>4</sub>，其中，DMSO为[二甲基亚砜的英文缩写](https://zh.wikipedia.org/wiki/二甲基亚砜 "wikilink")。它存在顺式和反式两种构型，这两种构型都是已知的，但顺式构型（如右图）更为常见。顺式异构体为黄色固体，在空气中稳定，可溶于一部分有机溶剂。它是潜在的抗癌药物。
 
 ## 结构与制备

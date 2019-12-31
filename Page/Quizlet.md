@@ -1,3 +1,6 @@
+> 本文内容由[Quizlet](https://zh.wikipedia.org/wiki/Quizlet)转换而来。
+
+
 **Quizlet** 是运行在电子设备上，通过单词卡等方式学习的应用程序。 目前在使用的用户中有三分之二是高中生，并且大部分用户位于[美国](../Page/美国.md "wikilink")。\[1\] 它是由安德鲁萨瑟兰在2005年创建并在2007年1月向公众发布。\[2\] 通过训练学生[抽认卡和各种游戏和测试来进行学习](https://zh.wikipedia.org/wiki/抽认卡 "wikilink")。 在2019年2月6日，Quizlet拥有超过300万的用户单词集和50多万名积极用户。\[3\] Quizlet的Alexa排名位于美国前50的网站中，\[4\] 2016年 ，被[SimilarWeb](../Page/SimilarWeb.md "wikilink") 评为发展最快的教育网站。\[5\]
 
 ## 历史

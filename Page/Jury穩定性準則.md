@@ -1,3 +1,6 @@
+> 本文内容由[Jury穩定性準則](https://zh.wikipedia.org/wiki/Jury穩定性準則)转换而来。
+
+
 **Jury穩定性準則**（Jury stability criterion）是在[信号处理及](https://zh.wikipedia.org/wiki/信号处理 "wikilink")[控制理论](../Page/控制理论.md "wikilink")中，判斷線性離散系統穩定性的方式，是利用分析[特徵多項式](../Page/特徵多項式.md "wikilink")來進行分析。Jury穩定性準則是[劳斯–赫尔维茨稳定性判据的離散時間版本](https://zh.wikipedia.org/wiki/劳斯–赫尔维茨稳定性判据 "wikilink")。Jury[稳定性判据要求系統的極點都要位在以原點為圓心的](https://zh.wikipedia.org/wiki/稳定性判据 "wikilink")[單位圓內](https://zh.wikipedia.org/wiki/單位圓 "wikilink")，劳斯–赫尔维茨稳定性判据要求系統的極點在複數平面的左半邊。Jury穩定性準則得名自伊拉克裔美藉工程師。
 
 ## 方法

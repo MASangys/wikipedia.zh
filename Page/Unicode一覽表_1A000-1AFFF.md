@@ -1,3 +1,6 @@
+> 本文内容由[Unicode一覽表 1A000-1AFFF](https://zh.wikipedia.org/wiki/Unicode一覽表_1A000-1AFFF)转换而来。
+
+
 |                  |
 | ---------------- |
 | *未分配／Unassigned* |

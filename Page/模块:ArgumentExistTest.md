@@ -1,3 +1,6 @@
+> 本文内容由[模块:ArgumentExistTest](https://zh.wikipedia.org/wiki/模块:ArgumentExistTest)转换而来。
+
+
 local getArgs = require('Module:Arguments').getArgs local p = {}
 
 function Split(szFullString, szSeparator)

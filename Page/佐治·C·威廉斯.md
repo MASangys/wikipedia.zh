@@ -1,3 +1,6 @@
+> 本文内容由[佐治·C·威廉斯](https://zh.wikipedia.org/wiki/佐治·C·威廉斯)转换而来。
+
+
 **佐治·基斯杜化·威廉斯**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[演化生物學家](https://zh.wikipedia.org/wiki/演化生物學 "wikilink")。\[1\]\[2\]\[3\]
 
 ## 參考文獻

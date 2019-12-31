@@ -1,3 +1,6 @@
+> 本文内容由[Sony α7 II](https://zh.wikipedia.org/wiki/Sony_α7_II)转换而来。
+
+
 **Sony α7 II**（型号**ILCE-7M2**，简称**A7II**）是[索尼公司于](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")2014年11月20日发布的[全画幅](../Page/全画幅.md "wikilink")[无反光镜可换镜头相机](../Page/無反光鏡可換鏡頭相機.md "wikilink")。
 
 ## 型号差异

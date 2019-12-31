@@ -1,3 +1,6 @@
+> 本文内容由[CCR5](https://zh.wikipedia.org/wiki/CCR5)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:HIV_attachment.gif "fig:右") **CCR5**（**C-C [chemokine receptor](https://zh.wikipedia.org/wiki/趋化因子受体 "wikilink") type 5**），中文名：**趋化因子受体5**\[1\]或**趋化因子C－C亚族受体5**\[2\]，也称为**CD195**。是白细胞表面的一种蛋白质，因此也称为**CCR5蛋白质**，R5型[HIV进入并感染宿主细胞的过程需要借助CCR](https://zh.wikipedia.org/wiki/人類免疫缺陷病毒 "wikilink")5蛋白质，控制CCR5蛋白质的基因称为**CCR5基因**，该基因在人体内的[基因座](../Page/基因座.md "wikilink")是3p21.31（意为位于3号染色体短臂的2区－1带－子带31上）。\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
 
 某些人群的基因组中含有此基因的一个突变型，称为CCR5-Δ32，与普通CCR5基因相比，有一段长为 32 [碱基对的](https://zh.wikipedia.org/wiki/鹼基對 "wikilink")[缺失](https://zh.wikipedia.org/wiki/突变#%E7%BC%BA%E5%A4%B1 "wikilink")，其表达产物无法被HIV识别和结合，因此可对R5型HIV引起的艾滋病免疫，\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]但对于仅使用CXCR4受体蛋白的X4型HIV却没有免疫能力\[16\]\[17\]。CCR5的另外一種突變CCR5-893（−）亦同樣对部分艾滋病具有免疫作用\[18\]。

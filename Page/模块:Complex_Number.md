@@ -1,3 +1,6 @@
+> 本文内容由[模块:Complex Number](https://zh.wikipedia.org/wiki/模块:Complex_Number)转换而来。
+
+
 local p = { PrimeTable = {} } local numlib = require("Module:Number") local numdata = require("Module:Number/data") local calclib = require("Module:Complex Number/Calculate")
 
 \--debug --local cmath,tonum=p.cmath.init(),p.cmath.init().toComplexNumber; mw.logObject(cmath.abs(cmath.nonRealPart(tonum("2+3i"))))

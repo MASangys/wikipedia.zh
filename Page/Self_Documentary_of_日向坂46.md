@@ -1,3 +1,6 @@
+> 本文内容由[Self Documentary of 日向坂46](https://zh.wikipedia.org/wiki/Self_Documentary_of_日向坂46)转换而来。
+
+
 《**Self Documentary of 日向坂46**》（）是日本女子偶像團體[日向坂46](../Page/日向坂46.md "wikilink")的，於2019年9月29日起[日本時間週日](../Page/日本標準時間.md "wikilink")22時30分至23時30分在播出。每月播出一次\[1\]。
 
 ## 概要

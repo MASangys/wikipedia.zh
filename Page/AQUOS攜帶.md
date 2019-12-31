@@ -1,3 +1,6 @@
+> 本文内容由[AQUOS攜帶](https://zh.wikipedia.org/wiki/AQUOS攜帶)转换而来。
+
+
 **夏普手机**（AQUOSケータイ）日文名的“ケータイ”是“ワン‐セグメント放送”（单波段广播）的缩写，AQUOS是夏普手机的代号。夏普共注册三个手机商标，分别是；“ AQUOS SHOT”、“ AQUOS K”、“AQUOSケータイ”。
 
 ## 历史

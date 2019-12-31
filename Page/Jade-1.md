@@ -1,3 +1,6 @@
+> 本文内容由[Jade-1](https://zh.wikipedia.org/wiki/Jade-1)转换而来。
+
+
 《**Jade-1**》是[香港](../Page/香港.md "wikilink")女歌手[關心妍](../Page/關心妍.md "wikilink")的出道[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2002年7月3日由[BMA唱片發行](../Page/博美娛樂.md "wikilink")。
 
 ## 解說

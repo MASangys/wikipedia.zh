@@ -1,3 +1,6 @@
+> 本文内容由[孫Sational-打造他的時間](https://zh.wikipedia.org/wiki/孫Sational-打造他的時間)转换而来。
+
+
 《**孫Sational-打造他的時間**》（，），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年5月25日推出的時事教養節目，由[孫興慜](../Page/孫興慜.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")等人共同主持，節目主軸為邀請到目前為止一直陪伴著孫興慜的人們，講述[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[足球](../Page/足球.md "wikilink")的未來，回顧從[江原道少年到成為](https://zh.wikipedia.org/wiki/江原道 "wikilink")[英超球員足跡的點點滴滴](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 節目列表

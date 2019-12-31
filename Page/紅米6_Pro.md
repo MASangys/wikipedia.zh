@@ -1,3 +1,6 @@
+> 本文内容由[紅米6 Pro](https://zh.wikipedia.org/wiki/紅米6_Pro)转换而来。
+
+
 **紅米6 Pro**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2018年6月25日發表的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。採用[高通](../Page/高通.md "wikilink")[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")625處理器、5.84吋2280×1080 FHD+螢幕、3GB／4GB記憶體、32GB／64GB儲存空間、[Android](../Page/Android.md "wikilink") 8.1（[MIUI](../Page/MIUI.md "wikilink") 9）。
 
 ## 參考文獻

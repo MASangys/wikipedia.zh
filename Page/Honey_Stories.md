@@ -1,3 +1,6 @@
+> 本文内容由[Honey Stories](https://zh.wikipedia.org/wiki/Honey_Stories)转换而来。
+
+
 《**Honey Stories**》是2019年7月17日\[1\]，由[avex trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[宇野實彩子的首張專輯](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")。
 
 ## 收錄曲

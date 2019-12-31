@@ -1,3 +1,6 @@
+> 本文内容由[WAgg](https://zh.wikipedia.org/wiki/WAgg)转换而来。
+
+
 WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單位的目的是培養年輕女孩，最終作為[WACK](../Page/WACK.md "wikilink")團體的一部分首次亮相。
 2018年結成。隸屬於WACK。他們的粉絲被官方稱為「新米」。
 

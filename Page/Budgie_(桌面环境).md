@@ -1,3 +1,6 @@
+> 本文内容由[Budgie \(桌面环境\)](https://zh.wikipedia.org/wiki/Budgie_\(桌面环境\))转换而来。
+
+
 **Budgie**是一款由[Solus项目和多个社群](../Page/SolusOS.md "wikilink")（如[Arch Linux](../Page/Arch_Linux.md "wikilink")、[Manjaro Linux和](../Page/Manjaro_Linux.md "wikilink")）开发，使用[GNOME](../Page/GNOME.md "wikilink")（如[GTK](../Page/GTK.md "wikilink")+3.0+）的[桌面环境](../Page/桌面环境.md "wikilink")。Budgie的设计着重于简洁美观。
 
 [Budgie_(desktop_environment)_v10.4.png](https://zh.wikipedia.org/wiki/File:Budgie_\(desktop_environment\)_v10.4.png "fig:Budgie_(desktop_environment)_v10.4.png")

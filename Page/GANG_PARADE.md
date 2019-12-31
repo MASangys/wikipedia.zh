@@ -1,3 +1,6 @@
+> 本文内容由[GANG PARADE](https://zh.wikipedia.org/wiki/GANG_PARADE)转换而来。
+
+
 **GANG PARADE**（ギャングパレード）是日本的音樂團體、[日本](../Page/日本.md "wikilink")的[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")、日本的10人組女性偶像團體、以**「大家的遊樂場」**為概念進行活動。前身為「Pla2me」、「POP」。亦是首批簽約[WACK](../Page/WACK.md "wikilink")的女子偶像團體。
 2014年結成。隸屬於WACK。唱片公司為T-Palette Records。他們的粉絲被官方稱為「遊び人」、「Playboys」。
 

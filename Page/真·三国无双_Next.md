@@ -1,3 +1,6 @@
+> 本文内容由[真·三国无双 Next](https://zh.wikipedia.org/wiki/真·三国无双_Next)转换而来。
+
+
 \[1\]\[2\]是由[光荣特库摩](../Page/光荣特库摩.md "wikilink")公司在2011年发行的基于《[真·三国无双6：猛将传](../Page/真·三國無雙6.md "wikilink")》的[动作游戏](../Page/动作游戏.md "wikilink")，也是该系列在[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")（PS Vita）上发行的第一款游戏。本作的标语是：“一骑当千，迈向下一世代的舞台”。
 
 ## 玩法

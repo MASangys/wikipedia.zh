@@ -1,3 +1,6 @@
+> 本文内容由[Ross–Fahroo引理](https://zh.wikipedia.org/wiki/Ross–Fahroo引理)转换而来。
+
+
 **Ross–Fahroo引理**（Ross–Fahroo lemma）得名自和，是[最优控制理論中的引理](https://zh.wikipedia.org/wiki/最优控制 "wikilink")\[1\]\[2\]\[3\]\[4\]。 該引理提到一般而言，對偶化和[离散化不能交換](https://zh.wikipedia.org/wiki/离散化 "wikilink")。若配合[伴隨向量映射原理](https://zh.wikipedia.org/wiki/伴隨向量映射原理 "wikilink")，才能交換這二個運算\[5\]。
 
 ## 引理的敘述

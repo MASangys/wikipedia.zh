@@ -1,3 +1,6 @@
+> 本文内容由[2019年Oricon流媒体周榜冠军作品列表](https://zh.wikipedia.org/wiki/2019年Oricon流媒体周榜冠军作品列表)转换而来。
+
+
 **2019年Oricon流媒体周榜冠军作品列表**列出2019年度[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")流媒体周榜冠军的作品及其资料。
 
 ## 冠军歌曲列表

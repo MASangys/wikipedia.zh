@@ -1,3 +1,6 @@
+> 本文内容由[嬌蠻之吻NEXT](https://zh.wikipedia.org/wiki/嬌蠻之吻NEXT)转换而来。
+
+
 是CandySoft（）在2013年12月20日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[嬌蠻之吻](../Page/嬌蠻之吻.md "wikilink")》系列的全新作品。\[1\]2015年12月25日發售續作《嬌蠻之吻FESTIVAL》。\[2\]
 
 ## 故事

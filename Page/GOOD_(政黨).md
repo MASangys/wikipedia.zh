@@ -1,3 +1,6 @@
+> 本文内容由[GOOD \(政黨\)](https://zh.wikipedia.org/wiki/GOOD_\(政黨\))转换而来。
+
+
 **GOOD**（，）是一個[南非政黨](https://zh.wikipedia.org/wiki/南非 "wikilink")，該黨由[帕特里夏·德·里爾](../Page/帕特里夏·德·里爾.md "wikilink")以及其他不滿[民主聯盟的黨員於](https://zh.wikipedia.org/wiki/民主聯盟_\(南非\) "wikilink")2018年12月2日成立\[1\]。
 
 ## 選舉結果

@@ -1,3 +1,6 @@
+> 本文内容由[吡啶-2,6-二甲酸氢锫\(III\)](https://zh.wikipedia.org/wiki/吡啶-2,6-二甲酸氢锫\(III\))转换而来。
+
+
 **吡啶-2,6-二甲酸氢锫(III)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为Bk(C<sub>7</sub>H<sub>4</sub>NO<sub>4</sub>)<sub>3</sub>，或简写为Bk(HDPA)<sub>3</sub>。有文献对其结构进行理论计算，结果与实验值相符。\[1\]
 
 ## 制备

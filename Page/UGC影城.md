@@ -1,3 +1,6 @@
+> 本文内容由[UGC影城](https://zh.wikipedia.org/wiki/UGC影城)转换而来。
+
+
 **UGC影城**（）是[法国的第二大](https://zh.wikipedia.org/wiki/法国 "wikilink")[电影院品牌](../Page/電影院.md "wikilink")。UGC为法语Union générale cinématographique（意为电影产业总联盟）的缩写。
 
 ## 历史

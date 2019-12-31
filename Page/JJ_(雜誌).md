@@ -1,3 +1,6 @@
+> 本文内容由[JJ \(雜誌\)](https://zh.wikipedia.org/wiki/JJ_\(雜誌\))转换而来。
+
+
 《**JJ**》（）是[日本](../Page/日本.md "wikilink")[光文社發行的](https://zh.wikipedia.org/wiki/光文社 "wikilink")[女性](../Page/女性.md "wikilink")，1975年6月創刊，每月23日發行。其主要客群為女大學生，以主打「男性喜愛的」（）著稱\[1\]，係面向20代出頭女性發行的「」雜誌之一。
 
 ## 概要

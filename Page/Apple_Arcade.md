@@ -1,3 +1,6 @@
+> 本文内容由[Apple Arcade](https://zh.wikipedia.org/wiki/Apple_Arcade)转换而来。
+
+
 **Apple Arcade**是苹果公司于2019年3月25日的特别活动中所宣布的新的线上电子游戏订阅平台\[1\]，在2019年9月10日的活动上，Apple Arcade被宣布将于19日在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[macOS及](https://zh.wikipedia.org/wiki/macOS "wikilink")[tvOS平台上正式上线](https://zh.wikipedia.org/wiki/tvOS "wikilink")。\[2\]
 
 ## 功能

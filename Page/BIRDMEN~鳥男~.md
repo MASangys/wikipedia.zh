@@ -1,3 +1,6 @@
+> 本文内容由[BIRDMEN\~鳥男\~](https://zh.wikipedia.org/wiki/BIRDMEN\~鳥男\~)转换而来。
+
+
 《**BIRDMEN\~鳥男\~**》（BIRDMEN）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[田边伊卫郎所創作的](https://zh.wikipedia.org/wiki/田边伊卫郎 "wikilink")[日本漫画](../Page/日本漫画.md "wikilink")。於《[周刊少年Sunday](https://zh.wikipedia.org/wiki/周刊少年Sunday "wikilink")》（[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")）2013年33号开始連載中。
 
 ## 劇情簡介

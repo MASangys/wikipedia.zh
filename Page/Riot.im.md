@@ -1,3 +1,6 @@
+> 本文内容由[Riot.im](https://zh.wikipedia.org/wiki/Riot.im)转换而来。
+
+
 **Riot.im**是一個以[Matrix協定為基礎的](../Page/Matrix_\(协议\).md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，以Apache授權條款2.0授權。因為其使用了[互聯](../Page/互聯.md "wikilink")的Matrix協定，Riot.im讓使用者可以選擇要連線的伺服器\[1\]。
 
 另外，Riot.im也支援[端到端加密](../Page/端到端加密.md "wikilink")、群組、頻道與檔案分享\[2\]，註冊時也不需要電話號碼。並提供[网络应用程序](../Page/网络应用程序.md "wikilink")、所有主要[操作系统](../Page/操作系统.md "wikilink")的應用程式以及[Android](../Page/Android.md "wikilink")與[iOS行動應用程式](https://zh.wikipedia.org/wiki/iOS "wikilink")。應用程式開發主要由New Vector Limited公司完成，其同時也參與了Matrix協定的開發\[3\]。

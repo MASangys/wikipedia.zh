@@ -1,3 +1,6 @@
+> 本文内容由[无义介导的mRNA降解](https://zh.wikipedia.org/wiki/无义介导的mRNA降解)转换而来。
+
+
 [NMD_-_Nonsense-mediated_decay.png](https://zh.wikipedia.org/wiki/File:NMD_-_Nonsense-mediated_decay.png "fig:NMD_-_Nonsense-mediated_decay.png") **无义介导的mRNA降解**（，常简写为**NMD机制**或**NMD**）是一种存在于所有[真核生物](../Page/真核生物.md "wikilink")中的。这一机制透过降解含有提前[终止密码子](../Page/终止密码子.md "wikilink")的异常[mRNA转录子以减少基因表达上的错误](../Page/信使核糖核酸.md "wikilink")。\[1\]如果没有这一机制，这些异常的mRNA可能会翻译出有害的功能获得性或的蛋白质，可能损害人体正常的生理机制。\[2\]
 
 NMD机制在1979年几乎同时于人类和酵母菌细胞中发现，显现出这一机制在广泛种系间的保守性，体现了这一机制重要的生物学意义。\[3\]无义突变导致了终止密码子的提前出现，使得正常的蛋白质合成提前终止，而丢失的氨基酸片段可能导致蛋白质失去功能。而细胞总是只含有极少量的带的等位基因所产生的mRNA这一异乎寻常的事实，促成了NMD机制的发现。NMD机制的发现是人类遗传学重要而崭新的突破， 这一机制可以限制异常蛋白的翻译表达，但是有时也会对特定的遗传突变产生不良后果。\[4\]

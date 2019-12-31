@@ -1,3 +1,6 @@
+> 本文内容由[怪醫黑傑克OVA](https://zh.wikipedia.org/wiki/怪醫黑傑克OVA)转换而来。
+
+
 《**怪醫黑傑克OVA**》是以[手塚治虫](../Page/手塚治虫.md "wikilink")漫畫《[怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")》為原作改編的[OVA系列作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。本條目有另外衍生出1996年上映的[劇場版動畫](https://zh.wikipedia.org/wiki/劇場版動畫 "wikilink")《**怪醫黑傑克 劇場版**》。
 
 ## 作品概要

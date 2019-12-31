@@ -1,3 +1,6 @@
+> 本文内容由[HONEY \(SCANDAL專輯\)](https://zh.wikipedia.org/wiki/HONEY_\(SCANDAL專輯\))转换而来。
+
+
 《**HONEY**》是日本搖滾團體[SCANDAL於](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")2018年2月14日發行的第8張錄音室專輯。
 
 ## 專輯簡介

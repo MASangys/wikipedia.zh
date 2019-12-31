@@ -1,3 +1,6 @@
+> 本文内容由[Mark \(專輯\)](https://zh.wikipedia.org/wiki/Mark_\(專輯\))转换而来。
+
+
 《**Mark**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[李昌燮](../Page/李昌燮.md "wikilink")的首張個人韓語迷你專輯，專輯名稱有「希望以李昌燮的音樂留下痕跡、標誌」的含意。於2018年12月11日正式發行。主打歌曲為〈Gone〉。
 
 ## 背景

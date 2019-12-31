@@ -1,3 +1,6 @@
+> 本文内容由[马尼拉SMX会议中心](https://zh.wikipedia.org/wiki/马尼拉SMX会议中心)转换而来。
+
+
 **马尼拉SMX会议中心**（）位于[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[马尼拉](../Page/马尼拉.md "wikilink")帕赛的[SM亚洲商城旁](https://zh.wikipedia.org/wiki/SM亚洲商城 "wikilink")，是菲律宾最大贸易活动，行业会议，企业活动和[国际展览中心](../Page/國際展覽中心.md "wikilink")。
 
 该会展中心有4个展厅，5个功能室和14间会议室，与21000平方米的可出租空间。\[1\]

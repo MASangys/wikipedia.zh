@@ -1,3 +1,6 @@
+> 本文内容由[POCOPHONE F1](https://zh.wikipedia.org/wiki/POCOPHONE_F1)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Xiaomi_Poco_F1_on_Wikipedia.jpg "fig:缩略图")時的畫面\]\] [缩略图](https://zh.wikipedia.org/wiki/File:Xiaomi_Pocophone_F1.jpg "fig:缩略图") **Pocophone F1**是[小米於](../Page/小米集團.md "wikilink")2018年8月22日在[新德里](../Page/新德里.md "wikilink")發佈的旗舰[手機](../Page/移动电话.md "wikilink")。該手機主要銷售往國際市場（包括[港](../Page/香港.md "wikilink")[臺](../Page/臺灣.md "wikilink")），但不在[中國大陸發售](../Page/中国大陆.md "wikilink")。
 
 ## 規格

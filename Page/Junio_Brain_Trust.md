@@ -1,3 +1,6 @@
+> 本文内容由[Junio Brain Trust](https://zh.wikipedia.org/wiki/Junio_Brain_Trust)转换而来。
+
+
 **Junio Brain Thrust**（日語片假名：ジュニオ ブレイン トラスト），是一家日本動畫公司，其主要業務是[動畫作品的版權管理](https://zh.wikipedia.org/wiki/動畫 "wikilink")。舊的公司名稱是**Studio Junio**。
 
 ## 歷史

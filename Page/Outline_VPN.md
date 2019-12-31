@@ -1,3 +1,6 @@
+> 本文内容由[Outline VPN](https://zh.wikipedia.org/wiki/Outline_VPN)转换而来。
+
+
 **Outline VPN**是一个[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，用于在多个[云服务上快速部署](../Page/雲端運算.md "wikilink")[Shadowsocks](../Page/Shadowsocks.md "wikilink")服务器\[1\]\[2\]。该软件还包括多平台的[客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")。 Outline是由[Google](../Page/Google.md "wikilink")创建的[技术孵化器](../Page/企业孵化器.md "wikilink")[Jigsaw](../Page/Jigsaw.md "wikilink")开发的。
 
 Outline Server不僅可以在私人伺服器中使用，也可以在包括[DigitalOcean](../Page/DigitalOcean.md "wikilink")、[Rackspace](../Page/Rackspace.md "wikilink")、[Google雲端平台](../Page/Google雲端平台.md "wikilink")和[Amazon EC2在等雲服務上安裝使用](../Page/Amazon_EC2.md "wikilink")。\[3\]安装時可用[命令行或](../Page/命令行界面.md "wikilink")[圖形界面](../Page/图形用户界面.md "wikilink")（僅限[DigitalOcean](../Page/DigitalOcean.md "wikilink")）。

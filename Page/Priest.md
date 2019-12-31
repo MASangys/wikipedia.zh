@@ -1,3 +1,6 @@
+> 本文内容由[Priest](https://zh.wikipedia.org/wiki/Priest)转换而来。
+
+
 《**Priest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") 於 2018 年 11 月 24 日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")。由電影《[國家代表 2](../Page/國家代表2.md "wikilink")》的金鍾鉉導演\[1\]與文萬世作家攜手合作打造的[醫療](https://zh.wikipedia.org/wiki/醫療 "wikilink")[驅魔](../Page/驅魔.md "wikilink")劇。本劇描寫 2018 年發生在韓國南部[天主教](../Page/天主教.md "wikilink")[醫院](../Page/醫院.md "wikilink")的超現實現象\[2\]。台灣由[KKTV](../Page/KKTV.md "wikilink")、[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink") 自 11 月 25 日起，每週日、一播出。劇中修女驅魔時使用了一首拉丁文聖歌 (Victimae paschali laudes )及韓文聖歌(Christus Vincit, 그리스도 승리)。
 
 ## 演員陣容

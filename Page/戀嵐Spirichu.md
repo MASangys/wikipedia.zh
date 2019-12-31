@@ -1,3 +1,6 @@
+> 本文内容由[戀嵐Spirichu](https://zh.wikipedia.org/wiki/戀嵐Spirichu)转换而来。
+
+
 是[Parasol](../Page/Parasol.md "wikilink")在2019年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

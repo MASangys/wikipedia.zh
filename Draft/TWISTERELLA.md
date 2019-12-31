@@ -1,3 +1,6 @@
+> 本文内容由[Draft:TWISTERELLA](https://zh.wikipedia.org/wiki/Draft:TWISTERELLA)转换而来。
+
+
 -----
 
 TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音及鍵盤)、Hanes Cheung (結他手、Synth 及Programming)、Sammer Wong (低音結他手) 與 Joe Ngan (鼓手)。樂隊於2018年推出首張專輯\[2\]，並以12吋黑膠發行，其後於各大公開演出場合與香港影像藝術家Crystal Bug合作\[3\]，以影音同步的視覺效果配合其現場表演，為樂隊帶來高度評價，亦為更多觀眾所認識。

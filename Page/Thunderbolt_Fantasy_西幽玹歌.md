@@ -1,3 +1,6 @@
+> 本文内容由[Thunderbolt Fantasy 西幽玹歌](https://zh.wikipedia.org/wiki/Thunderbolt_Fantasy_西幽玹歌)转换而来。
+
+
 《**Thunderbolt Fantasy 西幽玹歌**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](../Page/武俠片.md "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")偶電視劇集作品。劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，為《[Thunderbolt Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》的前傳。\[1\]於2019年10月25日在日本及臺灣的各劇院上映。\[2\]
 
 ## 故事大綱

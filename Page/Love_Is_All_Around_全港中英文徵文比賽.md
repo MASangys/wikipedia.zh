@@ -1,3 +1,6 @@
+> 本文内容由[Love Is All Around 全港中英文徵文比賽](https://zh.wikipedia.org/wiki/Love_Is_All_Around_全港中英文徵文比賽)转换而来。
+
+
 **Love Is All Around全港中英文徵文比賽**全称;**愛、傳、城 Love Is All Around全港中英文徵文比賽**，由[香港新聞工作者聯會](../Page/香港新聞工作者聯會.md "wikilink")主辦,啟悟慈善基金贊助。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 籌組委員會

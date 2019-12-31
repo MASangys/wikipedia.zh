@@ -1,3 +1,6 @@
+> 本文内容由[Fiddler](https://zh.wikipedia.org/wiki/Fiddler)转换而来。
+
+
 **Fiddler**是一个用于[HTTP调试的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")应用程序，最初由[微软](../Page/微软.md "wikilink")[Internet Explorer开发团队的前程序经理Eric](../Page/Internet_Explorer.md "wikilink") Lawrence编写。
 
 ## 特性

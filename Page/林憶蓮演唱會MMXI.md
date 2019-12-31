@@ -1,3 +1,6 @@
+> 本文内容由[林憶蓮演唱會MMXI](https://zh.wikipedia.org/wiki/林憶蓮演唱會MMXI)转换而来。
+
+
 《**林憶蓮演唱會MMXI**》（又名：《**林憶蓮MMXI演唱會**》\[1\]；英文：《**Sandy Lam Concert MMXI**》\[2\]）是香港歌手[林憶蓮](../Page/林憶蓮.md "wikilink")的第八張現場專輯，於2012年6月5日由Lead Talent Limited發行CD及DVD版本。\[3\]\[4\]
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[\(G\)I-DLE公演列表](https://zh.wikipedia.org/wiki/\(G\)I-DLE公演列表)转换而来。
+
+
 **(G)I-DLE公演列表**主要列举韩国女子音乐组合[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")及成员个人历年举行的演唱会、参与的国内外公开演出活动。
 
 ## Showcase

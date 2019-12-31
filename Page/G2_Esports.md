@@ -1,3 +1,6 @@
+> 本文内容由[G2 Esports](https://zh.wikipedia.org/wiki/G2_Esports)转换而来。
+
+
 **G2 Esports**（前稱為**Gamers2**）是一支以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林](../Page/柏林.md "wikilink")為根據地的西班牙[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")\[1\]，旗下分部有《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》、《[絕對武力：全球攻勢](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》、《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》、《[炉石传说](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")》、《[絕地求生](../Page/絕地求生.md "wikilink")》、《[火箭聯盟](../Page/火箭聯盟.md "wikilink")》、《[部落衝突：皇室戰爭](../Page/部落衝突：皇室戰爭.md "wikilink")》、《》、《[要塞英雄](../Page/堡垒之夜系列.md "wikilink")》、《[使命召喚](https://zh.wikipedia.org/wiki/使命召喚系列 "wikilink")》、《[任天堂明星大亂鬥DX](https://zh.wikipedia.org/wiki/任天堂明星大亂鬥DX "wikilink")》和《[虚荣](../Page/虚荣_\(游戏\).md "wikilink")》。
 
 ## 英雄聯盟

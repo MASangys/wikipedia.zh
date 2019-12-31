@@ -1,3 +1,6 @@
+> 本文内容由[Top Management](https://zh.wikipedia.org/wiki/Top_Management)转换而来。
+
+
 《[Top Management](../Page/Top_Management.md "wikilink")》為[YouTube](../Page/YouTube.md "wikilink")於2018年10月31日起播出的首部原創[韓國電視劇](https://zh.wikipedia.org/wiki/韓國 "wikilink")，以愛豆和音樂為素材，講述經歷種種災難的新人經紀人活用自己的能力，在業界成功的故事。\[1\]\[2\]
 
 ## 演員陣容

@@ -1,3 +1,6 @@
+> 本文内容由[Reality in BLACK](https://zh.wikipedia.org/wiki/Reality_in_BLACK)转换而来。
+
+
 《**reality in BLACK**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO繼](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")2016年的首張正規專輯《[Melting](../Page/Melting_\(MAMAMOO專輯\).md "wikilink")》後，時隔近4年的第二張[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")。由[Rainbow Bridge World企劃製作](../Page/Rainbow_Bridge_World.md "wikilink")，透過[Kakao M於](../Page/Kakao_M.md "wikilink")2019年11月14日發行，主打歌為《HIP》。截止11月底，該專輯在韓國本土的實體銷量突破10萬張\[1\]，大幅刷新團體自身的實體專輯銷量紀錄。
 
 ## 背景

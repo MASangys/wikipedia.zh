@@ -1,3 +1,6 @@
+> 本文内容由[MIL-STD-461](https://zh.wikipedia.org/wiki/MIL-STD-461)转换而来。
+
+
 MIL-STD-461<ref>
 
 <div>

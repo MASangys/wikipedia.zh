@@ -1,3 +1,6 @@
+> 本文内容由[3YE](https://zh.wikipedia.org/wiki/3YE)转换而来。
+
+
 **3YE**（），是[韓國GH娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的三人女子組合，成員包括Yurim、Yuji及Haeun\[1\]\[2\]，三人均是Apple.B前成員。
 
 ## 成員資料

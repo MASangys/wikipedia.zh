@@ -1,3 +1,6 @@
+> 本文内容由[HUTAZONE \(專輯\)](https://zh.wikipedia.org/wiki/HUTAZONE_\(專輯\))转换而来。
+
+
 《**HUTAZONE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[李旼赫](../Page/李旼赫.md "wikilink")（HUTA）的首張個人韓語正規專輯，於2019年1月15日發行。主打歌曲為《YA》及《今晚（With Melody）》（）兩首歌曲。\[1\]
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[Ridertime假面騎士龍騎](https://zh.wikipedia.org/wiki/Ridertime假面騎士龍騎)转换而来。
+
+
 《**Ridertime假面騎士龍騎**》是屬於《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》正篇衍生作品之一，為“Video Pass ×东映特摄 粉丝俱乐部共同企划Premium 电视剧”的第二弹作品。\[1\]。
 
 ## 故事大綱

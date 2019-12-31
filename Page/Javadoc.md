@@ -1,3 +1,6 @@
+> 本文内容由[Javadoc](https://zh.wikipedia.org/wiki/Javadoc)转换而来。
+
+
 **Javadoc**（最初是**JavaDoc**）\[1\]是由[Sun Microsystems为](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[Java](../Page/Java.md "wikilink")语言（现在由[甲骨文公司](../Page/甲骨文公司.md "wikilink")拥有）创建的文档生成器，用于从Java源代码生成[HTML](../Page/HTML.md "wikilink")格式的[API文档](../Page/应用程序接口.md "wikilink")，HTML格式用于增加将相关文档[链接在一起的便利性](https://zh.wikipedia.org/wiki/超連結 "wikilink")。<ref>
 
 <div>

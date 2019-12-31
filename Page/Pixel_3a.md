@@ -1,3 +1,6 @@
+> 本文内容由[Pixel 3a](https://zh.wikipedia.org/wiki/Pixel_3a)转换而来。
+
+
 **Pixel 3a及Pixel 3a XL**是由[Google](../Page/Google.md "wikilink")發佈的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，两款手机分别为[Pixel 3及Pixel 3 XL的对应中端配置机型](../Page/Pixel_3.md "wikilink")。2019年5月7日，Google在I/O大会公布Pixel 3a及Pixel 3a XL，两款手机于同日在全球部分国家和地区发售。\[1\]\[2\]
 
 ## 规格

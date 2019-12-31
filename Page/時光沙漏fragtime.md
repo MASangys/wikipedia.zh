@@ -1,3 +1,6 @@
+> 本文内容由[時光沙漏fragtime](https://zh.wikipedia.org/wiki/時光沙漏fragtime)转换而来。
+
+
 《**時光沙漏fragtime**》是[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")创作的[日本漫画](../Page/日本漫画.md "wikilink")，最初于《》（[秋田書店](../Page/秋田書店.md "wikilink")）2013年Vol.2及Vol.3連載\[1\]。7月18日，转移至同出版社的Web漫画网站“”继续连载，2014年9月25日完结。
 
 ## 故事简介

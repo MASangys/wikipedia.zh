@@ -1,3 +1,6 @@
+> 本文内容由[ZEV Tech OZ9手槍](https://zh.wikipedia.org/wiki/ZEV_Tech_OZ9手槍)转换而来。
+
+
 OZ9（全稱ZEV原創 9，）是由美國ZEV科技設計及生產的模組化[半自動手槍](../Page/半自動手槍.md "wikilink")，為基於[格洛克](../Page/格洛克.md "wikilink")手槍的設計，發射[9×19公釐魯格彈](../Page/9×19mm魯格彈.md "wikilink")，標準彈匣為15/17發。
 
 ## 歷史

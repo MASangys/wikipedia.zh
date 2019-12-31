@@ -1,3 +1,6 @@
+> 本文内容由[問題性BOSS](https://zh.wikipedia.org/wiki/問題性BOSS)转换而来。
+
+
 《**問題性BOSS**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[申東燁](../Page/申東燁.md "wikilink")、[張東民](../Page/張東民.md "wikilink")主持，[鄭俊鎬](../Page/鄭俊鎬.md "wikilink")、、[Tony An](https://zh.wikipedia.org/wiki/Tony_An "wikilink")、[李天熙](../Page/李天熙.md "wikilink")參與演出。節目主軸為觀察韓國代表藝人CEO職場生活的辦公室型真人秀，展示藝人不是放送人而是事業家的一面，以及把他們當做老闆的職場人之間的“同床異夢”\[1\]\[2\]\[3\]。
 
 ## 節目成員

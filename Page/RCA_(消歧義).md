@@ -1,3 +1,6 @@
+> 本文内容由[RCA \(消歧義\)](https://zh.wikipedia.org/wiki/RCA_\(消歧義\))转换而来。
+
+
 **[RCA](../Page/RCA.md "wikilink")** 是美國的無線電公司，一家前美國電子公司
 
 **RCA** 也可以指：

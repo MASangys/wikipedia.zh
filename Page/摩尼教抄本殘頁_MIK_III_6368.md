@@ -1,3 +1,6 @@
+> 本文内容由[摩尼教抄本殘頁 MIK III 6368](https://zh.wikipedia.org/wiki/摩尼教抄本殘頁_MIK_III_6368)转换而来。
+
+
 **摩尼教抄本殘頁編號「 6368」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一張收藏於德國[柏林亞洲藝術博物館的](https://zh.wikipedia.org/wiki/亞洲藝術博物館_\(柏林\) "wikilink")[摩尼教](../Page/摩尼教.md "wikilink")[泥金裝飾手抄本](../Page/泥金裝飾手抄本.md "wikilink")殘頁斷片，繪製於8–9世紀期間，20世紀初被[德國吐魯番考察隊](../Page/德國吐魯番考察隊.md "wikilink")發現於新疆[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")寺院遺址。殘頁長17.2釐米、寬11.2釐米，兩面均繪有插圖，上書文本為[粟特語](https://zh.wikipedia.org/wiki/粟特語 "wikilink")。
 
 ## 描述

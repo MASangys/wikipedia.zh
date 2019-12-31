@@ -1,3 +1,6 @@
+> 本文内容由[Surface Pro 6](https://zh.wikipedia.org/wiki/Surface_Pro_6)转换而来。
+
+
 **Surface Pro 6** 是由[微软](../Page/微软.md "wikilink")开发的二合一可拆卸[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink") 。 它是 [Surface Pro](../Page/Surface_Pro.md "wikilink") 系列的第六代产品，于2018年10月2日在纽约的一个活动中和 Surface Laptop 2 一同宣布。 \[1\] 它于2018年10月16日发售。
 
 ## 特性

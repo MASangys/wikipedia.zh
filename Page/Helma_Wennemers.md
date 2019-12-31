@@ -1,3 +1,6 @@
+> 本文内容由[Helma Wennemers](https://zh.wikipedia.org/wiki/Helma_Wennemers)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Helma_Wennemers.png "fig:缩略图") （，）是[德国](../Page/德国.md "wikilink")有机化学家，出生于[美因河畔奥芬巴赫](../Page/美因河畔奥芬巴赫.md "wikilink") ，目前担任瑞士联邦理工学院（ [ETH Zurich](../Page/苏黎世联邦理工学院.md "wikilink") ）[有机化学](../Page/有机化学.md "wikilink")系的教授。
 
 ## 教育经历

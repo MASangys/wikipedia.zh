@@ -1,3 +1,6 @@
+> 本文内容由[模块:Redirect-multi](https://zh.wikipedia.org/wiki/模块:Redirect-multi)转换而来。
+
+
 local mRedirectHatnote = require('Module:Redirect hatnote') local mArguments = require('Module:Arguments') local mHatnote = require('Module:Hatnote') local p = {}
 
 function p.redirectMulti (frame)

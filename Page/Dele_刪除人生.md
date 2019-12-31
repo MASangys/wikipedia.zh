@@ -1,3 +1,6 @@
+> 本文内容由[Dele 刪除人生](https://zh.wikipedia.org/wiki/Dele_刪除人生)转换而来。
+
+
 《dele(ディーリー)》為2018年日本[朝日電視台](../Page/朝日電視台.md "wikilink")製作的週五晚間連續劇，由[山田孝之](../Page/山田孝之.md "wikilink")、[菅田將暉](../Page/菅田將暉.md "wikilink")主演，編劇為[本多孝好](../Page/本多孝好.md "wikilink")及[金城一紀等](https://zh.wikipedia.org/wiki/金城一紀 "wikilink")，共分為8個單元故事。台灣譯爲《刪除人生》，[KKTV](../Page/KKTV.md "wikilink")同步跟播。
 
 ## 劇情大綱

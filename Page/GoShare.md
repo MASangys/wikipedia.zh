@@ -1,3 +1,6 @@
+> 本文内容由[GoShare](https://zh.wikipedia.org/wiki/GoShare)转换而来。
+
+
 **GoShare**為[Gogoro](../Page/Gogoro.md "wikilink")推出之[電動機車](../Page/電動機車.md "wikilink")共享服務平台，採24小時隨訂隨還之租借服務，用戶需要移動時，可以使用GoShare APP尋找身邊的電動機車，隨訂隨用。
 
 採無固定式站點佈放，用戶只要在營運區域內停在合法的機車格內歸還即可。行駛過程中若遇到電力不足，也可至附近[GoStation電池交換站進行電池交換](https://zh.wikipedia.org/wiki/Gogoro#Gogoro能源網路 "wikilink")。\[1\]

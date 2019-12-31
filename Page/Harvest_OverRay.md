@@ -1,3 +1,6 @@
+> 本文内容由[Harvest OverRay](https://zh.wikipedia.org/wiki/Harvest_OverRay)转换而来。
+
+
 是[戲畫在](https://zh.wikipedia.org/wiki/戲畫 "wikilink")2014年6月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2015年6月25日由[TGL](../Page/TGL.md "wikilink")發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[2\]後來在2014年12月19日發售擴充片《Harvest OverRay Reconnection》（）。\[3\]
 
 ## 系統

@@ -1,3 +1,6 @@
+> 本文内容由[Deadmau5所獲獎項與提名清單](https://zh.wikipedia.org/wiki/Deadmau5所獲獎項與提名清單)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

@@ -1,3 +1,6 @@
+> 本文内容由[The Red Shoes](https://zh.wikipedia.org/wiki/The_Red_Shoes)转换而来。
+
+
 《**The Red Shoes**》是香港歌手[黎明](../Page/黎明.md "wikilink")的國語[音樂專輯](../Page/音樂專輯.md "wikilink")，於2001年6月8日推出\[1\]，專輯收錄了十首國語歌曲及兩首粵語歌曲，以及歌曲《中毒的愛情》及《簡愛》的音樂錄像VCD\[2\]。
 
 ## 製作概念

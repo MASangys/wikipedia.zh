@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士海盜GUNDAM GHOST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_GHOST)转换而来。
+
+
 《**機動戰士海盜鋼彈 GHOST**》（、），是[長谷川裕一](../Page/長谷川裕一.md "wikilink")的[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，在月刊少年ACE上由2012年1月號連載至2016年5月號，全53話，單行本12冊。本作是《[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")》的後續，以《[機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》的時代為舞台。本作的續作是講述16年後故事的《[機動戰士海盜GUNDAM DUST](../Page/機動戰士海盜GUNDAM_DUST.md "wikilink")》。
 
 ## 故事介紹

@@ -1,3 +1,6 @@
+> 本文内容由[V.F.D.](https://zh.wikipedia.org/wiki/V.F.D.)转换而来。
+
+
 **V.F.D.**是系列小說《[波特萊爾大遇險](../Page/波特萊爾大遇險.md "wikilink")》中的虛構[秘密組織](https://zh.wikipedia.org/wiki/秘密組織 "wikilink")，該組織的任務並不明確，其成員被稱為「志願者」，使用各種偽裝及密碼來掩飾他們進行的活動\[1\]\[2\]\[3\]。其全名可能為「志願消防隊」（Volunteer Fire Department）。小說中的大部分角色都是V.F.D.成員\[4\]\[5\]。
 
 在某個時候，V.F.D.分裂為兩派，一邊是波特萊爾父母、[雷蒙尼·史尼奇](../Page/雷蒙尼·史尼奇.md "wikilink")和蒙叔叔等人，另一邊是[歐拉夫伯爵](../Page/歐拉夫伯爵.md "wikilink")等人\[6\]\[7\]。

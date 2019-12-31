@@ -1,3 +1,6 @@
+> 本文内容由[TwitCasting](https://zh.wikipedia.org/wiki/TwitCasting)转换而来。
+
+
 **TwitCasting**（）是[日本](../Page/日本.md "wikilink")Moi株式会社运营的一个[网络直播平台](https://zh.wikipedia.org/wiki/网络直播 "wikilink")，通称“TwiCas（）”“CAS（）”或“TC台”。
 
 ## 简介

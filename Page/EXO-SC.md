@@ -1,3 +1,6 @@
+> 本文内容由[EXO-SC](https://zh.wikipedia.org/wiki/EXO-SC)转换而来。
+
+
 **EXO-SC**（）是[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO](../Page/EXO.md "wikilink")的第二個子團體小分隊，組合名稱是由兩位成員**S**ehun和**C**hanyeol的英文名開頭字母所組成，於2019年7月22日发行第一張迷你專輯《What A Life》正式出道。\[1\]
 
 ## 經歷

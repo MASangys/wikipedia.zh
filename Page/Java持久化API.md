@@ -1,3 +1,6 @@
+> 本文内容由[Java持久化API](https://zh.wikipedia.org/wiki/Java持久化API)转换而来。
+
+
 **Java 持久化 API** (**JPA**)是一个 [Java](../Page/Java.md "wikilink") [应用程序接口](../Page/应用程序接口.md "wikilink") 规范，描述了使用 [Java标准版平台](https://zh.wikipedia.org/wiki/Java_SE "wikilink")（Java SE） 和 [Java企业版平台](../Page/Jakarta_EE.md "wikilink")（Java EE）的应用中的 [关系数据](../Page/Jakarta_EE.md "wikilink") 的管理。
 
 [持久化](https://zh.wikipedia.org/wiki/:en:Persistence_\(computer_science\) "wikilink")，在这里包括三个层面的意思：

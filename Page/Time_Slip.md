@@ -1,3 +1,6 @@
+> 本文内容由[Time Slip](https://zh.wikipedia.org/wiki/Time_Slip)转换而来。
+
+
 《**Time_Slip**》是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的第九張正規專輯](../Page/Super_Junior.md "wikilink")，2019年10月14日發行\[1\]，與該組合上一張韓語專輯《[One More Time](../Page/One_More_Time_\(Super_Junior迷你專輯\).md "wikilink")》相隔1年。此專輯是[圭賢](../Page/圭賢.md "wikilink")結束兵役後首次參與專輯錄製，也是全員服役完畢後的首張專輯。
 
 ## 發行與宣傳

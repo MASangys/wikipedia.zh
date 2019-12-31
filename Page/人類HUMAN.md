@@ -1,3 +1,6 @@
+> 本文内容由[人類HUMAN](https://zh.wikipedia.org/wiki/人類HUMAN)转换而来。
+
+
 《**<big>人類HUMAN</big>**》是[台灣歌手](https://zh.wikipedia.org/wiki/台灣歌手 "wikilink")[黃鴻升第五張專輯](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")，睽違三年的第五張國語專輯，於2018年1月19日發行。 \[1\] \[2\]
 
 ## 專輯曲目

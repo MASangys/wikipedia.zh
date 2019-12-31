@@ -1,3 +1,6 @@
+> 本文内容由[魯邦三世 PART5](https://zh.wikipedia.org/wiki/魯邦三世_PART5)转换而来。
+
+
 《**魯邦三世 PART5**》（日語：ルパン三世 PART5），是由漫畫家加藤一彥原作動畫《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》的系列的第5部電視動畫版動畫，於2018年4月4日至9月19日期間共播出24集。
 
 ## 故事內容

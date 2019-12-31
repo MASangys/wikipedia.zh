@@ -1,3 +1,6 @@
+> 本文内容由[Avometer](https://zh.wikipedia.org/wiki/Avometer)转换而来。
+
+
 [AVO_Model_8_Mk7_P4_by_Megger.jpg](https://zh.wikipedia.org/wiki/File:AVO_Model_8_Mk7_P4_by_Megger.jpg "fig:AVO_Model_8_Mk7_P4_by_Megger.jpg") [AVOmeter.jpg](https://zh.wikipedia.org/wiki/File:AVOmeter.jpg "fig:AVOmeter.jpg") [Avometer_BLR121_battery.jpg](https://zh.wikipedia.org/wiki/File:Avometer_BLR121_battery.jpg "fig:Avometer_BLR121_battery.jpg")
 
 **AVOMETER**（AvoMeter, AVOmeter）是英国[万用表](../Page/万用表.md "wikilink")和电子测量仪器的商标，用在英國的自動繞線機暨電氣設備公司（Automatic Coil Winder and Electrical Equipment Co.）於1923年開始生產的最早兼具電流、電壓、與電阻測量功能的多用途電表\[1\]。該公司在1957年更名為 AVO Ltd.\[2\]。现今該品牌由 Megger Group Limited 公司所拥有。 這一系列三用電表中最有名的可能是8型，該型从1951年5月開始生產，直到2008年止，8型生产了許多代的版本，最后一个版本是8型7代（Model 8 Mark 7）。

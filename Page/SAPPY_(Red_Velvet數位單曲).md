@@ -1,3 +1,6 @@
+> 本文内容由[SAPPY \(Red Velvet數位單曲\)](https://zh.wikipedia.org/wiki/SAPPY_\(Red_Velvet數位單曲\))转换而来。
+
+
 《**SAPPY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet](../Page/Red_Velvet.md "wikilink")[日本](../Page/日本.md "wikilink")首張數位單曲，由所屬經紀公司[SM娛樂](../Page/SM娛樂.md "wikilink")與日本唱片公司AVEX TRAX共同製作並發行\[1\]，並於2019年1月6日發布。\[2\]\[3\]
 
 ## 背景

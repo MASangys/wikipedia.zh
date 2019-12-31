@@ -1,3 +1,6 @@
+> 本文内容由[Nature \(組合\)](https://zh.wikipedia.org/wiki/Nature_\(組合\))转换而来。
+
+
 **NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH 娛樂公司推出的女子組合，由[韓國籍成員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Sohee](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、Saebom、**Lu**、Chaebin、Loha、Uchae、Sunshine，[中國](../Page/中國.md "wikilink")籍成員Aurora及[日本](../Page/日本.md "wikilink")籍成員[Haru組成](https://zh.wikipedia.org/wiki/Haru "wikilink")。組合於2018年8月3日出道 \[1\]\[2\]\[3\]，官方粉絲名為「Leaf」。
 
 ## 團名由來

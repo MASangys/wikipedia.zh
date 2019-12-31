@@ -1,3 +1,6 @@
+> 本文内容由[Golden Child音樂作品列表](https://zh.wikipedia.org/wiki/Golden_Child音樂作品列表)转换而来。
+
+
 《**Golden Child音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Golden Child歷年發行之各類音樂作品](../Page/Golden_Child.md "wikilink")。
 
 

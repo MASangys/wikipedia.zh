@@ -1,3 +1,6 @@
+> 本文内容由[2020年Running Man節目列表](https://zh.wikipedia.org/wiki/2020年Running_Man節目列表)转换而来。
+
+
 本列表為《**[Running Man](../Page/Running_Man.md "wikilink")**》2020年的每集節目列表。
 
 ## 節目主持

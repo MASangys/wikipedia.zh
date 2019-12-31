@@ -1,3 +1,6 @@
+> 本文内容由[SBS金土連續劇](https://zh.wikipedia.org/wiki/SBS金土連續劇)转换而来。
+
+
 **SBS金土連續劇**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")[韓國時間星期五](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、六晚間22:00播出的電視劇時段。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Code128](https://zh.wikipedia.org/wiki/Code128)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Wikipedia-barcode-128B.png "fig:缩略图") **Code 128**是ISO/IEC 15417:2007\[1\]定义的[条形码](../Page/条形码.md "wikilink")规范。
 
 Code 128条码可以对全部128个[ASCII](../Page/ASCII.md "wikilink")字符（包括数字、大小写字母、符号和控制符）进行编码。

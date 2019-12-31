@@ -1,3 +1,6 @@
+> 本文内容由[Dc \(程序\)](https://zh.wikipedia.org/wiki/Dc_\(程序\))转换而来。
+
+
 **dc**（desk calculator：桌面计算器）是采用[逆波兰表示法](../Page/逆波兰表示法.md "wikilink")的[跨平台计算器](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，它支持[任意精度算术](../Page/高精度计算.md "wikilink")\[1\]。它是最老的[Unix实用工具](https://zh.wikipedia.org/wiki/Unix "wikilink")，先于[C语言的发明](https://zh.wikipedia.org/wiki/C语言 "wikilink")。像那个年代的其他实用工具一样，它有着一组强力的特征和简洁的语法\[2\]\[3\]。传统上，采用[中缀表示法的](https://zh.wikipedia.org/wiki/中缀表示法 "wikilink")[bc计算器程序是在dc之上实现的](https://zh.wikipedia.org/wiki/bc_\(编程语言\) "wikilink")。
 
 ## 历史

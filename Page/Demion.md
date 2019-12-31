@@ -1,3 +1,6 @@
+> 本文内容由[Demion](https://zh.wikipedia.org/wiki/Demion)转换而来。
+
+
 **Demion**（韓語：**데미온**），是[韓國Lion](https://zh.wikipedia.org/wiki/韓國 "wikilink")'s Bridge於2013年推出的五人男子組合，成員包括Yoon、Nakun、Sangbum、Ssun及Haekeun\[1\]。2014年10月5日，成員透過個人twitter宣布，因公司營運資金不足，團體解散\[2\]\[3\]。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[DND-41](https://zh.wikipedia.org/wiki/DND-41)转换而来。
+
+
 **DND-41**是[人類](../Page/人類.md "wikilink")[急性白血病](https://zh.wikipedia.org/wiki/急性白血病 "wikilink")，最初是在[1977年](../Page/1977年.md "wikilink")分離自一名13歲的T型[急性淋巴性白血病](../Page/急性淋巴性白血病.md "wikilink")的[男性](../Page/男性.md "wikilink")[患者的](https://zh.wikipedia.org/wiki/患者 "wikilink")[外周血](https://zh.wikipedia.org/wiki/外周血 "wikilink")，具有[p53蛋白的](https://zh.wikipedia.org/wiki/p53 "wikilink")[突變及](https://zh.wikipedia.org/wiki/突變 "wikilink")與的缺失\[1\]。
 
 ## 科研用途

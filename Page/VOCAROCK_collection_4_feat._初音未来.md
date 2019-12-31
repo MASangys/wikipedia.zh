@@ -1,3 +1,6 @@
+> 本文内容由[VOCAROCK collection 4 feat. 初音未来](https://zh.wikipedia.org/wiki/VOCAROCK_collection_4_feat._初音未来)转换而来。
+
+
 《**VOCAROCK collection 4 feat.初音未来**》（）是指2012年11月28日由FARM RECORDS发行的使用[VOCALOID](../Page/VOCALOID.md "wikilink")制作的摇滚音乐[合辑](https://zh.wikipedia.org/wiki/合辑 "wikilink")\[1\]。
 
 ## 概要

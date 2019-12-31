@@ -1,3 +1,6 @@
+> 本文内容由[OMNY](https://zh.wikipedia.org/wiki/OMNY)转换而来。
+
+
 {{ Infobox electronic payment | logo= | name= OMNY | location= [紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink") | launched= 2019年5月31日 | currency= [美元](../Page/美元.md "wikilink") | credit_expiry= | maximum_credit= | automatic_recharge= | technology_1= [非接觸式支付](../Page/非接觸式支付.md "wikilink") | manager= [大都會運輸署](../Page/大都會運輸署.md "wikilink") | homepage=  }} **OMNY**（One Metro New York的簡寫）是一個用於[紐約市和周邊地區](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[交通網絡的](https://zh.wikipedia.org/wiki/紐約市交通 "wikilink")[非接觸式車費支付系統](../Page/非接觸式支付.md "wikilink")。OMNY最終將取代現時用於[大都會運輸署](../Page/大都會運輸署.md "wikilink")以及紐約市附近其他交通網絡的[都會卡](https://zh.wikipedia.org/wiki/都會卡 "wikilink")。完全啟用後將可用於[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")、[史泰登島鐵路](../Page/史泰登島鐵路.md "wikilink")、[MTA巴士](../Page/MTA區域巴士營運.md "wikilink")、[長島鐵路](../Page/長島鐵路.md "wikilink")及[大都會北方鐵路](../Page/大都會北方鐵路.md "wikilink")，後兩者目前並不使用都會卡。其他目前使用都會卡的系統（包括和）以及不使用都會卡的巴士系統（如）也有可能轉用OMNY。
 
 都會卡是[磁卡](https://zh.wikipedia.org/wiki/磁條 "wikilink")，1992年首先推出以支付MTA地鐵和巴士的車費，以及其他路線如[紐新航港局過哈德遜河捷運](../Page/紐新航港局過哈德遜河捷運.md "wikilink")。2006年和2010年紐約市分別進行兩次月限度的非接觸式支付試驗。不過，全面取代都會卡的規劃直至2016年才啟動。新的OMNY支付系統由總部設於[聖迭戈的](https://zh.wikipedia.org/wiki/聖迭戈 "wikilink")設計，由2019年至2023年分階段實施。

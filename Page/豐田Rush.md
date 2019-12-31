@@ -1,3 +1,6 @@
+> 本文内容由[豐田Rush](https://zh.wikipedia.org/wiki/豐田Rush)转换而来。
+
+
 **豐田Rush**是一款由[第二國產車生產的](https://zh.wikipedia.org/wiki/第二國產車 "wikilink")[运动型多用途车](../Page/运动型多用途车.md "wikilink")。
 
 “Terios”这个名字起源于[古希腊语这个词](https://zh.wikipedia.org/wiki/古希腊语 "wikilink")，大致翻译为“让梦想成真”。\[1\]

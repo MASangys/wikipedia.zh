@@ -1,3 +1,6 @@
+> 本文内容由[Redmi K20](https://zh.wikipedia.org/wiki/Redmi_K20)转换而来。
+
+
 **Redmi K20**是小米科技旗下的子品牌[Redmi](../Page/Redmi.md "wikilink")（原红米手机系列）于2019年5月28日在北京工人大学体育馆发布的智能手机系列，宣发代号为“大魔王”，包含Redmi K20、Redmi K20 Pro和Redmi K20 Pro 尊享版三款机型。这个智能手机系列也成为Redmi自小米品牌独立以后，在全球市场销售的Redmi品牌手机中售价最高、定位最高的智能手机系列。
 
 ## 简介

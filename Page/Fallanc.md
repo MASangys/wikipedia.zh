@@ -1,3 +1,6 @@
+> 本文内容由[Fallanc](https://zh.wikipedia.org/wiki/Fallanc)转换而来。
+
+
 **Fallanc**（），是[韓國RF娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年推出的四人男子樂隊，成員包括Jihoon、Gyeonggeun、Minho及Luha。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[魔法少女奈葉Detonation](https://zh.wikipedia.org/wiki/魔法少女奈葉Detonation)转换而来。
+
+
 《**魔法少女奈葉Detonation**》（ ；）是「[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")」第4部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，[日本](../Page/日本.md "wikilink")於2018年10月19日上映。
 
 ## 簡介

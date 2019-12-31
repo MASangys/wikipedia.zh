@@ -1,3 +1,6 @@
+> 本文内容由[Razer Phone](https://zh.wikipedia.org/wiki/Razer_Phone)转换而来。
+
+
 **Razer Phone**是[雷蛇公司](../Page/雷蛇公司.md "wikilink")设计和开发的[Android](../Page/Android.md "wikilink")的[智能手机](../Page/智能手机.md "wikilink")在开始发售11月15日，\[1\]该设备主要是为游戏玩家设计的，虽然评论家已经注意到它也适合日常使用。\[2\]
 
 ## 历史

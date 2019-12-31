@@ -1,3 +1,6 @@
+> 本文内容由[SPINNING TOP : BETWEEN SECURITY \& INSECURITY](https://zh.wikipedia.org/wiki/SPINNING_TOP_:_BETWEEN_SECURITY_\&_INSECURITY)转换而来。
+
+
 《**SPINNING TOP : BETWEEN SECURITY & INSECURITY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第九張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2019年5月20日發行，由JYP娛樂製作，iRiver音樂發行。共收錄六首曲目加一首純音樂，主打歌為《ECLIPSE》。
 
 ## 背景

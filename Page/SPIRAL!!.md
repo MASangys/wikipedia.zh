@@ -1,3 +1,6 @@
+> 本文内容由[SPIRAL!!](https://zh.wikipedia.org/wiki/SPIRAL!!)转换而来。
+
+
 《**SPIRAL\!\!**》是[Navel](../Page/Navel.md "wikilink")在2019年2月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的衍生作品，採用相同世界觀。
 
 ## 故事

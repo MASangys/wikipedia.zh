@@ -1,3 +1,6 @@
+> 本文内容由[CNAME记录](https://zh.wikipedia.org/wiki/CNAME记录)转换而来。
+
+
 **真实名称记录**（），即**CNAME记录**，是域名系统（[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink")）的一种记录。CNAME记录用于将一个[域名](../Page/域名.md "wikilink")（同名）映射到另一个域名（真实名称），[域名解析服务器遇到CNAME记录会以映射到的目标重新开始查询](https://zh.wikipedia.org/wiki/域名解析服务器 "wikilink")。\[1\]
 
 这对于需要在同一个IP地址上运行多个服务的情况来说非常方便。若要同时运行[文件传输服务和](../Page/文件传输协议.md "wikilink")[Web服务](../Page/Web服务.md "wikilink")，则可以把*ftp.example.com*和*www.example.com*都指向DNS记录*example.com*，而后者则有一个指向IP地址的A记录。如此一来，若服务器IP地址改变，则只需修改*example.com*的A记录即可。

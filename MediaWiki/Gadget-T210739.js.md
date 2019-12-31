@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-T210739.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-T210739.js)转换而来。
+
+
 /\*\*
 
 `* If you want to use this gadget as a user script, you need to load these modules: 'oojs-ui', 'mediawiki.api', 'mediawiki.notify'.`

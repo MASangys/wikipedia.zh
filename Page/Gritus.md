@@ -1,3 +1,6 @@
+> 本文内容由[Gritus](https://zh.wikipedia.org/wiki/Gritus)转换而来。
+
+
 **Gritus**（全名：Gritus Technology Limited） 是一家在[香港](../Page/香港.md "wikilink")成立的[初創企業](../Page/初创企业.md "wikilink")，業務主要圍繞新一代[自動販賣機](../Page/自動販賣機.md "wikilink")（又稱[智能售賣機](../Page/智能販賣機.md "wikilink")）的生產及營運，並擁有軟件開發能力。該公司亦為品牌提供上架、租機、活動宣傳推廣等服務。
 
 [GoldenLionPhase2.jpg](https://zh.wikipedia.org/wiki/File:GoldenLionPhase2.jpg "fig:GoldenLionPhase2.jpg")[金獅花園](../Page/金獅花園.md "wikilink")，圖為員工補貨情況。\]\] [IHouseBlock4.jpg](https://zh.wikipedia.org/wiki/File:IHouseBlock4.jpg "fig:IHouseBlock4.jpg")[國際生第四宿舍](https://zh.wikipedia.org/wiki/國際生第四宿舍 "wikilink")\]\] [TsoKungTam.jpg](https://zh.wikipedia.org/wiki/File:TsoKungTam.jpg "fig:TsoKungTam.jpg")\]\] [Lee_Tung_Avenue_Gritus.jpg](https://zh.wikipedia.org/wiki/File:Lee_Tung_Avenue_Gritus.jpg "fig:Lee_Tung_Avenue_Gritus.jpg")[利東街](../Page/利東街_\(商場\).md "wikilink")\]\]

@@ -1,3 +1,6 @@
+> 本文内容由[4AM電子競技俱樂部](https://zh.wikipedia.org/wiki/4AM電子競技俱樂部)转换而来。
+
+
 **4AM電子競技俱樂部**(英語：Four Angry Men 4，簡稱4AM)，是一支中國大陸的職業電子競技隊伍，成立於2017年11月，創辦人為前LOL知名選手[韋朕](https://zh.wikipedia.org/wiki/韋朕 "wikilink")。
 
 目前旗下有\<[絕地求生](../Page/絕地求生.md "wikilink")\>、\<[和平精英](../Page/和平精英.md "wikilink")\>兩個分部。\[1\]\[2\]\[3\]

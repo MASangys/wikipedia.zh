@@ -1,3 +1,6 @@
+> 本文内容由[Firefox Focus](https://zh.wikipedia.org/wiki/Firefox_Focus)转换而来。
+
+
 ****是[Mozilla](../Page/Mozilla.md "wikilink")提供的[自由及開放原始碼隱私瀏覽器](../Page/自由及开放源代码软件.md "wikilink")，可用於[Android](../Page/Android.md "wikilink")\[1\]\[2\]和[iOS智慧型手機和平板電腦](https://zh.wikipedia.org/wiki/iOS "wikilink")\[3\]\[4\]。Firefox Focus最初是一款針對行動iOS設備的追蹤器攔截應用程式，於2015年12月發佈\[5\]。不久之後，被開發成一個極簡的網頁瀏覽器\[6\]。但是，它仍然可以在Apple設備上的[Safari](../Page/Safari.md "wikilink")瀏覽器的後台單獨作為追蹤攔截器運作。
 
 2017年6月，Android平台首次版本發佈，並於第一個月內已被下載逾100萬次\[7\]。有27種語言版本\[8\]。自2018年7月起，Firefox Focus作為應用程序鎖的一部分預先安裝在BlackBerry Key2上\[9\]\[10\]。

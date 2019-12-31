@@ -1,3 +1,6 @@
+> 本文内容由[模块:Autovirusbox](https://zh.wikipedia.org/wiki/模块:Autovirusbox)转换而来。
+
+
 require('Module:No globals') local ItalicTitle = require('Module:Italic title') local p = {} -- functions made public local l = {} -- internal functions, kept separate
 
 \-- ============================================================================= -- main implements Template:Virusbox; see the documentation of that template -- for details. -- =============================================================================

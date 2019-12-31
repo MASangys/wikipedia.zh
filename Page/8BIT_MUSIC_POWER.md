@@ -1,3 +1,6 @@
+> 本文内容由[8BIT MUSIC POWER](https://zh.wikipedia.org/wiki/8BIT_MUSIC_POWER)转换而来。
+
+
 《**8BIT MUSIC POWER**（8比特音乐力量）》是[2016年](../Page/2016年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")发售的[FC](../Page/红白机.md "wikilink")的名称。因为原发售商未取得[任天堂](../Page/任天堂.md "wikilink")的发售许可证，所以包装之类的上面只写有“FC/FC兼容机用”，而没有直接把“FC软件（FCソフト）”的名称写出来。
 
 ## 概要

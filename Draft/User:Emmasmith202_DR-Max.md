@@ -1,3 +1,6 @@
+> 本文内容由[Draft:User:Emmasmith202/DR-Max](https://zh.wikipedia.org/wiki/Draft:User:Emmasmith202/DR-Max)转换而来。
+
+
 **DR-Max**
 
 ## 簡介

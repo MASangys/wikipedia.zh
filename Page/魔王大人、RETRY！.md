@@ -1,3 +1,6 @@
+> 本文内容由[魔王大人、RETRY！](https://zh.wikipedia.org/wiki/魔王大人、RETRY！)转换而来。
+
+
 是神埼黑音寫作的日本[輕小說](../Page/輕小說.md "wikilink")。文庫版（Monster文庫版）由[緒方剛志](../Page/緒方剛志.md "wikilink")、新裝版（M Novels版）由飯野誠插畫。2016年10月10日在小說投稿網站「[成為小說家吧](../Page/成為小說家吧.md "wikilink")」開始連載。
 
 2018年10月累計發售20萬冊以上\[1\]。2017年10月20日在雙葉社出版的雜誌《WEB Comic Action》連載[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，作畫。2019年7月3日開始在[TOKYO MX播放電視動畫](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")\[2\]。

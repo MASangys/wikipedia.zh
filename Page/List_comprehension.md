@@ -1,3 +1,6 @@
+> 本文内容由[List comprehension](https://zh.wikipedia.org/wiki/List_comprehension)转换而来。
+
+
 **list comprehension**是程序设计语言的一类语法结构，用于基于描述创建一个列表（list）数据结构。相当于数学上的 *[集合建構式符號](../Page/集合建構式符號.md "wikilink")*。但不同于与函数。
 
 list comprehension没有统一的中文译法。有译作列表生成、列表构建、列表理解等。

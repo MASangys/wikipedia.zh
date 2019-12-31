@@ -1,3 +1,6 @@
+> 本文内容由[Void Linux](https://zh.wikipedia.org/wiki/Void_Linux)转换而来。
+
+
 **Void Linux**\[1\]是一个独立的[Linux发行版](../Page/Linux发行版.md "wikilink")（即[操作系统](../Page/操作系统.md "wikilink")），以自有的作为[软件包管理器](https://zh.wikipedia.org/wiki/软件包管理器 "wikilink")，并以[Runit](../Page/Runit.md "wikilink")作为[init系统](../Page/Init.md "wikilink")。除了Linux内核中的[binary blob之外](https://zh.wikipedia.org/wiki/binary_blob "wikilink")，其基本安装仅由[自由软件](../Page/自由软件.md "wikilink")组成，但也提供了官方的非自由软件仓库以便利[专有软件](../Page/专有软件.md "wikilink")的安装。\[2\]\[3\]
 
 ## 历史

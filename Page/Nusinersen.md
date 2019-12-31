@@ -1,3 +1,6 @@
+> 本文内容由[Nusinersen](https://zh.wikipedia.org/wiki/Nusinersen)转换而来。
+
+
 **Nusinersen**\[1\]（商品名為**Spinraza**）\[2\]是第一個用於治療[脊髓性肌肉萎縮症](../Page/脊髓性肌肉萎縮症.md "wikilink")的藥物\[3\]。脊髓性肌肉萎縮症是一種罕見的[神經退化性疾病](https://zh.wikipedia.org/wiki/神經退化性疾病 "wikilink")，其病因是自雙親[遺傳](../Page/遺傳.md "wikilink")了功能低落或沒有功能的SMN基因，因此無法生產足夠的SMN蛋白，患者的會逐漸死亡，運動功能也會逐漸惡化，最嚴重者可能全身癱瘓而不能自主呼吸\[4\]。Nusinersen是一種[反義寡核苷酸藥物](https://zh.wikipedia.org/wiki/反義寡核苷酸 "wikilink")，能夠藉著穩定SMN的[信使核糖核酸](../Page/信使核糖核酸.md "wikilink")來提升SMN蛋白的生產量\[5\]。它能降低患者的死亡率以及因疾病失去呼吸功能的風險，並能改善患者的運動功能。2016年12月nusinersen在[美國通過](https://zh.wikipedia.org/wiki/美國 "wikilink")後取得，稍後在[歐洲聯盟](https://zh.wikipedia.org/wiki/歐洲聯盟 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[日本](../Page/日本.md "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")、[紐西蘭等國也被核准為](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[處方藥](../Page/處方藥.md "wikilink")。Nusinersen在美國與歐盟都被視為[孤兒藥](https://zh.wikipedia.org/wiki/孤兒藥 "wikilink")\[6\]。Nusinersen 因為其高昂的價格受到一些批評\[7\]。基於成本考量，歐洲有部分國家雖然已經核准其上市，但目前並沒有將其列為脊髓性肌肉萎縮症的常規治療方法\[8\]\[9\]\[10\]。
 
 ## 適應症

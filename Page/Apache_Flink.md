@@ -1,3 +1,6 @@
+> 本文内容由[Apache Flink](https://zh.wikipedia.org/wiki/Apache_Flink)转换而来。
+
+
 **Apache Flink**是由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")开发的[开源流处理](https://zh.wikipedia.org/wiki/开源 "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")，其核心是用[Java](../Page/Java.md "wikilink")和[Scala](../Page/Scala.md "wikilink")编写的分布式流数据流引擎。\[1\]\[2\]Flink以[数据并行和](https://zh.wikipedia.org/wiki/数据并行 "wikilink")[流水线方式执行任意流数据程序](../Page/流水线_\(计算机\).md "wikilink")\[3\]，Flink的流水线运行时系统可以执行[批处理和流处理程序](https://zh.wikipedia.org/wiki/批处理任务 "wikilink")。\[4\]\[5\]此外，Flink的运行时本身也支持[迭代算法的执行](https://zh.wikipedia.org/wiki/迭代法 "wikilink")。\[6\]
 
 Flink提供高吞吐量、低延迟的流数据引擎\[7\]以及对事件-时间处理和状态管理的支持。Flink应用程序在发生机器故障时具有容错能力，并且支持exactly-once语义。\[8\]程序可以用Java、Scala\[9\]、[Python](../Page/Python.md "wikilink")\[10\]和[SQL](../Page/SQL.md "wikilink")\[11\]等语言编写，并自动编译和优化\[12\]到在集群或云环境中运行的数据流程序。\[13\]

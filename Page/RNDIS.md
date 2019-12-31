@@ -1,3 +1,6 @@
+> 本文内容由[RNDIS](https://zh.wikipedia.org/wiki/RNDIS)转换而来。
+
+
 RNDIS（，远程网络驱动接口规范）是一个通信协议。它是[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，被大多数[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[Unix系统所支持](https://zh.wikipedia.org/wiki/Unix "wikilink")。它主要使用[USB](../Page/USB.md "wikilink")协议作为其下层传输，它向上层提供虚拟的[以太网](../Page/以太网.md "wikilink")连接。
 
 ## 概况

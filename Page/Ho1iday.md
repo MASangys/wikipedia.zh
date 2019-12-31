@@ -1,3 +1,6 @@
+> 本文内容由[Ho1iday](https://zh.wikipedia.org/wiki/Ho1iday)转换而来。
+
+
 **Ho1iday**（），是[韓國Brickworks](https://zh.wikipedia.org/wiki/韓國 "wikilink") Company於2019年推出的五人女子組合，成員包括Saebyeok、Cheongeum、Heejoo、Haru及Dany\[1\]。
 
 [190426_봄비와_함께_온_미녀들_홀리데이(ho1iday),_KBS_'뮤직뱅크(MUSICBANK)'_출근길.webm](https://zh.wikipedia.org/wiki/File:190426_봄비와_함께_온_미녀들_홀리데이\(ho1iday\),_KBS_'뮤직뱅크\(MUSICBANK\)'_출근길.webm "fig:190426_봄비와_함께_온_미녀들_홀리데이(ho1iday),_KBS_'뮤직뱅크(MUSICBANK)'_출근길.webm")

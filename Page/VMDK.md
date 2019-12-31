@@ -1,3 +1,6 @@
+> 本文内容由[VMDK](https://zh.wikipedia.org/wiki/VMDK)转换而来。
+
+
 VMDK是一种文件格式，它描述了虚拟磁盘在VMware Workstation 和 VirtualBox等虚拟机中使用的容器。
 
 该格式最初是由 VMware 为其虚拟设备产品开发的，在VMDK 5.0版发布之后成为一种开放格式，是[开放虚拟机格式文件](../Page/开放虚拟机格式文件.md "wikilink")中用于虚拟设备的磁盘格式之一。\[1\]

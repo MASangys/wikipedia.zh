@@ -1,3 +1,6 @@
+> 本文内容由[GRPC](https://zh.wikipedia.org/wiki/GRPC)转换而来。
+
+
 **gRPC** (**gRPC** **Remote Procedure Calls**\[1\]) 是Google发起的一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[远程过程调用](../Page/遠程過程調用.md "wikilink") (Remote procedure call) 系统。该系统基于 [HTTP/2](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink") 协议传输，使用[Protocol Buffers](../Page/Protocol_Buffers.md "wikilink") 作为[接口描述语言](../Page/接口描述语言.md "wikilink")。\[2\]
 
 其他功能：\[3\]

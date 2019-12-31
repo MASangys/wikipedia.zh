@@ -1,3 +1,6 @@
+> 本文内容由[SQL Server Compact](https://zh.wikipedia.org/wiki/SQL_Server_Compact)转换而来。
+
+
 **Microsoft SQL Server Compact** (**SQL CE**)是微软公司的运行于移动或桌面平台的紧凑型[关系数据库](../Page/关系数据库.md "wikilink")。在引入到桌面平台前，早期称作*SQL Server for Windows CE*与*SQL Server Mobile Edition*。
 
 包括32位与64位版。\[1\] SQL CE targets occasionally connected applications and applications with an embedded database.\[2\]免费下载与使用。\[3\] 没有[ODBC驱动支持](https://zh.wikipedia.org/wiki/Open_Database_Connectivity "wikilink")。只能使用[OLE DB编程API接口](../Page/OLE_DB.md "wikilink")。

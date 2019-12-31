@@ -1,3 +1,6 @@
+> 本文内容由[弩級戰隊HXEROS](https://zh.wikipedia.org/wiki/弩級戰隊HXEROS)转换而来。
+
+
 是北田竜馬（）的漫畫作品，於[集英社](../Page/集英社.md "wikilink")漫畫月刊《[JUMP SQUARE](https://zh.wikipedia.org/wiki/JUMP_SQUARE "wikilink")》2017年6月號開始連載\[1\]，臺灣由[東立出版社](../Page/東立出版社.md "wikilink")代理發售。漫畫累計發售達90萬本以上\[2\]，2019年10月宣布製成電視動畫。\[3\]
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[Primary](https://zh.wikipedia.org/wiki/Primary)转换而来。
+
+
 《**Primary**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[顏卓靈](../Page/顏卓靈.md "wikilink")的首張音樂專輯，於2018年7月28日推出。《沒有人是孤島》為電影《[大樂師·為愛配樂](https://zh.wikipedia.org/wiki/大樂師·為愛配樂 "wikilink")》主題曲（廣東話版），於《新城勁爆流行榜》奪得兩週冠軍。
 
 ## 曲目列表

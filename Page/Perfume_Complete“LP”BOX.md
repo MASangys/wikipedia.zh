@@ -1,3 +1,6 @@
+> 本文内容由[Perfume Complete“LP”BOX](https://zh.wikipedia.org/wiki/Perfume_Complete“LP”BOX)转换而来。
+
+
 《**Perfume Complete“LP”BOX**》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第一張黑胶](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")[專輯BOX](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2016年2月17日發行\[1\]。
 
 ## 概要

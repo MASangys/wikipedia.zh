@@ -1,3 +1,6 @@
+> 本文内容由[VIP \(韓國電視劇\)](https://zh.wikipedia.org/wiki/VIP_\(韓國電視劇\))转换而来。
+
+
 《**VIP**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年10月28日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[皇后的品格](../Page/皇后的品格.md "wikilink")》的李正林導演與車海元作家合作打造。此劇講述在百貨店裏工作的人，各自竭力地隱藏自己的秘密，但最終被發現後卻諷刺地互相認同和安慰的故事。\[1\]\[2\]\[3\]
 
 台灣由[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")10/29起每週二三獨家播出。

@@ -1,3 +1,6 @@
+> 本文内容由[FLWM](https://zh.wikipedia.org/wiki/FLWM)转换而来。
+
+
 [FLWM_1.02.ogv](https://zh.wikipedia.org/wiki/File:FLWM_1.02.ogv "fig:FLWM_1.02.ogv")7 [Linux](../Page/Linux.md "wikilink")上运行\]\]
 
 **FLWM**窗口管理器（Fast Light Window Manager）是，它是用[C++](../Page/C++.md "wikilink")语言写成并按照[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下发行。FLWM是[Tiny Core Linux的缺省窗口管理器](../Page/Tiny_Core_Linux.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[愛情是Beautiful，人生是Wonderful](https://zh.wikipedia.org/wiki/愛情是Beautiful，人生是Wonderful)转换而来。
+
+
 《**愛情是Beautiful，人生是Wonderful**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2019年9月28日起播出的[週末連續劇](../Page/KBS週末連續劇.md "wikilink")，由《[富翁的誕生](../Page/富翁的誕生.md "wikilink")》的韓俊瑞導演與《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》的[裴由美](../Page/裴由美.md "wikilink")作家合作打造。此劇講述一些費盡心機卻未能實現夢想的普通人，再次愛上崎嶇不平的人生，尋找瑣碎但切實的「小確幸」幸福感的故事。\[1\]\[2\]
 
 [愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")9/29起每週日一首播。

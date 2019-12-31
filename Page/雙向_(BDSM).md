@@ -1,3 +1,6 @@
+> 本文内容由[雙向 \(BDSM\)](https://zh.wikipedia.org/wiki/雙向_\(BDSM\))转换而来。
+
+
 **雙向 (BDSM)**（英語：**Switch (BDSM)**），是在[BDSM](../Page/BDSM.md "wikilink")，有時為主導方，有時為順從方的腳色。合作夥伴可以根據心情轉換角色，或者允許每個夥伴體驗他們最佳的活動。例如，兩個夥伴可能有相同的[支配與順從傾向](https://zh.wikipedia.org/wiki/支配與順從 "wikilink")，所有進行轉換來體驗自己喜歡的傾向。\[1\]’
 
 ## 参考资料

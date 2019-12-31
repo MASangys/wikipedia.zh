@@ -1,3 +1,6 @@
+> 本文内容由[W0LF四堅情](https://zh.wikipedia.org/wiki/W0LF四堅情)转换而来。
+
+
 **W0LF四堅情**為[台灣期間限定四人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2019年成軍，成員包括[陳零九](../Page/陳零九.md "wikilink")、[邱鋒澤](../Page/邱鋒澤.md "wikilink")、[黃偉晉和](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")[小賴](https://zh.wikipedia.org/wiki/小賴 "wikilink")。其英文團名「**W0LF**」分別代表**W**ayne（偉晉）、**0**9（零九）、**L**ai（小賴）、**F**engze（鋒澤）四位成員\[1\]，為了發行《兵變》這首歌而組成的，所以為期間限定團體。
 
 ## 組團經過

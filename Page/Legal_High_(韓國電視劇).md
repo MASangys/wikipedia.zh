@@ -1,3 +1,6 @@
+> 本文内容由[Legal High \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Legal_High_\(韓國電視劇\))转换而来。
+
+
 《**Legal High**》，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2019年2月8日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Mrs. Cop 2](../Page/Mrs._Cop_2.md "wikilink")》的金政賢、金尚浩導演與《[重案組](../Page/重案組_\(韓國電視劇\).md "wikilink")》的朴成鎮作家合作打造。此劇改編自日劇《[Legal High](../Page/Legal_High.md "wikilink")》，講述勝訴率100%的律師高泰林和擁有100%正義感的律師徐在仁，以截然不同的性格挑戰殺氣騰騰又充滿笑料的法律故事。\[1\]\[2\]\[3\]\[4\] 香港地區由[Viu](../Page/Viu.md "wikilink")播出。台灣地區由[KKTV](../Page/KKTV.md "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、[friDay影音每周六日中午](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")12點上架播出。
 
 ## 演員陣容

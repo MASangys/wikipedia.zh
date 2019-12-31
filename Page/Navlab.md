@@ -1,3 +1,6 @@
+> 本文内容由[Navlab](https://zh.wikipedia.org/wiki/Navlab)转换而来。
+
+
 **Navlab**是一个[自动和半自动的](../Page/自主權.md "wikilink")[机动车系列](https://zh.wikipedia.org/wiki/機動車輛 "wikilink")，由[美国](../Page/美国.md "wikilink")[卡内基·梅隆大学](../Page/卡内基·梅隆大学.md "wikilink")下属的研究团队开发，后有一个专门为其设立的新机构接手，即卡内基·梅隆大学导航实验室（）。\[1\]其中，这个团队用[无人驾驶汽车Navlab](https://zh.wikipedia.org/wiki/无人驾驶汽车 "wikilink") 5从[匹兹堡](../Page/匹兹堡.md "wikilink")一路开到[圣地亚哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")，这次旅行被称为“不用手穿越美国”（）。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[V Touch 感動](https://zh.wikipedia.org/wiki/V_Touch_感動)转换而来。
+
+
 《**V Touch 感動**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎瑞恩](../Page/黎瑞恩.md "wikilink")的第十四張大碟，第十二張粵語大碟，也是她第二張翻唱大碟，於2018年8月3日推出。專輯特別收錄了2首全新作品及上一張翻唱大碟《[感恩](../Page/感恩_\(黎瑞恩專輯\).md "wikilink")》所有歌曲的伴奏版。
 
 ## 曲目列表

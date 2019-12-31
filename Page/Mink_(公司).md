@@ -1,3 +1,6 @@
+> 本文内容由[Mink \(公司\)](https://zh.wikipedia.org/wiki/Mink_\(公司\))转换而来。
+
+
 **Mink**（）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，位在[東京都](../Page/東京都.md "wikilink")於1993年成立，2018年宣布停業。其代表作為[夜勤病棟系列](../Page/夜勤病棟系列.md "wikilink")。\[1\]\[2\]\[3\]
 
 ## 作品列表

@@ -1,3 +1,6 @@
+> 本文内容由[台中Futuro](https://zh.wikipedia.org/wiki/台中Futuro)转换而来。
+
+
 {{ Infobox football club | clubname = 台中FUTURO | image = | fullname = | nickname = | shortname = | founded = 2016年 | dissolved = | city = [台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink") | ground = | capacity = | chrtitle = 總領隊 | chairman = 小森由貴 | manager = 莊明諺 | league = [台灣企業甲級足球聯賽](../Page/台灣企業甲級足球聯賽.md "wikilink") | season = [2019](https://zh.wikipedia.org/wiki/2019年台灣企業甲級足球聯賽 "wikilink") | position = 第五名 | shirtsupplier = | website = <https://www.facebook.com/FUTURO.TAIWAN/> | pattern_la1 = | pattern_b1 = _whitehorizontal | pattern_ra1 = | pattern_sh1 = | pattern_so1 = | leftarm1 = 002FA7 | body1 = 002FA7 | rightarm1 = 002FA7 | shorts1 = 002FA7 | socks1 = 002FA7 | pattern_la2 = | pattern_b2 = _whitehorizontal | pattern_ra2 = | pattern_sh2 = | pattern_so2 = | leftarm2 = FFEF00 | body2 = FFEF00 | rightarm2 = FFEF00 | shorts2 = FFEF00 | socks2 = FFEF00 | current = 2019年台灣企業甲級足球聯賽 }}
 
 **台中FUTURO**是一支台灣業餘足球隊，2016年由日本籍前職業足球員小森由貴從台中基層足球起步。2018年設立了成人隊，並成功從[台灣企業甲級足球聯賽](../Page/台灣企業甲級足球聯賽.md "wikilink")資格賽中脫穎而出，得以參加[2019年台灣企業甲級足球聯賽](https://zh.wikipedia.org/wiki/2019年台灣企業甲級足球聯賽 "wikilink")。

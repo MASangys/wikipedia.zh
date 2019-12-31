@@ -1,3 +1,6 @@
+> 本文内容由[Draft:MST](https://zh.wikipedia.org/wiki/Draft:MST)转换而来。
+
+
 **MST** 可以指:
 
 ## 科學與科技

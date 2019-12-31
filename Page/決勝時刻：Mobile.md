@@ -1,3 +1,6 @@
+> 本文内容由[決勝時刻：Mobile](https://zh.wikipedia.org/wiki/決勝時刻：Mobile)转换而来。
+
+
 是一款由[天美工作室群](../Page/天美工作室群.md "wikilink")開發，[動視發行於](https://zh.wikipedia.org/wiki/動視 "wikilink")[Android](../Page/Android.md "wikilink")和[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[免費](https://zh.wikipedia.org/wiki/網絡遊戲免費模式 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，對應[Android](../Page/Android.md "wikilink")和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[1\]\[2\]
 
 ## 參考資料

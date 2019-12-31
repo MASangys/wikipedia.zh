@@ -1,3 +1,6 @@
+> 本文内容由[FlyingCat](https://zh.wikipedia.org/wiki/FlyingCat)转换而来。
+
+
 [20090225-TurboJET_Universal_MK_1.jpg](https://zh.wikipedia.org/wiki/File:20090225-TurboJET_Universal_MK_1.jpg "fig:20090225-TurboJET_Universal_MK_1.jpg") [MS_Kommandøren_Fjord1_Fylkesbaatane_(091901).jpg](https://zh.wikipedia.org/wiki/File:MS_Kommandøren_Fjord1_Fylkesbaatane_\(091901\).jpg "fig:MS_Kommandøren_Fjord1_Fylkesbaatane_(091901).jpg") **FlyingCat**系列（雙體噴射船）是一款由[挪威](../Page/挪威.md "wikilink")[斐聲船廠](https://zh.wikipedia.org/wiki/斐聲船廠 "wikilink")（Kværner Fjellstrand a.s.）開發的高速[雙體船](../Page/雙體船.md "wikilink")，全球共有26艘，斐聲及其新加坡分廠建造了24艘，而承繼斐聲新加坡分廠的達門造船（Damen Shipyards）以「DFF4010」型號建造2艘。
 
 ## 概要

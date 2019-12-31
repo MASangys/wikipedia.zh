@@ -1,3 +1,6 @@
+> 本文内容由[Android Things](https://zh.wikipedia.org/wiki/Android_Things)转换而来。
+
+
 **Android Things** （代号为**Brillo** ）是Google在2015年[I / O上宣布的基于](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")[Android](../Page/Android.md "wikilink")的[嵌入式操作系统平台](https://zh.wikipedia.org/wiki/嵌入式操作系统 "wikilink")。 它旨在運行於由不同的[MCU平台构建的低功耗和小內存的](../Page/单片机.md "wikilink")[物联网](../Page/物联网.md "wikilink") （IoT）设备。 \[1\] \[2\] 作为[IoT操作系统](../Page/物联网.md "wikilink")，它设计为在僅有32–64 MB內存的設備上運行。 \[3\] 它也支持[低功耗蓝牙和](../Page/蓝牙低功耗.md "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink") ， \[4\] 並引入了协议，運行**Android Things**的设备可以使用协议与其他兼容該協議的设备进行通信。 \[5\]
 
 ## 参考文献

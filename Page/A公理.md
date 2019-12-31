@@ -1,3 +1,6 @@
+> 本文内容由[A公理](https://zh.wikipedia.org/wiki/A公理)转换而来。
+
+
 在数学中，**斯梅尔A公理**（Smale's axiom A）确定了一类相对容易理解的[动力系统](../Page/动力系统.md "wikilink")。一个著名的例子是[斯梅尔马蹄铁映射](../Page/马蹄映射.md "wikilink")。术语“A公理”是[斯蒂芬·斯梅尔起的](../Page/斯蒂芬·斯梅爾.md "wikilink")。
 
 ## 定义

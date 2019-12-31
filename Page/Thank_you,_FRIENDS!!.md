@@ -1,3 +1,6 @@
+> 本文内容由[Thank you, FRIENDS!!](https://zh.wikipedia.org/wiki/Thank_you,_FRIENDS!!)转换而来。
+
+
 **《Thank you, FRIENDS\!\!》**是[Aqours](../Page/Aqours.md "wikilink")的单曲。2018年8月1日由[Lantis](../Page/Lantis.md "wikilink")发售。
 
 ## 简介

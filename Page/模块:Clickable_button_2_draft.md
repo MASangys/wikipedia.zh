@@ -1,3 +1,6 @@
+> 本文内容由[模块:Clickable button 2 draft](https://zh.wikipedia.org/wiki/模块:Clickable_button_2_draft)转换而来。
+
+
 \-- This module implements .
 
 local yesno = require('Module:Yesno')

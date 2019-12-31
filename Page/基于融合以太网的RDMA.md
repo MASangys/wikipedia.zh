@@ -1,3 +1,6 @@
+> 本文内容由[基于融合以太网的RDMA](https://zh.wikipedia.org/wiki/基于融合以太网的RDMA)转换而来。
+
+
 **基于融合以太网的RDMA**（，缩写**RoCE**）是一个网络协议，允许在一个[以太网](../Page/以太网.md "wikilink")网络上使用[远程直接内存访问](../Page/远程直接内存访问.md "wikilink")（RDMA）。RoCE有RoCE v1和RoCE v2两个版本。RoCE v1是一个以太网协议，因此允许同一个以太网[广播域中的任意两台主机间进行通信](https://zh.wikipedia.org/wiki/广播域 "wikilink")。RoCE v2是一个[网络层](../Page/网络层.md "wikilink")协议，因而RoCE v2数据包可以被路由。虽然RoCE协议受益于的特征，但该协议也可用于传统或非融合的以太网网络。\[1\]\[2\]\[3\]\[4\]
 
 ## 背景

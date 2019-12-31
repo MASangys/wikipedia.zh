@@ -1,3 +1,6 @@
+> 本文内容由[模块:Redirect-distinguish](https://zh.wikipedia.org/wiki/模块:Redirect-distinguish)转换而来。
+
+
 local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments --initialize lazily local mTableTools = require('Module:TableTools') local p = {}
 
 function p.redirectDistinguish (frame)

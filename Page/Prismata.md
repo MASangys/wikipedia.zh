@@ -1,3 +1,6 @@
+> 本文内容由[Prismata](https://zh.wikipedia.org/wiki/Prismata)转换而来。
+
+
 **Prismata**是一个混合[策略游戏](https://zh.wikipedia.org/wiki/策略游戏 "wikilink")，于2018年3月8日在[Steam](../Page/Steam.md "wikilink")平台发布了抢先体验版，接下来在[Kickstarter](../Page/Kickstarter.md "wikilink")平台上成功众筹\[1\]，并在2018年9月免费（含付费内容）。\[2\]其结合了[即时战略游戏](../Page/即时战略游戏.md "wikilink")、[回合制策略游戏](../Page/回合制策略游戏.md "wikilink")、[卡牌游戏多种玩法](https://zh.wikipedia.org/wiki/卡牌游戏 "wikilink")。\[3\]
 
 ## 双人游戏

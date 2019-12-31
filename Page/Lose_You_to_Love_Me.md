@@ -1,3 +1,6 @@
+> 本文内容由[Lose You to Love Me](https://zh.wikipedia.org/wiki/Lose_You_to_Love_Me)转换而来。
+
+
 《**Lose You to Love Me**》是美国歌手[赛琳娜·戈麦斯](../Page/赛琳娜·戈麦斯.md "wikilink")的一首歌曲，于2019年10月23日由[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")发行，收录于她的第三张录音室专辑《》。\[1\]\[2\]歌曲由戈麦斯、[茱莉亞·麥可斯](../Page/茱莉亞·麥可斯.md "wikilink")与创作，其制作则由协同共同完成。歌曲在美国[《告示牌》百强单曲榜取得了冠军](../Page/告示牌百强单曲榜.md "wikilink")。
 
 ## 创作背景

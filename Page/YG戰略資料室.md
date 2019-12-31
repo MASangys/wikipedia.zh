@@ -1,3 +1,6 @@
+> 本文内容由[YG戰略資料室](https://zh.wikipedia.org/wiki/YG戰略資料室)转换而来。
+
+
 《**YG戰略資料室**》（；）為[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")製作的[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")，由《音樂之神》朴俊秀導演與《[SNL Korea](../Page/SNL_Korea.md "wikilink")》金敏席作家合作拍攝，[YG娛樂](../Page/YG娛樂.md "wikilink")旗下藝人[勝利](../Page/勝利_\(歌手\).md "wikilink")（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")）、[柳炳宰](../Page/柳炳宰.md "wikilink")、[李宰鎮](../Page/李宰鎮.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）等人主演，於2018年10月5日在[Netflix](../Page/Netflix.md "wikilink")全球上線。此劇講述一夜之間被降職到最冷門部門——YG戰略資料本部的[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[勝利](../Page/勝利_\(歌手\).md "wikilink")，為了挽救陷入危機的[YG娛樂](../Page/YG娛樂.md "wikilink")，重新回到會長懷抱而孤軍奮戰的故事\[1\]。
 
 ## 演員陣容

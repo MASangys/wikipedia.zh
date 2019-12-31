@@ -1,3 +1,6 @@
+> 本文内容由[FCA](https://zh.wikipedia.org/wiki/FCA)转换而来。
+
+
 **FCA**可以指：
 
 ## 藝術

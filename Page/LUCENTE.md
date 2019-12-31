@@ -1,3 +1,6 @@
+> 本文内容由[LUCENTE](https://zh.wikipedia.org/wiki/LUCENTE)转换而来。
+
+
 **LUCENTE**（），是[韓國Noga](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment於2018年首次推出的韓國男子組合，由 U. Seong，Hero，Bao，Z. Hoo，Kogun，Parkha，Taejun七位成員所組成。
 
 LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀發光』\[1\]，粉絲名稱為LU. B (RU. B， 韓語：루비 意為紅寶石)。

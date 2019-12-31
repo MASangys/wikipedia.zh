@@ -1,3 +1,6 @@
+> 本文内容由[Canvas4](https://zh.wikipedia.org/wiki/Canvas4)转换而来。
+
+
 是[F\&C FC01在](../Page/F&C.md "wikilink")2011年1月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，後來由[GN Software於](../Page/GN_Software.md "wikilink")2011年11月23日發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《永恆練習曲 藏愛油畫4》（，Eternal Etude Canvas4）。\[3\]
 
 ## 故事

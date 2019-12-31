@@ -1,3 +1,6 @@
+> 本文内容由[Samsung Galaxy Camera 2](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Camera_2)转换而来。
+
+
 **三星Galaxy Camera 2**是一款[傻瓜相機](https://zh.wikipedia.org/wiki/傻瓜相機 "wikilink")，是一款基於[Android](../Page/Android.md "wikilink")的[移動設備](https://zh.wikipedia.org/wiki/移動設備 "wikilink")。 Galaxy Camera 2於2014年在內華達州拉斯維加斯舉行的消費者電子展上宣布，採用[Android Jelly Bean操作系統](../Page/Android_Jelly_Bean.md "wikilink")，1.6 GHz四核[Exynos](https://zh.wikipedia.org/wiki/Exynos "wikilink") 4412處理器和2GB [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink")\[1\]。 Galaxy Camera 2是三星Galaxy相機的繼承者。\[2\]\[3\]\[4\]
 
 ## 較前代產品的變化

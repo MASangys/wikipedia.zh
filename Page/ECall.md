@@ -1,3 +1,6 @@
+> 本文内容由[ECall](https://zh.wikipedia.org/wiki/ECall)转换而来。
+
+
 **eCall**是一项[欧洲](../Page/欧洲.md "wikilink")倡议，旨在为[欧盟内任何地方发生碰撞的](../Page/欧洲联盟.md "wikilink")[驾车者提供快速援助](https://zh.wikipedia.org/wiki/驾驶员 "wikilink")。2018年4月起，欧盟境内销售的所有新车强制配备eCall。\[1\]
 
 ## 历史

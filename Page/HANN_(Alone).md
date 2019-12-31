@@ -1,3 +1,6 @@
+> 本文内容由[HANN \(Alone\)](https://zh.wikipedia.org/wiki/HANN_\(Alone\))转换而来。
+
+
 《**HANN (Alone)**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink") 首張數位單曲，於2018年8月14日推出。
 
 ## 簡介

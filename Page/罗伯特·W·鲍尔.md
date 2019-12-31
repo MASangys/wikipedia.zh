@@ -1,3 +1,6 @@
+> 本文内容由[罗伯特·W·鲍尔](https://zh.wikipedia.org/wiki/罗伯特·W·鲍尔)转换而来。
+
+
 **罗伯特·W·鲍尔**（，）是[美国](../Page/美国.md "wikilink")[应用物理学](../Page/应用物理学.md "wikilink")家，[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖莫尼卡人](https://zh.wikipedia.org/wiki/聖莫尼卡 "wikilink")，畢業於[加州大学伯克利分校](https://zh.wikipedia.org/wiki/加州大学伯克利分校 "wikilink")，先後在[加利福尼亚理工学院獲得碩士及博士學位](https://zh.wikipedia.org/wiki/加利福尼亚理工学院 "wikilink")\[1\]。1997年入選，1999年當選[美国国家工程院](../Page/美国国家工程院.md "wikilink")院士。
 
 ## 参考文献

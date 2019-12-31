@@ -1,3 +1,6 @@
+> 本文内容由[Vert.x](https://zh.wikipedia.org/wiki/Vert.x)转换而来。
+
+
 **Eclipse Vert.x** 是一个[事件驱动的](../Page/事件驅動程式設計.md "wikilink")[应用程序框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，其支持多种编程语言，并运行于Java虚拟机中。<ref>
 
 <div>

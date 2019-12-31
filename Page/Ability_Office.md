@@ -1,3 +1,6 @@
+> 本文内容由[Ability Office](https://zh.wikipedia.org/wiki/Ability_Office)转换而来。
+
+
 **Ability Office** 是由能力+软件公司开发，由能力软件国际公司发布和销售的办公套件，由文字处理器、电子表格、数据库、演示和照片或图像编辑模块以及照片/图像组织者和矢量线绘制应用程序组成。当前版本(V6)提供了与Microsoft Office的兼容级别，允许用户创建、加载和保存到Microsoft Office 2010(\*.docx等)和早期(\*.doc等)文件格式。同样，照片和图像编辑应用程序将创建、加载Adobe Photoshop(\*.psd)文件格式，并将它们与其他主流图形文件类型一起保存到Adobe Photoshop(\*.psd)文件格式中。
 
 不仅可以从该Ability网站下载版本6，还可以下载旧版本。最新的版本是第7版

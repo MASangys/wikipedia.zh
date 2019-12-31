@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Hokidana](https://zh.wikipedia.org/wiki/Draft:Hokidana)转换而来。
+
+
 **此处改为条目主题**是一个 Hokidana
 
 <https://hokidana.asia>

@@ -1,3 +1,6 @@
+> 本文内容由[TALK X TODAY](https://zh.wikipedia.org/wiki/TALK_X_TODAY)转换而来。
+
+
 《**TALK X TODAY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER的第一個](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。\[1\]是由TOMORROW X TOGETHER親自掌鏡拍攝出道前的日常紀錄節目，並由團員親自打上字幕。\[2\]
 
 ## 節目簡介

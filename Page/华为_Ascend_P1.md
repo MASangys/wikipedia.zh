@@ -1,3 +1,6 @@
+> 本文内容由[华为 Ascend P1](https://zh.wikipedia.org/wiki/华为_Ascend_P1)转换而来。
+
+
 **华为Ascend P1**，是[华为](../Page/华为.md "wikilink")首款智能双核安卓系统手机产品之一。在2012年1月的[国际电子消费展上发布](https://zh.wikipedia.org/wiki/国际电子消费展 "wikilink")。
 
 ## 概述

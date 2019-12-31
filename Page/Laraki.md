@@ -1,3 +1,6 @@
+> 本文内容由[Laraki](https://zh.wikipedia.org/wiki/Laraki)转换而来。
+
+
 **Laraki**是[非洲](../Page/非洲.md "wikilink")的一[超級跑車](../Page/超級跑車.md "wikilink")品牌，總部在[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")[卡薩布蘭卡](https://zh.wikipedia.org/wiki/卡薩布蘭卡 "wikilink")，成立於1999年，爲[Abdesslam Laraki所創建](https://zh.wikipedia.org/wiki/Abdesslam_Laraki "wikilink")。
 
 ## 歷史

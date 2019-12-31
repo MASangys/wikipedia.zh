@@ -1,3 +1,6 @@
+> 本文内容由[Schempp-Hirth飞机制造公司](https://zh.wikipedia.org/wiki/Schempp-Hirth飞机制造公司)转换而来。
+
+
 **Schempp-Hirth飞机制造有限责任公司**是一家德国的[滑翔机制造商](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")。
 
 ## 历史

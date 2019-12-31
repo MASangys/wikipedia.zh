@@ -1,3 +1,6 @@
+> 本文内容由[THE RAMPAGE from EXILE TRIBE](https://zh.wikipedia.org/wiki/THE_RAMPAGE_from_EXILE_TRIBE)转换而来。
+
+
 **THE RAMPAGE from EXILE TRIBE** (THE RAMPAGE from 放浪一族) 是一個日本 16人男子團體，由3位主唱、13位表演者組成。隸屬於[LDH經紀公司](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAMPAGE有「橫衝直撞」的意思。
 
 ## 簡歷

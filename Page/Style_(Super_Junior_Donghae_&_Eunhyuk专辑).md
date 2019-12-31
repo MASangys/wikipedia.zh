@@ -1,3 +1,6 @@
+> 本文内容由[Style \(Super Junior Donghae \& Eunhyuk专辑\)](https://zh.wikipedia.org/wiki/Style_\(Super_Junior_Donghae_\&_Eunhyuk专辑\))转换而来。
+
+
 《**Style**》是韓國演唱團體[Super Junior Donghae & Eunhyuk的第二張](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")[日語正規專輯](https://zh.wikipedia.org/wiki/日語 "wikilink")，於2018年8月8日發行。\[1\]
 
 ## 概要

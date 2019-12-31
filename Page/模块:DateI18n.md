@@ -1,3 +1,6 @@
+> 本文内容由[模块:DateI18n](https://zh.wikipedia.org/wiki/模块:DateI18n)转换而来。
+
+
 \--[This module is intended for processing of date strings. Copied from https://commons.wikimedia.org/w/index.php?title=Module:Date\&oldid=224728211 Used by Module:ISOdate, Module:Complex date, Module:WikidataIB Authors and maintainers: \* User:Parent5446 - original version of the function mimicking template:ISOdate \* User:Jarekt - original version of the functions mimicking template:Date and template:ISOyear](https://zh.wikipedia.org/wiki/This_module_is_intended_for_processing_of_date_strings._Copied_from_https://commons.wikimedia.org/w/index.php?title=Module:Date&oldid=224728211_Used_by_Module:ISOdate,_Module:Complex_date,_Module:WikidataIB_Authors_and_maintainers:_*_User:Parent5446_-_original_version_of_the_function_mimicking_template:ISOdate_*_User:Jarekt_-_original_version_of_the_functions_mimicking_template:Date_and_template:ISOyear "wikilink")
 
 local p = {}

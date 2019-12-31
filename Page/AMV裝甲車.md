@@ -1,3 +1,6 @@
+> 本文内容由[AMV裝甲車](https://zh.wikipedia.org/wiki/AMV裝甲車)转换而来。
+
+
 **AMV裝甲車**（英語：Armoured Modular Vehicle，AMV），意為模組化裝甲車，為芬蘭研製的多用途輪型裝甲車，量產後廣泛銷售到多個國家\[1\]。
 
 ## 型號

@@ -1,3 +1,6 @@
+> 本文内容由[小米CC9 Pro](https://zh.wikipedia.org/wiki/小米CC9_Pro)转换而来。
+
+
 **小米CC9 Pro**（Mi Note 10 和 Mi Note 10 Pro globally）國際版命名**小米Note 10 Pro**，是[小米科技于](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2019年11月5日下午2时（UTC+8）在中国[小米科技园发布的一款全新系列的手机](https://zh.wikipedia.org/wiki/小米科技园 "wikilink"),也是全球第一部量产的一亿像素手机。\[1\]
 
 配备[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")730G处理器，性能大致和[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")835相等。内置5260mAh条形快充电池，配备30W极速闪充（官方宣称65分钟可冲满电）。\[2\]

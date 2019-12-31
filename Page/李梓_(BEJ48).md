@@ -1,3 +1,6 @@
+> 本文内容由[李梓 \(BEJ48\)](https://zh.wikipedia.org/wiki/李梓_\(BEJ48\))转换而来。
+
+
 **李梓**（），中国大型女子偶像团体[BEJ48成员](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，所属队伍为Team E。她于2016年1月18日加入[SNH48](../Page/SNH48.md "wikilink")六期生，并于同年4月20日移籍BEJ48 Team E\[1\]，及于该月30日的《[不眠之夜](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#BEJ48_Team_E_1st_Stage「不眠之夜」公演 "wikilink")》公演出道\[2\]。
 
 ## 经历

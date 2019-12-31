@@ -1,3 +1,6 @@
+> 本文内容由[\'s...TAEYEON CONCERT](https://zh.wikipedia.org/wiki/\'s...TAEYEON_CONCERT)转换而来。
+
+
 ''' 《's...TAEYEON CONCERT》 '''是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人第三次演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要

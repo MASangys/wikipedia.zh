@@ -1,3 +1,6 @@
+> 本文内容由[Γ-氨基丁酸B受体](https://zh.wikipedia.org/wiki/Γ-氨基丁酸B受体)转换而来。
+
+
 **γ-氨基丁酸β受体**（又名**GABA<sub>B</sub>R**）是[代谢型γ-氨基丁酸](../Page/代谢型谷氨酸受体.md "wikilink")（[GABA](../Page/Γ-氨基丁酸.md "wikilink")）[跨膜受体](https://zh.wikipedia.org/wiki/跨膜受体 "wikilink")，其通过[G蛋白](../Page/G蛋白.md "wikilink")与[钾通道连接](../Page/鉀離子通道.md "wikilink")。\[1\]在动作电位结束时，钾浓度的变化使细胞超极化。GABA<sub>B</sub>介导的IPSP的[翻转电位为](https://zh.wikipedia.org/wiki/翻转电位 "wikilink")-100mV，其比[GABA<sub>A</sub>](../Page/Γ-氨基丁酸A型受体.md "wikilink") IPSP更加超极化。GABA<sub>B</sub>受体存在于中枢神经系统和周围神经系统的自主神经分叉中。\[2\]
 
 该受体首先在1981年被确定，由Norman Bowery和他的团队使用放射性标记的[巴氯芬确定其在](https://zh.wikipedia.org/wiki/巴氯芬 "wikilink")[中枢神经系统中的分布](../Page/中樞神經系統.md "wikilink")。\[3\]

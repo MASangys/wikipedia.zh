@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 7.1](https://zh.wikipedia.org/wiki/Nokia_7.1)转换而来。
+
+
 **Nokia 7.1**，是一款运行[Android](../Page/Android.md "wikilink")操作系统的诺基亚品牌中高端智能手机。
 
 ## 规格

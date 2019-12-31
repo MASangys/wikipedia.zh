@@ -1,3 +1,6 @@
+> 本文内容由[南港生技BOT](https://zh.wikipedia.org/wiki/南港生技BOT)转换而来。
+
+
 **南港生技BOT**，全名為「南港生技產業聚落開發計畫」BOT案。總開發面積約達13000平方米。為台北市政府為配合中央規劃國家級生技產業，規劃在[南港区忠孝營區的以](../Page/南港區.md "wikilink")[BOT模式](../Page/BOT模式.md "wikilink")建设并运营的工程。
 
 目前由[世正南港生技園區聯盟得標](https://zh.wikipedia.org/wiki/世正開發 "wikilink")。為台灣首件聚焦生醫產業發展的BOT案，同時也是[柯文哲](../Page/柯文哲.md "wikilink")市長任內第二件BOT案。預計2021年啟用。\[1\]\[2\]

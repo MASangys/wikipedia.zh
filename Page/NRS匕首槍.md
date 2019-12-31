@@ -1,3 +1,6 @@
+> 本文内容由[NRS匕首槍](https://zh.wikipedia.org/wiki/NRS匕首槍)转换而来。
+
+
 **NRS**（，；НРС[全寫](../Page/縮寫.md "wikilink")：**Н**ож **Р**азведчика **С**пециальный，意為：特殊偵察刀；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前蘇聯](../Page/苏联.md "wikilink")（今[俄罗斯](../Page/俄罗斯.md "wikilink")）为[特种作战人员在敌后执行特殊任务中近距离内歼敌而研製](../Page/俄罗斯特种部队.md "wikilink")、由[圖拉兵工廠](../Page/圖拉兵工廠.md "wikilink")生產、內建單發式击發机构的自卫用途[求生](../Page/求生刀.md "wikilink")[匕首](https://zh.wikipedia.org/wiki/匕首 "wikilink")，击發机构發射蘇聯生产、先後取自[MSP雷霆消聲手槍](../Page/MSP雷霆消聲手槍.md "wikilink")與[PSS消音手槍](../Page/PSS消音手槍.md "wikilink")的（СП-3）與（СП-4）兩款消聲[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 NRS的設計可用於以刀身刺穿或敵人，或利用其內置式射擊機構向距離達到25公尺的敵方射擊。

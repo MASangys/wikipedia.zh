@@ -1,3 +1,6 @@
+> 本文内容由[Daydream café](https://zh.wikipedia.org/wiki/Daydream_café)转换而来。
+
+
 《**Daydream café**》（白日梦咖啡厅）是[Petit Rabbit's的歌曲](../Page/請問您今天要來點兔子嗎？.md "wikilink")。[畑亚貴作詞](https://zh.wikipedia.org/wiki/畑亚貴 "wikilink")，[大久保薰](../Page/大久保薰.md "wikilink")作曲。
 
 ## 音乐性

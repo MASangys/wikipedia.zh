@@ -1,3 +1,6 @@
+> 本文内容由[Elekta](https://zh.wikipedia.org/wiki/Elekta)转换而来。
+
+
 **Elekta**是一家瑞典公司，其产品提供[放射治疗](https://zh.wikipedia.org/wiki/放射治疗 "wikilink")、[放射手术相关设备和癌症以及脑部疾病治疗的临床管理](https://zh.wikipedia.org/wiki/放射手术 "wikilink")。
 
 ## 历史

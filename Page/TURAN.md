@@ -1,3 +1,6 @@
+> 本文内容由[TURAN](https://zh.wikipedia.org/wiki/TURAN)转换而来。
+
+
 **TURAN**（韓語：**투란**），是[Star Pro娛樂於](https://zh.wikipedia.org/wiki/Star_Pro娛樂 "wikilink")2013年推出的七人女子組合，成員包括[Chae Eun](https://zh.wikipedia.org/wiki/Chae_Eun "wikilink")、[Leekyung](https://zh.wikipedia.org/wiki/Leekyung "wikilink")、[Saebin](https://zh.wikipedia.org/wiki/Saebin "wikilink")、[Hanbi](https://zh.wikipedia.org/wiki/Hanbi "wikilink")、[Lian](https://zh.wikipedia.org/wiki/Lian "wikilink")、[Ryuji及](https://zh.wikipedia.org/wiki/Ryuji "wikilink")[Elisha](https://zh.wikipedia.org/wiki/Elisha "wikilink")\[1\]。
 團體解散後，Chae Eun以藝名[秀妍加入](https://zh.wikipedia.org/wiki/秀妍 "wikilink")[A.De](../Page/A.De.md "wikilink")。
 

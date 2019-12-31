@@ -1,3 +1,6 @@
+> 本文内容由[OVER DRIVE \(歌曲\)](https://zh.wikipedia.org/wiki/OVER_DRIVE_\(歌曲\))转换而来。
+
+
 「**OVER DRIVE**」是日本音樂團體 [FANTASTICS from EXILE TRIBE的出道單曲](../Page/FANTASTICS_from_EXILE_TRIBE.md "wikilink")\[1\]。於[2018年](../Page/2018年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")由[rhythm zone發行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[捷豹XF](https://zh.wikipedia.org/wiki/捷豹XF)转换而来。
+
+
 [Jaguar_XF_front_20080731.jpg](https://zh.wikipedia.org/wiki/File:Jaguar_XF_front_20080731.jpg "fig:Jaguar_XF_front_20080731.jpg") **捷豹XF**（Jaguar XF），是由[捷豹](../Page/捷豹.md "wikilink")銷售的一種四門[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。
 
 ## 概要

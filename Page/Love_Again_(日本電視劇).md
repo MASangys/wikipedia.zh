@@ -1,3 +1,6 @@
+> 本文内容由[Love Again \(日本電視劇\)](https://zh.wikipedia.org/wiki/Love_Again_\(日本電視劇\))转换而来。
+
+
 《**Love Again**》（）是[TBS電視台](../Page/TBS電視台.md "wikilink")的系列作品之一，於1998年4月16日至6月11日期間在TBS電視台播放，全劇共計9集\[1\]。原規劃本劇長度11集，但因收視率低迷而減為9集。主演為[渡部篤郎](../Page/渡部篤郎.md "wikilink")和[石田光](../Page/石田光.md "wikilink")。
 
 ## 劇情概要

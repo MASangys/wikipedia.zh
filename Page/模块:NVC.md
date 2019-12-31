@@ -1,3 +1,6 @@
+> 本文内容由[模块:NVC](https://zh.wikipedia.org/wiki/模块:NVC)转换而来。
+
+
 local NVC = {} --\[=\[ 回傳成員人數 \]=\]-- function NVC.Manager(frame)
 
 `   local page = frame:expandTemplate{title="Wikipedia:新手會/成員"}`

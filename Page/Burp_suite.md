@@ -1,3 +1,6 @@
+> 本文内容由[Burp suite](https://zh.wikipedia.org/wiki/Burp_suite)转换而来。
+
+
 Burp 或 Burp Suite 是一个用于测试 Web 应用程序安全性的图形化工具。该工具使用[Java](../Page/Java.md "wikilink")编写，由PortSwigger Web Security开发。 [缩略图](https://zh.wikipedia.org/wiki/File:Burp_Decoder_-_Free_Edition.png "fig:缩略图") 该工具有三个版本。可以免费下载的社区版、专业版和试用后可以购买的企业版。社区版大大减少了功能。它是为Web应用程序安全检查提供全面解决方案而开发的。除了[代理服务器](../Page/代理服务器.md "wikilink")、Scanner 和Intruder等基本功能外，该工具还包含更高级的选项，如Spider、Repeater、Decoder、Comparer、Extender和Sequencer。
 
 Burp suite背后的公司还开发了一个移动应用程序，其中包含与 iOS 8 及更高版本兼容的类似工具。

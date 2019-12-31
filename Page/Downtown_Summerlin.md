@@ -1,3 +1,6 @@
+> 本文内容由[Downtown Summerlin](https://zh.wikipedia.org/wiki/Downtown_Summerlin)转换而来。
+
+
 **Downtown Summerlin**（前身為**在桑默林市中心的商店**（**）），或**DTS**购物中心，是一个戶外购物、用餐與娱乐的區域。 它是更大的**'''发展計畫中的一環，而計畫中包括了的富裕社群、[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")西邊郊區的社區。
 
 該购物中心提供了大约 的零售空间，和的商務區域。 其主要的兩个分別是和[梅西百货](../Page/梅西百货.md "wikilink")。 總而言之，Downtown Summerlin是超过125家商店、酒吧與餐馆，以及一間的集合體。

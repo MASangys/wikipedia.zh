@@ -1,3 +1,6 @@
+> 本文内容由[模块:Change](https://zh.wikipedia.org/wiki/模块:Change)转换而来。
+
+
 \-- This implements  local p = {}
 
 local function ntsh(outvalue)

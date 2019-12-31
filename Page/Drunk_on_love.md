@@ -1,3 +1,6 @@
+> 本文内容由[Drunk on love](https://zh.wikipedia.org/wiki/Drunk_on_love)转换而来。
+
+
 《**Drunk on love**》（）是[韓國團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior成員](../Page/Super_Junior.md "wikilink")[金厲旭的第二張個人迷你專輯](https://zh.wikipedia.org/wiki/金厲旭 "wikilink")，2019年1月2日發行。
 
 ## 發行與宣傳

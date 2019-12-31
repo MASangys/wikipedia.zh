@@ -1,3 +1,6 @@
+> 本文内容由[Peace Sign](https://zh.wikipedia.org/wiki/Peace_Sign)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[創作型歌手](https://zh.wikipedia.org/wiki/創作型歌手 "wikilink")[米津玄師](../Page/米津玄師.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[Sony Music Records於](../Page/Sony_Music_Records.md "wikilink")2017年6月21日發行。單曲也被使用作為[讀賣電視台](../Page/讀賣電視台.md "wikilink")系列動畫的《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》第二季第1首片頭曲\[1\]。
 
 ## 發行簡介

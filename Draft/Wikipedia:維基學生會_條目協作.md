@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wikipedia:維基學生會/條目協作](https://zh.wikipedia.org/wiki/Draft:Wikipedia:維基學生會/條目協作)转换而来。
+
+
 <div class="nomobile">
 
 </div>

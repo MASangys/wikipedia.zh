@@ -1,3 +1,6 @@
+> 本文内容由[MOST \(衛星\)](https://zh.wikipedia.org/wiki/MOST_\(衛星\))转换而来。
+
+
 **MOST**（）望远镜是加拿大的第一个[空间望远镜](../Page/空间望远镜.md "wikilink")，直运行近10年后，它还是在轨道上的最小空间望远镜。MOST是第一个研究[星震学的航天器](https://zh.wikipedia.org/wiki/星震学 "wikilink")，随后是现已完成的[对流旋转和行星横越任务和](https://zh.wikipedia.org/wiki/对流旋转和行星横越任务 "wikilink")[开普勒任务](https://zh.wikipedia.org/wiki/开普勒任务 "wikilink")。它也是32年前[ISIS II以来发射的第一颗加拿大科学卫星](https://zh.wikipedia.org/wiki/ISIS_II "wikilink")。
 
 ## 概述

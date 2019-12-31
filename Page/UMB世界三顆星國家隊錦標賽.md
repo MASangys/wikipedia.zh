@@ -1,3 +1,6 @@
+> 本文内容由[UMB世界三顆星國家隊錦標賽](https://zh.wikipedia.org/wiki/UMB世界三顆星國家隊錦標賽)转换而来。
+
+
 **UMB世界三顆星國家隊錦標賽**（UMB World Three-cushion Championship for National Teams），是一個[開侖](../Page/開侖.md "wikilink")撞球職業錦標賽，採取[三顆星](../Page/三顆星.md "wikilink")賽制，由兩名選手組成國家隊。前三屆的比賽地點與時間並未固定，其後[世界撞球聯盟](../Page/世界撞球聯盟.md "wikilink")（UMB）決定改為每年一次，並且固定在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[菲爾森](../Page/菲爾森.md "wikilink")舉辦。
 
 ## 各屆優勝名單

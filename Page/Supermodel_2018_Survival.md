@@ -1,3 +1,6 @@
+> 本文内容由[Supermodel 2018 Survival](https://zh.wikipedia.org/wiki/Supermodel_2018_Survival)转换而来。
+
+
 《**Supermodel 2018 Survival**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2018年推出的綜藝節目，由[徐章勳](https://zh.wikipedia.org/wiki/徐章勳 "wikilink")、[張允柱](../Page/張允柱.md "wikilink")、、[金秀路](../Page/金秀路.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人共同主持\[1\]，節目主軸為發掘及培養橫跨模特兒、娛樂與演技領域的明星\[2\]。
 
 ## 播出時間

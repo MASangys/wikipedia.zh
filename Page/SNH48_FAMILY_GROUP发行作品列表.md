@@ -1,3 +1,6 @@
+> 本文内容由[SNH48 FAMILY GROUP发行作品列表](https://zh.wikipedia.org/wiki/SNH48_FAMILY_GROUP发行作品列表)转换而来。
+
+
 本条目收录被合称为“**[SNH48](../Page/SNH48.md "wikilink") FAMILY GROUP**”的[7SENSES](https://zh.wikipedia.org/wiki/7SENSES "wikilink")、[BlueV及](https://zh.wikipedia.org/wiki/BlueV "wikilink")[HO2等团体所发行的EP及专辑](https://zh.wikipedia.org/wiki/HO2_\(偶像团体\) "wikilink")。
 
 ## 7SENSES

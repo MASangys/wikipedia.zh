@@ -1,3 +1,6 @@
+> 本文内容由[AAirpass](https://zh.wikipedia.org/wiki/AAirpass)转换而来。
+
+
 **AAirpass**是[美國航空](../Page/美國航空.md "wikilink")在1981年推出的一個[飞行常客奖励计划](../Page/飞行常客奖励计划.md "wikilink")，此計劃特點是提供無限次美國航空航班頭等艙飛行及進入Admirals Club貴賓室。旅客可以選購五年有效期或終生有效\[1\]\[2\]。現今美國航空不再售賣AAirpass，但AAirpass持有者仍然能享用該優惠。
 
 ## 計劃內容

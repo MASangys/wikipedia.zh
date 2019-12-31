@@ -1,3 +1,6 @@
+> 本文内容由[复兴号CR300AF型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR300AF型电力动车组)转换而来。
+
+
 **复兴号CR300AF型电力动车组**，是[中国高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[复兴号的车型之一](../Page/复兴号电力动车组.md "wikilink")，是[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")向[中车青岛四方机车车辆](../Page/中车青岛四方机车车辆.md "wikilink")订购的[高速铁路](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")[动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")。中国铁路总公司将所有由[中国中车](../Page/中国中车.md "wikilink")自主研发，完全具有自主知识产权，营运于中国铁路客运专线及高速铁路的电力动车组均命名为「**[复兴号](../Page/复兴号电力动车组.md "wikilink")**」\[1\]。
 
 ## 概要

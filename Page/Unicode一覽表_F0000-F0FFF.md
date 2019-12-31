@@ -1,3 +1,6 @@
+> 本文内容由[Unicode一覽表 F0000-F0FFF](https://zh.wikipedia.org/wiki/Unicode一覽表_F0000-F0FFF)转换而来。
+
+
 |                                                                                                      |
 | ---------------------------------------------------------------------------------------------------- |
 | **[補充私人使用區-A](https://zh.wikipedia.org/wiki/補充私人使用區-A "wikilink")／Supplementary Private Use Area-A** |

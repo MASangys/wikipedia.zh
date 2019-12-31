@@ -1,3 +1,6 @@
+> 本文内容由[NEWSROOM TOKYO](https://zh.wikipedia.org/wiki/NEWSROOM_TOKYO)转换而来。
+
+
 **NEWSROOM TOKYO**是[日本放送协会](../Page/日本廣播協會.md "wikilink")（NHK）旗下国际频道[NHK World-Japan](../Page/NHK_World-Japan_\(頻道\).md "wikilink")（前称NHK World TV）自2015年3月30日开始播放的英语[新聞節目](../Page/新聞節目.md "wikilink")。
 
 ## 介绍

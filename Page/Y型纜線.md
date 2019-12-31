@@ -1,3 +1,6 @@
+> 本文内容由[Y型纜線](https://zh.wikipedia.org/wiki/Y型纜線)转换而来。
+
+
 [Shure_FP24_preamp_connected_to_an_Edirol_R-09_cropped_curves.png](https://zh.wikipedia.org/wiki/File:Shure_FP24_preamp_connected_to_an_Edirol_R-09_cropped_curves.png "fig:Shure_FP24_preamp_connected_to_an_Edirol_R-09_cropped_curves.png")的FP24接[Y型纜線](../Page/Y型纜線.md "wikilink")的兩個接頭連接輸出到錄音機\]\] **Y型纜線**（）或是稱為**分接線**是一種有三個接頭的[纜線](../Page/電纜.md "wikilink")，一個共用接頭與兩個分接頭。它的外型就像是[拉丁语](../Page/拉丁语.md "wikilink")字母的[Y](../Page/Y.md "wikilink")。
 
 ## 用途

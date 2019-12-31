@@ -1,3 +1,6 @@
+> 本文内容由[Tesseract](https://zh.wikipedia.org/wiki/Tesseract)转换而来。
+
+
 **Tesseract**是一个[光学字符识别](../Page/光学字符识别.md "wikilink")引擎，支持多种操作系统。\[1\]Tesseract是基于[Apache许可证](../Page/Apache许可证.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")\[2\]，自2006 年起由[Google](../Page/Google.md "wikilink")赞助开发\[3\]。
 
 2006年，Tesseract被认为是最精准的[开源光学字符识别引擎之一](https://zh.wikipedia.org/wiki/开源 "wikilink")。\[4\]\[5\]

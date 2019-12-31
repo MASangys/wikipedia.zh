@@ -1,3 +1,6 @@
+> 本文内容由[Wz. 1937觀察員機槍](https://zh.wikipedia.org/wiki/Wz._1937觀察員機槍)转换而来。
+
+
 **Wz. 1937觀察員機槍**（；karabin maszynowy obserwatora意為「觀察員機槍」）是一款由[波兰兵工廠](https://zh.wikipedia.org/wiki/波兰 "wikilink")以[白朗寧Wz. 1928自動步槍為藍本改進及生產的](../Page/白朗寧Wz._1928自動步槍.md "wikilink")[航空機槍](../Page/航空机关枪.md "wikilink")，亦是[白朗寧M1918波蘭版本的航空機槍型](../Page/白朗寧自動步槍.md "wikilink")。其為[第二次世界大战](../Page/第二次世界大战.md "wikilink")初期，波蘭一部份軍用機型所搭載的活動式航空機槍。發射[7.92×57毫米](../Page/7.92×57毫米毛瑟彈.md "wikilink")[毛瑟](../Page/毛瑟.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史與改進

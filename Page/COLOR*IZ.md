@@ -1,3 +1,6 @@
+> 本文内容由[COLOR\*IZ](https://zh.wikipedia.org/wiki/COLOR\*IZ)转换而来。
+
+
 《**COLOR\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")作為[韓國出道作品的首張迷你專輯](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由[Off The Record娛樂製作](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")，[Stone Music娛樂發行](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")，於2018年10月29日推出，主打歌曲為〈La Vie en Rose〉。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[PocketStation](https://zh.wikipedia.org/wiki/PocketStation)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[電子遊戲商](../Page/電子遊戲發行商.md "wikilink")[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（今[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")）於1999年1月在日本發行的[32位元](../Page/32位元.md "wikilink")[家用遊戲機硬體](../Page/家用游戏机.md "wikilink")， 是[索尼](../Page/索尼.md "wikilink")於1994年發售的32位元家用遊戲機[PlayStation的](../Page/PlayStation_\(遊戲機\).md "wikilink")[外部裝置之一](https://zh.wikipedia.org/wiki/外部裝置 "wikilink")\[1\] 。索尼将其用途定位为[个人数码助理](../Page/个人数码助理.md "wikilink")和记忆卡的组合。设备拥有一块单色的[液晶显示器](../Page/液晶显示器.md "wikilink")，支持使用[红外线](../Page/红外线.md "wikilink")交换数据，支持[實時時鐘](../Page/實時時鐘.md "wikilink")，内置[闪存](../Page/闪存.md "wikilink")，拥有产生[声音](../Page/声音.md "wikilink")的机能。将其连接至PlayStation电子游戏机的内存卡插槽后，设备还能变为PlayStation电子游戏机的记忆卡。PocketStation于1999年1月23日在[日本](../Page/日本.md "wikilink")独家发售。\[2\]\[3\]
 
 [PlayStation游戏通常在其光盘中包含专为PocketStation提供的软件](https://zh.wikipedia.org/wiki/PlayStation游戏列表 "wikilink")，用以增加游戏的功能。PocketStation也可以通过PlayStation下载可独立运行于PocketStation的软件。PocketStation内置的红外接收和发射装置可以在两台PocketStation之间传输数据，或进行多人游戏。

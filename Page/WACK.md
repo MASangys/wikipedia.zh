@@ -1,3 +1,6 @@
+> 本文内容由[WACK](https://zh.wikipedia.org/wiki/WACK)转换而来。
+
+
 **WACK**是日本一家[經紀公司](../Page/經紀公司.md "wikilink")。2014年成立，[代表取締役是](https://zh.wikipedia.org/wiki/代表取締役 "wikilink")。\[1\]公司名取自Watanabe（渡边）Artistic（艺术） Creative（创意）KK（有限公司）。\[2\]
 
 ## 简介

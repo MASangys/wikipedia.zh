@@ -1,3 +1,6 @@
+> 本文内容由[白朗寧Wz. 1928自動步槍](https://zh.wikipedia.org/wiki/白朗寧Wz._1928自動步槍)转换而来。
+
+
 **白朗寧Wz. 1928自動步槍**（）是一款先後由[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠生產及出口](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")，以至由[波兰兵工廠](https://zh.wikipedia.org/wiki/波兰 "wikilink")特許生產的[自动步枪](../Page/自动步枪.md "wikilink")、[戰鬥步槍以及](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")，是[白朗寧M1918的波蘭版本](../Page/白朗寧自動步槍.md "wikilink")，亦是[第二次世界大战](../Page/第二次世界大战.md "wikilink")當中波蘭所使用的輕機槍。發射[7.92×57毫米](../Page/7.92×57毫米毛瑟彈.md "wikilink")[毛瑟](../Page/毛瑟.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 在1939年9月的[波蘭戰役](../Page/波蘭戰役.md "wikilink")當中，這是波蘭軍隊的[排級基本支援武器](https://zh.wikipedia.org/wiki/排 "wikilink")。而[德意志國防軍](../Page/德意志國防軍.md "wikilink")將繳獲的該機槍命名為**lMG 28（p）**。

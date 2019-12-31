@@ -1,3 +1,6 @@
+> 本文内容由[E语言](https://zh.wikipedia.org/wiki/E语言)转换而来。
+
+
 **E语言**是1997年由、[Dan Bornstein和Electric](../Page/Dalvik虚拟机.md "wikilink") Communities的其他人创建的用于[安全](../Page/计算机安全.md "wikilink")[分布式计算](../Page/分布式计算.md "wikilink")的[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")语言。E语言主要源自于安全分布式编程中Java的并行语言和Original-E，后者是Java的一组扩展。E将基于[消息的计算与类](https://zh.wikipedia.org/wiki/訊息傳遞_\(軟體\) "wikilink")[Java](../Page/Java.md "wikilink")语法相结合。基于[事件循环和](../Page/事件驅動程式設計.md "wikilink")的[并发模型确保永远不会发生](../Page/并发计算.md "wikilink")[死锁](../Page/死锁.md "wikilink")。
 
 ## 开发理念以及过程

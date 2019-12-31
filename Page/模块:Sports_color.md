@@ -1,3 +1,6 @@
+> 本文内容由[模块:Sports color](https://zh.wikipedia.org/wiki/模块:Sports_color)转换而来。
+
+
 \-- -- This module implements -- , ,  -- , , , -- , , , -- , , , -- , , , -- , ,  -- -- , , , -- ,  -- ,  -- local p = {}
 
 local data_module = 'Module:Sports color/basketball'

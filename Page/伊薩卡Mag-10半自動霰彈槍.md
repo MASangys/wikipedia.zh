@@ -1,3 +1,6 @@
+> 本文内容由[伊薩卡Mag-10半自動霰彈槍](https://zh.wikipedia.org/wiki/伊薩卡Mag-10半自動霰彈槍)转换而来。
+
+
 **伊薩卡Mag-10**（）是一款由位於[美国](../Page/美国.md "wikilink")[纽约州](../Page/纽约州.md "wikilink")[伊薩卡市的](../Page/伊萨卡_\(纽约州\).md "wikilink")所研製和生產的[氣動式](../Page/氣動式_\(槍械\).md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[10鉛徑霰彈](../Page/散彈.md "wikilink")。
 
 內置於[管式彈倉前部的CounterCoil系統減少了每發的](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[後座力](../Page/後座力.md "wikilink")，使得第二次射擊更為容易，但亦導致彈倉尺寸減半至僅為2發霰彈藥筒。普通型號具有寶石[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[槍栓](https://zh.wikipedia.org/wiki/槍栓 "wikilink")、經過雕刻的[槍管](../Page/槍管.md "wikilink")和方格防滑紋[槍托](../Page/槍托.md "wikilink")。該槍的主要優點是可靠性和強大的[火力](https://zh.wikipedia.org/wiki/火力 "wikilink")，缺點是沉重和重新裝填所需的時間較長。

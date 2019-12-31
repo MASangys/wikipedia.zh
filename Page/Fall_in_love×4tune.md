@@ -1,3 +1,6 @@
+> 本文内容由[Fall in love×4tune](https://zh.wikipedia.org/wiki/Fall_in_love×4tune)转换而来。
+
+
 是[Escu:de](../Page/Escu:de.md "wikilink")在2015年11月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事

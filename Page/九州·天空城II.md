@@ -1,3 +1,6 @@
+> 本文内容由[九州·天空城II](https://zh.wikipedia.org/wiki/九州·天空城II)转换而来。
+
+
 《**九州·天空城II**》（），是一部[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[古装剧](https://zh.wikipedia.org/wiki/古装剧 "wikilink")。由[徐正溪](../Page/徐正溪.md "wikilink")、[王玉雯](../Page/王玉雯.md "wikilink")领衔主演，于2018年10月開機，12月殺青。\[1\]\[2\] \[3\]
 
 ## 播出时间

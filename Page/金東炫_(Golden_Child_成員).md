@@ -1,3 +1,6 @@
+> 本文内容由[金東炫 \(Golden Child 成員\)](https://zh.wikipedia.org/wiki/金東炫_\(Golden_Child_成員\))转换而来。
+
+
 **金東炫**（**<sup>*Kim Dong Hyun*</sup>**，），韓國男子團體[Golden Child成員](../Page/Golden_Child.md "wikilink")，所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")。
 在隊內年齡排行第八，擔任主舞與副唱。
 

@@ -1,3 +1,6 @@
+> 本文内容由[LRAC F1反坦克火箭筒](https://zh.wikipedia.org/wiki/LRAC_F1反坦克火箭筒)转换而来。
+
+
 '''LRAC F1 '''（正式名稱／全寫：，意為：89毫米F1型[反坦克](../Page/反坦克戰.md "wikilink")[火箭彈發射器](https://zh.wikipedia.org/wiki/火箭彈發射器 "wikilink")）是一款由[法国武器製造商機械工業研究技術公司](https://zh.wikipedia.org/wiki/法国 "wikilink")（）所設計、分別由[圣艾蒂安](../Page/圣艾蒂安.md "wikilink")國家武器製造廠與Luchaire SA生產發射器和[火箭彈](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")，並且在1970年代起由所銷售的可重新裝填型反坦克火箭彈發射器。\[1\]
 
 它取代了在[法國陸軍服役的](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")89毫米[M20A1「超級巴祖卡」](../Page/M20超級巴祖卡火箭筒.md "wikilink")。通過在發射器以上使用[玻璃纖維和](https://zh.wikipedia.org/wiki/玻璃纖維 "wikilink")[塑料](../Page/塑料.md "wikilink")，它在上彈時比M20A1輕便了2公斤，同時具有更長遠的有效射程。LRAC FI有時又被稱為**STRIM** 89毫米反坦克火箭彈發射器或是**ACL-STRIM**，源於1964年、法國國防部所簽約合同，用於研究M20A1「超級巴祖卡」的後繼型的對象、私人公司機械工業研究技術公司的[縮寫](../Page/縮寫.md "wikilink")。

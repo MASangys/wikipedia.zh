@@ -1,3 +1,6 @@
+> 本文内容由[白朗寧BDM半自動手槍](https://zh.wikipedia.org/wiki/白朗寧BDM半自動手槍)转换而来。
+
+
 **白朗寧BDM**（；BDM全寫：**B**rowning **D**ouble **M**ode，意為：勃朗宁雙模式操作型）是一款由[美国](../Page/美国.md "wikilink")[犹他州](../Page/犹他州.md "wikilink")[奥格登的槍械製造商](https://zh.wikipedia.org/wiki/奥格登_\(犹他州\) "wikilink")[白朗寧武器公司](../Page/白朗寧武器公司.md "wikilink")所研製和於1991年至1998年間生產的[半自動手槍](../Page/半自動手槍.md "wikilink")。儘管其外觀與白朗寧（[埃斯塔勒国营工厂](../Page/埃斯塔勒国营工厂.md "wikilink")）的[P-35型“ 大威力”半自動手槍相類似](../Page/白朗寧大威力半自動手槍.md "wikilink")，事實上BDM卻是一種新型設計，旨在參與美國[联邦调查局](../Page/联邦调查局.md "wikilink")的制式手槍競標的服役試驗。但是，聯邦調查局最終並未採用BDM作配發武器，而該槍的結果是僅在私人市場上短暫出售。
 
 ## 概述

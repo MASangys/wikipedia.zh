@@ -1,3 +1,6 @@
+> 本文内容由[DJ德拉马](https://zh.wikipedia.org/wiki/DJ德拉马)转换而来。
+
+
 **泰里·辛克·西蒙斯**（，），\[1\]\[2\]艺名**DJ德拉马**（**DJ Drama**），是一名来自[美国](../Page/美国.md "wikilink")[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[费城的](../Page/費城.md "wikilink")[DJ与](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[音乐制作人](../Page/音樂製作人.md "wikilink")。他是[大西洋唱片](../Page/大西洋唱片.md "wikilink")公司下的Generation Now厂牌的联合创始人之一（另一位联合创始人为Don Cannon），旗下有[利尔·乌兹·弗特](../Page/利尔·乌兹·弗特.md "wikilink")、Skeme和Jack Harlow等艺人。他最初最初以[亚特兰大](../Page/亚特兰大.md "wikilink")饶舌歌手[T.I.](../Page/T.I..md "wikilink")的正式DJ的身份获得大众认可。许多艺人都在他的系列专辑《Gangsta Grillz》中献声过，包括[小韋恩](../Page/小韋恩.md "wikilink")、[神奇小子](../Page/神奇小子_\(歌手\).md "wikilink")、[卢达克里斯](../Page/卢达克里斯.md "wikilink")、[Jeezy和](../Page/杰伊·詹金斯.md "wikilink")[古驰·马恩](../Page/古驰·马恩.md "wikilink")等。他是亚特兰大DJ和艺人团体“Aphilliates”的联合创始人。DJ德拉马还发布过5张录音室专辑，其中包括2016年的《Quality Street Music 2》。
 
 ## 早年生活

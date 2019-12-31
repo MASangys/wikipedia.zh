@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Special:Badtitle/ApiErrorFormatter::getDummyTitle](https://zh.wikipedia.org/wiki/Draft:Special:Badtitle/ApiErrorFormatter::getDummyTitle)转换而来。
+
+
 ## 草稿：台灣無條件基本收入協會
 
 UBI Taiwan [台灣無條件基本收入協會為致力推動](https://zh.wikipedia.org/wiki/台灣無條件基本收入協會 "wikilink")[無條件基本收入](../Page/無條件基本收入.md "wikilink")之台灣倡議團體。

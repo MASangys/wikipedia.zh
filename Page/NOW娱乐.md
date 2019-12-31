@@ -1,3 +1,6 @@
+> 本文内容由[NOW娱乐](https://zh.wikipedia.org/wiki/NOW娱乐)转换而来。
+
+
 **NOW娱乐**是一家位于[美国](../Page/美国.md "wikilink")佐治亚州的唱片公司和娱乐公司。\[1\]\[2\]\[3\]
 
 ## 历史

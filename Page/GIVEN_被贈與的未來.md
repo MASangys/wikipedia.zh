@@ -1,3 +1,6 @@
+> 本文内容由[GIVEN 被贈與的未來](https://zh.wikipedia.org/wiki/GIVEN_被贈與的未來)转换而来。
+
+
 《**GIVEN 被贈與的未來**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")創作的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，故事係以搖滾樂團為主軸的青春群像劇。於2016年發售[廣播劇](../Page/廣播劇.md "wikilink")CD\[1\]，2019年動畫化\[2\]。
 
 ## 故事簡介

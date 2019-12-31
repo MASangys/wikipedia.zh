@@ -1,3 +1,6 @@
+> 本文内容由[Flawless Love \(金在中专辑\)](https://zh.wikipedia.org/wiki/Flawless_Love_\(金在中专辑\))转换而来。
+
+
 《**Flawless Love**》是韓國歌手[金在中](../Page/金在中.md "wikilink")在日本的第一張個人日語專輯。專輯於2019年4月10日正式發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[B级墨尔本电车](https://zh.wikipedia.org/wiki/B级墨尔本电车)转换而来。
+
+
 **B级墨尔本电车**（B-class Melbourne tram），是在[墨尔本电车系统中运营的一种双节](https://zh.wikipedia.org/wiki/墨尔本电车 "wikilink")，三转向架铰接电车。在1984年和1985年两列B1级原型车投入服务后，总共由130列B2级由Comeng（之后变为ABB）和AEG于墨尔本的丹德农生产。B级电车的发展主要缘于将原本为铁路的圣基尔达线（St Kilda Line）和墨尔本港线（Port Melbourne Line）改造成轻轨的计划，所有B级于1984到1994年间投入服务。
 
 ## 历史

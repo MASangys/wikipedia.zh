@@ -1,3 +1,6 @@
+> 本文内容由[年轻公爵N·B·尤苏波夫的肖像](https://zh.wikipedia.org/wiki/年轻公爵N·B·尤苏波夫的肖像)转换而来。
+
+
 《**年轻公爵N·B·尤苏波夫的肖像**》（）是画家[温琴佐·佩特罗切利](../Page/温琴佐·佩特罗切利.md "wikilink")（)所绘的[肖像画](https://zh.wikipedia.org/wiki/肖像画 "wikilink")。
 
 ## 參見

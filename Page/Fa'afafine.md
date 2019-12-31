@@ -1,3 +1,6 @@
+> 本文内容由[Fa\'afafine](https://zh.wikipedia.org/wiki/Fa\'afafine)转换而来。
+
+
 **Fa'afafine**是指[波里尼西亞](https://zh.wikipedia.org/wiki/波里尼西亞 "wikilink")（尤其是[薩摩亞地區](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")）文化中的[跨性別](../Page/跨性別.md "wikilink")生理男性，他們在當地社會被認定為女性。
 
 Fa'afafine一詞是由前綴「fa'a」（意指「以...的型態」）及「fafine」（意指「女人」）構成。Fa'afafine（傳統上）是女性[性別角色教育下的結果](https://zh.wikipedia.org/wiki/性別角色 "wikilink")，其社會任務也在傳統中被明確定義；他們傳統上被認定應支持家庭、照顧孩童、打理家務、照護家族中老病者。 \[1\]

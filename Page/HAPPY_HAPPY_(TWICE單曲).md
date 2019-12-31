@@ -1,3 +1,6 @@
+> 本文内容由[HAPPY HAPPY \(TWICE單曲\)](https://zh.wikipedia.org/wiki/HAPPY_HAPPY_\(TWICE單曲\))转换而来。
+
+
 《**HAPPY HAPPY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE第四張日語單曲](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2019年7月17日推出，主打歌為〈HAPPY HAPPY〉。\[1\]\[2\]
 
 ## 背景

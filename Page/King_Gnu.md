@@ -1,3 +1,6 @@
+> 本文内容由[King Gnu](https://zh.wikipedia.org/wiki/King_Gnu)转换而来。
+
+
 **King Gnu**是[日本](../Page/日本.md "wikilink")4人摇滚乐队，於2017年以主唱常田大希为核心结成。现为[日本索尼音乐旗下艺人](https://zh.wikipedia.org/wiki/日本索尼音乐 "wikilink")。
 
 ## 成员

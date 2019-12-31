@@ -1,3 +1,6 @@
+> 本文内容由[Light Us](https://zh.wikipedia.org/wiki/Light_Us)转换而来。
+
+
 《**LIGHT US**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[ONEUS首張迷你專輯](https://zh.wikipedia.org/wiki/ONEUS "wikilink")，於2019年1月9日推出，主打歌曲為〈Valkyrie〉。
 
 ## 簡介

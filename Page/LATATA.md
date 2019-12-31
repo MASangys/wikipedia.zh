@@ -1,3 +1,6 @@
+> 本文内容由[LATATA](https://zh.wikipedia.org/wiki/LATATA)转换而来。
+
+
 《**LATATA**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")於日本的首張迷你專輯，於2019年7月31日推出，主打歌曲為〈LATATA〉。
 
 ## 簡介

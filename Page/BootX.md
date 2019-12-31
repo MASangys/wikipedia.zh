@@ -1,3 +1,6 @@
+> 本文内容由[BootX](https://zh.wikipedia.org/wiki/BootX)转换而来。
+
+
 **BootX**是一款由[苹果公司为其](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[麥金塔](../Page/麥金塔.md "wikilink")电脑设计研发的基于[软件](../Page/软件.md "wikilink")的[啟動程式](../Page/啟動程式.md "wikilink")。BootX通过先载入所有所需的[驱动程序](../Page/驱动程序.md "wikilink")，再启动[PowerPC](../Page/PowerPC.md "wikilink")架构麦金塔（[Mac OS X 10.2及更高版本](../Page/Mac_OS_X_v10.2.md "wikilink")）[内核](../Page/内核.md "wikilink")的方式启动[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")。\[1\]\[2\]
 
 通过使用BootROM（一块包含的[唯讀記憶體](../Page/唯讀記憶體.md "wikilink")[芯片](../Page/集成电路.md "wikilink")），相兼容的麦金塔电脑将在[启动时显示灰色的](https://zh.wikipedia.org/wiki/引导程序 "wikilink")[苹果图标](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")。\[3\]

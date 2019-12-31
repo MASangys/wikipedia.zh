@@ -1,3 +1,6 @@
+> 本文内容由[OpenCart](https://zh.wikipedia.org/wiki/OpenCart)转换而来。
+
+
 **OpenCart**是一套[网络购物](../Page/网络购物.md "wikilink")管理系統。其是基於[PHP](../Page/PHP.md "wikilink")並使用[MySQL](../Page/MySQL.md "wikilink")資料庫，以及HTML元件所構成的。其支援使用不同的[語言](../Page/語言.md "wikilink")與[貨幣](../Page/通貨.md "wikilink")。並使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")免費提供。
 
 ## 歷史

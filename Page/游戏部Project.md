@@ -1,3 +1,6 @@
+> 本文内容由[游戏部Project](https://zh.wikipedia.org/wiki/游戏部Project)转换而来。
+
+
 **游戏部Project**（；）是一个日本虛擬[YouTuber](../Page/YouTuber.md "wikilink")團體、影音[部落客](https://zh.wikipedia.org/wiki/部落客 "wikilink")。2018年3月底，游戏部Project在YouTube上開設了第一個主播頻道。
 
 设定上每個人都是[東京的高中生](https://zh.wikipedia.org/wiki/東京 "wikilink")，直播的内容屬於俱樂部的活動，其內容是直播玩电子游戏\[1\]。特別是經常玩[精灵宝可梦](../Page/精灵宝可梦.md "wikilink")和[任天堂明星大亂鬥 特別版](../Page/任天堂明星大亂鬥_特別版.md "wikilink")。

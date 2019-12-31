@@ -1,3 +1,6 @@
+> 本文内容由[SUPER HOTEL](https://zh.wikipedia.org/wiki/SUPER_HOTEL)转换而来。
+
+
 [Hotel7421.JPG](https://zh.wikipedia.org/wiki/File:Hotel7421.JPG "fig:Hotel7421.JPG") [Super-Hotel-1.jpg](https://zh.wikipedia.org/wiki/File:Super-Hotel-1.jpg "fig:Super-Hotel-1.jpg") [Kushiro-bus_kushiro200ka129.jpg](https://zh.wikipedia.org/wiki/File:Kushiro-bus_kushiro200ka129.jpg "fig:Kushiro-bus_kushiro200ka129.jpg") **株式會社SUPER HOTEL**（，*SUPER HOTEL Co., Ltd.*）是[日本](../Page/日本.md "wikilink")連鎖飯店。本社所在地在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[西區](../Page/西區_\(大阪市\).md "wikilink")。
 
 ## 概要

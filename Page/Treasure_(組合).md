@@ -1,3 +1,6 @@
+> 本文内容由[Treasure \(組合\)](https://zh.wikipedia.org/wiki/Treasure_\(組合\))转换而来。
+
+
 **TREASURE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")透過出道生存節目《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》所推出的男子音樂組合\[1\]，最終成員是[崔玹碩](../Page/崔玹碩.md "wikilink")、金俊奎、尹材赫、[方藝潭](../Page/方藝潭.md "wikilink") 、Haruto、朴炡禹及蘇庭煥共七名\[2\]\[3\]\[4\]。
 
 與[MAGNUM](../Page/MAGNUM.md "wikilink")合體活動時稱為[TREASURE 13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為[TREASURE MAKER](https://zh.wikipedia.org/wiki/TREASURE_MAKER "wikilink")。\[5\]

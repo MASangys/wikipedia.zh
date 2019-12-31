@@ -1,3 +1,6 @@
+> 本文内容由[SuperMUC](https://zh.wikipedia.org/wiki/SuperMUC)转换而来。
+
+
 **SuperMUC**是位於[慕尼黑](../Page/慕尼黑.md "wikilink")[加興](https://zh.wikipedia.org/wiki/加興 "wikilink")的[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")。
 
 ## 歷史

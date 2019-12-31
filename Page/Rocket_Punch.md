@@ -1,3 +1,6 @@
+> 本文内容由[Rocket Punch](https://zh.wikipedia.org/wiki/Rocket_Punch)转换而来。
+
+
 **Rocket Punch**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")旗下于2019年所推出的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是該經紀公司推出的第二組女子偶像團體，由[高橋朱里](../Page/高橋朱里.md "wikilink")、[金蓮熙](https://zh.wikipedia.org/wiki/金蓮熙 "wikilink")、[金秀潤](https://zh.wikipedia.org/wiki/金秀潤 "wikilink")、[徐胤卿](https://zh.wikipedia.org/wiki/徐胤卿 "wikilink")、[金素嬉](https://zh.wikipedia.org/wiki/金素嬉 "wikilink")、[鄭多玹](../Page/鄭多玹.md "wikilink")六名成員組成\[1\]，並由[金蓮熙擔任隊長](https://zh.wikipedia.org/wiki/金蓮熙 "wikilink")。於2019年8月7日发行迷你專輯《Pink Punch》出道。
 
 ## 简介

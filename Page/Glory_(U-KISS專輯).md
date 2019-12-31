@@ -1,3 +1,6 @@
+> 本文内容由[Glory \(U-KISS專輯\)](https://zh.wikipedia.org/wiki/Glory_\(U-KISS專輯\))转换而来。
+
+
 《**Glory**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第八張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2018年12月19日以四個版本：CD＋Blu-ray盤、CD＋DVD盤、通常盤及mu-mo盤推出\[1\]。
 
 ## 背景

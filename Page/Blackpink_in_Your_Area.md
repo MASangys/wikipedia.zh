@@ -1,3 +1,6 @@
+> 本文内容由[Blackpink in Your Area](https://zh.wikipedia.org/wiki/Blackpink_in_Your_Area)转换而来。
+
+
 《**Blackpink in Your Area**》（風格化為**BLACKPINK IN YOUR AREA**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的首張[日本](../Page/日本.md "wikilink")正規專輯，由所屬經紀公司[YG娛樂](../Page/YG娛樂.md "wikilink")與日本唱片公司[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2018年12月5日以13種不同版本發售。
 
 ## 背景

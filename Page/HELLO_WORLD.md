@@ -1,3 +1,6 @@
+> 本文内容由[HELLO WORLD](https://zh.wikipedia.org/wiki/HELLO_WORLD)转换而来。
+
+
 《**HELLO WORLD**》（）是2019年9月20日于日本上映的[日本](../Page/日本.md "wikilink")原創動畫電影。
 
 ## 概要

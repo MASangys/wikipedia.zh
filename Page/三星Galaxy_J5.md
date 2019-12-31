@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy J5](https://zh.wikipedia.org/wiki/三星Galaxy_J5)转换而来。
+
+
 **Samsung Galaxy J5**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，在2015年發布。
 
 ## 技術規格

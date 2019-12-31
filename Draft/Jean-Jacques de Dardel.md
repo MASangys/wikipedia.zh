@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Jean-Jacques de Dardel](https://zh.wikipedia.org/wiki/Draft:Jean-Jacques_de_Dardel)转换而来。
+
+
 ## Family and early life
 
 Born in 1954 to a diplomatic family with roots in Neuchatel and Nendaz (Switzerland) , Jean-Jacques de Dardel has studied in the US, Brazil, Canada and Switzerland.

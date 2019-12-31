@@ -1,3 +1,6 @@
+> 本文内容由[模块:Footnotes](https://zh.wikipedia.org/wiki/模块:Footnotes)转换而来。
+
+
 require('Module:No globals');
 
 \--[--------------------------\< A R G S _ D E F A U L T \>------------------------------------------------------ a table to specify initial values.](https://zh.wikipedia.org/wiki/--------------------------\<_A_R_G_S_D_E_F_A_U_L_T_\>------------------------------------------------------_a_table_to_specify_initial_values. "wikilink")

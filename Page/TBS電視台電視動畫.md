@@ -1,3 +1,6 @@
+> 本文内容由[TBS電視台電視動畫](https://zh.wikipedia.org/wiki/TBS電視台電視動畫)转换而来。
+
+
 **TBS電視台電視動畫**（ティービーエスけいアニメ），是[日本](../Page/日本.md "wikilink")[TBS電視台在不同時段播放的動畫](../Page/東京放送控股.md "wikilink")。
 
 ## 動畫列表

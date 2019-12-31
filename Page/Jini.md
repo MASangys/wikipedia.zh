@@ -1,3 +1,6 @@
+> 本文内容由[Jini](https://zh.wikipedia.org/wiki/Jini)转换而来。
+
+
 **Jini**（  ），也称为**Apache River，**是[分布式系统的一种通过模块化的合作服务集合的网络架构](../Page/分布式计算.md "wikilink")，。 JavaSpaces是Jini的一部分。
 
 Jini最初由[Sun开发](../Page/昇陽電腦.md "wikilink")，使用[Apache License 2.0许可证](../Page/Apache许可证.md "wikilink") 。 \[1\] Jini的g已经转交[Apache](../Page/Apache软件基金会.md "wikilink")，并重名为“ River” 。 \[2\]

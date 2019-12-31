@@ -1,3 +1,6 @@
+> 本文内容由[IPhone XR](https://zh.wikipedia.org/wiki/IPhone_XR)转换而来。
+
+
 **iPhone XR**是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發、生產及銷售的一款智慧型手機，是[第12代的](https://zh.wikipedia.org/wiki/iOS裝置列表 "wikilink")[iPhone產品](https://zh.wikipedia.org/wiki/iPhone "wikilink")，於2018年9月12日在[蘋果園區](../Page/蘋果園區.md "wikilink")的史蒂夫·喬布斯劇院（）中發表，同時發表的還有價格更高的高端機型[iPhone XS及iPhone XS Max](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")，相比之下，iPhone XR成為一部「平價版\[1\]」的iPhone\[2\]。預訂從2018年10月19日開始，同月26日正式發售\[3\]。其名稱中的X是以[羅馬字母命名](https://zh.wikipedia.org/wiki/羅馬字母 "wikilink")，以英語中「ten」發音）\[4\]\[5\]
 
 iPhone XR的螢幕尺寸6.1吋[Retina液態LCD顯示器](https://zh.wikipedia.org/wiki/Retina顯示器 "wikilink")，蘋果公司稱它為「業界裡最先進的LCD」\[6\]。它是蘋果iPhone X系列裝置中最便宜的裝置，其售價在美國從US$749起；加拿大從$1029起；英國從£749起；歐元區國家從€849起；而在中國則由¥6499起。它具有跟XS和XS Max相同的處理器，採用[7納米製程的](https://zh.wikipedia.org/wiki/7納米製程 "wikilink")[Apple A12 Bionic晶片](../Page/Apple_A12_Bionic.md "wikilink")，蘋果公司聲稱它成為智能手機中「最聰明及最強大的晶片」。

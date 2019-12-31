@@ -1,3 +1,6 @@
+> 本文内容由[Happiness!2 Sakura Celebration](https://zh.wikipedia.org/wiki/Happiness!2_Sakura_Celebration)转换而来。
+
+
 是[Windmill Oasis在](../Page/Windmill.md "wikilink")2019年2月22日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

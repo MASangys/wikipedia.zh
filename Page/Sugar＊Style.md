@@ -1,3 +1,6 @@
+> 本文内容由[Sugar＊Style](https://zh.wikipedia.org/wiki/Sugar＊Style)转换而来。
+
+
 《**Sugar＊Style**》是[SMEE在](../Page/HOOKSOFT.md "wikilink")2019年1月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2019年6月28日發售[Fandisc與原聲帶的合輯](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Sugar＊Style Music and Happiness Pack》\[2\]。
 
 ## 故事簡介

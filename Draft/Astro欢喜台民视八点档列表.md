@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Astro欢喜台民视八点档列表](https://zh.wikipedia.org/wiki/Draft:Astro欢喜台民视八点档列表)转换而来。
+
+
 本列表列出Astro欢喜台所播出的民视八点档。
 
 <table>

@@ -1,3 +1,6 @@
+> 本文内容由[Alone in the City](https://zh.wikipedia.org/wiki/Alone_in_the_City)转换而来。
+
+
 《**Alone in the City**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[Dreamcatcher](../Page/Dreamcatcher.md "wikilink")的第三張迷你專輯，由[Happy Face娛樂製作及發行](../Page/Happy_Face娛樂.md "wikilink")，於2018年9月20日，推出共有6首歌曲，主打歌為《What》。
 
 ## 事件

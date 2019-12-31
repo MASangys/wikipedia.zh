@@ -1,3 +1,6 @@
+> 本文内容由[加拿大原住民音節文字擴展 \(Unicode區段\)](https://zh.wikipedia.org/wiki/加拿大原住民音節文字擴展_\(Unicode區段\))转换而来。
+
+
 **统一加拿大原住民音节文字扩展**是一个包含了扩展[加拿大原住民音节文字的](https://zh.wikipedia.org/wiki/加拿大原住民音节文字 "wikilink")[Unicode区段](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")。这些字符可以运用于一些[克里语](../Page/克里语.md "wikilink")、[奧吉布瓦语](https://zh.wikipedia.org/wiki/奧吉布瓦语 "wikilink")、和方言的书写。
 
 ## 区段

@@ -1,3 +1,6 @@
+> 本文内容由[飛翔：QUANTUM LEAP](https://zh.wikipedia.org/wiki/飛翔：QUANTUM_LEAP)转换而来。
+
+
 《**飛翔：QUANTUM LEAP**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[X1作為出道作品的首張迷你專輯](../Page/X1_\(組合\).md "wikilink")，由[SWING娛樂製作](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")。於2019年8月27日推出，主打歌曲為《FLASH》。
 
 ## 簡介

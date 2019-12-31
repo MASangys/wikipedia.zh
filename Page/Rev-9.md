@@ -1,3 +1,6 @@
+> 本文内容由[Rev-9](https://zh.wikipedia.org/wiki/Rev-9)转换而来。
+
+
 **Rev-9**，是一個虛構的機器人殺手，在《[終結者：黑暗命運](https://zh.wikipedia.org/wiki/終結者：黑暗命運 "wikilink")》中是[終結者系列的第六代](https://zh.wikipedia.org/wiki/終結者系列 "wikilink")。\[1\]Rev-9由[蓋布瑞·盧納](../Page/蓋布瑞·盧納.md "wikilink")飾演。\[2\]\[3\]\[4\]
 
 ## 概述

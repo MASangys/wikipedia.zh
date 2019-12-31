@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Tab S4](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S4)转换而来。
+
+
 **三星Galaxy Tab S4**是由[三星電子](../Page/三星電子.md "wikilink")開發和生產的[平板電腦](../Page/平板電腦.md "wikilink")，\[1\]他是前一任產品三星[Galaxy Tab S3的替代品](../Page/三星Galaxy_Tab_S3_9.7.md "wikilink")，并恢復了三星Galaxy Tab系列16:10的屏幕比例。其與更便宜的三星Galaxy Tab A 10.5同時發佈。\[2\]
 
 ## 歷史

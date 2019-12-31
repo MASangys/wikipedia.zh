@@ -1,3 +1,6 @@
+> 本文内容由[安納托利亞象形文字 \(Unicode區段\)](https://zh.wikipedia.org/wiki/安納托利亞象形文字_\(Unicode區段\))转换而来。
+
+
 **安納托利亞象形文字**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了583個及符號。這種文字系統曾被用來書寫。
 
 ## 區段

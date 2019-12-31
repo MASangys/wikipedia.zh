@@ -1,3 +1,6 @@
+> 本文内容由[神諭法則 \(SING女團單曲\)](https://zh.wikipedia.org/wiki/神諭法則_\(SING女團單曲\))转换而来。
+
+
 〈**神諭法則**〉是中國女子音樂團體[SING女團](https://zh.wikipedia.org/wiki/SING女團 "wikilink")2018年第八張單曲音樂，也是[SING女團代言](https://zh.wikipedia.org/wiki/SING女團 "wikilink")「[方舟指令](https://zh.wikipedia.org/wiki/方舟指令 "wikilink")」手機遊戲的主題曲 ，於9月20日发行。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 曲目

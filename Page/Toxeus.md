@@ -1,3 +1,6 @@
+> 本文内容由[Toxeus](https://zh.wikipedia.org/wiki/Toxeus)转换而来。
+
+
 ******是[新蛛亞目](../Page/新蛛亞目.md "wikilink")[蠅虎科](../Page/蠅虎科.md "wikilink")之下一個[蜘蛛](../Page/蜘蛛.md "wikilink")的[属](../Page/属.md "wikilink")。其物種部分舊屬[蟻蛛屬](https://zh.wikipedia.org/wiki/蟻蛛屬 "wikilink")。
 
 ## 分佈

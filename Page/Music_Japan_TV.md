@@ -1,3 +1,6 @@
+> 本文内容由[Music Japan TV](https://zh.wikipedia.org/wiki/Music_Japan_TV)转换而来。
+
+
 **Music Japan TV**（），是[日本](../Page/日本.md "wikilink")一家[音乐](../Page/音乐.md "wikilink")电视台，简称**MJTV**，由Atoss International（）运营。开播于1997年1月1日，通过[SKY PerfecTV\!和](../Page/SKY_PerfecTV!.md "wikilink")[有线电视](../Page/有线电视.md "wikilink")向日本全国放送，节目以日本流行音乐（[J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink")）为主。
 
 ## 历史沿革

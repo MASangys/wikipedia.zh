@@ -1,3 +1,6 @@
+> 本文内容由[Monsoon Accessorize](https://zh.wikipedia.org/wiki/Monsoon_Accessorize)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Monsoon_Accessorize,_Oxford_Street,_London,_March_2016_01.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Accessorize,_Putney,_London.JPG "fig:缩略图"), 倫敦\]\] **Monsoon Accessorize** 是一家英國私人有限公司。 該公司擁有一個在倫敦註冊的地址，經營著兩家國際零售服裝連鎖店——[季候風和](https://zh.wikipedia.org/wiki/季候風_\(零售\) "wikilink")[配飾](https://zh.wikipedia.org/wiki/配飾_\(零售\) "wikilink").\[1\]
 
 在2014年，該司有大約1400家分店存在74個不同的國家。

@@ -1,3 +1,6 @@
+> 本文内容由[六氰合钴\(III\)酸铜\(I\)](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸铜\(I\))转换而来。
+
+
 **六氰合钴(III)酸铜(I)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Cu<sub>3</sub>\[Co(CN)<sub>6</sub>\]，它可由化学计量比的[六氟磷酸四乙腈合铜(I)](../Page/六氟磷酸四乙腈合铜\(I\).md "wikilink")和[六氰合钴(III)酸钾](../Page/六氰合钴\(III\)酸钾.md "wikilink")在固态研磨反应得到，反应结束时混合物的颜色由白色转变为浅蓝色，生成Cu<sub>3</sub>\[Co(CN)<sub>6</sub>\]和KCu\[Co(CN)<sub>6</sub>\]，需要经过分离得到纯化合物。\[1\]
 
 ## 参考文献

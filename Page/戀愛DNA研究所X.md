@@ -1,3 +1,6 @@
+> 本文内容由[戀愛DNA研究所X](https://zh.wikipedia.org/wiki/戀愛DNA研究所X)转换而来。
+
+
 《**戀愛DNA研究所X**》（，），為韓國[MBN電視台於](https://zh.wikipedia.org/wiki/MBN "wikilink")2019年推出的綜藝節目\[1\]，由[尹施允](../Page/尹施允.md "wikilink")、[BOOM](../Page/Boom_\(藝人\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")、[鄭素譚](https://zh.wikipedia.org/wiki/鄭素譚 "wikilink")、[申奉仙](../Page/申奉仙.md "wikilink")、等人\[2\]共同主持，節目主軸為幫助盡管表面上完美，但在戀愛方面卻存在著問題的主人公分析其戀愛DNA、提出客製化解決方案\[3\]\[4\]。
 
 ## 進行方式

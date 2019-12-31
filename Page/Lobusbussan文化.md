@@ -1,3 +1,6 @@
+> 本文内容由[Lobusbussan文化](https://zh.wikipedia.org/wiki/Lobusbussan文化)转换而来。
+
+
 **Lobusbussan文化**，又稱**雅美文化**，是位於[臺灣](../Page/臺灣.md "wikilink")東部外島[蘭嶼](../Page/蘭嶼.md "wikilink")與[綠島的](https://zh.wikipedia.org/wiki/綠島 "wikilink")[鐵器時代史前文化](https://zh.wikipedia.org/wiki/鐵器時代 "wikilink")\[1\]，最早於1930年代由[鹿野忠雄](../Page/鹿野忠雄.md "wikilink")發掘紀錄。此文化以出土與褐色素-{面}-的[夾砂陶為特色](https://zh.wikipedia.org/wiki/夾砂陶 "wikilink")，其中甕棺中有人骨出土，經[碳十四定年法年代為八世紀至九世紀](https://zh.wikipedia.org/wiki/碳十四定年法 "wikilink")，可能與[菲律賓最北方的](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[巴丹群島](../Page/巴丹群島.md "wikilink")與[巴布煙群島有關](https://zh.wikipedia.org/wiki/巴布煙群島 "wikilink")\[2\]。目前[蘭嶼](../Page/蘭嶼.md "wikilink")已有多處此文化的遺址出土，包括位於[紅頭村](../Page/紅頭村.md "wikilink")的**Lobusbussan遺址**（由美國人類學家發表）、**Rukavgiran遺址**（由德國人類學家[鮑克蘭發表](https://zh.wikipedia.org/wiki/鮑克蘭 "wikilink")）與位於[椰油村](../Page/椰油村.md "wikilink")[蘭嶼國中的](../Page/臺東縣立蘭嶼高級中學.md "wikilink")**Rusarusol**遺址（亦由鮑克蘭發表）等，另外[綠島的](https://zh.wikipedia.org/wiki/綠島 "wikilink")[中寮遺址也被認為屬於此文化](https://zh.wikipedia.org/wiki/中寮遺址 "wikilink")。
 
 ## 研究歷史

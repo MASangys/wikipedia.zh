@@ -1,3 +1,6 @@
+> 本文内容由[Auestadion](https://zh.wikipedia.org/wiki/Auestadion)转换而来。
+
+
 **Auestadion**是[德国](../Page/德国.md "wikilink")[卡塞尔Karlsaue公园附近的一个多用途](../Page/卡塞爾市.md "wikilink")[体育场](https://zh.wikipedia.org/wiki/體育場 "wikilink")。 它主要用于[足球](../Page/足球.md "wikilink")比赛，是[KSV Hessen Kassel的主场](../Page/黑森卡塞尔.md "wikilink")。体育场可容纳18000人。它于1953年8月23日开放，并在1983年至1993年和2006年至2008年之间进行了翻新。
 
 ## 参考文献

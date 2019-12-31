@@ -1,3 +1,6 @@
+> 本文内容由[HBO Max](https://zh.wikipedia.org/wiki/HBO_Max)转换而来。
+
+
 **HBO Max**是[華納媒體](../Page/華納媒體.md "wikilink")提供的[隨選視訊](../Page/隨選視訊.md "wikilink")服務平台，計劃於2020年正式運行。
 
 [HBO](../Page/HBO.md "wikilink")節目部總裁凱西·布洛伊斯（Casey Bloys）負責HBO Max節目運營，華納媒體創意總監凱文·凱利（Kevin Reilly）擔當HBO Max首席內容官\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[TAEYEON Concert PERSONA](https://zh.wikipedia.org/wiki/TAEYEON_Concert_PERSONA)转换而来。
+
+
 **《TAEYEON Concert "PERSONA"》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人第二次演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要

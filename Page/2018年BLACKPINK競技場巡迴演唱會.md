@@ -1,3 +1,6 @@
+> 本文内容由[2018年BLACKPINK競技場巡迴演唱會](https://zh.wikipedia.org/wiki/2018年BLACKPINK競技場巡迴演唱會)转换而来。
+
+
 **2018年BLACKPINK競技場巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")出道後的首場日本巡迴演唱會，以宣傳她們出道至今所發行過的音樂專輯，包括《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》、《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》等。巡演於2018年7月24日在日本[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")開始，官方定於2018年12月24日於日本[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")結束，總計8場演出。
 
 ## 背景

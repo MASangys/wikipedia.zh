@@ -1,3 +1,6 @@
+> 本文内容由[Coleco Gemini](https://zh.wikipedia.org/wiki/Coleco_Gemini)转换而来。
+
+
 是[雅達利2600](../Page/雅達利2600.md "wikilink")遊戲機的仿製品，[Coleco Industries, Inc.於](../Page/Coleco.md "wikilink")1883年生產\[1\]\[2\]。
 
 ## 參考文獻

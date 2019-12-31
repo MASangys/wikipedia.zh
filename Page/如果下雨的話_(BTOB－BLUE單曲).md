@@ -1,3 +1,6 @@
+> 本文内容由[如果下雨的話 \(BTOB－BLUE單曲\)](https://zh.wikipedia.org/wiki/如果下雨的話_\(BTOB－BLUE單曲\))转换而来。
+
+
 **如果下雨的話**（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")的第二張韓文單曲，於2018年8月2日正式發行。
 
 ## 背景

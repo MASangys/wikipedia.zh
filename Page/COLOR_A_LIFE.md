@@ -1,3 +1,6 @@
+> 本文内容由[COLOR A LIFE](https://zh.wikipedia.org/wiki/COLOR_A_LIFE)转换而来。
+
+
 《**COLOR A LIFE**》是[AAA的第](../Page/AAA_\(團體\).md "wikilink")12張原創專輯。於2018年8月29日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

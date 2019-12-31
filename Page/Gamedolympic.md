@@ -1,3 +1,6 @@
+> 本文内容由[Gamedolympic](https://zh.wikipedia.org/wiki/Gamedolympic)转换而来。
+
+
 《**Gamedolympic**》（）為[韓國OGN](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]於2018年推出的綜藝節目，節目主軸為[韓國國內最大藝人電競大賽](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[2\]\[3\]。2019年續辦第二屆。
 
 ## MC
@@ -42,7 +45,7 @@
 
   - [TRCNG](../Page/TRCNG.md "wikilink")
 
-  - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
+  - [THE BOYZ](../Page/THE_BOYZ.md "wikilink")
 
   - [MYTEEN](../Page/MYTEEN.md "wikilink")
 

@@ -1,3 +1,6 @@
+> 本文内容由[FEG PA-63半自動手槍](https://zh.wikipedia.org/wiki/FEG_PA-63半自動手槍)转换而来。
+
+
 **FÉG PA-63**是一款由[匈牙利](../Page/匈牙利.md "wikilink")工業集團（，[縮寫](../Page/縮寫.md "wikilink")：FEG）所研製和生產的[半自動手槍](../Page/半自動手槍.md "wikilink")，發射、和[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。
 
 ## 歷史

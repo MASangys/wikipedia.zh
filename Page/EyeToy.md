@@ -1,3 +1,6 @@
+> 本文内容由[EyeToy](https://zh.wikipedia.org/wiki/EyeToy)转换而来。
+
+
 **EyeToy**是一个[数码相机](../Page/数码相机.md "wikilink")设备，类似于[摄像头](../Page/摄像头.md "wikilink")，主要用于[PlayStation 2电子游戏机](../Page/PlayStation_2.md "wikilink")。PlayStation 2使用[计算机视觉](../Page/计算机视觉.md "wikilink")和[手势识别](../Page/手势识别.md "wikilink")技术来处理由EyeToy捕获的图像。让玩家能够使用EyeToy的[动作检测](../Page/游戏控制器.md "wikilink")，颜色识别，和通过内置[麦克风](../Page/麦克风.md "wikilink")进行声音识别等技术来进行游戏。于2003年10月发售。
 
 摄像头由[羅技](../Page/羅技.md "wikilink")生产（在日本，羅技叫做“Logicool”），后来较新生产的EyeToy改为由Namtai生产。EyeToy主要用于游玩索尼或其他游戏制造商制作的EyeToy游戏。EyeToy不支持直接作为[个人电脑](../Page/个人电脑.md "wikilink")的摄像头，但有爱好者制作了专用的[驱动程序](../Page/驱动程序.md "wikilink")。\[1\]EyeToy兼容[PlayStation 3电子游戏机](../Page/PlayStation_3.md "wikilink")，并支持在PlayStation 3上进行。\[2\]截至2008年11月6日，EyeToy在全球已售出1050万台。\[3\]

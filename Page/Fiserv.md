@@ -1,3 +1,6 @@
+> 本文内容由[Fiserv](https://zh.wikipedia.org/wiki/Fiserv)转换而来。
+
+
 **Fiserv, Inc.**（）是美国一家[金融数据服务公司](https://zh.wikipedia.org/wiki/金融数据 "wikilink")\[1\]，为各大银行、信用社和金融公司提供服务\[2\]。它是美国最大的金融数据服务公司之一\[3\]。
 
 该公司成立于1984年7月31日，由Sunshine State Systems和First Data Processing合并而成\[4\]，1986年上市\[5\]。

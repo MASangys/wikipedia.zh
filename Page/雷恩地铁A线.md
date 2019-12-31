@@ -1,3 +1,6 @@
+> 本文内容由[雷恩地铁A线](https://zh.wikipedia.org/wiki/雷恩地铁A线)转换而来。
+
+
 **雷恩地铁A线**（）是[法国西部城市](https://zh.wikipedia.org/wiki/法国 "wikilink")[雷恩的一条](https://zh.wikipedia.org/wiki/雷恩 "wikilink")[地铁线路](https://zh.wikipedia.org/wiki/地铁 "wikilink")，全长9.4公里（其中商业运行路段约8.56公里），于2002年3月开通。
 
 ## 历史

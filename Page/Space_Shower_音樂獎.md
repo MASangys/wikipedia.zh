@@ -1,3 +1,6 @@
+> 本文内容由[Space Shower 音樂獎](https://zh.wikipedia.org/wiki/Space_Shower_音樂獎)转换而来。
+
+
 **SPACE SHOWER音樂獎**（舊名稱：SPACE SHOWER音樂視頻獎，縮寫為SPACE SHOWER MVA）是[SPACE SHOWER電視臺贊助的年度音樂獎](https://zh.wikipedia.org/wiki/SPACE_SHOWER電視臺 "wikilink")。\[1\]
 
 于1996年開始頒獎\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[秘密情報局E中隊](https://zh.wikipedia.org/wiki/秘密情報局E中隊)转换而来。
+
+
 **E中隊**（英文：E Squadron）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[秘密情報局](../Page/秘密情報局.md "wikilink")所屬的[特種部隊](../Page/特種部隊.md "wikilink")，被認為是傳聞中的秘密部隊“增量”（The Increment）的現代版本\[1\]。
 
 ## 概述

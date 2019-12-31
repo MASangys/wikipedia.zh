@@ -1,3 +1,6 @@
+> 本文内容由[ReStructuredText](https://zh.wikipedia.org/wiki/ReStructuredText)转换而来。
+
+
 **reStructuredText**（**RST**、**ReST**或**reST**）是一种用于文本数据的文件格式，主要用于 Python 编程语言社区的技术文档。
 
 它是Python Doc-SIG（Documentation Special Interest Group）的 Docutils 项目的一部分，旨在为 Python 创建一组类似于 Java 的 Javadoc 或 Perl 的 Plain Old Documentation（pod）的工具。Docutils 可以从 Python 程序中提取注释和信息，并将它们格式化为各种形式的程序文档。\[1\]

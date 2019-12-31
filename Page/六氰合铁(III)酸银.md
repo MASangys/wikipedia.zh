@@ -1,3 +1,6 @@
+> 本文内容由[六氰合铁\(III\)酸银](https://zh.wikipedia.org/wiki/六氰合铁\(III\)酸银)转换而来。
+
+
 **六氰合铁(III)酸银**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Ag<sub>3</sub>\[Fe(CN)<sub>6</sub>\]。它可由电化学法\[1\]或复分解法\[2\]制备。这种橙色晶体具有[热胀冷缩](../Page/热胀冷缩.md "wikilink")性质。晶体的晶胞参数为a=7.008, c=7.225 A, V=307.3 A<sup>3</sup>，[空间群](../Page/空间群.md "wikilink")*P*1*m*。\[3\]
 
 ## 参考文献

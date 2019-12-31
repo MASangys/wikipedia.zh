@@ -1,3 +1,6 @@
+> 本文内容由[Wingdings](https://zh.wikipedia.org/wiki/Wingdings)转换而来。
+
+
 **Wingdings**是一系列[杂锦](../Page/Dingbat.md "wikilink")[字体](../Page/字体.md "wikilink")，可将字母呈现为各种符号，最初由[微软](../Page/微软.md "wikilink")于1990年开发，结合了由，和Al Bunker授权的[Lucida](../Page/Lucida.md "wikilink") Icon，Arrows，Stars的字形\[1\]。某些版本的字体版权字符串中提到部分版权归属于Type Solutions, Inc，它是用于[微调字体的工具的制造商](https://zh.wikipedia.org/wiki/字体微调 "wikilink")。
 
 一开始没有任何字符映射到[Unicode中](https://zh.wikipedia.org/wiki/Unicode "wikilink")；但是，Unicode 7.0开始加入了Wingdings和[Webdings](../Page/Webdings.md "wikilink")字体的许多符号\[2\]\[3\]。

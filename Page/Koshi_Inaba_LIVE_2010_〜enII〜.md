@@ -1,3 +1,6 @@
+> 本文内容由[Koshi Inaba LIVE 2010 〜enII〜](https://zh.wikipedia.org/wiki/Koshi_Inaba_LIVE_2010_〜enII〜)转换而来。
+
+
 《**Koshi Inaba LIVE 2010 〜enII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第2張影像作品。[2011年](../Page/2011年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")發售。
 
 ## 内容

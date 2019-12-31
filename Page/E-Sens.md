@@ -1,3 +1,6 @@
+> 本文内容由[E-Sens](https://zh.wikipedia.org/wiki/E-Sens)转换而来。
+
+
 **E-Sens**（，），本名**姜閔浩**，隸屬於Amoeba Culture。在2009年7月14日以迷你專輯《Supreme Team Guide To Excellent Adventure》正式出道。
 
 ## 作品

@@ -1,3 +1,6 @@
+> 本文内容由[Diaclone](https://zh.wikipedia.org/wiki/Diaclone)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Diaclone2015.jpg "fig:右") **Diaclone**(ダイアクロン、戴亞克隆)是日本[TAKARA TOMY於](../Page/多美_\(公司\).md "wikilink")1980年代推出的玩具系列，名字「Diaclone」中包含了「Dia（日語對「鑽石」的稱呼）」與「cyclone（旋風）」兩個字，分別代表了無堅不摧的友情與強而有力的夥伴。\[1\]深刻影響了後來變形金剛玩具的設計概念，可說是變形金剛的始祖前身。1987年後因為[變形金剛玩具的大紅](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")，且同質性高，而逐漸被取代消失。直到2015年TAKARA宣布戴亞克隆系列復活重新推出，但定位為價格較高、作工精細的的成年人玩具收藏線。
 
 ## 歷史

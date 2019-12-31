@@ -1,3 +1,6 @@
+> 本文内容由[TAEYEON JAPAN TOUR 2019 \~Signal\~](https://zh.wikipedia.org/wiki/TAEYEON_JAPAN_TOUR_2019_\~Signal\~)转换而来。
+
+
 ''' 《TAEYEON JAPAN TOUR 2019 \~Signal\~》 '''是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍首場日本個人演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要

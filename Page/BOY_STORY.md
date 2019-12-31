@@ -1,3 +1,6 @@
+> 本文内容由[BOY STORY](https://zh.wikipedia.org/wiki/BOY_STORY)转换而来。
+
+
 **BOY STORY**（韓語**：보이스토리**)是由[JYP娛樂](../Page/JYP娛樂.md "wikilink")中國子公司北京傑偉品文化與[騰訊音樂娛樂集團](https://zh.wikipedia.org/wiki/騰訊 "wikilink")（TME)共同合資創辦的新聲娛樂（NCC Entertainment）於2018年在中國推出的首組6人 嘻哈男團。出道平均年齡12歲，亦是當時[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下出道均齡最小的男團。\[1\]\[2\]
 
 6位成員皆自2016年在中國製作的公路選秀節目《怪蜀黍來了》選拔而出，後赴韓培訓。自2017年9月起，以「Real！project」特別企劃陸續推出4首單曲為出道暖身。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Tabitha Babbitt](https://zh.wikipedia.org/wiki/Draft:Tabitha_Babbitt)转换而来。
+
+
 **Sarah "Tabitha" Babbitt** (1779年12月9日 – 1853年12月10日December 9, 1779 – December 10, 1853) 是一位早期的美國震教徒（Shaker），據稱是工具製造商和發明家。振動器使她相信她的發明包括圓鋸，紡車頭和假牙。她是哈佛搖床社區的成員。was an early American [震教徒](https://zh.wikipedia.org/wiki/震教徒 "wikilink")([Shaker](https://zh.wikipedia.org/wiki/震教徒 "wikilink")) purported to be a  and inventor. Inventions credited to her by the Shakers include the , the spinning wheel head, and false teeth. She was a member of the .
 
 ## Personal life

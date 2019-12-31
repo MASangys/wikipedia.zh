@@ -1,3 +1,6 @@
+> 本文内容由[GAFA](https://zh.wikipedia.org/wiki/GAFA)转换而来。
+
+
 **GAFA**是由[埃里克·施密特](../Page/埃里克·施密特.md "wikilink")、、等人提出的概念，用以做為[Google](../Page/Google.md "wikilink")、[亞馬遜](../Page/亞馬遜公司.md "wikilink")（Amazon）、[Facebook](../Page/Facebook.md "wikilink")、[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（Apple）等4家[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科技業巨擘的合稱](https://zh.wikipedia.org/wiki/科技公司 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 語源

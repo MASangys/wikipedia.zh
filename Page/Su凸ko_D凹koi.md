@@ -1,3 +1,6 @@
+> 本文内容由[Su凸ko D凹koi](https://zh.wikipedia.org/wiki/Su凸ko_D凹koi)转换而来。
+
+
 **Su凸ko D凹koi**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****），日本的[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")。
 
 ## 出道過程

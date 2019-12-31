@@ -1,3 +1,6 @@
+> 本文内容由[PERCENT](https://zh.wikipedia.org/wiki/PERCENT)转换而来。
+
+
 **《PERCENT》**，是韓國女子團體[Apink](../Page/Apink.md "wikilink")的第八張迷你專輯，由[Plan A娛樂製作](../Page/Plan_A娛樂.md "wikilink")，於2019年1月7日下午6時推出\[1\]。
 
 ## 日程

@@ -1,3 +1,6 @@
+> 本文内容由[Pi 拍錢包](https://zh.wikipedia.org/wiki/Pi_拍錢包)转换而来。
+
+
 **Pi 拍錢包**，是由網路家庭 PChome online 子公司 - 拍付國際資訊股份有限公司（Pi Mobile Technology Inc.）所提供的行動支付平台。
 
 ## 歷程

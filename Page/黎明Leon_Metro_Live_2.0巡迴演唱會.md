@@ -1,3 +1,6 @@
+> 本文内容由[黎明Leon Metro Live 2.0巡迴演唱會](https://zh.wikipedia.org/wiki/黎明Leon_Metro_Live_2.0巡迴演唱會)转换而来。
+
+
 **黎明Leon Metro Live 2.0巡迴演唱會**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2019年5月18日開始進行，演出地區包括[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[佛山](https://zh.wikipedia.org/wiki/佛山 "wikilink")、[台北及](https://zh.wikipedia.org/wiki/台北 "wikilink")[肇慶](https://zh.wikipedia.org/wiki/肇慶 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 簡介

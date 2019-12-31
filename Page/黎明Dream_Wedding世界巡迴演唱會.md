@@ -1,3 +1,6 @@
+> 本文内容由[黎明Dream Wedding世界巡迴演唱會](https://zh.wikipedia.org/wiki/黎明Dream_Wedding世界巡迴演唱會)转换而来。
+
+
 **黎明Dream Wedding世界巡迴演唱會**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2009至2010年間在香港、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[佛山](https://zh.wikipedia.org/wiki/佛山 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[澳門](../Page/澳門.md "wikilink")、[大西洋城](../Page/大西洋城.md "wikilink")及[拉斯維加斯舉行](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，合共演出十場。
 
 ## 製作概念

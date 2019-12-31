@@ -1,3 +1,6 @@
+> 本文内容由[Requests \(软件\)](https://zh.wikipedia.org/wiki/Requests_\(软件\))转换而来。
+
+
 **Requests**是一个[Python](../Page/Python.md "wikilink") HTTP库，在[Apache 2许可证下发布](../Page/Apache许可证.md "wikilink")。该项目的目标是使HTTP请求更简单，更人性化。当前版本是2.19.1\[1\]
 
 ## 示例代码

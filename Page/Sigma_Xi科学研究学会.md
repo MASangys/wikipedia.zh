@@ -1,3 +1,6 @@
+> 本文内容由[Sigma Xi科学研究学会](https://zh.wikipedia.org/wiki/Sigma_Xi科学研究学会)转换而来。
+
+
 **Sigma Xi科学研究学会**（）是一个位于[美国](../Page/美国.md "wikilink")的[非营利性质的科学家和工程师荣誉学会](https://zh.wikipedia.org/wiki/非营利 "wikilink")，由一名初级教员和一些研究生于1886年在[康奈尔大学创立](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")。\[1\]拥有一定影响力的研究成果或者发展潜力较大的人士可申请入会。
 
 ## 威廉·普罗克特奖

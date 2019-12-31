@@ -1,3 +1,6 @@
+> 本文内容由[El Sartorio](https://zh.wikipedia.org/wiki/El_Sartorio)转换而来。
+
+
 ，是现存最早的[色情电影之一](https://zh.wikipedia.org/wiki/色情电影 "wikilink")。据推测，这部电影于1907年摄于[阿根廷](../Page/阿根廷.md "wikilink")，且可能是影史上首次有镜头对生殖器进行特写。另有人认为本片于20世纪30年代摄于[古巴](../Page/古巴.md "wikilink")\[1\]。
 
 ## 剧情

@@ -1,3 +1,6 @@
+> 本文内容由[FAITH音乐娱乐](https://zh.wikipedia.org/wiki/FAITH音乐娱乐)转换而来。
+
+
 **FAITH音乐娱乐股份公司**（，）是总部设在[日本](../Page/日本.md "wikilink")[东京都](../Page/東京都.md "wikilink")[涩谷区的](../Page/澀谷區.md "wikilink")[音乐](../Page/音乐.md "wikilink")[经济公司](../Page/經紀公司.md "wikilink")。以前的名称是“FME”。
 
 由FAITH A and R股份公司、FAITH Management股份公司、FAITH Records股份公司和FAITH School股份公司4家在2002年8月合并成为FME股份公司。随后改名FAITH音乐娱乐股份公司。公司主要业务包括，[艺人](../Page/艺人.md "wikilink")的经济管理、音乐制作、[音乐版权管理等](../Page/音樂出版社.md "wikilink")。

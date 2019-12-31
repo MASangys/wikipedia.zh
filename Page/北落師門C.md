@@ -1,3 +1,6 @@
+> 本文内容由[北落師門C](https://zh.wikipedia.org/wiki/北落師門C)转换而来。
+
+
 **北落師門 C**，或原本的名稱 **LP 876-10**，是[北落師門系統遙遠的第三顆恆星](https://zh.wikipedia.org/wiki/北落師門 "wikilink")。它距離北落師門大約5度，也就大致是[螺旋星雲](../Page/螺旋星雲.md "wikilink")和北落師門一半的距離。它距離北落師門2.5光年（0.77[秒差距](../Page/秒差距.md "wikilink")），距離[北落師門B](../Page/南魚座TW.md "wikilink")3.2光年（0.987秒差距）；整個系統距離我們的[太陽系大約是](https://zh.wikipedia.org/wiki/太陽系 "wikilink")25光年（7.7秒差距）。它最初被當成一顆單獨的[紅矮星](../Page/紅矮星.md "wikilink")編入星表，直到2013年10月，在Eric Mamajek宣布了它的距離、速度和色-光位置，才知道它是北落師門系統的一部分。 由於它位於[寶瓶座](../Page/寶瓶座.md "wikilink")，而北落師門位於[南魚座](../Page/南魚座.md "wikilink")，所以在最初編目時，才會被認為與北落師門沒有關係\[1\]。
 
 ## 發現和觀測

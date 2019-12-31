@@ -1,3 +1,6 @@
+> 本文内容由[PDS 70](https://zh.wikipedia.org/wiki/PDS_70)转换而来。
+
+
 **PDS 70**，即**半人馬座V1032**（**V1032 Centauri**），是一顆在天球上位於[半人馬座的低質量](https://zh.wikipedia.org/wiki/半人馬座 "wikilink")[金牛T星](../Page/金牛T星.md "wikilink")，距離地球約370光年，質量為\[1\]，年齡約1000萬年\[2\]。PDS 70的周圍存在[原行星盤](../Page/原行星盤.md "wikilink")，並且盤內有一顆命名為PDS 70b的新生[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")。該行星已成功成像，是第一個確認的新生系外行星的影像\[3\]\[4\]\[5\]。
 
 ## 原行星盤

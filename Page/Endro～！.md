@@ -1,3 +1,6 @@
+> 本文内容由[Endro～！](https://zh.wikipedia.org/wiki/Endro～！)转换而来。
+
+
 是由[Studio五组製作的原创作品](https://zh.wikipedia.org/wiki/Studio五组 "wikilink")。漫画版於2018年8月至2019年2月在Hobby Japan旗下杂志《Comic Fire》上连载\[1\]，全12集[電視動畫版於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2019年1月至3月播放。
 
 ## 剧情简介

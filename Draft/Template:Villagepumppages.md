@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:Villagepumppages](https://zh.wikipedia.org/wiki/Draft:Template:Villagepumppages)转换而来。
+
+
 <includeonly>__NEWSECTIONLINK__</includeonly>{{\#ifeq:{{\#titleparts:|-1|1}}|header|}}
 
 <table>

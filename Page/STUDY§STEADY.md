@@ -1,3 +1,6 @@
+> 本文内容由[STUDY§STEADY](https://zh.wikipedia.org/wiki/STUDY§STEADY)转换而来。
+
+
 是[MARMALADE](../Page/MARMALADE.md "wikilink")在2019年9月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

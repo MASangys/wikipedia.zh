@@ -1,3 +1,6 @@
+> 本文内容由[模块:Clade](https://zh.wikipedia.org/wiki/模块:Clade)转换而来。
+
+
 \--[NOTE: this module contains functions for generating the table structure of the clade tree: The main function is called by the template using the {{invoke}} instruction; the three main functions are: p.main(frame) - opens and closes table, loops through the children of node, main is invoked once and controls the rest, calling ... p.addTaxon(childNumber, nodeLeaf) - the nuts and bolts; code dealing with each child node p.addLabel(childNumber) - adds the label text now used templatestyles](https://zh.wikipedia.org/wiki/NOTE:_this_module_contains_functions_for_generating_the_table_structure_of_the_clade_tree:_The_main_function_is_called_by_the_template_using_the_{{invoke}}_instruction;_the_three_main_functions_are:_p.main\(frame\)_-_opens_and_closes_table,_loops_through_the_children_of_node,_main_is_invoked_once_and_controls_the_rest,_calling_..._p.addTaxon\(childNumber,_nodeLeaf\)_-_the_nuts_and_bolts;_code_dealing_with_each_child_node_p.addLabel\(childNumber\)_-_adds_the_label_text_now_used_templatestyles "wikilink")
 
 local p = {}

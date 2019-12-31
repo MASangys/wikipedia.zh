@@ -1,3 +1,6 @@
+> 本文内容由[紅米Note 8](https://zh.wikipedia.org/wiki/紅米Note_8)转换而来。
+
+
 **Redmi Note 8**是小米科技旗下的子品牌[Redmi](../Page/Redmi.md "wikilink")（原红米手机系列）于2019年8月29日在北京发布的智能手机系列，包含Redmi Note 8和Redmi Note 8 Pro两款机型。为Redmi Note系列的第7代迭代机型系列，同时也是红米手机系列升级为子品牌以后的第二代迭代机型系列。
 
 由于Redmi Note 8和Redmi Note 8 Pro在外观、核心参数和元器件等方面存在巨大差异，本词条仅介绍Redmi Note 8标准版本。高配版本请参见[Redmi Note 8 Pro](https://zh.wikipedia.org/wiki/Redmi_Note_8_Pro "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[IPhone OS 2](https://zh.wikipedia.org/wiki/IPhone_OS_2)转换而来。
+
+
 **iPhone OS 2**是Apple Inc.開發的[iOS](../Page/IOS.md "wikilink")[移動操作系統的](../Page/行動作業系統.md "wikilink")[第二個主要版本](../Page/IOS版本历史.md "wikilink")，是iPhone OS 1的繼承者。它是第一個通過[App Store支持第三方應用程序的iOS版本](../Page/App_Store_\(iOS\).md "wikilink")。 iPhone OS 2.2.1是iPhone OS 2的最終版本。它於2009年6月17日由[iPhone OS 3繼承](../Page/IPhone_OS_3.md "wikilink")。
 
 隨著[iPhone 3G的發布](../Page/IPhone_3G.md "wikilink")，iPhone OS 2.0於2008年7月11日上市。 運行1.x的設備可升級到此版本。 此版本的iOS引入了[App Store](../Page/App_Store_\(iOS\).md "wikilink")，使第三方應用程序可用於[iPhone和](../Page/IPhone.md "wikilink")[iPod Touch](../Page/IPod_touch.md "wikilink")。 在iPhone OS 2.0公開發布之前，Apple舉行了一場主題演講，向開發者宣布[iPhone OS軟件開發套件](../Page/IOS软件开发工具包.md "wikilink")。

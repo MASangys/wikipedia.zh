@@ -1,3 +1,6 @@
+> 本文内容由[Qeelin](https://zh.wikipedia.org/wiki/Qeelin)转换而来。
+
+
 **Qeelin** -{zh-hans:是一家高級; zh-tw:是一家高級}-珠-{zh-hans:寶; zh-tw:寶}-公司-{zh-hans:，; zh-tw:，}-公司品牌以中華傳統文化圖騰為設計精髓，創造出跨越國界、饒富寓意，並適合日常佩戴的當代臻品。Qeelin -{zh-hans:取名; zh-tw:取名}-自 Qilin，即-{zh-hans:「; zh-tw:「}-[麒-{zh-hans:麟; zh-tw:麟}-](../Page/麒麟.md "wikilink")-{zh-hans:」; zh-tw:」}-，一種吉祥的中國神話動物，也是愛的象徵\[1\]。
 
 Qeelin 由陳瑞麟 (Dennis Chan) 和 Guillaume Brochard 於 2004 年創立。公司總部設於[-{zh-hans:香港; zh-tw:香港}-](../Page/香港.md "wikilink")-{zh-hans:，母; zh-tw:，母}-公司-{zh-hans:為; zh-tw:為}--{zh-hans:法國; zh-tw:法國}-奢侈品集團[-{zh-hans:開雲集團; zh-tw:開雲集團}-](https://zh.wikipedia.org/wiki/開雲集團 "wikilink")-{zh-hans:。; zh-tw:。}-

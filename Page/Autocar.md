@@ -1,3 +1,6 @@
+> 本文内容由[Autocar](https://zh.wikipedia.org/wiki/Autocar)转换而来。
+
+
 《**Autocar**》（原名The Autocar）是英國的一份汽車雜誌，創刊於1895年\[1\]，常自稱世界上最早的汽車雜誌\[2\]。
 
 ## 歷史

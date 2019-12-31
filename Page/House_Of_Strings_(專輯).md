@@ -1,3 +1,6 @@
+> 本文内容由[House Of Strings \(專輯\)](https://zh.wikipedia.org/wiki/House_Of_Strings_\(專輯\))转换而来。
+
+
 《**House Of Strings**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")的第7張[器樂專輯](https://zh.wikipedia.org/wiki/器樂 "wikilink")。於[2004年](../Page/2004年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink")發售。
 
 ## 概要

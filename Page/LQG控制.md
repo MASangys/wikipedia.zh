@@ -1,3 +1,6 @@
+> 本文内容由[LQG控制](https://zh.wikipedia.org/wiki/LQG控制)转换而来。
+
+
 **LQG控制**（linear–quadratic–Gaussian control）的全名是**線性二次高斯控制**，是[控制理论](../Page/控制理论.md "wikilink")中的基礎[最优控制問題之一](https://zh.wikipedia.org/wiki/最优控制 "wikilink")。此問題和存在[加性高斯白噪声](../Page/加性高斯白噪声.md "wikilink")的[線性系統](../Page/線性系統.md "wikilink")有關。此問題是要找到最佳的輸出回授律，可以讓二次[費用函數的期望值最小化](../Page/最优化.md "wikilink")。其輸出量測假設受到高斯噪声的影響，其初值也是高斯隨機向量。
 
 在「使用線性控制律」的最佳控制假設下，可以用completion-of-squares論述進行推導\[1\]。此控制律即為**LQG控制器**，就是[卡尔曼滤波](../Page/卡尔曼滤波.md "wikilink")（線性二次狀態估測器，LQE）和[LQR控制器](../Page/LQR控制器.md "wikilink")的結合。[分離原理](../Page/分離原理.md "wikilink")指出狀態估測器和狀態回授可以獨立設計。LQG控制可以應用在[线性时不变系统及线性](../Page/线性时不变系统理论.md "wikilink")[時變系統](../Page/時變系統.md "wikilink")，產生容易計算以及實現的線性動態回授控制器。LQG控制器本身是一個類似其受控系統的動態系統，兩者有相同的維度。

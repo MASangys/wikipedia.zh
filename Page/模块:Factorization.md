@@ -1,3 +1,6 @@
+> 本文内容由[模块:Factorization](https://zh.wikipedia.org/wiki/模块:Factorization)转换而来。
+
+
 local p = {table_max=7919,max_index=1000,limit=35184372088831}
 
 function p.factor(frame)

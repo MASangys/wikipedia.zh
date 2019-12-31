@@ -1,3 +1,6 @@
+> 本文内容由[The Numbers](https://zh.wikipedia.org/wiki/The_Numbers)转换而来。
+
+
 **The Numbers**是一個電影數據網站，以系統的[算法](../Page/算法.md "wikilink")追蹤[票房收入](https://zh.wikipedia.org/wiki/票房 "wikilink")。該網站的公司還開拓研究服務並預測電影的可能收入\[1\]\[2\]。
 
 該網站由企業家布魯斯·納許（Bruce Nash）於1997年推出\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]。

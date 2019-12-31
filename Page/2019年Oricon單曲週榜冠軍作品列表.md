@@ -1,3 +1,6 @@
+> 本文内容由[2019年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon單曲週榜冠軍作品列表)转换而来。
+
+
 **2019年Oricon單曲週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲週榜冠軍的[單曲作品及其資料](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 冠軍單曲列表

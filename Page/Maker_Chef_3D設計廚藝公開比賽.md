@@ -1,3 +1,6 @@
+> 本文内容由[Maker Chef 3D設計廚藝公開比賽](https://zh.wikipedia.org/wiki/Maker_Chef_3D設計廚藝公開比賽)转换而来。
+
+
 **Maker Chef 3D設計廚藝公開比賽**（簡稱：Maker Chef）是由主辦單位WEWALab「電創坊」於2017年在香港透過創客活動平台Maker Faire Hong Kong舉辦全球首個結合傳統烹飪與3D打印技術的比賽\[1\]。目前已舉辦第二屆比賽，設有學界及公開組別，以意念設計、電腦3D繪圖、打印及後工序處理等方面評分\[2\]。
 
 ## 理念

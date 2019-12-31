@@ -1,3 +1,6 @@
+> 本文内容由[GNU可移植线程库](https://zh.wikipedia.org/wiki/GNU可移植线程库)转换而来。
+
+
 **GNU Pth**（Portable Threads）是用于[UNIX](../Page/UNIX.md "wikilink")平台的基于[POSIX](https://zh.wikipedia.org/wiki/POSIX "wikilink")/[ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink")-[C的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[用户空间](https://zh.wikipedia.org/wiki/用户空间 "wikilink")[线程](../Page/线程.md "wikilink")库\[1\]，它为[多线程应用提供基于优先级的调度](../Page/线程.md "wikilink")。GNU Pth以高度[可移植性为目标](https://zh.wikipedia.org/wiki/可移植性 "wikilink")。它是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")\[2\]。
 
 Pth还提供模仿[POSIX线程](../Page/POSIX线程.md "wikilink")的[API用于后向兼容](../Page/应用程序接口.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Koshi Inaba LIVE 2014 〜en-ball〜](https://zh.wikipedia.org/wiki/Koshi_Inaba_LIVE_2014_〜en-ball〜)转换而来。
+
+
 《**Koshi Inaba LIVE 2014 〜en-ball〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第3張影像作品。[2015年](../Page/2015年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")發售。
 
 ## 内容

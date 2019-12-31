@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Blockedtext-partial/zh-hans](https://zh.wikipedia.org/wiki/MediaWiki:Blockedtext-partial/zh-hans)转换而来。
+
+
 __NOEDITSECTION____NOTOC__
 
 <table>

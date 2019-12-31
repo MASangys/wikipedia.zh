@@ -1,3 +1,6 @@
+> 本文内容由[SAiNT SEX](https://zh.wikipedia.org/wiki/SAiNT_SEX)转换而来。
+
+
 **SAiNT SEX**是日本的音樂團體、女子偶像組合、是[WACK](../Page/WACK.md "wikilink")的洗牌團體\[1\]\[2\]\[3\]。
 2017年結成。隸屬於WACK。唱片公司為Tower Records。
 

@@ -1,3 +1,6 @@
+> 本文内容由[YuNi](https://zh.wikipedia.org/wiki/YuNi)转换而来。
+
+
 **YuNi**，是以[YouTube](../Page/YouTube.md "wikilink")为中心展开活动的一位[日本](../Page/日本.md "wikilink")[虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")\[1\]。音乐活动时所属的[唱片公司](../Page/唱片公司.md "wikilink")为[yunion.wave](https://zh.wikipedia.org/wiki/yunion.wave "wikilink")，并委托进行流通。
 
 ## 简介

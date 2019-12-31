@@ -1,3 +1,6 @@
+> 本文内容由[Ms.Selena](https://zh.wikipedia.org/wiki/Ms.Selena)转换而来。
+
+
 **Ms.Selena**（1987年11月16日－），本名**闕詩芹**，觀眾通常以“**Selena**”或“**S**”稱呼之，為[臺灣](../Page/臺灣.md "wikilink")知名[YouTuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")、[網路紅人](../Page/網絡紅人.md "wikilink") 。2017年9月起，以“Work Life Balance”為主題，在[YouTube](../Page/YouTube.md "wikilink")上傳生活分享、生活知識等影片。2018年起，正式將頻道主題定位為「說書、生活、理財」，上傳[投資](../Page/投资.md "wikilink")、[理財](../Page/个人理财.md "wikilink")、說書、勵志、個人成長、生活分享等內容影片，影片特色為會在影片開頭時呈現一句勵志語句與觀眾共勉。2019年8月31日，與於BNI早餐會認識，交往兩年且相差四歲的男友結婚。\[1\]2019年10月達成[YouTube](../Page/YouTube.md "wikilink")頻道10萬訂閱。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[雅可比2NT](https://zh.wikipedia.org/wiki/雅可比2NT)转换而来。
+
+
 **雅可比2NT**是桥牌中的一种约定叫。由美国桥牌家[奥斯瓦尔德·雅可比发明](https://zh.wikipedia.org/wiki/奥斯瓦尔德·雅可比 "wikilink")。\[1\] 在同伴开叫1H（1）或1S（1）后，应叫方跳叫2NT表示以下含义：
 
   - 具有开叫实力（一般是12大牌点以上或者满足[“20法则”](https://zh.wikipedia.org/wiki/“20法则” "wikilink")），并且

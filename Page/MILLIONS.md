@@ -1,3 +1,6 @@
+> 本文内容由[MILLIONS](https://zh.wikipedia.org/wiki/MILLIONS)转换而来。
+
+
 《**MILLIONS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[WINNER](../Page/WINNER.md "wikilink") 自四月推出正規專輯《[EVERYD4Y](../Page/EVERYD4Y.md "wikilink")》後，時隔滿八個月回歸的新作品。\[1\]\[2\]
 
 ## 曲目

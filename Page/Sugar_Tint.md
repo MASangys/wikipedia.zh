@@ -1,3 +1,6 @@
+> 本文内容由[Sugar Tint](https://zh.wikipedia.org/wiki/Sugar_Tint)转换而来。
+
+
 **Sugar Tint**（），是[韓國Ramah娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年推出的五人女子組合，成員包括Nahyeon、Yuna、Ahra、Seunga及Yeonsu\[1\]。
 
 ## 成員資料

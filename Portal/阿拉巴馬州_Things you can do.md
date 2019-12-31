@@ -1,3 +1,6 @@
+> 本文内容由[Portal:阿拉巴馬州/Things you can do](https://zh.wikipedia.org/wiki/Portal:阿拉巴馬州/Things_you_can_do)转换而来。
+
+
 
 
 <div style="font-size: 100%">

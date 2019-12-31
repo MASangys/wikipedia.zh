@@ -1,3 +1,6 @@
+> 本文内容由[Youla-Kucera參數化](https://zh.wikipedia.org/wiki/Youla-Kucera參數化)转换而来。
+
+
 **Youla-Kucera参數化**（Youla–Kučera parametrization）也稱為**Youla参數化**（Youla parametrization）或是**YK参數化**，是[控制理论](../Page/控制理论.md "wikilink")中一個的公式，描述所有針對一受控體P的所有可能穩定回授控制器，表示為單一參數Q的函數。
 
 ## 細節

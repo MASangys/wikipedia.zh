@@ -1,3 +1,6 @@
+> 本文内容由[Zepp](https://zh.wikipedia.org/wiki/Zepp)转换而来。
+
+
 **Zepp**是[日本](../Page/日本.md "wikilink")的连锁[LiveHouse品牌](https://zh.wikipedia.org/wiki/LiveHouse "wikilink")，由Zepp音乐厅网络股份有限公司（）开发及运营，该公司为[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的全资子公司。
 
 ## 简介

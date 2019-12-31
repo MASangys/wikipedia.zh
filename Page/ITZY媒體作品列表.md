@@ -1,3 +1,6 @@
+> 本文内容由[ITZY媒體作品列表](https://zh.wikipedia.org/wiki/ITZY媒體作品列表)转换而来。
+
+
 **ITZY媒體作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[ITZY](../Page/ITZY.md "wikilink")歷年參與各類電視節目、固定節目及電視劇。
 
 ## 影視作品

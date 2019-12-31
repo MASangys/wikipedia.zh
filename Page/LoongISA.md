@@ -1,3 +1,6 @@
+> 本文内容由[LoongISA](https://zh.wikipedia.org/wiki/LoongISA)转换而来。
+
+
 **LoongISA**（简称LISA）是龙芯中科注册的自主CPU指令集架构（由MIPS指令集拓展而来，采用MIPS的指令集格式）。LoongISA指令集架构包括MIPS Release 2全套指令集和MIPS Release 5中的MSA向量指令模块、DSP指令模块和VZ虚拟化指令模块，以及其他一系列龙芯中科自主扩展的指令集，例如LoongMMI、LoongEXT、LoongVZ、LoongBT等。
 
 ## 版本

@@ -1,3 +1,6 @@
+> 本文内容由[國際音標擴展 \(Unicode區段\)](https://zh.wikipedia.org/wiki/國際音標擴展_\(Unicode區段\))转换而来。
+
+
 **國際音標擴展**（[Unicode官方名稱](https://zh.wikipedia.org/wiki/Unicode "wikilink")：IPA Extensions）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")（0250–02AF），主要收錄了不在、、、的[國際音標](../Page/國際音標.md "wikilink")（IPA）字符，其中包括正在使用中的、已棄用的、曾提議使用的國際音標（IPA）符號，還有數個非IPA的語音符號。同樣用於語音學的其他字符，如[顎音化](../Page/顎音化.md "wikilink")符號「」，則被收錄在[音標擴展](../Page/音標擴展_\(Unicode區段\).md "wikilink")（1D00–1D7F）和[音標擴展補充](../Page/音標擴展補充_\(Unicode區段\).md "wikilink")（1D80–1DBF）。[變音符號可以在](https://zh.wikipedia.org/wiki/變音符號 "wikilink")（02B0–02FF）和[結合附加符號](https://zh.wikipedia.org/wiki/結合附加符號 "wikilink")（0300–036F）等區段找到。
 
 隨著Unicode能夠完整地標示出所有音標， 基於[ASCII](../Page/ASCII.md "wikilink")開發的音標系統（如[X-SAMPA](../Page/X-SAMPA.md "wikilink")或[Kirshenbaum等](https://zh.wikipedia.org/wiki/Kirshenbaum "wikilink")）因此逐漸被替代。\[1\]

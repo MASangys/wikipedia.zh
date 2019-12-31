@@ -1,3 +1,6 @@
+> 本文内容由[分枝DNA](https://zh.wikipedia.org/wiki/分枝DNA)转换而来。
+
+
 **分枝DNA訊號放大技術**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**branched DNA**，[縮寫](../Page/縮寫.md "wikilink")：**b-DNA**），是一種訊號放大技術，可用於檢測DNA及RNA，不同於一般是用[PCR擴增目標序列](../Page/聚合酶链式反应.md "wikilink")，b-DNA並沒有擴增序列，也因此不易受汙染產生的非專一性序列影響，也比PCR更能忍受目標序列變異造成的影響 ，目前常用於監控HIV及HCV病毒載量\[1\]\[2\]。
 
 ## 原理

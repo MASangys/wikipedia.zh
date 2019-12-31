@@ -1,3 +1,6 @@
+> 本文内容由[Girl Crush](https://zh.wikipedia.org/wiki/Girl_Crush)转换而来。
+
+
 **Girl Crush**（），是[韓國DAM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人女子組合，成員包括[Bomi](https://zh.wikipedia.org/wiki/Bomi "wikilink")、Zia、Taeri及Yo-na\[1\]。2019年4月8日發行首張數位單曲「Memories」。
 
 ## 成員資料

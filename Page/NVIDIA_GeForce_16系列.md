@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 16系列](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_16系列)转换而来。
+
+
 **NVIDIA GeForce 16系列**是[英伟达](../Page/英伟达.md "wikilink")研发並推出的图形处理器系列，被用以取代[NVIDIA GeForce 10系列中的GTX](../Page/NVIDIA_GeForce_10系列.md "wikilink") 1060（Ti）和GTX 1070(Ti)等中端圖形處理器。系列首款产品GTX 1660 Ti于2019年2月发售，\[1\]第二款产品GTX 1660于2019年3月发售，\[2\]第三款产品GTX 1650于2019年4月发售。\[3\]
 
 ## 架構特性

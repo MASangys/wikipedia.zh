@@ -1,3 +1,6 @@
+> 本文内容由[Raising Cane\'s Chicken Fingers](https://zh.wikipedia.org/wiki/Raising_Cane\'s_Chicken_Fingers)转换而来。
+
+
 **Raising Cane's Chicken Fingers** (一般會簡稱為**Cane's**) 是一間總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[路易西安納州](https://zh.wikipedia.org/wiki/路易西安納州 "wikilink")[巴頓魯治的美式連鎖速食店](https://zh.wikipedia.org/wiki/巴頓魯治_\(路易西安納州\) "wikilink")，於1996年8月26日創立，以炸雞為主打菜色。雖然總部至今仍位於[路易西安納州](https://zh.wikipedia.org/wiki/路易西安納州 "wikilink")，2009年Raising Cane's在[德州Plano開設了公司的第二支援辦公總部](https://zh.wikipedia.org/wiki/德州 "wikilink")。
 
 ## 歷史

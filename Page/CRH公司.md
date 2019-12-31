@@ -1,3 +1,6 @@
+> 本文内容由[CRH公司](https://zh.wikipedia.org/wiki/CRH公司)转换而来。
+
+
 **CRH公司**（CRH plc）是一家愛爾蘭[建材公司](https://zh.wikipedia.org/wiki/建材 "wikilink")，為愛爾蘭最大的公司\[1\]，此外也在[倫敦證券交易所](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")、[紐約證券交易所上市](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")。
 
 ## 歷史

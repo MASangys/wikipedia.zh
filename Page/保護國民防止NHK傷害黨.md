@@ -1,3 +1,6 @@
+> 本文内容由[保護國民防止NHK傷害黨](https://zh.wikipedia.org/wiki/保護國民防止NHK傷害黨)转换而来。
+
+
 **保護國民防止NHK傷害黨**（）\[1\]，又译**-{zh:保护人民免受NHK侵害党; zh-hant:保護國民防止NHK侵害黨; zh-cn:保护国民防止NHK伤害党}-**，簡稱**N國黨**（）或**N國**，是[日本](../Page/日本.md "wikilink")的一個[政党](../Page/日本政黨列表.md "wikilink")，創立於2013年。該黨的主要政治主張是：修改、廢除[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）強制向民眾徵收[收視費的制度](../Page/電視授權.md "wikilink")。
 
 ## 歷史

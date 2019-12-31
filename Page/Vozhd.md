@@ -1,3 +1,6 @@
+> 本文内容由[Vozhd](https://zh.wikipedia.org/wiki/Vozhd)转换而来。
+
+
 **Vozhd** （）是俄罗斯[古教会斯拉夫语中由外来词вести](https://zh.wikipedia.org/wiki/古教會斯拉夫語 "wikilink")（意为“领导”）衍生的词语。
 
 在俄语中这个词常被用来指代苏联领导人，例如[斯大林或](../Page/约瑟夫·维萨里奥诺维奇·斯大林.md "wikilink")[列宁](../Page/弗拉基米尔·伊里奇·列宁.md "wikilink")，具体例子有：

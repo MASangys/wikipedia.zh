@@ -1,3 +1,6 @@
+> 本文内容由[埃里克·S·赖纳特](https://zh.wikipedia.org/wiki/埃里克·S·赖纳特)转换而来。
+
+
 **埃里克·斯坦菲尔德·赖纳特**（，），当代[挪威](../Page/挪威.md "wikilink")[经济学家](../Page/经济学家.md "wikilink")，研究领域为[发展经济学](https://zh.wikipedia.org/wiki/发展经济学 "wikilink")、[经济史](../Page/经济史.md "wikilink")、[经济政策史](https://zh.wikipedia.org/wiki/经济政策 "wikilink")。
 
 ## 生平

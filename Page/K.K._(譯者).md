@@ -1,3 +1,6 @@
+> 本文内容由[K.K. \(譯者\)](https://zh.wikipedia.org/wiki/K.K._\(譯者\))转换而来。
+
+
 **K.K.**（1976年－），又名**譯者K.K.**，是臺灣的一個譯者，畢業於[國立臺灣大學](../Page/國立臺灣大學.md "wikilink")心理系，曾擔任過[臺灣大學卡通漫畫研究社社長](https://zh.wikipedia.org/wiki/臺灣大學卡通漫畫研究社 "wikilink")。\[1\]
 
 ## 人物介紹

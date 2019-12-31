@@ -1,3 +1,6 @@
+> 本文内容由[Rake](https://zh.wikipedia.org/wiki/Rake)转换而来。
+
+
 **Rake**是一款软件任务管理及[組建自動化](../Page/組建自動化.md "wikilink")工具。用户可指定任务、描述依赖关系及分组命名空间中的任务。
 
 此软件与[SCons](../Page/SCons.md "wikilink")和[Make](../Page/Make.md "wikilink")类似，但有着诸多差异。Rake使用[Ruby](../Page/Ruby.md "wikilink")编写，使用以Ruby语法编写的Rakefile（与Make中的Makefile等同）。此软件由编写。

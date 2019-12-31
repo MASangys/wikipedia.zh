@@ -1,3 +1,6 @@
+> 本文内容由[4CARAT](https://zh.wikipedia.org/wiki/4CARAT)转换而来。
+
+
 **4CARAT**（），是[韓國KNJ](https://zh.wikipedia.org/wiki/韓國 "wikilink") Music及Youngbridge娛樂於2019年聯合推出的四人女子組合，成員包括Ha Yerin、Park Sujin、Bonita Lee及Han Somin\[1\]，四人均是2010年出生，出道的平均年齡是9歲。
 
 ## 音樂作品

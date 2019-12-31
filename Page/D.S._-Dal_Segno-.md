@@ -1,3 +1,6 @@
+> 本文内容由[D.S. -Dal Segno-](https://zh.wikipedia.org/wiki/D.S._-Dal_Segno-)转换而来。
+
+
 《**D.S. -Dal Segno-**》是[CIRCUS在](../Page/Circus_\(遊戲品牌\).md "wikilink")2016年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2018年2月22日由ENTERGRAM發售[PlayStation Vita與](../Page/PlayStation_Vita.md "wikilink")[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")。\[2\]後來於2017年4月28日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《D.S. i.F. -Dal Segno-in Future》。\[3\]
 
 ## 故事

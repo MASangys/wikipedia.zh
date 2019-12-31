@@ -1,3 +1,6 @@
+> 本文内容由[Actes Sud](https://zh.wikipedia.org/wiki/Actes_Sud)转换而来。
+
+
 **Actes Sud**是[法国的一家](https://zh.wikipedia.org/wiki/法国 "wikilink")[出版社](../Page/出版社.md "wikilink")，1978年由 Hubert Nyssen 在[阿尔勒建立](../Page/阿爾勒.md "wikilink")。公司旗下的 Exofictions 系列出版了[刘慈欣](../Page/刘慈欣.md "wikilink")的[三体系列](../Page/三体系列.md "wikilink")小说的法语版\[1\]。
 
 ## 历史

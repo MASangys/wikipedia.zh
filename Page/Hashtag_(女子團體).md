@@ -1,3 +1,6 @@
+> 本文内容由[Hashtag \(女子團體\)](https://zh.wikipedia.org/wiki/Hashtag_\(女子團體\))转换而来。
+
+
 **Hashtag**（），是[韓國LUK](https://zh.wikipedia.org/wiki/韓國 "wikilink") Factory於2017年推出的七人女子組合，成員包括Hyunji、Dajeong、Sua、Seungmin、Subin、Sojin及Aeji\[1\]。 團名Hashtag是有標記的意思，將**標記\#**聚集後經過共識達成大主流這樣的意思。\[2\]
 
 [(MAXIM_후즈댓걸)그룹_해시태그_다정\!\!.webm](https://zh.wikipedia.org/wiki/File:\(MAXIM_후즈댓걸\)그룹_해시태그_다정!!.webm "fig:(MAXIM_후즈댓걸)그룹_해시태그_다정!!.webm")

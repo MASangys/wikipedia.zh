@@ -1,3 +1,6 @@
+> 本文内容由[Cheeki breeki](https://zh.wikipedia.org/wiki/Cheeki_breeki)转换而来。
+
+
 ****（或****，）是一个[网络迷因](https://zh.wikipedia.org/wiki/网络迷因 "wikilink")。它源自[电子游戏](../Page/电子游戏.md "wikilink")《[潜行者：切尔诺贝利的阴影](https://zh.wikipedia.org/wiki/潜行者：切尔诺贝利的阴影 "wikilink")》中，土匪NPC常说的一句[口头禅](https://zh.wikipedia.org/wiki/口头禅 "wikilink")，原文是“”（[罗马化](../Page/俄语罗马化.md "wikilink")：）\[1\]。当玩家处于土匪周围时，这段语音即有可能被触发。
 
 这段语音经过[YouTuber](../Page/YouTuber.md "wikilink")重新制作视频，在[前苏联国家](https://zh.wikipedia.org/wiki/前苏联国家 "wikilink")（尤其是[乌克兰](../Page/乌克兰.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")）等[斯拉夫电子游戏爱好者中流行](https://zh.wikipedia.org/wiki/斯拉夫 "wikilink")，并成为一个网络流行词汇。衍生出包括歌曲、舞蹈在内的诸多俄式[硬核摇滚文化作品](https://zh.wikipedia.org/wiki/硬核摇滚 "wikilink")。

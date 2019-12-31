@@ -1,3 +1,6 @@
+> 本文内容由[Nm \(Unix\)](https://zh.wikipedia.org/wiki/Nm_\(Unix\))转换而来。
+
+
 **`nm`**命令存在于多数后出版本的[Unix及](https://zh.wikipedia.org/wiki/Unix "wikilink")[类似的](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")[操作系统](../Page/操作系统.md "wikilink")中。`nm`被用来检查[二进制文件](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")（包括[库](https://zh.wikipedia.org/wiki/函数库 "wikilink")，编译后的[目标模块](https://zh.wikipedia.org/wiki/目标文件 "wikilink")，共享目标文件，和独立[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")）并显示这些文件的内容，或存储在其中的[元信息](../Page/元数据.md "wikilink")，特别是[符号表](../Page/符号表.md "wikilink")。来自`nm`的输出区分各种符号类型。例如，在一个目标文件所提供的[函数和它所需要的函数之间是有区别的](https://zh.wikipedia.org/wiki/子例程 "wikilink")。`nm`被用作[调试的辅助工具](https://zh.wikipedia.org/wiki/调试 "wikilink")，帮助解决名字冲突和[C++](../Page/C++.md "wikilink")[名称修饰引起的问题](https://zh.wikipedia.org/wiki/名称修饰 "wikilink")，和验证[工具链的其他部分](https://zh.wikipedia.org/wiki/工具链 "wikilink")。
 
 [GNU计划在](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[GNU Binutils包中提供了一个](../Page/GNU_Binutils.md "wikilink")`nm`的实现。[`objdump`](https://zh.wikipedia.org/wiki/objdump "wikilink")`  -t `和[`readelf`](https://zh.wikipedia.org/wiki/readelf "wikilink")`  -s `也可以查看目标文件的符号表。

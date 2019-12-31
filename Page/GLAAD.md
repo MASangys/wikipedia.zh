@@ -1,3 +1,6 @@
+> 本文内容由[GLAAD](https://zh.wikipedia.org/wiki/GLAAD)转换而来。
+
+
 **GLAAD**，前称**Gay & Lesbian Alliance Against Defamation（同性恋者反诋毁联盟）**是一个美国[非政府](../Page/非政府组织.md "wikilink")组织，由媒体业中的[LGBT](../Page/LGBT.md "wikilink")人士创办。2013年3月之前，"GLAAD"一直是正式名称"Gay & Lesbian Alliance Against Defamation（同性恋者反诋毁联盟）"的缩写，但由于同性恋者反诋毁联盟这个名称不包括[双性恋](../Page/双性恋.md "wikilink")和[跨性別](../Page/跨性別.md "wikilink")，因此组织将GLAAD改为正式名称。\[1\]
 
 ## 历史

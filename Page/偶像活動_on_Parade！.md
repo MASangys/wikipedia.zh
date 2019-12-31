@@ -1,3 +1,6 @@
+> 本文内容由[偶像活動 on Parade！](https://zh.wikipedia.org/wiki/偶像活動_on_Parade！)转换而来。
+
+
 《**偶像活動 on Parade！**》（）是[BANDAI於](../Page/萬代.md "wikilink")2019年10月發售的「」系統[街機卡片遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，《[偶像活動](../Page/Aikatsu！偶像活動！.md "wikilink")》系列的第4作。
 
 電視動畫於2019年10月5日在[東京電視網](../Page/東京電視網.md "wikilink")開始播放。

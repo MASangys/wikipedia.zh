@@ -1,3 +1,6 @@
+> 本文内容由[Wing Shuttle](https://zh.wikipedia.org/wiki/Wing_Shuttle)转换而来。
+
+
 **Wing Shuttle**（）是[日本](../Page/日本.md "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[关西国际机场](../Page/关西国际机场.md "wikilink")的[旅客捷運系統](../Page/旅客捷運系統.md "wikilink")。 该系统于1994年9月4日与机场一并开放。 无人驾驶的[旅客捷運系統](../Page/旅客捷運系統.md "wikilink")连接主航站楼和两个附属航站楼。 所有车站都配有[月台幕门](https://zh.wikipedia.org/wiki/月台幕门 "wikilink")。 与[成田国际机场](../Page/成田国际机场.md "wikilink")的旅客捷運系統不同，关西国际机场的系统是[胶轮轨道系统](https://zh.wikipedia.org/wiki/胶轮轨道系统 "wikilink")。 列车大约每2分钟一班，路线长545米。 这是日本機場唯一的旅客捷運系統。
 
 ## 關連項目

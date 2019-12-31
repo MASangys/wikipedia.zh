@@ -1,3 +1,6 @@
+> 本文内容由[Terminologia Histologica](https://zh.wikipedia.org/wiki/Terminologia_Histologica)转换而来。
+
+
 ***Terminologia Histologica***（***TH***）是一份[细胞生物学](../Page/细胞生物学.md "wikilink")和[组织学](../Page/组织学.md "wikilink")的[受控词表](../Page/受控词表.md "wikilink")\[1\]\[2\]，由FCAT（）制定。2011年4月，FCAT的继任FIPAT（Federative International Programme on Anatomical Terminologies）发布了*Terminologia Histologica*的[在线版本](http://www.unifr.ch/ifaa/)。
 
 *Terminologia Histologica*旨在替代**1977年第四版的*Nomina Histologica*\[3\]。

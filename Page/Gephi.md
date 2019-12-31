@@ -1,3 +1,6 @@
+> 本文内容由[Gephi](https://zh.wikipedia.org/wiki/Gephi)转换而来。
+
+
 **Gephi**是基于[NetBeans](../Page/NetBeans.md "wikilink")平台和[Java](../Page/Java.md "wikilink")的开源网络分析和可视化软件。\[1\]
 
 ## 历史

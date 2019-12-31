@@ -1,3 +1,6 @@
+> 本文内容由[BBB Korea](https://zh.wikipedia.org/wiki/BBB_Korea)转换而来。
+
+
 **bbb korea**是[韩国自愿提供免费翻译服务的非盈利性团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")。\[1\] 该组织成立于2003年，其目标是创建一个没有语言或文化障碍的社会。它目前是[韩国文化](../Page/韩国文化.md "wikilink")，体育和旅游部的一个社团法人。\[2\] bbb korea总部位于韩国[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。
 
 bbb 代表 “Before Babel Brigade”，它表示Babel Tower建造之前的世界，当时所有人都共享一种语言而没有任何沟通困难。

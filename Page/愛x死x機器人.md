@@ -1,3 +1,6 @@
+> 本文内容由[愛x死x機器人](https://zh.wikipedia.org/wiki/愛x死x機器人)转换而来。
+
+
 《**愛x死x機器人**》（）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[獨立單元](https://zh.wikipedia.org/wiki/獨立單元劇 "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")\[1\]，由、[大衛·芬奇](https://zh.wikipedia.org/wiki/大衛·芬奇 "wikilink")、珍妮佛·米勒和[提姆·米勒](../Page/提姆·米勒.md "wikilink")製作\[2\]。每集都由不同國家的團隊所製作\[3\]。
 
 該劇定於2019年3月15日在[Netflix](../Page/Netflix.md "wikilink")首播，共18集\[4\]。

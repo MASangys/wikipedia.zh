@@ -1,3 +1,6 @@
+> 本文内容由[Yellow Fever \(EP\)](https://zh.wikipedia.org/wiki/Yellow_Fever_\(EP\))转换而来。
+
+
 《**Yellow Fever**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Dear Jane的第](../Page/Dear_Jane.md "wikilink")4張音樂專輯，於2012年9月4日推出。
 
 ## 曲目列表

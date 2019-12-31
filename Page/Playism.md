@@ -1,3 +1,6 @@
+> 本文内容由[Playism](https://zh.wikipedia.org/wiki/Playism)转换而来。
+
+
 **Playism**是由日本公司經營的[PC遊戲](https://zh.wikipedia.org/wiki/PC遊戲 "wikilink")[數位發行平台](https://zh.wikipedia.org/wiki/數位發行 "wikilink")，於2011年5月成立。\[1\]該平台專注於[獨立遊戲的發行業務](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")，為世界各地的獨立遊戲開發者提供遊戲[在地化](https://zh.wikipedia.org/wiki/在地化 "wikilink")、[除錯與](https://zh.wikipedia.org/wiki/除錯 "wikilink")[行銷服務](https://zh.wikipedia.org/wiki/行銷 "wikilink")，不僅將這些獨立遊戲引進日本，更推廣到全球市場。一般使用者可在網站上購買與下載遊戲。
 
 ## 特色

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Hex](https://zh.wikipedia.org/wiki/模块:Hex)转换而来。
+
+
 local hex = {} local getArgs = require("Module:Arguments").getArgs local RESOLUTION = 12 -- I have no idea how many places the floating point is good to, this is just a guess.
 
 \-- initialize conversion arrays; these should remain in scope for individual conversions local d2h = mw.loadData("Module:Hex/data table")

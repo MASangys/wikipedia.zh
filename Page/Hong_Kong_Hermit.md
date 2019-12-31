@@ -1,3 +1,6 @@
+> 本文内容由[Hong Kong Hermit](https://zh.wikipedia.org/wiki/Hong_Kong_Hermit)转换而来。
+
+
 **Hong Kong Hermit**（簡稱**HKH**，中譯「**香港隱士**」\[1\]）是一個[推特帳戶](https://zh.wikipedia.org/wiki/推特 "wikilink")，由一名在[香港](../Page/香港.md "wikilink")居住超過10年的外籍[網紅開設](https://zh.wikipedia.org/wiki/網紅 "wikilink")，至今有逾萬名追隨者，其帖文大多以「[無厘頭](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")」的發言風格和諷刺時弊為主。自2014年的[讓愛與和平佔領中環](../Page/讓愛與和平佔領中環.md "wikilink")起，他經常參與各種[社會運動](../Page/社會運動.md "wikilink")如[遊行示威](../Page/遊行示威.md "wikilink")和[支持警察的集會等](../Page/「撐警隊，護法治，保安寧」集會.md "wikilink")，其發佈的帖文、[照片和網上直播](https://zh.wikipedia.org/wiki/照片 "wikilink")[視頻也曾被媒體引用](https://zh.wikipedia.org/wiki/視頻 "wikilink")\[2\]\[3\]。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[PyTorch](https://zh.wikipedia.org/wiki/PyTorch)转换而来。
+
+
 **PyTorch**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[Python](../Page/Python.md "wikilink")[机器学习](../Page/机器学习.md "wikilink")[库](https://zh.wikipedia.org/wiki/库 "wikilink")，基于\[1\]\[2\]\[3\]，底层由C++实现，应用于[人工智能](../Page/人工智能.md "wikilink")领域，如[自然语言处理](../Page/自然语言处理.md "wikilink")。\[4\] 它最初由[Facebook](../Page/Facebook.md "wikilink")的人工智能研究团队开发，\[5\]\[6\]\[7\]并且被用于[Uber的](../Page/優步.md "wikilink")软件Pyro。\[8\]
 
 PyTorch主要有两大特征：\[9\]

@@ -1,3 +1,6 @@
+> 本文内容由[Platinum Vision](https://zh.wikipedia.org/wiki/Platinum_Vision)转换而来。
+
+
 **Platinum Vision**是一家動畫企劃與製作以及相關業務為主的日本公司。2016年，[Brain's Base企劃營業製作部的製作人大石祐道離社](../Page/Brain's_Base.md "wikilink")，創立動畫公司Platinum Vision，並與老東家合作《吸血鬼僕人》。
 
 ## 作品列表

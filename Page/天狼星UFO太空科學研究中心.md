@@ -1,3 +1,6 @@
+> 本文内容由[天狼星UFO太空科學研究中心](https://zh.wikipedia.org/wiki/天狼星UFO太空科學研究中心)转换而来。
+
+
 **天狼星UFO太空科學研究中心**（）是[土耳其](../Page/土耳其.md "wikilink")的[UFO研究團體](https://zh.wikipedia.org/wiki/UFO "wikilink")，於1998年5月成立\[1\]\[2\]\[3\]。創始人及現任主席為[海克潭·阿克多甘](https://zh.wikipedia.org/wiki/海克潭·阿克多甘 "wikilink")\[4\]。
 
 1999年舉辦首屆土耳其國際UFO大會\[5\]\[6\]。之後陸續在2000年、2001年和2009年\[7\]舉辦第二、三、四屆的國際UFO大會。

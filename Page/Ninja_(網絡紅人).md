@@ -1,3 +1,6 @@
+> 本文内容由[Ninja \(網絡紅人\)](https://zh.wikipedia.org/wiki/Ninja_\(網絡紅人\))转换而来。
+
+
 [Ninja_at_Lollapalooza.jpg](https://zh.wikipedia.org/wiki/File:Ninja_at_Lollapalooza.jpg "fig:Ninja_at_Lollapalooza.jpg")上\]\] **理查德·泰勒·布莱文斯**（Richard Tyler Blevins，），通常以他的網名**Ninja**或**Ninjashyper**知名，是美国[Twitch主播和](https://zh.wikipedia.org/wiki/Twitch.tv "wikilink")[網路紅人](https://zh.wikipedia.org/wiki/網路紅人 "wikilink")。\[1\]截至2018年8月，他是最受关注的Twitch網紅，擁有超过一千万追随者和平均超过5万名观众。\[2\]\[3\]
 
 ## 职业生涯

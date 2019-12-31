@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Yuqi Zhang](https://zh.wikipedia.org/wiki/Draft:Yuqi_Zhang)转换而来。
+
+
 **Yuqi Zhang**, also known as **Rachel Zhang** ([pinyin](https://zh.wikipedia.org/wiki/pinyin "wikilink")="Zhāng Yùqí"; born May 8, 2001) is a Chinese singer and songwriter. In 2013 she participated in the Children's Singing Program of [Hunan Television](https://zh.wikipedia.org/wiki/Hunan_Television "wikilink") "Let's Sing Kids" and received attention. In 2019 she won the championship in the [Tencent Video](https://zh.wikipedia.org/wiki/Tencent_Video "wikilink") music talent show "The Coming One Girls" (also named "The Coming One 3").
 
 ## Life and Career

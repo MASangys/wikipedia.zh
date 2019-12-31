@@ -1,3 +1,6 @@
+> 本文内容由[大灣區 活好D](https://zh.wikipedia.org/wiki/大灣區_活好D)转换而来。
+
+
 《**大灣區 活好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的一個介紹[粵港澳大灣區的旅遊節目](https://zh.wikipedia.org/wiki/粵港澳大灣區 "wikilink")，共2輯，第一輯在2018年9月25日至10月6日22:30至23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出。節目由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[林泳淘](../Page/林泳淘.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[林伊麗](../Page/林伊麗.md "wikilink")、[張美妮](../Page/張美妮.md "wikilink")、[蔣家旻](../Page/蔣家旻.md "wikilink")、[胡諾言](../Page/胡諾言.md "wikilink")、[林子博](../Page/林子博.md "wikilink")、[游茛維擔任主持](https://zh.wikipedia.org/wiki/游茛維 "wikilink")\[1\]\[2\]\[3\]。第二輯在2019年3月3日至5月5日22:30至23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出。節目由陸浩明、[衛志豪](../Page/衛志豪.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、胡諾言、[陳詩欣](../Page/陳詩欣_\(香港\).md "wikilink")、[魏-{韵}-芝](../Page/魏韵芝.md "wikilink")、[鄧以婷](../Page/鄧以婷.md "wikilink")、[黃美棋](../Page/黃美棋.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[鄭衍峰](../Page/鄭衍峰.md "wikilink")擔任主持。第2輯為[TVB影視展星勢](../Page/TVB影視展星勢.md "wikilink")綜藝節目之一。
 
 節目第一輯與第二輯不同之處在於第一輯除旅遊資訊外，以大灣區各城市置業投資機會作重點推介，節目主持[肥媽](../Page/肥媽.md "wikilink")還在節目中以六十余萬購置了[江門](https://zh.wikipedia.org/wiki/江門 "wikilink")[台山樓盤](https://zh.wikipedia.org/wiki/台山 "wikilink")「御海蓮花」的一個單位。

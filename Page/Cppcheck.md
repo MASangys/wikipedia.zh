@@ -1,3 +1,6 @@
+> 本文内容由[Cppcheck](https://zh.wikipedia.org/wiki/Cppcheck)转换而来。
+
+
 **Cppcheck**是一种用于[C和](https://zh.wikipedia.org/wiki/C语言 "wikilink")[C ++](../Page/C++.md "wikilink") [编程语言](../Page/编程语言.md "wikilink")的[静态代码分析工具](../Page/靜態程序分析.md "wikilink")。 它是一个多功能工具，可以检查非标准代码。 \[1\] 创始人和首席开发人员是DanielMarjamäki。
 
 Cppcheck是[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下的[免费软件](../Page/自由软件.md "wikilink") 。

@@ -1,3 +1,6 @@
+> 本文内容由[Koshi Inaba LIVE 2016 〜enIII〜](https://zh.wikipedia.org/wiki/Koshi_Inaba_LIVE_2016_〜enIII〜)转换而来。
+
+
 《**Koshi Inaba LIVE 2016 〜enIII〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的第4張影像作品。[2016年](../Page/2016年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")發售。
 
 ## 内容

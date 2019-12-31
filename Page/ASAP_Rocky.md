@@ -1,3 +1,6 @@
+> 本文内容由[ASAP Rocky](https://zh.wikipedia.org/wiki/ASAP_Rocky)转换而来。
+
+
 **拉基姆·梅耶斯**（，），藝名為****（又作****）。台湾称**速可達硬漢**。美国[饶舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[模特兒](../Page/模特兒.md "wikilink")、[词曲作家与](../Page/詞曲作家.md "wikilink")[唱片制作人](../Page/音樂製作人.md "wikilink")。2007年時加入美國嘻哈團體。
 
 拉基姆於2011年10月發布他的第一部完整作品《LIVE.LOVE.A$AP》，這部作品的好評與成功使他與[Polo Grounds Music](https://zh.wikipedia.org/wiki/Polo_Grounds_Music "wikilink")、[RCA Records和](https://zh.wikipedia.org/wiki/RCA_Records "wikilink")[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")簽了唱片合約。

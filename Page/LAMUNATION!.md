@@ -1,3 +1,6 @@
+> 本文内容由[LAMUNATION!](https://zh.wikipedia.org/wiki/LAMUNATION!)转换而来。
+
+
 《**LAMUNATION\!**》是[WhitePowder於](../Page/Visual_Art's.md "wikilink")2016年6月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2019年11月22日在[Steam](../Page/Steam.md "wikilink")平台發行國際版《LAMUNATION\! -international-》\[2\]。
 
 ## 故事簡介

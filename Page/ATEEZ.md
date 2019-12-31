@@ -1,3 +1,6 @@
+> 本文内容由[ATEEZ](https://zh.wikipedia.org/wiki/ATEEZ)转换而来。
+
+
 **ATEEZ**（）是[韓國KQ娛樂旗下的八人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2018年10月24日出道，由星和、弘中、潤浩、呂尚、崔傘、旼琦、[友榮](../Page/鄭友榮.md "wikilink")、鍾浩所组成，並由弘中擔任隊長。
 
 ## 團體資料

@@ -1,3 +1,6 @@
+> 本文内容由[Reol](https://zh.wikipedia.org/wiki/Reol)转换而来。
+
+
 （），是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")、[词曲作家](https://zh.wikipedia.org/wiki/词曲作家 "wikilink")、[音乐制作人和](https://zh.wikipedia.org/wiki/音乐制作人 "wikilink")[说唱家](https://zh.wikipedia.org/wiki/饶舌 "wikilink")。原為[J-Pop乐队](https://zh.wikipedia.org/wiki/J-Pop "wikilink")[REOL的成员](https://zh.wikipedia.org/wiki/REOL "wikilink")，目前以独奏音乐人的身份在[胜利娱乐名下签约](https://zh.wikipedia.org/wiki/胜利娱乐 "wikilink")。2012年底开始，在[Niconico动画和](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[YouTube](../Page/YouTube.md "wikilink")上创作和发布音乐。
 
 ## 经历与生涯

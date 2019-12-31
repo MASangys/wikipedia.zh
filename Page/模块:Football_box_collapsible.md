@@ -1,3 +1,6 @@
+> 本文内容由[模块:Football box collapsible](https://zh.wikipedia.org/wiki/模块:Football_box_collapsible)转换而来。
+
+
 \-- Implements [Template:Football box collapsible](https://zh.wikipedia.org/wiki/Template:Football_box_collapsible "wikilink") local p = {} local result_modules = 'Module:Football box collapsible/result/' local labels = {
 
 `   ['penalties'] = '`[`-{zh:点球大战;``   ``zh-tw:點球大戰;zh-hk:十二碼;zh-cn:点球大战;}-`](../Page/互射十二碼.md "wikilink")`',`

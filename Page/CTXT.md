@@ -1,3 +1,6 @@
+> 本文内容由[CTXT](https://zh.wikipedia.org/wiki/CTXT)转换而来。
+
+
 **CTXT**是[西班牙](../Page/西班牙.md "wikilink")一家独立[在线出版物](https://zh.wikipedia.org/wiki/在线 "wikilink")，成立于2015年1月，主要提供长期新闻分析和意见\[1\]。其办公室位于西班牙[马德里](../Page/马德里.md "wikilink")。该出版物全称为**Revista Contexto**。
 
 ## 描述

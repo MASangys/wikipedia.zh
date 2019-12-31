@@ -1,3 +1,6 @@
+> 本文内容由[小巴士TAYO](https://zh.wikipedia.org/wiki/小巴士TAYO)转换而来。
+
+
 [루돌프_타요.JPG](https://zh.wikipedia.org/wiki/File:루돌프_타요.JPG "fig:루돌프_타요.JPG")的TAYO卡通主題公車\]\] [타요버스_9401_가니_A01.JPG](https://zh.wikipedia.org/wiki/File:타요버스_9401_가니_A01.JPG "fig:타요버스_9401_가니_A01.JPG") [Jongno_Public_Light_Bus_11_(5529).jpg](https://zh.wikipedia.org/wiki/File:Jongno_Public_Light_Bus_11_\(5529\).jpg "fig:Jongno_Public_Light_Bus_11_(5529).jpg")
 
 **《小巴士TAYO》**（）是一部2010年[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")3D兒童電視動畫片，由Iconix Entertainment、[韓國教育廣播公社](../Page/韓國教育廣播公社.md "wikilink")（EBS）和[首爾市政府共同製作](https://zh.wikipedia.org/wiki/首爾市政府 "wikilink")。這部作品由時任[首爾市長的](https://zh.wikipedia.org/wiki/首爾市長 "wikilink")[吳世勳](../Page/吳世勳.md "wikilink")協助下推動的\[1\]，角色以[首爾的巴士作為範本](https://zh.wikipedia.org/wiki/首爾巴士 "wikilink")，2010年在EBS首播。曾獲得韓國內容獎第一名（Korean Contents Awards）與亞洲電視大獎最佳兒童節目（Asia Television Awards）\[2\]。

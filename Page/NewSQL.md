@@ -1,3 +1,6 @@
+> 本文内容由[NewSQL](https://zh.wikipedia.org/wiki/NewSQL)转换而来。
+
+
 **NewSQL**是一类[关系](../Page/关系数据库.md "wikilink")[数据库](../Page/数据库.md "wikilink")，它寻求为[線上交易處理](https://zh.wikipedia.org/wiki/線上交易處理 "wikilink")（OLTP）工作提供[NoSQL](../Page/NoSQL.md "wikilink")系统的可扩展性，同时维护传统数据库系统的[ACID](../Page/ACID.md "wikilink")保证。\[1\]\[2\]\[3\]\[4\]
 
 许多处理重要数据的企业系统（例如，财务和订单处理系统）对于常规的关系数据库而言太大了，但是具有[事务性和一致性要求](../Page/数据库事务.md "wikilink")，这对于NoSQL系统是不切实际的。\[5\]\[6\] 这些组织以前可用的唯一选择是购买功能更强大的计算机，或开发可通过常规[DBMS分发请求的定制](../Page/数据库.md "wikilink")[中间件](../Page/中间件.md "wikilink")。这两种方法都具有高成本或高开发成本的特点。NewSQL系统试图解决这方面的冲突。

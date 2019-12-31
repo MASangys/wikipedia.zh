@@ -1,3 +1,6 @@
+> 本文内容由[Leon Live is Live](https://zh.wikipedia.org/wiki/Leon_Live_is_Live)转换而来。
+
+
 *' Leon Live is Live*'是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，演唱會原定於2001年12月14日至16日及12月21日至25日演出八場，其後於12月28日至31日加開四場，合共演出十二場\[1\]\[2\]。
 
 ## 製作概念

@@ -1,3 +1,6 @@
+> 本文内容由[Geissele Automatics](https://zh.wikipedia.org/wiki/Geissele_Automatics)转换而来。
+
+
 Geissele Automatics是美國一家原位於[賓夕法尼亞州諾裏斯敦](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")，現遷於北威爾士的輕兵器及配件生產商。該公司主要生產槍械扳機及護木。
 
 ## 歷史

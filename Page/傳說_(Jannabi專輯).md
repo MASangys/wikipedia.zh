@@ -1,3 +1,6 @@
+> 本文内容由[傳說 \(Jannabi專輯\)](https://zh.wikipedia.org/wiki/傳說_\(Jannabi專輯\))转换而来。
+
+
 《**傳說**》是韓國獨立樂團[Jannabi的第二張正規專輯](../Page/Jannabi_\(樂團\).md "wikilink")，於2019年3月13日發行\[1\]，主打曲為〈주저하는 연인들을 위해(致猶豫的戀人們)〉。
 
 

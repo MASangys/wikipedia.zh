@@ -1,3 +1,6 @@
+> 本文内容由[IAPTI](https://zh.wikipedia.org/wiki/IAPTI)转换而来。
+
+
 **国际专业笔译和口译员协会**( 简称 IAPTI) 是一个设在阿根廷的国际笔译和口译专业协会。
 
 ## 历史

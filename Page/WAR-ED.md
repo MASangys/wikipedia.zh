@@ -1,3 +1,6 @@
+> 本文内容由[WAR-ED](https://zh.wikipedia.org/wiki/WAR-ED)转换而来。
+
+
 **WAR-ED**，[日本](../Page/日本.md "wikilink")的摇滚乐队，2010年结成，为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。2015年宣布解散。乐队名由WAR（战争）和ED（过去式）组成，表达传递和平友爱的歌曲为主旨\[1\]。
 
 ## 成员

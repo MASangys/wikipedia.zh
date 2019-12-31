@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM外传 THE BLUE DESTINY](https://zh.wikipedia.org/wiki/机动战士GUNDAM外传_THE_BLUE_DESTINY)转换而来。
+
+
 是[机动战士GUNDAM外传系列的首作](https://zh.wikipedia.org/wiki/机动战士GUNDAM外传 "wikilink")。1996年至1997年间以第一人称射击游戏三部曲的形式在[世嘉土星](../Page/世嘉土星.md "wikilink")上发售。亦有作为周边发行的漫画和小说。2014年5月29日发售的《机动战士GUNDAM SIDE STORIES》包含本作的剧情，游戏类型变更为第三人称射击。
 
 ## 豚鼠队

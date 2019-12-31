@@ -1,3 +1,6 @@
+> 本文内容由[AIM-97飛彈](https://zh.wikipedia.org/wiki/AIM-97飛彈)转换而来。
+
+
 **AIM-97 獵狐者**（也稱為**XAIM-97A 獵狐者**）是一款[美國研發的長程](../Page/美国.md "wikilink")[空對空飛彈](../Page/空对空导弹.md "wikilink")。AIM-91原計畫安裝於[F-15戰鬥機與](../Page/F-15鷹式戰鬥機.md "wikilink")[F-4戰鬥機上](../Page/F-4幽靈II戰鬥機.md "wikilink")，以對抗[MiG-25](../Page/米格-25战斗机.md "wikilink")。\[1\] 該飛彈最終並未服役。
 
 ## 概覽

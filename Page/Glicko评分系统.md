@@ -1,3 +1,6 @@
+> 本文内容由[Glicko评分系统](https://zh.wikipedia.org/wiki/Glicko评分系统)转换而来。
+
+
 **Glicko评分系统**（英文：**Glicko rating system**）及**Glicko-2评分系统**（英文**：Glicko-2 rating system**）是评估选手在比赛中（如[国际象棋及](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")[围棋](../Page/围棋.md "wikilink")）的技术能力方法之一。此方法由发明，原为打造，后作为[等级分](../Page/等级分.md "wikilink")评分系统的改进版本广泛应用。格里克曼在此算法中的主要贡献是“评分可靠性”（Ratings Reliability，简称RD），即评分[标准差](../Page/標準差.md "wikilink")（Ratings Deviation）。
 
 Glicko与Glicko-2评分系统被发表至公有领域。诸多在线（如《[Pokémon Showdown](../Page/精灵宝可梦.md "wikilink")》、《》、《》、《》、《[在线围棋服务器](http://online-go.com)》\[1\]、《[反恐精英：全球攻势](../Page/反恐精英：全球攻势.md "wikilink")》、《[军团要塞2](../Page/絕地要塞2.md "wikilink")》、《[刀塔霸业](../Page/刀塔霸业.md "wikilink")》、《[激战2](../Page/激战2.md "wikilink")》、《[Splatoon 2](../Page/Splatoon_2.md "wikilink")》及《[皇舆争霸](https://zh.wikipedia.org/wiki/皇輿爭霸 "wikilink")》）和多个竞技性编程比赛都采用此种评分方法。\[2\]Glicko所使用的算法可在其网站上找到。

@@ -1,3 +1,6 @@
+> 本文内容由[Windmill](https://zh.wikipedia.org/wiki/Windmill)转换而来。
+
+
 是日本ARES有限公司（）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。2001年由[同人遊戲](../Page/同人遊戲.md "wikilink")社團「兔子俱樂部」（）成立公司，2002年開始發售商業作品。\[1\]2008年公開自製[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「CatSystem2」。
 
 ## 作品列表

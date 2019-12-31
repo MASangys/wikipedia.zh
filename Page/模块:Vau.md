@@ -1,3 +1,6 @@
+> 本文内容由[模块:Vau](https://zh.wikipedia.org/wiki/模块:Vau)转换而来。
+
+
 local p = {}
 
 \--\[\[ 使用方法: {{\#invoke:Vau|ref|unit=组合名|distinction=识别号码|link=链接目的地|lang=语言代码|add=追加说明|group=ref标签group名}}

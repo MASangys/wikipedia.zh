@@ -1,3 +1,6 @@
+> 本文内容由[在圆柱和球坐标系中的del](https://zh.wikipedia.org/wiki/在圆柱和球坐标系中的del)转换而来。
+
+
 下面是常用于[正交](https://zh.wikipedia.org/wiki/正交坐标系 "wikilink")中的一些[向量微积分公式](https://zh.wikipedia.org/wiki/向量微积分 "wikilink")。
 
 ## 注释

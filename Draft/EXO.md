@@ -1,3 +1,6 @@
+> 本文内容由[Draft:EXO](https://zh.wikipedia.org/wiki/Draft:EXO)转换而来。
+
+
 **EXO**（，；），為[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012年4月8日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，EXO組合分成[韓國分隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[EXO-K](../Page/EXO-K.md "wikilink")和[中國](../Page/中國.md "wikilink")分隊[EXO-M](../Page/EXO-M.md "wikilink")，K代表Korean（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")），M代表Mandarin（[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")）。2016年10月31日，EXO的三人子團體小分隊[EXO-CBX](../Page/EXO-CBX.md "wikilink")正式出道。 EXO為銀河系以外的行星「[EXOPLANET](../Page/銀河系外行星.md "wikilink")」一詞中得來，寓意這個團體是「從未知星球來的新星」，分別在[韓國和](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[中國](../Page/中國.md "wikilink")展開活動，並逐步進軍全球\[1\]。
 
 EXO出道至今，已經在[亞洲地區累積相當高的人氣](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，並先後在[中](../Page/中國.md "wikilink")、[日](../Page/日本.md "wikilink")、[韓等地獲得多個音樂大賞及人氣大獎](https://zh.wikipedia.org/wiki/韓國 "wikilink")。2013年，EXO憑著首張正規專輯《[XOXO (Kiss\&Hug)](../Page/XOXO_\(Kiss&Hug\).md "wikilink")》突破100萬張唱片銷售量\[2\]，該專輯同時成為自12年來[韓國的最高銷售專輯記錄](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[3\]。

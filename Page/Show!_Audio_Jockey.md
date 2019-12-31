@@ -1,3 +1,6 @@
+> 本文内容由[Show! Audio Jockey](https://zh.wikipedia.org/wiki/Show!_Audio_Jockey)转换而来。
+
+
 《**Show\! Audio Jockey**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[真人實境-{zh-tw:秀;zh-cn:秀;zh-hk:騷}-節目](../Page/真人實境秀.md "wikilink")，由[朴明洙](../Page/朴明洙.md "wikilink")、[成始璄](../Page/成始璄.md "wikilink")、[蘇有珍](../Page/蘇有珍.md "wikilink")、[Boom及](../Page/Boom_\(藝人\).md "wikilink")[MONSTA X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](../Page/李虎錫.md "wikilink")、[民赫](https://zh.wikipedia.org/wiki/李玟爀 "wikilink")、[基賢](../Page/柳基現.md "wikilink")、[周憲共同主演](../Page/李周憲.md "wikilink")。節目形式是明星主持電台節目的綜藝，利用巡回各地的移動式開放錄音室進行電台直播，觀眾可以通過各種平台實時收聽直播，并且在之後播出的電視節目中觀看幕後詳細的準備過程和主持實況\[1\]\[2\]。
 
 ## 節目成員

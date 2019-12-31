@@ -1,3 +1,6 @@
+> 本文内容由[雙魚座I \(矮星系\)](https://zh.wikipedia.org/wiki/雙魚座I_\(矮星系\))转换而来。
+
+
 PSCI}}
 
 **雙魚座I** （**Psc I**）或**雙魚座高密度區**（**Pisces Overdensity**）是在[銀河系的](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[銀暈內的恆星叢集](https://zh.wikipedia.org/wiki/銀暈 "wikilink")，也可能是一個發育不全的[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")\[1\]。它坐落在[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，並且在2009年分析的[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")資料中發現分布著[天琴座RR](../Page/天琴座RR.md "wikilink")變星\[2\]。這個星系距離[太陽大約](https://zh.wikipedia.org/wiki/太陽 "wikilink")8萬秒差距，並以75公里/秒朝向太陽移動\[3\]。

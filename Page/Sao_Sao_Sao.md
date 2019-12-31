@@ -1,3 +1,6 @@
+> 本文内容由[Sao Sao Sao](https://zh.wikipedia.org/wiki/Sao_Sao_Sao)转换而来。
+
+
 **Sao Sao Sao** () ，[泰國唱片公司](https://zh.wikipedia.org/wiki/泰國 "wikilink")的旗下女子偶像團體，1981年至1990年活躍於泰國流行樂壇。成員由、及共3人組成。至今仍被認為是泰國演藝界最成功的女性偶像團體之一。
 
 ## 成員

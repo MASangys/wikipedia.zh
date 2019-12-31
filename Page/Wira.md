@@ -1,3 +1,6 @@
+> 本文内容由[Wira](https://zh.wikipedia.org/wiki/Wira)转换而来。
+
+
 《**Wira**》是一部于2019年开始拍摄的[马来西亚](../Page/马来西亚.md "wikilink")电影，导演[郑建国](https://zh.wikipedia.org/wiki/郑建国_\(马来西亚\) "wikilink")。该电影以拳击为题材。这部电影以好莱坞的规格拍摄，拍摄共耗费八百万[令吉](https://zh.wikipedia.org/wiki/令吉 "wikilink")\[1\]。而且这也是郑建国继他的马来文电影《[Paskal](../Page/Paskal_\(电影\).md "wikilink")》后，再次开拍第二部马来文电影。
 
 ## 故事简介

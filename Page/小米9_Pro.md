@@ -1,3 +1,6 @@
+> 本文内容由[小米9 Pro](https://zh.wikipedia.org/wiki/小米9_Pro)转换而来。
+
+
 **小米9 Pro**是一款由[小米科技于](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2019年9月24日下午发布的搭载[安卓系统的](https://zh.wikipedia.org/wiki/安卓系统 "wikilink")5G智能手机。搭载高通骁龙855 Plus处理器，支持5G NSA组网，理论下行速率可达2.02 Gbps。
 
 ## 简介

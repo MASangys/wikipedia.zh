@@ -1,3 +1,6 @@
+> 本文内容由[Google PageSpeed工具集](https://zh.wikipedia.org/wiki/Google_PageSpeed工具集)转换而来。
+
+
 **Google PageSpeed工具集**是一组由[Google](../Page/Google.md "wikilink")提供的工具集。\[1\] Google于2010年的[开发者大会上推出](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。\[2\]\[3\]PageSpeed工具集中有四个主要组成部分：，又名mod_pagespeed，、及拓展。这四个部分根据Google多年来网页性能的实践识别出网站上的问题并进行自动改进。
 
 ## PageSpeed模块

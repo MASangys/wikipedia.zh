@@ -1,3 +1,6 @@
+> 本文内容由[Broa](https://zh.wikipedia.org/wiki/Broa)转换而来。
+
+
 **Broa** (<span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">\[ˈbɾow.ɐ\]</span> 或 <span class="IPA" title="Representation in the International Phonetic Alphabet (IPA)">\[ˈbɾo.ɐ\]</span>)是一種[麵包](../Page/麵包.md "wikilink")-黑麥麵包，一般從葡萄牙，加利西亞，安哥拉，莫桑比克，拂得角和巴西等地製造(通常還含有調味過的[茴香](../Page/茴香.md "wikilink"))，不像是一般來自英國南方的[小麥麵包](https://zh.wikipedia.org/wiki/小麥 "wikilink")，broa由麥片和[黑麥以及小麥粉混和製成](https://zh.wikipedia.org/wiki/黑麥 "wikilink")，放入發酵過後的酵母取代發酵粉及小蘇打。
 
 “broa”這名字是來来自哥德式語以及蘇維匯人的字“brauth”；是代表麵包的意思。

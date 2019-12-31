@@ -1,3 +1,6 @@
+> 本文内容由[Prima Porta](https://zh.wikipedia.org/wiki/Prima_Porta)转换而来。
+
+
 **Prima Porta**（）是日本的一支由五名[聲優](../Page/聲優.md "wikilink")所組成的偶像組合，所屬唱片公司為。
 
 ## 概要

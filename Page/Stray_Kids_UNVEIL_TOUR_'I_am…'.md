@@ -1,3 +1,6 @@
+> 本文内容由[Stray Kids UNVEIL TOUR \'I am…\'](https://zh.wikipedia.org/wiki/Stray_Kids_UNVEIL_TOUR_\'I_am…\')转换而来。
+
+
 **Stray Kids UNVEIL TOUR 'I am…’**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年舉辦的第一次海外巡迴Showcase。以2018年正式出道為開端，每次發表新專輯時所舉辦的[UNVEIL](../Page/UNVEIL.md "wikilink") Showcase系列：《UNVEIL \[Op. 01 : I am NOT\]》、《UNVEIL \[Op. 02 : I am WHO\]》、《UNVEIL \[Op. 03 : I am YOU\]》作為延長線的演出\[1\]。巡迴Showcase於2019年1月19日在泰國曼谷THUNDER DOME開始，遍及亞洲、澳洲、美洲、歐洲等地，並於2019年9月27日在日本橫濱國際平和會議場國立大廳完成最後一場Showcase，共計14場演出。
 
 ## 概述

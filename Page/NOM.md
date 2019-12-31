@@ -1,3 +1,6 @@
+> 本文内容由[NOM](https://zh.wikipedia.org/wiki/NOM)转换而来。
+
+
 **NOM**（韓語：**엔오엠**），意思指No Other Man，是JM Star娛樂於2013年推出的五人男子組合，成員包括Yongki、K、Yohan、A-In及Hu。2016年2月1日，公司透過facebook宣布團體解散\[1\]。
 
 ## 成員資料

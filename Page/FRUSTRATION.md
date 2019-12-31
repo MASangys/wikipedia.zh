@@ -1,3 +1,6 @@
+> 本文内容由[FRUSTRATION](https://zh.wikipedia.org/wiki/FRUSTRATION)转换而来。
+
+
 《**FRUSTRATION**》是日本女子偶像組合[SKE48](../Page/SKE48.md "wikilink")的第25張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2019年7月24日由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")\[1\]。
 
 ## 概要

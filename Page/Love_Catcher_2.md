@@ -1,3 +1,6 @@
+> 本文内容由[Love Catcher 2](https://zh.wikipedia.org/wiki/Love_Catcher_2)转换而来。
+
+
 《**Love Catcher 2**》（，中譯為**戀愛捕手2**\[1\]）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")於2019年製作的綜藝節目\[2\]\[3\]，由[申東燁](../Page/申東燁.md "wikilink")、[張度練](../Page/張度練.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink")、[DinDin](../Page/DinDin.md "wikilink")、[李弘彬](../Page/李弘彬.md "wikilink")、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")\[4\]等人\[5\]共同主持，主軸以製作組尋找五男五女居住在位於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[濟州島](https://zh.wikipedia.org/wiki/濟州島 "wikilink")[西歸浦市](../Page/西歸浦市.md "wikilink")的「戀愛公寓」\[6\]（男生一棟、女生一棟、共同使用一棟，另有戶外共同空間）中，共同歷經八天七夜。而10人中有「Love Catcher」和「Money Catcher」等角色，各角色需完成自己的任務，獲勝者可獲得韓幣5000萬元（約合新台幣137萬元）\[7\]\[8\]。
 
 ## 節目規則

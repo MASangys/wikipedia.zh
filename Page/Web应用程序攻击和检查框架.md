@@ -1,3 +1,6 @@
+> 本文内容由[Web应用程序攻击和检查框架](https://zh.wikipedia.org/wiki/Web应用程序攻击和检查框架)转换而来。
+
+
 **w3af**（，即：**Web应用程序攻击和审计框架**）是一个[开源的Web应用程序安全扫描器](https://zh.wikipedia.org/wiki/开源 "wikilink")。该项目为[Web应用程序提供了一个漏洞扫描器和漏洞利用工具](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")\[1\]。它提供了有关[安全性漏洞的信息](https://zh.wikipedia.org/wiki/计算机安全隐患 "wikilink")，以便在[渗透测试项目中使用](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。扫描器提供[图形用户界面](../Page/图形用户界面.md "wikilink")和[命令行界面](../Page/命令行界面.md "wikilink")\[2\]。
 
 ## 体系结构

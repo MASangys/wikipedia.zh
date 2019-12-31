@@ -1,3 +1,6 @@
+> 本文内容由[Draft:这个QQ群绝逼有毒](https://zh.wikipedia.org/wiki/Draft:这个QQ群绝逼有毒)转换而来。
+
+
 -----
 
 《**这个QQ群绝逼有毒**》是[静介于](https://zh.wikipedia.org/wiki/静介 "wikilink")2016年在[SF轻小说网站发表的网络小说](https://zh.wikipedia.org/wiki/SF轻小说 "wikilink")，截至目前（2019年8月22日）已经连载到第15卷第144节\[1\]。描述的是主角下载安装了有毒的QQ软件，进入奇怪QQ群从而卷入暗世界事件，在不断的死亡游戏中努力生存。

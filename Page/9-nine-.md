@@ -1,3 +1,6 @@
+> 本文内容由[9-nine-](https://zh.wikipedia.org/wiki/9-nine-)转换而来。
+
+
 《**9-nine-**》是[PALETTE](../Page/PALETTE.md "wikilink")發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2017年4月28日發售第1作\[1\]。2018年4月27日發售第2作\[2\]。2019年4月26日發售第3作\[3\]。預定於2020年4月24日發售第4作《》\[4\]。
 
 ## 故事簡介

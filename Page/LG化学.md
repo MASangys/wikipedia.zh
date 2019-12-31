@@ -1,3 +1,6 @@
+> 本文内容由[LG化学](https://zh.wikipedia.org/wiki/LG化学)转换而来。
+
+
 **LG化学有限公司** （ [韩语](../Page/朝鮮語.md "wikilink")：LG화학），前称“乐喜化学工业社”，是韩国最大的化工企业，总部位于[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[首尔](../Page/首爾.md "wikilink")。按销售额计算，它是2017年全球第十大化工公司。
 
 目前LG化学是一家[企业对企业的公司](https://zh.wikipedia.org/wiki/B2B "wikilink")。

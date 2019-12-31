@@ -1,3 +1,6 @@
+> 本文内容由[Baum-Welch算法](https://zh.wikipedia.org/wiki/Baum-Welch算法)转换而来。
+
+
 在电气工程、计算机科学、统计计算和生物信息学中，Baum-Welch算法是用于寻找隐马尔可夫模型(HMM)未知参数的一种[EM算法](../Page/最大期望算法.md "wikilink")，它利用前向-后向算法来计算E-Step的统计信息。
 
 ## 历史

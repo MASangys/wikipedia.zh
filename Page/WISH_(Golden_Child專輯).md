@@ -1,3 +1,6 @@
+> 本文内容由[WISH \(Golden Child專輯\)](https://zh.wikipedia.org/wiki/WISH_\(Golden_Child專輯\))转换而来。
+
+
 《**WISH**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden Child第三張迷你專輯](../Page/Golden_Child.md "wikilink")，於2018年10月24日由[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")和[LOEN娛樂發行](https://zh.wikipedia.org/wiki/kakao "wikilink")，主打歌為〈Genie〉。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[法蘭克·E·巴特勒](https://zh.wikipedia.org/wiki/法蘭克·E·巴特勒)转换而来。
+
+
 **法蘭西斯·E·巴特勒**（Francis E. Butler，1847年1月30日（受洗）－1926年11月21日）是一位[愛爾蘭裔美國神槍手](../Page/愛爾蘭裔美國人.md "wikilink")，在[美國舊西部綜藝節目中表演](https://zh.wikipedia.org/wiki/美國舊西部 "wikilink")。他與神槍手[安妮·奧克利](../Page/安妮·奧克利.md "wikilink")結婚，雖然在他和奧克利的美國護照申請書上列出的出生日期是1852年2月25日，但1926年由[美聯社發布的巴特勒訃告的年齡為](https://zh.wikipedia.org/wiki/美聯社 "wikilink")76歲，這意味著他出生於1850年。\[1\]然而根據[愛爾蘭國家圖書館的洗禮登記](https://zh.wikipedia.org/wiki/愛爾蘭國家圖書館 "wikilink")，巴特勒於1847年1月30日受洗。\[2\]\[3\]他的父母是邁克爾·巴特勒（Michael Butler）和凱瑟琳·惠蘭（Catherine Whelan）\[4\]\[5\]\[6\]。他是五個孩子中最大的一個。\[7\]\[8\]
 
 ## 逝世

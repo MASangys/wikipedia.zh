@@ -1,3 +1,6 @@
+> 本文内容由[彼得·W·史密斯](https://zh.wikipedia.org/wiki/彼得·W·史密斯)转换而来。
+
+
 **彼得·W·史密斯**（Peter W. Smith，）是一位美国投资家。
 
 ## 生平

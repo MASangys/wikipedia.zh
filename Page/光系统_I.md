@@ -1,3 +1,6 @@
+> 本文内容由[光系统 I](https://zh.wikipedia.org/wiki/光系统_I)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Thylakoid_membrane_3.svg "fig:右")  [缩略图](https://zh.wikipedia.org/wiki/File:Plastomap_of_Arabidopsis_thaliana.svg "fig:缩略图")中*psa*基因的位置。参与光合作用的21种蛋白质编码基因显示为绿色框。 \]\] **光系统 I**（ **PSI**，或**质体蓝素 - 铁氧还蛋白氧化还原酶** ）是[藻类](../Page/藻類.md "wikilink")、[植物](../Page/植物.md "wikilink")和一些[细菌](../Page/细菌.md "wikilink")的光合作用光反应中的第二个[光系统](../Page/光系统.md "wikilink")。 [光系统](../Page/光系统.md "wikilink")  I\[1\]是一种[完整的膜蛋白](https://zh.wikipedia.org/wiki/鑲嵌膜蛋白 "wikilink")[复合物](https://zh.wikipedia.org/wiki/蛋白质复合体 "wikilink")，它使用[光](../Page/光.md "wikilink")[能](../Page/能量.md "wikilink")，以产生高能量载体[ATP和](../Page/三磷酸腺苷.md "wikilink")[NADPH](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")。\[2\] PSI包含超过110个[辅助因子](../Page/辅因子.md "wikilink")，远远超过[光系统II](../Page/光系统_II.md "wikilink")。 \[3\]
 
 ## 历史

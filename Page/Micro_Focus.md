@@ -1,3 +1,6 @@
+> 本文内容由[Micro Focus](https://zh.wikipedia.org/wiki/Micro_Focus)转换而来。
+
+
 **Micro Focus International plc**是一家總部位於英國[纽伯里的跨國信息技術](https://zh.wikipedia.org/wiki/纽伯里_\(伯克郡\) "wikilink")、軟件公司。
 
 ## 歷史

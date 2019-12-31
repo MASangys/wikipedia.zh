@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Miriam Stimson](https://zh.wikipedia.org/wiki/Draft:Miriam_Stimson)转换而来。
+
+
 **Miriam Michael Stimson** (born **Marian Emma Stimson**, December 24, 1913 – June 17, 2002\[1\] in Chicago)\[2\] was a member of the [Adrian Dominican Sisters](https://zh.wikipedia.org/wiki/Adrian_Dominican_Sisters "wikilink") and a chemist. She was the second woman to lecture at the [Sorbonne](https://zh.wikipedia.org/wiki/Sorbonne "wikilink") and taught at [Siena Heights University](https://zh.wikipedia.org/wiki/Siena_Heights_University "wikilink").\[3\] She is noted for her work on [spectroscopy](https://zh.wikipedia.org/wiki/spectroscopy "wikilink"),\[4\] and played a role in the history of understanding [DNA](https://zh.wikipedia.org/wiki/DNA "wikilink").\[5\]\[6\]
 
 ## 早期生活

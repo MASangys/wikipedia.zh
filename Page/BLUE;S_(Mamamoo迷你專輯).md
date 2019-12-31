@@ -1,3 +1,6 @@
+> 本文内容由[BLUE\;S \(Mamamoo迷你專輯\)](https://zh.wikipedia.org/wiki/BLUE\;S_\(Mamamoo迷你專輯\))转换而来。
+
+
 《**BLUE;S**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第八張韓語迷你專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，此專輯為「四季系列」的第三季節。由Rainbow Bridge World企劃製作，透過Kakao M於2018年11月29日發行，主打曲為《Wind flower》。
 
 ## 背景

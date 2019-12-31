@@ -1,3 +1,6 @@
+> 本文内容由[Hopelessly Romantic Collection](https://zh.wikipedia.org/wiki/Hopelessly_Romantic_Collection)转换而来。
+
+
 Hopelessly Romantic Collection 是[容祖兒](../Page/容祖兒.md "wikilink")在相繼5年後推出的新曲加精選專輯，在2013年12月3日發行。這張收錄了4首從未收錄新歌，及31首歌迷最喜愛的情歌，亦是首張不屬於《喜歡祖兒》系列的精選專輯。此專輯收錄的是慢歌精選，而在2013年12月23日發行的All Delicious Collection則是快歌精選。首次於廣州舉行的Moov Live 2013亦收錄於DVD內。唱片封面由著名攝影師陳漫拍攝，是[1314容祖兒演唱會](../Page/1314容祖兒演唱會.md "wikilink")的其中一款海報照。
 
 ## 專輯介紹

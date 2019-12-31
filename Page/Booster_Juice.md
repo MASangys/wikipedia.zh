@@ -1,3 +1,6 @@
+> 本文内容由[Booster Juice](https://zh.wikipedia.org/wiki/Booster_Juice)转换而来。
+
+
 **BoosterJuice有限公司**是[加拿大](../Page/加拿大.md "wikilink")最大的金黃鲜果汁和[冰沙](../Page/冰沙.md "wikilink")酒吧的連鎖店。是由Dale Wishewan董事執行長所經營領導。這間連鎖店的特色是由純[果汁](../Page/蔬果汁.md "wikilink")、[果汁冰糕或香草](https://zh.wikipedia.org/wiki/雪葩 "wikilink")[霜凍優格](../Page/霜凍優格.md "wikilink")，冷凍水果、新鮮優格和冰所打出的鮮果奶昔。創始於1999年在舍伍德公园。艾伯塔省，這間公司迅速地加盟，創下了在一兩年內開業50間的加拿大紀錄。從此，它已發展到有超過350個傳統和25个非傳統的地点在加拿大，其中一個在[印度](../Page/印度.md "wikilink")，一個在[杜拜](../Page/杜拜.md "wikilink")，两個在[美国](../Page/美国.md "wikilink")和三個在[墨西哥](../Page/墨西哥.md "wikilink")。
 
 ## 歷史

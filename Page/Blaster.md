@@ -1,3 +1,6 @@
+> 本文内容由[Blaster](https://zh.wikipedia.org/wiki/Blaster)转换而来。
+
+
 **Blaster**，香港[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，籌備於2007年，成立於2009年，歌曲風格以香港地道事物為主。成員包括[主音](../Page/主音.md "wikilink")「阿軒」、[結他手](https://zh.wikipedia.org/wiki/結他手 "wikilink")「阿俊」、[低音結他手](https://zh.wikipedia.org/wiki/低音結他手 "wikilink")「Kin」、[鍵琴手](https://zh.wikipedia.org/wiki/鍵琴手 "wikilink")「Anton」以及[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")「Rap」。唱片公司為Whatever Music。2014年7月推出成軍後首張樂隊同名專輯《Blaster》\[1\]。樂隊與香港班霸[RubberBand](../Page/RubberBand.md "wikilink")份屬好友。\[2\]2016年推出第二張專輯《Keep Moving Forward》。出道至今推出歌曲《星期一太空漫遊》、《N車》、《碼頭的辛酸》、《遊園地》等嶄露頭角\[3\]。2019年推出歌曲《嗄嘻呵唏》諷刺香港政府及社會上不公義的事情，獲得[東方日報報道](https://zh.wikipedia.org/wiki/東方日報 "wikilink")\[4\]。
 
 ## 曾推出專輯

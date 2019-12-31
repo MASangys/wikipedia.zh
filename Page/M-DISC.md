@@ -1,3 +1,6 @@
+> 本文内容由[M-DISC](https://zh.wikipedia.org/wiki/M-DISC)转换而来。
+
+
 **M-DISC**，或**千年光盘**（）是由Millenniata公司在2009年发明的[一次性写入技术](https://zh.wikipedia.org/wiki/單寫多讀 "wikilink")。\[1\] 介质为[DVD和](../Page/數碼多功能影音光碟.md "wikilink")[蓝光光盘](../Page/藍光光碟.md "wikilink")。\[2\]
 
 ## 概述

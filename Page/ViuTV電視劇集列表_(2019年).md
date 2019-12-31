@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV電視劇集列表 \(2019年\)](https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_\(2019年\))转换而来。
+
+
 本列表列出[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於2019年所播放的[電視連續劇集](https://zh.wikipedia.org/wiki/電視連續劇集 "wikilink")。
 
 除特別註明外，所有劇集播放時均為高清製作。

@@ -1,3 +1,6 @@
+> 本文内容由[Summer Mermaid](https://zh.wikipedia.org/wiki/Summer_Mermaid)转换而来。
+
+
 《**Summer Mermaid**》，[宇野實彩子個人名義發佈的第](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")2首單曲\[1\]，2018年6月13日先行配信\[2\]，於7月18日正式發行。\[3\]
 
 ## 收錄曲

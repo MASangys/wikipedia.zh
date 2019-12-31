@@ -1,3 +1,6 @@
+> 本文内容由[Chloe x Halle](https://zh.wikipedia.org/wiki/Chloe_x_Halle)转换而来。
+
+
 **Chloe x Halle**是一個由克蘿伊（）和荷莉·貝莉（）組成的美國[節奏藍調二人團體](../Page/当代节奏布鲁斯.md "wikilink")。
 
 ## 起源

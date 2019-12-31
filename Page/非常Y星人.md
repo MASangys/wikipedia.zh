@@ -1,3 +1,6 @@
+> 本文内容由[非常Y星人](https://zh.wikipedia.org/wiki/非常Y星人)转换而来。
+
+
 《**非常Y星人**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国科幻剧](https://zh.wikipedia.org/wiki/中国 "wikilink")。由[徐立](../Page/徐立.md "wikilink")、[强川领衔主演](https://zh.wikipedia.org/wiki/强川 "wikilink")\[1\]，[爱奇艺](../Page/爱奇艺.md "wikilink")于2019年5月22日首播。\[2\]
 
 ## 播出时间

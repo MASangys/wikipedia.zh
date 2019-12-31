@@ -1,3 +1,6 @@
+> 本文内容由[Perfume Clips 2](https://zh.wikipedia.org/wiki/Perfume_Clips_2)转换而来。
+
+
 《**Perfume Clips 2**》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第二张音樂錄影帶集](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")。於2017年11月29日發行。唱片公司為[Perfume Records / UNIVERSAL J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。\[1\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Cherry \(樱桃键盘\)](https://zh.wikipedia.org/wiki/Cherry_\(樱桃键盘\))转换而来。
+
+
 **Cherry GmbH**（前身为**Cherry Corporation**，简称：CHERRY）是[德国](../Page/德国.md "wikilink")计算机外设制造商。 该公司创始在美国，总部设在德国。\[1\]\[2\]
 
 它在[美国](../Page/美国.md "wikilink")，[法国和](https://zh.wikipedia.org/wiki/法国 "wikilink")[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")\[3\]设有办事处。

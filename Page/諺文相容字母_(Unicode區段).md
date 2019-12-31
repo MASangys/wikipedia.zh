@@ -1,3 +1,6 @@
+> 本文内容由[諺文相容字母 \(Unicode區段\)](https://zh.wikipedia.org/wiki/諺文相容字母_\(Unicode區段\))转换而来。
+
+
 **諺文相容字母**（）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，與韓國官方標準[KS X 1001:1998相容](https://zh.wikipedia.org/wiki/KS_X_1001:1998 "wikilink")。
 
 ## 區段

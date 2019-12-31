@@ -1,3 +1,6 @@
+> 本文内容由[The Magic Of Christmas Time](https://zh.wikipedia.org/wiki/The_Magic_Of_Christmas_Time)转换而来。
+
+
 ''' TAEYEON SPECIAL LIVE 《The Magic Of Christmas Time》 '''是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍耶誕特別演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[PSYCHO SKULL](https://zh.wikipedia.org/wiki/PSYCHO_SKULL)转换而来。
+
+
 瘋髏(PSYCHO SKULL) 是一個香港[獨立音樂](../Page/獨立音樂.md "wikilink")搖滾樂隊。由五位成員包括KEI(主唱)、HODE（結他手）、WATER（結他手）、GJ（低音結他手）及VINE（鼓手）組成，曲風特色是Heavy Rock。
 
 團名取自「瘋狂的骷髏」（PSYCHO SKULL）之意。以五人獨特的音樂風格和視覺系出格打扮因而為人熟知。

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:Infobox animanga](https://zh.wikipedia.org/wiki/Draft:Template:Infobox_animanga)转换而来。
+
+
 }}}}}}}
 
 </div>

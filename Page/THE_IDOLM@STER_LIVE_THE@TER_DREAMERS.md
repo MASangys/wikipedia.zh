@@ -1,3 +1,6 @@
+> 本文内容由[THE IDOLM@STER LIVE THE@TER DREAMERS](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_DREAMERS)转换而来。
+
+
 《**THE IDOLM@STER LIVE THE@TER DREAMERS**》（日語：），是[Lantis](../Page/Lantis.md "wikilink")自[2015年](../Page/2015年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")起發售的《[偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")》角色歌曲系列專輯。簡稱「LTD」。
 
 ## 概要

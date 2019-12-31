@@ -1,3 +1,6 @@
+> 本文内容由[Ross–Fahroo擬譜法](https://zh.wikipedia.org/wiki/Ross–Fahroo擬譜法)转换而来。
+
+
 **Ross–Fahroo擬譜法**（Ross–Fahroo pseudospectral methods）是由和[Fariba Fahroo導入的方法](../Page/Fariba_Fahroo.md "wikilink")，屬於[擬譜最佳控制](../Page/擬譜最佳控制.md "wikilink")中的一部份\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。Ross–Fahroo擬譜法的例子有[擬譜knotting法](../Page/擬譜knotting法.md "wikilink")、[平坦擬譜法](../Page/平坦擬譜法.md "wikilink")、Legendre-Gauss-Radau擬譜法\[10\]\[11\]以及無限時域滾動最佳控制的擬譜法\[12\] \[13\]。
 
 ## 簡介

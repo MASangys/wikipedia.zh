@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t Mess Up My Tempo](https://zh.wikipedia.org/wiki/Don\'t_Mess_Up_My_Tempo)转换而来。
+
+
 《**DON'T MESS UP MY TEMPO**》是[南韓偶像團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[EXO](../Page/EXO.md "wikilink")的第五張正規專輯，距離第四張正規專輯《[The War](../Page/The_War.md "wikilink")》有1年4個月之久，於2018年11月2日發行。\[1\]
 
 ## 簡介

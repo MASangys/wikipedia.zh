@@ -1,3 +1,6 @@
+> 本文内容由[Look At Me \(韓國綜藝\)](https://zh.wikipedia.org/wiki/Look_At_Me_\(韓國綜藝\))转换而来。
+
+
 《**Look At Me**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBCevery](https://zh.wikipedia.org/wiki/MBC "wikilink")1電視台2018年推出的綜藝節目，由[金栽經](../Page/金栽經.md "wikilink")（[Rainbow](../Page/Rainbow_\(音樂團體\).md "wikilink")）\[1\]、[Lizzy](../Page/Lizzy_\(韓國歌手\).md "wikilink")（[After School](../Page/After_School.md "wikilink")）\[2\]、[南寶拉](../Page/南寶拉.md "wikilink")、[Sowon](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）共同主持\[3\]，節目主軸為向觀眾傳達最新美妝情報的Beauty curating show。
 
 ## 各集內容

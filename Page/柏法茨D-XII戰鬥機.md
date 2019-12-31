@@ -1,3 +1,6 @@
+> 本文内容由[柏法茨D-XII戰鬥機](https://zh.wikipedia.org/wiki/柏法茨D-XII戰鬥機)转换而来。
+
+
 **柏法茨D-XII雙翼戰鬥機**是在[第一次世界大戰時由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[柏法茨飛機公司](https://zh.wikipedia.org/wiki/柏法茨飛機公司 "wikilink")（）研製的雙翼戰鬥機。
 
 柏法茨公司原是一家在[巴伐利亞專門從事金屬零件鑄造的工廠](https://zh.wikipedia.org/wiki/巴伐利亞 "wikilink")，1913年6月3日開始生產飛機，而在其航空業務當中除了初期仿製過法國的[莫蘭-索尼耶H單翼機而成為其](https://zh.wikipedia.org/wiki/莫蘭-索尼耶H單翼機 "wikilink")[柏法茨E單翼戰鬥機](../Page/柏法茨E單翼戰鬥機.md "wikilink")，其餘就以代工生產LFG羅蘭公司的飛機，柏法茨D-XII戰鬥機是該公司為了1918年6月，為了在德國軍方的「新型戰鬥機大賽」當中獲勝而得訂單所研發，但這種戰鬥機卻一直被[福克D-VII戰鬥機](../Page/福克D-VII戰鬥機.md "wikilink")比下去。

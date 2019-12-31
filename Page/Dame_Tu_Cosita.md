@@ -1,3 +1,6 @@
+> 本文内容由[Dame Tu Cosita](https://zh.wikipedia.org/wiki/Dame_Tu_Cosita)转换而来。
+
+
 "**Dame Tu Cosita**" (, 意思为"*给我你的小东西*"\[1\] or "*给我你的东西*"\[2\]) 是一首由巴拿马歌手和牙买加音乐家于1997年制作的歌曲，该歌曲后来于2018年再次推出，而[皮普保罗](../Page/皮普保罗.md "wikilink")和也在8月29日推出混音版本。
 
 ## 参考资料

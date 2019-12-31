@@ -1,3 +1,6 @@
+> 本文内容由[Sleepwalking \(The Chain Gang of 1974單曲\)](https://zh.wikipedia.org/wiki/Sleepwalking_\(The_Chain_Gang_of_1974單曲\))转换而来。
+
+
 《**Sleepwalking**》是由[美國電子搖滾樂隊](https://zh.wikipedia.org/wiki/美國 "wikilink")於2014年3月18日推出的單曲，歌曲由樂隊主唱Kamtin Mohager以及James Bailey、Rami Jrade和Ryan Ogren共同撰寫。該曲同時收錄於The Chain Gang of 1974的第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《》以及知名[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》的原聲帶\[1\]\[2\]\[3\]。
 
 ## 製作

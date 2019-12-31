@@ -1,3 +1,6 @@
+> 本文内容由[Welcome To The Sechskies Land](https://zh.wikipedia.org/wiki/Welcome_To_The_Sechskies_Land)转换而来。
+
+
 《**Welcome To The Sechskies Land**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩](../Page/水晶男孩.md "wikilink")於出道專輯《[學園別曲](../Page/學園別曲.md "wikilink")》宣傳活動結束後，相隔僅約四十天發行的第二張正規專輯\[1\]，由[Daesung企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")（現已更名為[DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")）製作，Daeyoung AV於1997年11月1日發行\[2\]。專輯收錄二十首歌曲，其中主打歌〈騎士道〉為[水晶男孩](../Page/水晶男孩.md "wikilink")首支音樂節目冠軍歌曲。
 
 ## 軼事

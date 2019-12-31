@@ -1,3 +1,6 @@
+> 本文内容由[法證先鋒IV](https://zh.wikipedia.org/wiki/法證先鋒IV)转换而来。
+
+
 《**法證先鋒IV**》（），是香港電視廣播有限公司拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第四輯，取用[阿萊](../Page/阿萊.md "wikilink")[艾麗莎](https://zh.wikipedia.org/wiki/艾麗莎 "wikilink")[攝影機](../Page/攝影機.md "wikilink")拍攝。此劇由[黃浩然](../Page/黃浩然.md "wikilink")、[李施嬅](../Page/李施嬅.md "wikilink")、[譚俊彥](../Page/譚俊彥.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")、[朱晨麗及](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")[湯洛雯](../Page/湯洛雯.md "wikilink")領銜主演，由[鄭希怡](../Page/鄭希怡.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張頴康](../Page/張頴康.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[海俊傑](../Page/海俊傑.md "wikilink")及[康華](../Page/康華.md "wikilink")聯合主演，並由[張曦雯](../Page/張曦雯.md "wikilink")\[1\]、[謝賢](../Page/謝賢.md "wikilink")、[米雪](../Page/米雪.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")及[麥玲玲](../Page/麥玲玲.md "wikilink")特別演出，編審[梁敏華](../Page/梁敏華.md "wikilink")、[阮美鳳](../Page/阮美鳳.md "wikilink")、[冼翠貞](../Page/冼翠貞.md "wikilink")，監製[方俊華](../Page/方俊華.md "wikilink")，總監製[梅小青](../Page/梅小青.md "wikilink")，出品人為[杜之克](../Page/杜之克.md "wikilink")。\[2\]該輯的故事與前三輯無關。
 
 此劇為[2019無綫節目巡禮](../Page/2019無綫節目巡禮.md "wikilink")19部劇集之一及2019年[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")10部推介劇集之一及[2020無綫節目巡禮](https://zh.wikipedia.org/wiki/2020無綫節目巡禮 "wikilink")12部劇集之一。

@@ -1,3 +1,6 @@
+> 本文内容由[Ice Lake微架构](https://zh.wikipedia.org/wiki/Ice_Lake微架构)转换而来。
+
+
 **Ice Lake** 是第十代[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[酷睿](https://zh.wikipedia.org/wiki/酷睿 "wikilink") 处理器代号 ，基于新微架构[Sunny Cove微架构](https://zh.wikipedia.org/wiki/Sunny_Cove微架构 "wikilink")，使用第二代10nm工艺制造。其计划在2019和2020年替代基于[Skylake微架构的处理器](https://zh.wikipedia.org/wiki/Skylake微架构 "wikilink")\[1\]。\[2\]\[3\]\[4\] 由于Intel 10nm 节点产能不足和时钟频率低等原因，Intel被迫发布[Comet Lake微架构](../Page/Comet_Lake微架构.md "wikilink")。\[5\]\[6\]\[7\]\[8\]\[9\]
 
 ## 设计

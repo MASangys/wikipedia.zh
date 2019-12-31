@@ -1,3 +1,6 @@
+> 本文内容由[Save your dream](https://zh.wikipedia.org/wiki/Save_your_dream)转换而来。
+
+
 《**save your dream**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第5張單曲。
 
 ## 說明

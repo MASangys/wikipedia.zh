@@ -1,3 +1,6 @@
+> 本文内容由[Shimamo](https://zh.wikipedia.org/wiki/Shimamo)转换而来。
+
+
 **shimamo**（）是[日本](../Page/日本.md "wikilink")的女性[创作歌手](../Page/創作歌手.md "wikilink")、[YouTuber](../Page/YouTuber.md "wikilink")，出生于日本[宫城县](https://zh.wikipedia.org/wiki/宫城县 "wikilink")。以在[YouTube](../Page/YouTube.md "wikilink")直播中即兴点歌弹唱而知名，被誉为“YouTubeLive演唱会的女王”。
 
 ## 经历

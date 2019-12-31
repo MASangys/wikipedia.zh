@@ -1,3 +1,6 @@
+> 本文内容由[Gala360](https://zh.wikipedia.org/wiki/Gala360)转换而来。
+
+
 **Gala360**是一个关于[全景图](../Page/全景图.md "wikilink")片与视频的聚合站，同时也提供多平台的[app支持](../Page/流動應用程式.md "wikilink")。包括但可能不限于[Oculus Rift](../Page/Oculus_Rift.md "wikilink")、[Google Cardboard](../Page/Google_Cardboard.md "wikilink")、[Google Daydream](../Page/Google_Daydream.md "wikilink")、[三星Gear VR及](../Page/三星Gear_VR.md "wikilink")[Microsoft HoloLens](../Page/Microsoft_HoloLens.md "wikilink")。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[LiteBIRD](https://zh.wikipedia.org/wiki/LiteBIRD)转换而来。
+
+
 **LiteBIRD**（缩写自：Lite (Light) satellite for the studies of B-mode polarization and Inflation from cosmic background Radiation Detection）是尚在计划中的小型空间探测器。LiteBIRD 由日本[宇宙航空研究开发机构开发](https://zh.wikipedia.org/wiki/宇宙航空研究开发机构 "wikilink")，旨在观测[原初引力波在](https://zh.wikipedia.org/wiki/原初引力波 "wikilink")[宇宙微波背景辐射中产生的](https://zh.wikipedia.org/wiki/宇宙微波背景辐射 "wikilink")偏振。
 
 ## 概览

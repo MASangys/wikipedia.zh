@@ -1,3 +1,6 @@
+> 本文内容由[CFexpress](https://zh.wikipedia.org/wiki/CFexpress)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:CFexpress_Logo.jpg "fig:右") **CFexpress**是一种由[CompactFlash](../Page/CompactFlash.md "wikilink")联盟提出的可移动媒体卡标准。此标准将使用1至8条通道的[PCIe](../Page/PCI_Express.md "wikilink") 3.0接口传输，每条通道最多可传输1 GB/s的数据。此标准也支持通过[NVM Express提供低开销与低延迟的传输](../Page/NVM_Express.md "wikilink")。同时，其也依据不同的PCIe通道数，提供多种功能形态。\[1\]此标准被制定的一个目的是通过兼容已经被广泛使用的标准，如PCIe与NVMe，来统一可移动储存的生态系统。控制器，软件与设备中已广泛使用此标准。
 
 ## 历史

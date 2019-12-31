@@ -1,3 +1,6 @@
+> 本文内容由[模块:Navbox with collapsible groups](https://zh.wikipedia.org/wiki/模块:Navbox_with_collapsible_groups)转换而来。
+
+
 \-- This module implements  local q = {} local Navbox = require('Module:Navbox')
 
 \-- helper functions local function concatstrings(s)

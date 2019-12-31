@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM 黑衣的狩人](https://zh.wikipedia.org/wiki/机动战士GUNDAM_黑衣的狩人)转换而来。
+
+
 《**机动战士高达 黑衣的狩人**》（）是执笔的[日本](../Page/日本.md "wikilink")高达系列[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 简介

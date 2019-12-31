@@ -1,3 +1,6 @@
+> 本文内容由[JPEG XT](https://zh.wikipedia.org/wiki/JPEG_XT)转换而来。
+
+
 **JPEG XT** 是一種基於並兼容[JPEG](../Page/JPEG.md "wikilink")標準（ISO / IEC 10918-1和ITU Rec.T.81）圖像壓縮標準。
 
 相比於 JPEG, JPEG XT 支援更高的色彩深度，高動態範圍成像和浮點數編碼，無損編碼，alpha頻道編碼。JPEG XT 向下相容 JPEG / JFIF 格式。

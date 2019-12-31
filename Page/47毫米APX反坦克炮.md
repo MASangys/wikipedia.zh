@@ -1,3 +1,6 @@
+> 本文内容由[47毫米APX反坦克炮](https://zh.wikipedia.org/wiki/47毫米APX反坦克炮)转换而来。
+
+
 47毫米APX反坦克炮[第二次世界大戰爆發首年開始服役的法國](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[反坦克炮](../Page/反坦克炮.md "wikilink")。
 
 ## 設計

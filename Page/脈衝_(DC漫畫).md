@@ -1,3 +1,6 @@
+> 本文内容由[脈衝 \(DC漫畫\)](https://zh.wikipedia.org/wiki/脈衝_\(DC漫畫\))转换而来。
+
+
 **脈衝**（）是美國出版的[DC漫畫](../Page/DC漫畫.md "wikilink")中三名[超級英雄共享的身份](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")。
 
 ## 出版歷史

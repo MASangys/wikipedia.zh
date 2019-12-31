@@ -1,3 +1,6 @@
+> 本文内容由[Kara獲獎經歷及紀錄列表](https://zh.wikipedia.org/wiki/Kara獲獎經歷及紀錄列表)转换而来。
+
+
 以下為韓國女子組合[Kara](../Page/Kara.md "wikilink")由出道至今於頒獎典禮的獲獎及紀錄。
 
 ## 獎項

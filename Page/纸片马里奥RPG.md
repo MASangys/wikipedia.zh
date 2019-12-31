@@ -1,3 +1,6 @@
+> 本文内容由[纸片马里奥RPG](https://zh.wikipedia.org/wiki/纸片马里奥RPG)转换而来。
+
+
 是紙片馬里奧系列的第二作，[任天堂](../Page/任天堂.md "wikilink")在2004年推出的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，由[Intelligent Systems製作](../Page/Intelligent_Systems.md "wikilink")，對應[Nintendo GameCube平台](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink")。玩家需操控紙片馬里奧，收集七顆水晶星星，以打開千年之門；同時從邪惡組織的手上拯救[碧姬公主](https://zh.wikipedia.org/wiki/碧姬公主 "wikilink")。本遊戲於2004年7月22日率先在日本地區發行，之後於10月11日在北美地區發行，於11月12和18日先後在歐洲和澳洲地區發行。
 
 本遊戲收到多數正面的評價，[GameRankings](../Page/GameRankings.md "wikilink")給與88%的分數，[Metacritic](../Page/Metacritic.md "wikilink")則給與87%。\[1\]\[2\]

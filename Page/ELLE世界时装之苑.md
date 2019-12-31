@@ -1,3 +1,6 @@
+> 本文内容由[ELLE世界时装之苑](https://zh.wikipedia.org/wiki/ELLE世界时装之苑)转换而来。
+
+
 《**ELLE世界時裝之苑**》為國際性時尚雜誌《[ELLE](../Page/ELLE.md "wikilink")》於[中國大陸發行的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[簡體中文版本](https://zh.wikipedia.org/wiki/簡化字 "wikilink")。
 
 ## 歷史

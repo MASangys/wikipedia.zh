@@ -1,3 +1,6 @@
+> 本文内容由[Draft:探索星球Go Explore Planet](https://zh.wikipedia.org/wiki/Draft:探索星球Go_Explore_Planet)转换而来。
+
+
 <font color="#F8513A">探索星球 Go Explore Planet</font> 於2018年10月17成立的影像拍攝工作室。從2018年接下<font color="#10D36C">[交通部觀光局](https://www.taiwan.net.tw/)</font> 「2018 青年壯遊 年度形象片」後嶄露頭角，成立至今服務客戶已跨足<font color="#10D36C">[外交部](https://www.mofa.gov.tw/)</font> 、<font color="#10D36C">[林務局](https://www.forest.gov.tw/)</font> 、各地縣市政府、旅遊風景管理單位、民間基金會機構、國內外旅行社、各國旅遊局、大專院校……等產官學數百家單位。
 <font size="4"><strong>影像風格 </strong></font>
 致力於電影敘事鏡頭的方式，拍出貼近生活感的旅遊影片。放棄時下觀眾較偏好高度綜藝感的旅遊影片模式，探索星球擅長利用劇本編排來營造情境氣氛，讓畫面站在觀影者的角度來說故事，用｢感動」與｢身歷其境」來打動人心。此模式更首創在會議中使用，將偏向學術且較沉悶的會議影片提升到具有「溫度｣與「價值｣的紀錄片規格。使得其具獨特又貼近人心的風格深受好評。

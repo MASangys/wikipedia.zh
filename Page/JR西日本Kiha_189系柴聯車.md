@@ -1,3 +1,6 @@
+> 本文内容由[JR西日本Kiha 189系柴聯車](https://zh.wikipedia.org/wiki/JR西日本Kiha_189系柴聯車)转换而来。
+
+
 是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink") （JR-West）的[柴聯車](../Page/柴聯車.md "wikilink")，由[新潟運輸系統](../Page/新潟運輸系統.md "wikilink")製造，於2010年11月起運用於[大阪與](https://zh.wikipedia.org/wiki/大阪車站 "wikilink")[鳥取之間的](../Page/鳥取站.md "wikilink")[濱風號列車](../Page/濱風號列車.md "wikilink") \[1\]
 
 ## 行駛列車

@@ -1,3 +1,6 @@
+> 本文内容由[Conda](https://zh.wikipedia.org/wiki/Conda)转换而来。
+
+
 **Conda**是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")\[1\][跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")\[2\]\[3\]的[包管理与环境管理系统](https://zh.wikipedia.org/wiki/包管理器 "wikilink")。\[4\]\[5\]由“连续统分析”（Continuum Analytics）基于[BSD许可证](../Page/BSD许可证.md "wikilink")发布。\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]
 
 Conda允许用户方便地安装不同版本的[二进制软件包与该](https://zh.wikipedia.org/wiki/二进制文件 "wikilink")[计算平台需要的所有库](https://zh.wikipedia.org/wiki/计算平台 "wikilink")。还允许用户在不同版本的包之间切换、从一个下载包并安装。

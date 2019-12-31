@@ -1,3 +1,6 @@
+> 本文内容由[Maywish](https://zh.wikipedia.org/wiki/Maywish)转换而来。
+
+
 **Maywish**（），是[韓國Jeinain娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年推出的四人女子組合，成員包括Anna、Hyoin、Jelly、Soeun。
 
 ## 成員資料

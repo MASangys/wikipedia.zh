@@ -1,3 +1,6 @@
+> 本文内容由[Player \(韓國綜藝\)](https://zh.wikipedia.org/wiki/Player_\(韓國綜藝\))转换而来。
+
+
 《**Player**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[XtvN綜藝節目](https://zh.wikipedia.org/wiki/XtvN "wikilink")，玩家們需忍笑並履行各自任務的節目。 \[1\]
 
 ## 節目概要

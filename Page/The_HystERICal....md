@@ -1,3 +1,6 @@
+> 本文内容由[The HystERICal...](https://zh.wikipedia.org/wiki/The_HystERICal...)转换而来。
+
+
 《**the HystERICal...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的個人迷你音樂專輯，於2018年11月16日推出。
 
 ## 曲目列表

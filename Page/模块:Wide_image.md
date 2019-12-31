@@ -1,3 +1,6 @@
+> 本文内容由[模块:Wide image](https://zh.wikipedia.org/wiki/模块:Wide_image)转换而来。
+
+
 \-- This module implements [template:wide image](https://zh.wikipedia.org/wiki/template:wide_image "wikilink") and [template:panorama](https://zh.wikipedia.org/wiki/template:panorama "wikilink") local p = {}
 
 local function getfilename(s)

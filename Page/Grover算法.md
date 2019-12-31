@@ -1,3 +1,6 @@
+> 本文内容由[Grover算法](https://zh.wikipedia.org/wiki/Grover算法)转换而来。
+
+
 **Grover算法**是一種量子算法，於1996年由計算機科學家 Lov Grover提出。假設現在有一個未知的函數，Grover算法只需對此未知的函數做 \(O(\sqrt{N})\) 次測試，其中\(N\)為此未知函數的[定义域](../Page/定义域.md "wikilink")的大小，即可以很高的概率找到一特定的輸入值，此輸入值能使此未知函數輸出特定的值。
 
 同樣的問題在經典運算下，需要至少做 \(O(N)\) 次測試 (因為在最壞的情況下，可能第\(N\)個定義域裡的值才是正確答案)。在Grover 發表他的算法前後，Bennett, Bernstein, Brassard, 和 Vazirani 在相近的時間證明了，任何量子算法解決此問題都最少需要對此未知的函數做 \(\Omega(\sqrt{N})\) 次測試，因此Grover算法是[渐进最优的](https://zh.wikipedia.org/wiki/渐进最优 "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[French 單位](https://zh.wikipedia.org/wiki/French_單位)转换而来。
+
+
 導管尺寸的量度單位是**French**，通常被簡稱為**Fr**，但**Fg**、**FR**或**F**亦為常見簡稱。它也可以简称为**CH**或**Ch**（以紀念它的創立人——）。而*gauge、G*或*GA*一般是指[伯明罕線規](https://zh.wikipedia.org/wiki/伯明罕線規 "wikilink")，並非French單位。\[1\]
 
 需要注意的是，French單位量度的是導管的外徑。

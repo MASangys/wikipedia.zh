@@ -1,3 +1,6 @@
+> 本文内容由[特务机关NERV \(灾害速报账号\)](https://zh.wikipedia.org/wiki/特务机关NERV_\(灾害速报账号\))转换而来。
+
+
 **特务机关NERV**（）是日本的一个灾害速报账号，由石森大贵及其所在的信息安全公司Gehirn所运营，名字取自日本动画《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中的虚构國際武裝組織「[聯合國直屬特務機關NERV](https://zh.wikipedia.org/wiki/聯合國直屬特務機關NERV "wikilink")」，运营于[推特和](https://zh.wikipedia.org/wiki/推特 "wikilink")[Mastodon](../Page/Mastodon.md "wikilink")上，主要用于播报[地震](../Page/地震.md "wikilink")信息，也有报道电车停运等信息。帐号从[日本气象厅等机构收集信息后使用程序自动进行分析生成图文报告播报](https://zh.wikipedia.org/wiki/日本气象厅 "wikilink")，其播报速度有时还比官方的[紧急地震速报](../Page/紧急地震速报.md "wikilink")快。
 
 ## 历史

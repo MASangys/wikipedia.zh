@@ -1,3 +1,6 @@
+> 本文内容由[呀〈KIBA〉～暗黑騎士鎧傳～](https://zh.wikipedia.org/wiki/呀〈KIBA〉～暗黑騎士鎧傳～)转换而来。
+
+
 《**呀〈KIBA〉～暗黑騎士鎧傳～**》（**原文**：呀-KIBA- 〜暗黒騎士鎧伝〜）。特攝劇集《[牙狼](https://zh.wikipedia.org/wiki/牙狼GARO "wikilink")》系列的首部獨立角色外傳電影。[2011年](../Page/2011年.md "wikilink")[9月3日](../Page/9月3日.md "wikilink")劇場版上映，[2011年](../Page/2011年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")DVD\&Blu-ray版本發售。
 
 ## 本作概要

@@ -1,3 +1,6 @@
+> 本文内容由[LULUZ](https://zh.wikipedia.org/wiki/LULUZ)转换而来。
+
+
 **LULUZ**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")旗下的女子组合，由瑞潤、露雅、恩絮組成。
 
 組合名稱是由兩個詞語**LU**men和**LUZ**合起來而成的，寓意發光發亮。

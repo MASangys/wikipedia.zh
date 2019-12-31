@@ -1,3 +1,6 @@
+> 本文内容由[三叉戟II型弹道导弹](https://zh.wikipedia.org/wiki/三叉戟II型弹道导弹)转换而来。
+
+
 **UGM-133A三叉戟II型弹道导弹**，又称**三叉戟D5**是一款[潜射弹道导弹](../Page/潜射弹道导弹.md "wikilink")（SLBM），由[洛克希德·马丁](../Page/洛克希德·马丁.md "wikilink")公司位于加州[森尼韦尔的空间系统公司研发制造](../Page/森尼韦尔_\(加利福尼亚州\).md "wikilink")，装备[美国以及](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[英国海军](https://zh.wikipedia.org/wiki/英国海军 "wikilink")。三叉戟II型于1990年首次服役\[1\]，是三叉戟I型的改进型号，打击精度更高，载荷、航程也均有增加。是美国[核三位一体](../Page/核三位一体.md "wikilink")重要的一环，也是美国[核威慑重要的组成部分](https://zh.wikipedia.org/wiki/威慑理论 "wikilink")。三叉戟II型是具有威慑力的海基弹道导弹，也是美国在[新削减战略武器条约](../Page/新削减战略武器条约.md "wikilink")的谈判过程中有力的筹码。由于弹头载荷的增大，美国军方只需要更少的核潜艇就能达成同样的核威慑力\[2\]，且由于及精度很高，接近[路基弹道导弹](https://zh.wikipedia.org/wiki/洲际弹道导弹 "wikilink")，三叉戟II型可用于[一次打击](../Page/一次打击.md "wikilink")。\[3\]\[4\]\[5\]
 
 ## 战备

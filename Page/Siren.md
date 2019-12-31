@@ -1,3 +1,6 @@
+> 本文内容由[Siren](https://zh.wikipedia.org/wiki/Siren)转换而来。
+
+
 **《Siren》**（；中文：警報）為韓國歌手[善美的一首單曲](https://zh.wikipedia.org/wiki/善美 "wikilink")，此單曲由MakeUS娛樂在2018年9月4日發行。
 
 ## 創作背景

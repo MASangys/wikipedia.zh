@@ -1,3 +1,6 @@
+> 本文内容由[Dassault Mirage G](https://zh.wikipedia.org/wiki/Dassault_Mirage_G)转换而来。
+
+
 **幻象G型戰鬥機**（Dassault Mirage G），是一種由[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[達梭公司](../Page/達梭航太.md "wikilink")（Dassault）公司製造的中型空優及攻擊用戰機，並作為驗證應用[可變後掠翼](../Page/可變後掠翼.md "wikilink")技術的測試平台。項目被發展成兩個分型，分別為雙引擎配置的 G4 及目標為發展成用作截撃及進行核攻擊用途的[多功能戰鬥機的](https://zh.wikipedia.org/wiki/多功能戰機 "wikilink") G8。雖然[達梭航太](../Page/達梭航太.md "wikilink")建造了數架樣版機並進行了試飛，但整個項目還是在1970年代中期被中止。\[1\]
 
 [Mirage_G8-01_Musee_de_l'Air_et_de_l'Espace,_Le_Bourget,_Paris._(8212588506).jpg](https://zh.wikipedia.org/wiki/File:Mirage_G8-01_Musee_de_l'Air_et_de_l'Espace,_Le_Bourget,_Paris._\(8212588506\).jpg "fig:Mirage_G8-01_Musee_de_l'Air_et_de_l'Espace,_Le_Bourget,_Paris._(8212588506).jpg")（Musée de l'Air et de l'Espace）。\]\]

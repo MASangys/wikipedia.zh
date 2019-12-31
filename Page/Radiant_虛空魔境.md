@@ -1,3 +1,6 @@
+> 本文内容由[Radiant 虛空魔境](https://zh.wikipedia.org/wiki/Radiant_虛空魔境)转换而来。
+
+
 《**Radiant 虛空魔境**》（）是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")**Tony Valente**的奇幻题材[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，2018年9月20日宣布動畫化，同名改编电视动画于2018年10月6日播出（1期），第2期于2019年10月2日开始播放。
 
 ## 故事簡介

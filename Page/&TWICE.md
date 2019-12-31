@@ -1,3 +1,6 @@
+> 本文内容由[\&TWICE](https://zh.wikipedia.org/wiki/\&TWICE)转换而来。
+
+
 《**\&TWICE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第二張日語正規專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2019年11月20日推出。主打歌為〈Fake & True〉。\[1\]
 
 ## 發行

@@ -1,3 +1,6 @@
+> 本文内容由[＃TWICE2](https://zh.wikipedia.org/wiki/＃TWICE2)转换而来。
+
+
 《**\#TWICE2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[TWICE在日本出道後第二張精選專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2019年3月6日發行。\[1\]\[2\]
 
 ## 背景

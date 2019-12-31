@@ -1,3 +1,6 @@
+> 本文内容由[TWICE WORLD TOUR 2019 : TWICELIGHTS](https://zh.wikipedia.org/wiki/TWICE_WORLD_TOUR_2019_:_TWICELIGHTS)转换而来。
+
+
 **TWICE WORLD TOUR 2019 : TWICELIGHTS**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2019年舉辦的第一次單獨世界巡迴演唱會。\[1\]
 
 ## 巡演時間表

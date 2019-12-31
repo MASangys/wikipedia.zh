@@ -1,3 +1,6 @@
+> 本文内容由[凱旋 \(DC漫畫\)](https://zh.wikipedia.org/wiki/凱旋_\(DC漫畫\))转换而来。
+
+
 **凱旋**（）是一名[DC漫畫](../Page/DC漫畫.md "wikilink")旗下的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，最初登場於《[美國正義聯盟](https://zh.wikipedia.org/wiki/國際正義聯盟 "wikilink")》\#92（1994年9月），由、及創作，雖然該角的創作大多由所構想。此外，凱旋和名稱相似的[黃金時代英雄](../Page/漫畫的黃金時代.md "wikilink")是截然不同的角色（同屬DC漫畫）。
 
 [正義聯盟](../Page/正義聯盟.md "wikilink")原始領導人和創始成員的凱旋多年來一直迷失在時間流中並被盟友遺忘。他在《》之後回到了現代並因失去了自己的地位而陷入掙扎。回歸後，他曾是的成員。

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:GagaOOLala](https://zh.wikipedia.org/wiki/Draft:GagaOOLala)转换而来。
+
+
 }}
 
 **GagaOOLala** 是一個從台北發跡的訂閱制[隨選視訊](../Page/隨選視訊.md "wikilink")串流平台，專門提供LGBT相關議題的隨選串流影片。2016年由杰德影音所創立，是亞洲第一個以LGBTQ+影音內容為主的 [OTT](https://zh.wikipedia.org/wiki/OTT "wikilink") 平台\[1\]，收錄多部劇情長片、記錄片、短片、影集和原創內容\[2\]。

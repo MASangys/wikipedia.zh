@@ -1,3 +1,6 @@
+> 本文内容由[庞巴迪Innovia Metro](https://zh.wikipedia.org/wiki/庞巴迪Innovia_Metro)转换而来。
+
+
 **庞巴迪Innovia Metro**，原名**ART**（Advanced Rapid Transit），是[庞巴迪生产的一种地铁列车](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")。属于直线电机车型。
 
 ## 使用

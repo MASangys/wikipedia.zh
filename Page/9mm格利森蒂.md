@@ -1,3 +1,6 @@
+> 本文内容由[9mm格利森蒂](https://zh.wikipedia.org/wiki/9mm格利森蒂)转换而来。
+
+
 **9mm格利森蒂**（）是一種被部分[義大利](../Page/意大利.md "wikilink")[手槍和](../Page/手枪.md "wikilink")[衝鋒槍使用的](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。\[1\]
 
 ## 歷史與使用

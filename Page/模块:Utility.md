@@ -1,3 +1,6 @@
+> 本文内容由[模块:Utility](https://zh.wikipedia.org/wiki/模块:Utility)转换而来。
+
+
 local utils = {}
 
 \--[Number of elements in a dictionary --](https://zh.wikipedia.org/wiki/Number_of_elements_in_a_dictionary_-- "wikilink")

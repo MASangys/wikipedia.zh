@@ -1,3 +1,6 @@
+> 本文内容由[O·T·杰纳西斯](https://zh.wikipedia.org/wiki/O·T·杰纳西斯)转换而来。
+
+
 **奥迪斯·奥利弗·弗洛里斯**（，），知名于其艺名**O·T·杰纳西斯**（**O.T. Genasis**），[美国](../Page/美国.md "wikilink")[饶舌歌手和词曲作家](https://zh.wikipedia.org/wiki/饶舌歌手 "wikilink")。他以单曲“CoCo”和“Cut It”为人熟知。
 
 ## 早期生活

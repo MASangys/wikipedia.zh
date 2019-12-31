@@ -1,3 +1,6 @@
+> 本文内容由[Ssh-keygen](https://zh.wikipedia.org/wiki/Ssh-keygen)转换而来。
+
+
 **ssh-keygen** 是[Unix和类Unix计算机系统上的](../Page/UNIX.md "wikilink")[安全外壳](../Page/Secure_Shell.md "wikilink")（SSH）协议套件的标准组件，用于通过使用各种[加密技术在不安全的](../Page/密码学.md "wikilink")[网络上建立远程计算机之间的安全shell会话](../Page/计算机网络.md "wikilink")。ssh-keygen实用程序用于生成，管理和转换身份验证密钥。
 
 ssh-keygen能够使用三种不同的[数字签字算法之一生成密钥](../Page/數位簽章.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[PewDiePie被中國封殺事件](https://zh.wikipedia.org/wiki/PewDiePie被中國封殺事件)转换而来。
+
+
 **PewDiePie在中國封殺事件**是指2019年一件網絡[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")[被封殺的事件](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")。娛樂影片拍攝者[PewDiePie](../Page/PewDiePie.md "wikilink")在發表到[Youtube的短片中評論一些與](https://zh.wikipedia.org/wiki/Youtube "wikilink")[香港政治](../Page/香港政治.md "wikilink")以及中國政府相關的[網絡迷因](https://zh.wikipedia.org/wiki/網絡迷因 "wikilink")，期間也談及支持了[香港](../Page/香港.md "wikilink")的示威，後來遭到[中國大陸](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[封殺](https://zh.wikipedia.org/wiki/中華人民共和國網絡審查 "wikilink")。
 
 瑞典籍的PewDiePie，本名為菲力士·阿爾維德·烏爾夫·謝爾貝，擁有YouTube的第二多訂閲數的頻道。其中的「MEME REVIEW」短片系列，以幽默風格評論近期流行的網絡迷因成為頻道的主要特色之一。[香港](../Page/香港.md "wikilink")的[反對逃犯條例修訂草案運動](../Page/反對逃犯條例修訂草案運動.md "wikilink")期間，世界各地有不同的[公眾人物發表支持香港示威的言論後](../Page/香港逃犯條例修例代表人物列表.md "wikilink")，因涉及侵犯[中華人民共和國制度的敏感性質](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，接連引起了不同的風波。PewDiePie在2019年10月16日上傳標題為「Hong Kong vs Joker Ends Fortnite」的影片，對香港反政府示威引伸的各種網絡迷因進行娛樂點評，這些言論也導致他在10月18日受到中國大陸的封殺。

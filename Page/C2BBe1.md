@@ -1,3 +1,6 @@
+> 本文内容由[C2BBe1](https://zh.wikipedia.org/wiki/C2BBe1)转换而来。
+
+
 **C2BBe1**（亦稱**ATCC CRL-2102**、**Caco-2BBe**）是對[表皮生長因子呈](https://zh.wikipedia.org/wiki/表皮生長因子 "wikilink")[陽性反應的](https://zh.wikipedia.org/wiki/陽性反應 "wikilink")[人類](../Page/人類.md "wikilink")結腸腺癌 ，最初是在1988年通過，從一名72歲[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")結腸腺癌[患者的Caco](https://zh.wikipedia.org/wiki/患者 "wikilink")-2細胞[克隆](../Page/克隆.md "wikilink")出來而建系\[1\]。
 
 ## 特徴

@@ -1,3 +1,6 @@
+> 本文内容由[藍寶堅尼Urus](https://zh.wikipedia.org/wiki/藍寶堅尼Urus)转换而来。
+
+
 **藍寶堅尼Urus**（）是義大利汽車製造商[藍寶堅尼所生產的一輛](https://zh.wikipedia.org/wiki/藍寶堅尼 "wikilink")[运动型多用途车](../Page/运动型多用途车.md "wikilink")（SUV）。這輛車於2017年12月4日面世，並將於2018年正式上市。\[1\]Urus的名稱之意即[原牛](../Page/原牛.md "wikilink")，指的是現代家養牛的祖先。\[2\]
 
 ## 概念車

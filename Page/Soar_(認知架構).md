@@ -1,3 +1,6 @@
+> 本文内容由[Soar \(認知架構\)](https://zh.wikipedia.org/wiki/Soar_\(認知架構\))转换而来。
+
+
 **Soar** \[1\]是一种[認知架構](../Page/認知架構.md "wikilink") ，\[2\]最初是由約翰·萊爾德([John Laird](https://zh.wikipedia.org/wiki/约翰E.莱尔德 "wikilink"))、[艾伦·纽厄尔](../Page/艾伦·纽厄尔.md "wikilink")和[卡内基·梅隆大学](../Page/卡内基·梅隆大学.md "wikilink")的保羅·羅森布魯姆[(Paul Rosenbloom)](http://cs.usc.edu/~rosenblo/)创建。现在由萊爾德在[密西根大学的研究小组](../Page/密歇根大学.md "wikilink")[维护和开发](https://soar.eecs.umich.edu/) 。
 
 Soar项目的目标是开发通用[智能代理所需的固定计算構件](https://zh.wikipedia.org/wiki/智能代理 "wikilink") ，可以执行廣泛的任务，并编码、使用和学习所有类型的知识，以实现人类全部的认知能力，如决策、问题解决、计划和自然语言理解。Soar既是[认知理论](https://zh.wikipedia.org/wiki/認知 "wikilink")，也是该理论的计算实现。自1983年萊爾德發表论文以来，人工智能研究人员已經根據不同的[人类行为面向](https://zh.wikipedia.org/wiki/人的行为 "wikilink")，廣泛使用Soar来创建智能代理和[认知模型](../Page/認知模型.md "wikilink") 。目前對Soar最全面的描述是2012年出版的《Soar認知結構》。\[3\]

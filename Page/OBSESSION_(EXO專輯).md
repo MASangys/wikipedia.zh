@@ -1,3 +1,6 @@
+> 本文内容由[OBSESSION \(EXO專輯\)](https://zh.wikipedia.org/wiki/OBSESSION_\(EXO專輯\))转换而来。
+
+
 《**OBSESSION**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO](../Page/EXO.md "wikilink")第六張正規專輯，於2019年11月27日推出，主打歌曲為〈Obsession〉。
 
 ## 簡介

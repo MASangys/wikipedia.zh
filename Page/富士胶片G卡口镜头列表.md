@@ -1,3 +1,6 @@
+> 本文内容由[富士胶片G卡口镜头列表](https://zh.wikipedia.org/wiki/富士胶片G卡口镜头列表)转换而来。
+
+
 富士胶片G卡口（）是伴随富士胶片GFX 50S推出，于2017年诞生的[镜头接环类型](https://zh.wikipedia.org/wiki/镜头卡口 "wikilink")。定位于使用中画幅规格的数码无反，外接环直径76.5mm，卡口直径65.0mm，具有26.7mm[法兰距](https://zh.wikipedia.org/wiki/法兰距 "wikilink")。
 
 本条目列制富士胶片原厂与第三方厂家生产的G卡口镜头，及可用接环等产品。

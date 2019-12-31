@@ -1,3 +1,6 @@
+> 本文内容由[IDA](https://zh.wikipedia.org/wiki/IDA)转换而来。
+
+
 **Ida**或是**IDA**可以指：
 
 ## 人名

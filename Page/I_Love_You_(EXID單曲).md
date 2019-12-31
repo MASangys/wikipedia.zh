@@ -1,3 +1,6 @@
+> 本文内容由[I Love You \(EXID單曲\)](https://zh.wikipedia.org/wiki/I_Love_You_\(EXID單曲\))转换而来。
+
+
 《**I Love You**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID於](https://zh.wikipedia.org/wiki/EXID "wikilink")2018年11月21日發行的韓語單曲專輯\[1\]。
 
 ## 曲目

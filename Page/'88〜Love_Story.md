@@ -1,3 +1,6 @@
+> 本文内容由[\'88〜Love Story](https://zh.wikipedia.org/wiki/\'88〜Love_Story)转换而来。
+
+
 《**'88〜Love Story／Love Ya**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")於[1991年](../Page/1991年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")發行的个人第一张單曲。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[CLUB QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO)转换而来。
+
+
 **CLUB QUATTRO**（）是[日本](../Page/日本.md "wikilink")[巴而可](../Page/巴而可.md "wikilink")公司所运营的[LiveHouse](https://zh.wikipedia.org/wiki/LiveHouse "wikilink")。最早于1988年在东京都涩谷开业，此后分别在名古屋、大阪、广岛等地开业。
 
 除各场馆进行音乐演出活动外，在发掘、培养新人方面还设有QUATTRO LABEL、QUATTRO DISC等音乐制作机构。

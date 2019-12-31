@@ -1,3 +1,6 @@
+> 本文内容由[Jeno](https://zh.wikipedia.org/wiki/Jeno)转换而来。
+
+
 **李帝努**（韓語：이제노／ Lee Jeno；2000年4月23日－），藝名Jeno，韓國歌手，為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下[NCT](../Page/NCT.md "wikilink")的成員。2016年8月，以子团[NCT Dream出道](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")，在團隊担任领舞及Rapper。
 
 ## 人物簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Señorita](https://zh.wikipedia.org/wiki/Señorita)转换而来。
+
+
 **Señorita** 是[西班牙語中的](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")「[小姐](../Page/小姐.md "wikilink")」稱呼，相當於英文 Miss。也有可能是指：
 
 ## 音樂

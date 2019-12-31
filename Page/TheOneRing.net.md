@@ -1,3 +1,6 @@
+> 本文内容由[TheOneRing.net](https://zh.wikipedia.org/wiki/TheOneRing.net)转换而来。
+
+
 **TheOneRing.net**（縮寫：TORn）是一個《[魔戒](../Page/魔戒.md "wikilink")》的粉絲網站\[1\]，由四名於1999年建立\[2\]。
 
 該網站與《[魔戒](../Page/魔戒電影三部曲.md "wikilink")》和《[哈比人](../Page/哈比人歷險記.md "wikilink")》電影的製片公司、導演[彼得·傑克森和演員們建立了良好的合作關係](https://zh.wikipedia.org/wiki/彼得·傑克森 "wikilink")，因此得以報導許多獨家消息\[3\]。

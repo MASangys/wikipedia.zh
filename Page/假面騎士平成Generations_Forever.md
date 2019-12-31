@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士平成Generations Forever](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Forever)转换而来。
+
+
 《**假面騎士平成Generations Forever**》（），是日本特攝節目《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》聯動劇場版，日本於2018年12月22日上映，香港、马来西亚和新加坡等部分东南亚国家於2019年3月相繼上映，中國大陸由[騰訊視頻引進](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")，於2019年5月1日在杭州動漫節先舉行「應援」觀影，5月8日在騰訊視頻上架雙語版本,台灣將於2019年9月27日上映。
 
 ## 本作特色

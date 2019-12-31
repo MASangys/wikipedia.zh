@@ -1,3 +1,6 @@
+> 本文内容由[CAPSUiE](https://zh.wikipedia.org/wiki/CAPSUiE)转换而来。
+
+
 《**CAPSUiE**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第一張配信[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2010年3月3日發行。唱片公司為。
 
 ## 概要

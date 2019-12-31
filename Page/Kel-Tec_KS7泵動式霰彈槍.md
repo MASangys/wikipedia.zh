@@ -1,3 +1,6 @@
+> 本文内容由[Kel-Tec KS7泵動式霰彈槍](https://zh.wikipedia.org/wiki/Kel-Tec_KS7泵動式霰彈槍)转换而来。
+
+
 **Kel-Tec KS7**是一款由槍械設計師所設計、[美国](../Page/美国.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[可可市槍械公司](../Page/可可_\(佛罗里达州\).md "wikilink")研製及生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，是[Kel-Tec KSG的單一](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")[管式彈倉型](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 Kel-Tec KS7在2019年的（美國著名槍展）之中首次推出。

@@ -1,3 +1,6 @@
+> 本文内容由[IT\'z Different](https://zh.wikipedia.org/wiki/IT\'z_Different)转换而来。
+
+
 《*' IT'z Different*'》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[ITZY](../Page/ITZY.md "wikilink")作為出道作品的首張單曲專輯，由[JYP Entertainment於](../Page/JYP娛樂.md "wikilink")2019年2月12日發行，主打歌曲為《달라달라([DALLA DALLA](https://m.youtube.com/watch?v=pNfTK39k55U))》。
 
 ## 日程

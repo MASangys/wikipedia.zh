@@ -1,3 +1,6 @@
+> 本文内容由[韋恩·G·哈蒙德](https://zh.wikipedia.org/wiki/韋恩·G·哈蒙德)转换而来。
+
+
 **韋恩·G·哈蒙德**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、學者、[圖書館員](../Page/圖書館員.md "wikilink")，[托爾金研究專家](https://zh.wikipedia.org/wiki/托爾金 "wikilink")\[1\]。與妻子撰有《[J·R·R·托爾金：藝術家與插畫家](../Page/J·R·R·托爾金：藝術家與插畫家.md "wikilink")》、《魔戒阅读指南》、《托尔金作品导读与指南》、《[哈比人](../Page/哈比人.md "wikilink")的藝術》等多本托爾金研究書籍\[2\]\[3\]。
 
 ## 生平

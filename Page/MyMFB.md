@@ -1,3 +1,6 @@
+> 本文内容由[MyMFB](https://zh.wikipedia.org/wiki/MyMFB)转换而来。
+
+
 **MyMFB**（前身为**MillatFacebook**）是一个面向[穆斯林](../Page/穆斯林.md "wikilink")的[社交网站](../Page/社交網路服務.md "wikilink")。它于2010年5月25日推出，以回应[Facebook](../Page/Facebook.md "wikilink")上一个名为和巴基斯坦对Facebook的封锁。该网站称自己是“最大的穆斯林社交网站”。
 
 ## 背景

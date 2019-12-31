@@ -1,3 +1,6 @@
+> 本文内容由[I WANNA GO](https://zh.wikipedia.org/wiki/I_WANNA_GO)转换而来。
+
+
 《**I WANNA GO**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第9張單曲，為自第2張專輯《[storytelling](https://zh.wikipedia.org/wiki/storytelling "wikilink")》中抽取發行的後發單曲，由[小室哲哉](../Page/小室哲哉.md "wikilink")所製作。
 
 ## 說明

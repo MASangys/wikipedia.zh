@@ -1,3 +1,6 @@
+> 本文内容由[DIC川村纪念美术馆](https://zh.wikipedia.org/wiki/DIC川村纪念美术馆)转换而来。
+
+
 [KawamuraMemorialDICMuseumArt20140217.JPG](https://zh.wikipedia.org/wiki/File:KawamuraMemorialDICMuseumArt20140217.JPG "fig:KawamuraMemorialDICMuseumArt20140217.JPG") [KawamuraMemorialDICMuseumArt20130729.JPG](https://zh.wikipedia.org/wiki/File:KawamuraMemorialDICMuseumArt20130729.JPG "fig:KawamuraMemorialDICMuseumArt20130729.JPG")
 
 **DIC川村纪念美术馆**（），简称**川村纪念博物馆**，是一座位于[日本](../Page/日本.md "wikilink")[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[佐仓市的](https://zh.wikipedia.org/wiki/佐仓市 "wikilink")[美术博物馆](https://zh.wikipedia.org/wiki/美术博物馆 "wikilink")。该博物馆由川村勝巳创立于1990年，现在收藏了1000余件日本油墨制造商收藏的作品\[1\]。

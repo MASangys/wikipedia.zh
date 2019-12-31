@@ -1,3 +1,6 @@
+> 本文内容由[K\*WEST](https://zh.wikipedia.org/wiki/K\*WEST)转换而来。
+
+
 **K\*WEST**是一名日本[色情片](../Page/色情片.md "wikilink")[電影導演](../Page/電影導演.md "wikilink")。截至2011年7月，他导演了超过150部[DVD视频](../Page/數碼多功能影音光碟.md "wikilink")\[1\]。
 
 ## 生平与职业生涯

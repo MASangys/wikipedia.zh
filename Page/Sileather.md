@@ -1,3 +1,6 @@
+> 本文内容由[Sileather](https://zh.wikipedia.org/wiki/Sileather)转换而来。
+
+
 **Sileather** 是一家由100％有機矽塗層面料和環保織物製造商，旗下产品都通過了 [RoHS](../Page/危害性物質限制指令.md "wikilink")，REACH，Indoor Advantage Gold和California Prop 65認證的環境和健康認證證書.\[1\] Sileather面料不含PVC / PU元素; 不含[甲醛](../Page/甲醛.md "wikilink")，鄰苯二甲酸鹽，增塑劑，重金屬，PFCs，穩定劑或BPA（雙酚）.\[2\]\[3\]
 
 Sileather成立於2013年，經過15年的研發，並於2015年在米蘭皮革展上首次亮相。Sileather美國分公司Siotech Corporation於2017年1月成立，Sileather法國分公司Siotech France於2017年11月成立。\[4\]

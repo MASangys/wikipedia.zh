@@ -1,3 +1,6 @@
+> 本文内容由[Su-Ki 水陸兩棲車](https://zh.wikipedia.org/wiki/Su-Ki_水陸兩棲車)转换而来。
+
+
 **Su-Ki水陸兩棲車**是[第二次世界大戰期間由](../Page/第二次世界大战.md "wikilink")[日本](../Page/日本.md "wikilink")[豐田汽車生產的軍用](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[水陸兩棲車](../Page/兩棲車輛.md "wikilink")。於1943年服役並被部署到位於太平洋戰區的日軍部隊中。
 
 ## 設計與使用

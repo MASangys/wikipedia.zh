@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wen tsui chen/ezTravel易遊網](https://zh.wikipedia.org/wiki/Draft:Wen_tsui_chen/ezTravel易遊網)转换而来。
+
+
 -----
 
 **ezTravel 易遊網** 成立於2000年1月，為台灣第一家線上旅行社(OTA)，擁有280萬會員。

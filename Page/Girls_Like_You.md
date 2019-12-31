@@ -1,3 +1,6 @@
+> 本文内容由[Girls Like You](https://zh.wikipedia.org/wiki/Girls_Like_You)转换而来。
+
+
 《**Girls Like You**》是美国乐队[魔力红第六张专辑](https://zh.wikipedia.org/wiki/魔力红 "wikilink")《[红蓝药丸](https://zh.wikipedia.org/wiki/红蓝药丸 "wikilink")》（2017年）中的歌曲。\[1\]2018年3月30日，和[新视镜唱片发行了这首歌由美国说唱歌手](https://zh.wikipedia.org/wiki/新视镜唱片 "wikilink")[卡迪·B](../Page/卡迪·B.md "wikilink")客串的新版本，作为这张专辑的第五首、也是最后一首单曲。\[2\]这一版本由[亚当·莱文](https://zh.wikipedia.org/wiki/亚当·莱文 "wikilink")、[贝尔卡莉丝·阿尔曼萨尔](../Page/卡迪·B.md "wikilink")、、吉安·迈克尔·斯通、和所写，后两者负责制作。\[3\]
 
 这首歌在商业上大获成功。它在[公告牌百强单曲榜上最高达到第一名](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")，成为了魔力红的第四支冠军单曲和卡迪·B的第三支冠军，后者因此扩大了其持有的“拥有最多冠军单曲的女[说唱歌手](https://zh.wikipedia.org/wiki/说唱歌手 "wikilink")”的记录。\[4\]它在该榜的前十名停留了33周，是该榜历史上前十周数最多的歌曲，与《[Shape of You](https://zh.wikipedia.org/wiki/Shape_of_You "wikilink")》和《[Sunflower](../Page/太阳花_\(歌曲\).md "wikilink")》并列。\[5\]它在[当代成人单曲榜上夺冠逾](https://zh.wikipedia.org/wiki/当代成人单曲榜 "wikilink")36周，打破了该榜记录。\[6\]此外，这首歌也在另外11个国家夺冠，包括加拿大和新西兰。

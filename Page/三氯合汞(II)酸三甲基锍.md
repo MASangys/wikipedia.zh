@@ -1,3 +1,6 @@
+> 本文内容由[三氯合汞\(II\)酸三甲基锍](https://zh.wikipedia.org/wiki/三氯合汞\(II\)酸三甲基锍)转换而来。
+
+
 **三氯合汞(II)酸三甲基锍**是一种[三甲基锍盐](../Page/三甲基锍盐.md "wikilink")，化学式为(CH<sub>3</sub>)<sub>3</sub>SHgCl<sub>3</sub>。
 
 ## 制备

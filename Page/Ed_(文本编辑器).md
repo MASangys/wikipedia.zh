@@ -1,3 +1,6 @@
+> 本文内容由[Ed \(文本编辑器\)](https://zh.wikipedia.org/wiki/Ed_\(文本编辑器\))转换而来。
+
+
 **ed**是用于[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix操作系统的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[行编辑器](https://zh.wikipedia.org/wiki/行编辑器 "wikilink")。它是Unix操作系统在1969年8月开发出来的最初部分\[1\]。它仍旧是[POSIX和](https://zh.wikipedia.org/wiki/POSIX "wikilink")[Open Group的基于Unix的操作系统标准的一部分](https://zh.wikipedia.org/wiki/The_Open_Group "wikilink")\[2\]，与更加完备的全屏幕编辑器[vi并列](https://zh.wikipedia.org/wiki/vi "wikilink")。
 
 ## 历史和影响

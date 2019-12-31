@@ -1,3 +1,6 @@
+> 本文内容由[Danger \(Super Junior-D\&E迷你專輯\)](https://zh.wikipedia.org/wiki/Danger_\(Super_Junior-D\&E迷你專輯\))转换而来。
+
+
 《**Danger**》是韓國演唱團體[Super Junior Donghae & Eunhyuk的第三張韓語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，於2019年4月14日發行。
 
 ## 概要

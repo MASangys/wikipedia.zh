@@ -1,3 +1,6 @@
+> 本文内容由[L.O.Λ.E COOKIE](https://zh.wikipedia.org/wiki/L.O.Λ.E_COOKIE)转换而来。
+
+
 《**L.O.Λ.E COOKIE**》於2018年4月12日在[NU'EST](../Page/NU'EST.md "wikilink")官方V live頻道\[1\]首播，為[韓國V](https://zh.wikipedia.org/wiki/韓國 "wikilink") live上獨家播放NU'EST W專屬網路節目。每集約1分鐘，不定時公開。節目紀錄NU'EST W成員在表演活動、節目拍攝幕後的小趣事。
 
 ## 各集內容

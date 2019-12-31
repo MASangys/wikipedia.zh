@@ -1,3 +1,6 @@
+> 本文内容由[GOES-16](https://zh.wikipedia.org/wiki/GOES-16)转换而来。
+
+
 **GOES-16**, 前称**GOES-R** 位于[地球静止轨道](https://zh.wikipedia.org/wiki/地球静止轨道 "wikilink")，这是第一颗GOES-R系列[静止环境观测卫星](https://zh.wikipedia.org/wiki/静止环境观测卫星 "wikilink") (GOES)由[NASA和](https://zh.wikipedia.org/wiki/NASA "wikilink")[国家海洋和大气管理局](https://zh.wikipedia.org/wiki/国家海洋和大气管理局 "wikilink") (NOAA)建造。 GOES-16系列都是地球静止轨道[气象卫星](https://zh.wikipedia.org/wiki/气象卫星 "wikilink")。GOES East定点于西经75.2°对美洲地区进行观测。GOES-16通过16个波段提供高时间和空间分辨率的地球图像。GOES-16还通过携带的四种观测仪器进行太空环境和太阳的监测。
 
 GOES-16的设计起初于1999年，用于满足当年的NOAA卫星的要求，经过10年的仪器设计，最终交付给[洛克希德·马丁](../Page/洛克希德·马丁.md "wikilink")公司进行制造。2008年，GOES-16开始建造，在2012-2014年进行不断的测试，在几经发射推迟情况下，GOES-16于2016年11月19日于卡纳维拉尔角由[联合发射联盟](https://zh.wikipedia.org/wiki/联合发射联盟 "wikilink")（ULA）[宇宙神5号发射升空](https://zh.wikipedia.org/wiki/宇宙神5号 "wikilink")。几天后，卫星到达初始预定位置，开始长达一年的验证实验阶段。2017年11月，GOES-16向东移动到当前位置，并于2017年12月18日宣布正式投入使用。GOES-16预计在轨运行10年，最后5年为后续GOES-16卫星提供备份服务。

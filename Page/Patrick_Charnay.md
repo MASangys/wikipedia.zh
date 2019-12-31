@@ -1,3 +1,6 @@
+> 本文内容由[Patrick Charnay](https://zh.wikipedia.org/wiki/Patrick_Charnay)转换而来。
+
+
 **派翠克・尚內** （，），是法國的生物研究學家。身為[法國國家衛生暨醫學研究院](https://zh.wikipedia.org/wiki/法國國家衛生暨醫學研究院 "wikilink")（Inserm）的榮譽研究總監，他任職於[法國巴黎高等師範學院](https://zh.wikipedia.org/wiki/法國巴黎高等師範學院 "wikilink")（ENS），從事[分子遺傳學和](https://zh.wikipedia.org/wiki/分子遺傳學 "wikilink")[發育生物學的教學工作](https://zh.wikipedia.org/wiki/發育生物學 "wikilink")。
 
 ## 生平簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Raul](https://zh.wikipedia.org/wiki/Raul)转换而来。
+
+
 **Raul**（，），本名**村上真都Raul**（）。[日本](../Page/日本.md "wikilink")演員、歌手。出生於[東京都](../Page/東京都.md "wikilink")。就讀[堀越高等學校](../Page/堀越高等學校.md "wikilink")。[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")所屬小傑尼斯組合[Snow Man的成員](../Page/Snow_Man.md "wikilink")。
 
 ## 簡介

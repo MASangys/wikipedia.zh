@@ -1,3 +1,6 @@
+> 本文内容由[Jannabi \(樂團\)](https://zh.wikipedia.org/wiki/Jannabi_\(樂團\))转换而来。
+
+
 **Jannabi**(韓語：잔나비)，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體中](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[獨立搖滾樂團](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")，由崔政勳、金道亨、尹結、張景俊，四個成員組成。2019年以〈致猶豫的戀人們(주저하는 연인들을 위해)〉一曲聲名大噪，享有人氣。
 
 

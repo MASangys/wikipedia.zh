@@ -1,3 +1,6 @@
+> 本文内容由[蒙古文補充 \(Unicode區段\)](https://zh.wikipedia.org/wiki/蒙古文補充_\(Unicode區段\))转换而来。
+
+
 **蒙古文補充**是一个[Unicode区块](https://zh.wikipedia.org/wiki/Unicode区块 "wikilink")，目前它收录了用于标记文本开始的 *birga*符号的9个变体。
 
 ## History

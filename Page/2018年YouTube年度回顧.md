@@ -1,3 +1,6 @@
+> 本文内容由[2018年YouTube年度回顧](https://zh.wikipedia.org/wiki/2018年YouTube年度回顧)转换而来。
+
+
 **2018年YouTube年度回顧**（，副標題可譯作**每個人都可以掌控年度回顧**）是[Youtube在](https://zh.wikipedia.org/wiki/Youtube "wikilink")2018年度製作的，由旗下官方頻道[YouTube聚光燈](../Page/YouTube聚光燈.md "wikilink")上載。影片發布後因片中演員人選及內容而受不少批評，並其後在一个星期内超越[小賈斯汀的音樂影片](https://zh.wikipedia.org/wiki/小賈斯汀 "wikilink")《[寶貝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》成為[最不受歡迎的YouTube影片](https://zh.wikipedia.org/wiki/最不受喜歡的YouTube影片列表 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 影片

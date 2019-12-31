@@ -1,3 +1,6 @@
+> 本文内容由[DC超級英雄女孩 \(電視動畫\)](https://zh.wikipedia.org/wiki/DC超級英雄女孩_\(電視動畫\))转换而来。
+
+
 **DC超級英雄女孩**（）是一部2019年的動畫影集，以[DC漫畫](../Page/DC漫畫.md "wikilink")旗下的[超級英雄角色與前作](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")《[DC超級英雄女孩](../Page/DC超級英雄女孩.md "wikilink")》（2015年網路動畫系列）為基礎。由[華納兄弟動畫製作](https://zh.wikipedia.org/wiki/華納兄弟動畫 "wikilink")，並由曾製作《[飛天小女警](../Page/飛天小女警.md "wikilink")》及《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》的[蘿倫·浮士德](../Page/蘿倫·浮士德.md "wikilink")擔任製作人，動畫於2019年3月在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[卡通頻道](../Page/卡通頻道.md "wikilink")首播\[1\]。每集片長為11分鐘，不過第1-4集是以1小時特輯的方式同時播映\[2\]\[3\]\[4\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[INTEGRITY \(操作系统\)](https://zh.wikipedia.org/wiki/INTEGRITY_\(操作系统\))转换而来。
+
+
 **INTEGRITY**和**INTEGRITY-178B**是[Green Hills Software制作和销售的](https://zh.wikipedia.org/wiki/Green_Hills_Software "wikilink")[实时操作系统](../Page/实时操作系统.md "wikilink")。
 
 ## INTEGRITY

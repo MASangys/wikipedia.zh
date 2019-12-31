@@ -1,3 +1,6 @@
+> 本文内容由[GIAT M811機炮](https://zh.wikipedia.org/wiki/GIAT_M811機炮)转换而来。
+
+
 **GIAT M811**是一門由[法国陸軍武器工業集團](https://zh.wikipedia.org/wiki/法国 "wikilink")（GIAT）所研製、現由所生產的全自動、電力驅動、單向或雙向[彈鏈](../Page/彈鏈.md "wikilink")輸彈槽供彈式[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，可用作打擊空中和地面目標的步兵戰鬥及支援武器，发射[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑機炮](https://zh.wikipedia.org/wiki/口徑 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 ## 歷史

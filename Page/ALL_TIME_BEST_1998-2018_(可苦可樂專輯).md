@@ -1,3 +1,6 @@
+> 本文内容由[ALL TIME BEST 1998-2018 \(可苦可樂專輯\)](https://zh.wikipedia.org/wiki/ALL_TIME_BEST_1998-2018_\(可苦可樂專輯\))转换而来。
+
+
 《**ALL TIME BEST 1998-2018**》是日本樂團[可苦可樂](../Page/可苦可樂.md "wikilink")的第三張精選輯。2018年12月5日發行。
 
 ## 簡介

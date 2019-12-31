@@ -1,3 +1,6 @@
+> 本文内容由[Hugo \(軟件\)](https://zh.wikipedia.org/wiki/Hugo_\(軟件\))转换而来。
+
+
 **Hugo** 是一個用 [Go](../Page/Go.md "wikilink") 編寫的靜態網站生成器，2013由 Steve Francia 原創，自 v0.14 (2015年) 由 Bjørn Erik Pedersen 主力開發\[1\]，並由全球各地的開發者和使用者提交貢獻。Hugo 以 [Apache License](../Page/Apache许可证.md "wikilink") 2.0 授權的[开放源代码](../Page/开放源代码.md "wikilink")專案。\[2\]
 
 Hugo 一般只需幾秒鐘就能生成一個網站（每頁少於 1 毫秒），被稱為「世界上最快的網站構建框架」，也使 Hugo 大受歡迎，成為最熱門的靜態網站生成器之一，被廣泛採用。例如，2015年7月， 推出專為 Hugo 而設的網站託管服務\[3\]，而2017年， 推出重新設計的官方網站，從原來的 [WordPress](../Page/WordPress.md "wikilink") 遷移到基於 Hugo 的  解決方案。\[4\]

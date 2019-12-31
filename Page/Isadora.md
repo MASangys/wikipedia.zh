@@ -1,3 +1,6 @@
+> 本文内容由[Isadora](https://zh.wikipedia.org/wiki/Isadora)转换而来。
+
+
 **Isadora** 是一款[专有图形程序设计环境](../Page/专有软件.md "wikilink")，适用于[MacOS](../Page/MacOS.md "wikilink")\[1\]和[Microsoft Windows两种系统](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Isadora着重于数字视频的实时操作。\[2\]它于2002年首次发布。现已支持和[MIDI](../Page/MIDI.md "wikilink")。Isadora由所设计。
 
 ## 参考来源

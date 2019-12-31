@@ -1,3 +1,6 @@
+> 本文内容由[模块:User contrib](https://zh.wikipedia.org/wiki/模块:User_contrib)转换而来。
+
+
 local p = {} local Userbox = require('Module:Userbox') local getArgs = require('Module:Arguments').getArgs
 
 local function urlencode(text)

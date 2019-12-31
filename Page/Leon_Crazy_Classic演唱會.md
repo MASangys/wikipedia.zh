@@ -1,3 +1,6 @@
+> 本文内容由[Leon Crazy Classic演唱會](https://zh.wikipedia.org/wiki/Leon_Crazy_Classic演唱會)转换而来。
+
+
 *' Leon Crazy Classic演唱會*'是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，於2005年10月10日至15日期間舉行，合共演出六場\[1\]\[2\]。
 
 ## 演唱會簡介

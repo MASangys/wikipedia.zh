@@ -1,3 +1,6 @@
+> 本文内容由[劉QUIZ ON THE BLOCK](https://zh.wikipedia.org/wiki/劉QUIZ_ON_THE_BLOCK)转换而来。
+
+
 《**劉QUIZ ON THE BLOCK**》(，) 為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。\[1\]\[2\]\[3\]
 
 ## 播放時段變更

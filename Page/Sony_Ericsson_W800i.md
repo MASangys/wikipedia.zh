@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson W800i](https://zh.wikipedia.org/wiki/Sony_Ericsson_W800i)转换而来。
+
+
 **索尼愛立信W800i**是一隻在2005年8月推出的手機，也是[索尼愛立信第一款結合](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")[Walkman](../Page/Walkman.md "wikilink")品牌的手機。\[1\]
 
 ## 特色

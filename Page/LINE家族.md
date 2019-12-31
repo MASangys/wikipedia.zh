@@ -1,3 +1,6 @@
+> 本文内容由[LINE家族](https://zh.wikipedia.org/wiki/LINE家族)转换而来。
+
+
 [30224523_at_Hangtianqiao_(20180710173453).jpg](https://zh.wikipedia.org/wiki/File:30224523_at_Hangtianqiao_\(20180710173453\).jpg "fig:30224523_at_Hangtianqiao_(20180710173453).jpg") **LINE家族**（）是[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")[LINE](../Page/LINE.md "wikilink")的官方[貼圖](../Page/貼圖.md "wikilink")人物。因為很多廠商選擇和LINE家族合作打廣告，吸金超多而被戲稱為「**亞洲搶錢天團**」。\[1\]
 
 目前LINE家族一共有11個卡通角色，沉默溫和的**熊大**、開朗時髦的**兔兔**、自戀的**詹姆士**、隨心所欲的**饅頭人**、愛漂亮的**潔西卡**、常常幫大家解決事情的**莎莉雞**、古板又充滿中年男子氣息的**大叔**、害羞內向的**雷納德**、聰明又敏銳的**愛德華**、還有熊大時尚漂亮的妹妹**熊美**、熊美的男朋友**胖友**。

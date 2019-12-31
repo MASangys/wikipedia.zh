@@ -1,3 +1,6 @@
+> 本文内容由[One on One Collection](https://zh.wikipedia.org/wiki/One_on_One_Collection)转换而来。
+
+
 《[One on One Collection](https://news.mingpao.com/ins/instantnews/web_tc/article/20180731/s00007/1533038766895)》（2018 Remastered Version）（2CD）是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")於[寰亞唱片的首張新曲加精選廣東專輯](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")，於2018年7月31日正式發行，雙CD收錄3首全新歌曲及15首精選歌曲\[1\]。楊千嬅以粉紫色的短髮拍攝唱片封套\[2\]\[3\]。
 
 唱片發行首周即空降所有香港實體唱片銷售榜冠軍，包括**《[香港唱片商會銷量榜](../Page/香港唱片商會銷量榜冠軍唱片列表.md "wikilink")》冠軍**、**《[HMV Top 20](../Page/HMV.md "wikilink")排行榜音樂》冠軍**、**《[HMV - 廣東及國語](../Page/HMV.md "wikilink")排行榜音樂》冠軍**、**《CD Warehouse銷量榜》冠軍**及**《Sky Music天空銷量榜》冠軍**。

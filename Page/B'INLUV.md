@@ -1,3 +1,6 @@
+> 本文内容由[B\'INLUV](https://zh.wikipedia.org/wiki/B\'INLUV)转换而来。
+
+
 《**<big>B'INLUV</big>**》是[台灣歌手](https://zh.wikipedia.org/wiki/台灣歌手 "wikilink")[方泂鑌](../Page/方泂鑌.md "wikilink")第四張個人專輯，於2019年9月17日發行。 \[1\]
 
 ## 專輯曲目

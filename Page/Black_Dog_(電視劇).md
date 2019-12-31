@@ -1,3 +1,6 @@
+> 本文内容由[Black Dog \(電視劇\)](https://zh.wikipedia.org/wiki/Black_Dog_\(電視劇\))转换而来。
+
+
 《**Black Dog**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年12月16日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[38師機動隊](../Page/38師機動隊.md "wikilink")》的黃俊赫導演與《[Drama Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")－做最後一餐飯的女人》的朴周妍作家合作打造。此劇講述一個背負空降之名進入私立大峙高中任教的合約制老師，為了成為「真正的老師」而堅持在私立學校這個沒有硝煙的戰場上奮鬥的故事。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 台灣由[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")12/17起每週二三獨家播出。

@@ -1,3 +1,6 @@
+> 本文内容由[Rose Guns Days](https://zh.wikipedia.org/wiki/Rose_Guns_Days)转换而来。
+
+
 是日本[同人游戏制作社团](../Page/同人_\(ACG\).md "wikilink")[07th Expansion制作的](../Page/07th_Expansion.md "wikilink")[视觉小说](../Page/视觉小说.md "wikilink")，共有四个篇章，第一个篇章发行于2012年8月11日，最终章发行于2013年12月31日。游戏后来被改编为[漫画](../Page/日本漫画.md "wikilink")，由[讲谈社](../Page/讲谈社.md "wikilink")和[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发行。故事舞台设定于1947年的日本，时值[大日本帝国](../Page/大日本帝国.md "wikilink")在[第二次世界大战](../Page/第二次世界大战.md "wikilink")中战败，作者虚构了日本被[中华民国和](https://zh.wikipedia.org/wiki/中华民国_\(大陆时期\) "wikilink")[美国](../Page/美国.md "wikilink")占领后日本文化受到中国和美国的文化的冲击，日本人因中国人和美国人移民而地位下降的故事背景。\[1\]
 
 ## 游戏玩法

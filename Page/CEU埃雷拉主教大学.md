@@ -1,3 +1,6 @@
+> 本文内容由[CEU埃雷拉主教大学](https://zh.wikipedia.org/wiki/CEU埃雷拉主教大学)转换而来。
+
+
 **CEU埃雷拉主教大学**（，缩写**CEU-UCH**）是位于西班牙东部[巴伦西亚自治区的一所](https://zh.wikipedia.org/wiki/巴伦西亚自治区 "wikilink")[私立](../Page/私立大學.md "wikilink")[大学](https://zh.wikipedia.org/wiki/大学 "wikilink")。
 
 校本部位于[瓦倫西亞](../Page/瓦倫西亞.md "wikilink")市，在[巴倫西亞省](../Page/巴倫西亞省.md "wikilink")的[蒙卡达](../Page/蒙卡达.md "wikilink")、[阿尔法拉德尔帕特里亚尔卡](../Page/阿尔法拉德尔帕特里亚尔卡.md "wikilink")，以及[阿利坎特省](../Page/阿利坎特省.md "wikilink")的[卡斯特利翁-德拉普拉納](../Page/卡斯特利翁-德拉普拉納.md "wikilink")和[埃爾切设有分校](https://zh.wikipedia.org/wiki/埃爾切 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[FAAMG](https://zh.wikipedia.org/wiki/FAAMG)转换而来。
+
+
 **FAAMG**，是美國五家超大型資訊業公司的縮寫\[1\]，分別為 [Facebook](../Page/Facebook.md "wikilink")、[蘋果](https://zh.wikipedia.org/wiki/亞馬遜 "wikilink")、[亞馬遜](../Page/亞馬遜公司.md "wikilink")、[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Google](../Page/Google.md "wikilink")。FAAMG這個名詞由[高盛](../Page/高盛.md "wikilink")發明，用於投資宣傳。這五家公司市值都至少有千億美元，其中蘋果公司的市值甚至超過一兆美金\[2\]。
 
 ## 變體

@@ -1,3 +1,6 @@
+> 本文内容由[Babel \(電視劇\)](https://zh.wikipedia.org/wiki/Babel_\(電視劇\))转换而来。
+
+
 《**Babel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TV朝鮮](../Page/TV朝鮮.md "wikilink")於2019年1月27日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/TV朝鮮周末連續劇 "wikilink")，由《[花郎](../Page/花郎_\(電視劇\).md "wikilink")》[尹成植導演與權順元](https://zh.wikipedia.org/wiki/尹成植 "wikilink")、朴相旭作家合作打造。此劇講述一個為了復仇而賭上自己人生的檢察官，與一名因為和財閥結婚而毀了人生的女演員之間的愛情故事。\[1\]\[2\]
 
 ## 演員陣容

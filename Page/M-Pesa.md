@@ -1,3 +1,6 @@
+> 本文内容由[M-Pesa](https://zh.wikipedia.org/wiki/M-Pesa)转换而来。
+
+
 **M-Pesa**是由電信集團[沃達豐旗下在非洲經營的通信商](https://zh.wikipedia.org/wiki/沃達豐 "wikilink")[Safaricom與](https://zh.wikipedia.org/wiki/Safaricom "wikilink")[Vodacom](../Page/Vodacom.md "wikilink")於2007年開始推出，一種可經由[手機進行匯款](../Page/功能型手機.md "wikilink")、轉帳、支付等金融方面交易的[行動支付](../Page/行動支付.md "wikilink")服務。此服務名稱當中，「M」代表著行動的英語字詞「Mobile」開頭字首，「Pesa」則是[斯瓦希里語裡代表](https://zh.wikipedia.org/wiki/斯瓦希里語 "wikilink")「金錢」的意思。\[1\]
 
 此服務最初是在[肯亞當地營運](https://zh.wikipedia.org/wiki/肯亞 "wikilink")，之後廣泛地獲得肯亞民眾接受使用，成為最成功的手機平台金融服務之一。\[2\]M-Pesa往後除了擴展到[坦尚尼亞](https://zh.wikipedia.org/wiki/坦尚尼亞 "wikilink")、[莫三比克](https://zh.wikipedia.org/wiki/莫三比克 "wikilink")、[剛果民主共和國等非洲國家之外](https://zh.wikipedia.org/wiki/剛果民主共和國 "wikilink")，也有進軍[東歐](https://zh.wikipedia.org/wiki/東歐 "wikilink")、[中亞和](https://zh.wikipedia.org/wiki/中亞 "wikilink")[南亞等其它地區市場](https://zh.wikipedia.org/wiki/南亞 "wikilink")。\[3\]

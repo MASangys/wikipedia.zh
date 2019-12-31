@@ -1,3 +1,6 @@
+> 本文内容由[魔法少女小圓 PORTABLE](https://zh.wikipedia.org/wiki/魔法少女小圓_PORTABLE)转换而来。
+
+
 《**魔法少女小圓 PORTABLE**》（；）是一款於2012年3月15日發售的日本[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。改編自2011年播出的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》。支援平台為[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）。簡稱「小圓P」（）。
 
 ## 概要

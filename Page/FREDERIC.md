@@ -1,3 +1,6 @@
+> 本文内容由[FREDERIC](https://zh.wikipedia.org/wiki/FREDERIC)转换而来。
+
+
 **FREDERIC**（）是[日本](../Page/日本.md "wikilink")的搖滾樂團。所屬事務所為MASH A\&R。唱片公司為A-Sketch。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Once upon a time in 橫濱 〜B\'z LIVE GYM\'99 Brotherhood〜](https://zh.wikipedia.org/wiki/Once_upon_a_time_in_橫濱_〜B\'z_LIVE_GYM\'99_Brotherhood〜)转换而来。
+
+
 《**once upon a time in 橫濱 〜B'z LIVE GYM'99 "Brotherhood"〜**》（）是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的第6張影像作品（作為[VHS](../Page/VHS.md "wikilink")是第6張、作為[DVD是第](https://zh.wikipedia.org/wiki/DVD "wikilink")4張）。
 
 DVD在單曲「[ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")」發售時與其他3張作品同時發行。

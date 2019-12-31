@@ -1,3 +1,6 @@
+> 本文内容由[4colors \(Mamamoo日本專輯\)](https://zh.wikipedia.org/wiki/4colors_\(Mamamoo日本專輯\))转换而来。
+
+
 《**4colors**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO第一張日語正規專輯](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由VICTOR ENTERAINMENT於2019年8月7日發行。為了紀念此次日本正規專輯的發行，MAMAMOO決定於7月31日先發行《gogobebe》的日語版。此次專輯收錄先前發行的日語單曲外，也收錄成員們於四色企劃專輯中的SOLO曲，更收錄成員所翻唱的日本名曲《涙そうそう》。\[1\]
 
 ## 概要

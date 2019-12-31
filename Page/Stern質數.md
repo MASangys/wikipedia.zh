@@ -1,3 +1,6 @@
+> 本文内容由[Stern質數](https://zh.wikipedia.org/wiki/Stern質數)转换而来。
+
+
 **Stern質數**也稱為**斯特恩質數**，是不能表示[質數跟一個非零](https://zh.wikipedia.org/wiki/質數 "wikilink")[平方數的兩倍之和](https://zh.wikipedia.org/wiki/平方數 "wikilink")。
 
   -

@@ -1,3 +1,6 @@
+> 本文内容由[Quibi](https://zh.wikipedia.org/wiki/Quibi)转换而来。
+
+
 **Quibi**是應用於[智慧型手機等](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[移動設備的美國短片](https://zh.wikipedia.org/wiki/移動設備 "wikilink")[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")，總部位於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[好萊塢](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，由[傑弗瑞·卡森伯格於](https://zh.wikipedia.org/wiki/傑弗瑞·卡森伯格 "wikilink")2018年創立，計劃於2020年4月6日正式上線運行\[1\]。[梅格·惠特曼](../Page/梅格·惠特曼.md "wikilink")擔任[首席執行官](https://zh.wikipedia.org/wiki/首席執行官 "wikilink")，該平台命名來自於「速食」（Quick Bites），主要為年輕群體提供便於觀賞的高品質短片\[2\]。公司從11位投資者和所有好萊塢[主要電影公司處籌措了超過](https://zh.wikipedia.org/wiki/主要電影公司 "wikilink")10億美元的啟動資金，其中包括[華特迪士尼公司](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")、[21世紀福克斯](https://zh.wikipedia.org/wiki/21世紀福克斯 "wikilink")、[NBC環球](../Page/NBC環球.md "wikilink")集團、[索尼影視娛樂](../Page/索尼影視娛樂.md "wikilink")公司、[華納媒體](../Page/華納媒體.md "wikilink")、[自由全球](../Page/自由全球.md "wikilink")和[阿里巴巴集團](https://zh.wikipedia.org/wiki/阿里巴巴集團 "wikilink")\[3\]。
 
 ## 內容

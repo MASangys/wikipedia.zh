@@ -1,3 +1,6 @@
+> 本文内容由[模块:Technical reasons](https://zh.wikipedia.org/wiki/模块:Technical_reasons)转换而来。
+
+
 local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments --initialize lazily local p = {}
 
 function p.technicalReasons (frame)

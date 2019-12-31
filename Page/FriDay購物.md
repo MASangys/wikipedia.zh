@@ -1,3 +1,6 @@
+> 本文内容由[FriDay購物](https://zh.wikipedia.org/wiki/FriDay購物)转换而来。
+
+
 **friDay購物**為[台灣的一個購物網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")，是由遠時數位科技股份有限公司（前身為時間軸科技股份有限公司）建立的[電子商務平台](https://zh.wikipedia.org/wiki/電子商務 "wikilink")。 2013年6月，[遠東集團旗下的](../Page/遠東集團_\(臺灣\).md "wikilink")[遠傳電信](../Page/遠傳電信.md "wikilink")投資成立時間軸科技推出的電子商務平台「friDay購物」\[1\]，類似[PChome Online網路家庭旗下的](../Page/PChome_Online網路家庭.md "wikilink")【Pchome24】跟[Yahoo奇摩](../Page/Yahoo奇摩.md "wikilink")旗下的【Yahoo購物中心】等的綜合性電子商務平台，2016年10月推出會員制的「friDay加購」服務，並於2017年8月跟另一家綜合性電子商務平台【 GoHappy 快樂購物網】（遠東集團旗下的亞東電子商務股份有限公司所推出的電子商務平台）合併，因為同集團的關係，更名為遠時數位科技股份有限公司\[2\] 。 而遠傳集團在涉獵加值服務的領域下自己成立一個【friDay】的加值服務品牌，旗下包含購物、[影音](https://zh.wikipedia.org/wiki/影音 "wikilink")、[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、與錢包四大服務\[3\]，主要目的在於多角化經營。
 
 ## 參考資料

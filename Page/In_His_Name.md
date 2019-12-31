@@ -1,3 +1,6 @@
+> 本文内容由[In His Name](https://zh.wikipedia.org/wiki/In_His_Name)转换而来。
+
+
 《**In His Name**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")的第11張音樂專輯，於2019年9月24日推出。\[1\]\[2\]這亦是一張福音專輯。\[3\]\[4\]
 
 ## 曲目列表

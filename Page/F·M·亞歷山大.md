@@ -1,3 +1,6 @@
+> 本文内容由[F·M·亞歷山大](https://zh.wikipedia.org/wiki/F·M·亞歷山大)转换而来。
+
+
 **斐德烈克·馬薩爾斯·亞歷山大**（，），是一位[澳洲演員](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，他發展出[亞歷山大技巧](../Page/亞歷山大技巧.md "wikilink")，教導人們去意識、修正運動及思考中，反射性與慣性的限制。
 
 ## 早年生活

@@ -1,3 +1,6 @@
+> 本文内容由[環球萃取K2HD升級精選 黎明](https://zh.wikipedia.org/wiki/環球萃取K2HD升級精選_黎明)转换而来。
+
+
 《**環球萃取K2HD升級精選 黎明**》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由[環球唱片發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")，專輯分別為《環球萃取K2HD升級精選 黎明》\[1\]、《環球萃取K2HD升級精選 黎明2》\[2\]、《環球萃取K2HD升級精選 黎明3》\[3\]及《環球萃取K2HD升級精選 黎明4》\[4\]，於2016-2017年間發行，每張專輯分別收錄了十八首精選歌曲，所有歌曲均來自黎明於1990-1997年間所發行的[音樂專輯](../Page/音樂專輯.md "wikilink")\[5\]。
 
 ## 簡介

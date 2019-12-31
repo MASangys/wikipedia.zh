@@ -1,3 +1,6 @@
+> 本文内容由[火速救兵IV](https://zh.wikipedia.org/wiki/火速救兵IV)转换而来。
+
+
 《**火速救兵IV**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部與[香港消防處](../Page/香港消防處.md "wikilink")合作拍攝的[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共10集（30分鐘刪減版）；一小時足本[劇場版共](https://zh.wikipedia.org/wiki/電影版 "wikilink")5集，[劇場版部份劇情經導演重新編排剪接](https://zh.wikipedia.org/wiki/電影版 "wikilink")。此劇為《[火速救兵系列](../Page/火速救兵系列.md "wikilink")》第四部，同時紀念香港消防處成立150周年。
 
 ## 每集主題

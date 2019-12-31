@@ -1,3 +1,6 @@
+> 本文内容由[ANU \(组合\)](https://zh.wikipedia.org/wiki/ANU_\(组合\))转换而来。
+
+
 **ANU**是[中国大陆](../Page/中国大陆.md "wikilink")的一对[流行歌曲男子组合](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，成立于2016年，由**巴雅**、**宫巴**两位来自[青海](../Page/青海省.md "wikilink")[囊谦的藏族男歌手组成](https://zh.wikipedia.org/wiki/囊谦县 "wikilink")。\[1\]
 
 ## 名称由来

@@ -1,3 +1,6 @@
+> 本文内容由[客：The Guest](https://zh.wikipedia.org/wiki/客：The_Guest)转换而来。
+
+
 《**客：The Guest**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") Original Series全新登場的[水木經典連續劇](../Page/OCN_Original_Series.md "wikilink")\[1\]，由《[Black](https://zh.wikipedia.org/wiki/Black_\(韩国电视剧\) "wikilink")》、《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》的金弘善導演與《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》的徐載元、權素拉編劇聯合打造，是一部真正以韓式驅魔和巫術為題材的作品，本劇講述靈媒、司祭和警察與無處不在利用靈異力量的犯罪團伙互相較量的故事\[2\]\[3\]。台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，自9月13日起每週四五獨家播出。
 
 ## 演員陣容

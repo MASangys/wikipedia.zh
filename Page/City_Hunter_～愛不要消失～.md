@@ -1,3 +1,6 @@
+> 本文内容由[City Hunter ～愛不要消失～](https://zh.wikipedia.org/wiki/City_Hunter_～愛不要消失～)转换而来。
+
+
 **City Hunter ～愛不要消失～**（），是[日本](../Page/日本.md "wikilink")女[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[歌手](../Page/歌手.md "wikilink")[小比類卷香穗留](../Page/小比類卷香穗留.md "wikilink")的第5張單曲。1987年5月10日由[EPIC Sony發行](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")。
 
 ## 解說

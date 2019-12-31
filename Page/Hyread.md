@@ -1,3 +1,6 @@
+> 本文内容由[Hyread](https://zh.wikipedia.org/wiki/Hyread)转换而来。
+
+
 **HyRead**為台湾凌網科技於2010年創立的[電子書](../Page/電子書.md "wikilink")品牌，并与众多出版商和超過1000個图书馆合作。HyRead已經數位化近13万本圖書及300多刊雜誌。供手机、平板电脑和[电子书阅读器使用](https://zh.wikipedia.org/wiki/电子书阅读器 "wikilink")。\[1\]
 
 ## 与公立图书馆及學校圖書館的合作

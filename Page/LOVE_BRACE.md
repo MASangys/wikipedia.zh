@@ -1,3 +1,6 @@
+> 本文内容由[LOVE BRACE](https://zh.wikipedia.org/wiki/LOVE_BRACE)转换而来。
+
+
 《**LOVE BRACE**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的首張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[小室哲哉](../Page/小室哲哉.md "wikilink")製作。
 
 ## 說明

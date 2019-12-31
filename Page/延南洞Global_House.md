@@ -1,3 +1,6 @@
+> 本文内容由[延南洞Global House](https://zh.wikipedia.org/wiki/延南洞Global_House)转换而来。
+
+
 《**延南洞Global House**》 （）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") 2019年推出的short-form電視劇，主演為 [AB6IX](../Page/AB6IX.md "wikilink") [李大輝](../Page/李大輝.md "wikilink") 、 [姜敏兒](../Page/姜敏兒.md "wikilink") ，將在2019年11月9日播出。\[1\]
 
 每星期天於 [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") 早上凌晨一時半至二時半(韓國時間)播出。

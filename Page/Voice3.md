@@ -1,3 +1,6 @@
+> 本文内容由[Voice3](https://zh.wikipedia.org/wiki/Voice3)转换而来。
+
+
 《**Voice 3**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](../Page/OCN_\(頻道\).md "wikilink")2019年5月11日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》、《[愛上變身情人](../Page/愛上變身情人_\(電視劇\).md "wikilink")》南基勳導演與《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》、《[Voice2](../Page/Voice2.md "wikilink")》[馬珍媛](../Page/馬珍媛.md "wikilink")作家合作打造。本劇時間點為第二季最後一個案件（英石洞夢想考試院恐怖襲擊事件），真兇方濟水設計引誘姜勸酒中心長進入的房間爆炸，而姜勸酒中心長生死未卜之後\[1\]。本季描述死守犯罪現場的「112舉報中心黃金時間隊」的成員們，與跨國犯罪組織「Dark Web」的幕後黑手展開較量，再次敲響網路犯罪的殘酷和黃金時間的重要性。\[2\]\[3\]\[4\]\[5\]\[6\]
 
 台灣地區 5/12起每週日一由[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。香港地區由5月11日起逢星期六、日晚深夜於[Viu](../Page/Viu.md "wikilink")播出。

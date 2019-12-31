@@ -1,3 +1,6 @@
+> 本文内容由[Pacewear](https://zh.wikipedia.org/wiki/Pacewear)转换而来。
+
+
 **真时科技**（英文译名：Pacewear）是中国大陆一家智能可穿戴设备与服务开发的科技公司，于2016年9月创立，由[腾讯](../Page/腾讯.md "wikilink")和歌尔股份战略投资，多家机构参投，公司总部设在山东省[青岛市](../Page/青岛市.md "wikilink")，并在[北京和](https://zh.wikipedia.org/wiki/北京 "wikilink")[深圳分别设有分公司](https://zh.wikipedia.org/wiki/深圳 "wikilink")。核心团队主要来自[腾讯](../Page/腾讯.md "wikilink")、歌尔、[摩托罗拉](../Page/摩托罗拉.md "wikilink")和[诺基亚](../Page/诺基亚.md "wikilink")。\[1\]
 
 ## 公司大事记

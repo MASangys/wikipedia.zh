@@ -1,3 +1,6 @@
+> 本文内容由[Vocal Play](https://zh.wikipedia.org/wiki/Vocal_Play)转换而来。
+
+
 《**Vocal Play**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目，由[盧洪哲](https://zh.wikipedia.org/wiki/盧洪哲 "wikilink")、[吳尚津](../Page/吳尚津.md "wikilink")等人\[1\]共同主持，節目主軸為不依靠[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")，只用人的聲音完成[音樂的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[阿卡貝拉純人聲無](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")[伴奏](https://zh.wikipedia.org/wiki/伴奏 "wikilink")[演唱](https://zh.wikipedia.org/wiki/演唱 "wikilink")[音樂綜藝](https://zh.wikipedia.org/wiki/音樂 "wikilink")\[2\]\[3\]。
 
 ## 規則

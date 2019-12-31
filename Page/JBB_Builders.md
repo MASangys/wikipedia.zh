@@ -1,3 +1,6 @@
+> 本文内容由[JBB Builders](https://zh.wikipedia.org/wiki/JBB_Builders)转换而来。
+
+
 **JBB Builders International Limited**，簡稱**JBB Builders International**和**JBB Builders**（****），在2012年，主席拿督黃世標和配偶Ngooi Leng Swee拿汀，於總部[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[柔佛](../Page/柔佛.md "wikilink")收購「JBB Builders (M) Sdn. Bhd.」所有股權，JBB Builders (M) Sdn. Bhd.是在1996年成立，主要經營承接大型海上建築工程\[1\]\[2\]。
 
 股份在2019年5月10日於港交所主板上市。全球發售集資金額為138.2百萬港元，招股定價為1.18港元至1.38港元，發行股份數目為1.25億股，用作購買一艘經改造運砂船：57.9%；購置新陸基機器：7.3%；滿足未來項目的履約保證金要求：23.4%；增聘及擴大樓宇及基礎設施工程管理團隊：3.4%；升級我們的資訊科技及項目管理系統：0.6%；和營運資金用途及一般企業用途：7.4%\[3\]\[4\]\[5\] \[6\]。

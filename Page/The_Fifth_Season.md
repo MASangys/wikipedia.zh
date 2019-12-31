@@ -1,3 +1,6 @@
+> 本文内容由[The Fifth Season](https://zh.wikipedia.org/wiki/The_Fifth_Season)转换而来。
+
+
 《The Fifth Season》是韓國女子組合[Oh My Girl的首張正規專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")。由WM娛樂製作，Kakao M發行，於2019年5月8日推出。主打歌曲為〈The Fifth Season〉。\[1\]
 
 ## 背景

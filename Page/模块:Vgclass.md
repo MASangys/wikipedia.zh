@@ -1,3 +1,6 @@
+> 本文内容由[模块:Vgclass](https://zh.wikipedia.org/wiki/模块:Vgclass)转换而来。
+
+
 local getArgs = require('Module:Arguments').getArgs local p = {}
 
 local function classicon(class)

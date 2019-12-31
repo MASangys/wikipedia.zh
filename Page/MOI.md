@@ -1,3 +1,6 @@
+> 本文内容由[MOI](https://zh.wikipedia.org/wiki/MOI)转换而来。
+
+
 **Moi**，字母拆解为“My Optimistic Innovation”，译为自我、乐观、创新。是一支由扑度娱乐打造的首支中国内地泛娱乐女子偶像团体。 \[1\]
 
 ## 成員

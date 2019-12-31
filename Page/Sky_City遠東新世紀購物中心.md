@@ -1,3 +1,6 @@
+> 本文内容由[Sky City遠東新世紀購物中心](https://zh.wikipedia.org/wiki/Sky_City遠東新世紀購物中心)转换而来。
+
+
 **Sky City遠東新世紀購物中心**，是一座位於臺灣[新竹縣](../Page/新竹縣.md "wikilink")[竹北市](../Page/竹北市.md "wikilink")的大型[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，為竹北「停8」停車場用地[BOT案的附屬事業](https://zh.wikipedia.org/wiki/BOT "wikilink")，由[遠百新世紀開發轉投資的竹北新世紀購物中心股份有限公司營運](https://zh.wikipedia.org/wiki/遠百新世紀開發股份有限公司 "wikilink")。建築總樓地板面積約42,700坪，商場樓地板面積約26,500坪，基地面積約6,000坪。此案與[遠東巨城購物中心](../Page/Big_City遠東巨城購物中心.md "wikilink")、[遠東百貨](../Page/遠東百貨.md "wikilink")第四代店大遠百同屬City系列購物中心，預計2020年7月1日開業\[1\]。
 
 ## 歷史

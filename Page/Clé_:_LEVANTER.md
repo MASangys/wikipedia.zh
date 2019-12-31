@@ -1,3 +1,6 @@
+> 本文内容由[Clé : LEVANTER](https://zh.wikipedia.org/wiki/Clé_:_LEVANTER)转换而来。
+
+
 《**Clé : LEVANTER**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，原訂於2019年11月25日發行，因宇珍退團延期至12月9日發行\[1\]\[2\]。主打歌為〈바람 (Levanter)〉，由成員方燦、彰彬、HAN參與詞曲創作。
 
 ## 背景

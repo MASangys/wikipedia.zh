@@ -1,3 +1,6 @@
+> 本文内容由[MathJax](https://zh.wikipedia.org/wiki/MathJax)转换而来。
+
+
 **MathJax**是一个[跨浏览器的](../Page/浏览器兼容性.md "wikilink")[JavaScript库](https://zh.wikipedia.org/wiki/JavaScript库 "wikilink")，它使用[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")、[LaTeX和ASCIIMathML标记在](https://zh.wikipedia.org/wiki/LaTeX "wikilink")[Web浏览器中显示](https://zh.wikipedia.org/wiki/Web浏览器 "wikilink")[数学符号](../Page/數學符號.md "wikilink")。\[1\]\[2\]\[3\]MathJax是在[Apache许可证](../Page/Apache许可证.md "wikilink")下作为[开源软件](../Page/开源软件.md "wikilink")发布的。
 
 MathJax项目始于2009年，是早期JavaScript数学格式化库jsMath的继承者，\[4\]由[美国数学学会管理](https://zh.wikipedia.org/wiki/美国数学学会 "wikilink")。\[5\]该项目由美国数学学会、设计科学学会、工业和应用数学学会共同发起，并得到[美国物理联合会和](https://zh.wikipedia.org/wiki/美国物理联合会 "wikilink")[Stack Exchange等众多资助机构的支持](../Page/Stack_Exchange.md "wikilink")。\[6\]

@@ -1,3 +1,6 @@
+> 本文内容由[Agency FB](https://zh.wikipedia.org/wiki/Agency_FB)转换而来。
+
+
 **Agency FB**是一个无衬线字体，用于1990年至1995年间的family intended的大标题以及小标题。它由The Font Bureau, Inc的David Berlow设计。
 
 它是由Morris Fuller Benton在20世纪30年代创造的仅限大写字母字体的扩展，这让小写字符有更大的宽度和粗细调节范围。 它的设计有点像Morris Fuller Benton所创造的Bank Gothic字体。

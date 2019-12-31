@@ -1,3 +1,6 @@
+> 本文内容由[Etika](https://zh.wikipedia.org/wiki/Etika)转换而来。
+
+
 [YouTuber](../Page/YouTuber.md "wikilink") | years_active = 2012年－2019年 | family = （父親） }} **德斯蒙德·丹尼尔·阿莫法**（，），廣為人知的是其化名**Etika**，[美国](../Page/美国.md "wikilink")[游戏直播主](https://zh.wikipedia.org/wiki/网络直播 "wikilink")、[YouTuber](../Page/YouTuber.md "wikilink")與前[模特儿](https://zh.wikipedia.org/wiki/模特儿 "wikilink")，他因制作他本人对于[任天堂](../Page/任天堂.md "wikilink")旗下多款游戏及产品的而知名\[1\]\[2\]。
 
 Etika经历了几个月的[心理疾病和](https://zh.wikipedia.org/wiki/心理疾病 "wikilink")[自杀问题困扰之后](https://zh.wikipedia.org/wiki/自杀 "wikilink")，于2019年6月19日失踪。2019年6月24日，[纽约市警局在](https://zh.wikipedia.org/wiki/纽约市警局 "wikilink")[东河发现了一具尸体](../Page/東河_\(紐約市\).md "wikilink")，而在一天之后就确认了这具尸体便是Etika。警方当时已经确定死于自杀，後來證實為溺斃\[3\]\[4\]\[5\]\[6\]\[7\]。

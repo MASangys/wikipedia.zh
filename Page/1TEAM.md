@@ -1,3 +1,6 @@
+> 本文内容由[1TEAM](https://zh.wikipedia.org/wiki/1TEAM)转换而来。
+
+
 **1TEAM**（），是Liveworks Company於2019年推出的五人男子组合\[1\]，成員包括BC、婁彬、鎮祐、帝現及政勳。粉絲名稱為「Team One」\[2\]。
 
 ## 成員資料

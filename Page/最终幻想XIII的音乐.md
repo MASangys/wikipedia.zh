@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XIII的音乐](https://zh.wikipedia.org/wiki/最终幻想XIII的音乐)转换而来。
+
+
 **最终幻想XIII的音乐**由[滨涡正志](../Page/滨涡正志.md "wikilink")（Masashi Hamauzu）负责作曲。游戏前作的作曲家[植松伸夫](../Page/植松伸夫.md "wikilink")没有参与该作配乐。游戏的音乐已经发布了数张专辑。主要原声带专辑Final Fantasy XIII Original Soundtrack于2010年由游戏的开发商和制作商[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")（Square Enix）发行，包含四张[CD](../Page/CD.md "wikilink")。原声带的精选集发行了两张[黑胶唱片专辑](https://zh.wikipedia.org/wiki/黑胶唱片 "wikilink")，分别是W/F: Music from Final Fantasy XIII和W/F: Music from Final Fantasy XIII Gentle Reveries，均在2010年由史克威尔艾尼克斯发行。原声带编曲专辑Final Fantasy XIII Original Soundtrack -PLUS-也于2010年由史克威尔艾尼克斯发行，钢琴编曲专辑Piano Collection Final Fantasy XIII也是如此。日文版游戏的主题曲，于2009年由发行。
 
 该原声带得到了评论家的好评，他们认为这是滨涡正志迄今为止最好的作品，其优秀的音乐元素和风格的混合将这一系列的音乐带入全新的方向。 Plus专辑收到的评论较弱，主要是由于缺乏与原声带中显着不同的曲目，而“君がいるから”则被认为是平淡而令人失望的。 Piano专辑的评价好坏参半，有的评论家觉得这些曲目并没有偏离原曲，而另外的人认为直白的编曲很复杂。 游戏的音乐在[瑞典](../Page/瑞典.md "wikilink")[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")的现场管弦乐音乐会上被首次演奏，随后被添加到全球巡演音乐会系列中，而钢琴专辑的曲目则在日本和巴黎的音乐会上演奏过。

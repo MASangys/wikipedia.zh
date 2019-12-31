@@ -1,3 +1,6 @@
+> 本文内容由[X窗口管理器比较](https://zh.wikipedia.org/wiki/X窗口管理器比较)转换而来。
+
+
 本文比较各种不同的**[X窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")**。对此主题的介绍可见[X窗口系统](https://zh.wikipedia.org/wiki/X窗口系统 "wikilink")。
 
 <table>

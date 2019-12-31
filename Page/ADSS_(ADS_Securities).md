@@ -1,3 +1,6 @@
+> 本文内容由[ADSS \(ADS Securities\)](https://zh.wikipedia.org/wiki/ADSS_\(ADS_Securities\))转换而来。
+
+
 **ADSS達匯ADS**（Securities LLC (ADSS)）\[1\]是一家總部位於[阿布扎比](../Page/阿布扎比.md "wikilink")的[私營金融服務公司](https://zh.wikipedia.org/wiki/私營金融服務公司 "wikilink")，為機構、私人和零售客戶提供[在線交易](https://zh.wikipedia.org/wiki/在線交易 "wikilink")、投資、[財富管理和資產管理服務](https://zh.wikipedia.org/wiki/財富管理 "wikilink")。\[2\] \[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\] 該公司在CNBC 、彭博和CNBC 阿拉伯頻道提供外匯投資服務。\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]
 
 ADSS是阿聯酋最大的外匯交易商，為央行、資產管理人、經紀公司和對沖基金提供服務。\[16\]\[17\] \[18\] \[19\]\[20\]\[21\] 自2012年3月起，該公司管理的每日外匯交易量達到40-50億美元。\[22\] \[23\]\[24\]\[25\] 該公司經阿聯酋央行批准且接受其監管。\[26\]\[27\]\[28\]

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:Sinaweibo](https://zh.wikipedia.org/wiki/Draft:Template:Sinaweibo)转换而来。
+
+
 {{\#if:     {{\#property:P3579}}
 
 | \[<https://weibo.com/> {{\#if: }}} | }

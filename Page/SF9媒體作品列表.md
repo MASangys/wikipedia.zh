@@ -1,3 +1,6 @@
+> 本文内容由[SF9媒體作品列表](https://zh.wikipedia.org/wiki/SF9媒體作品列表)转换而来。
+
+
 **SF9媒體作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[SF9歷年參與各類電視節目](https://zh.wikipedia.org/wiki/SF9 "wikilink")、固定節目及電視劇 。
 
 ## 影音作品
@@ -860,13 +863,13 @@ Suit Dance Ver.[39]</p></td>
 <td><p>Love In The Ice[112]</p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
 <td><p>仁誠</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳會勝" title="wikilink">柳會勝</a>(<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>)、<a href="../Page/崔普閔.md" title="wikilink">普閔</a>(<a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>)、<a href="https://zh.wikipedia.org/wiki/李在賢" title="wikilink">賢在</a>(<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柳會勝" title="wikilink">柳會勝</a>(<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>)、<a href="../Page/崔普閔.md" title="wikilink">普閔</a>(<a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>)、<a href="https://zh.wikipedia.org/wiki/李在賢" title="wikilink">賢在</a>(<a href="../Page/THE_BOYZ.md" title="wikilink">THE BOYZ</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Run Devil Run[113]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a></p></td>
 <td><p>全體</p></td>
-<td><p><a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>、<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a></p></td>
+<td><p><a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>、<a href="../Page/THE_BOYZ.md" title="wikilink">THE BOYZ</a></p></td>
 <td></td>
 <td></td>
 <td></td>

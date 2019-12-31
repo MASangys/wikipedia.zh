@@ -1,3 +1,6 @@
+> 本文内容由[ZIS-5](https://zh.wikipedia.org/wiki/ZIS-5)转换而来。
+
+
 **ZIS-5**（），中譯**吉斯-5**，是[苏联](../Page/苏联.md "wikilink")在1930至1940年代的主力4x2三吨中型卡车，由[莫斯科](../Page/莫斯科.md "wikilink")[ZIS工廠生產](https://zh.wikipedia.org/wiki/ZIS "wikilink")。
 
 ## 开发

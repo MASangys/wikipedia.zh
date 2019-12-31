@@ -1,3 +1,6 @@
+> 本文内容由[Illegitimi non carborundum](https://zh.wikipedia.org/wiki/Illegitimi_non_carborundum)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Albert-L-Pollins-1.jpg "fig:缩略图")
 
 ***Illegitimi non carborundum*** 是一句格言，意義大致為「不要讓壞蛋把你打倒」。此短語在[拉丁語中並沒有意義](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")，只能當作[英語和](https://zh.wikipedia.org/wiki/英語 "wikilink")[拉丁語的混合型態進行](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「模擬翻譯」。詞語學家埃里克·帕特里奇()認為此短語起源於第二次世界大戰中英國情報部門。1953年，此短語被加入哈佛大學非官方校歌《》的偽拉丁歌詞片段中；後來，多名著名人物和作品開始借用此短語，以在面對逆境時激勵人心。

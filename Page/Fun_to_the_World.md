@@ -1,3 +1,6 @@
+> 本文内容由[Fun to the World](https://zh.wikipedia.org/wiki/Fun_to_the_World)转换而来。
+
+
 《**Fun to the World**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MOMOLAND](../Page/MOMOLAND.md "wikilink")的第四張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由MLD娛樂在2018年6月26日發行，主打歌為〈BAAM(배앰)〉\[1\]\[2\]。日文版在2018年11月釋出。\[3\]
 
 ## 背景及回歸日程

@@ -1,3 +1,6 @@
+> 本文内容由[Magic Touch](https://zh.wikipedia.org/wiki/Magic_Touch)转换而来。
+
+
 **Magic Touch**（），是[韓國HKM娛樂](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的五人女子組合，成員包括Yoojin、Violet、Seohee、Jia及Mika\[1\]。
 
 ## 成員資料

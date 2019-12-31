@@ -1,3 +1,6 @@
+> 本文内容由[M\&M\'s巧克力世界](https://zh.wikipedia.org/wiki/M\&M\'s巧克力世界)转换而来。
+
+
 [M\&M's_World,_Las_Vegas.jpg](https://zh.wikipedia.org/wiki/File:M&M's_World,_Las_Vegas.jpg "fig:M&M's_World,_Las_Vegas.jpg") [M\&M's_World_NYC_Wall_01.jpg](https://zh.wikipedia.org/wiki/File:M&M's_World_NYC_Wall_01.jpg "fig:M&M's_World_NYC_Wall_01.jpg") [M_and_Ms_(6478475459).jpg](https://zh.wikipedia.org/wiki/File:M_and_Ms_\(6478475459\).jpg "fig:M_and_Ms_(6478475459).jpg") **M\&M's巧克力世界**（）是[M\&M's](../Page/M&M's.md "wikilink")巧克力的旗艦商店，1997年第一間商店在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯大道](../Page/拉斯維加斯大道.md "wikilink")開幕，目前在全球共有5家分店\[1\]\[2\]，其中位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[萊斯特廣場](../Page/萊斯特廣場.md "wikilink")的分店占地面積35,000平方英尺（3,250平方米），是世界最大的糖果店\[3\]。除販售糖果及紀念品外，也展示有M\&M's卡通角色的裝置藝術；部份分店可訂製個人專屬M\&M's巧克力\[4\]。
 
 ## 分店列表

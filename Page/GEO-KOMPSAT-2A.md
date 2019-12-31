@@ -1,3 +1,6 @@
+> 本文内容由[GEO-KOMPSAT-2A](https://zh.wikipedia.org/wiki/GEO-KOMPSAT-2A)转换而来。
+
+
 **GK2A**是韩国[氣象衛星](../Page/氣象衛星.md "wikilink")之一，由[韩国氣象廳開發](https://zh.wikipedia.org/wiki/韩国氣象廳 "wikilink")，[KARI製造](https://zh.wikipedia.org/wiki/KARI "wikilink")。於2018年12月4日由[欧洲航天局的](https://zh.wikipedia.org/wiki/欧洲航天局 "wikilink")[阿丽亚娜5号將其送上軌道](https://zh.wikipedia.org/wiki/阿丽亚娜5号 "wikilink")，屬於[地球同步衛星](https://zh.wikipedia.org/wiki/地球同步衛星 "wikilink")。
 
 ## 發射

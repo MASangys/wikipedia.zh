@@ -1,3 +1,6 @@
+> 本文内容由[氯化六氯合铁\(III\)酸甲铵](https://zh.wikipedia.org/wiki/氯化六氯合铁\(III\)酸甲铵)转换而来。
+
+
 **氯化六氯合铁(III)酸甲铵**是[甲胺](../Page/甲胺.md "wikilink")形成的一种盐，化学式为(CH<sub>3</sub>NH<sub>3</sub>)<sub>4</sub>\[FeCl<sub>6</sub>\]Cl。
 
 ## 性质

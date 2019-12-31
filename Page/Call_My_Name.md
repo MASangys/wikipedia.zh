@@ -1,3 +1,6 @@
+> 本文内容由[Call My Name](https://zh.wikipedia.org/wiki/Call_My_Name)转换而来。
+
+
 《**Call My Name**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第十張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2019年11月4日發行，由JYP娛樂製作，iRiver音樂發行。共收錄六首曲目，主打歌為《니가 부르는 나의 이름(You Calling My Name)》。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Protected edit request](https://zh.wikipedia.org/wiki/模块:Protected_edit_request)转换而来。
+
+
 require('Module:No globals')
 
 local yesno = require('Module:Yesno') local makeMessageBox = require('Module:Message box').main local getArgs

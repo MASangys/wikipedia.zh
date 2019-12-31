@@ -1,3 +1,6 @@
+> 本文内容由[Fururu Project : Ruby](https://zh.wikipedia.org/wiki/Fururu_Project_:_Ruby)转换而来。
+
+
 是喵菓子工作室於2019年2月19日發售的[互動式冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")\[1\]。同年2月25日宣佈更新後支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")\[2\]。
 
 ## 故事簡介

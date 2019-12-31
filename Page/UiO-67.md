@@ -1,3 +1,6 @@
+> 本文内容由[UiO-67](https://zh.wikipedia.org/wiki/UiO-67)转换而来。
+
+
 **UiO-67**是一种[金属有机框架材料](../Page/金属有机框架材料.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为C<sub>84</sub>H<sub>52</sub>O<sub>32</sub>Zr<sub>6</sub>，它由[4,4'-联苯二甲酸](../Page/4,4'-联苯二甲酸.md "wikilink")的有机骨架链接[锆](../Page/锆.md "wikilink")结点而成。UiO为[奥斯陆大学](../Page/奥斯陆大学.md "wikilink")[挪威语](../Page/挪威语.md "wikilink")（Universitetet i Oslo）的缩写。它可由4,4'-联苯二甲酸和[四氯化锆](../Page/四氯化锆.md "wikilink")在*N*,*N*-[二甲基甲酰胺溶剂中于](https://zh.wikipedia.org/wiki/二甲基甲酰胺 "wikilink")120°C反应得到。UiO-67的热分解产物是[ZrO<sub>2</sub>](../Page/二氧化锆.md "wikilink")。\[1\]它可用于催化\[2\]、光催化\[3\]等领域。
 
 ## 参考文献

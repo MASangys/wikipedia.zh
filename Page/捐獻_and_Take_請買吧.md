@@ -1,3 +1,6 @@
+> 本文内容由[捐獻 and Take 請買吧](https://zh.wikipedia.org/wiki/捐獻_and_Take_請買吧)转换而来。
+
+
 《**捐獻 and Take 請買吧**》（，\[1\]），為韓國[MBN電視台於](https://zh.wikipedia.org/wiki/MBN "wikilink")2018年推出的綜藝節目\[2\]，原由[李輝宰](../Page/李輝宰.md "wikilink")、[Yura](../Page/Yura.md "wikilink")（[Girl's Day](../Page/Girl's_Day.md "wikilink")）、[文世允](https://zh.wikipedia.org/wiki/文世允 "wikilink")、[Sleepy等人共同主持](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[3\]，後Sleepy於第8集退出，新加入的主持為。 節目宗旨不是一般的「伸手籌款」，而是以活用自身才能的「fun式籌款」為口號，是明星們的橫衝直撞才能捐獻慈善節目\[4\]\[5\]。
 
 ## 節目成員

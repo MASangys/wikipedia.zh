@@ -1,3 +1,6 @@
+> 本文内容由[Saturday \(稻葉浩志單曲\)](https://zh.wikipedia.org/wiki/Saturday_\(稻葉浩志單曲\))转换而来。
+
+
 「**Saturday**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2014年](../Page/2014年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")由[Being發行的](../Page/Being_\(公司\).md "wikilink")[數位下載單曲](../Page/數位音樂下載.md "wikilink")。
 
 ## 概要

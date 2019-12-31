@@ -1,3 +1,6 @@
+> 本文内容由[Abyss](https://zh.wikipedia.org/wiki/Abyss)转换而来。
+
+
 《**Abyss**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年5月6日起播出的[月火連續劇](../Page/TvN月火連續劇.md "wikilink")。由《[Oh 我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》的[柳濟元導演與](https://zh.wikipedia.org/wiki/柳濟元 "wikilink")《[沒禮貌的英愛小姐](../Page/沒禮貌的英愛小姐.md "wikilink")》第9、10季的編劇[文秀妍合作打造](https://zh.wikipedia.org/wiki/文秀妍 "wikilink")。講述超頂尖的美女檢察官與奇醜無比的大醜男，因為一個可以讓靈魂重生的寶珠「Abyss」，讓他們的外貌改變，分別變成一個超級平凡女和花美男，並展開一段人生和愛情都重啟的奇幻故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 [Netflix](../Page/Netflix.md "wikilink")於5月6日起每週一二全球上線。

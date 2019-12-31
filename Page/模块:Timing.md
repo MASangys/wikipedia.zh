@@ -1,3 +1,6 @@
+> 本文内容由[模块:Timing](https://zh.wikipedia.org/wiki/模块:Timing)转换而来。
+
+
 \-- module timing individual functions -- @license (CC-BY-SA-3.0) -- @copyright John Erling Blad \<jeblad@gmail.com\>
 
 \-- @var The table holding this modules exported members local p = {

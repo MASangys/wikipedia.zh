@@ -1,3 +1,6 @@
+> 本文内容由[May J Lee](https://zh.wikipedia.org/wiki/May_J_Lee)转换而来。
+
+
 **May J Lee**（，），本名**李知玹**\[1\]（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，為韓國知名舞蹈工作室[1MILLION DANCE STUDIO的舞蹈老師](../Page/1MILLION_DANCE_STUDIO.md "wikilink")。\[2\]\[3\]2018年参与選秀節目[PRODUCE 48担任舞蹈導師](../Page/PRODUCE_48.md "wikilink")。\[4\]
 
 ## 編舞經歷

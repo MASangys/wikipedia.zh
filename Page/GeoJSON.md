@@ -1,3 +1,6 @@
+> 本文内容由[GeoJSON](https://zh.wikipedia.org/wiki/GeoJSON)转换而来。
+
+
 **GeoJSON**是一种基于[JSON](../Page/JSON.md "wikilink")的地理空间数据交换格式，它定义了几种类型JSON对象以及它们组合在一起的方法，以表示有关地理要素、属性和它们的空间范围的数据。
 
 2015年，互联网工程任务组（[IETF](../Page/互联网工程任务组.md "wikilink")）与原始规范作者组建了一个GeoJSON工作组，一起规范GeoJSON标准。在2016年8月，推出了最新的GeoJSON数据格式标准规范(RFC 7946)。

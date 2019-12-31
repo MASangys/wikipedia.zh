@@ -1,3 +1,6 @@
+> 本文内容由[模块:Automated taxobox](https://zh.wikipedia.org/wiki/模块:Automated_taxobox)转换而来。
+
+
 require('Module:No globals') local TaxonItalics = require('Module:TaxonItalics') local Autotaxobox = require('Module:Autotaxobox') local ItalicTitle = require('Module:Italic title') local p = {} -- functions made public local l = {} -- internal functions, kept separate
 
 \-- ============================================================================= -- automaticTaxobox implements Template:Automatic taxobox; see the documentation -- of that template for details. -- The following parameters present in the old template code version of -- Template:Automatic taxobox were not used and have not been implemented: -- image_caption_align -- image2_caption_align -- binomial2 -- binomial2_authority -- binomial3 -- binomial3_authority -- binomial4 -- binomial4_authority -- =============================================================================

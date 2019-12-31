@@ -1,3 +1,6 @@
+> 本文内容由[Justice \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Justice_\(韓國電視劇\))转换而来。
+
+
 《**Justice**》（），為韓國[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年7月17日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》的趙雄導演與《[學校2017](../Page/學校2017.md "wikilink")》的鄭燦美作家合作打造。此劇改編自2017年的同名網路小說，講述因不當金權交易而失去家人的律師，和燃起復仇之火像惡魔一樣的男人交易後所展開的故事。\[1\]\[2\]\[3\]
 
 台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、遠傳friDay影音站 7/18起每週四五播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink") 7/26起每週五更新4集。

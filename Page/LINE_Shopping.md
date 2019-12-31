@@ -1,3 +1,6 @@
+> 本文内容由[LINE Shopping](https://zh.wikipedia.org/wiki/LINE_Shopping)转换而来。
+
+
 **LINE Shopping**（中文：LINE購物） 為 [LINE](../Page/LINE.md "wikilink") 提供的導購及回饋點數的行動電商聯盟平台，提供消費者在各大購物網站比價功能及提供額外回饋，如消費特定商家即可獲得 LINE POINTS 點數回饋等機制。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士ZERO-ONE](https://zh.wikipedia.org/wiki/假面騎士ZERO-ONE)转换而来。
+
+
 《**假面騎士ZERO-ONE**》（，），又名《**假面騎士01**》或《**假面騎士零一**》，自2019年9月1日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上9:00－9:30 播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第1部[令和](../Page/令和.md "wikilink")系列作品，假面騎士ZERO-ONE是第36位作為主角的[假面騎士](../Page/假面騎士.md "wikilink")的名字。口號為「令和假面騎士元年」、「世界最強的社長只有一人！就是我！」
 
 中國大陸[騰訊視頻於](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年9月1日每週日起與日本同步播放，VIP每週日10:00更新，次日18:00更新普通話版。

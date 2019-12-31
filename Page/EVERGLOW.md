@@ -1,3 +1,6 @@
+> 本文内容由[EVERGLOW](https://zh.wikipedia.org/wiki/EVERGLOW)转换而来。
+
+
 **EVERGLOW**（名字風格：**∑V∑RδLOW**，），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、Sihyeon、Mia、Onda、Aisha，以及一名中國成员Yiren组成。2019年3月18日，以首张单曲专辑《[ARRIVAL OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]此團體是[樂華娛樂首個韓國女子團體](../Page/乐华娱乐.md "wikilink")。
 
 ## 團體資料

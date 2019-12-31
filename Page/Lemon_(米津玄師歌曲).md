@@ -1,3 +1,6 @@
+> 本文内容由[Lemon \(米津玄師歌曲\)](https://zh.wikipedia.org/wiki/Lemon_\(米津玄師歌曲\))转换而来。
+
+
 《**Lemon**》是日本歌手[米津玄師](../Page/米津玄師.md "wikilink")的第八張單曲，於2018年3月14日由[Sony Music Records發售](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Scrapy](https://zh.wikipedia.org/wiki/Scrapy)转换而来。
+
+
 **Scrapy**（ \[1\]是一个[Python](../Page/Python.md "wikilink")编写的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[网络爬虫](https://zh.wikipedia.org/wiki/网络爬虫 "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")。它是一个被设计用于爬取网络数据、提取结构性数据的程序框架。\[2\]该框架主要由进行维护。
 
 ## 另見

@@ -1,3 +1,6 @@
+> 本文内容由[ClickHouse](https://zh.wikipedia.org/wiki/ClickHouse)转换而来。
+
+
 **ClickHouse**是一个用于[線上分析處理](../Page/線上分析處理.md "wikilink")（OLAP）的开源[列式数据库](../Page/列式数据库.md "wikilink")。
 
 ClickHouse是由俄罗斯IT公司[Yandex](../Page/Yandex.md "wikilink")为Yandex.Metrica网络分析服务开发的。\[1\]\[2\]\[3\]\[4\] ClickHouse允许分析实时更新的数据。该系统以高性能为目标。\[5\]

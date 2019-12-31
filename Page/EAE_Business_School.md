@@ -1,3 +1,6 @@
+> 本文内容由[EAE Business School](https://zh.wikipedia.org/wiki/EAE_Business_School)转换而来。
+
+
 **EAE 商学院** 是一所创建于1958年的私立商学院，在 [马德里](../Page/马德里.md "wikilink") 和 [巴塞罗那](https://zh.wikipedia.org/wiki/巴塞罗那 "wikilink") ([西班牙](../Page/西班牙.md "wikilink")) 都有校区.\[1\]
 
 ## 历史

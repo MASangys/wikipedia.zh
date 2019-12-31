@@ -1,3 +1,6 @@
+> 本文内容由[LGBT政府首脑列表](https://zh.wikipedia.org/wiki/LGBT政府首脑列表)转换而来。
+
+
 此份名单所列人员，皆为公开表明[LGBT](../Page/LGBT.md "wikilink")身份的国家或地方部门政府首脑。迄今为止，已有五国政府首脑为LGBT人士，分别为[冰岛](../Page/冰岛.md "wikilink")、[比利时](../Page/比利时.md "wikilink")、[卢森堡](../Page/卢森堡.md "wikilink")、[爱尔兰](../Page/爱尔兰.md "wikilink")和[塞尔维亚](../Page/塞尔维亚.md "wikilink")。
 
 ## 国家

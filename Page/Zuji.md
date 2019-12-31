@@ -1,3 +1,6 @@
+> 本文内容由[Zuji](https://zh.wikipedia.org/wiki/Zuji)转换而来。
+
+
 **Zuji**是[香港](../Page/香港.md "wikilink")和[新加坡](../Page/新加坡.md "wikilink")的一站式網上旅行社，提供各類不同的旅遊產品預訂。
 
 ## 歷史

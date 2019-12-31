@@ -1,3 +1,6 @@
+> 本文内容由[Under dog](https://zh.wikipedia.org/wiki/Under_dog)转换而来。
+
+
 **Under dog**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**언더독**），是[2ABLE Company於](https://zh.wikipedia.org/wiki/2ABLE_Company "wikilink")2013年推出的男子組合，經過多次組員變動後，在2017年宣布解散，解散前成員包括[Dal](https://zh.wikipedia.org/wiki/Dal "wikilink")、[Kain](https://zh.wikipedia.org/wiki/Kain "wikilink")、[Beakjin及](https://zh.wikipedia.org/wiki/Beakjin "wikilink")[Iro](https://zh.wikipedia.org/wiki/Iro "wikilink")。
 
 ## 成員資料

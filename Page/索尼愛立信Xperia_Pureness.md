@@ -1,3 +1,6 @@
+> 本文内容由[索尼愛立信Xperia Pureness](https://zh.wikipedia.org/wiki/索尼愛立信Xperia_Pureness)转换而来。
+
+
 ## 简介
 
 **Xperia Pureness**是[索尼愛立信旗下的一款](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，既[LG推出透明键盘手机GD](https://zh.wikipedia.org/wiki/LG "wikilink")900后，[索尼爱立信也接着推出全球首款屏幕透明手机](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")（屏幕不显示使接近透明），于2009年在[中国香港和](https://zh.wikipedia.org/wiki/中国香港 "wikilink")[英国发售](https://zh.wikipedia.org/wiki/英国 "wikilink"),全球限量888台。\[1\]

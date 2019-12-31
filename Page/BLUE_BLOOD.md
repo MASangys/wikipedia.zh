@@ -1,3 +1,6 @@
+> 本文内容由[BLUE BLOOD](https://zh.wikipedia.org/wiki/BLUE_BLOOD)转换而来。
+
+
 《**BLUE BLOOD**》（ブルー・ブラッド）是日本摇滚乐队X（之後改名為[X JAPAN](../Page/X_Japan.md "wikilink")）于1989年4月21日发行的第二张专辑。亦是X与日本[CBS SONY签约后发售的第一张专辑](../Page/索尼音樂娛樂.md "wikilink")。
 
 虽然是X首张正式出道的专辑，但在當時日本[Oricon](../Page/Oricon.md "wikilink")排行榜上创下在榜单上停留超過100周的销量记录（累積達80万张以上），仅次于《[Jealousy](https://zh.wikipedia.org/wiki/Jealousy_\(專輯\) "wikilink")》的成績。2007年2月14日本专辑与第二张专辑《Jealousy》同時限时发行再版，而且在2008年推出"重新製作版"（REMASTERED EDITION）。

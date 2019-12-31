@@ -1,3 +1,6 @@
+> 本文内容由[古突厥文 \(Unicode區段\)](https://zh.wikipedia.org/wiki/古突厥文_\(Unicode區段\))转换而来。
+
+
 **古突厥文**是一個包含了[古突厥文字符的Unicode区塊](https://zh.wikipedia.org/wiki/古突厥文 "wikilink")。
 
 ## 区塊

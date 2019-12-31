@@ -1,3 +1,6 @@
+> 本文内容由[Astro华丽台直播节目列表](https://zh.wikipedia.org/wiki/Astro华丽台直播节目列表)转换而来。
+
+
 本條目內之「播放日期」，是指[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")的播放日期。
 
 ## 2019年

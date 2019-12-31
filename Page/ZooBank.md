@@ -1,3 +1,6 @@
+> 本文内容由[ZooBank](https://zh.wikipedia.org/wiki/ZooBank)转换而来。
+
+
 [Taxon_treatment_for_Paedophryne_amauensis.png](https://zh.wikipedia.org/wiki/File:Taxon_treatment_for_Paedophryne_amauensis.png "fig:Taxon_treatment_for_Paedophryne_amauensis.png")的分類處理歷程\[1\]，並針對其生物分類作為提供\[2\]。\]\] **ZooBank**是一個[開放取用網站](https://zh.wikipedia.org/wiki/開放取用 "wikilink")，由[國際動物命名法委員會](../Page/國際動物命名法委員會.md "wikilink")管理，作為[動物命名的正式登記處所](https://zh.wikipedia.org/wiki/國際動物命名規約 "wikilink")\[3\]。任何的分類作為（如發表新分類或物種名稱，以及變更其名稱）必須要在ZooBank登錄，才能獲得《[國際動物命名規約](https://zh.wikipedia.org/wiki/國際動物命名規約 "wikilink")》的「正式」承認。
 
 對於登錄至ZooBank的分類項目，會採用作為其[通用唯一辨識碼](https://zh.wikipedia.org/wiki/通用唯一辨識碼 "wikilink")\[4\]。

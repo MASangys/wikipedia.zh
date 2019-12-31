@@ -1,3 +1,6 @@
+> 本文内容由[A-TEEN \(電視劇\)](https://zh.wikipedia.org/wiki/A-TEEN_\(電視劇\))转换而来。
+
+
 《**A-TEEN**》（），為[韓國於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年7月1日至2018年9月16日通過[NAVER TV](../Page/NAVER.md "wikilink")、[V LIVE播出的網路劇](../Page/NAVER.md "wikilink")。此作為網路劇《十七歲》的後續作品，與前作不同的是，本劇講述迎接18歲高中生們青澀懵懂的戀愛、複雜矛盾的友情的故事\[1\]\[2\]。第二季於2019年4月25日播出\[3\]。
 
 ## 演員陣容

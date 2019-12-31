@@ -1,3 +1,6 @@
+> 本文内容由[SNIFF OUT! \(可苦可樂單曲\)](https://zh.wikipedia.org/wiki/SNIFF_OUT!_\(可苦可樂單曲\))转换而来。
+
+
 《**SNIFF OUT\!**》是[可苦可樂](../Page/可苦可樂.md "wikilink")的第5張[數位單曲](../Page/數位音樂下載.md "wikilink")。於2016年2月10日由[Warner Music Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:ITU](https://zh.wikipedia.org/wiki/Draft:ITU)转换而来。
+
+
 **[ITU](../Page/国际电信联盟.md "wikilink")** is the International Union, formerly the International Telegraph Union.
 
 **ITU** or **Itu** may also refer to:

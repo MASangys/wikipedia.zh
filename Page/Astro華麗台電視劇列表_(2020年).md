@@ -1,3 +1,6 @@
+> 本文内容由[Astro華麗台電視劇列表 \(2020年\)](https://zh.wikipedia.org/wiki/Astro華麗台電視劇列表_\(2020年\))转换而来。
+
+
 本列表列出2020年由[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")所播放的劇集。
 
 ## 星期一至五（黃金時段）

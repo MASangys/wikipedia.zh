@@ -1,3 +1,6 @@
+> 本文内容由[雜項符號 \(Unicode區段\)](https://zh.wikipedia.org/wiki/雜項符號_\(Unicode區段\))转换而来。
+
+
 **雜項符號**是一個Unicode區段，編碼範圍爲U+2600至U+26FF，內容包含了包含[占星術](https://zh.wikipedia.org/wiki/占星術 "wikilink")、[天文學](../Page/天文學.md "wikilink")、[國際象棋](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")、[骰子](../Page/骰子.md "wikilink")、[音樂記譜法](../Page/音樂記譜法.md "wikilink")、[政治標記](https://zh.wikipedia.org/wiki/政治標記 "wikilink")、[宗教符號](https://zh.wikipedia.org/wiki/宗教符號 "wikilink")、[資源回收](../Page/資源回收.md "wikilink")、[八卦](../Page/八卦.md "wikilink")、[警告標誌](../Page/警告標誌.md "wikilink")、[天氣等領域的圖案](https://zh.wikipedia.org/wiki/天氣 "wikilink")。
 
 ## 區段字符表

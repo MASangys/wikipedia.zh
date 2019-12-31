@@ -1,3 +1,6 @@
+> 本文内容由[Trinoline](https://zh.wikipedia.org/wiki/Trinoline)转换而来。
+
+
 《**Trinoline**》（）是[日本](../Page/日本.md "wikilink")[minori公司于](https://zh.wikipedia.org/wiki/minori "wikilink")2017年3月31日发售的[18禁](https://zh.wikipedia.org/wiki/十八禁 "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")。2018年1月26日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Trinoline: Genesis》（）。
 
 ## 故事简介

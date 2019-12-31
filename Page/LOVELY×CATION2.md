@@ -1,3 +1,6 @@
+> 本文内容由[LOVELY×CATION2](https://zh.wikipedia.org/wiki/LOVELY×CATION2)转换而来。
+
+
 《**LOVELY×CATION2**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌hibiki works在2011年6月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，×CATION系列的第二部作品。2014年7月25日發售新裝版《》。\[2\]2015年5月21日由[5pb.](../Page/5pb..md "wikilink")發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《LOVELY×CATION 1&2》。\[3\]
 
 ## 故事

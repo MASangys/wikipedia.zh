@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Classic Gaming Expo](https://zh.wikipedia.org/wiki/Draft:Classic_Gaming_Expo)转换而来。
+
+
 **經典遊戲展**是一個與昔日的人們、系统和游戏息息相關，並強調歷史[電子遊戲的遊戲大會](../Page/电子游戏.md "wikilink")\[1\]。該展覽由約翰·哈迪、肖恩·凱利與Keita Iida成立於1999年。在2000年時，喬·桑圖理取代Iida成為了表演秀的共同組織者。\[2\]\[3\]\[4\]\[5\]
 
 该大會通常會在[内华达州](../Page/内华达州.md "wikilink")的[拉斯维加斯谷舉辦](https://zh.wikipedia.org/wiki/拉斯維加斯谷 "wikilink")，但有时也會在[矽谷舉行](../Page/硅谷.md "wikilink")。\[6\]

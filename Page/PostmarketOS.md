@@ -1,3 +1,6 @@
+> 本文内容由[PostmarketOS](https://zh.wikipedia.org/wiki/PostmarketOS)转换而来。
+
+
 postmarketOS（或稱**pmOS**）是一個針對[智慧型手機開發的](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[自由開源操作系統](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，基於[Alpine Linux发行版](../Page/Alpine_Linux.md "wikilink")。\[1\]\[2\]\[3\]\[4\]
 
 postmarketOS始於2017年5月6日，[源代碼可於](https://zh.wikipedia.org/wiki/源代碼 "wikilink")[GitLab](../Page/GitLab.md "wikilink")上獲得。\[5\]\[6\]postmarketOS可以運行各款基於[X和](../Page/X_Window系統.md "wikilink")[Wayland](../Page/Wayland.md "wikilink")的用戶界面，例如Plasma Mobile\[7\]\[8\]、[MATE](../Page/MATE.md "wikilink")、[GNOME 3和](../Page/GNOME.md "wikilink")[XFCE](https://zh.wikipedia.org/wiki/XFCE "wikilink")。\[9\]該專案旨在為智慧型手機提供十年的產品週期。\[10\]\[11\]

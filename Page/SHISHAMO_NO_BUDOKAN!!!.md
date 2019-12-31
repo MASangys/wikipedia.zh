@@ -1,3 +1,6 @@
+> 本文内容由[SHISHAMO NO BUDOKAN!!!](https://zh.wikipedia.org/wiki/SHISHAMO_NO_BUDOKAN!!!)转换而来。
+
+
 《**SHISHAMO NO BUDOKAN\!\!\!**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第1张演唱会影像作品，于2016年4月6日发行。
 
 ## 简介

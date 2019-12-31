@@ -1,3 +1,6 @@
+> 本文内容由[Draft:MIPS架构处理器](https://zh.wikipedia.org/wiki/Draft:MIPS架构处理器)转换而来。
+
+
 -----
 
 自从1985年以来，各种基于[MIPS架构的](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")[中央处理器](../Page/中央处理器.md "wikilink")、[SoCs已经被设计出来且广泛使用](../Page/系统芯片.md "wikilink")。

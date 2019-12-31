@@ -1,3 +1,6 @@
+> 本文内容由[Décalcomanie \(Mamamoo日本單曲\)](https://zh.wikipedia.org/wiki/Décalcomanie_\(Mamamoo日本單曲\))转换而来。
+
+
 《**Décalcomanie -Japanese ver.-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO第一張日語單曲](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由VICTOR ENTERAINMENT於2018年10月3日發行。為了紀念此次日本出道，MAMAMOO除了收錄主打曲《Décalcomanie》的日語版外，也收錄一首全新的歌曲《You Don't Know Me》。\[1\]
 
 ## 概要

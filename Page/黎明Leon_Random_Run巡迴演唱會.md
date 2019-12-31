@@ -1,3 +1,6 @@
+> 本文内容由[黎明Leon Random Run巡迴演唱會](https://zh.wikipedia.org/wiki/黎明Leon_Random_Run巡迴演唱會)转换而来。
+
+
 **黎明Leon Random Run巡迴演唱會**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2017至2018年間在[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[武漢](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[東莞及](https://zh.wikipedia.org/wiki/東莞 "wikilink")[澳門](../Page/澳門.md "wikilink")舉行\[1\]。
 
 ## 背景

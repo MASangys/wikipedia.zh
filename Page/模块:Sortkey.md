@@ -1,3 +1,6 @@
+> 本文内容由[模块:Sortkey](https://zh.wikipedia.org/wiki/模块:Sortkey)转换而来。
+
+
 local getArgs = require('Module:Arguments').getArgs
 
 local p = {}

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Ordinal](https://zh.wikipedia.org/wiki/模块:Ordinal)转换而来。
+
+
 \--[This template will add the appropriate ordinal suffix to a given integer. Please do not modify this code without applying the changes first at Module:Ordinal/sandbox and testing at Module:Ordinal/sandbox/testcases and Module talk:Ordinal/sandbox/testcases.](https://zh.wikipedia.org/wiki/This_template_will_add_the_appropriate_ordinal_suffix_to_a_given_integer._Please_do_not_modify_this_code_without_applying_the_changes_first_at_Module:Ordinal/sandbox_and_testing_at_Module:Ordinal/sandbox/testcases_and_Module_talk:Ordinal/sandbox/testcases. "wikilink")
 
 local p = {}

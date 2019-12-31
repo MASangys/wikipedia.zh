@@ -1,3 +1,6 @@
+> 本文内容由[演員夜凪景 act-age](https://zh.wikipedia.org/wiki/演員夜凪景_act-age)转换而来。
+
+
 ，是日本漫畫家擔任原作和擔任作畫的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。該作於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2018年8號（2018年1月22日）開始連載\[1\]。
 
 故事原型為《週刊少年Jump》2017年9號刊載的單篇作品\[2\]，講述擁有如天才般演技資質的少女，作為一名演員不斷成長的故事。

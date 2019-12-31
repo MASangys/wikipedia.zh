@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢 牧場物語](https://zh.wikipedia.org/wiki/哆啦A夢_牧場物語)转换而来。
+
+
 是一款由[Marvelous Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台上的[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。
 
 遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台發售（繁體中文版為2019年7月25日）。另外也已於2019年10月11日推出繁中版[Steam](../Page/Steam.md "wikilink")版本。

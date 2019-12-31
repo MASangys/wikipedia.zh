@@ -1,3 +1,6 @@
+> 本文内容由[DONGKIZ](https://zh.wikipedia.org/wiki/DONGKIZ)转换而来。
+
+
 **DONGKIZ**(韓語：**동키즈**)，是[韓國Dongyo娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年，透過《DONGKIZ Official Debut Support Project》進行網上籌集經費，在'全民皆能造星'下所推出的五人男子組合\[1\]。
 
 ## 成員資料

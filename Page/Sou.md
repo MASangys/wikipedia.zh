@@ -1,3 +1,6 @@
+> 本文内容由[Sou](https://zh.wikipedia.org/wiki/Sou)转换而来。
+
+
 **Sou**（）是[日本](../Page/日本.md "wikilink")主要以**[Niconico动画](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")**（）等网络为中心展开活动，于2015年正式[出道的男唱见](https://zh.wikipedia.org/wiki/出道 "wikilink")。主要以[VOCALOID](../Page/VOCALOID.md "wikilink")曲为中心翻唱，有时也翻唱[流行歌手的](https://zh.wikipedia.org/wiki/流行歌手 "wikilink")[乐曲](../Page/音乐.md "wikilink")。
 
 ## 经历

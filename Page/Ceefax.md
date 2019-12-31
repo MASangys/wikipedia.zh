@@ -1,3 +1,6 @@
+> 本文内容由[Ceefax](https://zh.wikipedia.org/wiki/Ceefax)转换而来。
+
+
 [Last_second_of_BBC_Ceefax.png](https://zh.wikipedia.org/wiki/File:Last_second_of_BBC_Ceefax.png "fig:Last_second_of_BBC_Ceefax.png") **Ceefax**是[英国广播公司](../Page/英国广播公司.md "wikilink")（BBC）昔日运营的一项[图文电视服务](https://zh.wikipedia.org/wiki/图文电视 "wikilink")，1974年9月23日开始运营，2012年10月23日停止服务。
 
 ## 简介

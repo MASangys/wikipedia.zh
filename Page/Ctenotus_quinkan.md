@@ -1,3 +1,6 @@
+> 本文内容由[Ctenotus quinkan](https://zh.wikipedia.org/wiki/Ctenotus_quinkan)转换而来。
+
+
 ***Ctenotus quinkan*** 是一种主要分佈在[澳大利亚](../Page/澳大利亚.md "wikilink")的[石龍子](../Page/石龍子.md "wikilink")[科下的](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[蜥蜴](../Page/蜥蜴.md "wikilink")[物种](../Page/物种.md "wikilink")。
 
 ## 描述

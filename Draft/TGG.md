@@ -1,3 +1,6 @@
+> 本文内容由[Draft:TGG](https://zh.wikipedia.org/wiki/Draft:TGG)转换而来。
+
+
 TGG组合，是一個由北京练习生文化控股有限公司打造的中国内地流行乐女子演唱组合，由赵嘉仪、牛澳菲、[吴映香](../Page/吴映香.md "wikilink")组成。
 
 ## 概要

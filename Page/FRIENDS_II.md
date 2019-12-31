@@ -1,3 +1,6 @@
+> 本文内容由[FRIENDS II](https://zh.wikipedia.org/wiki/FRIENDS_II)转换而来。
+
+
 《**FRIENDS II**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")於[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")由[Rooms RECORDS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")5張迷你專輯。成為了4th迷你專輯《[FRIENDS](../Page/FRIENDS_\(B'z專輯\).md "wikilink")》的續編。
 
 ## 概要

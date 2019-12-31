@@ -1,3 +1,6 @@
+> 本文内容由[MyTV SUPER 18台](https://zh.wikipedia.org/wiki/MyTV_SUPER_18台)转换而来。
+
+
 **myTV SUPER 18台**报道本地賽馬資訊，內容包括馬圈消息、晨操片段、賽前分析、賽事直播和賽後檢討等。[myTV SUPER設有](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")「賽馬」專區，提供貼士、賽事、預測、策略等賽馬資訊。
 
 自2019年九月馬季開鑼以來，五十七場賽事中myTV SUPER 18台節目「賽事全方位」貼中三十一場頭馬，超過一半賽事，其中更貼中四次「四重彩」。

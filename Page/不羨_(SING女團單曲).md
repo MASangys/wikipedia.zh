@@ -1,3 +1,6 @@
+> 本文内容由[不羨 \(SING女團單曲\)](https://zh.wikipedia.org/wiki/不羨_\(SING女團單曲\))转换而来。
+
+
 〈**不羨**〉是中國女子音樂團體[SING女團](https://zh.wikipedia.org/wiki/SING女團 "wikilink")2018年第六張單曲音樂，也是動畫「[魔道祖師](../Page/魔道祖师_\(动画\).md "wikilink")」片尾曲 ，於8月25日发行。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 曲目

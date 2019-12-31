@@ -1,3 +1,6 @@
+> 本文内容由[BULLY IDOL](https://zh.wikipedia.org/wiki/BULLY_IDOL)转换而来。
+
+
 **BULLY IDOL**是日本的音樂團體、女子偶像組合、是WACK的洗牌團體，是用來推廣的新單曲"" \[1\]。2019年結成。隸屬於WACK。唱片公司為Tower Records。
 
 模仿他們，設定為是他們的競爭對手。\[2\]

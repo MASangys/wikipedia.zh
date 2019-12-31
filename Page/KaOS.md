@@ -1,3 +1,6 @@
+> 本文内容由[KaOS](https://zh.wikipedia.org/wiki/KaOS)转换而来。
+
+
 **KaOS**是一個獨立的[Linux發行版](../Page/Linux发行版.md "wikilink")（即[操作系统](../Page/操作系统.md "wikilink")），搭載最新版本的[KDE Plasma](https://zh.wikipedia.org/wiki/KDE_Plasma "wikilink")[桌面環境及一些常見軟件](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。
 
 KaOS受Arch Linux啓發，配有和後者一致的包管理器[pacman](https://zh.wikipedia.org/wiki/pacman "wikilink")，但採用自有的[軟件倉庫](https://zh.wikipedia.org/wiki/軟件倉庫 "wikilink")\[1\]

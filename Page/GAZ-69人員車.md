@@ -1,3 +1,6 @@
+> 本文内容由[GAZ-69人員車](https://zh.wikipedia.org/wiki/GAZ-69人員車)转换而来。
+
+
 [UAZ-69A_during_II._Vasút_-_Vasútmodell_és_Technikai_Modell_Fesztivál_1.jpg](https://zh.wikipedia.org/wiki/File:UAZ-69A_during_II._Vasút_-_Vasútmodell_és_Technikai_Modell_Fesztivál_1.jpg "fig:UAZ-69A_during_II._Vasút_-_Vasútmodell_és_Technikai_Modell_Fesztivál_1.jpg") [Gaz-69_(8215524669).jpg](https://zh.wikipedia.org/wiki/File:Gaz-69_\(8215524669\).jpg "fig:Gaz-69_(8215524669).jpg")
 
 **GAZ-69人員車**是[GAZ-67人員車](../Page/GAZ-67人員車.md "wikilink")的後繼車型，其總設計師是杰戈爾.華沙文（Grigoriy Vasserman）,1946年開始設計，1947年推出原型車，1953年投產，這原是[高爾基汽車廠出品但在](https://zh.wikipedia.org/wiki/高爾基汽車廠 "wikilink")1956年改在烏茲車廠（UAZ）生產直至1972年停產，故GAZ-69又名「UAZ-69」。

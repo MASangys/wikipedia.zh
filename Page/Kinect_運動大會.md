@@ -1,3 +1,6 @@
+> 本文内容由[Kinect 運動大會](https://zh.wikipedia.org/wiki/Kinect_運動大會)转换而来。
+
+
 是一款於2010年發行的[Xbox 360](../Page/Xbox_360.md "wikilink")[體育遊戲](../Page/體育遊戲.md "wikilink")，由[Rare](../Page/Rare.md "wikilink")開發，[微軟遊戲工作室發行](../Page/Xbox游戏工作室.md "wikilink")。該作採用當時微軟新開發的體感感應器[Kinect](../Page/Kinect.md "wikilink")，可以捕捉玩家的肢體動作，轉為遊戲中的動作。該作包含6個運動項目：[足球](../Page/足球.md "wikilink")、[保齡球](../Page/保齡球_\(廣義\).md "wikilink")、[田徑](https://zh.wikipedia.org/wiki/田賽和徑賽 "wikilink")、[拳击](../Page/拳击.md "wikilink")、[沙滩排球](../Page/沙滩排球.md "wikilink")和[桌球](../Page/乒乓球.md "wikilink")，每個項目都有單人或多人、單機或連線等模式供玩家選擇。另外，該作也附有8個迷你遊戲。在遊戲中，玩家必須面對著Kinect感應器，做出遊戲中指定的動作，如踢球、原地跑步或跳躍等。
 
 《Kinect 運動大會》於2010年11月4日隨著Kinect在北美首發，在評價和銷量方面雙雙取得成功。多數評論家對於該作搭配Kinect感應器的效能讚譽有加，對運動項目的評價則褒貶不一。也有評論家認為該作比起先前的體感運動遊戲並沒有什麼創新。截至2011年4月，《Kinect 運動大會》在上市的半年內已售出300萬份。該作的續作《》於2012年9月18日發布。

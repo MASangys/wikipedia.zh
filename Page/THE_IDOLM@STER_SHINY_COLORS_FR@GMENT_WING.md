@@ -1,3 +1,6 @@
+> 本文内容由[THE IDOLM@STER SHINY COLORS FR@GMENT WING](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_SHINY_COLORS_FR@GMENT_WING)转换而来。
+
+
 ，是[Lantis](../Page/Lantis.md "wikilink")自2019年4月10日起發售的《[偶像大師 閃耀色彩](../Page/偶像大師_閃耀色彩.md "wikilink")》角色歌曲系列專輯。
 
 ## 概要

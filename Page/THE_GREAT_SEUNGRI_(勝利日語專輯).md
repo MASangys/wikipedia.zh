@@ -1,3 +1,6 @@
+> 本文内容由[THE GREAT SEUNGRI \(勝利日語專輯\)](https://zh.wikipedia.org/wiki/THE_GREAT_SEUNGRI_\(勝利日語專輯\))转换而来。
+
+
 《**THE GREAT SEUNGRI**日語專輯》是[勝利在日本發售的第二張日語正規專輯](../Page/勝利_\(歌手\).md "wikilink")，於2018年9月5日在日本推出。
 
 ## 概要

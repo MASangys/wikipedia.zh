@@ -1,3 +1,6 @@
+> 本文内容由[乃木坂46 6th YEAR BIRTHDAY LIVE 2018.07.06-08 JINGU STADIUM\&CHICHIBUNOMIYA RUGBY STADIUM](https://zh.wikipedia.org/wiki/乃木坂46_6th_YEAR_BIRTHDAY_LIVE_2018.07.06-08_JINGU_STADIUM\&CHICHIBUNOMIYA_RUGBY_STADIUM)转换而来。
+
+
 《**乃木坂46 6th YEAR BIRTHDAY LIVE 2018.07.06-08 JINGU STADIUM\&CHICHIBUNOMIYA RUGBY STADIUM**》是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[乃木坂46在](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")2018年7月6日至8日於日本[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[明治神宫棒球场和](https://zh.wikipedia.org/wiki/明治神宫棒球场 "wikilink")同步舉行的六週年紀念公演，於2019年7月3日以DVD和Blu-ray形式發售\[1\]。
 
 ## 背景

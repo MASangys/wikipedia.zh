@@ -1,3 +1,6 @@
+> 本文内容由[Screenfetch](https://zh.wikipedia.org/wiki/Screenfetch)转换而来。
+
+
 **Screenfetch**是一个适用于[Linux](../Page/Linux.md "wikilink")\[1\]的[bash脚本](../Page/Bash.md "wikilink")，用于显示系统信息及ASCII化的Linux发行版图标。根据其[手册页](../Page/手册页.md "wikilink")所述，Screenfetch常用于[截图并分享至社交媒体或图像托管网站上](https://zh.wikipedia.org/wiki/截图 "wikilink")。此软件支持诸多GNU及Linux发行版（如[Arch Linux](../Page/Arch_Linux.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")、[Slackware](../Page/Slackware.md "wikilink")与部分[BSD](../Page/BSD.md "wikilink")发行版）。除了展示操作系统数据之外，它也显示大多数系统的[桌面管理器及](../Page/桌面环境.md "wikilink")[窗口管理器信息](https://zh.wikipedia.org/wiki/窗口管理器 "wikilink")（如[GNOME](../Page/GNOME.md "wikilink")、[KDE](../Page/KDE.md "wikilink")、[XMonad和](../Page/Xmonad.md "wikilink")[i3](../Page/I3_\(窗口管理器\).md "wikilink")）。
 
 [Screenfetch_on_Elementary_OS.png](https://zh.wikipedia.org/wiki/File:Screenfetch_on_Elementary_OS.png "fig:Screenfetch_on_Elementary_OS.png")上的Screenfetch\]\]

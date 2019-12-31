@@ -1,3 +1,6 @@
+> 本文内容由[TOMORROW X TOGETHER SHOWCASE: STAR in US](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER_SHOWCASE:_STAR_in_US)转换而来。
+
+
 **《TOMORROW X TOGETHER SHOWCASE: STAR in US》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER出道兩個月後的首場海外巡迴Showcase](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")。以宣傳他們的出道迷你專輯《[The Dream Chapter: STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》，巡演於2019年5月9日在紐約PlayStation Theater開始，於2019年4月19日開始售票，總計6場演出。\[1\]
 
 ## 背景

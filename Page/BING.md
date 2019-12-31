@@ -1,3 +1,6 @@
+> 本文内容由[BING](https://zh.wikipedia.org/wiki/BING)转换而来。
+
+
 **BING**，[華語樂壇](https://zh.wikipedia.org/wiki/華語 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，2016年参加[江苏卫视](../Page/江苏卫视.md "wikilink")《看见你的声音》走红\[1\]，也是首位获邀登陆伦敦时装周表演的华人女歌手。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
 
 BING即将推出最新个人专辑，收录了包括《Air Road》《Met You》《内心深处的力量》等多首中英文歌曲.

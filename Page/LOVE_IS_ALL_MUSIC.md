@@ -1,3 +1,6 @@
+> 本文内容由[LOVE IS ALL MUSIC](https://zh.wikipedia.org/wiki/LOVE_IS_ALL_MUSIC)转换而来。
+
+
 《**LOVE IS ALL MUSIC**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第7張單曲，由[小室哲哉](../Page/小室哲哉.md "wikilink")所製作。
 
 ## 說明

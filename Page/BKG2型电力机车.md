@@ -1,3 +1,6 @@
+> 本文内容由[BKG2型电力机车](https://zh.wikipedia.org/wiki/BKG2型电力机车)转换而来。
+
+
 **BKG2型电力机车**，又称**БКГ2型电力机车**，是[白俄罗斯](../Page/白俄罗斯.md "wikilink")铁路的[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大同电力机车有限责任公司设计制造](https://zh.wikipedia.org/wiki/大同电力机车 "wikilink")。
 
 2013年7月，在白俄罗斯总统[亚历山大·格里戈里耶维奇·卢卡申科](../Page/亚历山大·格里戈里耶维奇·卢卡申科.md "wikilink")访问中国期间，大同电力机车与白俄罗斯铁路签订了一份为后者提供18台BKG2型电力机车的合同。这是大同电力机车继BKG1型电力机车后，连续获得同一国家的第二批机车订单\[1\]。 2015年，大同电力机车向白俄罗斯铁路交付了3台BKG2型电力机车。\[2\]\[3\]到2017年时，全部18台BKG2型电力机车交付位于[白俄罗斯](../Page/白俄罗斯.md "wikilink")西部[布列斯特州](https://zh.wikipedia.org/wiki/布列斯特州 "wikilink")[巴拉诺维奇的白俄罗斯铁路](https://zh.wikipedia.org/wiki/巴拉诺维奇 "wikilink")投入运用\[4\]。

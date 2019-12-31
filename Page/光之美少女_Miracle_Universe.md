@@ -1,3 +1,6 @@
+> 本文内容由[光之美少女 Miracle Universe](https://zh.wikipedia.org/wiki/光之美少女_Miracle_Universe)转换而来。
+
+
 《**電影 光之美少女 Miracle Universe**》於2019年3月16日在[日本](../Page/日本.md "wikilink")上映。本作是第十二次結集光之美少女系列成員的作品。
 
 本作亦與《電影 [光之美少女 Dream Stars\!](../Page/光之美少女_Dream_Stars!.md "wikilink")》及《電影 [光之美少女 Super Stars\!](../Page/光之美少女_Super_Stars!.md "wikilink")》同樣地不再以全體成員登場，而是改由部分系列成員登場。

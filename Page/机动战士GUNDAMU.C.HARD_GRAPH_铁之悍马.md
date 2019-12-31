@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAMU.C.HARD GRAPH 铁之悍马](https://zh.wikipedia.org/wiki/机动战士GUNDAMU.C.HARD_GRAPH_铁之悍马)转换而来。
+
+
 《**机动战士高达U.C.HARD GRAPH 铁之悍马**》（）是[夏元雅人](../Page/夏元雅人.md "wikilink")作画，[今西隆志监修的](https://zh.wikipedia.org/wiki/今西隆志 "wikilink")[日本](../Page/日本.md "wikilink")高达系列[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。原作为[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")、[富野由悠季](../Page/富野由悠季.md "wikilink")。
 
 ## 登场人物

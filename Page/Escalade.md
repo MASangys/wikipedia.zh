@@ -1,3 +1,6 @@
+> 本文内容由[Escalade](https://zh.wikipedia.org/wiki/Escalade)转换而来。
+
+
 **Escalade**又稱做**凱雷德**，為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車公司旗下](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[凱迪拉克所推出的](https://zh.wikipedia.org/wiki/凱迪拉克 "wikilink")[大型](https://zh.wikipedia.org/wiki/標準車 "wikilink") [豪華](../Page/豪華汽車.md "wikilink") [SUV](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink"),該車款為凱迪拉克首次打入[休旅車市場中的第一款車型](https://zh.wikipedia.org/wiki/休旅車 "wikilink")，但因規格配置與駕駛手感，仍有部分人認為凱雷德是輛[卡車](https://zh.wikipedia.org/wiki/卡車 "wikilink")。 凱雷德在1999年正式銷售，主要競爭車款為[GL-Class](../Page/梅賽德斯-賓士.md "wikilink")、[Lexus LX以及](../Page/凌志.md "wikilink")[林肯汽車](../Page/林肯汽車.md "wikilink")在1998年所推出的[林肯領航員](https://zh.wikipedia.org/wiki/林肯領航員 "wikilink"). 而**Escalade**在英文中為塔房或城牆下防禦中的一個重要戰術名稱。
 
 1999年凱雷德與同年[GMC Yukon Denali為雙生車型](https://zh.wikipedia.org/wiki/GMC_Yukon_Denali "wikilink")，直到2002年重新改款，使用了[凱迪拉克當時全新的理念](https://zh.wikipedia.org/wiki/凱迪拉克 "wikilink")：“藝術與科技”進行設計。另外延伸車型包括長軸版的Escalade ESV（基於[雪佛蘭Suburban](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")）與皮卡版(尾部擁有貨斗)Escalade EXT（基於[雪佛蘭Avalanche](https://zh.wikipedia.org/wiki/雪佛蘭 "wikilink")）。

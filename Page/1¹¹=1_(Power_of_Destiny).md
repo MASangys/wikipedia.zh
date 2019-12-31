@@ -1,3 +1,6 @@
+> 本文内容由[1¹¹=1 \(Power of Destiny\)](https://zh.wikipedia.org/wiki/1¹¹=1_\(Power_of_Destiny\))转换而来。
+
+
 《**1¹¹=1 (POWER OF DESTINY)**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Wanna One的首張正規專輯](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，於2018年11月19日推出，主打歌曲為〈Spring Breeze〉。
 
 ## 簡介

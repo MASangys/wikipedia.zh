@@ -1,3 +1,6 @@
+> 本文内容由[Ching chong](https://zh.wikipedia.org/wiki/Ching_chong)转换而来。
+
+
 **ching chong**、**ching chang chong**是一个[贬义词](https://zh.wikipedia.org/wiki/贬义词 "wikilink")，经常被[某些美洲人用来嘲弄](https://zh.wikipedia.org/wiki/英文 "wikilink")[華文使用者](https://zh.wikipedia.org/wiki/華文 "wikilink")、[华裔甚至其他外貌类似华裔的](https://zh.wikipedia.org/wiki/华裔 "wikilink")[東亞人](https://zh.wikipedia.org/wiki/東亞人 "wikilink")。一些评论认为该词语具有侮辱性质，指出有诸多针对[东亚人的骚扰](https://zh.wikipedia.org/wiki/东亚人 "wikilink")、人身恐吓等都伴有种族辱骂和故作模仿華文发音的行为。\[1\]\[2\]
 
 ## 词源

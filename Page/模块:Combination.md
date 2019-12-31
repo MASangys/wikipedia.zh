@@ -1,3 +1,6 @@
+> 本文内容由[模块:Combination](https://zh.wikipedia.org/wiki/模块:Combination)转换而来。
+
+
 local p = {}
 
 function p.getCombinationGenerator()

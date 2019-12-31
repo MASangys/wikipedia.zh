@@ -1,3 +1,6 @@
+> 本文内容由[D\'banj](https://zh.wikipedia.org/wiki/D\'banj)转换而来。
+
+
 D'Banj是一名[奈及利亞](../Page/奈及利亞.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[企業家和](https://zh.wikipedia.org/wiki/企業家 "wikilink")[電視人物](../Page/名流.md "wikilink")。
 
 ## 人道主義工作

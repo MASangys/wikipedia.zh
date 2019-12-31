@@ -1,3 +1,6 @@
+> 本文内容由[大卫·P·钱德勒](https://zh.wikipedia.org/wiki/大卫·P·钱德勒)转换而来。
+
+
 **大卫·波特·钱德勒**（，），[美国](../Page/美国.md "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学 "wikilink")。他被认为是研究[柬埔寨](../Page/柬埔寨.md "wikilink")现代史最重要的西方学者之一。\[1\]\[2\]
 
 钱德勒1933年出生在美国，\[3\]曾在[哈佛大学](../Page/哈佛大学.md "wikilink")、[耶鲁大学](../Page/耶鲁大学.md "wikilink")、[密歇根大学](../Page/密歇根大学.md "wikilink")学习并获得学位，在密歇根大学的论文是关于殖民时期以前的柬埔寨。\[4\]1958年至1966年供职于，\[5\]在[金边](../Page/金边.md "wikilink")（1960–62）、[波哥大](../Page/波哥大.md "wikilink")、[卡利](../Page/卡利.md "wikilink")、[华盛顿特区工作](../Page/华盛顿哥伦比亚特区.md "wikilink")。曾在[蒙纳士大学](../Page/蒙纳士大学.md "wikilink")、[威斯康星大学麦迪逊分校](../Page/威斯康星大学麦迪逊分校.md "wikilink")、[约翰·霍普金斯大学](../Page/约翰·霍普金斯大学.md "wikilink")、[康奈尔大学担任教授](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")。\[6\]

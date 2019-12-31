@@ -1,3 +1,6 @@
+> 本文内容由[MIO YAMAZAKI](https://zh.wikipedia.org/wiki/MIO_YAMAZAKI)转换而来。
+
+
 **MIO YAMAZAKI（ミオヤマザキ）**是[日本](../Page/日本.md "wikilink")的4人樂團。於東京結成。
 「マヂヤミ彼女」是一款以MIO YAMAZAKI的歌為主題來製作的手遊。
 

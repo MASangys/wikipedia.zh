@@ -1,3 +1,6 @@
+> 本文内容由[My Beautiful Live楊千嬅世界巡迴演唱會](https://zh.wikipedia.org/wiki/My_Beautiful_Live楊千嬅世界巡迴演唱會)转换而来。
+
+
 **《My Beautiful Live楊千嬅世界巡迴演唱會》**是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")在2019年及2020年於世界各地開展的大型世界巡迴演出活動。此次全新巡迴演唱會《My Beautiful Live》（美麗人生）從[廣州出發](https://zh.wikipedia.org/wiki/廣州 "wikilink")，途徑珠海、武漢、深圳、北京、成都、重慶、南寧等內地城市及澳洲、馬來西亞、美國、加拿大等海外地區，將進行超過50場演出。
 
 全新國語歌曲《穿越》首次於演唱會登場，亦為是次巡演的主題曲。

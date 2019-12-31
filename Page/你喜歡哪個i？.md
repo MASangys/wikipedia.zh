@@ -1,3 +1,6 @@
+> 本文内容由[你喜歡哪個i？](https://zh.wikipedia.org/wiki/你喜歡哪個i？)转换而来。
+
+
 是[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2019年11月29日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

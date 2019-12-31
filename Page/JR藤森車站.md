@@ -1,3 +1,6 @@
+> 本文内容由[JR藤森車站](https://zh.wikipedia.org/wiki/JR藤森車站)转换而来。
+
+
 **JR藤森站**（）位於[京都市](../Page/京都市.md "wikilink")[伏見區](../Page/伏見區.md "wikilink")深草大龜谷大山町，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。車站編號為**JR-D04**。
 
 ## 概要

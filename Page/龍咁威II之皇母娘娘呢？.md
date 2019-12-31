@@ -1,3 +1,6 @@
+> 本文内容由[龍咁威II之皇母娘娘呢？](https://zh.wikipedia.org/wiki/龍咁威II之皇母娘娘呢？)转换而来。
+
+
 是一部2005年6月30日上映的香港電影。是由[谷德昭](../Page/谷德昭.md "wikilink")導演，[鄭中基](../Page/鄭中基.md "wikilink")及[楊愛瑾](../Page/楊愛瑾.md "wikilink")領銜主演。該片前作為《[龍咁威2003](../Page/龍咁威2003.md "wikilink")》，故事及人物有延續性。
 
 ## 演員

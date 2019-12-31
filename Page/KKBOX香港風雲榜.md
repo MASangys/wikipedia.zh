@@ -1,3 +1,6 @@
+> 本文内容由[KKBOX香港風雲榜](https://zh.wikipedia.org/wiki/KKBOX香港風雲榜)转换而来。
+
+
 **KKBOX香港風雲榜**（英語：**KKBOX Hong Kong Music Awards**）是亞洲音樂串流平台[KKBOX](../Page/KKBOX.md "wikilink")依據其[香港](../Page/香港.md "wikilink")區用户點播次數統計而成的年度綜合排行榜。2019年，適逢KKBOX香港踏入10週年，風雲榜首次衝出台灣，於2019年3月12日在[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")Hall 5BC舉行首屆「KKBOX香港風雲榜」，並以「Music First 音樂至上」為主題。頒獎典禮由KKBOX [Facebook](../Page/Facebook.md "wikilink")、KKBOX香港[YouTube](../Page/YouTube.md "wikilink")頻道、香港、台灣、新加坡、馬來西亞及日本KKBOX應用程式或官方網頁現場直播，香港[ViuTV](../Page/ViuTV.md "wikilink")和馬來西亞[Astro喜悦HD](../Page/Astro喜悦HD.md "wikilink")現場轉播。
 
 ## 十年累積．點播十強

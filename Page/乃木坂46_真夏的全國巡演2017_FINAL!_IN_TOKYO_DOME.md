@@ -1,3 +1,6 @@
+> 本文内容由[乃木坂46 真夏的全國巡演2017 FINAL! IN TOKYO DOME](https://zh.wikipedia.org/wiki/乃木坂46_真夏的全國巡演2017_FINAL!_IN_TOKYO_DOME)转换而来。
+
+
 [乃木坂46_真夏の全国ツアー2017_FINAL\!_IN_TOKYO_DOME.jpg](https://zh.wikipedia.org/wiki/File:乃木坂46_真夏の全国ツアー2017_FINAL!_IN_TOKYO_DOME.jpg "fig:乃木坂46_真夏の全国ツアー2017_FINAL!_IN_TOKYO_DOME.jpg") 《**乃木坂46 真夏的全國巡演2017 FINAL\! IN TOKYO DOME**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[乃木坂46在](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")2017年11月7日至8日於日本[東京都](../Page/東京都.md "wikilink")[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行的真夏的全國巡演2017的最終場，於2018年7月11日以DVD和Blu-ray形式發售。
 
 ## 概要

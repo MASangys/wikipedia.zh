@@ -1,3 +1,6 @@
+> 本文内容由[Switch Berry](https://zh.wikipedia.org/wiki/Switch_Berry)转换而来。
+
+
 **Switch Berry**(韓語:스위치 베리)，是[韓國DAM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2013年推出的四人女子組合，2013年7月19日發行首張數位單曲《Shaken》。**Switch Berry**原本宣稱其為女子團體**Switch**的子團體，但之後卻成為主團。其解散前的最終成員包括Jimin，Minah，Hana和Rose。
 
 ## 成員

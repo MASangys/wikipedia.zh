@@ -1,3 +1,6 @@
+> 本文内容由[超級機器人大戰T](https://zh.wikipedia.org/wiki/超級機器人大戰T)转换而来。
+
+
 為[萬代南夢宮娛樂發售的](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰T」或是「SRWT」。本作於2019年3月20日在[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台上發售，系列作中首款同時出現在任天堂攜帶機和PlayStation家用主機的作品，遊戲將推出中文版\[1\]。
 
 本作宣傳詞為「賭上生命也要守護的故鄉——是地球（TERRA）。」

@@ -1,3 +1,6 @@
+> 本文内容由[LIQUIDROOM](https://zh.wikipedia.org/wiki/LIQUIDROOM)转换而来。
+
+
 **LIQUIDROOM**，是位于[日本](../Page/日本.md "wikilink")[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[涩谷区的一个](https://zh.wikipedia.org/wiki/涩谷区 "wikilink")[livehouse](https://zh.wikipedia.org/wiki/livehouse "wikilink")，以进行音乐演出为主。1994年7月在[新宿区开业](https://zh.wikipedia.org/wiki/新宿区 "wikilink")，2004年1月关闭，2004年7月搬至涩谷区重新开张。\[1\]
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[金民錫 \(ONF\)](https://zh.wikipedia.org/wiki/金民錫_\(ONF\))转换而来。
+
+
 **金民錫**（；），[韓國前](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，[ONF前成員](https://zh.wikipedia.org/wiki/ONF "wikilink")，現已退出娛樂圈。
 
 ## 演藝生涯

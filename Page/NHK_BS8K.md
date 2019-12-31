@@ -1,3 +1,6 @@
+> 本文内容由[NHK BS8K](https://zh.wikipedia.org/wiki/NHK_BS8K)转换而来。
+
+
 **NHK BS8K**是[日本廣播协会](https://zh.wikipedia.org/wiki/日本廣播协会 "wikilink")（NHK）所属的[卫星电视](../Page/卫星电视.md "wikilink")频道之一，2018年12月1日正式开播，是世界上首个[8K超高清电视频道](../Page/超高畫質電視.md "wikilink")\[1\]。
 
 ## 概况

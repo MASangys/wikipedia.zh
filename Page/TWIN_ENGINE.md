@@ -1,3 +1,6 @@
+> 本文内容由[TWIN ENGINE](https://zh.wikipedia.org/wiki/TWIN_ENGINE)转换而来。
+
+
 **株式會社TWIN ENGINE**（，）於2014年成立，是[日本](../Page/日本.md "wikilink")一家負責企劃與宣傳的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 沿革

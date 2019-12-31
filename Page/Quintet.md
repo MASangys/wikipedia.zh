@@ -1,3 +1,6 @@
+> 本文内容由[Quintet](https://zh.wikipedia.org/wiki/Quintet)转换而来。
+
+
 是已关闭的[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")。公司由原[日本Falcom](../Page/日本Falcom.md "wikilink")雇员创立于1989年4月，总部位于日本[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[多摩市](../Page/多摩市.md "wikilink")。公司创立者为前[日本Falcom](../Page/日本Falcom.md "wikilink")雇员宫崎友好和桥本昌哉，他们参与开发了[伊苏系列](../Page/伊苏系列.md "wikilink")前三部游戏。公司名称源自音乐术语[五重奏](https://zh.wikipedia.org/wiki/五重奏 "wikilink")，代指游戏设计五要素——程序、企划、画面、音乐、制作。公司主要活跃于1990年代，为[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")[艾尼克斯](../Page/艾尼克斯.md "wikilink")开发了多款游戏。公司2002年后不再活跃\[1\]。
 
 ## 游戏

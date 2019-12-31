@@ -1,3 +1,6 @@
+> 本文内容由[B.A.P音樂作品列表](https://zh.wikipedia.org/wiki/B.A.P音樂作品列表)转换而来。
+
+
 **B.A.P音樂作品列表**，主要紀載[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[B.A.P](../Page/B.A.P.md "wikilink")自2012年出道至今所發行的音樂作品。該團體隸屬於[TS娛樂](../Page/TS娛樂.md "wikilink")，以單曲《》在2012年1月27日正式出道。迄今，B.A.P在韓國及日本共發行了5張正規專輯和3張迷你專輯。
 
 ## 正規專輯

@@ -1,3 +1,6 @@
+> 本文内容由[紅米Note 6 Pro](https://zh.wikipedia.org/wiki/紅米Note_6_Pro)转换而来。
+
+
 **紅米Note6 Pro**是[小米科技在](../Page/小米集團.md "wikilink")2018年9月27日於泰國發表的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，並於2018年10月23日正式開放發售。採用[高通](../Page/高通.md "wikilink")[驍龍](../Page/高通驍龍.md "wikilink")636處理器、6.26吋2280x1080 FHD+ 、403 PPI螢幕、4GB記憶體、64GB儲存空間、[Android](../Page/Android.md "wikilink") 8.1（[MIUI](../Page/MIUI.md "wikilink") 9)，標價為港幣1799元。
 
 ## 規格

@@ -1,3 +1,6 @@
+> 本文内容由[Seoul Mate 2](https://zh.wikipedia.org/wiki/Seoul_Mate_2)转换而来。
+
+
 《**Seoul Mate2**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年12月10日推出的綜藝節目，是一檔邀請外國嘉賓到自己家中生活，一同累積回憶的全球home sharing真人秀節目\[1\]\[2\]\[3\]\[4\]。
 
 ## 節目成員

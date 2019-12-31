@@ -1,3 +1,6 @@
+> 本文内容由[ERYX反坦克導彈](https://zh.wikipedia.org/wiki/ERYX反坦克導彈)转换而来。
+
+
 **ERYX**是一款由[欧洲](../Page/欧洲.md "wikilink")跨國企業（MBDA Missile Systems，原稱「」，Matra BAe Dynamics）所生產的短程便攜式被動[瞄准线半自动](../Page/瞄准线半自动指令.md "wikilink")式第3代[反坦克导弹](../Page/反坦克导弹.md "wikilink")。它獲多個國家，包括[加拿大陸軍](../Page/加拿大陸軍.md "wikilink")、[法國陸軍與](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")[挪威皇家陸軍](../Page/挪威皇家陸軍.md "wikilink")所採用。
 
 儘管ERYX是[反坦克武器](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，該武器還可用於對付[地堡和](https://zh.wikipedia.org/wiki/地堡 "wikilink")[碉堡](https://zh.wikipedia.org/wiki/碉堡 "wikilink")。由於其導線制導系統的特性，因而讓它亦具備了在[防空戰當中擊落低空飛行的](https://zh.wikipedia.org/wiki/防空戰 "wikilink")[直升機的能力](https://zh.wikipedia.org/wiki/直升機 "wikilink")。1989年，法國與加拿大政府達成協議，共同生產ERYX導彈系統。\[1\]它在1994年正投入服役。

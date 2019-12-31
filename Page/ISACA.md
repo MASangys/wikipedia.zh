@@ -1,3 +1,6 @@
+> 本文内容由[ISACA](https://zh.wikipedia.org/wiki/ISACA)转换而来。
+
+
 **ISACA**是一家专注于IT治理的国际专业协会。 在其IRS文件中，它被称为信息系统审计和控制协会（），尽管ISACA现在只是它的首字母缩略词。
 
 ## 主要出版物

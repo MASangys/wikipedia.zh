@@ -1,3 +1,6 @@
+> 本文内容由[Super Hearer](https://zh.wikipedia.org/wiki/Super_Hearer)转换而来。
+
+
 《**Super Hearer**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年6月16日播出的綜藝節目，是一檔以自己的耳朵為根據來進行音樂推理的節目，頂級音樂人們作為“Hearer”出演，只能聽到演唱者唱歌的聲音，在5名演唱者中找到符合每週主題的真正歌手。\[1\]\[2\]\[3\]
 
 ## 節目成員

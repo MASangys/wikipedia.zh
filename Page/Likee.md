@@ -1,3 +1,6 @@
+> 本文内容由[Likee](https://zh.wikipedia.org/wiki/Likee)转换而来。
+
+
 **LIKE短视频**（2019年6月更名为**Likee**\[1\]），是一个于2017年7月\[2\]上线的集[创作](https://zh.wikipedia.org/wiki/创作 "wikilink")\[3\]、[编辑与](https://zh.wikipedia.org/wiki/编辑 "wikilink")[分享于一体的短视频平台](https://zh.wikipedia.org/wiki/分享 "wikilink")\[4\]。该平台由[新加坡](../Page/新加坡.md "wikilink")公司[Bigo开发与运营](https://zh.wikipedia.org/wiki/Bigo "wikilink")。\[5\]，应用为特效[UGC](https://zh.wikipedia.org/wiki/UGC "wikilink")[短視頻](https://zh.wikipedia.org/wiki/短視頻 "wikilink").\[6\]借助商店内神奇的变脸贴纸和魔法滤镜，用户可轻易制作属于自己的大片。\[7\]。自上线以来用户规模急速增长，2019年第二季度，Likee在全球下载和安装量排名前十。\[8\]
 
 截至2019年第三季度，该应用程序移动月活跃用户数达1.002亿。\[9\]

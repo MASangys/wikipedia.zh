@@ -1,3 +1,6 @@
+> 本文内容由[Time for us](https://zh.wikipedia.org/wiki/Time_for_us)转换而来。
+
+
 《**Time for us**》是韓國女子演唱團體[GFRIEND](../Page/GFRIEND.md "wikilink")于2019年1月14日发布的第二張正規專輯，以〈해야 (Sunrise)〉為主打歌。經歷出道四周年與長達6個月的空白期，因此對於GFRIEND與粉絲意義重大。
 
 ## 概要

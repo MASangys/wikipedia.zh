@@ -1,3 +1,6 @@
+> 本文内容由[VMOS](https://zh.wikipedia.org/wiki/VMOS)转换而来。
+
+
 ****，中文名**虚拟大师**，是一个在[安卓系统上运行的](https://zh.wikipedia.org/wiki/安卓系统 "wikilink")[手机应用](https://zh.wikipedia.org/wiki/手机应用 "wikilink")。通过把一个完整的[安卓系统整合在应用内](https://zh.wikipedia.org/wiki/安卓系统 "wikilink")，而达到在同一部[智能手机](../Page/智能手机.md "wikilink")中运行两个不同[系统的目的](https://zh.wikipedia.org/wiki/系统 "wikilink")。得名自其应用的类型和运作方式：。\[1\]
 
 ## 原理

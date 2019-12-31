@@ -1,3 +1,6 @@
+> 本文内容由[MNC有限公司](https://zh.wikipedia.org/wiki/MNC有限公司)转换而来。
+
+
 **MNC有限公司**（），原名Bhakti投资公司，是一家[印尼跨国集团](https://zh.wikipedia.org/wiki/印尼 "wikilink")，总部位于[雅加达](../Page/雅加达.md "wikilink")，从事媒体、金融、财产、自然资源和运输等業務，成立于1989年11月2日。該公司拥有全球 Mediacom（原名：Bimantara Citra）、MNC 金融服务公司（前称：Bhakti Kapital Indonesia）和MNC Land（前称：Kridaperdana Indahgraha 與 Global Land Development）的多数股权。
 
 ## 历史

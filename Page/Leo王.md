@@ -1,3 +1,6 @@
+> 本文内容由[Leo王](https://zh.wikipedia.org/wiki/Leo王)转换而来。
+
+
 **Leo王**（，），本名**王之佑**，來自臺灣[高雄的搖滾和](https://zh.wikipedia.org/wiki/高雄 "wikilink")[饒舌](../Page/饒舌.md "wikilink")男歌手，是龐克搖滾樂團[巨大的轟鳴](../Page/巨大的轟鳴.md "wikilink")主唱及嘻哈饒舌演唱組合[夜貓組成員](https://zh.wikipedia.org/wiki/夜貓組 "wikilink")。2017年結婚。2019年以專輯《無病呻吟 有情抒情》獲得[第30屆金曲獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")[最佳國語男歌手獎](https://zh.wikipedia.org/wiki/最佳國語男歌手獎_\(金曲獎\) "wikilink")\[1\]。
 
 ## 音樂作品

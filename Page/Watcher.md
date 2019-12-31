@@ -1,3 +1,6 @@
+> 本文内容由[Watcher](https://zh.wikipedia.org/wiki/Watcher)转换而来。
+
+
 《**Watcher**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](../Page/OCN_\(頻道\).md "wikilink")2019年7月6日起播出的[經典系列週末電視劇](../Page/OCN_Original_Series.md "wikilink")，由《[秘密森林](../Page/秘密森林.md "wikilink")》、《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》的[安吉镐導演與](https://zh.wikipedia.org/wiki/安吉镐 "wikilink")《[The Good Wife](https://zh.wikipedia.org/wiki/The_Good_Wife "wikilink")》的韓相雲作家合作打造。本劇描寫人生因悲劇事件而坍塌的三人紛紛成為警察內部的舞弊搜查隊相關人士；被視為「抓警察的警察」的他們，將同時跨足局內與局外、抽絲剝繭地爬開腐敗權力的真相。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 台灣地區 7/7起每週日一由[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。香港地區由7月6日起逢星期六、日晚深夜於[Viu](../Page/Viu.md "wikilink")播出。

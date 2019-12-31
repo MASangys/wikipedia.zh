@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wikipedia:欢迎](https://zh.wikipedia.org/wiki/Draft:Wikipedia:欢迎)转换而来。
+
+
 <div style="border:1px solid #32CD32; text-align:center; margin:0 0 15px 0">
 
 [Gtk-go-forward-ltr.svg](https://zh.wikipedia.org/wiki/File:Gtk-go-forward-ltr.svg "fig:Gtk-go-forward-ltr.svg") [新手求助](https://zh.wikipedia.org/wiki/Wikipedia:VPA "wikilink") | [Gtk-go-forward-ltr.svg](https://zh.wikipedia.org/wiki/File:Gtk-go-forward-ltr.svg "fig:Gtk-go-forward-ltr.svg") [新手入門向导](https://zh.wikipedia.org/wiki/Wikipedia:新手入門/主頁 "wikilink") | [Gtk-go-forward-ltr.svg](https://zh.wikipedia.org/wiki/File:Gtk-go-forward-ltr.svg "fig:Gtk-go-forward-ltr.svg") [簡明指南](https://zh.wikipedia.org/wiki/Wikipedia:新手簡明指南 "wikilink")

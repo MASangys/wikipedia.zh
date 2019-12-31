@@ -1,3 +1,6 @@
+> 本文内容由[The Signpost](https://zh.wikipedia.org/wiki/The_Signpost)转换而来。
+
+
 ***The Signpost***（原名：***The Wikipedia Signpost***\[1\]）是[英语维基百科](../Page/英语维基百科.md "wikilink")的[在线刊物](../Page/線上報紙.md "wikilink")\[2\]。于[维基百科在线编辑与发布](../Page/维基人.md "wikilink")，由[维基百科社群管理](../Page/维基人.md "wikilink")\[3\]。该刊物报道维基百科社群和与维基百科有关的事件，包括[仲裁委员会裁决](../Page/仲裁委员会_\(英语维基百科\).md "wikilink")、[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")问题和的动态。
 
 它由维基人迈克尔·斯诺于2005年1月创立\[4\]\[5\]。最初被称为*The Wikipedia Signpost* ，后来被缩短为*The Signpost*\[6\]\[7\]。迈克尔·斯诺在2008年2月被任命为维基媒体基金会理事会成员之前，一直担任撰稿人\[8\]。

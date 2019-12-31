@@ -1,3 +1,6 @@
+> 本文内容由[SHISHAMO 6](https://zh.wikipedia.org/wiki/SHISHAMO_6)转换而来。
+
+
 《**SHISHAMO 6**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第6张[原創專輯](https://zh.wikipedia.org/wiki/原創專輯 "wikilink")，于2020年1月29日发行。
 
 ## 简介

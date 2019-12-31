@@ -1,3 +1,6 @@
+> 本文内容由[TACTIC](https://zh.wikipedia.org/wiki/TACTIC)转换而来。
+
+
 **TACTIC**是一款由[多伦多](../Page/多伦多.md "wikilink")公司开发的基于web框架的[开源智能处理和](../Page/开源软件.md "wikilink")[数字资产管理程序](https://zh.wikipedia.org/wiki/数字资产管理 "wikilink")。TACTIC被设计用来优化具有大量内容流量的繁忙生产环境，它主要将业务或工作流的逻辑应用于数据库整合和文件系统管理。利用[数字资产管理](https://zh.wikipedia.org/wiki/数字资产管理 "wikilink")，生产资产管理和[工作流管理系统的原理](https://zh.wikipedia.org/wiki/工作流管理系统 "wikilink")，TACTIC通过追中生产渠道的方式来跟踪[数字资产的创建和发展](https://zh.wikipedia.org/wiki/数字资产 "wikilink")。TACTIC使用[開源授權和商业授权两种授权方式来发布](https://zh.wikipedia.org/wiki/開源授權 "wikilink")，它也经常被用于[亚马逊云计算服务](../Page/亚马逊云计算服务.md "wikilink")市场的托管云服务。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[FLAVOR](https://zh.wikipedia.org/wiki/FLAVOR)转换而来。
+
+
 **FLAVOR**（）為韓國女子音樂組合[FANATICS](../Page/FANATICS.md "wikilink")的小分隊，由[FANATICS](../Page/FANATICS.md "wikilink")成員\[1\]\[2\]鍍我、允惠與台灣成員家儀\[3\]\[4\]組成。
 
 ## 歷程

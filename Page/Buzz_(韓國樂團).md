@@ -1,3 +1,6 @@
+> 本文内容由[Buzz \(韓國樂團\)](https://zh.wikipedia.org/wiki/Buzz_\(韓國樂團\))转换而来。
+
+
 **Buzz** （） 是一個[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，於2003年出道。其演唱的抒情搖滾音樂最為人熟知。成員包括、、、和[閔庚勳](../Page/閔庚勳.md "wikilink")。
 
 ## 成員資料

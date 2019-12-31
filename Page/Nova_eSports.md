@@ -1,3 +1,6 @@
+> 本文内容由[Nova eSports](https://zh.wikipedia.org/wiki/Nova_eSports)转换而来。
+
+
 **NOVA電子競技俱樂部**（NOVA Esports）是在香港成立的国际性的[電子競技俱樂部](../Page/电子竞技.md "wikilink")，目前俱乐部以手游项目为主，目前主要參加《[皇室戰爭](../Page/部落衝突：皇室戰爭.md "wikilink")》賽事，曾獲選為2018騰訊電競十大最具影響力俱樂部之一。其[香港](../Page/香港.md "wikilink")成員Aaron曾為亞洲盃冠軍，[墨西哥](../Page/墨西哥.md "wikilink")成員sergioramos:)曾獲得2017年[英國](https://zh.wikipedia.org/wiki/英国 "wikilink")[倫敦世界冠軍](../Page/伦敦.md "wikilink")，該年世界賽4強中有三人紫袍加身，NOVA戰隊為2018年[日本](../Page/日本.md "wikilink")[東京世界冠軍](../Page/东京.md "wikilink")，成員Lciop為[雅加達-巨港亞運亞軍](../Page/亚洲运动会.md "wikilink")\[1\]，2019年斬獲在[南韓](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[釜山舉辦的](../Page/釜山廣域市.md "wikilink")[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")世界盃冠軍。曾獲得[皇室戰爭職業聯賽中國賽區](../Page/皇室战争职业联赛.md "wikilink")2018、2019春季賽、秋季賽冠軍。其口號為"NOVA strong"！
 
 ## 分部

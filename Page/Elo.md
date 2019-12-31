@@ -1,3 +1,6 @@
+> 本文内容由[Elo](https://zh.wikipedia.org/wiki/Elo)转换而来。
+
+
 **Elo** 或 **ELO** 可能指：
 
 ## 音樂

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Excerpt](https://zh.wikipedia.org/wiki/模块:Excerpt)转换而来。
+
+
 local p = {} local mRedirect = require('Module:Redirect')
 
 \-- Get a redirect target (or nil if not a redirect) without using the expensive title object property .isRedirect local function getRedirectTarget(titleObject)

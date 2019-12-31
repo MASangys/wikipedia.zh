@@ -1,3 +1,6 @@
+> 本文内容由[CGM48](https://zh.wikipedia.org/wiki/CGM48)转换而来。
+
+
 **CGM48**是一個由[秋元康](../Page/秋元康.md "wikilink")擔任製作人，以[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[清邁](../Page/清邁.md "wikilink")為主要活動中心的女性偶像團體\[1\]，為[AKB48](../Page/AKB48.md "wikilink")在日本以外成立的第8支姊妹團體，亦是[BNK48](../Page/BNK48.md "wikilink")在泰國成立的第一支姊妹團體，與BNK48同由「BNK48 Office」→「Independent Artists Management」（i AM）負責營運\[2\]。
 
 ## 簡介

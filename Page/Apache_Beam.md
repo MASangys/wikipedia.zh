@@ -1,3 +1,6 @@
+> 本文内容由[Apache Beam](https://zh.wikipedia.org/wiki/Apache_Beam)转换而来。
+
+
 **Apache Beam**是一个[开源统一编程模型](https://zh.wikipedia.org/wiki/开源 "wikilink")，用于定义和执行数据处理[流水线](../Page/流水线_\(计算机\).md "wikilink")，包括[ETL](https://zh.wikipedia.org/wiki/ETL "wikilink")、[批处理](../Page/批处理.md "wikilink")和[流（连续）处理](https://zh.wikipedia.org/wiki/流式处理 "wikilink")。\[1\] Beam流水线是使用提供的[SDK之一定义的](https://zh.wikipedia.org/wiki/SDK "wikilink")，并在Beam支持的一个运行器（分布式处理后端）中执行，包括、[Apache Flink](../Page/Apache_Flink.md "wikilink")、Apache Gearpump（孵化中）、、[Apache Spark和Google](../Page/Apache_Spark.md "wikilink") Cloud Dataflow。\[2\]
 
 它被称为“大数据的超级API”。\[3\]

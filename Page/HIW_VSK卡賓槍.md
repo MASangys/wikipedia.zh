@@ -1,3 +1,6 @@
+> 本文内容由[HIW VSK卡賓槍](https://zh.wikipedia.org/wiki/HIW_VSK卡賓槍)转换而来。
+
+
 **HIW VSK**是一款由[納粹德國](../Page/納粹德國.md "wikilink")黑森工業廠房（Hessische Industrie Werke）所研發的試驗型[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")。它以裝備[人民冲锋队](../Page/人民冲锋队.md "wikilink")為目的而生產並且採用了式[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")。\[1\]\[2\][戰鬥步槍型發射](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")[7.92×57毫米毛瑟](../Page/7.92×57毫米毛瑟彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")而卡賓槍型則是[7.92×33毫米](../Page/7.92×33mm_Kurz.md "wikilink")[短彈](../Page/中间型威力枪弹.md "wikilink")。
 
 ## 衍生型

@@ -1,3 +1,6 @@
+> 本文内容由[DG飞机制造公司](https://zh.wikipedia.org/wiki/DG飞机制造公司)转换而来。
+
+
 [布鲁赫萨尔](../Page/布鲁赫萨尔.md "wikilink")的**DG飞机制造有限责任公司**及其前身自1973年以来一直参与[飞机特别是](https://zh.wikipedia.org/wiki/固定翼飛機 "wikilink")[滑翔机的制造和销售](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")。 该公司起源于[Glaser-Dirks飞机制造有限责任公司](https://zh.wikipedia.org/wiki/Glaser-Dirks飞机制造公司 "wikilink")，由[格哈特·格拉泽尔和](https://zh.wikipedia.org/wiki/格哈特·格拉泽尔 "wikilink")[威廉·迪尔克斯创立](https://zh.wikipedia.org/wiki/威廉·迪尔克斯 "wikilink")。 公司所在地是布鲁赫萨尔。 现任董事总经理卡尔·弗雷德里希·韦伯和霍尔格·巴克。 该公司[股份由卡尔](https://zh.wikipedia.org/wiki/股份 "wikilink")·弗雷德里希·韦伯和埃娃玛丽·韦伯持有。 该公司拥有54名员工（截至2014年）。 自2003年飞机制造商[Rolladen Schneider飞机制造公司破产以来](https://zh.wikipedia.org/wiki/Rolladen_Schneider飞机制造公司 "wikilink")，DG-飞机制造公司一直负责运营*LS-飞机制造公司*的品牌。
 
 ## 历史

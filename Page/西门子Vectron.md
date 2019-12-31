@@ -1,3 +1,6 @@
+> 本文内容由[西门子Vectron](https://zh.wikipedia.org/wiki/西门子Vectron)转换而来。
+
+
 [Siemens_Vectron_193_837.jpg](https://zh.wikipedia.org/wiki/File:Siemens_Vectron_193_837.jpg "fig:Siemens_Vectron_193_837.jpg") [Siemens_193_922.jpg](https://zh.wikipedia.org/wiki/File:Siemens_193_922.jpg "fig:Siemens_193_922.jpg") [Vectron_cerhenice.jpg](https://zh.wikipedia.org/wiki/File:Vectron_cerhenice.jpg "fig:Vectron_cerhenice.jpg") **西门子Vectron**是由德国轨道车辆制造商[西门子交通集团推出的一个可重构及模块化的机车产品组合](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")，用于取代[EuroSprinter](../Page/EuroSprinter.md "wikilink")系列[电力机车和](https://zh.wikipedia.org/wiki/电力机车 "wikilink")[Eurorunner](../Page/Eurorunner.md "wikilink")系列[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。基于该平台可开发出电力版本和[柴电动力](../Page/柴电动力.md "wikilink")柴油版本的机车。Vectron的价格取决于配置（柴油/电动/多系统版本）而介乎于三至五百万欧元之间。\[1\]
 
 ## 历史

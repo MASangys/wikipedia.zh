@@ -1,3 +1,6 @@
+> 本文内容由[焦磷酸钚\(IV\)](https://zh.wikipedia.org/wiki/焦磷酸钚\(IV\))转换而来。
+
+
 **焦磷酸钚(IV)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为PuP<sub>2</sub>O<sub>7</sub>。
 
 ## 制备

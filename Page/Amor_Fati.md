@@ -1,3 +1,6 @@
+> 本文内容由[Amor Fati](https://zh.wikipedia.org/wiki/Amor_Fati)转换而来。
+
+
 《**Amor Fati**》\[1\]（，，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年12月9日推出的綜藝節目。由[姜鎬童](../Page/姜鎬童.md "wikilink")在演播室和嘉賓一起觀看視頻，發現爸爸或媽媽新的一面，[朴芝潤](../Page/朴芝潤.md "wikilink")和[孫東雲](../Page/孫東雲.md "wikilink")則以領隊的身份帶著嘉賓的爸爸或媽媽去旅行，節目主軸為把青春歲月花在養育子女的單身爸爸或媽媽一起尋找青春的治愈旅行\[2\]\[3\]\[4\]。
 
 ## 參與嘉賓

@@ -1,3 +1,6 @@
+> 本文内容由[KIRA KIRA HAPPY★ 打開吧！見習神仙精靈角色列表](https://zh.wikipedia.org/wiki/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈角色列表)转换而来。
+
+
 Ⅰ以下茲列出《**[KIRA KIRA HAPPY★ 打開吧！見習神仙精靈](../Page/KIRA_KIRA_HAPPY★_打開吧！見習神仙精靈.md "wikilink")**》的登場角色。
 
 ## 神仙精靈契約者

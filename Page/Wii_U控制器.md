@@ -1,3 +1,6 @@
+> 本文内容由[Wii U控制器](https://zh.wikipedia.org/wiki/Wii_U控制器)转换而来。
+
+
 **Wii U控制器**（**Wii U GamePad**）是[任天堂](../Page/任天堂.md "wikilink")[電子遊戲機](../Page/電子遊戲機.md "wikilink")[Wii U的主要](../Page/Wii_U.md "wikilink")[游戏控制器](../Page/游戏控制器.md "wikilink")。其结合了[平板電腦](../Page/平板電腦.md "wikilink")的特点，既拥有传统游戏控制器的操控特点（如拥有按键、双[类比摇杆和一个](https://zh.wikipedia.org/wiki/类比摇杆 "wikilink")[十字键](https://zh.wikipedia.org/wiki/十字键 "wikilink"))，同时也拥有[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")及动作感应的功能。其触控屏幕可以为游戏提供功能，来补充游戏内容，触控屏幕也可以用于非游戏功能，如将其作为电视遥控器。
 
 Wii U控制器可以与其他与游戏主机兼容的控制器一起使用，如[Wii遙控器](../Page/Wii遙控器.md "wikilink")，和。\[1\]\[2\]

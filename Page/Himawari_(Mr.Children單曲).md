@@ -1,3 +1,6 @@
+> 本文内容由[Himawari \(Mr.Children單曲\)](https://zh.wikipedia.org/wiki/Himawari_\(Mr.Children單曲\))转换而来。
+
+
 〈himawari〉是[日本](../Page/日本.md "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第37張實體單曲\[1\]，於2017年7月26日發行。
 
 ## 簡介

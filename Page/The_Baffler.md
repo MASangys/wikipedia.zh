@@ -1,3 +1,6 @@
+> 本文内容由[The Baffler](https://zh.wikipedia.org/wiki/The_Baffler)转换而来。
+
+
 《**The Baffler**》是一本关于[文化](../Page/文化.md "wikilink")、[政治](../Page/政治.md "wikilink")和[商业](../Page/商业.md "wikilink")分析的[杂志](../Page/杂志.md "wikilink")，于1988年由编辑和成立，总部设在[伊利诺伊州](../Page/伊利诺伊州.md "wikilink")的[芝加哥](../Page/芝加哥.md "wikilink")，后于2010年迁至[马萨诸塞州的](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[剑桥](../Page/剑桥_\(马萨诸塞州\).md "wikilink")、2016年迁至[纽约](../Page/纽约.md "wikilink")市。该杂志的第一版有约12,000个订阅者。\[1\]
 
 截至2016年，该杂志及其文章多通过美国、加拿大和英国的书店发行。2016年后，读者也可在其网站上订阅电子或纸质期刊。

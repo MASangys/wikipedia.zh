@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation Camera](https://zh.wikipedia.org/wiki/PlayStation_Camera)转换而来。
+
+
 **PlayStation Camera**是由[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")为[PlayStation 4所开发的摄像机和](../Page/PlayStation_4.md "wikilink")附加组件，其拥有两颗摄像头，可以用于进行人体运动检测和空间深度感知等功能。它是索尼互动娱乐所于2007年所发布的用于[PlayStation 3的相机附加组件](../Page/PlayStation_3.md "wikilink")的后代，也是使用[PlayStation VR](../Page/PlayStation_VR.md "wikilink")时必须使用的部件。
 
 ## 历史

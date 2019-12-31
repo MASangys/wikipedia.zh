@@ -1,3 +1,6 @@
+> 本文内容由[Patari](https://zh.wikipedia.org/wiki/Patari)转换而来。
+
+
 **Patari**（）是一个[巴基斯坦](../Page/巴基斯坦.md "wikilink")的音乐[流媒体](../Page/流媒体.md "wikilink")服务，成立于2015年2月。\[1\]该网站提供，是巴基斯坦最大的音乐流媒体服务。\[2\]\[3\]
 
 ## 历史

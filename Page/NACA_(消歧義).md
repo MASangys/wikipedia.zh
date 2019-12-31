@@ -1,3 +1,6 @@
+> 本文内容由[NACA \(消歧義\)](https://zh.wikipedia.org/wiki/NACA_\(消歧義\))转换而来。
+
+
 **NACA** 也可以指：
 
 ## 組織

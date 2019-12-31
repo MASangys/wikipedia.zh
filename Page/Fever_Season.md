@@ -1,3 +1,6 @@
+> 本文内容由[Fever Season](https://zh.wikipedia.org/wiki/Fever_Season)转换而来。
+
+
 《**Fever Season**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第七張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[kakao M發行](https://zh.wikipedia.org/wiki/kakao_M "wikilink")，於2019年7月1日推出，《Fever》是其主打歌\[1\]，共有7首歌曲。
 
 ## 概要

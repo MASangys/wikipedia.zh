@@ -1,3 +1,6 @@
+> 本文内容由[Perfume 7th Tour 2018 ｢FUTURE POP｣](https://zh.wikipedia.org/wiki/Perfume_7th_Tour_2018_｢FUTURE_POP｣)转换而来。
+
+
 《****》是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")14張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/Blu-ray\[1\]。
 
 ## 规格

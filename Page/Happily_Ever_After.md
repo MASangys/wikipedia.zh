@@ -1,3 +1,6 @@
+> 本文内容由[Happily Ever After](https://zh.wikipedia.org/wiki/Happily_Ever_After)转换而来。
+
+
 《**Happily Ever After**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")所發行的第六張迷你專輯，也是暫時離開NU'EST加入企劃團體[Wanna One的成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")[旼炫歸隊後正式回歸韓語樂壇的第一份正式作品](https://zh.wikipedia.org/wiki/旼炫 "wikilink")。專輯於2019年4月29日發行，主打歌曲為〈BET BET〉。實體專輯以四種不同版本以及四種KIHNO版本發售。
 
 ## 背景

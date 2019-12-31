@@ -1,3 +1,6 @@
+> 本文内容由[這個勇者明明超TUEEE卻過度謹慎](https://zh.wikipedia.org/wiki/這個勇者明明超TUEEE卻過度謹慎)转换而来。
+
+
 是一部由日本作家[土日月所創作的小說](https://zh.wikipedia.org/wiki/土日月 "wikilink")，插畫由[豐田瑣織](../Page/豐田瑣織.md "wikilink")負責。标题里面是日本-{zh-cn:网络;zh-hk:網絡;zh-tw:網路;}-用语，直译为“我超强”，可专指主角实力强劲大杀四方的一类作品，相当于中文-{zh-cn:网络;zh-hk:網絡;zh-tw:網路;}-中的“[龙傲天](https://zh.wikipedia.org/wiki/龙傲天 "wikilink")”。
 
 2016年6月4日，本作於[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下的-{zh-cn:网络;zh-hk:網絡;zh-tw:網路;}-小說平台[KAKUYOMU](../Page/KAKUYOMU.md "wikilink")上連載\[1\]。2017年2月，KADOKAWA BOOKS發行本作的首本單行本。另外，由擔任作畫的同名漫畫作品於2018年11月開始在《[月刊龍時代](../Page/月刊龍時代.md "wikilink")》上連載\[2\]。電視動畫則於2019年10月2日起開始播放\[3\]。

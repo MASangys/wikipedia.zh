@@ -1,3 +1,6 @@
+> 本文内容由[C\&K](https://zh.wikipedia.org/wiki/C\&K)转换而来。
+
+
 **C\&K**是[日本](../Page/日本.md "wikilink")的二人歌唱组合，2008年出道。是[日本环球音乐旗下艺人](https://zh.wikipedia.org/wiki/日本环球音乐 "wikilink")。
 
 ## 成员

@@ -1,3 +1,6 @@
+> 本文内容由[CommonJS](https://zh.wikipedia.org/wiki/CommonJS)转换而来。
+
+
 **CommonJS**是一个项目，其目标是为[JavaScript](../Page/JavaScript.md "wikilink")在[网页浏览器](../Page/网页浏览器.md "wikilink")之外建立[模块约定](../Page/子程序.md "wikilink")。创建这个项目的主要原因是当时缺乏普遍可接受形式的JavaScript脚本模块单元，模块在与运行JavaScript脚本的常规网页浏览器所提供的不同的环境下可以重复使用。
 
 ## 历史

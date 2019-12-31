@@ -1,3 +1,6 @@
+> 本文内容由[Elisa \(公司\)](https://zh.wikipedia.org/wiki/Elisa_\(公司\))转换而来。
+
+
 [Elisa_wordmark.svg](https://zh.wikipedia.org/wiki/File:Elisa_wordmark.svg "fig:Elisa_wordmark.svg") **Elisa公司**（）是[芬兰](../Page/芬兰.md "wikilink")一家電信公司，成立于1882年。原稱**赫爾辛基電話**（Helsingin Puhelin，至2000年7月）及**Elisa通信公司**（Elisa Communication Oyj，至2003年）。Elisa 經營电信、ICT 和在线服务，業務範圍主要在芬兰和[爱沙尼亚](../Page/爱沙尼亚.md "wikilink")，但也對國際市場提供數據服務。\[1\]
 
 2018年，Elisa營收是1.83百万欧元\[2\]，員工數4,800人。

@@ -1,3 +1,6 @@
+> 本文内容由[IPhone XS](https://zh.wikipedia.org/wiki/IPhone_XS)转换而来。
+
+
 {{Infobox mobile phone | name = iPhone X
 iPhone X Max | codename = | logo = IPhone XS Wordmark.svg | logo_size = | image = IPhone XS Max Gold.svg | image_size = | alt = | caption = 金色iPhone X Max的正面 | brand = [蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") | manufacturer = | slogan = **英語**：Welcome to the big screens. **中文（香港）**：歡迎登上大螢幕。**中文（台灣）**：大螢幕上見。**中文（中國）**：大屏幕上见。 | serieslabel =  | series = | modelnumber = | networks = [GSM](../Page/GSM.md "wikilink")、[CDMA2000](../Page/CDMA2000.md "wikilink")、[EV-DO](https://zh.wikipedia.org/wiki/EV-DO "wikilink")、[HSPA+](../Page/演进式HSPA.md "wikilink")、[LTE](https://zh.wikipedia.org/wiki/LTE_\(消歧義\) "wikilink")、[LTE Advanced](https://zh.wikipedia.org/wiki/LTE_Advanced "wikilink") | released =  | available =  | discontinued = | unitssold = | unitsshipped = | predecessor = [iPhone X](../Page/IPhone_X.md "wikilink") | successor = [iPhone 11 Pro / iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink") | related = \[\[IPhone_XR|iPhone X
 

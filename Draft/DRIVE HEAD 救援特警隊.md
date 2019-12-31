@@ -1,3 +1,6 @@
+> 本文内容由[Draft:DRIVE HEAD 救援特警隊](https://zh.wikipedia.org/wiki/Draft:DRIVE_HEAD_救援特警隊)转换而来。
+
+
 ## 概要
 
 ## 故事簡介

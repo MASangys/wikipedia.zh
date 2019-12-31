@@ -1,3 +1,6 @@
+> 本文内容由[Shall We Chicken](https://zh.wikipedia.org/wiki/Shall_We_Chicken)转换而来。
+
+
 《**Shall We Chicken**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由、[李奎翰](../Page/李奎翰.md "wikilink")、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）等人\[2\]共同主持，節目主軸為以雞肉為食材，尋找創新美味做法並製作新的雞肉料理的綜藝節目\[3\]\[4\]。
 
 ## 各集內容

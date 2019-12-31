@@ -1,3 +1,6 @@
+> 本文内容由[伊斯坦堡國際UFO博物館](https://zh.wikipedia.org/wiki/伊斯坦堡國際UFO博物館)转换而来。
+
+
 **伊斯坦堡國際UFO博物館**（）是位於[土耳其](../Page/土耳其.md "wikilink")[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")[貝伊奧盧的](https://zh.wikipedia.org/wiki/貝伊奧盧 "wikilink")[UFO博物館](https://zh.wikipedia.org/wiki/UFO "wikilink")，於2002年1月開幕。為全球第四個和[中東](https://zh.wikipedia.org/wiki/中東地區 "wikilink")／[巴爾幹](https://zh.wikipedia.org/wiki/巴爾幹半島 "wikilink")／[東歐地區的首個國際UFO博物館](https://zh.wikipedia.org/wiki/東歐 "wikilink")。其創立者是[天狼星UFO太空科學研究中心](../Page/天狼星UFO太空科學研究中心.md "wikilink")主席[海克潭·阿克多甘](https://zh.wikipedia.org/wiki/海克潭·阿克多甘 "wikilink")\[1\]\[2\]\[3\]。
 
 該館共由三個部門組成，擁有上千多本藏書\[4\]。

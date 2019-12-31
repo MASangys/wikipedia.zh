@@ -1,3 +1,6 @@
+> 本文内容由[Leon Lai Metro Live巡迴演唱會](https://zh.wikipedia.org/wiki/Leon_Lai_Metro_Live巡迴演唱會)转换而来。
+
+
 *' Leon Lai Metro Live巡迴演唱會*'是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2017至2018年間在[澳門](../Page/澳門.md "wikilink")、[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬來西亞舉行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，合共演出四場。
 
 ## 舉行概況

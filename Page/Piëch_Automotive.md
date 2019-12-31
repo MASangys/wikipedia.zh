@@ -1,3 +1,6 @@
+> 本文内容由[Piëch Automotive](https://zh.wikipedia.org/wiki/Piëch_Automotive)转换而来。
+
+
 **Piëch Automotive**是一家位于瑞士苏黎世的电动汽车制造商，由Rea Stark Rajcic和Anton“Toni”Piëch于2017年8月创立。\[1\]
 
 ## 公司历史

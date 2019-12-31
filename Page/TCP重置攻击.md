@@ -1,3 +1,6 @@
+> 本文内容由[TCP重置攻击](https://zh.wikipedia.org/wiki/TCP重置攻击)转换而来。
+
+
 **[TCP重置攻击](https://zh.wikipedia.org/wiki/傳輸控制協定 "wikilink")**指的是使用伪造的TCP重置包干扰用户和网站的连接\[1\]。這個技術可以在善意的防火牆中運用\[2\]，但也可用于网络审查或是惡意攻擊。中國的[防火長城便運用了這個技術進行](https://zh.wikipedia.org/wiki/防火長城 "wikilink")[TCP關鍵字阻斷](https://zh.wikipedia.org/wiki/防火長城#主要技術 "wikilink")\[3\]\[4\]。使用[IPsec](../Page/IPsec.md "wikilink")可以避免TCP重置攻击。\[5\]也有研究认为通过连接双方配置适当的过滤来丢弃用于阻断的重置包来也可以维持连接的建立。
 
 ## 简介

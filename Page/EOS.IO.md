@@ -1,3 +1,6 @@
+> 本文内容由[EOS.IO](https://zh.wikipedia.org/wiki/EOS.IO)转换而来。
+
+
 **EOS.IO**是一個[區塊鏈操作平台](https://zh.wikipedia.org/wiki/區塊鏈 "wikilink")，基於EOS.IO軟件上所發行的[加密貨幣名為EOS](https://zh.wikipedia.org/wiki/加密貨幣 "wikilink")。
 
 EOS.IO模擬了真實計算機的大多數屬性，包括硬件（[CPU與](../Page/中央处理器.md "wikilink")[GPU](../Page/圖形處理器.md "wikilink")﹑[RAM內存](../Page/RAM_disk.md "wikilink")﹑[硬盤存儲](../Page/硬盘.md "wikilink")），計算機資源將平均分配給EOS代幣的持有人。

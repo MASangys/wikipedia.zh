@@ -1,3 +1,6 @@
+> 本文内容由[BOE](https://zh.wikipedia.org/wiki/BOE)转换而来。
+
+
 **BOE**，**Boe**可以指：
 
   - [京东方](../Page/京东方.md "wikilink")（Boe Technology Group Co., Ltd）：[中国大陆](../Page/中国大陆.md "wikilink")的一家科技集团股份有限公司。

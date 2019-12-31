@@ -1,3 +1,6 @@
+> 本文内容由[K-Tigers Zero](https://zh.wikipedia.org/wiki/K-Tigers_Zero)转换而来。
+
+
 **K-Tigers Zero**（），是K-Tigers E\&C於2019年推出的十二人男女混聲組合，將以舞蹈結合跆拳道為主要風格\[1\]，成員包括7名男成員（Hyungkyun、Taejoo、Kangmin、Junhee、SeongJin、Hyunmin、Gunwoo）及5名女成員（Taemi、Yiseul、Yoonji、Minji、Youjin）\[2\]\[3\]。
 
 ## 成員資料

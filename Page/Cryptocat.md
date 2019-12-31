@@ -1,3 +1,6 @@
+> 本文内容由[Cryptocat](https://zh.wikipedia.org/wiki/Cryptocat)转换而来。
+
+
 Cryptocat 在2011年3月到2016年3月是一个开源的桌面应用程序，支持平台的加密在线聊天，也可以使用Chrome、Firefox和Safari的扩展程序。2016年3月推出桌面软件支持Windows，OS X和Linux。在Cryptocat 所有通信均被端到端加密技术保护。支援群組聊天、檔案分享。
 
 Cryptocat 由 Nadim Kobeissi 和一个开源社区开发，并根据GPLv3许可条款发布。每個人皆能閱覽原始碼。

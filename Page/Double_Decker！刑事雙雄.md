@@ -1,3 +1,6 @@
+> 本文内容由[Double Decker！刑事雙雄](https://zh.wikipedia.org/wiki/Double_Decker！刑事雙雄)转换而来。
+
+
 《**Double Decker！刑事雙雄**》是[日昇動畫](../Page/日昇動畫.md "wikilink")推出的原創[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，由[古田丈司導演](https://zh.wikipedia.org/wiki/古田丈司 "wikilink")，[桂正和](../Page/桂正和.md "wikilink")和板垣德弘負責角色設計，[林友树](../Page/林友树.md "wikilink")擔任音樂製作，電視動畫於2018年9月30日播出\[1\]。
 
 ## 故事大綱

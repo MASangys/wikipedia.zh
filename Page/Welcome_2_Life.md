@@ -1,3 +1,6 @@
+> 本文内容由[Welcome 2 Life](https://zh.wikipedia.org/wiki/Welcome_2_Life)转换而来。
+
+
 《**Welcome 2 Life**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年8月5日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》的[金根洪導演與](https://zh.wikipedia.org/wiki/金根洪 "wikilink")《[為純情著迷](../Page/為純情著迷.md "wikilink")》的柳熙京作家合作打造。此劇講述為了自己的利益而去幫助那些專走法律漏洞的人的獨行俠律師，因為一次不幸的意外而被吸進另一個平行世界中，變身為剛直的檢察官，度過180度完全不同的人生的故事。\[1\]\[2\]\[3\]\[4\]
 
 台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、myVideo 8/6起每週二三播出，[中華電信MOD](../Page/中華電信MOD.md "wikilink")當週同步更新，[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")11月上架。

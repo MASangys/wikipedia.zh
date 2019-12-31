@@ -1,3 +1,6 @@
+> 本文内容由[STAND BY ME 哆啦A夢 2](https://zh.wikipedia.org/wiki/STAND_BY_ME_哆啦A夢_2)转换而来。
+
+
 是一部預定於2020年上映的日本動畫片，為2014年電影《[STAND BY ME 哆啦A夢](../Page/STAND_BY_ME_哆啦A夢.md "wikilink")》的續集，哆啦A夢50周年記念作品。本片由[八木龍一](../Page/八木龍一.md "wikilink")和[山崎貴](../Page/山崎貴.md "wikilink")共同執導，故事改編自[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的漫畫《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》，並定於2020年8月7日在日本上映。
 
 ## 概要

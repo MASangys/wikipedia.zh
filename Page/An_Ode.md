@@ -1,3 +1,6 @@
+> 本文内容由[An Ode](https://zh.wikipedia.org/wiki/An_Ode)转换而来。
+
+
 《**An Ode**》\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的第三張](../Page/Seventeen_\(組合\).md "wikilink")[正規專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[WOOZI以及桂範洙](../Page/李知勳_\(SEVENTEEN\).md "wikilink")(BUMZU)擔任製作人，其他成員們共同作詞及作曲。由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")企劃，於2019年9月16日發行，主打曲為〈독 : Fear (毒：Fear)〉。
 
 ## 概述

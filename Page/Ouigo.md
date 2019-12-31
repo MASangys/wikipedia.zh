@@ -1,3 +1,6 @@
+> 本文内容由[Ouigo](https://zh.wikipedia.org/wiki/Ouigo)转换而来。
+
+
 [SNCF_OUIGO_TGV_Dasye_761_Marseilles_-_Paris.jpg](https://zh.wikipedia.org/wiki/File:SNCF_OUIGO_TGV_Dasye_761_Marseilles_-_Paris.jpg "fig:SNCF_OUIGO_TGV_Dasye_761_Marseilles_-_Paris.jpg") **Ouigo**是[法国国家铁路](../Page/法国国家铁路.md "wikilink")下属的一个廉价高速列车种类，于2013年成立。
 
 ## 历史

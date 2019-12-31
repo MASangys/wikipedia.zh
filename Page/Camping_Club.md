@@ -1,3 +1,6 @@
+> 本文内容由[Camping Club](https://zh.wikipedia.org/wiki/Camping_Club)转换而来。
+
+
 《**Camping Club**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的綜藝節目，由女子團體[FIN.K.L](../Page/FIN.K.L.md "wikilink")成員[李孝利](../Page/李孝利.md "wikilink")、[玉珠鉉](../Page/玉珠鉉.md "wikilink")、[李真](../Page/李真_\(韓國藝人\).md "wikilink")、[成宥利](../Page/成宥利.md "wikilink")主持。慶祝[FIN.K.L](../Page/FIN.K.L.md "wikilink")成立21週年，相隔了14年後再次合體，成員們駕駛露營車於全國各地旅行\[1\]\[2\]。
 
 ## 节目成员

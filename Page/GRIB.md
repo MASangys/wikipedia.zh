@@ -1,3 +1,6 @@
+> 本文内容由[GRIB](https://zh.wikipedia.org/wiki/GRIB)转换而来。
+
+
 **GRIB**（GRIdded Binary或通用定期发布的二进制形式信息）是通常用在[气象学](../Page/气象学.md "wikilink")中存储历史的和[预报的天气数据的简明数据格式](../Page/天气预报.md "wikilink")。它由[世界气象组织](../Page/世界气象组织.md "wikilink")的基本系统委员会于1985年标准化，描述于WMO编码手册（出版物No.306），最初编号为FM 92-VIII Ext. GRIB。 第一版GRIB被世界范围内的多数气象中心业务化使用，用于[数值天气预报](https://zh.wikipedia.org/wiki/数值天气预报 "wikilink")（NWP）输出。第二版是2003年发表的GRIB2，最新编号为FM 92–XIV GRIB，气象数据发布逐渐的变更到这个格式。
 
 ## 概述

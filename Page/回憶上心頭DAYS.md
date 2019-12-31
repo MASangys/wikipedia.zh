@@ -1,3 +1,6 @@
+> 本文内容由[回憶上心頭DAYS](https://zh.wikipedia.org/wiki/回憶上心頭DAYS)转换而来。
+
+
 《**回憶上心頭DAYS**》（）\[1\]是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第55張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2019年3月13日由[國王唱片](../Page/國王唱片.md "wikilink")發行。同名[標題曲由](../Page/A面與B面.md "wikilink")[HKT48](../Page/HKT48.md "wikilink")的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任Center（中心成員），也是她自HKT48及[AKB48集團](../Page/AKB48集團.md "wikilink")畢業前，在AKB48最後一張參與的單曲\[2\]。
 
 ## 簡介

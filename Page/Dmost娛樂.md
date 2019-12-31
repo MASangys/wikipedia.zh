@@ -1,3 +1,6 @@
+> 本文内容由[Dmost娛樂](https://zh.wikipedia.org/wiki/Dmost娛樂)转换而来。
+
+
 **Dmost娛樂**（、），是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 歷史

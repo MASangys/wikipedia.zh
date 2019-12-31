@@ -1,3 +1,6 @@
+> 本文内容由[NEW LOVE](https://zh.wikipedia.org/wiki/NEW_LOVE)转换而来。
+
+
 《**NEW LOVE**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的第21張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2019年](../Page/2019年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")由[VERMILLION RECORDS於日本發行](../Page/VERMILLION_RECORDS.md "wikilink")\[1\]。
 
 ## 概要

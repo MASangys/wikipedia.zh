@@ -1,3 +1,6 @@
+> 本文内容由[WAVE RUNNER](https://zh.wikipedia.org/wiki/WAVE_RUNNER)转换而来。
+
+
 《**WAVE RUNNER**》是日本音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")第15張原创[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年2月10日發行。唱片公司為[unBORDE](../Page/日本華納音樂.md "wikilink")（日本華納音樂）。
 
 ## 概要

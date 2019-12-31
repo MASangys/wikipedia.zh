@@ -1,3 +1,6 @@
+> 本文内容由[PGLYRP1](https://zh.wikipedia.org/wiki/PGLYRP1)转换而来。
+
+
 **肽聚醣識別蛋白1**（Peptidoglycan Recognition Protein 1），也被稱為 **TAG7、PGRP-S**，是在人類PGLYRP1[基因](../Page/基因.md "wikilink")編碼的[蛋白](../Page/蛋白.md "wikilink")。\[1\]\[2\]\[3\]
 
 [肽聚糖识别蛋白](https://zh.wikipedia.org/wiki/肽聚糖识别蛋白 "wikilink")（Peptidoglycan Recognition Proteins, PGRPs）是近幾年來，在昆蟲和哺乳動物體內所發現的一種先天性免疫激活蛋白。哺乳動物具有四種PGRPs，分別命名為PGRP-S、PGRP-L、PGRP-Iα以及PGRP-Iβ（也稱為PGLYRP-1、PGLYRP-2、PGLYRP-3與PGLYRP-4）。\[4\]

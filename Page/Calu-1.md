@@ -1,3 +1,6 @@
+> 本文内容由[Calu-1](https://zh.wikipedia.org/wiki/Calu-1)转换而来。
+
+
 **Calu-1** (亦稱**ATCC HTB-54**) 是對[B型肝炎病毒及](https://zh.wikipedia.org/wiki/B型肝炎病毒 "wikilink")[丙型肝炎](../Page/丙型肝炎.md "wikilink")病毒呈[陰性的](https://zh.wikipedia.org/wiki/陰性 "wikilink")[人類](../Page/人類.md "wikilink")，最初是分離一名47歲的[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")[表皮樣癌](https://zh.wikipedia.org/wiki/鱗狀細胞癌 "wikilink")[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")。
 
 ## 特徵

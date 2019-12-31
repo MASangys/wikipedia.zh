@@ -1,3 +1,6 @@
+> 本文内容由[OfficeSuite](https://zh.wikipedia.org/wiki/OfficeSuite)转换而来。
+
+
 Officesuite 是由 MobiSystems 开发的跨平台办公套件\[1\]\[2\] 它适用于 Android、 iOS 和微软 Windows (PC)，并增加了和最常用的微软 Office 文件格式兼容的大量 PDF 功能。 该软件的便携版在 Google Play 上有超过2.2亿的下载量，是 Android 商业应用程序中的佼佼者。\[3\]
 
 支持往设备上预装 OfficeSuite的厂商是：索尼、亚马逊、阿尔卡特、夏普、东芝、中兴、华为、京瓷等智能硬件公司

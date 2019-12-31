@@ -1,3 +1,6 @@
+> 本文内容由[SMIRAL](https://zh.wikipedia.org/wiki/SMIRAL)转换而来。
+
+
 **SMIRAL**（），[日本](../Page/日本.md "wikilink")由[TOPMARSHAL](../Page/TOPMARSHAL.md "wikilink")營運的動畫、真人電影媒體公司\[1\]。
 
 2016年7月成立後，展開動畫、真人作品、音樂及周邊商品的產業與經營。而投入動畫製作的「**SMIRAL animation**」是[Earth Star Entertainment將業務管理轉交SMIRAL之後建立的](../Page/Earth_Star_Entertainment.md "wikilink")\[2\]。因此，SMIRAL本身和EARTH STAR Entertainment和Top Partners彼此都是旗下兄弟企業\[3\]。

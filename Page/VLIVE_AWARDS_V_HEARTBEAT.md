@@ -1,3 +1,6 @@
+> 本文内容由[VLIVE AWARDS V HEARTBEAT](https://zh.wikipedia.org/wiki/VLIVE_AWARDS_V_HEARTBEAT)转换而来。
+
+
 **VLIVE AWARDS V HEARTBEAT**（），是韓國[NAVER](../Page/NAVER.md "wikilink")旗下的網路頻道「VLIVE」所舉辦，表揚一年內於VLIVE頻道中表現優異的歌手及藝人，以VLIVE的瀏覽量、留言與HEART數量合併計算選出，自2019年開始舉辦的韓國頒獎禮。\[1\]\[2\]
 
 ## 概要

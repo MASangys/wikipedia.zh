@@ -1,3 +1,6 @@
+> 本文内容由[大衛·M·葛蘭茨](https://zh.wikipedia.org/wiki/大衛·M·葛蘭茨)转换而来。
+
+
 '''大衛·M·葛蘭茨 '''（，—）是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[軍事歷史學家](https://zh.wikipedia.org/wiki/軍事史 "wikilink")、退役[陸軍上校](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，以研究[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[蘇德戰爭](https://zh.wikipedia.org/wiki/蘇德戰爭 "wikilink")（東線）與[蘇聯紅軍而聞名](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")，他同時也是軍事期刊《》的[總編輯](../Page/總編輯.md "wikilink")\[1\]。
 
 ## 生平

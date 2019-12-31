@@ -1,3 +1,6 @@
+> 本文内容由[CURATIONS](https://zh.wikipedia.org/wiki/CURATIONS)转换而来。
+
+
 《**CURATIONS**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Robynn & Kendy的第六張唱片](../Page/Robynn_&_Kendy.md "wikilink")，於2019年[4月26日](../Page/4月26日.md "wikilink")發行。
 
 ## 專輯簡介

@@ -1,3 +1,6 @@
+> 本文内容由[SPY×FAMILY間諜家家酒](https://zh.wikipedia.org/wiki/SPY×FAMILY間諜家家酒)转换而来。
+
+
 是由日本漫畫家[遠藤達哉所創作的](https://zh.wikipedia.org/wiki/遠藤達哉 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，在2019年3月25日起於《》上開始連載。
 
 本作為作者的第三部作品，敘述一名身為間諜的男性、本職是殺手的女性，還有一個超能力者的少女所組成的虛假家庭間的家庭喜劇。

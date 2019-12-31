@@ -1,3 +1,6 @@
+> 本文内容由[MAO \(漫畫\)](https://zh.wikipedia.org/wiki/MAO_\(漫畫\))转换而来。
+
+
 ，是[高橋留美子的](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，2019年開始在[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》23號連載中\[1\]。
 
 ## 作品簡介

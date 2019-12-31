@@ -1,3 +1,6 @@
+> 本文内容由[Let\'s Play Cherry Bullet](https://zh.wikipedia.org/wiki/Let\'s_Play_Cherry_Bullet)转换而来。
+
+
 《**Let's Play Cherry Bullet**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[Cherry Bullet作為出道作品的首張單曲專輯](../Page/Cherry_Bullet.md "wikilink")，由[FNC Entertainment於](../Page/FNC娛樂.md "wikilink")2019年1月21日發行，主打歌曲為《Q\&A》\[1\]。
 
 ## 日程

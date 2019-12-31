@@ -1,3 +1,6 @@
+> 本文内容由[突如其來Punchline](https://zh.wikipedia.org/wiki/突如其來Punchline)转换而来。
+
+
 《**突如其來Punchline**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48](../Page/SKE48.md "wikilink")的第23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2018年7月4日由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Neo City - The Origin](https://zh.wikipedia.org/wiki/Neo_City_-_The_Origin)转换而来。
+
+
 **NEO CITY – The Origin**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[偶像組合](https://zh.wikipedia.org/wiki/偶像組合 "wikilink")[NCT 127於](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")2019年舉辦的出道後的首場演唱會。演唱會起初僅在[韓國舉辦](https://zh.wikipedia.org/wiki/韓國 "wikilink")，全名為“NCT 127 1st Tour 'NEO CITY : SEOUL – The Origin'”於2019年1月26日和27日在[首爾奧林匹克體操競技場進行兩場的演出](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")；而後擴大舉辦與“NEO CITY – The Origin”同名的日本巡迴演唱會、世界巡迴演唱會、以及日本競技場巡迴演唱會。截至目前，組合已確定在9個國家、28座城市進行總計45場的演出（包括韓國場次）。本次演唱會預計將在2020年2月24日的東京場次落幕。
 
 ## 概述

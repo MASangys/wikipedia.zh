@@ -1,3 +1,6 @@
+> 本文内容由[NHK手语新闻](https://zh.wikipedia.org/wiki/NHK手语新闻)转换而来。
+
+
 **NHK手语新闻**（）是[日本放送协会](../Page/日本廣播協會.md "wikilink")（NHK）制作的[手語新聞](../Page/手語新聞.md "wikilink")节目，在[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")（）播出。它的前身是1990年4月开播的《今天的新闻～给听觉障碍者》（），1996年4月改为现名。
 
 ## 摘要

@@ -1,3 +1,6 @@
+> 本文内容由[空港 \(容祖兒EP\)](https://zh.wikipedia.org/wiki/空港_\(容祖兒EP\))转换而来。
+
+
 《**空港**》是[容祖兒](../Page/容祖兒.md "wikilink")自2010年聲帶受損事件後的第一張EP，亦是她個人的第四張廣東EP，於**2010年8月20日**發行。這EP也是祖兒第六次次於[紅磡香港體育館的個人演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")，*[Number 6容祖兒演唱會](https://zh.wikipedia.org/wiki/Number_6容祖兒演唱會 "wikilink")* 的主題大碟，歌曲"*[空港](https://zh.wikipedia.org/wiki/Airport_\(song\) "wikilink")*"亦是這次演唱會的主題曲。"空港"是一句日語，代表機場的意思，祖兒說愛她的人就像她的"空港"和"燈塔"，在她迷惘時讓她安全"降落"。而歌曲"*[破相](https://zh.wikipedia.org/wiki/Disfigured_\(song\) "wikilink")*"則是[陳輝陽](../Page/陳輝陽.md "wikilink")與[黃偉文合作的](https://zh.wikipedia.org/wiki/Wyman_Wong "wikilink")「垃圾系列」第四部曲，祖兒深情的演釋使這歌十分受歡迎，祖兒更為此歌拍了首個個人3D MV，亦是全香港第一首3D MV，使她成為全亞洲首位拍攝3D MV的女歌手。而碟內首支派台歌"*[綠野仙踪](https://zh.wikipedia.org/wiki/Wizard_of_Oz_\(song\) "wikilink")*"，由[陳奐仁](../Page/陳奐仁.md "wikilink")作曲，是*[百老匯](https://zh.wikipedia.org/wiki/Boardway "wikilink")*的廣告歌，亦大受歡迎。\[1\]\[2\]
 
 ## 專輯介紹

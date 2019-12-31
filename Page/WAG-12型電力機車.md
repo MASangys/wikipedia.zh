@@ -1,3 +1,6 @@
+> 本文内容由[WAG-12型電力機車](https://zh.wikipedia.org/wiki/WAG-12型電力機車)转换而来。
+
+
 **WAG-12型电力机车**是[印度鐵路公司將會採用的](https://zh.wikipedia.org/wiki/印度鐵路公司 "wikilink")[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[阿尔斯通公司和印度鐵路公司合營馬德普拉機車車輛廠联合研制](https://zh.wikipedia.org/wiki/阿尔斯通公司 "wikilink")，是在阿尔斯通第二代“[Prima](../Page/Prima_\(铁路机车\).md "wikilink")”机车技术平台上开发研制的干线货运用八轴大功率交流传动电力机车，最大功率为9,0000千瓦，最高运行速度为120公里/小时。
 
 ## 发展历史

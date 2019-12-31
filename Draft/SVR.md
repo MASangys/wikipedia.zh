@@ -1,3 +1,6 @@
+> 本文内容由[Draft:SVR](https://zh.wikipedia.org/wiki/Draft:SVR)转换而来。
+
+
 **SVR 可以指：**
 
 ## 氣象

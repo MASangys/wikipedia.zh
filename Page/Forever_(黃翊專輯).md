@@ -1,3 +1,6 @@
+> 本文内容由[Forever \(黃翊專輯\)](https://zh.wikipedia.org/wiki/Forever_\(黃翊專輯\))转换而来。
+
+
 《**Forever**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黃翊第](../Page/黃翊_\(香港\).md "wikilink")5張個人[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，亦是首張個人精選專輯，於1991年12月發行。2006年6月22日環球唱片推出復刻版（環球復黑王），又於2017年9月24日推出分別是單碟復刻版及《[環球經典禮讚（3in1）- 黃翊（2）](https://zh.wikipedia.org/wiki/環球經典禮讚（3in1）-_黃翊（2） "wikilink")》\[1\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Super Shuttle 400](https://zh.wikipedia.org/wiki/Super_Shuttle_400)转换而来。
+
+
 [Daea_ships_Dream.jpg](https://zh.wikipedia.org/wiki/File:Daea_ships_Dream.jpg "fig:Daea_ships_Dream.jpg") [Rainbow2_okikisen.jpg](https://zh.wikipedia.org/wiki/File:Rainbow2_okikisen.jpg "fig:Rainbow2_okikisen.jpg") **Super Shuttle 400**型水翼輔助雙體船，由[日本](../Page/日本.md "wikilink")[三菱重工業生產](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")，僅生產了兩艘，全由[隱岐汽船購入](https://zh.wikipedia.org/wiki/隱岐汽船 "wikilink")。
 
 ## 概要

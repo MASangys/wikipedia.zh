@@ -1,3 +1,6 @@
+> 本文内容由[Luminosity Gaming](https://zh.wikipedia.org/wiki/Luminosity_Gaming)转换而来。
+
+
 </ref> | parent_group =  | founded = 2015年 | folded = | owner = 「Buyaka」史蒂夫·梅達（Steve Maida） | partners = [Twitch.tv](https://zh.wikipedia.org/wiki/Twitch.tv "wikilink")
 [明基電通](../Page/明基電通.md "wikilink")
 [金士頓科技](../Page/金士頓科技.md "wikilink")

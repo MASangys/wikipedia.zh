@@ -1,3 +1,6 @@
+> 本文内容由[唐纳德·S·琼斯](https://zh.wikipedia.org/wiki/唐纳德·S·琼斯)转换而来。
+
+
 **唐纳德·S·琼斯**（，）是[美国海军将领](https://zh.wikipedia.org/wiki/美国海军 "wikilink")，最高军衔为[海军中将](https://zh.wikipedia.org/wiki/海军中将 "wikilink")。
 
 ## 生平

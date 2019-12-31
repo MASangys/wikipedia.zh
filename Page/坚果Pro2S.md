@@ -1,3 +1,6 @@
+> 本文内容由[坚果Pro2S](https://zh.wikipedia.org/wiki/坚果Pro2S)转换而来。
+
+
 坚果Pro2S是[锤子科技](../Page/锤子科技.md "wikilink")在2018年8月20日夏季发布会上发布的准旗舰手机，搭载[高通骁龙710](https://zh.wikipedia.org/wiki/高通骁龙710 "wikilink")、[IMX363和](https://zh.wikipedia.org/wiki/IMX363 "wikilink")1200+500mp后置双摄，支持TV-OUT，[DxO Mark综合评分](https://zh.wikipedia.org/wiki/DxO_Mark "wikilink")91，拍照得分95。运行基于[Android](../Page/Android.md "wikilink") O的SmartisanOS 6。
 
 ## 设计

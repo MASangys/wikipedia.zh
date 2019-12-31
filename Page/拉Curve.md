@@ -1,3 +1,6 @@
+> 本文内容由[拉Curve](https://zh.wikipedia.org/wiki/拉Curve)转换而来。
+
+
 **拉Curve**\[1\]\[2\]\[3\]（又稱為**常模參照**\[4\]、**拉曲線**\[5\]）是一種[教育界常用的評級方法](https://zh.wikipedia.org/wiki/教育界 "wikilink")，[英式英語稱為](https://zh.wikipedia.org/wiki/英式英語 "wikilink")**marking on a curve**，[美式英語稱為](https://zh.wikipedia.org/wiki/美式英語 "wikilink")**grading on a curve** ，又稱為**curved grading、bell curving**、**grading curves**）是以預先設定的[常態分佈](https://zh.wikipedia.org/wiki/常態分佈 "wikilink")(即[高斯分佈](https://zh.wikipedia.org/wiki/高斯分佈 "wikilink"))形式評核學生的分數或等級\[6\]。術語「Curve」是指以圖表形式展示常態分佈的概率密度的[曲線](https://zh.wikipedia.org/wiki/曲線 "wikilink")。[大學](../Page/大學.md "wikilink")常用的評級方法[GPA便是使用拉Curve來區分一級](https://zh.wikipedia.org/wiki/GPA "wikilink")、二級及三級榮譽。而著名的[香港中學會考](../Page/香港中學會考.md "wikilink")(HKCEE)及[香港高級程度會考](https://zh.wikipedia.org/wiki/香港高級程度會考 "wikilink")(HKALE)便是採用拉Curve形式評分。
 
 拉Curve的其中一個方法是通過預先設定的百份比，來界定評分在一個區間之間的學生奪得相應的等級，亦可以通過這個方法來設定一個等級跟下一個等級的界線。假設在香港中學會考的數學科中，分別設有A、B、C、D、E、F及U共七個等級，而前5%的學生奪A，下10%的學生奪B，下15%學生奪C，下20%學生奪D，下40%學生奪E，最後10%學生奪F或U。如果滿分是100分，考生有10,000人，亦即前500名的學生可奪得A級。假如排第500名的學生的得分是89分，一個常見的處理方法是將89分設定為A跟B級的界線，奪得89分或以上便能獲得A級，因此在拉Curve之後得到A級的學生不一定是剛好5%，在這個方法之下，奪得A級的學生有可能會大於5%。

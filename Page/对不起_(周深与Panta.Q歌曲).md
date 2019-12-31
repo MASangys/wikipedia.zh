@@ -1,3 +1,6 @@
+> 本文内容由[对不起 \(周深与Panta.Q歌曲\)](https://zh.wikipedia.org/wiki/对不起_\(周深与Panta.Q歌曲\))转换而来。
+
+
 《**对不起**》是中国大陆90后男歌手[周深和电音创作人Panta](https://zh.wikipedia.org/wiki/周深 "wikilink").Q演唱的电音歌曲，是周深首支电子音乐单曲。\[1\]
 
 ## 背景和风格

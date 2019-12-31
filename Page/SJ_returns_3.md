@@ -1,3 +1,6 @@
+> 本文内容由[SJ returns 3](https://zh.wikipedia.org/wiki/SJ_returns_3)转换而来。
+
+
 《**SJ Returns 3**》（，）為[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")，內容為紀錄男子團體[Super Junior正規九輯的準備過程](../Page/Super_Junior.md "wikilink")（主打歌選定、錄音、練習室、封面拍攝等）。\[1\] 此節目於9月9日開播，並於每週一、三及五公開新的影片。\[2\]\[3\]
 
 ## 各集內容

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Shortcut](https://zh.wikipedia.org/wiki/模块:Shortcut)转换而来。
+
+
 \-- This module implements .
 
 \-- Set constants local CONFIG_MODULE = 'Module:Shortcut/config'

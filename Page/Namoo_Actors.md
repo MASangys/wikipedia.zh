@@ -1,3 +1,6 @@
+> 本文内容由[Namoo Actors](https://zh.wikipedia.org/wiki/Namoo_Actors)转换而来。
+
+
 **Namoo Actors**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，於2004年成立，其創辦人為金鍾道（김종도）。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[NAMELESS WORLD](https://zh.wikipedia.org/wiki/NAMELESS_WORLD)转换而来。
+
+
 《**NAMELESS WORLD**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂](../Page/可苦可樂.md "wikilink")的第5張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。 2005年12月21日發行。
 
 ## 簡介

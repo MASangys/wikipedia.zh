@@ -1,3 +1,6 @@
+> 本文内容由[Perfume Anniversary 10days 2015 PPPPPPPPPP「LIVE ３：５：６：９」](https://zh.wikipedia.org/wiki/Perfume_Anniversary_10days_2015_PPPPPPPPPP「LIVE_３：５：６：９」)转换而来。
+
+
 《****》是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume "wikilink")12張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/Blu-ray。
 
 ## 规格

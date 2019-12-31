@@ -1,3 +1,6 @@
+> 本文内容由[JanusGraph](https://zh.wikipedia.org/wiki/JanusGraph)转换而来。
+
+
 **JanusGraph**是一个[Linux基金会](../Page/Linux基金會.md "wikilink")\[1\]下的开源分布式[图数据库](../Page/图数据库.md "wikilink") 。JanusGraph提供[Apache2.0软件许可证](../Page/Apache许可证.md "wikilink")。该项目由IBM、Google、Hortonworks<ref>
 
 <div>

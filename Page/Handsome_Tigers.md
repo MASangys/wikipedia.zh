@@ -1,3 +1,6 @@
+> 本文内容由[Handsome Tigers](https://zh.wikipedia.org/wiki/Handsome_Tigers)转换而来。
+
+
 《**Handsome Tigers**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")2020年推出的綜藝節目，由[徐章煇](../Page/徐章煇.md "wikilink")、[李相侖](../Page/李相侖.md "wikilink")、[車銀優](../Page/車銀優.md "wikilink")、[柳善皓](https://zh.wikipedia.org/wiki/柳善皓 "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）等人\[1\]\[2\]共同出演。節目主軸為以「韓國籃球傳奇」[徐章煇](../Page/徐章煇.md "wikilink")為中心，集合各個領域愛好打[籃球的藝人](https://zh.wikipedia.org/wiki/籃球 "wikilink")，建立藝人[籃球團隊進行比賽](https://zh.wikipedia.org/wiki/籃球 "wikilink")\[3\]\[4\]。
 
 ## 隊伍組成

@@ -1,3 +1,6 @@
+> 本文内容由[EVERGLOW LAND](https://zh.wikipedia.org/wiki/EVERGLOW_LAND)转换而来。
+
+
 《**EVERGLOW LAND**》（）是以[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[乐华娛樂公司旗下的女子團體](https://zh.wikipedia.org/wiki/乐华娛樂 "wikilink")[EVERGLOW](../Page/EVERGLOW.md "wikilink")為主角所拍攝的[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年8月13日於韓國[Mnet](../Page/Mnet.md "wikilink")頻道首播。\[1\]
 
 ## 播出時間

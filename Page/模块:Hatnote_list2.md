@@ -1,3 +1,6 @@
+> 本文内容由[模块:Hatnote list2](https://zh.wikipedia.org/wiki/模块:Hatnote_list2)转换而来。
+
+
 \-- Module:Hatnote list 被全保护了，开这个页面以反映最新的本地化情况。
 
 -----

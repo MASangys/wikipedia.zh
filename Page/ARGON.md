@@ -1,3 +1,6 @@
+> 本文内容由[ARGON](https://zh.wikipedia.org/wiki/ARGON)转换而来。
+
+
 **ARGON**（韓語：**아르곤**），團名有「ART Go On」的意思，是[韓國MSH娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的六人男子組合\[1\]，成員包括Haneul、Roel、Kain、Yeoun、 Gon及Jaeun。
 
 ## 成員資料

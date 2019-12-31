@@ -1,3 +1,6 @@
+> 本文内容由[TAEYEON -JAPAN SHOW CASE TOUR 2018-](https://zh.wikipedia.org/wiki/TAEYEON_-JAPAN_SHOW_CASE_TOUR_2018-)转换而来。
+
+
 **《TAEYEON -JAPAN SHOW CASE TOUR 2018-》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人首場日本SHOW](https://zh.wikipedia.org/wiki/金太妍 "wikilink") CASE 。
 
 ## 概要

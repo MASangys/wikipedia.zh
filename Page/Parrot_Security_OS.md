@@ -1,3 +1,6 @@
+> 本文内容由[Parrot Security OS](https://zh.wikipedia.org/wiki/Parrot_Security_OS)转换而来。
+
+
 **Parrot Security Linux**是一个基于[Debian](../Page/Debian.md "wikilink")的[Linux](../Page/Linux.md "wikilink")发行版，专注于[计算机安全](../Page/计算机安全.md "wikilink")\[1\]。它专为[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")，漏洞评估和缓解，计算机取证和匿名Web浏览而设计，由Frozenbox团队开发。
 
 ## 目的

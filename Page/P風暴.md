@@ -1,3 +1,6 @@
+> 本文内容由[P風暴](https://zh.wikipedia.org/wiki/P風暴)转换而来。
+
+
 《**P風暴**》（；中国大陆片名《**反貪風暴4**》）是一部於[2019年上映的](../Page/2019年電影.md "wikilink")[香港](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[動作](../Page/香港動作電影.md "wikilink")[犯罪電影](https://zh.wikipedia.org/wiki/犯罪電影 "wikilink")，由[林德祿](../Page/林德祿.md "wikilink")执導，[黃浩華和](https://zh.wikipedia.org/wiki/黃浩華 "wikilink")[何文龍編劇](https://zh.wikipedia.org/wiki/何文龍 "wikilink")，為2018年電影《[L風暴](https://zh.wikipedia.org/wiki/L風暴 "wikilink")》的續集，以及「[反貪風暴系列電影](../Page/反貪風暴系列電影.md "wikilink")」第四部作品\[1\]，[古天樂](../Page/古天樂.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[林家棟](../Page/林家棟.md "wikilink")及[周秀娜](../Page/周秀娜.md "wikilink")領銜主演\[2\]，[張智霖](../Page/張智霖.md "wikilink")特別演出，[凌志華任](https://zh.wikipedia.org/wiki/凌志華 "wikilink")[動作設計](https://zh.wikipedia.org/wiki/武術指導 "wikilink")。本作中P是指[監獄](../Page/監獄.md "wikilink")（Prison），內容涉及[懲教署](../Page/懲教署.md "wikilink")。
 
 2019年4月1日宣佈開拍續作《[G風暴](https://zh.wikipedia.org/wiki/G風暴 "wikilink")》，由古天樂繼續擔任主角\[3\]。

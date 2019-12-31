@@ -1,3 +1,6 @@
+> 本文内容由[IPad Air \(第三代\)](https://zh.wikipedia.org/wiki/IPad_Air_\(第三代\))转换而来。
+
+
 **第三代iPad Air**（正式名称仅为**iPad Air**，而**iPad Air 3**为俗称）是[苹果于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2019年3月18日在其官网更新发布的 10.5 英寸屏幕中端[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑](../Page/平板電腦.md "wikilink")，有不同的称呼（**第三代iPad Air**，或者**iPad Air 2019**）。虽然名属Air系列，但它与iPad Air的[第一代和](../Page/IPad_Air.md "wikilink")[第二代并无技术上的直接继承关系](../Page/IPad_Air_2.md "wikilink")。相反，第三代iPad Air使用[iPad Pro](../Page/IPad_Pro.md "wikilink") 10.5英寸版本的外形（但厚度依然与前代iPad Air相同，同时苹果下架[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") 10.5英寸版本），它搭载[Apple A12 Bionic处理器](../Page/Apple_A12_Bionic.md "wikilink")，采用原彩显示技术的 10.5 英寸[视网膜显示屏](https://zh.wikipedia.org/wiki/视网膜显示屏 "wikilink")，但不具备ProMotion自适应屏幕刷新率技术。此外，第三代[iPad Air还支持第一代](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[Apple Pencil和智能键盘](../Page/Apple_Pencil.md "wikilink")。
 
 ## 大事记

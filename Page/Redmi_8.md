@@ -1,3 +1,6 @@
+> 本文内容由[Redmi 8](https://zh.wikipedia.org/wiki/Redmi_8)转换而来。
+
+
 **Redmi 8**是[小米科技旗下的子品牌](https://zh.wikipedia.org/wiki/小米科技 "wikilink")[Redmi](../Page/Redmi.md "wikilink")（原红米手机系列）于2019年10月14日发布的智能手机系列，包含Redmi 8和Redmi 8A 两款机型。
 该智能手机定位于“五星高品质入门机”。即通过优秀的续航表现、不俗的外观设计以及均衡的性能体验等而让目标用户也能享受到优质的入门机体验。
 

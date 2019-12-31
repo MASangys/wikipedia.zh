@@ -1,3 +1,6 @@
+> 本文内容由[CONOR](https://zh.wikipedia.org/wiki/CONOR)转换而来。
+
+
 **CONOR**是[斯洛文尼亚](../Page/斯洛文尼亚.md "wikilink")对[COBISS系统中个人和公司名称的](https://zh.wikipedia.org/wiki/COBISS "wikilink")[规范控制](https://zh.wikipedia.org/wiki/规范控制 "wikilink")，该系统启动于2003年。CONOR记录作者的个人姓名及相关变量、标签、注释等信息，这些信息在整个系统中被唯一指定。目前公司尚未纳入控制范围。CONOR每天进行更新以完成编目过程。
 
 最初CONOR仅收录斯洛文尼亚作者，此后引入了部分[美国国会图书馆的数据](https://zh.wikipedia.org/wiki/美国国会图书馆 "wikilink")，目前约有60%的记录是由CONOR自身所创建。

@@ -1,3 +1,6 @@
+> 本文内容由[LP6](https://zh.wikipedia.org/wiki/LP6)转换而来。
+
+
 **LP6**是一個香港新界東將軍澳東南部的臨海豪華私人屋苑，是[港鐵](../Page/港鐵.md "wikilink")大型臨海住宅區[日出康城](../Page/日出康城.md "wikilink")第6期，名字意為LOHAS Park 6。屋苑賣點為“向海、向南”，即過半單位享有正南方全海景致。項目由[南豐發展](https://zh.wikipedia.org/wiki/南豐發展 "wikilink")、[遠洋地產及](https://zh.wikipedia.org/wiki/遠洋地產 "wikilink")[港鐵公司共同發展](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")，建築師為[劉榮廣伍振民建築師事務所](https://zh.wikipedia.org/wiki/劉榮廣伍振民建築師事務所 "wikilink")\[1\] ，由[協興建築](../Page/協興建築.md "wikilink")承建，將於2020年第三季落成及入伙，提供2,392個單位，包括1至5房單位，以及日出康城已開售各期中面積最大的頂層特色戶，面積超過2,700平方呎，連私人電梯大堂、1,700呎天台及私人空中泳池。
 
 項目於2018年7月31日批售，並將於8月尾開售。發展商以「海鷗仔」為「eco rich」大使，若買家購入單位可獲贈一隻公仔。\[2\]此項目是在2018年7月政府公佈新房屋政策後，首個獲批售的新盤，每次開售時需按新房策規定，最少推出20%（即479伙）單位。另外，此項目亦於2018年榮獲[Autodesk](../Page/Autodesk.md "wikilink")建築資訊模擬（BIM）應用獎項。

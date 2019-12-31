@@ -1,3 +1,6 @@
+> 本文内容由[Bayingyi](https://zh.wikipedia.org/wiki/Bayingyi)转换而来。
+
+
 **Bayingyi**，也被稱為**葡裔緬甸人**，是16和17世紀來到緬甸的[葡萄牙人](../Page/葡萄牙人.md "wikilink")[僱傭兵](../Page/僱傭兵.md "wikilink")或冒險者的後裔。他們為緬甸國王的砲兵和火槍兵團隊工作，他們主要生活在[上緬甸的](https://zh.wikipedia.org/wiki/上緬甸 "wikilink")[實皆省](../Page/實皆省.md "wikilink")和[仰光](../Page/仰光.md "wikilink")。他們或多或少被該地區的主要民族緬族同化，但仍信仰天主教。在實皆省人口約3,000人，在仰光人數不詳。
 
 ## 詞源

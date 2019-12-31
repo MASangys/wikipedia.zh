@@ -1,3 +1,6 @@
+> 本文内容由[SANCTUARY](https://zh.wikipedia.org/wiki/SANCTUARY)转换而来。
+
+
 《**SANCTUARY**》 是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第五張迷你專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2018年11月26日发布。该专辑共收入7首歌曲，主打歌曲為〈Lost N Found〉。
 
 ## 背景及回歸日程

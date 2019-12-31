@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wikipedia:頁面存廢和諧討論](https://zh.wikipedia.org/wiki/Draft:Wikipedia:頁面存廢和諧討論)转换而来。
+
+
 __NOINDEX__
 
 <center>

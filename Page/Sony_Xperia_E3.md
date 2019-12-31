@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia E3](https://zh.wikipedia.org/wiki/Sony_Xperia_E3)转换而来。
+
+
 索尼**Xperia E3**是一款由[索尼生产的](../Page/索尼移动通信.md "wikilink")[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智能手机](../Page/智能手机.md "wikilink")。它于2014年9月3日在[IFA](../Page/柏林國際廣播展.md "wikilink") 2014年发布，就像一部移动电话一样，于2014年9月3日在市场上推出，成为索尼Xperia E1的继承者。\[1\]
 
 ## 屏幕

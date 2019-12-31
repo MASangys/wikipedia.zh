@@ -1,3 +1,6 @@
+> 本文内容由[CAL-27](https://zh.wikipedia.org/wiki/CAL-27)转换而来。
+
+
 **CAL 27**（亦稱**ATCC CRL-2095**、**Centre Antoine Lacassagne-27**）是常用於科研用途的永生[人類](../Page/人類.md "wikilink")[舌頭](https://zh.wikipedia.org/wiki/舌頭 "wikilink")[鱗狀細胞癌](https://zh.wikipedia.org/wiki/鱗狀細胞癌 "wikilink")，最初是分離自一名56歲的[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")[舌癌](https://zh.wikipedia.org/wiki/舌岩 "wikilink")[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")\[1\]。CAL 27是在沒有[表皮生長因子或](https://zh.wikipedia.org/wiki/表皮生長因子 "wikilink")[成纖維細胞飼養層的](https://zh.wikipedia.org/wiki/成纖維細胞 "wikilink")[培養基中分離的細胞系](https://zh.wikipedia.org/wiki/培養基 "wikilink")，不會受[海拉細胞的](https://zh.wikipedia.org/wiki/海拉細胞 "wikilink")[污染](../Page/污染.md "wikilink")，並且保留原始[馬爾皮吉氏小管](https://zh.wikipedia.org/wiki/馬氏管 "wikilink")[上皮組織](../Page/上皮組織.md "wikilink")的某些特徵\[2\]。CAL 27細胞的相對較長，長達35[小時](https://zh.wikipedia.org/wiki/小時 "wikilink")\[3\]。
 
 ## 科研用途

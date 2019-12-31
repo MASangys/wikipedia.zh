@@ -1,3 +1,6 @@
+> 本文内容由[令和COSTA行橋車站](https://zh.wikipedia.org/wiki/令和COSTA行橋車站)转换而来。
+
+
 **令和COSTA行橋車站**（），位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[行橋市](../Page/行橋市.md "wikilink")，是[平成筑豐鐵道](../Page/平成筑豐鐵道.md "wikilink")[田川線](../Page/田川線.md "wikilink")的鐵路車站。
 
 ## 概要

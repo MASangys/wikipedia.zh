@@ -1,3 +1,6 @@
+> 本文内容由[Pentagon演唱會列表](https://zh.wikipedia.org/wiki/Pentagon演唱會列表)转换而来。
+
+
 **Pentagon演唱會列表**主要列出[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")**，自2016年出道至今，所參與的演唱會、見面會、大型活動及其他演出。該團體隸屬於[Cube娛樂](../Page/Cube娛樂.md "wikilink")，以同名[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《Pentagon》在2016年10月10日正式出道。
 
 ### 演唱會及Showcase

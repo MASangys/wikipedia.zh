@@ -1,3 +1,6 @@
+> 本文内容由[IDispatch](https://zh.wikipedia.org/wiki/IDispatch)转换而来。
+
+
 **IDispatch**[介面是](../Page/介面_\(資訊科技\).md "wikilink")[组件对象模型](../Page/组件对象模型.md "wikilink")（COM）中的标准介面，也称**自动化**（Automation）接口，继承自[IUnknown](../Page/IUnknown.md "wikilink")，用于讓其他函式使用协议\[1\]。COM規格書\[2\]規定COM物件应该是三种接口类型中的至少一种：
 
   - 基于虚表（vtable）的[IUnknown](../Page/IUnknown.md "wikilink")的定制接口；

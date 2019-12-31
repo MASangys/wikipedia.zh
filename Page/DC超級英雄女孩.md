@@ -1,3 +1,6 @@
+> 本文内容由[DC超級英雄女孩](https://zh.wikipedia.org/wiki/DC超級英雄女孩)转换而来。
+
+
 **DC超級英雄女孩**（）是由[華納兄弟和](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC娛樂於](../Page/DC漫畫.md "wikilink")2015年推出的美國[超級英雄人物公仔系列和網絡動畫系列](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Good Morning Show](https://zh.wikipedia.org/wiki/Good_Morning_Show)转换而来。
+
+
 『**早晨！ 動新聞**』是一部於2016年10月8日上映的日本電影。第40屆[蒙特利爾世界電影節](../Page/蒙特利爾世界電影節.md "wikilink")的參展作品。
 
 ## 演員

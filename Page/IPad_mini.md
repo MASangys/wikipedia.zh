@@ -1,3 +1,6 @@
+> 本文内容由[IPad mini](https://zh.wikipedia.org/wiki/IPad_mini)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:IPad_mini4.jpg "fig:缩略图")\]\] iPad mini是[苹果公司自从](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年起发售的一个小尺寸[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑系列](../Page/平板電腦.md "wikilink")。截止2019年3月，该系列已包括[iPad mini 第一代](../Page/IPad_mini_\(第一代\).md "wikilink")、[iPad mini 2](../Page/IPad_mini_2.md "wikilink")、[iPad mini 3](../Page/IPad_mini_3.md "wikilink")、[iPad mini 4和](../Page/IPad_mini_4.md "wikilink")[iPad mini 第五代](../Page/IPad_mini_\(第五代\).md "wikilink")。该系列平板电脑均使用7.9英寸屏幕，左右窄边框设计和一体化铝合金机身。自从第二代起，iPad mini系列均搭载[视网膜显示屏](../Page/Retina显示屏.md "wikilink")；自第三代起，iPad mini搭载了[触控 ID](../Page/触控_ID.md "wikilink")。在其他配置方面，各代iPad mini都与同代9.7英寸iPad产品相近。各代iPad mini均搭载发售时最新的[iOS系统并提供免费更新](../Page/IOS.md "wikilink")。\[1\]
 
 ## 历史

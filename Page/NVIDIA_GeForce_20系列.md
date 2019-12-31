@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 20系列](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_20系列)转换而来。
+
+
 **NVIDIA GeForce RTX 20系列**，是由[NVIDIA開發的圖形處理器系列](../Page/英伟达.md "wikilink")。本系列於2018年8月20日的[Gamescom](../Page/Gamescom.md "wikilink")（科隆遊戲展）上發表，是[GeForce GTX 10系列的後續版本](../Page/NVIDIA_GeForce_10系列.md "wikilink")。\[1\]\[2\]\[3\]本系列首發產品是GeForce RTX 2080及2080Ti，2018年9月20日正式發售\[4\]。此系列產品新命名為RTX，而未沿用推出多年的GTX，以突顯支援光线跟踪的特色。
 
 ## 架构特性

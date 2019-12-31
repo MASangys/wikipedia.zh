@@ -1,3 +1,6 @@
+> 本文内容由[Living Bird](https://zh.wikipedia.org/wiki/Living_Bird)转换而来。
+
+
 《**Living Bird**》 是[康乃爾鳥類學實驗室](../Page/康乃爾鳥類學實驗室.md "wikilink")每3个月出版一次的一册[杂志](../Page/杂志.md "wikilink")。康乃爾鳥類學實驗室的会员每3个月会收到一册杂志。
 
 ## 内容

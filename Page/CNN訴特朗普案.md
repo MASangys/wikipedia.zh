@@ -1,3 +1,6 @@
+> 本文内容由[CNN訴特朗普案](https://zh.wikipedia.org/wiki/CNN訴特朗普案)转换而来。
+
+
 **CNN訴特朗普案**，是因為2018年11月7日，[CNN](../Page/有线电视新闻网.md "wikilink")[記者](../Page/記者.md "wikilink")[吉姆·阿科斯塔](../Page/吉姆·阿科斯塔.md "wikilink")在[中期选举结束后的白宫记者会上](https://zh.wikipedia.org/wiki/2018年美国中期选举 "wikilink")，和总统[特朗普展开激烈争吵後的爭議事件的訴訟](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")。\[1\]\[2\]因而入稟華盛頓地區法院，控告[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[特朗普及其數名幕僚](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")，要求立即恢復旗下首席白宮記者[吉姆·阿科斯塔](../Page/吉姆·阿科斯塔.md "wikilink")的採訪權所引起的法律訴訟。
 
 ## 事件過程

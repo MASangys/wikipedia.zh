@@ -1,3 +1,6 @@
+> 本文内容由[火舞艷陽Remix](https://zh.wikipedia.org/wiki/火舞艷陽Remix)转换而来。
+
+
 《'''火舞艷陽Remix '''》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於1994年推出\[1\]，專輯收錄了四首粵語歌曲，當中包括《火舞艷陽》的混音版本，以及電視劇《[阿Sir早晨](../Page/阿Sir早晨.md "wikilink")》主題曲《陽光》。
 
 ## 製作概念

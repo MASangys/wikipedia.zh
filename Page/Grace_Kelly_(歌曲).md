@@ -1,3 +1,6 @@
+> 本文内容由[Grace Kelly \(歌曲\)](https://zh.wikipedia.org/wiki/Grace_Kelly_\(歌曲\))转换而来。
+
+
 《**Grace Kelly**》（字面意思：*格蕾絲•凱莉*）是[英國歌手米卡](../Page/米卡_\(歌手\).md "wikilink")（MIKA）於2007年發行的一首歌，收錄於其2007年專輯《[卡通人生](../Page/卡通人生.md "wikilink")》上，由製作和混音。這首歌曾進入[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")第三名和英國官方下載榜（）第一名。一周後，它躍升至英國單曲榜榜首，維持了五個星期，並於2007年底成為該國第三大暢銷單曲。\[1\]在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，《Grace Kelly》於2007年1月16日開始供數字下載，在**的2007年百強熱門排行榜上排名第89位。\[2\]
 
 《Grace Kelly》意在嘲諷為了迎合大眾期望而強行改造自己的歌手。

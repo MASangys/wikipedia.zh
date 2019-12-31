@@ -1,3 +1,6 @@
+> 本文内容由[F-liner](https://zh.wikipedia.org/wiki/F-liner)转换而来。
+
+
 **F-liner**是[横滨高速铁道](https://zh.wikipedia.org/wiki/横滨高速铁道 "wikilink")、[东京急行电铁](https://zh.wikipedia.org/wiki/东京急行电铁 "wikilink")（东急）、[东京地下铁](https://zh.wikipedia.org/wiki/东京地下铁 "wikilink")（东京metro）、[西武铁道](https://zh.wikipedia.org/wiki/西武铁道 "wikilink")、[东武铁道间开行的直通运转列车之爱称](../Page/東武鐵道.md "wikilink")。\[1\]本列车在上述五社线路中均被归入平日非高峰期的最高速等级列车。
 
 ## 概要

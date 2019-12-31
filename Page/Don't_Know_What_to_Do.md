@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t Know What to Do](https://zh.wikipedia.org/wiki/Don\'t_Know_What_to_Do)转换而来。
+
+
 《**Don't Know What to Do**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的歌曲，收錄於她們的第二張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Kill This Love](../Page/Kill_This_Love.md "wikilink")》中，作為專輯的副主打歌曲由[Genie音樂](../Page/Genie音樂.md "wikilink")、YG Plus和[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")於2019年4月5日釋出。歌曲是由[泰迪](../Page/泰迪·朴.md "wikilink")、24、、和R.Tee共同創作，泰迪亦是這首歌曲的主要製作人。
 
 ## 背景

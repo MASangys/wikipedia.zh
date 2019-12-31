@@ -1,3 +1,6 @@
+> 本文内容由[DUCKS scéno](https://zh.wikipedia.org/wiki/DUCKS_scéno)转换而来。
+
+
 **Ducks Scéno**（正式法文名：**dUCKS scéno**）是一家[法国的专业](https://zh.wikipedia.org/wiki/法国 "wikilink")[顾问公司](https://zh.wikipedia.org/wiki/顾问公司 "wikilink")，专注于舞台场景设计（Scenography）及博物馆展览展示设计（Museography）；也是一家掌握多种重要技术的工程设计单位；提供设计、工程技术等建筑相关领域的咨询设计服务。项目遍及全球30多个国家，涉及戏剧院、歌剧院、现代音乐厅、交响音乐厅、美术馆、博物馆、艺术基金会、会议中心、体育场、公共广场、花园、图书馆、校园等文化建筑。
 
 ## 历史

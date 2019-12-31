@@ -1,3 +1,6 @@
+> 本文内容由[Yes一族](https://zh.wikipedia.org/wiki/Yes一族)转换而来。
+
+
 是1991年出品的一部香港電影，由羅卓瑤執導，[黎明](../Page/黎明.md "wikilink")、[李克勤](../Page/李克勤.md "wikilink")、[草蜢](../Page/草蜢_\(組合\).md "wikilink")、[周慧敏](../Page/周慧敏.md "wikilink")、[區海倫](../Page/區海倫.md "wikilink")、[桑妮等主演](https://zh.wikipedia.org/wiki/桑妮 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 情節介紹

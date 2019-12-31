@@ -1,3 +1,6 @@
+> 本文内容由[NBA 2K20](https://zh.wikipedia.org/wiki/NBA_2K20)转换而来。
+
+
 **NBA 2K20**是一款在2019年9月6日推出的籃球模擬遊戲，由[Visual Concepts開發](../Page/Visual_Concepts.md "wikilink")，由[2K Sports發行](../Page/2K_Sports.md "wikilink")，是[NBA 2K系列的第](../Page/NBA_2K系列.md "wikilink")21款遊戲，也是[NBA 2K19的下一代](../Page/NBA_2K19.md "wikilink")，該遊戲的標準版和豪華版的封面人物皆是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA](../Page/NBA.md "wikilink")籃球隊[洛杉磯湖人的球星](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")[安東尼·戴維斯](https://zh.wikipedia.org/wiki/安東尼·戴維斯 "wikilink") ，而傳奇版的封面人物則是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA](../Page/NBA.md "wikilink")籃球隊[邁阿密熱火已退休球星](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[德韋恩·韋德](https://zh.wikipedia.org/wiki/德韋恩·韋德 "wikilink")。\[1\]
 
 這次作品史前無例地獲得了極大量的負評，主要的吐嘈點太多漏洞，對電腦的優化差也是其中一個原因。2K20目前在[steam的整體評價是壓倒性負評](https://zh.wikipedia.org/wiki/steam "wikilink")。10月初在[休斯敦火箭时任总经理](https://zh.wikipedia.org/wiki/休斯敦火箭 "wikilink")[莫雷发表](../Page/达雷尔·莫雷.md "wikilink")[挺港言论后](https://zh.wikipedia.org/wiki/2019年NBA撑港争议事件 "wikilink")，本作乃至整个[NBA 2K系列更是遭到了中国大陆玩家的抵制](../Page/NBA_2K系列.md "wikilink")。

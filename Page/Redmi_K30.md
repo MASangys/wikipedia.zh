@@ -1,3 +1,6 @@
+> 本文内容由[Redmi K30](https://zh.wikipedia.org/wiki/Redmi_K30)转换而来。
+
+
 **Redmi K30**是小米科技旗下的子品牌[Redmi](../Page/Redmi.md "wikilink")（原红米手机系列）于2019年12月10日在北京发布的智能手机系列，包含Redmi K30（4G）和Redmi K30（5G）两款机型，为Redmi K系列的第二代迭代机型系列。
 
 ## 简介

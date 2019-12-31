@@ -1,3 +1,6 @@
+> 本文内容由[絕地戰警FOR LIFE](https://zh.wikipedia.org/wiki/絕地戰警FOR_LIFE)转换而来。
+
+
 《**絕地戰警FOR LIFE**》（）是一部預定於2020年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[動作](../Page/動作片.md "wikilink")[喜劇電影](../Page/喜劇電影.md "wikilink")。本片為2003年電影《[絕地戰警2](https://zh.wikipedia.org/wiki/絕地戰警2 "wikilink")》的續集，由執導。主演包括[威爾·史密斯](../Page/威爾·史密斯.md "wikilink")、[馬汀·勞倫斯](../Page/馬汀·勞倫斯.md "wikilink")和。
 
 電影定於2020年1月17日在美國上映，並由[哥倫比亞影業](../Page/哥倫比亞影業.md "wikilink")發行。

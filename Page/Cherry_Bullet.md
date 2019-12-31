@@ -1,3 +1,6 @@
+> 本文内容由[Cherry Bullet](https://zh.wikipedia.org/wiki/Cherry_Bullet)转换而来。
+
+
 **Cherry Bullet**（；），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下的女子組合。最初由10名成員組成，現任成員包括五名韓國成員[海允](../Page/海允.md "wikilink")、[裕姝](../Page/裕姝.md "wikilink")、[紫蘿](../Page/紫蘿.md "wikilink")、[智媛](../Page/智媛.md "wikilink")、[彩麟](../Page/彩麟.md "wikilink")，兩名日本成員[莉美](../Page/Remi_\(Cherry_Bullet\).md "wikilink")、[MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink")\[1\]\[2\]\[3\]。2019年1月21日以首張單曲專輯《[Let's Play Cherry Bullet](../Page/Let's_Play_Cherry_Bullet.md "wikilink")》正式出道\[4\]\[5\]。
 
 ## 團體資料

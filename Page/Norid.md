@@ -1,3 +1,6 @@
+> 本文内容由[Norid](https://zh.wikipedia.org/wiki/Norid)转换而来。
+
+
 **Uninett Norid AS**，[商业名称为](../Page/商業名稱.md "wikilink")**Norid**，成立于1996年，是[挪威](../Page/挪威.md "wikilink")的三个[国家代码顶级域名](https://zh.wikipedia.org/wiki/国家代码顶级域名 "wikilink")——、和的[域名注册局](https://zh.wikipedia.org/wiki/域名注册局 "wikilink")。这家[非盈利公司总部设在挪威](https://zh.wikipedia.org/wiki/非盈利 "wikilink")[特隆赫姆](../Page/特隆赫姆.md "wikilink")，与其母公司共享办公室，而这两家公司都归所有。Norid是在监管下，与[互联网号码分配局](../Page/互联网号码分配局.md "wikilink")签订合同的情况下运营的。
 
 ## 历史

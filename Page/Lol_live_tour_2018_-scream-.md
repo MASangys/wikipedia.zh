@@ -1,3 +1,6 @@
+> 本文内容由[Lol live tour 2018 -scream-](https://zh.wikipedia.org/wiki/Lol_live_tour_2018_-scream-)转换而来。
+
+
 『*lol live tour 2018 -scream-*』是日本唱跳團體[lol在](https://zh.wikipedia.org/wiki/lol_\(團體\) "wikilink")2019年1月30日發售的影像作品。\[1\]
 
 ## 収録曲

@@ -1,3 +1,6 @@
+> 本文内容由[Stone Music Entertainment](https://zh.wikipedia.org/wiki/Stone_Music_Entertainment)转换而来。
+
+
 **Stone Music Entertainment**，是一間[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，隸屬於[CJ E\&M](../Page/CJ_E&M.md "wikilink")，總部設在[首爾](../Page/首爾.md "wikilink")，該公司曾名為**Mnet Media**和**CJ E\&M Music**。許多知名藝人如[李孝利](../Page/李孝利.md "wikilink")、[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[SeeYa](../Page/SeeYa.md "wikilink")等都曾是**Stone Music Entertainment**前身**Mnet Media**的一員。
 
 ## 業務

@@ -1,3 +1,6 @@
+> 本文内容由[E School Life](https://zh.wikipedia.org/wiki/E_School_Life)转换而来。
+
+
 是[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2019年5月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

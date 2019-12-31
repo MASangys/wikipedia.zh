@@ -1,3 +1,6 @@
+> 本文内容由[Fiancé](https://zh.wikipedia.org/wiki/Fiancé)转换而来。
+
+
 《**Fiancé**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")的成員[宋旻浩錄製的歌曲](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，作為收錄於他的首張韓語正規專輯《[XX](../Page/XX_\(專輯\).md "wikilink")》中，歌曲由[Genie音樂](../Page/Genie音樂.md "wikilink")發行於2018年11月26日\[1\]。宋旻浩是《Fiancé》的主要製作人，除了獨立填詞之外，他還與Future Bounce和Texu一同作曲，該歌曲亦採樣了韓國70年代的歌謠《》，在嘻哈風格的結構上，添加充滿韓國人的情感與東洋曲風的感覺。
 
 ## 背景及宣傳

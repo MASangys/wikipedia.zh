@@ -1,3 +1,6 @@
+> 本文内容由[Laysha](https://zh.wikipedia.org/wiki/Laysha)转换而来。
+
+
 **Laysha**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JS Entertainment旗下所屬的四人](https://zh.wikipedia.org/wiki/JS_Entertainment "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")，在2015年5月12日推出首張單曲《Laysha》。
 
 ## 成員

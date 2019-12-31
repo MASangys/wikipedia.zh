@@ -1,3 +1,6 @@
+> 本文内容由[GNU parallel](https://zh.wikipedia.org/wiki/GNU_parallel)转换而来。
+
+
 GNU **parallel**是用于[Linux](../Page/Linux.md "wikilink")和其他[类Unix操作系统的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[命令行驱动的实用工具](https://zh.wikipedia.org/wiki/命令行 "wikilink")，它允许用户[并行的执行](../Page/并行计算.md "wikilink")[shell脚本](../Page/Bourne_shell.md "wikilink")。GNU parallel是Ole Tange用[Perl](../Page/Perl.md "wikilink")写的[自由软件](../Page/自由软件.md "wikilink")。它可在[GPLv3条款下获得](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")\[1\]。GNU parallel可以在远程服务器上运行[作业](https://zh.wikipedia.org/wiki/作业_\(计算机\) "wikilink")，它使用[ssh与远程机器进行通信](../Page/Secure_Shell.md "wikilink")。
 
 ## 用法

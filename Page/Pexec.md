@@ -1,3 +1,6 @@
+> 本文内容由[Pexec](https://zh.wikipedia.org/wiki/Pexec)转换而来。
+
+
 **pexec**是用于[Linux](../Page/Linux.md "wikilink")和其他[类Unix操作系统的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[命令行实用工具](https://zh.wikipedia.org/wiki/命令行 "wikilink")，它允许用户[并行的执行](../Page/并行计算.md "wikilink")[shell](../Page/Bourne_shell.md "wikilink")[命令](../Page/命令_\(计算机\).md "wikilink")。指定代码可以要么在本地要么在远程主机上执行，它使用[ssh与远程主机建立安全通道](../Page/Secure_Shell.md "wikilink")。类似于shell循环，在循环开始任务重复时变更一个变量，它可以将多个值传递给指定命令或脚本。pexec是[自由软件](../Page/自由软件.md "wikilink")实用工具，是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")\[1\]，它可在[GPLv3条款下获得](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")\[2\]，是当前[Debian](../Page/Debian.md "wikilink")稳定发行版的一部分\[3\]。
 
 ## 用法

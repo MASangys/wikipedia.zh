@@ -1,3 +1,6 @@
+> 本文内容由[Smart Beta](https://zh.wikipedia.org/wiki/Smart_Beta)转换而来。
+
+
 **Smart Beta** [投资](../Page/投资.md "wikilink")策略（也被称为 Advanced Beta 或 Alternative Beta）通过增强一个或多个不同因子的特征，对基金资产进行选股及个股权重上的优化。基于透明且固定规则的投资策略，非市值加权，被动交易，期望实现超过传统[指数基金](../Page/指数基金.md "wikilink")获取的 Beta 收益。（在投资领域内“Beta”指来源于整体投资市场的平均收益，传统市值加权的指数基金，目标就是获取整体投资市场的平均收益；“Alpha”则指投资市场的超额收益，主动管理型基金的目标就是获取市场的超额收益。）Smart Beta 策略目前多用于投资于[股票市场](../Page/股票市场.md "wikilink")的指数基金，有不同策略的 Smart Beta 指数供 Smart Beta 指数基金追踪，但在债券等其他领域也有应用。Smart Beta 策略基金管理费一般高于传统的指数基金，但低于主动型证券投资基金。
 
 ## 理论基础

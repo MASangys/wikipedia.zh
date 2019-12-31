@@ -1,3 +1,6 @@
+> 本文内容由[VANNER](https://zh.wikipedia.org/wiki/VANNER)转换而来。
+
+
 **VANNER**（韓語：**배너**），是[韓國VT娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的五人男子組合\[1\]\[2\]\[3\]，成員包括泰奐、Gon、彗星、Ahxian及永光。
 
 ## 成員資料

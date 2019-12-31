@@ -1,3 +1,6 @@
+> 本文内容由[Queendom \(韓國綜藝\)](https://zh.wikipedia.org/wiki/Queendom_\(韓國綜藝\))转换而来。
+
+
 《**Queendom**》（），為韓國[Mnet](../Page/Mnet.md "wikilink")電視台於2019年8月推出的綜藝節目\[1\]，由[李多熙及](../Page/李多熙_\(演員\).md "wikilink")[張聖圭](../Page/張聖圭.md "wikilink")主持\[2\]，節目主軸為同時發行新單曲的6組K-POP大勢女團（[朴春](../Page/朴春.md "wikilink")、[AOA](../Page/AOA.md "wikilink")、[MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")、[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")、[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）回歸大戰。最終一位能獲得單獨的回歸秀\[3\]\[4\]。10月31日最終舞台對決，冠軍由MAMAMOO拿下。
 
 ## 节目内容

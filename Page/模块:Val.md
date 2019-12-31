@@ -1,3 +1,6 @@
+> 本文内容由[模块:Val](https://zh.wikipedia.org/wiki/模块:Val)转换而来。
+
+
 \-- For Template:Val, output a number and optional unit. -- Format options include scientific and uncertainty notations.
 
 local data_module = 'Module:Val/units' local convert_module = 'Module:Convert'

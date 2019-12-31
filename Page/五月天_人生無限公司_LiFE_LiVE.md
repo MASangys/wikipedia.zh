@@ -1,3 +1,6 @@
+> 本文内容由[五月天 人生無限公司 LiFE LiVE](https://zh.wikipedia.org/wiki/五月天_人生無限公司_LiFE_LiVE)转换而来。
+
+
 ，是[五月天](../Page/五月天.md "wikilink")演唱會電影《[五月天人生無限公司3D](../Page/五月天人生無限公司3D.md "wikilink")》的電影原聲音樂[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。由[相信音樂](../Page/相信音樂.md "wikilink")製作發行，共收錄36首歌曲，數位版本於2019年5月23日在各大音樂平台上線，實體專輯於2019年5月22日在全台 7-ELEVEN ibon 機台及各大唱片通路開始預購，並於6月5日正式發行\[1\]\[2\]\[3\]。
 
 ## 曲目

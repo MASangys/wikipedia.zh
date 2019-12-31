@@ -1,3 +1,6 @@
+> 本文内容由[JK 金東昱](https://zh.wikipedia.org/wiki/JK_金東昱)转换而来。
+
+
 **JK 金東昱**（，）是一名[韓國男](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")。
 
 ## 專輯

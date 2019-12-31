@@ -1,3 +1,6 @@
+> 本文内容由[ER=EPR](https://zh.wikipedia.org/wiki/ER=EPR)转换而来。
+
+
 [Wormhole-demo.png](https://zh.wikipedia.org/wiki/File:Wormhole-demo.png "fig:Wormhole-demo.png") [Entanglement.PNG](https://zh.wikipedia.org/wiki/File:Entanglement.PNG "fig:Entanglement.PNG") 在[物理學裡](https://zh.wikipedia.org/wiki/物理學 "wikilink")，**ER=EPR**[猜想](../Page/猜想.md "wikilink")表明，兩個[量子糾纏的粒子彼此之間的連結是一個](https://zh.wikipedia.org/wiki/量子糾纏 "wikilink")[蟲洞](https://zh.wikipedia.org/wiki/蟲洞 "wikilink")（愛因斯坦-羅森橋）。 「ER」是英文「Einstein–Rosen」（愛因斯坦-羅森）的簡寫，指的是愛因斯坦-羅森橋，其主要論題為連接兩個黑洞的隧道的存在的可能性。「EPR」是「Einstein–Podolsky–Rosen」（愛因斯坦-波多爾斯基-羅森）的簡寫，指的是[愛因斯坦-波多爾斯基-羅森弔詭](https://zh.wikipedia.org/wiki/愛因斯坦-波多爾斯基-羅森弔詭 "wikilink")，其主要論題為兩個微觀粒子彼此之間的量子糾纏關係。\[1\]ER=EPR猜想試圖揭露[時空幾何](https://zh.wikipedia.org/wiki/時空 "wikilink")、[量子場論](https://zh.wikipedia.org/wiki/量子場論 "wikilink")、[量子信息](../Page/量子信息.md "wikilink")理論這幾個學術領域彼此之間的關係。\[2\]
 
 ## 概述

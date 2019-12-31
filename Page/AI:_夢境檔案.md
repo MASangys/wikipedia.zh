@@ -1,3 +1,6 @@
+> 本文内容由[AI: 夢境檔案](https://zh.wikipedia.org/wiki/AI:_夢境檔案)转换而来。
+
+
 是由[Spike Chunsoft製作與發行的](../Page/Spike_Chunsoft.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2019年9月在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台推出。
 
 遊戲以現代東京做為舞台，扮演一位特殊搜查班的年輕警官，憑藉著特殊技術在現實與夢境之中進行調查，以解開隱藏在神秘殺人事件背後的真相。此外，本作也支援繁體中文字幕。

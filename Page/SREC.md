@@ -1,3 +1,6 @@
+> 本文内容由[SREC](https://zh.wikipedia.org/wiki/SREC)转换而来。
+
+
 **Motorola S-record**是[摩托罗拉](../Page/摩托罗拉.md "wikilink")公司所創立的檔案格式，可以將二進制的資訊轉換為用[ASCII](../Page/ASCII.md "wikilink")文字表示的[十六进制](../Page/十六进制.md "wikilink")資料，此檔案格式也稱為**SRECORD**、**SREC**、**S19**、**S28**、**S37**或**MOT**。此檔案格式常用在微處理器的[闪存](../Page/闪存.md "wikilink")資料寫入，[EPROM](../Page/可擦除可規劃式唯讀記憶體.md "wikilink")、[EEPROM的資料寫入](../Page/電子抹除式可複寫唯讀記憶體.md "wikilink")，或是其他可編程邏輯元件的編程寫入。一般的應用中，會用[編譯器](../Page/編譯器.md "wikilink")或是[組譯器將程式的](https://zh.wikipedia.org/wiki/組譯器 "wikilink")[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")（可能是[C語言或是](https://zh.wikipedia.org/wiki/C語言 "wikilink")[組合語言](https://zh.wikipedia.org/wiki/組合語言 "wikilink")）轉換為[機器碼](https://zh.wikipedia.org/wiki/機器碼 "wikilink")，再輸出為S-record或其他格式檔案。燒錄器可以讀取這些檔案，將機器碼寫入[非揮發性記憶體](../Page/非揮發性記憶體.md "wikilink")中，或是截入到目的系統中，以便執行。
 
 ## 簡介

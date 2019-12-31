@@ -1,3 +1,6 @@
+> 本文内容由[Cairo \(作業系統\)](https://zh.wikipedia.org/wiki/Cairo_\(作業系統\))转换而来。
+
+
 **Cairo**（亦稱**Microsoft Windows Cairo**、**Windows Cairo**、**Microsoft Cairo**\[1\]）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電腦公司](https://zh.wikipedia.org/wiki/電腦 "wikilink")[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")1991年至1996年間進行的一項[作業系統開發計畫](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，目的為打造次世代作業系統所需的科技，以期實現時任微軟董事長[比爾·蓋茲所述](https://zh.wikipedia.org/wiki/比爾·蓋茲 "wikilink")「資訊觸手可及」（"information at your fingertips"）的願景\[2\]。Cairo從未實際發行，不過其使用的部分技術仍然可見於其他微軟產品之中。
 
 ## 概要

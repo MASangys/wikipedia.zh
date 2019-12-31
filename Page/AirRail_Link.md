@@ -1,3 +1,6 @@
+> 本文内容由[AirRail Link](https://zh.wikipedia.org/wiki/AirRail_Link)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Bham3.jpg "fig:缩略图")连接[伯明翰机场](../Page/伯明翰机场.md "wikilink")和机场火车站\]\] **AirRail Link**是连接[伯明翰机场](../Page/伯明翰机场.md "wikilink")、[伯明翰国际火车站和](https://zh.wikipedia.org/wiki/伯明翰国际火车站 "wikilink")[英国国家展览中心的客运列车](https://zh.wikipedia.org/wiki/英国国家展览中心 "wikilink")。 目前的系统最初被称为 SkyRail，在2003年取代了早期的**伯明翰磁悬浮系统**。
 
 伯明翰磁悬浮系统于1984年投入使用，是世界上第一个商业化的磁悬浮交通系统。 该系统是完全自动化的，使用了一个高架混凝土导轨，其中大部分已被重用于目前的**AirRail Link**系统。

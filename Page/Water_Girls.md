@@ -1,3 +1,6 @@
+> 本文内容由[Water Girls](https://zh.wikipedia.org/wiki/Water_Girls)转换而来。
+
+
 《**Water Girls**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel A於](../Page/Channel_A.md "wikilink")2018年推出的綜藝節目\[1\]，由[金智英](https://zh.wikipedia.org/wiki/金智英 "wikilink")、[崔汝珍](../Page/崔汝珍.md "wikilink")、[金希珍](https://zh.wikipedia.org/wiki/金希珍 "wikilink")、[洪允和](../Page/洪允和.md "wikilink")、[多榮等人共同主持](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，節目主軸為以MC們在[濟州島親自挑戰海女採集的過程為主](https://zh.wikipedia.org/wiki/濟州島 "wikilink")\[2\]。
 
 ## 各集內容

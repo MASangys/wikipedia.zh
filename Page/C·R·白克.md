@@ -1,3 +1,6 @@
+> 本文内容由[C·R·白克](https://zh.wikipedia.org/wiki/C·R·白克)转换而来。
+
+
 **查爾斯·「查克」·雷金納德·白克**（，），[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人](../Page/商人.md "wikilink")和業餘[騎師](../Page/騎師.md "wikilink")，與兄長[A·W·白克](../Page/A·W·白克.md "wikilink")同是[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[祥茂洋行](../Page/祥茂洋行.md "wikilink")合夥人。
 
 白克生於[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，父親[A·R·白克](../Page/A·R·白克.md "wikilink")是祥茂創辦人之一。早年跟隨兄長被送到英國接受教育後，他於1890年代初返回上海加入祥茂，並與兄長一同於1897年接替退休的父親成為祥茂合夥人。祥茂除了從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，也包攬[地產和一般](https://zh.wikipedia.org/wiki/地產 "wikilink")[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")，到白克兄弟接手後還開展[英屬馬來亞](../Page/英屬馬來亞.md "wikilink")的[橡膠](../Page/橡膠.md "wikilink")和地產事業。[第一次世界大戰期間](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，[香港政府在](https://zh.wikipedia.org/wiki/香港政府 "wikilink")1918年向祥茂在內多家上海和[香港](../Page/香港.md "wikilink")商號徵用船隻作戰時用途，但戰後港府被指計劃把徵用船隻的收益用於香港的民生事務，而非撥歸受影響船東，引起船東不滿。港府後來更於1922年通過《[彌償條例](https://zh.wikipedia.org/wiki/彌償條例 "wikilink")》，免除港府責任，促使白克對港府作出多番批評。

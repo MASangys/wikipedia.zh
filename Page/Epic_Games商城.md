@@ -1,3 +1,6 @@
+> 本文内容由[Epic Games商城](https://zh.wikipedia.org/wiki/Epic_Games商城)转换而来。
+
+
 **Epic Games商城**（）是[Epic Games在](../Page/Epic_Games.md "wikilink")2018年12月推出的[數位遊戲發行平台](https://zh.wikipedia.org/wiki/数字发行 "wikilink")，支援[Microsoft Windows與](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[MacOS](../Page/MacOS.md "wikilink")。用戶可在商城中購買Epic Games或其他廠商的遊戲，並透過Epic Games客戶端下載遊戲。
 
 ## 功能特色

@@ -1,3 +1,6 @@
+> 本文内容由[Madmans Esprit](https://zh.wikipedia.org/wiki/Madmans_Esprit)转换而来。
+
+
 **Madmans Esprit**是2010年於[首爾](../Page/首爾.md "wikilink")組成的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[後黑金屬](../Page/黑金屬音樂.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，為主唱[叫號Kyuho的個人solo](https://zh.wikipedia.org/wiki/叫號Kyuho "wikilink") 活動。樂隊稱其風格為厭世自殺黑化流行樂（Depressive Suicidal Blackened Pop），以揉合[黑金屬](../Page/黑金屬音樂.md "wikilink")、[視覺系](../Page/視覺系.md "wikilink")等音樂流派與流行樂等多種元素而備受矚目\[1\]。現屬歐洲唱片廠牌\[2\]。
 
 ## 團名來源

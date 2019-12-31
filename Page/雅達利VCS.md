@@ -1,3 +1,6 @@
+> 本文内容由[雅達利VCS](https://zh.wikipedia.org/wiki/雅達利VCS)转换而来。
+
+
 ，代号**Ataribox**，是由Atari, SA預備推出的[家用游戏机](../Page/家用游戏机.md "wikilink")。本機器于2017年6月首次公开，于2018年5月30日开始預定。\[1\]尽管其设计旨在向[雅達利2600](../Page/雅達利2600.md "wikilink")致敬，但新的雅達利VCS預計能藉由基于[Linux](../Page/Linux.md "wikilink")的操作系统来執行现代游戏和[串流媒体娱乐](https://zh.wikipedia.org/wiki/串流媒体 "wikilink")，也能允许用户下载并安装其他兼容游戏。本機与[雅達利於](https://zh.wikipedia.org/wiki/雅达利 "wikilink")1977年推出的视频计算机系统（通常简称为VCS）同名；该系统在1982年末更名为雅達利2600。
 
 ## 硬體

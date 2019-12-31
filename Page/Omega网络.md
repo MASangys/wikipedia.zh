@@ -1,3 +1,6 @@
+> 本文内容由[Omega网络](https://zh.wikipedia.org/wiki/Omega网络)转换而来。
+
+
 **Omega网络**是一种常用于[并行计算](../Page/并行计算.md "wikilink")[架构的](../Page/计算机系统结构.md "wikilink")[网络配置](../Page/计算机网络.md "wikilink")。它是一个依赖于完美洗牌互联[算法](../Page/算法.md "wikilink")的非直连拓扑。
 
 [Omega_Network.jpg](https://zh.wikipedia.org/wiki/File:Omega_Network.jpg "fig:Omega_Network.jpg")

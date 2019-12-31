@@ -1,3 +1,6 @@
+> 本文内容由[VCloud Air](https://zh.wikipedia.org/wiki/VCloud_Air)转换而来。
+
+
 **vCloud Air**是一项[VMware](../Page/VMware.md "wikilink")所开发，基于的[云计算服务](https://zh.wikipedia.org/wiki/云计算 "wikilink")。vCloud Air拥有三个基础设施即服务（IaaS）订阅服务类型：独立云、[虛擬私有雲](../Page/虛擬私有雲.md "wikilink")与[灾难恢复](https://zh.wikipedia.org/wiki/灾难恢复 "wikilink")。vCloud Air同时也提供成为按需虚拟私有云（Virtual Private Cloud OnDemand）的按程收费服务。
 
 在2017年第二季度，VMware将vCloud Air售给了法国云服务提供商\[1\]。

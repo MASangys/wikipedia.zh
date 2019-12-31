@@ -1,3 +1,6 @@
+> 本文内容由[Apple A12 Bionic](https://zh.wikipedia.org/wiki/Apple_A12_Bionic)转换而来。
+
+
 **Apple A12 Bionic**（仿生）是[苹果公司设计的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[64位元](../Page/64位元.md "wikilink")系統單晶片。这款[SoC于](https://zh.wikipedia.org/wiki/SoC "wikilink")2018年9月13日发布，是世界第一款量產出貨的[7納米製程晶片](../Page/7纳米制程.md "wikilink")。首先被搭载于[iPhone XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")、[iPhone XS Max](../Page/IPhone_XS.md "wikilink")\[1\]和[iPhone XR](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")\[2\]中，随后被搭载于[2019款iPad Air与](../Page/IPad_Air_\(第三代\).md "wikilink")[iPad Mini中](../Page/IPad_mini_\(第五代\).md "wikilink")。
 
 ## 设计

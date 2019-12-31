@@ -1,3 +1,6 @@
+> 本文内容由[創世紀苗文 \(Unicode區段\)](https://zh.wikipedia.org/wiki/創世紀苗文_\(Unicode區段\))转换而来。
+
+
 **創世紀苗文**（Nyiakeng Puachue Hmong）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了1980年代被創制、用來書寫[苗語](../Page/苗語.md "wikilink")的[創世紀苗文](../Page/創世紀苗文.md "wikilink")。\[1\]
 
 ## 歷史

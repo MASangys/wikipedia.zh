@@ -1,3 +1,6 @@
+> 本文内容由[Slushii](https://zh.wikipedia.org/wiki/Slushii)转换而来。
+
+
 </ref> | genre =  | occupation =  | instrument =  | years_active = 2016–至今 | label =  | Associated_acts =  }} **朱利安·斯坎兰**（Julian Scanlan，1997年5月1日出生），艺名**Slushii**，是一位美国[洛杉矶](../Page/洛杉矶.md "wikilink")的电子舞曲音乐制作人、声乐家、和唱片骑师。\[1\]他最知名于与萌·莎莉姿（Moe Shalizi）旗下的艺人合作，例如[棉花糖](../Page/棉花糖_\(音乐人\).md "wikilink")、和，并获得了知名音乐家和厂牌创始人[史奇雷克斯](../Page/史奇雷克斯.md "wikilink")的支持。\[2\]\[3\]
 
 ## 早期生活

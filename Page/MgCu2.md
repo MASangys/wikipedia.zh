@@ -1,3 +1,6 @@
+> 本文内容由[MgCu2](https://zh.wikipedia.org/wiki/MgCu2)转换而来。
+
+
 **MgCu<sub>2</sub>**是由[镁](../Page/镁.md "wikilink")和[铜](../Page/铜.md "wikilink")构成的二元[金属间化合物](https://zh.wikipedia.org/wiki/金属间化合物 "wikilink")，属[立方晶系](../Page/立方晶系.md "wikilink")，其空间群为Fdm，晶胞参数a = 7.04 Å。\[1\]MgCu2也是一类化合物的结构类型，具有这一结构的有LaNi<sub>2</sub>、CeFe<sub>2</sub>、CeOs<sub>2</sub>、EuIr<sub>2</sub>、EuPt<sub>2</sub>、TmRh<sub>2</sub>等。\[2\]
 
 ## 制备

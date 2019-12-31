@@ -1,3 +1,6 @@
+> 本文内容由[人中之龍 Online](https://zh.wikipedia.org/wiki/人中之龍_Online)转换而来。
+
+
 是一款[世嘉](../Page/世嘉.md "wikilink")[2018年](../Page/2018年.md "wikilink")11月21日在[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Android](../Page/Android.md "wikilink")，[Microsoft Windows等平台上推出的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。採[網路遊戲免費模式](https://zh.wikipedia.org/wiki/網路遊戲免費模式 "wikilink")\[1\]。
 
 ## 概要

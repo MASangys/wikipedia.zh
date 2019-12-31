@@ -1,3 +1,6 @@
+> 本文内容由[Final Fantasy XV 口袋版](https://zh.wikipedia.org/wiki/Final_Fantasy_XV_口袋版)转换而来。
+
+
 是一款由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")開發的[角色扮演](../Page/電子角色扮演遊戲.md "wikilink")[手機遊戲](../Page/手机游戏.md "wikilink")。遊戲於2018年2月9日在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台開放下載，[Microsoft Windows平台於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")6月6日發行\[1\]\[2\]。本作的HD版本於2018年9月7日登陸[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[Xbox One平台](../Page/Xbox_One.md "wikilink")\[3\]，2018年9月14日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台\[4\]。
 
 ## 情節設定

@@ -1,3 +1,6 @@
+> 本文内容由[有關Running Man的爭議](https://zh.wikipedia.org/wiki/有關Running_Man的爭議)转换而来。
+
+
 《[Running Man](../Page/Running_Man.md "wikilink")》由2010年開播以來發生了不少具爭議性的事件，當中涉及到成員更換、成員行為問題、動漫版被指侵犯肖像權等等。其中最具爭議性的事件為節目改版風波，節目因此險遭被結束。
 
 ## 《Super 7》演唱會風波

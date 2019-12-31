@@ -1,3 +1,6 @@
+> 本文内容由[Paskal \(电影\)](https://zh.wikipedia.org/wiki/Paskal_\(电影\))转换而来。
+
+
 《**Paskal**》是一部于2018年开始拍摄的[马来西亚](../Page/马来西亚.md "wikilink")电影，导演是《结婚那件事》和《结婚那件事之后》的大马著名导演[郑建国](https://zh.wikipedia.org/wiki/郑建国_\(马来西亚\) "wikilink")。该电影以马来西亚[海军特种作战部队](../Page/海军特种作战部队.md "wikilink")为题材，叙述与该部队相关的故事。该电影的拍摄获得了马来西亚军方的支持，拍摄共耗费一千万[令吉](https://zh.wikipedia.org/wiki/令吉 "wikilink")。导演称该片更重视真实性，主题是向无名英雄致敬\[1\]\[2\]。
 
 ## 剧情

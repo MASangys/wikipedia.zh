@@ -1,3 +1,6 @@
+> 本文内容由[UCloud](https://zh.wikipedia.org/wiki/UCloud)转换而来。
+
+
 **UCloud**是一个[云计算服务平台](https://zh.wikipedia.org/wiki/云计算 "wikilink")\[1\]，创立于2012年，主要为[企业](../Page/企业.md "wikilink")提供[IaaS](https://zh.wikipedia.org/wiki/IaaS "wikilink")、[PaaS服务](https://zh.wikipedia.org/wiki/PaaS "wikilink")\[2\]。2014年，获得[中国工信部](https://zh.wikipedia.org/wiki/中国工信部 "wikilink")[IDC与](../Page/数据中心.md "wikilink")[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")[业务](../Page/业务.md "wikilink")[牌照](https://zh.wikipedia.org/wiki/牌照 "wikilink")\[3\]。
 
 UCloud总部位于[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，在[香港](../Page/香港.md "wikilink")、[伦敦](../Page/伦敦.md "wikilink")、[圣保罗以及](https://zh.wikipedia.org/wiki/圣保罗 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")等地设有运营机构与[数据中心](../Page/数据中心.md "wikilink")\[4\]。为用户提供[公有云](https://zh.wikipedia.org/wiki/公有云 "wikilink")、[混合云](https://zh.wikipedia.org/wiki/混合云 "wikilink")、[私有云](https://zh.wikipedia.org/wiki/私有云 "wikilink")、[专有云以及](https://zh.wikipedia.org/wiki/专有云 "wikilink")[AI](../Page/人工智能.md "wikilink")、[大数据](https://zh.wikipedia.org/wiki/大数据 "wikilink")[流通等服务](https://zh.wikipedia.org/wiki/流通 "wikilink")。\[5\]

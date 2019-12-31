@@ -1,3 +1,6 @@
+> 本文内容由[Jade-3 關心…心妍](https://zh.wikipedia.org/wiki/Jade-3_關心…心妍)转换而来。
+
+
 《**Jade-3 關心…心妍**》是[香港](../Page/香港.md "wikilink")女歌手[關心妍](../Page/關心妍.md "wikilink")的第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2003年04月16日由[BMA唱片發行](../Page/博美娛樂.md "wikilink")。專輯另於同年6月20日發行名為「Jade Powerful Pack」的特別版。
 
 ## 解說

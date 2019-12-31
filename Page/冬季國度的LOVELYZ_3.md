@@ -1,3 +1,6 @@
+> 本文内容由[冬季國度的LOVELYZ 3](https://zh.wikipedia.org/wiki/冬季國度的LOVELYZ_3)转换而来。
+
+
 **冬季国度的LOVELYZ 3**（又称：冬日之国的LOVELYZ 3）（）（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Lovelyz於](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")2019年舉辦的第一次單獨巡迴演唱會。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:全民造星II](https://zh.wikipedia.org/wiki/Draft:全民造星II)转换而来。
+
+
 《**全民造星II**》（英語：King Maker II）是香港電視娛樂製作的大型選秀節目，由2019年9月30日起於ViuTV播出。
 
 ## 每集內容

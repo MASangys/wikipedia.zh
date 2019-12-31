@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Tab S2 9.7](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S2_9.7)转换而来。
+
+
 **三星Galaxy Tab S2 9.7** LTE/Wi-Fi 是一款基於Android 5.0.1 的9.7吋平板電腦，由[三星電子](../Page/三星電子.md "wikilink")生產。採用用三星自家S-AMOLED屏幕\[1\]，它屬於[三星Galaxy S系列](../Page/三星Galaxy_S系列.md "wikilink")。於2015年7月20日宣布\[2\]，並於同年9月3日與[三星Galaxy Tab S2 8.0一同發布](../Page/三星Galaxy_Tab_S2_8.0.md "wikilink")。 它有 單獨 [Wi-Fi](../Page/Wi-Fi.md "wikilink") 和 Wi-Fi + [4G](../Page/4G.md "wikilink") 版本。\[3\]已停產。
 
 ## 設計

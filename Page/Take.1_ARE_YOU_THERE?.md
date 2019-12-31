@@ -1,3 +1,6 @@
+> 本文内容由[Take.1 ARE YOU THERE\?](https://zh.wikipedia.org/wiki/Take.1_ARE_YOU_THERE\?)转换而来。
+
+
 **Take.1 ARE YOU THERE?**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA X的第二張](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，也是《Take》系列的第一部，該專輯共收錄十首歌曲，包括主打曲"SHOOT OUT"，於2018年10月22日正式發售\[1\]。
 
 ## 曲目

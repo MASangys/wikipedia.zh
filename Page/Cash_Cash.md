@@ -1,3 +1,6 @@
+> 本文内容由[Cash Cash](https://zh.wikipedia.org/wiki/Cash_Cash)转换而来。
+
+
 **Cash Cash**是一个来自美国新泽西州罗斯兰的美国[电子音乐团体](../Page/電子音樂.md "wikilink")。该小组目前由三位[DJ组成](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")：Jean-Paul Makhlouf 和Alex Makhlouf 兄弟以及Samuel Frisch 。他们的音乐均由他们的三人组合制作、录制、混录并所有。\[1\]目前，他们与全球[华纳音乐集团的子公司Big](../Page/華納音樂集團.md "wikilink") Beat唱片和[大西洋唱片](../Page/大西洋唱片.md "wikilink")签约。\[2\] \[3\]迄今为止，该组合最高排名的歌曲是由[Bebe Rexha演唱的](../Page/碧碧·瑞茲莎.md "wikilink")《Take Me Home》 。截至2016年，该乐队已发行了四张正式专辑、一系列迷你专辑和单曲，为[Krewella](../Page/克魯威拉樂團.md "wikilink")、[Capital Cities](../Page/首都城市群.md "wikilink")、[Kelly Clarkson](../Page/凱莉·克萊森.md "wikilink")、[Katy Perry](../Page/凱蒂·佩芮.md "wikilink")、[Bruno Mars](../Page/布鲁诺·马尔斯.md "wikilink")、\[4\][Showtek](../Page/Showtek.md "wikilink")、\[5\] \[6\] \[7\]和[Icona Pop](../Page/Icona_Pop.md "wikilink")\[8\]等制作官方混音，并共同创作Krewella的单曲《Live for the Night》。\[9\]
 
 ## 音乐生涯

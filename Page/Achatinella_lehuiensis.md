@@ -1,3 +1,6 @@
+> 本文内容由[Achatinella lehuiensis](https://zh.wikipedia.org/wiki/Achatinella_lehuiensis)转换而来。
+
+
 ***Achatinella lehuiensis***是一种已[绝灭的](https://zh.wikipedia.org/wiki/绝灭 "wikilink")[肺螺类](../Page/肺螺類.md "wikilink")，属于，该物种是[美国](../Page/美国.md "wikilink")[夏威夷](../Page/夏威夷州.md "wikilink")[瓦胡岛的](https://zh.wikipedia.org/wiki/瓦胡岛 "wikilink")[特有种](../Page/特有種.md "wikilink")。
 
 ## 亚种

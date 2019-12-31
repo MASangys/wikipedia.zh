@@ -1,3 +1,6 @@
+> 本文内容由[Emojli](https://zh.wikipedia.org/wiki/Emojli)转换而来。
+
+
 **emojli**是一个[智能手机](../Page/智能手机.md "wikilink")平台上的[社交软件](https://zh.wikipedia.org/wiki/社交软件 "wikilink")，有[iOS版本和](https://zh.wikipedia.org/wiki/iOS "wikilink")[安卓版本](https://zh.wikipedia.org/wiki/安卓 "wikilink")。这个社交软件的特点是用户只能使用[emoji进行交流](https://zh.wikipedia.org/wiki/emoji "wikilink")，无法输入日常使用的[文字](../Page/文字.md "wikilink")，[用户名也只能够使用emoji](https://zh.wikipedia.org/wiki/用户名 "wikilink")\[1\]\[2\]\[3\]。该软件现已停止开发，不再提供服务，并删除了所有帐号。
 
 ## 开发历程

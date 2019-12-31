@@ -1,3 +1,6 @@
+> 本文内容由[OpenWebRTC](https://zh.wikipedia.org/wiki/OpenWebRTC)转换而来。
+
+
 **OpenWebRTC** （OWR）是一个自由[软件堆栈](../Page/解决方案堆栈.md "wikilink")，它实现了[WebRTC](../Page/WebRTC.md "wikilink")标准，一套由[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）和[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）定义的协议和[应用程序编程接口](../Page/应用程序接口.md "wikilink")。它是基于[Global IP Solutions](../Page/Global_IP_Solutions.md "wikilink")（GIPS）软件的参考实现的替代方案。
 
 它根据[BSD许可证](../Page/BSD许可证.md "wikilink")并正式支持[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Linux](../Page/Linux.md "wikilink")，[OS X和](../Page/MacOS.md "wikilink")[Android](../Page/Android.md "wikilink")操作系统。它还可以在Web浏览器之外工作，例如为本机[流動應用程式](../Page/流動應用程式.md "wikilink")提供支持 。

@@ -1,3 +1,6 @@
+> 本文内容由[罗伯特·F·伍德沃德](https://zh.wikipedia.org/wiki/罗伯特·F·伍德沃德)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Robert_F._Woodward_1961.jpg "fig:右") **罗伯特·福布斯·伍德沃德**（）是一位美国外交官，专注于[美国](../Page/美国.md "wikilink")与[拉丁美洲](../Page/拉丁美洲.md "wikilink")的关系。
 
 ## 生平

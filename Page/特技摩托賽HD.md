@@ -1,3 +1,6 @@
+> 本文内容由[特技摩托賽HD](https://zh.wikipedia.org/wiki/特技摩托賽HD)转换而来。
+
+
 是由[RedLynx](../Page/RedLynx.md "wikilink")開發，並由[微軟遊戲工作室發行的](https://zh.wikipedia.org/wiki/微軟遊戲工作室 "wikilink")[競速](https://zh.wikipedia.org/wiki/競速遊戲 "wikilink")[益智遊戲](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")，於2009年8月於[Xbox Live Arcade上發售](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")\[1\]。本作採[偽三維](../Page/偽三維.md "wikilink")（又稱2.5D）視角，玩家操控的角色必須騎著摩托車，通過重重障礙物抵達終點。《特技摩托賽HD》是活動「」的合作遊戲之一\[2\]；2011年4月，本作與《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》和《[爆炸人](../Page/爆炸人.md "wikilink")》一同收錄在零售包內重新發售\[3\]。
 
 《特技摩托賽HD》推出後廣受好評。評論家多對本作遊戲內容和遊戲性抱持正面看法，但同時也批評其過於陡峭的難度曲線和實用性不足的分享功能。2009年，本作獲Xbox社群票選為最佳Arcade遊戲和最佳創新遊戲\[4\]。2013年3月，《特技摩托賽HD》與其續作《》同時在[Microsoft Windows平台上推出](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2016年2月，[微軟將本作列入其](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Xbox One](../Page/Xbox_One.md "wikilink")[向下相容計劃中](https://zh.wikipedia.org/wiki/向下相容 "wikilink")\[5\]。

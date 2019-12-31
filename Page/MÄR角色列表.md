@@ -1,3 +1,6 @@
+> 本文内容由[MÄR角色列表](https://zh.wikipedia.org/wiki/MÄR角色列表)转换而来。
+
+
 **MÄR角色列表**為[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[MÄR](https://zh.wikipedia.org/wiki/MÄR "wikilink")》系列中登場的虛構角色。
 
 ## 主要登場人物

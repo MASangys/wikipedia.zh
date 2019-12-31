@@ -1,3 +1,6 @@
+> 本文内容由[＃osnrap](https://zh.wikipedia.org/wiki/＃osnrap)转换而来。
+
+
 《**\#osnrap**》 是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高爾宣](../Page/高爾宣.md "wikilink")個人第一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2019年4月30日正式發行，一共收錄10首歌曲。\[1\]
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[E樂](https://zh.wikipedia.org/wiki/E樂)转换而来。
+
+
 **Singtel TV e乐**（）是[新加坡电信](../Page/新加坡电信.md "wikilink")旗下的[Singtel TV擁有的](https://zh.wikipedia.org/wiki/新電信電視 "wikilink")[收費電視頻道](https://zh.wikipedia.org/wiki/收費電視 "wikilink")，主要播出來自[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[日本](../Page/日本.md "wikilink")和[韓國的節目](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。该频道设有中文及英文[字幕](../Page/字幕.md "wikilink")，其此頻道屬於免費頻道。
 
 本頻道在2018年10月7日14:30([GMT+8](https://zh.wikipedia.org/wiki/GMT+8 "wikilink"))開播，首個節目為[2018中國好聲音馬拉松](https://zh.wikipedia.org/wiki/2018中國好聲音 "wikilink")。

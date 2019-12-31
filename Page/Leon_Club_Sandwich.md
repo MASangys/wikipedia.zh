@@ -1,3 +1,6 @@
+> 本文内容由[Leon Club Sandwich](https://zh.wikipedia.org/wiki/Leon_Club_Sandwich)转换而来。
+
+
 《**Leon Club Sandwich**》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的[音樂專輯](../Page/音樂專輯.md "wikilink")，於2000年12月16日推出\[1\]\[2\]，專輯以雙CD形式發行，分別收錄了十六首歌曲\[3\]，當中的《聽身體唱歌》、《盡情地愛》、《夢想成真（東方新天地）》、《呼吸不說謊》及《愛比我重要》是首次收錄於專輯的新曲，其餘的歌曲均選自黎明於[新力唱片發行的音樂專輯](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")\[4\]。
 
 ## 曲目

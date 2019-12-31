@@ -1,3 +1,6 @@
+> 本文内容由[UFO互動網絡](https://zh.wikipedia.org/wiki/UFO互動網絡)转换而来。
+
+
 **UFO互動網絡**（，縮寫：**MUFON**）是[美國規模最大的民間](https://zh.wikipedia.org/wiki/美國 "wikilink")[UFO研究機構](https://zh.wikipedia.org/wiki/UFO "wikilink")，於美國每一個[州以及多個國家皆設有分部及代表](https://zh.wikipedia.org/wiki/美國州份 "wikilink")\[1\]\[2\]。
 
 ## 歷史

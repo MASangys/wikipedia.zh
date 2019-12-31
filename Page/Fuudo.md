@@ -1,3 +1,6 @@
+> 本文内容由[Fuudo](https://zh.wikipedia.org/wiki/Fuudo)转换而来。
+
+
 **阿井庆太**（，，游戏ID“”）是一名日本职业电子竞技选手，主要参与格斗游戏《[街头霸王](https://zh.wikipedia.org/wiki/街头霸王系列 "wikilink")》系列的赛事。他从2005年开始参加《[VR战士4](https://zh.wikipedia.org/wiki/VR战士4 "wikilink")》的比赛，并在之后获得了包括[世界电子竞技大赛](../Page/世界电子竞技大赛.md "wikilink")和（EVO）等国际赛事的冠军。他被不少游戏媒体认为是全世界使用最好的选手。目前隶属[Cygames Beast战队](https://zh.wikipedia.org/wiki/Cygames_Beast "wikilink")。
 
 ## 主要成绩

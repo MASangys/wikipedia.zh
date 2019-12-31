@@ -1,3 +1,6 @@
+> 本文内容由[BJAB](https://zh.wikipedia.org/wiki/BJAB)转换而来。
+
+
 **BJAB**是對[人類皰疹病毒第四型呈](https://zh.wikipedia.org/wiki/人類皰疹病毒第四型 "wikilink")[陰性的](https://zh.wikipedia.org/wiki/陰性 "wikilink")[人類](../Page/人類.md "wikilink")，最初是分離自一名五歲的[非洲](../Page/非洲.md "wikilink")[女性](../Page/女性.md "wikilink")伯基特[淋巴瘤](../Page/淋巴瘤.md "wikilink")[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")\[1\]。然而BJAB細胞衍生而來的GC-BJAB細胞對[人類皰疹病毒第四型呈](https://zh.wikipedia.org/wiki/人類皰疹病毒第四型 "wikilink")[陽性](https://zh.wikipedia.org/wiki/陽性 "wikilink")，並且不同於BJAB培養物在達到最大[密度](../Page/密度.md "wikilink")後很快就會凋亡，GC-BJAB培養物達到[細胞飽和](https://zh.wikipedia.org/wiki/細胞 "wikilink")[密度](../Page/密度.md "wikilink")後可以長時間維持在存活狀態\[2\]。由於已經確定了兩種細胞系的同一性\[3\]，其生長特性的顯著差異須歸因於EBV[基因組](../Page/基因組.md "wikilink")。
 
 ## 抑制

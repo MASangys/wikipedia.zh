@@ -1,3 +1,6 @@
+> 本文内容由[IT\'S LOVE](https://zh.wikipedia.org/wiki/IT\'S_LOVE)转换而来。
+
+
 《**IT'S LOVE**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")的總計第6張單曲。1991年10月21日發行由[Pony Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

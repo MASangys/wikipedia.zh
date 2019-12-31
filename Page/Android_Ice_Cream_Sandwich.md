@@ -1,3 +1,6 @@
+> 本文内容由[Android Ice Cream Sandwich](https://zh.wikipedia.org/wiki/Android_Ice_Cream_Sandwich)转换而来。
+
+
 **Android Ice Cream Sandwich**是-{zh-hans:[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink");zh-hant:[Google](../Page/Google.md "wikilink");}-开发的第九版Android手机操作系统。Android 4.0于2011年10月19日亮相，它基于为平板电脑发布的Android Honeycomb做了重大改变，旨在为智能手机和平板电脑两者间创建统一平台。
 
 Android 4.0专注于引入新的简化的、现代化的人机界面交互体验。作为这些努力的一部分，它引入了[代号为](https://zh.wikipedia.org/wiki/代号 "wikilink")“Holo”的新视觉外观，该界面引入了更简洁设计，以及一个名为[Roboto](../Page/Roboto.md "wikilink")的新默认[字体](../Page/字体.md "wikilink")。它还引入了许多其他新功能，包括更新的主屏幕，[近场通信](../Page/近場通訊.md "wikilink")（NFC）支持以及使用该技术将内容“发送”给其他用户的能力（Android Beam），全新的Web浏览器，新的社交网络联系人管理器，从锁定屏幕启动相机和控制音乐播放的能力，可视语音邮件的支持，设备的[面部识别解锁功能](../Page/臉部辨識系統.md "wikilink")，监控和限制移动[数据使用](../Page/带宽_\(计算机\).md "wikilink")，以及其他内部改进。

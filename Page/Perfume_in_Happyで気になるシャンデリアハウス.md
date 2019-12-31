@@ -1,3 +1,6 @@
+> 本文内容由[Perfume in Happyで気になるシャンデリアハウス](https://zh.wikipedia.org/wiki/Perfume_in_Happyで気になるシャンデリアハウス)转换而来。
+
+
 《**Perfume in Happyで気になるシャンデリアハウス**》是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第一张](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")-BOX。
 
 ## 规格

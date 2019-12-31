@@ -1,3 +1,6 @@
+> 本文内容由[PLUSPLUS](https://zh.wikipedia.org/wiki/PLUSPLUS)转换而来。
+
+
 **PLUSPLUS**（），是[烏克蘭的免費](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，是的一部分，PLUSPLUS是一個家庭頻道\[1\]，原名**CITI**\[2\]\[3\]，2012年更為現名，同時設計了新的標誌與一系列的卡通角色\[4\]\[5\]。
 
 ## 參考資料

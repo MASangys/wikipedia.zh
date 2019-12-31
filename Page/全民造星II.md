@@ -1,3 +1,6 @@
+> 本文内容由[全民造星II](https://zh.wikipedia.org/wiki/全民造星II)转换而来。
+
+
 《**全民造星II**》（英語：King Maker II）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的大型選秀節目，是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的第二季。比賽由2019年9月30日至12月6日於[ViuTV](../Page/ViuTV.md "wikilink")播出，而《全民造星II總決賽》（英語：King Maker II Final Competition）於12月15日在[將軍澳](../Page/將軍澳.md "wikilink")[邵氏影城進行總決賽舉行](https://zh.wikipedia.org/wiki/邵氏影城 "wikilink")，ViuTV現場直播，總決賽結束後緊接播出《造星彩蛋II》（英語：King Maker II Final Competition After Show）\[1\]\[2\]\[3\]。
 
 最終[吳啟洋](../Page/吳啟洋.md "wikilink")（Phoebus）奪得冠軍，而亞軍和季軍分別由[張天賦](https://zh.wikipedia.org/wiki/張天賦 "wikilink")（MC）和[李祉均](https://zh.wikipedia.org/wiki/李祉均 "wikilink")（Oscar Li）奪得。

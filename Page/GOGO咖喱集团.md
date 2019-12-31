@@ -1,3 +1,6 @@
+> 本文内容由[GOGO咖喱集团](https://zh.wikipedia.org/wiki/GOGO咖喱集团)转换而来。
+
+
 [Go\!Go\!Curry.jpg](https://zh.wikipedia.org/wiki/File:Go!Go!Curry.jpg "fig:Go!Go!Curry.jpg") **股份有限公司 GOGO咖喱集團**（日語：**株式会社ゴーゴーカレーグループ**），是經營著主打的餐飲連鎖店「**Go\!Go\!咖喱**」（日語：**ゴーゴーカレー**）的企業，總部位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。其直營店、[加盟連鎖店以](https://zh.wikipedia.org/wiki/特許經營 "wikilink")[石川縣](../Page/石川縣.md "wikilink")和東京都為中心展開營業。與同樣主打金澤咖喱的老字號餐飲店「」是姊妹店鋪\[1\]。
 
 其[LOGO中有一隻](https://zh.wikipedia.org/wiki/LOGO "wikilink")[大猩猩](../Page/大猩猩.md "wikilink")。

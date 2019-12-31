@@ -1,3 +1,6 @@
+> 本文内容由[Her\'s](https://zh.wikipedia.org/wiki/Her\'s)转换而来。
+
+
 **Her's**是來自英國[利物浦](../Page/利物浦.md "wikilink")的一支英國獨立樂隊，由主唱、結他手Stephen Fitzpatrick，以及低音吉他手、伴唱Audun Laading組成。他們的第一張完整專輯於2018年8月發行。
 
 2019年3月27日，這對二人搭檔和他們的巡唱經理人在美國巡迴演出時因交通事故而逝世\[1\]\[2\]。

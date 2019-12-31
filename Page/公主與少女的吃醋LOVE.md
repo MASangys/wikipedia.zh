@@ -1,3 +1,6 @@
+> 本文内容由[公主與少女的吃醋LOVE](https://zh.wikipedia.org/wiki/公主與少女的吃醋LOVE)转换而来。
+
+
 是Princess Sugar在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

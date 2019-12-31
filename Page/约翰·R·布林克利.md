@@ -1,3 +1,6 @@
+> 本文内容由[约翰·R·布林克利](https://zh.wikipedia.org/wiki/约翰·R·布林克利)转换而来。
+
+
 [Dr._John_R._Brinkley.jpg](https://zh.wikipedia.org/wiki/File:Dr._John_R._Brinkley.jpg "fig:Dr._John_R._Brinkley.jpg") **约翰·R·布林克利**（John R. Brinkley，），[美国](../Page/美国.md "wikilink")[电报](../Page/电报.md "wikilink")员，曾在一所[野鸡大学拿到](https://zh.wikipedia.org/wiki/野鸡大学 "wikilink")[医学](../Page/医学.md "wikilink")文凭，此后开了一家[诊所](../Page/診所.md "wikilink")，出售了自己制造的若干种“神药”并提出“[山羊](https://zh.wikipedia.org/wiki/山羊 "wikilink")[睾丸](../Page/睾丸.md "wikilink")植入法”\[1\]\[2\]\[3\]。
 
 ## 参考资料

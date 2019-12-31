@@ -1,3 +1,6 @@
+> 本文内容由[OPD](https://zh.wikipedia.org/wiki/OPD)转换而来。
+
+
 **OPD**可能指：
 
   - [鄰苯二胺](https://zh.wikipedia.org/wiki/鄰苯二胺 "wikilink")（*o*-phenylenediamine），一種[化合物](../Page/化合物.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:EncoreTVB](https://zh.wikipedia.org/wiki/Draft:EncoreTVB)转换而来。
+
+
 **encoreTVB**是美國無綫電視TVBUSA所開發的一個新的應用程式。TVBUSA是全球最大的中文電視節目供應商 帶給美國觀眾TVB電視節目服務。
 
 <big>encoreTVB</big>是美國TVBUSA最新開發的應用程式。TVBUSA成立於1984年，一直盡心盡力地為在美國的海外華人提供TVB的精彩節目。TVB (USA), Inc.是香港電視廣播有限公司 (無綫電視) TVB 集團在美國旗下全資擁有的附屬公司。TVB集團是全球最大的中文粵語 (廣東話) 電視節目供應商，旗下TVB翡翠台的港劇更是陪伴著很多人成長。 現在香港免費電視台(TVB)也能在美國免費地在各個平台上觀看了\! 和在香港的myTV SUPER 一樣，encoreTVB 提供最新最貼地的TVB劇集。 TVB (USA), Inc. 所開發的encoreTVB 能給用戶在任何時間和地點上觀看TVB經典的優質劇集。無需購買昂貴的TVPad，只要用戶在手機或平板電腦上下載Encore TVB應用程式，就能追蹤TVB的即時動態。有別於ICDrama 、vChannel、 哥倫布直播等沒有版權的網站和程式，TVB最新資訊和劇集的版權，均屬TVB (USA), Inc.擁有。

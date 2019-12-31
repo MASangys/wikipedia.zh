@@ -1,3 +1,6 @@
+> 本文内容由[六氟合磷\(V\)酸四氯合磷\(V\)](https://zh.wikipedia.org/wiki/六氟合磷\(V\)酸四氯合磷\(V\))转换而来。
+
+
 **六氟合磷(V)酸四氯合磷(V)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为\[PCl<sub>4</sub>\]\[PF<sub>6</sub>\]，由\[PCl<sub>4</sub>\]<sup>+</sup>和\[PF<sub>6</sub>\]<sup>−</sup>离子构成。\[1\]
 
 ## 制备

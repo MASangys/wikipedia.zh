@@ -1,3 +1,6 @@
+> 本文内容由[模块:Template wrapper](https://zh.wikipedia.org/wiki/模块:Template_wrapper)转换而来。
+
+
 require('Module:No globals');
 
 local error_msg = '<span style=\"font-size:100%\" class=\"error\">\<code style=\\"color:inherit; border:inherit; padding:inherit;\\"\>|_template=</code> missing or empty</span>';

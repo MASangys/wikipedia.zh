@@ -1,3 +1,6 @@
+> 本文内容由[CodeCombat](https://zh.wikipedia.org/wiki/CodeCombat)转换而来。
+
+
 是一个学习[程序设计](../Page/程序设计.md "wikilink")概念和编程语言的教育[电子游戏](../Page/电子游戏.md "wikilink")。学生学习输入[JavaScript](../Page/JavaScript.md "wikilink")、[Python](../Page/Python.md "wikilink")、[HTML](../Page/HTML.md "wikilink")和[CoffeeScript](../Page/CoffeeScript.md "wikilink")等编码语言，并学习[计算机科学](../Page/计算机科学.md "wikilink")的基础知识。CodeCombat有11个单元——3个游戏开发单元、2个web开发单元和6个计算机科学单元。第一单元，计算机科学1，对所有学生和教师免费。CodeCombat还被美国大学理事会认可为AP计算机科学原理课程和专业发展的提供者。\[1\]
 
 CodeCombat直接与学校和地区合作，并为自定进度的学习者提供每月付费订阅，让他们可以访问额外的游戏内容。\[2\] 为了提高游戏的水平，玩家必须通过编写代码来证明自己的知识。它包括单人和多人部分，非常适合4-12年级的学生。\[3\] 该游戏受到的积极评价\[4\]，荣获2017年SIIA CODiE学生最佳创意工具奖\[5\]，并被《》评为最佳学习工具。\[6\]

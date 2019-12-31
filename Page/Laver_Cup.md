@@ -1,3 +1,6 @@
+> 本文内容由[Laver Cup](https://zh.wikipedia.org/wiki/Laver_Cup)转换而来。
+
+
 拉沃杯(Laver Cup)，是一个国际室内 [硬地球场](https://zh.wikipedia.org/wiki/硬地球場 "wikilink") 的男子 [网球](../Page/网球.md "wikilink") [比赛](https://zh.wikipedia.org/wiki/淘汰制 "wikilink") 。比赛由两个小组对决： 欧洲队 和 世界队，后者的球员来自非欧洲国家。 每年举行一次，\[1\] 比赛的目的是举办网球界的[莱德杯](../Page/萊德盃.md "wikilink") 。\[2\] 它在 [美国网球公开赛](../Page/美国网球公开赛.md "wikilink")的两周后举行，欧洲城市和世界其他地区城市每年轮流举办。 获胜队伍的每个成员获得250 000美元的奖金，但比赛本身并不计算在球员当年 ATP世界巡回赛 的积分。\[3\]\[4\] 在2019年5月，拉沃杯成为一个正式批准的ATP世界巡回赛项目。\[5\]
 
 ## 形式

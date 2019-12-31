@@ -1,3 +1,6 @@
+> 本文内容由[T.C.B.S.](https://zh.wikipedia.org/wiki/T.C.B.S.)转换而来。
+
+
 **T.C.B.S.**，全名**茶社，巴洛會社**（Tea Club, Barrovian Society），是[20世紀初期](https://zh.wikipedia.org/wiki/20世紀 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[伯明罕](https://zh.wikipedia.org/wiki/伯明罕 "wikilink")的一個半秘密的學生社團，其四名核心成員分別為[J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")、羅伯·吉爾森、傑佛里·史密斯和克里多福·韋斯曼\[1\]\[2\]\[3\]。
 
 ## 歷史

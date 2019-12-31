@@ -1,3 +1,6 @@
+> 本文内容由[金牛座CI](https://zh.wikipedia.org/wiki/金牛座CI)转换而来。
+
+
 **金牛座CI**（**CI Tauri**）是一顆年齡只有約200萬年的年輕恆星，距離地球約500光年，在天球上位於[金牛座](../Page/金牛座.md "wikilink")。2016年，天文學家在該恆星旁發現一顆行星[金牛座CIb](https://zh.wikipedia.org/wiki/金牛座CIb "wikilink")（CI Tauri b），並在2018年宣布由恆星周圍的[原行星盤](../Page/原行星盤.md "wikilink")內間隙觀測資料，可能發現了另外3顆行星。
 
 ## 金牛座CIb

@@ -1,3 +1,6 @@
+> 本文内容由[柯爾特野馬XSP半自動手槍](https://zh.wikipedia.org/wiki/柯爾特野馬XSP半自動手槍)转换而来。
+
+
 **柯爾特野馬XSP手槍**（）是一款由所設計和生產以後，於2013年推出的輕便單動式[半自動手槍](../Page/半自動手槍.md "wikilink")，為採用[野馬袖珍精簡型結構的更新型](../Page/柯爾特野馬半自動手槍.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")底把版本，發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]\[2\]
 
 ## 簡史

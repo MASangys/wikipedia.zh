@@ -1,3 +1,6 @@
+> 本文内容由[Windows桌面更新](https://zh.wikipedia.org/wiki/Windows桌面更新)转换而来。
+
+
 [Windows_95_with_IE4.jpg](https://zh.wikipedia.org/wiki/File:Windows_95_with_IE4.jpg "fig:Windows_95_with_IE4.jpg")和Windows桌面更新的[Windows 95](../Page/Windows_95.md "wikilink")，包括桌面、资源管理器和频道栏\]\]
 
 **Windows桌面更新**（）是[微软](../Page/微软.md "wikilink")于[Internet Explorer 4中提供的一个可选功能](../Page/Internet_Explorer_4.md "wikilink")，它为[Windows 95和](../Page/Windows_95.md "wikilink")[Windows NT 4.0的](../Page/Windows_NT_4.0.md "wikilink")[外壳引入了一些新的功能](https://zh.wikipedia.org/wiki/壳层 "wikilink")，并使上述两款操作系统获得类似于[Windows 98的](../Page/Windows_98.md "wikilink")[用户界面](../Page/用户界面.md "wikilink")。这些功能在Windows 98及后续的Windows版本中成为默认的安装选项。

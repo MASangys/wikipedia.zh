@@ -1,3 +1,6 @@
+> 本文内容由[We in the Zone](https://zh.wikipedia.org/wiki/We_in_the_Zone)转换而来。
+
+
 **We In The Zone**（），團名有「我們在這兒展現我們獨特的音樂」的意思，是[韓國春娛樂](https://zh.wikipedia.org/wiki/韓國 "wikilink")(Choon Entertainment)於2019年推出的五人男子組合，成員包括晭妟、Eson、憼憲、玟及[始炫](../Page/金始炫.md "wikilink")。2019年10月23日，玟因個人理由退出組合\[1\]，團體暫改以四人體制。粉絲名稱為WISH，具有「**W**e **I**n **S**ure your **H**eart」的意思。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[EMQ X](https://zh.wikipedia.org/wiki/EMQ_X)转换而来。
+
+
 **EMQ X**（简称**EMQ**），曾用名 **emqttd**（v3.0 版本开始正式更名为 EMQ X）， 基于 [Erlang](../Page/Erlang.md "wikilink") 语言平台开发，是一款完全开源，高度可伸缩，高可用的分布式 [MQTT](../Page/MQTT.md "wikilink") 消息服务器。EMQ 支持大规模 [MQTT](../Page/MQTT.md "wikilink") 连接和分布式集群，同时也支持 CoAP/LwM2M 一站式 [IoT](https://zh.wikipedia.org/wiki/IoT "wikilink") 协议接入。
 
 EMQ 是 [5G](../Page/5G.md "wikilink") 时代万物互联的消息引擎，适用于 [IoT](https://zh.wikipedia.org/wiki/IoT "wikilink")、[M2M](https://zh.wikipedia.org/wiki/M2M "wikilink") 和移动应用程序，可处理千万级别的并发客户端，帮助企业快速构建物联网平台与应用。\[1\]

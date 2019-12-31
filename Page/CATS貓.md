@@ -1,3 +1,6 @@
+> 本文内容由[CATS貓](https://zh.wikipedia.org/wiki/CATS貓)转换而来。
+
+
 是一部於2019年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌舞](../Page/歌舞片.md "wikilink")[奇幻電影](https://zh.wikipedia.org/wiki/奇幻電影 "wikilink")，由[湯姆·霍伯執導](https://zh.wikipedia.org/wiki/湯姆·霍伯 "wikilink")，並與共同撰寫劇本。電影改編自[安德魯·洛伊·韋伯的](https://zh.wikipedia.org/wiki/安德魯·洛伊·韋伯 "wikilink")[同名音樂劇](https://zh.wikipedia.org/wiki/貓_\(音樂劇\) "wikilink")。主演包括[詹姆斯·柯登](../Page/詹姆斯·柯登.md "wikilink")、[茱蒂·丹契](../Page/茱蒂·丹契.md "wikilink")、[傑森·德魯羅](https://zh.wikipedia.org/wiki/傑森·德魯羅 "wikilink")、[伊卓瑞斯·艾巴](https://zh.wikipedia.org/wiki/伊卓瑞斯·艾巴 "wikilink")、[珍妮佛·哈德森](https://zh.wikipedia.org/wiki/珍妮佛·哈德森 "wikilink")、[伊恩·麥克連](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")、[泰勒絲](https://zh.wikipedia.org/wiki/泰勒絲 "wikilink")、[瑞貝爾·威爾森和](https://zh.wikipedia.org/wiki/瑞貝爾·威爾森 "wikilink")。
 
 《CATS貓》定於2019年12月20日在美國上映。

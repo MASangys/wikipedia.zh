@@ -1,3 +1,6 @@
+> 本文内容由[Bandcamp](https://zh.wikipedia.org/wiki/Bandcamp)转换而来。
+
+
 **Bandcamp**是一家美国[在线](https://zh.wikipedia.org/wiki/在线 "wikilink")[音乐](../Page/音乐.md "wikilink")公司， 由前[Oddpost](https://zh.wikipedia.org/wiki/Oddpost "wikilink")\[1\]联合创始人Ethan Diamond与程序员Shawn Grunberger、Joe Holt和Neal Tucker于2008年创立\[2\]\[3\]\[4\]\[5\]，总部位于加利福尼亚。
 
 Bandcamp是一个全球音乐社区，在这里粉丝可以发现音乐，并支持创作音乐的艺术家。

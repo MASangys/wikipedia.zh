@@ -1,3 +1,6 @@
+> 本文内容由[DAY6媒體作品列表](https://zh.wikipedia.org/wiki/DAY6媒體作品列表)转换而来。
+
+
 **DAY6媒體作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[DAY6](../Page/DAY6.md "wikilink")歷年參與各類電視節目及固定節目。
 
 ## 影視媒體作品

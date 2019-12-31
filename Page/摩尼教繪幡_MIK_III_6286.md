@@ -1,3 +1,6 @@
+> 本文内容由[摩尼教繪幡 MIK III 6286](https://zh.wikipedia.org/wiki/摩尼教繪幡_MIK_III_6286)转换而来。
+
+
 **摩尼教繪幡編號「 6286」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一幅收藏於德國[柏林亞洲藝術博物館的](https://zh.wikipedia.org/wiki/亞洲藝術博物館_\(柏林\) "wikilink")[摩尼教](../Page/摩尼教.md "wikilink")寺院旗幡，製作於公元10世紀，在20世紀初被[德國吐魯番考察隊](../Page/德國吐魯番考察隊.md "wikilink")發現於新疆[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")。旗幡長45.5釐米、寬16釐米，兩面均有彩繪人像，是獻予去世之摩尼教信徒的喪葬繪幡。
 
 ## 描述

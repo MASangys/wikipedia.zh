@@ -1,3 +1,6 @@
+> 本文内容由[IOS 13](https://zh.wikipedia.org/wiki/IOS_13)转换而来。
+
+
 **iOS 13**是[苹果公司开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS的第](https://zh.wikipedia.org/wiki/iOS "wikilink")13个大版本，于2019年6月4日召开的[WWDC](../Page/苹果全球开发者大会.md "wikilink")2019发布\[1\]。iOS 13 的 应用程序启动将快 2 倍、[Face ID](https://zh.wikipedia.org/wiki/Face_ID "wikilink") 解锁也快 30%、将支持 [iPhone 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink") 及以上型号。iOS13 还带来了多项更新，包括：黑暗模式、街景地图（暂只有纽约市）、重新设计并强化编辑功能的「照片」app、重新设计的「提醒事项」app；增强的安全功能，如可以使用[Apple ID登入](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")「使用 Apple 登入（Sign in with Apple）」。\[2\]\[3\]
 
 此外，一些细节功能也得到改善：音量控制显示效果被改为左上角音量悬浮栏从而避免遮挡屏幕；iPhone支持同时连接两副[AirPods](../Page/AirPods.md "wikilink")无线耳机以分享歌曲；[Apple Music应用的歌曲播放页被重新设计](../Page/Apple_Music.md "wikilink")，支持滚动歌词；[Siri](../Page/Siri.md "wikilink")朗读支持了自然语义识别；內建键盘支持滑动输入；可向通讯录好友分享自己的[iMessage大头照和个人信息](https://zh.wikipedia.org/wiki/iMessage "wikilink")；照片分享页面得到改进；截图标记工具设计风格回归拟物化；[Memoji](https://zh.wikipedia.org/wiki/Memoji "wikilink") 拟我表情支持妆容选择并可以存储在键盘表情栏用于第三方app，等等。

@@ -1,3 +1,6 @@
+> 本文内容由[The Music Works](https://zh.wikipedia.org/wiki/The_Music_Works)转换而来。
+
+
 **The Music Works**（，簡稱**Music Works**）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]。成立於2012年。當前藝人包括Solo歌手[孔旻智](../Page/孔旻智.md "wikilink")等。
 
 ## 旗下藝人

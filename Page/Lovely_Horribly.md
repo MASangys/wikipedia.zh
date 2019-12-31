@@ -1,3 +1,6 @@
+> 本文内容由[Lovely Horribly](https://zh.wikipedia.org/wiki/Lovely_Horribly)转换而来。
+
+
 《**Lovely Horribly**》（），為韓國[KBS2於](https://zh.wikipedia.org/wiki/KBS2 "wikilink")2018年8月13日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")。由《[我黃金光輝的人生](https://zh.wikipedia.org/wiki/我黃金光輝的人生 "wikilink")》的姜敏慶導演與朴敏珠作家合作打造。本劇之劇本為2017年KBS劇本募集的獲獎作品。此劇講述兩個同年同月同日同一時辰出生的電視劇編劇和擔任電視劇主角的明星之間，所發生的恐怖又浪漫的故事。\[1\]
 
 台灣地區，由愛奇藝台灣站獨家播出。

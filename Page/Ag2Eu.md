@@ -1,3 +1,6 @@
+> 本文内容由[Ag2Eu](https://zh.wikipedia.org/wiki/Ag2Eu)转换而来。
+
+
 **Ag<sub>2</sub>Eu**是一种二元[金属间化合物](https://zh.wikipedia.org/wiki/金属间化合物 "wikilink")，由[银和](https://zh.wikipedia.org/wiki/银 "wikilink")[铕](../Page/铕.md "wikilink")构成。
 
 ## 制备及性质

@@ -1,3 +1,6 @@
+> 本文内容由[Navisworks](https://zh.wikipedia.org/wiki/Navisworks)转换而来。
+
+
 **Navisworks**主要用於建築行業以擴充3D模型（如Autodesk Revit.AutoCAD.MicroStation）Navisworks允許用戶打開和組合3D模型，隨時導航它們並使用包括註釋在內的一組工具查看模型，紅線，觀點和測量。一系列外掛增強了封裝，增加了干涉檢查，4D時間模擬，照片級彩現和類似PDF的發布。
 
 該軟體最初由英國雪菲爾的開發商NavisWorks（Lightwork Design Ltd.的子公司）創立，但NavisWorks於2007年6月1日由Autodesk以2500萬美元的價格收購。

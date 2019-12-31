@@ -1,3 +1,6 @@
+> 本文内容由[ANIMAL☆PANIC](https://zh.wikipedia.org/wiki/ANIMAL☆PANIC)转换而来。
+
+
 是[QUINCE SOFT在](../Page/Lump_of_Sugar.md "wikilink")2019年12月20日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

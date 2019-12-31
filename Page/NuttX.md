@@ -1,3 +1,6 @@
+> 本文内容由[NuttX](https://zh.wikipedia.org/wiki/NuttX)转换而来。
+
+
 **NuttX**是一个专注于标准合规和小内存占用的[实时操作系统](../Page/实时操作系统.md "wikilink")（[RTOS](https://zh.wikipedia.org/wiki/RTOS "wikilink")）。它可以在8位到32位的微控制器上部署。NuttX在编写时主要参照了[POSIX和](https://zh.wikipedia.org/wiki/POSIX "wikilink")[ANSI标准](https://zh.wikipedia.org/wiki/ANSI "wikilink")。对于那些标准中没有的部分，如fork()等，则参考了VxWorks或其他RTOS。
 
 NuttX最早是在2007年由Gregory Nutt于BSD协议下释出的。

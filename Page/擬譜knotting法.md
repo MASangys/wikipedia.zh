@@ -1,3 +1,6 @@
+> 本文内容由[擬譜knotting法](https://zh.wikipedia.org/wiki/擬譜knotting法)转换而来。
+
+
 **擬譜knotting法**（pseudospectral knotting method）是[应用数学中標準](https://zh.wikipedia.org/wiki/应用数学 "wikilink")[擬譜最佳控制](../Page/擬譜最佳控制.md "wikilink")的強化版本。此概念是由及[法麗芭·法魯](../Page/法麗芭·法魯.md "wikilink")在2004年提出，也是[Ross–Fahroo擬譜法](../Page/Ross–Fahroo擬譜法.md "wikilink")中的一部份\[1\]。
 
 ## 定義

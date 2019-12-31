@@ -1,3 +1,6 @@
+> 本文内容由[Happy 2008黎明杭州演唱會](https://zh.wikipedia.org/wiki/Happy_2008黎明杭州演唱會)转换而来。
+
+
 *' Happy 2008黎明杭州演唱會*'是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2008年12月27日在[杭州市](../Page/杭州市.md "wikilink")[黃龍體育中心體育館舉行](https://zh.wikipedia.org/wiki/黃龍體育中心 "wikilink")，是黎明自1990年成為歌手以來首次在杭州舉行的個人演唱活動\[1\]。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[Wind flower \(Mamamoo日本單曲\)](https://zh.wikipedia.org/wiki/Wind_flower_\(Mamamoo日本單曲\))转换而来。
+
+
 《**Wind flower -Japanese ver.-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO第二張日語單曲](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由VICTOR ENTERAINMENT於2019年2月6日發行。MAMAMOO除了收錄主打曲《Wind flower》的日語版外，也收錄一首全新的歌曲《Sleep Talk》。\[1\]
 
 ## 概要

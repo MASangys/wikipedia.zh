@@ -1,3 +1,6 @@
+> 本文内容由[Hololive production](https://zh.wikipedia.org/wiki/Hololive_production)转换而来。
+
+
 **hololive production**（）是日本COVER株式会社的一家运营[虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")（VTuber）业务的事务所，旗下Vtuber大多于[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[bilibili活动](https://zh.wikipedia.org/wiki/bilibili "wikilink")。
 
 [Hololive_production_logo.png](https://zh.wikipedia.org/wiki/File:Hololive_production_logo.png "fig:Hololive_production_logo.png") [Cover_Corp_horizontal_logo_1.png](https://zh.wikipedia.org/wiki/File:Cover_Corp_horizontal_logo_1.png "fig:Cover_Corp_horizontal_logo_1.png")

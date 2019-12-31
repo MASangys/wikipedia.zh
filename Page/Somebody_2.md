@@ -1,3 +1,6 @@
+> 本文内容由[Somebody 2](https://zh.wikipedia.org/wiki/Somebody_2)转换而来。
+
+
 《**Somebody 2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")於2019年推出的綜藝節目\[1\]，節目主軸為不限舞蹈種類的10位舞者，尋找舞伴以及真愛的綜藝節目\[2\]\[3\]。10位舞者將於「曖昧之屋」中合宿一個月，並使用身體、舞蹈來表達感情、傳達曖昧\[4\]。本季來賓為：[韓惠珍](https://zh.wikipedia.org/wiki/韓惠珍 "wikilink")、[Boom](https://zh.wikipedia.org/wiki/Boom "wikilink")、[李宜縝](../Page/李宜縝.md "wikilink")、[李秀晶](https://zh.wikipedia.org/wiki/李秀晶 "wikilink")、[韓善泉](https://zh.wikipedia.org/wiki/韓善泉 "wikilink")。
 
 ## 曖昧之屋 居住規定

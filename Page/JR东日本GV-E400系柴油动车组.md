@@ -1,3 +1,6 @@
+> 本文内容由[JR东日本GV-E400系柴油动车组](https://zh.wikipedia.org/wiki/JR东日本GV-E400系柴油动车组)转换而来。
+
+
 **GV-E400系电力动车组**（）是[东日本旅客铁道](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")（JR东日本）订购的一款[电传动柴油动车组](../Page/柴聯車.md "wikilink")（Diesel-Electric Multiple Unit，DEMU）列车，将于2019年起在[新潟和](../Page/新潟县.md "wikilink")[秋田地区使用](../Page/秋田县.md "wikilink")。\[1\]
 
 ## 设计

@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive! 学园偶像祭 全明星](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭_全明星)转换而来。
+
+
 是由[KLab](../Page/KLab.md "wikilink")开发、[武士道运营的手机](../Page/武士道_\(公司\).md "wikilink")[节奏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[冒险](../Page/冒险游戏.md "wikilink")[RPG游戏](../Page/電子角色扮演遊戲.md "wikilink")，为“[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink") ”系列当中的一个作品。
 
 ## 游戏内容

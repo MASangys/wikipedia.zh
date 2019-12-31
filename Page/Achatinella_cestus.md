@@ -1,3 +1,6 @@
+> 本文内容由[Achatinella cestus](https://zh.wikipedia.org/wiki/Achatinella_cestus)转换而来。
+
+
 ***Achatinella cestus***是一种分布在美国[夏威夷的](../Page/夏威夷州.md "wikilink")[肺螺类](../Page/肺螺類.md "wikilink")，属于，该物种是夏威夷[特有种](../Page/特有種.md "wikilink")。
 
 ## 参考资料

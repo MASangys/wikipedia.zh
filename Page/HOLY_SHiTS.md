@@ -1,3 +1,6 @@
+> 本文内容由[HOLY SHiTS](https://zh.wikipedia.org/wiki/HOLY_SHiTS)转换而来。
+
+
 HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體\[1\]。
 2018年結成。隸屬於WACK。唱片公司為Tower Records。
 

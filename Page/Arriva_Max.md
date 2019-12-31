@@ -1,3 +1,6 @@
+> 本文内容由[Arriva Max](https://zh.wikipedia.org/wiki/Arriva_Max)转换而来。
+
+
 **Arriva MAX**是一种仅在英国运营的高级巴士服务，它归由英国[Arriva巴士公司运营](https://zh.wikipedia.org/wiki/Arriva_UK_Bus "wikilink")。
 
 ## 历史

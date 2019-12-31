@@ -1,3 +1,6 @@
+> 本文内容由[Mint \(宇野實彩子的歌曲\)](https://zh.wikipedia.org/wiki/Mint_\(宇野實彩子的歌曲\))转换而来。
+
+
 《**mint**》，[宇野實彩子個人名義發佈的第](https://zh.wikipedia.org/wiki/宇野實彩子 "wikilink")3首單曲，於2019年5月15日發行。\[1\]
 
 ## 收錄曲

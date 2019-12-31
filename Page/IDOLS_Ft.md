@@ -1,3 +1,6 @@
+> 本文内容由[IDOLS Ft](https://zh.wikipedia.org/wiki/IDOLS_Ft)转换而来。
+
+
 **IDOLS Ft**，全称**Idol Studio Ft**，简称**IDFT**，为[上海丝芭文化传媒集团有限公司旗下于](../Page/丝芭传媒.md "wikilink")2019年成立的一个基于互联网的偶像养成女团，其定义为「大型网络偶像养成女团」。IDOLS Ft成立于2019年1月19日，该团体现有成员86名，均为[SNH48 Group成员移籍而来](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group "wikilink")。
 
 ## 概要

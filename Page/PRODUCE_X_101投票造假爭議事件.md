@@ -1,3 +1,6 @@
+> 本文内容由[PRODUCE X 101投票造假爭議事件](https://zh.wikipedia.org/wiki/PRODUCE_X_101投票造假爭議事件)转换而来。
+
+
 **PRODUCE X 101投票造假爭議事件**是韓國[Mnet](../Page/Mnet.md "wikilink")電視台的大型選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》於2019年7月19日終映後因可疑的得票數被懷疑投票造假的争议。觀眾組成了真相調查委員會，並向檢察機關以妨礙公務和詐騙等嫌疑起訴節目製作組，最終警方介入調查。11月6日，製作人安俊英承認《PRODUCE X 101》和《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》投票造假。\[1\] 11月14日，製作人安俊英再向警方坦承《PRODUCE》系列的一到四季皆有造假。 \[2\]
 
 ## 事件起因

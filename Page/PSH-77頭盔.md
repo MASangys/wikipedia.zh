@@ -1,3 +1,6 @@
+> 本文内容由[PSH-77頭盔](https://zh.wikipedia.org/wiki/PSH-77頭盔)转换而来。
+
+
 **PSH-77**是一種[瑞士製的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[戰鬥頭盔](https://zh.wikipedia.org/wiki/戰鬥頭盔 "wikilink")，隨著其生產商已被收購合併，目前已停產。
 
 ## 設計特徵

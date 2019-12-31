@@ -1,3 +1,6 @@
+> 本文内容由[SHISHAMO NO BEST ARENA!!! EAST](https://zh.wikipedia.org/wiki/SHISHAMO_NO_BEST_ARENA!!!_EAST)转换而来。
+
+
 《**SHISHAMO NO BEST ARENA\!\!\! EAST**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第4张演唱会影像作品，于2020年1月29日发行。
 
 ## 简介

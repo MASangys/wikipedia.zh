@@ -1,3 +1,6 @@
+> 本文内容由[模块:Random slideshow](https://zh.wikipedia.org/wiki/模块:Random_slideshow)转换而来。
+
+
 \-- Creates a slideshow gallery where the order is randomised. Intended for use on portal pages. local p = {} local excerptModule = require('Module:Excerpt') local randomModule = require('Module:Random') local redirectModule = require('Module:Redirect')
 
 function cleanupArgs(argsTable)

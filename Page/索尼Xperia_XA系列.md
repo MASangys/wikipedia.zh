@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia XA系列](https://zh.wikipedia.org/wiki/索尼Xperia_XA系列)转换而来。
+
+
 索尼**Xperia XA系列**是指[索尼移动公司从](../Page/索尼移动通信.md "wikilink")2016年至2018年开发的一系列基于[Android](../Page/Android.md "wikilink")[系统的中端智能手机和平板手机](../Page/行動作業系統.md "wikilink")，是索尼 **Xperia X系列**的一个分支[产品线](https://zh.wikipedia.org/wiki/产品线 "wikilink")。索尼移动于2016年2月在MWC 2016上发布了索尼Xperia X系列中初代产品[索尼 Xperia XA](https://zh.wikipedia.org/wiki/索尼_Xperia_XA "wikilink")。
 
 这一系列的所有设备都有[IPS超窄边框](https://zh.wikipedia.org/wiki/IPS "wikilink")[液晶显示器](../Page/液晶显示器.md "wikilink")，支持[microSD卡和耳机插孔](https://zh.wikipedia.org/wiki/microSD卡 "wikilink")，不可拆卸电池和[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[八核](../Page/多核心處理器.md "wikilink")[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，除Xperia XA和Xperia XA Ultra之外，其他所有产品都配备有同样的23MP主摄像头。Xperia XA是这一系列产品中唯一的单SIM卡设备。除了Xperia XA2家族之外，所有这些设备都有1080p的录像摄像头。

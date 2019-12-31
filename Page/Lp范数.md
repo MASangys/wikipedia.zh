@@ -1,3 +1,6 @@
+> 本文内容由[Lp范数](https://zh.wikipedia.org/wiki/Lp范数)转换而来。
+
+
 \(L_p\)-范数（英语：\(L_p\)-norm，亦称\(\ell_p\)-范数、\(p\)-范数)是[向量空间](../Page/向量空间.md "wikilink")中的一组[范数](../Page/范数.md "wikilink")。\(L_p\)-范数与[幂平均](../Page/幂平均.md "wikilink")有一定的联系。它的定义如下：
 
 \(L_p(\vec x) = \lVert\vec x\rVert_{p} = \Bigl(\sum_{i = 1}^{n}|x_{i}|^{p}\Bigr)^{1 / p},\qquad\vec x = \{x_1, x_2, \ldots, x_n\},\,p\geqslant 1.\)

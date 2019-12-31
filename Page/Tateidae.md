@@ -1,3 +1,6 @@
+> 本文内容由[Tateidae](https://zh.wikipedia.org/wiki/Tateidae)转换而来。
+
+
 **Tateidae科**，是一類有的[微小](../Page/微小貝.md "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")，屬於[腹足纲](../Page/腹足纲.md "wikilink")[玉黍螺目](../Page/玉黍螺目.md "wikilink")[截螺總科](../Page/截螺總科.md "wikilink")。
 
 ## 分類

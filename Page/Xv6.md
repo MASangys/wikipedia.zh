@@ -1,3 +1,6 @@
+> 本文内容由[Xv6](https://zh.wikipedia.org/wiki/Xv6)转换而来。
+
+
 **xv6**是在[ANSI C中针对](../Page/ANSI_C.md "wikilink")[多处理器](https://zh.wikipedia.org/wiki/多处理器 "wikilink")[x86系统的](https://zh.wikipedia.org/wiki/x86 "wikilink")[Unix第六版的现代重新实现](https://zh.wikipedia.org/wiki/Version_6_Unix "wikilink")。它在[麻省理工学院](../Page/麻省理工学院.md "wikilink")的操作系统工程（6.828）课程中用于教学目的。
 
 ## 目的

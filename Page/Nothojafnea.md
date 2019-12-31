@@ -1,3 +1,6 @@
+> 本文内容由[Nothojafnea](https://zh.wikipedia.org/wiki/Nothojafnea)转换而来。
+
+
 ***Nothojafnea***是[子囊菌門](https://zh.wikipedia.org/wiki/子囊菌門 "wikilink")[盤菌目](../Page/盤菌目.md "wikilink")[塊菌科的一個](https://zh.wikipedia.org/wiki/塊菌科 "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")\[1\]，於1968年由[印尼生物學家](https://zh.wikipedia.org/wiki/印尼 "wikilink")發表描述，其學名意指與盤菌目的另一個屬的外形相似，其中*Notho-*意指「相似」，*jafnea*則為南費盤菌屬的學名\[2\]。
 
 本屬最初發表時僅包含分布於[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")**一種\[3\]。1971年，原屬、分布於[巴塔哥尼亞高原](https://zh.wikipedia.org/wiki/巴塔哥尼亞高原 "wikilink")（[阿根廷](../Page/阿根廷.md "wikilink")與[智利](../Page/智利.md "wikilink")）的*Peziza thaxteri*被歸入本屬，即**\[4\]\[5\]。本屬的兩物種皆與植物形成，其中*N. cryptotricha*與[桃金孃科](../Page/桃金孃科.md "wikilink")植物共生，*N. thaxteri*則與[南青岡科植物共生](https://zh.wikipedia.org/wiki/南青岡科 "wikilink")\[6\]。

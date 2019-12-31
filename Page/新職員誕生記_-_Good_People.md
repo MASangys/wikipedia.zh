@@ -1,3 +1,6 @@
+> 本文内容由[新職員誕生記 - Good People](https://zh.wikipedia.org/wiki/新職員誕生記_-_Good_People)转换而来。
+
+
 《**新職員誕生記 - Good People**》（，），為韓國[Channel A電視台於](../Page/Channel_A.md "wikilink")2019年推出的綜藝節目\[1\]，由[姜鎬童](../Page/姜鎬童.md "wikilink")、[李壽根](../Page/李壽根.md "wikilink")等人\[2\]共同主持，而由[申雅英](../Page/申雅英.md "wikilink")\[3\]、都振棋\[4\]、[李詩媛](../Page/李詩媛.md "wikilink")\[5\]、全范善\[6\]等人出演。節目主軸為描繪夢想著成為律師的年輕人們將在一定時間內加入律所，上演實習律師的工作日常成長記的辦公室真人秀\[7\]\[8\]。
 
 ## 實習生

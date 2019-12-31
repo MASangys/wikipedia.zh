@@ -1,3 +1,6 @@
+> 本文内容由[程序集 \(CLI\)](https://zh.wikipedia.org/wiki/程序集_\(CLI\))转换而来。
+
+
 [通用语言基础架构](https://zh.wikipedia.org/wiki/通用语言基础架构 "wikilink") (CLI) 中的**程序集**是编译得到的，供CLR进一步编译执行的代码库。代码是用[通用中间语言](../Page/通用中间语言.md "wikilink")（CIL）表示，在[运行时被](https://zh.wikipedia.org/wiki/运行时 "wikilink")[即時編譯](../Page/即時編譯.md "wikilink")为[机器语言](../Page/机器语言.md "wikilink")。在[.NET Framework实现中](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，这种[即時編譯](../Page/即時編譯.md "wikilink")是[通用语言运行时](https://zh.wikipedia.org/wiki/通用语言运行时 "wikilink") (CLR)的一部分。
 
 CLI程序集可分为两类：进程程序集（[EXE](https://zh.wikipedia.org/wiki/EXE "wikilink")）、库程序集（[DLL](../Page/动态链接库.md "wikilink")）。

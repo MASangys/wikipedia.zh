@@ -1,3 +1,6 @@
+> 本文内容由[Yehana](https://zh.wikipedia.org/wiki/Yehana)转换而来。
+
+
 **金藝媛**\[1\]（；），另有正名**金譽媛**\[2\]，藝名為**Yehana**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下已解散[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")。
 
 ## 出道前

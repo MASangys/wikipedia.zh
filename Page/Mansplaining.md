@@ -1,3 +1,6 @@
+> 本文内容由[Mansplaining](https://zh.wikipedia.org/wiki/Mansplaining)转换而来。
+
+
 **Mansplaining**，是一個[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")[複合詞](https://zh.wikipedia.org/wiki/複合詞 "wikilink")（或），由man（人或[男人](https://zh.wikipedia.org/wiki/男人 "wikilink")）與splaining（explaining，「[解釋](https://zh.wikipedia.org/wiki/解釋 "wikilink")」一詞的[動名詞](../Page/動名詞.md "wikilink")態）組合而成，經常帶有[貶義](https://zh.wikipedia.org/wiki/貶義 "wikilink")，意指「以居高臨下的說教姿態向他人解釋，且認定對方所知甚少\[1\]（或不把對方的見解當一回事）」，有時又特指男人向[女人解釋她已知的事物](https://zh.wikipedia.org/wiki/女人 "wikilink")\[2\]\[3\]\[4\]。\[5\]\[6\]
 
 後來，該詞衍生出mansplainer（自以為是或好為人師者）等詞彙。\[7\] 2012年，mansplainer被《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》列入「年度熱詞」。\[8\]

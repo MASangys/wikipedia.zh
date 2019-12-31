@@ -1,3 +1,6 @@
+> 本文内容由[AV帝王](https://zh.wikipedia.org/wiki/AV帝王)转换而来。
+
+
 《**AV帝王**》（，）是一部[日本](../Page/日本.md "wikilink")[傳記](../Page/傳記.md "wikilink")[劇情](https://zh.wikipedia.org/wiki/劇情片 "wikilink")[情色類型的](https://zh.wikipedia.org/wiki/情色片 "wikilink")[網路劇集](../Page/網路劇集.md "wikilink")，改編自的傳記小說，[武正晴](../Page/武正晴.md "wikilink")擔當總導演，於2019年8月8日在線上[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[Netflix](../Page/Netflix.md "wikilink")首播，第一季共8集。2019年8月，Netflix宣佈預訂劇集第二季。
 
 故事講述[色情片](../Page/色情片.md "wikilink")導演村西透的起伏人生，在日本繁榮的80年代，他徹底改變了色情片產業\[1\]。

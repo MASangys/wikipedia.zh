@@ -1,3 +1,6 @@
+> 本文内容由[荷馬·M·哈德里紀念大橋](https://zh.wikipedia.org/wiki/荷馬·M·哈德里紀念大橋)转换而来。
+
+
 **荷馬·M·哈德里紀念大橋**（），又作**華盛頓湖第三大橋**（），是美國的其中一座；[該州際公路之西行綫由此橋跨越](../Page/90號州際公路.md "wikilink")[默瑟島與](../Page/默瑟島_\(華盛頓州\).md "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")之間的[华盛顿湖](https://zh.wikipedia.org/wiki/华盛顿湖 "wikilink")。大橋有著1772米（5811英尺）的橋長，使它成為世界上第五长的[浮橋](../Page/浮橋.md "wikilink")。
 
 ## 历史

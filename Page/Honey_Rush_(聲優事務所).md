@@ -1,3 +1,6 @@
+> 本文内容由[Honey Rush \(聲優事務所\)](https://zh.wikipedia.org/wiki/Honey_Rush_\(聲優事務所\))转换而来。
+
+
 **株式會社Honey Rush**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")\[1\]，專門進行[聲優](../Page/聲優.md "wikilink")經營管理的[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 所屬聲優

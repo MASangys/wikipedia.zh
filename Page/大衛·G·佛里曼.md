@@ -1,3 +1,6 @@
+> 本文内容由[大衛·G·佛里曼](https://zh.wikipedia.org/wiki/大衛·G·佛里曼)转换而来。
+
+
 **大衛·古斯里·佛里曼**（David Guthrie Freeman，），是一名美國[羽球運動員](https://zh.wikipedia.org/wiki/羽球 "wikilink")，出生於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[帕薩迪納](https://zh.wikipedia.org/wiki/帕薩迪納 "wikilink")。
 
 ## 早期生活

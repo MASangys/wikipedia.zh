@@ -1,3 +1,6 @@
+> 本文内容由[Deepfake](https://zh.wikipedia.org/wiki/Deepfake)转换而来。
+
+
 **Deepfake**，是英文「deep learning」（[深度學習](https://zh.wikipedia.org/wiki/深度學習 "wikilink")）和「fake」（偽造）的[混成詞](../Page/混成詞.md "wikilink")\[1\]，專指基於[人工智能](../Page/人工智能.md "wikilink")的技術的应用。此技術可將已有的圖像或影片至目標圖像或影片上。
 
 Deepfake可用來伪造和媒體\[2\]。帶色情成份的Deepfake作品於2017年間在互聯網上流出，特別是在[Reddit](../Page/Reddit.md "wikilink")上\[3\]。此后Deepfake作品被[Reddit](../Page/Reddit.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Pornhub](../Page/Pornhub.md "wikilink")等網站所禁止\[4\]\[5\]\[6\]。Deepfake也可以用以製造[假新聞](../Page/假新聞.md "wikilink")及惡意[惡作劇](../Page/惡作劇.md "wikilink")\[7\]\[8\]。 在[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Vimeo](../Page/Vimeo.md "wikilink")等流行的在線視頻流媒體網站上，可以很容易地找到非色情的Deepfake影片。FakeApp是一款使用[TensorFlow](../Page/TensorFlow.md "wikilink")開源軟件庫的Deepfake影片製作程式\[9\]\[10\]。

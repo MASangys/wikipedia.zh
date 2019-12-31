@@ -1,3 +1,6 @@
+> 本文内容由[BORUTO-火影新世代-NARUTO NEXT GENERATIONS-角色列表](https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS-角色列表)转换而来。
+
+
 下表列出《[BORUTO-火影新世代-NARUTO NEXT GENERATIONS-](https://zh.wikipedia.org/wiki/BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS- "wikilink")》中漫畫及動畫的登場角色。
 
 關於前作登場角色的資訊請參考[火影忍者角色列表](../Page/火影忍者角色列表.md "wikilink")。

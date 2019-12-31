@@ -1,3 +1,6 @@
+> 本文内容由[尾田榮一郎短篇集WANTED!](https://zh.wikipedia.org/wiki/尾田榮一郎短篇集WANTED!)转换而来。
+
+
 《**尾田榮一郎短篇集WANTED\!**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎的漫畫短篇集](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")。本書於1998年發行，收錄作品有「[WANTED\!](https://zh.wikipedia.org/wiki/#WANTED! "wikilink")」、「[神給的未來禮物](https://zh.wikipedia.org/wiki/#神給的未來禮物 "wikilink")」、「[一鬼夜行](https://zh.wikipedia.org/wiki/#一鬼夜行 "wikilink")」、「[MONSTERS](https://zh.wikipedia.org/wiki/#MONSTERS "wikilink")」，和尾田連載出道作《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》的原點作品「[ROMANCE DAWN](https://zh.wikipedia.org/wiki/#ROMANCE_DAWN "wikilink")」。
 
 ## WANTED\!

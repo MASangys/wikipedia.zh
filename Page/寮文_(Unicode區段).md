@@ -1,3 +1,6 @@
+> 本文内容由[寮文 \(Unicode區段\)](https://zh.wikipedia.org/wiki/寮文_\(Unicode區段\))转换而来。
+
+
 **寮文**是一个包含了寮文的[Unicode區塊](https://zh.wikipedia.org/wiki/Unicode區塊 "wikilink")。寮文區塊裡的字符與[泰文區塊裡的字符緊密且一對一地對齊](https://zh.wikipedia.org/wiki/泰文_\(Unicode_區段\) "wikilink")。
 
 ## 區塊

@@ -1,3 +1,6 @@
+> 本文内容由[Toi8](https://zh.wikipedia.org/wiki/Toi8)转换而来。
+
+
 **Toi8**（）是日本[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[動畫師](../Page/動畫師.md "wikilink")、[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")。
 
 ## 生平

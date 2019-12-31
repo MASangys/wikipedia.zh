@@ -1,3 +1,6 @@
+> 本文内容由[Burning Sun門事件](https://zh.wikipedia.org/wiki/Burning_Sun門事件)转换而来。
+
+
 **Burning Sun事件**（）或稱**勝利夜店事件**，是指2019年一起發生在[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[娱乐圈事件](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。\[1\]\[2\]\[3\]\[4\]其中涉及一些名人，包括韓國偶像流行韓流團體，官員和警察。它震驚了整個韓國民間，成為[K-pop行業中涉案程度最大的一個案件](https://zh.wikipedia.org/wiki/K-pop "wikilink")。\[5\]\[6\]\[7\]醜聞包含[警察腐敗](../Page/警察腐敗.md "wikilink")等問題。包含[強姦和](https://zh.wikipedia.org/wiki/強姦 "wikilink")[針孔攝影機的指控](https://zh.wikipedia.org/wiki/針孔攝影機 "wikilink")、聊天室的不法訊息等問題。
 
 本案件開始於：2019年1月28日，當時MBC Newsdesk報導了2018年11月一名工作人員在江南一家著名的夜總會 - Burning Sun中襲擊男性俱樂部的人。涉案人大部分退出了所有的電視節目演出。

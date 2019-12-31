@@ -1,3 +1,6 @@
+> 本文内容由[GNU Radio](https://zh.wikipedia.org/wiki/GNU_Radio)转换而来。
+
+
 **GNU Radio**是一个[免费的软件开发工具包](../Page/自由软件.md "wikilink")，提供信号处理模块用来实现[软件定义的无线电和](../Page/软件无线电.md "wikilink")[信号处理系统](https://zh.wikipedia.org/wiki/信号处理 "wikilink")。 它可以与外部[RF硬件一起使用](../Page/射頻.md "wikilink")，以创建软件定义的无线电，或者在类似仿真的环境中无需硬件。 它广泛用于业余爱好者，学术和商业环境，以支持无线通信研究和现实世界的无线电系统。
 
 ## 概观

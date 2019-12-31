@@ -1,3 +1,6 @@
+> 本文内容由[CYNHN](https://zh.wikipedia.org/wiki/CYNHN)转换而来。
+
+
 **CYNHN**（），是[日本](../Page/日本.md "wikilink")旗下的六人女子歌唱組合。2016年末，透過和DEARSTAGE的合作選秀中被選拔出的成員所組成。2017年6月25日「DEARSTAGE SHOWCASE 2017」時發表新組合。2017夏天時，在「六本木IDOL FESTIVAL 2017」、「」中作為伴舞跟同公司的組合Pinky\!Noora\&Perta一同演出。
 
 2017年11月1日以第一首單曲「FINALegend」正式出道。

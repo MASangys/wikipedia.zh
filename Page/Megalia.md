@@ -1,3 +1,6 @@
+> 本文内容由[Megalia](https://zh.wikipedia.org/wiki/Megalia)转换而来。
+
+
 **Megalia** ()是一个[激进女权主义在线社区](../Page/基進女性主義.md "wikilink")，总部位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")\[1\]。
 
 ## 概况

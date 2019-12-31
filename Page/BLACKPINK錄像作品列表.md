@@ -1,3 +1,6 @@
+> 本文内容由[BLACKPINK錄像作品列表](https://zh.wikipedia.org/wiki/BLACKPINK錄像作品列表)转换而来。
+
+
 **BLACKPINK錄像作品列表**，是用於匯總[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")歷年發行的演唱會DVD、藍光，及歷年在[YouTube](../Page/YouTube.md "wikilink")上發佈的音樂錄影帶。
 
 ## 音樂錄影帶

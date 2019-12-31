@@ -1,3 +1,6 @@
+> 本文内容由[THE IDOLM@STER LIVE THE@TER DREAMERS 06](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_DREAMERS_06)转换而来。
+
+
 《**THE IDOLM@STER LIVE THE@TER DREAMERS 06**》（日語：），是[Lantis](../Page/Lantis.md "wikilink")於[2016年](../Page/2016年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")發售的一張《[偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")》系列[角色歌曲專輯](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")，簡稱「LTD06」。
 
 ## 概要

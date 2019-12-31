@@ -1,3 +1,6 @@
+> 本文内容由[Violette Wautier](https://zh.wikipedia.org/wiki/Violette_Wautier)转换而来。
+
+
 **Violette Wautier**（\[1\]）是一位比利时-泰国混血歌手和演员。她出道于2013年第二季，之后继续录制了自己的歌曲并参演了多部影视剧。她参与过GTH/GDH Studio的节目制作，凭借（2015）赢得了最佳女配角，同时共同主演了电影（2016）。之后她离开 Universal Music Thailand，成为独立音乐人并在2018年推出了自己的录制唱片。\[2\]\[3\]
 
 ## 影视作品

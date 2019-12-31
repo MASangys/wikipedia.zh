@@ -1,3 +1,6 @@
+> 本文内容由[Snowdrop引擎](https://zh.wikipedia.org/wiki/Snowdrop引擎)转换而来。
+
+
 **雪花莲引擎**（）是[育碧](../Page/育碧.md "wikilink")开发的一款[游戏引擎](../Page/游戏引擎.md "wikilink")，适用于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Nintendo Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[PlayStation 4以及](../Page/PlayStation_4.md "wikilink")[Xbox One](../Page/Xbox_One.md "wikilink")。其首度于上与使用了该引擎的《[全境封锁](https://zh.wikipedia.org/wiki/全境封锁 "wikilink")》一同亮相。
 
 ## 技术

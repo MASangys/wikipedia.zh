@@ -1,3 +1,6 @@
+> 本文内容由[Re-boot](https://zh.wikipedia.org/wiki/Re-boot)转换而来。
+
+
 《**Re-boot**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Golden Child首張正規專輯](../Page/Golden_Child.md "wikilink")，於2019年11月18日由[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")和[Kakao M發行](../Page/Kakao_M.md "wikilink")，主打歌為〈WANNABE〉。
 
 ## 回歸日程

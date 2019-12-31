@@ -1,3 +1,6 @@
+> 本文内容由[Draft:土族语/t](https://zh.wikipedia.org/wiki/Draft:土族语/t)转换而来。
+
+
 The **Monguor language** (; also written **Mongour** and **Mongor**) is a [蒙古语族](../Page/蒙古语族.md "wikilink") of its Shirongolic branch and is part of the Gansu–Qinghai [语言联盟](../Page/语言联盟.md "wikilink") (also called the [安多地区](../Page/安多地区.md "wikilink") sprachbund). There are several dialects, mostly spoken by the [土族](../Page/土族.md "wikilink") people. A written script was devised for Huzhu Monguor (Mongghul) in the late 20th century, but has been little used. A division into two languages, namely Mongghul in [互助土族自治县](https://zh.wikipedia.org/wiki/互助土族自治县 "wikilink") and Mangghuer in [民和回族土族自治县](https://zh.wikipedia.org/wiki/民和回族土族自治县 "wikilink"), is considered necessary by some linguists. While Mongghul was under strong influence from [安多语](../Page/安多语.md "wikilink"), the same holds for Mangghuer and [汉语](../Page/汉语.md "wikilink"), and local dialects of Chinese such as [甘沟话](https://zh.wikipedia.org/wiki/甘沟话 "wikilink") were in turn influenced by Monguor.
 
 ## 音系

@@ -1,3 +1,6 @@
+> 本文内容由[MX Linux](https://zh.wikipedia.org/wiki/MX_Linux)转换而来。
+
+
 **MX Linux**是一个中量级的[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[发行版](../Page/Linux发行版.md "wikilink")。\[1\]其基于[Debian稳定版本开发](https://zh.wikipedia.org/wiki/Debian#開發版本 "wikilink")，使用了的核心组件，并可安装MX社区开发或打包的[软件](../Page/软件.md "wikilink")。\[2\]MX Linux是antiX和早前的[MEPIS社区合作开发的产物](https://zh.wikipedia.org/wiki/MEPIS "wikilink")，旨在使用各自系统中最优秀的工具和软件。\[3\]MX社区的既定目标是“将优雅而高效的桌面与简单的配置、高度的稳定性、可靠的性能和中等的大小相结合”。\[4\]\[5\]MX Linux使用[Xfce](../Page/Xfce.md "wikilink")作为默认[桌面环境](../Page/桌面环境.md "wikilink")。\[6\]
 
 ## 历史

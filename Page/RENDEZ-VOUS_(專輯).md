@@ -1,3 +1,6 @@
+> 本文内容由[RENDEZ-VOUS \(專輯\)](https://zh.wikipedia.org/wiki/RENDEZ-VOUS_\(專輯\))转换而来。
+
+
 《**RENDEZ-VOUS**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")成員[任炫植](../Page/任炫植.md "wikilink")的首張個人韓語迷你專輯，專輯名稱為法文的「相遇」之意，於2019年10月14日正式發行。主打歌曲為〈DEAR LOVE〉。
 
 ## 背景

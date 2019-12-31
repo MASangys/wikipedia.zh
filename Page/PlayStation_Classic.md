@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation Classic](https://zh.wikipedia.org/wiki/PlayStation_Classic)转换而来。
+
+
 **PlayStation Classic**是[索尼互动娱乐开发和发售的一款](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[专用游戏机](https://zh.wikipedia.org/wiki/专用游戏机 "wikilink")，为1994年推出的[PlayStation之](../Page/PlayStation_\(遊戲機\).md "wikilink")[复刻版](https://zh.wikipedia.org/wiki/复刻版 "wikilink")，2018年9月在[东京电玩展](../Page/东京电玩展.md "wikilink")上公布，2018年12月3日（即PlayStation发行24周年纪念日）在全球限量发售。其主要竞争对手为[任天堂](../Page/任天堂.md "wikilink")推出的[迷你红白机](../Page/迷你红白机.md "wikilink")和[迷你超级任天堂](../Page/迷你超级任天堂.md "wikilink")。\[1\]
 
 ## 规格及功能

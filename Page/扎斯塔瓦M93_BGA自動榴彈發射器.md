@@ -1,3 +1,6 @@
+> 本文内容由[扎斯塔瓦M93 BGA自動榴彈發射器](https://zh.wikipedia.org/wiki/扎斯塔瓦M93_BGA自動榴彈發射器)转换而来。
+
+
 **扎斯塔瓦M93 BGA**（）是一挻由[塞尔维亚](../Page/塞尔维亚.md "wikilink")[克拉古耶瓦茨](../Page/克拉古耶瓦茨.md "wikilink")所生產的[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[图拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠所研製的](../Page/俄联邦仪器设计局.md "wikilink")[AGS-17「烈火」的彷製型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")，發射[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 ## 概述

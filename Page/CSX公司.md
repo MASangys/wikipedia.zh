@@ -1,3 +1,6 @@
+> 本文内容由[CSX公司](https://zh.wikipedia.org/wiki/CSX公司)转换而来。
+
+
 **CSX公司**（CSX Corporation）是一家美国铁路运输及房地产公司，1980年由Chessie System和Seaboard Coast Line Industries合并成立。两家公司旗下的铁路运输业务现由CSX公司的子公司[CSX运输公司运营](https://zh.wikipedia.org/wiki/CSX运输公司 "wikilink")。
 
 ## 子公司

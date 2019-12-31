@@ -1,3 +1,6 @@
+> 本文内容由[波士顿轻轨绿线E支线](https://zh.wikipedia.org/wiki/波士顿轻轨绿线E支线)转换而来。
+
+
 [波士顿轻轨绿线](../Page/波士顿轻轨绿线.md "wikilink")**E支线**也被称作**[亨廷顿大道支线](https://zh.wikipedia.org/wiki/亨廷顿大道 "wikilink")**，是一条位于[美国](../Page/美国.md "wikilink")[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[波士顿](../Page/波士顿.md "wikilink")，由[马萨诸塞湾交通局运营的](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局 "wikilink")[轻轨](../Page/轻轨.md "wikilink")轨道交通线路。1985年以前，线路终点站为，该支线当时也被称作**阿博维支线**。1985年至2011年，[希思街站](../Page/希思街站.md "wikilink")至阿博维站服务被“暂时”用39路公交取代，轻轨终点站暂设为希思街站。线路恢复项目由于2011年败诉被正式取消。[布里格姆环岛站至希思街站段轨道铺设在马路上](https://zh.wikipedia.org/wiki/布里格姆环岛站 "wikilink")，轻轨列车与其他机动车共享道路，这段线路也是目前马萨诸塞湾交通局系统中仅存的仍在正常营运使用的街面轨道。其他所有轻轨轨道均在行车道的[分隔带](../Page/分隔带.md "wikilink")、专用车道、隧道或者高架桥上
 
 布里格姆环岛站东北方向段，列车行驶在[亨廷顿大道行车道](https://zh.wikipedia.org/wiki/亨廷顿大道 "wikilink")[分隔带](../Page/分隔带.md "wikilink")中，经过[东北大学站后驶入亨廷顿大道地铁隧道](https://zh.wikipedia.org/wiki/东北大学站 "wikilink")，在[科普利站](../Page/科普利站.md "wikilink")西侧与其他绿线支线汇合后，驶向波士顿市中心。，E支线是唯一的开往[莱希米尔站](../Page/莱希米尔站.md "wikilink")的绿线分支。

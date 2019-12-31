@@ -1,3 +1,6 @@
+> 本文内容由[My Name is Michael Holbrook](https://zh.wikipedia.org/wiki/My_Name_is_Michael_Holbrook)转换而来。
+
+
 **My Name is Michael Holbrook** 是英國歌手 [MIKA](../Page/米卡_\(歌手\).md "wikilink") 的第五張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，在2019年10月4日發佈。\[1\]
 
 在專輯發佈前，MIKA發佈了多個專輯中的單曲，例如《Ice Cream》和《Tiny Love》\[2\]\[3\]。他也在紐約、蒙特婁、三藩市、洛杉磯和墨西哥城舉行過名為「Tiny Love Tour」的小型[巡迴演唱會以推廣本專輯](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")。\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[TiDB](https://zh.wikipedia.org/wiki/TiDB)转换而来。
+
+
 **TiDB**是一个开源的[NewSQL](../Page/NewSQL.md "wikilink")数据库，支持混合事务和分析处理（）工作负载\[1\]。它与[MySQL](../Page/MySQL.md "wikilink")兼容，并且可以提供水平可扩展性、强一致性和高可用性。它主要由PingCAP公司开发和支持，并在Apache 2.0下授权。TiDB从Google的Spanner\[2\]和F1\[3\]论文中汲取了最初的设计灵感。\[4\]
 
 TiDB被InfoWorld 2018 Bossie Award评选为最佳数据存储和分析开源软件之一。\[5\]

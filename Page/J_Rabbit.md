@@ -1,3 +1,6 @@
+> 本文内容由[J Rabbit](https://zh.wikipedia.org/wiki/J_Rabbit)转换而来。
+
+
 **J Rabbit**（）為2010年11月27日以單曲《Take One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，現任成員有鄭惠善以及鄭多雲。
 
 ## 團體資料

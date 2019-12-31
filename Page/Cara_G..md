@@ -1,3 +1,6 @@
+> 本文内容由[Cara G.](https://zh.wikipedia.org/wiki/Cara_G.)转换而来。
+
+
 ****（全名，），在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[維多利亞省出生的](https://zh.wikipedia.org/wiki/維多利亞省 "wikilink")[香港](../Page/香港.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")，六國[混血兒](../Page/混血兒.md "wikilink")。
 
 Cara G.的父親是[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[德國及](https://zh.wikipedia.org/wiki/德國 "wikilink")[愛爾蘭混血兒](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")；母親則是[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[中國](../Page/中國.md "wikilink")及[阿拉伯混血兒](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")，2006年來港出道。

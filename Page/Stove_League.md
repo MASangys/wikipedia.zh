@@ -1,3 +1,6 @@
+> 本文内容由[Stove League](https://zh.wikipedia.org/wiki/Stove_League)转换而来。
+
+
 《**Stove League**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年12月13日起播出的[金土連續劇](../Page/SBS金土連續劇.md "wikilink")，由《[奇怪的搭檔](../Page/奇怪的搭檔.md "wikilink")》、《[命運與憤怒](../Page/命運與憤怒.md "wikilink")》的鄭東允導演與李新華作家合作打造。此劇講述一個曾讓很多球隊重生的男子，到了常年排名倒數第一的職業棒球隊 Dreams 擔任新團長，在冬天讓熟悉失敗的腐敗球隊重新成長的故事。\[1\]\[2\]\[3\]
 
 香港由[myTV SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。台灣由[friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、[愛奇藝台灣站和](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")[myVideo影音隨看自](../Page/台灣大哥大.md "wikilink") 12/14 起首播。

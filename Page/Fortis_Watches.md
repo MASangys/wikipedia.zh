@@ -1,3 +1,6 @@
+> 本文内容由[Fortis Watches](https://zh.wikipedia.org/wiki/Fortis_Watches)转换而来。
+
+
 **FORTIS Watches AG**公司（前身为FORTIS Uhren AG）位于[格伦兴](../Page/格倫興.md "wikilink")，是一家[瑞士手表制造商](https://zh.wikipedia.org/wiki/瑞士 "wikilink")。该公司以其在计时码表方面的专业能力而闻名，\[1\] 在航空和太空旅行领域较为突出。\[2\]\[3\]
 
 ## 历史

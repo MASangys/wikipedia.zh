@@ -1,3 +1,6 @@
+> 本文内容由[乃木坂46 4th YEAR BIRTHDAY LIVE 2016.8.28-30 JINGU STADIUM](https://zh.wikipedia.org/wiki/乃木坂46_4th_YEAR_BIRTHDAY_LIVE_2016.8.28-30_JINGU_STADIUM)转换而来。
+
+
 《**乃木坂46 4th YEAR BIRTHDAY LIVE 2016.8.28-30 JINGU STADIUM**》是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[乃木坂46在](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")2016年8月28日至30日於日本[東京都](../Page/東京都.md "wikilink")[明治神宮棒球場](../Page/明治神宮棒球場.md "wikilink")舉行的四週年紀念公演，於2017年6月28日以DVD和Blu-ray形式發售。
 
 ## 背景

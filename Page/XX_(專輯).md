@@ -1,3 +1,6 @@
+> 本文内容由[XX \(專輯\)](https://zh.wikipedia.org/wiki/XX_\(專輯\))转换而来。
+
+
 《**XX**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[WINNER](../Page/WINNER.md "wikilink")的成員[宋旻浩的首張韓語正規專輯](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，專輯由[Genie音樂](../Page/Genie音樂.md "wikilink")發行於2018年11月26日\[1\]。《XX》歷時兩年製作\[2\]，包含《[Fiancé](../Page/Fiancé.md "wikilink")》在內共收錄12首歌曲，均由宋旻浩獨立或合作填詞與作曲，整體曲風以[嘻哈風格為主軸](../Page/嘻哈音樂.md "wikilink")，並揉和了[節奏布鲁斯與](../Page/节奏布鲁斯.md "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")\[3\]。
 
 ## 背景及預告

@@ -1,3 +1,6 @@
+> 本文内容由[Ground Truth](https://zh.wikipedia.org/wiki/Ground_Truth)转换而来。
+
+
 **基准真相**（英语：Ground Truth，又称：地面实况、上帝真相）是一个相对概念；它是指相对于新的[测量方式得到的测量值](https://zh.wikipedia.org/wiki/测量 "wikilink")，作为基准的，由已有的、可靠的测量方式得到的测量值（即[经验证据](https://zh.wikipedia.org/wiki/经验证据 "wikilink")）。人们往往会利用基准真相，对新的测量方式进行[校准](https://zh.wikipedia.org/wiki/校准 "wikilink")，以降低新测量方式的误差和提高新测量方式的准确性。
 
 机器学习领域借用了这一概念。使用训练所得[模型对样本进行](https://zh.wikipedia.org/wiki/模型 "wikilink")[推理](../Page/推理.md "wikilink")的过程，可以当做是一种广义上的测量行为。因此，在[有监督学习中](https://zh.wikipedia.org/wiki/监督式学习 "wikilink")，Ground Truth通常指代样本集中的标签。

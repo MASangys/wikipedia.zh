@@ -1,3 +1,6 @@
+> 本文内容由[Aerotrain](https://zh.wikipedia.org/wiki/Aerotrain)转换而来。
+
+
 **Aerotrain**是位于[马来西亚](../Page/马来西亚.md "wikilink")[吉隆坡国际机场](https://zh.wikipedia.org/wiki/吉隆坡国际机场 "wikilink")（KLIA）的[旅客捷運系統](../Page/旅客捷運系統.md "wikilink")（APM）。它与[吉隆坡国际机场一起在](https://zh.wikipedia.org/wiki/吉隆坡国际机场 "wikilink")1998年开始使用。 系统由两个站组成，一个在主航站楼，另一个在卫星大楼。 该系统是两个航站楼之间唯一的[旅客捷運系統](../Page/旅客捷運系統.md "wikilink")。
 
 ## 基本信息

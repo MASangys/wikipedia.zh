@@ -1,3 +1,6 @@
+> 本文内容由[VENUS PROJECT](https://zh.wikipedia.org/wiki/VENUS_PROJECT)转换而来。
+
+
 《**VENUS PROJECT**》（日语：ヴィーナス プロジェクト）是GALAT企划的型作品。
 
 ## 概要

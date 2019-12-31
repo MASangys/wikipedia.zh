@@ -1,3 +1,6 @@
+> 本文内容由[I\'m proud](https://zh.wikipedia.org/wiki/I\'m_proud)转换而来。
+
+
 《**I'm proud**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第3張單曲，由[小室哲哉](../Page/小室哲哉.md "wikilink")所製作。
 
 ## 說明

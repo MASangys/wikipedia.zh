@@ -1,3 +1,6 @@
+> 本文内容由[JavaScript引擎比较](https://zh.wikipedia.org/wiki/JavaScript引擎比较)转换而来。
+
+
 下表比较在[网页浏览器](../Page/网页浏览器.md "wikilink")内使用一些知名[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")对标准的支持。
 
 ## 表格解说

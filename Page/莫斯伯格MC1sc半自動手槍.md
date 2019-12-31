@@ -1,3 +1,6 @@
+> 本文内容由[莫斯伯格MC1sc半自動手槍](https://zh.wikipedia.org/wiki/莫斯伯格MC1sc半自動手槍)转换而来。
+
+
 **莫斯伯格MC1sc**（）是一款由[美国](../Page/美国.md "wikilink")槍械製造商所研製、生產並於2019年1月推出\[1\]的瘦身袖珍型[半自動手槍](../Page/半自動手槍.md "wikilink")，亦是該公司自推出100年以來首款手槍產品，\[2\]發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，額定膛壓為（+P）。
 
 ## 概述

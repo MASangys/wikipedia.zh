@@ -1,3 +1,6 @@
+> 本文内容由[NEW MOON \(AOA迷你專輯\)](https://zh.wikipedia.org/wiki/NEW_MOON_\(AOA迷你專輯\))转换而来。
+
+
 《**NEW MOON**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[AOA的第六張迷你專輯](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，由[FNC Entertainment於](../Page/FNC娛樂.md "wikilink")2019年11月26日發行，本作是繼[草娥退團以及](https://zh.wikipedia.org/wiki/草娥 "wikilink")[珉娥](../Page/珉娥.md "wikilink")約滿不續約後，[AOA](../Page/AOA.md "wikilink")首次以5人形式推出的作品。
 
 ## 發行

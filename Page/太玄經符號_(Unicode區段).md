@@ -1,3 +1,6 @@
+> 本文内容由[太玄經符號 \(Unicode區段\)](https://zh.wikipedia.org/wiki/太玄經符號_\(Unicode區段\))转换而来。
+
+
 **太玄經符號**是一個位於基本多文種平面的[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了《[太玄經](https://zh.wikipedia.org/wiki/太玄經 "wikilink")》的卦爻符號。
 
 ## 說明

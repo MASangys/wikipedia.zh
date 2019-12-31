@@ -1,3 +1,6 @@
+> 本文内容由[OCC CABLES](https://zh.wikipedia.org/wiki/OCC_CABLES)转换而来。
+
+
 **OCC Cables Limited**，簡稱**OCC Cables**（****，），是一間[馬來西亞電力電纜產品的供應商](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，於2018年10月5日起至10月11日招股，原來計劃2018年10月19日於聯交所主板掛牌上市，[獨家保薦人為](https://zh.wikipedia.org/wiki/獨家保薦人 "wikilink")[富強金融資本](https://zh.wikipedia.org/wiki/富強金融資本 "wikilink") \[1\]，但同年10月12日宣布擱置上市計劃。
 
 ## 經過

@@ -1,3 +1,6 @@
+> 本文内容由[模块:TDS](https://zh.wikipedia.org/wiki/模块:TDS)转换而来。
+
+
 \--\[=\[ 用來展示[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink") 放在方針的準則比較可以寫在[模块:Template:Delete/data/sandbox](https://zh.wikipedia.org/wiki/模块:Template:Delete/data/sandbox "wikilink")，並使用：  |{{\#invoke:TDS|desc_new|項}} }} 更簡單的方式：  \]=\]-- --local data = require( 'Module:Template:Delete/date' ) local datasb = require( 'Module:Template:Delete/data/sandbox' )
 
 local z = {}

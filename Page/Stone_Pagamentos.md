@@ -1,3 +1,6 @@
+> 本文内容由[Stone Pagamentos](https://zh.wikipedia.org/wiki/Stone_Pagamentos)转换而来。
+
+
 **Stone Pagamentos**是巴西的一家金融科技公司，创立于2012年巴西央行结束[信用卡](../Page/信用卡.md "wikilink")支付行业垄断之后\[1\]，其主要从事支付处理和金融服务，为在线零售商和实体商提供电子商务和[POS服务](https://zh.wikipedia.org/wiki/销售时点情报系统 "wikilink")。2019年，该公司占巴西支付市场份额的7%\[2\]。
 
 2018年，StoneCo.在[纳斯达克](../Page/纳斯达克.md "wikilink")上市，吸引了[巴菲特旗下](https://zh.wikipedia.org/wiki/巴菲特 "wikilink")[伯克希尔·哈撒韦公司以及](https://zh.wikipedia.org/wiki/伯克希尔·哈撒韦 "wikilink")[阿里巴巴](../Page/阿里巴巴.md "wikilink")旗下[蚂蚁金服](../Page/蚂蚁金服.md "wikilink")的投资者, 筹资估为15亿美元\[3\]。StoneCo是一家金融科技的提供商，通过其业务系统使得商家和集成合作伙伴能够在巴西的在线、实体以及移动端上进行商务交易\[4\]。

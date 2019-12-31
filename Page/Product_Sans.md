@@ -1,3 +1,6 @@
+> 本文内容由[Product Sans](https://zh.wikipedia.org/wiki/Product_Sans)转换而来。
+
+
 **Product Sans**是一款由Google建立并作商標用途的幾何[无衬线体](../Page/无衬线体.md "wikilink")[字体](../Page/字体.md "wikilink")\[1\]\[2\]，並在2015年9月1日取代了Google的旧版商標字體。由於Google的標示使用範圍的擴大，其公司開始设法改造商標效果以便在有限的空間中進行绘制，並使其在不同平臺上都能保持一致。
 
 **Google Sans**则是Product Sans的一个針對特定大小最佳化版本，並在Google一款定制版的[质感设计](../Page/质感设计.md "wikilink")Google Material Theme上用作显示字型\[3\]。

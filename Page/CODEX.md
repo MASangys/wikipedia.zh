@@ -1,3 +1,6 @@
+> 本文内容由[CODEX](https://zh.wikipedia.org/wiki/CODEX)转换而来。
+
+
 **CODEX**是**CO**-**D**etection by ind**EX**ing的縮寫（暫譯：索引協同檢測染色法），是一種新型態的高維度多工[免疫組織化學染色法](https://zh.wikipedia.org/wiki/免疫組織化學染色法 "wikilink")，由Akoya Biosciences\[1\]公司所開發。
 
 CODEX利用不同的[抗體與](https://zh.wikipedia.org/wiki/抗體 "wikilink")[DNA條形碼結合而成的複合體作為染色標記物](https://zh.wikipedia.org/wiki/DNA條形碼 "wikilink")\[2\]\[3\]，其[DNA條形碼作為索引標籤](https://zh.wikipedia.org/wiki/DNA條形碼 "wikilink")，是由特殊的雙股[寡核苷酸序列所組成](https://zh.wikipedia.org/wiki/寡核苷酸 "wikilink")，並以迭代的方式依次在不同標籤接上，達到與目標細胞高度專一性結合，同時幾乎無限制的高維度多工組織染色成像能力（實際上仍受限於儀器的速度與解析能力，目前約可產生40\~50種不同抗體的組織染色影像）。

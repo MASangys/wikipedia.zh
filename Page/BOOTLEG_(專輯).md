@@ -1,3 +1,6 @@
+> 本文内容由[BOOTLEG \(專輯\)](https://zh.wikipedia.org/wiki/BOOTLEG_\(專輯\))转换而来。
+
+
 **BOOTLEG**是[米津玄師](../Page/米津玄師.md "wikilink")的第4個專輯。
 
 ## 收录曲

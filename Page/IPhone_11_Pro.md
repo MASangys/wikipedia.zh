@@ -1,3 +1,6 @@
+> 本文内容由[IPhone 11 Pro](https://zh.wikipedia.org/wiki/IPhone_11_Pro)转换而来。
+
+
 **iPhone 11 Pro**和**iPhone 11 Pro Max**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[智能手機](../Page/智能手机.md "wikilink")。兩款都是繼iPhone XS和iPhone XS Max之後，iPhone的第13代旗艦產品。它們於2019年9月10日於[蘋果園區](../Page/蘋果園區.md "wikilink")的史蒂夫·喬布斯劇院（Steve Jobs Theater）中，蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[提姆·庫克](../Page/提姆·庫克.md "wikilink")對它與低端型號[iPhone 11一同亮相並作出簡介](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")。新型號從[iPhone XS有著重大變化](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")，就是該款手機配備了全新的後置三鏡頭拍攝系統\[1\]，還有新研發的[Apple A13晶片](../Page/Apple_A13.md "wikilink")\[2\]。iPhone 11是蘋果公司的第一款具有「專業」稱號的iPhone\[3\]，此名稱之前只用於較大尺寸的蘋果公司產品（例如[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")）\[4\]。該型號是第一款包含18W快速充電器及Lightning轉換USB-C電線的iPhone，讓它可以跟Mac電腦連接\[5\]。
 
 預售日期從2019年9月13日開始，並於2019年9月20日正式發行\[6\]。

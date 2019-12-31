@@ -1,3 +1,6 @@
+> 本文内容由[WACK EXHiBiTiON](https://zh.wikipedia.org/wiki/WACK_EXHiBiTiON)转换而来。
+
+
 WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活動，並直播參加者的試鏡訓練營。並由[Niconico在這個活動上的直播](../Page/Niconico直播.md "wikilink")，活動時間為1至7天不等。WACK EXHiBiTiON的前半部份為WACK的團體現場表演，後半部份為WACK團體有部份參加合宿營的成員的表現，會接受獎賞和懲罰。叧外是試鏡參加者是否獲選為WACK的成員，並會公告重要事情（例：昇格和移籍或者解散及成立新團體），現時巳經舉行了第三屆（2017年至2019年）。\[1\]
 
 ## 2017年

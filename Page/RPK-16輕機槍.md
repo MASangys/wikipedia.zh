@@ -1,3 +1,6 @@
+> 本文内容由[RPK-16輕機槍](https://zh.wikipedia.org/wiki/RPK-16輕機槍)转换而来。
+
+
 **RPK-16**（，簡稱：，意為：卡拉什尼科夫2016年手提機槍，[俄羅斯國防部火箭炮兵裝備總局尚未公開其代號](https://zh.wikipedia.org/wiki/俄羅斯國防部火箭炮兵裝備總局 "wikilink")；一度被推測為RPK-12）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）接收到[俄羅斯軍隊對AK槍族常見缺陷的意見并作出改進及生產的現代化](../Page/俄罗斯军事.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")（[自动步枪](../Page/自动步枪.md "wikilink")／），可說是[RPK-74輕機槍](../Page/RPK-74輕機槍.md "wikilink")的進一步現代化改進型及[AK-12突击步枪](../Page/AK-12突击步枪.md "wikilink")的重槍管自動步槍版本，自卡拉什尼科夫集團在ARMY-2016公開展示起，受到俄羅斯軍隊的高度重視，並且與AK-12一同不斷改進。\[1\]發射[5.45×39毫米](../Page/5.45×39mm.md "wikilink")（M74）[苏联](../Page/苏联.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這是俄羅斯RPK槍族系列輕機槍的最新衍生型，並提出可能普遍地發配給[俄羅斯軍隊每一單位](../Page/俄罗斯联邦武装力量.md "wikilink")。該機槍的目的是最終取代俄羅斯軍隊和其他政府部隊（無論常規或是[特種部隊](../Page/特種部隊.md "wikilink")當中）服役的前代卡拉什尼科夫5.45×39毫米輕機槍，即[RPK-74](../Page/RPK-74輕機槍.md "wikilink")。\[2\]\[3\]根據關注卡拉什尼科夫的專家謝爾蓋拉德克維奇的說法，該機槍汲取了現代武裝衝突的經驗。\[4\]

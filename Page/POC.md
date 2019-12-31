@@ -1,3 +1,6 @@
+> 本文内容由[POC](https://zh.wikipedia.org/wiki/POC)转换而来。
+
+
 **POC**、**PoC**、或**POc**可以指：
 
 ## 商业

@@ -1,3 +1,6 @@
+> 本文内容由[Libguestfs](https://zh.wikipedia.org/wiki/Libguestfs)转换而来。
+
+
 **libguestfs**是一组使用于[硬件虚拟化](../Page/硬件虚拟化.md "wikilink")中旨在用于访问及修改[磁盘映像](../Page/磁盘映像.md "wikilink")的[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")[函式庫](../Page/函式庫.md "wikilink")和配套工具。此工具可查看并编辑由[libvirt所管理的虚拟机及其内部文件](https://zh.wikipedia.org/wiki/libvirt "wikilink")、为虚拟机撰写脚本、创建虚拟机等等\[1\]。
 
 libguestfs几乎可访问任意类型的文件系统，包括：所有已知类型的Linux文件系统（[ext2](../Page/Ext2.md "wikilink")/[3](../Page/Ext3.md "wikilink")/[4](../Page/Ext4.md "wikilink")、[XFS](../Page/XFS.md "wikilink")、[btrfs等等](../Page/Btrfs.md "wikilink")）、任意类型的Windows 文件系统（[VFAT及](../Page/FAT.md "wikilink")[NTFS](../Page/NTFS.md "wikilink")）、任意类型的macOS及BSD文件系统、[LVM2卷宗管理](https://zh.wikipedia.org/wiki/邏輯捲軸管理員 "wikilink")、[MBR及](../Page/主引导记录.md "wikilink")[GPT磁盘分区](../Page/GUID磁碟分割表.md "wikilink")、未格式化的硬盘、、VirtualBox [VDI](../Page/VirtualBox.md "wikilink")、VMWare [VMDK](../Page/VMDK.md "wikilink")、Hyper-V /VHDX、文件、本地设备、CD/DVD ISO、SD卡或通过FTP、HTTP、[SSH](../Page/Secure_Shell.md "wikilink")、[iSCSI](../Page/ISCSI.md "wikilink")、[NBD](../Page/网络块设备.md "wikilink")、、、Sheepdog等程序远程管理。libguestfs无需root权限。

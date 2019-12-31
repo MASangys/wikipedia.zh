@@ -1,3 +1,6 @@
+> 本文内容由[Karencici](https://zh.wikipedia.org/wiki/Karencici)转换而来。
+
+
 **林愷倫**（英文名：**Karencici**，），是一名美籍華裔女歌手，擁有獨特嗓音與歌唱天賦和表演能量，現在為[華研國際音樂](../Page/華研國際音樂.md "wikilink")旗下歌手。
 
 ## 音樂作品

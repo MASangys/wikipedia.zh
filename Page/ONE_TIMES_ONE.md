@@ -1,3 +1,6 @@
+> 本文内容由[ONE TIMES ONE](https://zh.wikipedia.org/wiki/ONE_TIMES_ONE)转换而来。
+
+
 《**ONE TIMES ONE**》是[可苦可樂](../Page/可苦可樂.md "wikilink")的第29張[CD單曲](https://zh.wikipedia.org/wiki/CD單曲 "wikilink")。於2018年4月11日由[Warner Music Japan發行](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
 ## 簡介

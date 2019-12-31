@@ -1,3 +1,6 @@
+> 本文内容由[IPad mini \(第五代\)](https://zh.wikipedia.org/wiki/IPad_mini_\(第五代\))转换而来。
+
+
 **第五代iPad mini**（正式名称仅为**iPad mini**，而**iPad mini 5**为俗称）是[苹果在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2019年3月18日于其官网更新的一款7.9英寸[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板电脑产品](../Page/平板電腦.md "wikilink")。iPad mini第五代搭载[A12仿生处理器](../Page/Apple_A12_Bionic.md "wikilink")、支持P3广色域显示和原彩显示的[视网膜显示屏](../Page/Retina显示屏.md "wikilink")，并首次支持了[Apple Pencil](../Page/Apple_Pencil.md "wikilink")（第一代）和第三方蓝牙键盘连接。其仍旧保留了前代机型[iPad mini 4的机身设计](../Page/IPad_mini_4.md "wikilink")、边框宽度和[触控 ID](../Page/触控_ID.md "wikilink")。\[1\]
 
 ## 功能与特色

@@ -1,3 +1,6 @@
+> 本文内容由[布瑞特O.B](https://zh.wikipedia.org/wiki/布瑞特O.B)转换而来。
+
+
 **布瑞特B.O**（，） ，為來自[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手之一](https://zh.wikipedia.org/wiki/選手 "wikilink")，在美國職棒選秀會由[亞特蘭大勇士](../Page/亞特蘭大勇士.md "wikilink")隊以第8輪第2500順位選進，2019年起效力於[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[中信兄弟](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")，守備位置為[投手](../Page/投手.md "wikilink")。\[1\]
 
 ## 經歷

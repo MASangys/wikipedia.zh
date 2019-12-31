@@ -1,3 +1,6 @@
+> 本文内容由[Remi \(Cherry Bullet\)](https://zh.wikipedia.org/wiki/Remi_\(Cherry_Bullet\))转换而来。
+
+
 **勝野莉世**（，；），藝名為**莉美**（；；）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
 ## 經歷

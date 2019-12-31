@@ -1,3 +1,6 @@
+> 本文内容由[RA MU](https://zh.wikipedia.org/wiki/RA_MU)转换而来。
+
+
 **RA MU**（）为[1988年](../Page/1988年.md "wikilink")时以[偶像歌手](../Page/偶像_\(日本\).md "wikilink")[菊池桃子](../Page/菊池桃子.md "wikilink")与作为[融合爵士乐乐团](https://zh.wikipedia.org/wiki/融合爵士乐 "wikilink")的供曲者而著名的[键盘手松浦義和为中心结成的](https://zh.wikipedia.org/wiki/键盘手 "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")。
 
 ## 概要

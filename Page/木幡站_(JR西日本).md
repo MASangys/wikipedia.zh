@@ -1,3 +1,6 @@
+> 本文内容由[木幡站 \(JR西日本\)](https://zh.wikipedia.org/wiki/木幡站_\(JR西日本\))转换而来。
+
+
 |啟用年月日 = 1896年（[明治](../Page/明治.md "wikilink")29年）1月25日 |廢站年月日 = |車站構造 = [地面車站](../Page/地面車站.md "wikilink") |月台配置 = 2面2線 |乘客人數 = 2,762 |上下車人次 = |統計年度 =2017年 |停站路線數 = |所屬路線 = **** [奈良線](../Page/奈良線.md "wikilink") |前一站 = JR-D06 [六地藏](https://zh.wikipedia.org/wiki/六地藏站 "wikilink") |前一站距離 = 1.0 |後一站距離 = 1.4 |後一站 =  JR-D08 |距離 = 10.6 |起點站 = [京都](../Page/京都站.md "wikilink")（正式起點為[木津站](https://zh.wikipedia.org/wiki/木津站_\(京都府\) "wikilink")） |轉車 = |備註 = [業務委託車站](https://zh.wikipedia.org/wiki/日本鐵路車站#業務委託車站 "wikilink")
 站內設有[綠色窗口](https://zh.wikipedia.org/wiki/綠色窗口 "wikilink") }} **木幡站**（）位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀨戶，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。車站編號是**JR-D07**。
 

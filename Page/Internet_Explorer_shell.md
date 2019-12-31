@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer shell](https://zh.wikipedia.org/wiki/Internet_Explorer_shell)转换而来。
+
+
 **Internet Explorer shell**是使用[Internet Explorer](../Page/Internet_Explorer.md "wikilink") [布局引擎](../Page/排版引擎.md "wikilink") （称为[MSHTML](../Page/Trident_\(排版引擎\).md "wikilink") ）的任何计算机程序（ [Web浏览器或其他](../Page/网页浏览器.md "wikilink")）。这个引擎是[闭源的](../Page/专有软件.md "wikilink") ，但是微软已经公开了一个[应用程序编程接口](../Page/应用程序接口.md "wikilink") （API），它允许开发人员在他们软件的图形用户界面中[实例化](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink") [MSHTML或一个成熟的](../Page/Trident_\(排版引擎\).md "wikilink")[无格式](../Page/图形用户界面.md "wikilink") [Internet Explorer](../Page/Internet_Explorer.md "wikilink")（称为WebBrowser控件）。 \[1\]
 
 ## Web浏览器

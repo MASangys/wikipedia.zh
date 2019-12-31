@@ -1,3 +1,6 @@
+> 本文内容由[金色Loveriche](https://zh.wikipedia.org/wiki/金色Loveriche)转换而来。
+
+
 是[SAGA PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2017年12月22日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2019年2月22日發售續作《金色Loveriche -Golden Time-》\[2\]。
 
 ## 故事簡介

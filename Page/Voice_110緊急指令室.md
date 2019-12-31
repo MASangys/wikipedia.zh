@@ -1,3 +1,6 @@
+> 本文内容由[Voice 110緊急指令室](https://zh.wikipedia.org/wiki/Voice_110緊急指令室)转换而来。
+
+
 **Voice 110緊急指令室**（）是2019年7月13日起於[日本電視台](../Page/日本電視台.md "wikilink")播出的電視劇，由[唐澤壽明](../Page/唐澤壽明.md "wikilink")\[1\]主演，翻拍自[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台](https://zh.wikipedia.org/wiki/OCN "wikilink")《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》系列電視劇\[2\]\[3\]，劇情主要描述港東署ECU（Emergency Call Unit）一名緊急出動班班長，因自己沒有注意到妻子遇害前打來的求救電話，而使得妻子遭到殺害。因此成為緊急指令室的一員，與擁有絕對聽感但父親被殺害的聲紋分析官及同僚們一同阻止犯罪的過程與點滴\[4\]\[5\]。
 
 ## 演員列表

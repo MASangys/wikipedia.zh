@@ -1,3 +1,6 @@
+> 本文内容由[Buffer](https://zh.wikipedia.org/wiki/Buffer)转换而来。
+
+
 **Buffer** 可以指：
 
 ## 科學

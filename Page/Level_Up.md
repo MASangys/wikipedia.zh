@@ -1,3 +1,6 @@
+> 本文内容由[Level Up](https://zh.wikipedia.org/wiki/Level_Up)转换而来。
+
+
 《**Level Up**》（），為韓國[MBN於](https://zh.wikipedia.org/wiki/MBN "wikilink")2019年7月10日起播出的[水木連續劇](../Page/MBN水木連續劇.md "wikilink")，由金相宇導演與金東圭作家合作打造。此劇講述過往從無失敗經驗的企業拯救專家與沉迷電腦遊戲的宅女，一起拯救生意跌落谷底的遊戲公司，為推出新作品而奮戰的故事。\[1\]\[2\]台灣由[LINE TV](../Page/LINE_TV.md "wikilink")、[愛奇藝台灣站每週四五播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。
 
 ## 演員陣容

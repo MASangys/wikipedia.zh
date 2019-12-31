@@ -1,3 +1,6 @@
+> 本文内容由[WireGuard](https://zh.wikipedia.org/wiki/WireGuard)转换而来。
+
+
 **WireGuard** 是由 Jason A. Donenfeld 开发的[开放源代码](../Page/开放源代码.md "wikilink") [VPN](../Page/虛擬私人網路.md "wikilink") 程序及协议\[1\]，基于 [Linux](../Page/Linux.md "wikilink") 内核实现，利用 [Curve25519](../Page/Curve25519.md "wikilink") 进行密钥交换，[ChaCha20和](../Page/Salsa20.md "wikilink")[Poly1305](../Page/Poly1305.md "wikilink")用于数据身份认证，用于[散列函數](../Page/散列函數.md "wikilink")运算\[2\]，支持 [IPv4](../Page/IPv4.md "wikilink") 和 [IPv6](../Page/IPv6.md "wikilink") 的第3层，并且可以封装v4-in-v6，反之亦然。\[3\]WireGuard 旨在获得比 [IPsec](../Page/IPsec.md "wikilink") 和 [OpenVPN](../Page/OpenVPN.md "wikilink") 更好的性能。\[4\]
 
 ## 參考來源

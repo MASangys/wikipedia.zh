@@ -1,3 +1,6 @@
+> 本文内容由[TEAM SMILE](https://zh.wikipedia.org/wiki/TEAM_SMILE)转换而来。
+
+
 **TEAM SMILE**（），是在2011年[东日本大震灾发生后](https://zh.wikipedia.org/wiki/东日本大震灾 "wikilink")，日本娱乐界为了支持复兴建设而成立的团体。现任理事长为的社长\[1\]。
 
 ## 简介

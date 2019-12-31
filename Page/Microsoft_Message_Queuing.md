@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Message Queuing](https://zh.wikipedia.org/wiki/Microsoft_Message_Queuing)转换而来。
+
+
 **Microsoft Message Queuing**或**MSMQ**[微软公司实现的一种](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[消息队列](../Page/消息队列.md "wikilink")，始于[Windows NT 4与](https://zh.wikipedia.org/wiki/Windows_NT_4 "wikilink")[Windows 95](../Page/Windows_95.md "wikilink")。[Windows Server 2016与](../Page/Windows_Server_2016.md "wikilink")[Windows 10仍然包含这种组件](../Page/Windows_10.md "wikilink")。1999年起，[Microsoft Embedded平台以及](../Page/Windows_IoT.md "wikilink")[Windows CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink") 3.0也开始支持这一组件。\[1\]
 
 ## 简介

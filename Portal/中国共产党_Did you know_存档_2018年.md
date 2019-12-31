@@ -1,3 +1,6 @@
+> 本文内容由[Portal:中国共产党/Did you know/存档/2018年](https://zh.wikipedia.org/wiki/Portal:中国共产党/Did_you_know/存档/2018年)转换而来。
+
+
 ## 2018年
 
 ### 12月

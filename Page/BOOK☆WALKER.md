@@ -1,3 +1,6 @@
+> 本文内容由[BOOK☆WALKER](https://zh.wikipedia.org/wiki/BOOK☆WALKER)转换而来。
+
+
 **BOOK☆WALKER**（），台灣漫讀公司於2015年8月成立，2016年2月15日推出繁體中文的電子書平台。
 
 透過與日本BOOK☆WALKER技術合作，提供使用者功能完善的電子書購買與閱讀平台。

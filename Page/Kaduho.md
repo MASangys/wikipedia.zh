@@ -1,3 +1,6 @@
+> 本文内容由[Kaduho](https://zh.wikipedia.org/wiki/Kaduho)转换而来。
+
+
 **Kaduho**（，），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身於[栃木縣](../Page/栃木縣.md "wikilink")，現居於[東京都](../Page/東京都.md "wikilink")\[1\]。畢業後，進學就讀桐生短期大學（今[桐生大學短期大學部](https://zh.wikipedia.org/wiki/桐生大學短期大學部 "wikilink")）藝術設計學科（2004年）\[2\]，畢業\[3\]。
 
 代表作《[愛殺寶貝](../Page/愛殺寶貝.md "wikilink")》是Kaduho在[芳文社](../Page/芳文社.md "wikilink")月刊雜誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2008年1月號短篇發表、同年7月號開始連載至今的作品，並已播出改編電視動畫。他除了畫漫畫之外，同時以「腹痛」名義進行[同人活動](https://zh.wikipedia.org/wiki/同人 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Z-boys](https://zh.wikipedia.org/wiki/Z-boys)转换而来。
+
+
 **Z-boys**，是Zenith Media Contents於2019年推出的七人男團，成員包括Perry、Malvin、Roy、Josh、Sid、Gai及Blink。在2019年2月22日發行專輯Z-pop Dream（同屬女團[Z-girls](../Page/Z-girls.md "wikilink")亦參與此張出道專輯，與其同日出道），隔日於蠶室室內體育館的Z-pop Dream Live In Seoul開啓出道舞台。而7名團員中，沒有韓國籍成員，全由7個不同國家的成員組成為其特色\[1\]。
 
 ## 團體資料

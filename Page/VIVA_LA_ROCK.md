@@ -1,3 +1,6 @@
+> 本文内容由[VIVA LA ROCK](https://zh.wikipedia.org/wiki/VIVA_LA_ROCK)转换而来。
+
+
 **VIVA LA ROCK**（全称：VIVA LA ROCK FESTIVAL；；简称：），是[日本](../Page/日本.md "wikilink")的一个室内[摇滚](../Page/摇滚.md "wikilink")[音乐节](https://zh.wikipedia.org/wiki/音樂節 "wikilink")。由音乐杂志社和演唱会运营商共同主办\[1\]。2014年首次举办，此后每年5月的[黄金周期间在](../Page/黄金周_\(日本\).md "wikilink")[埼玉超级竞技场进行为期](../Page/埼玉超級競技場.md "wikilink")3天的音乐节活动\[2\]。制作人为《》杂志主编、音乐评论家。VIVA LA ROCK已经发展成为[埼玉县史上最大规模的音乐节](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")\[3\]\[4\]。
 
 ## 简介

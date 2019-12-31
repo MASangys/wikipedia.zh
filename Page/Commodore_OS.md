@@ -1,3 +1,6 @@
+> 本文内容由[Commodore OS](https://zh.wikipedia.org/wiki/Commodore_OS)转换而来。
+
+
 **Commodore OS**（全名：**Commodore OS Vision**）是一個由[康懋达国际](../Page/康懋达国际.md "wikilink")所開發的可免費下載的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，且被使用於[康懋达国际](../Page/康懋达国际.md "wikilink")所出產的電腦中。該發行版以[Linux Mint為基底](../Page/Linux_Mint.md "wikilink")，使用了[GNOME 2](https://zh.wikipedia.org/wiki/GNOME#GNOME_2 "wikilink") [桌面環境](../Page/桌面环境.md "wikilink")，且只能在[x86-64架構上運作](https://zh.wikipedia.org/wiki/x86-64 "wikilink")。
 
 第一個公開的測試版本於2011年11月11日釋出。**\[1\]**它也被持續的更新到了0.8 Beta版本，但沒能有機會突破Beta階段。後來在[DistroWatch](../Page/DistroWatch.md "wikilink")所釋出的1.0版本則突破了Beta階段。

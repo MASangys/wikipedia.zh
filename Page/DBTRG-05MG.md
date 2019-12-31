@@ -1,3 +1,6 @@
+> 本文内容由[DBTRG-05MG](https://zh.wikipedia.org/wiki/DBTRG-05MG)转换而来。
+
+
 **DBTRG-05MG**是[人類](../Page/人類.md "wikilink")腦[膠質母細胞瘤](https://zh.wikipedia.org/wiki/膠質母細胞瘤 "wikilink")，最初是分離自一名59歲已接受[化療的](https://zh.wikipedia.org/wiki/化療 "wikilink")[人類](../Page/人類.md "wikilink")[女性](../Page/女性.md "wikilink")多形性膠質母細胞瘤[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")。DBTRG-05MG細胞的[核型是](https://zh.wikipedia.org/wiki/核型 "wikilink")[近四倍體](../Page/染色體倍性.md "wikilink")，大多數的細胞缺失[10號染色體的拷貝](https://zh.wikipedia.org/wiki/10號染色體 "wikilink")，並且具有[7號染色體的額外拷貝](https://zh.wikipedia.org/wiki/7號染色體 "wikilink")\[1\]。
 
 DBTRG-05MG細胞對[血小板衍生生長因子](../Page/血小板衍生生長因子.md "wikilink")、[神經元黏附分子](../Page/神經元黏附分子.md "wikilink")、神經及[人類白血球抗原第二類分子呈現](https://zh.wikipedia.org/wiki/人類白血球抗原 "wikilink")[陰性反應](https://zh.wikipedia.org/wiki/陰性 "wikilink")，並且在p53腫瘤抑制蛋白中，沒有檢測到[雜合性丟失](https://zh.wikipedia.org/wiki/雜合性丟失 "wikilink")\[2\]。

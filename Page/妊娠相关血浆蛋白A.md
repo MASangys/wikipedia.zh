@@ -1,3 +1,6 @@
+> 本文内容由[妊娠相关血浆蛋白A](https://zh.wikipedia.org/wiki/妊娠相关血浆蛋白A)转换而来。
+
+
 **妊娠相关血浆蛋白A**（，或Pappalysin-1，缩写PAPP-A）是一种由人类[基因](../Page/基因.md "wikilink") *PAPPA* 编码的[蛋白质](../Page/蛋白质.md "wikilink")，PAPP-A是一种分泌[蛋白酶](../Page/蛋白酶.md "wikilink")，其主要底物是[胰岛素样生长因子结合蛋白](../Page/胰岛素样生长因子结合蛋白.md "wikilink")。PAPP-A也用于[唐氏综合征](../Page/唐氏综合征.md "wikilink")的筛查试验。\[1\]\[2\]
 
 ## 功能

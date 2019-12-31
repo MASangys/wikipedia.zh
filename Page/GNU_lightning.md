@@ -1,3 +1,6 @@
+> 本文内容由[GNU lightning](https://zh.wikipedia.org/wiki/GNU_lightning)转换而来。
+
+
 </ref> | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | platform = [GNU](../Page/GNU.md "wikilink") | genre = [即时编译](https://zh.wikipedia.org/wiki/即时编译 "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")、[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink") | website =  }} **GNU lightning**是在[运行时生成](https://zh.wikipedia.org/wiki/运行时 "wikilink")[汇编语言](../Page/汇编语言.md "wikilink")代码的自由软件库。版本2.0发行于2013年8月，支持的后端包括：[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")（32-bit和64-bit）、[ARM](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")（32-bit）、[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")、[SPARC](../Page/SPARC.md "wikilink")（32-bit）和[PA-RISC](https://zh.wikipedia.org/wiki/PA-RISC "wikilink")\[1\]。
 
 ## 相较其他库的优点

@@ -1,3 +1,6 @@
+> 本文内容由[帕克·黑爾IDW衝鋒槍](https://zh.wikipedia.org/wiki/帕克·黑爾IDW衝鋒槍)转换而来。
+
+
 **IDW衝鋒槍**(原名:布希曼衝鋒鎗)是一款使用[9×19毫米鲁格彈的](https://zh.wikipedia.org/wiki/9×19mm鲁格彈 "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")。
 
 ## 設計

@@ -1,3 +1,6 @@
+> 本文内容由[福島市飯野UFO交流館](https://zh.wikipedia.org/wiki/福島市飯野UFO交流館)转换而来。
+
+
 **福島市飯野UFO交流館**（）是一個展出[UFO相關文獻的展示館](https://zh.wikipedia.org/wiki/UFO "wikilink")，1992年建館。位於[日本](../Page/日本.md "wikilink")[福島市](../Page/福島市.md "wikilink")「UFO的里」之內，山腰上\[1\]\[2\]。
 
 館內藏有約三千件與UFO相關的資料\[3\]，其中包括創立者生前的藏書\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Senses Inherited](https://zh.wikipedia.org/wiki/Senses_Inherited)转换而来。
+
+
 《**Senses Inherited**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張敬軒的個人音樂專輯](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")，於2018年12月21日推出\[1\]。
 
 此專輯是[張敬軒向](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[林憶蓮](../Page/林憶蓮.md "wikilink")於[1996年](../Page/1996年.md "wikilink")推出的粵語專輯《[感覺完美](../Page/感覺完美.md "wikilink")》作致敬而推出的作品\[2\]，亦刻意找來有份參與《[感覺完美](../Page/感覺完美.md "wikilink")》的音樂人[周國儀](https://zh.wikipedia.org/wiki/周國儀 "wikilink")（Mac Chew）為他整張唱片進行編曲工作（《天才兒童1985》除外）。值得一提的是，此專輯為香港樂壇少數能夠所有派台歌曲均於同年內榮獲**四台冠軍歌**美譽的粵語專輯。

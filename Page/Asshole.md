@@ -1,3 +1,6 @@
+> 本文内容由[Asshole](https://zh.wikipedia.org/wiki/Asshole)转换而来。
+
+
 **Asshole**，中文意思是討厭鬼、蠢材、[笨蛋](https://zh.wikipedia.org/wiki/笨蛋 "wikilink")、混蛋，也可以指[臀部](https://zh.wikipedia.org/wiki/臀部 "wikilink")、[肛門](https://zh.wikipedia.org/wiki/肛門 "wikilink")\[1\]。這个詞語通常用於罵人，屬[貶義和](https://zh.wikipedia.org/wiki/貶義 "wikilink")[髒話](../Page/髒話.md "wikilink")。類似意思的漢語粗口詞有「[尻](https://zh.wikipedia.org/wiki/尻 "wikilink")」、「[屁精](https://zh.wikipedia.org/wiki/肛門 "wikilink")」、「屎忽鬼（粵語詞）」等。
 
 這個詞用語粗俗，通常用來形容那些被視為愚蠢、無能、不愉快或可憎的人\[2\]。

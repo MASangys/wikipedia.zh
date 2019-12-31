@@ -1,3 +1,6 @@
+> 本文内容由[OPPO Reno](https://zh.wikipedia.org/wiki/OPPO_Reno)转换而来。
+
+
 **OPPO Reno**與**OPPO Reno 10倍變焦版**是[OPPO](../Page/OPPO.md "wikilink")開發和製造的[Android](../Page/Android.md "wikilink")系統[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，於2019年4月10日正式發布。\[1\]\[2\]\[3\]\[4\]
 
 ## 規格

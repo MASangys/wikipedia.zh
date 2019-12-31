@@ -1,3 +1,6 @@
+> 本文内容由[EMPiRE \(偶像團體\)](https://zh.wikipedia.org/wiki/EMPiRE_\(偶像團體\))转换而来。
+
+
 **EMPiRE**（エンパイア）是日本的音樂團體、[日本](../Page/日本.md "wikilink")的[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")。
 2017年結成。隸屬於WACK。唱片公司為avex trax。他們的粉絲被官方稱為「**エージェント**」。
 

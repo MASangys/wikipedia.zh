@@ -1,3 +1,6 @@
+> 本文内容由[I LUV](https://zh.wikipedia.org/wiki/I_LUV)转换而来。
+
+
 **I LUV**（），是[韓國WKS](https://zh.wikipedia.org/wiki/韓國 "wikilink") ENE於2019年推出的五人女子組合，成員包括Seoyun、Dahyeon、Mari、Choesang及Gahyeon。由於Seoyun是[EXO](../Page/EXO.md "wikilink")[金鍾大的表妹](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")，因此出道時受到關注\[1\]。
 
 ## 外部連結

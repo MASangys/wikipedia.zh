@@ -1,3 +1,6 @@
+> 本文内容由[1MILLION DANCE STUDIO](https://zh.wikipedia.org/wiki/1MILLION_DANCE_STUDIO)转换而来。
+
+
 **1MILLION DANCE STUDIO**是一家韓國的舞蹈工作室，2006年由Lia Kim成立\[1\]目前旗下有21名編舞家，其中有12位女編舞家及9位男編舞家。\[2\]\[3\]\[4\]。
 
 ## 目前旗下編舞家

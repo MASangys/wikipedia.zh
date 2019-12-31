@@ -1,3 +1,6 @@
+> 本文内容由[WJ Please\?](https://zh.wikipedia.org/wiki/WJ_Please\?)转换而来。
+
+
 **《WJ Please?》**是韓國女子團體[宇宙少女的第五張迷你專輯](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[樂華娛樂企劃](https://zh.wikipedia.org/wiki/樂華娛樂 "wikilink")，並由[Kakao M於](../Page/Kakao_M.md "wikilink")2018年9月19日發行，專輯共收錄6首歌曲，主打歌為《拜託了（SAVE ME, SAVE YOU）》。
 
 ## 经历

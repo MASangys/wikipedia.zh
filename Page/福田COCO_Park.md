@@ -1,3 +1,6 @@
+> 本文内容由[福田COCO Park](https://zh.wikipedia.org/wiki/福田COCO_Park)转换而来。
+
+
 [COCO_Park_Inside2.jpg](https://zh.wikipedia.org/wiki/File:COCO_Park_Inside2.jpg "fig:COCO_Park_Inside2.jpg") 福田Coco Park邻近[深圳会展中心及](https://zh.wikipedia.org/wiki/深圳会展中心 "wikilink")[深圳地铁](https://zh.wikipedia.org/wiki/深圳地铁 "wikilink")[购物公园站](https://zh.wikipedia.org/wiki/购物公园站 "wikilink")，於2006年9月30日正式对外开放，是星河商置旗下第一個[COCO Park品牌商場](../Page/COCO_Park.md "wikilink")。商场楼高5层，面积达85,000平方米。商场设有[百老匯院線](../Page/百老匯院線.md "wikilink")，提供5个影院，合共774座位的戏院，為百老匯院線在中國內地首家影院。整个项目总投资达6.8亿[人民币](../Page/人民币.md "wikilink")。
 
 ## 商场设计

@@ -1,3 +1,6 @@
+> 本文内容由[OptimFROG](https://zh.wikipedia.org/wiki/OptimFROG)转换而来。
+
+
 **OptimFROG** 是一個 [專有](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")[無損](https://zh.wikipedia.org/wiki/非破壞性資料壓縮 "wikilink")[音訊壓縮](../Page/音訊壓縮_\(格式\).md "wikilink")[編解碼器](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")，由 Florin Ghido 開發。OptimFROG 針對超高壓縮比進行了優化，但代價是必須犧牲編碼與解碼的速度。
 
 ## OptimFROG DualStream

@@ -1,3 +1,6 @@
+> 本文内容由[Stage K](https://zh.wikipedia.org/wiki/Stage_K)转换而来。
+
+
 《**K-POP CHALLENGE <Stage K>**》（），簡稱《**Stage K**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")電視台於2019年4月7日至6月23日推出的[K-Pop舞蹈比賽節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[1\]，並由[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、[Dara及](https://zh.wikipedia.org/wiki/Dara "wikilink")[宥斌共同擔任固定評審](https://zh.wikipedia.org/wiki/宥斌 "wikilink")（K-Leaders）\[2\]。節目主軸為來自世界各地的挑戰者組隊進行[K-Pop舞蹈比賽](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，每集會從四強隊伍中選出一支優勝隊伍。優勝隊伍除了可得到500萬韓元獎金及獎品外，還可獲得與該集主題歌手（Dream Star）表演合作舞台的機會，以及王中王戰出戰資格。
 
 ## 四強隊伍選拔過程

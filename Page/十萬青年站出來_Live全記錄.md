@@ -1,3 +1,6 @@
+> 本文内容由[十萬青年站出來 Live全記錄](https://zh.wikipedia.org/wiki/十萬青年站出來_Live全記錄)转换而来。
+
+
 《**十萬青年站出來 Live巡迴演唱會全記錄**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第二張現場專輯，是收錄他們於2000年8月12、19、26日分別在臺北、彰化、高雄舉行的三場「十萬青年站出來」巡迴演唱會，2000年12月21日正式發行。
 
 ## 曲目

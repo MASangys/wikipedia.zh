@@ -1,3 +1,6 @@
+> 本文内容由[Want you! Want you!](https://zh.wikipedia.org/wiki/Want_you!_Want_you!)转换而来。
+
+
 《**Want you\! Want you\!**》是[日本](../Page/日本.md "wikilink")女子偶像组合[=LOVE](../Page/=LOVE.md "wikilink")的第4张单曲，于2018年5月16日由[SACRA MUSIC发行](../Page/SACRA_MUSIC.md "wikilink")。单曲中心成员是[高松瞳](https://zh.wikipedia.org/wiki/高松瞳 "wikilink")。\[1\]
 
 ## 概要

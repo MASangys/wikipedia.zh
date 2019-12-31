@@ -1,3 +1,6 @@
+> 本文内容由[Phase One](https://zh.wikipedia.org/wiki/Phase_One)转换而来。
+
+
 **Phase One**，中國譯名**飛思**，[丹麥頂級數位攝影設備與相關軟體製造商](https://zh.wikipedia.org/wiki/丹麥 "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[NefAZ](https://zh.wikipedia.org/wiki/NefAZ)转换而来。
+
+
 **NefAZ**（）是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[巴什科爾托斯坦的一家](https://zh.wikipedia.org/wiki/巴什科爾托斯坦 "wikilink")[汽車生產商](https://zh.wikipedia.org/wiki/汽車產業 "wikilink")，現為俄羅斯最大的商用車生產集團（KamAZ）旗下[子公司](../Page/子公司.md "wikilink")，總部設於[涅夫捷卡姆斯克](https://zh.wikipedia.org/wiki/涅夫捷卡姆斯克 "wikilink")。其前身為**涅夫捷卡姆斯克汽车制造厂**（）。NefAZ目前單一最大股東為卡瑪斯（50.02%）\[1\]，其次為巴什科爾托斯坦共和國政府主導的[投資基金](https://zh.wikipedia.org/wiki/主權基金 "wikilink")「區域基金」公司（28.50%）\[2\]。
 
 NefAZ所生產重型車輛的底盤均由母公司卡瑪斯提供\[3\]，當中包括[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")、[貨車](https://zh.wikipedia.org/wiki/貨車 "wikilink")、[農用車及](https://zh.wikipedia.org/wiki/農業機械 "wikilink")[特殊車輛等](../Page/重型動力機械.md "wikilink")。其生產的巴士於俄羅斯全國銷售排名第三\[4\]\[5\]，市佔額約為4%-6%\[6\]。[VDL自](../Page/VDL巴士.md "wikilink")2006年與NefAZ進行合作\[7\]，NefAZ獲授權生產[低地台巴士](../Page/低地台巴士.md "wikilink")，其後擴大合作生產各類型巴士至2011年\[8\]。2011年9月，NefAZ母公司卡瑪斯與在俄羅斯設立合營公司負責獨聯體及東歐的銷售事務\[9\]，並由NefAZ負責生產。

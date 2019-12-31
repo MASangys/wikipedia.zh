@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia 5](https://zh.wikipedia.org/wiki/Sony_Xperia_5)转换而来。
+
+
 **Sony Xperia 5**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2019年9月5日[柏林國際廣播展](../Page/柏林國際廣播展.md "wikilink")正式發表的旗艦式[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]。此裝置是[Xperia 1的小型版](https://zh.wikipedia.org/wiki/Xperia_1 "wikilink")，類似此前的compact系列。\[2\]
 
 ## 設計

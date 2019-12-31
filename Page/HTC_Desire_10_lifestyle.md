@@ -1,3 +1,6 @@
+> 本文内容由[HTC Desire 10 lifestyle](https://zh.wikipedia.org/wiki/HTC_Desire_10_lifestyle)转换而来。
+
+
 **HTC Desire 10 lifestyle**是手機公司[宏達國際電子股份有限公司](https://zh.wikipedia.org/wiki/宏達國際電子股份有限公司 "wikilink")（HTC）2016年所發表的新一代[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")，屬於中階機型\[1\]。
 
 ## 简介

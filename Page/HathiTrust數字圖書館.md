@@ -1,3 +1,6 @@
+> 本文内容由[HathiTrust數字圖書館](https://zh.wikipedia.org/wiki/HathiTrust數字圖書館)转换而来。
+
+
 **HathiTrust數字圖書館**是由美國的大型研究機構[圖書館聯合組成的數字化圖書儲藏庫](https://zh.wikipedia.org/wiki/圖書館 "wikilink")，集中存放夥伴機構的數字化館藏。
 
 HathiTrust讓圖書館將其掃描的卷冊、特殊館藏或原生數字化內容歸檔，並供給使用者存取的管道平台。以數碼、數字化形式呈現這些資源，讓這些資源有更多創新的機會，供給應用在研究、教學與學習上。

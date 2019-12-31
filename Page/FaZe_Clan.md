@@ -1,3 +1,6 @@
+> 本文内容由[FaZe Clan](https://zh.wikipedia.org/wiki/FaZe_Clan)转换而来。
+
+
 **FaZe Clan**（前稱**FaZe Sniping**）是一支以[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯為根據地的美國](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[電玩遊戲戰隊](../Page/電玩遊戲戰隊.md "wikilink")，旗下分部有《[決勝時刻](../Page/決勝時刻系列.md "wikilink")》、《[反恐精英：全球攻势](../Page/反恐精英：全球攻势.md "wikilink")》、《[國際足盟大賽](https://zh.wikipedia.org/wiki/國際足盟大賽系列 "wikilink")》、《[堡垒之夜 大逃杀](../Page/堡垒之夜_大逃杀.md "wikilink")》、《[絕地求生](../Page/絕地求生.md "wikilink")》和《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》。
 
 ## 隊員名單

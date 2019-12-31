@@ -1,3 +1,6 @@
+> 本文内容由[Draft:尋找紅心A](https://zh.wikipedia.org/wiki/Draft:尋找紅心A)转换而来。
+
+
 -----
 
 **尋找紅心A**是一個[魔術](../Page/魔術.md "wikilink")，由[中華民國](../Page/中華民國.md "wikilink")已逝的[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")[光頭哥哥](../Page/光頭哥哥.md "wikilink")發明的。 光頭哥哥同時因為這個魔術而爆紅。

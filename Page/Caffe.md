@@ -1,3 +1,6 @@
+> 本文内容由[Caffe](https://zh.wikipedia.org/wiki/Caffe)转换而来。
+
+
 **CAFFE**（快速特征嵌入的卷积结构，Convolutional Architecture for Fast Feature Embedding）是一个深度学习框架，最初开发于[加利福尼亞大學柏克萊分校](../Page/加利福尼亞大學柏克萊分校.md "wikilink")。Caffe在[BSD许可下](../Page/BSD许可证.md "wikilink")[开源](../Page/开源软件.md "wikilink")，使用[C++](../Page/C++.md "wikilink")编写，带有[Python](../Page/Python.md "wikilink")接口\[1\]\[2\]。
 
 ## 历史

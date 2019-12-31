@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-15M](https://zh.wikipedia.org/wiki/联盟TMA-15M)转换而来。
+
+
 **联盟TMA-15M**（）是[俄罗斯](../Page/俄罗斯.md "wikilink")[联盟TMA系列飞船之一](https://zh.wikipedia.org/wiki/联盟TMA "wikilink")。飞船搭载[远征42任务三名宇航员于](https://zh.wikipedia.org/wiki/远征42 "wikilink")2014年11月23日在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")[拜科努尔航天发射场](../Page/拜科努尔航天发射场.md "wikilink")发射升空，飞赴[国际空间站](../Page/国际空间站.md "wikilink")。2015年6月11日13时44分，联盟TMA-15M飞船在哈萨克斯坦[杰兹卡兹甘](https://zh.wikipedia.org/wiki/杰兹卡兹甘 "wikilink")146公里外的草原安全着陆\[1\]。
 
 飞船的乘组人员是指令长[安东·什卡普列罗夫](../Page/安东·什卡普列罗夫.md "wikilink")，欧空局意大利女宇航员[薩曼塔·克里斯托福雷蒂](../Page/薩曼塔·克里斯托福雷蒂.md "wikilink")和美国宇航员[特里·弗茨](https://zh.wikipedia.org/wiki/特里·弗茨 "wikilink")。本次任务系首次携带太空[咖啡机升空](https://zh.wikipedia.org/wiki/咖啡机 "wikilink")\[2\]。

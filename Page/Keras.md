@@ -1,3 +1,6 @@
+> 本文内容由[Keras](https://zh.wikipedia.org/wiki/Keras)转换而来。
+
+
 **Keras**是一个用[Python](../Page/Python.md "wikilink")编写的[开源](../Page/开源软件.md "wikilink")[神经网络库](../Page/人工神经网络.md "wikilink")，能够在[TensorFlow](../Page/TensorFlow.md "wikilink")、[Microsoft Cognitive Toolkit](../Page/Microsoft_Cognitive_Toolkit.md "wikilink")、[Theano或](https://zh.wikipedia.org/wiki/Theano "wikilink")[PlaidML之上运行](https://zh.wikipedia.org/wiki/PlaidML "wikilink")\[1\]\[2\]。Keras旨在快速实现[深度神经网络](../Page/深度学习.md "wikilink")，专注于用户友好、模块化和可扩展性，是ONEIROS（开放式神经电子智能机器人操作系统）项目研究工作的部分产物\[3\]，主要作者和维护者是Google工程师弗朗索瓦·肖莱。肖莱也是XCeption深度神经网络模型的作者\[4\]。
 
 2017年，Google的TensorFlow团队决定在TensorFlow核心库中支持Keras\[5\]。 Chollet解释道，Keras被认为是一个接口，而非独立的机器学习框架。它提供了更高级别、更直观的抽象集，无论使用何种计算后端，用户都可以轻松地开发深度学习模型\[6\]。[微软](../Page/微软.md "wikilink")也向Keras添加了[CNTK后端](https://zh.wikipedia.org/wiki/CNTK "wikilink")，自CNTK v2.0开始\[7\]\[8\]。

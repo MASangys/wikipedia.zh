@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Joeman](https://zh.wikipedia.org/wiki/Draft:Joeman)转换而来。
+
+
 **Joeman**（），本名**翁雋明**，人稱**九妹**，[台灣前職業](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電競賽評人](https://zh.wikipedia.org/wiki/電競 "wikilink")、遊戲實況主、知名[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")\[1\]。就讀[交通大學時就已在電競圈擔任賽評](https://zh.wikipedia.org/wiki/交通大學 "wikilink")，並在2011年《[星海爭霸II](https://zh.wikipedia.org/wiki/星海爭霸II "wikilink")》電競賽評票選中獲得冠軍。2013年至2016年期間，擔任[微星科技](../Page/微星科技.md "wikilink")[筆電部門](https://zh.wikipedia.org/wiki/筆電 "wikilink")[產品經理](../Page/產品經理.md "wikilink")。\[2\]
 
 ## 經歷

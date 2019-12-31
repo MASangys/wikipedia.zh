@@ -1,3 +1,6 @@
+> 本文内容由[Leeward Point Field](https://zh.wikipedia.org/wiki/Leeward_Point_Field)转换而来。
+
+
 **Leeward Point Field**（），也称为**Leeward Airfield**\[1\]，是位于[古巴](../Page/古巴.md "wikilink")的美国[军用机场](https://zh.wikipedia.org/wiki/军用机场 "wikilink") 。
 
 ## 設施

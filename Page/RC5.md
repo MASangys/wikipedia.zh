@@ -1,3 +1,6 @@
+> 本文内容由[RC5](https://zh.wikipedia.org/wiki/RC5)转换而来。
+
+
 在[密码学](../Page/密码学.md "wikilink")中，**RC5**是一种因简洁著称的[对称](../Page/對稱密鑰加密.md "wikilink")[分组加密算法](../Page/分组密码.md "wikilink")。由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")于1994年设计，\[1\]“RC”代表“Rivest Cipher”，或者“Ron's Code”（相较于[RC2和](https://zh.wikipedia.org/wiki/RC2 "wikilink")[RC4](../Page/RC4.md "wikilink")）。[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）的候选算法之一[RC6](../Page/RC6.md "wikilink")是基于RC5的。
 
 ## 简介

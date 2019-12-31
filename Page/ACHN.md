@@ -1,3 +1,6 @@
+> 本文内容由[ACHN](https://zh.wikipedia.org/wiki/ACHN)转换而来。
+
+
 **ACHN** (亦稱**ATCC CRL-1611**) 是[人類](../Page/人類.md "wikilink")[腎細胞癌](../Page/腎癌.md "wikilink")，最初在1979年11月從一名22歲[高加索](../Page/高加索.md "wikilink")[男性](../Page/男性.md "wikilink")腎癌患者的[胸腔積液中分離出來](https://zh.wikipedia.org/wiki/胸腔 "wikilink")，接着將細胞放置在裝有10％[胎牛血清](../Page/胎牛血清.md "wikilink")的[伊格爾最低限度必需培養基內](https://zh.wikipedia.org/wiki/伊格爾最低限度必需培養基 "wikilink")，然後在[培養基中保存並傳代](https://zh.wikipedia.org/wiki/培養基 "wikilink")150天，再將[細胞注射到](https://zh.wikipedia.org/wiki/細胞 "wikilink")[裸鼠的體內](https://zh.wikipedia.org/wiki/裸鼠屬 "wikilink")，並且在4週後發現裸鼠出現局部浸潤癌\[1\]。
 
 ## 抑制

@@ -1,3 +1,6 @@
+> 本文内容由[One UI](https://zh.wikipedia.org/wiki/One_UI)转换而来。
+
+
 **One UI**（前身：[Samsung Experience](../Page/Samsung_Experience.md "wikilink")、[TouchWiz](../Page/TouchWiz.md "wikilink")）是[Samsung在](https://zh.wikipedia.org/wiki/Samsung "wikilink")2018年11月22日的Samsung開發者大會發佈的全新[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")。用以接替上一版本的 Samsung Experience \[1\] ，作為[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列手機的[使用者界面](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。
 
 手机端和平板电脑端的One UI基於[Android 9.0開發](../Page/Android_Pie.md "wikilink")。\[2\]，而智能手表端则基于[Tizen](../Page/Tizen.md "wikilink")开发。根據Samsung的說明，該使用者界面正在逐步更新至其他更舊的裝置，\[3\]並預載於2019年2月發佈的Galaxy S10系列。\[4\]

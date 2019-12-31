@@ -1,3 +1,6 @@
+> 本文内容由[Draft:归人/t](https://zh.wikipedia.org/wiki/Draft:归人/t)转换而来。
+
+
 **归人**（**Kuy**, , ）是分布于[中南半岛的一个土著](https://zh.wikipedia.org/wiki/中南半岛 "wikilink")[族群](../Page/族群.md "wikilink")。 他们的祖居地西起泰国[依善地区](../Page/依善地区.md "wikilink")[呵叻高原](https://zh.wikipedia.org/wiki/呵叻高原 "wikilink")，东至老挝南部的湄公河两岸，南到柬埔寨中北部。\[1\]归人在这三个国家均为少数民族。被视为或[高地高棉人](https://zh.wikipedia.org/wiki/高地高棉人 "wikilink")。
 
 归人的母语为桂语，系属于南亞语系的。 泰国人、老挝人和高棉人传统上承认 Kuy 人是该地区的土著居民，称他们为高棉人 boran (高棉人) ，意思是“古代高棉人”或 Khamen pa dong (something something: something something something something something something something something something something something something; 模板: Rtgs，“丛林高棉人”)。

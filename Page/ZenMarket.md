@@ -1,3 +1,6 @@
+> 本文内容由[ZenMarket](https://zh.wikipedia.org/wiki/ZenMarket)转换而来。
+
+
 **ゼンマーケット株式会社**（英語译名:ZenMarket Inc.） ，是对应全球代购日本商品的公司。
 
 ## 摘要

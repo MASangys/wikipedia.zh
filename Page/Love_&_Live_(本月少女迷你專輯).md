@@ -1,3 +1,6 @@
+> 本文内容由[Love \& Live \(本月少女迷你專輯\)](https://zh.wikipedia.org/wiki/Love_\&_Live_\(本月少女迷你專輯\))转换而来。
+
+
 《**Love ＆ Live**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[本月少女](../Page/本月少女.md "wikilink")（）在正式出道前首個小分隊本月少女 1/3（）推出的首張迷你專輯，由ViVi、夏瑟、姬振、賢眞組成。由Blockberry Creative製作，[CJ E＆M發行](../Page/CJ_E&M.md "wikilink")，於2017年3月13日推出\[1\]。此張專輯包括同名的主打歌曲《現在，喜歡 (Love & Live)》，共收錄五首歌\[2\]。 4月27日，推出首張迷你專輯改版《Love ＆ Evil》，包含主打曲《未知的秘密 (Sonatine)》共七首歌曲，並根據不同版本，特別收錄《Love ＆ Live》或《You and Me Together》的Remix版本\[3\]。
 
 ## 簡介

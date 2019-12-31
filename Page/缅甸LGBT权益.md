@@ -1,3 +1,6 @@
+> 本文内容由[缅甸LGBT权益](https://zh.wikipedia.org/wiki/缅甸LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）权益**在[缅甸受官方迫害和歧视](https://zh.wikipedia.org/wiki/缅甸 "wikilink")，LGBT居民面临其他公民没有经历过的法律和社会挑战。同性性行为是[犯罪](../Page/犯罪.md "wikilink")，国家刑法第377条将[同性戀](../Page/同性戀.md "wikilink")性行为（无论双方是否自愿是否私下完成）的刑罚定为从10年监禁到终身监禁不等。跨性别者受到警察的骚扰和性侵犯，他们的性别变更不被国家承认。\[1\]在[国家和平与发展委员会](../Page/国家和平与发展委员会.md "wikilink")的长期军事独裁统治期间，很难获得关于[LGBT](../Page/LGBT.md "wikilink")[缅甸公民的法律或社会地位的准确信息](https://zh.wikipedia.org/wiki/缅甸 "wikilink")。然而，随着正在进行的[政治改革](../Page/缅甸民主改革.md "wikilink")，媒体和公民自由的改善使LGBT人群在该国获得了更多的关注和支持。\[2\]\[3\]\[4\]尽管[翁山蘇姬](../Page/翁山蘇姬.md "wikilink")的[全國民主聯盟](../Page/全國民主聯盟.md "wikilink")在[2015年緬甸議會選舉](../Page/2015年緬甸議會選舉.md "wikilink")的竞选胜利中承诺改善人权，但反LGBT法律并未发生变化。\[5\]
 
 ## 关于同性性行为的法律

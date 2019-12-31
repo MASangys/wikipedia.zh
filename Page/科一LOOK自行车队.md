@@ -1,3 +1,6 @@
+> 本文内容由[科一LOOK自行车队](https://zh.wikipedia.org/wiki/科一LOOK自行车队)转换而来。
+
+
 **科一LOOK自行车队**（），是一支[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[公路自行车](../Page/公路自行车.md "wikilink")队，成立于2016年，曾在[国际自行车联盟级別中注册为](https://zh.wikipedia.org/wiki/国际自行车联盟 "wikilink")[亞洲洲际车队](../Page/UCI洲際巡迴賽.md "wikilink")\[1\]。
 
 由于在2017年[环海南岛国际公路自行车赛](../Page/环海南岛国际公路自行车赛.md "wikilink")中，有队员与另一车队发生肢体冲突，因此车队遭UCI取消2017年度比赛资格，以及禁止于2018年度赛季注册。车队于2018年起重组，更名为“捷酷–富律業职业自行车俱乐部”，参加中国国内联赛\[2\]。

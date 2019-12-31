@@ -1,3 +1,6 @@
+> 本文内容由[Mi-1直升機](https://zh.wikipedia.org/wiki/Mi-1直升機)转换而来。
+
+
 **Mi-1直升機**（北約代號:野兔）是蘇聯[米爾設計局首種研發的直升機](../Page/米尔莫斯科直升机工厂.md "wikilink")，也是蘇聯第一種直升機，從Mi-1開始了蘇聯國產直升機的先河。
 
 Mi-1直升機最初在1951年於圖西諾機場作公開展示，Mi-1由蘇聯生產了1000架後就改由波蘭授權生產1700架並改稱為「SM-1」，之後波蘭又推出了其改良型SM-2。 [Mi-1-Hare-schema.png](https://zh.wikipedia.org/wiki/File:Mi-1-Hare-schema.png "fig:Mi-1-Hare-schema.png")

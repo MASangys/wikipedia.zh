@@ -1,3 +1,6 @@
+> 本文内容由[NHK華語視界](https://zh.wikipedia.org/wiki/NHK華語視界)转换而来。
+
+
 **NHK华语视界**（）是[日本廣播協會](../Page/日本廣播協會.md "wikilink")([NHK](https://zh.wikipedia.org/wiki/NHK "wikilink"))通过[互联网](../Page/互联网.md "wikilink")播出的一档[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[网络](https://zh.wikipedia.org/wiki/网络 "wikilink")[电视节目](../Page/电视节目.md "wikilink")。
 
 在互联网上播出的致力于让[中国人了解日本](https://zh.wikipedia.org/wiki/中国人 "wikilink")，并兼有灾害播报功能的一档全新类型的中文电视频道：**NHK华语视界**，于2019年1月15日开始正式播出。通过“NHK WORLD TV”（NHK日本国际传媒）程序亦可进行收看\[1\]。主持人之一[镰仓千秋有关这个节目的意义称](https://zh.wikipedia.org/wiki/镰仓千秋 "wikilink")「这是时代的需要，NHK担负责任，将自己的信息用中文传播。这也是NHK的责任」\[2\]\[3\]。

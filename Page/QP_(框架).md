@@ -1,3 +1,6 @@
+> 本文内容由[QP \(框架\)](https://zh.wikipedia.org/wiki/QP_\(框架\))转换而来。
+
+
 **QP** ("**Quantum Platform**") 是一个用来构建模块化实时应用程序的开源框架。它采取[事件驱动的方式来调度系统中的各个操作发起者](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")。
 
 ## 系统总览

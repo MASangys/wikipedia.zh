@@ -1,3 +1,6 @@
+> 本文内容由[Paradox Development Studio](https://zh.wikipedia.org/wiki/Paradox_Development_Studio)转换而来。
+
+
 Paradox Development Studio是一家成立于1995年的瑞典[电子游戏开发商](../Page/游戏开发者.md "wikilink")。它与其母公司，电子游戏发行商[Paradox Interactive](../Page/Paradox_Interactive.md "wikilink")，密切相关。它以其制作的大战略游戏[歐陸風雲系列](../Page/歐陸風雲IV.md "wikilink")、[鋼鐵雄心系列](../Page/鋼鐵雄心IV.md "wikilink")、[十字军之王系列](../Page/十字军之王II.md "wikilink")、[维多利亚系列和](../Page/维多利亚II.md "wikilink")[群星而闻名](../Page/群星_\(游戏\).md "wikilink")。
 
 ## 历史

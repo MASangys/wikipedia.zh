@@ -1,3 +1,6 @@
+> 本文内容由[楊千嬅三二一GO！演唱會](https://zh.wikipedia.org/wiki/楊千嬅三二一GO！演唱會)转换而来。
+
+
 **[AIA呈獻](../Page/友邦保險.md "wikilink") 楊千嬅三二一GO！演唱會** 是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")的第七個個人[紅磡香港體育館售票演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")，亦是其入行22年首次跨年紅磡香港體育館演唱會，於2017年12月23日至2018年1月2日一連演出11場（三面台）。是次演唱會主題曲為《[Wonder Woman](https://www.youtube.com/watch?v=xCi9zrFM5rs)》，全新歌曲《[一二三，三二一](https://www.youtube.com/watch?v=ff5UfxlTafo)》更首次於演唱會曝光。\[1\]
 
 **是次演唱會創下不少紀錄，包括創下楊千嬅出道以來紅磡香港體育館場次最高紀錄（11場），以及1個月內已3度加場，其後《楊千嬅三二一GO\! 演唱會2017 Live》演唱會原聲專輯於《[香港唱片商會銷量榜](../Page/香港唱片商會銷量榜冠軍唱片列表.md "wikilink")》創下3周冠軍及上榜達10周紀錄，及於《[第41屆十大中文金曲頒獎典禮](../Page/第四十一屆十大中文金曲得獎名單.md "wikilink")》首次奪得《最佳中文唱片獎 女歌手》，成續斐然。**

@@ -1,3 +1,6 @@
+> 本文内容由[Haon](https://zh.wikipedia.org/wiki/Haon)转换而来。
+
+
 **Haon**（韓語：，—），本名**金夏溫**（韓語：김하온），韓國饒舌歌手，2017年曾參加[高等Rapper](../Page/高等Rapper.md "wikilink")，2018年參加[高等Rapper 2獲得冠軍](../Page/高等Rapper_2.md "wikilink")\[1\]\[2\]。
 
 ## 音樂作品

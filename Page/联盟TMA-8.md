@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-8](https://zh.wikipedia.org/wiki/联盟TMA-8)转换而来。
+
+
 **联盟TMA-8**（）是俄罗斯[联盟计划](../Page/联盟计划.md "wikilink")中[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")的第95次飞行，本次任务将两名[远征13任务宇航员和一名](https://zh.wikipedia.org/wiki/远征13 "wikilink")[太空游客](../Page/太空游客.md "wikilink")送往[国际空间站](../Page/国际空间站.md "wikilink")。
 
 ## 乘员

@@ -1,3 +1,6 @@
+> 本文内容由[AMJ13](https://zh.wikipedia.org/wiki/AMJ13)转换而来。
+
+
 **AMJ13**是用於乳癌[研究](../Page/研究.md "wikilink")的永生[人類](../Page/人類.md "wikilink")[乳癌](../Page/乳癌.md "wikilink")，最初在2013年從一名70歲的[伊拉克](../Page/伊拉克.md "wikilink")[女性](../Page/女性.md "wikilink")乳癌[患者的原發性腫瘤中分離出來](https://zh.wikipedia.org/wiki/患者 "wikilink")，該患者曾接受過右側[乳房切除術](https://zh.wikipedia.org/wiki/乳房切除術 "wikilink")，但沒有任何[遺傳性疾病](../Page/遺傳性疾病.md "wikilink")或[慢性疾病](https://zh.wikipedia.org/wiki/慢性疾病 "wikilink")\[1\]。
 
 ## 特徵

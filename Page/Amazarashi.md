@@ -1,3 +1,6 @@
+> 本文内容由[Amazarashi](https://zh.wikipedia.org/wiki/Amazarashi)转换而来。
+
+
 **amazarashi**是一个出道于[日本](../Page/日本.md "wikilink")[青森县](https://zh.wikipedia.org/wiki/青森县 "wikilink")\[1\]的[摇滚](../Page/摇滚.md "wikilink")乐队。乐队名amazarashih是日语“”的罗马字，因“倘若将日常之悲苦比作降雨，我们则曝身于雨中，想把那‘即使如此’这一点歌唱出来”而取此名\[2\]。乐队的核心成员是秋田弘和丰川真奈美。
 
 在日本艺能界中，有很多艺人都是AMZ的歌迷，其中有清原果耶、横浜流星、小島梨裡杏等人

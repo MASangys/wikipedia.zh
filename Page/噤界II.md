@@ -1,3 +1,6 @@
+> 本文内容由[噤界II](https://zh.wikipedia.org/wiki/噤界II)转换而来。
+
+
 是一部預定於2020年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[後末日](../Page/末日幻想.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻電影 "wikilink")[恐怖電影](../Page/恐怖電影.md "wikilink")，由[約翰·卡拉辛斯基](../Page/約翰·卡拉辛斯基.md "wikilink")編劇和執導。本片為2018年電影《[噤界](../Page/噤界.md "wikilink")》的續集，主演包括[艾蜜莉·布朗](https://zh.wikipedia.org/wiki/艾蜜莉·布朗 "wikilink")、[席尼·墨菲](https://zh.wikipedia.org/wiki/席尼·墨菲 "wikilink")、、[諾亞·朱佩和](https://zh.wikipedia.org/wiki/諾亞·朱佩 "wikilink")[吉蒙·韓蘇](https://zh.wikipedia.org/wiki/吉蒙·韓蘇 "wikilink")。
 
 《噤界II》由[派拉蒙影業](../Page/派拉蒙影業.md "wikilink")定於2020年3月20日在美國上映。

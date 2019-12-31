@@ -1,3 +1,6 @@
+> 本文内容由[Coloring Book](https://zh.wikipedia.org/wiki/Coloring_Book)转换而来。
+
+
 《**Coloring Book**》，是韓國女子演唱團體[Oh My Girl的第四張迷你專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，以〈Coloring Book〉為主打歌。
 
 ## 概要

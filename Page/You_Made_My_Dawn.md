@@ -1,3 +1,6 @@
+> 本文内容由[You Made My Dawn](https://zh.wikipedia.org/wiki/You_Made_My_Dawn)转换而来。
+
+
 **《YOU MADE MY DAWN》**\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的第六張迷你專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及桂範洙](../Page/李知勳_\(SEVENTEEN\).md "wikilink")(BUMZU)擔任製作人，其他成員們共同參與作詞及編舞。由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")企劃，於2019年1月21日發行，主打曲為〈HOME〉。
 
 ## 概述

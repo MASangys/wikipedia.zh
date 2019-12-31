@@ -1,3 +1,6 @@
+> 本文内容由[KCB77刺刀](https://zh.wikipedia.org/wiki/KCB77刺刀)转换而来。
+
+
 **KCB77刺刀**（，[北約庫藏編號](https://zh.wikipedia.org/wiki/北約庫藏編號 "wikilink")：1095-12-353-9348）是一柄由[德国](../Page/德国.md "wikilink")艾克霍恩—[索林根公司所生產的多用途](https://zh.wikipedia.org/wiki/索林根 "wikilink")[刺刀](../Page/刺刀.md "wikilink")，可以被[AR-15系列](../Page/AR-15自動步槍.md "wikilink")、[AR-18](../Page/AR-18突擊步槍.md "wikilink")、[斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")、[IMI Galil](../Page/IMI_Galil突擊步槍.md "wikilink")、[貝瑞塔AR70/90](../Page/貝瑞塔AR70突擊步槍.md "wikilink")、[FN FNC](../Page/FN_FNC突擊步槍.md "wikilink")、[SIG SG 550等突擊步槍和卡賓槍所使用](../Page/SIG_SG_550突擊步槍.md "wikilink")。它可以被用來作為戰鬥刀和實用工具，獲世界各國多種突擊步槍和[特種部隊](../Page/特種部隊.md "wikilink")所採用。
 
 ## 歷史

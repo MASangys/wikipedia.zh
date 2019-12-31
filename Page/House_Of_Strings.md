@@ -1,3 +1,6 @@
+> 本文内容由[House Of Strings](https://zh.wikipedia.org/wiki/House_Of_Strings)转换而来。
+
+
 **House Of Strings**是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")「[B'z](../Page/B'z.md "wikilink")」的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")主要以吉他手為中心，為弦樂器演奏者所成立的[唱片公司](../Page/唱片公司.md "wikilink")。
 
 ## 設立目的

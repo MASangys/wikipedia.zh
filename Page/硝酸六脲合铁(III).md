@@ -1,3 +1,6 @@
+> 本文内容由[硝酸六脲合铁\(III\)](https://zh.wikipedia.org/wiki/硝酸六脲合铁\(III\))转换而来。
+
+
 **硝酸六脲合铁(III)**是一种配位化合物，化学式为\[Fe(CO(NH<sub>2</sub>)<sub>2</sub>)<sub>6</sub>\](NO<sub>3</sub>)<sub>3</sub>，是黄绿色或浅绿色固体。\[1\]其俗名为尿素铁\[2\]。
 
 ## 制备

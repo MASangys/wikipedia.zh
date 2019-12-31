@@ -1,3 +1,6 @@
+> 本文内容由[模块:Find sources](https://zh.wikipedia.org/wiki/模块:Find_sources)转换而来。
+
+
 \-- This module implements  and other similar templates, and -- also provides a mechanism to easily create new source-finding templates.
 
 \-- Define constants local ROOT_PAGE = 'Module:Find sources' local TEMPLATE_ROOT = ROOT_PAGE .. '/templates/' -- for template config modules local LINK_ROOT = ROOT_PAGE .. '/links/' -- for link config modules local CONFIG_PAGE = ROOT_PAGE .. '/config' -- for global config

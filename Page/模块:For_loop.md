@@ -1,3 +1,6 @@
+> 本文内容由[模块:For loop](https://zh.wikipedia.org/wiki/模块:For_loop)转换而来。
+
+
 \-- This module implements .
 
 local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno') local makeTemplate = require('Module:Template invocation').invocation p = {}

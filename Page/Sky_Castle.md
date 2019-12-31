@@ -1,3 +1,6 @@
+> 本文内容由[Sky Castle](https://zh.wikipedia.org/wiki/Sky_Castle)转换而来。
+
+
 《**Sky Castle**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2018年11月23日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[魔女寶鑑](../Page/魔女寶鑑.md "wikilink")》的[趙賢卓導演與](https://zh.wikipedia.org/wiki/趙賢卓 "wikilink")《[新娘面具](../Page/新娘面具.md "wikilink")》的[柳賢美](../Page/柳賢美.md "wikilink")作家合作打造。此劇講述韓國上流社會的「[SKY](../Page/SKY.md "wikilink") Castle」中，一群欲扶助丈夫事業和培育子女成為二代貴族的貴婦故事\[1\]。
 
 此劇因轉折不斷的劇情大受歡迎，其關注度亦與日俱增，因此收視率亦屢創新高。首先於第12集創下最高平均收視率**12.305%**(AGB全國)，刷新《[有品位的她](../Page/有品位的她.md "wikilink")》於2017年創下的最高平均收視率12.065%(AGB全國)的紀錄。接著又一再的刷新自身的收視記錄，並於第20集創下最高平均收視率**23.779%**(AGB全國)紀錄，也刷新[JTBC](../Page/JTBC.md "wikilink")電視台戲劇節目最高的收視紀錄，同時更打破[tvN電視台的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》於2017年創下的20.509%(AGB全國)成為韓國非無線(付費)電視台最高平均收視的戲劇節目\[2\]。這是[柳賢美](../Page/柳賢美.md "wikilink")編劇繼2012年編寫國民電視劇《[新娘面具](../Page/新娘面具.md "wikilink")》引發熱潮後，編寫再度引發「全民追劇熱」的電視劇。

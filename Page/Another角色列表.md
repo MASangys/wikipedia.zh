@@ -1,3 +1,6 @@
+> 本文内容由[Another角色列表](https://zh.wikipedia.org/wiki/Another角色列表)转换而来。
+
+
 [400px |缩略图|主要角色在动画版中的形象。由左至右：水野、樱木由加利、-{怜}-子、望月、敕使河原、榊原恒一、见崎鸣、雾果、藤冈未咲、风见、三神老师、赤泽泉美、千曳辰治](https://zh.wikipedia.org/wiki/File:Another_characters.jpg "wikilink") 本列表列出了[日本](../Page/日本.md "wikilink")小说《**[Another](../Page/Another.md "wikilink")**》及其衍生动画、电影中的角色。
 
 ## 列表

@@ -1,3 +1,6 @@
+> 本文内容由[OH!](https://zh.wikipedia.org/wiki/OH!)转换而来。
+
+
 《**OH\!**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第9张单曲，于2019年4月24日发行。
 
 ## 简介

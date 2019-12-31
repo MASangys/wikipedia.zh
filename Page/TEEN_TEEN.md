@@ -1,3 +1,6 @@
+> 本文内容由[TEEN TEEN](https://zh.wikipedia.org/wiki/TEEN_TEEN)转换而来。
+
+
 **TEEN TEEN** （）[Maroo娛樂於](../Page/Maroo企劃.md "wikilink")2019年推出的[男子團體](../Page/男子音乐组合.md "wikilink")，由[李津宇](https://zh.wikipedia.org/wiki/李津宇 "wikilink")、[李優珍](https://zh.wikipedia.org/wiki/李優珍 "wikilink")、[李兌昇組成](https://zh.wikipedia.org/wiki/李兌昇 "wikilink")，2019年9月18日以首張迷你專輯《VERY, ON TOP》主打曲《It's on you》正式出道。
 
 <references />

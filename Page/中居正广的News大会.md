@@ -1,3 +1,6 @@
+> 本文内容由[中居正广的News大会](https://zh.wikipedia.org/wiki/中居正广的News大会)转换而来。
+
+
 生活资讯节目 | format = [电视节目](../Page/电视节目.md "wikilink") | director = 舟桥政宏<sup></sup> | presenter = [中居正广](https://zh.wikipedia.org/wiki/中居正广 "wikilink") | cohost = [剧团一人](https://zh.wikipedia.org/wiki/剧团一人 "wikilink")
  | starring = 详见[登场嘉宾](https://zh.wikipedia.org/wiki/#登场嘉宾 "wikilink") | narrated =  | country =  | language = [日本语](https://zh.wikipedia.org/wiki/日本语 "wikilink") | num_seasons = 1 | num_episodes = *待定* | list_episodes = \#播出内容 | producer = 荻野健太
 山田健史 | senior_producer = 奥田创史 | company = [朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink") | network = [朝日电视网](../Page/全日本新聞網.md "wikilink") | first_aired = 2019年4月27日 | last_aired = 迄今 | aired_time = 每周六12:00－13:00<small>（[日本标准时](https://zh.wikipedia.org/wiki/日本标准时 "wikilink")）</small> | website = <https://www.tv-asahi.co.jp/nakai_news/> }}

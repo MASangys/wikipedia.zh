@@ -1,3 +1,6 @@
+> 本文内容由[Fairy Gone](https://zh.wikipedia.org/wiki/Fairy_Gone)转换而来。
+
+
 《**Fairy gone**》是[P.A.Works](../Page/P.A.Works.md "wikilink")推出的原創電視動畫，由[鈴木健一監督](https://zh.wikipedia.org/wiki/鈴木健一 "wikilink")，負責角色和妖精原案，清水貴子進行角色設計，[(K)NoW_NAME](../Page/\(K\)NoW_NAME.md "wikilink")擔任音樂製作，電視動畫於2019年4月7日播出\[1\]。
 
 ## 故事大綱

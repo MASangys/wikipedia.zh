@@ -1,3 +1,6 @@
+> 本文内容由[Take.2 We Are Here.](https://zh.wikipedia.org/wiki/Take.2_We_Are_Here.)转换而来。
+
+
 **Take.2 We Are Here.**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[MONSTA X的第三張](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，也是《Take》系列的第二部，該專輯共收錄十首歌曲，包括主打曲"Alligator"，於2019年2月18日正式發售\[1\]。
 
 ## 背景

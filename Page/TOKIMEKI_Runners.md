@@ -1,3 +1,6 @@
+> 本文内容由[TOKIMEKI Runners](https://zh.wikipedia.org/wiki/TOKIMEKI_Runners)转换而来。
+
+
 《**TOKIMEKI Runners**》是[虹咲学园校园偶像同好会的首张专辑](https://zh.wikipedia.org/wiki/虹咲学园校园偶像同好会 "wikilink")，2018年11月21日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概况

@@ -1,3 +1,6 @@
+> 本文内容由[Esanbe 鼻北小島](https://zh.wikipedia.org/wiki/Esanbe_鼻北小島)转换而来。
+
+
 **Esanbe 鼻北小島**（），是日本[北海道](../Page/北海道.md "wikilink")[猿拂村](../Page/猿拂村.md "wikilink")海面附近一個[無人島](../Page/無人島.md "wikilink")，距離該村大約500公尺。島嶼在2019年確定消失，隨後被降格為「[灘](../Page/灘.md "wikilink")」。
 
 ## 概况

@@ -1,3 +1,6 @@
+> 本文内容由[Begin a Game](https://zh.wikipedia.org/wiki/Begin_a_Game)转换而来。
+
+
 《**Begin a Game**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/MBC "wikilink")2018年推出的綜藝節目\[1\]\[2\]，由[金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、、[孔燦](../Page/孔燦.md "wikilink")、[祚炫](../Page/Berry_Good.md "wikilink")、[Guillaume等人](../Page/紀堯姆·帕特里.md "wikilink")\[3\]共同主持，節目主軸為透過遊戲讓世代共感的企劃為標榜，不僅僅是單純介紹遊戲，希望透過多樣和愉快的方式，能成為提高觀眾對於遊戲的認識和正面的遊戲文化共識的機會\[4\]。
 
 ## 各集內容

@@ -1,3 +1,6 @@
+> 本文内容由[W3C地理位置应用程序接口](https://zh.wikipedia.org/wiki/W3C地理位置应用程序接口)转换而来。
+
+
 **W3C地理位置应用程序接口**（W3C Geolocation API）是一项由[万维网联盟](../Page/万维网联盟.md "wikilink")提出的标准，旨在标准化接收客户端侧设备的的接口。\[1\]此标准定义了一系列兼容[ECMAScript](../Page/ECMAScript.md "wikilink")标准的对象，这些对象执行于客户端应用程序中并通过查询对[应用程序接口](../Page/应用程序接口.md "wikilink")（API）透明的获得设备位置。最常见的位置信息来源为[IP地址](../Page/IP地址.md "wikilink")、[Wi-Fi](../Page/Wi-Fi.md "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[MAC地址](../Page/MAC地址.md "wikilink")、[射频识别](../Page/射频识别.md "wikilink")（RFID）、Wi-Fi接入位置、设备[全球定位系统](../Page/全球定位系统.md "wikilink")（GPS）及[GSM](../Page/GSM.md "wikilink")/[CDMA小区识别码](../Page/CDMA2000.md "wikilink")。随后服务器根据可用的最佳位置信息返回特定精度的地理位置。
 
 ## 部署于网页浏览器

@@ -1,3 +1,6 @@
+> 本文内容由[Under the Sun](https://zh.wikipedia.org/wiki/Under_the_Sun)转换而来。
+
+
 《**Under The Sun**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁雨恩](../Page/梁雨恩.md "wikilink")的第1張音樂專輯，於2007年9月11日推出。
 
 ## 曲目列表

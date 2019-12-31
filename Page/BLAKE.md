@@ -1,3 +1,6 @@
+> 本文内容由[BLAKE](https://zh.wikipedia.org/wiki/BLAKE)转换而来。
+
+
 **BLAKE**和**BLAKE2**是基于[ChaCha](https://zh.wikipedia.org/wiki/ChaCha "wikilink")[流密码](../Page/流密码.md "wikilink")的[密码散列函数](https://zh.wikipedia.org/wiki/密码散列函数 "wikilink")。与[SHA-2](../Page/SHA-2.md "wikilink")一样，有两种不同[字大小的变体](../Page/字_\(计算机\).md "wikilink")。BLAKE-256和BLAKE-224使用32位字，分别产生256位和224位的摘要大小，而BLAKE-512和BLAKE-384分别使用64位字，产生512位和384位的摘要大小。\[1\]在64位x64和ARM体系结构上运行时，BLAKE2b比SHA-3，SHA-2，SHA-1和MD5更快。\[2\]BLAKE2的安全性提供类似于[SHA-3](../Page/SHA-3.md "wikilink")，优于SHA-2：免疫长度扩展攻击，来自[隨機預言機](../Page/隨機預言機.md "wikilink")的无差异性等。\[3\]
 
 ## BLAKE2

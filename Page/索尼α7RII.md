@@ -1,3 +1,6 @@
+> 本文内容由[索尼α7RII](https://zh.wikipedia.org/wiki/索尼α7RII)转换而来。
+
+
 **索尼α7R II**（型號：**ILCE-7RM2**，簡稱**A7R2**）\[1\]是一款[全畫幅](https://zh.wikipedia.org/wiki/全畫幅 "wikilink")[無反光鏡可互換鏡頭相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")。 2015年6月10日由日本[索尼](../Page/索尼.md "wikilink")公司發布。在發佈時，它擁有市場上所有同時期相機中最大的背照式[CMOS傳感器](https://zh.wikipedia.org/wiki/CMOS "wikilink")，在此之前擁有最大傳感器的是僅數月前發布的[三星NX1](https://zh.wikipedia.org/wiki/三星NX1 "wikilink")。 該相機於2015年8月5日正式發售。\[2\]其中最顯著的一些功能是4240萬像素和399個相位對焦點。\[3\]
 
 ## 另見

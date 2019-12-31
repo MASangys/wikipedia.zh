@@ -1,3 +1,6 @@
+> 本文内容由[WMC](https://zh.wikipedia.org/wiki/WMC)转换而来。
+
+
 [[威尔士千禧中心的夜景](https://zh.wikipedia.org/wiki/威尔士千禧中心 "wikilink")|thumb|right|230px](https://zh.wikipedia.org/wiki/File:WMC_at_night.jpg "fig:威尔士千禧中心的夜景|thumb|right|230px") **WMC**可以是指：
 
 ## 计算机

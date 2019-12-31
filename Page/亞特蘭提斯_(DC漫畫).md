@@ -1,3 +1,6 @@
+> 本文内容由[亞特蘭提斯 \(DC漫畫\)](https://zh.wikipedia.org/wiki/亞特蘭提斯_\(DC漫畫\))转换而来。
+
+
 **亞特蘭提斯**是美國[DC漫畫](../Page/DC漫畫.md "wikilink")的虛構水底文明。[DC宇宙](../Page/DC宇宙.md "wikilink")的第一個亞特蘭蒂斯版本在《動作漫畫》＃18（1939年11月）首次亮相，由[加德納·福克斯和](https://zh.wikipedia.org/wiki/加德納·福克斯 "wikilink")[佛瑞德·瓜丁納構思](https://zh.wikipedia.org/wiki/佛瑞德·瓜丁納 "wikilink")。
 
 所有版本的亞特蘭提斯都基於[柏拉圖](https://zh.wikipedia.org/wiki/柏拉圖 "wikilink")《[蒂邁歐篇](https://zh.wikipedia.org/wiki/蒂邁歐篇 "wikilink")》所提到的虛構的[亞特蘭蒂斯島](https://zh.wikipedia.org/wiki/亞特蘭蒂斯島 "wikilink")。其他版本出現在20世紀40年代和50年代的各種DC漫畫中，包括美人魚Lori Lemaris所居住的超人群書中的版本。[水行俠](../Page/水行俠.md "wikilink")的城市版本，該公司系列中最著名的特色版本，首次出現在《Adventure Comics》＃260（1959年5月），由Robert Bernstein和Ramona Fradon創作。

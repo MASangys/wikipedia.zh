@@ -1,3 +1,6 @@
+> 本文内容由[模块:FSBUS](https://zh.wikipedia.org/wiki/模块:FSBUS)转换而来。
+
+
 \-- 声明模块本体 local p = {} -- 导入数据 local c = mw.loadData('Module:FSBUS/color') local function _loadSystemData(loc)
 
 `   local state`

@@ -1,3 +1,6 @@
+> 本文内容由[YOU DON\'T GIVE UP](https://zh.wikipedia.org/wiki/YOU_DON\'T_GIVE_UP)转换而来。
+
+
 《**YOU DON'T GIVE UP**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第10張單曲，為自第2張專輯《[storytelling](https://zh.wikipedia.org/wiki/storytelling "wikilink")》中抽取發行的後發單曲，由[小室哲哉](../Page/小室哲哉.md "wikilink")所製作。
 
 ## 說明

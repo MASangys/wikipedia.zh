@@ -1,3 +1,6 @@
+> 本文内容由[索尼 DPT-RP1](https://zh.wikipedia.org/wiki/索尼_DPT-RP1)转换而来。
+
+
 [索尼](../Page/索尼.md "wikilink")电子纸 DPT-RP1 是一款 13.3 英寸（接近 [A4](https://zh.wikipedia.org/wiki/A4 "wikilink") 纸大小）的电子墨水阅读器。该产品于 2017 年发布，用来取代上一代产品 [索尼 DPT-S1](../Page/索尼_DPT-S1.md "wikilink")。DPT-RP1 拥有轻薄、耗电量低的特性，并具备 [Wi-Fi](../Page/Wi-Fi.md "wikilink") 接入功能，同时附带有一支可以用来书写的手写笔。
 
 ## 规格

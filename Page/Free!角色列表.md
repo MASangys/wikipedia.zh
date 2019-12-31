@@ -1,3 +1,6 @@
+> 本文内容由[Free!角色列表](https://zh.wikipedia.org/wiki/Free!角色列表)转换而来。
+
+
 **Free\!角色列表**是日本[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[Free\!](../Page/Free!.md "wikilink")》的角色說明列表，列明劇中出場的角色。 __NOTOC__
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |

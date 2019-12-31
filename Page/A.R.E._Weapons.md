@@ -1,3 +1,6 @@
+> 本文内容由[A.R.E. Weapons](https://zh.wikipedia.org/wiki/A.R.E._Weapons)转换而来。
+
+
 **A.R.E. Weapons**是一支[纽约](../Page/纽约.md "wikilink")的[噪音搖滾](../Page/噪音搖滾.md "wikilink")乐队。其在1999年由马修·麦考利、布雷恩·F·麦克佩克、赖安·诺埃尔成立，有时也被认定为乐队。\[1\]\[2\] 他们的现场以其进攻性及对抗性为特点。\[3\]    [果漿樂團](../Page/果漿樂團.md "wikilink")的 [賈維斯·卡克](../Page/賈維斯·卡克.md "wikilink") 听过A.R.E. Weapons的现场演唱会后，鼓励签约此乐队。\[4\]
 
 2001年，A.R.E. Weapons发行了两首单曲，"Street Gang"和"New York Muscle"。在其同名专辑于2003年发行前，键盘手被其经纪人保罗·赛维尼（女演员[科洛·塞维尼](../Page/科洛·塞维尼.md "wikilink")之兄）吉他手赖安·诺埃尔于2004年由于[海洛因](../Page/海洛因.md "wikilink")[摄取过量而死](../Page/藥物過量.md "wikilink")。剩余成员则录制了其第二张专辑**，此专辑于2005年发行。\[5\]

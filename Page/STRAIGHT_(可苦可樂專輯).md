@@ -1,3 +1,6 @@
+> 本文内容由[STRAIGHT \(可苦可樂專輯\)](https://zh.wikipedia.org/wiki/STRAIGHT_\(可苦可樂專輯\))转换而来。
+
+
 《**STRAIGHT**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂](../Page/可苦可樂.md "wikilink")的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2003年11月6日發行。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[梅赛德斯·奔驰EQC](https://zh.wikipedia.org/wiki/梅赛德斯·奔驰EQC)转换而来。
+
+
 **梅赛德斯·奔驰EQC**（Mercedes-Benz EQC 代号：N293）是一款由[梅赛德斯·奔驰研发并制造的](https://zh.wikipedia.org/wiki/梅赛德斯·奔驰 "wikilink")[纯电动](https://zh.wikipedia.org/wiki/纯电动汽车 "wikilink")[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")\[1\]这也是梅赛德斯·奔驰品牌EQ系列正式生产的第一款纯电动汽车\[2\]。
 
 ## 研发历程

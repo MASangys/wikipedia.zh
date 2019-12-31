@@ -1,3 +1,6 @@
+> 本文内容由[S矩阵理论](https://zh.wikipedia.org/wiki/S矩阵理论)转换而来。
+
+
 **S矩阵理论**（）是将局部[量子场论](../Page/量子场论.md "wikilink")替换为[粒子物理学基本原理的构想](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")。它用[散射矩阵](https://zh.wikipedia.org/wiki/散射矩阵 "wikilink")（S矩阵）抽象数学属性替换来避免空间和时间的概念。
 
 ## 历史

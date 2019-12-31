@@ -1,3 +1,6 @@
+> 本文内容由[Realme X](https://zh.wikipedia.org/wiki/Realme_X)转换而来。
+
+
 **realme X**是[realme](https://zh.wikipedia.org/wiki/realme "wikilink")（OPPO在2018年5月份面向印度市场创立的子品牌，后完全独立）于2019年5月15日在北京发布的一款智能手机。该机于5月25日在中国大陆市场开始销售。realme X搭载[高通](../Page/高通.md "wikilink")[骁龙](https://zh.wikipedia.org/wiki/骁龙 "wikilink")710移动处理平台，最高主频达2.2 GHz，采用闪充3.0技术，预装系统为基于[Android Pie的](../Page/Android_Pie.md "wikilink")[ColorOS](../Page/ColorOS.md "wikilink") 6.0。realme X正面搭载6.53英寸三星AMOLED屏幕，屏占比为91.2%，前置1600万像素升降摄像头，后置4800万+500万像素双摄像头，电池容量为3765mAh电池，采用屏下指纹技术。\[1\]
 
 ## 配色和规格

@@ -1,3 +1,6 @@
+> 本文内容由[Delta機器人](https://zh.wikipedia.org/wiki/Delta機器人)转换而来。
+
+
 [*Sketchy*，可攜型繪圖delta機器人 \[1\]](https://zh.wikipedia.org/wiki/File:Sketchy,_portrait-drawing_delta_robot.jpg "fig:Sketchy，可攜型繪圖delta機器人 ") **delta機器人**（delta robot）也稱為**三角式機器人**，是[工業機器人中的](https://zh.wikipedia.org/wiki/工業機器人 "wikilink")\[2\]，末端效應器在機器人的最下方，由三個機械臂連接機器人上的[万向接头](../Page/万向接头.md "wikilink")以及末端效應器。主要設計特點是在機械臂上使用[平行四边形](../Page/平行四边形.md "wikilink")結構，可以維持（end effector）的方向。這和相反，史都華平台可以調整末端效應器的方向\[3\]。
 
 delta機器人常用在工業的檢拾及包裝作業，delta機器人非常快，有些可以快到每分鐘300次動作\[4\]。

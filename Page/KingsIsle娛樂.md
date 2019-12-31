@@ -1,3 +1,6 @@
+> 本文内容由[KingsIsle娛樂](https://zh.wikipedia.org/wiki/KingsIsle娛樂)转换而来。
+
+
 是一間遊戲公司，總部位於[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[普萊諾和](https://zh.wikipedia.org/wiki/普萊諾_\(德克薩斯州\) "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")。
 
 ## 已開發遊戲

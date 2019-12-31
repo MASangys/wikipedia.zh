@@ -1,3 +1,6 @@
+> 本文内容由[Sondia](https://zh.wikipedia.org/wiki/Sondia)转换而来。
+
+
 Sondia （韩文名: 손디아)，韩国女歌手，2012年出道。
 
 ## 经历

@@ -1,3 +1,6 @@
+> 本文内容由[Aquasar](https://zh.wikipedia.org/wiki/Aquasar)转换而来。
+
+
 [Aquasar.jpg](https://zh.wikipedia.org/wiki/File:Aquasar.jpg "fig:Aquasar.jpg") **Aquasar**是[IBM研究院](../Page/IBM研究院.md "wikilink")的[超級電腦系統](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")，它使用熱水[冷卻來提升運算效率](../Page/電腦硬體冷卻.md "wikilink")\[1\]\[2\]。
 
 Aquasar電腦由三個BladeCenter H機箱構成，混合使用基於QSS22 [Cell與HS](../Page/Cell_\(微處理器\).md "wikilink")22 Xeon的模塊\[3\]。其[每秒運行6兆次浮點運算](../Page/每秒浮點運算次數.md "wikilink")，計算效率約為每秒450萬次浮點運算／[瓦特](../Page/瓦特.md "wikilink")\[4\]。

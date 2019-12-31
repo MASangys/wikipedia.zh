@@ -1,3 +1,6 @@
+> 本文内容由[模块:Table empty cell](https://zh.wikipedia.org/wiki/模块:Table_empty_cell)转换而来。
+
+
 local p = {}
 
 \-- List of default title texts. local defaultTitleTextlist = {

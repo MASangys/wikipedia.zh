@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Unicode中的阿拉伯字母](https://zh.wikipedia.org/wiki/Draft:Unicode中的阿拉伯字母)转换而来。
+
+
 在Unicode版本12.1中，包含[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")与和其相关的符号分散在[基本多文种平面的数个](https://zh.wikipedia.org/wiki/基本多文种平面 "wikilink")[区段中](https://zh.wikipedia.org/wiki/Unicode区段 "wikilink")：\[1\]
 
   - [阿拉伯字母](https://zh.wikipedia.org/wiki/阿拉伯字母_\(Unicode区段\) "wikilink") (0600–06FF，255个字符）

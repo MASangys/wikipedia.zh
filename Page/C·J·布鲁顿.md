@@ -1,3 +1,6 @@
+> 本文内容由[C·J·布鲁顿](https://zh.wikipedia.org/wiki/C·J·布鲁顿)转换而来。
+
+
 **小卡尔文·托马斯·“C·J”·布鲁顿**（，），美国-澳大利亚前职业[篮球](../Page/篮球.md "wikilink")运动员。2013年10月10日，他入选了悉尼国王队25周年纪念队。 \[1\]他曾代表澳大利亚参加[2004年夏季奥运会和](https://zh.wikipedia.org/wiki/2004年夏季奥运会 "wikilink")[2008年夏季奥运会男子篮球比赛](https://zh.wikipedia.org/wiki/2008年夏季奥运会 "wikilink")。
 
 ## 参考资料

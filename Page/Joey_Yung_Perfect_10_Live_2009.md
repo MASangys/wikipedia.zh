@@ -1,3 +1,6 @@
+> 本文内容由[Joey Yung Perfect 10 Live 2009](https://zh.wikipedia.org/wiki/Joey_Yung_Perfect_10_Live_2009)转换而来。
+
+
 **Joey Yung Perfect 10 Live 2009**，是[香港](../Page/香港.md "wikilink")女歌手[容祖兒](../Page/容祖兒.md "wikilink")為紀念出道十週年於[香港文化中心](../Page/香港文化中心.md "wikilink")舉行兩場演唱會\[1\]，主辦機構為[英皇娛樂](../Page/英皇娛樂.md "wikilink")。
 
 是次演唱會在2009年10月4日舉行下午3點及晚上8點兩場。因容祖兒於1995年在香港文化中心奪得Big Echo卡拉OK大賽金獎入行，故此她特意選擇這個對她意義重大的場館來與歌迷慶祝出道10年。她亦以當年的得獎歌曲<一首獨唱的歌>為演唱會揭開序幕。

@@ -1,3 +1,6 @@
+> 本文内容由[KAKUYOMU](https://zh.wikipedia.org/wiki/KAKUYOMU)转换而来。
+
+
 **KAKUYOMU**（）是日本[角川公司](https://zh.wikipedia.org/wiki/角川公司 "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink")）旗下的[小說投稿網站](https://zh.wikipedia.org/wiki/小說 "wikilink")。\[1\] 登錄為作者即可在其上公開發表免費小說。
 
 ## 主要功能

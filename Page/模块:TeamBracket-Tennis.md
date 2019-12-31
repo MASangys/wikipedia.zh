@@ -1,3 +1,6 @@
+> 本文内容由[模块:TeamBracket-Tennis](https://zh.wikipedia.org/wiki/模块:TeamBracket-Tennis)转换而来。
+
+
 \-- -- This module implements many tennis bracket templates --
 
 local p = {} local args = {} local rounds local sets = {} local compact local byes local hideSeeds local showSeeds local hideHeadings local showThird local offsetThird local compactFinal local RD1seedmap = {} local tcats = ''

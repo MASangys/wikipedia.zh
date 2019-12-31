@@ -1,3 +1,6 @@
+> 本文内容由[Feel Special](https://zh.wikipedia.org/wiki/Feel_Special)转换而来。
+
+
 《**Feel Special**》是由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2019年9月23日推出的第八張韓語迷你專輯，專輯共收錄了7首歌曲，主打歌〈Feel Special〉是朴軫永第五首為TWICE作詞作曲的作品，成員也參與了專輯製作。專輯發售後，再次打破自身先前的紀錄，以154,028張創下韓國女子團體首週最高銷售紀錄。
 
 ## 背景

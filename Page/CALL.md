@@ -1,3 +1,6 @@
+> 本文内容由[CALL](https://zh.wikipedia.org/wiki/CALL)转换而来。
+
+
 《**CALL**》（ ，預計會是2019年韓國上映的女性驚悚[韓國電影](../Page/韓國電影.md "wikilink") ，由[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[全鍾淑及](https://zh.wikipedia.org/wiki/全鍾淑 "wikilink")[金成鈴](../Page/金成鈴.md "wikilink")主演\[1\]\[2\] 。也是導演[李重賢以](https://zh.wikipedia.org/wiki/李重賢 "wikilink")14分鐘的短片電影橫掃各大電影節後的第一部長篇電影。此電影於2018年12月28日讀本祭祀，將於2019年1月3日開始拍攝，預計2019年上映。\[3\]
 
 ## 劇情簡介

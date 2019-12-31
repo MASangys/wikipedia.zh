@@ -1,3 +1,6 @@
+> 本文内容由[SRSS鬥牛犬762自動步槍](https://zh.wikipedia.org/wiki/SRSS鬥牛犬762自動步槍)转换而来。
+
+
 **SRSS鬥牛犬762**（）是一款由退役的[美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[中士](../Page/中士.md "wikilink")理查德·卡布拉爾（Richard Cabral）所設計、[美国](../Page/美国.md "wikilink")槍械配件製造商短步槍槍托系統公司（Short Rifle Stock Systems, Inc.）所生產、使用[M14](../Page/M14自动步枪.md "wikilink")[自动步枪](../Page/自动步枪.md "wikilink")與其民用型[M1A](../Page/春田M1A半自動步槍.md "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")的擊發部件的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[槍托](../Page/槍托.md "wikilink")底盤型轉換／改裝套件。使用前者改裝時為[全自動](../Page/自动步枪.md "wikilink")[戰鬥步槍型](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，而使用後者（或其他半自动高[精度型](../Page/準確與精密.md "wikilink")）時則是[半自动步枪](../Page/半自动步枪.md "wikilink")或[精確射手步槍](../Page/精確射手步槍.md "wikilink")型。發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式步槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 該套件是為了在不犧牲長槍管對[後座力](../Page/後座力.md "wikilink")的操作性和避免縮短槍管造成射程下降的情況以下，提供一款較短小而且可[擊發調變的](../Page/擊發調變槍械.md "wikilink")7.62口徑步槍用於[近身距離作戰](../Page/近身距離作戰.md "wikilink")。另外，該套件的性質與一款[儒格Mini-14的犢牛式槍托改裝套件相似](../Page/儒格Mini-14半自動步槍.md "wikilink")。

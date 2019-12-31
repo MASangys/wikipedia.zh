@@ -1,3 +1,6 @@
+> 本文内容由[BEYOOOOONDS](https://zh.wikipedia.org/wiki/BEYOOOOONDS)转换而来。
+
+
 **BEYOOOOONDS**（****），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")\[1\]。團體於2018年結成，目前有十二名成員（[CHICA\#TETSU及](../Page/BEYOOOOONDS.md "wikilink")[雨之森 川海皆為原](../Page/BEYOOOOONDS.md "wikilink")[Hello\! Pro研修生昇格](../Page/Hello!_Pro研修生.md "wikilink")）\[2\]。「BEYOOOOONDS」又分為「CHICA\#TETSU」及「雨之森 川海」、「Hello\!Project ONLY YOU徵選會」所選出的合格者，共三團\[3\]\[4\]。
 
 ## 成員

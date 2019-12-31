@@ -1,3 +1,6 @@
+> 本文内容由[The Checkers](https://zh.wikipedia.org/wiki/The_Checkers)转换而来。
+
+
 **The Checkers**（）又稱**方格子樂團**，是活躍於[1980年代](../Page/1980年代.md "wikilink")至[1990年代](../Page/1990年代.md "wikilink")前期的日本樂團，由、、、、、（2004年病故）、七人組成，唱片總銷量達千萬張\[1\]\[2\]。
 
 ## 音樂作品

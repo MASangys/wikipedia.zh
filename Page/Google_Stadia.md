@@ -1,3 +1,6 @@
+> 本文内容由[Google Stadia](https://zh.wikipedia.org/wiki/Google_Stadia)转换而来。
+
+
 **Stadia** 是 [Google](../Page/Google.md "wikilink") 運營的[遊戲串流服務](../Page/电子游戏.md "wikilink")。[Google](../Page/Google.md "wikilink") 聲稱服務支援最高[4K解像度](../Page/4K解析度.md "wikilink")、每秒60幀、[高動態範圍視像](../Page/高动态光照渲染.md "wikilink")，由世界各地的伺服器經高速互聯網[串流至用戶設備](../Page/流媒体.md "wikilink")\[1\]。Stadia 服務與 [YouTube](../Page/YouTube.md "wikilink") 結合，並支援「狀態分享」功能，允許玩家自 [YouTube](../Page/YouTube.md "wikilink") [實況主的存儲點自己開始遊戲](../Page/網路直播.md "wikilink")，作為特色賣點之一\[2\]。Stadia 亦支援普通 USB [遊戲手柄或](../Page/手柄.md "wikilink") Stadia 專用之聯網手柄\[3\]。Stadia 與 [Netflix](../Page/Netflix.md "wikilink") 等訂閱制串流服務不同，玩家需購買所玩遊戲\[4\]。初級服務（[1080p](../Page/1080p.md "wikilink")）為免費；月費服務支援更高解像度（[4k](../Page/4K解析度.md "wikilink")）、環繞聲，及部分免費遊戲\[5\]。
 
 2018年10月，此計畫以「Project Stream」為名，利用[刺客教條：奧德賽進行封閉測試](../Page/刺客信条：奥德赛.md "wikilink")\[6\]。Stadia於2019年11月19日上線\[7\]，將支援桌面版[Google Chrome](../Page/Google_Chrome.md "wikilink")、[移动设备](../Page/移动设备.md "wikilink")、[Chromecast](../Page/Chromecast.md "wikilink")終端設備存取\[8\]。

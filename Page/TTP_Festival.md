@@ -1,3 +1,6 @@
+> 本文内容由[TTP Festival](https://zh.wikipedia.org/wiki/TTP_Festival)转换而来。
+
+
 《**TTP Festival**》是台灣女子組合[AKB48 Team TP的第二張](../Page/AKB48_Team_TP.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2019年7月26日由[環球音樂發行](https://zh.wikipedia.org/wiki/环球音乐_\(台湾\) "wikilink")。
 
 ## 背景

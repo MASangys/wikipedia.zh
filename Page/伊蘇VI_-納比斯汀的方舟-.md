@@ -1,3 +1,6 @@
+> 本文内容由[伊蘇VI -納比斯汀的方舟-](https://zh.wikipedia.org/wiki/伊蘇VI_-納比斯汀的方舟-)转换而来。
+
+
 是由[Falcom開發的](https://zh.wikipedia.org/wiki/Falcom "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。初版在2003年9月27日發行於[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。為將Falcom營業額從谷底拉上來的作品。2005年3月10日所推出的[PlayStation 2版本增加了主線語音](../Page/PlayStation_2.md "wikilink")。2007年2月1日發行[PlayStation Portable特別版](../Page/PlayStation_Portable.md "wikilink")，並加入些許要素。
 
 ## 情节

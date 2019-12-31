@@ -1,3 +1,6 @@
+> 本文内容由[Ryuuu TV](https://zh.wikipedia.org/wiki/Ryuuu_TV)转换而来。
+
+
 **Ryuuu TV**是由Ryu與Yuma所共同經營的[YouTube](../Page/YouTube.md "wikilink")頻道，兩人為異國夫妻檔，現居[日本](../Page/日本.md "wikilink")[茨城縣](../Page/茨城縣.md "wikilink")[水戶市](../Page/水戶市.md "wikilink")，影片主題以[日語教學及文化介紹為主](https://zh.wikipedia.org/wiki/日語 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 生平

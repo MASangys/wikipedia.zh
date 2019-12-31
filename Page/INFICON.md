@@ -1,3 +1,6 @@
+> 本文内容由[INFICON](https://zh.wikipedia.org/wiki/INFICON)转换而来。
+
+
 **INFICON**（Instruments For Intelligent Control），中譯**英福康**，是總部位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[巴德拉加茲的一家專門研發](https://zh.wikipedia.org/wiki/巴德拉加茲 "wikilink")、製造及供應半導體和真空鍍膜產業的儀器、偵測器與控制軟件公司。在制冷、空調、汽車產業也提供專業的氣體洩漏鑑測儀器，用於鑑定及分析有毒化學物品。
 
 英福康在歐洲、美國和中國設有製造工廠。英福康子公司遍佈於中國、芬蘭、法國、德國、印度、意大利、日本、韓國、列支敦士登、新加坡、瑞典、瑞士、台灣、英國和美國。

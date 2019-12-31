@@ -1,3 +1,6 @@
+> 本文内容由[Gingerbread \(樂隊\)](https://zh.wikipedia.org/wiki/Gingerbread_\(樂隊\))转换而来。
+
+
 Auto-Tom |過往成員 = |獎項 = }}
 
 **Gingerbread**是香港歌手[黎明](../Page/黎明.md "wikilink")以「明福俠」身份創辦的[樂隊](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，於2019年4月成立，目前的樂隊成員包括明福俠及Auto-Tom，透過創作不同文化的音樂作品，擴闊聽眾的音樂品味，並於同年的5月及8月以改編歌曲作試點，推出兩首單曲作品\[1\]\[2\]。

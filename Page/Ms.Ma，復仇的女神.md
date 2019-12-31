@@ -1,3 +1,6 @@
+> 本文内容由[Ms.Ma，復仇的女神](https://zh.wikipedia.org/wiki/Ms.Ma，復仇的女神)转换而来。
+
+
 《**Ms. Ma, 復仇的女神**》（，），為韓國SBS預計於2018年10月6日播出的週末特別計劃連續劇，由《[醜八怪警報](../Page/醜八怪警報.md "wikilink")》、《[Happy Sisters](https://zh.wikipedia.org/wiki/Happy_Sisters "wikilink")》閔延洪導演與《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》的[朴進宇作家合作打造](https://zh.wikipedia.org/wiki/朴進宇 "wikilink")。此劇改編自知名英國推理小說家[阿加莎·克里斯蒂](../Page/阿加莎·克里斯蒂.md "wikilink")《》的作品，講述背負著殺害女兒冤名的女人Ms. Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 
 ## 演員陣容

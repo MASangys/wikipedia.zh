@@ -1,3 +1,6 @@
+> 本文内容由[威廉·M·巴斯](https://zh.wikipedia.org/wiki/威廉·M·巴斯)转换而来。
+
+
 **威廉·马文·巴斯三世**（）是美國著名的法醫人類學家，以人類[骨科学及人體死後分解腐敗的研究聞名](https://zh.wikipedia.org/wiki/骨科学 "wikilink")，同時也協助從大到聯邦調查局（FBI）、小到地方小鎮的司法機構及私人機構相驗屍體。他曾任教於田納亞大學，雖然目前已從教職退休，但仍積極持續的在他所創立的人類學研究中心進行研究。該中心有個更為人所知的別名叫做「人體農場」，是犯罪小說作家[派翠西亞·康薇爾](../Page/派翠西亞·康薇爾.md "wikilink")在撰寫小說時受到巴斯與他的工作內容啟發，故將小說冠以此名，\[1\]之後也成為代表巴斯研究的象徵名稱。
 
 巴斯也曾將人體農場形容為「死亡英畝」（Death's Acre），這同時也是他與資深記者約拿‧傑佛遜（Jon Jefferson）所共同撰寫、內容為描述巴斯的生活和職業生涯的著作的書名。巴斯和傑佛遜也共同以「傑佛遜巴斯」的筆名共同撰寫了多部小說，如「雕刻人骨」（Carved In Bone）、「人骨告白」（Flesh and Bone）、「惡意之骨」（The Devil's Bones）、「背叛之骨」（Bones of Betrayal）、「人骨竊賊」（The Bone Thief）、「人骨農場」（The Bone Yard）、「驗屍人之鑰」（The Inquisitor's Key）、「切透人骨」 Cut To the Bone）和「破骨點」（The Breaking Point）。

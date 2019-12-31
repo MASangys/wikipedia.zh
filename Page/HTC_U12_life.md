@@ -1,3 +1,6 @@
+> 本文内容由[HTC U12 life](https://zh.wikipedia.org/wiki/HTC_U12_life)转换而来。
+
+
 **HTC U12 life**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2018年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]，運行[Android 8.1操作系统](../Page/Android_Oreo.md "wikilink")，同級競品為[華碩ZenFone 5 (2018)(ZE620KL)](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")。
 
 ## 詳細規格

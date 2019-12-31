@@ -1,3 +1,6 @@
+> 本文内容由[ADP \(公司\)](https://zh.wikipedia.org/wiki/ADP_\(公司\))转换而来。
+
+
 **自動資料處理公司**（Automatic Data Processing, Inc.），通常称**ADP**，是一家美国人力资源管理公司，是世界最大的人力资源管理公司之一。\[1\]\[2\]
 
 ## 历史

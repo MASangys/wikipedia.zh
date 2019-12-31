@@ -1,3 +1,6 @@
+> 本文内容由[GNU Mailman](https://zh.wikipedia.org/wiki/GNU_Mailman)转换而来。
+
+
 **GNU Mailman**是自[GNU計劃](../Page/GNU計劃.md "wikilink")而來，用來管理[郵遞論壇的](https://zh.wikipedia.org/wiki/郵遞論壇 "wikilink")[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")\[1\]</ref>\[2\]</ref>。Mailman主要使用[Python](../Page/Python.md "wikilink")編寫，目前由Abhilash Raj維護\[3\]。Mailman是以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")釋出的[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 歷史

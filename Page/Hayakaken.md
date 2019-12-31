@@ -1,3 +1,6 @@
+> 本文内容由[Hayakaken](https://zh.wikipedia.org/wiki/Hayakaken)转换而来。
+
+
 [Hayakaken_card_reader_on_gate.jpg](https://zh.wikipedia.org/wiki/File:Hayakaken_card_reader_on_gate.jpg "fig:Hayakaken_card_reader_on_gate.jpg")）\]\] [Hayakaken_Ticketvending_machine.jpg](https://zh.wikipedia.org/wiki/File:Hayakaken_Ticketvending_machine.jpg "fig:Hayakaken_Ticketvending_machine.jpg")）\]\] **Hayakaken**（，中文又譯**快捷卡**）是日本一種基於CJRC規格發行的可再增值、非接觸式智能卡（IC卡），兼有儲值車票及電子錢包功能，由[福岡市交通局](https://zh.wikipedia.org/wiki/福岡市交通局 "wikilink")（福岡市營地下鐵）在[2009年](../Page/2009年.md "wikilink")（平成21年）[3月7日](../Page/3月7日.md "wikilink")開始導入使用。「**はやかけん**」是福岡市的[登錄商標](https://zh.wikipedia.org/wiki/商標 "wikilink")（第5175032号等）。
 
 [2017年](../Page/2017年.md "wikilink")（平成29年）[9月1日](../Page/9月1日.md "wikilink")，Hayakaken發行張数突破100万張\[1\]。

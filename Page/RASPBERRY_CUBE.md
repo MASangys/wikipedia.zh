@@ -1,3 +1,6 @@
+> 本文内容由[RASPBERRY CUBE](https://zh.wikipedia.org/wiki/RASPBERRY_CUBE)转换而来。
+
+
 \[1\]是在2018年9月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[2\]，日文簡稱「」\[3\]。2019年8月29日由iMel發售[任天堂Switch](../Page/任天堂Switch.md "wikilink")與[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")\[4\]。
 
 ## 故事簡介

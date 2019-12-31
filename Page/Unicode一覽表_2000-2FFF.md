@@ -1,3 +1,6 @@
+> 本文内容由[Unicode一覽表 2000-2FFF](https://zh.wikipedia.org/wiki/Unicode一覽表_2000-2FFF)转换而来。
+
+
 |                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------- |
 | **[常用標點](https://zh.wikipedia.org/wiki/常用標點_\(Unicode區段\) "wikilink")／General Punctuation**                       |

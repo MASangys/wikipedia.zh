@@ -1,3 +1,6 @@
+> 本文内容由[The Strength of Weakness](https://zh.wikipedia.org/wiki/The_Strength_of_Weakness)转换而来。
+
+
 《**The Strength of Weakness**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧小巧的第一張迷你專輯](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")，於2016年12月13日推出。
 
 ## 簡介

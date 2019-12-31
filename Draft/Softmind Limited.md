@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Softmind Limited](https://zh.wikipedia.org/wiki/Draft:Softmind_Limited)转换而来。
+
+
 Softmind Limited are formed from a group of engineers and artists who want to bring artistic value into engineering and create revolutionary products in Virtual Reality, Augmented Reality and Artificial Intelligence. We believe technology is not necessarily cold and hard, therefore we named ourself “Soft” “Mind”, hoping to let everyone sees the softness of technology.
 
 **此处改为条目主题**是一个

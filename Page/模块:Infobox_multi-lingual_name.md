@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox multi-lingual name](https://zh.wikipedia.org/wiki/模块:Infobox_multi-lingual_name)转换而来。
+
+
 \--[TODO: all non-English text wrapped in {{lang}}? distingush various scripts? Kanji is ja-Hani ... every child infobox should support translit / transcription parameter(s) every child infobox should have a literal meaning parameter revise parameter names to be IETF language code or obvious derivations thereof for error messaging create a separate ibox? else messages are not necessarily visible](https://zh.wikipedia.org/wiki/TODO:_all_non-English_text_wrapped_in_{{lang}}?_distingush_various_scripts?_Kanji_is_ja-Hani_..._every_child_infobox_should_support_translit_/_transcription_parameter\(s\)_every_child_infobox_should_have_a_literal_meaning_parameter_revise_parameter_names_to_be_IETF_language_code_or_obvious_derivations_thereof_for_error_messaging_create_a_separate_ibox?_else_messages_are_not_necessarily_visible "wikilink")
 
 require('Module:No globals'); local data = mw.loadData ('Module:Infobox multi-lingual name/data'); local lang_mod = require ('Module:Lang'); -- for various functions and templates provided by Module:Lang local getArgs = require ('Module:Arguments').getArgs;

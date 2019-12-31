@@ -1,3 +1,6 @@
+> 本文内容由[AR performers](https://zh.wikipedia.org/wiki/AR_performers)转换而来。
+
+
 **AR performers**又稱**ARP**，是由[心跳回憶系列](https://zh.wikipedia.org/wiki/心跳回憶系列 "wikilink")、[愛相隨系列遊戲制作人](https://zh.wikipedia.org/wiki/LOVEPLUS "wikilink")[內田明理主導企劃](https://zh.wikipedia.org/wiki/內田明理 "wikilink")，[Yuke's及](https://zh.wikipedia.org/wiki/Yuke's "wikilink")[愛貝克思合力打造的基於](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[AR技術](../Page/擴增實境.md "wikilink")、以每年冬夏兩季演唱會為活動重心的[虛擬藝人企劃](https://zh.wikipedia.org/wiki/虛擬偶像 "wikilink")。\[1\] 企劃於2015年11日正式發表，並在2018年8月18日KICK A'LIVE公演上宣佈動畫化。\[2\]
 
 ## 簡介

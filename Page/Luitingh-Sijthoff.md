@@ -1,3 +1,6 @@
+> 本文内容由[Luitingh-Sijthoff](https://zh.wikipedia.org/wiki/Luitingh-Sijthoff)转换而来。
+
+
 **Luitingh-Sijthoff** 是一家設於[荷兰](../Page/荷兰.md "wikilink")的[出版商](https://zh.wikipedia.org/wiki/出版商 "wikilink")。主要是在 [荷兰语](../Page/荷蘭語.md "wikilink") 市场出售 [虛構小说](../Page/虛構作品.md "wikilink") 和 [非虛構小说](https://zh.wikipedia.org/wiki/非虛構作品 "wikilink") 的书籍。 它是附属於荷兰 的[企业集团](https://zh.wikipedia.org/wiki/綜合企業 "wikilink") [NDC VBK de uitgevers](https://zh.wikipedia.org/wiki/:nl:NDC_VBK "wikilink")。\[1\]
 
 ## 历史

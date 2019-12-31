@@ -1,3 +1,6 @@
+> 本文内容由[TXT音樂作品列表](https://zh.wikipedia.org/wiki/TXT音樂作品列表)转换而来。
+
+
 《**TXT音樂作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")**[TOMORROW X TOGETHER](../Page/TXT_\(組合\).md "wikilink")**歷年發行的各類音樂專輯、單曲。
 
 ## 韓語作品

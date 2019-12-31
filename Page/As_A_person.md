@@ -1,3 +1,6 @@
+> 本文内容由[As A person](https://zh.wikipedia.org/wiki/As_A_person)转换而来。
+
+
 《**as A person**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第14張單曲。
 
 ## 說明

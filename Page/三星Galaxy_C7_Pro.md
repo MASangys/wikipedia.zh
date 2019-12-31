@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy C7 Pro](https://zh.wikipedia.org/wiki/三星Galaxy_C7_Pro)转换而来。
+
+
 **三星Galaxy C7 Pro**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，於2017年2月上市，
 
 ## 系统

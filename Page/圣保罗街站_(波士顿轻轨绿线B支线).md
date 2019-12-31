@@ -1,3 +1,6 @@
+> 本文内容由[圣保罗街站 \(波士顿轻轨绿线B支线\)](https://zh.wikipedia.org/wiki/圣保罗街站_\(波士顿轻轨绿线B支线\))转换而来。
+
+
 **圣保罗街站**（）是[马萨诸塞湾交通局运营的](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局 "wikilink")[绿线](../Page/波士顿轻轨绿线.md "wikilink")[B支线车站](../Page/波士顿轻轨绿线B支线.md "wikilink")。车站设置在[联邦大道车道隔离带中](https://zh.wikipedia.org/wiki/联邦大道_\(波士顿\) "wikilink")，位于[联邦大道和圣保罗街路口](https://zh.wikipedia.org/wiki/联邦大道_\(波士顿\) "wikilink")。车站由两座侧式站台组成，分别为B支线出城和入城方向站台。圣保罗街车站坐落在[波士顿大学西校区](https://zh.wikipedia.org/wiki/波士顿大学 "wikilink")，是离最近的轻轨站。除此以外，波士顿大学城市规划及城市事务学院和英语及定向课程中心（celop）也在车站3分钟步行范围内。
 
 ## 合并

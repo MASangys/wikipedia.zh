@@ -1,3 +1,6 @@
+> 本文内容由[Swing Entertainment](https://zh.wikipedia.org/wiki/Swing_Entertainment)转换而来。
+
+
 **Swing Entertainment** （[韓語](../Page/朝鮮語.md "wikilink")：스윙 엔터테인먼트）是韓國的經紀公司，成立於2018年6月。原為 [CJ E\&M](../Page/CJ_E&M.md "wikilink") 為妥善管理[Wanna One而投資設立的公司](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。
 
 ## 歷史沿革

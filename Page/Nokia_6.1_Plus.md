@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 6.1 Plus](https://zh.wikipedia.org/wiki/Nokia_6.1_Plus)转换而来。
+
+
 **Nokia X6**又名**-{zh-hans:Nokia 6.1 Plus; zh-hant:Nokia X6;}-**\[1\]，是一款运行[Android](../Page/Android.md "wikilink")操作系统的诺基亚品牌中高端智能手机。于北京时间2018年5月16日14:00在北京三里屯发布。\[2\]
 
 ## 规格

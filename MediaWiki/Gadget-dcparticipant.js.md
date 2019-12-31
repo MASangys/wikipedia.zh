@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-dcparticipant.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-dcparticipant.js)转换而来。
+
+
 (function($, mw) { 'use strict';
 
 var pagename = mw.config.get('wgPageName'); var username = mw.config.get('wgUserName'); var personal_page = 'Wikipedia:動員令/第十七次動員令/個人貢獻/' + (username) + '';

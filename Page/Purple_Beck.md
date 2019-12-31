@@ -1,3 +1,6 @@
+> 本文内容由[Purple Beck](https://zh.wikipedia.org/wiki/Purple_Beck)转换而来。
+
+
 **Purple Beck**（），是[韓國Majesty娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的六人女子組合\[1\]\[2\]，成員包括Yerim、Yeowool、Layeon、Mini、Seyeon及USoul(出道前已退出)\[3\]，現為五人組合。
 
 ## 團隊資料

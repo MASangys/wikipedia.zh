@@ -1,3 +1,6 @@
+> 本文内容由[MADNESS](https://zh.wikipedia.org/wiki/MADNESS)转换而来。
+
+
 **MADNESS**(簡稱︰**MDNS**)，是一個[香港](../Page/香港.md "wikilink")[時尚品牌](../Page/時尚設計.md "wikilink")2014年由[余文樂](../Page/余文樂.md "wikilink")創立，是余文樂的代表品牌。
 
 ## 概念

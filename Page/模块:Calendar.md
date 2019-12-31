@@ -1,3 +1,6 @@
+> 本文内容由[模块:Calendar](https://zh.wikipedia.org/wiki/模块:Calendar)转换而来。
+
+
 \-- This module renders the calendar seen on [Portal:Current events](https://zh.wikipedia.org/wiki/Portal:Current_events "wikilink").
 
 local p = {}

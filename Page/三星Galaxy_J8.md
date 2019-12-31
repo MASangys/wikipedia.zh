@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy J8](https://zh.wikipedia.org/wiki/三星Galaxy_J8)转换而来。
+
+
 **Samsung Galaxy J8** 是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子设计](https://zh.wikipedia.org/wiki/三星电子 "wikilink")、开发和销售的一款基于系统的[三星Galaxy J系列](https://zh.wikipedia.org/wiki/三星Galaxy_J系列 "wikilink")[智能手机](../Page/智能手机.md "wikilink")。其于2018年7月发布，同年8月开始销售。Samsung Galaxy J8也同时作为[Samsung Galaxy J7 (2017)的继承者](https://zh.wikipedia.org/wiki/三星Galaxy_J7_\(2017\) "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[我的A級秘密 \(電影\)](https://zh.wikipedia.org/wiki/我的A級秘密_\(電影\))转换而来。
+
+
 《**我的A級秘密**》（）是一部於2019年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[獨立](https://zh.wikipedia.org/wiki/獨立電影 "wikilink")[浪漫喜劇電影](https://zh.wikipedia.org/wiki/浪漫喜劇 "wikilink")，改編自[蘇菲·金索拉](../Page/蘇菲·金索拉.md "wikilink")創作的[同名小說](https://zh.wikipedia.org/wiki/我的A級秘密 "wikilink")。由艾莉絲·杜蘭（Elise Duran）執導\[1\]\[2\]，[亞歷珊卓·達迪莉奧](../Page/亞歷珊卓·達迪莉奧.md "wikilink")及[泰勒·霍奇林](../Page/泰勒·霍奇林.md "wikilink")主演。
 
 《我的A級祕密》於2019年9月13日在戲院以及線上串流平台同步發行。\[3\]

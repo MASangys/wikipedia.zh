@@ -1,3 +1,6 @@
+> 本文内容由[聖乃Asuka](https://zh.wikipedia.org/wiki/聖乃Asuka)转换而来。
+
+
 **聖乃 あすか**（せいの あすか、1月19日\[1\] - )，現[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[花組](../Page/花組.md "wikilink")男役。
 
 出生於[神奈川県](../Page/神奈川縣.md "wikilink")[横浜市](../Page/横滨市.md "wikilink")\[2\]、曾就讀[市立庄戸中学校](https://zh.wikipedia.org/wiki/市立庄戸中学校 "wikilink")\[3\]身高170公分\[4\]。暱稱「ほのか」、「あすか」\[5\]。

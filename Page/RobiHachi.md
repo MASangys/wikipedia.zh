@@ -1,3 +1,6 @@
+> 本文内容由[RobiHachi](https://zh.wikipedia.org/wiki/RobiHachi)转换而来。
+
+
 是由[STUDIO COMET公司製作原創SF的](../Page/STUDIO_COMET.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，\[1\]於[2019年](../Page/2019年.md "wikilink")4月起在[AT-X](../Page/AT-X.md "wikilink")等電視台播放中。
 
 本作以[十返舍一九](../Page/十返舍一九.md "wikilink")的[滑稽本](https://zh.wikipedia.org/wiki/戲作#滑稽本 "wikilink")《[東海道中膝栗毛](../Page/東海道中膝栗毛.md "wikilink")》為藍本改編的SF動畫作品，包含的元素有人物的姓名、出身背景、個性以及地名等\[2\]。

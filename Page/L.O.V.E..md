@@ -1,3 +1,6 @@
+> 本文内容由[L.O.V.E.](https://zh.wikipedia.org/wiki/L.O.V.E.)转换而来。
+
+
 **L.O.V.E.**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的音樂專輯，於2018年12月12日發行\[1\]，而實體專輯於21日推出\[2\]。值得一提的是，本專輯集齊粵，英，國三種語言的歌曲，當中以粵語為主。
 
 本專輯紀念陳奕迅2010至2012年《[DUO陳奕迅世界巡迴演唱會](../Page/DUO陳奕迅世界巡迴演唱會.md "wikilink")》音樂團隊的合作和友誼，由隨團成員（如[盧凱彤](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")、[陳詠謙](../Page/陳詠謙.md "wikilink")、[恭碩良](../Page/恭碩良.md "wikilink")、[孫偉明](https://zh.wikipedia.org/wiki/孫偉明 "wikilink")、[張傑邦](../Page/張傑邦.md "wikilink")等）參與製作，並在巡迴演唱會期間開始進行錄製。整張專輯的錄音工作基本上已於2013年完成\[3\]。

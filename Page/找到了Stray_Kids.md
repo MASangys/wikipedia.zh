@@ -1,3 +1,6 @@
+> 本文内容由[找到了Stray Kids](https://zh.wikipedia.org/wiki/找到了Stray_Kids)转换而来。
+
+
 **《找到了Stray Kids》**（；；）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet](../Page/Mnet.md "wikilink")頻道首播\[1\]，同時間也於日本網路電視台[AbemaTV](../Page/AbemaTV.md "wikilink")同步播出\[2\]。
 
 ## 播出時間

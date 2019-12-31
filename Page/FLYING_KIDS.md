@@ -1,3 +1,6 @@
+> 本文内容由[FLYING KIDS](https://zh.wikipedia.org/wiki/FLYING_KIDS)转换而来。
+
+
 **FLYING KIDS**（），是一組由擔任主唱為中心的[日本](../Page/日本.md "wikilink")7人組[放克](../Page/放克.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。1988年以單曲《》出道。於就讀[東京造形大學](../Page/東京造形大學.md "wikilink")期間組成。
 
 其樂團名稱命名來自[山下達郎](../Page/山下達郎.md "wikilink")的同名歌曲「」（曾收錄在、山下達郎、的專輯《》裡）\[1\]。

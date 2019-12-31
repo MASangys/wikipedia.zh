@@ -1,3 +1,6 @@
+> 本文内容由[Nxt](https://zh.wikipedia.org/wiki/Nxt)转换而来。
+
+
 **Nxt** 是一種[开放源码](https://zh.wikipedia.org/wiki/Open_source "wikilink")[加密货币及](../Page/密碼貨幣.md "wikilink")[支付平台](https://zh.wikipedia.org/wiki/Payment_network "wikilink")，由匿名软件开发人员*BCNext*於2013年推出。\[1\]它采用[持有量証明以達成交易共識](../Page/持有量證明.md "wikilink")，與[比特幣不同](../Page/比特幣歷史.md "wikilink")，它有固定的代幣供應量而沒有[挖礦機制](https://zh.wikipedia.org/wiki/挖礦 "wikilink")。\[2\]\[3\]Nxt的推出旨在建立一個適合應用程序開發及提供財政服務的彈性平台。
 
 Nxt在[ESMA的徵集証據報告中等到廣泛報導](../Page/欧洲证券及市场管理局.md "wikilink")。

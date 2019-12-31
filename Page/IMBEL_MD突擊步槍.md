@@ -1,3 +1,6 @@
+> 本文内容由[IMBEL MD突擊步槍](https://zh.wikipedia.org/wiki/IMBEL_MD突擊步槍)转换而来。
+
+
 **IMBEL MD**（**MD-1**、**MD-2**、**MD-3**和最近的**MD-4**）是一系列由[巴西](../Page/巴西.md "wikilink")武器製造商（，[縮寫](../Page/縮寫.md "wikilink")：IMBEL）所研製和生產的[突击步枪](../Page/突击步枪.md "wikilink")，亦是[巴西武裝部隊的制式步槍之一](../Page/巴西武装力量.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[SOLIDEMO](https://zh.wikipedia.org/wiki/SOLIDEMO)转换而来。
+
+
 SOLIDEMO([日語](../Page/日语.md "wikilink"):ソリディーモ)，於2013年組成，為日本[愛貝克思公司的](../Page/愛貝克思集團.md "wikilink")8人男子音樂團體。出道時以歌唱實力、成員身高皆為180cm以上、帥氣外型的三大偶像要素為賣點。
 
 團體名稱由「SOLID（超酷）」與「EMO（嬌弱）※emotional的簡略」而來。意思為具男子氣概，同時又能用歌曲將女性溫柔的一面詮釋完整。

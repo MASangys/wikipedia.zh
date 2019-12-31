@@ -1,3 +1,6 @@
+> 本文内容由[Sam Ehlinger](https://zh.wikipedia.org/wiki/Sam_Ehlinger)转换而来。
+
+
 
  **Samuel George Ehlinger**（）是[美式橄榄球德克萨斯长角牛队的](../Page/美式足球.md "wikilink") [四分卫](../Page/四分衛.md "wikilink") 。 毕业于[德克萨斯州奥斯汀的Westlake高中的他在](../Page/奧斯汀.md "wikilink")2015年7月开始就读于[德克萨斯大学奥斯汀分校并且在两年后正式开始服役](../Page/德克薩斯州大學奧斯汀分校.md "wikilink")。Ehlinger在他大二的时候正式成为[德克萨斯大学奥斯汀分校首发四分卫](../Page/德克薩斯州大學奧斯汀分校.md "wikilink")，在他的带领下他的队伍自2009年以来首次进入Big 12协会冠军赛并以10-4的战绩赢得2019年的Sugar Bowl。
 

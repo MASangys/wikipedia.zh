@@ -1,3 +1,6 @@
+> 本文内容由[The peggies](https://zh.wikipedia.org/wiki/The_peggies)转换而来。
+
+
 **the peggies**，[日本](../Page/日本.md "wikilink")的三人女性樂團，[日本史詩唱片旗下的藝人](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")，於2011年組建，所屬事務所為MOVING ON\[1\]。
 
 ## 經歷

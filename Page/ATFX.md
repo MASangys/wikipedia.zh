@@ -1,3 +1,6 @@
+> 本文内容由[ATFX](https://zh.wikipedia.org/wiki/ATFX)转换而来。
+
+
 **ATFX** 是一家環球外匯交易經紀商，總部位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")。\[1\]\[2\]
 
 ## 歷史

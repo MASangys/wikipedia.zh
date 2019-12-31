@@ -1,3 +1,6 @@
+> 本文内容由[Arcidopsis footei](https://zh.wikipedia.org/wiki/Arcidopsis_footei)转换而来。
+
+
 ***Arcidopsis footei***是[蚌科](../Page/蚌科.md "wikilink")[雕刻蚌亞科](../Page/雕刻蚌亞科.md "wikilink")的一個[淡水](https://zh.wikipedia.org/wiki/淡水生物 "wikilink")[雙殼綱](https://zh.wikipedia.org/wiki/雙殼綱 "wikilink")[軟體動物物種](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")，是[印度](../Page/印度.md "wikilink")[西高止山脈的特有種](https://zh.wikipedia.org/wiki/西高止山脈 "wikilink")，也是***Arcidopsis***屬的唯一物種，在其他文獻有作直屬於[蚌科](../Page/蚌科.md "wikilink")之下分類地位不明的群組。
 
 ## 型態描述

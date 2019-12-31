@@ -1,3 +1,6 @@
+> 本文内容由[持續狩獵史萊姆三百年，不知不覺就練到LV MAX](https://zh.wikipedia.org/wiki/持續狩獵史萊姆三百年，不知不覺就練到LV_MAX)转换而来。
+
+
 《**持續狩獵史萊姆三百年，不知不覺就練到LV MAX**》是[森田季節](../Page/森田季節.md "wikilink")所作的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，插画由[紅緒担当](https://zh.wikipedia.org/wiki/紅緒 "wikilink")。该书首在《[成為小說家吧](../Page/成為小說家吧.md "wikilink")》上连载，随后发布单行本。此后发布了同名漫画并在《[GANGAN ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上进行连载，作画由擔任。
 
 ## 簡介

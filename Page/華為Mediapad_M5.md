@@ -1,3 +1,6 @@
+> 本文内容由[華為Mediapad M5](https://zh.wikipedia.org/wiki/華為Mediapad_M5)转换而来。
+
+
 **華為Mediapad M5**是由[华为公司设计和销售的](https://zh.wikipedia.org/wiki/华为公司 "wikilink")[平板手机](../Page/平板手机.md "wikilink")，有10.8吋和8.4吋兩種款式，各有僅wifi版和wifi+LTE版。
 
 ## 概觀

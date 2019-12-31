@@ -1,3 +1,6 @@
+> 本文内容由[Arcaea](https://zh.wikipedia.org/wiki/Arcaea)转换而来。
+
+
 是lowiro開發的一款三維立體音樂遊戲。玩家需要按照音樂節奏點擊屏幕完成曲目。本遊戲的特點在於三維音遊。遊戲的首個版本於2017年3月9日在[App Store與](../Page/App_Store_\(iOS\).md "wikilink")[Google Play發布](../Page/Google_Play.md "wikilink")\[1\]。当前游戏共正式收录131首曲目。
 遊戲初始給予玩家兩個搭檔：**光**(Hikari)以及**對立**(Tairitsu)。本遊戲的劇情也圍繞著這兩個人物展開。在遊戲2.0版本更新後，遊戲有專門的“故事”界面，玩家可通過對應搭檔遊玩對應曲目探索故事。
 

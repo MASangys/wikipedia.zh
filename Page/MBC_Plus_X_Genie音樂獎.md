@@ -1,3 +1,6 @@
+> 本文内容由[MBC Plus X Genie音樂獎](https://zh.wikipedia.org/wiki/MBC_Plus_X_Genie音樂獎)转换而来。
+
+
 **MBC Plus X Genie音樂獎**（，簡稱：**MGA**）是[韓國音樂界的獎項之一](https://zh.wikipedia.org/wiki/韓國音樂 "wikilink")，由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[文化廣播公司](../Page/文化廣播公司.md "wikilink")（MBC）的子公司[MBC Plus與](../Page/MBC_Plus_Media.md "wikilink")[韓國通訊的子公司](../Page/KT公司.md "wikilink")[Genie音樂](../Page/Genie音樂.md "wikilink")聯手舉辦的新概念[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")頒獎典禮，目的在於獎勵成就出眾的音樂藝術家。首屆於2018年11月6日在[仁川廣域市](../Page/仁川廣域市.md "wikilink")的仁川南洞體育館舉行。\[1\]
 
 ## 介紹

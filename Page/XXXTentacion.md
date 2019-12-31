@@ -1,3 +1,6 @@
+> 本文内容由[XXXTentacion](https://zh.wikipedia.org/wiki/XXXTentacion)转换而来。
+
+
 **賈西·德韦恩·里卡多·昂弗莱**（英文：Jahseh Dwayne Ricardo Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")歌手和[詞曲作家](../Page/詞曲作家.md "wikilink")。昂弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。昂弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[劳德希尔](../Page/劳德希尔.md "wikilink")度過。他從青少年拘留中心獲釋後開始创作音樂\[3\]，並於2013年6月在[SoundCloud](../Page/SoundCloud.md "wikilink")上發布了他的第一首歌曲\[4\]“News/Flock”，不久后成为了SoundCloud说唱的圈子中的一個受歡迎的人物\[5\]\[6\]\[7\] 。
 
 隨著他的歌曲“Look At Me\!”的發行，昂弗莱聲名鵲起\[8\]。他於2017年8月25日發布了他的首張專輯《17》。這張專輯在美國[Billboard二百强专辑榜上排名第二](../Page/公告牌二百强专辑榜.md "wikilink")，首周銷售了86000張。这张专辑得到了评论家们的正面回应，其中一些人赞扬了这张专辑的个人叙事和多元化的音乐风格。該專輯於2018年8月15日獲得[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")（RIAA）的白金認證。昂弗莱的第二張專輯《》於2018年3月16日發行。它在[Billboard二百强专辑榜上排名第一](../Page/公告牌二百强专辑榜.md "wikilink")，其單曲“SAD\!”、“changes”和“Moonlight”都進入了[Billboard百强单曲榜的前](../Page/告示牌百强单曲榜.md "wikilink")20名。該專輯同樣於2018年8月7日由美國唱片業協會（RIAA）認證為“白金唱片”。

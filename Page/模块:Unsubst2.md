@@ -1,3 +1,6 @@
+> 本文内容由[模块:Unsubst2](https://zh.wikipedia.org/wiki/模块:Unsubst2)转换而来。
+
+
 local p = {} local merror = require("Module:Error") local specialParams = {
 
 `   ['$N'] = 'template name', -- Deprecated, but keeping until it is removed from transcluding templates`

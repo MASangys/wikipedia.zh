@@ -1,3 +1,6 @@
+> 本文内容由[COLO 829](https://zh.wikipedia.org/wiki/COLO_829)转换而来。
+
+
 **COLO 829**是永生的[人類](../Page/人類.md "wikilink")轉移性[惡性黑色素瘤](../Page/黑色素瘤.md "wikilink")，最初是在1974年分離自一名45歲尚未接受任何治療的[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")惡性黑色素瘤[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")\[1\]，早期傳代仍然包含着一小部分會產生[黑色素](../Page/黑色素.md "wikilink")的[細胞](https://zh.wikipedia.org/wiki/細胞 "wikilink")。
 
 ## 特徵

@@ -1,3 +1,6 @@
+> 本文内容由[PFLAG](https://zh.wikipedia.org/wiki/PFLAG)转换而来。
+
+
 **PFLAG**是[美国](../Page/美国.md "wikilink")第一个也是最大的为[女同性戀](../Page/女同性戀.md "wikilink")，[男同性戀](../Page/男同性戀.md "wikilink")，[双性恋](../Page/双性恋.md "wikilink")，[跨性別](../Page/跨性別.md "wikilink")或[酷兒](https://zh.wikipedia.org/wiki/酷兒 "wikilink")（[LGBT](../Page/LGBT.md "wikilink")Q）群体及其亲人与盟友团结到一起提供服务和支持的组织。PFLAG National是一个国家组织，为当地分会的PFLAG网络提供支持。\[1\]PFLAG在美国有近400个分会，有超过20万名会员和支持者。
 
 PFLAG（发音： ）原本为Parents and Friends of Lesbians and Gays（男女同性恋的双亲和朋友）（后扩展为Parents, Families and Friends of Lesbians and Gays）的缩写，在1993年删除连字符之前，该组织正式名称为P-FLAG。\[2\]2014年，该组织的成员投票决定正式更名为PFLAG，以反映其在LGBTQ社区中所做的数十年的全面包容性工作。\[3\]

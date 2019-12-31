@@ -1,3 +1,6 @@
+> 本文内容由[My Nintendo](https://zh.wikipedia.org/wiki/My_Nintendo)转换而来。
+
+
 **My Nintendo**為[任天堂](../Page/任天堂.md "wikilink")於[2016年](../Page/2016年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")開始提供的線上會員制網站。
 
 ## 簡介

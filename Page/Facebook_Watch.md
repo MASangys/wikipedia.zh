@@ -1,3 +1,6 @@
+> 本文内容由[Facebook Watch](https://zh.wikipedia.org/wiki/Facebook_Watch)转换而来。
+
+
 **Facebook Watch**是[Facebook](../Page/Facebook.md "wikilink")的影片平台。2017年8月首度推出，起初僅限於[美國的Facebook用戶](https://zh.wikipedia.org/wiki/美國 "wikilink")\[1\]；至2018年8月開放至全球用戶\[2\]。
 
 根據2019年6月的統計，Facebook Watch的每月觀看人數達7.2億人，每日觀看人數達1.4億人，平均每人每日觀看26分鐘\[3\]。

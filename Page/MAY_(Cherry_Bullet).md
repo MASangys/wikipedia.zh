@@ -1,3 +1,6 @@
+> 本文内容由[MAY \(Cherry Bullet\)](https://zh.wikipedia.org/wiki/MAY_\(Cherry_Bullet\))转换而来。
+
+
 **廣川茉音**（，；），藝名為**MAY**（；）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")，隊內擔當領舞。\[1\]
 
 ## 經歷

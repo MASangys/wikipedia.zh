@@ -1,3 +1,6 @@
+> 本文内容由[澳門巴士3BX路線](https://zh.wikipedia.org/wiki/澳門巴士3BX路線)转换而来。
+
+
 **澳門巴士3BX路線**是一條由**[澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")**經營，往返**[關閘](../Page/關閘廣場_\(巴士站\).md "wikilink")**及**[亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(巴士總站\) "wikilink")**的臨時快速單向巴士路線。
 
 ## 歷史

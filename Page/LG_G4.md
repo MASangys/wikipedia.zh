@@ -1,3 +1,6 @@
+> 本文内容由[LG G4](https://zh.wikipedia.org/wiki/LG_G4)转换而来。
+
+
 **LG G4**是由[LG电子开发的](../Page/LG電子.md "wikilink")[Android](../Page/Android.md "wikilink") [智能手机](../Page/智能手机.md "wikilink") ，是[LG G系列的一部分](../Page/LG_G系列.md "wikilink") 。于2015年4月28日首次亮相，并于2015年4月29日在[韩国首次发布](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")，在2015年6月广泛发布，作为2014年[G3的继承者](../Page/LG_G3.md "wikilink")。 G4主要是基于G3设计演变，G4对显示器和摄像头都进行了修改。
 
 评论家对G4做出了积极的评价：赞扬其显示、相机质量和整体性能。他们认为G4虽然是一款功能强大的设备，但是与其前代相比没有足够的实质性改变或创新从而使该设备能够与其主要竞争对手脱颖而出。但可能会吸引力用户需要具有可扩展存储和可拆卸电池的智能手机，因为它们在推出时主要竞争对手排除了这些功能，即[三星Galaxy S6](../Page/三星Galaxy_S6.md "wikilink") 。 \[1\] \[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Vfxd](https://zh.wikipedia.org/wiki/模块:Vfxd)转换而来。
+
+
 local vfxd = {} local mError = require("Module:Error")
 
 function vfxd.redlink(frame)

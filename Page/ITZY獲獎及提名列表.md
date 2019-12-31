@@ -1,3 +1,6 @@
+> 本文内容由[ITZY獲獎及提名列表](https://zh.wikipedia.org/wiki/ITZY獲獎及提名列表)转换而来。
+
+
 **ITZY獲獎及提名列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[ITZY](../Page/ITZY.md "wikilink")由2019年出道至今於頒獎典禮的獲獎及提名。
 
 ## 韓國音樂頒獎典禮

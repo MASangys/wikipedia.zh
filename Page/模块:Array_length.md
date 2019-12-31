@@ -1,3 +1,6 @@
+> 本文内容由[模块:Array length](https://zh.wikipedia.org/wiki/模块:Array_length)转换而来。
+
+
 \-- This module finds the length of an array, or of a quasi-array with keys such -- as "data1", "data2", etc., using a binary search algorithm.
 
 local checkType = require('libraryUtil').checkType

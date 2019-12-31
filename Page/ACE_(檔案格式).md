@@ -1,3 +1,6 @@
+> 本文内容由[ACE \(檔案格式\)](https://zh.wikipedia.org/wiki/ACE_\(檔案格式\))转换而来。
+
+
 **ACE**是一种私有的[数据压缩](../Page/数据压缩.md "wikilink")存档[文件格式](../Page/檔案格式.md "wikilink")。开发者为Marcel Lemke，后被e-merge GmbH买下。因其提供稍好于[RAR](../Page/RAR.md "wikilink")格式的压缩率而在1999-2001年间开始流行。
 
 ## WinAce

@@ -1,3 +1,6 @@
+> 本文内容由[乃木坂46的All Night Nippon](https://zh.wikipedia.org/wiki/乃木坂46的All_Night_Nippon)转换而来。
+
+
 **乃木坂46的All Night Nippon**（）是自2019年4月3日起於每週三25:00-27:00（即週四1:00-3:00；[日本标准时间](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink")）在[日本放送](../Page/日本放送.md "wikilink")播出的深夜广播节目\[1\]，為日本女子偶像團體[乃木坂46的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，由乃木坂46成員[新内真衣](../Page/新内真衣.md "wikilink")擔任主要。
 
 ## 概要

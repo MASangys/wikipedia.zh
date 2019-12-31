@@ -1,3 +1,6 @@
+> 本文内容由[MTA區域巴士營運](https://zh.wikipedia.org/wiki/MTA區域巴士營運)转换而来。
+
+
 **MTA区域公共汽车运营**（MTA Regional Bus Operations, RBO）是[纽约大都会运输署](https://zh.wikipedia.org/wiki/纽约大都会运输署 "wikilink")（MTA）下属的巴士运营部门，于2008年成立。截至2018年2月，RBO共经营234条普通巴士线路，71条快线巴士线路，以及17条以[BRT模式运营的](https://zh.wikipedia.org/wiki/BRT "wikilink")线路，拥有5,725辆巴士，位居美国各城市巴士系统之首。
 
 RBO的巴士服务以“MTA巴士”和“MTA纽约市巴士”的名义经营，前者指2008年被整合进MTA的私有企业经营的巴士线路，后者指2008年前便由MTA经营的巴士线路。MTA也经营（为行动不便人士提供的巴士服务），此前也曾经营。

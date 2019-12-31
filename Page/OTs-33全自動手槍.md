@@ -1,3 +1,6 @@
+> 本文内容由[OTs-33全自動手槍](https://zh.wikipedia.org/wiki/OTs-33全自動手槍)转换而来。
+
+
 **OTs-33「箭羽錘」**（，；Pernach／Пернач意為「[箭羽](https://zh.wikipedia.org/wiki/箭羽錘 "wikilink")[錘](https://zh.wikipedia.org/wiki/錘矛 "wikilink")」）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")（TsKIB SOO）所屬的槍械設計師（，）於1995年以為藍本，在TsKIB SOO設計局的協助以下研製，並且由位於[圖拉的](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠所少量生產的](../Page/俄联邦仪器设计局.md "wikilink")[全自動手槍](../Page/全自動手槍.md "wikilink")（衝鋒手槍），發射發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 「箭羽錘」也被命名為SBZ-2（），該名字源自負責該手槍的KBP小組的成員名字，即斯捷奇金本人（**S**techkin／**С**те́чкин）、鮑爾澤（**B**altser／**Б**альцер）和辛真高（**Z**inchenko／**З**инченко）。\[1\]它旨在取代俄羅斯警方、[俄羅斯內政部](../Page/俄罗斯联邦内务部.md "wikilink")（MVD）和其他準軍事部隊在內各種[特別用途機動單位](../Page/特別用途機動單位.md "wikilink")[特種警察部隊所裝備的](https://zh.wikipedia.org/wiki/特種警察 "wikilink")[斯捷奇金自動手槍](../Page/斯捷奇金自動手槍.md "wikilink")。

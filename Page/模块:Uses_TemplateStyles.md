@@ -1,3 +1,6 @@
+> 本文内容由[模块:Uses TemplateStyles](https://zh.wikipedia.org/wiki/模块:Uses_TemplateStyles)转换而来。
+
+
 \-- This module implements the  template. local yesno = require('Module:Yesno') local mList = require('Module:List') local mTableTools = require('Module:TableTools') local mMessageBox = require('Module:Message box')
 
 local p = {}

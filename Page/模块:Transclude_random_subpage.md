@@ -1,3 +1,6 @@
+> 本文内容由[模块:Transclude random subpage](https://zh.wikipedia.org/wiki/模块:Transclude_random_subpage)转换而来。
+
+
 \-- This module implements [Template:Transclude random subpage](https://zh.wikipedia.org/wiki/Template:Transclude_random_subpage "wikilink"). It is alpha software.
 
 local p = {}

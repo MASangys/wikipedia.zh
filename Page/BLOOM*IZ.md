@@ -1,3 +1,6 @@
+> 本文内容由[BLOOM\*IZ](https://zh.wikipedia.org/wiki/BLOOM\*IZ)转换而来。
+
+
 《**BLOOM\*IZ**》是女子組合[IZ\*ONE](../Page/IZ*ONE.md "wikilink")的首張正规專輯，由[Off The Record娛樂製作](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink")，[Stone Music娛樂發行](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")，发行时间未定，主打歌曲为《FIESTA》。
 
 ## 簡介

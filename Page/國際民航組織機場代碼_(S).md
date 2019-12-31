@@ -1,3 +1,6 @@
+> 本文内容由[國際民航組織機場代碼 \(S\)](https://zh.wikipedia.org/wiki/國際民航組織機場代碼_\(S\))转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

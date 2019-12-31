@@ -1,3 +1,6 @@
+> 本文内容由[Present: YOU](https://zh.wikipedia.org/wiki/Present:_YOU)转换而来。
+
+
 《**Present: YOU**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第三張韓語正規專輯。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為iRiver，於2018年9月17日發行。共收錄十五首曲目加一首純音樂，主打歌為《Lullaby》。12月3日，發行改版專輯 \<Present : YOU\> \&ME Edition，主打歌為《MiRACLE》。
 
 ## 背景

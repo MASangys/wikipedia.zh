@@ -1,3 +1,6 @@
+> 本文内容由[Kuaizero 老高](https://zh.wikipedia.org/wiki/Kuaizero_老高)转换而来。
+
+
 **Kuaizero 老高**是由[網紅老高](https://zh.wikipedia.org/wiki/網紅 "wikilink")（）與其妻小茉經營的一個[YouTube](../Page/YouTube.md "wikilink")頻道，頻道內容為世界趣聞軼事、[幽浮學](../Page/幽浮學.md "wikilink")、懸案、[都市傳說](../Page/都市傳說.md "wikilink")、[陰謀論](../Page/陰謀論.md "wikilink")等各種[神秘學的故事與](https://zh.wikipedia.org/wiki/神秘學 "wikilink")[傳聞](https://zh.wikipedia.org/wiki/傳聞 "wikilink")。目前因[商標蟑螂問題頻道名暫時變更為](../Page/專利流氓.md "wikilink")**老高與小茉 Mr & Mrs Gao**。
 
 ## 歷史

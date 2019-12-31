@@ -1,3 +1,6 @@
+> 本文内容由[LIVE 2004 ～en～](https://zh.wikipedia.org/wiki/LIVE_2004_～en～)转换而来。
+
+
 《**LIVE 2004 〜en〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")的影像作品。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")發售。
 
 ## 概要

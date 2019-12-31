@@ -1,3 +1,6 @@
+> 本文内容由[艾梅洛閣下II世事件簿](https://zh.wikipedia.org/wiki/艾梅洛閣下II世事件簿)转换而来。
+
+
 《**艾梅洛閣下II世事件簿**》（）是由日本小說家[三田誠所著作](https://zh.wikipedia.org/wiki/三田誠 "wikilink")、坂本峰地（）負責繪製插畫的日本[輕小說](../Page/輕小說.md "wikilink")，同時也是[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的視覺小說《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》系列的衍生作品。繁體中文版由台灣角川代理，譯者為[K.K.](https://zh.wikipedia.org/wiki/譯者K.K. "wikilink")。
 
 2017年起由東冬負責本作的漫畫版繪製，並在同年的[Young Ace](../Page/Young_Ace.md "wikilink")11月號開始連載\[1\]\[2\]。2019年起，由角川文庫出版本作的文庫版\[3\]。

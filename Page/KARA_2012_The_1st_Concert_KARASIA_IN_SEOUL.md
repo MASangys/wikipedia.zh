@@ -1,3 +1,6 @@
+> 本文内容由[KARA 2012 The 1st Concert KARASIA IN SEOUL](https://zh.wikipedia.org/wiki/KARA_2012_The_1st_Concert_KARASIA_IN_SEOUL)转换而来。
+
+
 **KARA 2012 The 1st Concert KARASIA IN SEOUL**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Kara](../Page/Kara.md "wikilink")的首次韓國演唱會。演唱會於2012年2月18日開始，2012年2月19日結束，地點為[首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")。
 
 ## 演出日期

@@ -1,3 +1,6 @@
+> 本文内容由[Run-DMC](https://zh.wikipedia.org/wiki/Run-DMC)转换而来。
+
+
 **Run-DMC**（另拼作**Run-D.M.C.**）是來自[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[皇后區](../Page/皇后區.md "wikilink")的美國[嘻哈組合](../Page/嘻哈音樂.md "wikilink")，由[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、和[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")於1981年組成。Run-DMC被廣泛認為是[嘻哈](../Page/嘻哈.md "wikilink")文化歷史上最具影響力、也是1980年代最著名的藝人之一。Run-DMC也與[LL Cool J](../Page/LL_Cool_J.md "wikilink")、[野獸男孩](../Page/野獸男孩.md "wikilink")和[全民公敵組合](../Page/全民公敵組合.md "wikilink")並列為的先鋒。
 
 Run-DMC是第一個獲得[金唱片銷量認證專輯](../Page/音乐唱片销售认证.md "wikilink")（以1984年的《》）的嘻哈藝人，還以此得到了[葛萊美獎](../Page/葛萊美獎.md "wikilink")提名。\[1\]另外他們也是第一個獲得[白金唱片認證](../Page/音乐唱片销售认证.md "wikilink")（以1985年的《》）、多白金唱片認證（以1986年的《》）、在[音樂電視網](../Page/音樂電視網.md "wikilink")（MTV）上播[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、出現在《**》音樂節目和《*[滾石雜誌](../Page/滾石_\(雜誌\).md "wikilink")*》封面的嘻哈藝人。\[2\]Run-DMC也是唯一一個在美國[拯救生命舞台上演出的嘻哈藝人](https://zh.wikipedia.org/wiki/拯救生命 "wikilink")。

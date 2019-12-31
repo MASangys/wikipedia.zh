@@ -1,3 +1,6 @@
+> 本文内容由[我的未來是戀愛與課金 ～Charge To The Future～](https://zh.wikipedia.org/wiki/我的未來是戀愛與課金_～Charge_To_The_Future～)转换而来。
+
+
 是[CUFFS](../Page/CUFFS.md "wikilink")公司的旗下品牌Sonora在2019年2月22日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事

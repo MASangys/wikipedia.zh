@@ -1,3 +1,6 @@
+> 本文内容由[WeSPa椿山站](https://zh.wikipedia.org/wiki/WeSPa椿山站)转换而来。
+
+
 **WeSPa椿山站**（）位于[青森县](https://zh.wikipedia.org/wiki/青森县 "wikilink")[西津轻郡](https://zh.wikipedia.org/wiki/西津轻郡 "wikilink")[深浦町](../Page/深浦町.md "wikilink")大字舮作字锅石，是[东日本旅客铁道](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")（JR東日本）管辖的[五能线上的](https://zh.wikipedia.org/wiki/五能线 "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")\[1\]。
 
 ## 历史

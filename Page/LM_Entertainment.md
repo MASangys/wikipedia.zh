@@ -1,3 +1,6 @@
+> 本文内容由[LM Entertainment](https://zh.wikipedia.org/wiki/LM_Entertainment)转换而来。
+
+
 **LM娛樂**（，簡稱：；，簡稱：**LM**）\[1\] 是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在2018年，是[MMO Entertainment為了](../Page/MMO_Entertainment.md "wikilink")[尹智聖](../Page/尹智聖.md "wikilink")、[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")另外設立的經紀公司 \[2\] \[3\]
 
 ## 歷史沿革

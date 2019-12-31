@@ -1,3 +1,6 @@
+> 本文内容由[地球人LIVE](https://zh.wikipedia.org/wiki/地球人LIVE)转换而来。
+
+
 《**地球人LIVE**》（，），為韓國[Channel A電視台於](../Page/Channel_A.md "wikilink")2019年推出的綜藝節目\[1\]，由[安炫牟](../Page/安炫牟.md "wikilink")\[2\]、[李尚敏](../Page/李尚敏.md "wikilink")、[朴俊炯](../Page/朴俊炯.md "wikilink")、[HAHA](https://zh.wikipedia.org/wiki/HAHA "wikilink")、[金鍾旼](../Page/金鍾旼.md "wikilink")等人\[3\]共同主持，節目主軸為觀察世界各地视频创作者视角，進而观察世界各种话题和事件并展开谈话的新概念脱口秀\[4\]\[5\]。
 
 ## 各集內容

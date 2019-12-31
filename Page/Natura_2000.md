@@ -1,3 +1,6 @@
+> 本文内容由[Natura 2000](https://zh.wikipedia.org/wiki/Natura_2000)转换而来。
+
+
 **Natura 2000**，是[欧洲联盟](../Page/欧洲联盟.md "wikilink")提出并建立的自然[保护区](../Page/保护区.md "wikilink")网络。该保护区网络主要由“[特别保护区](https://zh.wikipedia.org/wiki/特别保护区 "wikilink")”（SACs）和“[特殊保护地](https://zh.wikipedia.org/wiki/特殊保护地 "wikilink")”（SPAs）两部分组成。其中“特别保护区”是《[栖息地指令](https://zh.wikipedia.org/wiki/栖息地指令 "wikilink")》中由成员国共同认定的保护区，而“特殊保护地”则是《[鸟类指令](https://zh.wikipedia.org/wiki/鸟类指令 "wikilink")》中被认定的保护地。\[1\]\[2\]\[3\]
 
 ## 历史

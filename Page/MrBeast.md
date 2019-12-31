@@ -1,3 +1,6 @@
+> 本文内容由[MrBeast](https://zh.wikipedia.org/wiki/MrBeast)转换而来。
+
+
 **吉米·唐纳森** （\[1\]，\[2\]），一般以網名稱為**MrBeast**，美国[YouTuber](../Page/YouTuber.md "wikilink")和[慈善家](../Page/博愛精神.md "wikilink") 。
 
 ## 事业

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Downtown Summerlin \(購物中心\)](https://zh.wikipedia.org/wiki/Draft:Downtown_Summerlin_\(購物中心\))转换而来。
+
+
 **Downtown Summerlin**（前身為**在桑默林市中心的商店**（{{lang-en|**The Shops at Summerlin Centre}}**）），或**DTS**购物中心，是一个戶外购物、用餐與娱乐的區域。 它是更大的**[Downtown Summerlin](https://zh.wikipedia.org/wiki/市中心萨姆林 "wikilink")**发展計畫中的一環，而計畫中包括了[桑默林的富裕社群](https://zh.wikipedia.org/wiki/桑默林 "wikilink")、[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")西邊郊區的社區。
 
 該购物中心提供了大约 的零售空间，和的商務區域。 其主要的兩个主力商戶分別是[Dillard's和](https://zh.wikipedia.org/wiki/迪拉德 "wikilink")[梅西百货](../Page/梅西百货.md "wikilink")。 總而言之，Downtown Summerlin是超过125家商店、酒吧與餐馆，以及一間Regal Cinemas电影院的集合體。

@@ -1,3 +1,6 @@
+> 本文内容由[Schöma](https://zh.wikipedia.org/wiki/Schöma)转换而来。
+
+
 **Christoph Schöttler Maschinenfabrik GmbH**，簡稱**SCHÖMA**，是一家位在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[迪普霍爾茨的](https://zh.wikipedia.org/wiki/迪普霍爾茨 "wikilink")[鐵道機車車輛](../Page/鐵道機車車輛.md "wikilink")製造商。
 
 ## 簡介

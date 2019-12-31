@@ -1,3 +1,6 @@
+> 本文内容由[葡萄牙ISCTE里斯本大學學院](https://zh.wikipedia.org/wiki/葡萄牙ISCTE里斯本大學學院)转换而来。
+
+
 ISCTE里斯本大學學院，[葡萄牙語全名](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")：ISCTE-Instituto Universitário de Lisboa；[英語官方全名](https://zh.wikipedia.org/wiki/英語 "wikilink")：ISCTE-University Institute of Lisbon；簡稱 ISCTE-IUL，是一所[葡萄牙](../Page/葡萄牙.md "wikilink")[公立大學](../Page/公立大學.md "wikilink")學院\[1\]，位於市中心[里斯本](../Page/里斯本.md "wikilink")，坐落於里斯本大學城。
 
 ## 歷史

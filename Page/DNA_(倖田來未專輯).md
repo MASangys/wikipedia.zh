@@ -1,3 +1,6 @@
+> 本文内容由[DNA \(倖田來未專輯\)](https://zh.wikipedia.org/wiki/DNA_\(倖田來未專輯\))转换而来。
+
+
 《**DNA**》為[日本](../Page/日本.md "wikilink")女歌手[倖田來未](../Page/倖田來未.md "wikilink")於2018年8月22日發行的第16張原創專輯。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[AI Challenge](https://zh.wikipedia.org/wiki/AI_Challenge)转换而来。
+
+
 **AI Challenge**是由加拿大滑铁卢大学计算机科学俱乐部发起的国际人工智能编程比赛 。
 
 最初只有滑铁卢大学的学生参加。在2010年，该比赛获得谷歌的赞助，使得它延伸到国际上的学生和公众。

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Adjacent stations](https://zh.wikipedia.org/wiki/模块:Adjacent_stations)转换而来。
+
+
 require('Module:No globals')
 
 local p = {}

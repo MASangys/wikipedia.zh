@@ -1,3 +1,6 @@
+> 本文内容由[Kali Linux NetHunter](https://zh.wikipedia.org/wiki/Kali_Linux_NetHunter)转换而来。
+
+
 Kali Linux NetHunter版是由[Debian](../Page/Debian.md "wikilink")派生出的[ARM架构](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，用于[数字取证和](https://zh.wikipedia.org/wiki/数字取证 "wikilink")[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")。该系统由Offensive Security有限公司负责维护和提供资金。Mati Aharoni、Devon Kearns和Raphaël Hertzog是核心开发者。
 
 ## 发展

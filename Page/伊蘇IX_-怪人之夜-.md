@@ -1,3 +1,6 @@
+> 本文内容由[伊蘇IX -怪人之夜-](https://zh.wikipedia.org/wiki/伊蘇IX_-怪人之夜-)转换而来。
+
+
 是[日本Falcom](../Page/日本Falcom.md "wikilink")出品[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")作品，為[伊蘇系列第九作](https://zh.wikipedia.org/wiki/伊蘇系列 "wikilink")，於2019年9月26日在[PlayStation 4上推出](../Page/PlayStation_4.md "wikilink")。繁體中文版與韓文版由雲豹娛樂代理發行，繁體中文版將於2020年2月6日發售\[1\]，韓文版則將隨後於2020年2月13日發售。\[2\]
 
 ## 故事

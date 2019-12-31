@@ -1,3 +1,6 @@
+> 本文内容由[LRP口糧](https://zh.wikipedia.org/wiki/LRP口糧)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Food_packet,_long_range_patrol_\(LRP\),_menu_6.tif "fig:右")、配件包、玉米[谷物棒](https://zh.wikipedia.org/wiki/穀麥 "wikilink")、、燕麦饼干\]\] **远程巡逻口粮**（），简称**LRP口粮**（音“Lurp”\[1\]），是[美国陆军](../Page/美国陆军.md "wikilink")的[冻干脱水式单兵](../Page/冷凍乾燥.md "wikilink")，于1964年[越南战争](../Page/越南战争.md "wikilink")期间研制，供小规模、重武装、深入敌后执行远距离侦察巡逻任务的[特種部隊](../Page/特種部隊.md "wikilink")使用，以其轻便易携弥补罐装食品[MCI口粮](../Page/MCI口粮.md "wikilink")庞大笨重不便长途行军的缺点。由于成本原因，LRP口粮的产量相对有限，现已被全新的单兵即食口粮[MRE口粮](../Page/MRE口粮.md "wikilink")所取代。少数LRP口粮的改良版本仍在生产，以满足士兵在特殊环境下的能量需求。
 
 ## 研发背景

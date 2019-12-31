@@ -1,3 +1,6 @@
+> 本文内容由[MBN水木連續劇](https://zh.wikipedia.org/wiki/MBN水木連續劇)转换而来。
+
+
 **MBN水木迷你連續劇**（），是逢星期三、四韓國晚間在[MBN電視台播映的電視劇](https://zh.wikipedia.org/wiki/MBN "wikilink")。
 
 ## 時間

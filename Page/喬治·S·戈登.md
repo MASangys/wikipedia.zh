@@ -1,3 +1,6 @@
+> 本文内容由[喬治·S·戈登](https://zh.wikipedia.org/wiki/喬治·S·戈登)转换而来。
+
+
 **喬治·S·戈登**（，）是[英國文學學者](https://zh.wikipedia.org/wiki/英國 "wikilink")、大學教授，曾於[利茲大學和](https://zh.wikipedia.org/wiki/利茲大學 "wikilink")[牛津大學任教](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")，亦曾擔任\[1\]。
 
 ## 生平

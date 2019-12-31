@@ -1,3 +1,6 @@
+> 本文内容由[Muse on Music](https://zh.wikipedia.org/wiki/Muse_on_Music)转换而来。
+
+
 《**Muse on Music**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第一張樂器伴奏專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2018年9月10日发布。这张专辑包含33首曲目，收录于来自之前的8张专辑。Lovelyz是[K-pop中首次发行樂器伴奏專輯的女子团体](../Page/韓國流行音樂.md "wikilink")。\[1\]\[2\]
 
 ## 背景及回歸日程

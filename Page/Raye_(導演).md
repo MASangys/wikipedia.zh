@@ -1,3 +1,6 @@
+> 本文内容由[Raye \(導演\)](https://zh.wikipedia.org/wiki/Raye_\(導演\))转换而来。
+
+
 **Raye**（）是[台灣紀錄片導演](https://zh.wikipedia.org/wiki/台灣 "wikilink")，代表作為《[十二夜](../Page/十二夜_\(臺灣電影\).md "wikilink")》\[1\]。
 
 ## 生平

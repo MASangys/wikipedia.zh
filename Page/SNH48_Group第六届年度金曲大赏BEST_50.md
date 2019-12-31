@@ -1,3 +1,6 @@
+> 本文内容由[SNH48 Group第六届年度金曲大赏BEST 50](https://zh.wikipedia.org/wiki/SNH48_Group第六届年度金曲大赏BEST_50)转换而来。
+
+
 **SNH48 Group第五届年度金曲大赏BEST 50**是中国女子组合[SNH48](../Page/SNH48.md "wikilink")及其姐妹团体于2019年12月21日在[广州体育馆](../Page/广州体育馆.md "wikilink")举办的演唱会。
 
 ## 概述

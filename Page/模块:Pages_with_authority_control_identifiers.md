@@ -1,3 +1,6 @@
+> 本文内容由[模块:Pages with authority control identifiers](https://zh.wikipedia.org/wiki/模块:Pages_with_authority_control_identifiers)转换而来。
+
+
 require('Module:No globals')
 
 local p = {} local ac_conf = require('Module:Authority control').conf local currentTitle = mw.title.getCurrentTitle() local title = currentTitle.text local isCat = (currentTitle.namespace == 14)

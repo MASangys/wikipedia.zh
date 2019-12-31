@@ -1,3 +1,6 @@
+> 本文内容由[Bilibili拜年祭](https://zh.wikipedia.org/wiki/Bilibili拜年祭)转换而来。
+
+
 **bilibili拜年祭**，简称**拜年祭**、**B站春晚**\[1\]\[2\]，是由[哔哩哔哩主办](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")，由哔哩哔哩[UP主以及bilibili视频部等创作分段视频](https://zh.wikipedia.org/wiki/UP主 "wikilink")，以共贺[春节到来的一部贺岁向网络视频节目](https://zh.wikipedia.org/wiki/春节 "wikilink")，是中国较受年轻人关注的晚会之一\[3\]。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[SAHARA〜feat. 稻葉浩志](https://zh.wikipedia.org/wiki/SAHARA〜feat._稻葉浩志)转换而来。
+
+
 「**SAHARA～feat. 稻葉浩志**」（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[Slash在](https://zh.wikipedia.org/wiki/Slash "wikilink")[2009年](../Page/2009年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")發行的單曲\[1\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[NRJ音乐奖](https://zh.wikipedia.org/wiki/NRJ音乐奖)转换而来。
+
+
 **NRJ音乐奖**（），是[法国音乐电台NRJ举办的一个音乐奖](https://zh.wikipedia.org/wiki/法国 "wikilink")。奖项于2000年创立\[1\]，每年举办。并与[TF1电视台合作转播](../Page/法國電視一台.md "wikilink")。
 
 ## 奖项设置

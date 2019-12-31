@@ -1,3 +1,6 @@
+> 本文内容由[R1SE](https://zh.wikipedia.org/wiki/R1SE)转换而来。
+
+
 **R1SE**，是依据[腾讯视频](../Page/腾讯视频.md "wikilink")偶像男团竞演养成类真人秀《[创造营2019](https://zh.wikipedia.org/wiki/创造营2019 "wikilink")》的出道承诺，于2019年成立的中国十一人男子[期间限定团体](https://zh.wikipedia.org/wiki/期间限定团体 "wikilink")，成员包括：[周震南](../Page/周震南.md "wikilink")、[何洛洛](../Page/何洛洛.md "wikilink")、[焉栩嘉](https://zh.wikipedia.org/wiki/焉栩嘉 "wikilink")、[夏之光](../Page/夏之光.md "wikilink")、[姚琛](../Page/姚琛.md "wikilink")、[翟潇闻](../Page/翟潇闻.md "wikilink")、[張顏齐](https://zh.wikipedia.org/wiki/張顏齐 "wikilink")、[刘也](https://zh.wikipedia.org/wiki/刘也 "wikilink")、[任豪](../Page/任豪.md "wikilink")、[赵磊](https://zh.wikipedia.org/wiki/赵磊_\(艺人\) "wikilink")、[赵让](https://zh.wikipedia.org/wiki/赵让_\(艺人\) "wikilink")，成员周震南于最终票获取第1名，成为R1SE团体中的C位(Center)及队长。R1SE于2019年6月8日正式出道，进行为期两年的限定男团活动\[1\]。
 
 ## 團隊資料

@@ -1,3 +1,6 @@
+> 本文内容由[美食獵人 \& ONE PIECE 合作特別篇](https://zh.wikipedia.org/wiki/美食獵人_\&_ONE_PIECE_合作特別篇)转换而来。
+
+
 《**美食獵人 & ONE PIECE 合作特別篇！！**》（）是分別於2011年4月3日和2012年4月9日於[富士電視台](../Page/富士電視台.md "wikilink")播放的動畫作品。本作是《[美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")》和《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》兩部作品的[合作特別篇](https://zh.wikipedia.org/wiki/合作 "wikilink")。
 
 最初是《[ONE PIECE 3D 追逐草帽大冒險](../Page/ONE_PIECE_3D_追逐草帽大冒險.md "wikilink")》上映時，同步上映《美食獵人TORIKO 3D 開幕！美食大冒險！！》，同時因《美食獵人》動畫化，因此於《美食獵人》第1話和《ONE PIECE》第492話進行合作特別篇，隔年《美食獵人》第51話和《ONE PIECE》第542話再次在進行合作特別篇。

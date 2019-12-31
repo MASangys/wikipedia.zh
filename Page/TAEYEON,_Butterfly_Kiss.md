@@ -1,3 +1,6 @@
+> 本文内容由[TAEYEON, Butterfly Kiss](https://zh.wikipedia.org/wiki/TAEYEON,_Butterfly_Kiss)转换而来。
+
+
 **《TAEYEON, Butterfly Kiss》**是韓國女子組合[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍個人首場演唱會](https://zh.wikipedia.org/wiki/金太妍 "wikilink")。
 
 ## 概要

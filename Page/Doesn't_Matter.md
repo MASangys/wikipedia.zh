@@ -1,3 +1,6 @@
+> 本文内容由[Doesn\'t Matter](https://zh.wikipedia.org/wiki/Doesn\'t_Matter)转换而来。
+
+
 《**<big>Doesn't Matter</big>**》是[台灣歌手](https://zh.wikipedia.org/wiki/台灣歌手 "wikilink")[嚴爵](../Page/嚴爵.md "wikilink")第七張專輯，睽違兩年的第七張專輯，於2017年8月28日發行，但僅有數位，沒有實體有七首歌曲。
 
 這張是嚴爵與他的團隊爵隊一起完成，這張是偏向爵士類的歌曲居多，是嚴爵想做一張屬於自己喜歡的音樂，不走流行的歌曲。

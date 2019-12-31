@@ -1,3 +1,6 @@
+> 本文内容由[INAP](https://zh.wikipedia.org/wiki/INAP)转换而来。
+
+
 **INAP**可以代表**智能网应用协议（Intelligent Network Application Protocol）**或**智能网应用部分（Intelligent Network Application Part）**。它是[智能网](../Page/智能网.md "wikilink")中所使用的信令协议\[1\]，属于[七号信令系统](../Page/七号信令系统.md "wikilink")（SS7）协议系列的一部分，通常位于“事务能力应用部分”（Transaction Capabilities Application Part，简称TCAP）层之上。该术语也可以被视为用于控制那些从传统交换点（switch point）迁移到基于计算机的业务独立的平台上的电信业务的逻辑。
 
 ## 应用

@@ -1,3 +1,6 @@
+> 本文内容由[Mint.com](https://zh.wikipedia.org/wiki/Mint.com)转换而来。
+
+
 **Mint.com**是一个[基于网络的](../Page/网络应用程序.md "wikilink")[个人理财](../Page/个人理财.md "wikilink")服务，面向美国和加拿大用户，由创建。\[1\]该网站最初通过提供，但后来转而使用[Intuit](../Page/Intuit.md "wikilink")连接账户。\[2\]网站可以帮助用户通过一个[页面追踪](https://zh.wikipedia.org/wiki/页面 "wikilink")[银行](https://zh.wikipedia.org/wiki/银行 "wikilink")、[信用卡](../Page/信用卡.md "wikilink")、[投资](../Page/投资.md "wikilink")、[贷款余额和交易](https://zh.wikipedia.org/wiki/贷款 "wikilink")，以及创建预算和设定财务目标。\[3\]2009年，Intuit收购了这家网站。\[4\]
 
 截至2010年，该网站称已经接入了超过16,000家位于美国和加拿大的金融机构，并为超过1,700万个个人金融账户提供服务支持。\[5\]2013年11月，Mint.com用户数超过1000万。\[6\]2016年，Mint.com声称其已拥有超过2000万用户。\[7\]

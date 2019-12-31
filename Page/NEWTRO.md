@@ -1,3 +1,6 @@
+> 本文内容由[NEWTRO](https://zh.wikipedia.org/wiki/NEWTRO)转换而来。
+
+
 《**NEWTRO**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[DIA的第五張](https://zh.wikipedia.org/wiki/DIA_\(韓國音樂團體\) "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。此專輯由[LOEN娛樂在](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2019年3月19日發行，主打歌為**우와(WOOWA)**。
 
 ## 背景

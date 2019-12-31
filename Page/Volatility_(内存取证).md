@@ -1,3 +1,6 @@
+> 本文内容由[Volatility \(内存取证\)](https://zh.wikipedia.org/wiki/Volatility_\(内存取证\))转换而来。
+
+
 **Volatility**是一个用于[事件响应和](https://zh.wikipedia.org/wiki/事件响应 "wikilink")[恶意软件](../Page/恶意软件.md "wikilink")分析的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[内存取证框架](https://zh.wikipedia.org/wiki/内存取证 "wikilink")。它是用[Python](../Page/Python.md "wikilink")编写的，支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Linux](../Page/Linux.md "wikilink")（从版本2.5\[1\]开始）。
 
 Volatility是由[计算机科学家和](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[企业家](../Page/企业家.md "wikilink")Aaron Walters创建，借鉴了他在[内存取证方面所做的学术研究](https://zh.wikipedia.org/wiki/内存取证 "wikilink")。\[2\]\[3\]

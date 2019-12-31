@@ -1,3 +1,6 @@
+> 本文内容由[LOT波蘭航空航點](https://zh.wikipedia.org/wiki/LOT波蘭航空航點)转换而来。
+
+
 **以下是[LOT波蘭航空的飛航目的地](https://zh.wikipedia.org/wiki/LOT波蘭航空 "wikilink")：**
 
 |                                    |                                                       |    |       |      |    |

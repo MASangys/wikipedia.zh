@@ -1,3 +1,6 @@
+> 本文内容由[Radian Weapons](https://zh.wikipedia.org/wiki/Radian_Weapons)转换而来。
+
+
 Radian Weapons是美國一家原位於[奧勒岡州](../Page/俄勒冈州.md "wikilink")[撒冷](../Page/塞勒姆_\(俄勒冈州\).md "wikilink")，現遷於雷德蒙的輕兵器及配件生產商。原名為AXTS Weapons Systems，於2016年11月7日改為現名\[1\]。該公司主要生產[AR-10](https://zh.wikipedia.org/wiki/AR-10 "wikilink")/[15系列的雙邊操作配件](https://zh.wikipedia.org/wiki/AR-15 "wikilink")。\[2\]
 
 ## 歷史及展望

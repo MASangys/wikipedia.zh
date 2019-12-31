@@ -1,3 +1,6 @@
+> 本文内容由[女神異聞錄Persona與女神異聞錄2系列角色列表](https://zh.wikipedia.org/wiki/女神異聞錄Persona與女神異聞錄2系列角色列表)转换而来。
+
+
 **女神異聞錄Persona與女神異聞錄2系列角色列表**展示於日本Atlus 發售的角色扮演遊戲系列作品《[女神異聞錄Persona](https://zh.wikipedia.org/wiki/女神異聞錄Persona "wikilink")》（Shin Megami Tensei: Persona，簡稱「P1」）、《[女神異聞錄2 罪](../Page/女神異聞錄2.md "wikilink")》（Shin Megami Tensei: Persona 2：Innocent Sin，簡稱「P2IS」）和《[女神異聞錄2 罰](../Page/女神異聞錄2.md "wikilink")》（Shin Megami Tensei: Persona 2：Eternal Punishment，簡稱「P2EP」）或相關系列作品的各個角色。
 
 ## 御影町

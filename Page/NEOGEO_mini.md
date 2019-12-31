@@ -1,3 +1,6 @@
+> 本文内容由[NEOGEO mini](https://zh.wikipedia.org/wiki/NEOGEO_mini)转换而来。
+
+
 **NEOGEO mini** (ネオジオ ミニ)為[SNK](../Page/SNK.md "wikilink")於[2018年](../Page/2018年.md "wikilink")[7月24日發售的](https://zh.wikipedia.org/wiki/7月24日 "wikilink")[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。\[1\]
 
 ## 概要

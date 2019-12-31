@@ -1,3 +1,6 @@
+> 本文内容由[Genie:us](https://zh.wikipedia.org/wiki/Genie:us)转换而来。
+
+
 《**Genie:us**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[PENTAGON第八張迷你專輯](../Page/Pentagon_\(男子組合\).md "wikilink")，於2019年3月27日推出，主打歌曲為〈SHA LA LA〉。
 
 ## 簡介

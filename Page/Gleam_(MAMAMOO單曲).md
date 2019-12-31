@@ -1,3 +1,6 @@
+> 本文内容由[Gleam \(MAMAMOO單曲\)](https://zh.wikipedia.org/wiki/Gleam_\(MAMAMOO單曲\))转换而来。
+
+
 *' Gleam*'（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[MAMAMOO的第十二張韓語單曲](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")，由[Stone Music Entertainment及](../Page/Mnet媒體.md "wikilink")、[Genie音樂](../Page/Genie音樂.md "wikilink")於2019年7月24日發行。\[1\]此單曲亦為韓國廣告歌曲，為[合成器流行](../Page/合成器流行.md "wikilink")曲風的歌曲，整首歌節奏感鮮明的合成器音效和豐富的編曲手法。\[2\]
 
 ## 曲目

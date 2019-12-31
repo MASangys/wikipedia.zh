@@ -1,3 +1,6 @@
+> 本文内容由[Won\'t Go Home Without You](https://zh.wikipedia.org/wiki/Won\'t_Go_Home_Without_You)转换而来。
+
+
 "**Won't Go Home Without You**" 是一個[民謠](https://zh.wikipedia.org/wiki/民謠 "wikilink")，收錄於[魔力紅](../Page/魔力紅.md "wikilink")的第二章專輯 *[著魔嗎·久等了](../Page/著魔嗎·久等了.md "wikilink")*的第三首[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")(2007)。
 
 ## 音樂視頻

@@ -1,3 +1,6 @@
+> 本文内容由[Amefurasshi](https://zh.wikipedia.org/wiki/Amefurasshi)转换而来。
+
+
 **Amefurasshi**（[日语](../Page/日语.md "wikilink")：アメフラっシ）是隶属于[星尘传播的由四名成员组成的女子偶像组合](../Page/星塵傳播.md "wikilink")。与[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")等星塵传播旗下组合共同组成[STARDUST PLANET](https://zh.wikipedia.org/wiki/星塵傳播#STARDUST_PLANET "wikilink")\[1\]。
 
 ## 概要

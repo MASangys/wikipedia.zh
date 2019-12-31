@@ -1,3 +1,6 @@
+> 本文内容由[ComicWalker](https://zh.wikipedia.org/wiki/ComicWalker)转换而来。
+
+
 **ComicWalker**（）是由[KADOKAWA](../Page/KADOKAWA.md "wikilink")運營的[網路漫畫瀏覽服務](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")，服務開始於2014年3月22日。
 
 標榜「ComicWalker是可以免費閱讀KADOKAWA漫畫作品的線上漫畫服務」和「每日更新300件以上的漫畫作品」。

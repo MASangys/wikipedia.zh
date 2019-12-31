@@ -1,3 +1,6 @@
+> 本文内容由[United Cube - ONE \(單曲\)](https://zh.wikipedia.org/wiki/United_Cube_-_ONE_\(單曲\))转换而来。
+
+
 《**United Cube－ONE**》是[Cube娛樂](../Page/Cube娛樂.md "wikilink")於2018年推出的數位單曲企劃，於2018年6月17日正式發行，主打歌曲為《Upgrade》。\[1\]
 
 ## 曲目

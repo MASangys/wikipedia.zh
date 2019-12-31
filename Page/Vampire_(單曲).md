@@ -1,3 +1,6 @@
+> 本文内容由[Vampire \(單曲\)](https://zh.wikipedia.org/wiki/Vampire_\(單曲\))转换而来。
+
+
 《**Vampire**》是女子組合[IZ\*ONE](../Page/IZ*ONE.md "wikilink")于日本的第3张[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2019年9月25日由[EMI Records Japan發行](../Page/EMI音樂日本.md "wikilink")。
 
 ## 概要

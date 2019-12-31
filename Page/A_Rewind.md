@@ -1,3 +1,6 @@
+> 本文内容由[A Rewind](https://zh.wikipedia.org/wiki/A_Rewind)转换而来。
+
+
 《**Rewind**》（），為韓國[Channel A電視台於](../Page/Channel_A.md "wikilink")2019年推出的綜藝節目\[1\]，由[金成柱擔任MC](https://zh.wikipedia.org/wiki/金聖柱_\(主持人\) "wikilink")，[朴明洙](../Page/朴明洙.md "wikilink")、[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")、[Haha](../Page/Haha.md "wikilink")、、、[梁世燦](../Page/梁世燦.md "wikilink")、[朴經](../Page/朴經.md "wikilink")、、[李真率共同出演](https://zh.wikipedia.org/wiki/李真率 "wikilink")。\[2\]
 節目主軸為出演者每期都回去過往某特定的年份進行時間旅行，並根據當時的經濟、社會、文化等面向等相關問題，各自為未來進行投資\[3\]\[4\]。
 

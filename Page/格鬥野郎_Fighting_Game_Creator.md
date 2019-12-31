@@ -1,3 +1,6 @@
+> 本文内容由[格鬥野郎 Fighting Game Creator](https://zh.wikipedia.org/wiki/格鬥野郎_Fighting_Game_Creator)转换而来。
+
+
 ，是一款2000年2月17日販售的[日本](../Page/日本.md "wikilink")[PlayStation用](../Page/PlayStation_\(遊戲機\).md "wikilink")2D[對戰格鬥類型電玩遊戲](../Page/格鬥遊戲.md "wikilink")，、OUTBACK、D·A·S·T共同開發，發行由INCREMENT P負責。
 
 2010年1月27日由（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")／[PlayStation 3](../Page/PlayStation_3.md "wikilink")）發佈。

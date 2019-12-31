@@ -1,3 +1,6 @@
+> 本文内容由[Pokimane](https://zh.wikipedia.org/wiki/Pokimane)转换而来。
+
+
 **伊瑪妮·安尼斯**（Imane Anys\[1\]，），較廣為人知的是化名**Pokimane**，加拿大[Twitch](https://zh.wikipedia.org/wiki/Twitch_\(網站\) "wikilink")[實況主與](../Page/網路直播.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")，主要因其在Twitch上的遊戲直播而知名，且多為《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》和《[堡垒之夜 大逃杀](../Page/堡垒之夜_大逃杀.md "wikilink")》。
 
 ## 早年生活

@@ -1,3 +1,6 @@
+> 本文内容由[Pixiv股份有限公司](https://zh.wikipedia.org/wiki/Pixiv股份有限公司)转换而来。
+
+
 **Pixiv股份有限公司**（），这是一家总部位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[涩谷区的网络股份有限公司公司](https://zh.wikipedia.org/wiki/涩谷区 "wikilink")。管理着网站“[pixiv](https://zh.wikipedia.org/wiki/pixiv "wikilink")”，提供插图通信服务和其他相关服务。此外，它还是[安利美特](../Page/安利美特.md "wikilink")集团的公司。
 
 ## 历史

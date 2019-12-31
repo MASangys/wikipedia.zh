@@ -1,3 +1,6 @@
+> 本文内容由[模块:CGroupViewer2](https://zh.wikipedia.org/wiki/模块:CGroupViewer2)转换而来。
+
+
 local z = {} local error = require( 'Module:Error' )
 
 function conversion(frame, args)

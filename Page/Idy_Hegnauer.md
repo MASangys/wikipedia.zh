@@ -1,3 +1,6 @@
+> 本文内容由[Idy Hegnauer](https://zh.wikipedia.org/wiki/Idy_Hegnauer)转换而来。
+
+
 **Idy Hegnauer** （）\[1\]是[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[護士和和平運動家](https://zh.wikipedia.org/wiki/護士 "wikilink")，曾为國際服務局工作。
 
 ## 個人生活

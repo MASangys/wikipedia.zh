@@ -1,3 +1,6 @@
+> 本文内容由[MAPATS反坦克導彈](https://zh.wikipedia.org/wiki/MAPATS反坦克導彈)转换而来。
+
+
 **MAPATS**（的[縮寫](../Page/縮寫.md "wikilink")，意為：；亦是[希伯来语](../Page/希伯来语.md "wikilink")中的「[爆炸](https://zh.wikipedia.org/wiki/爆炸 "wikilink")」一詞）是一款由[以色列](../Page/以色列.md "wikilink")[軍事工業公司擬用作以取代在](../Page/以色列軍事工業.md "wikilink")[以色列國防軍](../Page/以色列國防軍.md "wikilink")中的[美製](../Page/美国.md "wikilink")[BGM-71拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")的潛在替換型號而研製的[激光](../Page/激光.md "wikilink")[導引光束乘波式](https://zh.wikipedia.org/wiki/乘波導引 "wikilink")\[1\][反坦克导弹](../Page/反坦克导弹.md "wikilink")系統。
 
 ## 概述

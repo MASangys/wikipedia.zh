@@ -1,3 +1,6 @@
+> 本文内容由[ASTIN](https://zh.wikipedia.org/wiki/ASTIN)转换而来。
+
+
 **ASTIN**（韓語：**아스틴**），是[韓國King](https://zh.wikipedia.org/wiki/韓國 "wikilink") Top娛樂於2019年，透過《ASTIN Debut Album Project》進行網上籌集經費，在'全民皆能造星'下所推出的七人男子組合\[1\]，原成員包括Jingyu、Seungjun、Hongil、Junghun、Yeram、Mir及Hyeongseok，2019年8月，Jingyu及Mir因個人原因退出團體，後加入男團[AWEEK](../Page/AWEEK.md "wikilink")。團體現改以五人體制繼續進行活動。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[VOCAROCK collection 3 feat.初音未来](https://zh.wikipedia.org/wiki/VOCAROCK_collection_3_feat.初音未来)转换而来。
+
+
 **《VOCAROCK collection 3 feat. 初音未来》**（日语：VOCAROCK collection 3 feat. 初音ミク，ボカロック　コレクション　スリー　フィーチャリング・はつねミク）是[2011年](../Page/2011年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")，由发行的、使用[初音未来等的](../Page/初音未來.md "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")声音的[摇滚曲](../Page/摇滚乐.md "wikilink")[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。
 
 ## 概要

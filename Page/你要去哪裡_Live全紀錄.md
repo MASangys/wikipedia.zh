@@ -1,3 +1,6 @@
+> 本文内容由[你要去哪裡 Live全紀錄](https://zh.wikipedia.org/wiki/你要去哪裡_Live全紀錄)转换而来。
+
+
 《**你要去哪裡 台灣巡迴演唱會Live全紀錄**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第三張現場專輯，是收錄他們於2001年8月18、25日、9月1、10日分別在臺北、高雄、彰化及新加坡舉行的「你要去哪裡」巡迴演唱會，2001年12月25日正式發行。
 
 ## 曲目

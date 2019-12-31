@@ -1,3 +1,6 @@
+> 本文内容由[Spacetoon](https://zh.wikipedia.org/wiki/Spacetoon)转换而来。
+
+
 **Spacetoon**（或）是一個[阿拉伯語](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，專門播出[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童 "wikilink")。成立於2000年3月\[1\]。
 
 pacetoon公司在阿拉伯世界除了主要的現有Spacetoon頻道外還有三個現已解散的頻道：Space Power TV、Spacetoon Radio和Spacetoon English。

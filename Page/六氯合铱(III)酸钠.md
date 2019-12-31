@@ -1,3 +1,6 @@
+> 本文内容由[六氯合铱\(III\)酸钠](https://zh.wikipedia.org/wiki/六氯合铱\(III\)酸钠)转换而来。
+
+
 **六氯合铱(III)酸钠**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为Na<sub>3</sub>\[IrCl<sub>6</sub>\]，它是暗绿色晶体，易溶于水，可以形成水合物。
 
 ## 制备

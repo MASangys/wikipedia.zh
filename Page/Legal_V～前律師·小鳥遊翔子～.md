@@ -1,3 +1,6 @@
+> 本文内容由[Legal V～前律師·小鳥遊翔子～](https://zh.wikipedia.org/wiki/Legal_V～前律師·小鳥遊翔子～)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")[系列自](https://zh.wikipedia.org/wiki/朝日電視網 "wikilink")2018年10月11日起播出的[週四晚間九點檔](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")\[1\]\[2\]。由[米倉涼子主演](https://zh.wikipedia.org/wiki/米倉涼子 "wikilink")。劇情描述一個被剝奪資格的前女律師，邀請其他律師和助理一同組成新的律師事務所，處理委託人的各種情況，並對抗大型律師事務所的故事。
 
 ## 簡介

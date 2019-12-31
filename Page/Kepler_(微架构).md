@@ -1,3 +1,6 @@
+> 本文内容由[Kepler \(微架构\)](https://zh.wikipedia.org/wiki/Kepler_\(微架构\))转换而来。
+
+
 **Kepler**（开普勒）是[英伟达](../Page/英伟达.md "wikilink")在2012年4月发布的[圖形處理器](../Page/圖形處理器.md "wikilink")[微架构的代号](https://zh.wikipedia.org/wiki/微架构 "wikilink")\[1\]，是[Fermi架构的继承者](https://zh.wikipedia.org/wiki/Fermi_\(微架构\) "wikilink")。Kepler是英伟达第一款专注于节能的微架构。大多数[GeForce 600 系列](../Page/NVIDIA_GeForce_600.md "wikilink")、[GeForce 700 系列和部分](../Page/NVIDIA_GeForce_700.md "wikilink")[GeForce 800 系列显卡基于Kepler架构](../Page/NVIDIA_GeForce_800.md "wikilink")，均使用28纳米制程。Kepler架构也应用于[Tegra K1](../Page/图睿.md "wikilink") [SOC上的图形处理器GK](https://zh.wikipedia.org/wiki/SOC "wikilink")20A以及[NVIDIA Quadro](../Page/NVIDIA_Quadro.md "wikilink") Kxxxx系列显卡、Quadro NVS 510显卡和[NVIDIA Tesla计算卡](../Page/NVIDIA_Tesla.md "wikilink")。Kepler的后继者为[Maxwell](https://zh.wikipedia.org/wiki/Maxwell_\(微架构\) "wikilink")，并且和Maxwell架构一并用于[GeForce 700 系列和](../Page/NVIDIA_GeForce_700.md "wikilink")[GeForce 800 系列显卡](../Page/NVIDIA_GeForce_800.md "wikilink")。
 
 Kepler架构的命名来自17世纪[科学革命](../Page/科学革命.md "wikilink")使其的著名德国数学家[约翰内斯·开普勒](../Page/约翰内斯·开普勒.md "wikilink")（Johannes Kepler）。

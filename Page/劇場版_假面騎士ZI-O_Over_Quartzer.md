@@ -1,3 +1,6 @@
+> 本文内容由[劇場版 假面騎士ZI-O Over Quartzer](https://zh.wikipedia.org/wiki/劇場版_假面騎士ZI-O_Over_Quartzer)转换而来。
+
+
 《**劇場版 假面騎士ZI-O Over Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本於2019年7月26日上映，香港於2019年11月28日上映，台灣於2019年12月13日上映中日雙語版本。
 
 此外日本當地同步上映《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》劇場版《[騎士龍戰隊龍裝者 THE MOVIE 時空穿梭！恐龍大恐慌\!\!](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者_THE_MOVIE_時空穿梭！恐龍大恐慌!! "wikilink")》。香港和台灣同步上映《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》劇場版《[快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》。

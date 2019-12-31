@@ -1,3 +1,6 @@
+> 本文内容由[乘Bus的Busking](https://zh.wikipedia.org/wiki/乘Bus的Busking)转换而来。
+
+
 《*' 乘Bus的Busking*'》（，）為[韓國GMTV於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年推出的音樂綜藝節目，由 [孔燦](../Page/孔燦.md "wikilink")\[1\]、[柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")、[Kino等人共同主持](https://zh.wikipedia.org/wiki/Kino "wikilink")，節目主軸為通過街頭表演者的舞台，讓大眾心靈可暫時得到放鬆的治癒系節目\[2\]。
 
 ## 各集內容

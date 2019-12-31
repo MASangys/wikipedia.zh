@@ -1,3 +1,6 @@
+> 本文内容由[E-Hentai](https://zh.wikipedia.org/wiki/E-Hentai)转换而来。
+
+
 **E-Hentai**，又稱**E站**、**E紳士**、**熊貓網**，是一個非營利性質的網路圖片分享網站，其網站的主要內容為對[日本動漫以及](../Page/動漫.md "wikilink")[電子遊戲等](../Page/电子游戏.md "wikilink")[插畫](../Page/插畫.md "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[同人誌](../Page/同人誌.md "wikilink")等內容中擷取的電子圖片，但收錄內容偏向於色情成人內容，\[1\] 此網站除公開可以任意訪客使用的該站點外，還擁有一個被限制存取的隱藏站點**Exhentai**。
 
 2019年6月，該網站的全球訪問量排名第264-{位}-，總訪問量超過4010萬。\[2\]

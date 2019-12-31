@@ -1,3 +1,6 @@
+> 本文内容由[乃木坂46 5th YEAR BIRTHDAY LIVE 2017.2.20-22 SAITAMA SUPER ARENA](https://zh.wikipedia.org/wiki/乃木坂46_5th_YEAR_BIRTHDAY_LIVE_2017.2.20-22_SAITAMA_SUPER_ARENA)转换而来。
+
+
 《**乃木坂46 5th YEAR BIRTHDAY LIVE 2017.2.20-22 SAITAMA SUPER ARENA**》是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[乃木坂46在](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")2017年2月20日至22日於日本[埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的五週年紀念公演，於2018年3月28日以DVD和Blu-ray形式發售。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[DEL48](https://zh.wikipedia.org/wiki/DEL48)转换而来。
+
+
 **DEL48**為以[印度](../Page/印度.md "wikilink")[德里](../Page/德里.md "wikilink")為活動據點的女子偶像團體，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的海外姐妹團\[1\]。預定于2019年年底出道。
 
 ## 簡介

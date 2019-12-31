@@ -1,3 +1,6 @@
+> 本文内容由[Draft:FTP](https://zh.wikipedia.org/wiki/Draft:FTP)转换而来。
+
+
 **[FTP](../Page/文件传输协议.md "wikilink")**, 文件傳輸協議，是一種標準的網絡協議。｛the File Transfer Protocol｝
 
 **FTP**可以是指：

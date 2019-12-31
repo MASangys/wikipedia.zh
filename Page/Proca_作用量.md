@@ -1,3 +1,6 @@
+> 本文内容由[Proca 作用量](https://zh.wikipedia.org/wiki/Proca_作用量)转换而来。
+
+
 在[物理学](../Page/物理学.md "wikilink")中 ，特别是在[场论和](../Page/场_\(物理\).md "wikilink")[粒子物理学中](../Page/粒子物理學.md "wikilink") ， **Proca作用量**描述了[Minkowski时空中质量为](../Page/閔考斯基時空.md "wikilink")*m*且有[质量](../Page/质量.md "wikilink") [自旋](../Page/自旋.md "wikilink") 均为1 的[量子场论](../Page/量子场论.md "wikilink") 。相应的方程是一个称为**Proca方程**的[相对论性波动方程](https://zh.wikipedia.org/wiki/相对论波动方程 "wikilink") 。 \[1\] Proca作用量和方程以罗马尼亚物理学家命名。
 
 该Proca方程可以具体到 [标准模型](../Page/标准模型.md "wikilink") ，并描述了那里的三个 ，即Z和W色子。

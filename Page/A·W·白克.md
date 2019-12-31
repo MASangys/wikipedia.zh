@@ -1,3 +1,6 @@
+> 本文内容由[A·W·白克](https://zh.wikipedia.org/wiki/A·W·白克)转换而来。
+
+
 **艾伯特·「伯蒂」·威廉·白克**，[OBE](https://zh.wikipedia.org/wiki/英帝國官佐勳章 "wikilink")<small></small>（，），[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人](../Page/商人.md "wikilink")和業餘[騎師](../Page/騎師.md "wikilink")，與胞弟[C·R·白克](../Page/C·R·白克.md "wikilink")同為[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[祥茂洋行](../Page/祥茂洋行.md "wikilink")合夥人。
 
 白克生於[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，父親[A·R·白克](../Page/A·R·白克.md "wikilink")是祥茂創辦人之一。早年他被送到英國接受教育，1892年返回上海加入祥茂，並與胞弟一同於1897年接替退休的父親成為祥茂合夥人。祥茂除了從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，同時包攬[地產和一般](https://zh.wikipedia.org/wiki/地產 "wikilink")[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")，到白克兄弟接手後還開展[英屬馬來亞](../Page/英屬馬來亞.md "wikilink")的[橡膠](../Page/橡膠.md "wikilink")和地產事業。此外，透過[英法產業有限公司](https://zh.wikipedia.org/wiki/英法產業有限公司 "wikilink")，祥茂在[上海租界](../Page/上海租界.md "wikilink")，特別是[上海法租界](../Page/上海法租界.md "wikilink")，也擁有大批地產。

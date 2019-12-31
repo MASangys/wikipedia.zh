@@ -1,3 +1,6 @@
+> 本文内容由[Tom-H@ck](https://zh.wikipedia.org/wiki/Tom-H@ck)转换而来。
+
+
 **Tom-H@ck**（）是[日本](../Page/日本.md "wikilink")的[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[編曲家](https://zh.wikipedia.org/wiki/編曲家 "wikilink")。TaWaRa公司的[代表董事](../Page/代表董事.md "wikilink")\[1\]。
 
 出生於[宮城縣](../Page/宮城縣.md "wikilink")[石卷市](https://zh.wikipedia.org/wiki/石卷市 "wikilink")，本名為大嶋文博（おおしま ともひろ）。

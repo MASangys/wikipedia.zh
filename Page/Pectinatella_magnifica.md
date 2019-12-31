@@ -1,3 +1,6 @@
+> 本文内容由[Pectinatella magnifica](https://zh.wikipedia.org/wiki/Pectinatella_magnifica)转换而来。
+
+
 ***Pectinatella magnifica***是[苔藓動物門](https://zh.wikipedia.org/wiki/苔藓動物門 "wikilink")（外肛動物門）的一種動物，原產於[北美洲](../Page/北美洲.md "wikilink")東部的淡水中，現已擴散至北美洲西部與歐洲、亞洲等地。
 
 ## 型態

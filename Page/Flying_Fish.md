@@ -1,3 +1,6 @@
+> 本文内容由[Flying Fish](https://zh.wikipedia.org/wiki/Flying_Fish)转换而来。
+
+
 《**Flying Fish**》是日本音樂團體[FANTASTICS from EXILE TRIBE的第二張單曲](../Page/FANTASTICS_from_EXILE_TRIBE.md "wikilink")。於[2019年](../Page/2019年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")由[rhythm zone發行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 简介

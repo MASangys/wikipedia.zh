@@ -1,3 +1,6 @@
+> 本文内容由[魯坦 b](https://zh.wikipedia.org/wiki/魯坦_b)转换而来。
+
+
 **魯坦 b**（更常稱為**GJ 273b**）是被確認在[紅矮星](../Page/紅矮星.md "wikilink")[魯坦星](../Page/魯坦星.md "wikilink")的[適居帶內運行](https://zh.wikipedia.org/wiki/適居帶 "wikilink")，並可能是岩石組成的一顆[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")。魯坦星是已知第四接近地球的恆星系，魯坦 b是迄今發現最類似地球的系外行星之一，也是在12.2光年的距離內最可能適合居住的系外行星。只有[比鄰星b](../Page/比鄰星b.md "wikilink")、[巴納德星b](../Page/巴納德星b.md "wikilink")和[羅斯128b](../Page/羅斯128b.md "wikilink")比它更接近地球。它在2017年6月與GJ 123c一起被發現，是一顆[超級地球](https://zh.wikipedia.org/wiki/超級地球 "wikilink")，質量約為地球的3倍，接收的星光僅比地球多6%，是適於居住的最佳候選系外行星之一\[1\]。在2017年10月和2018年，非營利組織METI（[給外星高智生物的訊息](https://zh.wikipedia.org/wiki/主動搜尋地外文明計劃 "wikilink")）向這顆行星發送了一個訊息：包含幾十個簡短的音樂作品和科學的"教程"，希望能接觸到任何潛在的外星文明\[2\]。
 
 ## 性質

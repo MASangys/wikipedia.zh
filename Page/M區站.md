@@ -1,3 +1,6 @@
+> 本文内容由[M區站](https://zh.wikipedia.org/wiki/M區站)转换而来。
+
+
 **M區站**（）是[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[雅加達地鐵](../Page/雅加達地鐵.md "wikilink")[紅線的一座架空車站](../Page/雅加達地鐵紅線.md "wikilink")，位於[南雅加達行政市新峇油蘭鎮大元帥道](https://zh.wikipedia.org/wiki/南雅加達行政市 "wikilink")\[1\]。該站在2019年3月24日雅加達地鐵紅線第一期通車時開放載客，設有2個出入口和2個島式月台。本車站由冠名贊助\[2\]。
 
 ## 歷史

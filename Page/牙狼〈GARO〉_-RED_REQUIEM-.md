@@ -1,3 +1,6 @@
+> 本文内容由[牙狼〈GARO〉 -RED REQUIEM-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉_-RED_REQUIEM-)转换而来。
+
+
 《**牙狼〈GARO〉〜RED REQUIEM〜**》（**直譯**：紅色安魂曲）。為[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")上映，特攝劇集《[牙狼](https://zh.wikipedia.org/wiki/牙狼GARO "wikilink")》系列的首部[3D電影](../Page/3D電影.md "wikilink")。電影分級為[PG-12](https://zh.wikipedia.org/wiki/限制級 "wikilink")\[1\]。第23屆[東京國際電影節](../Page/東京國際電影節.md "wikilink")參展作品。
 
 ## 本作概要

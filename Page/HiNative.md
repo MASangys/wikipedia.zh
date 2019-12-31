@@ -1,3 +1,6 @@
+> 本文内容由[HiNative](https://zh.wikipedia.org/wiki/HiNative)转换而来。
+
+
 **HiNative**是日本股份公司[Lang-8旗下的一个语言学习](https://zh.wikipedia.org/wiki/Lang-8 "wikilink")[问答网站](https://zh.wikipedia.org/wiki/问答网站 "wikilink")，于2014年11月上线\[1\]。语言学习者可以在HiNative上提出有关的外语问题，然后对应的母语者可以为其进行解答\[2\]。
 
 ## 参考资料

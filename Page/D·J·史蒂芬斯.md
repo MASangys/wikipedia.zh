@@ -1,3 +1,6 @@
+> 本文内容由[D·J·史蒂芬斯](https://zh.wikipedia.org/wiki/D·J·史蒂芬斯)转换而来。
+
+
 **德蘭塔·贾默拉·史蒂芬斯**（，），出生於[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[法蘭克福](https://zh.wikipedia.org/wiki/法蘭克福 "wikilink")，為現役[美國職業](https://zh.wikipedia.org/wiki/美國 "wikilink")[籃球運動員](https://zh.wikipedia.org/wiki/籃球 "wikilink")。場上主要位置為[小前鋒](https://zh.wikipedia.org/wiki/小前鋒 "wikilink")。
 
 ## 職業生涯數據

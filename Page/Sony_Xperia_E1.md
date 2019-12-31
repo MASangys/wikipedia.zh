@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia E1](https://zh.wikipedia.org/wiki/Sony_Xperia_E1)转换而来。
+
+
 索尼**Xperia E1**是一款低端的[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，由[索尼](../Page/索尼.md "wikilink")旗下[索尼移动公司设计和制造](../Page/索尼移动通信.md "wikilink")。\[1\]在Falcon SS 和 board Shuang的代号下，它与索尼[Xperia T2 Ultra一起于](https://zh.wikipedia.org/wiki/Xperia_T2_Ultra "wikilink")2014年1月14日发布。\[2\] 在2014年第一季度发售，Xperia E1有一个名为Xperia E1 Dual的双[SIM卡](../Page/SIM卡.md "wikilink")配置。\[3\]
 
 ## 硬件

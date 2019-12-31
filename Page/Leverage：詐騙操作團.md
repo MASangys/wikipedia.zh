@@ -1,3 +1,6 @@
+> 本文内容由[Leverage：詐騙操作團](https://zh.wikipedia.org/wiki/Leverage：詐騙操作團)转换而来。
+
+
 《**Leverage：詐騙操作團**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TV朝鮮](../Page/TV朝鮮.md "wikilink")於2019年10月13日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/TV朝鮮周末連續劇 "wikilink")，由《[Voice3](../Page/Voice3.md "wikilink")》的南基勳導演與閔智亨作家合作打造。此劇改編自美國電視劇《[偷天任務](../Page/偷天任務.md "wikilink")》，講述前保險調查員和盜賊們一起合作，騙取壞人的財產以伸張正義的故事。\[1\]\[2\] [愛奇藝台灣站每週一獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。新加坡由新傳媒U頻道11/30起，每周六、日晚間9點以雙聲道（華語及韓語）獨家播出。
 
 ## 演員陣容

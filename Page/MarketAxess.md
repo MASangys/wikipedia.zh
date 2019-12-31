@@ -1,3 +1,6 @@
+> 本文内容由[MarketAxess](https://zh.wikipedia.org/wiki/MarketAxess)转换而来。
+
+
 **MarketAxess Holdings Inc. (MarketAxess)** 是一家国际 [金融科技](../Page/金融科技.md "wikilink") 公司，在美国纳斯达克上市（股票代号：MKTX）\[1\]，主营业务是提供金融机构使用的债券电子竞价交易平台，同时也提供市场数据，以及交易后服务。在MarketAxess的竞价交易平台上，机构投资者与做市商可以交易多种固定收益产品，主要包括公司债，国债，新兴市场债券等。
 
 MarketAxess创立于2000年，Richard McVey是公司的创始人，也是公司现任董事长与首席执行官。\[2\] MarketAxess总部在纽约，公司员工454人(2018)，在[纽约](../Page/纽约.md "wikilink")，[伦敦](../Page/伦敦.md "wikilink")，[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")，[圣保罗](../Page/聖保羅_\(巴西\).md "wikilink")，[香港](../Page/香港.md "wikilink")，[新加坡](../Page/新加坡.md "wikilink")均有办公室。至2018年，MarketAxess在美国公司债电子交易市场份额约为85%，占全美公司债券交易总量的20%。2019年7月，公司被[标准普尔500指数](../Page/标准普尔500指数.md "wikilink")纳入。按照GICS全球行业分类标准，MarketAxess属于金融行业，金融交易所&数据供应商子行业。

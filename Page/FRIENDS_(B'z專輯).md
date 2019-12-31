@@ -1,3 +1,6 @@
+> 本文内容由[FRIENDS \(B\'z專輯\)](https://zh.wikipedia.org/wiki/FRIENDS_\(B\'z專輯\))转换而来。
+
+
 《**FRIENDS**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")於[1992年](../Page/1992年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")由[BMG ROOMS發行的第](../Page/VERMILLION_RECORDS.md "wikilink")4張迷你專輯。此外，於[1996年](../Page/1996年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")發售了本專輯的續編《[FRIENDS II](../Page/FRIENDS_II.md "wikilink")》。
 
 ## 作品解說

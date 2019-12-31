@@ -1,3 +1,6 @@
+> 本文内容由[Earth Star Entertainment](https://zh.wikipedia.org/wiki/Earth_Star_Entertainment)转换而来。
+
+
 **株式會社Earth Star Entertainment**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[出版社](../Page/出版社.md "wikilink")。[Culture Convenience Club的子公司](../Page/Culture_Convenience_Club.md "wikilink")\[1\]。
 
 ## 公司概要

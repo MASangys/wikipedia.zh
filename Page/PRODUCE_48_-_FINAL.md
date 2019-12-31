@@ -1,3 +1,6 @@
+> 本文内容由[PRODUCE 48 - FINAL](https://zh.wikipedia.org/wiki/PRODUCE_48_-_FINAL)转换而来。
+
+
 《**PRODUCE 48 - FINAL**》\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[實境節目](../Page/真人實境秀.md "wikilink")《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》的表演曲目，由該節目的20位[練習生演唱](https://zh.wikipedia.org/wiki/練習生 "wikilink")。这首歌于2018年9月1日由发布。
 
 ## 曲目列表

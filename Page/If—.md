@@ -1,3 +1,6 @@
+> 本文内容由[If—](https://zh.wikipedia.org/wiki/If—)转换而来。
+
+
 [Kipling_If_(Doubleday_1910).jpg](https://zh.wikipedia.org/wiki/File:Kipling_If_\(Doubleday_1910\).jpg "fig:Kipling_If_(Doubleday_1910).jpg") 《If》是1907年英國第一位獲得諾貝爾文學獎的詩人[約瑟夫·魯德亞德·吉卜林](../Page/魯德亞德·吉卜林.md "wikilink")（Joseph Rudyard Kipling，1868-1936）寫給12歲兒子John的一首短詩，語言質樸，風格簡約，平淡之中蘊含著深邃的哲理\[1\]。
 
 《If》一詩分為四個段落，其第一段：

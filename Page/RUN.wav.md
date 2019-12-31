@@ -1,3 +1,6 @@
+> 本文内容由[RUN.wav](https://zh.wikipedia.org/wiki/RUN.wav)转换而来。
+
+
 《**RUN.wav**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")2電視台於2019年推出的綜藝節目\[1\]，由[圭賢](../Page/圭賢.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")）主持\[2\]，節目主軸為偶像音樂脫口秀節目，每周邀請多組來賓，介紹專輯背後的故事以及結合live表演\[3\]\[4\]。
 
 ## 各集內容

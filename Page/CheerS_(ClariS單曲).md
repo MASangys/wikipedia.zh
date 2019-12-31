@@ -1,3 +1,6 @@
+> 本文内容由[CheerS \(ClariS單曲\)](https://zh.wikipedia.org/wiki/CheerS_\(ClariS單曲\))转换而来。
+
+
 《**CheerS**》是[日本](../Page/日本.md "wikilink")雙人女子[音樂组合](https://zh.wikipedia.org/wiki/音樂组合 "wikilink")[ClariS](../Page/ClariS.md "wikilink")的第20張單曲\[1\]。2018年8月15日由[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")（[Sony Music Entertainment子公司](../Page/日本索尼音樂娛樂.md "wikilink")）發行。
 
 ## 解說

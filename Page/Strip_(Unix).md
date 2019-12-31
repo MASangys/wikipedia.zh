@@ -1,3 +1,6 @@
+> 本文内容由[Strip \(Unix\)](https://zh.wikipedia.org/wiki/Strip_\(Unix\))转换而来。
+
+
 在[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，**`strip`**程序从可执行二进制程序和目标文件中移除非必要信息，因此潜在的导致更好的性能，并且有时有显著的更小的磁盘空间使用（“非必要信息”意味着这种信息对二进制文件在正常执行中的正确功能而言是不需要的）。 这种信息可以由调试和符号信息组成；但是标准将变化范围留给实现者来决定。
 
 进一步的说，使用`strip`可以增进二进制文件针对[逆向工程](../Page/逆向工程.md "wikilink")的安全性。`strip`的效果可以直接由[连接器完成](../Page/链接器.md "wikilink")。例如，在[GNU编译器套件中这个选项是](../Page/GCC.md "wikilink")`-s`。

@@ -1,3 +1,6 @@
+> 本文内容由[X光室的奇蹟](https://zh.wikipedia.org/wiki/X光室的奇蹟)转换而来。
+
+
 《**X光室的奇蹟**》（）是由横幕智裕原作、作画的[日本漫画](../Page/日本漫画.md "wikilink")作品。於《[Grand Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2015年22號開始連載\[1\]，漫画描述透過X光攝影拍攝出病理照片的放射科技師和負責影像診斷的放射科醫師的故事。
 
 電視劇於2019年在富士電視網「月9」上播映。

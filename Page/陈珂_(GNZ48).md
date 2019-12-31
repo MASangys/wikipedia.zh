@@ -1,3 +1,6 @@
+> 本文内容由[陈珂 \(GNZ48\)](https://zh.wikipedia.org/wiki/陈珂_\(GNZ48\))转换而来。
+
+
 **陈珂**（），中国大型女子偶像团体[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink") Team G成员。她于2015年7月25日的[SNH48第二屆總選舉中首次以SNH](https://zh.wikipedia.org/wiki/SNH48第二屆總選舉 "wikilink")48五期生身份首次亮相，及于12月4日在《[剧场女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#SNH48_Team_XII「劇場女神」公演 "wikilink")》公演正式出道，并加入SNH48 Team XII\[1\]。
 
 ## 經歷

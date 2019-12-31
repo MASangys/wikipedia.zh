@@ -1,3 +1,6 @@
+> 本文内容由[QF 4吋Mk XVI速射艦炮](https://zh.wikipedia.org/wiki/QF_4吋Mk_XVI速射艦炮)转换而来。
+
+
 **QF 4吋Mk XVI速射艦砲**（）\[1\]是[第二次世界大战](../Page/第二次世界大战.md "wikilink")期間[英联邦](../Page/英联邦.md "wikilink")的標準海軍[高射及](../Page/高射炮.md "wikilink")，發射4吋炮彈。
 
 ## 服役

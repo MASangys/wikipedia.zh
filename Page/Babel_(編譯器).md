@@ -1,3 +1,6 @@
+> 本文内容由[Babel \(編譯器\)](https://zh.wikipedia.org/wiki/Babel_\(編譯器\))转换而来。
+
+
 **Babel** ，又名 **Babel.js**。 是一個用於 web 開發，且自由開源的 JavaScript 編譯器、轉譯器。
 
 Babel 使軟體開發者能夠以偏好的程式語言或風格來寫作原始碼，並將其利用 Babel 翻譯成 JavaScript（現今在瀏覽器最常用的程式語言）。

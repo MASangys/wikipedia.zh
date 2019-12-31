@@ -1,3 +1,6 @@
+> 本文内容由[Android Go](https://zh.wikipedia.org/wiki/Android_Go)转换而来。
+
+
 **Android Go**，是针对低端设备量身定制的[Android](../Page/Android.md "wikilink")系統，最初是针对[Android Oreo推出的](../Page/Android_Oreo.md "wikilink")。它适用于1GB或更少內存的设备。 **Android Go**擁有優化後的定制[Google流動服務](../Page/Google流動服務.md "wikilink")和[Google Play服務](../Page/Google_Play服務.md "wikilink")。\[1\]Android Go上的[Google Play會推薦適合該系統使用的輕量級APP](../Page/Google_Play.md "wikilink")\[2\]\[3\]。
 
 ## 版本

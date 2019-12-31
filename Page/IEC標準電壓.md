@@ -1,3 +1,6 @@
+> 本文内容由[IEC標準電壓](https://zh.wikipedia.org/wiki/IEC標準電壓)转换而来。
+
+
 [國際標準](https://zh.wikipedia.org/wiki/國際標準 "wikilink")**IEC 60038**由[國際電工委員會制定](https://zh.wikipedia.org/wiki/國際電工委員會 "wikilink")，最新版（第7版）於2009年發佈。**IEC標準電壓**（**IEC standard voltages**）中，定義了一系列高壓及低壓供電系統的電壓標準。
 
 ## 低壓

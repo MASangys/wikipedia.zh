@@ -1,3 +1,6 @@
+> 本文内容由[硫酸镤\(V\)](https://zh.wikipedia.org/wiki/硫酸镤\(V\))转换而来。
+
+
 **硫酸镤(V)**是一种无机化合物，化学式为H<sub>3</sub>PaO(SO<sub>4</sub>)<sub>3</sub>。
 
 ## 制备及性质

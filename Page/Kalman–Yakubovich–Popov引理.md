@@ -1,3 +1,6 @@
+> 本文内容由[Kalman–Yakubovich–Popov引理](https://zh.wikipedia.org/wiki/Kalman–Yakubovich–Popov引理)转换而来。
+
+
 **Kalman–Yakubovich–Popov引理**（Kalman–Yakubovich–Popov lemma）是及[控制理论](../Page/控制理论.md "wikilink")的結果，其中提到：給定一數\(\gamma > 0\)，二個n維向量B, C，及n x n的[赫維茲穩定矩陣](../Page/赫維茲矩陣.md "wikilink") A（所有特徵值的實部都為負值），若\((A,B)\)具有完全[可控制性](../Page/可控制性.md "wikilink")，則滿足下式的對稱矩陣P和向量Q
 
 \[A^T P + P A = -Q Q^T\]

@@ -1,3 +1,6 @@
+> 本文内容由[硫酸三\(乙二胺\)合钴\(II\)](https://zh.wikipedia.org/wiki/硫酸三\(乙二胺\)合钴\(II\))转换而来。
+
+
 **硫酸三(乙二胺)合钴(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为\[Co(H<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NH<sub>2</sub>)<sub>3</sub>\]SO<sub>4</sub>，或简写为\[Co(en)<sub>3</sub>\]SO<sub>4</sub>，它是橙红色固体。\[1\]\[Co(en)<sub>3</sub>\]SO<sub>4</sub>可以在水溶液中得到，其阳离子\[Co(en)<sub>3</sub>\]<sup>2+</sup>具有八面体构型。\[2\]
 
 ## 制备

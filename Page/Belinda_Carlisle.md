@@ -1,3 +1,6 @@
+> 本文内容由[Belinda Carlisle](https://zh.wikipedia.org/wiki/Belinda_Carlisle)转换而来。
+
+
 **Belinda Jo Carlisle** （生於1958年8月17日）是一名美國歌手、作家。她起初作為樂隊 The Go-Gos 的首席歌手一舉成名，隨後也單獨創作了許多作品。
 
 Belinda Carlisle 在南加州長大。1997年，她加入了洛杉磯一個龐克樂隊Germs，擔任鼓手職位；1978年， 樂隊成立，Carlisle便加入並擔任主唱。此樂隊於1981年發表大受歡迎的專輯《Beauty and the Beat》，令其成為史上首個原創專輯達到榜首地位的全女樂團。最終，The Go-Go's在全球範圍內售出了超過7百萬張專輯。\[1\]

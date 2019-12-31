@@ -1,3 +1,6 @@
+> 本文内容由[TOPMARSHAL](https://zh.wikipedia.org/wiki/TOPMARSHAL)转换而来。
+
+
 **株式會社TOPMARSHAL**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[批發商](https://zh.wikipedia.org/wiki/批發商 "wikilink")。
 
 同時是[Culture Convenience Club的連結子公司](../Page/Culture_Convenience_Club.md "wikilink")\[1\]。

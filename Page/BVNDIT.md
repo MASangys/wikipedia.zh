@@ -1,3 +1,6 @@
+> 本文内容由[BVNDIT](https://zh.wikipedia.org/wiki/BVNDIT)转换而来。
+
+
 **BVNDIT**（；**Be Ambitious N Do It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐推出的首組女团\[1\]。
 
 ## 團體資料

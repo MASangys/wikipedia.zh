@@ -1,3 +1,6 @@
+> 本文内容由[模块:Hatnote inline](https://zh.wikipedia.org/wiki/模块:Hatnote_inline)转换而来。
+
+
 -----
 
 \-- Module:Hatnote-inline -- -- -- -- This module produces hatnote-style links and links to related articles, -- -- but inside a <span>, instead of the

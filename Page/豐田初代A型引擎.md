@@ -1,3 +1,6 @@
+> 本文内容由[豐田初代A型引擎](https://zh.wikipedia.org/wiki/豐田初代A型引擎)转换而来。
+
+
 **豐田A型引擎**是[豐田汽車公司開發的水冷式](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[直列六缸](https://zh.wikipedia.org/wiki/直列六缸引擎 "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")系列。
 
 ## 應用

@@ -1,3 +1,6 @@
+> 本文内容由[IT\'z ICY](https://zh.wikipedia.org/wiki/IT\'z_ICY)转换而来。
+
+
 《**IT'z ICY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[ITZY](../Page/ITZY.md "wikilink")首張迷你專輯，於2019年7月29日推出\[1\]。主打歌〈ICY〉是[朴軫永](../Page/朴軫永.md "wikilink")為ITZY作詞作曲的歌曲。
 
 ## 背景

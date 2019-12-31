@@ -1,3 +1,6 @@
+> 本文内容由[Lumica](https://zh.wikipedia.org/wiki/Lumica)转换而来。
+
+
 **株式會社Lumica**（日语：、英語：*LUMICA CORPORATION*），是一所主營[熒光棒等](https://zh.wikipedia.org/wiki/熒光棒 "wikilink")[化學發光體產品的生產](../Page/化学发光.md "wikilink")、販賣業務的企業。其在中國大陸地區運營名稱為「LUMICA樂美加」\[1\]。
 
 ## 主要製品

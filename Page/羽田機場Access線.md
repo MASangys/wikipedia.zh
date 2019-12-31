@@ -1,3 +1,6 @@
+> 本文内容由[羽田機場Access線](https://zh.wikipedia.org/wiki/羽田機場Access線)转换而来。
+
+
 **羽田機場Access線**（；或譯為**羽田機場聯絡線**）是由[JR東日本提出](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")，以JR東日本現有的營運路線為基礎（包含[直通運行](../Page/直通運行.md "wikilink")路線）串聯[羽田機場及](../Page/東京國際機場.md "wikilink")[東京市區](https://zh.wikipedia.org/wiki/東京市區 "wikilink")、[首都圈之間交通的](../Page/首都圈_\(日本\).md "wikilink")[聯外鐵路系統計畫](../Page/機場聯絡軌道系統.md "wikilink")。其規劃從羽田機場國內線地區興建新線通往機場北側的，再從此分出3個分線（ / Route）\[1\]\[2\]\[3\]，均採[地下化方式興建](https://zh.wikipedia.org/wiki/鐵路地下化 "wikilink")，分別為：
 
   - 東山手分線 - 利用現已停用的區間（大汐線），在[田町站](../Page/田町站.md "wikilink")附近連接[東海道線](https://zh.wikipedia.org/wiki/東海道線 "wikilink")，並與[上野東京線](../Page/上野東京線.md "wikilink")直通運行。

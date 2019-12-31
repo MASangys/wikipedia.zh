@@ -1,3 +1,6 @@
+> 本文内容由[理察·H·霍爾](https://zh.wikipedia.org/wiki/理察·H·霍爾)转换而来。
+
+
 **理察·H·霍爾**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[飛碟學專家](https://zh.wikipedia.org/wiki/飛碟學 "wikilink")、作家。\[1\]\[2\]
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[TXT演唱會列表](https://zh.wikipedia.org/wiki/TXT演唱會列表)转换而来。
+
+
 《*' TXT演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")**[TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")*'歷年舉行的演唱會、大型公開演出活動與其他演出。
 
 ## Showcase

@@ -1,3 +1,6 @@
+> 本文内容由[格勒诺布尔有轨电车C线](https://zh.wikipedia.org/wiki/格勒诺布尔有轨电车C线)转换而来。
+
+
 **格勒诺布尔有轨电车C线**（）是法国东南部城市[格勒诺布尔](../Page/格勒诺布尔.md "wikilink")的一条[有轨电车线路](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，全长9.4公里，最初于2006年5月开通。
 
 ## 历史

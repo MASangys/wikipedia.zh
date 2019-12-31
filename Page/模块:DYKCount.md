@@ -1,3 +1,6 @@
+> 本文内容由[模块:DYKCount](https://zh.wikipedia.org/wiki/模块:DYKCount)转换而来。
+
+
 local p={} local lib_arg={}; function p.getDYKCount(frame)
 
 `   local args, working_frame`

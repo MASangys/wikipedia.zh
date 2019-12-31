@@ -1,3 +1,6 @@
+> 本文内容由[Apple Watch Series 5](https://zh.wikipedia.org/wiki/Apple_Watch_Series_5)转换而来。
+
+
 **Apple Watch Series 5**\[1\]，是第五代的[Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")，在2019年9月11日发布。第五代加强了健康检测能力。屏幕升级为LTPO，可常亮显示\[2\]，更好的服务用户。
 
 ## 发售时间

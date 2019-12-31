@@ -1,3 +1,6 @@
+> 本文内容由[Niconico靜畫](https://zh.wikipedia.org/wiki/Niconico靜畫)转换而来。
+
+
 **Niconico靜畫**（）是[Dwango旗下的](https://zh.wikipedia.org/wiki/Dwango "wikilink")[線上插畫網站](../Page/插畫.md "wikilink")，服務開始於2009年11月14日\[1\]。
 
 ## 簡介

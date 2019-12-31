@@ -1,3 +1,6 @@
+> 本文内容由[J村車站](https://zh.wikipedia.org/wiki/J村車站)转换而来。
+
+
 **J村車站**（），位於[日本](../Page/日本.md "wikilink")[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[双葉郡](https://zh.wikipedia.org/wiki/双葉郡 "wikilink")[楢葉町](https://zh.wikipedia.org/wiki/楢葉町 "wikilink")，是[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（[JR東日本](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")）[常磐線](../Page/常磐線.md "wikilink")的[臨時車站](https://zh.wikipedia.org/wiki/臨時車站 "wikilink")。
 
 ## 簡介

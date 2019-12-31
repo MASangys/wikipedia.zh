@@ -1,3 +1,6 @@
+> 本文内容由[PhotoGrid](https://zh.wikipedia.org/wiki/PhotoGrid)转换而来。
+
+
 PhotoGrid是一款相片和影片編輯app，支援iOS和Android。Photogrid讓用戶可以拼貼相片、美化相片、套用無數的素材以及影片編輯。\[1\]\[2\]
 
 ## 歷史

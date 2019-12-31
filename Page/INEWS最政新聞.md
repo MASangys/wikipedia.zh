@@ -1,3 +1,6 @@
+> 本文内容由[INEWS最政新聞](https://zh.wikipedia.org/wiki/INEWS最政新聞)转换而来。
+
+
 《**iNEWS最政新聞**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[三立iNEWS的一個新聞節目](https://zh.wikipedia.org/wiki/三立iNEWS "wikilink")，採現場播出。該節目專門播出每日的國內外政治新聞，並使用百萬攝影棚，於2017年12月18日開播至2019年1月18日。
 
 ## 播出時間

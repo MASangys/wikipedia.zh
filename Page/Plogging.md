@@ -1,3 +1,6 @@
+> 本文内容由[Plogging](https://zh.wikipedia.org/wiki/Plogging)转换而来。
+
+
 [Plogging_with_Coastal_Striders_-_FUNK9730_(42405061590).jpg](https://zh.wikipedia.org/wiki/File:Plogging_with_Coastal_Striders_-_FUNK9730_\(42405061590\).jpg "fig:Plogging_with_Coastal_Striders_-_FUNK9730_(42405061590).jpg")
 
 **Plogging**是結合[慢跑](../Page/慢跑.md "wikilink")和撿拾（瑞典文：plocka upp）所產生的詞語 ，中文翻譯有翻作**環保慢跑**\[1\]或**拾荒跑步**\[2\]。有組織的plogging是於2016年從瑞典開始的，在2018年擴展到其他國家，也因此讓社會大眾更多注意[塑膠污染](https://zh.wikipedia.org/wiki/塑膠污染 "wikilink")。以肢體運動的角度來看，其主要的運動是跑步、步行或是走路，不過有時會加上彎腰、下蹲及伸展的動作\[3\]\[4\]\[5\]。

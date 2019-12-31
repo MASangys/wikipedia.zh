@@ -1,3 +1,6 @@
+> 本文内容由[AWEEK](https://zh.wikipedia.org/wiki/AWEEK)转换而来。
+
+
 **AWEEK**（），團名有「雖然度過一周的時間很快，但是另一周亦將會來臨」的意思，是[韓國Illusion娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的男子组合，原成員包括Di1e、Chawon、Hyeon、Aiden、Yongjin，在2019年8月，加入新成員Jingyu及Logan。團體先在日本出道，隨後於同年在韓國出道\[1\]。
 
 ## 成員資料

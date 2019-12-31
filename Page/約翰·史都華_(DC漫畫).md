@@ -1,3 +1,6 @@
+> 本文内容由[約翰·史都華 \(DC漫畫\)](https://zh.wikipedia.org/wiki/約翰·史都華_\(DC漫畫\))转换而来。
+
+
 **約翰·史都華**（）或稱作**[綠光戰警](https://zh.wikipedia.org/wiki/綠光戰警 "wikilink")**，是一名[DC漫畫](../Page/DC漫畫.md "wikilink")旗下的虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，最初登場於《》\#87（1971年12月／1972年1月），由和創作。
 
 史都華為[綠光軍團旗下的一名綠光戰警](https://zh.wikipedia.org/wiki/綠光軍團 "wikilink")，時常幫[哈爾·喬丹代班或共同行動](https://zh.wikipedia.org/wiki/哈爾·喬丹 "wikilink")，同時也常協助[正義聯盟](../Page/正義聯盟.md "wikilink")。該角為[DC漫畫](../Page/DC漫畫.md "wikilink")中首位[非裔美國超級英雄](https://zh.wikipedia.org/wiki/非裔美國人 "wikilink")\[1\]\[2\]，其設計形象取自著名演員[薜尼·鮑迪](https://zh.wikipedia.org/wiki/薜尼·鮑迪 "wikilink")\[3\]。

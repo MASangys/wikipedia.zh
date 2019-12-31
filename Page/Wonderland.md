@@ -1,3 +1,6 @@
+> 本文内容由[Wonderland](https://zh.wikipedia.org/wiki/Wonderland)转换而来。
+
+
 「**Wonderland**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2004年](../Page/2004年.md "wikilink")[7月14日發行的第](https://zh.wikipedia.org/wiki/7月14日 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

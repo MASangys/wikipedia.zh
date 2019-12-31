@@ -1,3 +1,6 @@
+> 本文内容由[3AM](https://zh.wikipedia.org/wiki/3AM)转换而来。
+
+
 《**3AM**》是香港創作女歌手AGA[江海迦](../Page/江海迦.md "wikilink")於2017年推出的一首輕快歌曲，featuring [Ghost Style](https://zh.wikipedia.org/wiki/Ghost_Style "wikilink")，收錄在其個人大碟[Luna內](../Page/Luna_\(專輯\).md "wikilink")。《3AM》由她親自作曲、[陳詠謙](../Page/陳詠謙.md "wikilink")填詞、編曲[Yusuke Hatano](https://zh.wikipedia.org/wiki/Yusuke_Hatano "wikilink")、監製[舒文](../Page/舒文.md "wikilink")。歌曲一推出便大受歡迎，成為AGA繼《[一](../Page/一_\(AGA歌曲\).md "wikilink")》後的街知巷聞大熱作品。此曲成為三台冠軍歌，更榮獲[2018年叱咤樂壇專業推介](https://zh.wikipedia.org/wiki/2018年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink") 叱咤十大－第六位及香港電台十大中文金曲獎。歌曲在[YouTube](../Page/YouTube.md "wikilink")上的MV截至2019年10月，已錄得超過440萬次點擊率。\[1\]
 
 ## 簡介

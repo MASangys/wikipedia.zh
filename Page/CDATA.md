@@ -1,3 +1,6 @@
+> 本文内容由[CDATA](https://zh.wikipedia.org/wiki/CDATA)转换而来。
+
+
 **CDATA**，意为**character data**，是[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")[SGML](../Page/SGML.md "wikilink")与[XML](../Page/XML.md "wikilink")，表示文档的特定部分是普通的字符数据，而不是非字符数据或有特定、限定结构的字符数据。
 
 ## XML中CDATA

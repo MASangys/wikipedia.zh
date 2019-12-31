@@ -1,3 +1,6 @@
+> 本文内容由[Sign～法醫學者 柚木貴志的事件～](https://zh.wikipedia.org/wiki/Sign～法醫學者_柚木貴志的事件～)转换而来。
+
+
 **Sign～法醫學者 柚木貴志的事件～**（  ）是2019年7月11日起於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的電視劇\[1\]，由[大森南朋](../Page/大森南朋.md "wikilink")、[松雪泰子](../Page/松雪泰子.md "wikilink")、[飯豐萬理江](../Page/飯豐萬理江.md "wikilink")、[高杉真宙](../Page/高杉真宙.md "wikilink")、[佐津川愛美等人](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")\[2\]主演，翻拍自[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台](https://zh.wikipedia.org/wiki/SBS "wikilink")《[sign](../Page/Sign_\(韓國電視劇\).md "wikilink")》電視劇\[3\]，劇情主要描述以由[日本](../Page/日本.md "wikilink")[厚生勞動省](../Page/厚生勞動省.md "wikilink")及[警察廳共管的](https://zh.wikipedia.org/wiki/警察廳 "wikilink")「日本法醫學研究院」為舞台，真實呈現犯罪調查過程和法醫們的調查細節，根據屍體上留下來的蛛絲馬跡破解各種疑案的醫學搜查電視劇\[4\]\[5\]。
 
 ## 演員列表

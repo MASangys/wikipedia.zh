@@ -1,3 +1,6 @@
+> 本文内容由[Color on me](https://zh.wikipedia.org/wiki/Color_on_me)转换而来。
+
+
 《**Color on Me**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")於2019年7月25日發行的出道迷你專輯，專輯共收錄5首歌曲。
 
 ## 背景

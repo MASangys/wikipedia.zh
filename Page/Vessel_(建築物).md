@@ -1,3 +1,6 @@
+> 本文内容由[Vessel \(建築物\)](https://zh.wikipedia.org/wiki/Vessel_\(建築物\))转换而来。
+
+
 **Vessel**（**TKA**）是一個公共建築物和地標，作為[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[哈德逊城市广场的一部分](https://zh.wikipedia.org/wiki/哈德逊城市广场 "wikilink")。2017年4月開始施工，於2019年3月15日開放。
 
 建築物由英國設計師[托馬斯·赫斯維克](../Page/托馬斯·赫斯維克.md "wikilink")所設計，精心製作的[蜂窩結構樓高](https://zh.wikipedia.org/wiki/蜂窩 "wikilink")16層，包含154層樓梯，2500級階梯和80個觀景台，供遊客攀爬。Vessel是的一部分。其最終成本預計為2億美元。\[1\]

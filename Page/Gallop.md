@@ -1,3 +1,6 @@
+> 本文内容由[Gallop](https://zh.wikipedia.org/wiki/Gallop)转换而来。
+
+
 **Gallop**是演奏傳統重金屬歌曲，通常所使用的節拍或節:八分-十六分-十六分的結構（）。可以在[節奏吉他或](https://zh.wikipedia.org/wiki/節奏吉他手 "wikilink")[鼓組](https://zh.wikipedia.org/wiki/鼓組 "wikilink")（彈撥或[鼓點](../Page/鼓點.md "wikilink")）演奏，大多使用雙[大鼓](../Page/大鼓.md "wikilink")。 Gallop通常圍繞這個結構形成：
 
 `H- x---x---x---x---|`

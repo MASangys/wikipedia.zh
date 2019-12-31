@@ -1,3 +1,6 @@
+> 本文内容由[黎明的Live Version](https://zh.wikipedia.org/wiki/黎明的Live_Version)转换而来。
+
+
 **黎明的Live Version**（）是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，於1997年12月20日至1998年1月8日期間舉行，合共演出二十場\[1\]。
 
 ## 製作概念

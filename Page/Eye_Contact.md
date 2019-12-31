@@ -1,3 +1,6 @@
+> 本文内容由[Eye Contact](https://zh.wikipedia.org/wiki/Eye_Contact)转换而来。
+
+
 《**Eye Contact**》，又譯《**眼神交流**》，是[Channel A正在播出的](../Page/Channel_A.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")，由[姜鎬童](../Page/姜鎬童.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")、[神童等人共同主持](../Page/神童_\(藝人\).md "wikilink")。節目主軸為有特別故事的人通过“眼神接触”而轉達他们真心的「沉默綜藝」\[1\]。
 
 ## 播出时间

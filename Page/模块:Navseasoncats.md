@@ -1,3 +1,6 @@
+> 本文内容由[模块:Navseasoncats](https://zh.wikipedia.org/wiki/模块:Navseasoncats)转换而来。
+
+
 local p = {}
 
 local errors = '' local nexistingcats = 0 local currtitle = mw.title.getCurrentTitle() local testcasecolon = '' local testcases = (currtitle.subpageText == 'testcases') if testcases then testcasecolon = ':' end local navborder = true local misctrackingcats = {

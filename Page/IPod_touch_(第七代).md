@@ -1,3 +1,6 @@
+> 本文内容由[IPod touch \(第七代\)](https://zh.wikipedia.org/wiki/IPod_touch_\(第七代\))转换而来。
+
+
 **第七代[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod touch**，而**iPod touch 7**或**iTouch 7**为俗称）是一款带有基于[触摸屏的](../Page/觸控式螢幕.md "wikilink")[用户界面](../Page/用户界面.md "wikilink")的多用途掌上设备，由[苹果公司设计和销售](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，是[第六代iPod touch的继任者](../Page/IPod_touch_\(第六代\).md "wikilink")，也是自2015年以来[iPod touch的第一次重大更新](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。它于2019年5月28日在线上[Apple Store发布](../Page/Apple_Store.md "wikilink")。
 
 ## 特点

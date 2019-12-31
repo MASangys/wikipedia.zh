@@ -1,3 +1,6 @@
+> 本文内容由[三甲基\(四甲基乙二胺\)合锰\(III\)](https://zh.wikipedia.org/wiki/三甲基\(四甲基乙二胺\)合锰\(III\))转换而来。
+
+
 **三甲基(四甲基乙二胺)合锰(III)**是一种[金属有机化合物](https://zh.wikipedia.org/wiki/金属有机化合物 "wikilink")，结构式为(Me<sub>2</sub>NCH<sub>2</sub>CH<sub>2</sub>NMe<sub>2</sub>)MnMe<sub>3</sub>，这种深红色晶体于2016年首次被合成。\[1\]
 
 ## 制备

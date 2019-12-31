@@ -1,3 +1,6 @@
+> 本文内容由[Next Level Games](https://zh.wikipedia.org/wiki/Next_Level_Games)转换而来。
+
+
 **Next Level Games**是一家加拿大的[电子游戏开发商](../Page/游戏开发者.md "wikilink")，2002年成立于[温哥华](https://zh.wikipedia.org/wiki/温哥华 "wikilink")。其为人熟知的作品有[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")上的《[超级马里奥足球](https://zh.wikipedia.org/wiki/超级马里奥足球 "wikilink")》、[Wii](../Page/Wii.md "wikilink")平台上的《》以及[任天堂3DS](../Page/任天堂3DS.md "wikilink")平台上的《[路易鬼屋2](https://zh.wikipedia.org/wiki/路易鬼屋2 "wikilink")》。Next Level Game在2014年与[任天堂](../Page/任天堂.md "wikilink")签订合约，在此后成为任天堂的独家开发商，专为任天堂平台制作游戏\[1\]。
 
 ## 公司作品

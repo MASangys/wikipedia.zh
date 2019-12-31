@@ -1,3 +1,6 @@
+> 本文内容由[Roa](https://zh.wikipedia.org/wiki/Roa)转换而来。
+
+
 **金珉炅**(；）\[1\]，藝名為**Roa**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，曾是[PRISTIN成員](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，現為[HINAPIA隊長](https://zh.wikipedia.org/wiki/HINAPIA "wikilink")。
 
 ## 經歷

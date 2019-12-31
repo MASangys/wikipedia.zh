@@ -1,3 +1,6 @@
+> 本文内容由[仙×境 -Witches spiritual home-](https://zh.wikipedia.org/wiki/仙×境_-Witches_spiritual_home-)转换而来。
+
+
 是[AKABEiSOFT3在](../Page/AKABEiSOFT2.md "wikilink")2017年11月24日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。
 
 ## 故事簡介

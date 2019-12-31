@@ -1,3 +1,6 @@
+> 本文内容由[Leon X U 紅館演唱會2011](https://zh.wikipedia.org/wiki/Leon_X_U_紅館演唱會2011)转换而来。
+
+
 *' Leon X U 紅館演唱會2011*'是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，於2011年12月5日至11日期間舉行，合共演出七場\[1\]。
 
 ## 製作概念

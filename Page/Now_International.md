@@ -1,3 +1,6 @@
+> 本文内容由[Now International](https://zh.wikipedia.org/wiki/Now_International)转换而来。
+
+
 <noinclude></noinclude>
 
 **Now International**是[香港](../Page/香港.md "wikilink")[now寬頻電視的一條海外頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2012年10月18日啟播。同年，並落地[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。Now International為一條創新[生活時尚](https://zh.wikipedia.org/wiki/生活時尚 "wikilink")[娛樂頻道](https://zh.wikipedia.org/wiki/娛樂頻道 "wikilink")，提供一系列優質的[烹飪](../Page/烹饪.md "wikilink")、[生活潮流及](https://zh.wikipedia.org/wiki/生活潮流 "wikilink")[旅遊飲食節目](https://zh.wikipedia.org/wiki/旅遊飲食 "wikilink")，以及廣受歡迎的[綜藝娛樂節目及娛樂新聞](https://zh.wikipedia.org/wiki/综艺娱乐节目 "wikilink")。節目全部以高清製作，特為崇尚優質生活的觀眾度身訂造\[1\]。

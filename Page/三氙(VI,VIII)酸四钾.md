@@ -1,3 +1,6 @@
+> 本文内容由[三氙\(VI,VIII\)酸四钾](https://zh.wikipedia.org/wiki/三氙\(VI,VIII\)酸四钾)转换而来。
+
+
 **三氙(VI,VIII)酸四钾**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为K<sub>4</sub>Xe<sub>3</sub>O<sub>12</sub>。
 
 ## 历史

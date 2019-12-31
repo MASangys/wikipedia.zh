@@ -1,3 +1,6 @@
+> 本文内容由[ADD \& Loving it](https://zh.wikipedia.org/wiki/ADD_\&_Loving_it)转换而来。
+
+
 [RickandPatrick001.jpg](https://zh.wikipedia.org/wiki/File:RickandPatrick001.jpg "fig:RickandPatrick001.jpg")
 
 **ADD & Loving It?\!**（ ）是一部由和明星導演的加拿大紀錄片。《ADD & Loving It?\!》2009年9月起在加拿大[環球電視首播](../Page/環球電視_\(加拿大\).md "wikilink")，後來被引進到美國的[公共广播电视公司](../Page/公共广播电视公司.md "wikilink")，在全美播映。

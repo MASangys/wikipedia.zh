@@ -1,3 +1,6 @@
+> 本文内容由[One More Time \(Super Junior迷你專輯\)](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior迷你專輯\))转换而来。
+
+
 《**One More Time**》是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的特別迷你專輯](../Page/Super_Junior.md "wikilink")，於2018年10月8日發行。
 
 ## 發行與宣傳

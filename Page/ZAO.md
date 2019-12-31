@@ -1,3 +1,6 @@
+> 本文内容由[ZAO](https://zh.wikipedia.org/wiki/ZAO)转换而来。
+
+
 **ZAO**是[陌陌](../Page/陌陌.md "wikilink")公司于2019年推出的基于[人工智能](../Page/人工智能.md "wikilink")和[Deepfake](../Page/Deepfake.md "wikilink")技术开发的社交应用程序，以“换脸”为特点，用户上传其个人头像后即可制作表情包，也可以通过换脸的形式出演电影和电视节目片段。该应用程序一经发布即成为热门，但其隐私问题遭到用户的质疑\[1\]\[2\]。
 
 ## 概况

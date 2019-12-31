@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Oskar Schindler\'s Enamel Factory](https://zh.wikipedia.org/wiki/Draft:Oskar_Schindler\'s_Enamel_Factory)转换而来。
+
+
 [奧斯卡·辛德勒](../Page/奧斯卡·辛德勒.md "wikilink")'s 辛德勒工廠(Enamel Factory) () is a former metal item factory in [Kraków](../Page/克拉科夫.md "wikilink"). It now hosts to two museums: the [Museum of Contemporary Art in Kraków](https://zh.wikipedia.org/wiki/克拉科夫當代藝術博物館 "wikilink"), on the former workshops, and a branch of the [Historical Museum of the City of Kraków](../Page/克拉科夫歷史博物館.md "wikilink"), situated at ul. Lipowa 4 (4 Lipowa Street) in the district of , in the administrative building of the former enamel factory known as [Oskar Schindler](../Page/奧斯卡·辛德勒.md "wikilink")'s Deutsche Emailwarenfabrik (DEF).\[1\] Operating here before DEF was the first [Malopolska](../Page/小波兰.md "wikilink") factory of enamelware and metal products limited liability company, instituted in March 1937.
 
 ## 歷史History

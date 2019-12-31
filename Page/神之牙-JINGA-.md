@@ -1,3 +1,6 @@
+> 本文内容由[神之牙-JINGA-](https://zh.wikipedia.org/wiki/神之牙-JINGA-)转换而来。
+
+
 《**神之牙-JINGA-**》（）是[日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的最新電視作品，於2018年10月4日起在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")的深夜時段播出。
 
 ## 本劇特色

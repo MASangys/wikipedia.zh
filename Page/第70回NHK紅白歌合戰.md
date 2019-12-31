@@ -1,3 +1,6 @@
+> 本文内容由[第70回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第70回NHK紅白歌合戰)转换而来。
+
+
 **第70回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（）預定於2019年12月31日（令和元年）下午7時15分至11時45分（[JST](../Page/日本標準時間.md "wikilink")）在[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式舉行。本次也是[令和](../Page/令和.md "wikilink")時代第一屆的紅白歌合戰。
 
 ## 播出前

@@ -1,3 +1,6 @@
+> 本文内容由[VnStat](https://zh.wikipedia.org/wiki/VnStat)转换而来。
+
+
 **vnStat**是一个在[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上使用[命令行的网络实用程序](../Page/命令行界面.md "wikilink")。vnStat命令是基于控制台的网络流量监视器，它会记录[網路介面每小时](https://zh.wikipedia.org/wiki/網路介面 "wikilink")、每天和每个月的流量。vnStat会从[Procfs](../Page/Procfs.md "wikilink")中分析网络，而不是[數據包分析器](../Page/數據包分析器.md "wikilink")，这样即使没有root权限也可以使用vnStat。\[1\]
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[BONBOOENT](https://zh.wikipedia.org/wiki/BONBOOENT)转换而来。
+
+
 **BONBOOENT**（），是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Dancing High](https://zh.wikipedia.org/wiki/Dancing_High)转换而来。
+
+
 《**Dancing High**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS電視台是由](../Page/韓國放送公社.md "wikilink")[KBS2製作的新綜藝節目](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")，[鄭亨敦](../Page/鄭亨敦.md "wikilink")主持，以10－19虛歲青少年為對象，展開舞蹈競賽，預計會展現具有舞蹈實力、才華及能量的青少年面貌。\[1\]\[2\]
 
 ## 導師

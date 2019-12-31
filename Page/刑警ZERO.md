@@ -1,3 +1,6 @@
+> 本文内容由[刑警ZERO](https://zh.wikipedia.org/wiki/刑警ZERO)转换而来。
+
+
 **刑警ZERO**（）是[2019年](../Page/2019年.md "wikilink")於[朝日電視台](../Page/朝日電視台.md "wikilink")播出的連續劇，由[澤村一樹](../Page/澤村一樹.md "wikilink")主演。
 
 ## 登場人物

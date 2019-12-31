@@ -1,3 +1,6 @@
+> 本文内容由[城東居民CLC](https://zh.wikipedia.org/wiki/城東居民CLC)转换而来。
+
+
 《**城東居民CLC**》（，）為[韓國CUBETV於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2018年推出的綜藝節目\[1\]，由女團[CLC](../Page/CLC.md "wikilink")全員主持\[2\]，節目主軸為意外的休假將準備兩天一夜旅行的[CLC](../Page/CLC.md "wikilink")成員的模樣記錄了下來，另外也記錄[CLC](../Page/CLC.md "wikilink")成員結束了三年清潭洞生活後，隨公司搬去聖水洞的搬家現場\[3\]。
 
 ## 各集內容

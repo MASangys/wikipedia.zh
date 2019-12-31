@@ -1,3 +1,6 @@
+> 本文内容由[Draft:FOL](https://zh.wikipedia.org/wiki/Draft:FOL)转换而来。
+
+
 **Fol** or **FOL** may refer to:
 
 ## People

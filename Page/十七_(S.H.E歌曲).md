@@ -1,3 +1,6 @@
+> 本文内容由[十七 \(S.H.E歌曲\)](https://zh.wikipedia.org/wiki/十七_\(S.H.E歌曲\))转换而来。
+
+
 《**十七**》（），是由[臺灣](../Page/臺灣.md "wikilink")著名[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")所演唱的歌曲，是青峰特地為S.H.E三人量身打造全新歌曲，由[吳青峰作詞作曲](https://zh.wikipedia.org/wiki/吳青峰 "wikilink")，於2018年8月30日以數位單曲形式發行，該歌曲是為了慶祝S.H.E出道成軍十七週年所製作發行的紀念單曲。〈十七〉在2018年度[HitFM年度百首單曲排行榜位居第](https://zh.wikipedia.org/wiki/HitFM "wikilink")5位\[1\]，而在《[第30屆金曲獎](https://zh.wikipedia.org/wiki/第30屆金曲獎 "wikilink")》中獲得[年度歌曲獎和](../Page/年度歌曲獎_\(金曲獎\).md "wikilink")[最佳音樂錄影帶獎兩項獎項提名](../Page/最佳音樂錄影帶獎_\(金曲獎\).md "wikilink")。
 
 ## 唱片版本

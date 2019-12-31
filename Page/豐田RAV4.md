@@ -1,3 +1,6 @@
+> 本文内容由[豐田RAV4](https://zh.wikipedia.org/wiki/豐田RAV4)转换而来。
+
+
 **豐田RAV4**是一款由[豐田汽車製造的](../Page/丰田汽车.md "wikilink")[休旅車](../Page/运动型多用途车.md "wikilink")。日本從第三代開始停產，RAV4中的英語簡寫譯名意為「[休閒活動四驅車輛](https://zh.wikipedia.org/wiki/休閒活動 "wikilink")」（ **4**輪驅動）。
 
 2019年春天重返日本市場。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[Niconico頻道](https://zh.wikipedia.org/wiki/Niconico頻道)转换而来。
+
+
 **NicoNico頻道**（）是一個允許公司或組織等內容持有者在[彈幕影片分享網站](https://zh.wikipedia.org/wiki/視頻彈幕網站 "wikilink")「[Niconico動畫](../Page/Niconico動畫.md "wikilink")」中傳送視頻、直播和電子郵件雜誌，也是一個更新過去官方視頻的服務。
 
 ## 簡介

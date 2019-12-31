@@ -1,3 +1,6 @@
+> 本文内容由[Light \(歌曲\)](https://zh.wikipedia.org/wiki/Light_\(歌曲\))转换而来。
+
+
 《**Light**》是中国组合[火箭少女101的歌曲](https://zh.wikipedia.org/wiki/火箭少女101 "wikilink")，收录于她们的首张迷你专辑《撞》。这首歌曲是由[吴青峰和欧中建共同创作](https://zh.wikipedia.org/wiki/吴青峰 "wikilink")。作为专辑的第二支单曲，于2018年9月14日发行。《Light》是一首带有民谣元素的[流行歌曲](https://zh.wikipedia.org/wiki/华语流行音乐 "wikilink")。
 
 2018年9月24至25日，火箭少女101与许倬尔在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[凯迪拉克中心](../Page/凯迪拉克中心.md "wikilink")合作举办了同名艺术展。\[1\]

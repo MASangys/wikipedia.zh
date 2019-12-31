@@ -1,3 +1,6 @@
+> 本文内容由[傘兵型FAL戰鬥步槍](https://zh.wikipedia.org/wiki/傘兵型FAL戰鬥步槍)转换而来。
+
+
 **傘兵型FAL**（）7.62毫米M964 A1 MD1是一款由[巴西](../Page/巴西.md "wikilink")武器製造商（，[縮寫](../Page/縮寫.md "wikilink")：IMBEL）以30多年特許生產當中得出的經驗對[FN FAL](../Page/FN_FAL自動步槍.md "wikilink")、[MD2和MD3輕量化的改進型](../Page/IMBEL_MD突擊步槍.md "wikilink")[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述

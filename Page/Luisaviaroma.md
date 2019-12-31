@@ -1,3 +1,6 @@
+> 本文内容由[Luisaviaroma](https://zh.wikipedia.org/wiki/Luisaviaroma)转换而来。
+
+
 **LUISAVIAROMA**（也被称为Luisa Via Roma亦或LVR）是时尚奢侈品领域的零售商之一，其总部及概念店位于[意大利](../Page/意大利.md "wikilink")[佛罗伦萨](../Page/佛罗伦萨.md "wikilink")。
 
 ## 历史

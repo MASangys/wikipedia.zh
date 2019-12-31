@@ -1,3 +1,6 @@
+> 本文内容由[Draft:LEP](https://zh.wikipedia.org/wiki/Draft:LEP)转换而来。
+
+
 **LEP**粒子加速器（the Large Electron–Positron Collider）是一個[大型電子正電子對撞機](https://zh.wikipedia.org/wiki/大型電子正子對撞機 "wikilink")
 
 

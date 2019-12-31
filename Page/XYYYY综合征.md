@@ -1,3 +1,6 @@
+> 本文内容由[XYYYY综合征](https://zh.wikipedia.org/wiki/XYYYY综合征)转换而来。
+
+
 **XYYYY综合征**（英语：），是一种罕见的[Y染色体数目异常疾病](https://zh.wikipedia.org/wiki/Y染色体 "wikilink")。
 
 ## 症状

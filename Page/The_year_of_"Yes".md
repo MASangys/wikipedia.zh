@@ -1,3 +1,6 @@
+> 本文内容由[The year of Yes](https://zh.wikipedia.org/wiki/The_year_of_Yes)转换而来。
+
+
 《**The year of "Yes"**》（風格化為**The year of "YES"**）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2018年12月12日推出的第三張韓語特別專輯，是《[YES or YES](https://zh.wikipedia.org/wiki/YES_or_YES "wikilink")》改版的特別專輯，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，此次專輯以英倫風為主題，亦是TWICE第二次的聖誕（冬日）回歸，這次特別三輯是TWICE在年末時節帶給粉絲的禮物，沒有進行宣傳活動。主打歌曲為〈The Best Thing I Ever Did(올해 제일 잘한 일)〉。\[1\]\[2\]
 
 ## 背景及回歸日程

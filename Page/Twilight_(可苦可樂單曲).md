@@ -1,3 +1,6 @@
+> 本文内容由[Twilight \(可苦可樂單曲\)](https://zh.wikipedia.org/wiki/Twilight_\(可苦可樂單曲\))转换而来。
+
+
 《**Twilight**》是[可苦可樂](../Page/可苦可樂.md "wikilink")的第3張[數位單曲](../Page/數位音樂下載.md "wikilink")。於2014年11月8日由[Warner Music Japan發售](https://zh.wikipedia.org/wiki/Warner_Music_Japan "wikilink")。
 
 ## 簡介

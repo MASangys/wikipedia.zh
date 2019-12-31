@@ -1,3 +1,6 @@
+> 本文内容由[A片現場不NG](https://zh.wikipedia.org/wiki/A片現場不NG)转换而来。
+
+
 《**A片現場不NG**》 （）是一部2015年的日本喜劇電影，由[森川圭擔任導演和編劇](https://zh.wikipedia.org/wiki/森川圭 "wikilink")，[森田亞紀](https://zh.wikipedia.org/wiki/森田亞紀 "wikilink")、[栗林里莉](../Page/栗林里莉.md "wikilink")、[川上奈奈美](../Page/川上奈奈美.md "wikilink")、[伊東紅和](https://zh.wikipedia.org/wiki/伊東紅 "wikilink")[住吉真理子主演](https://zh.wikipedia.org/wiki/住吉真理子 "wikilink")。在2015年4月27日於義大利舉辦的[遠東影展首映](https://zh.wikipedia.org/wiki/遠東影展 "wikilink")，同年5月9日在日本上映，同年7月17日在台灣[台北電影節](../Page/台北電影節.md "wikilink")上映。\[1\]
 
 2016年推出續集《A片現場不NG2》 （）。

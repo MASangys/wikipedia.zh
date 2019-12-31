@@ -1,3 +1,6 @@
+> 本文内容由[Bino \(漫畫家\)](https://zh.wikipedia.org/wiki/Bino_\(漫畫家\))转换而来。
+
+
 **Bino**（），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[富山縣](../Page/富山縣.md "wikilink")\[1\]。代表作是《ComicNewtype》（[KADOKAWA](../Page/KADOKAWA.md "wikilink")）目前連載中的《[女高中生的虛度日常](../Page/女高中生的虛度日常.md "wikilink")》、《》。
 
 ## 來歷

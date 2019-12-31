@@ -1,3 +1,6 @@
+> 本文内容由[DC每日新聞](https://zh.wikipedia.org/wiki/DC每日新聞)转换而来。
+
+
 《**DC每日新聞**》（）是一檔[美國每日](https://zh.wikipedia.org/wiki/美國 "wikilink")[網絡](../Page/網絡劇.md "wikilink")[新聞節目](../Page/新聞節目.md "wikilink")，由蒂芙尼·史密斯主持，於2018年9月15日在[DC宇宙流媒體平台首播](https://zh.wikipedia.org/wiki/DC_Universe_\(串流媒體\) "wikilink")。主題為與[DC漫畫](../Page/DC漫畫.md "wikilink")以及流媒體平台所播出的原創節目相關的新聞內容。
 
 ## 梗概

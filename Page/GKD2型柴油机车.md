@@ -1,3 +1,6 @@
+> 本文内容由[GKD2型柴油机车](https://zh.wikipedia.org/wiki/GKD2型柴油机车)转换而来。
+
+
 **GKD2型柴油机车**（GKD2）是[中国铁路的](https://zh.wikipedia.org/wiki/中华人民共和国铁路运输 "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，主要用於调车编组以及小运转作业，由[中国南车集团](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")[戚墅堰机车车辆厂设计](https://zh.wikipedia.org/wiki/戚墅堰机车车辆厂 "wikilink")，[中国南车集团](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")[戚墅堰机车车辆厂和](https://zh.wikipedia.org/wiki/戚墅堰机车车辆厂 "wikilink")[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大连机车车辆有限公司生产](https://zh.wikipedia.org/wiki/大连机车车辆有限公司 "wikilink")，是东风11型、东风8B型内燃机车的系列产品。其名字中"GK"代表其为工矿系列机车。"D"代表其传动方式为电传动，以区分传统的液力传动的工矿机车，"2"为其型号。\[1\]
 
 ## 发展历史

@@ -1,3 +1,6 @@
+> 本文内容由[微炭酸／孤身隻影／Good bye \& Good luck！](https://zh.wikipedia.org/wiki/微炭酸／孤身隻影／Good_bye_\&_Good_luck！)转换而来。
+
+
 《**「微炭酸／孤身隻影／Good bye & Good luck！**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[Juice=Juice的第](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2019年2月13日由[hachama發售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

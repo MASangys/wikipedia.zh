@@ -1,3 +1,6 @@
+> 本文内容由[模块:For](https://zh.wikipedia.org/wiki/模块:For)转换而来。
+
+
 local mArguments --initialize lazily local mHatlist = require('Module:Hatnote list') local mHatnote = require('Module:Hatnote') local yesNo = require('Module:Yesno') local p = {}
 
 \--Implements  from the frame --uses capitalized "For" to avoid collision with Lua reserved word "for" function p.For (frame)

@@ -1,3 +1,6 @@
+> 本文内容由[任天堂Switch Lite](https://zh.wikipedia.org/wiki/任天堂Switch_Lite)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")公司出品的[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")，於2019年9月20日在全球同步發售。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[3RACHA](https://zh.wikipedia.org/wiki/3RACHA)转换而来。
+
+
 **3RACHA**（韓語：쓰리라차），為韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")推出的九人男子團體[Stray Kids中負責創作的團體](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。成員包括CB97(方燦)、SPEARB(彰彬)、J.ONE(HAN)。團名「3RACHA」原是辣椒醬名「SRIRACHA」\[1\]，前面的數字「3」代表三個人，而「RACHA」在西班牙文的意思為狂風、旋風，意謂三個人想要展現火辣的味道、掀起狂風的抱負\[2\]。2018年3月25日，方燦、彰彬與HAN作為[Stray Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")。
 
 ## 發展歷程

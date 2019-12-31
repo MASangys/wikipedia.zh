@@ -1,3 +1,6 @@
+> 本文内容由[Dreaming!](https://zh.wikipedia.org/wiki/Dreaming!)转换而来。
+
+
 《**Dreaming\!**》（日語：），是作品《[偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")》的一首相關樂曲。其中，由春日未來（聲：[山崎遙](../Page/山崎遙.md "wikilink")）、最上靜香（聲：[田所梓](../Page/田所梓.md "wikilink")）、伊吹翼（聲：[Machico](../Page/Machico.md "wikilink")）演唱版本的《Dreaming\!》曾作為收錄在其同名[单曲](../Page/单曲.md "wikilink")中，並且是《百万人演唱會！》的第3個專輯系列《[THE IDOLM@STER LIVE THE@TER DREAMERS](../Page/THE_IDOLM@STER_LIVE_THE@TER_DREAMERS.md "wikilink")》的首枚唱片，由[Lantis](../Page/Lantis.md "wikilink")於[2015年](../Page/2015年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")發售。
 
 ## 背景、音樂性

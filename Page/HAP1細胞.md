@@ -1,3 +1,6 @@
+> 本文内容由[HAP1細胞](https://zh.wikipedia.org/wiki/HAP1細胞)转换而来。
+
+
 *' HAP1*' 是常用於[生物醫學和](https://zh.wikipedia.org/wiki/生物醫學 "wikilink")[遺傳學](https://zh.wikipedia.org/wiki/遺傳學 "wikilink")[研究](../Page/研究.md "wikilink")的[近單倍體](../Page/染色體倍性.md "wikilink")\[1\]，跟所有永生的癌細胞系一樣可以[無限期分裂](https://zh.wikipedia.org/wiki/細胞分裂 "wikilink")，並且幾乎每個染色體都有一個拷貝。HAP1細胞的[體積比普通](https://zh.wikipedia.org/wiki/體積 "wikilink")[人類](../Page/人類.md "wikilink")細胞小，[直徑約](https://zh.wikipedia.org/wiki/直徑 "wikilink")11[微米](../Page/微米.md "wikilink")。
 
 ## 起源

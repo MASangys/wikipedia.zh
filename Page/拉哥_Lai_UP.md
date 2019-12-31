@@ -1,3 +1,6 @@
+> 本文内容由[拉哥 Lai UP](https://zh.wikipedia.org/wiki/拉哥_Lai_UP)转换而来。
+
+
 **拉哥**（Jacky Lai，），原名**賴彥積**，[香港](../Page/香港.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")、旅遊達人，現職註冊[護士](https://zh.wikipedia.org/wiki/護士 "wikilink")。曾任香港旅遊資訊網站 - 又飛啦！Flyagain.la 創作總監、[香港電視網絡](../Page/香港電視網絡.md "wikilink")主持/編輯。2010年成功考進[香港大學](../Page/香港大學.md "wikilink")，並於2014年從[李嘉誠醫學院](https://zh.wikipedia.org/wiki/李嘉誠醫學院 "wikilink")[護理系畢業](https://zh.wikipedia.org/wiki/護理系 "wikilink")。\[1\]
 
 ## 背景

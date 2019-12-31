@@ -1,3 +1,6 @@
+> 本文内容由[Apache Qpid](https://zh.wikipedia.org/wiki/Apache_Qpid)转换而来。
+
+
 **Apache Qpid** 是一个[开源的](../Page/开源软件.md "wikilink")[消息系统](../Page/行程間通訊.md "wikilink") ，它实现了[高级消息队列协议](../Page/高级消息队列协议.md "wikilink") （AMQP）。 它提供事务管理，队列，分发，安全性，管理，集群， [互聯](../Page/互聯.md "wikilink")以及异构多平台支持。
 
 ## 历史

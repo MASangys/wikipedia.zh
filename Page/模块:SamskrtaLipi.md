@@ -1,3 +1,6 @@
+> 本文内容由[模块:SamskrtaLipi](https://zh.wikipedia.org/wiki/模块:SamskrtaLipi)转换而来。
+
+
 local export = {}
 
 local DN2SiddhamRules = {

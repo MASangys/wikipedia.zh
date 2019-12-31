@@ -1,3 +1,6 @@
+> 本文内容由[Angel Night ～天使所在之處～](https://zh.wikipedia.org/wiki/Angel_Night_～天使所在之處～)转换而来。
+
+
 **Angel Night ～天使所在之處～**（），是[日本](../Page/日本.md "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")系[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")[PSY·S](../Page/PSY·S.md "wikilink")的第7張單曲。1987年5月10日由[EPIC Sony發行](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")。
 
 ## 解說

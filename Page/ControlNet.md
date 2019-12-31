@@ -1,3 +1,6 @@
+> 本文内容由[ControlNet](https://zh.wikipedia.org/wiki/ControlNet)转换而来。
+
+
 **ControlNet**是開放性的工業網路協定（[現場總線](../Page/現場總線.md "wikilink")）。ControlNet最早是由ControlNet International所維護，不過自2008年起，其支持及管理的工作轉換到，這個組織目前維護[通用工业协定](https://zh.wikipedia.org/wiki/通用工业协定 "wikilink")（CIP）家族中的所有通訊協定。
 
 ControlNet和其他現場總線不同之處是內建完全冗餘的纜線，而且ControlNet上的通訊有嚴謹的時間規劃，有高度的確定性。ControlNet的物理層和其他總線不同，因此一般的[數據包分析器](../Page/數據包分析器.md "wikilink")（例如[Wireshark](../Page/Wireshark.md "wikilink")）無法分析ControlNet封包。Rockwell自動化公司有提到ControlNet通訊分析軟體來抓取及分析ControlNet封包。

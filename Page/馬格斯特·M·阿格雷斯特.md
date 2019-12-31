@@ -1,3 +1,6 @@
+> 本文内容由[馬格斯特·M·阿格雷斯特](https://zh.wikipedia.org/wiki/馬格斯特·M·阿格雷斯特)转换而来。
+
+
 **馬格斯特·M·阿格雷斯特**（，）是出生於[俄羅斯的](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[數學家](https://zh.wikipedia.org/wiki/數學家 "wikilink")，也是[古代太空人](../Page/古代太空人.md "wikilink")理論的研究者。
 
 ## 生平

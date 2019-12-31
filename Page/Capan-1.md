@@ -1,3 +1,6 @@
+> 本文内容由[Capan-1](https://zh.wikipedia.org/wiki/Capan-1)转换而来。
+
+
 **Capan-1** (亦稱**ATCC HTB-79**) 是具有高侵襲性及高[分化能力的](https://zh.wikipedia.org/wiki/細胞分化 "wikilink")[人類](../Page/人類.md "wikilink")[胰腺癌](../Page/胰腺癌.md "wikilink")，最初是分離自一名40歲的[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")腺癌[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")。
 
 ## 特徵

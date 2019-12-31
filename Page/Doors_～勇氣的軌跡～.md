@@ -1,3 +1,6 @@
+> 本文内容由[Doors ～勇氣的軌跡～](https://zh.wikipedia.org/wiki/Doors_～勇氣的軌跡～)转换而来。
+
+
 「**Doors ～勇氣的軌跡～**」（）是[嵐](../Page/嵐.md "wikilink")的第53張單曲。於2017年11月8日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[黎明Leon Random Love Song Live in Studio City](https://zh.wikipedia.org/wiki/黎明Leon_Random_Love_Song_Live_in_Studio_City)转换而来。
+
+
 '''黎明Leon Random Love Song Live in Studio City '''是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[澳門](../Page/澳門.md "wikilink")舉行的個人演唱會，於2016年7月23日至2016年7月24日期間在[新濠影滙](../Page/新濠影滙.md "wikilink")綜藝館舉行，合共演出兩場。
 
 ## 製作概念

@@ -1,3 +1,6 @@
+> 本文内容由[Super Band \(韓國綜藝\)](https://zh.wikipedia.org/wiki/Super_Band_\(韓國綜藝\))转换而来。
+
+
 《**Super Band**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》、《》的團隊製作，而由[全炫茂擔任節目MC](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[尹鐘信](https://zh.wikipedia.org/wiki/尹鐘信 "wikilink")、、[Joe Hahn](../Page/喬瑟夫·漢恩.md "wikilink")（[Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](https://zh.wikipedia.org/wiki/金鐘萬 "wikilink")（[Nell](../Page/Nell_\(樂團\).md "wikilink")）、[李秀賢](https://zh.wikipedia.org/wiki/李秀賢 "wikilink")（[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")）等人擔任製作人\[2\]並共同主持，節目主軸為發掘擁有樂器演奏與創作才能的音樂天才們，通過各種形式的任務，來打造全球化超級樂隊\[3\]\[4\]。 通過5個月製作組預選後，121人晉級參加製作人試鏡，53人晉級參與後續比賽。
 
 ## 內容

@@ -1,3 +1,6 @@
+> 本文内容由[O My Jewel](https://zh.wikipedia.org/wiki/O_My_Jewel)转换而来。
+
+
 **O My Jewel**（韓語：**오마주**），是[韓國Acoustic](https://zh.wikipedia.org/wiki/韓國 "wikilink") Company於2017年推出的三人女子組合，成員包括Jeonghee、Seo Sarang、Sofi及Sanha。團體已於2018年解散。
 
 ## 成員資料

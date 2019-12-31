@@ -1,3 +1,6 @@
+> 本文内容由[Fork-join模型](https://zh.wikipedia.org/wiki/Fork-join模型)转换而来。
+
+
 [Fork_join.svg](https://zh.wikipedia.org/wiki/File:Fork_join.svg "fig:Fork_join.svg")
 
 在[并行计算](../Page/并行计算.md "wikilink")中，**fork–join**模型是设置和执行并行程序的一种方式，使得程序在指定一点上“分叉”（fork）而开始并行执行，在随后的一点上“合并”（join）并恢复顺序执行。并行区段可以[递归](../Page/递归.md "wikilink")的fork，直到达到特定的任务粒度（granularity）。Fork–join可以被视为是一种并行[设计模式](../Page/设计模式_\(计算机\).md "wikilink")\[1\]，它最早由[马尔文·康威](../Page/马尔文·康威.md "wikilink")公式化于1963年\[2\]\[3\]。

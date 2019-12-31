@@ -1,3 +1,6 @@
+> 本文内容由[Nimoca](https://zh.wikipedia.org/wiki/Nimoca)转换而来。
+
+
 [Nimoca_Automatic_ticket_machine.JPG](https://zh.wikipedia.org/wiki/File:Nimoca_Automatic_ticket_machine.JPG "fig:Nimoca_Automatic_ticket_machine.JPG")）\]\] [iccard.gif](https://zh.wikipedia.org/wiki/File:iccard.gif "fig:iccard.gif") **nimoca**（）是日本一種基於CJRC規格發行的可再增值、非接觸式智能卡（IC卡），兼有儲值車票及電子錢包功能，主要於九州地區流通。該卡於[2008年](../Page/2008年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")在西鐵鐵軌道及公車路網開始導入使用\[1\]，由[西日本鐵道](../Page/西日本鐵道.md "wikilink")（西鐵，）全資子公司「株式会社ニモカ」負責發行及營運\[2\]。nimoca是「"**ni**ce **mo**ney **ca**rd"」（優秀代幣卡）的略稱\[3\]\[4\]，同時也有「にも」（也）的含意，即「電車也可、巴士也可、購物也可，隨處可用的IC卡片」\[5\]\[6\]，官方吉祥物是金色的[雪貂](https://zh.wikipedia.org/wiki/雪貂 "wikilink")\[7\]\[8\]。
 
 ## 種類

@@ -1,3 +1,6 @@
+> 本文内容由[偉大的Show](https://zh.wikipedia.org/wiki/偉大的Show)转换而来。
+
+
 《**偉大的Show**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年8月26日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》、《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》、《[捉迷藏](https://zh.wikipedia.org/wiki/捉迷藏_\(韓國電視劇\) "wikilink")》的申勇輝導演與《[不良主婦](../Page/不良主婦.md "wikilink")》、《[老千](../Page/老千_\(電視劇\).md "wikilink")》、《[廣告天才李太白](../Page/廣告天才李太白.md "wikilink")》的薛俊錫浙江合作打造。此劇講述前國會議員魏大韓接受了充滿問題的四兄妹後，為了重新進入國會而展開一場「偉大的 SHOW」的故事。\[1\]\[2\]\[3\]\[4\]
 
 [愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")8/27起每週二三獨家播出。

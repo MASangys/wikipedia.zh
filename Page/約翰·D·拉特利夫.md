@@ -1,3 +1,6 @@
+> 本文内容由[約翰·D·拉特利夫](https://zh.wikipedia.org/wiki/約翰·D·拉特利夫)转换而来。
+
+
 **約翰·D·拉特利夫**（，）是一名[美國獨立](https://zh.wikipedia.org/wiki/美國 "wikilink")[學者](https://zh.wikipedia.org/wiki/學者 "wikilink")，專門研究[迹象文学社](../Page/迹象文学社.md "wikilink")和[J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")\[1\]，曾編輯出版《[哈比人的歷史](../Page/哈比人的歷史.md "wikilink")》一書\[2\]。另編撰有不少與《[龍與地下城](https://zh.wikipedia.org/wiki/龍與地下城 "wikilink")》相關的書籍。
 
 ## 生平

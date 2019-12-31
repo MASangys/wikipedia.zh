@@ -1,3 +1,6 @@
+> 本文内容由[少女時代-Oh! GG](https://zh.wikipedia.org/wiki/少女時代-Oh!_GG)转换而来。
+
+
 **少女時代-Oh\! GG**（， ）是韓國女子組合[少女時代的分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")\[1\]，由[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink") 、[珊妮](../Page/Sunny_\(少女時代\).md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[潤娥組成](https://zh.wikipedia.org/wiki/潤娥 "wikilink")\[2\]\[3\]，队长为[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")\[4\]。2018年9月5日發行单曲《[Lil' Touch](https://zh.wikipedia.org/wiki/Lil'_Touch "wikilink")》正式出道\[5\] 。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[Hitorie](https://zh.wikipedia.org/wiki/Hitorie)转换而来。
+
+
 **hitorie**（）是[日本](../Page/日本.md "wikilink")的[摇滚乐](../Page/摇滚乐.md "wikilink")队，其前身Hitori Atelier于2011年冬成立，2012年Shinoda加入后改名为hitorie。
 
 ## 成员

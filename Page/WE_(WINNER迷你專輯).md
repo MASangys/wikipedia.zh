@@ -1,3 +1,6 @@
+> 本文内容由[WE \(WINNER迷你專輯\)](https://zh.wikipedia.org/wiki/WE_\(WINNER迷你專輯\))转换而来。
+
+
 《**WE**》是韓國四人男子團體[WINNER](../Page/WINNER.md "wikilink")時隔5個月的新作品。\[1\]
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[K11 ATELIER](https://zh.wikipedia.org/wiki/K11_ATELIER)转换而来。
+
+
 [ATELIER_K11_Lobby_2017.jpg](https://zh.wikipedia.org/wiki/File:ATELIER_K11_Lobby_2017.jpg "fig:ATELIER_K11_Lobby_2017.jpg") [K11_ATELIER_21F_Victoria_Dockside_exhibition.jpg](https://zh.wikipedia.org/wiki/File:K11_ATELIER_21F_Victoria_Dockside_exhibition.jpg "fig:K11_ATELIER_21F_Victoria_Dockside_exhibition.jpg") K11辦公大樓（英文：**K11 ATELIER**）座落於[尖沙咀](../Page/尖沙咀.md "wikilink")[維港海旁](https://zh.wikipedia.org/wiki/維港 "wikilink")，是綜合發展項目 [Victoria Dockside](../Page/Victoria_Dockside.md "wikilink") 第一期落成的甲級寫字樓\[1\]，可供租用的寫字樓總面積為435,156平方呎。\[2\]
 
 ## 概覽

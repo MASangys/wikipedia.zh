@@ -1,3 +1,6 @@
+> 本文内容由[Mesto](https://zh.wikipedia.org/wiki/Mesto)转换而来。
+
+
 **梅勒．史托普**生於，藝名為Mesto，是荷蘭的電子音樂製作人和DJ。\[1\] 他最開始會被注意到是因為與[Martin Garrix合作的單曲WIEE](../Page/馬汀·蓋瑞克斯.md "wikilink")。\[2\]\[3\]
 
 ## 傳記

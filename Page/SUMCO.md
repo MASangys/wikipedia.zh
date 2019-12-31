@@ -1,3 +1,6 @@
+> 本文内容由[SUMCO](https://zh.wikipedia.org/wiki/SUMCO)转换而来。
+
+
 **株式會社SUMCO**（日語：；英語：）是[日本](../Page/日本.md "wikilink")的一家[半導體材料生產商](https://zh.wikipedia.org/wiki/半導體材料 "wikilink")，總部位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")。
 
 該公司於2006年併購原屬[小松製作所](../Page/小松製作所.md "wikilink")的小松電子金屬，並以小松電子金屬為主體成立子公司，同時也藉由SUMCO TECHXIV持有[台塑勝高科技](https://zh.wikipedia.org/wiki/台塑勝高科技 "wikilink")（[台勝科](https://zh.wikipedia.org/wiki/台勝科 "wikilink")）近半數的股權\[1\]。若將相關企業合併計算，SUMCO是世界第二大的[矽晶圓製造商](https://zh.wikipedia.org/wiki/矽晶圓 "wikilink")\[2\]，與同樣位於日本的[信越化學工業](../Page/信越化學工業.md "wikilink")二社占據全球約60%的晶圓生產量\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Code Geass 復活的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_復活的魯路修)转换而来。
+
+
 《**Code Geass 復活的魯路修**》（）是[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[Code Geass動畫系列第三作](../Page/Code_Geass.md "wikilink")、劇場系列第四作。於本作完結後十周年紀念活動中，假定發表「復活的魯路修」計畫，以三部劇場作品的IF後日談為中心\[1\]。2018年8月3日正式發表完全新作劇場「Code Geass 復活的魯路修」製作，2019年2月初于日本上映\[2\]。[台湾于同年](https://zh.wikipedia.org/wiki/台湾 "wikilink")5月上映。
 
 ## 故事簡介

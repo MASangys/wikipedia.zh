@@ -1,3 +1,6 @@
+> 本文内容由[古匈牙利字母 \(Unicode區段\)](https://zh.wikipedia.org/wiki/古匈牙利字母_\(Unicode區段\))转换而来。
+
+
 **古匈牙利字母**是一個包含了[古匈牙利字母](../Page/古匈牙利字母.md "wikilink")的[Unicode區塊](https://zh.wikipedia.org/wiki/Unicode區塊 "wikilink")，古匈牙利字母在中世紀時被用於書寫[匈牙利語](https://zh.wikipedia.org/wiki/匈牙利語 "wikilink")。
 
 ## 區塊

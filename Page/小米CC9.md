@@ -1,3 +1,6 @@
+> 本文内容由[小米CC9](https://zh.wikipedia.org/wiki/小米CC9)转换而来。
+
+
 **小米CC9**\[1\]是由[小米科技设计和销售的](https://zh.wikipedia.org/wiki/小米科技 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，于2019年7月2日下午2时（UTC+8）在中国北京[水立方发布](https://zh.wikipedia.org/wiki/水立方 "wikilink")。小米CC9和小米CC9美图定制版、小米CC9e，同时隶属于同天小米首次推出的CC系列。2019年11月5日小米在[北京小米科技园举办发布会](https://zh.wikipedia.org/wiki/北京 "wikilink")，发布了小米CC9 Pro（小米CC9的增强版）。
 
 小米CC9分为小米CC9（普通版）、小米CC9 美图定制版、小米CC9e、小米CC9 Pro版四个衍生版本。

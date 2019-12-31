@@ -1,3 +1,6 @@
+> 本文内容由[Gotcha \(编程\)](https://zh.wikipedia.org/wiki/Gotcha_\(编程\))转换而来。
+
+
 **Gotcha**（发音\[英\]\[ˈɡɔtʃə\]\[美\]\[ˈɡɑtʃə\]），在[计算机编程领域中是指在系统或](https://zh.wikipedia.org/wiki/计算机编程 "wikilink")[程序](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")、[程序设计语言中](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，合法有效，但是會誤解意思的构造，程式容易造成错误，或是一些易于使用但其结果不如期望的構造。字面上是got you的简写，常用于口语，直译为： “逮着你了”、“捉弄到你了 ”、“你中计了” 、“骗到你了”。\[1\]
 
 ## 例子

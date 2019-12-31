@@ -1,3 +1,6 @@
+> 本文内容由[Deca Joins](https://zh.wikipedia.org/wiki/Deca_Joins)转换而来。
+
+
 **Deca Joins**，是台灣[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，目前成員為鄭敬儒（主唱、吉他）、楊尚樺（吉他）、謝俊彥（貝斯）、陳皇谷（鼓）。所屬唱片公司為[空氣腦唱片](https://zh.wikipedia.org/wiki/空氣腦唱片 "wikilink")。
 
 Deca Joins曾經歷兩次改名，一開始為FUBAR，2016年改名灰矮星，2017年改為現在團名。

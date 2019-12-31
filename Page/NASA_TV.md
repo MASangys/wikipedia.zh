@@ -1,3 +1,6 @@
+> 本文内容由[NASA TV](https://zh.wikipedia.org/wiki/NASA_TV)转换而来。
+
+
 **NASA TV**是[美国](../Page/美国.md "wikilink")[国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（NASA）运营的一个[电视台](../Page/电视台.md "wikilink")。
 
 ## 简介

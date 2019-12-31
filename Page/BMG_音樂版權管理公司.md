@@ -1,3 +1,6 @@
+> 本文内容由[BMG 音樂版權管理公司](https://zh.wikipedia.org/wiki/BMG_音樂版權管理公司)转换而来。
+
+
 **BMG 音樂版權管理公司**（BMG Rights Management GmbH，前身為[貝塔斯曼音樂集團](https://zh.wikipedia.org/wiki/貝塔斯曼音樂集團 "wikilink")）是[貝塔斯曼旗下的一家音樂公司](https://zh.wikipedia.org/wiki/貝塔斯曼 "wikilink")，於2008年創立，业务为音樂發行及音樂錄製。
 
 ## 歷史

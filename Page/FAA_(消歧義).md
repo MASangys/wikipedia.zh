@@ -1,3 +1,6 @@
+> 本文内容由[FAA \(消歧義\)](https://zh.wikipedia.org/wiki/FAA_\(消歧義\))转换而来。
+
+
 **FAA** 最常指的是[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")（Federal Aviation Administration），美國聯邦政府的機構。
 
 **FAA** 也可以指：

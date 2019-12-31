@@ -1,3 +1,6 @@
+> 本文内容由[ENERGA反坦克槍榴彈](https://zh.wikipedia.org/wiki/ENERGA反坦克槍榴彈)转换而来。
+
+
 **ENERGA反坦克槍榴彈**（）是一款於1950年代初研製、由填充的[空包彈](../Page/空包彈.md "wikilink")所推動的尾翼穩定式[反坦克](../Page/高爆反坦克彈.md "wikilink")[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。**ENERGA**這個名字來自設計它的[列支敦士登的公司](https://zh.wikipedia.org/wiki/列支敦士登 "wikilink")，總部設在[瓦都茲](../Page/瓦都茲.md "wikilink")的發明及工商業應用開發研究所（）。\[1\]
 
 該槍榴彈最初於1950年代由[比利时](../Page/比利时.md "wikilink")所生產，並且在歐洲軍隊部署在前線上使用，直到被[M72 LAW等一次性管射式反坦克](../Page/M72輕型反裝甲武器.md "wikilink")[火箭彈發射器所取代](https://zh.wikipedia.org/wiki/火箭彈發射器 "wikilink")。雖然已不再生產，該槍榴彈的庫存卻仍然存在，ENERGA槍榴彈目前甚至仍然在[第三世界](../Page/第三世界.md "wikilink")國家服役。[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")亦在ENERGA槍榴彈以上，生產了其改進型R1M1。\[2\]

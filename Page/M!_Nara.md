@@ -1,3 +1,6 @@
+> 本文内容由[M! Nara](https://zh.wikipedia.org/wiki/M!_Nara)转换而来。
+
+
 '''M\! Nara '''（），是位於[奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink")[奈良市](../Page/奈良市.md "wikilink")[二条大路上一個大型觀光商業複合設施](https://zh.wikipedia.org/wiki/二条大路 "wikilink")。
 
 ## 摘要

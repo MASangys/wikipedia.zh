@@ -1,3 +1,6 @@
+> 本文内容由[I\'ll be there \(嵐\)](https://zh.wikipedia.org/wiki/I\'ll_be_there_\(嵐\))转换而来。
+
+
 「**I'll be there**」是[嵐](../Page/嵐.md "wikilink")的第51張單曲。於2017年4月19日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

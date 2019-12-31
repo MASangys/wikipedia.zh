@@ -1,3 +1,6 @@
+> 本文内容由[Masson三色染色法](https://zh.wikipedia.org/wiki/Masson三色染色法)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Masson's_Trichrome_Stain_\(Rat_Airway_Section\).jpg "fig:缩略图")被染成蓝色，[细胞核被染为紫色](https://zh.wikipedia.org/wiki/细胞核 "wikilink")，而[細胞質则被染为粉红色](https://zh.wikipedia.org/wiki/細胞質 "wikilink")\]\] [缩略图](https://zh.wikipedia.org/wiki/File:SkinTS.jpg "fig:缩略图")
 
 **马森三色染色法**（Masson's trichrome stain），是一种用于[组织学](../Page/组织学.md "wikilink")的染色方法。从（1880–1959年）的原始配方开发而来的新配方具有不同的特定应用，但都适用于把[细胞](../Page/细胞.md "wikilink")从周围的结缔组织区分开。\[1\]

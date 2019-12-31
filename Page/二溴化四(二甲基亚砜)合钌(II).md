@@ -1,3 +1,6 @@
+> 本文内容由[二溴化四\(二甲基亚砜\)合钌\(II\)](https://zh.wikipedia.org/wiki/二溴化四\(二甲基亚砜\)合钌\(II\))转换而来。
+
+
 **二溴化四(二甲基亚砜)合钌(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为\[RuBr<sub>2</sub>(DMSO)<sub>4</sub>\]，其中DMSO为[二甲基亚砜](https://zh.wikipedia.org/wiki/二甲基亚砜 "wikilink")。
 
 ## 制备与结构

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Catalog lookup link](https://zh.wikipedia.org/wiki/模块:Catalog_lookup_link)转换而来。
+
+
 \--\[\[ |1=, |2=, |3=, |4=, |5=, |6=, |7=, |8=, |9=: Optional unnamed parameters for 0 to 9 items to be listed.
 
 `   Whitespace is trimmed off both ends and the strings are urlencoded as if they were query strings.`

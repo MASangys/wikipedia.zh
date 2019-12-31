@@ -1,3 +1,6 @@
+> 本文内容由[Emoji域名](https://zh.wikipedia.org/wiki/Emoji域名)转换而来。
+
+
 **emoji域名**是指含有[emoji的](https://zh.wikipedia.org/wiki/emoji "wikilink")[域名](../Page/域名.md "wikilink")。这类域名因为包含emoji这一类非[ASCII](../Page/ASCII.md "wikilink")字符，故属于[国际化域名](../Page/国际化域名.md "wikilink")，和常规的仅由[英文字母](../Page/英文字母.md "wikilink")、[数字和](https://zh.wikipedia.org/wiki/数字 "wikilink")[连字符构成的域名比起来](https://zh.wikipedia.org/wiki/连字符 "wikilink")，emoji域名并不常用。
 
 ## 原理

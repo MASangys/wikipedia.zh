@@ -1,3 +1,6 @@
+> 本文内容由[Draft:So help me God](https://zh.wikipedia.org/wiki/Draft:So_help_me_God)转换而来。
+
+
 **So help me God**是常用於[誓词中的一個](https://zh.wikipedia.org/wiki/誓词 "wikilink")[詞組](https://zh.wikipedia.org/wiki/詞組 "wikilink")，最常見於[就職宣誓](../Page/就職宣誓.md "wikilink")中。這個詞組也用在某些[司法管轄區作為宣誓等形式的公共責任](../Page/司法管轄權.md "wikilink")，如在法庭上露面，服務為陪審員等形式 It is also used in some jurisdictions as a form of oath for other forms of public duty, such as an appearance in court, service as a juror, etc.。中文可略譯為「願上帝幫助我」。
 
 The essence of the phrase is to emphasize that one means what one is saying or has said.\[1\] It therefore implies greater care than usual in the act of the performance of one's duty, such as in testimony to the facts of the matter in a court of law.

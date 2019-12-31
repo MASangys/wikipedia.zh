@@ -1,3 +1,6 @@
+> 本文内容由[Iamus \(電腦\)](https://zh.wikipedia.org/wiki/Iamus_\(電腦\))转换而来。
+
+
 [Iamus.jpg](https://zh.wikipedia.org/wiki/File:Iamus.jpg "fig:Iamus.jpg") [00-Iamus_Opus1.pdf](https://zh.wikipedia.org/wiki/File:00-Iamus_Opus1.pdf "fig:00-Iamus_Opus1.pdf") [Opus_One_audio.flac](https://zh.wikipedia.org/wiki/File:Opus_One_audio.flac "fig:Opus_One_audio.flac") [Hello_World_audio.flac](https://zh.wikipedia.org/wiki/File:Hello_World_audio.flac "fig:Hello_World_audio.flac")
 
 **Iamus**是位於[馬拉加大學的](https://zh.wikipedia.org/wiki/馬拉加大學 "wikilink")[電腦叢集](https://zh.wikipedia.org/wiki/電腦叢集 "wikilink")（一個裝在制定外殼中的半型機櫃）。由[Melomics](../Page/Melomics.md "wikilink")的技術提供支持，Iamus的合成[模塊需要](https://zh.wikipedia.org/wiki/模組_\(程式設計\) "wikilink")8分鐘來完整創建不同音樂格式，儘管整個系統可以在不到一秒（平均）的時間內獲得本機表示。其僅能創作完整的[當代古典音樂作品](https://zh.wikipedia.org/wiki/當代古典音樂 "wikilink")\[1\]。

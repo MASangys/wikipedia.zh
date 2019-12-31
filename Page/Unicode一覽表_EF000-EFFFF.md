@@ -1,3 +1,6 @@
+> 本文内容由[Unicode一覽表 EF000-EFFFF](https://zh.wikipedia.org/wiki/Unicode一覽表_EF000-EFFFF)转换而来。
+
+
 |                  |
 | ---------------- |
 | *未分配／Unassigned* |

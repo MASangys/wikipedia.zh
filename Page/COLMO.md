@@ -1,3 +1,6 @@
+> 本文内容由[COLMO](https://zh.wikipedia.org/wiki/COLMO)转换而来。
+
+
 **COLMO**是[美的集团旗下的](https://zh.wikipedia.org/wiki/美的集团 "wikilink")[AI科技](../Page/人工智能.md "wikilink")\[1\]家电高端品牌\[2\]，涵盖[冰箱](../Page/冰箱.md "wikilink")、[吸油烟机](../Page/吸油烟机.md "wikilink")、[洗衣机](https://zh.wikipedia.org/wiki/洗衣机 "wikilink")、[电饭煲](../Page/电饭煲.md "wikilink")、[洗碗机以及](https://zh.wikipedia.org/wiki/洗碗机 "wikilink")[燃气灶等家电品类](https://zh.wikipedia.org/wiki/燃气灶 "wikilink")\[3\]。
 
 2018年10月19日，COLMO品牌在[欧洲](../Page/欧洲.md "wikilink")[勃朗峰](../Page/勃朗峰.md "wikilink")全球首发。\[4\]

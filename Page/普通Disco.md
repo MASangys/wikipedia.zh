@@ -1,3 +1,6 @@
+> 本文内容由[普通Disco](https://zh.wikipedia.org/wiki/普通Disco)转换而来。
+
+
 《**普通Disco**》是生于1993年\[1\]的[up主](https://zh.wikipedia.org/wiki/up主 "wikilink")[ilem于](https://zh.wikipedia.org/wiki/ilem "wikilink")2015年3月21日在[bilibili发布的一首原创中文](https://zh.wikipedia.org/wiki/bilibili "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲\[2\]\[3\]，使用了[洛天依](../Page/洛天依.md "wikilink")和[言和](../Page/言和.md "wikilink")这两个虚拟女性歌手软件\[4\]。此歌曲已成为“VOCALOID传说曲”（播放量超过100万）\[5\]。多家媒体提及此歌曲时都称其为“[二次元神曲](https://zh.wikipedia.org/wiki/二次元 "wikilink")”\[6\]\[7\]\[8\]\[9\]\[10\]。
 
 ## 表演

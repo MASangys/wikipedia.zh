@@ -1,3 +1,6 @@
+> 本文内容由[MRC-5細胞](https://zh.wikipedia.org/wiki/MRC-5細胞)转换而来。
+
+
 [MERS_Coronavirus_Particles_(14702511068).jpg](https://zh.wikipedia.org/wiki/File:MERS_Coronavirus_Particles_\(14702511068\).jpg "fig:MERS_Coronavirus_Particles_(14702511068).jpg")的MRC-5細胞的[內質網腔中](https://zh.wikipedia.org/wiki/內質網 "wikilink")，發現[中東呼吸綜合症](../Page/中東呼吸綜合症.md "wikilink")[冠狀病毒顆粒](https://zh.wikipedia.org/wiki/冠狀病毒 "wikilink")。\]\]
 
 **MRC-5**（全稱[英國醫學研究委員會](../Page/英國醫學研究委員會.md "wikilink")細胞株5、Medical Research Council cell strain-5）是由[成纖維細胞組成的](https://zh.wikipedia.org/wiki/成纖維細胞 "wikilink")[二倍體](../Page/染色體倍性.md "wikilink")[人類](../Page/人類.md "wikilink")細胞系，該成纖維細胞來自於一個14週齡[流產的](https://zh.wikipedia.org/wiki/流產 "wikilink")[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")[胎兒的](https://zh.wikipedia.org/wiki/胎兒 "wikilink")[肺](../Page/肺.md "wikilink")部[組織](https://zh.wikipedia.org/wiki/組織_\(生物學\) "wikilink")，胞體呈單一梭形。1966年9月，[研究](../Page/研究.md "wikilink")人員從原始菌株的第7代增殖分裂中，分離出了該細胞系，並且已知MRC-5[細胞在約](https://zh.wikipedia.org/wiki/細胞 "wikilink")42至46代的[增殖分裂中](https://zh.wikipedia.org/wiki/細胞分化 "wikilink")，就會達到衰老\[1\]\[2\]。在[過氧化氫的體外誘導下](https://zh.wikipedia.org/wiki/過氧化氫 "wikilink")，MRC-5細胞會出現早熟性衰老。MRC-5細胞可用於生產幾種[疫苗](../Page/疫苗.md "wikilink")，包括[麻疹腮腺炎德國麻疹混合疫苗](../Page/麻疹腮腺炎德國麻疹混合疫苗.md "wikilink")、[水痘疫苗](../Page/水痘疫苗.md "wikilink")和[脊髓灰質炎疫苗](../Page/脊髓灰質炎疫苗.md "wikilink")等。

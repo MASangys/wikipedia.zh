@@ -1,3 +1,6 @@
+> 本文内容由[AAX](https://zh.wikipedia.org/wiki/AAX)转换而来。
+
+
 AAX（全稱：Atom Asset Exchange）是一家數字貨幣[交易所](https://zh.wikipedia.org/wiki/交易所 "wikilink")，總部設於[馬耳他](../Page/香港.md "wikilink")，其技術夥伴為[倫敦證券交易所集團](../Page/倫敦證券交易所集團.md "wikilink")\[1\]。它是全球首家採用倫敦證券交易所集團的Millennium交易平台撮合引擎的數字貨幣交易所\[2\]，同時為首家加入倫敦證券交易所集團合作伙伴平台的交易所\[3\]。
 
 ## 歷史

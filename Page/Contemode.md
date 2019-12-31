@@ -1,3 +1,6 @@
+> 本文内容由[Contemode](https://zh.wikipedia.org/wiki/Contemode)转换而来。
+
+
 contemode，是由日本音乐制作人/DJ-[中田康贵在](https://zh.wikipedia.org/wiki/中田康贵 "wikilink")2003年所创立的唱片公司，隶属于雅马哈音乐公司（YAMAHA MUSIC COMMUNICATIONS）。由Avex Trax负责担任发行。在该厂牌旗下的所有艺人都全部由[中田康贵提供音乐制作](https://zh.wikipedia.org/wiki/中田康贵 "wikilink")/混音。
 2013年8月3日起，因[中田康贵移籍至](https://zh.wikipedia.org/wiki/中田康贵 "wikilink")[华纳音乐/unBORDE](https://zh.wikipedia.org/wiki/日本华纳音乐 "wikilink")，contemode以关停网站的方式宣告正式停止运营。
 

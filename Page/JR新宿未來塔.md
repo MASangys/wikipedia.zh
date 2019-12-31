@@ -1,3 +1,6 @@
+> 本文内容由[JR新宿未來塔](https://zh.wikipedia.org/wiki/JR新宿未來塔)转换而来。
+
+
 **JR新宿未來塔**（，）是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")[新宿](../Page/新宿.md "wikilink")四丁目和[澀谷區](../Page/澀谷區.md "wikilink")[千駄谷](../Page/千駄谷.md "wikilink")五丁目交界處的一座綜合商業設施。JR新宿未來塔是一座修建在[新宿站舊新南口車站用地和鐵路路線上人工地盤的大樓](https://zh.wikipedia.org/wiki/新宿站 "wikilink")，內有辦公樓、商業設施、文化等設施，開業於2016年3月25日\[1\]。JR新宿未來塔最初的修建目的之一是解決[甲州街道](../Page/甲州街道.md "wikilink")跨線橋老化的問題。
 
 ## 參考文獻

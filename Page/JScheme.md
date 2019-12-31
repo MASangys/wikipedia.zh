@@ -1,3 +1,6 @@
+> 本文内容由[JScheme](https://zh.wikipedia.org/wiki/JScheme)转换而来。
+
+
 **JScheme**，是Scheme[编程语言](../Page/编程语言.md "wikilink")的一个变体，由[彼德·諾米格](../Page/彼德·諾米格.md "wikilink")、蒂莫西·J·希基（Timothy J. Hickey）和肯·安德森（Ken Anderson）共同开发。
 
 ## 兼容性

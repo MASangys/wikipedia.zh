@@ -1,3 +1,6 @@
+> 本文内容由[摩尼教抄本殘頁 MIK III 4974](https://zh.wikipedia.org/wiki/摩尼教抄本殘頁_MIK_III_4974)转换而来。
+
+
 **摩尼教抄本殘頁編號「 4974」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）是一張收藏於德國[柏林亞洲藝術博物館的](https://zh.wikipedia.org/wiki/亞洲藝術博物館_\(柏林\) "wikilink")[摩尼教](../Page/摩尼教.md "wikilink")[泥金裝飾手抄本](../Page/泥金裝飾手抄本.md "wikilink")殘頁斷片，繪製於公元10世紀，20世紀初被[德國吐魯番考察隊](../Page/德國吐魯番考察隊.md "wikilink")發現於新疆[高昌故城](https://zh.wikipedia.org/wiki/高昌故城 "wikilink")。殘頁長7.9釐米、寬15.5釐米，正面中心位置繪製插圖一幅，上書以[摩尼字母](../Page/摩尼字母.md "wikilink")寫成的[中古波斯語](https://zh.wikipedia.org/wiki/中古波斯語 "wikilink")經文，表明這張殘頁原是屬於一本摩尼教。
 
 ## 圖像解析

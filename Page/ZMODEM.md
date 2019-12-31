@@ -1,3 +1,6 @@
+> 本文内容由[ZMODEM](https://zh.wikipedia.org/wiki/ZMODEM)转换而来。
+
+
 **ZMODEM**是由Chuck Forsberg于1986年在由Telenet资助的[项目中开发的文件传输协议](https://zh.wikipedia.org/wiki/项目 "wikilink") ，用于改进其[X.25](../Page/X.25.md "wikilink")网络上的文件传输。 除了与旧协议相比显着提高的性能外，ZMODEM还提供可重新启动的传输，发送器自动启动，扩展的32位[CRC以及支持](../Page/循環冗餘校驗.md "wikilink")8位干净传输的[控制字符引用](../Page/转义字符.md "wikilink") ，支持无法传输控制字符的网络。 20世纪90年代初，ZMODEM在[公告板系统](../Page/BBS.md "wikilink") （BBS）上变得非常流行，取代了早期的协议，如XMODEM和YMODEM 。
 
 ## 改进

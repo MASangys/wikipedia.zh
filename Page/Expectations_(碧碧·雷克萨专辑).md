@@ -1,3 +1,6 @@
+> 本文内容由[Expectations \(碧碧·雷克萨专辑\)](https://zh.wikipedia.org/wiki/Expectations_\(碧碧·雷克萨专辑\))转换而来。
+
+
 </ref> | length =  | label = [華納兄弟](../Page/華納兄弟唱片公司.md "wikilink") | producer =
 
   - 路易·貝爾

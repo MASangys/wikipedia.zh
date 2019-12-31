@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Cognitive Toolkit](https://zh.wikipedia.org/wiki/Microsoft_Cognitive_Toolkit)转换而来。
+
+
 **Microsoft Cognitive Toolkit**（微软认知工具包），前称**CNTK**，是一个由[微軟研究院](../Page/微軟研究院.md "wikilink")开发的[深度学习](../Page/深度学习.md "wikilink")[框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")。Microsoft Cognitive Toolkit通过有向图将神经网络变化为一系列计算步骤。\[1\]
 
 ## 参见

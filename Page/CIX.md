@@ -1,3 +1,6 @@
+> 本文内容由[CIX](https://zh.wikipedia.org/wiki/CIX)转换而来。
+
+
 **CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、[龍熙](https://zh.wikipedia.org/wiki/金龍熙 "wikilink")、[珍映及](../Page/裵珍映.md "wikilink")[炫晳](https://zh.wikipedia.org/wiki/尹炫晳 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
 
 團體口號為：「In X\!大家好，我們是CIX。」(In X\!안녕하세요 씨아이엑스 입니다.)官方粉絲名為「FIX(픽스)」，有「Faith in X」的意思。

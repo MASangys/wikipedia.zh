@@ -1,3 +1,6 @@
+> 本文内容由[Draft:MiffyLee88/沙盒](https://zh.wikipedia.org/wiki/Draft:MiffyLee88/沙盒)转换而来。
+
+
 **微程式資訊股份有限公司**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Microprogram Information Co.,Ltd**)，成立於 1995 年 12 月 4 日，為一家科技服務公司。該公司主要提供產業升級所需[物聯網相關](https://zh.wikipedia.org/wiki/IoT "wikilink")[一條龍](../Page/一條龍.md "wikilink")應用技術服務，自初期與合作夥伴商業策略開發，並提供[電子支付](https://zh.wikipedia.org/wiki/電子支付 "wikilink")、[無線感測與](../Page/無線感測網路.md "wikilink")[雲端數據等核心技術協助產業軟硬體系統整合](../Page/雲端運算.md "wikilink")，到最後產品成形後維運客製化的整合服務。現階段其配合產業範疇涵蓋交通業、製造業、醫療業、零售業、教育業及企業等不同產業，其中 [YouBike微笑單車](../Page/YouBike微笑單車.md "wikilink")\[1\]系統設計為該公司最著名的合作案。
 
 ## 歷史

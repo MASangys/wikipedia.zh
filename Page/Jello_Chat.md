@@ -1,3 +1,6 @@
+> 本文内容由[Jello Chat](https://zh.wikipedia.org/wiki/Jello_Chat)转换而来。
+
+
 **Jello**，是一款全球通用的[通訊軟體](https://zh.wikipedia.org/wiki/通訊軟體 "wikilink")，以免費通話傳訊、高隱私、無痕、塗鴉、自製[貼圖](../Page/貼圖.md "wikilink")/[GIF](../Page/GIF.md "wikilink")、串連[街口電子支付](../Page/街口電子支付.md "wikilink")轉帳/發紅包為產品特色。 Jello 自2019年1月31日起交由街口接管營運，隸屬於[街口網絡股份有限公司](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")。
 
 **Jello**於2019年12月請到韓國女團[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潤娥擔任品牌代言人](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。\[1\] [潤娥除了為Jello拍攝廣告以外](https://zh.wikipedia.org/wiki/潤娥 "wikilink")，將會於12月13日的品牌代言人記者會親自分享Jello的使用心得，品牌當天亦邀請40位粉絲入場，近距離感受潤娥的女神魅力。\[2\]\[3\]\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[Tumblin\' dice](https://zh.wikipedia.org/wiki/Tumblin\'_dice)转换而来。
+
+
 《**tumblin' dice**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第11張單曲。
 
 ## 說明

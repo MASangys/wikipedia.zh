@@ -1,3 +1,6 @@
+> 本文内容由[GEMMA](https://zh.wikipedia.org/wiki/GEMMA)转换而来。
+
+
 《**GEMMA**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[吳映潔（鬼鬼）的首張迷你專輯](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")，亦是出道以來的首張個人音樂專輯，於2016年10月7日正式發行。2016年簽約韓國經紀公司[CJ E\&M](../Page/CJ_E&M.md "wikilink")，並以藝名「GEMMA」在韓國出道。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[六氟合钨\(V\)酸锂](https://zh.wikipedia.org/wiki/六氟合钨\(V\)酸锂)转换而来。
+
+
 **六氟合钨(V)酸锂**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为LiWF<sub>6</sub>。
 
 ## 制备及结构

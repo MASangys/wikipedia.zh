@@ -1,3 +1,6 @@
+> 本文内容由[K子彈](https://zh.wikipedia.org/wiki/K子彈)转换而来。
+
+
 [K_Bullet.JPG](https://zh.wikipedia.org/wiki/File:K_Bullet.JPG "fig:K_Bullet.JPG")K子彈。\]\] [SMKLspur(gelb).JPG](https://zh.wikipedia.org/wiki/File:SMKLspur\(gelb\).JPG "fig:SMKLspur(gelb).JPG")
 
 **K子彈**是一款採用[工具鋼彈芯的](https://zh.wikipedia.org/wiki/工具鋼 "wikilink")[7.92×57毫米反坦克步槍彈](../Page/7.92×57毫米毛瑟彈.md "wikilink")。它被設計成主要在7.92毫米口徑的標準型[毛瑟](../Page/毛瑟.md "wikilink")步槍上發射。在[第一次世界大戰期間](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，它曾被[德國陸軍士兵用於對付](../Page/德意志帝國陸軍.md "wikilink")[英軍的](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[Mark I 坦克](../Page/Mark_I_坦克.md "wikilink")。平均而言，K子彈於100米的距離內，有三分之一的機會可擊穿12–13 mm厚的裝甲。 在1917年6月的[梅森戰役中](https://zh.wikipedia.org/wiki/梅森戰役（1917年） "wikilink")，K子彈也曾被用於對付當時首次被[英軍使用](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")，擁有更厚重裝甲的[Mark IV 坦克](https://zh.wikipedia.org/wiki/Mark_IV_坦克 "wikilink")。\[1\]

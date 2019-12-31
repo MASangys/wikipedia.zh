@@ -1,3 +1,6 @@
+> 本文内容由[The Birthday](https://zh.wikipedia.org/wiki/The_Birthday)转换而来。
+
+
 **The Birthday**是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，2006年结成。为[日本环球音乐旗下艺人](https://zh.wikipedia.org/wiki/日本环球音乐 "wikilink")。
 
 ## 成员

@@ -1,3 +1,6 @@
+> 本文内容由[ZIPAIR Tokyo](https://zh.wikipedia.org/wiki/ZIPAIR_Tokyo)转换而来。
+
+
 **ZIPAIR Tokyo**（）是[日本](../Page/日本.md "wikilink")的一家正在設立的航空公司。
 
 2018年5月14日，[日本航空](../Page/日本航空.md "wikilink")（JAL）表示將設立運行中長距離國際航線的[廉價航空公司](https://zh.wikipedia.org/wiki/廉價航空公司 "wikilink")\[1\]。7月31日，該公司暫時名為TBL\[2\]。

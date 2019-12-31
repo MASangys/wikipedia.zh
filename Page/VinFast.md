@@ -1,3 +1,6 @@
+> 本文内容由[VinFast](https://zh.wikipedia.org/wiki/VinFast)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Vinfast_Lux_A_2.0,_Paris_Motor_Show_2018,_IMG_0674.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Vinfast_Lux_SA_2.0,_Paris_Motor_Show_2018,_IMG_0671.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Newone_-_VinFast_Fadil_red_back.jpg "fig:缩略图") **越快**（VinFast）是越南汽车制造公司，成立于2017年。其总部位于河内，工厂位于[海防市](../Page/海防市.md "wikilink")的[葛海岛](../Page/葛海县.md "wikilink")。\[1\]\[2\]\[3\]
 
 Vinfast同麦格纳斯泰尔汽车公司（Magna Steyr）和李斯特内燃机及测试设备公司（AVL）签署了合作协议。 VinFast和意大利宾尼法利纳汽车设计合同已经履行完毕，VinFast从BMW买下其专利。

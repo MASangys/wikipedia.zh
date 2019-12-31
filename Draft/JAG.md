@@ -1,3 +1,6 @@
+> 本文内容由[Draft:JAG](https://zh.wikipedia.org/wiki/Draft:JAG)转换而来。
+
+
 **JAG** or **Jag** may refer to:
 
 ## Military 軍用

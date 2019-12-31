@@ -1,3 +1,6 @@
+> 本文内容由[Love Dramatic feat. 伊原六花](https://zh.wikipedia.org/wiki/Love_Dramatic_feat._伊原六花)转换而来。
+
+
 《**Love Dramatic**》（）是日本歌手的第39張單曲，於2019年2月27日由[日本史詩唱片發售](https://zh.wikipedia.org/wiki/日本史詩唱片 "wikilink")\[1\]。同名[標題曲則於該年](../Page/A面與B面.md "wikilink")2月16日先行透過數碼音樂下載方式發售\[2\]。
 
 ## 概要

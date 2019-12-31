@@ -1,3 +1,6 @@
+> 本文内容由[Open Broadcaster Software](https://zh.wikipedia.org/wiki/Open_Broadcaster_Software)转换而来。
+
+
 **Open Broadcaster Software**（**OBS**）是一個由OBS Project開發的[自由开源的跨平台串流媒體和錄影程式](../Page/自由及开放源代码软件.md "wikilink")。該程式支援[Windows 7和更新版本](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，[MacOS](../Page/MacOS.md "wikilink") 10.10和更新版本，以及[Ubuntu](../Page/Ubuntu.md "wikilink") 14.04和更新版本。
 
 ## 概述

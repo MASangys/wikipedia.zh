@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-7](https://zh.wikipedia.org/wiki/联盟TMA-7)转换而来。
+
+
 **联盟TMA-7**（）是俄罗斯[联盟计划](../Page/联盟计划.md "wikilink")中[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")的第94次飞行，本次任务将两名远征12任务宇航员和一名太空游客送往国际空间站。其中，俄罗斯宇航员[瓦列里·托卡列夫](../Page/瓦列里·托卡列夫.md "wikilink")是指令长，美国宇航员[威廉·麦克阿瑟是飞行工程师](https://zh.wikipedia.org/wiki/威廉·麦克阿瑟 "wikilink")，美国企业家[格雷戈里·奥尔森是太空游客](https://zh.wikipedia.org/wiki/格雷戈里·奥尔森 "wikilink")\[1\]。
 
 ## 乘员

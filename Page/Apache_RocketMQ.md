@@ -1,3 +1,6 @@
+> 本文内容由[Apache RocketMQ](https://zh.wikipedia.org/wiki/Apache_RocketMQ)转换而来。
+
+
 **RocketMQ**\[1\]是一个分布式消息和流数据平台，具有低延迟、高性能、高可靠性、万亿级容量和灵活的可扩展性。RocketMQ是2012年[阿里巴巴开源的第三代分布式消息中间件](../Page/阿里巴巴集团.md "wikilink")，2016年11月21日，阿里巴巴向[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")捐赠了RocketMQ；第二年2月20日，Apache软件基金会宣布Apache RocketMQ成为顶级项目。
 
 ## 历史

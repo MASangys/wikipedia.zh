@@ -1,3 +1,6 @@
+> 本文内容由[THE T BIRD](https://zh.wikipedia.org/wiki/THE_T_BIRD)转换而来。
+
+
 **The T BIRD**（），是OD娛樂於2019年推出的五人男子组合\[1\]，成員包括Younghan ()、Donguk()、Taeoh ()、Seokjune ()及Nara ()。
 
 ## 成員資料

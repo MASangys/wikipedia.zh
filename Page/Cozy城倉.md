@@ -1,3 +1,6 @@
+> 本文内容由[Cozy城倉](https://zh.wikipedia.org/wiki/Cozy城倉)转换而来。
+
+
 **Cozy城倉**（，），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[漫畫原作者](https://zh.wikipedia.org/wiki/漫畫原作者 "wikilink")。出身於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")。當初筆名「**♡城倉**（<small></small>）」（《》連載開始時未使用「♡」）。負責漫畫原作時筆名「**森高夕次**（<small></small>）」。
 
 代表作有《》、《》及《》，及擔當漫畫原作的《[錢進球場](../Page/錢進球場.md "wikilink")》、《》。

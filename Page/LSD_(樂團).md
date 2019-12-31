@@ -1,3 +1,6 @@
+> 本文内容由[LSD \(樂團\)](https://zh.wikipedia.org/wiki/LSD_\(樂團\))转换而来。
+
+
 **LSD**是由英國音樂家[迷走小子](https://zh.wikipedia.org/wiki/迷走小子 "wikilink")、澳洲歌手[希雅和美國製作人](https://zh.wikipedia.org/wiki/希雅 "wikilink")[迪波洛](../Page/迪波洛.md "wikilink")組成的[超級樂團](https://zh.wikipedia.org/wiki/超級樂團 "wikilink")。\[1\] 樂團至今已經發行了5張 (加上1張混音)單曲，並全部收錄於迷你專輯《有你就足夠》（），於[Spotify](../Page/Spotify.md "wikilink")上發行於2019年3月12日。\[2\] 他們於3月11日宣布他們的首張專輯將於4月12日發行。
 
 ## 歷程

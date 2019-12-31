@@ -1,3 +1,6 @@
+> 本文内容由[RPA苗文](https://zh.wikipedia.org/wiki/RPA苗文)转换而来。
+
+
 **RPA苗文**（白苗语：Ntawv Hmoob ；），又称国际苗文\[1\]，是一套使用[拉丁字母](../Page/拉丁字母.md "wikilink")来记录白苗语与青苗语（属[苗语](https://zh.wikipedia.org/wiki/苗语 "wikilink")[川黔滇次方言](../Page/苗语川黔滇次方言.md "wikilink")）的[全音素文字](../Page/全音素文字.md "wikilink")，由三位传教士于1951至1953年间创制。
 
 ## 历史

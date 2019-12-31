@@ -1,3 +1,6 @@
+> 本文内容由[KulturNav](https://zh.wikipedia.org/wiki/KulturNav)转换而来。
+
+
 **KulturNav**是一个在[挪威](../Page/挪威.md "wikilink")发起的基于[云计算的](https://zh.wikipedia.org/wiki/云计算 "wikilink")[软件](../Page/软件.md "wikilink")服务，用户可以创建，管理和分配[命名规范和术语](https://zh.wikipedia.org/wiki/规范控制 "wikilink")。该服务专注于[博物馆](../Page/博物馆.md "wikilink")和其他[文化遗产](../Page/文化遗产.md "wikilink")机构的需求\[1\]。软件由发起，KulturIT ANS开发\[2\]。
 
 KulturNav旨在加强对档案馆，图书馆和博物馆中遗产信息的访问，使用共同的[元数据](../Page/元数据.md "wikilink")在各机构之间工作。因此，许多机构可以合作建立标准命名和术语列表\[3\]。元数据作为链接的开放数据（LOD）发布，可以与其他LOD资源进一步链接\[4\]。[应用程序编程接口](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")（API）当前支持[HTTP GET请求以读取数据](https://zh.wikipedia.org/wiki/HTTP#请求方法 "wikilink")。API调用目前尚未经过身份验证或授权，这意味着系统只返回任何用户可读的已发布内容\[5\]。该系统是在[Play Framework中使用](../Page/Play_Framework.md "wikilink")[Solr](../Page/Solr.md "wikilink")和[jQuery一起开发的](https://zh.wikipedia.org/wiki/jQuery "wikilink")\[6\]。

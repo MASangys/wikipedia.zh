@@ -1,3 +1,6 @@
+> 本文内容由[Find The Answer](https://zh.wikipedia.org/wiki/Find_The_Answer)转换而来。
+
+
 「**Find The Answer**」是[嵐](../Page/嵐.md "wikilink")的第54張單曲。於2018年2月21日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

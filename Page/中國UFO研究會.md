@@ -1,3 +1,6 @@
+> 本文内容由[中國UFO研究會](https://zh.wikipedia.org/wiki/中國UFO研究會)转换而来。
+
+
 **中國UFO研究會**（英文縮寫：CURO）是一個[中國的](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[不明飛行物研究組織](https://zh.wikipedia.org/wiki/不明飛行物 "wikilink")，1979年於[武漢大學成立](https://zh.wikipedia.org/wiki/武漢大學 "wikilink")，1997年9月解散。為中國首個民間UFO组织\[1\]。
 
 ## 歷史

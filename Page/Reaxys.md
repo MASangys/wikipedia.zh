@@ -1,3 +1,6 @@
+> 本文内容由[Reaxys](https://zh.wikipedia.org/wiki/Reaxys)转换而来。
+
+
 **Reaxys**是2009年1月由[爱思唯尔公司推出的化学数值与事实网络](https://zh.wikipedia.org/wiki/爱思唯尔 "wikilink")[数据库](../Page/数据库.md "wikilink")。它将著名的[拜耳斯坦数据库](../Page/拜耳斯坦数据库.md "wikilink")、[盖墨林数据库和专利化学数据库](https://zh.wikipedia.org/wiki/盖墨林数据库 "wikilink")（Patent Chemistry）的内容整合在一个平台下，包含超过2800多万反应、1800多万物质、400多万文献，每年都在不断增加。
 
 2011年在[中国大陆](../Page/中国大陆.md "wikilink")开通使用。

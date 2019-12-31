@@ -1,3 +1,6 @@
+> 本文内容由[BYE BYE](https://zh.wikipedia.org/wiki/BYE_BYE)转换而来。
+
+
 《**BYE BYE**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第6张单曲，于2017年8月2日发行。
 
 ## 简介

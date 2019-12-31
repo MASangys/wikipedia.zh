@@ -1,3 +1,6 @@
+> 本文内容由[Rance X -決戰-](https://zh.wikipedia.org/wiki/Rance_X_-決戰-)转换而来。
+
+
 是[ALICESOFT](../Page/ALICESOFT.md "wikilink")在2018年2月23日發售的[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，[蘭斯系列](../Page/蘭斯系列.md "wikilink")的最終作。\[1\]
 
 ## 系統

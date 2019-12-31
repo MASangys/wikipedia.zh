@@ -1,3 +1,6 @@
+> 本文内容由[D1CE](https://zh.wikipedia.org/wiki/D1CE)转换而来。
+
+
 **D1CE**（韓語：**디원스**），讀法是D-ONCE，由108個國家，10805位人們投票選出的名字， 以Dice和具有領導者意思的The one’s組合成。是韓國[Happy Face娛樂於](../Page/Happy_Face娛樂.md "wikilink")2019年推出的五人男子團體\[1\]，成員包括曹勇根、金賢洙、鄭游寯、朴優啿及禹眞榮。
 
 ## 團體資料

@@ -1,3 +1,6 @@
+> 本文内容由[Double Commander](https://zh.wikipedia.org/wiki/Double_Commander)转换而来。
+
+
 **Double Commander** 是一個[開源免費](../Page/开源软件.md "wikilink")，支援多平台的雙面板[檔案管理器](https://zh.wikipedia.org/wiki/檔案管理器 "wikilink")。
 
 ## 功能

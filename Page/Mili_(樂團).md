@@ -1,3 +1,6 @@
+> 本文内容由[Mili \(樂團\)](https://zh.wikipedia.org/wiki/Mili_\(樂團\))转换而来。
+
+
 **Mili**是一个来自[日本](../Page/日本.md "wikilink")的独立音乐团体，成立于2012年8月，现由Cassie Wei(momocashew)，Yamato Kasai，Yukihito Mitomo，Shoto Yoshida，Ame Yamaguchi和Ao Fujimori六人组成。\[1\]
 
 Mili主张突破传统音乐风格的束缚，大胆地将[电子古典音乐](https://zh.wikipedia.org/wiki/电子古典音乐 "wikilink")，[当代古典音乐](../Page/当代古典音乐.md "wikilink")和[后古典音乐等不同风格的音乐融入他们的作品中](https://zh.wikipedia.org/wiki/后古典音乐 "wikilink")。其作品不仅限于[日语](../Page/日语.md "wikilink")歌曲，还包括[英语](../Page/英语.md "wikilink")、[法语](../Page/法语.md "wikilink")和[中文歌曲](https://zh.wikipedia.org/wiki/中文 "wikilink")。

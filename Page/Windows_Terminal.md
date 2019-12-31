@@ -1,3 +1,6 @@
+> 本文内容由[Windows Terminal](https://zh.wikipedia.org/wiki/Windows_Terminal)转换而来。
+
+
 [Windows_Terminal_0.4_screenshot.png](https://zh.wikipedia.org/wiki/File:Windows_Terminal_0.4_screenshot.png "fig:Windows_Terminal_0.4_screenshot.png") **Windows Terminal**（[Windows终端](https://zh.wikipedia.org/wiki/Windows "wikilink")）是[微软公司于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[西雅图开幕的](../Page/西雅圖.md "wikilink")[Build 2019大会上所公布的面向](https://zh.wikipedia.org/wiki/Build_2019 "wikilink")[Windows10的新](https://zh.wikipedia.org/wiki/Windows10 "wikilink")[命令行程序](https://zh.wikipedia.org/wiki/命令行程序 "wikilink")。用户可以通过[Microsoft应用商店安装](https://zh.wikipedia.org/wiki/Windows应用商店 "wikilink")，或从[Github下载源码自行编译安装](../Page/GitHub.md "wikilink")。这一程序把目前Windows上的[PowerShell](../Page/Windows_PowerShell.md "wikilink")、[CMD以及](../Page/命令提示字元.md "wikilink")[Windows Linux子系统](https://zh.wikipedia.org/wiki/Windows_Linux子系统 "wikilink")（WSL）三大环境实现了统一。\[1\]
 
 ## 系统要求

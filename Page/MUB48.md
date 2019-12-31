@@ -1,3 +1,6 @@
+> 本文内容由[MUB48](https://zh.wikipedia.org/wiki/MUB48)转换而来。
+
+
 **MUB48**為正在筹备中的以[印度](../Page/印度.md "wikilink")[孟買為活動據點的女子偶像團體](https://zh.wikipedia.org/wiki/孟買 "wikilink")，同時也是[日本偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的海外姐妹團\[1\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Luce Twinkle Wink☆](https://zh.wikipedia.org/wiki/Luce_Twinkle_Wink☆)转换而来。
+
+
 **Luce Twinkle Wink☆**是來自日本的五人偶像團體，事務所為AquaLuna旗下的[ArcJewel](https://zh.wikipedia.org/wiki/ArcJewel "wikilink")，唱片公司為[NBCUniversal](https://zh.wikipedia.org/wiki/NBCUniversal "wikilink")。
 
 ## 概要

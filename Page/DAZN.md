@@ -1,3 +1,6 @@
+> 本文内容由[DAZN](https://zh.wikipedia.org/wiki/DAZN)转换而来。
+
+
 **DAZN**（国际音标：）是一家总部位于[英国的跨国](https://zh.wikipedia.org/wiki/英国 "wikilink")[OTT服务](../Page/OTT服务.md "wikilink")提供商，主要提供体育赛事直播和[视频点播服务](https://zh.wikipedia.org/wiki/视频点播 "wikilink")。
 
 ## 简介

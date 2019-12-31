@@ -1,3 +1,6 @@
+> 本文内容由[Fantasy \(鄧麗欣專輯\)](https://zh.wikipedia.org/wiki/Fantasy_\(鄧麗欣專輯\))转换而来。
+
+
 《**Fantasy**》是[香港](../Page/香港.md "wikilink")女歌手[鄧麗欣](../Page/鄧麗欣.md "wikilink")的第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2006年3月28日由[金牌娛樂與](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")[百代唱片發行](../Page/百代唱片_\(香港\).md "wikilink")。專輯另於同年6月發行特別版。
 
 ## 解說

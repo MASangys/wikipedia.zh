@@ -1,3 +1,6 @@
+> 本文内容由[Arctur-1](https://zh.wikipedia.org/wiki/Arctur-1)转换而来。
+
+
 [Arctur-1_HPC.JPG](https://zh.wikipedia.org/wiki/File:Arctur-1_HPC.JPG "fig:Arctur-1_HPC.JPG")
 
 **Arctur-1**是位於[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")的[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")，用於技術密集產業與研究中，於2010年10月投入運營。於2017年被[Arctur-2](../Page/Arctur-2.md "wikilink")所取代。

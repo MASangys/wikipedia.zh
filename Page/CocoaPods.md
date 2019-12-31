@@ -1,3 +1,6 @@
+> 本文内容由[CocoaPods](https://zh.wikipedia.org/wiki/CocoaPods)转换而来。
+
+
 **CocoaPods** 是一[应用级别的依赖管理器](../Page/软件包管理系统.md "wikilink")，针对[Objective-C](../Page/Objective-C.md "wikilink")、[Swift](../Page/Swift.md "wikilink")和其他任一在Objective-C运行时上运行的语言，如[RubyMotion](https://zh.wikipedia.org/wiki/RubyMotion "wikilink")，\[1\] ，它为额外的[库的管理提供了标准的格式](https://zh.wikipedia.org/wiki/库 "wikilink")。CocoaPods由Eloy Durán与Fabio Pelosin开发，他们在其他许多研发人员的贡献与帮助下，继续管理着该项目，\[2\]他们在2011年8月时着手开发，\[3\]，并在2011年9月1日时编译了第一个公开版本。\[4\] CocoaPods受到[Ruby](../Page/Ruby.md "wikilink")项目[RubyGems](../Page/RubyGems.md "wikilink")与[Bundler的强烈启发](https://zh.wikipedia.org/wiki/Bundler_\(software\) "wikilink")。
 
 CocoaPods专注于第三方代码的基于源代码的分发和与Xcode项目的自动整合。

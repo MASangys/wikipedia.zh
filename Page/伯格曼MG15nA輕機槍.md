@@ -1,3 +1,6 @@
+> 本文内容由[伯格曼MG15nA輕機槍](https://zh.wikipedia.org/wiki/伯格曼MG15nA輕機槍)转换而来。
+
+
 **伯格曼MG 15**是1915年的MG 15 n.A.輕機槍在[第一次世界大戰期間的生產型號](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")。它使用100或200發的彈鏈供彈。此槍也裝有兩腳架以使射擊更精準。
 
 ## 使用國

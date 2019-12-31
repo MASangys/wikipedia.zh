@@ -1,3 +1,6 @@
+> 本文内容由[Pornsak Songsang](https://zh.wikipedia.org/wiki/Pornsak_Songsang)转换而来。
+
+
 **Pornsak Songsang**\[1\]（，） ，[泰国](../Page/泰国.md "wikilink")男[演员](https://zh.wikipedia.org/wiki/演员 "wikilink")、[歌手](../Page/歌手.md "wikilink")\[2\]\[3\]\[4\]
 
 ## 著名音樂作品

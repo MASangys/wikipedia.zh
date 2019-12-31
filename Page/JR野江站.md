@@ -1,3 +1,6 @@
+> 本文内容由[JR野江站](https://zh.wikipedia.org/wiki/JR野江站)转换而来。
+
+
 **JR野江站**（）是一個位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[城東區野江](../Page/城東區_\(大阪市\).md "wikilink")，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線](../Page/大阪東線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")\[1\]。車站編號是**JR-F06**。
 
 ## 歷史

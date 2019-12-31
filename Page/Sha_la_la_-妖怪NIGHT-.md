@@ -1,3 +1,6 @@
+> 本文内容由[Sha la la -妖怪NIGHT-](https://zh.wikipedia.org/wiki/Sha_la_la_-妖怪NIGHT-)转换而来。
+
+
 **Sha la la -妖怪NIGHT-**（）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[宇浦冴香](../Page/宇浦冴香.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

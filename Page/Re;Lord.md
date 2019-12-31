@@ -1,3 +1,6 @@
+> 本文内容由[Re\;Lord](https://zh.wikipedia.org/wiki/Re\;Lord)转换而来。
+
+
 《**Re;Lord**》是[Escu:de](../Page/Escu:de.md "wikilink")發售的[模擬類型](../Page/模擬遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。第一章《》於2014年6月27日發售\[1\]，第二章《》於2015年5月29日發售\[2\]，第三章《》於2017年7月28日發售。\[3\]
 
 ## 系統

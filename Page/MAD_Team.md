@@ -1,3 +1,6 @@
+> 本文内容由[MAD Team](https://zh.wikipedia.org/wiki/MAD_Team)转换而来。
+
+
 **MAD TEAM**（簡稱︰**MAD**，中文全名：**瘋狂電競俱樂部**）由藝人[余文樂](../Page/余文樂.md "wikilink")所創辦，是一支職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，現時為「瘋狂電競」旗下戰隊\[1\]。
 
 ## 簡介

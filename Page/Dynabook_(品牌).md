@@ -1,3 +1,6 @@
+> 本文内容由[Dynabook \(品牌\)](https://zh.wikipedia.org/wiki/Dynabook_\(品牌\))转换而来。
+
+
 **Dynabook**（、）是[夏普和](https://zh.wikipedia.org/wiki/夏普 "wikilink")[東芝的子公司](https://zh.wikipedia.org/wiki/東芝 "wikilink")，設立於1954年9月9日，在日本國內和海外開發、製造、銷售、支持和服務個人電腦和系統解決方案產品。
 
 ## 歷史

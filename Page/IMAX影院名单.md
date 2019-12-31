@@ -1,3 +1,6 @@
+> 本文内容由[IMAX影院名单](https://zh.wikipedia.org/wiki/IMAX影院名单)转换而来。
+
+
 这是一个[IMAX](../Page/IMAX.md "wikilink")影院列表，其中包括15/70 mm[电影放映机或带有](https://zh.wikipedia.org/wiki/电影放映机 "wikilink")[激光放映机的IMAX影院](https://zh.wikipedia.org/wiki/激光放映机 "wikilink"),不包括仅具有2K[分辨率](../Page/分辨率.md "wikilink")数字氙灯投影仪的IMAX影院。
 
 传统的15/70 mm IMAX影院使用70 mm胶片放映机，[胶片水平穿过放映机](https://zh.wikipedia.org/wiki/胶片 "wikilink")，每帧15个穿孔。使用两台放映机和线性[偏振眼镜或](https://zh.wikipedia.org/wiki/偏振眼镜 "wikilink")[LCD快门眼镜显示](https://zh.wikipedia.org/wiki/LCD "wikilink")[3D演示](https://zh.wikipedia.org/wiki/3D "wikilink")。这些电影能够显示高达1.43：1的[纵横比](https://zh.wikipedia.org/wiki/纵横比 "wikilink")。带有激光的IMAX使用两个带有激光光源的[4K分辨率数字放映机](https://zh.wikipedia.org/wiki/4K "wikilink")，3D内容使用波长多路可视化，与杜比3D类似。它们能够显示高达1.43：1的纵横比。

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:首頁版本切換器](https://zh.wikipedia.org/wiki/Draft:Template:首頁版本切換器)转换而来。
+
+
 <div style="position: absolute; bottom: 0em; right: 5px; font-size:95%;" class="boilerplate metadata plainlinks">
 
 <table>

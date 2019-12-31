@@ -1,3 +1,6 @@
+> 本文内容由[KISEKI](https://zh.wikipedia.org/wiki/KISEKI)转换而来。
+
+
 《**KISEKI**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第六張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，也是在組合的大哥[仁秀入伍後首張以四人體之發行的作品](https://zh.wikipedia.org/wiki/姜仁秀 "wikilink")\[1\]，於2018年7月25日以六個版不同版本推出\[2\]。
 
 ## 背景

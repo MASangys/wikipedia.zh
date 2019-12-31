@@ -1,3 +1,6 @@
+> 本文内容由[怪盜Joker 穿越時空的怪盜與失去的寶石](https://zh.wikipedia.org/wiki/怪盜Joker_穿越時空的怪盜與失去的寶石)转换而来。
+
+
 ，是由[Inti Creates開發的](../Page/Inti_Creates.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")3DS專用的遊戲。而[萬代南夢宮娛樂於](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")2015年6月25日開始發售。是一款有如怪盜喬克劇場版一般的遊戲。
 
 當中出現了許多動漫《[怪盜Joker](../Page/怪盜Joker.md "wikilink")》本身就有的角色，亦有遊戲中原創的角色。在原作的第21卷中，收錄了此遊戲的故事（特別篇）。該遊戲的早鳥優惠中，會送一本「早期購入特典」。

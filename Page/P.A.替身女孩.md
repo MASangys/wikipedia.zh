@@ -1,3 +1,6 @@
+> 本文内容由[P.A.替身女孩](https://zh.wikipedia.org/wiki/P.A.替身女孩)转换而来。
+
+
 《**P.A.替身女孩**》（P.A.）是[赤石路代](../Page/赤石路代.md "wikilink")創作的[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")，於1991年至1999年之間在漫畫雜誌《[Petit comic](../Page/Petit_comic.md "wikilink")》上連載，單行本全8集，特別篇1集\[1\]。1998年改拍為真人版電視劇《PA私家女演員》（）\[2\]。
 
 ## 故事簡介

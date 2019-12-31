@@ -1,3 +1,6 @@
+> 本文内容由[One More Time \(Super Junior日文單曲\)](https://zh.wikipedia.org/wiki/One_More_Time_\(Super_Junior日文單曲\))转换而来。
+
+
 《**One More Time**》是韓國男子組合[Super Junior的第九張日語單曲專輯](../Page/Super_Junior.md "wikilink")。於2018年11月28日發行。\[1\]\[2\]
 
 ## 錄製與音樂

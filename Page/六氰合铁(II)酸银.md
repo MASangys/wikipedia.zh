@@ -1,3 +1,6 @@
+> 本文内容由[六氰合铁\(II\)酸银](https://zh.wikipedia.org/wiki/六氰合铁\(II\)酸银)转换而来。
+
+
 **六氰合铁(II)酸银**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Ag<sub>4</sub>\[Fe(CN)<sub>6</sub>\]。它可由[六氰合铁(II)酸钾和](https://zh.wikipedia.org/wiki/六氰合铁\(II\)酸钾 "wikilink")[硝酸银](../Page/硝酸银.md "wikilink")按化学计量比反应得到。如果加入了过量的钾盐会生成复盐KAg<sub>3</sub>\[Fe(CN)<sub>6</sub>\]，这种复盐可以进一步和硝酸银反应，生成Ag<sub>4</sub>\[Fe(CN)<sub>6</sub>\]。\[1\]
 
 六氰合铁(II)酸银加热按下式分解：\[2\]

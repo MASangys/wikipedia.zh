@@ -1,3 +1,6 @@
+> 本文内容由[模块:WSU](https://zh.wikipedia.org/wiki/模块:WSU)转换而来。
+
+
 local WSU = {} --\[=\[ 回傳成員人數 \]=\]-- function WSU.member(frame)
 
 `   local page = frame:expandTemplate{title = "Wikipedia:維基學生會/成員"}`

@@ -1,3 +1,6 @@
+> 本文内容由[Looking \(黎明專輯\)](https://zh.wikipedia.org/wiki/Looking_\(黎明專輯\))转换而来。
+
+
 《''' Looking '''》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的[音樂專輯](../Page/音樂專輯.md "wikilink")，此專輯是為了配合黎明自編自導自演的音樂電影《[緣邀知音](../Page/緣邀知音.md "wikilink")》而發行\[1\]，於2006年11月21日推出\[2\]，專輯收錄了7首歌曲，所有歌曲均由[雷頌德](../Page/雷頌德.md "wikilink")監製，其中一首歌曲《I'll Never Fall in Love Again》是由黎明及旗下唱片公司的歌手[衛蘭](../Page/衛蘭.md "wikilink")、[衛詩](../Page/衛詩.md "wikilink")、[應昌佑](../Page/應昌佑.md "wikilink")、[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")、[王歌慧](../Page/王歌慧.md "wikilink")合唱\[3\]。
 
 ## 曲目

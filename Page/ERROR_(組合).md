@@ -1,3 +1,6 @@
+> 本文内容由[ERROR \(組合\)](https://zh.wikipedia.org/wiki/ERROR_\(組合\))转换而来。
+
+
 **ERROR**是香港男子跳唱及[搞笑團體](https://zh.wikipedia.org/wiki/搞笑 "wikilink")，於2018年12月2日出道，以「騎呢cam爆男子組合」為定位。\[1\]
 
 **ERROR**為[ViuTV](../Page/ViuTV.md "wikilink")選秀節目《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的其中一隊衍生組合，隊員由節目其中4位參賽者組成，隊名源自[惡搞另一隊於全民造星誕生的跳唱組合](https://zh.wikipedia.org/wiki/惡搞 "wikilink")[MIRROR](https://zh.wikipedia.org/wiki/MIRROR "wikilink")。團隊經理人為《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》的其中一個監製[黃慧君](../Page/黃慧君.md "wikilink")（花姐）及其導演 [Vinci Tang](https://zh.wikipedia.org/wiki/Vinci_Tang "wikilink")（大濟哥）。

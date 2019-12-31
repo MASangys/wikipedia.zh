@@ -1,3 +1,6 @@
+> 本文内容由[UCI場地單車世界盃](https://zh.wikipedia.org/wiki/UCI場地單車世界盃)转换而来。
+
+
 **場地單車世界盃**（）是[世界單車總會推出的一系列由世界頂尖場地單車運動員之間的比賽](https://zh.wikipedia.org/wiki/世界單車總會 "wikilink")，重要性僅次於[奧運及](../Page/夏季奥林匹克运动会自行车比赛.md "wikilink")[世界場地單車錦標賽](https://zh.wikipedia.org/wiki/世界場地自行車錦標賽 "wikilink")。這項於世界各地巡迴舉辦的賽事由1993年開始。世界盃於每年的[場地單車季節](https://zh.wikipedia.org/wiki/場地自行車 "wikilink")（十月至翌年二月）舉辦，會有大約三至六個分站，賽事積分用作計算世界排名，全季冠軍以及入圍下屆世界場地單車錦標賽及奧運之用。\[1\]
 
 所有分站都包括以下競賽項目：[爭先賽](https://zh.wikipedia.org/wiki/爭先賽 "wikilink")、[競輪賽](../Page/競輪賽.md "wikilink")、團體追逐賽、團隊競速賽、捕捉賽、全能賽及[麥迪遜賽](https://zh.wikipedia.org/wiki/麥迪遜賽 "wikilink")，男女子均可分別參加，除了捕捉賽其他都是[奧運項目](https://zh.wikipedia.org/wiki/夏季奧林匹克運動會自由車比賽 "wikilink")。

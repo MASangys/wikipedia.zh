@@ -1,3 +1,6 @@
+> 本文内容由[NU\'EST W的L.O.Λ.E便當](https://zh.wikipedia.org/wiki/NU\'EST_W的L.O.Λ.E便當)转换而来。
+
+
 《**NU'EST W的L.O.Λ.E便當**》（）於2018年8月27日首播，10月18日終映，共16集。由[NU'EST](../Page/NU'EST.md "wikilink")官方V live頻道\[1\]與YOCLUB X IDOL V live頻道\[2\]共同播出，為[韓國V](https://zh.wikipedia.org/wiki/韓國 "wikilink") live上獨家播放的網路綜藝節目\[3\]。
 
 NU'EST W為了報答粉絲L.O.Λ.E的愛，與KBS飲食紀錄片《料理人類》李旭正PD合作，親自準備「逆朝貢便當」，希望能傳達自己對L.O.Λ.E的心意\[4\]。《NU'EST的L.O.Λ.E便當》將NU'EST W學習、準備L.O.Λ.E便當並配送的過程，如實地記錄下來。

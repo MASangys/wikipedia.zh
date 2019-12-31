@@ -1,3 +1,6 @@
+> 本文内容由[KBM-7細胞](https://zh.wikipedia.org/wiki/KBM-7細胞)转换而来。
+
+
 *' KBM-7*' (KBM-7 cells) 是一種常用於[生物醫學](https://zh.wikipedia.org/wiki/生物醫學 "wikilink")[研究](../Page/研究.md "wikilink")的[近單倍體](../Page/染色體倍性.md "wikilink")[人類](../Page/人類.md "wikilink")[慢性粒細胞性白血病](https://zh.wikipedia.org/wiki/慢性粒細胞性白血病 "wikilink") (CGL) \[1\]，最近初是分離自一個正處於急性期的39歲[男性](../Page/男性.md "wikilink")[CGL](https://zh.wikipedia.org/wiki/慢性粒細胞性白血病 "wikilink")[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")\[2\]。KBM-7細胞跟所有永生的[癌細胞系一樣可以](https://zh.wikipedia.org/wiki/癌細胞 "wikilink")[無限期分裂](https://zh.wikipedia.org/wiki/細胞分裂 "wikilink")，然而該細胞系的獨特之處在於它除了[8號染色體](../Page/8號染色體.md "wikilink")和[15號染色體的](https://zh.wikipedia.org/wiki/15號染色體 "wikilink")30兆[鹼基片段之外](https://zh.wikipedia.org/wiki/鹼基 "wikilink")\[3\]，所有的[染色體僅包含一個拷貝](https://zh.wikipedia.org/wiki/染色體 "wikilink")\[4\]。KBM-7細胞跟其他CML細胞系一樣，對帶有[致癌的](../Page/致癌物質.md "wikilink")[BCR](../Page/BCR基因.md "wikilink")-[ABL](https://zh.wikipedia.org/wiki/ABL_\(基因\) "wikilink")[融合基因的](https://zh.wikipedia.org/wiki/融合基因 "wikilink")[費城染色體呈](https://zh.wikipedia.org/wiki/費城染色體 "wikilink")[陽性](https://zh.wikipedia.org/wiki/陽性 "wikilink")。
 
 ## 科研用途

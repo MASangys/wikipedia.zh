@@ -1,3 +1,6 @@
+> 本文内容由[USB Power Delivery](https://zh.wikipedia.org/wiki/USB_Power_Delivery)转换而来。
+
+
 **USB Power Delivery**（簡稱：**USB PD**）是[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")在2012年7月5日發佈的[USB](../Page/USB.md "wikilink")充電標準與技術。
 
 ## 版本

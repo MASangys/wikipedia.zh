@@ -1,3 +1,6 @@
+> 本文内容由[Heart Rabbit Girls](https://zh.wikipedia.org/wiki/Heart_Rabbit_Girls)转换而来。
+
+
 **Heart Rabbit Girls**（韓語：**하트래빗걸스**），是[韓國Yoon](https://zh.wikipedia.org/wiki/韓國 "wikilink") Story娛樂於2013年推出的五人女子組合，成員包括金熙貞、魚丹菲、韓智恩、金薔美及具寶慧\[1\]。
 
 2013年底，公司宣布金熙貞、魚丹菲、韓智恩、金薔美退出，將加入三名成員利願、崔炫美、柳瑟，改以四人體制活動。

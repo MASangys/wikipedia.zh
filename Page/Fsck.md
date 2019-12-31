@@ -1,3 +1,6 @@
+> 本文内容由[Fsck](https://zh.wikipedia.org/wiki/Fsck)转换而来。
+
+
 **fsck**（**f**ile **s**ystem **c**onsistency **c**heck）是[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统](../Page/类Unix系统.md "wikilink")上用于检查[文件系统](../Page/文件系统.md "wikilink")完整性的工具\[1\]。它类似于[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")上的[CHKDSK](../Page/CHKDSK.md "wikilink")。
 
 ## 读音

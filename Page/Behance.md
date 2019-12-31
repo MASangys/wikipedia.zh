@@ -1,3 +1,6 @@
+> 本文内容由[Behance](https://zh.wikipedia.org/wiki/Behance)转换而来。
+
+
 **Behance**（又可写为**Bēhance**）是一款[Adobe](../Page/Adobe.md "wikilink")旗下用于展示并发现[创意作品的在线平台](../Page/作品.md "wikilink")。\[1\]\[2\]
 
 用户加入Behance之后，以上传项目（Project）的方式构建自己的个人档案。项目可以为一组图像、视频或其他特定主题或过程的数字内容。每个项目下均有查看与欣赏（Appreciation）计数。每个主题均有特定的分享链接。

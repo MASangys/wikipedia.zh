@@ -1,3 +1,6 @@
+> 本文内容由[皇家TESO](https://zh.wikipedia.org/wiki/皇家TESO)转换而来。
+
+
 **皇家TESO**是一間私有的客運渡輪營運商。經營[荷兰](../Page/荷兰.md "wikilink")[瓦登海](../Page/瓦登海.md "wikilink")上[登海爾德到](../Page/登海尔德.md "wikilink")[特塞尔之間的渡輪服務](../Page/泰瑟尔.md "wikilink")。TESO 這四個字母是[荷蘭語](../Page/荷蘭語.md "wikilink") Texels Eigen Stoomboot Onderneming 的縮寫，意為「[特塞尔自己的輪船公司](../Page/泰瑟尔.md "wikilink")」。
 
 目前 TESO 以兩艘大型客輪營運，每艘船可載運至少 1750 位旅客及 300 輛車。航程單程約20 分鐘。只有從[登海爾德前往](../Page/登海尔德.md "wikilink")[特塞尔的方向需要買票及驗票](../Page/泰瑟尔.md "wikilink")，反方向可免費搭乘。一般船票成人每位是 €2.5，可以在[官方網站](https://www.teso.nl/en/tickets/) 上購買，憑手機上的條碼登船（不需印出紙本），或可在[登海爾德碼頭使用售票機或人工櫃檯買票](../Page/登海尔德.md "wikilink")。船班時間表可在[官方網站](https://www.teso.nl/en/time-tables/)  查詢，夏日通常從早上六點到晚上九點，每一小時或三十分鐘開一班。

@@ -1,3 +1,6 @@
+> 本文内容由[BP检验](https://zh.wikipedia.org/wiki/BP检验)转换而来。
+
+
 在[统计学](../Page/统计学.md "wikilink")中，**BP检验**（）是1979年由和提出的方法\[1\]，用来检验[线性回归模型中是否存在](https://zh.wikipedia.org/wiki/线性回归 "wikilink")[异方差的问题](https://zh.wikipedia.org/wiki/异方差 "wikilink")。另外，和韦斯伯格在1983年独立地提出了类似的方法\[2\]。异方差的存在意味着模型的[方差](../Page/方差.md "wikilink")与[自变量是相关的](https://zh.wikipedia.org/wiki/自变量 "wikilink")。
 
 设回归模型为

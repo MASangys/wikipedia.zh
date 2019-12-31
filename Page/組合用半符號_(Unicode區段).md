@@ -1,3 +1,6 @@
+> 本文内容由[組合用半符號 \(Unicode區段\)](https://zh.wikipedia.org/wiki/組合用半符號_\(Unicode區段\))转换而来。
+
+
 **組合用半符號**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，其中收錄了可用於多種[書寫系統的](https://zh.wikipedia.org/wiki/書寫系統 "wikilink")[變音符號](https://zh.wikipedia.org/wiki/附加符號 "wikilink")。
 
 ## 區段

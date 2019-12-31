@@ -1,3 +1,6 @@
+> 本文内容由[快盜Ruby](https://zh.wikipedia.org/wiki/快盜Ruby)转换而来。
+
+
 《**快盜Ruby**》（）是日本的[喜劇](../Page/喜劇.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1988年由日本[東寶](../Page/東寶.md "wikilink")公司發行。
 
 ## 概要

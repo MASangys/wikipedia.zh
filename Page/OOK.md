@@ -1,3 +1,6 @@
+> 本文内容由[OOK](https://zh.wikipedia.org/wiki/OOK)转换而来。
+
+
 **開關鍵控**（）表示最簡單形式的[幅移鍵控](https://zh.wikipedia.org/wiki/幅移鍵控 "wikilink")（ASK）調製，其表示存在或不存在[載波的數位數據](https://zh.wikipedia.org/wiki/載波 "wikilink")\[1\]。在其最簡單的形式中，特定持續時間的存在載波表示[二進制](https://zh.wikipedia.org/wiki/二進制 "wikilink")1，如果不存在則表示二進制0。一些更複雜的方案會改變這些持續時間以傳達更多信息。它類似於[單極性編碼](https://zh.wikipedia.org/wiki/單極性 "wikilink")[線路代碼](https://zh.wikipedia.org/wiki/線路碼 "wikilink")。
 
 開關鍵控最常用於通過無線電頻率發送[摩斯電碼](https://zh.wikipedia.org/wiki/摩斯電碼 "wikilink")（稱為CW（連續波）操作），但原則上可以使用任何數字編碼方案。例如，在ISM頻段中使用OOK，在計算機之間傳輸數據。

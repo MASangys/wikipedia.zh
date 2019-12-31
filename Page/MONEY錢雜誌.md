@@ -1,3 +1,6 @@
+> 本文内容由[MONEY錢雜誌](https://zh.wikipedia.org/wiki/MONEY錢雜誌)转换而来。
+
+
 **MONEY錢雜誌**（Money錢），[臺灣](../Page/臺灣.md "wikilink")的[財經](https://zh.wikipedia.org/wiki/財經 "wikilink")[媒體](https://zh.wikipedia.org/wiki/媒體 "wikilink")，2007年正式上線。
 
 ## 歷史

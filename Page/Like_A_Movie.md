@@ -1,3 +1,6 @@
+> 本文内容由[Like A Movie](https://zh.wikipedia.org/wiki/Like_A_Movie)转换而来。
+
+
 **Like A Movie**（韓語：**영화처럼**），是[韓國Top](https://zh.wikipedia.org/wiki/韓國 "wikilink") Cloud娛樂於2018年推出的六人男子組合\[1\]\[2\]，成員包括Domo、Howoo、Siryu、Woohyuk、Mingyu及Joha。2019年1月，Howoo因健康理由退出組合。
 
 ## 參考資料

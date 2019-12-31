@@ -1,3 +1,6 @@
+> 本文内容由[A·R·白克](https://zh.wikipedia.org/wiki/A·R·白克)转换而来。
+
+
 **艾伯特·羅布森·白克**（，），來自[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人](../Page/商人.md "wikilink")，[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[祥茂洋行](../Page/祥茂洋行.md "wikilink")創辦人和合夥人之一。
 
 白克1866年前來[上海租界](../Page/上海租界.md "wikilink")加入[軋拉佛洋行](https://zh.wikipedia.org/wiki/軋拉佛洋行 "wikilink")，他後來自立門戶，投身[絲綢業務成為](https://zh.wikipedia.org/wiki/絲綢 "wikilink")[絲師](https://zh.wikipedia.org/wiki/絲師 "wikilink")。1877年，他與商人[查爾斯·克勞姆合夥成立祥茂洋行](https://zh.wikipedia.org/wiki/查爾斯·克勞姆 "wikilink")，洋行由早期從事[生絲和](https://zh.wikipedia.org/wiki/生絲 "wikilink")[廢絲業務](https://zh.wikipedia.org/wiki/廢絲 "wikilink")，到後來進一步包攬一般[進出口](https://zh.wikipedia.org/wiki/進出口 "wikilink")[貿易業務](https://zh.wikipedia.org/wiki/貿易 "wikilink")，在上海具有一定名氣。在商業工作以外，白克也曾於1897年至1898年當選[上海公共租界工部局](../Page/上海公共租界工部局.md "wikilink")總董。上海市內有[白克路](https://zh.wikipedia.org/wiki/白克路 "wikilink")（1943年易名[鳳陽路](https://zh.wikipedia.org/wiki/鳳陽路 "wikilink")）以其命名，以資紀念。

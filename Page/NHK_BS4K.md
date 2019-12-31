@@ -1,3 +1,6 @@
+> 本文内容由[NHK BS4K](https://zh.wikipedia.org/wiki/NHK_BS4K)转换而来。
+
+
 **NHK BS4K**是[日本廣播协会](https://zh.wikipedia.org/wiki/日本廣播协会 "wikilink")（NHK）所属的[卫星电视](../Page/卫星电视.md "wikilink")频道之一，于2018年12月1日开播\[1\]。
 
 ## 概况

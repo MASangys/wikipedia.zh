@@ -1,3 +1,6 @@
+> 本文内容由[BBC所属电视台电台列表](https://zh.wikipedia.org/wiki/BBC所属电视台电台列表)转换而来。
+
+
 **BBC所属电视台电台列表**列举的是[英国广播公司](../Page/英国广播公司.md "wikilink")在[联合王国境内所属的国家性](https://zh.wikipedia.org/wiki/联合王国 "wikilink")、区域性及地方性的[电视台](../Page/电视台.md "wikilink")与[电台](https://zh.wikipedia.org/wiki/电台 "wikilink")。
 
 ## BBC国内电视台

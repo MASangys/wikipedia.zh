@@ -1,3 +1,6 @@
+> 本文内容由[Cherry On Top](https://zh.wikipedia.org/wiki/Cherry_On_Top)转换而来。
+
+
 **Cherry On Top**（），是[韓國United](https://zh.wikipedia.org/wiki/韓國 "wikilink") Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員包括U、Ian、Yoonseul及Naye。 團名Cherry On Top的意思是指蛋糕頂上放置的櫻桃來命名的。\[1\]
 
 ## 團體資料

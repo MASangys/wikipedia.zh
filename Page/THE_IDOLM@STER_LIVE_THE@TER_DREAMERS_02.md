@@ -1,3 +1,6 @@
+> 本文内容由[THE IDOLM@STER LIVE THE@TER DREAMERS 02](https://zh.wikipedia.org/wiki/THE_IDOLM@STER_LIVE_THE@TER_DREAMERS_02)转换而来。
+
+
 《**THE IDOLM@STER LIVE THE@TER DREAMERS 02**》（日語：），是[Lantis](../Page/Lantis.md "wikilink")於[2015年](../Page/2015年.md "wikilink")[10月28日](../Page/10月28日.md "wikilink")發售的一張《[偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")》系列[角色歌曲專輯](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")，簡稱「LTD02」。
 
 ## 概要

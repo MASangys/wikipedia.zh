@@ -1,3 +1,6 @@
+> 本文内容由[JR小倉站](https://zh.wikipedia.org/wiki/JR小倉站)转换而来。
+
+
 **JR小倉站**（）位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")小倉町中畑，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。車站編號為**JR-D10**。
 
 本站為了與[近鐵京都線的](https://zh.wikipedia.org/wiki/近鐵京都線 "wikilink")及[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[北九州市](../Page/北九州市.md "wikilink")[小倉北區](../Page/小倉北區.md "wikilink")的[小倉站做區別](../Page/小倉站_\(福岡縣\).md "wikilink")，冠以JR的名稱。

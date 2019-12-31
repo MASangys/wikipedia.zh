@@ -1,3 +1,6 @@
+> 本文内容由[模块:Sport orgs alias](https://zh.wikipedia.org/wiki/模块:Sport_orgs_alias)转换而来。
+
+
 local orgs_data
 
 local data_type

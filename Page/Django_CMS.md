@@ -1,3 +1,6 @@
+> 本文内容由[Django CMS](https://zh.wikipedia.org/wiki/Django_CMS)转换而来。
+
+
 **django CMS**是一个 [免费的开源](../Page/自由及开放源代码软件.md "wikilink") [内容管理系统](../Page/内容管理系统.md "wikilink") 平台，用于在[万维网](../Page/万维网.md "wikilink")和[内部网上发布内容](https://zh.wikipedia.org/wiki/内部网 "wikilink")。\[1\] 它是用[Django](../Page/Django.md "wikilink")语言框架编写的，程序语言为[Python](../Page/Python.md "wikilink")编写。 \[2\] \[3\]
 
 ## 历史

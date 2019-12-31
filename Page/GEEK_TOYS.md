@@ -1,3 +1,6 @@
+> 本文内容由[GEEK TOYS](https://zh.wikipedia.org/wiki/GEEK_TOYS)转换而来。
+
+
 是一家位于[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")[高圆寺的动画制作公司](https://zh.wikipedia.org/wiki/高圆寺 "wikilink")。\[1\]
 
 ## 作品列表

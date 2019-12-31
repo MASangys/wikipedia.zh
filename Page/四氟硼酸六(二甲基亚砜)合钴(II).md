@@ -1,3 +1,6 @@
+> 本文内容由[四氟硼酸六\(二甲基亚砜\)合钴\(II\)](https://zh.wikipedia.org/wiki/四氟硼酸六\(二甲基亚砜\)合钴\(II\))转换而来。
+
+
 **四氟硼酸六(二甲基亚砜)合钴(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为\[Co(C<sub>2</sub>H<sub>6</sub>OS)<sub>6</sub>\](BF<sub>4</sub>)<sub>2</sub>。这个离子化合物由\[Co(C<sub>2</sub>H<sub>6</sub>OS)<sub>6</sub>\]<sup>2+</sup>和构成\[1\]。它在非极性溶剂中难溶，在空气中稳定。\[2\]
 
 ## 制备

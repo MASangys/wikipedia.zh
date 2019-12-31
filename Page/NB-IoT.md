@@ -1,3 +1,6 @@
+> 本文内容由[NB-IoT](https://zh.wikipedia.org/wiki/NB-IoT)转换而来。
+
+
 **NB-IoT**是**窄頻[物聯網](https://zh.wikipedia.org/wiki/物聯網 "wikilink")**（Narrowband Internet of Things）的簡稱，是由[3GPP](../Page/3GPP.md "wikilink")訂定的[LPWAN](../Page/LPWAN.md "wikilink")[无线电標準](https://zh.wikipedia.org/wiki/无线电 "wikilink")，為了讓行動设备及服務的範圍可以更遠\[1\]\[2\]。此標準在2016年6月的[3GPP](../Page/3GPP.md "wikilink") Release 13定版了（）\[3\]。其他的3GPP[物联网](../Page/物联网.md "wikilink")技術包括有（增強型機器類通信）及EC-GSM-IoT\[4\]。
 
 NB-IoT特別著重在室內的覆蓋率、低成本、長電池壽命以及高連接密度。NB-IoT使用的是[長期演進技術](../Page/長期演進技術.md "wikilink")標準的一部份，不過限制頻寬在200kHz的單一窄頻。NB-IoT使用[ODFM調變來處理下行通訊](../Page/正交頻分复用.md "wikilink")，用[SC-FDMA](../Page/SC-FDMA.md "wikilink")來處理上行通訊\[5\]\[6\]\[7\]\[8\]\[9\]

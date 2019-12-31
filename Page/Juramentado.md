@@ -1,3 +1,6 @@
+> 本文内容由[Juramentado](https://zh.wikipedia.org/wiki/Juramentado)转换而来。
+
+
 **Juramentado**是[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[歷史上](../Page/菲律宾历史.md "wikilink")[摩洛人](../Page/摩洛人.md "wikilink")男性[劍士刺客的统称](../Page/剑术.md "wikilink")：他們會試圖襲擊並殺死那些入侵本國國土的敵國[警察和](https://zh.wikipedia.org/wiki/警隊 "wikilink")[士兵](../Page/士兵.md "wikilink")，同时希望自己因此牺牲。這種[吉哈德](../Page/吉哈德.md "wikilink")形式的[殉教](../Page/殉教.md "wikilink")，往往被視為一種[自殺攻擊](https://zh.wikipedia.org/wiki/自殺攻擊 "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。 這種刺殺行動與（一種對[穆斯林](../Page/穆斯林.md "wikilink")或非穆斯林進行的無差別[暴力](../Page/暴力.md "wikilink")行動）不同：都是專注的、有預謀的、有時亦是高技能的殺手，他們會通過綁定、剃鬚和祈禱的儀式來準備自己，以便完成僅使用鋒利武器武裝的厚顏無恥的攻擊。他們亦相信这种刺殺行動即使失敗也可升入天堂。
 
 在菲律賓被入侵的歷史上，這些摩洛人部族歷代都有人成為，並且發揮许多作用：他們的頻頻出擊使得[西班牙人](../Page/西班牙人.md "wikilink")直到整个殖民時代結束也沒能真正控制[棉蘭老島和](https://zh.wikipedia.org/wiki/棉蘭老島 "wikilink")[蘇祿群島周圍的地區](https://zh.wikipedia.org/wiki/蘇祿群島 "wikilink")。雖然無法與敵人的武力正面對抗，這些刺客依然會利用情報优势和灵活的機動性來襲擊敵人最脆弱的部分。

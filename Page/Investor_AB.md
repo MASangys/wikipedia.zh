@@ -1,3 +1,6 @@
+> 本文内容由[Investor AB](https://zh.wikipedia.org/wiki/Investor_AB)转换而来。
+
+
 **Investor AB**（）為1916年成立的一家[瑞典](../Page/瑞典.md "wikilink")投資公司，自成立以來一直由[瓦倫堡家族所控制](https://zh.wikipedia.org/wiki/瓦倫堡家族 "wikilink")，目前該家族透過其資產管理公司[FAM AB掌握Investor](https://zh.wikipedia.org/wiki/FAM_AB "wikilink") AB。
 
 ## 歷史

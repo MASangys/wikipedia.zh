@@ -1,3 +1,6 @@
+> 本文内容由[My Mad Beauty \(第三季\)](https://zh.wikipedia.org/wiki/My_Mad_Beauty_\(第三季\))转换而来。
+
+
 《**My Mad Beauty (第三季)**》（），簡稱MMB3（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")頻道於2019年推出的綜藝節目\[1\]，由[朴娜勑](../Page/朴娜勑.md "wikilink")、[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、[美珠](../Page/李美珠.md "wikilink")（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")）、[有情](../Page/磪有情.md "wikilink")（[Weki Meki](../Page/Weki_Meki.md "wikilink")）等人共同主持\[2\]，節目主軸為新美妝潮流的分享與討論\[3\]\[4\]。
 
 ## 節目成員

@@ -1,3 +1,6 @@
+> 本文内容由[我愛冰冰Show](https://zh.wikipedia.org/wiki/我愛冰冰Show)转换而来。
+
+
 《**我愛冰冰Show**》（），[中國電視公司星期六晚間大型歌唱](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，2019年3月23日[中視頻道首播](../Page/中視_\(頻道\).md "wikilink")，主要主持人為[白冰冰](../Page/白冰冰.md "wikilink")及偶像團體[台一線](https://zh.wikipedia.org/wiki/台一線 "wikilink")（阿文、東諺）。前身為《[冰冰SHOW](https://zh.wikipedia.org/wiki/冰冰SHOW "wikilink")》\[1\]\[2\]。
 
 ## 播出時段

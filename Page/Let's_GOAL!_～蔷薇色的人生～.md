@@ -1,3 +1,6 @@
+> 本文内容由[Let\'s GOAL! ～蔷薇色的人生～](https://zh.wikipedia.org/wiki/Let\'s_GOAL!_～蔷薇色的人生～)转换而来。
+
+
 《**Let's GOAL\! ～蔷薇色的人生～**》是日本歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第12张原创[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，2019年8月14日发行。本专辑为仓木麻衣出道20周年纪念专辑。
 
 ## 发行及宣传

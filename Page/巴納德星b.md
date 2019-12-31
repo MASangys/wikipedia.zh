@@ -1,3 +1,6 @@
+> 本文内容由[巴納德星b](https://zh.wikipedia.org/wiki/巴納德星b)转换而来。
+
+
 **巴納德星b** （**Barnard's Star b**），或稱為**GJ 699 b**，是[蛇夫座](../Page/蛇夫座.md "wikilink")[巴納德星](../Page/巴納德星.md "wikilink")周圍的一個[太陽系外行星](../Page/太陽系外行星.md "wikilink")候選天體，屬於[超級地球和](https://zh.wikipedia.org/wiki/超級地球 "wikilink")。由[欧洲南方天文台和](https://zh.wikipedia.org/wiki/欧洲南方天文台 "wikilink")等機構天文學家組成的國際團隊於2018年11月14日在期刊《[自然](../Page/自然_\(期刊\).md "wikilink")》的論文公開了這一發現\[1\]。這是在距離地球約6光年遠的巴納德星周圍首次發現行星\[2\]。
 
 ## 概要

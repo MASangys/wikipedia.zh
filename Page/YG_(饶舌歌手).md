@@ -1,3 +1,6 @@
+> 本文内容由[YG \(饶舌歌手\)](https://zh.wikipedia.org/wiki/YG_\(饶舌歌手\))转换而来。
+
+
 **基嫩·德坎·雷·杰克逊**（英语：**Keenon Daequan Ray Jackson**，1990年3月9日 - ），\[1\]艺名**YG**，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[康普顿的说唱歌手和演员](https://zh.wikipedia.org/wiki/康普顿_\(加利福尼亚州\) "wikilink")。2009年，YG发布了首支单曲“Toot It and Boot It”，[Ty Dolla Sign客串献唱](https://zh.wikipedia.org/wiki/Ty_Dolla_Sign "wikilink")，在[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")67。\[2\]单曲的成功使他签约了[Def Jam唱片公司](../Page/Def_Jam唱片公司.md "wikilink")。\[3\]在随后的几年中，YG发布了《The Real 4Fingaz》、《Just Re'd Up》、《Just Re'd Up 2》、《4 Hunnid Degreez》等数张混音带。
 
 2013年6月，YG与[杨·吉兹的厂牌CTE](../Page/杰伊·詹金斯.md "wikilink") World签署了一份协议。他发布于2013年的由[Rich Homie Quan客串的单曲](https://zh.wikipedia.org/wiki/Rich_Homie_Quan "wikilink")“My Nigga”在美国[Billboard百强单曲榜上排名第](../Page/告示牌百强单曲榜.md "wikilink")19，成为了他职业生涯中榜单排名最高的歌曲。随后他发布了单曲“Left, Right”和由[德雷克客串的单曲](../Page/德雷克_\(歌手\).md "wikilink")“Who Do You Love?”，作为他首张录音室专辑的先行曲。他的首张专辑《My Krazy Life》于2014年3月18日由Pu$haz Ink、CTE World和Def Jam发行，大获好评。2016年6月17日，YG发布了第二张录音室专辑《Still Brazy》，好评依旧。2018年8月3日，YG发布了普遍好评的第三张录音室专辑《Stay Dangerous》。

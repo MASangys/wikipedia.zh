@@ -1,3 +1,6 @@
+> 本文内容由[Co-Living同居時代](https://zh.wikipedia.org/wiki/Co-Living同居時代)转换而来。
+
+
 《**Co-Living同居時代**》（），是[隨身遊戲股份有限公司製作播出的網路](https://zh.wikipedia.org/wiki/隨身遊戲股份有限公司 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")，由[苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")領銜主持，搭配不同的來賓來解說。節目由6位不同年齡層及不同生活圈的男女，一同住在一個屋簷下，激盪出不一樣的火花。\[1\][麥卡貝網路電視](../Page/麥卡貝網路電視.md "wikilink")冬季篇於2019年3月11日首播，第二回合夏季篇於2019年8月26日首播。第一季的主持人[阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲因為同時需兼顧正片和直播的內容](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")，導致角色立場尷尬，因此第二季正片中的主持人改為[苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")，並且搭檔學長皇上、學姊Lora以及2位感情糾察隊來賓，[阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲改為直播主持人](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")。
 
 ## 冬季篇

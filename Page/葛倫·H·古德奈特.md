@@ -1,3 +1,6 @@
+> 本文内容由[葛倫·H·古德奈特](https://zh.wikipedia.org/wiki/葛倫·H·古德奈特)转换而来。
+
+
 **葛倫·霍華德·古德奈特二世**（，）是[美國的文學研究者](https://zh.wikipedia.org/wiki/美國 "wikilink")、小學教師，的創立者\[1\]\[2\]。
 
 ## 生平

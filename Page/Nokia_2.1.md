@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 2.1](https://zh.wikipedia.org/wiki/Nokia_2.1)转换而来。
+
+
 **Nokia 2.1**，是一款运行[Android](../Page/Android.md "wikilink")操作系统的诺基亚品牌中端智能手机。
 
 ## 规格

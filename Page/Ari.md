@@ -1,3 +1,6 @@
+> 本文内容由[Ari](https://zh.wikipedia.org/wiki/Ari)转换而来。
+
+
 **Ari** 可以指：
 
 ## 人物

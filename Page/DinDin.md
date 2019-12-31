@@ -1,3 +1,6 @@
+> 本文内容由[DinDin](https://zh.wikipedia.org/wiki/DinDin)转换而来。
+
+
 本名**林哲**（韓語：**임철**，1991年11月20日－），藝名為**DinDin**（韓語：**딘딘**），[韓國Rapper](https://zh.wikipedia.org/wiki/韓國 "wikilink")。DinDin（딘딘 ），韩国说唱男歌手。从韩国hiphop节目《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")2》中脱颖而出，2013年以演唱电视剧《[土豆星球2013QR3](https://zh.wikipedia.org/wiki/土豆星球2013QR3 "wikilink")》OST出道。
 
 ## 電視節目

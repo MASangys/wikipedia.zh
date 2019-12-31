@@ -1,3 +1,6 @@
+> 本文内容由[再見UFO](https://zh.wikipedia.org/wiki/再見UFO)转换而来。
+
+
 《**再見UFO**》是一部2019年[香港](../Page/香港.md "wikilink")科幻劇情片，由[梁栢堅導演](https://zh.wikipedia.org/wiki/梁栢堅 "wikilink")，[徐天佑](../Page/徐天佑.md "wikilink")、[黃又南](../Page/黃又南.md "wikilink")和[蔡卓妍](../Page/蔡卓妍.md "wikilink")主演\[1\]。于2018年5月開拍，2018年8月完成拍攝\[2\]，2019年上映。《再見UFO》為第16屆《香港亞洲電影節》開幕電影。
 
 ## 劇情

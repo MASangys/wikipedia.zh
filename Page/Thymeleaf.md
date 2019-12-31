@@ -1,3 +1,6 @@
+> 本文内容由[Thymeleaf](https://zh.wikipedia.org/wiki/Thymeleaf)转换而来。
+
+
 **Thymeleaf**是一个[Java](../Page/Java.md "wikilink") [XML](../Page/XML.md "wikilink") / [XHTML](../Page/XHTML.md "wikilink") / [HTML5](../Page/HTML5.md "wikilink") 模板引擎 ，可以在Web（基于[servlet](../Page/Java_Servlet.md "wikilink") ）和非Web环境中工作。 它更适合在基于[MVC](../Page/MVC.md "wikilink")的Web应用程序的视图层提供XHTML / HTML5，但它甚至可以在脱机环境中处理任何XML文件。 它提供完整的[Spring Framework](../Page/Spring_Framework.md "wikilink")。
 
 在Web应用程序中，Thymeleaf旨在成为[JavaServer Pages](../Page/JSP.md "wikilink") （JSP）的完全替代品，并实现*自然模板*的概念：模板文件可以直接在浏览器中打开，并且仍然可以正确显示为网页。

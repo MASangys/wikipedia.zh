@@ -1,3 +1,6 @@
+> 本文内容由[玩具熊的五夜後宮VR：徵求協助](https://zh.wikipedia.org/wiki/玩具熊的五夜後宮VR：徵求協助)转换而来。
+
+
 是[玩具熊的五夜后宫系列](../Page/玩具熊的五夜后宫系列.md "wikilink")第一款[虚拟实境游戏](../Page/虚拟现实.md "wikilink")。此作品为史葛·戈晃与Steel Wool Studios合作开发的作品。
 
 ## 故事

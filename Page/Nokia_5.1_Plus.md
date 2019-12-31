@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 5.1 Plus](https://zh.wikipedia.org/wiki/Nokia_5.1_Plus)转换而来。
+
+
 **Nokia X5**是一款运行[Android](../Page/Android.md "wikilink")操作系统的诺基亚品牌中高端智能手机。于北京时间2018年7月18日14:00在北京发布。\[1\]
 
 ## 规格

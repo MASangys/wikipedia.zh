@@ -1,3 +1,6 @@
+> 本文内容由[粉紅鐘聲Continue](https://zh.wikipedia.org/wiki/粉紅鐘聲Continue)转换而来。
+
+
 是由[ALICESOFT](../Page/ALICESOFT.md "wikilink")於2005年6月17日發售的[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，\[1\]粉紅鐘聲系列第二作。2005年6月17日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《粉紅鐘聲C++》（）\[2\]，2010年12月9日由[5pb.](../Page/5pb..md "wikilink")發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")\[3\]。
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[PSY·S](https://zh.wikipedia.org/wiki/PSY·S)转换而来。
+
+
 **PSY·S**（），[日本](../Page/日本.md "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")系[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")。1985年出道。1996年8月1日解散。1980年代後半投入樂壇，使用一種在當時最先進的[電子樂器在日本流行音樂界而為人熟知](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")，讓該樂團成為1990年代[J-POP先驅](../Page/日本流行音樂.md "wikilink")。
 
 該團成員由主唱、作詞人（本名：安則真實），作曲與編曲人組成。

@@ -1,3 +1,6 @@
+> 本文内容由[卯花Tsukasa](https://zh.wikipedia.org/wiki/卯花Tsukasa)转换而来。
+
+
 是一位[日本](../Page/日本.md "wikilink")[漫畫家和](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")\[1\]。
 
 ## 作品

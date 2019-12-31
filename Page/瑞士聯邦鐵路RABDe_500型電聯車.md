@@ -1,3 +1,6 @@
+> 本文内容由[瑞士聯邦鐵路RABDe 500型電聯車](https://zh.wikipedia.org/wiki/瑞士聯邦鐵路RABDe_500型電聯車)转换而来。
+
+
 **RABDe500型電聯車**，（*SBB RABDe 500*,*Intercity-Neigezug*,**ICN**），為[瑞士聯邦鐵路](../Page/瑞士聯邦鐵路.md "wikilink")的[高速列車](https://zh.wikipedia.org/wiki/高速列車 "wikilink")、[電聯車](../Page/電聯車.md "wikilink")與[傾斜式列車](../Page/擺式列車.md "wikilink")，於2000年5月28日開始營運。
 
 ## 概述

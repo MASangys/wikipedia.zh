@@ -1,3 +1,6 @@
+> 本文内容由[Pop It Up](https://zh.wikipedia.org/wiki/Pop_It_Up)转换而来。
+
+
 《**Pop It Up**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2012年7月10日推出之第六張個人專輯，第一主打歌為《女皇》。
 
 ## 曲目

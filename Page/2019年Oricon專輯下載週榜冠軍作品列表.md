@@ -1,3 +1,6 @@
+> 本文内容由[2019年Oricon專輯下載週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2019年Oricon專輯下載週榜冠軍作品列表)转换而来。
+
+
 **2019年Oricon專輯下載週榜冠軍作品列表**列出2019年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯下載週榜冠軍的[專輯作品及其資料](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 冠軍專輯列表

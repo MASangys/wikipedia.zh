@@ -1,3 +1,6 @@
+> 本文内容由[Wright StreetDeck](https://zh.wikipedia.org/wiki/Wright_StreetDeck)转换而来。
+
+
 **Wrightbus StreetDeck**是[萊特巴士](../Page/萊特巴士.md "wikilink")從2014年開始製造的一款[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")，使用[戴姆勒](../Page/戴姆勒.md "wikilink")OM934柴油發動機。\[1\]\[2\]\[3\]
 
 ## 設計

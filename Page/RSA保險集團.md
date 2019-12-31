@@ -1,3 +1,6 @@
+> 本文内容由[RSA保險集團](https://zh.wikipedia.org/wiki/RSA保險集團)转换而来。
+
+
 **RSA保险集团**（RSA Insurance Group plc；[商业名称](https://zh.wikipedia.org/wiki/商业名称 "wikilink")：RSA；原称Royal and Sun Alliance）是一家总部位于英国[伦敦](../Page/伦敦.md "wikilink")的跨国保险公司，主要在英国、爱尔兰、斯堪的纳维亚和加拿大提供服务，但在其他超过140个国家也有业务。
 
 该公司在1996年由Sun Alliance和Royal Insurance合并而成\[1\]，而Sun Alliance则是1959年由世界最古老的保险公司The Sun Fire Office（1710年成立）\[2\]和The Alliance（1824年建立）合并形成的\[3\]。

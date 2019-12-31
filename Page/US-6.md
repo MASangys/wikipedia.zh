@@ -1,3 +1,6 @@
+> 本文内容由[US-6](https://zh.wikipedia.org/wiki/US-6)转换而来。
+
+
 **斯蒂庞克US6**是美国二战时期一个与5吨6x4卡车系列，由[斯蒂庞克公司与](https://zh.wikipedia.org/wiki/斯蒂庞克 "wikilink")公司制造。
 
 ## 历史

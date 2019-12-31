@@ -1,3 +1,6 @@
+> 本文内容由[SpringBoard](https://zh.wikipedia.org/wiki/SpringBoard)转换而来。
+
+
 **SpringBoard** 是 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 和 [iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink") 负责管理主屏幕的基础程序，并在设备启动时启动 [WindowServer](https://zh.wikipedia.org/wiki/WindowServer "wikilink")、开启应用程序（实现该功能等程序称为****）和对设备进行某些设置。有时候**主屏幕**也被作为 SpringBoard 的代称。
 
 ## 历史

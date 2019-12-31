@@ -1,3 +1,6 @@
+> 本文内容由[Target : Billboard – KILL BILL](https://zh.wikipedia.org/wiki/Target_:_Billboard_–_KILL_BILL)转换而来。
+
+
 《**Target : Billboard – KILL BILL**》（，有些媒體簡稱**KILL BILL**），為韓國[MBC電視台於](https://zh.wikipedia.org/wiki/MBC "wikilink")2019年推出的綜藝節目\[1\]，由[金鐘國主持](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")，節目主軸為集結[韓國國內的頂尖](https://zh.wikipedia.org/wiki/韓國 "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")人，為攻占音樂[告示牌展開生存戰](../Page/告示牌_\(雜誌\).md "wikilink")\[2\]\[3\]。
 
 ## 各集內容

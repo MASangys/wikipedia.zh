@@ -1,3 +1,6 @@
+> 本文内容由[Story J Company](https://zh.wikipedia.org/wiki/Story_J_Company)转换而来。
+
+
 **Story J Company**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，母公司為電視劇製作公司People Story Comapny。
 
 ## 歷史

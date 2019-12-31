@@ -1,3 +1,6 @@
+> 本文内容由[Anoice](https://zh.wikipedia.org/wiki/Anoice)转换而来。
+
+
 **Anoice** 是源自東京，由4位多才多藝的樂器手組成的電影系樂器樂團。團員分別是 **Takahiro Kido**, **Yuki Murata**, **Utaka Fujiwara**, 和 **Tadashi Yoshikawa**.
 
 ## 樂團成員

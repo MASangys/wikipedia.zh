@@ -1,3 +1,6 @@
+> 本文内容由[TWICELAND \(電影\)](https://zh.wikipedia.org/wiki/TWICELAND_\(電影\))转换而来。
+
+
 《**TWICELAND**》為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的演唱會電影](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
 
 ## 劇情

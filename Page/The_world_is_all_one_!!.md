@@ -1,3 +1,6 @@
+> 本文内容由[The world is all one !!](https://zh.wikipedia.org/wiki/The_world_is_all_one_!!)转换而来。
+
+
 《**The world is all one \!\!**》是一張由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")於[2011年](../Page/2011年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")發售的[单曲](../Page/单曲.md "wikilink")。
 
 ## 概要

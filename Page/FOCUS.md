@@ -1,3 +1,6 @@
+> 本文内容由[FOCUS](https://zh.wikipedia.org/wiki/FOCUS)转换而来。
+
+
 《FOCUS》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JUS2](../Page/JUS2.md "wikilink")所推出的[韓語出道專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2019年3月5日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，iRiver音樂發行。共收錄六首曲目，主打歌為《FOCUS ON ME》。
 
 ## 背景

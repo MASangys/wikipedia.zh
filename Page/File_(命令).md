@@ -1,3 +1,6 @@
+> 本文内容由[File \(命令\)](https://zh.wikipedia.org/wiki/File_\(命令\))转换而来。
+
+
 **file**是[Unix 系统的一条标准命令](../Page/UNIX.md "wikilink")，用来确认文件的类型。
 
 ## 用法

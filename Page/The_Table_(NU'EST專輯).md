@@ -1,3 +1,6 @@
+> 本文内容由[The Table \(NU\'EST專輯\)](https://zh.wikipedia.org/wiki/The_Table_\(NU\'EST專輯\))转换而来。
+
+
 《**The Table**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")所發行的第七張迷你專輯，繼第六張迷你專輯《[Happily Ever After](../Page/Happily_Ever_After.md "wikilink")》發行六個月後，於2019年10月21日發行，主打歌曲為〈LOVE ME〉\[1\]。實體專輯以三種不同版本以及一種KIHNO版本發售。
 
 ## 背景

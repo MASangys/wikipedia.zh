@@ -1,3 +1,6 @@
+> 本文内容由[C·J·基路士](https://zh.wikipedia.org/wiki/C·J·基路士)转换而来。
+
+
 **小查斯特·謝路·“C·J”·基路士**（，），生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")，[巴林](../Page/巴林.md "wikilink")籃球運動員，司職[中鋒](../Page/中鋒_\(籃球\).md "wikilink")，他在[2008年NBA選秀](../Page/2008年NBA選秀.md "wikilink")落選後，為[多倫多速龍出戰](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")[NBA夏季聯賽](https://zh.wikipedia.org/wiki/NBA夏季聯賽 "wikilink")。同年9月12日獲[洛杉磯湖人簽約](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")，然而他於2008年10月22日被[湖人放棄](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")。12月16日，他被[湖人所擁有的](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")[發展聯盟球隊](https://zh.wikipedia.org/wiki/美國國家籃球發展聯盟 "wikilink")[洛杉磯防禦者收購](../Page/南灣湖人.md "wikilink")。2009年3月5日，他被交易到以換取[厄爾巴隆](https://zh.wikipedia.org/wiki/厄爾·巴隆 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 參考資料

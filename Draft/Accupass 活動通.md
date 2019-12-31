@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Accupass 活動通](https://zh.wikipedia.org/wiki/Draft:Accupass_活動通)转换而来。
+
+
 -----
 
 **ACCUPASS活動通**由盈科泛利股份有限公司 (Accuvally Inc.) 的經營。

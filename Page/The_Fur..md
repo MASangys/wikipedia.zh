@@ -1,3 +1,6 @@
+> 本文内容由[The Fur.](https://zh.wikipedia.org/wiki/The_Fur.)转换而来。
+
+
 The Fur. 是在[臺灣](../Page/臺灣.md "wikilink")[高雄市](../Page/高雄市.md "wikilink")所組成的Dream pop[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，使用[英語創作歌曲](https://zh.wikipedia.org/wiki/台語 "wikilink")，現樂團由主唱柚子（Savanna）、吉他手中凌（Zero）、貝斯手唯任（Ren）所組成。樂團於2016年末開始活動，歌曲\[1\]主要以鼓機、合成器、電吉他，以及人聲為元素，於2018年9月與空氣腦唱片發行首張專輯《Town》。
 
 ## 經歷

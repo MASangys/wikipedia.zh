@@ -1,3 +1,6 @@
+> 本文内容由[TAKE ME HIGHER](https://zh.wikipedia.org/wiki/TAKE_ME_HIGHER)转换而来。
+
+
 《TAKE ME HIGHER》是日本组合[V6于](../Page/V6_\(偶像團體\).md "wikilink")1996年9月16日发售的第4张单曲。发行公司是[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")\[1\]。1997年，原作者Dave Rodgers进行过翻唱，并收录在1997年4月发售的专辑《take me higher》中，也收录了同年11月发行的SUPER EUROBEST的1997年版精选专辑《THE BEST OF SUPER EUROBEAT1997》中。Rodgers的自编版与V6的版本相比，[欧洲节拍比较强](https://zh.wikipedia.org/wiki/歐陸節拍 "wikilink")，歌词的内容也大幅度不同。
 
 ## 其他信息

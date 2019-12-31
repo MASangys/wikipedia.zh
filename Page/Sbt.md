@@ -1,3 +1,6 @@
+> 本文内容由[Sbt](https://zh.wikipedia.org/wiki/Sbt)转换而来。
+
+
 **sbt**是一种项目管理及自动构建工具，类似于[Apache Maven和](../Page/Apache_Maven.md "wikilink")[Apache Ant](../Page/Apache_Ant.md "wikilink")。
 
 ## 参见

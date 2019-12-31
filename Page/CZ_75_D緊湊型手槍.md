@@ -1,3 +1,6 @@
+> 本文内容由[CZ 75 D緊湊型手槍](https://zh.wikipedia.org/wiki/CZ_75_D緊湊型手槍)转换而来。
+
+
 **CZ 75 D緊湊型**（）是一款由[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")（現[捷克](../Page/捷克.md "wikilink")共和國）槍械製造商所設計及生產的緊湊型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[CZ 75手槍的緊湊及](../Page/CZ_75手槍.md "wikilink")[铝合金](https://zh.wikipedia.org/wiki/铝合金 "wikilink")[底把型](../Page/机匣.md "wikilink")；該槍還將手動保險修改為[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")（），並且在槍管以下設有用於連接戰術附件（比如[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")）的[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")。[扳機護環的形狀和握把的凹槽可讓射手穿戴手套以下射擊](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。它適用於長期配備和50公尺距離的瞄準射擊。發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

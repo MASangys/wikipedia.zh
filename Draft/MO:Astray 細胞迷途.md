@@ -1,3 +1,6 @@
+> 本文内容由[Draft:MO:Astray 細胞迷途](https://zh.wikipedia.org/wiki/Draft:MO:Astray_細胞迷途)转换而来。
+
+
 **MO:Astray 細胞迷途**是雷亞遊戲與信仰遊戲共同研發的動作解謎遊戲，於 RayarkCon 2017 首次公開， RayarkCon 2018 公布正式名稱為「MO:Astray 細胞迷途」\[1\]，2019年10月25日於 Steam 平臺上市，作業系統為 Microsoft Windows，同步開賣數位原聲帶。**MO:Astray 細胞迷途**是一款像素風格的橫向動作解謎遊戲，擁有特殊能力的主角 MO 將藉由跳躍、黏著和各種特異能力，在怪異的敵人與陷阱中，突破遊戲內的關卡與謎題。
 
 ## 背景故事

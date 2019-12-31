@@ -1,3 +1,6 @@
+> 本文内容由[CyberBunker](https://zh.wikipedia.org/wiki/CyberBunker)转换而来。
+
+
 **CyberBunker**（意为“数字[地堡](https://zh.wikipedia.org/wiki/地堡 "wikilink")”；也有音译作“[赛博朋克](../Page/赛博朋克.md "wikilink")”的，但“bunker”实际上与“龐克”无关）是一家[互联网服务供应商](../Page/互联网服务供应商.md "wikilink")，据其网站称，它“向除[儿童色情制品和任何与](https://zh.wikipedia.org/wiki/儿童色情 "wikilink")[恐怖主义](../Page/恐怖主义.md "wikilink")相关联的东西以外的任何网站提供服务”。它还为[海盜灣](../Page/海盜灣.md "wikilink")以及[維基解密](../Page/維基解密.md "wikilink")的众多镜像之一提供托管。\[1\]\[2\]CyberBunker还被指控为[垃圾邮件发送者](https://zh.wikipedia.org/wiki/濫發電子訊息 "wikilink")、[殭屍網絡](../Page/殭屍網絡.md "wikilink")命令与控制服务器、[恶意软件](../Page/恶意软件.md "wikilink")和线上欺诈提供托管。\[3\]该公司还参与了针对和[美国国防部](../Page/美国国防部.md "wikilink")使用的IP地址的[边界网关协议](../Page/边界网关协议.md "wikilink")劫持。\[4\]Spamhaus劫持是2013年3月针对他们发起的异常大型[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")的一部分。该攻击的规模很大，因此受到了主流媒体的关注。
 
 [CyberBunker-Entrance.jpg](https://zh.wikipedia.org/wiki/File:CyberBunker-Entrance.jpg "fig:CyberBunker-Entrance.jpg")[克卢廷厄](../Page/克卢廷厄.md "wikilink")的CyberBunker入口\]\] 该公司以曾经的所在地——一个前[冷战](../Page/冷战.md "wikilink")[地堡命名](https://zh.wikipedia.org/wiki/地堡 "wikilink")。\[5\]该地堡建于1955年，位于[荷兰](../Page/荷兰.md "wikilink")南部小镇[克卢廷厄](../Page/克卢廷厄.md "wikilink")（Kloetinge）外。其原本用途是战时作为可承受[核战争](../Page/核战争.md "wikilink")的[荷蘭軍隊](../Page/荷蘭軍隊.md "wikilink")的省军事指挥中心（）。\[6\]它在1994年被荷兰军方废弃。\[7\]，CyberBunker将其地址列为该地堡，但CyberBunker服务器的位置尚不清楚。\[8\]

@@ -1,3 +1,6 @@
+> 本文内容由[SIRT1](https://zh.wikipedia.org/wiki/SIRT1)转换而来。
+
+
 **SIRT1**（），也被称为 **NAD-依赖性去乙酰化酶Sirtuin-1**（），是人类基因组中由SIRT1[基因](../Page/基因.md "wikilink")编码的[蛋白](../Page/蛋白质.md "wikilink")。人的SIRT1基因位于[10号染色体](../Page/10号染色体.md "wikilink")上。SIRT1的功能是去除蛋白质上的乙酰基团（去乙酰化）。SIRT1的去乙酰化功能在一些生物学过程中有发挥一定的作用\[1\]\[2\]\[3\]。
 
 ## 参考文献

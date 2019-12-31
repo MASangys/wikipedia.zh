@@ -1,3 +1,6 @@
+> 本文内容由[MacOS Catalina](https://zh.wikipedia.org/wiki/MacOS_Catalina)转换而来。
+
+
 **macOS Catalina**（版本10.15）是[苹果公司用于](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[麦金塔电脑的桌面操作系统](../Page/麥金塔.md "wikilink") [macOS](https://zh.wikipedia.org/wiki/macOS "wikilink") 的第16个[主要版本](../Page/軟件版本號.md "wikilink")。它是 [macOS Mojave](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink") 的继任者，于2019年6月3日在[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")（WWDC）发布，并于2019年10月8日正式推出\[1\]。Catalina 是第一个只支持[64位应用程序的](../Page/64位元.md "wikilink") macOS 版本。
 
 依循使用加州地景命名的慣例，操作系统以位于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")南部的[圣卡塔利娜岛](../Page/圣卡塔利娜岛.md "wikilink")命名\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[TWICE 1st Arena Tour 2018 : BDZ](https://zh.wikipedia.org/wiki/TWICE_1st_Arena_Tour_2018_:_BDZ)转换而来。
+
+
 **TWICE 1st Arena Tour 2018 : BDZ**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2018年舉辦的第一次日本巡迴演唱會。\[1\]
 
 ## 概述

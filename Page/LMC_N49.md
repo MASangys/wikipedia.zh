@@ -1,3 +1,6 @@
+> 本文内容由[LMC N49](https://zh.wikipedia.org/wiki/LMC_N49)转换而来。
+
+
 **N49**或**LMC N49**\[1\]**PKS 0525-66**、\[2\]\[3\]PKS B0525-661、\[4\]PKS J0525-6604、\[5\]**SNR J052559-660453**\[6\]，是[大麥哲倫星系中最明亮的](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")[超新星遗迹](../Page/超新星遗迹.md "wikilink")，距離地球約16萬光年，約5000年前形成\[7\]。
 
 ## 概要

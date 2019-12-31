@@ -1,3 +1,6 @@
+> 本文内容由[GNOME Builder](https://zh.wikipedia.org/wiki/GNOME_Builder)转换而来。
+
+
 **GNOME Builder**是[GNOME](../Page/GNOME.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")的[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）。其首个版本发布于2015年3月24日。\[1\]
 
 ## 特性

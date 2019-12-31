@@ -1,3 +1,6 @@
+> 本文内容由[No.6 Collaborations Project](https://zh.wikipedia.org/wiki/No.6_Collaborations_Project)转换而来。
+
+
 《**No.6 Collaborations Project**》是[艾德·希兰的第四张](https://zh.wikipedia.org/wiki/艾德·希兰 "wikilink")[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")，于2019年7月12日由[Asylum唱片和](https://zh.wikipedia.org/wiki/Asylum唱片 "wikilink")[大西洋唱片](../Page/大西洋唱片.md "wikilink")发行。该专辑是艾德·希兰2011年所发行的[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《No. 5 Collaborations Project》的延续。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone 6 \(2019\)](https://zh.wikipedia.org/wiki/華碩ZenFone_6_\(2019\))转换而来。
+
+
 **ASUS ZenFone 6 系列**是[華碩](../Page/華碩.md "wikilink")於2019年於[西班牙](../Page/西班牙.md "wikilink")[瓦倫西亞](../Page/瓦倫西亞.md "wikilink")發表之ZenFone第六代系列產品，為ASUS首次採用翻轉式鏡頭設計的ZenFone系列。
 
 ## 詳細規格

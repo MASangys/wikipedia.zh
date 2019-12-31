@@ -1,3 +1,6 @@
+> 本文内容由[乙酰丙酮铑\(III\)](https://zh.wikipedia.org/wiki/乙酰丙酮铑\(III\))转换而来。
+
+
 **乙酰丙酮铑(III)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为Rh(O<sub>2</sub>C<sub>5</sub>H<sub>7</sub>)<sub>3</sub>，或简写为Rh(acac)<sub>3</sub>。其分子具有D<sub>3</sub>对称性。它是黄橙色固体，可溶于有机溶剂。
 
 它可由[三氯化铑](../Page/三氯化铑.md "wikilink")三水合物和[乙酰丙酮](../Page/乙酰丙酮.md "wikilink")反应得到。\[1\]通过分离它与二苯甲酰基酒石酸的加合物，可以将其拆分为单独的对映异构体。\[2\]

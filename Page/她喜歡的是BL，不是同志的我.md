@@ -1,3 +1,6 @@
+> 本文内容由[她喜歡的是BL，不是同志的我](https://zh.wikipedia.org/wiki/她喜歡的是BL，不是同志的我)转换而来。
+
+
 **她喜歡的是BL，不是同志的我**是日本網路作家浅原ナオト的長篇小說，封面由新井陽次郎繪製。2018年2月21日由[KADOKAWA](../Page/KADOKAWA.md "wikilink")發行[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[1\]，稍後也改編成[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[2\]。[台灣角川](../Page/台灣角川.md "wikilink")則於2019年1月21日發行繁體中文版\[3\]。
 
 改編自原著的連續劇版，從2019年4月開始，在[NHK綜合台的](https://zh.wikipedia.org/wiki/NHK綜合台 "wikilink")「よるドラ」播出，並改名為《**腐女無意間跟Gay告白**》\[4\]。

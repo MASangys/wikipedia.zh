@@ -1,3 +1,6 @@
+> 本文内容由[Zameen.com](https://zh.wikipedia.org/wiki/Zameen.com)转换而来。
+
+
 **Zameen.com**（）是一个[巴基斯坦](../Page/巴基斯坦.md "wikilink")的在线[房地产](../Page/房地产.md "wikilink")[门户网站](../Page/门户网站.md "wikilink")。该网站列出了正有待售和出租房产的房地产经销商、开发商、房屋中介和物业。公司总部设在巴基斯坦[拉合尔](https://zh.wikipedia.org/wiki/拉合尔 "wikilink")，在[卡拉奇](../Page/卡拉奇.md "wikilink")、[拉合尔](https://zh.wikipedia.org/wiki/拉合尔 "wikilink")、[伊斯兰堡](../Page/伊斯兰堡.md "wikilink")、[古吉兰瓦拉](../Page/古吉兰瓦拉.md "wikilink")、[费萨拉巴德](../Page/费萨拉巴德.md "wikilink")、[白沙瓦](../Page/白沙瓦.md "wikilink")和[木尔坦等](../Page/木爾坦.md "wikilink")11个城市设有办事处，业务遍及巴基斯坦各地。该网站被认为是巴基斯坦第一个且最大的房地产门户网站。
 
 ## 历史

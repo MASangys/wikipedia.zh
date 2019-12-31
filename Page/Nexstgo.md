@@ -1,3 +1,6 @@
+> 本文内容由[Nexstgo](https://zh.wikipedia.org/wiki/Nexstgo)转换而来。
+
+
 **Nexstgo**是一家电脑科技公司，总部位于[香港](../Page/香港.md "wikilink")。該公司研發、制造及销售[个人电脑](../Page/个人电脑.md "wikilink")，[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，物联网及智能家居设备\[1\]。Nexstgo是爱高集团的全资子公司\[2\]。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:MCG](https://zh.wikipedia.org/wiki/Draft:MCG)转换而来。
+
+
 **MCG** 通常指澳洲的[爾本板球場](../Page/墨爾本板球場.md "wikilink")
 
 **MCG** 也可以指:

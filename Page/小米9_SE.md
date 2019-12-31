@@ -1,3 +1,6 @@
+> 本文内容由[小米9 SE](https://zh.wikipedia.org/wiki/小米9_SE)转换而来。
+
+
 </ref> | memory = 6GB RAM
 LPDDR4x 2133MHz | storage = 64GB/128GB [UFS 2.1](https://zh.wikipedia.org/wiki/UFS卡 "wikilink") | memory_card = 不支持 | battery = 3070mAh（typ）/ 2970mAh (min)，不可拆卸 | input = 电容式触摸屏、音量键、电源键、上下麦克风、超声波距离传感器、屏下环境光传感器、加速度传感器、陀螺仪、电子罗盘、线性马达、红外线遥控器、GPS | display = 2340×1080 FHD [AMOLED](../Page/AMOLED.md "wikilink")屏
 5.97英寸/432PPI | ext_display = | rear_camera = 4800万像素主镜头，F/1.75

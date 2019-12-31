@@ -1,3 +1,6 @@
+> 本文内容由[G.R.L.](https://zh.wikipedia.org/wiki/G.R.L.)转换而来。
+
+
 **G.R.L.**是由创建的美国－英国－加拿大[女子组合](../Page/女子音乐组合.md "wikilink")。该组合由、Natasha Slayton和Jazzy Mejia三位成员组成。原成员还包括，和Paula van Oppen。
 
 组合最初的阵容包括Slayton、Bennett、Estrada、Van Oppen和Simone Battle。他们首次亮相于《[蓝精灵2](../Page/蓝精灵2.md "wikilink")》的配乐《》中。她们后续还出现在了[Pitbull的](../Page/皮普.md "wikilink")《》这首取得国际性成功的歌曲中。该曲在美国排名前40，在英国排名前10，并获得了[美国唱片业协会](../Page/美國唱片業協會.md "wikilink")（RIAA）的白金认证。在成员Simone Battle自杀后不久，她们的第二首单曲《》获得了国际性成功。这次自杀事件导致该组合只剩四人，激发了该组合发行她们的下一首单曲《》，以纪念已故成员Battle。组合于该曲2015年6月2日发布后不久解散。

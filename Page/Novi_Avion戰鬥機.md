@@ -1,3 +1,6 @@
+> 本文内容由[Novi Avion戰鬥機](https://zh.wikipedia.org/wiki/Novi_Avion戰鬥機)转换而来。
+
+
 [Novi_avion_YU_01.JPG](https://zh.wikipedia.org/wiki/File:Novi_avion_YU_01.JPG "fig:Novi_avion_YU_01.JPG")方案。\]\] [Novi_avion_YU.JPG](https://zh.wikipedia.org/wiki/File:Novi_avion_YU.JPG "fig:Novi_avion_YU.JPG")-[鴨翼](https://zh.wikipedia.org/wiki/鴨翼 "wikilink")（Delta-Canard）佈局。\]\] [Novi13ot.jpg](https://zh.wikipedia.org/wiki/File:Novi13ot.jpg "fig:Novi13ot.jpg") [Unutrasnji_izgled_eksperimentalne_kabine_za_Novi_avion.jpg](https://zh.wikipedia.org/wiki/File:Unutrasnji_izgled_eksperimentalne_kabine_za_Novi_avion.jpg "fig:Unutrasnji_izgled_eksperimentalne_kabine_za_Novi_avion.jpg")，當時屬相當前衛。\]\]
 
 **Novi Avion**（塞爾維亞語：Нови Aвион ），為南斯拉夫開發的[第四代戰鬥機](../Page/第四代戰鬥機.md "wikilink")。研發項目由（，現，Vazduhoplovno Tehnički Institut，VTI）主導，並在研發過程中獲得[法國協助](https://zh.wikipedia.org/wiki/法國 "wikilink")，特別是與[達索航空進行合作研發](https://zh.wikipedia.org/wiki/達索航空 "wikilink")。Novi Avion使用了[三角翼](../Page/三角翼.md "wikilink")與[鴨翼佈局](https://zh.wikipedia.org/wiki/鴨翼 "wikilink")。\[1\]按照原定預期的開發計劃，Novi Avion 戰鬥機項目將於10年內完成研發並投入使用以取代[南斯拉夫空軍日漸老舊的](../Page/南斯拉夫人民軍.md "wikilink")[米格-21戰鬥機](../Page/米格-21戰鬥機.md "wikilink")機隊及對外進行外銷，然而項目由於1992年[南斯拉夫內戰](../Page/南斯拉夫內戰.md "wikilink")的爆發和[解體而取消](../Page/南斯拉夫解體.md "wikilink")。

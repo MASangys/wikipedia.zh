@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia XZ3](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ3)转换而来。
+
+
 **Xperia XZ3**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2018年8月30日公開發表的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 颜色

@@ -1,3 +1,6 @@
+> 本文内容由[維多利亞 Victoria One](https://zh.wikipedia.org/wiki/維多利亞_Victoria_One)转换而来。
+
+
 《**維多利亞 Victoria One**》\[1\]是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[古巨基](../Page/古巨基.md "wikilink")的個人音樂專輯，於2018年12月11日推出。
 
 ## 曲目列表

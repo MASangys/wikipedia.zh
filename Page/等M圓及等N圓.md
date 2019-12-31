@@ -1,3 +1,6 @@
+> 本文内容由[等M圓及等N圓](https://zh.wikipedia.org/wiki/等M圓及等N圓)转换而来。
+
+
 [Nyquist_grid.svg](https://zh.wikipedia.org/wiki/File:Nyquist_grid.svg "fig:Nyquist_grid.svg") **等M圓**及**等N圓**（M-circles and N-circles）英文也稱為是Hall circles，是[控制理论](../Page/控制理论.md "wikilink")中利用開迴路傳遞函數的[奈奎斯特圖](https://zh.wikipedia.org/wiki/奈奎斯特圖 "wikilink")（或[尼柯尔斯图](../Page/尼柯尔斯图.md "wikilink")）來求得其[閉迴路傳遞函數數值的繪圖工具](https://zh.wikipedia.org/wiki/閉迴路傳遞函數 "wikilink")。此作法最早是由Albert C. Hall在其控制理論的論文中提出\[1\]。
 
 ## 建構方式

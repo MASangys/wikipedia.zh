@@ -1,3 +1,6 @@
+> 本文内容由[美食獵人 \& ONE PIECE \& 七龍珠Z 超夢幻合作特別篇！！](https://zh.wikipedia.org/wiki/美食獵人_\&_ONE_PIECE_\&_七龍珠Z_超夢幻合作特別篇！！)转换而来。
+
+
 《**美食獵人 & ONE PIECE & 七龍珠Z 超夢幻合作特別篇！！**》（），是2013年4月7日於[富士電視台](../Page/富士電視台.md "wikilink")播放的動畫作品。\[1\]
 
 本作是《[美食獵人](https://zh.wikipedia.org/wiki/美食獵人 "wikilink")》、《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》和《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》三部作品的[合作特別篇](https://zh.wikipedia.org/wiki/合作 "wikilink")。

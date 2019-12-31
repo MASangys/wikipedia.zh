@@ -1,3 +1,6 @@
+> 本文内容由[Dell Wyse](https://zh.wikipedia.org/wiki/Dell_Wyse)转换而来。
+
+
 **Wyse** 是一家[美国](../Page/美国.md "wikilink")\[1\][云计算系统提供商](../Page/雲端運算.md "wikilink")，由Garwing Wu，Ts Bernard和Trace Tse于1981年成立Wyse Technology\[2\]。\[3\]目前的产品包括[瘦客户机软件和硬件](../Page/瘦客户端.md "wikilink")\[4\]以及[桌面虚拟化解决方案](https://zh.wikipedia.org/wiki/虚拟桌面 "wikilink")。\[5\]其他产品包括含有云端軟件支持的[台式电脑](../Page/桌上型電腦.md "wikilink")、[笔记本电脑和移动设备](../Page/筆記型電腦.md "wikilink")。\[6\]Wyse的IT供应商包括[Citrix](../Page/思杰系统.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[Microsoft](../Page/微软.md "wikilink")，以及[VMware](../Page/VMware.md "wikilink")等公司\[7\]。
 
 2012年4月2日，[戴尔宣布收購Wyse](../Page/戴爾.md "wikilink") Technology。\[8\]通过这次收购，戴尔在瘦客户机市场上超越了其竞争对手[惠普](../Page/惠普.md "wikilink")。\[9\]2012年5月25日，戴尔完成收购程序，\[10\]並將Wyse Technology更名為**Dell Wyse**。

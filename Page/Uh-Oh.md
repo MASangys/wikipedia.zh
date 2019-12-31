@@ -1,3 +1,6 @@
+> 本文内容由[Uh-Oh](https://zh.wikipedia.org/wiki/Uh-Oh)转换而来。
+
+
 《**Uh-Oh**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")第二張數位單曲，於2019年6月26日推出。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[OPEN HEARTS EVE](https://zh.wikipedia.org/wiki/OPEN_HEARTS_EVE)转换而来。
+
+
 **《TIFFANY YOUNG OPEN HEARTS EVE》**（），是韓國女子組合[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Tiffany Young首場個人亞洲巡迴演唱會亦是繼三年前](https://zh.wikipedia.org/wiki/黃美英 "wikilink")《[WEEKEND－TIFFANY](../Page/WEEKEND－TIFFANY.md "wikilink")》後再度於韓國首爾舉行個人演唱會。\[1\]
 
 ## 概要

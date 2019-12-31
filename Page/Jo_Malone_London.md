@@ -1,3 +1,6 @@
+> 本文内容由[Jo Malone London](https://zh.wikipedia.org/wiki/Jo_Malone_London)转换而来。
+
+
 **Jo Malone London** 是一個英國香水和香味蠟燭品牌，由 Jo Malone 於1983年創立。它自1999年以來由[雅詩蘭黛](https://zh.wikipedia.org/wiki/雅詩蘭黛 "wikilink")（EstéeLauder）擁有。 該品牌以其昂貴的香水，豪華蠟燭，沐浴產品和室內香水而聞名。
 
 ## 歷史和媒體

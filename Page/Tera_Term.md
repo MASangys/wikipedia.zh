@@ -1,3 +1,6 @@
+> 本文内容由[Tera Term](https://zh.wikipedia.org/wiki/Tera_Term)转换而来。
+
+
 **Tera Term**（テラターム），一开始是由一名叫 寺西 高（てらにし たかし 的物理学家开发并发布的，之后是由TeraTerm Project 在 [BSD许可证](../Page/BSD许可证.md "wikilink")下 进行维护支持。这是一款远程客户端操作软件。
 
 该软件支持的[通信协议有](../Page/网络传输协议.md "wikilink")[SSH](../Page/Secure_Shell.md "wikilink")、[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")、[串行通信](../Page/串行通信.md "wikilink")（serial）<sup>\[待考证\]</sup> ，支持操作系统有[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 。

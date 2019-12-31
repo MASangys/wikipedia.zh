@@ -1,3 +1,6 @@
+> 本文内容由[降A大调波兰舞曲 \(肖邦\)](https://zh.wikipedia.org/wiki/降A大调波兰舞曲_\(肖邦\))转换而来。
+
+
 **降A大调波兰舞曲“英雄”，作品53号**（Polonaise "héroïque" in A-flat major, Op. 53），是波兰作曲家[弗雷德里克·肖邦](../Page/弗雷德里克·肖邦.md "wikilink")创作于1842年的一首[波兰舞曲](https://zh.wikipedia.org/wiki/波兰舞曲 "wikilink")，献给其好友——德国犹太银行家奥古斯特·莱奥（Auguste Léo），是肖邦最著名和最重要的钢琴作品之一。作品标题“英雄”为后来音乐学家和钢琴家所加。
 
 ## 结构

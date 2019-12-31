@@ -1,3 +1,6 @@
+> 本文内容由[SKZ-TALKER](https://zh.wikipedia.org/wiki/SKZ-TALKER)转换而来。
+
+
 **《SKZ-TALKER》**（）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[綜藝節目](https://zh.wikipedia.org/wiki/綜藝 "wikilink")。 紀錄[Stray Kids正式出道後的活動花絮](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，以及待機室與舞台下的面貌，真人秀出動，拍攝時間限定於活動期\[1\]。
 
 ## SK-TALKER

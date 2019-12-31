@@ -1,3 +1,6 @@
+> 本文内容由[约翰·G·F·弗朗西斯](https://zh.wikipedia.org/wiki/约翰·G·F·弗朗西斯)转换而来。
+
+
 **约翰·G·F·弗朗西斯**（，）是一名[英国计算机从业者](../Page/英国人.md "wikilink")，曾于1961年独立发表了用于[矩阵](../Page/矩阵.md "wikilink")计算的。\[1\]\[2\]QR算法是20世纪最知名的算法之一\[3\]\[4\]，但弗朗西斯本人却被世人遗忘了近半个世纪。[苏联](../Page/苏联.md "wikilink")女研究者也曾于同年独立提出此算法。\[5\]
 
 1934年，弗朗西斯出生于英国[伦敦](../Page/伦敦.md "wikilink")。1954年，他在国家研究发展中心（National Research Development Corporation，简称“NRDC”）工作。1955年-1956年，他入读英国[剑桥大学](../Page/剑桥大学.md "wikilink")，但是没有拿到学位。之后他回到了NRDC，担任[克里斯托弗·斯特雷奇](../Page/克里斯托弗·斯特雷奇.md "wikilink")的助理。他在这期间发明了QR变换算法。1961年，他离开NRDC，前往工作。之后，又去了英国[萨塞克斯大学](../Page/萨塞克斯大学.md "wikilink")。后来，他辗转于多家工业机构与咨询机构。他的兴趣方向覆盖[人工智能](../Page/人工智能.md "wikilink")、[程序语言和](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[系统工程](../Page/系统工程.md "wikilink")，但是再也没有回到[数值计算领域](https://zh.wikipedia.org/wiki/数值计算 "wikilink")。\[6\]

@@ -1,3 +1,6 @@
+> 本文内容由[獨族App](https://zh.wikipedia.org/wiki/獨族App)转换而来。
+
+
 《**獨族App**》（，或**Solitary Clan App**）是韩国[JTBC](../Page/JTBC.md "wikilink")於2019年8月3日開始播放的電視节目\[1\]\[2\]，由[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")，是關於獨自一人能做的所有事情的「新概念社群網路觀察排行秀」，公開享受「獨自生活」的藝人們不一樣的生活風格，還會為陷進獨自生活的人們提供夢想的日常、情報、親睦等不同的信息\[3\]\[4\]。
 
 ## 播出时间

@@ -1,3 +1,6 @@
+> 本文内容由[NGT48的新潟朋友！](https://zh.wikipedia.org/wiki/NGT48的新潟朋友！)转换而来。
+
+
 《**NGT48的新潟朋友！**》（）是2017年1月17日至2019年3月26日，每週一24時59分至25時29分（即週二凌晨；[JST](../Page/日本標準時間.md "wikilink")）於[新潟電視台播出的](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，為日本女子偶像團體[NGT48](../Page/NGT48.md "wikilink")首檔在[無線電視平台播出的冠名節目](https://zh.wikipedia.org/wiki/無線電視 "wikilink")\[1\]\[2\]，主持人為搞笑二人組。簡稱「潟朋」（）\[3\]。
 
 ## 簡介

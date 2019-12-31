@@ -1,3 +1,6 @@
+> 本文内容由[TWICE DOME TOUR 2019 : ＃Dreamday](https://zh.wikipedia.org/wiki/TWICE_DOME_TOUR_2019_:_＃Dreamday)转换而来。
+
+
 **TWICE DOME TOUR 2019 : \#Dreamday**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2019年舉辦的第一次日本巨蛋巡迴演唱會。\[1\]
 
 ## 概述

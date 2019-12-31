@@ -1,3 +1,6 @@
+> 本文内容由[2,3-Wittig重排反应](https://zh.wikipedia.org/wiki/2,3-Wittig重排反应)转换而来。
+
+
 **\[2,3\]-维蒂希重排反应**是将一个[烯丙基](https://zh.wikipedia.org/wiki/烯丙基 "wikilink")[醚](../Page/醚.md "wikilink")转换成一个高烯丙[醇](../Page/醇.md "wikilink")的协同[周环反应](https://zh.wikipedia.org/wiki/周环反应 "wikilink")。该反应属于协同反应，因此具有较高的立体选择性，可以在合成途径前期用于构建手性中心。不过因为关键中间体有着碳负的结构，维蒂希重排需要强碱性条件。\[\[维蒂希重排反应|\[1,2\]-维蒂希重排反应\]\]是其竞争反应。\[1\]
 
 产生异构戊-5-烯-1-醇的\[1,2\] -Wittig重排是一种在高温下发生的竞争过程。\[2\]由于\[2,3\] - 重排的高原子经济性和立体选择性，它已经获得了相当大的合成效用。碳阴离子通过中等酸性底物的直接锂化，锡金属转移反应或O，S-缩醛的还原锂化而产生。使用手性起始材料的[立体选择性方法已被用于实现不对称诱导或简单的非对映选择](https://zh.wikipedia.org/wiki/立体选择性 "wikilink")\[3\] <span style="float:right;padding-right:50px;padding-top:30px;">***(1)***</span>

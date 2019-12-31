@@ -1,3 +1,6 @@
+> 本文内容由[MF GHOST](https://zh.wikipedia.org/wiki/MF_GHOST)转换而来。
+
+
 《**MF GHOST**》（，台灣譯名：**MF GHOST 燃油車鬥魂**）為[重野秀一](../Page/重野秀一.md "wikilink")在2013年完結《[頭文字D](../Page/頭文字D.md "wikilink")》時隔4年後於《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車漫畫作品\[1\]。
 
 ## 故事概要

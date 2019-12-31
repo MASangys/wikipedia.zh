@@ -1,3 +1,6 @@
+> 本文内容由[Juke Vox](https://zh.wikipedia.org/wiki/Juke_Vox)转换而来。
+
+
 《**Juke Vox**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[宇浦冴香](../Page/宇浦冴香.md "wikilink")的第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 概要

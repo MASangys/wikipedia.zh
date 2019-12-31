@@ -1,3 +1,6 @@
+> 本文内容由[SETL](https://zh.wikipedia.org/wiki/SETL)转换而来。
+
+
 **SETL** （SET语言）是一种基于[数学](../Page/数学.md "wikilink")[集论的](https://zh.wikipedia.org/wiki/集论 "wikilink")[非常高阶编程语言](../Page/非常高阶编程语言.md "wikilink")。它最初由（Jack）Jacob T. Schwartz 于二十世纪六十年代末在[纽约大学](../Page/纽约大学.md "wikilink")[科朗数学研究所](../Page/科朗数学研究所.md "wikilink")开发。
 
 ## 设计

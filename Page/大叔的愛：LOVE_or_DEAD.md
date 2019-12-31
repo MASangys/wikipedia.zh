@@ -1,3 +1,6 @@
+> 本文内容由[大叔的愛：LOVE or DEAD](https://zh.wikipedia.org/wiki/大叔的愛：LOVE_or_DEAD)转换而来。
+
+
 《**大叔的愛：LOVE or DEAD**》（）是一部於2019年上映的[日本](../Page/日本.md "wikilink")[同性](../Page/同性戀.md "wikilink")[愛情](../Page/愛情.md "wikilink")[喜劇電影](../Page/喜劇電影.md "wikilink")，為2018年電視劇《[大叔的愛](../Page/大叔的愛.md "wikilink")》的劇場版，由執導，[田中圭](../Page/田中圭.md "wikilink")、[林遣都](../Page/林遣都.md "wikilink")、[内田理央](https://zh.wikipedia.org/wiki/内田理央 "wikilink")、[金子大地](../Page/金子大地.md "wikilink")、、[兒嶋一哉](../Page/兒嶋一哉.md "wikilink")、[澤村一樹](../Page/澤村一樹.md "wikilink")、[志尊淳](../Page/志尊淳.md "wikilink")、[真島秀和](../Page/真島秀和.md "wikilink")、[大塚寧寧](../Page/大塚寧寧.md "wikilink")和[吉田鋼太郎主演](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")。電影於2019年8月23日在日本上映。
 
 ## 登場人物

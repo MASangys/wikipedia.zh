@@ -1,3 +1,6 @@
+> 本文内容由[Secret Boutique](https://zh.wikipedia.org/wiki/Secret_Boutique)转换而来。
+
+
 《**Secret Boutique**》（，），為韓國[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年9月18日起播出的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，由《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》的朴亨基導演和《[人生追擊者李載求](../Page/人生追擊者李載求.md "wikilink")》的許善熙作家合作打造。此劇講述在國際都市開發事件中，女人之間在其中爭奪權力、復仇，和尋求生存力量，被金錢和權力所吞噬的故事。\[1\]\[2\]
 
 台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")、myVideo、[LINE TV](../Page/LINE_TV.md "wikilink") 、WeTV台灣站 9/19起週四五跟播，[LiTV 線上影視](../Page/LiTV_線上影視.md "wikilink")11月上架，香港由[myTV SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。

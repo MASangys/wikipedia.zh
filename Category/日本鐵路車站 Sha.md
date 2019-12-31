@@ -1,3 +1,6 @@
+> 本文内容由[Category:日本鐵路車站 Sha](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Sha)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

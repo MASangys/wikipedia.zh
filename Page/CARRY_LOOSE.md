@@ -1,3 +1,6 @@
+> 本文内容由[CARRY LOOSE](https://zh.wikipedia.org/wiki/CARRY_LOOSE)转换而来。
+
+
 CARRY LOOSE（キャリールーズ）\[1\]是日本的4人音樂團體、[日本](../Page/日本.md "wikilink")的[女子偶像團體](../Page/偶像_\(日本\).md "wikilink")\[2\]。
 2019年結成。\[3\]隸屬於WACK。唱片公司為T-Palette Records。他們的粉絲被官方稱為「配達員」。
 

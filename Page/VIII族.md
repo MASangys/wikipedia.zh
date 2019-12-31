@@ -1,3 +1,6 @@
+> 本文内容由[VIII族](https://zh.wikipedia.org/wiki/VIII族)转换而来。
+
+
 |-  **VIIIB族**（中国大陆常称**-{VIII}-族**，CAS法称**-{VIIIB}-族**）是指[元素週期表上](https://zh.wikipedia.org/wiki/元素週期表 "wikilink")[第8](../Page/8族元素.md "wikilink")、[第9和](../Page/9族元素.md "wikilink")[第10](../Page/10族元素.md "wikilink")[族的合稱](https://zh.wikipedia.org/wiki/族_\(化學\) "wikilink")。此三族元素的[原子半徑十分相近](https://zh.wikipedia.org/wiki/原子半徑 "wikilink")，因此它們具有相似的性質。其中位於[第4週期的VIIIB族元素合稱為](https://zh.wikipedia.org/wiki/第4週期 "wikilink")[鐵系元素](../Page/鐵系元素.md "wikilink")，皆具有[鐵磁性](https://zh.wikipedia.org/wiki/鐵磁性 "wikilink")；位於[第5和](https://zh.wikipedia.org/wiki/第5週期 "wikilink")[第6週期者則合稱為](https://zh.wikipedia.org/wiki/第6週期 "wikilink")[鉑系元素](../Page/鉑系元素.md "wikilink")，皆為耐高溫且耐腐蝕的銀白色[貴金屬](../Page/貴金屬.md "wikilink")；而位於[第7週期者皆為具極高](https://zh.wikipedia.org/wiki/第7週期 "wikilink")[放射性](../Page/放射性.md "wikilink")、非常不穩定的[人造](../Page/人工合成元素.md "wikilink")[超重元素](../Page/超重元素.md "wikilink")。
 
 ## 定義

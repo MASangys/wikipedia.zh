@@ -1,3 +1,6 @@
+> 本文内容由[Rozee.pk](https://zh.wikipedia.org/wiki/Rozee.pk)转换而来。
+
+
 **Rozee.pk**（，[直译](https://zh.wikipedia.org/wiki/直译 "wikilink")：“”；中文翻译：**罗资**）是[巴基斯坦](../Page/巴基斯坦.md "wikilink")最大的求职和[招聘网站](https://zh.wikipedia.org/wiki/招聘 "wikilink")。该网站由互联网企业家于2007年创建，由拥有和运营。该网站主要用于寻找中低层职位的空缺。2013年，Rozee.pk还收购了[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")的就业网站Mihnati.com。2016年，网站整体重构，更换了界面、算法和[Logo](https://zh.wikipedia.org/wiki/Logo "wikilink")。
 
 ## 历史

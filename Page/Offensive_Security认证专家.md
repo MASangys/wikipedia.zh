@@ -1,3 +1,6 @@
+> 本文内容由[Offensive Security认证专家](https://zh.wikipedia.org/wiki/Offensive_Security认证专家)转换而来。
+
+
 **Offensive Security认证专家**（Offensive Security Certified Professional，縮寫 OSCP），是Offensive Security提供的一项道德黑客认证，它教授[渗透测试方法和](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")[Kali Linux发行版](../Page/Kali_Linux.md "wikilink")（[BackTrack](../Page/BackTrack.md "wikilink")的后续版本）中所包含工具的使用方法。\[1\]OSCP是一项实践的渗透测试认证，要求持有者在安全的实验室环境中成功攻击和渗透各种实时机器。\[2\]它被认为比其他道德黑客认证更具有技术性，并且是少数的需要实际渗透测试技能证明的认证之一。\[3\]\[4\]\[5\]
 
 ## OSCP课程

@@ -1,3 +1,6 @@
+> 本文内容由[Cre-Lox重组](https://zh.wikipedia.org/wiki/Cre-Lox重组)转换而来。
+
+
 **Cre-Lox重组**是一种用于在细胞[DNA的特定位点上进行](https://zh.wikipedia.org/wiki/DNA "wikilink")[删除](https://zh.wikipedia.org/wiki/刪除_\(遺傳學\) "wikilink")、[插入](https://zh.wikipedia.org/wiki/插入_\(遺傳學\) "wikilink")、[转座和](../Page/转座子.md "wikilink")[倒位操作的](https://zh.wikipedia.org/wiki/倒位 "wikilink")[位点特异性重组酶技术](https://zh.wikipedia.org/wiki/位点特异性重组酶技术 "wikilink")，其特点在于可以让DNA修改对指定的特定细胞群进行，或是使修改过程由特定的外部刺激所触发。此技术对[真核和](../Page/真核生物.md "wikilink")[原核细胞都适用](https://zh.wikipedia.org/wiki/原核细胞 "wikilink")。特别地，对研究由各种复杂细胞和神经通路复合而形成认知行为的大脑的[神经生物学家而言](https://zh.wikipedia.org/wiki/神经生物学家 "wikilink")，这种技术已被证明是相当实用的。
 
 这个重组体系由单个酶组成，即可以让一对被称为Lox序列的短目标序列进行[重组的](https://zh.wikipedia.org/wiki/重组DNA "wikilink")[Cre重组酶](https://zh.wikipedia.org/wiki/Cre重组酶 "wikilink")，除此之外不需要插入其他的额外蛋白或序列。Cre重组酶和源Lox序列（即LoxP序列）是从P1[噬菌体](../Page/噬菌体.md "wikilink")中获取的。

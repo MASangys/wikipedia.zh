@@ -1,3 +1,6 @@
+> 本文内容由[CaPt2](https://zh.wikipedia.org/wiki/CaPt2)转换而来。
+
+
 **CaPt<sub>2</sub>**是一种由[钙](../Page/钙.md "wikilink")和[铂](../Page/铂.md "wikilink")构成的[金属间化合物](https://zh.wikipedia.org/wiki/金属间化合物 "wikilink")，可以结晶。它在高温、低压下蒸馏，可以得到金属[钙](../Page/钙.md "wikilink")。\[1\]
 
 ## 制备

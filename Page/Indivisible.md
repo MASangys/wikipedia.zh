@@ -1,3 +1,6 @@
+> 本文内容由[Indivisible](https://zh.wikipedia.org/wiki/Indivisible)转换而来。
+
+
 是一款由Lab Zero Games開發、[505 Games發行的](https://zh.wikipedia.org/wiki/505_Games "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。\[1\]於2019年10月8日在[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")與[MacOS](../Page/MacOS.md "wikilink")平台推出，Switch版則會較晚發售。\[2\]本作也支援繁簡中文字幕。本作是Lab Zero Games的第二款作品，他們的首款作品是2D格鬥遊戲《[骷髏少女](../Page/骷髏少女.md "wikilink")》。
 
 ## 遊玩方式

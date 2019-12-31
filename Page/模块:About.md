@@ -1,3 +1,6 @@
+> 本文内容由[模块:About](https://zh.wikipedia.org/wiki/模块:About)转换而来。
+
+
 local mArguments --initialize lazily local mHatnote = require('Module:Hatnote') local mHatList = require('Module:Hatnote list') local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local p = {}
 
 function p.about (frame)

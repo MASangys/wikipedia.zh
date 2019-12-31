@@ -1,3 +1,6 @@
+> 本文内容由[Monkey Black](https://zh.wikipedia.org/wiki/Monkey_Black)转换而来。
+
+
 **莱昂纳多·迈克尔·弗洛雷斯·奥苏纳**（），以其艺名**Monkey Black**闻名，是[多米尼加的一位](https://zh.wikipedia.org/wiki/多米尼加 "wikilink")家，1986年7月26日生于，2014年4月30日死于[聖阿德里安-德貝索斯](https://zh.wikipedia.org/wiki/聖阿德里安-德貝索斯 "wikilink")。\[1\]\[2\]
 
 ## 音乐作品

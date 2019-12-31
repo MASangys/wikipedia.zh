@@ -1,3 +1,6 @@
+> 本文内容由[真·三国无双 Advance](https://zh.wikipedia.org/wiki/真·三国无双_Advance)转换而来。
+
+
 是[光荣](../Page/光荣.md "wikilink")公司的Omega Force小组开发，光荣和[任天堂](../Page/任天堂.md "wikilink")共同于2005年在[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")（GBA）上发行的[砍杀游戏](../Page/砍殺遊戲.md "wikilink")，也是[真·三国无双系列游戏在](../Page/真·三國無雙系列.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")平台的首作。本作的标语是“将之所至，无人能敌”（）。
 
 ## 玩法

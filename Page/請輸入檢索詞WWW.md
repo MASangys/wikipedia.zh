@@ -1,3 +1,6 @@
+> 本文内容由[請輸入檢索詞WWW](https://zh.wikipedia.org/wiki/請輸入檢索詞WWW)转换而来。
+
+
 《**請輸入檢索詞WWW**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年6月5日起播出的[水木連續劇](../Page/TvN水木連續劇.md "wikilink")，由《[陽光先生](../Page/陽光先生.md "wikilink")》的鄭志賢導演與曾擔任[金銀淑](../Page/金銀淑.md "wikilink")作家助理的權度恩作家合作打造。此劇以入口網站業界的激烈競爭為背景，講述沒有選擇成為妻子或母親的當今女性的真實生活和成功故事。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 演員陣容

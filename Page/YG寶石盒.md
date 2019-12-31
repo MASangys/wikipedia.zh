@@ -1,3 +1,6 @@
+> 本文内容由[YG寶石盒](https://zh.wikipedia.org/wiki/YG寶石盒)转换而来。
+
+
 《**YG寶石盒**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")於2018年至2019年推出的綜藝節目\[1\]，節目主軸為[YG娛樂](../Page/YG娛樂.md "wikilink")練習生選出新男團出道節目。出道組男團為[TREASURE](../Page/Treasure_\(組合\).md "wikilink")，追加出道組男團為[MAGNUM](../Page/MAGNUM.md "wikilink")，兩團合稱為[TREASURE 13](../Page/TREASURE_13.md "wikilink")，三隊共用的官方粉絲名為TREASURE MAKER。\[2\] 預計於2019年5\~7月間出道。
 
 ## 競賽成員

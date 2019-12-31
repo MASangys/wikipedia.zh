@@ -1,3 +1,6 @@
+> 本文内容由[HUSH \(EVERGLOW單曲\)](https://zh.wikipedia.org/wiki/HUSH_\(EVERGLOW單曲\))转换而来。
+
+
 《**HUSH**》是韩国女子团体[EVERGLOW](../Page/EVERGLOW.md "wikilink")第二张单曲专辑，由乐华娱乐于2019年8月19日发行。
 
 ## 日程

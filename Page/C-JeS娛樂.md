@@ -1,3 +1,6 @@
+> 本文内容由[C-JeS娛樂](https://zh.wikipedia.org/wiki/C-JeS娛樂)转换而来。
+
+
 **C-JeS娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 歷史

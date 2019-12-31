@@ -1,3 +1,6 @@
+> 本文内容由[Objdump](https://zh.wikipedia.org/wiki/Objdump)转换而来。
+
+
 **objdump**是在[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")上显示关于[目标文件的各种信息的](https://zh.wikipedia.org/wiki/目标文件 "wikilink")[命令行程序](../Page/命令行界面.md "wikilink")。例如，它可用作[反汇编器](../Page/反汇编器.md "wikilink")来以汇编代码形式查看[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。它是[GNU Binutils的一部分](../Page/GNU_Binutils.md "wikilink")，用于在可执行文件和其他二进制数据上进行精细粒度控制。objdump使用[BFD库来读取目标文件的内容](../Page/二进制文件描述库.md "wikilink")。类似工具还有[readelf](https://zh.wikipedia.org/wiki/readelf "wikilink")、[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [DUMPBIN和](https://zh.wikipedia.org/wiki/DUMPBIN "wikilink")[Borland](../Page/Borland.md "wikilink") [TDUMP](https://zh.wikipedia.org/wiki/TDUMP "wikilink")。
 
 注意在特定平台（比如Mac OS X）上，objdump二进制文件可能实际上被连接到[llvm的objdump](../Page/LLVM.md "wikilink")，它有着不同的命令选项和表现。

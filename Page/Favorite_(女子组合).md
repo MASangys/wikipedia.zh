@@ -1,3 +1,6 @@
+> 本文内容由[Favorite \(女子组合\)](https://zh.wikipedia.org/wiki/Favorite_\(女子组合\))转换而来。
+
+
 **Favorite**（韩语：**페이버릿**）是A story娱乐旗下的韩国女子音乐团体，组合成员有6名，分别为：Seabom、Seoyeon、Gaeul、Sukyung、Junghee、Ahra。组合于2017年7月5日携迷你专辑《My Favorite》正式出道。\[1\]\[2\]<font color="#0645ad"></font>
 
 ## 成员

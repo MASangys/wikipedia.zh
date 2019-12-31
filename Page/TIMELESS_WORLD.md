@@ -1,3 +1,6 @@
+> 本文内容由[TIMELESS WORLD](https://zh.wikipedia.org/wiki/TIMELESS_WORLD)转换而来。
+
+
 《**TIMELESS WORLD**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[可苦可樂](../Page/可苦可樂.md "wikilink")的第9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2016年6月15日發行。
 
 ## 簡介

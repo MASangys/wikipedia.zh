@@ -1,3 +1,6 @@
+> 本文内容由[愛到不要命 Die Lovin\'](https://zh.wikipedia.org/wiki/愛到不要命_Die_Lovin\')转换而来。
+
+
 ''' 愛到不要命 Die Lovin' '''（）是歌手[丁噹](../Page/丁噹.md "wikilink")的第9張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2019年3月25日起開始預購，同年4月2日正式發行。
 
 ## 曲目

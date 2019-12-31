@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Ben Barres](https://zh.wikipedia.org/wiki/Draft:Ben_Barres)转换而来。
+
+
 本·巴雷斯（Ben A. Barres，1954年9月13日–2017年12月27日）\[1\]是美國[史丹佛大學](../Page/史丹佛大學.md "wikilink")的[神經生物學家](https://zh.wikipedia.org/wiki/Neuroscientist "wikilink")\[2\] 。他的研究集中於 [神經系統中](https://zh.wikipedia.org/wiki/神經系統 "wikilink")[神經元](../Page/神經元.md "wikilink")與間的交互作用。從2008年開始，他擔任[史丹佛大學醫學院神經生物學系系主任](../Page/斯坦福医学院.md "wikilink")。他於1997年成為一位[跨性別男性](https://zh.wikipedia.org/wiki/Trans_man "wikilink")，並於2013年成為[美國國家科學院第一位公開轉性的科學家](https://zh.wikipedia.org/wiki/National_Academy_of_Sciences "wikilink")。\[3\]
 
 <table>

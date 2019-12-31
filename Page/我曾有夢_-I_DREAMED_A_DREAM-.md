@@ -1,3 +1,6 @@
+> 本文内容由[我曾有夢 -I DREAMED A DREAM-](https://zh.wikipedia.org/wiki/我曾有夢_-I_DREAMED_A_DREAM-)转换而来。
+
+
 《**我曾有夢 -I DREAMED A DREAM-**》（夢やぶれて -I DREAMED A DREAM-）為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第27張單曲，為[音樂劇](../Page/音樂劇.md "wikilink")《[悲慘世界](../Page/悲慘世界_\(音樂劇\).md "wikilink")》中之歌曲〈[我曾有夢](../Page/我曾有夢.md "wikilink")〉[日語翻唱的首張實體化單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[Bruno Bischofberger](https://zh.wikipedia.org/wiki/Bruno_Bischofberger)转换而来。
+
+
 **Bruno Bischofberger**（\* 1940 年出生于[苏黎世](../Page/苏黎世.md "wikilink")）是一位瑞士籍画廊经营者及收藏家。
 
 ## 生平

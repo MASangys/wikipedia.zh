@@ -1,3 +1,6 @@
+> 本文内容由[GnuCOBOL](https://zh.wikipedia.org/wiki/GnuCOBOL)转换而来。
+
+
 **GnuCOBOL** （曾称**OpenCOBOL** 、**GNU Cobol** ）是[COBOL](../Page/COBOL.md "wikilink")编程语言的免费实现。最初由Keisuke Nishida设计，领导开发由Roger While负责。现在的发展是由Simon Sobisch，Sergey Kashyrin，Ron Norman，Edward Hart和其他许多人领导。\[1\]
 
 ## 历史

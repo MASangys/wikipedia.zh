@@ -1,3 +1,6 @@
+> 本文内容由[LSF](https://zh.wikipedia.org/wiki/LSF)转换而来。
+
+
 **LSF**可以指：
 
   - 線傳播函數（Line spread function）

@@ -1,3 +1,6 @@
+> 本文内容由[模块:PeriodicTable](https://zh.wikipedia.org/wiki/模块:PeriodicTable)转换而来。
+
+
 local p = {} local origArgs local periodicTable_tlcss = '' local periodicTable_math_group1 = '' local error = require( 'Module:Error' )
 
 p.utils = require( 'Module:PeriodicTable/utils' )

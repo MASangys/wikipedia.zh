@@ -1,3 +1,6 @@
+> 本文内容由[CHANGE!!!!](https://zh.wikipedia.org/wiki/CHANGE!!!!)转换而来。
+
+
 《**CHANGE\!\!\!\!**》（日語：），是765PRO ALLSTARS的一首樂曲，同名[单曲](../Page/单曲.md "wikilink")作為《THE IDOLM@STER ANIM@TION MASTER》系列第四張單曲於[2011年](../Page/2011年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。
 
 ## 概要

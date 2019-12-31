@@ -1,3 +1,6 @@
+> 本文内容由[B\&T VP9消聲手槍](https://zh.wikipedia.org/wiki/B\&T_VP9消聲手槍)转换而来。
+
+
 **B\&T VP9**（）\[1\]是一枝由位於[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[图恩](../Page/图恩.md "wikilink")的槍械（及其附件的）製造商（簡稱：B\&T或B+T）公司所設計及生產的[栓動](../Page/手動槍機.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")供彈式[微声](../Page/抑制器.md "wikilink")[手枪](../Page/手枪.md "wikilink")。當中VP的英文全寫為「」，[中文意為](../Page/汉语.md "wikilink")「[兽医](../Page/兽医.md "wikilink")手槍」，即用以為了遏制生病和受傷的動物。該設計基於[威爾羅德消聲手槍](../Page/威爾羅德消聲手槍.md "wikilink")。發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節

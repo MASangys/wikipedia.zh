@@ -1,3 +1,6 @@
+> 本文内容由[HEART\*IZ](https://zh.wikipedia.org/wiki/HEART\*IZ)转换而来。
+
+
 《**HEART\*IZ**》是[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")第二張韩语迷你專輯，由Off The Record娛樂製作，[Stone Music娛樂發行](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")，於2019年4月1日推出，主打歌曲為《Violeta》。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[大黃蜂 \(DC漫畫\)](https://zh.wikipedia.org/wiki/大黃蜂_\(DC漫畫\))转换而来。
+
+
 **大黃蜂**（）是[美国](../Page/美国.md "wikilink")[DC漫画旗下的女性](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")[超级英雄](../Page/超级英雄.md "wikilink")角色，首次登場於《[少年泰坦](../Page/少年泰坦.md "wikilink")》第45期(1976年12月)。
 
 ## 人物

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:GSM](https://zh.wikipedia.org/wiki/Draft:GSM)转换而来。
+
+
 **[GSM](../Page/GSM.md "wikilink")** (Global System for Mobile communications) is a European standard for mobile devices.
 
 GSM全球移動服務體系是一個歐洲合格認證的行動裝置

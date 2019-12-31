@@ -1,3 +1,6 @@
+> 本文内容由[A分部](https://zh.wikipedia.org/wiki/A分部)转换而来。
+
+
 **A分部**， 常常也被稱為**IRT分部，**\[1\]是[紐約地鐵的一部分](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")。由([1](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink"), [2](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink"), [3](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink"), [4](https://zh.wikipedia.org/wiki/紐約地鐵4號線 "wikilink"), [5](../Page/紐約地鐵5號線.md "wikilink"), [6](../Page/紐約地鐵6號線.md "wikilink"), [7](../Page/紐約地鐵7號線.md "wikilink"))和[42街接駁線](../Page/42街接駁線.md "wikilink")組成。\[2\]在1940年以前這些線路由[跨區捷運公司](../Page/跨區捷運公司.md "wikilink")運營。 A分部的列車車體很窄很短，但車內燈光要比的列車亮，列車的長寬為.\[3\]\[4\]
 
 ## 線路表

@@ -1,3 +1,6 @@
+> 本文内容由[ButterFly \(微笑组合单曲\)](https://zh.wikipedia.org/wiki/ButterFly_\(微笑组合单曲\))转换而来。
+
+
 **"Butterfly"**是一首由瑞典[泡泡糖舞蹈团体](https://zh.wikipedia.org/wiki/泡泡糖舞曲 "wikilink")[微笑组合演唱的歌曲](../Page/微笑組合.md "wikilink")，该歌曲来自他们1998年的专辑"Smile"。它是由[罗伯特·乌尔曼和罗宾](https://zh.wikipedia.org/wiki/罗伯特·乌尔曼 "wikilink")·雷克斯创作和发行的。
 
 这首歌被收录在[科乐美的](https://zh.wikipedia.org/wiki/科乐美 "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")"[劲舞革命](https://zh.wikipedia.org/wiki/劲舞革命 "wikilink")"的第一个版本后，在瑞典以外的地区广受欢迎。为了纪念这首歌的流行，这首歌被重新混音到2008年的"劲舞革命X"中，用于庆祝该系列已发行10周年。\[1\]在2010年代，这首歌作为[中国制造的玩具手机流行歌曲也成为了](https://zh.wikipedia.org/wiki/中国制造 "wikilink")[-{zh-cn:网络梗;zh-tw:網路迷因;zh-hk:Meme}-](../Page/網路爆紅事物.md "wikilink")。

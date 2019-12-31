@@ -1,3 +1,6 @@
+> 本文内容由[Nine cubes](https://zh.wikipedia.org/wiki/Nine_cubes)转换而来。
+
+
 《**nine cubes**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[小室哲哉](../Page/小室哲哉.md "wikilink")製作。
 
 ## 說明

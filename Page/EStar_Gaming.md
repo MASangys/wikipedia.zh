@@ -1,3 +1,6 @@
+> 本文内容由[EStar Gaming](https://zh.wikipedia.org/wiki/EStar_Gaming)转换而来。
+
+
 **eStar Gaming**，是中国一个职业电子竞技俱乐部。目前设有[王者荣耀](../Page/王者荣耀.md "wikilink")，[QQ飞车](../Page/QQ飞车.md "wikilink")，[绝地求生](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")、[风暴英雄](../Page/风暴英雄.md "wikilink")以及[英雄联盟](../Page/英雄联盟.md "wikilink")分部。由中国著名电竞玩家XiaoOt所创立，起初是以[风暴英雄](../Page/风暴英雄.md "wikilink")为主。但因[风暴英雄](../Page/风暴英雄.md "wikilink")的影响力下降，导致俱乐部经营出现问题。为求维持俱乐部的运营，俱乐部决定开始设立其他游戏分部。
 
 ## 历史

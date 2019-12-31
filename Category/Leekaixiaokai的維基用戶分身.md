@@ -1,3 +1,6 @@
+> 本文内容由[Category:Leekaixiaokai的維基用戶分身](https://zh.wikipedia.org/wiki/Category:Leekaixiaokai的維基用戶分身)转换而来。
+
+
 李泽楷（英语：LeeZeKai，2000年8月9日）李楷（英语：LeeKai，2000年8月9日）李楷小楷（英语：leekaixiaokai，2000年8月9日），马来西亚华人YouTuber，来自槟城 威中县 大山脚 （Bukit Mertajam）还有 威南县 高渊 （Nibong Tebal）
 
 新山 新加坡 新传媒Mediacorp

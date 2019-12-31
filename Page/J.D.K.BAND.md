@@ -1,3 +1,6 @@
+> 本文内容由[J.D.K.BAND](https://zh.wikipedia.org/wiki/J.D.K.BAND)转换而来。
+
+
 “J.D.K.BAND”实际上往往是指两个有所不同的乐队的其中一个，根据上下文语境一般可以分辨出，到底指代的是以下的哪一个乐队。(不过也不排除同时指代这两个乐队的可能性)
 
   - J.D.K.BAND（第一代J.D.K.BAND）

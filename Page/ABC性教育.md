@@ -1,3 +1,6 @@
+> 本文内容由[ABC性教育](https://zh.wikipedia.org/wiki/ABC性教育)转换而来。
+
+
 **ABC性教育**（ABC strategy）也稱為以**ABC三原則**（Abstinence, be faithful, use a condom），或是**以禁慾為基礎的性教育**（abstinence-based sex education），是一種以[守貞教育](../Page/守貞教育.md "wikilink")（[性禁慾](../Page/性禁慾.md "wikilink")）為基礎的[性教育](../Page/性教育.md "wikilink")，不過結合了風險迴避及的概念，因此除了強調守貞外，性教育內容也包括單一[性伴侶](../Page/性伴侶.md "wikilink")[安全性行為](../Page/安全性行為.md "wikilink")的重要性，以及[生育控制](../Page/生育控制.md "wikilink")（避孕）的方法。ABC性教育的A代表性禁慾（Abstinence）、B代表單一性伴侶（be faithful）、C代表生育控制（use a condom）。ABC性教育是介於守貞教育和之間的性教育方式。守貞教育提倡在婚前不要發行性行為，其中不會教授安全性行為及避孕方法。而ABC性教育仍強調（婚前及婚外的）性禁慾，但同時提供安全性行為的資訊。
 
 ABC性教育的提出是因為因應疫情的擴大，也避免其他[性感染疾病的蔓延](https://zh.wikipedia.org/wiki/性感染疾病 "wikilink")。在非洲推展ABC性教育後，在[烏干達](https://zh.wikipedia.org/wiki/烏干達 "wikilink")、[肯亞](https://zh.wikipedia.org/wiki/肯亞 "wikilink")、[辛巴威](../Page/辛巴威.md "wikilink")等地的感染HIV人數開始下降，烏干達AIDS患者的比例從1990年的15%降到2001年的5至6%\[1\]\[2\]。一般認為感染HIV人數的下降是因為推動ABC性教育，尤其是減少性伴侶的數量

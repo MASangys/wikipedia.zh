@@ -1,3 +1,6 @@
+> 本文内容由[Ethash](https://zh.wikipedia.org/wiki/Ethash)转换而来。
+
+
 **Ethash**是[以太坊](../Page/以太坊.md "wikilink")上的加密貨幣的[共識算法](https://zh.wikipedia.org/wiki/共識算法 "wikilink")，使用使用[工作量証明](../Page/工作量證明.md "wikilink")。\[1\] Ethash也使用Keccak，一種己標準化為[SHA-3](../Page/SHA-3.md "wikilink")的[散列函数](../Page/散列函數.md "wikilink")。 但Ethash與[SHA-3](../Page/SHA-3.md "wikilink")並不相同，不應將兩者混淆。
 
 由版本1.0開始，Ethash已被設計為抵制[ASIC](../Page/特殊應用積體電路.md "wikilink")，主要方法為藉著極大量的隨機查表，加重記憶體的負載，ASIC無法再利用專用線路而加速。\[2\]

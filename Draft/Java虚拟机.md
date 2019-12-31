@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Java虚拟机](https://zh.wikipedia.org/wiki/Draft:Java虚拟机)转换而来。
+
+
 [JvmSpec7.png](https://zh.wikipedia.org/wiki/File:JvmSpec7.png "fig:JvmSpec7.png") **Java虚拟机**（**Java Virtual Machine**，简称**JVM**）是可让计算机运行[Java程序及使用](../Page/Java平臺.md "wikilink")编译为[Java字节码](../Page/Java字节码.md "wikilink")程序的[虚拟机](../Page/虛擬機器.md "wikilink")。其最早由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所研發并实现第一个实现版本，是[Java平臺](../Page/Java平臺.md "wikilink")的一部份。Java虚拟机的具体实现细节通过指定，这确保了不同实现上运行相同Java程序的互用性，同时让使用[Java开发工具包](../Page/JDK.md "wikilink")（JDK）的开发者不必担心硬件平台的问题。
 
 [OpenJDK](../Page/OpenJDK.md "wikilink")开发了一款[开放源代码的Java虚拟机](../Page/开源软件.md "wikilink")，同时内附一款名为[HotSpot](../Page/HotSpot.md "wikilink")的[即时编译器](../Page/即時編譯.md "wikilink")。用户亦可从[甲骨文公司](../Page/甲骨文公司.md "wikilink")下载其基于OpenJDK运行时的Java版本，并获取技术支持。Eclipse 是另一款适用于OpenJDK的开源Java虚拟机。

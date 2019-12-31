@@ -1,3 +1,6 @@
+> 本文内容由[ComicFesta](https://zh.wikipedia.org/wiki/ComicFesta)转换而来。
+
+
 **ComicFesta**是一個由株式會社WWWave所營運的電子漫畫平台網站。
 
 ## Anime Zone

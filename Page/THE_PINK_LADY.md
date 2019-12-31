@@ -1,3 +1,6 @@
+> 本文内容由[THE PINK LADY](https://zh.wikipedia.org/wiki/THE_PINK_LADY)转换而来。
+
+
 **The Pink Lady**（），是OD娛樂於2019年推出的五人女子组合\[1\]\[2\]，成員包括Seoyoon ()、Eehoo ()、Yeju ()、Woolim ()及Hyunji ()。
 
 ## 成員資料

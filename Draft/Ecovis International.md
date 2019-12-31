@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Ecovis International](https://zh.wikipedia.org/wiki/Draft:Ecovis_International)转换而来。
+
+
 **Ecovis国际**（合并自Economy和Vision）是一家全球性的，主要提供[审计](https://zh.wikipedia.org/wiki/审计 "wikilink")、[税务](https://zh.wikipedia.org/wiki/税务 "wikilink")、[咨询及](https://zh.wikipedia.org/wiki/咨询 "wikilink")[法律](../Page/法律.md "wikilink")服務。\[1\]
 
 ## 基本资料

@@ -1,3 +1,6 @@
+> 本文内容由[La Rouge](https://zh.wikipedia.org/wiki/La_Rouge)转换而来。
+
+
 **Red Velvet Third Concert "La Rouge"** 是韓國女子組合[Red Velvet於](../Page/Red_Velvet.md "wikilink")2019年至2020年舉辦的第三次單獨巡迴演唱會。
 
 ## 概述

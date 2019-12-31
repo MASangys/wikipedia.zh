@@ -1,3 +1,6 @@
+> 本文内容由[小米CC9e](https://zh.wikipedia.org/wiki/小米CC9e)转换而来。
+
+
 ## 简介
 
 **小米CC9e**\[1\]是小米CC9系列的廉价版，[小米科技于](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2019年7月2日下午2时（UTC+8）在中国北京[水立方发布的一款全新系列的手机](https://zh.wikipedia.org/wiki/水立方 "wikilink")。小米CC9e是全球第一款搭载[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")665的手机。11nm的工艺制程，Kryo架构八核处理器，第三代AIE引擎，采用Adreno 610图形处理器。

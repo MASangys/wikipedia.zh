@@ -1,3 +1,6 @@
+> 本文内容由[Grand Maison東京](https://zh.wikipedia.org/wiki/Grand_Maison東京)转换而来。
+
+
 《**Grand Maison 東京**》（），2019年10月20日起於[TBS電視台](../Page/TBS電視台.md "wikilink")[周日劇場](../Page/周日劇場.md "wikilink")時段播出 。由[木村拓哉](../Page/木村拓哉.md "wikilink")主演 \[1\]。本劇為木村拓哉令和初主演，而本劇劇名亦是劇中登場餐廳的名稱。
 
 2019年8月30日，劇組於法國巴黎著名的米芝蓮三星餐廳「L'Ambroisie」拍攝，為日劇上的首次\[2\]。

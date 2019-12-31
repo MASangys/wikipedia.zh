@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t you see!](https://zh.wikipedia.org/wiki/Don\'t_you_see!)转换而来。
+
+
 《**Don't you see\!**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[ZARD](../Page/ZARD.md "wikilink")的第19張單曲。
 
 ## 簡介

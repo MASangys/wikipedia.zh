@@ -1,3 +1,6 @@
+> 本文内容由[Ms. Dynamite](https://zh.wikipedia.org/wiki/Ms._Dynamite)转换而来。
+
+
 **里欧蜜·阿玲·麦克莱恩·戴利** （，） ，**Ms. Dynamite**更知名，是一位英国[说唱歌手](https://zh.wikipedia.org/wiki/说唱歌手 "wikilink")、词曲作者、和唱片制作人。 她是[水星音乐奖](../Page/水星音樂獎.md "wikilink")，两个[全英音乐奖和三个MOBO奖的获得者](../Page/全英音樂獎.md "wikilink")。
 
 ## 传记

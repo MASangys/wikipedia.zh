@@ -1,3 +1,6 @@
+> 本文内容由[Remember Us : Youth Part 2](https://zh.wikipedia.org/wiki/Remember_Us_:_Youth_Part_2)转换而来。
+
+
 《**Remember Us : Youth Part 2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")所推出的第四張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2018年12月10日發行，由JYP娛樂製作，iRiver發行。共收錄七首曲目加一首純音樂，主打歌為《행복했던 날들이었다》。
 
 ## 背景

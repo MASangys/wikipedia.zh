@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:RefToolbarMessages-zh-hant.js](https://zh.wikipedia.org/wiki/MediaWiki:RefToolbarMessages-zh-hant.js)转换而来。
+
+
 // All user-facing messages // TODO: Document usage mw.usability.addMessages({
 
 `   "cite-section-label": "引用",`

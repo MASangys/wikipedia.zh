@@ -1,3 +1,6 @@
+> 本文内容由[THE FAN](https://zh.wikipedia.org/wiki/THE_FAN)转换而来。
+
+
 **《THE FAN》**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS "wikilink")2018年11月24日推出，由藝人推薦有潛質的新秀給觀眾認識的選秀節目，通過多輪表演能吸引最多支持者的新秀最終獲勝。 [BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[柳喜烈](../Page/柳喜烈.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")、[金伊娜](../Page/金伊娜.md "wikilink")以Fan Master的身份出演。
 
 ## 節目形式

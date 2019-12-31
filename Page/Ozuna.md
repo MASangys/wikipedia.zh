@@ -1,3 +1,6 @@
+> 本文内容由[Ozuna](https://zh.wikipedia.org/wiki/Ozuna)转换而来。
+
+
 **Juan Carlos Ozuna Rosado**（），简称为**Ozuna**，是[波多黎各](../Page/波多黎各.md "wikilink")的拉丁陷阱和[雷鬼歌手](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")。他的曲目包括〈*El farsante*〉（骗子）、〈*La modelo*〉（模特儿）等,并于2019年9月得到四項[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")。
 
 2014年，Ozuna与唱片公司Golden Family Records签定合同并开始在社交媒体上走红。次年，他通过〈*Si tu marido no te quiere*〉等曲目在拉丁美洲获得知名度，并在南美举行了数场演唱会。

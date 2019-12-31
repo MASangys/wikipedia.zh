@@ -1,3 +1,6 @@
+> 本文内容由[「untitled」](https://zh.wikipedia.org/wiki/「untitled」)转换而来。
+
+
 《**「untitled」**》是[嵐](../Page/嵐.md "wikilink")的第19張專輯，第16枚原創專輯，日本於2017年10月18日發行，台壓版於2017年11月24日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

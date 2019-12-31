@@ -1,3 +1,6 @@
+> 本文内容由[MUSIC演算法](https://zh.wikipedia.org/wiki/MUSIC演算法)转换而来。
+
+
 **MUSIC**（多信號分類）是一種用於[頻率估計](https://zh.wikipedia.org/wiki/譜密度 "wikilink")\[1\]和[無線電測向](https://zh.wikipedia.org/wiki/無線電測向 "wikilink")\[2\] 的算法。
 
 ## 發展歷史

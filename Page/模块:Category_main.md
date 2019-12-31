@@ -1,3 +1,6 @@
+> 本文内容由[模块:Category main](https://zh.wikipedia.org/wiki/模块:Category_main)转换而来。
+
+
 \-- This module implements .
 
 local mHatnote = require('Module:Hatnote') local yesno = require('Module:Yesno') local mTableTools -- lazily initialise local mArguments -- lazily initialise

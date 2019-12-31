@@ -1,3 +1,6 @@
+> 本文内容由[Edmodo](https://zh.wikipedia.org/wiki/Edmodo)转换而来。
+
+
 Edmodo 是一家教育技術公司，為 K-12學校和教師提供一個交流、合作和輔導的平台。 Edmodo 網絡平台使教師能夠分享內容，分發測驗，作業，並與學生，同事和家長的溝通。 Edmodo 在設計和理念上非常以教師為中心: 學生和家長只有在被老師邀請的情況下才能加入 Edmodo。教師和學生在平台上花費大量的時間，無論是在教室內還是在教室外。
 
 Edmodo是由Nic Borg，Jeff O'Hara和Crystal Hutter 在2008年 設立。它由Index Ventures, Benchmark, Greylock Partners, Learn Capital, New Enterprise Associates, Union Square Ventures, Glynn Capital Management, Tenaya Capital, SingTel Innov8, and KDDI 支持。2017年，Edmodo坐擁過78,000,000 世界各地的用戶。大約一半的這些用戶是在美國，其餘180個國家分佈全世界。其餘主要存在新加坡、印度尼西亞、烏拉圭和意大利。約10%的這些用戶是教師、Edmodo 最受歡迎的地方是課室。

@@ -1,3 +1,6 @@
+> 本文内容由[阿曼TIT](https://zh.wikipedia.org/wiki/阿曼TIT)转换而来。
+
+
 **阿曼TIT**（）\[1\]是由[大陸工程](../Page/大陸工程.md "wikilink")和合眾建設所建造的豪華住商大樓，大樓樓高地上37層地下6層，高130[公尺](https://zh.wikipedia.org/wiki/公尺 "wikilink")，基地面積517[坪](../Page/坪.md "wikilink")（1,708平方公尺），總戶數111戶。本基地舊址為台灣戲院，位於[西門徒步區的中心位置](../Page/西門町.md "wikilink")。
 
 ## 建築規劃

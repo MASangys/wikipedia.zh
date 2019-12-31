@@ -1,3 +1,6 @@
+> 本文内容由[EE-9裝甲車](https://zh.wikipedia.org/wiki/EE-9裝甲車)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Engesa_Cascavel_main.JPG "fig:缩略图")
 
 **EE-9**裝甲車(EE-9 Cascavel)，1970年代[巴西](../Page/巴西.md "wikilink")[恩格薩](../Page/恩格薩.md "wikilink")公司设计开发之六轮侦察火力支援裝轮装甲车。

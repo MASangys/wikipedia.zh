@@ -1,3 +1,6 @@
+> 本文内容由[≠ME](https://zh.wikipedia.org/wiki/≠ME)转换而来。
+
+
 **≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE](../Page/=LOVE.md "wikilink")的姐妹團，與=LOVE同樣由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。團名以英文讀做「Not Equal Me」（不等於我），有著「希望體驗到與現在為止不同的自己」的含義\[1\]。
 
 ## 歷史

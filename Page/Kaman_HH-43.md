@@ -1,3 +1,6 @@
+> 本文内容由[Kaman HH-43](https://zh.wikipedia.org/wiki/Kaman_HH-43)转换而来。
+
+
 | 卡曼HH-43                                                                                      |
 | -------------------------------------------------------------------------------------------- |
 | [250x250像素](https://zh.wikipedia.org/wiki/File:Kaman_HH-43B_Huskie_USAF.jpg "fig:250x250像素") |

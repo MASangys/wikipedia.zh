@@ -1,3 +1,6 @@
+> 本文内容由[Hate tell a lie](https://zh.wikipedia.org/wiki/Hate_tell_a_lie)转换而来。
+
+
 《**Hate tell a lie**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第6張單曲。
 
 ## 說明

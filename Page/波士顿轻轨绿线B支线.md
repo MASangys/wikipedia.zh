@@ -1,3 +1,6 @@
+> 本文内容由[波士顿轻轨绿线B支线](https://zh.wikipedia.org/wiki/波士顿轻轨绿线B支线)转换而来。
+
+
 波士顿轻轨**B支线**也被称作**联邦大道支线**或**波士顿学院支线**，位于[美国](../Page/美国.md "wikilink")[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[波士顿](../Page/波士顿.md "wikilink")，是一条沿着[联邦大道往返于波士顿市中心和](https://zh.wikipedia.org/wiki/联邦大道_\(波士顿\) "wikilink")[波士顿学院](../Page/波士顿学院.md "wikilink")的[轻轨](../Page/轻轨.md "wikilink")线。波士顿轻轨绿线一共有4条支线，其中B支线在[肯莫尔站](../Page/肯莫尔站.md "wikilink")分叉开往[布兰德福德街站](../Page/布兰德福德街站.md "wikilink")，终点站为[波士顿学院站](../Page/波士顿学院站.md "wikilink")。[肯莫尔站](../Page/肯莫尔站.md "wikilink")同时也是C支线和D支线的分叉口。B、C、D支线在肯莫尔站汇合后沿着和行驶至波士顿市中心。，B支线入城方向的终点站为[公园街站](../Page/公园街站.md "wikilink")，其营运范围完全在波士顿城市内，其他支线会延伸到郊区。
 
 由于B支线轻轨连接[波士顿学院](../Page/波士顿学院.md "wikilink")和[波士顿大学](https://zh.wikipedia.org/wiki/波士顿大学 "wikilink")，因此两所学校间的体育对抗赛也被称作**B线之争**。

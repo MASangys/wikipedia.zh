@@ -1,3 +1,6 @@
+> 本文内容由[The Insulated World](https://zh.wikipedia.org/wiki/The_Insulated_World)转换而来。
+
+
 《**The Insulated World**》是由日本樂團[Dir en grey所發行的第](../Page/Dir_en_grey.md "wikilink")10張錄音專輯，於2018年9月26日發行。
 
 ## 概要

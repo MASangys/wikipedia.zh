@@ -1,3 +1,6 @@
+> 本文内容由[DLD-1](https://zh.wikipedia.org/wiki/DLD-1)转换而来。
+
+
 **DLD-1**是[非整數倍體的](../Page/染色體倍性.md "wikilink")[人類](../Page/人類.md "wikilink")[結直腸](https://zh.wikipedia.org/wiki/結腸 "wikilink")\[1\] (Human Dukes’s type C colorectal adenocarcinoma cell line) ，最初是於[1977年](../Page/1977年.md "wikilink")至[1979年](../Page/1979年.md "wikilink")間分離出來的兩株結直腸腺癌細胞株之一，對[p53蛋白及多種](https://zh.wikipedia.org/wiki/p53 "wikilink")[癌基因](https://zh.wikipedia.org/wiki/癌基因 "wikilink") (例如[C-Myc](../Page/C-Myc.md "wikilink")\[2\]、\[3\]、及等\[4\]) 呈現[陽性反應](https://zh.wikipedia.org/wiki/陽性 "wikilink")。有[研究](../Page/研究.md "wikilink")指出其擁有較強的爬行和侵襲能力，故而擁有高遷移性與侵襲能力\[5\]。
 
 ## 科研用途

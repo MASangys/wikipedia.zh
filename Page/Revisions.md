@@ -1,3 +1,6 @@
+> 本文内容由[Revisions](https://zh.wikipedia.org/wiki/Revisions)转换而来。
+
+
 《**revisions**》是[白組](../Page/白組.md "wikilink")製作的日本原創動畫，[谷口悟朗](../Page/谷口悟朗.md "wikilink")監督，電視動畫於2019年1月10日首播\[1\]。
 
 ## 登場人物

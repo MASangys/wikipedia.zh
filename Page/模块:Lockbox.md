@@ -1,3 +1,6 @@
+> 本文内容由[模块:Lockbox](https://zh.wikipedia.org/wiki/模块:Lockbox)转换而来。
+
+
 local export = {}
 
 \-- XXX: OUTRAGEOUS ABUSE OF SCRIBUNTO API -- Generates a transclusion without incrementing the "expensive function" count local generate_transclusion do

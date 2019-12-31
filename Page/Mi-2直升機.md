@@ -1,3 +1,6 @@
+> 本文内容由[Mi-2直升機](https://zh.wikipedia.org/wiki/Mi-2直升機)转换而来。
+
+
 **Mi-2直升機**（[北約代號](../Page/北約代號.md "wikilink"):甲兵）是前蘇聯[米爾直升機設計局研發出來的輕型多用途直升機](../Page/米尔莫斯科直升机工厂.md "wikilink")，它是由[Mi-1直升機](../Page/Mi-1直升機.md "wikilink")（北約代號:野兔）發展而來。
 
 ## 簡介

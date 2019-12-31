@@ -1,3 +1,6 @@
+> 本文内容由[汉文训读符号 \(Unicode区段\)](https://zh.wikipedia.org/wiki/汉文训读符号_\(Unicode区段\))转换而来。
+
+
 **汉文训读符号**是一个包含了[汉文训读辅助阅读符号的](https://zh.wikipedia.org/wiki/汉文训读 "wikilink")[Unicode区块](https://zh.wikipedia.org/wiki/Unicode区块 "wikilink") 。
 
 ## 历史

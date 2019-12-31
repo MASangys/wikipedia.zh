@@ -1,3 +1,6 @@
+> 本文内容由[索尼α7RIII](https://zh.wikipedia.org/wiki/索尼α7RIII)转换而来。
+
+
 **索尼α7R III**（型號：**ILCE-7RM3**，簡稱**A7R3**）\[1\] 是一個由[索尼](../Page/索尼.md "wikilink")製造[全畫幅](https://zh.wikipedia.org/wiki/全畫幅 "wikilink")[無反光鏡可換鏡頭相機](../Page/無反光鏡可換鏡頭相機.md "wikilink")。於2017年10月25日推出，為兩年前[α7RII的後續機種](../Page/Sony_α7R_II.md "wikilink")。該相機與α7RII有許多相似功能，包括拍攝靜態影像同樣為4240萬像素。
 
 ## 對α7RII的改進

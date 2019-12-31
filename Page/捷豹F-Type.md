@@ -1,3 +1,6 @@
+> 本文内容由[捷豹F-Type](https://zh.wikipedia.org/wiki/捷豹F-Type)转换而来。
+
+
 **捷豹F-Type**（Jaguar F-Type）是一款雙門、雙座的[捷豹](../Page/捷豹.md "wikilink")跑車，2013年上市\[1\]，是在[捷豹XK的平台上生產的](https://zh.wikipedia.org/wiki/捷豹XK "wikilink")\[2\]，取替了舊的XK和[E-Type](https://zh.wikipedia.org/wiki/捷豹_E-Type "wikilink")\[3\]。
 
 ## 型號

@@ -1,3 +1,6 @@
+> 本文内容由[MangaGamer](https://zh.wikipedia.org/wiki/MangaGamer)转换而来。
+
+
 **MangaGamer**是一个成立于2008年的日本电子游戏发行商，主要代理日本[视觉小说](../Page/视觉小说.md "wikilink")的英文翻译工作并发行，受众为使用英文的日本以外的视觉小说玩家，由日本Anime Content株式会社运营\[1\]。它既发售数字版游戏，也发售实体版游戏，其中发布的游戏包含[日本成人游戏](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[KDE neon](https://zh.wikipedia.org/wiki/KDE_neon)转换而来。
+
+
 **KDE neon**是一套由[KDE](../Page/KDE.md "wikilink")開發，以最新的[Ubuntu](../Page/Ubuntu.md "wikilink")[長期支援](../Page/長期支援.md "wikilink")版為基礎，並加入了一組額外的軟體庫，其中包含了[64位元](../Page/64位元.md "wikilink")版的[KDE Plasma 5桌面環境](../Page/KDE_Plasma_5.md "wikilink")／框架、[Qt 5工具包與其他相容的KDE軟體](../Page/Qt.md "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]。於2016年6月由[Kubuntu](../Page/Kubuntu.md "wikilink")的發起者Jonathan Riddell公佈，當時他剛離開Canonical（Ubuntu背後的公司）\[8\]，爾後它就被愈來愈多使用者採用，經常出現在DistroWatch.com的前20名中\[9\]。它的目標客群與Ubuntu官方使用KDE Plasma的版本（也就是Kubutnu）相同，主要的區別是收到Qt與KDE軟體更新的時間更短。其提供了四種更新頻道：使用者、測試、不穩定與開發者版本\[10\]。
 
 KDE neon Linux散佈版專注於KDE的開發。其從[KDE](../Page/KDE.md "wikilink")直接取得最新的[軟體套裝](https://zh.wikipedia.org/wiki/軟體套裝 "wikilink")，提供[程序员](../Page/程序员.md "wikilink")以最快的速度使用新的軟體功能，但代價是更容易遇到[程序错误](../Page/程序错误.md "wikilink")\[11\]。

@@ -1,3 +1,6 @@
+> 本文内容由[HowToBasic](https://zh.wikipedia.org/wiki/HowToBasic)转换而来。
+
+
 **HowToBasic**是一个[澳大利亚](../Page/澳大利亚.md "wikilink")的[YouTube](../Page/YouTube.md "wikilink")[喜劇](../Page/喜劇.md "wikilink")频道，拥有超过1300万名订阅者，现属于公司的一员\[1\]。视频创作者保持匿名，没有在视频中说话或露脸。该频道于2013年开始流行，频道主要是将具有特色的滑稽和破坏性的伪装成“”视频教程。
 
 ，HowToBasic的订阅用户数超过1336万人，位居澳大利亚YouTube频道首位。 \[2\]\[3\]，该频道的估计净值为200万美元。

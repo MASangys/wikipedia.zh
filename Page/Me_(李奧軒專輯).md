@@ -1,3 +1,6 @@
+> 本文内容由[Me \(李奧軒專輯\)](https://zh.wikipedia.org/wiki/Me_\(李奧軒專輯\))转换而来。
+
+
 《**ME**》是中國歌手[李奧軒](../Page/李奧軒.md "wikilink")的第1張[鋼琴錄音室](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，2019年8月30日預購\[1\]，於2019年9月30日正式發行。該EP從[創作到整張](https://zh.wikipedia.org/wiki/創作 "wikilink")[EP製作都是由](https://zh.wikipedia.org/wiki/EP "wikilink")[李奧軒](../Page/李奧軒.md "wikilink")親自獨立完成。該EP曲風以抒情風格為主。
 
 ## 發展

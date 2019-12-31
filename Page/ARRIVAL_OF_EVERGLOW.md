@@ -1,3 +1,6 @@
+> 本文内容由[ARRIVAL OF EVERGLOW](https://zh.wikipedia.org/wiki/ARRIVAL_OF_EVERGLOW)转换而来。
+
+
 《**ARRIVAL OF EVERGLOW**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[EVERGLOW](../Page/EVERGLOW.md "wikilink")作為出道作品的首張單曲專輯，由[乐华娱乐](../Page/乐华娱乐.md "wikilink")於2019年3月18日發行，主打歌曲為《봉봉쇼콜라(Bon Bon Chocolat)》。\[1\]\[2\]
 
 ## 日程

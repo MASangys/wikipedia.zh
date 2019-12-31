@@ -1,3 +1,6 @@
+> 本文内容由[Mirai Akari](https://zh.wikipedia.org/wiki/Mirai_Akari)转换而来。
+
+
 *Mirai Akari*'（），[日本](../Page/日本.md "wikilink")[虚拟YouTuber](https://zh.wikipedia.org/wiki/虚拟YouTuber "wikilink")，其与[绊爱](https://zh.wikipedia.org/wiki/绊爱 "wikilink")、[电脑少女小白](https://zh.wikipedia.org/wiki/电脑少女小白 "wikilink")、[辉夜月](../Page/辉夜月.md "wikilink")、并称为“虚拟Youtuber四天王”。
 
 ## 出演

@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia 1](https://zh.wikipedia.org/wiki/Sony_Xperia_1)转换而来。
+
+
 **Sony Xperia 1**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2019年2月25日[2019世界流動通訊大會正式發表的旗艦式](../Page/世界行動通訊大會.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。是世界上第一款具有超寬21:9寬高比CinemaWide [4K](https://zh.wikipedia.org/wiki/4K "wikilink") [HDR](../Page/高动态范围成像.md "wikilink") [OLED屏幕](https://zh.wikipedia.org/wiki/OLED "wikilink")，以及索尼首款採用Eye AF眼睛追焦技術的三鏡頭相機智能手機\[1\]\[2\]\[3\]。
 
 ## 規格

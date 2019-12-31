@@ -1,3 +1,6 @@
+> 本文内容由[ESteem](https://zh.wikipedia.org/wiki/ESteem)转换而来。
+
+
 **ESteem**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，於2003年成立。ESteem自2004年開始在韓國創造不少頂級模特，公司在時尚產業的發展和國內模特業務的發展中發揮了重要作用。ESteem首次將其業務拓展到影響者管理領域，在設計師，藝術家，藝人以及模特兒之上，因此ESteem Group當中包括ESteem Model、ESteem Entertainment、ESteem Works、Mixcon、Speeker及ESteem NYC\[1\]。
 
 ## 歷史

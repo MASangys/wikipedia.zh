@@ -1,3 +1,6 @@
+> 本文内容由[GIRLS\' GENERATION -PHANTASIA- WORLD TOUR](https://zh.wikipedia.org/wiki/GIRLS\'_GENERATION_-PHANTASIA-_WORLD_TOUR)转换而来。
+
+
 **GIRLS' GENERATION -PHANTASIA- WORLD TOUR**是韓國女子組合[少女時代第](https://zh.wikipedia.org/wiki/少女時代 "wikilink")4次亞洲巡迴演唱會。
 
 ## 巡迴時間表

@@ -1,3 +1,6 @@
+> 本文内容由[Audiokinetic](https://zh.wikipedia.org/wiki/Audiokinetic)转换而来。
+
+
 **音頻動能**（Audiokinetic）是一家位于加拿大[魁北克省](../Page/魁北克省.md "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")的软件公司，主要为[电子游戏](../Page/电子游戏.md "wikilink")行业开发音频软件，公司最知名的產品為。2019年1月8日，被[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")公司宣布收购\[1\]，1月31日收购完成\[2\]。
 
 ## 参考文献

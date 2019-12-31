@@ -1,3 +1,6 @@
+> 本文内容由[KYB](https://zh.wikipedia.org/wiki/KYB)转换而来。
+
+
 日本萱場工業株式會社，以下簡稱KYB公司([日语](../Page/日语.md "wikilink")：KYB株式会社、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink") : KYB Corporation)，是專精於製造各種液壓設備的日本公司，旗下產品廣泛利用於[汽車工業](https://zh.wikipedia.org/wiki/汽車工業 "wikilink")、[鐵路](../Page/鐵路.md "wikilink")、[航空](../Page/航空.md "wikilink")、[建築等領域](https://zh.wikipedia.org/wiki/建築 "wikilink")。2005年10月1日由Kayaba工業改為現名。公司屬於[芙蓉集團](https://zh.wikipedia.org/wiki/芙蓉集團 "wikilink")，並在[東京證券交易所](../Page/東京證券交易所.md "wikilink")一部上市。
 
 ## 醜聞

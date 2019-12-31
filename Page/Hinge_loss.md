@@ -1,3 +1,6 @@
+> 本文内容由[Hinge loss](https://zh.wikipedia.org/wiki/Hinge_loss)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Hinge_loss_vs_zero_one_loss.svg "fig:缩略图") 在[机器学习](../Page/机器学习.md "wikilink")中，**铰接损失**是一个用于训练[分类器的](https://zh.wikipedia.org/wiki/分类器 "wikilink")[损失函数](https://zh.wikipedia.org/wiki/损失函数 "wikilink")。铰链损失常被用于「最大间隔分类」，尤其适用于[支持向量机](../Page/支持向量机.md "wikilink") (SVMs)。\[1\] 对于一个预期输出  ±1}}，分类结果  的铰接损失定义为
 
   -

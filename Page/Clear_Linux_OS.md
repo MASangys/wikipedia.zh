@@ -1,3 +1,6 @@
+> 本文内容由[Clear Linux OS](https://zh.wikipedia.org/wiki/Clear_Linux_OS)转换而来。
+
+
 **Clear Linux\* OS** (**Clear Linux OS**, **Clear Linux\***) 是一個[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")，[滾動發行](../Page/滾動發行.md "wikilink")，針對[英特爾架構最佳化](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，講究效能與[資訊安全的](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，能部署[雲端運算](../Page/雲端運算.md "wikilink")平台以至[邊緣運算](../Page/邊緣運算.md "wikilink")上\[1\]。 Clear Linux\* OS並非[衍生自其他Linux发行版](https://zh.wikipedia.org/wiki/复刻_\(软件开发\) "wikilink")，相反，它是一個，讓用家能夠按特定應用情境作出定制。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Kofola](https://zh.wikipedia.org/wiki/Kofola)转换而来。
+
+
 **口福樂**(Kofola ，)是由同名的捷克公司──口福樂(Kofola)生產的碳酸飲料。口福樂公司總部在[捷克](../Page/捷克.md "wikilink")共和国 克爾諾夫是 [可口可樂](../Page/可口可乐.md "wikilink") 和 [百事可樂](../Page/百事可樂.md "wikilink") 在捷克與[斯洛伐克](../Page/斯洛伐克.md "wikilink")的主要競爭對手。口福樂公司主要在在 [中歐](https://zh.wikipedia.org/wiki/中欧 "wikilink") 和 [東歐生產販賣無酒精飲料](../Page/东欧.md "wikilink")。\[1\] [缩略图](https://zh.wikipedia.org/wiki/File:Kofola_bottle.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Różne_wersje_napoju_Kofola.jpg "fig:缩略图")
 
 ## 推出时间

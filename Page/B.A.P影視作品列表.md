@@ -1,3 +1,6 @@
+> 本文内容由[B.A.P影視作品列表](https://zh.wikipedia.org/wiki/B.A.P影視作品列表)转换而来。
+
+
 **B.A.P影視作品列表**，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[B.A.P](../Page/B.A.P.md "wikilink")自2012年出道至今參與過的的音樂劇、各類電視節目、固定節目及電視劇演出。
 
 ## 專屬影片

@@ -1,3 +1,6 @@
+> 本文内容由[利尔·纳斯·X](https://zh.wikipedia.org/wiki/利尔·纳斯·X)转换而来。
+
+
 **蒙特罗·拉马尔·希尔**（英语：**Montero Lamar Hill**，1999年4月9日 - ），知名于其艺名**利尔·纳斯·X**（**Lil Nas X**），是一位来自[美国](../Page/美国.md "wikilink")[佐治亚州](../Page/喬治亞州.md "wikilink")[亚特兰大](../Page/亚特兰大.md "wikilink")的饶舌歌手、歌手和词曲作家。他因其热门乡村说唱单曲“Old Town Road”广为人知，该单曲于2019年初在短视频分享应用[TikTok上爆红](../Page/抖音短视频.md "wikilink")\[1\]\[2\]。“Old Town Road”登上了[Billboard百强单曲榜榜首](../Page/告示牌百强单曲榜.md "wikilink")，首发便位列[Billboard热门乡村歌曲榜第](https://zh.wikipedia.org/wiki/公告牌热门乡村歌曲榜 "wikilink")19名后，因争议而被从乡村歌曲榜上移除\[3\]\[4\]。2019年6月21日，利尔·纳斯·X发布了EP专辑《7》\[5\]。2019年12月，利尔·纳斯·X入選彭博資訊公布的2019年「[彭博](https://zh.wikipedia.org/wiki/彭博 "wikilink")50」名單\[6\]。
 
 ## 早年生活

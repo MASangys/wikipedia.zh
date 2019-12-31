@@ -1,3 +1,6 @@
+> 本文内容由[Decenturion](https://zh.wikipedia.org/wiki/Decenturion)转换而来。
+
+
 **Decenturion**\[1\]于2018年6月4日成立，是一个基于[区块链](../Page/区块链.md "wikilink")技术的\[2\]，其政府组织形式为[直接民主制](https://zh.wikipedia.org/wiki/直接民主制 "wikilink")，不设立[总统](https://zh.wikipedia.org/wiki/总统 "wikilink")、[主席](../Page/主席.md "wikilink")或其他主要管理机构\[3\]。其经济、管理和通讯等均建立在区块链之上\[4\]。截至2018年8月，该国家共有25万名公民。
 
 ## 基本架构

@@ -1,3 +1,6 @@
+> 本文内容由[\'Bout You](https://zh.wikipedia.org/wiki/\'Bout_You)转换而来。
+
+
 《**'Bout you**》是韓國演唱團體[Super Junior Donghae & Eunhyuk的第二張韓語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，於2018年8月16日發行。\[1\]
 
 ## 概要

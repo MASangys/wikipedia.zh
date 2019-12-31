@@ -1,3 +1,6 @@
+> 本文内容由[Jump up HIGH!!](https://zh.wikipedia.org/wiki/Jump_up_HIGH!!)转换而来。
+
+
 《**Jump up HIGH\!\!**》為[Aqours](../Page/Aqours.md "wikilink")的單曲，在2019年6月30日由[Lantis](../Page/Lantis.md "wikilink")發售\[1\]。該單曲為「**Aqours Jumpin' up Project**」的主題曲\[2\]，隨「**Aqours CLUB CD SET 2019**」一同販售\[3\]。
 
 ## 概要

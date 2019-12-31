@@ -1,3 +1,6 @@
+> 本文内容由[Havana](https://zh.wikipedia.org/wiki/Havana)转换而来。
+
+
 **Havana**（其他拼寫為Havanna，Havanah或Habana）在[英語中指](https://zh.wikipedia.org/wiki/英語 "wikilink")[古巴](../Page/古巴.md "wikilink")首都[哈瓦那](../Page/哈瓦那.md "wikilink")。
 
 **Havana** 或 **Havanna** 也可能指：

@@ -1,3 +1,6 @@
+> 本文内容由[救世苗文 \(Unicode區段\)](https://zh.wikipedia.org/wiki/救世苗文_\(Unicode區段\))转换而来。
+
+
 **救世苗文**是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，主要包含用於書寫[苗語的救世苗文字符](https://zh.wikipedia.org/wiki/苗語川黔滇次方言 "wikilink")。\[1\]
 
 ## 歷史

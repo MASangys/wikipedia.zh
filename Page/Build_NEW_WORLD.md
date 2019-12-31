@@ -1,3 +1,6 @@
+> 本文内容由[Build NEW WORLD](https://zh.wikipedia.org/wiki/Build_NEW_WORLD)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

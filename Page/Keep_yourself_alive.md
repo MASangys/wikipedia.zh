@@ -1,3 +1,6 @@
+> 本文内容由[Keep yourself alive](https://zh.wikipedia.org/wiki/Keep_yourself_alive)转换而来。
+
+
 《**keep yourself alive**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的首張單曲，由[小室哲哉](../Page/小室哲哉.md "wikilink")所製作。
 
 ## 說明

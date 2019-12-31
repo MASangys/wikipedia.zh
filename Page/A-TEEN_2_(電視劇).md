@@ -1,3 +1,6 @@
+> 本文内容由[A-TEEN 2 \(電視劇\)](https://zh.wikipedia.org/wiki/A-TEEN_2_\(電視劇\))转换而来。
+
+
 《**A-TEEN 2**》（），為[韓國於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年4月21日至2019年6月27日通過[NAVER TV](../Page/NAVER.md "wikilink")、[V LIVE播出的網路劇](../Page/NAVER.md "wikilink")。本季是講述主角們從18歲到19歲，面對變化的階段，在高考來臨之際經歷的矛盾和苦惱，以及在過程中做出的無數選擇的瞬間。\[1\]\[2\]\[3\]
 
 ## 演員陣容

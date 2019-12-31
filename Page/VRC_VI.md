@@ -1,3 +1,6 @@
+> 本文内容由[VRC VI](https://zh.wikipedia.org/wiki/VRC_VI)转换而来。
+
+
 **VRC VI**（Virtual Rom Controller 6) 是[科樂美](../Page/科樂美.md "wikilink")（后[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")分社）於1989年开发的[红白机](../Page/红白机.md "wikilink")用[ROM](../Page/唯讀記憶體.md "wikilink")[集成电路](../Page/集成电路.md "wikilink")，也兼用做音源[集成电路](https://zh.wikipedia.org/wiki/大规模集成电路 "wikilink")（LSI)。
 
 科樂美後推出了VRC VI的派生版芯片**VRC VII** (Virtual Rom Controller 7)。

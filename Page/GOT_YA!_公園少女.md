@@ -1,3 +1,6 @@
+> 本文内容由[GOT YA! 公園少女](https://zh.wikipedia.org/wiki/GOT_YA!_公園少女)转换而来。
+
+
 《*' GOT YA\! 公園少女*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")電視台2018年推出的綜藝節目\[1\]，由[金信英](../Page/金信英.md "wikilink")、、[孫東雲](../Page/孫東雲.md "wikilink")（[HIGHLIGHT](https://zh.wikipedia.org/wiki/HIGHLIGHT "wikilink")）、[素珍](https://zh.wikipedia.org/wiki/素珍 "wikilink")（[Girl's Day](../Page/Girl's_Day.md "wikilink")）共同主持\[2\]，主角為[公園少女](https://zh.wikipedia.org/wiki/公園少女 "wikilink")\[3\]，節目主軸為以四位MC給予任務修練，獲得更多公園區域的遊戲，並在遊戲中同時觀察公園少女的日常生活為基礎，為全新形式的偶像實境節目\[4\]。此節目同時也是是女團[公園少女的第一個團綜](https://zh.wikipedia.org/wiki/公園少女 "wikilink")\[5\]。
 
 ## 各集內容

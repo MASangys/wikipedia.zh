@@ -1,3 +1,6 @@
+> 本文内容由[Alvvays](https://zh.wikipedia.org/wiki/Alvvays)转换而来。
+
+
 **Alvvays**（發音為"Always"）是一支成立於2011年的加拿大[獨立流行音樂樂隊](../Page/獨立音樂.md "wikilink")，出道地點為[愛德華王子島的](https://zh.wikipedia.org/wiki/愛德華王子島 "wikilink")[夏洛特敦](https://zh.wikipedia.org/wiki/夏洛特敦 "wikilink")，現時樂隊總部在安大略省多倫多市。樂隊由 Molly Rankin擔任主唱和結他手，Kerri MacLellan擔任鍵盤手，Alec O'Hanley擔任吉他手，Brian Murphy擔任低音結他手和Sheridan Riley擔任鼓手。他們在2014年首張發行的同名專輯在美國大學排行榜上名列前茅。\[1\]其後，他們第二張錄音室專輯*Antisocialites*於2017年9月8日發行，並贏得朱諾獎年度另類專輯。此外，這兩張專輯都入圍北極星音樂獎。
 
 ## 成員

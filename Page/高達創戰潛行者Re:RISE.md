@@ -1,3 +1,6 @@
+> 本文内容由[高達創戰潛行者Re:RISE](https://zh.wikipedia.org/wiki/高達創戰潛行者Re:RISE)转换而来。
+
+
 為2019年10月10日起播放的日本[網絡動畫](https://zh.wikipedia.org/wiki/網絡動畫 "wikilink")，是「機動戰士高達40周年企劃」作品之一。以[機動戰士鋼彈系列的衍生產品高達模型為主進行的](https://zh.wikipedia.org/wiki/機動戰士鋼彈系列 "wikilink")「高達模型戰鬥」為題材作品，與題材相近的《[鋼彈創鬥者](https://zh.wikipedia.org/wiki/鋼彈創鬥者 "wikilink")》、《[鋼彈創鬥者TRY](https://zh.wikipedia.org/wiki/鋼彈創鬥者TRY "wikilink")》合稱《鋼彈創鬥系列》，《[鋼彈創鬥者 潛網大戰](../Page/鋼彈創鬥者_潛網大戰.md "wikilink")》的繼作。
 
 ## 故事簡介

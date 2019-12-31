@@ -1,3 +1,6 @@
+> 本文内容由[CACI](https://zh.wikipedia.org/wiki/CACI)转换而来。
+
+
 **CACI國際公司**（CACI International Inc），原名**加利福尼亞分析中心公司**（California Analysis Center, Inc.），是一家總部位於美國弗吉尼亞州[阿靈頓縣的跨國信息技術公司](../Page/阿靈頓縣_\(維吉尼亞州\).md "wikilink")\[1\]\[2\]。它負責為美國政府多個安全部門及衛生部門提供服務\[3\]\[4\]\[5\]。
 
 CACI由赫布·卡爾（Herb Karr）和[哈利·馬可維茲創立於](https://zh.wikipedia.org/wiki/哈利·馬可維茲 "wikilink")1962年，現在是[福布斯](../Page/福布斯.md "wikilink")1000大公司之一\[6\]。

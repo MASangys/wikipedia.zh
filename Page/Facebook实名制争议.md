@@ -1,3 +1,6 @@
+> 本文内容由[Facebook实名制争议](https://zh.wikipedia.org/wiki/Facebook实名制争议)转换而来。
+
+
 [替代=Facebook的实名制要求通知。](https://zh.wikipedia.org/wiki/File:Facebook-realname-1.jpg "fig:替代=Facebook的实名制要求通知。") **Facebook实名制争议**，是指社交网站[Facebook](../Page/Facebook.md "wikilink")实行[网络实名制](../Page/网络实名制.md "wikilink")而引发的争议，该网站规定用户必须使用真实个人姓名为用户名。用户必须将Facebook认可的文件上传到Facebook，以让Facebook确认信息。\[1\]如果在Facebook上的姓名被认为是虚假姓名，账户会被封停。
 
 ## 事件背景及经过

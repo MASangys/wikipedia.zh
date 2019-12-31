@@ -1,3 +1,6 @@
+> 本文内容由[Halo \(保护装置\)](https://zh.wikipedia.org/wiki/Halo_\(保护装置\))转换而来。
+
+
 [Räikkönen_Ferrari_SF71H_Testing_Barcelona_(cropped).jpg](https://zh.wikipedia.org/wiki/File:Räikkönen_Ferrari_SF71H_Testing_Barcelona_\(cropped\).jpg "fig:Räikkönen_Ferrari_SF71H_Testing_Barcelona_(cropped).jpg")在2018赛季前测试新的，该车配备了Halo保护装置。\]\]
 
 **Halo**是[开轮式赛车中使用的一种](https://zh.wikipedia.org/wiki/开轮式赛车 "wikilink")，安装在驾驶位置上方，防止在撞击事故中车手头部受伤的保护装置。

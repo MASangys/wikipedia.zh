@@ -1,3 +1,6 @@
+> 本文内容由[LentiGlobin BB305](https://zh.wikipedia.org/wiki/LentiGlobin_BB305)转换而来。
+
+
 **LentiGlobin BB305**是一種治療的實驗性療法，β-地中海貧血是一種罕見但可能會使人衰弱的血液疾病。這項療法由[Bluebird Bio開發](https://zh.wikipedia.org/wiki/Bluebird_Bio "wikilink")，並在2015年2月獲[美国食品药品监督管理局](../Page/美国食品药品监督管理局.md "wikilink")指定為「突破性療法」\[1\]。在早期的臨床試驗中，數位需要長期輸血治療的患者在此療法後能夠更長時間不用輸血\[2\]\[3\]\[4\]。
 
 ## 作用機轉

@@ -1,3 +1,6 @@
+> 本文内容由[Begin Again2 \(電視節目\)](https://zh.wikipedia.org/wiki/Begin_Again2_\(電視節目\))转换而来。
+
+
 《**Begin Again2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")的音樂節目，由韓國頂級音樂人在海外陌生的城市挑戰街頭路演。第二季由[朴正炫](https://zh.wikipedia.org/wiki/朴正炫 "wikilink")、、[Henry](../Page/劉憲華.md "wikilink")、[李秀賢組成Family](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") Band；[金倫我](../Page/金倫我.md "wikilink")、、、[Roy Kim組成另一隊](https://zh.wikipedia.org/wiki/羅伊·金 "wikilink")，分別前往葡萄牙匈牙利Busking。
 
 ## 各集內容

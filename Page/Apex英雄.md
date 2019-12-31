@@ -1,3 +1,6 @@
+> 本文内容由[Apex英雄](https://zh.wikipedia.org/wiki/Apex英雄)转换而来。
+
+
 ，是一个由[Respawn Entertainment开发](../Page/Respawn_Entertainment.md "wikilink")，由[艺电](../Page/艺电.md "wikilink")发行的[免费](../Page/网络游戏免费模式.md "wikilink")[大逃杀类](../Page/大逃杀游戏.md "wikilink")[多人在线](https://zh.wikipedia.org/wiki/多人在线游戏 "wikilink")[角色扮演](../Page/角色扮演游戏.md "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，沿用《[泰坦](https://zh.wikipedia.org/wiki/泰坦陨落 "wikilink")》系列的世界观。该游戏于2019年2月4日发布[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox One](../Page/Xbox_One.md "wikilink") 和[PS4版本](https://zh.wikipedia.org/wiki/PS4 "wikilink")。
 
 ## 游戏玩法

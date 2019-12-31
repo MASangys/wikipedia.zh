@@ -1,3 +1,6 @@
+> 本文内容由[伊丹站 \(JR西日本\)](https://zh.wikipedia.org/wiki/伊丹站_\(JR西日本\))转换而来。
+
+
 **伊丹站**（）是位於日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[伊丹市](../Page/伊丹市.md "wikilink")，[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[福知山線](../Page/福知山線.md "wikilink")（[JR寶塚線](https://zh.wikipedia.org/wiki/JR寶塚線 "wikilink")）的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，[車站編號](../Page/車站編號.md "wikilink")是JR-G52。
 
 ## 車站結構

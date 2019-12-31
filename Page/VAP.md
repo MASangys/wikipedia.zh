@@ -1,3 +1,6 @@
+> 本文内容由[VAP](https://zh.wikipedia.org/wiki/VAP)转换而来。
+
+
 **株式會社VAP**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")的影像與音樂製作公司。也是[日本電視控股](../Page/日本電視控股.md "wikilink")事業的子公司之一。1981年成立。VAP是全名「**V**ideo **A**udio **P**roject」的英文縮寫。
 
 ## 公司概要

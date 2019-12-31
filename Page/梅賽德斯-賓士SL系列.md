@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯-賓士SL系列](https://zh.wikipedia.org/wiki/梅賽德斯-賓士SL系列)转换而来。
+
+
 **梅塞德斯-奔馳SL系列**是由奔馳公司在20世紀50年代初開發的一款前置後驅的豪華雙門雙座轎跑車，它的名稱來源於德語"Sportlich-Leicht"，意即"運動輕型"。SL系列目前已有6代車款，其中最早可溯源到1954年產的300SL Gullwing (W198)及1955年產的190SL (W121)車型。  作為梅塞德斯-奔馳的旗艦款轎跑車型，SL系列自從誕生起就在全球範圍引起了廣泛關注，從第一代直到如今的第六代，其競爭對手也始終在變化。寶馬6系列，寶馬8系列，Porsche 928，捷豹XK等車型都曾成為過SL的競爭者。 [300SL Gullwing (W198)](https://zh.wikipedia.org/wiki/File:Mercedes.Benz_300_SL_Gullwing_\(7475449370\).jpg "fig:300SL Gullwing (W198)")
 
 ### 明星車款

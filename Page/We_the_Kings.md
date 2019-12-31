@@ -1,3 +1,6 @@
+> 本文内容由[We the Kings](https://zh.wikipedia.org/wiki/We_the_Kings)转换而来。
+
+
 **We the Kings**是一支來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[弗羅里達州](https://zh.wikipedia.org/wiki/弗羅里達州 "wikilink")[布雷登頓的](https://zh.wikipedia.org/wiki/布雷登頓 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。首張同名專輯於2007年發行，賣出25萬張。2009年，發行第二張專輯《微笑的孩子》（Smile Kid）。\[1\]
 
 2011年發行第三張專輯《陽光之心》（Sunshine State of Mind），收錄單曲《說你愛我》（Say You Like Me）的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")獲得[MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")的「年度最具創意音樂錄影帶獎」。隨後與[加拿大](../Page/加拿大.md "wikilink")樂團[簡單計畫一同進行全球巡演](https://zh.wikipedia.org/wiki/簡單計畫 "wikilink")，並在美國各地的[Warped巡迴](../Page/Warped巡迴.md "wikilink")進行演出。

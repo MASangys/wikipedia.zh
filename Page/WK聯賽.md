@@ -1,3 +1,6 @@
+> 本文内容由[WK聯賽](https://zh.wikipedia.org/wiki/WK聯賽)转换而来。
+
+
 **韓國女足聯賽**（，），是[韓國女子足球最高級別的足球聯賽](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，由[韓國足球協會](../Page/韓國足球協會.md "wikilink")設立，創立於2009年，目前共有8支球隊。
 
 ## 參賽球隊

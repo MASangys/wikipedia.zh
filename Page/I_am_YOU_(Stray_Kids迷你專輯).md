@@ -1,3 +1,6 @@
+> 本文内容由[I am YOU \(Stray Kids迷你專輯\)](https://zh.wikipedia.org/wiki/I_am_YOU_\(Stray_Kids迷你專輯\))转换而来。
+
+
 《**I am YOU**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2018年10月22日發行。同名主打歌〈I am YOU〉，由成員方燦、彰彬、HAN參與詞曲創作。
 
 ## 背景

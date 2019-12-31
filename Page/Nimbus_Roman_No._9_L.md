@@ -1,3 +1,6 @@
+> 本文内容由[Nimbus Roman No. 9 L](https://zh.wikipedia.org/wiki/Nimbus_Roman_No._9_L)转换而来。
+
+
 **Nimbus Roman No. 9 L**是[德国](../Page/德国.md "wikilink")[字体](../Page/字体.md "wikilink")设计公司于1987年设计的一款[衬线西文字体](https://zh.wikipedia.org/wiki/衬线 "wikilink")\[1\]，其前身是URW++在1982年设计的**Nimbus Roman**\[2\]，而Nimbus Roman又是基于[Times New Roman设计而成的](../Page/Times_New_Roman.md "wikilink")。1996年，Nimbus Roman No. 9 L以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")和授权发布\[3\]\[4\]\[5\]\[6\]，也以[Adobe Type 1字体格式成为了](../Page/PostScript字型.md "wikilink")35款[Ghostscript](../Page/Ghostscript.md "wikilink")基本字体之一\[7\]\[8\]。2009年，该字体又以授权发布\[9\]\[10\]\[11\]。因为Nimbus Roman No. 9 L是一款[自由字体](../Page/自由软件.md "wikilink")，所以[Debian](../Page/Debian.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")等主流的[Linux发行版都有预安装这款字体](../Page/Linux发行版列表.md "wikilink")，它们的[软件包管理系统](../Page/软件包管理系统.md "wikilink")中也含有这款字体的[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")\[12\]\[13\]。
 
 Nimbus Roman No. 9 L这个[字体家族含有常规体](https://zh.wikipedia.org/wiki/字体家族 "wikilink")、[粗体](https://zh.wikipedia.org/wiki/粗体 "wikilink")、[斜体和粗斜体四种字体](https://zh.wikipedia.org/wiki/斜体 "wikilink")，由于是基于Times New Roman制作而成，所以其字体风格和Times New Roman很相似。

@@ -1,3 +1,6 @@
+> 本文内容由[The Unarchiver](https://zh.wikipedia.org/wiki/The_Unarchiver)转换而来。
+
+
 **The Unarchiver**是一个[自由](../Page/自由.md "wikilink")的数据解压工具，它支持的格式比[macOS中内置的归档实用程序Archive](https://zh.wikipedia.org/wiki/macOS "wikilink") Utility（以前称为BOMArchiveHelper）更多。\[1\]它还可以处理用其他非英语版本的[操作系统](../Page/操作系统.md "wikilink")创建的外国字符集中的文件名。\[2\]最新版本需要macOS Lion或更高版本。The Unarchiver不会压缩文件。\[3\]
 
 相应的命令行实用程序和也可在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[macOS上运行](https://zh.wikipedia.org/wiki/macOS "wikilink")。\[4\]

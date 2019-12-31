@@ -1,3 +1,6 @@
+> 本文内容由[八文字DNA](https://zh.wikipedia.org/wiki/八文字DNA)转换而来。
+
+
 **八文字DNA**（，Hachimoji源自日語「八文字」的發音），是一種[人工合成的](https://zh.wikipedia.org/wiki/合成生物學 "wikilink")[核酸](../Page/核酸.md "wikilink")類似物，除含有四種天然DNA中含有的鹼基[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）、[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）、[鳥嘌呤](https://zh.wikipedia.org/wiki/鳥嘌呤 "wikilink")（G）、[胞嘧啶](../Page/胞嘧啶.md "wikilink")（C）外，還含有另外四種天然[DNA中不含有的鹼基](https://zh.wikipedia.org/wiki/DNA "wikilink")[5-氮雜-7-脫氮鳥嘌呤](../Page/5-氮雜-7-脫氮鳥嘌呤.md "wikilink")（P）、[6-氨基-5-硝基吡啶-2-酮](../Page/6-氨基-5-硝基吡啶-2-酮.md "wikilink")（Z）、[異鳥嘌呤](../Page/異鳥嘌呤.md "wikilink")（B）、[1-甲基胞嘧啶](https://zh.wikipedia.org/wiki/1-甲基胞嘧啶 "wikilink")（dS）。八文字DNA中的[鹼基配對除天然DNA的A](https://zh.wikipedia.org/wiki/鹼基對 "wikilink")-T和G-C外，還存在Z-P與dS-B兩種配對方式。八文字DNA也存在對應形式的八文字[RNA](https://zh.wikipedia.org/wiki/RNA "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]。
 
 八文字DNA能存儲比DNA更多的信息，對搜尋[地外生命的研究也有推動作用](https://zh.wikipedia.org/wiki/地外生命 "wikilink")\[6\]\[7\]。

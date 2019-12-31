@@ -1,3 +1,6 @@
+> 本文内容由[零 -ZERO-](https://zh.wikipedia.org/wiki/零_-ZERO-)转换而来。
+
+
 《**零 -ZERO-**》，是[福山雅治](../Page/福山雅治.md "wikilink")的配信限定[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Sutherland–Hodgman算法](https://zh.wikipedia.org/wiki/Sutherland–Hodgman算法)转换而来。
+
+
 **Sutherland–Hodgman算法**是裁剪[多边形](../Page/多边形.md "wikilink")的[算法](../Page/算法.md "wikilink")。它通过轮流延长每个[凸多边形](../Page/凸多边形.md "wikilink")的边，并且只选择在可见一侧的顶点来完成任务。
 
 ## 描述

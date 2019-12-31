@@ -1,3 +1,6 @@
+> 本文内容由[Dps](https://zh.wikipedia.org/wiki/Dps)转换而来。
+
+
 **dps**是[日本](../Page/日本.md "wikilink")四人[摇滚](../Page/摇滚.md "wikilink")乐队，2017年结成。为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。
 
 ## 成员

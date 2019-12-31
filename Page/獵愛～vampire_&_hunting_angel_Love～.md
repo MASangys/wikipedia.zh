@@ -1,3 +1,6 @@
+> 本文内容由[獵愛～vampire \& hunting angel Love～](https://zh.wikipedia.org/wiki/獵愛～vampire_\&_hunting_angel_Love～)转换而来。
+
+
 《**獵愛～vampire & hunting angel Love～**》，[長鴻出版社](../Page/長鴻出版社.md "wikilink")旗下 Think & Write 系列的[輕小說](../Page/輕小說.md "wikilink")，作者[九祐小姬](https://zh.wikipedia.org/wiki/九祐小姬 "wikilink")，繪者Uily，2019年1月出版第一冊。\[1\]
 
 ## 故事大綱

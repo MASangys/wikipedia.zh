@@ -1,3 +1,6 @@
+> 本文内容由[The ReVe Festival: Finale](https://zh.wikipedia.org/wiki/The_ReVe_Festival:_Finale)转换而来。
+
+
 《**The ReVe Festival: Finale**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的改版專輯](../Page/Red_Velvet.md "wikilink")，此專輯為「The ReVe Festival」系列的最後一張專輯，由[SM Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2019年12月23日發行，主打曲為《Psycho》\[1\]\[2\]。
 
 ## 預告

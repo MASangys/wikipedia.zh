@@ -1,3 +1,6 @@
+> 本文内容由[SpaceX](https://zh.wikipedia.org/wiki/SpaceX)转换而来。
+
+
 **太空探索技术公司**（，商业名称：）是美国一家[私人航天制造商和太空运输公司](../Page/私人公司.md "wikilink")，总部位于美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[霍桑](../Page/霍桑_\(加利福尼亚州\).md "wikilink")。SpaceX由企业家[伊隆·马斯克](../Page/伊隆·马斯克.md "wikilink")于2002年创办，目标是降低太空运输的成本，并进行[火星殖民](../Page/火星殖民.md "wikilink")。 \[1\]\[2\]\[3\]SpaceX现开发出[猎鹰系列运载火箭及](https://zh.wikipedia.org/wiki/猎鹰系列运载火箭 "wikilink")[龙系列飞船](../Page/龙飞船.md "wikilink")，用于运送荷载至[地心轨道](https://zh.wikipedia.org/wiki/地心轨道 "wikilink")。
 
 截止2019年2月，SpaceX已经与[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（）进行了16次[国际空间站](../Page/国际空间站.md "wikilink")（）补给任务的合作。\[4\]2011年，NASA向SpaceX授予了，研发并测试拥有的龙飞船，用以运送航天员往返国际空间站。\[5\]

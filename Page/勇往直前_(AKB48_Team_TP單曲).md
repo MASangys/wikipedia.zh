@@ -1,3 +1,6 @@
+> 本文内容由[勇往直前 \(AKB48 Team TP單曲\)](https://zh.wikipedia.org/wiki/勇往直前_\(AKB48_Team_TP單曲\))转换而来。
+
+
 《**勇往直前**》是台灣女子組合[AKB48 Team TP的出道](../Page/AKB48_Team_TP.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2018年12月25日由[環球音樂發行](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")\[1\]。
 
 ## 背景与宣传

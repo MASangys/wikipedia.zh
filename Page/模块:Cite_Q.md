@@ -1,3 +1,6 @@
+> 本文内容由[模块:Cite Q](https://zh.wikipedia.org/wiki/模块:Cite_Q)转换而来。
+
+
 require('Module:No globals')
 
 local citeq = {}

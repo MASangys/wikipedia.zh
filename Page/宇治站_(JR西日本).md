@@ -1,3 +1,6 @@
+> 本文内容由[宇治站 \(JR西日本\)](https://zh.wikipedia.org/wiki/宇治站_\(JR西日本\))转换而来。
+
+
 **宇治站**（）位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")宇治宇文字，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。車站編號為**JR-D09**。
 
 ## 歷史

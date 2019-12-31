@@ -1,3 +1,6 @@
+> 本文内容由[Velvia](https://zh.wikipedia.org/wiki/Velvia)转换而来。
+
+
 **Velvia**，中文名**维尔维亚**\[1\]（）是[富士胶片](../Page/富士胶片.md "wikilink")株式会社生产的一系列彩色反转片的统称。它的名称来源于富士公司早年生产的Fujichrome彩色反转片代号，与另一系列[普罗维亚](../Page/普罗维亚.md "wikilink")形成互补的市场关系。
 
 ## 基本介绍

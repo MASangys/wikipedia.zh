@@ -1,3 +1,6 @@
+> 本文内容由[Google计算引擎](https://zh.wikipedia.org/wiki/Google计算引擎)转换而来。
+
+
 **Google计算引擎**（Google Compute Engine，**GCE**）是一项[Google雲端平台](../Page/Google雲端平台.md "wikilink")的[基礎設施即服務](https://zh.wikipedia.org/wiki/基礎設施即服務 "wikilink")（IaaS）组成部分，它基于驱动Google搜索引擎、[Gmail](../Page/Gmail.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")和其他服务的全球基础设施。Google计算引擎可使用户按需启动[虛擬機器](../Page/虛擬機器.md "wikilink")（VM）。虚拟机可通过标准镜像或用户创建的自定义镜像启动。GCE用户必须先在启动虚拟机前通过基于[OAuth](../Page/开放授权.md "wikilink") 2.0的认证。Google计算引擎可通过开发者控制台、[RESTful API或](../Page/表现层状态转换.md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")（CLI）访问。
 
 ## 历史

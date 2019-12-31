@@ -1,3 +1,6 @@
+> 本文内容由[FM稚內](https://zh.wikipedia.org/wiki/FM稚內)转换而来。
+
+
 **FM稚內**（）是位於日本[北海道](../Page/北海道.md "wikilink")[稚內市](../Page/稚內市.md "wikilink")的廣播電台，透過[調頻廣播向](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[北海道](../Page/北海道.md "wikilink")[稚內市](../Page/稚內市.md "wikilink")、[禮文郡](../Page/禮文郡.md "wikilink")[禮文町](../Page/禮文町.md "wikilink")、[利尻郡](../Page/利尻郡.md "wikilink")[利尻富士町](../Page/利尻富士町.md "wikilink")和[利尻町](../Page/利尻町.md "wikilink")部分區域放送，又被簡稱為「**FM Wappy〜**」（）。
 
 ## 概要

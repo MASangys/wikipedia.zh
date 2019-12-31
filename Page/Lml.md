@@ -1,3 +1,6 @@
+> 本文内容由[Lml](https://zh.wikipedia.org/wiki/Lml)转换而来。
+
+
 **lml**是[lol的第二張專輯](../Page/Lol_\(團體\).md "wikilink")。2018年10月31日由avex trax發售\[1\]。
 
 ## 収録曲

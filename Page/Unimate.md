@@ -1,3 +1,6 @@
+> 本文内容由[Unimate](https://zh.wikipedia.org/wiki/Unimate)转换而来。
+
+
 **Unimate**是世界上第一个[工业机器人](../Page/工业机器人.md "wikilink")，在[美国](../Page/美国.md "wikilink")[新泽西州](../Page/新泽西州.md "wikilink")的的[通用汽车](../Page/通用汽车.md "wikilink")[装配线上工作](https://zh.wikipedia.org/wiki/裝配線 "wikilink")。该[机器人](../Page/机器人.md "wikilink")由发明于20世纪50年代。
 
 ## 历史

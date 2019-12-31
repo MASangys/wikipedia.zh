@@ -1,3 +1,6 @@
+> 本文内容由[Grandson \(歌手\)](https://zh.wikipedia.org/wiki/Grandson_\(歌手\))转换而来。
+
+
 **乔丹·爱德华·本杰明**\[1\]\[2\]（，），艺名**grandson**\[3\]，是一名[加拿大](../Page/加拿大.md "wikilink")裔[美国](../Page/美国.md "wikilink")歌手、词曲作者兼音乐人，目前签约于[拉麵工坊](../Page/拉麵工坊.md "wikilink")厂牌。他于2018年6月15日发行了自己的首张厂牌EP《A Modern Tragedy Vol. 1》，并在2019年2月22日发布了《A Modern Tragedy Vol. 2》。首张EP收录了单曲《Blood // Water》。该曲登上美国和加拿大多个单曲排行榜上。
 
 ## 早期生活

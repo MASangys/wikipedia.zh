@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Wei Yang \(Town Planner \& Urban Designer\)](https://zh.wikipedia.org/wiki/Draft:Wei_Yang_\(Town_Planner_\&_Urban_Designer\))转换而来。
+
+
 -----
 
 **Wei Yang** FAcSS FRTPI MCIHT (born April 1974) is a Chinese-British town planner and urban designer. She is the founder of Wei Yang & Partners\[1\] in London. She is a lead figure in researching, promoting and implementing the 21st Century Garden City approach\[2\] and promoting joined up thinking between different built environment professionals\[3\]. Yang champions a revival of spirit for a modernised planning profession\[4\] to tackle the global challenges in a systematic way, and thus to achieve collective wellbeing and fulfilment for all. In September 2019, she was elected as the Royal Town Planning Institute’s Vice President for 2020\[5\]. She will lead the Institute as President in 2021\[5\]. She is a Board Member of the British Library \[6\], an Independent Trustee of the Landscape Institute \[7\], and a Board Trustee of Milton Keynes City Discovery Centre \[8\].

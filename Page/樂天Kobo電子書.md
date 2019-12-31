@@ -1,3 +1,6 @@
+> 本文内容由[樂天Kobo電子書](https://zh.wikipedia.org/wiki/樂天Kobo電子書)转换而来。
+
+
 **樂天Kobo電子書**（），簡稱**樂天Kobo**，是一家總部位於[加拿大](../Page/加拿大.md "wikilink")[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，隸屬[日本](../Page/日本.md "wikilink")[樂天株式會社旗下的](https://zh.wikipedia.org/wiki/樂天株式會社 "wikilink")[電子書](../Page/電子書.md "wikilink")品牌，目前是全球第二大電子書平台，提供[電子書](../Page/電子書.md "wikilink")、[電子書閱讀器](https://zh.wikipedia.org/wiki/電子書閱讀器 "wikilink")\[1\]銷售服務，其直接競爭對手包括Kindle、BOOX、reMarkable等。Kobo這個字是Book通过[易位構詞遊戲轉換而來](https://zh.wikipedia.org/wiki/易位構詞遊戲 "wikilink")\[2\]。
 
 樂天Kobo於2009年成立於加拿大，一開始名為**Shortcovers**\[3\]，於2009年12月由[Indigo公司改名為](https://zh.wikipedia.org/wiki/靛色 "wikilink")[Kobo Inc.並轉型成為獨立公司](https://zh.wikipedia.org/wiki/Kobo_Inc. "wikilink")\[4\]。2012年1月由[日本](../Page/日本.md "wikilink")[樂天株式會社](https://zh.wikipedia.org/wiki/樂天株式會社 "wikilink")100%收購成為樂天Kobo電子書\[5\]\[6\]\[7\]，2016年9月於台灣正式開台，提供[繁體中文](../Page/繁体字.md "wikilink")[電子書](../Page/電子書.md "wikilink")銷售服務。\[8\]\[9\]\[10\]

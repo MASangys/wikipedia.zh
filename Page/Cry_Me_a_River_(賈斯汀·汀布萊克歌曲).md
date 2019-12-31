@@ -1,3 +1,6 @@
+> 本文内容由[Cry Me a River \(賈斯汀·汀布萊克歌曲\)](https://zh.wikipedia.org/wiki/Cry_Me_a_River_\(賈斯汀·汀布萊克歌曲\))转换而来。
+
+
 **Cry me a river** 是[Jive唱片在](https://zh.wikipedia.org/wiki/Jive唱片 "wikilink")2002年11月推出的[當代節奏藍調單曲](https://zh.wikipedia.org/wiki/當代節奏藍調 "wikilink")，[賈斯汀·汀布萊克是](https://zh.wikipedia.org/wiki/賈斯汀·汀布萊克 "wikilink")[填詞人之一](../Page/詞曲作家.md "wikilink")，而單曲則是由[提姆巴蘭](../Page/提姆巴蘭.md "wikilink")所製作。此曲在2002年12月先達到[主流四十強單曲榜第](https://zh.wikipedia.org/wiki/主流四十強單曲榜 "wikilink")37名\[1\]，在2003年2月最高達到第3名\[2\]。此曲的銷量已超過120萬次 \[3\]。
 
 ## 背景

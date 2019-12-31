@@ -1,3 +1,6 @@
+> 本文内容由[ABS-CBN](https://zh.wikipedia.org/wiki/ABS-CBN)转换而来。
+
+
 **ABS-CBN公司**（），全称为**阿尔托广播系统-纪事广播网**\[1\]（，现已不常用），是[菲律宾的一家媒体集团](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")。ABS-CBN由阿尔托广播系统（Alto Broadcasting System，简称ABS）和纪事广播网（Chronicle Broadcasting Network，简称CBN）于1967年合并组建，长期由菲律宾知名的政商家族——洛佩兹家族控制，是菲律宾最大的娱乐和传媒集团，其旗下的（原DZAQ-TV）是菲律宾历史上第一个电视台。
 
 ## 历史

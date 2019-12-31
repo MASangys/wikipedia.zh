@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE STAMPEDE](https://zh.wikipedia.org/wiki/ONE_PIECE_STAMPEDE)转换而来。
+
+
 《**航海王：奪寶爭霸戰**》（）是一部於2019年8月9日上映的[日本](../Page/日本.md "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，是改編自[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[尾田榮一郎漫畫系列](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》的第14部劇場版，同時是電視動畫20周年紀念作品。\[1\]\[2\]\[3\]
 
 ## 劇情

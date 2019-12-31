@@ -1,3 +1,6 @@
+> 本文内容由[洛神賦 \(SING女團單曲\)](https://zh.wikipedia.org/wiki/洛神賦_\(SING女團單曲\))转换而来。
+
+
 〈**洛神賦**〉是中國女子音樂團體[SING女團](https://zh.wikipedia.org/wiki/SING女團 "wikilink")2019年第六張單曲音樂，於6月13日發行。\[1\]\[2\]\[3\]
 
 ## 日程

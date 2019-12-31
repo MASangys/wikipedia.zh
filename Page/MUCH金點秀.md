@@ -1,3 +1,6 @@
+> 本文内容由[MUCH金點秀](https://zh.wikipedia.org/wiki/MUCH金點秀)转换而来。
+
+
 《**MUCH金點秀**》是[年代集團](../Page/年代集團.md "wikilink")監製及首播的歌唱[綜藝節目](../Page/綜藝節目.md "wikilink")，開播時主持人為[張秀卿](../Page/張秀卿.md "wikilink")、[邵大倫](https://zh.wikipedia.org/wiki/邵大倫 "wikilink")\[1\]，阿咪大樂團伴奏，2019年4月16日舉行首播記者會\[2\]，[年代MUCH台](../Page/年代MUCH台.md "wikilink")於2019年4月15日首播。
 
 ## 播出時間

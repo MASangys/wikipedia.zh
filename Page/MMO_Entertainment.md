@@ -1,3 +1,6 @@
+> 本文内容由[MMO Entertainment](https://zh.wikipedia.org/wiki/MMO_Entertainment)转换而来。
+
+
 **MMO娛樂**（，簡稱：；，簡稱：**MMO**）\[1\] 是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立於2014年，為[CJ E\&M](../Page/CJ_E&M.md "wikilink")100%全資的企劃公司。
 
 ## 歷史沿革

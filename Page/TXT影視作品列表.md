@@ -1,3 +1,6 @@
+> 本文内容由[TXT影視作品列表](https://zh.wikipedia.org/wiki/TXT影視作品列表)转换而来。
+
+
 《**TXT影視作品列表**》，主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")[TOMORROW X TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、各類電視節目、固定節目及主持作品。
 
 ## 專屬節目

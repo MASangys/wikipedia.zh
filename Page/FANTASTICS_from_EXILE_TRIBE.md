@@ -1,3 +1,6 @@
+> 本文内容由[FANTASTICS from EXILE TRIBE](https://zh.wikipedia.org/wiki/FANTASTICS_from_EXILE_TRIBE)转换而来。
+
+
 **FANTASTICS from EXILE TRIBE** 是隸屬[LDH JAPAN旗下](../Page/LDH_\(藝能事務所\).md "wikilink")，由兩位主唱及七名表演者組成的九人日本男子組合。
 
 ## 簡歷

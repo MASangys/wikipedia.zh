@@ -1,3 +1,6 @@
+> 本文内容由[Sing Out!](https://zh.wikipedia.org/wiki/Sing_Out!)转换而来。
+
+
 《**Sing Out\!**》是日本女子偶像团体[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")23张单曲，由秋元康作词，Ryota Saito和TETTA作曲。2019年5月29日由N46Div.发售。同名标题曲的Center（中心成员）由[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")担任。
 
 ## 概要

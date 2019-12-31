@@ -1,3 +1,6 @@
+> 本文内容由[Perfume The Best “P Cubed”](https://zh.wikipedia.org/wiki/Perfume_The_Best_“P_Cubed”)转换而来。
+
+
 《Perfume The Best “P Cubed”》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第一張精选](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2019年9月18日發行\[1\] 。唱片公司為[Perfume Records / UNIVERSAL J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。\[2\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[CU \(超商\)](https://zh.wikipedia.org/wiki/CU_\(超商\))转换而来。
+
+
 **CU**（） () 是[韓國的連鎖](https://zh.wikipedia.org/wiki/韓國 "wikilink")[便利商店](../Page/便利商店.md "wikilink")，目前與[GS25](../Page/GS25.md "wikilink")為韓國超商兩大龍頭。
 
 ## 歷史

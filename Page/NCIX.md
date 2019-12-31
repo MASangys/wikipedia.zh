@@ -1,3 +1,6 @@
+> 本文内容由[NCIX](https://zh.wikipedia.org/wiki/NCIX)转换而来。
+
+
 **Netlink Computer Inc.** ([商业名称](https://zh.wikipedia.org/wiki/商业名称 "wikilink")**NCIX**) 在线销售[电脑硬件和](https://zh.wikipedia.org/wiki/电脑硬件 "wikilink")[软件](../Page/软件.md "wikilink")，总部设在[里士满](../Page/里士满.md "wikilink")，[加拿大](../Page/加拿大.md "wikilink")。于1996年由Steve Wu（伍啟儀）成立。\[1\]\[2\]
 
 ## 参考资料

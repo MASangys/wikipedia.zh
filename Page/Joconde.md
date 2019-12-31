@@ -1,3 +1,6 @@
+> 本文内容由[Joconde](https://zh.wikipedia.org/wiki/Joconde)转换而来。
+
+
 **Joconde**是创建于1975年的中央[数据库](../Page/数据库.md "wikilink")，由[法国文化部主管](https://zh.wikipedia.org/wiki/法国文化部 "wikilink")。收录列于“法国博物馆”的超过1200个法国主要公共或私人博物馆藏品\[1\]\[2\]。
 
 “*La Joconde*”是著名画作[蒙娜丽莎](../Page/蒙娜丽莎.md "wikilink")的法语名称，Joconde收录了[卢浮宫](../Page/卢浮宫.md "wikilink")内约一半的藏品，包括蒙娜丽莎在内的295件与[达芬奇相关的作品也在其中](https://zh.wikipedia.org/wiki/达芬奇 "wikilink")。截至2012年11月，Joconde收录超过475,000件物品、超过290,000件图像\[3\]，共有366个法国合集\[4\] ，其中包括209,350幅[绘画](../Page/绘画.md "wikilink")，63,547幅[油画](../Page/油画.md "wikilink")，34,561幅[版画](../Page/版画.md "wikilink")，34,102个[雕塑](../Page/雕塑.md "wikilink")和16,631个[服装](../Page/服装.md "wikilink")及其配件，并持续在增加中。

@@ -1,3 +1,6 @@
+> 本文内容由[WE ARE Perfume WORLD TOUR 3rd DOCUMENT](https://zh.wikipedia.org/wiki/WE_ARE_Perfume_WORLD_TOUR_3rd_DOCUMENT)转换而来。
+
+
 《WE ARE Perfume -WORLD TOUR 3rd DOCUMENT》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume首部纪录片电影](https://zh.wikipedia.org/wiki/Perfume_\(日本音乐团体\) "wikilink")，於2015年10月31日公开上映。商品化版本于2016年7月6日发行，唱片公司為[Perfume Records](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 
 ## 概要

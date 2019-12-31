@@ -1,3 +1,6 @@
+> 本文内容由[The Red Light](https://zh.wikipedia.org/wiki/The_Red_Light)转换而来。
+
+
 《**The Red Light**》（）是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2017年7月12日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 概要

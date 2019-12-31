@@ -1,3 +1,6 @@
+> 本文内容由[Pindad SS1突擊步槍](https://zh.wikipedia.org/wiki/Pindad_SS1突擊步槍)转换而来。
+
+
 **Pindad SS1**（SS1全寫：，意為：1型[突击步枪](../Page/突击步枪.md "wikilink")）\[1\]是一款由[印度尼西亚](../Page/印度尼西亚.md "wikilink")位於[萬隆](../Page/萬隆.md "wikilink")市的槍械製造商以獲[比利时](../Page/比利时.md "wikilink")[埃斯塔勒国营工厂](../Page/埃斯塔勒国营工厂.md "wikilink")特許生產的[FNC突擊步槍為基礎](../Page/FN_FNC突擊步槍.md "wikilink")，\[2\]\[3\]但為了滿足[人體工學和](../Page/生物力学.md "wikilink")[热带](../Page/热带.md "wikilink")[环境的需求而經過修改以後加以生產的突擊步槍](https://zh.wikipedia.org/wiki/环境 "wikilink")，\[4\]並且成為[印度尼西亞國民軍](../Page/印度尼西亞國民軍.md "wikilink")和的[制式步槍](../Page/各國軍隊制式步槍列表.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 該突擊步槍是裝有折疊式[槍托](../Page/槍托.md "wikilink")的[氣動式](../Page/氣動式_\(槍械\).md "wikilink")[自動](https://zh.wikipedia.org/wiki/自動步枪 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，其設計符合北約標準。SS1武器系列是印尼國民軍（包括陸軍、海軍和空軍）以及印尼警察所採用的高性能輕便型個人武器。1991年，該槍獲印尼採用。\[5\]

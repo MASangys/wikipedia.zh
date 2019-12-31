@@ -1,3 +1,6 @@
+> 本文内容由[ENOi](https://zh.wikipedia.org/wiki/ENOi)转换而来。
+
+
 **ENOi**（韓語：**이엔오아이**），團名有「w**E** ca **N** d**O** i**T**」的意思，是[韓國Kithewhale娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的七人男子團體\[1\]\[2\]\[3\]，成員包括Laon\[4\]、Dojin\[5\]、Hamin、Avin、Jinwoo、J-Kid\[6\]及Gun。
 
 ## 成員資料

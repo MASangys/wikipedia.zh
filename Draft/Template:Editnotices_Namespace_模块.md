@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Template:Editnotices/Namespace/模块](https://zh.wikipedia.org/wiki/Draft:Template:Editnotices/Namespace/模块)转换而来。
+
+
 {{\#ifeq:{{\#titleparts:|1|-1}}|doc | |{{\#ifeq:|CGroup |G1={{))}}</code>。 | zh-hant = 這個名字空間中的頁面用[Lua](../Page/Lua.md "wikilink")程式語言寫成。它由[Template:NoteTA進行引用](https://zh.wikipedia.org/wiki/Template:NoteTA "wikilink")，格式為`{{((}}NoteTA{{!}}G1=``{{))}}`。 }}
 
 <div style="float:right; text-align:right; vertical-align:bottom;font-size:xx-small;">

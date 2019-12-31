@@ -1,3 +1,6 @@
+> 本文内容由[Hello! Good bye](https://zh.wikipedia.org/wiki/Hello!_Good_bye)转换而来。
+
+
 《**Hello\! Good bye**》（）是[日本電視台](../Page/日本電視台.md "wikilink")的系列作品之一，於1989年4月14日至9月22日期間在[日本電視網播放](../Page/日本電視網協議會.md "wikilink")，全劇共計19集，由[東寶](../Page/東寶.md "wikilink")負責拍攝並製作\[1\]。主演為。
 
 ## 概要

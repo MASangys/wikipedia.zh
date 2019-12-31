@@ -1,3 +1,6 @@
+> 本文内容由[柯爾特軍官ACP半自動手槍](https://zh.wikipedia.org/wiki/柯爾特軍官ACP半自動手槍)转换而来。
+
+
 **柯爾特軍官ACP**或**柯爾特軍官型**（或）是一款由[美国](../Page/美国.md "wikilink")槍械製造商在1985年作為對眾多[售後市場公司要求生產M](https://zh.wikipedia.org/wiki/售後市場 "wikilink")1911手槍的縮小型回應，而以槍械設計師[約翰·白朗寧所設計的](https://zh.wikipedia.org/wiki/約翰·白朗寧 "wikilink")[M1911手槍](../Page/M1911手槍.md "wikilink")所研製和生產以後推出的[單動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")（SA）、、[彈匣](../Page/彈匣.md "wikilink")供彈和[後座式](../Page/後座作用.md "wikilink")[手枪](../Page/手枪.md "wikilink")，發射[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑手槍](https://zh.wikipedia.org/wiki/口徑 "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Tab S6](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S6)转换而来。
+
+
 **三星Galaxy Tab S6**是一款由[三星電子](../Page/三星電子.md "wikilink")推出的旗艦級[平板電腦](../Page/平板電腦.md "wikilink")。首次在2019年7月31日公開，於同年9月發售。\[1\]
 
 ## 歷史

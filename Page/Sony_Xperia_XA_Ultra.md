@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia XA Ultra](https://zh.wikipedia.org/wiki/Sony_Xperia_XA_Ultra)转换而来。
+
+
 索尼**Xperia XA Ultra**是一款由[索尼移动通信](../Page/索尼移动通信.md "wikilink")公司生产的安卓智能手机。它于2016年5月公布，并于2016年7月发售。
 
 ## 规格

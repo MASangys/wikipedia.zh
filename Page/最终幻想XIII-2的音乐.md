@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XIII-2的音乐](https://zh.wikipedia.org/wiki/最终幻想XIII-2的音乐)转换而来。
+
+
 <span>[最终幻想XIII-2](../Page/最终幻想XIII-2.md "wikilink")</span>是一款[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")（Square Enix）在2011年开发和出版的[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")，作为<span>[最终幻想XIII](../Page/最终幻想XIII.md "wikilink")的续作。</span>游戏的音乐由[滨涡正志](../Page/滨涡正志.md "wikilink")（Masashi Hamauzu），[水田直志](../Page/水田直志.md "wikilink")（Naoshi Mizuta）和[铃木光人](https://zh.wikipedia.org/wiki/铃木光人 "wikilink")（ Mitsuto Suzuki）作曲。游戏有意于让音乐与以往的<span>[最终幻想的作品听上去有所不同](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")</span>，加入更多的音乐风格和人声作品。游戏发行后，史克威尔艾尼克斯在2011年发行了包含四碟片的原声带专辑<span>Final Fantasy XIII-2 Original Soundtrack</span>，以及在2012年发型了一张游戏内的曲目的其他编曲和备用版本的专辑<span>Final Fantasy XIII Original Soundtrack PLUS</span>。游戏的主题曲， ，由歌手[福井舞](../Page/福井舞.md "wikilink")（Mai Fukui）在2011年作为单曲专辑发售单，这首歌的英文版，由[杰克·柴瑞斯](../Page/傑克·柴瑞斯.md "wikilink")（Charice Pempengco）演唱，收录在游戏的非日文版中，也收录在她2012年的专辑<span>中</span>。
 
 原声带专辑的评论是积极的，评论家赞扬风格的多样化以及作品的质量。一些评论者指出水田的作品可能是他迄今为止最好的。游戏的评论不一，部分人认为有些音乐的风格不匹配游戏。评论家也对编曲版专辑意见不一，认为有些曲目只是原版的劣质版。原声带专辑和单曲专辑销售得很好，登上了日本公信榜，原声带专辑最高排行\#13，在榜单上保留了8周。

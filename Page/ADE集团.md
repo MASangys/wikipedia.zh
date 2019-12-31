@@ -1,3 +1,6 @@
+> 本文内容由[ADE集团](https://zh.wikipedia.org/wiki/ADE集团)转换而来。
+
+
 **ADE集团**（英语：Australia Digital Economy Ecology Group）全称澳大利亚数字经济生态集团，是一家[澳大利亚](../Page/澳大利亚.md "wikilink")的金融科技集团；其拥有澳洲AUSTRAC[数字货币牌照](https://zh.wikipedia.org/wiki/数字货币 "wikilink")\[1\]。
 
 ADE集团拥有来自[芝加哥第一银行](https://zh.wikipedia.org/wiki/芝加哥第一银行 "wikilink")、[富士银行](https://zh.wikipedia.org/wiki/富士 "wikilink")、[JP摩根](../Page/摩根大通.md "wikilink")、[Oracle甲骨文](../Page/甲骨文公司.md "wikilink")、[微软](../Page/微软.md "wikilink")等全球知名金融机构专家和顶级技术公司的研发团队，具备丰富的金融领域服务经验与技术储备。携手全球社区经济共建伟大公司，帮助全球发展中企业实现资本数字化、经营国际化、盈利持续化\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[X连锁淋巴细胞增生性疾病](https://zh.wikipedia.org/wiki/X连锁淋巴细胞增生性疾病)转换而来。
+
+
 **X连锁淋巴细胞增生性疾病**（X-linked lymphoproliferative disease），又名**邓肯病**（Duncan's disease）\[1\]或**珀蒂洛综合征**（Purtilo syndrome）\[2\]，是一种\[3\]。
 
 患有X连锁淋巴细胞增生性疾病的男孩无法对[人類疱疹病毒第四型](../Page/人類疱疹病毒第四型.md "wikilink")病毒（EBV）产生免疫反应\[4\]，故常死于骨髓衰竭、不可逆肝炎和恶性淋巴瘤。然而，EBV与X连锁淋巴细胞增生性疾病之间的关系尚未明确\[5\]。患者体内产生的[记忆B细胞](../Page/记忆B细胞.md "wikilink")数量不足\[6\]。

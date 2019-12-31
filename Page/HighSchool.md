@@ -1,3 +1,6 @@
+> 本文内容由[HighSchool](https://zh.wikipedia.org/wiki/HighSchool)转换而来。
+
+
 **Highschool**（），是[韓國Richworld娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人女子组合\[1\]\[2\]\[3\]，成員包括Yebin()、J()、Haebin()及SoEun()。
 
 ## 活動經歷

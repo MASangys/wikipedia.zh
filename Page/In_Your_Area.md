@@ -1,3 +1,6 @@
+> 本文内容由[In Your Area](https://zh.wikipedia.org/wiki/In_Your_Area)转换而来。
+
+
 **In Your Area**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")以其名稱為主題所舉行的專場演唱會\[1\]，也是她們出道後首次舉辦的大型單獨演唱會，以宣傳出道至今所發行過的音樂專輯，包括《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》等。演唱會起初僅在韓國舉辦，全名為「BLACKPINK 2018 Tour「In Your Area」Seoul x [BC Card](https://zh.wikipedia.org/wiki/BC卡 "wikilink")」於2018年11月10日和11月11日在[首爾奧林匹克體操競技場進行兩場的演出](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")\[2\]。而後擴大舉辦與「In Your Area」同名的世界巡迴演唱會，巡演定於2019年1月12日在[泰國](../Page/泰国.md "wikilink")[曼谷](../Page/曼谷.md "wikilink")的拉開序幕，官方目前暫定於2020年2月4日於[日本](../Page/日本.md "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")結束。連同韓國場次總計36場演出。
 
 ## 背景

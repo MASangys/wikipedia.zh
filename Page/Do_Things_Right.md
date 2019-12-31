@@ -1,3 +1,6 @@
+> 本文内容由[Do Things Right](https://zh.wikipedia.org/wiki/Do_Things_Right)转换而来。
+
+
 《**Do Things Right**》是為[2018年中華民國地方公職人員選舉](../Page/2018年中華民國地方公職人員選舉.md "wikilink")[臺北市市長](../Page/臺北市市長.md "wikilink")[參選人柯文哲競選專輯而發行的主題曲](https://zh.wikipedia.org/wiki/參選人 "wikilink")，由[顏社企業有限公司迪拉](https://zh.wikipedia.org/wiki/顏社企業有限公司 "wikilink")、春艷作詞曲，是柯文哲的第一首單曲，2018年10月27日於[KKBOX](../Page/KKBOX.md "wikilink")正式發行\[1\]\[2\]\[3\]\[4\]。
 
 ## 歌曲

@@ -1,3 +1,6 @@
+> 本文内容由[Metropol \(专辑\)](https://zh.wikipedia.org/wiki/Metropol_\(专辑\))转换而来。
+
+
 《***Metropol***》（大都会）是英国组合乐队的首张专辑。
 
 歌曲《Leave You Far Behind》（把你远远抛在后面）在《黑客帝国、《》、《》、《》、《》中出现。更早之前也在《[蜘蛛侠](../Page/蜘蛛人_\(電影\).md "wikilink")》的片头预告里出现过。

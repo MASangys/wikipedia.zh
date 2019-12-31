@@ -1,3 +1,6 @@
+> 本文内容由[Ariel Project 演出簡歷列表](https://zh.wikipedia.org/wiki/Ariel_Project_演出簡歷列表)转换而来。
+
+
 **Ariel Project 演出簡歷列表**是[香港](../Page/香港.md "wikilink")日系[女子偶像組合Ariel](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink") Project 的演出歷程記錄。
 
 有關本組合的最近期簡歷、成員簡介、音樂作品、及媒體報導/訪問內容，請參照**[Ariel Project](../Page/Ariel_Project.md "wikilink")**。

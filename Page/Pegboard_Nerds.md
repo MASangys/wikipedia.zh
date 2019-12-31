@@ -1,3 +1,6 @@
+> 本文内容由[Pegboard Nerds](https://zh.wikipedia.org/wiki/Pegboard_Nerds)转换而来。
+
+
 **Pegboard Nerds**是一个丹麦及挪威的电子音乐组合，由挪威DJ亚历山大·奥登（Alexander Odden）及丹麦DJ组成。\[1\]组合名Pegboard Nerds由他们的姓Odden及Parsberg改写而来。奥登及帕尔斯贝格在2005年首次见面并于2011年成立团体。先前，他们的唱片被发布于不同的项目之下且自20世纪90年代起都有音乐创作。
 
 2015年10月21日，Pegboard Nerds发布了《》以资助[乳癌](../Page/乳癌.md "wikilink")研究，此专辑一时登上iTunes舞曲专辑榜第二且登上告示牌舞曲专辑榜前十名。\[2\]\[3\]

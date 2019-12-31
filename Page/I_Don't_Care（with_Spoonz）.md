@@ -1,3 +1,6 @@
+> 本文内容由[I Don\'t Care（with Spoonz）](https://zh.wikipedia.org/wiki/I_Don\'t_Care（with_Spoonz）)转换而来。
+
+
 **I Don't Care（with Spoonz）**是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")因成員[黃旼炫加入限時企劃團體](https://zh.wikipedia.org/wiki/黃旼泫 "wikilink")[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，組成的分隊[NU'EST W所發行的第二首韓文數位單曲](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink")，與[NCsoft](../Page/NCsoft.md "wikilink")旗下角色品牌Spoonz合作。2018年10月1日於各大音源網站公開線上音源\[1\]。
 
 ## 背景與發行

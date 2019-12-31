@@ -1,3 +1,6 @@
+> 本文内容由[Breakthrough \(TWICE單曲\)](https://zh.wikipedia.org/wiki/Breakthrough_\(TWICE單曲\))转换而来。
+
+
 《**Breakthrough**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE第五張日語單曲](https://zh.wikipedia.org/wiki/TWICE "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2019年7月24日推出，主打歌為〈Breakthrough〉。\[1\]\[2\]
 
 ## 背景

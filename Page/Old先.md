@@ -1,3 +1,6 @@
+> 本文内容由[Old先](https://zh.wikipedia.org/wiki/Old先)转换而来。
+
+
 **Old先**是一位中国内地女性[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")，2013年毕业于[中央美术学院](../Page/中央美术学院.md "wikilink")。所属团队为[幕星社](https://zh.wikipedia.org/wiki/幕星社 "wikilink")。
 
 ## 经历

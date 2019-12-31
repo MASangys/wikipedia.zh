@@ -1,3 +1,6 @@
+> 本文内容由[S级 \(类型\)](https://zh.wikipedia.org/wiki/S级_\(类型\))转换而来。
+
+
 ，或"**S kankei**"，\[1\]缩写为**S**或****，是20世纪早期的日本[和製英語](../Page/和製英語.md "wikilink")术语，专门用于表示女学生之间强烈的[浪漫友情关系](https://zh.wikipedia.org/wiki/浪漫友情 "wikilink")<ref name=takarazuka> Citing:
 \*
 

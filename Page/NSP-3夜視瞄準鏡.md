@@ -1,3 +1,6 @@
+> 本文内容由[NSP-3夜視瞄準鏡](https://zh.wikipedia.org/wiki/NSP-3夜視瞄準鏡)转换而来。
+
+
 **NSP-3**（；НСП[全寫](../Page/縮寫.md "wikilink")：**Н**очной **С**трелковый **П**рицел，加上「-3」意為：夜間瞄準具3型；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款在1960年代初由[前蘇聯NII](../Page/苏联.md "wikilink")-801（）所研製和生產的被動式[夜視](https://zh.wikipedia.org/wiki/夜視镜 "wikilink")[瞄准镜](../Page/瞄准镜.md "wikilink")，設計用於裝設於[AK系列](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")[自動步枪](https://zh.wikipedia.org/wiki/自動步枪 "wikilink")，[RPK系列](../Page/RPK輕機槍.md "wikilink")[轻機槍和](https://zh.wikipedia.org/wiki/轻機槍 "wikilink")[SVD系列](../Page/SVD狙擊步槍.md "wikilink")[精確射手步槍](../Page/精確射手步槍.md "wikilink")以上，並且在光線條件較差劣的環境（例如夜間）以下使用，探索距離可達250—300公尺。1970年代中期，它獲得了現代化改進，而這改進型獲得了NSP-3A的名稱（俄罗斯国防部火箭炮兵装备总局代號：／）。
 
 ## 設計

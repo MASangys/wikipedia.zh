@@ -1,3 +1,6 @@
+> 本文内容由[GLinux](https://zh.wikipedia.org/wiki/GLinux)转换而来。
+
+
 **gLinux**是基于[测试版Debian的](../Page/Debian.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，在[Google](../Page/Google.md "wikilink")内部被用作[工作站](../Page/工作站.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")\[1\]，替换了基于[Ubuntu](../Page/Ubuntu.md "wikilink")的[Goobuntu](../Page/Goobuntu.md "wikilink")。\[2\]Google gLinux团队用他们修改过的[源代码](../Page/源代码.md "wikilink")构建系统。\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
 
 ## 参考文献

@@ -1,3 +1,6 @@
+> 本文内容由[The ReVe Festival: Day 2](https://zh.wikipedia.org/wiki/The_ReVe_Festival:_Day_2)转换而来。
+
+
 《**The ReVe Festival: Day 2**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的第七張韓語迷你專輯](../Page/Red_Velvet.md "wikilink")，此專輯為「The ReVe Festival」系列的第二張專輯，由[SM Entertainment企劃並於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2019年8月20日發行，主打曲為《Umpah Umpah》\[1\]。
 
 ## 預告

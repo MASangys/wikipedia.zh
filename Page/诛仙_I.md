@@ -1,3 +1,6 @@
+> 本文内容由[诛仙 I](https://zh.wikipedia.org/wiki/诛仙_I)转换而来。
+
+
 《**诛仙 I**》（前稱作《**诛仙**》\[1\]）是一部2019年中国[奇幻](https://zh.wikipedia.org/wiki/奇幻片 "wikilink")[古裝](https://zh.wikipedia.org/wiki/時代劇 "wikilink")[愛情片](https://zh.wikipedia.org/wiki/愛情片 "wikilink")，导演[程小东](https://zh.wikipedia.org/wiki/程小东 "wikilink")，主演[肖战](https://zh.wikipedia.org/wiki/肖战 "wikilink")、[李沁](../Page/李沁.md "wikilink")、[孟美岐](../Page/孟美岐.md "wikilink")、[唐艺昕](../Page/唐艺昕.md "wikilink")。该片改编自[萧鼎](../Page/萧鼎.md "wikilink")的同名小说《[诛仙](../Page/诛仙.md "wikilink")》。该片于2019年9月13日在中国大陆上映。
 
 ## 剧情

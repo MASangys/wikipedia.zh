@@ -1,3 +1,6 @@
+> 本文内容由[T型姿勢](https://zh.wikipedia.org/wiki/T型姿勢)转换而来。
+
+
 **T型姿勢**（T-pose）或稱作**綁定姿勢**（Bind pose）\[1\]，是[電腦動畫中用於綁定](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[三維模型骨骼的預設姿勢](https://zh.wikipedia.org/wiki/三維模型 "wikilink")。
 
 ## 用途

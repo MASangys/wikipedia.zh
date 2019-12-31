@@ -1,3 +1,6 @@
+> 本文内容由[Magisk](https://zh.wikipedia.org/wiki/Magisk)转换而来。
+
+
 **Magisk**是一套[开放源代码](../Page/开放源代码.md "wikilink")的[Android](../Page/Android.md "wikilink")（4.2及以上版本）自定义工具套组，内置了Magisk Manager（图形化管理界面）、[Root](../Page/Root_\(Android\).md "wikilink")、[启动脚本](../Page/Initrd.md "wikilink")、[SElinux补丁和](https://zh.wikipedia.org/wiki/SELinux "wikilink")[启动时认证](../Page/Android软件开发.md "wikilink")/dm-verity/强制加密移除功能。Magisk同时提供了在无需修改系统文件的情况下更改/system或/vendor分区内容的接口，利用与[Xposed类似的模块系统](../Page/Xposed框架.md "wikilink")，开发者可以对系统进行美化（如更改字体）或修改软件功能（如去广告）等。
 
 除此之外，Magisk可以对其他验证系统完整性的应用程序进行隐藏（称为Magisk Hide），使得用户可在获取Root权限的情况下使用如[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")\[1\]、[Fate/Grand Order](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")\[2\]一类的应用程序或开启[支付宝](../Page/支付宝.md "wikilink")、[微信](../Page/微信.md "wikilink")的指纹支付功能\[3\]。

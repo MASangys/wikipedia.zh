@@ -1,3 +1,6 @@
+> 本文内容由[Oh My Girl \(Oh My Girl迷你專輯\)](https://zh.wikipedia.org/wiki/Oh_My_Girl_\(Oh_My_Girl迷你專輯\))转换而来。
+
+
 《**Oh My Girl**》，是韓國女子演唱團體[Oh My Girl的韓語首張同名迷你專輯](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，以〈Cupid〉為主打歌，該專輯也被稱為《Cupid》，是Oh My Girl的出道專輯。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Future与promise](https://zh.wikipedia.org/wiki/Future与promise)转换而来。
+
+
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**future**、**promise**、**delay**和**deferred**是指用于在某些并发编程语言中同步程序执行的构造。由于某些计算（或者网络请求）尚未结束，我们需要一个对象来代理这个未知的结果，于是就有了上述这些构造（future、promise等）。
 
 *promise*一词由丹尼尔·福瑞得曼和David Wise在1976年提出，\[1\] Peter Hibbard称之为*eventual* 。\[2\] 1977年Henry Baker和Carl Hewitt在一篇论文中介绍了一个类似的概念*future*。\[3\]

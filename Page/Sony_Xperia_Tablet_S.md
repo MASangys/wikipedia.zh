@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia Tablet S](https://zh.wikipedia.org/wiki/Sony_Xperia_Tablet_S)转换而来。
+
+
 **Xperia Tablet S**是一款由[日本](../Page/日本.md "wikilink")[索尼](../Page/索尼.md "wikilink")公司旗下[索尼移动通信](../Page/索尼移动通信.md "wikilink")设计的[触摸屏](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[安卓平台](../Page/Android.md "wikilink")[平板电脑](../Page/平板電腦.md "wikilink")。2012年在[IFA上首次发布](../Page/柏林國際廣播展.md "wikilink")，并于同年9月7日在美国最先发售。这款平板电脑的[设计直接继承自](https://zh.wikipedia.org/wiki/设计 "wikilink")[索尼Tablet S平板电脑](../Page/Sony_Tablet_S.md "wikilink")，具有更薄更轻的外观，更快的处理器和更好的[机载相机](https://zh.wikipedia.org/wiki/相机 "wikilink")。 这是索尼推出的第一款[Xperia](../Page/Xperia.md "wikilink")品牌平板电脑。
 
 ## 硬件

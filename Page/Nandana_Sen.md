@@ -1,3 +1,6 @@
+> 本文内容由[Nandana Sen](https://zh.wikipedia.org/wiki/Nandana_Sen)转换而来。
+
+
 **南达娜·森** （ **Nandana Sen）**是印度女演员，编剧，儿童作家和[儿童权利活动家](../Page/兒童人權.md "wikilink")。 她在宝莱坞的第一个电影角色是[Sanjay Leela Bhansali的](../Page/山傑·李拉·班沙里.md "wikilink")《Black》（2005年），由Rani Mukherjee和Amitabh Bachchan主演，在其中扮演Rani的17岁妹妹。
 
 在与包括拉姆·戈帕尔·瓦玛（Ram Gopal Varma）和基坦·梅塔 （ Ketan Mehta）在内的印度导演合作完成一系列项目后，森签署了恐怖主题的美国戏剧*《战争之内》* （2005）的主要角色之一，该片在多伦多国际电影节上首映。 \[1\]并在此过程中，她因為擔綱社会或政治主题中富有挑战性的角色，而開始建立声誉。 \[2\]

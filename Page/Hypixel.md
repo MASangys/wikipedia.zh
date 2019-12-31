@@ -1,3 +1,6 @@
+> 本文内容由[Hypixel](https://zh.wikipedia.org/wiki/Hypixel)转换而来。
+
+
 **Hypixel**是由Simon Collins-Laflamme和Philippe Touchette于2013年4月14日创建的《[我的世界](../Page/我的世界.md "wikilink")》游戏服务器。截至2018年12月，该服务器共有1400万次独立登录次数。
 
 ## 历史

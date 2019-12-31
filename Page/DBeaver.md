@@ -1,3 +1,6 @@
+> 本文内容由[DBeaver](https://zh.wikipedia.org/wiki/DBeaver)转换而来。
+
+
 **DBeaver**是一个SQL客户端和数据库管理工具。对于[关系数据库](../Page/关系数据库.md "wikilink")，它使用[JDBC](../Page/Java数据库连接.md "wikilink") API通过JDBC驱动程序与数据库交互。对于其他数据库（[NoSQL](../Page/NoSQL.md "wikilink")），它使用专有数据库驱动程序。它提供了一个编辑器，支持[代码完成和](../Page/自动完成.md "wikilink")[語法突顯](../Page/語法突顯.md "wikilink")。它提供了一种插件体系结构（基于[Eclipse](../Page/Eclipse.md "wikilink")插件体系结构），允许用户修改应用程序的大部分行为，以提供与数据库无关的针对数据库的功能或特性。这是一个用[Java编写的基于Eclipse平台的桌面应用程序](../Page/Java平臺.md "wikilink")。
 
 DBeaver的社区版是一个[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，在[Apache License下分发](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。DBeaver的闭源企业版是在商业许可下分发的。

@@ -1,3 +1,6 @@
+> 本文内容由[Perfume \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Perfume_\(韓國電視劇\))转换而来。
+
+
 《**Perfume**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[懲毖錄](../Page/懲毖錄_\(電視劇\).md "wikilink")》、《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演與新人作家崔賢玉合作打造。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 香港由[myTV SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。

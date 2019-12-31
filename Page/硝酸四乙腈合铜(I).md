@@ -1,3 +1,6 @@
+> 本文内容由[硝酸四乙腈合铜\(I\)](https://zh.wikipedia.org/wiki/硝酸四乙腈合铜\(I\))转换而来。
+
+
 **硝酸四乙腈合铜(I)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式\[Cu(CH<sub>3</sub>CN)<sub>4</sub>\]NO<sub>3</sub>。
 
 ## 制备及性质

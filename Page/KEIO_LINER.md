@@ -1,3 +1,6 @@
+> 本文内容由[KEIO LINER](https://zh.wikipedia.org/wiki/KEIO_LINER)转换而来。
+
+
 **KEIO LINER**（），是京王电铁于2018年2月22日起开行的指定座席制列车。京王Liner同时也是该列车的列车种别名称。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HalalChain](https://zh.wikipedia.org/wiki/HalalChain)转换而来。
+
+
 **HalalChain（缩写：HLC）**是一条专注服务[穆斯林](../Page/穆斯林.md "wikilink")国家及地区的公有链，应用于[伊斯兰金融产品及服务](https://zh.wikipedia.org/wiki/伊斯兰金融产品 "wikilink")、清真产品溯源、[天课捐赠](https://zh.wikipedia.org/wiki/天课 "wikilink")、产权与遗产登记、文化教育等领域。基于新型分布式账本DAG（[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")）为底层技术，试图在保证安全性和去中心化的前提下实现高频并发交易（未完成）。DAG技术与应用场景相结合，以构建一个跨穆斯林国家的多层支付系统（未完成）\[1\]。
 
 ## 项目背景

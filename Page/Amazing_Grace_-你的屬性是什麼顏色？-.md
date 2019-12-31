@@ -1,3 +1,6 @@
+> 本文内容由[Amazing Grace -你的屬性是什麼顏色？-](https://zh.wikipedia.org/wiki/Amazing_Grace_-你的屬性是什麼顏色？-)转换而来。
+
+
 是Cabbage Soft在2018年11月30日\[1\]發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。2019年9月26日由dramatic create發售[PlayStation 4版本](../Page/PlayStation_4.md "wikilink")\[2\]。
 
 ## 故事簡介

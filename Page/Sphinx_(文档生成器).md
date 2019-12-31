@@ -1,3 +1,6 @@
+> 本文内容由[Sphinx \(文档生成器\)](https://zh.wikipedia.org/wiki/Sphinx_\(文档生成器\))转换而来。
+
+
 **Sphinx**是[Python](../Page/Python.md "wikilink")社区编写和使用的[文档生成器](https://zh.wikipedia.org/wiki/文档生成器 "wikilink")。它是用Python编写的，也可以在其他环境中使用。
 
 ## 目的和功能

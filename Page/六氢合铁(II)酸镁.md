@@ -1,3 +1,6 @@
+> 本文内容由[六氢合铁\(II\)酸镁](https://zh.wikipedia.org/wiki/六氢合铁\(II\)酸镁)转换而来。
+
+
 **六氢合铁(II)酸镁**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为Mg<sub>2</sub>FeH<sub>6</sub>。它是绿色[抗磁性](../Page/抗磁性.md "wikilink")的固体，在干燥空气中稳定。
 
 ## 制备

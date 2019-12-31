@@ -1,3 +1,6 @@
+> 本文内容由[Apple Card](https://zh.wikipedia.org/wiki/Apple_Card)转换而来。
+
+
 **Apple Card**是由美國[蘋果公司與](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[高盛](../Page/高盛.md "wikilink")合作發行的網路銀行[信用卡](../Page/信用卡.md "wikilink")，主要用於[iPhone上的](https://zh.wikipedia.org/wiki/iPhone "wikilink")[Apple Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink") 。該信用卡在2019年8月20日於美國正式啟用。
 
 2019年3月25日Apple在特別活動上發佈了Apple Card，此外，本次特別活動中，Apple聚焦在其提供的服務及串流平台而非發布硬體\[1\]\[2\]，也是Apple罕見在發佈會上全程未提及硬體或裝置的一次\[3\]。

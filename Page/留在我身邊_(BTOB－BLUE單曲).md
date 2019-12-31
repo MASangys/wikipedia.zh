@@ -1,3 +1,6 @@
+> 本文内容由[留在我身邊 \(BTOB－BLUE單曲\)](https://zh.wikipedia.org/wiki/留在我身邊_\(BTOB－BLUE單曲\))转换而来。
+
+
 **留在我身邊**（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")的首張韓文單曲，於2016年9月19日正式發行。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[The Book of Us : Gravity](https://zh.wikipedia.org/wiki/The_Book_of_Us_:_Gravity)转换而来。
+
+
 《**The Book of Us : Gravity**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[DAY6](../Page/DAY6.md "wikilink")所推出的第五張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2019年7月15日發行，由JYP娛樂製作，Dreamus發行。共收錄六首曲目，主打歌為《Time of Our Life(한 페이지가 될 수 있게)》。
 
 ## 背景

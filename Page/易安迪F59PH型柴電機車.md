@@ -1,3 +1,6 @@
+> 本文内容由[易安迪F59PH型柴電機車](https://zh.wikipedia.org/wiki/易安迪F59PH型柴電機車)转换而来。
+
+
 **易安迪F59PH型柴電機車**是由[通用汽車](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[易安迪](../Page/易安迪.md "wikilink")於1988年至2001年生產的旅客用四軸[柴電機車](https://zh.wikipedia.org/wiki/柴油機車#電力傳動 "wikilink")，[UIC車輛軸式為](https://zh.wikipedia.org/wiki/UIC鐵路機車軸式分類 "wikilink")[Bo-Bo](https://zh.wikipedia.org/wiki/Bo-Bo "wikilink")。本型機車在設計時曾於[加拿大](../Page/加拿大.md "wikilink")[多倫多的](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[GO運輸](../Page/GO運輸.md "wikilink")討論並取得成功，成為GO運輸的主力機車。[南加州的](https://zh.wikipedia.org/wiki/南加利福尼亞州 "wikilink")[南加州都會鐵道](https://zh.wikipedia.org/wiki/南加州都會鐵道 "wikilink")（）於1992年引進本型機車，為另一個主要客戶。本型車於1994年停產，共生產73輛。
 
 **易安迪F59PHI型柴電機車**是為城際鐵路運輸設計的，於1994年開始生產，與F59PH最大的不同是流線形外觀的駕駛室。本型機車在1994年至2001年間共生產83輛，大部份用在通勤鐵路上。

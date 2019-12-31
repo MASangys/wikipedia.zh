@@ -1,3 +1,6 @@
+> 本文内容由[CyberAgent](https://zh.wikipedia.org/wiki/CyberAgent)转换而来。
+
+
 **CyberAgent公司**（，）是[日本](../Page/日本.md "wikilink")的一家網路公司，以[Ameba](../Page/Ameba.md "wikilink")相關事業和網路廣告為主要業務內容，總部位於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")。該公司的創業者是，創建於1998年3月。CyberAgent是日本最大的網路廣告代理店\[1\]\[2\]。此外CyberAgent還經營有博客Ameba、網路電視[AbemaTV](../Page/AbemaTV.md "wikilink")等服務。旗下的[Cygames](../Page/Cygames.md "wikilink")、CA Mobile等子公司涉亦足[電子遊戲產業](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。2018年10月17日，CyberAgent創建CAAnimation，決定正式進入動畫製作市場\[3\]\[4\]\[5\]。
 
 ## 參考資料

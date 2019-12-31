@@ -1,3 +1,6 @@
+> 本文内容由[Arptables](https://zh.wikipedia.org/wiki/Arptables)转换而来。
+
+
 **arptables** 是运行在[用户空间的应用软件](https://zh.wikipedia.org/wiki/用户空间 "wikilink")，通过控制[Linux内核](../Page/Linux内核.md "wikilink")[netfilter模块](https://zh.wikipedia.org/wiki/netfilter "wikilink")，来管理[地址解析协议](../Page/地址解析协议.md "wikilink")(arp)数据包的过滤和转发。
 
 arptables基于[iptables开发](https://zh.wikipedia.org/wiki/iptables "wikilink")，使用时也与iptables有些类似，都有“表（tables）”、“链（chain）”和“规则（rules）”三个层面。

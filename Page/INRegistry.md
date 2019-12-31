@@ -1,3 +1,6 @@
+> 本文内容由[INRegistry](https://zh.wikipedia.org/wiki/INRegistry)转换而来。
+
+
 **INRegistry**是负责管理[印度](../Page/印度.md "wikilink")的[国家和地区顶级域](https://zh.wikipedia.org/wiki/国家和地区顶级域 "wikilink")[.in](../Page/.in.md "wikilink")和印度的IDN域名的组织。它由印度政府任命，并由创建及运营。\[1\]\[2\]
 
 ## 历史

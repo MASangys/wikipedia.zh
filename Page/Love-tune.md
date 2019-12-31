@@ -1,3 +1,6 @@
+> 本文内容由[Love-tune](https://zh.wikipedia.org/wiki/Love-tune)转换而来。
+
+
 **Love-tune**是[日本](../Page/日本.md "wikilink")[杰尼斯事务所所属沒有正式出道的](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[偶像](../Page/偶像_\(日本\).md "wikilink")[男子音乐组合](../Page/男子音乐组合.md "wikilink")，该组合由七名前[小杰尼斯组成](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")。\[1\]
 
 ## 组合概况

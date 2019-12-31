@@ -1,3 +1,6 @@
+> 本文内容由[硝酸六\(二甲基亚砜\)合钴\(II\)](https://zh.wikipedia.org/wiki/硝酸六\(二甲基亚砜\)合钴\(II\))转换而来。
+
+
 **硝酸六(二甲基亚砜)合钴(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为\[Co(C<sub>2</sub>H<sub>6</sub>SO)<sub>6</sub>)(NO<sub>3</sub>\]<sub>2</sub>，由六(二甲基亚砜)合钴配阳离子和硝酸根离子构成。它是可溶的红色针状晶体。\[1\]它可由[硝酸镍](../Page/硝酸镍.md "wikilink")和[二甲基亚砜反应得到](https://zh.wikipedia.org/wiki/二甲基亚砜 "wikilink")。\[2\]
 
   -

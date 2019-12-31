@@ -1,3 +1,6 @@
+> 本文内容由[Unicode一覽表 19000-19FFF](https://zh.wikipedia.org/wiki/Unicode一覽表_19000-19FFF)转换而来。
+
+
 |                  |
 | ---------------- |
 | *未分配／Unassigned* |

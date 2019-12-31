@@ -1,3 +1,6 @@
+> 本文内容由[WebDAV软件比较](https://zh.wikipedia.org/wiki/WebDAV软件比较)转换而来。
+
+
 下表列出并比较了一些WebDAV客户端和开发库的基本信息。 欲了解详细信息，请访问产品的详情页面。
 
 ## WebDAV客户端(过时)

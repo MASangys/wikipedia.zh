@@ -1,3 +1,6 @@
+> 本文内容由[Go Ahead Leon Live 99](https://zh.wikipedia.org/wiki/Go_Ahead_Leon_Live_99)转换而来。
+
+
 *' Go Ahead Leon Live 99*'是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行的個人演唱會，於1999年11月20日至1999年12月12日期間舉行，合共演出二十三場\[1\]。
 
 ## 演唱會簡介

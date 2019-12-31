@@ -1,3 +1,6 @@
+> 本文内容由[南迪城文 \(Unicode区段\)](https://zh.wikipedia.org/wiki/南迪城文_\(Unicode区段\))转换而来。
+
+
 **南迪城文**（Nandinagari）是一個[Unicode區段](../Page/Unicode區段.md "wikilink")，收錄了字母。這種字母曾經在南印度使用以書寫[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")。
 
 ## 歷史

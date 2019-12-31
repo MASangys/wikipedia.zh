@@ -1,3 +1,6 @@
+> 本文内容由[Draft:吉林大学应用技术学院/temp](https://zh.wikipedia.org/wiki/Draft:吉林大学应用技术学院/temp)转换而来。
+
+
 -----
 
 吉林大学应用技术学院是新[吉林大学](../Page/吉林大学.md "wikilink")2000年6月12日成立后建立的一所学院。位于[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[吉林省](../Page/吉林省.md "wikilink")[长春市](../Page/长春市.md "wikilink")[吉林大学](../Page/吉林大学.md "wikilink")南湖校区，原长春邮电学院。 \[1\]

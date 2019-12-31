@@ -1,3 +1,6 @@
+> 本文内容由[南無阿彌陀佛!-蓮台 UTENA-](https://zh.wikipedia.org/wiki/南無阿彌陀佛!-蓮台_UTENA-)转换而来。
+
+
 《**南無阿彌陀佛\!-蓮台 UTENA-**》（）是由[DMM GAMES開發的](../Page/DMM.com.md "wikilink")[网页游戏](../Page/网页游戏.md "wikilink")、[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[1\]，前身是2016年3月15日開始在Ameba、mixi、GREE運營的社交卡牌類游戲**《南無阿彌陀佛！ 》**（），已於2018年7月31日停止營運。
 
 2018年8月8日在埼玉大宮山東光寺發表了本作的製作成果會，同時宣布改編電視動畫的消息。

@@ -1,3 +1,6 @@
+> 本文内容由[匹配Z变换方法](https://zh.wikipedia.org/wiki/匹配Z变换方法)转换而来。
+
+
 [Chebyshev_s_plane.svg](https://zh.wikipedia.org/wiki/File:Chebyshev_s_plane.svg "fig:Chebyshev_s_plane.svg")在*s*平面下的極點和零點，後續要用離離散濾波器來近似\]\]
 
 [Chebyshev_mapped_z_plane.svg](https://zh.wikipedia.org/wiki/File:Chebyshev_mapped_z_plane.svg "fig:Chebyshev_mapped_z_plane.svg")

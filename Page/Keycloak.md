@@ -1,3 +1,6 @@
+> 本文内容由[Keycloak](https://zh.wikipedia.org/wiki/Keycloak)转换而来。
+
+
 **Keycloak**是一个开源软件产品，旨在为现代的应用程序和服务，提供包含和功能的[单点登录工具](https://zh.wikipedia.org/wiki/单点登录 "wikilink")。，[红帽公司负责管理这一JBoss社区项目](https://zh.wikipedia.org/wiki/红帽公司 "wikilink")，并将其作为他们RH-SSO产品的[上游项目](https://zh.wikipedia.org/wiki/上游_\(软件开发\) "wikilink")。\[1\]从概念的角度上来说，该工具的目的是，只用少量编码甚至不用编码，就能很容易地使应用程序和服务更安全。
 
 ## 历史

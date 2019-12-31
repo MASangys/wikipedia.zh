@@ -1,3 +1,6 @@
+> 本文内容由[Double Trouble \(張學友歌曲\)](https://zh.wikipedia.org/wiki/Double_Trouble_\(張學友歌曲\))转换而来。
+
+
 "**Double Trouble**\[1\]是一首由[張學友演唱的歌曲](https://zh.wikipedia.org/wiki/張學友 "wikilink")\[2\]\[3\]\[4\]\[5\]，收錄於張學友2010年發行的粵語大碟[Private Corner](../Page/Private_Corner.md "wikilink")\[6\]。這首歌是由[喬星](../Page/喬星.md "wikilink")作詞（粵語版本歌詞），由[Roxanne Seeman](https://zh.wikipedia.org/wiki/Roxanne_Seeman "wikilink")、Kine Ludvigsen與Olav Fossheim作曲，由[杜自持](../Page/杜自持.md "wikilink")編曲，由張學友本人與杜自持製作。
 
 ## 香港音乐榜

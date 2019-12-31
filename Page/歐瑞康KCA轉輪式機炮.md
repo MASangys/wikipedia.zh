@@ -1,3 +1,6 @@
+> 本文内容由[歐瑞康KCA轉輪式機炮](https://zh.wikipedia.org/wiki/歐瑞康KCA轉輪式機炮)转换而来。
+
+
 **歐瑞康KCA轉輪式機炮**（；K意為***K**annon*（[炮](../Page/大砲.md "wikilink")）、C則是30毫米，最後A即是第一型號）是一款由[瑞士軍備製造商](https://zh.wikipedia.org/wiki/瑞士 "wikilink")（，在2009年與[莱茵金属](../Page/莱茵金属.md "wikilink")公司合併後更名為萊茵金屬防空公司）所研製及生產的單管[氣動及](../Page/氣動式_\(槍械\).md "wikilink")[航空](https://zh.wikipedia.org/wiki/航空机关炮 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，即是專為裝在[战斗機以上使用而研發](https://zh.wikipedia.org/wiki/战斗機 "wikilink")，發射（1.181×6.811英寸）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑機炮](https://zh.wikipedia.org/wiki/口徑 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 ## 歷史

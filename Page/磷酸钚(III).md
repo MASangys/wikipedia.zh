@@ -1,3 +1,6 @@
+> 本文内容由[磷酸钚\(III\)](https://zh.wikipedia.org/wiki/磷酸钚\(III\))转换而来。
+
+
 **磷酸钚(III)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，为[钚](../Page/钚.md "wikilink")的[磷酸盐之一](https://zh.wikipedia.org/wiki/磷酸盐 "wikilink")，化学式PuPO<sub>4</sub>。
 
 ## 制备

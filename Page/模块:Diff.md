@@ -1,3 +1,6 @@
+> 本文内容由[模块:Diff](https://zh.wikipedia.org/wiki/模块:Diff)转换而来。
+
+
 -----
 
 \-- Provides functions for diffing text. -- -- (c) 2007, 2008 Yuri Takhteyev (yuri@freewisdom.org) -- (c) 2007 Hisham Muhammad -- Adapted to MediaWiki LUA: [User:Ebraminio](https://zh.wikipedia.org/wiki/User:Ebraminio "wikilink") \<ebrahim -at- gnu.org\> -- -- License: MIT/X, see <http://sputnik.freewisdom.org/en/License>

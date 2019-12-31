@@ -1,3 +1,6 @@
+> 本文内容由[模块:Draft:Wikibase](https://zh.wikipedia.org/wiki/模块:Draft:Wikibase)转换而来。
+
+
 \---------- Module:Wikibase ---------------- local p = {}
 
 \-- Return the item ID of the item linked to the current page. function p.id(frame)

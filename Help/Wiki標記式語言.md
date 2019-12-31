@@ -1,3 +1,6 @@
+> 本文内容由[Help:Wiki標記式語言](https://zh.wikipedia.org/wiki/Help:Wiki標記式語言)转换而来。
+
+
 **Wiki標記式語言**，又稱**Wiki語法**，包含了許多參數與關鍵字，可將[MediaWiki](../Page/MediaWiki.md "wikilink")軟體內的頁面進行格式的編排。關於如何閱讀這種標記式語言，以及如何儲存編輯，請參考[Help:編輯](https://zh.wikipedia.org/wiki/Help:編輯 "wikilink")。一般而言，這些語法可以不用重新撰寫而能夠複製與貼上。[Wikipedia:備忘單列出了關於本語法的相關提示](https://zh.wikipedia.org/wiki/Wikipedia:備忘單 "wikilink")。
 
 除了Wiki標記式語言外，部分[HTML元素](../Page/HTML元素.md "wikilink")也能夠進行格式編排。相關資訊請參考[Help:HTML](https://zh.wikipedia.org/wiki/Help:HTML "wikilink")。

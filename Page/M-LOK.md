@@ -1,3 +1,6 @@
+> 本文内容由[M-LOK](https://zh.wikipedia.org/wiki/M-LOK)转换而来。
+
+
 [Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg](https://zh.wikipedia.org/wiki/File:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg "fig:Magpul_MOE_M-LOK_handguard_on_a_privatly_assembled_AR-15.jpg")上的马格普MOE（M-LOK前身）[护木](https://zh.wikipedia.org/wiki/护木 "wikilink")\]\]
 
 **M-LOK**（“模块化锁定”**M**odular **Lo**c**k**的简写）是美国[马格普工业公司研发并注册专利的一款免费许可](../Page/馬格普工業公司.md "wikilink")\[1\]的“负空间”（凹洞式）枪械导轨界面系统，用来部分取代现今被广泛使用的[皮卡汀尼导轨](../Page/皮卡汀尼導軌.md "wikilink")，是马格普推出用来与复仇者武器公司（VLTOR Weapon Systems）研发的[KeyMod系统进行市场竞争的产品](https://zh.wikipedia.org/wiki/KeyMod "wikilink")。与皮卡汀尼导轨相比，配有M-LOK和KeyMod的[护木和](https://zh.wikipedia.org/wiki/護木 "wikilink")[前托都更轻](https://zh.wikipedia.org/wiki/枪托 "wikilink")、更紧凑，枪管通风性也更好，而且不像皮卡汀尼导轨那样有凸出的尖锐棱角\[2\]。

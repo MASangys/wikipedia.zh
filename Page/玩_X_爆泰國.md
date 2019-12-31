@@ -1,3 +1,6 @@
+> 本文内容由[玩 X 爆泰國](https://zh.wikipedia.org/wiki/玩_X_爆泰國)转换而来。
+
+
 《**玩 X 爆泰國**》（**X-Sighting Thailand**），是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的旅遊節目，於2018年7月14日開始逢星期六22:30-23:00在[ViuTV](../Page/ViuTV.md "wikilink")播出，由[李健宏](../Page/李健宏.md "wikilink")及[吳嘉熙](../Page/吳嘉熙.md "wikilink")主持，並由[情義兩難全之玩爆你個腎](../Page/情義兩難全之玩爆你個腎.md "wikilink")幕後班底製作。節目會前往[泰國介紹當地各種另類文化](https://zh.wikipedia.org/wiki/泰國 "wikilink")，由[小張作為這次旅程的導遊](https://zh.wikipedia.org/wiki/小張 "wikilink")。\[1\]\[2\]\[3\]\[4\]
 
 ## 每集一覽

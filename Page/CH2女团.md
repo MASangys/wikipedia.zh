@@ -1,3 +1,6 @@
+> 本文内容由[CH2女团](https://zh.wikipedia.org/wiki/CH2女团)转换而来。
+
+
 |cat=no}} [杨美玲](https://zh.wikipedia.org/wiki/杨美玲 "wikilink"){{·}}[杨美琪](https://zh.wikipedia.org/wiki/杨美琪 "wikilink"){{·}}[刘雪丽](https://zh.wikipedia.org/wiki/刘雪丽 "wikilink"){{·}}[范悦](https://zh.wikipedia.org/wiki/范悦 "wikilink"){{·}}[胡婉莹](https://zh.wikipedia.org/wiki/胡婉莹 "wikilink"){{·}}[关丹](../Page/关丹.md "wikilink"){{·}}赵羚}}
 
 **CH2**女团，旧称**CH2高校偶像女团**，是一个中国大陆的[女子偶像组合](https://zh.wikipedia.org/wiki/女子偶像组合 "wikilink")，由闻澜（上海）文化传媒旗打造，团名取自英文单词Chance（机遇）和Change（改变）的前两个字母。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[AG超玩会](https://zh.wikipedia.org/wiki/AG超玩会)转换而来。
+
+
 **AG超玩会**（），是[AG电子竞技俱乐部旗下的](https://zh.wikipedia.org/wiki/AG电子竞技俱乐部 "wikilink")[王者荣耀](../Page/王者荣耀.md "wikilink")分部，目前参加[王者荣耀职业联赛](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")。AG超玩会前身为，由[王者荣耀](../Page/王者荣耀.md "wikilink")知名主播“零度”所创办的超玩会、龙珠和[AG电子竞技俱乐部合并而组建的](https://zh.wikipedia.org/wiki/AG电子竞技俱乐部 "wikilink")[王者荣耀](../Page/王者荣耀.md "wikilink")职业战队。AG超玩会虽然于2018年春季赛降级，但在2019年8月12日官方公布AG超玩会成功收购[KPL职业联赛现役战队BA黑凤梨](https://zh.wikipedia.org/wiki/王者荣耀职业联赛 "wikilink")，并成功通过审核以AG超玩会名义参加2019KPL秋季赛。
 
 ## 成立

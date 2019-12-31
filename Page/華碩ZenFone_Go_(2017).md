@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone Go \(2017\)](https://zh.wikipedia.org/wiki/華碩ZenFone_Go_\(2017\))转换而来。
+
+
 **ASUS ZenFone Go ZB552KL**是由華碩设计、开发和销售的Android智能手机，是一款入門手机。\[1\]
 
 ## 規格

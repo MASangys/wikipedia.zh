@@ -1,3 +1,6 @@
+> 本文内容由[Contiki 國際青年英語半自助旅行](https://zh.wikipedia.org/wiki/Contiki_國際青年英語半自助旅行)转换而来。
+
+
 **Contiki國際青年英語半自助旅行** 是一個 Travel Corporation集團的團體旅行品牌，在[歐洲](../Page/欧洲.md "wikilink")、 [俄羅斯](../Page/俄罗斯.md "wikilink")、 [埃及](../Page/埃及.md "wikilink")、 [澳洲](../Page/澳大利亚.md "wikilink")、[紐西蘭](../Page/新西兰.md "wikilink")、[北美洲](../Page/北美洲.md "wikilink")、[南美洲](../Page/南美洲.md "wikilink")及 [亞洲](../Page/亚洲.md "wikilink") 都有營運據點。 這間旅游公司成立於西元1962年，專門替18到35歲的年輕人\[1\] 設計團體旅行，行程內容通常會包括景點觀光、自由時間、文化交流、社交互動、及探險活動。\[2\]
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Category see also](https://zh.wikipedia.org/wiki/模块:Category_see_also)转换而来。
+
+
 \-- This module implements
 
 local mHatnote = require('Module:Hatnote')

@@ -1,3 +1,6 @@
+> 本文内容由[台南Josh](https://zh.wikipedia.org/wiki/台南Josh)转换而来。
+
+
 **台南Josh**（），本名**鄭毓倫**，是一位以介紹[MLB棒球數據而知名的](https://zh.wikipedia.org/wiki/MLB "wikilink")[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")。由於球員被介紹後，大多會出現表現下滑或受傷的情況，而被台灣球迷廣泛討論注意，甚至調侃這是東方神秘力量\[1\]。影片開場白是「嗨嗨，我是Josh」，因此出現某某球員「被嗨了」的台灣棒球界流行用語，意指被Josh看好、稱讚過的球員或球隊隨後都會表現不佳、受傷或者輸球。其本人為美國職棒[波士頓紅襪](../Page/波士頓紅襪.md "wikilink")隊球迷，[中華職棒則支持](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[統一獅](../Page/統一獅.md "wikilink")隊，最喜歡的中華職棒球員為[潘威倫](../Page/潘威倫.md "wikilink")。
 
 ## 經歷

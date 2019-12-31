@@ -1,3 +1,6 @@
+> 本文内容由[嵌入式C语言](https://zh.wikipedia.org/wiki/嵌入式C语言)转换而来。
+
+
 **嵌入式C语言**是由为解决C语言与不同[嵌入式应用之间存在的共同问题而提出的一种](../Page/嵌入式系统.md "wikilink")[C语言标准化扩展](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
 ## 发展历史

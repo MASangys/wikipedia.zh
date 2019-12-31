@@ -1,3 +1,6 @@
+> 本文内容由[坐A列車去吧](https://zh.wikipedia.org/wiki/坐A列車去吧)转换而来。
+
+
 **坐A列車去吧**（）是[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")（JR九州）主要運行在[熊本站](../Page/熊本站.md "wikilink") - [三角站之间](https://zh.wikipedia.org/wiki/三角站 "wikilink")，途經[鹿兒島本線](../Page/鹿兒島本線.md "wikilink")和[三角線的](../Page/三角線_\(九州旅客鐵道\).md "wikilink")[特急列車](../Page/特別急行列車.md "wikilink") 。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Fakelink](https://zh.wikipedia.org/wiki/模块:Fakelink)转换而来。
+
+
 local func = {}
 
 local function rfind(s, pattern, init)

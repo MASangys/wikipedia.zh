@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士海盜GUNDAM DUST](https://zh.wikipedia.org/wiki/機動戰士海盜GUNDAM_DUST)转换而来。
+
+
 《**機動戰士海盜鋼彈 DUST**》（、），是[長谷川裕一](../Page/長谷川裕一.md "wikilink")的[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，在月刊少年ACE上由2016年9月號連載中，53話，單行本8冊。本作是《[機動戰士海盜GUNDAM GHOST](../Page/機動戰士海盜GUNDAM_GHOST.md "wikilink")》的後續。
 
 ## 故事介紹

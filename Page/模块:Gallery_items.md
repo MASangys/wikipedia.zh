@@ -1,3 +1,6 @@
+> 本文内容由[模块:Gallery items](https://zh.wikipedia.org/wiki/模块:Gallery_items)转换而来。
+
+
 \-- this module implements [template:gallery items](https://zh.wikipedia.org/wiki/template:gallery_items "wikilink") local p = {}
 
 function p.main(frame)

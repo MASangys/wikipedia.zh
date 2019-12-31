@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Alexandru Badea](https://zh.wikipedia.org/wiki/Draft:Alexandru_Badea)转换而来。
+
+
 -----
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Alexandru_Badea.jpg "fig:缩略图")

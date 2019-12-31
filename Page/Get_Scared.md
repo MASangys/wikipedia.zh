@@ -1,3 +1,6 @@
+> 本文内容由[Get Scared](https://zh.wikipedia.org/wiki/Get_Scared)转换而来。
+
+
 **Get Scared**，是一個來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")[雷頓的](https://zh.wikipedia.org/wiki/雷頓_\(猶他州\) "wikilink")[後硬核](../Page/後硬核.md "wikilink")樂團，成立於2008年。活躍於2008年到2019年。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[AppWorks](https://zh.wikipedia.org/wiki/AppWorks)转换而来。
+
+
 **之初創業投資管理顧問股份有限公司**（，[縮寫](../Page/縮寫.md "wikilink")：，簡稱**之初創投**），AppWorks是一家位於臺灣台北市，以經營[創業加速器為主](../Page/種子加速器.md "wikilink")，[早期階段](https://zh.wikipedia.org/wiki/初創企業 "wikilink")（種子輪、A 輪、B 輪）創業投資為輔的公司，針對創業者與新創團隊，提供[加速器](../Page/種子加速器.md "wikilink")、投資與 AppWorks School\[1\]三項主要服務。
 
 AppWorks由[林之晨](../Page/林之晨.md "wikilink")（Jamie Lin）創辦，並在2010年啟動[創業加速器](../Page/種子加速器.md "wikilink") AppWorks Accelerator，每半年一屆，招募 30 至 40 支新創團隊進駐\[2\]。2018年下半年開始，限定招募[人工智慧](https://zh.wikipedia.org/wiki/人工智慧 "wikilink")／[物聯網](../Page/物联网.md "wikilink") 與[區塊鏈](../Page/区块链.md "wikilink")／[加密貨幣這兩個領域的團隊](https://zh.wikipedia.org/wiki/加密貨幣 "wikilink")\[3\]。AppWorks 發展至今，已是大東南亞（東協 + 台灣）校友規模最大的創業加速器，也是本區域內指標性的早期創投之一。\[4\]截至 2019 年 11 月，由 AppWorks Accelerator 畢業校友所建立的生態系，共有 376 家活躍新創、1,113 位創業者、全體總估值 47.2 億美元、全體總募資 11.1 億美元、全體年營業額 49.7 億美元、總共提供 11,162 份職務。\[5\]

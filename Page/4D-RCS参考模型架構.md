@@ -1,3 +1,6 @@
+> 本文内容由[4D-RCS参考模型架構](https://zh.wikipedia.org/wiki/4D-RCS参考模型架構)转换而来。
+
+
 [4D-RCS_reference_model_architecture_for_an_individual_vehicle.jpg](https://zh.wikipedia.org/wiki/File:4D-RCS_reference_model_architecture_for_an_individual_vehicle.jpg "fig:4D-RCS_reference_model_architecture_for_an_individual_vehicle.jpg") **4D-RCS参考模型架構**（4D/RCS Reference Model Architecture）是有關[無人機](../Page/無人機.md "wikilink")的，有關其軟體如何識別及組織的模型。
 
 4D/RCS是由[國家標準技術研究所](../Page/國家標準技術研究所.md "wikilink")（NIST）的智能系統部（ISD）自1980年代開始發展\[1\]。

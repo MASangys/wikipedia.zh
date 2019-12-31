@@ -1,3 +1,6 @@
+> 本文内容由[NO WAY MAN](https://zh.wikipedia.org/wiki/NO_WAY_MAN)转换而来。
+
+
 《**NO WAY MAN**》\[1\]為日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第54張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2018年11月28日由[國王唱片](../Page/國王唱片.md "wikilink")發行，由[HKT48](../Page/HKT48.md "wikilink")的[宮脇咲良](../Page/宮脇咲良.md "wikilink")擔任Center（中心成員）\[2\]。
 
 ## 簡介

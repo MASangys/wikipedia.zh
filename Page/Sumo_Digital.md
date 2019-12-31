@@ -1,3 +1,6 @@
+> 本文内容由[Sumo Digital](https://zh.wikipedia.org/wiki/Sumo_Digital)转换而来。
+
+
 **Sumo Digital**（直译作“相扑数字”）是一家位于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[谢菲尔德](../Page/谢菲尔德.md "wikilink")的[电子游戏](../Page/电子游戏.md "wikilink")开发工作室，成立于2003年。公司最初由4位来自的管理层创立，在2018年时，公司已经有500多名雇员。\[1\]工作室比较知名的作品是为[世嘉](../Page/世嘉.md "wikilink")制作的《》系列和《索尼克全明星赛车》系列；此外工作室也为《[极限竞速 地平线](https://zh.wikipedia.org/wiki/极限竞速系列 "wikilink")》系列进行移植等支持，以及其他游戏的移植工作等。
 
 ## 公司历史

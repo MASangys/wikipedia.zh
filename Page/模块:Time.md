@@ -1,3 +1,6 @@
+> 本文内容由[模块:Time](https://zh.wikipedia.org/wiki/模块:Time)转换而来。
+
+
 require ('Module:No globals') local getArgs = require ('Module:Arguments').getArgs
 
 local tz = {}; -- holds local copy of the specified timezone table from tz_data{} local cfg = {}; -- for internationalization

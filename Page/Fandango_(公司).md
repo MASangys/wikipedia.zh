@@ -1,3 +1,6 @@
+> 本文内容由[Fandango \(公司\)](https://zh.wikipedia.org/wiki/Fandango_\(公司\))转换而来。
+
+
 **Fandango**是一間美國[票務公司](https://zh.wikipedia.org/wiki/票房 "wikilink")，主要透過他們的網站及[流動應用程式](../Page/流動應用程式.md "wikilink")來銷售[電影票](https://zh.wikipedia.org/wiki/門票 "wikilink")。
 
 ## FandangoNow

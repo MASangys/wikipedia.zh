@@ -1,3 +1,6 @@
+> 本文内容由[夏爾·戴高樂-星形站 \(RER\)](https://zh.wikipedia.org/wiki/夏爾·戴高樂-星形站_\(RER\))转换而来。
+
+
 [Salle_des_échanges_Charles_de_Gaulle-Étoile_RER.jpg](https://zh.wikipedia.org/wiki/File:Salle_des_échanges_Charles_de_Gaulle-Étoile_RER.jpg "fig:Salle_des_échanges_Charles_de_Gaulle-Étoile_RER.jpg") **夏爾·戴高樂-星形站**（）是法國[RER A線的](https://zh.wikipedia.org/wiki/法蘭西島大區快鐵A線 "wikilink")[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[巴黎第八區](https://zh.wikipedia.org/wiki/巴黎第八區 "wikilink")、[巴黎十六區和](https://zh.wikipedia.org/wiki/巴黎十六區 "wikilink")[巴黎十七區的邊界上](https://zh.wikipedia.org/wiki/巴黎十七區 "wikilink")。
 
 自從1970年起委托[巴黎大眾運輸公司](../Page/巴黎大眾運輸公司.md "wikilink")（RATP）營運。

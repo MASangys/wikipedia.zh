@@ -1,3 +1,6 @@
+> 本文内容由[比利時甲組聯賽B](https://zh.wikipedia.org/wiki/比利時甲組聯賽B)转换而来。
+
+
 **比利時甲組聯賽B**（**Belgian First Division B**）是[比利時足球中第二級別聯賽](https://zh.wikipedia.org/wiki/比利時 "wikilink")，僅次於[比利時甲組聯賽A](../Page/比利時甲組聯賽A.md "wikilink")。由[比利時足球協會於](https://zh.wikipedia.org/wiki/比利時足球協會 "wikilink")2016創立，取代[比利時足球乙級聯賽](https://zh.wikipedia.org/wiki/比利時足球乙級聯賽 "wikilink")。
 
 ## 歷史

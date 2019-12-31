@@ -1,3 +1,6 @@
+> 本文内容由[天空之城復出演唱會 Live全紀錄](https://zh.wikipedia.org/wiki/天空之城復出演唱會_Live全紀錄)转换而来。
+
+
 《**天空之城復出演唱會 Live全紀錄**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第四張現場專輯，是收錄他們於2003年8月16日、10月25日分別在臺北及新加坡舉行的兩場「天空之城復出演唱會」，2004年3月30日正式發行。
 
 ## 曲目

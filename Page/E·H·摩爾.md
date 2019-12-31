@@ -1,3 +1,6 @@
+> 本文内容由[E·H·摩爾](https://zh.wikipedia.org/wiki/E·H·摩爾)转换而来。
+
+
 **埃利亞基姆·黑斯廷斯·摩爾**（，；）是美國[數學家](https://zh.wikipedia.org/wiki/數學家 "wikilink")。
 
 ## 外部連結

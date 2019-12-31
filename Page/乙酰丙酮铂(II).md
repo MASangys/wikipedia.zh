@@ -1,3 +1,6 @@
+> 本文内容由[乙酰丙酮铂\(II\)](https://zh.wikipedia.org/wiki/乙酰丙酮铂\(II\))转换而来。
+
+
 **乙酰丙酮铂(II)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，化学式为Pt(O<sub>2</sub>C<sub>5</sub>H<sub>7</sub>)<sub>2</sub>。
 
 ## 制备

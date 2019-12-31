@@ -1,3 +1,6 @@
+> 本文内容由[JR淡路站](https://zh.wikipedia.org/wiki/JR淡路站)转换而来。
+
+
 **JR淡路站** （）位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[東淀川区菅原](https://zh.wikipedia.org/wiki/東淀川区 "wikilink")，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[大阪東線](../Page/大阪東線.md "wikilink")的[鐵路站](https://zh.wikipedia.org/wiki/鐵路站 "wikilink")，[車站編號](../Page/車站編號.md "wikilink")是JR-F04\[1\]。此站是东淀川区首个JR车站。
 
 ## 历史

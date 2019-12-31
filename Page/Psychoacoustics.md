@@ -1,3 +1,6 @@
+> 本文内容由[Psychoacoustics](https://zh.wikipedia.org/wiki/Psychoacoustics)转换而来。
+
+
 《**Psychoacoustics**》是[香港](../Page/香港.md "wikilink")女歌手[關淑怡](../Page/關淑怡.md "wikilink")第12張粵語專輯，亦是睽違10年的全新粵語大碟，於2019年8月9日正式發行.
 
 這是 Shirley 第二張全翻唱大碟, 她揀選自己歷年來10首舊作, 重新編曲及全新演繹。\[1\]

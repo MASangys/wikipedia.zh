@@ -1,3 +1,6 @@
+> 本文内容由[Capan-2](https://zh.wikipedia.org/wiki/Capan-2)转换而来。
+
+
 **Capan-2**是具有中等轉移[活性的](../Page/活性度.md "wikilink")[人類](../Page/人類.md "wikilink")[胰腺癌](../Page/胰腺癌.md "wikilink")，最初是分離自一名56歲多次接受切除手術的[白人](../Page/白人.md "wikilink")[男性](../Page/男性.md "wikilink")腺癌[患者](https://zh.wikipedia.org/wiki/患者 "wikilink")\[1\]\[2\]。
 
 ## 特徵

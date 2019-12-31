@@ -1,3 +1,6 @@
+> 本文内容由[CONCEPTION 產子救世錄](https://zh.wikipedia.org/wiki/CONCEPTION_產子救世錄)转换而来。
+
+
 《**CONCEPTION 產子救世錄**》是由Spike Chunsoft開發的PSP平台角色扮演遊戲，於2012年4月26日發售。PS4平台的移植版《CONCEPTION PLUS產子救世錄》於2019年1月31日發售\[1\]。2018年5月4日宣布動畫化及同年10月開始播放。\[2\]
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Draft:銀牙傳說WEED](https://zh.wikipedia.org/wiki/Draft:銀牙傳說WEED)转换而来。
+
+
 "**銀牙傳説WEED**"(ぎんがでんせつウィード)，是日本知名 [漫畫](https://zh.wikipedia.org/wiki/漫画 "wikilink") 家[高橋義廣於](https://zh.wikipedia.org/wiki/高橋義廣 "wikilink")1999年開始在[日本文藝社的](https://zh.wikipedia.org/wiki/日本文藝社 "wikilink")[週刊漫畫ゴラク連載的作品](https://zh.wikipedia.org/wiki/週刊漫畫ゴラク "wikilink")，至2009年 7月完載,共出版60冊。2005年改編成 [電視動畫](../Page/動畫劇集.md "wikilink").。續作為**[銀牙傳説WEED-ORION](https://zh.wikipedia.org/wiki/銀牙傳説WEED-ORION "wikilink")**。
 
 ## 內容簡介

@@ -1,3 +1,6 @@
+> 本文内容由[White Blue](https://zh.wikipedia.org/wiki/White_Blue)转换而来。
+
+
 《**White Blue**》是LiLiM DARKNESS在2019年6月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，BLUE系列的第9部作品。\[2\]
 
 ## 故事

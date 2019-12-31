@@ -1,3 +1,6 @@
+> 本文内容由[波士顿轻轨绿线D支线](https://zh.wikipedia.org/wiki/波士顿轻轨绿线D支线)转换而来。
+
+
 波士顿轻轨**D支线**也被称作**高地支线**或者**河滨支线**，横跨美国[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[布鲁克莱恩](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")，终点站分别在[波士顿](../Page/波士顿.md "wikilink")市与[牛顿市](../Page/牛顿_\(马萨诸塞州\).md "wikilink")。[波士顿轻轨绿线](../Page/波士顿轻轨绿线.md "wikilink")一共有4条支线，其中D支线在肯莫尔站与[B](../Page/波士顿轻轨绿线B支线.md "wikilink")、[C支线分开往](../Page/波士顿轻轨绿线C支线.md "wikilink")[芬威行驶](https://zh.wikipedia.org/wiki/芬威站 "wikilink")，其在波士顿市区段与B、C及[E支线共用](../Page/波士顿轻轨绿线E支线.md "wikilink")和博伊尔斯顿街地铁隧道，其中特里蒙特街地铁隧道是美国第一条地铁隧道。D支线在城郊区域使用其专用轨道，回收利用了已废弃的波士顿及奥尔巴尼铁路公司高地支线轨道。该专用道仅为双轨，无快车道，但利用[交通立體化](../Page/交通立體化.md "wikilink")与普通道路和高速公路分开。车站内一般设有人行道，可以直接跨过轨道。
 
 ，D支线市区方向终点站为[政府中心站](../Page/政府中心站_\(波士顿地铁\).md "wikilink")，沿线很多车站可以换乘B、C、E支线前往不同目的地。市郊方向终点站为[河滨站](https://zh.wikipedia.org/wiki/河滨站 "wikilink")。

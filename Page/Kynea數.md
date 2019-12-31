@@ -1,3 +1,6 @@
+> 本文内容由[Kynea數](https://zh.wikipedia.org/wiki/Kynea數)转换而来。
+
+
 **Kynea數**（）是以下形式的整數：
 
 \[4^n + 2^{n + 1} - 1\].

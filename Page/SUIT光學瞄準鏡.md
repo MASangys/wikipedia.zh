@@ -1,3 +1,6 @@
+> 本文内容由[SUIT光學瞄準鏡](https://zh.wikipedia.org/wiki/SUIT光學瞄準鏡)转换而来。
+
+
 [L2A2_SUIT_SIGHT.png](https://zh.wikipedia.org/wiki/File:L2A2_SUIT_SIGHT.png "fig:L2A2_SUIT_SIGHT.png") **SUIT**（，意為：由Trilux生產的[步兵](../Page/步兵.md "wikilink")[瞄準裝置](../Page/瞄准镜.md "wikilink")）是一款4倍的[放大倍率的快拆式](https://zh.wikipedia.org/wiki/望远镜放大倍数 "wikilink")（英文：Quick-detachable）瞄準鏡，在[黃昏和](https://zh.wikipedia.org/wiki/薄暮 "wikilink")[黎明時段](https://zh.wikipedia.org/wiki/拂晓 "wikilink")，可以使用內置的[氚管](../Page/氚管.md "wikilink")作供電照明。該瞄準鏡在現在的[英國軍隊](../Page/英國軍隊.md "wikilink")之中的全稱為SUIT L2A2。該瞄準鏡的設計並不是作為[狙擊手](../Page/狙擊手.md "wikilink")專用的瞄準具，而是要安裝在的[步槍和](../Page/精確射手步槍.md "wikilink")[機槍手的](https://zh.wikipedia.org/wiki/機槍手 "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")以上使用。類似這款瞄準鏡的是[美国](../Page/美国.md "wikilink")[Trijicon公司的](https://zh.wikipedia.org/wiki/Trijicon公司 "wikilink")[ACOG光學瞄準鏡和](../Page/先進戰鬥光學瞄準鏡.md "wikilink")[加拿大](../Page/加拿大.md "wikilink")[ELCAN光學技術公司的](../Page/雷神ELCAN光學技術.md "wikilink")[C79光學瞄準鏡](../Page/C79光學瞄準鏡.md "wikilink")。
 
 ## 使用

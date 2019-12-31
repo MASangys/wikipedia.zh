@@ -1,3 +1,6 @@
+> 本文内容由[Binfmt misc](https://zh.wikipedia.org/wiki/Binfmt_misc)转换而来。
+
+
 **binfmt_misc**是[Linux内核](../Page/Linux内核.md "wikilink")的一项功能，其使得内核可识别任意类型的[可执行文件格式并传递至特定的](../Page/執行檔.md "wikilink")[用户空间应用程序](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，如[模拟器和](https://zh.wikipedia.org/wiki/仿真器 "wikilink")[虚拟机](../Page/虛擬機器.md "wikilink")\[1\]。它是内核中准备用户空间程序运行的诸多二进制格式文件处理程序之一 \[2\].。
 
 可执行文件格式透过[特殊文件系统](../Page/文件系统.md "wikilink")`binfmt_misc`接口注册（通常挂载在[/proc](../Page/Procfs.md "wikilink")）。注册流程既可通过向名为`register`的procfs文件发送特殊序列，也可经由封装器（如基于[Debian](../Page/Debian.md "wikilink")发行版的*binfmt-support*包）\[3\]亦或是[systemd的](../Page/Systemd.md "wikilink")`systemd-binfmt.service`服务进行\[4\]\[5\]。

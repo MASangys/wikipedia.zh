@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Neo-futurism](https://zh.wikipedia.org/wiki/Draft:Neo-futurism)转换而来。
+
+
 [21st_century_bench.jpg](https://zh.wikipedia.org/wiki/File:21st_century_bench.jpg "fig:21st_century_bench.jpg")的公共长椅\]\] **新未来主义** 是20世纪末至21世纪初的 [艺术](../Page/艺术.md "wikilink"), [设计](https://zh.wikipedia.org/wiki/设计 "wikilink"), 和 [建筑](../Page/建筑.md "wikilink")运动。 这可以被认为是违背了 [后现代主义](https://zh.wikipedia.org/wiki/后现代建筑 "wikilink") 的态度，代表对更美好未来的 [理想化](https://zh.wikipedia.org/wiki/唯心主义 "wikilink") 的信念，以及“需要将现代融洽与技术相结合”。\[1\]
 
 这种 [超前](https://zh.wikipedia.org/wiki/超前 "wikilink") 的运动\[2\] 是对快速发展的城市的审美和功能的未来主义的重新思考。 [第二次世界大战](../Page/第二次世界大战.md "wikilink")结束后在世界范围内开始的工业化给人们带来了新的生活思潮，艺术和建筑，导致后现代主义，新现代主义和新未来主义。\[3\]

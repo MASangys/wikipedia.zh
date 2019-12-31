@@ -1,3 +1,6 @@
+> 本文内容由[Daily news](https://zh.wikipedia.org/wiki/Daily_news)转换而来。
+
+
 《**daily news**》為[日本](../Page/日本.md "wikilink")女歌手[華原朋美](../Page/華原朋美.md "wikilink")的第13張單曲，為其最後一首由[小室哲哉](../Page/小室哲哉.md "wikilink")製作的單曲。
 
 ## 說明

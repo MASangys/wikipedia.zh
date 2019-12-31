@@ -1,3 +1,6 @@
+> 本文内容由[Tren-D](https://zh.wikipedia.org/wiki/Tren-D)转换而来。
+
+
 **Tren-D**（韓語：**트랜디**），是[韓國BaekSang娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2013年推出的五人女子組合，成員包括金書京、金恩智、李英珠、姜允京、吳詩英\[1\]\[2\]，團隊已於2016年解散。
 
 ## 成員資料

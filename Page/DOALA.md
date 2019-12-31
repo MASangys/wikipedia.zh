@@ -1,3 +1,6 @@
+> 本文内容由[DOALA](https://zh.wikipedia.org/wiki/DOALA)转换而来。
+
+
 **ドアラ**（*DOALA*）是[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[中日龍](../Page/中日龍.md "wikilink")的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，以[無尾熊](../Page/無尾熊.md "wikilink")為原型的角色。[棒球背號為](https://zh.wikipedia.org/wiki/棒球背號 "wikilink")1994。是因為[1994年](../Page/1994年.md "wikilink")開始活動，以球隊吉祥物之姿登場於中日龍各個比賽。相較於中日龍其他的吉祥物[シャオロン與](https://zh.wikipedia.org/wiki/シャオロン_\(中日ドラゴンズ\) "wikilink")[パオロン](https://zh.wikipedia.org/wiki/パオロン "wikilink")，兩位搭檔因為身形渾圓、手腳不靈活，因此DOALA以後空翻的絕技作為演出上的互補。
 
 [名古屋與無尾熊的關係深遠](https://zh.wikipedia.org/wiki/名古屋 "wikilink")，是由於[1984年](../Page/1984年.md "wikilink")（昭和59年）無尾熊首次來到日本，並選定名古屋市（因為和[雪梨的關係為](https://zh.wikipedia.org/wiki/雪梨 "wikilink")[友好城市](../Page/友好城市.md "wikilink")）定居。在那之後，無尾熊成為了[東山動植物園](../Page/東山動植物園.md "wikilink")的人氣明星。

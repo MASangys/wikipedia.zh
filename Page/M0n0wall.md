@@ -1,3 +1,6 @@
+> 本文内容由[M0n0wall](https://zh.wikipedia.org/wiki/M0n0wall)转换而来。
+
+
 m0n0wall 是基于 [FreeBSD](../Page/FreeBSD.md "wikilink") 的嵌入式[防火墙](../Page/防火墙.md "wikilink")发行版，是 [BSD](../Page/BSD.md "wikilink") [操作系统](../Page/操作系统.md "wikilink")的后代之一。它提供了一个小镜像，可以放在小型[闪存](../Page/闪存.md "wikilink")卡上，也可以放在 [CD-ROM](../Page/CD-ROM.md "wikilink") 和[硬盘](../Page/硬盘.md "wikilink")上。它可以在许多嵌入式平台和通用 PC 上运行。PC 版本可以只使用一张 [Live CD](../Page/Live_CD.md "wikilink") 和一张[软盘](../Page/软盘.md "wikilink")来存储配置数据，也可以在一张小型闪存卡上运行（附带 IDE 适配器）。这就消除了对硬盘驱动器的需求，从而降低了噪音和热量水平。
 
 2015 年 2 月 15 日，Manuel Kasper 宣布“m0n0wall 项目正式结束”。不会再做任何开发，也不会有更新的版本，“鼓励”所有当前的 m0n0wall 用户切换到 [OPNsense](../Page/OPNsense.md "wikilink") 并尽其所能做出贡献。\[1\]\[2\][PfSense](../Page/PfSense.md "wikilink") 于 2004 年从 m0n0wall 项目中分叉出来，而OPNsense 于2015 年从 PfSense 分叉出来。

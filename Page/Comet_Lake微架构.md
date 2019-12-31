@@ -1,3 +1,6 @@
+> 本文内容由[Comet Lake微架构](https://zh.wikipedia.org/wiki/Comet_Lake微架构)转换而来。
+
+
 **Comet Lake** 是[Intel采用第四代](https://zh.wikipedia.org/wiki/Intel "wikilink")[Skylake微架构改进架构的](https://zh.wikipedia.org/wiki/Skylake微架构 "wikilink")14nm处理器的代号，作为第10代[酷睿产品发售](https://zh.wikipedia.org/wiki/酷睿 "wikilink")，是[Whiskey Lake微架构的继任](https://zh.wikipedia.org/wiki/Whiskey_Lake微架构 "wikilink")。 Intel于2019年8月21日正式发布该微架构的处理器。\[1\]
 
 ## 设计

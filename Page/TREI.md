@@ -1,3 +1,6 @@
+> 本文内容由[TREI](https://zh.wikipedia.org/wiki/TREI)转换而来。
+
+
 **TREI**（）為[韓國經紀公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2019年推出的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員由[金俊泰](https://zh.wikipedia.org/wiki/金俊泰 "wikilink")、[李財准](https://zh.wikipedia.org/wiki/李財准 "wikilink")、[蔡昌鉉三名成員組成](https://zh.wikipedia.org/wiki/蔡昌鉉 "wikilink")，於2019年2月19日正式出道。
 
 ## 組合資料

@@ -1,3 +1,6 @@
+> 本文内容由[Melomics](https://zh.wikipedia.org/wiki/Melomics)转换而来。
+
+
 [MelomicsShowroom.jpg](https://zh.wikipedia.org/wiki/File:MelomicsShowroom.jpg "fig:MelomicsShowroom.jpg") **Melomics**是基於生物啟發式演算法的[音樂自動組合的計算系統](../Page/算法作曲.md "wikilink")（無人為干預），其名字源自「旋律基因組學」（genomics of melodies）\[1\]。
 
 ## 技術方面

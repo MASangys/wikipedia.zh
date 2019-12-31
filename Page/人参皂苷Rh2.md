@@ -1,3 +1,6 @@
+> 本文内容由[人参皂苷Rh2](https://zh.wikipedia.org/wiki/人参皂苷Rh2)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Ginsenoside_Rh2.jpg "fig:缩略图")
 
 **Rh2**是在[人参属植物中发现的一种](../Page/人蔘屬.md "wikilink")[人参皂苷](../Page/人蔘皂苷.md "wikilink")，是一种达玛烷型**人参二醇类皂苷。**它在3β,12β 和20 pro-S 位点被[达玛烷](../Page/达玛烷.md "wikilink")羟基取代，被转换成相应的 β-葡萄糖苷，并在24-25位点引入一个双键。\[1\]

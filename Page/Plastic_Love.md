@@ -1,3 +1,6 @@
+> 本文内容由[Plastic Love](https://zh.wikipedia.org/wiki/Plastic_Love)转换而来。
+
+
 〈**Plastic Love**〉（）是[竹內瑪莉亞](../Page/竹內瑪莉亞.md "wikilink")的歌曲，收錄於1984年發行的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《》。歌曲因為[YouTube](../Page/YouTube.md "wikilink")演算法的關係，於網路上爆紅，並在發售後的35年推出[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
 
 ## 背景

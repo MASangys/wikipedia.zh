@@ -1,3 +1,6 @@
+> 本文内容由[Startpage](https://zh.wikipedia.org/wiki/Startpage)转换而来。
+
+
 **Startpage**為一荷蘭公司Startpage B.V.所推出的[搜尋引擎服務](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")\[1\]，其前身為[元搜尋引擎](https://zh.wikipedia.org/wiki/元搜尋引擎 "wikilink")**Ixquick**，Startpage當時Ixquick旗下之服務，兩者於[2016年](../Page/2016年.md "wikilink")改為合併並改為現名。Startpage以強調對客戶隱私的保護聞名。\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
 
 ## 歷史

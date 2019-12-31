@@ -1,3 +1,6 @@
+> 本文内容由[ISFET](https://zh.wikipedia.org/wiki/ISFET)转换而来。
+
+
 **离子敏感场效应晶体管**，又称**ISFET** （  ），是用于测量溶液中离子浓度的[场效应晶体管](../Page/场效应管.md "wikilink") 。当离子浓度（例如[H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢正离子 "wikilink") ，参见[pH值](https://zh.wikipedia.org/wiki/pH值 "wikilink") ）变化时，流经[晶体管](../Page/晶体管.md "wikilink")的电流也会相应变化。 在这里，溶液被用作栅极。 基板和[氧化物](../Page/氧化物.md "wikilink")表面之间的电压由于[离子](../Page/离子.md "wikilink")层而产生。 它与MOSFET具有相同的基本结构，是一种特殊类型的[MOSFET](https://zh.wikipedia.org/wiki/金屬氧化物半導體場效電晶體 "wikilink") （金属氧化物半导体场效应晶体管） \[1\] ，但金属栅极被离子敏感[膜](../Page/膜.md "wikilink") ， [电解质](../Page/电解质.md "wikilink")溶液和[参比电极代替](https://zh.wikipedia.org/wiki/参比电极 "wikilink")。 \[2\] ISFET于1970年发明，是第一款[生物传感器FET](https://zh.wikipedia.org/wiki/生物传感器FET "wikilink")（BioFET）。 [缩略图](https://zh.wikipedia.org/wiki/File:ISFET.jpg "fig:缩略图") PH值影响栅极材料的Si–OH基团在水溶液中的界面 [水解](../Page/水解.md "wikilink")性 。典型的栅极材料有 [SiO<sub>2</sub>](../Page/二氧化硅.md "wikilink"), [Si<sub>3</sub>N<sub>4</sub>](../Page/氮化矽.md "wikilink"), [Al<sub>2</sub>O<sub>3</sub>](../Page/氧化铝.md "wikilink") 和 [Ta<sub>2</sub>O<sub>5</sub>](../Page/五氧化二钽.md "wikilink").
 
 可以通过[位点结合模型描述负责氧化物表面电荷的机理](https://zh.wikipedia.org/wiki/位点结合模型 "wikilink")，该模型描述了溶液中Si-OH表面位点和H<sup>+</sup>离子之间的平衡。 覆盖氧化物表面（例如SiO<sub>2</sub>）的羟基可以通过提供或接受质子而表现两性，如在氧化物-电解质界面发生的以下酸碱反应：

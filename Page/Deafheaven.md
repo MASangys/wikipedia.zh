@@ -1,3 +1,6 @@
+> 本文内容由[Deafheaven](https://zh.wikipedia.org/wiki/Deafheaven)转换而来。
+
+
 **Deafheaven**（）是來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[三藩市的一隊後](https://zh.wikipedia.org/wiki/三藩市 "wikilink")樂隊，成立於2010年。樂隊是由主唱以及結他手二人組成。 在Deafheaven還是只有主唱George Clarke以及吉他手Kerry McCoy的時候，他們錄製了一隻無專輯名字Demo唱片作品，並於2010年6月1日發行。在發行專輯後，Deafheaven聯同了三位新隊員開始他們的演出。他們在2010年底的時後跟唱片公司簽約，於2011年發行了他們第一隻專輯，。另外，他們再於2013年6月發行新作品，。這專輯並獲得各大媒體的大力支持，以及極高評分\[1\]\[2\]。於2015年10月及2018年7月，Deafheaven分別推出了和。
 [滾石雜誌評Deafheaven的曲風界於](https://zh.wikipedia.org/wiki/滾石 "wikilink")[黑金屬](https://zh.wikipedia.org/wiki/黑金屬 "wikilink")、[瞪鞋搖滾](../Page/瞪鞋搖滾.md "wikilink")與[後搖滾](../Page/後搖滾.md "wikilink")。而歌詞中的意景都是[圍繞著藝術、文學，還有生活](https://www.metal-archives.com/bands/Deafheaven/3540315870)等等。
 

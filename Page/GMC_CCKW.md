@@ -1,3 +1,6 @@
+> 本文内容由[GMC CCKW](https://zh.wikipedia.org/wiki/GMC_CCKW)转换而来。
+
+
 **[GMC](../Page/通用汽车.md "wikilink") CCKW**，中国抗战时称为**季姆西**十轮大卡车，是[美国陆军](../Page/美国陆军.md "wikilink")[二战时标准装备的](https://zh.wikipedia.org/wiki/二战 "wikilink")越野车与载重卡车。
 
 ## 命名

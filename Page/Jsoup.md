@@ -1,3 +1,6 @@
+> 本文内容由[Jsoup](https://zh.wikipedia.org/wiki/Jsoup)转换而来。
+
+
 **jsoup**是一個用於解析、提取、操作[HTML](../Page/HTML.md "wikilink")的[開源](../Page/开放源代码.md "wikilink")[Java](../Page/Java.md "wikilink")函式庫。
 
 ## 歷史

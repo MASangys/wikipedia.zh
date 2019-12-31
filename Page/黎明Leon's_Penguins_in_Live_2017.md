@@ -1,3 +1,6 @@
+> 本文内容由[黎明Leon\'s Penguins in Live 2017](https://zh.wikipedia.org/wiki/黎明Leon\'s_Penguins_in_Live_2017)转换而来。
+
+
 **黎明Leon's Penguins in Live 2017**，俗稱「企鵝演唱會」，是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，也是《Dragonland Music Festival》（龍地音樂節）的演出項目之一，於2017年2月24日在香港中環海濱活動空間舉行，不設座位及實體門票，突破了香港演唱會的傳統模式\[1\]。
 
 ## 製作概念

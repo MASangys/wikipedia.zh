@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV 2019](https://zh.wikipedia.org/wiki/ViuTV_2019)转换而来。
+
+
 《**ViuTV 2019**》是由[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的節目巡禮，宣傳和介紹[ViuTV](../Page/ViuTV.md "wikilink")及英文頻道[ViuTVsix](../Page/ViuTVsix.md "wikilink")於2019年的播映節目。節目全長60分鐘連廣告。
 
 ## 播放時間

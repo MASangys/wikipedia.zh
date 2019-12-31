@@ -1,3 +1,6 @@
+> 本文内容由[Arctur-2](https://zh.wikipedia.org/wiki/Arctur-2)转换而来。
+
+
 [Arctur-2.jpg](https://zh.wikipedia.org/wiki/File:Arctur-2.jpg "fig:Arctur-2.jpg")
 
 **Arctur-2**是位於[斯洛維尼亞](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")[新戈里察的](https://zh.wikipedia.org/wiki/新戈里察 "wikilink")[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")，用於運行密集型工作負載與電腦模擬中，如[空氣動力學模擬](https://zh.wikipedia.org/wiki/空氣動力學 "wikilink")\[1\]與[鋼](https://zh.wikipedia.org/wiki/鋼 "wikilink")[鑄件模擬](https://zh.wikipedia.org/wiki/鑄件 "wikilink")\[2\]，於2017年初投入運營，並取代[Arctur-1](../Page/Arctur-1.md "wikilink")。

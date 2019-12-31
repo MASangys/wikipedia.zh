@@ -1,3 +1,6 @@
+> 本文内容由[Witsenhausen反例](https://zh.wikipedia.org/wiki/Witsenhausen反例)转换而来。
+
+
 **Witsenhausen反例**（Witsenhausen's counterexample）是在[隨機控制](../Page/隨機控制.md "wikilink")中看似簡單的，是由在1968年所提出的\[1\]。有關集中式[LQG控制](../Page/LQG控制.md "wikilink")系統（線性系統、有高斯雜訊、其成本函數為二次函數下，會有線性的最佳控制律）的結論，一般會很自然[猜想](../Page/猜想.md "wikilink")其中的重要特性可以推廣到分散系統，而Witsenhausen反例即為上述猜想的反例。Witsenhausen建構了二階段的LQG系統，其中二個控制器的決策都是根據分散性資訊所獨立決策的，並且證明在此系統中，有比所有線性控制律更好的非線性控制律。現今還無法找到最佳的控制律\[2\]。
 
 [<File:WitsenhausenCounterexample.jpg>](https://zh.wikipedia.org/wiki/File:WitsenhausenCounterexample.jpg "fig:File:WitsenhausenCounterexample.jpg")

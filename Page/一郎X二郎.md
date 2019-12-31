@@ -1,3 +1,6 @@
+> 本文内容由[一郎X二郎](https://zh.wikipedia.org/wiki/一郎X二郎)转换而来。
+
+
 《**一郎X二郎**》，（日語：サウスバウンド，取自「*South Bound*」之英譯）是[日本](../Page/日本.md "wikilink")作家[奧田英朗](../Page/奧田英朗.md "wikilink")的長篇[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。本作耗費三年，2005年6月30日發行單行本，2007年8月31日發行上、下兩冊的文庫版。小說被導演[森田芳光](../Page/森田芳光.md "wikilink")改編成電影**〈南方大作戰〉**，2007年上映。\[1\]
 
 ## 故事角色

@@ -1,3 +1,6 @@
+> 本文内容由[Category:Lang和lang-xx模板错误](https://zh.wikipedia.org/wiki/Category:Lang和lang-xx模板错误)转换而来。
+
+
 本分类用于追踪和模板错误，仅供[Module:Lang使用](https://zh.wikipedia.org/wiki/Module:Lang "wikilink")。
 
 ## 错误消息

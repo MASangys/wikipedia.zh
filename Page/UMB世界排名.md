@@ -1,3 +1,6 @@
+> 本文内容由[UMB世界排名](https://zh.wikipedia.org/wiki/UMB世界排名)转换而来。
+
+
 **UMB世界排名**，是由[世界撞球聯盟](../Page/世界撞球聯盟.md "wikilink")針對[開侖](../Page/開侖.md "wikilink")選手所作的世界排名。
 
 ## 排名

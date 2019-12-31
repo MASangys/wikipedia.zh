@@ -1,3 +1,6 @@
+> 本文内容由[Xingang Wang](https://zh.wikipedia.org/wiki/Xingang_Wang)转换而来。
+
+
 Xingang Wang (王鑫刚) is a British Chinese Conservative member. He is the Parliamentary Candidate for Hammersmith during 2019's General Election. Born and raised in Mainland China, Xingang completed his engineering degree in China, then went to the UK to continue his post-graduate study at Imperial College London, Oxford University and the University of Surry. After he completed his degrees, he worked as an engineer at Atkins and later switched his career to finance at Barclays. He also published a book that gives career advice on becoming a Product Controller.
 
 Although not a professional politician, after he settled down in the UK, Xingang became an active advocate for the British Chinese community to be more involved and vocal in British politics. He became the Local Councillor in 2015 and was re-elected in 2019. He also holds multiple titles such as the Vice-Chairman of Parish Council, Vice-Chairman of Transport Committee, Vice-Chairman of Planning Committee, Director of Conservative Friends of Chinese, Trustee of Chinese Welfare Trust and Local Conservative Branch Secretary.

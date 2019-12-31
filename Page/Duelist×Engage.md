@@ -1,3 +1,6 @@
+> 本文内容由[Duelist×Engage](https://zh.wikipedia.org/wiki/Duelist×Engage)转换而来。
+
+
 是[Praline](../Page/WillPlus.md "wikilink")（）在2011年4月8日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，Praline的首部作品。\[2\]\[3\]
 
 ## 故事

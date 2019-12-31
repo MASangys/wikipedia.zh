@@ -1,3 +1,6 @@
+> 本文内容由[AliGenie](https://zh.wikipedia.org/wiki/AliGenie)转换而来。
+
+
 **AliGenie** （又名**AliGenie Voice** ）是由[阿里巴巴集团](../Page/阿里巴巴集团.md "wikilink")推出的[智能个人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")[开放平台](../Page/開放平臺.md "wikilink") ，目前內置於[天猫精灵中](https://zh.wikipedia.org/wiki/天猫精灵 "wikilink")。 \[1\] \[2\] 该平台于2017年与[天猫精灵一起在](https://zh.wikipedia.org/wiki/天猫精灵 "wikilink")[雲棲大会上推出](https://zh.wikipedia.org/wiki/云栖小镇#云栖大会 "wikilink")。 \[3\] \[4\] \[5\]
 
 ## 特征

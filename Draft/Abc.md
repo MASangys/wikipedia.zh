@@ -1,3 +1,6 @@
+> 本文内容由[Draft:Abc](https://zh.wikipedia.org/wiki/Draft:Abc)转换而来。
+
+
 一個 **HMO** is a ****, 一個組織
 
 提供或安排管理式護理

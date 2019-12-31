@@ -1,3 +1,6 @@
+> 本文内容由[Amstrad GX4000](https://zh.wikipedia.org/wiki/Amstrad_GX4000)转换而来。
+
+
 ，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[個人電腦製造商](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")於1990年在[歐洲地區發行的](https://zh.wikipedia.org/wiki/歐洲地區 "wikilink")[8位元](../Page/8位元.md "wikilink")[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")，為雅達利[家用電腦](https://zh.wikipedia.org/wiki/家用電腦 "wikilink")系列的衍生機型。Amstrad GX4000是Amstrad僅有一次跨足電子遊戲市場的嘗試，然而因為不敵市場上其他主機的競爭很快淡出市場\[1\]\[2\]。
 
 ## 歷史

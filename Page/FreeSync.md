@@ -1,3 +1,6 @@
+> 本文内容由[FreeSync](https://zh.wikipedia.org/wiki/FreeSync)转换而来。
+
+
 **FreeSync**是用于[LCD显示器的自适应同步技术的品牌名称](../Page/液晶显示器.md "wikilink")，其支持动态，旨在减少由于内容的[帧速率未对齐而导致的画面撕裂和延迟](../Page/帧率.md "wikilink")。 \[1\]
 
 FreeSync由[AMD开发](../Page/超威半导体.md "wikilink")，并于2014年首次发布，与[Nvidia的专有技术](../Page/英伟达.md "wikilink")[G-Sync为竞争关系](../Page/Nvidia_G-Sync.md "wikilink")。 \[2\]该技术为免版税、免费使用，且没有性能损失。 \[3\]

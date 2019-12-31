@@ -1,3 +1,6 @@
+> 本文内容由[BigQuery](https://zh.wikipedia.org/wiki/BigQuery)转换而来。
+
+
 **BigQuery**是一个[RESTful的](../Page/表现层状态转换.md "wikilink")[Web服务](../Page/Web服务.md "wikilink") ，可以对与[Google Storage结合使用的大型数据集进行交互式分析](https://zh.wikipedia.org/wiki/Google_Storage "wikilink")。它是一种无服务器的平台即服务（ [PaaS](../Page/平台即服务.md "wikilink") ），且可与[MapReduce](../Page/MapReduce.md "wikilink")相互补充使用。
 
 ## 历史

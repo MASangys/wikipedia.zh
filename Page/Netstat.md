@@ -1,3 +1,6 @@
+> 本文内容由[Netstat](https://zh.wikipedia.org/wiki/Netstat)转换而来。
+
+
 **`netstat`**是一个基于[命令行界面](../Page/命令行界面.md "wikilink")的[网络](../Page/计算机网络.md "wikilink")[实用工具](../Page/实用程序.md "wikilink")，可显示当前的网络状态，包括[传输控制协议](../Page/传输控制协议.md "wikilink")层的连线状况、[路由表](../Page/路由表.md "wikilink")、[网络接口状态和](https://zh.wikipedia.org/wiki/网络接口 "wikilink")[网络协议的统计信息等](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。\[1\]`netstat`命令适用于[类Unix系统](../Page/类Unix系统.md "wikilink")（如[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")和[BSD](../Page/BSD.md "wikilink")）、[IBM OS/2和](https://zh.wikipedia.org/wiki/IBM_OS/2 "wikilink")[Windows NT操作系统家族](../Page/Windows_NT.md "wikilink")（如[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 8和](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows 10](../Page/Windows_10.md "wikilink")）。\[2\]\[3\]
 
 `netstat`可用于查找网络中的问题，并可通过计算[网络流量来度量网络性能](https://zh.wikipedia.org/wiki/网络流量 "wikilink")。\[4\]\[5\]尽管该工具仍然被包含在许多[Linux发行版](../Page/Linux发行版.md "wikilink")中，但基本都被看作过时、应被替代的工具。\[6\]\[7\]\[8\]\[9\]

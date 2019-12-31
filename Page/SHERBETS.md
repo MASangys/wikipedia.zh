@@ -1,3 +1,6 @@
+> 本文内容由[SHERBETS](https://zh.wikipedia.org/wiki/SHERBETS)转换而来。
+
+
 **SHERBETS**（シャーベッツ）是原[BLANKEY JET CITY乐队成员](../Page/Blankey_Jet_City.md "wikilink")组建的4人[另类摇滚](../Page/另类摇滚.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")。BLANKEY JET CITY在1996年起以**SHERBET**（シャーベット）的名义活动，当时其音乐以不插电乐器为主，而1998年起，则结成了现在风格的新生SHERBETS乐队。2000年BLANKEY JET CITY乐队解散後，乐队更加活跃，但在2002年乐队组建后，乐队便终止了活动。2005年再次活動。当年，浅井同时参与JUDE和SHERBETS二乐队的活动，十分忙。乐队代言人浅井将乐队SHERBETS称做“宝物”。 2011年在《FREE》发行前，他在杂志上曾经发表过乐队要解散的言论，但之后就将其撤回了。在那之后乐队继续紧锣密鼓地活动着。
 
 ## 成员

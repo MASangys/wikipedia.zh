@@ -1,3 +1,6 @@
+> 本文内容由[墨西哥的UFO目击事件](https://zh.wikipedia.org/wiki/墨西哥的UFO目击事件)转换而来。
+
+
 这是一个关于在[墨西哥](../Page/墨西哥.md "wikilink")目击[不明飞行物](../Page/不明飞行物.md "wikilink")的列表。
 
 ## 1883年

@@ -1,3 +1,6 @@
+> 本文内容由[Tanzmuzik](https://zh.wikipedia.org/wiki/Tanzmuzik)转换而来。
+
+
 **Tanzmuzik**(日语：タンツムジーク)是日本的[Techno](../Page/Techno.md "wikilink")乐队。主要成员是山本昭夫和佐协兴英两位，之后加入了在1997年之前在ARM乐队活动的九川大志。
 
 其组建于[1993年](../Page/1993年.md "wikilink")。以大阪为中心活动，同年在同在大阪活动的、由主导的厂牌——发表了单曲《Muzikanova》而出道。

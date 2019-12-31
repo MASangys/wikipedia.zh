@@ -1,3 +1,6 @@
+> 本文内容由[SHISHAMO NO OSAKA-JOHALL!!!](https://zh.wikipedia.org/wiki/SHISHAMO_NO_OSAKA-JOHALL!!!)转换而来。
+
+
 《**SHISHAMO NO OSAKA-JOHALL\!\!\!**》是[日本](../Page/日本.md "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[SHISHAMO](../Page/SHISHAMO.md "wikilink")的第2张演唱会影像作品，于2016年11月9日发行。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Fold](https://zh.wikipedia.org/wiki/三星Galaxy_Fold)转换而来。
+
+
 , [f/](https://zh.wikipedia.org/wiki/f-number "wikilink")2.2, [OIS](https://zh.wikipedia.org/wiki/影像穩定器 "wikilink") | front_camera =  | sound = | connectivity = | other = | sar = | hac = | website =  | references = \[1\]\[2\] }} **Samsung Galaxy Fold**是韓國[三星電子](../Page/三星電子.md "wikilink")於2019年2月20日美國舊金山發布的Android系統高階折疊[平板智慧型手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")。\[3\]\[4\]\[5\]\[6\]
 
 手機螢幕採用像書本一樣的內折式，共有兩塊螢幕——4.6寸（116.84mm）的外層AMOLED「封面螢幕」，以及內層7.3寸（185.42mm） AMOLED软性「主螢幕」。官方表示，主屏幕實際測試開合次數高達20萬次，如果平均每天攤開100次，估算下來約可以使用5年\[7\]。此款手机原本预计于4月25日正式于美国发售，定价1980美元（约15444港元，台幣61776元）。
