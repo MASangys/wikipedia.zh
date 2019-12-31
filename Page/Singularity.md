@@ -1,3 +1,6 @@
+> 本文内容由[Singularity](https://zh.wikipedia.org/wiki/Singularity)转换而来。
+
+
 **Singularity**，一種實驗性[操作系统](../Page/操作系统.md "wikilink")，在2003年至2010年間由[微软研究院設計](https://zh.wikipedia.org/wiki/微软研究院 "wikilink")、發展出來。该操作系统的[核心](https://zh.wikipedia.org/wiki/內核 "wikilink")、[驅動程式以及应用程序都以](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")「[受控代碼](../Page/受控代碼.md "wikilink")」写成。系统“Singularity”在设计上完全改头换面，不再以其性能為標準，而以系統稳定性作为首要标准。
 
 Singularity操作系统會在系统构建、編寫程式等应用微软最先进的技术，例如Singularity的核心技术之一：软件独立进程（Software Isolated Processes，SIP）将采用“Type-safe”编程语言以及精简的指令完成，保证系统運作之间的高度独立性。SIP保证每个程序、驅動程式以及系统扩展组件都在獨立的SIP内运行，並不允许互相共享内存或修改自身代码，能夠使系统的稳定性增強。

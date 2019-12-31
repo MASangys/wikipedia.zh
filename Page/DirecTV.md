@@ -1,3 +1,6 @@
+> 本文内容由[DirecTV](https://zh.wikipedia.org/wiki/DirecTV)转换而来。
+
+
 **DirecTV**是自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[埃尔塞贡多市開始推行的](../Page/埃尔塞贡多_\(加利福尼亚州\).md "wikilink")[直播衛星](https://zh.wikipedia.org/wiki/直播衛星 "wikilink")（Direct Broadcast Satellite；DBS）服務，此服務發送[數位](https://zh.wikipedia.org/wiki/數位電視 "wikilink")[衛星電視及音效到美國居家](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")。DirecTV現為[AT\&T](../Page/AT&T.md "wikilink")所擁有。
 
 ## 一般資訊

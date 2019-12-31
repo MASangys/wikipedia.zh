@@ -1,3 +1,6 @@
+> 本文内容由[Intel Pentium 4處理器列表](https://zh.wikipedia.org/wiki/Intel Pentium 4處理器列表)转换而来。
+
+
 [Pentium 4處理器是](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[英特爾針對消費者市場的第七代微處理器](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 ## 桌上型處理器

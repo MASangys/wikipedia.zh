@@ -1,3 +1,6 @@
+> 本文内容由[Mini moke](https://zh.wikipedia.org/wiki/Mini moke)转换而来。
+
+
 [Moke02.png](https://zh.wikipedia.org/wiki/File:Moke02.png "fig:Moke02.png") **Mini Moke** 是一輛由[英國汽車公司在](https://zh.wikipedia.org/wiki/英國 "wikilink")1964 至1968 年，在[伯明罕的Longbridge](https://zh.wikipedia.org/wiki/伯明罕 "wikilink") 車厰，依據 Alec Issigonis [爵士](../Page/爵士.md "wikilink")設計的[柯士甸](https://zh.wikipedia.org/wiki/柯士甸 "wikilink") 迷你 (Mini) [汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")，改裝而成的開篷汽車。在[英國生產了](https://zh.wikipedia.org/wiki/英國 "wikilink")15,000 輛。之後，分別在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[葡萄牙](../Page/葡萄牙.md "wikilink") 及[意大利](../Page/意大利.md "wikilink")生產。
 
 Mini Moke 的誕生，來自一個現實需要。就是英國軍方建議設計一輛，類似美國軍方[吉普車的輕型軍車以應付需要](https://zh.wikipedia.org/wiki/吉普車 "wikilink")。 但後來發覺 Mini Moke 的輪軚胎太細和車身離地太低，以致不適合作為越野車之用。 它後來被推出成為一輛低成本，低維修的民用車輛。 它在英國生產至 1968年，1966 至 1981 年在澳洲生產。它曾經在美國短暫地被推出市場，但銷售量不佳。

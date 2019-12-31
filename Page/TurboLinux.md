@@ -1,3 +1,6 @@
+> 本文内容由[TurboLinux](https://zh.wikipedia.org/wiki/TurboLinux)转换而来。
+
+
 **TurboLinux**是一個[Linux發行版本](https://zh.wikipedia.org/wiki/Linux發行版本 "wikilink")。其主要市場為採用的[亞洲市場](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，如[日本](../Page/日本.md "wikilink")、[中國大陸和](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。\[1\]
 
 ## 背景

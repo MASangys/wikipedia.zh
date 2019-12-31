@@ -1,3 +1,6 @@
+> 本文内容由[渡邊Elly](https://zh.wikipedia.org/wiki/渡邊Elly)转换而来。
+
+
 **渡邊 Elly**（渡邊 エリー,**わたなべ ―**, ）是出身於[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink"),目前住在日本[茨城縣](../Page/茨城縣.md "wikilink")的[童星](../Page/童星.md "wikilink")[talent](https://zh.wikipedia.org/wiki/talent "wikilink")。屬於[レプロエンタテインメント](https://zh.wikipedia.org/wiki/レプロエンタテインメント "wikilink")(Jclass)的一員。
 身高157公分。血型是AB型。是日本人與澳大利亞人的[混血兒](../Page/混血兒.md "wikilink")。特技是舞蹈。過去在演出『[天才\!志村どうぶつ園](https://zh.wikipedia.org/wiki/天才!志村どうぶつ園 "wikilink")』這節目時，因為與一起演出的[ベッキー](https://zh.wikipedia.org/wiki/ベッキー "wikilink")(貝琪)長得很像的關係，被取了一個叫做「コベッキー(小貝琪)」的綽號，在學校也被人這樣叫。 從2006年度到2007年在受歡迎的電視節目『[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")』裡擔任「[TV戰士](../Page/TV戰士.md "wikilink")」。
 

@@ -1,3 +1,6 @@
+> 本文内容由[Uniscribe](https://zh.wikipedia.org/wiki/Uniscribe)转换而来。
+
+
 **Uniscribe**是[微軟公司開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統為正確演示](https://zh.wikipedia.org/wiki/Windows "wikilink")[Unicode文字而開發的組件](https://zh.wikipedia.org/wiki/Unicode "wikilink")。系統的核心是一個名為*USP10.DLL*的[DLL](https://zh.wikipedia.org/wiki/DLL "wikilink")。它從[Windows 2000開始連同Windows一起綑綁](../Page/Windows_2000.md "wikilink")；Win9x的用戶在更新至[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 5.0之後，系統亦會安裝有本組件。此外，[Windows CE從](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")5.0開始亦支援Uniscribe。
 
 其實從[Windows 7開始](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，Uniscribe已經隨着功能更多的[DirectWrite](../Page/DirectWrite.md "wikilink")的引入而被取代，但這組件依然仍有繼續開發及維護。

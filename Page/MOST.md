@@ -1,3 +1,6 @@
+> 本文内容由[MOST](https://zh.wikipedia.org/wiki/MOST)转换而来。
+
+
 **媒體導向系統傳輸**簡稱**MOST**（英文：**Media Oriented Systems Transport**）是一種車內[網路介面標準](https://zh.wikipedia.org/wiki/網路 "wikilink")，主要是為了讓[汽車或其他運輸交通工具內的](https://zh.wikipedia.org/wiki/汽車 "wikilink")[多媒體組件能夠互連而設計](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。
 
 MOST與原有的技術不同，它運用[光纖來進行主幹性的大量](https://zh.wikipedia.org/wiki/光纖 "wikilink")、高速傳輸，使得支末的匯流排連接在傳輸率上能遠超越過去的Vehicle-bus技術。

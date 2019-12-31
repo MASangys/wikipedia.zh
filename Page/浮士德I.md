@@ -1,3 +1,6 @@
+> 本文内容由[浮士德I](https://zh.wikipedia.org/wiki/浮士德I)转换而来。
+
+
 《**浮士德**》（）是[德国](../Page/德国.md "wikilink")大文豪[歌德于](https://zh.wikipedia.org/wiki/歌德 "wikilink")1808年发表的一部[悲剧](https://zh.wikipedia.org/wiki/悲剧 "wikilink")。传统上，《浮士德》被认为是[德语文学](../Page/德语文学.md "wikilink")中最优秀的作品，同时也是最经常被引用的作品。该剧主人公[浮士德](../Page/浮士德.md "wikilink")也曾出现在其他作家的作品中，但歌德给他的形象赋予了深刻的人格[寓意](https://zh.wikipedia.org/wiki/寓意 "wikilink")。
 
 本文介绍《浮士德》的第一部分，即《**浮士德，悲剧第一部**》（**）；关于《浮士德》的第二部分，请见《[浮士德II](https://zh.wikipedia.org/wiki/浮士德II "wikilink")》。另，本文中所有译文及专用名词均取自[绿原译](https://zh.wikipedia.org/wiki/绿原 "wikilink")[人民文学出版社](../Page/人民文学出版社.md "wikilink")1997年版译本。

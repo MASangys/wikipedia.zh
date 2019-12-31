@@ -1,3 +1,6 @@
+> 本文内容由[我和殭屍有個約會II](https://zh.wikipedia.org/wiki/我和殭屍有個約會II)转换而来。
+
+
 《**我和殭屍有個約會II**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")拍攝製作的時裝奇幻[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共43集，電視播映原版為41集，其中有數集為1小時加長版。監製[冼志偉](../Page/冼志偉.md "wikilink")，由[尹天照](../Page/尹天照.md "wikilink")、[萬綺雯](../Page/萬綺雯.md "wikilink")、[陳啟泰](../Page/陳啟泰.md "wikilink")、[楊恭如](../Page/楊恭如.md "wikilink")、[吳廷燁](../Page/吳廷燁.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[任達華](../Page/任達華.md "wikilink")、[張慧儀](../Page/張慧儀.md "wikilink")等主演。此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》第二部，於1999年製作，2000年首播。大結局更打破無綫[慣性收視](../Page/慣性收視.md "wikilink")的規律，平均收視20點，最高更達22點，取得六成收視。主題曲《假如真的再有約會》更成為粵語流行經典作品，而[無綫電視更於](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2014年的電視劇《[老表，你好hea！](../Page/老表，你好hea！.md "wikilink")》翻唱這首歌作為電視劇插曲。
 
 ## 內容簡介

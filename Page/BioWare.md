@@ -1,3 +1,6 @@
+> 本文内容由[BioWare](https://zh.wikipedia.org/wiki/BioWare)转换而来。
+
+
 **BioWare**，是一家位于[加拿大](../Page/加拿大.md "wikilink")[埃尔伯塔省省会](https://zh.wikipedia.org/wiki/埃尔伯塔省 "wikilink")[埃德蒙顿](../Page/埃德蒙顿.md "wikilink")市的游戏开发公司，该公司于1995年成立，由、和奧古斯汀·葉共同创立。Bioware开发了一些著名的[RPG游戏](https://zh.wikipedia.org/wiki/RPG "wikilink")，比如《[博德之门](../Page/博德之门.md "wikilink")》系列、《[无冬之夜](https://zh.wikipedia.org/wiki/无冬之夜 "wikilink")》、《[星球大战：旧共和国武士](https://zh.wikipedia.org/wiki/星球大战：旧共和国武士 "wikilink")》、《[翡翠帝国](../Page/翡翠帝国.md "wikilink")》、《[质量效应系列](../Page/质量效应系列.md "wikilink")》以及《[龙腾世纪系列](https://zh.wikipedia.org/wiki/龙腾世纪系列 "wikilink")》等。正在开发的《质量效应系列》和《龙腾世纪》系列属于跨平台作品，而《[星球大战：旧共和国](https://zh.wikipedia.org/wiki/星球大战：旧共和国 "wikilink")》则是一款基于PC平台的大型多人在线RPG（MMORPG）。在2012年9月前，[Mythic Entertainment与](../Page/Mythic_Entertainment.md "wikilink")[勝利遊戲为BioWare的一部分](https://zh.wikipedia.org/wiki/勝利遊戲 "wikilink")。\[1\]
 
 ## 公司历史

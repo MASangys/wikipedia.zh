@@ -1,3 +1,6 @@
+> 本文内容由[AMD K5](https://zh.wikipedia.org/wiki/AMD K5)转换而来。
+
+
 [AMD5k86-P90_SSA5-90ABQ.jpg](https://zh.wikipedia.org/wiki/File:AMD5k86-P90_SSA5-90ABQ.jpg "fig:AMD5k86-P90_SSA5-90ABQ.jpg") [AMD_K5_PR166_Front.jpg](https://zh.wikipedia.org/wiki/File:AMD_K5_PR166_Front.jpg "fig:AMD_K5_PR166_Front.jpg") **K5**是一個由AMD製作與Intel推出的[Pentium競爭的產品](https://zh.wikipedia.org/wiki/Pentium "wikilink")，由Mike Johnson主導整個K5處理器開發計畫。整个K5项目看起来更像是AMD面对INTEL突然推出跨时代的Pentium处理器措手不及的应对之作。其性能较Pentium处理器有较大差距。
 
 ## 型號

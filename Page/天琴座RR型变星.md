@@ -1,3 +1,6 @@
+> 本文内容由[天琴座RR型变星](https://zh.wikipedia.org/wiki/天琴座RR型变星)转换而来。
+
+
 [HR-diag-instability-strip.svg](https://zh.wikipedia.org/wiki/File:HR-diag-instability-strip.svg "fig:HR-diag-instability-strip.svg")的顏色-星等圖上落在一個特定的顏色與亮度區域上。\]\]
 
 **天琴座RR型變星**是週期[變星](../Page/變星.md "wikilink")，通常在[球狀星團](../Page/球狀星團.md "wikilink")中發現，因此也稱為星團變星。它被用做測量[星系](../Page/星系.md "wikilink")距離的[標準燭光](../Page/標準燭光.md "wikilink")，是[宇宙距離階梯的一部分](../Page/標準燭光.md "wikilink")。這類變星以原型，也是最亮的[天琴座RR](../Page/天琴座RR.md "wikilink")命名。

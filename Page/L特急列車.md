@@ -1,3 +1,6 @@
+> 本文内容由[L特急列車](https://zh.wikipedia.org/wiki/L特急列車)转换而来。
+
+
 [Name_Board_of_L-LimitedExpress_Lilac.jpg](https://zh.wikipedia.org/wiki/File:Name_Board_of_L-LimitedExpress_Lilac.jpg "fig:Name_Board_of_L-LimitedExpress_Lilac.jpg")的列車名牌，注意到「特急」兩字之前的圖樣化「L」字標誌\]\] **L特急**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****或****）是[日本](../Page/日本.md "wikilink")曾存在的一種[列車等級](https://zh.wikipedia.org/wiki/日本的列車 "wikilink")，通常是日間行駛、往返班次較為密集的一種[在來線](../Page/在來線.md "wikilink")[特急（特快）列車](../Page/特別急行列車.md "wikilink")。這種列車的[特急券之車資](https://zh.wikipedia.org/wiki/特急券 "wikilink")（特急料金）與一般的特急列車同額，但在列車時刻表、列車的[頭徽](https://zh.wikipedia.org/wiki/頭徽 "wikilink")（Headmark）與[路線牌](../Page/路線牌.md "wikilink")（方向幕）上所標示的車名前面，會多打上一個圖樣化的「L」字以便與一般的特急列車有所區別。
 
 ## 簡介

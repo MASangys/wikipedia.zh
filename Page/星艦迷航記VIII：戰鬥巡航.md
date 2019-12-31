@@ -1,3 +1,6 @@
+> 本文内容由[星艦迷航記VIII：戰鬥巡航](https://zh.wikipedia.org/wiki/星艦迷航記VIII：戰鬥巡航)转换而来。
+
+
 《**星艦迷航記VIII：戰鬥巡航**》（），由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1996年拍摄的[电影](../Page/电影.md "wikilink")。该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")8部电影，也是以《星际旅行》的第二代剧集《[下一代](https://zh.wikipedia.org/wiki/星际旅行：下一代 "wikilink")》为基础的第二部电影。在西方通常简写作“ST:FC”或“ST8”。
 
 從英文標題「」來看，電影的主題理論上應該是關於[地球人與](https://zh.wikipedia.org/wiki/地球人 "wikilink")[瓦肯人](../Page/瓦肯人.md "wikilink")的第一次接觸，然而故事的重心卻是放在《銀河飛龍》影集中的大敵——[博格人](https://zh.wikipedia.org/wiki/博格人 "wikilink")：主角群跟隨博格人的[時間旅行漩渦回到](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")21世紀，以阻擋博格人試圖改變人類过去的發展史来達成征服地球的企圖。此電影由《銀河飛龍》的大副扮演者[強納森·弗瑞克斯执導](https://zh.wikipedia.org/wiki/強納森·弗瑞克斯 "wikilink")，劇本由[布藍儂·布拉加與](https://zh.wikipedia.org/wiki/布藍儂·布拉加 "wikilink")[羅納德·穆爾所寫](https://zh.wikipedia.org/wiki/羅納德·穆爾 "wikilink")，電影配樂由[杰里·戈德史密斯所製作](https://zh.wikipedia.org/wiki/杰里·戈德史密斯 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[超重神GRAVION](https://zh.wikipedia.org/wiki/超重神GRAVION)转换而来。
+
+
 **超重神GRAVION**（），香港[TVB譯](https://zh.wikipedia.org/wiki/TVB "wikilink")**重力王**，是2002年10月7日至2002年12月16日，于[日本](../Page/日本.md "wikilink")[富士电视台每周一深夜](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")2点10分开始播放的[动画](../Page/动画.md "wikilink")，总共13集；讲述的是现代合体机器人的故事。之後發行DVD和VHS。
 
 2004年1月起播放续篇第二季**超重神GRAVION Zwei**（）共12集。

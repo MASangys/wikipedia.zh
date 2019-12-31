@@ -1,3 +1,6 @@
+> 本文内容由[UMAX](https://zh.wikipedia.org/wiki/UMAX)转换而来。
+
+
 **UMAX**，或稱優美克斯。是台灣的一個資訊、電子產品品牌，由[力捷電腦](https://zh.wikipedia.org/wiki/力捷電腦 "wikilink")（UMAX Computer Corporation）創立於1987年8月，最初主要產品為掃瞄器、印表機，其後逐漸擴展至個人電腦、記憶體與軟體。2004年力捷電腦更名為[力廣科技](https://zh.wikipedia.org/wiki/力廣科技 "wikilink")（UMAX Technologies）。2013年1月28日，力廣科技經營權由海悅廣告接手。同年4月8日，公司正式更名為海悅國際開發\[1\]，改以[房地產作為業務主軸](https://zh.wikipedia.org/wiki/房地產 "wikilink")\[2\]。UMAX品牌由[世成科技](../Page/世成科技.md "wikilink")經營團隊延續深耕。\[3\]
 
 ## 歷史

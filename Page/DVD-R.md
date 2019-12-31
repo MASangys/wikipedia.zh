@@ -1,3 +1,6 @@
+> 本文内容由[DVD-R](https://zh.wikipedia.org/wiki/DVD-R)转换而来。
+
+
 **DVD-R**（DVD recordable）是可寫入[光碟](../Page/光碟.md "wikilink")格式之一，其容量為4.7GB，相當於4.37GiB。
 
 它的容量比[CD-R更大](https://zh.wikipedia.org/wiki/CD-R "wikilink")，雖然最初的標準容量僅為3.95GB，但一般容量則為4.7[GB](https://zh.wikipedia.org/wiki/GB "wikilink")；而[Pioneer公司亦開發了](https://zh.wikipedia.org/wiki/Pioneer "wikilink")8.54GB的[雙層DVD版本](https://zh.wikipedia.org/wiki/雙層 "wikilink")，並於2005年推出市場。DVD-R能夠寫入一次，相反[DVD-RW則能夠寫入多次](https://zh.wikipedia.org/wiki/DVD-RW "wikilink")。

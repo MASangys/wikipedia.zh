@@ -1,3 +1,6 @@
+> 本文内容由[TAKESHIS\'](https://zh.wikipedia.org/wiki/TAKESHIS\')转换而来。
+
+
 **TAKESHIS**''是[北野武](../Page/北野武.md "wikilink")于2005年[導演的](https://zh.wikipedia.org/wiki/導演 "wikilink")[日本电影](../Page/日本电影.md "wikilink")，是北野武的第十二部導演作品，也是一部北野武所擅長的[黑色喜劇](../Page/黑色喜劇.md "wikilink")電影。
 
 北野武曾經發言表示這部電影是他最後一部黑色喜劇類型的電影。

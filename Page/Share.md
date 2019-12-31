@@ -1,3 +1,6 @@
+> 本文内容由[Share](https://zh.wikipedia.org/wiki/Share)转换而来。
+
+
 **Share**（）是由[日本](../Page/日本.md "wikilink")的一位[程序员](../Page/程序员.md "wikilink")所开发的[P2P](../Page/對等網路.md "wikilink")[软件](../Page/软件.md "wikilink")。他的功能基本上与[Winny](../Page/Winny.md "wikilink")相同，但是在一定程度上更加容易使用，所以也逐渐被日本本土外的电脑爱好者所使用。该类型的P2P网络不同于[eDonkey和](https://zh.wikipedia.org/wiki/eDonkey "wikilink")[BitTorrent网络](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，在Share网络上所有的传输都采用了加密措施，所以更能防止被追踪；同时每个用户都有一个独特的ID；以及特有的**群集**（****，**Cluster**）系统、**节点**（****，**Node**）系统。
 
 Share的图标出自日本動畫《[攻壳机动队 STAND ALONE COMPLEX](https://zh.wikipedia.org/wiki/攻壳机动队_STAND_ALONE_COMPLEX "wikilink")》中，一位駭客為隱蔽自己的臉而創造的符號「[笑臉男](https://zh.wikipedia.org/wiki/笑臉男 "wikilink")」。

@@ -1,3 +1,6 @@
+> 本文内容由[最終幻想XV](https://zh.wikipedia.org/wiki/最終幻想XV)转换而来。
+
+
 是一款由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")在2016年11月推出，为[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One和](../Page/Xbox_One.md "wikilink")[Windows开发的](https://zh.wikipedia.org/wiki/Windows "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。《[最终幻想系列](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")》的第十五部正传作品，游戏采用[開放世界](../Page/開放世界.md "wikilink")設計，战斗方式为动作式即時战斗系统。本作也是系列裡首次推出對應[VR](https://zh.wikipedia.org/wiki/VR "wikilink")（[PlayStation VR](../Page/PlayStation_VR.md "wikilink")）的遊戲內容。
 
 《最终幻想15》以[新的水晶神话为基础](https://zh.wikipedia.org/wiki/新的水晶故事 "wikilink")，但和系列其他作品无直接关系，游戏采用独立的世界觀、视觉设计和不同角色\[1\]。

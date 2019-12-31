@@ -1,3 +1,6 @@
+> 本文内容由[Magma](https://zh.wikipedia.org/wiki/Magma)转换而来。
+
+
 **Magma**是成立於1969年的法國前衛搖滾團體，由出身古典科班的鼓手[Christian Vander主導](https://zh.wikipedia.org/wiki/Christian_Vander "wikilink")。他說他對於未來世界的預見，無論是人性或是自然都深深擾動其心靈。第一張專輯訴說著一段故事，一群人民逃離了行將毀滅的地球到Kobaia星球上。然而沒有多久，首先移居Kobaia的人們與新遷到的移民發生摩擦進而衝突。Magma專輯特別的地方在於Vander構思出一種稱為Kobaian的[人造語言](https://zh.wikipedia.org/wiki/人造語言 "wikilink")，絕大多數的歌曲皆以此語言演出。之後出版的專輯陸續訴說著更古老的傳說，Kobaian語則在歌曲中繼續扮演關鍵的角色。
 
 在音樂上極富創作與想像力\[1\]\[2\]\[3\]，Magma運用了極多元的和唱方式，專輯*Mekanïk Destruktïw Kommandöh*是對作曲家[Carl Orff致敬](https://zh.wikipedia.org/wiki/Carl_Orff "wikilink")\[4\]，*Wurdah Itah*則表現出受到[貝拉·巴托克的鋼琴音樂與](https://zh.wikipedia.org/wiki/貝拉·巴托克 "wikilink")[伊戈爾·斯特拉文斯基的](https://zh.wikipedia.org/wiki/伊戈爾·斯特拉文斯基 "wikilink")"Les Noces"的影響。爵士樂[薩克斯風](../Page/薩克斯風.md "wikilink")手[約翰·柯川](../Page/約翰·柯川.md "wikilink")對Magma亦有著強大的影響力。\[5\]

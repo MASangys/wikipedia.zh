@@ -1,3 +1,6 @@
+> 本文内容由[TVB周刊](https://zh.wikipedia.org/wiki/TVB周刊)转换而来。
+
+
 《**TVB周刊**》（英語：TVB Weekly）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（英語：Television Broadcasts Limited，簡稱TVB）的官方刊物，由香港[電視廣播出版有限公司负责出版发行](https://zh.wikipedia.org/wiki/電視廣播出版有限公司 "wikilink")，主要報道無綫電視的藝員动向和節目資訊，以及其他生活消闲內容，於1997年5月20日創刊，以接替原官方刊物《[香港電視](../Page/香港電視_\(雜誌\).md "wikilink")》，首期[封面人物為](https://zh.wikipedia.org/wiki/封面人物 "wikilink")[沈殿霞](../Page/沈殿霞.md "wikilink")。《TVB周刊》最初為星期二出版，2007年5月28日第518期起改為逢周一-{出版}-，但通常前一天凌晨已可在便利店及報攤購買該期雜誌。創刊首期定價[港幣](https://zh.wikipedia.org/wiki/港幣 "wikilink")8元，在第646期開始售12元，及後改為售港幣13元。2006年7月至12月每周的發行量為61,127本\[1\]。2013年3月推出“TVB Zone” 流動應用程式，为《TVB周刋》电子揭頁版。
 
 2018年8月23日，TVB在公布本年中期業績时，宣布《TVB周刊》印刷本將會停刊，由網上版取代。\[2\]TVB周刊在第1109期宣佈，2018年10月1日出版的第1110期為最後一期實體版，其后于TVB Weekly网站继续更新網上版。

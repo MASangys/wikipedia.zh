@@ -1,3 +1,6 @@
+> 本文内容由[Trident \(排版引擎\)](https://zh.wikipedia.org/wiki/Trident \(排版引擎\))转换而来。
+
+
 **Trident**（又稱為**MSHTML**、**IE内核**），是[微軟的視窗](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")）搭載的[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")—[Internet Explorer的](../Page/Internet_Explorer.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的名稱，它的第一個版本隨著1997年10月Internet Explorer第四版釋出，之後不斷的加入新的技術並隨著新版本的Internet Explorer釋出。在Internet Explorer第七版中，微軟對Trident排版引擎做了的重大的變動，除了加入新的技術之外，並增加對網頁標準的支持\[1\]。儘管這些變動已經在相當大的程度上落後了其它的排版引擎，如[Gecko](../Page/Gecko.md "wikilink")、[KHTML](../Page/KHTML.md "wikilink")、[Webkit及](https://zh.wikipedia.org/wiki/Webkit "wikilink")[Presto](../Page/Presto.md "wikilink")。
 
 除此之外，[微軟還有另一個網頁瀏覽器排版引擎](https://zh.wikipedia.org/wiki/微軟 "wikilink")，稱為[Tasman](../Page/Tasman.md "wikilink")，它是使用在「[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")」的排版引擎。相較於Trident，Tasman引擎對網頁標準有較佳的支援。與普遍的看法相反的是，[微軟已經停止了](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Mac版本的Internet](https://zh.wikipedia.org/wiki/Mac "wikilink") Explorer的開發，但Tasman的開發仍舊持續，新版本的Tasman引擎仍被應用在一些微軟產品上，例如[Office for Mac](https://zh.wikipedia.org/wiki/Office_for_Mac "wikilink")。

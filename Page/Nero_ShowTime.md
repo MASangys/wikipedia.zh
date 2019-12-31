@@ -1,3 +1,6 @@
+> 本文内容由[Nero ShowTime](https://zh.wikipedia.org/wiki/Nero ShowTime)转换而来。
+
+
 **Nero ShowTime**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Nero AG公司所開發出的一套多媒體播放軟體](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（Media Player），這套播放軟體並沒有單獨銷售，而是隨附在Nero AG公司的其他軟體產品中一同銷售，例如[Nero Burning ROM](../Page/Nero_Burning_ROM.md "wikilink")\[1\]、[Nero Digital等](../Page/Nero_Digital.md "wikilink")。
 
 NeroShow Time的功效及定位類似於[Microsoft的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[Apple的](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")[QuickTime Player](https://zh.wikipedia.org/wiki/QuickTime#QuickTime_播放程式 "wikilink")、Real的[RealPlayer](../Page/RealPlayer.md "wikilink")，用戶多半用其來播放[DVD視訊](https://zh.wikipedia.org/wiki/DVD "wikilink")（DVD-Video）影片、MPEG-4或H.264格式的影片。

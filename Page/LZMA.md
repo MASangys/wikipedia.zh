@@ -1,3 +1,6 @@
+> 本文内容由[LZMA](https://zh.wikipedia.org/wiki/LZMA)转换而来。
+
+
 **LZMA**（[Lempel](https://zh.wikipedia.org/wiki/Abraham_Lempel "wikilink")-[Ziv](https://zh.wikipedia.org/wiki/Jacob_Ziv "wikilink")-[Markov chain](../Page/马尔可夫链.md "wikilink")-[Algorithm的缩写](../Page/算法.md "wikilink")）是2001年以来得到发展的一个[数据压缩](../Page/数据压缩.md "wikilink")算法，它用于[7-Zip](../Page/7-Zip.md "wikilink")归档工具中的[7z](../Page/7z.md "wikilink")格式和 [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink") 下的 [xz](https://zh.wikipedia.org/wiki/xz "wikilink") 格式。它使用类似于[LZ77的](../Page/LZ77与LZ78.md "wikilink")[字典编码机制](https://zh.wikipedia.org/wiki/字典编码 "wikilink")，在一般的情況下壓縮率比[bzip2為高](https://zh.wikipedia.org/wiki/bzip2 "wikilink")，用於壓縮的字典檔案大小可達4GB。
 
 [C++](../Page/C++.md "wikilink")语言写成的LZMA[开放源码压缩库使用了](https://zh.wikipedia.org/wiki/开放源码 "wikilink")[区间编码](../Page/区间编码.md "wikilink")支持的[LZ77改进压缩算法以及特殊的用于二进制的预处理程序](../Page/LZ77与LZ78.md "wikilink")。LZMA 对数据流、重复序列大小以及重续序列位置单独进行了压缩。LZMA支持几种[散列链变体](https://zh.wikipedia.org/wiki/散列链 "wikilink")、[二叉树](../Page/二叉树.md "wikilink")以及[基数树作为它的字典查找算法基础](https://zh.wikipedia.org/wiki/基数树 "wikilink")。

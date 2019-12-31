@@ -1,3 +1,6 @@
+> 本文内容由[3DLABS](https://zh.wikipedia.org/wiki/3DLABS)转换而来。
+
+
 **3DLABS**（三維實驗室）成立於1984年，曾是一家[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")，目前已歇業。3DLABS總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[森尼韋爾](../Page/森尼韦尔_\(加利福尼亚州\).md "wikilink")。3DLABS主要开發高端繪圖晶片。其著名產品是Wildcat與Oxygen系列顯示卡。
 
 [ELSA_Gloria_L-88.jpg](https://zh.wikipedia.org/wiki/File:ELSA_Gloria_L-88.jpg "fig:ELSA_Gloria_L-88.jpg")

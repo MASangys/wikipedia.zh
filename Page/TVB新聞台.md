@@ -1,3 +1,6 @@
+> 本文内容由[TVB新聞台](https://zh.wikipedia.org/wiki/TVB新聞台)转换而来。
+
+
 **TVB新聞台**（，英文全稱為）為[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下之新聞頻道，於[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")於[無綫收費電視平台開始播放](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，由[無綫新聞部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，是[香港](../Page/香港.md "wikilink")其中一條24小時新聞財經頻道。本頻道除了台徽、廣告之别，節目播放安排基本與[無綫新聞台](../Page/無綫新聞台.md "wikilink")無異。
 
 該頻道的主要競爭對手為[香港有線電視](../Page/香港有線電視.md "wikilink")擁有的[有線新聞台](../Page/有線新聞台.md "wikilink")及[now寬頻電視擁有的](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。

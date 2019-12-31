@@ -1,3 +1,6 @@
+> 本文内容由[MediaGX](https://zh.wikipedia.org/wiki/MediaGX)转换而来。
+
+
 [Media_GX.jpg](https://zh.wikipedia.org/wiki/File:Media_GX.jpg "fig:Media_GX.jpg")
 
 **MediaGX**是[Cyrix](../Page/Cyrix.md "wikilink")公司於1997年所發創、開展的[x86整合型處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")\[1\]，該處理器雖由Cyrix公司所設計，但Cyrix公司為Fabless型態的[半導體業者](https://zh.wikipedia.org/wiki/半導體 "wikilink")，沒有自屬的晶圓廠，因此發表之初是委託[IBM公司代為產製](https://zh.wikipedia.org/wiki/IBM公司 "wikilink")，之後Cyrix公司由NS公司\[2\]所收併，才逐漸將產製線由IBM移轉至NS，此一轉移至1998年初才澈底完成。

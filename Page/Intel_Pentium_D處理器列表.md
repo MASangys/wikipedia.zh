@@ -1,3 +1,6 @@
+> 本文内容由[Intel Pentium D處理器列表](https://zh.wikipedia.org/wiki/Intel Pentium D處理器列表)转换而来。
+
+
 Pentium D / Pentium Extreme Edition為[英特爾推出的第七代微處理器](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 ## 雙核心桌面處理器

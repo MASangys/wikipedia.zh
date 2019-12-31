@@ -1,3 +1,6 @@
+> 本文内容由[XML Schema](https://zh.wikipedia.org/wiki/XML Schema)转换而来。
+
+
 **XSD (XML Schema Definition)**是[W3C于](https://zh.wikipedia.org/wiki/World_Wide_Web_Consortium "wikilink")2001年5月发布的推荐标准，指出如何形式描述XML文档的元素。XSD是許多[XML Schema 语言中的一支](../Page/XML_Schema_语言.md "wikilink")。XSD是首先分離於XML本身的schema語言，故取得W3C的推薦地位。
 
 像所有[XML Schema 语言一樣](../Page/XML_Schema_语言.md "wikilink")，XSD用來描述一組规则──一个XML文件必須遵守这些規则，才能根據該schema『合法（Valid）』。

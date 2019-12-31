@@ -1,3 +1,6 @@
+> 本文内容由[DAF](https://zh.wikipedia.org/wiki/DAF)转换而来。
+
+
 [Morrisons_2006_DAF_CF_truck_with_refrigerated_trailer,_16_January_2009.jpg](https://zh.wikipedia.org/wiki/File:Morrisons_2006_DAF_CF_truck_with_refrigerated_trailer,_16_January_2009.jpg "fig:Morrisons_2006_DAF_CF_truck_with_refrigerated_trailer,_16_January_2009.jpg") [DAF_YP_408_UNIFIL.jpg](https://zh.wikipedia.org/wiki/File:DAF_YP_408_UNIFIL.jpg "fig:DAF_YP_408_UNIFIL.jpg")）\]\]
 
 **DAF Trucks N.V.**（[荷文](https://zh.wikipedia.org/wiki/荷文 "wikilink")：Van **D**oorne's **A**utomobiel **F**abriek，縮寫為DAF）為[歐洲著名的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[商用车辆生產商](https://zh.wikipedia.org/wiki/商用车辆 "wikilink")。

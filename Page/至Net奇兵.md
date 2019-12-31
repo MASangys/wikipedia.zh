@@ -1,3 +1,6 @@
+> 本文内容由[至Net奇兵](https://zh.wikipedia.org/wiki/至Net奇兵)转换而来。
+
+
 《**至Net奇兵**》（），又稱《利奧高行動》、《-{虚幻勇士}-》、《代號：利奧高》（意譯）、《密碼：利奧高》（意譯），前身是《**Garage Kids**》（車庫兒童），是一套[法國出產的](https://zh.wikipedia.org/wiki/法國 "wikilink")[卡通](../Page/卡通.md "wikilink")片。它含有[日本](../Page/日本.md "wikilink")[卡通片和](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[電腦生成（合成）動畫（CGI）的特色](https://zh.wikipedia.org/wiki/CGI "wikilink")，由[門士戈夫](https://zh.wikipedia.org/wiki/門士戈夫 "wikilink")（Moonscoop）[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")（第一輯時叫Antefilms）製作 ，[AGOGO公司也有參與品質控制相关的工作](https://zh.wikipedia.org/wiki/AGOGO "wikilink")，由[法國3電視台](https://zh.wikipedia.org/wiki/法國電視台 "wikilink")（France 3）、[J頻道](https://zh.wikipedia.org/wiki/J頻道 "wikilink")（[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")）、[YTV](../Page/YTV.md "wikilink")（[加拿大](../Page/加拿大.md "wikilink")）、[卡通頻道](../Page/卡通頻道.md "wikilink")（[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）和[無綫電視](../Page/電視廣播有限公司.md "wikilink")（[香港](../Page/香港.md "wikilink")）播映，中國大陆曾以-{虚幻勇士}-的名称播放过第一，二季，但因被查出伪造制作国籍（将法国制的本动画伪造为中国动画）而已被中國[广电总局禁播](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。
 
 目前共推出123集，每集约长24分钟，共5季。第一季、第二季和第五季均为26集，第三季仅13集，第四季有30集，另有2集前传。前四季以2D的手绘动画（现实世界）与3D的CG动画（虚拟世界）形式呈现，第五季改为真人（现实世界）配合CG动画（虚拟世界）的形式呈现。

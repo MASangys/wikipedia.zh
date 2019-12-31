@@ -1,3 +1,6 @@
+> 本文内容由[Newtype \(雜誌\)](https://zh.wikipedia.org/wiki/Newtype \(雜誌\))转换而来。
+
+
 [日語版Newtype
 2006年11月號](https://zh.wikipedia.org/wiki/File:Newtypejp_200611.jpg "fig:日語版Newtype 2006年11月號")
 

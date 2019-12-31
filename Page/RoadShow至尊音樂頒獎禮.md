@@ -1,3 +1,6 @@
+> 本文内容由[RoadShow至尊音樂頒獎禮](https://zh.wikipedia.org/wiki/RoadShow至尊音樂頒獎禮)转换而来。
+
+
 **RoadShow至尊音樂頒獎禮**，是由香港戶外媒體供應商[路訊通](../Page/路訊通.md "wikilink")所舉辦，由2006年起於每年1月舉辦，只舉辦了3屆，自2009年起停止舉辦。
 
 ## 歷史

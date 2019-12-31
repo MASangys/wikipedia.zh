@@ -1,3 +1,6 @@
+> 本文内容由[AMule](https://zh.wikipedia.org/wiki/AMule)转换而来。
+
+
 **aMule**是一个[开源](../Page/开源软件.md "wikilink")[免费的](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享软件](https://zh.wikipedia.org/wiki/文件共享 "wikilink")，遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")协议发布。类似于[eMule](https://zh.wikipedia.org/wiki/eMule "wikilink")。基于[xMule和](https://zh.wikipedia.org/wiki/xMule "wikilink")[lMule](https://zh.wikipedia.org/wiki/lMule "wikilink")。可应用[eDonkey网络](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[协议](../Page/网络传输协议.md "wikilink")，也支持[KAD网络](../Page/Kademlia.md "wikilink")。可在包括各种[类Unix系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Windows在内的多种操作系统下运行](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 元件

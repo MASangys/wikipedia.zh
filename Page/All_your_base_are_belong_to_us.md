@@ -1,3 +1,6 @@
+> 本文内容由[All your base are belong to us](https://zh.wikipedia.org/wiki/All your base are belong to us)转换而来。
+
+
 「**All your base are belong to us**」（簡稱**AYBABTU**、**All your base**或**AYB**'）是一句文法有誤的英語句子（[Engrish](../Page/Engrish.md "wikilink")），經過[互聯網傳播致使廣泛流傳](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，並成為了一個[網絡迷因](https://zh.wikipedia.org/wiki/網絡迷因 "wikilink")。此句文法錯誤的英文被視為西方[網絡爆紅現象的經典例子](https://zh.wikipedia.org/wiki/網絡爆紅列表 "wikilink")。
 
 這個網絡迷因起初是以遊戲中[GIF](../Page/GIF.md "wikilink")動畫的形式出現\[1\]，後來被-{消息}-論壇[Something Awful的用戶傳播](https://zh.wikipedia.org/wiki/Something_Awful "wikilink")，並最終成為一個網絡迷因。\[2\]

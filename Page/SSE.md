@@ -1,3 +1,6 @@
+> 本文内容由[SSE](https://zh.wikipedia.org/wiki/SSE)转换而来。
+
+
 **SSE（Streaming SIMD Extensions）**是[英特尔](../Page/英特尔.md "wikilink")在[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[3D Now\!发布一年之后](../Page/3DNow!.md "wikilink")，在其计算机芯片[Pentium III中引入的指令集](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")，是繼[MMX](../Page/MMX.md "wikilink")的擴充指令集。SSE指令集提供了70條新指令。[AMD后来在](https://zh.wikipedia.org/wiki/AMD "wikilink")[Athlon XP中加入了对这个新指令集的支持](https://zh.wikipedia.org/wiki/Athlon "wikilink")。
 
 ## SSE的暫存器

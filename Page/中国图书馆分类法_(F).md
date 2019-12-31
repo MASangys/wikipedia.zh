@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(F\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(F\))转换而来。
+
+
 F类，经济。
 
 ## F0 [经济学](../Page/经济学.md "wikilink")

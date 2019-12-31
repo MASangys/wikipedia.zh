@@ -1,3 +1,6 @@
+> 本文内容由[RelaxBSD](https://zh.wikipedia.org/wiki/RelaxBSD)转换而来。
+
+
 [RelaxBSD_logo.gif](https://zh.wikipedia.org/wiki/File:RelaxBSD_logo.gif "fig:RelaxBSD_logo.gif")
 
 **RelaxBSD**是一套中国大陆用户在[FreeBSD](../Page/FreeBSD.md "wikilink")的基础上开发的，方便中文用户使用的BSD系统。目前其官方网站relaxbsd.org已经关闭，故可以判断该系统已经停止开发。

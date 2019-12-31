@@ -1,3 +1,6 @@
+> 本文内容由[周國豐 \(DJ\)](https://zh.wikipedia.org/wiki/周國豐 \(DJ\))转换而来。
+
+
 **周國豐**（**Brian Chow**，），1980年代曾是香港童星，2017元旦起接任[香港電台](../Page/香港電台.md "wikilink")電台及節目策劃總監，曾任[香港電台第二台](../Page/香港電台第二台.md "wikilink")及[香港電台普通話台](../Page/香港電台普通話台.md "wikilink")台長，也是一位[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、電視節目主持人。
 
 ## 家庭

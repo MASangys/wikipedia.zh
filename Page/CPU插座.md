@@ -1,3 +1,6 @@
+> 本文内容由[CPU插座](https://zh.wikipedia.org/wiki/CPU插座)转换而来。
+
+
 [Socket_775.jpg](https://zh.wikipedia.org/wiki/File:Socket_775.jpg "fig:Socket_775.jpg")插座（圖中為[LGA775](https://zh.wikipedia.org/wiki/LGA775 "wikilink")）\]\] [SocketA.jpg](https://zh.wikipedia.org/wiki/File:SocketA.jpg "fig:SocketA.jpg")插座（圖中為[Socket 462](https://zh.wikipedia.org/wiki/Socket_462 "wikilink")）\]\]
 
 **CPU插座**，中央处理器插座（）是電腦裡[主機板上固定住](https://zh.wikipedia.org/wiki/主機板 "wikilink")[CPU並導通電氣訊號的一種](https://zh.wikipedia.org/wiki/CPU "wikilink")[插座](https://zh.wikipedia.org/wiki/插座 "wikilink")。

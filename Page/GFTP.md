@@ -1,3 +1,6 @@
+> 本文内容由[GFTP](https://zh.wikipedia.org/wiki/GFTP)转换而来。
+
+
 [GFTP.jpg](https://zh.wikipedia.org/wiki/File:GFTP.jpg "fig:GFTP.jpg") **gFTP** 是一個在\*NIX上使用的（[unix](https://zh.wikipedia.org/wiki/unix "wikilink")，[linux](https://zh.wikipedia.org/wiki/linux "wikilink")，[BSD](../Page/BSD.md "wikilink")，etc.）[自由的多線程](../Page/GNU.md "wikilink")[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink") [客戶端](https://zh.wikipedia.org/wiki/FTP_客戶端 "wikilink")，其建基於[X11R6](https://zh.wikipedia.org/wiki/X11 "wikilink") 或以後的版本。gFTP在[GPL下發布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")，並且已被翻譯成41種不同語言。
 
 ## 特色

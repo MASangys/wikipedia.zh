@@ -1,3 +1,6 @@
+> 本文内容由[Soft On Demand](https://zh.wikipedia.org/wiki/Soft On Demand)转换而来。
+
+
 **ソフト・オン・デマンド株式会社**（），通稱**SOD**，是一個[日本](../Page/日本.md "wikilink")的[成人影片集團公司](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")，總部設在東京的[中野區](../Page/中野區.md "wikilink")，成立於1995年12月。\[1\]是日本最大的成人影片公司之一，因其對成人影片的創造性內容而聞名。\[2\]
 
 ## 概要

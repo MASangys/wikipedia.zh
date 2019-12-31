@@ -1,3 +1,6 @@
+> 本文内容由[MSV杜伊斯堡](https://zh.wikipedia.org/wiki/MSV杜伊斯堡)转换而来。
+
+
 **杜伊斯堡迈德里希竞赛俱乐部**（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")****）簡稱：**杜伊斯堡**（****）是位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[北莱茵-威斯特法伦](../Page/北莱茵-威斯特法伦.md "wikilink")魯爾河谷（）內[杜伊斯堡](../Page/杜伊斯堡.md "wikilink")的-{zh-hans:足球俱乐部; zh-hk:足球會;}-，於[2006－07年獲得](../Page/2006年至2007年德國足球乙級聯賽.md "wikilink")[德乙季軍](https://zh.wikipedia.org/wiki/德乙 "wikilink")，再次升級到[德甲比賽](https://zh.wikipedia.org/wiki/德甲 "wikilink")。[翌年在德甲敬陪末席](https://zh.wikipedia.org/wiki/2007年至2008年德國足球甲級聯賽 "wikilink")，再度降回[德乙打拚](https://zh.wikipedia.org/wiki/德乙 "wikilink")。
 
 ## 球會歷史

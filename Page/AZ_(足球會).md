@@ -1,3 +1,6 @@
+> 本文内容由[AZ \(足球會\)](https://zh.wikipedia.org/wiki/AZ \(足球會\))转换而来。
+
+
 [DSB-Stadion.jpg](https://zh.wikipedia.org/wiki/File:DSB-Stadion.jpg "fig:DSB-Stadion.jpg")
 
 **阿爾克馬爾辛斯卓克**（-{zh-cn:）; zh-tw:）;zh-hk:，澳門譯作**艾克馬亞**）; zh-mo:，又譯**阿爾克馬爾**）}-，國內通稱***AZ***，國際上則稱為AZ阿爾克馬爾（*AZ Alkmaar*）。是一間位於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[阿爾克馬爾市的足球會](https://zh.wikipedia.org/wiki/阿爾克馬爾 "wikilink")，於1967年5月10日成立，目前在[荷蘭甲組足球聯賽作賽](https://zh.wikipedia.org/wiki/荷蘭甲組足球聯賽 "wikilink")。當時的名稱是***AZ '67***，由兩間球會*Alkmaar '54*和*FC Zaanstreek*合併而成。阿爾克馬爾是2008-09年球季的荷甲冠軍。

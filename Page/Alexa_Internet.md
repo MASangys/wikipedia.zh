@@ -1,3 +1,6 @@
+> 本文内容由[Alexa Internet](https://zh.wikipedia.org/wiki/Alexa Internet)转换而来。
+
+
 **Alexa Internet公司**是[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")的一家子公司，總部位於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。於1996年由布魯斯特·卡勒及布鲁斯·吉里亚特创立。作為[互聯網檔案館的分支](https://zh.wikipedia.org/wiki/互聯網檔案館 "wikilink")，受到杰奎琳·萨福拉的埃托勒投资支持。1999年，Alexa被亞馬遜公司以約價值兩億五千萬美元的[股票](../Page/股票.md "wikilink")買下。\[1\]
 
 Alexa分析提供各种[網站](../Page/網站.md "wikilink")的相關資訊與网页访问量，以其Alexa.com網站闻名。透過收集用户的上網資訊，以便統計網站流量及相關資訊。Alexa為Alexadex.com提供[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，並為A9.com搜索引擎提供「網站資訊」服務。

@@ -1,3 +1,6 @@
+> 本文内容由[Nautilus檔案瀏覽器](https://zh.wikipedia.org/wiki/Nautilus檔案瀏覽器)转换而来。
+
+
 **Nautilus**是[GNOME](../Page/GNOME.md "wikilink")桌面預設的[檔案瀏覽器](https://zh.wikipedia.org/wiki/檔案瀏覽器 "wikilink")。它被設計為檔案瀏覽器，但同時亦可作為網頁瀏覽器及檔案檢視器。它是用來在GNOME2.0中取代GNOME1.0所使用的[Midnight Commander](https://zh.wikipedia.org/wiki/Midnight_Commander "wikilink")。
 
 它曾是已消失的[Eazel公司的旗艦產品](https://zh.wikipedia.org/wiki/Eazel "wikilink")。

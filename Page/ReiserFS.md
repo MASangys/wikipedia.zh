@@ -1,3 +1,6 @@
+> 本文内容由[ReiserFS](https://zh.wikipedia.org/wiki/ReiserFS)转换而来。
+
+
 **ReiserFS**，是一种[文件系统](../Page/文件系统.md "wikilink")格式，作者是[汉斯·瑞塞尔](https://zh.wikipedia.org/wiki/汉斯·瑞塞尔 "wikilink")（Hans Reiser）及其團隊Namesys，1997年7月23日他将ReiserFS文件系统在[互联网](../Page/互联网.md "wikilink")上公布。[Linux内核](../Page/Linux内核.md "wikilink")从2.4.1版本开始支持ReiserFS。
 
 ReiserFS的命名是源自作者Hans Reiser的姓氏，這個日誌型檔案系統發展比ext2/3晚近許多。在技術上使用的是B\*-tree為基礎的檔案系統，其特色為能很高效率地處理大型檔案到眾多小檔案；實務上ReiserFS在處理檔案小於1k小檔案時，甚至效率可以比ext3快約10倍。

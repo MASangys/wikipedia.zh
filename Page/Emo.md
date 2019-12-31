@@ -1,3 +1,6 @@
+> 本文内容由[Emo](https://zh.wikipedia.org/wiki/Emo)转换而来。
+
+
 **Emo**（有譯作**情緒搖滾**或**情感硬核**）是-{zh-hans:[硬核朋克](../Page/硬核朋克.md "wikilink");zh-hant:[硬蕊龐克](https://zh.wikipedia.org/wiki/硬蕊龐克 "wikilink");}-樂的一個子類別。1980年代中期在[華盛頓特區舉行的](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")[硬核龐克運動中](https://zh.wikipedia.org/wiki/硬核龐克 "wikilink")，它成為[後硬核](../Page/後硬核.md "wikilink")的風格，在當時被稱為情感硬核或emocore，由[Rites of Spring和](../Page/Rites_of_Spring.md "wikilink")[Embrace](../Page/Embrace.md "wikilink")等樂團所開創。1990年代初期emo經由[另類搖滾和](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")[獨立搖滾及](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")[流行龐克改造](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")，像是Jawbreaker樂團、Sunny Day Real Estate樂團、Weezer樂團和Jimmy Eat World樂團。1990年代中期Braid樂團、Promise Ring樂團和Get Up Kids樂團等在美國中西部爆發式([Midwest emo](https://zh.wikipedia.org/wiki/:en:Midwest_emo "wikilink"))場景中脫穎而出，許多獨立唱片公司開始專注發掘此種樂風。同時期更具侵略性的尖叫聲([screamo](https://zh.wikipedia.org/wiki/:en:screamo "wikilink"))風格出現了，由[加州聖地牙哥的Heroin和Antioch](https://zh.wikipedia.org/wiki/加州 "wikilink") Arrow等樂團率先推出。
 
 ## 起源

@@ -1,3 +1,6 @@
+> 本文内容由[S3 Graphics](https://zh.wikipedia.org/wiki/S3 Graphics)转换而来。
+
+
 **S3 Graphics**是一家以設計顯示晶元為主的半導體公司，先-{zh-hans:后;zh-hant:後}-被[威盛電子](../Page/威盛電子.md "wikilink")（VIA）和[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")（HTC）\[1\]所併購。
 
 ## 歷史

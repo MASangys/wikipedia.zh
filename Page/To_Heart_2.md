@@ -1,3 +1,6 @@
+> 本文内容由[To Heart 2](https://zh.wikipedia.org/wiki/To Heart 2)转换而来。
+
+
 《**ToHeart2**》是由[日本](../Page/日本.md "wikilink")的[Leaf](../Page/Leaf.md "wikilink")／[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")公司在2004年12月28日發行的[PS2平台上的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。之後發行[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")、[電視動畫和](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[OVA等](https://zh.wikipedia.org/wiki/OVA "wikilink")。 ToHeart2的故事情節是發生在《[To Heart](../Page/To_Heart.md "wikilink")》一代的兩年之後的同一所高中裡，幾乎所有的角色都是新登場的，只有姬百合姐妹在上一代的相關動畫《To Heart \~Remember My Memories\~》中登場過。
 
 ## 歷史

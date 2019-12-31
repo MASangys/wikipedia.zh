@@ -1,3 +1,6 @@
+> 本文内容由[Times New Roman](https://zh.wikipedia.org/wiki/Times New Roman)转换而来。
+
+
 [GeorgiatTmes.svg](https://zh.wikipedia.org/wiki/File:GeorgiatTmes.svg "fig:GeorgiatTmes.svg")的字體大小和間距比較\]\]
 
 **Times New Roman**（泰晤士新罗马），可能是最常見且廣為人知的[襯線字體之一](https://zh.wikipedia.org/wiki/襯線字體 "wikilink")，在字体设计上属于过渡型[衬线體](https://zh.wikipedia.org/wiki/衬线體 "wikilink")，對後來的[字型](../Page/字型.md "wikilink")產生了很深遠的影響。另外由於其中規中矩、四平八穩的經典外觀，所以經常被選擇為標準[字體之一](https://zh.wikipedia.org/wiki/字體 "wikilink")。

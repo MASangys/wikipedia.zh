@@ -1,3 +1,6 @@
+> 本文内容由[Windows Server 2008](https://zh.wikipedia.org/wiki/Windows Server 2008)转换而来。
+
+
 **Windows Server 2008**是微軟的一个[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，繼承[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")\[1\]\[2\]。Windows Server 2008在進行開發及測試時的代號為**Windows Server "Longhorn"**。
 
 Windows Server 2008是一套和[Windows Vista](../Page/Windows_Vista.md "wikilink")（代號為*Longhorn*）相对应的服务器操作系统，兩者擁有很多相同功能。與[Windows 2000的Professional版和Server版一樣](../Page/Windows_2000.md "wikilink")，兩者在開發時共用大多數的程式碼，連[Service Pack皆可共用](https://zh.wikipedia.org/wiki/Service_Pack "wikilink")；Vista和Server 2008、XP和Server 2003間存在相似的關係。（XP和Server 2003的代號分別為*Whistler*及*Whistler Server*）

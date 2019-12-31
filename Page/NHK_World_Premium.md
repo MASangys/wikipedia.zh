@@ -1,3 +1,6 @@
+> 本文内容由[NHK World Premium](https://zh.wikipedia.org/wiki/NHK World Premium)转换而来。
+
+
 [NHK_logo.svg](https://zh.wikipedia.org/wiki/File:NHK_logo.svg "fig:NHK_logo.svg")使用NHK標誌的白色半透明版本，与[NHK World-Japan有别](../Page/NHK_World-Japan_\(頻道\).md "wikilink")\[1\]\]\]
 
 **NHK World Premium**（）是[日本廣播協會](../Page/日本廣播協會.md "wikilink")（NHK）使用[日语](../Page/日语.md "wikilink")及[英语](../Page/英语.md "wikilink")进行[国际广播](../Page/国际广播.md "wikilink")的[收费电视](https://zh.wikipedia.org/wiki/收费电视 "wikilink")[綜合頻道](../Page/綜合頻道.md "wikilink")。

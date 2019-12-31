@@ -1,3 +1,6 @@
+> 本文内容由[STUN](https://zh.wikipedia.org/wiki/STUN)转换而来。
+
+
 **STUN**（**Session Traversal Utilities for NAT**，NAT会话穿越应用程序）是一种[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，它允许位于[NAT](../Page/网络地址转换.md "wikilink")（或多重NAT）后的客户端找出自己的公网地址，查出自己位于哪种类型的NAT之后以及NAT为某一个本地端口所绑定的Internet端端口。这些信息被用来在两个同时处于NAT路由器之后的主机之间建立UDP通信。该协议由RFC 5389定义。
 
 ## 方案

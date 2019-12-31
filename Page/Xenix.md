@@ -1,3 +1,6 @@
+> 本文内容由[Xenix](https://zh.wikipedia.org/wiki/Xenix)转换而来。
+
+
 **Xenix**是一种[UNIX](../Page/UNIX.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，可在[個人電腦及](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[微型计算机](../Page/微型计算机.md "wikilink")上使用。该系统由[微軟公司在](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")1979年从[美国电话电报公司获得授权](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，為[Intel處理器所开发](https://zh.wikipedia.org/wiki/Intel "wikilink")。后来，[聖克魯茲作業](../Page/聖克魯茲作業.md "wikilink")公司（SCO）收购了其独家使用权，自那以后，该公司开始以[SCO UNIX](https://zh.wikipedia.org/wiki/SCO_UNIX "wikilink")（亦被称作SCO OpenServer）为名发售。值得一提的是，它還能在DEC PDP-11或是Apple Lisa電腦執行。它繼承了UNIX的特性，Xenix具備了多人多工的工作環境，符合UNIX System V的介面規格 （SVID）。
 
 ## 历史

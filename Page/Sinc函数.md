@@ -1,3 +1,6 @@
+> 本文内容由[Sinc函数](https://zh.wikipedia.org/wiki/Sinc函数)转换而来。
+
+
 [Sinc_function_(both).svg](https://zh.wikipedia.org/wiki/File:Sinc_function_\(both\).svg "fig:Sinc_function_(both).svg")
 
 **sinc函数**（）是一種[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")，在不同的領域它有不同的定義。數學家們用符號 \(\mathrm{sinc}(x)\,\) 表示這種函數。 sinc函数可以被定義为**归一化的**或者**非归一化的**，不過兩種函數都是[正弦函数和](https://zh.wikipedia.org/wiki/正弦函数 "wikilink")[单调的](../Page/单调函数.md "wikilink")[递减函数](https://zh.wikipedia.org/wiki/递减函数 "wikilink") 1/*x*的乘积：

@@ -1,3 +1,6 @@
+> 本文内容由[IPASS一卡通](https://zh.wikipedia.org/wiki/IPASS一卡通)转换而来。
+
+
 [Iccard.gif](https://zh.wikipedia.org/wiki/File:Iccard.gif "fig:Iccard.gif")
 
 **iPASS一卡通**（）是[臺灣](../Page/臺灣.md "wikilink")的一家作為[電子票證的](../Page/電子貨幣.md "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")品牌，由[一卡通票證公司](../Page/一卡通票證公司.md "wikilink")發行，於2007年12月正式發卡，是台灣第二家具規模的電子票證支付卡。一卡通產品的口號是「一卡在手，讓你四通八達；讓生活簡單自由」。目前發行量約為2100萬張，每日交易筆數約115萬筆。\[1\]。

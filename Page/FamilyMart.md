@@ -1,3 +1,6 @@
+> 本文内容由[FamilyMart](https://zh.wikipedia.org/wiki/FamilyMart)转换而来。
+
+
 [FamilyMart_logo.svg](https://zh.wikipedia.org/wiki/File:FamilyMart_logo.svg "fig:FamilyMart_logo.svg")
 
 **FamilyMart**（；中文多譯為**全家**或**全家便利商店**）是源自[日本](../Page/日本.md "wikilink")的[跨國](../Page/跨國公司.md "wikilink")[連鎖](../Page/連鎖店.md "wikilink")[便利商店](../Page/便利商店.md "wikilink")，除了日本之外，在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[馬來西亞等地以](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[特許經營的方式開設門市](https://zh.wikipedia.org/wiki/特許經營 "wikilink")。目前與[7-Eleven](../Page/7-Eleven.md "wikilink")、[Lawson並列為](../Page/羅森_\(便利店\).md "wikilink")，並在日本所有[都道府縣完成展店](https://zh.wikipedia.org/wiki/都道府縣 "wikilink")。

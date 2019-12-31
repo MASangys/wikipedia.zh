@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TJ\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TJ\))转换而来。
+
+
   - TJ [武器工业](https://zh.wikipedia.org/wiki/武器工业 "wikilink")
 
 :\*TJ-9 武器工业经济

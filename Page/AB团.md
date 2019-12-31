@@ -1,3 +1,6 @@
+> 本文内容由[AB团](https://zh.wikipedia.org/wiki/AB团)转换而来。
+
+
 [Lianjiang_Academy_-_Former_site_of_Pingchuan_High_School.jpg](https://zh.wikipedia.org/wiki/File:Lianjiang_Academy_-_Former_site_of_Pingchuan_High_School.jpg "fig:Lianjiang_Academy_-_Former_site_of_Pingchuan_High_School.jpg")[潋江书院](../Page/潋江书院.md "wikilink")墙壁上的标语“打倒勾结军阀进攻革命的AB团……”\]\] **AB团**是[中国国民党中反共者于](https://zh.wikipedia.org/wiki/中国国民党 "wikilink")1926年12月在[江西成立的一个团体](https://zh.wikipedia.org/wiki/江西 "wikilink")，AB团的主要工作是在与[共产党争夺江西省国民党的党内权力](../Page/中国共产党.md "wikilink")。
 
 [第一次国共合作时期](https://zh.wikipedia.org/wiki/第一次国共合作 "wikilink")，共产党帮助国民党在江西建立党组织。因此在国民党江西省党部中[共产党员和](https://zh.wikipedia.org/wiki/中国共产党员 "wikilink")[国民党左派](../Page/国民党左派.md "wikilink")占有优势。1926年11月8日，[北伐军攻克](https://zh.wikipedia.org/wiki/北伐军 "wikilink")[南昌](https://zh.wikipedia.org/wiki/南昌 "wikilink")。[蒋介石发现江西的国民党省](https://zh.wikipedia.org/wiki/蒋介石 "wikilink")、市党部，完全由共产党员“把持党务”。于是蒋介石指示国民党[中央特派员](https://zh.wikipedia.org/wiki/中央特派员 "wikilink")[段锡朋](../Page/段锡朋.md "wikilink")组织AB团。与共产党争夺江西省国民党的领导权\[1\]。有说“AB”是英文Anti-Bolševik的缩写，意思是反[布尔什维克](../Page/布尔什维克.md "wikilink")\[2\]。1927年4月2日，发生了针对江西省国民党党部的[四·二暴动](https://zh.wikipedia.org/wiki/四·二暴动 "wikilink")，AB团随后垮台。但其影响并未结束。此后数年，共产党在其党群机关中开展一系列的[反AB团运动](https://zh.wikipedia.org/wiki/反AB团 "wikilink")。

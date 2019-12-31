@@ -1,3 +1,6 @@
+> 本文内容由[GARNET CROW](https://zh.wikipedia.org/wiki/GARNET CROW)转换而来。
+
+
 **GARNET CROW**是一组[日本](../Page/日本.md "wikilink")樂團，唱片公司为[GIZA studio](../Page/GIZA_studio.md "wikilink")，於1999年結成，2000年出道。以Neo Acoustic為主軸。結成初期沒有舉行任何演唱會，亦沒有在任何電視節目中表演，在2002年後才開始舉行演唱會及出演電視節目。2013年6月9日於最後一場演唱會中宣告解散。
 
 ## 樂團情報

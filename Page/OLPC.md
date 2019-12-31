@@ -1,3 +1,6 @@
+> 本文内容由[OLPC](https://zh.wikipedia.org/wiki/OLPC)转换而来。
+
+
 [Wikimania_2007_IMG_0012_(1402361411).jpg](https://zh.wikipedia.org/wiki/File:Wikimania_2007_IMG_0012_\(1402361411\).jpg "fig:Wikimania_2007_IMG_0012_(1402361411).jpg") **一童一電腦**（，），由[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")[多媒體實驗室發起並組織為一個非營利組織](https://zh.wikipedia.org/wiki/多媒體實驗室 "wikilink")，藉由生產接近100美元的筆記型電腦，給對這項計畫有興趣的[開發中國家](https://zh.wikipedia.org/wiki/開發中國家 "wikilink")，由該國政府直接提供給[兒童使用](https://zh.wikipedia.org/wiki/兒童 "wikilink")，降低知識鴻溝，故又稱[百元電腦](https://zh.wikipedia.org/wiki/百元電腦 "wikilink")。
 
 OLPC為成立於[德拉瓦州的](https://zh.wikipedia.org/wiki/德拉瓦州 "wikilink")[非營利組織](../Page/非營利組織.md "wikilink")，用以監督「小孩的機器」計畫和建構[XO-1](../Page/XO-1.md "wikilink")百元電腦。2005年1月在瑞士達沃斯召開的[世界經濟論壇](../Page/世界經濟論壇.md "wikilink")上同時宣佈計畫和組織的成立。

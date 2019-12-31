@@ -1,3 +1,6 @@
+> 本文内容由[Portal:北京/PictureHistroy](https://zh.wikipedia.org/wiki/Portal:北京/PictureHistroy)转换而来。
+
+
 -----
 
 [The_Bronze_Temple,_Peking.jpg](https://zh.wikipedia.org/wiki/File:The_Bronze_Temple,_Peking.jpg "fig:The_Bronze_Temple,_Peking.jpg") [颐和园](../Page/颐和园.md "wikilink")位于中國北京市西北海淀区，占地290公顷，是一座巨大的皇家园林和清朝的行宮。修建于清朝乾隆年间、重建于光绪年间，曾属于清朝北京西郊[三山五园](../Page/三山五园.md "wikilink")之一。颐和园素以人工建筑与自然山水巧妙结合的造园手法著称于世，是中国园林艺术顶峰时期的代表，凡举中国造园艺术中的山水规划、借景、蓦拟、对景等手段，都在颐和园中得到体现。1998年被评为世界文化遺產。图为颐和园萬壽山腳下的銅亭，門窗柱頂皆用銅製。

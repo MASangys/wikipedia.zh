@@ -1,3 +1,6 @@
+> 本文内容由[JRE](https://zh.wikipedia.org/wiki/JRE)转换而来。
+
+
 {{ Infobox Software | name = Java Runtime Environment (JRE) | logo = | screenshot = | caption = | developer = [昇陽電腦](../Page/昇陽電腦.md "wikilink")（母公司[甲骨文公司](../Page/甲骨文公司.md "wikilink")） | latest release version = 8 Update 151 | latest release date =  | latest preview version = 9.0.1 | latest preview date =  | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming language = [Java](../Page/Java.md "wikilink") | genre = [Java虚拟机](../Page/Java虚拟机.md "wikilink") | license = Sun协议 (大部分基于 [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")) | website = <http://www.oracle.com/technetwork/java/javase/> }}
 
 **Java執行環境**（，簡稱）是一個軟體，由昇陽電腦所研發，可以讓[電腦系統執行Java應用程式](https://zh.wikipedia.org/wiki/電腦系統 "wikilink")（Java Application）。

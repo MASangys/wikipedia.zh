@@ -1,3 +1,6 @@
+> 本文内容由[Asterisk](https://zh.wikipedia.org/wiki/Asterisk)转换而来。
+
+
 **Asterisk** 是第一套以[開放原始碼軟體實作的](https://zh.wikipedia.org/wiki/開放原始碼軟體 "wikilink") [用戶交換機](https://zh.wikipedia.org/wiki/用戶交換機 "wikilink") (PBX) 系統\[1\]。Asterisk 由 [Digium](https://zh.wikipedia.org/wiki/Digium "wikilink") 的創辦人[馬克·史賓瑟](https://zh.wikipedia.org/wiki/馬克·史賓瑟 "wikilink")（Mark Spencer）於1999年他還在[奧本大學](../Page/奧本大學.md "wikilink")念書時所開發。與其他的用戶交換機系統相同，Asterisk 同樣支援電話撥打另一隻分機，和撥打到[公共交換電話網與](https://zh.wikipedia.org/wiki/公共交換電話網 "wikilink")[IP電話系統](https://zh.wikipedia.org/wiki/IP電話 "wikilink")。Asterisk 這個名稱源自於星號 "\*"。
 
 Asterisk 採用雙軌授權模式，免費模式使用 [GNU General Public License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink") (GPL) 授權，而商用授權使用 [proprietary](https://zh.wikipedia.org/wiki/proprietary_software "wikilink") 模式，此授權不需要將系統原始碼公開。

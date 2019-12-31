@@ -1,3 +1,6 @@
+> 本文内容由[Authorware](https://zh.wikipedia.org/wiki/Authorware)转换而来。
+
+
 **Authorware**最初是由[Michael Allen于](https://zh.wikipedia.org/wiki/Michael_Allen "wikilink")1987年创建的公司，而[multimedia正是Authorware公司的产品](https://zh.wikipedia.org/wiki/multimedia "wikilink")。1970年代，Allen参加协助PLATO[学习管理系统](https://zh.wikipedia.org/wiki/学习管理系统 "wikilink")（Learning Management System，LMS）的开发。Authorware是一种解释型、基于[流程的图形](https://zh.wikipedia.org/wiki/流程 "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Authorware被用于创建互动的程序，其中整合了[声音](../Page/声音.md "wikilink")、文本、[图形](../Page/计算机图形.md "wikilink")、简单[动画](../Page/动画.md "wikilink")，以及数字[电影](../Page/电影.md "wikilink")。
 
 ## 历史

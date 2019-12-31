@@ -1,3 +1,6 @@
+> 本文内容由[Grid.org](https://zh.wikipedia.org/wiki/Grid.org)转换而来。
+
+
 **Grid.org** 是一个以药物集成开发为主题的[分布式计算平台](https://zh.wikipedia.org/wiki/分布式计算平台 "wikilink")，它主要为一些生物医药类项目提供计算平台。
 
 在该平台上曾经运行过的[分布式计算](../Page/分布式计算.md "wikilink")项目如下：

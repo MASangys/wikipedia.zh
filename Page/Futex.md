@@ -1,3 +1,6 @@
+> 本文内容由[Futex](https://zh.wikipedia.org/wiki/Futex)转换而来。
+
+
 **futex**（快速用户区[互斥的简称](https://zh.wikipedia.org/wiki/互斥 "wikilink")）是一个在[Linux](../Page/Linux.md "wikilink")上实现[锁定和构建高级抽象锁如](https://zh.wikipedia.org/wiki/锁定 "wikilink")[信号量](../Page/信号量.md "wikilink")和[POSIX互斥的基本工具](https://zh.wikipedia.org/wiki/POSIX "wikilink")。它们第一次出现在内核开发的2.5.7版；其语义在2.5.40固定下来，然后在2.6.x系列稳定版内核中出现。
 
 Futex 是由[Hubertus Franke](https://zh.wikipedia.org/wiki/Hubertus_Franke "wikilink")（[IBM](../Page/IBM.md "wikilink") [Thomas J. Watson 研究中心](https://zh.wikipedia.org/wiki/Thomas_J._Watson_研究中心 "wikilink")）, [Matthew Kirkwood](https://zh.wikipedia.org/wiki/Matthew_Kirkwood "wikilink")，[Ingo Molnar](https://zh.wikipedia.org/wiki/Ingo_Molnar "wikilink")（[Red Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")）和 [Rusty Russell](https://zh.wikipedia.org/wiki/Rusty_Russell "wikilink")（[IBM Linux 技术中心](https://zh.wikipedia.org/wiki/IBM_Linux_技术中心 "wikilink")）等人创建的。

@@ -1,3 +1,6 @@
+> 本文内容由[LifeType](https://zh.wikipedia.org/wiki/LifeType)转换而来。
+
+
 **LifeType**是一個[開源的](https://zh.wikipedia.org/wiki/開源 "wikilink")[網誌](../Page/網誌.md "wikilink")平台系統，支援在同一次安裝底下，網站架設多個網誌，並同時作用戶管理。LifeType是一個基於[PHP](../Page/PHP.md "wikilink")與[MySQL](../Page/MySQL.md "wikilink")技術的多用戶與多[網誌系統](https://zh.wikipedia.org/wiki/Blog "wikilink")，以[GPL授權發佈](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
 ## 概說

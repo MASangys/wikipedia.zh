@@ -1,3 +1,6 @@
+> 本文内容由[H股](https://zh.wikipedia.org/wiki/H股)转换而来。
+
+
 **H股**是一個大中華股市術語，是中國大陸[境外上市外资股](../Page/境外上市外资股.md "wikilink")的一種。H股一般指在[香港聯合交易所上市的中國公司](https://zh.wikipedia.org/wiki/香港聯合交易所 "wikilink")（不含港[澳](../Page/澳門.md "wikilink")[台註冊或在外國註冊但總部在中國大陸的公司](../Page/臺灣.md "wikilink")）的外資股：一種[股票](../Page/股票.md "wikilink")類別{{\#tag:ref|境外上市外资股（H股、[D股](https://zh.wikipedia.org/wiki/D股 "wikilink")\[1\]、[N股](https://zh.wikipedia.org/wiki/N股 "wikilink")、[S股](../Page/S股.md "wikilink")）與內資股（或稱[A股](../Page/A股_\(中國\).md "wikilink")）、境內上市外资股（或稱[B股](../Page/B股.md "wikilink")）有所不同|group=註}}。H股的[股價指數](../Page/股價指數.md "wikilink")是[恒生中國企業指數](../Page/恒生中國企業指數.md "wikilink")，但不是所有發行H股的公司都是成份股。其他指數公司亦曾推出與H股相關的指數，例如[富時集團](../Page/富時集團.md "wikilink")的[富時中國50指數](https://zh.wikipedia.org/wiki/富時中國50指數 "wikilink")（；含H股、P股及[紅籌股](../Page/紅籌股.md "wikilink")）\[2\]\[3\]。恒生中國企業指數之外，[恒生指數有限公司](../Page/恒生指數有限公司.md "wikilink")亦推出[恒生中國H股金融行業指數](../Page/恒生中國H股金融行業指數.md "wikilink")、[恒生H40參考指數等等](https://zh.wikipedia.org/wiki/恒生H40參考指數 "wikilink")。
 
 年6月30日，共有232間（包括停牌公司）中國公司的H股於香港聯合交易所主板上市，市值最大者為[中國建設銀行](https://zh.wikipedia.org/wiki/中國建設銀行 "wikilink")\[4\]；24間中國公司的H股於香港聯合交易所[創業板](https://zh.wikipedia.org/wiki/創業板_\(香港\) "wikilink")（正式名稱）上市，市值最大者為[西安海天天實業](https://zh.wikipedia.org/wiki/西安海天天實業 "wikilink")\[5\]。

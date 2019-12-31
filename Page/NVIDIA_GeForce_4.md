@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 4](https://zh.wikipedia.org/wiki/NVIDIA GeForce 4)转换而来。
+
+
 **GeForce 4**（核心代號是NV25）是[nVIDIA研發的第](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")4代[繪圖處理器](https://zh.wikipedia.org/wiki/GPU "wikilink")。架构實際基於GeForce3改進而成。它擁有4条像素流水线，每条流水线包含2个材质贴图单元，即4\*2架構。[T\&L方面](https://zh.wikipedia.org/wiki/T&L "wikilink")，GeForce4采用了nfiniteFX II引擎，它是從[GeForce3的第一代發展而成](https://zh.wikipedia.org/wiki/GeForce3 "wikilink")。GeForce4 Ti配备了两个[頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")，比舊的GeForce3多了一个，這表示同一時間可以處理更多[頂點](../Page/頂點_\(電腦圖學\).md "wikilink")。這並不是全新的設計，皆因[Xbox](../Page/Xbox.md "wikilink")中的显核亦使用了個頂點著色引擎。縱使GeForce4架构与GeForce3分別不多，但是依然有效能提升，原因是功能的改進与微調。
 
 GeForce4系列有三個分支，分別是高端的Ti，較低端的MX以及一款通過[HSI橋接晶片來支援](../Page/NVIDIA_BR02.md "wikilink")[PCI-E介面的PCX](https://zh.wikipedia.org/wiki/PCI-E "wikilink") 4300。膝上型輕便電腦方面，則推出了GeForce4 Go (NV17M)，它的架構與MX系列是相同的。三個家族都是於2002年頭發佈。在2002年尾，GeForce4 4200 Go (NV28M) 發佈，它的架構與Ti系列是相同的。

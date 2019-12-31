@@ -1,3 +1,6 @@
+> 本文内容由[NScripter](https://zh.wikipedia.org/wiki/NScripter)转换而来。
+
+
 **NScripter**，簡稱**NS**，是一款由[高橋直樹所開發用於製作](https://zh.wikipedia.org/wiki/高橋直樹_\(剧本作家\) "wikilink")[視覺小說或](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")的引擎。作業系統為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。**N**取自作者名字中的「直樹」（平假名：なおき 罗马字：Naoki）。同出自於高橋之手的**Scripter3**是它的前身。
 
 ## 簡介

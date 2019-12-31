@@ -1,3 +1,6 @@
+> 本文内容由[朗德g因子](https://zh.wikipedia.org/wiki/朗德g因子)转换而来。
+
+
 在[物理学](../Page/物理学.md "wikilink")和[化学中](https://zh.wikipedia.org/wiki/化学 "wikilink")，**朗德\(g\)因子**是[阿尔弗雷德·朗德](../Page/阿尔弗雷德·朗德.md "wikilink")试图解释反常[塞曼效应](../Page/塞曼效应.md "wikilink")时，于1921年提出的一个[无量纲物理量](https://zh.wikipedia.org/wiki/无量纲 "wikilink")\[1\]\[2\]\[3\]\[4\]，反映了塞曼效应中[磁矩](../Page/磁矩.md "wikilink")与[角动量](../Page/角动量.md "wikilink")之间的联系。其定义后来被推广到其它领域，在[粒子物理学中常常被简称为](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")\(g\)因子。
 
 ## 塞曼效应

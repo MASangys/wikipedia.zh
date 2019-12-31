@@ -1,3 +1,6 @@
+> 本文内容由[MicroSD](https://zh.wikipedia.org/wiki/MicroSD)转换而来。
+
+
 [Micro_SD_-_Memory_Stick_Pro_Duo_Adaptor.JPG](https://zh.wikipedia.org/wiki/File:Micro_SD_-_Memory_Stick_Pro_Duo_Adaptor.JPG "fig:Micro_SD_-_Memory_Stick_Pro_Duo_Adaptor.JPG")轉接成[MS Pro Duo的轉卡](https://zh.wikipedia.org/wiki/MS_Pro_Duo "wikilink")|替代=\]\] [MicroSD與SD記憶卡.JPG](https://zh.wikipedia.org/wiki/File:MicroSD與SD記憶卡.JPG "fig:MicroSD與SD記憶卡.JPG")
 
 **microSD**是一種極細小的[快閃記憶體卡](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，基於由[SanDisk製造的](https://zh.wikipedia.org/wiki/SanDisk "wikilink")**[TransFlash](https://zh.wikipedia.org/wiki/TransFlash "wikilink")**卡格式所創立。這類記憶卡主要於[流動電話使用](https://zh.wikipedia.org/wiki/流動電話 "wikilink")，但因其擁有體積極小的優點，隨著不斷提升的容量，它慢慢開始於[GPS設備](https://zh.wikipedia.org/wiki/GPS "wikilink")、攜帶型音樂播放器和一些[快閃記憶體盤中使用](https://zh.wikipedia.org/wiki/快閃記憶體盤 "wikilink")。microSD的體積為 15 毫米 x 11 毫米 x 1 毫米 - 约为SD卡的1/4，相当於手指甲蓋的大小，它亦能夠以[轉接器來接駁於](https://zh.wikipedia.org/wiki/轉接器 "wikilink")[SD卡](../Page/SD卡.md "wikilink")或[Memory Stick插槽中使用](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")。

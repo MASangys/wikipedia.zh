@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Photoshop Lightroom](https://zh.wikipedia.org/wiki/Adobe Photoshop Lightroom)转换而来。
+
+
 **Adobe Photoshop Lightroom** 是由[Adobe Systems公司发布的一款](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[软件](../Page/软件.md "wikilink")，旨在帮助专业[摄影师的](https://zh.wikipedia.org/wiki/摄影师 "wikilink")[后期制作](https://zh.wikipedia.org/wiki/后期制作 "wikilink")。它可以同时在[OS X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Microsoft Windows系统上运行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，2006年1月9日发布Mac系统试用版（Beta），7月18日发布Windows系统的试用版本，经过4个版本的测试以后，于2007年2月正式发布。它是[Photoshop产品系列的一部分](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，这个系列还包括Photoshop CC和Photoshop Elements。 2017年開始Adobe Photoshop Lightroom CC更名為Lightroom Classic CC，並推出可跨桌面、行動裝置和網頁運作，使用[雲端相片服務的Lightroom](https://zh.wikipedia.org/wiki/雲端 "wikilink") CC。
 
 ## 测试开发

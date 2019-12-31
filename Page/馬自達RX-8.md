@@ -1,3 +1,6 @@
+> 本文内容由[馬自達RX-8](https://zh.wikipedia.org/wiki/馬自達RX-8)转换而来。
+
+
 **馬自達RX-8**是由[日本](../Page/日本.md "wikilink")[馬自達汽車公司所製造的四門](https://zh.wikipedia.org/wiki/馬自達 "wikilink")（[雙門對開](https://zh.wikipedia.org/wiki/雙門對開 "wikilink")）四座[轎跑車](../Page/轎跑車.md "wikilink")，在2001年的[北美國際車展](../Page/底特律車展.md "wikilink")（North American International Auto Show）上首度發表。該款車搭載654c.c. X 2 [13B-MSP Renesis型雙轉子引擎作為動力來源](https://zh.wikipedia.org/wiki/馬自達轉子引擎#13B-MSP_Renesis型 "wikilink")，原廠開發代號為「J60」。自2012年6月該公司停產此款車\[1\]以來，全球車壇上以[轉子引擎作為動力來源的量產車便暫時停產](../Page/馬自達轉子引擎.md "wikilink")。
 
 ## 概要

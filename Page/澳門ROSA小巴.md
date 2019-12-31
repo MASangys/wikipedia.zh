@@ -1,3 +1,6 @@
+> 本文内容由[澳門ROSA小巴](https://zh.wikipedia.org/wiki/澳門ROSA小巴)转换而来。
+
+
 [Transmac_R211_35.JPG](https://zh.wikipedia.org/wiki/File:Transmac_R211_35.JPG "fig:Transmac_R211_35.JPG") [澳門新福利公共汽車有限公司](../Page/澳門新福利公共汽車有限公司.md "wikilink")由1988年開始購買由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車株式會社生產的](https://zh.wikipedia.org/wiki/三菱FUSO "wikilink")[ROSA小巴](https://zh.wikipedia.org/wiki/三菱Rosa "wikilink")。[新福利以](../Page/澳門新福利公共汽車有限公司.md "wikilink")「**R**（ROSA的首個字母）」作為此批巴士的車隊編號，車隊首部ROSA編號為R01，再如此類推。
 
 截至2015年，[新福利車隊中的ROSA小巴共有](../Page/澳門新福利公共汽車有限公司.md "wikilink")370輛。ROSA小巴佔新福利整個車隊達半數之多，不過當中不少已因車齡問題而陸續退役。

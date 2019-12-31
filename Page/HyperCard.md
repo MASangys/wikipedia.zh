@@ -1,3 +1,6 @@
+> 本文内容由[HyperCard](https://zh.wikipedia.org/wiki/HyperCard)转换而来。
+
+
 **HyperCard**是一套爲蘋果[Mac和Apple](https://zh.wikipedia.org/wiki/Mac "wikilink") [IIGS電腦開發的](https://zh.wikipedia.org/wiki/IIGS "wikilink")[應用程序和](https://zh.wikipedia.org/wiki/應用程序 "wikilink")[編程工具](https://zh.wikipedia.org/wiki/編程 "wikilink")。在[萬維網出現之前](https://zh.wikipedia.org/wiki/萬維網 "wikilink")，它是最成功的[超媒體系統之一](https://zh.wikipedia.org/wiki/超媒體 "wikilink")。
 
 HyperCard融合了數據庫功能和一套圖形化、可擴展、可編輯的介面，同時還包括一種名叫HyperTalk的編程語言，用來操控數據和介面。簡單的表單形式介面，數據庫功能，容易上手的編程功能——這些特點令HyperCard在各種場合得到了廣泛運用。有些用戶用HyperCard進行[快速應用程式開發](../Page/快速應用程式開發.md "wikilink")，有些用它來構建無需數據庫的互動程序、指令系統，或是設計各種展示場景。HyperCard啟發了[沃德·坎宁安](../Page/沃德·坎宁安.md "wikilink")發展出[Wiki](../Page/Wiki.md "wikilink")\[1\]\[2\]\[3\]。

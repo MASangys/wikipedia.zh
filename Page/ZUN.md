@@ -1,3 +1,6 @@
+> 本文内容由[ZUN](https://zh.wikipedia.org/wiki/ZUN)转换而来。
+
+
 **ZUN**（，\[1\]），本名**太田顺也**\[2\]，是[日本](../Page/日本.md "wikilink")的遊戲設計師、程式設計師、[編劇](../Page/編劇.md "wikilink")、[繪畫藝術家和](https://zh.wikipedia.org/wiki/繪畫藝術 "wikilink")[遊戲音樂](../Page/遊戲音樂.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，畢業于[東京電機大學](https://zh.wikipedia.org/wiki/東京電機大學 "wikilink")。以作品《[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")》系列聞名，並且是[金氏記錄上最多同人射擊遊戲作品的作者](https://zh.wikipedia.org/wiki/金氏記錄 "wikilink")\[3\]，《東方Project》的大部份-{zh-cn:編程;zh-tw:程式;}-、編劇、繪畫和作曲工作都是由ZUN負責。他也負責經營[同人遊戲](../Page/同人遊戲.md "wikilink")社團[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")，該社團成員僅有ZUN一人\[4\]，
 
 ## 名字

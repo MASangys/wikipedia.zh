@@ -1,3 +1,6 @@
+> 本文内容由[HP-UX](https://zh.wikipedia.org/wiki/HP-UX)转换而来。
+
+
 **HP-UX**（取自**H**ewlett **P**ackard **U**ni**X**）是[惠普科技](https://zh.wikipedia.org/wiki/惠普科技 "wikilink")（HP, [Hewlett-Packard](https://zh.wikipedia.org/wiki/Hewlett-Packard "wikilink")）以[System V為基礎所研發成的類](../Page/UNIX_System_V.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。HP-UX可以在HP的[PA-RISC處理器](https://zh.wikipedia.org/wiki/PA-RISC "wikilink")、[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[Itanium處理器的電腦上執行](https://zh.wikipedia.org/wiki/Itanium "wikilink")，另外過去也能用於後期的[阿波羅電腦](../Page/阿波羅電腦.md "wikilink")（[Apollo/Domain](https://zh.wikipedia.org/wiki/Apollo/Domain "wikilink")）系統上。較早版本的HP-UX也能用於[HP 9000系列](https://zh.wikipedia.org/wiki/HP_9000 "wikilink")200型、300型、400型的電腦系統（使用[Motorola的](https://zh.wikipedia.org/wiki/Motorola "wikilink")[68000處理器](https://zh.wikipedia.org/wiki/摩托羅拉68000 "wikilink")）上，和[HP-9000系列](https://zh.wikipedia.org/wiki/HP-9000系列 "wikilink")500型電腦（使用HP專屬的[FOCUS處理器架構](https://zh.wikipedia.org/wiki/FOCUS_\(硬體\) "wikilink")）。
 
 2015年11月，惠普科技將企業級產品部門分割為[慧與科技](../Page/慧與科技.md "wikilink")（HPE, Hewlett Packard Enterprise），HP-UX產品的開發與維護由慧與科技繼承之\[1\]。

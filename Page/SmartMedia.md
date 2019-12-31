@@ -1,3 +1,6 @@
+> 本文内容由[SmartMedia](https://zh.wikipedia.org/wiki/SmartMedia)转换而来。
+
+
 [Smartmedia_on_keyboard.jpg](https://zh.wikipedia.org/wiki/File:Smartmedia_on_keyboard.jpg "fig:Smartmedia_on_keyboard.jpg") [Smart_Media_X-ray.jpg](https://zh.wikipedia.org/wiki/File:Smart_Media_X-ray.jpg "fig:Smart_Media_X-ray.jpg")
 
 **SmartMedia**，簡稱SM卡，是一种[快闪存储器](https://zh.wikipedia.org/wiki/flash_memory "wikilink")。在1995年夏，由[东芝公司推出](https://zh.wikipedia.org/wiki/东芝公司 "wikilink")，以與[MiniCard](https://zh.wikipedia.org/wiki/MiniCard "wikilink")、[CompactFlash](../Page/CompactFlash.md "wikilink")和[PC card等存储卡标准競爭](https://zh.wikipedia.org/wiki/PC_card "wikilink")。最早它被命名为「固态软盘卡」（SSFDC, Solid State Floppy Disk Card），并被视为[软磁盘的替代者](https://zh.wikipedia.org/wiki/软磁盘 "wikilink")。

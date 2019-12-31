@@ -1,3 +1,6 @@
+> 本文内容由[OK便利店](https://zh.wikipedia.org/wiki/OK便利店)转换而来。
+
+
 [Circle_K_logo.svg](https://zh.wikipedia.org/wiki/File:Circle_K_logo.svg "fig:Circle_K_logo.svg")
 
 **OK便利店**（**Circle K**）是一家成立於[美國德州](https://zh.wikipedia.org/wiki/美國 "wikilink")[艾爾帕索的](../Page/艾爾帕索_\(德克薩斯州\).md "wikilink")1951年[連鎖式](../Page/連鎖店.md "wikilink")[便利商店](../Page/便利商店.md "wikilink")集團，透過[特許經營方式經營](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，商標原由[康菲石油公司持有](https://zh.wikipedia.org/wiki/康菲石油公司 "wikilink")，後出售予Alimentation Couche-Tard。在[北美洲](../Page/北美洲.md "wikilink")及[歐洲皆有分店](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。

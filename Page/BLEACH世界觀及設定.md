@@ -1,3 +1,6 @@
+> 本文内容由[BLEACH世界觀及設定](https://zh.wikipedia.org/wiki/BLEACH世界觀及設定)转换而来。
+
+
 本列表為日本漫畫家[久保帶人的漫畫](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH](../Page/BLEACH.md "wikilink")》及其衍生作品中的世界觀設定及專有名詞。
 
 ## 世界觀

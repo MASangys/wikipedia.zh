@@ -1,3 +1,6 @@
+> 本文内容由[歡迎加入NHK！](https://zh.wikipedia.org/wiki/歡迎加入NHK！)转换而来。
+
+
 《**歡迎加入NHK！**》（），是由[日本](../Page/日本.md "wikilink")作家所著的小說。於網站「Boiled Eggs Online」從2001年1月29日到4月16日間連載。[角川書店](../Page/角川書店.md "wikilink")於2002年1月出版。中文版由[台灣角川](../Page/台灣角川.md "wikilink")於2006年11月出版。漫畫版由作畫，並從2004年至2007年於日本《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》連載。2006年7月至12月17日首播同名改編電視動畫。
 
 ## 概要

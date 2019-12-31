@@ -1,3 +1,6 @@
+> 本文内容由[薩拉托加號航空母艦 \(CV-3\)](https://zh.wikipedia.org/wiki/薩拉托加號航空母艦 \(CV-3\))转换而来。
+
+
 **薩拉托加號航空母艦**（**USS Saratoga CV-3**）是[美國海軍](../Page/美國海軍.md "wikilink")旗下第三艘[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，也是美國海軍各類船艦之中，第五艘承襲「Saratoga」之名的艦隻。原本是以[列星頓級戰鬥巡洋艦](https://zh.wikipedia.org/wiki/列星頓級戰鬥巡洋艦 "wikilink")（Lexington class Battlecruiser）三號艦的身份，於1920年9月25日安放[龍骨起造](https://zh.wikipedia.org/wiki/龍骨 "wikilink")。薩拉托加號因為[華盛頓海軍條約的簽署之故](https://zh.wikipedia.org/wiki/華盛頓海軍條約 "wikilink")，在建造到一半的1922年7月1日被改為航空母艦使用，並且換上CV-3的艦體編號，於1925年4月7日完工下水。薩拉托加號是美國海軍少數在[第二次世界大戰之前就已造好](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，並且安然度過大戰戰火的航空母艦之一（另兩艘分別是[企業號與](https://zh.wikipedia.org/wiki/CV-6 "wikilink")[遊騎兵號](https://zh.wikipedia.org/wiki/遊騎兵號航空母艦 "wikilink")），但在二戰後除役的薩拉托加號被美國軍方列入[十字路行動](https://zh.wikipedia.org/wiki/十字路行動 "wikilink")（Operation Crossroads）的參與名單內，在位於[比基尼環礁的核子武器試驗中](https://zh.wikipedia.org/wiki/比基尼環礁 "wikilink")，因為[原子弹](../Page/原子弹.md "wikilink")的破壞而沉沒，並於1946年8月15日自海軍艦隻名單中剔除。
 
 ## 1928-1940

@@ -1,3 +1,6 @@
+> 本文内容由[SAMPA表](https://zh.wikipedia.org/wiki/SAMPA表)转换而来。
+
+
 **[SAMPA](../Page/SAMPA.md "wikilink")輔音和元音表** 可參考較簡要的[英語SAMPA表](../Page/英語SAMPA表.md "wikilink")。請注意，下面內容將使用到國際音標，你必須擁有支援 [1](http://www.alanwood.net/unicode/ipa_extensions.html)「國際音標擴充區」之字型，才可以看到那些音標。
 
 *注意：本表只是試圖集合「歐美國家」的[SAMPA子集表](https://zh.wikipedia.org/wiki/SAMPA#Problems_with_SAMPA "wikilink")，表中的音標字母和其他語言的音標字母互相衝突，因此下面所提供的資料，一般只適合英語和一些歐洲語言使用。如需要使用ASCII來表示所有的國際音標，應改用[X-SAMPA](../Page/X-SAMPA.md "wikilink")。*

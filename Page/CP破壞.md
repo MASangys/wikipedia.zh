@@ -1,3 +1,6 @@
+> 本文内容由[CP破壞](https://zh.wikipedia.org/wiki/CP破壞)转换而来。
+
+
 **CP破壞**（CP violation），或译**CP破缺**，又稱**CP不守恒**（CP-symmetry），是[物理学](../Page/物理学.md "wikilink")，尤其是[粒子物理学中的一个术语和定理](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")。它说明在一个物理过程中所谓的**CP对称**被破坏了。在[宇宙学](../Page/宇宙学.md "wikilink")中它对解释今天[宇宙](../Page/宇宙.md "wikilink")中[物质](../Page/物质.md "wikilink")的数量超过[反物质](../Page/反物质.md "wikilink")的数量有极其重要的意义。1964年在CP破坏首先在中性[K介子](../Page/K介子.md "wikilink")的衰变中被实验证实。1980年[詹姆斯·克罗宁](../Page/詹姆斯·克罗宁.md "wikilink")和[瓦尔·菲奇因此被授予](https://zh.wikipedia.org/wiki/瓦尔·菲奇 "wikilink")[诺贝尔物理学奖](../Page/诺贝尔物理学奖.md "wikilink")。至今为止对CP破壞的研究依然是一个在理论物理和试验物理中非常活跃的领域。
 
 ## CP

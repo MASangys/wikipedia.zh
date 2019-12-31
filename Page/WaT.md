@@ -1,3 +1,6 @@
+> 本文内容由[WaT](https://zh.wikipedia.org/wiki/WaT)转换而来。
+
+
 **WaT**，[日本](../Page/日本.md "wikilink")男子演唱二人組，**WaT**意為“**W**entz（[Wentz瑛士](https://zh.wikipedia.org/wiki/Wentz瑛士 "wikilink")）**a**nd **T**eppei（[小池徹平](../Page/小池徹平.md "wikilink")）”，為[環球唱片旗下歌手](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。兩人的經紀公司同為[Burning Production](../Page/Burning_Production.md "wikilink")。除了音樂創作及演唱，成員更個別參與電影及電視演出。
 
 出道時，因成員已以個人身分分別進行演藝工作，故已有不少支持者。2005年首次登上第56屆[紅白歌合戰](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")，打破在日本歌手自出道至紅白歌合戰登場的最短時程。2015年12月6日，在東京舉行的演唱會上，宣布2016年2月11日解散\[1\]。

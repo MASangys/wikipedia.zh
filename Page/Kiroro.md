@@ -1,3 +1,6 @@
+> 本文内容由[Kiroro](https://zh.wikipedia.org/wiki/Kiroro)转换而来。
+
+
 **Kiroro**（），是一個[日本](../Page/日本.md "wikilink")女子歌唱組合。成員為**玉城千春**和**金城綾乃**。
 
 ## 成員

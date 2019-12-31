@@ -1,3 +1,6 @@
+> 本文内容由[SWT](https://zh.wikipedia.org/wiki/SWT)转换而来。
+
+
 {{ infobox software | logo = | screenshot = [EclipseScreenshot.png](https://zh.wikipedia.org/wiki/File:EclipseScreenshot.png "fig:EclipseScreenshot.png") | caption = Eclipse的IDE環境是以SWT為基礎之應用 | collapsible = yes | developer = Eclipse基金會 | status = 進行中 | latest release version = 3.7.2 | latest release date =  | latest preview version = | latest preview date = | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | language = 多語言 | genre = [Java平臺](../Page/Java平臺.md "wikilink")[部件工具箱](../Page/部件工具箱.md "wikilink") | license = Eclipse公共授權 | website =  }}
 
 （），最初由[IBM](../Page/IBM.md "wikilink")开发的一套用于[Java](../Page/Java.md "wikilink")的[图形用户界面](../Page/图形用户界面.md "wikilink")系统，用来与[Swing竞争](../Page/Swing_\(Java\).md "wikilink")。

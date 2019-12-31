@@ -1,3 +1,6 @@
+> 本文内容由[Hotbar](https://zh.wikipedia.org/wiki/Hotbar)转换而来。
+
+
 **Hotbar**是一個由Hotbar.com, Inc.製作的軟體，被指會對使用者的電腦造成不良影響。
 
 ## 聲稱的功能

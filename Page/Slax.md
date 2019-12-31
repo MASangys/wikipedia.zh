@@ -1,3 +1,6 @@
+> 本文内容由[Slax](https://zh.wikipedia.org/wiki/Slax)转换而来。
+
+
 **SLAX**是一個基於[Debian](../Page/Debian.md "wikilink")的作業系統，預設[KDE](../Page/KDE.md "wikilink")桌面環境，由[捷克人](../Page/捷克人.md "wikilink")Tomáš Matějíček研發。 Slax是一個方便、便攜的Linux作業系統。它的界面富有時尚感，可基於不同模組的功能運作。儘管它的體積較小，Slax依然預載了不少日常應用的軟件。除此之外，它還擁有精簡而齊整的圖形用戶界面和一些有用的修復工具，方便系統管理員修復系統。\[1\]
 
 ## 特性

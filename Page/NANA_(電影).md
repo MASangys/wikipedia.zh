@@ -1,3 +1,6 @@
+> 本文内容由[NANA \(電影\)](https://zh.wikipedia.org/wiki/NANA \(電影\))转换而来。
+
+
 《**NANA**》，又譯為《**世上的另一個我**》，是一部根据[日本](../Page/日本.md "wikilink")漫畫家[矢泽爱的](https://zh.wikipedia.org/wiki/矢泽爱 "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")《[NANA](../Page/NANA.md "wikilink")》所改编而成的同名真人版時裝愛情[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，于2005年9月3日在日本首映，同年11月3日在[香港](../Page/香港.md "wikilink")上映，並於11月4日在[台湾上映](https://zh.wikipedia.org/wiki/台湾 "wikilink")，[DVD发行于](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年3月3日。由于漫画版《NANA》的高知名度，使得原著改編的電影獲得極佳的票房反應，并獲得筹拍[续集的機會](../Page/NANA_2.md "wikilink")。
 
 ## 簡介

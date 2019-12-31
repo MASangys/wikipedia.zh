@@ -1,3 +1,6 @@
+> 本文内容由[Yoshiki](https://zh.wikipedia.org/wiki/Yoshiki)转换而来。
+
+
 **YOSHIKI**（，），為一名日本音樂人、[鋼琴家](https://zh.wikipedia.org/wiki/鋼琴家 "wikilink")、[指揮家](https://zh.wikipedia.org/wiki/指揮家 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、編曲家及[音樂製作人](../Page/音樂製作人.md "wikilink")。以日本樂團[X JAPAN的團長及創辦人聞名於世](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")，其為樂團的鼓手、鋼琴手及主要作曲人、製作人\[1\]。自小學習[古典樂](https://zh.wikipedia.org/wiki/古典樂 "wikilink")、[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、並自學[爵士鼓](../Page/爵士鼓.md "wikilink")。成年後將古典樂與鋼琴應用在[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")／[金屬樂中而成為特色](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")。在X JAPAN的演唱會中，經常可見到他在鼓和鋼琴間轉換演奏，將鼓的狂暴與鋼琴的優雅印象結合成[視覺藝術](../Page/視覺藝術.md "wikilink")\[2\]。
 
 他常受邀委託製作[主題曲](../Page/主題曲.md "wikilink")及在重要場合擔任演奏及指揮，包括[NHK電視台的](https://zh.wikipedia.org/wiki/NHK電視台 "wikilink")[紅白歌唱大賽](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")、[愛知世界博覽會官方形象主題曲](https://zh.wikipedia.org/wiki/2005年日本世界博览会 "wikilink")\[3\]、[日本皇室](../Page/日本皇室.md "wikilink")欽點他出席盛大的[天皇](../Page/天皇.md "wikilink")即位10週年紀念會，創作並彈奏奉祝曲\[4\]、[第69屆金球獎](../Page/第69屆金球獎.md "wikilink")、[第70屆金球獎](../Page/第70屆金球獎.md "wikilink")的主題曲創作\[5\]，以及[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[好萊塢多部電影的](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[配樂及主題曲的製作](https://zh.wikipedia.org/wiki/配樂 "wikilink")\[6\]。

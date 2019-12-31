@@ -1,3 +1,6 @@
+> 本文内容由[SA-3导弹](https://zh.wikipedia.org/wiki/SA-3导弹)转换而来。
+
+
 [S125_Neva_250_brPVO_VS,_september_01,_2012.jpg](https://zh.wikipedia.org/wiki/File:S125_Neva_250_brPVO_VS,_september_01,_2012.jpg "fig:S125_Neva_250_brPVO_VS,_september_01,_2012.jpg")
 
 **S-125** **涅瓦河Neva**/**伯朝拉河Pechora**()地对空导弹系统，弹体编号5V24，[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：**SA-3藏原羚**（旧译**果阿**）"Goa"。苏联第二代地对空导弹系统，用于中低空防空。导弹为5V24 (V-600) 两级固体发动机，无线电指令制导。舰用型为SA-N-1 **波浪Volna** (Волна - wave)。

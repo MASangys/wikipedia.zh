@@ -1,3 +1,6 @@
+> 本文内容由[Greasemonkey](https://zh.wikipedia.org/wiki/Greasemonkey)转换而来。
+
+
 [greasemonkey.gif](https://zh.wikipedia.org/wiki/File:greasemonkey.gif "fig:greasemonkey.gif")
 
 ，簡稱，中文俗稱為“**油猴**”，是[Firefox](../Page/Firefox.md "wikilink")的一個附加元件。它讓使用者安裝一些[腳本使大部分HTML為主的](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")[網頁](../Page/網頁.md "wikilink")於使用者端直接改變得更方便易用。

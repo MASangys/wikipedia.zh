@@ -1,3 +1,6 @@
+> 本文内容由[AMD FireStream](https://zh.wikipedia.org/wiki/AMD FireStream)转换而来。
+
+
 **FireStream**是[ATi研發的一个流处理器系列](https://zh.wikipedia.org/wiki/ATi "wikilink")，在AMD收購ATI後改為 Firepro S 系列，建基于Radeon图形显示芯片，提供高性能计算能力。FireStream产品中的显核不是用來作3D加速用途，而是利用显核内置的强大像素处理器變成一群并行处理器，作为浮点运算协处理器，协助中央处理器计算复杂的浮点运算程序，例如複雜的科学運算。
 
 而早在数年前，人們就意識到GPU不但可以處理图形數據，還可以處理其他數據。BionicFX就試過利用[GeForce 6800处理音频數據](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")，ATI亦做過同樣的試驗。而且[史丹佛大學](../Page/史丹佛大學.md "wikilink")的Folding@Home研究项目亦可利用Radeon X1900作運算加速\[1\]；通过GPU来模拟蛋白质合成，进而找尋有關蛋白质的疾病。

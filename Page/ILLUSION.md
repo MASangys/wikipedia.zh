@@ -1,3 +1,6 @@
+> 本文内容由[ILLUSION](https://zh.wikipedia.org/wiki/ILLUSION)转换而来。
+
+
 **ILLUSION**（[日语](../Page/日语.md "wikilink")：イリュージョン）是位于[日本](../Page/日本.md "wikilink")[横滨的アイワン公司旗下之](https://zh.wikipedia.org/wiki/横滨 "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，華語地區俗稱「幻影社」。\[1\]在1993年推出了首個遊戲，依照公司的自行规定，其开发的游戏不會在日本以外的地区销售，官方也只會對日本在地用戶提供售後支援\[2\]。自1997年起，產品中開始有多數美術風格採用[3D建模的遊戲](https://zh.wikipedia.org/wiki/3D電腦圖形 "wikilink")，事實上ILLUSION也是成人遊戲業界投入3D技術研發的最早先驅者之一，3D圖像的遊戲作品有[尾行系列](https://zh.wikipedia.org/wiki/尾行 "wikilink")、[欲望格斗](../Page/欲望格斗.md "wikilink")系列、[欲望之血系列](https://zh.wikipedia.org/wiki/欲望之血 "wikilink")、[人工少女系列及](https://zh.wikipedia.org/wiki/人工少女 "wikilink")[性感沙滩系列等](https://zh.wikipedia.org/wiki/性感沙滩 "wikilink")。
 
 ## 作品一览

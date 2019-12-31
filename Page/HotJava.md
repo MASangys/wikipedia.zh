@@ -1,3 +1,6 @@
+> 本文内容由[HotJava](https://zh.wikipedia.org/wiki/HotJava)转换而来。
+
+
 **HotJava**是一個模組化、具擴展性的[網頁瀏覽器](../Page/网页浏览器.md "wikilink")，由[昇陽電腦所推出](https://zh.wikipedia.org/wiki/升阳 "wikilink")，並且可在網頁中執行小型的Java程式，稱為[Java Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")\[1\]。
 
 ## 起源

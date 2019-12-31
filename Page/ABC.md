@@ -1,3 +1,6 @@
+> 本文内容由[ABC](https://zh.wikipedia.org/wiki/ABC)转换而来。
+
+
 **ABC**可以指：
 
 ## 語言

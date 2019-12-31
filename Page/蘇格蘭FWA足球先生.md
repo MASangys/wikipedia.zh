@@ -1,3 +1,6 @@
+> 本文内容由[蘇格蘭FWA足球先生](https://zh.wikipedia.org/wiki/蘇格蘭FWA足球先生)转换而来。
+
+
 **蘇格蘭FWA足球先生**（**Scottish Footballer of the Year**，全名**Scottish Football Writers' Association Footballer of the Year**）是「蘇格蘭足球記者協會」（Scottish Football Writers' Association，簡稱SFWA）主辦的年度頒獎禮中的重頭獎項，被認為是蘇格蘭本土足球最重要的兩個個人獎項之一。
 
 ## 歷屆獲獎人

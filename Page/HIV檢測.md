@@ -1,3 +1,6 @@
+> 本文内容由[HIV檢測](https://zh.wikipedia.org/wiki/HIV檢測)转换而来。
+
+
 **HIV檢測**，指檢測人體是否感染[人類免疫缺陷病毒](https://zh.wikipedia.org/wiki/人類免疫缺陷病毒 "wikilink")，做為[輸血](../Page/輸血.md "wikilink")、[器官移植](../Page/器官移植.md "wikilink")前的檢查和[愛滋病的](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")[診斷](https://zh.wikipedia.org/wiki/診斷 "wikilink")、[治療及](https://zh.wikipedia.org/wiki/治療 "wikilink")[追蹤](https://zh.wikipedia.org/wiki/追蹤 "wikilink")。HIV檢測是偵測[血漿](https://zh.wikipedia.org/wiki/血漿 "wikilink")、[血清](../Page/血清.md "wikilink")、[唾液](../Page/唾液.md "wikilink")、[乾血點或](https://zh.wikipedia.org/wiki/乾血點 "wikilink")[尿液等人體體液之中的](https://zh.wikipedia.org/wiki/尿液 "wikilink")[抗體](https://zh.wikipedia.org/wiki/抗體 "wikilink")、[抗原](../Page/抗原.md "wikilink")或是[RNA](https://zh.wikipedia.org/wiki/RNA "wikilink")。
 
 ## 名詞解釋

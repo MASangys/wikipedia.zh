@@ -1,3 +1,6 @@
+> 本文内容由[PDFCreator](https://zh.wikipedia.org/wiki/PDFCreator)转换而来。
+
+
 **PDFCreator**是將文件转换成[PDF文件的软件](https://zh.wikipedia.org/wiki/PDF "wikilink")，運行於[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。其通过创建[虚拟打印机来打印到PDF文件](https://zh.wikipedia.org/wiki/虚拟打印机 "wikilink")，由此允许任何程序通过自身的打印功能将文件使用PDFCreator打印来创建PDF。
 
 从2009年起，PDFCreator包含闭源[广告软件](https://zh.wikipedia.org/wiki/广告软件 "wikilink")、工具栏和其他有争议性的软件默认安装。\[1\]

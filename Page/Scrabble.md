@@ -1,3 +1,6 @@
+> 本文内容由[Scrabble](https://zh.wikipedia.org/wiki/Scrabble)转换而来。
+
+
 **Scrabble**是世界流行的[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[文字](../Page/文字.md "wikilink")[圖版遊戲](../Page/圖版遊戲.md "wikilink")，在一塊15×15方格的圖版上，2至4名參加者拼出詞彙而得分。詞彙以[填字遊戲的方式橫豎列出](https://zh.wikipedia.org/wiki/填字遊戲 "wikilink")，並必須收錄在專用的[詞典](../Page/詞典.md "wikilink")裡。不同字母有不同分數，是作者[艾佛·畢斯](../Page/艾佛·畢斯.md "wikilink")根據1930年代的[紐約時報英語出現頻率訂定](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，如經常出現的[E](../Page/E.md "wikilink")、[N](../Page/N.md "wikilink")、[R](../Page/R.md "wikilink")、[S](../Page/S.md "wikilink")和[T](../Page/T.md "wikilink")只值1分，但不常用的[Q](../Page/Q.md "wikilink")和[Z](../Page/Z.md "wikilink")則值10分。圖版上有不同顏色的格子，參加者可從中獲得額外分數。
 
 在[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")，「Scrabble」一字是的[孩之寶](../Page/孩之寶.md "wikilink")的商標，而在其他地方則是[美泰兒](../Page/美泰兒.md "wikilink")的商標。現時Scrabble實體版已在121個國家推人合共[29種語言](https://zh.wikipedia.org/wiki/Scrabble字母分佈 "wikilink")，銷量量已超過1.5億。除了英語版外，法語版亦極受歡迎。英語版所用的詞典分為北美版和世界版，北美版採用[Merriam-Webster推出的官方比賽詞典](https://zh.wikipedia.org/wiki/Merriam-Webster "wikilink")2018版，而世界版則採用[Collins Scrabble Wordlist詞典](https://zh.wikipedia.org/wiki/SOWPODS "wikilink")2015版。而法語則使用推出的ODS（官方Scrabble比賽字表）第7版詞典。

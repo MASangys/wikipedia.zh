@@ -1,3 +1,6 @@
+> 本文内容由[NTU](https://zh.wikipedia.org/wiki/NTU)转换而来。
+
+
 **NTU**可能是：
 
 ## 大學

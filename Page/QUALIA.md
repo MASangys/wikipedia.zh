@@ -1,3 +1,6 @@
+> 本文内容由[QUALIA](https://zh.wikipedia.org/wiki/QUALIA)转换而来。
+
+
 [QUALIA_logo.gif](https://zh.wikipedia.org/wiki/File:QUALIA_logo.gif "fig:QUALIA_logo.gif")
 
 **QUALIA**、**QUALIA-Project** - 感質計畫，是[日本](../Page/日本.md "wikilink")索尼（Sony）的高級產品計畫。

@@ -1,3 +1,6 @@
+> 本文内容由[ESPN卫视体育台](https://zh.wikipedia.org/wiki/ESPN卫视体育台)转换而来。
+
+
 [ESPN_STAR_Sports_logo.png](https://zh.wikipedia.org/wiki/File:ESPN_STAR_Sports_logo.png "fig:ESPN_STAR_Sports_logo.png") **ESPN卫视体育台**（，簡稱ESS）是由时属[新聞集團旗下的](https://zh.wikipedia.org/wiki/新聞集團 "wikilink")[星空傳媒有限公司與](https://zh.wikipedia.org/wiki/星空傳媒有限公司 "wikilink")[華特迪士尼旗下的](https://zh.wikipedia.org/wiki/華特迪士尼 "wikilink")[ESPN](../Page/ESPN.md "wikilink")各佔一半而成立的媒體公司，是[亞洲一家](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[體育頻道供應者](https://zh.wikipedia.org/wiki/體育 "wikilink")。ESS在亞洲拥有多个频道，包括："ESPN 亞洲"、"ESPN 印度"、"ESPN 台灣""、"ESPN 新加坡""、"ESPN 菲律賓"、、"ESPN 香港"、"衛視體育台 香港"、"衛視體育台 亚洲"、"衛視體育台 印度"、"衛視體育台 台灣"、"衛視體育台 東南亞"和"衛視體育台 新加坡"。全部頻道主要播放世界主要體育賽事，配上當地的評述。[ESPN](../Page/ESPN.md "wikilink")覆蓋超過1億1000萬的家庭，而[衛視體育台](../Page/衛視體育台.md "wikilink")則覆蓋超過5400萬家庭。
 
 ESPN STAR Sports的對象是15至54歲的觀眾，24小時播放全球不同的體育賽事，包括[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[羽毛球](../Page/羽毛球.md "wikilink")、[足球](../Page/足球.md "wikilink")、[游泳](../Page/游泳.md "wikilink")等節目，包括國際性和地區性的體育節目。ESPN STAR Sports主要經加密收費網絡或免費電視廣播服務把節目傳送給亞洲觀眾，節目則由在新加坡的廣播中心和製作中心完成和發放至不同的網絡播放。ESPN STAR Sports在整個地區擁有500個員工。

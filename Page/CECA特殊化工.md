@@ -1,3 +1,6 @@
+> 本文内容由[CECA特殊化工](https://zh.wikipedia.org/wiki/CECA特殊化工)转换而来。
+
+
 **CECA化工**（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：**Ceca chimie de spécialités**）是法國一家化工公司。
 
 ## 產品

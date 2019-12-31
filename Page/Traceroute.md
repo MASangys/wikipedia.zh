@@ -1,3 +1,6 @@
+> 本文内容由[Traceroute](https://zh.wikipedia.org/wiki/Traceroute)转换而来。
+
+
 **traceroute**，現代[Linux](../Page/Linux.md "wikilink")系統稱為**tracepath**，[Windows系統稱為](https://zh.wikipedia.org/wiki/Windows "wikilink")**tracert**，是一種電腦網絡工具。它可顯示[封包在IP網絡經過的](https://zh.wikipedia.org/wiki/封包 "wikilink")[路由器](../Page/路由器.md "wikilink")的[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。
 
 ## 原理

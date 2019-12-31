@@ -1,3 +1,6 @@
+> 本文内容由[I\'ve](https://zh.wikipedia.org/wiki/I\'ve)转换而来。
+
+
 **I've**是以[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")為根據地的[音樂及](https://zh.wikipedia.org/wiki/音樂 "wikilink")[歌手](../Page/歌手.md "wikilink")團體。 **I've**這個名字的來源普遍流傳的說法是來自英文的 I Have、I Love、I Live、I Leave。多數的愛好者也同意這一說法。
 
 ## 概要

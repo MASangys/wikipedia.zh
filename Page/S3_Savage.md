@@ -1,3 +1,6 @@
+> 本文内容由[S3 Savage](https://zh.wikipedia.org/wiki/S3 Savage)转换而来。
+
+
 **Savage**是由[S3 Graphics推出的一个](../Page/S3_Graphics.md "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")產品線。
 
 ## Savage 3D

@@ -1,3 +1,6 @@
+> 本文内容由[時光機 \(哆啦A夢\)](https://zh.wikipedia.org/wiki/時光機 \(哆啦A夢\))转换而来。
+
+
 **時光機**，（中国大陆又译**航时机**，美國版：TIME MACHINE）是[哆啦A夢](../Page/哆啦A夢.md "wikilink")中虛構的一種道具，用以穿越[時空](https://zh.wikipedia.org/wiki/時空 "wikilink")，也是故事第一個出現\[1\]與使用率第二高的道具（僅次於[竹蜻蜓](../Page/竹蜻蜓_\(哆啦A夢\).md "wikilink")）。\[2\]使用時先從入口進入時空隧道，再駕駛[時光機前往到指定時間和地點](https://zh.wikipedia.org/wiki/時光機 "wikilink")。時光機的入口載體可自由訂制，例如哆啦A夢選用的載體是大雄[書桌的](https://zh.wikipedia.org/wiki/書桌 "wikilink")[抽屜](https://zh.wikipedia.org/wiki/抽屜 "wikilink")，哆啦美選用的載體是[房間的](https://zh.wikipedia.org/wiki/房間 "wikilink")[鏡子](https://zh.wikipedia.org/wiki/鏡子 "wikilink")。根據漫畫第41卷：《未来图书券》中的说法發明時間是西元2008年。\[3\]\[4\]
 
 ## 形號

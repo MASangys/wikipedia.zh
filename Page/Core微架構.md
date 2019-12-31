@@ -1,3 +1,6 @@
+> 本文内容由[Core微架構](https://zh.wikipedia.org/wiki/Core微架構)转换而来。
+
+
 **Core微架构**（**Core Microarchitecture**）是[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")[處理器架構](https://zh.wikipedia.org/wiki/處理器架構 "wikilink")，原稱「Intel's Next Generation Microarchitecture」。於2006年宣佈，並取代舊有的[NetBurst及](https://zh.wikipedia.org/wiki/NetBurst "wikilink")[Pentium M架構](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。本架構的特色為低功耗、多核心、[虛擬化技術](https://zh.wikipedia.org/wiki/虛擬化技術 "wikilink")（部分型號）、[Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink")（又稱EM64T等）及[SSSE3](../Page/SSSE3.md "wikilink")。
 
 首先推出的處理為用本架構的Merom、Conroe及Woodcrest核心處理器。Merom為流動核心、Conroe為桌面核心、而Woodcrest為伺服器用核心。

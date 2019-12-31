@@ -1,3 +1,6 @@
+> 本文内容由[ASN.1](https://zh.wikipedia.org/wiki/ASN.1)转换而来。
+
+
 在[电信](../Page/电信.md "wikilink")和[计算机网络](../Page/计算机网络.md "wikilink")领域，**ASN.1**（**Abstract Syntax Notation One**) 是一套[标准](../Page/标准.md "wikilink")，是描述[数据的表示](https://zh.wikipedia.org/wiki/数据 "wikilink")、编码、传输、解码的灵活的记法。它提供了一套正式、无歧义和精确的规则以描述独立于特定计算机硬件的对象结构。
 
 ## 标准简介

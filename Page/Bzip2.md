@@ -1,3 +1,6 @@
+> 本文内容由[Bzip2](https://zh.wikipedia.org/wiki/Bzip2)转换而来。
+
+
 **bzip2**是[Julian Seward开发并按照](https://zh.wikipedia.org/wiki/Julian_Seward "wikilink")[自由软件](../Page/自由软件.md "wikilink")／[开源软件](../Page/开源软件.md "wikilink")协议发布的[数据压缩](../Page/数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")及程序。Seward在1996年7月第一次公开发布了bzip2 0.15版，在随后几年中这个压缩工具稳定性得到改善并且日渐流行，Seward在2000年晚些时候发布了1.0版。
 
 ## 压缩效率

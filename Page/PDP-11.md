@@ -1,3 +1,6 @@
+> 本文内容由[PDP-11](https://zh.wikipedia.org/wiki/PDP-11)转换而来。
+
+
 [Pdp-11-40.jpg](https://zh.wikipedia.org/wiki/File:Pdp-11-40.jpg "fig:Pdp-11-40.jpg")\]\]
 
 **PDP-11**為[迪吉多](../Page/迪吉多.md "wikilink")電腦於1970到1980年代所銷售的一系列[16位元](https://zh.wikipedia.org/wiki/16位元 "wikilink")[迷你電腦](../Page/小型计算机.md "wikilink")。PDP-11是迪吉多電腦的[PDP-8系列的後續機種](https://zh.wikipedia.org/wiki/PDP-8 "wikilink")。PDP-11有著許多創新的特色，而且比起其前代機種更容易撰寫[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")。當[32位元](../Page/32位元.md "wikilink")的後續擴充機型[VAX](../Page/VAX.md "wikilink")-11推出時，PDP-11已經廣受[程式設計師的喜愛](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")。這兩個機型後續的[市場](https://zh.wikipedia.org/wiki/市場 "wikilink")，則多由[IBM PC](../Page/IBM_PC.md "wikilink")、[蘋果二號與](../Page/Apple_II.md "wikilink")[昇陽電腦](../Page/昇陽電腦.md "wikilink")的[工作站](../Page/工作站.md "wikilink")電腦等[個人電腦所取代](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[SD卡](https://zh.wikipedia.org/wiki/SD卡)转换而来。
+
+
 ，[縮寫](../Page/縮寫.md "wikilink")為，全名為，中文翻译为**安全数位卡**\[1\]\[2\]，為一種[記憶卡](../Page/記憶卡.md "wikilink")，被廣泛地於攜帶型裝置上使用，例如[數碼相機](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")、[個人數碼助理和](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")[多媒體播放器等](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")。SD卡的技術是建基於[MultiMedia卡格式上](https://zh.wikipedia.org/wiki/MultiMedia卡 "wikilink")。SD卡有比較高的資料傳送速度，而且不斷更新標準。大部份SD卡的側面設有写保护控制，以避免一些資料意外地寫入，而少部分的SD卡甚至支援[數位版權管理的技術](https://zh.wikipedia.org/wiki/數位版權管理 "wikilink")。SD卡的大小為32mm×24mm×2.1mm，但官方標準亦有記載「薄版」1.4mm厚度，與MMC卡相同。
 中文界有时会把SD卡称为****\[3\]\[4\]，但此“”与“”其实是两个完全不同的概念。
 

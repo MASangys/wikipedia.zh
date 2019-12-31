@@ -1,3 +1,6 @@
+> 本文内容由[Graphite](https://zh.wikipedia.org/wiki/Graphite)转换而来。
+
+
 **Graphite**是一套由[SIL開發的](../Page/SIL國際.md "wikilink")，跟[Unicode相容的可編程](https://zh.wikipedia.org/wiki/Unicode "wikilink")構建（）及技術系統。它是一套[自由的編程介面](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，透過[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")及發行。
 
 ## 與其他智慧字型技術的相容度與比較

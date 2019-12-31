@@ -1,3 +1,6 @@
+> 本文内容由[MD Data](https://zh.wikipedia.org/wiki/MD Data)转换而来。
+
+
 [Sony_MMD-140A.jpg](https://zh.wikipedia.org/wiki/File:Sony_MMD-140A.jpg "fig:Sony_MMD-140A.jpg")
 
 **MD Data**或**MD-Data**的全文為**[MiniDisc](../Page/MiniDisc.md "wikilink")-Data**，是一種用來儲存電腦資料的[磁光碟媒體](https://zh.wikipedia.org/wiki/磁光碟 "wikilink")（magneto-optical medium），由[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")1993年發表。Sony原先期望用MD Data取代[軟碟片](https://zh.wikipedia.org/wiki/軟碟片 "wikilink")，不過[艾美加](https://zh.wikipedia.org/wiki/艾美加 "wikilink")（Iomega）的[Zip軟碟機填補了這個市場的需求](../Page/Zip_Drive.md "wikilink")，之後又出現價位逐漸可被人接受的[CD-R](https://zh.wikipedia.org/wiki/CD-R "wikilink")[光碟燒錄器以及相當低廉的空白可燒錄光碟片](https://zh.wikipedia.org/wiki/光碟燒錄器 "wikilink")，最後[記憶卡](../Page/記憶卡.md "wikilink")的普及成為[壓垮駱駝的最後一根稻草](https://zh.wikipedia.org/wiki/壓垮駱駝的最後一根稻草 "wikilink")，使MD-Data始終無法成為主流的電腦儲存媒體。

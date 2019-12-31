@@ -1,3 +1,6 @@
+> 本文内容由[NetBurst微架構](https://zh.wikipedia.org/wiki/NetBurst微架構)转换而来。
+
+
 **Netburst微處理器架構**，[Intel内部称为](https://zh.wikipedia.org/wiki/Intel "wikilink")**P68**，為[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[X86](../Page/X86.md "wikilink")微處理器架構，[P6微處理器製程的後繼者](https://zh.wikipedia.org/wiki/Intel_P6 "wikilink")。第一個使用這架構的[CPU是](https://zh.wikipedia.org/wiki/CPU "wikilink")[Pentium 4的第一代核心](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Willamette](https://zh.wikipedia.org/wiki/Willamette "wikilink")，於2000年推出。所有后继的[Pentium 4和](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")[Pentium D衍生架构也都基于Netburst](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")。2001年中期推出的〔[Foster核心](https://zh.wikipedia.org/wiki/Foster "wikilink")〕亦是基于此架構；但此后[Xeon核心切换到其他架构](https://zh.wikipedia.org/wiki/Xeon "wikilink")。基於Pentium 4的[Celeron也使用了此架構](https://zh.wikipedia.org/wiki/Celeron "wikilink")。
 
 为了与前代架构区别，有时也將Netburst稱作**Intel P7**或**Intel 80786**，但都不是官方名稱。事實上，P7被[Intel内部用作](https://zh.wikipedia.org/wiki/Intel "wikilink")[Itanium處理器微架構的代號](https://zh.wikipedia.org/wiki/Itanium "wikilink")。

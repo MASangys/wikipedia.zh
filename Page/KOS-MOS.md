@@ -1,3 +1,6 @@
+> 本文内容由[KOS-MOS](https://zh.wikipedia.org/wiki/KOS-MOS)转换而来。
+
+
 是[PS2遊戲系列](https://zh.wikipedia.org/wiki/PS2 "wikilink")[異域傳說系列](../Page/異域傳說系列.md "wikilink")中的一個主要角色。
 
 ## 基本資訊

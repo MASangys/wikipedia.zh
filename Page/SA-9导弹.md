@@ -1,3 +1,6 @@
+> 本文内容由[SA-9导弹](https://zh.wikipedia.org/wiki/SA-9导弹)转换而来。
+
+
 [Strieła-1_NTW_9_93.jpg](https://zh.wikipedia.org/wiki/File:Strieła-1_NTW_9_93.jpg "fig:Strieła-1_NTW_9_93.jpg") **9K31 "箭（Strela）-1"**（俄语：9К31 "Стрела-1" , [北約代號](../Page/北約代號.md "wikilink")：**SA-9 "灯笼裤(Gaskin)"**）是一种高机动低空短程红外寻的地对空导弹系统。车载平台为BRDM-2两栖轮式装甲车。每辆发射车在炮塔两侧各配有一组双联9M31导弹，导弹密封包装。
 
 ## 导弹与制导

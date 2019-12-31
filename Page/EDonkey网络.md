@@ -1,3 +1,6 @@
+> 本文内容由[EDonkey网络](https://zh.wikipedia.org/wiki/EDonkey网络)转换而来。
+
+
 **eDonkey網路**（，也称**eDonkey2000 Network**、**eD2k**、**eD2k網路**或**電驢網路**），是一种分布式的、主要基于[服务器](../Page/服务器.md "wikilink")的[P2P](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[檔案分享](../Page/檔案分享.md "wikilink")[网络](../Page/计算机网络.md "wikilink")。它通常用于共享[电影](../Page/电影.md "wikilink")[视频](../Page/视频.md "wikilink")文件、[音乐](../Page/音乐.md "wikilink")专辑和计算机程序[软件](../Page/软件.md "wikilink")等。和大多数文件共享网络一样，它是分布式的，文件不存储在任何中枢[服务器](../Page/服务器.md "wikilink")之上，服务器参与用户之间基于點對點原理相互数据交换。
 
 现在，eDonkey网络不隶属于任何组织，也不被任何组织所维护。eDonkey协议原先由美国的[MetaMachine公司原创](https://zh.wikipedia.org/wiki/MetaMachine公司 "wikilink")，并用于[eDonkey2000软件](https://zh.wikipedia.org/wiki/eDonkey2000 "wikilink")。2005年，他们遭到[RIAA的侵权控告而关闭了公司](https://zh.wikipedia.org/wiki/RIAA "wikilink")，并停止了eDonkey2000和协议的开发。

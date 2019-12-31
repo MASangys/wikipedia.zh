@@ -1,3 +1,6 @@
+> 本文内容由[Mega Drive](https://zh.wikipedia.org/wiki/Mega Drive)转换而来。
+
+
 是[世嘉](../Page/世嘉.md "wikilink")在1988年推出的[16-bit家用遊戲機](https://zh.wikipedia.org/wiki/16-bit "wikilink")，1989年在[美國推出](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 Mega Drive在全球共售出3075万台。此外[Tectoy在](https://zh.wikipedia.org/wiki/Tectoy "wikilink")[巴西](../Page/巴西.md "wikilink")售出大约300万台授权的兼容机。Majesco估計在美国共售出150万台授权的兼容机。

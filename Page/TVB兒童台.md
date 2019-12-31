@@ -1,3 +1,6 @@
+> 本文内容由[TVB兒童台](https://zh.wikipedia.org/wiki/TVB兒童台)转换而来。
+
+
 **TVB兒童-{台}-**（；前稱****）是[香港](../Page/香港.md "wikilink")[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")（2013年前身為[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）擁有的一條以兒童為對象而設的頻道，該頻道會播放家長可與小朋友一起收看最新的合家歡及益智的卡通，加強親子關係，而且亦會舉辦一系列由小朋友參與之選舉活動、讓小朋友發揮天賦才藝及潛質。2006年3月1日更名為“無綫兒童台”。
 
 該頻道的主要競爭對手是[香港有線電視](../Page/香港有線電視.md "wikilink")擁有的[兒童台](../Page/有線兒童台.md "wikilink")。

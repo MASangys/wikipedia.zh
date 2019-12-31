@@ -1,3 +1,6 @@
+> 本文内容由[LinuxFab](https://zh.wikipedia.org/wiki/LinuxFab)转换而来。
+
+
 [linuxfab.png](https://zh.wikipedia.org/wiki/File:linuxfab.png "fig:linuxfab.png")
 
 **LinuxFab**是由當時仍在[交大資科所博士班黃經緯](../Page/國立交通大學.md "wikilink")（Rolland）在1998年8月4日架設的[網站](../Page/網站.md "wikilink")。初期架設在[台灣學術網路內](../Page/TANet.md "wikilink")，提供[台灣的開放社群在網路上分享與討論的空間](https://zh.wikipedia.org/wiki/台灣 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[VIA晶片組列表](https://zh.wikipedia.org/wiki/VIA晶片組列表)转换而来。
+
+
 本條目列-{出}-[威盛電子](../Page/威盛電子.md "wikilink")推-{出}-的[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")。
 
 ## 產品列表

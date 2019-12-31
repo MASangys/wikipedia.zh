@@ -1,3 +1,6 @@
+> 本文内容由[WMF文件格式漏洞](https://zh.wikipedia.org/wiki/WMF文件格式漏洞)转换而来。
+
+
 **WMF文件格式漏洞**是一个源于[微软](../Page/微软.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")的漏洞，被一个[计算机安全](../Page/计算机安全.md "wikilink")[邮件列表Bugtraq于](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")2005年12月27日公开[1](http://www.securityfocus.com/archive/1/420288/30/30/)，在24小时内就成为一些恶意程序，例如[间谍软件](../Page/间谍软件.md "wikilink")和[木马程序的载体](https://zh.wikipedia.org/wiki/木马程序 "wikilink")。
 
 微软于1月6日发布了针对[Windows 2000和](../Page/Windows_2000.md "wikilink")[Windows XP版本中不当处理WMF函数SETABORTPROC的补丁](../Page/Windows_XP.md "wikilink")，并且在1月16日发布了针对[Windows Vista的补丁](../Page/Windows_Vista.md "wikilink")，但是其他的操作系统仍旧会受到该漏洞的威胁。

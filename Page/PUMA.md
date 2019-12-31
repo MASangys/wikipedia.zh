@@ -1,3 +1,6 @@
+> 本文内容由[PUMA](https://zh.wikipedia.org/wiki/PUMA)转换而来。
+
+
 **PUMA**，是一間[德國體育用品製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")，為[開雲集團旗下品牌](https://zh.wikipedia.org/wiki/開雲集團 "wikilink")。主要對手有[耐吉](https://zh.wikipedia.org/wiki/耐吉 "wikilink")、[愛迪達](../Page/愛迪達.md "wikilink")、[新百倫及](https://zh.wikipedia.org/wiki/新百倫 "wikilink")[安德阿莫等](https://zh.wikipedia.org/wiki/安德阿莫 "wikilink")。PUMA的[鞋](../Page/鞋.md "wikilink")與[服飾在](https://zh.wikipedia.org/wiki/服飾 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")[塗鴉](../Page/塗鴉.md "wikilink")文化中，無論是[美國內外](https://zh.wikipedia.org/wiki/美國 "wikilink")，都受到極度歡迎。PUMA也與愛迪達同為1970與1980年代[嘻哈](../Page/嘻哈.md "wikilink")文化代表物之一。 \[1\]。
 
 ## 簡介

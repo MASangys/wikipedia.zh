@@ -1,3 +1,6 @@
+> 本文内容由[PictBridge](https://zh.wikipedia.org/wiki/PictBridge)转换而来。
+
+
 [Pictbridge_symbol.gif](https://zh.wikipedia.org/wiki/File:Pictbridge_symbol.gif "fig:Pictbridge_symbol.gif") **PictBridge**是由[照相机影像机器工业会](https://zh.wikipedia.org/wiki/照相机影像机器工业会 "wikilink") (CIPA)提出的[直接打印的](https://zh.wikipedia.org/wiki/直接打印 "wikilink")[工业标准](https://zh.wikipedia.org/wiki/工业标准 "wikilink")。该标准允许数字图像可以从[数码相机](../Page/数码相机.md "wikilink")直接通过[打印机](../Page/打印机.md "wikilink")打印，而不需要把数码相机连接到计算机上。标准的正式名称是“相机与影像产品协会标准DC-001 — 2003 影像设配的数字方案”。[1](https://web.archive.org/web/20040727141048/http://www.cipa.jp/english/pictbridge/FAQ_E_05122003.pdf)
 
 ## 背景

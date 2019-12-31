@@ -1,3 +1,6 @@
+> 本文内容由[Levi\'s](https://zh.wikipedia.org/wiki/Levi\'s)转换而来。
+
+
 [HK_Yuen_Long_Plaza_Levi_s_Store_Ground_Floor.JPG](https://zh.wikipedia.org/wiki/File:HK_Yuen_Long_Plaza_Levi_s_Store_Ground_Floor.JPG "fig:HK_Yuen_Long_Plaza_Levi_s_Store_Ground_Floor.JPG")[元朗廣場](../Page/元朗廣場.md "wikilink")分店\]\] [Levi's_store_in_Leipzig.jpg](https://zh.wikipedia.org/wiki/File:Levi's_store_in_Leipzig.jpg "fig:Levi's_store_in_Leipzig.jpg")[萊比錫分店](https://zh.wikipedia.org/wiki/萊比錫 "wikilink")\]\] **李維斯公司**（，簡稱****）是美國一家[私人公司](../Page/私人公司.md "wikilink")的服裝公司，在全球以其**Levi's**品牌的[牛仔布](https://zh.wikipedia.org/wiki/牛仔布 "wikilink")[牛仔褲而聞名](../Page/牛仔裤.md "wikilink")。它成立於1853年，當時，創辦人[李維·史特勞斯從](https://zh.wikipedia.org/wiki/李維·史特勞斯 "wikilink")[巴伐利亞王國](../Page/巴伐利亞王國.md "wikilink")[布滕海姆](../Page/布滕海姆.md "wikilink")到[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[旧金山](../Page/旧金山.md "wikilink")開設其兄弟[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[乾貨業務的西海岸分支](https://zh.wikipedia.org/wiki/乾貨 "wikilink")。 該公司的總部位於舊金山的Levi's廣場。\[1\]
 
 ## 歷史

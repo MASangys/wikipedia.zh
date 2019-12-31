@@ -1,3 +1,6 @@
+> 本文内容由[NDH](https://zh.wikipedia.org/wiki/NDH)转换而来。
+
+
 **Neue Deutsche Härte**（“新德意志硬式”）新德意志酷派搖滾浪潮是一個於1990年代在[德國境內開始發展的一個](https://zh.wikipedia.org/wiki/德國 "wikilink")[硬式搖滾](../Page/硬式搖滾.md "wikilink")和[重金屬音樂的趨勢](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")。該種類型的音樂結合了以低沉且清晰的[主唱嗓音](https://zh.wikipedia.org/wiki/主唱 "wikilink")，背景編曲經常以[電吉他扭曲的長音加上](https://zh.wikipedia.org/wiki/電吉他 "wikilink")[鼓](../Page/鼓.md "wikilink")以及[鍵盤的運用](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")，同時亦使用各種音源的[合成](https://zh.wikipedia.org/wiki/合成 "wikilink")、混音和[電子鼓](https://zh.wikipedia.org/wiki/電子鼓 "wikilink")。 [Oomph\!被視為是該音樂類型的濫觴](https://zh.wikipedia.org/wiki/Oomph! "wikilink")，並啟發了日後的[德国战车](../Page/德国战车.md "wikilink")Rammstein，後者則是第一個以商業取向而能打入美國和世界各地市場當中的團體。
 
 ## Bands

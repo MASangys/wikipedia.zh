@@ -1,3 +1,6 @@
+> 本文内容由[BPEL](https://zh.wikipedia.org/wiki/BPEL)转换而来。
+
+
 **BPEL**（發音為'bipple'或'bee-pell'）是的縮寫，意为**业务过程执行语言**，是一种基于[XML](../Page/XML.md "wikilink")的，用来描写业务过程的编程语言，被描写的业务过程的每个单一步骤则由[Web服务](../Page/Web服务.md "wikilink")来实现。
 
 2002年[IBM](../Page/IBM.md "wikilink")、[BEA和](https://zh.wikipedia.org/wiki/BEA "wikilink")[微软](../Page/微软.md "wikilink")一起开发和引入了作为描写协调Web服务的语言。这个描写的本身也由Web服务提供，并可以当作[Web服务](../Page/Web服务.md "wikilink")来使用。

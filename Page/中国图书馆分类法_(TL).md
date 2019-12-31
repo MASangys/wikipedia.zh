@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TL\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TL\))转换而来。
+
+
   - TL [原子能技术](https://zh.wikipedia.org/wiki/原子能技术 "wikilink")
 
 :\*TL-9 原子能技术经济

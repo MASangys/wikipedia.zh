@@ -1,3 +1,6 @@
+> 本文内容由[馬自達323 Astina](https://zh.wikipedia.org/wiki/馬自達323 Astina)转换而来。
+
+
 **馬自達323 Astina**（）是[日本](../Page/日本.md "wikilink")[馬自達公司於](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1989年至1994年間生產，從[第七代323演變而來的五門](https://zh.wikipedia.org/wiki/馬自達323#第七代（1989年-1996年） "wikilink")[斜背式](../Page/斜背車.md "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。
 
 此款車在各地市場出現不同的車名：[日本](../Page/日本.md "wikilink")稱為**馬自達Familia Astina**（マツダ・ファミリアアスティナ）、[歐洲地區叫做](https://zh.wikipedia.org/wiki/歐洲 "wikilink")**馬自達323F**，而[香港](../Page/香港.md "wikilink")則稱呼為**馬自達323 Astina**。當時[馬自達還推出配備比較豪華的](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[Eunos 100](../Page/Eunos_100.md "wikilink")，乃為兄弟車款。

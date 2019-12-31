@@ -1,3 +1,6 @@
+> 本文内容由[萩原舞 \(AV女優\)](https://zh.wikipedia.org/wiki/萩原舞 \(AV女優\))转换而来。
+
+
 **萩原舞**（，）是[日本](../Page/日本.md "wikilink")著名[寫真女星與](https://zh.wikipedia.org/wiki/寫真 "wikilink")[AV女優](../Page/AV女優.md "wikilink")，她於1997年起就開始了寫真女星的生涯，因其可愛健康的形象讓他成為「菓子系寫真偶像」的代表人物。
 
 ## 略歷

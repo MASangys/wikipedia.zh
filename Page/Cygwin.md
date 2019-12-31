@@ -1,3 +1,6 @@
+> 本文内容由[Cygwin](https://zh.wikipedia.org/wiki/Cygwin)转换而来。
+
+
 **Cygwin**是许多[自由软件](../Page/自由软件.md "wikilink")的集合，最初由[Cygnus Solutions开发](https://zh.wikipedia.org/wiki/Cygnus_Solutions "wikilink")，用于各种版本的[Microsoft Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，运行[类UNIX系统](https://zh.wikipedia.org/wiki/Unix-like "wikilink")。Cygwin的主要目的是通过重新编译，将[POSIX系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")（例如[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")，以及其他[Unix系统](https://zh.wikipedia.org/wiki/Unix "wikilink")）上的软件移植到Windows上。Cygwin移植工作在[Windows NT上比较好](../Page/Windows_NT.md "wikilink")，在[Windows 95和](../Page/Windows_95.md "wikilink")[Windows 98上](../Page/Windows_98.md "wikilink")，相对差劲一些。目前Cygwin由[Red Hat等负责维护](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")。
 
 ## 简介

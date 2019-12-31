@@ -1,3 +1,6 @@
+> 本文内容由[De·Lencquesaing望](https://zh.wikipedia.org/wiki/De·Lencquesaing望)转换而来。
+
+
 **de・Lencquesaing望，ド・ランクザン望**（ド・ランクザン のぞみ、本名：**ド・ランクザン トーマ 望**=**De Lencquesaing Thomas Nozomi**、）是日本的[童星](../Page/童星.md "wikilink")[人才](https://zh.wikipedia.org/wiki/人才 "wikilink")。出身於日本[東京都](../Page/東京都.md "wikilink")[文京區](../Page/文京區.md "wikilink")[本鄉](https://zh.wikipedia.org/wiki/本鄉 "wikilink")。是[法國人與日本人的混血兒](https://zh.wikipedia.org/wiki/法國 "wikilink")。[血型是](https://zh.wikipedia.org/wiki/血型 "wikilink")[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。身高179公分。屬於[Stardust Promotion的一員](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 
 ## 人物

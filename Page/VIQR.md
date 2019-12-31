@@ -1,3 +1,6 @@
+> 本文内容由[VIQR](https://zh.wikipedia.org/wiki/VIQR)转换而来。
+
+
 **可讀越語引述法**（英：***VI**etnamese **Q**uoted-**R**eadable*，**VIQR**）是一套使用[ASCII](../Page/ASCII.md "wikilink")字符来书写[越南语](../Page/越南语.md "wikilink")的做法。越南语包含大量不在ASCII的字母；VIQR则提供一个方法，在打完本来没有[附加符号](../Page/附加符号.md "wikilink")的字母後，加上1或2个符号去代表附加符号。
 
 ## VIQR的附加符號

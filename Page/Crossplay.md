@@ -1,3 +1,6 @@
+> 本文内容由[Crossplay](https://zh.wikipedia.org/wiki/Crossplay)转换而来。
+
+
 **Crossplay**是人扮成另一個性別的角色的[Cosplay](../Page/Cosplay.md "wikilink")。
 
 「cosplay」一詞是在日本[ACG](../Page/ACG.md "wikilink") Cosplay文化進入美國之後，美國人注意到某些Cosplay與美國本土「cross dressing」的結合而創造的新詞。在日本似乎並沒有將[跨性別](../Page/跨性別.md "wikilink")的部分獨立討論，仍然全部叫做Cosplay。無論如何，日本的[ACG](../Page/ACG.md "wikilink")作品中已經出現Cosplay角色。像是《[烏龍派出所](../Page/烏龍派出所.md "wikilink")》就有好幾位。

@@ -1,3 +1,6 @@
+> 本文内容由[TPD-K1瞄準儀](https://zh.wikipedia.org/wiki/TPD-K1瞄準儀)转换而来。
+
+
 **TPD-K1**是[蘇聯自](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1970年代後期開始廣泛使用在[坦克](../Page/坦克.md "wikilink")上的主要射手瞄準儀（Primary Gunner Sight, PGS），配備在[T-64](https://zh.wikipedia.org/wiki/T-64 "wikilink")／[T-72](https://zh.wikipedia.org/wiki/T-72 "wikilink")／[T-80](https://zh.wikipedia.org/wiki/T-80 "wikilink")[主戰坦克上](https://zh.wikipedia.org/wiki/主戰坦克 "wikilink")，它的改良型是具有前置量計算功能的1A40與具有[導彈控制套件的](https://zh.wikipedia.org/wiki/導彈 "wikilink")1A40-1。TPD-K1具有獨立的垂直軸穩定，內建[雷射測距儀以及簡易的彈道](https://zh.wikipedia.org/wiki/雷射測距儀 "wikilink")、距離修正功能，在蘇聯解體後因為性能落伍所以被更先進的瞄準儀如1G46取代，或是被加以改良並且搭配[熱影像儀與新式彈道計算機模組以提升性能表現](https://zh.wikipedia.org/wiki/熱影像 "wikilink")。
 
 ## 技術特性

@@ -1,3 +1,6 @@
+> 本文内容由[基于UDP的数据传输协议](https://zh.wikipedia.org/wiki/基于UDP的数据传输协议)转换而来。
+
+
 {{ Infobox_Software | name = UDT | logo = | screenshot = | caption = | developer = 谷云洪 | latest_release_version = 4.10 | latest_release_date =  | latest_preview_version = | latest_preview_date = | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming_language = [C++](../Page/C++.md "wikilink") | genre = | license = [BSD许可证](../Page/BSD许可证.md "wikilink") | website = <http://udt.sourceforge.net/> }}
 
 **基于UDP的数据传输协议**（，缩写：**UDT**）是一种[互联网](../Page/互联网.md "wikilink")数据传输协议。UDT的主要目的是支持高速[广域网上的海量数据传输](https://zh.wikipedia.org/wiki/广域网 "wikilink")，而[互联网](../Page/互联网.md "wikilink")上的标准数据传输协议[TCP在高带宽长距离网络上性能很差](https://zh.wikipedia.org/wiki/TCP "wikilink")。

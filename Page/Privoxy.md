@@ -1,3 +1,6 @@
+> 本文内容由[Privoxy](https://zh.wikipedia.org/wiki/Privoxy)转换而来。
+
+
 **Privoxy**是一款不进行[网页缓存且自带过滤功能的](https://zh.wikipedia.org/wiki/网页快照 "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")，针对[HTTP](../Page/超文本传输协议.md "wikilink")、[HTTPS协议](../Page/超文本传输安全协议.md "wikilink")。通过其过滤功能，用户可以保护隐私、对网页内容进行过滤、管理[Cookie](../Page/Cookie.md "wikilink")，以及拦阻各种广告等。Privoxy可以单机使用，也可以应用到多用户的网络。它也可以与其他代理相连（通常与[Squid一起使用](../Page/Squid_\(软件\).md "wikilink")），更可以突破[互联网审查](../Page/互联网审查.md "wikilink")。\[1\]
 
 ## 历史

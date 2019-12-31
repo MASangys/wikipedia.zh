@@ -1,3 +1,6 @@
+> 本文内容由[TCL集团](https://zh.wikipedia.org/wiki/TCL集团)转换而来。
+
+
 **TCL集团股份有限公司**（），是一家总部位于[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")[广东省](../Page/广东省.md "wikilink")[惠州的](https://zh.wikipedia.org/wiki/惠州 "wikilink")[电子](../Page/电子.md "wikilink")、[电器制造企业](https://zh.wikipedia.org/wiki/电器 "wikilink")。TCL集团生产[移动电话](../Page/移动电话.md "wikilink")、[个人电脑](../Page/个人电脑.md "wikilink")、[家用电器](../Page/家用电器.md "wikilink")、电气[照明和](https://zh.wikipedia.org/wiki/照明 "wikilink")[数字媒体](https://zh.wikipedia.org/wiki/数字媒体 "wikilink")（Digital Media）、[平板電視并在中国大陸内外销售](https://zh.wikipedia.org/wiki/平板電視 "wikilink")。TCL是在[深圳证券交易所](../Page/深圳证券交易所.md "wikilink")和[香港交易所](../Page/香港交易所.md "wikilink")上市的[公司](../Page/公司.md "wikilink")。TCL的名称来源已经无从考证，更多的说法是来自于公司早期名稱“TCL通讯设备有限公司”（Telephone Company Limited）的[英文缩写](https://zh.wikipedia.org/wiki/英文 "wikilink")。TCL的品牌形象一直围绕“T”“C”“L”三个字母组成。2007年6月18日，TCL集团宣佈启动新品牌战略，将“TCL”解释为“創意感動生活”（The Creative Life）。此前，TCL集团将TCL释为“今日中国雄狮”（Today China Lion）。\[1\]
 
 2016年，TCL集团实现营业收入1064亿元，实现净利润16亿元\[2\]；位列“2017中国500强企业”第145位\[3\]。

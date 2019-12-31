@@ -1,3 +1,6 @@
+> 本文内容由[BSD许可证](https://zh.wikipedia.org/wiki/BSD许可证)转换而来。
+
+
 **BSD 授權條款**（），是[自由軟體中使用最廣泛的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[授權條款之一](https://zh.wikipedia.org/wiki/授權條款 "wikilink")。[BSD](../Page/BSD.md "wikilink") 就是遵照這個許可證來發布，也因此而得名 BSD 授權條款。
 
 BSD 套件最初所有者是[加州大學的](https://zh.wikipedia.org/wiki/加州大學 "wikilink")[董事會](https://zh.wikipedia.org/wiki/董事會 "wikilink")，這是由於 BSD 源自[加州大學伯克利分校](https://zh.wikipedia.org/wiki/加州大學伯克利分校 "wikilink")。BSD 開始後，BSD 授權條款得以修正，使得以後許多 BSD 變種，都采用類似風格的條款。

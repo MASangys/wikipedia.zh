@@ -1,3 +1,6 @@
+> 本文内容由[NX位元](https://zh.wikipedia.org/wiki/NX位元)转换而来。
+
+
 **NX位**（全名“**N**o e**X**ecute bit”，即「**禁止執行位**」，或“**執行禁用位元**”），是應用在[CPU中的一種安全技術](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")。
 
 ## 原理

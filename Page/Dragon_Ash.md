@@ -1,3 +1,6 @@
+> 本文内容由[Dragon Ash](https://zh.wikipedia.org/wiki/Dragon Ash)转换而来。
+
+
 ****是在日本具有重要地位的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由主唱[降谷建志](../Page/降谷建志.md "wikilink")帶領。他們是第一個將[嘻哈](../Page/嘻哈.md "wikilink")音樂推-{向}-日本流行音樂市場的樂團。
 
 的曲風混合了[饒舌](../Page/饒舌.md "wikilink")、[饒舌搖滾](https://zh.wikipedia.org/wiki/饒舌搖滾 "wikilink")、[龐克](https://zh.wikipedia.org/wiki/龐克 "wikilink")、[硬蕊以及](https://zh.wikipedia.org/wiki/硬蕊 "wikilink")[節奏藍調等不同音樂類型](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")，他們因此將美式風格帶進了日本音樂，並且讓饒舌音樂在日本成為主流之一。的歌曲使用了很多不同的「[音樂取樣](https://zh.wikipedia.org/wiki/音樂取樣 "wikilink")」（），有一大部分取樣來自美國知名的[另類搖滾樂團](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")「」（[非凡人物樂團](https://zh.wikipedia.org/wiki/非凡人物樂團 "wikilink")），例如單曲《》中的[貝斯聲音就是取樣自他們的同名歌曲](https://zh.wikipedia.org/wiki/貝斯 "wikilink")，另一首《》歌曲中的開頭則是取樣自的「」。將他們其中一首歌曲命名為《》，也與的歌曲名稱相同。他們獨特的混合式（）搖滾曲風，形成穩重又暢快的音樂感。近來的作品也融入了[電子音樂](../Page/電子音樂.md "wikilink")和[拉丁的風格](../Page/拉丁音樂.md "wikilink")。

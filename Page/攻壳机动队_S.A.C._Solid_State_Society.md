@@ -1,3 +1,6 @@
+> 本文内容由[攻壳机动队 S.A.C. Solid State Society](https://zh.wikipedia.org/wiki/攻壳机动队 S.A.C. Solid State Society)转换而来。
+
+
 《**攻殼機動隊: Stand Alone Complex - Solid State Society**》是**[士郎正宗](../Page/士郎正宗.md "wikilink")**同名漫畫《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的作品。2006年3月17日在[Production I.G官方網站首次公布了相關消息](../Page/Production_I.G.md "wikilink")。正式發行定於2006年9月1日，發行方式為[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，片長105分鐘，採用DD5.1音軌。劇情是接續電視影集[攻殼機動隊 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻殼機動隊_S.A.C._2nd_GIG "wikilink")。製作人員也與2nd GIG相同。監督和分鏡仍由[神山健治](../Page/神山健治.md "wikilink")擔當，[押井守](../Page/押井守.md "wikilink")則會從中参與協力，而脚本由[神山健治](../Page/神山健治.md "wikilink")、[菅正太郎](../Page/菅正太郎.md "wikilink")、[樱井圭记三人共同負責](https://zh.wikipedia.org/wiki/樱井圭记 "wikilink")，音乐則由[菅野洋子](../Page/菅野洋子.md "wikilink")負責。該片的總製作費用據稱高達3億6千萬日元。獲選為2006年第十回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。2011年3月26日3D劇場版上映，雖受到[日本东北地方太平洋近海地震影響](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")，新宿等地仍有許多人觀賞。
 
 ## 發表

@@ -1,3 +1,6 @@
+> 本文内容由[FictionJunction](https://zh.wikipedia.org/wiki/FictionJunction)转换而来。
+
+
 [FictionJunction_at_Anime_Expo_2012.jpg](https://zh.wikipedia.org/wiki/File:FictionJunction_at_Anime_Expo_2012.jpg "fig:FictionJunction_at_Anime_Expo_2012.jpg") **FictionJunction**（）是[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[梶浦由記](../Page/梶浦由記.md "wikilink")Solo Project的總稱。（但不包含梶浦制作的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。）
 
 梶浦由記除擔當[鍵盤樂器](../Page/鍵盤樂器.md "wikilink")，還不定期（幾近於無，例如：synchronicity中一段梶浦語）以Vocal演出。

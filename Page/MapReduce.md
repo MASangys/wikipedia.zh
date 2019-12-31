@@ -1,3 +1,6 @@
+> 本文内容由[MapReduce](https://zh.wikipedia.org/wiki/MapReduce)转换而来。
+
+
 **MapReduce**是[Google](../Page/Google.md "wikilink")提出的一个[软件架构](../Page/软件架构.md "wikilink")，用于大规模数据集（大于1[TB](https://zh.wikipedia.org/wiki/terabyte "wikilink")）的[并行运算](https://zh.wikipedia.org/wiki/并行运算 "wikilink")。概念“Map（映射）”和“Reduce（归纳）”，及他们的主要思想，都是从[函数式编程语言借来的](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，还有从[矢量编程语言借来的特性](https://zh.wikipedia.org/wiki/矢量编程语言 "wikilink")。
 
 当前的软件实现是指定一个*Map（映射）*函数，用来把一组键值对映射成一组新的键值对，指定并发的*Reduce（归纳）*函数，用来保证所有映射的键值对中的每一个共享相同的键组。

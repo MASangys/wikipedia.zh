@@ -1,3 +1,6 @@
+> 本文内容由[Wii遊戲列表](https://zh.wikipedia.org/wiki/Wii遊戲列表)转换而来。
+
+
 本列表收錄[任天堂](../Page/任天堂.md "wikilink")「[Wii](../Page/Wii.md "wikilink")」平台的遊戲作品
 
   - 依據[日本](../Page/日本.md "wikilink")當地發售日期排序，列表中不包含有追加資料等的廉價版及其他語言版本。

@@ -1,3 +1,6 @@
+> 本文内容由[Google網上論壇](https://zh.wikipedia.org/wiki/Google網上論壇)转换而来。
+
+
 **Google 網上論壇**（）是[Google](../Page/Google.md "wikilink")提供的在线交流工具，在[Web界面上类似于常见的](https://zh.wikipedia.org/wiki/Web "wikilink")[网络论坛](../Page/网络论坛.md "wikilink")。但Google Groups的实质却可以理解为一个[邮件列表](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。但与传统的邮件列表相比，它提供了基于[Web的更多功能](https://zh.wikipedia.org/wiki/Web "wikilink")。如共享文件、创建页面、帖子评分等。
 
 ## 特色

@@ -1,3 +1,6 @@
+> 本文内容由[COMiC FANS](https://zh.wikipedia.org/wiki/COMiC FANS)转换而来。
+
+
 《**COMIC FANS**》是由[香港](../Page/香港.md "wikilink")的[天下出版社出版的](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[月刊](../Page/漫畫雜誌.md "wikilink")，偏-{向}-日式少女畫風。每月隨漫畫附送印有連載漫畫中的漫畫人物圖案的贈品。於1995年8月創刊，首於當年的漫畫節推出，由於大受歡迎，創刊號共推出了2次再版。根據創刊號的一篇感想（刊登於創刊號第二頁），能夠促成Comic fans的出版，是由於當時有不少讀者看過[美少女戰士的單行本後](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")，經常致電查詢有關新一期[美少女戰士的出版時間](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")，所以天下出版社就推出了這本漫畫月刊。Comic fans所連載的日本漫畫均來自日本[講談社旗下的少女漫畫月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")。而近幾年亦多有幾位[香港漫畫家的作品](https://zh.wikipedia.org/wiki/香港漫畫家 "wikilink")。
 
 Comic fans在推出2012年6月號之後，正式宣布停刊。同年7月，天下出版社推出少女漫畫月刊雜誌 COMICフェス（Comic Festival）\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[月刊少年Ace](https://zh.wikipedia.org/wiki/月刊少年Ace)转换而来。
+
+
 [Shone_ace.jpg](https://zh.wikipedia.org/wiki/File:Shone_ace.jpg "fig:Shone_ace.jpg")
 
 《**月刊少年Ace**》（[日文原名](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是[角川書店](../Page/角川書店.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，於1994年3月創刊，其前身為《[月刊Comic Comptiq](https://zh.wikipedia.org/wiki/月刊Comic_Comptiq "wikilink")》，因為角川的內部紛爭而停刊。最初發行時多以前身的書籍發行。[台灣東販](../Page/台灣東販.md "wikilink")曾經以《**頂尖少年Ace**》的名義發行中文版。

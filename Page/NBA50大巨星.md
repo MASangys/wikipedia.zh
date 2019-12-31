@@ -1,3 +1,6 @@
+> 本文内容由[NBA50大巨星](https://zh.wikipedia.org/wiki/NBA50大巨星)转换而来。
+
+
 **国家篮球协会历史上最伟大的50名球员**（亦称**NBA50周年之队**或**NBA50大巨星**）于1996年[国家篮球协会](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")（NBA）创立五十周年之际选出。媒体从业者、前运动员和教练及现任和前任总经理组成评审团，投票选出了这50名球员。此外，作为庆典的一部分，媒体还选出了NBA历史上十大[主教练和十支最伟大的球队](https://zh.wikipedia.org/wiki/主教练 "wikilink")（单赛季）\[1\]。这五十名球员必须在其职业生涯中在NBA效力过，并且不计其场上位置。
 
 时任NBA总裁[大卫·斯特恩](../Page/大卫·斯特恩.md "wikilink")于1996年10月29日在纽约凯悦酒店（原址为舰队司令酒店，1946年6月6日NBA宪章在此签订）宣布了这一名单，由此也开始了长达[一个赛季的NBA周年庆](https://zh.wikipedia.org/wiki/1996-97_NBA赛季 "wikilink")\[2\]。在[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克里夫兰举行](https://zh.wikipedia.org/wiki/克里夫兰_\(俄亥俄州\) "wikilink")，半场休息时这50名球员中的47人集结到一起参加了仪式\[3\]。有三名球员缺席：[皮特·馬拉維奇于](https://zh.wikipedia.org/wiki/皮特·馬拉維奇 "wikilink")1988年去世，时年40岁\[4\]；[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")正在膝伤康复中；[杰里·韦斯特则要进行耳感染手术](https://zh.wikipedia.org/wiki/杰里·韦斯特 "wikilink")，无法乘坐飞机\[5\]。在名单宣布之时，有11名球员现役。奥尼尔是最后一名NBA现役球员，他在结束后退役\[6\]。

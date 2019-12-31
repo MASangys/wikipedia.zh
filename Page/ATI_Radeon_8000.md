@@ -1,3 +1,6 @@
+> 本文内容由[ATI Radeon 8000](https://zh.wikipedia.org/wiki/ATI Radeon 8000)转换而来。
+
+
 [ATI_Radeon_8500_logo.png](https://zh.wikipedia.org/wiki/File:ATI_Radeon_8500_logo.png "fig:ATI_Radeon_8500_logo.png") **ATI Radeon 8000**系列[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，採用**R200**系列[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，由[ATI研發並推出](https://zh.wikipedia.org/wiki/ATI "wikilink")。**Radeon 8500**（核心代號 **R200**）是一個[Radeon](../Page/Radeon.md "wikilink")系列[顯示卡核心能夠將](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[ATI放在與](https://zh.wikipedia.org/wiki/ATI "wikilink")[nVIDIA競爭的層面上](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")，亦成功使當時的ATI脫離衰退顯示卡廠商的行列。它亦是全球首款完整支持DirectX 8.1的產品，[GeForce 3只能算是支持DirectX](https://zh.wikipedia.org/wiki/GeForce_3 "wikilink") 8.0。
 
 ## 旗艦級產品

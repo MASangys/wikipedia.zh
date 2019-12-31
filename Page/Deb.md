@@ -1,3 +1,6 @@
+> 本文内容由[Deb](https://zh.wikipedia.org/wiki/Deb)转换而来。
+
+
 [Gdebi.png](https://zh.wikipedia.org/wiki/File:Gdebi.png "fig:Gdebi.png")\]\] **deb**是[Debian](../Page/Debian.md "wikilink")[软件包格式](https://zh.wikipedia.org/wiki/软件包 "wikilink")，[文件扩展名](../Page/文件扩展名.md "wikilink")为**.deb**，跟*Debian*的命名一样，deb也是因Debra Murdock（Debian创始人[Ian Murdock的前妻](https://zh.wikipedia.org/wiki/Ian_Murdock "wikilink")）而得名。
 
 Debian包是[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[ar的标准归档](https://zh.wikipedia.org/wiki/ar "wikilink")，将包文件信息以及包内容，经过[gzip和](https://zh.wikipedia.org/wiki/gzip "wikilink")[tar打包而成](https://zh.wikipedia.org/wiki/Tar_\(计算机科学\) "wikilink")。

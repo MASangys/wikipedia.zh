@@ -1,3 +1,6 @@
+> 本文内容由[T-money](https://zh.wikipedia.org/wiki/T-money)转换而来。
+
+
 [T-moenycard.jpg](https://zh.wikipedia.org/wiki/File:T-moenycard.jpg "fig:T-moenycard.jpg")  **T-money**是一種在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")及鄰近城市使用的公共交通[智能卡系統](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。使用非接觸式智能卡設計，基本卡售價為3,000[韓圆](https://zh.wikipedia.org/wiki/韓圆 "wikilink")，需另外增值；在首爾市內的[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[7-11](https://zh.wikipedia.org/wiki/7-11 "wikilink")、[首爾地鐵各車站票務處等地發售及增值](https://zh.wikipedia.org/wiki/首爾地鐵 "wikilink")。 本智慧卡系統由韓國智慧卡公司負責營運與發行，該公司由[首爾市政府](https://zh.wikipedia.org/wiki/首爾市政府 "wikilink")34.4%控股、LG CNS 31.85%控股以及信用卡聯盟15.71%控股。
 
 ## 使用範圍

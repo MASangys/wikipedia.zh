@@ -1,3 +1,6 @@
+> 本文内容由[MD5](https://zh.wikipedia.org/wiki/MD5)转换而来。
+
+
 **MD5訊息摘要演算法**（），一種被廣泛使用的[密碼雜湊函數](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，可以產生出一個128位元（16[位元組](https://zh.wikipedia.org/wiki/位元組 "wikilink")）的散列值（hash value），用于确保信息传输完整一致。MD5由美國密碼學家[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（）設計，於1992年公開，用以取代[MD4演算法](https://zh.wikipedia.org/wiki/MD4 "wikilink")。這套演算法的程序在 RFC 1321 中被加以規範。
 
 将[数据](https://zh.wikipedia.org/wiki/数据 "wikilink")（如一段文字）运算变为另一固定长度值，是雜湊算法的基础原理。

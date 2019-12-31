@@ -1,3 +1,6 @@
+> 本文内容由[BASIC Stamp](https://zh.wikipedia.org/wiki/BASIC Stamp)转换而来。
+
+
 [PD-20060911-BASIC-Stamp-2.svg](https://zh.wikipedia.org/wiki/File:PD-20060911-BASIC-Stamp-2.svg "fig:PD-20060911-BASIC-Stamp-2.svg")
 
 **BASIC Stamp**（有時也稱**BASIC Stamp Module**）\[1\]是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Parallax公司自](https://zh.wikipedia.org/wiki/Parallax公司 "wikilink")1992年起所提創的一種[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")，此種微控制器與其他微控制器不同的地方在於：微控制器（BASIC Stamp）中的[ROM記憶體內建了一套小型](https://zh.wikipedia.org/wiki/ROM "wikilink")、特有的[BASIC](../Page/BASIC.md "wikilink")（培基）程式語言[直譯器](../Page/直譯器.md "wikilink")，稱為：[PBASIC](https://zh.wikipedia.org/wiki/PBASIC "wikilink")。有了PBASIC後，想開發、撰寫微控器應用的設計者，只要學會、具備BASIC程式語言的撰寫能力，就能夠用其開發出嵌入式系統所用的控制應用程式，大幅降低了嵌入式設計的技能學習門檻，也因此BASIC Stamp在電子電機的嗜好玩家群中相當普遍與受歡迎。

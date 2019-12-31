@@ -1,3 +1,6 @@
+> 本文内容由[Amaranth](https://zh.wikipedia.org/wiki/Amaranth)转换而来。
+
+
 **Amaranth Advisors**為[Nicholas M. Maounis於公元](https://zh.wikipedia.org/wiki/Nicholas_M._Maounis "wikilink")2000年創辦的[對沖基金](https://zh.wikipedia.org/wiki/對沖基金 "wikilink")，總部設在[康乃狄克州](../Page/康乃狄克州.md "wikilink")。
 
 ## 历史

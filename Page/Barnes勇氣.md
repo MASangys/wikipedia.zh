@@ -1,3 +1,6 @@
+> 本文内容由[Barnes勇氣](https://zh.wikipedia.org/wiki/Barnes勇氣)转换而来。
+
+
 '''Barnes勇氣 '''（バーンズ勇気，伯恩斯勇氣，ばーんず ゆうき（Yuki Barnes）, ）是出身於日本[神奈川縣](../Page/神奈川縣.md "wikilink")的[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。屬於[Stardust Promotion的一員](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")。
 
 血型是O型。身高在2006年4月當時是166公分。母親是日本人，父親是美國人的日美混血兒。特技是打鼓，倒立等等。喜歡的食物是拉麵。喜歡的台詞是「Come on\!」。將來的夢想是成為舞者。

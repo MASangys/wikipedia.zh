@@ -1,3 +1,6 @@
+> 本文内容由[Intel Xeon處理器列表](https://zh.wikipedia.org/wiki/Intel Xeon處理器列表)转换而来。
+
+
 **[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink")**為[英特爾推出的處理器系列](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，主要目標為伺服器及工作站，現今則伸展至追求極致遊戲體驗的高端玩家。
 
 ## 基于[P6微架構](../Page/P6微架構.md "wikilink")的Xeon

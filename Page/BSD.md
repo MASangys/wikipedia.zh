@@ -1,3 +1,6 @@
+> 本文内容由[BSD](https://zh.wikipedia.org/wiki/BSD)转换而来。
+
+
 **伯克利軟件套件**（，縮寫：**BSD**；也被稱為**伯克利Unix**或）是一個衍生自[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")（[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")）的[操作系统](../Page/操作系统.md "wikilink")，1970年代由[伯克利加州大學的學生](https://zh.wikipedia.org/wiki/伯克利加州大學 "wikilink")[比爾·喬伊](https://zh.wikipedia.org/wiki/比爾·喬伊 "wikilink")（Bill Joy）開創，也被用來代表其衍生出的各種套件。
 
 [BSD许可证](../Page/BSD许可证.md "wikilink")非常地寬鬆，因此BSD常被當作[工作站](../Page/工作站.md "wikilink")級別的Unix系統，許多1980年代成立的計算機公司都從BSD中獲益，比較著名的例子如[DEC的](https://zh.wikipedia.org/wiki/DEC "wikilink")[Ultrix](https://zh.wikipedia.org/wiki/Ultrix "wikilink")，以及[Sun公司的](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[SunOS](../Page/SunOS.md "wikilink")。 1990年代，BSD很大程度上被[System V](https://zh.wikipedia.org/wiki/System_V "wikilink") 4.x版以及[OSF/1系統所取代](https://zh.wikipedia.org/wiki/OSF/1 "wikilink")，但其[開源版本被採用](https://zh.wikipedia.org/wiki/開源 "wikilink")，促進了因特网的開發。

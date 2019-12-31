@@ -1,3 +1,6 @@
+> 本文内容由[FB-DIMM](https://zh.wikipedia.org/wiki/FB-DIMM)转换而来。
+
+
 **Fully Buffered DIMM**（或**FB-DIMM**）是一種[記憶體解決方案](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，用來增加記憶體系統的穩定性、速度、及容量密度。就傳統而言，[記憶體控制器上的資料線必須與每一個](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")[DRAM模組相連接](https://zh.wikipedia.org/wiki/DRAM "wikilink")，如此記憶體無論是拓寬存取介面的頻寬或加快存取介面的速度，都會使介面的信號轉差，如此不僅限制了速度的提升，也會限制記憶體系統的記憶空間提升，而FB-DIMM則是用不同的方式手法來解決這個問題。[JEDEC](../Page/JEDEC.md "wikilink")組織已經正式敲定發佈FB-DIMM的規範標準。
 
 [FBDIMM.gif](https://zh.wikipedia.org/wiki/File:FBDIMM.gif "fig:FBDIMM.gif")

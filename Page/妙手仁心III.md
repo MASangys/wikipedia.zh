@@ -1,3 +1,6 @@
+> 本文内容由[妙手仁心III](https://zh.wikipedia.org/wiki/妙手仁心III)转换而来。
+
+
 《**妙手仁心III**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝醫務[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[黎姿](../Page/黎姿.md "wikilink")、[吳美珩](../Page/吳美珩.md "wikilink")、[曹永廉](../Page/曹永廉.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")及[廖碧兒](../Page/廖碧兒.md "wikilink")領銜主演，監製[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第三輯。
 
 此劇於2007年10月30日、2017年5月25日在[翡翠台](../Page/翡翠台.md "wikilink")，2016年2月27日在[TVB星河频道重播](https://zh.wikipedia.org/wiki/TVB星河频道 "wikilink")。

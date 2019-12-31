@@ -1,3 +1,6 @@
+> 本文内容由[Y世代](https://zh.wikipedia.org/wiki/Y世代)转换而来。
+
+
 [LAN_Party.jpg](https://zh.wikipedia.org/wiki/File:LAN_Party.jpg "fig:LAN_Party.jpg") **Y世代**（**Generation Y**），又叫**千禧世代**（**Millennials**），一般指[1980年代](../Page/1980年代.md "wikilink")和[1990年代](../Page/1990年代.md "wikilink")出生的人，是源自[美國文化對一個特定世代所習慣稱呼的名稱](https://zh.wikipedia.org/wiki/美國文化 "wikilink")。
 
 所謂的[世代](../Page/世代.md "wikilink")，就是指在某一段時期內出生的一批人群，他們具有代表性的特色，與探討的根基和影響力。在美國針對世代的話題與研究當中，目前討論最多的恐怕就是[X世代](../Page/X世代.md "wikilink")，而因為數學[代數的習慣](https://zh.wikipedia.org/wiki/代數 "wikilink")，Y世代就是接在X世代之後的一個世代。然而，哪個時期為Y世代的定義，到目前仍有爭議，例如在針對該世代勞動力製作的全球報告就是經常以1981年至1996年間出生的人為對象。

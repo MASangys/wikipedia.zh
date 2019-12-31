@@ -1,3 +1,6 @@
+> 本文内容由[Postfix](https://zh.wikipedia.org/wiki/Postfix)转换而来。
+
+
 **Postfix** 是一種[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，它是由任職於[IBM](../Page/IBM.md "wikilink")[華生研究中心](https://zh.wikipedia.org/wiki/華生研究中心 "wikilink")（T.J. Watson Research Center）的荷蘭籍研究員Wietse Venema為了改良[sendmail郵件伺服器而產生的](https://zh.wikipedia.org/wiki/sendmail "wikilink")。最早在1990年代晚期出現，是一個[開放源代碼的軟體](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。
 
 ## 外部連結

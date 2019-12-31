@@ -1,3 +1,6 @@
+> 本文内容由[FN FAL自動步槍](https://zh.wikipedia.org/wiki/FN FAL自動步槍)转换而来。
+
+
 **FAL**（[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")：）由[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale設計的](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[7.62×51毫米口径](../Page/7.62×51mm_NATO.md "wikilink")[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，FAL相對應的英文名稱是，意為「輕型自動步槍」。FAL是世界上著名步槍之一，曾是大量國家的制式裝備。
 
 ## 歷史

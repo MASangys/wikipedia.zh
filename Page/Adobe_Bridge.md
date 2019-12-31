@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Bridge](https://zh.wikipedia.org/wiki/Adobe Bridge)转换而来。
+
+
 **Adobe Bridge**是[Adobe](../Page/Adobe.md "wikilink")公司开发的一个组织工具程序，并作为[Adobe Creative Suite](../Page/Adobe_Creative_Suite.md "wikilink") 2（CS2）的一部分于2005年5月发布，其后续版本也作为CS3和CS4的一部分，并且也随多个产品独立发布，如Photoshop CS4和InDesign CS4。其主要目的是使用类似文件浏览器的格式，管理多媒体文件（如图片，照片和影片），并将Creative Suite各个程序连-{}-接起来。它可以直接从Creative Suite软件套装其他软件中直接接入。Adobe Bridge也可以连接線上图片浏览购买网站[Adobe Stock Photos](https://zh.wikipedia.org/wiki/Adobe_Stock_Photos "wikilink")。
 
 其前身为[Photoshop中的浏览器](https://zh.wikipedia.org/wiki/Photoshop "wikilink")，但是被作为一个软體独立出来，Bridge有很多新功能，如“批量重命名”，还有其他组织管理文件的功能。它支持[RAW](../Page/RAW.md "wikilink")文件格式的编辑。管理功能还包括图片的“彩色标签”“分级”，编辑图片内容的[XMP](../Page/XMP.md "wikilink")和[IPTC](https://zh.wikipedia.org/wiki/IPTC "wikilink") [元数据](../Page/元数据.md "wikilink")，还可以处理[Adobe Version Cue](https://zh.wikipedia.org/wiki/Adobe_Version_Cue "wikilink")（后改名为Adobe Drive）项目中一个文件的不同版本。

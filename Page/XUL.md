@@ -1,3 +1,6 @@
+> 本文内容由[XUL](https://zh.wikipedia.org/wiki/XUL)转换而来。
+
+
 {{ infobox programming language | logo = | logo caption = | screenshot = | screenshot caption = | file ext = `.xul`
 [互联网媒体类型](../Page/互联网媒体类型.md "wikilink")：`application/vnd.mozilla.xul+xml` | paradigm = Declarative（[置标语言](../Page/置标语言.md "wikilink")） | scope = | released = | designer = | developer = [Mozilla基金會](../Page/Mozilla基金會.md "wikilink") | latest release version = | latest release date = | latest preview version = | latest preview date = | typing = | implementations = [Mozilla](../Page/Mozilla.md "wikilink") | dialects = | influenced by = [HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink") | influenced = | programming language = [C++](../Page/C++.md "wikilink") | platform = [Gecko](../Page/Gecko.md "wikilink") | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | license = [Mozilla公共许可证](../Page/Mozilla公共许可证.md "wikilink") | website =  | wikibooks = }}
 

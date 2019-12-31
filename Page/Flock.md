@@ -1,3 +1,6 @@
+> 本文内容由[Flock](https://zh.wikipedia.org/wiki/Flock)转换而来。
+
+
 **Flock**是一個已停止開發的[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，其特點為整合多種[社群網路服務服務](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")\[1\]。Flock的早期版本使用[Mozilla](../Page/Mozilla.md "wikilink")的[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。2.6.2版本發佈於2011年1月27日，是基於[Mozilla Firefox開發的最後一個版本](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[2\]\[3\]。從第3版開始，Flock基於[Chromium](../Page/Chromium.md "wikilink")開發並使用[WebKit](../Page/WebKit.md "wikilink")排版引擎\[4\]\[5\]。
 
 2011年1月，Flock公司被[Zynga](../Page/Zynga.md "wikilink")收購\[6\]。2011年4月26日，瀏覽器宣布停止開發和停止支援\[7\]。

@@ -1,3 +1,6 @@
+> 本文内容由[RGM-79系列机动战士](https://zh.wikipedia.org/wiki/RGM-79系列机动战士)转换而来。
+
+
 [Rgm-79.jpg](https://zh.wikipedia.org/wiki/File:Rgm-79.jpg "fig:Rgm-79.jpg") **RGM-79 GM**（吉姆）是[日本](../Page/日本.md "wikilink")[动画片](https://zh.wikipedia.org/wiki/动画片 "wikilink")[机动战士GUNDAM系列中出现的一种虚构兵器](../Page/GUNDAM系列作品.md "wikilink")。它是该动画片世界观中主力兵器[机动战士](../Page/机动战士.md "wikilink")的一种。
 
 ## 发展历史

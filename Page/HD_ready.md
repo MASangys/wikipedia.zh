@@ -1,3 +1,6 @@
+> 本文内容由[HD ready](https://zh.wikipedia.org/wiki/HD ready)转换而来。
+
+
 \-{H|zh-hans:支持;zh-hant:支援}- [HD_ready.jpg](https://zh.wikipedia.org/wiki/File:HD_ready.jpg "fig:HD_ready.jpg") **HD ready**是[歐洲資訊通訊技術協會](https://zh.wikipedia.org/wiki/歐洲資訊通訊技術協會 "wikilink")（EICTA）在2004年1月宣佈的[標準](https://zh.wikipedia.org/wiki/標準 "wikilink")。他們提出了這標準，是為了區別出[顯示設備的](https://zh.wikipedia.org/wiki/顯示設備 "wikilink")[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")，能夠處理和顯示[高清晰度電視的訊號](https://zh.wikipedia.org/wiki/高清晰度電視 "wikilink")。
 
 事實上，那些支援HD Ready的產品，並無必要加上這標籤。HD Ready的原意，是顯示設備能夠從HD訊號上顯示完整的影像[解像度](https://zh.wikipedia.org/wiki/解像度 "wikilink")，從而展現像素較高的影像。而大部分的HD Ready的電視，都沒有足夠的解像度（1920x1080[像素](../Page/像素.md "wikilink")或1280x720像素，通常是1366x768非完整16:9比例象素），來顯示HD訊號的完整像素圖像。理論上，除了這些像素不足外，抽樣理論反映出，適當的重建[濾波器需要比數碼抽樣更多的像素於螢幕上](https://zh.wikipedia.org/wiki/濾波器 "wikilink")，來提供最大的銳利度；這就是為何普通清晰度的電視（尤其是[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")），於高清晰度電視下，看起來比起最好的標準清晰度的電視質素更為良好。

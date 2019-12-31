@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XIII](https://zh.wikipedia.org/wiki/最终幻想XIII)转换而来。
+
+
 是由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")为[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Windows开发并发行的游戏机](https://zh.wikipedia.org/wiki/Windows "wikilink")[角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")（RPG）。游戏于2009年12月在日本首发，2010年3月在欧美發行，2010年5月在台湾和香港发行正体中文版，这是[最终幻想系列的第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")13部本传游戏，也是系列发行23年来的首部官方中文版游戏。系列使用了快节奏战斗的新系统，通过“水晶盘”决定角色能力的发展，并使用了可定制的“阵式”系统来控制角色所使用的能力。《最终幻想XIII》使用了系列前作的一些元素，如[召唤兽](https://zh.wikipedia.org/wiki/最终幻想系列中的召唤兽 "wikilink")、[陆行鸟](../Page/陆行鸟.md "wikilink")和飞空艇。
 
 游戏发生在一个名为茧的浮空世界，其政府（圣府）下令将可能接触到遥远下界“脉冲”的平民全數排除。原聖府軍中士的主角——雷霆，为了拯救被下界力量留下烙印而成为茧之敌人的妹妹，展开了和政府的衝突。雷霆很快和伙伴组成了一个团队，队伍中的成员皆有著來自下界的烙印。为避免因尚未明朗的使命執行失败而導致的「尸骸化」，他们开始寻找自己被赋予的任务，并和圣府展开对抗。

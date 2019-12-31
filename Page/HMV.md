@@ -1,3 +1,6 @@
+> 本文内容由[HMV](https://zh.wikipedia.org/wiki/HMV)转换而来。
+
+
 **HMV**（）是一間[連鎖](../Page/連鎖店.md "wikilink")[唱片店](https://zh.wikipedia.org/wiki/唱片 "wikilink")，源自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")，在世界多個國家設有分店。HMV原名（牠的主人的聲音），HMV是簡稱，來自它的「小狗聽留聲機」商標。HMV原本是生產留聲機，及發行音樂唱片，後來不再生產留聲機，改為唱片零售。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Forms](https://zh.wikipedia.org/wiki/Windows Forms)转换而来。
+
+
 **Windows Forms**是微软的[.NET開發框架的](https://zh.wikipedia.org/wiki/.NET "wikilink")[圖形用戶介面的一部分](https://zh.wikipedia.org/wiki/圖形用戶介面 "wikilink")，該組件透過將現有的[Windows API](../Page/Windows_API.md "wikilink")（Win32 API）封裝为[托管代碼提供了對](https://zh.wikipedia.org/wiki/托管代碼 "wikilink")[Windows本地](https://zh.wikipedia.org/wiki/Windows "wikilink")（native）组件的訪問方式。雖然該組件看起來是為先前較複雜的基於[C++](../Page/C++.md "wikilink")的[微軟基礎類庫](https://zh.wikipedia.org/wiki/微軟基礎類庫 "wikilink")（Microsoft Foundation Classes，MFC）的替代品，但是它沒有提供與[Model View Controller](https://zh.wikipedia.org/wiki/Model_View_Controller "wikilink") "Document/View"架構相應的特色。"Document/View"架構已經被「[MDI](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/cpref/html/frlrfSystemWindowsFormsFormClassIsMdiContainerTopic.asp)（多文檔介面）」所取代。
 
 該實現位於.NET框架的`System.Windows.Forms`命名空間，並且它試着糾正自己在[Windows XP背景之下扮演的角色](../Page/Windows_XP.md "wikilink")。然而，許多有關於標籤表格與控制單元置於標籤表格上的支援性的顯著問題懸而待決。

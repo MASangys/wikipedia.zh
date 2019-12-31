@@ -1,3 +1,6 @@
+> 本文内容由[Lp空间](https://zh.wikipedia.org/wiki/Lp空间)转换而来。
+
+
 在[数学](../Page/数学.md "wikilink")中，***L<sup>p</sup>*空间**是由[p次可积函数组成的空间](../Page/可积函数.md "wikilink")；对应的**ℓ<sup>p</sup>空间**是由*p*次可和[序列](../Page/序列.md "wikilink")组成的空间。它們有時叫做**勒貝格空間**，以[昂利·勒貝格](../Page/昂利·勒貝格.md "wikilink")命名，儘管依據它們是首先介入。在[泛函分析](../Page/泛函分析.md "wikilink")和[拓扑向量空间中](https://zh.wikipedia.org/wiki/拓扑向量空间 "wikilink")，他们构成了[巴拿赫空间](../Page/巴拿赫空间.md "wikilink")一类重要的例子。
 
 *L<sup>p</sup>*空间在[工程学](../Page/工程学.md "wikilink")领域的[有限元分析](../Page/有限元分析.md "wikilink")中有应用。

@@ -1,3 +1,6 @@
+> 本文内容由[BCH码](https://zh.wikipedia.org/wiki/BCH码)转换而来。
+
+
 **BCH码**（BCH codes、Bose–Chaudhuri–Hocquenghem codes）為取自Bose、Ray-Chaudhuri与Hocquenghem的缩写，是[编码理论](../Page/编码理论.md "wikilink")尤其是[纠错码中研究得比较多的一种编码方法](https://zh.wikipedia.org/wiki/纠错码 "wikilink")。用术语来说，BCH码是用于校正多个随机错误模式的多级、循环、错误校正、变长数字编码。BCH码也可以用于[质数级或者](https://zh.wikipedia.org/wiki/质数 "wikilink")[质数的幂级的多级](https://zh.wikipedia.org/wiki/质数 "wikilink")[相移键控](https://zh.wikipedia.org/wiki/相移键控 "wikilink")。11级的BCH码已经用于表示10进制数外加一个符号位。
 
 ## 构建

@@ -1,3 +1,6 @@
+> 本文内容由[Coremedia](https://zh.wikipedia.org/wiki/Coremedia)转换而来。
+
+
 **CoreMedia AG**成立于1996年，是一家提供[数字版权管理](../Page/数字版权管理.md "wikilink")和的国际化本地[软件](../Page/软件.md "wikilink")公司。
 
 ## 公司

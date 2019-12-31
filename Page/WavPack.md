@@ -1,3 +1,6 @@
+> 本文内容由[WavPack](https://zh.wikipedia.org/wiki/WavPack)转换而来。
+
+
 **WavPack**是由David Bryant开发的一个自由、开放源代码的[无损音频压缩格式](../Page/无损数据压缩.md "wikilink")，其文件的后缀名为.wv。
 
 ## 特点

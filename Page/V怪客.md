@@ -1,3 +1,6 @@
+> 本文内容由[V怪客](https://zh.wikipedia.org/wiki/V怪客)转换而来。
+
+
 是一部於[2005年上映的](https://zh.wikipedia.org/wiki/2005年電影 "wikilink")電影，由[詹姆斯·麥克特格執導](https://zh.wikipedia.org/wiki/詹姆斯·麥克特格 "wikilink")，[華卓斯基姐妹編劇](https://zh.wikipedia.org/wiki/華卓斯基姐妹 "wikilink")，劇情改編自與[阿蘭·摩爾創作的](https://zh.wikipedia.org/wiki/阿蘭·摩爾 "wikilink")[同名1988年DC漫畫](../Page/V煞_\(漫畫\).md "wikilink")，並由[雨果·威明](https://zh.wikipedia.org/wiki/雨果·威明 "wikilink")、[娜塔莉·波曼](https://zh.wikipedia.org/wiki/娜塔莉·波曼 "wikilink")、與[约翰·赫特等人主演](https://zh.wikipedia.org/wiki/约翰·赫特 "wikilink")。該片的背景設定在一個[架空的未來](../Page/架空歷史小說.md "wikilink")——受到[新法西斯主義統治的](https://zh.wikipedia.org/wiki/新法西斯主義 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，講述自由鬥士[V](../Page/V_\(漫畫人物\).md "wikilink")（威明飾演）反抗極權政府[北方之火](../Page/北方之火.md "wikilink")的故事。
 
 《V怪客》的製片作業始於1988年，當時製片人[喬·西佛](../Page/喬·西佛.md "wikilink")取得了漫畫《V怪客》的電影改編權。該片的[主體拍攝於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2005年3月至6月間進行，取景地包含[德国](../Page/德国.md "wikilink")[波茨坦](../Page/波茨坦.md "wikilink")的[巴貝爾堡攝影棚以及英國](https://zh.wikipedia.org/wiki/巴貝爾堡攝影棚 "wikilink")[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[奧德維奇站](../Page/奧德維奇站.md "wikilink")和[威斯敏斯特大教堂等地](https://zh.wikipedia.org/wiki/威斯敏斯特大教堂 "wikilink")。

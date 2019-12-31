@@ -1,3 +1,6 @@
+> 本文内容由[SAMPA](https://zh.wikipedia.org/wiki/SAMPA)转换而来。
+
+
 **音標字母評估法**（****）是一種電腦可讀的音標符號，它是以[國際音標](../Page/國際音標.md "wikilink")為基礎，並且只使用7位元中的可列印符號。
 
 這種轉寫法是源自[歐洲共同體為六種歐洲語言](../Page/欧洲共同体.md "wikilink")，於1980年代展開的[歐洲資訊科技研究策略計劃中的資訊科技研究及發展項目](https://zh.wikipedia.org/wiki/歐洲資訊科技研究策略計劃 "wikilink")。如果國際音標的寫法和ASCII中的字母相同，就直接取用，否則就使用其他ASCII符號代替，例如\[`@`\]用來代表[schwa](https://zh.wikipedia.org/wiki/schwa "wikilink")（國際音標：），\[`2`\]則代表法語「deux」中的元音（國際音標：），而\[`9`\]便代表法語「neuf」中的元音（國際音標：）。

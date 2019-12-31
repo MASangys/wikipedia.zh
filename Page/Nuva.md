@@ -1,3 +1,6 @@
+> 本文内容由[Nuva](https://zh.wikipedia.org/wiki/Nuva)转换而来。
+
+
 **Nuva**语言是一种[面向对象的](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[动态](https://zh.wikipedia.org/wiki/型態系統 "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")。Nuva对应汉语的「[女娲](../Page/女娲.md "wikilink")」（[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[上古时代的神话传说人物](https://zh.wikipedia.org/wiki/上古时代 "wikilink")）一词。
 
 ## 设计目的

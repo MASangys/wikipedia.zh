@@ -1,3 +1,6 @@
+> 本文内容由[FELICS](https://zh.wikipedia.org/wiki/FELICS)转换而来。
+
+
 ## FELICS（快速高效无损图像压缩系统）
 
 FELICS 是一个无损图像压缩算法，它比工作在无损模式下的 JPEG 快 5 倍，并且能够达到同样的[压缩率](https://zh.wikipedia.org/wiki/压缩率 "wikilink")。

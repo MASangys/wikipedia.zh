@@ -1,3 +1,6 @@
+> 本文内容由[TENNIS Magazine](https://zh.wikipedia.org/wiki/TENNIS Magazine)转换而来。
+
+
 《**TENNIS Magazine**》是一本每月發行的[網球](https://zh.wikipedia.org/wiki/網球 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，介紹世界上最重要的網球[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")。
 
 ## 網球史上最偉大的40位球員

@@ -1,3 +1,6 @@
+> 本文内容由[Hello! Project Kids](https://zh.wikipedia.org/wiki/Hello! Project Kids)转换而来。
+
+
 **Hello\! Project Kids**是由日本女子偶像團體[Hello\! Project舉辦的Hello](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")\! Project Kids Audition中選拔出來的全部15人的總稱。2004年1月其中8人組成了[Berryz工房](../Page/Berryz工房.md "wikilink")，2005年6月剩餘7人組成了[℃-ute](../Page/℃-ute.md "wikilink")。
 
 ## 簡介

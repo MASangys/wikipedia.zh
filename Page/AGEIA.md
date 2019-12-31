@@ -1,3 +1,6 @@
+> 本文内容由[AGEIA](https://zh.wikipedia.org/wiki/AGEIA)转换而来。
+
+
 **AGEIA Technologies**是一家[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")（Fabless），於2002年由五名技術成員成立。
 
 在2005年3月9日，它在「遊戲開發者論壇」中發表了世界上第一顆採用硬體加速的[物理處理器](../Page/物理處理器.md "wikilink")－[PhysX](../Page/PhysX.md "wikilink")，令這間寂寂無名的公司一夜成名。公司名字 「AGEIA」是取自五名創辦人來自的不同地區，分別為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")（**A**merica）、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（**G**ermany）、[埃及](../Page/埃及.md "wikilink")（**E**gypt）、[印度](../Page/印度.md "wikilink")（**I**ndia）和[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")（**A**merica）。

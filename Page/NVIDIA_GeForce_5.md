@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 5](https://zh.wikipedia.org/wiki/NVIDIA GeForce 5)转换而来。
+
+
 GeForce 5（官方統稱為GeForce FX系列）是由[nVIDIA研發設計的第五代](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")[顯示核心產品](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，分為兩大系列：
 
   - **GeForce FX**（核心代號NV3x）在2002年11月18日的[COMDEX展上發佈](https://zh.wikipedia.org/wiki/COMDEX "wikilink")。GeForce FX 5800 Ultra與FX 5800是全世界首款支持[DDR2](https://zh.wikipedia.org/wiki/DDR2 "wikilink")[显存](../Page/显存.md "wikilink")的顯示卡。它使用了當時許多超前的技術，其采用CineFX 2.0引擎，首次支持[CG高级编程语言](../Page/Cg語言.md "wikilink")，亦完全支持Direct 9.0。NV30晶片是全新設計的，與NV25極少有相似之處，而晶体管数量是上一代NV25/NV28的两倍。2003年3月19日，NVIDIA發表該系列的移動版**GeForce FX Go**，最初發表有五款產品FX Go 5700、FX Go 5650、FX Go 5600、FX Go 5200、FX Go 5100，同年9月發表了建基於NV3x系列的Personal Cinema FX數位娛樂解決方案。

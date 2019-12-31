@@ -1,3 +1,6 @@
+> 本文内容由[NTSC制式](https://zh.wikipedia.org/wiki/NTSC制式)转换而来。
+
+
 [PAL-NTSC-SECAM.svg](https://zh.wikipedia.org/wiki/File:PAL-NTSC-SECAM.svg "fig:PAL-NTSC-SECAM.svg")  **NTSC制式**，又简称为**N制**，是1952年12月由美国国家电视系统委员会（National Television System Committee，缩写为NTSC）制定的[彩色电视](https://zh.wikipedia.org/wiki/彩色电视 "wikilink")[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")[标准](../Page/标准.md "wikilink")，兩大主要分支是（日本標準）與NTSC-US（又名NTSC-U/C，美國、加拿大標準）。
 
 它属于同时制，每秒60/1.001場，[扫描线](../Page/扫描线.md "wikilink")为525，[隔行掃描](https://zh.wikipedia.org/wiki/隔行掃描 "wikilink")，水平解析度相當於330，画面比例为4：3。

@@ -1,3 +1,6 @@
+> 本文内容由[JVC](https://zh.wikipedia.org/wiki/JVC)转换而来。
+
+
 **日本勝利株式會社**（），一般稱為**JVC**，是過去一間成立於1927年、總部設在日本[橫濱的消費性與專業電子企業](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。該公司发明了日本第一台[電視機及](https://zh.wikipedia.org/wiki/電視機 "wikilink")[VHS](../Page/VHS.md "wikilink")系統。現「Victor／JVC」為[JVC建伍](../Page/JVC建伍.md "wikilink")運作品牌。
 
 ## 海外名稱及商標

@@ -1,3 +1,6 @@
+> 本文内容由[Hello Kitty藏屍案](https://zh.wikipedia.org/wiki/Hello Kitty藏屍案)转换而来。
+
+
 **Hello Kitty藏屍案**發生於1999年的[香港](../Page/香港.md "wikilink")，是轟動一時的[殺人案](https://zh.wikipedia.org/wiki/殺人 "wikilink")。案中23歲女死者樊敏儀，遭多人禁錮於[尖沙咀](../Page/尖沙咀.md "wikilink")[加連威老道](../Page/加連威老道.md "wikilink")31號一幢[唐樓](../Page/唐樓.md "wikilink")的3B單位裡，被迫飲尿、吃糞便、嚴重毆打和燃燒身體；死後被肢解、烹屍，頭顱被塞進一個[Hello Kitty](../Page/Hello_Kitty.md "wikilink")[洋娃娃之內](https://zh.wikipedia.org/wiki/洋娃娃 "wikilink")，其餘軀幹不知所蹤。
 
 三名殺手陳文樂（案發時33歲）、梁勝祖（26歲）及梁偉倫（19歲）出庭應訊時，其中一人聽到控方述說樊敏儀被虐打的情況後，仍發出嘻笑聲。[香港特別行政區高等法院原訟法庭](../Page/香港特別行政區高等法院原訟法庭.md "wikilink")法官[阮雲道](../Page/阮雲道.md "wikilink")於2000年12月6日判案時形容：「被告極度喪心病狂、殘忍、冷酷無情、墮落、暴力及惡毒，並非人類對待人類所能做出的行為。」

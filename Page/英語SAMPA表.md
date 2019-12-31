@@ -1,3 +1,6 @@
+> 本文内容由[英語SAMPA表](https://zh.wikipedia.org/wiki/英語SAMPA表)转换而来。
+
+
 為[英語發音的](https://zh.wikipedia.org/wiki/英語 "wikilink") "[SAMPA](../Page/SAMPA.md "wikilink") 簡明版"。
 
 請參見[歐洲語言完整發音](https://zh.wikipedia.org/wiki/歐洲語言 "wikilink")[SAMPA表](../Page/SAMPA表.md "wikilink")。

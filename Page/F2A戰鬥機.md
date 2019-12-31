@@ -1,3 +1,6 @@
+> 本文内容由[F2A戰鬥機](https://zh.wikipedia.org/wiki/F2A戰鬥機)转换而来。
+
+
 **F2A戰鬥機**，官方名稱**水牛**（Buffalo），由[布魯斯特](https://zh.wikipedia.org/wiki/布魯斯特 "wikilink")（Brewster）公司設計生產，是[美國海軍](../Page/美國海軍.md "wikilink")第一架單翼艦上戰鬥機。水牛式在1939年替代格魯曼[F3F戰鬥機](https://zh.wikipedia.org/wiki/F3F戰鬥機 "wikilink")，但受限於不穩定的飛行設計與超重，机动性不如[零式战斗机](https://zh.wikipedia.org/wiki/零式战斗机 "wikilink")；水牛式外銷給[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")、[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")、[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")；1941年底太平洋战争爆发时在美軍、荷军和英军于[東南亞曾多次与日军交戰](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。然而[芬蘭空軍](https://zh.wikipedia.org/wiki/芬蘭空軍 "wikilink")1941-1944年對[蘇聯的作戰中使用水牛式達成](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1:32的驚人交換比。尽管曾尝试拆除設備並配備較輕的航空機槍以提升性能，但效果不佳。 美軍操作的水牛式有三種型號：F2A-1、F2A-2、F2A-3，外銷型對應型號為B-239、B-339、B-339-23；驾驶F2A的飛行员对其评价不佳，甚至稱它為飛行棺材。大部分的F2A在1942年就折損殆盡除役，僅有芬蘭空軍持續運用到1948年才退役。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[SK-II](https://zh.wikipedia.org/wiki/SK-II)转换而来。
+
+
 **SK-II**是一个源自[日本](../Page/日本.md "wikilink")的走高檔路線的[化妝品](../Page/化妝品.md "wikilink")及[護膚品品牌](https://zh.wikipedia.org/wiki/護膚品 "wikilink")\[1\]。1980年，SK-II品牌以及商标被[寶潔公司收购](https://zh.wikipedia.org/wiki/寶潔公司 "wikilink")，並授权日本的宝洁公司负责品牌的全面生產，其主要成份Pitera为镇牌配方，无[香料](https://zh.wikipedia.org/wiki/香料 "wikilink")。
 
 ## 歷史

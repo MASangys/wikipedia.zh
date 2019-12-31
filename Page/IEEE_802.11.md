@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 802.11](https://zh.wikipedia.org/wiki/IEEE 802.11)转换而来。
+
+
 **IEEE 802.11**是現今[无线局域网](../Page/无线局域网.md "wikilink")通用的标准，它是由[國際電機電子工程學會](https://zh.wikipedia.org/wiki/國際電機電子工程學會 "wikilink")（IEEE）所定义的[无线网络](../Page/无线网络.md "wikilink")通信的标准。
 
 虽然经常将[Wi-Fi](../Page/Wi-Fi.md "wikilink")与802.11混为一谈，但两者并不等同。

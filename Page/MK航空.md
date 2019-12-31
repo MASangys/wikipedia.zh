@@ -1,3 +1,6 @@
+> 本文内容由[MK航空](https://zh.wikipedia.org/wiki/MK航空)转换而来。
+
+
 **MK航空**（）是[迦納一家已結業的航空公司](https://zh.wikipedia.org/wiki/迦納 "wikilink")，營運於1990年至2010年間，提供來往[非洲](../Page/非洲.md "wikilink")的[航運服務](https://zh.wikipedia.org/wiki/航運 "wikilink")，其[行號](https://zh.wikipedia.org/wiki/行號 "wikilink")「MK」源自[创始人迈克尔](https://zh.wikipedia.org/wiki/创始人 "wikilink")·克鲁格（）的[姓名](https://zh.wikipedia.org/wiki/姓名 "wikilink")[縮寫](../Page/縮寫.md "wikilink")。該公司以[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[约翰内斯堡](../Page/约翰内斯堡.md "wikilink")的[奥利弗·坦博国际机场](../Page/奥利弗·坦博国际机场.md "wikilink")作為其非洲[樞紐](../Page/樞紐機場.md "wikilink")，並在[歐洲部分城市設立](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[貨運航點](https://zh.wikipedia.org/wiki/貨運 "wikilink")（包括、[蓋威克機場](https://zh.wikipedia.org/wiki/蓋威克機場 "wikilink")、及[盧森堡-芬德爾國際機場](https://zh.wikipedia.org/wiki/盧森堡-芬德爾國際機場 "wikilink")）\[1\]。2006年，該公司在[英國重新註冊](https://zh.wikipedia.org/wiki/英國 "wikilink")，並以[東薩塞克斯郡](../Page/東薩塞克斯郡.md "wikilink")為新總部\[2\]。
 
 ## 歷史

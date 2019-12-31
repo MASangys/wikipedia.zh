@@ -1,3 +1,6 @@
+> 本文内容由[DNA修復](https://zh.wikipedia.org/wiki/DNA修復)转换而来。
+
+
 [brokechromo.jpg](https://zh.wikipedia.org/wiki/File:brokechromo.jpg "fig:brokechromo.jpg") **DNA修复**是[细胞](../Page/细胞.md "wikilink")中经常运行的一种进程。它使[基因组免受损伤和](https://zh.wikipedia.org/wiki/基因组 "wikilink")[突变](../Page/突变.md "wikilink")，因此对细胞的生存是很重要的。在人的细胞中，一般的[代谢](../Page/代谢.md "wikilink")活动和环境因素（如[紫外线](../Page/紫外线.md "wikilink")和[放射線](https://zh.wikipedia.org/wiki/放射線 "wikilink")）都能造成**DNA损伤**，导致每个细胞每天多达1,000,000处的分子损害。这些损害给DNA分子造成结构上的破坏，由此可大大的改变细胞阅读信息和[基因](../Page/基因.md "wikilink")[编码的方式](https://zh.wikipedia.org/wiki/编码 "wikilink")，其餘的損害引發在細胞基因體中的潛在有害突變，進而影響子細胞在進行有絲分裂後的存活。因此，DNA修复必须经常运作，以快速地改正DNA结构上的任何错误之处。當正常修復程序失效與細胞凋亡沒有發生，則不可回復的DNA損傷可能會發生，包含了雙股斷裂與DNA與DNA交互連結。
 
 DNA修復的速度與許多因素有關，如細胞類型、細胞老化以及外在環境等。然而當細胞累積大量的DNA損傷[老化](../Page/老化.md "wikilink")時，DNA修复的速度下降，直至赶不上正在进行的DNA损伤的速度。这时，细胞可能遭受以下三种命运之一：

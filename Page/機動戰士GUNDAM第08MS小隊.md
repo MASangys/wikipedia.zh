@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM第08MS小隊)转换而来。
+
+
 **機動戰士钢弹 第08MS小隊**（俗稱**08小隊**）是[钢弹系列作品其中之一](https://zh.wikipedia.org/wiki/钢弹系列作品 "wikilink")，在1996年至1999年間以[OVA形式發行](https://zh.wikipedia.org/wiki/OVA "wikilink")，全11話，另有一話特別篇與一部[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。在2013年追加一部短片。
 
 ## 故事

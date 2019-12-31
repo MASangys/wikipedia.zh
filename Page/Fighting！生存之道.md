@@ -1,3 +1,6 @@
+> 本文内容由[Fighting！生存之道](https://zh.wikipedia.org/wiki/Fighting！生存之道)转换而来。
+
+
 **Fighting！生存之道**是[呂建中](../Page/呂建中.md "wikilink")加入[華研國際音樂](../Page/華研國際音樂.md "wikilink")的首張創作專輯。
 
 ## 過程

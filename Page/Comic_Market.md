@@ -1,3 +1,6 @@
+> 本文内容由[Comic Market](https://zh.wikipedia.org/wiki/Comic Market)转换而来。
+
+
 **Comic Market**（），简称**Comike**（）、**Comiket**（）或**CM**。是由Comic Market準備會舉辦的[日本](../Page/日本.md "wikilink")以及全球最大型的[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")\[1\]\[2\]。
 
 現時每年8月的第二個星期五至星期日和12月29日、12月30日及12月31日均在[東京國際展示場](../Page/東京國際展示場.md "wikilink")舉行（如該年星期日為12月28日，則會在12月28日、12月29日及12月30日舉行），免費入場（C96需入場費\[3\]）。八月舉行的Comic Market叫作**夏Comi**（），十二月舉行的叫作**冬Comi**（）。

@@ -1,3 +1,6 @@
+> 本文内容由[MSN-04型机动战士](https://zh.wikipedia.org/wiki/MSN-04型机动战士)转换而来。
+
+
 **MSN-04 沙扎比**（[拉丁字母](../Page/拉丁字母.md "wikilink")：**Sazabi**）是[动画片](https://zh.wikipedia.org/wiki/动画片 "wikilink")[机动战士GUNDAM系列中的电影](../Page/GUNDAM系列作品.md "wikilink")《[机动战士GUNDAM 逆袭的夏亚](https://zh.wikipedia.org/wiki/机动战士GUNDAM_逆袭的夏亚 "wikilink")》中登场的[机动战士](../Page/机动战士.md "wikilink")。它是劇中反派領袖[夏亞·阿茲納布爾](../Page/夏亞·阿茲納布爾.md "wikilink")的专用机体。
 
 ## 相关剧情

@@ -1,3 +1,6 @@
+> 本文内容由[SCIM](https://zh.wikipedia.org/wiki/SCIM)转换而来。
+
+
 [Scim_logo.jpg](https://zh.wikipedia.org/wiki/File:Scim_logo.jpg "fig:Scim_logo.jpg") **SCIM**（**Smart Common Input Method**）是一個支援多國語言的[輸入法平台](https://zh.wikipedia.org/wiki/輸入法平台 "wikilink")，虽然它的设计着眼于**通用性**，但是鉴于Windows之类的桌面OS有较完整的原生机制，所以SCIM更多还是用在[UNIX](../Page/UNIX.md "wikilink")／[类UNIX环境中](https://zh.wikipedia.org/wiki/类UNIX "wikilink")。它曾經作爲多數[Linux](../Page/Linux.md "wikilink")[發行版中文默認輸入法](https://zh.wikipedia.org/wiki/發行版 "wikilink")。
 
 ## 簡介

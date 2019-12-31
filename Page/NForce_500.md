@@ -1,3 +1,6 @@
+> 本文内容由[NForce 500](https://zh.wikipedia.org/wiki/NForce 500)转换而来。
+
+
 **nForce 500**系列，是[NVIDIA推出的第五代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，是[nForce 4的後繼產品](https://zh.wikipedia.org/wiki/nForce_4 "wikilink")。支援[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[Socket AM2處理器](../Page/Socket_AM2.md "wikilink")，於2006年3月7日首次公開\[1\]，並於5月23日與Socket AM2處理器同日推出。
 
 ## 產品規格

@@ -1,3 +1,6 @@
+> 本文内容由[俠盜獵車手III](https://zh.wikipedia.org/wiki/俠盜獵車手III)转换而来。
+
+
 是一款由[DMA Design](../Page/Rockstar_North.md "wikilink")（Rockstar North的前身）制作的[電視與電腦](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，由[Rockstar Games於](../Page/Rockstar_Games.md "wikilink")2001年10月在[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")[PlayStation 2上發行](../Page/PlayStation_2.md "wikilink")，2002年5月發售基於[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[電腦的版本](https://zh.wikipedia.org/wiki/電腦 "wikilink")，2011年发售支持[IOS](../Page/IOS.md "wikilink")及[Android](../Page/Android.md "wikilink")操作系统的移动平台版。2003年11月發售[Xbox](../Page/Xbox.md "wikilink")版。該作是[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")的一部分，前作為《[俠盜獵車手II](https://zh.wikipedia.org/wiki/俠盜獵車手II "wikilink")》（）。《俠盜獵車手III》亦是該系列第一次在PlayStation 2上發行。
 
 該遊戲圍繞一個在一次銀行搶劫中被自己女友背叛的無名罪犯，在主角對抗她並獲得最終復仇機會之前，他需要靠自己以及其他黑幫中人提供的任務和工作來逐步晉身為城市中的犯罪頭子。像前作一樣，《俠盜獵車手III》實現了像[沙盒的](https://zh.wikipedia.org/wiki/沙盒 "wikilink")[遊戲性](https://zh.wikipedia.org/wiki/遊戲性 "wikilink")，玩家可在一個大城市中自由地實行各種活動，例如完成任務、探索城市、犯罪或完成次要任務。

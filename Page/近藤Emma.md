@@ -1,3 +1,6 @@
+> 本文内容由[近藤Emma](https://zh.wikipedia.org/wiki/近藤Emma)转换而来。
+
+
 **近藤Emma**（**近藤艾瑪,近藤エマ,こんどうえま 本名：近藤瑛茉ジャスミン**  ）是出身於[澳大利亞的日本](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[童星](../Page/童星.md "wikilink")[talent](https://zh.wikipedia.org/wiki/talent "wikilink")。屬於[Ｊｏｂｂｙ Ｋｉｄｓ](https://zh.wikipedia.org/wiki/Ｊｏｂｂｙ_Ｋｉｄｓ "wikilink") [ジョビィキッズ的一員](https://zh.wikipedia.org/wiki/ジョビィキッズ "wikilink")。身高152公分、體重35公斤（2004年10月時）。血型是Ｏ型。
 
 ## 人物介紹

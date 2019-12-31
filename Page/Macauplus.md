@@ -1,3 +1,6 @@
+> 本文内容由[Macauplus](https://zh.wikipedia.org/wiki/Macauplus)转换而来。
+
+
 **Macauplus（簡稱MPLUS）**是[澳門](../Page/澳門.md "wikilink")的一個[互聯網站](https://zh.wikipedia.org/wiki/網上討論區 "wikilink")，於2002年由幾個澳門中學生成立；現在停止運作。 [Mplus_logo.jpg](https://zh.wikipedia.org/wiki/File:Mplus_logo.jpg "fig:Mplus_logo.jpg")
 
 ## 網站歷史

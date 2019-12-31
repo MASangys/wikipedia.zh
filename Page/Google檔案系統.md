@@ -1,3 +1,6 @@
+> 本文内容由[Google檔案系統](https://zh.wikipedia.org/wiki/Google檔案系統)转换而来。
+
+
 **Google檔案系統**（，縮寫為**GFS**或GoogleFS），一種专有[分布式文件系统](https://zh.wikipedia.org/wiki/分布式文件系统 "wikilink")，由[Google](../Page/Google.md "wikilink")公司开发，運行於[Linux](../Page/Linux.md "wikilink")平台上\[1\]。尽管Google在2003年公布了该系统的一些技术细节，但Google并没有将该系统的软件部分作为开源软件发布\[2\]。
 
 2013年，Google公布了Colossus專案，作為下一代的Google檔案系統\[3\]。

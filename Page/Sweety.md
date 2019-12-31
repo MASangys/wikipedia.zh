@@ -1,3 +1,6 @@
+> 本文内容由[Sweety](https://zh.wikipedia.org/wiki/Sweety)转换而来。
+
+
 **Sweety**，[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子歌唱組合](https://zh.wikipedia.org/wiki/女子 "wikilink")，由[劉品言](../Page/劉品言.md "wikilink")和[曾之喬](../Page/曾之喬.md "wikilink")所組成。2003年正式召開記者會，當年出道時，兩人均只有十四歲，(新加坡華人女子團體[BY2](../Page/BY2.md "wikilink")則為16歲時出道)成為台灣史上最年輕的少女團體，至今仍未有團體打破（不含[大小姐或](../Page/大小姐_\(組合\).md "wikilink")[左左右右](../Page/左左右右.md "wikilink")等童星組合）。經過幾年的發展，兩人在[戲劇及](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[歌唱上都各有亮眼的表現](https://zh.wikipedia.org/wiki/歌唱 "wikilink")。直至2007年，其中成員劉品言決定暫停其演藝事業，前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")[留學](https://zh.wikipedia.org/wiki/留學 "wikilink")，Sweety團體單飛不解散。Sweety曾經在2008年播映的《型男大主廚》中提及到兩人單飛不解散，在2009年播映的《百萬大歌星》中，曾之喬也說到了兩人單飛不解散的事情。2015年，劉品言和曾之喬也多次在專訪提到兩人還在努力尋找最佳的合體機會。同年12月12日，兩人在三立華劇大賞頒獎典禮上正式合體。
 
 劉品言於2009年暑假過後，把學校由巴黎轉至[上海分校以方便工作](https://zh.wikipedia.org/wiki/上海 "wikilink")，並重返演藝界，但Sweety同台的蹤影仍寥寥可數，不過兩人私下仍是好朋友。目前兩人屬不同經紀公司，形同正式解散。

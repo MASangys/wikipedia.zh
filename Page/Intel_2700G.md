@@ -1,3 +1,6 @@
+> 本文内容由[Intel 2700G](https://zh.wikipedia.org/wiki/Intel 2700G)转换而来。
+
+
 **Intel 2700G**（代號：Marathon，马拉松）是一個用來搭配 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [XScale](../Page/XScale.md "wikilink") PXA27x 系列處理器的低功率繪圖處理晶片（最高50 mW）。其核心使用了PowerVR MBX技術（其後續產品有用在[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink") [Dreamcast](../Page/Dreamcast.md "wikilink")）.
 
 ## 產品線

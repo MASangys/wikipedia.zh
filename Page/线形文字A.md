@@ -1,3 +1,6 @@
+> 本文内容由[线形文字A](https://zh.wikipedia.org/wiki/线形文字A)转换而来。
+
+
 [Linear_A_tablets_filt.jpg](https://zh.wikipedia.org/wiki/File:Linear_A_tablets_filt.jpg "fig:Linear_A_tablets_filt.jpg")的阿克罗蒂里\]\]
 
 **线形文字A**是一种古代[克里特岛上使用的](https://zh.wikipedia.org/wiki/克里特岛 "wikilink")[未解讀文字](https://zh.wikipedia.org/wiki/未解讀文字 "wikilink")。它的破解是考古学上的“[圣杯](../Page/圣杯.md "wikilink")”。它的一种关联文字，[线形文字B](../Page/线形文字B.md "wikilink")于1950年被[迈克尔·文特里斯](../Page/迈克尔·文特里斯.md "wikilink")破译，证明其为[希腊语的一种古代书写形式](https://zh.wikipedia.org/wiki/希腊语 "wikilink")。

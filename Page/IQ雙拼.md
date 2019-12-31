@@ -1,3 +1,6 @@
+> 本文内容由[IQ雙拼](https://zh.wikipedia.org/wiki/IQ雙拼)转换而来。
+
+
 [Iqshow.jpg](https://zh.wikipedia.org/wiki/File:Iqshow.jpg "fig:Iqshow.jpg") **IQ雙拼**（Atypical IQ Show，節目英文名稱依然不變）是一個由[香港有線電視](../Page/香港有線電視.md "wikilink")製作的兒童節目。
 
 IQ雙拼由2004年2月至2006年7月14日下午5時30分至6時30分，在[香港有線電視兒童台播放](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")。主持人為[區焯文](../Page/區焯文.md "wikilink")（Amen）和[劉蜀永](https://zh.wikipedia.org/wiki/劉蜀永 "wikilink")（Bean）。IQ雙拼多數為現場直播，翌日早上9時至10時、下午2時至3時（2006年7月初至7月15日）亦會重播。

@@ -1,3 +1,6 @@
+> 本文内容由[Samba](https://zh.wikipedia.org/wiki/Samba)转换而来。
+
+
 ，是種用來讓[UNIX](../Page/UNIX.md "wikilink")系列的[作業系統與](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows作業系統的](https://zh.wikipedia.org/wiki/Windows "wikilink")[SMB/CIFS](../Page/伺服器訊息區塊.md "wikilink")（Server Message Block/Common Internet File System）網路協定做連結的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。第三版不僅可存取及分享SMB的資料夾及印表機，本身還可以整合入Windows Server的[網域](https://zh.wikipedia.org/wiki/網域 "wikilink")，扮演為網域控制站（Domain Controller）以及加入[Active Directory成員](https://zh.wikipedia.org/wiki/活動目錄 "wikilink")。簡而言之，此軟體在Windows與UNIX系列操作系统之間搭起一座橋樑，讓兩者的資源可互通有無。
 
 ## 歷史

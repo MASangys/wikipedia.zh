@@ -1,3 +1,6 @@
+> 本文内容由[游戏王GX](https://zh.wikipedia.org/wiki/游戏王GX)转换而来。
+
+
 《**遊戲王GX**》（），是由日本[東京電視台](../Page/東京電視台.md "wikilink")播出的電視動畫，全180集。\[1\]\[2\]台灣由[中華電視公司](../Page/中華電視公司.md "wikilink")於2005年12月18日到2006年12月10日播放第一季為止。标题中的GX是「Generation next（下一世代）」的缩写。另外設計主要角色和怪物的原案是由原作者[高桥和希負責](https://zh.wikipedia.org/wiki/高桥和希 "wikilink")。
 
 ## 故事大綱

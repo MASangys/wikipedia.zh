@@ -1,3 +1,6 @@
+> 本文内容由[加藤Gina](https://zh.wikipedia.org/wiki/加藤Gina)转换而来。
+
+
 **加藤Gina**（加藤吉娜,加藤 ジーナ,かとう-, ）是出身於[日本](../Page/日本.md "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")的[童星](../Page/童星.md "wikilink")、[模特兒](../Page/模特兒.md "wikilink")。屬於[ジュネス企画的一員](https://zh.wikipedia.org/wiki/ジュネス企画 "wikilink")。
 
 血型是O型。身高133公分。是父親為英國人,母親為日本人的混血兒。特技是合氣道,舞蹈等等。喜歡的學科是數學、英語、理化、音樂。並沒有感到困難的學科。寶物是書本和從父親那裡要到的卡片。曾經擔任過許多雜誌的模特兒。2006年度開始在受歡迎的節目[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")擔任[TV戰士](../Page/TV戰士.md "wikilink")演出中。

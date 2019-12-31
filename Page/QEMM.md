@@ -1,3 +1,6 @@
+> 本文内容由[QEMM](https://zh.wikipedia.org/wiki/QEMM)转换而来。
+
+
 **Quarterdeck擴充記憶體管理器**（Quarterdeck Expanded Memory Manager，簡稱 QEMM），是由[Quarterdeck公司於](https://zh.wikipedia.org/wiki/Quarterdeck公司 "wikilink")1980年代末期至1990年代末期所發展的一套記憶體管理軟體。在當時，這是[MS-DOS](../Page/MS-DOS.md "wikilink")和其他[DOS](../Page/DOS.md "wikilink")[作業系統最流行的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[記憶體管理](../Page/記憶體管理.md "wikilink")軟體。
 
 ## 概述

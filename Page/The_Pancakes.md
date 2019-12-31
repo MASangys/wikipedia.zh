@@ -1,3 +1,6 @@
+> 本文内容由[The Pancakes](https://zh.wikipedia.org/wiki/The Pancakes)转换而来。
+
+
 **The Pancakes**是[香港](../Page/香港.md "wikilink")一支獨立一人[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，唱片公司[Rewind Records的唯一成員](https://zh.wikipedia.org/wiki/Rewind_Records "wikilink")。
 
 The Pancakes的唯一成員為**Dejay**，自稱為「**阿戟**」，原名**蔡明麗**，身兼作曲、作詞、編曲、彈奏、主音。配偶是《[100毛](../Page/100毛.md "wikilink")》創辦人之一、暱稱「腦細」的[林日曦](../Page/林日曦.md "wikilink")。 Dejay曾就讀[石蔭慈幼小學](https://zh.wikipedia.org/wiki/石蔭慈幼小學 "wikilink")，在1999年畢業於[香港大學](../Page/香港大學.md "wikilink")以及[利希慎堂](https://zh.wikipedia.org/wiki/利希慎堂 "wikilink")，主修[翻譯及](https://zh.wikipedia.org/wiki/翻譯 "wikilink")[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")，於大學期間開始[音樂創作](../Page/音樂創作.md "wikilink")，畢業後任職[圖書館員](../Page/圖書館員.md "wikilink")，她曾多次將自己的示範錄音帶寄去各唱片公司。於2000年自資發行首張唱片《Les Bonbons Sont Bons》，其中一首《a》獲[九龍巴士](../Page/九龍巴士.md "wikilink")選為廣告用歌，因而初露頭角，並且得到[西班牙](../Page/西班牙.md "wikilink")家庭作坊式唱片公司[Elefant Records賞識簽約](https://zh.wikipedia.org/wiki/Elefant_Records "wikilink")，為她出版過一張大碟及[黑膠唱片](../Page/黑膠唱片.md "wikilink")，在其他國家發售。其後她曾發行數張唱片，絕大多數歌曲皆為英語歌，以其獨特的唱腔及[港式英語](../Page/港式英語.md "wikilink")發音而著名，被視為香港獨立樂壇的新力軍。

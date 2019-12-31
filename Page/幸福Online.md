@@ -1,3 +1,6 @@
+> 本文内容由[幸福Online](https://zh.wikipedia.org/wiki/幸福Online)转换而来。
+
+
 [Strugarden.JPG](https://zh.wikipedia.org/wiki/File:Strugarden.JPG "fig:Strugarden.JPG") 《**幸福Online**》（英文：****，日文：****）是由[日本](../Page/日本.md "wikilink")[Dwango公司繼開發](https://zh.wikipedia.org/wiki/Dwango "wikilink")《[石器時代](https://zh.wikipedia.org/wiki/石器時代_\(遊戲\) "wikilink")》及《[魔力寶貝](https://zh.wikipedia.org/wiki/魔力寶貝 "wikilink")》後新推出的一款大型Q版[3D角色扮演](https://zh.wikipedia.org/wiki/3D "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。[台灣方面於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2004年6月18日由[宏碁戲谷代理上市並開始](https://zh.wikipedia.org/wiki/宏碁戲谷 "wikilink")[封閉測試](https://zh.wikipedia.org/wiki/封閉測試 "wikilink")，而[中國大陸也於同年](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")11月25日對外封閉測試，在中國大陸的正式名稱是《幸福花園online》。2013年5月23日由GameCyber重新代理港澳中文版，名為夢之幸福Online。2018年5月11日，日本官網公告於2018年5月31日關閉伺服器(http://info.hangame.co.jp/index.nhn?m=detail\&infono=13352)
 
 ## 簡介

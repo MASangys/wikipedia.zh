@@ -1,3 +1,6 @@
+> 本文内容由[奔腾II](https://zh.wikipedia.org/wiki/奔腾II)转换而来。
+
+
 **奔騰II**（Pentium II）為[英特爾於](https://zh.wikipedia.org/wiki/英特爾 "wikilink")1997年5月7日推出的微處理器。它基於[Pentium Pro使用的](https://zh.wikipedia.org/wiki/Pentium_Pro "wikilink")[P6架構](https://zh.wikipedia.org/wiki/P6 "wikilink")，但加強16位元的效能，以及加入[MMX](../Page/MMX.md "wikilink")指令集。虽然MMX指令集最早出现在[Pentium MMX](https://zh.wikipedia.org/wiki/Pentium_MMX "wikilink") CPU，但是其后研发的所有型号的[Pentium Pro都没有包含MMX指令集](https://zh.wikipedia.org/wiki/Pentium_Pro "wikilink")，这影响在图形计算方面的性能。
 
 ## 產品簡介

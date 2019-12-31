@@ -1,3 +1,6 @@
+> 本文内容由[ID3](https://zh.wikipedia.org/wiki/ID3)转换而来。
+
+
 **ID3**是一种[metadata容器](https://zh.wikipedia.org/wiki/metadata "wikilink")，多应用于MP3格式的音频文件中。它可以将相关的曲名、演唱者、专辑、音轨数等信息存储在MP3文件中，又稱作「ID3Tags」。
 
 ID3也被[蘋果公司指定為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[HTTP Live Streaming中的時間](../Page/HTTP_Live_Streaming.md "wikilink")[後設資料](https://zh.wikipedia.org/wiki/後設資料 "wikilink")，在主要的[傳輸流或單獨的音頻傳輸流中作為](../Page/MPEG2-TS.md "wikilink")乘載。

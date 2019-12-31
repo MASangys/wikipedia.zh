@@ -1,3 +1,6 @@
+> 本文内容由[KornShell](https://zh.wikipedia.org/wiki/KornShell)转换而来。
+
+
 **KornShell**（**`ksh`**）是一款由于二十世纪八十年代早期在[贝尔实验室](../Page/贝尔实验室.md "wikilink")开发的[Unix shell](../Page/Unix_shell.md "wikilink")，并在1983年7月14日的上发布。\[1\]\[2\]起初此软件基于[Bourne shell的源代码编写](../Page/Bourne_shell.md "wikilink")。\[3\]其他贡献者有贝尔实验室的开发者，如迈克·维奇（Mike Veach）和帕特·沙利文（Pat Sullivan）；他们分别编写了[Emacs](../Page/Emacs.md "wikilink")和[vi风格的行编辑模式代码](../Page/Vi.md "wikilink")。\[4\]KornShell向后兼容Bourne shell，同时还根据贝尔实验室用户的需求添加了诸多[C shell的功能](../Page/C_Shell.md "wikilink")。
 
 ## 设计

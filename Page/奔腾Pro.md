@@ -1,3 +1,6 @@
+> 本文内容由[奔腾Pro](https://zh.wikipedia.org/wiki/奔腾Pro)转换而来。
+
+
 **Pentium Pro**為[Intel的第一代](https://zh.wikipedia.org/wiki/Intel "wikilink")[Pentium之后的下一代处理器](https://zh.wikipedia.org/wiki/Pentium "wikilink")，开创Intel的P6处理器架构。Pentium Pro的P6架构是Intel后期数款CPU架构的基础，一直沿用为[Pentium 4出现之前的所有Intel主流CPU的设计](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，后来的[Intel Core多核结构也是根据P](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")6架构为单核原型的设计。Pentium Pro在1995年11月以[Socket 8接口推出](https://zh.wikipedia.org/wiki/Socket_8 "wikilink")。
 
 Pentium Pro以[陶瓷或](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")[有機塑膠封裝](https://zh.wikipedia.org/wiki/有機塑膠 "wikilink")，其最大特色在於首先採用雙晶粒封裝與內建全速二級[缓存](../Page/缓存.md "wikilink")，雙晶粒自然是指將運算核心與緩衝區兩顆[晶片一同裝入CPU中](https://zh.wikipedia.org/wiki/晶片 "wikilink")，而片上（onchip）全速二級缓存則是因為这样做可以使得二级缓存可以与内核相同的频率运作，不必在像過去使用主機板上較慢速的L2記憶體。从而为“[乱序执行](../Page/乱序执行.md "wikilink")”所导致的大量内存查找提供了捷径，直接提升了性能。此外，Pentium Pro还具备三个能够把x86指令转换成118位定长的[RISC风格微操作的](https://zh.wikipedia.org/wiki/RISC "wikilink")[译码器](../Page/译码器.md "wikilink")（其中一个能把复杂x86指令转换成4个RISC风格微操作，另外两个解码器则是各可以把一条"简单"x86指令转换成一条RISC风格微操作，即所谓的“4+1+1”的3路解码格局）、实现了乱序执行等。

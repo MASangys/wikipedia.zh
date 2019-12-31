@@ -1,3 +1,6 @@
+> 本文内容由[MXY-7櫻花特別攻擊機](https://zh.wikipedia.org/wiki/MXY-7櫻花特別攻擊機)转换而来。
+
+
 [Japanese_Ohka_rocket_plane.jpg](https://zh.wikipedia.org/wiki/File:Japanese_Ohka_rocket_plane.jpg "fig:Japanese_Ohka_rocket_plane.jpg")的櫻花飛彈模型 \]\] **MXY-7 櫻花**（），[日本](../Page/日本.md "wikilink")第一海軍航空技術廠專為[神風特攻隊而設計的特別攻擊機](https://zh.wikipedia.org/wiki/神風特攻隊 "wikilink")。實質上，這是一種由人操縱進行[自殺攻擊用的空對地](https://zh.wikipedia.org/wiki/自殺攻擊 "wikilink")[飛彈](https://zh.wikipedia.org/wiki/飛彈 "wikilink")。目的和效能相當於今日的[反艦飛彈](../Page/反艦飛彈.md "wikilink")與[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")。
 
 ## 設計

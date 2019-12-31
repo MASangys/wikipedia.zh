@@ -1,3 +1,6 @@
+> 本文内容由[PCSX2](https://zh.wikipedia.org/wiki/PCSX2)转换而来。
+
+
 **PCSX2**是能夠在[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")[作業系統底下執行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")（PS2）遊戲与自制程序的[模擬器](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，目前可以运行絕大多數的PS2[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。PCSX2目前已完成[軟體測試並推出正式版本](https://zh.wikipedia.org/wiki/軟體測試 "wikilink")，但需要較高等級的[硬體才能達到理想效果](https://zh.wikipedia.org/wiki/硬體 "wikilink")。時至今日，軟件仍無法完美模擬所有[PS2規格軟體](https://zh.wikipedia.org/wiki/PS2 "wikilink")。\[1\]
 
 ## 背景与发展

@@ -1,3 +1,6 @@
+> 本文内容由[Java Card](https://zh.wikipedia.org/wiki/Java Card)转换而来。
+
+
 [Java_Card_Framework_Traditional_Chinese.png](https://zh.wikipedia.org/wiki/File:Java_Card_Framework_Traditional_Chinese.png "fig:Java_Card_Framework_Traditional_Chinese.png")
 
 **Java Card**技術主要是讓[智慧卡](../Page/智慧卡.md "wikilink")或與智慧卡相近的裝置上，以具有安全防護性的方式來執行小型的[Java Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")，此技術也被廣泛運用在[SIM卡](https://zh.wikipedia.org/wiki/SIM "wikilink")、[提款卡上](https://zh.wikipedia.org/wiki/提款卡 "wikilink")。

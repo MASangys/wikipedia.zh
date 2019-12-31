@@ -1,3 +1,6 @@
+> 本文内容由[點解阿sir係隻鬼](https://zh.wikipedia.org/wiki/點解阿sir係隻鬼)转换而来。
+
+
 《**點解阿sir係隻鬼系列**》是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的時裝喜劇劇集系列，監製為[戚其義](../Page/戚其義.md "wikilink")。
 
 ## 系列

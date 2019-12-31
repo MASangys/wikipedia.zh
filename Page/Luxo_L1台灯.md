@@ -1,3 +1,6 @@
+> 本文内容由[Luxo L1台灯](https://zh.wikipedia.org/wiki/Luxo L1台灯)转换而来。
+
+
 [Luxo_logo_2006-08-01.png](https://zh.wikipedia.org/wiki/File:Luxo_logo_2006-08-01.png "fig:Luxo_logo_2006-08-01.png")
 
 **Luxo L1**是一款[台灯](https://zh.wikipedia.org/wiki/台灯 "wikilink")。它于1937年由[Jac Jacobsen为](https://zh.wikipedia.org/wiki/Jac_Jacobsen "wikilink")[挪威](../Page/挪威.md "wikilink")的Luxo公司设计。由Luxo的官方网站得知，此款台灯自1937年已经销售2500万套。

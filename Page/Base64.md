@@ -1,3 +1,6 @@
+> 本文内容由[Base64](https://zh.wikipedia.org/wiki/Base64)转换而来。
+
+
 **Base64**是一种基于64个可打印字符来表示[二进制数据的表示方法](https://zh.wikipedia.org/wiki/二进制 "wikilink")。由于\(2 ^ 6 = 64\)，所以每6个[位元](../Page/位元.md "wikilink")为一个单元，对应某个可打印字符。3个[字节](../Page/字节.md "wikilink")有24个位元，对应于4个Base64单元，即3个字节可由4个可打印字符来表示。它可用来作为[电子邮件](../Page/电子邮件.md "wikilink")的传输[编码](../Page/字符编码.md "wikilink")。在Base64中的可打印字符包括[字母](../Page/拉丁字母.md "wikilink")`A-Z`、`a-z`、[数字](https://zh.wikipedia.org/wiki/数字 "wikilink")`0-9`，这样共有62个字符，此外两个可打印符号在不同的系统中而不同。一些如[uuencode的其他编码方法](https://zh.wikipedia.org/wiki/uuencode "wikilink")，和之后的版本使用不同的64字符集来代表6个二进制数字，但是不被稱為Base64。
 
 Base64常用于在通常处理文本[数据的场合](https://zh.wikipedia.org/wiki/数据 "wikilink")，表示、传输、存储一些二进制数据，包括[MIME的](https://zh.wikipedia.org/wiki/MIME "wikilink")[电子邮件](../Page/电子邮件.md "wikilink")及[XML](../Page/XML.md "wikilink")的一些复杂数据。

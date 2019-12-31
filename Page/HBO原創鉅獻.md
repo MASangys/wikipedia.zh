@@ -1,3 +1,6 @@
+> 本文内容由[HBO原創鉅獻](https://zh.wikipedia.org/wiki/HBO原創鉅獻)转换而来。
+
+
 **HBO Signature**（**HBO原創鉅獻**）在2005年4月正式引入亞洲，與美國本土的版本一樣，播放有爭議性、刺激性的節目，最新的荷里活的電影與HBO獲獎和最新的原創系列。在香港，[now寬頻電視於](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")2005年初正式引入繼HBO和[Cinemax](../Page/Cinemax.md "wikilink")，香港的第三條HBO\&Max系列頻道，並於2005年8月中與[HBO Asia簽訂長期獨家播放協議](https://zh.wikipedia.org/wiki/HBO#HBO_Asia "wikilink")，於2006年7月生效。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[TVB音樂台](https://zh.wikipedia.org/wiki/TVB音樂台)转换而来。
+
+
 **音樂-{台}-**（，英文全稱為）是[香港](../Page/香港.md "wikilink")[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")（2013年前身為[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）擁有的一條以播放音樂節目為主的頻道，該頻道為全[香港](../Page/香港.md "wikilink")第一條以播放音樂節目為主的頻道，有別之前已停播的[香港有線電視YMC台](https://zh.wikipedia.org/wiki/香港有線電視YMC台 "wikilink")。
 
 ## 历史

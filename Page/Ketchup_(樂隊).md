@@ -1,3 +1,6 @@
+> 本文内容由[Ketchup \(樂隊\)](https://zh.wikipedia.org/wiki/Ketchup \(樂隊\))转换而来。
+
+
 **Ketchup**是[香港](../Page/香港.md "wikilink")本地一人[獨立樂隊](https://zh.wikipedia.org/wiki/獨立樂隊 "wikilink")，原本是3人組合，後來只剩**Ken Tsoi**一人。Ketchup的創作歌曲以溫情的城市[民謠音樂為主](https://zh.wikipedia.org/wiki/民謠 "wikilink")，常以個人的生活感覺為題材，其特色是全部歌曲皆為英文歌曲。
 
 ## 起源

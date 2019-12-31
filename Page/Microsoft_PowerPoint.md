@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft PowerPoint](https://zh.wikipedia.org/wiki/Microsoft PowerPoint)转换而来。
+
+
 **Microsoft PowerPoint**，簡稱**PowerPoint**，是一个由[公司](../Page/公司.md "wikilink")开发的[簡報](../Page/簡報.md "wikilink")程序，是[Microsoft Office系统中的其中一个组件](../Page/Microsoft_Office.md "wikilink")。它支持[Microsoft Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Apple的](https://zh.wikipedia.org/wiki/Apple "wikilink")[Mac OS X操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。現時最新的版本是Microsoft PowerPoint 2019 for Windows及2016 for Mac。  作为中最流行的形式，它被商业人员、教师、学生和培训人员广泛使用。
 
 ## 運作

@@ -1,3 +1,6 @@
+> 本文内容由[B仔涼粉](https://zh.wikipedia.org/wiki/B仔涼粉)转换而来。
+
+
 [HK_Yuen_Long_night_又新街_Yau_San_Street_B仔涼粉_Shop_B_置富中心_Chi_Fu_Centre.jpg](https://zh.wikipedia.org/wiki/File:HK_Yuen_Long_night_又新街_Yau_San_Street_B仔涼粉_Shop_B_置富中心_Chi_Fu_Centre.jpg "fig:HK_Yuen_Long_night_又新街_Yau_San_Street_B仔涼粉_Shop_B_置富中心_Chi_Fu_Centre.jpg")[又新街新店](https://zh.wikipedia.org/wiki/又新街 "wikilink")\]\]
 
 **B仔涼粉**為由一間坐落於[香港](../Page/香港.md "wikilink")[元朗](../Page/元朗.md "wikilink")[山貝河](../Page/山貝河.md "wikilink")的**佳記甜品**的[糖水](../Page/糖水.md "wikilink")店所創造的特色[涼粉](https://zh.wikipedia.org/wiki/涼粉 "wikilink")，為[元朗區](../Page/元朗區.md "wikilink")的知名甜品之一。

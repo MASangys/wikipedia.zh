@@ -1,3 +1,6 @@
+> 本文内容由[Invision Power Board](https://zh.wikipedia.org/wiki/Invision Power Board)转换而来。
+
+
 ## 简介
 
 Invision Community（原名为IPB或IP.Board）是世界上最著名的[論壇程式之一](https://zh.wikipedia.org/wiki/网络论坛#论坛程序 "wikilink")，由[PHP](../Page/PHP.md "wikilink")+[MySQL](../Page/MySQL.md "wikilink")架構。IPB 1.X版本是免費的，但2.X版本起開始收費，在新版本的IPB中用了不少[AJAX](../Page/AJAX.md "wikilink")技術。現在有不少的國際知名公司和機構如[美國太空總署](https://zh.wikipedia.org/wiki/美國太空總署 "wikilink")、和[AMD等都是IPB的顧客](https://zh.wikipedia.org/wiki/AMD "wikilink")，目前在華人社區中只有少数論壇採用IPB作為論壇程式。

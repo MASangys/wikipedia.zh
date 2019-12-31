@@ -1,3 +1,6 @@
+> 本文内容由[Gcin](https://zh.wikipedia.org/wiki/Gcin)转换而来。
+
+
 **gcin** 是一個中文[輸入法平台](https://zh.wikipedia.org/wiki/輸入法平台 "wikilink")，用於[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")，[gcin for windows](http://hyperrate.com/dir.php?eid=215)和[gcin for android](http://hyperrate.com/?eid=255)）等[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，是目前[台灣最常用的輸入法平台之一](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 簡史

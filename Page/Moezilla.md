@@ -1,3 +1,6 @@
+> 本文内容由[Moezilla](https://zh.wikipedia.org/wiki/Moezilla)转换而来。
+
+
 [Don't_touch_the_red_panda\!.jpg](https://zh.wikipedia.org/wiki/File:Don't_touch_the_red_panda!.jpg "fig:Don't_touch_the_red_panda!.jpg") **Moezilla**（）是[日本](../Page/日本.md "wikilink")的一個創作出[擬人化美少女的](https://zh.wikipedia.org/wiki/擬人化美少女 "wikilink")[同人誌](../Page/同人誌.md "wikilink")團體「」的名稱，於2005年的[冬季](../Page/冬季.md "wikilink")[Comic Market所發表的](../Page/Comic_Market.md "wikilink")[十八禁同人漫畫](https://zh.wikipedia.org/wiki/十八禁 "wikilink")《*Don't touch the red panda\!*》中出現。
 
 ## 簡介

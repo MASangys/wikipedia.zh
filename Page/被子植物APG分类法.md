@@ -1,3 +1,6 @@
+> 本文内容由[被子植物APG分类法](https://zh.wikipedia.org/wiki/被子植物APG分类法)转换而来。
+
+
 《**被子植物APG分类法**》是1998年由[被子植物种系发生学组](../Page/被子植物种系发生学组.md "wikilink")（APG，Angiosperm Phylogeny Group）出版的一种对于[被子植物的现代分类法](https://zh.wikipedia.org/wiki/被子植物门 "wikilink")。
 
 和传统的依照形态分类不同，这种分类法主要依照[植物](../Page/植物.md "wikilink")的三个[基因](../Page/基因.md "wikilink")组[DNA的顺序](https://zh.wikipedia.org/wiki/DNA "wikilink")，以[亲缘分支的方法分类](https://zh.wikipedia.org/wiki/亲缘分支分类法 "wikilink")，包括两个[叶绿体](../Page/叶绿体.md "wikilink")和一个[核糖体](../Page/核糖体.md "wikilink")的基因编码。虽然主要依据[分子生物学](../Page/分子生物学.md "wikilink")的数据，但是也参照其他方面的理论，例如将[真双子叶植物分支和其他原来分到](https://zh.wikipedia.org/wiki/真双子叶植物分支 "wikilink")[双子叶植物纲中的种类区分](https://zh.wikipedia.org/wiki/双子叶植物纲 "wikilink")，也是根据花粉形态学的理论。

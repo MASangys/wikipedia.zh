@@ -1,3 +1,6 @@
+> 本文内容由[秋之回憶：從今以後again](https://zh.wikipedia.org/wiki/秋之回憶：從今以後again)转换而来。
+
+
 《**秋之回憶～從今以後again～**》（）是[日本](../Page/日本.md "wikilink")遊戲廠商[KID](../Page/KID.md "wikilink")公司於2006年3月23日發售，執行於[PlayStation 2上的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。本遊戲為同系列《[秋之回憶：從今以後](../Page/秋之回憶：從今以後.md "wikilink")》的續篇。
 
 [台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")代理，中国大陆地区则由[娱乐通](../Page/娱乐通.md "wikilink")代理。

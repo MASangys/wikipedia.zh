@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(P\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(P\))转换而来。
+
+
 ## 天文学、地球科学
 
   - P1 [天文学](https://zh.wikipedia.org/wiki/天文学 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TQ4\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ4\))转换而来。
+
+
 ::\*TQ41 [溶剂](../Page/溶剂.md "wikilink")与[增塑剂的生产](https://zh.wikipedia.org/wiki/增塑剂 "wikilink")
 
 ::::\*TQ410.1 基础理论

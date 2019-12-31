@@ -1,3 +1,6 @@
+> 本文内容由[戰國BASARA系列](https://zh.wikipedia.org/wiki/戰國BASARA系列)转换而来。
+
+
 《**戰國BASARA**》是[CAPCOM發行的动作游戏系列](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，第一作为[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")，後續作品亦有登場於[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Wii](../Page/Wii.md "wikilink")等平台，[惡魔獵人團隊參與製作](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")。第一作《戰國BASARA》於北美及歐洲的名稱為《Devil Kings》。
 
 BASARA在[日語可解作](https://zh.wikipedia.org/wiki/日語 "wikilink")**[婆娑羅](../Page/婆娑羅.md "wikilink")**，是當時下級貴族的一種「僭越行為」；不避諱自己的身份高低而穿著華貴的衣服，以及言行舉止上逾越本分的故做風雅。[足利幕府第一代將軍](https://zh.wikipedia.org/wiki/足利幕府 "wikilink")[足利尊氏](../Page/足利尊氏.md "wikilink")在幕府管理的基本方針中予以禁止。其風潮的代表性人物為源家足利氏首席執事，[高師直](../Page/高師直.md "wikilink")；其他諸如[佐佐木道譽](../Page/佐佐木道譽.md "wikilink")、土岐頼遠等等，均在日本古典文學《[太平記](../Page/太平記.md "wikilink")》中以「婆娑羅[大名](https://zh.wikipedia.org/wiki/大名 "wikilink")」稱之，並且加以批判。

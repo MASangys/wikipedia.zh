@@ -1,3 +1,6 @@
+> 本文内容由[Ogg](https://zh.wikipedia.org/wiki/Ogg)转换而来。
+
+
 **Ogg**是一個[自由且](../Page/自由檔案格式.md "wikilink")[開放標準的多媒体](https://zh.wikipedia.org/wiki/開放標準 "wikilink")[文件格式](../Page/檔案格式.md "wikilink")，由[Xiph.Org基金會](../Page/Xiph.Org基金會.md "wikilink")所維護。Ogg格式並不受到[軟體專利的限制](https://zh.wikipedia.org/wiki/軟體專利 "wikilink")，並設計用於有效率地[串流媒體和處理高品質的](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[數位多媒體](../Page/多媒体.md "wikilink")。
 
 「Ogg」意指一種[文件格式](../Page/檔案格式.md "wikilink")，可以納入各式各樣[自由和](../Page/自由软件.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")的[编解码器](../Page/编解码器.md "wikilink")，包含[音效](../Page/声音.md "wikilink")、[视频](../Page/视频.md "wikilink")、文字（像[字幕](../Page/字幕.md "wikilink")）與[元数据](../Page/元数据.md "wikilink")的處理。

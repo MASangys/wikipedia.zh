@@ -1,3 +1,6 @@
+> 本文内容由[Stellarium](https://zh.wikipedia.org/wiki/Stellarium)转换而来。
+
+
 **Stellarium**是一款[天文类](../Page/天文學.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")，以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")发布，可以运行在[Linux](../Page/Linux.md "wikilink")、[Windows及](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac OS X操作系统中](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。Stellarium Mobile是该项目衍生的付费移动应用版本，支持[安卓](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[塞班操作系统](https://zh.wikipedia.org/wiki/Symbian "wikilink")。Stellarium使用[OpenGL](../Page/OpenGL.md "wikilink")对星空做实时[渲染](../Page/渲染.md "wikilink")。
 
 ## 功能与特性

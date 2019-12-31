@@ -1,3 +1,6 @@
+> 本文内容由[Di Gi Charat](https://zh.wikipedia.org/wiki/Di Gi Charat)转换而来。
+
+
 **Di Gi Charat**（；又譯**滴骰孖妹\[1\]**（[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")）、**鈴鐺貓娘**（香港譯名）、**叮噹小魔女**（台灣譯名））是[Broccoli](../Page/Broccoli.md "wikilink")為其角色精品店所做的角色企畫，原作者是[小夏鈍帆](../Page/小夏鈍帆.md "wikilink")。由於其獨特的造型，很快就成為了Broccoli的精品連鎖店[GAMERS的](https://zh.wikipedia.org/wiki/GAMERS "wikilink")[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，因大受歡迎亦被多次改編[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[電子遊戲等](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。 [缩略图](https://zh.wikipedia.org/wiki/File:Di_Gi_Charat內頁插圖.jpg "fig:缩略图")
 
 ## 登場角色

@@ -1,3 +1,6 @@
+> 本文内容由[EP-3偵察機](https://zh.wikipedia.org/wiki/EP-3偵察機)转换而来。
+
+
 [EP-3A_EMPASS_VX-1_NAN5-6-83.jpg](https://zh.wikipedia.org/wiki/File:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg "fig:EP-3A_EMPASS_VX-1_NAN5-6-83.jpg") **EP-3A/B獵戶式**（EP-3A/B Orion）與**EP-3E白羊I/II型**（EP-3E Aries I/II）是一系列主要由[美國海軍](../Page/美國海軍.md "wikilink")所操作，配備有[渦輪推進引擎的信號偵察機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")。它的機身設計取自同廠的[P-3](https://zh.wikipedia.org/wiki/P-3 "wikilink")「獵戶」海上巡邏機，而P-3的設計則取自民航客機。目前美軍共擁有11架EP-3E型偵察機，最後一架於1997年交付。
 
 ## 型號

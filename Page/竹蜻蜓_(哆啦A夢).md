@@ -1,3 +1,6 @@
+> 本文内容由[竹蜻蜓 \(哆啦A夢\)](https://zh.wikipedia.org/wiki/竹蜻蜓 \(哆啦A夢\))转换而来。
+
+
 [タケコプター.jpg](https://zh.wikipedia.org/wiki/File:タケコプター.jpg "fig:タケコプター.jpg")
 
 **竹蜻蜓**（美國版：Hopter）是日本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》中的一項道具，又稱**竹蜻蜓飛行器**（台灣大然版、中國大陆吉美版）、**直升飞机**（中国大陆旧译），能夠使人[飛行](https://zh.wikipedia.org/wiki/飛行 "wikilink")，是故事中第一個出現\[1\]的道具，使用率相當高，在1337回漫畫中出現375回。第1作中有另一名稱 - **直升蜻蜓**，兩名稱一直並用，直至1979年製作電視動畫第2作才統一稱為**竹蜻蜓**。

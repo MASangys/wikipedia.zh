@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TD\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TD\))转换而来。
+
+
   - TD [矿业工程](https://zh.wikipedia.org/wiki/矿业工程 "wikilink")
 
 :\*TD-0 矿业工程理论与方法论

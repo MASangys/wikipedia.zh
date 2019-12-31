@@ -1,3 +1,6 @@
+> 本文内容由[Volari 8300](https://zh.wikipedia.org/wiki/Volari 8300)转换而来。
+
+
 **Volari 8300**是一種[PCI-ELow](https://zh.wikipedia.org/wiki/PCI-E "wikilink") Profile[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，由[XGI設計](https://zh.wikipedia.org/wiki/XGI "wikilink")。自前一代[Volari](https://zh.wikipedia.org/wiki/Volari "wikilink") V系列[AGP](../Page/AGP.md "wikilink")顯示卡慘淡收場後，XGI索性苦修一年，直接推出原生PCI-E顯示卡。本作不以效能出名，而是靠其優秀的視訊播放質素。
 
   - 核心：

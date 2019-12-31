@@ -1,3 +1,6 @@
+> 本文内容由[PhotoCap](https://zh.wikipedia.org/wiki/PhotoCap)转换而来。
+
+
 **PhotoCap**是一套簡易的[影像處理軟體](https://zh.wikipedia.org/wiki/影像處理軟體 "wikilink")，由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雲林程式設計師王俊昌所開發](https://zh.wikipedia.org/wiki/雲林 "wikilink")。這個軟體原先的開發動機單純只是要在數位相片上加上[日期標記](https://zh.wikipedia.org/wiki/日期標記 "wikilink")。之後幾經迭代，成為了多功能的影像編修軟體。
 
 個人、家庭或學校教育單位等非商業營利用途免費，商業用途每套收費新台幣500至2000元不等。

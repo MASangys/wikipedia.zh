@@ -1,3 +1,6 @@
+> 本文内容由[Verdana](https://zh.wikipedia.org/wiki/Verdana)转换而来。
+
+
 **Verdana**，是一套[無襯線字體](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，由於它在小字上仍有結構清晰端整、閱讀辨識容易等高品質的表現，因而在1996年推出後即迅速成為許多領域所愛用的標準字型之一。
 
 此字體的設計源起於[微軟字型設計小組的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[維吉尼亞·惠烈](https://zh.wikipedia.org/wiki/維吉尼亞·惠烈 "wikilink")（Virginia Howlett）希望設計一套具有高辨識性、易讀性的新字型以供[螢幕顯示之用](https://zh.wikipedia.org/wiki/螢幕 "wikilink")，於是她邀請了世界頂級字型設計師之一的[馬修·卡特](../Page/馬修·卡特.md "wikilink")（Matthew Carter）操刀，以[Frutiger](../Page/Frutiger.md "wikilink")字體及[愛德華·約翰斯頓](https://zh.wikipedia.org/wiki/愛德華·約翰斯頓 "wikilink")（Edward Johnston）為[倫敦地鐵所設計的字體為藍本](https://zh.wikipedia.org/wiki/倫敦地鐵 "wikilink")，並由[Monotype公司的字型微調](https://zh.wikipedia.org/wiki/Monotype "wikilink")（Hint）專家[湯姆·瑞克納](https://zh.wikipedia.org/wiki/湯姆·瑞克納 "wikilink")（Tom Rickner）擔任手工微調，字體結構與[Tahoma](https://zh.wikipedia.org/wiki/Tahoma "wikilink")（同為馬修·卡特所設計）很相似，微軟將Verdana納入[網頁核心字體之一](https://zh.wikipedia.org/wiki/網頁核心字體 "wikilink")。

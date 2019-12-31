@@ -1,3 +1,6 @@
+> 本文内容由[Portal:臺灣/SavedPicture](https://zh.wikipedia.org/wiki/Portal:臺灣/SavedPicture)转换而来。
+
+
   - 注意事項
 
 <!-- end list -->

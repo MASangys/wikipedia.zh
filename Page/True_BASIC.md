@@ -1,3 +1,6 @@
+> 本文内容由[True BASIC](https://zh.wikipedia.org/wiki/True BASIC)转换而来。
+
+
 **True BASIC**是[BASIC](../Page/BASIC.md "wikilink")的一種，由原來的BASIC作者[约翰·凯梅尼](../Page/约翰·凯梅尼.md "wikilink")及[托马斯·卡茨兩位教授所創立](https://zh.wikipedia.org/wiki/托马斯·卡茨 "wikilink")。他們有感自從BASIC這種[編程語言在](https://zh.wikipedia.org/wiki/編程語言 "wikilink")[微電腦上風行以來](https://zh.wikipedia.org/wiki/微電腦 "wikilink")，其設計都與原來BASIC的設計逐漸偏離，所以他們希望可以透過這一套True BASIC語言來重新強調BASIC語言所應有的設計特色，使到原來為[迷你電腦及](https://zh.wikipedia.org/wiki/迷你電腦 "wikilink")[小型電腦設計的BASIC程序可以更好地移殖到微機上使用](https://zh.wikipedia.org/wiki/小型電腦 "wikilink")。巧合的是，當時所風行的各個BASIC版本，不論是[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[Applesoft BASIC或](../Page/Applesoft_BASIC.md "wikilink")[MS-DOS](../Page/MS-DOS.md "wikilink")的[GWBASIC或](https://zh.wikipedia.org/wiki/GWBASIC "wikilink")[Quick BASIC](https://zh.wikipedia.org/wiki/Quick_BASIC "wikilink")，都是由[微軟所開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")。就連第一套編譯式的BASIC版本、[Borland](../Page/Borland.md "wikilink")的[Turbo BASIC](../Page/Turbo_BASIC.md "wikilink")，也是基於微軟的GW-BASIC語言。
 
 ## 簡介

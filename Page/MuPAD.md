@@ -1,3 +1,6 @@
+> 本文内容由[MuPAD](https://zh.wikipedia.org/wiki/MuPAD)转换而来。
+
+
 **MuPAD**（**Mu**lti **P**rocessing **A**lgebra **D**ata Tool）是一个商用[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")。最初由[德国](../Page/德国.md "wikilink")[帕德博恩大学](https://zh.wikipedia.org/wiki/帕德博恩大学 "wikilink")（Universität Paderborn）Benno Fuchsteiner教授的MuPAD研究小组开发而成，1997年以来，其开发由该研究小组与德国SciFace Software有限公司共同承担。2008年9月，SciFace公司被[The MathWorks公司收购](https://zh.wikipedia.org/wiki/The_MathWorks "wikilink")，从此MuPAD作为符号数学工具箱（Symbolic Math Toolbox）被包含在[MATLAB](../Page/MATLAB.md "wikilink")当中。
 
 [Enneper.gif](https://zh.wikipedia.org/wiki/File:Enneper.gif "fig:Enneper.gif")

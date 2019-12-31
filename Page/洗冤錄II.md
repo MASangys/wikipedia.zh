@@ -1,3 +1,6 @@
+> 本文内容由[洗冤錄II](https://zh.wikipedia.org/wiki/洗冤錄II)转换而来。
+
+
 《**洗冤錄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的古裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共22集，由[歐陽震華](../Page/歐陽震華.md "wikilink")及[佘詩曼領銜主演](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")，監製[蕭顯輝](../Page/蕭顯輝.md "wikilink")，此劇為《[洗冤錄系列](https://zh.wikipedia.org/wiki/洗冤錄_\(系列\) "wikilink")》第二輯。
 
 此劇根據[南宋](../Page/南宋.md "wikilink")名人[宋慈](../Page/宋慈.md "wikilink")所著的法醫學題材書籍《[洗冤集录](../Page/洗冤集录.md "wikilink")》為基礎，再把著作改編劇集，然後進行拍攝製作。

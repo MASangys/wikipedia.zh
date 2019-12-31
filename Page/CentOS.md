@@ -1,3 +1,6 @@
+> 本文内容由[CentOS](https://zh.wikipedia.org/wiki/CentOS)转换而来。
+
+
 ****（）是[Linux发行版](../Page/Linux发行版.md "wikilink")之一，它是來自於(RHEL)依照[開放原始碼規定釋出的原始碼所編譯而成](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。由於出自同樣的原始碼，因此有些要求高度穩定性的伺服器以CentOS替代商業版的[Red Hat Enterprise Linux使用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。兩者的不同，在於CentOS並不包含封闭原始碼軟體。CentOS 对[上游代码的主要修改是为了移除不能自由使用的商标](https://zh.wikipedia.org/wiki/上游_\(軟體開發\) "wikilink")。\[1\]2014年，CentOS宣布与Red Hat合作\[2\]，但CentOS将会在新的委员会下继续运作，并不受RHEL的影响\[3\]。
 
 CentOS和[RHEL一样](https://zh.wikipedia.org/wiki/RHEL "wikilink")，都可以使用[Fedora EPEL来补足软件](https://zh.wikipedia.org/wiki/Fedora#发行 "wikilink")。

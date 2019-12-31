@@ -1,3 +1,6 @@
+> 本文内容由[Google桌面](https://zh.wikipedia.org/wiki/Google桌面)转换而来。
+
+
 **Google桌面**（Google Desktop）是[Google公司的一款](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[桌面搜索软件](https://zh.wikipedia.org/wiki/桌面搜索 "wikilink")，在[Windows XP或](../Page/Windows_XP.md "wikilink")[Windows 2000的SP](../Page/Windows_2000.md "wikilink")3以上版本的[个人电脑](../Page/个人电脑.md "wikilink")以及[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Linux](../Page/Linux.md "wikilink")上本地运行。 该桌面搜索程序可以对一个人的[电子邮件](../Page/电子邮件.md "wikilink")、[电子文档](https://zh.wikipedia.org/wiki/电子文档 "wikilink")、[音乐](../Page/音乐.md "wikilink")、[照片](https://zh.wikipedia.org/wiki/照片 "wikilink")、聊天记录和使用者浏览过的网页进行全文搜索。
 
 “Google桌面”不是[开源](../Page/开放源代码.md "wikilink")、[自由的软件](../Page/自由软件.md "wikilink")，但是在遵守[最终用户使用条款](https://zh.wikipedia.org/wiki/EULA "wikilink")（EULA）的前提下，用户可以免费下载使用。安装完成后，“Google桌面”会花费数百MB的空间和一定时间来建立[索引](https://zh.wikipedia.org/wiki/索引 "wikilink")，并在每次开机的时候自动启动，以实现搜索本地资源的功能。用户也可以自由选择关闭、删除该软件。

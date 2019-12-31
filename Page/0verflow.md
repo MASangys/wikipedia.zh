@@ -1,3 +1,6 @@
+> 本文内容由[0verflow](https://zh.wikipedia.org/wiki/0verflow)转换而来。
+
+
 **Overflow**（），是總部設於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")神田小川町的STACK[有限公司](../Page/有限公司.md "wikilink")旗下[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")\[1\]，代表者是[大沼明夫](https://zh.wikipedia.org/wiki/大沼明夫 "wikilink")。虽然該品牌的英文名稱應為「Overflow」，但申请域名的时候已被占用，故將第一個字母「**O**」改成數字「**0**」，變成「0verflow」以當作域名。作品多為亂倫題材內容，而日語品牌名稱恰與日文漢字「叔母風呂」同音，故常被如此描述。
 
 ## 作品列表

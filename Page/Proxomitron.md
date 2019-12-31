@@ -1,3 +1,6 @@
+> 本文内容由[Proxomitron](https://zh.wikipedia.org/wiki/Proxomitron)转换而来。
+
+
 **Proxomitron**是一款被广为使用的[网页过滤器](https://zh.wikipedia.org/wiki/网页过滤器 "wikilink")，用户可将其用作个人的代理服务器，该软件作者是Scott R. Lemmon。通过[正则表达式](../Page/正则表达式.md "wikilink")，Proxomitron可以按照需要进行配置，拦截各种弹出式广告、闪烁的横幅广告，以及恼人的声音片段。作者将该软件按照一个特别的"ShonenWare"许可证发布：软件使用免费，但用户得购买一张[Shonen Knife](https://zh.wikipedia.org/wiki/Shonen_Knife "wikilink")（一个日本女子乐队，日文為）的[CD](../Page/CD.md "wikilink")，作者确认用户收听了，才能被看作是注册用户。
 
 不少人认为这个软件配置困难，而且拦截的内容有时会比预想的还要多，Proxomitron在用户友好性方面有所欠缺。

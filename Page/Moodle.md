@@ -1,3 +1,6 @@
+> 本文内容由[Moodle](https://zh.wikipedia.org/wiki/Moodle)转换而来。
+
+
 **Moodle**是[開源及](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[電子學習](https://zh.wikipedia.org/wiki/電子學習 "wikilink")[軟件平台](https://zh.wikipedia.org/wiki/軟件平台 "wikilink")，亦稱為[課程管理系統](https://zh.wikipedia.org/wiki/課程管理系統 "wikilink")、[學習管理系統或](https://zh.wikipedia.org/wiki/學習管理系統 "wikilink")[虛擬學習環境](https://zh.wikipedia.org/wiki/虛擬學習環境 "wikilink")。其用戶群體很有分量：根據其2010年1月的統計，現時有45,721個已註冊及查核的網站，為3200萬位用戶提供約300萬個課程\[1\]。
 
 為[線上學習](../Page/線上學習.md "wikilink")系統，為全世界有150餘國70種語言所使用，其特色異於其他商業[線上教學平臺](https://zh.wikipedia.org/wiki/線上教學平臺 "wikilink")，屬於[開放原始碼的類別](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。創建者為[馬丁·多基馬](https://zh.wikipedia.org/wiki/馬丁·多基馬 "wikilink")（）。

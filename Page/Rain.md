@@ -1,3 +1,6 @@
+> 本文内容由[Rain](https://zh.wikipedia.org/wiki/Rain)转换而来。
+
+
 **Rain**（），本名**鄭智薰**（），為[韓國著名男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[演員](../Page/演員.md "wikilink")、製作人，出生於[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[忠清南道](../Page/忠清南道.md "wikilink")[瑞山市](../Page/瑞山市.md "wikilink")，是韓國樂壇天王級歌手、演員、音樂製作人。以高熱度動作舞蹈最為著名。
 
 ## 演藝事業

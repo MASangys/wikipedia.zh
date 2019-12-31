@@ -1,3 +1,6 @@
+> 本文内容由[Meddle](https://zh.wikipedia.org/wiki/Meddle)转换而来。
+
+
 《》是於1971年[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[前衛搖滾](../Page/前衛搖滾.md "wikilink")團[平克·弗洛伊德](../Page/平克·弗洛伊德.md "wikilink")的專輯。本專輯錄音於1971年的一月與八月，在同年的10月30日於美國由Capitol公司發行，在11月於英國由EMI公司發行。Meddle在1973年的十月獲頒金唱片認證，在1994年3月榮獲RIAA白金以及雙白金的認證。重新混音的版本於1994年8月發行於歐洲，95年5月發行於美國。
 
 ## 曲目

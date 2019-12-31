@@ -1,3 +1,6 @@
+> 本文内容由[蘇格蘭PFA足球先生](https://zh.wikipedia.org/wiki/蘇格蘭PFA足球先生)转换而来。
+
+
 **蘇格蘭PFA足球先生**（）於每年[蘇格蘭](../Page/蘇格蘭.md "wikilink")球季末頒發，由球員工會[PFA蘇格蘭](https://zh.wikipedia.org/wiki/蘇格蘭職業足球員協會 "wikilink")（PFA Scotland）的會員投票選出上年度的最佳球員。提名名單於每年4月份公佈，而在稍後於[格拉斯哥舉行的頒獎典禮中揭曉獲獎者](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")。
 
 ## 歷屆獲獎人

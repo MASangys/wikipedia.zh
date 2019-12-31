@@ -1,3 +1,6 @@
+> 本文内容由[AA-2飛彈](https://zh.wikipedia.org/wiki/AA-2飛彈)转换而来。
+
+
 **AA-2**[飛彈是](https://zh.wikipedia.org/wiki/飛彈 "wikilink")[蘇聯第一種](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[紅外線導引](../Page/紅外線導引.md "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")。**AA-2**是[北約賦予的代號](https://zh.wikipedia.org/wiki/北約 "wikilink")，名稱是**環礁**（Atoll），蘇聯軍方給予的代號包括**K 13**、**R-3**或者是**R-13**，是蘇聯早期外銷最廣，實戰經驗最多的空對空飛彈。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Y2K系列](https://zh.wikipedia.org/wiki/Y2K系列)转换而来。
+
+
 《**Y2K系列**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部製作的青春偶像[單元劇系列](https://zh.wikipedia.org/wiki/單元劇 "wikilink")。每一輯都圍繞一個主題，以青少年勵志為主。這系列的特色是選用一群螢幕新人，於暑期選角拍攝，他們大都沒有演出經驗，最多也是兼職模特兒。推出的時候，非常受歡迎，亦令劇中主角的知名度大大提升。值得一提是，很多當時於首五套劇擔正的新人，現已成為樂壇、影壇的新一代，當中包括：[方力申](../Page/方力申.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[關智斌](../Page/關智斌.md "wikilink")、[蔣雅文](../Page/蔣雅文.md "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[談善言](../Page/談善言.md "wikilink")等。
 
 此劇系列共分為5輯：

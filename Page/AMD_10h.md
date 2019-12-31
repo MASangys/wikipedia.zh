@@ -1,3 +1,6 @@
+> 本文内容由[AMD 10h](https://zh.wikipedia.org/wiki/AMD 10h)转换而来。
+
+
 **AMD 10h處理器家族**\[1\]是美商[超微](https://zh.wikipedia.org/wiki/超微 "wikilink")（[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")）研發並推出市場的一代[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")，舊稱為**K10**。\[2\]在K10微架構尚未推出前，曾有媒體報導K10為已取消的計劃\[3\]，其後超微發言人否認此說法，宣佈K10將是[AMD K8產品](../Page/AMD_K8.md "wikilink")（[Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Opteron](../Page/Opteron.md "wikilink")、[Sempron 64等](../Page/AMD_Sempron.md "wikilink")）的後繼者，沒有[K9微架構的說法](../Page/AMD_K9.md "wikilink")。最终基於K10微架構的[皓龍](https://zh.wikipedia.org/wiki/皓龍 "wikilink")（[Opteron](../Page/Opteron.md "wikilink")）處理器的工程样品于2007年早期曝光，2007年9月10日K10架構的首發產品——超微皓龍推出市场，其後在同年11月11日上市的是超微[飛龍](https://zh.wikipedia.org/wiki/飛龍 "wikilink")（[AMD Phenom](../Page/AMD_Phenom.md "wikilink")）——超微處理器系列的新品牌。後來超微也由K10衍生出一些姊妹版和改進版微架構，如[Turion](https://zh.wikipedia.org/wiki/Turion "wikilink")/[Turion 64](../Page/Turion_64.md "wikilink")（11h）、Fusion（12h）等，直至超微推出Bulldozer微架構一年之後，由於Bulldozer架構的效能表現不如人意，基於K10架構改進版的部分型號的處理器到2012年時仍有生產。\[4\]\[5\]
 
 ## 命名

@@ -1,3 +1,6 @@
+> 本文内容由[ATR](https://zh.wikipedia.org/wiki/ATR)转换而来。
+
+
 **ATR**（，）為一家由[意大利](../Page/意大利.md "wikilink")的Aeritalia（已併入[李奧納多公司](../Page/李奧納多_\(公司\).md "wikilink")）及[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[法國航太](https://zh.wikipedia.org/wiki/法國航太 "wikilink")（已併入[空中巴士集團](https://zh.wikipedia.org/wiki/空中巴士集團 "wikilink")）合組的[飛機製造商](https://zh.wikipedia.org/wiki/飛機製造商 "wikilink")，雙方各持有50%股權。**ATR**成立於1982年，條約規定，公司主席每三年更換一次，由合資雙方輪流擔任。
 
 ## 型號

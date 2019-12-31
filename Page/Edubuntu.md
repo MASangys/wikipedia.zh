@@ -1,3 +1,6 @@
+> 本文内容由[Edubuntu](https://zh.wikipedia.org/wiki/Edubuntu)转换而来。
+
+
 **Edubuntu**是[Ubuntu Linux的教育分支](../Page/Ubuntu.md "wikilink")，並包含了[Linux終端機伺服器計畫](https://zh.wikipedia.org/wiki/Linux終端機伺服器計畫 "wikilink")，以及大量的教育應用程序，例如[GCompris](../Page/GCompris.md "wikilink")、[KDE教育计划和Schooltool](https://zh.wikipedia.org/wiki/KDE教育计划 "wikilink") Calendar。
 
 Edubuntu在2005年10月13日推出首個版本，與Ubuntu5.10推出時間相同。現時Edubuntu最新的穩定版本為14.04.2，发布于2015年2月。

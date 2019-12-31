@@ -1,3 +1,6 @@
+> 本文内容由[ISBN区域代码表](https://zh.wikipedia.org/wiki/ISBN区域代码表)转换而来。
+
+
 相关内容请参看[国际标准书号](../Page/国际标准书号.md "wikilink")。
 
 ## 978区域标识符

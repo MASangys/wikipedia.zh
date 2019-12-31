@@ -1,3 +1,6 @@
+> 本文内容由[GnuPG](https://zh.wikipedia.org/wiki/GnuPG)转换而来。
+
+
 **GNU Privacy Guard**（**GnuPG**或**GPG**）是一个[密码学](../Page/密码学.md "wikilink")软件，用于[加密](../Page/加密.md "wikilink")、[签名通信内容及管理](../Page/數位簽章.md "wikilink")[非对称密码学的密钥](../Page/公开密钥加密.md "wikilink")。GnuPG是[自由软件](../Page/自由软件.md "wikilink")，遵循[IETF訂定的](https://zh.wikipedia.org/wiki/互聯網工程工作小組 "wikilink")[OpenPGP技術標準設計](https://zh.wikipedia.org/wiki/OpenPGP "wikilink")，并与[PGP](../Page/PGP.md "wikilink")保持兼容。\[1\]
 
 GnuPG是[自由軟件基金會的](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")[GNU計劃](../Page/GNU計劃.md "wikilink")的一部份，曾受[德國政府資助](https://zh.wikipedia.org/wiki/德國 "wikilink")。\[2\]

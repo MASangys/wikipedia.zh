@@ -1,3 +1,6 @@
+> 本文内容由[Birdy](https://zh.wikipedia.org/wiki/Birdy)转换而来。
+
+
 [2011-04-07-birdy-by-RalfR-01.jpg](https://zh.wikipedia.org/wiki/File:2011-04-07-birdy-by-RalfR-01.jpg "fig:2011-04-07-birdy-by-RalfR-01.jpg") [13-06-27-utrecht-by-RalfR-01_Birdy_im_Liegewagen.jpg](https://zh.wikipedia.org/wiki/File:13-06-27-utrecht-by-RalfR-01_Birdy_im_Liegewagen.jpg "fig:13-06-27-utrecht-by-RalfR-01_Birdy_im_Liegewagen.jpg") [BIRDY.jpg](https://zh.wikipedia.org/wiki/File:BIRDY.jpg "fig:BIRDY.jpg") **Birdy**，昵称为[鸟车](https://zh.wikipedia.org/wiki/鸟车 "wikilink")，由[Riese und Müller所设计的](https://zh.wikipedia.org/wiki/Riese_und_Müller "wikilink")[折叠车](https://zh.wikipedia.org/wiki/折叠车 "wikilink")。
 
 ## 源起

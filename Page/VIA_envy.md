@@ -1,3 +1,6 @@
+> 本文内容由[VIA envy](https://zh.wikipedia.org/wiki/VIA envy)转换而来。
+
+
 [VIA_Envy.jpg](https://zh.wikipedia.org/wiki/File:VIA_Envy.jpg "fig:VIA_Envy.jpg") **VIA Envy24**是[威盛電子](../Page/威盛電子.md "wikilink")研發的一个支援24-bit音效的[音效晶片](https://zh.wikipedia.org/wiki/音效晶片 "wikilink")。它除了以声效卡的姿態出現外，還有一定數量的[主機板安裝了這塊晶片](https://zh.wikipedia.org/wiki/主機板 "wikilink")。
 
 Envy24晶片原先由IC Ensemble Inc.（1997年成立）研發，其後於2000年被威盛收購。

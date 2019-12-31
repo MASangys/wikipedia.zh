@@ -1,3 +1,6 @@
+> 本文内容由[日產Tiida](https://zh.wikipedia.org/wiki/日產Tiida)转换而来。
+
+
 **日產Tiida**（）是由[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")公司自2004年起製造販售的[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")（compact car）。由於日產汽車和[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[雷諾汽車具有聯盟合作關係](../Page/雷诺.md "wikilink")，該款車之[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")（稱為「B平台」）與第二代雷諾Mégane、[第三代March共用](https://zh.wikipedia.org/wiki/日產March#第三代：K12型（2002年-2010年） "wikilink")，但前二者延長其軸距而成。此款車在[臺灣](../Page/臺灣.md "wikilink")、[日本](../Page/日本.md "wikilink")、[俄羅斯等地稱為Tiida](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，另外日本針對三廂式四門轎車稱作**Tiida Latio**。而二廂式五門[掀背車在](https://zh.wikipedia.org/wiki/掀背車 "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")等地稱作**騏達**，三廂式四門[轎車稱為](https://zh.wikipedia.org/wiki/轎車 "wikilink")**頤達**；但中國大陸於2016年改款稱**Tiida**，不再使用前述名稱。[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")市場叫做**Versa**；[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印度尼西亞等地則命名為](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")**Latio**；此外在一部分[南美洲](../Page/南美洲.md "wikilink")國家銷售的掛上[道奇汽車的](https://zh.wikipedia.org/wiki/道奇汽車 "wikilink")[品牌](../Page/品牌.md "wikilink")，稱為**Trazo**。
 
 ## 概要

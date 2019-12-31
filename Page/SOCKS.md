@@ -1,3 +1,6 @@
+> 本文内容由[SOCKS](https://zh.wikipedia.org/wiki/SOCKS)转换而来。
+
+
 **SOCKS**是一种[网络传输协议](../Page/网络传输协议.md "wikilink")，主要用于客户端与外网服务器之间通讯的中间传递。SOCKS是"SOCKetS"的[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。
 
 当[防火墙后的客户端要访问外部的服务器时](https://zh.wikipedia.org/wiki/防火墙_\(网络\) "wikilink")，就跟SOCKS[代理服务器](../Page/代理服务器.md "wikilink")连接。这个代理服务器控制客户端访问外网的资格，允许的话，就将客户端的请求发往外部的服务器。

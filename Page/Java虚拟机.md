@@ -1,3 +1,6 @@
+> 本文内容由[Java虚拟机](https://zh.wikipedia.org/wiki/Java虚拟机)转换而来。
+
+
 [Java虚拟机架构.svg](https://zh.wikipedia.org/wiki/File:Java虚拟机架构.svg "fig:Java虚拟机架构.svg")
 
 **Java虛擬機**（，縮寫為JVM），一種能夠執行[Java bytecode的](https://zh.wikipedia.org/wiki/Java_bytecode "wikilink")[虛擬機器](../Page/虛擬機器.md "wikilink")，以[堆疊結構機器來進行實做](https://zh.wikipedia.org/wiki/堆疊結構機器 "wikilink")。最早由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所研發并实现第一个实现版本，是[Java平臺](../Page/Java平臺.md "wikilink")的一部份，能夠執行以[Java](../Page/Java.md "wikilink")語言寫作的[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")。

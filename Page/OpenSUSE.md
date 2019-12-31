@@ -1,3 +1,6 @@
+> 本文内容由[OpenSUSE](https://zh.wikipedia.org/wiki/OpenSUSE)转换而来。
+
+
 **openSUSE**（\[1\]），前身爲SUSE Linux和SuSE Linux Professional，是一个[Linux發行版與項目](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，由SUSE Linux GmBH與其他公司贊助\[2\]。openSUSE在全世界被廣泛使用，尤其是在德國。它的開發重心是爲軟體開發者和系統管理者創造適用的開放原始碼的工具，並提供易於使用的桌面環境和功能豐富的伺服器環境。openSUSE針對桌面環境進行了一系列的優化，是一个對Linux新手較為友好的Linux发行版。
 
 ## 概述

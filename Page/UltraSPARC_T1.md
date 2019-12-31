@@ -1,3 +1,6 @@
+> 本文内容由[UltraSPARC T1](https://zh.wikipedia.org/wiki/UltraSPARC T1)转换而来。
+
+
 **UltraSPARC T1**是[昇陽電腦](../Page/昇陽電腦.md "wikilink")所研發的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，而處理器還在開發階段時的研發[代號稱為](https://zh.wikipedia.org/wiki/代號 "wikilink")「Niagara，[尼亞加拉瀑布](https://zh.wikipedia.org/wiki/尼亞加拉瀑布 "wikilink")」，之後在2005年11月14日正式研發完成並發表。UltraSPARC T1是一顆[多核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")（執行核）、[多线程](../Page/多线程.md "wikilink")（多執行緒）的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，且針對[伺服器運算的運用需求而強化省電設計](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，在1.2GHz運作時脈下的典型用電為72W（Watt，瓦、瓦特）。
 
 UltraSPARC T1衍生自UltraSPARC系列微處理器，它是昇陽電腦公司的第一顆多核多緒處理器，這顆處理器內可以有4個、6個、8個CPU核心，且每個核心最多可同時執掌、處理4個執行緒，如此UltraSPARC T1處理器在最理想狀態下可同時執行32個執行緒。

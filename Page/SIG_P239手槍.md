@@ -1,3 +1,6 @@
+> 本文内容由[SIG P239手槍](https://zh.wikipedia.org/wiki/SIG P239手槍)转换而来。
+
+
 **SIG P239**是由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Swiss Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前SIG Arms）设计，为个人防身用途的半自动手枪。P239有3种口径：[9×19毫米鲁格弹](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")、[.357 SIG和](../Page/.357_SIG.md "wikilink")[.40 S\&W](../Page/.40_S&W.md "wikilink")。
 
 ## 設計及型號

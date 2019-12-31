@@ -1,3 +1,6 @@
+> 本文内容由[S-腺苷甲硫氨酸](https://zh.wikipedia.org/wiki/S-腺苷甲硫氨酸)转换而来。
+
+
 ***S*-腺苷甲硫氨酸**（又名***S*-腺苷蛋氨酸**，，缩写为**SAM**）带有一个活化了的[甲基](https://zh.wikipedia.org/wiki/甲基 "wikilink")（右图标注），是一种参与甲基转移反应的[辅酶](https://zh.wikipedia.org/wiki/辅酶 "wikilink")，存在于所有的[真核细胞中](https://zh.wikipedia.org/wiki/真核细胞 "wikilink")。在失去该活化甲基后，SAM变为[S-腺苷-L-高半胱氨酸](https://zh.wikipedia.org/wiki/S-腺苷-L-高半胱氨酸 "wikilink")（SAH）。
 
 *S*-腺苷甲硫氨酸最早于1952年被科学家（[Cantoni](https://zh.wikipedia.org/wiki/Cantoni "wikilink")）发现。它由[三磷酸腺苷](../Page/三磷酸腺苷.md "wikilink")（ATP）和[甲硫氨酸](../Page/甲硫氨酸.md "wikilink")在细胞内通过蛋氨酸腺苷基转移酶（Methionine Adenosyl Transferase）催化合成，在作为辅酶参与甲基转移反应的时候丢失一个甲基变成*S*-腺苷基高半胱氨酸。大部分的*S*-腺苷甲硫氨酸在肝脏生成。

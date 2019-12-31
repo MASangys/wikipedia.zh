@@ -1,3 +1,6 @@
+> 本文内容由[Java Servlet](https://zh.wikipedia.org/wiki/Java Servlet)转换而来。
+
+
 [JSPLife.svg](https://zh.wikipedia.org/wiki/File:JSPLife.svg "fig:JSPLife.svg") **Servlet**（Server Applet），全称**Java Servlet**，未有中文译文。是用[Java](../Page/Java.md "wikilink")编写的[服务器](../Page/服务器.md "wikilink")端[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。其主要功能在于交互式地浏览和修改数据，生成动态[Web内容](https://zh.wikipedia.org/wiki/Web "wikilink")。狭义的Servlet是指Java语言实现的一个[接口](https://zh.wikipedia.org/wiki/接口 "wikilink")，广义的Servlet是指任何实现了这个Servlet接口的[類別](../Page/类_\(计算机科学\).md "wikilink")，一般情况下，人们将Servlet理解为后者。
 
 Servlet运行于支持Java的[应用服务器中](https://zh.wikipedia.org/wiki/应用服务器 "wikilink")。从实现上讲，Servlet可以响应任何类型的请求，但绝大多数情况下Servlet只用来扩展基于[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[协议的](https://zh.wikipedia.org/wiki/协议 "wikilink")[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Nabla算子](https://zh.wikipedia.org/wiki/Nabla算子)转换而来。
+
+
 **Del算子**或稱**Nabla算子**，在中文中也叫**向量微分算子**、**劈形算子**、**倒三角算子**，[符号](../Page/符号.md "wikilink")为\(\nabla\)，是一个[向量](../Page/向量算子.md "wikilink")[微分算子](../Page/微分算子.md "wikilink")，但本身並非一個向量\[1\]。
 
 其形式化定义为：

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Access](https://zh.wikipedia.org/wiki/Microsoft Access)转换而来。
+
+
 **Microsoft Office Access**（前名**Microsoft Access**）是由[微軟發佈的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[關聯式資料庫管理系統](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它結合了[Microsoft Jet Database Engine和](../Page/Microsoft_Jet_Database_Engine.md "wikilink")[圖形用戶界面兩項特點](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，是[Microsoft Office的系統程式之一](../Page/Microsoft_Office.md "wikilink")。
 
 Access能夠存取Access/Jet、[Microsoft SQL Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[Oracle數據庫](https://zh.wikipedia.org/wiki/Oracle數據庫 "wikilink")，或者任何[ODBC](../Page/ODBC.md "wikilink")相容[資料庫內的資料](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。熟練的[軟體設計師和](https://zh.wikipedia.org/wiki/軟體設計師 "wikilink")[資料分析師利用它來開發](https://zh.wikipedia.org/wiki/資料分析師 "wikilink")[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")，而一些不熟練的[程式員和非程式員的進階用戶則能使用它來開發簡單的](https://zh.wikipedia.org/wiki/程式員 "wikilink")[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")。雖然它支援部分[物件導向技術](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，但是未能成為一種完整的物件導向開發工具。

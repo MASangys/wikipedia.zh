@@ -1,3 +1,6 @@
+> 本文内容由[LGBT與伊斯蘭教](https://zh.wikipedia.org/wiki/LGBT與伊斯蘭教)转换而来。
+
+
 [LGBT_Ensign_of_Pakistan.svg](https://zh.wikipedia.org/wiki/File:LGBT_Ensign_of_Pakistan.svg "fig:LGBT_Ensign_of_Pakistan.svg") [伊斯蘭教的](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[LGBT](../Page/LGBT.md "wikilink")概念受到[穆斯林](../Page/穆斯林.md "wikilink")的文化法律相連的歷史及國家背景影響，特別是[古蘭經和集錄](https://zh.wikipedia.org/wiki/古蘭經 "wikilink")[先知](../Page/先知.md "wikilink")[穆罕默德](../Page/穆罕默德.md "wikilink")言行的[聖訓](../Page/聖訓.md "wikilink")。
 
 古蘭經中記載著[魯特的故事](https://zh.wikipedia.org/wiki/伊斯蘭教中的羅得 "wikilink")（亦被稱為[所多瑪與蛾摩拉](../Page/所多瑪與蛾摩拉.md "wikilink")），多數教派將該故事視為古蘭經禁止同性性行為的依據。

@@ -1,3 +1,6 @@
+> 本文内容由[×××HOLiC](https://zh.wikipedia.org/wiki/×××HOLiC)转换而来。
+
+
 《**×××HOLiC**》（）是[日本漫畫家團體](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[CLAMP](../Page/CLAMP.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。與同期連載的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》是相同的[平行世界觀](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，劇情互相交錯。在2005年劇場版上映，於2006年、2008年二度作成動畫，港台電視都取得動畫的版權。
 
 ## 故事簡介

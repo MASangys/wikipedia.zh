@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TG\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TG\))转换而来。
+
+
   - TG [金属学与](https://zh.wikipedia.org/wiki/金属学 "wikilink")[金属工艺](https://zh.wikipedia.org/wiki/金属工艺 "wikilink")
 
 :\*TG1 [金属学与热处理](https://zh.wikipedia.org/wiki/金属学 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[Yahoo知識+](https://zh.wikipedia.org/wiki/Yahoo知識+)转换而来。
+
+
 **-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+; zh-hk:Yahoo知識+;}-**（-{zh-cn:香港：**Yahoo知识+**、台湾：**Yahoo奇摩知识+**; zh-tw:中國大陸：**雅虎知識堂**、香港：**Yahoo知識+**; zh-hk:中國大陸：**雅虎知識堂**、台灣：**Yahoo奇摩知識+**;}-），英語系地區稱為**Yahoo\! Answers**\[1\]，是一個開放性的知識分享平台，讓使用者可以與網友做問答的互動，藉由眾人的經驗與專長，在問與答的討論之間，幫助使用者找到滿意的答案\[2\]，與類似性質的[Answers](https://zh.wikipedia.org/wiki/Answers "wikilink")、[Google Answers](https://zh.wikipedia.org/wiki/Google_Answers "wikilink")（已關閉）、[愛問知識人以及](https://zh.wikipedia.org/wiki/愛問知識人 "wikilink")[百度知道](../Page/百度知道.md "wikilink")可說是競爭關係。使用單純的問答系統的好處是可以不必在不同且以分類為主的[論壇花費時間尋找答案](../Page/网络论坛.md "wikilink")，和在關鍵字搜索中的結果花費時間尋找答案。無論任何行動，都需要至少一個[雅虎](../Page/雅虎.md "wikilink")帳號，並且啟動自己知識檔案。（在香港，要評價要再手機認證）全球[雅虎](../Page/雅虎.md "wikilink")最早的-{zh-cn:知识堂; zh-tw:知識+; zh-hk:知識+;}-是由韓國於2003年6月架設。-{zh-cn:雅虎知识堂; zh-tw:Yahoo奇摩知識+; zh-hk:Yahoo知識+;}-已經在至少19個地區建立。
 
 知識服務是免費的會員服務。事實上，[雅虎](../Page/雅虎.md "wikilink")因廣納沒有智慧財產權審核制度的知識問答[條目卻促成了知識所屬雅虎搜尋引擎達到率](https://zh.wikipedia.org/wiki/條目 "wikilink")（reach）大增。另外在台灣，知識搜尋網甚至搶佔60%以上市佔率。到2015年2月26日，Yahoo奇摩知識+的解決問題數已超過2,215萬500則。

@@ -1,3 +1,6 @@
+> 本文内容由[Xubuntu](https://zh.wikipedia.org/wiki/Xubuntu)转换而来。
+
+
 **Xubuntu**（发音为ZOO-bun-too）是[Ubuntu Linux正式授權的](../Page/Ubuntu.md "wikilink")[衍生版本](https://zh.wikipedia.org/wiki/Ubuntu衍生版 "wikilink")，建基于[桌面环境](../Page/桌面环境.md "wikilink")[Xfce](../Page/Xfce.md "wikilink")。Xubuntu主要面向舊式电脑的使用者和追求更快捷的桌面环境的使用者\[1\]，主要运行基于[GTK+的程序](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。
 
 ## 历史

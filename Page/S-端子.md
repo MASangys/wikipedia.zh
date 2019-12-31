@@ -1,3 +1,6 @@
+> 本文内容由[S-端子](https://zh.wikipedia.org/wiki/S-端子)转换而来。
+
+
 [SVideoConnector.jpg](https://zh.wikipedia.org/wiki/File:SVideoConnector.jpg "fig:SVideoConnector.jpg") [S-Video_pin_and_HK_ten_cents.JPG](https://zh.wikipedia.org/wiki/File:S-Video_pin_and_HK_ten_cents.JPG "fig:S-Video_pin_and_HK_ten_cents.JPG")對比。\]\] **S-端子**（），或稱「**獨立視訊端子**」 ，而當中的**S**是“**Separate**”的簡稱。也稱為**Y/C**（或误称为S-VHS或「超級端子（Super Video）」）。它是將[影像數據分成兩個單獨訊號](https://zh.wikipedia.org/wiki/影像 "wikilink")（[光亮度和](https://zh.wikipedia.org/wiki/光亮度_\(影像科技\) "wikilink")[色度](https://zh.wikipedia.org/wiki/色度_\(影像科技\) "wikilink")）進行傳送的[模擬訊號](../Page/模擬信號.md "wikilink")，不像[複合影像訊號](../Page/AV端子.md "wikilink")（composite video）是將所有訊號打包成一個整體進行傳送。
 
 S-端子支援[480i或](https://zh.wikipedia.org/wiki/480i "wikilink")[576i](https://zh.wikipedia.org/wiki/576i "wikilink")[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")。

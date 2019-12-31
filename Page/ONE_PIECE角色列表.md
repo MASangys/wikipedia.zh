@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE角色列表](https://zh.wikipedia.org/wiki/ONE PIECE角色列表)转换而来。
+
+
 , noteTA is exist . --\> }}
 
 **ONE PIECE角色列表**是日本漫畫《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》裡全部登場人物的概覽。

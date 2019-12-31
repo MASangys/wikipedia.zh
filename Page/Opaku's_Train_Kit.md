@@ -1,3 +1,6 @@
+> 本文内容由[Opaku\'s Train Kit](https://zh.wikipedia.org/wiki/Opaku\'s Train Kit)转换而来。
+
+
 **Opaku's Train Kit**（[日文為](https://zh.wikipedia.org/wiki/日文 "wikilink")**おぱく堂版・電車走行キット**或**電車走行キット**），簡稱 **Train Kit** 或 **TK** ，是一套由日本人**Mr. Opaku**（[日文為](https://zh.wikipedia.org/wiki/日文 "wikilink")**おぱく堂**）開發的模擬[鐵路](../Page/鐵路.md "wikilink")行走的[網頁](../Page/網頁.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 特點

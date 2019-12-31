@@ -1,3 +1,6 @@
+> 本文内容由[Goowy](https://zh.wikipedia.org/wiki/Goowy)转换而来。
+
+
 Goowy是一个以[Action Script](https://zh.wikipedia.org/wiki/Action_Script "wikilink")（[flash](https://zh.wikipedia.org/wiki/flash "wikilink")）为语言的服务性网站，提供[邮箱](https://zh.wikipedia.org/wiki/邮箱 "wikilink")、Minis、[游戏](../Page/游戏.md "wikilink")、[通讯簿](https://zh.wikipedia.org/wiki/通讯簿 "wikilink")、[日程表](https://zh.wikipedia.org/wiki/日程表 "wikilink")、[IM以及同](https://zh.wikipedia.org/wiki/IM "wikilink")[Box.net合作的文件储存平台](https://zh.wikipedia.org/wiki/Box.net "wikilink")。
 
 ## 桌面版本

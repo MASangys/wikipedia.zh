@@ -1,3 +1,6 @@
+> 本文内容由[英格蘭PFA足球先生](https://zh.wikipedia.org/wiki/英格蘭PFA足球先生)转换而来。
+
+
 **英格兰PFA足球先生**（**PFA Players' Player of the Year**，別稱**英格蘭球員先生**）於每年的球季末期由[英格蘭職業足球運動員協會](../Page/英格蘭職業足球運動員協會.md "wikilink")（Professional Footballers Association，簡稱PFA）的會員互相投票選出前一年的年度最佳球員。首次PFA足球先生在1974年頒發。
 
 自設立這個獎項以來，獲獎者多是英倫三島球員，自[英超成立以來才開始有外籍球員獲獎](https://zh.wikipedia.org/wiki/英超 "wikilink")。首位得獎外籍球員乃[法國人](https://zh.wikipedia.org/wiki/法國 "wikilink")[-{zh-hans:埃里克·坎通纳; zh-hk:簡東拿;}-](../Page/埃里克·坎通纳.md "wikilink")，於1994年贏得。

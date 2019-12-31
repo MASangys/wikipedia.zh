@@ -1,3 +1,6 @@
+> 本文内容由[Haro](https://zh.wikipedia.org/wiki/Haro)转换而来。
+
+
 **Haro**（譯為**「哈囉」**，但**英文名不是Hello**），是從[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")開始的[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")中出現的架空寵物用機器人。由[大河原邦男](../Page/大河原邦男.md "wikilink")設計，原本要用作[無敵鋼人泰坦3中的小型修理用機器人](https://zh.wikipedia.org/wiki/無敵鋼人泰坦3 "wikilink")，但在監督[富野由悠季](../Page/富野由悠季.md "wikilink")的決定下在GUNDAM出場。（泰坦3中，HARO作為修理機械人的角色，後來為[機動戰士GUNDAM 00所沿用](../Page/機動戰士GUNDAM_00.md "wikilink")。）
 
 原本的造型是黃綠色的球體，在SEED系列（[宇宙紀元](https://zh.wikipedia.org/wiki/宇宙紀元 "wikilink")）和[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")（西元）中也有同形但顏色不同的Haro登場。

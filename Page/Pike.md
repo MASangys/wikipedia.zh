@@ -1,3 +1,6 @@
+> 本文内容由[Pike](https://zh.wikipedia.org/wiki/Pike)转换而来。
+
+
 **Pike**是一種高階，跨平台的[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，其語法與[C語言相近](https://zh.wikipedia.org/wiki/C語言 "wikilink")。Pike是屬於[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，它在[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")、[LGPL以及](https://zh.wikipedia.org/wiki/LGPL "wikilink")[MPL之下發表](https://zh.wikipedia.org/wiki/MPL "wikilink")。
 
 ## 参见

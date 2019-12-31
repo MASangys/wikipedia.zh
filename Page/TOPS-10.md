@@ -1,3 +1,6 @@
+> 本文内容由[TOPS-10](https://zh.wikipedia.org/wiki/TOPS-10)转换而来。
+
+
 **TOPS-10**是迪吉多電腦公司為其PDP-10迷你電腦所撰寫的作業系統，首次發表為1964年，軟硬體結合後的成果系統也稱為「DECsystem-10」。
 
 TOPS-10支援可共享的記憶體，並且被用來開發第一套多人同時共樂的電腦遊戲程式（[MUD](../Page/MUD.md "wikilink")），這一套遊戲叫DECWAR，是一種文字導向、[星際奇航記](https://zh.wikipedia.org/wiki/星際奇航記 "wikilink")（Star Trek）型態的遊戲，玩家在終端機前輸入文字命令並即時的相互戰鬥。

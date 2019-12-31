@@ -1,3 +1,6 @@
+> 本文内容由[ODBC](https://zh.wikipedia.org/wiki/ODBC)转换而来。
+
+
 **ODBC**（**Open Database Connectivity**，开放数据库互连）提供了一种标准的[API](../Page/应用程序接口.md "wikilink")（[应用程序编程接口](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")）方法来访问[数据库管理系统](../Page/数据库管理系统.md "wikilink")（DBMS）。这些API利用[SQL](../Page/SQL.md "wikilink")来完成其大部分任务。ODBC本身也提供了对SQL语言的支持，用户可以直接将SQL语句送给ODBC。ODBC的设计者们努力使它具有最大的独立性和开放性：与具体的编程语言无关，与具体的数据库系统无关，与具体的操作系统无关。
 
 ## 历史

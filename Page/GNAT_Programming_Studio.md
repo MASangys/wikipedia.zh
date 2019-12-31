@@ -1,3 +1,6 @@
+> 本文内容由[GNAT Programming Studio](https://zh.wikipedia.org/wiki/GNAT Programming Studio)转换而来。
+
+
 **GNAT Programming Studio**或**GPS**（過去稱為**GNAT Programming System**）是一套[自由授權](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、支援多種程式語言的[整合開發環境](../Page/集成开发环境.md "wikilink")，並可在[Linux](../Page/Linux.md "wikilink")、[Windows及](https://zh.wikipedia.org/wiki/MS_Windows "wikilink")[Solaris](../Page/Solaris.md "wikilink")（[SPARC](../Page/SPARC.md "wikilink")機器的版本）等作業系統上使用。GPS的[圖像化使用者介面是呼用](https://zh.wikipedia.org/wiki/GUI "wikilink")[GTK+函式庫](https://zh.wikipedia.org/wiki/GTK+ "wikilink") 來實現，此套整合開發環境是由[AdaCore公司以](https://zh.wikipedia.org/wiki/AdaCore公司 "wikilink")[MGPL授權方式發表](https://zh.wikipedia.org/wiki/GNAT_Modified_General_Public_License "wikilink")。
 
 **GPS**並不包含編譯器，取而代之的是使用[GNU Compiler Collection來產生可執行的程式碼](../Page/GCC.md "wikilink")。

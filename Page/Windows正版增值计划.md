@@ -1,3 +1,6 @@
+> 本文内容由[Windows正版增值计划](https://zh.wikipedia.org/wiki/Windows正版增值计划)转换而来。
+
+
 **Windows正版增值计划**（，簡稱**WGA**）是一套由[微軟設計的反](https://zh.wikipedia.org/wiki/微軟 "wikilink")[盜版系統](https://zh.wikipedia.org/wiki/盜版 "wikilink")，當[Microsoft Windows的使用者存取某些微軟線上服務時](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，就會企圖強制要求使用者進行驗證目前所使用的Windows是否為[正版](https://zh.wikipedia.org/wiki/正版 "wikilink")，例如[Windows Update](../Page/Windows_Update.md "wikilink")、以及從Microsoft Download Center（微軟下載中心）下載系統元件。
 
 它也是為[Windows XP的Service](../Page/Windows_XP.md "wikilink") Pack 2作廣告宣傳，需經過手動設定才能關閉它。由於安裝它才能進行更新，微軟在2005年7月讓它成為線上更新服務的代理。

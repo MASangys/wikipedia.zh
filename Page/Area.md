@@ -1,3 +1,6 @@
+> 本文内容由[Area](https://zh.wikipedia.org/wiki/Area)转换而来。
+
+
 **Area**是成立於1972年的義大利[前衛搖滾](../Page/前衛搖滾.md "wikilink")與[融合音樂的團體](https://zh.wikipedia.org/wiki/融合音樂 "wikilink")。他們帶有的左派色彩與共產思想的歌詞最被人所熟悉。
 
 ## 歷史

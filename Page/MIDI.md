@@ -1,3 +1,6 @@
+> 本文内容由[MIDI](https://zh.wikipedia.org/wiki/MIDI)转换而来。
+
+
 [MIDI_LOGO.jpg](https://zh.wikipedia.org/wiki/File:MIDI_LOGO.jpg "fig:MIDI_LOGO.jpg")\]\] [NoteNamesFrequenciesAndMidiNumbers.svg](https://zh.wikipedia.org/wiki/File:NoteNamesFrequenciesAndMidiNumbers.svg "fig:NoteNamesFrequenciesAndMidiNumbers.svg") **音樂數位介面**（Musical Instrument Digital Interface，簡稱**MIDI**）是一個工業標準的電子[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")，為電子樂器等演奏裝置（如[合成器](../Page/合成器.md "wikilink")）定義各種音符或彈奏碼，容許[電子樂器](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")、[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[手機或其它的](https://zh.wikipedia.org/wiki/手機 "wikilink")[舞台演出配備彼此連接](https://zh.wikipedia.org/wiki/舞台 "wikilink")，調整和同步，得以即時交換演奏資料。
 
 MIDI不傳送聲音，只傳送像是音調和音樂強度的數據，音量，顫音和相位\[1\]等參數的控制訊號，還有設定節奏的時鐘信號。在不同的電腦上，輸出的聲音也因音源器不同而有差異。

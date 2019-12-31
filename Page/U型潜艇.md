@@ -1,3 +1,6 @@
+> 本文内容由[U型潜艇](https://zh.wikipedia.org/wiki/U型潜艇)转换而来。
+
+
 [U995_Laboe.JPG](https://zh.wikipedia.org/wiki/File:U995_Laboe.JPG "fig:U995_Laboe.JPG")
 
 **U型潜艇**是特指在[第一次世界大战](../Page/第一次世界大战.md "wikilink")和[第二次世界大战](../Page/第二次世界大战.md "wikilink")时，[德國使用的](../Page/德意志帝國.md "wikilink")[潜艇](https://zh.wikipedia.org/wiki/潜艇 "wikilink")。由于德国潜艇的编号都用[德文](../Page/德语.md "wikilink")“Untersee-boot”（意思为“潜艇”，按照英文直译写法为Undersea boat，简称U-boat）的首字母U加数字命名，如U-511。为了区别于[同盟国的潜艇](https://zh.wikipedia.org/wiki/同盟国 "wikilink")（英语为"submarine"），在英语裡使用"U-boat"来称呼德国潜艇。中文翻译为“U型潜艇”，亦可简称为“U艇”。

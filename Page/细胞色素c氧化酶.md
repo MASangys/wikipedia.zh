@@ -1,3 +1,6 @@
+> 本文内容由[细胞色素c氧化酶](https://zh.wikipedia.org/wiki/细胞色素c氧化酶)转换而来。
+
+
 [ETC_(zh-cn).svg](https://zh.wikipedia.org/wiki/File:ETC_\(zh-cn\).svg "fig:ETC_(zh-cn).svg")，显示为紫色的复合物IV可以将氧气还原为水分子。\]\] **细胞色素*c*氧化酶**（）是一种[氧化还原酶](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")，通用名为“细胞色素-*c*氧化酶”，系统名称为“亚铁细胞色素-*c*:氧气氧化还原酶”（）。它是一种存在于[细菌](../Page/细菌.md "wikilink")或[线粒体上的大型](https://zh.wikipedia.org/wiki/线粒体 "wikilink")[跨膜蛋白](../Page/跨膜蛋白.md "wikilink")[复合物](https://zh.wikipedia.org/wiki/蛋白质复合物 "wikilink")。由于细胞色素氧化酶是[呼吸作用](../Page/呼吸作用.md "wikilink")[电子传递链的第四个中心酶复合物](https://zh.wikipedia.org/wiki/电子传递链 "wikilink")，因此又被称为**复合物IV**（英文）。它可以接受来自四个[细胞色素c的四个电子](https://zh.wikipedia.org/wiki/细胞色素c "wikilink")，并传递到一个[氧气](../Page/氧气.md "wikilink")分子上，将氧气转化为两个水分子。在这一进程中，它结合来自基质内的四个[质子来制造水分子](https://zh.wikipedia.org/wiki/质子 "wikilink")，同时跨膜转运四个质子，从而有助于形成跨膜的质子[电化学势能差](https://zh.wikipedia.org/wiki/电化学势能 "wikilink")，而这一势能差可以被[三磷酸腺苷合酶用于制造生物体中最基本的能量分子](https://zh.wikipedia.org/wiki/三磷酸腺苷合酶 "wikilink")[ATP](../Page/三磷酸腺苷.md "wikilink")。
 
 ## 结构

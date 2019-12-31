@@ -1,3 +1,6 @@
+> 本文内容由[Intel GMA](https://zh.wikipedia.org/wiki/Intel GMA)转换而来。
+
+
 [Harumphy.dg965.heatsink.jpg](https://zh.wikipedia.org/wiki/File:Harumphy.dg965.heatsink.jpg "fig:Harumphy.dg965.heatsink.jpg") ****是於2004年至2008年所推出的[顯示核心產品線](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，用於在[晶片組內內建](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。
 
 這個「集成圖像」方案容許使用者在組裝電腦時無需購買額外的顯示卡，使整個平台的成本下降和功耗更低。GMA[顯示核心多數出現於低階或笔记本电腦](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。GMA[顯示核心使用會在運行時佔用電腦的部分的](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[主記憶體](https://zh.wikipedia.org/wiki/主記憶體 "wikilink")，令電腦的效能略為降低，這是由於[中央處理器以及](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[顯示核心需要同時經同一](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")[匯流排來存取主記憶體所致](https://zh.wikipedia.org/wiki/匯流排 "wikilink")。

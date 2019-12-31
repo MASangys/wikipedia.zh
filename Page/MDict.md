@@ -1,3 +1,6 @@
+> 本文内容由[MDict](https://zh.wikipedia.org/wiki/MDict)转换而来。
+
+
 **MDict**是一款用于[PC](../Page/PC.md "wikilink")及[移动设备](../Page/移动设备.md "wikilink")的[电子辞典软件](https://zh.wikipedia.org/wiki/电子辞典 "wikilink")，可以用于查看mdx[格式的词典文件](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。 MDict软件在PC及绝大部分[智能手机](../Page/智能手机.md "wikilink")有相应的客户端，支持微软WM6.5系统、安卓系统的版本最早放出，支持[魅族M8](../Page/魅族M8.md "wikilink")的测试版本已放出，支持[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPad的版本已在App](https://zh.wikipedia.org/wiki/iPad "wikilink") Store上線，支持[Bada](../Page/Bada.md "wikilink")版本已在[三星app](../Page/三星電子.md "wikilink") Store上線。
 
 MDict软件本身并不提供“词库”（mdx文件），但软件作者提供了词库制作工具(MDXBuilder)，词库格式采用压缩[算法](../Page/算法.md "wikilink")来缩小体积，同时支持读取多个词库文件。有民间爱好者自制的兼容软件也可读取此类词库，如[Android](../Page/Android.md "wikilink")平台上的 BlueDict 深藍，[EBPocket](https://zh.wikipedia.org/wiki/EBPocket "wikilink")，EBDic，[SeederDict](../Page/SeederDict.md "wikilink")，Qdict，欧路词典都提供了读取Mdict词库的功能。另有对此文件的[格式分析](http://bitbucket.org/xwang/mdict-analysis)，以及多种开源实现[GoldenDict](../Page/GoldenDict.md "wikilink")，[C\#](https://mdict.codeplex.com)，[mdict-js:JavaScript实现的MDict字典解析器](https://github.com/fengdh/mdict-js)。

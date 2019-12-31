@@ -1,3 +1,6 @@
+> 本文内容由[F.I.R.飛兒樂團](https://zh.wikipedia.org/wiki/F.I.R.飛兒樂團)转换而来。
+
+
 **F.I.R.** ，為華語樂壇少見一女二男三人組合樂團，由現任主唱Lydia（*[韓睿](https://zh.wikipedia.org/wiki/韓睿 "wikilink")*）、吉他手REAL [阿沁](https://zh.wikipedia.org/wiki/阿沁 "wikilink")（*黃漢青*）、鍵盤手IAN（*[陳建寧](../Page/陳建寧.md "wikilink")*）組成。Faye 飛（*[詹雯婷](../Page/詹雯婷.md "wikilink")*）（*已離團*）為樂團前主唱 。
 
 ## 樂團歷程

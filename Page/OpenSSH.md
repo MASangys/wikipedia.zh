@@ -1,3 +1,6 @@
+> 本文内容由[OpenSSH](https://zh.wikipedia.org/wiki/OpenSSH)转换而来。
+
+
 **OpenSSH**（****）是使用[SSH透過](https://zh.wikipedia.org/wiki/SSH "wikilink")[計算機網路加密通訊的實現](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")。它是取代由SSH Communications Security所提供的商用版本的[開放原始碼方案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。目前OpenSSH是OpenBSD的子計畫。
 
 OpenSSH常常被誤認以為與[OpenSSL](../Page/OpenSSL.md "wikilink")有關聯，但實際上這兩個計畫有不同的目的，不同的發展團隊，名稱相近只是因為兩者有同樣的軟體發展目標──提供開放原始碼的[加密通訊軟體](https://zh.wikipedia.org/wiki/加密通訊 "wikilink")。

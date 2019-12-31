@@ -1,3 +1,6 @@
+> 本文内容由[ARIMA模型](https://zh.wikipedia.org/wiki/ARIMA模型)转换而来。
+
+
 **ARIMA模型**（），差分整合移動平均自迴歸模型，又稱整合移动平均自回归模型（移動也可稱作滑動），[时间序列预测分析方法之一](https://zh.wikipedia.org/wiki/时间序列 "wikilink")。ARIMA（p，d，q）中，AR是"自回归"，p为自回归项数；MA为"滑动平均"，q为滑动平均项数，d为使之成为平稳序列所做的差分次数（阶数）。「差分」一詞雖未出現在ARIMA的英文名稱中，卻是關鍵步驟。
 
 ARIMA（p，d，q）模型是[ARMA](../Page/ARMA模型.md "wikilink")（p，q）模型的扩展。ARIMA（p，d，q）模型可以表示为：

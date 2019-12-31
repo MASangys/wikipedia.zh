@@ -1,3 +1,6 @@
+> 本文内容由[Progress Quest](https://zh.wikipedia.org/wiki/Progress Quest)转换而来。
+
+
 《**Progress Quest**》是一個為了[戲仿](https://zh.wikipedia.org/wiki/戲仿 "wikilink")「[無盡的任務](https://zh.wikipedia.org/wiki/無盡的任務 "wikilink")」（EverQuest）、及其他[大型多人線上角色扮演遊戲所製作的電腦遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。可不嚴謹地稱為[零人遊戲](https://zh.wikipedia.org/wiki/零人遊戲 "wikilink")， 也就是說玩家一設定好他的人造角色， 接著就完全沒有與使用者互動；遊戲自己本身「玩」了起來，而人類玩家則充當觀察者的角色。
 
 *Progress Quest* 戲仿電腦[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，尤其是 *無盡的任務(EverQuest)*，因為許多玩家認為如此的玩遊戲很無趣。*無盡的任務(EverQuest)* 因為它的"自動攻擊"戰鬥系統而惡名昭彰，使用者只要按下一個按鈕去開始戰鬥模式，自此之後除了看之外就很少事情要做了。*Progress Quest* 也嘲笑 傳統角色扮演遊戲的種族、職業、故事、任務、物品等等。

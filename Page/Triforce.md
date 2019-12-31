@@ -1,3 +1,6 @@
+> 本文内容由[Triforce](https://zh.wikipedia.org/wiki/Triforce)转换而来。
+
+
 **Triforce**，是由[世嘉](../Page/世嘉.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")及[Namco三家公司共同開發的](https://zh.wikipedia.org/wiki/Namco "wikilink")[街機底板](../Page/街机主板.md "wikilink")，名稱取自任天堂作品《[薩爾達傳說](../Page/薩爾達傳說系列.md "wikilink")》系列中的同名聖三角。系統硬件以[GameCube為基礎](https://zh.wikipedia.org/wiki/GameCube "wikilink")，但有許多不同的地方，比如增設世嘉的[GD-ROM](../Page/GD-ROM.md "wikilink")及可升級的[RAM模組等](../Page/随机存取存储器.md "wikilink")。Triforce最初被认为有GameCube两倍大小的1T-SRAM（48MB而不是24MB），但后来有人通过拆卸分析Triforce基板证明此说法有误。\[1\]
 
 Triforce基板能够被旧版[Dolphin模拟器模拟](../Page/Dolphin_\(模擬器\).md "wikilink")。\[2\]

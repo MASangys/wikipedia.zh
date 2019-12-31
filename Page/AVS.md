@@ -1,3 +1,6 @@
+> 本文内容由[AVS](https://zh.wikipedia.org/wiki/AVS)转换而来。
+
+
 **AVS**（），即**數位音影片編解碼技術標準**，為中國第二代[信源編碼標準](https://zh.wikipedia.org/wiki/信源編碼 "wikilink")。
 
 ## 缘起

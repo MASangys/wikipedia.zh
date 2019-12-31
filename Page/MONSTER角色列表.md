@@ -1,3 +1,6 @@
+> 本文内容由[MONSTER角色列表](https://zh.wikipedia.org/wiki/MONSTER角色列表)转换而来。
+
+
 這是有關[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫上的作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")「[MONSTER (漫畫)](https://zh.wikipedia.org/wiki/MONSTER_\(漫畫\) "wikilink")」的人物列表。
 
 ## 登場人物

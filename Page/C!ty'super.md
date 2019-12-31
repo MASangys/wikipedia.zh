@@ -1,3 +1,6 @@
+> 本文内容由[C!ty\'super](https://zh.wikipedia.org/wiki/C!ty\'super)转换而来。
+
+
 **c\!ty'super**（讀作「City Super」）是一家[港資百貨超市](../Page/香港.md "wikilink")，以高檔市場為主。city'super由前香港[西武百貨](../Page/西武百貨.md "wikilink")店長[石川正志成立](https://zh.wikipedia.org/wiki/石川正志 "wikilink")\[1\]，1996年12月首家專門店於[香港](../Page/香港.md "wikilink")[銅鑼灣](../Page/銅鑼灣.md "wikilink")[時代廣場開幕](https://zh.wikipedia.org/wiki/銅鑼灣時代廣場 "wikilink")。主要售賣外國進口食品、文具商品、化妝護理用品及家庭用品等。核心業務包括：（食品部）、（生活用品部）及 （環球美食廣場）。現時大股東是[三黃集團](https://zh.wikipedia.org/wiki/三黃集團 "wikilink")60.92%權益和[吳光正](../Page/吳光正.md "wikilink")全資擁有LCJG Limited擁有39.08%權益。
 
 ## 旗下商店

@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 802.22](https://zh.wikipedia.org/wiki/IEEE 802.22)转换而来。
+
+
 IEEE 802.22标准全称为：*Standard for Wireless Regional Area Networks (WRAN) - Specific requirements - Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Policies and procedures for operation in the TV Bands*\[1\]
 
 IEEE 802.22 标准规定了在一个固定的基站与一个或多个固定或移动的用户通信终端之间的空中接口。该空中接口包括基于[认知无线电技术的介质访问控制层](https://zh.wikipedia.org/wiki/认知无线电 "wikilink")(MAC layer)以及物理层(PHY layer)，使用54MHz至862MHz之间的[甚高频](https://zh.wikipedia.org/wiki/甚高頻 "wikilink")(VHF)/[特高频](https://zh.wikipedia.org/wiki/特高频 "wikilink")(UHF)电视广播频段进行通信。IEEE 802.22标准旨在解决用户密度较低但面积较大的郊区地带，低成本的无线宽带接入数据网络的问题。同时，保证不会对其所使用的频段上的其他通信设备，包括数字电视广播，模拟电视广播和低功率授权设备（如无线麦克风）等造成干扰。

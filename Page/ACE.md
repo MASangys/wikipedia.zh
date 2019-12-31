@@ -1,3 +1,6 @@
+> 本文内容由[ACE](https://zh.wikipedia.org/wiki/ACE)转换而来。
+
+
 **Ace**或**ACE**的意思可能是：
 
   - 網球比賽時發球時致胜直接得分，稱為[Ace球](../Page/Ace球.md "wikilink")。

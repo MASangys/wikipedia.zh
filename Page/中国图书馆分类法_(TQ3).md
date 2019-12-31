@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TQ3\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ3\))转换而来。
+
+
 ::\*TQ31 [高分子化合物工业](https://zh.wikipedia.org/wiki/高分子化合物工业 "wikilink")（[高聚物工业](https://zh.wikipedia.org/wiki/高聚物工业 "wikilink")）
 
 :::\*TQ311 基础理论

@@ -1,3 +1,6 @@
+> 本文内容由[F-Spot](https://zh.wikipedia.org/wiki/F-Spot)转换而来。
+
+
 **F-Spot**是一套設計為[GNOME](../Page/GNOME.md "wikilink")桌面環境上所使用的個人相片管理軟體。
 
 ## 軟體特色

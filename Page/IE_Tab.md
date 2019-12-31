@@ -1,3 +1,6 @@
+> 本文内容由[IE Tab](https://zh.wikipedia.org/wiki/IE Tab)转换而来。
+
+
 **IE Tab** 是[网页浏览器](../Page/网页浏览器.md "wikilink")[Mozilla Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google Chrome的一个](../Page/Google_Chrome.md "wikilink")[擴充套件](https://zh.wikipedia.org/wiki/Firefox擴充套件列表 "wikilink")，能实现在Firefox调用[Internet Explorer的](../Page/Internet_Explorer.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")浏览网页。
 
 它解决很多使用不规范语言、包含[ActiveX](../Page/ActiveX.md "wikilink")或者要求[IE Only的网页浏览问题](../Page/IE_Only.md "wikilink")。不過，隨著越來越多網頁設計師遵循[網頁標準](../Page/網頁標準.md "wikilink")，IE Tab已經不常使用。

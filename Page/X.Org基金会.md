@@ -1,3 +1,6 @@
+> 本文内容由[X.Org基金会](https://zh.wikipedia.org/wiki/X.Org基金会)转换而来。
+
+
 [X.Org_Logo.svg](https://zh.wikipedia.org/wiki/File:X.Org_Logo.svg "fig:X.Org_Logo.svg")
 
 **X.Org基金会**是负责[X Window System开发的社团](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，2004年1月22日在[Open Group的X](https://zh.wikipedia.org/wiki/Open_Group "wikilink").org网站基础上建立。

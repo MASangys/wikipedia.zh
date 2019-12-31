@@ -1,3 +1,6 @@
+> 本文内容由[Is"](https://zh.wikipedia.org/wiki/Is")转换而来。
+
+
 **I"s**（、讀音：Eyes）是[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）1997年19號至2000年24號期間進行連載，單行本全15卷。
 
 本作命名为I"s，原因一是四个主要人物的名字都以[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（羅馬拼音為「I」）开头（第五个人物麻生蓝子名字的第一个发音“”与「I」发音相同），以字母「s」表示[复数之意](https://zh.wikipedia.org/wiki/复数 "wikilink")；二是伊织在与一贵的第一次合作中，把他们的两人小团体命名为I"s。絕大部分都是透過第一人稱的方式從主角瀨戶一貴的觀點切入，有著大量描述一貴心聲的對白文字、妄想等等。瀨戶一貴並沒有特殊的專長，長相不出眾，體能學業也普普，對男女之情也有著常人的七情六慾，就如同[戀愛模擬遊戲常見的男主角的設定一般](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，這樣的設定方式使讀者在讀I"s的時候容易融入故事裡。

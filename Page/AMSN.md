@@ -1,3 +1,6 @@
+> 本文内容由[AMSN](https://zh.wikipedia.org/wiki/AMSN)转换而来。
+
+
 **aMSN**（alvaro's Messenger）是一款功能丰富的[MSN Messenger软件](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")，遵照[GNU GPL进行发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，除了[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，还可在其他多种平台下运行，比如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac OS X等](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 功能

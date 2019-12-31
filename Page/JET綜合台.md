@@ -1,3 +1,6 @@
+> 本文内容由[JET綜合台](https://zh.wikipedia.org/wiki/JET綜合台)转换而来。
+
+
 **JET綜合台**，是[年代電視的旗下頻道](https://zh.wikipedia.org/wiki/年代電視 "wikilink")，前身是於1996年成立於[新加坡](../Page/新加坡.md "wikilink")Asia Broadcast Center，過去為[台灣三個專門提供](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日本](../Page/日本.md "wikilink")[電視節目的電視](https://zh.wikipedia.org/wiki/電視節目 "wikilink")[頻道之一](https://zh.wikipedia.org/wiki/頻道 "wikilink")；2010年元旦起更名。
 
 由[日本](../Page/日本.md "wikilink")[住友商事](../Page/住友商事.md "wikilink")發起，加上[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")**衛星娛樂傳播股份有限公司**（Satellite Entertainment Communication Co., Ltd.；簡稱SEC），結合日本、台灣兩地股東注資。

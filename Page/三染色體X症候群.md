@@ -1,3 +1,6 @@
+> 本文内容由[三染色體X症候群](https://zh.wikipedia.org/wiki/三染色體X症候群)转换而来。
+
+
 **三染色體X症候群**是一種[人類](../Page/人類.md "wikilink")[女性](../Page/女性.md "wikilink")的[性染色體](https://zh.wikipedia.org/wiki/性染色體 "wikilink")[疾病](../Page/疾病.md "wikilink")；一般女性的性染色體是XX，而患者為XXX。患有該症候群的患者又因其基因行為XXX，被稱做**超雌性**。
 
 與[XYY三體患者不同的是](https://zh.wikipedia.org/wiki/XYY三體 "wikilink")，三染色體X症候群患者的外觀正常，能正常發育成熟，有正常的[生育能力](https://zh.wikipedia.org/wiki/生育 "wikilink")；但據[統計](https://zh.wikipedia.org/wiki/統計 "wikilink")，患者精神失常、智能發育遲緩，或二者併發等情況比一般女性高。若沒有經過診斷，有些患者往往不知道自己有三染色體X症候群。

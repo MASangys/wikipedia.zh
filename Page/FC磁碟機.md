@@ -1,3 +1,6 @@
+> 本文内容由[FC磁碟機](https://zh.wikipedia.org/wiki/FC磁碟機)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[電子遊戲商](../Page/電子遊戲發行商.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")於於1986年2月推出的[家用遊戲機硬體](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")，為任天堂於1983年發售的[8位元](../Page/8位元.md "wikilink")家用遊戲機[FC遊戲機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")（俗稱[紅白機](https://zh.wikipedia.org/wiki/紅白機 "wikilink")）的外接配件之一\[1\]。
 
 FC磁碟機以[軟碟為儲存媒介](https://zh.wikipedia.org/wiki/軟碟 "wikilink")\[2\]\[3\]。軟碟的儲存空間較當時大多數家用遊戲機所使用的[卡帶大上許多](https://zh.wikipedia.org/wiki/ROM卡帶 "wikilink")，使FC磁碟機遊戲之畫面表現及音效多較同期之紅白機遊戲豐富\[4\]\[5\]。

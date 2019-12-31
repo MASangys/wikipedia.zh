@@ -1,3 +1,6 @@
+> 本文内容由[AT\&T公司](https://zh.wikipedia.org/wiki/AT\&T公司)转换而来。
+
+
 **美國電話與電報公司**（， American Telephone & Telegraph 的縮寫）是一家為企業客戶及政府機構提供語音、影像、數據傳輸和網路服務的美國[電信公司](https://zh.wikipedia.org/wiki/電訊 "wikilink")。美國電話與電報公司曾長時間壟斷全球電信與有線電視服務。現今的美國電話與電報公司是 [AT\&T](../Page/AT&T.md "wikilink") 公司旗下的子公司，並在之下提供國際長途電話服務。
 
 在2005年美國電話與電報公司被之一的SBC電信以 160 億美元收購（現值約178億美元），並繼以 **AT\&T** 為名。

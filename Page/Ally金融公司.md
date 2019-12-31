@@ -1,3 +1,6 @@
+> 本文内容由[Ally金融公司](https://zh.wikipedia.org/wiki/Ally金融公司)转换而来。
+
+
 **Ally金融公司**（Ally Financial Inc.），前身為**通用汽车金融服务公司**（General Motors Acceptance Corporation，簡寫GMAC），當時為[通用汽車的財務部門](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")。目前總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[密西根州](https://zh.wikipedia.org/wiki/密西根州 "wikilink")[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")，在世界上擁有超過1500萬客戶，業務內容包含[汽車貸款](https://zh.wikipedia.org/wiki/汽車貸款 "wikilink")、[保險](../Page/保險.md "wikilink")、[房屋貸款及](https://zh.wikipedia.org/wiki/房屋貸款 "wikilink")[線上](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[直接銀行](https://zh.wikipedia.org/wiki/直接銀行 "wikilink")。
 
 於2008年，通用汽車合作的6450間汽車經銷商中，有75%是由該公司提供融資服務。後來[2007年－2008年環球金融危機發生時](https://zh.wikipedia.org/wiki/2007年－2008年環球金融危機 "wikilink")，通用汽車金融服務公司出現財務危機，轉而尋求[美國聯邦政府](../Page/美國聯邦政府.md "wikilink")的援助。在獲得援助後，所有權從通用汽車轉移到美國政府，並順應要求轉型為[金融控股公司](https://zh.wikipedia.org/wiki/金融控股公司 "wikilink")，並於2010年5月10日改名為Ally金融公司。2010年該公司開始出現盈餘，該會計年度報告中淨利為10.75億美元\[1\]。2011年起，Ally金融公司開始規劃重新上市事宜，但直到2014年4月該公司普通股才重新上市。

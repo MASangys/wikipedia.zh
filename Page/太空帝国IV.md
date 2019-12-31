@@ -1,3 +1,6 @@
+> 本文内容由[太空帝国IV](https://zh.wikipedia.org/wiki/太空帝国IV)转换而来。
+
+
 **太空帝国4** (**Space Empire IV**)是一个[個人電腦平台上的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制遊戲 "wikilink")[太空战略](https://zh.wikipedia.org/wiki/太空 "wikilink")[游戏](../Page/游戏.md "wikilink")，由Malfador Machinations于2000年11月推出。
 
 Malfador Machinations开发的太空帝国系列游戏是相当强调[4X概念体系的](https://zh.wikipedia.org/wiki/4X概念体系 "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略 "wikilink")（Explore/Expand/Exploit/Exterminate，探索/扩张/开发/战争），参与者们控制一个宇宙中的帝国势力，治理国土开发科技，组建舰队并与其他势力在宇宙中展开一系列角逐。这一系列游戏普遍拥有庞大而精妙的系统，并在10多年的发展中不断进化扩充，4代为其中最近的一部作品，其继承了之前数代的各种要素并进行了更进一步的发展拓展，可谓集大成之作。

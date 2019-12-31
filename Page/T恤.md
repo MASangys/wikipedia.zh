@@ -1,3 +1,6 @@
+> 本文内容由[T恤](https://zh.wikipedia.org/wiki/T恤)转换而来。
+
+
 [T_Shirt.jpg](https://zh.wikipedia.org/wiki/File:T_Shirt.jpg "fig:T_Shirt.jpg")的角色\]\] [Wikipedia-T-shirt.jpg](https://zh.wikipedia.org/wiki/File:Wikipedia-T-shirt.jpg "fig:Wikipedia-T-shirt.jpg") [Carl_H._Johnson.tif](https://zh.wikipedia.org/wiki/File:Carl_H._Johnson.tif "fig:Carl_H._Johnson.tif")
 
 **T恤**或稱**-{T卹}-**、**T字衫**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**T-shirt**或**Tee**）是[衣衫的一種](https://zh.wikipedia.org/wiki/衣服 "wikilink")，通常是短袖而圓領的，故亦可稱**短袖圓領衫**。長及腰間，一般沒有[鈕扣](../Page/鈕扣.md "wikilink")、[領子或](https://zh.wikipedia.org/wiki/領子 "wikilink")[袋](../Page/袋.md "wikilink")。攤開時呈T形，因而得名。穿着時把頭部穿過領子即成。T恤一般以[棉或是](https://zh.wikipedia.org/wiki/棉 "wikilink")[人造纖維](../Page/人造纖維.md "wikilink")大規模製造，以[平針編織出柔軟的質地](https://zh.wikipedia.org/wiki/平針 "wikilink")。

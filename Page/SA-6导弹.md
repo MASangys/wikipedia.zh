@@ -1,3 +1,6 @@
+> 本文内容由[SA-6导弹](https://zh.wikipedia.org/wiki/SA-6导弹)转换而来。
+
+
 [KUB_NTW_9_93.jpg](https://zh.wikipedia.org/wiki/File:KUB_NTW_9_93.jpg "fig:KUB_NTW_9_93.jpg") **SA-6**机动式中低空中程野战地对空导弹系统，苏联代号**2K12 立方体**，或音译‘卡勃’；或译作‘库班河’（Kub, Russian "Куб"）。1959年开始由苏联[托罗波夫OKB-134特种工程设计局研制](https://zh.wikipedia.org/wiki/托罗波夫“信号旗”国家机械制造设计局 "wikilink")，是[伊凡·伊凡诺维奇·托罗波夫一生的最后作品](https://zh.wikipedia.org/wiki/伊凡·伊凡诺维奇·托罗波夫 "wikilink")。莫斯科**信号旗**机械制造设计局（俄罗斯最大的空对空导弹设计局）与吉哈米洛夫仪器设计科学研究院（Tikhomirov Scientific Reseach Institute of Instrument Design，英文简称为**NIIP**，俄罗斯最大的机载雷达设计单位）负责制造。西方称2K12为SA-6(美国防部代号) "**Gainful根弗**"（北约代号）（或译作‘利益’‘有利’Gainful）。1967年定型。1983－1985年停产。
 
 ## 基本性能

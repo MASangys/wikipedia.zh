@@ -1,3 +1,6 @@
+> 本文内容由[Colpitts振盪器](https://zh.wikipedia.org/wiki/Colpitts振盪器)转换而来。
+
+
 **考畢兹振盪器**（），又稱**考畢子振盪器**，**电容三点式振荡器**，**电容反馈式振荡器**\[1\],是由美國電機工程師於1918年發明的一种LC[振盪器](https://zh.wikipedia.org/wiki/振盪器 "wikilink")（利用[電容](../Page/電容.md "wikilink")和[電感结合決定振盪頻率的](https://zh.wikipedia.org/wiki/電感 "wikilink")[电子振荡器](../Page/电子振荡器.md "wikilink")）设计。\[2\] Colpitts振荡器的特点是有源器件的[反馈](../Page/反馈.md "wikilink")来自一个与电感串联的，由两个电容构成的[分压器](../Page/電壓分配定則.md "wikilink")。\[3\]\[4\]\[5\]\[6\]
 
 ## 概述

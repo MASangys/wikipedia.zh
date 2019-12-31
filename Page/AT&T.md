@@ -1,3 +1,6 @@
+> 本文内容由[AT\&T](https://zh.wikipedia.org/wiki/AT\&T)转换而来。
+
+
 [AT\&THQDallas.jpg](https://zh.wikipedia.org/wiki/File:AT&THQDallas.jpg "fig:AT&THQDallas.jpg")
 
 **AT\&T公司**是[美國最大的](https://zh.wikipedia.org/wiki/美國 "wikilink")[固網電話服務供應商及第一大的](https://zh.wikipedia.org/wiki/固網電話 "wikilink")[流動電話服務供應商](https://zh.wikipedia.org/wiki/流動電話 "wikilink")，此外還提供[寬頻](../Page/寬頻.md "wikilink")及[收費電視服務](https://zh.wikipedia.org/wiki/收費電視 "wikilink")。合共1.5億戶提供服務，當中8,510萬戶為無線用戶。\[1\]

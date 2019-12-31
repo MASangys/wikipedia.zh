@@ -1,3 +1,6 @@
+> 本文内容由[Direct3D](https://zh.wikipedia.org/wiki/Direct3D)转换而来。
+
+
 **Direct3D**（簡稱：**D3D**）是[微軟公司在](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統上所開發的一套](https://zh.wikipedia.org/wiki/作業系統 "wikilink")3D繪圖[編程介面](https://zh.wikipedia.org/wiki/編程介面 "wikilink")，是[DirectX](../Page/DirectX.md "wikilink")的一部份，目前廣為各家[顯示卡所支援](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。與[OpenGL](../Page/OpenGL.md "wikilink")同為電腦繪圖軟體和電腦[遊戲最常使用的兩套繪圖編程介面之一](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。
 
 1995年2月，微软收购了英国的Rendermorphics公司，將RealityLab 2.0技术發展成Direct3D标准，並整合到[Microsoft Windows中](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，Direct3D在DirectX 3.0開始出現。後來在[DirectX](../Page/DirectX.md "wikilink") 8.0發表時與[DirectDraw編程介面合併並改名為](https://zh.wikipedia.org/wiki/DirectDraw "wikilink")[DirectX Graphics](../Page/DirectX_Graphics.md "wikilink")。

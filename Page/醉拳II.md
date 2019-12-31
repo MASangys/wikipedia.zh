@@ -1,3 +1,6 @@
+> 本文内容由[醉拳II](https://zh.wikipedia.org/wiki/醉拳II)转换而来。
+
+
 也作《醉拳2》，是1994年首映的一部[香港](../Page/香港.md "wikilink")[功夫片](https://zh.wikipedia.org/wiki/功夫片 "wikilink")，是電影《[醉拳](../Page/醉拳_\(電影\).md "wikilink")》的續集。由[劉家良執導](https://zh.wikipedia.org/wiki/劉家良 "wikilink")，[成龍](../Page/成龍.md "wikilink")主演，[黃日華](../Page/黃日華.md "wikilink")、[狄龍](https://zh.wikipedia.org/wiki/狄龍 "wikilink")、[梅艷芳](../Page/梅艷芳.md "wikilink")、[劉家良](https://zh.wikipedia.org/wiki/劉家良 "wikilink")、[劉德華](../Page/劉德華.md "wikilink")等人共同出演。梅艷芳的角色為電影增添了許多喜劇元素，演出備受讚賞，是電影的一大亮點。片尾的決鬥場面超過十分鐘，成龍與[成家班](../Page/成家班.md "wikilink")成員之一的[盧惠光](../Page/盧惠光.md "wikilink")有一段對手戲。該片於2015年被[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》周刊評為「百大不朽電影」之一\[1\]。
 
 ## 劇情

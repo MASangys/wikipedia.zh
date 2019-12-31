@@ -1,3 +1,6 @@
+> 本文内容由[Windows Mobile](https://zh.wikipedia.org/wiki/Windows Mobile)转换而来。
+
+
 **Windows Mobile**是[微軟針對移動産品而開發的精簡](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。2009年2月，微軟發佈了Windows Mobile 6.5系統。Windows Mobile捆綁了一系列針對移動設備而開發的應用軟件，這些應用軟件建立在Microsoft [Win32](../Page/Windows_API.md "wikilink") [API的基礎上](https://zh.wikipedia.org/wiki/API "wikilink")。可以運行Windows Mobile的設備包括[Pocket PC](../Page/Pocket_PC.md "wikilink")、[Smartphone和](https://zh.wikipedia.org/wiki/SmartPhone "wikilink")[Portable Media Center](https://zh.wikipedia.org/wiki/Portable_Media_Center "wikilink")。該作業系統的設計初衷是盡量接近于[桌面版本的](https://zh.wikipedia.org/wiki/桌面 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。繼任者[Windows Phone作業系統出現後](../Page/Windows_Phone.md "wikilink")，Windows Mobile系列正式退出[手機系統市場](https://zh.wikipedia.org/wiki/手機 "wikilink")。2010年10月，微軟宣布終止對Windows Mobile的所有技術支持。
 
 ## Windows Mobile的常见功能

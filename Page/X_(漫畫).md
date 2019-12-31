@@ -1,3 +1,6 @@
+> 本文内容由[X \(漫畫\)](https://zh.wikipedia.org/wiki/X \(漫畫\))转换而来。
+
+
 《**X**》（）是[CLAMP](../Page/CLAMP.md "wikilink")的漫畫作品。自從1992年開始在「[月刊Asuka](../Page/月刊Asuka.md "wikilink")」（[角川書店](../Page/角川書店.md "wikilink")）連載。現在無限期停載。
 
 ## 概要

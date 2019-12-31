@@ -1,3 +1,6 @@
+> 本文内容由[卡格迪洛達JC](https://zh.wikipedia.org/wiki/卡格迪洛達JC)转换而来。
+
+
 **卡格迪洛達JC**（**Roda JC Kerkrade**），一般稱為**洛達**，是一間[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[足球會](https://zh.wikipedia.org/wiki/足球會 "wikilink")，位於[克克拉德](../Page/科尔克拉德.md "wikilink")，位於荷蘭南部，鄰近[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")。球會現在於[荷蘭甲組足球聯賽角逐](https://zh.wikipedia.org/wiki/荷蘭甲組足球聯賽 "wikilink")。
 
 ## 歷史

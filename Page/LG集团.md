@@ -1,3 +1,6 @@
+> 本文内容由[LG集团](https://zh.wikipedia.org/wiki/LG集团)转换而来。
+
+
 **LG集团**（；），旧名**樂喜金星**（；，简称**樂金**、**LG**），是一家总部位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的跨国企业集团](https://zh.wikipedia.org/wiki/首尔 "wikilink")，主要经营范围包括[电子与](../Page/电子技术.md "wikilink")[通信技术](https://zh.wikipedia.org/wiki/通信技术 "wikilink")、[家电和](https://zh.wikipedia.org/wiki/家电 "wikilink")[化学三大领域](https://zh.wikipedia.org/wiki/化学 "wikilink")，旗下拥有81家集团企业，130家海外当地法人，员工213000人。
 
 LG集团成立于1947年1月5日，最初的名称是“乐喜化学工业社”（现）。1958年10月1日，LG成立“金星社”（现[LG电子](https://zh.wikipedia.org/wiki/LG电子 "wikilink")），之后被称为“乐喜集团”。1982年1月1日，“乐喜集团”改名为“乐喜金星集团”，以涵括其不断成长扩大的电子电器部门。1995年1月，LG集团正式采用目前“LG”这个名称。LG这两个字母是“乐喜金星集团”英文名称“Lucky Goldstar Group”中“Lucky”和“Goldstar”的首字母。

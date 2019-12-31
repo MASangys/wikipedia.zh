@@ -1,3 +1,6 @@
+> 本文内容由[SUNIST](https://zh.wikipedia.org/wiki/SUNIST)转换而来。
+
+
 **SUNIST**，全称Sino-UNIted Spherical Tokamak，也即“中国联合球形[托卡马克](../Page/托卡马克.md "wikilink")”，是一个由[北京清华大学工程物理系与](https://zh.wikipedia.org/wiki/清华大学_\(北京\) "wikilink")[中国科学院物理研究所联合建造的球形](https://zh.wikipedia.org/wiki/中国科学院物理研究所 "wikilink")[托卡马克](../Page/托卡马克.md "wikilink")，坐落于[北京的清华大学工程物理系](https://zh.wikipedia.org/wiki/北京 "wikilink")，于2002年建成并投入实验。
 
 SUNIST主要用于研究低环径比托卡马克[等离子体](../Page/等离子体.md "wikilink")的物理特性。从2002年11月产生第一炮[等离子体](../Page/等离子体.md "wikilink")起，SUNIST先后进行了欧姆放电、[等离子体边界湍流](https://zh.wikipedia.org/wiki/等离子 "wikilink")、垂直场改造、[微波驱动非感应电流启动](https://zh.wikipedia.org/wiki/微波 "wikilink")、电极辅助电流启动、[欧姆加热反向放电](https://zh.wikipedia.org/wiki/欧姆 "wikilink")，等等诸多研究。在有限的预算下，取得了较为不错的实验结果。

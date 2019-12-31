@@ -1,3 +1,6 @@
+> 本文内容由[DRC-MF](https://zh.wikipedia.org/wiki/DRC-MF)转换而来。
+
+
 **DRC-MF**（**Digital Reality Creation-Multi Function**），**多媒體數位真實解像技術**，是[新力在](https://zh.wikipedia.org/wiki/新力 "wikilink")-{zh-hans:標清; zh-hant:標準畫質;}-时代为了使普通电视发挥出-{zh-hans:高清; zh-hant:高畫質;}-訊号水准而研发的一種影像強化技術，可藉由在影像中加入更多的像素與掃瞄線來有效提升影片的影像解析度。DRC與傳統影像處理系統不同，DRC可以即時處理影像訊號，以產生更柔和無雜訊的影像。該技術於1997年5月正式發表[1](http://www.sony.co.jp/SonyInfo/News/Press_Archive/199705/97T-042/)，新力公司於在2008年8月宣布推出全新搭載「DRC-MF v3」的「BRAVIA ENGINE 2 Pro」
 
 ## DRC-MF 技術沿革

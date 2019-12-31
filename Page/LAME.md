@@ -1,3 +1,6 @@
+> 本文内容由[LAME](https://zh.wikipedia.org/wiki/LAME)转换而来。
+
+
 **LAME**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[MP3](../Page/MP3.md "wikilink")音频压缩软件。LAME是一个[递归缩写](../Page/递归缩写.md "wikilink")，来自**L**AME **A**in't an **M**P3 **E**ncoder（LAME不是MP3编码器）。它自1998年以来由一个开源社区开发，。
 
 ## 特性

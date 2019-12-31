@@ -1,3 +1,6 @@
+> 本文内容由[PDC](https://zh.wikipedia.org/wiki/PDC)转换而来。
+
+
 **PDC** (**Personal Digital Cellular**) 是一種由[日本](../Page/日本.md "wikilink")開發及使用的[2G](../Page/2G.md "wikilink")[流動電話通訊標準](https://zh.wikipedia.org/wiki/流動電話 "wikilink")。
 
 與[D-AMPS及](https://zh.wikipedia.org/wiki/D-AMPS "wikilink")[GSM](../Page/GSM.md "wikilink")相似，PDC採用[TDMA技術](https://zh.wikipedia.org/wiki/TDMA "wikilink")。標準由RCR（其後變成[ARIB](https://zh.wikipedia.org/wiki/ARIB "wikilink")）在1991年4月制定。而[NTT DoCoMo在](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")1993年3月推出其數碼[MOVA服務](https://zh.wikipedia.org/wiki/MOVA "wikilink")。PDC採用25 kHz載波、3個時間格、pi/4-[DQPSK](https://zh.wikipedia.org/wiki/DQPSK "wikilink") 編碼及低速率11.2 kbit/s 及 5.6 kbit/s（半速率）話音[编解码器](../Page/编解码器.md "wikilink")。

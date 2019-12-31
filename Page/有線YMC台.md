@@ -1,3 +1,6 @@
+> 本文内容由[有線YMC台](https://zh.wikipedia.org/wiki/有線YMC台)转换而来。
+
+
 **有線**\[1\]（其中的[英文全稱為](https://zh.wikipedia.org/wiki/英文 "wikilink")，將英文全稱直譯[中文名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")「青年音樂台」）是[香港有線電視](../Page/香港有線電視.md "wikilink")於1993年10月31日啟播時的其中一條頻道，也是當時唯一由[香港](../Page/香港.md "wikilink")[電視台經營的音樂頻道](https://zh.wikipedia.org/wiki/電視台 "wikilink")，於有線電視第5頻道播放。台長是[黃志淙](https://zh.wikipedia.org/wiki/黃志淙 "wikilink")，主要介紹歐美流行音樂。
 
 該頻道專門播映[香港](../Page/香港.md "wikilink")、[台灣和外國](https://zh.wikipedia.org/wiki/台灣 "wikilink")（包括日本、歐美）等等的歌曲[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，亦有直播遊戲和點唱節目。和現時[無線收費電視](https://zh.wikipedia.org/wiki/無線收費電視 "wikilink")[音樂台的純音樂節目形式不同](https://zh.wikipedia.org/wiki/無線收費電視音樂台 "wikilink")，YMC也有介紹時下年青人的潮流文化、打扮方式及小玩意。

@@ -1,3 +1,6 @@
+> 本文内容由[PunBB](https://zh.wikipedia.org/wiki/PunBB)转换而来。
+
+
 **PunBB**是个快速、轻量的[PHP](../Page/PHP.md "wikilink")架构[网络论坛](../Page/网络论坛.md "wikilink")，以[GNU](../Page/GNU.md "wikilink")的标准释放。它的首要原则为快速、轻巧、与其它论坛相比更少量的图像。PunBB比起其它论坛功能较少，但也因此更快速、更小巧，并正确的支持[XHTML](../Page/XHTML.md "wikilink")与[CSS架构页面](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 此外，PunBB可在任何支持[PHP](../Page/PHP.md "wikilink")语言的[作业系统上运作](https://zh.wikipedia.org/wiki/作业系统 "wikilink")，PunBB可以在[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")等数据库下储存信息。

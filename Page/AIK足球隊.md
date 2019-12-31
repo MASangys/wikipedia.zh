@@ -1,3 +1,6 @@
+> 本文内容由[AIK足球隊](https://zh.wikipedia.org/wiki/AIK足球隊)转换而来。
+
+
 **足球隊**（****，全名為**大眾體育會足球隊**，*Allmänna Idrottsklubben Fotboll*），一般稱為**AIK蘇納**，是一間位於[瑞典](../Page/瑞典.md "wikilink")[斯德哥爾摩北部](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")[索尔纳市](../Page/索尔纳市.md "wikilink")的足球俱乐部，是[AIK體育會](../Page/AIK體育會.md "wikilink")的一部分。球會全名的意思大概能翻譯成「大眾的俱樂部」，基本意念是指俱樂部應該不只是開於給所有人，但也是給大家訓練的地方，例如運動員，球會現属于瑞典顶级联赛[瑞典足球超級聯賽球队](https://zh.wikipedia.org/wiki/瑞典足球超級聯賽 "wikilink")。
 
 ## 球队历史

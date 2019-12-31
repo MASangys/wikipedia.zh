@@ -1,3 +1,6 @@
+> 本文内容由[洸太Lacey](https://zh.wikipedia.org/wiki/洸太Lacey)转换而来。
+
+
 洸太Lacey(**コウタ･レイシー**,洸太萊西［本名 **洸太・トーマス・レイシー(Kohta Thomas Lacey)**］, )是出身於[澳大利亞的](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[童星](../Page/童星.md "wikilink")[talent](https://zh.wikipedia.org/wiki/talent "wikilink")。屬於ジュネス企画的一員。
 
 身高約173公分。收藏了五本[哈利波特的書](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")(除了混血王子的背叛這本之外)。特技是英語、閱讀、繪畫、游泳、桌球、中音薩克斯風、模仿哈利波特等等。將來的夢想似乎是成為科學家，開發[時光機獲得](https://zh.wikipedia.org/wiki/時光機 "wikilink")[諾貝爾獎](https://zh.wikipedia.org/wiki/諾貝爾 "wikilink")。是家中三兄弟裡的二哥。哥哥[達也Lacey與弟弟](https://zh.wikipedia.org/wiki/達也Lacey "wikilink")[千秋Lacey也是童星talent與](https://zh.wikipedia.org/wiki/千秋Lacey "wikilink")[模特兒](../Page/模特兒.md "wikilink")。在2006年度6月開始，與達也、千秋一起開設了[網誌](../Page/網誌.md "wikilink")。

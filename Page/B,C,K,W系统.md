@@ -1,3 +1,6 @@
+> 本文内容由[B,C,K,W系统](https://zh.wikipedia.org/wiki/B,C,K,W系统)转换而来。
+
+
 1930年[哈斯凱爾·加里在他的博士论文](https://zh.wikipedia.org/wiki/哈斯凱爾·加里 "wikilink")《Grundlagen der kombinatorischen Logik》中提议了一个[組合子邏輯系統](https://zh.wikipedia.org/wiki/組合子邏輯 "wikilink")。它带有基本组合子**B**、**C**、**K**和**W**（采用了现在的命名）。
 
 ## 定義

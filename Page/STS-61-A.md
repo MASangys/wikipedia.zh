@@ -1,3 +1,6 @@
+> 本文内容由[STS-61-A](https://zh.wikipedia.org/wiki/STS-61-A)转换而来。
+
+
 ****是历史上第二十二次航天飞机任务，也是[-{zh-hans:挑战者号航天飞机; zh-hant:挑戰者號太空梭;}-的第九次太空飞行](../Page/挑戰者號太空梭.md "wikilink")。
 
 ## 任务成员

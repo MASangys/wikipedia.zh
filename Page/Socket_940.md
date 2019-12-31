@@ -1,3 +1,6 @@
+> 本文内容由[Socket 940](https://zh.wikipedia.org/wiki/Socket 940)转换而来。
+
+
 **Socket 940**為[AMD推出專為伺服器而設的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")。它擁有940個接腳，基本上針腳已佈滿整個插座，但有四點〔共八隻腳〕沒接觸做為[防呆](../Page/防呆.md "wikilink")以避免誤插。
 
 ## 簡介

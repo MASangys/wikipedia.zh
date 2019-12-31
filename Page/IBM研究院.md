@@ -1,3 +1,6 @@
+> 本文内容由[IBM研究院](https://zh.wikipedia.org/wiki/IBM研究院)转换而来。
+
+
 **IBM研究院**是[IBM](../Page/IBM.md "wikilink")公司的一個（研究）部門，是一個研究與先進發展的組織，該部門目前分佈在全球八個地方，並正進行著數百個研究專案，這個部門最早可追溯到1945年成立於[哥倫比亞大學的華生科學運算實驗室](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")（Watson Scientific Computing Laboratory）。\[1\]
 
 IBM研究院的主要研究活動包括創新材料與結構的發明、高效能微處理器及電腦、分析方法與工具、演算法、軟體架構、管理方法、從資料進行搜尋並探知意向。

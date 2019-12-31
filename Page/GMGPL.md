@@ -1,3 +1,6 @@
+> 本文内容由[GMGPL](https://zh.wikipedia.org/wiki/GMGPL)转换而来。
+
+
 [Heckert_GNU_white.svg](https://zh.wikipedia.org/wiki/File:Heckert_GNU_white.svg "fig:Heckert_GNU_white.svg")標誌\]\]
 
 **GNAT Modified General Public License**（簡稱：**Modified GPL**、**GMGPL**、**MGPL**）是一種軟體授權方式，它是原有[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（簡稱：[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")）授權方式的一種特別修訂版，是針對[Ada](../Page/Ada.md "wikilink")程式語言的類屬特性而修訂，其修訂的內容主要如下：

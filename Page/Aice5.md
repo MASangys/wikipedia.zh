@@ -1,3 +1,6 @@
+> 本文内容由[Aice5](https://zh.wikipedia.org/wiki/Aice5)转换而来。
+
+
 **Aice<sup>5</sup>**是[日本](../Page/日本.md "wikilink")的一個[聲優](../Page/聲優.md "wikilink")組合，由[堀江由衣](../Page/堀江由衣.md "wikilink")所發起，隶属于[Starchild](https://zh.wikipedia.org/wiki/Starchild "wikilink")（[Kingrecords旗下公司](https://zh.wikipedia.org/wiki/Kingrecords "wikilink")）。團體於2005年尾出道，在2007年9月20日舉行最後一場演唱會並解散。
 
 於2015年7月17日宣佈再次展開活動，並參演[淺野真澄原作的動畫](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")《[那就是聲優！](../Page/那就是聲優！.md "wikilink")》。

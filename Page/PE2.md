@@ -1,3 +1,6 @@
+> 本文内容由[PE2](https://zh.wikipedia.org/wiki/PE2)转换而来。
+
+
 **PE2**（IBM Personal Editor II）為1980年[IBM](../Page/IBM.md "wikilink")出產，於[PC-DOS](../Page/PC-DOS.md "wikilink")或[MS-DOS](../Page/MS-DOS.md "wikilink")[電腦系統適用的個人文書編輯](https://zh.wikipedia.org/wiki/電腦系統 "wikilink")[商業軟體](https://zh.wikipedia.org/wiki/商業軟體 "wikilink")。它的特點是由幕後操作，全螢幕編輯，可同時開啟四個[視窗](../Page/視窗.md "wikilink")與20個文字檔，並在視窗與文字檔間進行切換做文字編輯。
 
 雖該軟體文字輸入上有許多限制與不友善，使用鍵盤操控游標（無法使用[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")）且編輯指令繁多。不過因操作簡易、容易入門且可自定功能鍵，因此於1980年代的DOS環境下，頗受歡迎。事實上，該「個人編輯器」的文書輸入軟體有許多版本，如PE，PE2或目標成為程式設計環境增加內建指令的PE3等等，不過以PE2版本最為著名。

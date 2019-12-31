@@ -1,3 +1,6 @@
+> 本文内容由[攻壳机动队 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻壳机动队 S.A.C. 2nd GIG)转换而来。
+
+
 《**攻壳机动队 S.A.C. 2nd GIG**》（）是根據[士郎正宗](../Page/士郎正宗.md "wikilink")原作漫畫改編的電視動畫（第二季）。2004年1月1日於日本SKY電視播映。每集制作费高达3000万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。故事内容延續第一季《[攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》的劇情發展。但TV版的2部作品與剧场版没有什么联系，可以看做是兩个平行世界裡发生的事情。
 
 这次電視動畫版第2季的制作班底与第一季相同，同时剧情表达上和第一季一样，每话由不同故事构成，各自独立成章，却贯穿着同一条主线。在剧情上同时电影版导演[押井守](../Page/押井守.md "wikilink")也参与了协力，不过电影版中凄凉的气氛没有在TV版第二季中体现。而最近有消息称「企劃階段《攻殻機動隊 S.A.C.》新系列，動畫製作：[Production I.G](../Page/Production_I.G.md "wikilink")」，也许预示着S.A.C时代的续章又将继续在电视舞台上登场。获选为2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化厅媒体艺术祭动画部门推荐的作品](https://zh.wikipedia.org/wiki/文化厅媒体艺术祭 "wikilink")。

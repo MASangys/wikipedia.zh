@@ -1,3 +1,6 @@
+> 本文内容由[ALGOL](https://zh.wikipedia.org/wiki/ALGOL)转换而来。
+
+
 **ALGOL**，名稱源自**演算法語言**（）的[縮寫](../Page/縮寫.md "wikilink")\[1\]，是一族[指令式編程](../Page/指令式編程.md "wikilink")語言，發展於1950年代中期，對許多其它程式語言產生了重大影響。[计算机协会](../Page/计算机协会.md "wikilink")在教科書及學術文章採用此語言做為描述[演算法的標準語法超過三十年](https://zh.wikipedia.org/wiki/演算法 "wikilink")。\[2\]
 
 由大多數近代程式語言皆使用類似ALGOL的語法來看\[3\]，ALGOL可與差不多同時期的[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")、[LISP](../Page/LISP.md "wikilink")及[COBOL](../Page/COBOL.md "wikilink")並列為四大最有影響力的高階語言\[4\]。ALGOL被設計用來避免FORTRAN中一些已知的問題，最終引領了許多其它程式語言的興起，包括[PL/I](https://zh.wikipedia.org/wiki/PL/I "wikilink")、[Simula](../Page/Simula.md "wikilink")、[BCPL](../Page/BCPL.md "wikilink")、[B](../Page/B語言.md "wikilink")、[Pascal及](../Page/Pascal_\(程式語言\).md "wikilink")[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")。

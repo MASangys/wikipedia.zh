@@ -1,3 +1,6 @@
+> 本文内容由[Power Mac G4 Cube](https://zh.wikipedia.org/wiki/Power Mac G4 Cube)转换而来。
+
+
 **Power Mac G4 Cube**（也稱為：**Power Macintosh G4 Cube**）是[蘋果電腦公司所推出的一部](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")[麦金托什](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")，這部個人電腦標榜寧靜（因該機完全不用電動風扇）、外觀與構型紮實緊緻，該機款發表於2000年8月，並於2001年7月停售\[1\]。
 
 ## 特點

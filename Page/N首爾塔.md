@@ -1,3 +1,6 @@
+> 本文内容由[N首爾塔](https://zh.wikipedia.org/wiki/N首爾塔)转换而来。
+
+
 **N首爾塔**（，，俗稱**首爾塔**、**南山塔**）位於[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[龍山區的](../Page/龍山區_\(首爾\).md "wikilink")[南山](https://zh.wikipedia.org/wiki/南山_\(首爾\) "wikilink")，高236.7米，建於1975年，是集旅游观光和电视发射为一体的地标建筑，鄰近[南山纜車站](https://zh.wikipedia.org/wiki/南山纜車 "wikilink")。
 
 2005年首爾塔耗資15億[韓圓](../Page/韓圓.md "wikilink")進行7個月的改裝工程，於2005年12月9日重新開幕，並易名為N首爾塔。塔上燈光將按季節與主題而變動。塔上設有[旋轉餐廳](../Page/旋轉餐廳.md "wikilink")、咖啡室及展望台，可以鸟瞰整个[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。

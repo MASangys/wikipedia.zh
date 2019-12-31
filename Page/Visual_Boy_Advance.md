@@ -1,3 +1,6 @@
+> 本文内容由[Visual Boy Advance](https://zh.wikipedia.org/wiki/Visual Boy Advance)转换而来。
+
+
 **VisualBoyAdvance**（以下簡稱「**VBA**」）是一個根據[GNU General Public License發布的免費軟件](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。它能夠在[電腦上模擬任天堂所發行的手提遊戲機](https://zh.wikipedia.org/wiki/電腦 "wikilink")，包括：[Game Boy](../Page/Game_Boy.md "wikilink")、[Super Game Boy](https://zh.wikipedia.org/wiki/Super_Game_Boy "wikilink")、[Game Boy Color和](../Page/Game_Boy_Color.md "wikilink")[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")。由於VBA模擬效果與真正的GBA基本無異，直至2006年是Win32電腦上最受歡迎的模擬器。VBA和[gnuboy是廣泛分佈的](https://zh.wikipedia.org/wiki/gnuboy "wikilink")[Game Boy模擬器](../Page/Game_Boy.md "wikilink")，且VBA已有中文化版本。
 
 **VisualBoyAdvance-M**（或簡作**VBA-M**）是一個改良[分支](https://zh.wikipedia.org/wiki/分支 "wikilink")，來自不活躍的VisualBoyAdvance專案。VisualBoyAdvance-M中的「M」據信是「Merge（合併）」的縮寫\[1\] 。另外的獨立版本稱為**VBA-ReRecording**，它提供了工具輔助回放功能 。

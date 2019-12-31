@@ -1,3 +1,6 @@
+> 本文内容由[E·E·伊凡-普理查](https://zh.wikipedia.org/wiki/E·E·伊凡-普理查)转换而来。
+
+
 **艾德華·伊凡·伊凡-普理查**爵士（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[人類學家](https://zh.wikipedia.org/wiki/人類學家 "wikilink")，他結合[結構功能主義以及自身在](https://zh.wikipedia.org/wiki/結構功能主義 "wikilink")[東非的](https://zh.wikipedia.org/wiki/東非 "wikilink")[民族誌](../Page/民族誌.md "wikilink")紀錄，對[努爾人](../Page/努爾人.md "wikilink")與[亞桑地人的](https://zh.wikipedia.org/wiki/亞桑地人 "wikilink")[親屬制度與](https://zh.wikipedia.org/wiki/親屬制度 "wikilink")[巫術](../Page/巫術.md "wikilink")重新整理，進而重新開啟[西方文化](../Page/西方文化.md "wikilink")重新詮釋[原始社會](https://zh.wikipedia.org/wiki/原始社會 "wikilink")[心靈的理解](https://zh.wikipedia.org/wiki/心靈 "wikilink")
 
 ## 生平

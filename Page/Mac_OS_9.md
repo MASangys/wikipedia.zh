@@ -1,3 +1,6 @@
+> 本文内容由[Mac OS 9](https://zh.wikipedia.org/wiki/Mac OS 9)转换而来。
+
+
 **Mac OS 9**是[蘋果電腦於](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1999年發佈的作業系統，一共發佈了7個版本，直到2001年末發佈的Mac OS 9.2.2為止。
 
 1998年，蘋果總裁[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")發布了直到[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") (Carbon) 的作業系統路線，並決定，每隔半年發佈系統更新，直到Mac OS X出爐，而Mac OS 9系列則是這系統路線的最後一個Mac OS系列。

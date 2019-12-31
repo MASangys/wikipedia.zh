@@ -1,3 +1,6 @@
+> 本文内容由[Apple Mighty Mouse](https://zh.wikipedia.org/wiki/Apple Mighty Mouse)转换而来。
+
+
 [Mighty_Mouse.jpg](https://zh.wikipedia.org/wiki/File:Mighty_Mouse.jpg "fig:Mighty_Mouse.jpg")
 
 Apple Mighty Mouse是一款由[蘋果公司研製並銷售的第一款多鍵](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[USB](../Page/USB.md "wikilink")[滑鼠](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")，于2005年8月2日首次发售。在此之前，苹果从22年前的[Apple Lisa开始一直配置的是单键鼠标](../Page/Apple_Lisa.md "wikilink")。在多年的批评之后苹果鼠标从单键向多键的转变。Apple Mighty Mouse现在有两种规格，一种是[USB](../Page/USB.md "wikilink")连线，还有一种是[蓝牙无线规格](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")（需要一到两节[AA 电池](https://zh.wikipedia.org/wiki/AA_电池 "wikilink")）。

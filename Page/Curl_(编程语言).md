@@ -1,3 +1,6 @@
+> 本文内容由[Curl \(编程语言\)](https://zh.wikipedia.org/wiki/Curl \(编程语言\))转换而来。
+
+
 **Curl语言**是一种被设计来编写[网络程序的](../Page/网络应用程序.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。由美國的麻省理工學院開發。它的目标是以一种单一的语言来取代[HTML](../Page/HTML.md "wikilink")，[Cascading Style Sheets](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")（[层叠样式表](../Page/层叠样式表.md "wikilink")）和[JavaScript](../Page/JavaScript.md "wikilink")，虽然它目前并未在世界范围内被广泛使用，但在日本有一定的普及。
 
 Curl不像[HTML](../Page/HTML.md "wikilink")，它不是一种文本标记语言，但Curl语言既可以用于普通的文本显示，又可以用于实现大规模的客户端商业软件系统。Curl不利的一面是：需要向[客户端安装](https://zh.wikipedia.org/wiki/客户端 "wikilink")[运行环境](https://zh.wikipedia.org/wiki/运行环境 "wikilink")。

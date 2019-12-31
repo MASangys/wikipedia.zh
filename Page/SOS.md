@@ -1,3 +1,6 @@
+> 本文内容由[SOS](https://zh.wikipedia.org/wiki/SOS)转换而来。
+
+
 [SOS_morse_code.ogg](https://zh.wikipedia.org/wiki/File:SOS_morse_code.ogg "fig:SOS_morse_code.ogg") [SOS_morse_code_from_a_flashlight.ogv](https://zh.wikipedia.org/wiki/File:SOS_morse_code_from_a_flashlight.ogv "fig:SOS_morse_code_from_a_flashlight.ogv")发送\]\]
 
 ****（[摩斯電碼](https://zh.wikipedia.org/wiki/摩斯電碼 "wikilink")：`···---···`）是目前[国际通用的](https://zh.wikipedia.org/wiki/国际 "wikilink")[摩斯电码求救信号](https://zh.wikipedia.org/wiki/摩斯电码 "wikilink")。

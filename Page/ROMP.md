@@ -1,3 +1,6 @@
+> 本文内容由[ROMP](https://zh.wikipedia.org/wiki/ROMP)转换而来。
+
+
 [Romp.jpg](https://zh.wikipedia.org/wiki/File:Romp.jpg "fig:Romp.jpg")
 
 **ROMP**的全稱是**R**esearch (**O**ffice Products Division) **M**icro **P**rocessor\[1\]，它是[IBM](../Page/IBM.md "wikilink")公司所研製的一顆[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，第一顆ROMP晶片於1981年問世，並在之後用於辦公事務的機器設備內，事實上這顆處理器的研發用意是用來取代自1970年中期就開始使用的OPD Mini Processor（OPD迷你處理器）\[2\]OPD迷你處理器主要是用在文字編輯\[3\]的系統設備內，如IBM的Office System/6及DisplayWriter等。

@@ -1,3 +1,6 @@
+> 本文内容由[DDR SDRAM](https://zh.wikipedia.org/wiki/DDR SDRAM)转换而来。
+
+
 **双倍数据率同步動態隨機存取記憶體**（，簡稱**DDR SDRAM**）為具有的[SDRAM](../Page/SDRAM.md "wikilink")，其資料傳輸速度為系統[時脈的兩倍](https://zh.wikipedia.org/wiki/時脈 "wikilink")，由於速度增加，其傳輸效能優於傳統的SDRAM。
 
 DDR SDRAM 在系统时钟的上升沿和下降沿都可以进行数据传输。

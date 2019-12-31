@@ -1,3 +1,6 @@
+> 本文内容由[STS-51-I](https://zh.wikipedia.org/wiki/STS-51-I)转换而来。
+
+
 ****是历史上第二十次航天飞机任务，也是[发现号航天飞机的第六次太空飞行](https://zh.wikipedia.org/wiki/發現號太空梭 "wikilink")。
 
 ## 任务成员

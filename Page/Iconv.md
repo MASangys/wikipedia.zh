@@ -1,3 +1,6 @@
+> 本文内容由[Iconv](https://zh.wikipedia.org/wiki/Iconv)转换而来。
+
+
 **iconv**\[1\]是一个计算机程序\[2\]以及一套[应用程序编程接口](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")\[3\]的名称。它的作用是在多种国际编码格式之间进行文本内码的转换。支持的内码包括：
 
   - [Unicode相关编码](https://zh.wikipedia.org/wiki/Unicode "wikilink")，如[UTF-8](../Page/UTF-8.md "wikilink")、[UTF-16等等](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")

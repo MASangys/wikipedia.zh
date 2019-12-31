@@ -1,3 +1,6 @@
+> 本文内容由[X世代](https://zh.wikipedia.org/wiki/X世代)转换而来。
+
+
 [Bookcover-Generation-X.jpg](https://zh.wikipedia.org/wiki/File:Bookcover-Generation-X.jpg "fig:Bookcover-Generation-X.jpg") **X世代**專指**1965年～1980年**出生的人。
 
 這詞彙最先出現在傳奇戰地記者[羅伯特·卡帕](https://zh.wikipedia.org/wiki/羅伯特·卡帕 "wikilink")（[Robert Capa](http://en.wikipedia.org/wiki/Robert_Capa))的相片特輯([Photo-essay](http://en.wikipedia.org/wiki/Photo-essay))，他用這來形容第二次世界大戰後出生的一代。這特輯1953年於英國的picture post及美國的holiday刊出。羅伯特·卡帕自己的解釋:「我們稱這個未知的世代為x世代，這世代中，我們意識到，縱使我們滿腔熱誠，有些事情還是憑我們的財力及能力都做不來的。」(We named this unknown generation, The Generation X, and even in our first enthusiasm we realised that we had something far bigger than our talents and pockets could cope with)。作家John Ulrich曾定義，x世代通常是指欠缺身份認同、面對着前景不明朗、甚至惡劣的未來的一群青年。這個詞彙在1960年代中到1970年代中期都被使用，但定義就漸漸由當初的一整代人，轉為狹義的形容對搖滾及punk十分熱衷的英國白人青年。

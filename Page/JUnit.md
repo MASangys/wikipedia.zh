@@ -1,3 +1,6 @@
+> 本文内容由[JUnit](https://zh.wikipedia.org/wiki/JUnit)转换而来。
+
+
 **JUnit**是一个[Java](../Page/Java.md "wikilink")语言的[单元测试](../Page/单元测试.md "wikilink")框架。它由[肯特·貝克](../Page/肯特·貝克.md "wikilink")和[埃里希·伽瑪](https://zh.wikipedia.org/wiki/埃里希·伽瑪 "wikilink")（Erich Gamma）建立，逐渐成为源于Kent Beck的[sUnit的](https://zh.wikipedia.org/wiki/sUnit "wikilink")[xUnit家族中为最成功的一个](https://zh.wikipedia.org/wiki/xUnit "wikilink")。 JUnit有它自己的[JUnit扩展](https://web.archive.org/web/20051013060403/http://www.junit.org/news/extension/index.htm)生态圈。
 
 ## 例子

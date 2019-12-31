@@ -1,3 +1,6 @@
+> 本文内容由[魂斗罗 \(Game Boy\)](https://zh.wikipedia.org/wiki/魂斗罗 \(Game Boy\))转换而来。
+
+
 《**魂斗罗**》（），美版名**Operation C**，是[KONAMI在](https://zh.wikipedia.org/wiki/KONAMI "wikilink")1991年推出的《[魂斗罗](../Page/魂斗罗.md "wikilink")》系列的一作，中文名称和[街机](../Page/街机.md "wikilink")上的第一作相同。
 
 ## 游戏系统

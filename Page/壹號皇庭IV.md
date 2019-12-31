@@ -1,3 +1,6 @@
+> 本文内容由[壹號皇庭IV](https://zh.wikipedia.org/wiki/壹號皇庭IV)转换而来。
+
+
 《**壹號皇庭IV**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1995年9月11日首播，共26集，監製[鄧特希](../Page/鄧特希.md "wikilink")。星期一至五播出。\[1\]\[2\]本劇前往[新加坡](../Page/新加坡.md "wikilink")拍攝外景。
 
 ## 演員表

@@ -1,3 +1,6 @@
+> 本文内容由[IUPAC命名法](https://zh.wikipedia.org/wiki/IUPAC命名法)转换而来。
+
+
 **IUPAC命名法**（）包括[IUPAC规定的一系列的命名法](https://zh.wikipedia.org/wiki/IUPAC "wikilink")，它规定从[有机到](https://zh.wikipedia.org/wiki/有机 "wikilink")[无机](https://zh.wikipedia.org/wiki/无机 "wikilink")、从[分子](../Page/分子.md "wikilink")到[高分子](../Page/高分子.md "wikilink")及各方面[化学术语](https://zh.wikipedia.org/wiki/化学 "wikilink")。IUPAC已将命名法出版为一系列的颜色书。
 
 ## IUPAC颜色书

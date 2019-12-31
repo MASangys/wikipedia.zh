@@ -1,3 +1,6 @@
+> 本文内容由[世紀帝國II：征服者入侵](https://zh.wikipedia.org/wiki/世紀帝國II：征服者入侵)转换而来。
+
+
 是[微软](../Page/微软.md "wikilink")[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的官方擴充[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，曾榮獲2000年E3最佳戰略性遊戲資料片。
 
 征服者入侵除了《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的原有文明，再行引入5種新文明及相關戰役，其中2种代表[新大陆](https://zh.wikipedia.org/wiki/新大陆 "wikilink")：[阿兹特克和](https://zh.wikipedia.org/wiki/阿兹特克 "wikilink")[玛雅](https://zh.wikipedia.org/wiki/玛雅文明 "wikilink")，另3种分别為[匈奴](https://zh.wikipedia.org/wiki/匈奴 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")和[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")；另有一战役系列是互不相干的独立战役。此外標準遊戲模式即新增世界奇觀競賽、防禦世界奇觀和至尊王3種，並新增19張地圖（9張隨機和10張仿自真實世界據點）、11種軍事單位和26種科技。該資料片推出後，曾發布官方唯一和最終版本的1.0c[修正檔](https://zh.wikipedia.org/wiki/修正檔 "wikilink")。

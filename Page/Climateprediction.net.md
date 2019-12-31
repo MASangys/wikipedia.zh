@@ -1,3 +1,6 @@
+> 本文内容由[Climateprediction.net](https://zh.wikipedia.org/wiki/Climateprediction.net)转换而来。
+
+
 {{ infobox software | screenshot = [CPDN-Client.png](https://zh.wikipedia.org/wiki/File:CPDN-Client.png "fig:CPDN-Client.png") | caption = | author = | developer = [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[牛津大學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink") | released = 1999年 | latest release version = | latest preview version = | operating system = [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink") | platform = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | language = 英文 | genre = [分布式计算](../Page/分布式计算.md "wikilink") | license = [LGPL (BOINC的一部分)](../Page/GNU宽通用公共许可证.md "wikilink") | website = [climateprediction.net/](http://climateprediction.net/) }}
 
 **Climateprediction.net**是一個基於[伯克利開放式網路計算平台](https://zh.wikipedia.org/wiki/伯克利開放式網路計算平台 "wikilink")（BOINC）的[分散式計算項目](https://zh.wikipedia.org/wiki/分散式計算 "wikilink")。該項目由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[牛津大學開發和維護](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")，用於全球氣象變化的研究。\[1\]

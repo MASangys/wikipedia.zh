@@ -1,3 +1,6 @@
+> 本文内容由[Kylix](https://zh.wikipedia.org/wiki/Kylix)转换而来。
+
+
 **Kylix**是[Borland](../Page/Borland.md "wikilink")公司推出的[GNU/Linux版的开发环境](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")，相对于[Windows下的](https://zh.wikipedia.org/wiki/Windows "wikilink")[Delphi](../Page/Delphi.md "wikilink")以及[C++ Builder](https://zh.wikipedia.org/wiki/C++_Builder "wikilink")。通过Kylix，程序员可以在[GNU/Linux下使用](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[Object Pascal](../Page/Object_Pascal.md "wikilink")、[C++](../Page/C++.md "wikilink")或者[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")，进行软件开发。
 
 目前这个工具的前景不明朗，没有推出新版（Kylix 4）的迹象。对于Delphi 2005，也没有升级的途径，Delphi 2005可能不包含[CLX](https://zh.wikipedia.org/wiki/CLX "wikilink")（跨平台元件库）的支持。此外，对其最新的[GNU/Linux官方支持包括](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")：RedHat 7.2、SUSE 7.3以及Mandrake 8.2。在更新版的GNU/Linux中，应该也能用，但可能需要搜索一下网络，看看如何对默认配置进行相应的调整，比如保留旧版的[glibc等](https://zh.wikipedia.org/wiki/glibc "wikilink")。

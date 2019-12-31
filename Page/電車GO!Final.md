@@ -1,3 +1,6 @@
+> 本文内容由[電車GO!Final](https://zh.wikipedia.org/wiki/電車GO!Final)转换而来。
+
+
 是[TAITO於](https://zh.wikipedia.org/wiki/TAITO "wikilink")2004年5月27日出品的[電車GO\!](../Page/電車GO!.md "wikilink")系列遊戲。
 
 ## 遊戲介紹

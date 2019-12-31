@@ -1,3 +1,6 @@
+> 本文内容由[臺灣TG蝶園](https://zh.wikipedia.org/wiki/臺灣TG蝶園)转换而来。
+
+
 [TG_Butterfly_Garden_on_2006_Taiwan_Pride.JPG](https://zh.wikipedia.org/wiki/File:TG_Butterfly_Garden_on_2006_Taiwan_Pride.JPG "fig:TG_Butterfly_Garden_on_2006_Taiwan_Pride.JPG") **台灣TG蝶園**，是[台灣第一個](https://zh.wikipedia.org/wiki/台灣 "wikilink")[跨性別](../Page/跨性別.md "wikilink")民間[組織](https://zh.wikipedia.org/wiki/組織 "wikilink")，於2000年在[桃園縣](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[中壢市](https://zh.wikipedia.org/wiki/中壢區 "wikilink")（今桃園市中壢區）成立\[1\]。從一開始的十餘人聚會，已發展成為[通訊簿擁有一百三十餘人的組織](https://zh.wikipedia.org/wiki/通訊簿 "wikilink")，定期[聚會每兩個月一次](https://zh.wikipedia.org/wiki/聚會 "wikilink")。
 
 從批判警方惡意[臨檢](https://zh.wikipedia.org/wiki/臨檢 "wikilink")，到譴責[媒體侵犯](https://zh.wikipedia.org/wiki/媒體 "wikilink")[隱私](https://zh.wikipedia.org/wiki/隱私 "wikilink")，抗議教育部國語辭典使用歧視性語言，維護相關跨性別身分、[兵役](https://zh.wikipedia.org/wiki/兵役 "wikilink")、[醫療](https://zh.wikipedia.org/wiki/醫療 "wikilink")、[工作](https://zh.wikipedia.org/wiki/工作 "wikilink")、[教育](../Page/教育.md "wikilink")等權益，蝶園已逐漸在社運行列中邁出穩健的步伐。

@@ -1,3 +1,6 @@
+> 本文内容由[NANA](https://zh.wikipedia.org/wiki/NANA)转换而来。
+
+
 《**NANA**》（）是日本漫畫家[矢澤愛](../Page/矢澤愛.md "wikilink")的[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")，自1999年起開始連載於《[Cookie](https://zh.wikipedia.org/wiki/Cookie_\(雜誌\) "wikilink")》，2009年時因作者健康問題休載至今。故事的主角是兩個名字同樣讀作「NANA」的少女。漫畫推出之後大受歡迎，除了在2006年時被改編成電視動畫外，也在2005年與2006年時分別改拍成兩部電影。
 
 ## 簡介

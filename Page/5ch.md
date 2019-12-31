@@ -1,3 +1,6 @@
+> 本文内容由[5ch](https://zh.wikipedia.org/wiki/5ch)转换而来。
+
+
 **5channel**（，一般簡稱**5ch**），舊名**2channel**（，簡稱**2ch**），是一個大型的[日本](../Page/日本.md "wikilink")[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，擁有超過1170萬用戶（2009年統計）\[1\]。5ch基本上是一個非常巨大的[留言板集合體](https://zh.wikipedia.org/wiki/留言板 "wikilink")。5ch也是網域名稱的正確拼法（5ch.net）。2007年統計顯示，2ch的用戶每天平均創建共約250萬個帖子\[2\]\[3\]。
 
 ## 簡介

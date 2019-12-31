@@ -1,3 +1,6 @@
+> 本文内容由[表参道Hills](https://zh.wikipedia.org/wiki/表参道Hills)转换而来。
+
+
 [Omotesando_Hills_Void_View_2018.jpg](https://zh.wikipedia.org/wiki/File:Omotesando_Hills_Void_View_2018.jpg "fig:Omotesando_Hills_Void_View_2018.jpg") **表參道Hills**（，），中文經常譯為**表參道之丘**，位於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[原宿](../Page/原宿.md "wikilink")，是在「[同潤會](https://zh.wikipedia.org/wiki/同潤會 "wikilink")」舊址上所進行的都市再開發計畫，因位於東京著名景點之一的[表參道](../Page/表參道.md "wikilink")而得名。由[森大廈](../Page/森大廈.md "wikilink")公司進行開發，建築師[安藤忠雄](../Page/安藤忠雄.md "wikilink")設計。建築區域是道路旁邊的狹窄細長的區域，並且由於是斜坡的地區，不能建造高層建築，可說是很難處理的建築腹地。於是設計師利用一整排的[櫸樹](https://zh.wikipedia.org/wiki/櫸樹 "wikilink")，和分三階段漸次降低的建築樓層來調和景觀。
 
 ## 簡介

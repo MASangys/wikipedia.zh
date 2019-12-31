@@ -1,3 +1,6 @@
+> 本文内容由[魔法门之英雄无敌III：埃拉西亚的光复](https://zh.wikipedia.org/wiki/魔法门之英雄无敌III：埃拉西亚的光复)转换而来。
+
+
 1999年由[New World Computing在](../Page/New_World_Computing.md "wikilink")[Windows平台上开发的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[回合制策略魔幻游戏](../Page/回合制策略游戏.md "wikilink")，其出版商是[3DO](../Page/3DO.md "wikilink")。稍后3DO和Loki Software分别推出了可以[苹果机和](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")[Linux](../Page/Linux.md "wikilink")系统上运行的版本。这是[魔法门之英雄无敌系列的第三代](https://zh.wikipedia.org/wiki/魔法门之英雄无敌 "wikilink")。游戏情节参照第一次贯穿了《[魔法门VI：天堂之令](../Page/魔法门VI：天堂之令.md "wikilink")》，并且部分作为了《[魔法门VII：血统与荣耀](https://zh.wikipedia.org/wiki/魔法门VII：血统与荣耀 "wikilink")》的前传。玩家可以选择六个战役之中的一个来进行情节模式，也可以选择场景来进行与电脑或其他玩家的对抗。
 
 游戏的操作非常类似于它的前作：玩家控制一定数量的英雄来控制[神话](../Page/神话.md "wikilink")[传说](../Page/传说.md "wikilink")中的生物组成的[部队](https://zh.wikipedia.org/wiki/部队 "wikilink")。游戏分为两部分：在战略地图上进行探索以及回合制的战斗系统。玩家可以通过花费资源来招募英雄和部队。英雄通过和敌人与野外生物不断的战斗提升经验值。胜利的条件因地图而异，包括消灭所有的敌人、运送指定宝物、积累一定数量的资源或生物、找到[神器并建造奇迹](https://zh.wikipedia.org/wiki/神器 "wikilink")，等等。

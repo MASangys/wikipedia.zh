@@ -1,3 +1,6 @@
+> 本文内容由[RCI](https://zh.wikipedia.org/wiki/RCI)转换而来。
+
+
 **RCI**（前稱**RCI集團**、**國際度假公寓**或**Resort Condominiums International**）是一家全球[分時渡假的度假酒店及權益交易組織](https://zh.wikipedia.org/wiki/分時渡假 "wikilink")，[溫德姆酒店集團的一個分支](https://zh.wikipedia.org/wiki/溫德姆酒店集團 "wikilink")。
 
 創立於1974年，這家由[喬恩和](https://zh.wikipedia.org/wiki/喬恩·迪翰 "wikilink")[克里斯特爾·迪翰建立的公司已變成世界其中一家大型的](https://zh.wikipedia.org/wiki/克里斯特爾·迪翰 "wikilink")[分時分享交易拆家](https://zh.wikipedia.org/wiki/分時分享 "wikilink")。RCI有超過6,300家伙伴度假屋，遍布全球超過100個國家\[1\]，並在全球有會員約380萬名。

@@ -1,3 +1,6 @@
+> 本文内容由[Google頁面創建器](https://zh.wikipedia.org/wiki/Google頁面創建器)转换而来。
+
+
 [Google_pages_logo.gif](https://zh.wikipedia.org/wiki/File:Google_pages_logo.gif "fig:Google_pages_logo.gif") **Google Page Creator**是[Google实验室在](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")2006年2月23日推出的一个在线网页编辑工具。Google已宣布，该产品已完全转移至[Google协作平台](../Page/Google协作平台.md "wikilink")。
 
 ## 历史

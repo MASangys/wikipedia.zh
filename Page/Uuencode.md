@@ -1,3 +1,6 @@
+> 本文内容由[Uuencode](https://zh.wikipedia.org/wiki/Uuencode)转换而来。
+
+
 **uuencode**這個名字是衍生自"Unix-to-Unix encoding"，原先是[Unix系統下將](https://zh.wikipedia.org/wiki/Unix "wikilink")[二進位的資料藉由](https://zh.wikipedia.org/wiki/二進位數字系統 "wikilink")[uucp郵件系統傳輸的一個](../Page/UUCP.md "wikilink")[編碼程式](https://zh.wikipedia.org/wiki/編碼 "wikilink")，是一種[二進位到文字的編碼](https://zh.wikipedia.org/wiki/二進位到文字的編碼 "wikilink")。**uudecode**是與uuencode搭配的解碼程式，uuencode/decode常見於[電子郵件中的檔案傳送以及](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[usenet新聞群組和](https://zh.wikipedia.org/wiki/usenet "wikilink")[BBS](../Page/BBS.md "wikilink")的貼文等等。近來已被[MIME所大量取代](https://zh.wikipedia.org/wiki/MIME "wikilink")。
 
 ## 編碼程序

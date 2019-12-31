@@ -1,3 +1,6 @@
+> 本文内容由[Xpress 200 IE](https://zh.wikipedia.org/wiki/Xpress 200 IE)转换而来。
+
+
 **Xpress 200 IE**是ATI的一款整合式晶片組，支援[Intel平台](https://zh.wikipedia.org/wiki/Intel "wikilink")。其中IE代表Intel Edition。它在2005年在[CeBIT](../Page/CeBIT.md "wikilink")推出，可以支援[Pentium D處理器](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")，1066 MHz [FSB](https://zh.wikipedia.org/wiki/FSB "wikilink")。記憶體方面，支援雙通道DDR400/DDR-2 667記憶體。整合式顯示核心屬於X300級別，與[Xpress 200一樣](../Page/Xpress_200.md "wikilink")。相比上一代的[9100 IGP](../Page/9100_IGP.md "wikilink")，新增對DirectX 9的支援。[南橋方面](https://zh.wikipedia.org/wiki/南橋 "wikilink")，可以配搭ATI自家的IXP400/450，若廠商不滿意其效能，可以改為選用[ULi的M](https://zh.wikipedia.org/wiki/ULi "wikilink")1573。
 
 內建的顯示核心屬於X300級別，有兩條像素流水線。顯示核心的时脈是350 MHz，利用[HyperMemory技術](https://zh.wikipedia.org/wiki/HyperMemory "wikilink")，可以分享系統記憶體為顯示記憶體。南北橋採用ALink連接，即[PCI-Express](https://zh.wikipedia.org/wiki/PCI-Express "wikilink")。

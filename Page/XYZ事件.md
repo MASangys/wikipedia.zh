@@ -1,3 +1,6 @@
+> 本文内容由[XYZ事件](https://zh.wikipedia.org/wiki/XYZ事件)转换而来。
+
+
 **XYZ事件**是1797年发生在[美国](../Page/美国.md "wikilink")与[法国之间的](../Page/法兰西第一共和国.md "wikilink")[外交](../Page/外交.md "wikilink")事件，法国外交部长[塔列朗的三位代理人](https://zh.wikipedia.org/wiki/塔列朗 "wikilink")（在最初公布的保密外交文件中被分别称为X、Y和Z）向前来进行和平谈判的美国总统[约翰·亚当斯](../Page/约翰·亚当斯.md "wikilink")的外交使节索取巨额贿赂，作为继续谈判的条件。这一事件被披露后引发了美国的反法浪潮，进一步恶化了美国与法国的关系，并导致了1798年美国对法国的[不宣而战](https://zh.wikipedia.org/wiki/美法短暫衝突 "wikilink")。
 
 ## 背景

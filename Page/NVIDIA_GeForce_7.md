@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 7](https://zh.wikipedia.org/wiki/NVIDIA GeForce 7)转换而来。
+
+
 **GeForce 7**是[NVIDIA第七代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[繪圖處理器的總稱](https://zh.wikipedia.org/wiki/GPU "wikilink")，3D引擎升級為CineFX 4.0。全系列繪圖晶片是原生PCI-E，並沒有原生[AGP](../Page/AGP.md "wikilink")產品推出过。与[GeForce 6一样](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink") 9.0c，Shader Model 3.0, [OpenGL](../Page/OpenGL.md "wikilink") 2.0，[HDR](https://zh.wikipedia.org/wiki/高動態光照渲染 "wikilink")。nVidia聲稱GeForce 7的[Pixel Shader單元運算能力比GeForce](../Page/像素著色引擎.md "wikilink") 6強兩倍。不少人認為G70核心只是舊NV40的改良版。
 
 Geforce 7800 GTX（核心代號為G70），核心採用較成熟的TSMC 0.11微米制程，而不是[90奈米制程](../Page/90纳米制程.md "wikilink")。可能NVIDIA吸取了當年NV30太早引進[0.13微米製程的教訓](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")，良率很差。而ATi則採用不成熟的90奈米制程，令[Radeon X1000系列延期很久才能推出](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")。

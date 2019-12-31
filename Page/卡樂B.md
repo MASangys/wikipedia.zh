@@ -1,3 +1,6 @@
+> 本文内容由[卡樂B](https://zh.wikipedia.org/wiki/卡樂B)转换而来。
+
+
 [Calbee_logo.svg](https://zh.wikipedia.org/wiki/File:Calbee_logo.svg "fig:Calbee_logo.svg") [Calbee_Hiroshima_Factory.JPG](https://zh.wikipedia.org/wiki/File:Calbee_Hiroshima_Factory.JPG "fig:Calbee_Hiroshima_Factory.JPG")[廿日市市](../Page/廿日市市.md "wikilink")的一座工場\]\]
 
 **卡樂B**（，；）是[日本](../Page/日本.md "wikilink")一家以[零食](../Page/零食.md "wikilink")為主力的[食品](https://zh.wikipedia.org/wiki/食品 "wikilink")[生產商](https://zh.wikipedia.org/wiki/生產商 "wikilink")，於1949年在[廣島市](../Page/廣島市.md "wikilink")宇品以松尾糧食工業株式會社的名稱成立，1955年改為現名。

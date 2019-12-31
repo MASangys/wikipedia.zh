@@ -1,3 +1,6 @@
+> 本文内容由[Newtype](https://zh.wikipedia.org/wiki/Newtype)转换而来。
+
+
 **New Type**(ニュータイプ)，是《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》[動畫系列中的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[架空概念](https://zh.wikipedia.org/wiki/架空 "wikilink")。在作品中有宇宙世紀紀元的作品跟機動新世紀GUNDAM X的戰後紀元有使用這個名詞。隨著作品的擴張，對於何謂Newtype有定義上的困難，大多認為Newtype是一種特異的能力，與其相對稱為Oldtype。雖然NEWTYPE被台灣譯作新人類，但NEWTYPE現時被當作GUNDAM系列作品的[專有名詞而不是更廣義和抽像的新人類](https://zh.wikipedia.org/wiki/專有名詞 "wikilink")。
 
 ## 宇宙世紀的新人類

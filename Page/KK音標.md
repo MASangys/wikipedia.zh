@@ -1,3 +1,6 @@
+> 本文内容由[KK音標](https://zh.wikipedia.org/wiki/KK音標)转换而来。
+
+
 **KK音標**（），是一種[美式英語發音的](https://zh.wikipedia.org/wiki/美式英語 "wikilink")[音素](../Page/語音.md "wikilink")[音標](https://zh.wikipedia.org/wiki/音標 "wikilink")，它所使用的符號幾乎與[國際音標](../Page/國際音標.md "wikilink")（IPA）相符。KK音標最初使用在1944年出版的《美式英語發音辭典》（*[A Pronouncing Dictionary of American English](http://www.archive.org/details/pronouncingdicti00unse)*），由於兩位作者及[托馬斯·A·克諾特](https://zh.wikipedia.org/wiki/托馬斯·A·克諾特 "wikilink")（）的姓皆以K為開頭，所以此辭典俗稱為KK（Kenyon and Knott）音標。
 
 ## 歷史背景

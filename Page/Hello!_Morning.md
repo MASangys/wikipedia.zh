@@ -1,3 +1,6 @@
+> 本文内容由[Hello! Morning](https://zh.wikipedia.org/wiki/Hello! Morning)转换而来。
+
+
 《**Hello\! Morning**》（）是[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")（TV Tokyo）於2000年4月9日至2007年4月1日期間，逢[星期日](../Page/星期日.md "wikilink")上午11時30分（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播放有關[早安家族](../Page/早安家族.md "wikilink")的[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，常被人簡稱為《》（Haromoni）以及《HM》。該節目[台灣播映權是由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[國興衛視](../Page/國興衛視.md "wikilink")取得，國興衛視譯為《新早安少女組》。
 
 這節目以“[早安少女組。](../Page/早安少女組。.md "wikilink")”為固定班底，有時也會邀請[早安家族](../Page/早安家族.md "wikilink")裡的其他成員，以及其他名人嘉賓參與節目。

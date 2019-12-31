@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想VII补完计划](https://zh.wikipedia.org/wiki/最终幻想VII补完计划)转换而来。
+
+
 《**最终幻想VII补完计划**》（Compilation of Final Fantasy VII），是[史克威爾艾尼克斯發行的一系列](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[視訊遊戲](https://zh.wikipedia.org/wiki/視訊遊戲 "wikilink")、[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[短篇小說作品群](https://zh.wikipedia.org/wiki/短篇小說 "wikilink")，所有相关作品均建構於《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的世界觀與劇情之上。該系列作品由[野村哲也](../Page/野村哲也.md "wikilink")、[北瀨佳範](../Page/北瀨佳範.md "wikilink")領頭創作，在不同平台上开发制作多個不同的作品，但都延伸自《最终幻想VII》的故事核心。\[1\]\[2\]\[3\]
 
 《[最终幻想](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")》系列有一集完結的原則。不過，在2003年發售《[最终幻想X](../Page/最终幻想X.md "wikilink")》的續編《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》後，制作团队改變了方針。於是特別受歡迎的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》相繼發表續編及外傳，這個相關作品系列計劃就被稱为《最终幻想VII补完计划》。\[4\]

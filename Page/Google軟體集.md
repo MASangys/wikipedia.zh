@@ -1,3 +1,6 @@
+> 本文内容由[Google軟體集](https://zh.wikipedia.org/wiki/Google軟體集)转换而来。
+
+
 **Google軟體集**（Google Pack）是[Google公司於](https://zh.wikipedia.org/wiki/Google公司 "wikilink")2006年[國際消費電子展](https://zh.wikipedia.org/wiki/國際消費電子展 "wikilink")（CES）所推出的服務，由該公司設立推薦軟件的下載平台，所提供的軟件均為對用戶免費授權使用的產品， 僅提供可在[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista及](../Page/Windows_Vista.md "wikilink")[Windows 7使用的軟體產品](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
 2011年9月，Google公司宣佈停止此服務。

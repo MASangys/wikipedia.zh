@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft MapPoint](https://zh.wikipedia.org/wiki/Microsoft MapPoint)转换而来。
+
+
 [Microsoft_mappoint_north_america_2001_virtual_globe.gif](https://zh.wikipedia.org/wiki/File:Microsoft_mappoint_north_america_2001_virtual_globe.gif "fig:Microsoft_mappoint_north_america_2001_virtual_globe.gif") [437 px](https://zh.wikipedia.org/wiki/File:Map_detail_comparison_-_mappoint_and_encarta.gif "fig:437 px")
 
 **微軟MapPoint**是[微軟經年打造](https://zh.wikipedia.org/wiki/微軟 "wikilink")、允許用戶觀看、編輯和集成地圖的技術和軟體的一個獨特作品。

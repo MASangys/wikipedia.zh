@@ -1,3 +1,6 @@
+> 本文内容由[Loxian語](https://zh.wikipedia.org/wiki/Loxian語)转换而来。
+
+
 **Loxian** 是一種[藝術語言](../Page/藝術語言.md "wikilink")和[人工文字](https://zh.wikipedia.org/wiki/人工文字 "wikilink")(constructed script)，其名稱的來源顯然來自[希臘語的](https://zh.wikipedia.org/wiki/希臘語 "wikilink") *Loxos*，意思是「間接的」，是作家及作詞家[羅馬·萊恩為](https://zh.wikipedia.org/wiki/羅馬·萊恩 "wikilink")[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[新世紀音樂](../Page/新世紀音樂.md "wikilink")天后[恩雅](../Page/恩雅.md "wikilink")於2005年發行的專輯《[永恆之約](https://zh.wikipedia.org/wiki/永恆之約 "wikilink")（Amarantine）》所發明的語言；在該專輯裡，Loxian 共出現在三首歌曲中，分別是 *Less Than A Pearl*「微弱的存在」、*The River Sings*「大河之歌」及*Water Shows The Hidden Heart*「水影心事」。
 
 ## 緣起

@@ -1,3 +1,6 @@
+> 本文内容由[ZONE](https://zh.wikipedia.org/wiki/ZONE)转换而来。
+
+
 **ZONE**，是一個[日本](../Page/日本.md "wikilink")女子偶像[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，成員四人皆為女性，且皆為[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")人（但成員MAIKO為[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")出生），於2005年4月1日解散，經紀公司為[Studio Runtime](https://zh.wikipedia.org/wiki/Studio_Runtime "wikilink")。在2011年8月宣告以三人的姿態復出。
 
 ## 簡歷

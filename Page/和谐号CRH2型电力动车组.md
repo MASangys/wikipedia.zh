@@ -1,3 +1,6 @@
+> 本文内容由[和谐号CRH2型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH2型电力动车组)转换而来。
+
+
 **和谐号CRH2型电力动车组**，是原中华人民共和国铁道部（现[中国国家铁路集团有限公司](https://zh.wikipedia.org/wiki/中国国家铁路集团有限公司 "wikilink")）为进行[中国铁路第六次大提速及营运新建的](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[日本](../Page/日本.md "wikilink")[川崎重工及](../Page/川崎重工業.md "wikilink")[中国中车](../Page/中国中车.md "wikilink")[中車青島四方機車車輛股份有限公司订购的](https://zh.wikipedia.org/wiki/中車青島四方機車車輛股份有限公司 "wikilink")[CRH系列高速](../Page/中国铁路高速列车.md "wikilink")[动车组车款之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")。原中国铁道部将所有引进国外技术、联合设计生产的中国铁路高速列车（CRH）均命名为「**[和谐号](../Page/和谐号电力动车组.md "wikilink")**」。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Acid2](https://zh.wikipedia.org/wiki/Acid2)转换而来。
+
+
 **Acid2**，是針對[網頁瀏覽器及設計軟件](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，就支援[HTML](../Page/HTML.md "wikilink")、[CSS 2.0及](https://zh.wikipedia.org/wiki/CSS "wikilink")[PNG](../Page/PNG.md "wikilink")圖像標準的綜合測試，由[網頁標準計劃](../Page/網頁標準計劃.md "wikilink")設計，在1997年推出首個版本，名為"[Acid](../Page/Acid1.md "wikilink")"。
 
 ## 歷史

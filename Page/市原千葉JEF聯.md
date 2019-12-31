@@ -1,3 +1,6 @@
+> 本文内容由[市原千葉JEF聯](https://zh.wikipedia.org/wiki/市原千葉JEF聯)转换而来。
+
+
 **市原千葉JEF聯**（，一般稱為**千葉市原**）是一支[日本](../Page/日本.md "wikilink")職業足球隊，屬於[日本乙組職業足球聯賽的球隊之一](https://zh.wikipedia.org/wiki/日本乙組職業足球聯賽 "wikilink")。在日本的愛稱為「ジェフユナイテッド千葉」，即千葉JEF聯。
 
 ## 簡介

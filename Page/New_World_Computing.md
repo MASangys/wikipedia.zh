@@ -1,3 +1,6 @@
+> 本文内容由[New World Computing](https://zh.wikipedia.org/wiki/New World Computing)转换而来。
+
+
 **New World Computing**（缩写：****）\[1\]是由[乔·万·坎赫姆和](https://zh.wikipedia.org/wiki/乔·万·坎赫姆 "wikilink")[Marc Caldwell于](https://zh.wikipedia.org/wiki/Marc_Caldwell "wikilink")1984年创建的一家[电脑游戏](../Page/电脑游戏.md "wikilink")开发公司，尤以[角色扮演游戏系列](../Page/電子角色扮演遊戲.md "wikilink")[魔法门以及它的衍生系列](https://zh.wikipedia.org/wiki/魔法门 "wikilink")[魔法门之英雄无敌而著称](https://zh.wikipedia.org/wiki/魔法门之英雄无敌 "wikilink")。该公司在1996年被[3DO公司](../Page/3DO公司.md "wikilink")收购。2003年，随3DO公司的破产而消失。同年，[育碧买下了魔法门系列品牌的](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")[特许经营权](https://zh.wikipedia.org/wiki/特许经营 "wikilink")。
 
 ## 制作的游戏

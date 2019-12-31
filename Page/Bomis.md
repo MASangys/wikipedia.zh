@@ -1,3 +1,6 @@
+> 本文内容由[Bomis](https://zh.wikipedia.org/wiki/Bomis)转换而来。
+
+
 **Bomis**（，和promise押韵）是以资助自由内容网络百科全书计划[Nupedia](../Page/Nupedia.md "wikilink")和[维基百科](../Page/维基百科.md "wikilink")而知名的\[1\]，于1996年由[吉米·威尔士](https://zh.wikipedia.org/wiki/吉米·威尔士 "wikilink")、 [蒂姆·谢尔和](https://zh.wikipedia.org/wiki/wmf:Former_Board_of_Trustees_members "wikilink")创办\[2\]\[3\]\[4\]。1994年，戴维斯的芝加哥期权协会聘任威尔士，两人就此结识\[5\]，而谢尔则是威尔士透过[哲学](../Page/哲学.md "wikilink")讨论认识的\[6\]\[7\]。Bomis最初的目标是在Bomis.com搜索门户上卖广告\[8\]。
 
 公司最初在内容上费尽心思，期间曾做过[芝加哥](../Page/芝加哥.md "wikilink")资讯大典\[9\]。网站随后专注于面向男性观众的内容，包括体育运动、汽车和女性资讯\[10\]\[11\]\[12\]。Bomis后来因限制级媒体而闻名\[13\]。“Bomis宝贝”专门展示图片\[14\]，而“Bomis宝贝报道”则展示成人图片\[15\]\[16\]。付费开放的Bomis Premium还提供[色情](../Page/色情.md "wikilink")物料\[17\]\[18\]\[19\]。“宝贝引擎”协助用户用[网络搜索引擎搜寻色情内容](https://zh.wikipedia.org/wiki/网络搜索引擎 "wikilink")\[20\]\[21\]\[22\]。Bomis的广告总监注意到该站99%的查询都是关于[裸体](../Page/裸体.md "wikilink")女性的\[23\]。

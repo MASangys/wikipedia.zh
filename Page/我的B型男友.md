@@ -1,3 +1,6 @@
+> 本文内容由[我的B型男友](https://zh.wikipedia.org/wiki/我的B型男友)转换而来。
+
+
 《**我的B型男友**》（，），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")2005年上映的一部[喜劇電影](../Page/喜劇電影.md "wikilink")。內容講述女主角為了尋找理想男友而不斷努力，但她本身是個溫和的[A型女子](https://zh.wikipedia.org/wiki/血型 "wikilink")，事事都與她的B型血男友格格不入。
 
 ## 演員陣容

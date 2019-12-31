@@ -1,3 +1,6 @@
+> 本文内容由[Arial](https://zh.wikipedia.org/wiki/Arial)转换而来。
+
+
 **Arial**是一套隨同多套[微軟應用軟件所分發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[無襯線體](https://zh.wikipedia.org/wiki/無襯線體 "wikilink")[TrueType](../Page/TrueType.md "wikilink")[字型](../Page/字型.md "wikilink")。[Monotype設計這套字型是要以其作為一個較便宜的替代品與](https://zh.wikipedia.org/wiki/Monotype "wikilink")[Linotype的](https://zh.wikipedia.org/wiki/Linotype "wikilink")[Helvetica](../Page/Helvetica.md "wikilink")競爭。由於Helvetica是支援[Adobe](../Page/Adobe.md "wikilink") [PostScript](../Page/PostScript.md "wikilink")語言的[印表機所指定的其中一款字型](https://zh.wikipedia.org/wiki/印表機 "wikilink")，用戶選用它能確保文件可正確打印，所以是一套流行的字型。微軟購買了較便宜的Arial的使用許可，所以只包含了類似Helvetica字型如Arial及MS Sans Serif在[視窗系統裏面](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 雖然比例及[字重](https://zh.wikipedia.org/wiki/字重 "wikilink")（weight）和Helvetica極之相近，但Arial其實是Monotype [Grotesque系列的變種](https://zh.wikipedia.org/wiki/Grotesque "wikilink")。設計Arial時考慮到會在電腦上面使用，在字體及[字距上都作了一些細微的調整和變動](https://zh.wikipedia.org/wiki/字距 "wikilink")，以增加它在電腦屏幕上不同[解析度下的](https://zh.wikipedia.org/wiki/解析度 "wikilink")[可讀性](https://zh.wikipedia.org/wiki/可讀性 "wikilink")。

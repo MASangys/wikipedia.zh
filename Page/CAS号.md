@@ -1,3 +1,6 @@
+> 本文内容由[CAS号](https://zh.wikipedia.org/wiki/CAS号)转换而来。
+
+
 **CAS編號**（CAS Registry Number，或称CAS Number，CAS Rn，CAS \#），又称**CAS登录号**或**CAS登記號碼**，是某种[物质](../Page/物质.md "wikilink")（[化合物](../Page/化合物.md "wikilink")、[高分子材料](../Page/高分子材料.md "wikilink")、生物序列（Biological sequences）、[混合物](../Page/混合物.md "wikilink")或[合金](../Page/合金.md "wikilink")）的唯一的数字识别号码。
 
 [美国化学会的下设组织](https://zh.wikipedia.org/wiki/美国化学会 "wikilink")[化学文摘社](../Page/化学文摘社.md "wikilink")（**C**hemical **A**bstracts **S**ervice，簡稱**CAS**）负责为每一种出现在文献中的物质分配一个CAS編號，其目的是为了避免[化学物质有多种名称的麻烦](https://zh.wikipedia.org/wiki/化学 "wikilink")，使[数据库](../Page/数据库.md "wikilink")的检索更为方便。如今几乎所有的化学数据库都允许用CAS編號检索。

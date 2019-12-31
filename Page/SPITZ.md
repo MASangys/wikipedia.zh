@@ -1,3 +1,6 @@
+> 本文内容由[SPITZ](https://zh.wikipedia.org/wiki/SPITZ)转换而来。
+
+
 **SPITZ**（日語：****），[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。現在是Grasshopper、[環球音樂J所屬](../Page/環球音樂_\(日本\).md "wikilink")。成軍於1987年，由**[草野正宗](../Page/草野正宗.md "wikilink")、、、**共四人組成。
 
 ## 成員

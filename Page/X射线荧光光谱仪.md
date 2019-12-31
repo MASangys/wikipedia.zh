@@ -1,3 +1,6 @@
+> 本文内容由[X射线荧光光谱仪](https://zh.wikipedia.org/wiki/X射线荧光光谱仪)转换而来。
+
+
 [LDAutoXRFPic.jpg](https://zh.wikipedia.org/wiki/File:LDAutoXRFPic.jpg "fig:LDAutoXRFPic.jpg") **X射線荧光光谱儀**（X-ray Fluorescence Spectrometer，簡稱：**XRF**光谱儀），是一種快速的、非破壞式的物質測量方法。X射线荧光（X-ray fluorescence，XRF）是用高能量X射线或[伽玛射线轰击材料时激发出的次级X射线](https://zh.wikipedia.org/wiki/伽玛射线 "wikilink")。这种现象被广泛用于[元素分析](../Page/元素分析.md "wikilink")和[化学分析](../Page/分析化学.md "wikilink")，特别是在[金属](../Page/金属.md "wikilink")，[玻璃](../Page/玻璃.md "wikilink")，[陶瓷和建材的调查和研究](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")，[地球化学](../Page/地球化学.md "wikilink")，[法医学](https://zh.wikipedia.org/wiki/法医学 "wikilink")，[考古学](../Page/考古学.md "wikilink")和艺术品\[1\]，例如[油画](../Page/油画.md "wikilink")\[2\]和壁画。
 
 ## 使用型態

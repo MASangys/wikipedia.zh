@@ -1,3 +1,6 @@
+> 本文内容由[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY鍵盤)转换而来。
+
+
 [Qwerty.svg](https://zh.wikipedia.org/wiki/File:Qwerty.svg "fig:Qwerty.svg") [QWERTY_keyboard.jpg](https://zh.wikipedia.org/wiki/File:QWERTY_keyboard.jpg "fig:QWERTY_keyboard.jpg") **QWERTY**是各国使用的、基于[拉丁字母](../Page/拉丁字母.md "wikilink")的标准[打字机和](https://zh.wikipedia.org/wiki/打字机 "wikilink")[-{zh-hans:计算机; zh-hant:電腦;}-键盘布局](https://zh.wikipedia.org/wiki/電腦鍵盘 "wikilink")。“QWERTY”是该键盘布局字母区第一行的前六个字母。键的安排顺序由[克里斯托弗·肖尔斯](https://zh.wikipedia.org/wiki/克里斯托弗·肖尔斯 "wikilink")（Christopher Sholes）设计。\[1\]
 
 ## 歷史

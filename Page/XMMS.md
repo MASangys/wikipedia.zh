@@ -1,3 +1,6 @@
+> 本文内容由[XMMS](https://zh.wikipedia.org/wiki/XMMS)转换而来。
+
+
 [XMMS.png](https://zh.wikipedia.org/wiki/File:XMMS.png "fig:XMMS.png")
 
 **X Multimedia System**（**XMMS**）是一套自由的音訊播放器，其外表極像[Winamp](../Page/Winamp.md "wikilink")，但是執行在[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。

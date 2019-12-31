@@ -1,3 +1,6 @@
+> 本文内容由[XO醬](https://zh.wikipedia.org/wiki/XO醬)转换而来。
+
+
 **XO醬**是一种[香港](../Page/香港.md "wikilink")调味料，主要使用[海产和](https://zh.wikipedia.org/wiki/海产 "wikilink")[辣椒](../Page/辣椒.md "wikilink")制成，味道[鮮中帶](https://zh.wikipedia.org/wiki/鮮 "wikilink")[辣](../Page/辣.md "wikilink")\[1\]\[2\]。XO酱由[馬拉盞演變而成](https://zh.wikipedia.org/wiki/馬拉盞 "wikilink")\[3\]，约于[1980年代在香港的高级酒家出现](https://zh.wikipedia.org/wiki/香港1980年代 "wikilink")，并在[1990年代普及化](https://zh.wikipedia.org/wiki/香港1990年代 "wikilink")，成为一种具有香港特色的调味料。
 
 而有趣的是來自香港的XO醬，罕有地得到法國廚師的讚口不絕，因XO醬顛覆了法國料理的用醬傳統，即使XO醬裏很多油，卻毫不膩滯\[4\]。

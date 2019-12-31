@@ -1,3 +1,6 @@
+> 本文内容由[梅赛德斯-奔驰E级](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰E级)转换而来。
+
+
 **梅赛德斯-奔驰E级**（[德语](../Page/德语.md "wikilink")：**Mercedes-Benz E-Klasse**）是由[梅赛德斯-奔驰生产的中型豪华](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[轿车](../Page/轿车.md "wikilink")系列，其中的E是德语“Einspritzung（意为噴射）”原本指引擎採用效率較好的燃料噴射系統而非[化油器](../Page/化油器.md "wikilink")，燃料噴射引擎普遍後改為代表主管（Executive）的首字母。
 
 E级车是梅塞德斯-奔驰全系列中销量最佳的车型，一向有堅固的車身與沉穩的底盤，1995年推出的W210款E-Class有復古兼空氣力學設計的雙圓燈車頭，風阻係數僅0.27，是當時最流線的四門轎車。其主要对手为[奥迪A6](../Page/奥迪A6.md "wikilink")和[宝马5系](https://zh.wikipedia.org/wiki/宝马5系 "wikilink")。

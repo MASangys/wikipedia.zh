@@ -1,3 +1,6 @@
+> 本文内容由[HDMI](https://zh.wikipedia.org/wiki/HDMI)转换而来。
+
+
 **高畫質多媒體介面**（，缩写：**HDMI**）是一種全[數位化](https://zh.wikipedia.org/wiki/數位 "wikilink")[影像和](https://zh.wikipedia.org/wiki/影像 "wikilink")[聲音傳送介面](https://zh.wikipedia.org/wiki/聲音 "wikilink")，可以傳送未[壓縮的](https://zh.wikipedia.org/wiki/數位壓縮 "wikilink")[音訊及](https://zh.wikipedia.org/wiki/音頻 "wikilink")[視訊訊號](https://zh.wikipedia.org/wiki/視頻 "wikilink")。HDMI可用於[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")、[DVD播放機](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")、[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[電視遊樂器](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")、綜合擴大機、數位音響與[電視機等設備](https://zh.wikipedia.org/wiki/電視機 "wikilink")。HDMI可以同時傳送音訊和視訊訊號，由於音訊和視訊訊號採用同一條線材，大大簡化系統線路的安裝難度。
 
 ## 簡述

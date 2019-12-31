@@ -1,3 +1,6 @@
+> 本文内容由[VLC多媒體播放器](https://zh.wikipedia.org/wiki/VLC多媒體播放器)转换而来。
+
+
 **VLC多媒體播放器**（），最初名為，是[VideoLAN](../Page/VideoLAN.md "wikilink")計劃的[开放源代码](../Page/开放源代码.md "wikilink")[多媒體播放器](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")。支援眾多音訊與視訊解碼器及檔案格式，並支援[DVD影音光碟](https://zh.wikipedia.org/wiki/DVD "wikilink")、[VCD影音光碟及各類](https://zh.wikipedia.org/wiki/Video_CD "wikilink")[串流協定](https://zh.wikipedia.org/wiki/串流 "wikilink")。它也能作為[单播或](https://zh.wikipedia.org/wiki/单播 "wikilink")[多播](../Page/多播.md "wikilink")的串流伺服器在[IPv4](../Page/IPv4.md "wikilink")或[IPv6](../Page/IPv6.md "wikilink")的高速網路連線下使用。调用[FFmpeg](../Page/FFmpeg.md "wikilink")計劃的解碼器與[程式庫使其有播放多媒體檔案及加密DVD影碟的功能](https://zh.wikipedia.org/wiki/程式庫 "wikilink")。
 
 ## 历史

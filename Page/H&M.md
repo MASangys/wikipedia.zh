@@ -1,3 +1,6 @@
+> 本文内容由[H\&M](https://zh.wikipedia.org/wiki/H\&M)转换而来。
+
+
 **海恩斯莫里斯服饰**（****，缩写为）是一間來自[瑞典](../Page/瑞典.md "wikilink")的[時裝](../Page/時裝.md "wikilink")公司，在世界多個國家，包括[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美國等多个国家設有分店](https://zh.wikipedia.org/wiki/美國 "wikilink")，产品以價廉聞名。H\&M由埃林·佩尔森（Erling Persson）在1947年于瑞典[韦斯特罗斯](../Page/韦斯特罗斯.md "wikilink")成立。臺灣分店的母公司在荷蘭註冊。
 
 ## 历史

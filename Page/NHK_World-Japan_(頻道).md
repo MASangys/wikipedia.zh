@@ -1,3 +1,6 @@
+> 本文内容由[NHK World-Japan \(頻道\)](https://zh.wikipedia.org/wiki/NHK World-Japan \(頻道\))转换而来。
+
+
 **NHK WORLD-JAPAN**（），旧称**NHK WORLD**或**NHK WORLD TV**，台湾方面称之为“**NHK新聞資訊台**”\[1\]，是[日本廣播协会](https://zh.wikipedia.org/wiki/日本廣播协会 "wikilink")（NHK）对日本國外[广播业务](https://zh.wikipedia.org/wiki/广播 "wikilink")（[NHK日本国际传媒](../Page/NHK日本国际传媒.md "wikilink")）所設的[英语](../Page/英语.md "wikilink")[国际新闻频道](https://zh.wikipedia.org/wiki/国际新闻频道 "wikilink")。该频道主要向日本以外的国家播出，但日本国内观众也可以通过[有线电视](../Page/有线电视.md "wikilink")、[IPTV](../Page/IPTV.md "wikilink")和NHK网站收看该频道\[2\]。
 
 ## 历史

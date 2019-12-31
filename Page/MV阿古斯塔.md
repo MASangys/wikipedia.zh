@@ -1,3 +1,6 @@
+> 本文内容由[MV阿古斯塔](https://zh.wikipedia.org/wiki/MV阿古斯塔)转换而来。
+
+
 [Mv_logo.gif](https://zh.wikipedia.org/wiki/File:Mv_logo.gif "fig:Mv_logo.gif") **MV AGUSTA**（中文名“奧古斯塔”）是一家[義大利的](https://zh.wikipedia.org/wiki/義大利 "wikilink")[摩托車](../Page/摩托車.md "wikilink")製造商。
 
 ## 歷史及概要

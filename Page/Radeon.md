@@ -1,3 +1,6 @@
+> 本文内容由[Radeon](https://zh.wikipedia.org/wiki/Radeon)转换而来。
+
+
 **AMD Radeon**（原**ATI Radeon**）是2000年以来，由[ATi公司制造的](https://zh.wikipedia.org/wiki/ATi "wikilink")[图像处理单元的品牌](https://zh.wikipedia.org/wiki/GPU "wikilink")。该品牌下的产品根据对[DirectX](../Page/DirectX.md "wikilink")不同版本的支持可划分为四组不同的产品，产品如[HyperZ版还可以根据](https://zh.wikipedia.org/wiki/HyperZ "wikilink")[流水线的数目及](../Page/流水线_\(计算机\).md "wikilink")[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[时钟频率](../Page/时钟频率.md "wikilink")进行进一步的划分。自2006年AMD收购ATI后，ATI Radeon更名为ATI Radeon HD，AMD发布Radeon HD6 Series时正式将Radeon系列更名为AMD Radeon HD，从AMD发布Radeon HD8 Series零售版时正式将Radeon HD系列更名AMD Radeon R(R5/R7/R9)。
 
 2017年起廢止原有AMD Radeon R(R5/R7/R9)的命名規則，新發行的遊戲顯卡全部採用Radeon rx abc，Radeon abc的命名規則。

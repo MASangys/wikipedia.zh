@@ -1,3 +1,6 @@
+> 本文内容由[WinFixer](https://zh.wikipedia.org/wiki/WinFixer)转换而来。
+
+
 **ErrorSafe**是一個透過[互聯網廣告而安裝在用戶電腦的](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[間諜軟件](https://zh.wikipedia.org/wiki/間諜軟件 "wikilink")。由於它在網上已臭名昭著，所以經常以不同的名稱發行，例如：**WinFixer**或**WinAntiVirus** 。從2005年開始，這產品亦積極國際化，透過低成本的翻譯而製作其他語言的版本，以提高其市場「佔有率」。這軟件現時在網上的「強逼安裝」廣告，已被著名掃毒軟件[Kaspersky Anti-Virus界別為](https://zh.wikipedia.org/wiki/Kaspersky_Anti-Virus "wikilink")[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")\[1\]。
 
 ## WinFixer

@@ -1,3 +1,6 @@
+> 本文内容由[Rythem](https://zh.wikipedia.org/wiki/Rythem)转换而来。
+
+
 **RYTHEM**，是[日本](../Page/日本.md "wikilink")二人女子[創作歌手](../Page/創作歌手.md "wikilink")組合以及二重唱歌手。所屬的經紀公司是DESSE communications，所屬的唱片公司是[Sony Music Associated Records（日本索尼音樂娛樂旗下公司）](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 成員

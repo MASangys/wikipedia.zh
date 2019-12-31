@@ -1,3 +1,6 @@
+> 本文内容由[SPEED \(日本音樂團體\)](https://zh.wikipedia.org/wiki/SPEED \(日本音樂團體\))转换而来。
+
+
 **SPEED**，知名[日本](../Page/日本.md "wikilink")四人女子團體，於1990年代後期於日本達到顛峰，累計銷售達兩千萬並於當時創下多項紀錄。但於2000年3月31日閃電解散；製作人為。經紀事務所現名為[VISION FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")。
 
 於長達八年的休眠後，於2008年8月宣布開始完全重組復出。

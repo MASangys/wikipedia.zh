@@ -1,3 +1,6 @@
+> 本文内容由[假面骑士KABUTO](https://zh.wikipedia.org/wiki/假面骑士KABUTO)转换而来。
+
+
 《**假面騎士KABUTO**》（）從2006年1月29日到2007年1月21日在[朝日電視台](../Page/朝日電視台.md "wikilink")放映，每週日早上8:00-8:30播出，共49話。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第7部[平成](../Page/平成.md "wikilink")系列作品，也是假面騎士系列35週年紀念作。[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**[假面騎士KABUTO GOD SPEED LOVE](https://zh.wikipedia.org/wiki/假面騎士KABUTO_GOD_SPEED_LOVE "wikilink")**》於2006年8月5日上映。2008年12月6日，香港[無線翡翠台播畢](https://zh.wikipedia.org/wiki/無線翡翠台 "wikilink")《[幪面超人響鬼](../Page/幪面超人響鬼.md "wikilink")》後於同樣時段播出，譯名為《**-{幪面超人甲鬥王}-**》，以一開始就有兩種形態及開始就能高速移動為賣點。台灣自2009年1月5日至同年3月12日，每週一至五17:30-18:00在[卡通頻道](../Page/卡通頻道.md "wikilink")播出。口號為「**行天之道、總司一切\!\!**」及「**我是正義的\!\!**」(同第3話標題)。
 
 ## 本作特色

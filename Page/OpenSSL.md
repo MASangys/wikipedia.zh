@@ -1,3 +1,6 @@
+> 本文内容由[OpenSSL](https://zh.wikipedia.org/wiki/OpenSSL)转换而来。
+
+
 在-{zh-tw:[電腦網路](https://zh.wikipedia.org/wiki/電腦網路 "wikilink");zh-cn:[计算机网络](../Page/计算机网络.md "wikilink")}-上，**OpenSSL**是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[函式庫](../Page/函式庫.md "wikilink")套件，應用程式可以使用這個套件來進行安全通訊，避免竊聽，同時確認另一端連線者的身份。這個套件廣泛被應用在網際網路的網頁伺服器上。
 
 其主要[函式庫](../Page/函式庫.md "wikilink")是以[C語言所寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")，實作了基本的[加密](../Page/加密.md "wikilink")功能，實作了[SSL與TLS協定](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")。OpenSSL可以運行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、 [Microsoft Windows以及絕大多數](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[類Unix作業系統上](https://zh.wikipedia.org/wiki/類Unix "wikilink")（包括[Solaris](../Page/Solaris.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac OS X與各種版本的開放原始碼](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[BSD](../Page/BSD.md "wikilink")作業系統）。它也提供了一個移植版本，可以在[IBM i](https://zh.wikipedia.org/wiki/IBM_i "wikilink")（OS/400）上運作。

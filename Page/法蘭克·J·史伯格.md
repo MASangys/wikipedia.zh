@@ -1,3 +1,6 @@
+> 本文内容由[法蘭克·J·史伯格](https://zh.wikipedia.org/wiki/法蘭克·J·史伯格)转换而来。
+
+
 **法蘭克·朱利安·史伯格**（，），美國發明家兼海軍軍官，對[電動機](https://zh.wikipedia.org/wiki/電動機 "wikilink")、[電氣化鐵路](../Page/電氣化鐵路.md "wikilink")和[升降機發展有貢獻](https://zh.wikipedia.org/wiki/升降機 "wikilink")。他促進了[都市化](https://zh.wikipedia.org/wiki/都市化 "wikilink")：更好的運輸系統使城市的大小合理增加，改良[升降機技術幫助了](https://zh.wikipedia.org/wiki/升降機 "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")發展，繼而令商業發展更密集。他有「電力牽引之父」之稱。
 
 [Theatrical_District,_Richmond,_Virginia,_1923.jpg](https://zh.wikipedia.org/wiki/File:Theatrical_District,_Richmond,_Virginia,_1923.jpg "fig:Theatrical_District,_Richmond,_Virginia,_1923.jpg")的[有轨电车系統便是史伯格的作品](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")\]\]

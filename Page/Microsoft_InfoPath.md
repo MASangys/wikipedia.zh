@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft InfoPath](https://zh.wikipedia.org/wiki/Microsoft InfoPath)转换而来。
+
+
 **Microsoft InfoPath**是用來開發[XML](../Page/XML.md "wikilink")為本用戶表格的應用程式。於2003年末首次發布作為[微軟Office](../Page/Microsoft_Office.md "wikilink") 2003套餐程式的一部分。InfoPath主要特點是它對自訂的XML概要支援，以創作和查驗XML文件的能力。它可透過[MSXML](../Page/MSXML.md "wikilink")與[SOAP工具包利用](https://zh.wikipedia.org/wiki/SOAP "wikilink")[XML Web Services連接到外部系統](../Page/Web服务.md "wikilink") ，並且後端和中間層系統可設定來利用Web Services標準如[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")，[UDDI](https://zh.wikipedia.org/wiki/UDDI "wikilink")，以及[WSDL](../Page/WSDL.md "wikilink")來溝通。另外，因為InfoPath文件是基於XML的，它可從外部資料庫資源調用資料綁定到表格控制元件而非InfoPath本身。
 
 这裡有一个例子可以说明InfoPath可以用来做什么：用户在他们的笔记本上使用InfoPath离线填写一张表单。InfoPath可以检查这张表单里一些字段的合法性，用户可以附加一个数字签名。然后用户可以连接到服务器，提交表单（以XML形式），等待上级的批准。当用户连接到服务器时，表单模板可以被自动更新。

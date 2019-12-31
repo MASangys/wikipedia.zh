@@ -1,3 +1,6 @@
+> 本文内容由[ADO海牙](https://zh.wikipedia.org/wiki/ADO海牙)转换而来。
+
+
 [ADO_Den_Haag_Stadion,_Forepark.jpg](https://zh.wikipedia.org/wiki/File:ADO_Den_Haag_Stadion,_Forepark.jpg "fig:ADO_Den_Haag_Stadion,_Forepark.jpg") **ADO海牙**（**ADO**全名是*Alles Door Oefening*，*Everything Through Practice*，意思是*每件事都要經過訓練*）是[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[海牙](../Page/海牙.md "wikilink")的一間主要球會。球會的主場位於新建的[海牙體育場](https://zh.wikipedia.org/wiki/海牙體育場 "wikilink")（ADO Den Haag Stadion），擁有15,000個座位。主場球衣的顏色為黃色和綠色。
 
 球會先前稱為FC海牙（FC Den Haag），而ADO則表示球會業餘隊的分支。雖然海牙市是荷蘭傳統三大城市之一，但ADO海牙的成就卻無法和[阿積士和](https://zh.wikipedia.org/wiki/阿積士 "wikilink")[飛燕諾](../Page/飛燕諾.md "wikilink")在荷蘭的成就相比。而和這兩間球會的競爭，經常引起雙方的球迷衝突。但是，由於和阿積士間的衝突比和飛燕諾的多，所以當阿積士和飛燕諾的球迷發生衝突時，ADO的球迷通常會比較傾向飛燕諾的一邊。

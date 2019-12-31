@@ -1,3 +1,6 @@
+> 本文内容由[维生素K](https://zh.wikipedia.org/wiki/维生素K)转换而来。
+
+
 [Phylloquinone_structure.svg](https://zh.wikipedia.org/wiki/File:Phylloquinone_structure.svg "fig:Phylloquinone_structure.svg") [Menaquinone.svg](https://zh.wikipedia.org/wiki/File:Menaquinone.svg "fig:Menaquinone.svg") **維生素K**是指具[萘醌基的衍生物](https://zh.wikipedia.org/wiki/萘醌基 "wikilink")2-甲萘醌，是人類的[維生素](https://zh.wikipedia.org/wiki/維生素 "wikilink")，具[疏水性](../Page/疏水性.md "wikilink")。它是一些特定[蛋白質轉譯後所必需的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")，尤其是血液凝固中必備的蛋白質。維生素K<sub>2</sub>（甲萘醌(Menaquinone)和四烯甲萘醌(Menatetrenone)）通常在動物[腸中由](https://zh.wikipedia.org/wiki/腸 "wikilink")[細菌製造](https://zh.wikipedia.org/wiki/細菌 "wikilink")，因此缺乏維生素K是極為罕見的，除非腸道有嚴重損傷。除天然的维生素K<sub>1</sub>、K<sub>2</sub>外，亦有人工合成的维生素K<sub>3</sub>、K<sub>4</sub>。
 
 ## 物理性质

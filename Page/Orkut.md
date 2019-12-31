@@ -1,3 +1,6 @@
+> 本文内容由[Orkut](https://zh.wikipedia.org/wiki/Orkut)转换而来。
+
+
 [Aparência_visual_do_'novo_orkut'.png](https://zh.wikipedia.org/wiki/File:Aparência_visual_do_'novo_orkut'.png "fig:Aparência_visual_do_'novo_orkut'.png")
 
 **Orkut**（中文非正式名：我酷，偶酷）是[Google](../Page/Google.md "wikilink")推出的[社会性网络服务](../Page/社会性软件.md "wikilink")。Orkut是以创建它的Google工程师**Orkut Buyukkokten**的名字命名的，通过这一服务，用户可以在互联网上建立一个虚拟社会关系网。目前大多數使用者來自[巴西](../Page/巴西.md "wikilink")及[印度](../Page/印度.md "wikilink")。2014年6月30日，Google宣布Orkut於同年9月30日關閉服務。\[1\]

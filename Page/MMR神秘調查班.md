@@ -1,3 +1,6 @@
+> 本文内容由[MMR神秘調查班](https://zh.wikipedia.org/wiki/MMR神秘調查班)转换而来。
+
+
 《**MMR神秘調查班**》（）是日本漫畫，作者為[石垣雄規](https://zh.wikipedia.org/wiki/石垣雄規 "wikilink")。1990年至1999年於[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》上不定期連載，全套共13卷。\[1\]\[2\]
 
 ## 概要

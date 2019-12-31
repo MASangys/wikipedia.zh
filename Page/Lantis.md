@@ -1,3 +1,6 @@
+> 本文内容由[Lantis](https://zh.wikipedia.org/wiki/Lantis)转换而来。
+
+
 **Lantis股份有限公司**（Lantis，一部分的CD上記載為Lantis Records Co.,Ltd.）原是與[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[聲優](../Page/聲優.md "wikilink")相關的[唱片公司](../Page/唱片公司.md "wikilink")，為[萬代](../Page/萬代.md "wikilink")影視的[子公司](../Page/子公司.md "wikilink")，實際上擔任[萬代南夢宮集團的音樂軟體事業](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")。現已與[萬代影視](../Page/萬代影視.md "wikilink")一起被[萬代南夢宮控股重組為新的子公司](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")，但仍保留Lantis的厂牌。
 
 公司名稱為《[魔法陣都市](../Page/魔法陣都市.md "wikilink")》原作者[麻宮騎亞](../Page/麻宮騎亞.md "wikilink")所命名\[1\]。取自傳說大陸[亞特蘭提斯](https://zh.wikipedia.org/wiki/亞特蘭提斯 "wikilink")（Atlantis），寄予公司繁榮的期望\[2\]。

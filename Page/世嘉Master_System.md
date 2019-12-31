@@ -1,3 +1,6 @@
+> 本文内容由[世嘉Master System](https://zh.wikipedia.org/wiki/世嘉Master System)转换而来。
+
+
 **SEGA Master System**（簡稱*SMS*）是[SEGA在](https://zh.wikipedia.org/wiki/SEGA "wikilink")1987年在[日本](../Page/日本.md "wikilink")（1986年在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")）推出的8位元家用遊戲機，原型机是**SEGA Mark III**。在北美发售的版本包括称为「Sega Base System」的仅附带单手柄的版本和称为「Sega Master System」的附带双手柄和光枪的版本。很快Master System就佔了本系統的大宗，成了其正式名字。當時 Master System 的推出是為了與[任天堂](../Page/任天堂.md "wikilink")[紅白機相抗衡](https://zh.wikipedia.org/wiki/紅白機 "wikilink")。其在欧洲和巴西市场获得了一定的成功，将世嘉带到了可与任天堂抗衡的位置。但在北美和日本地区却没有这样的成功。
 
 后来的 [Game Gear](../Page/Game_Gear.md "wikilink") 正是SMS的缩小版，只是还需要卡带转接器才能玩 SMS 的游戏。

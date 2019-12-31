@@ -1,3 +1,6 @@
+> 本文内容由[Windows預先安裝環境](https://zh.wikipedia.org/wiki/Windows預先安裝環境)转换而来。
+
+
 **Windows预先安装环境**（），简称或，是[Microsoft Windows的輕量版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，主要提供[個人電腦開發商](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")（主要為[OEM廠商](../Page/代工生产.md "wikilink")）、[工作站](../Page/工作站.md "wikilink")、[伺服器打造客製化的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[作業系統環境](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，或系統離線時進行[故障排除來使用](https://zh.wikipedia.org/wiki/排错 "wikilink")，以取代格式較舊的[MS-DOS](../Page/MS-DOS.md "wikilink")。其可理解为Windows的[Live CD或子系統](../Page/Live_CD.md "wikilink")，系統核心採用32位元/64位元。由於不大，因此便於儲存在[光盘](../Page/光碟.md "wikilink")、[隨身碟等各種可攜式](https://zh.wikipedia.org/wiki/隨身碟 "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")。
 
 Windows PE最初是設計給個人電腦開發商使用，以便於電腦生產時將Windows入內，但目前也以[捆包的方式提供給一般的](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")[軟體開發者使用](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")，目前從[Windows XP以及之後的Windows公開版本都有支援](../Page/Windows_XP.md "wikilink")。

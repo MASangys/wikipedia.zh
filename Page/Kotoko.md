@@ -1,3 +1,6 @@
+> 本文内容由[Kotoko](https://zh.wikipedia.org/wiki/Kotoko)转换而来。
+
+
 **KOTOKO**（），本名\[1\]，是一位[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")，出生於[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")，血型A型。身高150公分。
 
 ## 簡歷

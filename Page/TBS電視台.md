@@ -1,3 +1,6 @@
+> 本文内容由[TBS電視台](https://zh.wikipedia.org/wiki/TBS電視台)转换而来。
+
+
 **株式會社TBS電視**（，），通稱**TBS**、**TBS電視台**（），是[日本](../Page/日本.md "wikilink")一家以[關東地方](../Page/關東地方.md "wikilink")為播出區域的[無線](../Page/地面電視.md "wikilink")[電視臺](https://zh.wikipedia.org/wiki/電視臺 "wikilink")，為日本五大[電視聯播網](../Page/電視聯播網.md "wikilink")之一的[JNN之](../Page/日本新聞網_\(TBS\).md "wikilink")[核心局](../Page/核心局.md "wikilink")。1955年4月1日開播，當時為[東京放送](https://zh.wikipedia.org/wiki/東京放送 "wikilink")（今[東京放送控股](../Page/東京放送控股.md "wikilink")）主要的經營業務之一；現在的[公司](../Page/公司.md "wikilink")[法人](../Page/法人.md "wikilink")則成立於2000年3月21日，為東京放送控股的全資[子公司](../Page/子公司.md "wikilink")。
 
 ## 沿革

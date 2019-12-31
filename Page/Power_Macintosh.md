@@ -1,3 +1,6 @@
+> 本文内容由[Power Macintosh](https://zh.wikipedia.org/wiki/Power Macintosh)转换而来。
+
+
 [Power_Mac_G5_hero_left.jpg](https://zh.wikipedia.org/wiki/File:Power_Mac_G5_hero_left.jpg "fig:Power_Mac_G5_hero_left.jpg")。\]\]
 
 **Power Macintosh**（或簡稱**Power Mac**、**PPC Mac**，少部分中文使用者以直譯稱之為：**威力麥金塔**），是由美商[蘋果電腦公司](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")（今[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")）所設計生產的桌上型[個人電腦系列產品](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。

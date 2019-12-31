@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA PureVideo](https://zh.wikipedia.org/wiki/NVIDIA PureVideo)转换而来。
+
+
 **PureVideo**是[nVidia的提高视频播放質素技術](https://zh.wikipedia.org/wiki/nVidia "wikilink")。在[GeForce 6系列开始支援](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")。能硬體加速视频播放，減少耗用CPU資源。该功能使用硬件在前端（解码）过程和后段过程（后处理）过程中协助。特别是，PureVideo可以充分地执行[MPEG-2](../Page/MPEG-2.md "wikilink")渲染的绝大多数工作，以及WMV9渲染的大量工作。
 
 支援平台方面，[Microsoft Windows已經可以完全使用該功能](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。其他平台例如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")和[Solaris](../Page/Solaris.md "wikilink")，[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")180版本驅動程式開始新增**[VDPAU](../Page/VDPAU.md "wikilink")** [API接口](https://zh.wikipedia.org/wiki/API "wikilink")，這相當於在Linux上實現PureVideo功能。配合[MPlayer](../Page/MPlayer.md "wikilink")和NVIDIA提供的修正檔，就可以實現硬體加速\[1\]。支援的顯示卡必須是[GeForce 8或之後的產品](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")。在此之前，NVIDIA使用（其中一個X-Video输出模块）實現相似功能，但此計劃最終停止了更新。

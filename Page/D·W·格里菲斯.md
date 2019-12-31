@@ -1,3 +1,6 @@
+> 本文内容由[D·W·格里菲斯](https://zh.wikipedia.org/wiki/D·W·格里菲斯)转换而来。
+
+
 [The_adventures_of_Dollie.webm](https://zh.wikipedia.org/wiki/File:The_adventures_of_Dollie.webm "fig:The_adventures_of_Dollie.webm") **大衛·卢埃林·沃克·格里菲斯**（[英语](../Page/英语.md "wikilink")：****，），[美国](../Page/美国.md "wikilink")[电影导演](https://zh.wikipedia.org/wiki/电影导演 "wikilink")，代表作是备受争议的《[一个国家的诞生](https://zh.wikipedia.org/wiki/一个国家的诞生 "wikilink")》（1915年）以及随后的《[忍無可忍](../Page/忍無可忍.md "wikilink")》（1916年）\[1\]，两部影片曾分别入选1952年英国《[影像與聲音](https://zh.wikipedia.org/wiki/影像與聲音 "wikilink")》杂志评出的十部世界电影杰作、1958年[布鲁塞尔](../Page/布鲁塞尔.md "wikilink")国际博览会评选的“世界电影十二佳片”。
 
 [美國電影學會曾分別在](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")1998年、2007年評選[百年百大電影](../Page/AFI百年百大電影.md "wikilink")（AFI's 100 Years... 100 Movies）、[百年百大電影（10週年版）](../Page/AFI百年百大電影.md "wikilink")。《[一个国家的诞生](https://zh.wikipedia.org/wiki/一个国家的诞生 "wikilink")》曾列在1998年的百年百大電影名單第44名，但是在[百年百大電影（10週年版）退出前一百名之外](../Page/AFI百年百大電影.md "wikilink")，不過《[忍無可忍](../Page/忍無可忍.md "wikilink")》在[百年百大電影（10週年版）名列第](../Page/AFI百年百大電影.md "wikilink")49名。兩部影片分別是兩份名單裡年代最早的電影。

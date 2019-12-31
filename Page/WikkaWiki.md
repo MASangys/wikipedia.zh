@@ -1,3 +1,6 @@
+> 本文内容由[WikkaWiki](https://zh.wikipedia.org/wiki/WikkaWiki)转换而来。
+
+
 **WikkaWiki**是一个用[PHP](../Page/PHP.md "wikilink")语言编写的轻量级[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，后台数据使用[MySQL](../Page/MySQL.md "wikilink")数据库存储。WikkaWiki是WakkaWiki引擎的一个分支变体，主要特点是高速、可伸缩性和安全。这个引擎符合GNU公共许可协议GPL。
 
 ## 歷史

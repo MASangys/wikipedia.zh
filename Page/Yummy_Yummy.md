@@ -1,3 +1,6 @@
+> 本文内容由[Yummy Yummy](https://zh.wikipedia.org/wiki/Yummy Yummy)转换而来。
+
+
 《**Yummy Yummy**》（，中國大陸譯名：**美味風雲**）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共30集，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，監製[王心慰](../Page/王心慰.md "wikilink")。
 
 劇集特別之處，在於是香港無綫電視和[新加坡](../Page/新加坡.md "wikilink")[新傳媒合作的劇集](https://zh.wikipedia.org/wiki/新傳媒 "wikilink")。除了用上香港、新加坡兩地演員之外，劇集亦在香港、新加坡和[中國](../Page/中國.md "wikilink")[珠海三地取景](https://zh.wikipedia.org/wiki/珠海 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[MAD片](https://zh.wikipedia.org/wiki/MAD片)转换而来。
+
+
 **MAD**（），它是[電玩文化](https://zh.wikipedia.org/wiki/電玩 "wikilink")、[動漫](../Page/動漫.md "wikilink")文化、[同人文化界別中的](../Page/同人_\(ACG\).md "wikilink")[多媒體作品](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。一般作品為一段有關的影片[剪輯](../Page/剪輯.md "wikilink")，配以作者喜歡的音樂，近似[同人MV形式的存在](../Page/动画音乐录像.md "wikilink")。不同的地方是MAD片的重點在於影片，對有關動畫或電玩[致敬](../Page/致敬.md "wikilink")；而相對的，同人MV的重點則放在音樂之上。當然亦有一些MAD片是只作聲音的剪輯或只有畫面的剪輯，嚴格而言亦可算作MAD的。
 
 ## MAD起源

@@ -1,3 +1,6 @@
+> 本文内容由[Marginal Prince —月桂樹的王子們—](https://zh.wikipedia.org/wiki/Marginal Prince —月桂樹的王子們—)转换而来。
+
+
 [Majipuri.jpg](https://zh.wikipedia.org/wiki/File:Majipuri.jpg "fig:Majipuri.jpg") 《**Marginal Prince —邊境王子-月桂樹的王子們—**》（）是[日本](../Page/日本.md "wikilink")[手機平台的一款](https://zh.wikipedia.org/wiki/手機 "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，2005年8月開始配信，目前於[NTT DoCoMo的](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")[i-mode平台與](https://zh.wikipedia.org/wiki/i-mode "wikilink")[au的](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")[EZWeb平台展開服務](https://zh.wikipedia.org/wiki/EZWeb "wikilink")。嶄新的系統與豐富的故事性獲得玩家的廣大好評。本作獲選為第9回[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")審查委員會特別推薦作品，在女性向遊戲界是首例。此外也改編成[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")，2006年10月開始放送。
 
 ## 概要

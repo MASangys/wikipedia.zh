@@ -1,3 +1,6 @@
+> 本文内容由[OpenSPARC](https://zh.wikipedia.org/wiki/OpenSPARC)转换而来。
+
+
 [OpenSPARC開放原碼社群網站.png](https://zh.wikipedia.org/wiki/File:OpenSPARC開放原碼社群網站.png "fig:OpenSPARC開放原碼社群網站.png")
 
 **OpenSPARC**是一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")（Open Source）專案，該專案於2005年12月由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所發起成立，成立之初先由該公司釋出[UltraSPARC T1處理器在電路設計上的](../Page/UltraSPARC_T1.md "wikilink")[原始程式碼](../Page/源代码.md "wikilink")（Source Code），如此可以使軟硬體的開發設計者（及開發商）能更快速容易的取得該處理器的架構原理與相關技術資料，進而更快開發出呼應支援此架構的軟硬體應用及產品。

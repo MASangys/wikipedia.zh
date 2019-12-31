@@ -1,3 +1,6 @@
+> 本文内容由[Scilab](https://zh.wikipedia.org/wiki/Scilab)转换而来。
+
+
 **Scilab**是由[法國國立計算機及自動化研究院](https://zh.wikipedia.org/wiki/法國國立計算機及自動化研究院 "wikilink")（l'Institut national de recherche en informatique et en automatique，簡稱INRIA）和[法國國立橋樑學院](../Page/国立桥路学校.md "wikilink")（l'École nationale des ponts et chaussées，簡稱ENPC）开发的[开放源码的](https://zh.wikipedia.org/wiki/开放源码 "wikilink")[科学计算](https://zh.wikipedia.org/wiki/科学计算 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。Scilab一詞來源於英文「**Sci**entific **Lab**oratory」（科學實驗室）詞頭的合并。
 
 目前全世界使用Scilab的人數估計有1000,000人。Scilab也是以[矩陣作為主要的數據類型](https://zh.wikipedia.org/wiki/矩陣 "wikilink")，同時擁有豐富的繪圖功能。Scilab能處理包括[信號處理](https://zh.wikipedia.org/wiki/信號處理 "wikilink")、[統計分析](https://zh.wikipedia.org/wiki/統計分析 "wikilink")、[圖像增強](https://zh.wikipedia.org/wiki/影像處理 "wikilink")、數值[最佳化](https://zh.wikipedia.org/wiki/最佳化 "wikilink")、動態系統仿真等方面的問題。網路上也有不少人為它寫了許多延伸[函式庫](../Page/函式庫.md "wikilink")、豐富了它的功能。

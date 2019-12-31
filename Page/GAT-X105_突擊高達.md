@@ -1,3 +1,6 @@
+> 本文内容由[GAT-X105 突擊高達](https://zh.wikipedia.org/wiki/GAT-X105 突擊高達)转换而来。
+
+
 **GAT-X105 攻擊鋼彈（Strike）**為[日本](../Page/日本.md "wikilink")動畫[機動戰士鋼彈 SEED中虛構的有人式人型機械兵器](https://zh.wikipedia.org/wiki/機動戰士鋼彈_SEED "wikilink")（[MS](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")），劇中前半為主人翁[基拉·大和](../Page/基拉·大和.md "wikilink")之座機，後半改由[穆·拉·福拉卡搭乘](https://zh.wikipedia.org/wiki/穆·拉·弗拉加 "wikilink")。機體名「Strike」為英語「攻擊」之意，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。特徵為白、藍、紅此一歷來作品中Gundam Type常見的三色著色，以及換裝背包對應多樣戰場的泛用機設定。
 
 [gat-x105.jpg](https://zh.wikipedia.org/wiki/File:gat-x105.jpg "fig:gat-x105.jpg")

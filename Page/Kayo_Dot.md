@@ -1,3 +1,6 @@
+> 本文内容由[Kayo Dot](https://zh.wikipedia.org/wiki/Kayo Dot)转换而来。
+
+
 **Kayo Dot**是美國[前衛音樂團體](https://zh.wikipedia.org/wiki/前衛音樂 "wikilink")，由Toby River於2003年成立。同年，他們在[John Zorn的廠牌Tzadik下發行首張專輯](https://zh.wikipedia.org/wiki/John_Zorn "wikilink")*Choirs of the Eye*
 
 ## 歷年專輯

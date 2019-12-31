@@ -1,3 +1,6 @@
+> 本文内容由[My Little Airport](https://zh.wikipedia.org/wiki/My Little Airport)转换而来。
+
+
 **My Little Airport**是[香港](../Page/香港.md "wikilink")的二人獨立音樂組合，成員為林鵬(阿P)和區健瑩(Nicole)。當中的作品多為阿P所作，亦有少量歌曲為Nicole創作。My Little Airport的作品常配以英語及法語歌詞，\[1\]包括《Gigi Leung is dead》、《失落沮喪歌》、《讓我搭一班會爆炸的飛機》、《迷人的頸巾》及《牛頭角青年》等。
 
 ## 背景

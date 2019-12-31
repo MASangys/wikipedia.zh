@@ -1,3 +1,6 @@
+> 本文内容由[DataPower](https://zh.wikipedia.org/wiki/DataPower)转换而来。
+
+
 **DataPower**是一家[IBM](../Page/IBM.md "wikilink")公司所屬的公司，該公司主要在於研製與銷售[XML應用機](../Page/XML應用機.md "wikilink")（[XML appliance](../Page/XML應用機.md "wikilink")），此種設備專門用來執行與處理[XML](../Page/XML.md "wikilink")訊息。DataPower也是第一家針對[XSLT](../Page/XSLT.md "wikilink")加速處理而為產品[研製及運用](https://zh.wikipedia.org/wiki/研製 "wikilink")[特定應用積體電路](https://zh.wikipedia.org/wiki/特定應用積體電路 "wikilink")（[application-specific integrated circuit](../Page/特殊應用積體電路.md "wikilink")，簡稱：ASIC）的業者。
 
 DataPower很早即將自己定位在「XML處理」領域的創新業者，XML訊息如今已經成為[面向服务的体系结构](../Page/面向服务的体系结构.md "wikilink")（Service oriented architecture，簡稱：SOA）中的一大要件。

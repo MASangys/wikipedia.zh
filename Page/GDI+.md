@@ -1,3 +1,6 @@
+> 本文内容由[GDI+](https://zh.wikipedia.org/wiki/GDI+)转换而来。
+
+
 **图形设备接口**（\[1\]，縮寫 GDI）是[微软视窗系统提供的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")，也是其用来表徵图形对象、将图形对象传送给诸如[显示器](../Page/显示器.md "wikilink")、[打印机](../Page/打印机.md "wikilink")之类[输出设备](../Page/输出设备.md "wikilink")的核心组件。GDI 是视窗操作系统（[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）的三大核心部件（也称“子系统”）之一。**GDI+** 在 GDI 的基础上调整了编程模型，同时加入了渐变色画刷、[Alpha混合等功能](https://zh.wikipedia.org/wiki/Alpha合成#Alpha混合 "wikilink")。\[2\]
 
 GDI用来完成一些和绘制有关的工作，像直线或曲线的绘制，文字渲染，调色板控制。它不能用来直接绘制一些界面元素，像窗口、菜单等等，这些工作由用户子系统来完成，位于[user32.dll中](https://zh.wikipedia.org/wiki/Windows系統函式庫#User32.dll "wikilink")，它是建立在GDI之上的一个软件层。其他系统也有类似GDI的东西，比如[Macintosh的Quartz](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")（傳統的[QuickDraw](https://zh.wikipedia.org/wiki/QuickDraw "wikilink")），和GTK的GDK/Xlib。

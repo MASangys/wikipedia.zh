@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TQ9\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ9\))转换而来。
+
+
 :\*TQ9 其他化学工业
 
 ::\*TQ91 [农产物化学加工工业](https://zh.wikipedia.org/wiki/农产物化学 "wikilink")

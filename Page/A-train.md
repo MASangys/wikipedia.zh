@@ -1,3 +1,6 @@
+> 本文内容由[A-train](https://zh.wikipedia.org/wiki/A-train)转换而来。
+
+
 A列車（遊戲）}}
 
 **A-train**（）是專指[日立製作所](../Page/日立製作所.md "wikilink")以[鋁合金](../Page/鋁合金.md "wikilink")大型[擠出加工型材而成的車輛系統](https://zh.wikipedia.org/wiki/擠出加工 "wikilink")，並以此來製造[鐵道車輛的商標](https://zh.wikipedia.org/wiki/鐵道車輛 "wikilink")，當中的「A」是指Advanced、Amenity、Ability、Aluminum。 [JR_West_683-0_Series_Kinkito_W31.jpg](https://zh.wikipedia.org/wiki/File:JR_West_683-0_Series_Kinkito_W31.jpg "fig:JR_West_683-0_Series_Kinkito_W31.jpg")

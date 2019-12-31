@@ -1,3 +1,6 @@
+> 本文内容由[Trillian](https://zh.wikipedia.org/wiki/Trillian)转换而来。
+
+
 **Trillian**是一個由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[軟件公司](https://zh.wikipedia.org/wiki/軟件 "wikilink")[Cerulean Studios所創造](https://zh.wikipedia.org/wiki/Cerulean_Studios "wikilink")[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。它兼容[ICQ](../Page/ICQ.md "wikilink")、[MSN Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")、[雅虎通](https://zh.wikipedia.org/wiki/雅虎通 "wikilink")、[IRC](../Page/IRC.md "wikilink")、[AOL Instant Messenger等各大即時通訊軟件](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")，使得用戶可以只使用一個軟件同時連接不同即時通訊服務的聯繫人。其商業版的插件更兼容許多其他的即時通訊服務。
 
 2000年7月1日，最初公佈時的Trillian是一個免費的IRC使用者端。其第一個商業版本（Trillian Pro 1.0）在2002年9月10日公佈銷售。現時有兩種版本，Basic基本版和Pro商業版，分別以免費和收費方式發放。收費版有更多功能。2006年11月21日，Cerulean Studios宣布即將發放Trillian Astra（4.0），目前正在Alpha測試階段。

@@ -1,3 +1,6 @@
+> 本文内容由[Jigdo](https://zh.wikipedia.org/wiki/Jigdo)转换而来。
+
+
 **Jigdo**（"**Jig**saw **do**wnload"，曲线下载）是为[Debian](../Page/Debian.md "wikilink")套件设计的[下载](../Page/下载.md "wikilink")工具，可以从几个[镜像站点下载不同的文件](https://zh.wikipedia.org/wiki/镜像站点 "wikilink")，然后再生成一个CD映像。
 
 Jigdo的标准程序包括一个`jigdo-file`工具。用户要收集一个CD映像，先得下载一个非常小的*imagename.jigdo*文件。jigdo-file工具就将这个文件作为参数，从网络上获取相应的文件：*imagename.template*和一系列[.deb包](https://zh.wikipedia.org/wiki/deb "wikilink")（在.jigdo文件中已经列出）。然后通过[mkisofs工具生成一个ISO映像](https://zh.wikipedia.org/wiki/mkisofs "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[PPPoE](https://zh.wikipedia.org/wiki/PPPoE)转换而来。
+
+
 **PPPoE**（），[以太网](../Page/以太网.md "wikilink")上的点对点协议，是将[点对点协议](../Page/点对点协议.md "wikilink")（PPP）封装在[以太网](../Page/以太网.md "wikilink")（Ethernet）框架中的一种网络隧道协议。由于协议中集成PPP协议，所以实现出传统[以太网](../Page/以太网.md "wikilink")不能提供的[身份验证](https://zh.wikipedia.org/wiki/身份验证 "wikilink")、[加密](../Page/加密.md "wikilink")以及[压缩等功能](../Page/数据压缩.md "wikilink")，也可用于[纜線數據機](https://zh.wikipedia.org/wiki/纜線數據機 "wikilink")（cable modem）和[数位用户线路](https://zh.wikipedia.org/wiki/数位用户线路 "wikilink")（DSL）等以[以太网](../Page/以太网.md "wikilink")协议向用户提供[接入服务的协议体系](https://zh.wikipedia.org/wiki/網路存取 "wikilink")。 本质上，它是一个允许在以太网[广播域中的两个以太网接口间建立点对点隧道的协议](https://zh.wikipedia.org/wiki/广播域 "wikilink")。
 
 以[Linux](../Page/Linux.md "wikilink")系统常用的[pppd为例](https://zh.wikipedia.org/wiki/pppd "wikilink")，支持[PPP接口上面的](../Page/点对点协议.md "wikilink")[IP](../Page/网际协议.md "wikilink")、[IPv6](../Page/IPv6.md "wikilink")和[IPX网络层协议](../Page/IP交换.md "wikilink")。

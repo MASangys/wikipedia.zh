@@ -1,3 +1,6 @@
+> 本文内容由[SECAM制式](https://zh.wikipedia.org/wiki/SECAM制式)转换而来。
+
+
 [PAL-NTSC-SECAM.svg](https://zh.wikipedia.org/wiki/File:PAL-NTSC-SECAM.svg "fig:PAL-NTSC-SECAM.svg") **SECAM制式**（），又称**塞康制**，意为"按顺序传送彩色与存储"，1966年由法国研制成功，它属于同时顺序制。
 
 在[信号传输过程中](https://zh.wikipedia.org/wiki/信号 "wikilink")，[亮度信号每行传送](https://zh.wikipedia.org/wiki/亮度 "wikilink")，而两个[色差](../Page/色差.md "wikilink")信号则逐行依次传送，即用行错开传输时间的办法来避免同时传输时所产生的串色以及由其造成的彩色失真。

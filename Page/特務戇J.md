@@ -1,3 +1,6 @@
+> 本文内容由[特務戇J](https://zh.wikipedia.org/wiki/特務戇J)转换而来。
+
+
 《**特務戇J**》（）是一部於2003年上映的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[喜劇電影](../Page/喜劇電影.md "wikilink")，由執導，也是《[戇豆先生](../Page/戇豆先生.md "wikilink")》[罗温·阿特金森主演的作品之一](../Page/路雲·雅堅遜.md "wikilink")。《特務戇J》与[罗温·阿特金森主演的](../Page/路雲·雅堅遜.md "wikilink")《憨豆先生》系列并没有任何联系，惟二者的主人公之扮演者为同一人且性格十分相似而得名。
 
 ## 剧情

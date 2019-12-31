@@ -1,3 +1,6 @@
+> 本文内容由[CLDC](https://zh.wikipedia.org/wiki/CLDC)转换而来。
+
+
 **CLDC** (**Connected Limited Device Configuration**) 是为运行在资源非常有限的设备（例如寻呼机或者手机）上的[J2ME应用程序制订的](https://zh.wikipedia.org/wiki/J2ME "wikilink")[架构](https://zh.wikipedia.org/wiki/架构 "wikilink")。规范内容包括目标机器的特性、[虚拟机规范和基本的API等等](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。 有1.0和1.1两个版本。
 
 ## 典型需求

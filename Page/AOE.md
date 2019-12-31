@@ -1,3 +1,6 @@
+> 本文内容由[AOE](https://zh.wikipedia.org/wiki/AOE)转换而来。
+
+
 **AOE**或**AoE**可以指：
 
   - （《[-{zh-cn:帝国时代; zh-tw:世紀帝國;}-](https://zh.wikipedia.org/wiki/世紀帝國 "wikilink")》），一種[即時戰略](../Page/即时战略游戏.md "wikilink")[電子遊戲](../Page/电子游戏.md "wikilink")

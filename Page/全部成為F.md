@@ -1,3 +1,6 @@
+> 本文内容由[全部成為F](https://zh.wikipedia.org/wiki/全部成為F)转换而来。
+
+
 ，是[日本](../Page/日本.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")作家[森博嗣](../Page/森博嗣.md "wikilink")之「[犀川&萌繪系列](https://zh.wikipedia.org/wiki/犀川&萌繪系列 "wikilink")」的第一本著作。日語原文由[講談社於](https://zh.wikipedia.org/wiki/講談社 "wikilink")1996年出版，中譯本由尖端於2005年出版。《全部成為F》曾獲第一屆[梅菲斯特賞](https://zh.wikipedia.org/wiki/梅菲斯特賞 "wikilink")（）。
 
 ## 劇情簡介

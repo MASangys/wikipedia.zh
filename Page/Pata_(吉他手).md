@@ -1,3 +1,6 @@
+> 本文内容由[Pata \(吉他手\)](https://zh.wikipedia.org/wiki/Pata \(吉他手\))转换而来。
+
+
 **PATA**（），本名**石塚智昭**，皆知其擔任流行[重金屬樂團](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[X JAPAN節奏吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")。出身於[日本](../Page/日本.md "wikilink")[千葉縣](../Page/千葉縣.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")。有**石塚(大)先生**(在日文中**先生**即**老師**之意)、以及**赤地藏**等暱稱。[台灣的歌迷對他的暱稱多為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**大叔**。
 
 ## PATA一名的由來

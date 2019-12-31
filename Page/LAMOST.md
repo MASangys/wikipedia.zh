@@ -1,3 +1,6 @@
+> 本文内容由[LAMOST](https://zh.wikipedia.org/wiki/LAMOST)转换而来。
+
+
 [光学望远镜主镜尺寸比较.svg](https://zh.wikipedia.org/wiki/File:光学望远镜主镜尺寸比较.svg "fig:光学望远镜主镜尺寸比较.svg") **大天区面积多目标光纤光谱天文望远镜**（，****），是[中国大陆在](https://zh.wikipedia.org/wiki/中国 "wikilink")[国家天文台](../Page/中国科学院国家天文台.md "wikilink")[兴隆观测站的一种大型](https://zh.wikipedia.org/wiki/兴隆观测站 "wikilink")[天文望远镜](https://zh.wikipedia.org/wiki/天文望远镜 "wikilink")，位于[河北省](../Page/河北省.md "wikilink")[承德市](../Page/承德市.md "wikilink")境内。LAMOST和传统天文[望远镜的不同之处是](https://zh.wikipedia.org/wiki/望远镜 "wikilink")，它可以对较大的[天区范围](https://zh.wikipedia.org/wiki/天区 "wikilink")（20[平方度](https://zh.wikipedia.org/wiki/平方度 "wikilink")）内的4000个目标的[光谱进行长时间的跟踪积分记录](https://zh.wikipedia.org/wiki/光谱 "wikilink")（积分时间可至1.5小时），在1.5小时曝光时间内以1纳米的光谱分辨率可以观测到20.5等的暗弱天体的光谱。
 
 在2010年4月17日，大天区面积多目标光纤光谱天文望远镜被正式冠名为“**[郭守敬](../Page/郭守敬.md "wikilink")望远镜**”。

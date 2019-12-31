@@ -1,3 +1,6 @@
+> 本文内容由[FON](https://zh.wikipedia.org/wiki/FON)转换而来。
+
+
 [FON.svg](https://zh.wikipedia.org/wiki/File:FON.svg "fig:FON.svg") [FON_Logo.png](https://zh.wikipedia.org/wiki/File:FON_Logo.png "fig:FON_Logo.png") **FON Technology S.L.**是在[英國登記立案的](https://zh.wikipedia.org/wiki/英國 "wikilink")[公司](../Page/公司.md "wikilink")，由馬丁·法薩夫思奇（）所創辦，於2006年開始推行全球[無線網路建置計畫](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。
 
 ## 簡介

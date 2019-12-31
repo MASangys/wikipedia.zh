@@ -1,3 +1,6 @@
+> 本文内容由[J.D. Edwards](https://zh.wikipedia.org/wiki/J.D. Edwards)转换而来。
+
+
 **J.D. Edwards**是[軟體公司](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[Y型大廈](https://zh.wikipedia.org/wiki/Y型大廈)转换而来。
+
+
 [King_Lam_Estate.JPG](https://zh.wikipedia.org/wiki/File:King_Lam_Estate.JPG "fig:King_Lam_Estate.JPG")的Y型大廈佈局\]\]
 
 **Y型大廈**（**Trident block**）是[香港公共房屋](../Page/香港公共房屋.md "wikilink")大廈的一種標準型大廈設計，分為Y1型、Y2型、Y3型及Y4型，於1984年至1992年期間落成的[公共屋邨](../Page/香港公共屋邨.md "wikilink")（尤其是納入[租者置其屋計劃](../Page/租者置其屋計劃.md "wikilink")的公共屋邨，即可拆售公屋）及[居者有其屋](https://zh.wikipedia.org/wiki/居者有其屋 "wikilink")（居屋）最為常見。

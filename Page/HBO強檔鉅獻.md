@@ -1,3 +1,6 @@
+> 本文内容由[HBO強檔鉅獻](https://zh.wikipedia.org/wiki/HBO強檔鉅獻)转换而来。
+
+
 **HBO HiTS（HBO強檔鉅獻）**在2006年3月16日和[HBO Family同時成為](https://zh.wikipedia.org/wiki/HBO_Family "wikilink")[HBO Asia頻道系列之一](https://zh.wikipedia.org/wiki/HBO#HBO_Asia "wikilink")。這個頻道只在[亞洲播放](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[HBO](../Page/HBO.md "wikilink")並沒有此頻道。HBO HiTS專門播放著名巨星及導演所參與的大製作和熱門賣座的荷里活電影。HBO HiTS每週精選七套全新電影，而為免觀眾錯過電影，更會多次重播這些片集。在[香港](../Page/香港.md "wikilink")，[now寬頻電視在啟播同日引入](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，並根據在2005年8月中與HBO簽訂長期獨家播放協議，在2006年7月1日獨家播放此頻道。
 
 ## 節目與短片

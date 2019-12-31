@@ -1,3 +1,6 @@
+> 本文内容由[MacBook Pro](https://zh.wikipedia.org/wiki/MacBook Pro)转换而来。
+
+
 **MacBook Pro**是[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2006年1月開始推出的[Mac](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")系列，現已推出到第四代。它是繼[iMac後第二款取代以](https://zh.wikipedia.org/wiki/iMac "wikilink")[PowerBook G4生產線的](../Page/PowerBook_G4.md "wikilink")[英特爾核心](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")。它也是[MacBook家族中的高端機型](https://zh.wikipedia.org/wiki/MacBook家族 "wikilink")，雖然在此之前已有17英寸版本但已經停產并只保留13以及15寸的產品。
 
 2006年1月11日由蘋果公司時任總裁[史蒂夫·喬布斯在](https://zh.wikipedia.org/wiki/史蒂夫·喬布斯 "wikilink")上發布，並於同年2月正式出售。第一代的MacBook Pro外在類似用了PowerBook G4，但其實是用了[Intel Core處理器](https://zh.wikipedia.org/wiki/酷睿 "wikilink")，而不是一貫沿用的[PowerPC G4的晶片](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")。15英寸的機型於2006年1月發布，而17英寸則於4月發布，兩款機型於同年10月推出[Core 2 Duo處理器的更新版本](https://zh.wikipedia.org/wiki/Core_2_Duo "wikilink")。

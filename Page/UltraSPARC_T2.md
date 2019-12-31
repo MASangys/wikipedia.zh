@@ -1,3 +1,6 @@
+> 本文内容由[UltraSPARC T2](https://zh.wikipedia.org/wiki/UltraSPARC T2)转换而来。
+
+
 **UltraSPARC T2**（研發代號：**Niagara II**）是[昇陽電腦](../Page/昇陽電腦.md "wikilink")所研發的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，是一顆[多核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")（執行核）、[多线程](../Page/多线程.md "wikilink")（多執行緒）的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，采用[开放架构](https://zh.wikipedia.org/wiki/开放架构 "wikilink")。UltraSPARC T2的前一款處理器為[UltraSPARC T1](../Page/UltraSPARC_T1.md "wikilink")。
 
 UltraSPARC T2衍生自[UltraSPARC系列微處理器](../Page/SPARC.md "wikilink")，這顆處理器內可以有8個CPU核心，且每個核心最多可同時執掌、處理8個執行緒，如此UltraSPARC T2處理器在最理想狀態下可同時執行64個執行緒，而且，每個核心也有自屬的[浮點運算單元](https://zh.wikipedia.org/wiki/浮點運算單元 "wikilink")（[FPU](https://zh.wikipedia.org/wiki/FPU "wikilink")）。同時[加密](../Page/加密.md "wikilink")、解密相關的執行處理單元也將由單核提升成多核。T2將使用65奈米製程，而且L2[快取記憶體增到](https://zh.wikipedia.org/wiki/快取記憶體 "wikilink")4MB.

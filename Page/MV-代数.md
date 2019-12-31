@@ -1,3 +1,6 @@
+> 本文内容由[MV-代数](https://zh.wikipedia.org/wiki/MV-代数)转换而来。
+
+
 在纯[数学](../Page/数学.md "wikilink")分支[抽象代数](../Page/抽象代数.md "wikilink")中，**MV-代数**（多值代数）是带有[二元运算](../Page/二元运算.md "wikilink") \(\oplus\)、[一元运算](https://zh.wikipedia.org/wiki/一元运算 "wikilink") \(\neg\) 和常量 \(0\) 的满足特定公理的[代数结构](../Page/代数结构.md "wikilink")。[多值逻辑](../Page/多值逻辑.md "wikilink")是 MV-代数的[模型](../Page/模型论.md "wikilink")。
 
 ## 定义

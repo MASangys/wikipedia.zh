@@ -1,3 +1,6 @@
+> 本文内容由[Google搜索](https://zh.wikipedia.org/wiki/Google搜索)转换而来。
+
+
 **Google搜尋**是由[Google公司推出的一个](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")，它是互聯網上最大、影响最广泛的搜索引擎。Google每日透過不同的服務，處理来自世界各地超過30億次的查詢。
 
 除了搜尋網頁外，Google亦提供搜尋圖像、[新聞組](https://zh.wikipedia.org/wiki/新聞組 "wikilink")、新聞網頁、地圖、影片的服務。2005年6月，Google已儲存超過80億個網頁，1億3千萬張圖片，以及超過1億的新聞組訊息 - 總計大概10億4千萬個項目。它也[缓存](../Page/缓存.md "wikilink")了编入索引中的绝大多数网页的内容。

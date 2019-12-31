@@ -1,3 +1,6 @@
+> 本文内容由[Skyliner](https://zh.wikipedia.org/wiki/Skyliner)转换而来。
+
+
 **Skyliner**（）是一列往返於[東京](../Page/東京都.md "wikilink")[上野](../Page/上野.md "wikilink")與[成田國際機場之間的](https://zh.wikipedia.org/wiki/成田國際機場 "wikilink")[特急列車](https://zh.wikipedia.org/wiki/特急列車 "wikilink")，由[京成電鐵](../Page/京成電鐵.md "wikilink")營運，主要行駛[成田機場線](../Page/成田機場線.md "wikilink")（）。
 
 ## 服務

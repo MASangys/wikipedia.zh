@@ -1,3 +1,6 @@
+> 本文内容由[Corsair](https://zh.wikipedia.org/wiki/Corsair)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Corsair_Chinese.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Corsairlogo.svg "fig:缩略图") **美商海盗船**\[1\]（Corsair Components, Inc.）是一家[美國电脑硬件及外设公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，位於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[佛利蒙](https://zh.wikipedia.org/wiki/佛利蒙 "wikilink")，於1994年由 Don Lieberman、John Beekley 與 Andy Paul創立。它的商標是一排風格獨特的[帆](../Page/帆.md "wikilink")，推測來自 16 至 19 世紀作為[海盗](../Page/海盗.md "wikilink")象徵的帆船，因此中文称为**海盗船**。
 
 ## 历史

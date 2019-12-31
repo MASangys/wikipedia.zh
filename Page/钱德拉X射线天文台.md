@@ -1,3 +1,6 @@
+> 本文内容由[钱德拉X射线天文台](https://zh.wikipedia.org/wiki/钱德拉X射线天文台)转换而来。
+
+
 [Chandra_X-ray_Observatory.jpg](https://zh.wikipedia.org/wiki/File:Chandra_X-ray_Observatory.jpg "fig:Chandra_X-ray_Observatory.jpg") **钱德拉X射线天文台**（，缩写为），是[美国宇航局](https://zh.wikipedia.org/wiki/美国宇航局 "wikilink")（NASA）于1999年发射的一颗[X射线天文卫星](../Page/X射线天文卫星.md "wikilink")，以[美国](../Page/美国.md "wikilink")籍[印度](../Page/印度.md "wikilink")物理学家[苏布拉马尼扬·钱德拉塞卡](../Page/苏布拉马尼扬·钱德拉塞卡.md "wikilink")命名，為[大型轨道天文台计划](../Page/大型轨道天文台计划.md "wikilink")的第三颗卫星，目的是观测天体的[X射线](../Page/X射线.md "wikilink")辐射。其特点是兼具极高的空间分辨率和谱分辨率，被认为是[X射线天文学](../Page/X射线天文学.md "wikilink")上具有里程碑意义的空间望远镜，标志着X射线天文学从测光时代进入了光谱时代。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[维生素D](https://zh.wikipedia.org/wiki/维生素D)转换而来。
+
+
 **維他命D**也称**抗佝偻病維他命**，是一类脂溶性[維他命](https://zh.wikipedia.org/wiki/維他命 "wikilink")，属[类固醇化合物](https://zh.wikipedia.org/wiki/类固醇 "wikilink")。在人类所需的维他命中，维他命D非常特殊，是一种[激素](../Page/激素.md "wikilink")的前体，而且人一天只要暴露在陽光下10分鐘，人體自身即可合成足夠的维他命D<sub>3</sub>。\[1\]
 
 [血浆维生素D水平](https://zh.wikipedia.org/wiki/血浆 "wikilink")（來自）可以反映[紫外線B照射皮肤合成的和食物摄入的维生素D的总水平](https://zh.wikipedia.org/wiki/紫外線 "wikilink")，而现在认为，人体自身合成的维生素D是人体内获取维生素D的主要途径。[美国饮食营养摄入参考中维生素D摄入标准是假设没有日照](https://zh.wikipedia.org/wiki/美国饮食营养摄入参考 "wikilink")，所有维生素D都取自食物摄取而制定的。

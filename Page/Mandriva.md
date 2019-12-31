@@ -1,3 +1,6 @@
+> 本文内容由[Mandriva](https://zh.wikipedia.org/wiki/Mandriva)转换而来。
+
+
 **Mandriva** S.A. 是一間[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")[軟體公司](https://zh.wikipedia.org/wiki/軟體公司 "wikilink")，企業總部位於[巴黎](../Page/巴黎.md "wikilink")，研發總部位於巴西[庫里奇巴](../Page/庫里奇巴.md "wikilink")。他們創造了[Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")，並負責維持與研發。
 
 它的前身是創建於1998年的**MandrakeSoft**。曾有七十個員工，其中45個是工程師，在法國、美國及巴西都有辦公室。

@@ -1,3 +1,6 @@
+> 本文内容由[Treo 650](https://zh.wikipedia.org/wiki/Treo 650)转换而来。
+
+
 [Treo.jpg](https://zh.wikipedia.org/wiki/File:Treo.jpg "fig:Treo.jpg") **Treo 650**是[Palm](../Page/Palm.md "wikilink")公司推出的一款採用[Palm OS的](../Page/Palm_OS.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。擁有[移动电话](../Page/移动电话.md "wikilink")及[PDA功能](https://zh.wikipedia.org/wiki/PDA "wikilink")，曾在国际上獲得獎項。
 
 ## 基本情况

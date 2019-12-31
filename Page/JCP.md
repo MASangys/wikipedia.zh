@@ -1,3 +1,6 @@
+> 本文内容由[JCP](https://zh.wikipedia.org/wiki/JCP)转换而来。
+
+
 **JCP**（**Java Community Process**）成立于1998年，是使有兴趣的各方参与定义[Java](../Page/Java.md "wikilink")的特征和未来版本的正式过程。
 
 JCP使用**JSR**（Java规范请求，*Java Specification Requests*）作为正式规范文档，描述被提议加入到Java体系中的的规范和技术。

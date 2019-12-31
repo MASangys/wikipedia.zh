@@ -1,3 +1,6 @@
+> 本文内容由[ArtRage](https://zh.wikipedia.org/wiki/ArtRage)转换而来。
+
+
 **ArtRage**由[Ambient Design Ltd開發的收費點陣](https://zh.wikipedia.org/wiki/Ambient_Design_Ltd "wikilink")[影像處理軟體](https://zh.wikipedia.org/wiki/影像處理軟體 "wikilink")，主要是容許用戶利用Tablet PC的優勢，用電腦筆在畫面上虛擬作畫。軟件盡量提供現實繪畫中的各種環境及工具，使用戶能夠隨心所欲的作畫。**ArtRage**曾經是一套免費軟件，後來改為收費軟件，售價為USD$19.9。但仍保留功能較少的Demo示範版本免費下載。
 
 ## 版本

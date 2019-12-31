@@ -1,3 +1,6 @@
+> 本文内容由[F-35閃電II戰鬥機](https://zh.wikipedia.org/wiki/F-35閃電II戰鬥機)转换而来。
+
+
 **F-35閃電II式**（）是一款由[美国](../Page/美国.md "wikilink")[洛克希德·馬丁公司设计及生产的单座单发动机](https://zh.wikipedia.org/wiki/洛克希德·馬丁公司 "wikilink")[三軍通用](https://zh.wikipedia.org/wiki/三軍 "wikilink")[多用途戰機](../Page/多用途戰機.md "wikilink")，[劳斯莱斯股份有限公司參與了引擎設計](https://zh.wikipedia.org/wiki/劳斯莱斯股份有限公司 "wikilink")\[1\]，是遠、近距離空對空戰鬥能力僅次於[F-22的戰鬥機種](https://zh.wikipedia.org/wiki/F-22 "wikilink")\[2\]，2011年7月14日，首架F-35A正式交付美国空军開始服役。開發廠商洛克希德·馬丁以[X-35验证机競標](https://zh.wikipedia.org/wiki/X-35验证机 "wikilink")[聯合攻擊戰鬥機計畫](https://zh.wikipedia.org/wiki/聯合攻擊戰鬥機計畫 "wikilink")（JSF）並獲選成為續存設計，進而開發出F-35。此機種主要用於[密接支援](../Page/密接支援.md "wikilink")、目标[轰炸](https://zh.wikipedia.org/wiki/轰炸 "wikilink")、防空截击等多种任务，並因此發展出3种主要的衍生版本，包括采用传统[跑道](../Page/跑道.md "wikilink")起降的F-35A，短距離起飛／[垂直起降机种F](https://zh.wikipedia.org/wiki/垂直起降 "wikilink")-35B，與作為[航空母舰舰载机的F](https://zh.wikipedia.org/wiki/舰载机 "wikilink")-35C。
 
 F-35属于具有[匿蹤設計的](../Page/低可偵測性技術.md "wikilink")[第五代戰鬥機](https://zh.wikipedia.org/wiki/第五代戰鬥機 "wikilink")，作戰半徑超過1,000公里。

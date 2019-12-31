@@ -1,3 +1,6 @@
+> 本文内容由[RPG製作大師](https://zh.wikipedia.org/wiki/RPG製作大師)转换而来。
+
+
 **RPG製作大師**，是一款[角色扮演遊戲製作軟體](../Page/電子角色扮演遊戲.md "wikilink")，宗旨為不懂[程式設計的一般玩家也能做出RPG遊戲](https://zh.wikipedia.org/wiki/程式設計 "wikilink")。最先由[日本](../Page/日本.md "wikilink")的[ASCII公司於](../Page/ASCII_\(公司\).md "wikilink")[超級任天堂](../Page/超級任天堂.md "wikilink")主機上開發，之後轉變為[Enterbrain](../Page/Enterbrain.md "wikilink")公司繼承開發。
 
 ## 概要

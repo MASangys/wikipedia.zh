@@ -1,3 +1,6 @@
+> 本文内容由[C大調](https://zh.wikipedia.org/wiki/C大調)转换而来。
+
+
 **C大調**是一個於C音開始的音樂的[大調](https://zh.wikipedia.org/wiki/大調 "wikilink")，組成的音有**C**、**D**、**E**、**F**、**G**、**A**、**B**及**C**。C大調是一個沒有[升號和](https://zh.wikipedia.org/wiki/升號 "wikilink")[降號](../Page/降號.md "wikilink")的[調](https://zh.wikipedia.org/wiki/調 "wikilink")。
 
 <score>

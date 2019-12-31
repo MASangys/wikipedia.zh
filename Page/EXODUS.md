@@ -1,3 +1,6 @@
+> 本文内容由[EXODUS](https://zh.wikipedia.org/wiki/EXODUS)转换而来。
+
+
 **EXODUS**是宇多田光以[Utada的名義發表的首張英文專輯](../Page/宇多田光.md "wikilink")，分别在2004年9月8日和10月5日於日本和美國發行。本作相較於之前的三張日文專輯，曲風可謂轉換甚大。
 
 ## 概要

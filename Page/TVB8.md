@@ -1,3 +1,6 @@
+> 本文内容由[TVB8](https://zh.wikipedia.org/wiki/TVB8)转换而来。
+
+
 **TVB8**是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司擁有的一條以](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[國語廣播為主而經營的衛星頻道](https://zh.wikipedia.org/wiki/國語 "wikilink")，該頻道主要以每日播放娛樂、資訊、音樂及戲劇節目。
 
 於1998年12月7日，**電視廣播(衛星)有限公司**成立，是唯一一個為進軍海外中文衛星電視市場，以國語廣播為主的**頻道**開播，該頻道及同屬的[星河頻道獲](../Page/TVB星河頻道.md "wikilink")[中華人民共和國國家廣播電影電視總局批准在中國大陸境内落地收看](../Page/国家广播电影电视总局.md "wikilink")。

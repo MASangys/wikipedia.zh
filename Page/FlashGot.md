@@ -1,3 +1,6 @@
+> 本文内容由[FlashGot](https://zh.wikipedia.org/wiki/FlashGot)转换而来。
+
+
 **FlashGot** 是为 [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 和基于[Mozilla Application Suite的](../Page/Mozilla_Application_Suite.md "wikilink")[网页](https://zh.wikipedia.org/wiki/网页 "wikilink")[浏览器所开发的](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[扩展](../Page/Firefox扩展列表.md "wikilink") ("Extensions"，现称为 "Add-on's")，是基于[GPL发布的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink") (Freeware)，拥有四十多种各国语言版本。此附加组件（扩展）的作者 Giorgio Maone 亦开发了另一款热门的 Firefox 附加组件 : **[NoScript](../Page/NoScript.md "wikilink")**。
 
 **FlashGot** 允许 Firefox 等[浏览器使用大多数流行的外部下载管理器处理单一的和全部](https://zh.wikipedia.org/wiki/浏览器 "wikilink")("全部" 和 "选择")下载，支持 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"), [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"), [Linux](../Page/Linux.md "wikilink") 和 [FreeBSD](../Page/FreeBSD.md "wikilink") 系统。安装它之后，就可以在 [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 中像 [Internet Explorer](../Page/Internet_Explorer.md "wikilink") 一样在下载[链接](https://zh.wikipedia.org/wiki/链接 "wikilink")([URL](https://zh.wikipedia.org/wiki/URL "wikilink"))上使用右键菜单调用下载软件进行下载。

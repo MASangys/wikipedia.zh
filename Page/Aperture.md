@@ -1,3 +1,6 @@
+> 本文内容由[Aperture](https://zh.wikipedia.org/wiki/Aperture)转换而来。
+
+
 \-{}-
 
 **Aperture** 是由[苹果公司开发的一款图像处理](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[软件](../Page/软件.md "wikilink")。它运行于[OS X系统平台](https://zh.wikipedia.org/wiki/macOS "wikilink")，于2005年10月19日[纽约](../Page/纽约.md "wikilink")媒体活动中正式面世，旨在为专业[摄影师们在作品后期制作中起到辅助作用](https://zh.wikipedia.org/wiki/摄影师 "wikilink")，并于2005年11月发售。

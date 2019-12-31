@@ -1,3 +1,6 @@
+> 本文内容由[ADFGVX密碼](https://zh.wikipedia.org/wiki/ADFGVX密碼)转换而来。
+
+
 **ADFGVX密碼**是德軍在[第一次世界大戰中使用的欄塊密碼](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")。事實上，它是早先一種密碼 ADFGX 的增補版。1918年3月Fritz Nebel上校發明了這種密碼，並提倡使用。它結合了改良過的[Polybius方格](https://zh.wikipedia.org/wiki/Polybius方格 "wikilink")[替代密碼與單行](https://zh.wikipedia.org/wiki/替代密碼 "wikilink")[換位密碼](https://zh.wikipedia.org/wiki/換位密碼 "wikilink")。這個密碼以使用於密文當中的六個字母A、D、F、G、V、X命名。
 
 ## ADFGX 加密操作

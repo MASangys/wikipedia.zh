@@ -1,3 +1,6 @@
+> 本文内容由[BLEACH角色列表](https://zh.wikipedia.org/wiki/BLEACH角色列表)转换而来。
+
+
 BLEACH角色列表，介紹在久保帶人的漫畫作品《[BLEACH](../Page/BLEACH.md "wikilink")》中登場的人物。
 
 <small>※備註：香港版動畫配音有**[Animax](../Page/Animax.md "wikilink")**與**[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（TVB）**兩種不同的版本。</small>

@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-2005-BLG-390Lb](https://zh.wikipedia.org/wiki/OGLE-2005-BLG-390Lb)转换而来。
+
+
 **OGLE-2005-BLG-390Lb**是一顆[太陽系外行星](../Page/太陽系外行星.md "wikilink")，繞著[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")[OGLE-2005-BLG-390L](../Page/OGLE-2005-BLG-390L.md "wikilink")公轉。它位於[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，距離[地球](../Page/地球.md "wikilink")21,500 ± 3,300[光年](../Page/光年.md "wikilink")，其位置接近[銀河系的中心](https://zh.wikipedia.org/wiki/銀河系 "wikilink")。截至2006年1月，這顆行星是眾多系外行星當中，與地球最為相似的一個。
 
 這顆行星是由三個小組共同發現的，分別為PLANET/RoboNet、[OGLE和MOA](../Page/光學重力透鏡實驗.md "wikilink")，該發現於2006年1月25日公佈。科學家發現OGLE-2005-BLG-390Lb並未擁有[行星適居性](../Page/行星適居性.md "wikilink")\[1\]。

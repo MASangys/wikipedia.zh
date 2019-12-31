@@ -1,3 +1,6 @@
+> 本文内容由[ZGMF-X10A Freedom](https://zh.wikipedia.org/wiki/ZGMF-X10A Freedom)转换而来。
+
+
 **ZGMF-X10A Freedom 自由鋼彈**為[日本](../Page/日本.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[機動戰士鋼彈 SEED系列中登場](../Page/機動戰士GUNDAM_SEED.md "wikilink")，虛構的有人式人型機器兵器（[MS](https://zh.wikipedia.org/wiki/MS "wikilink")），主人翁[煌·大和於故事後半搭乘之座機](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")。機體名「Freedom」為[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「自由」之意，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。 [Zgmf-x10a.jpg](https://zh.wikipedia.org/wiki/File:Zgmf-x10a.jpg "fig:Zgmf-x10a.jpg")
 
 ## 開發經過

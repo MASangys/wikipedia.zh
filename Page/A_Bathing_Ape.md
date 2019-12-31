@@ -1,3 +1,6 @@
+> 本文内容由[A Bathing Ape](https://zh.wikipedia.org/wiki/A Bathing Ape)转换而来。
+
+
 [Bape_Store_Harajuku_2015.jpg](https://zh.wikipedia.org/wiki/File:Bape_Store_Harajuku_2015.jpg "fig:Bape_Store_Harajuku_2015.jpg")原宿Bape Store Harajuku總店\]\] [A_Bathing_Ape_Central_Hong_Kong.jpg](https://zh.wikipedia.org/wiki/File:A_Bathing_Ape_Central_Hong_Kong.jpg "fig:A_Bathing_Ape_Central_Hong_Kong.jpg")專門店（2006年至2011年），現址為上海商業銀行大廈\]\] **A Bathing Ape** (簡稱︰**Bape**，正式名稱為︰**A Bathing Ape in Lukewarm Water**)。是一個[日本](../Page/日本.md "wikilink")[時裝品牌](https://zh.wikipedia.org/wiki/服裝設計 "wikilink")，由[NIGO](../Page/NIGO.md "wikilink")（長尾智明）於1993年創辦，是[裏原宿](../Page/裏原宿.md "wikilink")的代表品牌之一，20。2011年由[香港](../Page/香港.md "wikilink")[I.T](../Page/I.T.md "wikilink")接任，近年亦以同一品牌開展音樂及飲食等業務。
 
 ## 創辦人簡介

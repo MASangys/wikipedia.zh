@@ -1,3 +1,6 @@
+> 本文内容由[NexGen](https://zh.wikipedia.org/wiki/NexGen)转换而来。
+
+
 [NexGen_Nx596-P90.jpg](https://zh.wikipedia.org/wiki/File:NexGen_Nx596-P90.jpg "fig:NexGen_Nx596-P90.jpg")
 
 **NexGen**是一家私人控股的[美国](../Page/美国.md "wikilink")[半導體公司](https://zh.wikipedia.org/wiki/半導體 "wikilink")，專門設計[x86相容處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，之後於1996年由[AMD所收併](https://zh.wikipedia.org/wiki/AMD "wikilink")。NexGen與他的競爭業者[Cyrix](../Page/Cyrix.md "wikilink")相同，都是[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")（[Fabless](https://zh.wikipedia.org/wiki/Fabless "wikilink")），必須倚賴[晶圓廠代為生產晶片](https://zh.wikipedia.org/wiki/晶圓廠 "wikilink")。NexGen過去是交由[IBM](../Page/IBM.md "wikilink")微電子部門代產。

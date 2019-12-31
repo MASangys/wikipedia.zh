@@ -1,3 +1,6 @@
+> 本文内容由[AMD顯示核心列表](https://zh.wikipedia.org/wiki/AMD顯示核心列表)转换而来。
+
+
 本列表包含由[AMD公司推出的顯示核心之基本資料](https://zh.wikipedia.org/wiki/AMD "wikilink")，包含其收購于[ATI的產品](../Page/冶天科技.md "wikilink")。內容只供參考。
 
 ## [DirectX](../Page/DirectX.md "wikilink")版本註釋

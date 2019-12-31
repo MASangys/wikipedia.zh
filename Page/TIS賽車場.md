@@ -1,3 +1,6 @@
+> 本文内容由[TIS賽車場](https://zh.wikipedia.org/wiki/TIS賽車場)转换而来。
+
+
 **TIS賽車場**（）位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[桃園市](https://zh.wikipedia.org/wiki/桃園市 "wikilink")[龍潭區](https://zh.wikipedia.org/wiki/龍潭區_\(桃園市\) "wikilink")（原桃園縣龍潭鄉）高原里，因此又被稱為**龍潭賽車場**或**龍潭TIS**（以下簡稱TIS）。
 
 TIS設立於1993年，是台灣第一個正規的[賽車](../Page/賽車.md "wikilink")場地。由台灣賽必威國際股份有限公司興建營運，[中華賽車會協助規劃](https://zh.wikipedia.org/wiki/中華賽車會 "wikilink")。TIS可供[房車](https://zh.wikipedia.org/wiki/汽車 "wikilink")、[機車](https://zh.wikipedia.org/wiki/機車 "wikilink")、小型賽車（Go-Kart）比賽，賽道全長1.85[公里](../Page/公里.md "wikilink")，寬10至15[公尺](https://zh.wikipedia.org/wiki/公尺 "wikilink")，八個[右彎](https://zh.wikipedia.org/wiki/右 "wikilink")，五個[左彎](https://zh.wikipedia.org/wiki/左 "wikilink")，全是[柏油鋪面](https://zh.wikipedia.org/wiki/柏油 "wikilink")，依用途分成四個賽道。TIS除了舉行比賽之外，平時也收費讓賽車愛好者進場練車，也是國際知名的賽車手（例如[日本](../Page/日本.md "wikilink")的[土屋圭市](../Page/土屋圭市.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")的Eric Carlsson等）到台灣表演車技的場地。

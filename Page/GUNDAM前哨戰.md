@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM前哨戰](https://zh.wikipedia.org/wiki/GUNDAM前哨戰)转换而来。
+
+
 **GUNDAM前哨戰**（ガンダム・センチネル、-{GUNDAM}- SENTINEL），是一部以[情境模型為插圖的](https://zh.wikipedia.org/wiki/模型#情境模型 "wikilink")[GUNDAM系列小說作品](../Page/GUNDAM系列作品.md "wikilink")。於1989年在大日本繪畫出版社所發行的月刊模型雜誌“Model Graphix”上連載，1990年以連載版故事為基礎，出版單行本小說「**-{GUNDAM}- SENTINEL: ALICE的懺悔**」
 
 ## 故事概要

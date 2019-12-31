@@ -1,3 +1,6 @@
+> 本文内容由[Xfce](https://zh.wikipedia.org/wiki/Xfce)转换而来。
+
+
 **Xfce**是[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")，用於[Unix與](https://zh.wikipedia.org/wiki/Unix "wikilink")[Unix-like作業系統](https://zh.wikipedia.org/wiki/Unix-like "wikilink")，如[Linux](../Page/Linux.md "wikilink")與[FreeBSD](../Page/FreeBSD.md "wikilink")。Xfce建基在[GTK+之上](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，它同時為程式設計者提供開發框架。Xfce使用[Xfwm作為預設的](https://zh.wikipedia.org/wiki/Xfwm "wikilink")[視窗管理器](https://zh.wikipedia.org/wiki/視窗管理器 "wikilink")，亦可搭配[Openbox](../Page/Openbox.md "wikilink")等其他視窗管理器協同運作。Xfce由許多彼此獨立的組件所構成，除了本身，還有第三方的程式使用Xfce的[程序庫](https://zh.wikipedia.org/wiki/程序庫 "wikilink")，如文字編輯器Mousepad、多媒體播放程式Parole與[終端模擬器](https://zh.wikipedia.org/wiki/終端模擬器 "wikilink")。
 
 ## 简介

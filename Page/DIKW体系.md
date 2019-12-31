@@ -1,3 +1,6 @@
+> 本文内容由[DIKW体系](https://zh.wikipedia.org/wiki/DIKW体系)转换而来。
+
+
 **DIKW體系**就是關於[資料](https://zh.wikipedia.org/wiki/資料 "wikilink")(**D**ata)、[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")(**I**nformation)、[知識](https://zh.wikipedia.org/wiki/知識 "wikilink")(**K**nowledge)及[智慧](../Page/智慧.md "wikilink")(**W**isdom)的體系。當中每一層比下一層賦予某些[特質](https://zh.wikipedia.org/wiki/特質 "wikilink")。資料層是最基本的。資訊層加入[內容](https://zh.wikipedia.org/wiki/內容 "wikilink")。知識層加入“如何去使用”，智慧層加入“什麼時候才用”。如此，**DIKW體系**是一個模型讓我們了解分析、重要性及概念工作上的極限。**DIKW體系**常用於資訊科學及知識管理。
 
 ## 歷史

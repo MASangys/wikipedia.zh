@@ -1,3 +1,6 @@
+> 本文内容由[Toshi](https://zh.wikipedia.org/wiki/Toshi)转换而来。
+
+
 **TOSHI**，本名**出山利三**（Toshimitsu Deyama），他是[X JAPAN的主音及創隊成員](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")，在樂團中擔任主唱的位置\[1\]。他的歌聲極富磁性，早期粗獷沙啞，後期高亢並富情感。
 
 ## 生涯

@@ -1,3 +1,6 @@
+> 本文内容由[TV戰士](https://zh.wikipedia.org/wiki/TV戰士)转换而来。
+
+
 **TV戰士**（**てれび戦士**，てれびせんし）是[NHK教育台受歡迎的節目](https://zh.wikipedia.org/wiki/NHK教育台 "wikilink")「[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")」中作為主角的青少年童星。
 
 本項目為了方便起見，也把TV戰士以外的經常性演出者一併記述在此。

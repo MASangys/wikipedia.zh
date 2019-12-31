@@ -1,3 +1,6 @@
+> 本文内容由[Windows Update](https://zh.wikipedia.org/wiki/Windows Update)转换而来。
+
+
 Windows Update是适用于[Windows 9x和](../Page/Windows_9x.md "wikilink")[Windows NT系列操作系统的](../Page/Windows_NT.md "wikilink")[Microsoft服务](../Page/微软.md "wikilink")，可自动通过Internet下载和安装[Microsoft Windows软件更新](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。该服务提供Windows的软件更新，以及各种Microsoft防病毒产品，包括[Windows Defender和](../Page/Windows_Defender.md "wikilink")[Microsoft Security Essentials](../Page/Microsoft_Security_Essentials.md "wikilink")。自成立以来，微软已推出两项服务扩展：微软系统更新和微软商务系统更新。前者推出了包括其他微软产品的核心服务，如[Microsoft Office和](../Page/Microsoft_Office.md "wikilink")[Microsoft Expression Studio](../Page/Microsoft_Expression_Studio.md "wikilink")。后者可用于[Windows 10的商业版](../Page/Windows_10.md "wikilink")，并且只有在经过严格测试后才允许推迟更新或接收更新。
 
 随着服务多年来的发展，其客户端软件也在不断发展。 十年来，该服务的主要客户端组件是Windows Update Web应用程序，只能在[Internet Explorer中运行](../Page/Internet_Explorer.md "wikilink")。 从[Windows Vista开始](../Page/Windows_Vista.md "wikilink")，主要客户端组件成为微软更新助手，是操作系统不可或缺的组件。

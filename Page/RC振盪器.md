@@ -1,3 +1,6 @@
+> 本文内容由[RC振盪器](https://zh.wikipedia.org/wiki/RC振盪器)转换而来。
+
+
 [電子振盪器主要利用LC](https://zh.wikipedia.org/wiki/振盪器 "wikilink")[儲能電路設計](https://zh.wikipedia.org/wiki/儲能電路 "wikilink")。所謂的LC儲能電路，是由[電感和](https://zh.wikipedia.org/wiki/電感 "wikilink")[電容](../Page/電容.md "wikilink")組成用來在振盪過程中儲存能量的電路。但是電子振盪器不一定要使用電感，而在振盪電路中的頻率選擇部分可以只用[電阻和電容構成](https://zh.wikipedia.org/wiki/電阻 "wikilink")。這種只用電阻和電容構成的振盪器稱為**RC振盪器**。
 
 \== 類型 == 依輸出波型是否為正弦波，可區分為[弦波振盪器與](https://zh.wikipedia.org/wiki/弦波振盪器 "wikilink")[非正弦波振盪器](https://zh.wikipedia.org/wiki/非正弦波振盪器 "wikilink")。

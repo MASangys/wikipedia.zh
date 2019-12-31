@@ -1,3 +1,6 @@
+> 本文内容由[XF5F戰鬥機](https://zh.wikipedia.org/wiki/XF5F戰鬥機)转换而来。
+
+
 **XF5F**[戰鬥機是](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")[格鲁门公司](../Page/格鲁门公司.md "wikilink")設計的一款試驗性雙發動機艦載戰鬥機，這架飛機同時也被[美國陸軍看中](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，改良成為[XP-50戰鬥機](https://zh.wikipedia.org/wiki/XP-50 "wikilink")，不過這兩架飛機都只處於試驗階段。官方正式名稱是**空中火箭**（Skyrocket）。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(G\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(G\))转换而来。
+
+
 ## 文化、科学、教育、体育
 
   - G0　[文化理论](https://zh.wikipedia.org/wiki/文化理论 "wikilink")

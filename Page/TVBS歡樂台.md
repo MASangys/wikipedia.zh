@@ -1,3 +1,6 @@
+> 本文内容由[TVBS歡樂台](https://zh.wikipedia.org/wiki/TVBS歡樂台)转换而来。
+
+
 **TVBS歡樂台**，是台灣TVBS旗下的娛樂節目頻道。
 
 ## 歷史

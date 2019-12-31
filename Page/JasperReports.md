@@ -1,3 +1,6 @@
+> 本文内容由[JasperReports](https://zh.wikipedia.org/wiki/JasperReports)转换而来。
+
+
 **JasperReports**是一個用[Java](../Page/Java.md "wikilink")開發的[開源的](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[程式庫](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，使用戶能夠透過它，利用Java語言來開發具有報告功能的程式。JasperReports的模板採用[XML](../Page/XML.md "wikilink")格式，從[JDBC資料庫中擷取合適的資料](https://zh.wikipedia.org/wiki/JDBC "wikilink")，並把資料在屏幕、打印機顯示，或以[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[HTML](../Page/HTML.md "wikilink")、[XLS](../Page/Microsoft_Excel.md "wikilink")、[CSV及](https://zh.wikipedia.org/wiki/CSV "wikilink")[XML](../Page/XML.md "wikilink")等各種格式儲存。
 
 JasperReports的報告模板可以以[iReport之類的工具來製作](https://zh.wikipedia.org/wiki/iReport "wikilink")，只要把報告儲存成XML格式，就可以讓JasperReport閱讀，然後再編譯成為.jasper檔。

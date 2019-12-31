@@ -1,3 +1,6 @@
+> 本文内容由[PC卡](https://zh.wikipedia.org/wiki/PC卡)转换而来。
+
+
 **PC卡**（舊稱PCMCIA）是可插入[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，提供额外功能的电子产品。
 
 最初是由「个人电脑储存卡国际联盟」（**P**ersonal **C**omputer **M**emory **C**ard **I**nternational **A**ssociation）设定了这种卡的标准，故命名为「**PCMCIA**」卡，根据它的[首字母缩略](https://zh.wikipedia.org/wiki/首字母缩略 "wikilink")，又被谐称为「人们记不住计算机产业缩略词」（People Can't Memorize Computer Industry Acronyms）或「个人电脑制造商不能创造出个新的缩略词」（Personal Computer Manufacturers Can't Invent Acronyms）。之后，此種介面卡的新版本称为「**CardBus**」。PCMCIA可也发展成为一种笔记本电脑的外设类别，成为「**新卡**」或「**快速卡**」。

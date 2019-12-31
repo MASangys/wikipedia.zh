@@ -1,3 +1,6 @@
+> 本文内容由[SQL注入](https://zh.wikipedia.org/wiki/SQL注入)转换而来。
+
+
 **SQL注入**（），也稱**SQL隱碼**或**SQL注碼**，是發生於應用程式與資料庫層的[安全漏洞](https://zh.wikipedia.org/wiki/安全漏洞 "wikilink")。簡而言之，是在輸入的字串之中夾帶[SQL](../Page/SQL.md "wikilink")指令，在設計不良的[程式當中忽略了字元檢查](../Page/计算机程序.md "wikilink")，那麼這些夾帶進去的惡意指令就會被[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")[伺服器誤認為是正常的SQL指令而執行](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，因此遭到破壞或是入侵。\[1\]
 
 有部份人認為SQL注入是只針對[Microsoft SQL Server而來](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，但只要是支援批次處理SQL指令的資料庫伺服器，都有可能受到此種手法的攻擊。

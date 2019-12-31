@@ -1,3 +1,6 @@
+> 本文内容由[Windows Media Video](https://zh.wikipedia.org/wiki/Windows Media Video)转换而来。
+
+
 **WMV**（**Windows Media Video**）是[微软公司开发的一组](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[數位](https://zh.wikipedia.org/wiki/數位 "wikilink")[影片编解码格式的通称](https://zh.wikipedia.org/wiki/影片 "wikilink")，它是[Windows Media架构下的一部分](../Page/Windows_Media.md "wikilink")。
 
 它最初是为低速率[流媒体](../Page/流媒体.md "wikilink")应用作为[专有编解码开发出来的](https://zh.wikipedia.org/wiki/专有 "wikilink")，但是2003年微软公司基于Windows Media Video第9版编解码起草了视频编解码规范并且提交给[SMPTE申请作为标准](https://zh.wikipedia.org/wiki/SMPTE "wikilink")。这个标准在2006年3月作为SMPTE 421M被正式批准，这样Windows Media Video 9编解码就不再是一个专有的技术。早期的編解码版本（7和8）仍然被认为是专有技术，因为它们不在SMPTE 421M标准的涵盖范围内。

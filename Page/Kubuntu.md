@@ -1,3 +1,6 @@
+> 本文内容由[Kubuntu](https://zh.wikipedia.org/wiki/Kubuntu)转换而来。
+
+
 **Kubuntu**，是眾多[Ubuntu](../Page/Ubuntu.md "wikilink")分支的一種，它採用[KDE Plasma桌面為其預設桌面環境](https://zh.wikipedia.org/wiki/Plasma_\(KDE\) "wikilink")。它和Ubuntu採用同樣的 軟體庫。基本上，Kubuntu和Ubuntu沒有太大的差異，只是預設桌面系統採用[KDE](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")，并非[Unity](../Page/Unity_\(使用者介面\).md "wikilink")。
 
 根據Kubuntu的Wiki，“Kubuntu的發行乃是為了讓那些想用Ubuntu但又不喜歡[Unity介面的用戶有一個KDE的桌面環境](../Page/Unity_\(使用者介面\).md "wikilink")。Kubuntu是建基於Ubuntu的強大而穩定的基礎，而且有一個穩定和可預期的發行週期。它將在新版KDE SC發行後發行新版。”

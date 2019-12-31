@@ -1,3 +1,6 @@
+> 本文内容由[新機動戰記GUNDAM W 無盡的華爾茲](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM W 無盡的華爾茲)转换而来。
+
+
 《**新機動戰記GUNDAM W：無盡的華爾茲**》（）是1997年發售的日本OVA作品共三集，後來剪輯成動畫電影《新機動戰記GUNDAM W Endless Waltz 特別篇》於1998年8月1日上映。故事承接《[新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的劇情。
 
 ## 故事背景

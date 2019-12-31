@@ -1,3 +1,6 @@
+> 本文内容由[Active Directory](https://zh.wikipedia.org/wiki/Active Directory)转换而来。
+
+
 **Active -{}-Directory**（简称**AD**。中国大陸譯名為「活動目錄」，台灣为維持英文不譯）是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows Server中](../Page/Windows_Server.md "wikilink")，負責架構中大型[網路環境的集中式](https://zh.wikipedia.org/wiki/網路 "wikilink")[目錄管理服務](https://zh.wikipedia.org/wiki/目錄服務 "wikilink")（Directory Services），在[Windows 2000 Server開始內建於Windows](https://zh.wikipedia.org/wiki/Windows_2000_Server "wikilink") Server產品中，它處理在組織中的網路物件，物件可以是使用者，群組，電腦，網域控制站，郵件，設定檔，組織單元，樹系等等，只要是在Active Directory結構定義檔（schema）中定義的物件，就可以儲存在Active Directory資料檔中，並利用[Active Directory Service Interface來存取](../Page/Active_Directory_Service_Interface.md "wikilink")，實際上，許多Active Directory的管理工具都是利用這個介面來呼叫並使用Active Directory的資料。
 
 Active Directory也被做為微軟部份[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[軟體與](https://zh.wikipedia.org/wiki/軟體 "wikilink")[網域構連的資料結構](https://zh.wikipedia.org/wiki/Windows_Server_Domain "wikilink")，例如[Microsoft Exchange Server 2003-2007](../Page/Microsoft_Exchange_Server.md "wikilink")，均使用AD來儲存其個人[信箱資料](https://zh.wikipedia.org/wiki/电子信箱 "wikilink")（透過建立新的Active Directory Schema），並將AD列為建置Exchange Server的必要條件。

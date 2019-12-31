@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(C\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(C\))转换而来。
+
+
 ## 社会科学总论
 
   - C0　[社会科学](../Page/社会科学.md "wikilink")理论与[方法论](https://zh.wikipedia.org/wiki/方法论 "wikilink")

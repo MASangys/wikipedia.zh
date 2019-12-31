@@ -1,3 +1,6 @@
+> 本文内容由[Device Bay](https://zh.wikipedia.org/wiki/Device Bay)转换而来。
+
+
 **Device Bay**是一種讓[電腦用的硬體設備能夠熱插拔](https://zh.wikipedia.org/wiki/電腦 "wikilink")、熱置換的一項規格[標準及規範技術](https://zh.wikipedia.org/wiki/標準 "wikilink")，這項標準是在1997年由當時的[康柏電腦](https://zh.wikipedia.org/wiki/康柏電腦 "wikilink")、[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")、[微軟三家業者所共同研究開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")，並打算在1998年下半年完成制訂並加以推行。不過Device Bay這項標準始終未能完成制訂，最後並且被放棄，而該規格技術的[官方網站也在](https://zh.wikipedia.org/wiki/官方網站 "wikilink")2001年中左右關閉、消失。
 
 ## 概述

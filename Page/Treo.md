@@ -1,3 +1,6 @@
+> 本文内容由[Treo](https://zh.wikipedia.org/wiki/Treo)转换而来。
+
+
 [Treo_300.jpg](https://zh.wikipedia.org/wiki/File:Treo_300.jpg "fig:Treo_300.jpg")
 
 **Treo**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Palm](../Page/Palm.md "wikilink")公司生產的[智能手機系列](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，原本由[Handspring](../Page/Handspring.md "wikilink")開發，在Palm[收購Handspring公司後](https://zh.wikipedia.org/wiki/收購 "wikilink")，全線改由Palm開發及生產。Treo是其中一個最受歡迎的[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")[手提電話系列](https://zh.wikipedia.org/wiki/手提電話 "wikilink")，功能包括個人數碼助理、[話音通訊](https://zh.wikipedia.org/wiki/話音 "wikilink")、[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[網頁](../Page/網頁.md "wikilink")瀏覽等，近年的型號亦包括[數碼相機](https://zh.wikipedia.org/wiki/數碼相機 "wikilink")。

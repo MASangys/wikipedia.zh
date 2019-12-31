@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM MS IGLOO](https://zh.wikipedia.org/wiki/機動戰士GUNDAM MS IGLOO)转换而来。
+
+
 **《机动战士GUNDAM MS IGLOO》**是2004年起，在[日本](../Page/日本.md "wikilink")松戶市[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")（[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")）美術館所放映的三部《[机动战士高达](https://zh.wikipedia.org/wiki/机动战士高达 "wikilink")》系列[宇宙世纪背景的](https://zh.wikipedia.org/wiki/宇宙世纪 "wikilink")3DCG影片，以故事／纪录片的形式，描述[一年戰爭中](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")[吉恩軍兵器開發部門與](https://zh.wikipedia.org/wiki/吉恩公国 "wikilink")“第603技术试验部隊”所测试的一些“失敗品”的故事。第一部為**《一年战争秘录》**。2005年底發售三話DVD，並且再追加企畫三話OVA，名為**《默示录0079》**，描寫主角們在大戰末期最終的戰鬥。
 
 目前，此系列的第二部**《MS IGLOO 2 重力战线》**的第一话《向那死神射击！》已于2008年10月24日发布，第二话《陆地王者，前进！》于2009年1月23日面世，第三话《敖德萨，钢铁风暴！》于2009年4月24日销售。《重力战线》将站在[联邦军的视角描述故事](https://zh.wikipedia.org/wiki/地球联邦 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Tseng Labs](https://zh.wikipedia.org/wiki/Tseng Labs)转换而来。
+
+
 **Tseng Laboratories, Inc.**（也稱為**Tseng Labs**或**TLI**，在台灣過去稱為**曾氏**）是一家研製[顯示晶片與](https://zh.wikipedia.org/wiki/顯示晶片 "wikilink")[IBM相容PC用控制晶片的公司](https://zh.wikipedia.org/wiki/IBM相容PC "wikilink")，其總部位在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[賓夕法尼亞州的](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[Newtown](https://zh.wikipedia.org/wiki/Newtown "wikilink")，該公司約在1980年代開始活躍，之後在1997年退出顯示、視訊、繪圖方面的業務。
 
 Tseng最為人所熟知的產品是[Tseng Labs ET3000](https://zh.wikipedia.org/wiki/Tseng_Labs_ET3000 "wikilink")、[Tseng Labs ET4000以及](https://zh.wikipedia.org/wiki/Tseng_Labs_ET4000 "wikilink")[Tseng Labs ET6000等](https://zh.wikipedia.org/wiki/Tseng_Labs_ET6000 "wikilink")[VGA相容的顯示晶片](https://zh.wikipedia.org/wiki/VGA "wikilink")，此在1990年－1995年（[Microsoft Windows 3.x時代](https://zh.wikipedia.org/wiki/Microsoft_Windows_3.x "wikilink")）間相當普及與受歡迎。且值得注意的是，該公司的ET4000家族能在使用[ISA](../Page/ISA.md "wikilink")匯流排下進行高速傳輸，而且還是用傳統的DRAM型[視訊記憶體](https://zh.wikipedia.org/wiki/視訊記憶體 "wikilink")（[Framebuffer](https://zh.wikipedia.org/wiki/Framebuffer "wikilink")）。

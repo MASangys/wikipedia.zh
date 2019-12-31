@@ -1,3 +1,6 @@
+> 本文内容由[Qoos](https://zh.wikipedia.org/wiki/Qoos)转换而来。
+
+
 [Qooslogo.gif](https://zh.wikipedia.org/wiki/File:Qooslogo.gif "fig:Qooslogo.gif")
 
 **澳門互-{}-聯網站（Qoos.com）**是[澳門](../Page/澳門.md "wikilink")的[網上討論區](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")，成立於2001年9月。該網站的核心服務為討論區服務。除此之外，還提供澳門新聞、線上遊戲、二手市場、網誌等服務，現為億亮傳媒集團旗下網站。

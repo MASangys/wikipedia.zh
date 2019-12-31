@@ -1,3 +1,6 @@
+> 本文内容由[Bogo排序](https://zh.wikipedia.org/wiki/Bogo排序)转换而来。
+
+
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**Bogo排序**（bogo-sort）是個既不實用又原始的[排序演算法](https://zh.wikipedia.org/wiki/排序演算法 "wikilink")，其原理等同將一堆卡片拋起，落在桌上後檢查卡片是否已整齊排列好，若非就再拋一次。其名字源自Quantum bogodynamics，又稱bozo sort、blort sort或猴子排序（參見[無限猴子定理](../Page/無限猴子定理.md "wikilink")）。
 
 ## 实现

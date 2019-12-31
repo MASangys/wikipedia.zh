@@ -1,3 +1,6 @@
+> 本文内容由[HBO溫馨家庭](https://zh.wikipedia.org/wiki/HBO溫馨家庭)转换而来。
+
+
 **HBO Family**（**HBO溫馨家庭**）在2006年3月16日和[HBO HiTS同時成為](https://zh.wikipedia.org/wiki/HBO_HiTS "wikilink")[HBO Asia頻道系列之一](https://zh.wikipedia.org/wiki/HBO#HBO_Asia "wikilink")。雖然與美國一樣專門播放合家歡電影，但HBO Asia的HBO Family並不會播放電視動畫系列。HBO Family也首創自選電影時段，觀眾可以於每星期上網投票從三部電影中選出該頻道在星期六其中一個時段播放的節目。在[香港](../Page/香港.md "wikilink")，[now寬頻電視在啟播同日引入](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，並根據在2005年8月中與HBO簽訂長期獨家播放協議，在2006年7月1日獨家播放此頻道。
 
 ## 重要節目時段

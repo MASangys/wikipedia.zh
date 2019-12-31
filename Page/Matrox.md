@@ -1,3 +1,6 @@
+> 本文内容由[Matrox](https://zh.wikipedia.org/wiki/Matrox)转换而来。
+
+
 **Matrox** Electronic Systems Ltd是一家[加拿大](../Page/加拿大.md "wikilink")公司，中文名为**迈创**。公司位在加拿大的[魁北克省](../Page/魁北克省.md "wikilink")（Quebec）南部的[多瓦勒](https://zh.wikipedia.org/wiki/多瓦勒 "wikilink")（Dorval）市，该公司专注于[个人计算机内的](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")[显示卡](../Page/显示卡.md "wikilink")，而创办人为Lorne Trottier与Branko Branko Matić，该公司的命名也来自于此：Matić的"Ma"与Trottier的"tro"，最后再加上x（x取自英文「excellence，优秀、卓越」的x）就成了Matrox。
 
 过去很长一段时间，Matrox的显卡一直有着最佳的2D显示效能，因此被ZD Davis的PC绘图视频测试软件认定为2D显示效能的测试基准，以Matrox的效能表现为100分，测试其它业者的显卡能获取几分。

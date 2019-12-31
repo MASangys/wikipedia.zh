@@ -1,3 +1,6 @@
+> 本文内容由[Neo Geo](https://zh.wikipedia.org/wiki/Neo Geo)转换而来。
+
+
 **Neo Geo AES**是[SNK](../Page/SNK.md "wikilink")公司发布的[家用游戏机](../Page/家用游戏机.md "wikilink")，在[16位元遊樂器中性能较強](https://zh.wikipedia.org/wiki/16位元 "wikilink")。發售時的宣傳標語為「將很棒的遊戲帶回家吧！」。
 
 因使用了與[NEO GEO MVS街機相同的機板和CPU](https://zh.wikipedia.org/wiki/NEO_GEO_MVS "wikilink")，軟體部份僅稍做些許變更，即可維持相同的品質移植到家用機使用。但也因此造成了机器极高的价格，影响了普及率。

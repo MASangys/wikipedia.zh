@@ -1,3 +1,6 @@
+> 本文内容由[大航海时代Online](https://zh.wikipedia.org/wiki/大航海时代Online)转换而来。
+
+
 [GVonline.jpg](https://zh.wikipedia.org/wiki/File:GVonline.jpg "fig:GVonline.jpg")
 
 是由[日本](../Page/日本.md "wikilink")[光荣](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")（KOEI）于2004年开发并进行公测的[MMORPG类网络版游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，是被誉为经典的单机版[模拟类游戏](https://zh.wikipedia.org/wiki/模拟类游戏 "wikilink")《[大航海时代](https://zh.wikipedia.org/wiki/大航海时代_\(游戏\) "wikilink")》系列的续编。

@@ -1,3 +1,6 @@
+> 本文内容由[松下Lumix系列](https://zh.wikipedia.org/wiki/松下Lumix系列)转换而来。
+
+
 [110917_Panasonic_Lumix_DMC-LC1_01s.jpg](https://zh.wikipedia.org/wiki/File:110917_Panasonic_Lumix_DMC-LC1_01s.jpg "fig:110917_Panasonic_Lumix_DMC-LC1_01s.jpg") [Panasonic_LUMIX_DMC-FX100_image.JPG](https://zh.wikipedia.org/wiki/File:Panasonic_LUMIX_DMC-FX100_image.JPG "fig:Panasonic_LUMIX_DMC-FX100_image.JPG") **Lumix**（徕美）是[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink")（松下電器）的[數位相機系列](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[品牌](../Page/品牌.md "wikilink")，于2001年推出\[1\]。此系列的數位相機特別之處為业内较早引入等效28mm[廣角](https://zh.wikipedia.org/wiki/廣角鏡 "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")（部分機種），使用独有的MEGA O.I.S.镜头防抖功能、高[感光度](../Page/感光度.md "wikilink")（部份機種有「至醒」[ISO功能](https://zh.wikipedia.org/wiki/ISO "wikilink")），多數此系列的數位相機的鏡頭都是由[萊卡](https://zh.wikipedia.org/wiki/萊卡 "wikilink")（Leica）授權設計及製造。
 
 2006年，松下公司推出[4/3系统的](https://zh.wikipedia.org/wiki/4/3系统 "wikilink")，使得Lumix品牌加入可换镜头数码相机；在2008年也由而进入[微4/3系统范畴](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")。

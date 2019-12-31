@@ -1,3 +1,6 @@
+> 本文内容由[NAC比達](https://zh.wikipedia.org/wiki/NAC比達)转换而来。
+
+
 [Breda_stadion.jpg](https://zh.wikipedia.org/wiki/File:Breda_stadion.jpg "fig:Breda_stadion.jpg") **NAC比達**（**NAC Breda**），一般稱為**NAC**或**比達**。是一間位於[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[布雷達的足球會](https://zh.wikipedia.org/wiki/布雷達 "wikilink")，成立於1912年，目前在[荷甲聯賽作賽](https://zh.wikipedia.org/wiki/荷甲 "wikilink")。主場為[弗吉菲爾姆球場](https://zh.wikipedia.org/wiki/弗吉菲爾姆球場 "wikilink")（Rat Verlegh Stadion），可容納19,000人。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[年代MUCH台](https://zh.wikipedia.org/wiki/年代MUCH台)转换而来。
+
+
 **年代MUCH台**，是臺灣[年代集團](../Page/年代集團.md "wikilink")旗下所屬一有線衛星頻道。
 
 ## 年代MUCH臺的歷史

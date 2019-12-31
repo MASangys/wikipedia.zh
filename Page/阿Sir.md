@@ -1,3 +1,6 @@
+> 本文内容由[阿Sir](https://zh.wikipedia.org/wiki/阿Sir)转换而来。
+
+
 **阿Sir**，通俗讀音沒有帶有[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「r」音（[國際音標](../Page/國際音標.md "wikilink")：/<sub>3</sub>　sœ<sub>4</sub>/），此外也有讀作**阿蛇**（[國際音標](../Page/國際音標.md "wikilink")：/<sub>3</sub>　s<sub>4</sub>/），被認為是[中國大陸口音](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。「阿Sir」是[香港](../Page/香港.md "wikilink")和其他[粵語使用地區人宜的](https://zh.wikipedia.org/wiki/粵語 "wikilink")[慣用語](https://zh.wikipedia.org/wiki/慣用語 "wikilink")，借用自[英文的](https://zh.wikipedia.org/wiki/英文 "wikilink")[Sir](../Page/爵士.md "wikilink")〈是對[男士的雅稱](https://zh.wikipedia.org/wiki/男士 "wikilink")，以表示向被稱呼者表達尊重以及敬意，用法不制限於有[爵士](../Page/爵士.md "wikilink")[名銜者](https://zh.wikipedia.org/wiki/名銜 "wikilink")〉，但是有一點與英文不同的，是英語中不限制於對年長者使用此稱呼，年少者亦可使用，例如英語中[侍應對著年青甚至男孩顧客](https://zh.wikipedia.org/wiki/侍應 "wikilink")，亦可以稱為Sir，在香港則通常不會這樣使用，較年少者通常稱為[先生](../Page/先生.md "wikilink")。
 
 ## 日常用法

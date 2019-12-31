@@ -1,3 +1,6 @@
+> 本文内容由[Soler](https://zh.wikipedia.org/wiki/Soler)转换而来。
+
+
 **Soler**是一對來自[澳門](../Page/澳門.md "wikilink")並於[香港](../Page/香港.md "wikilink")發展的男子[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，在[台灣的官方](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文團名為](https://zh.wikipedia.org/wiki/中文 "wikilink")**太陽系**，但大部分台灣人還是直稱Soler。兩位成員是一對[歐](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞混血](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[雙胞胎](../Page/雙胞胎.md "wikilink")，哥哥名Julio Acconci（[中文名](../Page/漢名.md "wikilink")：[夏利奧](https://zh.wikipedia.org/wiki/夏利奧 "wikilink")），弟弟名Dino Acconci（中文名：[夏健龍](https://zh.wikipedia.org/wiki/夏健龍 "wikilink")）。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[TYPE-MOON](https://zh.wikipedia.org/wiki/TYPE-MOON)转换而来。
+
+
 **TYPE-MOON**（日文：，中文：型月（月型）），是[日本](../Page/日本.md "wikilink")遊戲發行商Notes有限公司在發行商品時所使用的品牌名稱。Notes的負責人为画家[武内崇](../Page/武内崇.md "wikilink")，而社名則來自作家[奈須蘑菇](../Page/奈須蘑菇.md "wikilink")的作品《Notes.》。
 
 ## 历史

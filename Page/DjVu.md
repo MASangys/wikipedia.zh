@@ -1,3 +1,6 @@
+> 本文内容由[DjVu](https://zh.wikipedia.org/wiki/DjVu)转换而来。
+
+
 [Djvu_icon.png](https://zh.wikipedia.org/wiki/File:Djvu_icon.png "fig:Djvu_icon.png") **DjVu**（读作[déjà vu](https://zh.wikipedia.org/wiki/既视感 "wikilink")）是一种[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")，主要用于存储[扫描的文档](../Page/影像掃描器.md "wikilink")。这种格式的特色包括图像分层、渐进载入、[算术编码](../Page/算术编码.md "wikilink")、对二进制图像进行[有损压缩](../Page/有损数据压缩.md "wikilink")，从而以较小的空间，存放高质量的可读图像。
 
 渐进载入使得DjVu适合于应用于[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。DjVu对于大部分的扫描文档，表现都优于[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")，故常被作为PDF的替代品来进行推广。这种格式已经在文件共享网络中，被广泛使用于分发数学书籍。跟PDF类似，DjVu也可以包含[光学文字识别的文本层](https://zh.wikipedia.org/wiki/光学文字识别 "wikilink")，这样就可以使用复制与粘贴操作。

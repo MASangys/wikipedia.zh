@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想IX](https://zh.wikipedia.org/wiki/最终幻想IX)转换而来。
+
+
 是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）为索尼[PlayStation](../Page/PlayStation.md "wikilink")游戏机开发并发行的[角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏于2000年首发，是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")9部正传，也是系列最后一部首发于初代PlayStation的作品。[史克威爾](../Page/史克威爾.md "wikilink")在授權的港台版攻略與宣傳使用了舊譯名稱「太空-{}-戰士9」，因此此作又有玩家簡稱為太9。游戏2010年作为PSone Classics作品通过[PlayStation Network发行](../Page/PlayStation_Network.md "wikilink")。游戏为系列引入了“即時事件”“莫古通信网”，并使用独特的装备和技能系统。
 
 《最终幻想IX》的情节围绕国家战争而展开。玩家扮演年轻盗贼吉坦及其伙伴，阻止发动战争的亚历山德里亚女王布拉奈。但当一行明白和布拉奈合作的人物[库加是更大的威胁后](https://zh.wikipedia.org/wiki/库加 "wikilink")，剧情中心发生改变。

@@ -1,3 +1,6 @@
+> 本文内容由[ML语言](https://zh.wikipedia.org/wiki/ML语言)转换而来。
+
+
 **ML**是一个通用的[函數式編程语言](https://zh.wikipedia.org/wiki/函數式編程 "wikilink")，它是由[爱丁堡大学的](https://zh.wikipedia.org/wiki/爱丁堡大学 "wikilink")[Robin Milner及他人在二十世纪七十年代晚期开发的](https://zh.wikipedia.org/wiki/Robin_Milner "wikilink")。它的语法是从[ISWIM](../Page/ISWIM.md "wikilink")得到的灵感。作为*元语言*的ML是为了帮助在[LCF定理证明机中寻找证明策略而构想出来的](https://zh.wikipedia.org/wiki/LCF定理证明机 "wikilink")。（之前的元语言是*pplambda*，它联合了[一阶逻辑](../Page/一阶逻辑.md "wikilink")演算和有类型的[多态的](https://zh.wikipedia.org/wiki/多态 "wikilink")[λ演算](https://zh.wikipedia.org/wiki/λ演算 "wikilink")）。它使用了[Hindley-Milner类型推论算法来推测大多数值的类型](https://zh.wikipedia.org/wiki/Hindley-Milner类型推论 "wikilink")，而不需要四处使用注解。
 
 ML一般被归为非纯函数式编程语言，因为它允许副作用和[指令式编程](https://zh.wikipedia.org/wiki/指令式编程 "wikilink")。这一点和纯函数式编程语言——例如[Haskell](../Page/Haskell.md "wikilink")——很不一样。

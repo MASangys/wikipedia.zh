@@ -1,3 +1,6 @@
+> 本文内容由[WiBro](https://zh.wikipedia.org/wiki/WiBro)转换而来。
+
+
 **WiBro**（全稱為**Wi**reless **Bro**adband，韓語原文為：와이브로）是由[韩国电子通信研究院](../Page/韩国电子通信研究院.md "wikilink")發展的一個[無線寬頻網際網路的技術](https://zh.wikipedia.org/wiki/無線寬頻 "wikilink")，在2002年2月。韓國政府在2.3GHz的頻帶中保留了100MHz的頻寬。在2004年的稍後，韓國的TTA（Telecommunications Technology Association）將WiBro第一階段予以標準化。
 
 WiBro基地台（Base Station，也稱：[基站](../Page/基站.md "wikilink")）提供了30Mbps—50Mbps的資料流速度並可涵蓋1公里—5公里的距離內移動式的網際網路需求使用。

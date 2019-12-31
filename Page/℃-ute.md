@@ -1,3 +1,6 @@
+> 本文内容由[℃-ute](https://zh.wikipedia.org/wiki/℃-ute)转换而来。
+
+
 [Cute.svg](https://zh.wikipedia.org/wiki/File:Cute.svg "fig:Cute.svg") **℃-ute**為[日本](../Page/日本.md "wikilink")[Hello\! Project旗下在](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")2005－2017年間活動的女子偶像組合。2005年6月11日，在[安倍夏美](../Page/安倍夏美.md "wikilink")的演唱會發表了成立組合的消息，起初由七名[Hello\! Project Kids成員組成](../Page/Hello!_Project_Kids.md "wikilink")。2006年1月2日，制作人[淳君](../Page/淳君.md "wikilink")宣佈在「Hello\! pro EGG audition 2004」中通過甄選的[有原栞菜](../Page/有原栞菜.md "wikilink")加入℃-ute，成為組合中唯一非[Hello\! Project Kids出身的成員](../Page/Hello!_Project_Kids.md "wikilink")。歷經3名成員[村上愛](../Page/村上愛.md "wikilink")、[有原栞菜](../Page/有原栞菜.md "wikilink")和[梅田繪理香](../Page/梅田繪理香.md "wikilink")陸續離隊，在組合解散前體制為5名成員。於2017年6月12日[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")公演後組合解散。
 
 ## 成員

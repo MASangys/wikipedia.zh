@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM EVOLVE](https://zh.wikipedia.org/wiki/GUNDAM EVOLVE)转换而来。
+
+
 **GUN-{}-DAM EVOLVE**是[Sunrise與](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[BANDAI在](https://zh.wikipedia.org/wiki/BANDAI "wikilink")2001年至2003年間所製作的實驗性3D[CG動畫短片](https://zh.wikipedia.org/wiki/CG "wikilink")，為[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")當中第一部全電腦製作的映像作品（第一部短片除外）。第一期至2003年為止共五話，於2005年8月決定追加製作至第15話，目前DVD已发售完毕。
 
 ## 概要

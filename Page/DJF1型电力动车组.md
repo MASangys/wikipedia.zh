@@ -1,3 +1,6 @@
+> 本文内容由[DJF1型电力动车组](https://zh.wikipedia.org/wiki/DJF1型电力动车组)转换而来。
+
+
 **DJF1“中原之星”**电力动车组是[中国铁路的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[动力分散式](https://zh.wikipedia.org/wiki/动力分散式 "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，由[株洲电力机车厂](https://zh.wikipedia.org/wiki/株洲电力机车厂 "wikilink")、[株洲电力机车研究所](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")、[青岛四方机车车辆厂](https://zh.wikipedia.org/wiki/青岛四方机车车辆厂 "wikilink")、[郑州铁路局于](https://zh.wikipedia.org/wiki/郑州铁路局 "wikilink")2001年联合研制，采用交流传动技术、[IGBT牵引变流器](https://zh.wikipedia.org/wiki/IGBT "wikilink")，最高运营速度为160公里/小时。“中原之星”列车于2001年11月投入运营，担当[郑州至](../Page/郑州市.md "wikilink")[武汉间的城际列车](../Page/武汉市.md "wikilink")，至2006年6月退出运营。
 
 ## 发展历史

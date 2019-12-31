@@ -1,3 +1,6 @@
+> 本文内容由[维C银翘片](https://zh.wikipedia.org/wiki/维C银翘片)转换而来。
+
+
 **维C银翘片**是一种口服片状药物，用来减轻[感冒](../Page/感冒.md "wikilink")和[流感的症状](https://zh.wikipedia.org/wiki/流感 "wikilink")。
 
 含有[中药](../Page/中药.md "wikilink")成份：[金银花](https://zh.wikipedia.org/wiki/金银花 "wikilink")、[连翘](../Page/连翘.md "wikilink")、[荆芥](../Page/荆芥.md "wikilink")、[淡豆豉](https://zh.wikipedia.org/wiki/淡豆豉 "wikilink")、[牛蒡子](https://zh.wikipedia.org/wiki/牛蒡子 "wikilink")、[桔梗](../Page/桔梗.md "wikilink")、[甘草](../Page/甘草.md "wikilink")、[薄荷油](https://zh.wikipedia.org/wiki/薄荷油 "wikilink")、[芦根和](https://zh.wikipedia.org/wiki/芦根 "wikilink")[淡竹叶](https://zh.wikipedia.org/wiki/淡竹叶 "wikilink")。功能辛凉解表，清热解毒。

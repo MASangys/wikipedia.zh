@@ -1,3 +1,6 @@
+> 本文内容由[ICE-T列車](https://zh.wikipedia.org/wiki/ICE-T列車)转换而来。
+
+
 **ICE-T**是德國國鐵411及415型鐵路列車的代號。此系列是德國 [城際列車特快](https://zh.wikipedia.org/wiki/ICE列車 "wikilink")（Inter City Express）家族最新推出的列車。但與其他家族成員不同的是，它不是以速度為設計重點；它是唯一擁有[傾斜技術的ICE列車](../Page/擺式列車.md "wikilink")。
 
 ## 服務線路

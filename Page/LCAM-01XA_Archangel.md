@@ -1,3 +1,6 @@
+> 本文内容由[LCAM-01XA Archangel](https://zh.wikipedia.org/wiki/LCAM-01XA Archangel)转换而来。
+
+
 **LCAM-01XA Archangel**，即**大天使號**，為[日本](../Page/日本.md "wikilink")科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士鋼彈SEED](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED "wikilink")》和《[機動戰士鋼彈SEED DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")》中的[戰艦](../Page/戰艦.md "wikilink")。 [LCAM-01XA_Archangel.jpg](https://zh.wikipedia.org/wiki/File:LCAM-01XA_Archangel.jpg "fig:LCAM-01XA_Archangel.jpg")
 
 ## 開發經過

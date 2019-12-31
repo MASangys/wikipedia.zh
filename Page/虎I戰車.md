@@ -1,3 +1,6 @@
+> 本文内容由[虎I戰車](https://zh.wikipedia.org/wiki/虎I戰車)转换而来。
+
+
 **虎I戰車**（），是[第二次世界大戰中](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[德意志國防軍](../Page/德意志國防軍.md "wikilink")及[武裝親衛隊所使用的](https://zh.wikipedia.org/wiki/武裝親衛隊 "wikilink")[戰車](https://zh.wikipedia.org/wiki/戰車 "wikilink")，正式名稱為**[六號戰車](../Page/六號戰車.md "wikilink")**（**VI號戰車**）。一般稱為**虎式戰車**，簡稱「**虎式**」或「**Tiger**」。從1942年下半年服役起至1945年[納粹德國](../Page/納粹德國.md "wikilink")投降為止，一直是活躍於第一線的[重戰車](https://zh.wikipedia.org/wiki/重戰車 "wikilink")。
 
 ## 設計

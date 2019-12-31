@@ -1,3 +1,6 @@
+> 本文内容由[K空間](https://zh.wikipedia.org/wiki/K空間)转换而来。
+
+
 [K-space_partial_Fourier.JPG](https://zh.wikipedia.org/wiki/File:K-space_partial_Fourier.JPG "fig:K-space_partial_Fourier.JPG")對稱性。\]\] ***k*空間**是尋常[空間](https://zh.wikipedia.org/wiki/空間 "wikilink")\(\mathbb{R}^n\)在[傅立葉變換下的對偶空間](https://zh.wikipedia.org/wiki/傅立葉變換 "wikilink")，主要應用在[磁振造影的成像分析](https://zh.wikipedia.org/wiki/磁振造影 "wikilink")，其他如[磁振造影中的](https://zh.wikipedia.org/wiki/磁振造影 "wikilink")[射頻](../Page/射頻.md "wikilink")波形設計，以及[量子計算中的初始態準備亦用到](https://zh.wikipedia.org/wiki/量子計算 "wikilink")*k*空間的概念。***k***和出現在[波](../Page/波.md "wikilink")動數學中的[波數](../Page/波數.md "wikilink")相應，可說都是「[空間頻率](https://zh.wikipedia.org/wiki/頻率 "wikilink")」的概念。
 
 ## 磁振造影成像分析

@@ -1,3 +1,6 @@
+> 本文内容由[ATI Radeon 9000](https://zh.wikipedia.org/wiki/ATI Radeon 9000)转换而来。
+
+
 [9700logo.jpg](https://zh.wikipedia.org/wiki/File:9700logo.jpg "fig:9700logo.jpg") **ATI Radeon 9000**系列顯示卡，採用**[Radeon](../Page/Radeon.md "wikilink") "R300" 架構**顯示核心，2002年8月推出，是[ATI的第一個支援DirectX](https://zh.wikipedia.org/wiki/ATI "wikilink") 9.0的顯示核心，亦是全球第一個完全支援DirectX 9的绘图核心。它讓ATI在1999年的[GeForce 256以來](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")，在性能上首次勝過NVIDIA。R300和其衍生產品形成了ATI的消費級和專業級產品線的生命週期足有三年那麼久。
 
 它的整合式形號是[Xpress 200](../Page/Xpress_200.md "wikilink")，與桌面形號最大分別是它使用系統記憶體作為顯示記憶體。

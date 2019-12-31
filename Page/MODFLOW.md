@@ -1,3 +1,6 @@
+> 本文内容由[MODFLOW](https://zh.wikipedia.org/wiki/MODFLOW)转换而来。
+
+
 **MODFLOW**模式是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[地質調查所](https://zh.wikipedia.org/wiki/地質調查所 "wikilink")（USGS）發展之地下水數值模式，為有限差分法開發之三維飽和地下水流數值模式，其為Modular three-dimensional groundwater flow model之縮寫，最早版本於1988年釋放出。本模式為目前最被廣泛使用之地下水模式之一，可以應用於飽和地下水流問題，在時間方面不論是穩態（steady）抑或是非穩態（unsteady）均可使用；在分層上，承压含水層（confined aquifer）與非承压含水層（unconfined aquifer）均可模擬。其控制方程式表示如下：
 
   -

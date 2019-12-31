@@ -1,3 +1,6 @@
+> 本文内容由[QGo](https://zh.wikipedia.org/wiki/QGo)转换而来。
+
+
 **qGo**為一個開放原始碼且支援多平台的的IGS網路圍棋相容用戶端（IGS-like）。
 
 {{ Infobox_Software | name = qGo | logo = [QGo.svg](https://zh.wikipedia.org/wiki/File:QGo.svg "fig:QGo.svg") | screenshot = | caption = qGo 1.0.4 | latest_release_version = 1.5.4 | latest_release_date =  | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre = [遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink") | license = [GNU GPL](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink") | website = <http://qgo.sourceforge.net/> }}

@@ -1,3 +1,6 @@
+> 本文内容由[TopLink](https://zh.wikipedia.org/wiki/TopLink)转换而来。
+
+
 **TopLink**是一套專供[Java](../Page/Java.md "wikilink")程式師運用的**物件關連映射**（[object-relational mapping](https://zh.wikipedia.org/wiki/object-relational_mapping "wikilink")）套件（Package，Java程式語言的Package是專門用來對「[類別](https://zh.wikipedia.org/wiki/類別 "wikilink")」進行群化整理之用）。它提供一個強效且彈性的框架（Framework），可讓Java物件存放到關連性資料庫內，或提供Java物件與[XML](../Page/XML.md "wikilink")文件的轉換功效。 [EntityLifeCycle.png](https://zh.wikipedia.org/wiki/File:EntityLifeCycle.png "fig:EntityLifeCycle.png") **TopLink Essentials**\[[https://web.archive.org/web/20060707013121/http://www.oracle.com/technology/products/ias/toplink/jpa/index.html\]是](https://web.archive.org/web/20060707013121/http://www.oracle.com/technology/products/ias/toplink/jpa/index.html%5D是)[EJB](../Page/EJB.md "wikilink") 3.0 Java Persistence API（簡稱：[JPA](https://zh.wikipedia.org/wiki/JPA "wikilink")）的一個參考實現（Reference Implementation，簡稱：RI），更簡單說是即是一個合乎EJB 3.0規範的JPA RI。此外TopLink Essentials也是Oracle公司TopLink軟體的開放原碼社群版（open-source community edition）。
 
 ## 歷史

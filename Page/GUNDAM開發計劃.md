@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM開發計劃](https://zh.wikipedia.org/wiki/GUNDAM開發計劃)转换而来。
+
+
 **GUNDAM開發計劃**是[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")：[機動戰士GUNDAM0083 STARDUST MEMORY當中所提及的一個空想的計畫](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0083_STARDUST_MEMORY "wikilink")，從這個計畫中所開發出來的概念機體都被冠上**GP**字眼（GUNDAM-Development Project之簡寫），並且各自有以花朵為名的暱稱。這些暱稱在[地球聯邦軍正式文件中並沒有出現](https://zh.wikipedia.org/wiki/地球聯邦軍 "wikilink")，而是開發者之間的慣用計畫代號。
 
 ## GUNDAM開發計畫

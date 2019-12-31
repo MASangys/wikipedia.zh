@@ -1,3 +1,6 @@
+> 本文内容由[半r](https://zh.wikipedia.org/wiki/半r)转换而来。
+
+
 [Half_r_from_malmesbury_bible.jpg](https://zh.wikipedia.org/wiki/File:Half_r_from_malmesbury_bible.jpg "fig:Half_r_from_malmesbury_bible.jpg") **半r** (, R rotunda) 是字母**[R](../Page/R.md "wikilink")**的古老的变体。 从中世纪到现在，许多字符的不同写法都消失了。这些消失了的[字符](../Page/字符.md "wikilink")有连字符的一个不同的写法、[连体字](https://zh.wikipedia.org/wiki/连体字 "wikilink")、书写用[缩写词](https://zh.wikipedia.org/wiki/缩写词 "wikilink")、一些[花体字的突出部分](https://zh.wikipedia.org/wiki/花体字 "wikilink")，还有带连字符的[长s](../Page/长s.md "wikilink")，半r等等。与很多被列出的惯例一样，这些字符的变体原本的设计目的要不是为了节省在昂贵的羊皮纸上的书写位置，要不就是为了让字母更有美感。
 
 这个“[r](https://zh.wikipedia.org/wiki/r "wikilink")”型字母最初只跟在字母“[O](../Page/O.md "wikilink")”的後面，继而发展到跟在任何一个带有弯曲笔画字母的後面。从此，半r被用在字母"[b](https://zh.wikipedia.org/wiki/b "wikilink")","[o](https://zh.wikipedia.org/wiki/o "wikilink")"和"[p](https://zh.wikipedia.org/wiki/p "wikilink")"的后面，有时也会用在字母"[d](https://zh.wikipedia.org/wiki/d "wikilink")"的后面，因为在许多古老的字体中"[d](https://zh.wikipedia.org/wiki/d "wikilink")"的垂直的笔画通常是向左弯曲的（在[冰岛语](../Page/冰岛语.md "wikilink")中，这种字母"d"的变体成为了字母[ð](https://zh.wikipedia.org/wiki/ð "wikilink")）。因此，半r从来不会出现在词首。这个字符来自几种不同的字形，这些字形都符合[X高度](https://zh.wikipedia.org/wiki/X高度 "wikilink")。

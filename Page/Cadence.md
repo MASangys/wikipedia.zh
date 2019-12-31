@@ -1,3 +1,6 @@
+> 本文内容由[Cadence](https://zh.wikipedia.org/wiki/Cadence)转换而来。
+
+
 **益華電腦股份有限公司**（Cadence Design Systems, Inc）成立於1988年，是[電子設計自動化](../Page/電子設計自動化.md "wikilink")（EDA）軟體與工程服務的重要廠商，主要提供[積體電路設計](https://zh.wikipedia.org/wiki/積體電路設計 "wikilink")（IC Design）、[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC）、以及[印刷電路板](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")（PCB）所需的軟體工具與[矽智財](https://zh.wikipedia.org/wiki/矽智財 "wikilink")（IP），涵蓋類比/數位/混合電路設計、驗證、封裝/PCB設計等各領域。
 
 ## 历史

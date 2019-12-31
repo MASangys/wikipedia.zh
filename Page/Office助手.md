@@ -1,3 +1,6 @@
+> 本文内容由[Office助手](https://zh.wikipedia.org/wiki/Office助手)转换而来。
+
+
 [Clippy-letter.png](https://zh.wikipedia.org/wiki/File:Clippy-letter.png "fig:Clippy-letter.png") [WordHelpers.png](https://zh.wikipedia.org/wiki/File:WordHelpers.png "fig:WordHelpers.png") **Office助手**（）是[微软](../Page/微软.md "wikilink")[Office从Office](../Page/Microsoft_Office.md "wikilink")97开始具有的特性。这个特性是提供不同的搜索功能的程序帮助系统的入口，这个系统在Office 97至2002年[Windows版本和](https://zh.wikipedia.org/wiki/Windows "wikilink")98至2004 [Macintosh版本是基于](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[贝叶斯算法的](../Page/贝叶斯概率.md "wikilink")。Office助手最初是由[滑铁卢大学的计算机科学实习生设计和发展的](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink")。其默认助手为-{zh-hans:[大眼夹](https://zh.wikipedia.org/wiki/迴紋針 "wikilink"); zh-hant:大眼[迴紋針](https://zh.wikipedia.org/wiki/迴紋針 "wikilink");}-（英语：Clippy），由Kevan J. Atteberry设计。\[1\]\[2\]
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM ACE](https://zh.wikipedia.org/wiki/GUNDAM ACE)转换而来。
+
+
 《**GUNDAM ACE**》（ガンダムエース）是由[角川書店](../Page/角川書店.md "wikilink")出版，針對[GUNDAM](../Page/GUNDAM.md "wikilink")愛好者的專門[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，其中有許多GUNDAM系列漫畫連載、精美的GUNDAM人物或MS插畫以及最重要的最新的GUNDAM訊息包括新出的商品或動畫。中文版由角川的子公司[台灣角川](../Page/台灣角川.md "wikilink")出版，中文版於2008年12月推出的第76期正式休刊。\[1\] 日本於2011年發生[東日本大地震後](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")，該雜誌的連載作家曾聯合舉行慈善簽名會\[2\]\[3\]。
 
 ## 連載作品

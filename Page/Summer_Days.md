@@ -1,3 +1,6 @@
+> 本文内容由[Summer Days](https://zh.wikipedia.org/wiki/Summer Days)转换而来。
+
+
 《**Summer Days**》（）是[0verflow](../Page/0verflow.md "wikilink")在2006年6月23日發售的全動畫[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2008年4月11日由AICHERRY（アイチェリー）發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2010年9月24日由Palace發售[UMDPG版](https://zh.wikipedia.org/wiki/UMDPG "wikilink")。\[4\]2012年4月27發售Summer Days的重製版《**SHINY DAYS**》（）。\[5\]2014年1月30日由AICHERRY發售SHINY DAYS的DVDPG版和[BDPG版](https://zh.wikipedia.org/wiki/BDPG "wikilink")。\[6\]除了遊戲之外還發售漫畫、小說等相關作品。
 
 本作品與前作《[School Days](../Page/School_Days.md "wikilink")》相比，殘虐的描寫消聲匿跡，不急不徐地描寫整個夏天，從淺淺的愛慕開始的故事。並且至今為止不甚明朗的種種人際關係也可判明了，另外還可以發現與[Overflow的其他作品間的關連性](https://zh.wikipedia.org/wiki/Overflow "wikilink")，帶有很高的[Fan disc意義](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。但根據[Overflow表示](https://zh.wikipedia.org/wiki/Overflow "wikilink")，本作「」。

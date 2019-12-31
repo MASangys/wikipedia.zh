@@ -1,3 +1,6 @@
+> 本文内容由[G型主序星](https://zh.wikipedia.org/wiki/G型主序星)转换而来。
+
+
 [Sun920607.jpg](https://zh.wikipedia.org/wiki/File:Sun920607.jpg "fig:Sun920607.jpg")是黃矮星的標準範例。\]\] **黃矮星**，在[天文學](../Page/天文學.md "wikilink")上的正式名稱為GV恆星，是光譜型態為[G](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，發光度為[V的](https://zh.wikipedia.org/wiki/矮星 "wikilink")[主序星](../Page/主序星.md "wikilink")。這一類恆星的質量大約在0.8至1.0[太陽質量](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")，表面的有效溫度在5,300至6,000[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")\[1\]<sup>,表VII、VIII。</sup>。與其他的[主序星](../Page/主序星.md "wikilink")一樣，GV恆星在核心進行將[氫融合成](https://zh.wikipedia.org/wiki/氫 "wikilink")[氦](../Page/氦.md "wikilink")的[核融合反應](https://zh.wikipedia.org/wiki/核融合 "wikilink")。\[2\][太陽是最著名的](https://zh.wikipedia.org/wiki/太陽 "wikilink")，也是最易見到的GV恆星（黃矮星），每秒鐘將大約6億噸的[氫轉換成](https://zh.wikipedia.org/wiki/氫 "wikilink")[氦](../Page/氦.md "wikilink")，將400萬噸的質量轉換成[能量](../Page/能量.md "wikilink")。\[3\]\[4\] 其他的GV恆星，還有[南門二](../Page/南門二.md "wikilink")（半人馬座α）、[鯨魚座τ和](https://zh.wikipedia.org/wiki/鯨魚座τ "wikilink")[飛馬座51](../Page/飛馬座51.md "wikilink")。\[5\]\[6\]\[7\]
 
 黃矮星其實是一個錯誤的名稱，因為光譜類型為G的恆星實際顏色是從白色到黃色的，像太陽在早期的顏色是白色，只有到晚期才會成為黃色。\[8\] 參考[光譜分類的顏色與光譜圖](https://zh.wikipedia.org/wiki/恆星分類#耶基光譜分類法 "wikilink")，太陽實際上是白色的，被錯誤的看成黃色是因為背景的藍天造成的（在藍色的襯托下變得偏黃），而在地平線附近的太陽呈現紅色，則是大氣層的[瑞利散射](../Page/瑞利散射.md "wikilink")造成的。

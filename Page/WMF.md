@@ -1,3 +1,6 @@
+> 本文内容由[WMF](https://zh.wikipedia.org/wiki/WMF)转换而来。
+
+
 **WMF**（）是一种[Microsoft Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") [图形文件格式](https://zh.wikipedia.org/wiki/图形文件格式 "wikilink")。它是一个[矢量圖格式](https://zh.wikipedia.org/wiki/矢量圖 "wikilink")，但是也允许包含[位图](../Page/位图.md "wikilink")。本质上，一个WMF文件保存一系列可以用来重建图片的Windows [GDI命令](https://zh.wikipedia.org/wiki/图形设备接口 "wikilink")。在某种程度上，它类似于印刷业广泛使用的[PostScript](../Page/PostScript.md "wikilink")格式。可以用[Microsoft Office相关软件编辑](../Page/Microsoft_Office.md "wikilink")，或是用[Adobe](../Page/Adobe.md "wikilink")开发的Flash和[Illustrator等矢量图编辑器](https://zh.wikipedia.org/wiki/Illustrator "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Aldus](https://zh.wikipedia.org/wiki/Aldus)转换而来。
+
+
 [Aldus_Manutius.jpg](https://zh.wikipedia.org/wiki/File:Aldus_Manutius.jpg "fig:Aldus_Manutius.jpg") **Aldus Corporation**（中文有稱為“阿圖斯”）是軟件[PageMaker的發明者](https://zh.wikipedia.org/wiki/PageMaker "wikilink")；創辦人及公司主席[Paul Brained於創業前任職編輯](https://zh.wikipedia.org/wiki/Paul_Brained "wikilink")，深明利用電腦科技可以大大改善印前排版的效率和使用。在他的帶領下，PageMaker於1985年7月問世。Aldus名字源於[阿尔杜斯·马努提乌斯](../Page/阿尔杜斯·马努提乌斯.md "wikilink")，他15世紀[意大利](../Page/意大利.md "wikilink")[威尼斯](../Page/威尼斯.md "wikilink")的著名[學者及印刷商](https://zh.wikipedia.org/wiki/學者 "wikilink")，他發明了[袖珍書刊及](https://zh.wikipedia.org/wiki/袖珍書 "wikilink")[斜體字](https://zh.wikipedia.org/wiki/斜體字 "wikilink")。
 
 憑著蘋果[麥金塔](../Page/麥金塔.md "wikilink")電腦的圖像操作界面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）、蘋果雷射印表機（[Apple LaserWriter](https://zh.wikipedia.org/wiki/Apple_LaserWriter "wikilink")）以及[Adobe](../Page/Adobe.md "wikilink")的[PostScript](../Page/PostScript.md "wikilink")頁面描述語言（一種處理電腦文件以供雷射印表機使用的翻譯語言）；PageMaker幾乎一夜間取代了傳統排版的工業，啟動了所謂的[桌面出版](../Page/桌面出版.md "wikilink")（Desktop Publishing，簡稱[DTP](https://zh.wikipedia.org/wiki/DTP "wikilink")）革命。

@@ -1,3 +1,6 @@
+> 本文内容由[ExpressCard](https://zh.wikipedia.org/wiki/ExpressCard)转换而来。
+
+
 [PCCard-ExpressCard.png](https://zh.wikipedia.org/wiki/File:PCCard-ExpressCard.png "fig:PCCard-ExpressCard.png")、[PC Card的比較圖](../Page/PC卡.md "wikilink")\]\]
 
 **ExpressCard**是一種取代[CardBus的](https://zh.wikipedia.org/wiki/CardBus "wikilink")[硬體標準](https://zh.wikipedia.org/wiki/硬體 "wikilink")，是一種用於周邊裝置的擴充介面，它與PC Card一樣都是由[PCMCIA機構所發展](https://zh.wikipedia.org/wiki/PCMCIA "wikilink")，ExpressCard介面的總線部分可用[USB](../Page/USB.md "wikilink")或[PCI Express等介面與](../Page/PCI_Express.md "wikilink")（資訊）裝置本體相連。至於要使用USB抑或PCI Express介面來相連則由硬體設計師依據應用的需求與場合來決定。ExpressCard也與過往的[CardBus](https://zh.wikipedia.org/wiki/CardBus "wikilink")、[PC Card相同](../Page/PC卡.md "wikilink")，皆具有[熱插拔的機制功效](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")。

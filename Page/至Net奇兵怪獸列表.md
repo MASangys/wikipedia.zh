@@ -1,3 +1,6 @@
+> 本文内容由[至Net奇兵怪獸列表](https://zh.wikipedia.org/wiki/至Net奇兵怪獸列表)转换而来。
+
+
 在[至Net奇兵](../Page/至Net奇兵.md "wikilink")中，出現過很多怪獸，這條目是有關在至Net奇兵中出現過的怪獸。這些怪獸通常都是[山拿製造出來用來對付](https://zh.wikipedia.org/wiki/山拿 "wikilink")[利奧高小組和](https://zh.wikipedia.org/wiki/利奧高小組 "wikilink")[亞烈達](https://zh.wikipedia.org/wiki/亞烈達 "wikilink")。
 
 ## 注意

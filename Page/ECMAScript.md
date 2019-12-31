@@ -1,3 +1,6 @@
+> 本文内容由[ECMAScript](https://zh.wikipedia.org/wiki/ECMAScript)转换而来。
+
+
 是一种由[Ecma国际](../Page/Ecma国际.md "wikilink")（前身为[欧洲计算机制造商协会](https://zh.wikipedia.org/wiki/欧洲计算机制造商协会 "wikilink")）在标准ECMA-262中定义的脚本语言规范。这种语言在[万维网](../Page/万维网.md "wikilink")上应用广泛，它往往被称为[JavaScript](../Page/JavaScript.md "wikilink")或[JScript](../Page/JScript.md "wikilink")，但实际上后两者是ECMA-262标准的实现和扩展。
 
 ## 历史

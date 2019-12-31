@@ -1,3 +1,6 @@
+> 本文内容由[法國國鐵TGV Duplex列車](https://zh.wikipedia.org/wiki/法國國鐵TGV Duplex列車)转换而来。
+
+
 [TGV_double_decker_DSC00132.jpg](https://zh.wikipedia.org/wiki/File:TGV_double_decker_DSC00132.jpg "fig:TGV_double_decker_DSC00132.jpg") [TGVDuplex_Centre.JPG](https://zh.wikipedia.org/wiki/File:TGVDuplex_Centre.JPG "fig:TGVDuplex_Centre.JPG")
 
 **TGV Duplex**，是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[國鐵的](https://zh.wikipedia.org/wiki/法國國鐵 "wikilink")[TGV高鐵列車車款之一](https://zh.wikipedia.org/wiki/TGV "wikilink")，這款列車的特色，是首款設置雙層車廂的車款，同時也是第三代TGV列車，針對客量大及流量飽和的高鐵路線而設。每組Duplex列車最高可載545人，憑著容量大的特點，這款列車成為法國高鐵系統的主力車型。

@@ -1,3 +1,6 @@
+> 本文内容由[宇宙殖民地 \(GUNDAM世界\)](https://zh.wikipedia.org/wiki/宇宙殖民地 \(GUNDAM世界\))转换而来。
+
+
 [Spacecolony1.jpg](https://zh.wikipedia.org/wiki/File:Spacecolony1.jpg "fig:Spacecolony1.jpg") [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")世界中的**宇宙殖民地**（又譯為**殖民衛星**或音譯為**科羅尼**，香港譯為殖民星），是建設在[拉格朗日点](../Page/拉格朗日点.md "wikilink")周邊的[宇宙殖民地](../Page/宇宙殖民地.md "wikilink")群體與小行星基地（自[小行星帶拖曳而來](https://zh.wikipedia.org/wiki/小行星帶 "wikilink")）。
 
 大部分在動畫中的人工建設的殖民地，是參考現實的[O'Neill cylinder](https://en.wikipedia.org/wiki/O%27Neill_cylinder)島三型太空殖民地。例如在[宇宙世紀](../Page/宇宙世紀.md "wikilink")、[機動新世紀鋼彈 X](https://zh.wikipedia.org/wiki/機動新世紀鋼彈_X "wikilink")、[機動戰士GUNDAM AGE的背景](../Page/機動戰士GUNDAM_AGE.md "wikilink")，壓倒性地以這種為主。

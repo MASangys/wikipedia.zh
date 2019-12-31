@@ -1,3 +1,6 @@
+> 本文内容由[Digg](https://zh.wikipedia.org/wiki/Digg)转换而来。
+
+
 **digg**是一个以[科技为主的新闻站点](https://zh.wikipedia.org/wiki/科技 "wikilink")，用户可提交新闻予digg，通过digg机制显示於digg首页上。
 
 ## 网站

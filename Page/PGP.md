@@ -1,3 +1,6 @@
+> 本文内容由[PGP](https://zh.wikipedia.org/wiki/PGP)转换而来。
+
+
 **PGP**（，中文翻译「优良保密协议」）是一套用于[讯息加密](https://zh.wikipedia.org/wiki/讯息 "wikilink")、验证的应用程式，采用[IDEA的散列](../Page/國際資料加密演算法.md "wikilink")[演算法作为加密和验证之用](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
 
 PGP的主要开发者是[菲尔·齐默曼](https://zh.wikipedia.org/wiki/菲尔·齐默曼 "wikilink")。齐默曼于1991年将PGP在互联网上免费发布。PGP本身是商业应用程序；[开源并具有同类功能的工具名为](../Page/开源软件.md "wikilink")[GnuPG](../Page/GnuPG.md "wikilink")（GPG）。PGP及其同类产品均遵守[OpenPGP数据加解密标准](https://zh.wikipedia.org/wiki/#OpenPGP "wikilink")（RFC 4880）。

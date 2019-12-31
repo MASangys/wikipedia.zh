@@ -1,3 +1,6 @@
+> 本文内容由[INRI](https://zh.wikipedia.org/wiki/INRI)转换而来。
+
+
 [Cristo_crucificado.jpg](https://zh.wikipedia.org/wiki/File:Cristo_crucificado.jpg "fig:Cristo_crucificado.jpg")画家[委拉斯开兹作品](https://zh.wikipedia.org/wiki/迪亚哥·委拉斯开兹 "wikilink")\]\] [La_descente_de_croix_Rubens.jpg](https://zh.wikipedia.org/wiki/File:La_descente_de_croix_Rubens.jpg "fig:La_descente_de_croix_Rubens.jpg")画家[鲁本斯作品](../Page/彼得·保罗·鲁本斯.md "wikilink")\]\]
 
 “**[耶稣](../Page/耶稣.md "wikilink")，[拿撒勒](../Page/拿撒勒.md "wikilink")人，[犹太人](../Page/犹太人.md "wikilink")的[君王](https://zh.wikipedia.org/wiki/犹太君主列表 "wikilink")**”（），是中的一个短语，常缩写为。

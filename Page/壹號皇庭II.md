@@ -1,3 +1,6 @@
+> 本文内容由[壹號皇庭II](https://zh.wikipedia.org/wiki/壹號皇庭II)转换而来。
+
+
 《**壹號皇庭II**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，原定於[壹號皇庭](../Page/壹號皇庭.md "wikilink")第一集推出後的一周年播出，但因本劇為星期日劇集，加上1993年4月19日為星期一，故改由1993年4月18日首播，共15集，監製[鄧特希](../Page/鄧特希.md "wikilink")。逢星期日播出。\[1\]\[2\]
 
 ## 與上輯的矛盾

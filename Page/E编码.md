@@ -1,3 +1,6 @@
+> 本文内容由[E编码](https://zh.wikipedia.org/wiki/E编码)转换而来。
+
+
 **E編號**（）是[歐盟對其認可的](https://zh.wikipedia.org/wiki/歐盟 "wikilink")[食品添加物編號](https://zh.wikipedia.org/wiki/食品添加物 "wikilink")，在食物標籤上常能看到。具有E編號的添加物代表已經由歐盟核可，能夠使用在食物中。E編號的E表示歐盟。在[英國和](https://zh.wikipedia.org/wiki/英國 "wikilink")[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，E編號通俗的是指人工食品添加劑，所以有些雖然號稱不含E編號添加劑的產品事實上卻有添加劑，例如[汽水中的重碳酸鹽實際上是有E編號的](https://zh.wikipedia.org/wiki/汽水 "wikilink")。
 
 食品標籤標示添加物的E編號在歐洲以外的地區包含[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")和亞太各國仍很少使用。而且並不是所有擁有E編號的食品添加劑在不同國家都會批准將其用於食品。在[澳洲及](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭被批准的](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，在歐盟裡卻不被批准使用。一些在先進[國家如歐美](https://zh.wikipedia.org/wiki/國家 "wikilink")[日本](../Page/日本.md "wikilink")禁用的E數食品添加劑，在[亞洲一些國家仍然使用](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Selling England by the Pound](https://zh.wikipedia.org/wiki/Selling England by the Pound)转换而来。
+
+
 《**Selling England by the Pound**》是前衛搖滾樂隊[創世紀樂團](../Page/創世紀樂團.md "wikilink")發行第五張專輯。
 
 《Foxtrot》發行後，是[Peter Gabriel時期團體的商業成就高峰](../Page/彼得·蓋布瑞爾.md "wikilink")，在英國最高達到第三名。 歌曲如《Firth of Fifth》與《The Cinema Show》被視為是經典歌曲，較短的歌曲如《I Know What I Like (In Your Wardrobe)》成為創世紀第一首排行榜歌曲，1974年5月在英國拿下第17名。

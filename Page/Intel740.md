@@ -1,3 +1,6 @@
+> 本文内容由[Intel740](https://zh.wikipedia.org/wiki/Intel740)转换而来。
+
+
 [Intel_i740_on_EP-BXT.JPG](https://zh.wikipedia.org/wiki/File:Intel_i740_on_EP-BXT.JPG "fig:Intel_i740_on_EP-BXT.JPG") **Intel740**（常被簡稱為i740）是[英特爾公司研發的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。它是英特爾唯一一款被用於獨立型顯示卡上的顯示核心，於1998年2月正式發佈。
 
 Intel於1997年7月收购了 [Chips and Technologies](https://zh.wikipedia.org/wiki/Chips_and_Technologies "wikilink") 公司\[1\]。這間公司專注研發笔记本電腦的2D顯示核心。通過收购這間公司，Intel得到了2D顯示核心的技術。3D技術方面是在[Real3D公司的協助下研发的](https://zh.wikipedia.org/wiki/Real3D "wikilink")。Real3D是[洛克西德·馬丁的子公司](https://zh.wikipedia.org/wiki/洛克西德·馬丁 "wikilink")，而Intel持有該公司的20％股权，所以得以與REAL3D合作研發顯示核心。它支持[AGP](../Page/AGP.md "wikilink") 2X，有8MB顯示記憶體。像素填充率是55Mpixels/s，支持DVD解压，亦支持3D加速，包括[OpenGL](../Page/OpenGL.md "wikilink")。

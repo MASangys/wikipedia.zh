@@ -1,3 +1,6 @@
+> 本文内容由[JetBrains](https://zh.wikipedia.org/wiki/JetBrains)转换而来。
+
+
 **JetBrains**是一家[捷克](../Page/捷克.md "wikilink")的软件开发公司，该公司位于[捷克](../Page/捷克.md "wikilink")的[布拉格](../Page/布拉格.md "wikilink")，并在[俄罗斯](../Page/俄罗斯.md "wikilink")的[圣彼得堡及](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[美国](../Page/美国.md "wikilink")[麻州](https://zh.wikipedia.org/wiki/麻州 "wikilink")[波士頓都设有办公室](https://zh.wikipedia.org/wiki/波士頓 "wikilink")，該公司最為人所熟知的產品是[Java](../Page/Java.md "wikilink")程式語言開發撰寫時所用的[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")：[IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")。
 
 JetBrains成立於2000年，是一家[私人持股的公司](https://zh.wikipedia.org/wiki/私人持股 "wikilink")，該公司的合夥創辦人有：Sergey Dmitriev、Eugene Belyaev及Valentin Kipiatkov。

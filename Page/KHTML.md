@@ -1,3 +1,6 @@
+> 本文内容由[KHTML](https://zh.wikipedia.org/wiki/KHTML)转换而来。
+
+
 **KHTML**是由[KDE](../Page/KDE.md "wikilink")所開發的[HTML](../Page/HTML.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。KDE系統自[KDE 2版起](https://zh.wikipedia.org/wiki/KDE_2 "wikilink")，在KDE的新程式[Konqueror](../Page/Konqueror.md "wikilink")的[網頁瀏覽器使用了KHTML引擎](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。該引擎以[C++](../Page/C++.md "wikilink")[編程語言所寫](https://zh.wikipedia.org/wiki/編程語言 "wikilink")，並以[LGPL授權](https://zh.wikipedia.org/wiki/LGPL "wikilink")，支援大多數網頁瀏覽標準。
 
 由於[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet Explorer的佔有率相當高](../Page/Internet_Explorer.md "wikilink")，不少以[FrontPage製作的網頁均包含](https://zh.wikipedia.org/wiki/FrontPage "wikilink")-{只}-有IE才能讀取的非標準語法，為了使KHTML引擎可呈現的網頁達到最多，部分IE專屬的語法也一併支援。KHTML擁有速度快捷的優點，但對錯誤語法的容忍度則比[Mozilla](../Page/Mozilla.md "wikilink")產品所使用的[Gecko](../Page/Gecko.md "wikilink")引擎小。

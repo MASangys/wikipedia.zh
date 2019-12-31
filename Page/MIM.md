@@ -1,3 +1,6 @@
+> 本文内容由[MIM](https://zh.wikipedia.org/wiki/MIM)转换而来。
+
+
 **MIM**或**M.I.M.**可能指：
 
   - 教育

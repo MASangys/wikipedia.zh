@@ -1,3 +1,6 @@
+> 本文内容由[格伦·L·马丁公司](https://zh.wikipedia.org/wiki/格伦·L·马丁公司)转换而来。
+
+
 **格伦·L·马丁公司**（Glenn L. Martin Company）是[格伦·卢瑟·马丁于](https://zh.wikipedia.org/wiki/格伦·卢瑟·马丁 "wikilink")1912年8月16日创办的一家[飞行器](../Page/飞行器.md "wikilink")公司。马丁公司在创办初期在[加利福尼亚的](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[圣塔安娜制造军用教练机](https://zh.wikipedia.org/wiki/圣塔安娜 "wikilink")。1916年同莱特公司合并成为**[莱特－马丁飞行器公司](https://zh.wikipedia.org/wiki/莱特－马丁公司 "wikilink")**。但马丁后来离开并于1917年9月10日在[俄亥俄的](https://zh.wikipedia.org/wiki/俄亥俄 "wikilink")[克利夫兰](../Page/克利夫兰.md "wikilink")创办了第二家格伦·L·马丁公司。马丁公司的第一个成功产品是名为MB-1的双翼轰炸机。[美国陆军](../Page/美国陆军.md "wikilink")在1918年1月17日定购了这种飞机。[威廉·爱德华·波音](../Page/威廉·爱德华·波音.md "wikilink")，[詹姆士·史密斯·麦克唐纳](https://zh.wikipedia.org/wiki/詹姆士·史密斯·麦克唐纳 "wikilink")，[唐纳德·维尔斯·道格拉斯](../Page/老唐纳德·威尔士·道格拉斯.md "wikilink")，[劳伦斯·贝尔等著名航空企业家都曾经是格伦](https://zh.wikipedia.org/wiki/劳伦斯·贝尔 "wikilink")·L·马丁公司的雇员。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[CD](https://zh.wikipedia.org/wiki/CD)转换而来。
+
+
 [Interference-colors.jpg](https://zh.wikipedia.org/wiki/File:Interference-colors.jpg "fig:Interference-colors.jpg") [Small_cdisk_ubt.jpeg](https://zh.wikipedia.org/wiki/File:Small_cdisk_ubt.jpeg "fig:Small_cdisk_ubt.jpeg") **-{zh-hans:激光唱片;zh-hant:雷射唱片}-**（，縮寫：**CD**；又稱**-{zh-hans:雷射唱片;zh-hant:激光唱片}-**）是一種用以儲存數位資料的[-{zh-hans:光学盘片; zh-hant:光學碟片;}-](https://zh.wikipedia.org/wiki/光学盘片 "wikilink")，原被開發用作儲存[數位音訊](../Page/數位音訊.md "wikilink")。CD在1982年面世，至今仍然是商業錄音的標準[儲存裝置](../Page/儲存裝置.md "wikilink")。
 
 在CD尚未發明之前，音響系統都是屬於-{zh-hans:[模拟信号](https://zh.wikipedia.org/wiki/模拟信号 "wikilink"); zh-hk:[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink"); zh-tw:[類比訊號](https://zh.wikipedia.org/wiki/類比訊號 "wikilink")}-，音樂的來源大多是30公分直徑的[密紋唱片](../Page/密紋唱片.md "wikilink")、收音機以及錄音機等，CD發明之前沒有數位音響。

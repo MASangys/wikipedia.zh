@@ -1,3 +1,6 @@
+> 本文内容由[K线](https://zh.wikipedia.org/wiki/K线)转换而来。
+
+
 [K線的意義
 中国大陆及台湾採用「紅升綠跌」，歐美及香港採用「綠升紅跌」](https://zh.wikipedia.org/wiki/File:Candlestick.svg "fig:K線的意義 中国大陆及台湾採用「紅升綠跌」，歐美及香港採用「綠升紅跌」")
 

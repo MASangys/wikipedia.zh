@@ -1,3 +1,6 @@
+> 本文内容由[細So](https://zh.wikipedia.org/wiki/細So)转换而来。
+
+
 **細So**（，），本名**蘇耀宗**，[香港商業電台](../Page/香港商業電台.md "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")、[素食主義者](https://zh.wikipedia.org/wiki/素食主義者 "wikilink")。
 
 ## 簡歷

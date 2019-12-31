@@ -1,3 +1,6 @@
+> 本文内容由[FLAC](https://zh.wikipedia.org/wiki/FLAC)转换而来。
+
+
 **FLAC**（；全称：**F**ree **L**ossless **A**udio **C**odec），中文直译為**自由無損音頻壓縮編碼**（注：这里“*Free*”指的是**[自由软件](../Page/自由软件.md "wikilink")**——而并不仅是**免费**）。FLAC是一款的[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[音頻壓縮](https://zh.wikipedia.org/wiki/音頻壓縮 "wikilink")[編碼](https://zh.wikipedia.org/wiki/編碼 "wikilink")，其特點是可以对音频文件[無損壓縮](../Page/无损数据压缩.md "wikilink")。不同於其他[有損壓縮編碼](../Page/有损数据压缩.md "wikilink")（如[MP3](../Page/MP3.md "wikilink") 、[AAC等](../Page/進階音訊編碼.md "wikilink")），壓縮後不會有任何音質損失，現在已被很多軟體及硬體音頻產品所支持。
 
 ## 历史

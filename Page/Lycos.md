@@ -1,3 +1,6 @@
+> 本文内容由[Lycos](https://zh.wikipedia.org/wiki/Lycos)转换而来。
+
+
 **Lycos**是一家[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")[公司](../Page/公司.md "wikilink")和[门户网站](../Page/门户网站.md "wikilink")。
 
 ## 历史

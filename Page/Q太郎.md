@@ -1,3 +1,6 @@
+> 本文内容由[Q太郎](https://zh.wikipedia.org/wiki/Q太郎)转换而来。
+
+
 《**小鬼Q太郎**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）是[藤子不二雄](../Page/藤子不二雄.md "wikilink")（即[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")與[藤子不二雄A的合著](https://zh.wikipedia.org/wiki/藤子不二雄A "wikilink")）筆下著名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。而1965年至1967年期間，日本著名漫畫家[石森章太郎亦曾參與部分角色的作畫](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")。
 
 此部漫畫首次於1963年登場，並在1964年正式開始連載于《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》上。自1964年起至1966年之間，此漫畫一直不斷發表。其後1971年，以《新小鬼Q太郎》之名繼續連載，並直至1974年為止。其後，亦有少數短篇發表。

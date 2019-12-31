@@ -1,3 +1,6 @@
+> 本文内容由[仙后座A](https://zh.wikipedia.org/wiki/仙后座A)转换而来。
+
+
 [Supernova_Remnant_Cassiopeia_A.jpg](https://zh.wikipedia.org/wiki/File:Supernova_Remnant_Cassiopeia_A.jpg "fig:Supernova_Remnant_Cassiopeia_A.jpg")
 
 **仙后座A**（**Cas A**）是在[仙后座的](https://zh.wikipedia.org/wiki/仙后座 "wikilink")[超新星遺跡](https://zh.wikipedia.org/wiki/超新星遺跡 "wikilink")（SNR，supernova remnant）和最亮的太陽系外[無線電波源](../Page/無線電波源.md "wikilink")，它在天空中的頻率高於1GHz。這顆超新星在[銀河系內](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，距離地球大約\[1\]\[2\]。來自[超新星](../Page/超新星.md "wikilink")殘存下來的物質膨脹形成的雲氣，從地球的位置觀察，現在的大小約為。在業餘天文學的領域，以口徑234mm（9.25英寸）的望遠鏡配上適當的濾鏡，已經可以在可見光的波長下觀察到\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[TANet](https://zh.wikipedia.org/wiki/TANet)转换而来。
+
+
 **TANet**（\[1\]），即**臺灣學術網路**，為[中華民國](../Page/中華民國.md "wikilink")[教育部與](../Page/中華民國教育部.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")各學術單位共同建立的一個全國性[教學](https://zh.wikipedia.org/wiki/教學 "wikilink")[研究](../Page/研究.md "wikilink")用[網際網路系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
 
 ## 概要

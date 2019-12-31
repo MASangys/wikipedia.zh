@@ -1,3 +1,6 @@
+> 本文内容由[Google地图](https://zh.wikipedia.org/wiki/Google地图)转换而来。
+
+
 [Google_Maps.png](https://zh.wikipedia.org/wiki/File:Google_Maps.png "fig:Google_Maps.png")的螢幕截圖\]\]
 
 **Google地图**（；前稱：Google Local）是公司向全球提供的[电子地图服务](../Page/电子地图服务.md "wikilink")，地图包含[地標](../Page/地標.md "wikilink")、線條、形狀等信息，提供[矢量](https://zh.wikipedia.org/wiki/矢量 "wikilink")[地图](../Page/地图.md "wikilink")、[卫星照片](https://zh.wikipedia.org/wiki/卫星照片 "wikilink")、[地形图](../Page/地形图.md "wikilink")等三种視图。其兄弟產品包括[Google地球](../Page/Google地球.md "wikilink")、[Google月球](../Page/Google月球.md "wikilink")、[Google火星](https://zh.wikipedia.org/wiki/Google火星 "wikilink")、[Google星空](../Page/Google星空.md "wikilink")、[Google海洋](https://zh.wikipedia.org/wiki/Google海洋 "wikilink")。

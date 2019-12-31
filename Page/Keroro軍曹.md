@@ -1,3 +1,6 @@
+> 本文内容由[Keroro軍曹](https://zh.wikipedia.org/wiki/Keroro軍曹)转换而来。
+
+
 《**Keroro軍曹**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[吉崎觀音](../Page/吉崎觀音.md "wikilink")所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於1999年開始連載於《[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")》雜誌。描述一群青蛙型外星人來到地球後，策劃各種侵略地球的計劃並引發笑料的故事。
 
 本作品以其對日本各大經典[ACG](../Page/ACG.md "wikilink")作品的[戲仿而聞名](https://zh.wikipedia.org/wiki/戲仿 "wikilink")。還曾出現針對[政治家](../Page/政治家.md "wikilink")、[綜藝節目](../Page/綜藝節目.md "wikilink")、[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")、[連續劇和](https://zh.wikipedia.org/wiki/連續劇 "wikilink")[電影所做的嘲諷](https://zh.wikipedia.org/wiki/電影 "wikilink")。

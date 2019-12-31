@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(H\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(H\))转换而来。
+
+
 ## 语言、文字
 
   - H0　[语言学](../Page/语言学.md "wikilink")

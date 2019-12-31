@@ -1,3 +1,6 @@
+> 本文内容由[Adobe PageMaker](https://zh.wikipedia.org/wiki/Adobe PageMaker)转换而来。
+
+
 [Pm2a_mac.png](https://zh.wikipedia.org/wiki/File:Pm2a_mac.png "fig:Pm2a_mac.png")為15世紀意大利學者和印刷商\]\] [PageMaker45OS7.jpg](https://zh.wikipedia.org/wiki/File:PageMaker45OS7.jpg "fig:PageMaker45OS7.jpg") [AldusPagemaker45ChineseVersion.jpg](https://zh.wikipedia.org/wiki/File:AldusPagemaker45ChineseVersion.jpg "fig:AldusPagemaker45ChineseVersion.jpg") [Pm65c.png](https://zh.wikipedia.org/wiki/File:Pm65c.png "fig:Pm65c.png")
 
 **Adobe PageMaker**是第一款為蘋果[麥金塔](../Page/麥金塔.md "wikilink")電腦（[Apple Macintosh](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")）撰寫的[桌面出版](../Page/桌面出版.md "wikilink")軟體，是一套[幕前排版軟體](https://zh.wikipedia.org/wiki/幕前排版 "wikilink")，由[Aldus Corporation於](https://zh.wikipedia.org/wiki/Aldus_Corporation "wikilink")1985年發行，也是率先推出中文版本，改變中文排版市場的軟體。

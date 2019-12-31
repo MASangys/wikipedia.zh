@@ -1,3 +1,6 @@
+> 本文内容由[赛扬M](https://zh.wikipedia.org/wiki/赛扬M)转换而来。
+
+
 **Celeron M**，属于[赛扬](https://zh.wikipedia.org/wiki/赛扬 "wikilink")[处理器家族的移动处理器系列](https://zh.wikipedia.org/wiki/处理器 "wikilink")。具体说来，采用Northwood之后核心，到目前为止的移动版赛扬处理器都属于Celeron M。
 
 ## 诞生

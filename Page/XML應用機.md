@@ -1,3 +1,6 @@
+> 本文内容由[XML應用機](https://zh.wikipedia.org/wiki/XML應用機)转换而来。
+
+
 **XML應用機**是一种专用的计算机系統（或稱：[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")），它专门用来处理其它计算机系統之间的[XML](../Page/XML.md "wikilink")消息的交换，其功能有[XML](../Page/XML.md "wikilink")消息的加速、加密、路由、整合、[轉換](https://zh.wikipedia.org/wiki/XSL "wikilink")、交換等。与之相對的通用计算机系统（伺服器）則可以完成多种不同的任务，而非只具有某些特定的功能。
 
 XML應用機的用戶主要為企業或機關單位，特別是在大型的企業或機關，以及經常與內外多方進行電子訊息聯繫、交換的企業或機關，這類型的用戶近年來為了強化資訊軟體與訊息的整合、交換，紛紛規劃與佈建[服務導向架構](../Page/面向服务的体系结构.md "wikilink")（Service Oriented Architecture，SOA）的資訊環境，而XML應用機能夠使SOA環境的建立及營運更加精省及效率。

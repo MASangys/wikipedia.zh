@@ -1,3 +1,6 @@
+> 本文内容由[至NET小人類](https://zh.wikipedia.org/wiki/至NET小人類)转换而来。
+
+
 《**至NET小人類**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****）（2000年1月3日—2004年12月31日），是[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，此節目接替同類型兒童節目《[閃電傳真機](../Page/閃電傳真機.md "wikilink")》，後來被同類型兒童節目《[放學ICU](../Page/放學ICU.md "wikilink")》取代。\[1\]\[2\]\[3\]
 
 ## 主持

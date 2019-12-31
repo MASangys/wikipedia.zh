@@ -1,3 +1,6 @@
+> 本文内容由[BattleTech](https://zh.wikipedia.org/wiki/BattleTech)转换而来。
+
+
 [Battletech_cbt_20year_tri_800.jpg](https://zh.wikipedia.org/wiki/File:Battletech_cbt_20year_tri_800.jpg "fig:Battletech_cbt_20year_tri_800.jpg") 《**BattleTech**》（暫譯：**戰鬥科技**，另有譯作：**暴戰機甲兵**）是一個虛構的[科幻世界](https://zh.wikipedia.org/wiki/科幻 "wikilink")，類似[星艦迷航記或是](https://zh.wikipedia.org/wiki/星艦迷航記 "wikilink")[星際大戰](../Page/星際大戰.md "wikilink")系列。《**BattleTech**》最先出現的是[棋盤式的戰爭遊戲](https://zh.wikipedia.org/wiki/棋盤遊戲 "wikilink")，於1984年由[FASA公司設計](https://zh.wikipedia.org/wiki/FASA "wikilink")。遊戲中模擬了31世紀後的未來戰場，在那時，以[核融合為動力的巨大步行](https://zh.wikipedia.org/wiki/核融合 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")，也就是所謂的**戰鬥機甲**（BattleMechs），成為戰場的主宰者，搭配[坦克](../Page/坦克.md "wikilink")、星艦、[戰鬥機等載具](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，並使用諸如[雷射](https://zh.wikipedia.org/wiki/雷射 "wikilink")、[粒子砲](https://zh.wikipedia.org/wiki/粒子砲 "wikilink")（particle projection cannons）、電磁槍（gauss rifles）、自動機砲和飛彈等武器。遊戲的主軸就是戰鬥機甲之間的戰鬥，以及關於戰鬥機甲的種種故事，所以《**BattleTech**》可以算是一種有著濃重軍事風的科幻世界。
 
 《**BattleTech**》最早期的版本名叫《**BattleDrolds**》（『drold』是[機器人的別稱](https://zh.wikipedia.org/wiki/機器人 "wikilink")），但由於[喬治盧卡斯](https://zh.wikipedia.org/wiki/喬治盧卡斯 "wikilink")（George Lucas）和[盧卡斯影業](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")（Lucasfilm Ltd.）已經先為『drold』一字註冊了商標，所以從第二版開始便改名叫《**BattleTech**》。

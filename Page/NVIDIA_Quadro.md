@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA Quadro](https://zh.wikipedia.org/wiki/NVIDIA Quadro)转换而来。
+
+
 **Quadro**是由[NVIDIA設計的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[顯示晶片](https://zh.wikipedia.org/wiki/顯示晶片 "wikilink")，發音：，是[西班牙語中](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[正方形](../Page/正方形.md "wikilink")的意思，又表示四的倍數，意即四倍的效能。首款產品發表於1999年11月\[1\]。Quadro系列定位於專業[繪圖](https://zh.wikipedia.org/wiki/繪圖 "wikilink")[工作站](../Page/工作站.md "wikilink")領域。多數產品的核心實質上與定位於個人領域的[GeForce](../Page/GeForce.md "wikilink")完全相同，但與GeForce相比Quadro強調與行業軟體的兼容性、穩定性以及高效率。其[驅動程式對行業軟體及](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")[編程介面有相應的優化](https://zh.wikipedia.org/wiki/編程介面 "wikilink")\[2\]。幾乎所有Quadro FX系列都通過了[AutoCAD](../Page/AutoCAD.md "wikilink")認證，可完整支援線框模式的[反鋸齒](../Page/反鋸齒.md "wikilink")，集成一個專為[AutoCAD](../Page/AutoCAD.md "wikilink")平滑線條所設計的硬體引擎，高效能的Gooch[著色器](https://zh.wikipedia.org/wiki/著色器 "wikilink")。Quadro FX還具備[UMA技術](https://zh.wikipedia.org/wiki/UMA "wikilink")，高速的硬體[交互作業與雙面光照](https://zh.wikipedia.org/wiki/人機互動 "wikilink")、[3D動態剖切技術](https://zh.wikipedia.org/wiki/3D "wikilink")。
 
 一般來說Quadro的價錢比GeForce貴，所以有部分使用者軟改[GeForce](../Page/GeForce.md "wikilink")顯示卡，利用改版的驅動，他們可得到一張便宜而等價的Quadro顯示卡。

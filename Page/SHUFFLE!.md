@@ -1,3 +1,6 @@
+> 本文内容由[SHUFFLE!](https://zh.wikipedia.org/wiki/SHUFFLE!)转换而来。
+
+
 《**SHUFFLE\!**》是[Navel](../Page/Navel.md "wikilink")於2004年1月30日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")\[1\]，後移植至[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")，並被改編成[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 概要

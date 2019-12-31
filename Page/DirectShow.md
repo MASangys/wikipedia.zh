@@ -1,3 +1,6 @@
+> 本文内容由[DirectShow](https://zh.wikipedia.org/wiki/DirectShow)转换而来。
+
+
 **DirectShow**（有时缩写如**DS**或**DShow**），开发代号*Quartz*，是一种由[微软公司开发的能够让软件开发者对媒体文件执行各种不同处理的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[应用程序设计接口](https://zh.wikipedia.org/wiki/应用程序设计接口 "wikilink")。它是微软公司对早先[Windows视频科技的一次更新](https://zh.wikipedia.org/wiki/Windows "wikilink")。基于微软公司Windows组件对象模型（[COM](https://zh.wikipedia.org/wiki/COM "wikilink")）框架，DirectShow为大部份微软公司程序设计语言提供了一个媒体的普遍接口，而且是一个可扩展的，能在使用者或开发者的命令下播放或记录媒体文件的，以Filter为基础的框架。DirectShow开发工具及凭证被加入到微软公司[SDK平台的一部份](https://zh.wikipedia.org/wiki/SDK "wikilink")。Windows Media Player这样的应用程序运用DirectShow或者它的各种衍生来播放来自文件或是互联网上的内容。DirectShow's的最大的竞争对手是[苹果计算机的](https://zh.wikipedia.org/wiki/苹果计算机 "wikilink")[QuickTime](../Page/QuickTime.md "wikilink")框架。
 
 ## 历史

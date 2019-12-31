@@ -1,3 +1,6 @@
+> 本文内容由[文明IV](https://zh.wikipedia.org/wiki/文明IV)转换而来。
+
+
 《**文明IV**》（全称“**席德·梅尔之文明IV**”，）是一个[回合制策略](../Page/回合制策略游戏.md "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")，它是[游戏设计师](https://zh.wikipedia.org/wiki/游戏设计师 "wikilink")[席德·梅尔的](https://zh.wikipedia.org/wiki/席德·梅尔 "wikilink")[文明系列](../Page/文明系列.md "wikilink")作品。由主设计师[索伦·约翰逊在梅尔的指导下](https://zh.wikipedia.org/wiki/w:Soren_Johnson "wikilink")，由梅尔的[工作室](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")[Firaxis Games开发](../Page/Firaxis_Games.md "wikilink")。文明IV于2005年10月25日和11月4日之间，在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[欧洲](../Page/欧洲.md "wikilink")和[澳大利亚](../Page/澳大利亚.md "wikilink")发行。[麦金塔版于](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")2006年初发行。游戏的第一个[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")——《战神》（*Warlord*）和第二个资料片——《超越刀锋》（*Beyond the Sword*）分别于2006年7月和2007年7月在美国和欧洲上市。采用相同引擎而玩法差异很大的“独立资料片”《殖民统治》（*Colonization*）于2008年9月上市。到2007年初，文明IV已经售出了超过150万套。\[1\]
 
 与其他文明系列的游戏相似，文明IV游戏是由玩家从一个小城市开始来建立一个帝国的过程。一个标准的游戏过程通常是玩家选定一个文明（每个文明对应一个帝国）后，游戏从[公元前4000年开始](https://zh.wikipedia.org/wiki/前4千年 "wikilink")，玩家拥有一个“定居者”（settler），可用于建立一个城市；然后玩家通过内政、外交和战争来为自己的文明（即帝国）获取资源和土地，与多个由电脑（单人游戏中）或其他玩家（多人游戏中）控制的文明竞争，以争取最终的胜利。

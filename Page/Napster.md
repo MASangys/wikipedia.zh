@@ -1,3 +1,6 @@
+> 本文内容由[Napster](https://zh.wikipedia.org/wiki/Napster)转换而来。
+
+
 **Napster**是一种提供线上音乐服务的软体，最初由[约翰·范宁](https://zh.wikipedia.org/wiki/约翰·范宁 "wikilink")、[肖恩·范宁和](https://zh.wikipedia.org/wiki/肖恩·范宁 "wikilink")[西恩·帕克](../Page/西恩·帕克.md "wikilink")共同创立的[档案共享服务](https://zh.wikipedia.org/wiki/档案共享 "wikilink")。Napster是第一个被广泛应用的[点对点](https://zh.wikipedia.org/wiki/点对点 "wikilink")（Peer-to-Peer，P2P）音乐共享服务，它极大幅度地影响了人们，特别是對於[大学生使用](https://zh.wikipedia.org/wiki/大学生 "wikilink")[互联网](../Page/互联网.md "wikilink")的方式。而它的出现，也使得音乐爱好者间共享[MP3](../Page/MP3.md "wikilink")歌曲变得容易，却也因此招致了影音界对其大规模[侵权行为的指责](https://zh.wikipedia.org/wiki/侵权 "wikilink")。尽管在法庭的责令下该服务已经终止，但它却为其他点对点文件共享程序——如[Kazaa](https://zh.wikipedia.org/wiki/Kazaa "wikilink")，[Limewire和](https://zh.wikipedia.org/wiki/Limewire "wikilink")[BearShare](https://zh.wikipedia.org/wiki/BearShare "wikilink")——的拓展铺好了路，且对这种方式的文件共享的控制，亦变得愈加困难。如今Napster以经营付费服务为主，而免费的Napster的流行和回响使其在电脑界和娱乐业里成为一个传奇的象征。
 
 ## 艺术团体的指控

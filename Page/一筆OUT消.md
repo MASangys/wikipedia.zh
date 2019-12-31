@@ -1,3 +1,6 @@
+> 本文内容由[一筆OUT消](https://zh.wikipedia.org/wiki/一筆OUT消)转换而来。
+
+
 《**一筆OUT消**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：*Weakest Link*）是一個源自[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[遊戲節目](https://zh.wikipedia.org/wiki/遊戲節目 "wikilink")，世界多處地方均有製作當地版本。節目於2000年[英國廣播公司第二台](../Page/英國廣播公司第二台.md "wikilink")（BBC Two）首播，其後大受歡迎，獲世界各地的電視台購下製作權播映。
 
 英文原名Weakest Link解作「最弱一環」。遊戲節目中，各個參賽者要一個接一個連續正確解答問題，才能獲得最高獎金，情況猶如鎖鏈中一環扣一環。每回合參賽者會互相投票選出該回合的「最弱一環」，他會被主持人驅逐出局離場。

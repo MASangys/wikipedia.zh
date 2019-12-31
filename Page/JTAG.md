@@ -1,3 +1,6 @@
+> 本文内容由[JTAG](https://zh.wikipedia.org/wiki/JTAG)转换而来。
+
+
 **JTAG**是**联合测试工作组（Joint Test Action Group）**的简称，是在名为**标准测试访问端口和边界扫描结构**的[IEEE的标准](https://zh.wikipedia.org/wiki/电气电子工程师协会 "wikilink")1149.1的常用名称。此标准用于驗證設計與測試生產出的印刷電路板功能。
 
 1990年JTAG正式由IEEE的1149.1-1990号文档标准化，在1994年，加入了补充文档对[边界扫描描述语言](https://zh.wikipedia.org/wiki/边界扫描描述语言 "wikilink")（BSDL）进行了说明。从那时开始，这个标准被全球的电子企业广泛采用。边界扫描几乎成为了JTAG的同义词。

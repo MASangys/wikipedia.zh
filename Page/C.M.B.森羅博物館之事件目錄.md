@@ -1,3 +1,6 @@
+> 本文内容由[C.M.B.森羅博物館之事件目錄](https://zh.wikipedia.org/wiki/C.M.B.森羅博物館之事件目錄)转换而来。
+
+
 為[加藤元浩](../Page/加藤元浩.md "wikilink")所著之推理漫畫，於[講談社漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")》2005年10月號開始連載。跟《[神通小侦探](https://zh.wikipedia.org/wiki/神通小侦探 "wikilink")》是姐妹作，共用世界觀。
 
 ## 劇情簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Canny算子](https://zh.wikipedia.org/wiki/Canny算子)转换而来。
+
+
 **Canny边缘检测算子**是澳洲計算機科學家[約翰·坎尼](https://zh.wikipedia.org/wiki/約翰·坎尼 "wikilink")（）于1986年开发出来的一个多级[边缘检测](../Page/边缘检测.md "wikilink")[算法](../Page/算法.md "wikilink")。更为重要的是Canny创立了“边缘检测计算理论”（computational theory of edge detection）解释这项技术如何工作。
 
 ## Canny算法的发展

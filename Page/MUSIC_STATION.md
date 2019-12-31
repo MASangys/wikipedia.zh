@@ -1,3 +1,6 @@
+> 本文内容由[MUSIC STATION](https://zh.wikipedia.org/wiki/MUSIC STATION)转换而来。
+
+
 《**MUSIC STATION**》（）是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[直播節目](../Page/現場直播.md "wikilink")，自1986年10月24日起於[日本時間每星期五晚间播出](https://zh.wikipedia.org/wiki/日本時間 "wikilink")。該節目在日本經常被簡稱為「****」（[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：M Sute）。現任[主持人為](https://zh.wikipedia.org/wiki/主持人 "wikilink")[塔摩利](../Page/塔摩利.md "wikilink")，副主持人為朝日電視台主播[並木万里菜](https://zh.wikipedia.org/wiki/並木万里菜 "wikilink")。由於節目內容以[日本流行音樂](../Page/日本流行音樂.md "wikilink")為主，在日本以外地區亦有播出。
 
 ## 沿革

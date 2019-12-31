@@ -1,3 +1,6 @@
+> 本文内容由[ADO.NET](https://zh.wikipedia.org/wiki/ADO.NET)转换而来。
+
+
 **ADO.NET**是微軟在[.NET Framework中負責](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[資料存取](../Page/資料存取.md "wikilink")的類別庫集，它是使用在[COM時代奠基的](https://zh.wikipedia.org/wiki/COM "wikilink")[OLE DB技術以及](../Page/OLE_DB.md "wikilink")[.NET Framework的類別庫和程式語言來發展的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，它可以讓.NET上的任何程式語言能夠連接並存取[關聯式資料庫與非資料庫型資料來源](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")（例如XML，Excel或是文字檔資料），或是獨立出來作為處理應用程式資料的類別物件，其在.NET Framework中的地位是舉足輕重，許多人將ADO.NET視為ADO的下一個版本，但其實它是一個全新的架構、產品與概念。
 
 ADO.NET类封装在System.Data.dll中，并且与System.Xml.dll中的XML类集成。

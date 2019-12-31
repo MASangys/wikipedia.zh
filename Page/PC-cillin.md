@@ -1,3 +1,6 @@
+> 本文内容由[PC-cillin](https://zh.wikipedia.org/wiki/PC-cillin)转换而来。
+
+
 **PC-cillin**，是[趨勢科技](../Page/趨勢科技.md "wikilink")推出的[防毒軟體](../Page/杀毒软件.md "wikilink")。\[1\]。
 
 ## 系統需求

@@ -1,3 +1,6 @@
+> 本文内容由[JTL](https://zh.wikipedia.org/wiki/JTL)转换而来。
+
+
 **jtL**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**제이티엘**）是[韩国前人氣偶像組合](https://zh.wikipedia.org/wiki/韩国 "wikilink")。[H.O.T.](../Page/H.O.T..md "wikilink")解散后，成员[张佑赫](../Page/张佑赫.md "wikilink")、[安胜浩](../Page/安胜浩.md "wikilink")和[李在元组成了新團體jtL](../Page/李載沅.md "wikilink")\[1\]，以三人英文名字開頭的字母命名。2001年12月20日，jtL的首張專輯《龍爭虎鬥》（Enter The Dragon）發行，第一週銷量已經有48萬張，此時卻消失於大眾眼前，他們的音樂錄影帶、音樂放送和節目錄製等宣傳活動全部都沒有曝光或無故取消，連頒獎典禮都沒有出席，受歡迎的歌曲也在排行榜上出現明顯疑點。傳聞直指媒體對jtL的封殺行動是三人的前東家[SM娛樂](../Page/SM娛樂.md "wikilink")聯合電視台所為，不過SM娛樂和電視台都予以全盤否認\[2\]\[3\]。2002年2月17日，jtL挑戰《[萬人召集演唱會](../Page/MBC_游擊演唱會.md "wikilink")》，成為首次亮相的機會，最終成功號召了12,133人\[4\]。
 
 他們的著名歌曲〈A Better Day〉曾獲得[SBS人氣歌謠冠軍](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")，被[香港](../Page/香港.md "wikilink")歌手[劉德華](../Page/劉德華.md "wikilink")翻唱為〈黑蝙蝠中隊〉。2003年獲得[MTV亞洲大獎](../Page/MTV亞洲大獎.md "wikilink")「韓國最受歡迎歌手」獎項。2004年7月，jtL解散。

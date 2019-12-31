@@ -1,3 +1,6 @@
+> 本文内容由[ME \(專輯\)](https://zh.wikipedia.org/wiki/ME \(專輯\))转换而来。
+
+
 **《ME》**是香港歌手[薛凱琪的個人專輯](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，由[華納唱片公司製作](https://zh.wikipedia.org/wiki/華納唱片_\(唱片\) "wikilink")，於2005年12月22日推出，截至2006年2月底為止，銷量估計約為20,000張。
 
 ## 簡介

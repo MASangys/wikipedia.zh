@@ -1,3 +1,6 @@
+> 本文内容由[STS-51-C](https://zh.wikipedia.org/wiki/STS-51-C)转换而来。
+
+
 ****是历史上第十五次航天飞机任务，也是[发现号的第三次太空飞行](https://zh.wikipedia.org/wiki/發現號太空梭 "wikilink")。
 
 ## 任务成员

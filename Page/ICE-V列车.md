@@ -1,3 +1,6 @@
+> 本文内容由[ICE-V列车](https://zh.wikipedia.org/wiki/ICE-V列车)转换而来。
+
+
 [Db-410001-01.jpg](https://zh.wikipedia.org/wiki/File:Db-410001-01.jpg "fig:Db-410001-01.jpg")中央車站\]\]
 
 **試驗型城際列車特快**（，即ICE-V，V = Versuch(德文) = Experiment）是[德國鐵路為](https://zh.wikipedia.org/wiki/德國鐵路 "wikilink")[德國發展](https://zh.wikipedia.org/wiki/德國 "wikilink")[高速鐵路](../Page/高速鐵路.md "wikilink")的第一輛試作型列車, 它亦是[城際特快列車](https://zh.wikipedia.org/wiki/城際特快列車 "wikilink")(InterCityExpress)的先驅者。

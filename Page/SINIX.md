@@ -1,3 +1,6 @@
+> 本文内容由[SINIX](https://zh.wikipedia.org/wiki/SINIX)转换而来。
+
+
 **SINIX**（之後改稱**Reliant UNIX**）是[西門子利多富資訊系統](../Page/西門子利多富資訊系統.md "wikilink")公司所提出的[UNIX](../Page/UNIX.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，該作業系統以SINIX為名的最末一個版本為1995年發表的5.43版。
 
 為了讓[X/Open公司能合乎擁有UNIX這個註冊商標的需要SINIX必須進行改名](https://zh.wikipedia.org/wiki/X/Open "wikilink")，因此SINIX從5.44版開始（也包含5.44版）由[富士通-西門子電腦公司改以](https://zh.wikipedia.org/wiki/富士通-西門子電腦公司 "wikilink")**Reliant UNIX**之名接續，而最末的一版為5.45版。

@@ -1,3 +1,6 @@
+> 本文内容由[WinSCP](https://zh.wikipedia.org/wiki/WinSCP)转换而来。
+
+
 **WinSCP**是一款開源的[SFTP客戶端](../Page/SSH文件传输协议.md "wikilink")，運行於[Windows系統下](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，遵照[GPL發佈](../Page/GNU通用公共许可证.md "wikilink")。WinSCP除了SFTP，還支持[SSH](../Page/Secure_Shell.md "wikilink")、[SCP](../Page/安全复制.md "wikilink")。
 
 WinSCP的開發始於2000年4月，由[布拉格经济大学](../Page/布拉格经济大学.md "wikilink")所發展與維護，基於[PuTTY](../Page/PuTTY.md "wikilink")的對於SSH的實現，支援 SSH-1 與 SSH-2，WinSCP同時也支援SCP（安全复制）通訊協定，WinSCP具有[FTP的檔案傳輸功能](../Page/文件传输协议.md "wikilink")，又比FTP更加具有安全性。使用者可在[SourceForge](../Page/SourceForge.md "wikilink")網站下載。

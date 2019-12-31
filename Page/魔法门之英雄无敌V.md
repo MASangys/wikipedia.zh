@@ -1,3 +1,6 @@
+> 本文内容由[魔法门之英雄无敌V](https://zh.wikipedia.org/wiki/魔法门之英雄无敌V)转换而来。
+
+
 是《[魔法门之英雄无敌](https://zh.wikipedia.org/wiki/魔法门之英雄无敌 "wikilink")》系列[电脑游戏](../Page/电脑游戏.md "wikilink")的第五部作品，在魔法门品牌所有者[育碧软件的监督下](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")，由俄罗斯的Nival Interactive开发。在比预定发行时间延期两个半月之后，该游戏于2006年5月16日在[英国首发](https://zh.wikipedia.org/wiki/英国 "wikilink")。俄文版由[1C公司于](https://zh.wikipedia.org/wiki/1C公司 "wikilink")5月19日在俄罗斯发布。2006年5月24日，在[美国](../Page/美国.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")发行。随后，游戏还在[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")、[中国大陆](../Page/中国大陆.md "wikilink")、[台湾等地发行了当地的语言版本](https://zh.wikipedia.org/wiki/台湾 "wikilink")。
 
 ## 补丁

@@ -1,3 +1,6 @@
+> 本文内容由[警察故事III超級警察](https://zh.wikipedia.org/wiki/警察故事III超級警察)转换而来。
+
+
 是一部於1992年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[唐季禮](../Page/唐季禮.md "wikilink")擔任導演兼武術指導，並由[成龍](../Page/成龍.md "wikilink")、[張曼玉](../Page/張曼玉.md "wikilink")及[楊紫瓊領銜主演](https://zh.wikipedia.org/wiki/楊紫瓊 "wikilink")；本片為《警察故事系列》中的第三部，講述成龍飾演的警察陳家駒的故事。
 
 值得注意的是在這部影片中[張曼玉](../Page/張曼玉.md "wikilink")最后一次扮演陳家駒的女朋友阿May，此後张開始接演藝術性較高的電影，也開始與[王家衛的長期合作](https://zh.wikipedia.org/wiki/王家衛 "wikilink")。楊紫瓊之后主演了一部本片續集《[超級計劃](../Page/超級計劃.md "wikilink")》，但那部續集不能算在《[警察故事](../Page/警察故事.md "wikilink")》系列中，而是一个分岔出的新系列。

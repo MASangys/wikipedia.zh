@@ -1,3 +1,6 @@
+> 本文内容由[三洋DSC-MZ3](https://zh.wikipedia.org/wiki/三洋DSC-MZ3)转换而来。
+
+
 **三洋 DSC-MZ3**乃[三洋](https://zh.wikipedia.org/wiki/三洋 "wikilink")（[Sanyo](https://zh.wikipedia.org/wiki/Sanyo "wikilink")）公司於2002年推出的數碼相機。
 
 ## 規格

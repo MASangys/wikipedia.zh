@@ -1,3 +1,6 @@
+> 本文内容由[醫龍-Team Medical Dragon-](https://zh.wikipedia.org/wiki/醫龍-Team Medical Dragon-)转换而来。
+
+
 《**醫龍-Team Medical Dragon-**》（），是由[永井明原作](https://zh.wikipedia.org/wiki/永井明 "wikilink")、[吉沼美惠醫療監修](https://zh.wikipedia.org/wiki/吉沼美惠 "wikilink")、[乃木坂太郎](../Page/乃木坂太郎.md "wikilink")作畫，以[醫療為題材的](https://zh.wikipedia.org/wiki/醫療 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。一般簡稱為「**醫龍**」。
 
 2006年改編為同名電視劇，由[坂口憲二](../Page/坂口憲二.md "wikilink")主演。

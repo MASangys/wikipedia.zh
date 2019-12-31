@@ -1,3 +1,6 @@
+> 本文内容由[Wget](https://zh.wikipedia.org/wiki/Wget)转换而来。
+
+
 **GNU Wget**（常简称为**Wget**）是一个在网络上进行下载的简单而强大的[自由软件](../Page/自由软件.md "wikilink")，其本身也是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")。它的名字是「****」和「****」的结合，同时也隐含了软件的主要功能。目前它支持通过、，以及这三个最常见的[TCP/IP协议协议下载](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")。
 
 ## 特点

@@ -1,3 +1,6 @@
+> 本文内容由[植物分類表 \(NCBI\)](https://zh.wikipedia.org/wiki/植物分類表 \(NCBI\))转换而来。
+
+
 NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")，其分类方法一般吸收了最新的科学进展，能被全世界的生物界所接受。
 
 本列表僅列出[有胚植物](../Page/有胚植物.md "wikilink")（Embryophyta）部分，所有分類單元均分至科。以下所有有胚植物亦俱屬於[鏈形植物](https://zh.wikipedia.org/wiki/鏈形植物 "wikilink")（Streptophytina），格式方便起見另起段落。绿色植物的其他部分参见[藻类分类表](https://zh.wikipedia.org/wiki/藻类分类表 "wikilink")。

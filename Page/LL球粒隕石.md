@@ -1,3 +1,6 @@
+> 本文内容由[LL球粒隕石](https://zh.wikipedia.org/wiki/LL球粒隕石)转换而来。
+
+
 **LL球粒隕石**（又稱為低鐵低金屬群球粒隕石）是最豐富的[普通球粒隕石](../Page/普通球粒隕石.md "wikilink")中佔的比例最小的一個族群，大約是已發現墬落球粒隕石的10-11%，和所有墬落隕石的8-9%（參見[墬落隕石的統計](https://zh.wikipedia.org/wiki/墬落隕石的統計 "wikilink")）。
 
 **LL**所代表的意義是**低鐵**（總含量）和**低金屬**，它們的鐵總含量約為19-22%，而金屬鐵則只有0.3-3%，這意味著多數的鐵都是以氧化鐵（FeO）的形式存在於矽酸鹽內；橄欖石中包含26-32摩爾百分比的[鐵橄欖石](https://zh.wikipedia.org/wiki/鐵橄欖石 "wikilink")（Fa）。含量最豐富的礦物是[紫蘇輝石](https://zh.wikipedia.org/wiki/紫蘇輝石 "wikilink")（一種[輝石](https://zh.wikipedia.org/wiki/輝石 "wikilink")）和[橄欖石](https://zh.wikipedia.org/wiki/橄欖石 "wikilink")。其它的礦物包括鐵-鎳金屬、[隕硫鐵](../Page/隕硫鐵.md "wikilink")（FeS）、[長石或長石的玻璃](https://zh.wikipedia.org/wiki/長石 "wikilink")、[鉻鐵礦](https://zh.wikipedia.org/wiki/鉻鐵礦 "wikilink")、和磷酸鹽。

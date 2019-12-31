@@ -1,3 +1,6 @@
+> 本文内容由[博德之门II：安姆的阴影](https://zh.wikipedia.org/wiki/博德之门II：安姆的阴影)转换而来。
+
+
 是由加拿大[Bioware公司和美国](https://zh.wikipedia.org/wiki/Bioware "wikilink")[Interplay公司旗下的](https://zh.wikipedia.org/wiki/Interplay "wikilink")[黑岛工作室](https://zh.wikipedia.org/wiki/黑岛工作室 "wikilink")（Black Isle Studio）联合制作并于2000年9月发行的一个基于高级[龙与地下城](../Page/龙与地下城.md "wikilink")规则（AD\&D）的电脑角色扮演游戏（CRPG）。是其前代[博德之门](../Page/博德之门.md "wikilink")及[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")[博德之门：剑湾传奇的续作](https://zh.wikipedia.org/wiki/博德之门：剑湾传奇 "wikilink")。本作初版的汉化由Bioware公司负责。\[1\]
 
 由Beamdog开发与发行的《博德之门Ⅱ：增强版》（Baldur's Gate II: Enhanced Edition）在2013年11月16日于Steam上架，2018年5月在测试通道更新简体中文支持，6月29日正式添加简中\[2\]。

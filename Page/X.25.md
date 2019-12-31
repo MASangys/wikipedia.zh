@@ -1,3 +1,6 @@
+> 本文内容由[X.25](https://zh.wikipedia.org/wiki/X.25)转换而来。
+
+
 ''' X.25 '''是一个使用电话或者[ISDN设备作为网络硬件设备来架构](https://zh.wikipedia.org/wiki/ISDN "wikilink")[广域网的](https://zh.wikipedia.org/wiki/广域网 "wikilink")[ITU-T网络协议](https://zh.wikipedia.org/wiki/ITU-T "wikilink")。它的[實體层](https://zh.wikipedia.org/wiki/實體层 "wikilink")，[数据链路层](../Page/数据链路层.md "wikilink")和[网络层](../Page/网络层.md "wikilink")（1－3层）都是按照[OSI模型](../Page/OSI模型.md "wikilink")来架构的。在国际上X.25的提供者通常称X.25为分封交换网（Packet switched network），尤其是那些国营的电话公司。它们的复合网络从80年代到90年代覆盖全球，在现在仍然应用于交易系统中。
 
 ## 历史

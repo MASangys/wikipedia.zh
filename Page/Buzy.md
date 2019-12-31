@@ -1,3 +1,6 @@
+> 本文内容由[Buzy](https://zh.wikipedia.org/wiki/Buzy)转换而来。
+
+
 **Buzy**是[日本](../Page/日本.md "wikilink")的演唱团体。Buzy意为 "**B**lend"，"**U**nique"，"**Z**ipping"，"**Y**ou just wait"。2004年3月3日凭单曲 "鯨" 在日本流行乐界出道。所属唱片公司为Imperial Records。2006年6月解散。
 
 ## 团员资料

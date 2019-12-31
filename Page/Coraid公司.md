@@ -1,3 +1,6 @@
+> 本文内容由[Coraid公司](https://zh.wikipedia.org/wiki/Coraid公司)转换而来。
+
+
 **Coraid公司**（原文為英文的）\[1\]位在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州](../Page/喬治亞州.md "wikilink")的[雅典城](https://zh.wikipedia.org/wiki/雅典城，喬治亞州 "wikilink")，是一家研製、銷售[電腦儲存設備的業者](https://zh.wikipedia.org/wiki/電腦儲存 "wikilink")，且主要是網路型儲存的硬體設備、裝置，此方面的產品多稱為網路式儲存應用機（Networked Storage Appliances）。
 
 除此之外，Coraid公司也發創及維護Linux核心之用的[ATA over Ethernet](../Page/ATA_over_Ethernet.md "wikilink")（簡稱：AoE）驅動程式，這也應證了該公司的營運口號："The Linux Storage People"\[2\]。

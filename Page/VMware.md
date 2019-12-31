@@ -1,3 +1,6 @@
+> 本文内容由[VMware](https://zh.wikipedia.org/wiki/VMware)转换而来。
+
+
 **威睿**（）是[戴爾科技](https://zh.wikipedia.org/wiki/戴爾科技 "wikilink")（[戴爾電腦母公司](https://zh.wikipedia.org/wiki/戴爾電腦 "wikilink")）旗下[软件](https://zh.wikipedia.org/wiki/电脑软件 "wikilink")[公司](../Page/公司.md "wikilink")，提供[云计算和](https://zh.wikipedia.org/wiki/云计算 "wikilink")[硬件虚拟化](../Page/硬件虚拟化.md "wikilink")的软件和服务\[1\]\[2\]\[3\]，并号称是第一个成功商业化的虚拟化[x86架构](https://zh.wikipedia.org/wiki/x86 "wikilink")\[4\]。公司成立于1998年，总部设在美國[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[帕洛阿尔托](https://zh.wikipedia.org/wiki/帕洛阿尔托 "wikilink")。
 
 ## 歷史

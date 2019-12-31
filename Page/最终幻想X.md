@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想X](https://zh.wikipedia.org/wiki/最终幻想X)转换而来。
+
+
 是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）於2001年发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")10部正传。由於台灣舊譯為當時[史克威爾](../Page/史克威爾.md "wikilink")授權的台版攻略本與媒體使用的名稱，故也有玩家簡稱此作為太10。游戏最初在[索尼的](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation 2平台发售](../Page/PlayStation_2.md "wikilink")，2013年之后以「[最终幻想X/X-2 HD重制版](https://zh.wikipedia.org/wiki/最终幻想X/X-2_HD重制版 "wikilink")」名义推出高清化复刻版，先后登陆[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。本作為最终幻想本傳系列从预先渲染的背景转向全[3D運算场景的首例](../Page/三维计算机图形.md "wikilink")，並首度為遊戲角色启用[配音](../Page/配音.md "wikilink")。《最终幻想X》以“計算時間戰鬥”（CTB）系统取代了即时战斗（ATB）系统，并使用名为“幻光球盘”的新升级系统。
 
 游戏设定于奇幻世界[史匹拉](../Page/史匹拉.md "wikilink")，讲述一行冒险者为击败破坏性怪物“辛”而踏上旅程的故事。玩家角色提达是水鬥球運動的球星，在家乡札纳尔坎德被辛毁灭后发现自己身处異世界的史匹拉。在到达史匹拉后不久，提达加入了召唤士尤娜巡迴朝圣并消灭辛的队伍。

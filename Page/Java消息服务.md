@@ -1,3 +1,6 @@
+> 本文内容由[Java消息服务](https://zh.wikipedia.org/wiki/Java消息服务)转换而来。
+
+
 **Java消息服务**（**Java Message Service**，**JMS**）[应用程序接口](../Page/应用程序接口.md "wikilink")是一个[Java](../Page/Java.md "wikilink")平台中关于[面向消息中间件](https://zh.wikipedia.org/wiki/面向消息中间件 "wikilink")（MOM）的[API](https://zh.wikipedia.org/wiki/API "wikilink")，用于在两个应用程序之间，或分布式系统中发送消息，进行异步通信。Java消息服务是一个与具体平台无关的API，绝大多数MOM提供商都对JMS提供支持。
 
 Java消息服务的规范包括两种消息模式，点对点和发布者／订阅者。许多提供商支持这一通用框架因此，程序员可以在他们的分布式软件中实现面向消息的操作，这些操作将具有不同面向消息中间件产品的可移植性。

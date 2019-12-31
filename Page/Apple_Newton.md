@@ -1,3 +1,6 @@
+> 本文内容由[Apple Newton](https://zh.wikipedia.org/wiki/Apple Newton)转换而来。
+
+
 [Apple_Newton.jpg](https://zh.wikipedia.org/wiki/File:Apple_Newton.jpg "fig:Apple_Newton.jpg")  **蘋果牛頓**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Apple Newton**），是世界上早期 [掌上电脑](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")（個人數位助理），由[蘋果電腦公司于](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1993年开始制造，但是因為newton在市場上找不到其定位而需求量低而停止發展，並於1997年停止了生產。其電子設計與製造是在日本由[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")（Sharp）負責（Sharp曾推出過初期相容機種），而台灣的[英業達集團](../Page/英業達集團.md "wikilink")也曾經代工過MP130。
 
 最初的Newton使用[ARM 610 RISC CPU](https://zh.wikipedia.org/wiki/ARM_610 "wikilink")，具有[觸控螢幕](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")、[紅外線](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、手寫輸入（甚至支援[草寫](https://zh.wikipedia.org/wiki/草寫 "wikilink")）等。使用的[作業系統是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Newton OS](https://zh.wikipedia.org/wiki/Newton_OS "wikilink")。而其[手寫辨識功能為一大特點](https://zh.wikipedia.org/wiki/手寫辨識 "wikilink")。蘋果公司對其的正式名稱為"MessagePad"，而"Newton"則是蘋果公司對其所使用之作業系統的稱呼（Newton OS）。不過Newton一詞廣為愛用，因而包括了機器本身與其軟體。有人說Newton一詞暗指Isaac Newton的蘋果。

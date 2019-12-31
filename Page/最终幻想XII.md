@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XII](https://zh.wikipedia.org/wiki/最终幻想XII)转换而来。
+
+
 是[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")为[PlayStation 2开发并发行的](../Page/PlayStation_2.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本作是[最终幻想系列第](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")12部正传，于2006年发行。游戏就系列而言有多项开创设计，包括无缝战斗系统、可控镜头、由玩家设定角色自动行动规则的“策略”系统，以及决定角色可用能力和装备的“执照”系统。《最终幻想XII》亦沿用[召唤兽](../Page/最終幻想系列中的召喚獸.md "wikilink")、[陆行鸟](../Page/陆行鸟.md "wikilink")和[莫古利等系列常驻元素](https://zh.wikipedia.org/wiki/莫古利 "wikilink")。
 
 游戏设定于[虚构世界](https://zh.wikipedia.org/wiki/虚构世界 "wikilink")[伊瓦莉斯](https://zh.wikipedia.org/wiki/伊瓦莉斯 "wikilink")，帝国阿尔卡迪亚和罗扎利亚常年处于战争。在地处两国间的小国达尔玛斯卡被阿尔卡迪亚吞并后，王国公主艾雪展开了抵抗活动。艾雪在抵抗活动中，结识了梦想成为飞空艇头领的年轻冒险者[梵](https://zh.wikipedia.org/wiki/梵_\(最终幻想\) "wikilink")。很快又有数名同伴加入队伍，共同反抗阿尔卡迪亚帝国的暴行。

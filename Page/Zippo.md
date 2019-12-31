@@ -1,3 +1,6 @@
+> 本文内容由[Zippo](https://zh.wikipedia.org/wiki/Zippo)转换而来。
+
+
 [Zippo_Detail.jpg](https://zh.wikipedia.org/wiki/File:Zippo_Detail.jpg "fig:Zippo_Detail.jpg") [Zippo_Lighters_Point_of_Sale_Display_Northville_MichiganJPG.JPG](https://zh.wikipedia.org/wiki/File:Zippo_Lighters_Point_of_Sale_Display_Northville_MichiganJPG.JPG "fig:Zippo_Lighters_Point_of_Sale_Display_Northville_MichiganJPG.JPG") **Zippo打火机**（亦有音译为**芝宝**）是由[美国](../Page/美国.md "wikilink")Zippo公司制造的[金属](../Page/金属.md "wikilink")[打火机](https://zh.wikipedia.org/wiki/打火机 "wikilink")。自20世纪30年代以来，它已经推出了数百种富有收藏价值的样式。
 
 Zippo打火机有[长方形外壳设计](../Page/矩形.md "wikilink")，盖面与机身间以[铰链连接](https://zh.wikipedia.org/wiki/铰链 "wikilink")。与一次性[塑料](../Page/塑料.md "wikilink")打火机不同，Zippo可以通过补充[石脑油打火机油](https://zh.wikipedia.org/wiki/石脑油 "wikilink")（[燃料](../Page/燃料.md "wikilink")）来重复使用。从外壳中拔出内胆后，用户可以掀开止漏毛毡向其中的[棉制机芯加入打火机油](../Page/棉花.md "wikilink")。[打火石亦可通过旋开内胆底部的](../Page/燧石.md "wikilink")[螺丝进行更换](https://zh.wikipedia.org/wiki/螺丝 "wikilink")。棉芯可使用同样的方法更换。

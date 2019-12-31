@@ -1,3 +1,6 @@
+> 本文内容由[STS-8](https://zh.wikipedia.org/wiki/STS-8)转换而来。
+
+
 ****是历史上第八次航天飞机任务，也是[-{zh-hans:挑战者号航天飞机; zh-hant:挑戰者號太空梭;}-的第三次太空飞行](../Page/挑戰者號太空梭.md "wikilink")。
 
 ## 任务成员

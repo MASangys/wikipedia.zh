@@ -1,3 +1,6 @@
+> 本文内容由[豐田皇冠Comfort](https://zh.wikipedia.org/wiki/豐田皇冠Comfort)转换而来。
+
+
 **豐田皇冠Comfort**（、），是1995年12月登場，豐田汽車生產的中型的[私家車](https://zh.wikipedia.org/wiki/私家車 "wikilink")。 Comfort是前2座、Crown Comfort的轮罩基础长，并且是前2/3座位(前3座位已停產)。由於以開發作為[的士](https://zh.wikipedia.org/wiki/的士 "wikilink")（[計程車](https://zh.wikipedia.org/wiki/計程車 "wikilink")）用途為前提，比以前的CROWN，後座位的窗框變得接近垂直，和左側有的圍巾等差異。
 
 Crown Comfort 在日本俗稱。

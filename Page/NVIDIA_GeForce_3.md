@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 3](https://zh.wikipedia.org/wiki/NVIDIA GeForce 3)转换而来。
+
+
 **GeForce3**（核心代號是NV20）是[nVIDIA發明的第三代](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/GPU "wikilink")。在2001年2月的Macworld Expo Tokyo 2001上发布\[1\]。它是全球第一款支持[DirectX](../Page/DirectX.md "wikilink") 8的[顯示晶片](https://zh.wikipedia.org/wiki/顯示晶片 "wikilink")。它擁有4条像素流水线，可同时处理最多8个纹理，即4×2架構，像素填充率是800 Mpixels/s。GeForce3上还采用了更先进的反锯齿技术，如超采样反锯齿。最大改进之处是其可编程[T\&L技術](https://zh.wikipedia.org/wiki/T&L "wikilink")，對很多光影效果提供硬體支援。GeForce3沒有推出[行動平臺的產品](https://zh.wikipedia.org/wiki/行動平臺 "wikilink")，其專業版名為[Quadro DCC](../Page/Quadro_DCC.md "wikilink")，基於GeForce3標準版。
 
 [Canopus_GeForce3_Ti_500.png](https://zh.wikipedia.org/wiki/File:Canopus_GeForce3_Ti_500.png "fig:Canopus_GeForce3_Ti_500.png")

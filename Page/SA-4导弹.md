@@ -1,3 +1,6 @@
+> 本文内容由[SA-4导弹](https://zh.wikipedia.org/wiki/SA-4导弹)转换而来。
+
+
 **2K11 Krug**「圆圈」（) 中程防空导弹系统，[北約代號](../Page/北約代號.md "wikilink")：**SA-4**（“加涅夫-直译”／“飛賊-意译” Ganef）远程中高空地对空导弹系统，是[苏联](../Page/苏联.md "wikilink")也是全世界第一种自行[防空导弹](https://zh.wikipedia.org/wiki/防空导弹 "wikilink")，于1958年－1964年由[革新家設計局](https://zh.wikipedia.org/wiki/革新家設計局 "wikilink")（NPO Novator / Lyulev）研制。
 
 ## 弹体

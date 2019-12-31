@@ -1,3 +1,6 @@
+> 本文内容由[微笑PASTA](https://zh.wikipedia.org/wiki/微笑PASTA)转换而来。
+
+
 《**微笑PASTA**》（）是2006年三立華人電視劇週日十點檔系列的第十二部作品。全劇共17集。**Pasta**意指[義式麵食](https://zh.wikipedia.org/wiki/義式麵食 "wikilink")。於2006年5月25日開拍及於2006年7月16日在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[台视播出](https://zh.wikipedia.org/wiki/台湾电视公司 "wikilink")，由[張棟樑](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")、[王心凌](../Page/王心凌.md "wikilink")、[Gino](../Page/Gino.md "wikilink")、[小喬主演](https://zh.wikipedia.org/wiki/趙虹喬 "wikilink")。[香港无线电视已於](https://zh.wikipedia.org/wiki/香港无线电视 "wikilink")2007年买下在[香港](../Page/香港.md "wikilink")的播映权。接檔《[愛情魔髮師](../Page/愛情魔髮師.md "wikilink")》。
 
 ## 播映時間

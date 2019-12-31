@@ -1,3 +1,6 @@
+> 本文内容由[Production I.G](https://zh.wikipedia.org/wiki/Production I.G)转换而来。
+
+
 **Production I.G** 為[日本](../Page/日本.md "wikilink")的一家[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")，成立於1987年12月6日。英文字「I.G」分別取自現任社長**[石川光久](../Page/石川光久.md "wikilink")**和現任副社長兼[原畫師](https://zh.wikipedia.org/wiki/原畫師 "wikilink")**[後藤隆幸](../Page/後藤隆幸.md "wikilink")**的日文羅馬拼音開頭「I」和「G」作命名。Production I.G便是在他們兩人共同出資之下而創立，創立初期名稱為**IG龍之子**（），是從[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")分拆出來的。2007年母公司化並改名為「」，由內部另外成立現在的新Production I.G，為I.G Port的旗下子公司。
 
 代表作有[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")系列、[PSYCHO-PASS](../Page/PSYCHO-PASS.md "wikilink")系列、[罪惡王冠](../Page/罪惡王冠.md "wikilink")、[影子籃球員](https://zh.wikipedia.org/wiki/影子籃球員 "wikilink")（又稱為幻影籃球王或黑子的籃球）、[排球少年！！](../Page/排球少年！！.md "wikilink")、[進擊的巨人](../Page/進擊的巨人.md "wikilink")（支援製作）、[鑽石王牌](../Page/鑽石王牌.md "wikilink")（共同製作）等。 [PRODUCTION_I.G_STUDIO.jpg](https://zh.wikipedia.org/wiki/File:PRODUCTION_I.G_STUDIO.jpg "fig:PRODUCTION_I.G_STUDIO.jpg")

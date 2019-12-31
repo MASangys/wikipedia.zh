@@ -1,3 +1,6 @@
+> 本文内容由[舞-HiME](https://zh.wikipedia.org/wiki/舞-HiME)转换而来。
+
+
 **舞-HiME**（）是以[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")為中心展開的[電視動畫](../Page/日本電視動畫.md "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")、[遊戲等的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")。以私立風華學園為舞臺，描寫學生間的友情與戀愛、戰鬥。獲選為2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。
 
 ## 劇情略介

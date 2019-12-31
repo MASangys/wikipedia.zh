@@ -1,3 +1,6 @@
+> 本文内容由[TVBS新聞台](https://zh.wikipedia.org/wiki/TVBS新聞台)转换而来。
+
+
 [TVBS_News_microphone_2007.jpg](https://zh.wikipedia.org/wiki/File:TVBS_News_microphone_2007.jpg "fig:TVBS_News_microphone_2007.jpg")
 
 **TVBS新聞台**，是屬於台灣TVBS旗下的電視新聞頻道，於1995年10月2日啟播，TVBS是臺灣第一個24小時本土[新聞頻道](../Page/新聞頻道.md "wikilink")；初名「TVBS 超級新聞網」（TVBS-Newsnet，別名「Super News」），是TVBS四個家族頻道中第三個啟播的頻道。

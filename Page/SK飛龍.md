@@ -1,3 +1,6 @@
+> 本文内容由[SK飛龍](https://zh.wikipedia.org/wiki/SK飛龍)转换而来。
+
+
 **SK飛龍**（、），是[KBO聯賽](../Page/KBO聯賽.md "wikilink")的球隊之一，母企業為[世界前500大集團的](https://zh.wikipedia.org/wiki/財富世界500大 "wikilink")[SK集團](https://zh.wikipedia.org/wiki/SK集團 "wikilink")，成立於[2000年](../Page/2000年.md "wikilink")，為[雙鈴突擊者](../Page/雙鈴突擊者.md "wikilink")隊解散後，獲[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")邀請組隊，並吸收原雙鈴隊的球員，主場為[仁川廣域市](../Page/仁川廣域市.md "wikilink")的[文鶴棒球場](https://zh.wikipedia.org/wiki/文鶴棒球場 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Champion](https://zh.wikipedia.org/wiki/週刊少年Champion)转换而来。
+
+
 《**週刊少年Champion**》（）是由[日本](../Page/日本.md "wikilink")[秋田書店](../Page/秋田書店.md "wikilink")發行的週刊[漫畫雜誌](https://zh.wikipedia.org/wiki/漫画 "wikilink")，以[少年漫畫為主](../Page/少年漫画.md "wikilink")。1969年7月15日創刊，創刊初期雜誌名為少年Champion(少年チャンピオン)。
 
 2005年度每期發行量大約50萬冊左右。

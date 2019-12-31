@@ -1,3 +1,6 @@
+> 本文内容由[Coda](https://zh.wikipedia.org/wiki/Coda)转换而来。
+
+
 **Coda**是**Co**nstant **D**ata **A**vailability的縮寫，是一套由[卡內基美隆大學於](https://zh.wikipedia.org/wiki/卡內基美隆大學 "wikilink")1987年開始發展，由[Mahadev Satyanarayanan主導研究的](https://zh.wikipedia.org/wiki/Mahadev_Satyanarayanan "wikilink")[分散式檔案系統](../Page/分散式檔案系統.md "wikilink")。本系統的前身由[安德魯檔案系統](https://zh.wikipedia.org/wiki/安德魯檔案系統 "wikilink")（AFS-2）的舊版本分支出來，兩者提供很多相似的特性。[InterMezzo檔案系統亦受到Coda的影響](https://zh.wikipedia.org/wiki/InterMezzo "wikilink")。本系統目前仍持續發展中，但從其官方網站的問題紀錄顯示，自2011年2月已再沒有開發紀錄\[1\]。雖然有說系統現時已轉往商業應用，但根據Linux內核的開發紀錄來看，相關的開發紀錄其實並不多\[2\]。
 
 ## 特性

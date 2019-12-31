@@ -1,3 +1,6 @@
+> 本文内容由[SVCD](https://zh.wikipedia.org/wiki/SVCD)转换而来。
+
+
 [SVCD_logo.svg](https://zh.wikipedia.org/wiki/File:SVCD_logo.svg "fig:SVCD_logo.svg")
 
 **Super Video CD**（简称**SVCD**，也称**超级VCD**）是一種在標準[CD](../Page/CD.md "wikilink")媒體上儲存視訊的格式。以技術能力和影像品質來說，它的水準在[VCD](../Page/VCD.md "wikilink")和[DVD之間](https://zh.wikipedia.org/wiki/DVD "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[IBM中国研究院](https://zh.wikipedia.org/wiki/IBM中国研究院)转换而来。
+
+
 **IBM中国研究院**（）是[IBM](../Page/IBM.md "wikilink")在全球设立的12大研究机构之一。\[1\]
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[AMD處理器列表](https://zh.wikipedia.org/wiki/AMD處理器列表)转换而来。
+
+
 [AMD_Logo.svg](https://zh.wikipedia.org/wiki/File:AMD_Logo.svg "fig:AMD_Logo.svg") 本列表為[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink") (AMD) 推出的微處理器列表，並以代數及推出年份排序。
 
 ## AMD設計微架構

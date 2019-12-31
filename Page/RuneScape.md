@@ -1,3 +1,6 @@
+> 本文内容由[RuneScape](https://zh.wikipedia.org/wiki/RuneScape)转换而来。
+
+
 《**RuneScape**》是由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[Jagex](../Page/Jagex.md "wikilink")採用[Java](../Page/Java.md "wikilink")開發的基於網頁的[大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，在世界上很受歡迎，尤其是[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 RuneScape的前身是由Andrew Gower於1998年在[剑桥大學編寫的](https://zh.wikipedia.org/wiki/剑桥大學 "wikilink")**DeviousMUD**\[1\]，2001年[Jagex](../Page/Jagex.md "wikilink")成立并正式更名為RuneScape。2002年2月RuneScape允許玩家付款成為付費會員。於2004年3月29日推出第二版，並將舊版命名為Runescape Classic。現時，RuneScape約有超過九千萬玩家，超過一百萬名付費會員。據統計全球約有六百萬人每月最少玩一次RuneScape（2007年末），並於2008年8月被列入玩家總數最多的[大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")[健力士世界大全](https://zh.wikipedia.org/wiki/健力士世界大全 "wikilink")\[2\]。現時，Runescape最新版本為**RuneScape（高質素版本）**（RuneScape High Detail，簡稱 Runescape HD），於2008年7月14日推出。

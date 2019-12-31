@@ -1,3 +1,6 @@
+> 本文内容由[仙王座VV](https://zh.wikipedia.org/wiki/仙王座VV)转换而来。
+
+
 [VVCephei_vs_SolarSystem_ZH.jpg](https://zh.wikipedia.org/wiki/File:VVCephei_vs_SolarSystem_ZH.jpg "fig:VVCephei_vs_SolarSystem_ZH.jpg")
 
 **仙王座 VV星**是一個位於[仙王座](../Page/仙王座.md "wikilink")的[雙星系統](https://zh.wikipedia.org/wiki/雙星系統 "wikilink")，分別由一顆紅[特超巨星](../Page/特超巨星.md "wikilink")及一顆藍[主序星](../Page/主序星.md "wikilink")組成，這兩顆星各自填滿了彼此的[洛希瓣](../Page/洛希瓣.md "wikilink")。這個雙星系統距離地球約2,400[光年](../Page/光年.md "wikilink")\[1\]\[2\] 。

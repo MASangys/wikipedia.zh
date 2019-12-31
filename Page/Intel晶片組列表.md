@@ -1,3 +1,6 @@
+> 本文内容由[Intel晶片組列表](https://zh.wikipedia.org/wiki/Intel晶片組列表)转换而来。
+
+
 這是[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[公司](../Page/公司.md "wikilink")推出的[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[列表](https://zh.wikipedia.org/wiki/列表 "wikilink")，它包含四大類，分別是
 
   - 早期晶片組

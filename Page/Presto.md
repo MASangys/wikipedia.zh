@@ -1,3 +1,6 @@
+> 本文内容由[Presto](https://zh.wikipedia.org/wiki/Presto)转换而来。
+
+
 **Presto**是一個由[Opera Software開發的](https://zh.wikipedia.org/wiki/Opera_Software "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，由[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink") 7.0至12.18版本所使用。
 
 Presto取代了舊版Opera 4至6版本使用的[Elektra](../Page/Elektra.md "wikilink")排版引擎，包括加入動態功能，例如網頁或其部分可隨著[DOM及Script語法的事件而重新排版](../Page/文档对象模型.md "wikilink")。Presto在推出後不斷有更新版本推出，使不少錯誤得以修正，以及閱讀JavaScript效能得以最佳化。

@@ -1,3 +1,6 @@
+> 本文内容由[Alive](https://zh.wikipedia.org/wiki/Alive)转换而来。
+
+
 **Alive**是一隊[香港](../Page/香港.md "wikilink")演藝組合，由[吳彥祖](../Page/吳彥祖.md "wikilink")、[尹子維](../Page/尹子維.md "wikilink")、[陳子聰](../Page/陳子聰.md "wikilink")、[連凱](../Page/連凱.md "wikilink")四人組成\[1\]。
 
 ## 过程

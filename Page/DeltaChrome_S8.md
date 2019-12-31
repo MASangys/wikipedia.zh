@@ -1,3 +1,6 @@
+> 本文内容由[DeltaChrome S8](https://zh.wikipedia.org/wiki/DeltaChrome S8)转换而来。
+
+
 **DeltaChrome S8**是[S3 Graphics的顯示卡](../Page/S3_Graphics.md "wikilink")，於2004年7月28日正式发布。它支援DirectX 9a，硬件支持Pixel Shader 2.0和Vertex Shader 2.0。3D處理能力已接近當時的中階顯示卡，例如ATi的[Radeon 9550](https://zh.wikipedia.org/wiki/Radeon_9550 "wikilink")。
 
 原先全DeltaChrome系列有三張顯視卡，分別是DeltaChrome S8，DeltaChromeF1和DeltaChromeS4，分別對應高中低端市場。但由於推出時間與原定遲，最後只剩DeltaChrome S8應付中端市場。

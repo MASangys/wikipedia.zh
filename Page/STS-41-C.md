@@ -1,3 +1,6 @@
+> 本文内容由[STS-41-C](https://zh.wikipedia.org/wiki/STS-41-C)转换而来。
+
+
 ****是历史上第十一次航天飞机任务，也是[挑战者号航天飞机的第五次太空飞行](https://zh.wikipedia.org/wiki/挑战者号航天飞机 "wikilink")。
 
 ## 任务成员

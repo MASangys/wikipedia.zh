@@ -1,3 +1,6 @@
+> 本文内容由[Cream Garden](https://zh.wikipedia.org/wiki/Cream Garden)转换而来。
+
+
 **《Cream Garden》**是香港歌唱組合[Cream的首張唱片](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")，共推出2個版本。
 
 ## 曲目列表

@@ -1,3 +1,6 @@
+> 本文内容由[JessX](https://zh.wikipedia.org/wiki/JessX)转换而来。
+
+
 **JessX**（前稱**jESSE**）是一种开放式软件，其目的是用来模拟金融市场。它允许许多人在类似[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")（NYSE）的虚拟交易平台上交易。人们可以在这个平台上买卖各种[股票](../Page/股票.md "wikilink")，[债券](../Page/债券.md "wikilink")，[外汇](https://zh.wikipedia.org/wiki/外汇 "wikilink")，或大宗商品。这个模拟软件是专为实验金融学的研究人员而设计的。它可以在网上被免费下载。
 
 ## 特色

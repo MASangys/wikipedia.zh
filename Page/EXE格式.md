@@ -1,3 +1,6 @@
+> 本文内容由[EXE格式](https://zh.wikipedia.org/wiki/EXE格式)转换而来。
+
+
 **EXE**是在[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")和[Windows系统中通用的](https://zh.wikipedia.org/wiki/Windows "wikilink")[可执行文件的](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[扩展名](https://zh.wikipedia.org/wiki/扩展名 "wikilink")。
 
 ## 檔案格式

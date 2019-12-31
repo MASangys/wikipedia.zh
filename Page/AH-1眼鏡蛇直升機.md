@@ -1,3 +1,6 @@
+> 本文内容由[AH-1眼鏡蛇直升機](https://zh.wikipedia.org/wiki/AH-1眼鏡蛇直升機)转换而来。
+
+
 [Ah1sinst_Cockpit.jpg](https://zh.wikipedia.org/wiki/File:Ah1sinst_Cockpit.jpg "fig:Ah1sinst_Cockpit.jpg")
 
 **AH-1眼镜蛇**是一款由[贝尔直升机公司所製造的](https://zh.wikipedia.org/wiki/贝尔直升机公司 "wikilink")[攻击直升机](../Page/攻击直升机.md "wikilink")。AH-1的[發動機](https://zh.wikipedia.org/wiki/發動機 "wikilink")、[传动和](https://zh.wikipedia.org/wiki/传动_\(机械\) "wikilink")[旋翼](../Page/旋翼.md "wikilink")系统与[UH-1易洛魁相同](../Page/UH-1直升機.md "wikilink")。因型号不同而有许多稱号，如：**休伊眼镜蛇**（HueyCobra）、**海眼镜蛇**（SeaCobra）、**超级眼镜蛇**（SuperCobra）、**W眼镜蛇**、**蝰蛇**（Viper）、**Z眼镜蛇**或**蛇**（Snake）。

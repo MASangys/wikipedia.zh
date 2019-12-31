@@ -1,3 +1,6 @@
+> 本文内容由[GOSURF](https://zh.wikipedia.org/wiki/GOSURF)转换而来。
+
+
 **GOSURF**（冲浪浏览器）是基于[Internet Explorer内核的多页面网页浏览器](../Page/Internet_Explorer.md "wikilink")。由“秘密基地”小组负责开发和维护。该浏览器设计人性化、快速、操作简单、拥有广告过滤功能。凭借良好的构架和独特的后台管理，GOSURF比其它Internet Explorer内核的浏览器占用内存更少、速度更快。
 
 ## 特性

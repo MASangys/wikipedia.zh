@@ -1,3 +1,6 @@
+> 本文内容由[HDI竞技场](https://zh.wikipedia.org/wiki/HDI竞技场)转换而来。
+
+
 **HDI竞技场**（）是一座位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[下萨克森](../Page/下萨克森.md "wikilink")首府[漢諾威的足球場](https://zh.wikipedia.org/wiki/漢諾威 "wikilink")，球場由1959年起成為[-{zh-hans:汉诺威96; zh-hant:漢諾威96;}-的主場](../Page/汉诺威96足球俱乐部.md "wikilink")，可容納48,933人。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[天才兒童MAX](https://zh.wikipedia.org/wiki/天才兒童MAX)转换而来。
+
+
 《**天才兒童MAX (a.k.a. 天才電視小組MAX)**》（****）是[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")（）與[NHK世界台](https://zh.wikipedia.org/wiki/NHK世界台 "wikilink")（）針對[兒童與](https://zh.wikipedia.org/wiki/兒童 "wikilink")[青少年](../Page/青少年.md "wikilink")所播放的[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，主要內容是由被稱為「[TV戰士](../Page/TV戰士.md "wikilink")」的[青少年](../Page/青少年.md "wikilink")[童星](../Page/童星.md "wikilink")參與各種挑戰。由1993年4月5日開播至今，是很受歡迎的節目。
 
 NHK數位教育台在[日本時間每週一到週四下午](https://zh.wikipedia.org/wiki/日本時間 "wikilink")6點20分\~6點55分播出，NHK世界台則在日本時間每週二到週五下午6點25分\~6點59分播出，每集約35分鐘。

@@ -1,3 +1,6 @@
+> 本文内容由[NBA进步最快球员](https://zh.wikipedia.org/wiki/NBA进步最快球员)转换而来。
+
+
 **NBA进步最快球员奖**是[国家篮球协会自](https://zh.wikipedia.org/wiki/国家篮球协会 "wikilink")[1985-86 NBA赛季起开始颁发的一个年度奖项](https://zh.wikipedia.org/wiki/1985-86_NBA赛季 "wikilink")，奖项在相应常规赛季中进步最多的球员。获奖者由[美国](../Page/美国.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")的体育专栏作家投票选出，每人可以投出一票，其中包含自己认为进步最多、第二多和第三多球员的姓名。球员每得到一张进步最多的选票支持则可得5分，第二多得3分，第三多得1分，总计得分最高者即可获奖（与实际所得进步最多选票的数量没有直接关系）\[1\]。
 
 自成立以来，该奖项一共有30位得主，並沒有連續得獎者，最新的获奖者是[帕斯卡·席亞康](../Page/帕斯卡·席亞康.md "wikilink")。[伯利斯·迪奧是歷屆獲獎者中第一位以球員身份得過NBA總冠軍](https://zh.wikipedia.org/wiki/伯利斯·迪奧 "wikilink")。卓吉奇、[希达耶特·特克鲁](https://zh.wikipedia.org/wiki/希达耶特·特克鲁 "wikilink")、、[乔治·穆雷桑和](https://zh.wikipedia.org/wiki/乔治·穆雷桑 "wikilink")[伯利斯·迪奥](../Page/伯利斯·迪奥.md "wikilink")是仅有的五位不是在美国出生的获奖者，并且除了塞卡利以外，另外四位运动员也完全不是在美国接受籃球教育，塞卡利曾是[雪城大学男篮隊的成员](https://zh.wikipedia.org/wiki/雪城大学 "wikilink")。

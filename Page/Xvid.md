@@ -1,3 +1,6 @@
+> 本文内容由[Xvid](https://zh.wikipedia.org/wiki/Xvid)转换而来。
+
+
 **Xvid**（舊稱為**XviD**）是一個[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[MPEG-4](../Page/MPEG-4.md "wikilink")[影像編解碼器](https://zh.wikipedia.org/wiki/影像編解碼器 "wikilink")，是由一群原OpenDivX開發者在OpenDivX於2001年7月停止開發後自行開發的。
 
 Xvid支持[量化](https://zh.wikipedia.org/wiki/量化 "wikilink")（Quantization）、範圍控制的運動偵測（Motion Search）、码率曲線分配（Curve）、動態關鍵幀距（I-frame interval）、[心理視覺亮度修正](https://zh.wikipedia.org/wiki/心理視覺亮度修正 "wikilink")、演職員表選項、外部自定義控制、運動向量加速（Hinted ME）編碼、畫面優化解碼等眾多編碼技術，對用戶來說功能十分強大。

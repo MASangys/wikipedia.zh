@@ -1,3 +1,6 @@
+> 本文内容由[秋葉原@DEEP](https://zh.wikipedia.org/wiki/秋葉原@DEEP)转换而来。
+
+
 《**秋葉原@DEEP**》（，ISBN 4-16-323530-2），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[石田衣良](../Page/石田衣良.md "wikilink")所創作的一部以日本[東京都](../Page/東京都.md "wikilink")知名電氣街[秋葉原](../Page/秋葉原.md "wikilink")為背景的長篇[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。此小說於2004年連載於《[文藝春秋](../Page/文藝春秋.md "wikilink")》的別冊。並且在2006年6月被改編為[電視劇由](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[TBS](../Page/TBS.md "wikilink")播映；亦改編為[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，由執筆，但因人物與小說間的變動太大而在日本有批評的聲浪；[電影版由](https://zh.wikipedia.org/wiki/電影 "wikilink")[源孝志執導](https://zh.wikipedia.org/wiki/源孝志 "wikilink")，於同年9月上映。
 
 ## 情節概要

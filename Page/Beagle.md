@@ -1,3 +1,6 @@
+> 本文内容由[Beagle](https://zh.wikipedia.org/wiki/Beagle)转换而来。
+
+
 **Beagle**是[GNOME](../Page/GNOME.md "wikilink")的一个[搜尋工具](https://zh.wikipedia.org/wiki/搜尋工具 "wikilink")，透過索引的建立可以快速搜索个人信息空间中的多种文件类型。目前已不再開發。
 
 ## 搜尋的範圍

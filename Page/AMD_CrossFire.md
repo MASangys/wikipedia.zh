@@ -1,3 +1,6 @@
+> 本文内容由[AMD CrossFire](https://zh.wikipedia.org/wiki/AMD CrossFire)转换而来。
+
+
 **CrossFire**是[AMD產品所采用的一种多重](https://zh.wikipedia.org/wiki/AMD "wikilink")[GPU協同運算技術](https://zh.wikipedia.org/wiki/GPU "wikilink")，以兩張單GPU[顯示卡或雙GPU顯示卡連結的方式](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，讓兩顆GPU在一台電腦上協同運算，增加效能，與[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[SLI技術競爭](https://zh.wikipedia.org/wiki/SLI "wikilink")。CrossFire技術於2005年6月1日，在Computex Taipei 2005正式發佈，比[SLI遲一年](https://zh.wikipedia.org/wiki/SLI "wikilink")。至首度公開之今，CrossFire經过了數次修訂。開始的時候，需要主副卡的配合。之後，開始開放使用軟體交火模式。硬體交火方面，亦參考NVIDIA的做法，使用接線將兩張顯示卡連接起來。目前，高端的顯示卡，例如3870 X2顯示卡已集成了兩顆顯示核心。當中，兩顆核心的溝通其實是使用了CrossFire技術。
 
 在CrossFire推出的時候，使用者要使用此技術，主機板亦必需支援CrossFire，以及需要兩張AMD [PCI Express介面的顯示卡](../Page/PCI_Express.md "wikilink")，要相同等級，並有可能需要購買主卡。例如：如果用家有一片Radoen X850XT PE顯示卡，必須額外購買一片Radeon X850 CrossFire Edition，才能達成CrossFire。但对X1600來說，只需購買兩張一模一样的卡，即可達成CrossFire，因為採用了軟體交火技術。由於以往ATi的顯示卡沒有像NVIDIA般預留協同運算，所以在第一代CrossFire，ATi采用Composting Engine和DMS Cable，來仿效NVIDIA的MIO接口。

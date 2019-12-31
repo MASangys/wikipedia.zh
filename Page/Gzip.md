@@ -1,3 +1,6 @@
+> 本文内容由[Gzip](https://zh.wikipedia.org/wiki/Gzip)转换而来。
+
+
 **Gzip**是一种压缩文件格式并且也是一个在类 Unix 上的一种文件解压缩的软件，通常指[GNU計劃](../Page/GNU計劃.md "wikilink")的實現，此處的gzip代表GNU zip。也經常用來表示gzip這種文件格式。軟件的作者是Jean-loup Gailly和Mark Adler。在1992年10月31日第一次公開發布，版本號0.1，1993年2月，发布了1.0版本。
 
 [OpenBSD](../Page/OpenBSD.md "wikilink")中所包含的gzip版本實際上是`compress`程序，其對gzip文件的支持在OpenBSD 3.4中被添加，此處的g代表免費（）\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[X-SAMPA](https://zh.wikipedia.org/wiki/X-SAMPA)转换而来。
+
+
 **拓展音标字母评估法**（）是[SAMPA](../Page/SAMPA.md "wikilink")的一種變體，最先於1995年由[倫敦大學](../Page/倫敦大學.md "wikilink")的語言學教授[約翰·克利斯多佛·威爾斯](https://zh.wikipedia.org/wiki/約翰·克利斯多佛·威爾斯 "wikilink")（John C. Wells）提出。X-SAMPA是為了統一各種SAMPA字母表而產生的，並且擴展至包含所有[國際音標](../Page/國際音標.md "wikilink")符號，能夠把所有音標轉寫成七位元的[ASCII](../Page/ASCII.md "wikilink")碼。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[VOFAN](https://zh.wikipedia.org/wiki/VOFAN)转换而来。
+
+
 **VOFAN**（\[1\]\[2\]）本名**戴源亨**，是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出生於[台南市](https://zh.wikipedia.org/wiki/台南市 "wikilink")，[中原大學](../Page/中原大學.md "wikilink")建築學系畢業，[台北藝術大學科技藝術研究所](https://zh.wikipedia.org/wiki/台北藝術大學 "wikilink")（現新媒體藝術學系）肄業\[3\]。目前為創作同人社團[夜貓館咖啡屋](../Page/夜貓館咖啡屋.md "wikilink")的社長\[4\]。因擔任[西尾維新](../Page/西尾維新.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")《[物語系列](../Page/物語系列.md "wikilink")》[插畫](../Page/插畫.md "wikilink")而廣為人知。\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]
 
 ## 人物

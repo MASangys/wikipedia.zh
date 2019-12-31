@@ -1,3 +1,6 @@
+> 本文内容由[PhysX](https://zh.wikipedia.org/wiki/PhysX)转换而来。
+
+
 **PhysX**是一套由[AGEIA](../Page/AGEIA.md "wikilink")设计的执行复杂的物理运算的[PPU](https://zh.wikipedia.org/wiki/物理处理单元 "wikilink")，又可以代表一款[物理引擎](https://zh.wikipedia.org/wiki/物理引擎 "wikilink")。AGEIA声称，PhysX将会使设计师在开发游戏的过程中使用复杂的物理效果，而不需要像以往那样耗费漫长的时间开发一套物理引擎。以往使用了物理引擎，还会使一些配置较低的电脑无法流畅运行遊戲。AGEIA更宣称，PhysX执行物理运算的效率比当前的[CPU与物理处理软件的组合高出](https://zh.wikipedia.org/wiki/CPU "wikilink")100倍。游戏设计语言[Dark Basic Pro将会支持PhysX](https://zh.wikipedia.org/wiki/Dark_Basic_Pro "wikilink")，并允许其用户利用PhysX执行物理运算。2005年7月20日，[索尼電腦娛樂同意在即将发售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation 3中使用PhysX和它的](../Page/PlayStation_3.md "wikilink")[SDK](https://zh.wikipedia.org/wiki/SDK "wikilink")——[NovodeX](https://zh.wikipedia.org/wiki/NovodeX "wikilink")。現時，AGEIA公司己被[NVIDIA收購](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，相關的顯示卡亦可以加速該物理引擎。
 
 ## APEX PhysX

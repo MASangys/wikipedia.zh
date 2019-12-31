@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯-AMG](https://zh.wikipedia.org/wiki/梅賽德斯-AMG)转换而来。
+
+
 [AMG_DaimlerChrysler_customer_service.JPG](https://zh.wikipedia.org/wiki/File:AMG_DaimlerChrysler_customer_service.JPG "fig:AMG_DaimlerChrysler_customer_service.JPG")
 
 **梅赛德斯-AMG公司**是一家隸屬[梅赛德斯-奔驰的高性能厂商](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")，在1967年由当时的戴姆勒-奔驰（）的员工[汉斯-维尔讷·奥弗雷希特及](https://zh.wikipedia.org/wiki/汉斯-维尔讷·奥弗雷希特 "wikilink")[埃哈德·梅尔切在德国](https://zh.wikipedia.org/wiki/埃哈德·梅尔切 "wikilink")[斯图加特附近的阿施帕赫共同建立](https://zh.wikipedia.org/wiki/斯图加特 "wikilink")，常简称为**AMG**。1999年被[梅赛德斯-奔驰收购](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")，成为该公司的高性能车分部。

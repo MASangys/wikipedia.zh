@@ -1,3 +1,6 @@
+> 本文内容由[Leet](https://zh.wikipedia.org/wiki/Leet)转换而来。
+
+
 **Leet**（[英文中亦稱](https://zh.wikipedia.org/wiki/英文 "wikilink") **leetspeak** 或 **eleet**。Leet拼寫法：L337, 3L337, 31337或1337），又稱**[駭客語](https://zh.wikipedia.org/wiki/駭客 "wikilink")**，是指一種發源於[西方國家的](https://zh.wikipedia.org/wiki/西方國家 "wikilink")[BBS](../Page/BBS.md "wikilink")、[線上遊戲和](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[駭客社群所使用的文字書寫方式](https://zh.wikipedia.org/wiki/駭客 "wikilink")。通常是把[拉丁字母](../Page/拉丁字母.md "wikilink")轉變成[數字](../Page/數字.md "wikilink")或是[特殊符號](https://zh.wikipedia.org/wiki/特殊符號 "wikilink")，例如E寫成3、A寫成@等。或是將[單字寫成同音的](https://zh.wikipedia.org/wiki/單字 "wikilink")[字母](../Page/字母.md "wikilink")或[數字](../Page/數字.md "wikilink")，如to寫成2、for寫成4等等。
 
 在「Leet」作為這種書寫系統的通用稱呼之前，這個詞原先在英文中意指。但這裡的Leet則是源於[英語的elite](https://zh.wikipedia.org/wiki/英語 "wikilink")（精簡），後由elite轉為eleet，再轉變為leet。

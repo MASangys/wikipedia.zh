@@ -1,3 +1,6 @@
+> 本文内容由[B型軍票](https://zh.wikipedia.org/wiki/B型軍票)转换而来。
+
+
 [Various_types_of_B_Notes_1945_1958.jpg](https://zh.wikipedia.org/wiki/File:Various_types_of_B_Notes_1945_1958.jpg "fig:Various_types_of_B_Notes_1945_1958.jpg")
 
 **B型軍票**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Type "B" Military Yen**，簡稱**B圓**）是[美國治理琉球時期](https://zh.wikipedia.org/wiki/美國治理琉球時期 "wikilink")，[美軍於](https://zh.wikipedia.org/wiki/美軍 "wikilink")1945年到1958年9月間在[琉球](../Page/琉球.md "wikilink")（包括現在的[沖繩縣](../Page/沖繩縣.md "wikilink")及[鹿兒島縣的](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")[奄美群島](../Page/奄美群島.md "wikilink")、[吐噶喇列島](https://zh.wikipedia.org/wiki/吐噶喇列島 "wikilink")）所發行的[軍票](https://zh.wikipedia.org/wiki/軍票 "wikilink")，並於1948年起，成為[沖繩唯一的正式](https://zh.wikipedia.org/wiki/沖繩 "wikilink")[通貨](../Page/通貨.md "wikilink")，直到1958年被[美金取代](https://zh.wikipedia.org/wiki/美金 "wikilink")。也被簡稱為**Yen B type**或**B-yen**。

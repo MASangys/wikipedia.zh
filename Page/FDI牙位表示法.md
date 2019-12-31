@@ -1,3 +1,6 @@
+> 本文内容由[FDI牙位表示法](https://zh.wikipedia.org/wiki/FDI牙位表示法)转换而来。
+
+
 **FDI牙位表示法**是1970年国际牙科联盟（Fédération Dentaire Internationale）提出的[牙位表示法](https://zh.wikipedia.org/wiki/牙位表示法 "wikilink")，为世界通用。也称[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")-3950表示法。
 
 每颗牙用两位[阿拉伯数字](../Page/阿拉伯数字.md "wikilink")表示，第一位表示牙齿所在的[象限](https://zh.wikipedia.org/wiki/象限 "wikilink")：病人的右上、左上、左下、右下在[恒牙为](https://zh.wikipedia.org/wiki/恒牙 "wikilink")1、2、3、4，在[乳牙为](https://zh.wikipedia.org/wiki/乳牙 "wikilink")5、6、7、8；第二位表示牙齿的位置：从中[门齿到第三](https://zh.wikipedia.org/wiki/门齿 "wikilink")[臼齿为](https://zh.wikipedia.org/wiki/臼齿 "wikilink")1-8。

@@ -1,3 +1,6 @@
+> 本文内容由[Keroro](https://zh.wikipedia.org/wiki/Keroro)转换而来。
+
+
 **Keroro**（）是[吉崎觀音](../Page/吉崎觀音.md "wikilink")的漫畫作品《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》中登場的外星人主角，[動畫版的](https://zh.wikipedia.org/wiki/Keroro軍曹_\(電視動畫\) "wikilink")[配音員為](../Page/聲優.md "wikilink")[渡邊久美子](../Page/渡邊久美子.md "wikilink")，[台灣為](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雷碧文](../Page/雷碧文.md "wikilink")，[香港](../Page/香港.md "wikilink")為[陸惠玲](../Page/陸惠玲.md "wikilink")。
 
 ## 人物簡介

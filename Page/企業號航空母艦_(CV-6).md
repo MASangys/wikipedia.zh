@@ -1,3 +1,6 @@
+> 本文内容由[企業號航空母艦 \(CV-6\)](https://zh.wikipedia.org/wiki/企業號航空母艦 \(CV-6\))转换而来。
+
+
 **企業號航空母艦**（，**[舷號CV](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-6**，綽號**大E**或**幸运E**（**Big E**或**Lucky E**）），是一艘隸屬於[美國海軍](../Page/美國海軍.md "wikilink")的[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，為[約克鎮級航空母艦的二號艦](https://zh.wikipedia.org/wiki/約克鎮級航空母艦 "wikilink")。它是美軍第七艘以企業為名的軍艦，艦名源自[美國獨立戰爭](../Page/美國獨立戰爭.md "wikilink")期間美軍俘獲並更名的一艘[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[單桅縱帆船](https://zh.wikipedia.org/wiki/單桅縱帆船 "wikilink")。
 
 其在太平洋戰爭期間，擊沉敵艦71艘，擊傷敵艦192艘，空中擊落敵機404架，地面擊毀敵機507架，於太平洋戰區參戰20場，並獲得數十枚戰爭表揚獎章，為人類史上最輝煌戰績，與超過60年人類史上最優秀功勳紀錄保持艦。

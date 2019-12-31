@@ -1,3 +1,6 @@
+> 本文内容由[SKIP BEAT！華麗的挑戰](https://zh.wikipedia.org/wiki/SKIP BEAT！華麗的挑戰)转换而来。
+
+
 《**SKIP・BEAT\!**》（），「**SKIP・BEAT\!**」為正式書名，「華麗的挑戰」為[東立給的副標題名](https://zh.wikipedia.org/wiki/東立 "wikilink")，「下一站巨星」為[天下出版社給的副標題名](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")。作者為[仲村佳樹](../Page/仲村佳樹.md "wikilink")，連載於[花與夢](../Page/花與夢.md "wikilink")雜誌，由日本[白泉社](../Page/白泉社.md "wikilink")結集出版。台灣譯名為《SKIP・BEAT！華麗的挑戰》，[台灣中文版由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東立出版社](../Page/東立出版社.md "wikilink")出版，[花漾半月刊連載](https://zh.wikipedia.org/wiki/花漾半月刊 "wikilink")。[香港](../Page/香港.md "wikilink")譯名為《SKIP・BEAT！下一站巨星》，香港中文版由[天下出版有限公司出版](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")，為[Comics World叢書](https://zh.wikipedia.org/wiki/Comics_World "wikilink")。香港[無綫電視把其譯為](../Page/電視廣播有限公司.md "wikilink")《華麗的挑戰》，於[J2台播放](https://zh.wikipedia.org/wiki/J2台 "wikilink")。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[ER模型](https://zh.wikipedia.org/wiki/ER模型)转换而来。
+
+
 **ER模型**，全称为**实体联系模型**、**实体关系模型**或**实体联系模式图（ERD）**（）由美籍华裔计算机科学家[陈品山](../Page/陈品山.md "wikilink")发明，是[概念数据模型的高层描述所使用的](https://zh.wikipedia.org/wiki/conceptual_schema "wikilink")[数据模型或](https://zh.wikipedia.org/wiki/数据模型 "wikilink")[模式图](https://zh.wikipedia.org/wiki/模式图 "wikilink")。
 
 ER模型常用於信息系统设计中；比如它们在[概念结构设计阶段用来描述信息需求和](https://zh.wikipedia.org/wiki/概念结构设计 "wikilink")／或要存储在数据库中的信息的类型。但是[数据建模](../Page/数据建模.md "wikilink")技术可以用来描述特定[论域](https://zh.wikipedia.org/wiki/论域 "wikilink")（就是感兴趣的区域）的任何[本体](https://zh.wikipedia.org/wiki/本体 "wikilink")（就是对使用的术语和它们的联系的概述和分类）。在基于数据库的信息系统设计的情况下，在后面的阶段（通常叫做逻辑设计），概念模型要映射到逻辑模型如[关系模型](../Page/关系模型.md "wikilink")上；它依次要在物理设计期间映射到物理模型上。注意，有时这两个阶段被一起称为「物理设计」。

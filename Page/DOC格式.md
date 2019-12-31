@@ -1,3 +1,6 @@
+> 本文内容由[DOC格式](https://zh.wikipedia.org/wiki/DOC格式)转换而来。
+
+
 **.doc**，是電腦文件常見[副檔名的一種](https://zh.wikipedia.org/wiki/副檔名 "wikilink")，这三个字母是英文单词document（文件）的缩写。
 
 該[格式原是](https://zh.wikipedia.org/wiki/文件格式 "wikilink")[純文字文件使用的](https://zh.wikipedia.org/wiki/純文字 "wikilink")，多見於不同的[作業系統中](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，軟硬件的使用說明。1980年代，[WordPerfect](../Page/WordPerfect.md "wikilink") 以此作為其專屬文件的副檔名。至1990年代，[微軟在文書處理軟件](https://zh.wikipedia.org/wiki/微軟 "wikilink") [Word](../Page/Microsoft_Word.md "wikilink") 中，使用了 .doc 作為副檔名，並廣為流行；而前兩者的格式已幾近絕跡。

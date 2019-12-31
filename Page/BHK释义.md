@@ -1,3 +1,6 @@
+> 本文内容由[BHK释义](https://zh.wikipedia.org/wiki/BHK释义)转换而来。
+
+
 在[数理逻辑](../Page/数理逻辑.md "wikilink")中，[直覺主義邏輯的](https://zh.wikipedia.org/wiki/直覺主義邏輯 "wikilink")**布勞威爾-海廷-柯爾莫哥洛夫释义**（Brouwer–Heyting–Kolmogorov interpretation）或**BHK释义**是由[魯伊茲·布勞威爾](https://zh.wikipedia.org/wiki/魯伊茲·布勞威爾 "wikilink")、[阿蘭德·海廷](../Page/阿蘭德·海廷.md "wikilink")和独立的由[安德雷·柯爾莫哥洛夫](../Page/安德雷·柯爾莫哥洛夫.md "wikilink")提出的。它有时也叫做**可实现性释义**，因为有关于[斯蒂芬·科尔·克莱尼](../Page/斯蒂芬·科尔·克莱尼.md "wikilink")的[可实现性](../Page/可实现性.md "wikilink")理论。
 
 ## 释义

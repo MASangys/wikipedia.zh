@@ -1,3 +1,6 @@
+> 本文内容由[CAB](https://zh.wikipedia.org/wiki/CAB)转换而来。
+
+
 在计算机领域，**CAB**是[微软视窗自带的压缩文件格式](https://zh.wikipedia.org/wiki/微软视窗 "wikilink")，它支援压缩与数字签名并在几种不同的[微软](../Page/微软.md "wikilink")安装工具中都有应用：[Setup API](../Page/Windows_Installer.md "wikilink")、、（用于从[Internet Explorer安装](../Page/Internet_Explorer.md "wikilink")[ActiveX](../Page/ActiveX.md "wikilink")组件）以及[Windows Installer](../Page/Windows_Installer.md "wikilink")。
 
 CAB文件格式与需使用三种[数据压缩](../Page/数据压缩.md "wikilink")方法：

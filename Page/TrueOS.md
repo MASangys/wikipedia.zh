@@ -1,3 +1,6 @@
+> 本文内容由[TrueOS](https://zh.wikipedia.org/wiki/TrueOS)转换而来。
+
+
 **TrueOS**（舊名**PC-BSD**或**PCBSD**）是一套基於[FreeBSD](../Page/FreeBSD.md "wikilink")-CURRENT、桌面取向的[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\]。主要目的是建立一個易於安裝軟體的[图形用户界面](../Page/图形用户界面.md "wikilink")，藉由提供[KDE SC](../Page/KDE_Software_Compilation_4.md "wikilink")、[Lumina](https://zh.wikipedia.org/wiki/Lumina "wikilink")、[MATE](../Page/MATE.md "wikilink")、[Xfce](../Page/Xfce.md "wikilink")等[桌面環境使其容易上手](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")\[2\]。TrueOS还为[nVidia和](https://zh.wikipedia.org/wiki/nVidia "wikilink")[Intel硬件提供二进制驱动程序](https://zh.wikipedia.org/wiki/Intel "wikilink")。同时可通过[KWin](../Page/KWin.md "wikilink")提供3D桌面，也可通过[Wine](../Page/Wine.md "wikilink")来运行微软Windows的软件。TrueOS可以运行Linux软件\[3\]。除了使用FreeBSD的[ports](https://zh.wikipedia.org/wiki/ports "wikilink")，TrueOS有自己独立的[软件包管理系统](../Page/软件包管理系统.md "wikilink")，可以让用户以图形的方式安装[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。就像在Windows系統上一样，双击某个下载到的可执行文件进行安装，只是这个可执行文件只能用于BSD系统。
 
 TrueOS支持[ZFS](../Page/ZFS.md "wikilink")文件系统。安装程序可对硬盘进行加密，这样系统在[启动时就需要输入密码](https://zh.wikipedia.org/wiki/启动程序 "wikilink")。

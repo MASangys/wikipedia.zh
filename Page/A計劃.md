@@ -1,3 +1,6 @@
+> 本文内容由[A計劃](https://zh.wikipedia.org/wiki/A計劃)转换而来。
+
+
 是一部於1983年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[成龍](../Page/成龍.md "wikilink")擔任執導，以及由[成龍](../Page/成龍.md "wikilink")、[洪金寶和](https://zh.wikipedia.org/wiki/洪金寶 "wikilink")[元彪](../Page/元彪.md "wikilink")等擔任演出；此電影為《A計劃系列》中的第一部，亦是成龍的[特技演出代表作之一](https://zh.wikipedia.org/wiki/特技 "wikilink")。
 
 ## 劇情

@@ -1,3 +1,6 @@
+> 本文内容由[下北SUNDAYS](https://zh.wikipedia.org/wiki/下北SUNDAYS)转换而来。
+
+
 《**下北SUNDAYS**》（）是[日本](../Page/日本.md "wikilink")作家[石田衣良](../Page/石田衣良.md "wikilink")的小說，其改編而成的電視劇版在2006年7月13日開始在[朝日電視台](../Page/朝日電視台.md "wikilink")播放。
 
 ## 故事

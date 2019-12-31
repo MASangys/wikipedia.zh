@@ -1,3 +1,6 @@
+> 本文内容由[A-CLUB](https://zh.wikipedia.org/wiki/A-CLUB)转换而来。
+
+
 《**A-CLUB**》（後期全名為**A-CLUB 動畫俱樂部**）是曾於[香港](../Page/香港.md "wikilink")以半月刊形式出版的中文雜誌，內容以介紹由[日本](../Page/日本.md "wikilink")的[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫為主](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，當中亦包括日本[電玩遊戲及藝能界動態](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，發展至中後期更嘗試加插[美國漫畫專欄](https://zh.wikipedia.org/wiki/美國漫畫 "wikilink")。
 
 鑑於當時資訊貧乏，傳媒、發行商以及主流社會都不太重視動漫，要獲取中文化的動漫資料並不容易，於是A-CLUB成為許多香港讀者認識日本動漫畫的唯一途徑。由對動漫畫傾向「被動接受」的八九十年代，過渡到普羅大眾因資訊媒體發達、進而獲得觀賞主導權的21世紀初，A-CLUB都在扮演著「入門網站」般的中間人角色。它對在香港成長於1980年代至1990年代中的青年族群，有著極為微妙的關係。但隨着VCD、DVD之類的媒體和互聯網等工具發展，取得相關資訊的途徑漸多，該刊最終於2001年停刊。

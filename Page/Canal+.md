@@ -1,3 +1,6 @@
+> 本文内容由[Canal+](https://zh.wikipedia.org/wiki/Canal+)转换而来。
+
+
 **Canal+**（，在[法语](../Page/法语.md "wikilink")中的意思是“更多[频道](../Page/电视台.md "wikilink")”）是法国一个成立于1984年11月4日的[付费电视](../Page/付费电视.md "wikilink")频道。该电视台为Canal+集团公司（Canal+ Group）所有，而该集团公司（Canal+ Group）又归法国巨型媒体跨国集团[维旺迪](../Page/维旺迪.md "wikilink")所有。该台播出的大多数节目都是加密节目，亦播出一些未加密的节目。
 
 ## 历史

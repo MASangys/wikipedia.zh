@@ -1,3 +1,6 @@
+> 本文内容由[ARCH模型](https://zh.wikipedia.org/wiki/ARCH模型)转换而来。
+
+
 **ARCH模型**（**A**uto**r**egressive **c**onditional **h**eteroskedasticity model，全称：**自回归条件异方差模型**），解决了传统的[计量经济学](../Page/计量经济学.md "wikilink")对[时间序列变量的第二个假设](https://zh.wikipedia.org/wiki/时间序列 "wikilink")（[變異數恆定](https://zh.wikipedia.org/wiki/變異數 "wikilink")）所引起的问题。这个模型是获得2003年[诺贝尔经济学奖](../Page/诺贝尔经济学奖.md "wikilink")的[计量经济学](../Page/计量经济学.md "wikilink")成果之一。
 
 ## 起源

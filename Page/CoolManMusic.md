@@ -1,3 +1,6 @@
+> 本文内容由[CoolManMusic](https://zh.wikipedia.org/wiki/CoolManMusic)转换而来。
+
+
 **CoolManMusic**是[香港](../Page/香港.md "wikilink")早期的一個[歌詞庫](https://zh.wikipedia.org/wiki/歌詞 "wikilink")[網站](../Page/網站.md "wikilink")，更曾一度提供歌曲下載，及後開設了網上論壇的部份經過一段時間的發展，漸漸形成一個以音樂討論為主的[網絡社群](https://zh.wikipedia.org/wiki/網絡社群 "wikilink")。
 
 網站由於瀏覽量大，因此早期便開設了網站的香港[伺服器和外國伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，後者主要是針對身在香港以外其他國家的使用者，使他們能更快瀏覽網站。

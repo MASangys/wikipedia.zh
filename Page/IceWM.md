@@ -1,3 +1,6 @@
+> 本文内容由[IceWM](https://zh.wikipedia.org/wiki/IceWM)转换而来。
+
+
 **IceWM**是由Marko Maček开发的，用于[X Window系统的堆叠式窗口管理器](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，使用[C++](../Page/C++.md "wikilink")编写并依据[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")的条款发布。\[1\]它对CPU和内存的占用比较小，并且带有主题支持，可以模仿[Windows 95](../Page/Windows_95.md "wikilink")、[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Motif](../Page/Motif.md "wikilink")和其它[图形用户界面](../Page/图形用户界面.md "wikilink")。\[2\]IceWM意在提升感观和体验，同时兼顾了轻量和可定制性。
 
 IceWM可以通过存放在[家目录](../Page/家目录.md "wikilink")的纯文本文件进行配置\[3\]，以便于自定义和复制设置。IceWM有一个可选的，带有菜单、任务管理器、网络和CPU仪表、邮件检查和可配置时钟的[任务栏](../Page/任务栏.md "wikilink")。对于[GNOME](../Page/GNOME.md "wikilink")和[KDE](../Page/KDE.md "wikilink")程序菜单的支持，曾在一个单独的软件包中提供，但是在最近的IceWM版本中已经内置这些功能。另外也有用于配置和编辑菜单的外部图形界面工具提供。\[4\]

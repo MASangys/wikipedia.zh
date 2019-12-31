@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Project](https://zh.wikipedia.org/wiki/Microsoft Project)转换而来。
+
+
 **Microsoft Project**（或MSP）是由[微軟開發銷售的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[项目管理軟件程式](https://zh.wikipedia.org/wiki/项目管理軟件 "wikilink")。軟件設計目的在於協助[项目經理發展](https://zh.wikipedia.org/wiki/項目經理 "wikilink")[計畫](https://zh.wikipedia.org/wiki/計畫 "wikilink")、為[任務分配](https://zh.wikipedia.org/wiki/任務 "wikilink")[資源](https://zh.wikipedia.org/wiki/資源 "wikilink")、跟蹤進度、管理[預算](../Page/預算.md "wikilink")和分析工作量。第一版微軟Project為微軟Project for [Windows 95](../Page/Windows_95.md "wikilink")，發布於1995年。
 
 本應用程式可產生[關鍵路徑日程表](https://zh.wikipedia.org/wiki/關鍵路徑 "wikilink")──雖然第三方[ProChain和](https://zh.wikipedia.org/wiki/:en:ProChain "wikilink")[Spherical Angle也有提供](https://zh.wikipedia.org/wiki/:en:Spherical_Angle "wikilink")[關鍵鏈關聯軟體](https://zh.wikipedia.org/wiki/關鍵鏈 "wikilink")。日程表可以以資源標準的，而且關鍵鏈以[甘特圖形象化](https://zh.wikipedia.org/wiki/甘特圖 "wikilink")。另外，Project可以辨認不同類別的用戶。這些不同類的用戶對專案、概觀、和其它資料有不同的訪問級別。自訂物件如行事曆、觀看方式、表格、篩選器和欄位在企業領域分享給所有用戶。

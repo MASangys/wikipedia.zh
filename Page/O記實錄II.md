@@ -1,3 +1,6 @@
+> 本文内容由[O記實錄II](https://zh.wikipedia.org/wiki/O記實錄II)转换而来。
+
+
 《**O記實錄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝警匪[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共30集，監製[戚其義](../Page/戚其義.md "wikilink")，此劇為《O記實錄系列》第二輯及無綫電視29週年台慶劇，結局篇一周平均收視為30點。
 
 ## 故事大綱

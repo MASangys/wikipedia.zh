@@ -1,3 +1,6 @@
+> 本文内容由[WinHEC](https://zh.wikipedia.org/wiki/WinHEC)转换而来。
+
+
 **Windows硬體工程研討會**（）是由[微軟公司舉辦的年度性研討會](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")，研討內容主要是微軟[Windows作業系統相容](https://zh.wikipedia.org/wiki/Windows作業系統 "wikilink")[硬體的研發](https://zh.wikipedia.org/wiki/硬體 "wikilink")、設計技術，與和並称為微軟三大年度研討會。
 
 ## 活動

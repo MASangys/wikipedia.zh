@@ -1,3 +1,6 @@
+> 本文内容由[OpenVanilla](https://zh.wikipedia.org/wiki/OpenVanilla)转换而来。
+
+
 **OpenVanilla**（簡稱**OV**）計畫在[台灣也常被稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「香草輸入法」，是一套跨平台的[輸入法及文字輸出的處理架構](https://zh.wikipedia.org/wiki/輸入法 "wikilink")；由[台灣團隊於](https://zh.wikipedia.org/wiki/台灣 "wikilink") 2004 年開始開發，迄今已有 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 以及供 [Linux](../Page/Linux.md "wikilink")／[FreeBSD](../Page/FreeBSD.md "wikilink") 各種作業系統使用的版本，可處理簡繁[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、台語[白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")、[日文以及](https://zh.wikipedia.org/wiki/日文 "wikilink")[藏文](../Page/藏文.md "wikilink")等語言。OV 也是一套開放原始碼的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 簡介

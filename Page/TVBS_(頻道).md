@@ -1,3 +1,6 @@
+> 本文内容由[TVBS \(頻道\)](https://zh.wikipedia.org/wiki/TVBS \(頻道\))转换而来。
+
+
 **TVBS頻道**（），是台灣[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")（聯利媒體）經營的有線電視頻道，也是該公司第一個開播的頻道，簡稱**S台**（原簡稱為**T台**）。
 
 ## 頻道歷史

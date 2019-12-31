@@ -1,3 +1,6 @@
+> 本文内容由[DVD播放机](https://zh.wikipedia.org/wiki/DVD播放机)转换而来。
+
+
 [IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg](https://zh.wikipedia.org/wiki/File:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_\(Dual-Layer_HD-DVD_30GB\)_and_\(DVD-HD-DVD-Twin-Disc_5GB_15GB\)_\(by_HDTVTotalDOTcom\).jpg "fig:IFA_2005_Toshiba_HBS_A_001_HD-DVD_Player_(Dual-Layer_HD-DVD_30GB)_and_(DVD-HD-DVD-Twin-Disc_5GB_15GB)_(by_HDTVTotalDOTcom).jpg") [Portable_DVD_player.jpg](https://zh.wikipedia.org/wiki/File:Portable_DVD_player.jpg "fig:Portable_DVD_player.jpg") [Opened_dvd-player.jpg](https://zh.wikipedia.org/wiki/File:Opened_dvd-player.jpg "fig:Opened_dvd-player.jpg") [Macrovision_in_WaveFormMonitor.jpg](https://zh.wikipedia.org/wiki/File:Macrovision_in_WaveFormMonitor.jpg "fig:Macrovision_in_WaveFormMonitor.jpg") **數位光碟播放機**（），俗稱**DVD播放機**，即播放[數碼多功能影音光碟](../Page/數碼多功能影音光碟.md "wikilink")的設備。使用方式大多數皆需要连接到[電視機上](https://zh.wikipedia.org/wiki/電視機 "wikilink")。除此之外，還有內含[液晶顯示器式的產品](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")。
 
 ## 基本功能

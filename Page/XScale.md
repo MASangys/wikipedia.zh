@@ -1,3 +1,6 @@
+> 本文内容由[XScale](https://zh.wikipedia.org/wiki/XScale)转换而来。
+
+
 [Toradex_Colibri_XScale_Monahans_PXA290.jpg](https://zh.wikipedia.org/wiki/File:Toradex_Colibri_XScale_Monahans_PXA290.jpg "fig:Toradex_Colibri_XScale_Monahans_PXA290.jpg") **Xscale**是[Marvell 公司](https://zh.wikipedia.org/wiki/迈威尔科技有限公司 "wikilink")（之前是[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")）針對[嵌入式產品的核心](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，當初是[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[v5TE指令集的](https://zh.wikipedia.org/wiki/ARM_v5TE "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")。2006年6月，Intel将其通信及应用处理器业务出售给Marvell公司，並作為一系列不同[微架構](../Page/微架構.md "wikilink")的處理器的品牌。
 
 ## 簡介

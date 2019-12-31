@@ -1,3 +1,6 @@
+> 本文内容由[SA-8导弹](https://zh.wikipedia.org/wiki/SA-8导弹)转换而来。
+
+
 [Osa-AKM.jpg](https://zh.wikipedia.org/wiki/File:Osa-AKM.jpg "fig:Osa-AKM.jpg") **火炬／安泰**(Antey)科研生产联合体研制的**9K33 "黄蜂 Osa"**（俄语：Оса - 北约命名**SA-8 "壁虎 Gecko"**）是一种高机动低空近程地对空导弹系统。9K33的各种型号都是运输-起竖-发射-雷达一体化车载（TELAR），使得每部发射车可以独立完成目标截获、跟踪、打击，也可以与防空团检控雷达协同作战。六轮装甲越野载车具备良好的两栖能力，可以空运。
 
 ## 历史

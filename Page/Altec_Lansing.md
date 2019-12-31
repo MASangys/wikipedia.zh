@@ -1,3 +1,6 @@
+> 本文内容由[Altec Lansing](https://zh.wikipedia.org/wiki/Altec Lansing)转换而来。
+
+
 **Altec Lansing Technologies, Inc.**是一家電腦與家居音頻裝置裝造商。其中有名的產品線"Voice of the Theatre"於1947年製作，以及"in Motion"，一條為[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[iPod而設計的便攜揚聲器產品線](https://zh.wikipedia.org/wiki/iPod "wikilink")。
 
 它為很多電腦製造廠商如[Dell](https://zh.wikipedia.org/wiki/戴爾電腦 "wikilink")、[Compaq](../Page/康柏.md "wikilink")、[Hewlett-Packard和](../Page/惠普.md "wikilink")[Gateway提供產品](https://zh.wikipedia.org/wiki/Gateway_Computers "wikilink")，在最近逾十年來一直保持個人電腦專用揚聲器市場的最高佔有率。主要競爭對手包括[Harman Kardon與](https://zh.wikipedia.org/wiki/Harman_Kardon "wikilink")[Bose](https://zh.wikipedia.org/wiki/Bose_Corporation "wikilink")。

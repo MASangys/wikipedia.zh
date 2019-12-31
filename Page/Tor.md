@@ -1,3 +1,6 @@
+> 本文内容由[Tor](https://zh.wikipedia.org/wiki/Tor)转换而来。
+
+
 [Tor_Animation_en.webm](https://zh.wikipedia.org/wiki/File:Tor_Animation_en.webm "fig:Tor_Animation_en.webm") **Tor**是实现[匿名](../Page/匿名.md "wikilink")通信的[自由软件](../Page/自由软件.md "wikilink")。其名源於「The Onion Router」（洋蔥路由器）的英語縮寫\[1\]\[2\]。用戶可透過Tor接達由全球志願者免費提供，包含7000+個中繼的[覆盖网络](../Page/覆盖网络.md "wikilink")\[3\]，從而達至隱藏用戶真實地址、避免網絡監控及流量分析的目的。Tor用戶的互聯網活動（包括瀏覽在線網站、帖子以及即時消息等通訊形式）相對較難追踪\[4\]。Tor的設計原意在於保障用戶的個人私隱，以及不受監控地進行秘密通信的自由和能力。
 
 Tor不會阻止在線網站判斷用戶是否通過Tor訪問該網站。儘管它保護用戶的私隱，但卻不會掩飾用戶正在使用Tor這一事實。有些網站會對使用Tor的用戶進行限制。[MediaWiki](../Page/MediaWiki.md "wikilink")的擴充功能Torblock便是其中一個例子，其能自動地限制透過Tor進行的編輯。而使用了Torblock的[維基百科則容許用戶在某些情況下透過Tor编辑其內容](https://zh.wikipedia.org/wiki/維基百科 "wikilink")\[5\]。

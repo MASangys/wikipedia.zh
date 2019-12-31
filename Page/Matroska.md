@@ -1,3 +1,6 @@
+> 本文内容由[Matroska](https://zh.wikipedia.org/wiki/Matroska)转换而来。
+
+
 **Matroska**（）是一種[多媒體封裝格式](https://zh.wikipedia.org/wiki/多媒體封裝格式 "wikilink")，這個封裝格式可把多種不同[編碼的](https://zh.wikipedia.org/wiki/編碼 "wikilink")[影像及](https://zh.wikipedia.org/wiki/影像 "wikilink")16條或以上不同格式的[音頻和](https://zh.wikipedia.org/wiki/音頻 "wikilink")[語言](../Page/語言.md "wikilink")不同的[字幕](../Page/字幕.md "wikilink")封裝到一個Matroska Media檔內。它也是其中一種[開放原始碼的多媒體封裝格式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。很多人把Matroska當作為mkv，其實mkv只是Matroska媒體系列的其中一種檔案格式。
 
 俄文是（[俄羅斯套娃](../Page/俄罗斯套娃.md "wikilink")）的誤讀，因為Matroska的工作原理就跟層層套疊的俄羅斯娃娃一樣，是「愈包愈緊」的，故得名。

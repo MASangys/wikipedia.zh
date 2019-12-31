@@ -1,3 +1,6 @@
+> 本文内容由[Travian](https://zh.wikipedia.org/wiki/Travian)转换而来。
+
+
 《**Travian**》是一個在[瀏覽器內遊玩的免費](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[網路戰略遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，由[德國Travian遊戲公司所製作](https://zh.wikipedia.org/wiki/德國 "wikilink")。此遊戲並無統一的中文譯名，目前在中國大陸地區有譯为「**部落战争**」，而在香港地區則照樣叫作「Travian」。有部分港台玩家將之簡稱為「Tr」
 
 ## 遊戲玩法

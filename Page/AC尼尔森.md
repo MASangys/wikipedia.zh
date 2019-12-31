@@ -1,3 +1,6 @@
+> 本文内容由[AC尼尔森](https://zh.wikipedia.org/wiki/AC尼尔森)转换而来。
+
+
 **AC尼尔森公司**（****），又名：AGB尼爾森，是一家总部位于[美国](../Page/美国.md "wikilink")[纽约市国际](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[市場調查研究公司](https://zh.wikipedia.org/wiki/市場調查研究 "wikilink")，[北美地区总部坐落于](https://zh.wikipedia.org/wiki/北美 "wikilink")[伊利诺斯州](https://zh.wikipedia.org/wiki/伊利诺斯州 "wikilink")[绍姆堡](../Page/绍姆堡_\(伊利诺伊州\).md "wikilink")。主要研究包括[消费品市场的情况和动态](https://zh.wikipedia.org/wiki/消费品 "wikilink")、解决市场和销售问题，以及确定市场发展机会。在该行业是全球最大和最有名气的公司。\[1\]
 
 ## 歷史

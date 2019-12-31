@@ -1,3 +1,6 @@
+> 本文内容由[VTEC](https://zh.wikipedia.org/wiki/VTEC)转换而来。
+
+
 [Vtec.svg](https://zh.wikipedia.org/wiki/File:Vtec.svg "fig:Vtec.svg") [I-VTEC_Motor.jpg](https://zh.wikipedia.org/wiki/File:I-VTEC_Motor.jpg "fig:I-VTEC_Motor.jpg") [K20_head.jpg](https://zh.wikipedia.org/wiki/File:K20_head.jpg "fig:K20_head.jpg") [Ek3.JPG](https://zh.wikipedia.org/wiki/File:Ek3.JPG "fig:Ek3.JPG")的EK3，用VTEC-E技術\]\] **VTEC**（[日文發音](https://zh.wikipedia.org/wiki/日文 "wikilink")：ブイテック、[英文全稱](https://zh.wikipedia.org/wiki/英文 "wikilink")：**V**ariable valve **T**iming and lift **E**lectronic **C**ontrol system）乃[日本](../Page/日本.md "wikilink")[本田技研工業所開發的](../Page/本田技研工业.md "wikilink")「[可變氣門正時與揚程的電子控制系統](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")」，英文簡稱**VTEC**。
 
 ## 概要

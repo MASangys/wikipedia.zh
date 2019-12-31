@@ -1,3 +1,6 @@
+> 本文内容由[笑傲江湖II東方不敗](https://zh.wikipedia.org/wiki/笑傲江湖II東方不敗)转换而来。
+
+
 是1992年根据[金庸](../Page/金庸.md "wikilink")小说《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》改编的一部电影，由[李连杰](../Page/李连杰.md "wikilink")和[林青霞](../Page/林青霞.md "wikilink")分别扮演[令狐冲](../Page/令狐冲.md "wikilink")与[東方不敗](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")，其他演员还有[關之琳](../Page/關之琳.md "wikilink")、[李嘉欣](../Page/李嘉欣.md "wikilink")等。
 
 ## 劇情

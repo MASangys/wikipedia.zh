@@ -1,3 +1,6 @@
+> 本文内容由[POV-Ray](https://zh.wikipedia.org/wiki/POV-Ray)转换而来。
+
+
 **POV-Ray**，全名是，是一个使用[光线跟踪绘制三维图像的](https://zh.wikipedia.org/wiki/光线跟踪 "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。运行POV脚本语言。它是基于[DKBTrace来开发的](https://zh.wikipedia.org/wiki/DKBTrace "wikilink")，DKBTrace是由[David Kirk Buck和](https://zh.wikipedia.org/wiki/David_Kirk_Buck "wikilink")[Aaron A. Collins编写在Amiga上的](https://zh.wikipedia.org/wiki/Aaron_A._Collins "wikilink")。POV-Ray早期也受到了Polyray raytracer作者Alexander Enzmann的帮助。很多漂亮的图片就是由POV-Ray来制作的。
 
 ## 历史

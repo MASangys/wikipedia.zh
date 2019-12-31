@@ -1,3 +1,6 @@
+> 本文内容由[里昂·S·甘乃迪](https://zh.wikipedia.org/wiki/里昂·S·甘乃迪)转换而来。
+
+
 **里昂·史考特·肯尼迪**（，）是[卡普空](../Page/卡普空.md "wikilink")製作的[惡靈古堡系列中登场的角色之一](https://zh.wikipedia.org/wiki/惡靈古堡系列 "wikilink")，為《[惡靈古堡2](https://zh.wikipedia.org/wiki/惡靈古堡2 "wikilink")》的兩個可控制主角之一，同時也是《[惡靈古堡4](https://zh.wikipedia.org/wiki/惡靈古堡4 "wikilink")》的主角和《[惡靈古堡6](https://zh.wikipedia.org/wiki/惡靈古堡6 "wikilink")》的三位主角之一。
 
 《惡靈古堡2》的事件一開始，身为[浣熊市](../Page/浣熊市.md "wikilink")警察的里昂在上班第一天便遲到，導致他必須獨自作战以解决喪屍病毒爆發的问题，在遊戲過程中，他救起被喪屍襲擊的[克蕾兒·雷德菲爾](../Page/克蕾兒·雷德菲爾.md "wikilink")，里昂於是與她结盟，随后两人救起年幼的[雪莉·柏金](../Page/雪莉·柏金.md "wikilink")，並得到神秘女人[艾達·王](../Page/艾達·王.md "wikilink")的援助。六年後（《惡靈古堡4》），里昂當上[美國聯邦政府](../Page/美國聯邦政府.md "wikilink")的特務，並從險惡的邪教中拯救了總統的女兒。在《惡靈古堡6》中，他繼續為聯邦政府效劳，並與艾達和成年的雪莉重逢。

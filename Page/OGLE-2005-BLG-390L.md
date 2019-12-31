@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-2005-BLG-390L](https://zh.wikipedia.org/wiki/OGLE-2005-BLG-390L)转换而来。
+
+
 **OGLE-2005-BLG-390L**（OGLE-05-390L）是位於[天蝎座](../Page/天蝎座.md "wikilink")的一顆[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")，距離[地球](../Page/地球.md "wikilink")21,500 ± 3300[光年](../Page/光年.md "wikilink")（6600 ± 1000 [pc](../Page/秒差距.md "wikilink")）。該恆星很有可能是一顆屬於M型[光譜的](https://zh.wikipedia.org/wiki/恒星光谱分类 "wikilink")[紅矮星](../Page/紅矮星.md "wikilink")，其質量約為[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")0.22 ± 0.1倍。\[1\]
 
 在[波蘭的](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[OGLE小組對該恆星進行觀測期間](../Page/光學重力透鏡實驗.md "wikilink")，透過[重力透鏡](https://zh.wikipedia.org/wiki/重力透鏡 "wikilink")，發現有一顆行星繞著它公轉，這顆行星的質量約為地球的五倍，距離恆星約為2.6[天文單位](../Page/天文單位.md "wikilink")。該發現於2006年1月26日對外公佈。\[2\]

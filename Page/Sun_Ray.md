@@ -1,3 +1,6 @@
+> 本文内容由[Sun Ray](https://zh.wikipedia.org/wiki/Sun Ray)转换而来。
+
+
 [Sunray.jpg](https://zh.wikipedia.org/wiki/File:Sunray.jpg "fig:Sunray.jpg") **Sun Ray**是[昇陽電腦](../Page/昇陽電腦.md "wikilink")公司（Sun Microsystems）於1999年所發表的[瘦客户端](../Page/瘦客户端.md "wikilink")（Thin Client），是針對企業資訊環境而推出。
 
 Sun Ray的組成包括一個[智慧卡](../Page/智慧卡.md "wikilink")（Smart Card）讀卡機，且多數機款與[平面顯示器](https://zh.wikipedia.org/wiki/平面顯示器 "wikilink")（Flat Panel Display，FPD）合為一體。

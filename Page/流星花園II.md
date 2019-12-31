@@ -1,3 +1,6 @@
+> 本文内容由[流星花園II](https://zh.wikipedia.org/wiki/流星花園II)转换而来。
+
+
 《**流星花園II**》（），是《[流星花園](https://zh.wikipedia.org/wiki/流星花園 "wikilink")》的續集。由[徐熙媛](../Page/徐熙媛.md "wikilink")（[大S](https://zh.wikipedia.org/wiki/大S "wikilink")）、男子團體[F4主演](https://zh.wikipedia.org/wiki/F4_\(男子團體\) "wikilink")，[可米瑞智文化傳播事業有限公司製作](https://zh.wikipedia.org/wiki/可米瑞智 "wikilink")。2002年起於[華視播出](https://zh.wikipedia.org/wiki/華視 "wikilink")，《流星花園II》的劇情則是台灣編劇的原創劇情，並非漫畫原作的故事內容。2003年1月2日起於香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")逢星期一至五晚上10:00播放。
 
 ## 故事概要

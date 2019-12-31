@@ -1,3 +1,6 @@
+> 本文内容由[SUNDAY](https://zh.wikipedia.org/wiki/SUNDAY)转换而来。
+
+
 **SUNDAY**（1997年－2007年，[港交所前上市代號](https://zh.wikipedia.org/wiki/香港聯合交易所 "wikilink")：0866，[納斯達克前上市代號](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")：SDAY）為[香港](../Page/香港.md "wikilink")一間[電訊公司](https://zh.wikipedia.org/wiki/電訊 "wikilink")，成立於1997年，是香港提供[2G](../Page/2G.md "wikilink")及[3G](../Page/3G.md "wikilink")服務的電訊公司之一。公司在[開曼群島](../Page/開曼群島.md "wikilink")註冊，總部設於[鰂魚涌](../Page/鰂魚涌.md "wikilink")[太古坊](../Page/太古坊.md "wikilink")[和域大廈](https://zh.wikipedia.org/wiki/和域大廈 "wikilink")，2000年3月16日在香港聯合交易所及3月15日在美國納斯達克市場上市。
 
 2006年12月15日起，公司在香港交易所和納斯達克停止交易，並把所有資產賣給[電訊盈科](../Page/電訊盈科.md "wikilink")。2006年12月19日SUNDAY由[開曼群島](../Page/開曼群島.md "wikilink")遷冊[英屬處女群島](https://zh.wikipedia.org/wiki/英屬處女群島 "wikilink")，並在2007年1月被清盤。清盤前SUNDAY的主要股東是電訊盈科（79.35%）及[華為技術投資有限公司](https://zh.wikipedia.org/wiki/華為公司 "wikilink")（9.91%）。SUNDAY品牌已於2007年3月26日正式易名為[PCCW Mobile](https://zh.wikipedia.org/wiki/PCCW_Mobile "wikilink") 2G。

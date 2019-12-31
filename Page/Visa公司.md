@@ -1,3 +1,6 @@
+> 本文内容由[Visa公司](https://zh.wikipedia.org/wiki/Visa公司)转换而来。
+
+
 **Visa公司**（英語：**Visa Inc.**，标识为**VISA**；）是总部位于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[福斯特市的跨国金融服务公司](https://zh.wikipedia.org/wiki/福斯特市 "wikilink")。\[1\]Visa国际组织通过Visa品牌的[信用卡](../Page/信用卡.md "wikilink")（Credit Card）和[借记卡](../Page/借记卡.md "wikilink")（Debit Card）促进全球的电子资金转账。\[2\]VISA不会直接为消费者发行信用卡、延长信贷或设定费率和收费；相反，VISA为全球各地的金融机构提供Visa品牌的支付产品，并让它们向客户提供信用卡、借记卡、预付费和现金服务。2015年尼尔森报告发现，Visa的全球网络（俗称「**VisaNet**」）处理金额突破6.8兆美元或1,000亿的交易数。\[3\]
 
 VISA在2015年後是全世界規模第二大的信用卡与借记卡支付机构，仅次于中国大陆地区的[中国银联](../Page/中国银联.md "wikilink")，而[万事达卡](../Page/万事达卡.md "wikilink")（）则紧追其后。\[4\]

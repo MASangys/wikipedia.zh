@@ -1,3 +1,6 @@
+> 本文内容由[CPU-Z](https://zh.wikipedia.org/wiki/CPU-Z)转换而来。
+
+
 **CPU-Z**為一個可偵察[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")、[主機板及](https://zh.wikipedia.org/wiki/主機板 "wikilink")[顯示卡資訊的](../Page/显示卡.md "wikilink")[Windows平台](https://zh.wikipedia.org/wiki/Windows平台 "wikilink")[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")，還擁有[基準測試以及穩定度測試](https://zh.wikipedia.org/wiki/基準化分析法 "wikilink")。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[AOE网](https://zh.wikipedia.org/wiki/AOE网)转换而来。
+
+
 **AOE网**（Activity On Edge）即边表示[活动的网](https://zh.wikipedia.org/wiki/活动 "wikilink")，是一个带权的[有向无环图](https://zh.wikipedia.org/wiki/有向无环图 "wikilink")，其中[顶点表示](../Page/顶点_\(图论\).md "wikilink")[事件](https://zh.wikipedia.org/wiki/事件 "wikilink")（Event），每个事件表示在它之前的活动已经完成，在它之后的活动可以开始，[弧](../Page/弧.md "wikilink")表示活动，[权表示活动持续的时间](https://zh.wikipedia.org/wiki/权 "wikilink")。AOE网可用来估算[工程的完成时间](https://zh.wikipedia.org/wiki/工程 "wikilink")。由于整个工程只有一个开始点和一个完成点，故在正常的情况（无环）下，网中只有一个[入度为零的点](https://zh.wikipedia.org/wiki/入度 "wikilink")（[源点](https://zh.wikipedia.org/wiki/源点 "wikilink")）和一个[出度为零的点](https://zh.wikipedia.org/wiki/出度 "wikilink")（[汇点](https://zh.wikipedia.org/wiki/汇点 "wikilink")）。
 
 ## AOE网有待研究的问题

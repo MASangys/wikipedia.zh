@@ -1,3 +1,6 @@
+> 本文内容由[学生t-分布](https://zh.wikipedia.org/wiki/学生t-分布)转换而来。
+
+
 \\\!</math> |cdf =\(\frac{1}{2} + \frac{x \Gamma \left( (\nu+1)/2 \right) \,_2F_1 \left ( \frac{1}{2},(\nu+1)/2;\frac{3}{2};-\frac{x^2}{\nu} \right)} {\sqrt{\pi\nu}\,\Gamma (\nu/2)}\)其中：\(\,_2F_1\)是[超几何函数](../Page/超几何函数.md "wikilink") |mean =\(\nu>1\)时为\(0\)，\(\nu=1\)时未定义 |median =\(0\) |mode =\(0\) |variance =\(\nu>2\)时为\(\frac{\nu}{\nu-2}\!\)，否则为无穷大 |skewness =\(\nu>3\)时为\(0\) |kurtosis =\(\nu>4\)时为\(\frac{6}{\nu-4}\!\) |entropy =\(\begin{matrix}
          \frac{\nu+1}{2}\left[
              \psi(\frac{1+\nu}{2})

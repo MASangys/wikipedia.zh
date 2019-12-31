@@ -1,3 +1,6 @@
+> 本文内容由[朱迪丝·N·施克莱](https://zh.wikipedia.org/wiki/朱迪丝·N·施克莱)转换而来。
+
+
 **朱迪丝·N·施克莱**（**Judith Nisse Shklar**，）是20世纪[美国](../Page/美国.md "wikilink")著名的[政治学](../Page/政治学.md "wikilink")家、[自由主义](../Page/自由主义.md "wikilink")者。
 
 ## 生平

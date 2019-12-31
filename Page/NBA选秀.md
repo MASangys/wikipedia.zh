@@ -1,3 +1,6 @@
+> 本文内容由[NBA选秀](https://zh.wikipedia.org/wiki/NBA选秀)转换而来。
+
+
 **NBA选秀**为一年一度的[NBA](../Page/NBA.md "wikilink")盛会，在选秀大会上，30支NBA球队都可以挑选想加入NBA的球员，这些球员通常都是来自美国大学级别的比赛，但近年来被选中的国际球员和高中毕业生越来越多。被选中的球员称为新秀。NBA有三个针对新秀的评选，一个是[NBA最佳新秀](https://zh.wikipedia.org/wiki/NBA最佳新秀 "wikilink")，另外一个是[NBA全明星新秀赛评选](https://zh.wikipedia.org/wiki/NBA全明星新秀赛 "wikilink")。還有[NBA最佳新秀陣容](https://zh.wikipedia.org/wiki/NBA最佳新秀陣容 "wikilink")。\[1\]
 
 ## 选秀程序

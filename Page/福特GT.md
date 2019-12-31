@@ -1,3 +1,6 @@
+> 本文内容由[福特GT](https://zh.wikipedia.org/wiki/福特GT)转换而来。
+
+
 [Warwick_(Rhode_Island,_USA),_Ford_GT_--_2006_--_1.jpg](https://zh.wikipedia.org/wiki/File:Warwick_\(Rhode_Island,_USA\),_Ford_GT_--_2006_--_1.jpg "fig:Warwick_(Rhode_Island,_USA),_Ford_GT_--_2006_--_1.jpg") [GT40_at_Goodwood.jpg](https://zh.wikipedia.org/wiki/File:GT40_at_Goodwood.jpg "fig:GT40_at_Goodwood.jpg")
 
 **福特GT**（Ford GT）是[福特汽車旗下的一個](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")系列，其開發的起源可以回溯至2002年時，原本是在車展中展出以作為車廠創廠百年紀念的GT40[概念車](../Page/概念車.md "wikilink")，但因意外獲得熱烈迴響因此車廠決定將之付諸量產，並於2004年至2007年間，限量生產了4千餘輛量產版車型。GT是以福特在1960年代稱霸[利曼24小時耐久賽賽場的經典賽車](https://zh.wikipedia.org/wiki/利曼24小時耐久賽 "wikilink")[GT40為樣本](../Page/福特GT40.md "wikilink")，保持古典的車身造型與車身比例但換用現代化的機械結構所設計出來的車款，因此在概念車版本時同樣也命名為**GT40**，但在實際量產上市時，將車名簡化為**GT**。

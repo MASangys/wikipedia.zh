@@ -1,3 +1,6 @@
+> 本文内容由[Xiph.Org基金會](https://zh.wikipedia.org/wiki/Xiph.Org基金會)转换而来。
+
+
 **基金會**是一個致力於創作公有[多媒體格式和工具的非營利性組織](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。他們主要集中開發[Ogg](../Page/Ogg.md "wikilink")家族格式，而其中最為成功知名的是Ogg [Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，為一[開放原始碼且免](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[專利使用費的音訊格式](https://zh.wikipedia.org/wiki/專利 "wikilink")、[編解碼器](../Page/编解码器.md "wikilink")，用來與需專利使用費的[MP3](../Page/MP3.md "wikilink")與[AAC競爭](../Page/進階音訊編碼.md "wikilink")。截至2013年，開發工作集中於[Daala](../Page/Daala.md "wikilink")，為一開放原始碼且免專利使用費的視訊格式、編解碼器，用來與需專利使用費的[HEVC與](../Page/高效率视频编码.md "wikilink")[VP9](../Page/VP9.md "wikilink")競爭。
 
 除此之外，基金會亦將數個既存的補足性[自由軟體方案收於其免專利使用費的保護傘下](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，如針對語音設計的編解碼器[Speex與](https://zh.wikipedia.org/wiki/Speex "wikilink")[無失真音訊壓縮編解碼器](../Page/无损数据压缩.md "wikilink")[FLAC](../Page/FLAC.md "wikilink")。

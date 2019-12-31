@@ -1,3 +1,6 @@
+> 本文内容由[Beta系数](https://zh.wikipedia.org/wiki/Beta系数)转换而来。
+
+
 **貝塔-{系}-数**（\(\beta\) 系數，貝塔系數，香港又譯作：**啤打系數**）是用以度量一项资产[系统性风险的指标](https://zh.wikipedia.org/wiki/系统性风险 "wikilink")，是[资本资产定价模型](../Page/资本资产定价模型.md "wikilink")的参数之一。指用以衡量一种证券或一个投资证券组合相对总体市场的波动性的一种证券系统性风险的评估工具。
 
 公式为：\(\beta_a = \frac {\mbox{Cov}(r_a,r_m)}{\sigma_m^2}\)

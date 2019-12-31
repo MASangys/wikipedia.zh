@@ -1,3 +1,6 @@
+> 本文内容由[LB培养基](https://zh.wikipedia.org/wiki/LB培养基)转换而来。
+
+
 [LBmedium.JPG](https://zh.wikipedia.org/wiki/File:LBmedium.JPG "fig:LBmedium.JPG") **LB培养基**（****，LB），是[微生物學實驗中最常用的](https://zh.wikipedia.org/wiki/微生物學 "wikilink")[營養性](https://zh.wikipedia.org/wiki/營養 "wikilink")[培養基](https://zh.wikipedia.org/wiki/培養基 "wikilink")，用於培養[大腸桿菌](../Page/大腸桿菌.md "wikilink")等[細菌](https://zh.wikipedia.org/wiki/細菌 "wikilink")，分為液態培养基和加入[瓊脂製成的固態培養基](https://zh.wikipedia.org/wiki/瓊脂 "wikilink")。加入抗生素的 LB 培養基可用於篩選以大腸杆菌爲宿主的[選殖](https://zh.wikipedia.org/wiki/選殖 "wikilink")。
 
 ## 名稱

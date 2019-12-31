@@ -1,3 +1,6 @@
+> 本文内容由[MediaCoder](https://zh.wikipedia.org/wiki/MediaCoder)转换而来。
+
+
 **MediaCoder**是由[黄轶纯开发的一个通用音频](https://zh.wikipedia.org/wiki/黄轶纯 "wikilink")／视频批量转码工具，它将众多来自[开源社区的优秀音频视频编解码器和工具整合为一个通用的解决方案](https://zh.wikipedia.org/wiki/开源社区 "wikilink")，它可以将音频、视频文件在各种格式之间进行转换。该软件直到2008年还是一款基于[GPL协议的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink")，后来作者封闭了源代码，不再开源，以[MediaCoder EULA](http://blog.mediacoderhq.com/docs/EULA/)协议发布，并从[Sourceforge中移出](https://zh.wikipedia.org/wiki/Sourceforge "wikilink")。
 
 ## 特点

@@ -1,3 +1,6 @@
+> 本文内容由[Orange \(公司\)](https://zh.wikipedia.org/wiki/Orange \(公司\))转换而来。
+
+
 **Orange 股份有限公司**（， **Orange**）前身為「法國電信」（France Télécom S.A,）是法國主要的[電信公司](https://zh.wikipedia.org/wiki/電信 "wikilink")，目前在全世界擁有超過22萬名員工，約有將近9千萬位顧客（包含法國的[海外省份](https://zh.wikipedia.org/wiki/法國行政區劃 "wikilink")）。該公司於2005年第三季的總收益約為122億歐元（約149億美元）。
 
 法國電信的原任執行長為[蒂埃里·布雷頓](https://zh.wikipedia.org/wiki/蒂埃里·布雷頓 "wikilink")（Thierry Breton），在2005年2月25日被任命為法國[財經暨工業部長後](https://zh.wikipedia.org/wiki/財經暨工業部長 "wikilink")，由[迪迪爾·倫巴德](https://zh.wikipedia.org/wiki/迪迪爾·倫巴德 "wikilink")（Didier Lombard）接任，自2011年2月起由[斯特凡·理查德](https://zh.wikipedia.org/wiki/斯特凡·理查德 "wikilink")（Stephane Richard）接任。

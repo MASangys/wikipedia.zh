@@ -1,3 +1,6 @@
+> 本文内容由[Irem](https://zh.wikipedia.org/wiki/Irem)转换而来。
+
+
 [Irem_Logo.png](https://zh.wikipedia.org/wiki/File:Irem_Logo.png "fig:Irem_Logo.png") **Irem**（全稱 Innovation in Recreational Electronic Media）**股份有限公司**是一家[日本](../Page/日本.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")公司，其主要业务為开发及发行电子游戏。公司成立於1974年，起初名为IPM，並於1978年發行了第一款街机游戏。1979年正式更名为Irem，该公司迄今为止最成功的游戏是[R-TYPE](https://zh.wikipedia.org/wiki/R-TYPE "wikilink")，中文译名《异型战机》。此外该公司还出品过一些比较成功的作品比如[Photoboy](https://zh.wikipedia.org/wiki/Photoboy "wikilink")、[最後忍道](https://zh.wikipedia.org/wiki/最後忍道 "wikilink")、[海底大戰爭](../Page/海底大戰爭.md "wikilink")、[战火惊魂2](https://zh.wikipedia.org/wiki/战火惊魂2 "wikilink")。
 
 1997年4月15日Irem软件工程公司成立并於7月接管了Irem股份有限公司。此后一些公司的成员离开该公司并组建了Nazca股份有限公司，后并入[SNK](../Page/SNK.md "wikilink")公司成为其一个团队，此团队的成功作品有[合金弹头系列](../Page/合金弹头系列.md "wikilink")。

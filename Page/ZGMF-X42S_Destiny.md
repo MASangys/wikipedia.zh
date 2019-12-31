@@ -1,3 +1,6 @@
+> 本文内容由[ZGMF-X42S Destiny](https://zh.wikipedia.org/wiki/ZGMF-X42S Destiny)转换而来。
+
+
 **ZGMF-X42S Destiny**為[日本](../Page/日本.md "wikilink")電視動畫[機動戰士鋼彈 SEED DESTINY中登場](https://zh.wikipedia.org/wiki/機動戰士鋼彈_SEED_DESTINY "wikilink")，被分類為機動戰士（[MS](https://zh.wikipedia.org/wiki/MS "wikilink")）的虛構兵器之一，為主人翁[真·飛鳥](../Page/真·飛鳥.md "wikilink")於故事後期搭乘之座機。機體名為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「命運」之意，日本地區通稱「運命」，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。 [Zgmf-x42s.jpg](https://zh.wikipedia.org/wiki/File:Zgmf-x42s.jpg "fig:Zgmf-x42s.jpg")
 
 ## 開發經過

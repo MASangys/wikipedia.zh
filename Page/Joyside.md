@@ -1,3 +1,6 @@
+> 本文内容由[Joyside](https://zh.wikipedia.org/wiki/Joyside)转换而来。
+
+
 **Joyside**，[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[朋克著名乐队之一](https://zh.wikipedia.org/wiki/朋克 "wikilink")。知名歌曲包括 *Eat Me Hey Bitch,(i am)lazy & wasting,sunday morning,Dong Dong Dong,Neptune's Child,Your city is desert to me*等。
 
 ## 简介

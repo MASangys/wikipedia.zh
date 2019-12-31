@@ -1,3 +1,6 @@
+> 本文内容由[STS-2](https://zh.wikipedia.org/wiki/STS-2)转换而来。
+
+
 ****是[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")使用[哥伦比亚号航天飞机进行的第二次航天飞机任务](https://zh.wikipedia.org/wiki/哥伦比亚号航天飞机 "wikilink")，发射于1981年11月12日。这次任务既是哥伦比亚号的第二次任务，也是历史上第二次航天飞机任务，使哥伦比亚号成为了第一艘重复使用的载人航天器。之前，在[双子星2号中使用的无人航天器曾在大规模修复后再次执行无人的](https://zh.wikipedia.org/wiki/双子星2号 "wikilink")[载人轨道实验室](https://zh.wikipedia.org/wiki/载人轨道实验室 "wikilink")（）任务。
 
 ## 任务成员

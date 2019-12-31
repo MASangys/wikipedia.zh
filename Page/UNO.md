@@ -1,3 +1,6 @@
+> 本文内容由[UNO](https://zh.wikipedia.org/wiki/UNO)转换而来。
+
+
 （[義大利文及](https://zh.wikipedia.org/wiki/義大利文 "wikilink")[西班牙文涵義為](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")「**一**」）是一種[紙牌遊戲](https://zh.wikipedia.org/wiki/紙牌遊戲 "wikilink")，由[梅爾·羅賓斯在](https://zh.wikipedia.org/wiki/梅爾·羅賓斯 "wikilink")1971年發明，現時由遊戲公司[美泰兒](../Page/美泰兒.md "wikilink")生產。當玩者要打出倒數第二張牌時，必須喊出"uno"，遊戲因而得名。因遊戲時間極長，有可能造成遊戲玩家煩厭及鼓躁。
 **UNO**曾出過一些版本，如**DUO**、**Wild4UNO**及**DOS**，其中以**DOS**版本的玩法改變最大，可減少遊戲玩家煩躁（詳見**DOS**）。
 

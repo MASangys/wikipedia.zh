@@ -1,3 +1,6 @@
+> 本文内容由[UT斯达康](https://zh.wikipedia.org/wiki/UT斯达康)转换而来。
+
+
 **UT斯达康**是全球性的通信设备提供商，其总部在[香港](../Page/香港.md "wikilink")\[1\]。公司向固定与移动网络运营商、以及业务提供商提供各类通信解决方案，同时也提供各种专网解决方案。 公司专注于电信级的宽带（无线[Wi-Fi](../Page/Wi-Fi.md "wikilink")与有线）传送与接入，为移动回传、城域汇聚、宽带接入与[Wi-Fi](../Page/Wi-Fi.md "wikilink")提供优化的产品与解决方案。公司的宽带产品线包括基于MPLS-TP和电信级以太网技术（Carrier Ethernet）的PTN产品系列，结合内建的[软件定义网络](https://zh.wikipedia.org/wiki/软件定义网络 "wikilink")（SDN）架构，支持网络演进与multi-service access node（MSAN）。无线宽带接入则提供端到端的电信级[Wi-Fi](../Page/Wi-Fi.md "wikilink")解决方案\[2\]。公司致力于建立全球产品线，正在探索新市场和开发新产品，包括智能化客户终端设备（虚拟宽带网关）与数据中心交换设备。
 
 ## 历史

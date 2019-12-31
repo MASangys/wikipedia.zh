@@ -1,3 +1,6 @@
+> 本文内容由[L球粒隕石](https://zh.wikipedia.org/wiki/L球粒隕石)转换而来。
+
+
 [NWA869Meteorite.jpg](https://zh.wikipedia.org/wiki/File:NWA869Meteorite.jpg "fig:NWA869Meteorite.jpg") **L球粒隕石**（又稱低鐵群球粒隕石）是一種[普通球粒隕石](../Page/普通球粒隕石.md "wikilink")，亦是第二常見的[隕石](../Page/隕石.md "wikilink")。大約40%被記載的隕石屬於此類，在普通球粒隕石中，L球粒隕石佔40%\[1\]。
 
 此類隕石含[鐵量較低](https://zh.wikipedia.org/wiki/鐵 "wikilink")，佔其重量的20-25%，其名字中的“L”代表低鐵含量（英語：***L**ow iron abundance*，與[H球粒隕石](../Page/H球粒隕石.md "wikilink")相對。約有4-10%的[鎳](https://zh.wikipedia.org/wiki/鎳 "wikilink")－鐵為自由金屬，因此這些隕石也具有[磁性](https://zh.wikipedia.org/wiki/磁性 "wikilink")，但不及H球粒隕石強。

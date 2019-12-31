@@ -1,3 +1,6 @@
+> 本文内容由[Google工具列](https://zh.wikipedia.org/wiki/Google工具列)转换而来。
+
+
 **Google工具栏**（**Google Toolbar**）是一個可於[Microsoft Internet Explorer與](../Page/Internet_Explorer.md "wikilink")[Mozilla Firefox上使用的網絡](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[瀏覽器工具列](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。
 
 2011年7月19日，Google宣布由於許多Google工具栏所提供的功能已經融入到瀏覽器中，對Firefox版本Google工具栏的開發至Firefox 4版本停止，不再提供對Firefox 5及未來版本的支持\[1\]。

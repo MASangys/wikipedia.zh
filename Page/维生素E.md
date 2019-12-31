@@ -1,3 +1,6 @@
+> 本文内容由[维生素E](https://zh.wikipedia.org/wiki/维生素E)转换而来。
+
+
 **維生素E**（）是一種[脂溶性](https://zh.wikipedia.org/wiki/脂溶性 "wikilink")[維生素](https://zh.wikipedia.org/wiki/維生素 "wikilink")，是最主要的[抗氧化劑之一](https://zh.wikipedia.org/wiki/抗氧化劑 "wikilink")。溶於[脂肪](../Page/脂肪.md "wikilink")和[乙醇](../Page/乙醇.md "wikilink")等[有機溶劑中](https://zh.wikipedia.org/wiki/有機溶劑 "wikilink")，不溶於[水](../Page/水.md "wikilink")，對熱、酸穩定，對鹼不穩定，對氧敏感，對熱不敏感，但[油炸時維生素E活性明顯降低](https://zh.wikipedia.org/wiki/油炸 "wikilink")。在缺乏维生素E后进行补充，能促進[性激素分泌](https://zh.wikipedia.org/wiki/性激素 "wikilink")，使男子[精子](../Page/精子.md "wikilink")活力和數量增加；使女子[雌性激素濃度增高](https://zh.wikipedia.org/wiki/雌性激素 "wikilink")，提高生育能力，預防[流產](https://zh.wikipedia.org/wiki/流產 "wikilink")。
 
 近来还发现维生素E可抑制眼睛[晶状体](../Page/晶状体.md "wikilink")内的过氧化脂反应，使末梢血管扩张，改善血液循环。维生素E苯环上的酚羟基被乙酰化， 酯水解为酚羟基后为生育酚。人们常误认为维生素E就是[生育酚](https://zh.wikipedia.org/wiki/生育酚 "wikilink")。

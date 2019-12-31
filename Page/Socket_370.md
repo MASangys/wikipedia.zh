@@ -1,3 +1,6 @@
+> 本文内容由[Socket 370](https://zh.wikipedia.org/wiki/Socket 370)转换而来。
+
+
 **Socket 370**為[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Pentium III](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")、[Celeron及](https://zh.wikipedia.org/wiki/Celeron "wikilink") [VIA](https://zh.wikipedia.org/wiki/VIA "wikilink") [Cyrix III](../Page/Cyrix.md "wikilink")／[C3](../Page/VIA_C3.md "wikilink") 使用的插座。它的出現，取代舊有的[Slot 1插槽設計](../Page/Slot_1.md "wikilink")。"370"代表插座上有370個針孔，現代的Socket 370主要用於[Mini-ITX](../Page/Mini-ITX.md "wikilink")及[嵌入式系統上](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。由於Socket 370與Slot1一部份晶片組共用（如440BX），因此有廠商推出轉接卡使Slot 1主機板也可使用Socket 370的CPU。
 
 Socket 370規格前後有數個版本，最後支援到2002年推出的最高時脈Pentium III-S 1.40 GHz Tualatin核心處理器，其FSB頻率為133 MHz。威盛持續支援Socket 370，一直到[C3處理器產品停產為止](../Page/VIA_C3.md "wikilink")，處理器有時直接焊在主機板上面。

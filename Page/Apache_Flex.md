@@ -1,3 +1,6 @@
+> 本文内容由[Apache Flex](https://zh.wikipedia.org/wiki/Apache Flex)转换而来。
+
+
 **Apache Flex**（前稱**Adobe Flex**）是一个基于[Adobe](../Page/Adobe.md "wikilink")[Flash平台的](https://zh.wikipedia.org/wiki/Flash "wikilink")，用以开发和部署[RIA](https://zh.wikipedia.org/wiki/多樣化網際網路應用程式 "wikilink")（Rich Internet Applications）的[SDK](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")（Software Development Kit）。最初由[Macromedia](../Page/Macromedia.md "wikilink")公司于2004年3月发布，并且后来由[Adobe](../Page/Adobe.md "wikilink")收购，并由[Adobe](../Page/Adobe.md "wikilink")于2011年将之捐献给[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")\[1\]，在2012年推动成为首要项目。
 
 Flex 3 [SDK在](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")2008年以[开放源代码](../Page/开放源代码.md "wikilink")的[Mozilla公共许可证](../Page/Mozilla公共许可证.md "wikilink")释出。因此，可以用通用的[集成开发环境](../Page/集成开发环境.md "wikilink")开发Flex应用，如[IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")、[Eclipse](../Page/Eclipse.md "wikilink")、[自由及开放源代码的IDE](https://zh.wikipedia.org/wiki/自由及开放源代码 "wikilink") [FlashDevelop](https://zh.wikipedia.org/wiki/FlashDevelop "wikilink")，以及专属软件[Adobe Flash Builder](../Page/Adobe_Flash_Builder.md "wikilink")。最新版的SDK版本是4.16.1，采用第2版的[Apache许可证](../Page/Apache许可证.md "wikilink")释出。

@@ -1,3 +1,6 @@
+> 本文内容由[DEFLATE](https://zh.wikipedia.org/wiki/DEFLATE)转换而来。
+
+
 **DEFLATE**是同时使用了[LZ77算法与](../Page/LZ77与LZ78.md "wikilink")[哈夫曼编码](https://zh.wikipedia.org/wiki/哈夫曼编码 "wikilink")（Huffman Coding）的一个[无损数据压缩](../Page/无损数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")。它最初是由[菲尔·卡茨](../Page/菲尔·卡茨.md "wikilink")（Phil Katz）为他的[PKZIP软件第二版所定义的](https://zh.wikipedia.org/wiki/PKZIP "wikilink")，后来被[RFC 1951](https://tools.ietf.org/html/rfc1951)标准化。
 
 [菲尔·卡茨](../Page/菲尔·卡茨.md "wikilink")及其所拥有的为该算法申请了[美国专利5051745号](https://www.google.com/patents/US5051745)。人们普遍认为DEFLATE不受任何[专利](../Page/专利.md "wikilink")所覆盖，并且在[LZW](../Page/LZW.md "wikilink")（[GIF](../Page/GIF.md "wikilink")文件格式使用）相关的专利失效之前，这种格式除了在[ZIP文件格式中得到应用之外也在](https://zh.wikipedia.org/wiki/ZIP_\(文件格式\) "wikilink")[gzip压缩文件以及](https://zh.wikipedia.org/wiki/gzip "wikilink")[PNG](../Page/PNG.md "wikilink")图像文件中得到了应用。

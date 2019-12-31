@@ -1,3 +1,6 @@
+> 本文内容由[COBOL](https://zh.wikipedia.org/wiki/COBOL)转换而来。
+
+
 ****（），其名稱來自於**通用商業語言**\[1\]（，又譯為**面向常規業務型語言**/**常規商業信息處理語言**）的[縮寫](../Page/縮寫.md "wikilink")，是最早的高階程式語言、以及是世界上最早實施[標準化的](https://zh.wikipedia.org/wiki/標準化 "wikilink")[計算機語言之一](https://zh.wikipedia.org/wiki/計算機語言 "wikilink")。屬於[編譯語言](https://zh.wikipedia.org/wiki/編譯語言 "wikilink")。
 
 ## COBOL的历史

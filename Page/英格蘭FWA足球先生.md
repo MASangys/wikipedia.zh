@@ -1,3 +1,6 @@
+> 本文内容由[英格蘭FWA足球先生](https://zh.wikipedia.org/wiki/英格蘭FWA足球先生)转换而来。
+
+
 **英格蘭FWA足球先生**（**The Football Writers Footballer Of The Year Award**），常被稱为**英格蘭足球先生**（Footballer Of The Year），创立于1948年，是由（Football Writers' Association）评选的獎項以表揚“在球場內外對足球有傑出貢獻的球員”，也是全球最早的同類型评选之一。2006年[-{zh-hans:蒂埃里·亨利; zh-hk:亨利;}-成為首位三次奪獎的球員](https://zh.wikipedia.org/wiki/蒂埃里·亨利 "wikilink")。
 
 英格蘭足壇的年度大獎還有[英格蘭年度球員](../Page/英格蘭年度球員.md "wikilink")和[PFA足球先生](https://zh.wikipedia.org/wiki/PFA足球先生 "wikilink")，分別由球迷在 theFA.com選出及由[英格蘭職業足球運動員協會](../Page/英格蘭職業足球運動員協會.md "wikilink")評選。

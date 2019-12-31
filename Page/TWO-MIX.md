@@ -1,3 +1,6 @@
+> 本文内容由[TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX)转换而来。
+
+
 **TWO-MIX**是由[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[高山南](../Page/高山南.md "wikilink")（）和作詞、作曲家[永野椎菜](../Page/永野椎菜.md "wikilink")所組成的音樂團體。前身為ES CONNEXION。
 
 ## 成員

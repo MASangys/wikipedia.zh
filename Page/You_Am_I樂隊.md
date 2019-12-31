@@ -1,3 +1,6 @@
+> 本文内容由[You Am I樂隊](https://zh.wikipedia.org/wiki/You Am I樂隊)转换而来。
+
+
 **You Am I樂隊**，是一個來自[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[悉尼](../Page/悉尼.md "wikilink")的搖滾樂隊，成員有Tim Rogers,Davey Lane,Rusell Hopkinson和ANdy Kent 他們暫時是[澳洲唯一一隊有](https://zh.wikipedia.org/wiki/澳洲 "wikilink")3張大碟有拿個[澳洲排行磅冠軍](https://zh.wikipedia.org/wiki/澳洲 "wikilink")。
 
 ## 成員

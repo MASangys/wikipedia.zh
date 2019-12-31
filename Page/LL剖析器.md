@@ -1,3 +1,6 @@
+> 本文内容由[LL剖析器](https://zh.wikipedia.org/wiki/LL剖析器)转换而来。
+
+
 **LL分析器**是一种处理某些[上下文无关文法](../Page/上下文无关文法.md "wikilink")的[自顶向下](https://zh.wikipedia.org/wiki/自上而下 "wikilink")[分析器](https://zh.wikipedia.org/wiki/分析器 "wikilink")。因为它从**左**（**Left**）到右处理输入，再对[句型执行](https://zh.wikipedia.org/wiki/句型 "wikilink")[**最左推导**出语法树](https://zh.wikipedia.org/wiki/上下文无关文法#推导与语法树 "wikilink")（**Left** derivation，相对于[LR分析器](https://zh.wikipedia.org/wiki/LR分析器 "wikilink")）。能以此方法分析的文法称为**LL 文法**。
 
 本文中将讨论表格驱动的分析器，而非通常由手工打造（非绝对，参看如[ANTLR](../Page/ANTLR.md "wikilink")等的 LL(\*) 递归下降分析器生成器）的[递归下降分析器](https://zh.wikipedia.org/wiki/递归下降分析器 "wikilink")。

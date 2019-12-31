@@ -1,3 +1,6 @@
+> 本文内容由[Mac Pro](https://zh.wikipedia.org/wiki/Mac Pro)转换而来。
+
+
 **Mac Pro**是[蘋果公司推出的高階桌上型電腦系列產品](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，搭載[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") [CPU以及](https://zh.wikipedia.org/wiki/CPU "wikilink")[PCI Express匯流排架構](../Page/PCI_Express.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[7-Zip](https://zh.wikipedia.org/wiki/7-Zip)转换而来。
+
+
 **7-Zip**是一個[开放源码的](https://zh.wikipedia.org/wiki/开放源码 "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")程式，主要用在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，[Unix-like的作業系統如](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[Linux](../Page/Linux.md "wikilink")與[FreeBSD](../Page/FreeBSD.md "wikilink")下面有7-zip的移植版本[p7zip可以使用](https://zh.wikipedia.org/wiki/#p7zip "wikilink")。它提供[命令行接口的程序或](https://zh.wikipedia.org/wiki/命令行 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")的程序，而且可以與[檔案總管](../Page/檔案總管.md "wikilink")結合。7-Zip是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，由[伊戈尔·帕夫洛夫於](https://zh.wikipedia.org/wiki/伊戈尔·帕夫洛夫 "wikilink")1999年\[1\]開始發展，並把主体在[GNU LGPL下發佈](https://zh.wikipedia.org/wiki/LGPL "wikilink")；加密部份，使用[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）的程式碼，使用[BSD许可证](../Page/BSD许可证.md "wikilink")發佈；解压[RAR](../Page/RAR.md "wikilink")部分，使用RAR特定的许可协议。
 
 7-Zip目前在市場上主要的競爭對手是[WinZip](../Page/WinZip.md "wikilink")以及[WinRAR](../Page/WinRAR.md "wikilink")，這兩者都是[專有軟體](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")。7-Zip也是目前最普及的[開放原始碼壓縮程式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。

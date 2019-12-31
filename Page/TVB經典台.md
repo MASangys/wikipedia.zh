@@ -1,3 +1,6 @@
+> 本文内容由[TVB經典台](https://zh.wikipedia.org/wiki/TVB經典台)转换而来。
+
+
 **經典-{台}-**（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下一條以播放經典節目為主的頻道，該頻道主要以播放[香港無綫電視所製播的經典](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")[電視劇為主](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 歷史與發展

@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(TP\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TP\))转换而来。
+
+
   - TP [自动化技术](../Page/自动化技术.md "wikilink")、[计算机技术](https://zh.wikipedia.org/wiki/计算机技术 "wikilink")
 
 :\*TP1 自动化基础理论

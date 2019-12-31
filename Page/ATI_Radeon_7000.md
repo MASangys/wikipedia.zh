@@ -1,3 +1,6 @@
+> 本文内容由[ATI Radeon 7000](https://zh.wikipedia.org/wiki/ATI Radeon 7000)转换而来。
+
+
 **ATI Radeon 7000系列**顯示卡，顯示核心代號**Radeon R100**，由[ATI研發並在](https://zh.wikipedia.org/wiki/ATI "wikilink")2000年中旬正式发布。當時桌面图形卡市場只剩下ATI和[NVIDIA两家公司](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，NVIDIA發佈[GeForce 256和](https://zh.wikipedia.org/wiki/GeForce_256 "wikilink")[GeForce 2](https://zh.wikipedia.org/wiki/GeForce_2 "wikilink")。面對著nVidia的攻勢，ATI发布Radeon R100显示核心，首款採用此核心的是Radeon 256顯示卡。Radeon R100首次支援DirectX 7。它支援T\&L，硬件几何变形，光照效果，和图象剪切。它亦首次使用DDR作為顯存。這些功能使Radeon在性能上可与GeForce 2一决高下。ATI Radeon 7000系列显卡是ATI最成功的一款显卡之一，而現今ATI显卡繼續使用Radeon這个名字。
 
 ## Charisma Engine

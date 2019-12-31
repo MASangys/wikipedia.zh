@@ -1,3 +1,6 @@
+> 本文内容由[StG44突击步枪](https://zh.wikipedia.org/wiki/StG44突击步枪)转换而来。
+
+
 **StG44突击步枪**（，定型投产时名為**MP43**），是现代步兵史上划时代的成就之一。它是第一支使用了短药筒的[中间型威力枪弹](../Page/中间型威力枪弹.md "wikilink")并大规模装备以及真正意義上的[突擊步枪](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")。\[1\]
 
 ## 設計及歷史

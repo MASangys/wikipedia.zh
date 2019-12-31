@@ -1,3 +1,6 @@
+> 本文内容由[2ch文字人物](https://zh.wikipedia.org/wiki/2ch文字人物)转换而来。
+
+
 [二頻道](https://zh.wikipedia.org/wiki/二頻道 "wikilink")（[2ch](https://zh.wikipedia.org/wiki/2ch "wikilink")）的發帖系統，以文字為主。（相比之下，後來出現的「[雙葉頻道](../Page/雙葉頻道.md "wikilink")」──則以貼圖為主。）很多人在回應，甚至發起罵戰的時候，會用不同的辦法以達至具諷刺的效果，當中有人發明用文字和符號砌成的人物，加上對話框，借口說話。這種做法算是引申自[ASCII藝術](https://zh.wikipedia.org/wiki/ASCII藝術 "wikilink")，而基於[Shift JIS藝術](https://zh.wikipedia.org/wiki/Shift_JIS藝術 "wikilink")（），故此現有的人物暫被統稱為二頻道AA（[ASCII Art](../Page/ASCII艺术.md "wikilink")）人物。（不過有人認為因為這些二頻道原創的人物不是由[ASCII](../Page/ASCII.md "wikilink")編碼，而是日文[Shift JIS編碼以成](../Page/Shift_JIS.md "wikilink")，故此應該改名，特別因為當中兩種編碼都具有國家名稱，分別為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")（**A**SCII）和[日本](../Page/日本.md "wikilink")（**J**IS）。）
 
 ## 人物

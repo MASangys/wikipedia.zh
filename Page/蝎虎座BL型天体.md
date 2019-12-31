@@ -1,3 +1,6 @@
+> 本文内容由[蝎虎座BL型天体](https://zh.wikipedia.org/wiki/蝎虎座BL型天体)转换而来。
+
+
 [fig1553.jpg](https://zh.wikipedia.org/wiki/File:fig1553.jpg "fig:fig1553.jpg") [H0323bl2.gif](https://zh.wikipedia.org/wiki/File:H0323bl2.gif "fig:H0323bl2.gif")的[新技術望遠鏡](../Page/新技術望遠鏡.md "wikilink")上使用R濾波器成像的蝎虎座BL型天體H 0323+022（z=0.147）影像。可以看見宿主星系和非常靠近的夥伴。\]\]
 
 **蝎虎座BL型天體**是一種[活躍星系核](https://zh.wikipedia.org/wiki/活躍星系核 "wikilink")（AGN）或具有這種核心的星系，並以最早發現的[蝎虎座BL](../Page/蝎虎座BL.md "wikilink")為原型來命名。與其它類型的活躍星系核比較，此型具有快速和大振幅通量變化和顯著的光學極化\[1\]。由於這種特性，此類的原型，蝎虎座BL最初被認為是[變星](../Page/變星.md "wikilink")。與更明亮的活躍星系核（[類星體](https://zh.wikipedia.org/wiki/類星體 "wikilink")）比較，蝎虎座BL型天體在整個電磁波範圍內具有相對無特徵的非熱發射連續體的光譜\[2\]。這種缺乏光譜線的特徵，在歷史上阻礙了對其性質的識別，並明確地造成測量距離的障礙 \[3\]。

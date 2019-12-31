@@ -1,3 +1,6 @@
+> 本文内容由[電車GO!系列](https://zh.wikipedia.org/wiki/電車GO!系列)转换而来。
+
+
 為电子遊戲公司[TAITO所製作的列車營運與駕駛遊戲系列](https://zh.wikipedia.org/wiki/TAITO "wikilink")，1996年於街機發表首個作品。
 
 ## 介紹

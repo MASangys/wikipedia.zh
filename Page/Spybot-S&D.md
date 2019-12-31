@@ -1,3 +1,6 @@
+> 本文内容由[Spybot-S\&D](https://zh.wikipedia.org/wiki/Spybot-S\&D)转换而来。
+
+
 是一款[反間諜軟件](https://zh.wikipedia.org/wiki/反間諜軟件 "wikilink")。
 
 ## 簡介

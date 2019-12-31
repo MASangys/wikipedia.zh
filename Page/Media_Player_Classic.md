@@ -1,3 +1,6 @@
+> 本文内容由[Media Player Classic](https://zh.wikipedia.org/wiki/Media Player Classic)转换而来。
+
+
 **Media Player Classic**是一個簡潔的[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。Media Player Classic含有與[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink") 6.4幾乎相同的介面。然而，這是與Windows Media Player 6.4完全不同的應用程式，它含有其它近代的播放器相似的功能及選項。
 
 Media Player Classic是由名為"Gabest"的程式員建立，現時他仍然有維護這個程式。Gabest原先是以不公開原始碼的方式開發Media Player Classic，但後來他開放了Media Player Classic的[原始碼](../Page/开放源代码.md "wikilink")。現時Media Player Classic是基於[GPL下發佈](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")，另外，在[SourceForge](../Page/SourceForge.md "wikilink")亦開發了名為*Guliverkli*的專案。

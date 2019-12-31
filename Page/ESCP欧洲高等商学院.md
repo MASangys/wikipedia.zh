@@ -1,3 +1,6 @@
+> 本文内容由[ESCP欧洲高等商学院](https://zh.wikipedia.org/wiki/ESCP欧洲高等商学院)转换而来。
+
+
 **ESCP欧洲高等商学院**（****，****），简称**ESCP Europe**或**ESCP**，是[欧洲](../Page/欧洲.md "wikilink")的一所[商学院](../Page/商学院.md "wikilink")，现隶属于巴黎工商会（CCIP），有[柏林](../Page/柏林.md "wikilink")、[伦敦](../Page/伦敦.md "wikilink")、[马德里](../Page/马德里.md "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[都灵](../Page/都灵.md "wikilink")和[华沙](../Page/华沙.md "wikilink")等校区。其前身ESCP商学院1819年成立于巴黎，是世界上最早成立的商学院。1999年原ESCP商学院与原EAP欧洲管理学院合并后，一度称为ESCP-EAP欧洲管理学院（），后于2009年4月改为现名。
 
 ESCP是法国顶尖的[大学校之一](../Page/大学校_\(法国\).md "wikilink")，通常排名第二或第三，与[巴黎HEC商学院](../Page/巴黎高等商業研究學院.md "wikilink")，[ESSEC商学院并称为](../Page/高等经济商业学院.md "wikilink")“巴黎三大高商”（）\[1\]。ESCP被认可为欧洲顶级商学院，根据[金融时报排名](../Page/金融時報.md "wikilink")，2016年排名欧洲第十二\[2\]，其中，主要项目[管理学硕士](../Page/管理硕士.md "wikilink")2017年排名世界第六\[3\]，[高级工商管理硕士](../Page/工商管理碩士.md "wikilink")2017年排名世界第十\[4\]，金融硕士2017年排名世界第四\[5\]。ESCP同时获得了[商学院三重认证](../Page/商学院三重认证.md "wikilink")\[6\]\[7\]\[8\]。

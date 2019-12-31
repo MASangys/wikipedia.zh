@@ -1,3 +1,6 @@
+> 本文内容由[EC編號](https://zh.wikipedia.org/wiki/EC編號)转换而来。
+
+
 **EC編號**或**EC號**是為[酶](../Page/酶.md "wikilink")所製作的一套[編號分類法](https://zh.wikipedia.org/wiki/編號 "wikilink")，是以每種酶所[催化](../Page/催化.md "wikilink")的[化學反應為分類基礎](https://zh.wikipedia.org/wiki/化學反應 "wikilink")\[1\]。這套分類法亦同時會為各種酶給予一個建議的名稱，所以亦稱為**酶學委員會命名法**。
 
 ## 历史

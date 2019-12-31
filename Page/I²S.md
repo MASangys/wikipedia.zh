@@ -1,3 +1,6 @@
+> 本文内容由[I²S](https://zh.wikipedia.org/wiki/I²S)转换而来。
+
+
 **I²S**或**I2S**（或）是IC間傳輸數位音訊資料的一種介面標準，採用序列的方式傳輸2組（左右聲道）資料。I2S常被使用在傳送[CD](../Page/CD.md "wikilink")的[PCM音訊資料到CD播放器的](https://zh.wikipedia.org/wiki/PCM "wikilink")[DAC中](../Page/數位類比轉換器.md "wikilink")。由於I2S將資料訊號和時脈訊號分開傳送，它的[抖动](../Page/抖动.md "wikilink")（）失真十分地小。
 
 ## I2S歷史

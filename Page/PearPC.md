@@ -1,3 +1,6 @@
+> 本文内容由[PearPC](https://zh.wikipedia.org/wiki/PearPC)转换而来。
+
+
 **PearPC**是一个在[PC](../Page/PC.md "wikilink")平台上独立模拟[PowerPC](../Page/PowerPC.md "wikilink")中[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Apple Darwin及](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")[Linux](../Page/Linux.md "wikilink")软体，它遵循[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")，可以运行于基于[X86](../Page/X86.md "wikilink")平台上的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")，以及Intel架構的[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。\[1\]它的第一官方版本于2004年5月10日释出。\[2\]
 
 PearPC拥有一个可以动态转换PPC代码到x86代码并进行高速缓存的「[运行时编译执行](../Page/即時編譯.md "wikilink")」（[JIT](https://zh.wikipedia.org/wiki/JIT "wikilink")，Just-In-Time）技術处理器模拟核心。尽管只涉及x86主机体系机构，JIT模拟核心至少比体系结构独立的普通处理器模拟内核快十倍，这是完成可用的实时模拟的关键。\[3\]

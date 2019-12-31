@@ -1,3 +1,6 @@
+> 本文内容由[喉音R](https://zh.wikipedia.org/wiki/喉音R)转换而来。
+
+
 **喉音R**（Guttural R、[法语](../Page/法语.md "wikilink")R）指在[语音学](../Page/语音学.md "wikilink")中，将[音位](../Page/音位.md "wikilink")[R](../Page/R.md "wikilink")作为喉辅音发出。这些辅音中常见的是**[小舌音](../Page/小舌音.md "wikilink")R**，另外还有**[软腭音](../Page/软腭音.md "wikilink")R**、**[咽音](../Page/咽音.md "wikilink")R**或**[声门音R](../Page/聲門音.md "wikilink")**。有一些语言的使用者将[齿龈颤音](../Page/齿龈颤音.md "wikilink")/r/和[小舌颤音](https://zh.wikipedia.org/wiki/小舌颤音 "wikilink")/ʀ/作为同一个音位的等价音素。然而，值得注意的是，这两种音的发音方法十分不同。
 
 ## 喉音R语言

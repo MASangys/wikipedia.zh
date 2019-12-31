@@ -1,3 +1,6 @@
+> 本文内容由[Vuze](https://zh.wikipedia.org/wiki/Vuze)转换而来。
+
+
 **Vuze**（舊名**Azureus**）是一個用[Java](../Page/Java.md "wikilink")編寫的[BitTorrent用戶端](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，且支援[I2P](../Page/I2P.md "wikilink")和[Tor](../Page/Tor.md "wikilink")匿名[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。它現在支援的作業系統有[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")。這個程式的徽標是藍色的[藍箭毒蛙](https://zh.wikipedia.org/wiki/藍箭毒蛙 "wikilink")（Azureus）。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[LVMH](https://zh.wikipedia.org/wiki/LVMH)转换而来。
+
+
 **酩悅·軒尼詩－路易·威登集團**（），又称**路威酩轩集团**（****），是當今世界最大的跨國[奢侈品](../Page/奢侈品.md "wikilink")[綜合企業](https://zh.wikipedia.org/wiki/綜合企業 "wikilink")，雄踞在《財富》雜誌[世界500強公司排行榜上](https://zh.wikipedia.org/wiki/世界500強 "wikilink")，總部位於[巴黎](../Page/巴黎.md "wikilink")。該公司是1987年[時裝品牌](../Page/時尚設計.md "wikilink")[路易威登](../Page/路易威登.md "wikilink")與酩悅軒尼詩（Moët Hennessy）合併而成立，而酩悅軒尼詩則是在1971年由[香檳酒製造商](https://zh.wikipedia.org/wiki/香檳酒 "wikilink")[酩悅和](../Page/酩悅香檳.md "wikilink")[干邑白蘭地](../Page/干邑白蘭地.md "wikilink")製造商[軒尼詩](../Page/軒尼詩_\(白蘭地\).md "wikilink")[併購](../Page/併購.md "wikilink")而成。\[1\]\[2\]\[3\]該集團控制著大約60個[子公司](../Page/子公司.md "wikilink")，每個子公司負責管理少量具有高度聲望的品牌。這些子公司通常以獨立管理方式運作。
 
 奢侈品集團[克里斯汀·迪奧是LVMH的主要](../Page/克里斯汀·迪奧_\(品牌\).md "wikilink")[控股公司](../Page/控股公司.md "wikilink")，擁有其41％的股份和56.8％的投票權\[4\]。[貝爾納·阿爾諾](../Page/贝尔纳·阿尔诺.md "wikilink")，迪奧的大股東，是這兩家公司的[主席](../Page/主席.md "wikilink")和LVMH的[CEO](../Page/首席执行官.md "wikilink")。\[5\]

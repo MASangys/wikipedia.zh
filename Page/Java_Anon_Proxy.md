@@ -1,3 +1,6 @@
+> 本文内容由[Java Anon Proxy](https://zh.wikipedia.org/wiki/Java Anon Proxy)转换而来。
+
+
 **Java Anon Proxy**[縮寫](../Page/縮寫.md "wikilink")**JAP**，旨在协助[匿名](../Page/匿名.md "wikilink")使用[互联网](../Page/互联网.md "wikilink")，主页上的口号是“匿名&隐私 - 匿名无罪”。通过将连接逐级加密，来隐藏原始连接。JAP是开源免费软件，采用[Java](../Page/Java.md "wikilink")制作所以自然跨平台，能自动寻找服务器。
 
 最初是德国[德累斯顿工业大学](../Page/德累斯顿工业大学.md "wikilink")、[雷根斯堡大学以及](https://zh.wikipedia.org/wiki/雷根斯堡大学 "wikilink")[石勒苏益格-荷尔斯泰因州隐私委员会的研究项目](https://zh.wikipedia.org/wiki/石勒苏益格-荷尔斯泰因州 "wikilink")，现在仍然主要在德国开发。

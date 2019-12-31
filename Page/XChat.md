@@ -1,3 +1,6 @@
+> 本文内容由[XChat](https://zh.wikipedia.org/wiki/XChat)转换而来。
+
+
 **XChat**原本是為Unix-like系統所開發的[IRC](../Page/IRC.md "wikilink")通訊協定軟體。由俄國人（Zed）從1998年開發至2010年8月29日釋放2.8.9後再無活動。XChat使用[GTK+開發](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，是跨平台的應用程式，運行在[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、到[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac的](https://zh.wikipedia.org/wiki/Mac "wikilink")[OSX](https://zh.wikipedia.org/wiki/OSX "wikilink")。作者使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")授權將軟體[原始碼釋出](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，這意謂這X-Chat是[自由軟體的一員](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 ## 特性

@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 2](https://zh.wikipedia.org/wiki/NVIDIA GeForce 2)转换而来。
+
+
 **GeForce 2**（核心代號為**NV15**），是由[NVIDIA設計的第二代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2000年4月26日推出\[1\]。其後推出了首款應用於[筆記型電腦](../Page/筆記型電腦.md "wikilink")的顯示核心GeForce 2 Go系列\[2\]。
 
 ## 產品介紹

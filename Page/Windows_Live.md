@@ -1,3 +1,6 @@
+> 本文内容由[Windows Live](https://zh.wikipedia.org/wiki/Windows Live)转换而来。
+
+
 [Mslivelogo.png](https://zh.wikipedia.org/wiki/File:Mslivelogo.png "fig:Mslivelogo.png")
 
 **Windows Live**是[微軟推出的包含一系列線上應用服務的套裝](https://zh.wikipedia.org/wiki/微軟 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，也是[Windows的網絡延伸](https://zh.wikipedia.org/wiki/Windows "wikilink")。這些服務透過[網路瀏覽器的介面來提供像](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")[Microsoft Office這一類的服務](../Page/Microsoft_Office.md "wikilink")。2005年11月1日，這套產品開始[Beta版本的測試](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")，並已經完成对大部分語言的開發。

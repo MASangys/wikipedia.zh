@@ -1,3 +1,6 @@
+> 本文内容由[NeXTSTEP](https://zh.wikipedia.org/wiki/NeXTSTEP)转换而来。
+
+
 **NeXTSTEP**（又写作**NeXTstep**、**NeXTStep**、**NEXTSTEP**\[1\])是由[NeXT](../Page/NeXT.md "wikilink").Inc所開發的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。NeXT是已故[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[乔布斯在](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")1985年離開[蘋果電腦後所創立的公司](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")。
 
 這套系統是以[Mach](../Page/Mach.md "wikilink")和[BSD](../Page/BSD.md "wikilink")為基礎，以[Objective-C](../Page/Objective-C.md "wikilink")作為原生語言，具有很先進的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")。1.0版推出時間是在1989年9月18日。剛開始NEXTSTEP只能在NeXT電腦的[Motorola 68000上執行](https://zh.wikipedia.org/wiki/Motorola_68000 "wikilink")，1992年推出PC版的NEXTSTEP 486。3.1版和3.2版分別在1993年的5月及10月推出，但是終究失敗。最後版本3.3在1995年釋出，平台也已經不限於[Motorola 68000家族](https://zh.wikipedia.org/wiki/Motorola_68000 "wikilink")，亦可在[IBM](../Page/IBM.md "wikilink") PC [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、Sun [SPARC](../Page/SPARC.md "wikilink")及HP [PA-RISC等平台上運行](https://zh.wikipedia.org/wiki/PA-RISC "wikilink")。後來[蘋果電腦在](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1997年2月將NeXT買下，成為[Mac OS X的基礎](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。

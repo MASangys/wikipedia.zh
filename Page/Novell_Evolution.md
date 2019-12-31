@@ -1,3 +1,6 @@
+> 本文内容由[Novell Evolution](https://zh.wikipedia.org/wiki/Novell Evolution)转换而来。
+
+
 **Evolution**或**Novell Evolution**（在[Novell](../Page/Novell.md "wikilink")於2003年收購[Ximian前稱為](https://zh.wikipedia.org/wiki/Ximian "wikilink")**Ximian Evolution**）是[GNOME](../Page/GNOME.md "wikilink")官方的個人資訊管理員，亦是工作群組資訊管理工具。它集合[電郵](https://zh.wikipedia.org/wiki/電郵 "wikilink")、[行事曆](https://zh.wikipedia.org/wiki/行事曆 "wikilink")、[地址簿與](https://zh.wikipedia.org/wiki/地址簿 "wikilink")[工作排程等功能於一身](https://zh.wikipedia.org/wiki/工作排程 "wikilink")。自[GNOME](../Page/GNOME.md "wikilink")2.8以後，它是[GNOME](../Page/GNOME.md "wikilink")的官方套件。現在Evolution的開發由Novell所贊助。
 
 它的用戶介面及功能非常類似於[Microsoft Outlook](../Page/Microsoft_Outlook.md "wikilink")。但它亦有一些獨特的特色，例如：對於所接收的郵件有全面的文字索引，以及一個「虛擬資料夾」功能。

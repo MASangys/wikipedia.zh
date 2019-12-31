@@ -1,3 +1,6 @@
+> 本文内容由[WinRAR](https://zh.wikipedia.org/wiki/WinRAR)转换而来。
+
+
 **WinRAR**是一款用于管理[压缩包文件的](https://zh.wikipedia.org/wiki/压缩软件比较 "wikilink")[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。其[算法](../Page/算法.md "wikilink")由作者研发，享有原创[专利](../Page/专利.md "wikilink")。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[OCaml](https://zh.wikipedia.org/wiki/OCaml)转换而来。
+
+
 **OCaml**，最早稱為**Objective Caml**，是[Caml编程语言的主要实现](https://zh.wikipedia.org/wiki/Caml "wikilink")，由[Xavier Leroy](https://zh.wikipedia.org/wiki/Xavier_Leroy "wikilink")，[Jérôme Vouillon](https://zh.wikipedia.org/wiki/Jérôme_Vouillon "wikilink")，[Damien Doligez](https://zh.wikipedia.org/wiki/Damien_Doligez "wikilink")，[Didier Rémy及其他人于](https://zh.wikipedia.org/wiki/Didier_Rémy "wikilink")1996年创立。OCaml是[开放原始码项目](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。此项目的管理和大部分维护工作交由[INRIA](https://zh.wikipedia.org/wiki/INRIA "wikilink")。
 
 ## 参见

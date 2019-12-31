@@ -1,3 +1,6 @@
+> 本文内容由[X射線管](https://zh.wikipedia.org/wiki/X射線管)转换而来。
+
+
 [Roentgen-Roehre.svg](https://zh.wikipedia.org/wiki/File:Roentgen-Roehre.svg "fig:Roentgen-Roehre.svg")，W<sub>in</sub>/W<sub>out</sub>=冷却水的出／入口\]\]
 
 **X射线管**是能够发生[X射线](../Page/X射线.md "wikilink")的一个设备或设备的部件。

@@ -1,3 +1,6 @@
+> 本文内容由[QR碼](https://zh.wikipedia.org/wiki/QR碼)转换而来。
+
+
 [QRcode_image.svg](https://zh.wikipedia.org/wiki/File:QRcode_image.svg "fig:QRcode_image.svg") **QR圖碼**（全稱為**快速響應矩陣圖碼**；）是[二維條碼的一種](https://zh.wikipedia.org/wiki/二維條碼 "wikilink")，於1994年由[日本](../Page/日本.md "wikilink")[DENSO WAVE公司](../Page/電裝.md "wikilink")[發明](https://zh.wikipedia.org/wiki/發明 "wikilink")。QR來自英文的縮寫，即快速反應，因為發明者希望QR碼可以快速解碼其內容\[1\]。QR碼使用四種標準化編碼模式（數字、字母數字、字節（二進制）和日文([Shift_JIS](../Page/Shift_JIS.md "wikilink"))）來存儲數據。QR碼常見於[日本](../Page/日本.md "wikilink")，為目前日本最通用的二維空間條碼，在世界各國廣泛運用於[手機讀碼操作](https://zh.wikipedia.org/wiki/手機 "wikilink")\[2\]。QR碼比普通[一維條碼具有快速讀取和更大的儲存資料容量](https://zh.wikipedia.org/wiki/一維條碼 "wikilink")，也無需要像一維條碼般在掃描時需要直線對準掃描器。因此其應用範圍已經擴展到包括產品跟踪，物品識別，文檔管理，庫存營銷等方面。
 
 ## 格式

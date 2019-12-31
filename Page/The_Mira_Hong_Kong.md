@@ -1,3 +1,6 @@
+> 本文内容由[The Mira Hong Kong](https://zh.wikipedia.org/wiki/The Mira Hong Kong)转换而来。
+
+
 [Hotel_Miramar_Hong_Kong.JPG](https://zh.wikipedia.org/wiki/File:Hotel_Miramar_Hong_Kong.JPG "fig:Hotel_Miramar_Hong_Kong.JPG") [The_Mira_Hong_Kong_Enterance_2010.jpg](https://zh.wikipedia.org/wiki/File:The_Mira_Hong_Kong_Enterance_2010.jpg "fig:The_Mira_Hong_Kong_Enterance_2010.jpg") [The_Mira_Hong_Kong_Hotel_Lobby.jpg](https://zh.wikipedia.org/wiki/File:The_Mira_Hong_Kong_Hotel_Lobby.jpg "fig:The_Mira_Hong_Kong_Hotel_Lobby.jpg")
 
 **The Mira Hong Kong**，舊稱**美麗華酒店**（ 及 ），位處於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")118至130號，為[香港](../Page/香港.md "wikilink")的一間[酒店](../Page/酒店.md "wikilink")，1957年開幕，共提供492間客房，包括56間套房及8間特色套房。建築師為[朱彬](https://zh.wikipedia.org/wiki/朱彬_\(香港人\) "wikilink")。酒店由[美麗華酒店企業](../Page/美麗華酒店企業.md "wikilink")管理。美麗華酒店鄰近[港鐵](../Page/港鐵.md "wikilink")[荃灣綫](../Page/荃灣綫.md "wikilink")[尖沙咀站](../Page/尖沙咀站.md "wikilink")、[西鐵綫](../Page/西鐵綫.md "wikilink")[尖東站](../Page/尖東站.md "wikilink")及[中港碼頭](https://zh.wikipedia.org/wiki/中港碼頭 "wikilink")，往來[港鐵](../Page/港鐵.md "wikilink")[東鐵綫](../Page/東鐵綫.md "wikilink")／[西鐵綫](../Page/西鐵綫.md "wikilink")[紅磡站](../Page/紅磡站.md "wikilink")只需要15分鐘。酒店曾經有一座舊翼，於1988年拆卸，於1996年至1997年重建成今日的[美麗華商場](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")\[1\]。

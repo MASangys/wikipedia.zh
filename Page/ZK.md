@@ -1,3 +1,6 @@
+> 本文内容由[ZK](https://zh.wikipedia.org/wiki/ZK)转换而来。
+
+
 **ZK**是一套以[AJAX](../Page/AJAX.md "wikilink")／[XUL](../Page/XUL.md "wikilink")／[Java](../Page/Java.md "wikilink")为基础的网页应用程序开发框架，用于丰富网页应用程序的使用界面。最大的好处是，在设计[AJAX](../Page/AJAX.md "wikilink")网络应用程序时，轻松简便的操作就像在设计桌面程序一样。ZK包含了一个以AJAX为基础、[事件驱动](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")（event-driven）、高互动性的引擎，同时还提供了多样丰富、可重复使用的XUL与[HTML](../Page/HTML.md "wikilink")组件，以及以[XML](../Page/XML.md "wikilink")为基础的使用介面设计语言ZK User-interfaces Markup Language（ZUML）。
 
 ZK提供超过120个XUL组件及80个[XHTML](../Page/XHTML.md "wikilink")组件。举凡listbox, slider, audio, slider, tree, combobox, tabbox, auto-completion等均有支援。ZK亦提供CKeditor和[Google Maps的组件](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")，让使用者直接以Java控制，无须使用[JavaScript](../Page/JavaScript.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[豐田Wish](https://zh.wikipedia.org/wiki/豐田Wish)转换而来。
+
+
 **豐田Wish**（日語：）是[豐田汽車旗下的一款](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，於2002年上市，分別在[日本](../Page/日本.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[香港](../Page/香港.md "wikilink")等地區販售。
 
 ## 概要

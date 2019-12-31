@@ -1,3 +1,6 @@
+> 本文内容由[MacBook](https://zh.wikipedia.org/wiki/MacBook)转换而来。
+
+
 {{ otheruses | MacBook (Retina显示屏) }}
 
 **MacBook**是[苹果电脑所开发推出的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[笔记型](../Page/筆記型電腦.md "wikilink")[麥金塔電腦](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")（Macintosh）。它最早于2006年5月推出，用以取代[iBook G4以及系列](https://zh.wikipedia.org/wiki/iBook "wikilink")12英寸[PowerBook](../Page/PowerBook.md "wikilink")系列笔记本电脑。MacBook是[MacBook 家族的一部分](https://zh.wikipedia.org/wiki/MacBook系列 "wikilink")，其主要面向教育与消费者市场。

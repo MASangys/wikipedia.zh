@@ -1,3 +1,6 @@
+> 本文内容由[O記實錄](https://zh.wikipedia.org/wiki/O記實錄)转换而来。
+
+
 《**O記實錄**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共22集，監製[戚其義](../Page/戚其義.md "wikilink")，此劇為《O記實錄》系列第1輯。
 
 監製[戚其義](../Page/戚其義.md "wikilink")的名字曾出現於此劇中：

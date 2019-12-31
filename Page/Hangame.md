@@ -1,3 +1,6 @@
+> 本文内容由[Hangame](https://zh.wikipedia.org/wiki/Hangame)转换而来。
+
+
 **Hangame**（、），為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NHN股份公司於](https://zh.wikipedia.org/wiki/NHN "wikilink")1998年在韓國開始營運、2000年透過NHN Japan開始在[日本](../Page/日本.md "wikilink")營運的[網絡遊戲](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")[社群網站](https://zh.wikipedia.org/wiki/社區 "wikilink")。Hangame的**han**（、）在[韓語中為](https://zh.wikipedia.org/wiki/韓語 "wikilink")「一」的意思，而Hangame本身就是「真的只有一個遊戲？」的意思。目前在韓國的會員有約2500萬人、日本的有約1700萬人，因此也確立為世界上最大型的網絡遊戲社群網站。
 
 ## 概要

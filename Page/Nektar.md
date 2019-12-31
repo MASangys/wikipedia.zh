@@ -1,3 +1,6 @@
+> 本文内容由[Nektar](https://zh.wikipedia.org/wiki/Nektar)转换而来。
+
+
 **Nektar**是1970年代成軍於德國的英國[前衛搖滾](../Page/前衛搖滾.md "wikilink")樂團。
 
 [Nektar-rtf.jpg](https://zh.wikipedia.org/wiki/File:Nektar-rtf.jpg "fig:Nektar-rtf.jpg") [070921-Nektar-01.jpg](https://zh.wikipedia.org/wiki/File:070921-Nektar-01.jpg "fig:070921-Nektar-01.jpg")

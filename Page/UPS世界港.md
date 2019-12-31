@@ -1,3 +1,6 @@
+> 本文内容由[UPS世界港](https://zh.wikipedia.org/wiki/UPS世界港)转换而来。
+
+
 [Ups_worldport.jpg](https://zh.wikipedia.org/wiki/File:Ups_worldport.jpg "fig:Ups_worldport.jpg")
 
 **UPS世界港**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Worldport**）是[联合包裹服务公司位于](https://zh.wikipedia.org/wiki/联合包裹服务公司 "wikilink")[美国](../Page/美国.md "wikilink")[肯塔基州](../Page/肯塔基州.md "wikilink")[路易維爾國際機場的](https://zh.wikipedia.org/wiki/路易維爾國際機場 "wikilink")[航空](../Page/航空.md "wikilink")[物流](../Page/物流.md "wikilink")中转中心，也是UPS机队的航空基地。

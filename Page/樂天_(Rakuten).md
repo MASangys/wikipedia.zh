@@ -1,3 +1,6 @@
+> 本文内容由[樂天 \(Rakuten\)](https://zh.wikipedia.org/wiki/樂天 \(Rakuten\))转换而来。
+
+
 **樂天株式會社**（，），是[三木谷浩史](../Page/三木谷浩史.md "wikilink")于1997年2月7日創辦的一家经营互联网服务的公司。旗下企业包括：日本[電商平台](https://zh.wikipedia.org/wiki/電商 "wikilink")「樂天市場」、[门户网站](../Page/门户网站.md "wikilink")「Infoseek」等[網站](../Page/網站.md "wikilink")。
 
 ## 历史

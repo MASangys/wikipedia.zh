@@ -1,3 +1,6 @@
+> 本文内容由[Monkey\'s Audio](https://zh.wikipedia.org/wiki/Monkey\'s Audio)转换而来。
+
+
 **Monkey's Audio**，是一种常见的无损音訊压缩编码格式，[副檔名为](https://zh.wikipedia.org/wiki/副檔名 "wikilink").ape。与有损音訊压缩（如[MP3](../Page/MP3.md "wikilink")、[Ogg Vorbis或者](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")[AAC等](https://zh.wikipedia.org/wiki/AAC "wikilink")）不同的是，Monkey's Audio压缩时不会丢失数据。一个压缩为Monkey's Audio的音訊文件听起来与原文件完全一样。Monkey's Audio文件的播放列表使用.apl。
 
 Monkey's Audio亦可指压缩／解压缩**Monkey's Audio**文件的软件。因其主界面上有个[猴子图样而得名](https://zh.wikipedia.org/wiki/猴子 "wikilink")。Monkey's Audio是压缩[ape格式的重要工具](https://zh.wikipedia.org/wiki/ape "wikilink")；也可以对ape文件进行解压缩。安装该软件时可以选择是否向[winamp添加插件](https://zh.wikipedia.org/wiki/winamp "wikilink")，使得winamp也可以播放ape文件。通常与Monkey's Audio配合使用的软件有[Exact Audio Copy](../Page/Exact_Audio_Copy.md "wikilink")（EAC）、[foobar2000等](https://zh.wikipedia.org/wiki/foobar2000 "wikilink")。

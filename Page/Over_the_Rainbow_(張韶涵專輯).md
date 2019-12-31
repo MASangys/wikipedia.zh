@@ -1,3 +1,6 @@
+> 本文内容由[Over the Rainbow \(張韶涵專輯\)](https://zh.wikipedia.org/wiki/Over the Rainbow \(張韶涵專輯\))转换而来。
+
+
 《**Over The Rainbow**》為[台灣藝人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[張韶涵](../Page/張韶涵.md "wikilink")發行的第一張錄音室專輯。
 
 本張專輯的起名原由，是因為孩提時代張韶涵的母親喜歡唱的一首歌《Over The Rainbow》。專輯中的《遺失的美好》曾創下50萬人手機音樂下載第一名的記錄。 \[1\]

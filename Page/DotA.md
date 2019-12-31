@@ -1,3 +1,6 @@
+> 本文内容由[DotA](https://zh.wikipedia.org/wiki/DotA)转换而来。
+
+
 \[1\]，通常簡稱**DotA**，中文也译**刀塔**，是以《[魔兽争霸III](../Page/魔兽争霸III：混乱之治.md "wikilink")》资料片《[魔兽争霸III：冰封王座](https://zh.wikipedia.org/wiki/魔兽争霸III：冰封王座 "wikilink")》为基础制作的一系列[角色扮演（RPG）类型自定义地图](../Page/電子角色扮演遊戲.md "wikilink")。
 
 第一张DotA地图《RoC DOTA》是由作者Eul创作的源自[星际争霸的一个RPG对战地图](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")，但之后该地图停止了更新。在此之后，有其他作者继续更新DotA地图并将其移植到了《魔兽争霸》，其中各自添加了不同的游戏元素。随后有人制作了包含各个DotA版本的英雄的地图：（简称），如今的DotA一般指Defense of the Ancients: Allstars。现在DotA Allstars是最流行的DotA类地图\[2\]\[3\]，也是世界上最流行的魔兽[RPG地图](../Page/電子角色扮演遊戲.md "wikilink")\[4\]。DotA Allstars是一个重视对抗的[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")\[5\]。游戏目标是在队友的合作下，按照一定的顺序摧毁对方的基地\[6\]；或是有一方全部退出游戏。游戏中也有由[人工智能](../Page/人工智能.md "wikilink")所控制的单位\[7\]。

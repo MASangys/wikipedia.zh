@@ -1,3 +1,6 @@
+> 本文内容由[Gajim](https://zh.wikipedia.org/wiki/Gajim)转换而来。
+
+
 **Gajim** 是一套採用[Jabber通訊協定的](https://zh.wikipedia.org/wiki/Jabber "wikilink")[自由的即時通訊軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，採用[GTK](../Page/GTK.md "wikilink")+套件編寫而成。它支持[Linux](../Page/Linux.md "wikilink")，[BSD](../Page/BSD.md "wikilink")及[Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 使用

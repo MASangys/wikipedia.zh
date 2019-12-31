@@ -1,3 +1,6 @@
+> 本文内容由[Super Audio CD](https://zh.wikipedia.org/wiki/Super Audio CD)转换而来。
+
+
 **Super Audio CD**（**SACD**）是由[Sony及](https://zh.wikipedia.org/wiki/Sony "wikilink")[飛利浦](../Page/飛利浦.md "wikilink")兩家公司所訂定的音源[儲存媒體](https://zh.wikipedia.org/wiki/儲存媒體 "wikilink")，於1999年創立。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Diskeeper](https://zh.wikipedia.org/wiki/Diskeeper)转换而来。
+
+
 **Diskeeper**，一般縮寫為**DK**，是一個[Microsoft Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")[重組軟件](https://zh.wikipedia.org/wiki/重組軟件 "wikilink")。為1981年6月22日於加州格蘭岱爾市創立的Diskeeper Corporation(原為*Executive Software*)的旗艦產品。
 
 [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Windows XP同捆的](../Page/Windows_XP.md "wikilink")[重組軟件是Diskeeper的一個縮減的早期版本](https://zh.wikipedia.org/wiki/重組軟件 "wikilink")。

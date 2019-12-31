@@ -1,3 +1,6 @@
+> 本文内容由[北大未名BBS](https://zh.wikipedia.org/wiki/北大未名BBS)转换而来。
+
+
 **北大未名BBS**，简称**北大未名**、**未名**或**BDWM**，域名为 bbs.pku.edu.cn 和 bdwm.net，2000年5月4日正式对外开放，目前主要为[北京大学](../Page/北京大学.md "wikilink")校内网络提供互联网[电子公告牌服务](https://zh.wikipedia.org/wiki/电子公告牌 "wikilink")。原名**PKU BBS**，后曾改名**北大BBS**，2000年7月7日正式定名**北大未名BBS**。
 
 ## 发展简史

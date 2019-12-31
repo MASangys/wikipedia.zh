@@ -1,3 +1,6 @@
+> 本文内容由[ZGMF-X20A Strike Freedom](https://zh.wikipedia.org/wiki/ZGMF-X20A Strike Freedom)转换而来。
+
+
 **ZGMF-X20A Strike Freedom 攻擊自由鋼彈**為日本機械科幻動畫作品[機動戰士鋼彈SEED DESTINY虛構的有人式人型機器兵器](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")（[MS](https://zh.wikipedia.org/wiki/MS "wikilink")），前作[機動戰士鋼彈 SEED主人翁](https://zh.wikipedia.org/wiki/機動戰士鋼彈_SEED "wikilink")[煌·大和於故事後半搭乘之座機](https://zh.wikipedia.org/wiki/煌·大和 "wikilink")。機體名「Strike Freedom」分別為英語的「攻擊」與「自由」，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。
 
 [Zgmf-X20a.jpg](https://zh.wikipedia.org/wiki/File:Zgmf-X20a.jpg "fig:Zgmf-X20a.jpg")

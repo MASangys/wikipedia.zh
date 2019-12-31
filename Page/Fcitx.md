@@ -1,3 +1,6 @@
+> 本文内容由[Fcitx](https://zh.wikipedia.org/wiki/Fcitx)转换而来。
+
+
 **Fcitx**（\[1\]，源自“**Free Chinese Input Tool for X**”，又作“**Flexible Context-aware Input Tool with eXtension**\[2\]”或“**Flexible Input Method Framework**”\[3\]，暂无正式英文全称\[4\]，中文名称为“**小企鹅输入法**”）是在[X Window中使用的输入法框架](https://zh.wikipedia.org/wiki/X_Window "wikilink")，在源码包内包含了[拼音](https://zh.wikipedia.org/wiki/拼音 "wikilink")、[五笔字型以及](https://zh.wikipedia.org/wiki/五笔字型 "wikilink")[区位](https://zh.wikipedia.org/wiki/区位 "wikilink")、[二笔的支持](https://zh.wikipedia.org/wiki/二笔 "wikilink")。可以输入[UTF-8](../Page/UTF-8.md "wikilink")编码中的文字。可以在[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")中运行。采用[GPL授权](https://zh.wikipedia.org/wiki/GPL "wikilink")。支持[XIM](https://zh.wikipedia.org/wiki/XIM "wikilink")、[GTK](../Page/GTK.md "wikilink")（版本2和3）和[Qt](../Page/Qt.md "wikilink")的输入法模块。
 
 因云帆论坛有人批评Fcitx[代码](../Page/代码.md "wikilink")写的很差，原作者于2007年7月10日决定终止本项目。\[5\] 不过，2008年9月开始，作者离开后又加入爱好者建立的Google Code项目并频繁更新，他发文谈到无法忘记fcitx。\[6\]

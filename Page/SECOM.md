@@ -1,3 +1,6 @@
+> 本文内容由[SECOM](https://zh.wikipedia.org/wiki/SECOM)转换而来。
+
+
 **SECOM株式會社**（[中文譯為](https://zh.wikipedia.org/wiki/中文 "wikilink")：**西科姆**，）成立於1962年，是[日本](../Page/日本.md "wikilink")第一家[保全公司](https://zh.wikipedia.org/wiki/保全公司 "wikilink")，現為日本最大的保全公司，同時也是[全球布局的保全集團](https://zh.wikipedia.org/wiki/全球 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[惡搞RFC](https://zh.wikipedia.org/wiki/惡搞RFC)转换而来。
+
+
 **惡搞RFC**是[互聯網國際標準機構的](https://zh.wikipedia.org/wiki/互联网工程工作小组 "wikilink")[RFC](../Page/RFC.md "wikilink")協定裡的一批純屬搞笑的創作，通常都在[愚人節發表](https://zh.wikipedia.org/wiki/愚人節 "wikilink")。這個傳統自1989年開始，而且每年的愚人節都會有至少一個搞笑的RFC推出。這些文件都依照1973年6月發表的RFC 527（代號**ARPAWOCKY**）標準制定。亦有其他搞笑的RFC文件在愚人節以外的時間發表。這些惡搞類的RFC文件都在下面的列表中詳列。
 
 ## 惡搞RFC列表

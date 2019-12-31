@@ -1,3 +1,6 @@
+> 本文内容由[中國商飛ARJ21](https://zh.wikipedia.org/wiki/中國商飛ARJ21)转换而来。
+
+
 [ARJ21.SVG](https://zh.wikipedia.org/wiki/File:ARJ21.SVG "fig:ARJ21.SVG")
 
 **中國商飛ARJ21**，科研代號****（全寫為“Advanced Regional Jet”，即“21世纪新一代支线飞机”），是由[中国商用飞机有限责任公司研制的新型](https://zh.wikipedia.org/wiki/中国商用飞机有限责任公司 "wikilink")[涡扇](https://zh.wikipedia.org/wiki/涡扇 "wikilink")[支线飞机](../Page/支线飞机.md "wikilink")，亦为[中国第一次完全自主设计并組裝制造的支线飞机](https://zh.wikipedia.org/wiki/中国 "wikilink")。“翔鳳”一名通过公开征集而得\[1\] \[2\]。

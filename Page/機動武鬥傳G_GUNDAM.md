@@ -1,3 +1,6 @@
+> 本文内容由[機動武鬥傳G GUNDAM](https://zh.wikipedia.org/wiki/機動武鬥傳G GUNDAM)转换而来。
+
+
 《**機動武鬥傳G鋼彈**》是[日昇動畫](../Page/日昇動畫.md "wikilink")在1994年製作的[GUNDAM](../Page/GUNDAM.md "wikilink")系列[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，放映時間從西元1994年（平成6年）4月1日到1995年（平成7年）3月31日止，共49話。日本[朝日電視台](../Page/朝日電視台.md "wikilink")每週五播映。
 
 與後來的《[新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")》、《[機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")》常被並稱為「[平成三部曲](https://zh.wikipedia.org/wiki/平成三部曲 "wikilink")」。

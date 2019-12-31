@@ -1,3 +1,6 @@
+> 本文内容由[Wifly](https://zh.wikipedia.org/wiki/Wifly)转换而来。
+
+
 [Wifly-logo.gif](https://zh.wikipedia.org/wiki/File:Wifly-logo.gif "fig:Wifly-logo.gif") **Wifly**是由[安源資訊公司建置](https://zh.wikipedia.org/wiki/安源資訊 "wikilink")，於[台北市大部份區域及連鎖餐廳提供的付費式](https://zh.wikipedia.org/wiki/台北市 "wikilink")[無線網路服務](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。其服務是採用[802.11系列標準之](https://zh.wikipedia.org/wiki/802.11 "wikilink")[無線區域網路](https://zh.wikipedia.org/wiki/無線區域網路 "wikilink")（Wireless Local Area Network / Wireless LAN; WLAN）。目前總共在台北市佈建4000顆[AP](https://zh.wikipedia.org/wiki/AP "wikilink")（無線接取器），人口覆蓋率達90％，區域覆蓋率也有48％。[Wifly](../Page/Wifly.md "wikilink")服務已於[民國107年](https://zh.wikipedia.org/wiki/民國107年 "wikilink")([2018年](../Page/2018年.md "wikilink"))[3月31日](../Page/3月31日.md "wikilink")終止服務。\[1\]
 
 ## 佈建範圍

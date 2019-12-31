@@ -1,3 +1,6 @@
+> 本文内容由[P波](https://zh.wikipedia.org/wiki/P波)转换而来。
+
+
 **P波**（）是在地震发生时最先被地震仪记录下来的地震体波。穿越[地球](../Page/地球.md "wikilink")內部的波（例如，地震波）被稱為[體波](https://zh.wikipedia.org/wiki/體波 "wikilink")。相對於體波的是[表面波](https://zh.wikipedia.org/wiki/表面波 "wikilink")。体波可以分为P波和[S波](../Page/S波.md "wikilink")。P波意指（primary wave）或是[壓力波](https://zh.wikipedia.org/wiki/壓力 "wikilink")（pressure wave）。在所有[地震波](../Page/地震波.md "wikilink")中，P波傳遞速度最快。因此發生地震時，P波最早抵達測站，並被[地震儀](../Page/地震儀.md "wikilink")紀錄下來，這也是P波名稱的由來。P波的P也能代表[壓力](https://zh.wikipedia.org/wiki/壓力 "wikilink")（pressure），來自於其震動傳遞類似[聲波](https://zh.wikipedia.org/wiki/聲波 "wikilink")，屬於[縱波的一種](https://zh.wikipedia.org/wiki/縱波 "wikilink")（或[疏密波](https://zh.wikipedia.org/wiki/疏密波 "wikilink")），傳遞時介質的震動方向與震波能量的傳播方向[平行](../Page/平行.md "wikilink")。
 
 [Earthquake_wave_shadow_zone.png](https://zh.wikipedia.org/wiki/File:Earthquake_wave_shadow_zone.png "fig:Earthquake_wave_shadow_zone.png")）\]\]

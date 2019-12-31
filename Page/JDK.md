@@ -1,3 +1,6 @@
+> 本文内容由[JDK](https://zh.wikipedia.org/wiki/JDK)转换而来。
+
+
 **Java Development Kit**（**JDK**）是[昇陽電腦](../Page/昇陽電腦.md "wikilink")针对[Java](../Page/Java.md "wikilink")开发人员发布的免费[软件开发工具包](../Page/软件开发工具包.md "wikilink")（SDK，Software development kit）。自从Java推出以来，JDK已经成为使用最广泛的Java SDK。由于JDK的一部分特性采用商业许可证，而非开源\[1\]。因此，2006年昇陽電腦宣布将发布基于[GPL的开源JDK](https://zh.wikipedia.org/wiki/GPL "wikilink")，使JDK成为[自由软件](../Page/自由软件.md "wikilink")。在去掉了少量闭源特性之后，昇陽電腦最终促成了[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")[OpenJDK](../Page/OpenJDK.md "wikilink")的发布。
 
 ## 用途

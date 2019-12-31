@@ -1,3 +1,6 @@
+> 本文内容由[日產Skyline](https://zh.wikipedia.org/wiki/日產Skyline)转换而来。
+
+
 日產Skyline是[日產汽車](../Page/日產汽車.md "wikilink")生產的一系列汽車。
 
 ## 歷史

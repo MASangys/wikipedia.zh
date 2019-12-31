@@ -1,3 +1,6 @@
+> 本文内容由[Gmail Drive](https://zh.wikipedia.org/wiki/Gmail Drive)转换而来。
+
+
 [GMailDriveScreenCapture.png](https://zh.wikipedia.org/wiki/File:GMailDriveScreenCapture.png "fig:GMailDriveScreenCapture.png")
 
 **GMail Drive**是過往一個附加於[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows檔案總管的免費介殼](https://zh.wikipedia.org/wiki/Windows "wikilink") (Shell) [Namespace擴展程式](../Page/命名空间.md "wikilink")，使用它可以在[工作站](../Page/工作站.md "wikilink")（[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")）上建立一個新的[網路分享空間](https://zh.wikipedia.org/wiki/網路 "wikilink")。你需要一個[Gmail](../Page/Gmail.md "wikilink")賬戶才能使用這個擴展程式。這個擴展程式可以讓使用者利用Windows中的檔案「複製」和「貼上」命令以在你的電腦和Gmail賬戶間傳送檔案，就像Gmail帳戶空間是一個在你的區域網路中的一個[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，又名[網上硬碟](https://zh.wikipedia.org/wiki/網上硬碟 "wikilink")。

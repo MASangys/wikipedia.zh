@@ -1,3 +1,6 @@
+> 本文内容由[KdV方程](https://zh.wikipedia.org/wiki/KdV方程)转换而来。
+
+
 **KdV方程**是1895年由荷兰数学家和共同发现的一种[偏微分方程](../Page/偏微分方程.md "wikilink")（也有人称之为**科特韦格-德弗里斯方程**，但一般都习惯直接叫KdV方程）。关于实自变量*x* 和*t* 的[函数](../Page/函数.md "wikilink")φ所满足的KdV方程形式如下：
 
 \[\partial_t\phi-6\phi\partial_x\phi+\partial^3_x\phi=0\]

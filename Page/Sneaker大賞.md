@@ -1,3 +1,6 @@
+> 本文内容由[Sneaker大賞](https://zh.wikipedia.org/wiki/Sneaker大賞)转换而来。
+
+
 **Sneaker大賞**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是由[角川書店](../Page/角川書店.md "wikilink")主辦，針對[新人](https://zh.wikipedia.org/wiki/新人 "wikilink")、以[輕小說](../Page/輕小說.md "wikilink")為主的[文學獎](../Page/文學獎.md "wikilink")。該獎每年發表一次，是以委員以合議的方式決定。最早在1996年成立，已經舉辦了十五屆，其中大賞只頒發過五次。
 
 ## 評審委員

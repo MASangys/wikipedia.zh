@@ -1,3 +1,6 @@
+> 本文内容由[PEACH-PIT](https://zh.wikipedia.org/wiki/PEACH-PIT)转换而来。
+
+
 [Comic_Exhibition_Peach-Pit_signature_20130819.jpg](https://zh.wikipedia.org/wiki/File:Comic_Exhibition_Peach-Pit_signature_20130819.jpg "fig:Comic_Exhibition_Peach-Pit_signature_20130819.jpg")的PEACH-PIT簽名\]\] **PEACH-PIT**是一对[日本](../Page/日本.md "wikilink")女性[漫画家拍档](https://zh.wikipedia.org/wiki/漫画家 "wikilink")\[1\]。這個筆名，據本人說是「桃種」的意思，實際上就是桃子的果核。出身[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")。生日是6月7日（）、6月21日（），都是双子座。千道是B型，江原則是A型。
 
 ## 簡歷

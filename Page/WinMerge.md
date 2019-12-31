@@ -1,3 +1,6 @@
+> 本文内容由[WinMerge](https://zh.wikipedia.org/wiki/WinMerge)转换而来。
+
+
 **WinMerge**是一款运行于Windows系统下的免费的文件比较／合并工具。它非常适用于确定不同版本的文件间的改变以及合并这些改变，尤其是在有多人编辑同一文件的情况下。
 
 ## 特性

@@ -1,3 +1,6 @@
+> 本文内容由[JavaOS](https://zh.wikipedia.org/wiki/JavaOS)转换而来。
+
+
 **JavaOS**（也稱：**Java作業系統**、**爪哇作業系統**）是一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，是以[Java Virtual Machine](https://zh.wikipedia.org/wiki/JVM "wikilink")（簡稱：[JVM](https://zh.wikipedia.org/wiki/JVM "wikilink")，也稱：[爪哇虛擬機器](https://zh.wikipedia.org/wiki/JVM "wikilink")）與一些基礎軟體組件所構成，由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所開發。Java作業系統如同[UNIX](../Page/UNIX.md "wikilink")作業系統或[類UNIX作業系統一樣](https://zh.wikipedia.org/wiki/类_Unix "wikilink")，UNIX作業系統、[類UNIX作業系統的主要本體皆是用](https://zh.wikipedia.org/wiki/类_Unix "wikilink")[C語言所開發撰寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")，而Java作業系統的主要本體則是用[Java](../Page/Java.md "wikilink")程式語言所撰寫成。
 
 ## 微核心

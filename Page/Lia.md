@@ -1,3 +1,6 @@
+> 本文内容由[Lia](https://zh.wikipedia.org/wiki/Lia)转换而来。
+
+
 **Lia**（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[唱作歌手](https://zh.wikipedia.org/wiki/唱作歌手 "wikilink")，1st Place所屬。為[IA -ARIA ON THE PLANETES-的聲源](https://zh.wikipedia.org/wiki/IA_-ARIA_ON_THE_PLANETES- "wikilink")。擁有治癒系的歌聲，其歌唱力亦極受肯定，並參加**[I've](../Page/I've.md "wikilink")**。她亦在[快樂硬核](../Page/快樂硬核.md "wikilink")的領域中活躍（以大寫「**LIA**」為名義），現居香港\[1\]。
 
 ## 作品列表

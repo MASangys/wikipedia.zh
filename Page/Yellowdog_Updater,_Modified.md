@@ -1,3 +1,6 @@
+> 本文内容由[Yellowdog Updater, Modified](https://zh.wikipedia.org/wiki/Yellowdog Updater, Modified)转换而来。
+
+
 [PackageKit_on_Fedora.png](https://zh.wikipedia.org/wiki/File:PackageKit_on_Fedora.png "fig:PackageKit_on_Fedora.png")目前是Fedora默认的包管理器前端\]\] **Yum**（**Yellow dog Updater, Modified**）是由[Duke University團隊修改](https://zh.wikipedia.org/wiki/Duke_University "wikilink")[Yellow Dog Linux的](../Page/Yellow_Dog_Linux.md "wikilink")[Yellow Dog Updater開發而成](https://zh.wikipedia.org/wiki/Yellow_Dog_Updater "wikilink")，是一个基于[RPM包管理的字符前端软件包管理器](https://zh.wikipedia.org/wiki/RPM "wikilink")。能够从指定的服务器自动下载RPM包并且安装，可以处理依赖性关系，并且一次安装所有依赖的软件包，无须繁琐地一次次下载、安装。被[Yellow Dog Linux本身](../Page/Yellow_Dog_Linux.md "wikilink")，以及[Fedora](../Page/Fedora.md "wikilink")、[Red Hat Enterprise Linux採用](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。
 
 ## 软件包来源

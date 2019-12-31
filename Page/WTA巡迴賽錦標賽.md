@@ -1,3 +1,6 @@
+> 本文内容由[WTA巡迴賽錦標賽](https://zh.wikipedia.org/wiki/WTA巡迴賽錦標賽)转换而来。
+
+
 **WTA巡迴賽錦標賽**（*The WTA Tour Championships*），又被称作**WTA年终总决赛**，是[国际女子网联在每年末定期举办的一项国际顶尖女子网球赛事](https://zh.wikipedia.org/wiki/国际女子网联 "wikilink")。其参赛者都是每年WTA巡回赛中成绩前列的选手。
 
 首届WTA巡迴賽錦標賽在1972年[美国](../Page/美国.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")的[博卡拉顿举行](https://zh.wikipedia.org/wiki/博卡拉顿 "wikilink")。在1972年到1986年期间，该项赛事都在每年三月举行。此后由于WTA决定将每年赛季改为1月至11月，因此总决赛也被改在每年的年末举行。因此，1986年的3月和11月举办了两次WTA总决赛。1979年至2000年期间，这项赛事一直都在美国[纽约](../Page/纽约.md "wikilink")的[麦迪逊广场花园](../Page/麦迪逊广场花园.md "wikilink")举行。此后，赛事的主办地点迁至[德国](../Page/德国.md "wikilink")，最近這項比賽以三年一輪於世界各地比賽，2014-2016在[新加坡](../Page/新加坡.md "wikilink")，2019-2029在[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")。\[1\]

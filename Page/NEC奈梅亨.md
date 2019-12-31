@@ -1,3 +1,6 @@
+> 本文内容由[NEC奈梅亨](https://zh.wikipedia.org/wiki/NEC奈梅亨)转换而来。
+
+
 **NEC奈梅亨**（**NEC Nijmegen**）是一間[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")，成立於1900年11月15日，位于荷兰东部城市[奈梅亨](../Page/奈梅亨.md "wikilink")。
 
 球會的主場位於[德古福特體育場](https://zh.wikipedia.org/wiki/德古福特體育場 "wikilink")，有 12,500 個座位。球會自己最引以為榮的地方，在於球會自艱難的環境下出身，和來自工人階層的創立人是在城市的街上開始接觸足球的。球會本來是叫''，意思是團結荷蘭。球會的表現不錯，在1903年，和真正的奈梅亨合併後，確認了他們在聯賽的位置。球會名字中的NCE可解作奈梅亨和的合併（''）。

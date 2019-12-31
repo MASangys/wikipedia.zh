@@ -1,3 +1,6 @@
+> 本文内容由[AXN](https://zh.wikipedia.org/wiki/AXN)转换而来。
+
+
 **AXN**是[索尼影業擁有的電視網](https://zh.wikipedia.org/wiki/索尼影業 "wikilink")，於1997年9月21日在[日本](../Page/日本.md "wikilink")[Sky PerfecTV\!平台啟播](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")，AXN至今已於全世界不同的地區播放。AXN 24小時播放電視劇、電影、動畫、真實歷險和體育節目。
 
 AXN亞洲區經營者為索尼影業旗下的SPE Networks亞洲有限公司（簡稱SPENA），[台灣區經營者為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「美商超躍有限公司台灣分公司」。 AXN台灣頻道的前身，為[超級電視台於](https://zh.wikipedia.org/wiki/超級電視台 "wikilink")1996年12月開播的「超視二台」。 1997年，隨著索尼影業與超級電視台以互相投資的方式合作，超視二台先挪出夜間固定時段作為熱身時段《極度動感AXN》（後改名《AXN動感特區》），後轉型為AXN台灣頻道。1999年1月，[緯來企業取得AXN台灣獨家代理權](https://zh.wikipedia.org/wiki/緯來企業 "wikilink")。 2004年1月1日，[ANIMAX台灣頻道開播](../Page/Animax_Asia.md "wikilink")，AXN台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出。 2017年12月20日，台灣地區啟用高畫質版本「AXN 台灣頻道 HD」，2018年1月4日起，陸續在各有線電視系統商播出。

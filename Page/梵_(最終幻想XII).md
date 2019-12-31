@@ -1,3 +1,6 @@
+> 本文内容由[梵 \(最終幻想XII\)](https://zh.wikipedia.org/wiki/梵 \(最終幻想XII\))转换而来。
+
+
 是一位登場於[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想XII](https://zh.wikipedia.org/wiki/最終幻想XII "wikilink")》中的虛構人物，即為該作的[主人公](../Page/主人公.md "wikilink")。
 
 ## 人物

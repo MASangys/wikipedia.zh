@@ -1,3 +1,6 @@
+> 本文内容由[Rosetta](https://zh.wikipedia.org/wiki/Rosetta)转换而来。
+
+
 **Rosetta**是[苹果电脑公司发布的在](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[Mac OS X上的一个二进制编译器](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[软件](../Page/软件.md "wikilink")。它可以让在[Power PC平台上开发的软件在](https://zh.wikipedia.org/wiki/Power_PC "wikilink")[英特尔](../Page/英特尔.md "wikilink")平台的[麦金塔电脑上顺利运行](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")。它基于Transitive公司的QuickTransit技术，也是麦金塔电脑从PowerPC向英特尔转换的一个重要部分，确保原先的[Mac OS X程序能在新的英特尔平台上运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。虽然和英特尔原生编译的软件比较起来会有速度上的差别，但是对大多数对[CPU资源使用不是很多的软件来说](https://zh.wikipedia.org/wiki/CPU "wikilink")，速度上的差别是非常小的。
 
 这个软件的名字起源于[羅塞塔石碑](../Page/羅塞塔石碑.md "wikilink")（Rosetta Stone）。在考古学上，它的发现成为破译古埃及象形文字的关键。苹果利用这名字来形容编译器的重要性。

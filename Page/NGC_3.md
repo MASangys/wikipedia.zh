@@ -1,3 +1,6 @@
+> 本文内容由[NGC 3](https://zh.wikipedia.org/wiki/NGC 3)转换而来。
+
+
 **NGC 3**，是[雙魚座的一個](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")[透镜状星系](https://zh.wikipedia.org/wiki/透镜状星系 "wikilink")。它位於[赤經為](https://zh.wikipedia.org/wiki/赤經 "wikilink")7分33秒，[赤緯為](https://zh.wikipedia.org/wiki/赤緯 "wikilink")8°20′03″。 [紅位移約](https://zh.wikipedia.org/wiki/紅位移 "wikilink") 3900[km](../Page/公里.md "wikilink")／s
 
 ## 参见

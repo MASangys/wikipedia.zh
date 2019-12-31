@@ -1,3 +1,6 @@
+> 本文内容由[DNA連接酶](https://zh.wikipedia.org/wiki/DNA連接酶)转换而来。
+
+
 **DNA連接酶**（），也称**DNA黏合酶**，在[分子生物學中扮演一個既特殊又關鍵的角色](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")，那就是把兩條DNA黏合成一條。無論是雙股或是單股DNA的[黏合](https://zh.wikipedia.org/wiki/黏合 "wikilink")，DNA連接酶都可以藉由形成[磷酸雙脂鍵將DNA在](https://zh.wikipedia.org/wiki/磷酸雙脂鍵 "wikilink")[3'端的尾端與](https://zh.wikipedia.org/wiki/3'端 "wikilink")[5'端的前端連在一起](https://zh.wikipedia.org/wiki/5'端 "wikilink")。雖然在細胞內也有其他的[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")，例如像是[DNA聚合酶](../Page/DNA聚合酶.md "wikilink")在其中一股DNA為模板的情況下，將另一邊的DNA單股斷裂端，透過[聚合反應的過程形成](https://zh.wikipedia.org/wiki/聚合反應 "wikilink")[磷酸雙脂鍵來黏合DNA](https://zh.wikipedia.org/wiki/磷酸雙脂鍵 "wikilink")。但是[DNA聚合酶](../Page/DNA聚合酶.md "wikilink")的黏合過程卻只是[聚合反應一個附帶的功能而已](https://zh.wikipedia.org/wiki/聚合反應 "wikilink")，真正在細胞內扮演DNA黏合反應的工作還是以DNA連接酶為主。
 
 顧名思義，DNA連接酶的功能便是在黏合斷裂的DNA，而細胞內只有[DNA複製與](https://zh.wikipedia.org/wiki/DNA複製 "wikilink")[DNA修復](../Page/DNA修復.md "wikilink")的反應牽涉到DNA斷裂的合成，因此DNA連接酶就是在上述的兩個機制扮演重要的角色。除了細胞內的黏合反應，隨著[分子生物學的進展](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")，幾乎大多數的分子生物實驗室都會利用DNA連接酶來進行[重組DNA](../Page/重組DNA.md "wikilink")的實驗，或許這也可以被規類為其另一著重要的功能。

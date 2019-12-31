@@ -1,3 +1,6 @@
+> 本文内容由[School Days](https://zh.wikipedia.org/wiki/School Days)转换而来。
+
+
 《**School Days**》（）是2005年4月28日由[Overflow發售的](https://zh.wikipedia.org/wiki/Overflow "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。2010年10月8日發售重製版《**SCHOOL DAYS HQ**》，新增加劇本、解析度和背景改為3D呈現。後來的發售《[Summer Days](../Page/Summer_Days.md "wikilink")》、《[Cross Days](../Page/Cross_Days.md "wikilink")》、《[Island Days](../Page/Island_Days.md "wikilink")》為外傳性質故事。電視動畫版在日本於2007年7月3日開始放映\[1\]。2008年1月17日由GungHo Works代理發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《**School Days L×H**》\[2\]（Love and Hate），初回限定版同捆OVA和RADIO出張版CD。\[3\]2007年8月29日，桂言葉作為代表性人物，被收錄于出版的《黑化角色大全》中。\[4\]
 
 ## 遊戲流程

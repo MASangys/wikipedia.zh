@@ -1,3 +1,6 @@
+> 本文内容由[AIBO](https://zh.wikipedia.org/wiki/AIBO)转换而来。
+
+
 **AIBO**為[Sony所研發的電子](https://zh.wikipedia.org/wiki/Sony "wikilink")[寵物](https://zh.wikipedia.org/wiki/寵物 "wikilink")[狗](https://zh.wikipedia.org/wiki/狗 "wikilink")，常出現於一些[機器人展覽中](https://zh.wikipedia.org/wiki/機器人 "wikilink")。 [RUNSWift_AIBOS.jpg](https://zh.wikipedia.org/wiki/File:RUNSWift_AIBOS.jpg "fig:RUNSWift_AIBOS.jpg")[索尼公司開發的電子狗愛寶在踢球](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")\]\]
 
 ## 相關條目

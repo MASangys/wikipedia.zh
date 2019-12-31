@@ -1,3 +1,6 @@
+> 本文内容由[Weitek](https://zh.wikipedia.org/wiki/Weitek)转换而来。
+
+
 [Ic-photo-weitek-3172A.png](https://zh.wikipedia.org/wiki/File:Ic-photo-weitek-3172A.png "fig:Ic-photo-weitek-3172A.png")，用於[昇陽公司的](../Page/昇陽電腦.md "wikilink")[SPARC工作站](https://zh.wikipedia.org/wiki/SPARC工作站 "wikilink")（SPARCstation）內。\]\] **Weitek**公司曾是家知名的[晶片設計業者](../Page/集成电路.md "wikilink")，該公司最初專注在多種商用[微處理器](../Page/中央处理器.md "wikilink")（CPU）的[浮點運算單元](https://zh.wikipedia.org/wiki/浮点运算器 "wikilink")（FPU）設計，而在1980年初期至中期Weitek公司為[平行處理式的](../Page/并行计算.md "wikilink")[超級電腦提供多種高階運算設計](../Page/超级计算机.md "wikilink")。到了1990年初期由於多數的CPU已內建FPU，且基本上FPU功效為免費奉送，這迫使Weitek公司進行一連串的嘗試，嘗試跨進一般用途性的CPU及[GPU的市場領域](https://zh.wikipedia.org/wiki/GPU "wikilink")。此後到1995年Weitek近乎停止營運，隨後在1996年由[洛克威爾國際](https://zh.wikipedia.org/wiki/洛克威爾 "wikilink")（Rockwell International\[1\]）的半導體系統部門\[2\]所收購，並快速從市場上消失。
 
 ## 浮點協同處理器

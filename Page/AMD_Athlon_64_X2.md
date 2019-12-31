@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon 64 X2](https://zh.wikipedia.org/wiki/AMD Athlon 64 X2)转换而来。
+
+
 [Athlon_64_X2_E6_3800.jpg](https://zh.wikipedia.org/wiki/File:Athlon_64_X2_E6_3800.jpg "fig:Athlon_64_X2_E6_3800.jpg") [Athlonx2_logo.gif](https://zh.wikipedia.org/wiki/File:Athlonx2_logo.gif "fig:Athlonx2_logo.gif") [33544a-2_AthlonX2.gif](https://zh.wikipedia.org/wiki/File:33544a-2_AthlonX2.gif "fig:33544a-2_AthlonX2.gif")
 
 **Athlon 64 X2**是[AMD設計的首款桌面級雙核心](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器](../Page/中央处理器.md "wikilink")，腳位有[Socket 939](../Page/Socket_939.md "wikilink")、[AM2](../Page/Socket_AM2.md "wikilink")，於2005年5月首次推出。首批產品採用90奈米[SOI](../Page/SOI.md "wikilink")製程，其後也開始推出代號 **Brisbane** 的65奈米產品，並於2006年12月發售，全數產品均支援[SSE3](../Page/SSE3.md "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")。處理器內建兩顆[Athlon 64核心](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")，兩个核心可以透過 **System Request Queue** 互相溝通。[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Pentium D的兩個核心溝通必須透過FSB](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")，繞過北橋方能；換言之，這會增加FSB的負擔，減低系統性能。相比之下，由於**Athlon 64 X2**有專屬通道，系統性能比Pentium D高，但售價較貴。

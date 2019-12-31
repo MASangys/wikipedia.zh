@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA BR02](https://zh.wikipedia.org/wiki/NVIDIA BR02)转换而来。
+
+
 [NVIDIA_BR02_HSI_High_Speed_Interconnect.jpg](https://zh.wikipedia.org/wiki/File:NVIDIA_BR02_HSI_High_Speed_Interconnect.jpg "fig:NVIDIA_BR02_HSI_High_Speed_Interconnect.jpg")
 
 **BR02**全稱Bridge Revision 02，是[NVIDIA公司隨](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce PCX推出的接橋晶片](https://zh.wikipedia.org/wiki/GeForce_PCX "wikilink")\[1\]，其別稱為**High Speed Interconnect**（HSI），由[IBM](../Page/IBM.md "wikilink")代工。它可以將[AGP](../Page/AGP.md "wikilink")訊号轉為[PCI-E訊号](https://zh.wikipedia.org/wiki/PCI-E "wikilink")，亦可將[PCI-E訊号轉為](https://zh.wikipedia.org/wiki/PCI-E "wikilink")[AGP](../Page/AGP.md "wikilink")訊号。BR02也可与顯示核心一起封裝，以淢低成本，例如[NV45/NV48晶片即是](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")[NV40晶片與BR](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")02的整合體。

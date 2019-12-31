@@ -1,3 +1,6 @@
+> 本文内容由[Make](https://zh.wikipedia.org/wiki/Make)转换而来。
+
+
 在[软件开发中](https://zh.wikipedia.org/wiki/软件开发 "wikilink")，**make**是一个工具程式（Utility software），經由讀取叫做“[makefile](https://zh.wikipedia.org/wiki/makefile "wikilink")”的文件，[自動化建構軟體](https://zh.wikipedia.org/wiki/自動化建構 "wikilink")。它是一種转化文件形式的工具，转换的目标称为“target”；与此同时，它也检查文件的依赖关系，如果需要的话，它会调用一些外部软件来完成任务。它的依赖关系检查系统非常简单，主要根据依赖文件的修改时间进行判断。大多数情况下，它被用来[编译](https://zh.wikipedia.org/wiki/编译 "wikilink")[源代码](../Page/源代码.md "wikilink")，生成[结果代码](../Page/目标代码.md "wikilink")，然后把结果代码连接起来生成[可执行文件或者](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[库文件](https://zh.wikipedia.org/wiki/库文件 "wikilink")。它使用叫做“makefile”的文件来确定一个target文件的依赖关系，然后把生成这个target的相关命令传给shell去执行。
 
 許多現代軟體的開發中（如[Microsoft Visual Studio](../Page/Microsoft_Visual_Studio.md "wikilink")），[集成开发环境](../Page/集成开发环境.md "wikilink")已經取代make，但是在Unix環境中，仍然有許多工程師採用make來協助軟體開發。

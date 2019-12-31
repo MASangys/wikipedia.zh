@@ -1,3 +1,6 @@
+> 本文内容由[Boy\'z](https://zh.wikipedia.org/wiki/Boy\'z)转换而来。
+
+
 **Boy'z**是[英皇娛樂](../Page/英皇娛樂.md "wikilink")旗下的[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成員為[張致恆](../Page/張致恆.md "wikilink")及[關智斌](../Page/關智斌.md "wikilink")。2005年關智斌退出組合後先後增添新成員[麥子豪](../Page/麥子豪.md "wikilink")及[陳偉霆](../Page/陳偉霆.md "wikilink")，2006年時改名為**Sun Boy'z**，至2008年陳偉霆及麥子豪退出組合。2010年，張致恆及關智斌重組為**Boy'z**，組合名稱於2018年改為**BOYZ**。2018年10月，BOYZ舉行出道16年來首個正式演唱會。\[1\]
 
 ## 歷史

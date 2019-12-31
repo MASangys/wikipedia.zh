@@ -1,3 +1,6 @@
+> 本文内容由[SKI组合子演算](https://zh.wikipedia.org/wiki/SKI组合子演算)转换而来。
+
+
 **SKI组合子演算**是一个计算系统，它是对无类型版本的[Lambda演算的简约](https://zh.wikipedia.org/wiki/Lambda演算 "wikilink")。这个系统声称在Lambda演算中所有运算都可以用三个组合子**S**、**K**和**I**来表达。
 
 在这个系统中的所有[函数](../Page/函数.md "wikilink")可以只使用**S**、**K**、**I**的字母表和圆括号（分组符号）来表达。通常假定组合子是[左结合的](https://zh.wikipedia.org/wiki/结合性 "wikilink")，从而在不影响执行次序的情况下精简表达式中的圆括号。

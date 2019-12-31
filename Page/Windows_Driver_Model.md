@@ -1,3 +1,6 @@
+> 本文内容由[Windows Driver Model](https://zh.wikipedia.org/wiki/Windows Driver Model)转换而来。
+
+
 **視窗驅動程式模型**（**Windows Driver Model**，簡稱WDM），是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[視窗作業系統的](https://zh.wikipedia.org/wiki/視窗作業系統 "wikilink")[驅動程式設計架構](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")，包括對於各項裝置（Device）的支援，如鍵盤（Keyboard）、滑鼠（Mouse）、網路卡（Network Driver Interface Specification，Ndis）、通用序列匯流排（Universal Serial Bus，USB）等。WDM可支援Windows 98, Windows 98 Second Edition, Windows Me, Windows 2000, Windows XP以及Windows Server 2003在x86平台上的建制工作。這個架構分成好幾個管理層面：
 
   - 核心（Kernel）

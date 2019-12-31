@@ -1,3 +1,6 @@
+> 本文内容由[SSE3](https://zh.wikipedia.org/wiki/SSE3)转换而来。
+
+
 [PD-20060908-SSE3-01.svg](https://zh.wikipedia.org/wiki/File:PD-20060908-SSE3-01.svg "fig:PD-20060908-SSE3-01.svg")架構所用的多媒體指令集，在指令數目上的比較圖\]\]
 
 **SSE3**（Streaming SIMD Extensions 3），又稱**PNI**（Prescott New Instructions）\[1\]，它指的是：在原有架構的[處理器中](https://zh.wikipedia.org/wiki/處理器 "wikilink")，所第三次額外新增、添加的[多媒體](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")，之前的兩次分別是[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")。

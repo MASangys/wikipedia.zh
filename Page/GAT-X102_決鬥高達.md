@@ -1,3 +1,6 @@
+> 本文内容由[GAT-X102 決鬥高達](https://zh.wikipedia.org/wiki/GAT-X102 決鬥高達)转换而来。
+
+
 **GAT-X102 Duel**，**決鬥鋼彈**為日本科幻[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")[機動戰士鋼彈SEED中的人型兵器](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED "wikilink")（MS），為[伊薩克·焦耳所駕駛的機體](https://zh.wikipedia.org/wiki/伊薩克·焦耳 "wikilink")。 [Gat-x102.jpg](https://zh.wikipedia.org/wiki/File:Gat-x102.jpg "fig:Gat-x102.jpg")
 
 ## 機體介紹

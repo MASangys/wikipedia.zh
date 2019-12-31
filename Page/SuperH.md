@@ -1,3 +1,6 @@
+> 本文内容由[SuperH](https://zh.wikipedia.org/wiki/SuperH)转换而来。
+
+
 **SuperH**（或稱**SH**）是可靠[單片機與](https://zh.wikipedia.org/wiki/單片機 "wikilink")[微處理器架構的品牌名稱](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。SuperH 是以 32 位元存取的[精簡指令集架構](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，多用在[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。
 
 ## 历史

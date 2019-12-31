@@ -1,3 +1,6 @@
+> 本文内容由[ATA over Ethernet](https://zh.wikipedia.org/wiki/ATA over Ethernet)转换而来。
+
+
 [Cc25-20060903-AoE-1.png](https://zh.wikipedia.org/wiki/File:Cc25-20060903-AoE-1.png "fig:Cc25-20060903-AoE-1.png")協定（右半）的比較圖，圖中可明顯看出AoE協定的堆疊層數少於iSCSI，因此在傳輸效益表現上AoE能夠比iSCSI更具效率。\]\]
 
 **ATA over Ethernet**（簡稱：**AoE**）是由[Brantley Coile](https://zh.wikipedia.org/wiki/Brantley_Coile "wikilink")\[1\]所提創的一種[網路通訊协议](../Page/网络传输协议.md "wikilink")，此協定可以在[乙太網路上访问](../Page/以太网.md "wikilink")[ATA](../Page/ATA.md "wikilink")標準的存储裝置（多指[硬碟](../Page/硬盘.md "wikilink")\[2\]），運用此協定的好處在於能以平價且標準的技術來實現一個[儲存區域網路環境](../Page/存储区域网络.md "wikilink")。

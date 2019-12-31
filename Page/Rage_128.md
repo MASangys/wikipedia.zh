@@ -1,3 +1,6 @@
+> 本文内容由[Rage 128](https://zh.wikipedia.org/wiki/Rage 128)转换而来。
+
+
 **Rage 128**顯示卡由[ATI推出](https://zh.wikipedia.org/wiki/ATI "wikilink")，在1999年发布，是針對[Voodoo II而推出](https://zh.wikipedia.org/wiki/Voodoo_II "wikilink")。该顯示核心的扩展型号非常多。性能上，**Rage 128**并不顶尖，但各方面的性能都非常平均，尤其是比較出色的[DVD播放](https://zh.wikipedia.org/wiki/DVD "wikilink")。隨後更推出支持[VIVO和](https://zh.wikipedia.org/wiki/VIVO "wikilink")[ALL-IN-WONDER版本](https://zh.wikipedia.org/wiki/ALL-IN-WONDER "wikilink")。
 
 Rage 128支援[AGP](../Page/AGP.md "wikilink") 4X，硬體[MPEG-2](../Page/MPEG-2.md "wikilink")加速，各向异性过滤。顯核架構是128bit。作為第三代顯示卡，Rage 128的性能比[RIVA TNT和Voodoo](https://zh.wikipedia.org/wiki/RIVA_TNT "wikilink") 2高。Rage 128核心是专为32bit渲染而设计的，當對比16bit渲染時，它的32bit渲染的性能损失不到5%。而其他顯示卡方面，例如nVidia TNT和Matrox G200都會有不同程度的20%～50%的性能下降。它的强項是其2D和3D的性能。Rage 128也完善地支援OpenGL ICD，亦获得了SGI的认证。

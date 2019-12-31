@@ -1,3 +1,6 @@
+> 本文内容由[妙手仁心II](https://zh.wikipedia.org/wiki/妙手仁心II)转换而来。
+
+
 [HK_TWGHs_WongChukHangComplex.JPG](https://zh.wikipedia.org/wiki/File:HK_TWGHs_WongChukHangComplex.JPG "fig:HK_TWGHs_WongChukHangComplex.JPG")取景拍攝\]\] 《**妙手仁心II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝醫務[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[林保怡](../Page/林保怡.md "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[邵美琪](../Page/邵美琪.md "wikilink")及[陳慧珊](../Page/陳慧珊.md "wikilink")領銜主演，由[曹永廉](../Page/曹永廉.md "wikilink")、[陳潔儀](../Page/陳潔儀_\(新加坡\).md "wikilink")、[唐文龍](../Page/唐文龍.md "wikilink")及[袁彩雲聯合主演](https://zh.wikipedia.org/wiki/袁彩雲 "wikilink")，並由[馬浚偉](../Page/馬浚偉.md "wikilink")、[蔡少芬](../Page/蔡少芬.md "wikilink")及[鄧萃雯](../Page/鄧萃雯.md "wikilink")特別演出，監製為[戚其義](../Page/戚其義.md "wikilink")。此劇為《[妙手仁心](../Page/妙手仁心.md "wikilink")》系列第二輯，**33周年台慶劇**。
 
 此劇于2003年10月10日、2007年9月4日在[翡翠台](../Page/翡翠台.md "wikilink")，2014年6月在[TVB經典台](../Page/TVB經典台.md "wikilink")，2016年1月2日在[TVB星河頻道](../Page/TVB星河頻道.md "wikilink")，2017年4月15日再次在[翡翠台](../Page/翡翠台.md "wikilink")重播。

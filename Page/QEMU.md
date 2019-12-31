@@ -1,3 +1,6 @@
+> 本文内容由[QEMU](https://zh.wikipedia.org/wiki/QEMU)转换而来。
+
+
 **QEMU**（quick emulator）是一款由Fabrice Bellard等人编写的免费的可执行[硬件虚拟化](../Page/硬件虚拟化.md "wikilink")的（hardware virtualization）开源托管[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")（VMM）。
 
 其与[Bochs](../Page/Bochs.md "wikilink")，[PearPC](../Page/PearPC.md "wikilink")类似，但拥有高速（配合[KVM](https://zh.wikipedia.org/wiki/KVM "wikilink")），跨平台的特性。

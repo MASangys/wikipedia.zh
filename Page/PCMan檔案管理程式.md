@@ -1,3 +1,6 @@
+> 本文内容由[PCMan檔案管理程式](https://zh.wikipedia.org/wiki/PCMan檔案管理程式)转换而来。
+
+
 **PCMan檔案管理程式**(PCMan File Manager)是一個以輕巧快速為設計目的的[檔案管理器](https://zh.wikipedia.org/wiki/檔案管理器 "wikilink")，为[LXDE](../Page/LXDE.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")的默认[档案管理器](https://zh.wikipedia.org/wiki/档案管理器 "wikilink")。
 
 ## 特色

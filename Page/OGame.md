@@ -1,3 +1,6 @@
+> 本文内容由[OGame](https://zh.wikipedia.org/wiki/OGame)转换而来。
+
+
 《**OGame銀河帝國**》是一款使用[网页浏览器](../Page/网页浏览器.md "wikilink")進行的[战争游戏](../Page/战争游戏.md "wikilink")，德國公司於2002年10月3日在德國首次運行，目前已在27個國家發行。
 
 ## 遊戲設定

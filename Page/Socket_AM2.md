@@ -1,3 +1,6 @@
+> 本文内容由[Socket AM2](https://zh.wikipedia.org/wiki/Socket AM2)转换而来。
+
+
 ****，原稱“”，是供[AMD桌上型處理器使用的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")，用以取代[Socket 754和](../Page/Socket_754.md "wikilink")[939](../Page/Socket_939.md "wikilink")，並已於2006年5月23日推出。內含940個接腳，支援雙通道[DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")，但針腳的排列方式與[Socket 940不相同](../Page/Socket_940.md "wikilink")，又因為S940不支援DDR2 SDRAM，因此兩者並不兼容。據[AnandTech一份近期的測試報告指出](https://zh.wikipedia.org/wiki/AnandTech "wikilink")，在配備相同週邊產品的環境下，使用AM2的系統的性能比使用S939的快0-7%。
 
 首批支援AM2的處理器，計有代號Orleans的單核[Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")（3200+至3800+）、Windsor的雙核[Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")（3800+至5000+）及[Athlon 64 FX](../Page/Athlon_64_FX.md "wikilink")（FX-62），代號Santa Ana的[Opteron](../Page/Opteron.md "wikilink") 1200系列，以及代號Manila的[Sempron](https://zh.wikipedia.org/wiki/Sempron "wikilink")，全數均使用90納米製程，支援[SSE3](../Page/SSE3.md "wikilink")及虛擬化技術。而代號Brisbane的雙核Athlon 64 X2（3600+至5000+）及[Athlon X2](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")（BE-2300和BE-2350）、代號Lima的單核Athlon 64（3500+和3800+），以及代號Sparta的Sempron（LE-1150），則使用65納米製程。

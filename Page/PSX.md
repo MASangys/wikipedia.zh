@@ -1,3 +1,6 @@
+> 本文内容由[PSX](https://zh.wikipedia.org/wiki/PSX)转换而来。
+
+
 **PSX**是[索尼](../Page/索尼.md "wikilink")公司生产的一款基于[PlayStation 2的能进行数字录象](../Page/PlayStation_2.md "wikilink")、DVD录象的多功能媒体设备名称。因为它是作为一种综合影音终端而不单纯是游戏机，所以是由索尼公司本部而非子公司[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（[SCEI](https://zh.wikipedia.org/wiki/SCEI "wikilink")）负责经营（通常SCEI负责索尼游戏相关产品的经营）。PSX最早于2003年12月13日在[日本](../Page/日本.md "wikilink")上市，当时已有计划2004年将陆续在其他地区推出该产品，但因产品销量不佳而终止。
 
 PSX有容量为160GB和250GB[硬盘](../Page/硬盘.md "wikilink")的两个版本，用户可以存储[电视节目](../Page/电视节目.md "wikilink")、家庭录象、数码相片或玩PS2游戏。PSX可以与[PSP连接以传输视频或音乐](https://zh.wikipedia.org/wiki/PSP "wikilink")，并已有消息宣称PSX可以与[PS3连接](https://zh.wikipedia.org/wiki/PS3 "wikilink")，以使得单纯作为游戏设备的PS3成为一台综合影音终端。

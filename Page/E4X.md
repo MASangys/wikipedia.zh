@@ -1,3 +1,6 @@
+> 本文内容由[E4X](https://zh.wikipedia.org/wiki/E4X)转换而来。
+
+
 **ECMAScript for XML**（**E4X**）是一扩展了[ECMAScript](../Page/ECMAScript.md "wikilink")（包含[ActionScript](../Page/ActionScript.md "wikilink")、[DMDScript](https://zh.wikipedia.org/wiki/DMDScript "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[JScript](../Page/JScript.md "wikilink")等）的程式語言，它增加对 [XML](../Page/XML.md "wikilink") 的内在支持。它的目標是在訪問XML文檔时，提供一種更直观、語法更簡潔的的 [DOM](https://zh.wikipedia.org/wiki/DOM "wikilink") 接口。它也是处理XML时的一种新的方式。在 E4X 版本之前，通常总是在 Objcet（对象）层次上访问XML，而 E4X 则是把 XML 当做原始数据（[primitive](https://zh.wikipedia.org/wiki/primitive "wikilink")）来处理（比如字符、数字和布尔值）。这也意味着更快的访问速度、更好的支持、和使 XML 可以成为程序的一个组块（数据结构）。
 
 ## 示例

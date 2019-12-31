@@ -1,3 +1,6 @@
+> 本文内容由[APT](https://zh.wikipedia.org/wiki/APT)转换而来。
+
+
 **高级打包工具**（，缩写为）是[Debian](../Page/Debian.md "wikilink")及其衍生的[Linux軟體包管理器](https://zh.wikipedia.org/wiki/软件包 "wikilink")。APT可以自动下载，配置，安裝二进制或者源代码格式的[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")，因此简化了[Unix系統上管理软件的过程](https://zh.wikipedia.org/wiki/Unix "wikilink")。APT最早被設計成[dpkg的前端](https://zh.wikipedia.org/wiki/dpkg "wikilink")，用來處理[deb格式的軟件包](https://zh.wikipedia.org/wiki/deb "wikilink")。現在經過APT-RPM組織修改，APT已經可以安裝在支援[RPM的系統管理](../Page/RPM套件管理員.md "wikilink")[RPM套件](../Page/RPM套件管理員.md "wikilink")。
 
 ## 構成

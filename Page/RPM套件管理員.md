@@ -1,3 +1,6 @@
+> 本文内容由[RPM套件管理員](https://zh.wikipedia.org/wiki/RPM套件管理員)转换而来。
+
+
 **RPM套件管理員**（簡稱**RPM**，全称为**The RPM Package Manager**）是在Linux下广泛使用的[软件包管理器](https://zh.wikipedia.org/wiki/软件包管理器 "wikilink")。RPM此名詞可能是指.rpm的檔案格式的[軟體包](https://zh.wikipedia.org/wiki/軟體包 "wikilink")，也可能是指其本身的软件包管理器(RPM Package Manager)。最早由[Red Hat研制](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")，现在也由[开源社区开发](https://zh.wikipedia.org/wiki/开源社区 "wikilink")。RPM通常随附于[Linux发行版](../Page/Linux发行版.md "wikilink")，但也有单独将RPM作为[应用软件发行的发行版](https://zh.wikipedia.org/wiki/应用软件 "wikilink")（例如[Gentoo](https://zh.wikipedia.org/wiki/Gentoo "wikilink")）。RPM仅适用于安装用RPM来打包的软件，目前是[GNU/Linux下软件包资源最丰富的软件包类型之一](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。
 
 ## RPM软件包

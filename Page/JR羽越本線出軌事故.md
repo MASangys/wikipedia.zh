@@ -1,3 +1,6 @@
+> 本文内容由[JR羽越本線出軌事故](https://zh.wikipedia.org/wiki/JR羽越本線出軌事故)转换而来。
+
+
 [Inaho_express_2.jpg](https://zh.wikipedia.org/wiki/File:Inaho_express_2.jpg "fig:Inaho_express_2.jpg") [Inaho_14_derailed_in_Yamagata.png](https://zh.wikipedia.org/wiki/File:Inaho_14_derailed_in_Yamagata.png "fig:Inaho_14_derailed_in_Yamagata.png") **JR羽越本線出軌事故**（****）是一宗在2005年12月25日時，發生於[日本](../Page/日本.md "wikilink")[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[最上川](../Page/最上川.md "wikilink")的[鐵路事故](https://zh.wikipedia.org/wiki/鐵路事故 "wikilink")，一列[JR東日本](../Page/東日本旅客鐵道.md "wikilink")[羽越本線](../Page/羽越本線.md "wikilink")的[特急電車因為出軌撞擊路旁小屋](https://zh.wikipedia.org/wiki/特急電車 "wikilink")，造成5死33傷。此事故是繼[JR福知山線出軌事故](../Page/JR福知山線出軌事故.md "wikilink")後，同年內日本第二宗重大鐵路事故。\[1\]
 
 ## 事故概述

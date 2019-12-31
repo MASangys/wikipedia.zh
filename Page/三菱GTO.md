@@ -1,3 +1,6 @@
+> 本文内容由[三菱GTO](https://zh.wikipedia.org/wiki/三菱GTO)转换而来。
+
+
 [Mitsubishi_GTO_patrol_car.jpg](https://zh.wikipedia.org/wiki/File:Mitsubishi_GTO_patrol_car.jpg "fig:Mitsubishi_GTO_patrol_car.jpg")警察的GTO警車。\]\] [Mitsubishi_GTO.jpg](https://zh.wikipedia.org/wiki/File:Mitsubishi_GTO.jpg "fig:Mitsubishi_GTO.jpg") **三菱GTO**，是[日本](../Page/日本.md "wikilink")[三菱汽車生產的私家車車款](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")，1990年登場，2001年停產，屬於[三菱Starion的後繼車](https://zh.wikipedia.org/wiki/三菱Starion "wikilink")。
 
 ## 簡介

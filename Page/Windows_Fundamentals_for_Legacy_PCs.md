@@ -1,3 +1,6 @@
+> 本文内容由[Windows Fundamentals for Legacy PCs](https://zh.wikipedia.org/wiki/Windows Fundamentals for Legacy PCs)转换而来。
+
+
 **Windows Fundamentals for Legacy PCs**（WinFLP）是[微软](../Page/微软.md "wikilink")公司於2006年7月8日發表的[精簡客戶端](https://zh.wikipedia.org/wiki/精簡客戶端 "wikilink")（Thin client）版本Windows XP。它在2005年中開發時用了**Eiger**和**Mönch** 這兩個開發代號。
 
 微軟開發這個精簡客戶端的目的，主要是協助企業把舊有的電腦過渡至可執行只適用於Windows XP的新軟件，例如由[香港政府推出的](https://zh.wikipedia.org/wiki/香港政府 "wikilink")2001年版[HKSCS支援](https://zh.wikipedia.org/wiki/HKSCS "wikilink")。作為Win9x與WinXP的過渡系統，WinFLP可於比較舊的硬體上運行，但由於其核心仍然與[Windows XP](../Page/Windows_XP.md "wikilink") SP2相同，所以所有適用於Windows XP的軟體都可以在WinFLP上運行。不過，其功能只維持最基本的能力，例如[Windows 防火牆](https://zh.wikipedia.org/wiki/Windows_防火牆 "wikilink")、[群組原則](https://zh.wikipedia.org/wiki/群組原則 "wikilink")（Group Policy）、[Windows Update及其他管理功能之類](../Page/Windows_Update.md "wikilink")。一般日常使用的應用軟體，都要透過執行[遠端桌面協定](../Page/遠端桌面協定.md "wikilink")來執行安裝於伺服器的軟件。所以，其實這套作業系統只是把企業內的舊電腦變成一台以WinXP為基礎的[無碟工作站](https://zh.wikipedia.org/wiki/無碟工作站 "wikilink")。 WinFLP不會作公開發售，只是純粹為企業用戶訂購而發送。

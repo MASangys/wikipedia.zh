@@ -1,3 +1,6 @@
+> 本文内容由[LZX](https://zh.wikipedia.org/wiki/LZX)转换而来。
+
+
 **LZX**是[LZ77](../Page/LZ77与LZ78.md "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")中的一种，它也是同名的一个[归档工具](https://zh.wikipedia.org/wiki/归档工具 "wikilink")，它们都是由[Jonathan Forbes与](https://zh.wikipedia.org/wiki/Jonathan_Forbes "wikilink")[Tomi Poutanen一起开发的](https://zh.wikipedia.org/wiki/Tomi_Poutanen "wikilink")。
 
 ## 使用LZX算法的实例

@@ -1,3 +1,6 @@
+> 本文内容由[ChromeS20 Series](https://zh.wikipedia.org/wiki/ChromeS20 Series)转换而来。
+
+
 **Chrome S20系列**，是[VIA接手](https://zh.wikipedia.org/wiki/VIA "wikilink")[S3 Graphics後第四代](../Page/S3_Graphics.md "wikilink")[顯示卡產品](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，由日本[富士通](../Page/富士通.md "wikilink")代工生產，采用90[奈米制程](https://zh.wikipedia.org/wiki/奈米 "wikilink")。整个系列均只支援[DirectX](../Page/DirectX.md "wikilink") 9.0b，但不支援DirectX 9.0c。
 
 當S27使用MultiChrome模式時，效能約等於GeForce 6600 DDR2 SLi.

@@ -1,3 +1,6 @@
+> 本文内容由[FreeNAS](https://zh.wikipedia.org/wiki/FreeNAS)转换而来。
+
+
 **FreeNAS**是一套基於[FreeBSD](../Page/FreeBSD.md "wikilink")作業系統核心的[開放原始碼的](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[網路儲存設備](https://zh.wikipedia.org/wiki/網路儲存設備 "wikilink")（）[伺服器系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，支援眾多服務，使用者存取權限管理，提供網頁設定介面。FreeNAS目前版本整個系統總共需2GB以上USB驱动器进行安装，並支援[USB](../Page/USB.md "wikilink")儲存裝置、[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")、[CF卡](../Page/CompactFlash.md "wikilink")（轉接成IDE裝置）及硬碟等開機方式。目前有LiveCD、-{zh-hans:镜像; zh-hant:影像}-檔、VMware磁碟映像檔三種發行方式。
 
 原本的FreeNAS定位為**單純的網路檔案伺服器**，但在0.684版本後，由於核心開發者的心血，加上市面上小型的NAS系統功能越來越多的情況下，FreeNAS漸漸的加入了P2P、iTunes、PHP Webserver等等的功能。 从2009年之后原开发者Olivier Cochard-Labbe宣布由于作者不能拿出大量时间进行版本更新，从0.7版本以后FreeNAS将转为维护模式，不会发布新的版本。新版本开发及发布由iXsystem公司负责。新版本FreeNAS工程开始于2010年，在2011年5月2日FreeNAS 8.0成功发布。由于需要与FreeBSD版本号进行匹配，FreeNAS主版本号更新为8，紧跟FreeBSD发行。

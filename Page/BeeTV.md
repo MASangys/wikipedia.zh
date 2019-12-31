@@ -1,3 +1,6 @@
+> 本文内容由[BeeTV](https://zh.wikipedia.org/wiki/BeeTV)转换而来。
+
+
 [Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg](https://zh.wikipedia.org/wiki/File:Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg "fig:Acer_LCD_monitor_of_OmniAd_BeeTV_20070221.jpg") [ShinBus_Route254_AG568_Inside.jpg](https://zh.wikipedia.org/wiki/File:ShinBus_Route254_AG568_Inside.jpg "fig:ShinBus_Route254_AG568_Inside.jpg") **BeeTV**（2003-）為[臺北都會區](../Page/臺北都會區.md "wikilink")[公車上放映之頻道](https://zh.wikipedia.org/wiki/公車 "wikilink")， 該媒體源起於 2003 年交通部的「 市公車動態資訊系統推廣建置計畫」，為揉合戶外[媒體及傳統](https://zh.wikipedia.org/wiki/媒體 "wikilink")[電視頻道之新型態媒體](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，因後期被乘客抗議且廣告重複播放無實質效益而拆除。2012年1月以前之業主為「合和國際股份有限公司」（合和集團），2012年1月起之業主為「[台灣摩菲爾國際股份有限公司](https://zh.wikipedia.org/wiki/台灣摩菲爾國際 "wikilink")」。
 
 ## 簡介

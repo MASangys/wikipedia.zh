@@ -1,3 +1,6 @@
+> 本文内容由[BS-TBS](https://zh.wikipedia.org/wiki/BS-TBS)转换而来。
+
+
 [TBS_akasaka.jpg](https://zh.wikipedia.org/wiki/File:TBS_akasaka.jpg "fig:TBS_akasaka.jpg")
 
 **BS-TBS**是隸屬於[TBS電視的](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[衛星電視委託放送事業者](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，為[日本新聞網集團的成員](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")。

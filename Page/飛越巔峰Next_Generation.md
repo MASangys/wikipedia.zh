@@ -1,3 +1,6 @@
+> 本文内容由[飛越巔峰Next Generation](https://zh.wikipedia.org/wiki/飛越巔峰Next Generation)转换而来。
+
+
 [Gunbusterng.gif](https://zh.wikipedia.org/wiki/File:Gunbusterng.gif "fig:Gunbusterng.gif") 《**飛越巔峰Next Generation**》是延續[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")[飛越巔峰](../Page/飛越巔峰.md "wikilink")故事的一系列小說。
 
 講述Gunbuster未回到地球前地球上發生的事。相關內容也可以視為[飛越巔峰2](../Page/飛越巔峰2.md "wikilink")的前傳。

@@ -1,3 +1,6 @@
+> 本文内容由[DNA旋转酶](https://zh.wikipedia.org/wiki/DNA旋转酶)转换而来。
+
+
 **DNA旋转酶(DNA Gyrase)**，经常简称为**旋转酶**，是一种II类的[拓扑异构酶](https://zh.wikipedia.org/wiki/拓扑异构酶 "wikilink")（Type II Topoisomerase）（[EC编号](https://zh.wikipedia.org/wiki/EC编号 "wikilink")5.99.1.3），它的酶作用底物为ccc型环状DNA（Covalently Closed Circular DNA），作用是加入[负超螺旋](https://zh.wikipedia.org/wiki/负超螺旋 "wikilink")（Negative Supercoil）或松弛[正超螺旋](https://zh.wikipedia.org/wiki/正超螺旋 "wikilink")（Positive Supercoil）。旋转酶可以让DNA形成一个环状的结构（[拓扑学](../Page/拓扑学.md "wikilink")上来说是一个正超螺旋的环环状的结构），通过切开一段DNA并让另一段DNA通过形成一个负超螺旋的环状结构。在这个过程中[环绕数](../Page/环绕数.md "wikilink")（Linking Number）减少了2（从正超螺旋Lk=＋1到负超螺旋Lk=－1,ΔLk=－2）。他的主要功用為紓解解旋酶解開DNA旋轉時所造成的壓力，因為解壓縮旋轉時會造成極大的逆旋轉壓。
 
 ## 旋转酶的酶学模型

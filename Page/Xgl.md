@@ -1,3 +1,6 @@
+> 本文内容由[Xgl](https://zh.wikipedia.org/wiki/Xgl)转换而来。
+
+
 [movie-cube.jpg](https://zh.wikipedia.org/wiki/File:movie-cube.jpg "fig:movie-cube.jpg") **Xgl** 是一個[X server](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")，他藉由[OpenGL](../Page/OpenGL.md "wikilink")技術充分發揮了新一代顯示卡優異的3D立體畫面表現能力；從「架構」的角度來看，XGL透過了[glitz位在](https://zh.wikipedia.org/wiki/glitz "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")的上層。XGL利用了[聚合視窗管理器的幫助](https://zh.wikipedia.org/wiki/compositing_window_manager "wikilink")（像是[Compiz](../Page/Compiz.md "wikilink") 或 [Beryl](https://zh.wikipedia.org/wiki/Beryl_\(window_manager\) "wikilink")）對所有使用X、OpenGL和[XVideo所製作的應用和圖形效果提供了](https://zh.wikipedia.org/wiki/XVideo "wikilink")[硬體加速的支援](https://zh.wikipedia.org/wiki/硬體加速 "wikilink")，所以能表現出包含調整視窗透明度、可旋轉的3D桌面、果凍效果等等令人嘆為觀止的立體特效。這個計畫最初由[David Reveman發起](https://zh.wikipedia.org/wiki/David_Reveman "wikilink")，並在2006年1月2日的時候第一次釋出（release）。
 
 ## 历史

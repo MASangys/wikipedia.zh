@@ -1,3 +1,6 @@
+> 本文内容由[X3D](https://zh.wikipedia.org/wiki/X3D)转换而来。
+
+
 **X3D**是一种專為[萬維網而設計的三維圖像](https://zh.wikipedia.org/wiki/萬維網 "wikilink")[標記語言](https://zh.wikipedia.org/wiki/標記語言 "wikilink")。全称可扩展三维（语言），是由[Web3D联盟](http://www.web3d.org)设计的，是[VRML](../Page/VRML.md "wikilink")标准的最新的升级版本。 X3D基于XML格式開發，所以可以直接使用XML DOM文檔樹、XML Schema校驗等技術和相關的XML編輯工具。目前X3D已經是通過ISO認證的國際標準。
 
 ## X3D的特性

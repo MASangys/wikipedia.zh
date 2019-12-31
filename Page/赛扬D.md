@@ -1,3 +1,6 @@
+> 本文内容由[赛扬D](https://zh.wikipedia.org/wiki/赛扬D)转换而来。
+
+
 **Celeron D**，或者称为**赛扬D**，是属于[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[赛扬处理器家族的一系列桌面处理器](https://zh.wikipedia.org/wiki/赛扬 "wikilink")。
 
 ## 状况

@@ -1,3 +1,6 @@
+> 本文内容由[Suica](https://zh.wikipedia.org/wiki/Suica)转换而来。
+
+
 **Suica**（），中文譯為**企鵝卡**、**西瓜卡**\[1\]，是[日本](../Page/日本.md "wikilink")一種可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡），兼有[儲值車票及](https://zh.wikipedia.org/wiki/儲值車票 "wikilink")[電子錢包功能](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")，最初由[JR东日本发起](https://zh.wikipedia.org/wiki/JR东日本 "wikilink")，现在由JR东日本、[東京單軌電車以及](https://zh.wikipedia.org/wiki/東京單軌電車 "wikilink")[東京臨海高速鐵道](../Page/東京臨海高速鐵道.md "wikilink")三家铁道公司共同發行。Suica採用了[索尼](../Page/索尼.md "wikilink")的[FeliCa](../Page/FeliCa.md "wikilink")技術，至2011年3月底已發行了約3534萬張，并与[PASMO](../Page/PASMO.md "wikilink")、[Kitaca](../Page/Kitaca.md "wikilink")、[TOICA](../Page/TOICA.md "wikilink")、[ICOCA](../Page/ICOCA.md "wikilink")、[SUGOCA](../Page/SUGOCA.md "wikilink")、[manaca](https://zh.wikipedia.org/wiki/manaca "wikilink")、[PiTaPa](../Page/PiTaPa.md "wikilink")、[nimoca以及](https://zh.wikipedia.org/wiki/nimoca "wikilink")[快捷卡在乘車功能上](https://zh.wikipedia.org/wiki/快捷卡 "wikilink")。「Suica」是JR東日本的註冊商標。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[TVB全球華人新秀歌唱大賽](https://zh.wikipedia.org/wiki/TVB全球華人新秀歌唱大賽)转换而来。
+
+
 《**TVB全球華人新秀歌唱大賽**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：）最初稱為《**新秀歌唱大賽**》，由[香港](../Page/香港.md "wikilink")[無綫電視及](../Page/電視廣播有限公司.md "wikilink")[華星唱片合作舉辦](https://zh.wikipedia.org/wiki/華星唱片 "wikilink")，當時只接受香港參賽者參賽，為香港樂壇發掘出不少人才，得獎者會獲得華星唱片的歌手合約。
 
 1996年，無綫電視把華星唱片售予[南華早報集團後](https://zh.wikipedia.org/wiki/南華早報集團 "wikilink")，於1997年起自行舉辦，並將比賽改革為《**全球華人新秀歌唱大賽**》，從全球各地選拔參賽者參賽。

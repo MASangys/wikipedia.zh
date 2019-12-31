@@ -1,3 +1,6 @@
+> 本文内容由[CW复形](https://zh.wikipedia.org/wiki/CW复形)转换而来。
+
+
 **CW复形**，又称**胞腔复形**，在[拓扑学](../Page/拓扑学.md "wikilink")上屬於[拓扑空间](../Page/拓扑空间.md "wikilink")之一類，由[J.H.C.怀特海德引入](https://zh.wikipedia.org/wiki/J.H.C.怀特海德 "wikilink")，用于[同伦理论](https://zh.wikipedia.org/wiki/同伦理论 "wikilink")。其思想是构造一类空间，比[单纯复形](../Page/单纯复形.md "wikilink")更为广泛（我们现在可以说，有更好的[范畴论](../Page/范畴论.md "wikilink")属性）；但还要保留组合的本质，因此计算方面的考虑没有被忽略。
 
 ## 形式表述

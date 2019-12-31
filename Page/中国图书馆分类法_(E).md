@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(E\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(E\))转换而来。
+
+
 ## 军事
 
   - E0 [军事理论](https://zh.wikipedia.org/wiki/军事 "wikilink")

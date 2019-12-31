@@ -1,3 +1,6 @@
+> 本文内容由[Winny](https://zh.wikipedia.org/wiki/Winny)转换而来。
+
+
 **Winny**是一種利用[P2P技术](https://zh.wikipedia.org/wiki/P2P "wikilink")，在[Microsoft Windows系统平台上操作的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[共享软件](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。随后，强化改良版的Winny以**Winnyp**的名称发布。
 
 ## 概要

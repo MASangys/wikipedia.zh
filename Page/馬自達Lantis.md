@@ -1,3 +1,6 @@
+> 本文内容由[馬自達Lantis](https://zh.wikipedia.org/wiki/馬自達Lantis)转换而来。
+
+
 **馬自達Lantis**（）是1990年代由[日本](../Page/日本.md "wikilink")[馬自達汽車公司生產發售的](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")，區分成五門[掀背車與四門](https://zh.wikipedia.org/wiki/掀背車 "wikilink")[轎車等車型](https://zh.wikipedia.org/wiki/轎車 "wikilink")。
 
 ## 概要

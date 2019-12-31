@@ -1,3 +1,6 @@
+> 本文内容由[NAT穿透](https://zh.wikipedia.org/wiki/NAT穿透)转换而来。
+
+
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**NAT穿越**（NAT traversal）涉及[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")[网络中的一个常见问题](https://zh.wikipedia.org/wiki/网络 "wikilink")，即在处于使用了[NAT设备的私有TCP](https://zh.wikipedia.org/wiki/NAT "wikilink")/IP网络中的主机之间建立连接的问题。
 
 会遇到这个问题的通常是那些客户端网络交互应用程序的开发人员，尤其是在[对等网络和](https://zh.wikipedia.org/wiki/对等网络 "wikilink")[VoIP](../Page/VoIP.md "wikilink")领域中。[IPsec](../Page/IPsec.md "wikilink") [VPN客户普遍使用](https://zh.wikipedia.org/wiki/VPN "wikilink")[NAT-T来达到使](https://zh.wikipedia.org/wiki/NAT-T "wikilink")[ESP包通过](https://zh.wikipedia.org/wiki/ESP "wikilink")[NAT的目的](https://zh.wikipedia.org/wiki/NAT "wikilink")。

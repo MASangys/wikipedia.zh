@@ -1,3 +1,6 @@
+> 本文内容由[臺中e卡通](https://zh.wikipedia.org/wiki/臺中e卡通)转换而来。
+
+
 **臺中e卡通**是通用於[大台中地區的非接觸式交通](https://zh.wikipedia.org/wiki/大台中 "wikilink")[電子票證系統](https://zh.wikipedia.org/wiki/電子收費系統 "wikilink")[智慧卡](../Page/智慧卡.md "wikilink")，由[台灣智慧卡公司發行](https://zh.wikipedia.org/wiki/台灣智慧卡公司 "wikilink")，類似[臺北的](../Page/臺北市.md "wikilink")[悠遊卡](../Page/悠遊卡.md "wikilink")、[高雄的](../Page/高雄市.md "wikilink")[一卡通](https://zh.wikipedia.org/wiki/一卡通_\(台灣\) "wikilink")、[香港](../Page/香港.md "wikilink")的[八達通](../Page/八達通.md "wikilink")、[JR東日本的](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[Suica](../Page/Suica.md "wikilink")等。可用於搭乘[臺中市市區公車](../Page/臺中市市區公車.md "wikilink")及安裝臺中e卡通系統之臺中、[彰化](https://zh.wikipedia.org/wiki/彰化縣 "wikilink")、[南投地區公路客運路線](../Page/南投縣.md "wikilink")。
 
 台灣智慧卡公司發行之[臺灣通](../Page/臺灣通.md "wikilink")與臺中e卡通已經於2007年5月整合完成，臺中e卡通改為**臺灣通中彰投版**可在[桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")、[新竹](../Page/新竹都會區.md "wikilink")、[苗栗使用](../Page/苗栗縣.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[ZBrush](https://zh.wikipedia.org/wiki/ZBrush)转换而来。
+
+
 **ZBrush**是一个專業[三維角色](https://zh.wikipedia.org/wiki/三維 "wikilink")[建模](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，由[pixologic公司出品](https://zh.wikipedia.org/wiki/pixologic "wikilink")。被誉为革命性的建模软件，广泛应用于各电影，电视，游戏，特效等诸多领域。因为造型手段脱离传统数位手段，使得创作数字雕塑更为便捷高效。特别适合艺术家使用。最新版本为4R6（2013年6月发布）
 
 ZBrush 4R7將會是推出ZBrush 5.0的ZBrush 4最後系列的版本，而4R7不只是幾項小功能改變，而是新增了數個主要功能。ZBrush 4R7主要功能包含：ArrayMesh、NanoMesh以及ZModeler和QMesh。這些所有功能對於創意開發都是非常有用的，從模型的概念創作到美化你的作品。讓你比起以往可在ZBrush中完成更多無法做到的事。在它的新功能之外，ZBrush的核心已經被重新製作了，4R7將會是ZBrush第一版支援64bit1。這讓你可完全利用電腦的效能，不僅僅是允許你可操控更高面數的模型，而且在更短時間內創造更多作品。

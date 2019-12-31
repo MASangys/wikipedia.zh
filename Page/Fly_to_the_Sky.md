@@ -1,3 +1,6 @@
+> 本文内容由[Fly to the Sky](https://zh.wikipedia.org/wiki/Fly to the Sky)转换而来。
+
+
 **Fly to the Sky**（諺文：플라이 투 더 스카이、台譯：飛行青少年、簡寫：FTTS）是韓國二人男子演唱團體，由韓裔美籍的[Brian和韓國出身的](../Page/朱玟奎.md "wikilink")[Fany所組成](https://zh.wikipedia.org/wiki/焕熙 "wikilink")。
 
 Fly To The Sky由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")1999年正式出道，初期以精通演唱、饒舌及舞蹈的宣傳話題，演唱較受青少年族群喜好的流行節奏藍調曲風。自2002年的第三張專輯《Sea of Love》起，將團體形象及演唱曲風轉向更成熟的節奏藍調及正統抒情曲。隨著2003年第四張專輯《Missing You》的大受歡迎，Fly To The Sky的定位從偶像轉變為實力派組合，成功鞏固其節奏藍調藝人的定位，並被視為韓國節奏藍調團體先驅之一。

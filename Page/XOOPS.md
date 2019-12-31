@@ -1,3 +1,6 @@
+> 本文内容由[XOOPS](https://zh.wikipedia.org/wiki/XOOPS)转换而来。
+
+
 **XOOPS**是一種開放原始碼的[内容管理系統](https://zh.wikipedia.org/wiki/内容管理系統 "wikilink")，衍生自[PHP-Nuke](https://zh.wikipedia.org/wiki/PHP-Nuke "wikilink")，採用[PHP](../Page/PHP.md "wikilink")語言跟[MySQL](../Page/MySQL.md "wikilink")資料庫。功能、界面全部模組化設計，可用於建構各種網路社區。
 
 XOOPS的發布採用[GPL協議](https://zh.wikipedia.org/wiki/GPL "wikilink")，可免費使用和修改；在遵循[GPL相關條款的前提下](https://zh.wikipedia.org/wiki/GPL "wikilink")，可自由再發布。

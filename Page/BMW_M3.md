@@ -1,3 +1,6 @@
+> 本文内容由[BMW M3](https://zh.wikipedia.org/wiki/BMW M3)转换而来。
+
+
 **寶馬M3**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車製造廠](https://zh.wikipedia.org/wiki/汽車 "wikilink")[寶馬旗下的小型高性能車種](https://zh.wikipedia.org/wiki/寶馬 "wikilink")，是以[三系列為基礎所衍生開發的高性能車型](../Page/BMW_3系列.md "wikilink")，由BMW直屬的賽車部門[BMW M負責開發製造](https://zh.wikipedia.org/wiki/BMW_M "wikilink")。
 
 首款M3是在1986年時上市，是以當時的3系列（代號[E30](https://zh.wikipedia.org/wiki/寶馬E30 "wikilink")）的車體搭配代號S14的直列四缸引擎推出。從那時起，每次三系列進行改款時，都會在稍後追加推出以其為基礎的M3版本。

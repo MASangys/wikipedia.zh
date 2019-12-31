@@ -1,3 +1,6 @@
+> 本文内容由[OPEN小將](https://zh.wikipedia.org/wiki/OPEN小將)转换而来。
+
+
 [7-Eleven-Open-Chan.png](https://zh.wikipedia.org/wiki/File:7-Eleven-Open-Chan.png "fig:7-Eleven-Open-Chan.png")
 
 **OPEN小將**是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[7-ELEVEN超商形象代言玩偶](../Page/7-Eleven.md "wikilink")（[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")），另有一系列相關人物和設定背景。由台灣的7-ELEVEN經營業者[統一超商](../Page/統一超商.md "wikilink")委託日本[電通設計](https://zh.wikipedia.org/wiki/電通 "wikilink")。如今常用於台灣7-ELEVEN的平面宣傳與廣告上，並有一系列週邊商品。

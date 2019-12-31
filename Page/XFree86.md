@@ -1,3 +1,6 @@
+> 本文内容由[XFree86](https://zh.wikipedia.org/wiki/XFree86)转换而来。
+
+
 **XFree86**是[X Window系统的其中一个实现](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")，自1992年，它一直循著自由發放的[開放源代碼模式被發展](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。它主要的運作平台是[Unix类](https://zh.wikipedia.org/wiki/Unix类 "wikilink")[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，包括各版本的[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[IRIX](../Page/IRIX.md "wikilink")、[OpenVMS及](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[Cygwin/X等](https://zh.wikipedia.org/wiki/Cygwin/X "wikilink")。
 
 由2004年開始，它再不是以[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")[軟件許可證的形式出現](https://zh.wikipedia.org/wiki/軟件許可證 "wikilink")，而是使用XFree86®Project公司所擁有的[XFree86 License](https://zh.wikipedia.org/wiki/XFree86_License "wikilink") version 1.1 [軟件许可證模式發放](https://zh.wikipedia.org/wiki/軟件许可證 "wikilink")。現時XFree86仍由XFree86®Project公司負責开发，該公司的主要負責人是[David Dawes](https://zh.wikipedia.org/wiki/David_Dawes "wikilink")。

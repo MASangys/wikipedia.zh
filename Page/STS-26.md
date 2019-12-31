@@ -1,3 +1,6 @@
+> 本文内容由[STS-26](https://zh.wikipedia.org/wiki/STS-26)转换而来。
+
+
 ****是历史上第二十六次航天飞机任务，是[发现号航天飞机的第七次太空飞行](https://zh.wikipedia.org/wiki/發現號太空梭 "wikilink")，也是1986年[挑戰者號太空梭災難後舉行的第一次太空梭任務](https://zh.wikipedia.org/wiki/挑戰者號太空梭災難 "wikilink")。
 
 ## 任务成员

@@ -1,3 +1,6 @@
+> 本文内容由[IZUMO零](https://zh.wikipedia.org/wiki/IZUMO零)转换而来。
+
+
 《**IZUMO零**》是日本[Studio e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2005年9月22日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")，也是《[IZUMO](../Page/IZUMO.md "wikilink")》的前傳（但比《IZUMO》遲發售）。\[1\]\[2\]遊戲以19世紀，[日本](../Page/日本.md "wikilink")的[明治維新時代作背景](https://zh.wikipedia.org/wiki/明治維新 "wikilink")，時間是1879年（明治12年），舞台是國際都會[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。日本SUCCESS公司在2007年7月12日發售[PlayStation 2版本](../Page/PlayStation_2.md "wikilink")，標題為《****》。\[3\]
 
 ## 遊戲系統

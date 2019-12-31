@@ -1,3 +1,6 @@
+> 本文内容由[Ctrl+Alt+Del](https://zh.wikipedia.org/wiki/Ctrl+Alt+Del)转换而来。
+
+
 [Three-finger_salute.svg](https://zh.wikipedia.org/wiki/File:Three-finger_salute.svg "fig:Three-finger_salute.svg")上的（高亮显示）\]\] **Ctrl+Alt+Del**是一個非常廣泛用於[IBM相容電腦上的](https://zh.wikipedia.org/wiki/IBM相容電腦 "wikilink")[鍵盤按鍵組合](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")，其目的是為了立即終結電腦的異常狀態，包括[當機](https://zh.wikipedia.org/wiki/當機 "wikilink")。
 
 代表按住、、這3個按鍵，按法為先按住和後（前兩者無先後順序）再按。

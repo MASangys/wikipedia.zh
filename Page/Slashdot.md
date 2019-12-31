@@ -1,3 +1,6 @@
+> 本文内容由[Slashdot](https://zh.wikipedia.org/wiki/Slashdot)转换而来。
+
+
 **Slashdot**是一個[資訊科技](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")[網站](../Page/網站.md "wikilink")，每天以[網誌](../Page/網誌.md "wikilink")的形式在主頁发表科技资讯，所有的新聞都源于网友投稿，经編輯筛选后發表，文中会附上源新闻的链接。该网站2014年alexa全球排名1631-{位}-，主要访问量前五名为印度（23.5%）、美国（27.8%）、英国、加拿大和巴基斯坦。网友可在每条新闻下评论，通常頭版的新聞會有几十個评论，較受歡迎的新聞會有上千的评论。而該站的新聞主題也包括電影和書籍的評論、訪-{}-問和[Ask Slashdot](https://zh.wikipedia.org/wiki/Ask_Slashdot "wikilink")。
 
 該站的口號是"[News](../Page/新闻.md "wikilink") for [nerds](https://zh.wikipedia.org/wiki/nerd "wikilink"). Stuff that matters." [Slashdot效应](../Page/Slashdot效应.md "wikilink")是指當成众多的Slashdot讀者访问某一在Slashdot公佈的網址時，該網址服务器不堪重负而癱瘓的情況。

@@ -1,3 +1,6 @@
+> 本文内容由[Gecko](https://zh.wikipedia.org/wiki/Gecko)转换而来。
+
+
 **Gecko**是一套[自由及開放原始碼](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")、以[C++](../Page/C++.md "wikilink")編寫的[排版引擎](../Page/排版引擎.md "wikilink")，目前為[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[網頁瀏覽器以及](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")[電子郵件客戶端等](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")相關產品所使用。Gecko原本由[網景通訊公司開發](https://zh.wikipedia.org/wiki/網景通訊公司 "wikilink")，現在則由Mozilla基金會維護。
 
 這套排版引擎提供了一個豐富的[應用程式介面以供](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")[網際網路相關的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[應用程式使用](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，例如：[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")、[HTML编辑器](../Page/HTML编辑器.md "wikilink")、[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")／[伺服器等等](https://zh.wikipedia.org/wiki/伺服器 "wikilink")\[1\]。雖然最初的主要使用對象為Netscape和Mozilla Firefox網頁瀏覽器，但現在已有很多其他軟體在使用這個排版引擎。Gecko是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，能在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[Mac OS X等主要](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[作業系統上運行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。

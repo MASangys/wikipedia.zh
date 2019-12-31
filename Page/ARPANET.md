@@ -1,3 +1,6 @@
+> 本文内容由[ARPANET](https://zh.wikipedia.org/wiki/ARPANET)转换而来。
+
+
 [Arpanet_logical_map,_march_1977.png](https://zh.wikipedia.org/wiki/File:Arpanet_logical_map,_march_1977.png "fig:Arpanet_logical_map,_march_1977.png") [Allmystery1988.jpg](https://zh.wikipedia.org/wiki/File:Allmystery1988.jpg "fig:Allmystery1988.jpg") [Interface_Message_Processor_Front_Panel.jpg](https://zh.wikipedia.org/wiki/File:Interface_Message_Processor_Front_Panel.jpg "fig:Interface_Message_Processor_Front_Panel.jpg")
 
 **高等研究計劃署網路**（），通称**阿帕网**（）是美國[國防高等研究計劃署](../Page/國防高等研究計劃署.md "wikilink")开发的世界上第一个运营的[封包交换网络](https://zh.wikipedia.org/wiki/封包交换 "wikilink")，是全球[互联网](../Page/互联网.md "wikilink")的鼻祖。

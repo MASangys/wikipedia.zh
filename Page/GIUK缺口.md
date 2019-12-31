@@ -1,3 +1,6 @@
+> 本文内容由[GIUK缺口](https://zh.wikipedia.org/wiki/GIUK缺口)转换而来。
+
+
 [GIUK_gap.png](https://zh.wikipedia.org/wiki/File:GIUK_gap.png "fig:GIUK_gap.png") **GIUK缺口**是描述位於[北大西洋海域上一處與](https://zh.wikipedia.org/wiki/北大西洋 "wikilink")[海軍作戰有重大關係的海域](https://zh.wikipedia.org/wiki/海軍 "wikilink")。GIUK的縮寫來自於[格陵蘭](https://zh.wikipedia.org/wiki/格陵蘭 "wikilink")、[冰島和](https://zh.wikipedia.org/wiki/冰島 "wikilink")[英國這三個地方](https://zh.wikipedia.org/wiki/英國 "wikilink")，GIUK缺口就是指位於這三地之間的海域，通常是引用在軍事相關的論述上。
 
 ## 簡史

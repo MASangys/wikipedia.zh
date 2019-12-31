@@ -1,3 +1,6 @@
+> 本文内容由[Beta范式](https://zh.wikipedia.org/wiki/Beta范式)转换而来。
+
+
 在 [lambda 演算中](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")，一个项是**beta 范式**（规范型），如果没有“beta 归约”是可能的。一个项是 **beta-eta 范式**，如果既没有 beta 归约又没有“eta 归约”是可能的。一个项是**头部范式**，如果没有“在头部位置的 beta-可规约式”。
 
 ## Beta 归约

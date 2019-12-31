@@ -1,3 +1,6 @@
+> 本文内容由[世紀帝國III](https://zh.wikipedia.org/wiki/世紀帝國III)转换而来。
+
+
 是一款由[全效工作室](../Page/全效工作室.md "wikilink")开发、[微软](../Page/微软.md "wikilink")发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")。帝国时代III是[帝国时代II的续作](https://zh.wikipedia.org/wiki/帝国时代II "wikilink")，也是[帝国时代系列的第三部主要作品](https://zh.wikipedia.org/wiki/帝国时代系列 "wikilink")。帝国时代III的时代背景设定于15世纪[地理大发现](../Page/地理大发现.md "wikilink")至1850年左右，游戏中共有8种不同的[欧洲](../Page/欧洲.md "wikilink")文明以供选择，包括[奥斯曼土耳其帝国](https://zh.wikipedia.org/wiki/奥斯曼土耳其帝国 "wikilink")，[西班牙](../Page/西班牙.md "wikilink")，[葡萄牙](../Page/葡萄牙.md "wikilink")，[荷兰](../Page/荷兰.md "wikilink")，[德国](../Page/德国.md "wikilink")，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")，[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")，[俄罗斯](../Page/俄罗斯.md "wikilink")。和前作相比，帝国时代III创造性地加入了兼有[即时战略游戏](../Page/即时战略游戏.md "wikilink")和[角色扮演游戏](../Page/角色扮演游戏.md "wikilink")特点的家乡城市。两部官方[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")——《[群酋爭霸](../Page/世紀帝國III：群酋爭霸.md "wikilink")》于2006年10月17日发售，《[亞洲王朝](../Page/世紀帝國III：亞洲王朝.md "wikilink")》于2007年10月23日发售，并将时间线拓展到了1876年[小大角战役](../Page/小大角战役.md "wikilink")。
 
 ## 游戏要素

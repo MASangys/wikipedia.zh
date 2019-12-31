@@ -1,3 +1,6 @@
+> 本文内容由[INFOCOMP電腦科學期刊](https://zh.wikipedia.org/wiki/INFOCOMP電腦科學期刊)转换而来。
+
+
 **INFOCOMP電腦科學期刊**為一份國際性的科學[期刊](../Page/期刊.md "wikilink")（索引指標、印刷出版、[季刊](https://zh.wikipedia.org/wiki/季刊 "wikilink")、連續流通）。所注重的領域為（但不限於此）：
 
   - [人工智能](../Page/人工智能.md "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[Zune](https://zh.wikipedia.org/wiki/Zune)转换而来。
+
+
 **Zune**是[微軟生產的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，2006年11月發布。先前Zune被認為僅是微軟「Argo」計畫下的一款媒體播放器。然而，目前看來「Zune」這個品牌將會被用在所有的媒體播放器、和其他的服務上，貫穿整個計劃\[1\]\[2\]\[3\]。
 
 ## 規格

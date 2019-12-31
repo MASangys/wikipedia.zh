@@ -1,3 +1,6 @@
+> 本文内容由[H球粒隕石](https://zh.wikipedia.org/wiki/H球粒隕石)转换而来。
+
+
 [_Chondrite_H5.JPG](https://zh.wikipedia.org/wiki/File:_Chondrite_H5.JPG "fig:_Chondrite_H5.JPG") **H球粒隕石**（又稱高鐵群球粒隕石）是一種[普通球粒隕石](../Page/普通球粒隕石.md "wikilink")，也是最常见的一种[陨石](https://zh.wikipedia.org/wiki/陨石 "wikilink")。大约40%被记载的陨石归属此类，在普通球粒隕石中，H球粒隕石佔46%；而在整個[球粒隕石](../Page/球粒隕石.md "wikilink")類別中則佔44%\[1\]。
 
 与其他的普通球粒隕石相比较，此类陨石含鐵量較高，占总重量的25-31%，其名字中的“H”即代表高铁含量（英语：***H**igh iron abundance*）。這些鐵大半呈自由狀態，因此儘管H球粒隕石具有石質的外貌，它具有高[磁性](https://zh.wikipedia.org/wiki/磁性 "wikilink")。

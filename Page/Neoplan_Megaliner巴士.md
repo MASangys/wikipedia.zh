@@ -1,3 +1,6 @@
+> 本文内容由[Neoplan Megaliner巴士](https://zh.wikipedia.org/wiki/Neoplan Megaliner巴士)转换而来。
+
+
 **Neoplan Megaliner巴士**，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Neoplan車廠](https://zh.wikipedia.org/wiki/Neoplan車廠 "wikilink")（）生產的大型四軸雙層[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，長度達15米，絕大部分在[歐洲地區行走](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，而[日本](../Page/日本.md "wikilink")是唯一在歐洲以外有Megaliner營運的地區。
 
 Megaliner還有一款公共巴士版，名叫做Megashuttle。

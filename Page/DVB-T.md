@@ -1,3 +1,6 @@
+> 本文内容由[DVB-T](https://zh.wikipedia.org/wiki/DVB-T)转换而来。
+
+
 **地面數碼視訊廣播**（，縮寫：），是[歐洲廣播聯盟](../Page/歐洲廣播聯盟.md "wikilink")在1997年\[1\]發佈的[數碼地面電視視訊廣播傳輸](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")，最早是1998年在[英國實行廣播](https://zh.wikipedia.org/wiki/英國 "wikilink")。
 
 2007年，歐洲DVB組織推出改良版的[DVB-T2地面數碼電視廣播標準](https://zh.wikipedia.org/wiki/DVB-T2 "wikilink")，頻譜利用率及有效傳輸碼率得到較大提高。 DVB-T2先從沒有採用DVB-T地面數碼電視廣播模式的第三世界開始進行推廣，已逐步完成產業化，價格大幅度下降，隨後歐洲很多國家也開始採用，逐步替換DVB-T。

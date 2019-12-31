@@ -1,3 +1,6 @@
+> 本文内容由[Socket F](https://zh.wikipedia.org/wiki/Socket F)转换而来。
+
+
 **Socket F**是第二代 [AMD Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink") 處理器（型號：22xx、82xx）所使用的[插座之一](../Page/CPU插座.md "wikilink")，擁有雙核心、1207個腳位，採用與[LGA 775相似的接觸點式設計](../Page/LGA_775.md "wikilink")，並已於2006年8月15日推出。目前推出的標準版本消耗功率為98W，另外還推出了68W的低溫、省電、低消耗功率 HE 系列，產品型號為22xxHE、82xxHE。
 
 這款插座會主攻[伺服器市場](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，並會與[Socket AM2及](../Page/Socket_AM2.md "wikilink")[Socket S1共被視為同一世代的插座](https://zh.wikipedia.org/wiki/Socket_S1 "wikilink")，前者主要供家用的[Phenom](https://zh.wikipedia.org/wiki/Phenom "wikilink")、[Athlon X2](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")、[Athlon 64及](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")[Sempron使用](https://zh.wikipedia.org/wiki/Sempron "wikilink")。後者則為行動電腦的[Turion 64及雙核](../Page/Turion_64.md "wikilink")[Turion 64 X2所使用](../Page/Turion_64_X2.md "wikilink")，全數均支援[DDR2記憶體](../Page/DDR2_SDRAM.md "wikilink")。

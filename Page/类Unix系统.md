@@ -1,3 +1,6 @@
+> 本文内容由[类Unix系统](https://zh.wikipedia.org/wiki/类Unix系统)转换而来。
+
+
 [Unix_history-simple.svg](https://zh.wikipedia.org/wiki/File:Unix_history-simple.svg "fig:Unix_history-simple.svg") **类Unix系统**（；经常被称为**UN\*X**或**\*nix**）指各种[Unix的衍生系统](https://zh.wikipedia.org/wiki/Unix "wikilink")，比如[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[SUN公司的](https://zh.wikipedia.org/wiki/SUN "wikilink")[Solaris](../Page/Solaris.md "wikilink")，以及各种与传统Unix类似的系统，例如[Minix](https://zh.wikipedia.org/wiki/Minix "wikilink")、[Linux](../Page/Linux.md "wikilink")、[QNX](../Page/QNX.md "wikilink")等。它们虽然有的是[自由软件](../Page/自由软件.md "wikilink")，有的是[私有软件](https://zh.wikipedia.org/wiki/私有软件 "wikilink")，但都相当程度地继承了原始UNIX的特性，有许多相似处，并且都在一定程度上遵守[POSIX规范](https://zh.wikipedia.org/wiki/POSIX "wikilink")。
 
 UNIX的商標權由[國際開放標準組織所擁有](https://zh.wikipedia.org/wiki/國際開放標準組織 "wikilink")，只有符合[單一UNIX規範](../Page/單一UNIX規範.md "wikilink")的UNIX系統才能使用UNIX這個名稱，否則只能稱為類UNIX（UNIX-like）。

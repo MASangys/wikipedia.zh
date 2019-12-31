@@ -1,3 +1,6 @@
+> 本文内容由[OpenSolaris](https://zh.wikipedia.org/wiki/OpenSolaris)转换而来。
+
+
 [OpenSolaris.org專案網站.png](https://zh.wikipedia.org/wiki/File:OpenSolaris.org專案網站.png "fig:OpenSolaris.org專案網站.png") **OpenSolaris**是一個曾由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所發起的[開放原碼專案](https://zh.wikipedia.org/wiki/開放原碼 "wikilink")，用來建立以[Solaris](../Page/Solaris.md "wikilink")作業系統為主的開發者社群，在甲骨文公司收購昇陽電腦後，現已經中止專案。
 
 此開放原碼專案過去有超過12,000人於專案網站OpenSolaris.org註冊成為社群會員，其中有超過11,000名會員都不是[昇陽電腦](../Page/昇陽電腦.md "wikilink")的員工，由此可知OpenSolaris的用戶團體社群曾相當活絡。此外在官方網站上也曾有12個OpenSolaris的技術社群與專案。於2006年7月13日時OpenSolaris的官方網站上有如下的成績公佈：相關下載已超過33,000次，註冊會員已超過14,000名，貢獻已超過100項，社群已超過40個，用戶團體已達29個，專案28個，5種發行版本。
