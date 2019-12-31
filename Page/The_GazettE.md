@@ -1,3 +1,6 @@
+> 本文内容由[The GazettE](https://zh.wikipedia.org/wiki/The_GazettE)转换而来。
+
+
 **the GazettE**（）是[日本](../Page/日本.md "wikilink")一個[視覺系](../Page/視覺系.md "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。2005年至2010年所屬[唱片公司](../Page/唱片公司.md "wikilink")為[PS COMPANY](https://zh.wikipedia.org/wiki/PS_COMPANY "wikilink")。2010年轉為[Sony music](https://zh.wikipedia.org/wiki/Sony_music "wikilink")。
 
 ## 簡歷

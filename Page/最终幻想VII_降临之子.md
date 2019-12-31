@@ -1,4 +1,4 @@
-> 本文内容由[最终幻想VII 降临之子](https://zh.wikipedia.org/wiki/最终幻想VII 降临之子)转换而来。
+> 本文内容由[最终幻想VII 降临之子](https://zh.wikipedia.org/wiki/最终幻想VII_降临之子)转换而来。
 
 
 《**最终幻想VII 降临之子**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")： ，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*-{Final Fantasy}- VII: Advent Children*，簡稱「**FF7AC**」），是以[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的劇情延續為中心的影像作品，並為「[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")」中的一環。以發售[OVA方式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。本作曾以剪接版本參加過第61屆及第62屆的威尼斯影展。截至2009年，本作的影音光碟已全球出貨達410萬張\[1\]。

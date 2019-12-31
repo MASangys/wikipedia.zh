@@ -1,3 +1,6 @@
+> 本文内容由[H.323](https://zh.wikipedia.org/wiki/H.323)转换而来。
+
+
 **H.323协议**是[ITU-T提出的关于](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[视频电话及](https://zh.wikipedia.org/wiki/视频电话 "wikilink")[多媒体](../Page/多媒体.md "wikilink")会议传输协议H.32x系列中的一部分。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[AIKA](https://zh.wikipedia.org/wiki/AIKA)转换而来。
+
+
 **《芙蘭戰記 Online》**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：；[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：），是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Joyimpact](https://zh.wikipedia.org/wiki/Joyimpact "wikilink")\[1\]經由研究[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國大陸等](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[東亞地區玩家喜好的遊戲要素而開發的大型](https://zh.wikipedia.org/wiki/東亞 "wikilink")[三維免費](https://zh.wikipedia.org/wiki/三維 "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，具有華麗的戰鬥風格、龐大的任務系統。其主要特色是可容納1000vs1000人的國戰系統以及陪伴玩家左右的「守護精靈——芙蘭養成系統」。
 
 ## 故事背景

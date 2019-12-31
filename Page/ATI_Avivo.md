@@ -1,4 +1,4 @@
-> 本文内容由[ATI Avivo](https://zh.wikipedia.org/wiki/ATI Avivo)转换而来。
+> 本文内容由[ATI Avivo](https://zh.wikipedia.org/wiki/ATI_Avivo)转换而来。
 
 
 **AVIVO**此技術能提高2D影像質素。在TV Card ATi Theater 550出現过，現加入到顯示卡中。[Radeon X1 Series全系列都會支援此技術](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")。AVIVO是[nVidia](https://zh.wikipedia.org/wiki/nVidia "wikilink") [Pure Video的对手](https://zh.wikipedia.org/wiki/Pure_Video "wikilink")。

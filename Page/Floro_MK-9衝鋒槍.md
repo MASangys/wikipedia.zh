@@ -1,3 +1,6 @@
+> 本文内容由[Floro MK-9衝鋒槍](https://zh.wikipedia.org/wiki/Floro_MK-9衝鋒槍)转换而来。
+
+
 **Floro MK-9**是由[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")設計的[衝鋒槍](../Page/冲锋枪.md "wikilink")，發射[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑子彈](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 ## 歷史

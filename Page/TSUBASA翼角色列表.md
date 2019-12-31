@@ -1,3 +1,6 @@
+> 本文内容由[TSUBASA翼角色列表](https://zh.wikipedia.org/wiki/TSUBASA翼角色列表)转换而来。
+
+
 **[TSUBASA翼登場人物](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")**是指[CLAMP](../Page/CLAMP.md "wikilink")原創[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》中所登場的主要人物。大部分人物的原型取自[CLAMP](../Page/CLAMP.md "wikilink")创作的其他作品。
 
 ## 主要登場人物

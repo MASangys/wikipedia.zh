@@ -1,3 +1,6 @@
+> 本文内容由[XAML Browser Application](https://zh.wikipedia.org/wiki/XAML_Browser_Application)转换而来。
+
+
 XAML Browser Application，最开始叫xapp，后来在Sept CTP中叫wba，是美國微軟公司所提出的新技術，以[XAML](../Page/XAML.md "wikilink")作為[使用者介面](https://zh.wikipedia.org/wiki/人機界面 "wikilink")（UI）之描述，寄宿（hosted）在瀏覽器（IE web browser sandbox）中執行的程式。XBAP可以取代[ActiveX](../Page/ActiveX.md "wikilink")、Java Applet、Flash等功能，有人稱之為下一代的ActiveX（next-generation ActiveX）。XAML Browser Application的副檔名是**.xbap**。
 
 ## 環境設定

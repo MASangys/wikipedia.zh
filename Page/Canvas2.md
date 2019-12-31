@@ -1,3 +1,6 @@
+> 本文内容由[Canvas2](https://zh.wikipedia.org/wiki/Canvas2)转换而来。
+
+
 《**Canvas2 ～茜色的調色盤～**》（）是由[F\&C FC01於](../Page/F&C.md "wikilink")2004年4月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來陸續改編成電視動畫、漫畫、小說。
 
 2006年1月26日[角川書店](../Page/角川書店.md "wikilink")發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Canvas2 ～彩虹色的圖畫～》（），同名電視動畫於2005年10月2日至2006年3月26日其間播映。\[2\]2006年10月6日F\&C FC01發售PlayStation 2版的逆移植版本，並改名為《Canvas2 DVD EDITION》\[3\]。

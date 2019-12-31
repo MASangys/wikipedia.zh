@@ -1,4 +1,4 @@
-> 本文内容由[Ping Pung](https://zh.wikipedia.org/wiki/Ping Pung)转换而来。
+> 本文内容由[Ping Pung](https://zh.wikipedia.org/wiki/Ping_Pung)转换而来。
 
 
 **Ping Pung**，一支[香港](../Page/香港.md "wikilink")樂隊，於2004年成立，曾簽約[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")，現已解散。Ping Pung成員包括[吳雨霏](../Page/吳雨霏.md "wikilink")（Kary Ng）、[李漢](../Page/李漢文.md "wikilink")（Jerry Lee）、[李嘉文](../Page/李嘉文.md "wikilink")（Jan Lee）及黃天豪（Tin Ho）。吳雨霏為Ping Pung的主音，同時也是人氣少女組合[Cookies的成員](../Page/Cookies_\(組合\).md "wikilink")。李漢和同李嘉文主力[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")、[編曲和](https://zh.wikipedia.org/wiki/編曲 "wikilink")[監製](https://zh.wikipedia.org/wiki/監製 "wikilink")，他們也是親生兄弟，同時是作曲人[雷頌德](../Page/雷頌德.md "wikilink")同母異父的兄弟。而黃天豪則為Ping Pung摔碟。Ping Pung的歌曲主要為自創樂曲，沒有特定的風格。

@@ -1,3 +1,6 @@
+> 本文内容由[GS美神 極樂大作戰！！](https://zh.wikipedia.org/wiki/GS美神_極樂大作戰！！)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[椎名高志](../Page/椎名高志.md "wikilink")在[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》的連載漫畫作品，發表於1991年第30號至1999年第41號。2013年後來以新作短篇形式發表（後述）。連載時話數的單位是用「REPORT.○」。
 
 連載當時副標題、封面、畫面及登場人物大多戲仿[科幻類的漫畫](../Page/科學幻想.md "wikilink")、動畫及電影，當中還包括動畫、電影的[名場面](https://zh.wikipedia.org/wiki/名場面 "wikilink")（含電影《[魔鬼終結者2：審判日](https://zh.wikipedia.org/wiki/魔鬼終結者2：審判日 "wikilink")》等）。

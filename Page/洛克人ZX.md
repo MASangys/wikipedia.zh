@@ -1,3 +1,6 @@
+> 本文内容由[洛克人ZX](https://zh.wikipedia.org/wiki/洛克人ZX)转换而来。
+
+
 是[洛克人第六系列](https://zh.wikipedia.org/wiki/洛克人 "wikilink")、[洛克人ZX系列的第一集](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")。2006年[洛克人系列](../Page/洛克人系列.md "wikilink")第二線製作。
 
 新的系列承繼了[洛克人零系列](../Page/洛克人零系列.md "wikilink")的故事，但兩系列的人物連接則較間接。今次是有史以來，洛克人的遊戲中出現女性主角。

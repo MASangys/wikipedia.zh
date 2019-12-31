@@ -1,3 +1,6 @@
+> 本文内容由[SDHC](https://zh.wikipedia.org/wiki/SDHC)转换而来。
+
+
 [SD-UHS-I-logos.gif](https://zh.wikipedia.org/wiki/File:SD-UHS-I-logos.gif "fig:SD-UHS-I-logos.gif") [SDHC_HD_C16_32GB.jpg](https://zh.wikipedia.org/wiki/File:SDHC_HD_C16_32GB.jpg "fig:SDHC_HD_C16_32GB.jpg") [SDHC_memory_card_-_8GB.jpeg](https://zh.wikipedia.org/wiki/File:SDHC_memory_card_-_8GB.jpeg "fig:SDHC_memory_card_-_8GB.jpeg")
 
 **SDHC**，全名“[Secure Digital](https://zh.wikipedia.org/wiki/Secure_Digital "wikilink") High Capacity”，是（SD Association）在[2006年3月](../Page/2006年3月.md "wikilink")發表的Secure Digital高容量版本。SD卡協會有強制規定，所有符合SDHC規範的裝置都必須標明“SDHC”標誌。

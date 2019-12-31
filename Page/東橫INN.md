@@ -1,3 +1,6 @@
+> 本文内容由[東橫INN](https://zh.wikipedia.org/wiki/東橫INN)转换而来。
+
+
 [Toyoko_inn.jpg](https://zh.wikipedia.org/wiki/File:Toyoko_inn.jpg "fig:Toyoko_inn.jpg") [Toyoko-inn_Bansyu-Ako_Ekimae.jpg](https://zh.wikipedia.org/wiki/File:Toyoko-inn_Bansyu-Ako_Ekimae.jpg "fig:Toyoko-inn_Bansyu-Ako_Ekimae.jpg")
 
 **東橫INN**（）是一間[日本](../Page/日本.md "wikilink")商務酒店集團，創立於1986年1月。由於總部設於[東京與](https://zh.wikipedia.org/wiki/東京 "wikilink")[横濱之間的](https://zh.wikipedia.org/wiki/横濱 "wikilink")[蒲田](../Page/蒲田.md "wikilink")，因此取名為「東橫」，與旗下擁有數個以「東橫」冠名之事業的沒有任何關係。

@@ -1,3 +1,6 @@
+> 本文内容由[STS-55](https://zh.wikipedia.org/wiki/STS-55)转换而来。
+
+
 ****是[美国航天历史上第五十四次航天飞机任务](https://zh.wikipedia.org/wiki/美国航天 "wikilink")，也是[哥伦比亚号航天飞机的第十四次太空飞行](../Page/哥倫比亞號太空梭.md "wikilink")。
 
 ## 任务成员

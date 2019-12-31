@@ -1,3 +1,6 @@
+> 本文内容由[2006年度SINA Music樂壇民意指數頒獎禮得獎名單](https://zh.wikipedia.org/wiki/2006年度SINA_Music樂壇民意指數頒獎禮得獎名單)转换而来。
+
+
 **2006年度樂壇民意指數頒獎禮**於2007年1月29日[香港國際展貿中心舉行](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")，主題為「1人1票，網上發聲」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[傅穎](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，當晚共頒發18個項目，其中14項「我最喜愛」獎項為由網民選舉得出，別具意義，總共27個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單

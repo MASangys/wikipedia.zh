@@ -1,3 +1,6 @@
+> 本文内容由[Google購物](https://zh.wikipedia.org/wiki/Google購物)转换而来。
+
+
 **Google购物**（），前称“Google Product Search”、Google Products和Froogle，是由[Google](../Page/Google.md "wikilink")公司開辦的[價格比較服務](https://zh.wikipedia.org/wiki/價格比較服務 "wikilink")，其發明者是Craig Nevill-Manning。其界面提供了一個[HTML](../Page/HTML.md "wikilink")[表單欄位讓用戶可鍵入](https://zh.wikipedia.org/wiki/表單 "wikilink")[產品查詢以獲得一個有販賣該項產品的](https://zh.wikipedia.org/wiki/產品 "wikilink")[銷售商及其價格的列表](https://zh.wikipedia.org/wiki/銷售商 "wikilink")。
 
 ## 历史

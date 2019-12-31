@@ -1,3 +1,6 @@
+> 本文内容由[MUSASHI -GUN道-](https://zh.wikipedia.org/wiki/MUSASHI_-GUN道-)转换而来。
+
+
 『**MUSASHI -GUN道-**』是[Monkey Punch原作時代劇槍械動作](https://zh.wikipedia.org/wiki/Monkey_Punch "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於2006年4月9日起[BS-i逢星期日上午](https://zh.wikipedia.org/wiki/BS-i "wikilink")9:30～10:00放映，一共26集。此外，從2006年5月13日起，在[GyaO免費收看](https://zh.wikipedia.org/wiki/GyaO "wikilink")。
 
 標題的讀法為「GUN道MUSASHI」，但是在不同的媒介有不同的標題。於[BS-i以](https://zh.wikipedia.org/wiki/BS-i "wikilink")『MUSASHI』（ムサシ）、イーネットフロンティア為『GUN道 MUSASHI』（ガンどう ムサシ）、其他名稱為『GUNDOH ムサシ』（ガンドー ムサシ），有這樣的記述，表題在[GyaO以](https://zh.wikipedia.org/wiki/GyaO "wikilink")『**MUSASHI -GUN道-**』，同時是一般對此作品的稱呼。

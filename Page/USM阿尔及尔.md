@@ -1,3 +1,6 @@
+> 本文内容由[USM阿尔及尔](https://zh.wikipedia.org/wiki/USM阿尔及尔)转换而来。
+
+
 **USM阿爾及爾**（**USM Alger**-'''Union Sportive de la Médina d'Alger '''）是阿尔及利亚最大的球队之一。位于首都[阿尔及尔](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")，球队创建于1937年，队服色为红色和黑色。球队的主体育场为可容纳 15,000 名球迷的阿曼·哈马迪体育场（Omar Hammadi Stadium）。
 
 俱乐部打入过1997年和2003年[非洲冠军联赛的半决赛](https://zh.wikipedia.org/wiki/非洲冠军联赛 "wikilink")。

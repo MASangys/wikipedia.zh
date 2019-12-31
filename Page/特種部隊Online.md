@@ -1,3 +1,6 @@
+> 本文内容由[特種部隊Online](https://zh.wikipedia.org/wiki/特種部隊Online)转换而来。
+
+
 是一款[線上](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。開發者是[南韓的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[Dragon Fly](https://zh.wikipedia.org/wiki/Dragon_Fly "wikilink")（龍飛）公司。
 
 ## 运营历史

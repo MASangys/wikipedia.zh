@@ -1,4 +1,4 @@
-> 本文内容由[F.I.R.飛兒樂團 同名專輯](https://zh.wikipedia.org/wiki/F.I.R.飛兒樂團 同名專輯)转换而来。
+> 本文内容由[F.I.R.飛兒樂團 同名專輯](https://zh.wikipedia.org/wiki/F.I.R.飛兒樂團_同名專輯)转换而来。
 
 
 《**F.I.R.飛兒樂團 同名專輯**》是[F.I.R.飛兒樂團](../Page/F.I.R.飛兒樂團.md "wikilink")第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，發行於2004年4月23日。在這張專輯發行前，F.I.R.飛兒樂團已在[偶像劇](../Page/偶像劇.md "wikilink")《[鬥魚](../Page/鬥魚_\(電視劇\).md "wikilink")》初試啼聲，因此這張專輯破了未露面新人第一張專輯即辦預購的紀錄。專輯在全[台灣共賣出近](https://zh.wikipedia.org/wiki/台灣 "wikilink")30萬張，位居年度銷量第三。此張專輯在G-Music排行榜有11週冠軍和在[Hito 中文排行榜](https://zh.wikipedia.org/wiki/Hit_Fm "wikilink")8週冠軍的紀錄，此外也在榜上長達半年。這紀錄是2004年以來最好的紀錄。此張專輯在2009年獲選為「台灣流行音樂200大專輯1993\~2005年」的第82名。

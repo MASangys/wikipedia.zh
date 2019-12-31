@@ -1,3 +1,6 @@
+> 本文内容由[MTV Russia](https://zh.wikipedia.org/wiki/MTV_Russia)转换而来。
+
+
 **MTV俄罗斯**是一项[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")[无线电视服务](https://zh.wikipedia.org/wiki/无线电视 "wikilink")，至今已拥有近2千2百万收视群体，其中大多数分布在[莫斯科](../Page/莫斯科.md "wikilink")、[圣彼得堡](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")、[鄂木斯克](../Page/鄂木斯克.md "wikilink")、[沃罗涅日](../Page/沃罗涅日.md "wikilink")、[新西伯利亚](../Page/新西伯利亚.md "wikilink")和[叶卡捷琳堡](https://zh.wikipedia.org/wiki/叶卡捷琳堡 "wikilink")，以及其他一些覆盖地区。通过与[BIZ Enterprises的一项长期合同](https://zh.wikipedia.org/wiki/BIZ_Enterprises "wikilink")，MTV俄罗斯已经成为第一家专门为俄罗斯青少年一代量身定做的西方传媒电视网，在2000年1月，[MTV国际电视网成功获得了MTV俄罗斯的一项参股权](https://zh.wikipedia.org/wiki/MTV国际电视网 "wikilink")。
 
 专门正对14-34岁年龄段的收视群体，这个坐落在莫斯科的依靠广告收入盈利的传媒电视网集合了来自于俄罗斯以及国际范围内的各类丰富的音乐录音带资源。MTV俄罗斯的VJ对本土音乐的参与性与传播影响反映出了MTV独到的善变与不羁的风格

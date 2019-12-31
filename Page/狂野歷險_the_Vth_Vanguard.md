@@ -1,3 +1,6 @@
+> 本文内容由[狂野歷險 the Vth Vanguard](https://zh.wikipedia.org/wiki/狂野歷險_the_Vth_Vanguard)转换而来。
+
+
 是由Media-Vision開發，[索尼電腦娛樂於](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2006年12月14日發售的角色扮演遊戲。[狂野歷險系列](../Page/狂野歷險系列.md "wikilink")的第六作。
 
 本作是[狂野歷險系列](../Page/狂野歷險系列.md "wikilink")的十週年記念作品。本作的劇本及人物設計有所革新，劇本原案起用[黑崎薰](https://zh.wikipedia.org/wiki/黑崎薰 "wikilink")，而人物設計起用[佐佐木知美](https://zh.wikipedia.org/wiki/佐佐木知美 "wikilink")。

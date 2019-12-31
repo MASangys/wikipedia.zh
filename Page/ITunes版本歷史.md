@@ -1,3 +1,6 @@
+> 本文内容由[ITunes版本歷史](https://zh.wikipedia.org/wiki/ITunes版本歷史)转换而来。
+
+
 [ITunes_12.2_logo.png](https://zh.wikipedia.org/wiki/File:ITunes_12.2_logo.png "fig:ITunes_12.2_logo.png")
 
 ## Mac OS 9 / Mac OS X

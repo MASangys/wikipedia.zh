@@ -1,3 +1,6 @@
+> 本文内容由[峨山龍 \(Eshanosaurus\)](https://zh.wikipedia.org/wiki/峨山龍_\(Eshanosaurus\))转换而来。
+
+
 **峨山龍屬**（[學名](../Page/學名.md "wikilink")：**，意為「[峨山蜥蜴](https://zh.wikipedia.org/wiki/峨山彝族自治縣 "wikilink")」）是[鐮刀龍下目](https://zh.wikipedia.org/wiki/鐮刀龍下目 "wikilink")[恐龍的一](https://zh.wikipedia.org/wiki/恐龍 "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")。因為目前只發現一塊不完整的[下頜骨](https://zh.wikipedia.org/wiki/下頜骨 "wikilink")，所以對牠的研究甚少。牠們的[化石](../Page/化石.md "wikilink")發現於[中國](../Page/中國.md "wikilink")[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")[峨山的](https://zh.wikipedia.org/wiki/峨山彝族自治縣 "wikilink")[下祿豐組地層](https://zh.wikipedia.org/wiki/下祿豐組 "wikilink")，年代屬於[侏羅紀早期](https://zh.wikipedia.org/wiki/侏羅紀 "wikilink")，估計全長約 2.7 公尺，體重 37 公斤，是已知最小的鐮刀龍類\[1\]。
 
 ## 發現與命名

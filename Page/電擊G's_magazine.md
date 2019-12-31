@@ -1,4 +1,4 @@
-> 本文内容由[電擊G\'s magazine](https://zh.wikipedia.org/wiki/電擊G\'s magazine)转换而来。
+> 本文内容由[電擊G\'s magazine](https://zh.wikipedia.org/wiki/電擊G\'s_magazine)转换而来。
 
 
 **電擊G's magazine**是由[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")（前[MediaWorks](../Page/MediaWorks.md "wikilink")）從1992年起發行的月刊[遊戲雜誌](https://zh.wikipedia.org/wiki/遊戲雜誌 "wikilink")。毎月30日發售。

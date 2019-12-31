@@ -1,4 +1,4 @@
-> 本文内容由[IE Tab](https://zh.wikipedia.org/wiki/IE Tab)转换而来。
+> 本文内容由[IE Tab](https://zh.wikipedia.org/wiki/IE_Tab)转换而来。
 
 
 **IE Tab** 是[网页浏览器](../Page/网页浏览器.md "wikilink")[Mozilla Firefox和](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google Chrome的一个](../Page/Google_Chrome.md "wikilink")[擴充套件](https://zh.wikipedia.org/wiki/Firefox擴充套件列表 "wikilink")，能实现在Firefox调用[Internet Explorer的](../Page/Internet_Explorer.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")浏览网页。

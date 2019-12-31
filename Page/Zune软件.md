@@ -1,3 +1,6 @@
+> 本文内容由[Zune软件](https://zh.wikipedia.org/wiki/Zune软件)转换而来。
+
+
 **Zune軟件**是一款已停用的微軟Windows媒體管理應用程序，可充當媒體播放器和媒體流服務器，也能用於與Zune、微軟Kin和Windows Phone 7的設備同步。
 
 2015年11月15日，Zune在線服務關閉，已被Windows Phone應用程序、微軟手機小幫手、Groove Music和Xbox Video取代\[1\]\[2\]\[3\]\[4\]\[5\]。

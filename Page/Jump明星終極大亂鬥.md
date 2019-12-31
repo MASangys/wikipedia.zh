@@ -1,3 +1,6 @@
+> 本文内容由[Jump明星終極大亂鬥](https://zh.wikipedia.org/wiki/Jump明星終極大亂鬥)转换而来。
+
+
 [任天堂DS](../Page/任天堂DS.md "wikilink")平台的一個[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，於2006年11月23日發行，為2005年8月8日發行的的繼承作品。
 
 此[電子遊戲集合了](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[日本](../Page/日本.md "wikilink")杂志《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》刊登的41部[漫畫中的角色](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，共305人。

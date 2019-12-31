@@ -1,4 +1,4 @@
-> 本文内容由[SD GUNDAM系列](https://zh.wikipedia.org/wiki/SD GUNDAM系列)转换而来。
+> 本文内容由[SD GUNDAM系列](https://zh.wikipedia.org/wiki/SD_GUNDAM系列)转换而来。
 
 
 **SD鋼彈**（Super Deformed Gundam）是指[鋼彈系列作品當中登場的機械與人物](../Page/GUNDAM系列作品.md "wikilink")，將其頭部誇張化，手腳縮小成為[二頭身比例的角色](https://zh.wikipedia.org/wiki/二頭身 "wikilink")，以及使用SD機械／人物所製作的商品群之總稱。

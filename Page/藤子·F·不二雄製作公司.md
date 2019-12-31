@@ -1,3 +1,6 @@
+> 本文内容由[藤子·F·不二雄製作公司](https://zh.wikipedia.org/wiki/藤子·F·不二雄製作公司)转换而来。
+
+
 **藤子·F·不二雄製作公司**，日文全名「****」（台灣[青文出版社](../Page/青文出版社.md "wikilink")譯為**藤子·F·不二雄創作公司**），是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")所創立的[漫畫製作公司](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，通稱「****」（藤子製作）。前代表[非執行董事會長是藤本正子](https://zh.wikipedia.org/wiki/非執行董事 "wikilink")，代表[執行董事社長是伊藤善章](https://zh.wikipedia.org/wiki/執行董事 "wikilink")（前[小學館製作董事](https://zh.wikipedia.org/wiki/小學館製作 "wikilink")）。
 
 ## 概要

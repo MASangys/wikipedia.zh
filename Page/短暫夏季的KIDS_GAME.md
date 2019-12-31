@@ -1,3 +1,6 @@
+> 本文内容由[短暫夏季的KIDS GAME](https://zh.wikipedia.org/wiki/短暫夏季的KIDS_GAME)转换而来。
+
+
 《**短暫夏季的KIDS GAME**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[赤松健](../Page/赤松健.md "wikilink")首次獲得[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")出版社[講談社刊載的短篇作品](https://zh.wikipedia.org/wiki/講談社 "wikilink")。1993年9月10日於講談社旗下的《[Magazine Fresh](https://zh.wikipedia.org/wiki/Magazine_Fresh "wikilink")》（）1993年9月號刊載，作者同時憑作品獲得新人獎。2001年5月20日，作品再度被刊載。
 
 ## 內容簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Java Desktop System](https://zh.wikipedia.org/wiki/Java_Desktop_System)转换而来。
+
+
 [Sun_microsystems_java_desktop.png](https://zh.wikipedia.org/wiki/File:Sun_microsystems_java_desktop.png "fig:Sun_microsystems_java_desktop.png") **Sun Java Desktop System**（**JDS**）是一個用於[昇陽的](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[Solaris](../Page/Solaris.md "wikilink")及其原來[Linux](../Page/Linux.md "wikilink")（Linux的支援於2006年5月30日中斷）\[1\] 的[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。
 
 JDS目的為提供一般電腦用戶一個熟悉（意即其外觀與[Microsoft Windows相似](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")）以及擁有一整套如[辦公軟體套裝](https://zh.wikipedia.org/wiki/辦公軟體套裝 "wikilink")、[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")、[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、日程表與即時訊息等辦公室生產力軟體的系統。

@@ -1,3 +1,6 @@
+> 本文内容由[SAP Web应用服务器](https://zh.wikipedia.org/wiki/SAP_Web应用服务器)转换而来。
+
+
 **Web应用服务器**（WAS或者Web AS）是[NetWeaver](../Page/NetWeaver.md "wikilink")解决方案的一个组件。在[SAP看来](../Page/SAP公司.md "wikilink")，web应用服务器是他们大部分产品运行的基础。
 
 ## 概览

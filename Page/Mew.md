@@ -1,3 +1,6 @@
+> 本文内容由[Mew](https://zh.wikipedia.org/wiki/Mew)转换而来。
+
+
 **海鷗樂團**（Mew）是來自[丹麥的](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[獨立搖滾](https://zh.wikipedia.org/wiki/獨立搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 歷史

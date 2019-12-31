@@ -1,3 +1,6 @@
+> 本文内容由[MUSIC 完美嘉音](https://zh.wikipedia.org/wiki/MUSIC_完美嘉音)转换而来。
+
+
 「**MUSIC 完美嘉音**」是中島美嘉於2005年3月9日發行的第三張原創專輯。
 
 ## 概述

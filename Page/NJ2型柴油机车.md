@@ -1,3 +1,6 @@
+> 本文内容由[NJ2型柴油机车](https://zh.wikipedia.org/wiki/NJ2型柴油机车)转换而来。
+
+
 **NJ2型柴油机车**是[中国铁路的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[美国](../Page/美国.md "wikilink")[通用电气公司设计制造](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")，专门用于担当[青藏铁路](../Page/青藏铁路.md "wikilink")[格尔木至](https://zh.wikipedia.org/wiki/格尔木 "wikilink")[拉萨区段客](https://zh.wikipedia.org/wiki/拉萨 "wikilink")、货运列车牵引任务，全数78台机车均配属[青藏铁路公司格尔木机务段](https://zh.wikipedia.org/wiki/青藏铁路公司 "wikilink")。NJ2型机车采用电子控制燃油喷射柴油机、交流传动技术，在空气稀薄的高原铁路沿线特殊的地理环境和气候条件下仍可具有较高可靠性和牵引性能。
 
 ## 发展历史

@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Project](https://zh.wikipedia.org/wiki/Microsoft Project)转换而来。
+> 本文内容由[Microsoft Project](https://zh.wikipedia.org/wiki/Microsoft_Project)转换而来。
 
 
 **Microsoft Project**（或MSP）是由[微軟開發銷售的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[项目管理軟件程式](https://zh.wikipedia.org/wiki/项目管理軟件 "wikilink")。軟件設計目的在於協助[项目經理發展](https://zh.wikipedia.org/wiki/項目經理 "wikilink")[計畫](https://zh.wikipedia.org/wiki/計畫 "wikilink")、為[任務分配](https://zh.wikipedia.org/wiki/任務 "wikilink")[資源](https://zh.wikipedia.org/wiki/資源 "wikilink")、跟蹤進度、管理[預算](../Page/預算.md "wikilink")和分析工作量。第一版微軟Project為微軟Project for [Windows 95](../Page/Windows_95.md "wikilink")，發布於1995年。

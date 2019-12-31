@@ -1,3 +1,6 @@
+> 本文内容由[BTR-40裝甲車](https://zh.wikipedia.org/wiki/BTR-40裝甲車)转换而来。
+
+
 **BTR-40**是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[GAZ的V](https://zh.wikipedia.org/wiki/GAZ "wikilink"). A. Dedkov在1950至1958年制造的[裝甲運兵車](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")。BTR解為*Bronetransporter*([俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：БТР，Бронетранспортер，[英文解作Armoured](https://zh.wikipedia.org/wiki/英文 "wikilink") Transporter)\[1\] 。
 
 BTR-40由[GAZ-63改進而成](https://zh.wikipedia.org/wiki/GAZ-63 "wikilink")，基本型裝有2道側門及1道尾門，可載1個駕駛員，1個指揮官，及8個士兵。

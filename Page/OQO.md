@@ -1,3 +1,6 @@
+> 本文内容由[OQO](https://zh.wikipedia.org/wiki/OQO)转换而来。
+
+
 **OQO**是一個的小型[UMPC製造商](https://zh.wikipedia.org/wiki/UMPC "wikilink")，其製品名為ultra Personal Computer (uPC)，是一種擁有[平板電腦](../Page/平板電腦.md "wikilink")機能、尺寸外型比[PDA略大的電腦](https://zh.wikipedia.org/wiki/PDA "wikilink")。根據[金氏世界紀錄大全](https://zh.wikipedia.org/wiki/金氏世界紀錄大全 "wikilink")"OQO"是最小型的全功能[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。OQO第一個小型筆記型電腦產品為OQO model 01。
 
 初時OQO model 01於[原型](../Page/原型.md "wikilink")機亮相多年前發表以致很多人稱其為[霧件](../Page/霧件.md "wikilink")直至最終於2004年後期發售。該電腦預載[Windows XP](../Page/Windows_XP.md "wikilink")（Home Edition或Professional版，Tablet PC Edition於model 01+發售後才能選擇）、擁有1 [GHz](https://zh.wikipedia.org/wiki/赫茲_\(單位\) "wikilink")[全美達處理器](https://zh.wikipedia.org/wiki/全美達處理器 "wikilink")、20 [GB硬碟及](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")256 [MB](https://zh.wikipedia.org/wiki/Megabyte "wikilink") [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，包含了[USB](../Page/USB.md "wikilink") 1.1、[FireWire 400](https://zh.wikipedia.org/wiki/FireWire "wikilink")、耳機接口、內置麥克風、整合[802.11b無線連接與](https://zh.wikipedia.org/wiki/802.11b "wikilink")[藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，使用配合磁性筆的800x480磁性輕觸式[Transflective](https://zh.wikipedia.org/wiki/Transflective "wikilink") LCD屏幕，零售運送於2004年10月14日開始。

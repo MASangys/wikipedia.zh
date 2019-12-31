@@ -1,3 +1,6 @@
+> 本文内容由[Windows Nashville](https://zh.wikipedia.org/wiki/Windows_Nashville)转换而来。
+
+
 **Windows Nashville**是一个被取消的操作系统的开发代号。此操作系统原定于1996年上市，作为[Windows 95的一个升级版本](../Page/Windows_95.md "wikilink")。对于Windows 95用户来说，Nashville是一个介于Windows 95与下一个主要版本的Windows Memphis之间的升级\[1\]；因为推出时间介于Windows 95与[Windows 98之间](../Page/Windows_98.md "wikilink")，Nashville有时也被称为Windows 96\[2\]。
 
 微软曾声称会在Nashville的桌面添加基于[Internet Explorer 3浏览器](../Page/Internet_Explorer_3.md "wikilink")（在Nashville之前几个月推出）的Internet整合功能。引人注目的功能包括资源管理器与网页浏览器的结合、以[Internet Explorer的](../Page/Internet_Explorer.md "wikilink")[ActiveX](../Page/ActiveX.md "wikilink")技术正确地打开微软[Office文件以及直接使用动态网页作为桌面背景从而取代静态图片桌面背景的功能](../Page/Microsoft_Office.md "wikilink")。

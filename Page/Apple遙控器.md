@@ -1,3 +1,6 @@
+> 本文内容由[Apple遙控器](https://zh.wikipedia.org/wiki/Apple遙控器)转换而来。
+
+
 **Apple TV Remote**（又稱：**Siri Remote**，前稱：**Apple Remote**）是[蘋果公司為運行](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[tvOS裝置開發的](https://zh.wikipedia.org/wiki/tvOS "wikilink")[紅外線](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[遙控器](https://zh.wikipedia.org/wiki/遙控器 "wikilink")，于2005年10月12日由該公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[斯蒂夫·乔布斯正式发布](https://zh.wikipedia.org/wiki/斯蒂夫·乔布斯 "wikilink")，外形上类似于第一代[iPod shuffle](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")，只有六个按钮，分别是“菜单”、“播放／停止”、音量大、音量小、“上一个／倒退”、“下一个／快进”。
 
 苹果遥控器原本设计是配合[iMac上](https://zh.wikipedia.org/wiki/iMac "wikilink")[Front Row使用的](../Page/Front_Row.md "wikilink")。2006年1月10日，苹果公司又发布了支持苹果遥控器的[MacBook Pro](../Page/MacBook_Pro.md "wikilink")。2006年2月26日，支持苹果遥控器的[Mac mini发布](https://zh.wikipedia.org/wiki/Mac_mini "wikilink")。

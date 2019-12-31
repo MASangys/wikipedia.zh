@@ -1,3 +1,6 @@
+> 本文内容由[Portal:三国/Tab 3](https://zh.wikipedia.org/wiki/Portal:三国/Tab_3)转换而来。
+
+
 {{/Header}}
 
 <table>

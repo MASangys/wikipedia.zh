@@ -1,3 +1,6 @@
+> 本文内容由[大犬座VY](https://zh.wikipedia.org/wiki/大犬座VY)转换而来。
+
+
 **大犬座VY**（**VY Canis Majoris**，VY CMa）是一顆位於[大犬座](../Page/大犬座.md "wikilink")的紅色[特超巨星](../Page/特超巨星.md "wikilink")，距離地球4900[光年](../Page/光年.md "wikilink")，[視星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")7.95。據推測，其質量約為30～40倍[太陽質量](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")，半徑約有1,420倍太陽半徑。犬座VY不僅巨大，[光度](../Page/光度.md "wikilink")也有太陽的50萬倍之多，是[光度最高的恆星之一](../Page/恆星光度列表.md "wikilink")，因此也被歸為[特超巨星](../Page/特超巨星.md "wikilink")。它和其他大部分出現在[聯星](../Page/聯星.md "wikilink")或[多重星系統中的特超巨星不同的是](../Page/恆星系統.md "wikilink")，它是單一恆星。大犬座VY同時也是變光週期約2000日的半規則變星。平均密度是5到10mg/m<sup>3</sup>。
 
 如果將大犬座VY放在[太陽系中心](https://zh.wikipedia.org/wiki/太陽系 "wikilink")，它的表面位置將會在[土星](../Page/土星.md "wikilink")軌道之外；不過也有天文學家認為該恆星半徑應是小得多，大約600倍的太陽半徑，在火星軌道之外\[1\]。

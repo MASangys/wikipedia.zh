@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM 0083角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM 0083角色列表)转换而来。
+> 本文内容由[機動戰士GUNDAM 0083角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083角色列表)转换而来。
 
 
 本文介紹在《[機動戰士GUNDAM 0083：Stardust Memory](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")》中登場的角色。

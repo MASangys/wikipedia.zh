@@ -1,3 +1,6 @@
+> 本文内容由[Now體育](https://zh.wikipedia.org/wiki/Now體育)转换而来。
+
+
 **Now體育**（前稱：Now寬頻電視體育平台；）是香港的一個頻道組合，早於2003年啟播時成立，當時只有足球頻道（頻道號碼：89）一條頻道，播放足球節目，後來加開足球頻道（頻道號碼：90至92），作分流足球賽事之用。2004年[香港有線電視](../Page/香港有線電視.md "wikilink")奪得[英超後](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")，now寬頻電視引入[ESPN](../Page/ESPN.md "wikilink")及[衛視體育台](../Page/衛視體育台.md "wikilink")。2006年起更設立歐聯自選服務。2007年開始播放Now Sports頻道，由[電訊盈科媒體](../Page/電訊盈科媒體.md "wikilink")負責營運和獨家提供四條體育頻道給予[now TV](https://zh.wikipedia.org/wiki/now_TV "wikilink")。
 
 ## 簡介

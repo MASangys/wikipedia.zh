@@ -1,3 +1,6 @@
+> 本文内容由[PM-63 Rak衝鋒槍](https://zh.wikipedia.org/wiki/PM-63_Rak衝鋒槍)转换而来。
+
+
 [Pm-63_w_akcji.jpg](https://zh.wikipedia.org/wiki/File:Pm-63_w_akcji.jpg "fig:Pm-63_w_akcji.jpg")
 
 **PM-63 Rak**（wz. 63 RAK）是[波蘭制造的小型](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。

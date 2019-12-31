@@ -1,4 +1,4 @@
-> 本文内容由[植物分類表 \(NCBI\)](https://zh.wikipedia.org/wiki/植物分類表 \(NCBI\))转换而来。
+> 本文内容由[植物分類表 \(NCBI\)](https://zh.wikipedia.org/wiki/植物分類表_\(NCBI\))转换而来。
 
 
 NCBI是[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")，其分类方法一般吸收了最新的科学进展，能被全世界的生物界所接受。

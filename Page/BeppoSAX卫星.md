@@ -1,3 +1,6 @@
+> 本文内容由[BeppoSAX卫星](https://zh.wikipedia.org/wiki/BeppoSAX卫星)转换而来。
+
+
 ****是一颗[意大利](../Page/意大利.md "wikilink")和[荷兰](../Page/荷兰.md "wikilink")合作研制的[X射线天文学](../Page/X射线天文学.md "wikilink")[人造衛星](../Page/人造衛星.md "wikilink")。这颗卫星的结构和控制系统是由多个意大利和荷兰公司制造的，其科学仪器则由意大利[国家研究委员会的研究所研制](https://zh.wikipedia.org/wiki/国家研究委员会 "wikilink")。卫星以意大利天文学家[朱塞佩·奥基亚利尼](../Page/朱塞佩·奥基亚利尼.md "wikilink")的昵称命名，是X射线天文卫星（）的缩写。
 
 的一个重要成就是辨认了许多与[伽玛射线暴](../Page/伽玛射线暴.md "wikilink")相关联的银河系外天体。

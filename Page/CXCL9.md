@@ -1,3 +1,6 @@
+> 本文内容由[CXCL9](https://zh.wikipedia.org/wiki/CXCL9)转换而来。
+
+
 **CXCL9**（）是一小分子的[细胞因子](../Page/细胞因子.md "wikilink")属于CXC[趋化因子](../Page/趋化因子.md "wikilink")家族，又被称作“干扰素伽玛诱导的单核细胞因子”（Monokine induced by gamma interferon, MIG）\[1\] 。CXCL9是[T细胞](../Page/T细胞.md "wikilink")趋化因子\[2\] 。[干扰素伽玛](../Page/干扰素伽玛.md "wikilink")诱导CXCL9的表达。人类的CXCL9与[CXCL10](../Page/CXCL10.md "wikilink")，[CXCL11](../Page/CXCL11.md "wikilink")的基因相邻聚集在第四染色体上\[3\] 。CXCL9，CXCL10, CXCL11结合趋化因子受体[CXCR3](../Page/CXCR3.md "wikilink")而起其细胞趋化作用\[4\]\[5\] 。
 
 ## 参见

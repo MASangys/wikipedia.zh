@@ -1,3 +1,6 @@
+> 本文内容由[Freedb](https://zh.wikipedia.org/wiki/Freedb)转换而来。
+
+
 **freedb**是一個[光碟](../Page/光碟.md "wikilink")音軌清單資料庫，所有內容均以[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，最初基於現時為專有軟體的[光碟資料庫](../Page/光碟資料庫.md "wikilink")（下簡稱CDDB）。至2006年4月24日為止該資料庫只收錄了少於200萬張光碟的資料\[1\]。要透過[互聯網尋找光碟資訊](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，客戶端程式會計算一個近乎唯一的光碟識別號然後查詢資料庫，如資料庫中收錄了該光碟的資料客戶端程式可接收及顯示歌手、專輯標題、軌道清單與一些額外的資訊。
 
 ## 緣由

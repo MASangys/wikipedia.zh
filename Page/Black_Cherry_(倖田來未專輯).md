@@ -1,3 +1,6 @@
+> 本文内容由[Black Cherry \(倖田來未專輯\)](https://zh.wikipedia.org/wiki/Black_Cherry_\(倖田來未專輯\))转换而来。
+
+
 《**Black Cherry**》(黑色櫻桃)是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第5張原創專輯，收錄《[戀愛花蕾](../Page/戀愛花蕾.md "wikilink")》、《[4 hot wave 熱浪四射](https://zh.wikipedia.org/wiki/4_hot_wave "wikilink")》、《[悲夢之歌/我倆...](https://zh.wikipedia.org/wiki/悲夢之歌/我倆... "wikilink")》、《[Cherry Girl/命運](https://zh.wikipedia.org/wiki/Cherry_Girl/命運 "wikilink")》以及與EXILE合唱的《[WON'T BE LONG](../Page/WON'T_BE_LONG.md "wikilink")》之改編版等5張單曲。
 
 此張專輯銷售首週便空降公信榜冠軍，且佔據冠軍達4週，銷量突破100萬張，打平日本樂壇睽違6年3個月的紀錄。而此張專輯是倖田來未至目前銷售成績最好的一張原創專輯，由於收錄多張冠軍單曲，使這張專輯的銷售更加可觀。而先發單曲《Cherry Girl / 命運》單曲於此專輯發行前不久推出，使得倖田來未的作品同時登上公信榜單曲與專輯榜單。

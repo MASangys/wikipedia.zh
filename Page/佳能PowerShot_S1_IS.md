@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot S1 IS](https://zh.wikipedia.org/wiki/佳能PowerShot_S1_IS)转换而来。
+
+
 **[佳能](../Page/佳能.md "wikilink") PowerShot S1 IS**这部320万像素的[数码相机](../Page/数码相机.md "wikilink")发布于2004年2月9日，它是佳能长焦相机类别中的第二部相机，整合有10倍[光学变焦镜头和](https://zh.wikipedia.org/wiki/光学变焦镜头 "wikilink")[IS影像稳定系统](https://zh.wikipedia.org/wiki/IS影像稳定系统 "wikilink")。它的前一个型号是[Canon PowerShot Pro90一部也拥有](https://zh.wikipedia.org/wiki/Canon_PowerShot_Pro90 "wikilink")10倍光学变焦镜头和IS影像稳定系统的价值1500美元的数码单反相机，而且只有260万像素。
 
 The PowerShot S1 IS保留了一些源自于佳能[G 系列相机的设计特点](https://zh.wikipedia.org/wiki/Canon_PowerShot_G "wikilink")，不过机身主要由两种色调的银色塑料和一些金属以圆角勾勒出来。它是第一部能够提供30帧每秒VGA分辨率画质短片的相机，不过文件大小被限制在1GB（虽然能够生成多个1GB大小的文件）。 由于感光元件的区别，没有一架[数码单反相机能够拍摄短片](https://zh.wikipedia.org/wiki/数码单反相机 "wikilink")。

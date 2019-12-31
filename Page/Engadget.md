@@ -1,3 +1,6 @@
+> 本文内容由[Engadget](https://zh.wikipedia.org/wiki/Engadget)转换而来。
+
+
 **Engadget**是一個關於消費電子產品的流行科技[網誌](../Page/網誌.md "wikilink")與[播客](../Page/播客.md "wikilink")。該網誌曾贏得数個獎項。現時Engadget擁有九個不同網站，全都以各自的員工同時地運作，以各自的語言覆蓋全球不同地方的科技新聞。美國的Engadget網站於2006年8月25日發出第 [20,000個新聞](http://www.engadget.com/2006/08/25/20-000-posts-yup-20-000-posts/)。
 
 ## 創立與成員

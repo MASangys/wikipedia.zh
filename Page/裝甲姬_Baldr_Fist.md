@@ -1,3 +1,6 @@
+> 本文内容由[裝甲姬 Baldr Fist](https://zh.wikipedia.org/wiki/裝甲姬_Baldr_Fist)转换而来。
+
+
 《**裝甲姬 Baldr Fist**》是[戲畫TEAM](../Page/戲畫_\(遊戲品牌\).md "wikilink") BALDRHEAD小組製作的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險](../Page/戀愛遊戲.md "wikilink")+[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第二作，世界觀的設定是上一作《[BALDRHEAD 武裝金融外傳](../Page/BALDRHEAD_武裝金融外傳.md "wikilink")》的兩年前。於1999年12月10日發售，使用平台是[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
 動作遊戲系統方面，在當年的十八禁遊戲算是上作，但故事劇本被批評為十分薄弱。

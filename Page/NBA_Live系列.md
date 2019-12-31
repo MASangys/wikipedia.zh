@@ -1,3 +1,6 @@
+> 本文内容由[NBA Live系列](https://zh.wikipedia.org/wiki/NBA_Live系列)转换而来。
+
+
 **NBA Live**是一款以[NBA](../Page/NBA.md "wikilink")為主題的[電子遊戲系列](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。由[EA加拿大研发](https://zh.wikipedia.org/wiki/EA "wikilink")，EA SPORTS发行。主要的競爭者有[Take-Two的](../Page/Take-Two_Interactive.md "wikilink")[NBA 2K系列](../Page/NBA_2K系列.md "wikilink")。
 
 ## 歷史

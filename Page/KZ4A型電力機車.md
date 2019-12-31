@@ -1,3 +1,6 @@
+> 本文内容由[KZ4A型電力機車](https://zh.wikipedia.org/wiki/KZ4A型電力機車)转换而来。
+
+
 **KZ4A型電力機車**是[哈薩克斯坦国家铁路的](https://zh.wikipedia.org/wiki/哈薩克斯坦国家铁路 "wikilink")[電力機車](../Page/電力機車.md "wikilink")車款之一，由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[南车株洲电力机车有限公司生产](https://zh.wikipedia.org/wiki/南车株洲电力机车有限公司 "wikilink")。KZ4A型电力机车为交流传动的高速干线客运用电力机车，机车持续功率为4800千瓦，最高速度为210公里/小时；首5台KZ4A型机车采用[南车株洲电力机车研究所开发的交流传动系统](https://zh.wikipedia.org/wiki/南车株洲电力机车研究所 "wikilink")，而其余22台KZ4A<sup>C</sup>型机车改为采用[西门子公司](../Page/西门子公司.md "wikilink")的交流传动系统。
 
 ## 发展历史

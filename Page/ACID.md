@@ -1,3 +1,6 @@
+> 本文内容由[ACID](https://zh.wikipedia.org/wiki/ACID)转换而来。
+
+
 **ACID**，是指[数据库管理系统](../Page/数据库管理系统.md "wikilink")（[DBMS](https://zh.wikipedia.org/wiki/DBMS "wikilink")）在寫入或更新資料的過程中，為保證[事务](../Page/数据库事务.md "wikilink")（）是正確可靠的，所必須具備的四个特性：（atomicity，或稱不可分割性）、（consistency）、[隔离性](https://zh.wikipedia.org/wiki/隔离性 "wikilink")（isolation，又称独立性）、（durability）。
 
 在数据库系统中，一个事务是指：由一系列数据库操作组成的一个完整的逻辑过程。例如银行转帐，从原账户扣除金额，以及向目标账户添加金额，这两个数据库操作的总和，构成一个完整的逻辑过程，不可拆分。这个过程被称为一个事务，具有ACID特性。ACID的概念在[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/IEC 10026-1:1992文件的第四段內有所說明。

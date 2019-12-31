@@ -1,3 +1,6 @@
+> 本文内容由[Secret \(倖田來未專輯\)](https://zh.wikipedia.org/wiki/Secret_\(倖田來未專輯\))转换而来。
+
+
 《**secret**》（台譯：**倖感機密**）是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第四張原創專輯，收錄《[LOVE\&HONEY](../Page/LOVE&HONEY.md "wikilink")》《[Chase](https://zh.wikipedia.org/wiki/Chase_\(倖田來未單曲\) "wikilink")》《[奇蹟](https://zh.wikipedia.org/wiki/奇蹟_\(倖田來未單曲\) "wikilink")》《[hands](https://zh.wikipedia.org/wiki/hands "wikilink")》《[Hot Stuff feat. KM-MARKIT](../Page/Hot_Stuff_feat._KM-MARKIT.md "wikilink")》等五張單曲，因此張專輯銷量達50萬張，使倖田來未在日本女歌手中的知名度大增，而此張專輯也曾達到公信榜第三名，倖田來未也因這張專輯的大賣而舉辦了第一次限定演唱會，可見這張專輯的銷量之好，使倖田來未衝上歌壇生涯第一個高峰。而在這張專輯歌詞內頁中極性感的圖片，也更堅定了倖田來未的「性感歌姬」地位。
 
 ## 發行版本

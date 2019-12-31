@@ -1,3 +1,6 @@
+> 本文内容由[雙生兒 \(EP\)](https://zh.wikipedia.org/wiki/雙生兒_\(EP\))转换而来。
+
+
 《**雙生兒**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的粵語音樂專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2002年1月29日在[香港](../Page/香港.md "wikilink")發行，專輯《双生儿》CD+VCD收录了‘着睡衣跳舞’及贺年歌‘孖宝668’等5首新歌。而VCD上就有‘孖宝668’及‘爱情当入樽’的MTV。在‘孖宝668’的MTV中，Twins以全新搞笑形象示人，阿sa 更反串男角，和风骚入骨的阿嬌向大家拜年。憑《大浪漫主義》及《孖寶668》兩曲廣受[香港](../Page/香港.md "wikilink")欢迎。
 
 ## 曲目

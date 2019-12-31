@@ -1,3 +1,6 @@
+> 本文内容由[Rurutia](https://zh.wikipedia.org/wiki/Rurutia)转换而来。
+
+
 **Rurutia**（），日本女歌手。現所屬事務所為CRAFTSMAN MUSIC。作為一名歌手，她並沒有公開自己的履歷；她輕柔的聲音、富情感的音樂，無形中形成了獨一和神秘的魅力。 藝名Rurutia是自身的[基督教](../Page/基督教.md "wikilink")[洗禮名](https://zh.wikipedia.org/wiki/洗禮名 "wikilink")\[1\] 由雙親的朋友，出身於[大溪地島的神父命名](https://zh.wikipedia.org/wiki/大溪地島 "wikilink")\[2\]。在[大溪地語](../Page/大溪地語.md "wikilink")的意思就是「下雨」（rorotea）但是由於那裡雨水稀少，所以就帶上了「恩惠之雨」的含義。\[3\]
 
 ## 音樂性

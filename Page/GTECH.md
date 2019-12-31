@@ -1,3 +1,6 @@
+> 本文内容由[GTECH](https://zh.wikipedia.org/wiki/GTECH)转换而来。
+
+
 **GTECH Corporation**，公司設在[普洛威頓斯](https://zh.wikipedia.org/wiki/普罗维登斯_\(罗德岛州\) "wikilink")，[羅德島州](../Page/羅德島州.md "wikilink")，於2006年8月29日在[美國成為全資附屬公司](https://zh.wikipedia.org/wiki/美國 "wikilink")**Lottomatica, S.p.A.** Lottomatica是持有意大利全國彩票執照；而De Agostini Group，一個意大利私人控股公司即Lottomatica的大股東。合併後的GTECH和Lottomatica現金交易價值約為4.7億元，按全面攤薄計算，包括假定債務。GTECH管理多個國家[博彩在美國](https://zh.wikipedia.org/wiki/博彩 "wikilink")，也有合同管理地方和國家獎券[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[拉丁美洲](../Page/拉丁美洲.md "wikilink")的[加勒比海](../Page/加勒比海.md "wikilink")與[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。它具有爭議的歷史，而是與[台北富邦商業銀行](../Page/台北富邦商業銀行.md "wikilink")，正在拼一個申辦體育博彩[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 GTECH的股票符號對[紐約證券交易所是維護](https://zh.wikipedia.org/wiki/紐約證券交易所 "wikilink")'GTK'但是股票已上市，在美國和Lottomatica, S.p.A.已刊載於Mercato Telematico Azionario在米蘭'LTO'維護，並自2001年5月17日管理Borsa Italiana.

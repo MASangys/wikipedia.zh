@@ -1,3 +1,6 @@
+> 本文内容由[Portal:新加坡/Opentask](https://zh.wikipedia.org/wiki/Portal:新加坡/Opentask)转换而来。
+
+
 [Nuvola_apps_korganizer.svg](https://zh.wikipedia.org/wiki/File:Nuvola_apps_korganizer.svg "fig:Nuvola_apps_korganizer.svg")
 
   - 学习[如何编辑维基百科](https://zh.wikipedia.org/wiki/维基百科:新手入门/主页 "wikilink")。

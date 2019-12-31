@@ -1,4 +1,4 @@
-> 本文内容由[Maggie Q](https://zh.wikipedia.org/wiki/Maggie Q)转换而来。
+> 本文内容由[Maggie Q](https://zh.wikipedia.org/wiki/Maggie_Q)转换而来。
 
 
 **Maggie Q**（，；），父亲是[爱尔兰裔美国人](https://zh.wikipedia.org/wiki/爱尔兰裔美国人 "wikilink")，母亲是[越南人](https://zh.wikipedia.org/wiki/越南人 "wikilink")，生于[夏威夷州](../Page/夏威夷州.md "wikilink")[檀香山](../Page/檀香山.md "wikilink")，[香港](../Page/香港.md "wikilink")[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")、女演员，成名后已回美發展，现为一线美剧演员。

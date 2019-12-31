@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵B線](https://zh.wikipedia.org/wiki/紐約地鐵B線)转换而来。
+
+
 **B線第六大道快車**（），又稱**紐約地鐵B線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線使用[IND第六大道線](../Page/IND第六大道線.md "wikilink")通過[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為橙色\[1\]。
 
 B線只在平日日間營運，來往[曼哈頓](../Page/曼哈頓.md "wikilink")[哈萊姆區](https://zh.wikipedia.org/wiki/哈萊姆區 "wikilink")[145街與](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[布萊頓海灘](https://zh.wikipedia.org/wiki/布萊頓海灘車站_\(BMT布萊頓線\) "wikilink")，在曼哈頓以快車營運（[34街及](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(IND第六大道線\) "wikilink")[西四街](https://zh.wikipedia.org/wiki/西四街車站_\(IND第六大道線\) "wikilink")），在布魯克林和曼哈頓[145街與](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")[59街以慢車營運](https://zh.wikipedia.org/wiki/59街-哥倫布圓環車站_\(IND第八大道線\) "wikilink")。繁忙時段，列車延長至超過145街，以[布朗克斯](../Page/布朗克斯.md "wikilink")[貝德福德公園林蔭路](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路車站_\(IND匯集線\) "wikilink")，在布朗克斯以慢車營運。

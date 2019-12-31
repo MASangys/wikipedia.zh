@@ -1,3 +1,6 @@
+> 本文内容由[MY STORY](https://zh.wikipedia.org/wiki/MY_STORY)转换而来。
+
+
 《**MY STORY**》（私物語）為日本歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第六張專輯，2004年12月15日於日本發售。
 
 ## 說明

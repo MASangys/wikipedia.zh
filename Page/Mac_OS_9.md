@@ -1,4 +1,4 @@
-> 本文内容由[Mac OS 9](https://zh.wikipedia.org/wiki/Mac OS 9)转换而来。
+> 本文内容由[Mac OS 9](https://zh.wikipedia.org/wiki/Mac_OS_9)转换而来。
 
 
 **Mac OS 9**是[蘋果電腦於](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1999年發佈的作業系統，一共發佈了7個版本，直到2001年末發佈的Mac OS 9.2.2為止。

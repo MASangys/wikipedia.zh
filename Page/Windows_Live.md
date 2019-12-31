@@ -1,4 +1,4 @@
-> 本文内容由[Windows Live](https://zh.wikipedia.org/wiki/Windows Live)转换而来。
+> 本文内容由[Windows Live](https://zh.wikipedia.org/wiki/Windows_Live)转换而来。
 
 
 [Mslivelogo.png](https://zh.wikipedia.org/wiki/File:Mslivelogo.png "fig:Mslivelogo.png")

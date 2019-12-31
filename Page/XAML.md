@@ -1,3 +1,6 @@
+> 本文内容由[XAML](https://zh.wikipedia.org/wiki/XAML)转换而来。
+
+
 [Wpfapp.PNG](https://zh.wikipedia.org/wiki/File:Wpfapp.PNG "fig:Wpfapp.PNG")  **XAML**（E**x**tensible **A**pplication **M**arkup **L**anguage )是[Windows Presentation Foundation](../Page/Windows_Presentation_Foundation.md "wikilink")（WPF）的一部分，是[微软](../Page/微软.md "wikilink")开发的一種基于[XML](../Page/XML.md "wikilink")、基于声明，用于初始化结构化值和对象的[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[描述語言](https://zh.wikipedia.org/wiki/描述語言 "wikilink")，它有著[HTML](../Page/HTML.md "wikilink")的外觀，又揉合了XML語法的本質，例如：可以使用**<Button>**標籤設定按鈕（Button）。它類似[Linux](../Page/Linux.md "wikilink")平台下的glade。至於WinFX [XAML Browser Application](../Page/XAML_Browser_Application.md "wikilink")（XBAP）是用XAML作界面描述，在瀏覽器中執行的程式，可取代過去的[ActiveX](../Page/ActiveX.md "wikilink")、[Java Applet](https://zh.wikipedia.org/wiki/Java_Applet "wikilink")、[Flash](../Page/Adobe_Flash_Player.md "wikilink")。
 
 XAML本質上屬於一種[.NET编程语言](https://zh.wikipedia.org/wiki/.NET "wikilink")，屬於[通用語言運行庫](../Page/通用語言運行庫.md "wikilink")（Common Language Runtime），同[C\#](../Page/C♯.md "wikilink")、[VB.NET等同](https://zh.wikipedia.org/wiki/VB.NET "wikilink")。與HTML類似，特点是用來描述使用者介面。XAML的语法格式为：\<Application... /\>，Application是必備的基本元素。XAML可以定義2D和3D物件、旋轉（rotations）、動畫（animations），以及各式各樣的效果。

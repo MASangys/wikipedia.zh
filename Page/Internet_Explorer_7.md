@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer 7](https://zh.wikipedia.org/wiki/Internet_Explorer_7)转换而来。
+
+
 **Windows Internet Explorer 7**（简称**IE7**）是[微軟所開發的一套使用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，它是[Internet Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於2006年10月18日首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")，之後就沒有再發行過次要更新版本了。它是Internet Explorer自[Internet Explorer 6版本推出五年以來的一次重大版本更新](../Page/Internet_Explorer_6.md "wikilink")。
 
 它內建於[Windows Vista以及](../Page/Windows_Vista.md "wikilink")[Windows Server 2008來當做預設的網頁瀏覽器](../Page/Windows_Server_2008.md "wikilink")，同時也提供給[Windows XP SP2和](../Page/Windows_XP.md "wikilink")[Windows Server 2003當作取代舊版Internet](../Page/Windows_Server_2003.md "wikilink") Explorer的更新。自Internet Explorer 7起，不支援Windows XP SP1及更舊版本的Windows。

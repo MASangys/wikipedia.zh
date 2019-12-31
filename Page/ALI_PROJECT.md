@@ -1,3 +1,6 @@
+> 本文内容由[ALI PROJECT](https://zh.wikipedia.org/wiki/ALI_PROJECT)转换而来。
+
+
 **ALI PROJECT**（）是一個日本[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，相對於日本流行音樂中來說較為另類。通稱ALI PRO（）。
 
 ## 成員

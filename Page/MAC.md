@@ -1,3 +1,6 @@
+> 本文内容由[MAC](https://zh.wikipedia.org/wiki/MAC)转换而来。
+
+
 **Mac**或**MAC**可以指：
 
 ## 计算机

@@ -1,4 +1,4 @@
-> 本文内容由[Selling England by the Pound](https://zh.wikipedia.org/wiki/Selling England by the Pound)转换而来。
+> 本文内容由[Selling England by the Pound](https://zh.wikipedia.org/wiki/Selling_England_by_the_Pound)转换而来。
 
 
 《**Selling England by the Pound**》是前衛搖滾樂隊[創世紀樂團](../Page/創世紀樂團.md "wikilink")發行第五張專輯。

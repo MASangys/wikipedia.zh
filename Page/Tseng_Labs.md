@@ -1,4 +1,4 @@
-> 本文内容由[Tseng Labs](https://zh.wikipedia.org/wiki/Tseng Labs)转换而来。
+> 本文内容由[Tseng Labs](https://zh.wikipedia.org/wiki/Tseng_Labs)转换而来。
 
 
 **Tseng Laboratories, Inc.**（也稱為**Tseng Labs**或**TLI**，在台灣過去稱為**曾氏**）是一家研製[顯示晶片與](https://zh.wikipedia.org/wiki/顯示晶片 "wikilink")[IBM相容PC用控制晶片的公司](https://zh.wikipedia.org/wiki/IBM相容PC "wikilink")，其總部位在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[賓夕法尼亞州的](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[Newtown](https://zh.wikipedia.org/wiki/Newtown "wikilink")，該公司約在1980年代開始活躍，之後在1997年退出顯示、視訊、繪圖方面的業務。

@@ -1,3 +1,6 @@
+> 本文内容由[H级战列舰](https://zh.wikipedia.org/wiki/H级战列舰)转换而来。
+
+
 **H级战列舰**是[纳粹德国海军在二战时期计划建造的最高级别的战列舰](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")。
 
 ## 介紹

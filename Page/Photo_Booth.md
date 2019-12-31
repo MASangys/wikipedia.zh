@@ -1,3 +1,6 @@
+> 本文内容由[Photo Booth](https://zh.wikipedia.org/wiki/Photo_Booth)转换而来。
+
+
 **Photo Booth** 是[苹果电脑公司开发的运行在](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[Mac OS X与](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[iOS上的一个小型](https://zh.wikipedia.org/wiki/iOS "wikilink")[应用程序](../Page/应用程序.md "wikilink")，主要功能是通过摄像头[iSight进行数码拍照](https://zh.wikipedia.org/wiki/iSight "wikilink")。它有17种内置特效作用于拍摄的照片上。该程序内置于[iMac G5](https://zh.wikipedia.org/wiki/iMac_G5 "wikilink")，[iMac](https://zh.wikipedia.org/wiki/iMac "wikilink")，[MacBook](../Page/MacBook.md "wikilink")，[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[MacBook Pro](../Page/MacBook_Pro.md "wikilink") [个人电脑](../Page/个人电脑.md "wikilink")上，这些机器均有内置的iSight摄像头来拍照。 Photo Booth 已成為 [苹果电脑公司的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")——[Mac OS X v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink") 花豹(Leopard) 及iOS4以後版本的一部份。
 
 该程序可以与[即时通讯程序联动](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，如OS X系统内置的[iMessage软件](https://zh.wikipedia.org/wiki/iMessage "wikilink")，或[Adium](../Page/Adium.md "wikilink")。

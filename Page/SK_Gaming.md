@@ -1,4 +1,4 @@
-> 本文内容由[SK Gaming](https://zh.wikipedia.org/wiki/SK Gaming)转换而来。
+> 本文内容由[SK Gaming](https://zh.wikipedia.org/wiki/SK_Gaming)转换而来。
 
 
 **SK Gaming**是著名的国际[电子竞技](../Page/电子竞技.md "wikilink")组织，麾下拥有擅长不同游戏的游戏高手。

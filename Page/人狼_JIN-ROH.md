@@ -1,3 +1,6 @@
+> 本文内容由[人狼 JIN-ROH](https://zh.wikipedia.org/wiki/人狼_JIN-ROH)转换而来。
+
+
 《**人狼 JIN-ROH**》是[Production I.G所製作](../Page/Production_I.G.md "wikilink")，[沖浦啟之](../Page/沖浦啟之.md "wikilink")執導的[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，於2000年6月3日上映，片長98分鐘。
 
 ## 作品概要

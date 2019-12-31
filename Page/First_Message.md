@@ -1,3 +1,6 @@
+> 本文内容由[First Message](https://zh.wikipedia.org/wiki/First_Message)转换而来。
+
+
 《**First Message**》（初次告白）為日本歌手[絢香](../Page/絢香.md "wikilink")第一張原創專輯，於2006年11月1日發行。在日本[公信榜最高的紀錄為第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")1名。
 
 ## 解說

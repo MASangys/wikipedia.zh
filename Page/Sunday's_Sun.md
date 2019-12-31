@@ -1,3 +1,6 @@
+> 本文内容由[Sunday\'s Sun](https://zh.wikipedia.org/wiki/Sunday\'s_Sun)转换而来。
+
+
 [JP-Izumi001.JPG](https://zh.wikipedia.org/wiki/File:JP-Izumi001.JPG "fig:JP-Izumi001.JPG")[和泉市](../Page/和泉市.md "wikilink")[萬町](https://zh.wikipedia.org/wiki/萬町_\(和泉市\) "wikilink")980-1\]\] [JP-Izumiotsu001.JPG](https://zh.wikipedia.org/wiki/File:JP-Izumiotsu001.JPG "fig:JP-Izumiotsu001.JPG")[東豐中町](https://zh.wikipedia.org/wiki/東豐中町 "wikilink")2-2-7\]\] **Sunday's Sun股份有限公司**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")一家起初以同一名字經營連鎖[家庭式餐館](https://zh.wikipedia.org/wiki/家庭式餐館 "wikilink")，後來發展成經營各類[餐館的](https://zh.wikipedia.org/wiki/餐館 "wikilink")[餐飲](https://zh.wikipedia.org/wiki/餐飲業 "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")。目前為[Zensho](https://zh.wikipedia.org/wiki/Zensho "wikilink")（）的[連結子公司](https://zh.wikipedia.org/wiki/連結子公司 "wikilink")。[總社](../Page/總社.md "wikilink")位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")。
 
 公司主要在[中國地方](https://zh.wikipedia.org/wiki/中國地方 "wikilink")、[首都圈](../Page/首都圈.md "wikilink")、[近畿圈等地發展](../Page/近畿地方.md "wikilink")。除了Sunday's Sun外，集團還開展了[意大利粉餐廳](../Page/意式麵食.md "wikilink")「**Jolly Pasta**（）」、意式餐廳「**Fracasso**（）」等業務。集團一度傾向於以Jolly Pasta為核心的業務型態，然而近年來，公司透過改裝現有店鋪來把業務進一步多元化發展。

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Edittools.js](https://zh.wikipedia.org/wiki/MediaWiki:Edittools.js)转换而来。
+
+
 //加載本腳本時，請預先判斷/w/skins/common/edit.js已加載。
 
 /\*\*

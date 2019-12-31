@@ -1,3 +1,6 @@
+> 本文内容由[YTV](https://zh.wikipedia.org/wiki/YTV)转换而来。
+
+
 **YTV**是[加拿大](../Page/加拿大.md "wikilink")一个甲類英語[收費電視](https://zh.wikipedia.org/wiki/收費電視 "wikilink")[頻道](https://zh.wikipedia.org/wiki/电视频道 "wikilink")，母公司為[康力斯娛樂](../Page/康力斯娛樂.md "wikilink")，目標觀眾群為少年儿童及其家庭，播放的節目包括《[反斗家族](../Page/反斗家族.md "wikilink")》、《[海綿寶寶](../Page/海綿寶寶.md "wikilink")》和《[銀河探險隊](../Page/銀河探險隊.md "wikilink")》等。YTV的訊號分為加東版和加西版，後者的節目較前者順延三小時播出，以配合東岸和西岸的三小時時差。截至2013年，加拿大全國逾1100萬戶可接收此頻道\[1\]。
 
 ## 歷史

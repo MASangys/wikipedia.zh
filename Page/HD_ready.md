@@ -1,4 +1,4 @@
-> 本文内容由[HD ready](https://zh.wikipedia.org/wiki/HD ready)转换而来。
+> 本文内容由[HD ready](https://zh.wikipedia.org/wiki/HD_ready)转换而来。
 
 
 \-{H|zh-hans:支持;zh-hant:支援}- [HD_ready.jpg](https://zh.wikipedia.org/wiki/File:HD_ready.jpg "fig:HD_ready.jpg") **HD ready**是[歐洲資訊通訊技術協會](https://zh.wikipedia.org/wiki/歐洲資訊通訊技術協會 "wikilink")（EICTA）在2004年1月宣佈的[標準](https://zh.wikipedia.org/wiki/標準 "wikilink")。他們提出了這標準，是為了區別出[顯示設備的](https://zh.wikipedia.org/wiki/顯示設備 "wikilink")[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")，能夠處理和顯示[高清晰度電視的訊號](https://zh.wikipedia.org/wiki/高清晰度電視 "wikilink")。

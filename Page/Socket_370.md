@@ -1,4 +1,4 @@
-> 本文内容由[Socket 370](https://zh.wikipedia.org/wiki/Socket 370)转换而来。
+> 本文内容由[Socket 370](https://zh.wikipedia.org/wiki/Socket_370)转换而来。
 
 
 **Socket 370**為[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Pentium III](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")、[Celeron及](https://zh.wikipedia.org/wiki/Celeron "wikilink") [VIA](https://zh.wikipedia.org/wiki/VIA "wikilink") [Cyrix III](../Page/Cyrix.md "wikilink")／[C3](../Page/VIA_C3.md "wikilink") 使用的插座。它的出現，取代舊有的[Slot 1插槽設計](../Page/Slot_1.md "wikilink")。"370"代表插座上有370個針孔，現代的Socket 370主要用於[Mini-ITX](../Page/Mini-ITX.md "wikilink")及[嵌入式系統上](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。由於Socket 370與Slot1一部份晶片組共用（如440BX），因此有廠商推出轉接卡使Slot 1主機板也可使用Socket 370的CPU。

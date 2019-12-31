@@ -1,3 +1,6 @@
+> 本文内容由[阿尔本·W·巴克利](https://zh.wikipedia.org/wiki/阿尔本·W·巴克利)转换而来。
+
+
 **阿尔本·威廉·巴克利**（**Alben William Barkley**，），[美国](../Page/美国.md "wikilink")律师、政治家。
 
 曾任四屆美國[肯塔基州](../Page/肯塔基州.md "wikilink")[聯邦參議員](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")，在[1948年大选中作为](https://zh.wikipedia.org/wiki/1948年美国总统选举 "wikilink")[哈利·S·杜魯門的搭档参选并获胜利](https://zh.wikipedia.org/wiki/哈利·S·杜魯門 "wikilink")，1949年至1953年間出任第35任[美国副总统](../Page/美国副总统.md "wikilink")。

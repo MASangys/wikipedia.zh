@@ -1,3 +1,6 @@
+> 本文内容由[HB托尔斯港](https://zh.wikipedia.org/wiki/HB托尔斯港)转换而来。
+
+
 **HB拖錫雲**（）是[法罗群岛](../Page/法罗群岛.md "wikilink")历史最悠久的俱乐部之一，创建于1904年，球队设在首府[托尔斯港](https://zh.wikipedia.org/wiki/托尔斯港 "wikilink")。
 
 HB 的全称为****，意思为“港口足球俱乐部”。

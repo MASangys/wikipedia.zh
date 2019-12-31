@@ -1,3 +1,6 @@
+> 本文内容由[Garamond](https://zh.wikipedia.org/wiki/Garamond)转换而来。
+
+
 **Garamond**是一类西文[衬线字体的总称](https://zh.wikipedia.org/wiki/衬线字体 "wikilink")，也是**旧衬线体**的代表字体。这个名字源于[法国的一位铅字铸造师](https://zh.wikipedia.org/wiki/法国 "wikilink")[克洛德·加拉蒙](https://zh.wikipedia.org/wiki/克洛德·加拉蒙 "wikilink")。后来大部分被命名为Garamond的字体都是出自于另一位铅字铸造师——让·雅农（Jean Jannon）。Garamond和现在字体的直接关系可以从Sabon，Granjon和Adobe Garamond的衬线字中看出来。
 
 Garamond在16世纪40年代开始流行。最初是从[希腊字母](../Page/希腊字母.md "wikilink")字体中借鉴，为[法国国王](https://zh.wikipedia.org/wiki/法国 "wikilink")[弗朗索瓦一世制作拉丁字母字体](https://zh.wikipedia.org/wiki/弗朗索瓦一世 "wikilink")。后来法国的[法院使用Garamond的衬线版来印刷](https://zh.wikipedia.org/wiki/法院 "wikilink")，从此传向法国各地和整个[西欧](../Page/西欧.md "wikilink")。Garamond应该是从[阿尔杜斯·马努提乌斯](../Page/阿尔杜斯·马努提乌斯.md "wikilink")的印刷所里参照了Venetian旧体。Garamond的小写字母参照了弗朗索瓦一世的书记员Angelo Vergecio的手写体。由于Garamond并没有制作[斜体](https://zh.wikipedia.org/wiki/斜体 "wikilink")，因此[斜体和大部分现代字体是基于加拉蒙德的助手罗伯特](https://zh.wikipedia.org/wiki/斜体 "wikilink")·格兰迪昂（Robert Grandjon）的斜体版本制作的。

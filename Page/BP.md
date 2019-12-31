@@ -1,3 +1,6 @@
+> 本文内容由[BP](https://zh.wikipedia.org/wiki/BP)转换而来。
+
+
 **BP公眾有限公司**（），前稱英国石油（British Petroleum），是[世界](../Page/世界.md "wikilink")最大私營[石油](../Page/石油.md "wikilink")[公司](../Page/公司.md "wikilink")之一（即國際石油[七姊妹之一](https://zh.wikipedia.org/wiki/七姊妹_\(石油\) "wikilink")），也是世界前十大私營企業集團之一，2012年營業額達到3882.85億美元。該公司前身是創立於1908年的[英波石油公司](../Page/英伊石油公司.md "wikilink")（Anglo-Persian Oil Company），1954年改稱“英國石油公司”（British Petroleum）。該公司整合探油、探氣、煉油、儲油、售油、零售等營業領域。2001年，“BP”不再作為“British Petroleum”的縮寫，而成為公司正式名稱。在廣告上，該公司有時使用「超越石油」（Beyond Petroleum）來宣傳業務。
 
 ## 歷史

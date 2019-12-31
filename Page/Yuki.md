@@ -1,3 +1,6 @@
+> 本文内容由[Yuki](https://zh.wikipedia.org/wiki/Yuki)转换而来。
+
+
 **Yuki**（）是一個常見的[日語字詞](https://zh.wikipedia.org/wiki/日語 "wikilink")，通常用來作為[人名](https://zh.wikipedia.org/wiki/姓名 "wikilink")。
 
   - **[YUKI (歌手)](../Page/YUKI_\(歌手\).md "wikilink")**：[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")，日本已解散[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[JUDY AND MARY主唱](../Page/JUDY_AND_MARY.md "wikilink")。

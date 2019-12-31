@@ -1,3 +1,6 @@
+> 本文内容由[ZigBee](https://zh.wikipedia.org/wiki/ZigBee)转换而来。
+
+
 [Eazix_numbered.jpg](https://zh.wikipedia.org/wiki/File:Eazix_numbered.jpg "fig:Eazix_numbered.jpg") **ZigBee**，也称**紫蜂**\[1\]，是一種低速短距離傳輸的[無線網路協定](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，底層是採用[IEEE 802.15.4標準規範的](../Page/IEEE_802.md "wikilink")[媒體存取層與](https://zh.wikipedia.org/wiki/媒體存取控制 "wikilink")[實體層](https://zh.wikipedia.org/wiki/實體層 "wikilink")。主要特色有低速、低耗電、低成本、支援大量網路節點、支援多種[網路拓撲](https://zh.wikipedia.org/wiki/網路拓撲 "wikilink")、低复杂度、快速、可靠、安全。
 
 ## 發展歷程

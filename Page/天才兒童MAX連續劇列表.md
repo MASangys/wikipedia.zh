@@ -1,3 +1,6 @@
+> 本文内容由[天才兒童MAX連續劇列表](https://zh.wikipedia.org/wiki/天才兒童MAX連續劇列表)转换而来。
+
+
 **天才兒童MAX連續劇一覽(天才てれびくんドラマ一覧)**（てんさいてれびくんドラマいちらん）是[NHK教育電視台節目](https://zh.wikipedia.org/wiki/NHK教育電視台 "wikilink")《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》中播出的連續劇的一覽表。
 
 ## 転校生マオ(轉學生Mao)

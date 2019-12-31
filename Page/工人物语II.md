@@ -1,3 +1,6 @@
+> 本文内容由[工人物语II](https://zh.wikipedia.org/wiki/工人物语II)转换而来。
+
+
 **工人物语II** 是一款[即时战略](https://zh.wikipedia.org/wiki/即时战略 "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink"), 由[Blue Byte Software开发于](https://zh.wikipedia.org/wiki/Blue_Byte_Software "wikilink")1996年发行. 其gamplay与前作[工人物语及为相似](https://zh.wikipedia.org/wiki/工人物语 "wikilink")，虽是以罗马为主题且增强了画质.
 
 ## Gameplay

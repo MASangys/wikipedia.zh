@@ -1,3 +1,6 @@
+> 本文内容由[NHK日本国际传媒](https://zh.wikipedia.org/wiki/NHK日本国际传媒)转换而来。
+
+
 [NHK_World.svg](https://zh.wikipedia.org/wiki/File:NHK_World.svg "fig:NHK_World.svg") [nwlogo.gif](https://zh.wikipedia.org/wiki/File:nwlogo.gif "fig:nwlogo.gif")
 1997年1月\[1\]－2008年3月\]\] **NHK日本国际传媒**（；）\[2\]，旧称**NHK環球廣播網**\[3\]（；）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）針對[海外播送的](https://zh.wikipedia.org/wiki/海外 "wikilink")[電台與](../Page/電台廣播.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣播服務](https://zh.wikipedia.org/wiki/廣播 "wikilink")，其成立宗旨是增進世界對[日本](../Page/日本.md "wikilink")的了解。
 

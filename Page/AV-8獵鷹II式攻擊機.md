@@ -1,3 +1,6 @@
+> 本文内容由[AV-8獵鷹II式攻擊機](https://zh.wikipedia.org/wiki/AV-8獵鷹II式攻擊機)转换而来。
+
+
 **AV-8「獵鷹II式」**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：AV-8 Harrier II）是美國引自[英國航太的](https://zh.wikipedia.org/wiki/英國航太 "wikilink")[獵鷹式戰鬥攻擊機版本](https://zh.wikipedia.org/wiki/海鹞战斗攻击机 "wikilink")。AV-8是[美國海軍陸戰隊的現役](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[攻擊機](https://zh.wikipedia.org/wiki/攻擊機 "wikilink")，能夠短距起飛／[垂直起降](https://zh.wikipedia.org/wiki/垂直起降 "wikilink")（STOVL）。該攻擊機由[英國航太公司設計](https://zh.wikipedia.org/wiki/英國航太 "wikilink")，[麥道公司製造](https://zh.wikipedia.org/wiki/麥道 "wikilink")。目前服役的型號為**AV-8B**和**AV-8B+**，兩者間的不同為後者經過改良，使用由[F/A-18退換下來的](https://zh.wikipedia.org/wiki/F/A-18 "wikilink")[AN/APG-65雷達](https://zh.wikipedia.org/wiki/AN/APG-65雷達 "wikilink")。
 
 ## 歷史

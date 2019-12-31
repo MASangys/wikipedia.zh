@@ -1,4 +1,4 @@
-> 本文内容由[Zoom Player](https://zh.wikipedia.org/wiki/Zoom Player)转换而来。
+> 本文内容由[Zoom Player](https://zh.wikipedia.org/wiki/Zoom_Player)转换而来。
 
 
 **Zoom Player**是由inmatrix公司开发一款加强型播放器，的Direct Show滤镜／分离器控制系统。其消除OverScan来提升画面输出的品质，括支持MPEG4的格式如DivX PG、ASF、AVI等及全屏幕、播放列表等外，控制BAR及使用背景颜色来测试显示器的明亮度功能。

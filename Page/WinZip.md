@@ -1,3 +1,6 @@
+> 本文内容由[WinZip](https://zh.wikipedia.org/wiki/WinZip)转换而来。
+
+
 [Winzip-logo.png](https://zh.wikipedia.org/wiki/File:Winzip-logo.png "fig:Winzip-logo.png")
 
 **WinZip**是一个由WinZip Computing（前Nico Mak Computing）开发，適用於[Microsoft Windows作業系統的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")软件。它原先的基礎是使用[PKZIP](https://zh.wikipedia.org/wiki/PKZIP "wikilink")，但也不同程度地支持其它压缩格式。

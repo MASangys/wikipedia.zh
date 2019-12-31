@@ -1,3 +1,6 @@
+> 本文内容由[Finder](https://zh.wikipedia.org/wiki/Finder)转换而来。
+
+
 \-{zh-hant:**Finder**;zh-hans:**访达**（）}-是在[Classic Mac OS和](../Page/Classic_Mac_OS.md "wikilink")[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")（2012年前称Mac OS X，2012年-2016年称OS X）中預設的[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，能讓使用者管理檔案、文件、磁碟、網路，以及啟動其他的應用程式。Finder與其他作業系統中的[殼層](../Page/殼層.md "wikilink")（shell）功能相似，而Finder使用了[圖形使用者界面](https://zh.wikipedia.org/wiki/圖形使用者界面 "wikilink")（GUI）。最早的第一台麥金塔電腦上就已經有了Finder，同時在電腦上也以之一部份的形式出現。當蘋果轉換至以[UNIX為基礎的](https://zh.wikipedia.org/wiki/Unix "wikilink")[Mac OS X作業系統後](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，Finder也被徹底重新改寫。
 
 在啟動（或登入）麥金塔（Macintosh）電腦後，Finder是使用者首先會接觸到的程式，它也負責呈現整個作業系統的主要視覺風格，而需要注意的是，這不應該和實際上由作業系統內建之特定服務元件所提供的[圖形使用者界面混淆](https://zh.wikipedia.org/wiki/圖形使用者界面 "wikilink")（例如：[WindowServer](../Page/Quartz_Compositor.md "wikilink")）。雖然Finder是作業系統中重要的部份之一，但它僅是一個應用程式，使用者可以將Finder從系統中關閉，但這樣一來也就無法直观的開啟任何檔案或檔案夾。

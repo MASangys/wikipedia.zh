@@ -1,3 +1,6 @@
+> 本文内容由[爆走兄弟Let\'s \& Go!!](https://zh.wikipedia.org/wiki/爆走兄弟Let\'s_\&_Go!!)转换而来。
+
+
 是日本漫畫家[越田哲弘在](https://zh.wikipedia.org/wiki/越田哲弘 "wikilink")《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》（台灣於[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《王牌小子》連載，非《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》的台灣版《[快樂快樂](https://zh.wikipedia.org/wiki/快樂快樂 "wikilink")》；香港於《[CO-CO\!](../Page/CO-CO!.md "wikilink")》連載）連載的[迷你四驅車](https://zh.wikipedia.org/wiki/迷你四驅車 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，及以其為架構之[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是以玩具（迷你四驅車）、動畫、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[CD](https://zh.wikipedia.org/wiki/光學碟片 "wikilink")、收集卡、貼紙等各種媒體發表的熱門作品。此外，動畫版主題歌還邀請了-{[JAM Project](../Page/JAM_Project.md "wikilink")}-成員[影山浩宣](../Page/影山浩宣.md "wikilink")等許多歌手獻唱。
 
 ## 概要

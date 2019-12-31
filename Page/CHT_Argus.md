@@ -1,3 +1,6 @@
+> 本文内容由[CHT Argus](https://zh.wikipedia.org/wiki/CHT_Argus)转换而来。
+
+
 **CHT Argus新世代網路整合監視系統**是由[中華電信所屬之](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[中華電信研究院自行研發](https://zh.wikipedia.org/wiki/中華電信研究院 "wikilink")，配合[次世代網路](https://zh.wikipedia.org/wiki/次世代網路 "wikilink")（Next Generation Network；NGN）的精神，於統一的管理平臺下，實現[音頻](https://zh.wikipedia.org/wiki/音頻 "wikilink")、[視訊](https://zh.wikipedia.org/wiki/視訊 "wikilink")、資料信號管理的新世代網路維運系統。
 
 ## 緣由

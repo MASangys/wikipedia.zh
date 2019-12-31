@@ -1,3 +1,6 @@
+> 本文内容由[迪欧斯捷尔VTK](https://zh.wikipedia.org/wiki/迪欧斯捷尔VTK)转换而来。
+
+
 **迪欧斯捷尔VTK**（**Diósgyőri VTK**）是[匈牙利](../Page/匈牙利.md "wikilink")足球俱乐部，位于[匈牙利](../Page/匈牙利.md "wikilink")[米什科尔茨](../Page/米什科尔茨.md "wikilink")。俱乐部现属[匈牙利足球甲级联赛](../Page/匈牙利足球甲级联赛.md "wikilink")球队，球队的主体育场为DVTK体育场。
 
 ## 球队历史

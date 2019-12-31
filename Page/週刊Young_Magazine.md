@@ -1,3 +1,6 @@
+> 本文内容由[週刊Young Magazine](https://zh.wikipedia.org/wiki/週刊Young_Magazine)转换而来。
+
+
 《**週刊Young Magazine**》（ヤングマガジン，簡稱“Yanmaga”）是[日本](../Page/日本.md "wikilink")[講談社每](https://zh.wikipedia.org/wiki/講談社 "wikilink")[週一發行的](https://zh.wikipedia.org/wiki/週一 "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1980年6月23日創刊。創刊時的[編輯長為](https://zh.wikipedia.org/wiki/編輯長 "wikilink")[宮原照夫](https://zh.wikipedia.org/wiki/宮原照夫 "wikilink")。
 
 ## 連載過的作品

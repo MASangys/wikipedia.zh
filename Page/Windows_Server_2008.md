@@ -1,4 +1,4 @@
-> 本文内容由[Windows Server 2008](https://zh.wikipedia.org/wiki/Windows Server 2008)转换而来。
+> 本文内容由[Windows Server 2008](https://zh.wikipedia.org/wiki/Windows_Server_2008)转换而来。
 
 
 **Windows Server 2008**是微軟的一个[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，繼承[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")\[1\]\[2\]。Windows Server 2008在進行開發及測試時的代號為**Windows Server "Longhorn"**。

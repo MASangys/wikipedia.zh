@@ -1,3 +1,6 @@
+> 本文内容由[樂高Mindstorms NXT](https://zh.wikipedia.org/wiki/樂高Mindstorms_NXT)转换而来。
+
+
 **樂高機器人 Mindstorms NXT**是樂高集團所製造第二代的可程式即可組合[機器人玩具](https://zh.wikipedia.org/wiki/機器人 "wikilink")(第一代為RCX，第三代為EV3)。整組的套件包含了感測器及連接線。[樂高](../Page/樂高.md "wikilink")（LEGO）已于2006年9月上旬推出樂高公司和美國[麻省理工學院共同開發的機器人組件新款](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")“教育用LEGO Mindstorms NXT”。Mindstorms是將配備微處理器的LEGO公司的塑膠積木組裝起來，通過[個人電腦制作的程式來控制的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。最新的版本為2009年8月的 Lego Mindstorms NXT 2.0. 在台灣樂高機器人NXT主機 (P/N 9841) 可取得價格快速滑落已不到 150元美金左右。 [Nxt-brique.jpg](https://zh.wikipedia.org/wiki/File:Nxt-brique.jpg "fig:Nxt-brique.jpg")
 
 ## [RCX與NXT及](https://zh.wikipedia.org/wiki/RCX "wikilink")[EV3的比較](https://zh.wikipedia.org/wiki/EV3 "wikilink")

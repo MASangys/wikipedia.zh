@@ -1,3 +1,6 @@
+> 本文内容由[TurboGears](https://zh.wikipedia.org/wiki/TurboGears)转换而来。
+
+
 **TurboGears**是一個提供網頁前端到後端整合的網站框架，使用[Python](../Page/Python.md "wikilink")動態語言。
 
 [Python](../Page/Python.md "wikilink")語言上有無數網頁開發模組可選擇。要挑選合適的模組會花上開發者寶貴的時間精力，TurboGears就像是[Python](../Page/Python.md "wikilink")網頁開發上的發佈套件（[Linux发行版](../Page/Linux发行版.md "wikilink")），整合各種推薦的[Python](../Page/Python.md "wikilink")開放原始碼模組，提供簡單易用的介面與一致的系統體驗。

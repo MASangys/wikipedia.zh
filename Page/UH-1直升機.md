@@ -1,3 +1,6 @@
+> 本文内容由[UH-1直升機](https://zh.wikipedia.org/wiki/UH-1直升機)转换而来。
+
+
 [Huey2004-01-29.jpg](https://zh.wikipedia.org/wiki/File:Huey2004-01-29.jpg "fig:Huey2004-01-29.jpg") [Bell_UH-1D_SAR_LTG_61.jpg](https://zh.wikipedia.org/wiki/File:Bell_UH-1D_SAR_LTG_61.jpg "fig:Bell_UH-1D_SAR_LTG_61.jpg") [UH-1J_&_rapeling_infantry.JPG](https://zh.wikipedia.org/wiki/File:UH-1J_&_rapeling_infantry.JPG "fig:UH-1J_&_rapeling_infantry.JPG") [UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg](https://zh.wikipedia.org/wiki/File:UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg "fig:UH-1H_Cabin_Side_View_in_Songshan_Air_Force_Base_20110813.jpg")UH-1H\]\]
 
 **UH-1 Iroquois**，是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[貝爾直升機公司所設計製造的軍用中型](https://zh.wikipedia.org/wiki/貝爾直升機公司 "wikilink")[通用](https://zh.wikipedia.org/wiki/通用直升機 "wikilink")[直升机](https://zh.wikipedia.org/wiki/直升机 "wikilink")，根据美军命名传统正式命名为“Iroquois”（為北美原住部族之一的[伊洛魁部落名稱](https://zh.wikipedia.org/wiki/伊洛魁部落 "wikilink")），而[贝尔直升机公司另起了一个绰号名為Huey](https://zh.wikipedia.org/wiki/贝尔直升机公司 "wikilink")（休伊），“休伊”这个名称更广为人知。UH-1直升機為多用途設計，其U代表通用（），從運補作業皆宜到攻擊任務。是美军批量装备的第一个搭载了[涡轮轴发动机的直升机](https://zh.wikipedia.org/wiki/涡轮轴发动机 "wikilink")。它的民用版本是[貝爾204/205](https://zh.wikipedia.org/wiki/貝爾204/205直升機 "wikilink")。在[越南战争](../Page/越南战争.md "wikilink")中UH-1直升机成为美军标志性代表形象出现媒体的新闻图片中。

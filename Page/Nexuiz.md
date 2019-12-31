@@ -1,3 +1,6 @@
+> 本文内容由[Nexuiz](https://zh.wikipedia.org/wiki/Nexuiz)转换而来。
+
+
 **Nexuiz**是一个[三维](https://zh.wikipedia.org/wiki/三维 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，[游戏引擎](../Page/游戏引擎.md "wikilink")為[DarkPlaces](https://zh.wikipedia.org/wiki/DarkPlaces "wikilink")，修改自[雷神之锤引擎](../Page/雷神之锤引擎.md "wikilink")，它的游戏源代码在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")许可下发布，使用[自由内容](https://zh.wikipedia.org/wiki/自由内容 "wikilink")，故为“[自由游戏软件](../Page/自由软件.md "wikilink")”。[Nexuiz_logo.svg](https://zh.wikipedia.org/wiki/File:Nexuiz_logo.svg "fig:Nexuiz_logo.svg")为此游戏图标，可能算作中文名，
 
 ## 游戏特点

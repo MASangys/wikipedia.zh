@@ -1,3 +1,6 @@
+> 本文内容由[Flash Back 2012](https://zh.wikipedia.org/wiki/Flash_Back_2012)转换而来。
+
+
 [FB2012_VF4a.jpg](https://zh.wikipedia.org/wiki/File:FB2012_VF4a.jpg "fig:FB2012_VF4a.jpg") 《**超時空要塞馬克羅斯 Flash Back 2012**》（原題：），是1987年6月21日發行的動畫OVA作品，收錄時間為30分鐘。
 
 本片為集結電視版動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》與動畫電影《超時空要塞 愛・還記得嗎》的登場人物[林明美](../Page/林明美.md "wikilink")於片中的演唱曲目，所製作的音樂影帶風格作品。

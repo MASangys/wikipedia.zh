@@ -1,3 +1,6 @@
+> 本文内容由[Frutiger](https://zh.wikipedia.org/wiki/Frutiger)转换而来。
+
+
 **Frutiger**是一款西文[无衬线字体](https://zh.wikipedia.org/wiki/无衬线字体 "wikilink")，由[瑞士设计师](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[阿德里安·弗鲁提格](../Page/阿德里安·弗鲁提格.md "wikilink")（Adrian Frutiger）设计。
 
 1968年新建[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[戴高乐机场时](https://zh.wikipedia.org/wiki/戴高乐机场 "wikilink")，阿德里安·弗鲁提格决定不沿用原来的[Univers](../Page/Univers.md "wikilink")字体，而是新創一个[字体](../Page/字体.md "wikilink")作为导向系统标准字。新字体最初命名为Roissy，於1975年完成，并在当年在机场使用。

@@ -1,3 +1,6 @@
+> 本文内容由[XSL-FO](https://zh.wikipedia.org/wiki/XSL-FO)转换而来。
+
+
 **XSL-FO**是**XSL Formatting Objects**的缩写，它是一种用于文档格式的[XML](../Page/XML.md "wikilink") [置标语言](../Page/置标语言.md "wikilink")。XSL-FO是[XSL的一部分](https://zh.wikipedia.org/wiki/XSL "wikilink")，而[XSL是一组定义XML数据转换与格式的](https://zh.wikipedia.org/wiki/XSL "wikilink")[W3C技术](https://zh.wikipedia.org/wiki/W3C "wikilink")。XSL的其他部分有[XSLT](../Page/XSLT.md "wikilink")与[XPath](../Page/XPath.md "wikilink")。截止到2006年12月12日，XSL-FO的最新版本是[v1.1](http://www.w3.org/TR/2006/REC-xsl11-20061205/)。
 
 ## XSL-FO基础

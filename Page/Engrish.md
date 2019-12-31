@@ -1,3 +1,6 @@
+> 本文内容由[Engrish](https://zh.wikipedia.org/wiki/Engrish)转换而来。
+
+
 **Engrish**，源自[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[转写](../Page/转写.md "wikilink")系统沒有「L」，常用「R」（[IPA](https://zh.wikipedia.org/wiki/IPA "wikilink"): ）音译英语的「L」，且日本人受[母語](../Page/母語.md "wikilink")影響容易混淆不分\[1\]，也令[英語母語使用者費解](https://zh.wikipedia.org/wiki/英語 "wikilink")，而把「Eng**l**ish」改成「Eng**r**ish」來諷刺。原指**日式英語**，後泛指[亞洲語系錯誤的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[英語文法](https://zh.wikipedia.org/wiki/英語文法 "wikilink")。
 
 ## 基本例子

@@ -1,3 +1,6 @@
+> 本文内容由[金鹰国际集团CBD案](https://zh.wikipedia.org/wiki/金鹰国际集团CBD案)转换而来。
+
+
 **金鹰国际集团CBD案** 是一條在[中國大陸發生的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[騙案](https://zh.wikipedia.org/wiki/行騙 "wikilink")，涉案50億[人民幣](https://zh.wikipedia.org/wiki/人民幣 "wikilink")，被捕的自稱[香港](../Page/香港.md "wikilink")商人，[金鷹國際集團的](https://zh.wikipedia.org/wiki/金鷹國際集團 "wikilink")[主席](../Page/主席.md "wikilink")[鄭澤](https://zh.wikipedia.org/wiki/鄭澤 "wikilink")，[湖北](https://zh.wikipedia.org/wiki/湖北 "wikilink")[黃岡人](https://zh.wikipedia.org/wiki/黃岡 "wikilink")，於1980年代中起，在香港、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[上海等地](https://zh.wikipedia.org/wiki/上海 "wikilink")[投資](https://zh.wikipedia.org/wiki/投資 "wikilink")，開發[房地產](https://zh.wikipedia.org/wiki/房地產 "wikilink")。
 
 案中主角自稱鄭澤，在2007年2月7日被[内蒙古自治区](../Page/内蒙古自治区.md "wikilink")警方[刑事拘留](https://zh.wikipedia.org/wiki/刑事拘留 "wikilink")，控以[非法集資](https://zh.wikipedia.org/wiki/非法集資 "wikilink")、行使假[身份証等罪名](https://zh.wikipedia.org/wiki/身份証 "wikilink")。 [中國](../Page/中國.md "wikilink")官方發現此騙徒原名是**王細牛**，[湖北省](../Page/湖北省.md "wikilink")[孝感市](../Page/孝感市.md "wikilink")隆感農場的[農民](../Page/農民.md "wikilink")戶，曾當[木匠](../Page/木工.md "wikilink")。

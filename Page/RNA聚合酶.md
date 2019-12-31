@@ -1,3 +1,6 @@
+> 本文内容由[RNA聚合酶](https://zh.wikipedia.org/wiki/RNA聚合酶)转换而来。
+
+
 [5iy8.jpg](https://zh.wikipedia.org/wiki/File:5iy8.jpg "fig:5iy8.jpg")    **RNA聚合酶**（、、、，[EC](../Page/EC編號.md "wikilink")2.7.7.6）或稱**核糖核酸聚合酶**，是一種負責從[DNA或](https://zh.wikipedia.org/wiki/DNA "wikilink")[RNA模板製造RNA的](https://zh.wikipedia.org/wiki/RNA "wikilink")[酶](../Page/酶.md "wikilink")。RNA聚合酶是通過稱為[轉錄的過程來建立RNA鏈](https://zh.wikipedia.org/wiki/轉錄 "wikilink")，以完成這個工程。在[科學上](https://zh.wikipedia.org/wiki/科學 "wikilink")，RNA聚合酶是一個在RNA轉錄本3'端[聚合](https://zh.wikipedia.org/wiki/聚合 "wikilink")[核糖核甘酸的](https://zh.wikipedia.org/wiki/核糖核甘酸 "wikilink")[核苷轉移酶](https://zh.wikipedia.org/wiki/核苷轉移酶 "wikilink")。RNA聚合酶是一種非常重要的酶，且可在所有[生物](../Page/生物.md "wikilink")、[細胞及多種](https://zh.wikipedia.org/wiki/細胞 "wikilink")[病毒](../Page/病毒.md "wikilink")中可見。
 
 RNA聚合酶是於1960年分別由[山姆·懷斯及](https://zh.wikipedia.org/wiki/山姆·懷斯 "wikilink")[霍維茲同時發現](https://zh.wikipedia.org/wiki/霍維茲 "wikilink")。但在此之前，於1959年，[諾貝爾獎頒發給了](https://zh.wikipedia.org/wiki/諾貝爾獎 "wikilink")[塞韋羅·奧喬亞](https://zh.wikipedia.org/wiki/塞韋羅·奧喬亞 "wikilink")，因為他的發現當時認為是RNA聚合酶，但其實是[核糖核酸酶](https://zh.wikipedia.org/wiki/核糖核酸酶 "wikilink")。

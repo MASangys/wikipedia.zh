@@ -1,4 +1,4 @@
-> 本文内容由[McAfee WebAdvisor](https://zh.wikipedia.org/wiki/McAfee WebAdvisor)转换而来。
+> 本文内容由[McAfee WebAdvisor](https://zh.wikipedia.org/wiki/McAfee_WebAdvisor)转换而来。
 
 
 **McAfee SiteAdvisor**是一个评估[网站安全性的组织](https://zh.wikipedia.org/wiki/网站 "wikilink")，也指其所提供的服務，該組織已目前已经收入了近一百万个网站，適用的瀏覽器包括[Internet Explorer及](../Page/Internet_Explorer.md "wikilink")[Mozilla Firefox等主流瀏覽器](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，該組織於2006年4月5日，被[McAfee公司正式收购](https://zh.wikipedia.org/wiki/McAfee "wikilink")，成为McAfee的全资子公司，稱之為McAfee SiteAdvisor。現在已改名為McAfee Web Advisor。

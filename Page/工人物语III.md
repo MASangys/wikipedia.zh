@@ -1,3 +1,6 @@
+> 本文内容由[工人物语III](https://zh.wikipedia.org/wiki/工人物语III)转换而来。
+
+
 是一款由[Blue Byte Software开发的](https://zh.wikipedia.org/wiki/Blue_Byte_Software "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")，对应[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。和前作《[工人物语](https://zh.wikipedia.org/wiki/工人物语 "wikilink")》、《[工人物语II](../Page/工人物语II.md "wikilink")》一样，在工人物语III中玩家必须先发展经济用于扩张军事，以抗击敌人。和前两代相比道路更少了，所有人物单位变得更加自由，包括搬运工搬运货物，可以自由的行走了。简化了定居者的建筑， 至此仅显示建筑物间相关的距离。军事单位也并非直接被控制，战斗更像《[命令与征服](https://zh.wikipedia.org/wiki/命令与征服 "wikilink")》或《[帝国时代](https://zh.wikipedia.org/wiki/帝国时代 "wikilink")》等即时战略游戏，而非本系列的前两代作品。
 
 ## Gameplay

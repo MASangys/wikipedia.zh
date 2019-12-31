@@ -1,3 +1,6 @@
+> 本文内容由[V·S·奈波爾](https://zh.wikipedia.org/wiki/V·S·奈波爾)转换而来。
+
+
 **維迪亞德哈爾·蘇拉吉普拉薩德·奈波爾**爵士，[Kt.](../Page/下級勳位爵士.md "wikilink")，（，簡稱，），又譯為**-{zh-tw:奈保爾;zh-hk:奈保爾;zh-cn:奈波尔;}-**，[印度](../Page/印度.md "wikilink")裔[英國作家](https://zh.wikipedia.org/wiki/英國 "wikilink")，[諾貝爾文學獎得主](https://zh.wikipedia.org/wiki/諾貝爾文學獎 "wikilink")。生於加勒比海[特立尼达岛](../Page/特立尼达岛.md "wikilink")，1950年進入[牛津大學攻讀英國文學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")，畢業後，遷居[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，曾任職[英國國家廣播公司](https://zh.wikipedia.org/wiki/英國國家廣播公司 "wikilink")。
 
 他的作品以小說和遊記居多，《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》書評曾稱讚他為「世界作家、語言大師、眼光獨到的小說奇才。」他的小說作品《[畢斯華斯先生的房子](https://zh.wikipedia.org/wiki/畢斯華斯先生的房子 "wikilink")》（**）、《[大河灣](https://zh.wikipedia.org/wiki/大河灣 "wikilink")》（**）被列入[20世紀百大英文小說之一](https://zh.wikipedia.org/wiki/20世紀百大英文小說 "wikilink")。旅遊文學「印度三部曲」——《幽黯國度》、《印度：受傷的文明》及《印度：百萬叛亂的今天》是他在遊記方面的最著名作品。

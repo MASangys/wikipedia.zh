@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft XNA](https://zh.wikipedia.org/wiki/Microsoft_XNA)转换而来。
+
+
 **Microsoft XNA** ("**X**NA's **N**ot **A**cronymed"\[1\])，完全支援[受控代碼](../Page/受控代碼.md "wikilink")的[運行環境](https://zh.wikipedia.org/wiki/運行環境 "wikilink")，由[微軟提供用以幫助電腦](https://zh.wikipedia.org/wiki/微軟 "wikilink")[遊戲開發](https://zh.wikipedia.org/wiki/遊戲開發 "wikilink")、[電腦軟件開發及管理的一些工具](https://zh.wikipedia.org/wiki/電腦軟件開發 "wikilink")。XNA把遊戲設計員從“反覆刻版編程”中解放出來\[2\]，還把遊戲開發上的所有需要結合到一個系統之中。\[3\]XNA 工具集在2004年3月24日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西市的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")[遊戲開發者大會首次亮相](https://zh.wikipedia.org/wiki/遊戲開發者大會 "wikilink")，第一個公開技術預覽在2006年3月14日推出，最新版本3.0在2008年10月30日推出。
 
 ## 概觀

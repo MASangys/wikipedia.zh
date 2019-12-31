@@ -1,3 +1,6 @@
+> 本文内容由[The Lily](https://zh.wikipedia.org/wiki/The_Lily)转换而来。
+
+
 [The_Lily_201501.jpg](https://zh.wikipedia.org/wiki/File:The_Lily_201501.jpg "fig:The_Lily_201501.jpg")
 
 **The Lily**，又名**百合花**，是[香港](../Page/香港.md "wikilink")一座[建築物](https://zh.wikipedia.org/wiki/建築物 "wikilink")，位於[香港島](../Page/香港島.md "wikilink")[南區](../Page/南區_\(香港\).md "wikilink")[淺水灣](../Page/淺水灣.md "wikilink")[淺水灣道](../Page/淺水灣道.md "wikilink")129號\[1\]，分為4座，是除了[影灣園](../Page/影灣園.md "wikilink")外當地的一個[地標](../Page/地標.md "wikilink")。發展商為[華懋集團](../Page/華懋集團.md "wikilink")，經歷了11年的洗禮，項目最終由出售更改為[酒店](../Page/酒店.md "wikilink")，再更改為出租單位，[管理公司為](https://zh.wikipedia.org/wiki/管理公司 "wikilink")[仲量聯行](https://zh.wikipedia.org/wiki/仲量聯行 "wikilink")；於2010年6月1日啟用。

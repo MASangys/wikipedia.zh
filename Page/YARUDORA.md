@@ -1,3 +1,6 @@
+> 本文内容由[YARUDORA](https://zh.wikipedia.org/wiki/YARUDORA)转换而来。
+
+
 **YARUDORA**（****），是[索尼電腦娛樂所發售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[遊戲軟體系列](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。故事以全[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、全[語音](../Page/語音.md "wikilink")進行。宣傳詞是「從看的戲劇，邁向玩的戲劇（）」。
 
 動畫製作是[PRODUCTION I.G.](../Page/Production_I.G.md "wikilink")。

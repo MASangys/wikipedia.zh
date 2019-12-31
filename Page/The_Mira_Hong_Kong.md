@@ -1,4 +1,4 @@
-> 本文内容由[The Mira Hong Kong](https://zh.wikipedia.org/wiki/The Mira Hong Kong)转换而来。
+> 本文内容由[The Mira Hong Kong](https://zh.wikipedia.org/wiki/The_Mira_Hong_Kong)转换而来。
 
 
 [Hotel_Miramar_Hong_Kong.JPG](https://zh.wikipedia.org/wiki/File:Hotel_Miramar_Hong_Kong.JPG "fig:Hotel_Miramar_Hong_Kong.JPG") [The_Mira_Hong_Kong_Enterance_2010.jpg](https://zh.wikipedia.org/wiki/File:The_Mira_Hong_Kong_Enterance_2010.jpg "fig:The_Mira_Hong_Kong_Enterance_2010.jpg") [The_Mira_Hong_Kong_Hotel_Lobby.jpg](https://zh.wikipedia.org/wiki/File:The_Mira_Hong_Kong_Hotel_Lobby.jpg "fig:The_Mira_Hong_Kong_Hotel_Lobby.jpg")

@@ -1,3 +1,6 @@
+> 本文内容由[Synaptics](https://zh.wikipedia.org/wiki/Synaptics)转换而来。
+
+
 **Synaptics**（）是一個為大部份主要電腦及筆記型電腦公司提供[觸控板的](https://zh.wikipedia.org/wiki/觸控板 "wikilink")[OEM供應商](https://zh.wikipedia.org/wiki/OEM "wikilink")，其中包括了[華碩](../Page/華碩.md "wikilink")、[宏碁](../Page/宏碁.md "wikilink")、[戴爾](../Page/戴爾.md "wikilink")、[惠普](../Page/惠普.md "wikilink")、[索尼](../Page/索尼.md "wikilink")、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、、[國際商業機器](https://zh.wikipedia.org/wiki/國際商業機器 "wikilink")、[聯想集團與](https://zh.wikipedia.org/wiki/聯想集團 "wikilink")[三星電子](../Page/三星電子.md "wikilink")等。Synaptics於1986年由Carver Mead與Federico Faggin創立，總部位於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖塔克拉拉](https://zh.wikipedia.org/wiki/聖塔克拉拉_\(美國加州\) "wikilink")。
 
 Synaptics公司從事於為多種行動計算、通訊與其他電子設備的互動開發與供應用戶界面方案，並供應包括[專用集成電路](https://zh.wikipedia.org/wiki/專用集成電路 "wikilink")、[韌體](../Page/韌體.md "wikilink")、[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")、[模式識別與觸感技術等多項技術](https://zh.wikipedia.org/wiki/模式識別 "wikilink")。

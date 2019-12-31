@@ -1,3 +1,6 @@
+> 本文内容由[The KMPlayer](https://zh.wikipedia.org/wiki/The_KMPlayer)转换而来。
+
+
 **The KMPlayer**，簡稱KMP，是[南韓作者](https://zh.wikipedia.org/wiki/南韓 "wikilink")[姜勇囍](https://zh.wikipedia.org/wiki/姜勇囍 "wikilink")（）所開發的免費影音播放軟體。早期名叫“WaSaVi”播放器，歷時五年自主開發的韓文多媒體圖形視窗工程免費項目。目前以其強大的操控功能在眾多免費播放器中逐漸顯示其開發實力。底層調用[WMP的內核](https://zh.wikipedia.org/wiki/WMP "wikilink")[DirectShow](../Page/DirectShow.md "wikilink")，外部同時支持臨時掛接[Windows下的全部解碼器](https://zh.wikipedia.org/wiki/Windows "wikilink")，同時也支-{zh-hans:持; zh-hant:援;}-Winamp中的各種輸入、音效、視覺效果[插件](../Page/插件.md "wikilink")。
 
 The KMPlayer的 *K* 是來自於開發者的姓氏 *姜*（Kang）；The KMPlayer的名稱意義是Kang's Multimedia Player。\[1\]2007年8月作者将源代码及核心引擎技术出售给Pandora TV。\[2\]

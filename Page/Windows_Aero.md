@@ -1,3 +1,6 @@
+> 本文内容由[Windows Aero](https://zh.wikipedia.org/wiki/Windows_Aero)转换而来。
+
+
 [Windows_Aero_(Windows_7).png](https://zh.wikipedia.org/wiki/File:Windows_Aero_\(Windows_7\).png "fig:Windows_Aero_(Windows_7).png") [Windows_Aero_desktop.png](https://zh.wikipedia.org/wiki/File:Windows_Aero_desktop.png "fig:Windows_Aero_desktop.png") **Windows Aero**是從[Windows Vista開始使用的](../Page/Windows_Vista.md "wikilink")[用户界面](../Page/用户界面.md "wikilink")[設計語言](https://zh.wikipedia.org/wiki/設計語言 "wikilink")，透明玻璃感讓使用者一眼貫穿。「Aero」為四個英文單字的[首字母縮略字](../Page/首字母縮略字.md "wikilink")：**A**uthentic（真實）、**E**nergetic（動感）、**R**eflective（反射）及**O**pen（開闊）\[1\]。意為Aero界面是具立體感、令人震撼、具透視感和闊大的用戶界面。除了透明的介面外，Windows Aero也包含了即時縮圖、即時動畫等視窗特效，吸引使用者的目光。
 
 針對Windows Vista，Aero介面只預載家用進階版、商用入門版、商用進階版和旗艦版等版本中，至於[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，只預載在家用進階版、專業版、商用版與旗艦版中。但是微软于其团队 blog 中已宣布，[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") RTM中，桌面已抛弃Aero Glass 效果而改用[Metro UI设计](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")\[2\]，但部分Aero設計，如Aero Snap和透明工作列仍然保留，不過可以用第三方程式來修改。

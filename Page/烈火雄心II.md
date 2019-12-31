@@ -1,3 +1,6 @@
+> 本文内容由[烈火雄心II](https://zh.wikipedia.org/wiki/烈火雄心II)转换而来。
+
+
 《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](../Page/王喜.md "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳慧珊](../Page/陳慧珊.md "wikilink")、[歐錦棠](../Page/歐錦棠.md "wikilink")及[文頌嫻](../Page/文頌嫻.md "wikilink")領銜主演，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[元華](../Page/元華.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[蔡子健](../Page/蔡子健.md "wikilink")、[成珈瑩](../Page/成珈瑩.md "wikilink")及[唐寧聯合主演](../Page/唐寧_\(香港\).md "wikilink")，並由[宣萱](../Page/宣萱.md "wikilink")特別演出，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
 
 ## 劇情大綱

@@ -1,3 +1,6 @@
+> 本文内容由[BALDR FORCE](https://zh.wikipedia.org/wiki/BALDR_FORCE)转换而来。
+
+
 《**BALDR FORCE**》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2002年11月1日發售的[動作和](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」的第四作。2003年1月24日發售《**BALDR FORCE EXE**》，另外由[Alchemist](../Page/Alchemist.md "wikilink")發售[Dreamcast](../Page/Dreamcast.md "wikilink")版和[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。2006年11月10日開始發售OVA版《**BALDR FORCE EXE RESOLUTION**》。\[2\]\[3\] 2007年3月23日由[TGL](../Page/TGL.md "wikilink")發售PC全年齡版《**BALDR FORCE Standard Edition**》。遊戲的機械人戰鬥部分，是成人禁遊戲中較成功的例子之一\[4\]。
 
 ## 發售歷史

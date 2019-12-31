@@ -1,3 +1,6 @@
+> 本文内容由[HDCP](https://zh.wikipedia.org/wiki/HDCP)转换而来。
+
+
 **高清數位内容保护**（**HDCP**，**High-Bandwidth Digital Content Protection**），是由[英特爾公司所發展](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，用以確保[數位化的](https://zh.wikipedia.org/wiki/數位 "wikilink")[影像與](https://zh.wikipedia.org/wiki/影像 "wikilink")[聲音資料在透過](https://zh.wikipedia.org/wiki/聲音 "wikilink")[DVI](../Page/DVI.md "wikilink")或[HDMI](../Page/HDMI.md "wikilink")介面傳送時不至於遭到非法[拷貝](https://zh.wikipedia.org/wiki/拷貝 "wikilink")。HDCP的規格受到多項[專利權保護](https://zh.wikipedia.org/wiki/專利權 "wikilink")，任何人-{欲}-實作HDCP必須申請[授權](https://zh.wikipedia.org/wiki/授權 "wikilink")。
 
 HDCP的授權管理是由[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[子公司](../Page/子公司.md "wikilink")「[數位內容保護公司](https://zh.wikipedia.org/wiki/數位內容保護公司 "wikilink")」（Digital Content Protection, LLC）負責。除了交付授權金之外，生產HDCP相容設備的廠商必須限制其產品功能，例如[高清畫面](https://zh.wikipedia.org/wiki/高清 "wikilink")（[解析度超過](https://zh.wikipedia.org/wiki/解析度 "wikilink")[480p者](https://zh.wikipedia.org/wiki/480p "wikilink")）在透過產品上不支援HDCP的介面播放時必須支援碟片需求將解析度降至480p，而[DVD聲訊在透過不支援HDCP的介面時必須被強制降到](https://zh.wikipedia.org/wiki/DVD "wikilink")[DAT等級的](https://zh.wikipedia.org/wiki/DAT "wikilink")[類比](../Page/類比.md "wikilink")輸出。所有支援HDCP的影音播放設備都不得支援數位資料直接拷貝功能，並且必須「將其產品設計到足以打消大多數[破解者的念頭](https://zh.wikipedia.org/wiki/破解 "wikilink")」。

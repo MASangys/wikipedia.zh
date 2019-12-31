@@ -1,3 +1,6 @@
+> 本文内容由[月球環形山列表 \(C-F\)](https://zh.wikipedia.org/wiki/月球環形山列表_\(C-F\))转换而来。
+
+
 这是[月球环形山列表的一部份](https://zh.wikipedia.org/wiki/月球环形山列表 "wikilink")，此表列举出英文名称以字母C、D、E及F开头的环形山。
 
 ## C

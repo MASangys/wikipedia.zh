@@ -1,3 +1,6 @@
+> 本文内容由[SK海力士](https://zh.wikipedia.org/wiki/SK海力士)转换而来。
+
+
 [1GB_DDR2_SO-DIMM.png](https://zh.wikipedia.org/wiki/File:1GB_DDR2_SO-DIMM.png "fig:1GB_DDR2_SO-DIMM.png") **SK海力士半導體公司**（SK Hynix Semiconductor Inc.，[諺文](../Page/諺文.md "wikilink")：，）是一家[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[電子公司](https://zh.wikipedia.org/wiki/電子 "wikilink")，[全球二十大半導體廠商](../Page/全球二十大半導體廠商.md "wikilink")之一。海力士於1983年以**現代電子產業有限公司**的名字創立。在80及90年代 他們專注於銷售[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")，後來是[SDRAM](../Page/SDRAM.md "wikilink")。2001年他們以6億5000萬美元的價格出售[TFT LCD業務](../Page/薄膜電晶體液晶顯示器.md "wikilink")，同年他們開發出世界第一顆128MB圖形DDR SDRAM。2012年初，韩国第三大财阀[SK集团](../Page/SK集团.md "wikilink")宣布收购海力士21.05%的股份从而入主这家記憶體大厂。
 
 ## 價格操控與處分

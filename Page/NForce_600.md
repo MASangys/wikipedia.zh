@@ -1,3 +1,6 @@
+> 本文内容由[NForce 600](https://zh.wikipedia.org/wiki/NForce_600)转换而来。
+
+
 **nForce 600**系列是[NVIDIA研發的第六代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，首款產品nForce 680在[2006年11月](../Page/2006年11月.md "wikilink")推出\[1\]。晶片組名稱後面的英文字母，代表所支援的處理器平台。例如a代表支援AMD平台，i則是Intel平台。
 
 ## 產品規格

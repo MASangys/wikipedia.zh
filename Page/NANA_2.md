@@ -1,3 +1,6 @@
+> 本文内容由[NANA 2](https://zh.wikipedia.org/wiki/NANA_2)转换而来。
+
+
 《**NANA 2**》，中文名又叫《**世上的另一個我2**》，是電影《[NANA](https://zh.wikipedia.org/wiki/Nana_\(電影\) "wikilink")》的续作，由[東寶株式會社製作](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")，于2006年12月6日在[日本](../Page/日本.md "wikilink")上映。剧本基于[矢泽爱](https://zh.wikipedia.org/wiki/矢泽爱 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")《》的剧情，顺着上一部电影的剧情向下发展。
 
 ## 主要角色

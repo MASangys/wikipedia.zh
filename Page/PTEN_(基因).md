@@ -1,3 +1,6 @@
+> 本文内容由[PTEN \(基因\)](https://zh.wikipedia.org/wiki/PTEN_\(基因\))转换而来。
+
+
 **磷酸酯酶与张力蛋白同源物**（，简称为**PTEN**）是一种在人体中由*PTEN*[基因](../Page/基因.md "wikilink")编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]。该基因的突变是多种[癌症](../Page/癌症.md "wikilink")进展过程的环节之一。
 
 *PTEN*通过其[磷酸酯酶蛋白产物而行使一种](https://zh.wikipedia.org/wiki/磷酸酯酶 "wikilink")[抑癌基因的作用](https://zh.wikipedia.org/wiki/抑癌基因 "wikilink")。这一磷酸酯酶参与了[细胞周期的调节](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")，阻止细胞过快地生长与分裂\[2\]。其为[癌微RNA](https://zh.wikipedia.org/wiki/癌微RNA "wikilink")[MIRN21的靶之一](https://zh.wikipedia.org/wiki/MIRN21 "wikilink")。

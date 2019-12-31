@@ -1,3 +1,6 @@
+> 本文内容由[超劇場版 Keroro軍曹](https://zh.wikipedia.org/wiki/超劇場版_Keroro軍曹)转换而来。
+
+
 《**超劇場版 Keroro軍曹**》於2006年3月11日在日本上映\[1\]。電影片長約60分鐘，日本[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")6億[日圓](../Page/日圓.md "wikilink")，香港[票房約為](https://zh.wikipedia.org/wiki/票房 "wikilink")900萬港元，而台灣[票房則約](https://zh.wikipedia.org/wiki/票房 "wikilink")980萬[台幣](https://zh.wikipedia.org/wiki/台幣 "wikilink")。劇場版1的[VCD](../Page/VCD.md "wikilink")和[DVD則在](https://zh.wikipedia.org/wiki/DVD "wikilink")2006年8月25日正式發行。
 
 ## 情節簡介

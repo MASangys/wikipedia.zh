@@ -1,4 +1,4 @@
-> 本文内容由[Dragon Ash](https://zh.wikipedia.org/wiki/Dragon Ash)转换而来。
+> 本文内容由[Dragon Ash](https://zh.wikipedia.org/wiki/Dragon_Ash)转换而来。
 
 
 ****是在日本具有重要地位的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由主唱[降谷建志](../Page/降谷建志.md "wikilink")帶領。他們是第一個將[嘻哈](../Page/嘻哈.md "wikilink")音樂推-{向}-日本流行音樂市場的樂團。

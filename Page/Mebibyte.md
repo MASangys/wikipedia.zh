@@ -1,3 +1,6 @@
+> 本文内容由[Mebibyte](https://zh.wikipedia.org/wiki/Mebibyte)转换而来。
+
+
 “**mebibyte**”是数字信息中的一个字节数单位。前缀“**mebi**”等于2<sup>20</sup>，1 mebibyte等于1,048,576字节。“**mebibyte**”记作“**MiB**”，\[1\] 由[国际电工委员会](../Page/国际电工委员会.md "wikilink")（IEC）于1998年制定。这个单位被设计用来某些时候替代**MB**（[megabyte](https://zh.wikipedia.org/wiki/megabyte "wikilink")），因为在计算机相关内容中MB有可能被用来等于2<sup>20</sup>，虽然数值很相近，但**MiB**与[国际单位制](../Page/国际单位制.md "wikilink")（SI）中的**MB**（10<sup>6</sup>）还是有严格的区别。
 
 MiB已经被所有主要的标准组织接受使用，但在真正的计算机工业中使用比较少。\[2\]\[3\]\[4\]\[5\]MB还是经常被当成这个单位在使用，虽然有可能与1,000,000 bytes搞混。

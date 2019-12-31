@@ -1,3 +1,6 @@
+> 本文内容由[生存倒數SEVEN DAYS](https://zh.wikipedia.org/wiki/生存倒數SEVEN_DAYS)转换而来。
+
+
 《**生存倒數SEVEN DAYS**》（生存倒數7Days），是一款由Wandererc（子商）使用[戀愛遊戲製作大師](../Page/戀愛遊戲製作大師.md "wikilink")所製作的[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。2004年2月在[遊戲基地](../Page/遊戲基地.md "wikilink")戀二討論板上首次發布，後來參加[光譜資訊](../Page/光譜資訊.md "wikilink")第一屆遊戲大師盃比賽獲得專家評審第二名，由玩家票選得第一高票。相較於其他同期的AVG遊戲，生存倒數以懸疑跟氣氛掌握特別突出，其中不時穿插黑白草稿的插圖。遊戲一共6個結局，3名可攻略角色。
 
 ## 劇情介紹

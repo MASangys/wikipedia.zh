@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Windows與Linux的比較](https://zh.wikipedia.org/wiki/Microsoft_Windows與Linux的比較)转换而来。
+
+
 [Linux](../Page/Linux.md "wikilink")和[Microsoft Windows的一个主要区别就是Linux是](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，而[Windows是](https://zh.wikipedia.org/wiki/Windows "wikilink")[封闭软件](https://zh.wikipedia.org/wiki/封闭软件 "wikilink")。除此以外，还有下列诸多区别。
 
 ## 系統架構

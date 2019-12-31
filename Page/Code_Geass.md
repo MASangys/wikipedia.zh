@@ -1,3 +1,6 @@
+> 本文内容由[Code Geass](https://zh.wikipedia.org/wiki/Code_Geass)转换而来。
+
+
 **Code Geass**（）是一个日本ACG系列作品，包括：
 
 ## 第一作：反叛的鲁路修

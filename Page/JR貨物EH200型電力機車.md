@@ -1,3 +1,6 @@
+> 本文内容由[JR貨物EH200型電力機車](https://zh.wikipedia.org/wiki/JR貨物EH200型電力機車)转换而来。
+
+
 **EH200型電力機車**，是供[日本貨物鐵道使用的](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[交流傳動八軸](../Page/交流電.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於[直流電](../Page/直流電.md "wikilink")化區段，這款機車的暱稱為「**ECO-POWER Blue Thunder**」。
 
 ## 概要

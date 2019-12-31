@@ -1,3 +1,6 @@
+> 本文内容由[學生t檢驗](https://zh.wikipedia.org/wiki/學生t檢驗)转换而来。
+
+
 **學生*t*檢驗**（）是指[虛無假设成立時的任一檢定統計有](https://zh.wikipedia.org/wiki/虛無假设 "wikilink")[學生t-分佈的](https://zh.wikipedia.org/wiki/學生t-分佈 "wikilink")[統計假說檢定](https://zh.wikipedia.org/wiki/統計假說檢定 "wikilink")，屬於[母數統計](https://zh.wikipedia.org/wiki/母數統計 "wikilink")。學生*t*檢驗常作為檢驗一群來自[常態分配](https://zh.wikipedia.org/wiki/常態分配 "wikilink")[母體的獨立](https://zh.wikipedia.org/wiki/母體 "wikilink")[樣本之](https://zh.wikipedia.org/wiki/樣本 "wikilink")[期望值](../Page/期望值.md "wikilink")的是否為某一實數，或是二（两）群來自[常態分配](https://zh.wikipedia.org/wiki/常態分配 "wikilink")[母體的獨立](https://zh.wikipedia.org/wiki/母體 "wikilink")[樣本之](https://zh.wikipedia.org/wiki/樣本 "wikilink")[期望值](../Page/期望值.md "wikilink")的差是否為某一實數。舉個簡單的例子，也就是說我們可以在抓取一個班級的男生，去比較該班與全校男生之身高差異程度是不是推測的那樣，或是不同年級班上的男生身高的差異的場合是否一如預期使用此檢驗法。
 
 ## 由來

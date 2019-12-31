@@ -1,3 +1,6 @@
+> 本文内容由[GLSL](https://zh.wikipedia.org/wiki/GLSL)转换而来。
+
+
 **GLSL** - **OpenGL Shading Language** 也稱作 **GLslang**，是一個以[C語言為基礎的](https://zh.wikipedia.org/wiki/C語言 "wikilink")[高階](https://zh.wikipedia.org/wiki/高階程式語言 "wikilink")[著色語言](https://zh.wikipedia.org/wiki/著色語言 "wikilink")。它是由 [OpenGL ARB](https://zh.wikipedia.org/wiki/OpenGL_ARB "wikilink") 所建立，提供開發者對[繪圖管線更多的直接控制](https://zh.wikipedia.org/wiki/繪圖管線 "wikilink")，而無需使用汇编语言或硬體規格語言。
 
 ## 背景

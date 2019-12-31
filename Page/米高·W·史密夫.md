@@ -1,3 +1,6 @@
+> 本文内容由[米高·W·史密夫](https://zh.wikipedia.org/wiki/米高·W·史密夫)转换而来。
+
+
 **米高·惠特克·史密夫** （；綽號：，）。出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[西維吉尼亞州](../Page/西維吉尼亞州.md "wikilink")，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[吉他](../Page/吉他.md "wikilink")手、[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")[作者和](https://zh.wikipedia.org/wiki/作者 "wikilink")[電子鍵盤彈奏手](https://zh.wikipedia.org/wiki/電子鍵盤 "wikilink")。他是[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[当代基督教音乐](../Page/当代基督教音乐.md "wikilink")（）樂壇過去這二十年以來名聲最響亮、最具有號召力的人之一。米高曾經奪得三個[格林美獎](https://zh.wikipedia.org/wiki/格林美獎 "wikilink")（Grammy Awards）\[1\]、一個美國音樂獎和三十六個[聖鴿獎](../Page/聖鴿獎.md "wikilink") （GMA Dove Award）\[2\]，還被Keyboard雜誌列為搖滾音樂界中最佳鍵盤手之一\[3\]。在過去二十四年的音樂生涯中，米高的專輯銷量已經超過一千五百萬張\[4\]。其中有二十九首歌曲為冠軍歌曲\[5\]，十六張專輯為金專輯\[6\]，五張專輯為白金專輯\[7\]。美國音樂獎頒獎典禮[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[唱片代理商曾經特別為他加上一個](https://zh.wikipedia.org/wiki/唱片 "wikilink")「成人抒情歌壇白馬王子」的封號。People雜誌曾經評選米高為全世界50位最俊美名人之一的創作歌手\[8\]。米高最新的專輯《Sovereign》己於2014年5月發行。
 
 ## 出生及成長

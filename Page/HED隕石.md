@@ -1,3 +1,6 @@
+> 本文内容由[HED隕石](https://zh.wikipedia.org/wiki/HED隕石)转换而来。
+
+
 [JohnstownDiogenite.jpg](https://zh.wikipedia.org/wiki/File:JohnstownDiogenite.jpg "fig:JohnstownDiogenite.jpg") **HED 隕石**是三種[無球粒隕石的總稱](https://zh.wikipedia.org/wiki/無球粒隕石 "wikilink")，它們分別是：
 
   - [古銅鈣無粒隕石](../Page/古銅鈣無粒隕石.md "wikilink")（Howardites）

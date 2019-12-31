@@ -1,3 +1,6 @@
+> 本文内容由[Wess-Zumino-Witten模型](https://zh.wikipedia.org/wiki/Wess-Zumino-Witten模型)转换而来。
+
+
 [理論物理](https://zh.wikipedia.org/wiki/理論物理 "wikilink") 與 [數學中](https://zh.wikipedia.org/wiki/數學 "wikilink")， **Wess-Zumino-Witten (WZW) 模型**，又稱**Wess-Zumino-Novikov-Witten model**，乃一簡單之 [共形場論](../Page/共形場論.md "wikilink")，其解可以用[仿射李代數表達](https://zh.wikipedia.org/wiki/仿射李代數 "wikilink")。其名來自 [Julius Wess](https://zh.wikipedia.org/wiki/Julius_Wess "wikilink")、[Bruno Zumino](https://zh.wikipedia.org/wiki/Bruno_Zumino "wikilink")、[Sergei P. Novikov](https://zh.wikipedia.org/wiki/Sergei_P._Novikov "wikilink") 與 [Edward Witten](https://zh.wikipedia.org/wiki/Edward_Witten "wikilink")。
 
 ## 作用

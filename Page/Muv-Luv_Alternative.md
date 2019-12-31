@@ -1,3 +1,6 @@
+> 本文内容由[Muv-Luv Alternative](https://zh.wikipedia.org/wiki/Muv-Luv_Alternative)转换而来。
+
+
 是由[日本](../Page/日本.md "wikilink")遊戲公司於2006年2月24日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，後來陸續推出[CD-ROM](../Page/CD-ROM.md "wikilink")版\[2\]和去除18禁情節的全年齡[DVD-ROM版](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")\[3\]\[4\]，並且移植到[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS Vita平台上](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")。
 
 ## 作品概要

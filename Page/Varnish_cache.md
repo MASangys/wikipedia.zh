@@ -1,3 +1,6 @@
+> 本文内容由[Varnish cache](https://zh.wikipedia.org/wiki/Varnish_cache)转换而来。
+
+
 **Varnish cache**，或稱**Varnish**，是一套高效能的反向[網站](../Page/網站.md "wikilink")[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（reverse proxy server）。
 
 Varnish目前被用在[挪威](../Page/挪威.md "wikilink")最大的報社Verdens Gang上。

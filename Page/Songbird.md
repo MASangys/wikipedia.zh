@@ -1,3 +1,6 @@
+> 本文内容由[Songbird](https://zh.wikipedia.org/wiki/Songbird)转换而来。
+
+
 **Songbird**是一款[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[媒體播放器](https://pinoychannelsflix.su/)。Songbird整合了桌面網路播放器、數位播放器與[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，是如[iTunes等](https://zh.wikipedia.org/wiki/iTunes "wikilink")[私有媒體播放器的替代品之一](https://zh.wikipedia.org/wiki/私有軟體 "wikilink")。
 
 Songbird建基於[Mozilla](../Page/Mozilla.md "wikilink")的[XUL Runner平台](https://zh.wikipedia.org/wiki/XUL_Runner "wikilink")\[1\]，因此只需經少量修改就可在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、與大多數的[Linux](../Page/Linux.md "wikilink")[個人電腦上運行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。在2010年4月2日，他们宣布不再对Linux版本提供Q\&A支持，但Linux版本开发并未停止\[2\]。Songbird使用[GStreamer](../Page/GStreamer.md "wikilink")媒體框架來播放媒體及使用[SQLite](../Page/SQLite.md "wikilink")作為媒體庫的儲存引擎（1.0以前的版本，在Linux以外使用[VLC插件來播放媒體](../Page/VLC多媒體播放器.md "wikilink")）。

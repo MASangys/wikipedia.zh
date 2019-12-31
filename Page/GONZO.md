@@ -1,3 +1,6 @@
+> 本文内容由[GONZO](https://zh.wikipedia.org/wiki/GONZO)转换而来。
+
+
 **株式会社GONZO**（／），是以[動畫的企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、製作及開發為主要營業項目的[日本](../Page/日本.md "wikilink")[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")，創業於1992年。
 
 ## 概要

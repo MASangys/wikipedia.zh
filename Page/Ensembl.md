@@ -1,3 +1,6 @@
+> 本文内容由[Ensembl](https://zh.wikipedia.org/wiki/Ensembl)转换而来。
+
+
 **Ensembl**是一项[生物信息学](../Page/生物信息学.md "wikilink")研究计划，旨在开发一种能够对[真核生物](../Page/真核生物.md "wikilink")基因组进行自动诠释（automatic annotation）并加以维护的软件。该计划由英国及[欧洲分子生物学实验室](../Page/欧洲分子生物学实验室.md "wikilink")所属分部[欧洲生物信息研究所](../Page/欧洲生物信息研究所.md "wikilink")共同协作运营，这是为了回应[人类基因组计划](../Page/人类基因组计划.md "wikilink")即将完而于1999年启动的\[1\] 。在存在10年之后\[2\]，Ensembl的目标仍然是为遗传学家，分子生物学家和其他研究人员研究我们自己的物种和其他[脊椎动物](../Page/脊椎动物.md "wikilink")和[模式生物](../Page/模式生物.md "wikilink")的[基因组而提供集中的资源](https://zh.wikipedia.org/wiki/基因组 "wikilink")。Ensembl是几个知名的之一，用于检索[基因组学信息](https://zh.wikipedia.org/wiki/基因组学 "wikilink")。
 
 相似的数据库和浏览器还被发现在美国[国家生物技术信息中心](https://zh.wikipedia.org/wiki/国家生物技术信息中心 "wikilink")（National Center for Biotechnology Information，简称NCBI）和[加州大学圣克鲁兹分校的](https://zh.wikipedia.org/wiki/加州大学圣克鲁兹分校 "wikilink")。

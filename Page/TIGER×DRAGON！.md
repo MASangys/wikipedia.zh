@@ -1,3 +1,6 @@
+> 本文内容由[TIGER×DRAGON！](https://zh.wikipedia.org/wiki/TIGER×DRAGON！)转换而来。
+
+
 《**TIGER×DRAGON！**》（**虎與龍**）是由[竹宮悠由子](../Page/竹宮悠由子.md "wikilink")寫作、[泰](https://zh.wikipedia.org/wiki/泰 "wikilink")（）負責繪製插畫的一部[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")。本系列作品在日本的[電擊文庫](../Page/電擊文庫.md "wikilink")刊載，本編10卷，另有番外篇3卷，共13卷[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")地區由[台灣角川](../Page/台灣角川.md "wikilink")發行，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天聞角川取得授權發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。電視動畫獲選為2009年第十三回[日本](../Page/日本.md "wikilink")[文部科學省](../Page/文部科學省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。小說於2007\~2010年在[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")皆榜上有名。
 
 本作品也從《[月刊電擊Comic gao\!](https://zh.wikipedia.org/wiki/月刊電擊Comic_gao! "wikilink")》（[MediaWorks](../Page/MediaWorks.md "wikilink")）於2007年9月號開始連載漫畫版本，由[絕叫](../Page/絕叫.md "wikilink")擔任作畫。\[1\]於2008年3月起转到《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII MEDIA WORKS、MediaWorks）上连载。

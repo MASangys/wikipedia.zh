@@ -1,3 +1,6 @@
+> 本文内容由[AGM-88飛彈](https://zh.wikipedia.org/wiki/AGM-88飛彈)转换而来。
+
+
 [AIM-9_AIM-120_and_AGM-88_on_F-16C.jpg](https://zh.wikipedia.org/wiki/File:AIM-9_AIM-120_and_AGM-88_on_F-16C.jpg "fig:AIM-9_AIM-120_and_AGM-88_on_F-16C.jpg")[英瑟里克空軍基地](https://zh.wikipedia.org/wiki/英瑟里克空軍基地 "wikilink")、準備執行任務的[F-16C戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")。滿載的機翼上由上至下分別掛載了[AIM-120](../Page/AIM-120先進中程空對空飛彈.md "wikilink")、[AIM-9與](../Page/AIM-9響尾蛇飛彈.md "wikilink")**AGM-88**三種用途不同的空射式飛彈。\]\] **AGM-88高速反輻射飛彈**（AGM-88 High-speed anti-Radiation Missile，HARM）是[美國現役的空對地](https://zh.wikipedia.org/wiki/美國 "wikilink")[反輻射飛彈](../Page/反輻射飛彈.md "wikilink")，用以取代[越戰時期的](https://zh.wikipedia.org/wiki/越戰 "wikilink")[AGM-45「百舌鳥」](https://zh.wikipedia.org/wiki/AGM-45 "wikilink")（Shrike）與[AGM-78標準反輻射飛彈](https://zh.wikipedia.org/wiki/AGM-78標準反輻射飛彈 "wikilink")（Standard ARM）。可以攜帶HARM的機種，包括[F-16](https://zh.wikipedia.org/wiki/F-16 "wikilink")、[A-7](https://zh.wikipedia.org/wiki/A-7攻擊機 "wikilink")、[A-6](../Page/A-6入侵者式攻擊機.md "wikilink")、[F/A-18](https://zh.wikipedia.org/wiki/F/A-18黃蜂式戰鬥攻擊機 "wikilink")、[EA-6B等](https://zh.wikipedia.org/wiki/EA-6B "wikilink")。理論上[F-14也可使用此型飛彈](../Page/F-14雄貓式戰鬥機.md "wikilink")，但直到該機種退役為止，都未曾實際配備過此型飛彈。
 
 ## 歷史

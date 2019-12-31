@@ -1,3 +1,6 @@
+> 本文内容由[Games Animation Forum](https://zh.wikipedia.org/wiki/Games_Animation_Forum)转换而来。
+
+
 ****，簡稱**GAF**，是一個主要由[香港](../Page/香港.md "wikilink")人管理和使用的[網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")。這個[網站](../Page/網站.md "wikilink")的討論內容主要是[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[日本漫畫和](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[電子遊戲等](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。隨著開站的日子愈來愈長，該站加入了更多的討論主題例如清談、[學術](https://zh.wikipedia.org/wiki/學術 "wikilink")、[娛樂](../Page/娛樂.md "wikilink")、[體育和](https://zh.wikipedia.org/wiki/體育 "wikilink")[飲食等](https://zh.wikipedia.org/wiki/飲食 "wikilink")。
 
 ## 特色

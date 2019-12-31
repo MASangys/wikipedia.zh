@@ -1,3 +1,6 @@
+> 本文内容由[Nikto](https://zh.wikipedia.org/wiki/Nikto)转换而来。
+
+
 Nikto是一款开源的（[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")）[网页服务器扫描器](https://zh.wikipedia.org/wiki/网页服务器 "wikilink")，它可以对网页服务器进行全面的多种扫描，包含超过3300种有潜在危险的文件／[CGIs](https://zh.wikipedia.org/wiki/CGI "wikilink")；超过625种服务器版本；超过230种特定服务器问题。扫描项和[插件](../Page/插件.md "wikilink")可以自动更新（如果需要）。基于Whisker/libwhisker完成其底层功能。这是一款非常棒的工具，但其软件本身并不经常更新，最新和最危险的可能检测不到。
 
 Nikto的作者是[Chris Sullo](http://en.wikipedia.org/wiki/Chris_Sullo)，他是开放安全基金会（Open Security Foundation）的财务总监。

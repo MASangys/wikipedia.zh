@@ -1,3 +1,6 @@
+> 本文内容由[花見澤Q太郎](https://zh.wikipedia.org/wiki/花見澤Q太郎)转换而来。
+
+
 **花見澤Q太郎**是日本男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")[阿賀野市](https://zh.wikipedia.org/wiki/阿賀野市 "wikilink")（舊屬[北蒲原郡](https://zh.wikipedia.org/wiki/北蒲原郡 "wikilink")）出身。簡稱「花Q」。
 
 ## 簡歷

@@ -1,3 +1,6 @@
+> 本文内容由[DShK重機槍](https://zh.wikipedia.org/wiki/DShK重機槍)转换而来。
+
+
 1938式**DŠK**重機槍（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：**ДШК**，全稱**Дегтярёва-Шпагина Крупнокалиберный**，意為「捷格加廖夫—施帕金大口徑（機槍）」；[拉丁轉寫](https://zh.wikipedia.org/wiki/ISO_9 "wikilink")：**Degtârëva-Špagina Krupnokalibernyj**；或轉寫為「**DShK**」），是[蘇聯从](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1938年[二戰時期开始裝備的重型防空機槍](https://zh.wikipedia.org/wiki/二戰 "wikilink")。
 
 ## 設計

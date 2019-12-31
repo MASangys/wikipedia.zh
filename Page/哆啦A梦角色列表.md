@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A梦角色列表](https://zh.wikipedia.org/wiki/哆啦A梦角色列表)转换而来。
+
+
 **哆啦A夢角色列表**為《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》所有相關作品（包括[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[電視動畫及真人化版本](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")）的登場角色介紹，另日本以外地區的配音員資訊均以[朝日電視台](../Page/朝日電視台.md "wikilink")版本為主。
 
 ## 主要角色

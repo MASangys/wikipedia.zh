@@ -1,3 +1,6 @@
+> 本文内容由[中國JR巴士](https://zh.wikipedia.org/wiki/中國JR巴士)转换而来。
+
+
 [JR_bus_chugoku_tuyama_daikou.jpg](https://zh.wikipedia.org/wiki/File:JR_bus_chugoku_tuyama_daikou.jpg "fig:JR_bus_chugoku_tuyama_daikou.jpg") [JRbus_744-2901-C.jpg](https://zh.wikipedia.org/wiki/File:JRbus_744-2901-C.jpg "fig:JRbus_744-2901-C.jpg") [Chugoku_JR_bus01.jpg](https://zh.wikipedia.org/wiki/File:Chugoku_JR_bus01.jpg "fig:Chugoku_JR_bus01.jpg") **中國JR巴士**（日：、英：**Chugoku JR Bus Company**）是於[日本](../Page/日本.md "wikilink")[中國地方](https://zh.wikipedia.org/wiki/中國地方 "wikilink")[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[山口縣地區經營](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[巴士業務的](https://zh.wikipedia.org/wiki/巴士 "wikilink")[JR西日本子公司](../Page/西日本旅客鐵道.md "wikilink")。總社位於[廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")[南區松原町](../Page/南區_\(廣島市\).md "wikilink")1番6號。
 
 ## 历史

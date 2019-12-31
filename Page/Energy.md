@@ -1,3 +1,6 @@
+> 本文内容由[Energy](https://zh.wikipedia.org/wiki/Energy)转换而来。
+
+
 **Energy**是[台灣以舞蹈著名的男子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2002年7月12日成立，團員擅長[街舞](../Page/街舞.md "wikilink")，當時堪稱「最殺的舞蹈男團」。2002年成立時有五位成員，直至2003年7月，成員TORO（[郭葦昀](../Page/郭葦昀.md "wikilink")）因經紀人糾紛而離開團體。在2005年10月，團長[葉毅華為了專注於](https://zh.wikipedia.org/wiki/葉毅華 "wikilink")[舞蹈](../Page/舞蹈.md "wikilink")的夢想宣布退團。2007年6月加入新團員[唐振剛](../Page/唐振剛.md "wikilink")重組ENERGY重新出發\[1\]，直至2009年，Energy成員為[張書偉](../Page/張書偉.md "wikilink")、[謝坤達](../Page/謝坤達.md "wikilink")、[蕭景鴻](../Page/蕭景鴻.md "wikilink")、[唐振剛](../Page/唐振剛.md "wikilink")共四人，但成績未見起色，最後於2009年主持完節目之後正式單飛解散。
 
 ## 成員資料

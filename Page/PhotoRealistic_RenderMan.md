@@ -1,4 +1,4 @@
-> 本文内容由[PhotoRealistic RenderMan](https://zh.wikipedia.org/wiki/PhotoRealistic RenderMan)转换而来。
+> 本文内容由[PhotoRealistic RenderMan](https://zh.wikipedia.org/wiki/PhotoRealistic_RenderMan)转换而来。
 
 
 **PRMan**，[皮克斯动画工作室的](https://zh.wikipedia.org/wiki/皮克斯 "wikilink")**PhotoRealistic RenderMan**软件渲染器，简称为**PRMan**。是用于影视效果制作的三维渲染[软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")。由于[RenderMan的商标归皮克斯公司拥有](https://zh.wikipedia.org/wiki/RenderMan "wikilink")，人们经常把PRMan等同于RenderMan，实际上RenderMan是一个渲染器规范，皮克斯公司的PRMan是（声称）符合这一规范的一种产品。PRMan 13.0符合RenderMan规范第3.3版。

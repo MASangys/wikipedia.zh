@@ -1,3 +1,6 @@
+> 本文内容由[佳能FD接環鏡頭](https://zh.wikipedia.org/wiki/佳能FD接環鏡頭)转换而来。
+
+
 ## FD接環
 
 ## 新FD鏡頭

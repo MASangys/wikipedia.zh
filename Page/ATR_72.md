@@ -1,3 +1,6 @@
+> 本文内容由[ATR 72](https://zh.wikipedia.org/wiki/ATR_72)转换而来。
+
+
 **ATR 72**為[法國航太商法國航太](https://zh.wikipedia.org/wiki/法國 "wikilink")（現[空中巴士](https://zh.wikipedia.org/wiki/空中巴士 "wikilink")）與[義大利航太商](https://zh.wikipedia.org/wiki/義大利 "wikilink")（現李奧納多）合資的[飛機製造商](https://zh.wikipedia.org/wiki/飛機 "wikilink")[ATR](../Page/ATR.md "wikilink")製造的雙螺旋槳[民航機](https://zh.wikipedia.org/wiki/民航機 "wikilink")，結構上與[ATR 42製一樣](https://zh.wikipedia.org/wiki/ATR_42 "wikilink")，但機身加長4.5米，載客數提升至72人，油箱容量更大，航程更遠。目前ATR 72型已經出售超過1,000架。 [缩略图](https://zh.wikipedia.org/wiki/File:ATRv1.0.png "fig:缩略图")
 
 ## 發展

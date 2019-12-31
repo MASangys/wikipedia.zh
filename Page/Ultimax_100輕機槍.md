@@ -1,3 +1,6 @@
+> 本文内容由[Ultimax 100輕機槍](https://zh.wikipedia.org/wiki/Ultimax_100輕機槍)转换而来。
+
+
 **Ultimax 100輕機槍**是由[新加坡](../Page/新加坡.md "wikilink")的製造，定位為[班用機槍](https://zh.wikipedia.org/wiki/班用機槍 "wikilink")，為新加坡軍隊的制式[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，作為使用。
 
 ## 設計

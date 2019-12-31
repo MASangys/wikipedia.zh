@@ -1,3 +1,6 @@
+> 本文内容由[Shade](https://zh.wikipedia.org/wiki/Shade)转换而来。
+
+
 **Shade**是一套由[日本](../Page/日本.md "wikilink")公司开发的[三维绘图](https://zh.wikipedia.org/wiki/三维绘图 "wikilink")[软件](../Page/软件.md "wikilink")，相比其他同类型软件价格便宜。[电影](../Page/电影.md "wikilink")《[星舰战将](https://zh.wikipedia.org/wiki/星舰战将 "wikilink")》（Starship Troopers）中的[战舰](https://zh.wikipedia.org/wiki/战舰 "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[设计就是出自Shade](https://zh.wikipedia.org/wiki/设计 "wikilink")。2006年3月Shade发布了它的最新版本8.5。
 
 ## 版本历史

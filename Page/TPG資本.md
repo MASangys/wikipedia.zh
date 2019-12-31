@@ -1,3 +1,6 @@
+> 本文内容由[TPG資本](https://zh.wikipedia.org/wiki/TPG資本)转换而来。
+
+
 **TPG資本**（TPG Capital），原名**德州太平洋集團**（Texas Pacific Group），是美国的最大的[私人股权投资](../Page/私人股权投资.md "wikilink")公司之一，由、和於1992年創立。德州太平洋集團在[沃斯堡](../Page/沃斯堡.md "wikilink")、[門洛帕克](https://zh.wikipedia.org/wiki/門洛帕克_\(加利福尼亞州\) "wikilink")、[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")、[香港](../Page/香港.md "wikilink")、[莫斯科](../Page/莫斯科.md "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[盧森堡](https://zh.wikipedia.org/wiki/盧森堡 "wikilink")、[紐約](https://zh.wikipedia.org/wiki/紐約市 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[墨爾本](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")、[華盛頓均設有分部](https://zh.wikipedia.org/wiki/華盛頓哥倫比亞特區 "wikilink")。\[1\]
 
 德州太平洋集團的业务主要是为公司转型、管理層收購和资本重组提供资金支持。集團所投资的行业包括[媒體與](https://zh.wikipedia.org/wiki/媒體 "wikilink")[電訊](https://zh.wikipedia.org/wiki/電訊 "wikilink")、[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")[股票](../Page/股票.md "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")，以及[醫療護理](https://zh.wikipedia.org/wiki/醫療 "wikilink")。集團現正在使用第四批資金──TPG Partners IV, L.P.进行投资。該批資金於2003年3月募集完成，擁有53億[美元](../Page/美元.md "wikilink")的資本额度。

@@ -1,3 +1,6 @@
+> 本文内容由[Bonjour](https://zh.wikipedia.org/wiki/Bonjour)转换而来。
+
+
 **Bonjour**，原名**Rendezvous**，是[苹果电脑公司在其开发的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")10.2版本之后引入的[服务器](../Page/服务器.md "wikilink")搜索[协议所使用的一个](https://zh.wikipedia.org/wiki/协议 "wikilink")[商标](../Page/商标.md "wikilink")名。适用于[LAN](https://zh.wikipedia.org/wiki/LAN "wikilink")， Bonjour使用[多点传送](https://zh.wikipedia.org/wiki/多点传送 "wikilink")[域名系统](../Page/域名系统.md "wikilink")服务记录来定位各种[设备](https://zh.wikipedia.org/wiki/设备 "wikilink")，比如[打印机](../Page/打印机.md "wikilink")或者其他[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")，以及另外设备上的服务。
 
 「Bonjour」是[法语](../Page/法语.md "wikilink")，有「你好」或「早（午）安」之意，由「bon」（好）、「jour」（日）兩個辭彙所組成。

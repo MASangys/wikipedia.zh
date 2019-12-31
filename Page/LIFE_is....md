@@ -1,3 +1,6 @@
+> 本文内容由[LIFE is...](https://zh.wikipedia.org/wiki/LIFE_is...)转换而来。
+
+
 **LIFE is...**（中譯：生命之歌）是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第五張原創專輯，日本地區於2003年1月22日發行。發行首周空降[Oricon](../Page/Oricon.md "wikilink")日本公信榜冠軍，登場回數89周，總銷量超過80萬張，獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")百萬唱片認證。
 
 ## 概述

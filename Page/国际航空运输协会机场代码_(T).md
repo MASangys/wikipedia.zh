@@ -1,3 +1,6 @@
+> 本文内容由[国际航空运输协会机场代码 \(T\)](https://zh.wikipedia.org/wiki/国际航空运输协会机场代码_\(T\))转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

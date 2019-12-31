@@ -1,3 +1,6 @@
+> 本文内容由[Led Zeppelin IV](https://zh.wikipedia.org/wiki/Led_Zeppelin_IV)转换而来。
+
+
 《》(又名"ZOSO"、"Four Symbols"、"Untitled, Runes")是英國搖滾樂團[齐柏林飞船乐队发行的第四张專輯](../Page/齐柏林飞船_\(乐团\).md "wikilink")，被誉为摇滚史上最杰出的专辑之一。专辑发售时并无标题，但作为乐队第四张专辑，后通称《Led Zeppelin IV》。专辑中最著名的作品是《[Stairway to Heaven](https://zh.wikipedia.org/wiki/Stairway_to_Heaven "wikilink")》被誉为摇滚史诗。
 
 ## 專輯曲目

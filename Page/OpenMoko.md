@@ -1,3 +1,6 @@
+> 本文内容由[OpenMoko](https://zh.wikipedia.org/wiki/OpenMoko)转换而来。
+
+
 **OpenMoko**是一个遵从[FLOSS哲学](https://zh.wikipedia.org/wiki/FLOSS "wikilink")、旨在建立一个开放的[GSM制式](https://zh.wikipedia.org/wiki/GSM制式 "wikilink")[智能手机](../Page/智能手机.md "wikilink")平台的项目。它运行于[Linux](../Page/Linux.md "wikilink")平台，使用[ipkg包管理器](https://zh.wikipedia.org/wiki/ipkg "wikilink")。
 
 ## 软件

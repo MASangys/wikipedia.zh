@@ -1,3 +1,6 @@
+> 本文内容由[IWeb](https://zh.wikipedia.org/wiki/IWeb)转换而来。
+
+
 **iWeb**是一套[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（WYSIWYG）的網站製作工具軟體，由[蘋果電腦公司推出](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")。在2006年1月10日於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山舉行的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")「Macworld Conference & Expo」上正式推出。iWeb是「[iLife '06](../Page/ILife.md "wikilink")」創意套裝軟體的一部份，該軟體也在同一天推出。iWeb能建立[網站](../Page/網站.md "wikilink")和[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，並且將成品發佈至[.Mac](../Page/.Mac.md "wikilink")或其他的網路空間上。但现已停止开发，从OS X Lion中去除。
 
 ## 概觀和特色

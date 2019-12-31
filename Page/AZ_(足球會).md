@@ -1,4 +1,4 @@
-> 本文内容由[AZ \(足球會\)](https://zh.wikipedia.org/wiki/AZ \(足球會\))转换而来。
+> 本文内容由[AZ \(足球會\)](https://zh.wikipedia.org/wiki/AZ_\(足球會\))转换而来。
 
 
 [DSB-Stadion.jpg](https://zh.wikipedia.org/wiki/File:DSB-Stadion.jpg "fig:DSB-Stadion.jpg")

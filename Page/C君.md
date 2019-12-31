@@ -1,3 +1,6 @@
+> 本文内容由[C君](https://zh.wikipedia.org/wiki/C君)转换而来。
+
+
 **鄭詩君**（，），藝名「**C君**」，香港[饒舌](../Page/饒舌.md "wikilink")組合「[農夫FAMA](https://zh.wikipedia.org/wiki/農夫_\(樂隊\) "wikilink")」成員及樂隊[The Island成員](https://zh.wikipedia.org/wiki/The_Island "wikilink")，前樂隊[System Map的主音](https://zh.wikipedia.org/wiki/System_Map "wikilink")。現為香港[無綫電視基本藝人合約藝員及節目主持](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
 ## 個人簡介

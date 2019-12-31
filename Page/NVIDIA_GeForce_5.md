@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA GeForce 5](https://zh.wikipedia.org/wiki/NVIDIA GeForce 5)转换而来。
+> 本文内容由[NVIDIA GeForce 5](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_5)转换而来。
 
 
 GeForce 5（官方統稱為GeForce FX系列）是由[nVIDIA研發設計的第五代](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[GeForce](../Page/GeForce.md "wikilink")[顯示核心產品](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，分為兩大系列：

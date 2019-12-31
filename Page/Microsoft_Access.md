@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Access](https://zh.wikipedia.org/wiki/Microsoft Access)转换而来。
+> 本文内容由[Microsoft Access](https://zh.wikipedia.org/wiki/Microsoft_Access)转换而来。
 
 
 **Microsoft Office Access**（前名**Microsoft Access**）是由[微軟發佈的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[關聯式資料庫管理系統](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它結合了[Microsoft Jet Database Engine和](../Page/Microsoft_Jet_Database_Engine.md "wikilink")[圖形用戶界面兩項特點](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，是[Microsoft Office的系統程式之一](../Page/Microsoft_Office.md "wikilink")。

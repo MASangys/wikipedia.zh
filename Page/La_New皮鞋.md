@@ -1,3 +1,6 @@
+> 本文内容由[La New皮鞋](https://zh.wikipedia.org/wiki/La_New皮鞋)转换而来。
+
+
 **老牛皮國際股份有限公司**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：La New Corporation，縮寫：**La New**），是一家[臺灣](../Page/臺灣.md "wikilink")[皮鞋](../Page/皮鞋.md "wikilink")[品牌](../Page/品牌.md "wikilink")，負責人是[劉保佑](../Page/劉保佑.md "wikilink")；2004年至2019年曾經營[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")。
 
 ## 發展歷史

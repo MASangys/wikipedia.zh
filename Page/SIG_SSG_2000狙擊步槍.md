@@ -1,3 +1,6 @@
+> 本文内容由[SIG SSG 2000狙擊步槍](https://zh.wikipedia.org/wiki/SIG_SSG_2000狙擊步槍)转换而来。
+
+
 **SIG SSG 2000**是由[SIG Arms](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink")（[Swiss Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）在1960年設計及制造的[旋轉後拉式槍機](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[美国](../Page/美国.md "wikilink")的執法部門比較常見。
 
 SSG解為「精確射手步槍」（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：Scharf Schutzen Gewehr）。

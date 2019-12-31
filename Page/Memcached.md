@@ -1,3 +1,6 @@
+> 本文内容由[Memcached](https://zh.wikipedia.org/wiki/Memcached)转换而来。
+
+
 **memcached**是一套[分布式的高速缓存系統](https://zh.wikipedia.org/wiki/分布式 "wikilink")，由[LiveJournal的Brad](https://zh.wikipedia.org/wiki/LiveJournal "wikilink") Fitzpatrick开发，但目前被許多网站使用。這是一套[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，以[BSD license授權釋出](https://zh.wikipedia.org/wiki/BSD_license "wikilink")。
 
 memcached缺乏[認證以及](https://zh.wikipedia.org/wiki/認證 "wikilink")[安全管制](../Page/计算机安全.md "wikilink")，這代表應該將memcached伺服器放置在[防火牆後](https://zh.wikipedia.org/wiki/防火牆 "wikilink")。

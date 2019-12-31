@@ -1,4 +1,4 @@
-> 本文内容由[Attention Please](https://zh.wikipedia.org/wiki/Attention Please)转换而来。
+> 本文内容由[Attention Please](https://zh.wikipedia.org/wiki/Attention_Please)转换而来。
 
 
 《**ATTENTION PLEASE**》（）是[日本](../Page/日本.md "wikilink")劇作家[上條逸雄以](https://zh.wikipedia.org/wiki/上條逸雄 "wikilink")[航空](../Page/航空.md "wikilink")業界為舞台的原作[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[劇本](https://zh.wikipedia.org/wiki/劇本 "wikilink")，於1970年製作成[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[紀比呂子主演](https://zh.wikipedia.org/wiki/紀比呂子 "wikilink")。及後於2006年再次製作，由[上戶彩](../Page/上戶彩.md "wikilink")主演。漫畫家[細川知榮子便以此劇為基礎把作品漫畫化](https://zh.wikipedia.org/wiki/細川知榮子 "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[Secure Shell](https://zh.wikipedia.org/wiki/Secure Shell)转换而来。
+> 本文内容由[Secure Shell](https://zh.wikipedia.org/wiki/Secure_Shell)转换而来。
 
 
 **Secure Shell**（安全外壳协议，简称**SSH**）是一种加密的[网络传输协议](../Page/网络传输协议.md "wikilink")，可在不安全的网络中为网络服务提供安全的传输环境\[1\]。SSH通过在网络中建立来实现SSH客户端与服务器之间的连接\[2\]。虽然任何网络服务都可以通过SSH实现安全传输，SSH最常见的用途是远程登录系统，人们通常利用SSH来传输[命令行界面](../Page/命令行界面.md "wikilink")和远程执行命令。使用频率最高的场合[类Unix系统](../Page/类Unix系统.md "wikilink")，但是[Windows操作系统也能有限度地使用SSH](https://zh.wikipedia.org/wiki/Windows "wikilink")。2015年，微软宣布将在未来的操作系统中提供原生SSH协议支持\[3\]，[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 10 1809 版本已提供可手動安裝的 [OpenSSH](../Page/OpenSSH.md "wikilink")工具\[4\]。

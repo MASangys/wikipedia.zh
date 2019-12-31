@@ -1,4 +1,4 @@
-> 本文内容由[Avira AntiVirus](https://zh.wikipedia.org/wiki/Avira AntiVirus)转换而来。
+> 本文内容由[Avira AntiVirus](https://zh.wikipedia.org/wiki/Avira_AntiVirus)转换而来。
 
 
 **Avira AntiVirus**，非官方中文俗称“**小紅傘**”，是由來自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")「Avira Operations GmbH & Co. KG」公司所開發的[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。「Avira Operations GmbH & Co. KG」前身為1988年成立的「H+BEDV Datentechnik GmbH」。 於 2004 年，「H+BEDV Datentechnik GmbH」開發的「AntiVir」首次榮獲 VB100% 獎項。在 2006 年，為增加全球化銷售，原公司「H+BEDV Datentechnik GmbH」與「Avira GmbH」及「AntiVir Personal Products GmbH」合併並更名為「 Avira GmbH 」。而在 2008 年，「AVIRA」推出的 全新AntiVir 8.0 版本的新防毒軟件 ，另闢網路安全的新途，這一舉動也正趕上了 2008 年網路混合威脅浪潮。

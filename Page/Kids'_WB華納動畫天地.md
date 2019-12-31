@@ -1,3 +1,6 @@
+> 本文内容由[Kids\' WB華納動畫天地](https://zh.wikipedia.org/wiki/Kids\'_WB華納動畫天地)转换而来。
+
+
 《**Kids' WB華納動畫天地**》（），原本是[美國的一個電視動畫時段](https://zh.wikipedia.org/wiki/美國 "wikilink")，創立於1995年9月，目前星期六[早晨在CW](https://zh.wikipedia.org/wiki/早晨 "wikilink")[電視頻道中播放](https://zh.wikipedia.org/wiki/電視 "wikilink")。該節目時段亦在香港播出，但播出時間不同。
 
 2006年9月，[澳洲Nine](https://zh.wikipedia.org/wiki/澳洲 "wikilink") Network開播同名節目，但播放內容僅有澳洲本土製作之動畫節目。

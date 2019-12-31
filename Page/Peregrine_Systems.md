@@ -1,4 +1,4 @@
-> 本文内容由[Peregrine Systems](https://zh.wikipedia.org/wiki/Peregrine Systems)转换而来。
+> 本文内容由[Peregrine Systems](https://zh.wikipedia.org/wiki/Peregrine_Systems)转换而来。
 
 
 **Peregrine Systems, Inc.**是一家專注於研發企業用的[資產管理軟體](https://zh.wikipedia.org/wiki/資產管理軟體 "wikilink")、[變更管理軟體](https://zh.wikipedia.org/wiki/變更管理軟體 "wikilink")、[帮助台軟體的公司](https://zh.wikipedia.org/wiki/帮助台軟體 "wikilink")，該公司成立於1981年，總部位在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖地牙哥](../Page/聖地牙哥.md "wikilink")，此外在[美洲](../Page/美洲.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[亞太等地都設有辦事處](https://zh.wikipedia.org/wiki/亞太 "wikilink")。

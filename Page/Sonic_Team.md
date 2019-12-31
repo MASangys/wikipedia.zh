@@ -1,3 +1,6 @@
+> 本文内容由[Sonic Team](https://zh.wikipedia.org/wiki/Sonic_Team)转换而来。
+
+
 **Sonic Team**（），現稱「**世嘉消費者研發第二部**」，是一間在1988年成立的[電玩遊戲開發公司](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，原本是[世嘉](../Page/世嘉.md "wikilink")（Sega）旗下的部門之一，稱為「第八軟體開發研究部」（簡稱：Sega AM8），他們在1991年改名為「Sonic Team」，名稱取自他們開發出的著名遊戲《[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")》（*Sonic*）系列。在2000年7月1日，配合世嘉分公司化的政策，Sonic Team 一度成為世嘉的獨立子公司（株式会社ソニックチーム），隨後在2004年7月1日又重新與世嘉公司整合，成為旗下的一個開發部門至今。
 
 Sonic Team 原本是由知名遊戲設計師、製作人和程式設計師[中裕司](../Page/中裕司.md "wikilink")主導。在中的帶領下，Sonic Team 創造出了多款知名的暢銷遊戲，包括《[音速小子大冒險](https://zh.wikipedia.org/wiki/音速小子大冒險 "wikilink")》（*Sonic Adventure*）、《[飛天幽夢](../Page/飛天幽夢.md "wikilink")》（*NiGHTS into Dreams...*）等。2006年5月8日，中裕司帶著十位同仁離開了 Sonic Team，成立了獨立的遊戲開發公司「[PROPE](https://zh.wikipedia.org/wiki/PROPE "wikilink")」。

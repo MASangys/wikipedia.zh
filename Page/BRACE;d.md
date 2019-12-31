@@ -1,3 +1,6 @@
+> 本文内容由[BRACE\;d](https://zh.wikipedia.org/wiki/BRACE\;d)转换而来。
+
+
 **BRACE;d**，是一隊[J-POP組合](https://zh.wikipedia.org/wiki/J-POP "wikilink")，於2005年11月25日以動畫《[增血鬼果林](../Page/增血鬼果林.md "wikilink")》的片頭主題曲《scarlet》正式出道\[1\]。主唱[川瀨未希目前是就讀中的女子高中生](https://zh.wikipedia.org/wiki/川瀨未希 "wikilink")。
 
 ## 成員

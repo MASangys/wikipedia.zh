@@ -1,4 +1,4 @@
-> 本文内容由[NGC 24](https://zh.wikipedia.org/wiki/NGC 24)转换而来。
+> 本文内容由[NGC 24](https://zh.wikipedia.org/wiki/NGC_24)转换而来。
 
 
 **NGC 24**是[玉夫座](../Page/玉夫座.md "wikilink")的一個[漩渦星系](https://zh.wikipedia.org/wiki/漩渦星系 "wikilink")。[星等](../Page/星等.md "wikilink")為11.5，[赤經為](https://zh.wikipedia.org/wiki/赤經 "wikilink")9分56.1秒，[赤緯為](https://zh.wikipedia.org/wiki/赤緯 "wikilink")-24°57'52"。在1785年10月27日首次被[弗里德里希·威廉·赫歇爾發現](https://zh.wikipedia.org/wiki/弗里德里希·威廉·赫歇爾 "wikilink")。該星系直徑約4萬[光年](../Page/光年.md "wikilink")。

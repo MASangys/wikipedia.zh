@@ -1,3 +1,6 @@
+> 本文内容由[Windows Home Server](https://zh.wikipedia.org/wiki/Windows_Home_Server)转换而来。
+
+
 **Windows Home Server**是[微軟公司推出的一套](https://zh.wikipedia.org/wiki/微軟 "wikilink")[家用伺服器](../Page/家用伺服器.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。由時任微軟公司[董事長](../Page/董事長.md "wikilink")的[比爾·蓋茨在](https://zh.wikipedia.org/wiki/比爾·蓋茨 "wikilink")2007年1月7日的[Consumer Electronics Show中發表的這個系統](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")，將會成為為家中多部電腦進行[檔案分享](../Page/檔案分享.md "wikilink")、自動[備份](https://zh.wikipedia.org/wiki/備份 "wikilink")、-{zh-hans:远程; zh-hant:遙距;}-存取等等的解決方案。此系統是建基於[Windows Server](../Page/Windows_Server.md "wikilink") 2003 SP2。
 
 ## 特點

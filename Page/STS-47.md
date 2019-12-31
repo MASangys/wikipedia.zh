@@ -1,3 +1,6 @@
+> 本文内容由[STS-47](https://zh.wikipedia.org/wiki/STS-47)转换而来。
+
+
 ****是历史上第五十次航天飞机任务，也是[奋进号航天飞机的第二次太空飞行](https://zh.wikipedia.org/wiki/奮進號太空梭 "wikilink")。
 
 ## 任务成员

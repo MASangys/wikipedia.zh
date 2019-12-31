@@ -1,4 +1,4 @@
-> 本文内容由[Socket F](https://zh.wikipedia.org/wiki/Socket F)转换而来。
+> 本文内容由[Socket F](https://zh.wikipedia.org/wiki/Socket_F)转换而来。
 
 
 **Socket F**是第二代 [AMD Opteron](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink") 處理器（型號：22xx、82xx）所使用的[插座之一](../Page/CPU插座.md "wikilink")，擁有雙核心、1207個腳位，採用與[LGA 775相似的接觸點式設計](../Page/LGA_775.md "wikilink")，並已於2006年8月15日推出。目前推出的標準版本消耗功率為98W，另外還推出了68W的低溫、省電、低消耗功率 HE 系列，產品型號為22xxHE、82xxHE。

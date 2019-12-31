@@ -1,3 +1,6 @@
+> 本文内容由[隨意窩Xuite日誌](https://zh.wikipedia.org/wiki/隨意窩Xuite日誌)转换而来。
+
+
 **隨意窩Xuite日誌**是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[HiNet所開發](https://zh.wikipedia.org/wiki/HiNet "wikilink")，其部落格在2005年由黑歐婆開發，Blog小組所管理。現今部落格服務延伸至專業相片儲存、分享平台。2011年重新改名為「隨意窩」，平台包含的功能有Xuite日誌、Xuite信箱、Xuite相簿、Xuite影音、Xuite旅遊與雲端資料櫃\[1\]。
 
 ## 服務特色

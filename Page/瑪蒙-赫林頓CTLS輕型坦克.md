@@ -1,3 +1,6 @@
+> 本文内容由[瑪蒙-赫林頓CTLS輕型坦克](https://zh.wikipedia.org/wiki/瑪蒙-赫林頓CTLS輕型坦克)转换而来。
+
+
 **輕型作戰坦克系列**（），為美國在[二次世界大戰時所使用的](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[輕型戰車和](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")[小戰車](../Page/小戰車.md "wikilink")系列。CTL-3型的武裝為兩挺7.62毫米[M1919機槍和一挺](../Page/白朗寧M1919中型機槍.md "wikilink")12.7毫米[M2白朗寧機槍](https://zh.wikipedia.org/wiki/M2白朗寧機槍 "wikilink")，車組員兩名。瑪蒙-赫林顿原先打算將這系列坦克設計成[兩棲輕型戰車](../Page/兩棲車輛.md "wikilink")，但這個設計未获[美國海軍陸戰隊正式采用](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")。不久後，[珍珠港事變爆發](https://zh.wikipedia.org/wiki/珍珠港事變 "wikilink")，這款坦克被出口給其他盟國或被美國做為應急輕型坦克使用。
 
 该型坦克主要服役於[阿拉斯加和](../Page/阿留申群島戰役.md "wikilink")[荷屬東印度](../Page/荷蘭東印度群島戰役.md "wikilink")，美國則多把他們駐紮在海岸，負責執行防禦任務。連同樣車，瑪蒙-赫林顿CTLS輕型坦克總共製造了800多台，盟軍在1943年開始退役這些坦克，但二戰後新建立的印尼軍隊仍然使用到1949年。

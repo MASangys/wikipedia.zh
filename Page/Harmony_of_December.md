@@ -1,3 +1,6 @@
+> 本文内容由[Harmony of December](https://zh.wikipedia.org/wiki/Harmony_of_December)转换而来。
+
+
 《**十二月禮讚**》（Harmony of December）是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")24張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2006年11月29日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說

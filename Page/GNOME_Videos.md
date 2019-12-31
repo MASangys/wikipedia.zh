@@ -1,4 +1,4 @@
-> 本文内容由[GNOME Videos](https://zh.wikipedia.org/wiki/GNOME Videos)转换而来。
+> 本文内容由[GNOME Videos](https://zh.wikipedia.org/wiki/GNOME_Videos)转换而来。
 
 
 ****（原）是一套在类操作系统上运行的[多媒体](../Page/多媒体.md "wikilink")播放器，建基於桌面环境。默认的多媒体引擎是，但亦可使用程式库。在得到（现在）设为默认的多媒体播放器后大受欢迎。

@@ -1,3 +1,6 @@
+> 本文内容由[XML纸张规范](https://zh.wikipedia.org/wiki/XML纸张规范)转换而来。
+
+
 **XPS**是**XML Paper Specification**的简称，它是[微软公司开发的一种文档保存与查看的规范](https://zh.wikipedia.org/wiki/微软公司 "wikilink")。以前的开发代号为“Metro”。这个规范本身描述了这种格式以及分发、归档、显示以及处理XPS文档所遵循的规则。最为显著的特点是，XPS所用的置标语言是[WPF所用的](../Page/Windows_Presentation_Foundation.md "wikilink")[XAML](../Page/XAML.md "wikilink")的一个子集，因此显示[Windows应用程序所用的方法可以用于XPS文档](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 人们认为XPS是[Adobe](../Page/Adobe.md "wikilink")公司的[PDF的潜在竞争对手](https://zh.wikipedia.org/wiki/PDF "wikilink")。但是，XPS是一个静态文档格式，其本身不包括类似于PDF所具有的动态特性。

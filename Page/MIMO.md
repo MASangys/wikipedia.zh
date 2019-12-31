@@ -1,3 +1,6 @@
+> 本文内容由[MIMO](https://zh.wikipedia.org/wiki/MIMO)转换而来。
+
+
 [MIMO_SIMO_MISO_SISO_explanation_without_confusion.svg](https://zh.wikipedia.org/wiki/File:MIMO_SIMO_MISO_SISO_explanation_without_confusion.svg "fig:MIMO_SIMO_MISO_SISO_explanation_without_confusion.svg") **多输入多输出系统**（Multi-input Multi-output ; **MIMO**）是一种用來描述多[天线](../Page/天线.md "wikilink")[无线通信](https://zh.wikipedia.org/wiki/无线通信 "wikilink")[系统的抽象数学模型](https://zh.wikipedia.org/wiki/系统 "wikilink")，能利用发射端的多个天线各自独立發送信号，同时在接收端用多个天线接收並恢复原信息。该技术最早是由[马可尼于](https://zh.wikipedia.org/wiki/马可尼 "wikilink")1908年提出的，他利用多天线来抑制[信道衰落](https://zh.wikipedia.org/wiki/信道衰落 "wikilink")（fading）。根据收发两端天线数量，相对于普通的**单输入单输出系统**（Single-Input Single-Output，**SISO**），MIMO此類多天線技術尚包含早期所謂的「[智慧型天線](https://zh.wikipedia.org/wiki/智慧型天線 "wikilink")」，亦即**单输入多输出系统**（Single-Input Multi-Output，**SIMO**）和**多输入单输出系统**（Multiple-Input Single-Output，**MISO**）。
 
 由於MIMO可以在不需要增加頻寬或總發送功率耗損（transmit power expenditure）的情況下大幅地增加系統的資料[吞吐量](../Page/吞吐量.md "wikilink")（throughput）及傳送距離，使得此技術於近幾年受到許多矚目。MIMO的核心概念為利用多根發射天線與多根接收天線所提供之空間自由度來有效提升無線通訊系統之[頻譜效率](../Page/頻譜效率.md "wikilink")，以提升傳輸速率並改善通訊品質。

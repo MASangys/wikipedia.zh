@@ -1,3 +1,6 @@
+> 本文内容由[ESET](https://zh.wikipedia.org/wiki/ESET)转换而来。
+
+
 **ESET**（）是一家世界知名的[電腦安全軟體公司](https://zh.wikipedia.org/wiki/電腦安全 "wikilink")，創立於1992年，由兩家[私有公司合併而成](https://zh.wikipedia.org/wiki/私有公司 "wikilink")，總部位於[斯洛伐克](../Page/斯洛伐克.md "wikilink")[布拉迪斯拉發](https://zh.wikipedia.org/wiki/布拉迪斯拉發 "wikilink")\[1\]，最知名的產品為[NOD32](https://zh.wikipedia.org/wiki/NOD32 "wikilink")[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[CR比罗达特](https://zh.wikipedia.org/wiki/CR比罗达特)转换而来。
+
+
 **比罗达特查巴伯瑞阿迪赫足球俱乐部**（**Chabab Riadhi de Belouizdad**；[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")：الشباب الرياضي بيلوزيداد）是位于[阿尔及利亚首都](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")[阿尔及尔贝尔考特区的足球俱乐部](https://zh.wikipedia.org/wiki/阿尔及尔 "wikilink")。创建于1962年，俱乐部的主体育场为1955年8月20日体育场（Stade 20 Août 1955）。
 
 ## 球队荣誉

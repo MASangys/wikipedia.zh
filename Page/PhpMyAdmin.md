@@ -1,3 +1,6 @@
+> 本文内容由[PhpMyAdmin](https://zh.wikipedia.org/wiki/PhpMyAdmin)转换而来。
+
+
 **phpMyAdmin** 是一個以[PHP](../Page/PHP.md "wikilink")為基礎，以Web-Base方式架構在網站主機上的[MySQL](../Page/MySQL.md "wikilink")的資料庫管理工具，讓管理者可用Web介面管理MySQL資料庫。藉由此Web介面可以成為一個簡易方式輸入繁雜[SQL](../Page/SQL.md "wikilink")語法的較佳途徑，尤其要處理大量資料的匯入及匯出更為方便。其中一個更大的優勢在於由於phpMyAdmin跟其他PHP程式一樣在[網頁伺服器](../Page/網頁伺服器.md "wikilink")上執行，但是您可以在任何地方使用這些程式產生的[HTML](../Page/HTML.md "wikilink")頁面，也就是於遠端管理MySQL資料庫，方便的建立、修改、刪除資料庫及資料表。也可借由phpMyAdmin建立常用的php語法，方便編寫網頁時所需要的sql語法正確性。
 
 2.11.0是phpMyAdmin最後一系列支援PHP4的版本，並增加了建立與檢視View的功能，能夠從查詢的結果中建立，並能夠管理procedures。這個版本開始，也支援[MySQL](../Page/MySQL.md "wikilink")資料庫 5.0.37版本之後的查詢檔案化功能，並因應上面有數千個資料庫與資料表的伺服器，提供更好的管理介面。

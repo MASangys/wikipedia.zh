@@ -1,3 +1,6 @@
+> 本文内容由[GBS](https://zh.wikipedia.org/wiki/GBS)转换而来。
+
+
 **GBS**可以指：
 
   - [日内瓦商学院](../Page/日内瓦商学院.md "wikilink")（Geneva Business School）

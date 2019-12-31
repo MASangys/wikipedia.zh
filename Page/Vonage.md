@@ -1,3 +1,6 @@
+> 本文内容由[Vonage](https://zh.wikipedia.org/wiki/Vonage)转换而来。
+
+
 **Vonage**（，[國際音標](../Page/國際音標.md "wikilink")）是在美国[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")上市的[IP电话和](https://zh.wikipedia.org/wiki/IP电话 "wikilink")[会话发起协议](../Page/会话发起协议.md "wikilink")的网络公司，主要提供基于宽带的电话服务。2003年在美國成立。（公司名称来自于他们的座右铭“Voice-Over-Net-AGE”，意思是网络电话时代）
 
 Vonage在美国将自己宣传为“Vonage，宽带电话公司®”\[1\]和“领导互联网电话变革”。Vonage目前具有最多的用户，当前有220万用户线，\[2\]完成了50亿次呼叫。 Vonage带领着宽带语音（VoBB），或宽带电话产业穿过迅速成长的消费者市场，包括美国，英国，加拿大和其他国家。

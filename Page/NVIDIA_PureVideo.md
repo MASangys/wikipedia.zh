@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA PureVideo](https://zh.wikipedia.org/wiki/NVIDIA PureVideo)转换而来。
+> 本文内容由[NVIDIA PureVideo](https://zh.wikipedia.org/wiki/NVIDIA_PureVideo)转换而来。
 
 
 **PureVideo**是[nVidia的提高视频播放質素技術](https://zh.wikipedia.org/wiki/nVidia "wikilink")。在[GeForce 6系列开始支援](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")。能硬體加速视频播放，減少耗用CPU資源。该功能使用硬件在前端（解码）过程和后段过程（后处理）过程中协助。特别是，PureVideo可以充分地执行[MPEG-2](../Page/MPEG-2.md "wikilink")渲染的绝大多数工作，以及WMV9渲染的大量工作。

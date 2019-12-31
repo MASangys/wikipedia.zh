@@ -1,3 +1,6 @@
+> 本文内容由[DC漫畫角色列表](https://zh.wikipedia.org/wiki/DC漫畫角色列表)转换而来。
+
+
 **DC漫畫角色列表**（）是[DC漫画曾出出版或拥有的主要角色索引列表](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")（按英文字母排列）。 **注意**：只列出了维基百科现创建的角色列表，欢迎创建更多角色资料。
 
 ## 0-9

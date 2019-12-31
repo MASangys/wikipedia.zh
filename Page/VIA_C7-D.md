@@ -1,4 +1,4 @@
-> 本文内容由[VIA C7-D](https://zh.wikipedia.org/wiki/VIA C7-D)转换而来。
+> 本文内容由[VIA C7-D](https://zh.wikipedia.org/wiki/VIA_C7-D)转换而来。
 
 
 [c7d-logo.gif](https://zh.wikipedia.org/wiki/File:c7d-logo.gif "fig:c7d-logo.gif") **VIA C7-D**是一款x86處理器，核心代號為Esther，由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[威盛電子公司設計](https://zh.wikipedia.org/wiki/威盛 "wikilink")。C7-D處理器與C7及C7-M處理器架構一樣採用**CoolStream**架構，C7-D時脈最高為1.8GHz，而最大功耗僅為20W。VIA C7-D採用了nanoBGA2封裝，核心面積僅為21mm x 21 mm，現時擁有1.5GHz及1.8GHz兩款型號。C7-D擁有32 way 128KB L2 Cache、16階工作管線。支援[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")及[SSE3](../Page/SSE3.md "wikilink")等多媒體指令集。

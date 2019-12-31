@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵E線](https://zh.wikipedia.org/wiki/紐約地鐵E線)转换而来。
+
+
 **E線第八大道慢車**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為藍色\[1\]。
 
 E線在任何時候都營運，來往的[牙買加中心-帕森斯/射手和](https://zh.wikipedia.org/wiki/牙買加中心-帕森斯/射手車站_\(射手大道線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[錢伯斯街-世界貿易中心](https://zh.wikipedia.org/wiki/錢伯斯街-世界貿易中心／公園廣場車站 "wikilink")，有限度服務以[179街為總站](https://zh.wikipedia.org/wiki/牙買加-179街車站_\(IND皇后林蔭路線\) "wikilink")而不是牙買加中心。日間列車在皇后區以快車營運，在曼哈頓以慢車營運，深夜列車停靠全線所有車站。

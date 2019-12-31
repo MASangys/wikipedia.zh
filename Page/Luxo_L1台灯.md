@@ -1,4 +1,4 @@
-> 本文内容由[Luxo L1台灯](https://zh.wikipedia.org/wiki/Luxo L1台灯)转换而来。
+> 本文内容由[Luxo L1台灯](https://zh.wikipedia.org/wiki/Luxo_L1台灯)转换而来。
 
 
 [Luxo_logo_2006-08-01.png](https://zh.wikipedia.org/wiki/File:Luxo_logo_2006-08-01.png "fig:Luxo_logo_2006-08-01.png")

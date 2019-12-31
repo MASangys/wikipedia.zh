@@ -1,3 +1,6 @@
+> 本文内容由[月刊少年Magazine](https://zh.wikipedia.org/wiki/月刊少年Magazine)转换而来。
+
+
 《**月刊少年Magazine**》（）是[日本](../Page/日本.md "wikilink")[講談社發行的一本](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")。専門連載[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。1965年創刊時名《別冊少年Magazine》。其後經過一段休刊期間，於1974年復刊，1975年改名《月刊少年Magazine》。
 
 在少年漫畫雑誌當中，銷量排在[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")、[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")、、[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")後的第5位。特徵為長期連載作品比較多。

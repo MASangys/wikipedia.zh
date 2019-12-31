@@ -1,3 +1,6 @@
+> 本文内容由[Dating Stephy](https://zh.wikipedia.org/wiki/Dating_Stephy)转换而来。
+
+
 《**Dating Stephy**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧麗欣](../Page/鄧麗欣.md "wikilink")的第3張個人音樂專輯，於2007年2月14日推出。該日剛剛好是西方[情人節](https://zh.wikipedia.org/wiki/情人節 "wikilink")，所以中文譯名亦叫“[約會](../Page/約會.md "wikilink")（Dating）鄧麗欣（Stephy）”。這張大碟比上一張大碟[Fantasy發行相差](https://zh.wikipedia.org/wiki/Fantasy "wikilink")11個月，同時亦跟隨Fantasy的風格，推出三個不同版本。主打歌包括電燈膽、日久生情和七夕。這張大碟入選《IFPI香港唱片銷量大獎2007》的十大銷量粵語唱片。\[1\]
 
 ## 大碟特色

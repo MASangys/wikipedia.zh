@@ -1,3 +1,6 @@
+> 本文内容由[NBA全明星周末](https://zh.wikipedia.org/wiki/NBA全明星周末)转换而来。
+
+
 [NBA_All_Star_Game_2009_birds_eye_view.jpg](https://zh.wikipedia.org/wiki/File:NBA_All_Star_Game_2009_birds_eye_view.jpg "fig:NBA_All_Star_Game_2009_birds_eye_view.jpg")\]\] **NBA全明星周末**是[NBA](../Page/NBA.md "wikilink")每个赛季中的一项篮球娱乐活动，每年在2月左右在预先决定好的地点举行。整个NBA全明星周末包括以下几个主要活动：
 
   - [NBA全明星赛](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")：由球迷票选出的球员组成的东西部全明星阵容进行对抗；

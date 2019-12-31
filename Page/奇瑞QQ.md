@@ -1,3 +1,6 @@
+> 本文内容由[奇瑞QQ](https://zh.wikipedia.org/wiki/奇瑞QQ)转换而来。
+
+
 **奇瑞QQ** （代号 *S11*） 是[中国汽车制造商](https://zh.wikipedia.org/wiki/中国 "wikilink")[奇瑞汽车公司于](https://zh.wikipedia.org/wiki/奇瑞汽车有限公司 "wikilink")2003年推出的一款[微型车](https://zh.wikipedia.org/wiki/微型车 "wikilink")。在2006年奇瑞公司推出其三箱版本升级版[奇瑞QQ6后](https://zh.wikipedia.org/wiki/奇瑞QQ6 "wikilink")，原车型更名为QQ3。
 
 ## 历史

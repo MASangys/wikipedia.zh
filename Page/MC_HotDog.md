@@ -1,4 +1,4 @@
-> 本文内容由[MC HotDog](https://zh.wikipedia.org/wiki/MC HotDog)转换而来。
+> 本文内容由[MC HotDog](https://zh.wikipedia.org/wiki/MC_HotDog)转换而来。
 
 
 **姚中仁**（），[藝名](../Page/藝名.md "wikilink")**MC HotDog**，又稱**mc熱狗**或簡稱**熱狗**，生於[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")，[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[台北市立建國中學補校](../Page/臺北市立建國高級中學附設高級進修補習學校.md "wikilink")、[輔仁大學](../Page/輔仁大學.md "wikilink")影像傳播學士。他的歌曲大多使用直白的語言對各種社會現象進行赤裸裸的揭露。

@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢最終回](https://zh.wikipedia.org/wiki/哆啦A夢最終回)转换而来。
+
+
 **哆啦A夢最終回**，意為[日本](../Page/日本.md "wikilink")著名[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的結局。目前除了原作者[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")因出版社暫停哆啦A夢連載時的暫別篇，及電視動畫季度播畢後的告別篇，幾乎為網上流傳作品，儘管如此，作者去世前仍表明《哆啦A夢》沒有實質上結局，並隨著過世而結束連載，現今《哆啦A夢》的動畫仍在日本[朝日電視台](../Page/朝日電視台.md "wikilink")播放，漫畫連載部分則由[小學館](../Page/小學館.md "wikilink")出版社及[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")繼續出版，每年也會在日本黃金週檔期推出[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。 __TOC__
 
 ## 正式版本

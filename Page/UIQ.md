@@ -1,3 +1,6 @@
+> 本文内容由[UIQ](https://zh.wikipedia.org/wiki/UIQ)转换而来。
+
+
 **UIQ**（原名User Interface Quartz，水晶用户界面）是所有的基于[Symbian操作系统的软件平台](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")。UIQ的本质是一种[用户界面](../Page/用户界面.md "wikilink")层，为核心[操作系统](../Page/操作系统.md "wikilink")提供附加的组件，使开发第三方应用软件来扩充手机的功能成为可能。
 
 ## 各版本首发

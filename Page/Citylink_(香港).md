@@ -1,4 +1,4 @@
-> 本文内容由[Citylink \(香港\)](https://zh.wikipedia.org/wiki/Citylink \(香港\))转换而来。
+> 本文内容由[Citylink \(香港\)](https://zh.wikipedia.org/wiki/Citylink_\(香港\))转换而来。
 
 
 [Citylink_Void_2015.jpg](https://zh.wikipedia.org/wiki/File:Citylink_Void_2015.jpg "fig:Citylink_Void_2015.jpg") [CitylinkPlaza.jpg](https://zh.wikipedia.org/wiki/File:CitylinkPlaza.jpg "fig:CitylinkPlaza.jpg") [Citylink_Upper_level_Restaurants_201612.jpg](https://zh.wikipedia.org/wiki/File:Citylink_Upper_level_Restaurants_201612.jpg "fig:Citylink_Upper_level_Restaurants_201612.jpg") [Shatin_Citylink_201208.jpg](https://zh.wikipedia.org/wiki/File:Shatin_Citylink_201208.jpg "fig:Shatin_Citylink_201208.jpg") [Citylink_Level_6_201612.jpg](https://zh.wikipedia.org/wiki/File:Citylink_Level_6_201612.jpg "fig:Citylink_Level_6_201612.jpg") [Citylink_PlazaLevel7.jpg](https://zh.wikipedia.org/wiki/File:Citylink_PlazaLevel7.jpg "fig:Citylink_PlazaLevel7.jpg")

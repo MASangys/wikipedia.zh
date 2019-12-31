@@ -1,3 +1,6 @@
+> 本文内容由[Kiwoom英雄](https://zh.wikipedia.org/wiki/Kiwoom英雄)转换而来。
+
+
 **Kiwoom英雄**（、），是[KBO聯賽](../Page/KBO聯賽.md "wikilink")的球隊之一，母企業為[韓國的投資公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")**Centennial Investment**，成立於2008年，為[現代獨角獸](../Page/現代獨角獸.md "wikilink")宣布解散後，由投資公司**Centennial Investment**獲邀組隊，成員大多來自原[現代獨角獸](../Page/現代獨角獸.md "wikilink")隊，目前該隊以出售冠名贊助權為隊名，成立之初由[我們煙草公司](https://zh.wikipedia.org/wiki/我們煙草公司 "wikilink")（韓文：우리담배）取得冠名贊助權，後由[耐克森輪胎](../Page/耐克森輪胎.md "wikilink")取得，2018年底改和[Kiwoom證券簽約](https://zh.wikipedia.org/wiki/Kiwoom證券 "wikilink")，並更為現名。
 
 ## 球隊歷史

@@ -1,3 +1,6 @@
+> 本文内容由[NBA全明星賽最有價值球員](https://zh.wikipedia.org/wiki/NBA全明星賽最有價值球員)转换而来。
+
+
 **NBA全明星赛最有價值球員**（），通常簡稱為「**All-Star Game MVP**」，是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家籃球協會頒發給每年於](https://zh.wikipedia.org/wiki/國家籃球協會 "wikilink")[NBA全明星赛中表現最優秀的球員的獎項](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")。该奖项是由一组媒体成员在[全明星赛结束后投票选出的](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")，得票最高的球员或者是并列得票最高的两位球员将会获奖。.\[1\]
 
 从1953年起NBA官方决定为每年的[NBA全明星赛选出一位](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")[最有价值球员](https://zh.wikipedia.org/wiki/最有价值球员 "wikilink")（MVP），于是设立了这个奖项。而NBA亦为1953年之前两年的[NBA全明星赛补选出了](https://zh.wikipedia.org/wiki/NBA全明星赛 "wikilink")[最有价值球员](https://zh.wikipedia.org/wiki/最有价值球员 "wikilink")，[愛德·麥考利和](https://zh.wikipedia.org/wiki/愛德·麥考利 "wikilink")[保羅·阿里金分别被选为](https://zh.wikipedia.org/wiki/保羅·阿里金 "wikilink")[1951年和](https://zh.wikipedia.org/wiki/1951年NBA全明星赛 "wikilink")[1952年的全明星赛MVP](https://zh.wikipedia.org/wiki/1952年NBA全明星赛 "wikilink")。\[2\]

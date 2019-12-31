@@ -1,3 +1,6 @@
+> 本文内容由[LightWave 3D](https://zh.wikipedia.org/wiki/LightWave_3D)转换而来。
+
+
 **LightWave**是由[NewTek公司開發的一款專業](https://zh.wikipedia.org/wiki/NewTek "wikilink")[三維繪圖](https://zh.wikipedia.org/wiki/三維繪圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。曾經使用Lightwave製作過的最知名的作品是[影片](https://zh.wikipedia.org/wiki/電影 "wikilink")《[鐵達尼號](https://zh.wikipedia.org/wiki/鐵達尼號 "wikilink")》。
 
 它的誕生大約是在上個世紀80年代末，年輕的程式設計師Allen Hastings憑着一己之力開發出了Amiga平台上的一個帶有建模、動畫和簡單渲染功能的3D軟體，這個軟體就是最早的Lightwave的雛形。這時Newtek公司發現了Allen，並且很快將他邀入了公司。因此，Lightwave便一直發展。

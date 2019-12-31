@@ -1,3 +1,6 @@
+> 本文内容由[BASICA](https://zh.wikipedia.org/wiki/BASICA)转换而来。
+
+
 **BASICA**是「**A**dvanced **BASIC**」的縮寫，它是[微軟公司為](https://zh.wikipedia.org/wiki/微軟 "wikilink")[PC-DOS](../Page/PC-DOS.md "wikilink")寫的一套單純以[磁碟為基礎的](https://zh.wikipedia.org/wiki/磁碟 "wikilink")[BASIC](../Page/BASIC.md "wikilink")[直譯器](../Page/直譯器.md "wikilink")。
 
 BASICA允許在有[ROM BASIC](https://zh.wikipedia.org/wiki/ROM_BASIC "wikilink")（此ROM BASIC能獨自運作，不用載入任何東西）的早期[IBM PC機型上面使用](../Page/IBM_PC.md "wikilink")，當[DOS](../Page/DOS.md "wikilink")被載入後，它會增加一些存取磁碟上檔案的功能。自從後來的IBM PC或相容機型，少了ROM BASIC之後，它就無用武之地了。

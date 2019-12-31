@@ -1,3 +1,6 @@
+> 本文内容由[LOVEppears](https://zh.wikipedia.org/wiki/LOVEppears)转换而来。
+
+
 《**LOVEppears**》（愛現）為日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第二張專輯，與單曲《[appears](https://zh.wikipedia.org/wiki/appears "wikilink")》一起於1999年11月10日在日本發行，首周銷量即超過一百二十萬張。如同前作的首張專輯，《LOVEppears》在公信榜上也停留了高達64個星期，成為日本史上最佳銷售量第40名的專輯。
 
 ## 背景與主題

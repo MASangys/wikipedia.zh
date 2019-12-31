@@ -1,3 +1,6 @@
+> 本文内容由[Take me Home](https://zh.wikipedia.org/wiki/Take_me_Home)转换而来。
+
+
 [HK_Newspaper_Take_Me_Home_162.jpg](https://zh.wikipedia.org/wiki/File:HK_Newspaper_Take_Me_Home_162.jpg "fig:HK_Newspaper_Take_Me_Home_162.jpg") 《**Take me Home生活區報**》是[香港](../Page/香港.md "wikilink")昔日一份免費的地區性報紙，由[香港經濟日報](../Page/香港經濟日報.md "wikilink")經營，2005年8月創刊，逢星期五出版，每周一版，又為香港六個地區每區一版。《Take me Home》 讀者群主要是香港[中產階級](../Page/中產階級.md "wikilink")之家庭、及一眾關心香港社區發展的人士及團體，並每期報導企業社會責任（corporate social responsibility - CSR）。所以《Take me Home》 放置於香港各私人屋苑及居屋大堂、[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")、[商場](../Page/商場.md "wikilink")、主要商業區及交通輸出口當眼處，免費派發，派完即止。
 
 《Take me Home》 是「[小報](https://zh.wikipedia.org/wiki/小報 "wikilink")」大小，內容是[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，以香港之社區性新聞為主，另有健康、飲食、商場及資訊性題材，六區內容大致不同。《Take me Home》 的收入來源是[報紙](../Page/報紙.md "wikilink")[廣告](../Page/廣告.md "wikilink")，尤其以商場活動及醫藥健康產品為主。

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Visual C♯](https://zh.wikipedia.org/wiki/Microsoft_Visual_C♯)转换而来。
+
+
 **Microsoft Visual C\#**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[微軟公司開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[C\#编程语言規格之集成开发环境使用者介面](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")。
 
 其中*Visual*這個術語是微軟相關產品的一致性的“品牌名稱”，一如微軟其它的產品一樣：[Visual Basic](../Page/Visual_Basic.md "wikilink")，[Visual FoxPro和](../Page/Visual_FoxPro.md "wikilink")[Visual C++](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")。所有这些产品都与一个图形化的[集成开发环境](../Page/集成开发环境.md "wikilink")打包在一起，并且支持基于[Windows的应用程序的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[快速开发](https://zh.wikipedia.org/wiki/快速开发 "wikilink")。

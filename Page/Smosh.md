@@ -1,3 +1,6 @@
+> 本文内容由[Smosh](https://zh.wikipedia.org/wiki/Smosh)转换而来。
+
+
 **Smosh**是來自[Youtube的喜劇搭檔](https://zh.wikipedia.org/wiki/Youtube "wikilink")，目前唯一的成員為**伊恩·安德魯·席克斯**（Ian Andrew Hecox，生於1987年11月30日），原成員還有**丹尼爾·安東尼·帕迪亞**（Daniel Anthony Padilla，生於1987年9月16日）。\[1\]帕迪亞早在2003年以Smosh為筆名，為拍攝動畫影片。後來他的朋友伊恩·席克斯加入，並在影片分享網站Youtube上傳多部影片，也在2005年底成為該網站最熱門的頻道之一。Smosh在2013年1月成為Youtube上最多人訂閱的頻道。\[2\]\[3\]\[4\]直至2015年1月20日，總共約有二千萬位訂閱者。\[5\]2017年6月14日安東尼因為不想被企業約束而離開。現今Smosh的製作團隊已將影片的領域擴張到[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[西班牙文和](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")[遊戲等領域的影片](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。2018年11月6日因為母公司Defy Media倒閉而暫時停止活動，後來重開。
 
 ## 歷史

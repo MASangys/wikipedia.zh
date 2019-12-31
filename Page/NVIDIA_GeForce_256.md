@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA GeForce 256](https://zh.wikipedia.org/wiki/NVIDIA GeForce 256)转换而来。
+> 本文内容由[NVIDIA GeForce 256](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_256)转换而来。
 
 
 **GeForce 256**（核心代號**NV10**）是由NVIDIA研發的第五代[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。此核心常簡稱為**GeForce**，这亦是[NVIDIA第一个以](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")"[GeForce](../Page/GeForce.md "wikilink")"為名的顯示核心。NVIDIA於1999年8月發佈\[1\]。GeForce 256與前代（[RIVA TNT2](https://zh.wikipedia.org/wiki/RIVA_TNT2 "wikilink")）相比增加Pixel Shader流水線的數目，支援硬体[T\&L引擎](https://zh.wikipedia.org/wiki/T&L "wikilink")，亦支援[MPEG-2](../Page/MPEG-2.md "wikilink")硬体影象加速。GeForce 256憑著它的功能和速度，在各路廠商的競爭中取得很好銷量，令NVIDIA的电腦图形工業霸主地位更堅固。

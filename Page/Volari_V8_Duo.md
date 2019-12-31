@@ -1,4 +1,4 @@
-> 本文内容由[Volari V8 Duo](https://zh.wikipedia.org/wiki/Volari V8 Duo)转换而来。
+> 本文内容由[Volari V8 Duo](https://zh.wikipedia.org/wiki/Volari_V8_Duo)转换而来。
 
 
 **Volari V8 Duo**是一種[AGP](../Page/AGP.md "wikilink")双核心[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，[XGI設計](https://zh.wikipedia.org/wiki/XGI "wikilink")，於2003年12月發佈，支援[DirectX](../Page/DirectX.md "wikilink") 9.0和[OpenGL](../Page/OpenGL.md "wikilink") 1.4\[1\]。有報導稱Volari V8 Duo曾在[日本](../Page/日本.md "wikilink")[秋叶原电脑市场上市销售](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")\[2\]。效能大約等於[GeForce](../Page/GeForce.md "wikilink") 5700 Ultra 或 [Radeon](../Page/Radeon.md "wikilink") 9600XT 。XGI將兩顆中階核心合併成一張顯示卡，对抗GeForce 5900 或 Radeon 9800。由於驅动問題，效能一般。

@@ -1,4 +1,4 @@
-> 本文内容由[Apache Flex](https://zh.wikipedia.org/wiki/Apache Flex)转换而来。
+> 本文内容由[Apache Flex](https://zh.wikipedia.org/wiki/Apache_Flex)转换而来。
 
 
 **Apache Flex**（前稱**Adobe Flex**）是一个基于[Adobe](../Page/Adobe.md "wikilink")[Flash平台的](https://zh.wikipedia.org/wiki/Flash "wikilink")，用以开发和部署[RIA](https://zh.wikipedia.org/wiki/多樣化網際網路應用程式 "wikilink")（Rich Internet Applications）的[SDK](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")（Software Development Kit）。最初由[Macromedia](../Page/Macromedia.md "wikilink")公司于2004年3月发布，并且后来由[Adobe](../Page/Adobe.md "wikilink")收购，并由[Adobe](../Page/Adobe.md "wikilink")于2011年将之捐献给[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")\[1\]，在2012年推动成为首要项目。

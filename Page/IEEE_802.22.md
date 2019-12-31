@@ -1,4 +1,4 @@
-> 本文内容由[IEEE 802.22](https://zh.wikipedia.org/wiki/IEEE 802.22)转换而来。
+> 本文内容由[IEEE 802.22](https://zh.wikipedia.org/wiki/IEEE_802.22)转换而来。
 
 
 IEEE 802.22标准全称为：*Standard for Wireless Regional Area Networks (WRAN) - Specific requirements - Part 22: Cognitive Wireless RAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications: Policies and procedures for operation in the TV Bands*\[1\]

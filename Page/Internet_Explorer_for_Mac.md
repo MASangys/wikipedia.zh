@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer for Mac](https://zh.wikipedia.org/wiki/Internet_Explorer_for_Mac)转换而来。
+
+
 **Internet Explorer for Mac**（亦稱為**Internet Explorer:mac**或**Internet Explorer麥金塔版本**）是[微軟公司為](https://zh.wikipedia.org/wiki/微軟 "wikilink")[麥金塔](../Page/麥金塔.md "wikilink")平台而開發的一款[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。最初的版本是建基於Windows版本的[Internet Explorer而開發的](../Page/Internet_Explorer.md "wikilink")，但後期的版本如5.0版則使用新的[排版引擎](../Page/排版引擎.md "wikilink")名為[Tasman](../Page/Tasman.md "wikilink")\[1\]。
 
 [蘋果電腦和微軟在](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")1997年同意將Internet Explorer作為[Mac OS的預設瀏覽器](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")\[2\]，直至2003年被由蘋果電腦自家開發的[Safari](../Page/Safari.md "wikilink")瀏覽器所取代。

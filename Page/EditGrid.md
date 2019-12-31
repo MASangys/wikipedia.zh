@@ -1,3 +1,6 @@
+> 本文内容由[EditGrid](https://zh.wikipedia.org/wiki/EditGrid)转换而来。
+
+
 EditGrid，是一個[Web 2.0](../Page/Web_2.0.md "wikilink")[試算表服式](https://zh.wikipedia.org/wiki/試算表 "wikilink")，由[香港](../Page/香港.md "wikilink")創業企業[Team and Concepts開發](https://zh.wikipedia.org/wiki/Team_and_Concepts "wikilink")，於2007年2月14日推出首個正式版本（首個公眾[預覽版本於](https://zh.wikipedia.org/wiki/預覽版本 "wikilink")2006年4月7日推出）。除英語版外，EditGrid備有八個語文版本，包括[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")、[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")、[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[荷蘭文](https://zh.wikipedia.org/wiki/荷蘭文 "wikilink")、[巴西](../Page/巴西.md "wikilink")[葡萄牙文及](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")[繁](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")、[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")。個人用戶可免費登錄。
 
 ## 功能簡介

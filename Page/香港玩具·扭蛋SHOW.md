@@ -1,3 +1,6 @@
+> 本文内容由[香港玩具·扭蛋SHOW](https://zh.wikipedia.org/wiki/香港玩具·扭蛋SHOW)转换而来。
+
+
 **香港玩具·扭蛋SHOW**號稱為全球首個[扭蛋展覽](https://zh.wikipedia.org/wiki/扭蛋 "wikilink")，於2007年4月在[香港](../Page/香港.md "wikilink")首次舉辦，於[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行。
 
 ## 內容

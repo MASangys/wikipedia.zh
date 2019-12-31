@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TQ2\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ2\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TQ2\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TQ2\))转换而来。
 
 
 :\*TQ2 基本[有机化学工业](https://zh.wikipedia.org/wiki/有机化学工业 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[Snort](https://zh.wikipedia.org/wiki/Snort)转换而来。
+
+
 **Snort**是一套[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[網路入侵預防軟體與](https://zh.wikipedia.org/wiki/入侵預防系統 "wikilink")[網路入侵檢測軟體](https://zh.wikipedia.org/wiki/入侵檢測系統 "wikilink")。Snort使用了以偵測簽章（signature-based）與[通訊協定的偵測方法](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")。截至目前為止，Snort的被下載次數已達到數百萬次。 Snort被認為是全世界最廣泛使用的入侵預防與偵測軟體。
 
 1998年，Martin Roesch撰寫了一個名為Snort的軟體，被其定位成簡單輕巧的入侵偵測軟體。 如今Snort的影響力遠廣布全世界。經過多年的發展，Snort已經成為一成熟且多功能的軟體，在入侵偵測與預防的領域中被廣泛使用。近來在侵入規則語言（rules language）和偵測功能的進步之下，Snort已成為最富彈性與精確的威脅偵測軟體之一。

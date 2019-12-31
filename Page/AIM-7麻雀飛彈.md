@@ -1,3 +1,6 @@
+> 本文内容由[AIM-7麻雀飛彈](https://zh.wikipedia.org/wiki/AIM-7麻雀飛彈)转换而来。
+
+
 **AIM-7麻雀**是[美國的一種中程](https://zh.wikipedia.org/wiki/美國 "wikilink")[半主動雷達導引的](https://zh.wikipedia.org/wiki/半主動雷達導引 "wikilink")[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")。AIM-7是西方國家在1950年代至1990年代間最主要的[超視距空戰武器](https://zh.wikipedia.org/wiki/超視距作戰 "wikilink")。它現在仍在許多國家服役中，但更先進的[AIM-120先進中程空對空飛彈](../Page/AIM-120先進中程空對空飛彈.md "wikilink")正逐步取代它。
 
 **[RIM-7海麻雀](../Page/RIM-7海麻雀导弹.md "wikilink")**是以AIM-7為基礎發展的艦載近距離[防空飛彈](https://zh.wikipedia.org/wiki/防空飛彈 "wikilink")，[美國海軍](../Page/美國海軍.md "wikilink")現以海麻雀作船隻防空之用。**MIM-7**則是AIM-7的陸上版。

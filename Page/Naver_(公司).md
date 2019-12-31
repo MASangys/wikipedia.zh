@@ -1,4 +1,4 @@
-> 本文内容由[Naver \(公司\)](https://zh.wikipedia.org/wiki/Naver \(公司\))转换而来。
+> 本文内容由[Naver \(公司\)](https://zh.wikipedia.org/wiki/Naver_\(公司\))转换而来。
 
 
 **Naver株式會社**（；）是[韓國目前最大的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[互聯網服務公司](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。專營搜尋引擎業務，旗下擁有經營通訊軟體的[LINE公司及新創企業孵化器的Camp](../Page/LINE_\(公司\).md "wikilink") Mobile公司。

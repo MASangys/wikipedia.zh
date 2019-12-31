@@ -1,4 +1,4 @@
-> 本文内容由[Invision Power Board](https://zh.wikipedia.org/wiki/Invision Power Board)转换而来。
+> 本文内容由[Invision Power Board](https://zh.wikipedia.org/wiki/Invision_Power_Board)转换而来。
 
 
 ## 简介

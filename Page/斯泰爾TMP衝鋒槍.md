@@ -1,3 +1,6 @@
+> 本文内容由[斯泰爾TMP衝鋒槍](https://zh.wikipedia.org/wiki/斯泰爾TMP衝鋒槍)转换而来。
+
+
 **斯泰爾TMP**（Steyr TMP）是由[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")設計的[9毫米](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")。而當中TMP解為（）戰術[衝鋒手槍](../Page/全自動手槍.md "wikilink")。
 
 ## 設計

@@ -1,4 +1,4 @@
-> 本文内容由[AMD Duron](https://zh.wikipedia.org/wiki/AMD Duron)转换而来。
+> 本文内容由[AMD Duron](https://zh.wikipedia.org/wiki/AMD_Duron)转换而来。
 
 
 [Duron_1600_Applebred_model_A_Front.jpg](https://zh.wikipedia.org/wiki/File:Duron_1600_Applebred_model_A_Front.jpg "fig:Duron_1600_Applebred_model_A_Front.jpg") **Duron**是美國[AMD公司的一種為](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86計算機平台而設的](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，屬於AMD的第七代（[K7](https://zh.wikipedia.org/wiki/K7 "wikilink")）處理器，其中文官方名稱為“**钻龍**”，根据其英文发音被俗称为“**毒龙**”。

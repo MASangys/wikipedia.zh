@@ -1,3 +1,6 @@
+> 本文内容由[MOZ 召喚王](https://zh.wikipedia.org/wiki/MOZ_召喚王)转换而来。
+
+
 **MOZ 召喚王**，簡稱**MOZ**，[日本](../Page/日本.md "wikilink")原來稱為**大貝獸物語 **，是天田印刷加工廠發售的集換式卡牌[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。這套卡根據由[南夢宮萬代發展公司](https://zh.wikipedia.org/wiki/南夢宮萬代發展公司 "wikilink") 所發售的RPG[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《大貝獸物語系列》設計出來的卡牌遊戲。此卡牌在日本於1997年開始發售，隨後便在[香港](../Page/香港.md "wikilink")（2000年1月1日）和[澳門](../Page/澳門.md "wikilink")發售[中文版](https://zh.wikipedia.org/wiki/漢語 "wikilink")。中文版譯作**召喚王**，是因為這遊戲的模式是一些召喚師召喚出不同的召喚獸來比試。
 
 ## 基本玩法

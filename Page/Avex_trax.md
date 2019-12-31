@@ -1,3 +1,6 @@
+> 本文内容由[Avex trax](https://zh.wikipedia.org/wiki/Avex_trax)转换而来。
+
+
 **Avex trax** （）是[日本](../Page/日本.md "wikilink")[愛貝克思集團](../Page/愛貝克思集團.md "wikilink")屬下的一間[唱片公司](../Page/唱片公司.md "wikilink")，成立於1990年，是愛貝克思的首間唱片公司。名字的trax取自tracks（[音軌](https://zh.wikipedia.org/wiki/音軌 "wikilink")）。\[1\]
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[光岡Le-Seyde](https://zh.wikipedia.org/wiki/光岡Le-Seyde)转换而来。
+
+
 **Le-Seyde**（****）為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的仿古典豪華作品車輛。車輛設計以Mercedes-Benz 500K為藍本。
 
 ## 車輛歷史

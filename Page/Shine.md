@@ -1,3 +1,6 @@
+> 本文内容由[Shine](https://zh.wikipedia.org/wiki/Shine)转换而来。
+
+
 **Shine**是[香港樂壇的二人男子](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")[組合](../Page/組合.md "wikilink")，由[徐天佑](../Page/徐天佑.md "wikilink")與[黃又南](../Page/黃又南.md "wikilink")於2001年組成。徐天佑與黃又南二人都是被[陳果發掘](https://zh.wikipedia.org/wiki/陳果 "wikilink")，接拍廣告，繼而成為組合。Shine與[Twins同期出道](https://zh.wikipedia.org/wiki/Twins "wikilink")，曾與[Twins合作拍攝](https://zh.wikipedia.org/wiki/Twins "wikilink")《[這個夏天有異性](../Page/這個夏天有異性.md "wikilink")》和《[一碌蔗](../Page/一碌蔗.md "wikilink")》。Shine出道後相繼有同類型的組合出現，包括[Boy'z](../Page/Boy'z.md "wikilink")和[E-kids](../Page/E-kids.md "wikilink")。
 
 2002年，Shine在[叱吒樂壇流行榜頒獎典禮成為首個同時奪得](https://zh.wikipedia.org/wiki/叱吒樂壇流行榜頒獎典禮 "wikilink")[叱咤樂壇生力軍組合金獎和](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")[叱咤樂壇組合金獎的組合](../Page/2002年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[三菱Lancer Evolution](https://zh.wikipedia.org/wiki/三菱Lancer_Evolution)转换而来。
+
+
 **三菱Lancer Evolution**，俗稱**EVO**、**LanEVO**，是於1990年代初由[三菱汽車為參加](https://zh.wikipedia.org/wiki/三菱汽車工業有限公司 "wikilink")[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，以其前輪驅動的小型四門家用轎車[Lancer為藍本](https://zh.wikipedia.org/wiki/三菱Lancer "wikilink")，開發出的四門[高性能轎車](../Page/高性能轎車.md "wikilink")。迄今為止總共開發了10代，每代均由[羅馬數字作輔助標記](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")，均配備2公升[渦輪增壓](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")[引擎和全時](https://zh.wikipedia.org/wiki/引擎 "wikilink")[四輪驅動系統](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，因其連續四年勇奪世界拉力錦標賽的年度車手冠軍寶座，三菱Lancer Evolution的名字因此而紅遍全球，成為諸多追求高性能車迷們追捧的愛車之一。
 
 三菱Lancer Evolution最初只在日本本土和香港發售，到1997年，三菱Lancer Evolution由於在[世界拉力錦標賽的佳績而名聲大振](https://zh.wikipedia.org/wiki/世界拉力錦標賽 "wikilink")，才開始生產左駕版銷往歐洲市場。繼而直到2003年，三菱汽車看到了其競爭對手[速霸陸](../Page/速霸陸.md "wikilink")的[速霸陸WRX](../Page/速霸陸WRX.md "wikilink")在美國市場獲得了成功，才決心從第8代Lancer Evolution開始，將其出口至北美市場。

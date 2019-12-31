@@ -1,3 +1,6 @@
+> 本文内容由[PowerDVD](https://zh.wikipedia.org/wiki/PowerDVD)转换而来。
+
+
 [Lenovo_ideapad_S12.jpg](https://zh.wikipedia.org/wiki/File:Lenovo_ideapad_S12.jpg "fig:Lenovo_ideapad_S12.jpg")s12[上網本內建的PowerDVD](https://zh.wikipedia.org/wiki/上網本 "wikilink")\]\] **PowerDVD**是由[訊連科技](../Page/訊連科技.md "wikilink")開發的[播放軟件](https://zh.wikipedia.org/wiki/播放軟件 "wikilink")，容許使用者在[個人電腦上觀看](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[DVD-Video](../Page/DVD-Video.md "wikilink")。Ultra版支援[Blu-ray的播放](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")。
 
 ## 支援播放的光碟與檔案

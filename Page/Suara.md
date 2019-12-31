@@ -1,3 +1,6 @@
+> 本文内容由[Suara](https://zh.wikipedia.org/wiki/Suara)转换而来。
+
+
 **Suara**（），[日本](../Page/日本.md "wikilink")女性歌手，出生且出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")，母親出生於台灣基隆\[1\]。隷屬於[FIX Records](https://zh.wikipedia.org/wiki/FIX_Records "wikilink")，由[Lantis](../Page/Lantis.md "wikilink")製作及發行。作詞及作曲時會使用本名**巽明子**。
 
 在她的官网上提到，Suara是印度尼西亚语“声音”的意思。

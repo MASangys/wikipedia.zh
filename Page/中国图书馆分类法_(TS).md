@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TS\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TS\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TS\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TS\))转换而来。
 
 
   - TS [轻工业](https://zh.wikipedia.org/wiki/轻工业 "wikilink")、[手工业](https://zh.wikipedia.org/wiki/手工业 "wikilink")

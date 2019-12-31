@@ -1,3 +1,6 @@
+> 本文内容由[任天堂DS Lite](https://zh.wikipedia.org/wiki/任天堂DS_Lite)转换而来。
+
+
 **任天堂DS Lite**（，，中国大陆行货为iQue DS Lite）是由[任天堂](../Page/任天堂.md "wikilink")所開發、販售的[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")。位於[任天堂DS](../Page/任天堂DS.md "wikilink")的上級機種位置。簡稱NDSL。
 
 ## 概要

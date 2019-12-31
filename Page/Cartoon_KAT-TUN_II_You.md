@@ -1,3 +1,6 @@
+> 本文内容由[Cartoon KAT-TUN II You](https://zh.wikipedia.org/wiki/Cartoon_KAT-TUN_II_You)转换而来。
+
+
 《**cartoon KAT-TUN II You**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第2張專輯，於2007年4月18日發售。
 
 ## 概要

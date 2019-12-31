@@ -1,3 +1,6 @@
+> 本文内容由[TinyOS](https://zh.wikipedia.org/wiki/TinyOS)转换而来。
+
+
 **TinyOS**是一款自由和开源的基于组件的（component-based）嵌入式操作系统，主要针对无线传感器网络（WSN, wireless sensor network）开发。TinyOS使用[nesC语言编写](https://zh.wikipedia.org/wiki/nesC "wikilink")，经由一系列合作项目得以完善。TinyOS最初是[加州伯克利分校和](https://zh.wikipedia.org/wiki/加州伯克利分校 "wikilink")[英特尔研究院为嵌入](https://zh.wikipedia.org/wiki/英特尔研究院 "wikilink")[智能微塵而开发的合作项目](https://zh.wikipedia.org/wiki/智能微塵 "wikilink")，之后逐渐演变成一个国际合作项目，即TinyOS联盟。
 
 ## 内容

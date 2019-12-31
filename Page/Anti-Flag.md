@@ -1,3 +1,6 @@
+> 本文内容由[Anti-Flag](https://zh.wikipedia.org/wiki/Anti-Flag)转换而来。
+
+
 [Antiflag1.jpg](https://zh.wikipedia.org/wiki/File:Antiflag1.jpg "fig:Antiflag1.jpg") **Anti-Flag**在1988年由Justin Sane和Pat Thetic在他们的家乡[賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[匹茲堡组成](https://zh.wikipedia.org/wiki/匹茲堡 "wikilink")。
 
 ## 樂隊介紹

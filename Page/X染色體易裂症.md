@@ -1,3 +1,6 @@
+> 本文内容由[X染色體易裂症](https://zh.wikipedia.org/wiki/X染色體易裂症)转换而来。
+
+
 [Fragile_x_syndrom.png](https://zh.wikipedia.org/wiki/File:Fragile_x_syndrom.png "fig:Fragile_x_syndrom.png")
 
 **X染色體易裂症**（Fragile X syndrome (FXS)）是一種可能造成[智能障礙](../Page/智能障礙.md "wikilink")的病症。患病以男性為主，相較女性嚴重，可能[睾丸](../Page/睾丸.md "wikilink")較大、[咬合不正](https://zh.wikipedia.org/wiki/咬合不正 "wikilink")、[自閉症](../Page/自閉症.md "wikilink")、[肌肉張力低下](https://zh.wikipedia.org/wiki/肌肉張力低下 "wikilink")，面部[下顎向前突出](https://zh.wikipedia.org/wiki/下顎 "wikilink")、耳朵較大、臉長、[高弓狀硬顎](https://zh.wikipedia.org/wiki/高弓狀硬顎 "wikilink")。其他問題包括[脊柱前彎](https://zh.wikipedia.org/wiki/脊柱前彎 "wikilink")、[漏斗胸](../Page/漏斗胸.md "wikilink")。女性若有一條易裂X染色體，另一條正常，可能只會有輕微的病徵，亦可能是正常的。此症是[X聯隱性遺傳病](../Page/X染色體.md "wikilink")，男性較易發病，男性發病率是1/3600，女性1/4000\~6000，差距約2倍。\[1\]

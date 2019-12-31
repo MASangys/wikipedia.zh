@@ -1,3 +1,6 @@
+> 本文内容由[SRGB色彩空间](https://zh.wikipedia.org/wiki/SRGB色彩空间)转换而来。
+
+
 [CIExy1931_sRGB.png](https://zh.wikipedia.org/wiki/File:CIExy1931_sRGB.png "fig:CIExy1931_sRGB.png")D65显示在中间\]\] [SRGB_gamma.svg](https://zh.wikipedia.org/wiki/File:SRGB_gamma.svg "fig:SRGB_gamma.svg")
 
 **sRGB色彩空间**（標準紅綠藍色彩空間）是[惠普](../Page/惠普.md "wikilink")与[微软](../Page/微软.md "wikilink")于1996年一起开发的用于[显示器](../Page/显示器.md "wikilink")、[打印机](../Page/打印机.md "wikilink")以及[因特网的一种标准](https://zh.wikipedia.org/wiki/因特网 "wikilink")[RGB色彩空间](https://zh.wikipedia.org/wiki/RGB色彩空间 "wikilink")。这种标准得到了[W3C](https://zh.wikipedia.org/wiki/W3C "wikilink")、[Exif](https://zh.wikipedia.org/wiki/Exif "wikilink")、[英特尔](../Page/英特尔.md "wikilink")、[Pantone](https://zh.wikipedia.org/wiki/Pantone "wikilink")、[Corel](../Page/Corel.md "wikilink")以及其它许多业界厂商的支持，在[GIMP](../Page/GIMP.md "wikilink")这样的[开放源代码](../Page/开放源代码.md "wikilink")软件也支持这种标准，另外一些专有的或者象[SVG这样的开放](https://zh.wikipedia.org/wiki/SVG "wikilink")[图形文件格式中也有应用](https://zh.wikipedia.org/wiki/图形文件格式 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Media](https://zh.wikipedia.org/wiki/Windows_Media)转换而来。
+
+
 **Windows Media**是[Microsoft Windows下媒体创建和分发所用的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[多媒体框架](https://zh.wikipedia.org/wiki/多媒体框架 "wikilink")。它包含一个带有[应用程序编程接口的](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")[软件开发工具包](../Page/软件开发工具包.md "wikilink")以及一些预构建技术。以下是Windows Media的组成部分：
 
 ## 应用程序

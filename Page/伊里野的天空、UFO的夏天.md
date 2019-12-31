@@ -1,3 +1,6 @@
+> 本文内容由[伊里野的天空、UFO的夏天](https://zh.wikipedia.org/wiki/伊里野的天空、UFO的夏天)转换而来。
+
+
 《**伊里野的天空、UFO的夏天**》是[電擊文庫](../Page/電擊文庫.md "wikilink")發行的一部[輕小說](../Page/輕小說.md "wikilink")，作者为[秋山瑞人](../Page/秋山瑞人.md "wikilink")。目前已被改編為[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")及[電子遊戲作品](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。
 
 原作插畫由[駒都英二](../Page/駒都英二.md "wikilink")擔任。

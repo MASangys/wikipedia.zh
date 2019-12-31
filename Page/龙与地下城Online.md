@@ -1,3 +1,6 @@
+> 本文内容由[龙与地下城Online](https://zh.wikipedia.org/wiki/龙与地下城Online)转换而来。
+
+
 **龙与地下城Online**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Dungeons & Dragons Online: Stormreach，缩写：DDO）是一款基于[龙与地下城](../Page/龙与地下城.md "wikilink")规则3.5版的一个[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。游戏由[美国](../Page/美国.md "wikilink")[Turbine公司开发](https://zh.wikipedia.org/wiki/Turbine公司 "wikilink")，在与现在掌握龙与地下城版权的[威世智](../Page/威世智.md "wikilink")经过约两年的合作后推出，游戏于2006年2月28日开始运行，由[雅达利发行](https://zh.wikipedia.org/wiki/雅达利 "wikilink")。在[中国大陆](../Page/中国大陆.md "wikilink")，游戏由[盛大代理](../Page/盛大网络.md "wikilink")，于2006年6月28日及7月28日分别开始第一及第二次内部测试，并于2006年8月28日开始进行公开测试。游戏于2006年10月10日荣获[英国电影和电视艺术学院](../Page/英国电影和电视艺术学院.md "wikilink")（BAFTA）最佳多人游戏奖。
 
 ## 游戏世界设定

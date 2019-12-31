@@ -1,3 +1,6 @@
+> 本文内容由[DokuWiki](https://zh.wikipedia.org/wiki/DokuWiki)转换而来。
+
+
 **DokuWiki**是一个针对小公司文件需求而開發的[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，用程序设计语言[PHP](../Page/PHP.md "wikilink")开发，并以[GPL 2发布](../Page/GNU通用公共许可证.md "wikilink")。
 
 <poem>DokuWiki基于文本存储，所以不需要数据库，其数据文件在Wiki系统外也是可读的。 DokuWiki的功能齐全，支持[UTF-8](../Page/UTF-8.md "wikilink")，支持中文链接，能够单独编辑页面中的某个章节，能够自动生成目录，适合中小企业和个人使用，用作资料网站、归档、指南、读书笔记等。 DokuWiki的安装很简单，預設提供配置工具。</poem>

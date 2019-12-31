@@ -1,3 +1,6 @@
+> 本文内容由[Frengers](https://zh.wikipedia.org/wiki/Frengers)转换而来。
+
+
 **Frengers**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")於2003年發行的專輯，是其加入Sony/Epic唱片公司的第一張國際發行唱片。
 
 ## 曲目

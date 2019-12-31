@@ -1,4 +1,4 @@
-> 本文内容由[Super Junior](https://zh.wikipedia.org/wiki/Super Junior)转换而来。
+> 本文内容由[Super Junior](https://zh.wikipedia.org/wiki/Super_Junior)转换而来。
 
 
 **Super Junior**（），簡稱為*'SJ **或**SuJu*'（），是韓國[SM娱樂於](https://zh.wikipedia.org/wiki/SM娱樂 "wikilink")2005年推出的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")\[1\]，出道初期由12名成員組成，成員包括：[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[韓庚](../Page/韓庚.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")及[起範](../Page/起範.md "wikilink")。2006年起，[圭賢](../Page/圭賢.md "wikilink")加入Super Junior成為第13位成員\[2\]。

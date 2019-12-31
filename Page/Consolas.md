@@ -1,3 +1,6 @@
+> 本文内容由[Consolas](https://zh.wikipedia.org/wiki/Consolas)转换而来。
+
+
 **Consolas**是一套[等宽的字体](../Page/等宽字体.md "wikilink")，属[無襯線字體](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，由[Lucas de Groot设计](https://zh.wikipedia.org/wiki/Lucas_de_Groot "wikilink")。这个字体使用了[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[ClearType](../Page/ClearType.md "wikilink") [字型平滑技術](https://zh.wikipedia.org/wiki/字型平滑 "wikilink")，並隨同[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Office 2007及](../Page/Microsoft_Office_2007.md "wikilink")[Microsoft Visual Studio中發行](../Page/Microsoft_Visual_Studio.md "wikilink")，或可在微軟的網站下載。在Windows Vista的6套新字体中，Consolas近似於旧版Windows中的2款内置字型：[Lucida Console與](https://zh.wikipedia.org/wiki/Lucida_Console "wikilink")[Courier New](https://zh.wikipedia.org/wiki/Courier_New "wikilink")，主要是設計做為[代码](../Page/代码.md "wikilink")的顯示字型之用，特別之處是它的「0」字加入了一斜撇，以方便與字母「O」分辨。
 
 在Consolas之前，代码的顯示字体大多為Courier New或其他等宽的字型，字型的柔邊（反鋸齒）效果則依個人喜好選擇開啟或關閉，然而Consolas是專為柔邊效果而設計的字体，特別是為了搭配微軟的[ClearType](../Page/ClearType.md "wikilink")技術，如果不開啟ClearType，Consolas的顯示效果會打大折扣。另外，ClearType技術還需要搭配[液晶顯示器才會有最佳表現](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")。

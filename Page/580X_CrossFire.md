@@ -1,4 +1,4 @@
-> 本文内容由[580X CrossFire](https://zh.wikipedia.org/wiki/580X CrossFire)转换而来。
+> 本文内容由[580X CrossFire](https://zh.wikipedia.org/wiki/580X_CrossFire)转换而来。
 
 
 **AMD 580X CrossFire**（代号為**RD580**）是[ATI的一款](https://zh.wikipedia.org/wiki/ATI "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，支援[AMD平台](https://zh.wikipedia.org/wiki/AMD "wikilink")。該晶元組前稱**Xpress 3200**，隨著AMD收購ATI，所以被易名580X CrossFire。它支援[AMD64處理器](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，有兩條全速的PCI-E 16x，可以完全發揮[CrossFire的效能](https://zh.wikipedia.org/wiki/CrossFire "wikilink")。此外，對手[nVidia的](https://zh.wikipedia.org/wiki/nVidia "wikilink")[nForce 4](https://zh.wikipedia.org/wiki/nForce_4 "wikilink") SLi X16的兩條全速PCI-E 16x各由南北橋提供，所以雙卡加速效率比單晶片提供的580X CrossFire差。

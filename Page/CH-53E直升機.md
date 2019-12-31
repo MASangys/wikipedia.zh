@@ -1,3 +1,6 @@
+> 本文内容由[CH-53E直升機](https://zh.wikipedia.org/wiki/CH-53E直升機)转换而来。
+
+
 **西科斯基CH-53E「超級种马」**（Sikorsky CH-53E Super Stallion），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[西科斯基飞行器公司所出品的軍用](https://zh.wikipedia.org/wiki/西科斯基飞行器公司 "wikilink")[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，是美军最大和最重的[直升机](https://zh.wikipedia.org/wiki/直升机 "wikilink")，海军官兵们戏称它为「飓风制造者」，主要为[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")服务，充当运输重型货物及吊掛重型機具等之任务。
 
 **西科斯基MH-53E「海龍」**（Sea Dragon）是超級种马的改進版，作為美國海軍的長程[水雷](../Page/水雷.md "wikilink")掃蕩版，專門特化進行空中掃蕩水雷的海上任務。加裝大型[適型油箱取代外掛油箱](https://zh.wikipedia.org/wiki/適型油箱 "wikilink")、後逃生艙蓋、AN/APN-217雷達，改良燃油管理系統、尾旋翼。特色是加裝了很多掃雷具的掛點和匯流排接口，通常海龍佈署於兩棲攻擊艦和航母上，作為應對水雷的手段，也能負擔一些搜救和運輸任務。

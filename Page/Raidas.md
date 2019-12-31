@@ -1,3 +1,6 @@
+> 本文内容由[Raidas](https://zh.wikipedia.org/wiki/Raidas)转换而来。
+
+
 **Raidas**，1986年成立的[香港](../Page/香港.md "wikilink")[流行音樂二人組合](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，成員包括[黃耀光及](https://zh.wikipedia.org/wiki/黃耀光 "wikilink")[陳德彰](https://zh.wikipedia.org/wiki/陳德彰 "wikilink")，1988年解散。
 
 ## 成員

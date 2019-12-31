@@ -1,3 +1,6 @@
+> 本文内容由[LG顯示](https://zh.wikipedia.org/wiki/LG顯示)转换而来。
+
+
 **樂金顯示公司**（英文：**LG Display**），簡稱**LGD**，是一間設立於[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[液晶](../Page/液晶.md "wikilink")面板的製造商，為[LG集團的子公司](https://zh.wikipedia.org/wiki/LG集團 "wikilink")。
 
 ## 簡介

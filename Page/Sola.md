@@ -1,3 +1,6 @@
+> 本文内容由[Sola](https://zh.wikipedia.org/wiki/Sola)转换而来。
+
+
 《****》是[久彌直樹](../Page/久彌直樹.md "wikilink")原作、[七尾奈留](../Page/七尾奈留.md "wikilink")設計角色的[日本](../Page/日本.md "wikilink")[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品，包括[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")、[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")，但久彌直樹曾表明不會製成[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")\[1\]。久彌等人約2004年開始構思，2006年春天開始正式進行企劃。漫畫版由[阿倍野茶子於](https://zh.wikipedia.org/wiki/阿倍野茶子 "wikilink")[電擊大王連載](https://zh.wikipedia.org/wiki/電擊大王 "wikilink")。網上廣播亦於2007年2月2日開始發放。動畫於2007年4月至6月播放。
 
 而「sola」此詞可能是由[日語中的](https://zh.wikipedia.org/wiki/日語 "wikilink")「」的[羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「sora」而來，即「[天空](../Page/天空.md "wikilink")」之意；亦可能是由「solar」（[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")、日光的）而來。動畫版中大量出現天空的[分鏡](../Page/分鏡.md "wikilink")也是其特點之一。最初在久彌等人進行《sola》的企劃和動畫錄音試聽時作品名為「」。

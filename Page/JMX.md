@@ -1,3 +1,6 @@
+> 本文内容由[JMX](https://zh.wikipedia.org/wiki/JMX)转换而来。
+
+
 **JMX**（，即Java管理扩展）是[Java](../Page/Java.md "wikilink")平台上为应用程序、设备、系统等植入管理功能的框架。JMX可以跨越一系列异构[操作系统](../Page/操作系统.md "wikilink")平台、系统[体系结构和](https://zh.wikipedia.org/wiki/体系结构 "wikilink")[网络传输协议](../Page/网络传输协议.md "wikilink")，灵活的开发无缝集成的系统、网络和服务管理应用。
 
 ## 托管Bean

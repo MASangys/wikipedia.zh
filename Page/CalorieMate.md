@@ -1,3 +1,6 @@
+> 本文内容由[CalorieMate](https://zh.wikipedia.org/wiki/CalorieMate)转换而来。
+
+
 **CalorieMate**（カロリーメイト）是[日本](../Page/日本.md "wikilink")[大塚製藥](../Page/大塚製藥.md "wikilink")自1983年\[1\]起販售的[能量補充食品品牌](https://zh.wikipedia.org/wiki/膳食補充劑 "wikilink")。CalorieMate產品包裝上只標注為"Balanced Food"，它們的包裝非常簡潔，可說是毫不起眼。
 
 所有CalorieMate產品皆有以下描述：

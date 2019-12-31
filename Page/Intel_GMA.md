@@ -1,4 +1,4 @@
-> 本文内容由[Intel GMA](https://zh.wikipedia.org/wiki/Intel GMA)转换而来。
+> 本文内容由[Intel GMA](https://zh.wikipedia.org/wiki/Intel_GMA)转换而来。
 
 
 [Harumphy.dg965.heatsink.jpg](https://zh.wikipedia.org/wiki/File:Harumphy.dg965.heatsink.jpg "fig:Harumphy.dg965.heatsink.jpg") ****是於2004年至2008年所推出的[顯示核心產品線](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，用於在[晶片組內內建](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。

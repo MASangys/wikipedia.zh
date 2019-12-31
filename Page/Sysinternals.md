@@ -1,3 +1,6 @@
+> 本文内容由[Sysinternals](https://zh.wikipedia.org/wiki/Sysinternals)转换而来。
+
+
 **Sysinternals**是一個由位於[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")的**Winternals Software LP**公司營運的[網站](../Page/網站.md "wikilink")，原名為**ntinternals**，於1996年由[軟體設計師Bryce](https://zh.wikipedia.org/wiki/軟體設計師 "wikilink") Cogswell與Mark Russinovich開辦，並在2006年7月18日被[微軟收購](https://zh.wikipedia.org/wiki/微軟 "wikilink")\[1\]。
 
 該網站提供數個用來管理與監察運行[Microsoft Windows操作系统電腦的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[免費工具](../Page/免費軟體.md "wikilink")，該公司亦有銷售[資料恢復工具與該些免費工具的專業版](https://zh.wikipedia.org/wiki/資料恢復 "wikilink")。

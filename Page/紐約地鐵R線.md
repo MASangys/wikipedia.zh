@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵R線](https://zh.wikipedia.org/wiki/紐約地鐵R線)转换而来。
+
+
 **R線百老匯慢車**（），又稱**紐約地鐵R線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]
 
 R線任何時候都營運。日間來往[森林小丘](../Page/森林小丘.md "wikilink")的[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[95街](https://zh.wikipedia.org/wiki/灣脊區-95街車站_\(BMT第四大道線\) "wikilink")，停靠全線所有車站；早上繁忙時段有1班北行列車以曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道為總站](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")，而不是71大道。深夜時來往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭與](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")95街。

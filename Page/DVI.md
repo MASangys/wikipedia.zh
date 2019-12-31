@@ -1,3 +1,6 @@
+> 本文内容由[DVI](https://zh.wikipedia.org/wiki/DVI)转换而来。
+
+
 **DVI**的英文全名為**Digital Visual Interface**，中文稱為**「數位視訊介面」**。是一種[視訊介面標準](https://zh.wikipedia.org/wiki/視訊 "wikilink")，設計的目的是用來傳輸未經壓縮的數位化影像。目前廣泛應用於[LCD](https://zh.wikipedia.org/wiki/LCD "wikilink")、數位[投影機等顯示設備上](https://zh.wikipedia.org/wiki/投影機 "wikilink")。此標準由顯示業界數家領導廠商所組成的[論壇](https://zh.wikipedia.org/wiki/論壇 "wikilink")：「[數位顯示工作小組](https://zh.wikipedia.org/wiki/數位顯示工作小組 "wikilink")」（Digital Display Working Group，DDWG）制訂。DVI介面可以傳送未[壓縮的數位視訊資料到顯示裝置](https://zh.wikipedia.org/wiki/視訊壓縮技術 "wikilink")。本規格部分相容於[HDMI](../Page/HDMI.md "wikilink")標準。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Skolelinux](https://zh.wikipedia.org/wiki/Skolelinux)转换而来。
+
+
 **Skolelinux**（在[挪威语](../Page/挪威语.md "wikilink")，是"[学校](../Page/学校.md "wikilink")"的意思）是一个以学校为主要指向的[教育](../Page/教育.md "wikilink")性[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，建基于[Debian](../Page/Debian.md "wikilink")[发行版和](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")[KDE](../Page/KDE.md "wikilink")[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")，因此也称**Debian-Edu**。Skolelinux由[挪威](../Page/挪威.md "wikilink")[软件设计师Knut](https://zh.wikipedia.org/wiki/软件设计师 "wikilink") Yrvin开发，旨在打造适合于学校的轻便发行版。
 
 ## 计划目标

@@ -1,3 +1,6 @@
+> 本文内容由[Bajka](https://zh.wikipedia.org/wiki/Bajka)转换而来。
+
+
 **Bajka**（讀「Biker」，暫時沒有中文譯名）全名**B. Pluwatsch**（）。詩人及歌手。現居[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")。 她在印度出生，父母是德國人。她遊歷了很多地方，曾經住在[阿富汗](../Page/阿富汗.md "wikilink")、[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")及[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")。她曾就讀於[果阿](https://zh.wikipedia.org/wiki/果阿 "wikilink")、[班加羅爾](../Page/班加羅爾.md "wikilink")、[拉多斯](https://zh.wikipedia.org/wiki/拉多斯 "wikilink")、[葡萄牙](../Page/葡萄牙.md "wikilink")、[西雅圖](../Page/西雅圖.md "wikilink")、[德班](../Page/德班.md "wikilink")及[開普敦](../Page/開普敦.md "wikilink")。
 
 她是J.Pluwatsch的女兒，J.Pluwatsch是德國Krautrock樂隊成員。

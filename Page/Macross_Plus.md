@@ -1,3 +1,6 @@
+> 本文内容由[Macross Plus](https://zh.wikipedia.org/wiki/Macross_Plus)转换而来。
+
+
 《**Macross Plus**》是[超時空要塞系列於](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")1990年代中期發行的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[TRIANGLE STAFF製作](../Page/TRIANGLE_STAFF.md "wikilink")。描述初代超時空要塞故事後30年，統合軍於外星殖民地開發新式[可變型戰鬥機](../Page/可變型戰鬥機.md "wikilink")的始末。本片共分四集，並於1995年公開由四集OVA剪輯而成的電影版。
 
 ## 概要

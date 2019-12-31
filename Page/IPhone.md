@@ -1,3 +1,6 @@
+> 本文内容由[IPhone](https://zh.wikipedia.org/wiki/IPhone)转换而来。
+
+
 **iPhone**是[蘋果公司研发及销售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")系列，搭載蘋果公司研發的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[移动操作系统](../Page/行動作業系統.md "wikilink")\[1\]。[第一代iPhone於](https://zh.wikipedia.org/wiki/iPhone_\(第一代\) "wikilink")2007年1月9日由时任蘋果公司[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")發布\[2\]，並在同年6月29日正式發售\[3\]\[4\]。最新型号的iPhone是发布于2019年9月10日的[iPhone 11](https://zh.wikipedia.org/wiki/iPhone_11 "wikilink")、[iPhone 11 Pro 和 iPhone 11 Pro Max](https://zh.wikipedia.org/wiki/iPhone_11_Pro "wikilink")。
 
 iPhone 运行由蘋果公司研發的 iOS 作業系统（原名 iPhone OS）\[5\]\[6\]\[7\]，它是由 [Apple Darwin](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink") 的核心發展出來的變體，程式也可見於 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，iPhone自带苹果开发的应用程序，并支持通过 App Store 来下载第三方程序。苹果通过无线或 iTunes 为 iPhone 搭载的 iOS 提供免费更新。\[8\]

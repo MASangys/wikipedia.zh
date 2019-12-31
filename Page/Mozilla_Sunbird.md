@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla Sunbird](https://zh.wikipedia.org/wiki/Mozilla_Sunbird)转换而来。
+
+
 **Mozilla Sunbird**是一款由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")與多名志願者開發的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")、[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[行事曆應用程式](https://zh.wikipedia.org/wiki/行事曆 "wikilink")\[1\]。Mozilla Sunbird被描述為「...一個基於Mozilla XUL用戶界面語言的跨平台獨立行事曆應用程式」\[2\]。該專案於2003年7月對外公開\[3\]，是現已中止的[Mozilla Calendar Extension的獨立版本](https://zh.wikipedia.org/wiki/Mozilla_Calendar_Project "wikilink")。
 
 Sunbird 0.3版曾預定與其"姊妹計劃"[Lightning](../Page/Lightning.md "wikilink")於2006年9月後期同時發佈\[4\]，但其候選版本直至10月才製作完成\[5\]。Sunbird自0.3版起失去對Windows 98的相容性\[6\]\[7\]，另0.3版亦有便攜版可供使用。

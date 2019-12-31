@@ -1,4 +1,4 @@
-> 本文内容由[Adobe InDesign](https://zh.wikipedia.org/wiki/Adobe InDesign)转换而来。
+> 本文内容由[Adobe InDesign](https://zh.wikipedia.org/wiki/Adobe_InDesign)转换而来。
 
 
 **Adobe InDesign**是[Adobe](../Page/Adobe.md "wikilink")公司的一個[桌面出版](../Page/桌面出版.md "wikilink")（DTP）的[應用程序](https://zh.wikipedia.org/wiki/應用程序 "wikilink")，主要用於各種印刷品的排版編輯。

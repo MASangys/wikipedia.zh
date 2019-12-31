@@ -1,3 +1,6 @@
+> 本文内容由[GENJI -神威奏亂-](https://zh.wikipedia.org/wiki/GENJI_-神威奏亂-)转换而来。
+
+
 **GENJI -神威奏亂-**是由Game Republic開發并由[索尼电脑娱乐在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation 3平台上发行的动作遊戲](../Page/PlayStation_3.md "wikilink")。本作是PlayStation 3的首发游戏之一。
 
 ## 故事

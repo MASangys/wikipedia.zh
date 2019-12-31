@@ -1,3 +1,6 @@
+> 本文内容由[Nullsoft腳本安裝系統](https://zh.wikipedia.org/wiki/Nullsoft腳本安裝系統)转换而来。
+
+
 **Nullsoft腳本安裝系統**（英語：**Nullsoft Scriptable Install System**，縮寫：NSIS）為一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[腳本驅動的封裝安裝檔用工具](https://zh.wikipedia.org/wiki/腳本 "wikilink")。可以用其[腳本語言自定安裝的流程](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，同時支援多種語系的安裝介面。
 
 ## 特色

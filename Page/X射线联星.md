@@ -1,3 +1,6 @@
+> 本文内容由[X射线联星](https://zh.wikipedia.org/wiki/X射线联星)转换而来。
+
+
 [Accretion_Disk_Binary_System.jpg](https://zh.wikipedia.org/wiki/File:Accretion_Disk_Binary_System.jpg "fig:Accretion_Disk_Binary_System.jpg")示意图\]\] **X射线聯星**是一类发出明亮[X射线](../Page/X射线.md "wikilink")辐射的[聯星](../Page/聯星.md "wikilink")，聯星系统中有一颗为[致密星](../Page/致密星.md "wikilink")，通常为[中子星](../Page/中子星.md "wikilink")或[黑洞](../Page/黑洞.md "wikilink")。它们的典型光度在10<sup>36</sup>-10<sup>38</sup>尔格／秒之间\[1\]，比太阳全波段的光度高3到5个数量级。X射线聯星在靠近[银心和](https://zh.wikipedia.org/wiki/银心 "wikilink")[银盘的方向分布比较集中](https://zh.wikipedia.org/wiki/银盘 "wikilink")，在[球状星团中也有分布](https://zh.wikipedia.org/wiki/球状星团 "wikilink")。
 
 ## X射线聯星的发现

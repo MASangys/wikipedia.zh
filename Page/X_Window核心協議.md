@@ -1,3 +1,6 @@
+> 本文内容由[X Window核心協議](https://zh.wikipedia.org/wiki/X_Window核心協議)转换而来。
+
+
 [X11.svg](https://zh.wikipedia.org/wiki/File:X11.svg "fig:X11.svg")
 
 **X Window 核心協議**\[1\]\[2\]\[3\]是[X Window系統的基礎協議](../Page/X_Window系統.md "wikilink")，它是一個以[點陣圖顯示的](https://zh.wikipedia.org/wiki/光柵圖形 "wikilink")[網絡化](../Page/计算机网络.md "wikilink")[視窗系統](../Page/視窗系統.md "wikilink")，用來在[Unix](../Page/UNIX.md "wikilink")、[類Unix和其他](../Page/类Unix系统.md "wikilink")[作業系統上建立](../Page/操作系统.md "wikilink")[使用者圖形界面](../Page/图形用户界面.md "wikilink")。X Window 系統基於[主從式模型](../Page/主從式架構.md "wikilink")：單一[伺服器控管](../Page/服务器.md "wikilink")[硬體的](https://zh.wikipedia.org/wiki/硬體 "wikilink")[輸出入](https://zh.wikipedia.org/wiki/I/O "wikilink")，如[螢幕](../Page/显示器.md "wikilink")、[鍵盤和](https://zh.wikipedia.org/wiki/電腦鍵盤 "wikilink")[滑鼠](../Page/鼠标.md "wikilink")；所有的應用[程式都被視作](../Page/计算机程序.md "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客户端 "wikilink")，[使用者之間透過伺服器來互動](https://zh.wikipedia.org/wiki/使用者 "wikilink")。互動部分由X Window核心協議來管理。還有其他與X Window系統有關的協議，有的建立在X Window核心協議之上的，有的是獨立的協議。

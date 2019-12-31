@@ -1,4 +1,4 @@
-> 本文内容由[SG Wannabe](https://zh.wikipedia.org/wiki/SG Wannabe)转换而来。
+> 本文内容由[SG Wannabe](https://zh.wikipedia.org/wiki/SG_Wannabe)转换而来。
 
 
 **SG Wannabe**（，日本官方英文寫法為**sg WANNA BE+**\[1\]），為[韓國三人男子音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2004年成立。2004年1月19日以首張專輯《sg Wanna be+》正式出道。

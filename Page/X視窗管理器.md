@@ -1,3 +1,6 @@
+> 本文内容由[X視窗管理器](https://zh.wikipedia.org/wiki/X視窗管理器)转换而来。
+
+
 **X視窗管理器**是[X窗口系统中](../Page/X_Window系統.md "wikilink")，用來控管[視窗](../Page/視窗.md "wikilink")外觀和放置方式的[視窗系統](../Page/視窗系統.md "wikilink")[软件](https://zh.wikipedia.org/wiki/電腦軟體 "wikilink")，主要用於[類Unix系統](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")。
 
 X视窗管理器和[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Macintosh和](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Windows的操作环境具有不同的使用模式](https://zh.wikipedia.org/wiki/Windows "wikilink")。后两者都有长期固定的用户界面和操作模式，而这些都是由开发商决定的，用户无法更换或者只能作微小调整。X视窗管理器提供完全开放的，和图像显示软件无关的用户界面。用户可以自由选用窗口管理器。这些管理器可以拥有完全不同的特性，包括：

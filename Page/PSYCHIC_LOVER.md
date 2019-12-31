@@ -1,3 +1,6 @@
+> 本文内容由[PSYCHIC LOVER](https://zh.wikipedia.org/wiki/PSYCHIC_LOVER)转换而来。
+
+
 **PSYCHIC LOVER**(サイキックラバー)是[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")、[特攝歌曲的二人組合](https://zh.wikipedia.org/wiki/特攝 "wikilink")，被稱為「ANISONG界日本代表樂隊」\[1\]，2013年之前為所屬，之後一度為[バーチェストン](http://virtuestone.com/)所屬；及後2015年9月至2018年10月30日期間為主唱YOFFY自身擔任社長的音樂制作會社「（株）フィアレス」所屬\[2\]，後來2018年11月1日起宣佈為Bright Idea Inc.(ブライトイデア)所屬\[3\]。。
 
 ## 概要

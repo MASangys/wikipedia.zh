@@ -1,3 +1,6 @@
+> 本文内容由[Code Geass角色列表](https://zh.wikipedia.org/wiki/Code_Geass角色列表)转换而来。
+
+
 這是[日本電視動畫](../Page/日本電視動畫.md "wikilink")《[Code Geass 反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")》中的人物列表。
 
 ## 主要人物

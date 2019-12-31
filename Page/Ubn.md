@@ -1,3 +1,6 @@
+> 本文内容由[Ubn](https://zh.wikipedia.org/wiki/Ubn)转换而来。
+
+
 **Ubn**（英語：**Unbinilium**，化學符號為**Ubn**）是一種尚未被發現的化學元素，原子序數是120。在元素週期表中排列在第8周期、2族。其中子數為[幻數](https://zh.wikipedia.org/wiki/幻數 "wikilink")，根據[穩定島理論推測其](https://zh.wikipedia.org/wiki/穩定島 "wikilink")[半衰期极長](https://zh.wikipedia.org/wiki/半衰期 "wikilink")。
 
 ## 合成嘗試

@@ -1,4 +1,4 @@
-> 本文内容由[ONE PIECE角色列表](https://zh.wikipedia.org/wiki/ONE PIECE角色列表)转换而来。
+> 本文内容由[ONE PIECE角色列表](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表)转换而来。
 
 
 , noteTA is exist . --\> }}

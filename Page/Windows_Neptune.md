@@ -1,4 +1,4 @@
-> 本文内容由[Windows Neptune](https://zh.wikipedia.org/wiki/Windows Neptune)转换而来。
+> 本文内容由[Windows Neptune](https://zh.wikipedia.org/wiki/Windows_Neptune)转换而来。
 
 
 [Windows_Neptune_Desktop.jpg](https://zh.wikipedia.org/wiki/File:Windows_Neptune_Desktop.jpg "fig:Windows_Neptune_Desktop.jpg") ****（海王星）是一個1999年至2000年間由[微软](../Page/微软.md "wikilink")研發的Windows系列操作系统，但到最後亦沒有正式發表，只有開發者版本流传。原本的开发目标是一款采用[Windows 2000系统代码的家用](../Page/Windows_2000.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")（基于[NT核心的](../Page/Windows_NT.md "wikilink")[Windows 2000操作系统是面向商业用户开发的](../Page/Windows_2000.md "wikilink")）用以代替老的基于[DOS的](../Page/MS-DOS.md "wikilink")[Windows 9x家用系统](../Page/Windows_9x.md "wikilink")。在 Windows 2000 推出之後，Windows Neptune 的開發隊伍與剛成立的 [Windows Whistler](https://zh.wikipedia.org/wiki/Windows_Whistler "wikilink") 隊伍合併，最後研製出正式版的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink") [Windows ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")（使用[Windows 9x内核](../Page/Windows_9x.md "wikilink")）\[1\] 及 [Windows XP](../Page/Windows_XP.md "wikilink")（使用 NT 內核）\[2\]。在兩個版本發佈以後，Neptune 亦在2000年1月中止開發。

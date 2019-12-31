@@ -1,4 +1,4 @@
-> 本文内容由[羅德斯島戰記 \(OVA\)](https://zh.wikipedia.org/wiki/羅德斯島戰記 \(OVA\))转换而来。
+> 本文内容由[羅德斯島戰記 \(OVA\)](https://zh.wikipedia.org/wiki/羅德斯島戰記_\(OVA\))转换而来。
 
 
 《**羅德斯島戰記**》[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")，是在1990年至1991年間由[角川書店](../Page/角川書店.md "wikilink")、[丸紅](../Page/丸紅.md "wikilink")、[東京放送](https://zh.wikipedia.org/wiki/東京放送 "wikilink")、[角川 Media Office所聯合製作](../Page/MediaWorks.md "wikilink")，並在2006年推出[復刻版](../Page/復刻版.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。全篇共13集，其中前8集的内容取材自[水野良](../Page/水野良.md "wikilink")《[羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")》第一卷《灰色的魔女》，後5集取材自《羅德斯島戰記》第三卷《火龍山的魔龍》。

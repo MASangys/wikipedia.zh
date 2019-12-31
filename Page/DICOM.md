@@ -1,3 +1,6 @@
+> 本文内容由[DICOM](https://zh.wikipedia.org/wiki/DICOM)转换而来。
+
+
 **醫療數位影像傳輸協定**（，）是一組通用的標準協定，在對於[醫學影像](../Page/醫學影像.md "wikilink")的處理、儲存、列印、傳輸上。它包含了檔案格式的定義及網路通信協定。DICOM是以[TCP/IP為基礎的應用協定](https://zh.wikipedia.org/wiki/TCP/IP协议 "wikilink")，並以TCP/IP聯繫各個系統。兩個能接受DICOM格式的醫療儀器間，可藉由DICOM格式的檔案，來接收與交換影像及病人資料。
 
 DICOM可以整合不同廠商的醫療影像儀器、[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[工作站](../Page/工作站.md "wikilink")、列印機和網路設備，使它們都能整合在[PACS系統中](https://zh.wikipedia.org/wiki/PACS "wikilink")。許多不同廠商的儀器、伺服器、工作站都根據DICOM的標準，來製造支援DICOM機器。DICOM已經廣泛地被醫院所採用，並且在牙醫和一般的診所中獲得小規模的運用。

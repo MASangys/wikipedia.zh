@@ -1,3 +1,6 @@
+> 本文内容由[Face To Face \(香港\)](https://zh.wikipedia.org/wiki/Face_To_Face_\(香港\))转换而来。
+
+
 **Face To Face** 是一隊已經解散的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[蔡慧玲和](https://zh.wikipedia.org/wiki/蔡慧玲_\(香港\) "wikilink")[吳少芳組成](https://zh.wikipedia.org/wiki/吳少芳 "wikilink")。
 
 ## 成員

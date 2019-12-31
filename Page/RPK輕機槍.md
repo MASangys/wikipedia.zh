@@ -1,3 +1,6 @@
+> 本文内容由[RPK輕機槍](https://zh.wikipedia.org/wiki/RPK輕機槍)转换而来。
+
+
 **RPK**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：****，****）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1959年為[蘇軍裝備以替換](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")[RPD的](../Page/RPD輕機槍.md "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，發射[7.62×39毫米口徑M](../Page/7.62×39mm.md "wikilink")1943[中間型威力槍彈](https://zh.wikipedia.org/wiki/中間型威力槍彈 "wikilink")，屬於蘇聯的第二代班支援武器。
 
 ## 歷史

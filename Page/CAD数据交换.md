@@ -1,3 +1,6 @@
+> 本文内容由[CAD数据交换](https://zh.wikipedia.org/wiki/CAD数据交换)转换而来。
+
+
 **CAD 数据交换**包括许多将数据从一种[CAD系统转换到另外一种](https://zh.wikipedia.org/wiki/CAD "wikilink")[CAD文件格式的软件技术及方法](https://zh.wikipedia.org/wiki/CAD文件格式 "wikilink")。[产品生命周期管理要求](https://zh.wikipedia.org/wiki/产品生命周期管理 "wikilink") [OEM](https://zh.wikipedia.org/wiki/OEM "wikilink") 厂商之间以及他们的供应商之间要进行良好的产品开发协作。
 
 其中主要的问题议题就是几何元素如[网格](https://zh.wikipedia.org/wiki/网格模型 "wikilink")、[曲面以及](https://zh.wikipedia.org/wiki/自由曲面造型 "wikilink")[实体造型](../Page/实体造型.md "wikilink")之间的转换，以及如属性、[元数据](../Page/元数据.md "wikilink")、[装配结构以及](https://zh.wikipedia.org/wiki/装配建模 "wikilink")[特征数据的转换](https://zh.wikipedia.org/wiki/基于参数化特征的建模 "wikilink")。

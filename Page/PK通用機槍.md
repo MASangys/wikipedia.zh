@@ -1,3 +1,6 @@
+> 本文内容由[PK通用機槍](https://zh.wikipedia.org/wiki/PK通用機槍)转换而来。
+
+
 **PK通用機槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пулемет Калашникова，俄語羅馬化：Pulemyot Kalashnikova，意為：卡拉什尼科夫機槍）是由[AK突擊步槍的設計者](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[米哈伊尔·季莫费耶维奇·卡拉什尼科夫在](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")1961年所設計的[通用機槍](../Page/通用機槍.md "wikilink")，用於取代當時設計老舊的[RPD輕機槍](../Page/RPD輕機槍.md "wikilink")和[SG-43中型機槍](../Page/SG-43中型機槍.md "wikilink")，並大量裝備[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，PK通用機槍在蘇軍中的位置等同[北約國家的](https://zh.wikipedia.org/wiki/北約 "wikilink")[FN MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍.md "wikilink")）、[M60或](../Page/M60通用機槍.md "wikilink")[MG3](../Page/MG3通用機槍.md "wikilink")。
 
 ## 設計

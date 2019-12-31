@@ -1,3 +1,6 @@
+> 本文内容由[Jarzynski恆等式](https://zh.wikipedia.org/wiki/Jarzynski恆等式)转换而来。
+
+
 **Jarzynski恆等式**(JE)是一個在[統計力學中敘述](https://zh.wikipedia.org/wiki/統計力學 "wikilink")[平衡態和](https://zh.wikipedia.org/wiki/平衡態 "wikilink")[非平衡態之間](https://zh.wikipedia.org/wiki/非平衡態 "wikilink")[自由能差異的](https://zh.wikipedia.org/wiki/自由能 "wikilink")[等式](https://zh.wikipedia.org/wiki/等式 "wikilink")。它是以物理學家[Christopher Jarzynski的名字命名的](https://zh.wikipedia.org/wiki/Christopher_Jarzynski "wikilink")，他在1997年發現了此一恆等式。
 
 在[熱力學裡](https://zh.wikipedia.org/wiki/熱力學 "wikilink")，自由能在狀態*A*和狀態*B*之間的差異\(\Delta F = F_B - F_A\)和作用於系統上的功*W*之間存在著一*不等式*：

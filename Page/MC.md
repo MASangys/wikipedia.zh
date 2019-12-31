@@ -1,3 +1,6 @@
+> 本文内容由[MC](https://zh.wikipedia.org/wiki/MC)转换而来。
+
+
 **MC**或**Mc**可能有以下的含意：
 
   - [美国海军陆战队](../Page/美国海军陆战队.md "wikilink")（United States Marine Corps.），是美國軍中的海軍陸戰隊及兩棲作戰部隊

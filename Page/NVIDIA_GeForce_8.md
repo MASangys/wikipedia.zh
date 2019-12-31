@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 8](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_8)转换而来。
+
+
 **GeForce 8系列**，代號**G80**，是[NVIDIA的第八代GeForce顯示晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。在7900 GTX发布后八个月，NVIDIA於2006年11月推出GeForce 8800 GTX，它是建基於G80核心。G80是全球首款支援[DirectX](../Page/DirectX.md "wikilink") 10的顯示晶片，核心的架构和技术比前代GeForce 7系列顯示晶片有很大的不同。縱使它是為DirectX 10而設計，但由於架構的改進，G80在DirectX 9环境下仍可以發揮出強大的效能。
 
 ## DirectX 10的改進

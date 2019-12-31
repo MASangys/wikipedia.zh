@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA BR02](https://zh.wikipedia.org/wiki/NVIDIA BR02)转换而来。
+> 本文内容由[NVIDIA BR02](https://zh.wikipedia.org/wiki/NVIDIA_BR02)转换而来。
 
 
 [NVIDIA_BR02_HSI_High_Speed_Interconnect.jpg](https://zh.wikipedia.org/wiki/File:NVIDIA_BR02_HSI_High_Speed_Interconnect.jpg "fig:NVIDIA_BR02_HSI_High_Speed_Interconnect.jpg")

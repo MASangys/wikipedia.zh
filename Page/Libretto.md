@@ -1,3 +1,6 @@
+> 本文内容由[Libretto](https://zh.wikipedia.org/wiki/Libretto)转换而来。
+
+
 [Libretto_70CT.jpg](https://zh.wikipedia.org/wiki/File:Libretto_70CT.jpg "fig:Libretto_70CT.jpg") **Libretto**是由[東芝設計與生產的超薄型](https://zh.wikipedia.org/wiki/東芝 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")產品線，其特點是將完整功能的Windows PC擠進一個細小得可放在手掌上的裝置內。首個型號*Libretto 20*於1996年4月17日發佈，其體積為821 cm³，重量只有840g。該產品線於1999年在[美國中繼](https://zh.wikipedia.org/wiki/美國 "wikilink")，但在2005年引入了其中一個型號。
 
 ## 型號

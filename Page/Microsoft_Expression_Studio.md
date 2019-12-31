@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Expression Studio](https://zh.wikipedia.org/wiki/Microsoft_Expression_Studio)转换而来。
+
+
 **Microsoft Expression Studio**是[微軟針對開發者與設計師開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[設計與](https://zh.wikipedia.org/wiki/平面設計 "wikilink")[媒體套件應用程式](https://zh.wikipedia.org/wiki/數位媒體 "wikilink")。
 
 ## 概要

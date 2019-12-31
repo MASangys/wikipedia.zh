@@ -1,3 +1,6 @@
+> 本文内容由[Polyphony Digital](https://zh.wikipedia.org/wiki/Polyphony_Digital)转换而来。
+
+
 **Polyphony Digital**是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")內部的[電子遊戲開發公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，亦是[索尼全球工作室的一部份](https://zh.wikipedia.org/wiki/索尼全球工作室 "wikilink")，工作室位於[東京都](../Page/東京都.md "wikilink")。該工作室原名為**Polys Entertainment**，在[跑車浪漫旅的成功獲得更多自主權後便更名為Polyphony](https://zh.wikipedia.org/wiki/跑車浪漫旅 "wikilink") Digital。
 
 該工作室最著名的是由[山內一典領導的賽車遊戲](https://zh.wikipedia.org/wiki/山內一典 "wikilink")[跑車浪漫旅系列](https://zh.wikipedia.org/wiki/跑車浪漫旅 "wikilink")，该系列已成為[PlayStation](../Page/PlayStation.md "wikilink")與[PlayStation 2上最成功的賽車遊戲系列之一](../Page/PlayStation_2.md "wikilink")，也是SCE第一方拥有的重要品牌。跑車浪漫旅系列是針對提供「[擬真](https://zh.wikipedia.org/wiki/擬真 "wikilink")」感覺的電子賽車遊戲，讓一般人可以體驗操縱及使用不能在現實中駕駛或購買的汽車來競賽。

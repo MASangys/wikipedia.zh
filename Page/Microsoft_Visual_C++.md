@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Visual C++](https://zh.wikipedia.org/wiki/Microsoft_Visual_C++)转换而来。
+
+
 **Microsoft Visual C++**（简称**Visual C++**、**MSVC**、**VC++**或**VC**）是[微軟公司的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[C++](../Page/C++.md "wikilink")開發工具，具有[集成开发环境](../Page/集成开发环境.md "wikilink")，可提供編輯[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")，[C++](../Page/C++.md "wikilink")以及[C++/CLI等](https://zh.wikipedia.org/wiki/C++/CLI "wikilink")[编程語言](https://zh.wikipedia.org/wiki/编程語言 "wikilink")。VC++整合了便利的除錯工具，特別是整合了微軟[Windows视窗操作系统应用程序接口](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[Windows API](../Page/Windows_API.md "wikilink")）、[三维動畫](https://zh.wikipedia.org/wiki/三维動畫 "wikilink")[DirectX](../Page/DirectX.md "wikilink") API，[Microsoft .NET框架](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")。目前最新的版本是Microsoft Visual C++ 2019。
 
 ## 風格

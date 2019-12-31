@@ -1,3 +1,6 @@
+> 本文内容由[吉奥利ETO足球俱乐部](https://zh.wikipedia.org/wiki/吉奥利ETO足球俱乐部)转换而来。
+
+
 **吉奧利ETO足球俱乐部**（**Győri ETO FC**）是[匈牙利](../Page/匈牙利.md "wikilink")足球俱乐部，位于[匈牙利](../Page/匈牙利.md "wikilink")[杰尔](../Page/杰尔.md "wikilink")，球队现属于[匈牙利足球甲级联赛](../Page/匈牙利足球甲级联赛.md "wikilink")（Borsodi Liga）。
 
 吉奥利ETO的主场球衣色为白色上衣，深绿色短裤和深绿色球袜。

@@ -1,3 +1,6 @@
+> 本文内容由[Ave\;new](https://zh.wikipedia.org/wiki/Ave\;new)转换而来。
+
+
 **ave;new**（）是[日本](../Page/日本.md "wikilink")一個[音樂團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")，兼營藝人仲介業務。團體組成初期是以[有限公司](../Page/有限公司.md "wikilink")方式註冊，總部設於[神奈川縣](../Page/神奈川縣.md "wikilink")[相模原市](../Page/相模原市.md "wikilink")。2010年4月19日改組為股份有限公司，並將總部遷移至[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[PAUP](https://zh.wikipedia.org/wiki/PAUP)转换而来。
+
+
 **PAUP\***是自从2000年左右以来使用最广泛的[种系发生演算软件包](https://zh.wikipedia.org/wiki/种系发生 "wikilink")。由于其独特的命名方式（读作Paup Star），也常常被“误称”为PAUP。PAUP是Phylogenetic Analysis Using Parsimony的缩写。PAUP\*是一个收费的软件。
 
 ### 作者

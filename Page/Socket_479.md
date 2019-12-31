@@ -1,4 +1,4 @@
-> 本文内容由[Socket 479](https://zh.wikipedia.org/wiki/Socket 479)转换而来。
+> 本文内容由[Socket 479](https://zh.wikipedia.org/wiki/Socket_479)转换而来。
 
 
 **Socket 479**為一[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Pentium M處理器使用的插座](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")，主要在移動平台上出現。相比[Socket 478](../Page/Socket_478.md "wikilink")，它使用另一種插腳的配置方法，所以一般情形下Pentium M都不可以使用正常的Socket 478主機板。但由於Socket 479的主機板量少價昂，因此[華碩](../Page/華碩.md "wikilink")等電腦廠商曾開發轉接板，使Socket 478主機板也能使用Socket 479的CPU。只有855GME、915GM、945GT等的流動處理器晶片組才支援。

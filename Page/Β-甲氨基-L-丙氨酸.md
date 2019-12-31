@@ -1,3 +1,6 @@
+> 本文内容由[Β-甲氨基-L-丙氨酸](https://zh.wikipedia.org/wiki/Β-甲氨基-L-丙氨酸)转换而来。
+
+
 **β-甲氨基-L-丙氨酸**（英文**β-methylamino L-alanine**，簡稱**BMAA**），是一種[神經毒素](../Page/神經毒素.md "wikilink")，能在[蘇鐵科植物種子中找到](https://zh.wikipedia.org/wiki/蘇鐵科 "wikilink")。這一種[非蛋白胺基酸](../Page/非蛋白胺基酸.md "wikilink")，與非必要胺基酸[丙氨酸](../Page/丙氨酸.md "wikilink")（alanine）十分相似，是由[念珠藻屬的](https://zh.wikipedia.org/wiki/念珠藻屬 "wikilink")[藍藻產生](https://zh.wikipedia.org/wiki/藍藻 "wikilink")，而這些藍藻大都生長於植物的根部。
 
 ## 神經毒性

@@ -1,3 +1,6 @@
+> 本文内容由[Sina Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Sina_Music樂壇民意指數頒獎禮)转换而来。
+
+
 **SINA MUSIC樂壇民意指數頒獎禮**，是由[世界](../Page/世界.md "wikilink")網絡搜尋商[新浪](../Page/新浪.md "wikilink")支部[香港](../Page/香港.md "wikilink")[新浪](../Page/新浪.md "wikilink")音樂所舉辦，由2006年起，於每年1月舉辦，為全港首個透過互聯網投票產生的樂壇頒獎禮。
 
 ## 歷屆頒獎禮

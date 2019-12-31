@@ -1,3 +1,6 @@
+> 本文内容由[TrueType](https://zh.wikipedia.org/wiki/TrueType)转换而来。
+
+
 **TrueType**是由[美国](../Page/美国.md "wikilink")[苹果公司和](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[微软](../Page/微软.md "wikilink")公司共同开发的一种[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[轮廓](https://zh.wikipedia.org/wiki/轮廓 "wikilink")[字体](../Page/字体.md "wikilink")（[曲線描邊字](https://zh.wikipedia.org/wiki/襯線字 "wikilink")）类型标准。这种类型字体文件的[扩展名是](https://zh.wikipedia.org/wiki/扩展名 "wikilink")`.ttf`，类型代码是`tfil`。
 
 早在1980年代末，苹果公司为了对抗[Adobe](../Page/Adobe.md "wikilink")公司的[Type 1](https://zh.wikipedia.org/wiki/Type_1 "wikilink")[PostScript](../Page/PostScript.md "wikilink")字体，设计开发了TrueType。之後[微软](../Page/微软.md "wikilink")加入了开发，[Windows操作系统的字体格式基本上都统一成TrueType](https://zh.wikipedia.org/wiki/Windows "wikilink")，而在苹果的[Mac OS却成了PostScript和TrueType对立的局面](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。TrueType后来也被[Linux](../Page/Linux.md "wikilink")等系统使用，成为标准字体。TrueType的主要强项在于它能给开发者提供关于字体显示、不同字體大小的像素級显示等的高级控制。

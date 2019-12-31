@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA SoundStorm](https://zh.wikipedia.org/wiki/NVIDIA_SoundStorm)转换而来。
+
+
 **SoundStorm**曾是一个高級的5.1音效技術認證。它是由[NVIDIA發明](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，用於[nForce2平台](https://zh.wikipedia.org/wiki/nForce2 "wikilink")，並以nForce音效处理單元（nForce audio processing unit，APU）作為基楚。
 
 ## 認證

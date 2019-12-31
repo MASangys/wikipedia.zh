@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵A線](https://zh.wikipedia.org/wiki/紐約地鐵A線)转换而来。
+
+
 **A線第八大道快車**（），又稱**紐約地鐵A線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為藍色\[1\]。
 
 A線列車任何時候都運行。日間列車來往[英伍德的](https://zh.wikipedia.org/wiki/英伍德_\(曼哈頓\) "wikilink")[207街和](https://zh.wikipedia.org/wiki/英伍德-207街車站_\(IND第八大道線\) "wikilink")的[莫特大道或](https://zh.wikipedia.org/wiki/遠洛克威-莫特大道車站_\(IND洛克威線\) "wikilink")的[勒弗茲林蔭路](https://zh.wikipedia.org/wiki/臭氧公園-勒弗茲林蔭路車站_\(IND福爾頓街線\) "wikilink")，在曼哈頓和布魯克林以快車行駛，在皇后區以慢車行駛，繁忙時段有限度服務列車以的[海灘116街到發](https://zh.wikipedia.org/wiki/洛克威公園-海灘116街車站_\(IND洛克威線\) "wikilink")，而不是遠洛克威或勒弗茲林蔭路。深夜列車只來往207街至遠洛克威，停靠沿線全部車站，此時設有接駁列車（勒弗茲林蔭路接駁線）來往[尤克利德大道與勒弗茲林蔭路](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")\[2\]

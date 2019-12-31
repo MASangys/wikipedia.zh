@@ -1,4 +1,4 @@
-> 本文内容由[Sony Ericsson W810i](https://zh.wikipedia.org/wiki/Sony Ericsson W810i)转换而来。
+> 本文内容由[Sony Ericsson W810i](https://zh.wikipedia.org/wiki/Sony_Ericsson_W810i)转换而来。
 
 
 [索尼愛立信W](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")810i是一款在2006年1月14日推出的[Walkman](../Page/Walkman.md "wikilink")手機。

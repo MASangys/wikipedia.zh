@@ -1,4 +1,4 @@
-> 本文内容由[E Ink公司](https://zh.wikipedia.org/wiki/E Ink公司)转换而来。
+> 本文内容由[E Ink公司](https://zh.wikipedia.org/wiki/E_Ink公司)转换而来。
 
 
 **E Ink公司**（原文是英文的****，中文名**元太科技**）是一家[私人持股公司](https://zh.wikipedia.org/wiki/私人持股公司 "wikilink")，該公司的主要業務在於製造一種以[電泳顯示](https://zh.wikipedia.org/wiki/电子纸#电泳显示 "wikilink")（**e**lectro**p**horetic **d**isplay；**EPD**）技術的[电子纸](../Page/电子纸.md "wikilink")（electronic paper）。

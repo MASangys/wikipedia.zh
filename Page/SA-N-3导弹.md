@@ -1,3 +1,6 @@
+> 本文内容由[SA-N-3导弹](https://zh.wikipedia.org/wiki/SA-N-3导弹)转换而来。
+
+
 **M-11**«Шторм»，（M-11 Shtorm，英文:Storm）[火箭炮兵裝備總局命名為](https://zh.wikipedia.org/wiki/俄羅斯國防部火箭炮兵裝備總局 "wikilink")4K60。[北約代號](../Page/北約代號.md "wikilink")SA-N-3「高腳杯」（Goblet）。此型導彈1969年服役，部署於[航空母艦上](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")。
 
 4K60，是一種全天候中、低空艦對空導彈系統，通常置於雙聯發射架上。該導彈長6.1米，重845公斤，彈頭80公斤。射程可達55公里，飛行速度2-3[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")。

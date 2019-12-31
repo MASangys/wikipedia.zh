@@ -1,3 +1,6 @@
+> 本文内容由[B·B·金](https://zh.wikipedia.org/wiki/B·B·金)转换而来。
+
+
 **雷利·班·-{zh-hans:金;zh-hk:京;zh-tw:金;}-**（，），藝名**B·B·金**（，來自於Blues Boy的縮寫），生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[密西西比州](../Page/密西西比州.md "wikilink")，[藍調](../Page/藍調.md "wikilink")音樂家、[吉他手和歌曲作者](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。他是有史以来最伟大的藍調[音乐家之一](https://zh.wikipedia.org/wiki/音乐家 "wikilink")，外号「藍調之王」（The King of Blues）。他創立與推展了[電吉他推弦](https://zh.wikipedia.org/wiki/電吉他 "wikilink")、揉弦的技法，2003年在[滾石杂志评选的](https://zh.wikipedia.org/wiki/滾石杂志 "wikilink")[滾石雜誌一百大吉他手](../Page/滾石雜誌一百大吉他手.md "wikilink")，B·B·金位列第3名\[1\]、2011年位列第6名\[2\]，1987年就已經被引入[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。
 
 ## 演艺生涯

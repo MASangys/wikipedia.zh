@@ -1,3 +1,6 @@
+> 本文内容由[PSG 90狙擊步槍](https://zh.wikipedia.org/wiki/PSG_90狙擊步槍)转换而来。
+
+
 **PSG 90**（[瑞典語](../Page/瑞典語.md "wikilink")：Prickskyttegevär 90；解作「狙擊步槍90」）是[瑞典](../Page/瑞典.md "wikilink")軍隊的制式[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[精密國際](../Page/精密國際.md "wikilink")的[L96A1改進而成](../Page/精密國際AW狙擊步槍.md "wikilink")。
 
 ## 簡介

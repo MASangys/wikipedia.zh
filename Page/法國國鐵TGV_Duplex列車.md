@@ -1,4 +1,4 @@
-> 本文内容由[法國國鐵TGV Duplex列車](https://zh.wikipedia.org/wiki/法國國鐵TGV Duplex列車)转换而来。
+> 本文内容由[法國國鐵TGV Duplex列車](https://zh.wikipedia.org/wiki/法國國鐵TGV_Duplex列車)转换而来。
 
 
 [TGV_double_decker_DSC00132.jpg](https://zh.wikipedia.org/wiki/File:TGV_double_decker_DSC00132.jpg "fig:TGV_double_decker_DSC00132.jpg") [TGVDuplex_Centre.JPG](https://zh.wikipedia.org/wiki/File:TGVDuplex_Centre.JPG "fig:TGVDuplex_Centre.JPG")

@@ -1,3 +1,6 @@
+> 本文内容由[Production baobab](https://zh.wikipedia.org/wiki/Production_baobab)转换而来。
+
+
 **株式會社Production baobab**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**baobab**」。
 
 ## 概要

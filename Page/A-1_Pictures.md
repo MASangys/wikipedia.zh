@@ -1,3 +1,6 @@
+> 本文内容由[A-1 Pictures](https://zh.wikipedia.org/wiki/A-1_Pictures)转换而来。
+
+
 **株式會社A-1 Pictures**（，，簡稱**A1P**\[1\]）為[日本](../Page/日本.md "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")所屬製作[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[子公司](../Page/子公司.md "wikilink")，於2005年5月9日成立。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革

@@ -1,3 +1,6 @@
+> 本文内容由[SPARS碼](https://zh.wikipedia.org/wiki/SPARS碼)转换而来。
+
+
 **SPARS** 即[專業錄音室協會](https://zh.wikipedia.org/wiki/專業錄音室協會 "wikilink")（**S**ociety of **P**rofessional **A**udio **R**ecording **S**ervices）的[首字母縮寫](../Page/縮寫.md "wikilink")。SPARS 碼（SPARS Code）是[光碟](../Page/光碟.md "wikilink")錄音上以三個字母所構成的代碼，用以告知消費者採用哪一類型的[錄音機錄製和處理](https://zh.wikipedia.org/wiki/錄音機 "wikilink")，一般分為[類比](https://zh.wikipedia.org/wiki/類比訊號 "wikilink")（A）和[數位](https://zh.wikipedia.org/wiki/數位訊號 "wikilink")（D）兩種。此碼於1980年早期開始發展，並於1984年首次使用，但只有相當有限的代碼，使其漸漸停止使用。
 
 ## 代碼

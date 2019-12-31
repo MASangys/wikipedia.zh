@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XII 归来之翼](https://zh.wikipedia.org/wiki/最终幻想XII_归来之翼)转换而来。
+
+
 是Think & Feel與[史克威爾艾尼克斯开发](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")在[任天堂DS](../Page/任天堂DS.md "wikilink")发行的[即时](https://zh.wikipedia.org/wiki/即时策略游戏 "wikilink")[策略角色扮演游戏](https://zh.wikipedia.org/wiki/策略角色扮演游戏 "wikilink")，为2006年[PlayStation 2平台作品](../Page/PlayStation_2.md "wikilink")《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》的后传。游戏设定于《最终幻想XII》的結局一年之后，以前作主人公[梵為主角](https://zh.wikipedia.org/wiki/梵_\(最终幻想XII\) "wikilink")，描述其前往伊瓦莉斯上空「浮游大陸」的冒險故事。《归来之翼》是最早公开的[伊瓦莉斯联盟游戏](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")，于2007年在日本和北美发行，2008年在欧洲发行。游戏在日本和西方都获得总体积极的评价。
 
 ## 玩法

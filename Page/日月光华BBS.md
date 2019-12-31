@@ -1,3 +1,6 @@
+> 本文内容由[日月光华BBS](https://zh.wikipedia.org/wiki/日月光华BBS)转换而来。
+
+
 **日月光华BBS**站，全称**复旦大学日月光华BBS**，成立于1996年，站名取自“复旦”校名出处《尚书大传·虞夏传》“日月光华，旦复旦兮”一句。拥有将近四百个版面，近八万个注册帐号，是[上海高校中最大的](https://zh.wikipedia.org/wiki/上海 "wikilink")[网站之一](https://zh.wikipedia.org/wiki/网站 "wikilink")，在[华东地区](../Page/华东地区.md "wikilink")高校当中有一定的影响力，最高在线人数曾超过万人。随着[人人网](../Page/人人网.md "wikilink")等[SNS网站的兴起](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")，目前日月光华BBS站的日平均上站人数已跌落至3000人左右\[1\]。
 
 ## 历史

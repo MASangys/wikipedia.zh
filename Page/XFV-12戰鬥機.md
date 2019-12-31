@@ -1,3 +1,6 @@
+> 本文内容由[XFV-12戰鬥機](https://zh.wikipedia.org/wiki/XFV-12戰鬥機)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:XFV-12A_HC356-0-114G.jpg "fig:缩略图") [XFV-12A_mockpu_NAColumbus_NAN9-73.jpg](https://zh.wikipedia.org/wiki/File:XFV-12A_mockpu_NAColumbus_NAN9-73.jpg "fig:XFV-12A_mockpu_NAColumbus_NAN9-73.jpg") **洛克威爾XFV-12**是一種美國海軍為配合[制海艦開發的實驗型超音速垂直起降戰鬥機](https://zh.wikipedia.org/wiki/制海艦 "wikilink")。在書面上，這種飛機的性能優於英國的[海獵鷹式次音速戰鬥轟炸機](https://zh.wikipedia.org/wiki/海獵鷹式 "wikilink")。這架飛機以折流屏將引擎噴流導向翼面以提供升力。就像失敗的[XV-4蜂鳥式實驗機一般](https://zh.wikipedia.org/wiki/XV-4蜂鳥式 "wikilink")，這種設計嚴重限制了這架飛機的機翼掛載。其巨大的前翼面積將近主翼的一半，使其可視為一種雙翼機。
 
 與一般人熟知[海獵鷹不同](https://zh.wikipedia.org/wiki/海獵鷹 "wikilink")，本機使用一套翼面吹氣的方式，在垂直起降時，引擎後方的折流屏將會關閉，經由機身內的管路將噴射氣流導向開設在主翼及前翼上的百葉窗以提供升力。計畫使用一具後燃推力130千牛噸的引擎，推動其9070公斤的起飛重量。

@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM 0083：Stardust Memory](https://zh.wikipedia.org/wiki/機動戰士GUNDAM 0083：Stardust Memory)转换而来。
+> 本文内容由[機動戰士GUNDAM 0083：Stardust Memory](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_0083：Stardust_Memory)转换而来。
 
 
 [Pkg_gundam0083_1.jpg](https://zh.wikipedia.org/wiki/File:Pkg_gundam0083_1.jpg "fig:Pkg_gundam0083_1.jpg") [機動戰士0083安樂動畫1993.jpeg](https://zh.wikipedia.org/wiki/File:機動戰士0083安樂動畫1993.jpeg "fig:機動戰士0083安樂動畫1993.jpeg")動畫影帶影碟廣告，機動戰士0083粵語版。動畫雜誌《A Club》封底，第151期（1993年10月1日）\]\] 《**機動戰士GUNDAM0083：STARDUST MEMORY**》（，**）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")當中的一部[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[动画](../Page/动画.md "wikilink")。一共13集、1991年5月份最初在[日本](../Page/日本.md "wikilink")发行、最后一集在1992年9月份发行完毕。

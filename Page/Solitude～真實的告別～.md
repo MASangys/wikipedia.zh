@@ -1,3 +1,6 @@
+> 本文内容由[Solitude～真實的告別～](https://zh.wikipedia.org/wiki/Solitude～真實的告別～)转换而来。
+
+
 **solitude～真實的告別～**（**solitude**）是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年10月23日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說

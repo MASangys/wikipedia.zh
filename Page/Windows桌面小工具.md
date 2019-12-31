@@ -1,3 +1,6 @@
+> 本文内容由[Windows桌面小工具](https://zh.wikipedia.org/wiki/Windows桌面小工具)转换而来。
+
+
 **Windows桌面小工具**（在[Windows Vista中曾被称为](../Page/Windows_Vista.md "wikilink")**-{zh-hans:Windows边栏; zh-hant:Windows資訊看板;}-**）是一个用来运行[桌面小工具的引擎](https://zh.wikipedia.org/wiki/Microsoft_Gadgets "wikilink")。在[Windows Vista中](../Page/Windows_Vista.md "wikilink")，小工具可以放置在[桌面的侧边](https://zh.wikipedia.org/wiki/桌面 "wikilink")（[左或](https://zh.wikipedia.org/wiki/左 "wikilink")[右](https://zh.wikipedia.org/wiki/右 "wikilink")）的面板里，也可放置在桌面上；但在[Windows 7中面板被取消](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，小工具仅可以在桌面上浮动，或是被吸附到桌面的角落。小工具被微软称为“Gadgets”，可以执行多样的任务，比如显示日期、时间，提示[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[内存使用情况等](https://zh.wikipedia.org/wiki/内存 "wikilink")。Windows自身附带了几个小工具，任何人只要有兴趣，都可以自己开发。
 
 微軟發現桌面小工具有安全性漏洞，成功利用小工具[資訊安全風險的攻擊者](https://zh.wikipedia.org/wiki/資訊安全 "wikilink")，能以目前使用者的權限層級執行任意程式碼。如果目前使用者以系統管理的使用者權限登入，則攻擊者即可取得受影響系統的完整控制權；攻擊者接下來將能安裝程式，檢視、變更或刪除資料，或建立具有完整使用者權限的新帳戶。系統上帳戶使用者權限較低的使用者，其受影響的程度比擁有系統管理權限的使用者要小。2012年7月11日，微軟將桌面小工具應用關閉下載，並提供Windows Vista與Windows 7關閉小工具的程式。

@@ -1,4 +1,4 @@
-> 本文内容由[AMD Geode](https://zh.wikipedia.org/wiki/AMD Geode)转换而来。
+> 本文内容由[AMD Geode](https://zh.wikipedia.org/wiki/AMD_Geode)转换而来。
 
 
 [Logo_AMD_Geode_140w.gif](https://zh.wikipedia.org/wiki/File:Logo_AMD_Geode_140w.gif "fig:Logo_AMD_Geode_140w.gif") **AMD Geode™** 處理器是[AMD公司針對低功耗應用所設計的](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86处理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，其頻率從400MHz到1GHz不等。主要應用於各種[終端機](https://zh.wikipedia.org/wiki/終端機 "wikilink")、[精簡型終端機](../Page/瘦客户端.md "wikilink")（Thin client）和移動數位設備（如PDA）。

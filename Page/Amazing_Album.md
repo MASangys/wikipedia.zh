@@ -1,3 +1,6 @@
+> 本文内容由[Amazing Album](https://zh.wikipedia.org/wiki/Amazing_Album)转换而来。
+
+
 《**Amazing Album**》為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")2002年一張[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2002年8月27日在[香港](../Page/香港.md "wikilink")發行，憑《ICHIBAN興奮》、《人比人》、《跅跅步哈姆太郎》、《200% 咒語》及《朋友仔》五曲廣受[香港](../Page/香港.md "wikilink")欢迎。專輯為Twins 2002年9月中的演唱會前的預熱，大碟中首次進行大規模的翻唱及改編，并大多數是動畫片及廣告主題曲。亦是Twins唯一一次的大規模翻唱及改編。
 
 專輯主打歌自然是Twins演唱會的主題曲《ICHIBAN興奮》，動感歡快的節奏把我們引領進Twins快樂的童話音樂世界，你將見到一個精彩嘉年華的《魔法王國》，跟著《哈姆太郎》跳cha cha步，跟著Twins念超級美妙無比的《200%咒語》，你還可以見到UFO……

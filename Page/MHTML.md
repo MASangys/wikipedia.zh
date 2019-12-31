@@ -1,3 +1,6 @@
+> 本文内容由[MHTML](https://zh.wikipedia.org/wiki/MHTML)转换而来。
+
+
 **网页归档**（或，缩写mhtml。又稱**單一檔案網頁**或**網頁封存檔案**）為以[多用途互聯網郵件擴展](../Page/多用途互聯網郵件擴展.md "wikilink")格式，將一個[多附件網頁](https://zh.wikipedia.org/wiki/多附件網頁 "wikilink")（如包含大量[圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")、[Flash動畫](https://zh.wikipedia.org/wiki/SWF "wikilink")、[Java小程序的網頁](../Page/JavaScript.md "wikilink")）儲存為單一檔案\[1\]，可用於發送HTML[电子邮件](../Page/电子邮件.md "wikilink")，此單一檔案即稱為一網頁封存檔案，其副檔名為**.mht**。這種格式有時被簡稱為MHT。
 
 MHTML在RFC 2110中定義，後經RFC 2557修訂。MHTML文檔的基礎是[超文本标记语言](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")。

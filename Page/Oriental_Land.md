@@ -1,3 +1,6 @@
+> 本文内容由[Oriental Land](https://zh.wikipedia.org/wiki/Oriental_Land)转换而来。
+
+
 **Oriental Land**（****，）是一間[日本](../Page/日本.md "wikilink")的公司，負責經營、管理以[東京迪士尼樂園](../Page/東京迪士尼樂園.md "wikilink")、[東京迪士尼海洋](../Page/東京迪士尼海洋.md "wikilink")為中心的[東京迪士尼度假區](../Page/東京迪士尼度假區.md "wikilink")。
 
 在成立初期的主要出資股東是[京成電鐵](../Page/京成電鐵.md "wikilink")和[三井不動產](https://zh.wikipedia.org/wiki/三井不動產 "wikilink")。此外，[千葉縣](../Page/千葉縣.md "wikilink")政府也是主要股東之一。公共團體出資的比率為3.96%。

@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA MCP51](https://zh.wikipedia.org/wiki/NVIDIA MCP51)转换而来。
+> 本文内容由[NVIDIA MCP51](https://zh.wikipedia.org/wiki/NVIDIA_MCP51)转换而来。
 
 
 **NVidia C51芯片组**是[nVidia的](https://zh.wikipedia.org/wiki/nVidia "wikilink")[K8](https://zh.wikipedia.org/wiki/K8 "wikilink") IGP[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，於2005年推出。它是nVidia第一款為K8平台而設的整合型晶片組。它建了Geforce 6100顯示核心，完整支援[DirectX](../Page/DirectX.md "wikilink") 9.0和[HDR](https://zh.wikipedia.org/wiki/HDR "wikilink")，是當時繒圖效能最佳的整合型晶片組。南橋的硬碟支援部分有小[BUG](https://zh.wikipedia.org/wiki/BUG "wikilink")（有時不能啟动[NCQ](https://zh.wikipedia.org/wiki/NCQ "wikilink")）。

@@ -1,3 +1,6 @@
+> 本文内容由[FeliCa](https://zh.wikipedia.org/wiki/FeliCa)转换而来。
+
+
 **FeliCa**是[Sony所開發出來的非接觸式](https://zh.wikipedia.org/wiki/Sony "wikilink")[IC卡技術](https://zh.wikipedia.org/wiki/IC卡 "wikilink")。名稱由英語中代表「幸福」的「Felicity」和「Card」（卡片）組合而成，是Sony的[註冊商標](https://zh.wikipedia.org/wiki/註冊商標 "wikilink")。
 
 ## 概要

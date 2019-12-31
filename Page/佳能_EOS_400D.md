@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 400D](https://zh.wikipedia.org/wiki/佳能_EOS_400D)转换而来。
+
+
 [Canon_EOS_400D_9510.jpg](https://zh.wikipedia.org/wiki/File:Canon_EOS_400D_9510.jpg "fig:Canon_EOS_400D_9510.jpg") **佳能 EOS 400D**（北美市场：**Digital Rebel XTi**，日本市场：**EOS Kiss Digital X**），是由[佳能](../Page/佳能.md "wikilink")公司于2006年8月24日上市的一款消费级别[数码单镜反光相机](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")。
 
 作为成功的[佳能 EOS 350D的继任者](../Page/佳能_EOS_350D.md "wikilink")，佳能EOS 400D具有1010万有效像素CMOS图像感应器，拥有更大的连拍缓存，[EOS I.C.S感应器除尘系统和来自于](https://zh.wikipedia.org/wiki/EOS_I.C.S "wikilink")[EOS 30D的](../Page/佳能_EOS_30D.md "wikilink")9点宽区自动对焦系统，并且使用2.5英寸23万像素的宽视角LCD替代了顶部的信息显示屏。

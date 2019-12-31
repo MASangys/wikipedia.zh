@@ -1,3 +1,6 @@
+> 本文内容由[AGM-84魚叉反艦飛彈](https://zh.wikipedia.org/wiki/AGM-84魚叉反艦飛彈)转换而来。
+
+
 **AGM-84魚叉**（Harpoon）[反艦飛彈](../Page/反艦飛彈.md "wikilink")是由[美国](../Page/美国.md "wikilink")[麥克唐納-道格拉斯公司开发的反舰导弹](https://zh.wikipedia.org/wiki/麥克唐納-道格拉斯公司 "wikilink")，在1979年装备部队使用，也是美國海空軍現役最主要的反艦武器，可以自[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")，各類水面[軍艦以及](https://zh.wikipedia.org/wiki/軍艦 "wikilink")[潛艇](../Page/潛艇.md "wikilink")上發射。此外，[美國海軍](../Page/美國海軍.md "wikilink")利用魚叉飛彈開發出遠程陸上攻擊型（SLAM：Stand-off Land Attack Missile）。在美國三軍通用編號當中，AGM-84為空射型，RGM-84為艦射型，UGM-84則是水下潛艇發射型，但是他們的基本結構都是相同的。
 
 ## 發展沿革

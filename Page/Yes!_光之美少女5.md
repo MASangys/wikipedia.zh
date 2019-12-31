@@ -1,3 +1,6 @@
+> 本文内容由[Yes! 光之美少女5](https://zh.wikipedia.org/wiki/Yes!_光之美少女5)转换而来。
+
+
 《**Yes\! 光之美少女5**》（****）是由[東堂泉](../Page/東堂泉.md "wikilink")（東堂）所創作的[魔法少女](../Page/魔法少女.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[光之美少女系列](../Page/光之美少女系列.md "wikilink")》的第四作，屬第三代光之美少女。本項介紹《Yes\! 光之美少女5》及內容延續的第五作（本作品的第2期）《**Yes\! 光-{}-之美少女5GoGo\!**》。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[CXCR3](https://zh.wikipedia.org/wiki/CXCR3)转换而来。
+
+
 **趋化因子受体CXCR3**是G蛋白偶连的七跨膜域受体选择性的与CXC[趋化因子](../Page/趋化因子.md "wikilink")（[CXCL9](../Page/CXCL9.md "wikilink")，[CXCL10](../Page/CXCL10.md "wikilink")，和[CXCL11](../Page/CXCL11.md "wikilink")）\[1\]。 CXCR3又称G蛋白偶联受体9(GPR9)和CD183。有两种变异的CXCR3受体。CXCR3－A与CXCL9， CXCL10，CXCL11结合；而CXCR3-B除了与CXCL9， CXCL10，CXCL11结合外还可以与[CXCL4结合](https://zh.wikipedia.org/wiki/CXCL4 "wikilink")\[2\]。
 
 ## 表达

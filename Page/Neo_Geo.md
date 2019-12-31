@@ -1,4 +1,4 @@
-> 本文内容由[Neo Geo](https://zh.wikipedia.org/wiki/Neo Geo)转换而来。
+> 本文内容由[Neo Geo](https://zh.wikipedia.org/wiki/Neo_Geo)转换而来。
 
 
 **Neo Geo AES**是[SNK](../Page/SNK.md "wikilink")公司发布的[家用游戏机](../Page/家用游戏机.md "wikilink")，在[16位元遊樂器中性能较強](https://zh.wikipedia.org/wiki/16位元 "wikilink")。發售時的宣傳標語為「將很棒的遊戲帶回家吧！」。

@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TE\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TE\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TE\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TE\))转换而来。
 
 
   - TE [石油天然气工业](https://zh.wikipedia.org/wiki/石油天然气工业 "wikilink")

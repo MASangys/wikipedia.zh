@@ -1,4 +1,4 @@
-> 本文内容由[X Japan](https://zh.wikipedia.org/wiki/X Japan)转换而来。
+> 本文内容由[X Japan](https://zh.wikipedia.org/wiki/X_Japan)转换而来。
 
 
 **X JAPAN**是20世紀末在[日本](../Page/日本.md "wikilink")組成的五人男子[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")／[重金屬樂團](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")\[1\]\[2\]，音樂作品銷量超過五千萬張，音樂風格主要是[重交響樂元素的](../Page/交響金屬.md "wikilink")[力量](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")／[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")，隨著時間推移，他們發展成具備[前衛搖滾](../Page/前衛搖滾.md "wikilink")元素的樂團，擅長詮釋。樂團在1988年實現了[獨立音樂](../Page/獨立音樂.md "wikilink")界的巨大成功後，才決定與主流唱片公司簽約正式出道\[3\]。他們被視為是日本特有[視覺系](../Page/視覺系.md "wikilink")文化的開山始祖，也是日本最有劃時代的意義的傳奇樂團，對後來的音樂世代具有相當的影響力\[4\]。2007年，《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》將他們的出道專輯《[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")》列為日本史上百大搖滾專輯第15名\[5\]。

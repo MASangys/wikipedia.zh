@@ -1,3 +1,6 @@
+> 本文内容由[MagSafe](https://zh.wikipedia.org/wiki/MagSafe)转换而来。
+
+
 **MagSafe**插頭是一款由[蘋果公司所推出](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，用於該公司筆記型電腦的電源插頭，它首次於2006年1月10日在[舊金山的MacWorld會議與博覽會上與](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[MacBook Pro一同展出](../Page/MacBook_Pro.md "wikilink")。MagSafe透過磁力固定，因此即使在用力拖拉──例如在某人絆到電線的情況下會安全地自插口中移除，而不會造成損壞或拖跌在桌子上的電腦\[1\]。
 
 2012年6月11日，蘋果公司推出MagSafe2搭配新改款的視網膜螢幕15吋[MacBook Pro](../Page/MacBook_Pro.md "wikilink")，比原先的MagSafe較扁，同時也推出轉接頭。

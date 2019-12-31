@@ -1,3 +1,6 @@
+> 本文内容由[Lightning](https://zh.wikipedia.org/wiki/Lightning)转换而来。
+
+
 </ref> |operating_system = [Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS與其他](https://zh.wikipedia.org/wiki/macOS "wikilink") |genre = [個人資訊管理系統](https://zh.wikipedia.org/wiki/個人資訊管理系統 "wikilink") |license = [MPL](https://zh.wikipedia.org/wiki/Mozilla公共許可證 "wikilink") 2.0 |website = [Lightning附加元件](https://addons.mozilla.org/zh-TW/thunderbird/addon/lightning/) | }} **Lightning**是一個將日曆與行事曆功能加入到郵件與新聞組客戶端[Mozilla Thunderbird的擴充套件](../Page/Mozilla_Thunderbird.md "wikilink")，从1.0版本起也可用于[SeaMonkey](../Page/SeaMonkey.md "wikilink")。Lightning於2004年12月22日對外宣佈，現由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")開發。
 
 與已中止開發的[Mozilla Sunbird或是](../Page/Mozilla_Sunbird.md "wikilink")不同，Lightning的目標是與Thunderbird緊緊整合\[1\]。Lightning計劃與Sunbird計劃同時開發，兩個工具使用的編碼亦完全相同，每個程式分別擁有數個個外的檔案來指示它們該如何運作\[2\]。

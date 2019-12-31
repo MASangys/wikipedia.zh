@@ -1,3 +1,6 @@
+> 本文内容由[Cambria](https://zh.wikipedia.org/wiki/Cambria)转换而来。
+
+
 **Cambria**\[1\]是搭載於[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Microsoft Office 2007和](../Page/Microsoft_Office_2007.md "wikilink")[Microsoft Office 2008 for Mac等軟體的一個](../Page/Microsoft_Office_2008_for_Mac.md "wikilink")[襯線](https://zh.wikipedia.org/wiki/襯線體 "wikilink")[字型](../Page/计算机字体.md "wikilink")，其字元間距和比例相當的平均，對角和垂直方向的筆畫和[襯線比較粗](https://zh.wikipedia.org/wiki/襯線 "wikilink")，而水平向的襯線比較細，強調筆畫的末筆。
 
 當Cambria使用在大小超過20[點的標題時](../Page/點_\(印刷\).md "wikilink")，其字體間的間距會些微的縮小以求美觀，但這樣的設計並不適用於商業文件。

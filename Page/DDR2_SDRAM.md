@@ -1,3 +1,6 @@
+> 本文内容由[DDR2 SDRAM](https://zh.wikipedia.org/wiki/DDR2_SDRAM)转换而来。
+
+
 [RAM_1GB_with_cooler.jpg](https://zh.wikipedia.org/wiki/File:RAM_1GB_with_cooler.jpg "fig:RAM_1GB_with_cooler.jpg") **第二代双倍数据率同步動態隨機存取記憶體**（，一般稱為**DDR2 SDRAM**），是一種[電腦記憶體](../Page/電腦記憶體.md "wikilink")規格。它屬於[SDRAM](../Page/SDRAM.md "wikilink")家族的記憶體產品，提供了相較於[DDR SDRAM更高的運行效能與更低的電壓](../Page/DDR_SDRAM.md "wikilink")，是DDR SDRAM（双倍数据率同步動態隨機存取記憶體）的後繼者。
 
 JEDEC为DDR存储器设立了速度规，并分为了以下两个部分：按内存芯片分类和按内存模块分类。

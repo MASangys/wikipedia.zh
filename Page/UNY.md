@@ -1,3 +1,6 @@
+> 本文内容由[UNY](https://zh.wikipedia.org/wiki/UNY)转换而来。
+
+
 [APiTA.kounannishi1.JPG](https://zh.wikipedia.org/wiki/File:APiTA.kounannishi1.JPG "fig:APiTA.kounannishi1.JPG") [UNY_Lok_Fu_Plaza_Store_Level_3_Enterance.jpg](https://zh.wikipedia.org/wiki/File:UNY_Lok_Fu_Plaza_Store_Level_3_Enterance.jpg "fig:UNY_Lok_Fu_Plaza_Store_Level_3_Enterance.jpg")[樂富廣場](../Page/樂富廣場.md "wikilink")分店\]\] [APITA_Gifu_20130921.jpg](https://zh.wikipedia.org/wiki/File:APITA_Gifu_20130921.jpg "fig:APITA_Gifu_20130921.jpg")[岐阜市](../Page/岐阜市.md "wikilink")分店\]\] [APITA_Supermarket_inside_Cityplaza_2014.jpg](https://zh.wikipedia.org/wiki/File:APITA_Supermarket_inside_Cityplaza_2014.jpg "fig:APITA_Supermarket_inside_Cityplaza_2014.jpg")超級市場\]\]
 
 **生活創庫**（**UNY**，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是一家[日本](../Page/日本.md "wikilink")的[超級市場](../Page/超級市場.md "wikilink")集團，於日本[中部地方](../Page/中部地方.md "wikilink")及[關東地區經營](https://zh.wikipedia.org/wiki/關東地區 "wikilink")234家購物中心和超級市場、6300家便利店及1,500家專賣店。總部位於[愛知縣](../Page/愛知縣.md "wikilink")[稻澤市](https://zh.wikipedia.org/wiki/稻澤市 "wikilink")。

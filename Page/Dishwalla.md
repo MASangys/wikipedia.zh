@@ -1,3 +1,6 @@
+> 本文内容由[Dishwalla](https://zh.wikipedia.org/wiki/Dishwalla)转换而来。
+
+
 **Dishwalla**是一支成军于1990年，来自美国加州圣塔芭芭拉的[另类摇滚](../Page/另类摇滚.md "wikilink")乐队。 成员由主唱JR Richards，吉他手Rodney Browning，贝斯手Scot Alexander，键盘手Jim Wood，鼓手Pete Maloney组成，目前发行过5张专辑。
 
 ## 成员组成

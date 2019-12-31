@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(I\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(I\))转换而来。
+> 本文内容由[中国图书馆分类法 \(I\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(I\))转换而来。
 
 
 ## 文学

@@ -1,4 +1,4 @@
-> 本文内容由[The Pancakes](https://zh.wikipedia.org/wiki/The Pancakes)转换而来。
+> 本文内容由[The Pancakes](https://zh.wikipedia.org/wiki/The_Pancakes)转换而来。
 
 
 **The Pancakes**是[香港](../Page/香港.md "wikilink")一支獨立一人[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，唱片公司[Rewind Records的唯一成員](https://zh.wikipedia.org/wiki/Rewind_Records "wikilink")。

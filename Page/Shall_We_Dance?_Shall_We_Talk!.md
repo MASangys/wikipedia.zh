@@ -1,3 +1,6 @@
+> 本文内容由[Shall We Dance\? Shall We Talk!](https://zh.wikipedia.org/wiki/Shall_We_Dance\?_Shall_We_Talk!)转换而来。
+
+
 \-{H|zh-hant:單車;zh-hans:单车;}-
 
 《**Shall We Dance? Shall We Talk\!**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2001年4月13日正式發行。

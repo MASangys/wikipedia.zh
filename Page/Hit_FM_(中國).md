@@ -1,3 +1,6 @@
+> 本文内容由[Hit FM \(中國\)](https://zh.wikipedia.org/wiki/Hit_FM_\(中國\))转换而来。
+
+
 **Hit FM**，频率呼号为**中国国际广播电台劲曲调频**，是[中国国际广播电台](../Page/中国国际广播电台.md "wikilink")（CRI）旗下第二套对内广播频率，且专门介绍环球[流行音乐的广播媒体](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，于2003年4月16日率先在[北京开播](https://zh.wikipedia.org/wiki/北京 "wikilink")，结束了中国大陆没有欧美音乐专业电台的历史。其前身是1999年开播的多语种调频广播。该频道采用类型化音乐电台（Pure Format Radio）操作模式，属于商业运作，全天24小时滚动播出全球热门金曲，且排行榜类型的节目比较多。电台最初主要面向北京听众广播，在北京欧美乐迷中口碑甚好，称之为887。目前该频道在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[上海和](https://zh.wikipedia.org/wiki/上海 "wikilink")[广州落地播出](https://zh.wikipedia.org/wiki/广州 "wikilink")，并在[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[武汉](https://zh.wikipedia.org/wiki/武汉 "wikilink")、[长沙](https://zh.wikipedia.org/wiki/长沙 "wikilink")、[南京和](https://zh.wikipedia.org/wiki/南京 "wikilink")[郑州等地与当地电台合作落地播出](https://zh.wikipedia.org/wiki/郑州 "wikilink")。
 
 ## 频道历史

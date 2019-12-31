@@ -1,3 +1,6 @@
+> 本文内容由[KI克拉克斯维克](https://zh.wikipedia.org/wiki/KI克拉克斯维克)转换而来。
+
+
 **KI克拉克斯维克**（**KÍ Klaksvík**）是[法罗群岛](../Page/法罗群岛.md "wikilink")的一支足球俱乐部，球队位于岛上的第二大城市[克拉克斯维克](https://zh.wikipedia.org/wiki/克拉克斯维克 "wikilink")，创建于1904年。KI克拉克斯维克在1992年时球队第一次出现在欧洲赛场上，在[欧洲冠军联赛](../Page/欧洲冠军联赛.md "wikilink")资格赛中两回合1-6输给了拉脱维亚的[里加斯孔托](https://zh.wikipedia.org/wiki/里加斯孔托足球俱乐部 "wikilink")。
 
 俱乐部的球衣色是蓝色和白色。主体育场为可容纳3000人的[KÍ体育场](https://zh.wikipedia.org/wiki/KÍ体育场 "wikilink")。

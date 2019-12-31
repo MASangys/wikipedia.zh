@@ -1,3 +1,6 @@
+> 本文内容由[超级机器人大战ORIGINAL GENERATION THE ANIMATION](https://zh.wikipedia.org/wiki/超级机器人大战ORIGINAL_GENERATION_THE_ANIMATION)转换而来。
+
+
 《**超級機械人大戰ORIGINAL GENERATION THE ANIMATION**》是以[萬普](../Page/萬普.md "wikilink")發售的策略模擬遊戲為題材的動畫。
 
 除了動畫，亦同時發售[廣播劇CD和](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[漫畫等衍生商品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。本動畫由[Brain's Base製作](../Page/Brain's_Base.md "wikilink")，全3話，共發售[DVD三集及](https://zh.wikipedia.org/wiki/DVD "wikilink")[UMD一集收錄全](https://zh.wikipedia.org/wiki/UMD "wikilink")3話。

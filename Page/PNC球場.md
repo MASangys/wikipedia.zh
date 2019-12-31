@@ -1,3 +1,6 @@
+> 本文内容由[PNC球場](https://zh.wikipedia.org/wiki/PNC球場)转换而来。
+
+
 **PNC球場**，座落在美國賓州[匹茲堡的球场](https://zh.wikipedia.org/wiki/匹茲堡 "wikilink")，為美國[棒球](../Page/棒球.md "wikilink")[大聯盟](https://zh.wikipedia.org/wiki/大聯盟 "wikilink")[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")隊的主場，於西元2001年啟用，並由當地的PNC財團取得命名權。
 
 ## 特色

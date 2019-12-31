@@ -1,3 +1,6 @@
+> 本文内容由[德布雷辛尼VSC](https://zh.wikipedia.org/wiki/德布雷辛尼VSC)转换而来。
+
+
 **德布雷辛尼VSC**（**Debreceni VSC**）是匈牙利足球俱乐部，位于匈牙利小城[德布勒森](../Page/德布勒森.md "wikilink")。是[匈牙利足球甲级联赛](../Page/匈牙利足球甲级联赛.md "wikilink")球队，主場球场为 Oláh Gábor Út 体育场，球场拥有 9,200 个座位和 1,000 个站位。
 
 ## 歷史

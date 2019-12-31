@@ -1,4 +1,4 @@
-> 本文内容由[GammaChrome S18](https://zh.wikipedia.org/wiki/GammaChrome S18)转换而来。
+> 本文内容由[GammaChrome S18](https://zh.wikipedia.org/wiki/GammaChrome_S18)转换而来。
 
 
 **GammaChrome S18**是[S3 Graphics第一款PCI](../Page/S3_Graphics.md "wikilink")-E顯示卡，採用[0.13微米製程](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")。它有強勁2D和影片处理能力，而3D处理能力已接近當時的中階顯示卡。电視輸出方面，支持[Pure HDTV技術](https://zh.wikipedia.org/wiki/Pure_HDTV "wikilink")，成為S3顯示卡的一个特色。

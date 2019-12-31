@@ -1,3 +1,6 @@
+> 本文内容由[美少女戰士R](https://zh.wikipedia.org/wiki/美少女戰士R)转换而来。
+
+
 《**美少女戰士R**》（）是1993年3月6日到1994年3月5日播放的[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要

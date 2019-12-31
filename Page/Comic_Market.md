@@ -1,4 +1,4 @@
-> 本文内容由[Comic Market](https://zh.wikipedia.org/wiki/Comic Market)转换而来。
+> 本文内容由[Comic Market](https://zh.wikipedia.org/wiki/Comic_Market)转换而来。
 
 
 **Comic Market**（），简称**Comike**（）、**Comiket**（）或**CM**。是由Comic Market準備會舉辦的[日本](../Page/日本.md "wikilink")以及全球最大型的[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")\[1\]\[2\]。

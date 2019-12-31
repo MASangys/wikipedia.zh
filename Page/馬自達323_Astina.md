@@ -1,4 +1,4 @@
-> 本文内容由[馬自達323 Astina](https://zh.wikipedia.org/wiki/馬自達323 Astina)转换而来。
+> 本文内容由[馬自達323 Astina](https://zh.wikipedia.org/wiki/馬自達323_Astina)转换而来。
 
 
 **馬自達323 Astina**（）是[日本](../Page/日本.md "wikilink")[馬自達公司於](https://zh.wikipedia.org/wiki/馬自達 "wikilink")1989年至1994年間生產，從[第七代323演變而來的五門](https://zh.wikipedia.org/wiki/馬自達323#第七代（1989年-1996年） "wikilink")[斜背式](../Page/斜背車.md "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。

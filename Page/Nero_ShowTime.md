@@ -1,4 +1,4 @@
-> 本文内容由[Nero ShowTime](https://zh.wikipedia.org/wiki/Nero ShowTime)转换而来。
+> 本文内容由[Nero ShowTime](https://zh.wikipedia.org/wiki/Nero_ShowTime)转换而来。
 
 
 **Nero ShowTime**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Nero AG公司所開發出的一套多媒體播放軟體](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（Media Player），這套播放軟體並沒有單獨銷售，而是隨附在Nero AG公司的其他軟體產品中一同銷售，例如[Nero Burning ROM](../Page/Nero_Burning_ROM.md "wikilink")\[1\]、[Nero Digital等](../Page/Nero_Digital.md "wikilink")。

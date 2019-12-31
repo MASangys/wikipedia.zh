@@ -1,4 +1,4 @@
-> 本文内容由[Is"](https://zh.wikipedia.org/wiki/Is")转换而来。
+> 本文内容由[Is --variable=cfmurl=Is](https://zh.wikipedia.org/wiki/)转换而来。
 
 
 **I"s**（、讀音：Eyes）是[日本漫画家](https://zh.wikipedia.org/wiki/日本漫画家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）1997年19號至2000年24號期間進行連載，單行本全15卷。

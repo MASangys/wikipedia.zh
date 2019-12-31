@@ -1,3 +1,6 @@
+> 本文内容由[BALDRHEAD 武裝金融外傳](https://zh.wikipedia.org/wiki/BALDRHEAD_武裝金融外傳)转换而来。
+
+
 《**BALDRHEAD 武裝金融外傳**》是[戲畫TEAM](../Page/戲畫_\(遊戲品牌\).md "wikilink") BALDRHEAD小組製作的[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作類型](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，[BALDR系列的第一作](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")，於1999年7月2日發售。當時[文字冒險遊戲氾濫嚴重](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")，而本作把[2D機械人動作遊戲的系統加入](https://zh.wikipedia.org/wiki/2D "wikilink")，獲得了不錯的評價。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[NASTRAN](https://zh.wikipedia.org/wiki/NASTRAN)转换而来。
+
+
 **NASTRAN**是一款[有限元分析](../Page/有限元分析.md "wikilink")（FEA）软件，最初是1960年代末在美国政府对[航空航天](../Page/航空航天.md "wikilink")工业的资助下为[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（NASA）开发的。[诺世创软件](https://zh.wikipedia.org/wiki/诺世创软件 "wikilink")（MSC Software）公司是公共域NASTRAN代码的主要原始开发商之一，这些代码已被众多公司集成到大量的软件中。
 
 ## 历史

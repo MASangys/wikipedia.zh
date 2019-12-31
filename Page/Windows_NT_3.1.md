@@ -1,3 +1,6 @@
+> 本文内容由[Windows NT 3.1](https://zh.wikipedia.org/wiki/Windows_NT_3.1)转换而来。
+
+
 **Windows NT 3.1**是[微软](../Page/微软.md "wikilink")的[Windows NT产品线的第一代产品](../Page/Windows_NT.md "wikilink")，用于[服务器](../Page/服务器.md "wikilink")和商业桌面[操作系统](../Page/操作系统.md "wikilink")，于1993年7月27日发表。版本号的选择是为了匹配[Windows 3.1](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")，[微软](../Page/微软.md "wikilink")当时最新版的图形用户界面，以表明它们拥有非常类似的用户界面方面的视觉效果。有两个版本的NT 3.1可供选择，**Windows NT Workststion**和**Windows NT Advanced Server**。
 
 它可以运行在Intel [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")，[DEC Alpha和](../Page/DEC_Alpha.md "wikilink")[MIPS R4000的](https://zh.wikipedia.org/wiki/MIPS_architecture "wikilink")[CPU上](https://zh.wikipedia.org/wiki/CPU "wikilink")。

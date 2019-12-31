@@ -1,3 +1,6 @@
+> 本文内容由[Uue](https://zh.wikipedia.org/wiki/Uue)转换而来。
+
+
 {{elementbox |name=Uue |enname=Ununennium |number=119 |symbol=Uue |left=\[\[鿫|-{zh-hans:
 
 **Uue**（英語：**Ununennium**，化學符號為**Uue**）是一種尚未被發現的[化學元素](../Page/化學元素.md "wikilink")，原子序數是119，在元素週期表中排列在[第8周期](https://zh.wikipedia.org/wiki/第8週期元素 "wikilink")、[1族](https://zh.wikipedia.org/wiki/1族元素 "wikilink")。其相對原子質量約為297u。

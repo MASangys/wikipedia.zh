@@ -1,3 +1,6 @@
+> 本文内容由[GOSICK](https://zh.wikipedia.org/wiki/GOSICK)转换而来。
+
+
 《**GOSICK**》是日本[直木賞](../Page/直木賞.md "wikilink")作家[櫻庭一樹](../Page/櫻庭一樹.md "wikilink")的系列[推理小說](../Page/推理小說.md "wikilink")，並改編成電視動畫。
 
 ## 概要

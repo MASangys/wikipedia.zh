@@ -1,3 +1,6 @@
+> 本文内容由[Windows Driver Frameworks](https://zh.wikipedia.org/wiki/Windows_Driver_Frameworks)转换而来。
+
+
 **Windows Driver Frameworks**（Windows驱动程序框架，簡稱**WDF**，前称**Windows Driver Foundation**），是微軟公司所提供的驅動程式開發技術的集合，包括Kernel-Mode Driver Framework（核心模式驅動程式架構，[KMDF](https://zh.wikipedia.org/wiki/KMDF "wikilink")）、User-Mode Driver Framework（使用者模式驅動程式架構，[UMDF](https://zh.wikipedia.org/wiki/UMDF "wikilink")）以及PREfast plug-in for Drivers（[PFD](../Page/PREFast_for_Drivers.md "wikilink")），目的是要改善目前Windows平台的驅動程式品質，可支援[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server 2008和](../Page/Windows_Server_2008.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，以及更新的作業系統上之最新驅動程式架構。WDF架構提供了非同步輸入輸出、分層式驅動程式、隨插即用（PNP）、電源管理（Power Manager），以及視窗管理規範（Windows Management Instrumentation，WMI）等功能。
 
 ## User-Mode Driver Framework

@@ -1,4 +1,4 @@
-> 本文内容由[Gew 43步枪](https://zh.wikipedia.org/wiki/Gew 43步枪)转换而来。
+> 本文内容由[Gew 43步枪](https://zh.wikipedia.org/wiki/Gew_43步枪)转换而来。
 
 
 **Gew 43**（-**G43**）及Kar 43（-**K43**）是[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间[納粹德国國防軍所装备的一种](../Page/納粹德國.md "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")。

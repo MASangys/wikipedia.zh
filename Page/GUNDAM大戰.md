@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM大戰](https://zh.wikipedia.org/wiki/GUNDAM大戰)转换而来。
+
+
 **-{GUNDAM}- WAR**（，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[尖端出版](../Page/尖端出版.md "wikilink")譯為「-{鋼彈}-大戰」，一般口語簡稱為「GW」），是一種集換式卡片，內容是以歷代的[GUNDAM作品為主軸](../Page/GUNDAM系列作品.md "wikilink")。而**-{GUNDAM}- WAR**是Carddas旗下的商品之一。
 
 ## 概要

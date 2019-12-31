@@ -1,3 +1,6 @@
+> 本文内容由[And The Glass Handed Kites](https://zh.wikipedia.org/wiki/And_The_Glass_Handed_Kites)转换而来。
+
+
 **And The Glass Handed Kites**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")於2005年發行的專輯。
 
 ## 曲目

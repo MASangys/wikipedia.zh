@@ -1,3 +1,6 @@
+> 本文内容由[Epita](https://zh.wikipedia.org/wiki/Epita)转换而来。
+
+
 **ÉPITA** 是 *[École pour l'informatique et les techniques avancées](https://www.epita.fr/en)*的缩写，即法国高等信息工程师学校。是一所培养电脑工程师的私立精英学校([Grande école](../Page/大学校_\(法国\).md "wikilink"))，在全法国公立和私立所有计算机信息[高等院校中名列前茅](https://zh.wikipedia.org/wiki/高等院校 "wikilink")。
 
 成立于1984年的EPITA (全称：法国高等信息工程师学校)，为法国第一所信息技术专业[大学校](../Page/大学校_\(法国\).md "wikilink")， 以扎实的工程基础与高精专业技能相结合的教育法，致力于培养最优秀的电脑工程师和信息工程、人工智能的高级研发和管理人员，推动信息通讯技术的未来。 至今(2019)已有超过7500名毕业于EPITA的工程师，在全球40多个国家超过2400个企业工作（27%毕业生在海外工作）。

@@ -1,3 +1,6 @@
+> 本文内容由[CQ突擊步槍](https://zh.wikipedia.org/wiki/CQ突擊步槍)转换而来。
+
+
 **CQ突擊步槍**是由[中國](../Page/中國.md "wikilink")[北方工業仿製](https://zh.wikipedia.org/wiki/北方工業 "wikilink")[M16A1/A2的](../Page/M16突擊步槍.md "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")\[1\]。
 
 ## 設計

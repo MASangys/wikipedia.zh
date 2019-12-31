@@ -1,4 +1,4 @@
-> 本文内容由[Mega Drive](https://zh.wikipedia.org/wiki/Mega Drive)转换而来。
+> 本文内容由[Mega Drive](https://zh.wikipedia.org/wiki/Mega_Drive)转换而来。
 
 
 是[世嘉](../Page/世嘉.md "wikilink")在1988年推出的[16-bit家用遊戲機](https://zh.wikipedia.org/wiki/16-bit "wikilink")，1989年在[美國推出](https://zh.wikipedia.org/wiki/美國 "wikilink")。

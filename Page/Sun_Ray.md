@@ -1,4 +1,4 @@
-> 本文内容由[Sun Ray](https://zh.wikipedia.org/wiki/Sun Ray)转换而来。
+> 本文内容由[Sun Ray](https://zh.wikipedia.org/wiki/Sun_Ray)转换而来。
 
 
 [Sunray.jpg](https://zh.wikipedia.org/wiki/File:Sunray.jpg "fig:Sunray.jpg") **Sun Ray**是[昇陽電腦](../Page/昇陽電腦.md "wikilink")公司（Sun Microsystems）於1999年所發表的[瘦客户端](../Page/瘦客户端.md "wikilink")（Thin Client），是針對企業資訊環境而推出。

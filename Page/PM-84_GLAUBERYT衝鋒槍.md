@@ -1,3 +1,6 @@
+> 本文内容由[PM-84 GLAUBERYT衝鋒槍](https://zh.wikipedia.org/wiki/PM-84_GLAUBERYT衝鋒槍)转换而来。
+
+
 **PM-84 GLAUBERYT**（wz.84 GLAUBERYT）是[波蘭在](https://zh.wikipedia.org/wiki/波蘭 "wikilink")1984年製造的[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")。
 
 ## 簡介

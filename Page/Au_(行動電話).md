@@ -1,4 +1,4 @@
-> 本文内容由[Au \(行動電話\)](https://zh.wikipedia.org/wiki/Au \(行動電話\))转换而来。
+> 本文内容由[Au \(行動電話\)](https://zh.wikipedia.org/wiki/Au_\(行動電話\))转换而来。
 
 
 **au**（），或**au/kddi**（au by KDDI），是一個[日本](../Page/日本.md "wikilink")[流動電話服務](https://zh.wikipedia.org/wiki/流動電話 "wikilink")[品牌](../Page/品牌.md "wikilink")，由[KDDI](../Page/KDDI.md "wikilink")經營，在[沖繩縣](../Page/沖繩縣.md "wikilink")則另由經營。其名稱源自[日文動詞](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（會面）及「」（結合），發音皆為「au」。

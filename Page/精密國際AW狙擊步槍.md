@@ -1,3 +1,6 @@
+> 本文内容由[精密國際AW狙擊步槍](https://zh.wikipedia.org/wiki/精密國際AW狙擊步槍)转换而来。
+
+
 **精密国际AW**（Arctic Warfare—北极作战）是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[精密国际公司所设计和制造的一系列](https://zh.wikipedia.org/wiki/精密国际 "wikilink")[旋转后拉式枪机式](https://zh.wikipedia.org/wiki/旋转后拉式枪机 "wikilink")[狙击步枪构成的枪族](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。自从1980年代问世至今，该枪在警察和军队中均很普及。
 
 ## 历史

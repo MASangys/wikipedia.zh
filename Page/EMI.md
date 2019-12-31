@@ -1,3 +1,6 @@
+> 本文内容由[EMI](https://zh.wikipedia.org/wiki/EMI)转换而来。
+
+
 **EMI集團**（，简称EMI），原名「**電子與音樂工業公司**」（）（香港曾譯作「電氣音樂有限公司」），是一家跨國的的音樂製作及唱片公司，總部位於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。其唱片部門及版權部門已於2012年分別被[環球唱片及](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[索尼/聯合電視音樂出版领导的财团收購](https://zh.wikipedia.org/wiki/索尼/聯合電視音樂出版 "wikilink")。
 
 ## 歷史

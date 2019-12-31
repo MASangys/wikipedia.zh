@@ -1,3 +1,6 @@
+> 本文内容由[PHP加速軟件](https://zh.wikipedia.org/wiki/PHP加速軟件)转换而来。
+
+
 **PHP加速軟件**是一種將[PHP](../Page/PHP.md "wikilink")程式碼編譯之後所產生的bytecode暫存在[共享記憶體內供重複使用](https://zh.wikipedia.org/wiki/共享記憶體 "wikilink")，以提升執行效率的插件軟件。
 
 ## PHP加速軟件列表

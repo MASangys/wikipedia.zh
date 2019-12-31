@@ -1,4 +1,4 @@
-> 本文内容由[JAM Project](https://zh.wikipedia.org/wiki/JAM Project)转换而来。
+> 本文内容由[JAM Project](https://zh.wikipedia.org/wiki/JAM_Project)转换而来。
 
 
 **JAM Project**為日本的動畫歌曲演唱團體，全名為**Japan Animationsong Makers Project**(日本動畫歌曲振興計畫)。早期為[Victor Entertainment所屬](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")，現為[Lantis](../Page/Lantis.md "wikilink")旗下的團體。JAM Project是由於[水木一郎](../Page/水木一郎.md "wikilink")說出「即使邁向21世紀，仍要留下傑出不朽的動畫歌魂」而組成的團體。組成的背景則為水木覺得「現在的動畫、電玩的主題曲，由有話題性的藝人所擔任是會令人起疑竇的」(歌曲沒有靈魂、不純正)。

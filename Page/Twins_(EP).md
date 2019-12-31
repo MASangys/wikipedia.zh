@@ -1,3 +1,6 @@
+> 本文内容由[Twins \(EP\)](https://zh.wikipedia.org/wiki/Twins_\(EP\))转换而来。
+
+
 《**Twins**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Twins的首張音樂專輯](https://zh.wikipedia.org/wiki/Twins "wikilink")，於2001年8月15日在[香港](../Page/香港.md "wikilink")發行，憑《明愛暗戀補習社》及《女校男生》兩曲廣受[香港](../Page/香港.md "wikilink")歡迎。
 
 ## 曲目列表

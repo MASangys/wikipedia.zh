@@ -1,3 +1,6 @@
+> 本文内容由[Alcohol 120%](https://zh.wikipedia.org/wiki/Alcohol_120%)转换而来。
+
+
 **Alcohol 120%**是[Alcohol Soft的軟件產品之一](https://zh.wikipedia.org/wiki/Alcohol_Soft "wikilink")，集合光碟[燒錄及模擬](https://zh.wikipedia.org/wiki/燒錄 "wikilink")[映像檔功能](https://zh.wikipedia.org/wiki/映像檔 "wikilink")，可燒錄[CD](../Page/CD.md "wikilink")/[DVD及虛擬多台光碟機](https://zh.wikipedia.org/wiki/DVD "wikilink")，支援ISO等多種光碟映像格式。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Google拼音输入法](https://zh.wikipedia.org/wiki/Google拼音输入法)转换而来。
+
+
 **谷歌拼音輸入法**是由[谷歌中國實驗室開發](https://zh.wikipedia.org/wiki/谷歌中國 "wikilink")，於2007年4月2日發佈\[1\]的[汉语拼音输入法](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")。10月25日成为Google的正式产品之一\[2\]。
 
 ## PC版本

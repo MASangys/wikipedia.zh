@@ -1,3 +1,6 @@
+> 本文内容由[J Plus精品酒店](https://zh.wikipedia.org/wiki/J_Plus精品酒店)转换而来。
+
+
 [J_Plus_Boutique_Hotel_(blue_sky).jpg](https://zh.wikipedia.org/wiki/File:J_Plus_Boutique_Hotel_\(blue_sky\).jpg "fig:J_Plus_Boutique_Hotel_(blue_sky).jpg") [J_Plus_Boutique_Hotel_after_demolished_in_February_2019.jpg](https://zh.wikipedia.org/wiki/File:J_Plus_Boutique_Hotel_after_demolished_in_February_2019.jpg "fig:J_Plus_Boutique_Hotel_after_demolished_in_February_2019.jpg") [Jia_hotel_logo.gif](https://zh.wikipedia.org/wiki/File:Jia_hotel_logo.gif "fig:Jia_hotel_logo.gif") **J Plus精品酒店**（英語：J Plus Boutique Hotel），前稱Jia香港酒店，為[香港](../Page/香港.md "wikilink")已結業拆卸的一間四星級酒店，位處於[香港島](../Page/香港島.md "wikilink")[銅鑼灣](../Page/銅鑼灣.md "wikilink")伊榮街1-5號伊榮閣，鄰近[港鐵](../Page/港鐵.md "wikilink")[銅鑼灣站](../Page/銅鑼灣站.md "wikilink")，樓高25層，酒店於2003年12月開幕，共提供54間豪華客房。2017年1月，[資本策略以](https://zh.wikipedia.org/wiki/資本策略 "wikilink")17億港元向[鎮科集團沽出J](https://zh.wikipedia.org/wiki/鎮科集團 "wikilink") Plus全幢酒店作重建商廈之用\[1\]，2018年酒店完成拆卸。
 
 ## 命名

@@ -1,3 +1,6 @@
+> 本文内容由[X射线天文学](https://zh.wikipedia.org/wiki/X射线天文学)转换而来。
+
+
 **X射线天文学**是以天体的[X射线](../Page/X射线.md "wikilink")辐射为主要研究手段的[天文学分支](https://zh.wikipedia.org/wiki/天文学 "wikilink")。X射线天文学中常以[电子伏特](https://zh.wikipedia.org/wiki/电子伏特 "wikilink")（）表示[光子](../Page/光子.md "wikilink")的能量，观测对象为0.1keV到100keV的X射线。其中又将0.1keV-10keV的X射线称为软X射线，10keV-100keV称为硬X射线。由于X射线属于电磁波谱的高能端，因此X射线天文学与[伽玛射线天文学同称为](https://zh.wikipedia.org/wiki/伽玛射线天文学 "wikilink")[高能天体物理学](https://zh.wikipedia.org/wiki/高能天体物理学 "wikilink")。
 
 宇宙中辐射X射线的天体包括[X射线双星](https://zh.wikipedia.org/wiki/X射线双星 "wikilink")、[脉冲星](../Page/脉冲星.md "wikilink")、[伽玛射线暴](../Page/伽玛射线暴.md "wikilink")、[超新星遗迹](../Page/超新星遗迹.md "wikilink")、[活动星系核](https://zh.wikipedia.org/wiki/活动星系核 "wikilink")、[太阳活动区](https://zh.wikipedia.org/wiki/太阳活动区 "wikilink")，以及[星系团周围的高温气体等等](https://zh.wikipedia.org/wiki/星系团 "wikilink")。由于地球[大气层](../Page/大气层.md "wikilink")对于X射线是不透明的，只能在高空或者大气层以外观测天体的X射线辐射，因此[空间天文卫星是X射线天文学的主要工具](https://zh.wikipedia.org/wiki/空间天文卫星 "wikilink")。

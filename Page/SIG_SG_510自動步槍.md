@@ -1,3 +1,6 @@
+> 本文内容由[SIG SG 510自動步槍](https://zh.wikipedia.org/wiki/SIG_SG_510自動步槍)转换而来。
+
+
 **SIG SG 510**/**Sturmgewehr 57**是由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[SIG](https://zh.wikipedia.org/wiki/SIG "wikilink")（現稱[Swiss Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）制造的[自動步槍](https://zh.wikipedia.org/wiki/自動步槍 "wikilink")，採用與[HK G3及](../Page/HK_G3自動步槍.md "wikilink")[CETME相同的](https://zh.wikipedia.org/wiki/CETME "wikilink")[滾輪延遲反沖式系統](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")。SIG SG 510能發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")，而且準確度高，在惡劣環境下仍可運作良好。
 
 SIG SG 510曾是瑞士軍隊制式裝備，名為**F ass 57**（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：Fusil d Assaut 57）或**Stgw 57**（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：Sturm Gewehr 57）。

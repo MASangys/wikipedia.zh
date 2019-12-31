@@ -1,3 +1,6 @@
+> 本文内容由[光岡CONVOY 88](https://zh.wikipedia.org/wiki/光岡CONVOY_88)转换而来。
+
+
 **CONVOY 88**（****）為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的原創作品電動車輛。
 
 ## 車輛歷史

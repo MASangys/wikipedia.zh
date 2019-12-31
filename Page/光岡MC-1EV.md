@@ -1,3 +1,6 @@
+> 本文内容由[光岡MC-1EV](https://zh.wikipedia.org/wiki/光岡MC-1EV)转换而来。
+
+
 **MC-1EV**為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的原創作品電動車輛。
 
 ## 車輛歷史

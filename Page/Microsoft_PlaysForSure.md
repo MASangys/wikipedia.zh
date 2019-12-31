@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft PlaysForSure](https://zh.wikipedia.org/wiki/Microsoft_PlaysForSure)转换而来。
+
+
 [Playsforsure.gif](https://zh.wikipedia.org/wiki/File:Playsforsure.gif "fig:Playsforsure.gif")
 
 **Microsoft PlaysForSure**是一種認證標誌，由[微軟發給能與](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft Windows相容](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，並支援微軟[數位著作權管理](https://zh.wikipedia.org/wiki/數位著作權管理 "wikilink")（DRM）的[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")。用意為提示消費者該[数字音频播放器或](https://zh.wikipedia.org/wiki/數字音頻播放器 "wikilink")[視訊播放器能播放的音频和視频格式類型](https://zh.wikipedia.org/wiki/視訊播放器 "wikilink")。PlaysForSure標誌使用在數位音樂播放器與便携视频播放器的包裝上，以及與PlaysForSure相容的[線上音樂商店](https://zh.wikipedia.org/wiki/線上音樂商店 "wikilink")。

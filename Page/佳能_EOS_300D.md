@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 300D](https://zh.wikipedia.org/wiki/佳能_EOS_300D)转换而来。
+
+
 **佳能 EOS 300D**, 又称为（[北美市场](https://zh.wikipedia.org/wiki/北美 "wikilink")）和（[日本](../Page/日本.md "wikilink")市场），是[佳能](../Page/佳能.md "wikilink")推出的一款630萬[像素](../Page/像素.md "wikilink")级别的[數位单镜反光相机](https://zh.wikipedia.org/wiki/數位单镜反光相机 "wikilink")，在2003年8月20日正式发布，发布价格单机899[美元](../Page/美元.md "wikilink")，和镜头套装999美元，使用[CF卡作为存储介质存储](https://zh.wikipedia.org/wiki/CF卡 "wikilink")。
 
 ## 影響

@@ -1,3 +1,6 @@
+> 本文内容由[MegaBox](https://zh.wikipedia.org/wiki/MegaBox)转换而来。
+
+
 **MegaBox**是[香港](../Page/香港.md "wikilink")的一座大型[購物商場](../Page/商場.md "wikilink")，位於[九龍灣](../Page/九龍灣.md "wikilink")宏照道38號[企業廣場五期](../Page/企業廣場五期.md "wikilink")，樓高20層，面積達110萬平方呎，設計、[中國建築國際](../Page/中國建築國際.md "wikilink")承建，於2007年6月1日正式開幕，是[觀塘區](../Page/觀塘區.md "wikilink")最大型購物商場。當中的大型商戶主要為[宜家家居](../Page/宜家家居.md "wikilink")及[AEON百貨](../Page/永旺百貨.md "wikilink")。商場租戶組合中，以家居用品、餐飲、娛樂及百貨為主。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[X Window系統的協議和架構](https://zh.wikipedia.org/wiki/X_Window系統的協議和架構)转换而来。
+
+
 [X11.svg](https://zh.wikipedia.org/wiki/File:X11.svg "fig:X11.svg") 在[電腦中](https://zh.wikipedia.org/wiki/電腦 "wikilink")，**[X Window系統](../Page/X_Window系統.md "wikilink")**（常稱作 **X11**、**X**）是一種以[點陣圖顯示的](https://zh.wikipedia.org/wiki/光柵圖形 "wikilink")[網絡透明化](https://zh.wikipedia.org/wiki/電腦網絡 "wikilink")[視窗系統](../Page/視窗系統.md "wikilink")。本條目詳述 X11 的協議及其技術架構。
 
 ## X 主從式模型和網絡透明性

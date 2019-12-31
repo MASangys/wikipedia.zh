@@ -1,3 +1,6 @@
+> 本文内容由[Vi](https://zh.wikipedia.org/wiki/Vi)转换而来。
+
+
 {{ Infobox Software | name = *vi* | logo = | screenshot = [Vi-splash.png](https://zh.wikipedia.org/wiki/File:Vi-splash.png "fig:Vi-splash.png") | caption = 執行圖 | developer = [比尔·乔伊](../Page/比尔·乔伊.md "wikilink") | latest_release_version = | latest_release_date = | latest_preview_version = | latest_preview_date = | operating_system = [类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink") | programming_language = [C](https://zh.wikipedia.org/wiki/C语言 "wikilink") | genre = [文本编辑器](../Page/文本编辑器.md "wikilink") | license = [BSD许可证](../Page/BSD许可证.md "wikilink") | website = }} **vi**是一种[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")，由美國計算機科學家[比爾·喬伊](https://zh.wikipedia.org/wiki/比爾·喬伊 "wikilink")（Bill Joy）完成编写，并於1976年以[BSD](../Page/BSD.md "wikilink")协议授權发布。
 
 ## 关于vi

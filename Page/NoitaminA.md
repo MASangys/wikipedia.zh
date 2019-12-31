@@ -1,3 +1,6 @@
+> 本文内容由[NoitaminA](https://zh.wikipedia.org/wiki/NoitaminA)转换而来。
+
+
 [Noitamina.jpg](https://zh.wikipedia.org/wiki/File:Noitamina.jpg "fig:Noitamina.jpg")
 
 **noitaminA**是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")聯播網（[FNS系列](https://zh.wikipedia.org/wiki/FNS "wikilink")）專門播放[日本動畫的一個節目區塊](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。本節目名稱是根據「Animation」（即英語的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")）的倒寫而成，意思為「顛倒動畫的常識」。开播时间为2005年4月，每周播映一部；在2010年4月开始，每周播映两部。雖然其他FNS系電視台會播放此節目，但標題只有在富士電視台播放時才會出現。

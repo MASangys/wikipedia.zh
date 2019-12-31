@@ -1,4 +1,4 @@
-> 本文内容由[Lotus 1-2-3](https://zh.wikipedia.org/wiki/Lotus 1-2-3)转换而来。
+> 本文内容由[Lotus 1-2-3](https://zh.wikipedia.org/wiki/Lotus_1-2-3)转换而来。
 
 
 **Lotus 1-2-3**，是[Lotus Software](https://zh.wikipedia.org/wiki/Lotus_Software "wikilink")（美國蓮花軟體公司）於1983年起所推出的[電子試算表](https://zh.wikipedia.org/wiki/電子試算表 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，在[DOS](../Page/DOS.md "wikilink")時期廣為[個人電腦使用者所使用](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，是一套殺手級應用軟體。但在[Windows興起後](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[微軟強力](https://zh.wikipedia.org/wiki/微軟 "wikilink")-{zh-hans:营销;zh-hant:營銷;zh-tw:行銷;}-其[Microsoft Office軟體](../Page/Microsoft_Office.md "wikilink")，因此Lotus 1-2-3就逐漸式微。

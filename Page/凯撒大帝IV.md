@@ -1,3 +1,6 @@
+> 本文内容由[凯撒大帝IV](https://zh.wikipedia.org/wiki/凯撒大帝IV)转换而来。
+
+
 **《凯撒大帝 IV》**是由[Tilted Mill Entertainment公司开发的](https://zh.wikipedia.org/wiki/Tilted_Mill_Entertainment "wikilink")[城市建造游戏](https://zh.wikipedia.org/wiki/城市建造游戏 "wikilink")，其背景时代设置在[古罗马](../Page/古罗马.md "wikilink")时期。游戏在2005年8月宣布开发，并于2006年9月26日发布(美国)。游戏采用[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[引擎](../Page/游戏引擎.md "wikilink")。
 
 和该系列的原作相同，该作让玩家模拟在古罗马时期建设城市。像他的姐妹篇《[不朽之都：尼罗河的儿女](../Page/不朽之都：尼罗河的儿女.md "wikilink")》(2004)一样，该作更倾向与游戏的建设，也在建设下设计了更多的人机互交。

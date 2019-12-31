@@ -1,4 +1,4 @@
-> 本文内容由[Times New Roman](https://zh.wikipedia.org/wiki/Times New Roman)转换而来。
+> 本文内容由[Times New Roman](https://zh.wikipedia.org/wiki/Times_New_Roman)转换而来。
 
 
 [GeorgiatTmes.svg](https://zh.wikipedia.org/wiki/File:GeorgiatTmes.svg "fig:GeorgiatTmes.svg")的字體大小和間距比較\]\]

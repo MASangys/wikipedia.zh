@@ -1,4 +1,4 @@
-> 本文内容由[被子植物APG II分类法 \(修订版\)](https://zh.wikipedia.org/wiki/被子植物APG II分类法 \(修订版\))转换而来。
+> 本文内容由[被子植物APG II分类法 \(修订版\)](https://zh.wikipedia.org/wiki/被子植物APG_II分类法_\(修订版\))转换而来。
 
 
 [FlowerPlantsSystemTreeZH.PNG](https://zh.wikipedia.org/wiki/File:FlowerPlantsSystemTreeZH.PNG "fig:FlowerPlantsSystemTreeZH.PNG") **《被子植物APG II分类法（修订版）》**是由[被子植物种系发生学组](../Page/被子植物种系发生学组.md "wikilink")（APG）于2003年發表的，基于1998年所發表的《[被子植物APG分类法](../Page/被子植物APG分类法.md "wikilink")》之修訂版，在吸收了全世界大部分植物分类学家的意见，2009年發表《[被子植物APG III分类法](../Page/被子植物APG_III分类法.md "wikilink")》。目前已经在现代的参考文献中占很重要的地位。

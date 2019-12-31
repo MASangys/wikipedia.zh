@@ -1,3 +1,6 @@
+> 本文内容由[DJ2型电力机车](https://zh.wikipedia.org/wiki/DJ2型电力机车)转换而来。
+
+
 **DJ2型“奥星”電力機車**是[中国铁路的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由[株洲电力机车厂联合](https://zh.wikipedia.org/wiki/株洲电力机车厂 "wikilink")[株洲电力机车研究所等单位于](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")2001年研制成功，由於在機車出廠時適逢中國成功申辦[2008年夏季奧運](../Page/2008年夏季奥林匹克运动会.md "wikilink")，因此被命名為「奧星」。DJ2型电力机车是在[DJ型机车基础上改进而成的交流传动高速客运电力机车](../Page/DJ型电力机车.md "wikilink")，持续功率为4,800千瓦，最高运用速度为200公里/小时，采用中国自主研制的[GTO水冷牵引变流器](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")、交流传动控制系统、牵引电动机和微机控制系统，因此也被称为中国第一种拥有自主[知识产权](../Page/知识产权.md "wikilink")的交传电力机车\[1\]。
 
 ## 发展历史

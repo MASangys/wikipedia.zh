@@ -1,3 +1,6 @@
+> 本文内容由[保罗·S·L·约翰逊](https://zh.wikipedia.org/wiki/保罗·S·L·约翰逊)转换而来。
+
+
 [Paul_Samuel_Johnson.jpg](https://zh.wikipedia.org/wiki/File:Paul_Samuel_Johnson.jpg "fig:Paul_Samuel_Johnson.jpg")  **保罗·塞缪尔·利奥·约翰逊**（Paul Samuel Leo（曾用 Levitsky ）Johnson，）是一位美国学者和牧师，他创立了[Layman's Home Missionary Movement](https://zh.wikipedia.org/wiki/Layman's_Home_Missionary_Movement "wikilink")。
 
 约翰逊1873年10月出生于宾夕法尼亚州的Titusville，父母是从波兰逃亡到美国不久的犹太人。他的父亲是一个卓越的希伯来语学者，最后成为当地犹太教堂的会长。在他12岁时，母亲去世，父亲再婚，这两件事对他打击很大，曾经多次离家出走。

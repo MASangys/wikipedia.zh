@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(E\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(E\))转换而来。
+> 本文内容由[中国图书馆分类法 \(E\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(E\))转换而来。
 
 
 ## 军事

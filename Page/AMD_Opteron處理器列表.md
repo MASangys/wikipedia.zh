@@ -1,3 +1,6 @@
+> 本文内容由[AMD Opteron處理器列表](https://zh.wikipedia.org/wiki/AMD_Opteron處理器列表)转换而来。
+
+
 **[Opteron](../Page/Opteron.md "wikilink")**是[AMD首款支援](https://zh.wikipedia.org/wiki/AMD "wikilink")[AMD64架構的微處理器](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，主打[伺服器市場](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。
 
 ## 基於 K8 微架構

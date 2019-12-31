@@ -1,3 +1,6 @@
+> 本文内容由[X染色體](https://zh.wikipedia.org/wiki/X染色體)转换而来。
+
+
 **X染色體**是部分[動物決定性別的](https://zh.wikipedia.org/wiki/動物 "wikilink")[染色體之一](https://zh.wikipedia.org/wiki/染色體 "wikilink")。它出現在X0和XY[性別決定系統](../Page/性別決定系統.md "wikilink")中。對一般[人類](../Page/人類.md "wikilink")來說，[女性](../Page/女性.md "wikilink")有兩條X染色體，[男性](../Page/男性.md "wikilink")X、[Y染色體](../Page/Y染色體.md "wikilink")各有一條。
 
 ## 人類

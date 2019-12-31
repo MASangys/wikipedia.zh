@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·M·布坎南](https://zh.wikipedia.org/wiki/詹姆斯·M·布坎南)转换而来。
+
+
 **小詹姆斯·麥吉爾·布坎南**（，\[1\]），[經濟學家](https://zh.wikipedia.org/wiki/經濟學家 "wikilink")，以研究[公共選擇理論](../Page/公共選擇理論.md "wikilink")而聞名，他也因此獲得1986年的[諾貝爾經濟學獎](https://zh.wikipedia.org/wiki/諾貝爾經濟學獎 "wikilink")。\[2\]
 
 ## 人物生平

@@ -1,3 +1,6 @@
+> 本文内容由[Xajax](https://zh.wikipedia.org/wiki/Xajax)转换而来。
+
+
 **xajax**是一套利用[PHP](../Page/PHP.md "wikilink")的[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[AJAX](../Page/AJAX.md "wikilink")框架。目前最新穩定版本為0.5，同時亦推出0.6 Beta 1版。
 
 ## 系統需求

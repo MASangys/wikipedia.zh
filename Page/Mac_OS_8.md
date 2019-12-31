@@ -1,4 +1,4 @@
-> 本文内容由[Mac OS 8](https://zh.wikipedia.org/wiki/Mac OS 8)转换而来。
+> 本文内容由[Mac OS 8](https://zh.wikipedia.org/wiki/Mac_OS_8)转换而来。
 
 
 **Mac OS 8**，是[蘋果電腦公司開發的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Mac OS的一個版本](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，於1997年7月26日發佈。

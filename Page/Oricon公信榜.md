@@ -1,3 +1,6 @@
+> 本文内容由[Oricon公信榜](https://zh.wikipedia.org/wiki/Oricon公信榜)转换而来。
+
+
 **Oricon公信榜**（，）為[日本](../Page/日本.md "wikilink")[Oricon](../Page/Oricon.md "wikilink")公司所統計並發表的[音樂等](https://zh.wikipedia.org/wiki/音樂 "wikilink")[出版品的](https://zh.wikipedia.org/wiki/出版品 "wikilink")，以日本國內為調查範圍。目前調查對象從最初的[唱片擴及音樂](https://zh.wikipedia.org/wiki/唱片 "wikilink")、[影視](https://zh.wikipedia.org/wiki/影視 "wikilink")、[書籍等](https://zh.wikipedia.org/wiki/書籍 "wikilink")3大領域，其中又以每週發布的[單曲及](https://zh.wikipedia.org/wiki/單曲 "wikilink")[專輯銷售排行榜最具指標意義](../Page/音樂專輯.md "wikilink")。
 
 ## 概要

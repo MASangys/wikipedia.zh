@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(J\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(J\))转换而来。
+> 本文内容由[中国图书馆分类法 \(J\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(J\))转换而来。
 
 
 ## 艺术

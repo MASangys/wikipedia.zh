@@ -1,4 +1,4 @@
-> 本文内容由[攻殼機動隊2 INNOCENCE](https://zh.wikipedia.org/wiki/攻殼機動隊2 INNOCENCE)转换而来。
+> 本文内容由[攻殼機動隊2 INNOCENCE](https://zh.wikipedia.org/wiki/攻殼機動隊2_INNOCENCE)转换而来。
 
 
 **攻殼機動隊2 INNOCENCE**（）（港譯《**攻殻機動隊2之無邪**》，大陸通譯《**攻殻機動隊2：無罪**》，另有譯名《**攻殻機動隊2：無垢**》）是[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")系列的其中一部動畫電影。劇情大致延續第一部電影。2004年推出，耗資20億[日圓](../Page/日圓.md "wikilink")。由[押井守](../Page/押井守.md "wikilink")導演。本片由[Production I.G.主持](https://zh.wikipedia.org/wiki/Production_I.G. "wikilink")，與多家公司合作。並且為了籌資20億，Production I.G.還與[吉卜力工作室的鈴木敏夫合作](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")。獲選為2004年第八回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。本片入圍[第57屆坎城影展正式競賽單元](../Page/第57届戛纳电影节.md "wikilink")，與[史瑞克2](../Page/史瑞克2.md "wikilink")並列為史上第一次入圍坎城影展正式競賽單元之動畫長片。

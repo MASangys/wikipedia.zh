@@ -1,3 +1,6 @@
+> 本文内容由[R·A·萨尔瓦多](https://zh.wikipedia.org/wiki/R·A·萨尔瓦多)转换而来。
+
+
 **R·A·萨尔瓦多**（**R. A. Salvatore**，全名**Robert Anthony Salvatore**，）是美国的一个[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")，以撰写[奇幻小说著名](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。其笔下最受欢迎的角色是《[黑暗精灵三部曲](../Page/黑暗精灵三部曲.md "wikilink")》中的主人公[黑暗精灵](../Page/黑暗精灵.md "wikilink")[崔斯特](https://zh.wikipedia.org/wiki/崔斯特 "wikilink")。
 
 在大学期间，他在[约翰·罗纳德·瑞尔·托尔金小说](https://zh.wikipedia.org/wiki/约翰·罗纳德·瑞尔·托尔金 "wikilink")《[魔戒](../Page/魔戒.md "wikilink")》的影响下把专业从[信息科学转为](https://zh.wikipedia.org/wiki/信息科学 "wikilink")[新闻](../Page/新闻.md "wikilink")。1981年在[费区堡州立学院获得](https://zh.wikipedia.org/wiki/费区堡州立学院 "wikilink")[传播学](../Page/传播学.md "wikilink")学士学位，随后又获得[英文学士学位](https://zh.wikipedia.org/wiki/英文 "wikilink")。1982年开始写作，后来出版的《[第四魔法之回音](https://zh.wikipedia.org/wiki/第四魔法之回音 "wikilink")》（*Echoes of the Fourth Magic*）就是從這時开始撰写的。

@@ -1,3 +1,6 @@
+> 本文内容由[Un-balanced](https://zh.wikipedia.org/wiki/Un-balanced)转换而来。
+
+
 **un-balanced**是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第一張原創專輯，于1995年7月7日在日本發行。
 
 ## 解説

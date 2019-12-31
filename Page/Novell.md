@@ -1,3 +1,6 @@
+> 本文内容由[Novell](https://zh.wikipedia.org/wiki/Novell)转换而来。
+
+
 **網威**（）是一家專門從事網絡作業系統如[Novell NetWare與](../Page/Novell_NetWare.md "wikilink")[Linux](../Page/Linux.md "wikilink")、安全身份管理工具及應用整合與合作方案的[美國高科技企業](https://zh.wikipedia.org/wiki/美國 "wikilink")。Novell與[WordPerfect](../Page/WordPerfect.md "wikilink")幫助猶他山谷成為專注於高科技軟體開發的區域。現今該地區很多小公司的員工都曾為Novell工作。。
 
 ## 歷史

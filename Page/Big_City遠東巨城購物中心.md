@@ -1,3 +1,6 @@
+> 本文内容由[Big City遠東巨城購物中心](https://zh.wikipedia.org/wiki/Big_City遠東巨城購物中心)转换而来。
+
+
 **Big City遠東巨城購物中心**，是一座位於臺灣[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區的大型](../Page/東區_\(新竹市\).md "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，2012年4月28日開業，其前身為**風城購物中心**。佔地11,920坪，建築總樓板面積為102,376坪，商場樓地板面積為71,500坪，為北台灣最大購物中心\[1\]。自2015年起，創下營運三年半即達成百億業績的紀錄，擠進台灣前8大營業額百貨、購物中心。2017年上半年[Facebook](../Page/Facebook.md "wikilink")打卡數位居全臺第二，250萬次僅次於[桃園國際機場](https://zh.wikipedia.org/wiki/桃園國際機場 "wikilink")\[2\]\[3\]。
 
 ## 歷史

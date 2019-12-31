@@ -1,3 +1,6 @@
+> 本文内容由[C-SPAN](https://zh.wikipedia.org/wiki/C-SPAN)转换而来。
+
+
 展现历史每一天
 
  | type = [新闻频道](https://zh.wikipedia.org/wiki/美国电视新闻 "wikilink") | broadcast area =  美国全境 | headquarters = [华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[国会山](../Page/国会山.md "wikilink") | sister names =  | website =  | terr serv 1 = [WCSP-FM](https://zh.wikipedia.org/wiki/WCSP-FM "wikilink")

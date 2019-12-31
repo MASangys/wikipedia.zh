@@ -1,3 +1,6 @@
+> 本文内容由[SC](https://zh.wikipedia.org/wiki/SC)转换而来。
+
+
 **SC**是一对[拉丁字母](../Page/拉丁字母.md "wikilink")，一般用于缩写。
 
 **SC**、**sc**或**Sc**可能指：

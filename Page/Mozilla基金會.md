@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla基金會](https://zh.wikipedia.org/wiki/Mozilla基金會)转换而来。
+
+
 **Mozilla基金会**（）是为支持和领导[開放原始碼專案而设立的一个](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")。该组织制定管理开发政策，经营关键基础组织和管理[商标](../Page/商标.md "wikilink")及[智慧財產權](https://zh.wikipedia.org/wiki/智慧財產權 "wikilink")。它擁有一個子公司：[Mozilla公司](../Page/Mozilla公司.md "wikilink")，用來僱用開發人員開發[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")和[Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")[电子邮件客户端軟體的發行版](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")。Mozilla基金會總部位于[美国](../Page/美国.md "wikilink")[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[山景城](https://zh.wikipedia.org/wiki/芒廷维尤_\(加利福尼亚州\) "wikilink")。
 
 Mozilla基金会把自己描述为“一个致力于在網際網路领域提供多样化选择和创新的公益组织”\[1\]。在Mozilla基金会所遵循的Mozilla宣言當中，其中列出了十條原則，涵蓋認為對全民及商業活動有益的網際網路發展重要方針\[2\]。

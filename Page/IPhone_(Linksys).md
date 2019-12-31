@@ -1,3 +1,6 @@
+> 本文内容由[IPhone \(Linksys\)](https://zh.wikipedia.org/wiki/IPhone_\(Linksys\))转换而来。
+
+
 **iPhone**是最初由[Infogear開發的](https://zh.wikipedia.org/wiki/Infogear "wikilink")[資訊家電](https://zh.wikipedia.org/wiki/資訊家電 "wikilink")，現由[Linksys](../Page/Linksys.md "wikilink")開發。
 
 ## 歷史

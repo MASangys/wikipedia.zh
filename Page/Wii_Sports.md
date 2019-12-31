@@ -1,3 +1,6 @@
+> 本文内容由[Wii Sports](https://zh.wikipedia.org/wiki/Wii_Sports)转换而来。
+
+
 是一款適用於[Wii](../Page/Wii.md "wikilink")[遊樂器的](../Page/電子遊戲機.md "wikilink")[電子遊戲](../Page/电子游戏.md "wikilink")，由[日本](../Page/日本.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")公司製作，\[1\]在欧美地区属於[Wii系列和](https://zh.wikipedia.org/wiki/Wii系列 "wikilink")[Touch\! Generations系列中的一作](../Page/Touch!_Generations.md "wikilink")。游戏於2006年11月19日在[北美地区随Wii游戏机先行发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，并在随後一个月内於日本、澳大利亚和欧洲发行。2008年，游戏先後在南韩和台湾发行，也成为Wii上为数不多的中文游戏之一。\[2\]除日本和韩国外，所有的Wii游戏机均同捆本作销售，\[3\]使得本作成为自1995年[Virtual Boy平台的](../Page/Virtual_Boy.md "wikilink")《[马里奥网球](../Page/马里奥网球.md "wikilink")》以来，再度綑綁任天堂游戏机販售的首发游戏。
 
 游戏包含了五種[運動模擬遊戲](https://zh.wikipedia.org/wiki/體育類遊戲 "wikilink")，主要是為了向新玩家展示Wii遊樂器的動作感應功能，運動項目包含網球、棒球、保齡球、高爾夫球和拳擊。玩家能使用[Wii手柄做出與真實生活中的運動類似之動作](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，例如揮動網球拍、丟擲保齡球等。\[4\]每種運動遊戲的規則都經過簡化，讓剛接觸的玩者容易上手。\[5\]游戏还拥有练习模式和监测玩家运动进展的体力测定模式。\[6\]

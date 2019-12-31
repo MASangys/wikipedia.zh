@@ -1,3 +1,6 @@
+> 本文内容由[SharePoint](https://zh.wikipedia.org/wiki/SharePoint)转换而来。
+
+
 是[微软](../Page/微软.md "wikilink")制作的一款用于[Windows Server 2003的免费附加](../Page/Windows_Server_2003.md "wikilink")（增值）软件，它提供基本的[门户网站](../Page/门户网站.md "wikilink")和[企业内网功能](https://zh.wikipedia.org/wiki/企业内网 "wikilink")。它包括由[web部件](https://zh.wikipedia.org/wiki/web部件 "wikilink")（由[ASP.NET](../Page/ASP.NET.md "wikilink")开发）组成的叫作[web 部件页面的门户页面](https://zh.wikipedia.org/wiki/web_部件页面 "wikilink")、团队站点、文档库以及项目子站点，带有[版本控制](../Page/版本控制.md "wikilink")的文档存储空间、以及基本的搜索功能。它的前端是一个运行于[Internet Information Services](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink") 6.0之上的[ASP.NET](../Page/ASP.NET.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，后端由[SQL Server或者](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[MSDE来存储数据](https://zh.wikipedia.org/wiki/MSDE "wikilink")。
 
 Windows SharePoint Services同时也是[Microsoft Office SharePoint Portal Server和](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Portal_Server "wikilink")[Microsoft Office Project Server的基础](https://zh.wikipedia.org/wiki/Microsoft_Office_Project_Server "wikilink")。Office SharePoint Portal Server是Windows SharePoint Services的企业版，并不像WSS一样是免费的。

@@ -1,3 +1,6 @@
+> 本文内容由[Krusty](https://zh.wikipedia.org/wiki/Krusty)转换而来。
+
+
 **Krusty**是由兩人所組成的[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，由[張詠恩](https://zh.wikipedia.org/wiki/張詠恩 "wikilink")（Jan，1982年7月18日出生，是[張致恆](../Page/張致恆.md "wikilink")（[Boy'z](../Page/Boy'z.md "wikilink")成員之一）的姊姊）與[活己嵐](https://zh.wikipedia.org/wiki/活己嵐 "wikilink")（Chucky，1986年2月5日出生）於2005年組成，所屬唱片公司為[Silly Thing](https://zh.wikipedia.org/wiki/Silly_Thing "wikilink")。張詠恩於2011年5月14日，與[唐劍康](../Page/唐劍康.md "wikilink")（Donald，商台DJ，[I Love You Boyz](../Page/I_Love_You_Boyz.md "wikilink") 成員之一）結婚。
 
 ## 名稱由來

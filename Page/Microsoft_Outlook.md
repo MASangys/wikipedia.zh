@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Outlook](https://zh.wikipedia.org/wiki/Microsoft Outlook)转换而来。
+> 本文内容由[Microsoft Outlook](https://zh.wikipedia.org/wiki/Microsoft_Outlook)转换而来。
 
 
 **Microsoft Outlook**是由[微軟公司所出品](../Page/微软.md "wikilink")[Microsoft Office內的](../Page/Microsoft_Office.md "wikilink")[个人信息管理系统](../Page/个人信息管理系统.md "wikilink")[软件](../Page/软件.md "wikilink")，功能包括收發[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[行事曆等等](https://zh.wikipedia.org/wiki/行事曆 "wikilink")。它也是與[Microsoft Exchange Server互相搭配的](../Page/Microsoft_Exchange_Server.md "wikilink")[群組軟體](https://zh.wikipedia.org/wiki/群組軟體 "wikilink")。現時最新的版本是Microsoft Outlook 2019 for Windows和2019 for Mac。

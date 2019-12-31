@@ -1,3 +1,6 @@
+> 本文内容由[Calibri](https://zh.wikipedia.org/wiki/Calibri)转换而来。
+
+
 [Calibri_example.svg](https://zh.wikipedia.org/wiki/File:Calibri_example.svg "fig:Calibri_example.svg")
 
 **Calibri**，一種[無襯線字體](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")，為[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft Office 2007和](../Page/Microsoft_Office_2007.md "wikilink")[Microsoft Office 2008 for Mac套裝軟體的預設字體](../Page/Microsoft_Office_2008_for_Mac.md "wikilink")，取代先前[Microsoft Word的預設字體](../Page/Microsoft_Word.md "wikilink")[Times New Roman以及](../Page/Times_New_Roman.md "wikilink")[PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")、[Excel和](../Page/Microsoft_Excel.md "wikilink")[Outlook的預設字體](../Page/Microsoft_Outlook.md "wikilink")[Arial](../Page/Arial.md "wikilink")。

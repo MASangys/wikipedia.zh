@@ -1,3 +1,6 @@
+> 本文内容由[北京apm](https://zh.wikipedia.org/wiki/北京apm)转换而来。
+
+
 [Beijing_apm,_Wangfujing,_2008-07-14.jpg](https://zh.wikipedia.org/wiki/File:Beijing_apm,_Wangfujing,_2008-07-14.jpg "fig:Beijing_apm,_Wangfujing,_2008-07-14.jpg")
 
 **北京apm**，原名**新东安市场**、**新东安广场**，是位于[北京市](../Page/北京市.md "wikilink")[王府井大街](../Page/王府井大街.md "wikilink")北段的一座商业[大厦](https://zh.wikipedia.org/wiki/大厦 "wikilink")。

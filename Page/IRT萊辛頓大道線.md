@@ -1,3 +1,6 @@
+> 本文内容由[IRT萊辛頓大道線](https://zh.wikipedia.org/wiki/IRT萊辛頓大道線)转换而来。
+
+
 **萊辛頓大道線**（），又稱**東城線**或**萊辛頓-第四大道線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT分部其中一條路線](../Page/跨區捷運公司.md "wikilink")，由或[曼哈頓下城北上至](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[東哈萊姆的](https://zh.wikipedia.org/wiki/東哈萊姆_\(曼哈頓\) "wikilink")[125街](https://zh.wikipedia.org/wiki/125街車站_\(IRT萊辛頓大道線\) "wikilink")。[曼哈頓下城和](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[中城的部分是紐約全市](../Page/曼哈頓中城.md "wikilink")的一部分。此線有等服務路線途經。
 
 幾十年間，萊辛頓大道線是[曼哈頓](../Page/曼哈頓.md "wikilink")唯一一條服務[上東城和東](https://zh.wikipedia.org/wiki/上東城 "wikilink")[中城的路線](../Page/曼哈頓中城.md "wikilink")，因此這條四線鐵路也是全美國最多乘客使用的地鐵路線。該路線每日平均有130萬人次使用，比[舊金山](../Page/舊金山灣區捷運系統.md "wikilink")（每日452,600人次）、[芝加哥](https://zh.wikipedia.org/wiki/芝加哥地鐵 "wikilink")（每日772,900人次）、[波士頓](https://zh.wikipedia.org/wiki/馬薩諸塞灣交通局 "wikilink")（每日569,200人次）的整個還要多。2007年，萊辛頓大道線的戴客量已經超越了整個[華盛頓地鐵](../Page/華盛頓地鐵.md "wikilink")\[1\]，以至於同年開始興建[第二大道線](../Page/第二大道線.md "wikilink")以減輕其負擔\[2\]。

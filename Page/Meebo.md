@@ -1,3 +1,6 @@
+> 本文内容由[Meebo](https://zh.wikipedia.org/wiki/Meebo)转换而来。
+
+
 **Meebo**是一個用[AJAX](../Page/AJAX.md "wikilink")編寫的網上[即時通訊](../Page/即時通訊.md "wikilink")軟體，並與主要的即時通訊軟體，如：[AOL](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")、[ICQ](../Page/ICQ.md "wikilink")、[Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink")、[MSN Messenger](https://zh.wikipedia.org/wiki/MSN_Messenger "wikilink")、[Jabber及](https://zh.wikipedia.org/wiki/Jabber "wikilink")[Google Talk相容的系統](../Page/Google_Talk.md "wikilink")，使用戶免除安裝即時通訊軟體之餘，就能與其他人保持聯繫。
 
 Meebo服務於2005年9月4日開始運作，並於9月14日正式開放與公眾使用。

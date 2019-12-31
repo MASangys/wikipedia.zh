@@ -1,3 +1,6 @@
+> 本文内容由[CD4受体](https://zh.wikipedia.org/wiki/CD4受体)转换而来。
+
+
 **CD4受体**，全称“表面抗原分化簇4受体”(Cluster of Differentiation 4 receptors）。在分子生物中，CD4是免疫細胞(例如:[輔助T細胞](../Page/輔助型T細胞.md "wikilink")、[單核球](https://zh.wikipedia.org/wiki/单核细胞 "wikilink")、[巨噬細胞和](../Page/巨噬细胞.md "wikilink")[樹突細胞](https://zh.wikipedia.org/wiki/樹狀細胞 "wikilink"))表面的醣蛋白分子。它被發現於1970年代晚期，在1984年以前被稱為leu-3和T4。人類的CD4蛋白質是由CD4基因所製造。
 
 CD4受体是[辅助T细胞的表面標記](https://zh.wikipedia.org/wiki/辅助T细胞 "wikilink")（surface markers）之一，也是辅助T细胞行使其功能的重要[受體](https://zh.wikipedia.org/wiki/受體 "wikilink")。當[抗原呈递細胞](https://zh.wikipedia.org/wiki/抗原呈递細胞 "wikilink")（主要是[巨噬細胞](https://zh.wikipedia.org/wiki/巨噬細胞 "wikilink")、[樹突細胞及](https://zh.wikipedia.org/wiki/樹突細胞 "wikilink")[B細胞本身](https://zh.wikipedia.org/wiki/B細胞 "wikilink")）將外來病菌分解，把抗原與[主要组织相容性复合体](../Page/主要组织相容性复合体.md "wikilink")結合後，呈递給辅助T细胞（即與辅助T细胞表面的CD4受體結合），辅助T细胞再接著刺激B細胞產生[抗體](https://zh.wikipedia.org/wiki/抗體 "wikilink")，此即[體液性免疫反應的基本過程](https://zh.wikipedia.org/wiki/體液性免疫反應 "wikilink")。

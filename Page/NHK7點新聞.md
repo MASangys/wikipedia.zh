@@ -1,3 +1,6 @@
+> 本文内容由[NHK7點新聞](https://zh.wikipedia.org/wiki/NHK7點新聞)转换而来。
+
+
 **NHK7點新聞**（，），是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）製作的一節晚間[新聞節目](../Page/新聞節目.md "wikilink")，於1993年4月5日開始，每天在[日本標準時間](../Page/日本標準時間.md "wikilink")19:00-19:30（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")雙語播送，並帶有即時字幕及英語同譯；通稱《****》，而在某些日本電視節目表上簡稱《**N7**》。日本境外地區的收視戶亦可經由[NHK World Premium收看](../Page/NHK_World_Premium.md "wikilink")。
 
 ## 概要

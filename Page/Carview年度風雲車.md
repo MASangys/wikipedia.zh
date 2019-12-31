@@ -1,3 +1,6 @@
+> 本文内容由[Carview年度風雲車](https://zh.wikipedia.org/wiki/Carview年度風雲車)转换而来。
+
+
 **Carview年度風雲車**（****；**Carview Car of the Year**；**CVCOTY**）依據每年度注目程度來決定成為話題的車輛。並且，遴選正式在日本國內有被發表的新型汽車為對象。目前，經由「車輛景觀株式會社」（；Carview Corporation All rights reserved）訪問所有使用者、投稿者和汽車專業記者，採取1個人1次的投票所決定。
 
 ## 設立

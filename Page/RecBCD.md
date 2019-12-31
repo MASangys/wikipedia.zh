@@ -1,3 +1,6 @@
+> 本文内容由[RecBCD](https://zh.wikipedia.org/wiki/RecBCD)转换而来。
+
+
 [RecBCD_crystal_structure.jpg](https://zh.wikipedia.org/wiki/File:RecBCD_crystal_structure.jpg "fig:RecBCD_crystal_structure.jpg")
 
 **RecBCD**是[大腸桿菌](../Page/大腸桿菌.md "wikilink")體內用來起始[DNA同源重組的](https://zh.wikipedia.org/wiki/DNA "wikilink")[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。由3個不同的[亚基所組成](https://zh.wikipedia.org/wiki/亚基 "wikilink")，分別是*RecB*、*RecC*與*RecD*（這些名稱也可用來表示轉錄出這些[蛋白質的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")[基因](../Page/基因.md "wikilink")）。其中*RecB*與*RecD*是[解旋酶](https://zh.wikipedia.org/wiki/解旋酶 "wikilink")。

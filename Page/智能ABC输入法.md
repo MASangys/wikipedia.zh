@@ -1,3 +1,6 @@
+> 本文内容由[智能ABC输入法](https://zh.wikipedia.org/wiki/智能ABC输入法)转换而来。
+
+
 **智能ABC输入法**（又稱作**标准输入法**\[1\]）是运行于[Microsoft Windows之下的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[汉语拼音输入法软件](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")。大多数人都把智能ABC归纳入[拼音输入法](../Page/拼音输入法.md "wikilink")，其实该输入法身兼两职，既可以纯拼音输入，又可以音形码输入。智能ABC因捆绑于Microsoft Windows简体中文版操作系统而一举成名，曾经是中国大陆使用人数最多的输入法软件。此软件是[北京大学](../Page/北京大学.md "wikilink")教授[朱守涛发明的](https://zh.wikipedia.org/wiki/朱守涛 "wikilink")，开发于北京大学科技开发部。智能ABC的最新版本为5.23。
 
 ## 双拼方案

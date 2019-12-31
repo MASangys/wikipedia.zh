@@ -1,3 +1,6 @@
+> 本文内容由[光岡MICRO TYPE-F](https://zh.wikipedia.org/wiki/光岡MICRO_TYPE-F)转换而来。
+
+
 **MICRO TYPE-F**（****）為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的仿古典作品車輛。車輛設計以光岡汽車Classic Type F為藍本。
 
 ## 車輛歷史

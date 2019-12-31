@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM MS IGLOO](https://zh.wikipedia.org/wiki/機動戰士GUNDAM MS IGLOO)转换而来。
+> 本文内容由[機動戰士GUNDAM MS IGLOO](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_MS_IGLOO)转换而来。
 
 
 **《机动战士GUNDAM MS IGLOO》**是2004年起，在[日本](../Page/日本.md "wikilink")松戶市[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")（[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")）美術館所放映的三部《[机动战士高达](https://zh.wikipedia.org/wiki/机动战士高达 "wikilink")》系列[宇宙世纪背景的](https://zh.wikipedia.org/wiki/宇宙世纪 "wikilink")3DCG影片，以故事／纪录片的形式，描述[一年戰爭中](https://zh.wikipedia.org/wiki/一年戰爭 "wikilink")[吉恩軍兵器開發部門與](https://zh.wikipedia.org/wiki/吉恩公国 "wikilink")“第603技术试验部隊”所测试的一些“失敗品”的故事。第一部為**《一年战争秘录》**。2005年底發售三話DVD，並且再追加企畫三話OVA，名為**《默示录0079》**，描寫主角們在大戰末期最終的戰鬥。

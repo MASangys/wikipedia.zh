@@ -1,3 +1,6 @@
+> 本文内容由[CXCL10](https://zh.wikipedia.org/wiki/CXCL10)转换而来。
+
+
 **CXCL10**（）是一小分子的[细胞因子](../Page/细胞因子.md "wikilink")属于CXC[趋化因子](../Page/趋化因子.md "wikilink")家族\[1\]，又被称作“干扰素伽玛诱导的10千道尔顿蛋白”（10 kDa interferon-gamma-induced protein，IP-10）\[2\] 。[干扰素伽玛](../Page/干扰素伽玛.md "wikilink")可以在多种细胞（如[巨噬细胞](../Page/巨噬细胞.md "wikilink")\[3\] ，[单核细胞](https://zh.wikipedia.org/wiki/单核细胞 "wikilink")\[4\] ，[内皮细胞](https://zh.wikipedia.org/wiki/内皮细胞 "wikilink")\[5\]和[成纤维细胞](../Page/成纤维细胞.md "wikilink")）中诱导CXCL10的表达。CXCL10的功能包括对[T细胞](../Page/T细胞.md "wikilink")和单核细胞的细胞趋化作用\[6\]\[7\]，促进T细胞黏附于内皮细胞\[8\]，抗[肿瘤](https://zh.wikipedia.org/wiki/肿瘤 "wikilink")\[9\]，及[新血管形成](https://zh.wikipedia.org/wiki/新血管形成 "wikilink")\[10\]。人类的CXCL10基因与[CXCL9](../Page/CXCL9.md "wikilink")，[CXCL11](../Page/CXCL11.md "wikilink")的基因相邻聚集在第四染色体上。CXCL10, CXCL9和CXCL11结合[趋化因子受体](https://zh.wikipedia.org/wiki/趋化因子受体 "wikilink")[CXCR3](../Page/CXCR3.md "wikilink")而起其细胞趋化作用\[11\]\[12\] 。
 
 ## 参见

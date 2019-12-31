@@ -1,3 +1,6 @@
+> 本文内容由[Raku](https://zh.wikipedia.org/wiki/Raku)转换而来。
+
+
 **Raku**是[Perl](../Page/Perl.md "wikilink")[程式語言家族的成員之一](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，主要設計者為[拉里·沃尔](../Page/拉里·沃尔.md "wikilink")。作為Perl的後繼者，在2000年開始發展，由於接續在Perl 5之後，舊名**Perl 6**，在2019年10月更改為今名\[1\]。由于Raku语言语法與Perl 5不同，因此，可以把它看作一种新的[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，尽管其计划提供Perl 5的兼容模式。
 
 Raku拥有丰富的现代语言特征，[拉里·沃尔](../Page/拉里·沃尔.md "wikilink")计划用重新定义[正規表達式和增加](https://zh.wikipedia.org/wiki/正規表達式 "wikilink")[函數式程式語言的特征](https://zh.wikipedia.org/wiki/函數式程式語言 "wikilink")，使之成为可演化的语言。为保证Raku和[Perl](../Page/Perl.md "wikilink")社区的持续稳定发展，Raku[编译器使用Raku来重写](https://zh.wikipedia.org/wiki/编译器 "wikilink")。为保证Perl语言原有[函式庫](../Page/函式庫.md "wikilink")的重用，[编译器还计划提供同Perl](https://zh.wikipedia.org/wiki/编译器 "wikilink") 5语言的兼容模式。

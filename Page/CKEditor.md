@@ -1,3 +1,6 @@
+> 本文内容由[CKEditor](https://zh.wikipedia.org/wiki/CKEditor)转换而来。
+
+
 **CKEditor**，舊稱**FCKeditor**，是一個專門使用在網頁上屬於[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")[文字編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")。它志於輕量化，不需要太複雜的安裝步驟即可使用。它可和[PHP](../Page/PHP.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[ASP](../Page/Active_Server_Pages.md "wikilink")、[ASP.NET](../Page/ASP.NET.md "wikilink")、[ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")、[Java](../Page/Java.md "wikilink")、以及[ABAP](../Page/ABAP.md "wikilink")等不同的程式語言相結合。「FCKeditor」名稱中的「FCK」 是這個編輯器的作者的名字Frederico Caldeira Knabben的縮寫。
 
 FCKeditor 相容於絕大部分的網頁瀏覽器，像是：[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 5.5+ (Windows)、[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 1.0+、[Mozilla](../Page/Mozilla.md "wikilink") 1.3+、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")9.50+和[Netscape](https://zh.wikipedia.org/wiki/Netscape "wikilink") 7+。

@@ -1,4 +1,4 @@
-> 本文内容由[Fly to the Sky](https://zh.wikipedia.org/wiki/Fly to the Sky)转换而来。
+> 本文内容由[Fly to the Sky](https://zh.wikipedia.org/wiki/Fly_to_the_Sky)转换而来。
 
 
 **Fly to the Sky**（諺文：플라이 투 더 스카이、台譯：飛行青少年、簡寫：FTTS）是韓國二人男子演唱團體，由韓裔美籍的[Brian和韓國出身的](../Page/朱玟奎.md "wikilink")[Fany所組成](https://zh.wikipedia.org/wiki/焕熙 "wikilink")。

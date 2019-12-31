@@ -1,4 +1,4 @@
-> 本文内容由[AMD Athlon 64 X2](https://zh.wikipedia.org/wiki/AMD Athlon 64 X2)转换而来。
+> 本文内容由[AMD Athlon 64 X2](https://zh.wikipedia.org/wiki/AMD_Athlon_64_X2)转换而来。
 
 
 [Athlon_64_X2_E6_3800.jpg](https://zh.wikipedia.org/wiki/File:Athlon_64_X2_E6_3800.jpg "fig:Athlon_64_X2_E6_3800.jpg") [Athlonx2_logo.gif](https://zh.wikipedia.org/wiki/File:Athlonx2_logo.gif "fig:Athlonx2_logo.gif") [33544a-2_AthlonX2.gif](https://zh.wikipedia.org/wiki/File:33544a-2_AthlonX2.gif "fig:33544a-2_AthlonX2.gif")

@@ -1,4 +1,4 @@
-> 本文内容由[Media Player Classic](https://zh.wikipedia.org/wiki/Media Player Classic)转换而来。
+> 本文内容由[Media Player Classic](https://zh.wikipedia.org/wiki/Media_Player_Classic)转换而来。
 
 
 **Media Player Classic**是一個簡潔的[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。Media Player Classic含有與[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink") 6.4幾乎相同的介面。然而，這是與Windows Media Player 6.4完全不同的應用程式，它含有其它近代的播放器相似的功能及選項。

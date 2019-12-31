@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵W線](https://zh.wikipedia.org/wiki/紐約地鐵W線)转换而来。
+
+
 **W線百老匯慢車**（），又稱**紐約地鐵W線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]。
 
 W線只在平日營運，深夜時不營運，來往[阿斯托利亞的](../Page/阿斯托里亞_\(皇后區\).md "wikilink")[阿斯托利亞-迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[白廳街-南碼頭](https://zh.wikipedia.org/wiki/白廳街-南碼頭車站_\(BMT百老匯線\) "wikilink")，停靠全線所有車站，繁忙時段有限度服務以的[86街](https://zh.wikipedia.org/wiki/86街車站_\(BMT海灘線\) "wikilink")，在布魯克林停靠所有車站\[2\]\[3\]\[4\]\[5\]。

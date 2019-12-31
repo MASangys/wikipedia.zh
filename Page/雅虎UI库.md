@@ -1,3 +1,6 @@
+> 本文内容由[雅虎UI库](https://zh.wikipedia.org/wiki/雅虎UI库)转换而来。
+
+
 **雅虎UI库**（，**YUI**）是一個開放原始碼的[JavaScript](../Page/JavaScript.md "wikilink")函數庫，為了能建立一個高互動的網頁，它採用了[AJAX](../Page/AJAX.md "wikilink")，[DHTML和](https://zh.wikipedia.org/wiki/DHTML "wikilink")[DOM等程式碼技術](https://zh.wikipedia.org/wiki/文檔對象模型 "wikilink")\[1\]。它也包含了許多[CSS資源](https://zh.wikipedia.org/wiki/CSS "wikilink")。使用授權為[BSD許可證](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")\[2\]。
 於，由於缺乏積極維護、過分龐大的library不合時代……等原因停止維護\[3\]
 

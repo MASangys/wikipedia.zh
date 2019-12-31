@@ -1,3 +1,6 @@
+> 本文内容由[Raphael](https://zh.wikipedia.org/wiki/Raphael)转换而来。
+
+
 **Raphael**是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，1997年成立，由[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[Yuki](../Page/Yuki.md "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")[Yukito](https://zh.wikipedia.org/wiki/Yukito "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[Hiro](https://zh.wikipedia.org/wiki/Hiro "wikilink")、和[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[華月](../Page/華月.md "wikilink")四人組成。
 
 2000年10月31日[團長華月因壓力過大誤服過量](https://zh.wikipedia.org/wiki/團長 "wikilink")[鎮定劑去世](https://zh.wikipedia.org/wiki/鎮定劑 "wikilink")，Raphael最終於2001年宣佈活動休止。

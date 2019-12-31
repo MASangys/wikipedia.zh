@@ -1,3 +1,6 @@
+> 本文内容由[跑Online](https://zh.wikipedia.org/wiki/跑Online)转换而来。
+
+
 是由韓國RHAON開發\[1\]，[SmileGate發行的網路競速遊戲](https://zh.wikipedia.org/wiki/SmileGate "wikilink")，遊戲以跑這種競賽方式為特色吸引玩家，由於其童話風格及多樣化地圖，在各地很受好評。此為免費遊戲，官方不收取玩家費用，玩家可購買此遊戲的收費產品。2016年，[SmileGate宣布與開發商RHAON續約十年](https://zh.wikipedia.org/wiki/SmileGate "wikilink")，並且將共同開發遊戲續作《TalesRunner 2》\[2\]。
 
 ## 現存伺服器

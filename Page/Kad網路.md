@@ -1,3 +1,6 @@
+> 本文内容由[Kad網路](https://zh.wikipedia.org/wiki/Kad網路)转换而来。
+
+
 **Kad網路**（）是一個利用[Kademlia](../Page/Kademlia.md "wikilink")點對點重疊協定的[點對點網路](https://zh.wikipedia.org/wiki/點對點 "wikilink")。大多數Kad Network上的用戶，均會連接到[eDonkey网络伺服器](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")。而Kad Network客戶端，一般會查詢eDonkey Network上已知的節點，來取得Kad Network的初始節點。
 
 Kad Network利用[UDP](https://zh.wikipedia.org/wiki/用戶數據報協議 "wikilink")

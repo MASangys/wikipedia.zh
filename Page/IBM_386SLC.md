@@ -1,4 +1,4 @@
-> 本文内容由[IBM 386SLC](https://zh.wikipedia.org/wiki/IBM 386SLC)转换而来。
+> 本文内容由[IBM 386SLC](https://zh.wikipedia.org/wiki/IBM_386SLC)转换而来。
 
 
 **IBM 386SLC**是一顆[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，是由[Intel公司將](https://zh.wikipedia.org/wiki/Intel "wikilink")[386SX處理器的技術授權給](../Page/Intel_80386.md "wikilink")[IBM](../Page/IBM.md "wikilink")公司，IBM公司取得技術後以此技術為基礎所再行發展，並於1991年正式推出、量產的處理器。

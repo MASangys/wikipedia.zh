@@ -1,4 +1,4 @@
-> 本文内容由[机动战士GUNDAM SEED C.E.73 STARGAZER](https://zh.wikipedia.org/wiki/机动战士GUNDAM SEED C.E.73 STARGAZER)转换而来。
+> 本文内容由[机动战士GUNDAM SEED C.E.73 STARGAZER](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED_C.E.73_STARGAZER)转换而来。
 
 
 《**機動戰士GUNDAM SEED C.E.73 STARGAZER**》，一般翻译为“观星者”，為C.E.纪元的[ONA](../Page/原創網路動畫.md "wikilink")（原创网络动画）作品，亦是[X plosion GUNDAM SEED企劃的第一部作品](https://zh.wikipedia.org/wiki/X_plosion_GUNDAM_SEED "wikilink")。共三话构成，每话约15分钟的短篇，通过收费网络配信发布。

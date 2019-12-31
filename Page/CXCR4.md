@@ -1,3 +1,6 @@
+> 本文内容由[CXCR4](https://zh.wikipedia.org/wiki/CXCR4)转换而来。
+
+
 趋化因子受体**CXCR4**是[趋化因子](../Page/趋化因子.md "wikilink")[基质细胞衍生因子-1](https://zh.wikipedia.org/wiki/基质细胞衍生因子-1 "wikilink")（CXCL12）的特异受体\[1\]\[2\]。CXCL12对[淋巴细胞有强烈的趋化作用](https://zh.wikipedia.org/wiki/淋巴细胞 "wikilink")。该受体是用来提取纯化[艾滋病毒的几个趋化因子受体之一](https://zh.wikipedia.org/wiki/人类免疫缺乏病毒 "wikilink")。现在还不清楚是否出现使用CXCR4的人类免疫缺乏病毒是免疫缺乏的原因还是后果。
 
 另外，CXCR4还可能人类[胚胎发育中的着床过程中起作用](https://zh.wikipedia.org/wiki/胚胎 "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[BASIC Stamp](https://zh.wikipedia.org/wiki/BASIC Stamp)转换而来。
+> 本文内容由[BASIC Stamp](https://zh.wikipedia.org/wiki/BASIC_Stamp)转换而来。
 
 
 [PD-20060911-BASIC-Stamp-2.svg](https://zh.wikipedia.org/wiki/File:PD-20060911-BASIC-Stamp-2.svg "fig:PD-20060911-BASIC-Stamp-2.svg")

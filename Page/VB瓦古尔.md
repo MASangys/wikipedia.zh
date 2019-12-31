@@ -1,3 +1,6 @@
+> 本文内容由[VB瓦古尔](https://zh.wikipedia.org/wiki/VB瓦古尔)转换而来。
+
+
 **VB瓦古尔**（**VB Vágur**）是法罗群岛的足球俱乐部，位于[法罗群岛](../Page/法罗群岛.md "wikilink")的[瓦古尔](https://zh.wikipedia.org/wiki/瓦古尔 "wikilink")，球队现属于[法罗群岛足球甲级联赛](https://zh.wikipedia.org/wiki/法罗群岛足球甲级联赛 "wikilink")。球队的主体育场为。
 
 ## 球队荣誉

@@ -1,3 +1,6 @@
+> 本文内容由[Xpress 200](https://zh.wikipedia.org/wiki/Xpress_200)转换而来。
+
+
 **Xpress 200**是[ATI的一個晶片組系列](https://zh.wikipedia.org/wiki/ATI "wikilink")，可以支援[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")64-bit，亦同時支援[INTEL的](https://zh.wikipedia.org/wiki/INTEL "wikilink")[Pentium 4](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，[Pentium D和](https://zh.wikipedia.org/wiki/Pentium_D "wikilink")[Celeron處理器](https://zh.wikipedia.org/wiki/Celeron "wikilink")。這個系列有獨立型和整合型的晶片組。對於INTEL的版本，它的記憶體控制器支援[DDR和](https://zh.wikipedia.org/wiki/DDR "wikilink")[DDR-II記憶體](https://zh.wikipedia.org/wiki/DDR-II "wikilink")。相對於上一代產品，新增了[PCI-Express接口](https://zh.wikipedia.org/wiki/PCI-Express "wikilink")，所以晶片組的名稱亦改變為Xpress系列。
 
 之後，ATI將Xpress 200 Crossfire Edition更名為CrossFire Xpress 1600。在AMD收購ATI後，又再次更名為AMD [480X CrossFire晶片組](../Page/480X_CrossFire.md "wikilink")。

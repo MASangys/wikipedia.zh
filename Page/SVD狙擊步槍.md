@@ -1,3 +1,6 @@
+> 本文内容由[SVD狙擊步槍](https://zh.wikipedia.org/wiki/SVD狙擊步槍)转换而来。
+
+
 **德拉古諾夫狙击步枪**（，Snayperskaya Vintovka Dragunova，缩写SVD），是由[苏联](../Page/苏联.md "wikilink")的[叶夫根尼·费奥多罗维奇·德拉贡诺夫](../Page/叶夫根尼·费奥多罗维奇·德拉贡诺夫.md "wikilink")在1958年至1963年间设计的一种半自动[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，德拉古諾夫／SVD狙击步枪也是现代第一支为支援[班](https://zh.wikipedia.org/wiki/班 "wikilink")[排級狙擊與長距離火力支援用途而专门制造的狙擊步槍](https://zh.wikipedia.org/wiki/排 "wikilink")。
 
 但因為SVD是五十年代的[二戰和](https://zh.wikipedia.org/wiki/二戰 "wikilink")[韓戰時經驗開發](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，要求狙擊步槍可以平衡於精度、射速、重量、可靠、低價的各個方面，而且當時還未有一些最新制槍技術。以当代標準[反恐作戰需求來說已開始過時了](https://zh.wikipedia.org/wiki/反恐 "wikilink")，常被認為只是[精確射手步槍](../Page/精確射手步槍.md "wikilink")（Designated marksman rifle；DMR）。

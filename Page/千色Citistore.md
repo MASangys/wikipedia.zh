@@ -1,3 +1,6 @@
+> 本文内容由[千色Citistore](https://zh.wikipedia.org/wiki/千色Citistore)转换而来。
+
+
 [Citistore_Tsuen_Wan_interior_2018.jpg](https://zh.wikipedia.org/wiki/File:Citistore_Tsuen_Wan_interior_2018.jpg "fig:Citistore_Tsuen_Wan_interior_2018.jpg") [Metro_Harbour_Plaza.jpg](https://zh.wikipedia.org/wiki/File:Metro_Harbour_Plaza.jpg "fig:Metro_Harbour_Plaza.jpg")的千色Citistore\]\] [Citistore,_Tseung_Kwan_O_Store_(Hong_Kong).jpg](https://zh.wikipedia.org/wiki/File:Citistore,_Tseung_Kwan_O_Store_\(Hong_Kong\).jpg "fig:Citistore,_Tseung_Kwan_O_Store_(Hong_Kong).jpg")的千色Citistore\]\] [KOLOUR_Yuen_Long_Citistore_interior1_201508.jpg](https://zh.wikipedia.org/wiki/File:KOLOUR_Yuen_Long_Citistore_interior1_201508.jpg "fig:KOLOUR_Yuen_Long_Citistore_interior1_201508.jpg")[元朗千色匯](../Page/元朗千色匯.md "wikilink")的千色Citistore\]\]
 
 **千色Citistore**（**Citistore**），是[香港](../Page/香港.md "wikilink")一家[恒基兆業發展](../Page/恒基兆業發展.md "wikilink")全資擁有的[百貨公司](../Page/百貨公司.md "wikilink")，前名為**千色店**及**千色百貨**。

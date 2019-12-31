@@ -1,3 +1,6 @@
+> 本文内容由[TRUE 唯美生存](https://zh.wikipedia.org/wiki/TRUE_唯美生存)转换而来。
+
+
 「**TRUE 唯美生存**」是[中島美嘉](../Page/中島美嘉.md "wikilink")於2002年8月26日發行的第一張原創專輯。
 
 ## 概述

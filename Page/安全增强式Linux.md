@@ -1,3 +1,6 @@
+> 本文内容由[安全增强式Linux](https://zh.wikipedia.org/wiki/安全增强式Linux)转换而来。
+
+
 **安全增強式Linux**（SELinux，Security-Enhanced Linux）是一个[Linux内核](../Page/Linux内核.md "wikilink")的[安全模组](https://zh.wikipedia.org/wiki/Linux安全模组 "wikilink")，其提供了访问控制安全策略机制，包括了[美国国防部](../Page/美国国防部.md "wikilink")风格的[强制访问控制](../Page/强制访问控制.md "wikilink")（Mandatory Access Control，MAC）。
 
 SELinux是一系列添加到多个[Linux发行版](../Page/Linux发行版.md "wikilink")的内核修改与用户空间工具。其[软件架构](../Page/软件架构.md "wikilink")力图从安全策略中分离出执行安全决策并优化涉及执行安全策略的软件。\[1\]\[2\]奠基SELinux的核心概念可以追溯回[美国国家安全局](../Page/美国国家安全局.md "wikilink")（NSA）的一些早期项目。

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Live Spaces](https://zh.wikipedia.org/wiki/Windows_Live_Spaces)转换而来。
+
+
 **Windows Live Spaces**（或称：**Windows Live -{zh-hans:共享空间; zh-hant:分享空間;}-**；前身：**MSN Spaces**）是[微软](../Page/微软.md "wikilink")的[博客和](https://zh.wikipedia.org/wiki/博客 "wikilink")[社交网络平台](../Page/社交網路服務.md "wikilink")。它是微软[live.com旗下的产品](https://zh.wikipedia.org/wiki/live.com "wikilink")，也是MSN Spaces的後續版本。用户可以通过Windows Live Spaces发布[網誌](../Page/網誌.md "wikilink")内容、[照片等](https://zh.wikipedia.org/wiki/照片 "wikilink")。同时Windows Live Spaces与[Windows Live Messenger有紧密联系](../Page/Windows_Live_Messenger.md "wikilink")，包括更新時在[Windows Live Messenger的名片上有自動更新星號](../Page/Windows_Live_Messenger.md "wikilink")、標題、內文與相片預覽等。
 
 2010年9月28日，微软宣布停止Windows Live Spaces服务，与[WordPress.com](../Page/WordPress.com.md "wikilink")合作，并将现有用户的博客账户迁移到WordPress.com网站。\[1\]

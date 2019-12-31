@@ -1,3 +1,6 @@
+> 本文内容由[Ntv7](https://zh.wikipedia.org/wiki/Ntv7)转换而来。
+
+
 **ntv7**，全称为**NatSeven電視私人有限公司**（），是[馬來西亞私营电视台](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，1998年4月7日早上8：00开播。ntv7的目标是为了使马来西亚社会更欢乐又更进步，正式的中文[口號是](https://zh.wikipedia.org/wiki/口號 "wikilink")**“感覺美好”**，当初为一家独立私营电视台，既是与[TV3与](../Page/TV3_\(马来西亚\).md "wikilink")[八度空间竞争](../Page/八度空间_\(电视台\).md "wikilink")。但在2005年，ntv7因财务困难而被[首要媒体](../Page/首要媒体.md "wikilink")收购，因此ntv7与TV3、八度空间与[TV9皆同屬於首要媒體](https://zh.wikipedia.org/wiki/TV9 "wikilink")。
 
 自2017年1月1日起，ntv7的全天播出时间改為06:00-次日凌晨01:50（[除夕](../Page/除夕.md "wikilink")02:00，有時會因播出《CJ WOW Shop》而延至02:20）。此外，ntv7也可透过[Astro](https://zh.wikipedia.org/wiki/Astro "wikilink")107频道，[Unifi TV](../Page/Unifi_TV.md "wikilink")107频道观看以及在數碼電視[MYTV Broadcasting](https://zh.wikipedia.org/wiki/MYTV_Broadcasting "wikilink")107頻道收看。

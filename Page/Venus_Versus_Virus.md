@@ -1,3 +1,6 @@
+> 本文内容由[Venus Versus Virus](https://zh.wikipedia.org/wiki/Venus_Versus_Virus)转换而来。
+
+
 《**Venus Versus Virus 除魔維納斯**》（）是[鈴見敦的](https://zh.wikipedia.org/wiki/鈴見敦 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")\[1\]。於[月刊電擊COMIC gao\!](https://zh.wikipedia.org/wiki/月刊電擊COMIC_gao! "wikilink")（[MediaWorks](../Page/MediaWorks.md "wikilink")）2005年開始至2008年結束連載。單行本全8冊。
 
 2007年改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[2\]。動畫版從2007年1月11日到3月29日開始在日本地區播映\[3\]。由於本作品的內容是青少年適宜觀看，加上主角有不良青少年行為和生死的故事場面，所以與[傳說巨神伊迪安和](https://zh.wikipedia.org/wiki/傳說巨神伊迪安 "wikilink")[聖槍修女](../Page/聖槍修女.md "wikilink")一樣被嚴禁在[香港](../Page/香港.md "wikilink")播放動畫版。

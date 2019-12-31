@@ -1,3 +1,6 @@
+> 本文内容由[IAST](https://zh.wikipedia.org/wiki/IAST)转换而来。
+
+
 **IAST**是**國際梵語轉寫字母**的英語名稱（）的縮寫，是學術上對於[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")[轉寫的標準](https://zh.wikipedia.org/wiki/轉寫 "wikilink")，亦變成了一般出版界，如書籍及雜誌的非業界標準。隨着[Unicode字型的普及](https://zh.wikipedia.org/wiki/Unicode "wikilink")，它在電子文本的使用亦因此而相應地增加。這項標準是於1912年在[雅典](../Page/雅典.md "wikilink")舉行的[東方學會議](https://zh.wikipedia.org/wiki/東方學會議 "wikilink")（International Congress of Orientalists）上訂立的，而它又基於了1894年在[日內瓦舉行的東方學會議制定的標準](https://zh.wikipedia.org/wiki/日內瓦 "wikilink")。\[1\]\[2\]
 
 IAST是羅馬化梵語和[巴利語的最流行的方案](https://zh.wikipedia.org/wiki/巴利語 "wikilink")，它允許無損的[天城文轉寫](../Page/天城文轉寫.md "wikilink")（和其他的[印度文字比如](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")[克什米爾語的傳統文字](https://zh.wikipedia.org/wiki/克什米爾語 "wikilink")[夏拉達文](../Page/夏拉達文.md "wikilink")的轉寫），而且不只是[梵語的](https://zh.wikipedia.org/wiki/梵語 "wikilink")[音素](https://zh.wikipedia.org/wiki/音素 "wikilink")，還允許本質上的語音標注（比如 [{{IAST](https://zh.wikipedia.org/wiki/止韻 "wikilink")  是詞尾的  和  的[同位異音](../Page/同位異音.md "wikilink")）。

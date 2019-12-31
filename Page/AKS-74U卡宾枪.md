@@ -1,3 +1,6 @@
+> 本文内容由[AKS-74U卡宾枪](https://zh.wikipedia.org/wiki/AKS-74U卡宾枪)转换而来。
+
+
 [Ukrainian_Marine_with_AKS-74U.JPEG](https://zh.wikipedia.org/wiki/File:Ukrainian_Marine_with_AKS-74U.JPEG "fig:Ukrainian_Marine_with_AKS-74U.JPEG") [AKS-74U_(1).jpg](https://zh.wikipedia.org/wiki/File:AKS-74U_\(1\).jpg "fig:AKS-74U_(1).jpg") [AKS-74U_(2).jpg](https://zh.wikipedia.org/wiki/File:AKS-74U_\(2\).jpg "fig:AKS-74U_(2).jpg") **AKS-74U**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**АКС-74У**）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1975年設計及生產的短[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，AKS-74U當中的「U」（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：）解為「縮短」。
 
 ## 歷史及設計

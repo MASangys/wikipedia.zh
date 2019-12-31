@@ -1,3 +1,6 @@
+> 本文内容由[I\'m OK](https://zh.wikipedia.org/wiki/I\'m_OK)转换而来。
+
+
 《**I'm OK**》是臺灣流行歌手[陶喆](../Page/陶喆.md "wikilink")的第二張創作專輯，發行於1999年12月11日。
 
 ## 曲目

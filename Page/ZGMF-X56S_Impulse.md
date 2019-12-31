@@ -1,3 +1,6 @@
+> 本文内容由[ZGMF-X56S Impulse](https://zh.wikipedia.org/wiki/ZGMF-X56S_Impulse)转换而来。
+
+
 **ZGMF-X56S Impulse 脈衝鋼彈**為日本機械科幻動畫作品[機動戰士鋼彈SEED DESTINY中虛構的有人式人型機器兵器](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")（[MS](https://zh.wikipedia.org/wiki/MS "wikilink")），主人翁[真·飛鳥](../Page/真·飛鳥.md "wikilink")搭乘之座機，故事後半改由[露娜瑪麗亞·霍克駕駛](https://zh.wikipedia.org/wiki/露娜瑪麗亞·霍克 "wikilink")。機體名「Impulse」為[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「脈-{}-衝」之意，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。 [Zgmf-x56sa.jpg](https://zh.wikipedia.org/wiki/File:Zgmf-x56sa.jpg "fig:Zgmf-x56sa.jpg")
 
 ## 開發經過

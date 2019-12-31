@@ -1,3 +1,6 @@
+> 本文内容由[Include防範](https://zh.wikipedia.org/wiki/Include防範)转换而来。
+
+
 在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")程式語言中，**\#include防範**，有時被稱作**巨集防範**，用於處理`#include` [指令時](https://zh.wikipedia.org/wiki/編譯器指導指令 "wikilink")，可避免**重複引入**的問題。在[標頭檔加入](https://zh.wikipedia.org/wiki/標頭檔 "wikilink")\#include防範是一種讓檔案[等冪的方法](https://zh.wikipedia.org/wiki/等冪 "wikilink")。
 
 ## 重複引入

@@ -1,3 +1,6 @@
+> 本文内容由[TRF](https://zh.wikipedia.org/wiki/TRF)转换而来。
+
+
 **TRF**（），[日本](../Page/日本.md "wikilink")樂團，[小室家族之一](../Page/小室哲哉.md "wikilink")。1992年 trf 由小室哲哉組成展開活動，1993年正式出道，在90年代創造亮麗驚人的表現，1996年所推出的第14張單曲作品「Hey\! Ladies & Gentlemen」開始使用大寫 TRF 團名，現為avex音樂所屬。
 
 目前CD累計銷售達2150萬，為日本歷代第20。在1995年，出道僅僅兩年時，其銷售已破1000萬，為當時日本史上最快千萬銷售歌手，與其製作人[小室哲哉](../Page/小室哲哉.md "wikilink")共同被認為替[艾迴今日版圖打下基礎的先驅者](https://zh.wikipedia.org/wiki/艾迴 "wikilink")。

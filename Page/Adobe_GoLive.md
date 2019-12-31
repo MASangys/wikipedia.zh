@@ -1,4 +1,4 @@
-> 本文内容由[Adobe GoLive](https://zh.wikipedia.org/wiki/Adobe GoLive)转换而来。
+> 本文内容由[Adobe GoLive](https://zh.wikipedia.org/wiki/Adobe_GoLive)转换而来。
 
 
 **Adobe GoLive**是[Adobe系统公司出品的网页设计及编辑软件](https://zh.wikipedia.org/wiki/Adobe系统 "wikilink")。它的推出代替了[Adobe PageMill](https://zh.wikipedia.org/wiki/Adobe_PageMill "wikilink")，其最新版本为9，且不再是[Adobe Creative Suite软件包的套件之一](../Page/Adobe_Creative_Suite.md "wikilink")。GoLive是一個早期的网页编辑工具，屬於[所見即所得軟體](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")。開發公司是[CyberStudio](https://zh.wikipedia.org/wiki/CyberStudio "wikilink")，而GoLive就是其旗艦產品。於1999年，Adobe系统收購了GoLive，並更名為Adobe GoLive。

@@ -1,3 +1,6 @@
+> 本文内容由[Megami MAGAZINE](https://zh.wikipedia.org/wiki/Megami_MAGAZINE)转换而来。
+
+
 《**Megami MAGAZINE**》（，「女神雜誌」）是[學習研究社發行的](https://zh.wikipedia.org/wiki/學習研究社 "wikilink")[動畫中心](https://zh.wikipedia.org/wiki/動畫 "wikilink")[美少女](../Page/美少女.md "wikilink")[角色](../Page/角色.md "wikilink")雜誌。1999年7月發行，自2003年3月號起獨立創刊。簡稱是「Megamaga」（****）。
 
 ## 概要

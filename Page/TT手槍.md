@@ -1,3 +1,6 @@
+> 本文内容由[TT手槍](https://zh.wikipedia.org/wiki/TT手槍)转换而来。
+
+
 **托卡列夫手槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：，意為：托卡列夫7.62毫米半自動手槍1930年型）是前[蘇聯製造的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")之一，於1930年定型，由[費德爾·華西列維奇·托卡列夫設計](https://zh.wikipedia.org/wiki/費德爾·華西列維奇·托卡列夫 "wikilink")，開發目的是用以取代[沙俄時期的](https://zh.wikipedia.org/wiki/沙俄 "wikilink")[納甘M1895轉輪手槍](../Page/納甘M1895轉輪手槍.md "wikilink")，有時又會被稱為**TT**（，意為：圖拉托卡列夫）。
 
 ## 設計

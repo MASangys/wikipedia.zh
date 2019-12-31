@@ -1,4 +1,4 @@
-> 本文内容由[4 in Love \(組合\)](https://zh.wikipedia.org/wiki/4 in Love \(組合\))转换而来。
+> 本文内容由[4 in Love \(組合\)](https://zh.wikipedia.org/wiki/4_in_Love_\(組合\))转换而来。
 
 
 **4 in Love**是[台灣的四人女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，於2000年成軍，成員包括[冷嘉琳](https://zh.wikipedia.org/wiki/冷嘉琳 "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[楊丞琳](../Page/楊丞琳.md "wikilink")和[張棋惠](../Page/張棋惠.md "wikilink")，共發行過兩張專輯，於2002年宣布解散。

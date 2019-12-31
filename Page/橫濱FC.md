@@ -1,3 +1,6 @@
+> 本文内容由[橫濱FC](https://zh.wikipedia.org/wiki/橫濱FC)转换而来。
+
+
 **橫濱FC**（，），是一間位於[日本](../Page/日本.md "wikilink")[橫濱市的足球會](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")。
 
 ## 歷史

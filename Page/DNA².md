@@ -1,3 +1,6 @@
+> 本文内容由[DNA²](https://zh.wikipedia.org/wiki/DNA²)转换而来。
+
+
 《**DNA²**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於[集英社](../Page/集英社.md "wikilink")漫畫雜誌《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1993年36・37合併號連載至1994年29號，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")5冊。
 
 另有[電視動畫與](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。電視動畫版在台灣是由[首華卡通頻道](../Page/首華卡通頻道.md "wikilink")首播，中文片名是《再造基因》，但是是未經授權的[B拷版](https://zh.wikipedia.org/wiki/B拷 "wikilink")，故每集片頭與片尾的「製作協力：[Bandai Visual](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")、[Movic](https://zh.wikipedia.org/wiki/Movic "wikilink")」與「製作：[BaoHouse](../Page/MADHOUSE.md "wikilink")」均被覆蓋。

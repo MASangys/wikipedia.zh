@@ -1,3 +1,6 @@
+> 本文内容由[詹姆士·W·布拉克](https://zh.wikipedia.org/wiki/詹姆士·W·布拉克)转换而来。
+
+
 **詹姆士·懷特·布拉克**爵士，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[FRS](https://zh.wikipedia.org/wiki/英國皇家學會 "wikilink")，[FRSE](https://zh.wikipedia.org/wiki/愛丁堡皇家學會 "wikilink")，[FRCP](https://zh.wikipedia.org/wiki/英國倫敦皇家內科醫學院 "wikilink")（，），[蘇格蘭](../Page/蘇格蘭.md "wikilink")[藥理學家](https://zh.wikipedia.org/wiki/藥理學 "wikilink")，發明藥物[Propranolol和合成出](../Page/普萘洛尔.md "wikilink")[Cimetidine](https://zh.wikipedia.org/wiki/甲氰咪胍 "wikilink")。他因這些成就而在1988年獲頒贈[諾貝爾醫學獎](https://zh.wikipedia.org/wiki/諾貝爾生理學或醫學獎 "wikilink")\[1\]。
 
 ## 生平

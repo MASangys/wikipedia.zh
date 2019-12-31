@@ -1,3 +1,6 @@
+> 本文内容由[Diamond Love](https://zh.wikipedia.org/wiki/Diamond_Love)转换而来。
+
+
 《**Diamond Love**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[衛詩](../Page/衛詩.md "wikilink")的第二張音樂專輯，於2006年11月21日發行。
 
 ## 曲目

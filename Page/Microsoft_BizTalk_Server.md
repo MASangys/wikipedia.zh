@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft BizTalk Server](https://zh.wikipedia.org/wiki/Microsoft_BizTalk_Server)转换而来。
+
+
 **Microsoft BizTalk Server**是[微软](../Page/微软.md "wikilink")公司针对大中型企业设计的[服务器](../Page/服务器.md "wikilink")产品，功能包括业务流程自动化、业务流程管理、企业应用集成以及企业之间的集成。
 
 ## 架构

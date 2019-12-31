@@ -1,3 +1,6 @@
+> 本文内容由[StyleXP](https://zh.wikipedia.org/wiki/StyleXP)转换而来。
+
+
 **StyleXP**是一個設計用來修改[Windows XP用戶界面的](../Page/Windows_XP.md "wikilink")[電腦程式](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")，到版本3.19為止可修改主題、瀏覽器列、背景、登入畫面、圖示、開機畫面、透明度、指標與螢幕保護程式。
 
 ## 歷史

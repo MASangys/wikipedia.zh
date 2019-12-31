@@ -1,3 +1,6 @@
+> 本文内容由[Gizmodo](https://zh.wikipedia.org/wiki/Gizmodo)转换而来。
+
+
 **Gizmodo**是一個報道[消費電子產品](../Page/消費電子產品.md "wikilink")相關消息的流行科技[網誌](../Page/網誌.md "wikilink")\[1\]，是由[尼克·丹頓營運的](https://zh.wikipedia.org/wiki/尼克·丹頓 "wikilink")[Gawker Media網絡的一部份](https://zh.wikipedia.org/wiki/Gawker_Media "wikilink")。 [Gizmodo.svg](https://zh.wikipedia.org/wiki/File:Gizmodo.svg "fig:Gizmodo.svg")
 
 Gizmodo於2002年開辦，最初由Peter Rojas負責編輯，但他後來受雇於[Weblogs公司開辦相似的科技網誌](https://zh.wikipedia.org/wiki/Weblogs "wikilink")[Engadget](../Page/Engadget.md "wikilink")\[2\]。至2004年年中Gizmodo與Gawker合共帶來每月6,000元的收入\[3\]。

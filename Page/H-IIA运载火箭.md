@@ -1,3 +1,6 @@
+> 本文内容由[H-IIA运载火箭](https://zh.wikipedia.org/wiki/H-IIA运载火箭)转换而来。
+
+
 [H-IIA-Launch-Vehicle.png](https://zh.wikipedia.org/wiki/File:H-IIA-Launch-Vehicle.png "fig:H-IIA-Launch-Vehicle.png") **H-IIA運載火箭**是由[日本](../Page/日本.md "wikilink")的[捆绑式兩級](https://zh.wikipedia.org/wiki/捆绑式火箭 "wikilink")[火箭](../Page/火箭.md "wikilink")，第一級與第二級火箭採用液態氫氧為燃料；火箭直徑 4 公尺，高度 53 公尺，是一具可擴充的發射系統依任務要求可安装不同數量的固態助推火箭。
 
 H-IIA可用於將衛星送至[地球同步衛星軌道的](https://zh.wikipedia.org/wiki/地球同步衛星軌道 "wikilink")[商業發射](https://zh.wikipedia.org/wiki/商業 "wikilink")，也可用於發射月球軌道探測器、行星間飛行的太空探測器或是[軍事情報衛星](https://zh.wikipedia.org/wiki/間諜衛星 "wikilink")；由[三菱重工業公司為](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")[宇宙航空研究開發機構](../Page/宇宙航空研究開發機構.md "wikilink")所建造，發射地點在[種子島宇宙中心](../Page/種子島宇宙中心.md "wikilink")。

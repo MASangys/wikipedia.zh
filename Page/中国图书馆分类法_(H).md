@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(H\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(H\))转换而来。
+> 本文内容由[中国图书馆分类法 \(H\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(H\))转换而来。
 
 
 ## 语言、文字

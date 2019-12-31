@@ -1,4 +1,4 @@
-> 本文内容由[Beep Media Player](https://zh.wikipedia.org/wiki/Beep Media Player)转换而来。
+> 本文内容由[Beep Media Player](https://zh.wikipedia.org/wiki/Beep_Media_Player)转换而来。
 
 
 **Beep Media Player** (**BMP**)是一個自由的音樂播放器，其建基於[XMMS](../Page/XMMS.md "wikilink")技術。BMP主要是將XMMS重寫成[GTK 2的介面](../Page/GTK.md "wikilink")+，並加強對[GNOME](../Page/GNOME.md "wikilink")桌面環境的整合。就如XMMS，BMP的外表極像[Winamp](../Page/Winamp.md "wikilink")，而且支援Winamp及XMMS的面板。BMP支援大部份XMMS支援的音訊檔案，而它們的輸入插件最主要的分別在於其在關於及設定的圖形介面。不過BMP不能直接使用全部XMMS的插件。

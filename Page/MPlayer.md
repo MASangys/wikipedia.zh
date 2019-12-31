@@ -1,3 +1,6 @@
+> 本文内容由[MPlayer](https://zh.wikipedia.org/wiki/MPlayer)转换而来。
+
+
 **MPlayer**是一款[開源的多媒體播放器](https://zh.wikipedia.org/wiki/開源 "wikilink")，以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")發佈。此款軟體可在各主流[作業系統使用](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，例如[Linux](../Page/Linux.md "wikilink")和其他[類Unix作業系統](https://zh.wikipedia.org/wiki/類Unix "wikilink")、[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows系統及蘋果電腦的](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac OS X系統](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。MPlayer是建基於[命令行界面](../Page/命令行界面.md "wikilink")，在各作業系統可選擇安裝不同的[圖形界面](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")。
 
 ## 开发

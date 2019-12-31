@@ -1,3 +1,6 @@
+> 本文内容由[G.222運輸機](https://zh.wikipedia.org/wiki/G.222運輸機)转换而来。
+
+
 Alenia的**G.222**為一種中型[短場起降軍用](https://zh.wikipedia.org/wiki/短場起降 "wikilink")[運輸機](../Page/運輸機.md "wikilink")。原本是為滿足[北約的要求而研發](https://zh.wikipedia.org/wiki/北約 "wikilink")，但最初只有[義大利一個北約成員國採用此機](https://zh.wikipedia.org/wiki/義大利 "wikilink")。但是該機架構在1990年代與[美國廠商合作改良](https://zh.wikipedia.org/wiki/美國 "wikilink")，成為[C-27J斯巴達人運輸機](https://zh.wikipedia.org/wiki/C-27J斯巴達人運輸機 "wikilink")，並得到國際市場的青睞。
 
 G.222設計採用了運輸機的常見構型：高單翼，雙[渦輪旋槳發動機](https://zh.wikipedia.org/wiki/渦輪發動機 "wikilink")，尾部跳板。其裝貨甲板的尺寸是為標準的[463L](https://zh.wikipedia.org/wiki/463L "wikilink") 貨盤而規劃；機艙底板設有一個供空投使用門；設有供醫療作業用的內置的輸氧系統；並在側門有為傘兵跳傘而設平台。

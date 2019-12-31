@@ -1,3 +1,6 @@
+> 本文内容由[戰鬥狂熱 J](https://zh.wikipedia.org/wiki/戰鬥狂熱_J)转换而来。
+
+
 《**戰鬥狂熱 J**》（原題：，港譯：萬國戰隊）是日本[東映](../Page/東映.md "wikilink")公司在1979年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第3部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")，1979年2月3日至1980年1月26日在[朝日電視台](../Page/朝日電視台.md "wikilink")於每週星期六18:00-18:30全52話播映。
 
 ## 故事概要

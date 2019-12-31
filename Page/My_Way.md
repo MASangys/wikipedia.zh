@@ -1,3 +1,6 @@
+> 本文内容由[My Way](https://zh.wikipedia.org/wiki/My_Way)转换而来。
+
+
 是一首[歐](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美著名](https://zh.wikipedia.org/wiki/美國 "wikilink")[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[流行曲](https://zh.wikipedia.org/wiki/流行曲 "wikilink")，[旋律源自](https://zh.wikipedia.org/wiki/旋律 "wikilink")[法國名曲](https://zh.wikipedia.org/wiki/法國 "wikilink")（""），法文原版由[克羅德·法蘭索瓦](https://zh.wikipedia.org/wiki/克羅德·法蘭索瓦 "wikilink")（）、[雅克·赫霍](https://zh.wikipedia.org/wiki/雅克·赫霍 "wikilink")（）及[吉爾·提伯](https://zh.wikipedia.org/wiki/吉爾·提伯 "wikilink")（）在1967年共同創作，隨後由[保羅·安卡](../Page/保羅·安卡.md "wikilink")（Paul Anka）改編成英文版，1969年首次收錄在[法蘭·仙納杜拉](../Page/法蘭·仙納杜拉.md "wikilink")（Frank Sinatra）同名大碟，自此風靡全球。這首歌不但成為仙納杜拉的代表作，在流行文化上亦常被用作為告別曲，表示一場表演的結束或一個人的離開。這亦是英國最受歡迎的[喪禮輓曲](https://zh.wikipedia.org/wiki/喪禮 "wikilink")。相比英文版哀傷的曲調，法文版的配樂則有憂傷、輕快、或搖滾版本。
 
 ## 內容

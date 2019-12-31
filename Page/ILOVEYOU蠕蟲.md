@@ -1,3 +1,6 @@
+> 本文内容由[ILOVEYOU蠕蟲](https://zh.wikipedia.org/wiki/ILOVEYOU蠕蟲)转换而来。
+
+
 **我愛你**（**ILOVEYOU**）蠕蟲，又稱**VBS/Loveletter**或**Love Bug worm**，是一個以[VBScript](../Page/VBScript.md "wikilink")撰寫的[電腦蠕蟲](../Page/電腦蠕蟲.md "wikilink")。
 
 ## 敘述

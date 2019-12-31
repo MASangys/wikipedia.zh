@@ -1,3 +1,6 @@
+> 本文内容由[Plastic Tree](https://zh.wikipedia.org/wiki/Plastic_Tree)转换而来。
+
+
 **Plastic Tree**是1993年組成的日本[視覺系](../Page/視覺系.md "wikilink")樂團，經紀公司為J-ROCK（AKATSUKI部屬），唱片公司為Victor Entertainment, Inc.。
 
 Plastic Tree的音樂演奏受到80年代的英式搖滾所影響，充滿文學感的歌詞以及浮游感的歌聲為其特色。 主要作曲為團長長谷川正，詞則為主唱有村龍太朗執筆，2002年開始吉他手ナカヤマ アキラ的作品也逐漸增加。

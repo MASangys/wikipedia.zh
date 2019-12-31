@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵N線](https://zh.wikipedia.org/wiki/紐約地鐵N線)转换而来。
+
+
 **N線百老匯快車**（），又稱**紐約地鐵N線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色\[1\]。
 
 N線在任何時候都營運，來往[阿斯托利亞的](../Page/阿斯托里亞_\(皇后區\).md "wikilink")[迪特馬斯林蔭路與](https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_\(BMT阿斯托利亞線\) "wikilink")[康尼島](../Page/康尼島.md "wikilink")的[斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT海灘線\) "wikilink")，有限度服務以[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街而不是迪特馬斯林蔭路](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")。平日日間服務在皇后區以慢車營運，在曼哈頓（[34街-先驅廣場至](https://zh.wikipedia.org/wiki/34街-先驅廣場車站_\(BMT百老匯線\) "wikilink")[堅尼街](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")）及布魯克林（[大西洋大道-巴克萊中心至](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(BMT第四大道線\) "wikilink")[59街](https://zh.wikipedia.org/wiki/59街車站_\(BMT第四大道線\) "wikilink")，通過[德卡爾布大道](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT第四大道線\) "wikilink")）以快車營運，途經[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")南側；平日曼哈頓慢車服務由[W線負責](../Page/紐約地鐵W線.md "wikilink")\[2\]。週末日間服務與平日日間服務相同，但曼哈頓[堅尼街以北以慢車而不是快車營運](https://zh.wikipedia.org/wiki/堅尼街車站_\(BMT百老匯線\) "wikilink")。每日深夜，列車停靠全線所有車站，途經。

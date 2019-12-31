@@ -1,3 +1,6 @@
+> 本文内容由[Corel](https://zh.wikipedia.org/wiki/Corel)转换而来。
+
+
 **科-{}-立爾數位科技**，英文名为**Corel**，中国大陆名为**科亿尔数码科技**（），是一間[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[軟件公司](https://zh.wikipedia.org/wiki/軟件 "wikilink")，總部在[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[渥太華](../Page/渥太華.md "wikilink")。主要产品包括[CorelDRAW](../Page/CorelDRAW.md "wikilink")、[绘画](../Page/绘画.md "wikilink")、[会声会影](https://zh.wikipedia.org/wiki/会声会影 "wikilink")、[PaintShop Photo](../Page/Corel_PaintShop_Pro.md "wikilink")、[WinZip](../Page/WinZip.md "wikilink")和[WordPerfect](../Page/WordPerfect.md "wikilink")等。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[RAEC蒙斯](https://zh.wikipedia.org/wiki/RAEC蒙斯)转换而来。
+
+
 **RAEC蒙斯**（**R.A.E.C. Mons**）是[比利时](../Page/比利时.md "wikilink")足球俱乐部，位于[蒙斯](https://zh.wikipedia.org/wiki/蒙斯 "wikilink")。球队现为[比利时足球甲级联赛](https://zh.wikipedia.org/wiki/比利时足球甲级联赛 "wikilink")，俱乐部是2005-06赛季比利时乙级联赛的冠军，从而升入甲级行列。球队主体育场为沙勒斯·通德劳球场（Stade Charles Tondreau）。
 
 ## 球队荣誉

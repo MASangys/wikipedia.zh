@@ -1,3 +1,6 @@
+> 本文内容由[道格拉斯DC-6](https://zh.wikipedia.org/wiki/道格拉斯DC-6)转换而来。
+
+
 **道格拉斯DC-6**是由[道格拉斯飞行器公司](../Page/道格拉斯飞行器公司.md "wikilink")在1946年到1958年间生产的一种[活塞动力商用客机](https://zh.wikipedia.org/wiki/活塞动力 "wikilink")／运输机。最初是为從事軍事運輸而设计的，但自[第二次世界大戰結束後](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，道格拉斯公司便将DC-6改為民航運輸，在中远程航线上對抗[洛克希德公司](../Page/洛克希德公司.md "wikilink")的[星座式飛機](https://zh.wikipedia.org/wiki/洛克希德星座式 "wikilink")。该型飞机一共生产了700余架，并且至今仍有一部分执行着货运，军事和森林火灾控制的任务。
 
 DC-6的[美国空军](../Page/美国空军.md "wikilink")军用型号是**C-118「举重霸王」**，[美国海军在](https://zh.wikipedia.org/wiki/美国海军 "wikilink")1962年和空军统一编号之前则称其为**R6D**。

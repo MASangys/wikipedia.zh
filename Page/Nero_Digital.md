@@ -1,4 +1,4 @@
-> 本文内容由[Nero Digital](https://zh.wikipedia.org/wiki/Nero Digital)转换而来。
+> 本文内容由[Nero Digital](https://zh.wikipedia.org/wiki/Nero_Digital)转换而来。
 
 
 **Nero Digital**是一套相容於[MPEG-4](../Page/MPEG-4.md "wikilink")的音訊、視訊壓縮編解碼技術軟體（[codec](https://zh.wikipedia.org/wiki/codec "wikilink")），這套軟體也整合了一套[DVD的抓截](https://zh.wikipedia.org/wiki/DVD "wikilink")（）工具軟體：Recode 2。Nero Digital是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Nero AG公司與](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[Ateme公司合作研發而成](https://zh.wikipedia.org/wiki/Ateme "wikilink")。Recode是Nero公司跨進DVD光碟備份市場的第一套軟體，這套軟體因易學易用易上手而獲得正面評價。

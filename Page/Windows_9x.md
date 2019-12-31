@@ -1,4 +1,4 @@
-> 本文内容由[Windows 9x](https://zh.wikipedia.org/wiki/Windows 9x)转换而来。
+> 本文内容由[Windows 9x](https://zh.wikipedia.org/wiki/Windows_9x)转换而来。
 
 
 **Windows 9x**是以[Windows 95](../Page/Windows_95.md "wikilink")[内核](../Page/内核.md "wikilink")作为蓝本的[微软](../Page/微软.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的通称。这包括了[Windows 95](../Page/Windows_95.md "wikilink")、[Windows 98的所有版本](../Page/Windows_98.md "wikilink")，以及2000年发布的[Windows Me](../Page/Windows_Me.md "wikilink")。\[1\]

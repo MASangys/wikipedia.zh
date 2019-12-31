@@ -1,3 +1,6 @@
+> 本文内容由[MADtv](https://zh.wikipedia.org/wiki/MADtv)转换而来。
+
+
 **MADtv** （[中文翻譯](https://zh.wikipedia.org/wiki/中文 "wikilink")：瘋電視）是[幽默](../Page/幽默.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")[MAD為基礎的](../Page/瘋狂雜誌.md "wikilink")[喜劇](../Page/喜劇.md "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，於[FOX播放](https://zh.wikipedia.org/wiki/FOX "wikilink")。MADtv經常以惡搞出現，例如惡搞蘋果公司等。該節目在1995年10月14日首次於電視廣播。2009年5月16日為它的最後一集。
 
 ## 外部連結

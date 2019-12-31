@@ -1,3 +1,6 @@
+> 本文内容由[De jure](https://zh.wikipedia.org/wiki/De_jure)转换而来。
+
+
 **按照法律的**（，），是[拉丁語中的法律用语](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")，意思是：「按照法律的」、「法理上」、或「原则上」，與*[de facto](https://zh.wikipedia.org/wiki/de_facto "wikilink")*（实務上）相對。\[1\]此用語用來表達法律上規定的情況，尤其是雖有規定但實際上並非如此的情況。
 
 雖然De Jure是法律用語，但有時候也會在法律以外的語境下使用。\[2\]此詞使用時絕大多數時候都會與de facto並列，以突出理想與現實的差別。此詞語通常以形容詞方式使用、以斜體字書寫。\[3\]

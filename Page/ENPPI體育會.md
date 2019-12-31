@@ -1,3 +1,6 @@
+> 本文内容由[ENPPI體育會](https://zh.wikipedia.org/wiki/ENPPI體育會)转换而来。
+
+
 **ENPPI體育會**（，简称：**ENPPI**）是一家位于[埃及](../Page/埃及.md "wikilink")[开罗](../Page/开罗.md "wikilink")的职业足球俱乐部。
 
 ## 球队荣誉

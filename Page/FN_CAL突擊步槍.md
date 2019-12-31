@@ -1,3 +1,6 @@
+> 本文内容由[FN CAL突擊步槍](https://zh.wikipedia.org/wiki/FN_CAL突擊步槍)转换而来。
+
+
 **FN CAL**（Carabine Automatique Légère）是[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale設計及生產的](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，亦是FN的首種[5.56毫米](../Page/5.56×45mm_NATO.md "wikilink")[小口徑步槍](https://zh.wikipedia.org/wiki/小口徑步槍 "wikilink")。
 
 ## 設計及相關

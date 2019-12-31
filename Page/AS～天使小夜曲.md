@@ -1,3 +1,6 @@
+> 本文内容由[AS～天使小夜曲](https://zh.wikipedia.org/wiki/AS～天使小夜曲)转换而来。
+
+
 《**AS～天使小夜曲**》是日本[工畫堂工作室](../Page/工畫堂工作室.md "wikilink")（）繼《[天使演唱會](../Page/天使演唱會.md "wikilink")》（）後所發行的[音樂](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。
 
 故事發生在和天使演唱會相同的世界。玩家為了尋找他失去了的[記憶](../Page/記憶.md "wikilink")，帶著身上的天使羽毛來到地之國的一個邊境城鎮。

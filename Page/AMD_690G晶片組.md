@@ -1,3 +1,6 @@
+> 本文内容由[AMD 690G晶片組](https://zh.wikipedia.org/wiki/AMD_690G晶片組)转换而来。
+
+
 **AMD 690G**晶片組（代號RS690）是由[ATi設計的](https://zh.wikipedia.org/wiki/ATi "wikilink")[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")、[INTEL雙平台整合型晶元組](https://zh.wikipedia.org/wiki/INTEL "wikilink")。它是AMD收購ATI後所推出的第一個晶元組，其AMD,INTEL平臺名稱分別叫做**690G**和**RS600**。它內建了Radeon X1250顯示核心。該顯示核心是建基於Radeon X700，但只有四條像素流水線。影像方面，它支援[AVIVO優化視訊播放](https://zh.wikipedia.org/wiki/AVIVO "wikilink")。它是業界首款晶元組同時支援[HDCP](../Page/HDCP.md "wikilink")和[HDMI](../Page/HDMI.md "wikilink")影像輸出。除此之外，它更取得Vista Premium認證。
 
 ## 晶片組規格

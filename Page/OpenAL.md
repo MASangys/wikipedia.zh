@@ -1,3 +1,6 @@
+> 本文内容由[OpenAL](https://zh.wikipedia.org/wiki/OpenAL)转换而来。
+
+
 **OpenAL**（**Open A**udio **L**ibrary）是[自由軟體界的跨平台音效](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")。它設計給多通道三維位置音效的特效表現。其API風格模仿自[OpenGL](../Page/OpenGL.md "wikilink")。
 
 ## 歷史

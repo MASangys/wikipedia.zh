@@ -1,3 +1,6 @@
+> 本文内容由[NEEKO](https://zh.wikipedia.org/wiki/NEEKO)转换而来。
+
+
 **NEEKO**（、），本名**西萩五十鈴**，[日本](../Page/日本.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")及[聲優](../Page/聲優.md "wikilink")，[Smile Maker所屬](https://zh.wikipedia.org/wiki/Smile_Maker "wikilink")，[兵庫縣出身](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。於2015年2月在自己的部落格上發表已經結婚並懷孕的訊息，同年的8月2日長男出生。
 
 ## 演出作品

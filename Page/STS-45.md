@@ -1,3 +1,6 @@
+> 本文内容由[STS-45](https://zh.wikipedia.org/wiki/STS-45)转换而来。
+
+
 ****是历史上第四十六次航天飞机任务，也是[亚特兰蒂斯号航天飞机的第十一次太空飞行](https://zh.wikipedia.org/wiki/亞特蘭提斯號太空梭 "wikilink")。
 
 ## 任务成员

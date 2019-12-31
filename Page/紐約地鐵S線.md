@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵S線](https://zh.wikipedia.org/wiki/紐約地鐵S線)转换而来。
+
+
 <div class="thumb tright" style="width:auto;">
 
 [近年由淺灰換成深黑色](https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-S.svg "fig:近年由淺灰換成深黑色")

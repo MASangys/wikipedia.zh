@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(Q\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(Q\))转换而来。
+> 本文内容由[中国图书馆分类法 \(Q\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(Q\))转换而来。
 
 
 ## 生物科学

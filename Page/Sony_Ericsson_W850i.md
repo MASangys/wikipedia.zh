@@ -1,4 +1,4 @@
-> 本文内容由[Sony Ericsson W850i](https://zh.wikipedia.org/wiki/Sony Ericsson W850i)转换而来。
+> 本文内容由[Sony Ericsson W850i](https://zh.wikipedia.org/wiki/Sony_Ericsson_W850i)转换而来。
 
 
 **Sony Ericsson W850i**為[索尼愛立信於](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")2006年10月推出的第二部[Walkman](../Page/Walkman.md "wikilink")[3G](../Page/3G.md "wikilink")音樂手提電話，設有黑白兩種顏色。此外更備有200萬像素相機功能。長方形搭配四周圓弧設計，看起來簡單有形。此機種也是索愛第一款滑蓋式手機。

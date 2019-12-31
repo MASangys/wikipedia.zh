@@ -1,3 +1,6 @@
+> 本文内容由[歐樂B](https://zh.wikipedia.org/wiki/歐樂B)转换而来。
+
+
 **歐樂B**（）是一個口腔護理品牌，产品包括[牙刷](../Page/牙刷.md "wikilink")、[牙膏](https://zh.wikipedia.org/wiki/牙膏 "wikilink")、[漱口水](../Page/漱口水.md "wikilink")和[牙線](../Page/牙線.md "wikilink")。
 
 ## 歷史

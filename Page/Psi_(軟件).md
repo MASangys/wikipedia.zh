@@ -1,4 +1,4 @@
-> 本文内容由[Psi \(軟件\)](https://zh.wikipedia.org/wiki/Psi \(軟件\))转换而来。
+> 本文内容由[Psi \(軟件\)](https://zh.wikipedia.org/wiki/Psi_\(軟件\))转换而来。
 
 
 **Psi**是一款[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")（[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink")）网络协议的即时通讯软件，使用了[Qt](../Page/Qt.md "wikilink")函式庫，遵照[GNU GPL进行发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，可以在多種操作系统下运行，比如[GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")、[MS Windows](https://zh.wikipedia.org/wiki/MS_Windows "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。

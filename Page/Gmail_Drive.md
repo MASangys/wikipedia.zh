@@ -1,4 +1,4 @@
-> 本文内容由[Gmail Drive](https://zh.wikipedia.org/wiki/Gmail Drive)转换而来。
+> 本文内容由[Gmail Drive](https://zh.wikipedia.org/wiki/Gmail_Drive)转换而来。
 
 
 [GMailDriveScreenCapture.png](https://zh.wikipedia.org/wiki/File:GMailDriveScreenCapture.png "fig:GMailDriveScreenCapture.png")

@@ -1,3 +1,6 @@
+> 本文内容由[Bencode](https://zh.wikipedia.org/wiki/Bencode)转换而来。
+
+
 **Bencode**（發音為Bee-Encode）是[BitTorrent用在傳輸資料結構的編碼方式](https://zh.wikipedia.org/wiki/BitTorrent_\(協定\) "wikilink")。這種編碼方式支援四種資料型態：
 
   - [字符串](../Page/字符串.md "wikilink")

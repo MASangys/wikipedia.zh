@@ -1,3 +1,6 @@
+> 本文内容由[She Came Home For Christmas \(2002年单曲\)](https://zh.wikipedia.org/wiki/She_Came_Home_For_Christmas_\(2002年单曲\))转换而来。
+
+
 **She Came Home For Christmas**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")於2002年所發行的單曲，出自2003年的專輯《[Frengers](../Page/Frengers.md "wikilink")》。
 
 這是{{〈}}She Came Home For Christmas{{〉}}一曲的第三次單曲發行，但收錄的版本與前兩次不同，而是使用《[Frengers](../Page/Frengers.md "wikilink")》的專輯版本。

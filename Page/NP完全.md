@@ -1,3 +1,6 @@
+> 本文内容由[NP完全](https://zh.wikipedia.org/wiki/NP完全)转换而来。
+
+
 **NP完全**或**NP完備**（**NP-Complete**，縮寫為**NP-C**或**NPC**），是[計算複雜度理論中](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，[決定性問題](../Page/決定性問題.md "wikilink")的等級之一。NP完备是[NP与](../Page/NP_\(複雜度\).md "wikilink")[NP困难](../Page/NP困难.md "wikilink")的[交集](../Page/交集.md "wikilink")，是NP中最難的[決定性問題](../Page/決定性問題.md "wikilink")。因此NP完備問題應該是最不可能被化簡為[P](../Page/P_\(複雜度\).md "wikilink")（多項式時間可決定）的決定性問題的集合。若**任何**NPC問題得到多項式時間的解法，那此解法就可應用在所有NP問題上。更詳細的定義容下敘述。
 
 一個NPC問題的例子是[子集合加總問題](https://zh.wikipedia.org/wiki/子集合加總問題 "wikilink")，題目為

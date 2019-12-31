@@ -1,3 +1,6 @@
+> 本文内容由[西日本JR巴士](https://zh.wikipedia.org/wiki/西日本JR巴士)转换而来。
+
+
 **西日本JR巴士**（）是由[JR西日本全資持有負責經營](../Page/西日本旅客鐵道.md "wikilink")[巴士業務的公司](https://zh.wikipedia.org/wiki/巴士 "wikilink")。總社在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[此花區](../Page/此花區.md "wikilink")北港一丁目3番23號。營業區域為[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")、[岡山縣](../Page/岡山縣.md "wikilink")、[廣島縣](../Page/廣島縣.md "wikilink")、[山口縣以外的JR西日本轄區](https://zh.wikipedia.org/wiki/山口縣 "wikilink")。
 
 ## 历史

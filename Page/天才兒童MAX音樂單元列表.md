@@ -1,3 +1,6 @@
+> 本文内容由[天才兒童MAX音樂單元列表](https://zh.wikipedia.org/wiki/天才兒童MAX音樂單元列表)转换而来。
+
+
 **天才兒童MAX音樂單元一覽**（Music TV Kun），是介紹[天才兒童](https://zh.wikipedia.org/wiki/天才兒童 "wikilink")、[天才兒童WIDE](https://zh.wikipedia.org/wiki/天才兒童WIDE "wikilink")、[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")內播出過的音樂單元之一覽表。
 
 **音樂TV君**（**ミュージックてれびくん**）是[日本](../Page/日本.md "wikilink")[NHK教育台針對兒童與青少年所播放的](https://zh.wikipedia.org/wiki/NHK教育台 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")『[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")(天才てれびくんMAX)』中、由1998年開始一直播出到現在的受歡迎單元。簡稱為MTK。

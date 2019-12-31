@@ -1,3 +1,6 @@
+> 本文内容由[TBS週四9時連續劇](https://zh.wikipedia.org/wiki/TBS週四9時連續劇)转换而来。
+
+
 **TBS週四9時連續劇**是[TBS電視台](../Page/TBS電視台.md "wikilink")每逢星期四的21:00到21:54播出的[電視連續劇時段](https://zh.wikipedia.org/wiki/:ja:ドラマ "wikilink")。[電視連續劇時段於](https://zh.wikipedia.org/wiki/:ja:ドラマ "wikilink")2009年3月26日[冷暖人間第九季的大結局播出後](https://zh.wikipedia.org/wiki/:ja:渡る世間は鬼ばかり "wikilink")，正式廢止。此時段共播放了35個TBS制作的連續劇。
 
 ## 概要

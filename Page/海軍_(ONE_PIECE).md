@@ -1,3 +1,6 @@
+> 本文内容由[海軍 \(ONE PIECE\)](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\))转换而来。
+
+
 **海軍**是指[尾田榮一郎的漫畫作品以及](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》內所登場的虛構海上[軍隊](../Page/軍隊.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Vivo](https://zh.wikipedia.org/wiki/Vivo)转换而来。
+
+
 **維沃移動通-{}-信有限公司**（通称：**vivo**）中国科技公司，為一行動裝置開發公司，隸屬於[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[步步高電子集團](https://zh.wikipedia.org/wiki/步步高電子 "wikilink")\[1\]。vivo原是步步高電子的開發行動裝置部門，負責手機業務。
 
 ## 事件

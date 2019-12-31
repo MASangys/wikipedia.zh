@@ -1,3 +1,6 @@
+> 本文内容由[AQUAPLUS](https://zh.wikipedia.org/wiki/AQUAPLUS)转换而来。
+
+
 ****（**），是一家生產發售[電子遊戲的公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。旗下有[Leaf](../Page/Leaf.md "wikilink")品牌，專責[十八禁遊戲的開發販售](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")；一般向遊戲則使用**AQUAPLUS**品牌行銷。除本業外，還跨足經營[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")、[飲食](https://zh.wikipedia.org/wiki/飲食 "wikilink")（僅為[加盟](https://zh.wikipedia.org/wiki/加盟 "wikilink")）等相關行業。2013年9月20日，成為梦之空（）的全資子公司。
 
 ## 事業概況

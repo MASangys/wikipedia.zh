@@ -1,3 +1,6 @@
+> 本文内容由[Lighttpd](https://zh.wikipedia.org/wiki/Lighttpd)转换而来。
+
+
 **lighttpd**（读作lighty）\[1\] 是一款以[BSD許可證](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")[开源的](../Page/开放源代码.md "wikilink")[網頁伺服器](../Page/網頁伺服器.md "wikilink")，在确保兼容常见标准、安全性及灵活性的情况下专为需要处理速度的环境优化。此软件起初为扬·克内施克对（如何同时并行处理10000条连接的问题）的[概念验证](https://zh.wikipedia.org/wiki/概念验证 "wikilink")，但随后受到了大众欢迎。\[2\]其名称是“light”（轻量）与[httpd的](https://zh.wikipedia.org/wiki/httpd "wikilink")[混成詞](../Page/混成詞.md "wikilink")。相較於其他的網頁伺服器，lighttpd僅需少量的内存及[CPU資源即可達到同樣的效能](../Page/中央处理器.md "wikilink")。
 
 ## 前言

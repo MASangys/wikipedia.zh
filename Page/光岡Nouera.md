@@ -1,3 +1,6 @@
+> 本文内容由[光岡Nouera](https://zh.wikipedia.org/wiki/光岡Nouera)转换而来。
+
+
 **Nouera**（****）為[光岡汽車](../Page/光岡汽車.md "wikilink")所推出的仿古典作品車輛。車輛設計以[捷豹汽車](https://zh.wikipedia.org/wiki/捷豹汽車 "wikilink") XK150為藍本。
 
 ## 車輛歷史

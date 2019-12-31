@@ -1,3 +1,6 @@
+> 本文内容由[3hreeSixty](https://zh.wikipedia.org/wiki/3hreeSixty)转换而来。
+
+
 [Threesixtyhk_logo.jpg](https://zh.wikipedia.org/wiki/File:Threesixtyhk_logo.jpg "fig:Threesixtyhk_logo.jpg") [3hreeSixty_Elements_Interior_201709.jpg](https://zh.wikipedia.org/wiki/File:3hreeSixty_Elements_Interior_201709.jpg "fig:3hreeSixty_Elements_Interior_201709.jpg")旗艦店在2017年翻新後以白色作主調\]\] [3hreeSixty.jpg](https://zh.wikipedia.org/wiki/File:3hreeSixty.jpg "fig:3hreeSixty.jpg")分店\]\] [ThreeSixty_Supermarket_Elements.jpg](https://zh.wikipedia.org/wiki/File:ThreeSixty_Supermarket_Elements.jpg "fig:ThreeSixty_Supermarket_Elements.jpg")
 
 **3hreeSixty**（讀作「ThreeSixty」，前稱**ThreeSixty**），是[怡和集團旗下](https://zh.wikipedia.org/wiki/怡和集團 "wikilink")[牛奶公司擁有的](https://zh.wikipedia.org/wiki/牛奶公司 "wikilink")[超級市場](../Page/超級市場.md "wikilink")及[美食廣場](../Page/美食廣場.md "wikilink")，主要出售及提供[有機食品](../Page/有機食品.md "wikilink")，是全[亞洲首間以全有機食品為主題的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[超級市場](../Page/超級市場.md "wikilink")，主要顧客對象是[中產階層人士](https://zh.wikipedia.org/wiki/中產階層 "wikilink")。此外，該超市為支持[環保及](https://zh.wikipedia.org/wiki/環保 "wikilink")[可持續發展](https://zh.wikipedia.org/wiki/可持續發展 "wikilink")，減低對地球的破壞，，更是全港首個無[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[膠袋超市](https://zh.wikipedia.org/wiki/膠袋 "wikilink")。

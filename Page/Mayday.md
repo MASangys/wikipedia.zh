@@ -1,3 +1,6 @@
+> 本文内容由[Mayday](https://zh.wikipedia.org/wiki/Mayday)转换而来。
+
+
 ****是國際通用的[無線電通話](https://zh.wikipedia.org/wiki/無線電 "wikilink")。該訊號通常為[航海](https://zh.wikipedia.org/wiki/航海 "wikilink")、[航空](../Page/航空.md "wikilink")器遇到危及性命的緊急情況時呼救所用，但個別地區的[警察](../Page/警察.md "wikilink")、[消防](../Page/消防員.md "wikilink")、[交通](../Page/交通.md "wikilink")相關人員亦以此作為求援訊號。發出訊號時必須連呼三次（“Mayday, Mayday, Mayday”）避免誤聽、混淆或噪音干擾等情況，以及將真正的求援訊號與其他只是字面上描述到求援訊號的正常通訊作出區分。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Essjay事件](https://zh.wikipedia.org/wiki/Essjay事件)转换而来。
+
+
 [Essjay.jpg](https://zh.wikipedia.org/wiki/File:Essjay.jpg "fig:Essjay.jpg")
 
 **Essjay事件**（**Essjay controversy**）是[英文維基百科於](https://zh.wikipedia.org/wiki/英文維基百科 "wikilink")2007年2月下旬爆發的醜聞，再次引起外界質疑維基百科內容的可靠性。

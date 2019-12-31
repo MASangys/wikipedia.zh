@@ -1,3 +1,6 @@
+> 本文内容由[STS-48](https://zh.wikipedia.org/wiki/STS-48)转换而来。
+
+
 ****是历史上第四十三次航天飞机任务，也是[发现号航天飞机的第十三次太空飞行](https://zh.wikipedia.org/wiki/發現號太空梭 "wikilink")。此次任务的主要载重是[高层大气研究卫星](../Page/高层大气研究卫星.md "wikilink")（UARS）。
 
 ## 任务成员

@@ -1,3 +1,6 @@
+> 本文内容由[MapKing](https://zh.wikipedia.org/wiki/MapKing)转换而来。
+
+
 [MapKing_logo.jpg](https://zh.wikipedia.org/wiki/File:MapKing_logo.jpg "fig:MapKing_logo.jpg") **MapKing** 是以亞太地區為主攻市場的[智慧城市](../Page/智慧城市.md "wikilink")服務公司。以[導航和](https://zh.wikipedia.org/wiki/導航 "wikilink")[電子地圖產品打出品牌](https://zh.wikipedia.org/wiki/電子地圖 "wikilink")。MapKing創業期是專業的地理訊息系統 [(Geographic Information System)服務公司](https://zh.wikipedia.org/wiki/\(Geographic_Information_System\) "wikilink")，後以附有[全球衛星定位系統](https://zh.wikipedia.org/wiki/全球衛星定位系統 "wikilink")（Global Positioning System，簡稱GPS）的[智能手機及](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[電子手帳的隨機贈送軟件而廣為人知](https://zh.wikipedia.org/wiki/電子手帳 "wikilink")。近年主力從事[智慧城市](../Page/智慧城市.md "wikilink")、[智能交通](https://zh.wikipedia.org/wiki/智能交通 "wikilink")、[車聯網及](https://zh.wikipedia.org/wiki/車聯網 "wikilink")[車隊管理業務](https://zh.wikipedia.org/wiki/車隊管理 "wikilink")，開始[人功智能及](https://zh.wikipedia.org/wiki/人功智能 "wikilink")[無人駕駛研發](https://zh.wikipedia.org/wiki/無人駕駛 "wikilink")。
 
 MapKing（國圖顧問有限公司，[1](http://www.MapKing.com)）亦是[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、Google[谷哥地圖及百度的資料供應商](https://zh.wikipedia.org/wiki/谷哥地圖 "wikilink")，及為亞洲區域的電訊公司、地鐵公司、物流車隊、的士公司等中大型機構提供相關服務。MapKing曾得到《Smartphone and Pocket PC Magazine》2006最佳旅遊類別軟體提名。\[1\]MapKing也曾得到《香港無間斷城市》2008軟體獎項。

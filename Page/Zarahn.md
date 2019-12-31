@@ -1,3 +1,6 @@
+> 本文内容由[Zarahn](https://zh.wikipedia.org/wiki/Zarahn)转换而来。
+
+
 **Zarahn**，[香港](../Page/香港.md "wikilink")流行搖滾[樂隊](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。他們於1995年在[紐西蘭成立](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，成員包括主音兼[結他手](https://zh.wikipedia.org/wiki/結他 "wikilink")[周國賢](../Page/周國賢.md "wikilink")、[結他手](https://zh.wikipedia.org/wiki/結他 "wikilink")[黃曉暉](https://zh.wikipedia.org/wiki/黃曉暉 "wikilink")（Goro，高佬）、[低音結他手兼](https://zh.wikipedia.org/wiki/低音結他 "wikilink")[主音](../Page/主音.md "wikilink")[貝祖貽](https://zh.wikipedia.org/wiki/貝祖貽\(音樂人\) "wikilink")（Joey E-Pui，大J）以及[鼓](../Page/鼓.md "wikilink")手[貝祖銘](https://zh.wikipedia.org/wiki/貝祖銘 "wikilink")（Jerry，細J，貝祖貽之胞弟）。樂團名「Zarahn」是來自於周國賢和[黃曉暉](https://zh.wikipedia.org/wiki/黃曉暉 "wikilink")[結他老師的名字](https://zh.wikipedia.org/wiki/結他 "wikilink")。
 
 ## 樂隊發展

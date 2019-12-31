@@ -1,3 +1,6 @@
+> 本文内容由[VF-1女武神](https://zh.wikipedia.org/wiki/VF-1女武神)转换而来。
+
+
 |                             洛克威爾／貝爾VF-1女武神                             |
 | :--------------------------------------------------------------------: |
 | [VF1S.gif](https://zh.wikipedia.org/wiki/File:VF1S.gif "fig:VF1S.gif") |

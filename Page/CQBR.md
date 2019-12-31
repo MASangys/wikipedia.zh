@@ -1,3 +1,6 @@
+> 本文内容由[CQBR](https://zh.wikipedia.org/wiki/CQBR)转换而来。
+
+
 **近战机匣**（**Close Quarters Battle Receiver (CQBR)**），[美軍定名為](https://zh.wikipedia.org/wiki/美軍 "wikilink")**Mk 18 Mod 0**，亦被暱稱為**近戰步槍**。
 
 CQBR是以更換[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")上[機匣及短槍管的近战步槍](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍管只有10.3英寸（260毫米），可算是現代化版本的[Colt Commando](https://zh.wikipedia.org/wiki/Colt_Commando "wikilink")，CQBR於2000年正式裝備[美国海军的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[特种部队](https://zh.wikipedia.org/wiki/特种部队 "wikilink")。

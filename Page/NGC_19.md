@@ -1,4 +1,4 @@
-> 本文内容由[NGC 19](https://zh.wikipedia.org/wiki/NGC 19)转换而来。
+> 本文内容由[NGC 19](https://zh.wikipedia.org/wiki/NGC_19)转换而来。
 
 
 **NGC 19**是[仙女座](../Page/仙女座.md "wikilink")的一個[漩渦星系](https://zh.wikipedia.org/wiki/漩渦星系 "wikilink")。[星等](../Page/星等.md "wikilink")為13.3，[赤經為](https://zh.wikipedia.org/wiki/赤經 "wikilink")10分40.8秒，[赤緯為](https://zh.wikipedia.org/wiki/赤緯 "wikilink")+32°58'58"。在1885年9月20日首次被發現。

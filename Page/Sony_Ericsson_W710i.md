@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson W710i](https://zh.wikipedia.org/wiki/Sony_Ericsson_W710i)转换而来。
+
+
 **Sony Ericsson W710i**為[Sony Ericsson於](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")2006年10月20日所推出的行動電話，內建200萬畫素相機。此機種除了強調W系列的音樂功能外。還是專為了運動家所設計的，與[Z710i為雙胞胎機](https://zh.wikipedia.org/wiki/Sony_Ericsson_Z710i "wikilink")，而與[Nokia 5500 Sport為競爭對手](https://zh.wikipedia.org/wiki/Nokia_5500_Sport "wikilink")。
 
 W710i是[Walkman](../Page/Walkman.md "wikilink")系列手機繼繼[W300i後第二款摺疊機種](https://zh.wikipedia.org/wiki/Sony_Ericsson_W300i "wikilink")，與[W700i的型號相近](https://zh.wikipedia.org/wiki/Sony_Ericsson_W700i "wikilink")，會讓人誤以為是W700i的小改款，其實不是，W710i外觀走年輕運動風，連內建功能都以此為主。

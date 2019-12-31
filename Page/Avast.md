@@ -1,3 +1,6 @@
+> 本文内容由[Avast](https://zh.wikipedia.org/wiki/Avast)转换而来。
+
+
 ****是位於[捷克](../Page/捷克.md "wikilink")[布拉格](../Page/布拉格.md "wikilink")的（舊稱ALWIL Software a.s.\[1\]）於1988年首次發行的[防毒](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")[軟體](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")，軟體名取自「Anti-Virus-Advanced-Set」，即“高級防毒軟體”。\[2\]其中央掃描引擎成功通過了[ICSA實驗室](https://zh.wikipedia.org/wiki/ICSA實驗室 "wikilink")[認證以及西海岸實驗室的測試過程](https://zh.wikipedia.org/wiki/認證 "wikilink")，\[3\]軟體亦結合有反[間諜軟體功能](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")、反[Rootkit](../Page/Rootkit.md "wikilink")功能以及自我保護能力。截至2009年12月10日，已有一億用户註冊使用；至2010年9月，全球注册人数超过一億三千萬人次。\[4\]软件中文名有「艾維斯特」\[5\]、“愛維士”\[6\]及[昵称](https://zh.wikipedia.org/wiki/昵称 "wikilink")“小a”（“大A”对应[AVG Anti-Virus](https://zh.wikipedia.org/wiki/AVG_Anti-Virus "wikilink")，已于2016年9月被avast公司[并购](https://zh.wikipedia.org/wiki/并购 "wikilink")\[7\]）。
 
 avast\!分成家用用途的[免費版本以及企業和專業用戶的付費版本](../Page/免費軟體.md "wikilink")。其中免費版本的avast\!可安裝於[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")用戶，\[8\] 因此許多使用者經常將此與[AVG杀毒软件和](https://zh.wikipedia.org/wiki/AVG杀毒软件 "wikilink")[Avira AntiVir的免費版本作比較](https://zh.wikipedia.org/wiki/Avira_AntiVir "wikilink")。付費版本的avast\!分为企业版和家庭版，擁有其他免費版所沒有的附加功能，包括能較早更新程式檔、以命令來執行掃描等，但現在免費版也提供[腳本攔截器](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")。\[9\]

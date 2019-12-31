@@ -1,3 +1,6 @@
+> 本文内容由[Z计划](https://zh.wikipedia.org/wiki/Z计划)转换而来。
+
+
 **Z计划**（德文：Z-Plan）是一個[德国](../Page/德国.md "wikilink")海军的造艦發展計畫，該計畫預計自1935年開始，大幅度翻新和重建該國在海上的軍事力量。 [Bundesarchiv_DVM_10_Bild-23-63-64,_Panzerschiff_"Admiral_Scheer".jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_DVM_10_Bild-23-63-64,_Panzerschiff_"Admiral_Scheer".jpg "fig:Bundesarchiv_DVM_10_Bild-23-63-64,_Panzerschiff_\"Admiral_Scheer\".jpg")希爾上將号於1934年大西洋上\]\] [Bundesarchiv_Bild_183-2008-0421-500,_Panzerschiff_"Deutschland",_Adolf_Hitler.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-2008-0421-500,_Panzerschiff_"Deutschland",_Adolf_Hitler.jpg "fig:Bundesarchiv_Bild_183-2008-0421-500,_Panzerschiff_\"Deutschland\",_Adolf_Hitler.jpg")所用的28cm主砲\]\] [Graf-Zeppelin-1.jpg](https://zh.wikipedia.org/wiki/File:Graf-Zeppelin-1.jpg "fig:Graf-Zeppelin-1.jpg")是德國唯一一艘曾經下水過的航母\]\] [PE_Panama_Kanal_1946.png](https://zh.wikipedia.org/wiki/File:PE_Panama_Kanal_1946.png "fig:PE_Panama_Kanal_1946.png")是Z計畫中船艦類少數被真正造出的戰艦\]\]
 
 ## 一战之后

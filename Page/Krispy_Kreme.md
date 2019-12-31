@@ -1,3 +1,6 @@
+> 本文内容由[Krispy Kreme](https://zh.wikipedia.org/wiki/Krispy_Kreme)转换而来。
+
+
 [HK_Central_Elgin_Street.JPG](https://zh.wikipedia.org/wiki/File:HK_Central_Elgin_Street.JPG "fig:HK_Central_Elgin_Street.JPG") **Krispy Kreme**是[美國一間](https://zh.wikipedia.org/wiki/美國 "wikilink")[甜甜圈](../Page/甜甜圈.md "wikilink")大型[連鎖店](../Page/連鎖店.md "wikilink")，也是美國第二大甜甜圈食品店。其[母公司是位在歐洲](https://zh.wikipedia.org/wiki/母公司 "wikilink")[盧森堡的JAB](https://zh.wikipedia.org/wiki/盧森堡 "wikilink") Holdings. Krispy Kreme創立於1937年美國[北卡羅萊納](https://zh.wikipedia.org/wiki/北卡羅萊納 "wikilink")[溫斯頓-賽倫](https://zh.wikipedia.org/wiki/溫斯頓-賽倫_\(北卡羅萊納州\) "wikilink")，也是公司總部位置。
 
 ## 歷史

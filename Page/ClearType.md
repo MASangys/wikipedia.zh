@@ -1,3 +1,6 @@
+> 本文内容由[ClearType](https://zh.wikipedia.org/wiki/ClearType)转换而来。
+
+
 [ClearTypeLine.PNG](https://zh.wikipedia.org/wiki/File:ClearTypeLine.PNG "fig:ClearTypeLine.PNG")線；3和4分別為1和2的四倍放大圖；5是1實際顯示在液晶顯示器上的放大示意圖。如圖所示，ClearType充分利用LCD色條排列特性，顯示出更為完美的斜線。\]\]
 
 **ClearType**，由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[微軟公司在其](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[视窗](https://zh.wikipedia.org/wiki/视窗 "wikilink")[操作系统](../Page/操作系统.md "wikilink")中提供的螢幕[亚像素微调](https://zh.wikipedia.org/wiki/亚像素微调 "wikilink")[字體平滑工具](https://zh.wikipedia.org/wiki/字體平滑 "wikilink")，讓Windows字體更加漂亮。ClearType主要是針對LCD[液晶顯示器設計](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")，可提高文字的清晰度。基本原理是，将显示器的R, G, B各个次像素也发光，让其色调进行微妙调整，可以达到实际分辨率以上（横方向分辨率的三倍）的纤细文字的显示效果。

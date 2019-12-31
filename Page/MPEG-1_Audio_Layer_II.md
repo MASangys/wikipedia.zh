@@ -1,3 +1,6 @@
+> 本文内容由[MPEG-1 Audio Layer II](https://zh.wikipedia.org/wiki/MPEG-1_Audio_Layer_II)转换而来。
+
+
 **MPEG-1 Audio Layer II**（有時簡稱**MP2**）是ISO/IEC 11172-3（[MPEG-1](../Page/MPEG-1.md "wikilink")音訊部份）中訂立之[有損性](../Page/有损数据压缩.md "wikilink")[音訊壓縮格式](https://zh.wikipedia.org/wiki/音訊壓縮 "wikilink")。此標準還制訂了[MPEG-1 Audio Layer I](https://zh.wikipedia.org/wiki/MPEG-1_Audio_Layer_I "wikilink")（MP1）和[MPEG-1 Audio Layer III](../Page/MP3.md "wikilink")（MP3）。個人電腦和互聯網音樂流行MP3，MP2則多用於廣播。
 
 ## 技術規格

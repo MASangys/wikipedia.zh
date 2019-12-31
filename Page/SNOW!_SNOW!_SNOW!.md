@@ -1,3 +1,6 @@
+> 本文内容由[SNOW! SNOW! SNOW!](https://zh.wikipedia.org/wiki/SNOW!_SNOW!_SNOW!)转换而来。
+
+
 《**SNOW\! SNOW\! SNOW\!**》，[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2005年12月21日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 简介

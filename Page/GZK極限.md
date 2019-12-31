@@ -1,3 +1,6 @@
+> 本文内容由[GZK極限](https://zh.wikipedia.org/wiki/GZK極限)转换而来。
+
+
 **GZK極限**，是以提出者<u>G</u>reisen、<u>Z</u>atsepin、<u>K</u>uzmin三人姓氏之首字母為名的理論上限，描述源自遠處的[宇宙射線應有的理論上限值](https://zh.wikipedia.org/wiki/宇宙射線 "wikilink")。
 
 這項極限是在1966年由Kenneth Greisen、Vadim Kuzmin與Georgiy Zatsepin三人所計算，其基礎為[宇宙微波背景輻射與宇宙射線的預期交互作用](https://zh.wikipedia.org/wiki/宇宙微波背景輻射 "wikilink")。預測中指出宇宙射線所帶的能量如果超過閾值5×10<sup>19</sup> [電子伏特](../Page/電子伏特.md "wikilink")則會與宇宙微波背景的[光子](../Page/光子.md "wikilink")發生交互作用，產生[Π介子](../Page/Π介子.md "wikilink")。這樣的作用會持續發生，一直到射線粒子的能量低於Π介子產生閾值。因為此交互作用相關的[平均自由程](../Page/平均自由程.md "wikilink")其值甚低，舉例來說，起源處距離地球遠大於50 [百萬秒差距的](../Page/秒差距.md "wikilink")若其能量大於此閾值者，則不可能在地球上觀測到；而此距離內又不存在目前已知可以產生此般能量的宇宙射線源。

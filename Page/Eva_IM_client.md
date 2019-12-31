@@ -1,4 +1,4 @@
-> 本文内容由[Eva IM client](https://zh.wikipedia.org/wiki/Eva IM client)转换而来。
+> 本文内容由[Eva IM client](https://zh.wikipedia.org/wiki/Eva_IM_client)转换而来。
 
 
 **Eva**是一款[KDE](../Page/KDE.md "wikilink")下的[QQ客户端](https://zh.wikipedia.org/wiki/QQ "wikilink")，基于[Qt](../Page/Qt.md "wikilink")库开发，遵照[GNU GPL第二版发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，是[自由软件](../Page/自由软件.md "wikilink")。

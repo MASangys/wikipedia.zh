@@ -1,3 +1,6 @@
+> 本文内容由[Live In Copenhagen](https://zh.wikipedia.org/wiki/Live_In_Copenhagen)转换而来。
+
+
 **Live In Copenhagen**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")的第一張演唱會實況DVD，內容為2006年3月25日在丹麥[哥本哈根KB](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink") Hallen場地的演出，於2006年12月18日發行。
 
 此次演出時間全長75分鐘，共使用19台攝影機拍攝。

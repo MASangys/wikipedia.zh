@@ -1,4 +1,4 @@
-> 本文内容由[Sony Ericsson K800i](https://zh.wikipedia.org/wiki/Sony Ericsson K800i)转换而来。
+> 本文内容由[Sony Ericsson K800i](https://zh.wikipedia.org/wiki/Sony_Ericsson_K800i)转换而来。
 
 
 **Sony Ericsson K800i**為[索尼爱立信於](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")2006年7月推出的首部[Cyber-Shot](https://zh.wikipedia.org/wiki/Cyber-Shot "wikilink")[3G](../Page/3G.md "wikilink")手提電話。此外更備有320萬[像素](../Page/像素.md "wikilink")[自動對焦相機功能](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")。中国大陆版本为K790c。

@@ -1,3 +1,6 @@
+> 本文内容由[NBA灌篮大赛](https://zh.wikipedia.org/wiki/NBA灌篮大赛)转换而来。
+
+
 **灌籃大賽**（）是一項[NBA全明星賽中的帶有娛樂性質的比賽](https://zh.wikipedia.org/wiki/NBA全明星賽 "wikilink")，通常是在全明星賽前的週六舉辦。參賽者嘗試做出各種最具觀賞性和難度的[入樽動作](https://zh.wikipedia.org/wiki/入樽 "wikilink")，評審共五人，每次的扣籃動作評分從6-10分不等，但此競賽為娛樂性質居多，並無嚴肅的比賽壓力。首次入樽大賽是[美國籃球協會](../Page/美國籃球協會.md "wikilink")（ABA）在1976所舉辦的全明星賽上，當時的「J博士」[朱利葉斯·歐文奪得了那次比賽的冠軍](https://zh.wikipedia.org/wiki/朱利葉斯·歐文 "wikilink")。
 
 [扎克·拉文](../Page/扎克·拉文.md "wikilink")、[傑森·理察森](https://zh.wikipedia.org/wiki/傑森·理察森 "wikilink")、[哈洛德·邁納](https://zh.wikipedia.org/wiki/哈洛德·邁納 "wikilink")、[多米尼克·威爾金斯和](https://zh.wikipedia.org/wiki/多米尼克·威爾金斯 "wikilink")[麥可·喬丹都曾贏得過兩次入樽大賽冠軍頭銜](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")，而[內特·羅賓遜是唯一一位贏得三次入樽大賽冠軍的球員](https://zh.wikipedia.org/wiki/內特·羅賓遜 "wikilink")，同時[麥可·喬丹和](https://zh.wikipedia.org/wiki/麥可·喬丹 "wikilink")曾經在自己主場贏得冠軍。

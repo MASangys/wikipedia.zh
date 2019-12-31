@@ -1,4 +1,4 @@
-> 本文内容由[ATI Radeon X](https://zh.wikipedia.org/wiki/ATI Radeon X)转换而来。
+> 本文内容由[ATI Radeon X](https://zh.wikipedia.org/wiki/ATI_Radeon_X)转换而来。
 
 
 **Radeon X Series**（代号R420為X800）於2004年推出，是[ATi的一款显卡](https://zh.wikipedia.org/wiki/ATi "wikilink")，以[台積電](https://zh.wikipedia.org/wiki/台積電 "wikilink")[0.13微米Low](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")-k製程生產。只支援DirectX 9.0b，不支援DirectX 9.0c。核心与[Radeon 9 Series相似](https://zh.wikipedia.org/wiki/Radeon_9_Series "wikilink")，新的核心只做了些改進。所以不支援 ShaderModel 3.0、[HDR等功能](https://zh.wikipedia.org/wiki/HDR "wikilink")。ATi声稱X800 XT PE的效能Radeon 9800 XT高出2倍。此系列的X850 XT PE是最快的AGP显卡。

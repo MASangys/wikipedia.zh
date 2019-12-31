@@ -1,4 +1,4 @@
-> 本文内容由[穿著Prada的惡魔 \(電影\)](https://zh.wikipedia.org/wiki/穿著Prada的惡魔 \(電影\))转换而来。
+> 本文内容由[穿著Prada的惡魔 \(電影\)](https://zh.wikipedia.org/wiki/穿著Prada的惡魔_\(電影\))转换而来。
 
 
 **穿普拉达的女王**（）是2006年[美国](../Page/美国.md "wikilink")，改编自创作于2003年的同名小说。本片主演为[梅丽尔·斯特里普](https://zh.wikipedia.org/wiki/梅丽尔·斯特里普 "wikilink")、[安妮·海瑟薇](../Page/安妮·海瑟薇.md "wikilink")、[史丹利·特治](../Page/史丹利·特治.md "wikilink")、[西蒙·贝克](../Page/西蒙·贝克.md "wikilink")、[艾蜜莉·布朗以及](https://zh.wikipedia.org/wiki/艾蜜莉·布朗 "wikilink")[阿德里安·格蘭尼](https://zh.wikipedia.org/wiki/阿德里安·格蘭尼 "wikilink")。 本片由制片，[大卫·法兰科执导](https://zh.wikipedia.org/wiki/大卫·法兰科 "wikilink")，并由[20世纪福克斯电影公司负责影片发行](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")。梅丽尔·斯特里普在片中的演技备受褒扬，并因此获得诸多奖项提名，其中就包括创纪录的第14次[奥斯卡奖和](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")[金球奖最佳喜剧或音乐剧女主角提名](https://zh.wikipedia.org/wiki/金球奖 "wikilink")。艾蜜莉·布朗也凭借这自己在本片的优秀演出而获得了影评人的肯定和不少奖项的提名，同时也接到了不少电影制片人的邀约。

@@ -1,3 +1,6 @@
+> 本文内容由[BFG科技](https://zh.wikipedia.org/wiki/BFG科技)转换而来。
+
+
 **BFG科技(BFG Technologies)**2002年8月成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[森林湖市](https://zh.wikipedia.org/wiki/森林湖 "wikilink")，是一家電腦[顯示卡供應商與提供電腦整機定制服務的公司](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。著名產品包括基於[nVIDIA晶片的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")、[主機板及](https://zh.wikipedia.org/wiki/主機板 "wikilink")[電源供應器](../Page/電源供應器.md "wikilink")。BFG科技曾是nVIDIA的AIC合作夥伴之一\[1\]。該公司的產品只銷售與北美及歐洲市場。2010年9月，由於其經營不善，[破產](../Page/破產.md "wikilink")倒閉\[2\]。
 
 ## 公司歷史

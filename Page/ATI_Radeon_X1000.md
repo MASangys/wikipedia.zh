@@ -1,4 +1,4 @@
-> 本文内容由[ATI Radeon X1000](https://zh.wikipedia.org/wiki/ATI Radeon X1000)转换而来。
+> 本文内容由[ATI Radeon X1000](https://zh.wikipedia.org/wiki/ATI_Radeon_X1000)转换而来。
 
 
 **Radeon X1 Series**（代号R520為X1800），是[ATi的一款顯示卡](https://zh.wikipedia.org/wiki/ATi "wikilink")，以台積電0.09微米Low-k製程生產，支援DirectX 9.0c。经过重新设计的Radeon X1 Series与前代Radeon X Series核心完全不相类似。Radeon X1 Series亦支援ShaderModel 3.0、HDR等技術，与对手[nVIDIA的同代产品平起平坐](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")。

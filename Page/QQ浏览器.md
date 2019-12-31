@@ -1,3 +1,6 @@
+> 本文内容由[QQ浏览器](https://zh.wikipedia.org/wiki/QQ浏览器)转换而来。
+
+
 **QQ瀏覽器**（****）是一款採用[WebKit](../Page/WebKit.md "wikilink")和[Trident雙引擎的](../Page/Trident_\(排版引擎\).md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")。此前，腾讯曾开发了**腾讯Explorer**（一般称为**腾讯TE**）和**腾讯TT**两款以Trident排版引擎为核心的浏览器，以及集成了WebKit引擎的QQ浏览器5、QQ浏览器6。2015年6月19日，QQ浏览器9.0版正式版发布\[1\]。
 
 ## 歷史

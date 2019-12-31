@@ -1,3 +1,6 @@
+> 本文内容由[日历 \(Apple\)](https://zh.wikipedia.org/wiki/日历_\(Apple\))转换而来。
+
+
 **行事曆**（Calendar，前稱：iCal）是[苹果电脑公司出品的一个](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[日程管理](https://zh.wikipedia.org/wiki/日程管理 "wikilink")[应用程序](../Page/应用程序.md "wikilink")，运行在[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") [操作系统](../Page/操作系统.md "wikilink")。 行事曆是第一个提供多日历支持、并可以在[WebDAV服务器上发布](https://zh.wikipedia.org/wiki/WebDAV "wikilink")／订阅日历的日程管理程序。
 
 在2002年9月10日发布当初是一个[Mac OS X v10.2系统的免费下载程序](../Page/Mac_OS_X_v10.2.md "wikilink")。之后被捆绑在[Mac OS X v10.3操作系统中](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")。iCal 2 也是作为[Mac OS X v10.4的一部分发布的](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")。

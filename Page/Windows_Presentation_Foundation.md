@@ -1,3 +1,6 @@
+> 本文内容由[Windows Presentation Foundation](https://zh.wikipedia.org/wiki/Windows_Presentation_Foundation)转换而来。
+
+
 （）是美國[微軟公司推出](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET Framework 3.0及以后版本的组成部分之一](../Page/.NET_Framework_3.0.md "wikilink")，它是一套基于[XML](../Page/XML.md "wikilink")、[.NET Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")、[向量](../Page/向量.md "wikilink")绘图技术的展示層开发框架，微软视其为下一代使用者介面技术，广泛被用于[Windows Vista的界面开发](../Page/Windows_Vista.md "wikilink")。
 
 WPF使用一种新的[XAML](../Page/XAML.md "wikilink")（eXtensible Application Markup Language）语言来开发界面，这将把界面开发以及后台逻辑很好的分开，降低了[耦合度](https://zh.wikipedia.org/wiki/耦合度_\(計算機科學\) "wikilink")，使用户界面设计师与程序开发者能更好的合作，降低维护和更新的成本。

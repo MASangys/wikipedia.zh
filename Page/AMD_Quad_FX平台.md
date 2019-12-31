@@ -1,3 +1,6 @@
+> 本文内容由[AMD Quad FX平台](https://zh.wikipedia.org/wiki/AMD_Quad_FX平台)转换而来。
+
+
 **AMD Quad FX平台**是個以電腦狂熱者為目標的[AMD多處理器平台](https://zh.wikipedia.org/wiki/AMD "wikilink")。
 
 這個平台容許用家把兩個雙核心[Socket F的中央處理器](../Page/Socket_F.md "wikilink") (CPU)安裝於一塊主機板上，使得這個平台提供總共四個物理運算核心\[1\]。這與雙中央處理器方案相似，兩個中央處理器安裝於一塊主機板上以提供額外的運算能力。兩者最大的分別在於"AMD Quad FX平台"方案內的每個物理運算核心擁有各自獨立的記憶體 。"AMD Quad FX平台"擁有以消費者平台為目標[HyperTransport](../Page/HyperTransport.md "wikilink")連接。\[2\]\[3\]用家可以完全利用"AMD Quad FX平台"四個運算核心的作業系統及其他應用程式將可以見到性能上的提升。

@@ -1,3 +1,6 @@
+> 本文内容由[智代After ～It\'s a Wonderful Life～](https://zh.wikipedia.org/wiki/智代After_～It\'s_a_Wonderful_Life～)转换而来。
+
+
 《**智代After ～It's a Wonderful Life～**》（）是由[日本](../Page/日本.md "wikilink")[Key公司所製作發行的](https://zh.wikipedia.org/wiki/key_\(公司\) "wikilink")[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，後來陸續移植到不同平台並改編成漫畫。主要描敘《[CLANNAD](../Page/CLANNAD.md "wikilink")》中智代路線之後續故事。
 
 ## 遊戲

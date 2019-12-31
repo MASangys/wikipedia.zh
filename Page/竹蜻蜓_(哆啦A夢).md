@@ -1,4 +1,4 @@
-> 本文内容由[竹蜻蜓 \(哆啦A夢\)](https://zh.wikipedia.org/wiki/竹蜻蜓 \(哆啦A夢\))转换而来。
+> 本文内容由[竹蜻蜓 \(哆啦A夢\)](https://zh.wikipedia.org/wiki/竹蜻蜓_\(哆啦A夢\))转换而来。
 
 
 [タケコプター.jpg](https://zh.wikipedia.org/wiki/File:タケコプター.jpg "fig:タケコプター.jpg")

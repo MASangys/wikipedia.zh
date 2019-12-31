@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft AppLocale](https://zh.wikipedia.org/wiki/Microsoft AppLocale)转换而来。
+> 本文内容由[Microsoft AppLocale](https://zh.wikipedia.org/wiki/Microsoft_AppLocale)转换而来。
 
 
 [Microsoft_AppLocale.png](https://zh.wikipedia.org/wiki/File:Microsoft_AppLocale.png "fig:Microsoft_AppLocale.png")\]\] **Microsoft AppLocale**（常簡稱為**Applocale**或**Apploc**）是[微軟免費提供給](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows使用者的工具程式](https://zh.wikipedia.org/wiki/Windows "wikilink")，可以在以[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")（[UTF-16](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")）為基礎的Windows中執行非Unicode的應用程式，避免[亂碼](../Page/亂碼.md "wikilink")的問題。微軟強調，這個工具只是一個暫時性的解決方案，程式開發人員應以正規方式利用[Microsoft Layer for Unicode來建立純正的Unicode應用程式](https://zh.wikipedia.org/wiki/Microsoft_Layer_for_Unicode "wikilink")。

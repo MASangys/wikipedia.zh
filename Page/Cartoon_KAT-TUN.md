@@ -1,3 +1,6 @@
+> 本文内容由[Cartoon KAT-TUN](https://zh.wikipedia.org/wiki/Cartoon_KAT-TUN)转换而来。
+
+
 《**Cartoon KAT-TUN**》（）是一個由[日本電視台](../Page/日本電視台.md "wikilink")製作播放的[綜藝電視節目](../Page/綜藝節目.md "wikilink")，播放期為2007年4月4日至2010年3月24日之間、[日本當地時間每週日的](../Page/日本標準時間.md "wikilink")23:55至0:26。該節目是由男子偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")主持，是KAT-TUN諸多冠名電視節目之一。
 
 ## 演出者

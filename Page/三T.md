@@ -1,3 +1,6 @@
+> 本文内容由[三T](https://zh.wikipedia.org/wiki/三T)转换而来。
+
+
 [HKJC_Triple_Trio.jpg](https://zh.wikipedia.org/wiki/File:HKJC_Triple_Trio.jpg "fig:HKJC_Triple_Trio.jpg")
 
 **三T**是[賽馬](../Page/賽馬.md "wikilink")其中一個設有多寶彩金的投注種類，於1995年1月推出，是由[香港賽馬會](../Page/香港賽馬會.md "wikilink")接受投注的一個特別彩池，並設有多寶彩金(Jackpot) 的投注種類，在指定三場賽事中均選中第1名、第2名及第3名馬匹，毋須順序，可獲得正獎。在指定三場賽事中選中首兩關第1名、第2名及第3名馬匹，毋須順序，可獲得「安慰獎」。

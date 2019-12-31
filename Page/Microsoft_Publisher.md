@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Publisher](https://zh.wikipedia.org/wiki/Microsoft_Publisher)转换而来。
+
+
 **Microsoft Publisher**，舊稱**Microsoft Office Publisher**，是[微软](../Page/微软.md "wikilink")公司发行的桌面出版应用软件。它常被人们认为是一款入门级的桌面出版应用软件，它能提供比Microsoft Word更强大的页面元素控制功能，但比起专业的页面布局软件，比如说[Adobe](../Page/Adobe.md "wikilink")公司的[InDesign以及](https://zh.wikipedia.org/wiki/InDesign "wikilink")[Quark公司的](https://zh.wikipedia.org/wiki/Quark "wikilink")[QuarkXPress来还略逊一筹](https://zh.wikipedia.org/wiki/QuarkXPress "wikilink")。
 
 比起其它桌面出版软件来，Publisher在历史上一直不受高端商务打印商店欢迎。它只能用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，而业界占相当份额的系统运行的是苹果公司的Mac OS X。Publisher定位于入门级的应用软件造成了很多的问题，比如在服务提供商的电脑上没有相应字体和嵌入对象等等（虽然Publisher提供了可以把相关联的文件压缩成一个自释放应用程序的工具）。许多高端特性，比如透明化，对象阴影，slugs，路径文本，内嵌的[PDF输出等等](https://zh.wikipedia.org/wiki/PDF "wikilink")，或者没有完全实现，或者干脆没有。但最近的一些版本有了很大的提高，开始关注色彩分离以及正确地处理彩色输出。Publisher 2007还包含了期待已久的特性，可以输出商业出版品质带内嵌字体的PDF格式，作为选件可以从微软网站下载。

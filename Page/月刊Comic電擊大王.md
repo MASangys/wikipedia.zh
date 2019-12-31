@@ -1,3 +1,6 @@
+> 本文内容由[月刊Comic電擊大王](https://zh.wikipedia.org/wiki/月刊Comic電擊大王)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")公司所發行的一本少年取向的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
 
 原先是以[萬代](../Page/萬代.md "wikilink")所發行的漫畫雑誌《Cyber Comics》作為開端，接著成為《Media Comics Dyne》，並在1994年以季刊誌的《Comic電擊大王》為名創刊。在歷經了雙月刊及月刊的演變之後，雜誌名也改為現在的《月刊Comic電擊大王》。

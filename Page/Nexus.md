@@ -1,3 +1,6 @@
+> 本文内容由[Nexus](https://zh.wikipedia.org/wiki/Nexus)转换而来。
+
+
 **Nexus文件**是一种[生物信息学](../Page/生物信息学.md "wikilink")中常用的[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。很多[软件](../Page/软件.md "wikilink")使用或者识别这种格式，例如[PAUP\*和MacClade](https://zh.wikipedia.org/wiki/PAUP* "wikilink")。
 
 ## 语法

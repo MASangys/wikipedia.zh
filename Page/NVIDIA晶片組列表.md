@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA晶片組列表](https://zh.wikipedia.org/wiki/NVIDIA晶片組列表)转换而来。
+
+
 本列表為[nVIDIA公司推出的](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，按推出時間排列。
 
 ## [nForce系列](../Page/NVIDIA_nForce.md "wikilink")

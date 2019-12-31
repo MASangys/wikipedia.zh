@@ -1,3 +1,6 @@
+> 本文内容由[Fenrir \(公司\)](https://zh.wikipedia.org/wiki/Fenrir_\(公司\))转换而来。
+
+
 **Fenrir**是一間專門開發[網頁瀏覽器和提供各種網路情報服務的公司](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。總公司位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")。公司名稱是取自[北歐神話中的怪獸](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[芬里爾](https://zh.wikipedia.org/wiki/芬里爾 "wikilink")（Fenrisulfr），而推出的產品名稱也大多都與北歐神話有關。
 
 ## 歷史

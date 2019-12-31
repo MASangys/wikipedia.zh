@@ -1,3 +1,6 @@
+> 本文内容由[道格拉斯DC-1](https://zh.wikipedia.org/wiki/道格拉斯DC-1)转换而来。
+
+
 **道格拉斯DC-1**是[道格拉斯商業](https://zh.wikipedia.org/wiki/道格拉斯 "wikilink")[飛機的首個型號](https://zh.wikipedia.org/wiki/飛機 "wikilink")。
 
 此型號的誕生可追溯於（Transcontinental & Western Airlines，即[環球航空](../Page/環球航空.md "wikilink")的前身），一架[福克F10型飛機墜毀在](https://zh.wikipedia.org/wiki/福克F.10 "wikilink")[堪薩斯州](../Page/堪薩斯州.md "wikilink")附近，此意外共奪去了八人的性命。之後，[美國民用航空委员会規定所有乘客不能乘坐在機翼之上](https://zh.wikipedia.org/wiki/美國民用航空委员会 "wikilink")，於是[環大陸及西部航空便要求研發一台三引擎](../Page/環球航空.md "wikilink")，可容納十二名乘客，金屬機翼，可收起的降落架及當一台引擎失效時仍能飛抵目的地的飛機。

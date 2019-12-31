@@ -1,4 +1,4 @@
-> 本文内容由[ETA SA](https://zh.wikipedia.org/wiki/ETA SA)转换而来。
+> 本文内容由[ETA SA](https://zh.wikipedia.org/wiki/ETA_SA)转换而来。
 
 
 **ETA**，全名為**ETA SA Manufacture Horlogère Suisse**，是[瑞士空白機芯生產商](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，產品包括有[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")／[石英](../Page/石英.md "wikilink")[手錶及](https://zh.wikipedia.org/wiki/手錶 "wikilink")[時鐘](../Page/時鐘.md "wikilink")機芯。由[世界](../Page/世界.md "wikilink")最大的[鐘錶集團](https://zh.wikipedia.org/wiki/鐘錶 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[斯沃琪集團擁有](https://zh.wikipedia.org/wiki/斯沃琪集團 "wikilink")，ETA本身由多間機芯廠合併及收購而成，包括有著名的Adolf Schild（AS）、[Valjoux](https://zh.wikipedia.org/wiki/Valjoux "wikilink")、[Unitas等](https://zh.wikipedia.org/wiki/Unitas "wikilink")。

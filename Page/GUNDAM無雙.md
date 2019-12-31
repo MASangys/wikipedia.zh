@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM無雙](https://zh.wikipedia.org/wiki/GUNDAM無雙)转换而来。
+
+
 是由[光榮的](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")[Omega Force開發](https://zh.wikipedia.org/wiki/Omega_Force "wikilink")，由[Namco Bandai發行的](https://zh.wikipedia.org/wiki/南夢宮萬代發展公司 "wikilink")[PlayStation 3及](../Page/PlayStation_3.md "wikilink")[Xbox 360遊戲](../Page/Xbox_360.md "wikilink")。在日本，已經在2007年3月1日發行。遊戲亦正式發行北美版本，並將遊戲宣佈為[PlayStation 3及](../Page/PlayStation_3.md "wikilink")[Xbox 360的跨平台遊戲](../Page/Xbox_360.md "wikilink")。\[1\]，在日本則會以國際版名義發行[Xbox 360版本](../Page/Xbox_360.md "wikilink")，而在2008年又突然宣布將移植回[PS2版](../Page/PlayStation_2.md "wikilink")，名稱為鋼彈無雙SPECIAL，2008年2月28日發售。
 
 ## 簡介

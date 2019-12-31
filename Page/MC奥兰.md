@@ -1,3 +1,6 @@
+> 本文内容由[MC奥兰](https://zh.wikipedia.org/wiki/MC奥兰)转换而来。
+
+
 **奥兰莫罗迪亚俱乐部**（**Mouloudia Club of Oran**（简称：**MC Oran**））（[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")：نادي مولودية وهران）是一家位于[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")[奥兰](../Page/奥兰.md "wikilink")的足球俱乐部，俱乐部创建于1946年。球队的主场为。
 
 ## 球队荣誉

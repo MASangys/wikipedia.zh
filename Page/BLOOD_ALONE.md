@@ -1,3 +1,6 @@
+> 本文内容由[BLOOD ALONE](https://zh.wikipedia.org/wiki/BLOOD_ALONE)转换而来。
+
+
 《**BLOOD ALONE**》是一部[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高野真之的](https://zh.wikipedia.org/wiki/高野真之 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。日本版原為同人誌作品，後於《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》（ASCII Media Works）自2004年4月號至2010年4月號連載，[台灣角川](../Page/台灣角川.md "wikilink")代理其[臺灣](../Page/臺灣.md "wikilink")中文版。其後於《[Evening](../Page/Evening.md "wikilink")》（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）2010年24号重開連載。2014年5月上，編輯部刊登了「由於諸多原因，《BLOOD ALONE》於前期連載結束」的通知，意即於4號連載結束。
 
 漫畫ASCII Media Works共出版6冊，講談社版本則共發行十集。

@@ -1,3 +1,6 @@
+> 本文内容由[Oricon](https://zh.wikipedia.org/wiki/Oricon)转换而来。
+
+
 **Oricon**（）是以提供等娛樂資訊服務為主要業務的[日本](../Page/日本.md "wikilink")企業，其名稱來自[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「」（絕對的信賴）的[縮寫](../Page/縮寫.md "wikilink")，也因此該公司的主要業務——[影音產品銷售排行榜在](https://zh.wikipedia.org/wiki/影音 "wikilink")[中文社群被稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")「**公信榜**」。現任代表取締役社長（[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")）為[小池恒](https://zh.wikipedia.org/wiki/小池恒 "wikilink")，是公司創辦者[小池聰行的長子](https://zh.wikipedia.org/wiki/小池聰行 "wikilink")。
 
 該公司公佈的[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")，是日本現時最具知名度及公信力的[音樂排行榜](https://zh.wikipedia.org/wiki/音樂 "wikilink")。銷量榜共提供每天、每星期、每月等不同計算方法的銷量榜，也提供諸如[流行曲](https://zh.wikipedia.org/wiki/流行曲 "wikilink")、[演歌](../Page/演歌.md "wikilink")、[西洋音樂等不同的音樂類型的排行榜](https://zh.wikipedia.org/wiki/西洋音樂 "wikilink")，甚至更會公佈[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[電視遊戲等的銷量榜](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，以及由觀眾的[電視廣告](../Page/電視廣告.md "wikilink")好感度等。除此之外其透過[子公司](../Page/子公司.md "wikilink")Oricon ME出版[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。

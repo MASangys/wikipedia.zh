@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(A\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(A\))转换而来。
+> 本文内容由[中国图书馆分类法 \(A\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(A\))转换而来。
 
 
   - A1 [马克思](https://zh.wikipedia.org/wiki/马克思 "wikilink")、[恩格斯著作](https://zh.wikipedia.org/wiki/恩格斯 "wikilink")

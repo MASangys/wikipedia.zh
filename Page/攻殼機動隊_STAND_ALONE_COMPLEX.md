@@ -1,4 +1,4 @@
-> 本文内容由[攻殼機動隊 STAND ALONE COMPLEX](https://zh.wikipedia.org/wiki/攻殼機動隊 STAND ALONE COMPLEX)转换而来。
+> 本文内容由[攻殼機動隊 STAND ALONE COMPLEX](https://zh.wikipedia.org/wiki/攻殼機動隊_STAND_ALONE_COMPLEX)转换而来。
 
 
 《**攻殼機動隊 STAND ALONE COMPLEX**》（簡稱：**攻殼機動隊 S.A.C.**）是一部[日本](../Page/日本.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，改編自[士郎正宗](../Page/士郎正宗.md "wikilink")原作的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[攻殼機動隊](../Page/攻殼機動隊.md "wikilink")》。於2002年播映，全26話。獲選為2002年[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門第六回動畫優秀獎。

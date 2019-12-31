@@ -1,3 +1,6 @@
+> 本文内容由[乔治·P·科斯马图斯](https://zh.wikipedia.org/wiki/乔治·P·科斯马图斯)转换而来。
+
+
 **乔治·P·科斯马图斯**（George P. Cosmatos，）是一名希臘和義大利男導演。兒子[帕诺斯·科斯马图斯也是名導演](https://zh.wikipedia.org/wiki/帕诺斯·科斯马图斯 "wikilink")。
 
 曾用名：George Pan Cosmatos / George Cosmatos / Yorgo Pan Cosmatos。

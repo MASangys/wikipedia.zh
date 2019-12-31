@@ -1,3 +1,6 @@
+> 本文内容由[Special Force](https://zh.wikipedia.org/wiki/Special_Force)转换而来。
+
+
 《**Special Force**》是一個具有軍事性質的[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，據宣稱是由[伊斯蘭組織](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[真主黨發行](https://zh.wikipedia.org/wiki/真主黨 "wikilink")\[1\]，使用的繪圖引擎是。
 
 ## 簡介

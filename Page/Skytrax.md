@@ -1,3 +1,6 @@
+> 本文内容由[Skytrax](https://zh.wikipedia.org/wiki/Skytrax)转换而来。
+
+
 **Skytrax**是一家以[英國為基地的顧問公司](https://zh.wikipedia.org/wiki/英國 "wikilink")，是Inflight Research Services的附屬公司， 大部份股權則由利氏家族擁有\[1\]，其主要業務是為[航空公司](../Page/航空公司.md "wikilink")的服務進行意見調查。透過對國際旅行的問卷調查進行統計分析，從而找出現有服務提供者中擁有最佳[空中服務員](https://zh.wikipedia.org/wiki/空中服務員 "wikilink")、最佳航空公司、最佳航空公司酒廊、最佳機上娛樂、最佳膳食及其他與航空公司相關的服務意見調查\[2\]。除了上述的意見調查以外，Skytrax的網頁亦設有航空公司討論區，讓旅客分享其飛行經驗，以供其他旅客參考。另外，他們亦有進行服務評估、機艙檢查及滿意度調查。而他們最廣為人所知的，是每年一度舉辦的[年度全球最佳航空公司獎及](https://zh.wikipedia.org/wiki/年度全球最佳航空公司獎 "wikilink")[年度全球最佳機場獎](https://zh.wikipedia.org/wiki/年度全球最佳機場獎 "wikilink")。Skytrax还设立了機場和航空公司評等制度。
 
 該公司的研究主要讓英國政府作參考，以便制定航空交通政策。例如：他們曾向[英國上議院](../Page/英國上議院.md "wikilink")提交一份有關飛行與健康的報告\[3\]。

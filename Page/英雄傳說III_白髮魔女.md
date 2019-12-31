@@ -1,3 +1,6 @@
+> 本文内容由[英雄傳說III 白髮魔女](https://zh.wikipedia.org/wiki/英雄傳說III_白髮魔女)转换而来。
+
+
 ，是由日本[Falcom在](https://zh.wikipedia.org/wiki/Falcom "wikilink")1994年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第3部作品，系列第二期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》的第1部作品。
 
 ## 概要

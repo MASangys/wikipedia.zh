@@ -1,3 +1,6 @@
+> 本文内容由[RPK-74輕機槍](https://zh.wikipedia.org/wiki/RPK-74輕機槍)转换而来。
+
+
 [AK-74_RPK-74_DA-ST-89-06612.jpg](https://zh.wikipedia.org/wiki/File:AK-74_RPK-74_DA-ST-89-06612.jpg "fig:AK-74_RPK-74_DA-ST-89-06612.jpg")（上方）與RPK-74（下方）的對比圖\]\]
 
 **RPK-74**（[俄文](https://zh.wikipedia.org/wiki/俄语 "wikilink")：）是[苏联](../Page/苏联.md "wikilink")在1974年為蘇軍裝備以[AK-74改進而成](../Page/AK-74突击步枪.md "wikilink")，用於替換[RPK](../Page/RPK輕機槍.md "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，由[卡拉什尼科夫設計](https://zh.wikipedia.org/wiki/米哈伊尔·季莫费耶维奇·卡拉什尼科夫 "wikilink")。

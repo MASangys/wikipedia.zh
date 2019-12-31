@@ -1,3 +1,6 @@
+> 本文内容由[通訊錄 \(macOS\)](https://zh.wikipedia.org/wiki/通訊錄_\(macOS\))转换而来。
+
+
 **通訊錄**，是指電話簿軟體應用程式（address book software application），目前美國蘋果電腦只有[Mac OS X有支援這項功能](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 特色

@@ -1,3 +1,6 @@
+> 本文内容由[SeaMonkey](https://zh.wikipedia.org/wiki/SeaMonkey)转换而来。
+
+
 **SeaMonkey**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼以及](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[跨平台的網路套裝軟體](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，包含一个[所见即所得的可视化](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[网页编辑器](https://zh.wikipedia.org/wiki/网页编辑器 "wikilink")。此軟體是以[Mozilla Suite為基礎建構之軟體](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")，是[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")旗下軟體Mozilla Suite 1.7版本的延伸，目前由旗下的SeaMonkey專案領導團體開發\[1\]。
 
 SeaMonkey在英文中指的是“[豐年蝦](https://zh.wikipedia.org/wiki/豐年蝦 "wikilink")”，所以圖示由海水和豐年蝦組成。不熟悉原文而望文生義者多誤解為“海猴子”\[2\]

@@ -1,4 +1,4 @@
-> 本文内容由[Intel Core 2處理器列表](https://zh.wikipedia.org/wiki/Intel Core 2處理器列表)转换而来。
+> 本文内容由[Intel Core 2處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_2處理器列表)转换而来。
 
 
 本列表為[Intel Core 2系列各處理器的技術資料](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")，有關Intel Core系列各處理器的技術資料，請參閱[Intel Core 處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_處理器列表 "wikilink")。

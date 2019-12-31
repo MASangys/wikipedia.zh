@@ -1,3 +1,6 @@
+> 本文内容由[Libevent](https://zh.wikipedia.org/wiki/Libevent)转换而来。
+
+
 **libevent**是一個[异步](https://zh.wikipedia.org/wiki/异步 "wikilink")[事件處理](../Page/事件驅動程式設計.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[函式庫](../Page/函式庫.md "wikilink")，以[BSD許可證发布](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。
 
 libevent提供了一組[應用程序編程接口](https://zh.wikipedia.org/wiki/應用程序編程接口 "wikilink")（API），讓程式設計師可以設定某些事件發生時所執行的[函式](https://zh.wikipedia.org/wiki/函式 "wikilink")，也就是說，libevent可以用來取代[網路](../Page/互联网.md "wikilink")[伺服器所使用的](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[事件循环檢查框架](https://zh.wikipedia.org/wiki/事件循环 "wikilink")。

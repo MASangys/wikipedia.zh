@@ -1,3 +1,6 @@
+> 本文内容由[Cron](https://zh.wikipedia.org/wiki/Cron)转换而来。
+
+
 工具型软件**cron**是一款[类Unix的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")下的基于时间的任务管理系统。用户们可以通过**cron**在固定时间、日期、间隔下，运行定期任务（可以是命令和脚本）。**cron**常用于运维和管理，但也可用于其他地方，如：定期下载文件和邮件。**cron**该词来源于[希腊语chronos](https://zh.wikipedia.org/wiki/希腊语 "wikilink")（χρόνος），原意是时间。
 
 通常，**任务时间表**（crontab）文件储存的指令被crond[守护进程](../Page/守护进程.md "wikilink")激活，守护进程在后台运行，并每一分钟检查是否有定期的作业需要执行。这类作业一般称为**cron jobs**。

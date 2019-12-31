@@ -1,3 +1,6 @@
+> 本文内容由[Myriad](https://zh.wikipedia.org/wiki/Myriad)转换而来。
+
+
 [IPod_Myriad.svg](https://zh.wikipedia.org/wiki/File:IPod_Myriad.svg "fig:IPod_Myriad.svg")的Myriad体被[苹果电脑公司作为市场宣传](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")\]\] **Myriad**是一种西文[无衬线字体](https://zh.wikipedia.org/wiki/无衬线字体 "wikilink")，属于[人文主义体](https://zh.wikipedia.org/wiki/无衬线体#分類 "wikilink")，是由罗伯特·斯林巴赫（Robert Slimbach，1956年－）和卡罗·图温布利（Carol Twombly，1959年－）在1990年到1992年左右以[Frutiger](../Page/Frutiger.md "wikilink")字体为藍本為[Adobe](../Page/Adobe.md "wikilink")公司设计的。
 
 ## 特征

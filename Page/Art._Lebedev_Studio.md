@@ -1,3 +1,6 @@
+> 本文内容由[Art. Lebedev Studio](https://zh.wikipedia.org/wiki/Art._Lebedev_Studio)转换而来。
+
+
 **Art. Lebedev Studio**是[俄羅斯最大的](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[設計](../Page/設計.md "wikilink")公司，於1995年由[Artemy Lebedev創立](https://zh.wikipedia.org/wiki/Artemy_Lebedev "wikilink")。他們同時創作[工業與](https://zh.wikipedia.org/wiki/工業設計 "wikilink")[平面設計](https://zh.wikipedia.org/wiki/平面設計 "wikilink")；他們的[訓辭為](https://zh.wikipedia.org/wiki/訓辭 "wikilink")"*設計將拯救世界*"。2005年為止他們擁有六位首席[藝術總監與超過](https://zh.wikipedia.org/wiki/藝術總監 "wikilink")100名員工。
 
 ## 經歷與工程

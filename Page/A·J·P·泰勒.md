@@ -1,3 +1,6 @@
+> 本文内容由[A·J·P·泰勒](https://zh.wikipedia.org/wiki/A·J·P·泰勒)转换而来。
+
+
 **艾倫·約翰·珀西瓦爾·泰勒**（ ），20世紀最著名和最具爭議性的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[歷史學家之一](https://zh.wikipedia.org/wiki/歷史學家 "wikilink")。他在1961年發行的著作，《[第二次世界大戰的起源](https://zh.wikipedia.org/wiki/第二次世界大戰的起源 "wikilink")》一書，至今仍引起不少爭論。
 
 ## 生平與著述

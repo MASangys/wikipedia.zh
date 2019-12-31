@@ -1,3 +1,6 @@
+> 本文内容由[Bom Bom弹珠人太空战士](https://zh.wikipedia.org/wiki/Bom_Bom弹珠人太空战士)转换而来。
+
+
 **ボンバーマンジェッターズ**（**Bomberman Jetters**）台譯**炸彈超人**或**轟炸超人**，港譯**Bom Bom彈珠人太空戰士**（[無綫兒童台為](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")**Bom Bom彈珠人太空保衛篇**），2002年10月2日至2003年9月24日於[東京電視台](../Page/東京電視台.md "wikilink")播映，是遊戲[炸彈人作藍本的改編](https://zh.wikipedia.org/wiki/炸彈人_\(遊戲\) "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。此作與以前[Bom Bom彈珠人](../Page/彈珠人.md "wikilink")（B-爆外傳）系列**不同**，[無綫電視把其翻譯為彈珠可能是取其主角外表相似](../Page/電視廣播有限公司.md "wikilink")。以下內容會以**香港翻譯**作出介紹。
 
 ## 概要

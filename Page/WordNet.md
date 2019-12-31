@@ -1,3 +1,6 @@
+> 本文内容由[WordNet](https://zh.wikipedia.org/wiki/WordNet)转换而来。
+
+
 **WordNet**是一个由[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")认识科学实验室在心理学教授[乔治·A·米勒](../Page/乔治·A·米勒.md "wikilink")的指导下建立和维护的[英语](../Page/英语.md "wikilink")[字典](../Page/字典.md "wikilink")。开发工作从1985年开始，从此以后该项目接受了超过300万美元的资助（主要来源于对[机器翻译](../Page/机器翻译.md "wikilink")有兴趣的[政府机构](https://zh.wikipedia.org/wiki/政府机构 "wikilink")）\[1\]。
 
 由于它包含了[语义信息](../Page/语义信息.md "wikilink")，所以有别于通常意义上的字典。WordNet根据词条的意义将它们分组，每一个具有相同意义的字条组称为一个synset（同义词集合）。WordNet为每一个synset提供了简短，概要的定义，并记录不同synset之间的语义关系。

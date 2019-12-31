@@ -1,4 +1,4 @@
-> 本文内容由[Java Card](https://zh.wikipedia.org/wiki/Java Card)转换而来。
+> 本文内容由[Java Card](https://zh.wikipedia.org/wiki/Java_Card)转换而来。
 
 
 [Java_Card_Framework_Traditional_Chinese.png](https://zh.wikipedia.org/wiki/File:Java_Card_Framework_Traditional_Chinese.png "fig:Java_Card_Framework_Traditional_Chinese.png")

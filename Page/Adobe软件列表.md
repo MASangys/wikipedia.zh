@@ -1,3 +1,6 @@
+> 本文内容由[Adobe软件列表](https://zh.wikipedia.org/wiki/Adobe软件列表)转换而来。
+
+
 [Adobe产品列表](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")。
 
 ## 目前

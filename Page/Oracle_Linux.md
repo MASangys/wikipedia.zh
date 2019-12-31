@@ -1,3 +1,6 @@
+> 本文内容由[Oracle Linux](https://zh.wikipedia.org/wiki/Oracle_Linux)转换而来。
+
+
 **Oracle Linux**，正式名稱為**甲骨文企業Linux**（Oracle Enterprise Linux），為[甲骨文公司](../Page/甲骨文公司.md "wikilink")（）所發行的企業級[Linux](../Page/Linux.md "wikilink")，其建基於[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")。首次發佈於2006年10月25日。其免費供應於大眾下載、使用與發布，並為Red Hat版Linux用戶提供有償支援。 Oracle Linux有两种内核：兼容Red Hat Enterprise Linux的内核（使用RHEL源代码编译）和Oracle自己的Unbreakable Enterprise内核。Oracle声明Unbreakable Enterprise内核兼容RHEL，Oracle中间件和经过RHEL认证的第三方应用程序可以不经过修改的在Unbreakable Enterprise内核上运行。
 
 ## 分支

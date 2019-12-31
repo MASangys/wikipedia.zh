@@ -1,3 +1,6 @@
+> 本文内容由[Helvetica](https://zh.wikipedia.org/wiki/Helvetica)转换而来。
+
+
 **Helvetica**是一種廣泛使用於[拉丁字母](../Page/拉丁字母.md "wikilink")的[无衬线字体](../Page/无衬线体.md "wikilink")，是[瑞士设计师](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[马克斯·米丁格 Miedinger）和爱德华](../Page/马克斯·米丁格.md "wikilink")（Max·霍夫曼（Eduard Hoffmann）于1957年设计的。
 
 ## 历史

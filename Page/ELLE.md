@@ -1,3 +1,6 @@
+> 本文内容由[ELLE](https://zh.wikipedia.org/wiki/ELLE)转换而来。
+
+
 《**ELLE**》是一份創始於[法國的](https://zh.wikipedia.org/wiki/法國 "wikilink")，「ELLE」在[法文解作](../Page/法语.md "wikilink")「她」。雜誌聚焦於时尚、美容、健康、休闲等軟性議題。發行者為法國[拉加代尔集团](../Page/拉加代尔集团.md "wikilink")旗下的，並以[特許經營的方式在世界各國發行在地版](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，至今在60餘個国家发行43个版本。
 
 ## 歷史

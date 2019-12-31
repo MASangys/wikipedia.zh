@@ -1,3 +1,6 @@
+> 本文内容由[核心危機 -最終幻想VII-](https://zh.wikipedia.org/wiki/核心危機_-最終幻想VII-)转换而来。
+
+
 是史克威尔开发并发行於[PlayStation Portable平台上的](../Page/PlayStation_Portable.md "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏于2007年首发，是1997年PS版《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》的[前传](https://zh.wikipedia.org/wiki/前传 "wikilink")，亦是相关系列“[最终幻想VII补完计划](../Page/最终幻想VII补完计划.md "wikilink")”的作品之一。
 
 游戏主要讲述[扎克斯·菲尔的故事](../Page/扎克斯·菲爾.md "wikilink")，他是神羅公司旗下[准军事部队的年轻战士](https://zh.wikipedia.org/wiki/准军事部队 "wikilink")，受命寻找失踪的高级战士[杰尼西斯·拉普索道斯](https://zh.wikipedia.org/wiki/傑尼西斯·拉普索道斯 "wikilink")。在寻找杰尼西斯的過程中，扎克斯发现了杰尼西斯的出身——计划G，以及他同另两名高级战士[萨菲罗斯和](https://zh.wikipedia.org/wiki/萨菲罗斯 "wikilink")[安吉尔·休雷的关系](https://zh.wikipedia.org/wiki/安吉爾·休雷 "wikilink")。游戏故事从巨型公司神罗与五台的战争起，經尼布尔海姆事件，最後於《最终幻想VII》开始之前的時間點結束。

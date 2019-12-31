@@ -1,3 +1,6 @@
+> 本文内容由[WonderSwan](https://zh.wikipedia.org/wiki/WonderSwan)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[玩具](../Page/玩具.md "wikilink")製造商[萬代](../Page/萬代.md "wikilink")（後與[南夢宮合併為](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[萬代南夢宮](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")）推出的[16位元](https://zh.wikipedia.org/wiki/16位元 "wikilink")[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")、[第五世代遊戲機](../Page/第五世代遊戲機.md "wikilink")，由[Game Boy設計者](../Page/Game_Boy.md "wikilink")[橫井軍平](../Page/橫井軍平.md "wikilink")成立的的公司[Koto Laboratory和萬代共同設計](https://zh.wikipedia.org/wiki/Koto_Laboratory "wikilink")，並是橫井軍平在1997年因車禍逝世前主導設計的最後一款硬體。
 
 初代WonderSwan於1990年3月於日本推出；衍生機型包括於2000年推出的**WonderSwan Color**（，簡稱為****），以及2002年推出的**SwanCrystal**（，簡稱為****）。在生命週期內，沒有任何一款WonderSwan系列主機於日本以外的地區正式推出。

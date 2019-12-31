@@ -1,3 +1,6 @@
+> 本文内容由[Modo](https://zh.wikipedia.org/wiki/Modo)转换而来。
+
+
 **modo**是一款高级多边形[细分曲面](../Page/细分曲面.md "wikilink")，建模、雕刻、3D绘画、动画与渲染的综合性3D软件。最初由“Luxology, LLC”设计，目前为合并后的公司“Foundry”设计并维护。该软件具备许多高级技术，诸如N-gons（允许存在边数为任意边的多边形），多层次的3D绘画与边权重工具，可以运行在苹果的[Mac OS X与微软的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")操作平台。
 
 ## 历史

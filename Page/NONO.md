@@ -1,3 +1,6 @@
+> 本文内容由[NONO](https://zh.wikipedia.org/wiki/NONO)转换而来。
+
+
 **陳宣裕**（），生於[臺灣](../Page/臺灣.md "wikilink")[臺北縣](https://zh.wikipedia.org/wiki/臺北縣_\(1945年-2010年\) "wikilink")[瑞芳鎮](../Page/瑞芳區.md "wikilink")，臺灣[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[搞笑藝人](../Page/搞笑藝人.md "wikilink")、[商人](../Page/商人.md "wikilink")，藝名**NONO**。NONO是知名主持人[許效舜](../Page/許效舜.md "wikilink")的徒弟，也曾為綜藝天王[吳宗憲](../Page/吳宗憲.md "wikilink")旗下「[憲憲家族](https://zh.wikipedia.org/wiki/吳宗憲#2001年〜2010年 "wikilink")」重要成員\[1\]，是吳宗憲最知名的頂尖搭檔之一。2015年起，NONO多方發展個人副業。
 
 ## 演藝生涯

@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(R\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(R\))转换而来。
+> 本文内容由[中国图书馆分类法 \(R\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(R\))转换而来。
 
 
 ## 医药、卫生

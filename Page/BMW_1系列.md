@@ -1,3 +1,6 @@
+> 本文内容由[BMW 1系列](https://zh.wikipedia.org/wiki/BMW_1系列)转换而来。
+
+
 BMW 1系列（代號E87）是德國汽車製造商BMW自2004年開始生產的小型轎車。為了對抗Mercedes-Benz A-Class、 Audi A3及Volkswagen Golf，BMW 1系列採用前中置引擎的設計，造就出掀背跑車50：50先天配重均衡的優勢，亦是同級車中唯一[後輪驅動及縱向配置引擎](https://zh.wikipedia.org/wiki/後輪驅動 "wikilink")。
 
 ## 概述

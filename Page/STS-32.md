@@ -1,3 +1,6 @@
+> 本文内容由[STS-32](https://zh.wikipedia.org/wiki/STS-32)转换而来。
+
+
 ****是历史上第三十三次航天飞机任务，也是[哥伦比亚号航天飞机的第九次太空飞行](https://zh.wikipedia.org/wiki/哥伦比亚号航天飞机 "wikilink")。
 
 ## 任务成员

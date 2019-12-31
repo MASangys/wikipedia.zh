@@ -1,3 +1,6 @@
+> 本文内容由[RTBF](https://zh.wikipedia.org/wiki/RTBF)转换而来。
+
+
 **RTBF**（[法語全名](https://zh.wikipedia.org/wiki/法語 "wikilink")：），意即**比利時法語區電視台及電台**，是[比利時南部法語區](https://zh.wikipedia.org/wiki/比利時 "wikilink")[瓦隆省](https://zh.wikipedia.org/wiki/瓦隆 "wikilink")（Wallonia）的公營廣播機構（比利時北部[荷蘭語](../Page/荷蘭語.md "wikilink")區[佛蘭德省](https://zh.wikipedia.org/wiki/佛蘭德 "wikilink")（Flanders）的公營廣播機構名為[VRT](../Page/弗拉芒广播电视公司.md "wikilink")），總部位於[布魯塞爾](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")。 [Tour-RTBF_Luc_Viatour.JPG](https://zh.wikipedia.org/wiki/File:Tour-RTBF_Luc_Viatour.JPG "fig:Tour-RTBF_Luc_Viatour.JPG") [RTBF_vrachtwagen.jpg](https://zh.wikipedia.org/wiki/File:RTBF_vrachtwagen.jpg "fig:RTBF_vrachtwagen.jpg")
 
 ## 頻道

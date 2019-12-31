@@ -1,3 +1,6 @@
+> 本文内容由[Irssi](https://zh.wikipedia.org/wiki/Irssi)转换而来。
+
+
 **Irssi**是一个[文本用户界面的](https://zh.wikipedia.org/wiki/文本用户界面 "wikilink")[IRC](../Page/IRC.md "wikilink")客户端程序，遵循[GPL发布](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 最初Irssi是为了运行在[Unix-like操作系统上的](https://zh.wikipedia.org/wiki/Unix-like "wikilink")（包括[Android](../Page/Android.md "wikilink")），但也能运行于[Microsoft Windows上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Cygwin](../Page/Cygwin.md "wikilink")。[OS X平台上提供全功能的Irssi](https://zh.wikipedia.org/wiki/OS_X "wikilink")，包括文本模式下使用Fink的版本，一个原生[GUI叫做Mac](https://zh.wikipedia.org/wiki/GUI "wikilink") Irssi的版本，还有从前的Cocoa客户端[Colloquy](https://zh.wikipedia.org/wiki/Colloquy "wikilink")（基于他们自己的IRC库的实现）。

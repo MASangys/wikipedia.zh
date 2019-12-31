@@ -1,3 +1,6 @@
+> 本文内容由[C++標準函式庫](https://zh.wikipedia.org/wiki/C++標準函式庫)转换而来。
+
+
 [C++](../Page/C++.md "wikilink")中的**標準程式庫**（**Standard Library** ）是[类和](../Page/类_\(计算机科学\).md "wikilink")[函式的集合](https://zh.wikipedia.org/wiki/函式 "wikilink")，其使用[核心語言寫成](https://zh.wikipedia.org/wiki/核心語言 "wikilink")。標準程式庫提供若干泛型容器、函式物件、泛型字串和串流（包含交互和檔案I/O），支援部分語言特性和常用的函式，如開平方根。C++標準程式庫也吸收了[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink") C90 [C標準程式庫](https://zh.wikipedia.org/wiki/C標準程式庫 "wikilink")。標準程式庫的特性宣告於*std*[命名空間之中](https://zh.wikipedia.org/wiki/命名空間 "wikilink")。
 
 C++標準程式庫大量參考了並基於[標準模板程式庫（STL）所建立的習慣用法](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")，包含容器、演算法、迭代器、函式物件等。此一部分占去标准库相当大的比重，因而有些人錯誤地使用“STL”指称整个C++標準程式庫。但這並非為正確的概念，C++標準程式庫和STL共有了許多特性，但都不是彼此的超集。

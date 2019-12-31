@@ -1,3 +1,6 @@
+> 本文内容由[Technōs Japan](https://zh.wikipedia.org/wiki/Technōs_Japan)转换而来。
+
+
 **Technōs Japan株式会社**（，1981年12月－1996年，通常簡稱「Technos（）」）是[日本](../Page/日本.md "wikilink")一家已破產的[電子遊戲開發公司](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，擅長於[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")及[運動遊戲](https://zh.wikipedia.org/wiki/運動遊戲 "wikilink")，以開發出[熱血系列](../Page/熱血系列.md "wikilink")和[雙截龍系列](../Page/雙截龍系列.md "wikilink")而盛極一時。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[RAW](https://zh.wikipedia.org/wiki/RAW)转换而来。
+
+
 **原始图像文件**包含从[数码相机](https://zh.wikipedia.org/wiki/数码照相机 "wikilink")、[扫描器或](../Page/影像掃描器.md "wikilink")[电影胶片扫描仪的](https://zh.wikipedia.org/wiki/电影胶片 "wikilink")[图像传感器所处理数据](https://zh.wikipedia.org/wiki/图像传感器 "wikilink")。之所以这样命名，是因为他们尚未被处理，未被[打印或用于编辑](https://zh.wikipedia.org/wiki/打印 "wikilink")。通常情况下，原始图像有宽[色域](../Page/色域.md "wikilink")的内部色彩，可以进行精确的调整，可以在转换之前作出一些简单修改，如[TIFF](../Page/TIFF.md "wikilink")或[JPEG](../Page/JPEG.md "wikilink")文件格式存储。方便打印，或进一步的处理。这些编码往往依赖于色彩图像的设备。这些图像常常被形容为*“RAW* 图像文件”，虽然实际上不是指单一的原始文件格式。其实有几十种不同型号的数码设备在使用这种格式（常见于数码相机或胶片扫描仪）。 \[1\] 原始图像文件，有时也被称为**数字底片**，因为它们充当与电影[底片](../Page/底片.md "wikilink")相同的角色，并不是作为图像直接使用，而是创建一个包含所有信息的图像。同样，转换成可视格式原始图像文件的过程中，有时也被称为渲染原始图像，相当于电影发展过程中用于[感光胶片转换成可视图像的比喻](../Page/底片.md "wikilink")。图像渲染是[白平衡和色彩分级的过程中的一部分](https://zh.wikipedia.org/wiki/白平衡 "wikilink")。
 
 就像照相底片一样，原始的数字图像可以有更宽的[动态范围比](https://zh.wikipedia.org/wiki/动态范围 "wikilink")，最终的最终图像格式或色域，它保留了大部分拍摄的图像信息。原始图像格式的目的是保存信息的损失降到最低，从传感器获得的数据，和周围捕获的图像（[元数据](../Page/元数据.md "wikilink")）的条件。

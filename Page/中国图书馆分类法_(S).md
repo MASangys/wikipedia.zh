@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(S\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(S\))转换而来。
+> 本文内容由[中国图书馆分类法 \(S\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(S\))转换而来。
 
 
 ## 农业科学

@@ -1,3 +1,6 @@
+> 本文内容由[Wii頻道](https://zh.wikipedia.org/wiki/Wii頻道)转换而来。
+
+
 [Wii_channels.jpg](https://zh.wikipedia.org/wiki/File:Wii_channels.jpg "fig:Wii_channels.jpg") 「**Wii頻道**」（****）是[任天堂](../Page/任天堂.md "wikilink")所發售的家用電視遊樂器主機[Wii](../Page/Wii.md "wikilink")的操作系統中，可增加應用軟體的總稱，任天堂稱呼這些軟體為「頻道」。以[電視頻道作為設計概念](https://zh.wikipedia.org/wiki/電視台 "wikilink")，利用選單（）連接各頻道。不同的頻道在畫面上依照格線排列，使用者利用「[Wii Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")」的定位指向功能操作選單。使用者可以自行調整格線排列的方式，也可以將不同頻道或虛擬電子遊戲（）的連結放置在選單中的48個欄位內。\[1\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[AutoRun](https://zh.wikipedia.org/wiki/AutoRun)转换而来。
+
+
 [AutoRun.png](https://zh.wikipedia.org/wiki/File:AutoRun.png "fig:AutoRun.png") 上「自動播放」的畫面\]\] AutoRun和AutoPlay是[微軟視窗系統的元件](https://zh.wikipedia.org/wiki/微軟視窗 "wikilink")，其內容標示着系統在搜尋到裝置時可採取的行動。
 
 AutoRun在[Windows 95時首度露面](../Page/Windows_95.md "wikilink")，目的是幫助使用者正確執行光碟上製作者想要執行的檔案，另外AutoRun也能透過雙擊**我的電腦**內的裝置圖示啟動AutoRun。但後來隨身碟病毒橫行，微軟釋出更新關閉非光碟機的AutoRun。

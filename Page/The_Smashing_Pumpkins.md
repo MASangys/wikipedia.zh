@@ -1,3 +1,6 @@
+> 本文内容由[The Smashing Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins)转换而来。
+
+
 **碎南瓜樂團**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**The Smashing Pumpkins**）是一支来自于[美国](../Page/美国.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")的[另类摇滚](../Page/另类摇滚.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，成军于1988年，成员为[比利·寇根](https://zh.wikipedia.org/wiki/比利·寇根 "wikilink")（Billy Corgan，主唱、吉他手、鋼琴）、[井葉吉伸](https://zh.wikipedia.org/wiki/井葉吉伸 "wikilink")（[吉他](../Page/吉他.md "wikilink")手、主唱）、[達西·沃茲奇](https://zh.wikipedia.org/wiki/達西·沃茲奇 "wikilink")（D'arcy Wretzky，[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、主唱）、[吉米·錢柏林](https://zh.wikipedia.org/wiki/吉米·錢柏林 "wikilink")（Jimmy Chamberlin，[鼓](../Page/鼓.md "wikilink")手、[打擊樂器](https://zh.wikipedia.org/wiki/打擊樂器 "wikilink")）。乐队作品的风格涵盖了[油漬摇滚](https://zh.wikipedia.org/wiki/油漬摇滚 "wikilink")、[重金屬](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")、[梦幻流行乐](https://zh.wikipedia.org/wiki/梦幻流行乐 "wikilink")、[哥特摇滚](https://zh.wikipedia.org/wiki/哥特摇滚 "wikilink")、[古典等](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")。虽然不是一支纯粹的[试验性乐队](https://zh.wikipedia.org/wiki/试验性乐队 "wikilink")，但是碎南瓜敢于不断创新，挑战不同音乐形式的作风使得它从同时代的乐队中脱颖而出。截至2000年乐队解散为止，碎南瓜在全球的唱片销量大约在3千萬张，是一支名副其实的成功乐队。
 
 ## 樂團歷史

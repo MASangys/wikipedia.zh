@@ -1,3 +1,6 @@
+> 本文内容由[Wii遙控器](https://zh.wikipedia.org/wiki/Wii遙控器)转换而来。
+
+
 [Wii_Remote_Image.jpg](https://zh.wikipedia.org/wiki/File:Wii_Remote_Image.jpg "fig:Wii_Remote_Image.jpg") **Wii遙控器**（**Wii Remote**，暱稱：Wiimote，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是[任天堂](../Page/任天堂.md "wikilink")遊戲主機[Wii](../Page/Wii.md "wikilink")的主要[控制器](https://zh.wikipedia.org/wiki/遊戲控制器 "wikilink")（搖桿）。Wii遙控器的外型為棒狀，就如同電視[遙控器一樣](https://zh.wikipedia.org/wiki/遙控器 "wikilink")，可單手操作。除了像一般遙控器可以用按鈕來控制，它還有兩項功能：[指向定位及](https://zh.wikipedia.org/wiki/指向裝置 "wikilink")[動作感應](https://zh.wikipedia.org/wiki/動作感應 "wikilink")。前者就如同[光線槍或](https://zh.wikipedia.org/wiki/光線槍 "wikilink")[滑鼠一般可以控制](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")[螢幕上的](https://zh.wikipedia.org/wiki/螢幕 "wikilink")[游標](https://zh.wikipedia.org/wiki/游標 "wikilink")，後者可偵測[三維空間當中的移動及旋轉](https://zh.wikipedia.org/wiki/三維空間 "wikilink")，結合兩者可以達成所謂的「體感操作」。玩者可以透過移動和指向來與電視螢幕上的虛擬物件產生互動，此外也可藉由連接擴充設備延伸控制器的功能。
 
 Wii遙控器在遊戲軟體當中可以化為[球棒](https://zh.wikipedia.org/wiki/球棒 "wikilink")、指揮棒、鼓棒、釣魚桿、方向盤、[劍](../Page/劍.md "wikilink")、[槍](../Page/槍.md "wikilink")、手術刀、鉗子……等工具，使用者可以揮動、甩動、砍劈、突刺、迴旋、射擊……等各種方式來使用。體感操作的概念在以往的遊戲中已經出現過，但它們通常需要專用的控制器；將體感操作列入標準配備，讓平台上的所有遊戲都能使用指向定位及動作感應，則可說是Wii的創舉。

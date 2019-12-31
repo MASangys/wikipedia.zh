@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TQ0\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ0\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TQ0\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TQ0\))转换而来。
 
 
   - TQ [化学工业](../Page/化学工业.md "wikilink")

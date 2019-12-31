@@ -1,3 +1,6 @@
+> 本文内容由[AMD加速处理器](https://zh.wikipedia.org/wiki/AMD加速处理器)转换而来。
+
+
 **加速處理器**（，縮寫**APU**）是[AMD一個](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器品牌](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，包括E1/E2/A4/A6/A8/A10/Athlon/Sempron/FX與Ax-PRO等多個子系列。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 **APU**以往以**Fusion**作為其專案代號。[AMD Ryzen以後](../Page/AMD_Ryzen.md "wikilink")，APU指的是整合了顯示核心的AMD處理器。

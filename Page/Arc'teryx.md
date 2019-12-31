@@ -1,3 +1,6 @@
+> 本文内容由[Arc\'teryx](https://zh.wikipedia.org/wiki/Arc\'teryx)转换而来。
+
+
 [Arcteryx_logo.jpg](https://zh.wikipedia.org/wiki/File:Arcteryx_logo.jpg "fig:Arcteryx_logo.jpg") **Arc'teryx**，中文被称为**始祖鸟**及**加拿大鸟**等，是一个主要出品户外服装、运动装备的公司，1991年成立于[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚的](https://zh.wikipedia.org/wiki/不列颠哥伦比亚 "wikilink")[温哥华](https://zh.wikipedia.org/wiki/温哥华 "wikilink")。目前虽然有部分附属产品的生产移至了[新西兰](../Page/新西兰.md "wikilink")、[越南和](https://zh.wikipedia.org/wiki/越南 "wikilink")[中国等地](https://zh.wikipedia.org/wiki/中国 "wikilink")，但该公司的总部、设计室、主要的生产车间仍然在温哥华，其产品多用于[攀岩](../Page/攀岩.md "wikilink")、[徒步等活动](https://zh.wikipedia.org/wiki/徒步 "wikilink")。
 
 该公司由Dave Lane和Jeremy Guard创建，原名为*Rock Solid*，最早的产品是攀岩装备。通过使用热压合技术，从而设计并生产出了*Vapor*[系带](https://zh.wikipedia.org/wiki/系带 "wikilink")，该产品此后成为该公司最流行的产品之一。公司运营的第二年，随着公司重新定位并召集新员工，Arc'teryx推出了也采用Vapor技术的*Bora*系列[背包](../Page/背包.md "wikilink")。1996年，Arc'teryx获得了[WL Gore and AssociatesGore](https://zh.wikipedia.org/wiki/WL_Gore_and_Associates "wikilink")-Tex面料的使用授权，公司随后将应用于新服装的生产。

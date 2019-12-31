@@ -1,3 +1,6 @@
+> 本文内容由[Vim](https://zh.wikipedia.org/wiki/Vim)转换而来。
+
+
 **Vim**是从[vi发展出来的一个](https://zh.wikipedia.org/wiki/vi "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")。其代码补完、编译及错误跳转等方便编程的功能特别丰富，在程序员中被广泛使用。和[Emacs](../Page/Emacs.md "wikilink")并列成为[类Unix系统](../Page/类Unix系统.md "wikilink")用户最喜欢的编辑器。
 
 Vim的第一个版本由[布萊姆·米勒在](https://zh.wikipedia.org/wiki/布萊姆·米勒 "wikilink")1991年发布。最初的简称是**V**i **IM**itation，随着功能的不断增加，正式名称改成了**V**i **IM**proved。现在是在[开放源代码](../Page/开放源代码.md "wikilink")方式下发行的[自由软件](../Page/自由软件.md "wikilink")。

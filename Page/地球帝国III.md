@@ -1,3 +1,6 @@
+> 本文内容由[地球帝国III](https://zh.wikipedia.org/wiki/地球帝国III)转换而来。
+
+
 \-{T|zh:地球帝国 III;zh-hans:地球帝国 III;zh-hant:地球帝國 III;zh-cn:地球帝国 III;zh-tw:世紀爭霸 III;zh-hk:世紀爭霸 III;zh-mo:世紀爭霸 III;}-   是一款运行于[windows平台的](https://zh.wikipedia.org/wiki/windows "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")，由[Mad Doc Software开发](https://zh.wikipedia.org/wiki/Mad_Doc_Software "wikilink")，[Sierra Entertainment在](https://zh.wikipedia.org/wiki/Sierra_Entertainment "wikilink")2007年11月6日发布。游戏只有5个时代；分別為古代、中古時代、殖民時代、現代和未來，比前作要少很多。本作是[地球帝国系列](../Page/地球帝国系列.md "wikilink")的最新作品。
 
 ## 游戏内容

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Money](https://zh.wikipedia.org/wiki/Microsoft_Money)转换而来。
+
+
 **Microsoft Money**是由[微軟推出的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[個人理財軟體](https://zh.wikipedia.org/wiki/個人理財 "wikilink")，適用於使用[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系統的電腦](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，另有推出用於[Windows Mobile的版本](../Page/Windows_Mobile.md "wikilink")（現有Money 2000-2006版，但不支援Windows Mobile 5.0）。名為Microsoft Money Plus的最新版於2007年8月發售，共分為四個版本：Essentials、Deluxe、Premium與Home & Business。
 
 Microsoft Money的主要競爭對手為[Intuit](../Page/Intuit.md "wikilink")公司的個人理財軟體[Quicken及中小企業會計軟體](https://zh.wikipedia.org/wiki/Quicken "wikilink")[QuickBooks](https://zh.wikipedia.org/wiki/QuickBooks "wikilink")，雖然相較之下，Intuit是間小公司，然而在會計理財軟體的市場佔有率，QuickBooks卻一直在美國的中小型企業中佔有重要地位。Microsoft於2009年6月計畫停止發展及販售Microsoft Money，技術支援目前計畫將到2011年1月為止。\[1\] 另一方面，新推出的[Microsoft Office Accounting](../Page/Microsoft_Office_Accounting.md "wikilink") 2009 Express提供免費下載，另有Professional版本可供購買；將整合Office套裝軟體的優勢，與Intuit的產品競爭。

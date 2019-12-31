@@ -1,3 +1,6 @@
+> 本文内容由[IBM PC](https://zh.wikipedia.org/wiki/IBM_PC)转换而来。
+
+
 **IBM PC**是**IBM个人电脑**（Personal Computer）的缩写，是[IBM PC兼容机硬件平台的原型和前身](../Page/IBM_PC兼容机.md "wikilink")，其型号为5150，1981年8月12日推出，是[IBM](../Page/IBM.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[博喀拉藤](https://zh.wikipedia.org/wiki/博喀拉藤 "wikilink")（Boca Raton）的一组工程师和设计师在[唐·埃斯特利奇](https://zh.wikipedia.org/wiki/唐·埃斯特利奇 "wikilink")（Don Estridge）的领导下设计的。
 
 “个人电脑”这个称呼最早用於1972年[施乐帕洛阿尔托研究中心研制的](https://zh.wikipedia.org/wiki/施乐帕洛阿尔托研究中心 "wikilink")[Xerox Alto电脑](https://zh.wikipedia.org/wiki/Xerox_Alto "wikilink")，到1981年前这个称呼已经相当普遍，但是由于IBM PC的巨大成功，此后这个词几乎只用於与IBM标准兼容的[微型计算机](../Page/微型计算机.md "wikilink")了。

@@ -1,3 +1,6 @@
+> 本文内容由[8start Launcher](https://zh.wikipedia.org/wiki/8start_Launcher)转换而来。
+
+
 **8start Launcher**是[Microsoft Windows系統下的一款免費桌面軟件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，主要功能包括簡潔桌面、快速啟動軟件等。
 
 ## 系統需求

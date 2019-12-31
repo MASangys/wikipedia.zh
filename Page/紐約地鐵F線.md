@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵F線](https://zh.wikipedia.org/wiki/紐約地鐵F線)转换而来。
+
+
 **F線第六大道慢車**（），又稱**紐約地鐵F線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一個[地鐵](../Page/地鐵.md "wikilink")系統。由於該線使用[IND第六大道線](../Page/IND第六大道線.md "wikilink")通過[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為橙色\[1\]。
 
 F線列車任何時候都營運，來往的[179街來往](https://zh.wikipedia.org/wiki/牙買加-179街車站_\(IND皇后林蔭路線\) "wikilink")[康尼島](../Page/康尼島.md "wikilink")的[斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(IND卡爾弗線\) "wikilink")，在皇后區以快車營運（[森林小丘-71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")[21街-皇后橋](https://zh.wikipedia.org/wiki/21街-皇后橋車站_\(IND_63街線\) "wikilink")），在曼哈頓和布魯克林以慢車營運。

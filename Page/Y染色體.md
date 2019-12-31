@@ -1,3 +1,6 @@
+> 本文内容由[Y染色體](https://zh.wikipedia.org/wiki/Y染色體)转换而来。
+
+
 **Y染色體**是属于[XY性別決定系統的大多數](https://zh.wikipedia.org/wiki/XY性別決定系統 "wikilink")[哺乳动物](../Page/哺乳动物.md "wikilink")（包括[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")）的两条[性染色體之一](https://zh.wikipedia.org/wiki/性染色體 "wikilink")。在哺乳动物的Y染色体中含有的[SRY基因能觸發](https://zh.wikipedia.org/wiki/SRY基因 "wikilink")[睪丸的](https://zh.wikipedia.org/wiki/睪丸 "wikilink")[生长](https://zh.wikipedia.org/wiki/動物胚胎發生 "wikilink")，并由此決定[雄性](https://zh.wikipedia.org/wiki/雄性 "wikilink")[性狀](https://zh.wikipedia.org/wiki/性狀 "wikilink")。人类的Y染色体中包含约6千万个[碱基对](../Page/碱基对.md "wikilink")。Y染色体上的基因只能由[亲代中的雄性传递给](https://zh.wikipedia.org/wiki/亲代 "wikilink")[子代中的雄性](https://zh.wikipedia.org/wiki/子代 "wikilink")（即由[父亲传递给](https://zh.wikipedia.org/wiki/父亲 "wikilink")[儿子](https://zh.wikipedia.org/wiki/儿子 "wikilink")），因此在Y染色体上留下了基因的族谱，[Y-DNA分析现在已应用于家族历史的研究](https://zh.wikipedia.org/wiki/Y-DNA分析 "wikilink")。
 
 ## 概观

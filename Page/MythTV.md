@@ -1,3 +1,6 @@
+> 本文内容由[MythTV](https://zh.wikipedia.org/wiki/MythTV)转换而来。
+
+
 **MythTV**是用來把[Linux](../Page/Linux.md "wikilink")電腦變成[數位錄影機](https://zh.wikipedia.org/wiki/數位錄影機 "wikilink")、[HTPC的軟體](https://zh.wikipedia.org/wiki/HTPC "wikilink")，而且採用了[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")。
 
 ## 歷史

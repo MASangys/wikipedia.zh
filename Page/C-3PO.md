@@ -1,3 +1,6 @@
+> 本文内容由[C-3PO](https://zh.wikipedia.org/wiki/C-3PO)转换而来。
+
+
 [Anthony_Daniels03_cropped.jpg](https://zh.wikipedia.org/wiki/File:Anthony_Daniels03_cropped.jpg "fig:Anthony_Daniels03_cropped.jpg") **C-3PO**（音為See-Threepio），亦有簡單地叫他作**3PO**，是《[星球大戰](https://zh.wikipedia.org/wiki/星球大戰 "wikilink")》系列中的角色，無論聲音或演繹，六部曲全由（Anthony Daniels）所擔任。[星球大戰年表中](https://zh.wikipedia.org/wiki/星球大戰年表 "wikilink")，他於32BBY（[星際大戰首部曲：威脅潛伏](../Page/星際大戰首部曲：威脅潛伏.md "wikilink")）由[安納金·天行者所製造](https://zh.wikipedia.org/wiki/安納金·天行者 "wikilink")，後來與[R2-D2](../Page/R2-D2.md "wikilink")展開多次冒險。
 
 ## 生平

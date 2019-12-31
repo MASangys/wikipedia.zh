@@ -1,3 +1,6 @@
+> 本文内容由[ZoneAlarm](https://zh.wikipedia.org/wiki/ZoneAlarm)转换而来。
+
+
 **ZoneAlarm**（简称ZA）是由[以色列](../Page/以色列.md "wikilink")CheckPoint公司下属的Zone Labs出品的一款知名的网络[防火墙](../Page/防火墙.md "wikilink")程序。因其免費且較容易被使用，故常被電腦雜誌推薦，在[中國大陸已有汉化版本](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
 
 ## 程序分类

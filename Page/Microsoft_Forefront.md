@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Forefront](https://zh.wikipedia.org/wiki/Microsoft_Forefront)转换而来。
+
+
 [MicrosoftForefrontClientSecurity-ScreenCapture.png](https://zh.wikipedia.org/wiki/File:MicrosoftForefrontClientSecurity-ScreenCapture.png "fig:MicrosoftForefrontClientSecurity-ScreenCapture.png") **Microsoft ForeFront**是[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Microsoft Windows用戶端及伺服器端的一系列保安產品名稱](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，和[Microsoft Security Essentials為姊妹軟件](../Page/Microsoft_Security_Essentials.md "wikilink")。
 
 這一系列產品包括了以下各項產品：

@@ -1,3 +1,6 @@
+> 本文内容由[RASA工業](https://zh.wikipedia.org/wiki/RASA工業)转换而来。
+
+
 **RASA工業**（****、**RASA Industries, LTD**）為[日本](../Page/日本.md "wikilink")的一個[化學](../Page/化學.md "wikilink")製造廠商。
 
 參予產業包括化學[肥料](../Page/肥料.md "wikilink")、非鐵金屬煉製、[石炭開採](https://zh.wikipedia.org/wiki/石炭 "wikilink")、[硫酸](../Page/硫酸.md "wikilink")製造、採礦機械製造工業的事業。除了擁有[日本](../Page/日本.md "wikilink")[沖繩縣](../Page/沖繩縣.md "wikilink")[大東群島](../Page/大東群島.md "wikilink")的[沖大東島](../Page/沖大東島.md "wikilink")以外，經營的礦區還包括[岩手縣的](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[田老礦山](https://zh.wikipedia.org/wiki/田老礦山 "wikilink")、[宮崎縣](../Page/宮崎縣.md "wikilink")[見立礦山](https://zh.wikipedia.org/wiki/見立礦山 "wikilink")、[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[田川煤礦](https://zh.wikipedia.org/wiki/田川煤礦 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[道格拉斯DC-2](https://zh.wikipedia.org/wiki/道格拉斯DC-2)转换而来。
+
+
 **[道格拉斯DC](https://zh.wikipedia.org/wiki/道格拉斯 "wikilink")-2**是以全金屬機身，為一架14人座雙[發動機螺旋槳客機](https://zh.wikipedia.org/wiki/發動機 "wikilink")。DC-2係為12人座的[DC-1延長機身後之延伸型](https://zh.wikipedia.org/wiki/DC-1 "wikilink")。它的直接競爭對手是[波音247](https://zh.wikipedia.org/wiki/波音247 "wikilink")。1936年道格拉斯公司製造了更大更成功的飛機，為30人座的[DC-3](https://zh.wikipedia.org/wiki/DC-3 "wikilink")。
 
 1920年代以[木材](../Page/木材.md "wikilink")為材料的半硬殼設計使得飛機的結構具備更高的強度與載重，在同一個時期各種[流線型降低阻力的設計和發動機出力的提升](https://zh.wikipedia.org/wiki/流線型 "wikilink")，使得民用航空公司期望以較低或者是相同的成本，取得載重量更高，飛行速度更快的機種。這個趨勢促使飛機公司增加金屬在使用材料的比例上。

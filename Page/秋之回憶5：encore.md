@@ -1,3 +1,6 @@
+> 本文内容由[秋之回憶5：encore](https://zh.wikipedia.org/wiki/秋之回憶5：encore)转换而来。
+
+
 《**秋之回憶5：encore**》（Memories Off 5 encore）是[日本](../Page/日本.md "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲公司 "wikilink")[CyberFront原本預訂於](https://zh.wikipedia.org/wiki/CyberFront "wikilink")2007年發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。設定上是接續《[秋之回憶\#5：中斷的影片](../Page/秋之回憶5：中斷的影片.md "wikilink")》劇情的續作。
 
 原本所屬[KID](../Page/KID.md "wikilink")公司在2006年12月宣告破產，停止相關的發售計劃。但2007年2月CyberFont公司接手所有KID軟體的相關權利，於2007年7月12日內發售。

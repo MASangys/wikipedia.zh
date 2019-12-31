@@ -1,3 +1,6 @@
+> 本文内容由[MyRadio](https://zh.wikipedia.org/wiki/MyRadio)转换而来。
+
+
 **MyRadio**是香港一個[網上電台](https://zh.wikipedia.org/wiki/網上電台 "wikilink")，由資深傳媒人[黃毓民](../Page/黃毓民.md "wikilink")及[梁錦祥](../Page/梁錦祥.md "wikilink")於2007年創辦。
 
 MyRadio曾於2008年與網站[香港人網](../Page/香港人網.md "wikilink")合併。2010年9月6日，與香港人網分拆，重新獨立運作。MyRadio與同由黃毓民創辦的[普羅政治學苑](../Page/普羅政治學苑.md "wikilink")合作緊密，是其網上平台。

@@ -1,3 +1,6 @@
+> 本文内容由[道格拉斯DC-3](https://zh.wikipedia.org/wiki/道格拉斯DC-3)转换而来。
+
+
 **道格拉斯DC-3**是一款由[道格拉斯飛行器公司生產的雙引擎螺旋槳飛機](https://zh.wikipedia.org/wiki/道格拉斯飛行器公司 "wikilink")。它是[DC-2的改良版](https://zh.wikipedia.org/wiki/DC-2 "wikilink")，提供多個民用或軍用版本（[C-47](https://zh.wikipedia.org/wiki/C-47 "wikilink")），使它成為最受歡迎的螺旋槳飛機之一，同時因其在第二次世界大戰中的表現，它被認為是航空史上最具代表性的運輸機之一。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Typedef](https://zh.wikipedia.org/wiki/Typedef)转换而来。
+
+
 在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")[程式語言中](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，**`typedef`**是一個[關鍵字](../Page/保留字.md "wikilink")。它用來對一個[資料類型](../Page/資料類型.md "wikilink")取一個別名，目的是為了使[原始碼更易於閱讀和理解](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。它通常用於簡化宣告複雜的類型組成的結構 ，但它也常常在各種長度的整數資料型別中看到，例如`size_t`和`time_t`。
 
 ## 語法

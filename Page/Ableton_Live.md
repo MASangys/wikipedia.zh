@@ -1,4 +1,4 @@
-> 本文内容由[Ableton Live](https://zh.wikipedia.org/wiki/Ableton Live)转换而来。
+> 本文内容由[Ableton Live](https://zh.wikipedia.org/wiki/Ableton_Live)转换而来。
 
 
 ***Ableton Live***是一套以為基礎的，可在Macintosh及Windows上執行。相比於其他的，Live設計出來多數是用來作實時[樂器演奏多於作為一個作曲及編曲的工具](https://zh.wikipedia.org/wiki/音樂樂器 "wikilink")。從它的名字就可得知。

@@ -1,3 +1,6 @@
+> 本文内容由[無雙OROCHI 蛇魔](https://zh.wikipedia.org/wiki/無雙OROCHI_蛇魔)转换而来。
+
+
 是由[光榮的ω](https://zh.wikipedia.org/wiki/光榮 "wikilink")-force開發，由光榮發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。遊戲[PlayStation 2版在](../Page/PlayStation_2.md "wikilink")2007年3月21日\[1\]在日本正式發行，而美版則在2007年9月18日\[2\]發行，歐洲在2007年9月21日\[3\]發行，澳洲在2007年9月27日\[4\]發行，以及紐西蘭在2007年9月28日\[5\]發行。此外遊戲也在之後發行了[Xbox 360版](../Page/Xbox_360.md "wikilink")\[6\]和[PSP版](../Page/PlayStation_Portable.md "wikilink")\[7\]，并且在2008年3月20日發行[PC](../Page/PC.md "wikilink")版\[8\]。
 
 在2008年4月3日，[光榮正式在日本推出續集](https://zh.wikipedia.org/wiki/光榮 "wikilink")[蛇魔再臨](../Page/無雙OROCHI_蛇魔再臨.md "wikilink")，歐版和美版則在2008年9月正式發行。

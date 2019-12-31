@@ -1,3 +1,6 @@
+> 本文内容由[現代Rotem](https://zh.wikipedia.org/wiki/現代Rotem)转换而来。
+
+
 [Maglev_in_Daejeon_01.jpg](https://zh.wikipedia.org/wiki/File:Maglev_in_Daejeon_01.jpg "fig:Maglev_in_Daejeon_01.jpg")生產的磁浮列車\]\] **現代Rotem**（；）是[南韓一家出產](https://zh.wikipedia.org/wiki/南韓 "wikilink")[鐵路車輛](../Page/鐵路車輛.md "wikilink")、[軍事](../Page/軍事.md "wikilink")及廠房產品的公司，為[現代汽車](../Page/現代汽車.md "wikilink")集團的一員，在韓國有逾3,800名員工，其產品出口國家達35個。
 
 使用現代Rotem製地鐵列車的系統包括[港鐵](../Page/港鐵.md "wikilink")、[台鐵](https://zh.wikipedia.org/wiki/台鐵 "wikilink")、[印度](../Page/印度.md "wikilink")[新德里捷運及](https://zh.wikipedia.org/wiki/新德里捷運 "wikilink")[加拿大](../Page/加拿大.md "wikilink")[溫哥華架空列車的](https://zh.wikipedia.org/wiki/溫哥華架空列車 "wikilink")[加拿大綫](https://zh.wikipedia.org/wiki/加拿大綫 "wikilink")、[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")的[阿拉木图地铁](https://zh.wikipedia.org/wiki/阿拉木图地铁 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[STS-64](https://zh.wikipedia.org/wiki/STS-64)转换而来。
+
+
 ****是历史上第六十三次航天飞机任务，也是[发现号航天飞机的第十九次太空飞行](https://zh.wikipedia.org/wiki/發現號太空梭 "wikilink")。
 
 ## 任务成员

@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 802.1X](https://zh.wikipedia.org/wiki/IEEE_802.1X)转换而来。
+
+
 **IEEE 802.1X**是[IEEE制定关于用户接入网络的认证标准](https://zh.wikipedia.org/wiki/IEEE "wikilink")（注意：此处X是大写\[1\]），全称是“基于端口的网络接入控制”，属于[IEEE 802.1网络协议组的一部分](https://zh.wikipedia.org/wiki/IEEE_802.1 "wikilink")。于2001年标准化，之后为了配合无线网络的接入进行修订改版，于2004年完成。它为想要连接到[LAN或](https://zh.wikipedia.org/wiki/LAN "wikilink")[WLAN的设备提供了一种](https://zh.wikipedia.org/wiki/WLAN "wikilink")[认证机制](https://zh.wikipedia.org/wiki/身份验证 "wikilink")。
 
 IEEE 802.1X协议在用户接入网络（可以是[以太网](../Page/以太网.md "wikilink")／[802.3或者](https://zh.wikipedia.org/wiki/802.3 "wikilink")[WLAN网](https://zh.wikipedia.org/wiki/WLAN "wikilink")）之前运行，运行于网络中的[数据链路层](../Page/数据链路层.md "wikilink")，[EAP](../Page/EAP.md "wikilink")协议[RADIUS协议](https://zh.wikipedia.org/wiki/RADIUS "wikilink")。

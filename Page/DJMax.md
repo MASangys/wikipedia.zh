@@ -1,3 +1,6 @@
+> 本文内容由[DJMax](https://zh.wikipedia.org/wiki/DJMax)转换而来。
+
+
 DJMAX是由[韩国遊戲公司](https://zh.wikipedia.org/wiki/韩国 "wikilink")[PENTAVISION制作的下落式](https://zh.wikipedia.org/wiki/PENTAVISION "wikilink")[音乐游戏系列](../Page/音樂遊戲.md "wikilink")。
 
 ## 概要

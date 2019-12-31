@@ -1,4 +1,4 @@
-> 本文内容由[Hello Kitty藏屍案](https://zh.wikipedia.org/wiki/Hello Kitty藏屍案)转换而来。
+> 本文内容由[Hello Kitty藏屍案](https://zh.wikipedia.org/wiki/Hello_Kitty藏屍案)转换而来。
 
 
 **Hello Kitty藏屍案**發生於1999年的[香港](../Page/香港.md "wikilink")，是轟動一時的[殺人案](https://zh.wikipedia.org/wiki/殺人 "wikilink")。案中23歲女死者樊敏儀，遭多人禁錮於[尖沙咀](../Page/尖沙咀.md "wikilink")[加連威老道](../Page/加連威老道.md "wikilink")31號一幢[唐樓](../Page/唐樓.md "wikilink")的3B單位裡，被迫飲尿、吃糞便、嚴重毆打和燃燒身體；死後被肢解、烹屍，頭顱被塞進一個[Hello Kitty](../Page/Hello_Kitty.md "wikilink")[洋娃娃之內](https://zh.wikipedia.org/wiki/洋娃娃 "wikilink")，其餘軀幹不知所蹤。

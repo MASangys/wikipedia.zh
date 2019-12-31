@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵C線](https://zh.wikipedia.org/wiki/紐約地鐵C線)转换而来。
+
+
 **C線第八大道慢車**（），又稱**紐約地鐵C線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")，全長19英哩\[1\]。由於該線使用[IND第八大道線通過](https://zh.wikipedia.org/wiki/IND第八大道線 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為藍色\[2\]。
 
 C線列車除深夜外任何時候都營運，來往[華盛頓高地的](https://zh.wikipedia.org/wiki/華盛頓高地_\(曼哈頓\) "wikilink")[168街與](https://zh.wikipedia.org/wiki/168街車站_\(IND第八大道線\) "wikilink")的[尤克利德大道](https://zh.wikipedia.org/wiki/尤克利德大道車站_\(IND福爾頓街線\) "wikilink")，停靠沿線全部車站。在深夜時段，日間時以快車營運的[A線列車以慢車營運整條C線](../Page/紐約地鐵A線.md "wikilink")，停靠所有車站。

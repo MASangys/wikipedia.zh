@@ -1,4 +1,4 @@
-> 本文内容由[Monkey\'s Audio](https://zh.wikipedia.org/wiki/Monkey\'s Audio)转换而来。
+> 本文内容由[Monkey\'s Audio](https://zh.wikipedia.org/wiki/Monkey\'s_Audio)转换而来。
 
 
 **Monkey's Audio**，是一种常见的无损音訊压缩编码格式，[副檔名为](https://zh.wikipedia.org/wiki/副檔名 "wikilink").ape。与有损音訊压缩（如[MP3](../Page/MP3.md "wikilink")、[Ogg Vorbis或者](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")[AAC等](https://zh.wikipedia.org/wiki/AAC "wikilink")）不同的是，Monkey's Audio压缩时不会丢失数据。一个压缩为Monkey's Audio的音訊文件听起来与原文件完全一样。Monkey's Audio文件的播放列表使用.apl。

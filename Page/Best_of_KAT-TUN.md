@@ -1,3 +1,6 @@
+> 本文内容由[Best of KAT-TUN](https://zh.wikipedia.org/wiki/Best_of_KAT-TUN)转换而来。
+
+
 《**Best of KAT-TUN**》是2006年3月22日所發行的偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第一張專輯。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[AllMovie](https://zh.wikipedia.org/wiki/AllMovie)转换而来。
+
+
 **Allmovie**（原名**All Movie Guide**）是一個包含關於[電影明星](https://zh.wikipedia.org/wiki/電影明星 "wikilink")、[電影與](https://zh.wikipedia.org/wiki/電影 "wikilink")[電視劇資訊的商業資料庫](https://zh.wikipedia.org/wiki/電視劇 "wikilink")\[1\]\[2\]。它由電影資料庫維護者Michael Erlewine與擁有數學[哲學博士](../Page/哲學博士.md "wikilink")學位的Vladimir Bogdanov共同創辦，兩人亦創辦了[Allmusic與](https://zh.wikipedia.org/wiki/Allmusic "wikilink")[Allgame](https://zh.wikipedia.org/wiki/Allgame "wikilink")。
 
 ## 历史

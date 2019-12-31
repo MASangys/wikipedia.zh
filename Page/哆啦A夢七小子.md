@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢七小子](https://zh.wikipedia.org/wiki/哆啦A夢七小子)转换而来。
+
+
 《**哆啦A夢七小子**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是一套以主角[哆啦A夢和學生時代的六位同學為主題的系列](../Page/哆啦A夢_\(角色\).md "wikilink")，該系列最大的特色就是強調「[友情](../Page/友情.md "wikilink")」。
 
 ## 概要

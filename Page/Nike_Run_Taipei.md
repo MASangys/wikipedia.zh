@@ -1,3 +1,6 @@
+> 本文内容由[Nike Run Taipei](https://zh.wikipedia.org/wiki/Nike_Run_Taipei)转换而来。
+
+
 **Nike Run Taipei**（譯：**Nike台北路跑**），是由中華民國路跑協會主辦，Nike冠名贊助的一個路跑活動，前身是以推廣休閒路跑為主的「Nike 5K Run（譯：Nike五公里休閒路跑）」。
 
 在第一屆舉辦時，是隸屬於[台北國際國道馬拉松比賽](../Page/台北國際國道馬拉松比賽.md "wikilink")的一個休閒路跑組別。當時，[Nike為了評估其贊助效益與各分組參與比例](https://zh.wikipedia.org/wiki/Nike "wikilink")，故將第一屆的5K Run與[國道馬拉松同時進行](../Page/台北國際國道馬拉松比賽.md "wikilink")，名稱為「Nike Just Run」。

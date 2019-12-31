@@ -1,3 +1,6 @@
+> 本文内容由[MASM](https://zh.wikipedia.org/wiki/MASM)转换而来。
+
+
 **MASM** 是 **Microsoft Macro Assembler** 的縮寫，它是[微軟為](https://zh.wikipedia.org/wiki/微軟 "wikilink") [x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [微處理器家族](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，所寫的一套[巨集組譯器](https://zh.wikipedia.org/wiki/巨集組譯器 "wikilink")。它最初是用來發展在 [MS-DOS](../Page/MS-DOS.md "wikilink") 上面執行的軟體，同時，它也是該系統最流行的組譯器。
 
 它支援的[巨集](../Page/巨集.md "wikilink")很靈巧，既廣泛又多樣性，結構化程式的慣用語法，包含高階架構式的迴圈、程序呼叫，以及輪替 (alternation)（因此，MASM 算是[高階組譯器的一個範本](https://zh.wikipedia.org/wiki/高階組譯器 "wikilink")）。MASM原本是由微軟公司維護的，但從6.12版後不再單獨銷售，而是隨附在微軟軟體開發套件與C語言編譯器下，近期版本的MASM也包含在微軟開發工具Visual Studio中。

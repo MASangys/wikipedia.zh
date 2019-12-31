@@ -1,3 +1,6 @@
+> 本文内容由[AUTOEXEC.BAT](https://zh.wikipedia.org/wiki/AUTOEXEC.BAT)转换而来。
+
+
 **AUTOEXEC.BAT**，又常被稱為**開機執行檔**，是[個人電腦上的一個系統指令檔](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，始源於[MS-DOS](../Page/MS-DOS.md "wikilink")。AUTOEXEC.BAT 的名稱來自英文字「AUTOmatic」和「EXECution」的結合，即「自動執行」之意；副檔名「BAT」則解釋了它是一個[批次檔](../Page/批次檔.md "wikilink")。
 
 AUTOEXEC.BAT 內記載的指令於相對的作業系統啟動時自動執行。

@@ -1,3 +1,6 @@
+> 本文内容由[ADC航空53号班机空难](https://zh.wikipedia.org/wiki/ADC航空53号班机空难)转换而来。
+
+
 **ADC航空公司53航班**是一班於2006年10月29日發生意外墜機事故的客機，飛機在當地約中午的時候（11:00 [UTC](https://zh.wikipedia.org/wiki/UTC "wikilink")）從[奈及利亞](../Page/奈及利亞.md "wikilink")[阿布札的](https://zh.wikipedia.org/wiki/阿布札 "wikilink")[納姆迪·阿齊基韋國際機場起飛](https://zh.wikipedia.org/wiki/納姆迪·阿齊基韋國際機場 "wikilink")，隨後墜毀。在從起飛之後，這架波音737立刻與地面連絡，通報機身破裂並且著火。\[1\]據報飛機上共有104名人員\[2\]，包括奈及利亞國內[伊斯蘭教的最高領袖](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")[莫哈馬度·馬西度](https://zh.wikipedia.org/wiki/莫哈馬度·馬西度 "wikilink")（Mohammadu Maccido）及其子、奈及利亞前總統的兒子。\[3\]生還人數目前還有所爭議，根據報導有6\[4\]或7\[5\]人生還。
 
 ## 資料來源

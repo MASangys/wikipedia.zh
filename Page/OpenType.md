@@ -1,3 +1,6 @@
+> 本文内容由[OpenType](https://zh.wikipedia.org/wiki/OpenType)转换而来。
+
+
 **OpenType**，是一種可縮放字型（scalable font）[電腦字体类型](https://zh.wikipedia.org/wiki/電腦字体 "wikilink")，採用[PostScript](../Page/PostScript.md "wikilink")格式，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[微軟公司與](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[Adobe](../Page/Adobe.md "wikilink")公司聯合开发，用来替代[TrueType](../Page/TrueType.md "wikilink")字型的新字型。这类字体的[文件扩展名](../Page/文件扩展名.md "wikilink")有`.otf、.ttf、.ttc`，类型代码是`OTTO`，现行标准为OpenType 1.8.2。
 
 OpenType最初发表于1996年，并在2000年之后出现大量字体。它源於微軟公司的TrueType Open字型，TrueType Open字型又源於[TrueType](../Page/TrueType.md "wikilink")字型。OpenType font包括了Adobe CID-Keyed font技術。Adobe公司已经在2002年末将其字体库全部改用OpenType格式。到2005年大概有一万多种OpenType字体，Adobe产品占了三分之一。

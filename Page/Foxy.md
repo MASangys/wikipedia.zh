@@ -1,3 +1,6 @@
+> 本文内容由[Foxy](https://zh.wikipedia.org/wiki/Foxy)转换而来。
+
+
 **Foxy**是一個強制上傳分享的[正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[P2P](../Page/對等網路.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，Foxy網站由位思科技負責管理，但位思科技曾在Foxy網站聲明由位思科技負責，與景昌資訊科技公司無合作關係。目前Foxy的網站呈現封鎖狀態，網站連接都會呈現「找不到網頁」的訊息。因Foxy的發行公司是[臺灣](../Page/臺灣.md "wikilink")[公司](../Page/公司.md "wikilink")，故Foxy只有正體中文版，沒有[英文等其它語言的版本](https://zh.wikipedia.org/wiki/英文 "wikilink")，因此主要流行在臺灣、[香港](../Page/香港.md "wikilink")及[澳門](../Page/澳門.md "wikilink")。
 
 2011年10月22日，Foxy宣佈正式終止服務。用戶若開啟Foxy，程式會自行移除，移除後會自動安裝蜂巢安全管家。（此情況僅限於最新版本，舊版仍可使用上傳及下載功能）

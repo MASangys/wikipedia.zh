@@ -1,3 +1,6 @@
+> 本文内容由[OpenVZ](https://zh.wikipedia.org/wiki/OpenVZ)转换而来。
+
+
 **OpenVZ**是基于[Linux内核](../Page/Linux内核.md "wikilink")和[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[操作系统级虚拟化技术](https://zh.wikipedia.org/wiki/操作系统级虚拟化 "wikilink")。OpenVZ允许物理[伺服器运行多个操作系统](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，被称[虚拟专用伺服器](https://zh.wikipedia.org/wiki/虚拟专用伺服器 "wikilink")（VPS，Virtual Private Server）或虚拟环境（VE，Virtual Environment）。
 
 與[VMware](../Page/VMware.md "wikilink")這種[虛擬機和](https://zh.wikipedia.org/wiki/虛擬機 "wikilink")[Xen](../Page/Xen.md "wikilink")這種[硬體輔助虛擬化技術相比](https://zh.wikipedia.org/wiki/硬體輔助虛擬化 "wikilink")，OpenVZ的主机与客户系统都必须是[Linux](../Page/Linux.md "wikilink")（雖然在不同的虛擬環境裡可以用不同的Linux發行版）。但是，OpenVZ聲稱這樣做有性能上的優勢。根据OpenVZ網站的說法，使用OpenVZ與使用獨立的实体伺服器相比，性能只會有1-3%的損失。

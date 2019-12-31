@@ -1,4 +1,4 @@
-> 本文内容由[Mini moke](https://zh.wikipedia.org/wiki/Mini moke)转换而来。
+> 本文内容由[Mini moke](https://zh.wikipedia.org/wiki/Mini_moke)转换而来。
 
 
 [Moke02.png](https://zh.wikipedia.org/wiki/File:Moke02.png "fig:Moke02.png") **Mini Moke** 是一輛由[英國汽車公司在](https://zh.wikipedia.org/wiki/英國 "wikilink")1964 至1968 年，在[伯明罕的Longbridge](https://zh.wikipedia.org/wiki/伯明罕 "wikilink") 車厰，依據 Alec Issigonis [爵士](../Page/爵士.md "wikilink")設計的[柯士甸](https://zh.wikipedia.org/wiki/柯士甸 "wikilink") 迷你 (Mini) [汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")，改裝而成的開篷汽車。在[英國生產了](https://zh.wikipedia.org/wiki/英國 "wikilink")15,000 輛。之後，分別在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[葡萄牙](../Page/葡萄牙.md "wikilink") 及[意大利](../Page/意大利.md "wikilink")生產。

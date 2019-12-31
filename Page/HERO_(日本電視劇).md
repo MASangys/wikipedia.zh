@@ -1,3 +1,6 @@
+> 本文内容由[HERO \(日本電視劇\)](https://zh.wikipedia.org/wiki/HERO_\(日本電視劇\))转换而来。
+
+
 《**HERO**》是一齣[日本](../Page/日本.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於2001年1月8日至2001年3月19日於[富士電視台](../Page/富士電視台.md "wikilink")的「[月九](https://zh.wikipedia.org/wiki/月九 "wikilink")」時段播出，共有11集，主要描述一名中學畢業的行事與眾不同的[檢察官](../Page/檢察官.md "wikilink")，以獨特的視角和洞察力探求真實。
 
 本劇是[木村拓哉](../Page/木村拓哉.md "wikilink")與[松隆子](../Page/松隆子.md "wikilink")自《[-{zh-hans:恋爱世纪;zh-hk:戀愛世紀;zh-tw:戀愛世代;}-](https://zh.wikipedia.org/wiki/戀愛世紀 "wikilink")》後再次創下收視紀錄的合作，平均收視率為34.2%。

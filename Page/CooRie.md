@@ -1,3 +1,6 @@
+> 本文内容由[CooRie](https://zh.wikipedia.org/wiki/CooRie)转换而来。
+
+
 **CooRie**是由**rino**（作詞及主唱）和**長田直之**（作曲及編曲）在2003年共同組成的歌唱團體。但由於長田直之在2003年底退出，CooRie實際上由rino一人獨撐大局。
 
 ## 專輯列表

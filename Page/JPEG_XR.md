@@ -1,3 +1,6 @@
+> 本文内容由[JPEG XR](https://zh.wikipedia.org/wiki/JPEG_XR)转换而来。
+
+
 **JPEG XR**（旧称**HD Photo**及**Windows Media Photo**）是一种[连续色调静止图像压缩算法和文件格式](https://zh.wikipedia.org/wiki/连续色调 "wikilink")，由[Microsoft开发](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，属于[Windows Media家族的一部分](../Page/Windows_Media.md "wikilink")。它支持[有损数据压缩](../Page/有损数据压缩.md "wikilink")以及[无损数据压缩](../Page/无损数据压缩.md "wikilink")，并且是微软的[XPS文档的首选图像格式](https://zh.wikipedia.org/wiki/XPS "wikilink")。目前支持的软件包括[.NET Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")（3.0 or newer），[Windows Vista](../Page/Windows_Vista.md "wikilink")/[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Internet Explorer 9](../Page/Internet_Explorer_9.md "wikilink")，[Flashplayer 11等](https://zh.wikipedia.org/wiki/Flash_player "wikilink")。
 
 ## 描述

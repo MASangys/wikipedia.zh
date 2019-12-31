@@ -1,3 +1,6 @@
+> 本文内容由[Verma模](https://zh.wikipedia.org/wiki/Verma模)转换而来。
+
+
 **Verma模**（Verma module）是[李代數](../Page/李代數.md "wikilink")[表示理論中的基本研究對象](https://zh.wikipedia.org/wiki/表示理論 "wikilink")，其名取自[Daya-Nand Verma](https://zh.wikipedia.org/wiki/Daya-Nand_Verma "wikilink")。Verma模之間的態射相應於[旗流形上的](https://zh.wikipedia.org/wiki/旗流形 "wikilink")[不變微分算子](https://zh.wikipedia.org/wiki/不變微分算子 "wikilink")。
 
 可用Verma模來證明以下命題：[最高權為](https://zh.wikipedia.org/wiki/最高權 "wikilink")\(\lambda\)的[最高權表示的維數有限](https://zh.wikipedia.org/wiki/最高權表示 "wikilink")，若且僅若\(\lambda\)是[支配整權](https://zh.wikipedia.org/wiki/支配整權 "wikilink")（）。

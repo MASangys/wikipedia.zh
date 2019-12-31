@@ -1,3 +1,6 @@
+> 本文内容由[理查德·H·布劳德海德](https://zh.wikipedia.org/wiki/理查德·H·布劳德海德)转换而来。
+
+
 **理查德·哈莱克·布劳德海德**（，）是[美国](../Page/美国.md "wikilink")著名的20世纪[美国文学](../Page/美国文学.md "wikilink")学者。[杜克大学](../Page/杜克大学.md "wikilink")现任校长。
 
 ## 生平

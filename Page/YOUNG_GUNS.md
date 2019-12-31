@@ -1,3 +1,6 @@
+> 本文内容由[YOUNG GUNS](https://zh.wikipedia.org/wiki/YOUNG_GUNS)转换而来。
+
+
 《**YOUNG GUNS**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[林政德](../Page/林政德.md "wikilink")的代表作品，內容主要為青春校園生活與棒球社團故事，最初開始於1990年10月在《[星期漫畫](../Page/星期漫畫.md "wikilink")》雜誌上連載，後以漫畫單行本出版發行，前後歷時 20 年共發行 12 本，創下台灣漫畫最高數百萬冊銷售量，曾被改編為[電視動畫以及製作成](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[DOS](../Page/DOS.md "wikilink")用[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")《YOUNG GUNS大富翁》\[1\]。
 
 ## 背景歷史

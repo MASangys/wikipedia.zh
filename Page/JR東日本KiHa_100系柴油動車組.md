@@ -1,4 +1,4 @@
-> 本文内容由[JR東日本KiHa 100系柴油動車組](https://zh.wikipedia.org/wiki/JR東日本KiHa 100系柴油動車組)转换而来。
+> 本文内容由[JR東日本KiHa 100系柴油動車組](https://zh.wikipedia.org/wiki/JR東日本KiHa_100系柴油動車組)转换而来。
 
 
 **KiHa 100系**（）是[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）的一款液力傳動[柴聯車](../Page/柴聯車.md "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[STAR Movies](https://zh.wikipedia.org/wiki/STAR Movies)转换而来。
+> 本文内容由[STAR Movies](https://zh.wikipedia.org/wiki/STAR_Movies)转换而来。
 
 
 **STAR M-{o}-vies**（[臺灣](../Page/臺灣.md "wikilink")作「-{zh;zh-hant;zh-hans|衛視西片台}-」，[香港](../Page/香港.md "wikilink")、[大陸作](https://zh.wikipedia.org/wiki/大陸 "wikilink")「-{zh;zh-hant;zh-hans|衛視國際電影台}-」\[1\]）是[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")旗下[星空傳媒的](https://zh.wikipedia.org/wiki/星空傳媒 "wikilink")[電影頻道](https://zh.wikipedia.org/wiki/電影 "wikilink")，於[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[地區播放](https://zh.wikipedia.org/wiki/地區 "wikilink")。STAR M-{o}-vies於2012年1月1日在印度、中國大陸、越南、中東及台灣版本之外更名为[FOX Movies](../Page/FOX_Movies.md "wikilink")（于2019年全数转至[福斯公司](../Page/福斯公司.md "wikilink")）。《[英文中國郵報](../Page/英文中國郵報.md "wikilink")》的[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[節目表標示的](https://zh.wikipedia.org/wiki/節目表 "wikilink")[頻道名稱為](https://zh.wikipedia.org/wiki/頻道 "wikilink")「Star international」\[2\]。

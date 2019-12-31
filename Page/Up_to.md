@@ -1,4 +1,4 @@
-> 本文内容由[Up to](https://zh.wikipedia.org/wiki/Up to)转换而来。
+> 本文内容由[Up to](https://zh.wikipedia.org/wiki/Up_to)转换而来。
 
 
 在[数学](../Page/数学.md "wikilink")领域，詞組“up to xxx”表示为了某种目的同一[等价类](../Page/等价类.md "wikilink")中的元素视为一体。“xxxx”描述了某种性质或将中元素变为同一等价类中另一个的操作（即将元素和它变为的那个等价）。例如在[群论](../Page/群论.md "wikilink")中，我们有一个群*G*作用在集合*X*上，在此情形：如果*X*中两个元素在同一轨道中，我们可以说它们等价“up to群作用”。

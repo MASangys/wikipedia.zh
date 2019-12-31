@@ -1,3 +1,6 @@
+> 本文内容由[Ef - a fairy tale of the two.](https://zh.wikipedia.org/wiki/Ef_-_a_fairy_tale_of_the_two.)转换而来。
+
+
 《**ef - a fairy tale of the two.**》，是[日本](../Page/日本.md "wikilink")遊戲公司[minori發售的](https://zh.wikipedia.org/wiki/minori "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，前篇《ef - the first tale.》於2006年12月22日發售\[1\]，後篇《ef - the latter tale.》於2008年5月30日發售。\[2\]遊戲發行商[COMFORT於](https://zh.wikipedia.org/wiki/COMFORT "wikilink")2010年4月29日推出包含前後篇的[Playstation 2版](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")《ef - a fairy tale of the two.》。\[3\]2010年9月17日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[4\]
 
 ## 概要

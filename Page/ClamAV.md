@@ -1,3 +1,6 @@
+> 本文内容由[ClamAV](https://zh.wikipedia.org/wiki/ClamAV)转换而来。
+
+
 [ClamWin_on_Ubuntu.png](https://zh.wikipedia.org/wiki/File:ClamWin_on_Ubuntu.png "fig:ClamWin_on_Ubuntu.png") **Clam AntiVirus**（**ClamAV**）是免費而且[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")，軟體與病毒碼的更新皆由社群免費發佈。目前ClamAV主要是使用在由[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")等[Unix-like系統架設的郵件伺服器上](https://zh.wikipedia.org/wiki/Unix-like "wikilink")，提供[電子郵件的病毒掃描服務](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。ClamAV本身是在[文字介面下運作](../Page/命令行界面.md "wikilink")，但也有許多[圖形介面的前端工具](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")（**GUI front-end**）可用，另外由於其開放原始碼的特性，在[Windows與](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac OS X平台都有其移植版](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 功能

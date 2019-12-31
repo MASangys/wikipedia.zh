@@ -1,3 +1,6 @@
+> 本文内容由[MAC \(化妝品\)](https://zh.wikipedia.org/wiki/MAC_\(化妝品\))转换而来。
+
+
 **MAC**，全名**Makeup Art Cosmetics**，或寫作**M·A·C**，[加拿大](../Page/加拿大.md "wikilink")[化妝品](../Page/化妝品.md "wikilink")[品牌](../Page/品牌.md "wikilink")。
 
 ## 歷史

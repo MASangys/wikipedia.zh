@@ -1,3 +1,6 @@
+> 本文内容由[Antakshari](https://zh.wikipedia.org/wiki/Antakshari)转换而来。
+
+
 **Antakshari**（अन्ताक्षरी）是流行於[南亞的一個音樂類型的](https://zh.wikipedia.org/wiki/南亞 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，尤其是在[印度](../Page/印度.md "wikilink")和[巴基斯坦](../Page/巴基斯坦.md "wikilink")等地。
 
 此一名詞源自兩個[印地語](https://zh.wikipedia.org/wiki/印地語 "wikilink")（由[梵語而來](https://zh.wikipedia.org/wiki/梵語 "wikilink")）詞根：

@@ -1,3 +1,6 @@
+> 本文内容由[Keroro軍曹 \(動畫\)](https://zh.wikipedia.org/wiki/Keroro軍曹_\(動畫\))转换而来。
+
+
 《**Keroro軍曹**》的[電視動畫是由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作，並自2004年開始在[東京電視台](../Page/東京電視台.md "wikilink")播放至2011年4月3日為止。
 
 2014年也是《[KERORO軍曹](https://zh.wikipedia.org/wiki/KERORO軍曹 "wikilink")》漫畫15週年紀念，在2013年12月9日KERORO軍曹生日及發表會上，官方也公告最新動畫將於2014年春天於日本開播「ケロロ 〜keroro〜」[Adobe Flash動畫](../Page/Adobe_Flash.md "wikilink")，並在[Animax](../Page/Animax.md "wikilink")播出。主要角色的聲優都將維持原陣容。

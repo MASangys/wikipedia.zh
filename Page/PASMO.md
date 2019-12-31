@@ -1,3 +1,6 @@
+> 本文内容由[PASMO](https://zh.wikipedia.org/wiki/PASMO)转换而来。
+
+
 [PASMO_Card.jpg](https://zh.wikipedia.org/wiki/File:PASMO_Card.jpg "fig:PASMO_Card.jpg") [PASMO_Card_(Reverse).jpg](https://zh.wikipedia.org/wiki/File:PASMO_Card_\(Reverse\).jpg "fig:PASMO_Card_(Reverse).jpg") [PASMO_Gate.jpg](https://zh.wikipedia.org/wiki/File:PASMO_Gate.jpg "fig:PASMO_Gate.jpg") **PASMO**是（，舊社名：，從2005年12月改名）開始發行的[鐵路](../Page/鐵路.md "wikilink")、[公共汽車](../Page/公共汽車.md "wikilink")通用的非接觸型[IC卡](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[車票](../Page/車票.md "wikilink")。PASMO的名稱是PASMO株式會社的[註冊商標](https://zh.wikipedia.org/wiki/註冊商標 "wikilink")。
 
 從2007年（[平成](../Page/平成.md "wikilink")19年）3月18日開始提供服務。加盟的交通業者除了現在的[PASSNET以及](https://zh.wikipedia.org/wiki/PASSNET "wikilink")[公共汽車共通卡加盟事業者為中心的](https://zh.wikipedia.org/wiki/公共汽車共通卡 "wikilink")[關東地方](../Page/關東地方.md "wikilink")的鐵路、公共汽車業者外，並擴展到了[山梨縣與](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")的一部分。此外還可以與JR東日本發行的[Suica](../Page/Suica.md "wikilink")卡互相通用（但依照區域不同，可能會有一些使用上的限制。）

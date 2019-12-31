@@ -1,3 +1,6 @@
+> 本文内容由[AVG AntiVirus](https://zh.wikipedia.org/wiki/AVG_AntiVirus)转换而来。
+
+
 **AVG AntiVirus**, **AVG Anti-Virus**是由[捷克](../Page/捷克.md "wikilink")公司所開發的[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。該公司原名「Grisoft」，自1991年成立。2000年，Grisoft首次榮獲 [VB100](https://zh.wikipedia.org/wiki/VB100 "wikilink") 獎。2008年，Grisoft正式更名為「AVG Technologies CZ, s.r.o.」。而在2008年，AVG推出的8.0版本則顛覆防毒專長的Anti-Virus版，另闢[網路安全的新途](https://zh.wikipedia.org/wiki/網路安全 "wikilink")，這一舉動也正趕上了2008年網路混合威脅浪潮。2016年9月，捷克的另一知名防毒軟體公司併購了AVG Technologies\[1\]。
 
 ## 中文版

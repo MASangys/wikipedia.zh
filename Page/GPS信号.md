@@ -1,3 +1,6 @@
+> 本文内容由[GPS信号](https://zh.wikipedia.org/wiki/GPS信号)转换而来。
+
+
 **GPS信号**，是由[全球定位系统](../Page/全球定位系统.md "wikilink")（GPS）[卫星上](https://zh.wikipedia.org/wiki/卫星 "wikilink")[振盪器所产生的信号](https://zh.wikipedia.org/wiki/振盪器 "wikilink")，而所有GPS信号都由一个基本[频率f](https://zh.wikipedia.org/wiki/频率 "wikilink")<sub>0</sub>=10.23Mhz组成。 [GPS卫星](../Page/GPS卫星.md "wikilink")发射的信号主要分为[载波](https://zh.wikipedia.org/wiki/载波 "wikilink")（Carrier wave）、测距码（Ranging Code）和导航电文（Navigation Messages ）三部分。
 
 ## 最初的GPS信号

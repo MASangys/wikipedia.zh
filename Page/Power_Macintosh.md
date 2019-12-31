@@ -1,4 +1,4 @@
-> 本文内容由[Power Macintosh](https://zh.wikipedia.org/wiki/Power Macintosh)转换而来。
+> 本文内容由[Power Macintosh](https://zh.wikipedia.org/wiki/Power_Macintosh)转换而来。
 
 
 [Power_Mac_G5_hero_left.jpg](https://zh.wikipedia.org/wiki/File:Power_Mac_G5_hero_left.jpg "fig:Power_Mac_G5_hero_left.jpg")。\]\]

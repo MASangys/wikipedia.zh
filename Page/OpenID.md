@@ -1,3 +1,6 @@
+> 本文内容由[OpenID](https://zh.wikipedia.org/wiki/OpenID)转换而来。
+
+
 [OpenID_logo.svg](https://zh.wikipedia.org/wiki/File:OpenID_logo.svg "fig:OpenID_logo.svg")
 
 **OpenID**是一个[去中心化的網上](https://zh.wikipedia.org/wiki/去中心化 "wikilink")[身份認證系统](../Page/数字身份.md "wikilink")。对于支持OpenID的网站，用户不需要记住像用户名和密码这样的传统验证标记。取而代之的是，他们只需要预先在一个作为OpenID身份提供者（identity provider, IdP）的网站上注册。OpenID是去中心化的，任何网站都可以使用OpenID来作为用户登录的一种方式，任何网站也都可以作为OpenID身份提供者。OpenID既解决了问题而又不需要依赖于中心性的网站来确认[数字身份](../Page/数字身份.md "wikilink")。

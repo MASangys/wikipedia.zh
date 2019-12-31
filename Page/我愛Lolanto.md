@@ -1,3 +1,6 @@
+> 本文内容由[我愛Lolanto](https://zh.wikipedia.org/wiki/我愛Lolanto)转换而来。
+
+
 導演[王晶執導](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")，並與[陳百祥](../Page/陳百祥.md "wikilink")自編自演的愛情喜劇。
 
 ## 劇情大綱

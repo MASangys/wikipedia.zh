@@ -1,3 +1,6 @@
+> 本文内容由[和谐号CRH1型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH1型电力动车组)转换而来。
+
+
 **和谐号CRH1型电力动车组**，是[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")為進行[中国铁路第六次大提速](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")，於2004年起向[龐巴迪運輸](../Page/龐巴迪運輸.md "wikilink")和[青岛四方庞巴迪铁路运输设备有限公司](https://zh.wikipedia.org/wiki/青岛四方庞巴迪铁路运输设备有限公司 "wikilink")（BST）（前称“青島四方－龐巴迪－鮑爾鐵路運輸設備有限公司”、BSP）訂購的[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[電力動車組車款之一](https://zh.wikipedia.org/wiki/電力動車組 "wikilink")。中国鐵道部将所有引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）車輛均命名為「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
 
 ## 簡介

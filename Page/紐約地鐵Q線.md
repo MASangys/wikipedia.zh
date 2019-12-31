@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵Q線](https://zh.wikipedia.org/wiki/紐約地鐵Q線)转换而来。
+
+
 **Q線百老匯快車**（），又稱**紐約地鐵Q線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[BMT百老匯線](https://zh.wikipedia.org/wiki/BMT百老匯線 "wikilink")，因此其路線徽號為黃色。
 
 Q線任何時候都營運，來往曼哈頓[上東城的](https://zh.wikipedia.org/wiki/上東城 "wikilink")[96街／第二大道與](https://zh.wikipedia.org/wiki/96街車站_\(第二大道線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")[康尼島](../Page/康尼島.md "wikilink")的[康尼島-斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站_\(BMT布萊頓線\) "wikilink")。日間列車在曼哈頓以快車營運，在布魯克林以慢車營運，深夜時段停靠全線所有車站。

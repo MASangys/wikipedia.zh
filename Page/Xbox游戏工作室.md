@@ -1,3 +1,6 @@
+> 本文内容由[Xbox游戏工作室](https://zh.wikipedia.org/wiki/Xbox游戏工作室)转换而来。
+
+
 **Xbox游戏工作室**（），原名**微軟工作室**（Microsoft Studios）、**微軟遊戲工作室**（Microsoft Game Studios）和**微軟遊戲**（Microsoft Games），是[微軟的全資子公司](https://zh.wikipedia.org/wiki/微軟 "wikilink")，负责[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[Xbox One多个平台遊戲的](../Page/Xbox_One.md "wikilink")[開發與](https://zh.wikipedia.org/wiki/開發 "wikilink")[發行](https://zh.wikipedia.org/wiki/發行 "wikilink")。Xbox游戏工作室為數個微軟所有的第一方開發商發行遊戲，包括了[Lionhead Studios與](../Page/Lionhead_Studios.md "wikilink")[Rare](../Page/Rare.md "wikilink")，亦有發行由如[Bioware與](https://zh.wikipedia.org/wiki/Bioware "wikilink")[Bizarre Creations等第三方開發商製作的遊戲](../Page/Bizarre_Creations.md "wikilink")。
 
 ## 历史

@@ -1,4 +1,4 @@
-> 本文内容由[模板 \(C++\)](https://zh.wikipedia.org/wiki/模板 \(C++\))转换而来。
+> 本文内容由[模板 \(C++\)](https://zh.wikipedia.org/wiki/模板_\(C++\))转换而来。
 
 
 **模板**（****）指[C++](../Page/C++.md "wikilink")[程序设计语言中的](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")[函数模板与](../Page/子程序.md "wikilink")[类模板](../Page/类_\(计算机科学\).md "wikilink")\[1\]，是一种[参数化类型机制](https://zh.wikipedia.org/wiki/参数化类型 "wikilink")，大体对应于[java和](https://zh.wikipedia.org/wiki/java "wikilink")[C＃中的](https://zh.wikipedia.org/wiki/C＃ "wikilink")[泛型](../Page/泛型.md "wikilink")，但也有一些功能上的显著差异（C++模板支持后两者没有明确对应的模板模板参数和模板非类型参数，但不支持Java的通配符以及C\#的泛型类型约束）。模板是C++的[泛型编程中不可缺少的一部分](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。

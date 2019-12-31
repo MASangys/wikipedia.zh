@@ -1,3 +1,6 @@
+> 本文内容由[BALDR FORCE EXE RESOLUTION](https://zh.wikipedia.org/wiki/BALDR_FORCE_EXE_RESOLUTION)转换而来。
+
+
 《**BALDR FORCE EXE RESOLUTION**》是由[戲畫的遊戲](../Page/戲畫_\(遊戲品牌\).md "wikilink")《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》改編的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[SATELIGHT](../Page/SATELIGHT.md "wikilink")製做，於2006年到2007年期間共發售四集。
 
 ## 故事簡介

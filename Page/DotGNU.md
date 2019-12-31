@@ -1,3 +1,6 @@
+> 本文内容由[DotGNU](https://zh.wikipedia.org/wiki/DotGNU)转换而来。
+
+
 **DotGNU**計畫是[GNU](../Page/GNU.md "wikilink")為了提供[Microsoft .NET一份](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")[自由软件](../Page/自由软件.md "wikilink")替代品的一部份。這個計畫其它的目標包含了支援非[Windows平台和支援更多的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[中央处理器](../Page/中央处理器.md "wikilink")。2012年12月，DotGNU计划解散，但其中的libJIT构件成为了一个独立的发行包。
 
 ## 简介

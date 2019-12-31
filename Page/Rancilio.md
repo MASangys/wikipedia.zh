@@ -1,3 +1,6 @@
+> 本文内容由[Rancilio](https://zh.wikipedia.org/wiki/Rancilio)转换而来。
+
+
 **Rancilio**是一個[濃縮咖啡](../Page/濃縮咖啡.md "wikilink")機製造商，由Roberto Rancilio於1927年在[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[米蘭](../Page/米蘭.md "wikilink")Parabiago創立。Rancilio因其創新的分銷網絡、[工業設計與高度可靠性而著名](https://zh.wikipedia.org/wiki/工業設計 "wikilink")。
 
 ## 歷史

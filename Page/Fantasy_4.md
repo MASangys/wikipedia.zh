@@ -1,3 +1,6 @@
+> 本文内容由[Fantasy 4](https://zh.wikipedia.org/wiki/Fantasy_4)转换而来。
+
+
 **Fantasy 4**，通稱**女F4**，是一個臺灣[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，其成員包括[劉樂妍](https://zh.wikipedia.org/wiki/劉樂妍 "wikilink")（Fanny）、[安真佑](../Page/安真佑.md "wikilink")（Amy）、[大喜](../Page/大喜.md "wikilink")（Tiffany）以及[史黛西](../Page/史黛西.md "wikilink")（Stacy）。主持的節目有[亞洲旅遊台](https://zh.wikipedia.org/wiki/亞洲旅遊台 "wikilink")《F4遊台灣》，電影《[幫幫我愛神](https://zh.wikipedia.org/wiki/幫幫我愛神 "wikilink")》。及後改組為**[超女F4](https://zh.wikipedia.org/wiki/超女F4 "wikilink")**，在新成員加入後一周解散。
 
 ## 簡介

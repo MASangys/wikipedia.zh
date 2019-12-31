@@ -1,4 +1,4 @@
-> 本文内容由[Socket AM2](https://zh.wikipedia.org/wiki/Socket AM2)转换而来。
+> 本文内容由[Socket AM2](https://zh.wikipedia.org/wiki/Socket_AM2)转换而来。
 
 
 ****，原稱“”，是供[AMD桌上型處理器使用的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")，用以取代[Socket 754和](../Page/Socket_754.md "wikilink")[939](../Page/Socket_939.md "wikilink")，並已於2006年5月23日推出。內含940個接腳，支援雙通道[DDR2 SDRAM](../Page/DDR2_SDRAM.md "wikilink")，但針腳的排列方式與[Socket 940不相同](../Page/Socket_940.md "wikilink")，又因為S940不支援DDR2 SDRAM，因此兩者並不兼容。據[AnandTech一份近期的測試報告指出](https://zh.wikipedia.org/wiki/AnandTech "wikilink")，在配備相同週邊產品的環境下，使用AM2的系統的性能比使用S939的快0-7%。

@@ -1,3 +1,6 @@
+> 本文内容由[Praat语音学软件](https://zh.wikipedia.org/wiki/Praat语音学软件)转换而来。
+
+
 **Praat语音学软件**，原名**Praat: doing phonetics by computer**，通常简称**Praat**，是一款[跨平台的多功能](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[语音学](../Page/语音学.md "wikilink")专业[软件](../Page/软件.md "wikilink")，主要用于对[数字化](../Page/数字化.md "wikilink")的[语音](https://zh.wikipedia.org/wiki/语音 "wikilink")[信号进行](https://zh.wikipedia.org/wiki/信号 "wikilink")[分析](https://zh.wikipedia.org/wiki/语音分析 "wikilink")、标注、[处理及](../Page/数字信号处理.md "wikilink")[合成等实验](../Page/语音合成.md "wikilink")，同时生成各种[语图和文字报表](https://zh.wikipedia.org/wiki/语图 "wikilink")。
 
 ## 背景概要

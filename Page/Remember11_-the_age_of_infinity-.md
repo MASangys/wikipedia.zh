@@ -1,3 +1,6 @@
+> 本文内容由[Remember11 -the age of infinity-](https://zh.wikipedia.org/wiki/Remember11_-the_age_of_infinity-)转换而来。
+
+
 《**Remember11 -the age of infinity-**》是[KID](../Page/KID.md "wikilink")於2004年3月18日發售的[Playstation 2遊戲](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")。\[1\]『infinity』系列的第3部。在2005年5月12日發售以[SuperLite2000作遊戲平臺的版本](https://zh.wikipedia.org/wiki/SuperLite2000 "wikilink")。\[2\][CERO分級為適合](https://zh.wikipedia.org/wiki/CERO "wikilink")15歲以上對象。
 
 [臺灣](../Page/臺灣.md "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")於2007年4月23日公佈「Remember11 -the age of infinity- 」將從 [PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink") 平台移植至 [PC](../Page/PC.md "wikilink")，並將遊戲中文化。繁體中文化版本定名為「**時光的記憶 Remember11**」，於2008年4月23日發行，售價為850元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")／港幣180元，附送攻略設定集及同名小說。台灣區首批預購版額外贈送infinity畫冊；攻略設定集的專有名詞解釋最為重要，遊戲是概念的實踐，同名小說為完整的故事，三者合一，就能理解這隻遊戲的全部，為infinity系列最高水準之作。香港區首批預購版則附送遊戲「[吸血姬夕維](../Page/吸血姬夕維.md "wikilink") - 千夜抄」。

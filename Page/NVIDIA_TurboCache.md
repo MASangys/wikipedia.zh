@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA TurboCache](https://zh.wikipedia.org/wiki/NVIDIA TurboCache)转换而来。
+> 本文内容由[NVIDIA TurboCache](https://zh.wikipedia.org/wiki/NVIDIA_TurboCache)转换而来。
 
 
 **TurboCache**技術是[nVidia發明](https://zh.wikipedia.org/wiki/nVidia "wikilink")，顯示卡會透過PCI-E介面借用系統記憶體，作為顯示記憶體。這是動態借用的，當執行2D程序時，便會釋放借用了的系統記憶體。而顯示卡上亦會內建記憶體，作為緩衝。nVidia最先將此技術应用在[GeForce](../Page/GeForce.md "wikilink") 6200 TC上。

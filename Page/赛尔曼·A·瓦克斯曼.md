@@ -1,3 +1,6 @@
+> 本文内容由[赛尔曼·A·瓦克斯曼](https://zh.wikipedia.org/wiki/赛尔曼·A·瓦克斯曼)转换而来。
+
+
 **赛尔曼·A·瓦克斯曼**（，），[乌克兰](../Page/乌克兰.md "wikilink")裔[美国](../Page/美国.md "wikilink")生物化学家和微生物学家。瓦克斯曼发现了[链霉素和其他](https://zh.wikipedia.org/wiki/链霉素 "wikilink")[抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")。瓦克斯曼首先将链霉素用于治疗[肺结核病人](https://zh.wikipedia.org/wiki/肺结核 "wikilink")。瓦克斯曼因此获得1952年[诺贝尔生理学或医学奖](../Page/诺贝尔生理学或医学奖.md "wikilink")。
 
 ## 生平

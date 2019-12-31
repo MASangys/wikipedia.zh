@@ -1,3 +1,6 @@
+> 本文内容由[Sony Fair @ Taiwan](https://zh.wikipedia.org/wiki/Sony_Fair_@_Taiwan)转换而来。
+
+
 **「Sony Fair @ Taiwan 影音嘉年華」**，是自2004年開始，於每年四月由[台灣新力國際整合新力集團](../Page/台灣索尼.md "wikilink")（Sony Group）在[台灣各](https://zh.wikipedia.org/wiki/台灣 "wikilink")[關係企業資源並於](https://zh.wikipedia.org/wiki/關係企業 "wikilink")[台北101](../Page/台北101.md "wikilink")舉行的新力集團聯合會展，會展中展示新力公司最新技術與產品。展場中每個時段也會有不同節目介紹，讓一般消費民眾可以盡情體驗。而會展期間的周末假期舉行「Sony concert」迷你[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。
 
 ## 展區概況

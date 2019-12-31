@@ -1,3 +1,6 @@
+> 本文内容由[Designline](https://zh.wikipedia.org/wiki/Designline)转换而来。
+
+
 [Hinomaru_EV-02_Metro_Link_Nihonbashi_LYTTELTON_2004.jpg](https://zh.wikipedia.org/wiki/File:Hinomaru_EV-02_Metro_Link_Nihonbashi_LYTTELTON_2004.jpg "fig:Hinomaru_EV-02_Metro_Link_Nihonbashi_LYTTELTON_2004.jpg") **Designline**是[紐西蘭的客車製造廠商之一](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，產品包括[公交車及城際客車](../Page/公共汽車.md "wikilink")。公司廠房設於[愛師伯頓鎮](https://zh.wikipedia.org/wiki/愛師伯頓 "wikilink")，為當地生產的車輛可於[奧克蘭](../Page/奧克蘭_\(紐西蘭\).md "wikilink")、[漢密爾頓](https://zh.wikipedia.org/wiki/汉密尔顿_\(新西兰\) "wikilink")、[威靈頓](https://zh.wikipedia.org/wiki/威靈頓 "wikilink")、[基督城](../Page/基督城.md "wikilink")、[但尼丁等地方找到](https://zh.wikipedia.org/wiki/但尼丁 "wikilink")。
 
 除紐西蘭的營運商外，Designline的產品也有出口往[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[亞洲及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[歐洲地區](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。

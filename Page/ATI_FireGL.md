@@ -1,4 +1,4 @@
-> 本文内容由[ATI FireGL](https://zh.wikipedia.org/wiki/ATI FireGL)转换而来。
+> 本文内容由[ATI FireGL](https://zh.wikipedia.org/wiki/ATI_FireGL)转换而来。
 
 
 {{ infobox computer hardware generic | name = FireGL Graphics | image = Ati-fgl-logo.jpg | caption = FireGL商標 | invent-date = | invent-name = [ATI](https://zh.wikipedia.org/wiki/ATI "wikilink") }} **FireGL**是由[ATi研發的一个](https://zh.wikipedia.org/wiki/ATi "wikilink")[顯示卡系列](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。它主要應用在[工作站](../Page/工作站.md "wikilink")，作[CAD和DCC用途](https://zh.wikipedia.org/wiki/CAD "wikilink")。它的硬體結構與[Radeon](../Page/Radeon.md "wikilink")糸列顯示卡頗相似，但有一些不同，以令驅动區別這是否FireGL顯示卡，並啓动其[OpenGL](../Page/OpenGL.md "wikilink")功能。還有，由於它与Radeon糸列顯示卡的相似性，所以有客户軟改Radeon顯示卡。利用改版的FireGL驅动，他們可得到一張便宜而等價的FireGL顯示卡。現時FireGL和[FireMV已被](https://zh.wikipedia.org/wiki/FireMV "wikilink")[FirePro系列取代](https://zh.wikipedia.org/wiki/FirePro "wikilink")。

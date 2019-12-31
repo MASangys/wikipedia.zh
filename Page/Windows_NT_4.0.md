@@ -1,3 +1,6 @@
+> 本文内容由[Windows NT 4.0](https://zh.wikipedia.org/wiki/Windows_NT_4.0)转换而来。
+
+
 **Windows NT 4.0**是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows NT家族的第四套產品](../Page/Windows_NT.md "wikilink")，代號Shell Update Release，於1996年7月29日發行給製造商。為一個[32位元](../Page/32位元.md "wikilink")的作業系統，分為工作站以及伺服器版本。而其圖形操作界面類似於[Windows 95](../Page/Windows_95.md "wikilink")。根據[比爾蓋茲所言](https://zh.wikipedia.org/wiki/比爾蓋茲 "wikilink")，產品名稱中的"NT"為"New Technology（新技術）"的意思，然而時至今日，該名稱已經沒有其他特殊意義存在。
 
 Windows NT 4.0在[Windows 2000推出之後](../Page/Windows_2000.md "wikilink")，微軟已經終止所有關於NT4的服務，然而到2007年為止，儘管微軟希望他們的客戶可以換成新的版本，依然有許多的公司企業配合舊硬體持續穩定地運作該系統中。

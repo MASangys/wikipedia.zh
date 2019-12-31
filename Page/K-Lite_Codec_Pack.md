@@ -1,3 +1,6 @@
+> 本文内容由[K-Lite Codec Pack](https://zh.wikipedia.org/wiki/K-Lite_Codec_Pack)转换而来。
+
+
 **K-Lite Codec Pack**（亦稱為**K-Lite**）為讓[作業系統及其軟體得以播放眾多一般而言作業系統自身並不支援的音頻及視頻格式的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Microsoft Windows用解碼器安裝包](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。K-Lite Codec Pack也包含幾種相關工具，包括[Media Player Classic Home Cinema](../Page/Media_Player_Classic_Home_Cinema.md "wikilink") (MPC-HC)、[MediaInfo Lite及Codec](../Page/MediaInfo.md "wikilink") Tweak Tool。
 
 ## 細節

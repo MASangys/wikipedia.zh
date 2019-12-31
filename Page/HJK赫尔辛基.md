@@ -1,3 +1,6 @@
+> 本文内容由[HJK赫尔辛基](https://zh.wikipedia.org/wiki/HJK赫尔辛基)转换而来。
+
+
 [HJK_champions_1911.png](https://zh.wikipedia.org/wiki/File:HJK_champions_1911.png "fig:HJK_champions_1911.png") **赫尔辛基足球俱乐部**（，缩写为“HJK”），通稱為**HJK赫爾辛基**（），是芬蘭組足球俱樂部，位於首都[赫爾辛基](https://zh.wikipedia.org/wiki/赫爾辛基 "wikilink")。
 
 總體上來說HJK赫爾辛基是[芬蘭最大的俱樂部](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，同時也是[芬蘭最成功的俱樂部](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，曾21次奪得聯賽冠軍。俱樂部也獲得過[芬蘭杯和四次](https://zh.wikipedia.org/wiki/芬蘭杯 "wikilink")[芬蘭聯賽杯冠軍](https://zh.wikipedia.org/wiki/芬蘭聯賽杯 "wikilink")。許多在國際賽場上取得成功的芬蘭球星都是HJK赫爾辛基轉會去國外的。

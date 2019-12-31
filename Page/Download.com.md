@@ -1,3 +1,6 @@
+> 本文内容由[Download.com](https://zh.wikipedia.org/wiki/Download.com)转换而来。
+
+
 **Download.com**是全球最大的[下載目錄](https://zh.wikipedia.org/wiki/下載 "wikilink")[網站](../Page/網站.md "wikilink")，於1996年作為[CNET](../Page/CNET.md "wikilink")的一部份開辦。而Download.com上的軟體可能已不再更新。
 
 ## 主要內容

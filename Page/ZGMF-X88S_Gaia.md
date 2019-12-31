@@ -1,3 +1,6 @@
+> 本文内容由[ZGMF-X88S Gaia](https://zh.wikipedia.org/wiki/ZGMF-X88S_Gaia)转换而来。
+
+
 **ZGMF-X88S Gaia**，**蓋亞鋼彈**為日本科幻動畫作品[機動戰士GUNDAM SEED DESTINY中的人型兵器](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（MS），為[史黛菈·路歇](https://zh.wikipedia.org/wiki/史黛菈·路歇 "wikilink")、[安德列·渥特菲德所駕駛](https://zh.wikipedia.org/wiki/安德列·渥特菲德 "wikilink")。 [Zgmf-x88s.jpg](https://zh.wikipedia.org/wiki/File:Zgmf-x88s.jpg "fig:Zgmf-x88s.jpg")
 
 ## 開發經過

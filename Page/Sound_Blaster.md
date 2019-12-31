@@ -1,3 +1,6 @@
+> 本文内容由[Sound Blaster](https://zh.wikipedia.org/wiki/Sound_Blaster)转换而来。
+
+
 [Sound_Blaster_Live\!_5.1.jpg](https://zh.wikipedia.org/wiki/File:Sound_Blaster_Live!_5.1.jpg "fig:Sound_Blaster_Live!_5.1.jpg") **Sound Blaster**（**聲霸卡**）是一個[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[音效卡系列產品](https://zh.wikipedia.org/wiki/音效卡 "wikilink")，曾經是[IBM](../Page/IBM.md "wikilink")[個人電腦聲效的非正式標準](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")[創新科技開發](https://zh.wikipedia.org/wiki/創新科技 "wikilink")。首張Sound Blaster音效卡在1989年11月面世，其後推出過多代版本，如Sound Blaster 16、Live\!系列及Audigy系列，介面亦由[ISA](../Page/ISA.md "wikilink")经[PCI演變為更高效能的](https://zh.wikipedia.org/wiki/PCI "wikilink")[PCI-E](https://zh.wikipedia.org/wiki/PCI-E "wikilink")。
 
 近年其他音效標準的出現，加上[主板](../Page/主板.md "wikilink")內置音效的流行，令Sound Blaster的地位不如往日。現時Sound Blaster主要生產較高價的音效卡產品，提供虛擬環繞聲，還原音頻文件因壓縮而損失的自然動態範圍，增強低音，自動調整音量和增強電影中的語音的功能。

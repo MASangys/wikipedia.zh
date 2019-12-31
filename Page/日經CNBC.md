@@ -1,3 +1,6 @@
+> 本文内容由[日經CNBC](https://zh.wikipedia.org/wiki/日經CNBC)转换而来。
+
+
 **日經CNBC**（日語：**日経CNBC**）是一家[日本](../Page/日本.md "wikilink")的[財經](https://zh.wikipedia.org/wiki/財經 "wikilink")[新聞台](https://zh.wikipedia.org/wiki/新聞台 "wikilink")，由[CNBC亞洲台與](https://zh.wikipedia.org/wiki/CNBC亞洲台 "wikilink")[日本經濟新聞社共同持有](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")。
 
 ## 節目

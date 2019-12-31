@@ -1,3 +1,6 @@
+> 本文内容由[Wiki软件比较](https://zh.wikipedia.org/wiki/Wiki软件比较)转换而来。
+
+
 以下表格中列出部分[Wiki引擎的技术信息](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")。
 
 ## 概述

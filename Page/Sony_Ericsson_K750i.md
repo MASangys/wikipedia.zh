@@ -1,4 +1,4 @@
-> 本文内容由[Sony Ericsson K750i](https://zh.wikipedia.org/wiki/Sony Ericsson K750i)转换而来。
+> 本文内容由[Sony Ericsson K750i](https://zh.wikipedia.org/wiki/Sony_Ericsson_K750i)转换而来。
 
 
 **索尼爱立信K750i**是[索尼爱立信一款在](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")2005年推出的手提電話，而W800i為K750i的Walkman版本，W800i與K750i只是外型不同，硬體則完全相同。它是[Sony Ericsson K700i的延續](https://zh.wikipedia.org/wiki/Sony_Ericsson_K700i "wikilink")，改良的版本為在2006年推出的[Sony Ericsson K800i](../Page/Sony_Ericsson_K800i.md "wikilink")。K750i配有200萬[像素](../Page/像素.md "wikilink")鏡頭，位於手機背面，由一塊可移動的蓋掩保護。

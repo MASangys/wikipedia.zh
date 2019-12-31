@@ -1,3 +1,6 @@
+> 本文内容由[植木的法則 PLUS](https://zh.wikipedia.org/wiki/植木的法則_PLUS)转换而来。
+
+
 **植木的法則 PLUS**是[日本](../Page/日本.md "wikilink")漫畫家[福地翼](../Page/福地翼.md "wikilink")的作品，是[植木的法則](../Page/植木的法則.md "wikilink")的第二部。單行本全五卷。
 
 ## 劇情簡介

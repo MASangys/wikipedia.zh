@@ -1,3 +1,6 @@
+> 本文内容由[Memorial address](https://zh.wikipedia.org/wiki/Memorial_address)转换而来。
+
+
 《**Memorial address**》（憶在步言中）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年12月17日發行的第一張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。這張迷你專輯銷量高達了百萬，是歷代日本女性歌手中銷售量最佳的一張迷你專輯。本作以CD附加音樂錄影帶DVD與單片CD兩種型態販售，開啟日本DVD捆版發售的先例，自此後濱崎步作品也多以此種形式發售。
 
 本作收錄了發行前的三張單曲作品，同時包含兩首新曲及同名的額外曲目，這首同名歌原曲是作曲者湯汲哲也過往獨立樂團「LOVER SOUND TRACK」的單曲〈蜘蛛〉，後經由濱崎步重新填詞成為本作的同名曲。

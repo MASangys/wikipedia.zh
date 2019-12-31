@@ -1,4 +1,4 @@
-> 本文内容由[Alexa Internet](https://zh.wikipedia.org/wiki/Alexa Internet)转换而来。
+> 本文内容由[Alexa Internet](https://zh.wikipedia.org/wiki/Alexa_Internet)转换而来。
 
 
 **Alexa Internet公司**是[亞馬遜公司](../Page/亞馬遜公司.md "wikilink")的一家子公司，總部位於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。於1996年由布魯斯特·卡勒及布鲁斯·吉里亚特创立。作為[互聯網檔案館的分支](https://zh.wikipedia.org/wiki/互聯網檔案館 "wikilink")，受到杰奎琳·萨福拉的埃托勒投资支持。1999年，Alexa被亞馬遜公司以約價值兩億五千萬美元的[股票](../Page/股票.md "wikilink")買下。\[1\]

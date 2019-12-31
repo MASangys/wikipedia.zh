@@ -1,3 +1,6 @@
+> 本文内容由[Neo Geo Pocket](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket)转换而来。
+
+
 **Neo Geo Pocket**（简称**NGP**）是[SNK](../Page/SNK.md "wikilink")第一款[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，於1998年10月28日在[日本](../Page/日本.md "wikilink")發售，但低於預期的銷售額導致在1999年停產，並立即被其後繼機種[Neo Geo Pocket Color取代](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")。該系統只在日本與[香港](../Page/香港.md "wikilink")市場以零售的方式發售。 儘管該系統只有很短的壽命，其間仍發售了一些顯著的遊戲，如[侍魂\!與](https://zh.wikipedia.org/wiki/侍魂 "wikilink")[拳皇R-1等](https://zh.wikipedia.org/wiki/拳皇 "wikilink")。 Neo Geo Pocket大致上可向上兼容，意即可執行大部分新的彩色遊戲，但亦有如[音速小子大冒險Pocket與](https://zh.wikipedia.org/wiki/刺蝟索尼克 "wikilink")[SNK vs. Capcom：千年之戰等例外](https://zh.wikipedia.org/wiki/SNK_vs._Capcom "wikilink")。Neo Geo Pocket Color完全向下兼容並可執行所有為Neo Geo Pocket發佈的遊戲。
 
 ## 規格

@@ -1,3 +1,6 @@
+> 本文内容由[ING](https://zh.wikipedia.org/wiki/ING)转换而来。
+
+
 [Hong_Kong_Arts_Centre_2008.jpg](https://zh.wikipedia.org/wiki/File:Hong_Kong_Arts_Centre_2008.jpg "fig:Hong_Kong_Arts_Centre_2008.jpg")天台的ING企業標誌牌\]\]  **ING集團**（），亦名**荷蘭國際集團**，是一個國際[金融](../Page/金融.md "wikilink")服務私營企业，成立於1991年，由[荷蘭最大的](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[保險公司Nationale](https://zh.wikipedia.org/wiki/保險公司 "wikilink")-Nederlanden，與荷蘭的第三大[銀行](../Page/銀行.md "wikilink")NMB PostBank Group合併而成。ING集團以象徵性的1英鎊收購已經破產的英國著名投資銀行[霸菱銀行](../Page/霸菱銀行.md "wikilink")。
 
 ING集團的服務遍及全球50多個[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")，核心業務是[銀行](../Page/銀行.md "wikilink")、[保險](../Page/保險.md "wikilink")及[資產管理等](https://zh.wikipedia.org/wiki/資產管理 "wikilink")。ING集團的全球職員大約130,000人，顧客8500萬人，包括[自然人](https://zh.wikipedia.org/wiki/自然人 "wikilink")、[家庭](../Page/家庭.md "wikilink")，[企業](https://zh.wikipedia.org/wiki/企業 "wikilink")、[政府](../Page/政府.md "wikilink")及其他等，例如[基金](../Page/基金.md "wikilink")組織。

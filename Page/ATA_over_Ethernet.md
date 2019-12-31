@@ -1,4 +1,4 @@
-> 本文内容由[ATA over Ethernet](https://zh.wikipedia.org/wiki/ATA over Ethernet)转换而来。
+> 本文内容由[ATA over Ethernet](https://zh.wikipedia.org/wiki/ATA_over_Ethernet)转换而来。
 
 
 [Cc25-20060903-AoE-1.png](https://zh.wikipedia.org/wiki/File:Cc25-20060903-AoE-1.png "fig:Cc25-20060903-AoE-1.png")協定（右半）的比較圖，圖中可明顯看出AoE協定的堆疊層數少於iSCSI，因此在傳輸效益表現上AoE能夠比iSCSI更具效率。\]\]

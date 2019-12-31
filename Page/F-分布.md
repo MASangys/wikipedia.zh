@@ -1,3 +1,6 @@
+> 本文内容由[F-分布](https://zh.wikipedia.org/wiki/F-分布)转换而来。
+
+
 {(d_1\\,x+d_2)^{d_1+d_2}}}} {x\\,\\mathrm{B}\\\!\\left(\\frac{d_1}{2},\\frac{d_2}{2}\\right)}\\\!</math> |cdf = \(I_{\frac{d_1 x}{d_1 x + d_2}}(d_1/2, d_2/2)\!\) |mean = \(\frac{d_2}{d_2-2}\!\) for \(d_2 > 2\) |median = |mode = \(\frac{d_1-2}{d_1}\;\frac{d_2}{d_2+2}\!\) for \(d_1 > 2\) |variance = \(\frac{2\,d_2^2\,(d_1+d_2-2)}{d_1 (d_2-2)^2 (d_2-4)}\!\) for \(d_2 > 4\) |skewness = \(\frac{(2 d_1 + d_2 - 2) \sqrt{8 (d_2-4)}}{(d_2-6) \sqrt{d_1 (d_1 + d_2 -2)}}\!\)
 for \(d_2 > 6\) |kurtosis = *见下文* |entropy = |mgf = |char = }}
 

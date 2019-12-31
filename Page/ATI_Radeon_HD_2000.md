@@ -1,3 +1,6 @@
+> 本文内容由[ATI Radeon HD 2000](https://zh.wikipedia.org/wiki/ATI_Radeon_HD_2000)转换而来。
+
+
 **ATI Radeon HD 2000系列**，核心代號**Radeon R600**系列，是由[AMD-ATI開發的一個顯示核心產品線](https://zh.wikipedia.org/wiki/ATI "wikilink")。全系列都支援[DirectX](../Page/DirectX.md "wikilink") 10.0，並採用统一渲染架构。對比上一代，ATI增強了其視頻播放能力，並可輸出音效訊號。系列首張高階顯示卡HD 2900XT在2007年5月14日發表，它擁有 512MB GDDR3 記憶體。代號為RV630與RV610的中階與低階產品在2007年7月推出，並以65[奈米製程製造](https://zh.wikipedia.org/wiki/奈米 "wikilink")。
 
 在2006年7月25日，AMD宣佈已經完成併購ATI，而ATI會變成[AMD的子公司](https://zh.wikipedia.org/wiki/AMD "wikilink")。這一事件造成有些線上社群的會員擔心**ATI Radeon Graphics**的品牌會從此消失。\[1\]不過，AMD發布的顯示晶片與顯示卡還是掛上了**ATI Radeon Graphics**的品牌。Radeon HD 2000系列顯示卡是[ATI被](https://zh.wikipedia.org/wiki/ATI "wikilink")[AMD收購後的第一個顯示卡產品線](https://zh.wikipedia.org/wiki/AMD "wikilink")。它的對手是[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[GeForce 8系列顯示卡](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")。採用HD為前缀，解释为強調其高清播放功能，並能隨時體驗到高解析度的快感。

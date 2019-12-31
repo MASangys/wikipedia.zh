@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM ZZ](https://zh.wikipedia.org/wiki/機動戰士GUNDAM ZZ)转换而来。
+> 本文内容由[機動戰士GUNDAM ZZ](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_ZZ)转换而来。
 
 
 《**機動戰士GUNDAM ZZ**》是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")的第三部電視版[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。是《[機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")》的續集。於1986年3月1日至1987年1月31日在名古屋電視台上映。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")1989年10月21日至1990年9月15日間由[緯來公司製播](https://zh.wikipedia.org/wiki/緯來 "wikilink")\[1\]，與前作《[機動戰士Z鋼彈](https://zh.wikipedia.org/wiki/機動戰士Z鋼彈 "wikilink")》一併以《**鋼彈勇-{}-士**》的名稱於[華視頻道放映](https://zh.wikipedia.org/wiki/華視 "wikilink")；香港[無綫電視則譯為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**機動戰士雷霆一擊**》，由1993年3月30日至1993年6月1日期間在[無綫電視翡翠台播放](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。官方網上重製字幕版本於2017年在gundam.info免費放送。

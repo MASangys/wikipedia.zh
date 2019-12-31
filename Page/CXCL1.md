@@ -1,3 +1,6 @@
+> 本文内容由[CXCL1](https://zh.wikipedia.org/wiki/CXCL1)转换而来。
+
+
 **CXCL1**（）是一小分子的[细胞因子](../Page/细胞因子.md "wikilink")属于CXC[趋化因子](../Page/趋化因子.md "wikilink")家族\[1\]。又被称作**生长调节致癌基因α** (Growth-regulated oncogene alpha, GROα)\[2\]\[3\]\[4\]。 趋化因子CXCL1是由[巨噬细胞](../Page/巨噬细胞.md "wikilink")，[中性粒细胞](../Page/中性粒细胞.md "wikilink")和[上皮细胞表达的](https://zh.wikipedia.org/wiki/上皮细胞 "wikilink")\[5\]\[6\]。趋化因子CXCL1对中性粒细胞有细胞趋化作用\[7\]。CXCL1结合到趋化因子受体[CXCR2上而起细胞趋化作用](https://zh.wikipedia.org/wiki/CXCR2 "wikilink")\[8\]。人类的CXCL1与许多CXC类的趋化因子基因相邻聚集在第四染色体上\[9\] 。CXCL1的主要作用包括新血管形成、炎症反应、伤口愈合\[10\]和肿瘤形成\[11\]\[12\]。
 
 ## 参见

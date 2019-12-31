@@ -1,3 +1,6 @@
+> 本文内容由[Zapfino](https://zh.wikipedia.org/wiki/Zapfino)转换而来。
+
+
 **Zapfino**是一个西文[手写体](../Page/手写体.md "wikilink")字体，由德国字体设计师[赫尔曼·察普夫](../Page/赫尔曼·察普夫.md "wikilink")在1998年为[Linotype公司设计](https://zh.wikipedia.org/wiki/Linotype "wikilink")，共有6种字重，基本按照1944年察普夫的手写字母表制作而成。作为一个字体，它极大丰富拓展了[连字和](https://zh.wikipedia.org/wiki/连字 "wikilink")[字符变体](https://zh.wikipedia.org/wiki/字符变体 "wikilink")（比如，小写字母d有9种变体）。 为了丰富手写字体，[苹果公司在其](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS X操作系统中收入了一个字重的Zapfino](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。这个字体含有4整套字母，字形超过1400种。
 
 ## 历史

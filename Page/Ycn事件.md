@@ -1,3 +1,6 @@
+> 本文内容由[Ycn事件](https://zh.wikipedia.org/wiki/Ycn事件)转换而来。
+
+
 **Ycn事件**是2007年1月14日，[中華民國](../Page/中華民國.md "wikilink")[國立東華大學](../Page/國立東華大學.md "wikilink")[歷史學系女大學生楊超甯](https://zh.wikipedia.org/wiki/歷史學系 "wikilink")（網路代號ycn，暱稱“歪熙恩”）自殺的事件。這位女學生因在東華大學[東方小城](https://zh.wikipedia.org/wiki/東方小城 "wikilink")[BBS](../Page/BBS.md "wikilink")網路看板上轉貼學生租屋注意事項及吳姓房東對於出租房屋管理不當，而被吳姓房東提出[誹謗告訴](https://zh.wikipedia.org/wiki/誹謗 "wikilink")，因而自殺。遺書留言「就算我離開人世，也決不跟吳老奸低頭」。
 
 校方指出該女生有[憂鬱症病史](https://zh.wikipedia.org/wiki/憂鬱症 "wikilink")，隨即引起[網路上嚴重的不平聲浪](https://zh.wikipedia.org/wiki/網路 "wikilink")，引發一連串關於詐騙、學生租屋糾紛、憂鬱症、[大學生的](https://zh.wikipedia.org/wiki/大學生 "wikilink")[法律常識](https://zh.wikipedia.org/wiki/法律常識 "wikilink")、社會不公及[司法的討論](https://zh.wikipedia.org/wiki/司法 "wikilink")。

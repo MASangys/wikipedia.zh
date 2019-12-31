@@ -1,3 +1,6 @@
+> 本文内容由[MIT許可證](https://zh.wikipedia.org/wiki/MIT許可證)转换而来。
+
+
 **MIT授權條款**（）是許多[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[授權條款中](../Page/授權_\(法律\).md "wikilink")，被廣泛使用的其中一種。與其他常見的軟體授權條款（如[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")、[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink")、[BSD](https://zh.wikipedia.org/wiki/BSD_license "wikilink")）相比，MIT是相對寬鬆的軟體授權條款。
 
 ## 簡介

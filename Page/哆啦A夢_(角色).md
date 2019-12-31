@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢 \(角色\)](https://zh.wikipedia.org/wiki/哆啦A夢_\(角色\))转换而来。
+
+
 **哆啦A夢**（****），舊時多譯為**叮噹**、**小叮噹**，是[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》中登場的[貓型](https://zh.wikipedia.org/wiki/貓 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")，名字的意思是野貓／[銅鑼](https://zh.wikipedia.org/wiki/銅鑼 "wikilink")（）+[衛門](https://zh.wikipedia.org/wiki/衛門 "wikilink")（）。
 
 ## 設定

@@ -1,3 +1,6 @@
+> 本文内容由[A无穷代数](https://zh.wikipedia.org/wiki/A无穷代数)转换而来。
+
+
 **A无穷代数**（，或 \(\;A_{\infty}\;\)-algebra）是吉姆·斯塔谢夫（）在1960年代研究 [H-空间的乘法的结合性时发现的一种代数结构](https://zh.wikipedia.org/wiki/H-空间 "wikilink")，又称为**强同伦结合代数**（）。1970年代陈国才（K.-T. Chen）和T.V. Kadeishvili在一个流形的同调群上用不同的方法各自发现了一种A无穷代数结构。1990年代[深谷贤治在研究](https://zh.wikipedia.org/wiki/深谷贤治 "wikilink")[辛流形](../Page/辛流形.md "wikilink")的[拉格朗日Floer同调](https://zh.wikipedia.org/wiki/拉格朗日Floer同调 "wikilink")（）时推广了斯塔谢夫的概念，称为[A无穷范畴](https://zh.wikipedia.org/wiki/A无穷范畴 "wikilink")（，\(\;A_{\infty}\;\)-category）。一般数学家把深谷的发现称为[深谷范畴](https://zh.wikipedia.org/wiki/深谷范畴 "wikilink")（）。
 
 ## 定义

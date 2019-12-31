@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(F\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(F\))转换而来。
+> 本文内容由[中国图书馆分类法 \(F\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(F\))转换而来。
 
 
 F类，经济。

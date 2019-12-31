@@ -1,4 +1,4 @@
-> 本文内容由[Killer NIC](https://zh.wikipedia.org/wiki/Killer NIC)转换而来。
+> 本文内容由[Killer NIC](https://zh.wikipedia.org/wiki/Killer_NIC)转换而来。
 
 
 **Killer NIC**是全球首款专为電腦游戏而設的[网卡](../Page/网卡.md "wikilink")，由[Bigfoot Networks推出](https://zh.wikipedia.org/wiki/Bigfoot_Networks "wikilink")。配合MaxFPS技术，这款网卡能够帮助处理器独立处理网络数据，保证CPU性能不受网络连接影響。在此之前，[nVIDIA就已经在](https://zh.wikipedia.org/wiki/nVIDIA "wikilink")[nForce 500](https://zh.wikipedia.org/wiki/nForce_500 "wikilink")[芯片组](../Page/芯片组.md "wikilink")中提供类似的网络处理功能。Killer NIC的价格约为250美元。

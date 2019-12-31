@@ -1,4 +1,4 @@
-> 本文内容由[Windows Media Video](https://zh.wikipedia.org/wiki/Windows Media Video)转换而来。
+> 本文内容由[Windows Media Video](https://zh.wikipedia.org/wiki/Windows_Media_Video)转换而来。
 
 
 **WMV**（**Windows Media Video**）是[微软公司开发的一组](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[數位](https://zh.wikipedia.org/wiki/數位 "wikilink")[影片编解码格式的通称](https://zh.wikipedia.org/wiki/影片 "wikilink")，它是[Windows Media架构下的一部分](../Page/Windows_Media.md "wikilink")。

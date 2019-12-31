@@ -1,4 +1,4 @@
-> 本文内容由[Rage 128](https://zh.wikipedia.org/wiki/Rage 128)转换而来。
+> 本文内容由[Rage 128](https://zh.wikipedia.org/wiki/Rage_128)转换而来。
 
 
 **Rage 128**顯示卡由[ATI推出](https://zh.wikipedia.org/wiki/ATI "wikilink")，在1999年发布，是針對[Voodoo II而推出](https://zh.wikipedia.org/wiki/Voodoo_II "wikilink")。该顯示核心的扩展型号非常多。性能上，**Rage 128**并不顶尖，但各方面的性能都非常平均，尤其是比較出色的[DVD播放](https://zh.wikipedia.org/wiki/DVD "wikilink")。隨後更推出支持[VIVO和](https://zh.wikipedia.org/wiki/VIVO "wikilink")[ALL-IN-WONDER版本](https://zh.wikipedia.org/wiki/ALL-IN-WONDER "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[PCD](https://zh.wikipedia.org/wiki/PCD)转换而来。
+
+
 **PCD**是美國流行音樂女子團體[小野貓](../Page/小野貓.md "wikilink")的第一張專輯，PCD（*P*ussy*C*at *D*olls）是小野貓的簡寫。由A\&M Records在[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")2005年9月13日推出。主音妮可·舒可辛格參與了專輯部份的製作。迄今全球銷量達七百萬張。
 
 PCD在2006年為[英國最暢銷唱片的第廿八位](https://zh.wikipedia.org/wiki/英國 "wikilink")，一共售出536,340張。\[1\]在[荷蘭也是第十六位最暢銷唱片](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")。\[2\]

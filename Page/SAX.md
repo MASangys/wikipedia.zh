@@ -1,3 +1,6 @@
+> 本文内容由[SAX](https://zh.wikipedia.org/wiki/SAX)转换而来。
+
+
 Simple API for XML（簡稱**SAX**）是個循序存取XML的解析器API。SAX提供一個機制從XML文件讀取資料。它是除了[文档对象模型](../Page/文档对象模型.md "wikilink")（DOM）的另外一種流行選擇。
 
 ## 使用SAX处理XML

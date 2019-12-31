@@ -1,3 +1,6 @@
+> 本文内容由[NP \(複雜度\)](https://zh.wikipedia.org/wiki/NP_\(複雜度\))转换而来。
+
+
 [P_np_np-complete_np-hard.svg](https://zh.wikipedia.org/wiki/File:P_np_np-complete_np-hard.svg "fig:P_np_np-complete_np-hard.svg") for [P](https://zh.wikipedia.org/wiki/P_\(complexity\) "wikilink"), NP, [NP-complete](https://zh.wikipedia.org/wiki/NP-complete "wikilink"), and [NP-hard](https://zh.wikipedia.org/wiki/NP-hard "wikilink") set of problems. Under the assumption that P≠NP, the existence of problems within NP but outside both **P** and NP-complete was [established by Ladner](https://zh.wikipedia.org/wiki/Ladner's_theorem "wikilink").\[1\]\]\]
 
 **非決定性多项式集合**（，缩写：**NP**）是[计算理论](../Page/计算理论.md "wikilink")中最重要的集合之一。它包含[P和](https://zh.wikipedia.org/wiki/P "wikilink")[NP-complete](https://zh.wikipedia.org/wiki/NP-complete "wikilink")。 P集合的問題即在多项式时间内可以找出解的決策性問題(decision problem)集合。注意NP包含P和[NP-complete问题](https://zh.wikipedia.org/wiki/NP-complete "wikilink"), 因此NP集合中有簡單的問題和不容易快速得到解的難題。\[NP等不等於P?\]是一個電腦界一個知名的大難題。

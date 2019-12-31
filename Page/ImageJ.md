@@ -1,3 +1,6 @@
+> 本文内容由[ImageJ](https://zh.wikipedia.org/wiki/ImageJ)转换而来。
+
+
 **ImageJ**是一个基于[java的公共的图像处理软件](https://zh.wikipedia.org/wiki/java "wikilink")，它是由[National Institutes of Health开发的](https://zh.wikipedia.org/wiki/National_Institutes_of_Health "wikilink")。可运行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Linux](../Page/Linux.md "wikilink")，和[Sharp Zaurus等多种平台](https://zh.wikipedia.org/wiki/Sharp_Zaurus "wikilink")。其基于java的特点，使得它编写的程序能以applet等方式分发。
 
 ImageJ能够显示，编辑，分析，处理，保存，打印8位，16位，32位的图片， 支持TIFF, PNG, GIF, JPEG, BMP, DICOM, FITS等多种格式。ImageJ支持图像栈功能，即在一个窗口里以多线程的形式层叠多个图像， 并行处理。只要内存允许，ImageJ能打开任意多的图像进行处理。除了基本的图像操作， 比如缩放，旋转， 扭曲， 平滑处理外，ImageJ还能进行图片的区域和像素统计， 间距，角度计算， 能创建柱状图和剖面图，进行[傅里叶变换](../Page/傅里叶变换.md "wikilink")。

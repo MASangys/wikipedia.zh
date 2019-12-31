@@ -1,3 +1,6 @@
+> 本文内容由[ATSC](https://zh.wikipedia.org/wiki/ATSC)转换而来。
+
+
 **進階電視系統委員會**（ATSC，Advanced Television Systems Committee）是1982年成立的委員會，訂立用於[數碼電視的](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")**進階電視系統委員會標準**（ATSC，Advanced Television Systems Committee standards）
 
 ATSC系統原為取代[北美洲](../Page/北美洲.md "wikilink")最常用的[NTSC制式](https://zh.wikipedia.org/wiki/NTSC "wikilink")。在ATSC規範之下，[高畫質電視可產生高達](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")1920×1080[像素](../Page/像素.md "wikilink")的[寬螢幕](https://zh.wikipedia.org/wiki/寬螢幕 "wikilink")[16:9畫面尺寸](https://zh.wikipedia.org/wiki/16:9 "wikilink")──超過早前標準[顯示解析度的六倍](https://zh.wikipedia.org/wiki/顯示解析度 "wikilink")。然而，許多不同尺寸的畫面也有支援，所以高達六個標準解析的子頻道可被播送在一個現存的[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")6[兆赫](https://zh.wikipedia.org/wiki/兆赫 "wikilink")[頻道](https://zh.wikipedia.org/wiki/頻道 "wikilink")。

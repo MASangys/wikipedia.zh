@@ -1,3 +1,6 @@
+> 本文内容由[YafaRay](https://zh.wikipedia.org/wiki/YafaRay)转换而来。
+
+
 **YafaRay** (**Y**et **A**nother **F**ree **Ray**tracer) 是一款 [自由](https://zh.wikipedia.org/wiki/free_software "wikilink")，[开放源代码](https://zh.wikipedia.org/wiki/open_source "wikilink") [光线追踪](https://zh.wikipedia.org/wiki/ray_tracing "wikilink") 程序，它使用 [XML](../Page/XML.md "wikilink") 作为场景描述语言。最近，它被整合到了三维创作套件 [Blender](../Page/Blender.md "wikilink")中，Blender可以通过YaFray来渲染场景。
 
 Yafray 渲染出来的图片具有照片级的真实感。

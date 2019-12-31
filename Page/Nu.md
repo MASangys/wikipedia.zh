@@ -1,3 +1,6 @@
+> 本文内容由[Nu](https://zh.wikipedia.org/wiki/Nu)转换而来。
+
+
 **Nu**或**NU**可能是指下列事物：
 
 ## 語言

@@ -1,3 +1,6 @@
+> 本文内容由[BMW M公司](https://zh.wikipedia.org/wiki/BMW_M公司)转换而来。
+
+
 [BMW_M.gif](https://zh.wikipedia.org/wiki/File:BMW_M.gif "fig:BMW_M.gif") **BMW M公司**（[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")：**B-{}-MW M GmbH**），原稱**BMW賽車運動公司**（**B-{}-MW Motorsport GmbH**），是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車製造業者](https://zh.wikipedia.org/wiki/汽車 "wikilink")[BMW集團旗下的子公司](https://zh.wikipedia.org/wiki/BMW集團 "wikilink")，最早歷史可以回溯至1972年。原本被稱為**M部門**的該公司本是BMW特別設立用來參與[賽車](../Page/賽車.md "wikilink")運動的特殊部門，但後來逐漸轉變為專事開發原廠高性能車款（M車系）與原廠性能化改裝套件的單位。1992年時BMW將M部門獨立而出而設立了子公司BMW Motorsport GmbH，並在隔年將公司名稱簡化而成為今日的BMW M GmbH。
 
 ## M車系

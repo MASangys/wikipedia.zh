@@ -1,3 +1,6 @@
+> 本文内容由[Bloglines](https://zh.wikipedia.org/wiki/Bloglines)转换而来。
+
+
 **Bloglines**是一個網頁介面的新聞聚合服務，透過[RSS](../Page/RSS.md "wikilink")或[Atom取得內容](../Page/Atom_\(標準\).md "wikilink")。不同於用戶端的新聞聚合軟體各自取得內容，Bloglines會統一在伺服器端定時更新。
 
 [Mark Fletcher在](https://zh.wikipedia.org/wiki/Mark_Fletcher "wikilink")2003年成立Bloglines，並於2005年5月賣給[Ask.com](../Page/Ask.com.md "wikilink")。

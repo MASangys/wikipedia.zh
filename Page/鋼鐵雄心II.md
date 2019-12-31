@@ -1,3 +1,6 @@
+> 本文内容由[鋼鐵雄心II](https://zh.wikipedia.org/wiki/鋼鐵雄心II)转换而来。
+
+
 《**钢铁雄心II**》（Hearts of Iron II）为战略游戏。是《[钢铁雄心](https://zh.wikipedia.org/wiki/钢铁雄心 "wikilink")》的加强版续作。游戏背景被设定在1936年[第二次世界大戰时期](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。并允许控制175个国家，几乎涵盖了当时所有的政权。游戏由开发，由[Paradox Interactive公司发布](../Page/Paradox_Interactive.md "wikilink")。主要游戏开发者为Johan Andersson 。2006年4月，Paradox Interactive再推出《钢铁雄心II》资料片《[钢铁雄心2末日战役](https://zh.wikipedia.org/wiki/钢铁雄心2末日战役 "wikilink")》(Hearts of Iron II: Doomsday)，加入了[第三次世界大战剧情及编辑器](https://zh.wikipedia.org/wiki/第三次世界大战 "wikilink")。在2007年4月，《[钢铁雄心II：决战](../Page/钢铁雄心II：决战.md "wikilink")》进一步延长了游戏时限，可以持续到1964年。
 
 ## 游戏介绍

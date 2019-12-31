@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM 逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士GUNDAM 逆襲的夏亞)转换而来。
+> 本文内容由[機動戰士GUNDAM 逆襲的夏亞](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_逆襲的夏亞)转换而来。
 
 
 《**機動戰士GUNDAM 逆襲的夏亞**》（，*Mobile Suit Gundam: Char's Counterattack*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")的劇場版，於1988年3月劇場放映。在愛好者之間通常簡稱為「**逆夏**」、「**馬反**」或英文**CCA**。本作也是GUNDAM系列第一次完全新作而非剪輯電視版所成的劇場版動畫。主題歌「Beyond The Time」起用當時日本最具人氣的樂團之一[TM NETWORK演唱也成為話題](../Page/TM_NETWORK.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[U盾](https://zh.wikipedia.org/wiki/U盾)转换而来。
+
+
 **U盾**（**USBKey**）是[中国工商银行](../Page/中国工商银行.md "wikilink")推出的一种用于在网络上以客户端的形式识别客户身份的[数字证书](https://zh.wikipedia.org/wiki/数字证书 "wikilink")。它结合[IC卡与](https://zh.wikipedia.org/wiki/IC卡 "wikilink")[数字证书](https://zh.wikipedia.org/wiki/数字证书 "wikilink")、[数字签名等技术](https://zh.wikipedia.org/wiki/数字签名 "wikilink")。
 
 U盾采用1024位的非对称[RSA加密算法](https://zh.wikipedia.org/wiki/RSA加密算法 "wikilink")。U盾的私钥（唯一序列号）直接在IC卡中产生，将[CA中心颁发的安全数字证书下载到卡中与私钥相对应](https://zh.wikipedia.org/wiki/CA中心 "wikilink")。

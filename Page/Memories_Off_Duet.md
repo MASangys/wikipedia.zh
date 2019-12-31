@@ -1,3 +1,6 @@
+> 本文内容由[Memories Off Duet](https://zh.wikipedia.org/wiki/Memories_Off_Duet)转换而来。
+
+
 《**Memories Off Duet**》是2003年3月27日由[KID](../Page/KID.md "wikilink")在[PlayStation 2上發售的作品](../Page/PlayStation_2.md "wikilink")，是《[秋之回憶](https://zh.wikipedia.org/wiki/秋之回憶 "wikilink")》與《[秋之回憶2](../Page/秋之回憶2.md "wikilink")》的集結混合版本。 本作是[秋之回憶和](https://zh.wikipedia.org/wiki/秋之回憶 "wikilink")[秋之回憶2](../Page/秋之回憶2.md "wikilink")的各主線故事及Memories Off Pure的外傳，被收錄在二代的play story中。
 
 ## 秋之回憶 2nd ～雪螢～

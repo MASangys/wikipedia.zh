@@ -1,4 +1,4 @@
-> 本文内容由[Macintosh Performa](https://zh.wikipedia.org/wiki/Macintosh Performa)转换而来。
+> 本文内容由[Macintosh Performa](https://zh.wikipedia.org/wiki/Macintosh_Performa)转换而来。
 
 
 **Performa**是蘋果電腦（Apple Computer）在1994年推出[PowerMac系列電腦後](../Page/Power_Macintosh.md "wikilink")，為了因應低價市場的需求，於1995年另行推出的一個新系列電腦稱呼，接續「Macintosh LC」系列，訴求於低階、入門、家用，好與中高檔且專業定位的PowerMac有所區隔，在台灣推行時為此系列名稱冠上了中文稱呼，叫「威力貓」，但實際上因低價設計的緣故，Performa系列多半僅使用PowerPC 603（或603e，e為強化「enhanced」之意）處理器，此型處理器的效能較為低落（與PowerPC 601、604相比），使用戶對其執行效能感到不滿，並因此戲稱此系列機種為「病貓」。

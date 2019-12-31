@@ -1,3 +1,6 @@
+> 本文内容由[Flash Video](https://zh.wikipedia.org/wiki/Flash_Video)转换而来。
+
+
 **Flash Video**（簡稱**FLV**），是一种 [网络](https://zh.wikipedia.org/wiki/网络 "wikilink")[视频](../Page/视频.md "wikilink")格式，用作串流媒体格式，它的出现有效地解决了视频文件导入[Flash后](../Page/Adobe_Flash.md "wikilink")，使导出的SWF文件体积庞大，不能在网络上有效使用等缺点。
 
 一般FLV文件包在SWF PLAYER的壳里，并且FLV可以很好的保护原始地址，不容易被下载到，從而起到保护版权的作用。但还是有些视频格式转换软件将FLV转成一般的视频格式，如中国的软件[格式工厂](../Page/格式工厂.md "wikilink")。随着视频[网站的丰富](https://zh.wikipedia.org/wiki/网站 "wikilink")，在2008年時这个格式已经非常普及，包括[YouTube](../Page/YouTube.md "wikilink")、[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")、Google Video、Yahoo\! Video、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")，以及中国的[优酷](../Page/优酷.md "wikilink")、[酷6等大部分视频分享网站均采用这个格式](https://zh.wikipedia.org/wiki/酷6 "wikilink")。

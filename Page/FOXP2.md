@@ -1,3 +1,6 @@
+> 本文内容由[FOXP2](https://zh.wikipedia.org/wiki/FOXP2)转换而来。
+
+
 **FOXP2**（Forkhead box protein P2 (FOXP2)）基因，即**叉头框P2**基因，是一个与[言语](../Page/言语.md "wikilink")功能的[发育有关的](https://zh.wikipedia.org/wiki/发育 "wikilink")[基因](../Page/基因.md "wikilink")。在人类，FOXP2基因位于第7对[染色体上](https://zh.wikipedia.org/wiki/染色体 "wikilink")。FOXP2基因在许多其它具有复杂发声、及发声学习能力的动物，例如[鸣禽中](https://zh.wikipedia.org/wiki/鸣禽 "wikilink")，也有发现。该基因的异常在人类导致特定的先天性[言语障碍](https://zh.wikipedia.org/wiki/言语障碍 "wikilink")。
 
 ## 表型

@@ -1,3 +1,6 @@
+> 本文内容由[Only You \(And You Alone\)](https://zh.wikipedia.org/wiki/Only_You_\(And_You_Alone\))转换而来。
+
+
 〈**Only You (And You Alone)**〉，常简称为〈**Only You**〉，是著名[黑人](../Page/黑人.md "wikilink")乐队[派特斯](../Page/派特斯.md "wikilink")于1955年唱红的一首经典流行歌曲。该曲的作者是[巴克·兰姆和安迪](https://zh.wikipedia.org/wiki/巴克·兰姆 "wikilink")·兰德。
 
 派特斯首次演唱该曲并不成功，但是在1955年7月3日再次推出此曲后，获得了极大的成功。该曲在全美[R\&B榜单中连续](https://zh.wikipedia.org/wiki/R&B "wikilink")7个星期位居榜首。包括[约翰·列侬](../Page/约翰·列侬.md "wikilink")和[林格·斯塔](../Page/林格·斯塔.md "wikilink")在内的多位歌手曾经翻唱过此曲。该曲也出现在许多[好莱坞](../Page/好莱坞.md "wikilink")[电影](../Page/电影.md "wikilink")中，作为背景音乐；也有一些廣告、網路背景音樂喜歡用該首歌。

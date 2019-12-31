@@ -1,4 +1,4 @@
-> 本文内容由[Charis SIL](https://zh.wikipedia.org/wiki/Charis SIL)转换而来。
+> 本文内容由[Charis SIL](https://zh.wikipedia.org/wiki/Charis_SIL)转换而来。
 
 
 **Charis SIL**是[SIL國際](../Page/SIL國際.md "wikilink")開發設計的一個電腦[有襯線](https://zh.wikipedia.org/wiki/有襯線體 "wikilink")（Serif）[字型](../Page/字型.md "wikilink")。這是根據[Bitstream Charter](http://www.myfonts.com/fonts/bitstream/charter/)（為雷射印表機設計的最早的字型之一）的模樣打造出來的，目的是要提供人們一個齊全的[Unicode字型](https://zh.wikipedia.org/wiki/Unicode "wikilink")，使得包括世上所有的[羅馬字或是](https://zh.wikipedia.org/wiki/羅馬字 "wikilink")[西里爾字母](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")，能夠被注音或是書寫。

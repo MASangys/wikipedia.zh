@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵M線](https://zh.wikipedia.org/wiki/紐約地鐵M線)转换而来。
+
+
 **M線第六大道慢車**（），又稱**紐約地鐵M線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[IND第六大道線](../Page/IND第六大道線.md "wikilink")，因此其路線徽號為橙色\[1\]。
 
 M線因為[BMT默特爾大道線短暫關閉而分為兩段](https://zh.wikipedia.org/wiki/BMT默特爾大道線 "wikilink")，正常情況下來往[中村-大都會大道](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")，直至2018年4月。其中一段以[接駁線來往](../Page/紐約地鐵S線.md "wikilink")的[大都會大道與](https://zh.wikipedia.org/wiki/中村-大都會大道車站_\(BMT默特爾大道線\) "wikilink")[布什維克的](https://zh.wikipedia.org/wiki/布什維克_\(布魯克林\) "wikilink")[默特爾-威克奧夫大道](https://zh.wikipedia.org/wiki/默特爾-威克奧夫大道車站_\(BMT默特爾大道線\) "wikilink")，任何時段都營運。另一段則除深夜外任何時段都營運。平日日間來往[森林小丘](../Page/森林小丘.md "wikilink")的[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")的[百老匯交匯](https://zh.wikipedia.org/wiki/百老匯交匯車站_\(BMT牙買加線\) "wikilink")，停靠沿途所有車站；有限度服務以[東村的](https://zh.wikipedia.org/wiki/東村_\(曼哈頓\) "wikilink")[第二大道為總站而不是百老匯交匯車站](https://zh.wikipedia.org/wiki/第二大道車站_\(IND第六大道線\) "wikilink")；平日深夜列車由百老匯交匯開往[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[錢伯斯街](https://zh.wikipedia.org/wiki/錢伯斯街車站_\(BMT納蘇街線\) "wikilink")而不是71大道；週末日間列車來往百老匯交匯與曼哈頓[下東城的](https://zh.wikipedia.org/wiki/下東城 "wikilink")[埃塞克斯街](https://zh.wikipedia.org/wiki/埃塞克斯街車站_\(BMT納蘇街線\) "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[A計劃續集](https://zh.wikipedia.org/wiki/A計劃續集)转换而来。
+
+
 《**A計劃續集**》（）是一部於1987年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[成龍](../Page/成龍.md "wikilink")擔任導演、編劇、武術指導兼領銜主演，以及由[張曼玉](../Page/張曼玉.md "wikilink")、[關之琳](../Page/關之琳.md "wikilink")和[劉嘉玲擔任其他領銜主演](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")；此電影為《A計劃系列》中的第二部。
 
 此電影是成龍的特技演出代表作之一。

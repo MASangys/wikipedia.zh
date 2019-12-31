@@ -1,3 +1,6 @@
+> 本文内容由[NetWeaver](https://zh.wikipedia.org/wiki/NetWeaver)转换而来。
+
+
 SAP NetWeaver是[SAP的集成技术平台](../Page/SAP公司.md "wikilink")，是自从[SAP Business Suite以来的所有SAP应用的技术基础](https://zh.wikipedia.org/wiki/SAP_Business_Suite "wikilink")。SAP NetWeaver是一个[面向服务的应用和集成平台](https://zh.wikipedia.org/wiki/面向服务 "wikilink"),为SAP的应用提供开发和运行环境，也可以用来和其它应用和系统进行自定义的开发和集成。SAP NetWeaver是使用开放标准和事实上的工业标准进行开发的，可以用[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [.NET](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")，[Sun](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink") [Java EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")，和[IBM](../Page/IBM.md "wikilink") [WebSphere等这些技术平台进行扩展和互操作](https://zh.wikipedia.org/wiki/WebSphere "wikilink")。
 
 ## 概要

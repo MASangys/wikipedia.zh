@@ -1,4 +1,4 @@
-> 本文内容由[NHK World Premium](https://zh.wikipedia.org/wiki/NHK World Premium)转换而来。
+> 本文内容由[NHK World Premium](https://zh.wikipedia.org/wiki/NHK_World_Premium)转换而来。
 
 
 [NHK_logo.svg](https://zh.wikipedia.org/wiki/File:NHK_logo.svg "fig:NHK_logo.svg")使用NHK標誌的白色半透明版本，与[NHK World-Japan有别](../Page/NHK_World-Japan_\(頻道\).md "wikilink")\[1\]\]\]

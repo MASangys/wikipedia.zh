@@ -1,3 +1,6 @@
+> 本文内容由[JSTOR](https://zh.wikipedia.org/wiki/JSTOR)转换而来。
+
+
 **JSTOR**（**J**ournal **STOR**age、期刊存储，创立于1995年）是一个收集[学术期刊](../Page/学术期刊.md "wikilink")的[在线系统](../Page/互联网.md "wikilink")。它提供了对发表在数百本知名学术期刊上的文章的电子版全文搜索。 这些学术期刊最早可以追溯到1665年。JSTOR设在[纽约](../Page/纽约.md "wikilink")，是由安得鲁梅伦基金会（Andrew W. Mellon Foundation）创立的，现在是一个独立的和[非营利性机构](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")。
 
 建立JSTOR的最初设想是为了解决[图书馆](../Page/图书馆.md "wikilink")，特别是[学术图书馆面临的一个共同问题](https://zh.wikipedia.org/wiki/学术图书馆 "wikilink")，那就是存放的学术期刊数目的增长。由于成本和所需空间的增加，许多图书馆发现保持期刊的完整性和多样化的开销相当大。JSTOR允许图书馆外包学术期刊的储存资源并且让图书馆对期刊的长期可利用性有信心。

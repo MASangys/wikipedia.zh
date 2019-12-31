@@ -1,3 +1,6 @@
+> 本文内容由[Softimage](https://zh.wikipedia.org/wiki/Softimage)转换而来。
+
+
 **Softimage**是一个知名的[三维绘图](https://zh.wikipedia.org/wiki/三维绘图 "wikilink")[软件](../Page/软件.md "wikilink")，主要运行于[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")，也有[Linux](../Page/Linux.md "wikilink")的版本。主要用于[电脑动画](https://zh.wikipedia.org/wiki/电脑动画 "wikilink")、[电影](../Page/电影.md "wikilink")、[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")、[电视游戏和](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")的图形制作。由Softimage软件公司维护發行。Softimage自1986年创建以来，曾被微软和Avid以高价收购。目前Softimage软件公司隸屬於[歐特克公司](https://zh.wikipedia.org/wiki/歐特克公司 "wikilink")（Autodesk）。
 
 它的前身為**Softimage｜3D**，最初总部位于加拿大魁北克的蒙特利尔市。为1986年[加拿大](../Page/加拿大.md "wikilink")国家电影理事会制片人[丹尼尔·朗洛斯](https://zh.wikipedia.org/wiki/丹尼尔·朗洛斯 "wikilink")（）创建的。其为致力于一套由艺术家自己开发设计的三维动画系统。其基本内容就是如何在业内创建视觉特效，并产生一批新的视觉效果艺术家和动画师。

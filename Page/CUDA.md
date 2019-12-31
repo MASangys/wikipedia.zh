@@ -1,3 +1,6 @@
+> 本文内容由[CUDA](https://zh.wikipedia.org/wiki/CUDA)转换而来。
+
+
 **CUDA**（**C**ompute **U**nified **D**evice **A**rchitecture，**统一计算架构**\[1\]）是由[NVIDIA所推出的一種整合技術](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，是該公司對於[GPGPU的正式名稱](https://zh.wikipedia.org/wiki/GPGPU "wikilink")。透過這個技術，使用者可利用NVIDIA的[GeForce 8以後的GPU和較新的](https://zh.wikipedia.org/wiki/GeForce_8 "wikilink")[Quadro](../Page/Quadro.md "wikilink") [GPU进行计算](https://zh.wikipedia.org/wiki/GPU "wikilink")。亦是首次可以利用GPU作為C-编译器的开发环境。NVIDIA行銷的時候\[2\]，往往將编译器與架构混合推廣，造成混亂。實際上，CUDA可以相容[OpenCL](../Page/OpenCL.md "wikilink")或者自家的C-编译器。無論是CUDA C-語言或是OpenCL，指令最終都會被驅動程式轉換成PTX代碼，交由顯示核心計算。\[3\]
 
 ## 概要

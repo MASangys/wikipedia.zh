@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士V GUNDAM](https://zh.wikipedia.org/wiki/機動戰士V_GUNDAM)转换而来。
+
+
 《**機動戰士V GUNDAM**》（）是日本[日昇動畫](../Page/日昇動畫.md "wikilink")所推出，是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")的第四部，同時是[U.C.最後一篇](https://zh.wikipedia.org/wiki/U.C. "wikilink")。在1993年4月2日到1994年3月25日之間播放，全51話。 當中[V GUNDAM的](https://zh.wikipedia.org/wiki/LM312V04_VICTORY_GUNDAM "wikilink")「V」全寫是Victory，[神聖軍事同盟稱呼V](https://zh.wikipedia.org/wiki/神聖軍事同盟 "wikilink") GUNDAM為「[勝利的白色](https://zh.wikipedia.org/wiki/勝利 "wikilink")」機動戰士。後繼機V2鋼彈同時是整個UC時代最強的主角機。
 
 ## 故事概要

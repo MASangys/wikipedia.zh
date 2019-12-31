@@ -1,3 +1,6 @@
+> 本文内容由[ABAP](https://zh.wikipedia.org/wiki/ABAP)转换而来。
+
+
 **ABAP**（高级商务应用编程）是一种[高级语言](https://zh.wikipedia.org/wiki/高级语言 "wikilink")，由[德国](../Page/德国.md "wikilink")[软件](../Page/软件.md "wikilink")公司[SAP开发](../Page/SAP公司.md "wikilink")。目前，和最近引入的Java一起，ABAP主要用作SAP的编程。这个服务器软件是SAP [NetWeaver](../Page/NetWeaver.md "wikilink")平台的一部分，这个平台主要用来开发商务应用。ABAP支持有面向过程和面向对象。
 
 ## 历史

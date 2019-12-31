@@ -1,3 +1,6 @@
+> 本文内容由[印記 \(Mr.Children單曲\)](https://zh.wikipedia.org/wiki/印記_\(Mr.Children單曲\))转换而来。
+
+
 《**印記**》（）是[日本](../Page/日本.md "wikilink")樂團[Mr.Children](../Page/Mr.Children.md "wikilink")的第29張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2006年11月15日在[日本](../Page/日本.md "wikilink")開始發售。
 
 ## 概要

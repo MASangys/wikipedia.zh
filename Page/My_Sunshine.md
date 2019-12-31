@@ -1,4 +1,4 @@
-> 本文内容由[My Sunshine](https://zh.wikipedia.org/wiki/My Sunshine)转换而来。
+> 本文内容由[My Sunshine](https://zh.wikipedia.org/wiki/My_Sunshine)转换而来。
 
 
 《****》是[香港](../Page/香港.md "wikilink")歌唱組合[Cream於](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")2006年8月演唱會的同名專輯，同時也是他離開[輝皇娛樂前](https://zh.wikipedia.org/wiki/輝皇娛樂 "wikilink")，亦是她們的最後一張專輯。

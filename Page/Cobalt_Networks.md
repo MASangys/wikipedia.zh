@@ -1,4 +1,4 @@
-> 本文内容由[Cobalt Networks](https://zh.wikipedia.org/wiki/Cobalt Networks)转换而来。
+> 本文内容由[Cobalt Networks](https://zh.wikipedia.org/wiki/Cobalt_Networks)转换而来。
 
 
 **Cobalt Networks**公司於1996年在[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[Mountain View成立](https://zh.wikipedia.org/wiki/Mountain_View "wikilink")，是一家專門研發產製低價[Linux](../Page/Linux.md "wikilink")伺服器（也稱：伺服器）的業者，當時稱為Cobalt Microserver Inc.。該公司也是易用型伺服應用機（[Server Appliance](https://zh.wikipedia.org/wiki/Server_Appliance "wikilink")，也稱：精簡型伺服器）的先鋒業者，而產品的訴求用戶主要為[網際服務供應商](https://zh.wikipedia.org/wiki/網際服務供應商 "wikilink")（[Internet Service Provider](https://zh.wikipedia.org/wiki/因特网服务提供商 "wikilink")；[ISP](https://zh.wikipedia.org/wiki/ISP "wikilink")）及[中小企業](https://zh.wikipedia.org/wiki/中小企業 "wikilink")（[Small & Medium Business](https://zh.wikipedia.org/wiki/Small_&_Medium_Business "wikilink")；[SMB](https://zh.wikipedia.org/wiki/SMB "wikilink")），用戶可以透過具安全防護性的遠端遙控、傳輸來操作管理伺服應用機，該機自身已具多種智慧型（也稱：智能型）的網路環境與組態（也稱：配置）偵測能力，並自行完成多數的合適設定，使用者只要就數個簡單項目進行檢視、調整，就可立即享用網路服務，往後在維護管理上也相當輕鬆省力。

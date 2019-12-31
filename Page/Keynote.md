@@ -1,3 +1,6 @@
+> 本文内容由[Keynote](https://zh.wikipedia.org/wiki/Keynote)转换而来。
+
+
 **Keynote**是一个演示幻灯片[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，由[苹果电脑公司出品](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")，运行于[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink") [操作系统](../Page/操作系统.md "wikilink")。最早发布于2003年1月。Keynote现在与[Pages](../Page/Pages.md "wikilink")、[Numbers](../Page/Numbers.md "wikilink")组成工具软件套装[iWork](https://zh.wikipedia.org/wiki/iWork "wikilink")。它于版本3时实现了[通用二进制](../Page/通用二进制.md "wikilink")内核转化，可以保证在[PowerPC](../Page/PowerPC.md "wikilink")和[英特尔](../Page/英特尔.md "wikilink")两种处理器的Mac电脑上运行。
 
 ## 历史

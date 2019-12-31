@@ -1,3 +1,6 @@
+> 本文内容由[Neoplan Centroliner](https://zh.wikipedia.org/wiki/Neoplan_Centroliner)转换而来。
+
+
 **Neoplan Centroliner**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[尼奧普蘭車廠生產的低地台巴士](https://zh.wikipedia.org/wiki/尼奧普蘭 "wikilink")，該車系有不同版本，包括單層巴士、雙層巴士及掛接巴士。Neoplan Centroliner主要使用於[歐洲地區](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，香港及日本也有引進這款巴士。
 
 ## 概要

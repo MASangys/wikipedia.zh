@@ -1,3 +1,6 @@
+> 本文内容由[Access Systems](https://zh.wikipedia.org/wiki/Access_Systems)转换而来。
+
+
 **Access Systems**，是[愛可信](../Page/愛可信.md "wikilink")的子公司，成立於2002年1月，開發了[Palm OS和](../Page/Palm_OS.md "wikilink")[BeOS](../Page/BeOS.md "wikilink")。
 
 ## 歷史

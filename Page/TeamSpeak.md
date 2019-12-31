@@ -1,3 +1,6 @@
+> 本文内容由[TeamSpeak](https://zh.wikipedia.org/wiki/TeamSpeak)转换而来。
+
+
 TeamSpeak是一套[專有的](../Page/专有软件.md "wikilink")[VoIP軟體](https://zh.wikipedia.org/wiki/IP电话 "wikilink")，使用者可以經由它與其他使用者進行語音對話，很像[電話會議](https://zh.wikipedia.org/wiki/電話會議 "wikilink")。使用者可以戴上[耳機](../Page/耳機.md "wikilink")與[麥克風進行通話](https://zh.wikipedia.org/wiki/麥克風 "wikilink")。使用者可以經由客戶端軟體連線到指定的伺服器，在伺服器內的頻道進行通話。
 
 通常TeamSpeak的使用者大多為多人連線遊戲的玩家，與同隊伍的玩家進行通訊。在遊戲的對戰方面，語音對話通訊具有競爭優勢。\[1\]

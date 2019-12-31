@@ -1,4 +1,4 @@
-> 本文内容由[Magic Linux](https://zh.wikipedia.org/wiki/Magic Linux)转换而来。
+> 本文内容由[Magic Linux](https://zh.wikipedia.org/wiki/Magic_Linux)转换而来。
 
 
 **Magic Linux**，简称 MGC，是由中国Linux公社的社区会员制作的中文 Linux 发行版，现基于[Fedora](../Page/Fedora.md "wikilink")修改而来。

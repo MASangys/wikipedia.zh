@@ -1,3 +1,6 @@
+> 本文内容由[NSV重機槍](https://zh.wikipedia.org/wiki/NSV重機槍)转换而来。
+
+
 **NSV**12.7毫米[重機槍由](https://zh.wikipedia.org/wiki/重機槍 "wikilink")[蘇聯制造](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，名字取自其三位設計師G.I. Nikitin、J.S. Sokolov及V.I. Volkov。
 
 ## 歷史

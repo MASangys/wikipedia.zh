@@ -1,3 +1,6 @@
+> 本文内容由[鑑證實錄II](https://zh.wikipedia.org/wiki/鑑證實錄II)转换而来。
+
+
 《**鑑證實錄II**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，於1999年1月4日首播，共20集，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。此劇為《[鑑證實錄](../Page/鑑證實錄.md "wikilink")》的續集。
 
 ## 劇情內容

@@ -1,3 +1,6 @@
+> 本文内容由[OpenVPN](https://zh.wikipedia.org/wiki/OpenVPN)转换而来。
+
+
 **OpenVPN**是一个用于创建[虚拟专用网络加密通道的软件包](https://zh.wikipedia.org/wiki/虚拟专用网络 "wikilink")，最早由James Yonan编写。OpenVPN允许建立的VPN使用[公开密钥](https://zh.wikipedia.org/wiki/公开密钥 "wikilink")、[電子證書](https://zh.wikipedia.org/wiki/電子證書 "wikilink")、或者用户名／密碼来进行身份验证。
 
 它大量使用了[OpenSSL](../Page/OpenSSL.md "wikilink")加密库中的[SSLv](https://zh.wikipedia.org/wiki/SSL "wikilink")3/[TLSv](https://zh.wikipedia.org/wiki/TLS "wikilink")1协议函数库。

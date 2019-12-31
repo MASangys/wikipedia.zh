@@ -1,3 +1,6 @@
+> 本文内容由[TGL](https://zh.wikipedia.org/wiki/TGL)转换而来。
+
+
 **TGL**（**T**echnical **G**roup **L**aboratory，**帝技爺如**）是設籍於[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")的公司，主要業務為商業系統開發、[人力派遣](../Page/人力派遣.md "wikilink")、[電腦遊戲等](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。電腦遊戲部門有代表全年齡向遊戲[品牌](../Page/品牌.md "wikilink")的TGL，及製作[十八禁遊戲的品牌](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戲畫](../Page/戲畫_\(遊戲品牌\).md "wikilink")、[Pink Clover等](https://zh.wikipedia.org/wiki/Pink_Clover "wikilink")，還有運營後援加盟公司群的[Partner Brand](https://zh.wikipedia.org/wiki/Partner_Brand "wikilink")。原本由戲畫推出的十八禁遊戲，在[Alchemist](../Page/Alchemist.md "wikilink")移植到家用機之後，在於2006年年尾後的一段時間，再移植回來到電腦上，並以TGL的名義推出全年齡向遊戲。 [TGL_paper_box_in_Akihabara_20140325.jpg](https://zh.wikipedia.org/wiki/File:TGL_paper_box_in_Akihabara_20140325.jpg "fig:TGL_paper_box_in_Akihabara_20140325.jpg")的TGL電腦遊戲[瓦楞紙箱](https://zh.wikipedia.org/wiki/瓦楞紙 "wikilink")\]\] TGL原在[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[台灣設立在地分公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")。韓國分公司於1997年成立，現名為**TGL國際**（TGLi，Technical Group Laboratory international）。台灣分公司歷史請見下文。
 
 ## 台灣TGL

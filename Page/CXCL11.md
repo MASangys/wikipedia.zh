@@ -1,3 +1,6 @@
+> 本文内容由[CXCL11](https://zh.wikipedia.org/wiki/CXCL11)转换而来。
+
+
 **CXCL11**（）是一小分子的[细胞因子](../Page/细胞因子.md "wikilink")属于CXC[趋化因子](../Page/趋化因子.md "wikilink")家族\[1\]，又被称作“干扰素诱导的T细胞a趋化因子”（Interferon-inducible T-cell alpha chemoattractant (I-TAC)\[2\]。
 
 ## 表达

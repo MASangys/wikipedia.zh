@@ -1,3 +1,6 @@
+> 本文内容由[Hit FM聯播網](https://zh.wikipedia.org/wiki/Hit_FM聯播網)转换而来。
+
+
 [Hit_Fm_Logo.jpg](https://zh.wikipedia.org/wiki/File:Hit_Fm_Logo.jpg "fig:Hit_Fm_Logo.jpg")
 
 **臺北之音廣播股份有限公司**（簡稱：**臺北之音hit FM聯播網**、**hit FM**、**hit FM聯播網**，前名**臺北之音音樂聯播網**）是以[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")為基地的[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，目前是「環球七福廣告」旗下的媒體，開播於1998年9月17日，全天候播放以[華語流行音樂](../Page/華語流行音樂.md "wikilink")為主的[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")[歌曲](../Page/歌曲.md "wikilink")與[廣播節目](https://zh.wikipedia.org/wiki/廣播節目 "wikilink")。[台呼為](https://zh.wikipedia.org/wiki/Jingle "wikilink")“只想聽音樂”。

@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢 \(動畫\)](https://zh.wikipedia.org/wiki/哆啦A夢_\(動畫\))转换而来。
+
+
 《**哆啦A夢**》是一部改编自[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的國民級[日本动画](../Page/日本动画.md "wikilink")，於[日本電視台](../Page/日本電視台.md "wikilink")（1973年4月1日 - 9月30日）及[朝日電視台](../Page/朝日電視台.md "wikilink")（1979年4月2日至今尚播放中）首播。自2019年10月5日起，更改38年來首次播出時段，將調整至每週六下午5點播出（[蠟筆小新也一同更至每週六下午](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")4點30分播出）
 
 ## 日本電視台版本（1973年）

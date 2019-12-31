@@ -1,3 +1,6 @@
+> 本文内容由[X射线天文卫星](https://zh.wikipedia.org/wiki/X射线天文卫星)转换而来。
+
+
 [X-Ray_Explorer_Satellite.jpg](https://zh.wikipedia.org/wiki/File:X-Ray_Explorer_Satellite.jpg "fig:X-Ray_Explorer_Satellite.jpg") **X射线天文卫星**是观测天体的[X射线](../Page/X射线.md "wikilink")辐射为主要目的的人造卫星，是X射线天文学的主要研究设备。
 
 第一颗X射线天文卫星是1970年12月12日美国在[肯尼亚](../Page/肯尼亚.md "wikilink")发射的[乌呼鲁卫星](../Page/乌呼鲁卫星.md "wikilink")，该卫星原名“探险者42号”，又名“小型天文卫星1号”（），因发射当天正值肯尼亚独立7周年纪念日而得名（[兹瓦西里语意为](https://zh.wikipedia.org/wiki/兹瓦西里语 "wikilink")“自由”）。卫星上装有两个相互反向的X射线探测器，利用卫星的旋转进行了系统的X射线巡天，确定了约350个[X射线源](https://zh.wikipedia.org/wiki/X射线源 "wikilink")，发现了许多[银河系](../Page/银河系.md "wikilink")中的[X射线双星](https://zh.wikipedia.org/wiki/X射线双星 "wikilink")、来自遥远[星系团的X射线](https://zh.wikipedia.org/wiki/星系团 "wikilink")，以及第一个[黑洞](../Page/黑洞.md "wikilink")候选天体——[天鹅座X-1](https://zh.wikipedia.org/wiki/天鹅座X-1 "wikilink")。乌呼鲁卫星的观测取得了极大的成功，被认为是X射线天文学发展史上的一座里程碑。

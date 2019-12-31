@@ -1,3 +1,6 @@
+> 本文内容由[SIMOUN](https://zh.wikipedia.org/wiki/SIMOUN)转换而来。
+
+
 **SIMOUN**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：シムーン），中文譯名**西蒙**，為2006年出版的一套[日本](../Page/日本.md "wikilink")電視動畫影集，隨後亦出版一系列的漫畫與小說。
 
 ## 概觀

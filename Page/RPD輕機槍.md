@@ -1,3 +1,6 @@
+> 本文内容由[RPD輕機槍](https://zh.wikipedia.org/wiki/RPD輕機槍)转换而来。
+
+
 **RPD**（[英语](../Page/英语.md "wikilink")全寫：****，[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：****，**РПД**，意思是「[捷格佳廖夫](https://zh.wikipedia.org/wiki/瓦西里·捷格佳廖夫 "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")」）是一种由[瓦西里·捷格佳廖夫](https://zh.wikipedia.org/wiki/瓦西里·捷格佳廖夫 "wikilink")（）设计，[苏联](../Page/苏联.md "wikilink")制的[7.62×39毫米](../Page/7.62×39mm.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")。它是用於取代苏联[7.62×54毫米](../Page/7.62×54mmR.md "wikilink")[DP輕機槍](../Page/DP輕機槍.md "wikilink")。长时间里它是[华沙条约组织的制式轻机枪](https://zh.wikipedia.org/wiki/华沙条约组织 "wikilink")，並為蘇聯戰後的第一代班支援武器。
 
 ## 歷史

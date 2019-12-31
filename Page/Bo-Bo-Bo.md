@@ -1,3 +1,6 @@
+> 本文内容由[Bo-Bo-Bo](https://zh.wikipedia.org/wiki/Bo-Bo-Bo)转换而来。
+
+
 “**Bo-Bo-Bo**”，是[國際鐵路聯盟](../Page/國際鐵路聯盟.md "wikilink")（UIC）的[機車軸式標準之一](../Page/鐵路機車.md "wikilink")，相等於[美國鐵路協會](https://zh.wikipedia.org/wiki/美國鐵路協會 "wikilink")（AAR）的“B-B-B”。每輛採用這種軸式的機車均擁有為數三組的兩軸[轉向架](../Page/轉向架.md "wikilink")，每根[車軸均帶動力](https://zh.wikipedia.org/wiki/車軸 "wikilink")，由6台獨立的牽引電動機帶動。
 
 配用Bo-Bo-Bo軸式的電力機車多見於[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[義大利及](https://zh.wikipedia.org/wiki/義大利 "wikilink")[紐西蘭的鐵路上](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，當中義大利及紐西蘭的部份機車採用重聯設計，其中一個轉向架為兩節機車共用。

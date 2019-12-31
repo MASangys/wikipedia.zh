@@ -1,3 +1,6 @@
+> 本文内容由[OpenGL ES](https://zh.wikipedia.org/wiki/OpenGL_ES)转换而来。
+
+
 **OpenGL ES**（）是[三维图形](https://zh.wikipedia.org/wiki/三维图形 "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")的子集，针对手机、PDA和游戏主机等[嵌入式设备而设计](https://zh.wikipedia.org/wiki/嵌入式设备 "wikilink")。该API由[科纳斯组织](../Page/科纳斯组织.md "wikilink")定义推广，科纳斯是一个图形软硬件行业协会，该协会主要关注图形和多媒体方面的开放标准。
 
 OpenGL ES是从OpenGL裁剪定制而来的，去除了glBegin/glEnd，四边形（GL_QUADS）、多边形（GL_POLYGONS）等复杂图元等许多非绝对必要的特性。经过多年发展，现在主要有两个版本，OpenGL ES 1.x针对固定管线硬件的，OpenGL ES 2.x针对可编程管线硬件。OpenGL ES 1.0是以OpenGL 1.3规范为基础的，OpenGL ES 1.1是以OpenGL 1.5规范为基础的，它们分别又支持common和common lite两种profile。lite profile只支持定点实数，而common profile既支持定点数又支持浮点数。OpenGL ES 2.0则是参照OpenGL 2.0规范定义的，common profile发布于2005-8，引入了对可编程管线的支持。OpenGL ES 3.0于2012年公布，加入了大量新特性。

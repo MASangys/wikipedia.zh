@@ -1,4 +1,4 @@
-> 本文内容由[Game Gear](https://zh.wikipedia.org/wiki/Game Gear)转换而来。
+> 本文内容由[Game Gear](https://zh.wikipedia.org/wiki/Game_Gear)转换而来。
 
 
 是[日本](../Page/日本.md "wikilink")[電子遊戲商](../Page/電子遊戲發行商.md "wikilink")[世嘉](../Page/世嘉.md "wikilink")於1990年10月在日本、1991年4月在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、1991年6月在[歐洲發行的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[8位元](../Page/8位元.md "wikilink")[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")，是世嘉開發的第一部掌上遊戲機\[1\]。繼任主機為[SEGA Nomad](../Page/SEGA_Nomad.md "wikilink")。

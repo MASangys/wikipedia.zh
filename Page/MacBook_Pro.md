@@ -1,4 +1,4 @@
-> 本文内容由[MacBook Pro](https://zh.wikipedia.org/wiki/MacBook Pro)转换而来。
+> 本文内容由[MacBook Pro](https://zh.wikipedia.org/wiki/MacBook_Pro)转换而来。
 
 
 **MacBook Pro**是[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2006年1月開始推出的[Mac](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")系列，現已推出到第四代。它是繼[iMac後第二款取代以](https://zh.wikipedia.org/wiki/iMac "wikilink")[PowerBook G4生產線的](../Page/PowerBook_G4.md "wikilink")[英特爾核心](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")。它也是[MacBook家族中的高端機型](https://zh.wikipedia.org/wiki/MacBook家族 "wikilink")，雖然在此之前已有17英寸版本但已經停產并只保留13以及15寸的產品。

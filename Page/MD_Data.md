@@ -1,4 +1,4 @@
-> 本文内容由[MD Data](https://zh.wikipedia.org/wiki/MD Data)转换而来。
+> 本文内容由[MD Data](https://zh.wikipedia.org/wiki/MD_Data)转换而来。
 
 
 [Sony_MMD-140A.jpg](https://zh.wikipedia.org/wiki/File:Sony_MMD-140A.jpg "fig:Sony_MMD-140A.jpg")

@@ -1,3 +1,6 @@
+> 本文内容由[新曙光號NZJ1型柴油動車組](https://zh.wikipedia.org/wiki/新曙光號NZJ1型柴油動車組)转换而来。
+
+
 **NZJ1型“新曙光號”柴油動車組**是[中國鐵路的準高速](https://zh.wikipedia.org/wiki/中國鐵路 "wikilink")[柴油動車組車型之一](https://zh.wikipedia.org/wiki/柴油動車組 "wikilink")，为“二动九拖”[动力集中方式的推挽式双层列车组](https://zh.wikipedia.org/wiki/動力集中式 "wikilink")，由[戚墅堰机车车辆厂](https://zh.wikipedia.org/wiki/戚墅堰机车车辆厂 "wikilink")、[南京浦镇车辆厂和](https://zh.wikipedia.org/wiki/南京浦镇车辆厂 "wikilink")[上海铁路局于](https://zh.wikipedia.org/wiki/上海铁路局 "wikilink")1999年联合研制成功，列车最高运行速度为180公里/小时。“新曙光號”于1999年10月10日投入[沪杭铁路](../Page/沪杭铁路.md "wikilink")、[沪宁铁路](../Page/沪宁铁路.md "wikilink")运行，至2007年4月改配属[哈尔滨铁路局](https://zh.wikipedia.org/wiki/哈尔滨铁路局 "wikilink")，2010年底停运。由于车头外形和涂装的特点，新曙光號又被戏称为“蚕宝宝”。
 
 ## 发展历史

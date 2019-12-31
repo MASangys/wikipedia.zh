@@ -1,3 +1,6 @@
+> 本文内容由[H-IIB運載火箭](https://zh.wikipedia.org/wiki/H-IIB運載火箭)转换而来。
+
+
 **H-IIB運載火箭**（）是液體低溫的火箭系列，提供一個不可回收的發射系統，用來發射[H-II運送載具](../Page/H-II運送載具.md "wikilink")至[國際太空站](../Page/国际空间站.md "wikilink")。由[三菱重工業為日本航空太空探險代辦處](https://zh.wikipedia.org/wiki/三菱重工業 "wikilink")（[宇宙航空研究開發機構](https://zh.wikipedia.org/wiki/日本宇宙航空研究開發機構 "wikilink")）製造。發射將在種子島太空中心。第一次試飛於2009年（平成21年）9月11日發射成功。
 
 ## 技術諸元

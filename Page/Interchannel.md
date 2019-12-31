@@ -1,3 +1,6 @@
+> 本文内容由[Interchannel](https://zh.wikipedia.org/wiki/Interchannel)转换而来。
+
+
 **Interchannel Inc.**（）是一家[日本](../Page/日本.md "wikilink")[遊戲軟體開發及販賣公司](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。現在是[日本](../Page/日本.md "wikilink")Index集團中負責統籌電腦軟體及影像作品的中間持股公司Index Visual and Games（）的完全子公司。
 
 「Interchannel」是由「**inter**active（互動）」和「**channel**（管道）」組合而成的造字，而「Holon」則是一種描述物體構造的概念：雖然只是部分卻有全體的特性，中文譯作「子整體」。

@@ -1,3 +1,6 @@
+> 本文内容由[Hit Me \(專輯\)](https://zh.wikipedia.org/wiki/Hit_Me_\(專輯\))转换而来。
+
+
 《**Hit Me**》是[香港](../Page/香港.md "wikilink")女歌手[衛詩](../Page/衛詩.md "wikilink")的首張個人專輯。這張大碟的主打歌曲有"Heartbreaker"和"Lonely"。
 
 ## 曲目

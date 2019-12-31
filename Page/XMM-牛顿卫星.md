@@ -1,3 +1,6 @@
+> 本文内容由[XMM-牛顿卫星](https://zh.wikipedia.org/wiki/XMM-牛顿卫星)转换而来。
+
+
 **XMM-牛顿卫星**（）是[欧洲空间局](../Page/欧洲空间局.md "wikilink")1999年发射的一颗[X射线天文卫星](../Page/X射线天文卫星.md "wikilink")，具有极高的谱分辨本领。
 
 XMM-牛顿计划始于1984年，1997年3月开始建造，原名为“高通量X射线分光任务”（），为了纪念发明了分光镜的Isaac Newton而命名XMM-牛顿卫星，其中是（X射线多镜面任务）的缩写。1999年12月10日，XMM-牛顿卫星在[法属圭亚那的](https://zh.wikipedia.org/wiki/法属圭亚那 "wikilink")[库鲁发射场用](https://zh.wikipedia.org/wiki/库鲁发射场 "wikilink")[-{zh-hans:阿里亚娜5型火箭; zh-hant:亞利安五號火箭;}-发射升空](https://zh.wikipedia.org/wiki/亞利安五號火箭 "wikilink")。它的轨道是椭圆形，近地点7,000公里，远地点114,000公里，轨道倾角40度，周期48小时。XMM-牛顿卫星原计划寿命为两年，但是至少 将延長任務期至2010年。

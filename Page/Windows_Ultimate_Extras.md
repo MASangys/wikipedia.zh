@@ -1,3 +1,6 @@
+> 本文内容由[Windows Ultimate Extras](https://zh.wikipedia.org/wiki/Windows_Ultimate_Extras)转换而来。
+
+
 **Windows Ultimate Extras**是提供予[Windows Vista Ultimate使用者的附加功能](../Page/Windows_Vista.md "wikilink")，可透過[Windows Update存取](../Page/Windows_Update.md "wikilink")。
 
 ## 現有的Windows Ultimate Extras

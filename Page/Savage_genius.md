@@ -1,3 +1,6 @@
+> 本文内容由[Savage genius](https://zh.wikipedia.org/wiki/Savage_genius)转换而来。
+
+
 **savage genius**是日本的音樂組合。
 
 ## 概要

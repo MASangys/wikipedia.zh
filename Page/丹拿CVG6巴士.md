@@ -1,3 +1,6 @@
+> 本文内容由[丹拿CVG6巴士](https://zh.wikipedia.org/wiki/丹拿CVG6巴士)转换而来。
+
+
 **丹拿CVG6**（Daimler CVG6）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[丹拿出產的](../Page/丹拿_\(英國\).md "wikilink")[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")。CVG6 全稱為“Commercial Victory Gardner 6-cylinder”，因選配[吉拿](../Page/吉拿.md "wikilink")（Gardner）6氣缸引擎而名。CVG6為前置引擎，半駕駛艙設計。
 
 ## 簡述

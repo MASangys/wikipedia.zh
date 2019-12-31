@@ -1,3 +1,6 @@
+> 本文内容由[C·P·斯诺](https://zh.wikipedia.org/wiki/C·P·斯诺)转换而来。
+
+
 **查尔斯·珀西·斯诺**，[CBE](https://zh.wikipedia.org/wiki/CBE "wikilink")（，），英国[科学家](../Page/科学家.md "wikilink")，[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[XOOPS Cube](https://zh.wikipedia.org/wiki/XOOPS_Cube)转换而来。
+
+
 **XOOPS Cube** 是一套[开放源码的](https://zh.wikipedia.org/wiki/开放源码 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")（CMS：Content Management System）[XOOPS](../Page/XOOPS.md "wikilink") 為 e**X**tensible **O**bject **O**riented **P**ortal **S**ystem 的縮寫。XOOPS Cube 是由日本人主導從原本 [XOOPS](../Page/XOOPS.md "wikilink") 分裂而出的一個分支。這是一套可擴充的[物件導向架設網站系統](https://zh.wikipedia.org/wiki/物件導向 "wikilink")，利用 [PHP](../Page/PHP.md "wikilink") 程式撰寫搭配 [MySQL](../Page/MySQL.md "wikilink") 資料庫來管理網站的一套架站程式。程式原本採用 [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink") license（通用公共授權），但 XOOPS Cube Legacy 2.1.0 正式版本在2007年4月30日發布時表示，雖然 Legacy 版本屬於通用公共授權，但是XOOPS Cube的核心都是由零開始重新開發的軟體，所以核心部份的版權宣告屬於 [BSD許可證授權](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")，而 Legacy base（XOOPS 模組相容套件）的版權依然照 XOOPS 原本的通用公共授權。\[1\]
 
 ## 概要

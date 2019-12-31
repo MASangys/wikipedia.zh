@@ -1,3 +1,6 @@
+> 本文内容由[魔獸爭霸III：寒冰霸權](https://zh.wikipedia.org/wiki/魔獸爭霸III：寒冰霸權)转换而来。
+
+
 是[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")《[魔獸爭霸III： 混亂之治](../Page/魔兽争霸III：混乱之治.md "wikilink")》的[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")。于2003年7月1日首次发行，从发布至今已历经了从1.07到1.30版本，而《[魔獸爭霸III： 混亂之治](https://zh.wikipedia.org/wiki/魔獸爭霸III "wikilink")》则是该游戏刚开始发行时的版本。暴雪同时对《冰封王座》与《混亂之治》两个版本进行更新与维护，并在其[战网平台上提供免费的多人网络对战服务](https://zh.wikipedia.org/wiki/战网 "wikilink")。
 
 ## 故事背景

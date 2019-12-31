@@ -1,3 +1,6 @@
+> 本文内容由[怪盜Saint Tail](https://zh.wikipedia.org/wiki/怪盜Saint_Tail)转换而来。
+
+
 《**怪盜Saint Tail**》（****），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[立川惠](../Page/立川惠.md "wikilink")的[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")，自1994年至1996年間連載於[講談社旗下的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》，共24話（特別篇另計），另發行了[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")7冊。本作品後來被改編成[電視動畫](../Page/日本電視動畫.md "wikilink")，由[朝日放送](../Page/朝日放送.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[TMS娛樂](../Page/TMS娛樂.md "wikilink")聯合製作，自1995年10月12日至1996年9月12日在[ANN系列首播](../Page/全日本新聞網.md "wikilink")，共43集。
 
 在[香港](../Page/香港.md "wikilink")，該動畫曾於1997年在[香港有線電視兒童台及](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。[台灣播映權是由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國電視公司取得](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")，首播期間為2000年5月15日至2001年3月26日，[八大綜合台](../Page/八大綜合台.md "wikilink")亦有重播。[中國](../Page/中國.md "wikilink")[天津電視台少兒頻道也曾以](https://zh.wikipedia.org/wiki/天津電視台 "wikilink")《聖少女》片名播放該動畫，不過-{只}-播放38集。

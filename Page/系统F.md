@@ -1,3 +1,6 @@
+> 本文内容由[系统F](https://zh.wikipedia.org/wiki/系统F)转换而来。
+
+
 **系统F**，也叫做**多态lambda演算**或**二阶lambda演算**，是[有类型lambda演算](https://zh.wikipedia.org/wiki/有类型lambda演算 "wikilink")。它由[逻辑学家](../Page/逻辑学家.md "wikilink")[Jean-Yves Girard和](https://zh.wikipedia.org/wiki/Jean-Yves_Girard "wikilink")[计算机科学家](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[John C. Reynolds独立发现的](https://zh.wikipedia.org/wiki/John_C._Reynolds "wikilink")。系统F形式化了[编程语言](../Page/编程语言.md "wikilink")中的参数[多态的概念](https://zh.wikipedia.org/wiki/多态_\(计算机科学\) "wikilink")。
 
 正如同[lambda演算有取值于](https://zh.wikipedia.org/wiki/lambda演算 "wikilink")（rang over）函数的变量，和来自它们的粘合子（binder）；二阶lambda演算取值自**类型**，和来自它们的粘合子。

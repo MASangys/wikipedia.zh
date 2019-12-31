@@ -1,3 +1,6 @@
+> 本文内容由[真實之淚 true tears](https://zh.wikipedia.org/wiki/真實之淚_true_tears)转换而来。
+
+
 《**真實之淚 true tears**》（。）是日本[Broccoli](../Page/Broccoli.md "wikilink")、[Circus以及](https://zh.wikipedia.org/wiki/Circus_\(遊戲公司\) "wikilink")進行製作，人物設計由[依澄れい](../Page/依澄れい.md "wikilink")進行設計\[1\]\[2\]，由發行的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，日語版於2006年3月31日在日本販售。[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")的[繁體中文版由](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")代理發行\[3\]，並於2007年3月31日發售\[4\]。[PlayStation 2的移植版版由Sweets發行](../Page/PlayStation_2.md "wikilink")，並於2008年8月7日販售\[5\]。在《真實之淚 true tears》的故事圍繞在五位女主角當中，在遊戲當中提供不同的劇情以及故事路線，並且著重於女主角的吸引力。\[6\]
 
 《真實之淚 true tears》同時改編不同的作品，同名的漫畫版在《Comi Digi》（）創刊號（2005年12月10日發售、雙月刊）連載，後來轉移到《Comi Digi +》（）雜誌連載，由Asaki（）繪製\[7\]。2006年同名的電視動畫由[P.A. Works開始進行製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2008年1月6日到2008年3月30日播放，動畫與遊戲之間幾乎沒有任何共通點\[8\]。同時衍生製作[網路廣播節目](https://zh.wikipedia.org/wiki/網路廣播 "wikilink")，兩部[廣播劇CD以及真人實境劇](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。

@@ -1,4 +1,4 @@
-> 本文内容由[TVB Good Show台](https://zh.wikipedia.org/wiki/TVB Good Show台)转换而来。
+> 本文内容由[TVB Good Show台](https://zh.wikipedia.org/wiki/TVB_Good_Show台)转换而来。
 
 
 **-{台}-**（）是[香港](../Page/香港.md "wikilink")[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")（2013年前身為[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")）旗下一條綜藝頻道。

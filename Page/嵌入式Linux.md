@@ -1,3 +1,6 @@
+> 本文内容由[嵌入式Linux](https://zh.wikipedia.org/wiki/嵌入式Linux)转换而来。
+
+
 [Smart_phone.jpg](https://zh.wikipedia.org/wiki/File:Smart_phone.jpg "fig:Smart_phone.jpg"),是一个基于Linux [Android](../Page/Android.md "wikilink")的[智能手机](../Page/智能手机.md "wikilink")。\]\]
 
 **嵌入式Linux**（）是一類[嵌入式作業系統的概稱](https://zh.wikipedia.org/wiki/嵌入式作業系統 "wikilink")，這類型的[作業系統皆以](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Linux內核為基礎](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，被設計來使用於[嵌入式裝置](https://zh.wikipedia.org/wiki/嵌入式裝置 "wikilink")。這類作業系統被廣泛地使用在[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[個人數位助理](https://zh.wikipedia.org/wiki/個人數位助理 "wikilink")（PDA）、媒體播放器以及眾多消費性電子裝置中。

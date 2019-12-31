@@ -1,3 +1,6 @@
+> 本文内容由[和谐号CRH5型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH5型电力动车组)转换而来。
+
+
 [China_Railways_CRH5_at_Qinhuangdao_Railway_Station_20090810.jpg](https://zh.wikipedia.org/wiki/File:China_Railways_CRH5_at_Qinhuangdao_Railway_Station_20090810.jpg "fig:China_Railways_CRH5_at_Qinhuangdao_Railway_Station_20090810.jpg")的CRH5A型动车组\]\] [Menyuan_Railway_Station.jpg](https://zh.wikipedia.org/wiki/File:Menyuan_Railway_Station.jpg "fig:Menyuan_Railway_Station.jpg")的CRH5G型动车组\]\] [CRH5G-5228@BJI_(20171207140545).jpg](https://zh.wikipedia.org/wiki/File:CRH5G-5228@BJI_\(20171207140545\).jpg "fig:CRH5G-5228@BJI_(20171207140545).jpg")的新型CRH5G动车组\]\] **和谐号CRH5型电力动车组**，是[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")为实行[中国铁路第六次大提速](https://zh.wikipedia.org/wiki/中国铁路大提速#中国铁路第六次大提速 "wikilink")，向[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[阿尔斯通和](https://zh.wikipedia.org/wiki/阿尔斯通 "wikilink")[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[长春轨道客车股份有限公司订购的](https://zh.wikipedia.org/wiki/长春轨道客车股份有限公司 "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[动车组车款之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")。中国鐵道部将所有引进国外技术、联合设计生产的[中国铁路高速車輛均命名為](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[信長之野望Online](https://zh.wikipedia.org/wiki/信長之野望Online)转换而来。
+
+
 《**信長之野望Online**》，由日本遊戲公司[KOEI所開發的](https://zh.wikipedia.org/wiki/KOEI "wikilink")[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")。此遊戲起始日2005年7月15日（開放 BETA 版）開始至今。
 
 ## 職業

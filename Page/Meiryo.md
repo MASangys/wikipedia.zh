@@ -1,3 +1,6 @@
+> 本文内容由[Meiryo](https://zh.wikipedia.org/wiki/Meiryo)转换而来。
+
+
 **Meiryo**（日語：）是一種搭載在[微软](../Page/微软.md "wikilink")[Windows Vista的](../Page/Windows_Vista.md "wikilink")[OpenType](../Page/OpenType.md "wikilink")[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[字型](../Page/计算机字体.md "wikilink")，源文件名稱為`meiryo.ttc`，屬於[無襯線字體和](https://zh.wikipedia.org/wiki/無襯線字體 "wikilink")[黑體](../Page/黑体_\(字体\).md "wikilink")（）。它的設計配合了Windows Vista的[ClearType](../Page/ClearType.md "wikilink")晶瑩畫面，並包含了字集的[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")。
 
 中譯為「**明瞭體**」，但不是正式的中文名稱，因為官方並沒有給予中文命名，所以在中文系統下看到的字體名稱為「Meiryo」。

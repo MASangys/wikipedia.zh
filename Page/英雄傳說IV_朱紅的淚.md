@@ -1,3 +1,6 @@
+> 本文内容由[英雄傳說IV 朱紅的淚](https://zh.wikipedia.org/wiki/英雄傳說IV_朱紅的淚)转换而来。
+
+
 是由日本[Falcom在](https://zh.wikipedia.org/wiki/Falcom "wikilink")1996年開發的角色扮演類遊戲系列《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》的第4部作品，系列第二期《[卡卡布三部曲](https://zh.wikipedia.org/wiki/卡卡布三部曲 "wikilink")》的第2部作品。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[CCL1](https://zh.wikipedia.org/wiki/CCL1)转换而来。
+
+
 **CCL1**（）是一小分子的[细胞因子](../Page/细胞因子.md "wikilink")属于CC[趋化因子](../Page/趋化因子.md "wikilink")家族，是由活化的[T细胞](../Page/T细胞.md "wikilink")分泌的[糖蛋白](https://zh.wikipedia.org/wiki/糖蛋白 "wikilink")\[1\]。CCL1与细胞表面的趋化因子受体[CCR8结合](https://zh.wikipedia.org/wiki/CCR8 "wikilink")\[2\]。CCL1对[单核细胞](https://zh.wikipedia.org/wiki/单核细胞 "wikilink")，[自然杀伤细胞](https://zh.wikipedia.org/wiki/自然杀伤细胞 "wikilink")，未成熟的[B细胞](../Page/B细胞.md "wikilink")和[树突状细胞有细胞趋化作用](https://zh.wikipedia.org/wiki/树突状细胞 "wikilink")\[3\]。人类的CCL1[基因](../Page/基因.md "wikilink")与许多CC趋化因子的基因相邻聚集在第17染色体上\[4\].
 
 ## 参见

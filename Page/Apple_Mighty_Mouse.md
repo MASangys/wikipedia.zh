@@ -1,4 +1,4 @@
-> 本文内容由[Apple Mighty Mouse](https://zh.wikipedia.org/wiki/Apple Mighty Mouse)转换而来。
+> 本文内容由[Apple Mighty Mouse](https://zh.wikipedia.org/wiki/Apple_Mighty_Mouse)转换而来。
 
 
 [Mighty_Mouse.jpg](https://zh.wikipedia.org/wiki/File:Mighty_Mouse.jpg "fig:Mighty_Mouse.jpg")

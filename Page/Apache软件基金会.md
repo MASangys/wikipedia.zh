@@ -1,3 +1,6 @@
+> 本文内容由[Apache软件基金会](https://zh.wikipedia.org/wiki/Apache软件基金会)转换而来。
+
+
 **Apache软件基金会**（Apache Software Foundation，简称为ASF），是专门为支持[开源软件](../Page/开源软件.md "wikilink")项目而办的一个非營利性组织。在它所支持的Apache项目与子项目中，所发行的软件产品都遵循[Apache许可证](../Page/Apache许可证.md "wikilink")（Apache License）。
 
 ## 发展历史

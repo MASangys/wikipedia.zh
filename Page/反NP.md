@@ -1,3 +1,6 @@
+> 本文内容由[反NP](https://zh.wikipedia.org/wiki/反NP)转换而来。
+
+
 在[計算複雜度理論上](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，**反NP**類是[複雜度類的其中一類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")。
 
 ## 定義

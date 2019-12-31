@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵D線](https://zh.wikipedia.org/wiki/紐約地鐵D線)转换而来。
+
+
 **D線第六大道快車**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條[地鐵](../Page/地鐵.md "wikilink")路線。由於該線使用[IND第六大道線](../Page/IND第六大道線.md "wikilink")通過[曼哈頓](../Page/曼哈頓.md "wikilink")主要地區，因此其路線徽號為橙色\[1\]。
 
 D線任何時候都營運，來往的[205街與](https://zh.wikipedia.org/wiki/諾伍德-205街車站_\(IND匯集線\) "wikilink")[康尼島](../Page/康尼島.md "wikilink")的[斯提威爾大道](https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站 "wikilink")。日間列車在布朗克斯以慢車營運，在曼哈頓和布魯克林以快車營運（[大西洋大道-巴克萊中心與](https://zh.wikipedia.org/wiki/大西洋大道-巴克萊中心車站_\(BMT第四大道線\) "wikilink")[36街之間](https://zh.wikipedia.org/wiki/36街車站_\(BMT第四大道線\) "wikilink")，通過[德卡爾布大道](https://zh.wikipedia.org/wiki/德卡爾布大道車站_\(BMT第四大道線\) "wikilink")）。繁忙時段的尖峰方向，列車以快車來往布朗克斯的[福德漢姆路與曼哈頓](https://zh.wikipedia.org/wiki/福德漢姆路車站_\(IND匯集線\) "wikilink")[145街](https://zh.wikipedia.org/wiki/145街車站_\(IND第八大道線\) "wikilink")。深夜列車布布朗克斯和布魯克林以慢車營運（停靠德卡爾布大道），以快車在曼哈頓營運。

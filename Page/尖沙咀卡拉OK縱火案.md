@@ -1,3 +1,6 @@
+> 本文内容由[尖沙咀卡拉OK縱火案](https://zh.wikipedia.org/wiki/尖沙咀卡拉OK縱火案)转换而来。
+
+
 [Winfield_Commercial_Building.JPG](https://zh.wikipedia.org/wiki/File:Winfield_Commercial_Building.JPG "fig:Winfield_Commercial_Building.JPG")已結業多時\]\]
 
 **尖沙咀卡拉OK縱火案**又稱**寶勒巷卡拉OK縱火案**，發生於1997年的[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[油尖旺區](../Page/油尖旺區.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")，共17人死，13人傷。

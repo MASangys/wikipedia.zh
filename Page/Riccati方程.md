@@ -1,3 +1,6 @@
+> 本文内容由[Riccati方程](https://zh.wikipedia.org/wiki/Riccati方程)转换而来。
+
+
 **Riccati方程**是形式如\(y' = q_0(x) + q_1(x) y + q_2(x) y^2\) 的[常微分方程](../Page/常微分方程.md "wikilink")。
 
 ## 解法

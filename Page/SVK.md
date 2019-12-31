@@ -1,3 +1,6 @@
+> 本文内容由[SVK](https://zh.wikipedia.org/wiki/SVK)转换而来。
+
+
 **SVK**（也寫作**svk**）是一個以[Perl](../Page/Perl.md "wikilink")寫成的[分散式](https://zh.wikipedia.org/wiki/分散式 "wikilink")[版本控制](../Page/版本控制.md "wikilink")系統（與其它的版本控制系統比較起來，像是[BitKeeper](../Page/BitKeeper.md "wikilink")和[GNU arch](../Page/GNU_arch.md "wikilink")）。
 
 SVK的主要作者是[高嘉良](../Page/高嘉良.md "wikilink")，使用[Artistic License和](https://zh.wikipedia.org/wiki/Artistic_License "wikilink")[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")[雙重授權的](https://zh.wikipedia.org/wiki/雙重授權 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。

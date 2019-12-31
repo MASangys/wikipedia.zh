@@ -1,3 +1,6 @@
+> 本文内容由[X交響樂樂團](https://zh.wikipedia.org/wiki/X交響樂樂團)转换而来。
+
+
 **Symphony X**（以下簡稱**SX**）來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新澤西州](https://zh.wikipedia.org/wiki/新澤西州 "wikilink")，於1994年由吉他手Michael Romeo組成。風格屬於[前衛金屬](../Page/前衛金屬.md "wikilink")。他們分別於1997、2000發行的專輯「The Divine Wings of Tragedy」、「V: The New Mythology Suite」，絕佳的內容使他們成為備受矚目的重金屬樂團。
 
 就音樂上來說，SX常常被拿來與[夢劇場](https://zh.wikipedia.org/wiki/夢劇場 "wikilink")、Fates Warning、Pain of Salvation（救贖代價）等樂團做比較，不過簡單的辨別方式就是，SX的音樂比較「重」。樂句上常使用切分音，和前衛的風格，並且包括了[交響金屬](../Page/交響金屬.md "wikilink")的元素在內。濃厚的新古典元素如Yngwie Malmsteen，Randy Rhoads和其他在新古典金屬上具有影響力的音樂家，也同時影響著他們的音樂。

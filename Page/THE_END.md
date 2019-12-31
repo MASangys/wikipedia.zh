@@ -1,3 +1,6 @@
+> 本文内容由[THE END](https://zh.wikipedia.org/wiki/THE_END)转换而来。
+
+
 「**THE END**」是中島美嘉以NANA starring MIKA NAKASHIMA名義於2006年12月13日發行的專輯。在電影「[NANA 2](../Page/NANA_2.md "wikilink")」上映的同時發行了這張專輯，象徵NANA starring MIKA NAKASHIMA這個角色的最初與最後登場。
 
 ## 概述

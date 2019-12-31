@@ -1,3 +1,6 @@
+> 本文内容由[MyISAM](https://zh.wikipedia.org/wiki/MyISAM)转换而来。
+
+
 **MyISAM**是[MySQL](../Page/MySQL.md "wikilink")的預設[資料庫引擎](https://zh.wikipedia.org/wiki/資料庫引擎 "wikilink")（5.5版之前），由早期的[ISAM所改良](https://zh.wikipedia.org/wiki/ISAM "wikilink")。雖然效能極佳，但卻有一個缺點：不支援[事务處理](https://zh.wikipedia.org/wiki/事务處理_\(數據庫\) "wikilink")（transaction）。不過，在這幾年的發展下，[MySQL](../Page/MySQL.md "wikilink")也導入了[InnoDB](https://zh.wikipedia.org/wiki/InnoDB "wikilink")（另一種資料庫引擎），以強化[參考完整性與](https://zh.wikipedia.org/wiki/參考完整性 "wikilink")[並行違規處理機制](https://zh.wikipedia.org/wiki/並行違規處理 "wikilink")，後來就逐漸取代MyISAM。
 
 每個MyISAM資料表，皆由儲存在硬碟上的3個檔案所組成，每個檔案都以資料表名稱為主檔名，並搭配不同副檔名區分檔案類型：

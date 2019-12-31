@@ -1,3 +1,6 @@
+> 本文内容由[TUN与TAP](https://zh.wikipedia.org/wiki/TUN与TAP)转换而来。
+
+
 在[计算机网络](../Page/计算机网络.md "wikilink")中，**TUN**与**TAP**是操作系统内核中的虚拟网络设备。不同于普通靠硬件[网路板卡实现的设备](https://zh.wikipedia.org/wiki/网络适配器 "wikilink")，这些虚拟的网络设备全部用软件实现，并向运行于操作系统上的软件提供与硬件的网络设备完全相同的功能。
 
 **TAP** 等同于一个[以太网](../Page/以太网.md "wikilink")设备，它操作[第二层数据包如](../Page/OSI模型.md "wikilink")[以太网](../Page/以太网.md "wikilink")数据帧。**TUN**模拟了[网络层](../Page/网络层.md "wikilink")设备，操作[第三层数据包比如](../Page/OSI模型.md "wikilink")[IP数据封包](https://zh.wikipedia.org/wiki/IP "wikilink")。

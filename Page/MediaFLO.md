@@ -1,3 +1,6 @@
+> 本文内容由[MediaFLO](https://zh.wikipedia.org/wiki/MediaFLO)转换而来。
+
+
 ****是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[高通公司對於](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[個人數位助理等可攜式裝備的廣播資料傳送技術](https://zh.wikipedia.org/wiki/個人數位助理 "wikilink")。廣播資料包含多樣性的即時影音串流、獨立或是非即時的影音「短片」，如 股市的走勢、體育賽事的分數，以及氣象報導等IP數據廣播應用服務。\[1\]
 
 FLO在MediaFLO中是指「前向鏈路」（Forward Link Only）\[2\]，意思是從基地台到載具的數據使用單一路徑傳送。MediaFLO系統是從現有的行動網路的[頻譜使用中所分割的一塊傳遞數據](https://zh.wikipedia.org/wiki/波段_\(無線電\) "wikilink")，例如美國使用的MediaFLO的頻譜是以前用於[極高頻](https://zh.wikipedia.org/wiki/極高頻 "wikilink")55電視頻道（[UHF](https://zh.wikipedia.org/wiki/UHF "wikilink") TV Channel 55）的716-722[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")。\[3\]\[4\]。

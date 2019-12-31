@@ -1,3 +1,6 @@
+> 本文内容由[J·M·巴里](https://zh.wikipedia.org/wiki/J·M·巴里)转换而来。
+
+
 **詹姆斯·馬修·巴利爵士，第一代從男爵**，[OM](../Page/功績勳章_\(英國\).md "wikilink")（[英语](../Page/英语.md "wikilink")：****，），[蘇格蘭](../Page/蘇格蘭.md "wikilink")[小說家及](https://zh.wikipedia.org/wiki/小說家 "wikilink")[剧作家](../Page/剧作家.md "wikilink")，世界著名[兒童文學](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")《[彼得潘](../Page/彼得潘.md "wikilink")》的作者，1882年畢業於[愛丁堡大學](https://zh.wikipedia.org/wiki/愛丁堡大學 "wikilink")，曾擔任過記者；1895年移居[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，開始創作散文、小說及劇本。
 
 ## 早年

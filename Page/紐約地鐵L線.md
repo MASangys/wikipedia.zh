@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵L線](https://zh.wikipedia.org/wiki/紐約地鐵L線)转换而来。
+
+
 **L線14街-卡納西慢車**（），又稱**紐約地鐵L線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")系統。由於該線全線使用[BMT卡納西線](https://zh.wikipedia.org/wiki/BMT卡納西線 "wikilink")，因此其路線徽號為灰色\[1\]。
 
 L線在任何時候都營運，來往[曼哈頓](../Page/曼哈頓.md "wikilink")[雀兒喜的](../Page/雀兒喜_\(紐約\).md "wikilink")[第八大道與](https://zh.wikipedia.org/wiki/第八大道車站_\(BMT卡納西線\) "wikilink")[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")的[洛克威公園道](https://zh.wikipedia.org/wiki/卡納西-洛克威公園道車站_\(BMT卡納西線\) "wikilink")。此線也在短暫進入[皇后區](../Page/皇后區.md "wikilink")，服務\[2\]。此線是紐約地鐵第一條使用[通訊式列車控制](../Page/通訊式列車控制.md "wikilink")進行的路線。

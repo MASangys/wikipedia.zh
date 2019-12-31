@@ -1,4 +1,4 @@
-> 本文内容由[Spring Framework](https://zh.wikipedia.org/wiki/Spring Framework)转换而来。
+> 本文内容由[Spring Framework](https://zh.wikipedia.org/wiki/Spring_Framework)转换而来。
 
 
 **Spring框架**是 [Java](../Page/Java.md "wikilink") 平台的一个[开源的全栈](../Page/开放源代码.md "wikilink")（Full-stack）[应用程序框架和](https://zh.wikipedia.org/wiki/软件框架 "wikilink")[控制反转](../Page/控制反转.md "wikilink")容器实现，一般被直接称为 Spring。该框架的一些核心功能理论上可用于任何 Java 应用，但 Spring 还为基于[Java企业版平台构建的](../Page/Jakarta_EE.md "wikilink") Web 应用提供了大量的拓展支持。虽然 Spring 没有直接实现任何的编程模型，但它已经在 Java 社区中广为流行，基本上完全代替了[企业级JavaBeans](../Page/EJB.md "wikilink")（EJB）模型。

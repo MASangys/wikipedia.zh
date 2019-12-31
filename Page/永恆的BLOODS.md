@@ -1,3 +1,6 @@
+> 本文内容由[永恆的BLOODS](https://zh.wikipedia.org/wiki/永恆的BLOODS)转换而来。
+
+
 **永恆的BLOODS**（**BLOODS**）是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2003年4月9日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說

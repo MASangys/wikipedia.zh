@@ -1,3 +1,6 @@
+> 本文内容由[律政新人王II](https://zh.wikipedia.org/wiki/律政新人王II)转换而来。
+
+
 《**律政新人王II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[陳鍵鋒](https://zh.wikipedia.org/wiki/陳鍵鋒 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[官恩娜](../Page/官恩娜.md "wikilink")及[李詩韻領銜主演](https://zh.wikipedia.org/wiki/李詩韻 "wikilink")，監製[關永忠](../Page/關永忠.md "wikilink")。此劇為《律政新人王系列》第二輯，但相比起第一輯，本輯只保留了卓偉名（陳鍵鋒）一角。
 
 ## 演員表

@@ -1,4 +1,4 @@
-> 本文内容由[VIA C7-M](https://zh.wikipedia.org/wiki/VIA C7-M)转换而来。
+> 本文内容由[VIA C7-M](https://zh.wikipedia.org/wiki/VIA_C7-M)转换而来。
 
 
 [c7m_logo.jpg](https://zh.wikipedia.org/wiki/File:c7m_logo.jpg "fig:c7m_logo.jpg") **VIA C7-M**是一款[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，由[威盛电子設計](https://zh.wikipedia.org/wiki/VIA "wikilink")，它采用 **CoolStream** 处理器架构，uFCPGA 478封装，[IBM](../Page/IBM.md "wikilink") 90nm [SOI](../Page/SOI.md "wikilink")工艺，支持[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")、[SSE2](../Page/SSE2.md "wikilink")和[SSE3](../Page/SSE3.md "wikilink")等多媒體指令集。主要用於[筆記型電腦](../Page/筆記型電腦.md "wikilink")和[UMPC上](https://zh.wikipedia.org/wiki/UMPC "wikilink")。開發代號為**Esther** **(C5J)**

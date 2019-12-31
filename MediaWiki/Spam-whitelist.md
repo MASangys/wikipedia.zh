@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Spam-whitelist](https://zh.wikipedia.org/wiki/MediaWiki:Spam-whitelist)转换而来。
+
+
 `# 符合此列表的外部連結在被加入頁面時會被`[`MediaWiki:Spam-blacklist阻攔而無法加入`](../MediaWiki/Spam-blacklist.md "wikilink")`，因此有此白名單防止過度阻攔`
 `# 黑名單僅在中文維基百科有效，維基媒體計劃共用的黑名單列表請見`[`:meta:Spam``   ``blacklist`](https://zh.wikipedia.org/wiki/:meta:Spam_blacklist "wikilink")
 `# Mediawiki軟體對黑名單列表的詳細說明請見`[`:mw:Extension:SpamBlacklist`](https://zh.wikipedia.org/wiki/:mw:Extension:SpamBlacklist "wikilink")

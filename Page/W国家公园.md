@@ -1,3 +1,6 @@
+> 本文内容由[W国家公园](https://zh.wikipedia.org/wiki/W国家公园)转换而来。
+
+
 **W国家公园**（[法语](../Page/法语.md "wikilink")：）主要位于[尼日尔](../Page/尼日尔.md "wikilink")境内，在[布基纳法索和](https://zh.wikipedia.org/wiki/布基纳法索 "wikilink")[贝宁](../Page/贝宁.md "wikilink")也有部分。公园因[尼日尔河](../Page/尼日尔河.md "wikilink")在这里河道弯曲呈“W”状而得名。公园的10000平方公里土地基本无人居住。公园于1954年8月4日根据一项法令成立。
 
 公园以公园内数目巨大的[哺乳动物](../Page/哺乳动物.md "wikilink")而知名，包括[土豚](../Page/土豚.md "wikilink")、[狒狒](https://zh.wikipedia.org/wiki/狒狒 "wikilink")、[水牛](../Page/水牛.md "wikilink")、[猞猁](https://zh.wikipedia.org/wiki/猞猁 "wikilink")、[猎豹](../Page/猎豹.md "wikilink")、[大象](https://zh.wikipedia.org/wiki/大象 "wikilink")、[河马](../Page/河马.md "wikilink")、[狮子](https://zh.wikipedia.org/wiki/狮子 "wikilink")、[薮猫和](https://zh.wikipedia.org/wiki/薮猫 "wikilink")[疣猪等](https://zh.wikipedia.org/wiki/疣猪 "wikilink")。

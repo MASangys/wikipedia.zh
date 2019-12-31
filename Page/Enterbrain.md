@@ -1,3 +1,6 @@
+> 本文内容由[Enterbrain](https://zh.wikipedia.org/wiki/Enterbrain)转换而来。
+
+
 **enterbrain**（），現是[角川集團](../Page/角川集團.md "wikilink")製作經手[娛樂](../Page/娛樂.md "wikilink")關連[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")、[書籍的](https://zh.wikipedia.org/wiki/書籍 "wikilink")[品牌](../Page/品牌.md "wikilink")。之前隸屬於[角川控股集團中間持股公司](https://zh.wikipedia.org/wiki/角川控股集團 "wikilink")[MediaLeaves的旗下](https://zh.wikipedia.org/wiki/MediaLeaves "wikilink")。
 
 本條目包括對法人消滅前的**株式會社enterbrain**（）的介紹。

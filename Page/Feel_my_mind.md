@@ -1,3 +1,6 @@
+> 本文内容由[Feel my mind](https://zh.wikipedia.org/wiki/Feel_my_mind)转换而来。
+
+
 《**feel my mind**》（心靈感應）是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第三張原創專輯，收錄《[COME WITH ME](https://zh.wikipedia.org/wiki/COME_WITH_ME "wikilink")》、《[Gentle Words](https://zh.wikipedia.org/wiki/Gentle_Words "wikilink")》、《[Crazy 4 U](../Page/Crazy_4_U.md "wikilink")》等三張單曲，此張專輯的成績已到達公信榜第7名，比上張專輯前進一名，由此可見倖田來未的專輯成績已漸漸進步，知名度亦愈來愈高。由於上張專輯中的一張電玩主題曲"real Emotion 真實情感"漸漸走紅以來，倖田來未的潛力漸漸被大家發覺，而這種情況也可以從這張專輯的成績進步而得到驗證，似乎也預告著下一張專輯她即將爆紅、有如鹹魚翻身的命運…
 
 ## 解說

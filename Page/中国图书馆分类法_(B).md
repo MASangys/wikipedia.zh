@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(B\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(B\))转换而来。
+> 本文内容由[中国图书馆分类法 \(B\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(B\))转换而来。
 
 
 ## [哲学](../Page/哲学.md "wikilink")、[宗教](../Page/宗教.md "wikilink")

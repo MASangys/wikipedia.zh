@@ -1,4 +1,4 @@
-> 本文内容由[Apm \(香港\)](https://zh.wikipedia.org/wiki/Apm \(香港\))转换而来。
+> 本文内容由[Apm \(香港\)](https://zh.wikipedia.org/wiki/Apm_\(香港\))转换而来。
 
 
 [Apm_Main_Entrance_201405.jpg](https://zh.wikipedia.org/wiki/File:Apm_Main_Entrance_201405.jpg "fig:Apm_Main_Entrance_201405.jpg") **apm**是[香港](../Page/香港.md "wikilink")一個大型購物[商場](../Page/商場.md "wikilink")，位於[九龍](../Page/九龍.md "wikilink")[觀塘區](../Page/觀塘區.md "wikilink")[觀塘道](../Page/觀塘道.md "wikilink")，毗鄰[觀塘商貿區](../Page/觀塘商貿區.md "wikilink")，發展商為[新鴻基地產](../Page/新鴻基地產.md "wikilink")。apm是發展商於觀塘的[創紀之城](../Page/創紀之城.md "wikilink")發展項目之一，為[創紀之城五期](../Page/創紀之城五期.md "wikilink")的商場部分。apm的範圍除了在創紀之城五期外，亦包括[港貿中心大堂的一層](https://zh.wikipedia.org/wiki/港貿中心 "wikilink")。apm早於2005年3月試業，並於2005年7月17日正式開幕。

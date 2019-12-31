@@ -1,3 +1,6 @@
+> 本文内容由[Windows Live OneCare](https://zh.wikipedia.org/wiki/Windows_Live_OneCare)转换而来。
+
+
 **Windows Live OneCare**（或**onecare**、**LIVE ONECARE**。中文名称未定，Onecare意一份关心）是[微软](../Page/微软.md "wikilink")[Windows Live旗下的](../Page/Windows_Live.md "wikilink")[杀毒软件](../Page/杀毒软件.md "wikilink")，是微软进入安全防护领域的第一个杀毒软件。已经停止出售，并且所有产品和帐单支持均已终止，但微软仍然提供免费的同类软件[Microsoft Security Essentials供经过](../Page/Microsoft_Security_Essentials.md "wikilink")[正版验证的用户使用](../Page/Windows正版增值计划.md "wikilink")。
 
 该软件功能包括ProtectionPlus（杀毒，防间谍，防火墙，自动更新）、PerformancePlus（硬碟整理，垃圾清理，自动备份）、Backup and Restore（备份+恢复），同时OneCare也与Windows Update合作，以提供自动视窗系统更新，OneCare也备有即时帮助（24小时／7天）。

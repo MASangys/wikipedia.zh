@@ -1,4 +1,4 @@
-> 本文内容由[Squid \(软件\)](https://zh.wikipedia.org/wiki/Squid \(软件\))转换而来。
+> 本文内容由[Squid \(软件\)](https://zh.wikipedia.org/wiki/Squid_\(软件\))转换而来。
 
 
 [LAMP_software_bundle.svg](https://zh.wikipedia.org/wiki/File:LAMP_software_bundle.svg "fig:LAMP_software_bundle.svg") software bundle (here additionally with **Squid**).\]\] **Squid Cache**（簡稱為**Squid**）是[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[代理服务器](../Page/代理服务器.md "wikilink")软件。Squid用途广泛，可以作为[缓存服务器](https://zh.wikipedia.org/wiki/缓存服务器 "wikilink")，可以过滤流量帮助网络安全，也可以作为代理服务器链中的一环，向上级代理转发数据或直接连接互联网。Squid程序在[Unix一类系统运行](https://zh.wikipedia.org/wiki/Unix "wikilink")。由于它是开源软件，有网站修改Squid的源代码，编译为原生Windows版\[1\]；用户也可在Windows里安装[Cygwin](../Page/Cygwin.md "wikilink")，然后在Cygwin里编译Squid。

@@ -1,3 +1,6 @@
+> 本文内容由[威廉·H·苏厄德](https://zh.wikipedia.org/wiki/威廉·H·苏厄德)转换而来。
+
+
 **威廉·H·苏厄德**（**William Henry Seward**，），[美国](../Page/美国.md "wikilink")律师、地产經紀人、政治家，曾任[美国国务卿](../Page/美国国务卿.md "wikilink")、[美國參議員和](https://zh.wikipedia.org/wiki/美國參議員 "wikilink")[纽约州州长](../Page/纽约州州长.md "wikilink")。
 
 ## 生平

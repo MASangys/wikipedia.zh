@@ -1,3 +1,6 @@
+> 本文内容由[Stare At](https://zh.wikipedia.org/wiki/Stare_At)转换而来。
+
+
 **Stare At**是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第二張原創專輯，日本地區於1996年12月1日發行。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[Tom\'s 硬體指南](https://zh.wikipedia.org/wiki/Tom\'s_硬體指南)转换而来。
+
+
 **Tom's 硬體指南**是一個資訊科技網站，在1996年由[Dr. Thomas Pabst建立](https://zh.wikipedia.org/wiki/Dr._Thomas_Pabst "wikilink")。它目前是世界性的IT焦點網站之一，目前分布於美國、歐洲及亞洲並在線上提供10種以上的語言供瀏覽。
 
 雖然Thomas Pabst是[德國人](https://zh.wikipedia.org/wiki/德國 "wikilink")，但是網站是架設在[美國境內](https://zh.wikipedia.org/wiki/美國 "wikilink")。然而有不少作家，包括目前擔任於美國Tom's 硬體指南的新聞版的作家也都是德國人。而Tom's 硬體在[慕尼黑](../Page/慕尼黑.md "wikilink")也擁有一個大規模的測試研究室。

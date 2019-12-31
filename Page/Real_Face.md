@@ -1,3 +1,6 @@
+> 本文内容由[Real Face](https://zh.wikipedia.org/wiki/Real_Face)转换而来。
+
+
 《**Real Face**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第一张单曲同是也是出道曲，2006年3月22日发行。
 
 ## 概要

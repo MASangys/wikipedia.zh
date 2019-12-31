@@ -1,3 +1,6 @@
+> 本文内容由[NAMCO x CAPCOM](https://zh.wikipedia.org/wiki/NAMCO_x_CAPCOM)转换而来。
+
+
 **NAMCO x CAPCOM**（Namco Cross Capcom）是由Capcom特許，Namco（現在的[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")）製作並發售於2005年5月26日的PlayStation 2模擬策略角色扮演遊戲。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Ipconfig](https://zh.wikipedia.org/wiki/Ipconfig)转换而来。
+
+
 **ipconfig**是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統的電腦上用來控制](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[網路連線的一個](https://zh.wikipedia.org/wiki/電腦網路 "wikilink")[命令列工具](https://zh.wikipedia.org/wiki/命令列 "wikilink")。它的主要功用，包括用來顯示現時網路連線的設定（/all參數），或透過/release參數來釋放取得的ip位置，和透過 /renew 來重新獲取ip位置的分配。
 
 在Win9x系統上，過去亦有一個[GUI版本的](https://zh.wikipedia.org/wiki/GUI "wikilink")[winipcfg](https://zh.wikipedia.org/wiki/winipcfg "wikilink")，但在Win2K之後即不再復見。後來，微軟在他們的網頁提供了wntipcfg供用戶下載。此外，本命令其實脫胎自Unix的[ifconfig](https://zh.wikipedia.org/wiki/ifconfig "wikilink")。

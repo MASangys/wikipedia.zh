@@ -1,3 +1,6 @@
+> 本文内容由[Segoe](https://zh.wikipedia.org/wiki/Segoe)转换而来。
+
+
 **Segoe**（发音//）是一款西文[无衬线体](../Page/无衬线体.md "wikilink")，是由[微软](../Page/微软.md "wikilink")公司开发的并且广泛使用的字体。Segoe UI是Segoe[商标](../Page/商标.md "wikilink")下一系列（至少有27种）字体的一种，这个系列的其他字体包括品牌印刷字体的拓展，\[1\] 在微软内部、广告代理商使用。另外[Windows Vista中的手写字体](../Page/Windows_Vista.md "wikilink")[Segoe Script和](https://zh.wikipedia.org/wiki/Segoe_Script "wikilink")[Segoe Print](https://zh.wikipedia.org/wiki/Segoe_Print "wikilink")，一些[Segoe Media Center字体](https://zh.wikipedia.org/wiki/Segoe_Media_Center "wikilink")，还有内置于[MSNTV的](https://zh.wikipedia.org/wiki/MSNTV "wikilink")[Segoe TV都是这个家族](https://zh.wikipedia.org/wiki/Segoe_TV "wikilink")。
 
 ## 争论

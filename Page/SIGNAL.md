@@ -1,3 +1,6 @@
+> 本文内容由[SIGNAL](https://zh.wikipedia.org/wiki/SIGNAL)转换而来。
+
+
 《**SIGNAL**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第2張單曲。2006年7月19日開始發售。發行公司為[J-One Records](../Page/J_Storm.md "wikilink")。 此細碟也取下2006年7月份的（[ORICON](https://zh.wikipedia.org/wiki/ORICON "wikilink")）公信榜月冠軍。
 
 ## 解説

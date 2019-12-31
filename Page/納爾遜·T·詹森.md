@@ -1,3 +1,6 @@
+> 本文内容由[納爾遜·T·詹森](https://zh.wikipedia.org/wiki/納爾遜·T·詹森)转换而来。
+
+
 [Nelson_T._Johnson_cph.3c35451.jpg](https://zh.wikipedia.org/wiki/File:Nelson_T._Johnson_cph.3c35451.jpg "fig:Nelson_T._Johnson_cph.3c35451.jpg") **納爾遜·特魯斯勒·詹森**（，），[美國外交家](https://zh.wikipedia.org/wiki/美國 "wikilink")，於1929年至1941年任[美國駐華大使](https://zh.wikipedia.org/wiki/美國駐華大使 "wikilink")，任期長達十二年。在[第二次世界大戰期間亦曾任美國駐](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[大使](https://zh.wikipedia.org/wiki/大使 "wikilink")。
 
 ## 早年及職業生涯

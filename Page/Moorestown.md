@@ -1,3 +1,6 @@
+> 本文内容由[Moorestown](https://zh.wikipedia.org/wiki/Moorestown)转换而来。
+
+
 **Moorestown**为[英特尔](../Page/英特尔.md "wikilink")旗下的[UMPC](https://zh.wikipedia.org/wiki/UMPC "wikilink")／[MID系列产品](https://zh.wikipedia.org/wiki/MID "wikilink")。處理器代號為Lincroft\[1\]，採用45nm製程製造，建基於[Intel Atom核心](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")，但功耗和晶片尺寸都大幅降低，英特尔認為Moorestown的性能比同類產品優性，所以更適合作多媒体檔案播放，或視訊会议。比上一代的功耗低，但性能增加一倍。其屬於**Atom Z**系列，針對[平板電腦](../Page/平板電腦.md "wikilink")和[智慧型手機而開發](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[2\]。
 
 ## 系統支援

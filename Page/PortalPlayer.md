@@ -1,3 +1,6 @@
+> 本文内容由[PortalPlayer](https://zh.wikipedia.org/wiki/PortalPlayer)转换而来。
+
+
 **PortalPlayer**曾是一家著名的為[數字音頻播放器供應](https://zh.wikipedia.org/wiki/數字音頻播放器 "wikilink")[SoC半導體](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")、固件與軟體的[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")。該公司負責半導體設計與固件開發，[半導體的實際](https://zh.wikipedia.org/wiki/半導體 "wikilink")[生產會外判給商業](https://zh.wikipedia.org/wiki/生產 "wikilink")[代工廠](https://zh.wikipedia.org/wiki/代工 "wikilink")。2007年1月5日[NVIDIA宣佈以](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")3億5700萬收購PortalPlayer\[1\]。
 
 ## 產品介紹

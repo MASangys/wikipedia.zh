@@ -1,4 +1,4 @@
-> 本文内容由[Altec Lansing](https://zh.wikipedia.org/wiki/Altec Lansing)转换而来。
+> 本文内容由[Altec Lansing](https://zh.wikipedia.org/wiki/Altec_Lansing)转换而来。
 
 
 **Altec Lansing Technologies, Inc.**是一家電腦與家居音頻裝置裝造商。其中有名的產品線"Voice of the Theatre"於1947年製作，以及"in Motion"，一條為[蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[iPod而設計的便攜揚聲器產品線](https://zh.wikipedia.org/wiki/iPod "wikilink")。

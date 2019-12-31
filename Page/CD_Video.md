@@ -1,4 +1,4 @@
-> 本文内容由[CD Video](https://zh.wikipedia.org/wiki/CD Video)转换而来。
+> 本文内容由[CD Video](https://zh.wikipedia.org/wiki/CD_Video)转换而来。
 
 
 \-{H|zh-hans:光盘; zh-hant:光碟;}- -{H|zh-hans:模拟; zh-hant:類比;}- -{H|zh-hans:数字; zh-hant:數位;}- -{H|zh-hans:视频; zh-hant:視訊;}- -{H|zh-hans:音频; zh-hant:音訊;}-

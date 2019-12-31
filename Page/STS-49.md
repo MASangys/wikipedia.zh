@@ -1,3 +1,6 @@
+> 本文内容由[STS-49](https://zh.wikipedia.org/wiki/STS-49)转换而来。
+
+
 ****是历史上第四十七次航天飞机任务，也是[奋进号航天飞机的首次太空飞行](https://zh.wikipedia.org/wiki/奮進號太空梭 "wikilink")。
 
 STS-49发射时间应该是 May 7, 1992 at 6:40 pm CDT.数据来自nasa官方图片的简介。 （GMT 0:00 格林威治标准时间； CDT -5:00 中部白昼时间； EST -5:00 东部标准时间）

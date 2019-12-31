@@ -1,3 +1,6 @@
+> 本文内容由[PEAR](https://zh.wikipedia.org/wiki/PEAR)转换而来。
+
+
 **PEAR**（**P**HP **E**xtension and **A**pplication **R**epository）是由Stig S. Bakken於2000年在[PHP](../Page/PHP.md "wikilink")開發者會議（PHP Developers' Meeting, PDM）上提出\[1\]，目的是實做可以重複使用的[函式庫](../Page/函式庫.md "wikilink")來提供PHP社群使用。\[2\]
 
 這個計畫的目標為：

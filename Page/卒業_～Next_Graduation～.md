@@ -1,3 +1,6 @@
+> 本文内容由[卒業 ～Next Graduation～](https://zh.wikipedia.org/wiki/卒業_～Next_Graduation～)转换而来。
+
+
 《**卒業 ～Next Graduation～**》是[IRI Commerce and Technology於](https://zh.wikipedia.org/wiki/IRI_Commerce_and_Technology "wikilink")2005年6月在[Windows平台上發售的教師](https://zh.wikipedia.org/wiki/Windows "wikilink")[模擬遊戲](../Page/模擬遊戲.md "wikilink")，為《[卒業](https://zh.wikipedia.org/wiki/卒業_\(遊戲\) "wikilink")》系列繼《卒業III ～Wedding Bell～》以來暌違7年的新作品。
 
 在台灣由[英特衛多媒體](../Page/英特衛多媒體.md "wikilink")代理發行中文電腦版。2006年3月9日在[PlayStation 2上發售了題名為](../Page/PlayStation_2.md "wikilink")《卒業 2nd Generation》的移植版。

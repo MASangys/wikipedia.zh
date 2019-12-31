@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM SEED MSV](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_MSV)转换而来。
+
+
 **機動戰士GUNDAM SEED MSV**是[機動戰士GUNDAM SEED的正式外傳作品之一](../Page/機動戰士GUNDAM_SEED.md "wikilink")，與「ASTRAY」系列有著微妙的關聯、補完劇情。「MSV」是全寫為MOBILE SUIT VARIATION，意思是指MS的變化，顯示出存在於該時空背景下，但在正傳動畫中可能未出現的MS。
 
 ## OVA作品

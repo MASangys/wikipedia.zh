@@ -1,3 +1,6 @@
+> 本文内容由[心跳回憶 Only Love](https://zh.wikipedia.org/wiki/心跳回憶_Only_Love)转换而来。
+
+
 《**心跳回憶 Only Love**》是[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")製作、[東京電視台](../Page/東京電視台.md "wikilink")自2006年10月2日到2007年3月26日播放的[日本電視動畫](../Page/日本電視動畫.md "wikilink")，以科樂美數位娛樂在[日本](../Page/日本.md "wikilink")國內營運的[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")《[心跳回憶Online](https://zh.wikipedia.org/wiki/心跳回憶Online "wikilink")》裡的[世界觀為基礎而製作](https://zh.wikipedia.org/wiki/世界觀 "wikilink")。
 
 ## 故事簡介

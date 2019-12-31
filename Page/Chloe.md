@@ -1,3 +1,6 @@
+> 本文内容由[Chloe](https://zh.wikipedia.org/wiki/Chloe)转换而来。
+
+
 **克蘿伊**（Chloe，中國大陸常譯**科洛**，Chloë, Cloe, Chlöe, [Chloé](https://zh.wikipedia.org/wiki/Chloé "wikilink"), Clowy, Kloe, Khloe, Khloë, Khloé, Kloé or Kloë）是女性名字，在英國尤其常見。法語形式為Chloé。
 
 Chloe源自[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")「（*khlóē*）」，為希臘女神[狄蜜特眾多名稱之一](https://zh.wikipedia.org/wiki/狄蜜特 "wikilink")，意思是年輕的、綠葉、植物的幼芽\[1\]。Chloe這個名字出現在《[新約聖經](../Page/新約聖經.md "wikilink")》，《[哥林多前書](../Page/哥林多前書.md "wikilink")》1:11中的"the house of Chloe"\[2\]。

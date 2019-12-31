@@ -1,3 +1,6 @@
+> 本文内容由[GNU Screen](https://zh.wikipedia.org/wiki/GNU_Screen)转换而来。
+
+
 **GNU Screen**是一款由[GNU计划开发的用于](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")[命令行](../Page/命令行界面.md "wikilink")[终端切换的](https://zh.wikipedia.org/wiki/终端 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。用户可以通过该软件同时连接多个本地或远程的命令行[会话](../Page/会话_\(计算机科学\).md "wikilink")，并在其间自由切换。
 
 ## 功能

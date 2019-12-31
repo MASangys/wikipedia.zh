@@ -1,3 +1,6 @@
+> 本文内容由[IDEF](https://zh.wikipedia.org/wiki/IDEF)转换而来。
+
+
 **IDEF**(**ICAM Definition Languages**)是20世纪70年代由[美国](../Page/美国.md "wikilink")[空军](../Page/空军.md "wikilink")发明，最早用于描述企业内部运作的一套[建模方法](https://zh.wikipedia.org/wiki/建模 "wikilink")。经过不断的完善改进，其用途变广泛，现在可以适用于一般的[软件](../Page/软件.md "wikilink")开发。目前，IDEF的方法共十六种--从IDEF0到IDEF14（包括IDEF1X在内）。
 
 ## IDEF方法

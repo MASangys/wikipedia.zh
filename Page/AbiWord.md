@@ -1,3 +1,6 @@
+> 本文内容由[AbiWord](https://zh.wikipedia.org/wiki/AbiWord)转换而来。
+
+
 **AbiWord**是一個以[GNU通用公共許可證授權的免費](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[文書處理軟體](https://zh.wikipedia.org/wiki/文書處理 "wikilink")，名稱"AbiWord"是衍生自意謂開放的[西班牙語單詞](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")"Abierto"；支援[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（[PowerPC](../Page/PowerPC.md "wikilink")）、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[ReactOS](https://zh.wikipedia.org/wiki/ReactOS "wikilink")、[BeOS](../Page/BeOS.md "wikilink")與其他[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，但對每個作業系統的支援程度不同，如Linux版開發活躍；近期Mac OS X版不能在最新機器上原生運行，不能正確地顯示字型；另有一個由[SkyOS](../Page/SkyOS.md "wikilink")創作者分發基於[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")（Linux）的非官方移植版本。
 
 抱怨Abiword不穩定，且損毀檔案。

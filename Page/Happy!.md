@@ -1,3 +1,6 @@
+> 本文内容由[Happy!](https://zh.wikipedia.org/wiki/Happy!)转换而来。
+
+
 **Happy\!**（），又译**網壇小魔女**，是[浦澤直樹](../Page/浦澤直樹.md "wikilink")畫的[網球漫畫](https://zh.wikipedia.org/wiki/體育漫畫#網球漫畫 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Video 2000](https://zh.wikipedia.org/wiki/Video_2000)转换而来。
+
+
 **Video 2000**（或称作**V2000**、**Video Compact Cassette**、**VCC**）是一种由[飞利浦与](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")[Grundig公司开发出的一种与](https://zh.wikipedia.org/wiki/Grundig "wikilink")[JVC](../Page/JVC.md "wikilink")的[VHS](../Page/VHS.md "wikilink")格式和[索尼](../Page/索尼.md "wikilink")的[Betamax](../Page/Betamax.md "wikilink")格式竞争的一种家用录像带格式标准。其上市贩售始于1979年，终于1988年。它们-{只}-有在[欧洲](../Page/欧洲.md "wikilink")与[阿根廷](../Page/阿根廷.md "wikilink")上市贩售。
 
 飞利浦公司原先将其命名为VCC(Video Compact Cassette)以延续他们在1963年注册的另一[商标](../Page/商标.md "wikilink")：ACC（[Audio Compact Cassette](https://zh.wikipedia.org/wiki/Audio_Compact_Cassette "wikilink")）。然而，两个商标皆被证明无法成名，且飞利浦公司主要以**Video 2000**这个注册商标销售此一录像系统，而Grundig一开始使用2x4这个名字，表示其录制时长可达2x4个小时。VCC/V2000/2x4接续并取代了飞利浦公司先前研发的[VCR](https://zh.wikipedia.org/wiki/VCR "wikilink")、[VCR-LP以及Grundig的](https://zh.wikipedia.org/wiki/VCR-LP "wikilink")[SVR格式](https://zh.wikipedia.org/wiki/SVR "wikilink")。

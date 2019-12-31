@@ -1,3 +1,6 @@
+> 本文内容由[QuickTime Alternative](https://zh.wikipedia.org/wiki/QuickTime_Alternative)转换而来。
+
+
 [Windows Server 2003](../Page/Windows_Server_2003.md "wikilink") {{-}} [Windows Vista](../Page/Windows_Vista.md "wikilink") {{-}} [Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") | size = 18.3 MB <small>(QuickTime Alternative)</small>
 16.9 MB<small>(QT Lite)</small> | platform = [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") | language = [英文](https://zh.wikipedia.org/wiki/英文 "wikilink") | genre = [視訊編解碼器](https://zh.wikipedia.org/wiki/視訊編解碼器 "wikilink") | license = [免費軟體](../Page/免費軟體.md "wikilink") | website = }}
 

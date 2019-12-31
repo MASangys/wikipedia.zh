@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Student](https://zh.wikipedia.org/wiki/Microsoft_Student)转换而来。
+
+
 **Microsoft Student**是[Microsoft Encarta家族的产品之一](https://zh.wikipedia.org/wiki/Microsoft_Encarta "wikilink")，它不仅包括了Encarta百科全书，还加入了专门为学生设计的工具及模板。这其中包括了[Microsoft Math](https://zh.wikipedia.org/wiki/Microsoft_Math "wikilink")，文学类资源，[Microsoft Encarta](../Page/Encarta.md "wikilink")（百科全书），并提供为学生设计的Office模板。最新版本为2008年8月发布的Microsoft Student with Encarta Premium 2009。
 
 ## Encarta百科全书

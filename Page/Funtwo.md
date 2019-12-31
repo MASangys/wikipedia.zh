@@ -1,3 +1,6 @@
+> 本文内容由[Funtwo](https://zh.wikipedia.org/wiki/Funtwo)转换而来。
+
+
 **Funtwo**（），本名**林正鉉**（），是韓國新冒起的[-{zh-hans:电吉他;zh-hk:電結他;zh-tw:電吉他;}-手](https://zh.wikipedia.org/wiki/電吉他 "wikilink")，2005年底至2006年初開始，他在一段影片中彈奏由台湾吉他手[张逸帆](https://zh.wikipedia.org/wiki/张逸帆 "wikilink")（外號JerryC）编曲、需要極高[掃弦奏法](https://zh.wikipedia.org/wiki/掃弦奏法 "wikilink")（Sweep picking）技巧的搖滾版的[D大調卡農](https://zh.wikipedia.org/wiki/D大調卡農 "wikilink")——《[Canon Rock](https://zh.wikipedia.org/wiki/Canon_Rock "wikilink")》，該影片最先在韓國社群網絡[Mule上發表](https://zh.wikipedia.org/wiki/Mule "wikilink")，及後被搬上Youtube播放，2011年3月，作品已被8544萬人觀看，引起吉他界及大眾媒體哄動。
 
 ## 背景

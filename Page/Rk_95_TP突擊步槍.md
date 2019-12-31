@@ -1,3 +1,6 @@
+> 本文内容由[Rk 95 TP突擊步槍](https://zh.wikipedia.org/wiki/Rk_95_TP突擊步槍)转换而来。
+
+
 **M 95**/**7.62 RK 95 TP**步槍（[芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")：**R**ynnäkkö**K**ivääri **95**，**T**aitto**p**erä，解作「摺疊[槍托](../Page/槍托.md "wikilink")」，全意為「95式摺疊槍托突擊步槍」）是[芬蘭國防軍](../Page/芬蘭國防軍.md "wikilink")的制式[7.62×39毫米口徑](../Page/7.62×39mm.md "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，由[薩科公司進行研發與生產](https://zh.wikipedia.org/wiki/薩科公司 "wikilink")。
 
 ## 發展緣由

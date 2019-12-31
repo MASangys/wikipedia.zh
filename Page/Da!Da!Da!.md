@@ -1,3 +1,6 @@
+> 本文内容由[Da!Da!Da!](https://zh.wikipedia.org/wiki/Da!Da!Da!)转换而来。
+
+
 《**Da\!Da\!Da\!**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[川村美香所創作的](https://zh.wikipedia.org/wiki/川村美香 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，後來被改編為[電視動畫](../Page/日本電視動畫.md "wikilink")，自2000年至2002年在日本[NHK衛星第2頻道首播](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")，共78集。香港[無綫電視播映版本定名為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")-{《**外星BB撞地球**》}-，[Animax](../Page/Animax.md "wikilink")播映版本定名為《**外星人寶寶**》；台灣[普威爾代理定名為](https://zh.wikipedia.org/wiki/普威爾 "wikilink")-{《**幽浮寶貝**》}-，[東森幼幼台](../Page/東森幼幼台.md "wikilink")和[迪士尼頻道](../Page/迪士尼頻道.md "wikilink")播放時沿用之。其漫畫的續集是《新-{Da\!Da\!Da\!}-》。
 
 ## 故事簡介

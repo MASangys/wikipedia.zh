@@ -1,3 +1,6 @@
+> 本文内容由[Camfrog](https://zh.wikipedia.org/wiki/Camfrog)转换而来。
+
+
 **Camfrog**是一款由Camshare LLC开发的即时[聊天工具](https://zh.wikipedia.org/wiki/聊天工具 "wikilink")，允许来自世界各地的用户播放自己的[音频和](https://zh.wikipedia.org/wiki/音频 "wikilink")[视频。这个软件允许](https://zh.wikipedia.org/wiki/视频。 "wikilink") 超过1000人的用户在一个即时的视频会议环境下聊天。
 
 Camfrog允许用户使用"Camfrog Server"软件搭建自己的视频聊天室。

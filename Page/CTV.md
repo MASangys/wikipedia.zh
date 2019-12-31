@@ -1,3 +1,6 @@
+> 本文内容由[CTV](https://zh.wikipedia.org/wiki/CTV)转换而来。
+
+
 **CTV**可能是以下詞條的縮寫：
 
 ## 電視

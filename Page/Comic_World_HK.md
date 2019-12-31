@@ -1,3 +1,6 @@
+> 本文内容由[Comic World HK](https://zh.wikipedia.org/wiki/Comic_World_HK)转换而来。
+
+
 **Comic World 香港**，簡稱CWHK（在[香港](../Page/香港.md "wikilink")地區也常直接稱作**CW**），是香港一個[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")，由商業團體舉辦，現時每年舉行兩次。
 
 ## 概要

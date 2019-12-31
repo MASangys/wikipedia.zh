@@ -1,3 +1,6 @@
+> 本文内容由[F2blog](https://zh.wikipedia.org/wiki/F2blog)转换而来。
+
+
 **F2blog**是[PHP](../Page/PHP.md "wikilink")語言的中文[部落格平台](https://zh.wikipedia.org/wiki/部落格 "wikilink")，以[Tatter Tools為藍本設計](https://zh.wikipedia.org/wiki/Tatter_Tools "wikilink")，同時也參考了[WordPress](../Page/WordPress.md "wikilink")等部落格，把多個平台的優點整合而成。支援建構在Linux和Windows server的PHP+[MySQL](../Page/MySQL.md "wikilink")，目前最新版本是 1.2 build 03.01 版。
 
 開發理念：F2BLOG 自由誌，一班為興趣而開發的BLOG程式，我們不是為了獲利，也不收分毫，只想給大家知道華人也有好的程序。

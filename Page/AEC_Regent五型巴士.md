@@ -1,3 +1,6 @@
+> 本文内容由[AEC Regent五型巴士](https://zh.wikipedia.org/wiki/AEC_Regent五型巴士)转换而来。
+
+
 [Mayne_Coaches_8859_VR.JPG](https://zh.wikipedia.org/wiki/File:Mayne_Coaches_8859_VR.JPG "fig:Mayne_Coaches_8859_VR.JPG")
 
 **AEC Regent五型**（AEC Regent MkV）是[英國AEC](https://zh.wikipedia.org/wiki/英國 "wikilink")（[Associated Equipment Company](https://zh.wikipedia.org/wiki/Associated_Equipment_Company "wikilink")）於1954年至1969年間生產的半駕駛艙式前置引擎[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")，它是AEC Regent三型的後繼產品。

@@ -1,3 +1,6 @@
+> 本文内容由[BEST 最嘉精選](https://zh.wikipedia.org/wiki/BEST_最嘉精選)转换而来。
+
+
 **BEST 最嘉精選**是[中島美嘉](../Page/中島美嘉.md "wikilink")於2005年12月7日發行的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 概述

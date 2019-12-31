@@ -1,3 +1,6 @@
+> 本文内容由[Sound Horizon](https://zh.wikipedia.org/wiki/Sound_Horizon)转换而来。
+
+
 **Sound Horizon**（サウンドホライズン）是以作曲家[Revo](../Page/Revo.md "wikilink")为中心的日本的音乐团体。此外2012年後同時也以[Linked Horizon的名義與外界作品合作](../Page/Linked_Horizon.md "wikilink")。
 
 ## 概要

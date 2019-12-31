@@ -1,3 +1,6 @@
+> 本文内容由[Camellia](https://zh.wikipedia.org/wiki/Camellia)转换而来。
+
+
 在[密碼學中](https://zh.wikipedia.org/wiki/密碼學 "wikilink")，**Camellia**是一種為許多組織所推崇的[塊密碼](https://zh.wikipedia.org/wiki/塊密碼 "wikilink")（block cipher），包括[歐盟的](https://zh.wikipedia.org/wiki/歐盟 "wikilink")[NESSIE項目](https://zh.wikipedia.org/wiki/NESSIE "wikilink")（作為選定算法）和[日本](../Page/日本.md "wikilink")的[CRYPTREC項目](https://zh.wikipedia.org/wiki/CRYPTREC "wikilink")（作為推薦算法）。該算法由[三菱和](https://zh.wikipedia.org/wiki/三菱 "wikilink")[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）在2000年共同發明，它和早期的塊算法（[E2及](https://zh.wikipedia.org/wiki/E2_\(cipher\) "wikilink")[MISTY1](https://zh.wikipedia.org/wiki/MISTY1 "wikilink")）有相似的設計思想。
 
 Camellia算法每塊的的長度（block size）為128[位元](../Page/位元.md "wikilink")，金鑰長度則可以使用128、192或256[位元](../Page/位元.md "wikilink")。具有與[AES同等級的安全強度及運算量](https://zh.wikipedia.org/wiki/AES "wikilink")\[1\]。

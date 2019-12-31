@@ -1,3 +1,6 @@
+> 本文内容由[超时空要塞II：再爱一次](https://zh.wikipedia.org/wiki/超时空要塞II：再爱一次)转换而来。
+
+
 《**超时空要塞II：再爱一次**》（），是一齣有關[科幻動畫](https://zh.wikipedia.org/wiki/科幻動畫 "wikilink")《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》情節的外傳[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，在1992年發行。
 
 ## 概要

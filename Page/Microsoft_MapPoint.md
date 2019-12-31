@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft MapPoint](https://zh.wikipedia.org/wiki/Microsoft MapPoint)转换而来。
+> 本文内容由[Microsoft MapPoint](https://zh.wikipedia.org/wiki/Microsoft_MapPoint)转换而来。
 
 
 [Microsoft_mappoint_north_america_2001_virtual_globe.gif](https://zh.wikipedia.org/wiki/File:Microsoft_mappoint_north_america_2001_virtual_globe.gif "fig:Microsoft_mappoint_north_america_2001_virtual_globe.gif") [437 px](https://zh.wikipedia.org/wiki/File:Map_detail_comparison_-_mappoint_and_encarta.gif "fig:437 px")

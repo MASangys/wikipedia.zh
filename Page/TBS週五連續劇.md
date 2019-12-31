@@ -1,3 +1,6 @@
+> 本文内容由[TBS週五連續劇](https://zh.wikipedia.org/wiki/TBS週五連續劇)转换而来。
+
+
 **週五連續劇**（），簡稱「Kindora」（），是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")从1972年起每逢星期五22:00起播放的[電視連續劇時段](../Page/电视剧.md "wikilink")。推出作品多以年輕題材為主，並以較受矚目或受歡迎的年輕[演員](../Page/演員.md "wikilink")來擔綱演出，是TBS重要的電視劇節目時段。
 
 隨著電視劇的低迷化，加上抵不過新聞報導強化的潮流，1987年TBS電視台一度讓新聞節目進駐原週五連續劇之時段，一直到1989年才以《[比雨更溫柔](https://zh.wikipedia.org/wiki/比雨更溫柔 "wikilink")》恢復週五連續劇的播出。

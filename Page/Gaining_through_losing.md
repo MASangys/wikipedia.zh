@@ -1,3 +1,6 @@
+> 本文内容由[Gaining through losing](https://zh.wikipedia.org/wiki/Gaining_through_losing)转换而来。
+
+
 gaining through losing（中譯：歷久彌堅）是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第四張原創專輯，日本地區於2001年7月4日發行。發行首周取得[Oricon](../Page/Oricon.md "wikilink")日本公信榜亞軍，登場回數27周，總銷量超過108萬張，獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")百萬唱片認證。
 
 ## 解説

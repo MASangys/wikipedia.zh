@@ -1,3 +1,6 @@
+> 本文内容由[電腦少女★Mink](https://zh.wikipedia.org/wiki/電腦少女★Mink)转换而来。
+
+
 《**電腦少女★Mink**》是[日本](../Page/日本.md "wikilink")漫畫家[立川惠](../Page/立川惠.md "wikilink")的作品，1999年9月至2002年1月於日本[少女漫畫月刊](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")『[なかよし](https://zh.wikipedia.org/wiki/なかよし "wikilink")』連載，2001年1月開始在香港[Comic Fans](https://zh.wikipedia.org/wiki/Comic_Fans "wikilink") 連載。
 
 ## 人物

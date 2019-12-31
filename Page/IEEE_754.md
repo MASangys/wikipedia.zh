@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 754](https://zh.wikipedia.org/wiki/IEEE_754)转换而来。
+
+
 **[IEEE二進位浮點數算術標準](https://zh.wikipedia.org/wiki/電氣電子工程師協會 "wikilink")**（**IEEE 754**）是20世纪80年代以来最廣泛使用的[浮點數運算標準](https://zh.wikipedia.org/wiki/浮點數 "wikilink")，為許多[CPU與](https://zh.wikipedia.org/wiki/中央處理單元 "wikilink")[浮點運算器所採用](https://zh.wikipedia.org/wiki/浮點運算器 "wikilink")。這個標準定義了表示浮點數的格式（包括負零[-0](../Page/-0.md "wikilink")）與反常值（denormal number），一些特殊數值（（[無窮](https://zh.wikipedia.org/wiki/無窮 "wikilink")（Inf）與[非數值](../Page/NaN.md "wikilink")（NaN）），以及這些數值的「浮點數運算子」；它也指明了四種[數值修約規則和五種例外狀況](https://zh.wikipedia.org/wiki/數值修約規則 "wikilink")（包括例外發生的時機與處理方式）。
 
 IEEE 754規定了四種表示浮點數值的方式：單精確度（32位元）、雙精確度（64位元）、延伸單精確度（43位元以上，很少使用）與延伸雙精確度（79位元以上，通常以80位元實做）。只有32位元模式有強制要求，其他都是選擇性的。大部分[程式語言都提供了IEEE浮点数格式與算術](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，但有些將其列為非必需的。例如，IEEE 754問世之前就有的[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")，現在包括了IEEE算術，但不算作強制要求（C語言的`float`通常是指IEEE單精確度，而`double`是指雙精確度）。

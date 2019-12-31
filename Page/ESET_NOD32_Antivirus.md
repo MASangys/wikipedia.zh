@@ -1,4 +1,4 @@
-> 本文内容由[ESET NOD32 Antivirus](https://zh.wikipedia.org/wiki/ESET NOD32 Antivirus)转换而来。
+> 本文内容由[ESET NOD32 Antivirus](https://zh.wikipedia.org/wiki/ESET_NOD32_Antivirus)转换而来。
 
 
 **ESET NOD32 Antivirus**（通常被稱為**NOD32**）是位於[斯洛伐克](../Page/斯洛伐克.md "wikilink")的[ESET](../Page/ESET.md "wikilink")公司[開發的](https://zh.wikipedia.org/wiki/開發 "wikilink")[防毒軟體](https://zh.wikipedia.org/wiki/防毒軟體 "wikilink")。支援[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac以及其它](https://zh.wikipedia.org/wiki/Mac "wikilink")[系統平台](https://zh.wikipedia.org/wiki/系統平台 "wikilink")，分為兩個版本發售，企業版提供[遠端管理工具](https://zh.wikipedia.org/wiki/遠端桌面軟體 "wikilink")。現時最新版本為 ESET NOD32 Antivirus 10，ESET Internet Security，ESET Smart Security Premium( 12.1.31.0 ) ( [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") )。

@@ -1,3 +1,6 @@
+> 本文内容由[吸血鬼猎人D](https://zh.wikipedia.org/wiki/吸血鬼猎人D)转换而来。
+
+
 《**吸血鬼獵人D**》（原題：，英語：Vampire Hunter D）是[日本](../Page/日本.md "wikilink")作家[菊地秀行](../Page/菊地秀行.md "wikilink")的[小說系列](https://zh.wikipedia.org/wiki/小說 "wikilink")，目前已有改編成OVA、動畫電影、遊戲、漫畫等版本。
 
 ## 概要

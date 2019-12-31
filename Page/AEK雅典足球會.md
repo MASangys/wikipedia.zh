@@ -1,3 +1,6 @@
+> 本文内容由[AEK雅典足球會](https://zh.wikipedia.org/wiki/AEK雅典足球會)转换而来。
+
+
 **AEK雅典足球會**（[希臘文](https://zh.wikipedia.org/wiki/希臘文 "wikilink")：****），是一間職業的[足球會](https://zh.wikipedia.org/wiki/足球會 "wikilink")，位於[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")[雅典](../Page/雅典.md "wikilink")，現時是在[希臘足球超級聯賽](../Page/希臘足球超級聯賽.md "wikilink")作賽。
 
 ## 歷史

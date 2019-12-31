@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Ipbreason-dropdown](https://zh.wikipedia.org/wiki/MediaWiki:Ipbreason-dropdown)转换而来。
+
+
   - 一般的封禁理由
       - [破壞](https://zh.wikipedia.org/wiki/WP:VAN "wikilink")
       - [繁簡破壞](https://zh.wikipedia.org/wiki/WP:VAN#LANG "wikilink")

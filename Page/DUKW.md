@@ -1,3 +1,6 @@
+> 本文内容由[DUKW](https://zh.wikipedia.org/wiki/DUKW)转换而来。
+
+
 [DUKW_2.jpg](https://zh.wikipedia.org/wiki/File:DUKW_2.jpg "fig:DUKW_2.jpg") **DUKW**（又名**DUCK**，鴨子）是[二戰時期](https://zh.wikipedia.org/wiki/二戰 "wikilink")[盟軍的](https://zh.wikipedia.org/wiki/盟軍 "wikilink")6輪[兩棲裝甲車](https://zh.wikipedia.org/wiki/兩棲裝甲車 "wikilink")，由[通用動力（GMC）製造](https://zh.wikipedia.org/wiki/通用動力 "wikilink")，二戰時用於運載物資及部隊穿越水陸及登陸作戰用途，二戰後改為運載遊客作旅遊用途。
 
 ## 簡介

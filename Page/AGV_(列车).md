@@ -1,3 +1,6 @@
+> 本文内容由[AGV \(列车\)](https://zh.wikipedia.org/wiki/AGV_\(列车\))转换而来。
+
+
 
 15kV 16.7 Hz交流供电条件下：320 km/h \[1\]
 3000V直流供电下：250 km/h \[2\]

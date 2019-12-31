@@ -1,3 +1,6 @@
+> 本文内容由[Windows API](https://zh.wikipedia.org/wiki/Windows_API)转换而来。
+
+
 **Windows操作系统应用程序接口**（），有非正式的简称法为**WinAPI**，是[微软](../Page/微软.md "wikilink")对于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")中可用的核心[应用程序编程接口的称法](https://zh.wikipedia.org/wiki/API "wikilink")。它被设计为各种语言的程序调用，也是[应用软件与Windows系统最直接的交互方式](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。大多数[驱动程序](../Page/驱动程序.md "wikilink")需要对Windows系统更底层次访问接口，由所用版本的Windows的[Native API来提供接口](https://zh.wikipedia.org/wiki/Native_API "wikilink")。
 
 Windows有一个[软件开发套件](https://zh.wikipedia.org/wiki/Windows_SDK "wikilink")（SDK, software development kit）提供相应的文档和工具，以使程序员开发使用Windows API的软件和利用Windows技术。

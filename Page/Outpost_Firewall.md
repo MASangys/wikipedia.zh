@@ -1,4 +1,4 @@
-> 本文内容由[Outpost Firewall](https://zh.wikipedia.org/wiki/Outpost Firewall)转换而来。
+> 本文内容由[Outpost Firewall](https://zh.wikipedia.org/wiki/Outpost_Firewall)转换而来。
 
 
 **Outpost Firewall Pro**是由[俄罗斯](../Page/俄罗斯.md "wikilink")[Agnitum公司出品的针对家庭和小型办公用户的](https://zh.wikipedia.org/wiki/Agnitum "wikilink")[防火墙](../Page/防火墙.md "wikilink")产品。

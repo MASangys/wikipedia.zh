@@ -1,3 +1,6 @@
+> 本文内容由[A Triumph For Man](https://zh.wikipedia.org/wiki/A_Triumph_For_Man)转换而来。
+
+
 **A Triumph For Man**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")的第一張專輯，於1997年4月由丹麥唱片廠牌Exlibris Musik限量發行2000張。
 
 2006年9月18日在[北歐](../Page/北歐.md "wikilink")地區重新發行為雙CD版本。

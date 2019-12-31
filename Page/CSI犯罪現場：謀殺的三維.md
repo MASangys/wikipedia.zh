@@ -1,3 +1,6 @@
+> 本文内容由[CSI犯罪現場：謀殺的三維](https://zh.wikipedia.org/wiki/CSI犯罪現場：謀殺的三維)转换而来。
+
+
 《**CSI犯罪現場：謀殺的三維**》（*CSI: 3 Dimensions of Murder*）是一套基於電視劇[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。與前作不同，這遊戲由[Telltale Games開發而不是](https://zh.wikipedia.org/wiki/Telltale_Games "wikilink")[369 Interactive](https://zh.wikipedia.org/wiki/369_Interactive "wikilink")。由[育碧软件發行](https://zh.wikipedia.org/wiki/育碧软件 "wikilink")，[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")，2006年前期發表。
 
 这款遊戲像之前的CSI犯罪現場遊戲《[CSI犯罪現場](../Page/CSI犯罪現場_\(遊戲\).md "wikilink")》、《[CSI犯罪現場：邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密_\(遊戲\) "wikilink")》與《[CSI犯罪現場：黑暗動機](../Page/CSI犯罪現場：黑暗動機.md "wikilink")》一樣，跟隨五個截然不同佈局案件，然後在第五個案件中連接之前的四個案件。

@@ -1,3 +1,6 @@
+> 本文内容由[佳能EF-S接環鏡頭](https://zh.wikipedia.org/wiki/佳能EF-S接環鏡頭)转换而来。
+
+
 [Canon_EF-S_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF-S_lens_mount.jpg "fig:Canon_EF-S_lens_mount.jpg") **佳能EF-S接環鏡頭**是[佳能公司推出之專用於](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[APS-C画幅機身的鏡頭](https://zh.wikipedia.org/wiki/APS-C "wikilink")。由于APS-C画幅相机大小为1.6的转换系数，故等效于35mm胶片画幅的焦距为镜头示数乘以1.6之后的数值。
 
 虽然[佳能EF接环镜头也适用于APS](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")-C画幅机身，但是由于受到转换系数的影响，有的EF接环广角镜头的效果受到较大的影响。因此，APS-C画幅的机身最好搭配EF-S接环广角镜头。

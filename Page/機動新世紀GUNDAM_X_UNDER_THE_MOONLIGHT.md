@@ -1,3 +1,6 @@
+> 本文内容由[機動新世紀GUNDAM X UNDER THE MOONLIGHT](https://zh.wikipedia.org/wiki/機動新世紀GUNDAM_X_UNDER_THE_MOONLIGHT)转换而来。
+
+
 《**機動新世紀GUNDAMX ～UNDER THE MOONLIGHT～**》是[機動新世紀GUNDAM X的續編漫畫](../Page/機動新世紀GUNDAM_X.md "wikilink")，於角川書店發售的漫畫雜誌「[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")」連載。
 
 ## 故事背景

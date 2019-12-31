@@ -1,3 +1,6 @@
+> 本文内容由[ASOS](https://zh.wikipedia.org/wiki/ASOS)转换而来。
+
+
 **ASOS**（全寫：**Adult Sisters of Shu**；中文名：**徐氏姊妹**）是一組[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[徐熙媛](../Page/徐熙媛.md "wikilink")（大S）和[徐熙娣](../Page/徐熙娣.md "wikilink")（小S）組成
 
 ASOS舊名為**S.O.S**（全寫：**Sisters of Shu**），但因合約糾紛而更換為現今的ASOS。且出道之初亦以**嘟比嘟哇**作為組合名稱（取自專輯《佔領年輕》中的歌曲《do bi di wa》

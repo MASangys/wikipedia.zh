@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TQ6\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ6\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TQ6\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TQ6\))转换而来。
 
 
 ::\*TQ61 [染料](../Page/染料.md "wikilink")及[中间体工业](https://zh.wikipedia.org/wiki/中间体工业 "wikilink")

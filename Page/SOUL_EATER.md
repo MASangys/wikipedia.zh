@@ -1,3 +1,6 @@
+> 本文内容由[SOUL EATER](https://zh.wikipedia.org/wiki/SOUL_EATER)转换而来。
+
+
 《**SOUL EATER**》（）是由[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[大久保篤創作的漫畫作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")。《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》（[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2004年6月號開始至2013年9月號結束連載。單行本全25卷。本作是作者繼[B壹後第](https://zh.wikipedia.org/wiki/B壹 "wikilink")2部長篇連載作品。在此之前，2003年分別在[GANGAN POWERD](https://zh.wikipedia.org/wiki/GANGAN_POWERD "wikilink") 2003年夏季號、秋季號及[月刊GANGAN WING](../Page/月刊GANGAN_WING.md "wikilink") 2004年1月號刊載3部短篇作品。
 
 在[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")2008年1月號中發表電視動畫化，於2008年4月開播至2009年3月結束，全51話。並獲選為2008年第12回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。

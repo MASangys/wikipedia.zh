@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TF\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TF\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TF\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TF\))转换而来。
 
 
   - TF [冶金工业](https://zh.wikipedia.org/wiki/冶金工业 "wikilink")

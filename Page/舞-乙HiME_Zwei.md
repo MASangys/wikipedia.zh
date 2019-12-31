@@ -1,3 +1,6 @@
+> 本文内容由[舞-乙HiME Zwei](https://zh.wikipedia.org/wiki/舞-乙HiME_Zwei)转换而来。
+
+
 《**舞-乙HiME Zwei**》是[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作。（注：zwei為德文中的「二」）
 
 《**舞-乙HiME Zwei**》共有4話，在日本，第1話至4話已於2006年11月24日至2007年8月24日期間開始發售。而[藍光光碟](../Page/藍光光碟.md "wikilink")及[UMD版的OVA將於](../Page/通用媒體光碟.md "wikilink")2009年10月27日\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[Cover Flow](https://zh.wikipedia.org/wiki/Cover_Flow)转换而来。
+
+
 **Cover Flow**是一個可經由唱片封面來形象化地翻查一個數位音樂資料庫的[三維](https://zh.wikipedia.org/wiki/三維 "wikilink")[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[I.Q.成熟時](https://zh.wikipedia.org/wiki/I.Q.成熟時)转换而来。
+
+
 **《I.Q.成熟時》** 是[香港](../Page/香港.md "wikilink")[麗的電視](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")1980年代的青春[愛情](../Page/愛情.md "wikilink")[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。1981年6月8日晚上七時零五分首播，共有20集。本劇播出後很受歡迎，收視高於無綫同時段同屬青春劇的劇集《[荳芽夢](../Page/荳芽夢.md "wikilink")》，成功打破翡翠台的[慣性收視](../Page/慣性收視.md "wikilink")，成為麗的電視經典劇集之一。
 
 ## 製作背景

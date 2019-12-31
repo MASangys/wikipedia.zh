@@ -1,3 +1,6 @@
+> 本文内容由[WASD](https://zh.wikipedia.org/wiki/WASD)转换而来。
+
+
 [W-A-S-D.jpg](https://zh.wikipedia.org/wiki/File:W-A-S-D.jpg "fig:W-A-S-D.jpg") **WASD** 或**WSAD**\[1\]是傳統[QWERTY鍵盤](../Page/QWERTY鍵盤.md "wikilink")上的四個按鍵，位於[鍵盤的左手面](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")。這四個按鍵在[第一人稱射擊遊戲上通常作為控制玩家角色的移動](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")\[2\]。W和S鍵用來控制角色向前或向後移動，A和D鍵則用來控制角色左右移動。這組按鍵還有另一個變化W-A-X-D，用以遷就一些習慣使用數字鍵盤的方向按鍵（8-4-6-2）的使用者。
 
 一般認為WASD操作法是[CS所帶起的習慣](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")。現今許多FPS和3D冒險遊戲都支援。

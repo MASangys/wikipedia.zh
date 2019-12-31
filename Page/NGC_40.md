@@ -1,4 +1,4 @@
-> 本文内容由[NGC 40](https://zh.wikipedia.org/wiki/NGC 40)转换而来。
+> 本文内容由[NGC 40](https://zh.wikipedia.org/wiki/NGC_40)转换而来。
 
 
 {{ Planetary nebula | | image = [Ngc40.jpg](https://zh.wikipedia.org/wiki/File:Ngc40.jpg "fig:Ngc40.jpg") | name = [NGC](https://zh.wikipedia.org/wiki/星雲和星團新總表 "wikilink") 40 | type = 3b+b | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | ra = \[1\] | dec = \[2\] | dist_ly = \~3,500[光年](../Page/光年.md "wikilink") (\~1,000[秒差距](../Page/秒差距.md "wikilink"))\[3\] | appmag_v = 11.4,\[4\] 12.3\[5\] | size_v = 38 x 35弧秒\[6\] | constellation = [仙王座](../Page/仙王座.md "wikilink") | radius_ly = | absmag_v = | notes = | names = Bow-Tie Nebula, [科德韋爾](https://zh.wikipedia.org/wiki/科德韋爾深空天體表 "wikilink") 2 }}

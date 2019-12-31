@@ -1,3 +1,6 @@
+> 本文内容由[DXF](https://zh.wikipedia.org/wiki/DXF)转换而来。
+
+
 DXF是**AutoCAD DXF**（Drawing Interchange Format或者Drawing Exchange Format）的简称，它是[Autodesk](../Page/Autodesk.md "wikilink")公司开发的用于[AutoCAD](../Page/AutoCAD.md "wikilink")与其它软件之间进行[CAD数据交换](../Page/CAD数据交换.md "wikilink")的[CAD数据](https://zh.wikipedia.org/wiki/CAD "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。
 
 DXF于1982年12月作为AutoCAD 1.0的一部分首次面世，用于从未公开的AutoCAD内部文件格式[DWG的一种精确表示](https://zh.wikipedia.org/wiki/DWG "wikilink")。目前Autodesk在它的网站上公布有从1994年11月发布的AutoCAD Release 13到2006年3月发布的AutoCAD 2007的DXF规范。

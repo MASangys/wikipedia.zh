@@ -1,3 +1,6 @@
+> 本文内容由[Sudo](https://zh.wikipedia.org/wiki/Sudo)转换而来。
+
+
 <onlyinclude></onlyinclude>
 
 **Sudo** （**s**ubstitute **u**ser \[或 **s**uper**u**ser\] **do**），是一種[程式](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")，用於[類Unix](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")[作業系統如](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[BSD](../Page/BSD.md "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及[GNU/Linux以允許使用者透過安全的方式使用特殊的權限執行程式](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink") （通常為[系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[超級使用者](https://zh.wikipedia.org/wiki/超級使用者 "wikilink")）。

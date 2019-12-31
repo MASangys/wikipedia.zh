@@ -1,3 +1,6 @@
+> 本文内容由[McFly](https://zh.wikipedia.org/wiki/McFly)转换而来。
+
+
 **McFLY**（中文翻譯為：**小飛俠**）在英國倫敦成立於2003年的[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[流行摇滚樂隊](../Page/流行搖滾.md "wikilink")，凭借着首张单曲《5 Colours In Her Hair》在2004年早期進入流行乐坛，並且一炮而紅。他們是英國最受歡迎和最成功的樂隊之一。 McFLY是由[湯姆·弗萊屈](../Page/湯姆·弗萊屈.md "wikilink")（Tom Fletcher）創立，4人樂隊成員一直合作至今。[湯姆·弗萊屈](../Page/湯姆·弗萊屈.md "wikilink")（Tom Fletcher）擔任主唱和結他手，成員[丹尼·瓊斯](../Page/丹尼·瓊斯.md "wikilink")（Danny Jones）擔任主唱和結他手、他們二人共同為樂隊創作出無數歌曲，包括第一首創作的「Room on the 3rd Floor」。[道基·波伊特](../Page/道基·波伊特.md "wikilink")（Dougie Poynter）擔任貝斯手和合音員，以及[哈利·裘德](../Page/哈利·裘德.md "wikilink")（Harry Judd）擔任鼓手。2008年他们與 Island 唱片公司完成合約後，自行成立名為 Super Record 的唱片公司。他們屬於 Absolute Management 經紀公司旗下。
 
 2004年3月，McFLY得到[霸子樂團](https://zh.wikipedia.org/wiki/霸子樂團 "wikilink")（Busted）的幫助，被邀請作為巡迴演唱會嘉賓亮相表演，開始打響知名度。McFLY的首張專輯《Room on the 3rd Floor》登上英國唱片榜第一位和雙白金銷量，打破了[英國著名樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")（The Beatles）的紀錄，成為[英國歷史上推出首張專輯便取得唱片榜第一名的最年輕樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")。《Room on the 3rd Floor》發布的一個月之後，樂隊開始了第一個在英國領銜表演的巡迴演唱會。

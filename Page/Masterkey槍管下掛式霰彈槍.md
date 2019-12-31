@@ -1,3 +1,6 @@
+> 本文内容由[Masterkey槍管下掛式霰彈槍](https://zh.wikipedia.org/wiki/Masterkey槍管下掛式霰彈槍)转换而来。
+
+
 **Masterkey**是由****出產的槍管下掛式[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 歷史及設計

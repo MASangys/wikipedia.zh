@@ -1,3 +1,6 @@
+> 本文内容由[Tigarah](https://zh.wikipedia.org/wiki/Tigarah)转换而来。
+
+
 **Tigarah**（，出生於[日本](../Page/日本.md "wikilink")[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")），是一隊來自日本的baile funk司儀，在她們的音樂的元素中包含了grime、crunk和Baltimore club。她能以[英語和](https://zh.wikipedia.org/wiki/英語 "wikilink")[日語來表演](https://zh.wikipedia.org/wiki/日語 "wikilink")，同時也在[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[日本](../Page/日本.md "wikilink")都有為數正在增長的追隨者。她現在把時間分配在來往[洛杉磯和其家中](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。*Tigarah*這個字，按照她的解釋為「很像老虎的女生」。
 
 Tigarah從她在[慶應義塾大學](../Page/慶應義塾大學.md "wikilink")的[巴西](../Page/巴西.md "wikilink")同學中通曉baile funk，一種巴西版本的Miami Bass。主修[政治科學的她被這些音樂吸引了](https://zh.wikipedia.org/wiki/政治學 "wikilink")，所以她到訪[聖保羅和](https://zh.wikipedia.org/wiki/聖保羅 "wikilink")[里約熱內盧](https://zh.wikipedia.org/wiki/里約熱內盧 "wikilink")，學習多些有關這方面的知識，和融入巴西人的文化。留在里約熱內盧期間，她還遇上了Mr. D，一個擁有[瑞士和](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[德國血統的](https://zh.wikipedia.org/wiki/德國 "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")／製作人，他經常來往當地和洛杉磯。Mr. D現在是Tigarah的主要夥伴，他們創作了一張有8首歌的EP，現在於她的官方網站中發售。

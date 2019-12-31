@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TB\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TB\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TB\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TB\))转换而来。
 
 
   - TB 一般[工业技术](https://zh.wikipedia.org/wiki/工业 "wikilink")

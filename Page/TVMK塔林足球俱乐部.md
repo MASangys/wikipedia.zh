@@ -1,3 +1,6 @@
+> 本文内容由[TVMK塔林足球俱乐部](https://zh.wikipedia.org/wiki/TVMK塔林足球俱乐部)转换而来。
+
+
 **TVMK塔林足球俱乐部**（**FC TVMK**）是[爱沙尼亚](../Page/爱沙尼亚.md "wikilink")足球俱乐部，位于首都[塔林](../Page/塔林.md "wikilink")。俱乐部成立于[苏联](../Page/苏联.md "wikilink")时期的1951年，球队在2005年首次夺得[爱沙尼亚足球甲级联赛](../Page/爱沙尼亚足球甲级联赛.md "wikilink")冠军头衔，并且多次获得[爱沙尼亚杯的冠军](https://zh.wikipedia.org/wiki/爱沙尼亚杯 "wikilink")。球队最主要的对手是同城球队[塔林利瓦迪亚](../Page/塔林利瓦迪亚足球俱乐部.md "wikilink")，两支球队共用一个主场 - Kadrioru体育场。 俱乐部的另一个主要竞争对手是[塔林弗罗拉](https://zh.wikipedia.org/wiki/塔林弗罗拉足球俱乐部 "wikilink")。
 
 球队在2005赛季首次出战欧洲赛事，最终俱乐部在首轮资格赛中被[芬兰足球超级联赛球队](https://zh.wikipedia.org/wiki/芬兰足球超级联赛 "wikilink")[迈帕所淘汰](https://zh.wikipedia.org/wiki/迈帕 "wikilink")。

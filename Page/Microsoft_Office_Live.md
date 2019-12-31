@@ -1,4 +1,4 @@
-> 本文内容由[Microsoft Office Live](https://zh.wikipedia.org/wiki/Microsoft Office Live)转换而来。
+> 本文内容由[Microsoft Office Live](https://zh.wikipedia.org/wiki/Microsoft_Office_Live)转换而来。
 
 
 ****是一個為少於10名員工的小型業務而設基於[互聯網的軟件服務](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，於2006年2月15日開始\[1\]，為起始的一部份。2006年9月該軟件進入階段，並且只對美國居民開放。2006年後期該服務計劃延伸到數個其他的語言與國家。\[2\]

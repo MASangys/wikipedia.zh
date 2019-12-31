@@ -1,3 +1,6 @@
+> 本文内容由[Xross Scramble](https://zh.wikipedia.org/wiki/Xross_Scramble)转换而来。
+
+
 《**Xross Scramble**》，全名「**Xross Scramble ～TEAM BALDRHEAD Perfect Collection～**」、簡稱「」，是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2007年4月27日（由同年3月30日延期）發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。把人氣製作組TEAM BALDRHEAD自1999年以來的「[BALDR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#BALDR系列 "wikilink")」和「[DUEL SAVIOR系列](https://zh.wikipedia.org/wiki/戲畫_\(遊戲品牌\)#DUEL_SAVIOR系列 "wikilink")」合而為一，屬於fan disc性質的作品。
 
 ## 遊戲內容

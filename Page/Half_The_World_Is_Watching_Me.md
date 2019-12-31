@@ -1,3 +1,6 @@
+> 本文内容由[Half The World Is Watching Me](https://zh.wikipedia.org/wiki/Half_The_World_Is_Watching_Me)转换而来。
+
+
 **Half The World Is Watching Me**為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[Mew](../Page/Mew.md "wikilink")的專輯，於2000年由自創廠牌Evil Office於丹麥唱片公司Playground下，三種版本共發行約5000張。
 
 第二版與第三版的CD內頁附有團員照片。

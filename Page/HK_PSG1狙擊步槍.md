@@ -1,3 +1,6 @@
+> 本文内容由[HK PSG1狙擊步槍](https://zh.wikipedia.org/wiki/HK_PSG1狙擊步槍)转换而来。
+
+
 **PSG-1**（[德文](../Page/德语.md "wikilink")：**P**räzisions-**S**charfschützen-**G**ewehr，意為：「[精確射手步槍](../Page/精確射手步槍.md "wikilink")」），是由[黑克勒-科赫生产的一种](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[半自动](../Page/半自动步枪.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。
 
 ## 历史

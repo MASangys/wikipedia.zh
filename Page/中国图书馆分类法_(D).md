@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(D\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(D\))转换而来。
+> 本文内容由[中国图书馆分类法 \(D\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(D\))转换而来。
 
 
 ## 政治、法律

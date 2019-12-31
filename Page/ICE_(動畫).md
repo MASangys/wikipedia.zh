@@ -1,3 +1,6 @@
+> 本文内容由[ICE \(動畫\)](https://zh.wikipedia.org/wiki/ICE_\(動畫\))转换而来。
+
+
 **ICE**（）是一部[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，全3卷。
 
 ## 劇情簡介

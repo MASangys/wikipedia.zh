@@ -1,3 +1,6 @@
+> 本文内容由[Google分析](https://zh.wikipedia.org/wiki/Google分析)转换而来。
+
+
 **Google分析**（Google Analytics）是一個由[Google所提供的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[網站](../Page/網站.md "wikilink")流量[統計服務](https://zh.wikipedia.org/wiki/統計 "wikilink")。Google 分析（Analytics）现在是互联网上使用最广泛的网络分析服务。Google Analytics还提供了一个SDK，允许从iOS和Android应用程序收集使用数据，称为Google Analytics for Mobile Apps。\[1\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[KFC霍迪恩南-范瑞维恩科尔](https://zh.wikipedia.org/wiki/KFC霍迪恩南-范瑞维恩科尔)转换而来。
+
+
 **皇家霍迪恩南-范瑞维恩科尔足球俱乐部**（**Koninklijke Football Club Rhodienne-Verrewinkel**）是比利时足球俱乐部，位于[布鲁塞尔](../Page/布鲁塞尔.md "wikilink")。俱乐部创建于1894年，但是称作**竞技足球俱乐部**。1895年俱乐部称之为**布鲁塞尔竞技足球俱乐部**并成为[比利时足球协会成员](https://zh.wikipedia.org/wiki/比利时足球协会 "wikilink")。同一年参加[比利时足球甲级联赛](https://zh.wikipedia.org/wiki/比利时足球甲级联赛 "wikilink")，[第一次世界大战](../Page/第一次世界大战.md "wikilink")前球队一用6度捧起联赛冠军奖杯以及1次[比利时杯冠军](https://zh.wikipedia.org/wiki/比利时杯 "wikilink")。
 
 此后，俱乐部每况愈下，在1963年球队与[白星乌鲁威AC合并以避免自身破产](https://zh.wikipedia.org/wiki/RWD莫伦贝克 "wikilink")。新俱乐部叫作[皇家白色竞技](https://zh.wikipedia.org/wiki/RWD莫伦贝克 "wikilink")。此后俱乐部为了即保持白星乌鲁威的名义，又避免老牌球队布鲁塞尔竞技足球俱乐部被彻底抹去记忆，决定将俱乐部更名为**皇家运动圣均尼斯罗得**。

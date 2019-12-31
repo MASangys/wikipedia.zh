@@ -1,4 +1,4 @@
-> 本文内容由[機動戰士GUNDAM SEED ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM SEED ASTRAY)转换而来。
+> 本文内容由[機動戰士GUNDAM SEED ASTRAY](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED_ASTRAY)转换而来。
 
 
 **機動戰士GUNDAM SEED ASTRAY** 是[Sunrise製作的動畫](https://zh.wikipedia.org/wiki/Sunrise "wikilink")[機動戰士GUNDAM SEED的正式外傳作品](../Page/機動戰士GUNDAM_SEED.md "wikilink")。「ASTRAY」意思是異常、異端、偏離正道。

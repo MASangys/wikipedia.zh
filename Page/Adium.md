@@ -1,3 +1,6 @@
+> 本文内容由[Adium](https://zh.wikipedia.org/wiki/Adium)转换而来。
+
+
 **Adium** 是一个[Mac OS X上的多方協議](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")，以[libpurple](../Page/Pidgin.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")為基礎。Adium 由 [Cocoa](../Page/Cocoa.md "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink") 編寫，並以[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[GNU](../Page/GNU.md "wikilink")釋出。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[DeskJet](https://zh.wikipedia.org/wiki/DeskJet)转换而来。
+
+
 [HP_DeskJet_500.jpg](https://zh.wikipedia.org/wiki/File:HP_DeskJet_500.jpg "fig:HP_DeskJet_500.jpg") [Hp-deskjet-895cxi.jpg](https://zh.wikipedia.org/wiki/File:Hp-deskjet-895cxi.jpg "fig:Hp-deskjet-895cxi.jpg") **DeskJet** 是[惠普公司](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[喷墨打印机產品的](https://zh.wikipedia.org/wiki/喷墨打印机 "wikilink")[商标](../Page/商标.md "wikilink")。这些打印机包括从家用的小型打印机到專業用的大型打印机，用於大圖輸出的型号通常标为**DesignJet**。
 
 惠普公司于1979年开发出了热敏喷墨打印机的 under wear 技术，并于1984年推出了第一款 ThinkJet，1987年推出了第一款彩色 PaintJet。随后，第一款带有黑色墨盒的 DeskJet 打印机于1988年面世，其标价为 $1000，据称可以挑战[激光打印机](../Page/激光打印机.md "wikilink")的质量。当它推出的时候，是市场上最为便宜的非击打式打印机，当时大多数小型非激光打印机仍是击打式打印机，而且当时激光打印机相对来说价格昂贵。第一款彩色 DeskJet 500C 于1991年推向市场。

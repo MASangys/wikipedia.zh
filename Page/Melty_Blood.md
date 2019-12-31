@@ -1,3 +1,6 @@
+> 本文内容由[Melty Blood](https://zh.wikipedia.org/wiki/Melty_Blood)转换而来。
+
+
 [Melty-Blood_ss.jpg](https://zh.wikipedia.org/wiki/File:Melty-Blood_ss.jpg "fig:Melty-Blood_ss.jpg") 《**Melty Blood 逝血之戰**》是由[同人](https://zh.wikipedia.org/wiki/同人 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")《[月姬](../Page/月姬.md "wikilink")》改编的同人[格斗游戏系列](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，一般翻译为“月姬格斗”。原本是由[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")（《月姬》原作者）和[渡边制作所共同开发的Windows平台的PC游戏](https://zh.wikipedia.org/wiki/渡边制作所 "wikilink")，渡边制作所解散后，由新组织[フランスパン继承其版权并进行后续开发](https://zh.wikipedia.org/wiki/フランスパン "wikilink")，并由ECOLE SOFTWARE进行发行及其它平台的移植。
 
 ## 沿革

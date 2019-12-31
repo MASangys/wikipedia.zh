@@ -1,3 +1,6 @@
+> 本文内容由[北冕座R型變星](https://zh.wikipedia.org/wiki/北冕座R型變星)转换而来。
+
+
 [RYSgr_lightcurve.png](https://zh.wikipedia.org/wiki/File:RYSgr_lightcurve.png "fig:RYSgr_lightcurve.png")，顯示這種類型的經典變光行為。\]\]
 
 **北冕座R型變星**（縮寫為**RCB**）是一種[爆發型變星](https://zh.wikipedia.org/wiki/變星#爆發型變星 "wikilink")，這種[恆星的](https://zh.wikipedia.org/wiki/恆星 "wikilink")[光度](../Page/光度.md "wikilink")變化有兩種模式，一個低振幅的脈動（十分之幾星等）和一個不規則而無法預知的1-9等級的暗淡。它的原型星是英國的業餘天文學家[愛德華·皮戈特](../Page/愛德華·皮戈特.md "wikilink")在1795年發現的[北冕座R](../Page/北冕座R.md "wikilink")，他首度觀察到這顆星神秘的變暗。從此迄今，只確定了大約100顆的RCB變星\[1\]，使這種變星成為非常罕見的變星。

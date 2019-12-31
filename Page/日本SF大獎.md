@@ -1,3 +1,6 @@
+> 本文内容由[日本SF大獎](https://zh.wikipedia.org/wiki/日本SF大獎)转换而来。
+
+
 **日本SF大獎**（）是由[日本SF作家俱樂部於](https://zh.wikipedia.org/wiki/日本SF作家俱樂部 "wikilink")1980年設立的獎項，主辦者為日本SF作家俱樂部，[德間書店](../Page/德間書店.md "wikilink")支助。不論媒體或藝術的種類，只要是有關[科幻的作品](https://zh.wikipedia.org/wiki/科幻 "wikilink")，都是本獎的受獎對象，是本獎的一大特色。有許多小說、電影等專屬的大獎，但像此獎一樣將不同種類的作品放在一起評價的，卻相當罕見。
 
 ## 受賞作品

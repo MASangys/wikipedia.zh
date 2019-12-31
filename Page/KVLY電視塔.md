@@ -1,3 +1,6 @@
+> 本文内容由[KVLY電視塔](https://zh.wikipedia.org/wiki/KVLY電視塔)转换而来。
+
+
 **KVLY 電視塔**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**KVLY-TV mast**），前身為 **KTHI電視塔**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**KTHI-TV mast**）是一個在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[北達科塔州](https://zh.wikipedia.org/wiki/北達科塔州 "wikilink")[特雷尔郡的電視傳送塔](https://zh.wikipedia.org/wiki/特雷尔县_\(北达科他州\) "wikilink")，使用[北達科塔州](https://zh.wikipedia.org/wiki/北達科塔州 "wikilink")[法戈](../Page/法戈_\(北达科他州\).md "wikilink")[KVLY第](https://zh.wikipedia.org/wiki/KVLY-TV "wikilink") 11 號頻道。電視塔高 628.8 米，曾是全世界由地面上算起最高的人造建構物（1963年－1974年，1991年－2008年），塔中有[升降機可以直達塔尖](https://zh.wikipedia.org/wiki/升降機 "wikilink")。
 
 ## 簡介

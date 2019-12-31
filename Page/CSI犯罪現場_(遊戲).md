@@ -1,3 +1,6 @@
+> 本文内容由[CSI犯罪現場 \(遊戲\)](https://zh.wikipedia.org/wiki/CSI犯罪現場_\(遊戲\))转换而来。
+
+
 《**CSI犯罪現場**》（*CSI: Crime Scene Investigation*）是一套基於電視劇《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。該遊戲由[369 Interactive開發](https://zh.wikipedia.org/wiki/369_Interactive "wikilink")，[Ubisoft發行](https://zh.wikipedia.org/wiki/Ubisoft "wikilink")，[PC](../Page/PC.md "wikilink")平台，2003年發表，並由[Aspyr於](https://zh.wikipedia.org/wiki/Aspyr "wikilink")[Mac上發行](https://zh.wikipedia.org/wiki/Mac "wikilink")。
 
 这款遊戲與《[CSI犯罪現場：黑暗動機](../Page/CSI犯罪現場：黑暗動機.md "wikilink")》、《[CSI犯罪現場：謀殺的三維](../Page/CSI犯罪現場：謀殺的三維.md "wikilink")》及《[CSI犯罪現場：邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場：邁阿密\(遊戲\) "wikilink")》一樣，跟隨五個佈局截然不同的案件，然後在第五個案件中連接之前的四個案件。

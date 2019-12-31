@@ -1,4 +1,4 @@
-> 本文内容由[AMD K6-2](https://zh.wikipedia.org/wiki/AMD K6-2)转换而来。
+> 本文内容由[AMD K6-2](https://zh.wikipedia.org/wiki/AMD_K6-2)转换而来。
 
 
 [AMD_K6-II_Processor_Logo.png](https://zh.wikipedia.org/wiki/File:AMD_K6-II_Processor_Logo.png "fig:AMD_K6-II_Processor_Logo.png") **K6-2**是一個由AMD製造的[x86處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，也是AMD整个奔腾时期最成功的一个处理器序列。K6-2可以在200至550 MHz的時鐘速度運行。它有64Kb一級緩存（32KB指令集和32KB資料），在2.2[伏特](../Page/伏特.md "wikilink")的電壓下運行。使用[0.25微米製程](https://zh.wikipedia.org/wiki/0.25微米製程 "wikilink")，擁有930萬個[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")，以及只能使用於處理器插座是[Socket 7或](../Page/Socket_7.md "wikilink")[Super Socket 7的主機版](../Page/Super_Socket_7.md "wikilink")。

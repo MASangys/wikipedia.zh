@@ -1,4 +1,4 @@
-> 本文内容由[AMD FireStream](https://zh.wikipedia.org/wiki/AMD FireStream)转换而来。
+> 本文内容由[AMD FireStream](https://zh.wikipedia.org/wiki/AMD_FireStream)转换而来。
 
 
 **FireStream**是[ATi研發的一个流处理器系列](https://zh.wikipedia.org/wiki/ATi "wikilink")，在AMD收購ATI後改為 Firepro S 系列，建基于Radeon图形显示芯片，提供高性能计算能力。FireStream产品中的显核不是用來作3D加速用途，而是利用显核内置的强大像素处理器變成一群并行处理器，作为浮点运算协处理器，协助中央处理器计算复杂的浮点运算程序，例如複雜的科学運算。

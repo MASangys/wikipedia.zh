@@ -1,3 +1,6 @@
+> 本文内容由[SystemC](https://zh.wikipedia.org/wiki/SystemC)转换而来。
+
+
 [Open_SystemC_Logo.gif](https://zh.wikipedia.org/wiki/File:Open_SystemC_Logo.gif "fig:Open_SystemC_Logo.gif")
 
 **SystemC**是一种基于[C++语言的用于](https://zh.wikipedia.org/wiki/C++语言 "wikilink")[系统](https://zh.wikipedia.org/wiki/系统 "wikilink")[设计的](https://zh.wikipedia.org/wiki/设计 "wikilink")[计算机语言](https://zh.wikipedia.org/wiki/计算机语言 "wikilink")，是用C++编写的一组[库和](../Page/函式庫.md "wikilink")[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")。它是为了提高电子系统设计效率而逐渐发展起来的产物。IEEE于2005年12月批准了IEEE1666-2005标准。

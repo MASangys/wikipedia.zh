@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office 2007](https://zh.wikipedia.org/wiki/Microsoft_Office_2007)转换而来。
+
+
 **2007 Microsoft Office System**，或稱作**Microsoft Office 2007**，是[微軟公司針對](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[Windows Vista](../Page/Windows_Vista.md "wikilink")[作業系統所開發的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[辦公軟件套裝](https://zh.wikipedia.org/wiki/辦公軟件套裝 "wikilink")。在測試週期最初的階段曾被稱為**Office 12**，它被計劃在2006年11月30日交付批量授權客戶\[1\]，並定於2007年1月30日與[Windows Vista一同正式向零售用戶公開發售](../Page/Windows_Vista.md "wikilink")。Office 2007許多重要的新特性，其中最值得注意的就是其全新的被稱為[Ribbon](../Page/Ribbon.md "wikilink")的[圖形用戶界面](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")，取代了Office最初的菜单和工具条的接口。
 
 Office 2007還包括了新的應用程序和伺服器端工具。其中最主要的是[Groove](https://zh.wikipedia.org/wiki/Microsoft_Office_Groove "wikilink")，一個適用於小型企業的協作和通訊套裝。Groove原本由[Groove Networks開發](https://zh.wikipedia.org/wiki/Groove_Networks "wikilink")，後來在2005年被微軟收購。另外，也包含了Office Sharepoint Server 2007，一個Office應用程序伺服器平台的主要修訂版，提供「Excel Services」，用來支持在多台機器上實時共享Excel工作表，並可在網頁上查看和編輯的客戶-伺服器架構。雖然Office 2007包含許多新的特性，但[Microsoft FrontPage被完全移除](../Page/Microsoft_FrontPage.md "wikilink")，不再開發，將由[Microsoft Office SharePoint Designer和](https://zh.wikipedia.org/wiki/Microsoft_Office_SharePoint_Designer "wikilink")[Microsoft Expression Web取代](https://zh.wikipedia.org/wiki/Microsoft_Expression_Studio#應用程式 "wikilink")。

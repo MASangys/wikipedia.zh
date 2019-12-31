@@ -1,4 +1,4 @@
-> 本文内容由[Windows Fundamentals for Legacy PCs](https://zh.wikipedia.org/wiki/Windows Fundamentals for Legacy PCs)转换而来。
+> 本文内容由[Windows Fundamentals for Legacy PCs](https://zh.wikipedia.org/wiki/Windows_Fundamentals_for_Legacy_PCs)转换而来。
 
 
 **Windows Fundamentals for Legacy PCs**（WinFLP）是[微软](../Page/微软.md "wikilink")公司於2006年7月8日發表的[精簡客戶端](https://zh.wikipedia.org/wiki/精簡客戶端 "wikilink")（Thin client）版本Windows XP。它在2005年中開發時用了**Eiger**和**Mönch** 這兩個開發代號。

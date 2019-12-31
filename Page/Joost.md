@@ -1,3 +1,6 @@
+> 本文内容由[Joost](https://zh.wikipedia.org/wiki/Joost)转换而来。
+
+
 **Joost**（与'juiced'[果汁谐音](https://zh.wikipedia.org/wiki/果汁 "wikilink")）是一个交互式軟體共享电视节目和其他形式的視訊在网上使用点对点电视技术，出自 [KaZaA](https://zh.wikipedia.org/wiki/KaZaA "wikilink")、[Skype](../Page/Skype.md "wikilink") 开发人员之手，自从问世以来就引来无数关注。
 
 出售公司获得巨额资金回报之后，[Skype](../Page/Skype.md "wikilink")公司的创始人弗里斯和曾斯特姆拿出部分资金投资到名为“威尼斯工程”的[網路电视服务](https://zh.wikipedia.org/wiki/網路电视 "wikilink")。公司高層過去一直以代號"The Venice Project."（威尼斯計畫）稱呼這家新公司，2007年1月16日，公布正式名称为"joost"會選擇Joost是因為喜歡這個字的發音，在丹麥文中沒有任何意義。

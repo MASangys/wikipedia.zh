@@ -1,4 +1,4 @@
-> 本文内容由[中国图书馆分类法 \(TQ5\)](https://zh.wikipedia.org/wiki/中国图书馆分类法 \(TQ5\))转换而来。
+> 本文内容由[中国图书馆分类法 \(TQ5\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(TQ5\))转换而来。
 
 
 ::\*TQ51 [燃料化学工业](https://zh.wikipedia.org/wiki/燃料化学工业 "wikilink")（总论）

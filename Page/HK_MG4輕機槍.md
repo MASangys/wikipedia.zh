@@ -1,3 +1,6 @@
+> 本文内容由[HK MG4輕機槍](https://zh.wikipedia.org/wiki/HK_MG4輕機槍)转换而来。
+
+
 **MG4**（**MG43**）是由[黑克勒-科赫設計及生產的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[彈鏈](../Page/彈鏈.md "wikilink")供彈[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，裝備[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：）以取代[MG3通用機槍](../Page/MG3通用機槍.md "wikilink")。
 
 ## 設計

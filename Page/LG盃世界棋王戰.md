@@ -1,3 +1,6 @@
+> 本文内容由[LG盃世界棋王戰](https://zh.wikipedia.org/wiki/LG盃世界棋王戰)转换而来。
+
+
 **LG盃世界棋王戰**，簡稱**LG盃**，是[圍棋主要國際賽事之一](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。
 
 前身為[韓國國內賽事](https://zh.wikipedia.org/wiki/韓國 "wikilink")[韓國圍棋棋王戰](https://zh.wikipedia.org/wiki/韓國圍棋棋王戰 "wikilink")，《[朝鮮日報](../Page/朝鮮日報.md "wikilink")》主辦，[LG集團贊助](https://zh.wikipedia.org/wiki/LG集團 "wikilink")。

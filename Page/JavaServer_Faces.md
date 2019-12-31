@@ -1,3 +1,6 @@
+> 本文内容由[JavaServer Faces](https://zh.wikipedia.org/wiki/JavaServer_Faces)转换而来。
+
+
 **JavaServer Faces**（**JSF**）是一个为[网络应用程序](../Page/网络应用程序.md "wikilink")构建[基于组件的](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")[用户界面](../Page/用户界面.md "wikilink")的[Java](../Page/Java.md "wikilink")规范\[1\]，并已通过[JCP](../Page/JCP.md "wikilink")格式化为[Java EE的一部分](https://zh.wikipedia.org/wiki/Java_EE "wikilink")。它也是一个[MVC](../Page/MVC.md "wikilink") [Web应用框架](../Page/Web应用框架.md "wikilink")，通过在页面中使用可重用的UI组件简化了基于服务器的应用程序的[用户界面](../Page/用户界面.md "wikilink")（UI）。\[2\]
 
 ## 版本

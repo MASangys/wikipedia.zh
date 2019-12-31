@@ -1,3 +1,6 @@
+> 本文内容由[Human我生](https://zh.wikipedia.org/wiki/Human我生)转换而来。
+
+
 《**Human我生**》是[香港](../Page/香港.md "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[古巨基](../Page/古巨基.md "wikilink")的個人[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2006年8月發行。
 
 ## 專輯簡介

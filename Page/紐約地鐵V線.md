@@ -1,3 +1,6 @@
+> 本文内容由[紐約地鐵V線](https://zh.wikipedia.org/wiki/紐約地鐵V線)转换而来。
+
+
 **V線第六大道慢車**（），又稱**紐約地鐵V線**，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的[地鐵](../Page/地鐵.md "wikilink")路線。由於該線在[曼哈頓](../Page/曼哈頓.md "wikilink")使用[IND第六大道線](../Page/IND第六大道線.md "wikilink")，因此其路線徽號為橙色。V線在2001年12月17日開行，作為[IND 63街線開通後](https://zh.wikipedia.org/wiki/IND_63街線 "wikilink")[F線的替代品](../Page/紐約地鐵F線.md "wikilink")。F線改道了這個新連接線到[IND 53街線](../Page/IND皇后林蔭路線.md "wikilink")。
 
 V線在2010年6月25日取消以節省金錢。此線完全以[M線取代](../Page/紐約地鐵M線.md "wikilink")，由[曼哈頓下城與](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")改道途經。除了2005年初一段短時間，V線在8年半歷史中一直使用同一個營運模式。V線只在平日早上6時半營運至午夜，來往[森林小丘](../Page/森林小丘.md "wikilink")的[71大道與](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")[第二大道](https://zh.wikipedia.org/wiki/第二大道車站_\(IND第六大道線\) "wikilink")，鄰近[東村和](https://zh.wikipedia.org/wiki/東村_\(曼哈頓\) "wikilink")[下東城的邊界](https://zh.wikipedia.org/wiki/下東城 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[樂高Mindstorms RCX](https://zh.wikipedia.org/wiki/樂高Mindstorms_RCX)转换而来。
+
+
 **RCX**是[乐高RCX系列](https://zh.wikipedia.org/wiki/乐高 "wikilink")[机器人](../Page/机器人.md "wikilink")的控制核心，是一个[可编程控制器](https://zh.wikipedia.org/wiki/可编程控制器 "wikilink")，[MindStorms系统的一个组件](https://zh.wikipedia.org/wiki/MindStorms "wikilink")。 RCX有三个版本，分别为：1.0、1.5、2.0
 
 ## 面板

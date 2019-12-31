@@ -1,3 +1,6 @@
+> 本文内容由[電車GO! 新幹線EX 山陽新幹線](https://zh.wikipedia.org/wiki/電車GO!_新幹線EX_山陽新幹線)转换而来。
+
+
 **電車でGO\! 新幹線EX 山陽新幹線編**（前名：電車でGO\! 新幹線06 山陽新幹線編）是[Taito公司](../Page/太東.md "wikilink")，在2007年3月1日於[Wii](../Page/Wii.md "wikilink")平台上推出的遊戲。
 
 ## 遊戲規則

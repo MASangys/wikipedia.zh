@@ -1,3 +1,6 @@
+> 本文内容由[KISS Radio](https://zh.wikipedia.org/wiki/KISS_Radio)转换而来。
+
+
 **KISS Radio**是以[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[高雄市](../Page/高雄市.md "wikilink")為基地的地區電台，定頻為99.9兆赫，台呼分為「就是KISS最音樂」、「擋不住的魅力」兩種。「KISS」為[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「**K**aohsiung **I**nteractive **S**uper **S**tation」縮寫，早期KISS Radio於高雄市部分[7-ELEVEN便利商店門市內播放](../Page/統一超商.md "wikilink")（2011年起已停止播放）。
 
 ## 介紹

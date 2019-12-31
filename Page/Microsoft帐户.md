@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft帐户](https://zh.wikipedia.org/wiki/Microsoft帐户)转换而来。
+
+
 **Microsoft Account**（前稱為**Windows Live ID**、**Microsoft Passport Network**與**.NET Passport**）是一個由[微軟開發與提供的](https://zh.wikipedia.org/wiki/微軟 "wikilink")“統一登入”服務，允許使用者使用一個帳號登入許多網站。原來的定位為所有網絡商貿的[單一登入](../Page/單一登入.md "wikilink")服務。
 
 ## 產品概要

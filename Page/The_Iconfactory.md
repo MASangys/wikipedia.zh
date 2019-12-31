@@ -1,3 +1,6 @@
+> 本文内容由[The Iconfactory](https://zh.wikipedia.org/wiki/The_Iconfactory)转换而来。
+
+
 **The Iconfactory**是一家小型[軟體與圖像設計公司](https://zh.wikipedia.org/wiki/軟體 "wikilink")，專於製作[圖標與用來製作及使用圖標的軟體](https://zh.wikipedia.org/wiki/圖標 "wikilink")。The Iconfactory由Corey Marion、Talos Tsui與Gedeon Maheux於1996年4月創立，首席工程師Craig Hockenberry與藝術家Dave Brasgalla分別於1997年及1999年1月加入，並於2000年1月組成公司。The Iconfactory透過提供免費下載的圖標套裝作品而獲得知名度，並迅速地發展為商業圖標設計的領導公司之一。The Iconfactory亦有發行製作、組織與使用圖標的軟體以及一般的圖形用戶界面應用程式。
 
 由1997年起至2004年為止The Iconfactory每年會舉行一個名為Pixelpalooza的[麥金塔](../Page/麥金塔.md "wikilink")圖標設計比賽，讓全球熱心的藝術家設計與製作原創的圖標作品來贏取軟體或硬體的獎品。Pixelpalooza於2005年中止，但The Iconfactory表示仍有再次舉辦的可能。

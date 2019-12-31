@@ -1,3 +1,6 @@
+> 本文内容由[MBF-02 Strike Rouge](https://zh.wikipedia.org/wiki/MBF-02_Strike_Rouge)转换而来。
+
+
 **MBF-02 Strike Rouge 嫣紅攻擊鋼彈**為日本機械科幻動畫作品[機動戰士GUNDAM SEED與](../Page/機動戰士GUNDAM_SEED.md "wikilink")[機動戰士GUNDAM SEED DESTINY中虛構的有人式人型機器兵器](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（[MS](https://zh.wikipedia.org/wiki/MS "wikilink")），駕駛員為[卡佳里·尤拉·阿斯哈](../Page/卡嘉莉·尤拉·阿斯哈.md "wikilink")。機體名「Rouge」為法語的「赤色」之意，機體設計為[大河原邦男](../Page/大河原邦男.md "wikilink")。 [Mbf-02.jpg](https://zh.wikipedia.org/wiki/File:Mbf-02.jpg "fig:Mbf-02.jpg")
 
 ## 開發經過

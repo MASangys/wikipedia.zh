@@ -1,3 +1,6 @@
+> 本文内容由[神州號NZJ2型柴油動車組](https://zh.wikipedia.org/wiki/神州號NZJ2型柴油動車組)转换而来。
+
+
 **NZJ2型“神州號”柴油動車組**是[中國鐵路的準高速](https://zh.wikipedia.org/wiki/中國鐵路 "wikilink")[柴油動車組車款之一](https://zh.wikipedia.org/wiki/柴油動車組 "wikilink")，屬於[動力集中式](https://zh.wikipedia.org/wiki/動力集中式 "wikilink")，採用推拉式設計。由于车头外形和涂装的特点，神州号又被戏称为“大白猫”，后一端改用DF4D牵引，这样又被车迷戏称为“虎头猫”。
 
 ## 发展历史

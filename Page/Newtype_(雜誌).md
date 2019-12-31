@@ -1,4 +1,4 @@
-> 本文内容由[Newtype \(雜誌\)](https://zh.wikipedia.org/wiki/Newtype \(雜誌\))转换而来。
+> 本文内容由[Newtype \(雜誌\)](https://zh.wikipedia.org/wiki/Newtype_\(雜誌\))转换而来。
 
 
 [日語版Newtype

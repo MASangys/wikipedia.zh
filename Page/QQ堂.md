@@ -1,3 +1,6 @@
+> 本文内容由[QQ堂](https://zh.wikipedia.org/wiki/QQ堂)转换而来。
+
+
 《**QQ堂**》是由[腾讯](../Page/腾讯.md "wikilink")公司开发和运营的休闲[网络游戏](../Page/网络游戏.md "wikilink")，与[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司开发的[泡泡堂极之相似](https://zh.wikipedia.org/wiki/泡泡堂 "wikilink")。玩家必须用[QQ账号登陆](https://zh.wikipedia.org/wiki/QQ "wikilink")《QQ堂》游戏。由于[腾讯](../Page/腾讯.md "wikilink")很大的市场占有率及其与《QQ堂》的关系，有很多泡泡堂玩家都转向了腾讯《QQ堂》。《QQ堂》与泡泡堂最大的区别在于泡泡爆炸后所炸到地方的停留时间只有泡泡堂的一半。
 
 ## 玩法

@@ -1,4 +1,4 @@
-> 本文内容由[Socket 478](https://zh.wikipedia.org/wiki/Socket 478)转换而来。
+> 本文内容由[Socket 478](https://zh.wikipedia.org/wiki/Socket_478)转换而来。
 
 
 **Socket 478**是英特爾[Pentium 4](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，[Celeron及部份](https://zh.wikipedia.org/wiki/Celeron "wikilink")[Celeron D處理器使用的插座](https://zh.wikipedia.org/wiki/Celeron#Celeron_D "wikilink")。[LGA775於](https://zh.wikipedia.org/wiki/LGA775 "wikilink")2004年7月推出後逐漸取代Socket 478。

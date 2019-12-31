@@ -1,3 +1,6 @@
+> 本文内容由[TeenPower](https://zh.wikipedia.org/wiki/TeenPower)转换而来。
+
+
 **Teen Power**，簡稱TP，是[香港電台](../Page/香港電台.md "wikilink")屬下之青年[網上電台](https://zh.wikipedia.org/wiki/網上電台 "wikilink")，於2004年2月28日正式啟播。TP的節目工作人員，無論是策劃、製作還是主持節目，都是年青人，因此節目內容非常切合青年。製作的節目著重互動，部份節目設有Facebook。
 
 2013年4月，[香港電台第二台](../Page/香港電台第二台.md "wikilink")與TeenPower同時進行節目革新，重組節目時段。TP更不時主辦或協辦不同類型公眾活動，與網友接觸。

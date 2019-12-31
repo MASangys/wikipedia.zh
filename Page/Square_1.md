@@ -1,4 +1,4 @@
-> 本文内容由[Square 1](https://zh.wikipedia.org/wiki/Square 1)转换而来。
+> 本文内容由[Square 1](https://zh.wikipedia.org/wiki/Square_1)转换而来。
 
 
 [Square-1_solved.jpg](https://zh.wikipedia.org/wiki/File:Square-1_solved.jpg "fig:Square-1_solved.jpg") [Square-1_core.png](https://zh.wikipedia.org/wiki/File:Square-1_core.png "fig:Square-1_core.png") [Square-1_edge.png](https://zh.wikipedia.org/wiki/File:Square-1_edge.png "fig:Square-1_edge.png") [Square-1_corner.png](https://zh.wikipedia.org/wiki/File:Square-1_corner.png "fig:Square-1_corner.png") **Square 1**，原称**Back to Square One**，是[鲁比克](https://zh.wikipedia.org/wiki/厄尔诺·鲁比克 "wikilink")[扭計骰系列之一](../Page/魔方.md "wikilink")，是由Karel Hrsel和Vojtech Kopsky在1992年共同发明的。它与其他魔方很大的不同点就是在转动的时候会改变形状，这也是它拥有非凡难度和魅力的原因之一。目前最快的還原紀錄是4.95秒單次、6.73秒平均\[1\]。

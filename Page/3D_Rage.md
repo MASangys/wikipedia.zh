@@ -1,4 +1,4 @@
-> 本文内容由[3D Rage](https://zh.wikipedia.org/wiki/3D Rage)转换而来。
+> 本文内容由[3D Rage](https://zh.wikipedia.org/wiki/3D_Rage)转换而来。
 
 
 **3D Rage**是一个顯示卡系列，由[ATI推出](https://zh.wikipedia.org/wiki/ATI "wikilink")，在1996年1月正式发布。第一款Rage系列显卡是3D Rage (I)，但兼容度差，所以一般人都認為3D Rage II+DVD才是ATI第一款真正的3D图形处理器。它支持硬件[Z-缓冲](https://zh.wikipedia.org/wiki/Z-缓冲 "wikilink")、纹理压缩、线性过滤和纹理混合，像素填充率是10M Pixels/s。与之前的3D Rage和3D Rage II不同，3D Rage II+DVD支援硬件动态补偿。硬件动态补偿可以協助CPU播放DVD。

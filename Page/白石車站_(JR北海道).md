@@ -1,3 +1,6 @@
+> 本文内容由[白石車站 \(JR北海道\)](https://zh.wikipedia.org/wiki/白石車站_\(JR北海道\))转换而来。
+
+
 **白石車站**（）是一個位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")[白石區](../Page/白石區.md "wikilink")境內的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")（實際地址為平和通3丁目北6），隸屬於[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道），是北海道地區兩條[幹線鐵路](https://zh.wikipedia.org/wiki/幹線鐵路_\(日本\) "wikilink")[函館本線](../Page/函館本線.md "wikilink")與[千歲線](../Page/千歲線.md "wikilink")的交會車站。
 
 ## 車站構造

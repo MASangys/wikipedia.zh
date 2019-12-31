@@ -1,4 +1,4 @@
-> 本文内容由[All your base are belong to us](https://zh.wikipedia.org/wiki/All your base are belong to us)转换而来。
+> 本文内容由[All your base are belong to us](https://zh.wikipedia.org/wiki/All_your_base_are_belong_to_us)转换而来。
 
 
 「**All your base are belong to us**」（簡稱**AYBABTU**、**All your base**或**AYB**'）是一句文法有誤的英語句子（[Engrish](../Page/Engrish.md "wikilink")），經過[互聯網傳播致使廣泛流傳](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，並成為了一個[網絡迷因](https://zh.wikipedia.org/wiki/網絡迷因 "wikilink")。此句文法錯誤的英文被視為西方[網絡爆紅現象的經典例子](https://zh.wikipedia.org/wiki/網絡爆紅列表 "wikilink")。

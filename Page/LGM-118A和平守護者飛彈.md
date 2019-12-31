@@ -1,3 +1,6 @@
+> 本文内容由[LGM-118A和平守護者飛彈](https://zh.wikipedia.org/wiki/LGM-118A和平守護者飛彈)转换而来。
+
+
 **LGM-118A維和者**（Peacekeeper）（又譯**和平衛士**）是[美國在](https://zh.wikipedia.org/wiki/美國 "wikilink")1986年開始佈署的一種陸基[洲際彈道飛彈](../Page/洲際彈道飛彈.md "wikilink")（ICBM），命中誤差[CEP](https://zh.wikipedia.org/wiki/圓形公算誤差 "wikilink")90公尺內；此飛彈在從未正式生效的第二階段戰略武器裁減條約（START II）的協定下應於2005年自美國核武庫中移除，使[義勇兵3洲際彈道導彈成為美軍火庫中唯一的陸基ICBM](../Page/LGM-30義勇兵洲際彈道飛彈.md "wikilink")，不過雖然START II中途夭折，最後一枚維和者仍在2005年9月19日除役。
 
 維和者是一種[多目標重返大氣層載具飛彈](https://zh.wikipedia.org/wiki/多目標重返大氣層載具 "wikilink")，每一枚火箭可以攜帶10個裝有300kt[W87](https://zh.wikipedia.org/wiki/W87 "wikilink")[核彈頭的MK](../Page/核武器.md "wikilink")-21重返載具（[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")[廣島核彈](https://zh.wikipedia.org/wiki/廣島 "wikilink")25倍的威力）。

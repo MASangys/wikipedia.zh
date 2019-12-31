@@ -1,3 +1,6 @@
+> 本文内容由[Nakayoshi](https://zh.wikipedia.org/wiki/Nakayoshi)转换而来。
+
+
 《**Nakayoshi**》（）是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1954年12月創刊（1955年1月號）。《Nakayoshi》是日本三大少女漫畫雜誌之一。主要競爭對手是[集英社](../Page/集英社.md "wikilink")的《[Ribon](../Page/Ribon.md "wikilink")》和[小學館](../Page/小學館.md "wikilink")的《[Ciao](../Page/Ciao.md "wikilink")》。該雜誌的名字在[日語中意為](https://zh.wikipedia.org/wiki/日語 "wikilink")「**好朋友**」。
 
 《Nakayoshi》的讀者對象和《Ribon》相似，即[小學中學年至](https://zh.wikipedia.org/wiki/小學 "wikilink")[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")3年的少女，另外也不乏[高中以上的讀者](../Page/高級中學.md "wikilink")（以[漫畫愛好者居多](https://zh.wikipedia.org/wiki/漫畫 "wikilink")）。

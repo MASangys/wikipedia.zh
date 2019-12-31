@@ -1,4 +1,4 @@
-> 本文内容由[攻壳机动队 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻壳机动队 S.A.C. 2nd GIG)转换而来。
+> 本文内容由[攻壳机动队 S.A.C. 2nd GIG](https://zh.wikipedia.org/wiki/攻壳机动队_S.A.C._2nd_GIG)转换而来。
 
 
 《**攻壳机动队 S.A.C. 2nd GIG**》（）是根據[士郎正宗](../Page/士郎正宗.md "wikilink")原作漫畫改編的電視動畫（第二季）。2004年1月1日於日本SKY電視播映。每集制作费高达3000万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")。故事内容延續第一季《[攻殼機動隊 STAND ALONE COMPLEX](../Page/攻殼機動隊_STAND_ALONE_COMPLEX.md "wikilink")》的劇情發展。但TV版的2部作品與剧场版没有什么联系，可以看做是兩个平行世界裡发生的事情。

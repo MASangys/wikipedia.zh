@@ -1,3 +1,6 @@
+> 本文内容由[PONY CANYON STYLE MARUNABI！？](https://zh.wikipedia.org/wiki/PONY_CANYON_STYLE_MARUNABI！？)转换而来。
+
+
 **PONY CANYON STYLE MARUNABI！？**（2005年1月18日前是**PONY CANYON STYLE MARUNABI？**）是[株式會社文化放送於](https://zh.wikipedia.org/wiki/株式會社文化放送 "wikilink")2004年9月28日至2007年9月25日所播放的[廣播節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，全157回。把[波麗佳音所制作的關連](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[動畫完整地](https://zh.wikipedia.org/wiki/動畫 "wikilink")（）傳送（）出去。主持節目的是[聲優](../Page/聲優.md "wikilink")[能登麻美子](../Page/能登麻美子.md "wikilink")和[川澄綾子](../Page/川澄綾子.md "wikilink")（在「MARUNABI？」時則是能登單獨一人）。在2004年10月至2006年3月，本有[BSQR489播放附靜態映像的版本](https://zh.wikipedia.org/wiki/BSQR489 "wikilink")，但現在BSQR489已成歷史。
 
 ## 播放時間

@@ -1,3 +1,6 @@
+> 本文内容由[Union Square](https://zh.wikipedia.org/wiki/Union_Square)转换而来。
+
+
 [Union_Square_Overview_201008.jpg](https://zh.wikipedia.org/wiki/File:Union_Square_Overview_201008.jpg "fig:Union_Square_Overview_201008.jpg")上蓋的Union Square\]\] [Union_square.svg](https://zh.wikipedia.org/wiki/File:Union_square.svg "fig:Union_square.svg") [Union_SquarePlaza_20070922.jpg](https://zh.wikipedia.org/wiki/File:Union_SquarePlaza_20070922.jpg "fig:Union_SquarePlaza_20070922.jpg") [UnionSqaureview1_20070922.jpg](https://zh.wikipedia.org/wiki/File:UnionSqaureview1_20070922.jpg "fig:UnionSqaureview1_20070922.jpg")
 
 **Union Square**位於[香港](../Page/香港.md "wikilink")[西九龍](../Page/西九龍.md "wikilink")[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")1號[港鐵](../Page/港鐵.md "wikilink")[九龍站上蓋](../Page/九龍站_\(港鐵\).md "wikilink")，佔地13.54[公頃](https://zh.wikipedia.org/wiki/公頃 "wikilink")，分別被[佐敦道](../Page/佐敦道.md "wikilink")、[連翔道](../Page/連翔道.md "wikilink")、[柯士甸道西及](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")[雅翔道](https://zh.wikipedia.org/wiki/雅翔道 "wikilink")4條道路包圍。Union Square為港鐵九龍站一個綜合商住發展計劃，由[港鐵公司聯同](https://zh.wikipedia.org/wiki/港鐵公司 "wikilink")[九龍倉集團](../Page/九龍倉集團.md "wikilink")有限公司、[恒隆地產](../Page/恒隆地產.md "wikilink")有限公司、[永泰控股有限公司及](https://zh.wikipedia.org/wiki/永泰控股 "wikilink")[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展有限公司合作發展。

@@ -1,3 +1,6 @@
+> 本文内容由[佳能EF接環鏡頭](https://zh.wikipedia.org/wiki/佳能EF接環鏡頭)转换而来。
+
+
 [Canon_EF_Zoom_Lenses.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_Zoom_Lenses.jpg "fig:Canon_EF_Zoom_Lenses.jpg") [Canon_EF_lens_mount.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF_lens_mount.jpg "fig:Canon_EF_lens_mount.jpg")
 
 **佳能EF接环镜头**指具有电子对焦（）功能，即机身自动对焦系统指挥镜头内置的马达带动镜头对焦，并与佳能EF接环相对应的镜头。

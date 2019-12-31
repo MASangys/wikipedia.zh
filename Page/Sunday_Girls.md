@@ -1,4 +1,4 @@
-> 本文内容由[Sunday Girls](https://zh.wikipedia.org/wiki/Sunday Girls)转换而来。
+> 本文内容由[Sunday Girls](https://zh.wikipedia.org/wiki/Sunday_Girls)转换而来。
 
 
 **Sunday Girls**是由[佐藤麻衣](../Page/佐藤麻衣.md "wikilink")、[五島千佳](https://zh.wikipedia.org/wiki/五島千佳 "wikilink")、[千田愛紗](../Page/千田愛紗.md "wikilink")、[高垣朋子四名成員所組成的女子偶像團體](https://zh.wikipedia.org/wiki/高垣朋子 "wikilink")。

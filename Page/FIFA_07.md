@@ -1,3 +1,6 @@
+> 本文内容由[FIFA 07](https://zh.wikipedia.org/wiki/FIFA_07)转换而来。
+
+
 **FIFA 07**（也叫做**FIFA Soccer 07** 和 **FIFA Football 07**）是[美商藝电的](https://zh.wikipedia.org/wiki/美商藝电 "wikilink")[足球](../Page/足球.md "wikilink")遊戏，由美商藝电加拿大分支开发，美商藝电发行。遊戏於2006年9月27日在[欧洲](../Page/欧洲.md "wikilink")发行，而[美国](../Page/美国.md "wikilink")则於10月3日同时发行电脑版、[GameCube版](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[GBA版](../Page/Game_Boy_Advance.md "wikilink")、[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")、[NDS版和](https://zh.wikipedia.org/wiki/NDS "wikilink")[XBox版](https://zh.wikipedia.org/wiki/XBox "wikilink")。而[Xbox 360版则於](../Page/Xbox_360.md "wikilink")10月27日在欧洲发行，而到11月3日则於美国发行。在未来的12个月，XB360版将会独家率先採用次世代的图像和物理处理引擎。而遊戏的标题是「这就是球季」（This is the season）。
 
 FIFA 07是[FIFA系列](../Page/FIFA系列.md "wikilink")的第14只作品，也是第11只採用[3D画面的作品](https://zh.wikipedia.org/wiki/3D "wikilink")。

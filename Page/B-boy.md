@@ -1,3 +1,6 @@
+> 本文内容由[B-boy](https://zh.wikipedia.org/wiki/B-boy)转换而来。
+
+
 **B-boy**是英文中「**beat boy**」的簡稱，指非常熱衷於[嘻哈](../Page/嘻哈.md "wikilink")文化的愛好者，主要是跟隨1970年代前期最初的嘻哈文化運動之人。B-boy能夠利用節奏和肢體動作，來表達自己的感受或想法。這些具有特色風格的行為，通常被稱為「[霹靂舞](https://zh.wikipedia.org/wiki/霹靂舞 "wikilink")」（breaking、breakdancing）。B-boy通常也是霹靂舞者。Beat有时叫做节奏，原来自黑人音乐和福音，后Rap和Hip-hop与它有很深的渊源。 2019年，breaking正式加入奧運正式比賽項目。
 
 ## 字詞來源

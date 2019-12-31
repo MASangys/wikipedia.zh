@@ -1,3 +1,6 @@
+> 本文内容由[Real Alternative](https://zh.wikipedia.org/wiki/Real_Alternative)转换而来。
+
+
 **Real Alternative**是一個用於[Microsoft Windows作業系統播放](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[RealMedia檔案而不需安裝](https://zh.wikipedia.org/wiki/RealMedia "wikilink")[RealPlayer](../Page/RealPlayer.md "wikilink")的[編解碼器安裝包](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")。該編解碼器可用於任何可使用[DirectShow](../Page/DirectShow.md "wikilink")的媒體播放器，如包含在安裝包內的[Media Player Classic](../Page/Media_Player_Classic.md "wikilink")。該安裝包由[KL Software設計](https://zh.wikipedia.org/wiki/KL_Software "wikilink")，使用了開源視訊濾光器[Real Media Splitter及RealMedia](https://zh.wikipedia.org/wiki/Real_Media_Splitter "wikilink")[視訊编解码器](https://zh.wikipedia.org/wiki/視訊编解码器 "wikilink")。
 
 Real Alternative與許多免費的編解碼器安裝包同梱。有些人較喜歡使用Real Alternative，因RealPlayer令用戶感到不滿\[1\]。

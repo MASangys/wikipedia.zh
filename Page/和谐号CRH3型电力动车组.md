@@ -1,3 +1,6 @@
+> 本文内容由[和谐号CRH3型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH3型电力动车组)转换而来。
+
+
 **和谐号CRH3型电力动车组**，是[中华人民共和国铁道部](../Page/中华人民共和国铁道部.md "wikilink")为营运新建的[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中国高速铁路 "wikilink")，而向[德国](../Page/德国.md "wikilink")[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[唐山轨道客车有限责任公司订购的](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")（只限CRH3A，CRH3C由[中国铁路总公司](../Page/中国铁路总公司.md "wikilink")分別向[唐山轨道客车有限责任公司和](https://zh.wikipedia.org/wiki/唐山轨道客车 "wikilink")[长春轨道客车股份有限公司订购](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")）。中国铁道部将所有引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）车辆均命名为「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
 
 ## 概要

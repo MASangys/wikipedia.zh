@@ -1,3 +1,6 @@
+> 本文内容由[F4F戰鬥機](https://zh.wikipedia.org/wiki/F4F戰鬥機)转换而来。
+
+
 **F4F戰鬥機**是[美國海軍](../Page/美國海軍.md "wikilink")與[海軍陸戰隊](../Page/海軍陸戰隊.md "wikilink")在[二次世界大戰爆發之際最主要的艦載](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，他的暱稱**野貓**（Wild Cat）开启了[格魯曼公司以](https://zh.wikipedia.org/wiki/格魯曼公司 "wikilink")[貓作為戰鬥機暱稱的传统](https://zh.wikipedia.org/wiki/貓 "wikilink")。该型战斗机也在[英国皇家海军服役](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")，被英国飞行员称为**岩燕**（Martlet）。由于大部分的F2A型因为战斗力低落而被F4F替换，该型战斗机是美国海军和海军陆战队在1941-1942年唯一可用的战斗机。日本的零式战斗机在速度，机动性和航程都强于F4F，然而依靠坚固的机身和正确的战术，F4F的击落比依旧可观。F4F在战斗中显露的问题在F6F型解决，后期F4F在大型航空母艦上被更先进的F6F替换，大多改为部署在[護航航空母艦上作為輔助用途](https://zh.wikipedia.org/wiki/護航航空母艦 "wikilink")。
 
 ## 歷史

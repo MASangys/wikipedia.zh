@@ -1,3 +1,6 @@
+> 本文内容由[PP视频](https://zh.wikipedia.org/wiki/PP视频)转换而来。
+
+
 **PP视频**是[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[流媒体](../Page/流媒体.md "wikilink")[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，创始人是[姚欣](../Page/姚欣.md "wikilink")，其作为[点对点技术的程序](https://zh.wikipedia.org/wiki/点对点技术 "wikilink")，结合了[P2P和](https://zh.wikipedia.org/wiki/P2P "wikilink")[IPTV](../Page/IPTV.md "wikilink")的技术，因此称为P2PTV。\[1\]
 
 2006年至2010年，PPTV连续三年荣登由“清科中国Zero2IPO”评选的“中国最具投资价值企业50强”；2009年，PPLive成为中国唯一一家全球100强的网络视频企业，获得“最具投资价值企业”称号，荣登最具影响力的科技风险投资杂志《Redherring》。

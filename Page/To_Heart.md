@@ -1,4 +1,4 @@
-> 本文内容由[To Heart](https://zh.wikipedia.org/wiki/To Heart)转换而来。
+> 本文内容由[To Heart](https://zh.wikipedia.org/wiki/To_Heart)转换而来。
 
 
 《**To Heart**》是由[Leaf](../Page/Leaf.md "wikilink")在1997年5月23日發售的[視覺小說類型](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2003年6月27日發售全年齡版《**To Heart PSE**》，是PS版本再加上附加小遊戲而成。遊戲機版都是由[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")發售，1999年3月25日發售加入[配音](../Page/配音.md "wikilink")的[PS版](../Page/PlayStation.md "wikilink")\[2\]，2004年12月28日發售[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")，2009年7月30日發售收錄1代和2代的[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《**ToHeart2 PORTABLE Wパック**》，2011年10月27日發售1代的PSP廉價版。\[3\]1999年4月1日到6月24日播放電視動畫\[4\]，2004年10月2日到12月25日播放第二部電視動畫《**To Heart 〜Remember my Memories〜**》。\[5\]

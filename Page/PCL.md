@@ -1,3 +1,6 @@
+> 本文内容由[PCL](https://zh.wikipedia.org/wiki/PCL)转换而来。
+
+
 **PCL** 的全称为 **Printer Command Language**，它是[惠普公司开发的一种作为](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[打印机协议的](https://zh.wikipedia.org/wiki/打印机协议 "wikilink")[页面描述语言](../Page/页面描述语言.md "wikilink")，實際上，它已经成为业界标准。PCL 最初是为1984年的早期[喷墨打印机所设计的](https://zh.wikipedia.org/wiki/喷墨打印机 "wikilink")，后来开始发布用于从[热敏打印机](https://zh.wikipedia.org/wiki/热敏打印机 "wikilink")、[点阵打印机](https://zh.wikipedia.org/wiki/点阵打印机 "wikilink")、[激光打印机](../Page/激光打印机.md "wikilink")等不同打印机的 PCL 版本。后来的 PCL 版本开始支持 [HP-GL](https://zh.wikipedia.org/wiki/HPGL "wikilink") 以及 [PJL](https://zh.wikipedia.org/wiki/PJL "wikilink") 语言。
 
 偶尔人们也会誤會 PCL 是*Printer Control Language*，实际上这是錯的。

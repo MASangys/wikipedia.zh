@@ -1,4 +1,4 @@
-> 本文内容由[AEC Routemaster](https://zh.wikipedia.org/wiki/AEC Routemaster)转换而来。
+> 本文内容由[AEC Routemaster](https://zh.wikipedia.org/wiki/AEC_Routemaster)转换而来。
 
 
 [Routemaster_RM871.jpg](https://zh.wikipedia.org/wiki/File:Routemaster_RM871.jpg "fig:Routemaster_RM871.jpg")行駛的Routemaster\]\] [Heritage_Routemaster.jpg](https://zh.wikipedia.org/wiki/File:Heritage_Routemaster.jpg "fig:Heritage_Routemaster.jpg") AEC Routemaster（中文意釋**AEC路霸**），是一款由英國Associated Equipment Company（AEC）車廠推出的一款雙層巴士，由AEC以及[倫敦運輸局合作設計](https://zh.wikipedia.org/wiki/倫敦運輸局 "wikilink")。其設計工作早於1947年開始，並於1954年第一次亮相；1956年2月8日正式於[倫敦服役](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，一直推出到1968年。

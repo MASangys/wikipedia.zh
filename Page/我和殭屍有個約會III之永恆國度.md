@@ -1,3 +1,6 @@
+> 本文内容由[我和殭屍有個約會III之永恆國度](https://zh.wikipedia.org/wiki/我和殭屍有個約會III之永恆國度)转换而来。
+
+
 《**我和殭屍有個約會III之永恆國度**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")拍攝製作的時裝奇幻[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共38集，電視播映原版為36集，其中有數集為1小時加長版。劇情上承接第二輯，人物設定則貫穿全三輯，由原班人馬[尹天照](../Page/尹天照.md "wikilink")、[萬綺雯](../Page/萬綺雯.md "wikilink")、[陳啟泰](../Page/陳啟泰.md "wikilink")、[吳廷燁](../Page/吳廷燁.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[張國權等人主演](https://zh.wikipedia.org/wiki/張國權_\(香港藝人\) "wikilink")。
 
 由於故事內容艱澀難懂，情節亦較前兩輯天馬行空，令觀眾較難接受，所以此劇聲勢不如前兩輯。但也有人認為此劇為《[我和殭屍有個約會系列](../Page/我和殭屍有個約會系列.md "wikilink")》中最有深度的一輯。

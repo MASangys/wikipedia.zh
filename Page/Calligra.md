@@ -1,3 +1,6 @@
+> 本文内容由[Calligra](https://zh.wikipedia.org/wiki/Calligra)转换而来。
+
+
 **Calligra Suite**是一套開放原始碼的辦公室套裝軟體（office suite），可用於[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")\[1\]、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]和[Haiku](../Page/Haiku.md "wikilink")\[3\]等作業系統。其中包含了多種軟體，包括：[文字處理器](https://zh.wikipedia.org/wiki/文字處理器 "wikilink")、[電子數據表](https://zh.wikipedia.org/wiki/電子數據表 "wikilink")、簡報軟體、資料庫管理，以及[向量圖形和數位繪圖軟體](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")。
 
 Calligra使用[開放文件格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")，OpenDocument Format）作為預設的檔案格式，並能匯入其他格式，如[Microsoft Office的檔案](../Page/Microsoft_Office.md "wikilink")。Calligra依賴於[KDE](../Page/KDE.md "wikilink")技術，並常與[KDE Software Compilation相結合](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")。

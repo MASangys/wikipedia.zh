@@ -1,4 +1,4 @@
-> 本文内容由[NVIDIA GeForce 7](https://zh.wikipedia.org/wiki/NVIDIA GeForce 7)转换而来。
+> 本文内容由[NVIDIA GeForce 7](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_7)转换而来。
 
 
 **GeForce 7**是[NVIDIA第七代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[繪圖處理器的總稱](https://zh.wikipedia.org/wiki/GPU "wikilink")，3D引擎升級為CineFX 4.0。全系列繪圖晶片是原生PCI-E，並沒有原生[AGP](../Page/AGP.md "wikilink")產品推出过。与[GeForce 6一样](https://zh.wikipedia.org/wiki/GeForce_6 "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink") 9.0c，Shader Model 3.0, [OpenGL](../Page/OpenGL.md "wikilink") 2.0，[HDR](https://zh.wikipedia.org/wiki/高動態光照渲染 "wikilink")。nVidia聲稱GeForce 7的[Pixel Shader單元運算能力比GeForce](../Page/像素著色引擎.md "wikilink") 6強兩倍。不少人認為G70核心只是舊NV40的改良版。

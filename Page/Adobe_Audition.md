@@ -1,4 +1,4 @@
-> 本文内容由[Adobe Audition](https://zh.wikipedia.org/wiki/Adobe Audition)转换而来。
+> 本文内容由[Adobe Audition](https://zh.wikipedia.org/wiki/Adobe_Audition)转换而来。
 
 
 **Adobe Audition**（前名為**Cool Edit Pro**），為Syntrillium出品的多音轨编辑工具，支持128条[音轨](https://zh.wikipedia.org/wiki/音轨 "wikilink")、多种音频特效、多种音频格式，可以很方便地对[音频](https://zh.wikipedia.org/wiki/音频 "wikilink")[文件进行修改](https://zh.wikipedia.org/wiki/文件 "wikilink")、合併。被[Adobe](../Page/Adobe.md "wikilink")收购，改名为Adobe Audition。

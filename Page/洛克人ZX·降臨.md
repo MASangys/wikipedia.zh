@@ -1,3 +1,6 @@
+> 本文内容由[洛克人ZX·降臨](https://zh.wikipedia.org/wiki/洛克人ZX·降臨)转换而来。
+
+
 是紀念[洛克人系列](../Page/洛克人系列.md "wikilink")二十周年的第二部作品，也是[洛克人ZX系列](https://zh.wikipedia.org/wiki/洛克人ZX系列 "wikilink")[洛克人ZX](../Page/洛克人ZX.md "wikilink")的續集。本作的舞台是《[洛克人ZX](../Page/洛克人ZX.md "wikilink")》的數年後，科技高度發達的未來世界，人類和人類創造的機械生命體“レプリロイド”之間的漫長戰爭已經結束，開始了共存之路。
 
 本集與上集同樣推出男女主角的選擇，但故事發展將會為分歧路線。

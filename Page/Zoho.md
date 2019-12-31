@@ -1,3 +1,6 @@
+> 本文内容由[Zoho](https://zh.wikipedia.org/wiki/Zoho)转换而来。
+
+
 [ZOHO.svg](https://zh.wikipedia.org/wiki/File:ZOHO.svg "fig:ZOHO.svg")**Zoho**（又名：**Zoho Office Suite**，以及 **Zoho.com**）为在线办公室[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，Zoho是ZOHOCORP(原名AdventNet)基于云计算技术推出的一系列办公应用，包含在线Office、电子邮箱、客户关系管理（CRM）、项目管理（PM）、客户服务管理、商业智能、建站工具等。
 
 ## 关于

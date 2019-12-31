@@ -1,4 +1,4 @@
-> 本文内容由[Rage Pro](https://zh.wikipedia.org/wiki/Rage Pro)转换而来。
+> 本文内容由[Rage Pro](https://zh.wikipedia.org/wiki/Rage_Pro)转换而来。
 
 
 [3dragepro.jpg](https://zh.wikipedia.org/wiki/File:3dragepro.jpg "fig:3dragepro.jpg") **Rage Pro**由ATI推出，在1997年4月發佈。3D Rage Pro晶片是原生支援Intel的[AGP](../Page/AGP.md "wikilink")接口，有利於材質執行模式、指揮流水線、邊帶尋址和完全2x-模式協定。ATI為這款晶片新加了[三角形設定引擎](https://zh.wikipedia.org/wiki/三角形設定引擎 "wikilink")；亦改善了[透視法修正](https://zh.wikipedia.org/wiki/透視法修正 "wikilink")，[距離模糊和透明化效果](https://zh.wikipedia.org/wiki/距離模糊 "wikilink")。新增了[反射高光技術和增強了影像播放功能](https://zh.wikipedia.org/wiki/反射高光 "wikilink")，尤其是[DVD播放](https://zh.wikipedia.org/wiki/MPEG2 "wikilink")。3D Rage Pro支援最高8MB[SGRAM或](https://zh.wikipedia.org/wiki/SGRAM "wikilink")16MB[WRAM](https://zh.wikipedia.org/wiki/WRAM "wikilink")，取決於針對的市場。由於效果不錯，所以ATI得到大沘OEM订单，使ATI在1998年的收入提高了一倍。

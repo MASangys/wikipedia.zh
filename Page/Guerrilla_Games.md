@@ -1,3 +1,6 @@
+> 本文内容由[Guerrilla Games](https://zh.wikipedia.org/wiki/Guerrilla_Games)转换而来。
+
+
 **Guerrilla Games**（有译为“游骑兵工作室”）是一家隸屬於[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")的[荷蘭第一方遊戲開發商](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，曾為索尼電腦娛樂開發[殺戮地帶以及為](https://zh.wikipedia.org/wiki/殺戮地帶 "wikilink")[Eidos Interactive開發](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")[越南1967](https://zh.wikipedia.org/wiki/越南1967 "wikilink")。
 
 該公司原名為**Lost Boys Games**，是荷蘭多媒體公司Lost Boys的一部份，2003年7月以Guerrilla的名字重新開辦。Lost Boys Games在Lost Boys收購兩家有希望的[荷蘭遊戲開發商後組成](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，分別是由Arjan Brussee創辦的Orangegames以及由Arnout van der Kamp創辦的Digital Infinity。

@@ -1,3 +1,6 @@
+> 本文内容由[VR快打5](https://zh.wikipedia.org/wiki/VR快打5)转换而来。
+
+
 《**VR快打5**》（）是[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")《[VR快打](https://zh.wikipedia.org/wiki/VR快打 "wikilink")》系列遊戲的最新作品。2006年7月12日VR快打5在日本的[大型電玩登場](../Page/街机.md "wikilink")，2007年2月VR快打5在PlayStation 3上發售，隨後同年也在[Xbox 360上發售此作](../Page/Xbox_360.md "wikilink")\[1\]。\[2\]
 
 ## 故事

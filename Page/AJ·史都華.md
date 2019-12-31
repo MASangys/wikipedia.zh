@@ -1,3 +1,6 @@
+> 本文内容由[AJ·史都華](https://zh.wikipedia.org/wiki/AJ·史都華)转换而来。
+
+
 **AJ·史都華**（，本名，）是《[全美超級模特兒新秀大賽](../Page/全美超級模特兒新秀大賽.md "wikilink")》[第七季的參賽者](https://zh.wikipedia.org/wiki/全美超級模特兒新秀大賽第七季 "wikilink")，來自[加州的沙加緬度市](https://zh.wikipedia.org/wiki/加州 "wikilink")。她是比賽中第五個被淘汰的參賽者。\[1\]
 
 ## 早年生平

@@ -1,4 +1,4 @@
-> 本文内容由[DENGEKI HIME](https://zh.wikipedia.org/wiki/DENGEKI HIME)转换而来。
+> 本文内容由[DENGEKI HIME](https://zh.wikipedia.org/wiki/DENGEKI_HIME)转换而来。
 
 
 **DENGEKI HIME**，（原名“”）是[MediaWorks](../Page/MediaWorks.md "wikilink")發行的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")月刊雜誌，於1997年發行至2014年\[1\]，2007年將書名從《電擊姬》更改為現名。\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA NV1](https://zh.wikipedia.org/wiki/NVIDIA_NV1)转换而来。
+
+
 **NV1**是由[NVIDIA用了兩年時間研發](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，於1995年5月推出的[顯示晶片](https://zh.wikipedia.org/wiki/GPU "wikilink")\[1\]。它亦是NVIDIA自創立起的首款產品。NVIDIA曾授權[SGS Thomson Microelectronics生產](../Page/意法半導體.md "wikilink")，型号為STG2000X。
 
 ## 产品介绍

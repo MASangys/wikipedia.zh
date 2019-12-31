@@ -1,3 +1,6 @@
+> 本文内容由[INTP](https://zh.wikipedia.org/wiki/INTP)转换而来。
+
+
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **INTP**（內向／直覺／思考／感知）是一種基於[榮格的](https://zh.wikipedia.org/wiki/榮格 "wikilink")[分析心理學所發展出來的](https://zh.wikipedia.org/wiki/分析心理學 "wikilink")[MBTI](https://zh.wikipedia.org/wiki/MBTI "wikilink")、[凯尔西气质分类及](https://zh.wikipedia.org/wiki/凯尔西气质分类 "wikilink")[社會人格學的人格型態](https://zh.wikipedia.org/wiki/社會人格學 "wikilink")。\[1\]根據[大卫·凯尔西](https://zh.wikipedia.org/wiki/大卫·凯尔西 "wikilink")（David Keirsey）所述，INTP型的人屬於[理性型氣質及被稱為](https://zh.wikipedia.org/wiki/理性型 "wikilink")「架構師」（[Architect](https://zh.wikipedia.org/wiki/w:en:Architect_\(role_variant\) "wikilink")），在美國人口中约占3.3%。
 
 ## MBTI偏好

@@ -1,3 +1,6 @@
+> 本文内容由[月刊少年GANGAN](https://zh.wikipedia.org/wiki/月刊少年GANGAN)转换而来。
+
+
 《**月刊少年GANGAN**》（日語：月刊少年ガンガン），由日本[Square Enix發行的月刊少年](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。 因是知名電玩遊戲公司旗下的漫畫月刊，連載過不少知名電玩改編而成的漫畫。母公司有時也根據一些連載的漫畫推出相關的電子遊戲。
 
 由於月刊的厚度比其他漫畫雜誌還要厚，常常連載作品總頁數超過1000頁，因此又有所謂的「殺人電話簿」或是「月刊少年鈍器」這類戲稱。

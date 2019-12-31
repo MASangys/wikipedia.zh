@@ -1,3 +1,6 @@
+> 本文内容由[Pragma once](https://zh.wikipedia.org/wiki/Pragma_once)转换而来。
+
+
 在[C和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")程式語言中，**\#pragma once**是一個非標準但是被廣泛支援的[前置處理符號](https://zh.wikipedia.org/wiki/前置處理 "wikilink")，會讓所在的檔案在一個單獨的編譯中只被包含一次。以此方式，`#pragma once`提供類似[include防範的目的](https://zh.wikipedia.org/wiki/include防範 "wikilink")，但是擁有較少的程式碼且能避免名稱的碰撞。
 
 ## 示例

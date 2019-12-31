@@ -1,3 +1,6 @@
+> 本文内容由[YES 愛的諾言](https://zh.wikipedia.org/wiki/YES_愛的諾言)转换而来。
+
+
 《**YES 愛的諾言**》，是[中島美嘉](../Page/中島美嘉.md "wikilink")以本名身分發行的第四張原創錄音室專輯。 [日本](../Page/日本.md "wikilink")地區於2007年3月14日發行。
 
 ## 概述

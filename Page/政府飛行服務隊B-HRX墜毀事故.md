@@ -1,3 +1,6 @@
+> 本文内容由[政府飛行服務隊B-HRX墜毀事故](https://zh.wikipedia.org/wiki/政府飛行服務隊B-HRX墜毀事故)转换而来。
+
+
 **B-HRX墜毀事故**是[香港](../Page/香港.md "wikilink")[政府飛行服務隊](../Page/政府飛行服務隊.md "wikilink")於1993年成立以來首宗墜機導致人員殉職的事故\[1\]。事故發生於2003年8月26日晚上，一架政府飛行服務隊[EC-155B1](https://zh.wikipedia.org/wiki/欧直EC155直升机 "wikilink")[直昇機](https://zh.wikipedia.org/wiki/直昇機 "wikilink")（登記編號**B-HRX**）在執行一個甲類疏散運送死傷者任務（Type A Casevac）\[2\]時，於[新界](../Page/新界.md "wikilink")[大嶼山](../Page/大嶼山.md "wikilink")[伯公坳附近的山頭](https://zh.wikipedia.org/wiki/伯公坳 "wikilink")（位置為）墜毀，兩名機員罹難。民航處的調查報告將事件列為「可控飛行撞地個案」\[3\]</ref>\[4\]</ref>。
 
 ## 機員

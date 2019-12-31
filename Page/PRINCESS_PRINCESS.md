@@ -1,3 +1,6 @@
+> 本文内容由[PRINCESS PRINCESS](https://zh.wikipedia.org/wiki/PRINCESS_PRINCESS)转换而来。
+
+
 **PRINCESS PRINCESS**（****，略称****，音：Puri-Puri）是1983年至1996年期间活动的日本女子摇滚乐队（），由[奥居香](https://zh.wikipedia.org/wiki/岸谷香 "wikilink")、[中山加奈子](https://zh.wikipedia.org/wiki/中山加奈子 "wikilink")、[渡邊敦子](https://zh.wikipedia.org/wiki/渡邊敦子 "wikilink")、[富田京子](https://zh.wikipedia.org/wiki/富田京子 "wikilink")、[今野登茂子](https://zh.wikipedia.org/wiki/今野登茂子 "wikilink")5人组成。被視為为女子摇滚團體的先驱，許多作品曾连续在[Oricon](../Page/Oricon.md "wikilink")獲得冠軍排名，並同时在商业銷售上成为最成功的女子摇滚乐队。乐队从结成到解散历经13年，共发表21张单曲，15张专辑（包括精选集）；现场演出共吸引190万人以上的观众。
 
 ## 简历

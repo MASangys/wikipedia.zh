@@ -1,4 +1,4 @@
-> 本文内容由[NBA G聯盟](https://zh.wikipedia.org/wiki/NBA G聯盟)转换而来。
+> 本文内容由[NBA G聯盟](https://zh.wikipedia.org/wiki/NBA_G聯盟)转换而来。
 
 
 **NBA G聯盟**（NBA G League）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家籃球協會官方支持篮球发展之组织](https://zh.wikipedia.org/wiki/國家籃球協會 "wikilink")。联盟在2001年秋季開始時一共有8支队伍。直至2005年[夏季](../Page/夏季.md "wikilink")，曾被稱爲**国家篮球发展联盟**（[英语](../Page/英语.md "wikilink")：**N**ational **B**asketball **D**evelopment **L**eague，[縮寫](../Page/縮寫.md "wikilink")：**NBDL**）；此後改名為NBA发展联盟（[英语](../Page/英语.md "wikilink")：**NBA Development League**，[縮寫](../Page/縮寫.md "wikilink")：**D-League**）。2017年起，與[佳得樂簽下多年合約](https://zh.wikipedia.org/wiki/佳得樂 "wikilink")，並把品牌重塑為NBA G聯盟。截至2018/19球季，參賽球隊數目為27支。目前大部份NBA球隊均有其所專屬的G League球隊。

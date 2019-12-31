@@ -1,3 +1,6 @@
+> 本文内容由[M\&M\'s](https://zh.wikipedia.org/wiki/M\&M\'s)转换而来。
+
+
 [M\&M's_Plain.jpg](https://zh.wikipedia.org/wiki/File:M&M's_Plain.jpg "fig:M&M's_Plain.jpg") [M\&M's_Peanuts.JPG](https://zh.wikipedia.org/wiki/File:M&M's_Peanuts.JPG "fig:M&M's_Peanuts.JPG")
 
 **M\&M's**（俗稱：M豆）是美國的牛奶[巧克力](../Page/巧克力.md "wikilink")品牌，由[玛氏食品公司所生產](https://zh.wikipedia.org/wiki/玛氏食品 "wikilink")。
