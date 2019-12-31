@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Linux](https://zh.wikipedia.org/wiki/Portal:Linux)转换而来。
+
+
 <div style="clear:both; width:100%">
 
 {{/box-header|<big>主题</big>|/Intro|}} {{/Intro}} {{/box-footer|}}
