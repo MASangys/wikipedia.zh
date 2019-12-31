@@ -1,3 +1,6 @@
+> 本文内容由[Effort \& Love](https://zh.wikipedia.org/wiki/Effort \& Love)转换而来。
+
+
 《**Effort & Love**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁漢文在](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")2004年發行的一張粵語音樂專輯。此專輯概念以簡單為主，所有歌曲均是走抒情路線。而10首歌曲當中，有3首梁漢文親自作曲的作品，包括《夠朋友》(與文慧琳合作)、《最悲傷的事》和《祝你旅途愉快》，並在《DJ》一曲初次擔任編曲人。\[1\]。 第二主打《艦隊》於2004年度[新城勁爆頒獎禮及](../Page/2004年度新城勁爆頒獎禮得獎名單.md "wikilink")[十大勁歌金曲頒獎典禮獲得歌曲獎](../Page/2004年度十大勁歌金曲得獎名單.md "wikilink")，並為當年四台冠軍歌之一。
 
 ## 唱片版本

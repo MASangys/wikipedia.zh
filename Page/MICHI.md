@@ -1,3 +1,6 @@
+> 本文内容由[MICHI](https://zh.wikipedia.org/wiki/MICHI)转换而来。
+
+
 **MICHI**，[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")。出身於[沖繩縣](../Page/沖繩縣.md "wikilink")[沖繩市](../Page/沖繩市.md "wikilink")\[1\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[2\]。
 
 ## 來歷

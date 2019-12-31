@@ -1,3 +1,6 @@
+> 本文内容由[SE7EN \(電視節目\)](https://zh.wikipedia.org/wiki/SE7EN \(電視節目\))转换而来。
+
+
 《**SE7EN**》是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年4月10日至6月5日逢[星期日](../Page/星期日.md "wikilink")21:30-22:30於[ViuTV](../Page/ViuTV.md "wikilink")播放第一季，第二季於2017年1月7日至3月25日逢[星期六](../Page/星期六.md "wikilink")21:30-22:30播放。
 
 節目由七位年青人擔任[主持](https://zh.wikipedia.org/wiki/主持 "wikilink")，一起挑戰一些狂想，透過合力實現兒時夢想的過程，讓大家重拾夢想，重拾童年時心底的熱血和對世界的好奇。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[光明與黑暗續戰篇II 古代的封印](https://zh.wikipedia.org/wiki/光明與黑暗續戰篇II 古代的封印)转换而来。
+
+
 是一款[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本游戏由[Sonic\! Software Planning制作](https://zh.wikipedia.org/wiki/Sonic!_Software_Planning "wikilink")，为[光明系列之一](https://zh.wikipedia.org/wiki/光明系列 "wikilink")。游戏于1993年10月1日在日本地区世嘉[Mega Drive发行](../Page/Mega_Drive.md "wikilink")，于1997年7月2日在欧洲发行。\[1\]
 
 玩家扮演光明力量领导者Bowie。在非战斗时候，玩家可以探索城镇，并与人们交谈。

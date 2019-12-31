@@ -1,3 +1,6 @@
+> 本文内容由[Livin\' on a Prayer](https://zh.wikipedia.org/wiki/Livin\' on a Prayer)转换而来。
+
+
 《**Livin' on a Prayer**》是美國[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[邦·喬飛](../Page/邦喬飛.md "wikilink")（）在1986年10月底發行的單曲，這首單曲獲得美國告示牌4週冠軍，成為該團第二首全美冠軍單曲，單曲銷售量逾300萬張，這是邦·喬飛樂團最成功的單曲之一\[1\]\[2\]。
 
 ## 內容

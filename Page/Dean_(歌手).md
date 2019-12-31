@@ -1,3 +1,6 @@
+> 本文内容由[Dean \(歌手\)](https://zh.wikipedia.org/wiki/Dean \(歌手\))转换而来。
+
+
 **Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手](../Page/歌手.md "wikilink")兼[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block B](../Page/Block_B.md "wikilink")、[李遐怡](../Page/李遐怡.md "wikilink")等藝人團體的歌曲创作。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
 
 ## 作品

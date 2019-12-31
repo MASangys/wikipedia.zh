@@ -1,3 +1,6 @@
+> 本文内容由[Frank \(白藝潾迷你專輯\)](https://zh.wikipedia.org/wiki/Frank \(白藝潾迷你專輯\))转换而来。
+
+
 《**Frank**》是韓國組合[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[白藝潾的首張](https://zh.wikipedia.org/wiki/白藝潾 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年11月30日發行，主打曲為〈橫跨宇宙〉。
 
 ## 概要

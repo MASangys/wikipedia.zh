@@ -1,3 +1,6 @@
+> 本文内容由[IgA](https://zh.wikipedia.org/wiki/IgA)转换而来。
+
+
 [Dimeric_IgA_schematic_01.svg](https://zh.wikipedia.org/wiki/File:Dimeric_IgA_schematic_01.svg "fig:Dimeric_IgA_schematic_01.svg")为黄。\]\] [Ig_A.jpg](https://zh.wikipedia.org/wiki/File:Ig_A.jpg "fig:Ig_A.jpg")
 
 **免疫球蛋白A**（，縮寫：IgA），是血清中的含量僅次於[IgG](../Page/IgG.md "wikilink")，占血清[免疫球蛋白的](https://zh.wikipedia.org/wiki/免疫球蛋白 "wikilink")10～20％，存在於[粘膜組織](https://zh.wikipedia.org/wiki/粘膜 "wikilink")，例如[消化道](../Page/消化道.md "wikilink")、[呼吸道](../Page/呼吸道.md "wikilink")以及[泌尿生殖系統](https://zh.wikipedia.org/wiki/泌尿生殖系統 "wikilink")。黏膜組織具有[黏膜層淋巴組織](../Page/黏膜層淋巴組織.md "wikilink")，會製造出IgA以避免遭到[病原的入侵](https://zh.wikipedia.org/wiki/病原 "wikilink")，也存在於唾液、淚液以及乳汁當中，尤其是初乳，其IgA的含量相當高。\[1\]

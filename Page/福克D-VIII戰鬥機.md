@@ -1,3 +1,6 @@
+> 本文内容由[福克D-VIII戰鬥機](https://zh.wikipedia.org/wiki/福克D-VIII戰鬥機)转换而来。
+
+
 **福克D-VIII戰鬥機**原本被稱為「福克E-V戰鬥機」，和[福克D-VII戰鬥機](../Page/福克D-VII戰鬥機.md "wikilink")一樣是福克飛機公司為了參加德國空軍的「新型戰鬥機比賽」而提出的戰鬥機設計，這是德意志帝國空軍在[第一次世界大戰最後推出的戰鬥機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")。
 
 ## 基本資料

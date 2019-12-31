@@ -1,3 +1,6 @@
+> 本文内容由[Google Pixel](https://zh.wikipedia.org/wiki/Google Pixel)转换而来。
+
+
 **Google Pixel**是由[Google](../Page/Google.md "wikilink")在2013年起推出的智能硬件系列，包括Android智能手机、Android平板电脑以及Chromebook笔记本电脑。该系列最大的特色是Google负责硬件设计，而相较于[Google Nexus系列则是主要由制造商设计硬件](../Page/Google_Nexus.md "wikilink")。\[1\]
 
 ## 智能手机

@@ -1,3 +1,6 @@
+> 本文内容由[自由軟體基金會反Windows運動](https://zh.wikipedia.org/wiki/自由軟體基金會反Windows運動)转换而来。
+
+
 **自由軟體基金會反Windows運動**是針對[Microsoft Windows作業系統反對的運動](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。其與針對[数字版权管理](../Page/数字版权管理.md "wikilink")的[設計不良運動類似](https://zh.wikipedia.org/wiki/設計不良 "wikilink")，但此運動的目標是針對微軟的作業系統而非DRM。
 
 ## BadVista

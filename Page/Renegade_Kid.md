@@ -1,3 +1,6 @@
+> 本文内容由[Renegade Kid](https://zh.wikipedia.org/wiki/Renegade Kid)转换而来。
+
+
 **Renegade Kid**是一家美国的电子游戏开发商。公司于2007年在[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")市成立，于2016年8月解散。\[1\]公司以在[任天堂DS](../Page/任天堂DS.md "wikilink")平台开发的第一人称冒险游戏《》系列和《》开始为人知晓，而后在多个平台上发布的[银河恶魔城游戏](https://zh.wikipedia.org/wiki/银河恶魔城游戏 "wikilink")《Mutant Mudds》受到了更多的关注。
 
 公司在解散后，其所属游戏系列版权由两位创始人分别创立的新游戏工作室瓜分。\[2\]朱尔斯·沃特申的Atooi拿到了《Mutant Mudds》、《Xeodrifter》、《Bomb Monkey》、《Treasurenauts》等2D横版游戏的版权，而格雷格·哈格罗夫的Infitizmo则获得了《病房》、《月球惊魂》、《ATV越野》等3D游戏系列的版权。\[3\]

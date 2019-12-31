@@ -1,3 +1,6 @@
+> 本文内容由[瞬間交錯Mii廣場](https://zh.wikipedia.org/wiki/瞬間交錯Mii廣場)转换而来。
+
+
 是預裝於[任天堂3DS](../Page/任天堂3DS.md "wikilink")內的軟體，軟體內可操作由[Mii工作室創建之人物](https://zh.wikipedia.org/wiki/Mii#Mii工作室 "wikilink")，並透過[瞬間交錯通訊技術與他人互動](https://zh.wikipedia.org/wiki/擦肩通信 "wikilink")。
 
 ## 概要

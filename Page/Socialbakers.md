@@ -1,3 +1,6 @@
+> 本文内容由[Socialbakers](https://zh.wikipedia.org/wiki/Socialbakers)转换而来。
+
+
 **Socialbakers**是一个全球性的[社交媒体分析公司](../Page/社会网络.md "wikilink")，提供营销软件被架设在Socialbakers的服务平台上，用来解决营销问题,提供数据分析和社交媒体管理，使成千上万的各种规模的公司得以在Facebook、Instagram、推特、YouTube、领英、Google+、VK中进行产品营销。
 
 Socialbakers的解决方案让公司拥有衡量、管理和优化他们社交网站的服务。使用Socialbakers 的公司可以与他们的竞争对手作比较，寻找自己的最佳策略去适应实际要求。此外，它们可以管理社交媒体跨平台的文件，而且将它提供社会并[服务客户](https://zh.wikipedia.org/wiki/顾客服务 "wikilink")。公司也能优化他们的社交媒体的广告，用来彰显自己在更广泛商业目标内的影响力,尤其是[关键绩效指标](../Page/關鍵績效指標.md "wikilink") （KPIs）在社交媒体内的应用。

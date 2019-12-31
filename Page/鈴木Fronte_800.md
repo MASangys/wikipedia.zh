@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Fronte 800](https://zh.wikipedia.org/wiki/鈴木Fronte 800)转换而来。
+
+
 **鈴木Fronte 800**乃是[日本](../Page/日本.md "wikilink")鈴木汽車工業（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1965年至1969年間製造發售的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，該款車的基本機械構造和[第一代Fronte](https://zh.wikipedia.org/wiki/鈴木Fronte#第一代TLA/FEA/FEA-II型（1962年-1967年） "wikilink")（FEA-II型）相似，但車身尺碼加以放大。
 
 這款車是該公司從[輕型車](../Page/輕型車.md "wikilink")跨入[次緊湊型車級距的首部代表作](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，也是日本國產首部[前置前驅小型車](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")\[1\]。主要競爭對手有、[第一代馬自達Familia](https://zh.wikipedia.org/wiki/馬自達323#第一代（1963年-1968年） "wikilink")、、等車款，大約3年半的產品生命週期中總共製造2,717輛、出售2,612輛\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Astro全佳HD直播节目列表](https://zh.wikipedia.org/wiki/Astro全佳HD直播节目列表)转换而来。
+
+
 本條目內之「播放日期」，是指[马来西亚](../Page/马来西亚.md "wikilink")[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")的播放日期。所记载的节目以原电视直播信号本身现场直播的节目为准。
 
 <table>

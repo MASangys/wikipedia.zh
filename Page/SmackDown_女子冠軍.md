@@ -1,3 +1,6 @@
+> 本文内容由[SmackDown 女子冠軍](https://zh.wikipedia.org/wiki/SmackDown 女子冠軍)转换而来。
+
+
 **SmackDown 女子冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[SmackDown的一女子冠軍項目](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")。WWE SmackDown女子冠軍是世界摔角娛樂的兩個女子冠軍之一，另一個則是隸屬於[Raw的](../Page/WWE_Raw.md "wikilink")[WWE女子冠軍](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")。它創建於2016年7月23日，並於SmackDown Live節目上被公布。\[1\]
 
 ## 歷屆冠軍

@@ -1,3 +1,6 @@
+> 本文内容由[Starhaus娛樂](https://zh.wikipedia.org/wiki/Starhaus娛樂)转换而来。
+
+
 **Starhaus Entertainment**（）是韓國的綜合[經紀公司](../Page/經紀公司.md "wikilink")。公司名稱「Starhaus」是由英文「star」與德文「haus（house）」結合而成，即「明星之家」，期盼公司內的藝人與工作人員，都像一家人一樣共同奮鬥的公司。
 
 ## 歷史

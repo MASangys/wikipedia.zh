@@ -1,3 +1,6 @@
+> 本文内容由[Apple Watch Series 2](https://zh.wikipedia.org/wiki/Apple Watch Series 2)转换而来。
+
+
 **Apple Watch Series 1/ Series 2**是第二代的[Apple Watch](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")\[1\]\[2\]，在2016年的9月8日發布\[3\]。
 
 Apple Watch Series 2使用[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")\[4\]，相較於Apple Watch Series 1及Apple Watch (第一代，俗稱S0)，Apple Watch Series 2加入了[GPS機能](https://zh.wikipedia.org/wiki/GPS "wikilink")，以及50米防水機能\[5\]。

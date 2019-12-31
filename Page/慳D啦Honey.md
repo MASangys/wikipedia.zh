@@ -1,3 +1,6 @@
+> 本文内容由[慳D啦Honey](https://zh.wikipedia.org/wiki/慳D啦Honey)转换而来。
+
+
 《**慳D啦 Honey**》（**Money vs Honey**）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷愛情競賽節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年5月30日至6月28日期間，逢星期一至二晚上22:00-23:00在[ViuTV](../Page/ViuTV.md "wikilink")播出。節目旁白為。
 
 ## 節目簡介

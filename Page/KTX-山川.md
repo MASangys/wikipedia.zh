@@ -1,3 +1,6 @@
+> 本文内容由[KTX-山川](https://zh.wikipedia.org/wiki/KTX-山川)转换而来。
+
+
 **KTX-山川**（）為[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[韓國鐵道公社](../Page/韓國鐵道公社.md "wikilink")（KORAIL）開發的[高速鐵道](../Page/韓國高速鐵道.md "wikilink")[車輛](../Page/鐵路車輛.md "wikilink")。形式編號為**110000型**。
 
 此條目將連同水西高速鐵道擁有的衍生型（****）一同記述。

@@ -1,3 +1,6 @@
+> 本文内容由[安薩里X大獎](https://zh.wikipedia.org/wiki/安薩里X大獎)转换而来。
+
+
 **安薩里X大獎**（）是[XPRIZE](../Page/XPRIZE.md "wikilink")贊助的太空獎項，提供10,000,000[美元](../Page/美元.md "wikilink")獎金給予第一個在兩​​週內發射兩次可重複使用載人飛船進入太空的非政府組織。它以20世紀初[航空](../Page/航空.md "wikilink")獎項為藍本，目的是推動低成本太空航行。
 
 安薩里X大獎在1996年5月創建，最初名稱是“X獎”，2004年5月6日更改為安薩里X獎，[企業家阿](https://zh.wikipedia.org/wiki/企業家 "wikilink")[努什·安薩里](https://zh.wikipedia.org/wiki/努什·安薩里 "wikilink") (Anousheh Ansari)、[阿米爾·安薩里贊助數百萬美元](https://zh.wikipedia.org/wiki/阿米爾·安薩里 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Wanted](https://zh.wikipedia.org/wiki/Wanted)转换而来。
+
+
 《**Wanted**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2016年6月22日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[49天](../Page/49天.md "wikilink")》、《[離婚律師戀愛中](../Page/離婚律師戀愛中.md "wikilink")》[朴容順](../Page/朴容順.md "wikilink")導演與新人編劇韓智完攜手合作，講述了一名韓國知名女演員為了尋找被綁架的兒子而出演真人秀，根據嫌犯的要求完成任務，孤軍奮戰的故事。
 
 ## 演員陣容

@@ -1,3 +1,6 @@
+> 本文内容由[比鄰星b](https://zh.wikipedia.org/wiki/比鄰星b)转换而来。
+
+
 **比鄰星b**（**Proxima Centauri b** 或 **Proxima b**\[1\]\[2\]）是一顆[太陽系外行星](../Page/太陽系外行星.md "wikilink")，位於[紅矮星](../Page/紅矮星.md "wikilink")[比鄰星](https://zh.wikipedia.org/wiki/比鄰星 "wikilink")[適居帶內](https://zh.wikipedia.org/wiki/適居帶 "wikilink")\[3\]。該行星距離地球約4.2光年（1.3[秒差距](../Page/秒差距.md "wikilink")），在天球上位於[半人馬座](https://zh.wikipedia.org/wiki/半人馬座 "wikilink") 。比鄰星b是已知距離[太陽系最近的系外行星](https://zh.wikipedia.org/wiki/太陽系 "wikilink")，也是已知距離最近的適居帶內系外行星。該行星是由觀測母恆星光譜[譜線](../Page/譜線.md "wikilink")週期性移動狀況的[徑向速度法發現](https://zh.wikipedia.org/wiki/都卜勒光譜學 "wikilink")。根據觀測資料，該天體相對於地球的運動速度大約時速5公里\[4\]。
 
 ## 特徵

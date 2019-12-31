@@ -1,3 +1,6 @@
+> 本文内容由[BAND-MAID](https://zh.wikipedia.org/wiki/BAND-MAID)转换而来。
+
+
 **BAND-MAID**（バンドメイド）是[日本](../Page/日本.md "wikilink")的五人[女子搖滾樂團](https://zh.wikipedia.org/wiki/女子 "wikilink")，以[女僕姿態演出](https://zh.wikipedia.org/wiki/女僕 "wikilink")，2013年7月組成。
 
 ## 概要

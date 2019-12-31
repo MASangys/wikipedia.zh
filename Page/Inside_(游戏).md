@@ -1,3 +1,6 @@
+> 本文内容由[Inside \(游戏\)](https://zh.wikipedia.org/wiki/Inside \(游戏\))转换而来。
+
+
 《**Inside**》是一款由獨立遊戲工作室[Playdead](../Page/Playdead.md "wikilink")所開發及發行的[平台](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")[解謎及](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。遊戲無論在主題及視覺上均類似同一公司的另一款作品《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》，玩家需扮演一名小男孩，在黑白色的遊戲環境中解決不同的難題，並同時避免在3D滾動時死亡。
 
 《Inside》分別於2016年6月29日、7月7日和8月23日在Xbox One及Windows还有PlayStation 4上發行，iOS平台在2017年12月15日发行以及[任天堂Switch](../Page/任天堂Switch.md "wikilink")在2018年6月28日发行。\[1\]游戏在推出後幾乎獲得一致好評，有部份評論家甚至稱本作為《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》的優秀的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")\[2\]\[3\]\[4\]\[5\]。

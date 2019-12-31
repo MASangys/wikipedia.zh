@@ -1,3 +1,6 @@
+> 本文内容由[Here I Am \(藝聲迷你專輯\)](https://zh.wikipedia.org/wiki/Here I Am \(藝聲迷你專輯\))转换而来。
+
+
 《**Here I Am**》（）是韓國演唱團體[Super Junior成員](../Page/Super_Junior.md "wikilink")[藝聲](../Page/藝聲.md "wikilink")的首張個人迷你專輯，2016年4月19日發行，收錄7首歌曲。
 
 ## 發行與宣傳

@@ -1,3 +1,6 @@
+> 本文内容由[Daydream](https://zh.wikipedia.org/wiki/Daydream)转换而来。
+
+
 《**DAYDREAM**》是韓國男子樂團[DAY6](../Page/DAY6.md "wikilink")的第二張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是前鍵盤手[晙赫退團後](../Page/任晙赫.md "wikilink")，首張以五人組形式發行的作品，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年3月30日由[KT Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，主打歌為〈放手 放手 放手〉。專輯發行首日便登上[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[印度尼西亞的](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[iTunes專輯榜第一名](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[1\]\[2\]\[3\]\[4\]\[5\]，主打單曲亦登上美國地區Tunes韓國流行音樂單曲榜第三名\[6\]，並被美國[Billboard評選為](https://zh.wikipedia.org/wiki/Billboard "wikilink")2016年度十大最佳[K-Pop專輯之一](https://zh.wikipedia.org/wiki/K-Pop "wikilink")。\[7\]
 
 ## 背景

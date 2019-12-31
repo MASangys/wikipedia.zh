@@ -1,3 +1,6 @@
+> 本文内容由[Keybase](https://zh.wikipedia.org/wiki/Keybase)转换而来。
+
+
 {{Infobox website | name = Keybase | logo = [Keybase_logo_official.svg](https://zh.wikipedia.org/wiki/File:Keybase_logo_official.svg "fig:Keybase_logo_official.svg") | screenshot = | url =  | commercial = 否 | type = [社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink") | registration = 公開 | owner = | author = Chris Coyne
 Max Krohn 等 | launch_date =  | content license = | alexa =
 

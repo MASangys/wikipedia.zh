@@ -1,3 +1,6 @@
+> 本文内容由[JoJolion](https://zh.wikipedia.org/wiki/JoJolion)转换而来。
+
+
 《**JOJO的奇妙冒險 第八部 JoJolion**》（）為[荒木飛呂彥](../Page/荒木飛呂彥.md "wikilink")所著的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[JoJo的奇妙冒險](https://zh.wikipedia.org/wiki/JoJo的奇妙冒險 "wikilink")》系列的第八部，標題的「lion」意思是福音。該作於[集英社](../Page/集英社.md "wikilink")的青年漫畫雜誌《》上連載，自2011年6月號連載至今\[1\]。單行本現已出刊22冊。
 
 2013年12月5日，《JoJolion》贏得了第17屆大獎\[2\]。

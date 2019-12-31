@@ -1,3 +1,6 @@
+> 本文内容由[真理大學校慶Cosplay觀摩會](https://zh.wikipedia.org/wiki/真理大學校慶Cosplay觀摩會)转换而来。
+
+
 **真理大學校慶Cosplay觀摩會**是[真理大學](../Page/真理大學.md "wikilink")自2009年起由真理大學動畫與漫畫創作研究社（真理大學動漫社）及真理大學通識教育中心於[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[淡水區](../Page/淡水區.md "wikilink")校本部舉辦的地方性[動漫](../Page/動漫.md "wikilink")博覽活動，截至2016年為止已成功舉辦八屆。\[1\]\[2\]
 
 其主要活動範圍為校園古蹟區：[牛津學堂](../Page/牛津學堂.md "wikilink")、[馬偕故居](https://zh.wikipedia.org/wiki/馬偕故居 "wikilink")、教士會館、姑娘樓等古典西式建築，是[攝影師及](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[Cosplay](../Page/Cosplay.md "wikilink")er們喜好的取景地點之一。

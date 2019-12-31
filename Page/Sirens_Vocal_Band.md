@@ -1,3 +1,6 @@
+> 本文内容由[Sirens Vocal Band](https://zh.wikipedia.org/wiki/Sirens Vocal Band)转换而来。
+
+
 **Sirens Vocal Band**（中文譯名：**藍色警報**），或稱 **Sirens 藍色警報**，是臺灣[阿卡貝拉的人聲樂團](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")，成立於2009年4月，成員包括小小 (吳貞璇)、蜻蜓 (黃千庭)、LowC (羅肇麒)、小鐵 (朱世明)，除 LowC 外，團員皆非音樂相關背景出身，擅長在表演中結合豐富的舞台呈現，並與觀眾互動\[1\]。
 
 團名「Sirens」取自於希臘神話中的海妖賽倫 ([塞壬](../Page/塞壬.md "wikilink"))，只要賽倫們開口歌唱，美妙的歌聲就會魅惑經過的水手。Sirens 期許自己的表演能具有十足的魅力，且深深吸引觀眾的目光。而中文團名「藍色警報」，藍色是取自大海的顏色，警報則是 Sirens 的英文翻譯，希望觀眾像聽到警報聲一樣，注意力受到吸引，並聚集過來聆聽 Sirens 的歌唱\[2\]。

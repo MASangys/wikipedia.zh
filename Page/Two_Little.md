@@ -1,3 +1,6 @@
+> 本文内容由[Two Little](https://zh.wikipedia.org/wiki/Two Little)转换而来。
+
+
 《**Two Little**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[吳日言](../Page/吳日言.md "wikilink")的第2張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2004年11月30日推出。
 
 ## 曲目列表

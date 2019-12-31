@@ -1,3 +1,6 @@
+> 本文内容由[萌王EX](https://zh.wikipedia.org/wiki/萌王EX)转换而来。
+
+
 **《萌王EX》** （英语：Kawaii Strike: Cute to Kill）是由上海萌宫坊网络科技有限公司研发，网易游戏代理的一部二次元3D动作战术竞技[手游](https://zh.wikipedia.org/wiki/手游 "wikilink")。在《萌王EX》里玩家能操纵历史上真实存在过的、[性别转换的帝王们](https://zh.wikipedia.org/wiki/性别转换 "wikilink")，在名为[魔都的战场上互相交战](https://zh.wikipedia.org/wiki/上海 "wikilink")。\[1\]</ref>
 
 ## 制作背景

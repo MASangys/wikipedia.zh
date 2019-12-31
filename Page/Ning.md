@@ -1,3 +1,6 @@
+> 本文内容由[Ning](https://zh.wikipedia.org/wiki/Ning)转换而来。
+
+
 **Ning**是一个用于创建自定义[社交网站的在线平台](https://zh.wikipedia.org/wiki/社交网站 "wikilink")，\[1\]\[2\]\[3\]于2005年10月成立。\[4\]网站设置了照片、视频、[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")、博客等功能，并设有[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")、[Google](../Page/Google.md "wikilink")和[Yahoo\!等网站的分享按钮](../Page/雅虎.md "wikilink")。\[5\]\[6\] <span class="cx-segment" data-segmentid="139"></span>
 
 Ning由[马克·安德森](../Page/马克·安德森.md "wikilink")和共同创建。截至2011年6月，已有超过90,000个社交网站依赖于Ning的平台运行。\[7\]\[8\]

@@ -1,3 +1,6 @@
+> 本文内容由[SM9](https://zh.wikipedia.org/wiki/SM9)转换而来。
+
+
 **SM9**是[中華人民共和國政府采用的一种](https://zh.wikipedia.org/wiki/中華人民共和國政府 "wikilink")标准，由[国家密码管理局于](../Page/中央密码工作领导小组办公室.md "wikilink")2016年3月28日发布，相关标准为“GM/T 0044-2016 SM9标识密码算法”\[1\]。
 
 在[商用密码](../Page/商用密码.md "wikilink")体系中，SM9主要用于用户的身份认证。据新华网公开报道，SM9的加密强度等同于3072位密钥的[RSA加密演算法](../Page/RSA加密演算法.md "wikilink")\[2\]。

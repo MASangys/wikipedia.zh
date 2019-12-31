@@ -1,3 +1,6 @@
+> 本文内容由[獅子LION](https://zh.wikipedia.org/wiki/獅子LION)转换而来。
+
+
 **獅子LION**，原名「**獅子合唱團**」，為歌手[蕭敬騰](../Page/蕭敬騰.md "wikilink")在出道8年後所組的搖滾樂團。2015年8月蕭敬騰在籌備一張個人專輯，找了經紀公司樂手[力Q編曲](https://zh.wikipedia.org/wiki/力Q "wikilink")，於製作過程中讓喜愛搖滾的蕭敬騰覺得不用樂團方式呈現會不夠真實，說服力也不足，遂與公司溝通後於2016年9月成功發行了第一張樂團專輯LION，圓了多年的樂團夢。\[1\]\[2\]
 
 團名由來是Lion這首歌在副歌的旋律很像Lion發音，最後就討論出簡單直接有力的Lion當團名。\[3\] 樂團以創作為訴求，曲風多元，伴隨[Hard rock](https://zh.wikipedia.org/wiki/Hard_rock "wikilink")、流行、金屬、抒情、民謠、爵士及電音等樂風。

@@ -1,3 +1,6 @@
+> 本文内容由[Anacridium](https://zh.wikipedia.org/wiki/Anacridium)转换而来。
+
+
 是[蝗科](../Page/蝗科.md "wikilink")的一个[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")\[1\]\[2\]。
 
 ## 物種

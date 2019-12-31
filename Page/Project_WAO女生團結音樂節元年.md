@@ -1,3 +1,6 @@
+> 本文内容由[Project WAO女生團結音樂節元年](https://zh.wikipedia.org/wiki/Project WAO女生團結音樂節元年)转换而来。
+
+
 **Project WAO女生團結音樂節元年**（英語：**Project WAO Concert**），是歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[那英](../Page/那英.md "wikilink")聯合舉辦的一輪公益巡迴演唱會，並接連於2014年4月20日與9月3日於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")與[中國](../Page/中國.md "wikilink")[香港](../Page/香港.md "wikilink")特別行政區舉辦。該演唱會以幫助社會受虐少女為主題，呼籲大眾關心社會各類弱勢群體\[1\]\[2\]\[3\]。演唱會主題曲《We Are One》由歌手[張惠妹](../Page/張惠妹.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[蔡健雅與](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")[那英](../Page/那英.md "wikilink")合唱\[4\]。
 
 ## 場次

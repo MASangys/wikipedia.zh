@@ -1,3 +1,6 @@
+> 本文内容由[Portal:吉卜力工作室/Selected feature films](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected feature films)转换而来。
+
+
 ## 用法
 
 The layout design for these subpages is at [Portal:吉卜力工作室/Selected works/Layout](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected_works/Layout "wikilink").

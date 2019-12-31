@@ -1,3 +1,6 @@
+> 本文内容由[Portal:东京/Administrative divisions](https://zh.wikipedia.org/wiki/Portal:东京/Administrative divisions)转换而来。
+
+
 [Tokyomapcropped.png](https://zh.wikipedia.org/wiki/File:Tokyomapcropped.png "fig:Tokyomapcropped.png")
 
 <table>

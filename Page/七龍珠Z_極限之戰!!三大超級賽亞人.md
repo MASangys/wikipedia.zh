@@ -1,3 +1,6 @@
+> 本文内容由[七龍珠Z 極限之戰!!三大超級賽亞人](https://zh.wikipedia.org/wiki/七龍珠Z 極限之戰!!三大超級賽亞人)转换而来。
+
+
 《**七龙珠Z 極限之戰\!\!三大超級賽亞人**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: Extreme Battle\! The Three Great Super Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日上映的第10部劇場版動畫。\[1\]故事时间在[沙鲁事件之前没多久的平行世界](https://zh.wikipedia.org/wiki/沙鲁 "wikilink")。
 
 ## 故事

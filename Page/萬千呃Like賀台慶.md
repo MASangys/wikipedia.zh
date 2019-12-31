@@ -1,3 +1,6 @@
+> 本文内容由[萬千呃Like賀台慶](https://zh.wikipedia.org/wiki/萬千呃Like賀台慶)转换而来。
+
+
 《**萬千呃like賀台慶**》（**Happy TVMost Birthday to Me**）為[毛記電視](../Page/毛記電視.md "wikilink")慶祝開台一周年而設的大型台慶匯演，於2016年5月11日在[香港](../Page/香港.md "wikilink")[灣仔會議展覽中心展覽廳](https://zh.wikipedia.org/wiki/灣仔會議展覽中心 "wikilink")5BC\[1\]舉行，由[實惠家居](../Page/實惠家居.md "wikilink")冠名贊助。這是繼《[第一屆十大勁曲金曲分獎典禮](../Page/毛記電視第一屆十大勁曲金曲分獎典禮.md "wikilink")》後，毛記電視所舉辦的大型實體綜藝表演節目。
 
 [香港電視娛樂](../Page/香港電視娛樂.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")於晚上八時半起加入[現場直播](../Page/現場直播.md "wikilink")，為[香港電視史上首個進駐免費電視的網絡大型匯演](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")，號稱「人類史上首個由其他電視台直播的電視台台慶」，節目同時於其官方網站及應用程式直播。

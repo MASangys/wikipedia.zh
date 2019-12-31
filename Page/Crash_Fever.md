@@ -1,3 +1,6 @@
+> 本文内容由[Crash Fever](https://zh.wikipedia.org/wiki/Crash Fever)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")製作，運行在[Android](../Page/Android.md "wikilink")和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，色珠消除[角色扮演](../Page/電子角色扮演遊戲.md "wikilink")[益智遊戲的](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")[行動應用程式](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")（APP）。日本於2015年7月8日開始營運\[1\]，但因為玩家超過預期導致伺服器過載，一度暫時下架維護\[2\]，後來才又重新開放\[3\]；台港澳繁體中文版由官方直營，2016年5月26日上架（IAP，）設有體力限制。目前全世界總下載量已突破一千萬次\[4\]，並入選2016台灣[Google Play](../Page/Google_Play.md "wikilink")「最難以抗拒遊戲」排行\[5\]。未來預計推出對應15種語言的國際版\[6\]。
 
 ## 遊戲介紹

@@ -1,3 +1,6 @@
+> 本文内容由[Cardiola](https://zh.wikipedia.org/wiki/Cardiola)转换而来。
+
+
 ***Cardiola***是[雙殼綱](https://zh.wikipedia.org/wiki/雙殼綱 "wikilink")[隐齿亚纲](https://zh.wikipedia.org/wiki/隐齿亚纲 "wikilink")[已绝灭的一](https://zh.wikipedia.org/wiki/绝灭 "wikilink")[屬鹹水蛤蜊](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")。本屬物種於[志留紀](../Page/志留紀.md "wikilink")到[中泥盆世期間生活於今日的](https://zh.wikipedia.org/wiki/中泥盆世 "wikilink")[非洲](../Page/非洲.md "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美洲](../Page/北美洲.md "wikilink")，並未有在[亞洲分佈](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[1\]。
 
 ## 物種

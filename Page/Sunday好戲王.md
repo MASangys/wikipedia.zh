@@ -1,3 +1,6 @@
+> 本文内容由[Sunday好戲王](https://zh.wikipedia.org/wiki/Sunday好戲王)转换而来。
+
+
 《**Sunday好戲王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")繼《[Sunday扮嘢王](../Page/Sunday扮嘢王.md "wikilink")》、《[Sunday靚聲王](../Page/Sunday靚聲王.md "wikilink")》後延續週日「王者」系列的全新遊戲節目。由[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")擔任主持，於2016年1月17日起，逢星期日20:30-21:30於[翡翠台](../Page/翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 節目簡介

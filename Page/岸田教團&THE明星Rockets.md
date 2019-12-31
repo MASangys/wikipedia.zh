@@ -1,3 +1,6 @@
+> 本文内容由[岸田教團\&THE明星Rockets](https://zh.wikipedia.org/wiki/岸田教團\&THE明星Rockets)转换而来。
+
+
 **岸田教團\&THE明星Rockets**（）是日本的一隊搖滾樂隊及同人音樂組合，所屬經紀公司為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-PatrollCount.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-PatrollCount.js)转换而来。
+
+
 /\*\*
 
 `  Author: ZUO Haocheng `[`User:zuohaocheng`](https://zh.wikipedia.org/wiki/User:zuohaocheng "wikilink")

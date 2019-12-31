@@ -1,3 +1,6 @@
+> 本文内容由[IRQL](https://zh.wikipedia.org/wiki/IRQL)转换而来。
+
+
 **IRQL**是**Interrupt Request Level**的缩写，即中断请求级别。是[Windows操作系统使用的处理器](../Page/Windows_NT.md "wikilink")[中断级别](https://zh.wikipedia.org/wiki/中断 "wikilink")。
 
 ## 简介

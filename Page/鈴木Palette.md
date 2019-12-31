@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Palette](https://zh.wikipedia.org/wiki/鈴木Palette)转换而来。
+
+
 **鈴木Palette**（）是2008年至2013年間由[日本](../Page/日本.md "wikilink")[鈴木公司開發生產的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，其兄弟車是[第一代馬自達Flair Wagon和](https://zh.wikipedia.org/wiki/馬自達Flair_Wagon#第一代（2012年-2013年） "wikilink")。這是繼[第六代鈴木Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第六代HA24S/24V型（2004年-2009年） "wikilink")、[第五代馬自達Carol和](https://zh.wikipedia.org/wiki/馬自達Carol#第五代（HB24型_2004年-2009年） "wikilink")三兄弟車款以來，第二次出現三兄弟車款。關於車名「Palette」來自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「[調色盤](https://zh.wikipedia.org/wiki/調色盤 "wikilink")」，藉由調色盤上多彩的[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")，原廠希望該車款能帶給[消費者多彩多姿的](https://zh.wikipedia.org/wiki/消費者 "wikilink")[生活型態](https://zh.wikipedia.org/wiki/生活型態 "wikilink")\[1\]。
 
 ## 歷史與概要

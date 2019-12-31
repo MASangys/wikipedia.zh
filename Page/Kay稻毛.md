@@ -1,3 +1,6 @@
+> 本文内容由[Kay稻毛](https://zh.wikipedia.org/wiki/Kay稻毛)转换而来。
+
+
 **Kay稻毛**（，），[日本](../Page/日本.md "wikilink")男性[配音員](../Page/配音員.md "wikilink")、[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")、[電台DJ](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")。出身於[香川縣](https://zh.wikipedia.org/wiki/香川縣 "wikilink")\[1\]。O型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")。
 
 ## 人物簡介

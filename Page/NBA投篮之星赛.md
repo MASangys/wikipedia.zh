@@ -1,3 +1,6 @@
+> 本文内容由[NBA投篮之星赛](https://zh.wikipedia.org/wiki/NBA投篮之星赛)转换而来。
+
+
 **投篮之星赛**是[NBA](../Page/NBA.md "wikilink")全明星周末的一项赛事，在全明星正赛的前一晚举行。它从[2004年NBA全明星赛](../Page/2004年NBA全明星赛.md "wikilink")开始举办，但从[2016年NBA全明星赛](../Page/2016年NBA全明星赛.md "wikilink")起, 全明星周末取消了这项赛事。\[1\]
 
 ## 参赛规则

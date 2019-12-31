@@ -1,3 +1,6 @@
+> 本文内容由[L.O.L](https://zh.wikipedia.org/wiki/L.O.L)转换而来。
+
+
 《**L.O.L**》，是韓國女子演唱團體[GFRIEND](../Page/GFRIEND.md "wikilink")的第一張正規專輯，以〈NAVILLERA(너 그리고 나)〉為主打歌。
 
 ## 事件

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:吉卜力工作室/Categories](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Categories)转换而来。
+
+
 <div style="font-size:92%:">
 
 **维基百科：** [吉卜力工作室短篇動畫](https://zh.wikipedia.org/wiki/Category:吉卜力工作室短篇動畫 "wikilink"){{·}} [风之谷](https://zh.wikipedia.org/wiki/Category:Nausicaä_of_the_Valley_of_the_Wind "wikilink"){{·}} [吉卜力工作室](https://zh.wikipedia.org/wiki/Category:吉卜力工作室 "wikilink")（[动画电影](https://zh.wikipedia.org/wiki/Category:吉卜力工作室長篇動畫電影‎ "wikilink")、[人物](https://zh.wikipedia.org/wiki/Category:吉卜力工作室人物 "wikilink")）{{·}} [Topcraft](https://zh.wikipedia.org/wiki/Category:Topcraft "wikilink")

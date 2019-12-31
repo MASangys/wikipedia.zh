@@ -1,3 +1,6 @@
+> 本文内容由[模块:WeatherBoxColors](https://zh.wikipedia.org/wiki/模块:WeatherBoxColors)转换而来。
+
+
 w = {}; convert = require( 'Module:BaseConvert' ); math_mod = require( 'Module:Math' );
 
 function hex( value )

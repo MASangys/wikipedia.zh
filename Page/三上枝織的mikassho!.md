@@ -1,3 +1,6 @@
+> 本文内容由[三上枝織的mikassho!](https://zh.wikipedia.org/wiki/三上枝織的mikassho!)转换而来。
+
+
 『**三上枝織的mikassho\!**』是從2015年10月5日開始在[文化放送超](https://zh.wikipedia.org/wiki/文化放送 "wikilink")\!A\&G+放送，是由Marine ENTERTAINMENT Inc.制作的[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。暱稱是「**mikassho\!**」。主持人為[配音員](../Page/配音員.md "wikilink")的[三上枝織](../Page/三上枝織.md "wikilink")。
 
 ## 節目概要

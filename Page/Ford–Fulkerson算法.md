@@ -1,3 +1,6 @@
+> 本文内容由[Ford–Fulkerson算法](https://zh.wikipedia.org/wiki/Ford–Fulkerson算法)转换而来。
+
+
 **Ford–Fulkerson方法（Ford-Fulkerson method）**或 **Ford–Fulkerson算法（FFA）**是一类计算[网络流](../Page/网络流.md "wikilink")的[最大流的](../Page/最大流问题.md "wikilink")[贪心算法](../Page/贪心算法.md "wikilink")。 之所以称之为“方法”而不是“算法”，是因为它寻找增广路径的方式并不是完全确定的，而是有几种不同[时间复杂度](../Page/时间复杂度.md "wikilink")的实现方式\[1\]\[2\]它在1956年由[L.R. Ford, Jr.](https://zh.wikipedia.org/wiki/L.R._Ford,_Jr. "wikilink") 及 [D.R. Fulkerson](https://zh.wikipedia.org/wiki/D.R._Fulkerson "wikilink")\[3\]发表。“Ford–Fulkerson”这个名词通常也用于[Edmonds–Karp算法](../Page/Edmonds–Karp算法.md "wikilink")，这是一个特殊的Ford–Fulkerson算法实现。
 
 算法的思想如下：只要有一条从源点（开始节点）到汇点（结束节点）的路径，在所有的边上都有可用容量，就沿着这条路径发送一个流。 然后再找到另一条路径，一直到网络中不存在这种路径为止。 一条有可用容量的路径被称为一个增广路径。

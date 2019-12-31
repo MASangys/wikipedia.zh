@@ -1,3 +1,6 @@
+> 本文内容由[深喉 \(X档案剧集\)](https://zh.wikipedia.org/wiki/深喉 \(X档案剧集\))转换而来。
+
+
 《**X檔案**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第一季的第二集，于1993年9月17日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")。节目由剧集主创[克里斯·卡特编剧](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")，丹尼尔·沙克海姆执导，剧情介绍的多项要素之后成为[电视剧中层层谜团的重要组成部分](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。
 
 [联邦调查局](../Page/联邦调查局.md "wikilink")特工[福克斯·穆德](https://zh.wikipedia.org/wiki/福克斯·穆德 "wikilink")（[大卫·杜考夫尼饰](https://zh.wikipedia.org/wiki/大卫·杜考夫尼 "wikilink")）和[丹娜·史卡莉](https://zh.wikipedia.org/wiki/丹娜·史卡莉 "wikilink")（[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）受命调查人称“档案”的悬案，这些案件大多同[超自然现象有关](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。穆德相信有超自然现象存在，但斯嘉丽对此抱怀疑态度，希望能证明实情并非如此。两人在本集调查[美国空军](../Page/美国空军.md "wikilink")内部可能存在的阴谋事件，穆德遇到的神秘线人警告他不要再追查，但穆德还是决定继续，最终他对外星生命真相的了解达到前所未有的程度，但却同之前一样刚刚取得进展就被迫退出。

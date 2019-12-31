@@ -1,3 +1,6 @@
+> 本文内容由[马西TGV站](https://zh.wikipedia.org/wiki/马西TGV站)转换而来。
+
+
 **马西TGV站**（），是法国的一个高速铁路车站，位于法国市镇[马西](../Page/马西_\(埃松省\).md "wikilink")（）。
 
 ## 位置

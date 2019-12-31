@@ -1,3 +1,6 @@
+> 本文内容由[Portal:东京/Selected article](https://zh.wikipedia.org/wiki/Portal:东京/Selected article)转换而来。
+
+
 ## 用法
 
 The layout design for these subpages is at [User:JuneAugust/Portal:Tokyo/Selected article/Layout](https://zh.wikipedia.org/wiki/User:JuneAugust/Portal:Tokyo/Selected_article/Layout "wikilink").

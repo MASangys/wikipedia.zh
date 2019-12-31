@@ -1,3 +1,6 @@
+> 本文内容由[O! R U L8, 2\?](https://zh.wikipedia.org/wiki/O! R U L8, 2\?)转换而来。
+
+
 《**O\! R U L8, 2?**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第一張韓語迷你專輯，為「學校三部曲」系列專輯的第二部曲，談述青少年們的幸福。2013年9月11日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打歌為〈N.O〉，後續曲為〈진격의 방탄（進擊的防彈）〉。
 
 ## 簡介

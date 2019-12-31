@@ -1,3 +1,6 @@
+> 本文内容由[Category:Italian commune使用了过时参数](https://zh.wikipedia.org/wiki/Category:Italian commune使用了过时参数)转换而来。
+
+
 此分类来自[Template:Infobox Italian comune](https://zh.wikipedia.org/wiki/Template:Infobox_Italian_comune "wikilink")，当使用过时参数时会被添加。It can be populated at any time by reversion to older articles, cut and paste move from history and similar events, by the deprecation of parameters, or by the importation of untranslated infoboxes from the Italian language Wikipedia. Specifically, the template checks for the existence of values in any of the following parameters: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .
 
 To fix the problem if any of the above parameters have values, move the value to a parameter that exists in the infobox's documentation, or delete the parameter and its value if there is no reasonable matching parameter.

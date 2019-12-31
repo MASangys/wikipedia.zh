@@ -1,3 +1,6 @@
+> 本文内容由[ThatcherJoe](https://zh.wikipedia.org/wiki/ThatcherJoe)转换而来。
+
+
 **約瑟夫·格雷厄姆·「喬」·薩格**（，），是一位[英國YouTuber與](https://zh.wikipedia.org/wiki/英國 "wikilink")[Vlogger](https://zh.wikipedia.org/wiki/VLOG "wikilink")，簡稱**喬·薩格**（Joe Sugg），他以其[YouTube](../Page/YouTube.md "wikilink")頻道名稱**ThatcherJoe**最為人們熟知。
 
 ## 個人生活

@@ -1,3 +1,6 @@
+> 本文内容由[新堂L](https://zh.wikipedia.org/wiki/新堂L)转换而来。
+
+
 **新堂L**（），[美國漫畫家](https://zh.wikipedia.org/wiki/美國 "wikilink")，[紐約出身](https://zh.wikipedia.org/wiki/紐約 "wikilink")，現居住[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。主要繪製成人漫畫。
 
 ## 經歷

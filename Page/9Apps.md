@@ -1,3 +1,6 @@
+> 本文内容由[9Apps](https://zh.wikipedia.org/wiki/9Apps)转换而来。
+
+
 **9Apps**是[阿里巴巴集团](../Page/阿里巴巴集团.md "wikilink")移动事业群旗下的[移动应用](https://zh.wikipedia.org/wiki/移动应用 "wikilink")[分发平台](https://zh.wikipedia.org/wiki/分发平台 "wikilink")，是国际第三方[安卓应用和游戏商店](https://zh.wikipedia.org/wiki/安卓 "wikilink")，海外安卓手机用户可以以免登录的方式下载手机应用和游戏\[1\]\[2\]。
 
 9Apps品牌创建于2013年12月，用户覆盖[印度](../Page/印度.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[东南亚和](https://zh.wikipedia.org/wiki/东南亚 "wikilink")[中东](../Page/中东.md "wikilink")地区等10个新兴国家。截止2016年4月，该平台日均应用/游戏发行量超过2600万，月活跃用户超过2.5亿\[3\]。

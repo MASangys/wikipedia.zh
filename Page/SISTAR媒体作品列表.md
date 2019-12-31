@@ -1,3 +1,6 @@
+> 本文内容由[SISTAR媒体作品列表](https://zh.wikipedia.org/wiki/SISTAR媒体作品列表)转换而来。
+
+
 《**SISTAR媒体作品列表**》主要列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")历年参与各类电视节目、固定节目及电视剧。
 
 ## 專屬電視節目

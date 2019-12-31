@@ -1,3 +1,6 @@
+> 本文内容由[GRIA1](https://zh.wikipedia.org/wiki/GRIA1)转换而来。
+
+
 **GRIA1**()是由*GRIA1* [基因](../Page/基因.md "wikilink")編碼的[蛋白质](../Page/蛋白质.md "wikilink")。\[1\]\[2\]
 
 ## 交互作用

@@ -1,3 +1,6 @@
+> 本文内容由[QF 75 mm坦克炮](https://zh.wikipedia.org/wiki/QF 75 mm坦克炮)转换而来。
+
+
 **<span>Ordnance QF </span>75 mm**(縮寫: **OQF 75 mm**)是英國於第二次世界大戰研發的坦克炮，主要由英軍坦克原先裝備的[QF 6磅炮改膛至](https://zh.wikipedia.org/wiki/QF_6磅炮 "wikilink") 75mm, 以獲得與美國裝備於雪曼坦克上的 75mm M3 坦克炮同級的對敵步兵或掩體火力。 名字上 QF 即是快速射擊的縮寫( "quick-firing")。有時也會縮寫為**ROQF 75 mm ，RO**即研發及生產的Royal Ordnance(皇家軍械局)的縮寫。
 
 ## 開發歷史

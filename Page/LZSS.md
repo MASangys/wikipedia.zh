@@ -1,3 +1,6 @@
+> 本文内容由[LZSS](https://zh.wikipedia.org/wiki/LZSS)转换而来。
+
+
 **Lempel–Ziv–Storer–Szymanski**（**LZSS**）是一个[无损数据压缩](../Page/无损数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")，属于[LZ77的派生](../Page/LZ77与LZ78.md "wikilink")，1982年由James Storer和创建。LZSS发布于《Journal of the ACM》\[1\]的“Data compression via textual substitution”。\[2\]
 
 LZSS是一种字典编码技术。它会尝试以符号字符串替换相同字符串为一个字典位置的引用。

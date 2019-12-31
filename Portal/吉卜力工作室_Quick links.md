@@ -1,3 +1,6 @@
+> 本文内容由[Portal:吉卜力工作室/Quick links](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Quick links)转换而来。
+
+
 <div style="text-align:center; padding-bottom:10px; font-size:80%;">
 
 <table>

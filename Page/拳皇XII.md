@@ -1,3 +1,6 @@
+> 本文内容由[拳皇XII](https://zh.wikipedia.org/wiki/拳皇XII)转换而来。
+
+
 是[SNK Playmore](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，最初在2009年于日本登陆[街机](../Page/街机.md "wikilink")平台，同年移植至[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360平台](../Page/Xbox_360.md "wikilink")，並在包括日本和欧美等地发行。
 
 出場角色全部重繪。本作無任何情節，因此與《[拳皇XI](../Page/拳皇XI.md "wikilink")》的情節並無任何關係。取消了《[拳皇2003](../Page/拳皇2003.md "wikilink")》和《拳皇XI》的更换队员的设定，恢復了以住的一對一回合制度。另外，本作人物沒有劃分任何隊伍，所以在街機挑戰虛擬對手時，會隨機挑選三名人物作對手。由於本作沒有头目及特別人物，直到最後的比賽場地為晚間大會擂台為止便完結。雖然本作畫面特效精美受到玩家稱讚，但仍有多個地方有所不足及系統出現嚴重缺陷等問題，因此被玩家稱為「半成品」或「測試品」，其作品評價亦是拳皇系列多年來最差的。

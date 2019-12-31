@@ -1,3 +1,6 @@
+> 本文内容由[REASON \(柚子单曲\)](https://zh.wikipedia.org/wiki/REASON \(柚子单曲\))转换而来。
+
+
 《**REASON**》是[日本](../Page/日本.md "wikilink")二人组合[柚子](../Page/柚子_\(組合\).md "wikilink")（ゆず）的第37张单曲。\[1\]2013年1月9日由其所属公司发售。
 
 ## 參考資料

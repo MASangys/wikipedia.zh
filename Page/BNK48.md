@@ -1,3 +1,6 @@
+> 本文内容由[BNK48](https://zh.wikipedia.org/wiki/BNK48)转换而来。
+
+
 [BNKLogo.jpg](https://zh.wikipedia.org/wiki/File:BNKLogo.jpg "fig:BNKLogo.jpg") **BNK48**是一個由[秋元康](../Page/秋元康.md "wikilink")擔任製作人，以[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")為主要活動中心的女性偶像團體，為[AKB48](../Page/AKB48.md "wikilink")在日本以外成立的第2支姊妹團體。
 
 ## 簡介

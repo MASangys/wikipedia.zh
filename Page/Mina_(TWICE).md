@@ -1,3 +1,6 @@
+> 本文内容由[Mina \(TWICE\)](https://zh.wikipedia.org/wiki/Mina \(TWICE\))转换而来。
+
+
 **名井南**（，\[1\]；），[藝名](../Page/藝名.md "wikilink")**Mina**（，），現為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧出生](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")\[2\]，在[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")長大。
 
 ## 早年生活及教育

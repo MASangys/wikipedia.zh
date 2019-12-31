@@ -1,3 +1,6 @@
+> 本文内容由[Go Ratings](https://zh.wikipedia.org/wiki/Go Ratings)转换而来。
+
+
 [百大圍棋棋士國籍分布.png](https://zh.wikipedia.org/wiki/File:百大圍棋棋士國籍分布.png "fig:百大圍棋棋士國籍分布.png") **Go Ratings**是由圍棋軟體的發明者、法国计算机专家\[1\]\[2\]创建的世界職業[圍棋](https://zh.wikipedia.org/wiki/圍棋 "wikilink")[等級分排行網站](https://zh.wikipedia.org/wiki/等級分 "wikilink")\[3\]\[4\]，此排名是基於世界各国的大赛和世界大赛的比赛作为數據來源，並利用[全历史排名](https://zh.wikipedia.org/wiki/全历史排名 "wikilink")（）演算法統計的，與[中國棋院和](https://zh.wikipedia.org/wiki/中國棋院 "wikilink")[韓國棋院](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[等級分所採用](../Page/中国围棋等级分.md "wikilink")，每一局個別計算的[Elo演算法不同](https://zh.wikipedia.org/wiki/等级分#计分方法 "wikilink")，WHR考慮進玩家實力的變化與部分時期可能產生的波動\[5\]，在局數少時更容易快速做出判別\[6\]；並且每日更新數據，該演算法的論文\[7\]宣稱比之前的Elo等级分算法更加科学\[8\]，按照網站規定，至少一敗的棋手才能列入排行\[9\]。2016年3月時，中國大陸圍棋棋士[柯潔為第一](https://zh.wikipedia.org/wiki/柯潔 "wikilink")\[10\]，排名第二為[電腦程式](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")[AlphaGo](../Page/AlphaGo.md "wikilink")\[11\]。但2017年2月開始，圍棋程式將不列入排名，對戰紀錄也不再計入等級分\[12\]。
 
 目前并没有权威性的围棋世界组织\[13\]\[14\]，因此也沒有官方正式認可的世界排名\[15\]。2016年3月初，[柯潔表示認為此網站的排名沒有公信力](https://zh.wikipedia.org/wiki/柯潔 "wikilink")，並表示將程式與職業棋士並排也不公平，也不認可該網站將[井山裕太](../Page/井山裕太.md "wikilink")排在第三\[16\]。但亦有意見認為由於考慮進歷史比局，Go Ratings的分數和排名較Elo等级分算法更適合做縱向比較\[17\]。

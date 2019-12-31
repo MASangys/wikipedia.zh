@@ -1,3 +1,6 @@
+> 本文内容由[X射線爆發源](https://zh.wikipedia.org/wiki/X射線爆發源)转换而来。
+
+
 *' X射線爆發源*'是一種會呈現週期性快速增加[光度](../Page/光度.md "wikilink")（通常是10或更高因次），且其峰值出現在[電磁頻譜之](https://zh.wikipedia.org/wiki/電磁頻譜 "wikilink")[X射線的](https://zh.wikipedia.org/wiki/X射線 "wikilink")[X射線聯星](https://zh.wikipedia.org/wiki/X射線聯星 "wikilink")。這種天文物理的系統是由[吸積的](https://zh.wikipedia.org/wiki/吸積 "wikilink")[緻密天體](https://zh.wikipedia.org/wiki/緻密星 "wikilink")（通常是[中子星](../Page/中子星.md "wikilink")，偶爾是[黑洞](../Page/黑洞.md "wikilink")）和一顆捐助者的主序星組成。捐助者的物質會落到中子星的表面並累積在那兒一陣子，直到氫融合成氦，並產生X射線。
 
 擔任捐助者的主序星在分類上既可以是高質量恆星（超過10[太陽質量](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")（））也可以是低質量恆星（少於1 ），構成的聯星系統縮寫為分別為HMXB和LMXB。X射線爆發源的觀測不同於來自其它X射線瞬變源（像是[X射線脈衝星和](https://zh.wikipedia.org/wiki/X射線脈衝星 "wikilink")[軟X射線暫現源](../Page/軟X射線暫現源.md "wikilink")），表現出急遽的上升時間（1-10秒），然後是軟化的光譜（低溫的[黑體特性](https://zh.wikipedia.org/wiki/黑體 "wikilink")）。個別爆發能量的特徵是全通量10<sup>39–40</sup>[爾格](https://zh.wikipedia.org/wiki/爾格 "wikilink")\[1\]。相對於穩定吸積的中子星常態光度是10<sup>37</sup>爾格\[2\]。

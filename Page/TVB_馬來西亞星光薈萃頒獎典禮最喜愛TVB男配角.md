@@ -1,3 +1,6 @@
+> 本文内容由[TVB 馬來西亞星光薈萃頒獎典禮最喜愛TVB男配角](https://zh.wikipedia.org/wiki/TVB 馬來西亞星光薈萃頒獎典禮最喜愛TVB男配角)转换而来。
+
+
 **[TVB 馬來西亞星光薈萃頒獎典禮最喜愛TVB男配角](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮 "wikilink")**每年是由[香港](../Page/香港.md "wikilink")[TVB娛樂新聞台](../Page/TVB娛樂新聞台.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro及MY](https://zh.wikipedia.org/wiki/Astro "wikilink") FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為《MY AOD我的最愛頒獎典禮》，至2013年正式易名為《TVB 馬來西亞星光薈萃頒獎典禮》。
 
 最喜愛TVB男配角獎於2010年(第7屆)才設立，至今獲獎最多的男演員是[羅仲謙](../Page/羅仲謙.md "wikilink")，獲獎2次。

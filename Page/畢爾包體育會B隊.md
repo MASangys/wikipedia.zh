@@ -1,3 +1,6 @@
+> 本文内容由[畢爾包體育會B隊](https://zh.wikipedia.org/wiki/畢爾包體育會B隊)转换而来。
+
+
 **畢爾包體育會B隊**(**Athletic Club de Bilbao "B"**)是一支位於[西班牙](../Page/西班牙.md "wikilink")[畢爾包的職業足球會](https://zh.wikipedia.org/wiki/畢爾包 "wikilink")，目前於[西班牙足球乙二級聯賽角逐](https://zh.wikipedia.org/wiki/西班牙足球乙二級聯賽 "wikilink")。
 
 ## 陣容

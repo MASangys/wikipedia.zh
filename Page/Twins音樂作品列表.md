@@ -1,3 +1,6 @@
+> 本文内容由[Twins音樂作品列表](https://zh.wikipedia.org/wiki/Twins音樂作品列表)转换而来。
+
+
 本條目列舉[香港](../Page/香港.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[Twins的音樂作品](https://zh.wikipedia.org/wiki/Twins "wikilink")。2000年簽約於[英皇娛樂](../Page/英皇娛樂.md "wikilink")，2001年發行同名EP於香江竄紅。2005年進軍國語市場，遠赴台灣推行首張國語專輯[見習愛神](../Page/見習愛神.md "wikilink")。隔年發行第二張國語專輯[八十塊環遊世界](../Page/八十塊環遊世界.md "wikilink")衝破百萬銷量，奠定孖女的音樂作品在華人市場具影響力。\[1\]\[2\]\[3\]\[4\]
 
 ## 發行公司

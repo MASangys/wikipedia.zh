@@ -1,3 +1,6 @@
+> 本文内容由[模块:Photo montage](https://zh.wikipedia.org/wiki/模块:Photo montage)转换而来。
+
+
 \-- implements [template:photomontage](https://zh.wikipedia.org/wiki/template:photomontage "wikilink") local p = {}
 
 local function isnotempty(s)

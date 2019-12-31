@@ -1,3 +1,6 @@
+> 本文内容由[A-Sketch](https://zh.wikipedia.org/wiki/A-Sketch)转换而来。
+
+
 *' A-Sketch*'（；）是[日本](../Page/日本.md "wikilink")一間以從事[唱片事業](https://zh.wikipedia.org/wiki/唱片 "wikilink")[公司](../Page/公司.md "wikilink")，是[Amuse](../Page/Amuse.md "wikilink")集團唱片公司和藝人管理公司，一旦該公司的視頻和音樂軟件子公司Amuse軟娛樂是負責銷售提成來的。
 
 ## 沿革

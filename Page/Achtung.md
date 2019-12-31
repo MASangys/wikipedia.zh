@@ -1,3 +1,6 @@
+> 本文内容由[Achtung](https://zh.wikipedia.org/wiki/Achtung)转换而来。
+
+
 **Achtung**(**악퉁**)是[韓國的三人樂團](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。樂團僅包括吉他、鼓和貝斯，以搖滾即pop為基礎，並融入各式風格於他們音樂中。曲風從一直到令人心碎的抒情曲。他們融合不同的音樂元素，創造其獨特音樂風格。\[1\]
 
 ## 團名由來

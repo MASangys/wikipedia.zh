@@ -1,3 +1,6 @@
+> 本文内容由[模块:Engvar](https://zh.wikipedia.org/wiki/模块:Engvar)转换而来。
+
+
 \-- This module implements Template:Engvar. -- Template:Engvar is to be build into the template (like an infobox), with default & variant spellings defined. -- That template should also allow parameter '|engvar=' for the editor (article page). -- The module/template Engvar then returns the spelling variant as is set in that article (for example '|engvar=en-GB'). -- The defaultWord is returned, unless the engvar input hits on a defined (en-XX) variant word. local p = {} local getArgs = require('Module:Arguments').getArgs local gsub = string.gsub local lower = string.lower local upper = string.upper
 
 function p.variants(frame) local args = getArgs(frame)

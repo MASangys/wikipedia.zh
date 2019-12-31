@@ -1,3 +1,6 @@
+> 本文内容由[Ollantaya](https://zh.wikipedia.org/wiki/Ollantaya)转换而来。
+
+
 ***Ollantaya***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族](../Page/綃蝶族.md "wikilink")中的一個[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。Silva et al. (2010)指出此屬從[油綃蝶屬](../Page/油綃蝶屬.md "wikilink")分出並成為其[旁系群](../Page/旁系群.md "wikilink")\[1\]。
 
 ## 物種

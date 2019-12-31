@@ -1,3 +1,6 @@
+> 本文内容由[LINE TV](https://zh.wikipedia.org/wiki/LINE TV)转换而来。
+
+
 **LINE TV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NAVER旗下子公司](../Page/Naver_\(公司\).md "wikilink")[LINE在](../Page/LINE_\(公司\).md "wikilink")[泰國和](https://zh.wikipedia.org/wiki/泰國 "wikilink")[臺灣](../Page/臺灣.md "wikilink")推出的行動影音串流平臺，用戶可透過[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[行動應用程式收看](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[卡通](../Page/卡通.md "wikilink")、[音樂影片等線上免費影音](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。\[1\]
 
 ## 營運事記

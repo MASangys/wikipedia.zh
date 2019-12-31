@@ -1,3 +1,6 @@
+> 本文内容由[So-So](https://zh.wikipedia.org/wiki/So-So)转换而来。
+
+
 《**So-So**》（）是[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[白娥娟](../Page/白娥娟.md "wikilink")的第二張數位單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年5月24日發行。
 
 <ref>

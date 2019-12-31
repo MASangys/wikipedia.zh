@@ -1,3 +1,6 @@
+> 本文内容由[Jellyfish娛樂](https://zh.wikipedia.org/wiki/Jellyfish娛樂)转换而来。
+
+
 **Jellyfish娛樂**（，）是韓國一間經紀公司，於2007年創立，社長為黃世俊（황세준）。2014年與CJ E\&M簽訂合約成為合作夥伴。
 
 當前旗下藝人為[VIXX](../Page/VIXX.md "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")、[VERIVERY](../Page/VERIVERY.md "wikilink")等。

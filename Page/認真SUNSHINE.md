@@ -1,3 +1,6 @@
+> 本文内容由[認真SUNSHINE](https://zh.wikipedia.org/wiki/認真SUNSHINE)转换而来。
+
+
 「**認真SUNSHINE（真剣SUNSHINE）**」 是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")16张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2016年5月11日由[J Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 單曲成績

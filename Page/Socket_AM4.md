@@ -1,3 +1,6 @@
+> 本文内容由[Socket AM4](https://zh.wikipedia.org/wiki/Socket AM4)转换而来。
+
+
 **Socket AM4**是[超微半導體公司開發的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[中央處理器插座](../Page/CPU插座.md "wikilink")，用於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen處理器以及ARM公司授權AMD開發的](../Page/AMD_Ryzen.md "wikilink")[ARM架構處理器上](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[1\]\[2\]
 
 在此之前AMD在消費級市場的劃分中，高性能[台式机採用的是](https://zh.wikipedia.org/wiki/台式机 "wikilink")[Socket AM3+](../Page/Socket_AM3+.md "wikilink")，主流性能桌上型電腦採用的是[Socket FM2+](../Page/Socket_FM2+.md "wikilink")，入門級台式机則是另立[Socket AM1](../Page/Socket_AM1.md "wikilink")，如此多的連接器規格令成本增加，並且用户的選擇范围變得狹窄，因此AMD使用Socket AM4的目的便是將目前繁多的處理器連接器規格統一起來。\[3\]\[4\] 2015年6月，AMD的技術發展規劃將原定主流性能台式机使用的FM3也更換為AM4。\[5\]行動平台則是改成了使用[Socket FP4介面](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")，伺服器/工作站採用的是高規格的[Socket SP3](../Page/Socket_SP3.md "wikilink")，並衍生有Ryzen ThreadRipper系列使用的[Socket TR4](../Page/Socket_TR4.md "wikilink")。

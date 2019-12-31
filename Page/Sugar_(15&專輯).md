@@ -1,3 +1,6 @@
+> 本文内容由[Sugar \(15\&專輯\)](https://zh.wikipedia.org/wiki/Sugar \(15\&專輯\))转换而来。
+
+
 《**Sugar**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&的首張專輯](https://zh.wikipedia.org/wiki/15& "wikilink")，於2014年5月26日發行，主打曲為〈Sugar〉。
 
 ## 概要

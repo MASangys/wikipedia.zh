@@ -1,3 +1,6 @@
+> 本文内容由[突变异种 \(X档案\)](https://zh.wikipedia.org/wiki/突变异种 \(X档案\))转换而来。
+
+
 《**突变异种**》（）是美国[科幻电视剧](https://zh.wikipedia.org/wiki/科幻电视作品 "wikilink")《[X档案](../Page/X档案.md "wikilink")》第一季的第三集，于1993年9月24日通过[福克斯电视网在美国首播](https://zh.wikipedia.org/wiki/福斯广播公司 "wikilink")。节目由格伦·摩根和[黄毅瑜](../Page/黄毅瑜.md "wikilink")编剧，哈里·朗斯特里特执导，另有部分附加镜头由迈克尔·卡特曼导演。道格·休切逊饰演的变异连环杀手尤金·维克多·托姆斯在本集首度与观众见面，之后他还会在第一季第21集《[终结突变异种](https://zh.wikipedia.org/wiki/终结突变异种_\(X档案\) "wikilink")》中再次亮相。《突变异种》是《档案》“每周怪物”系列的第一集，其剧情同主线相对独立，与[剧中的层层谜团没有联系](https://zh.wikipedia.org/wiki/X档案的神话 "wikilink")。
 
 [联邦调查局](../Page/联邦调查局.md "wikilink")特工[福克斯·穆德](https://zh.wikipedia.org/wiki/福克斯·穆德 "wikilink")（[大卫·杜考夫尼饰](https://zh.wikipedia.org/wiki/大卫·杜考夫尼 "wikilink")）和[丹娜·斯嘉丽](https://zh.wikipedia.org/wiki/丹娜·斯嘉丽 "wikilink")（[吉莲·安德森饰](https://zh.wikipedia.org/wiki/吉莲·安德森 "wikilink")）受命调查人称“档案”的悬案，这些案件大多同[超自然现象有关](https://zh.wikipedia.org/wiki/超常现象 "wikilink")。穆德相信有超自然现象存在，但斯嘉丽对此抱怀疑态度，希望能证明实情并非如此。两人在本集调查一起连环凶杀案，凶手似乎有某种超能力，能将躯体挤压后通过极其狭窄的缝隙。两名特工推断凶手可能存在基因突变，并且已经这样疯狂杀戮达90年之久。

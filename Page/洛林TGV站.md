@@ -1,3 +1,6 @@
+> 本文内容由[洛林TGV站](https://zh.wikipedia.org/wiki/洛林TGV站)转换而来。
+
+
 **洛林TGV站**（）是法国的一个铁路车站，位于法国[摩泽尔省](../Page/摩泽尔省.md "wikilink")的[路维尼市镇范围内](https://zh.wikipedia.org/wiki/路维尼 "wikilink")，因地处原[洛林大区](https://zh.wikipedia.org/wiki/洛林大区 "wikilink")境内而得名。该站的主要服务对象是[南锡](../Page/南锡.md "wikilink")和[梅斯](../Page/梅斯.md "wikilink")两座城市，以及[卢森堡](../Page/卢森堡.md "wikilink")。
 
 ## 位置

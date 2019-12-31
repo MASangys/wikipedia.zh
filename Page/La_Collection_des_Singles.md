@@ -1,3 +1,6 @@
+> 本文内容由[La Collection des Singles](https://zh.wikipedia.org/wiki/La Collection des Singles)转换而来。
+
+
 《》是日本[視覺系](../Page/視覺系.md "wikilink")搖滾樂團 [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink") 發行於2006年7月19日的[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，專輯名稱採用[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")。次年5月4日正式引進[臺灣](../Page/中華民國.md "wikilink")，中譯名《**惡意悲劇之華**》。
 
 ## 主題

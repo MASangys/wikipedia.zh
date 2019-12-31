@@ -1,3 +1,6 @@
+> 本文内容由[Windows工作排程器](https://zh.wikipedia.org/wiki/Windows工作排程器)转换而来。
+
+
 **任务计划程序**（），也称**计划任务**。这是[Microsoft Windows中的一个组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，可以预先计划在特定时间或指定时间后启动程序或脚本。它在[Windows 95的](../Page/Windows_95.md "wikilink")[Microsoft Plus\!中以](https://zh.wikipedia.org/wiki/Microsoft_Plus! "wikilink")“系统代理”（System Agent）首次引入，随后在[Windows 98中被更名为任务计划程序](../Page/Windows_98.md "wikilink")。任务计划程序启动前，[Windows事件记录服务必须已在运行](https://zh.wikipedia.org/wiki/Windows事件记录 "wikilink")。
 
 此服务不应与[计算机调度混淆](../Page/调度_\(计算机\).md "wikilink")，因其为分配[CPU资源到内存中的进程](../Page/中央处理器.md "wikilink")。

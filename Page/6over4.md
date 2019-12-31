@@ -1,3 +1,6 @@
+> 本文内容由[6over4](https://zh.wikipedia.org/wiki/6over4)转换而来。
+
+
 **6over4**是一种[IPv6](../Page/IPv6.md "wikilink")转换传送机制，通过支持多播的[IPv4](../Page/IPv4.md "wikilink")网络的双栈节点传输IPv6数据包。6over4将IPv4网络视为一个[数据链路层](../Page/数据链路层.md "wikilink")。
 
 ## 運作機制

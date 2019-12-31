@@ -1,3 +1,6 @@
+> 本文内容由[THE FUTURE](https://zh.wikipedia.org/wiki/THE FUTURE)转换而来。
+
+
 『**THE FUTURE**』是[EXILE SHOKICHI的首張專輯](../Page/SHOKICHI.md "wikilink")。2016年4月27日於日本發行。\[1\]
 
 ## 收錄曲

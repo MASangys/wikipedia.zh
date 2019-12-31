@@ -1,3 +1,6 @@
+> 本文内容由[PG家長指引 \(梁漢文專輯\)](https://zh.wikipedia.org/wiki/PG家長指引 \(梁漢文專輯\))转换而来。
+
+
 《**PG家長指引**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁漢文在](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")2000年發行的一張[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯同名作兼第二主打《PG家長指引》獲得[2000年度叱咤樂壇流行榜頒獎典禮專業推介](../Page/2000年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") 叱咤十大：第九位，是梁漢文首支獲得叱咤十大的歌曲。
 而此唱片亦是標誌著梁漢文歌路和形象上轉變，梁漢文在法國拍攝唱片封套時，在當地穿了耳洞，衣着打扮亦走龐克路線（Punk），有別於過往走大路抒情歌，鄰家男孩的形象\[1\]。
 

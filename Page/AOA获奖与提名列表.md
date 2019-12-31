@@ -1,3 +1,6 @@
+> 本文内容由[AOA获奖与提名列表](https://zh.wikipedia.org/wiki/AOA获奖与提名列表)转换而来。
+
+
 本列表列出了韩国女子组合[AOA获得的奖项与提名](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")。2014年2月9日，AOA凭歌曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》在韩国音乐节目《[SBS人气歌谣](https://zh.wikipedia.org/wiki/SBS人气歌谣 "wikilink")》获得了该组合的首个一位。
 
 ## 奖项与提名

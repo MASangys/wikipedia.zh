@@ -1,3 +1,6 @@
+> 本文内容由[Digital Homicide Studios](https://zh.wikipedia.org/wiki/Digital Homicide Studios)转换而来。
+
+
 **Digital Homicide Studios L.L.C.**，是一家总部位于美国[亚利桑那州](https://zh.wikipedia.org/wiki/亚利桑那州 "wikilink")[尤马的](../Page/尤馬縣_\(亞利桑那州\).md "wikilink")[游戏开发商](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")，由Robert Romine和James Oliver Romine Jr成立于2014年5月29日。该公司曾使用多个假名，包括**Imminent Uprising**和**ECC Games**（后更名为**Every Click Counts Games**）。该公司的第一款游戏《Forsaken Uprising》于2014年8月14日在[Steam](../Page/Steam.md "wikilink") Early Access发布，并在2014年12月3日完全发布。
 
 2016年3月4日，该公司的James Romine起诉[YouTube](../Page/YouTube.md "wikilink")频道、游戏评论家Jim Sterling“攻击、诽谤和中伤”，要求赔偿1000万[美元](../Page/美元.md "wikilink")，\[1\]\[2\]后来又升至1500万美元。\[3\]2016年9月12日，Romine以“人身伤害”额外起诉100名[Steam](../Page/Steam.md "wikilink")用户，要求总和1800万美元。\[4\][Valve拒绝提供](https://zh.wikipedia.org/wiki/Valve "wikilink")100个用户的身份。\[5\]\[6\]当天晚些时候，Valve将该工作室所有游戏从Steam商店下架，並對此回應“由於该公司敌视Steam用户，因此終止與該公司合作的業務”。\[7\]10月2日，Digital Homicide Studios放弃起诉Steam用户，Romine称该公司已“毁”于诉讼。\[8\]

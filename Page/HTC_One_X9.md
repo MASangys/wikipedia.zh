@@ -1,3 +1,6 @@
+> 本文内容由[HTC One X9](https://zh.wikipedia.org/wiki/HTC One X9)转换而来。
+
+
 **HTC One X9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機首次發表於北京時間的2015年12月24日。而後又在2016年[MWC上發表該機的國際版並追加金](https://zh.wikipedia.org/wiki/MWC "wikilink")、粉雙色。這部手機在全球市場定位上是屬於中階手機。
 
 ## 詳細規格

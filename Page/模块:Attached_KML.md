@@ -1,3 +1,6 @@
+> 本文内容由[模块:Attached KML](https://zh.wikipedia.org/wiki/模块:Attached KML)转换而来。
+
+
 \-- Note: Originally written on English Wikipedia as [w:en:Module:Attached_KML](https://zh.wikipedia.org/wiki/w:en:Module:Attached_KML "wikilink") -- \#\#\#\#\# Localisation (L10n) settings \#\#\#\#\# local L10n = {}
 
 \-- Template parameter names -- (replace values in quotes with local parameter names) L10n.para = {

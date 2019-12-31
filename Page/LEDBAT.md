@@ -1,3 +1,6 @@
+> 本文内容由[LEDBAT](https://zh.wikipedia.org/wiki/LEDBAT)转换而来。
+
+
 **低额外时延背景传输**（，简称**LEDBAT**）是一种在[互联网](../Page/互联网.md "wikilink")上快速传输而不拥塞网络的方法。\[1\]LEDBAT由Stanislav Shalunov发明\[2\]\[3\]，并被[苹果公司用于软件更新](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，和被[BitTorrent用于大多数传输](../Page/BitTorrent_\(协议\).md "wikilink")。\[4\]该算法预计被13%–20%的互联网流量使用。\[5\]\[6\]LEDBAT是一个基于[拥塞控制](../Page/拥塞控制.md "wikilink")的算法，它尽可能使用所有可用[带宽](../Page/带宽.md "wikilink")并限制[时延](../Page/时延.md "wikilink")增加；\[7\]\[8\]其测量单向时延，并在网络中使用LEDBAT流本身诱导网络的拥塞测量结果发生变化，从而做到拥塞控制。
 
 ## 设计目标

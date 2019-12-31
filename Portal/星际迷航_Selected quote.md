@@ -1,3 +1,6 @@
+> 本文内容由[Portal:星际迷航/Selected quote](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected quote)转换而来。
+
+
 ## 说明
 
   - The layout design for these subpages is at [Portal:星际迷航/Selected quote/Layout](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected_quote/Layout "wikilink").

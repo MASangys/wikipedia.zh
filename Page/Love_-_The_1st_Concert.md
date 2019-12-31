@@ -1,3 +1,6 @@
+> 本文内容由[Love - The 1st Concert](https://zh.wikipedia.org/wiki/Love - The 1st Concert)转换而来。
+
+
 《**LOVE (Digital Single)**》是李昇基在今年2月10號\~11號於首爾奧林匹克公園內的奧林匹克館舉行名為\<李昇基的首場演唱會…LOVE\>的現場收錄專輯。作為李昇基的第一次演唱會更是邀請了眾多歌手作為嘉賓出席,如PSY、Brian、EpikHigh、Eru、蔡妍等。
 
 在情人節前夕以愛情為主題的這次的演唱會分為3個部份：

@@ -1,3 +1,6 @@
+> 本文内容由[銀河美少女 Hearts](https://zh.wikipedia.org/wiki/銀河美少女 Hearts)转换而来。
+
+
 《**銀河美少女 Hearts**》（）是日本漫畫家天津冴的漫畫作品，在[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")連載，單行本是由[角川書店](../Page/角川書店.md "wikilink")發售共8冊\[1\]，中文版在臺灣是由[長鴻出版社](../Page/長鴻出版社.md "wikilink")代理發售。\[2\]另外在2003年發售《守護之心》\[3\]和2005年發售《守護之心 Power Up\!》\[4\]兩部OVA作品。
 
 ## 故事

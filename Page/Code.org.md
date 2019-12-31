@@ -1,3 +1,6 @@
+> 本文内容由[Code.org](https://zh.wikipedia.org/wiki/Code.org)转换而来。
+
+
 **Code.org** 是一个非盈利性组织由[Hadi Partovi兄弟](https://zh.wikipedia.org/wiki/Hadi_Partovi "wikilink")\[1\] 创建的与该组织同名的网站，其宗旨在于支持美国的学生学习[计算机科学](../Page/计算机科学.md "wikilink")。\[2\] 该网站为教育机构，以促进和提高其学校的计算机科学课程的目的，免费提供编程经验。\[3\] 于2013年12月9日至2013年12月15日，他们成功举行一个全国性的"编程一小时2013"宣传周活动, 来促进该国的计算机科学。\[4\]\[5\]\[6\]
 
 ## 历史

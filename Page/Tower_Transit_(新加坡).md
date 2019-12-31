@@ -1,3 +1,6 @@
+> 本文内容由[Tower Transit \(新加坡\)](https://zh.wikipedia.org/wiki/Tower Transit \(新加坡\))转换而来。
+
+
 **Tower Transit**，又名**易塔通**，是[新加坡](../Page/新加坡.md "wikilink")第三[公共巴士业者](../Page/公共交通.md "wikilink")，从2016年5月29日投入运作，分三个阶段接手[新捷运](../Page/新捷运.md "wikilink")和[SMRT现有的](../Page/SMRT巴士.md "wikilink")26条巴士路线。此业者是外包巴士路线配套的首个巴士业者。
 
 ## 歷史

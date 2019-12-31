@@ -1,3 +1,6 @@
+> 本文内容由[Citrus ～柑橘味香氣～](https://zh.wikipedia.org/wiki/Citrus ～柑橘味香氣～)转换而来。
+
+
 《**citrus ～柑橘味香氣～**》是[日本](../Page/日本.md "wikilink")女性[漫畫家三郎太](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（）所作，由[一迅社](../Page/一迅社.md "wikilink")出版的漫畫作品。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》，已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，簡體中文版由[布卡漫畫代理進行網路連載](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日開始播放。
 
 ## 故事簡介

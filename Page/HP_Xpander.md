@@ -1,3 +1,6 @@
+> 本文内容由[HP Xpander](https://zh.wikipedia.org/wiki/HP Xpander)转换而来。
+
+
 **HP Xpander**是一款由[惠普公司在](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")2001年设计的[图形计算器](../Page/图形计算器.md "wikilink")，但是在计划投入生产前的几个星期，这个项目被取消。\[1\]这款计算器可以使用触摸或键盘两种方式进行输入，拥有一个大尺寸的[灰度](https://zh.wikipedia.org/wiki/灰度 "wikilink")[触摸屏](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")（240×320）。HP Xpander机身采用[灰色](https://zh.wikipedia.org/wiki/灰色 "wikilink")[塑料](../Page/塑料.md "wikilink")和少部分半透明[蓝色塑料](https://zh.wikipedia.org/wiki/蓝色 "wikilink")，因此它看起来类似于[PDA](https://zh.wikipedia.org/wiki/PDA "wikilink")。
 
 HP Xpander采用了[日立SH](https://zh.wikipedia.org/wiki/日立 "wikilink")3处理器，拥有8 MB [RAM和](https://zh.wikipedia.org/wiki/RAM "wikilink")16 MB [ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")，其底层系统为[Windows CE 3.0](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")。为了适应课堂教学的设计目标，HP Xpander系统内预装了一个几何软件，但可惜的是它没有[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")（CAS）。

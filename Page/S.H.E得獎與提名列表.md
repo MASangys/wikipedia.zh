@@ -1,3 +1,6 @@
+> 本文内容由[S.H.E得獎與提名列表](https://zh.wikipedia.org/wiki/S.H.E得獎與提名列表)转换而来。
+
+
 <table>
 <caption><span style="font-size: 9pt"><strong><a href="../Page/S.H.E.md" title="wikilink">S.H.E</a>得獎與提名列表</strong></span></caption>
 <tbody>

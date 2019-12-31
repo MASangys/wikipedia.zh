@@ -1,3 +1,6 @@
+> 本文内容由[重案狙擊II](https://zh.wikipedia.org/wiki/重案狙擊II)转换而来。
+
+
 《**重案狙擊II**》（[英文](../Page/英语.md "wikilink")：），[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[ntv7時裝](https://zh.wikipedia.org/wiki/ntv7 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，製作單位為[新傳媒製作馬來西亞分公司](https://zh.wikipedia.org/wiki/新傳媒製作 "wikilink")，由[黃啟銘](https://zh.wikipedia.org/wiki/黃啟銘 "wikilink")、[吳俐璇](../Page/吳俐璇.md "wikilink")、[王淑君](../Page/王淑君.md "wikilink")、[曾玟偉](https://zh.wikipedia.org/wiki/曾玟偉 "wikilink")、[張詠華及](https://zh.wikipedia.org/wiki/張詠華 "wikilink")[陳俐杏領銜主演](https://zh.wikipedia.org/wiki/陳俐杏 "wikilink")，監製為[黃來發](https://zh.wikipedia.org/wiki/黃來發 "wikilink")，製作人為[楊錫彬](https://zh.wikipedia.org/wiki/楊錫彬 "wikilink")。
 
 ## 播出时间

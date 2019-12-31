@@ -1,3 +1,6 @@
+> 本文内容由[T觀點](https://zh.wikipedia.org/wiki/T觀點)转换而来。
+
+
 《**T觀點**》，[TVBS製播的談話節目](../Page/TVBS_\(頻道\).md "wikilink")，2015年7月5日開播，目前節目由[莊開文](../Page/莊開文.md "wikilink")主持。
 
 ## 播出時間

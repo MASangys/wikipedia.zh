@@ -1,3 +1,6 @@
+> 本文内容由[铁拳 Tag Tournament 2](https://zh.wikipedia.org/wiki/铁拳 Tag Tournament 2)转换而来。
+
+
 是[格斗游戏系列](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")[铁拳的第八部正统续作](../Page/铁拳系列.md "wikilink")。最初的[街机](../Page/街机.md "wikilink")版本于2011年9月14日在日本推出，随后在2012年3月37日推出了副标题为“Unlimited”的升级版. 基于最新版本街机进行移植的家用机版本于2012年9月发行，平台为[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")，同年11月发行了[Wii U版](../Page/Wii_U.md "wikilink")。
 
 ## 参考资料

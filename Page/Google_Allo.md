@@ -1,3 +1,6 @@
+> 本文内容由[Google Allo](https://zh.wikipedia.org/wiki/Google Allo)转换而来。
+
+
 **Allo**是[Google](../Page/Google.md "wikilink")开发的一个[即时通讯](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")[应用](https://zh.wikipedia.org/wiki/移动应用程序 "wikilink")，其内置了一个[虚拟助手](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")[Google Assistant](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")，还提供了“智能回复”功能，允许用户不用打字即可回复消息。\[1\]Google在2016年5月18日的[I/O大会首次宣布这款应用](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[2\]，并于2016年9月21日将其正式推出\[3\]。这款应用同时提供[Android](../Page/Android.md "wikilink")和[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[4\]Google默认停用新推出的Allo聊天应用中的加密功能，這樣可能導致被竊聽或被[政府监视](../Page/大规模监控.md "wikilink")。現該項目已遭Google暫停開發，轉往新的RCS訊息應用平台。\[5\]2019年3月后停止工作\[6\]。
 
 ## 软件历史

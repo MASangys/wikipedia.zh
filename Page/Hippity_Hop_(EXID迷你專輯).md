@@ -1,3 +1,6 @@
+> 本文内容由[Hippity Hop \(EXID迷你專輯\)](https://zh.wikipedia.org/wiki/Hippity Hop \(EXID迷你專輯\))转换而来。
+
+
 《**Hippity Hop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID首張迷你專輯](https://zh.wikipedia.org/wiki/EXID "wikilink")，於2012年8月13日發行。
 
 ## 簡介

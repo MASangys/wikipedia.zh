@@ -1,3 +1,6 @@
+> 本文内容由[騎馬與砍殺II：領主](https://zh.wikipedia.org/wiki/騎馬與砍殺II：領主)转换而来。
+
+
 是一款由[TaleWorlds](../Page/TaleWorlds.md "wikilink")開發的中世紀背景[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，是2007年[TaleWorlds](../Page/TaleWorlds.md "wikilink")開發游戏《[骑马与砍杀](https://zh.wikipedia.org/wiki/骑马与砍杀 "wikilink")》的续作。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[通用Windows平台](https://zh.wikipedia.org/wiki/通用Windows平台)转换而来。
+
+
 **通用Windows平台**（**Universal Windows Platform**，简称**UWP**）是[微软](../Page/微软.md "wikilink")公司建立并在[Windows 10中首次引入的一个同性質應用程式架构平台](../Page/Windows_10.md "wikilink")。此软件平台的目的是帮助发展[Metro样式的應用程式](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，便于軟體可以在[Windows 10和](../Page/Windows_10.md "wikilink")[Windows 10 Mobile上執行且无需重新編寫](https://zh.wikipedia.org/wiki/Windows_10行動版 "wikilink")。它支援使用[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[VB.NET或](../Page/Visual_Basic_.NET.md "wikilink")[XAML](../Page/XAML.md "wikilink")开发的[Windows應用程式](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。API采用C++实现，并支持C++、VB.NET、C\#和[JavaScript](../Page/JavaScript.md "wikilink")。\[1\]UWP在[Windows Server 2012和](../Page/Windows_Server_2012.md "wikilink")[Windows 8中作为一个](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows Runtime平台的扩展被首次引入](../Page/Windows_Runtime.md "wikilink")，允许开发者创建可潜在运行在多种设备类型上的应用程序。\[2\]
 
 ## 兼容性

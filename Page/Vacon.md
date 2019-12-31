@@ -1,3 +1,6 @@
+> 本文内容由[Vacon](https://zh.wikipedia.org/wiki/Vacon)转换而来。
+
+
 **Vacon**中文翻成**伟肯**或**瓦肯**，曾經是一家位在[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[瓦萨](../Page/瓦萨.md "wikilink")的電機公司，1993年成立，製造[馬達變頻器及](https://zh.wikipedia.org/wiki/變頻器 "wikilink")[再生能源](https://zh.wikipedia.org/wiki/再生能源 "wikilink")[變流器製造商](https://zh.wikipedia.org/wiki/變流器 "wikilink")，已在2014年底和公司合并，但仍保留Vacon的[品牌](../Page/品牌.md "wikilink")。
 
 Vacon的股票曾是赫爾辛基股市（NASDAQ OMX Helsinki）的主要股票之一，2013年時Vacon的盈餘約為4.03億歐元，公司約有1600人。

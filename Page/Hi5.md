@@ -1,3 +1,6 @@
+> 本文内容由[Hi5](https://zh.wikipedia.org/wiki/Hi5)转换而来。
+
+
 \-{T|hi5}-
 
 **hi5**是一座总部位于美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")的[社交網路服務](../Page/社交網路服務.md "wikilink")，于2003年成立、2004年推出正式服务。[TechCrunch](../Page/TechCrunch.md "wikilink")曾预言称到2007年hi5将成为全球第二大社交网络，仅次于[Myspace](../Page/Myspace.md "wikilink")。\[1\]2008年，报道称hi5是世界上最流行的社交网站之一（第3名），仅次于[Facebook](../Page/Facebook.md "wikilink")和MySpace。\[2\]2011年12月，（原名）收购了hi5，价格不明。\[3\]\[4\]

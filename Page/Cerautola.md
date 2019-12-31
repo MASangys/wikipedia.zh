@@ -1,3 +1,6 @@
+> 本文内容由[Cerautola](https://zh.wikipedia.org/wiki/Cerautola)转换而来。
+
+
 ***Cerautola***是[灰蝶科](../Page/灰蝶科.md "wikilink")[圓灰蝶亞科](../Page/圓灰蝶亞科.md "wikilink")[琳灰蝶族](../Page/琳灰蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於非洲，[兩性異形](https://zh.wikipedia.org/wiki/兩性異形 "wikilink")。本屬由Libert (1999) 在[蛺灰蝶屬](../Page/蛺灰蝶屬.md "wikilink")分離出來\[1\]。
 
 ## 物種

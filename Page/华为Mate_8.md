@@ -1,3 +1,6 @@
+> 本文内容由[华为Mate 8](https://zh.wikipedia.org/wiki/华为Mate 8)转换而来。
+
+
 **Huawei Mate 8**是[华为](../Page/华为.md "wikilink")在2015年11月推出的一款高端[Android](../Page/Android.md "wikilink")智能手机。
 
 作为华为Mate7的后续版本，Mate8继承了Mate7的设计风格，仅在细节方面有些许调整，同样采用了6.0英寸的全高清显示屏以及2.5D弧面玻璃，并搭载了[海思Kirin](../Page/海思半導體.md "wikilink")950芯片和Android 6.0操作系统。\[1\]

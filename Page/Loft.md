@@ -1,3 +1,6 @@
+> 本文内容由[Loft](https://zh.wikipedia.org/wiki/Loft)转换而来。
+
+
 **株式會社Loft**（，）是經營[生活雜貨連鎖店](../Page/日用品.md "wikilink")「Loft」的企業。屬[7\&I控股](../Page/7&I控股.md "wikilink")旗下[崇光·西武的子公司](https://zh.wikipedia.org/wiki/崇光·西武 "wikilink")，過去是舊的一員。
 
 登記上的本店所在地為[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[宇田川町](../Page/宇田川町.md "wikilink")，本社事務所為[千代田區](../Page/千代田區.md "wikilink")[二番町](../Page/二番町_\(千代田區\).md "wikilink")。

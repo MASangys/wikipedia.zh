@@ -1,3 +1,6 @@
+> 本文内容由[Out of the Blue](https://zh.wikipedia.org/wiki/Out of the Blue)转换而来。
+
+
 《**Out of the Blue**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳凱彤](../Page/陳凱彤.md "wikilink")的第二張音樂專輯，於2016年5月26日推出。
 
 ## 曲目

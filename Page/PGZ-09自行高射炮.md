@@ -1,3 +1,6 @@
+> 本文内容由[PGZ-09自行高射炮](https://zh.wikipedia.org/wiki/PGZ-09自行高射炮)转换而来。
+
+
 [PGZ-09_Self-propelled_anti-aircraft_artillery_20170902.jpg](https://zh.wikipedia.org/wiki/File:PGZ-09_Self-propelled_anti-aircraft_artillery_20170902.jpg "fig:PGZ-09_Self-propelled_anti-aircraft_artillery_20170902.jpg") **PGZ-09自行高射炮**（又称：**09式35毫米自行高射炮**）是一輛由中國自行研制的[自行高射炮](../Page/自行防空系统.md "wikilink")，为[90式高射炮](../Page/歐瑞康GDF雙管高射炮.md "wikilink")（歐瑞康GDF-002的中國特許生產版本；又称：PG99）的[自行高射炮化版本](../Page/自行防空系统.md "wikilink")。
 
 PGZ-09接替[PGZ-95所担负的部队野战防空任务](../Page/PGZ-95自行高射炮.md "wikilink")。该新型高炮的研制成功使中国首度具备对高机动末端的防空能力，可对50米至5,000米范围以内的[直升机](https://zh.wikipedia.org/wiki/直升机 "wikilink")、[无人机](https://zh.wikipedia.org/wiki/无人机 "wikilink")、[巡航导弹](../Page/巡航导弹.md "wikilink")等常规飞行目标进行有效拦截，使得解放军在这一领域达到发达国家（比如裝備了[獵豹式防空坦克的](https://zh.wikipedia.org/wiki/獵豹式防空坦克 "wikilink")[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")）同类装备水平。

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Guidedtour-tour-twa3.js](https://zh.wikipedia.org/wiki/MediaWiki:Guidedtour-tour-twa3.js)转换而来。
+
+
 // The Wikipedia Adventure Mission 3
 
 ( function ( window, document, $, mw, gt ) {

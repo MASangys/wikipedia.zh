@@ -1,3 +1,6 @@
+> 本文内容由[RPG Maker MV](https://zh.wikipedia.org/wiki/RPG Maker MV)转换而来。
+
+
 **RPG Maker MV**為[角色扮演遊戲的製作工具](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")。由[KADOKAWA](../Page/KADOKAWA.md "wikilink")的尾島陽兒帶領製作、[Spike Chunsoft販售](../Page/Spike_Chunsoft.md "wikilink")。Steam多語言（含中文）版在2015年10月23日發售\[1\]，日文版在2015年12月17日發售。
 
 ## 概要

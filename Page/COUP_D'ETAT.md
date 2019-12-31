@@ -1,3 +1,6 @@
+> 本文内容由[COUP D\'ETAT](https://zh.wikipedia.org/wiki/COUP D\'ETAT)转换而来。
+
+
 《**COUP D'ETAT**》是韓國流行音樂歌手[G-Dragon](../Page/G-Dragon.md "wikilink")的第二張正規專輯，此專輯總共收錄了14首新歌其中4首為專輯的主打歌。主打歌分別是〈BLACK〉、〈WHO YOU?〉、〈放縱〉以及〈Niliria〉\[1\]。在2013年9月2日在線上發行Part 1音樂和MV、2013年9月5日在線上發行Part 2音樂和MV。最後，在2013年9月13日發行實體專輯\[2\]。
 
 ## 概要

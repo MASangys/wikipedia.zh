@@ -1,3 +1,6 @@
+> 本文内容由[Google Fuchsia](https://zh.wikipedia.org/wiki/Google Fuchsia)转换而来。
+
+
 **Fuchsia**是[Google](../Page/Google.md "wikilink")开发的[操作系统](../Page/操作系统.md "wikilink")\[1\]。和以前該公司开发的操作系统，如基于[Linux内核](../Page/Linux内核.md "wikilink")的[Chrome OS和](../Page/Chrome_OS.md "wikilink")[Android](../Page/Android.md "wikilink")等不同，Fuchsia基于新的名为Zircon的[微内核](https://zh.wikipedia.org/wiki/微内核 "wikilink")\[2\]，受Little Kernel启发\[3\]，用于嵌入式系统，主要使用[C语言和C](https://zh.wikipedia.org/wiki/C语言 "wikilink")++编写\[4\]。Fuchsia的设计目标之一是可运行在众多的设备上，包括[移动电话](../Page/移动电话.md "wikilink")和[个人电脑](../Page/个人电脑.md "wikilink")。\[5\]
 
 Fuchsia在[GitHub](../Page/GitHub.md "wikilink")的[象征是一个](https://zh.wikipedia.org/wiki/象征 "wikilink")[紫红色的无限符号](https://zh.wikipedia.org/wiki/紫红色 "wikilink")。

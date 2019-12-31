@@ -1,3 +1,6 @@
+> 本文内容由[MOBB](https://zh.wikipedia.org/wiki/MOBB)转换而来。
+
+
 **MOBB**（）是[YG娛樂](../Page/YG娛樂.md "wikilink")於2016年9月所推出的新組合，由旗下兩組團體[WINNER](../Page/WINNER.md "wikilink")的成員[MINO以及](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")[iKON的成員](https://zh.wikipedia.org/wiki/iKON "wikilink")[BOBBY所組成的小分隊](../Page/金知元_\(饒舌者\).md "wikilink")。並於2016年9月9日發行數位單曲《HIT ME》（）以及《FULL HOUSE》（）\[1\]。
 
 ## 經歷

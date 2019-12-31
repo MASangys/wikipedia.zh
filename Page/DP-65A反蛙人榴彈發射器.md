@@ -1,3 +1,6 @@
+> 本文内容由[DP-65A反蛙人榴彈發射器](https://zh.wikipedia.org/wiki/DP-65A反蛙人榴彈發射器)转换而来。
+
+
 **DP-65A**（；俄羅斯海軍編號：，）\[1\]\[2\]\[3\]是一台由[俄罗斯](../Page/俄罗斯.md "wikilink")（；）所研製和生產的特別緊湊型十管式[遙控式海軍反](../Page/遙控武器系統.md "wikilink")[蛙人](https://zh.wikipedia.org/wiki/蛙人 "wikilink")[榴彈發射器系統](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是七管式榴彈發射系統的改進型，並保有手動控制模式，發射55毫米RG-55M反蛙人榴彈。
 
 ## 概述

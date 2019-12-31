@@ -1,3 +1,6 @@
+> 本文内容由[Monstercat](https://zh.wikipedia.org/wiki/Monstercat)转换而来。
+
+
 **Monstercat**（前称**Monstercat Media**）是一家位于[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")的独立[电子舞曲](https://zh.wikipedia.org/wiki/电子舞曲 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。从2011年开始，公司每周发布三首新曲；2018年开始每周分别在频道Monstercat: Uncaged和Monstercat: Instinct发布两首新曲。\[1\]从2014年开始，每周进行一次播客，名为Monstercat Podcast（\#1-\#151及Uncaged Vol.1）；2017年5月更名为Monstercat:Call of the Wild(COTW)。
 
 ## 音樂製作人

@@ -1,3 +1,6 @@
+> 本文内容由[M.2](https://zh.wikipedia.org/wiki/M.2)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:M.2_and_mSATA_SSDs_comparison.jpg "fig:右") (左) 与 M.2 2242 SSD (右) 的尺寸对比\]\] [Intel_512G_M2_Solid_State_Drive.png](https://zh.wikipedia.org/wiki/File:Intel_512G_M2_Solid_State_Drive.png "fig:Intel_512G_M2_Solid_State_Drive.png") **M.2**，也稱为**Next Generation Form Factor** (**NGFF**)，是[计算机内部扩展卡及相关](https://zh.wikipedia.org/wiki/计算机 "wikilink")[连接器规范](https://zh.wikipedia.org/wiki/连接器 "wikilink")。其採用了全新的物理布局和连接器，将取代[PCI Express Mini及與PCI](../Page/PCI_Express.md "wikilink") Express Mini 相容的[mSATA标准](https://zh.wikipedia.org/wiki/SATA#mSATA "wikilink")。M.2具有灵活的物理规范，允许更多種類的模块宽度与长度，并與更高级的[接口相配](../Page/介面_\(資訊科技\).md "wikilink")，使M.2比mSATA更适合日常應用，尤其是用於[超级本或](https://zh.wikipedia.org/wiki/超级本 "wikilink")[平板电脑等设备的](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[固态硬盘](../Page/固态硬盘.md "wikilink")。\[1\]\[2\]\[3\]理論上M.2介面最多可提供PCI Express x4的帶寬。
 
 [计算机总线将M](../Page/总线.md "wikilink").2连接器轉化为[PCI Express 3.0](../Page/PCI_Express.md "wikilink")（最多4个通道）、[Serial ATA 3.0或](../Page/SATA.md "wikilink")[USB 3.0接口](../Page/USB_3.0.md "wikilink")，后两者則配備单个逻辑端口。M.2连接器有几种不同的固定槽，代表著M.2主机和模块不同的目的和功能，避免用户將M.2模块插入到功能不兼容的主机连接器中。\[4\]\[5\]\[6\]

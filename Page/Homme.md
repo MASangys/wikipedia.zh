@@ -1,3 +1,6 @@
+> 本文内容由[Homme](https://zh.wikipedia.org/wiki/Homme)转换而来。
+
+
 **Homme**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，由[李昶旻](../Page/李昶旻.md "wikilink")、[李賢所組成](../Page/李賢_\(韓國歌手\).md "wikilink")，於2010年7月28日透過首張單曲《밥만 잘 먹더라》 出道\[1\]。隸屬[Big Hit娛樂經紀公司旗下](../Page/Big_Hit娛樂.md "wikilink")，為Big Hit娛樂創辦人與音樂製作人[房時爀](../Page/房時爀.md "wikilink")於2010年推出的限定企劃團體，之後成為常態活動的團體。
 
 ## 經歷

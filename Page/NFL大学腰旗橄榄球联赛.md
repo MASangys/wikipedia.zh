@@ -1,3 +1,6 @@
+> 本文内容由[NFL大学腰旗橄榄球联赛](https://zh.wikipedia.org/wiki/NFL大学腰旗橄榄球联赛)转换而来。
+
+
 **NFL“大学碗”大学腰旗橄榄球联赛**是[美国](../Page/美国.md "wikilink")[国家橄榄球联盟](https://zh.wikipedia.org/wiki/国家橄榄球联盟 "wikilink")（）为推广[美式橄榄球运动而于](https://zh.wikipedia.org/wiki/美式橄榄球 "wikilink")2008年起在[中国举办的一项大学](https://zh.wikipedia.org/wiki/中国 "wikilink")[腰旗橄榄球比赛](https://zh.wikipedia.org/wiki/腰旗橄榄球 "wikilink")。
 
 ## 历届大学碗冠军

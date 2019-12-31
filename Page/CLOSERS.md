@@ -1,3 +1,6 @@
+> 本文内容由[CLOSERS](https://zh.wikipedia.org/wiki/CLOSERS)转换而来。
+
+
 韓國遊戲廠Naddic集合了包括知名線上遊戲《[艾爾之光](../Page/艾爾之光.md "wikilink")》前開發者以及研發其他遊戲的人們所組成的團隊\[1\]，而《封印者：CLOSERS》是款描述擁有異能力的Closer與異界生命體戰鬥的動作線上遊戲，以動漫畫風的人物設定與劇情，結合高速動作為特色。
 
 ## 設定

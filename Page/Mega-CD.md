@@ -1,3 +1,6 @@
+> 本文内容由[Mega-CD](https://zh.wikipedia.org/wiki/Mega-CD)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[電子遊戲發行商](../Page/電子遊戲發行商.md "wikilink")[世嘉](../Page/世嘉.md "wikilink")於1991年12月在日本、1992年10月在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、1993年4月在歐洲發行的[家用遊戲機硬體](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")，是世嘉於1988年發售的[16位元家用遊戲機](https://zh.wikipedia.org/wiki/16位元 "wikilink")[Mega Drive/SEGA Genesis的外接配件之一](../Page/Mega_Drive.md "wikilink")\[1\]\[2\]。
 
 Mega-CD以[光碟](../Page/光碟.md "wikilink")為儲存媒介。光碟的儲存空間較當時大多數家用遊戲機所使用的[卡帶大上許多](https://zh.wikipedia.org/wiki/ROM卡帶 "wikilink")，甚至可包含[全動態影像](https://zh.wikipedia.org/wiki/全動態影像 "wikilink")，最著名的例子為1992年發售的《》\[3\]\[4\]。

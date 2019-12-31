@@ -1,3 +1,6 @@
+> 本文内容由[Specialist](https://zh.wikipedia.org/wiki/Specialist)转换而来。
+
+
 ，是[朝日電視臺在](https://zh.wikipedia.org/wiki/朝日電視臺 "wikilink")2013至2015播放的4輯兩小時單發犯罪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，及後於2016年播放電視連續劇續集。由[草彅剛](../Page/草彅剛.md "wikilink")主演。
 
 ## 劇情概要

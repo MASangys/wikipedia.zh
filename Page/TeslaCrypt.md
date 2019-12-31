@@ -1,3 +1,6 @@
+> 本文内容由[TeslaCrypt](https://zh.wikipedia.org/wiki/TeslaCrypt)转换而来。
+
+
 **TeslaCrypt**是一個曾經專事[勒索的](../Page/勒索軟體.md "wikilink")[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")。而目前該程式已宣告終止，加密金鑰也已被其開發者公布。[ESET](../Page/ESET.md "wikilink")公司據其金鑰已開發出對應的解密軟體。<span class="cx-segment" data-segmentid="51"></span>
 
 早期的TeslaCrypt針對電腦遊戲資料進行加密。\[1\]\[2\]\[3\]\[4\]新版本的TeslaCrypt則像其他勒索軟體一樣，對使用者的其他檔案一併加密。

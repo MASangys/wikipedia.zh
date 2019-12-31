@@ -1,3 +1,6 @@
+> 本文内容由[尼爾森NV](https://zh.wikipedia.org/wiki/尼爾森NV)转换而来。
+
+
 **尼爾森NV**（Nielsen Holdings N.V.）是一家全球性的資訊和市場測量公司，總部位於[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 ## 历史

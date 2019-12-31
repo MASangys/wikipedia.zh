@@ -1,3 +1,6 @@
+> 本文内容由[Pastel \(聲優組合\)](https://zh.wikipedia.org/wiki/Pastel \(聲優組合\))转换而来。
+
+
 **Pastel**（）是[日本](../Page/日本.md "wikilink")的一個[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。
 
 ## 概要

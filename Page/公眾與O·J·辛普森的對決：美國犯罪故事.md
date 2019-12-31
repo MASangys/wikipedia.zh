@@ -1,3 +1,6 @@
+> 本文内容由[公眾與O·J·辛普森的對決：美國犯罪故事](https://zh.wikipedia.org/wiki/公眾與O·J·辛普森的對決：美國犯罪故事)转换而来。
+
+
 《**公眾與O·J·辛普森的對決：美國犯罪故事**》（）為[FX](https://zh.wikipedia.org/wiki/FX_\(電視頻道\) "wikilink")[詩選劇](https://zh.wikipedia.org/wiki/詩選劇 "wikilink")《[美國犯罪故事](../Page/美國犯罪故事.md "wikilink")》（）的第一季。由開創，於2016年2月2日在FX開播。\[1\]\[2\]\[3\]本季聚焦於曾轟動全美關注的[辛普森案](../Page/辛普森案.md "wikilink")，並改編編著的《逃離人生：公眾與O·J·辛普森的對決》（）一書。\[4\]
 
 本季在首播後，獲得影評家廣泛的讚譽，並榮獲[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")22項入圍、最終抱回9座獎項殊榮，同時亦受[金球獎](../Page/金球獎.md "wikilink")、[英國影藝學院電視獎](https://zh.wikipedia.org/wiki/英國學術電視獎 "wikilink")、[美國電影學會獎](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")、 [美國製片人協會獎](https://zh.wikipedia.org/wiki/美國製片人協會 "wikilink")、[美國編劇工會獎](https://zh.wikipedia.org/wiki/美國編劇工會獎 "wikilink")、、[美國演員工會獎](../Page/美國演員工會獎.md "wikilink")、與[衛星獎等多項大獎肯定](https://zh.wikipedia.org/wiki/衛星獎 "wikilink")，[莎拉·保羅森也在各大獎中斬獲多座女演員獎](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")。

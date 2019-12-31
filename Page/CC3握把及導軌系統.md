@@ -1,3 +1,6 @@
+> 本文内容由[CC3握把及導軌系統](https://zh.wikipedia.org/wiki/CC3握把及導軌系統)转换而来。
+
+
 **CC3握把及導軌系統**（CC3 Grip & Rail System）是由[以色列](../Page/以色列.md "wikilink")輕武器工程師塔米爾·博納特（Tamir Porat，[IMI TAR-21突擊步槍的設計者](../Page/IMI_TAR-21突擊步槍.md "wikilink")）設計與生產、[美国](../Page/美国.md "wikilink")恢復戰術公司公司（Recover Tactical）銷售、專為全尺寸[M1911手槍](../Page/M1911手槍.md "wikilink")系列設計的戰術握把套件。其設計目的是在不對M1911手槍作任何改動的情況以下，就可藉由[MIL-STD-1913戰術導軌安裝](../Page/皮卡汀尼導軌.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器等附件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。即是讓原來沒有下掛戰術附件能力的手槍轉變為具有戰術導軌，以方便近距離作戰，並能提高該槍的時尚感與[人體工學](../Page/人因工程学.md "wikilink")。
 
 ## 概述

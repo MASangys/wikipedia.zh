@@ -1,3 +1,6 @@
+> 本文内容由[Kajira](https://zh.wikipedia.org/wiki/Kajira)转换而来。
+
+
 [Kajira-kef.svg](https://zh.wikipedia.org/wiki/File:Kajira-kef.svg "fig:Kajira-kef.svg") **Kajira**是约翰·诺曼的小说《Gor》中“女奴”一词。
 
 ## 术语

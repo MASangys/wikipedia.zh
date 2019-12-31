@@ -1,3 +1,6 @@
+> 本文内容由[Dhat症候群](https://zh.wikipedia.org/wiki/Dhat症候群)转换而来。
+
+
 **Dhat症候群**（英語：Dhat syndrome，[梵语](../Page/梵语.md "wikilink")：धातु दोष，[IAST](../Page/IAST.md "wikilink")：Dhātu doṣa）又稱**Dhat綜合症**、**永恆本質綜合症**、**泄精症**\[1\]，是一種存在於[印度](../Page/印度.md "wikilink")[男性](../Page/男性.md "wikilink")間的[心理疾病](https://zh.wikipedia.org/wiki/心理疾病 "wikilink")，其中患者有[早洩及](https://zh.wikipedia.org/wiki/早洩 "wikilink")[陽痿的抱怨](../Page/勃起功能障碍.md "wikilink")，並相信他們尿內含有精液（前列腺精囊液的自然溢出，禁欲的一种生理性反应\[2\]）。該病沒有任何已知的器質性病變。\[3\]
 
 [印度教](../Page/印度教.md "wikilink")傳統上認為，[精液是一種](https://zh.wikipedia.org/wiki/精液 "wikilink")「重要的液體」 \[4\]這種“重要的液體”的流失，無論是通過[性交](../Page/性交.md "wikilink")或[自慰](../Page/自慰.md "wikilink")，都與[焦慮](../Page/焦慮.md "wikilink")和煩躁不安的心情有明顯的關係。患者經常主訴尿液中含有白色的液體，並認為這會導致精液的流失。\[5\]患者亦有與「過度[自慰](../Page/自慰.md "wikilink")」相關的罪惡感。

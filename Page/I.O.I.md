@@ -1,3 +1,6 @@
+> 本文内容由[I.O.I](https://zh.wikipedia.org/wiki/I.O.I)转换而来。
+
+
 **I.O.I**（）\[1\]，依據 [Mnet](../Page/Mnet.md "wikilink") 節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》的出道承諾於2016年成立的韓國女子[期間限定團體](../Page/期間限定團體.md "wikilink")，有十一名成員\[2\]：[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[鄭彩娟](https://zh.wikipedia.org/wiki/鄭彩娟 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、[金素慧](../Page/金素慧.md "wikilink")、[俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")、[磪有情](../Page/磪有情.md "wikilink")、[康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[金度延](../Page/金度延.md "wikilink")和[全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")\[3\]。林娜榮由成員們互相投票獲選為隊長\[4\]。依約定I.O.I 以[YMC娛樂旗下藝人的身份進行固定期限的活動](../Page/Imagine_Asia.md "wikilink")，於2016年5月4日正式出道，2017年1月29日正式解散\[5\]\[6\]，共271天。
 
 團名I.O.I意思是**Ideal Of Idol**。團隊問候口號及手勢：口號是「Yes！I love it！我們是 I.O.I，大家好！」口號開始的同時，右手在右肩前拇指與四指合併旋轉並順向滑至左肩前，讓拇指與食指呈「指愛心發射」手勢。。

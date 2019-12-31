@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Azure 儲存體](https://zh.wikipedia.org/wiki/Microsoft Azure 儲存體)转换而来。
+
+
 **Azure 儲存服務** (Azure Storage) 是 [Microsoft Azure](../Page/Microsoft_Azure.md "wikilink") 平台內實作的資料儲存服務，目前為 Azure 平台服務的主要資料保存地。
 
 Azure 儲存服務提供了四種不同格式的儲存體，用來提供給Azure上運行的應用程式儲存資料使用。依據不同的儲存格式會有不同的限制，因為這些儲存服務都是以分散式巨量儲存（Distributed Mass Storage）為核心概念所設計出來的，為了要達成快速在分散式儲存空間中儲存與管理資料（還包含高可用度的贅餘儲存管理），微軟有在資料的儲存上做一些限制。

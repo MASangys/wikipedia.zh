@@ -1,3 +1,6 @@
+> 本文内容由[Kimiko](https://zh.wikipedia.org/wiki/Kimiko)转换而来。
+
+
 **林睿君**（），藝名**Kimiko**，生於[臺灣](../Page/臺灣.md "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")[恆春鎮](https://zh.wikipedia.org/wiki/恆春鎮 "wikilink")，舞蹈老師、女藝人。\[1\]\[2\]\[3\]\[4\]
 
 ## 生平

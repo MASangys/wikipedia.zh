@@ -1,3 +1,6 @@
+> 本文内容由[Diva \(電視網\)](https://zh.wikipedia.org/wiki/Diva \(電視網\))转换而来。
+
+
 **Diva**是[NBC環球](../Page/NBC環球.md "wikilink")旗下所有的衛星及有線電視頻道，節目主要傾向女性節目。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Seoulite](https://zh.wikipedia.org/wiki/Seoulite)转换而来。
+
+
 《**Seoulite**》是韓國女歌手[李遐怡](../Page/李遐怡.md "wikilink")的[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，分為半專輯及完整專輯2次發行。由[YG娛樂](../Page/YG娛樂.md "wikilink")製作，半專輯以線上音源形式於2016年3月9日發行\[1\]，主打曲為〈牽我的手〉及〈嘆息〉；完整專輯的線上音源於2016年4月20日公開，實體專輯則於4月27日發行，主打曲為〈My Star〉。
 
 ## 背景

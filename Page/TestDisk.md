@@ -1,3 +1,6 @@
+> 本文内容由[TestDisk](https://zh.wikipedia.org/wiki/TestDisk)转换而来。
+
+
 **TestDisk**是一款[自由开源的](../Page/自由及开放源代码软件.md "wikilink")[数据恢复工具](https://zh.wikipedia.org/wiki/数据恢复 "wikilink")，主要设计用来帮助恢复丢失的磁盘[分区](https://zh.wikipedia.org/wiki/分区 "wikilink")，修复无法引导的磁盘中的软件问题，以及特定种类的病毒或人类过失（例如不慎抹除分区表）。 TestDisk也可用来收集关于某个损坏磁盘的详细信息，可以用来送给技师进一步分析。
 
 ## 操作系统支持

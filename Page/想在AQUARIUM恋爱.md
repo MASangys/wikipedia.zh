@@ -1,3 +1,6 @@
+> 本文内容由[想在AQUARIUM恋爱](https://zh.wikipedia.org/wiki/想在AQUARIUM恋爱)转换而来。
+
+
 **《想在AQUARIUM恋爱》**（）是[Aqours](../Page/Aqours.md "wikilink")的第二首单曲，2016年4月27日由[Lantis](../Page/Lantis.md "wikilink")发行\[1\]。
 
 ## 概要

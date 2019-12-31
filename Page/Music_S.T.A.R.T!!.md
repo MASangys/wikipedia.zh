@@ -1,3 +1,6 @@
+> 本文内容由[Music S.T.A.R.T!!](https://zh.wikipedia.org/wiki/Music S.T.A.R.T!!)转换而来。
+
+
 **《Music S.T.A.R.T\!\!》**是[μ's的单曲第](https://zh.wikipedia.org/wiki/μ's "wikilink")6作，于2013年11月27日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

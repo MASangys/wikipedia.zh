@@ -1,3 +1,6 @@
+> 本文内容由[電車GO!](https://zh.wikipedia.org/wiki/電車GO!)转换而来。
+
+
 是一款由[太东制作和发行的](https://zh.wikipedia.org/wiki/太东 "wikilink")[模拟经营游戏](../Page/模拟经营游戏.md "wikilink")。\[1\]本游戏最初于1997年3月[街机](../Page/街机.md "wikilink")发行，游戏后移植至[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")。\[2\] 1997年9月，本游戏的加强版《電車GO\!EX》发行。本游戏后移植至[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 游戏内容

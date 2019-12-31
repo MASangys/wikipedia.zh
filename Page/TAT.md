@@ -1,3 +1,6 @@
+> 本文内容由[TAT](https://zh.wikipedia.org/wiki/TAT)转换而来。
+
+
 **TAT**或**Tat**可以指：
 
 ## 民族學

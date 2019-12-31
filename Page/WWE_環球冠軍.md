@@ -1,3 +1,6 @@
+> 本文内容由[WWE 環球冠軍](https://zh.wikipedia.org/wiki/WWE 環球冠軍)转换而来。
+
+
 [Finn_Balor_Wm31Axxess.jpg](https://zh.wikipedia.org/wiki/File:Finn_Balor_Wm31Axxess.jpg "fig:Finn_Balor_Wm31Axxess.jpg")\]\]
 
 **WWE環球冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[Raw的一世界重量級冠軍項目](../Page/WWE_Raw.md "wikilink")。\[1\]\[2\]\[3\]

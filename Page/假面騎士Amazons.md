@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Amazons](https://zh.wikipedia.org/wiki/假面騎士Amazons)转换而来。
+
+
 《**假面騎士Amazons**》（，），是[日本](../Page/日本.md "wikilink")[東映株式會社的](https://zh.wikipedia.org/wiki/東映株式會社 "wikilink")[特攝片集](https://zh.wikipedia.org/wiki/特攝 "wikilink")，為《假面騎士系列》首輯原創網路劇。2016年4月1日起在Amazon Prime・video 放映，同週五提供播放，首季共13集。第二季從2017年4月7日起於Amazon Prime・video放映。
 
 ## 製作流程及本作特色

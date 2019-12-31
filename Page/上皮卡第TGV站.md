@@ -1,3 +1,6 @@
+> 本文内容由[上皮卡第TGV站](https://zh.wikipedia.org/wiki/上皮卡第TGV站)转换而来。
+
+
 **上皮卡第TGV站**（）是法国北部的一个高速铁路车站，位于[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[上法兰西大区境内](https://zh.wikipedia.org/wiki/上法兰西大区 "wikilink")。
 
 ## 位置

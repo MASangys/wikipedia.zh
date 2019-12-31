@@ -1,3 +1,6 @@
+> 本文内容由[Show Me The Money](https://zh.wikipedia.org/wiki/Show Me The Money)转换而来。
+
+
 **Show Me The Money**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet制作并播出的大型](../Page/Mnet媒體.md "wikilink")[Hiphop](../Page/嘻哈音樂.md "wikilink")[选秀节目](../Page/真人實境秀.md "wikilink")，第一季于2012年在[Mnet](../Page/Mnet.md "wikilink")首播。节目带动了Hiphop音乐在韩国的流行，\[1\]\[2\]每季參賽人數不斷增加；同時也因為[饒舌](../Page/饒舌.md "wikilink")歌手在說唱時都會說[髒話](../Page/髒話.md "wikilink")和比出因此也造成了不少的爭議。\[3\]
 
 每一季规则会有所不同，但大致均为从眾多的饒舌歌手進行海選并以各種[饒舌](../Page/饒舌.md "wikilink")任务及公演進行淘汰，並以韓元作為觀眾投票分數單位，直到只剩一名饶舌歌手并获得胜利。节目包括新秀饶舌歌手和经验丰富的饶舌歌手两种角色，经验丰富的饶舌歌手通常担任“制作人”，制作人同时包涵导师和评审两个职责。

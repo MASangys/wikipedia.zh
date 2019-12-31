@@ -1,3 +1,6 @@
+> 本文内容由[正負 \(aiko單曲\)](https://zh.wikipedia.org/wiki/正負 \(aiko單曲\))转换而来。
+
+
 《**正負**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")34張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2015年11月18日由[PONY CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 簡介

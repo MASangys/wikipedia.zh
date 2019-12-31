@@ -1,3 +1,6 @@
+> 本文内容由[Slither.io](https://zh.wikipedia.org/wiki/Slither.io)转换而来。
+
+
 《****》是一款於2016年發布的[網頁](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")[大型多人線上遊戲](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")，由史蒂夫·豪斯（）開發。在遊戲中，玩家必須操控一條類似[蠕蟲的生物](https://zh.wikipedia.org/wiki/蠕蟲 "wikilink")，捕獲各色圓點讓體型變大。該遊戲的最終目標是成為全伺服器最大的蠕蟲。《》的遊戲概念與2015年風行一時的網頁遊戲《[Agar.io](../Page/Agar.io.md "wikilink")》以及經典[街機遊戲](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")《[貪食蛇](https://zh.wikipedia.org/wiki/貪食蛇 "wikilink")》模式相似。
 
 該遊戲的網頁版和[iOS版於](https://zh.wikipedia.org/wiki/iOS "wikilink")2016年3月25日發布，並經[PewDiePie](../Page/PewDiePie.md "wikilink")等多位知名[YouTuber](../Page/YouTuber.md "wikilink")推廣而廣為人知。游戏發布后不久，《》即登上各地區App Store的免費軟體銷售榜榜首，且網頁版曾於2016年7月獲[Alexa評為全球瀏覽數最高網站的第](../Page/Alexa_Internet.md "wikilink")250名。[Android](../Page/Android.md "wikilink")版於同年3月27日推出。《》所獲評價多為正面，其遊戲玩法和外觀設計獲得評論家讚美，但廣告和[延遲則遭批評](https://zh.wikipedia.org/wiki/延遲_\(電腦\) "wikilink")。

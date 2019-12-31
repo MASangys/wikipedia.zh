@@ -1,3 +1,6 @@
+> 本文内容由[Fabulous](https://zh.wikipedia.org/wiki/Fabulous)转换而来。
+
+
 《**Fabulous**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第37張個人專輯，配合《[Touch Mi 2 鄭秀文世界巡迴演唱會](https://zh.wikipedia.org/wiki/Touch_Mi_2_鄭秀文世界巡迴演唱會 "wikilink")》，於2016年9月15日（演唱會前一天）發行\[1\]\[2\]。
 
 ## 曲目

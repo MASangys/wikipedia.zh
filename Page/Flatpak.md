@@ -1,3 +1,6 @@
+> 本文内容由[Flatpak](https://zh.wikipedia.org/wiki/Flatpak)转换而来。
+
+
 **Flatpak**，在2016年5月前又被稱为**xdg-app**，是一個[Linux桌面應用電腦環境的](https://zh.wikipedia.org/wiki/Linux#個人電腦 "wikilink")系統。
 
 ## 原理

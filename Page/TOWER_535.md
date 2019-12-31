@@ -1,3 +1,6 @@
+> 本文内容由[TOWER 535](https://zh.wikipedia.org/wiki/TOWER 535)转换而来。
+
+
 [TOWER_535_201603.jpg](https://zh.wikipedia.org/wiki/File:TOWER_535_201603.jpg "fig:TOWER_535_201603.jpg") [TOWER_535_Escalator_void_201605.jpg](https://zh.wikipedia.org/wiki/File:TOWER_535_Escalator_void_201605.jpg "fig:TOWER_535_Escalator_void_201605.jpg") [TOWER_535_Lobby_201703.jpg](https://zh.wikipedia.org/wiki/File:TOWER_535_Lobby_201703.jpg "fig:TOWER_535_Lobby_201703.jpg") [TOWER_535_Seafood_Room_Interior_201605.jpg](https://zh.wikipedia.org/wiki/File:TOWER_535_Seafood_Room_Interior_201605.jpg "fig:TOWER_535_Seafood_Room_Interior_201605.jpg") **TOWER 535**是由甲級寫字樓及零售組成的建築，位於[香港](../Page/香港.md "wikilink")[香港島](../Page/香港島.md "wikilink")[銅鑼灣](../Page/銅鑼灣.md "wikilink")[謝斐道](../Page/謝斐道.md "wikilink")535號。大廈共25層，原址前身為[總統商場及中央樓](https://zh.wikipedia.org/wiki/總統商場 "wikilink")，由私募基金[豐泰地產](../Page/豐泰地產.md "wikilink")投資約40億元，於2012年至2015年發展，到2016年5月8日正式開幕。大廈於2015年8月獲韓國韓國基金洽購5成業權，估計涉資約35億[港元](../Page/港元.md "wikilink")。\[1\]
 
 ## 設計

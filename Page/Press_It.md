@@ -1,3 +1,6 @@
+> 本文内容由[Press It](https://zh.wikipedia.org/wiki/Press It)转换而来。
+
+
 《**Press It**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")成員[李泰民首張韓語正規專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2016年2月23日由[SM娛樂](../Page/SM娛樂.md "wikilink")製作、[KT Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")，先行曲為《Drip Drop》\[2\]；而主打曲目為《Press Your Number》。
 
 ## 曲目

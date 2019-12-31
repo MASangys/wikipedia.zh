@@ -1,3 +1,6 @@
+> 本文内容由[伊努·L·強森](https://zh.wikipedia.org/wiki/伊努·L·強森)转换而来。
+
+
 **伊努·L·強森**（，本名**伊努·路易斯·「努基」·強森**（**Enoch Lewis "Nucky" Johnson**）；），暱稱是**努基·強森**（**Nucky Johnson**），是新澤西州[大西洋城](../Page/大西洋城.md "wikilink")的、[大西洋縣治安官](../Page/大西洋縣警長辦公室.md "wikilink")、商人和。
 
 他是個無可爭議的「老大」，曾於1910年代控制大西洋城及[大西洋縣](../Page/大西洋縣.md "wikilink")政府，直至1941年遭入獄為止。他的管治圍繞在[咆哮的二十年代](../Page/咆哮的二十年代.md "wikilink")（Roaring Twenties），當時的大西洋城正處於[禁酒令時期成為最受歡迎避難所的高峰](https://zh.wikipedia.org/wiki/禁酒令時期 "wikilink")。除了外，他的組織也涉及[賭博和](https://zh.wikipedia.org/wiki/賭博 "wikilink")[賣淫活動](https://zh.wikipedia.org/wiki/賣淫 "wikilink")。\[1\]\[2\]

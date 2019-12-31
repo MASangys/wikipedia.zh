@@ -1,3 +1,6 @@
+> 本文内容由[对GitHub的审查和封锁](https://zh.wikipedia.org/wiki/对GitHub的审查和封锁)转换而来。
+
+
 [GitHub_logo_2013_padded.svg](https://zh.wikipedia.org/wiki/File:GitHub_logo_2013_padded.svg "fig:GitHub_logo_2013_padded.svg") **对[GitHub](../Page/GitHub.md "wikilink")的审查和封锁**经常在多个国家发生，例如[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[印度](../Page/印度.md "wikilink")、[土耳其](../Page/土耳其.md "wikilink")等。审查和封锁方式包括但不限于[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")、[中间人攻击](../Page/中间人攻击.md "wikilink")等。但是，由於封鎖引發了用戶和科技公司的強烈反應，這些國家最終都解除了對GitHub的封鎖。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[SSL加速](https://zh.wikipedia.org/wiki/SSL加速)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Sun-crypto-accelerator-1000.jpg "fig:缩略图") **SSL加速**是一种减轻[中央处理器](../Page/中央处理器.md "wikilink")过多参与[传输层安全协议](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")（TLS）的[公开密钥加密](../Page/公开密钥加密.md "wikilink")所产生负担的方法，它的前身是安全套接层（SSL）的硬件加速器。
 
 通常来说，这是一种独立的扩展卡插入到计算机的[PCI插槽](../Page/外设组件互连标准.md "wikilink")，其中包括一个或多个[辅助处理器处理大量的SSL所需计算](../Page/輔助處理器.md "wikilink")。

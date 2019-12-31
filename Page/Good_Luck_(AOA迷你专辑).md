@@ -1,3 +1,6 @@
+> 本文内容由[Good Luck \(AOA迷你专辑\)](https://zh.wikipedia.org/wiki/Good Luck \(AOA迷你专辑\))转换而来。
+
+
 《**Good Luck**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[AOA的第四張迷你專輯](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，由[FNC Entertainment於](../Page/FNC娛樂.md "wikilink")2016年5月16日發行。
 
 ## 發行

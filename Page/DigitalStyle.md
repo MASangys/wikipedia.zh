@@ -1,3 +1,6 @@
+> 本文内容由[DigitalStyle](https://zh.wikipedia.org/wiki/DigitalStyle)转换而来。
+
+
 **DigitalStyle**是的一個小型私人軟體公司。它成立於1995年，由Rick Gessner、Peter Linss、Greg Kostello和James Hamerly創立。DigitalStyle的其他員工來自[Xerox拆分的Chrystal](https://zh.wikipedia.org/wiki/Xerox "wikilink") Software，包括Steve Clark、Beth Epperson和Don Vale。
 
 其旗艦產品WebSuite是1990年代末期頂尖的網站創作工具。WebSuite提供了高階的圖形和網頁編輯功能\[1\]。是早期最先支援[PNG](../Page/PNG.md "wikilink")的商業產品之一\[2\]。

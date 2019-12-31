@@ -1,3 +1,6 @@
+> 本文内容由[DBC華語歌曲流行指數](https://zh.wikipedia.org/wiki/DBC華語歌曲流行指數)转换而来。
+
+
 **DBC華語歌曲流行指數**是香港的[數碼電台](https://zh.wikipedia.org/wiki/數碼電台 "wikilink")[DBC於](https://zh.wikipedia.org/wiki/DBC "wikilink")2015年11月20日開始的華語歌曲流行榜，報榜時間為逢星期五17:00至19:00\[1\]（2016年4月24日開始改為逢星期日17:00至19:00）\[2\]，每星期更新一次，每次上榜20首。主持人為同時在[有線球彩台講波的](https://zh.wikipedia.org/wiki/有線球彩台 "wikilink")「大頭」[許諾](https://zh.wikipedia.org/wiki/許諾 "wikilink")。首支冠軍歌是[吳業坤](../Page/吳業坤.md "wikilink")的《[陽光點的歌](../Page/KWAN_GOR_坤哥.md "wikilink")》。
 
 2016年8月8日，DBC數碼電台宣布交還聲音廣播牌照，並定於9月7日停播\[3\]，故2016年9月4日（2016年第35期）之DBC華語歌曲流行指數會是最後一期DBC華語歌曲流行指數。

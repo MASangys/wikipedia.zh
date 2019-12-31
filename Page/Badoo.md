@@ -1,3 +1,6 @@
+> 本文内容由[Badoo](https://zh.wikipedia.org/wiki/Badoo)转换而来。
+
+
 **Badoo**上是一个以约会为中心的[社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")，\[1\]成立于2006年，\[2\]总部位于[伦敦](../Page/伦敦.md "wikilink")[苏荷区](https://zh.wikipedia.org/wiki/苏荷区 "wikilink")。Badoo向180多个国家服务，\[3\]在拉丁美洲、西班牙、意大利和法国最为流行，\[4\]其运营模式为[免费增值模式](https://zh.wikipedia.org/wiki/免费增值 "wikilink")。2014年4月，Badoo被[Alexa列为世界上第](../Page/Alexa_Internet.md "wikilink")281大最受欢迎的网站之一。为了获取额外功能，用户可以付费或允许Badoo向用户的朋友发送电子邮件。
 
 ## 历史

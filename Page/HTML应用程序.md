@@ -1,3 +1,6 @@
+> 本文内容由[HTML应用程序](https://zh.wikipedia.org/wiki/HTML应用程序)转换而来。
+
+
   -
     本文介绍的为[微软](../Page/微软.md "wikilink")的专利HTA實作 。 有关HTML5的缓存清单信息(Cache Manifest)，请参考 。
 

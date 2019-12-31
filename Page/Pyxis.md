@@ -1,3 +1,6 @@
+> 本文内容由[Pyxis](https://zh.wikipedia.org/wiki/Pyxis)转换而来。
+
+
 **Pyxis**是由[豐田萌繪](../Page/豐田萌繪.md "wikilink")和[伊藤美來](../Page/伊藤美來.md "wikilink")組成的[日本](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")，隸屬和新成立的唱片公司「Rokkan Music」。
 
 2015年5月，豐田和伊藤在聯合[Live中宣佈組成Pyxis](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，並於2016年2月舉辦首場單獨Live\[1\]，之後以[獨立音樂](../Page/獨立音樂.md "wikilink")形式在廣播和雜誌等媒體持續進行活動\[2\]。

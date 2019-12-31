@@ -1,3 +1,6 @@
+> 本文内容由[Street Sense](https://zh.wikipedia.org/wiki/Street Sense)转换而来。
+
+
 ***Street Sense***是[華盛頓州的](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")16頁雙週刊[街頭報紙](../Page/街頭報紙.md "wikilink")，創刊於2003年。其宗旨為喚起公眾對於城市中的[街友和](https://zh.wikipedia.org/wiki/街友 "wikilink")[窮人議題的關注](https://zh.wikipedia.org/wiki/窮人 "wikilink")，並為處於無家可歸的人創造經濟出路。報紙以有關街友和窮人的文章為主，這些文章是由無家可歸者、過去曾無家可歸的人、以及其它志工所撰寫。\[1\]
 
 ## 歷史

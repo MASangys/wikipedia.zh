@@ -1,3 +1,6 @@
+> 本文内容由[One Shot One Kill](https://zh.wikipedia.org/wiki/One Shot One Kill)转换而来。
+
+
 《**One Shot One Kill**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年3月23日以五個版本：CD＋Blu-ray盤、CD＋DVD盤、event LIVE合體盤（）、通常盤及mu-mo盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Stay Gold](https://zh.wikipedia.org/wiki/Stay_Gold_\(U-KISS單曲\) "wikilink")》及《[Kissing to feel](https://zh.wikipedia.org/wiki/Kissing_to_feel "wikilink")》在專輯推出前預先發行。
 
 ## 概觀

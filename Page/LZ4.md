@@ -1,3 +1,6 @@
+> 本文内容由[LZ4](https://zh.wikipedia.org/wiki/LZ4)转换而来。
+
+
 **LZ4**是一种[无损数据压缩](../Page/无损数据压缩.md "wikilink")[算法](../Page/算法.md "wikilink")，着重于压缩和解压缩速度。它属于面向字节的[LZ77压缩方案家族](../Page/LZ77与LZ78.md "wikilink")。
 
 ## 特征

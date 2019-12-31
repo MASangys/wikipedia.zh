@@ -1,3 +1,6 @@
+> 本文内容由[Mosh](https://zh.wikipedia.org/wiki/Mosh)转换而来。
+
+
 **Mosh**（）是一套從用戶端連到伺服器端的軟體。類似於[Secure Shell](../Page/Secure_Shell.md "wikilink")\[1\]，但還針對對行動環境的特性調整。
 
 ## 特性

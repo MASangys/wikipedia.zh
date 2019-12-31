@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-2007-BLG-349\(AB\)b](https://zh.wikipedia.org/wiki/OGLE-2007-BLG-349\(AB\)b)转换而来。
+
+
 **OGLE-2007-BLG-349(AB)b**\[1\]是一顆距離地球約8000光年的[环联星运转行星](../Page/环联星运转行星.md "wikilink")，位於天球上[人馬座的方向上](https://zh.wikipedia.org/wiki/人馬座 "wikilink")\[2\]。該[系外行星是環聯星運轉行星中第一顆以](https://zh.wikipedia.org/wiki/系外行星 "wikilink")[微引力透镜](../Page/微引力透镜.md "wikilink")法發現的\[3\]。
 
 ## 概要

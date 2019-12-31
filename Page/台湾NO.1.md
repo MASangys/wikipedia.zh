@@ -1,3 +1,6 @@
+> 本文内容由[台湾NO.1](https://zh.wikipedia.org/wiki/台湾NO.1)转换而来。
+
+
 **台灣No.1**（TAIWAN \#1，）是部分電子遊戲玩家自2015年中開始在《[-{zh-cn:H1Z1：只求生存;zh-tw:屍流感：生存之道}-](../Page/只求生存.md "wikilink")》\[1\]\[2\]等遊戲中用於激怒或辨別[中國大陸玩家的口號](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，經過美國玩家Angrypug等人的多次呼喊而受到台灣媒體關注。
 
 ## 起源

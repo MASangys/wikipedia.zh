@@ -1,3 +1,6 @@
+> 本文内容由[Portal:吉卜力工作室/Selected works/Layout](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Selected works/Layout)转换而来。
+
+
 {{\#if:|
 
 <div style="float:left;margin-right:1em">

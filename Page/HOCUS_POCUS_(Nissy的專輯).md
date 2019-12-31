@@ -1,3 +1,6 @@
+> 本文内容由[HOCUS POCUS \(Nissy的專輯\)](https://zh.wikipedia.org/wiki/HOCUS POCUS \(Nissy的專輯\))转换而来。
+
+
 『**HOCUS POCUS**』是2016年3月24日，由[avex trax發售的](https://zh.wikipedia.org/wiki/avex_trax "wikilink")[Nissy的首張專輯](../Page/西島隆弘.md "wikilink")。Nissy盤（CD＋DVD3）、「CD＋DVD」盤、通常盤3種形態。通常盤以外皆為限定發售。4月20日開始全國的租賃店發售租賃盤。
 
 ## 収録曲

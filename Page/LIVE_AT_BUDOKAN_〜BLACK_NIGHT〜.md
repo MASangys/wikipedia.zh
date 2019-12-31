@@ -1,3 +1,6 @@
+> 本文内容由[LIVE AT BUDOKAN 〜BLACK NIGHT〜](https://zh.wikipedia.org/wiki/LIVE AT BUDOKAN 〜BLACK NIGHT〜)转换而来。
+
+
 《**LIVE AT BUDOKAN 〜BLACK NIGHT〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ アット ブドウカン 〜ブラック ナイト〜）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")2015年1月7日發行的[現場專輯](../Page/現場專輯.md "wikilink")。收音地點在[日本武道館](../Page/日本武道館.md "wikilink")。
 
 ## 概要

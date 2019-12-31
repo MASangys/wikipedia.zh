@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox color](https://zh.wikipedia.org/wiki/模块:Infobox color)转换而来。
+
+
 \--若程式碼有問題可以直接修改 local p = {} function p.color(frame)
 
 `   function round(num)`

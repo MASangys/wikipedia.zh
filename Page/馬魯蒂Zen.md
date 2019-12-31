@@ -1,3 +1,6 @@
+> 本文内容由[馬魯蒂Zen](https://zh.wikipedia.org/wiki/馬魯蒂Zen)转换而来。
+
+
 **馬魯蒂Zen**（）乃1993年至2006年間[印度](../Page/印度.md "wikilink")[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")（[母公司為](https://zh.wikipedia.org/wiki/母公司 "wikilink")[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）製造、販售的[次緊湊型](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。關於車名「Zen」來自「**Z**ero **E**ngine **N**oise（零引擎噪音）」的[縮寫](../Page/縮寫.md "wikilink")，不過也恰巧是「[禪](https://zh.wikipedia.org/wiki/禪 "wikilink")」的[音譯](https://zh.wikipedia.org/wiki/音譯 "wikilink")。
 
 ## 歷史與概要

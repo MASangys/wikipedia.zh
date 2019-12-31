@@ -1,3 +1,6 @@
+> 本文内容由[TU \(堂本刚\)](https://zh.wikipedia.org/wiki/TU \(堂本刚\))转换而来。
+
+
 《**TU**》是[堂本剛](../Page/堂本剛.md "wikilink")總計發行的第9張\[1\][專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年5月20日由[SHAMANIPPON發行](../Page/傑尼斯娛樂.md "wikilink")。\[2\]
 
 ## 概要

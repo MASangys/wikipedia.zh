@@ -1,3 +1,6 @@
+> 本文内容由[设置 \(Windows\)](https://zh.wikipedia.org/wiki/设置 \(Windows\))转换而来。
+
+
 **设置（Windows）**，原名為“**电脑设置**”（**PC Settings**），是一款由[微軟公司所開發](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[UWP应用程序](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，並以系統程序身分裝载于[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Server 2012之后以及](../Page/Windows_Server_2012.md "wikilink")[Windows 10 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")[作業系統之中](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。因大部分控制面板的操作均可直接在本程序上實現並完成，從而被認為是[控制台的替代品](../Page/控制面板.md "wikilink")。
 
 ## 歷史

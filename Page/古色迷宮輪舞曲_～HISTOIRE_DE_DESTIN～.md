@@ -1,3 +1,6 @@
+> 本文内容由[古色迷宮輪舞曲 ～HISTOIRE DE DESTIN～](https://zh.wikipedia.org/wiki/古色迷宮輪舞曲 ～HISTOIRE DE DESTIN～)转换而来。
+
+
 是在2012年7月27日由[Yatagarasu發售的](https://zh.wikipedia.org/wiki/Yatagarasu "wikilink")[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。而[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《**古色迷宮輪舞曲 ～La Roue de fortune～**》則於2013年9月26日發售。
 
 ## 概要

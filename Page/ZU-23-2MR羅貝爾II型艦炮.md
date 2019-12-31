@@ -1,3 +1,6 @@
+> 本文内容由[ZU-23-2MR羅貝爾II型艦炮](https://zh.wikipedia.org/wiki/ZU-23-2MR羅貝爾II型艦炮)转换而来。
+
+
 **ZU-23-2MR「羅貝爾II型」**（；Wróbel，意為：[麻雀](../Page/麻雀.md "wikilink")）是在1990年代由[波兰以](https://zh.wikipedia.org/wiki/波兰 "wikilink")[ZU-23-2雙管高射炮](../Page/ZU-23-2雙管高射炮.md "wikilink")為藍本研製及生產的雙管水平並排式海軍23毫米彈炮合一型[舰载](../Page/舰炮.md "wikilink")，並且裝設在波蘭艦艇以上使用，發射[苏联](../Page/苏联.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")[炮彈](../Page/炮彈.md "wikilink")和[9M32M「箭-2M」](../Page/9K32便携式防空导弹.md "wikilink")（或[雷霆](../Page/雷霆便攜式防空導彈.md "wikilink")）近程防空導彈。
 
 作為[ZU-23-2M「羅貝爾」的改進型](../Page/ZU-23-2M羅貝爾艦炮.md "wikilink")，該舰炮是由位於[傑隆卡的](https://zh.wikipedia.org/wiki/傑隆卡 "wikilink")和（簡稱：WITU）共同生產。機炮是用以打擊輕裝甲水面目標、高機動性和保持懸停的空中目標以及戰時邊界以上的對輕裝甲目標。ZU-23-2MR的其他名稱還有：羅貝爾-2MR，23-2PAMR（，意為：海軍防空機炮及火箭炮）或「羅貝爾II」（與「羅貝爾I」區分）。

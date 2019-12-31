@@ -1,3 +1,6 @@
+> 本文内容由[STARTING OVER \(鄭允鶴專輯\)](https://zh.wikipedia.org/wiki/STARTING OVER \(鄭允鶴專輯\))转换而来。
+
+
 《**STARTING OVER**》是[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星的隊長](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")[鄭允鶴首張日語](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年2月19日以四個版本：通常盤及初回限定盤推出\[1\]。三張打入Oricon單曲週榜前二十名的單曲：《[Again](https://zh.wikipedia.org/wiki/Again_\(鄭允鶴單曲\) "wikilink")》、《[WAITING 4 U](https://zh.wikipedia.org/wiki/WAITING_4_U "wikilink")》及《[曾經愛過你的一切](https://zh.wikipedia.org/wiki/曾經愛過你的一切 "wikilink")》（）在專輯推出前預先發行。
 
 ## 概觀

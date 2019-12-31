@@ -1,3 +1,6 @@
+> 本文内容由[AAA TOUR 2008 -ATTACK ALL AROUND- at NHK HALL on 4th of April](https://zh.wikipedia.org/wiki/AAA TOUR 2008 -ATTACK ALL AROUND- at NHK HALL on 4th of April)转换而来。
+
+
 『**AAA TOUR 2008 -ATTACK ALL AROUND- at NHK HALL on 4th of April**』是[日本](../Page/日本.md "wikilink")團體[AAA在](../Page/AAA_\(團體\).md "wikilink")2008年8月27日發售的第六個影像作品。
 
 ## 概要

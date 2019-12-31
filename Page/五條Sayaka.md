@@ -1,3 +1,6 @@
+> 本文内容由[五條Sayaka](https://zh.wikipedia.org/wiki/五條Sayaka)转换而来。
+
+
 **五條Sayaka**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[A型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")。
 
 ## 來歷、人物

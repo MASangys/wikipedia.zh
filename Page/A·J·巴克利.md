@@ -1,3 +1,6 @@
+> 本文内容由[A·J·巴克利](https://zh.wikipedia.org/wiki/A·J·巴克利)转换而来。
+
+
 **A·J·巴克利**（**Alan John** "**A. J.**" **Buckley**，）是一位[愛爾蘭出生的](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[加拿大](../Page/加拿大.md "wikilink")演員\[1\]。巴克利出生在都柏林，在6歲時移居加拿大。他曾客串出演過[X檔案等電視劇](https://zh.wikipedia.org/wiki/X檔案 "wikilink")。
 
 ## 參考資料

@@ -1,3 +1,6 @@
+> 本文内容由[AOA音乐作品](https://zh.wikipedia.org/wiki/AOA音乐作品)转换而来。
+
+
 [韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子组合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AOA共发行两张](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")、一张[合辑](https://zh.wikipedia.org/wiki/合輯 "wikilink")、四张[迷你专辑和十六首](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")[单曲](../Page/单曲.md "wikilink")（包括十首[CD](../Page/CD.md "wikilink")单曲和六首数字单曲）。
 
 2012年7月，AOA发行数字单曲《Elvis》和首张单曲专辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》出道\[1\]。3个月后第二张单曲专辑《[Wanna Be](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA单曲\) "wikilink")》推出。2013年AOA发行两首单曲《Moya》和《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》和《[猫步轻悄](https://zh.wikipedia.org/wiki/猫步轻悄_\(AOA迷你专辑\) "wikilink")》。第三张EP《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good Luck](../Page/Good_Luck_\(AOA迷你专辑\).md "wikilink")》于2016年5月释出。

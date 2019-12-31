@@ -1,3 +1,6 @@
+> 本文内容由[TAKURANKE](https://zh.wikipedia.org/wiki/TAKURANKE)转换而来。
+
+
 **株式會社TAKURANKE**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，專門承包[動畫的作畫作業為主要從事內容的日本動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1987年。
 
 ## 概要、沿革

@@ -1,3 +1,6 @@
+> 本文内容由[多一點 \(aiko單曲\)](https://zh.wikipedia.org/wiki/多一點 \(aiko單曲\))转换而来。
+
+
 《**多一點**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")[aiko的第](https://zh.wikipedia.org/wiki/aiko "wikilink")35張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2016年3月9日由[PONY CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")（商品編號：PCCA-15019）。
 
 ## 簡介

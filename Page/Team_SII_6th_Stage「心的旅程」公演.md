@@ -1,3 +1,6 @@
+> 本文内容由[Team SII 6th Stage「心的旅程」公演](https://zh.wikipedia.org/wiki/Team SII 6th Stage「心的旅程」公演)转换而来。
+
+
 **Team SII 6th Stage「心的旅程」公演**是[SNH48](../Page/SNH48.md "wikilink")的剧场公演，此套公演同時也是SNH48的首套原創公演，由Team SII演繹。\[1\]
 
 ## 概要

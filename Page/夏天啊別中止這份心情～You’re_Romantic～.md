@@ -1,3 +1,6 @@
+> 本文内容由[夏天啊別中止這份心情～You’re Romantic～](https://zh.wikipedia.org/wiki/夏天啊別中止這份心情～You’re Romantic～)转换而来。
+
+
 《**夏天啊別中止這份心情～You』re Romantic～**》（）是日本樂團[flumpool主流出道的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2015年8月5日發行，台灣方面則由[相信音樂](../Page/相信音樂.md "wikilink")製作、[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")股份有限公司發行。
 
 ## 收錄歌曲

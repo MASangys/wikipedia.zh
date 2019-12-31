@@ -1,3 +1,6 @@
+> 本文内容由[日產Livina](https://zh.wikipedia.org/wiki/日產Livina)转换而来。
+
+
 **日產骊威**（英語：Nissan Livina）是一款由[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")日產技術中心進行設計、研發工作，所開啟的系列新車，並以「active and high quality」為產品概念。於2007年10月在台灣正式發表Livina 1.6L兩排5人座、Grand Livina 1.8L三排7人座。
 
 ## Livina

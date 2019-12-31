@@ -1,3 +1,6 @@
+> 本文内容由[BLACKPINK](https://zh.wikipedia.org/wiki/BLACKPINK)转换而来。
+
+
 **BLACKPINK**（風格化為**BLΛƆKPIИK**，，）是[YG娛樂](../Page/YG娛樂.md "wikilink")於2016年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是繼2009年[2NE1](../Page/2NE1.md "wikilink")後該經紀公司時隔7年再次推出的女子偶像團體，由[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")、[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")、[Rosé與](../Page/Rosé_\(韓國歌手\).md "wikilink")[Lisa共四名成員組成](../Page/Lisa_\(泰國歌手\).md "wikilink")，她們在YG娛樂各自經歷了4年到7年的練習生生涯。
 
 BLACKPINK原定於2012年出道，且最初的女團計劃原定有九人，官方在當時除了預示著即將推出女團外，並陸續釋出練習影像及成員身份，然而到了2014年仍舊尚未出道，直至2016年中旬才正式透過官方公開了成員名單、組合名稱及出道日期。2016年8月8日以單曲專輯《[Square One](../Page/Square_One_\(BLACKPINK單曲\).md "wikilink")》雙主打曲《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》正式出道，8月14日登上[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》出道舞台。

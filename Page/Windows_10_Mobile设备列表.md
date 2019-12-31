@@ -1,3 +1,6 @@
+> 本文内容由[Windows 10 Mobile设备列表](https://zh.wikipedia.org/wiki/Windows 10 Mobile设备列表)转换而来。
+
+
 本列表中包括使用[Windows 10 Mobile操作系统的设备](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。
 
 ## 已推出

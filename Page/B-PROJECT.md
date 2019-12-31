@@ -1,3 +1,6 @@
+> 本文内容由[B-PROJECT](https://zh.wikipedia.org/wiki/B-PROJECT)转换而来。
+
+
 《**B-PROJECT**》（）是由MAGES.負責的虛擬偶像計劃，簡稱為「」\[1\]。總合製作人由[西川貴教擔任](https://zh.wikipedia.org/wiki/西川貴教 "wikilink")，企劃及原作由[志倉千代丸](../Page/志倉千代丸.md "wikilink")負責，而人物設定則是由[雪廣歌子負責](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")\[2\]。 2015年9月，B-PROJECT正式開始\[3\]。電視動畫「B-PROJECT～鼓動＊Ambitious～（B-PROJECT〜鼓動\*アンビシャス〜）」於2016年7月播放。遊戲預定於2016年年底配信，2017年初開放登錄。 電視動畫第二季「B-PROJECT～絶頂＊エモーション～」於2019年1月11日開始播放。
 
 ## 登場人物

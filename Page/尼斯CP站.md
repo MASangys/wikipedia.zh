@@ -1,3 +1,6 @@
+> 本文内容由[尼斯CP站](https://zh.wikipedia.org/wiki/尼斯CP站)转换而来。
+
+
 **尼斯CP站**（），全名为**尼斯-普罗旺斯铁路站**（）。尼斯CP站是法国南部的一个地方性火车站，也是法国著名的米轨铁路（Voie Métrique）[尼斯－迪涅铁路的起点站](https://zh.wikipedia.org/wiki/尼斯－迪涅铁路 "wikilink")。
 
 ## 位置

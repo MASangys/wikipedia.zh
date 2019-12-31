@@ -1,3 +1,6 @@
+> 本文内容由[BabelNet](https://zh.wikipedia.org/wiki/BabelNet)转换而来。
+
+
 **BabelNet**是一个[多语词汇](https://zh.wikipedia.org/wiki/多語言 "wikilink")[语义网络和](../Page/语义网络_\(计算机科学\).md "wikilink")[本体](../Page/本体_\(信息科学\).md "wikilink")，由[罗马萨皮恩扎大学](../Page/罗马大学.md "wikilink")（罗马大学）计算机科学系的计算语言学实验室所创建。\[1\]\[2\] BabelNet是自动构建的，其将最大的多语Web[百科全书](../Page/百科全书.md "wikilink")[维基百科](../Page/维基百科.md "wikilink")链接到最常用的[英语](../Page/英语.md "wikilink")计算词典[WordNet](../Page/WordNet.md "wikilink")。这种链接整合，以自动映射的方式完成；对于资源匮乏的[语言所存在的词汇空缺](https://zh.wikipedia.org/wiki/语言 "wikilink")，借助于[统计机器翻译](../Page/统计机器翻译.md "wikilink")来补充。其结果是一个“百科词典”，提供了多种语言的[概念](../Page/概念.md "wikilink")和，并包含了它们之间的丰富的语义关系。通过与免费授权使用的、英语[维基词典](../Page/维基词典.md "wikilink")、[维基数据](../Page/维基数据.md "wikilink")、、等语义资源建立链接，BabelNet还补充了其它一些词汇和定义。和WordNet类似，BabelNet将不同语言中的词语以[同义词](../Page/同义词.md "wikilink")集的形式进行组织，称之为Babel synset。对于每一个Babel ，BabelNet提供简短的定义（称为[注释](https://zh.wikipedia.org/wiki/注释 "wikilink")），这些定义具有多种语言版本，主要来自于WordNet和维基百科。
 
 ## BabelNet的数据统计

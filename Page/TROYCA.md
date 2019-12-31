@@ -1,3 +1,6 @@
+> 本文内容由[TROYCA](https://zh.wikipedia.org/wiki/TROYCA)转换而来。
+
+
 **TROYCA**是一家動畫企劃與製作以及相關業務為主的日本公司。社名來自俄文「」（三人行），有三位創始人將為了共同的理想而奮鬥之意。
 
 2013年5月，由[AIC Classic的製作人長野敏之](../Page/動畫國際公司.md "wikilink")、攝影監督加藤友宜帶領一部分成員離開，聯同早年結束合作的[青木英](../Page/青木英.md "wikilink")監督成立TROYCA。

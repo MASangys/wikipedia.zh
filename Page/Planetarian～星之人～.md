@@ -1,3 +1,6 @@
+> 本文内容由[Planetarian～星之人～](https://zh.wikipedia.org/wiki/Planetarian～星之人～)转换而来。
+
+
 《**Planetarian～星之人～**》是於2016年9月3日上映的日本[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，由[津田尚克](../Page/津田尚克.md "wikilink")擔任導演。該電影改編自《[星之夢](../Page/星之夢.md "wikilink")》同名[輕小說](../Page/輕小說.md "wikilink")《Planetarian～星之人～》。
 
 ## 製作

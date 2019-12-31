@@ -1,3 +1,6 @@
+> 本文内容由[YEAH!! YEAH!! YEAH!!](https://zh.wikipedia.org/wiki/YEAH!! YEAH!! YEAH!!)转换而来。
+
+
 「**YEAH\!\! YEAH\!\! YEAH\!\!**」是[EXILE THE SECOND的第](../Page/EXILE_THE_SECOND.md "wikilink")3張單曲、2016年7月13日於日本發行。\[1\]。
 
 ## 概要

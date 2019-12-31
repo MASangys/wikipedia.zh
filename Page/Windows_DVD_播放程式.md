@@ -1,3 +1,6 @@
+> 本文内容由[Windows DVD 播放程式](https://zh.wikipedia.org/wiki/Windows DVD 播放程式)转换而来。
+
+
 **DVD播放器**（，也称为dvdplay.exe）是一个包含在[Windows 98](../Page/Windows_98.md "wikilink")、[Windows Me和](../Page/Windows_Me.md "wikilink")[Windows 2000中的](../Page/Windows_2000.md "wikilink")[计算机程序](../Page/计算机程序.md "wikilink")，用来自动播放[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")[光盘](https://zh.wikipedia.org/wiki/光盘 "wikilink")。DVD播放器从Windows 98开始引入，并在之后的[Windows XP开始被移除](../Page/Windows_XP.md "wikilink")。\[1\]从Windows XP开始，DVD播放采用内置的其他应用程序，例如[Windows Media Player和](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[Windows Media Center](../Page/Windows_Media_Center.md "wikilink")。
 
 由于Media Center从[Windows 10开始被移除](../Page/Windows_10.md "wikilink")，并且DVD编解码器也已在此前从Windows操作系统中移除，一个新的独立的DVD播放器程序被再次引入。

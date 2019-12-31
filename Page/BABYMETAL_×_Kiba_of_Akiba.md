@@ -1,3 +1,6 @@
+> 本文内容由[BABYMETAL × Kiba of Akiba](https://zh.wikipedia.org/wiki/BABYMETAL × Kiba of Akiba)转换而来。
+
+
 〈**BABYMETAL×Kiba of Akiba**〉（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：BABYMETAL×キバオブアキバ）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")與合作的單曲。2012年3月7日由[重音部RECORDS發行](../Page/TOY'S_FACTORY.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## 音樂類型

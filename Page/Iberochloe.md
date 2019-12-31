@@ -1,3 +1,6 @@
+> 本文内容由[Iberochloe](https://zh.wikipedia.org/wiki/Iberochloe)转换而来。
+
+
 ***Iberochloe***是[粉蝶科](../Page/粉蝶科.md "wikilink")[粉蝶亞科](../Page/粉蝶亞科.md "wikilink")[襟粉蝶族](../Page/襟粉蝶族.md "wikilink")裡的一個屬，尚無正式中文學名命名。共有2個物種，分佈於歐亞地區\[1\]。
 
 ## 物種

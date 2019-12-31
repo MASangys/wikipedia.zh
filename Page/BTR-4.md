@@ -1,3 +1,6 @@
+> 本文内容由[BTR-4](https://zh.wikipedia.org/wiki/BTR-4)转换而来。
+
+
 BTR-4是乌克兰以[苏联](../Page/苏联.md "wikilink")时代的BTR-60/70/80装甲车基础上，自行开发的8×8轮式装甲车。
 
 ## 概述

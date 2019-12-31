@@ -1,3 +1,6 @@
+> 本文内容由[IERS參考子午線](https://zh.wikipedia.org/wiki/IERS參考子午線)转换而来。
+
+
 [Equator_and_Prime_Meridian.svg](https://zh.wikipedia.org/wiki/File:Equator_and_Prime_Meridian.svg "fig:Equator_and_Prime_Meridian.svg")（紅色）和本初子午線（藍色）經過的國家。\]\]
 
 *' IERS參考子午線**（**IRM**），也稱為**國際參考子午線*'，是由[國際地球自轉服務](https://zh.wikipedia.org/wiki/國際地球自轉服務 "wikilink")（IERS）維護的[本初子午線](../Page/本初子午線.md "wikilink")（經度0°）。它是通過[格林尼治皇家天文台](../Page/格林尼治皇家天文台.md "wikilink")的[喬治·比德爾·艾里](../Page/喬治·比德爾·艾里.md "wikilink")在1851年建造的[子午儀](../Page/子午儀.md "wikilink")所在緯度東側5.3[秒](../Page/秒.md "wikilink")的子午線，或是\[1\]\[2\]\[3\]。這也是[美國國防部運作的](https://zh.wikipedia.org/wiki/美國國防部 "wikilink")[全球衛星定位系統](https://zh.wikipedia.org/wiki/全球衛星定位系統 "wikilink")（GPS），與和理想的[國際地表參考系統](../Page/國際地表參考系統.md "wikilink")（ITRS）具體化的[國際地表參考系](https://zh.wikipedia.org/wiki/國際地表參考系 "wikilink")（ITRF）[WGS84所參考的本初子午線](https://zh.wikipedia.org/wiki/WGS84 "wikilink")。

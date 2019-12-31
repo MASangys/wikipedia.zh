@@ -1,3 +1,6 @@
+> 本文内容由[贾里德·S·吉尔摩](https://zh.wikipedia.org/wiki/贾里德·S·吉尔摩)转换而来。
+
+
 **傑瑞德·吉爾摩爾**（, ）是美國青少年演員。
 
 他最為人知的角色為[广告狂人](../Page/广告狂人.md "wikilink")內的 Bobby Draper 以及[童话镇](../Page/童话镇.md "wikilink")的 亨利·米爾斯 一角。

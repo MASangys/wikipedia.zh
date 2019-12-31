@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Fronte](https://zh.wikipedia.org/wiki/鈴木Fronte)转换而来。
+
+
 **鈴木Fronte**乃[日本](../Page/日本.md "wikilink")鈴木汽車工業（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1962年至1989年之間開發製造的[輕型車](../Page/輕型車.md "wikilink")。本條目將此車系的轎車型、掀背車型、商用車型等一併記入。
 
 關於車名來自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「frontier」，意為「業界之先驅者」\[1\]。

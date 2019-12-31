@@ -1,3 +1,6 @@
+> 本文内容由[AJ·蜜雪卡](https://zh.wikipedia.org/wiki/AJ·蜜雪卡)转换而来。
+
+
 **亞曼達·喬伊·「AJ」·蜜雪卡** ([英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Amanda Joy "AJ" Michalka** ；1991年4月10日\[1\] - )，通常被稱呼為AJ·蜜雪卡，為[美國女演員](https://zh.wikipedia.org/wiki/美國 "wikilink")、創作歌手及音樂家，她先以模特兒身分出道，之後成為女演員。她知名的身分是與姊姊[艾莉·蜜雪卡](../Page/艾莉·蜜雪卡.md "wikilink")組成[78violet演唱組合](https://zh.wikipedia.org/wiki/78violet "wikilink") (前身為 Aly & AJ) 。 AJ 曾經替電影「奔騰人生」錄製電影主題曲「It's Who You Are」。 AJ也曾經替電影「葛莉絲不插電」 原聲帶錄製單曲及音樂錄影帶「All I've Ever Needed」。
 
 ## 早期生活

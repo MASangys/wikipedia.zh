@@ -1,3 +1,6 @@
+> 本文内容由[Infraphulia](https://zh.wikipedia.org/wiki/Infraphulia)转换而来。
+
+
 ***Infraphulia***是[粉蝶科](../Page/粉蝶科.md "wikilink")[粉蝶亞科](../Page/粉蝶亞科.md "wikilink")[粉蝶族](../Page/粉蝶族.md "wikilink")[粉蝶亞族](../Page/粉蝶亞族.md "wikilink")裡的一個屬，尚無正式中文學名命名。共有3個物種，分佈於[玻利維亞](../Page/玻利維亞.md "wikilink")、智利和秘魯。
 
 ## 物種

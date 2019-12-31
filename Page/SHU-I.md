@@ -1,3 +1,6 @@
+> 本文内容由[SHU-I](https://zh.wikipedia.org/wiki/SHU-I)转换而来。
+
+
 **SHU-I**（全寫為「**S**o **H**ot **U**nion of **I**dols」\[1\]；；），為在[日本](../Page/日本.md "wikilink")發展之[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人男子組合\[2\]，於2010年9月14日發行數位單曲《Bomb Bomb Bomb》出道\[3\]。
 
 2011年2月SHU-I首次在日本舉行音樂會\[4\]，並於同年5月4日發行首張日語單曲《Smile For Me》，此後團體轉往日本發展。

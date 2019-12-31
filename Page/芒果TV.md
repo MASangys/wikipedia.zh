@@ -1,3 +1,6 @@
+> 本文内容由[芒果TV](https://zh.wikipedia.org/wiki/芒果TV)转换而来。
+
+
 **芒果TV**是[湖南广播电视台](../Page/湖南广播电视台.md "wikilink")互联网视频平台，于2014年成立，前身为[湖南卫视](../Page/湖南卫视.md "wikilink")新媒体——金鹰网。以面向最广泛收视人群的[电视剧](../Page/电视剧.md "wikilink")为主。访客可以在这里观看大多數[湖南卫视](../Page/湖南卫视.md "wikilink")劇集和綜藝節目。芒果TV亦有首播一些[网络劇](../Page/網絡劇.md "wikilink")，并有独占播出部分[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")。按节点财经在钛媒体上的报告\[1\]，芒果TV为2018年中国市场份额最大的五个影音平台之一（其余四家是：[优酷](../Page/优酷.md "wikilink")、[腾讯视频](../Page/腾讯视频.md "wikilink")、、[爱奇艺](../Page/爱奇艺.md "wikilink")）。
 
 同时芒果TV亦是湖南省内IPTV集成播控二级分平台运营机构，于2017年2月获广电总局验收通过并颁发正式的省级IPTV播控牌照，主力与[中国电信湖南公司](https://zh.wikipedia.org/wiki/中国电信 "wikilink")、[央视爱上传媒联合打造](https://zh.wikipedia.org/wiki/央视爱上传媒 "wikilink")**湖南IPTV**，为湖南省规模最大的主流家庭互联网流媒体品牌业务。

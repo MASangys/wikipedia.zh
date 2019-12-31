@@ -1,3 +1,6 @@
+> 本文内容由[Startear](https://zh.wikipedia.org/wiki/Startear)转换而来。
+
+
 《**Startear**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")春奈露娜的第6张单曲唱片，总共收录三首歌曲，于2014年8月20日由SME Records发行。
 
 ## 作品

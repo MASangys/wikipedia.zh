@@ -1,3 +1,6 @@
+> 本文内容由[七龍珠Z 地球超級大決戰](https://zh.wikipedia.org/wiki/七龍珠Z 地球超級大決戰)转换而来。
+
+
 《**七龙珠Z 地球超級大決戰**》（，[英语](../Page/英语.md "wikilink"): Dragon Ball Z: The Decisive Battle for the Entire Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上映的第6部劇場版動畫。\[1\]故事时间在打败拉帝兹之后、[贝吉塔与拿帕来到地球之前](https://zh.wikipedia.org/wiki/贝吉塔 "wikilink")。
 
 本套也是所有劇場版里最多英语配音版本的劇場版。Ocean 1997年英语配音版本曾经把本套被分为三集特别篇在美国的电视机中播放。（在Ocean版本的弗利萨篇第45话与第46话之间）\[2\]\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[最終幻想XV系列角色列表](https://zh.wikipedia.org/wiki/最終幻想XV系列角色列表)转换而来。
+
+
 本列表列出在电子游戏 《[最終幻想XV](../Page/最終幻想XV.md "wikilink")》及其前傳《[王者之剑 最终幻想XV](https://zh.wikipedia.org/wiki/王者之剑_最终幻想XV "wikilink")》和衍生動畫作品《[兄弟情 最终幻想XV](../Page/兄弟情_最终幻想XV.md "wikilink")》中的登場角色。
 
 <big>請注意：本條目內的人物資料會透露故事情節，請讀者自行衡量被透露未知的劇情內容的風險，以免影響遊戲樂趣。</big>

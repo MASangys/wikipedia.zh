@@ -1,3 +1,6 @@
+> 本文内容由[模块:Routelist bottom](https://zh.wikipedia.org/wiki/模块:Routelist bottom)转换而来。
+
+
 local p = {}
 
 local types = mw.loadData("Module:Road data/RJL types") local getArgs = require('Module:Arguments').getArgs -- Import module function to work with passed arguments

@@ -1,3 +1,6 @@
+> 本文内容由[Thompson构造法](https://zh.wikipedia.org/wiki/Thompson构造法)转换而来。
+
+
 **Thompson构造法**在[计算机科学](../Page/计算机科学.md "wikilink")中是指一个能将[正则表达式](../Page/正则表达式.md "wikilink")转化为一个与之等价的[非确定有限状态自动机](../Page/非确定有限状态自动机.md "wikilink")（NFA）的[算法](../Page/算法.md "wikilink")。算法得到的NFA可以在编程中用于匹配一个正则表达式，这也是正则表达式引擎实现的基本思路之一。
 
 正则表达式和非确定有限状态自动机是[形式语言](../Page/形式语言.md "wikilink")的两种不同的[抽象](https://zh.wikipedia.org/wiki/抽象 "wikilink")[表达方式](https://zh.wikipedia.org/wiki/表达方式 "wikilink")。在诸如[文本编辑器](../Page/文本编辑器.md "wikilink")的高级“查找和替换”以及许多编程语言中，人们都习惯使用正则表达式来表示[字符串](../Page/字符串.md "wikilink")的匹配模式。然而，当计算机执行匹配程序时，NFA却是更加适合的一种格式。因此，Thompson构造法有着重要的应用价值，它实际上可以视作正则表达式到NFA的一个编译器。而从理论角度上来说，该算法实际上是正则表达式和NFA等价性证明的一部分——事实上，这两种表述形式本质上都对应着相同的语言，即[正则语言](../Page/正则语言.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Interviu](https://zh.wikipedia.org/wiki/Interviu)转换而来。
+
+
 《**Interviu**》為[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的娛樂名人專訪節目，節目內容為香港以及國際明星專訪。
 
 ## 主持

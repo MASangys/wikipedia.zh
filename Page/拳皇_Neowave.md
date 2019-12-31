@@ -1,3 +1,6 @@
+> 本文内容由[拳皇 Neowave](https://zh.wikipedia.org/wiki/拳皇 Neowave)转换而来。
+
+
 是2004年[SNK Playmore](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，最初是为[飒美](../Page/飒美.md "wikilink")的[Atomiswave街机系统开发](https://zh.wikipedia.org/wiki/Atomiswave "wikilink")，这也是SNK Playmore为该系统开发的首款游戏。2005年开始，本作移植至[PlayStation 2和](../Page/PlayStation_2.md "wikilink")[Xbox平台](../Page/Xbox_\(遊戲機\).md "wikilink")，前者发行于日本和欧洲，而后者在北美发售。本作不属于拳皇系列正统作品，屬於實驗街机新基板性能之作。更换至Atomiswave基板后的《拳皇》在畫面上有了很大的進步，系統基本上來源於《[拳皇2002](../Page/拳皇2002.md "wikilink")》並針對新硬件添加了一些要素。
 
 ## 角色

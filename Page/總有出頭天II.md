@@ -1,3 +1,6 @@
+> 本文内容由[總有出頭天II](https://zh.wikipedia.org/wiki/總有出頭天II)转换而来。
+
+
 《**總有出頭天II**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部、[發展局](../Page/發展局.md "wikilink")與[建造業議會](../Page/建造業議會.md "wikilink")聯合攝作的[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，於2014年12月至2015年1月播出，合共6集，每集約25分鐘。劇集於2014年12月16日起首播，逢週二晚上七時正，在[香港電台](../Page/香港電台.md "wikilink")[港台電視31頻道及](../Page/港台電視31、31A.md "wikilink")[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")放映。
 
 本輯戲劇共六集，以年青人在投身建造業的故事為骨幹，全劇採用高清拍攝。主要演員包括[陳家樂](https://zh.wikipedia.org/wiki/陳家樂 "wikilink")、[余香凝](../Page/余香凝.md "wikilink")、[蔡瀚億](../Page/蔡瀚億.md "wikilink")、[黃智勇](https://zh.wikipedia.org/wiki/黃智勇 "wikilink")、[唐寧](../Page/唐寧_\(香港\).md "wikilink")、[韋家雄](../Page/韋家雄.md "wikilink")等。

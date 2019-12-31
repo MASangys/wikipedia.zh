@@ -1,3 +1,6 @@
+> 本文内容由[中華ZINGER](https://zh.wikipedia.org/wiki/中華ZINGER)转换而来。
+
+
 **中華ZINGER**是由日本[三菱汽車與臺灣](https://zh.wikipedia.org/wiki/三菱汽車 "wikilink")[中華汽車工業](../Page/中華汽車工業.md "wikilink")合作開發的[多功能休旅車](../Page/多功能休旅車.md "wikilink")，2005年上市。原廠以「集商用車承載力、多功能休旅車的運動性及轎車的舒適性為一體」為其賣點。
 
 ## 歷史

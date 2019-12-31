@@ -1,3 +1,6 @@
+> 本文内容由[卡普坦c](https://zh.wikipedia.org/wiki/卡普坦c)转换而来。
+
+
 **卡普坦c**（**Kapteyn c**）是一顆環繞[紅矮星](../Page/紅矮星.md "wikilink")[卡普坦星](../Page/卡普坦星.md "wikilink")的[太陽系外行星](../Page/太陽系外行星.md "wikilink")。該行星的體積在7.0[M<sub>⊕</sub>](https://zh.wikipedia.org/wiki/地球質量 "wikilink") 以上，軌道半長軸約0.311天文單位，軌道離心率0.23±0.1。它的位置在母恆星的[適居帶外緣以外](https://zh.wikipedia.org/wiki/適居帶 "wikilink")\[1\]\[2\]，因此它的發現者稱卡普坦c是一顆低溫[超級地球](https://zh.wikipedia.org/wiki/超級地球 "wikilink")\[3\]。
 
 ## 參考資料

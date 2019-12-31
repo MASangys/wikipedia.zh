@@ -1,3 +1,6 @@
+> 本文内容由[月球 X](https://zh.wikipedia.org/wiki/月球 X)转换而来。
+
+
 [Lunar-x.jpg](https://zh.wikipedia.org/wiki/File:Lunar-x.jpg "fig:Lunar-x.jpg")
 
 **月球 X**（也称为**维尔纳 X**）是形成于陨石坑明暗交界处的一种亮度对比反差效应。在[比安基奴斯环形山](../Page/比安基奴斯环形山.md "wikilink")、[拉卡耶环形山](../Page/拉卡耶环形山.md "wikilink")和[普尔巴赫环形山](../Page/普尔巴赫环形山.md "wikilink")的坑壁上都出现过这种「X」形闪光\[1\]。

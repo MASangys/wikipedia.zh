@@ -1,3 +1,6 @@
+> 本文内容由[MBT-80主力戰車](https://zh.wikipedia.org/wiki/MBT-80主力戰車)转换而来。
+
+
 **FV4601 MBT-80主力戰車**（**FV4601**為[英軍內部代號](https://zh.wikipedia.org/wiki/英軍 "wikilink")）是[英國於](https://zh.wikipedia.org/wiki/英國 "wikilink")1970年代設計的實驗性[第三代主力戰車](../Page/依世代劃分的主力戰車列表.md "wikilink")，原先計畫用於取代[酋長式主力戰車](../Page/酋長式戰車.md "wikilink")。這款戰車最終因性能不如[挑戰者1戰車而被取消](https://zh.wikipedia.org/wiki/挑戰者1戰車 "wikilink")，而[挑戰者1戰車本身亦是](https://zh.wikipedia.org/wiki/挑戰者1戰車 "wikilink")[酋長式戰車](../Page/酋長式戰車.md "wikilink")的一款替代方案。\[1\]
 
 ## 歷史

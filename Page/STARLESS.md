@@ -1,3 +1,6 @@
+> 本文内容由[STARLESS](https://zh.wikipedia.org/wiki/STARLESS)转换而来。
+
+
 《**STARLESS**》是由[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")製作公司[WillPlus](../Page/WillPlus.md "wikilink")旗下的[Empress製作的成人遊戲](https://zh.wikipedia.org/wiki/Empress "wikilink")，在2011年5月27日發售。
 
 ## 故事

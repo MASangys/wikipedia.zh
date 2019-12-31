@@ -1,3 +1,6 @@
+> 本文内容由[常数Q变换](https://zh.wikipedia.org/wiki/常数Q变换)转换而来。
+
+
 **常数Q变换**（）是[数学](../Page/数学.md "wikilink")和[信号处理中的变换](https://zh.wikipedia.org/wiki/信号处理 "wikilink")，将数据变换到频域内。它与[傅里叶变换](../Page/傅里叶变换.md "wikilink")相关\[1\]，而且与[莫萊小波](../Page/莫萊小波.md "wikilink")变换紧密相关\[2\]。
 
 常数Q变换可以視為是許多對數分佈濾波器的組合，其中第*k*個濾波器其頻寬是上一個濾波器頻寬的某個倍數，也就是

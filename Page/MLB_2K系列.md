@@ -1,3 +1,6 @@
+> 本文内容由[MLB 2K系列](https://zh.wikipedia.org/wiki/MLB 2K系列)转换而来。
+
+
 **MLB 2K**是以[美國職業棒球大聯盟](../Page/美國職業棒球大聯盟.md "wikilink")为主题的一系列棒球游戏， 由[2K Sports](../Page/2K_Sports.md "wikilink") 發行, 在2005年3月推出《MLB 2K5》之後，一直到2013年，每年在大聯盟開季前都會推出新作品。2014年， [2K Sports宣布](../Page/2K_Sports.md "wikilink")，該系列將不再推出最新作， 因此，《MLB 2K13》也成為該系列最後一款作品。
 
 ## R.B.I. Baseball系列取代MLB 2K系列

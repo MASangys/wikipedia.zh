@@ -1,3 +1,6 @@
+> 本文内容由[FMK-3衝鋒鎗](https://zh.wikipedia.org/wiki/FMK-3衝鋒鎗)转换而来。
+
+
 **FMK-3**是一枝由[阿根廷](../Page/阿根廷.md "wikilink")於1974年研製及生產的[擊發調變及](../Page/擊發調變槍械.md "wikilink")[反沖作用操作式](../Page/反沖作用_\(槍械\).md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，发射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。直到1991年，為[阿根廷軍隊生產了約](../Page/阿根廷军事.md "wikilink")30,000枝該衝鋒槍。\[1\]
 
 ## 研發歷史

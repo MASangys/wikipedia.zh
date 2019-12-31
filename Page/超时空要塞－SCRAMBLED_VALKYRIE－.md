@@ -1,3 +1,6 @@
+> 本文内容由[超时空要塞－SCRAMBLED VALKYRIE－](https://zh.wikipedia.org/wiki/超时空要塞－SCRAMBLED VALKYRIE－)转换而来。
+
+
 是一款由[Winkysoft制作](https://zh.wikipedia.org/wiki/Winkysoft "wikilink")、Zamuse出品的[横向卷轴](https://zh.wikipedia.org/wiki/横向卷轴电子游戏 "wikilink")[射击游戏](https://zh.wikipedia.org/wiki/射击游戏 "wikilink")。游戏于1993年在[超级任天堂发行](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。
 
 玩家可以选择三个角色，他们分别是一条辉、Maximilian Jenius和Milia Fallyna Jenius。\[1\]

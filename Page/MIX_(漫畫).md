@@ -1,3 +1,6 @@
+> 本文内容由[MIX \(漫畫\)](https://zh.wikipedia.org/wiki/MIX \(漫畫\))转换而来。
+
+
 《**MIX**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[安達充繪畫的](https://zh.wikipedia.org/wiki/安達充 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，於《[月刊少年Sunday](../Page/月刊少年Sunday.md "wikilink")》2012年6月號開始連載\[1\]。連載開始便造成該月刊缺貨，増刷也沒有遏止該情況。於是第1話便於《月刊少年Sunday》2012年7月號與《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》2012年28號上再度刊載。截至2019年4月為止漫畫累計含電子版突破800萬本。
 
 背景為《[TOUCH 鄰家女孩](https://zh.wikipedia.org/wiki/TOUCH_鄰家女孩 "wikilink")》約30年後的明青學園。因父母二婚而成為同年兄弟的立花投馬、走一郎加入前輩上杉達也離開後就沒再登上甲子園，狀況無比低迷的明青學園棒球社，再度參加甲子園為目標。此作品亦是《[TOUCH 鄰家女孩](https://zh.wikipedia.org/wiki/TOUCH_鄰家女孩 "wikilink")》的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")。

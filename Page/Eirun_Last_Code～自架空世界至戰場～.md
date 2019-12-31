@@ -1,3 +1,6 @@
+> 本文内容由[Eirun Last Code～自架空世界至戰場～](https://zh.wikipedia.org/wiki/Eirun Last Code～自架空世界至戰場～)转换而来。
+
+
 《**Eirun Last Code～自架空世界至戰場～**》（）是[東龍乃助所寫作的](https://zh.wikipedia.org/wiki/東龍乃助 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Mikoto Akemi繪畫](https://zh.wikipedia.org/wiki/Mikoto_Akemi "wikilink")，並有[汐山古埜武和](https://zh.wikipedia.org/wiki/汐山古埜武 "wikilink")[貞松龍壹負責機械相關編劇與設計](https://zh.wikipedia.org/wiki/貞松龍壹 "wikilink")。[Media Factory出版](../Page/Media_Factory.md "wikilink")，中文版由[尖端出版](../Page/尖端出版.md "wikilink")發行。
 
 2016年《[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")》獲得了綜合第4名、新作第1名。\[1\]

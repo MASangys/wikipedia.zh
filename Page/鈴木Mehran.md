@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Mehran](https://zh.wikipedia.org/wiki/鈴木Mehran)转换而来。
+
+
 **鈴木Mehran**乃是自1989年起由[巴基鈴木公司](../Page/巴基鈴木公司.md "wikilink")（[日本](../Page/日本.md "wikilink")[鈴木公司位於](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[巴基斯坦](../Page/巴基斯坦.md "wikilink")的子公司）組裝製造的[輕型](../Page/輕型車.md "wikilink")[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")，其原型為[第二代鈴木Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第二代CA71V/72V/CC71V/72V型（1984年-1988年） "wikilink")，並且僅限巴基斯坦販售。
 
 ## 概要與歷史

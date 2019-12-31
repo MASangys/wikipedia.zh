@@ -1,3 +1,6 @@
+> 本文内容由[DAYS](https://zh.wikipedia.org/wiki/DAYS)转换而来。
+
+
 《**DAYS**》是[安田剛士](../Page/安田剛士.md "wikilink")的[日本](../Page/日本.md "wikilink")[足球](../Page/足球.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2013年開始在[講談社的旗下少年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》第21、22合併號連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年7月至12月首播。
 
 ## 作品簡介

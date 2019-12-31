@@ -1,3 +1,6 @@
+> 本文内容由[HLSL2GLSL](https://zh.wikipedia.org/wiki/HLSL2GLSL)转换而来。
+
+
 **HLSL2GLSL**（全稱，也可簡寫作**HLSL to GLSL**），是一種[命令列程式操作的](https://zh.wikipedia.org/wiki/命令列 "wikilink")[程式庫](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，用作將以[Direct3D](../Page/Direct3D.md "wikilink")9上使用[高級著色器語言編寫的](https://zh.wikipedia.org/wiki/高級著色器語言 "wikilink")[顯示核心渲染命令](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，轉換為[OpenGL渲染語言的顯示核心渲染命令](../Page/GLSL.md "wikilink")。\[1\]
 
 HLSL2GLSL最初由[ATI公司開發](../Page/冶天科技.md "wikilink")，並在[SourceForge](../Page/SourceForge.md "wikilink")上以[BSD許可證釋出專案的原始碼](../Page/BSD许可证.md "wikilink")。

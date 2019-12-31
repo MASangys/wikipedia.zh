@@ -1,3 +1,6 @@
+> 本文内容由[Ligier EZ10](https://zh.wikipedia.org/wiki/Ligier EZ10)转换而来。
+
+
 **利吉爾\[1\]EZ10**（，全稱為 Ligier EZ-10 Easy Mile，下文簡稱EZ10），是使用[電池為動力的](https://zh.wikipedia.org/wiki/電池 "wikilink")[自動駕駛汽車](../Page/自動駕駛汽車.md "wikilink")。其車體的生產製造由集團負責；而車上[導航系統的設計與安裝由Easy](https://zh.wikipedia.org/wiki/導航系統 "wikilink") Mile公司提供。Easy Mile是Ligier與另家專營機器人服務的法國公司robosoft共組的[合資企業](https://zh.wikipedia.org/wiki/合資企業 "wikilink")\[2\]。
 
 EZ-10的設計目的，是一種短途的迷你巴士（Mini shuttle），用於常規的電車或地鐵未經過路線，或設置站台不符成本的「最後一哩路」交通運輸，因為它不須額外鋪設鐵軌或加建其他基礎設施，且沒有固定路線。EZ-10的車身沒有前後之分，其車頂設置了GPS導航，車身的四個角落有和GPS傳感器；它的障礙物偵測系統依賴傳感器與270度視角的攝影機運作，重疊檢測後可做到360度偵測，其偵測有效範圍為距離車身40公尺\[3\]。

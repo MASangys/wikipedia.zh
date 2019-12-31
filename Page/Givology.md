@@ -1,3 +1,6 @@
+> 本文内容由[Givology](https://zh.wikipedia.org/wiki/Givology)转换而来。
+
+
 [Givology](http://www.givology.org/)是一个在线捐赠市场, 相当于任何互联网用户都可以赞助发展中国家的学生和教育项目。该机构成立于2008年，创始人是一群来自美国[宾夕法尼亚大学](../Page/宾夕法尼亚大学.md "wikilink")的本科生。**Givology**具有[501(c)3](https://en.wikipedia.org/wiki/501\(c\)_organization#501.28c.29.283.29)的免税地位，也是第一个教育众筹平台。机构的名字是由创始人发明的，意思是“给予的研究。”
 
 ## 互联网上的微型慈善事业和在线捐赠市场

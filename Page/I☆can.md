@@ -1,3 +1,6 @@
+> 本文内容由[I☆can](https://zh.wikipedia.org/wiki/I☆can)转换而来。
+
+
 是日本LiLiM在2009年8月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，電腦CLUB（電脳CLUB）在2011年1月27日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]\[4\]2015年4月24發售的合集《LiLiM Premium BOX -美龍昇天-》收錄短篇故事。\[5\]2010年PoRO開始發售[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[6\]
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[梦幻之星II 不归的终点](https://zh.wikipedia.org/wiki/梦幻之星II 不归的终点)转换而来。
+
+
 是一款在[Mega Drive发行的](../Page/Mega_Drive.md "wikilink")[角色扮演游戏](../Page/角色扮演游戏.md "wikilink")。游戏最先于1989年3月在日本发行，之后于1990年在欧洲和北美地区发行。\[1\]
 
 本游戏是[梦幻之星系列](../Page/梦幻之星系列.md "wikilink")的第二作。游戏的剧情与《[梦幻之星](../Page/梦幻之星.md "wikilink")》类似。

@@ -1,3 +1,6 @@
+> 本文内容由[Back to Our First Day](https://zh.wikipedia.org/wiki/Back to Our First Day)转换而来。
+
+
 《**Back To Our First Day**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")、[平原習作成員](https://zh.wikipedia.org/wiki/平原習作 "wikilink")[Trekkerz的第一張個人專輯](https://zh.wikipedia.org/wiki/Trekkerz "wikilink")，於2016年7月22日推出。
 
 ## 曲目

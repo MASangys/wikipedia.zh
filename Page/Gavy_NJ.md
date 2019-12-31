@@ -1,3 +1,6 @@
+> 本文内容由[Gavy NJ](https://zh.wikipedia.org/wiki/Gavy NJ)转换而来。
+
+
 *' Gavy NJ*'（)，是[韓國Good](https://zh.wikipedia.org/wiki/韓國 "wikilink") Berry娛樂於2005年11月10日推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")。組合以強勁的演唱實力獲得不少歡迎，初出道便獲得金唱片最佳新人獎，更被譽為"女版[SG Wannabe](../Page/SG_Wannabe.md "wikilink")"。
 
 初期成員有[鄭慧敏](https://zh.wikipedia.org/wiki/鄭慧敏 "wikilink")、[張熙英](https://zh.wikipedia.org/wiki/張熙英 "wikilink")、[盧詩賢](https://zh.wikipedia.org/wiki/盧詩賢 "wikilink")。2009年，[鄭慧敏退出](https://zh.wikipedia.org/wiki/鄭慧敏 "wikilink")，公司加入[Misty頂替其位置](https://zh.wikipedia.org/wiki/Misty_\(歌手\) "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Yerin](https://zh.wikipedia.org/wiki/Yerin)转换而来。
+
+
 **鄭睿隣**\[1\]（，，），藝名**Yerin**（），名字常被錯譯為**藝琳**，[韓國女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source Music旗下](../Page/Source_Music.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的成員，在隊內擔任領舞、副唱及形象擔當。曾是[Fantagio](../Page/Fantagio.md "wikilink")娛樂、[Cube娛樂](../Page/Cube娛樂.md "wikilink")的練習生，練習生生涯共4年。
 
 ## 生涯

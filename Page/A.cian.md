@@ -1,3 +1,6 @@
+> 本文内容由[A.cian](https://zh.wikipedia.org/wiki/A.cian)转换而来。
+
+
 **A.cian**（韓語：**에이션**），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，2012年9月27日，公開道曲《STUCK》MV，2012年9月28日，《音樂銀行》表演出道舞台。\[1\]\[2\]出道時5位成員為Seul Gi、Crooge、Se Hee、Chan Hee、Sang Hyeon，現時4位成員為Jung Sang、Hyuk Jin、Sang Hyeon、Jin.O。\[3\] \[4\]\[5\] \[6\] \[7\] \[8\] \[9\] \[10\]
 
 團名意義為「**Ace of Asia + Musician**」。\[11\]團體口號為「**Attention\! We are A.cian**」。\[12\]粉絲名稱為「**아우라 (A.ura)**」。

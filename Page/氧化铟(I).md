@@ -1,3 +1,6 @@
+> 本文内容由[氧化铟\(I\)](https://zh.wikipedia.org/wiki/氧化铟\(I\))转换而来。
+
+
 **氧化铟(I)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为In<sub>2</sub>O。它是一种黑色的晶体粉末，不吸湿。\[1\]
 
 ## 制备

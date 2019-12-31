@@ -1,3 +1,6 @@
+> 本文内容由[模块:TeamBracket](https://zh.wikipedia.org/wiki/模块:TeamBracket)转换而来。
+
+
 \-- -- 本模块将用于实现 --
 
 local p = {} local args local rounds local padding local hideSeeds local showSeeds

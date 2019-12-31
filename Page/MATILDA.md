@@ -1,3 +1,6 @@
+> 本文内容由[MATILDA](https://zh.wikipedia.org/wiki/MATILDA)转换而来。
+
+
 ''' MATILDA '''（）為 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") BOX Media旗下的一組 [女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，是由Haena、Dan-A、Semmi、SaeByeol四名成員組成，於2016年3月17號以《Macarena》一曲正式出道，18日在KBS《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》上初亮相，以《Macarena》表演出道舞台。
 隊名MATILDA，是在電影[Léon](https://zh.wikipedia.org/wiki/Léon "wikilink") （終極追殺令）中，自信又聰明的角色Matilda上獲得的靈感。Matilda雖然小，但堅強又勇敢的意思去命名。\[1\]。2019年9月7日與BOX Media結束專屬合約；9月11日，公司宣佈團體解散。
 

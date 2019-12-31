@@ -1,3 +1,6 @@
+> 本文内容由[KIWI姐姐](https://zh.wikipedia.org/wiki/KIWI姐姐)转换而来。
+
+
 **KIWI姐姐**（，本名**莫允樂**），[苗栗縣](../Page/苗栗縣.md "wikilink")出身，2010年畢業於[台中青年高中舞蹈科](https://zh.wikipedia.org/wiki/台中青年高中 "wikilink")，2014年畢業於[國立台灣體育大學體育舞蹈系](https://zh.wikipedia.org/wiki/國立台灣體育大學 "wikilink")，2012年6月入選[東森幼幼台](../Page/東森幼幼台.md "wikilink")水果生力軍，於2013年正式出道。现為[YOYO家族](../Page/YOYO家族.md "wikilink")水果生力軍成员之一，並擔任東森幼幼台的節目主持人。2018年11月底開設個人YouTube頻道《Hi\!kiwiwi》。
 
 ## 唱片

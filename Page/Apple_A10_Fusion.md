@@ -1,3 +1,6 @@
+> 本文内容由[Apple A10 Fusion](https://zh.wikipedia.org/wiki/Apple A10 Fusion)转换而来。
+
+
 **Apple A10 Fusion**（融合）是[蘋果公司設計的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC）。這款晶片於2016年9月7日發佈，首先被搭載於iPhone 7和iPhone 7 Plus智能手機中。\[1\]\[2\]
 
 ## 概覽

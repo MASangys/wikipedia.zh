@@ -1,3 +1,6 @@
+> 本文内容由[Treatstock](https://zh.wikipedia.org/wiki/Treatstock)转换而来。
+
+
 **Treatstock**是一个集合了3D模型设计师和3D打印供应商，为用户提供[3D打印](../Page/3D打印.md "wikilink")服务的平台。用户不仅可以在商城中购买3D打印模型，也可以上传自己的设计，并通过离自己最近的打印供应商进行打印。\[1\]
 
 ## 主要特点

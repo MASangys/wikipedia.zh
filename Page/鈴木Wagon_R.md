@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Wagon R](https://zh.wikipedia.org/wiki/鈴木Wagon R)转换而来。
+
+
 **鈴木Wagon R**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1993年起開發製造的[輕型](../Page/輕型車.md "wikilink")[高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")/[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。關於車名的「R」既代表「Revolution（[革命](../Page/革命.md "wikilink")）」，也具有「Relaxation（[休閒娛樂](../Page/餘暇.md "wikilink")）」的意義\[1\]。
 
 ## 概要

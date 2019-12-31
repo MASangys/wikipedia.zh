@@ -1,3 +1,6 @@
+> 本文内容由[Born of Osiris](https://zh.wikipedia.org/wiki/Born of Osiris)转换而来。
+
+
 **Born of Osiris**是來自美國[伊利諾州](https://zh.wikipedia.org/wiki/伊利諾州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")的金屬樂團，成立於2003年。樂團名字經過幾次變動，包括Diminished（2003–2004年）、Your Heart Engraved（2004–2006年）以及Rosecrance（2006–2007年），2007年定為目前的名字\[1\]。團名的靈感來自於[埃及神話中](https://zh.wikipedia.org/wiki/埃及神話 "wikilink")，冥王[歐西里斯的兒子](https://zh.wikipedia.org/wiki/歐西里斯 "wikilink")[荷魯斯的故事](https://zh.wikipedia.org/wiki/荷魯斯 "wikilink")\[2\]。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Azure 虛擬機器服務](https://zh.wikipedia.org/wiki/Microsoft Azure 虛擬機器服務)转换而来。
+
+
 **Microsoft Azure 虛擬機器服務** 是 Microsoft Azure 平台的基礎建設服務之一，且是運算類服務的核心，由微軟資料中心的實體伺服器[虛擬化](../Page/虛擬化.md "wikilink")後產生的虛擬機器提供，雖然虛擬機器會供應 Microsoft Azure 平台內所有需要運算資源的服務 (如 Cloud Service、Web App、Service Fabric 以及其他類型服務)，但虛擬機器服務會開放足夠的管理與控制權給系統管理人員或網路管理人員，讓他們有權力操作整台虛擬機器。
 
 虛擬機器服務自 2012 年 Spring Release 階段正式推出，目前已是 Microsoft Azure 平台上使用率最高的服務。

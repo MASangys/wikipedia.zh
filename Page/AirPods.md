@@ -1,3 +1,6 @@
+> 本文内容由[AirPods](https://zh.wikipedia.org/wiki/AirPods)转换而来。
+
+
 **AirPods**是[蘋果公司所推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[藍牙](../Page/藍牙.md "wikilink")[无线耳机](https://zh.wikipedia.org/wiki/无线耳机 "wikilink")，于2016年9月7日苹果秋季新品发布会上初次发布。不過上市方面，该耳机因為開發原因導致延遲到2016年12月中才正式對外发售，而且因為供不應求，當時之運送等待時間達到至少6週之久。官方售价分別为[人民币](../Page/人民币.md "wikilink")1,288元、[港币](https://zh.wikipedia.org/wiki/港币 "wikilink")1,288元、[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")16,800元、[新台币](https://zh.wikipedia.org/wiki/新台币 "wikilink")5,490元。该耳机需要设备运行[iOS 10或](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")[watchOS 3以上的](https://zh.wikipedia.org/wiki/watchOS "wikilink")[操作系统](../Page/操作系统.md "wikilink")。AirPods可以自动通过[iCloud同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")，使得AirPods可以在运行[macOS Sierra和watchOS的设备之间自由切换](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")。AirPods也可以通过[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")4.0协议連結至其他设备，包括运行[Android](../Page/Android.md "wikilink")系统的设备。
 
 2019年3月20日发布第二代AirPods，第二代产品外觀大致與第一代相同，但晶片改用H1晶片以支援[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 5.0\[1\]、改善無線連接速度、降低音訊延遲\[2\]，並可選配無線充電盒，但第二代产品需要设备运行 [iOS 12.2](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")、[watchOS 5.2](https://zh.wikipedia.org/wiki/watchOS "wikilink") 或 [macOS 10.14.4](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink") 以上版本。

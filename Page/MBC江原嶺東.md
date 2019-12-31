@@ -1,3 +1,6 @@
+> 本文内容由[MBC江原嶺東](https://zh.wikipedia.org/wiki/MBC江原嶺東)转换而来。
+
+
 **MBC江原嶺東**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：MBC강원영동，[朝鲜汉字](https://zh.wikipedia.org/wiki/朝鲜汉字 "wikilink")：；[英语](../Page/英语.md "wikilink")：MBC Gangwon Yeongdong）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[江原道的](https://zh.wikipedia.org/wiki/江原道_\(南\) "wikilink")[文化广播](../Page/文化廣播公司.md "wikilink")（MBC）的放送局。
 
 ## 所在地

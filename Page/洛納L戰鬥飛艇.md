@@ -1,3 +1,6 @@
+> 本文内容由[洛納L戰鬥飛艇](https://zh.wikipedia.org/wiki/洛納L戰鬥飛艇)转换而来。
+
+
 **洛納L戰鬥飛艇**是[第一次世界大戰時](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[奧匈帝國海軍航空隊在南線](https://zh.wikipedia.org/wiki/奧匈帝國 "wikilink")[地中海](../Page/地中海.md "wikilink")戰區和意大利作戰所使用的戰鬥飛艇，其研製廠家洛納公司是奧匈帝國最有名的汽車生產商，1909年開始進軍航空工業。
 
 洛納L戰鬥飛艇的「L」除了是指洛納公司(Lohner)也是長程偵察機的意思。

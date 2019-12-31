@@ -1,3 +1,6 @@
+> 本文内容由[Trap](https://zh.wikipedia.org/wiki/Trap)转换而来。
+
+
 **Trap**或**traps**可能指：
 
 ## 社会科学

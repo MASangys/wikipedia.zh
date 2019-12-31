@@ -1,3 +1,6 @@
+> 本文内容由[超級機器人大戰OG THE MOON DWELLERS](https://zh.wikipedia.org/wiki/超級機器人大戰OG THE MOON DWELLERS)转换而来。
+
+
 {{ external media | align = | width = | video1 =[PS4『超級機器人大戰OG THE MOON DWELLERS』繁體中文版宣傳影片 - YouTube](https://www.youtube.com/watch?v=oG8RPFnQstY) }}
 
 ，是由[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")於2016年6月30日在[PlayStation 3用及](../Page/PlayStation_3.md "wikilink")[PlayStation 4上發售的回合制](../Page/PlayStation_4.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本作是由《[超級機械人大戰系列](https://zh.wikipedia.org/wiki/超級機械人大戰系列 "wikilink")》作品中登場的原創角色構成的OG系列作品之一，為超級機械人大戰系列25周年記念作品的第一彈。宣傳詞為「超級機械人大戰OG，新篇章 自月球與時空門（超次元之門）而來，前所未有的災難――」。本作為《[超級機械人大戰系列](https://zh.wikipedia.org/wiki/超級機械人大戰系列 "wikilink")》首次推出繁體中文版，於2016年7月7日發售\[1\]。

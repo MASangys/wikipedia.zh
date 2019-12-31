@@ -1,3 +1,6 @@
+> 本文内容由[HKT48 vs NGT48 指北合戰](https://zh.wikipedia.org/wiki/HKT48 vs NGT48 指北合戰)转换而来。
+
+
 《**HKT48 vs NGT48指北合戰**》（）是[日本電視台](../Page/日本電視台.md "wikilink")自2016年1月12日至3月29日，於[日本時間每週二凌晨](../Page/日本標準時間.md "wikilink")1時29分至59分播放的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")。此節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")與[NGT48](../Page/NGT48.md "wikilink")所共同擁有的冠名節目，由HKT48的資深成員也同時是劇場經理的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任節目主持人。節目名稱中的「指北」實際上是主持人指原莉乃與NGT48的隊長[北原里英](../Page/北原里英.md "wikilink")兩人的合稱，由兩人帶領著兩團體的成員，在節目中以不同的競賽主題進行對抗。
 
 ## 節目特色與流程

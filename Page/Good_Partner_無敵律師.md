@@ -1,3 +1,6 @@
+> 本文内容由[Good Partner 無敵律師](https://zh.wikipedia.org/wiki/Good Partner 無敵律師)转换而来。
+
+
 為[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")自2016年4月[朝日電視台週四晚間九點連續劇](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[竹野內豐](../Page/竹野內豐.md "wikilink")主演\[1\]。
 
 ## 簡介

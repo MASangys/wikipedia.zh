@@ -1,3 +1,6 @@
+> 本文内容由[Dontnod Entertainment](https://zh.wikipedia.org/wiki/Dontnod Entertainment)转换而来。
+
+
 **Don't Nod Entertainment SA**（[商业名称](https://zh.wikipedia.org/wiki/商业名称 "wikilink")：**Dontnod Entertainment**，风格化**DONTИOD**）{{\#tag:ref|“Dontnod”是由联合创始人阿兰·达马西奥设计的[回文](../Page/回文.md "wikilink")字符。\[1\]|group=注}}是一家[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[游戏开发商](https://zh.wikipedia.org/wiki/游戏开发商 "wikilink")，总部位于[巴黎](../Page/巴黎.md "wikilink")。公司成立于2008年6月，首部作品为《[記憶駭客](../Page/記憶駭客.md "wikilink")》（2013）。由于投资回报率低，Dontnod通过公共资金资助《[奇妙人生](https://zh.wikipedia.org/wiki/奇妙人生 "wikilink")》（2015），以解决财务问题，游戏的成功使得Dontnod的行业地位得以提升。公司之后于2018年发行了《[吸血鬼](../Page/吸血鬼_\(遊戲\).md "wikilink")》、《[超能队长](https://zh.wikipedia.org/wiki/超能队长 "wikilink")》和《[奇异人生2](../Page/奇异人生2.md "wikilink")》并计划于2019年发行《[双子幻镜](https://zh.wikipedia.org/wiki/双子幻镜 "wikilink")》。
 
 ## 历史

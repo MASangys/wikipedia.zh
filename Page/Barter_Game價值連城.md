@@ -1,3 +1,6 @@
+> 本文内容由[Barter Game價值連城](https://zh.wikipedia.org/wiki/Barter Game價值連城)转换而来。
+
+
 《**Barter Game價值連城**》（**Barter Game**）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2016年7月4日至9月5日逢周一至二22:00-23:00在[ViuTV](../Page/ViuTV.md "wikilink")播出，節目旁白為[梁祖堯](../Page/梁祖堯.md "wikilink")。\[1\]
 
 節目主持分為三組人：[梁漢文](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")、[任賢齊](../Page/任賢齊.md "wikilink")去[茶馬古道](https://zh.wikipedia.org/wiki/茶馬古道 "wikilink")；[林二汶](https://zh.wikipedia.org/wiki/林二汶 "wikilink")、[駱振偉](../Page/駱振偉.md "wikilink")去[婆羅洲](https://zh.wikipedia.org/wiki/婆羅洲 "wikilink")；[劉心悠](../Page/劉心悠.md "wikilink")和[Eric Kwok去](../Page/郭偉亮.md "wikilink")[古巴](../Page/古巴.md "wikilink")。他們在240小時的行程裡面，只能靠80公升的行裝，用以物換物的方式換取旅費。\[2\]

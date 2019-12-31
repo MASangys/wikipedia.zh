@@ -1,3 +1,6 @@
+> 本文内容由[MapR](https://zh.wikipedia.org/wiki/MapR)转换而来。
+
+
 **MapR**是一所美国企业管理软件公司、全球三大Hadoop开源大数据软件的提供商之一，总部位于[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[圣何塞市](https://zh.wikipedia.org/wiki/圣何塞市 "wikilink")，主要参与大数据的安全优化与开发、销售[Apache Hadoop的衍生软件](../Page/Apache_Hadoop.md "wikilink")。MapR和[Apache Hadoop一起参加过](../Page/Apache_Hadoop.md "wikilink")[HBase](../Page/Apache_HBase.md "wikilink")、[Apache Hive](https://zh.wikipedia.org/wiki/Apache_Hive "wikilink")、[Apache ZooKeeper等项目的研发](../Page/Apache_ZooKeeper.md "wikilink")。MAPR曾被亚马逊云服务选择为[亚马逊弹性云EC](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")2的升级版本。\[1\]\[2\]MapR称，目前为止该公司的付费认证客户总数已达500家。<span class="cx-segment" data-segmentid="66"></span>
 
 MapR的大部分高管都来自Google、Lightspeed Venture Partners、Informatica、[EMC和Veoh](https://zh.wikipedia.org/wiki/EMC "wikilink")。

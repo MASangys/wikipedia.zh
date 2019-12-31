@@ -1,3 +1,6 @@
+> 本文内容由[膽小鬼LINE](https://zh.wikipedia.org/wiki/膽小鬼LINE)转换而来。
+
+
 《**膽小鬼LINE**》（）是[日本](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48](../Page/SKE48.md "wikilink")的第19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2016年3月30日由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

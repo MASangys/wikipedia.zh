@@ -1,3 +1,6 @@
+> 本文内容由[MM-1轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/MM-1轉輪式榴彈發射器)转换而来。
+
+
 **雄鷹MM-1**（，以下簡稱：MM-1）是一款由[美国](../Page/美国.md "wikilink")武器製造商[雄鷹工程有限公司](https://zh.wikipedia.org/wiki/雄鷹工程有限公司 "wikilink")（Hawk Engineering Co）所生產的12發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要用於殺傷面點面有生目標，主要發射[40×46毫米](../Page/40毫米榴彈.md "wikilink")[口徑低速](https://zh.wikipedia.org/wiki/口徑 "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 生產商聲稱，它已被美國[特種部隊](../Page/特種部隊.md "wikilink")，以及一些南美和非洲國家的軍隊所採用。

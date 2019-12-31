@@ -1,3 +1,6 @@
+> 本文内容由[Seventy Two Changes](https://zh.wikipedia.org/wiki/Seventy Two Changes)转换而来。
+
+
 **Seventy Two Changes**是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")與執行長Ken Erman於2009年美國[紐約州](../Page/纽约州.md "wikilink")[紐約共同創立的一個服裝品牌](../Page/纽约.md "wikilink")，之後業務地區擴展至中國大陸、香港、臺灣、新加坡、馬來西亞等地區，2011年因美國與中國大陸雙方股東的經營理念發生分歧而解散。\[1\]\[2\]
 
 ## 歷史

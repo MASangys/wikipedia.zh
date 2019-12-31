@@ -1,3 +1,6 @@
+> 本文内容由[GNU Guile](https://zh.wikipedia.org/wiki/GNU Guile)转换而来。
+
+
 **GNU Guile** 是 [GNU 计划首选的扩展系统](../Page/GNU計劃.md "wikilink")，是 [Scheme](../Page/Scheme.md "wikilink") 程序设计语言的一种实现，首个版本于1993年问世。
 
 Guile 提供了“libguile”可将语言嵌入至其他程序并通过 C [API](../Page/应用程序接口.md "wikilink") 紧密的结合。同样的，新的类型和子程序的定义也可以通过 C API 扩展 Guile 自身。

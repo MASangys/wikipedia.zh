@@ -1,3 +1,6 @@
+> 本文内容由[K街](https://zh.wikipedia.org/wiki/K街)转换而来。
+
+
 [1500_block_of_K_Street.JPG](https://zh.wikipedia.org/wiki/File:1500_block_of_K_Street.JPG "fig:1500_block_of_K_Street.JPG")市区\]\] **K街**（K Street）是[美国](../Page/美国.md "wikilink")[首都](../Page/首都.md "wikilink")[华盛顿哥伦比亚特区](../Page/华盛顿哥伦比亚特区.md "wikilink")的一条主要干道，东西走向，被称为众多[智库](https://zh.wikipedia.org/wiki/智库 "wikilink")、[游说集团](../Page/游说集团.md "wikilink")和[倡导团体的中心](https://zh.wikipedia.org/wiki/倡导团体 "wikilink")。
 
 在政治话语中，“K街”已成为华盛顿的游说行业的[转喻](https://zh.wikipedia.org/wiki/转喻 "wikilink")。\[1\]然而自1980年代后期，许多游说公司已经搬走；排名前20位的游说公司只有一个还设在K街。\[2\]

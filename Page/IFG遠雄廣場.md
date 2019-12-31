@@ -1,3 +1,6 @@
+> 本文内容由[IFG遠雄廣場](https://zh.wikipedia.org/wiki/IFG遠雄廣場)转换而来。
+
+
 [Farglory_U-Town_20160624.jpg](https://zh.wikipedia.org/wiki/File:Farglory_U-Town_20160624.jpg "fig:Farglory_U-Town_20160624.jpg") **iFG遠雄廣場**是一間位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[汐止區](../Page/汐止區.md "wikilink")的大型[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[遠雄集團首次跨足流通事業的事業體](https://zh.wikipedia.org/wiki/遠雄集團 "wikilink")，亦為汐止區唯一的百貨商場。遠雄廣場位於[遠雄U-TOWN大樓內](https://zh.wikipedia.org/wiki/遠雄U-TOWN "wikilink")，營業樓層為地下第一層至地上四層，營業面積約31,570坪，共有200個品牌進駐，於2015年5月[試營運](https://zh.wikipedia.org/wiki/試營運 "wikilink")\[1\]，2015年10月23日開幕營業\[2\]。2016年6月由**iFG遠雄購物中心**改名為**iFG遠雄廣場**。
 
 ## 週邊

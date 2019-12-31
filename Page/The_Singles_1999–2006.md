@@ -1,3 +1,6 @@
+> 本文内容由[The Singles 1999–2006](https://zh.wikipedia.org/wiki/The Singles 1999–2006)转换而来。
+
+
 **The Singles 1999–2006**是英国[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[酷玩乐队的](https://zh.wikipedia.org/wiki/酷玩乐队 "wikilink")[单曲](../Page/单曲.md "wikilink")[盒装](https://zh.wikipedia.org/wiki/Boxset "wikilink")[合辑](https://zh.wikipedia.org/wiki/合辑 "wikilink")。这个合辑收录了酷玩乐队从专辑[降落伞到](https://zh.wikipedia.org/wiki/降落伞_\(专辑\) "wikilink")[XY密码](../Page/XY密码.md "wikilink")，以[7英寸黑胶唱片的形式发布](https://zh.wikipedia.org/wiki/黑胶唱片 "wikilink")。\[1\]
 
 ## 曲目

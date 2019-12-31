@@ -1,3 +1,6 @@
+> 本文内容由[ICE-4列车](https://zh.wikipedia.org/wiki/ICE-4列车)转换而来。
+
+
 **ICE-4列车**（）是[德铁长途运输](../Page/德铁长途运输.md "wikilink")營運中的最新一代时速250公里[ICE](https://zh.wikipedia.org/wiki/城际快车 "wikilink")[高速列车](https://zh.wikipedia.org/wiki/高速列车 "wikilink")。[德国铁路](../Page/德国铁路.md "wikilink")计划将购入300列这款定名为“ICE4”的電聯車\[1\]的[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")，以供“交通运输”部门作使用。所预定的電聯車自2011年起由[西门子交通集团负责制造](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")。
 
 该型12节编组的动车组已于2017年12月起投入使用，而7节编组的版本则应自2020年12月起交付\[2\]。列车在德国铁路内部的定型编号为412型\[3\]。

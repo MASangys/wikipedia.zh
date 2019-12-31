@@ -1,3 +1,6 @@
+> 本文内容由[XPRIZE](https://zh.wikipedia.org/wiki/XPRIZE)转换而来。
+
+
 **XPRIZE** 是即X獎基金會之簡稱。XPRIZE 是設立在美國的非營利組織性質之基金會，其設立目的在於透過贊助並組織公共競賽，以推動可對全人類有益的技術創新，其贊助的獎項多冠以X字樣，例如[安薩里X大獎](../Page/安薩里X大獎.md "wikilink")、[Google月球X大獎](https://zh.wikipedia.org/wiki/Google月球X大獎 "wikilink")。
 
 ## 歷史

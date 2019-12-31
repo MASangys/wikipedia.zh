@@ -1,3 +1,6 @@
+> 本文内容由[模块:Demo](https://zh.wikipedia.org/wiki/模块:Demo)转换而来。
+
+
 local p = {}
 
 \--creates a frame object that cannot access any of the parent's args --unless a table containing a list keys of not to inherit is provided function disinherit(frame, onlyTheseKeys)

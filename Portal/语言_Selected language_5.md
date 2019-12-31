@@ -1,3 +1,6 @@
+> 本文内容由[Portal:语言/Selected language/5](https://zh.wikipedia.org/wiki/Portal:语言/Selected language/5)转换而来。
+
+
 {{\#if:|
 
 <div style="float:left;margin-right:1em">

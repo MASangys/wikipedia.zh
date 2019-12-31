@@ -1,3 +1,6 @@
+> 本文内容由[威廉·S·蒂利特](https://zh.wikipedia.org/wiki/威廉·S·蒂利特)转换而来。
+
+
 **威廉·S·蒂利特**（，），美国内科医师和微生物学家，教授\[1\]，出生于北卡羅來納州的[夏洛特](../Page/夏洛特_\(北卡羅來納州\).md "wikilink")，最知名的贡献是发现了[C反應蛋白和](https://zh.wikipedia.org/wiki/C反應蛋白 "wikilink")[链激酶](../Page/链激酶.md "wikilink")。
 
 ## 参考文献

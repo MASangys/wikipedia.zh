@@ -1,3 +1,6 @@
+> 本文内容由[BOSS長城](https://zh.wikipedia.org/wiki/BOSS長城)转换而来。
+
+
 [BOSS_Great_Wall.jpg](https://zh.wikipedia.org/wiki/File:BOSS_Great_Wall.jpg "fig:BOSS_Great_Wall.jpg")
 
 **BOSS長城**（），也可稱為波斯長城或老板長城(暫譯)，簡稱**BGW**，為星系團之間組成的巨牆，迄今宇宙觀測中最為巨大的「非結構」體，2016年3月由西班牙天文物理學研究所的Heidi Lietzen，與其團隊成員 E. Tempel，L. J. Liivamägi，A. Montero-Dorta，M. Einasto， A. Streblyanska，C. Maraston，J. A. Rubiño-Martín，E. Saar共同對外公布，其研究成果也被收納於Astronomy & Astrophysics網站。根據Heidi Lietzen等人的研究觀測，其質量可高達[銀河系的一萬倍](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，在此範圍包含830個肉眼可見的星系。直徑橫跨10億光年，僅次於2013年發現的[武仙－北冕座長城](../Page/武仙－北冕座長城.md "wikilink")，約距離地球45至64億光年。

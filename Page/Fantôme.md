@@ -1,3 +1,6 @@
+> 本文内容由[Fantôme](https://zh.wikipedia.org/wiki/Fantôme)转换而来。
+
+
 \-{zh-cn:《**幻影**》（）;zh-tw:《****》}-是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[宇多田光](../Page/宇多田光.md "wikilink")所發行的第六張日語原創專輯，於2016年9月28日透過[環球唱片發行](../Page/環球音樂_\(日本\).md "wikilink")\[1\]。專輯以「生」與「死」為主題\[2\]，其中大多數歌曲皆為獻給其過世的母親[藤圭子](../Page/藤圭子.md "wikilink")\[3\]，亦不乏以[性](https://zh.wikipedia.org/wiki/性慾 "wikilink")\[4\]、[LGBT](../Page/LGBT.md "wikilink")\[5\]等作題材的歌曲。專輯的名稱《》為帶有「虛幻」、「氣息」等感覺的法語，包含希望聽眾能夠感受到其母親氣息的意願\[6\]。
 
 《Fantôme》獲得樂評家整體正面的評價，包括讚揚其作為藝術家的成長\[7\]、對母親的感情以及表達對[LGBT](../Page/LGBT.md "wikilink")團體的支持\[8\]。專輯亦獲得2016年第58屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")最佳專輯獎\[9\]。

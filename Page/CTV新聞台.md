@@ -1,3 +1,6 @@
+> 本文内容由[CTV新聞台](https://zh.wikipedia.org/wiki/CTV新聞台)转换而来。
+
+
 **CTV新聞台**（）是[加拿大一個丙類收費電視頻道](https://zh.wikipedia.org/wiki/加拿大電視 "wikilink")，母公司為[加拿大貝爾](../Page/加拿大貝爾.md "wikilink")屬下的[貝爾傳媒](../Page/貝爾傳媒.md "wikilink")，定位為24小時新聞頻道，播放國内外頭條和突發新聞，從設於[安大略省](../Page/安大略省.md "wikilink")[多倫多市](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[士嘉堡](../Page/士嘉堡.md "wikilink")區[愛靜閣](../Page/愛靜閣.md "wikilink")社區的CTV全國總部廣播。
 
 ## 歷史

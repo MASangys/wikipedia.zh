@@ -1,3 +1,6 @@
+> 本文内容由[天色Islenauts](https://zh.wikipedia.org/wiki/天色Islenauts)转换而来。
+
+
 《**天色Islenauts**》（日文：），是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2013年7月26日\[1\]所發售的[恋爱冒險類型](https://zh.wikipedia.org/wiki/恋爱冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 在本作的虚构世界里，以位于日本上空、童话般的空岛为背景，主人公鹭之森透的新故事正在展开。应导师要求，透在这个岛上全是女生的一所学校里担任教师。面对可爱的少女们，至今从未体验过的，在天空之上的故事，现在即将开始。\[2\]

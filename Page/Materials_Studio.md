@@ -1,3 +1,6 @@
+> 本文内容由[Materials Studio](https://zh.wikipedia.org/wiki/Materials Studio)转换而来。
+
+
 **Materials Studio** 是一个用于材料模拟和建模的软件，由 [Accelrys](https://zh.wikipedia.org/wiki/Accelrys "wikilink") 开发\[1\]。
 
 这个软件被许多大学、研究中心以及高科技公司使用，以研究各种各样的材料，比如[高分子](../Page/高分子.md "wikilink")、[碳纳米管](../Page/碳纳米管.md "wikilink")、[催化剂](../Page/催化剂.md "wikilink")、[金属](../Page/金属.md "wikilink")、[陶瓷等等](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")。

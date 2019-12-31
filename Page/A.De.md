@@ -1,3 +1,6 @@
+> 本文内容由[A.De](https://zh.wikipedia.org/wiki/A.De)转换而来。
+
+
 **A.De**（）是[2ABLE COMPANY在](https://zh.wikipedia.org/wiki/2ABLE_COMPANY "wikilink")2016年推出的七人女子團體，成員包括秀妍、如璘、智瑞、Rachel、海泳、礎奫以及美笑。
 
 ## 成員檔案

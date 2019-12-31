@@ -1,3 +1,6 @@
+> 本文内容由[O型星](https://zh.wikipedia.org/wiki/O型星)转换而来。
+
+
 [Morgan-Keenan_spectral_classification.png](https://zh.wikipedia.org/wiki/File:Morgan-Keenan_spectral_classification.png "fig:Morgan-Keenan_spectral_classification.png")
 
 **O型星**是炙熱、藍白色，在[天文學家使用的](https://zh.wikipedia.org/wiki/天文學家 "wikilink")[耶基斯光譜系統中分類為](https://zh.wikipedia.org/wiki/恆星分類#耶基斯光譜分類 "wikilink")[光譜類型](https://zh.wikipedia.org/wiki/光譜類型 "wikilink")[O的](https://zh.wikipedia.org/wiki/恆星分類#O "wikilink")[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")。它們的溫度超過30,000[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")，因此出現在赫羅圖上的左側。這種類型恆星的特徵是它們的[譜線](../Page/譜線.md "wikilink")有強烈的電離元素，[氦](../Page/氦.md "wikilink")-II的[吸收線](../Page/譜線.md "wikilink")，而氫和中性氦的吸收線比[B型星微弱](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")。

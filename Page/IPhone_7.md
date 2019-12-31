@@ -1,3 +1,6 @@
+> 本文内容由[IPhone 7](https://zh.wikipedia.org/wiki/IPhone 7)转换而来。
+
+
 **iPhone 7**與**iPhone 7 Plus**是美國[蘋果公司推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，第十代[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")，同時也是[iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink") 的後代。2016年9月7日官方公佈。 \[1\]
 
 ## 特色

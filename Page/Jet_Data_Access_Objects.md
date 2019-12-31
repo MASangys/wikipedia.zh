@@ -1,3 +1,6 @@
+> 本文内容由[Jet Data Access Objects](https://zh.wikipedia.org/wiki/Jet Data Access Objects)转换而来。
+
+
 **Jet Data Access Objects**是[微软](../Page/微软.md "wikilink")的一项过时的数据库编程访问界面。DAO是基于[Microsoft Jet Database Engine之上的一套面向对象的体系](../Page/Microsoft_Jet_Database_Engine.md "wikilink")，可以访问[Microsoft Access或](../Page/Microsoft_Access.md "wikilink")[dBase等桌面文件型数据库](https://zh.wikipedia.org/wiki/dBase "wikilink")，或者[ODBC](../Page/ODBC.md "wikilink")。1996年发布的建于[OLE DB之上的](../Page/OLE_DB.md "wikilink")[ADO](../Page/ADO.md "wikilink")，取代了DAO的地位。
 
 ## 历史

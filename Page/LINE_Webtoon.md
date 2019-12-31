@@ -1,3 +1,6 @@
+> 本文内容由[LINE Webtoon](https://zh.wikipedia.org/wiki/LINE Webtoon)转换而来。
+
+
 **LINE WEBTOON**是一个韓國[Naver的多國行動漫畫平台](../Page/Naver_\(公司\).md "wikilink")\[1\]，2014年首次進入[台灣的漫畫市場](https://zh.wikipedia.org/wiki/台灣 "wikilink")。其中包括恐怖、劇情、搞笑、奇幻等內容的作品，\[2\]LINE Webtoon團隊曾表示，在LINE Webtoon上的作品，有1/3是台灣原創漫畫。\[3\]
 
 ## 漫畫作家

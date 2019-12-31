@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-Wordcount.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-Wordcount.js)转换而来。
+
+
 `   (function($) {`
 `       function bytecount(text) {`
 `           text = text.replace(/[\u0000-\u007F]/g, '.');`

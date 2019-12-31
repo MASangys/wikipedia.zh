@@ -1,3 +1,6 @@
+> 本文内容由[Commonfloor](https://zh.wikipedia.org/wiki/Commonfloor)转换而来。
+
+
 **CommonFloor**是一所[印度](../Page/印度.md "wikilink")的房地产门户网站，于2007年成立，由Sumit Jain、Lalit Mangal和Vikas Malpani3名和的毕业生创立。\[1\]2015年1月8日，Alphabet（原[Google](../Page/Google.md "wikilink")）的子公司[Google Capital宣布资助CommonFloor](https://zh.wikipedia.org/wiki/Google_Capital "wikilink")。\[2\]2016年1月7日，印度分类广告平台[Quikr宣布它们已成功收购CommonFloor](https://zh.wikipedia.org/wiki/Quikr "wikilink")。\[3\]
 
 ## 收购记录

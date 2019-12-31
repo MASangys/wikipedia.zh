@@ -1,3 +1,6 @@
+> 本文内容由[S層](https://zh.wikipedia.org/wiki/S層)转换而来。
+
+
 [Gram-Positive_Cell_Envelope.jpg](https://zh.wikipedia.org/wiki/File:Gram-Positive_Cell_Envelope.jpg "fig:Gram-Positive_Cell_Envelope.jpg") [Gram-Negative_Cell_Envelope.jpg](https://zh.wikipedia.org/wiki/File:Gram-Negative_Cell_Envelope.jpg "fig:Gram-Negative_Cell_Envelope.jpg") **S層**（S-layer, surface layer）是[古菌](../Page/古菌.md "wikilink")和[細菌](https://zh.wikipedia.org/wiki/細菌 "wikilink")的一部分\[1\]\[2\]。S層由[糖蛋白或](https://zh.wikipedia.org/wiki/糖蛋白 "wikilink")[蛋白質鋪成的單分子組成](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。S層通過分子的自組裝形成，會覆蓋整個細胞表面。因此，S層的蛋白數目可以達到一個細胞蛋白質總數的10%-15%\[3\]\[4\]\[5\]。S層蛋白在進化上保守性非常低，甚至可以用來分辨親緣關係近的物種。隨物種不同，S層的厚度可從5到25納米不等，且擁有直徑從2納米到8納米不等的孔道\[6\]。
 
 ## 參見

@@ -1,3 +1,6 @@
+> 本文内容由[賓得士K-r](https://zh.wikipedia.org/wiki/賓得士K-r)转换而来。
+
+
 **賓得士 K-r**（ **Pentax K-r**）是[賓得士](../Page/賓得士.md "wikilink")推出的1240萬像素[數位單眼相機](../Page/數位單眼相機.md "wikilink")，於2010年9月9日發表\[1\]。它是[宾得 K-x的後繼機種](https://zh.wikipedia.org/wiki/宾得_K-x "wikilink")，並且兩者有許多相似之處。
 
 ## 概要

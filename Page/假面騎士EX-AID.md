@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士EX-AID](https://zh.wikipedia.org/wiki/假面騎士EX-AID)转换而来。
+
+
 《**假面騎士EX-AID**》（，），自2016年10月2日起於[朝日電視台](../Page/朝日電視台.md "wikilink")放映，每週日08:00-08:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第18部[平成](../Page/平成.md "wikilink")系列作品，假面騎士EX-AID也是該劇主角變身的名字。本作為是假面騎士系列誕生45週年紀念作\[1\]，口號是「Game Start\!」、「No Continue來改變命運吧！！」。
 
 播映方面，台灣於2017年9月9日至翌年2018年7月14日，週六08:30\~09:00在[東森綜合台](../Page/東森綜合台.md "wikilink")雙語播出，隔天（週日）16:30\~17:00於[東森超視](../Page/東森超視.md "wikilink")台重播中文配音版。

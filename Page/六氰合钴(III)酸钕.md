@@ -1,3 +1,6 @@
+> 本文内容由[六氰合钴\(III\)酸钕](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸钕)转换而来。
+
+
 **六氰合钴(III)酸钕**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为Nd\[Co(CN)<sub>6</sub>\]。
 
 ## 结构

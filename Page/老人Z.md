@@ -1,3 +1,6 @@
+> 本文内容由[老人Z](https://zh.wikipedia.org/wiki/老人Z)转换而来。
+
+
 《**老人Z**》是1991年9月14日在日本上映的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[喜劇](../Page/喜劇.md "wikilink")類型[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，\[1\]，以[人口老龄化](../Page/人口老龄化.md "wikilink")的老人問題為主題，在1991年12月10日發售漫畫版《**ZeD**》。\[2\]臺灣1990年代[新潮社有限公司發售](https://zh.wikipedia.org/wiki/新潮社有限公司 "wikilink")[VHS](../Page/VHS.md "wikilink")[正體中文](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[字幕](../Page/字幕.md "wikilink")版、2005年9月[普威爾國際](../Page/普威爾國際.md "wikilink")發售[DVD-Video](../Page/DVD-Video.md "wikilink")正體中文字幕版，1990年代[首華卡通頻道](../Page/首華卡通頻道.md "wikilink")播放新潮社VHS版。
 
 ## 故事

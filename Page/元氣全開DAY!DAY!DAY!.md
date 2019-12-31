@@ -1,3 +1,6 @@
+> 本文内容由[元氣全開DAY!DAY!DAY!](https://zh.wikipedia.org/wiki/元氣全開DAY!DAY!DAY!)转换而来。
+
+
 **《元氣全開DAY！DAY！DAY！》**（）是由[Aqours](../Page/Aqours.md "wikilink")的迷你小隊「CYaRon！」於2016年5月11日所發售的首張單曲。也是[LoveLive\! Sunshine\!\!系列所發售的首張小隊單曲](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。
 
 ## 概要

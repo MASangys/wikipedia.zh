@@ -1,3 +1,6 @@
+> 本文内容由[CITV](https://zh.wikipedia.org/wiki/CITV)转换而来。
+
+
 **CITV**是[英國的一個電視頻道](https://zh.wikipedia.org/wiki/英國 "wikilink")，播出兒童收看的電視節目，由[獨立電視公司](../Page/獨立電視公司.md "wikilink")所有，播出時間是每天早上六點至晚上九點，和CBBC相同\[1\]。CITV也是[獨立電視台](../Page/獨立電視台.md "wikilink")在週末兒童節目時段的節目名稱\[2\]。
 
 ## 參考資料

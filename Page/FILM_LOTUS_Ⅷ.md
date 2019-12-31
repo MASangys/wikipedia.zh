@@ -1,3 +1,6 @@
+> 本文内容由[FILM LOTUS Ⅷ](https://zh.wikipedia.org/wiki/FILM LOTUS Ⅷ)转换而来。
+
+
 《**FILM LOTUS Ⅷ**》，日本女歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的第八張音樂錄影帶選集。2012年1月11日發行。
 
 ## 概述

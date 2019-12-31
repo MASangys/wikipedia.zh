@@ -1,3 +1,6 @@
+> 本文内容由[AORUS](https://zh.wikipedia.org/wiki/AORUS)转换而来。
+
+
 **AORUS**（英語發音：/'aʊ -rʌs/）是一間以電腦遊戲[玩家](../Page/玩家.md "wikilink")為主要客群的電腦生產商，主要出產搭載[SLI技術的遊戲筆記型電腦](https://zh.wikipedia.org/wiki/SLI "wikilink")、機械式遊戲鍵盤及其他遊戲周邊配備。AORUS是[技嘉科技](../Page/技嘉科技.md "wikilink")旗下的子公司，於2014年創立，聯合總部位於台北。
 
 ## 概要

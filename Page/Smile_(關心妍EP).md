@@ -1,3 +1,6 @@
+> 本文内容由[Smile \(關心妍EP\)](https://zh.wikipedia.org/wiki/Smile \(關心妍EP\))转换而来。
+
+
 《**Smile**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關心妍](../Page/關心妍.md "wikilink")的第十四張個人音樂專輯，於2016年8月10日推出。
 
 ## 曲目

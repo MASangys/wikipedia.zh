@@ -1,3 +1,6 @@
+> 本文内容由[Cassette Vision](https://zh.wikipedia.org/wiki/Cassette Vision)转换而来。
+
+
 是一款[Epoch於](https://zh.wikipedia.org/wiki/Epoch "wikilink")1981年7月30日在[日本](../Page/日本.md "wikilink")發售的[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。售價為13,500[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")\[1\]。
 
 在[FC遊戲機](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")（紅白機）於1983年發售前的2年之間，Cassette Vision是日本當時銷量及評價最好的家用遊戲機\[2\]。估計銷量約在400,000\[3\]\[4\]至450,000\[5\]\[6\]之間。

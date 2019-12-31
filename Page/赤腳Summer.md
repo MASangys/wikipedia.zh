@@ -1,3 +1,6 @@
+> 本文内容由[赤腳Summer](https://zh.wikipedia.org/wiki/赤腳Summer)转换而来。
+
+
 《**赤腳Summer**》（）是日本女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[1\]，於2016年7月27日由[N46Div.發售](../Page/Sony_Music_Records.md "wikilink")。《離岸少女》是[JR東日本出品的飲用水](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")「〜谷川連峰的天然水〜」的廣告歌\[2\]，《專屬光芒》是[日本電視台](../Page/日本電視台.md "wikilink")主辦的第36屆的打氣曲\[3\]，單曲則是[東京女孩展演](../Page/東京女孩展演.md "wikilink")在[109百貨](../Page/109百貨.md "wikilink")設置的[貼紙相機的背景音樂](https://zh.wikipedia.org/wiki/貼紙相 "wikilink")\[4\]。同名[標題曲由](../Page/A面與B面.md "wikilink")[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")首次擔任[Center](https://zh.wikipedia.org/wiki/乃木坂46#選拔成員制 "wikilink")（中心成員）\[5\]。
 
 ## 概要

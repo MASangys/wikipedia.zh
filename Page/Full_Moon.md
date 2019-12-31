@@ -1,3 +1,6 @@
+> 本文内容由[Full Moon](https://zh.wikipedia.org/wiki/Full Moon)转换而来。
+
+
 《**Full Moon**》是前[韓國組合](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[李善美的首張迷你專輯](https://zh.wikipedia.org/wiki/李善美 "wikilink")，於2014年2月17日發行，主打曲為〈滿月〉。
 
 ## 發行歷程

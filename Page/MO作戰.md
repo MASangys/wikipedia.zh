@@ -1,3 +1,6 @@
+> 本文内容由[MO作戰](https://zh.wikipedia.org/wiki/MO作戰)转换而来。
+
+
 **MO作戰**（[日語](../Page/日语.md "wikilink")：**MO作戦**，Mo Sakusen），或稱為**莫士比港行動**，是[大日本帝国](../Page/大日本帝国.md "wikilink")於[第二次世界大戰期間的一次作戰代號](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，主要目標為攻擊並控制[澳屬](../Page/澳大利亚.md "wikilink")[新幾內亞](../Page/新幾內亞.md "wikilink")以及諸多[太平洋上的小島](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，以達到孤立[澳洲及](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，使其得不到[美國支援的目的](https://zh.wikipedia.org/wiki/美國 "wikilink")。該計畫是由[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")制定並獲得[聯合艦隊](../Page/聯合艦隊.md "wikilink")指揮官[山本五十六](../Page/山本五十六.md "wikilink")大將的鼎力支持，然而MO作戰最終以失敗告終。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Other uses](https://zh.wikipedia.org/wiki/模块:Other uses)转换而来。
+
+
 local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments --initialize lazily local mTableTools --initialize lazily local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local p = {}
 
 \-- Produces standard  implementation function p.otheruses(frame)

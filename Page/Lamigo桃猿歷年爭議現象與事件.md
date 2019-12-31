@@ -1,3 +1,6 @@
+> 本文内容由[Lamigo桃猿歷年爭議現象與事件](https://zh.wikipedia.org/wiki/Lamigo桃猿歷年爭議現象與事件)转换而来。
+
+
 **Lamigo桃猿歷年爭議現象與事件**，本文列出[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿及其前身](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")[La new熊有關的爭議消息](https://zh.wikipedia.org/wiki/La_new熊 "wikilink")，按發生或消息公開的時間排序。
 
 ## La new熊時期

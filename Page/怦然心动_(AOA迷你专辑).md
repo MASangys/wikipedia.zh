@@ -1,3 +1,6 @@
+> 本文内容由[怦然心动 \(AOA迷你专辑\)](https://zh.wikipedia.org/wiki/怦然心动 \(AOA迷你专辑\))转换而来。
+
+
 《**怦然心动**》是韩国女子组合[AOA](../Page/AOA.md "wikilink")的第三张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，于2015年6月22日发行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[AES指令集](https://zh.wikipedia.org/wiki/AES指令集)转换而来。
+
+
 **高级加密标准指令集**（或称英特尔**高级加密标准新指令**，简称**AES-NI**）是一个[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[指令集架构的扩展](https://zh.wikipedia.org/wiki/指令集架构 "wikilink")，用于[Intel和](../Page/英特尔.md "wikilink")[AMD](../Page/超威半导体.md "wikilink")[微处理器](../Page/微处理器.md "wikilink")，由Intel在2008年3月提出。\[1\]该指令集的目的是改进应用程序使用[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）执行加密和解密的速度。
 
 ## 新指令

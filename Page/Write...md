@@ -1,3 +1,6 @@
+> 本文内容由[Write..](https://zh.wikipedia.org/wiki/Write..)转换而来。
+
+
 《**Write..**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")成員[南優賢](../Page/南優賢.md "wikilink")首張韓語迷你專輯，於2016年5月10日發行，主打歌曲為《點頭點頭》（）\[1\]。
 
 ## 背景

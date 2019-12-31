@@ -1,3 +1,6 @@
+> 本文内容由[Élan](https://zh.wikipedia.org/wiki/Élan)转换而来。
+
+
 《**Élan**》是芬兰交响金属乐队[夜愿](../Page/夜愿.md "wikilink")的单曲，为第八张专辑《[Endless Forms Most Beautiful](https://zh.wikipedia.org/wiki/Endless_Forms_Most_Beautiful "wikilink")》的首张单曲\[1\]。这是夜愿新女主唱、荷兰歌手[弗罗·扬森演唱的首个曲目](https://zh.wikipedia.org/wiki/弗罗·扬森 "wikilink")，也是[Troy Donockley正式加入乐队后的首个曲目](https://zh.wikipedia.org/wiki/Troy_Donockley "wikilink")；此外[Kai Hahto临时代替了](https://zh.wikipedia.org/wiki/Kai_Hahto "wikilink")[Jukka Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink")。
 
 乐队2014年12月8日在官方网站宣布该歌曲。键盘手兼歌曲作者[托马斯·霍洛帕尼称](https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼 "wikilink")，歌曲是“全长专辑的绝妙预告，亮出了稍许风味，但对即将到来的壮丽之旅揭露很少”\[2\]。歌曲影片有多名芬兰名演员演出，“灵感来自芬兰各遗弃之地不为人知的故事”\[3\]。

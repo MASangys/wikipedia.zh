@@ -1,3 +1,6 @@
+> 本文内容由[Lolcat](https://zh.wikipedia.org/wiki/Lolcat)转换而来。
+
+
 [Cat_crying_(Lolcat).jpg](https://zh.wikipedia.org/wiki/File:Cat_crying_\(Lolcat\).jpg "fig:Cat_crying_(Lolcat).jpg") 一張**Lolcat**（ ）是指在一幅[家貓的照片上加上了](https://zh.wikipedia.org/wiki/家貓 "wikilink")[字幕](../Page/字幕.md "wikilink")的。圖中的字幕通常會以特異的方式串出，或是以不合符[文法](../Page/文法.md "wikilink")和[幽默](../Page/幽默.md "wikilink")的方式書寫，而以此方式編寫的句字稱之為「lolspeak」（LOL語）或「 kitty pidgin」（小貓[皮欽語](https://zh.wikipedia.org/wiki/皮欽語 "wikilink")）。
 
 「Lolcat」一詞是由英語「laughing out loud」（大聲笑）的[縮寫](../Page/首字母縮略字.md "wikilink")「[LOL](../Page/LOL.md "wikilink")」和「cat」（貓）二詞[合成而成](https://zh.wikipedia.org/wiki/合成詞 "wikilink")\[1\]\[2\]。Lolcat圖片一般都是為分享至[貼圖討論版或其他](https://zh.wikipedia.org/wiki/貼圖討論版 "wikilink")[網絡討論區而創作](https://zh.wikipedia.org/wiki/網絡討論區 "wikilink")。

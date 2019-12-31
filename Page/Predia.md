@@ -1,3 +1,6 @@
+> 本文内容由[Predia](https://zh.wikipedia.org/wiki/Predia)转换而来。
+
+
 **predia** ( プレディア )是[日本](../Page/日本.md "wikilink")的女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。宣傳語是「只是可愛已經不夠了，歡迎來到大人的遊樂場！」（)。\[1\] [PLATINUM PASSPORT所屬](https://zh.wikipedia.org/wiki/w:ja:プラチナムプロダクション "wikilink")，唱片公司為[日本皇冠旗下的品牌](https://zh.wikipedia.org/wiki/w:ja:日本クラウン "wikilink")「Revolver records」。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:吉卜力工作室/Intro](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Intro)转换而来。
+
+
 <div style="display: block; border: 1px solid black; vertical-align: top; background: #fff; color: black; margin-bottom: 10px; padding: 1em; margin-top: 0em; padding-top: .3em; ">
 
 |                                                                                                    |

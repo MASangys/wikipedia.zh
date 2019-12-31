@@ -1,3 +1,6 @@
+> 本文内容由[DOS MZ可执行文件](https://zh.wikipedia.org/wiki/DOS MZ可执行文件)转换而来。
+
+
 **DOS MZ可执行文件**（）格式是[DOS](../Page/DOS.md "wikilink")中的.EXE[可执行文件格式](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。
 
 该文件在[文件头部用](../Page/魔術數字_\(程式設計\).md "wikilink")[ASCII](../Page/ASCII.md "wikilink")字符串“MZ”（[十六进制](../Page/十六进制.md "wikilink")：4D 5A）标识。“MZ”是MS-DOS开发者之一的[马克·茨柏克沃斯基](https://zh.wikipedia.org/wiki/马克·茨柏克沃斯基 "wikilink")（Mark Zbikowski）的姓名首字母缩写。\[1\]

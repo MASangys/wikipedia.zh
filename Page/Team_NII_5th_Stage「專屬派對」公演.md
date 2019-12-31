@@ -1,3 +1,6 @@
+> 本文内容由[Team NII 5th Stage「專屬派對」公演](https://zh.wikipedia.org/wiki/Team NII 5th Stage「專屬派對」公演)转换而来。
+
+
 **Team NII 5th Stage「專屬派對」公演**是[SNH48](../Page/SNH48.md "wikilink")的剧场公演，此套公演同時也是SNH48 Team NII的首套原創公演。\[1\]
 
 ## 概要

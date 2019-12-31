@@ -1,3 +1,6 @@
+> 本文内容由[WolfSSL](https://zh.wikipedia.org/wiki/WolfSSL)转换而来。
+
+
 **wolfSSL** (原名 **CyaSSL** 或 **yet another SSL**)，是一个提供[传输层安全协议](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")（SSL/TLS）功能的[软件库](https://zh.wikipedia.org/wiki/軟體庫 "wikilink")，主要针对[嵌入式系系统发展](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。以开放原始码及商用许可两种方式释出，提供SSL/TLS功能(SSL 3.0、TLS 1.0、TLS 1.1、TLS 1.2、TLS 1.3以及DTLS 1.0、DTLS 1.2)，以[C语言写成](https://zh.wikipedia.org/wiki/C語言 "wikilink")。提供了与[OpenSSL](../Page/OpenSSL.md "wikilink")兼容的API界面，让原有使用OpenSSL的软件可以容易的移植过來。
 
 wolfSSL的早期版本, yaSSL，基于C++，为嵌入式环境和资源限制的实时操作系统提供SSL功能库。

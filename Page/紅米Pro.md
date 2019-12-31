@@ -1,3 +1,6 @@
+> 本文内容由[紅米Pro](https://zh.wikipedia.org/wiki/紅米Pro)转换而来。
+
+
 **紅米Pro**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年7月27日所推出的中階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為[紅米手機系列中首款雙鏡頭設計的手機](https://zh.wikipedia.org/wiki/紅米手機 "wikilink")，也是紅米系列的旗艦機種，共有三種版本，尊享版搭配[Helio](https://zh.wikipedia.org/wiki/Helio_系列 "wikilink")™ X25、4GB記憶體、128GB儲存空間，預計2016年8月6號發售。
 
 ## 詳細規格

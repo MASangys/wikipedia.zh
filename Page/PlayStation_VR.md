@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation VR](https://zh.wikipedia.org/wiki/PlayStation VR)转换而来。
+
+
 **PlayStation VR**（简称“**PSVR**”）是[索尼互动娱乐研发的](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")[虚拟實境](https://zh.wikipedia.org/wiki/虚拟實境 "wikilink")[頭戴式顯示器](../Page/頭戴式顯示器.md "wikilink")，自2016年10月13日開始販售\[1\]。本機是索尼专门为[PlayStation 4电视游戏主机制作的设备](../Page/PlayStation_4.md "wikilink")，因此需要PS4进行图像运算和输出方能使用；此外，一般的PlayStation VR游戏还需要[DualShock 4或](https://zh.wikipedia.org/wiki/DualShock_4 "wikilink")[PlayStation Move控制器以及PlayStation](https://zh.wikipedia.org/wiki/PlayStation_Move "wikilink") Camera等配件以進行游戏。\[2\]
 
 PlayStation VR開發時期的代號為“Project Morpheus”，最初公布于2014年的[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")上。在2015年9月，索尼正式将其命名为PlayStation VR。\[3\]

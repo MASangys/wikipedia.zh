@@ -1,3 +1,6 @@
+> 本文内容由[FIBA篮球名人堂](https://zh.wikipedia.org/wiki/FIBA篮球名人堂)转换而来。
+
+
 [FIBA_Hall_of_Fame_Alcobendas_-_04.jpg](https://zh.wikipedia.org/wiki/File:FIBA_Hall_of_Fame_Alcobendas_-_04.jpg "fig:FIBA_Hall_of_Fame_Alcobendas_-_04.jpg") **FIBA篮球名人堂**（英语：FIBA Hall of Fame）位于[西班牙](../Page/西班牙.md "wikilink")[阿尔科文达斯](../Page/阿尔科文达斯.md "wikilink")，以纪念为[篮球](../Page/篮球.md "wikilink")运动作出卓越贡献的球员、教练、裁判及其他貢獻者，又或者是特殊的球隊。成立于1991年。
 
 ## 入选者和候选人

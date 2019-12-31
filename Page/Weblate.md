@@ -1,3 +1,6 @@
+> 本文内容由[Weblate](https://zh.wikipedia.org/wiki/Weblate)转换而来。
+
+
 **Weblate** 是一个高度集成了版本控制功能的web-based翻译工具。它具有简单清晰的用户界面，各部分间翻译译文
 
 ## 项目目标

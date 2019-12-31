@@ -1,3 +1,6 @@
+> 本文内容由[Spark \(電視劇\)](https://zh.wikipedia.org/wiki/Spark \(電視劇\))转换而来。
+
+
 《[Spark](https://zh.wikipedia.org/wiki/Spark "wikilink")》（）是羅鐘贊、南寶拉主演的網劇，由[Cube 娛樂與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[iHQ製作](../Page/SidusHQ.md "wikilink")，7月25日起，每周一至周四於[Naver TVcast播出](https://zh.wikipedia.org/wiki/Naver "wikilink")，共12集。
 
 ## 劇情

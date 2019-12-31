@@ -1,3 +1,6 @@
+> 本文内容由[模块:ACGaward](https://zh.wikipedia.org/wiki/模块:ACGaward)转换而来。
+
+
 local list = {
 
 `   { '-Zest', 30 },`

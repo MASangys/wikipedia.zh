@@ -1,3 +1,6 @@
+> 本文内容由[KSIOlajideBT](https://zh.wikipedia.org/wiki/KSIOlajideBT)转换而来。
+
+
 **奧拉吉德·威廉·「JJ」·奧拉通吉**（Olajide William "JJ" Olatunji，），較廣為人知是化名**KSI**，[奈及利亞](../Page/奈及利亞.md "wikilink")裔英國[YouTube](../Page/YouTube.md "wikilink")r、[饒舌](../Page/饒舌.md "wikilink")歌手、[演員](../Page/演員.md "wikilink")與[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。截至2019年4月，其頻道已有超過2000萬訂閱者與47億萬觀看數\[1\]，是YouTube最多訂閱數的黑人及英國人頻道\[2\]。
 
 「KSIOlajideBT」名字取自他玩《[最後一戰：星環戰役](https://zh.wikipedia.org/wiki/最後一戰：星環戰役 "wikilink")》的聯盟「KSI」、他的名字「Olajide」和[英國電信](../Page/英國電信.md "wikilink")「BT」\[3\]。他的影片主要為《[FIFA](../Page/FIFA系列.md "wikilink")》的遊戲實況和解說，有時候也會玩其他遊戲或上傳[Vlog影片](https://zh.wikipedia.org/wiki/VLOG "wikilink")。

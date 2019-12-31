@@ -1,3 +1,6 @@
+> 本文内容由[W-玻色子](https://zh.wikipedia.org/wiki/W-玻色子)转换而来。
+
+
 **W-玻色子**（<span lang="en">W-boson</span><span lang="en"></span>）是種向量玻色子，分 W<sup>+</sup>、W<sup>-</sup> 兩類，互為[反粒子](https://zh.wikipedia.org/wiki/反粒子 "wikilink")，是[弱相互作用](../Page/弱相互作用.md "wikilink")：
 
 > \(f_{\alpha} \bar{f_{\beta}}\leftrightarrow f_{\gamma}\bar{f_{\delta}}\) （其中每邊總[電荷](../Page/電荷.md "wikilink")Q=1，lepton數 N<sub>l</sub>=0 ，baryon數 B=0 ）

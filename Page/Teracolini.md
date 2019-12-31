@@ -1,3 +1,6 @@
+> 本文内容由[Teracolini](https://zh.wikipedia.org/wiki/Teracolini)转换而来。
+
+
 ***Teracolini***是[鱗翅目](../Page/鱗翅目.md "wikilink")[粉蝶科](../Page/粉蝶科.md "wikilink")[粉蝶亞科](../Page/粉蝶亞科.md "wikilink")中的一個[族](https://zh.wikipedia.org/wiki/族_\(生物\) "wikilink")，尚無正式中文學名命名\[1\]。共有7個屬，曾一同與其他演化支的屬歸入「珂粉蝶類」的分類\[2\]。
 
 ## 演化樹

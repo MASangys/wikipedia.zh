@@ -1,3 +1,6 @@
+> 本文内容由[Robert Helpmann \(Youtube頻道\)](https://zh.wikipedia.org/wiki/Robert Helpmann \(Youtube頻道\))转换而来。
+
+
 **Robert Helpmann**是一系列疑似自[暗網流出的](https://zh.wikipedia.org/wiki/暗網 "wikilink")[刑案影片](https://zh.wikipedia.org/wiki/刑案 "wikilink")。自發布後遭網友熱烈分析討論其真假。
 
 ## 簡介

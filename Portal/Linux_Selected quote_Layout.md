@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Linux/Selected quote/Layout](https://zh.wikipedia.org/wiki/Portal:Linux/Selected quote/Layout)转换而来。
+
+
 |                                                                                                                                   |     |                                                                                                                                |
 | --------------------------------------------------------------------------------------------------------------------------------: | --- | ------------------------------------------------------------------------------------------------------------------------------ |
 | <span style="color:#bcbcbc; font-size:30px; font-family:'Times New Roman',serif; font-weight:bold; padding-right:10px">“</span>'' |     | <span style="color:#bcbcbc; font-size:30px; font-family:'Times New Roman',serif; font-weight:bold; padding-left:10px">”</span> |

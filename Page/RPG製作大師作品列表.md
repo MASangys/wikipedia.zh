@@ -1,3 +1,6 @@
+> 本文内容由[RPG製作大師作品列表](https://zh.wikipedia.org/wiki/RPG製作大師作品列表)转换而来。
+
+
 本列表收錄使用[RPG製作大師](../Page/RPG製作大師.md "wikilink")製作的遊戲作品，部分作品亦在[Steam](../Page/Steam.md "wikilink")平台發表。
 
 ## RPG Maker Dante98

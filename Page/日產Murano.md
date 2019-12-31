@@ -1,3 +1,6 @@
+> 本文内容由[日產Murano](https://zh.wikipedia.org/wiki/日產Murano)转换而来。
+
+
 **Murano**（曾译「**美人奴**」，引进中国大陆生产后改名「**楼兰**」\[1\]）是[日產汽車](../Page/日產汽車.md "wikilink")于2002年推出的[中型](https://zh.wikipedia.org/wiki/中型车 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")系列。Murano這名稱來自於[義大利一座叫做](https://zh.wikipedia.org/wiki/義大利 "wikilink")[穆拉諾的小島](https://zh.wikipedia.org/wiki/穆拉諾 "wikilink")，該島以精細華麗的[琉璃](../Page/琉璃.md "wikilink")工藝著名，日產將該名用於2002年所推出的豪華跑車型[SUV上](https://zh.wikipedia.org/wiki/SUV "wikilink")。該車系自2002年上市後至今有10年以上的歷史，期間歷經了兩代大改款，2015年底時，在台北國際車展上展出了第三代油電概念車Murano Hybrid。
 
 ## 歷史

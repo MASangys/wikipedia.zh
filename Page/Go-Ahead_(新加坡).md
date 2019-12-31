@@ -1,3 +1,6 @@
+> 本文内容由[Go-Ahead \(新加坡\)](https://zh.wikipedia.org/wiki/Go-Ahead \(新加坡\))转换而来。
+
+
 **Go-Ahead**，另名**前进新加坡**，将会是[新加坡](../Page/新加坡.md "wikilink")第四[公共巴士业者](../Page/公共交通.md "wikilink")，从2016年9月投入运作，分两个阶段接手[新捷运](../Page/新捷运.md "wikilink")现有的24条巴士路线。此业者是继[Tower Transit后](../Page/Tower_Transit_\(新加坡\).md "wikilink")，外包巴士路线配套的第二个巴士业者，也是[Go-Ahead集团旗下的附属之一](https://zh.wikipedia.org/wiki/Go-Ahead集团 "wikilink")。
 
 ## 歷史

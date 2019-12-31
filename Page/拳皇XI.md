@@ -1,3 +1,6 @@
+> 本文内容由[拳皇XI](https://zh.wikipedia.org/wiki/拳皇XI)转换而来。
+
+
 是[SNK Playmore](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，最初在2005年于日本登陆街机平台，并先后移植至[PlayStation 2和](../Page/PlayStation_2.md "wikilink")[PlayStation 3的](../Page/PlayStation_3.md "wikilink")[PlayStation Network平台](../Page/PlayStation_Network.md "wikilink")，並在日本和欧美等地发行。本作是拳皇系列的第11部作品游戏，剧情經過兩年推出艾森篇新章，情節連接《[拳皇2003](../Page/拳皇2003.md "wikilink")》的正统續作，[世嘉](../Page/世嘉.md "wikilink")亦参與了本作的部分製作。和《拳皇2003》一樣也有其在三對三基礎上戰鬥中更換隊員的設定，但在平衡方面優於《拳皇2003》，故本作獲得了玩家不錯的評價和肯定，更換隊員系統優秀，但某些角色太過強勢破壞了整體平衡，因此優劣評價參半。
 
 ## 剧情

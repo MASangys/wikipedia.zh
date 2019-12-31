@@ -1,3 +1,6 @@
+> 本文内容由[SHAKE IT](https://zh.wikipedia.org/wiki/SHAKE IT)转换而来。
+
+
 《**Shake It**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")的第3張迷你專輯，於2015年6月22日發行韓語專輯，由唱片公司[LOEN Entertainment發行](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")。
 
 ## 曲目

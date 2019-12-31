@@ -1,3 +1,6 @@
+> 本文内容由[Golfino](https://zh.wikipedia.org/wiki/Golfino)转换而来。
+
+
 Golfino 品牌是一九八六年三月一日由Christel Kirsten和Dr. Bernd Kirsten共同建创。公司始于针织品的专家，时至今日已成为成套户外运动服装的专家。Golfino是欧洲市场[高尔夫服装的领跑者](https://zh.wikipedia.org/wiki/高尔夫 "wikilink")，以卓越的面料材质和雅致的设计风格，吸引着极高比例的固定客户。
 
 ## 公司历史

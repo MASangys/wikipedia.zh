@@ -1,3 +1,6 @@
+> 本文内容由[Pteroloma](https://zh.wikipedia.org/wiki/Pteroloma)转换而来。
+
+
 ***Pteroloma***是[鞘翅目](../Page/鞘翅目.md "wikilink")[隐翅虫总科的一個](https://zh.wikipedia.org/wiki/隐翅虫总科 "wikilink")[甲蟲屬](https://zh.wikipedia.org/wiki/甲蟲 "wikilink")，舊屬[葬甲科](../Page/葬甲科.md "wikilink")\[1\]的[Agyrtini](https://zh.wikipedia.org/wiki/Agyrtini "wikilink")\[2\]，今屬[Agyrtidae科](https://zh.wikipedia.org/wiki/Agyrtidae "wikilink")\[3\]的[Pterolominae亞科](https://zh.wikipedia.org/wiki/Pterolominae "wikilink")\[4\]。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[SPP-1水下手槍](https://zh.wikipedia.org/wiki/SPP-1水下手槍)转换而来。
+
+
 **SPP-1**（；全寫：，意為：特殊水下手槍）是一把由[前苏联](../Page/苏联.md "wikilink")（TsKIB SOO）為蘇聯[蛙人研製](https://zh.wikipedia.org/wiki/蛙人 "wikilink")、現在的俄罗斯的[圖拉兵工廠](../Page/圖拉兵工廠.md "wikilink")生產的[水下](https://zh.wikipedia.org/wiki/水下槍械 "wikilink")[手枪](../Page/手枪.md "wikilink")，發射[4.5×40毫米R水下手枪子彈](https://zh.wikipedia.org/wiki/4.5×40mmR "wikilink")。\[1\]
 
 1960年代末，運動及狩獵武器中央設計研究局研發該槍；然後1971年，獲[苏联军队採用](../Page/苏联武装力量.md "wikilink")。在水下，普通子彈並不準確而且射程很短。其結果是，該手槍發射以4.5毫米（0.18英寸）口徑彈藥為基礎、彈長大約是115毫米（4.5英寸）、彈重12.8克（0.45盎司）的鋼鏢彈，這彈藥具有比的[矛更長的射程和更強的貫穿力](https://zh.wikipedia.org/wiki/矛 "wikilink")。完整的彈藥全長為145毫米（5.7英寸），彈重17.5克（0.62盎司）。\[2\]

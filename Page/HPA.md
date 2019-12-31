@@ -1,3 +1,6 @@
+> 本文内容由[HPA](https://zh.wikipedia.org/wiki/HPA)转换而来。
+
+
 **HPA**可以指：
 
 ## 組織

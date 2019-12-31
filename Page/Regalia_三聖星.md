@@ -1,3 +1,6 @@
+> 本文内容由[Regalia 三聖星](https://zh.wikipedia.org/wiki/Regalia 三聖星)转换而来。
+
+
 《**Regalia 三聖星**》是[永谷敬之](../Page/永谷敬之.md "wikilink")擔任製作人，[QP:flapper](../Page/QP:flapper.md "wikilink")擔當角色原案，[Actas](../Page/Actas.md "wikilink")製作的原創動畫，電視動畫於2016年7月7日開始播出\[1\]。
 
 在第3話播出後，官方宣佈由於已經播出的動畫品質沒有達到預期要求，因此第4話之後動畫將停止播出。據官方推特表示，因製作趕不上放映時間而被迫延期，動畫在9月1日開始從第1集重新播放。影碟（藍光和DVD）也將延期一個月發售\[2\]\[3\]。

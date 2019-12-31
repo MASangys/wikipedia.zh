@@ -1,3 +1,6 @@
+> 本文内容由[KONG桑田](https://zh.wikipedia.org/wiki/KONG桑田)转换而来。
+
+
 **KONG桑田**\[1\]（，），[日本](../Page/日本.md "wikilink")男[演員](../Page/演員.md "wikilink")、[配音員](../Page/配音員.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[福音](https://zh.wikipedia.org/wiki/福音音樂 "wikilink")[歌手](../Page/歌手.md "wikilink")。出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")\[2\]\[3\]。[身高](https://zh.wikipedia.org/wiki/身高 "wikilink")175cm\[4\]。B型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[5\]\[6\]。
 
 ## 簡介

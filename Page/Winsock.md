@@ -1,3 +1,6 @@
+> 本文内容由[Winsock](https://zh.wikipedia.org/wiki/Winsock)转换而来。
+
+
 **Windows Sockets API (WSA)**, 简短记为**Winsock**, 是[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[TCP/IP网络编程接口](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")（API）。兼容于[Berkeley socketsAPI在函数名字](https://zh.wikipedia.org/wiki/Berkeley_sockets "wikilink")。实际上，Winsock的实现库(winsock.dll)使用的是长名字。
 
 Winsock是一种能使Windows程序通过任意网络传输协议发送数据的API。Winsock中有几个只支持TCP/IP协议的函数（例如gethostbyaddr()），但是在Winsock 2中新增了所有这些函数的通用版本，以允许开发者使用其它的传输协议。

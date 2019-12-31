@@ -1,3 +1,6 @@
+> 本文内容由[Square One \(BLACKPINK單曲\)](https://zh.wikipedia.org/wiki/Square One \(BLACKPINK單曲\))转换而来。
+
+
 《**Square One**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的出道首張單曲，由[YG娛樂](../Page/YG娛樂.md "wikilink")製作，KT音樂發行，於2016年8月8日推出，主打曲為《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》及《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》。
 
 ## 背景及預告

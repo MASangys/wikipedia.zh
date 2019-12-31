@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM創戰者登場原創模型列表](https://zh.wikipedia.org/wiki/GUNDAM創戰者登場原創模型列表)转换而来。
+
+
 本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[GUNDAM創戰者](../Page/GUNDAM創戰者.md "wikilink")》及其第二季動畫－GUNDAM創戰者TRY與外傳的登場原創模型。
 
 ## 第一季

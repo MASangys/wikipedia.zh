@@ -1,3 +1,6 @@
+> 本文内容由[儿茶酚-O-甲基转移酶](https://zh.wikipedia.org/wiki/儿茶酚-O-甲基转移酶)转换而来。
+
+
 [Noradrenaline_breakdown.svg](https://zh.wikipedia.org/wiki/File:Noradrenaline_breakdown.svg "fig:Noradrenaline_breakdown.svg")
 
 **兒茶酚-*O*-甲基轉移酶** (**COMT**; )是分解[兒茶酚胺](https://zh.wikipedia.org/wiki/兒茶酚胺 "wikilink")(如[多巴胺](../Page/多巴胺.md "wikilink")、[腎上腺素和](https://zh.wikipedia.org/wiki/腎上腺素 "wikilink")[去甲腎上腺素](https://zh.wikipedia.org/wiki/去甲腎上腺素 "wikilink"))的幾種酶之一。在人體，**兒茶酚-*O*-甲基轉移酶**由**COMT**[基因](../Page/基因.md "wikilink")編碼\[1\]。鑒於在一些疾病中兒茶酚胺的調節受損，數種藥物以**COMT**為標靶，調整其活性來控制兒茶酚胺的濃度\[2\]。

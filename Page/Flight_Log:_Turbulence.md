@@ -1,3 +1,6 @@
+> 本文内容由[Flight Log: Turbulence](https://zh.wikipedia.org/wiki/Flight Log: Turbulence)转换而来。
+
+
 《**FLIGHT LOG : TURBULENCE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第二張韓語正規專輯\[1\]，同時也是上一張迷你專輯《[FLIGHT LOG : DEPARTURE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_DEPARTURE "wikilink")》的延續作品\[2\]。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music，於2016年9月27日發行。主打歌為《Hard Carry》。11月18日發行台灣特別版專輯，特別加收一首中文版《Let Me》。
 
 專輯發行隔日即打入[美國iTunes專輯榜第](https://zh.wikipedia.org/wiki/美國 "wikilink")2位及單曲榜第93位，並占據泰國、越南、菲律賓、印尼、馬來西亞、新加坡、芬蘭等多國的[iTunes專輯榜首位](https://zh.wikipedia.org/wiki/iTunes "wikilink")，在台灣、泰國的[Apple Music榜中也獲得冠軍](../Page/Apple_Music.md "wikilink")。\[3\]

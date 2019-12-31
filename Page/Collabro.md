@@ -1,3 +1,6 @@
+> 本文内容由[Collabro](https://zh.wikipedia.org/wiki/Collabro)转换而来。
+
+
 **Collabro**是[英國的男子音樂團體](https://zh.wikipedia.org/wiki/英國 "wikilink")。他們是第八屆《[英國達人](https://zh.wikipedia.org/wiki/英國達人 "wikilink")》的冠軍得主，擅長[歌劇曲目的演唱](https://zh.wikipedia.org/wiki/歌劇 "wikilink")。Collabro的成員原有五人，分別是Michael Auger、Richard Hadfield、Jamie Lambert、Matt Pagan、Thomas J Redgrave\[1\]。後於2016年Richard Hadfield以與樂團理念不合而宣布退團\[2\]。Collabro迄今為止已經發行過兩張專輯。
 
 2018年2月28日，COLLABRO首度來台在三創CLAPPER STUDIO 開唱\[3\]。

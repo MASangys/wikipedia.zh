@@ -1,3 +1,6 @@
+> 本文内容由[Dual Pixel](https://zh.wikipedia.org/wiki/Dual Pixel)转换而来。
+
+
 [Canon_5D4_DualPixelRAW_in_menu.jpg](https://zh.wikipedia.org/wiki/File:Canon_5D4_DualPixelRAW_in_menu.jpg "fig:Canon_5D4_DualPixelRAW_in_menu.jpg") **Dual Pixel** 是一种图像传感器上的功能设计，最早由[佳能公司在](https://zh.wikipedia.org/wiki/佳能公司 "wikilink")[EOS 70D上推出](../Page/佳能_EOS_70D.md "wikilink")，之后普及到新推出的EOS机型上。三星公司的[Galaxy S7上相机模块也配置了该种排布](../Page/三星Galaxy_S7.md "wikilink")\[1\]。
 
 该功能在不同区域译名也并不一致，中国大陆称之为**全像素双核**，香港地區和台湾称之为**双像素**\[2\]\[3\]\[4\]。

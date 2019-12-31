@@ -1,3 +1,6 @@
+> 本文内容由[戀愛CHU!](https://zh.wikipedia.org/wiki/戀愛CHU!)转换而来。
+
+
 是日本[Visual Art's公司旗下品牌](../Page/Visual_Art's.md "wikilink")[SAGA PLANETS在](../Page/SAGA_PLANETS.md "wikilink")2001年3月23日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2001年8月31日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》。\[1\][GN Software在](../Page/GN_Software.md "wikilink")2003年11月27日發售[Dreamcast](../Page/Dreamcast.md "wikilink")版《**戀愛CHU\! Happy Perfect**》（）。\[2\]2005年3月25日發售《**ウソツキは天使のはじまり -天CHU\!スペシャルBOX-**》，收錄兩作的XP版。\[3\]除了發售遊戲外也還發售CD、小說等相關作品。
 
 ## 故事

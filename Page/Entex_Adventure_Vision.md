@@ -1,3 +1,6 @@
+> 本文内容由[Entex Adventure Vision](https://zh.wikipedia.org/wiki/Entex Adventure Vision)转换而来。
+
+
 **Entex Adventure Vision**是由Entex Industries於1982年發售的掌上遊戲機，自設顯示器並以卡帶作為媒體。它的前代是於1981年發售的[Entex Select-A-Game](../Page/Entex_Select-A-Game.md "wikilink")。
 
 ## 簡介

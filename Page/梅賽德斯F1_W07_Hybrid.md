@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯F1 W07 Hybrid](https://zh.wikipedia.org/wiki/梅賽德斯F1 W07 Hybrid)转换而来。
+
+
 （科技总监）{{-}} （执行技术总监） | Predecessor = [梅賽德斯F1 W06 Hybrid](../Page/梅賽德斯F1_W06_Hybrid.md "wikilink") | Successor = | Team = [梅賽德斯AMG國油F1車隊](https://zh.wikipedia.org/wiki/梅賽德斯車隊 "wikilink") | Drivers = 6.  [尼可·羅斯堡](https://zh.wikipedia.org/wiki/尼可·羅斯堡 "wikilink")\[1\]
 44\.  [劉易斯·漢米爾頓](https://zh.wikipedia.org/wiki/劉易斯·漢米爾頓 "wikilink")\[2\] | Technical ref = \[3\] | Chassis = 模壓碳纖維和蜂窩複合結構 | Front suspension = 碳纖維橫臂和推桿啟動的扭力彈簧及搖臂 | Rear suspension = 碳纖維橫臂和拉桿啟動的扭力彈簧及搖臂 | Engine name = 梅賽德斯PU106C Hybrid\[4\] | Electric motor = 电动发电机 - 动力
 电动发电机 - 余热 | Capacity =  | Configuration = [V6](https://zh.wikipedia.org/wiki/V6引擎 "wikilink")， | Turbo/NA = [渦輪增壓器](../Page/渦輪增壓器.md "wikilink") | Engine position =(90°)，限制于15,000[每分钟转速](https://zh.wikipedia.org/wiki/每分钟转速 "wikilink") | Gearbox name = | Gears = [序列式半自动变速器](../Page/序列式半自动变速器.md "wikilink")

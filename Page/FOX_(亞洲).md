@@ -1,3 +1,6 @@
+> 本文内容由[FOX \(亞洲\)](https://zh.wikipedia.org/wiki/FOX \(亞洲\))转换而来。
+
+
 **FOX Asia**是[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")旗下的頻道，遍佈[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[馬爾地夫](https://zh.wikipedia.org/wiki/馬爾地夫 "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")。
 
 [日本](../Page/日本.md "wikilink")於1998年2月率先開播。[SkyCable於](https://zh.wikipedia.org/wiki/SkyCable "wikilink")2010年1月5日在[菲律賓開始發送](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")，[新加坡](../Page/新加坡.md "wikilink")[星和視界則隨後於同年](https://zh.wikipedia.org/wiki/新加坡電視頻道列表 "wikilink")2月1日開播。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[HTTP压缩](https://zh.wikipedia.org/wiki/HTTP压缩)转换而来。
+
+
 **HTTP压缩**是一种内置到[网页服务器和](../Page/網頁伺服器.md "wikilink")[网页客户端中以改进传输速度和带宽利用率的方式](../Page/网页浏览器.md "wikilink")。\[1\]
 
 [HTTP数据在从服务器发送前就已](../Page/超文本传输协议.md "wikilink")[压缩](../Page/数据压缩.md "wikilink")：兼容的浏览器将在下载所需的格式前宣告支持何种方法给服务器；不支持压缩方法的浏览器将下载未经压缩的数据。最常见的压缩方案包括[gzip和](https://zh.wikipedia.org/wiki/gzip "wikilink")[Deflate](../Page/DEFLATE.md "wikilink")，但可用方案的完整列表由[IANA维护](../Page/互联网号码分配局.md "wikilink")。\[2\]此外，第三方可能开发新的方法并纳入到其自身的产品，例如Google的面向HTTP共享字典压缩（SDCH）方案就实现在[Google Chrome浏览器和使用在Google的服务器上](../Page/Google_Chrome.md "wikilink")。

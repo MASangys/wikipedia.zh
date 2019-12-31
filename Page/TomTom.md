@@ -1,3 +1,6 @@
+> 本文内容由[TomTom](https://zh.wikipedia.org/wiki/TomTom)转换而来。
+
+
 TomTom NV 是一家主营业务为[地图](../Page/地图.md "wikilink")、[导航和](https://zh.wikipedia.org/wiki/导航 "wikilink")[GPS设备的](https://zh.wikipedia.org/wiki/GPS "wikilink")[荷兰](../Page/荷兰.md "wikilink")公司，总部位于[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")。
 
 ## 历史

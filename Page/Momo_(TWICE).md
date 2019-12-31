@@ -1,3 +1,6 @@
+> 本文内容由[Momo \(TWICE\)](https://zh.wikipedia.org/wiki/Momo \(TWICE\))转换而来。
+
+
 **平井桃**（，，），藝名**Momo**（，），是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE的日本成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
 
 ## 生涯

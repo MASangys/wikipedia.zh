@@ -1,3 +1,6 @@
+> 本文内容由[NO MORE DREAM \(日語版\)](https://zh.wikipedia.org/wiki/NO MORE DREAM \(日語版\))转换而来。
+
+
 《**NO MORE DREAM -Japanese Ver.-**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的首張日語單曲，由[PDOGG](https://zh.wikipedia.org/wiki/PDOGG "wikilink")、[HITMAN BANG](https://zh.wikipedia.org/wiki/房時赫 "wikilink")、[Rap Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[Supreme Boi](https://zh.wikipedia.org/wiki/Supreme_Boi "wikilink")、[Jung Kook作曲](../Page/田柾國.md "wikilink")、作詞，並在2014年6月4日以三個不同版本推出\[1\]。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[MOMOTV](https://zh.wikipedia.org/wiki/MOMOTV)转换而来。
+
+
 **台灣優視媒體科技股份公司（英語：Taiwan Win TV Media CO., Ltd.，簡稱：MOMOTV）**，是屬於[富邦集團](../Page/富邦集團.md "wikilink")所經營的數位電視，於2010年9月15日成立，2011年7月12日開始試播。成立初期由[富邦金控董事長](https://zh.wikipedia.org/wiki/富邦金控 "wikilink")[蔡明忠個人投資持股](https://zh.wikipedia.org/wiki/蔡明忠 "wikilink")55%，[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")、[三立各持股](https://zh.wikipedia.org/wiki/三立 "wikilink")15%\[1\]，現今股東由母集團[凱擘](https://zh.wikipedia.org/wiki/凱擘 "wikilink")、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")、[MOMO親子台](../Page/MOMO親子台.md "wikilink")（優視傳播）組成\[2\]。目前旗下有三個頻道：MOMO綜合台、MOMO追劇台，及Win兒童台。\[3\]\[4\]
 
 ## 歷史

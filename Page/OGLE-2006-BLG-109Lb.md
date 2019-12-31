@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-2006-BLG-109Lb](https://zh.wikipedia.org/wiki/OGLE-2006-BLG-109Lb)转换而来。
+
+
 **OGLE-2006-BLG-109Lb**是一顆距離地球約4920光年的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，在天球上位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")。天文學家於2008年觀測到該行星的母恆星[OGLE-2006-BLG-109L](../Page/OGLE-2006-BLG-109L.md "wikilink")的[微引力透镜](../Page/微引力透镜.md "wikilink")現象，而發現了該行星與另一顆行星[OGLE-2006-BLG-109Lc](../Page/OGLE-2006-BLG-109Lc.md "wikilink")\[1\]。
 
 ## 參見

@@ -1,3 +1,6 @@
+> 本文内容由[52 Hz I Love You](https://zh.wikipedia.org/wiki/52 Hz I Love You)转换而来。
+
+
 </ref> | country =  | language = [國語](../Page/中華民國國語.md "wikilink") | budget = [新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")8,000萬\[1\] | gross = 新台幣4,627萬\[2\] | preceded_by = | followed_by = | cn_name = | hk_name = | mo_name = | tw_name = 52 Hz I Love You | sg_name = | website = }}
 
 《**52 Hz I Love You**》（中文片名《52赫茲我愛你》為副標題\[3\]，）是一部於[2017年上映的](https://zh.wikipedia.org/wiki/2017年電影 "wikilink")[臺灣](https://zh.wikipedia.org/wiki/臺灣電影 "wikilink")[音樂電影](https://zh.wikipedia.org/wiki/音樂電影 "wikilink")，由[魏德聖](../Page/魏德聖.md "wikilink")執導，[黃志明與](https://zh.wikipedia.org/wiki/黃志明_\(台灣\) "wikilink")[吳明憲擔任監製](https://zh.wikipedia.org/wiki/吳明憲 "wikilink")，魏德聖、[游文興及](https://zh.wikipedia.org/wiki/游文興 "wikilink")[蘇達](../Page/蘇達.md "wikilink")共同編劇。演員包含[小玉](https://zh.wikipedia.org/wiki/宇宙人_\(台灣樂團\) "wikilink")、[小球](../Page/莊鵑瑛.md "wikilink")、[舒米恩](../Page/舒米恩.md "wikilink")和[米非等人](https://zh.wikipedia.org/wiki/陳玫希 "wikilink")。拍攝在2016年開始，為期39天。臺灣於2017年1月26日上映。

@@ -1,3 +1,6 @@
+> 本文内容由[Starset](https://zh.wikipedia.org/wiki/Starset)转换而来。
+
+
 Starset是個來自美國[俄亥俄州](../Page/俄亥俄州.md "wikilink")[哥倫布市的](../Page/哥伦布_\(俄亥俄州\).md "wikilink")[另類搖滾樂團](../Page/另类摇滚.md "wikilink")\[1\]，在2013由Dustin Bates組建，他們在創團後的一年發行首張專輯Transmissions。並在2017年發行第二張專輯Vessels。
 
 ## 經歷

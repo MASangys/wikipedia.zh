@@ -1,3 +1,6 @@
+> 本文内容由[Let\'s Talk About Love \(勝利韓語迷你專輯\)](https://zh.wikipedia.org/wiki/Let\'s Talk About Love \(勝利韓語迷你專輯\))转换而来。
+
+
 **Let's Talk About Love**是韓國歌手[勝利的第二張迷你專輯](../Page/勝利_\(歌手\).md "wikilink")，專輯總共收錄了7首歌曲，專輯于2013年8月19日在線上發行並在8月21日發行實體專輯。專輯的〈我有話要說〉一曲為此專輯的主打歌\[1\]。
 
 ## 概要

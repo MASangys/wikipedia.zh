@@ -1,3 +1,6 @@
+> 本文内容由[Pro-Fit聲優養成所](https://zh.wikipedia.org/wiki/Pro-Fit聲優養成所)转换而来。
+
+
 **Pro-Fit聲優養成所**（）是[日本](../Page/日本.md "wikilink")一家總部位於[東京都](../Page/東京都.md "wikilink")[中野區](../Page/中野區.md "wikilink")的[經紀公司](../Page/經紀公司.md "wikilink")[Pro-Fit](../Page/Pro-Fit.md "wikilink")附屬的聲優養成所。另有位在[新宿區](../Page/新宿區.md "wikilink")的工作室。成立於2004年4月。
 
 ## 概要

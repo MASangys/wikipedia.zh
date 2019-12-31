@@ -1,3 +1,6 @@
+> 本文内容由[Windows服务](https://zh.wikipedia.org/wiki/Windows服务)转换而来。
+
+
 **Windows服务**是指[Windows NT](../Page/Windows_NT.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中的一种[运行在后台的计算机程序](../Page/后台进程.md "wikilink")。\[1\]它在概念上类似于[Unix](../Page/UNIX.md "wikilink")[守护进程](../Page/守护进程.md "wikilink")。\[2\]Windows服务必须符合[服务控制管理器](../Page/服务控制管理器.md "wikilink")（负责管理Windows服务的组件）的接口规则和协议。\[3\]
 
 Windows服务可以配置为在操作系统启动时运行，并且在Windows运行期间持续在后台运行。服务也可以手动或基于某个事件而启动。<span class="cx-segment" data-segmentid="65"></span>Windows NT操作系统包含众多服务，分别运行在三种[用户](../Page/用户.md "wikilink")帐户环境中：系统、网络服务和本地服务。这些Windows组件通常采用[Windows服务托管进程](https://zh.wikipedia.org/wiki/Svchost.exe "wikilink")。因为Windows服务运行在其自身的专用用户帐户中，它们可以在用户未登录时活动。

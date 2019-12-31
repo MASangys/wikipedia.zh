@@ -1,3 +1,6 @@
+> 本文内容由[RETScreen](https://zh.wikipedia.org/wiki/RETScreen)转换而来。
+
+
 多个 | released =  | latest release version = RETScreen Expert | latest release date = | latest preview version = | latest preview date = | operating system = [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") | operating system desc = | size = | language = 36 种语言  | genre = 应用程序 | license = | website = }}
 
 **RETScreen 清洁能源管理软件**（通常简称为 **RETScreen**）是一款由加拿大政府开发的免费的软件包。RETScreen Expert 在旧金山举行的2016 清洁能源部长级会议（Clean Energy Ministerial）上闪亮登场。\[1\]

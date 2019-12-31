@@ -1,3 +1,6 @@
+> 本文内容由[Leda](https://zh.wikipedia.org/wiki/Leda)转换而来。
+
+
 **Leda**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：レダ，1987年6月9日 - ）是[日本](../Page/日本.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")。出生於[三重縣](https://zh.wikipedia.org/wiki/三重縣 "wikilink")。本名不詳。
 
 ## 經歷

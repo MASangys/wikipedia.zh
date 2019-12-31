@@ -1,3 +1,6 @@
+> 本文内容由[13 Voices](https://zh.wikipedia.org/wiki/13 Voices)转换而来。
+
+
 《13 Voices》是[加拿大](../Page/加拿大.md "wikilink")[朋克乐队](https://zh.wikipedia.org/wiki/朋克 "wikilink")[Sum 41的六张](../Page/魔数41.md "wikilink")[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。该专辑定于2016年10月7日发售。这是从2004年[Dave Baksh离队后首次与Sum](https://zh.wikipedia.org/wiki/Dave_Baksh "wikilink") 41合作所录制的专辑，同时也是与新鼓手[Frank Zummo合作的首张专辑](https://zh.wikipedia.org/wiki/Frank_Zummo "wikilink")。 \[1\]
 
 ## 背景

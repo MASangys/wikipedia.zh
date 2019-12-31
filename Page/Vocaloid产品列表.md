@@ -1,3 +1,6 @@
+> 本文内容由[Vocaloid产品列表](https://zh.wikipedia.org/wiki/Vocaloid产品列表)转换而来。
+
+
 [链接=<https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm>](https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm "fig:链接=https://zh.wikipedia.org/wiki/File:Jp_themesong_2.webm")可以發音日本語(00:26-04:19)和英語(04:38-06:34)。\]\]
 
 以下是已發佈的[Vocaloid軟體產品列表](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")，以發佈日期爲序。

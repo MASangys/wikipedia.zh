@@ -1,3 +1,6 @@
+> 本文内容由[Studio Jack](https://zh.wikipedia.org/wiki/Studio Jack)转换而来。
+
+
 **有限公司STUDIO JACK**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫工作室](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1970年。
 
 ## 概要、沿革

@@ -1,3 +1,6 @@
+> 本文内容由[Unnies](https://zh.wikipedia.org/wiki/Unnies)转换而来。
+
+
 **Unnies**（，意为"姊姊們"）是[韓國KBS](https://zh.wikipedia.org/wiki/韓國 "wikilink") 2《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》綜藝節目中產生之企劃團體。
 
 第一代成員有[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink")、[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](../Page/Jessi.md "wikilink") 6人。隊長兼可愛擔當為忙內[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，[羅美蘭](../Page/羅美蘭.md "wikilink")為性感擔當；[金淑](../Page/金淑.md "wikilink")為節拍擔當；[洪真京為領舞擔當兼身高擔當](https://zh.wikipedia.org/wiki/洪真京 "wikilink")；夢想幫幫主[閔孝琳為外貌擔當](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")；[Jessi](../Page/Jessi.md "wikilink")為魅力擔當。

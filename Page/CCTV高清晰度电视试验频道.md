@@ -1,3 +1,6 @@
+> 本文内容由[CCTV高清晰度电视试验频道](https://zh.wikipedia.org/wiki/CCTV高清晰度电视试验频道)转换而来。
+
+
 **CCTV高清晰度电视试验频道**是[中国中央电视台](../Page/中国中央电视台.md "wikilink")于1999年开播的一条以[1080i高清格式播放的试验频道](https://zh.wikipedia.org/wiki/1080i "wikilink")\[1\]。该频道是[大中华区第一条](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")[高清电视](../Page/高清电视.md "wikilink")频道、全球第一条中文高清电视频道，也是中央电视台当时唯一不使用“中央电视台”作为频道呼号的频道。
 
 ## 历史

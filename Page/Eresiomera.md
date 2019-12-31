@@ -1,3 +1,6 @@
+> 本文内容由[Eresiomera](https://zh.wikipedia.org/wiki/Eresiomera)转换而来。
+
+
 ***Eresiomera***是[灰蝶科](../Page/灰蝶科.md "wikilink")[圓灰蝶亞科](../Page/圓灰蝶亞科.md "wikilink")[琳灰蝶族](../Page/琳灰蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於非洲熱帶區。本屬是否與[靡灰蝶屬](../Page/靡灰蝶屬.md "wikilink")和[僕灰蝶屬](../Page/僕灰蝶屬.md "wikilink")為同一[單系群仍不清楚](https://zh.wikipedia.org/wiki/單系群 "wikilink")\[1\]。
 
 ## 物種

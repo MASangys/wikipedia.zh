@@ -1,3 +1,6 @@
+> 本文内容由[歡迎SHOW](https://zh.wikipedia.org/wiki/歡迎SHOW)转换而来。
+
+
 《**歡迎SHOW**》(；)，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS2製作的綜藝節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")，由[李瑞鎮](../Page/李瑞鎮.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")、[金世正等人主持與出演](https://zh.wikipedia.org/wiki/金世正 "wikilink")，節目以明星才藝捐獻為主題，銷售運動家、藝術家、科學家等各界明星的才能，希望能發掘明星們的反轉魅力，是一檔新概念愛心捐款節目，自2016年5月6日開始每週五播出\[1\]。
 
 ## 節目列表

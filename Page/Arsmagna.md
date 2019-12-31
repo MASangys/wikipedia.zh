@@ -1,3 +1,6 @@
+> 本文内容由[Arsmagna](https://zh.wikipedia.org/wiki/Arsmagna)转换而来。
+
+
 **アルスマグナ**(ARSMAGNA)是活躍在[niconico動畫上的](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")[Cosplay](../Page/Cosplay.md "wikilink") 2.5次元5人舞蹈團體，由九瓏ノ主學園的學生4人、老師1人、與玩偶一隻所組成。
 
 於2011年8月26日組成，2015年2月18日於[環球音樂日本正式出道](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。

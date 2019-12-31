@@ -1,3 +1,6 @@
+> 本文内容由[樂天 \(Lotte\)](https://zh.wikipedia.org/wiki/樂天 \(Lotte\))转换而来。
+
+
 [Lotte-logo.jpg](https://zh.wikipedia.org/wiki/File:Lotte-logo.jpg "fig:Lotte-logo.jpg") [Khitai7.jpg](https://zh.wikipedia.org/wiki/File:Khitai7.jpg "fig:Khitai7.jpg")\]\] [Daegu-Lotte_Young_Plaza.jpg](https://zh.wikipedia.org/wiki/File:Daegu-Lotte_Young_Plaza.jpg "fig:Daegu-Lotte_Young_Plaza.jpg")
 
 **樂天集團**（，，），是一家以[韩国與](https://zh.wikipedia.org/wiki/韩国 "wikilink")[日本](../Page/日本.md "wikilink")為中心的多元化的跨国集团公司，业务范围涵盖食品、百货、娱乐、金融、化工等诸多领域，是[韩国大财阀之一](https://zh.wikipedia.org/wiki/韩国 "wikilink")。其[控股公司](../Page/控股公司.md "wikilink")樂天控股位於日本，但在日本主要業務僅為食品製造，其海外的大部分業務均由韓國方面拓展。

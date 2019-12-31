@@ -1,3 +1,6 @@
+> 本文内容由[模块:Airport destination list](https://zh.wikipedia.org/wiki/模块:Airport destination list)转换而来。
+
+
 local p = {}
 
 local function isnotempty(s)

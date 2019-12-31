@@ -1,3 +1,6 @@
+> 本文内容由[ICracked](https://zh.wikipedia.org/wiki/ICracked)转换而来。
+
+
 **iCracked**是一所主要为[iOS用户服务的在线电子产品维修公司](https://zh.wikipedia.org/wiki/iOS "wikilink")，于2010年成立，为美国和其他11个国家的客户们提供服务。\[1\]iCracked拥有2800名以上的维修技师，在他们所在的地区为顾客维修iOS和[三星的产品](https://zh.wikipedia.org/wiki/三星 "wikilink")，他们被称为iTechs。\[2\]Inc. Magazine在2014年5000个发展最快公司的排行榜将iCracked评为第83名。\[3\]2015年，[福布斯](../Page/福布斯.md "wikilink")将iCracked评为美国最有前途的20家公司之一（第18名）。\[4\]
 
 ## 发展历史

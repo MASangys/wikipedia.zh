@@ -1,3 +1,6 @@
+> 本文内容由[Epsilon級砲艇](https://zh.wikipedia.org/wiki/Epsilon級砲艇)转换而来。
+
+
 **Epsilon級砲艇**(日方稱**鎮東型砲艦**)是中國[清朝](../Page/清朝.md "wikilink")海軍於1878年向英國的[阿姆斯特朗公司訂購及建造的四艘](../Page/阿姆斯特朗-惠特沃斯.md "wikilink")。它的排水量440噸，一門35噸重的15吋，前進的最高時速10節，後退9節。此類炮艇炮大船小，意圖以不對稱力量來對抗昂貴巨艦的優勢，所以也稱為「蚊子船」。\[1\]
 
 它的武裝是[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")11吋的前膛砲，該砲[裝藥](../Page/裝藥.md "wikilink")235[磅](../Page/磅.md "wikilink")，彈重536磅，[砲口初速每秒](https://zh.wikipedia.org/wiki/砲口初速 "wikilink")1,925[英呎](https://zh.wikipedia.org/wiki/英呎 "wikilink")，13,769噸\[2\]，在1,000碼的距離能射穿17吋鐵甲\[3\]。

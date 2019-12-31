@@ -1,3 +1,6 @@
+> 本文内容由[Google自訂搜尋引擎](https://zh.wikipedia.org/wiki/Google自訂搜尋引擎)转换而来。
+
+
 **Google自定义搜索**（[英语](../Page/英语.md "wikilink")： **Google Custom Search**）是在[Google搜索](../Page/Google搜索.md "wikilink")的基础上经过改进，根据用户需要排列搜索结果的搜索方式。\[1\] Google于2006年10月23日推出该服务。\[2\]
 
 ## 参考链接

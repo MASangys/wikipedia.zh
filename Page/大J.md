@@ -1,3 +1,6 @@
+> 本文内容由[大J](https://zh.wikipedia.org/wiki/大J)转换而来。
+
+
 **JASON**，**大J**（姓周，， )，[香港](../Page/香港.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")。2002年赴[日本](../Page/日本.md "wikilink")留學，修讀[工商管理](https://zh.wikipedia.org/wiki/工商管理 "wikilink")。 2012年開始[YouTube](../Page/YouTube.md "wikilink")影音創作，主要拍攝遊戲影片及[影像網誌](https://zh.wikipedia.org/wiki/影像網誌 "wikilink")。2015年6月， 成為香港第一個突破1億觀看次數的YouTuber，年薪亦達到過百萬[港元](../Page/港元.md "wikilink")\[1\]。2019年6月起，大J積極表態支持[反送中](https://zh.wikipedia.org/wiki/反送中 "wikilink")，因此被受大量年輕網民的追捧。其兄周世豪為富翁[湯文亮的女婿](https://zh.wikipedia.org/wiki/湯文亮 "wikilink")\[2\]。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[Windy Day](https://zh.wikipedia.org/wiki/Windy Day)转换而来。
+
+
 《**Windy Day**》，是韓國女子演唱團體[Oh My Girl的第三張迷你專輯改版](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，以〈Windy Day〉為主打歌。
 
 ## 發行過程

@@ -1,3 +1,6 @@
+> 本文内容由[Gugudan](https://zh.wikipedia.org/wiki/Gugudan)转换而来。
+
+
 **gugudan**（）是[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2016年推出的九人女子團體，出道時成員包括美美、HANA、、 [娜英](../Page/娜英.md "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear Friend)。 2016年6月28日推出首張迷你專輯《Act.1 The Little Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")發布 將退出[gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink")（但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")），將集中學業和健康恢復，故此因gugudan日後將以八人女子團體繼續活動。
 
 ## 經歷

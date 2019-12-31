@@ -1,3 +1,6 @@
+> 本文内容由[VOEZ](https://zh.wikipedia.org/wiki/VOEZ)转换而来。
+
+
 《**VOEZ**》是由[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[雷亞遊戲](../Page/雷亞遊戲.md "wikilink")（Rayark）开发的一款[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。為一款落下式音樂遊戲，遊玩過程中須全程連網（除了Switch版）。
 
 以炫麗的軌道變換為主打，相較於[Deemo](../Page/Deemo.md "wikilink")中無軌道的表現形式，《VOEZ》將軌道的存在發揮至極限\[1\]，隨著音樂進行，軌道會產生「出現、消失、移動、閃動、擴大、縮小」等變化。

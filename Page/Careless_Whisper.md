@@ -1,3 +1,6 @@
+> 本文内容由[Careless Whisper](https://zh.wikipedia.org/wiki/Careless Whisper)转换而来。
+
+
 《**無心的呢喃**》（**Careless Whisper**）是1984年7月[英國前雙人男子樂團](https://zh.wikipedia.org/wiki/英國 "wikilink")[威猛樂隊](../Page/威猛樂隊.md "wikilink")（Wham\!）發行，但由[喬治·麥可](https://zh.wikipedia.org/wiki/喬治·麥可 "wikilink")（George Michael）獨唱的單曲，此單曲在英美兩地都獲得3週冠軍，更一舉成為1985年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[告示牌排行榜](https://zh.wikipedia.org/wiki/告示牌排行榜 "wikilink")》最佳年度單曲\[1\]\[2\]。《無心的呢喃》儼然已成為喬治·麥可招牌曲目，它也是能夠代表1980年代抒情歌曲的超級經典之一。
 
 ## 內容

@@ -1,3 +1,6 @@
+> 本文内容由[OLM](https://zh.wikipedia.org/wiki/OLM)转换而来。
+
+
 **OLM**（，，全稱**Oriental Light Magic**）是一家日本動畫制作公司，[日本動畫協會](../Page/日本動畫協會.md "wikilink")正會員。代表作有[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")、[閃電十一人等](https://zh.wikipedia.org/wiki/閃電十一人 "wikilink")。
 
 ## OLM團隊

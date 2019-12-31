@@ -1,3 +1,6 @@
+> 本文内容由[联盟-FG](https://zh.wikipedia.org/wiki/联盟-FG)转换而来。
+
+
 联盟-FG[运载火箭是](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")[R7火箭家族的一员](../Page/R-7火箭家族.md "wikilink")，改进自联盟-U型，由位于[萨玛拉的](../Page/薩馬拉.md "wikilink")“进步”国立科研与制造航天中心（TsSKB-Progress）设计制造。她在2001年5月20日首飞，将进步M1-6货运飞船运送到[国际空间站](../Page/国际空间站.md "wikilink")。
 
 从2002年10月30日开始，联盟-FG是[俄罗斯联邦航天局唯一用于向国际空间站发射](https://zh.wikipedia.org/wiki/俄罗斯联邦航天局 "wikilink")[联盟-TMA和](https://zh.wikipedia.org/wiki/联盟-TMA "wikilink")[联盟-MS载人宇宙飞船的载具](../Page/联盟号宇宙飞船.md "wikilink")。截止到2018年10月，火箭所有56次发射的前55次均发射成功，直到第56次发射[联盟MS-10](../Page/联盟MS-10.md "wikilink")时失败。\[1\]\[2\]

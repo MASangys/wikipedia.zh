@@ -1,3 +1,6 @@
+> 本文内容由[Slow Start](https://zh.wikipedia.org/wiki/Slow Start)转换而来。
+
+
 是[篤見唯子](../Page/篤見唯子.md "wikilink")於《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》創作的日本[四格漫畫](../Page/四格漫畫.md "wikilink")作品。自2013年7月號的《Manga Time Kirara》開始連載\[1\]\[2\]。2017年6月號的《Manga Time Kirara》公布本作改編電視動畫的消息\[3\]。
 
 ## 故事

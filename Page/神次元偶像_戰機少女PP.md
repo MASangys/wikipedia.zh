@@ -1,3 +1,6 @@
+> 本文内容由[神次元偶像 戰機少女PP](https://zh.wikipedia.org/wiki/神次元偶像 戰機少女PP)转换而来。
+
+
 是[Idea Factory和](../Page/Idea_Factory.md "wikilink")[Tamsoft开发](https://zh.wikipedia.org/wiki/Tamsoft "wikilink")，[Compile Heart在日本](../Page/Compile_Heart.md "wikilink")、[NIS America在北美](https://zh.wikipedia.org/wiki/NIS_America "wikilink")、澳洲和欧洲发行的[育成模拟游戏](https://zh.wikipedia.org/wiki/育成模拟游戏 "wikilink")。游戏为[海王星系列的衍生作品](https://zh.wikipedia.org/wiki/海王星系列 "wikilink")，在索尼[PlayStation Vita独占](../Page/PlayStation_Vita.md "wikilink")。游戏于2013年6月在日本发售，2014年6月在西方发售。
 
 ## 登場人物

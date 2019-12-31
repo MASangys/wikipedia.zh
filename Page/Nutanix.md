@@ -1,3 +1,6 @@
+> 本文内容由[Nutanix](https://zh.wikipedia.org/wiki/Nutanix)转换而来。
+
+
 **路坦力**（），是一家設計與銷售[超融合基礎架構](../Page/超融合基礎架構.md "wikilink")設備的資訊科技公司。\[1\] \[2\] 他們的產品提供了的資訊科技基礎架構，該架構執行[虛擬化](../Page/虛擬化.md "wikilink")的應用程序並且提供了許多公共[雲服務的優點](../Page/雲端運算.md "wikilink")。運算、虛擬、以及儲存的資源都被融合至一台可橫向擴展的[x86伺服器](https://zh.wikipedia.org/wiki/x86 "wikilink")（站點），並將之部署在執行Nutanix Acropolis軟體的[叢集之中](../Page/计算机集群.md "wikilink")。Nutanix叢集消除了對外部儲存陣列裝置的依賴——譬如[儲存區域網路跟](https://zh.wikipedia.org/wiki/儲存區域網路 "wikilink")[網路附加儲存](../Page/網路附加儲存.md "wikilink")。整個系統的能力可透過增加額外的站點來擴充。另外，Nutanix Prism軟體則提供了自動配置、管理及分析的功能。
 
 Nutanix的軟體除了透過經銷商銷售之外，也有搭配自己設計的伺服器成爲一個軟硬體整合解決方案。另外，也與[戴爾](../Page/戴爾.md "wikilink")及[聯想達成了代工合作協議](https://zh.wikipedia.org/wiki/联想集团 "wikilink")，在他們的伺服器上銷售Nutanix軟體。\[3\]但是，與戴爾的合作關係隨著戴爾收購[EMC將變得複雜](https://zh.wikipedia.org/wiki/EMC "wikilink")。\[4\]2016年8月, 該公司宣佈其軟體開始支持。\[5\]

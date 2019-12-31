@@ -1,3 +1,6 @@
+> 本文内容由[催眠Show](https://zh.wikipedia.org/wiki/催眠Show)转换而来。
+
+
 《**催眠Show**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")的第三張國語個人音樂大碟，於2005年10月21日推出。
 
 ## 專輯曲目

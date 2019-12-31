@@ -1,3 +1,6 @@
+> 本文内容由[模块:Video game wikidata](https://zh.wikipedia.org/wiki/模块:Video game wikidata)转换而来。
+
+
 local Date = require('Module:Date')._Date local yesno = require('Module:Yesno')
 
 local p = {}

@@ -1,3 +1,6 @@
+> 本文内容由[INX](https://zh.wikipedia.org/wiki/INX)转换而来。
+
+
 **INX**（），為[韓國NA娛樂的](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人男子組合，於2016年8月2日發行單曲《Alright》（）\[1\]，並在2016年8月5日踏上[KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》舞台作正式出道\[2\]。
 
 組合成員包括相昊、俊龍、本國、地南和WIN\[3\]，在出道前已受邀到中國時尚文化周演出\[4\]，出道曲也有中國音樂人[樂天洋與製作](https://zh.wikipedia.org/wiki/樂天洋 "wikilink")、經紀[王慶澤協助製作](https://zh.wikipedia.org/wiki/王慶澤 "wikilink")。

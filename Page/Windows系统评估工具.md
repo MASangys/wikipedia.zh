@@ -1,3 +1,6 @@
+> 本文内容由[Windows系统评估工具](https://zh.wikipedia.org/wiki/Windows系统评估工具)转换而来。
+
+
 **Windows系统评估工具**（，简称**WinSAT**）是[微软](../Page/微软.md "wikilink")[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7和](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows 8中的一个模块](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，可以在[控制面板](../Page/控制面板.md "wikilink")的性能信息和工具中找到（[Windows 8.1中除外](../Page/Windows_8.1.md "wikilink")）。此工具可以测量当前运行硬件的各项特征和能力，然后将其报告为**Windows体验指数**（，简称**WEI**）得分。体验指数包括五项子分数：处理器、内存、2D图形、3D图形和磁盘。最终的体验指数得分是分数最低的子分数，而**不是**五个子分数的平均值。\[1\]\[2\]Windows Vista中的WinSAT将体验指数报告为一个从1.0至5.9的得分，\[3\]Windows 7中上限增至7.9\[4\]Windows 8中增至9.9。\[5\]
 
 体验指数可以匹配用户的计算机硬件性能与软件的性能需求。例如，[Aero图形界面在该指数小于](../Page/Windows_Aero.md "wikilink")3分时将不会自动启用。\[6\]\[7\]

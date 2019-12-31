@@ -1,3 +1,6 @@
+> 本文内容由[Coridel娛樂](https://zh.wikipedia.org/wiki/Coridel娛樂)转换而来。
+
+
 **Coridel娛樂**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，在2012年成立，旗下藝人包括[潔西卡](../Page/Jessica_\(韓國歌手\).md "wikilink")、[Playback等藝人](https://zh.wikipedia.org/wiki/Playback "wikilink")\[1\]。
 
 ## 旗下藝人

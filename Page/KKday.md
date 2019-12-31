@@ -1,3 +1,6 @@
+> 本文内容由[KKday](https://zh.wikipedia.org/wiki/KKday)转换而来。
+
+
 **KKday**\[1\]\[2\]\[3\]成立於2014年，總部位在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")，為台灣第一個專門提供旅遊體驗與行程 (local tours and activities) 的線上平台。平台目前蒐集的旅遊行程與體驗超過 20,000 種，遍佈全球 80 個國家、500 個城市。除了繁體和簡體中文外，網站也支援英文、日文、韓文等 12 種多國語言。全球 11 個市場皆設有辦公室與服務據點，包括[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[上海等地皆設立分公司](https://zh.wikipedia.org/wiki/上海 "wikilink")。\[4\]持續拓展北美、歐洲以及紐澳市場。並與[亞洲萬里通](../Page/亞洲萬里通.md "wikilink")結盟\[5\]。
 
 ## 歷史

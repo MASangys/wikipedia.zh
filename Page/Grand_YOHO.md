@@ -1,3 +1,6 @@
+> 本文内容由[Grand YOHO](https://zh.wikipedia.org/wiki/Grand YOHO)转换而来。
+
+
 [Grand_YOHO_GF_Drop_off_area_2017.jpg](https://zh.wikipedia.org/wiki/File:Grand_YOHO_GF_Drop_off_area_2017.jpg "fig:Grand_YOHO_GF_Drop_off_area_2017.jpg") '''Grand YOHO ''' 是[新鴻基地產](../Page/新鴻基地產.md "wikilink")發展的綜合城市「[YOHO series](../Page/YOHO系列.md "wikilink")」的第三期大型住宅項目，連接[港鐵](../Page/港鐵.md "wikilink")[元朗站](../Page/元朗站_\(西鐵綫\).md "wikilink")。屋苑共有9座住宅，備有整個系列中最大面積的私人會所，基座[YOHO MALL 形點為新界西北區最大旗艦商場](../Page/YOHO_MALL_形點.md "wikilink")。
 
 住宅樓面約180萬方呎，項目在2010年4月起動工，2016年8月以預售樓花形式首次開售。

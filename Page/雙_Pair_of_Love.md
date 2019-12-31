@@ -1,3 +1,6 @@
+> 本文内容由[雙 Pair of Love](https://zh.wikipedia.org/wiki/雙 Pair of Love)转换而来。
+
+
 《**雙 Pair of Love**》是一部由導演張凱傑以及副導演李瑞儂執導，大學生何育齊、李家慶、范家榛以及曾慶珊主演，長達40分鐘30秒的一部[微電影](../Page/微電影.md "wikilink")\[1\]。這部微電影是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[銘傳大學](../Page/銘傳大學.md "wikilink")數位媒體設計學系的第七屆畢業作品。這部微電影是依據真實故事而改編的，講述在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[陽明高中三年十九班的四名高中生](https://zh.wikipedia.org/wiki/陽明高中 "wikilink")，一對男同性情侶以及一對女同性情侶的愛情故事。\[2\]
 
 ## 電影命名

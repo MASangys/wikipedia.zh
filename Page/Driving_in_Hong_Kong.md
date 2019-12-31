@@ -1,3 +1,6 @@
+> 本文内容由[Driving in Hong Kong](https://zh.wikipedia.org/wiki/Driving in Hong Kong)转换而来。
+
+
 《**Driving in Hong Kong**》是由[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作及播出的深宵清晨節目，於2016年4月7日03:00－06:00在[ViuTV](../Page/ViuTV.md "wikilink")首播，節目內容為拍攝[香港道路](../Page/香港道路.md "wikilink")行車實況。播放時間為逢星期二至六03:00－06:00，是繼當年[亞洲電視](../Page/亞洲電視.md "wikilink")作品《[魚樂無窮](../Page/魚樂無窮.md "wikilink")》之後香港第二個[慢電視節目](https://zh.wikipedia.org/wiki/慢電視 "wikilink")，是ViuTV少數沒有提供網上重溫，以及唯一沒有片頭片末的節目。
 
 2017年5月18日起因應ViuTV於增加凌晨重播劇集時段而取消播映。節目總共播出286集。

@@ -1,3 +1,6 @@
+> 本文内容由[Man to Man](https://zh.wikipedia.org/wiki/Man to Man)转换而来。
+
+
 《**Man to Man**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2017年4月21日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由[朴海鎮](../Page/朴海鎮.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[金玟廷](../Page/金玟廷.md "wikilink")、[蔡貞安](../Page/蔡貞安.md "wikilink")及[延政勳主演](https://zh.wikipedia.org/wiki/延政勳 "wikilink")，《[Remember－兒子的戰爭](../Page/Remember－兒子的戰爭.md "wikilink")》的[李昌民](../Page/李昌民.md "wikilink")導演與《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》[金元碩編劇共同打造的](https://zh.wikipedia.org/wiki/金元碩_\(編劇\) "wikilink")100%事前製作電視劇，講述多才多藝的謎樣男子金蔎雨（[朴海鎮](../Page/朴海鎮.md "wikilink") 飾）成為超級巨星呂雲光（[朴誠雄](../Page/朴誠雄.md "wikilink") 飾）的保鑣後，所捲入的事件該如何被解開的故事。
 
 本劇首播收視為4.055%（AGB全國），刷新JTBC電視台的劇集最高首播收視紀錄，打破前一部作品《[大力女子都奉順](../Page/大力女子都奉順.md "wikilink")》所創下3.829%（AGB全國）首播收視，後被《[Life](../Page/Life_\(電視劇\).md "wikilink")》4.334%（AGB全國）的首播收視所超越。

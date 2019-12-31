@@ -1,3 +1,6 @@
+> 本文内容由[Serradinga](https://zh.wikipedia.org/wiki/Serradinga)转换而来。
+
+
 ***Serradinga***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[眼蝶亞科](../Page/眼蝶亞科.md "wikilink")[絡眼蝶族](../Page/絡眼蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於非洲南部\[1\]。
 
 ## 物種

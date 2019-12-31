@@ -1,3 +1,6 @@
+> 本文内容由[RSVP Technologies Inc.](https://zh.wikipedia.org/wiki/RSVP Technologies Inc.)转换而来。
+
+
 **RSVP Technologies Inc.**是一家从事[人工智能](../Page/人工智能.md "wikilink")的科技公司，主要开发[自然语言人机接口](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。公司于2013年在[滑铁卢成立](https://zh.wikipedia.org/wiki/滑铁卢_\(安大略省\) "wikilink")。创始人[李明教授是](https://zh.wikipedia.org/wiki/李明_\(滑铁卢大学教授\) "wikilink")[加拿大皇家学会会士](https://zh.wikipedia.org/wiki/加拿大皇家学会 "wikilink")，现任[滑铁卢大学教授](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink")。\[1\]
 
 RSVP公司基于[信息论](../Page/信息论.md "wikilink")、[深度学习](../Page/深度学习.md "wikilink")与[自然语言处理](../Page/自然语言处理.md "wikilink")技术，开发了深度语义理解平台“薄言超脑”\[2\]。该平台以自然语言的句子为输入，自动生成回复进行输出。在互联网大数据与机器学习的帮助下，该平台构建了大量的中英文知识，并可逐步提高对话能力。

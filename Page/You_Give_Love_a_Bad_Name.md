@@ -1,3 +1,6 @@
+> 本文内容由[You Give Love a Bad Name](https://zh.wikipedia.org/wiki/You Give Love a Bad Name)转换而来。
+
+
 《**You Give Love a Bad Name**》，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[邦·喬飛](../Page/邦喬飛.md "wikilink")（），漢譯《**你敗壞了愛的名聲**》，或譯為《**你讓愛聲名狼藉**》、《**你玷汙愛的名譽**》等，在1986年7月發行的單曲，這首單曲獲得美國告示牌1週冠軍，成為該團首支全美冠軍單曲\[1\]\[2\]。
 
 ## 內容

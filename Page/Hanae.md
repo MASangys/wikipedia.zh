@@ -1,3 +1,6 @@
+> 本文内容由[Hanae](https://zh.wikipedia.org/wiki/Hanae)转换而来。
+
+
 **Hanae**（，），[日本](../Page/日本.md "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，出生於[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。她的代表作为電視動畫《[元氣少女緣結神](../Page/元氣少女緣結神.md "wikilink")》主题曲。
 
 ## 生平

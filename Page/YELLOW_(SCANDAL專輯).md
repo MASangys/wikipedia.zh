@@ -1,3 +1,6 @@
+> 本文内容由[YELLOW \(SCANDAL專輯\)](https://zh.wikipedia.org/wiki/YELLOW \(SCANDAL專輯\))转换而来。
+
+
 《**YELLOW**》是日本女子摇滚乐队[SCANDAL的第七张录音室专辑](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")，于2016年3月2日发售。\[1\]
 
 在专辑的初回限定版中附带乐队为本张专辑拍摄的短片电影及製作花絮“Room No.7”。

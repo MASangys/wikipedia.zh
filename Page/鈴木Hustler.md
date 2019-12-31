@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Hustler](https://zh.wikipedia.org/wiki/鈴木Hustler)转换而来。
+
+
 **鈴木Hustler**（）是2014年起由[日本](../Page/日本.md "wikilink")[鈴木汽車開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，其兄弟車為[馬自達Flair Crossover](../Page/馬自達Flair_Crossover.md "wikilink")。關於車名「Hustler」來自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「急於行事之人」\[1\]，不過此車名與[美國著名](https://zh.wikipedia.org/wiki/美國 "wikilink")[成人雜誌](https://zh.wikipedia.org/wiki/成人雜誌 "wikilink")《[好色客](../Page/好色客.md "wikilink")》相同，且「hustle」在英文[俚語中意指](https://zh.wikipedia.org/wiki/俚語 "wikilink")[妓女](../Page/性工作者.md "wikilink")[拉客賣淫](../Page/性交易.md "wikilink")。
 
 ## 歷史

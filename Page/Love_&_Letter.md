@@ -1,3 +1,6 @@
+> 本文内容由[Love \& Letter](https://zh.wikipedia.org/wiki/Love \& Letter)转换而来。
+
+
 《**LOVE\&LETTER**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的首張正規專輯](../Page/Seventeen_\(組合\).md "wikilink")，成員均參與專輯製作、作詞、作曲及編舞\[1\]\[2\]。專輯[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")企劃，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年4月25日發行，主打曲為〈Pretty U（예쁘다）〉。後於2016年7月4日發行重新包裝版專輯\[3\]，主打曲為〈VERY NICE（아주 NICE）〉。成員圓佑則因急性胃炎靜養，未參與重裝版宣傳。\[4\]
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Windows资源保护](https://zh.wikipedia.org/wiki/Windows资源保护)转换而来。
+
+
 **Windows资源保护**（）是[Windows Vista的新功能](../Page/Windows_Vista.md "wikilink")，它取代了[Windows文件保护](https://zh.wikipedia.org/wiki/Windows文件保护 "wikilink")，会保护[注册表](../Page/注册表.md "wikilink")键值、文件夹和关键系统文件。它保护资源的方式与Windows文件保护完全不同。<span class="cx-segment" data-segmentid="26"></span>
 
 ## 概述

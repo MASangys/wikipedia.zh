@@ -1,3 +1,6 @@
+> 本文内容由[I.B.I](https://zh.wikipedia.org/wiki/I.B.I)转换而来。
+
+
 **I.B.I**（）由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2016年推出的企劃女團，成員包括[李海印](../Page/李海印.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")、[李秀炫](https://zh.wikipedia.org/wiki/李秀炫 "wikilink")、[韓慧利](https://zh.wikipedia.org/wiki/韓慧利 "wikilink")。
 
 ## 經歷

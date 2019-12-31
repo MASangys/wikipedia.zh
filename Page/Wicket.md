@@ -1,3 +1,6 @@
+> 本文内容由[Wicket](https://zh.wikipedia.org/wiki/Wicket)转换而来。
+
+
 **Apache Wicket**，通常称为**Wicket**，是一种轻量级的基于组件的[Java](../Page/Java.md "wikilink") [Web应用框架](../Page/Web应用框架.md "wikilink")，其概念类似于[JavaServer Faces和](../Page/JavaServer_Faces.md "wikilink")[Tapestry](https://zh.wikipedia.org/wiki/Tapestry "wikilink")。它最初由乔纳森·洛克在2004年4月编写。2005年6月发布1.0版。2007年6月，它成功成为[Apache顶级项目](../Page/Apache软件基金会.md "wikilink")。\[1\]
 
 ## 基本原理

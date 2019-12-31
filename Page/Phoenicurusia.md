@@ -1,3 +1,6 @@
+> 本文内容由[Phoenicurusia](https://zh.wikipedia.org/wiki/Phoenicurusia)转换而来。
+
+
 ***Phoenicurusia***是[灰蝶科](../Page/灰蝶科.md "wikilink")[灰蝶亞科](../Page/灰蝶亞科.md "wikilink")[灰蝶族](../Page/灰蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於中亞。基於雄蝶的外生殖器構造獨特，Bozano & Weidenhoffer (2001) 把此屬從[灰蝶屬](../Page/灰蝶屬.md "wikilink")分離出來\[1\]。
 
 ## 物種

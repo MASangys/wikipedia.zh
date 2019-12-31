@@ -1,3 +1,6 @@
+> 本文内容由[端粒酶RNA組分](https://zh.wikipedia.org/wiki/端粒酶RNA組分)转换而来。
+
+
 **端粒酶RNA組分**（，缩写为）或称**端粒酶RNA**，是一種[真核生物](../Page/真核生物.md "wikilink")的[非編碼RNA](https://zh.wikipedia.org/wiki/非編碼RNA "wikilink")（ncRNA）。它是[端粒酶](../Page/端粒酶.md "wikilink")的組成成分之一——端粒酶用它來延長端粒\[1\]\[2\]。端粒酶RNA在[DNA複製過程中](https://zh.wikipedia.org/wiki/DNA複製 "wikilink")，爲端粒的[逆轉錄過程提供模板](https://zh.wikipedia.org/wiki/逆轉錄 "wikilink")。酵母、纖毛蟲、脊椎動物的端粒酶RNA的序列和結構都有很大不同。不過，它們的5'端靠近模板序列處，都有一個[假結結構](../Page/假結結構.md "wikilink")。脊椎動物端粒酶RNA的3'端有一個與[snoRNA](https://zh.wikipedia.org/wiki/snoRNA "wikilink")（核仁RNA）類似的結構域\[3\]\[4\]\[5\]。
 
 ## 功能

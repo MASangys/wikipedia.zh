@@ -1,3 +1,6 @@
+> 本文内容由[PIANO](https://zh.wikipedia.org/wiki/PIANO)转换而来。
+
+
 是日本原創動畫作品。2002年11月至2003年1月其間在[Kids Station電視台播出](../Page/Kids_Station.md "wikilink")。同時亦是[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")第6回動畫部門審查委員會推薦作品之一。
 
 ## 劇情

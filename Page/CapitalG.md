@@ -1,3 +1,6 @@
+> 本文内容由[CapitalG](https://zh.wikipedia.org/wiki/CapitalG)转换而来。
+
+
 **CapitalG**（原名**Google Capital**）是一所由[Alphabet](../Page/Alphabet.md "wikilink")（原[Google](../Page/Google.md "wikilink")）创立的私募股权投资机构，总部位于[美国](../Page/美国.md "wikilink")[加州山景城](../Page/加利福尼亚州.md "wikilink")，于2013年成立。\[1\]CapitalG的目的是投资那些已有稳定的基础且准备好进行商业扩张的公司。\[2\]CapitalG将Google的资金、人才和技术提供给被投资的公司以帮助他们成长。<span class="cx-segment" data-segmentid="42"></span>
 
 自2013年以来，CapitalG已经投资了超过19家公司，涵盖了金融技术、医疗保险和电子学习等领域。

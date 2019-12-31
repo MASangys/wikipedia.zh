@@ -1,3 +1,6 @@
+> 本文内容由[Sugawara構造](https://zh.wikipedia.org/wiki/Sugawara構造)转换而来。
+
+
 **菅原構造**（）\[1\]是[共形場論](../Page/共形場論.md "wikilink")中的一个構造，用[流來表示出](https://zh.wikipedia.org/wiki/流 "wikilink")[應力-能量張量](../Page/應力-能量張量.md "wikilink")：
 
 \[T_{zz}(z) \sim \sum_a  j^a_z (z) j^a_z(z)\]

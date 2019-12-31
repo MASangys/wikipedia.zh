@@ -1,3 +1,6 @@
+> 本文内容由[Unpretty Rapstar](https://zh.wikipedia.org/wiki/Unpretty Rapstar)转换而来。
+
+
 《**Unpretty Rapstar**》（）是2015年1月29日至2015年3月26日播出的[韩国音乐节目](https://zh.wikipedia.org/wiki/韩国 "wikilink")。“Unpretty”象徵著不刻意掩飾自我外表，而展現真正實力（real me）的態度。与之前在mnet播出的《[Show Me The Money](https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY "wikilink")》系列一样是[Hiphop选秀节目](../Page/嘻哈.md "wikilink")，特点是竞赛者全部是女Rapper。此外每期都有知名Hip Hop制作人们参与，对选手们的实力进行评价，发行音源是用一种适者生存的方式进行。第一季[Cheetah](../Page/Cheetah.md "wikilink")获得了冠军。
 
 ## 节目环节

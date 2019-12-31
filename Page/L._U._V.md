@@ -1,3 +1,6 @@
+> 本文内容由[L. U. V](https://zh.wikipedia.org/wiki/L. U. V)转换而来。
+
+
 《**L. U. V**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第五張日語單曲，該曲是將夏天的夜空染上華麗色彩般的愛情抒情曲，反映著兩人之間不會改變的愛情及懷著滿溢情感。2016年6月15日於[日本](../Page/日本.md "wikilink")以三個不同版本發行。\[1\]
 
 ## 專輯資訊

@@ -1,3 +1,6 @@
+> 本文内容由[岸本Miyuki](https://zh.wikipedia.org/wiki/岸本Miyuki)转换而来。
+
+
 **岸本Miyuki**（，），[日本](../Page/日本.md "wikilink")男[編劇](../Page/編劇.md "wikilink")。畢業於[近畿大學文藝學部藝術學科](https://zh.wikipedia.org/wiki/近畿大學 "wikilink")。祖父為。
 
 ## 作品列表

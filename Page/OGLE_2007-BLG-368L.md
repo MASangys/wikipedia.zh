@@ -1,3 +1,6 @@
+> 本文内容由[OGLE 2007-BLG-368L](https://zh.wikipedia.org/wiki/OGLE 2007-BLG-368L)转换而来。
+
+
 **OGLE-2007-BLG-368**是一顆距離地球約19200光年的恆星，天球上位於[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")。該恆星質量為太陽的65%，[光譜型可能是晚期K型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")。2009年時天文學家以[微重力透鏡觀測法發現該恆星旁有一顆體積相當於](https://zh.wikipedia.org/wiki/微重力透鏡 "wikilink")[海王星](../Page/海王星.md "wikilink")的行星。該行星距離母恆星約3.3天文單位，質量約為地球的22倍\[1\]。
 
 ## 參見

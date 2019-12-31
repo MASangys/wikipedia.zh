@@ -1,3 +1,6 @@
+> 本文内容由[Dinic算法](https://zh.wikipedia.org/wiki/Dinic算法)转换而来。
+
+
 **Dinic算法（又称Dinitz算法）**是一个在[网络流](../Page/网络流.md "wikilink")中计算[最大流的](https://zh.wikipedia.org/wiki/最大流 "wikilink")[强多项式复杂度的算法](../Page/时间复杂度.md "wikilink")，设想由[以色列](../Page/以色列.md "wikilink")（[前苏联](https://zh.wikipedia.org/wiki/前苏联 "wikilink")）的计算机科学家Yefim (Chaim) A. Dinitz在1970年提出。\[1\] 算法 \(O(V^2 E)\) 的时间复杂度类似于[Edmonds–Karp算法](../Page/Edmonds–Karp算法.md "wikilink")，其时间复杂度为 \(O(VE^2)\) ，Dinic算法与Edmonds–Karp算法的不同之处在于它每轮算法都选择最短的可行路径进行增广。Dinic算法中采用*高度标号（level graph）*以及*阻塞流（blocking flow）*实现其性能。
 
 ## 历史

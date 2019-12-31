@@ -1,3 +1,6 @@
+> 本文内容由[Hit The Stage](https://zh.wikipedia.org/wiki/Hit The Stage)转换而来。
+
+
 **Hit The Stage**（）是韓國[Mnet電視台的舞蹈競技綜藝節目](../Page/Mnet媒體.md "wikilink")，自2016年7月27日起，逢韓國時間星期三晚間11時開始播放，每集約60分鐘。主持人為[全炫茂和](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")[李秀根](https://zh.wikipedia.org/wiki/李秀根 "wikilink")。
 
 韓國的明星和偶像在節目中與專業的舞者搭檔，每兩集以一主題為核心挑戰各種不同的舞蹈，並由200名現場觀眾及數名藝人評審票選排名。\[1\]\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[Internet Speech Audio Codec](https://zh.wikipedia.org/wiki/Internet Speech Audio Codec)转换而来。
+
+
 **internet Speech Audio Codec**（**iSAC**）是一个[宽频带](https://zh.wikipedia.org/wiki/宽频带 "wikilink")[语音](https://zh.wikipedia.org/wiki/语音 "wikilink")[编解码器](../Page/编解码器.md "wikilink")，由[Global IP Solutions](../Page/Global_IP_Solutions.md "wikilink")（GIPS）开发（[Google](../Page/Google.md "wikilink")公司于2011年收购）。\[1\]\[2\]它很适合[VoIP应用和](https://zh.wikipedia.org/wiki/網際協議通話技術 "wikilink")[流媒体](../Page/流媒体.md "wikilink")音频。编码块必须封装在一个合适的传输协议中，例如<span class="cx-segment" data-segmentid="79"></span>[RTP](../Page/实时传输协议.md "wikilink")。
 
 它是[AOL即時通訊](https://zh.wikipedia.org/wiki/AOL即時通訊 "wikilink")、[Gizmo5](https://zh.wikipedia.org/wiki/Gizmo5 "wikilink")、[QQ和](../Page/腾讯QQ.md "wikilink")[Google Talk使用的编解码器之一](../Page/Google_Talk.md "wikilink")，其前身是Global IP Solutions授权的[专有编解码器](https://zh.wikipedia.org/wiki/专有 "wikilink")。在2011年6月，它是[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[WebRTC](../Page/WebRTC.md "wikilink")项目的一部分，\[3\]其中包括使用WebRTC代码库时的iSAC免版税许可。\[4\]

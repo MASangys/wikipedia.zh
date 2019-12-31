@@ -1,3 +1,6 @@
+> 本文内容由[N-Gage游戏列表](https://zh.wikipedia.org/wiki/N-Gage游戏列表)转换而来。
+
+
 本电子游戏列表列举了[诺基亚](../Page/诺基亚.md "wikilink")[N-Gage](../Page/N-Gage.md "wikilink")的[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏发行

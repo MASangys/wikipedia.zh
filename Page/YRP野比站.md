@@ -1,3 +1,6 @@
+> 本文内容由[YRP野比站](https://zh.wikipedia.org/wiki/YRP野比站)转换而来。
+
+
 [Keikyu_YRP-nobi_sta_003.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_003.jpg "fig:Keikyu_YRP-nobi_sta_003.jpg") [Keikyu_YRP-nobi_sta_002.jpg](https://zh.wikipedia.org/wiki/File:Keikyu_YRP-nobi_sta_002.jpg "fig:Keikyu_YRP-nobi_sta_002.jpg") [DocomoR\&D.JPG](https://zh.wikipedia.org/wiki/File:DocomoR&D.JPG "fig:DocomoR&D.JPG") **YRP野比站**（）是一個位於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市](../Page/橫須賀市.md "wikilink")野比一丁目，屬於[京濱急行電鐵](../Page/京濱急行電鐵.md "wikilink")[久里濱線](../Page/久里濱線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。[車站編號](../Page/車站編號.md "wikilink")是**KK68**。
 
 ## 年表

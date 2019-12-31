@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Baleno](https://zh.wikipedia.org/wiki/鈴木Baleno)转换而来。
+
+
 **鈴木Baleno**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2016年起開發、子公司[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")製造的五門[次緊湊型](https://zh.wikipedia.org/wiki/次紧凑型车 "wikilink")[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。
 
 要注意的是，此車名也曾使用在[鈴木Esteem](../Page/鈴木Esteem.md "wikilink")（[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲及部分](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[國家](https://zh.wikipedia.org/wiki/國家 "wikilink")）、第二代[鈴木Liana](../Page/鈴木Liana.md "wikilink")（[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、四門轎車）等車款上。

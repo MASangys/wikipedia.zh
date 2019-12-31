@@ -1,3 +1,6 @@
+> 本文内容由[APF-MP1000](https://zh.wikipedia.org/wiki/APF-MP1000)转换而来。
+
+
 **APF Microcomputer System**是一款由[APF電子於](https://zh.wikipedia.org/wiki/APF電子 "wikilink")1978年發售的[第二世代](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第二世代\) "wikilink")[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")，它亦按照其型號稱為APC M-1000或APC MP-1000，售價130美元。它為[第一世代遊戲機](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第一世代\) "wikilink")[APF TV Fun的後繼遊戲機](https://zh.wikipedia.org/wiki/APF_TV_Fun "wikilink")。它的控制器包含不可拆除的控制桿及數字鍵盤。APF MP-1000包含一款內置遊戲稱為火箭巡邏（*Rocket Patrol*）。此外，它亦是APF想像機器（*APF Imagination Machine*）的一部份。\[1\]
 
 ## 規格

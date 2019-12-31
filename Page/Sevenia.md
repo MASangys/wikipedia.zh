@@ -1,3 +1,6 @@
+> 本文内容由[Sevenia](https://zh.wikipedia.org/wiki/Sevenia)转换而来。
+
+
 **''Sevenia**''（**Tree Nymph**）是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[黑蛺蝶族](../Page/黑蛺蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於[非洲大陸及](https://zh.wikipedia.org/wiki/非洲大陸 "wikilink")[馬達加斯加](https://zh.wikipedia.org/wiki/馬達加斯加 "wikilink")\[1\]。
 
 ## 物種

@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive! μ\'s Go→Go! LoveLive! 2015 〜Dream Sensation!〜](https://zh.wikipedia.org/wiki/LoveLive! μ\'s Go→Go! LoveLive! 2015 〜Dream Sensation!〜)转换而来。
+
+
 「**LoveLive\! μ's Go→Go\! LoveLive\! 2015 〜Dream Sensation\!〜**」是[μ's在](https://zh.wikipedia.org/wiki/μ's "wikilink")2015年1月31日和2月1日於[埼玉超級體育館舉辦的演唱會](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")，並於2015年9月30日發售收錄演唱會的[藍光光碟](../Page/藍光光碟.md "wikilink")與[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

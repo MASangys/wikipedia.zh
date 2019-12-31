@@ -1,3 +1,6 @@
+> 本文内容由[名偵探柯南OVA](https://zh.wikipedia.org/wiki/名偵探柯南OVA)转换而来。
+
+
 本系列是改編自[青山剛昌](../Page/青山剛昌.md "wikilink")的著名推理[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由《[周刊少年Sunday](https://zh.wikipedia.org/wiki/周刊少年Sunday "wikilink")》製作的有關柯南的原創短篇[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。廣義上泛指所有以[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[藍光光碟](../Page/藍光光碟.md "wikilink")等形式進行發售的原創柯南動畫，包括《周刊少年Sunday》製作的OVA、[小學館](../Page/小學館.md "wikilink")短篇集、《[MAGIC FILE](https://zh.wikipedia.org/wiki/MAGIC_FILE "wikilink")》、《[BONUS FILE](https://zh.wikipedia.org/wiki/BONUS_FILE "wikilink")》等。
 
 ## 名偵探柯南OVA

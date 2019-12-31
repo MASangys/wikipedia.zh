@@ -1,3 +1,6 @@
+> 本文内容由[模块:Effective protection expiry](https://zh.wikipedia.org/wiki/模块:Effective protection expiry)转换而来。
+
+
 local p = {}
 
 \-- Returns the expiry of a restriction of an action on a given title, or unknown if it cannot be known. -- If no title is specified, the title of the page being displayed is used. function p._main(action, pagename)

@@ -1,3 +1,6 @@
+> 本文内容由[View-source URI方案](https://zh.wikipedia.org/wiki/View-source URI方案)转换而来。
+
+
 **view-source** [URI方案是部分](../Page/统一资源标志符.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")采用的一种特殊[URL](../Page/统一资源定位符.md "wikilink")，功效是显示指定资源的源代码。\[1\]
 
 举例来说，显示[URI为](https://zh.wikipedia.org/wiki/URI "wikilink") <http://www.example.com> 的页面源代码只需使用：**view-source:http://www.example.com**

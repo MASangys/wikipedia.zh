@@ -1,3 +1,6 @@
+> 本文内容由[马孔-洛谢TGV站](https://zh.wikipedia.org/wiki/马孔-洛谢TGV站)转换而来。
+
+
 **马孔-洛谢TGV站**（），简称马孔TGV站或马孔高铁站，是[法国高速铁路东南线](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")（LGV Sud-Est）上的一个高铁车站，也是整个法国最早投入运营的高铁车站之一，位于法国城市[马孔](../Page/马孔.md "wikilink")附近。
 
 ## 位置

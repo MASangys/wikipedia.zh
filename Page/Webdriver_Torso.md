@@ -1,3 +1,6 @@
+> 本文内容由[Webdriver Torso](https://zh.wikipedia.org/wiki/Webdriver Torso)转换而来。
+
+
 [Webdriver_Torso_Slide.tiff](https://zh.wikipedia.org/wiki/File:Webdriver_Torso_Slide.tiff "fig:Webdriver_Torso_Slide.tiff")
 
 **Webdriver Torso**是一個由[Google](../Page/Google.md "wikilink")於2013年3月7日所創建的[YouTube](../Page/YouTube.md "wikilink")自動帳戶\[1\]。這名用戶時常上傳以簡單圖形伴隨著嗶嗶聲組成的幻燈片影片，其目的是為了測試網站的性能。這個頻道於2014年引起公眾關注，是因為有些網友發現並注意到它不尋常的性質和三個與此頻道特色不同的影片。它仍然是一個廣為流傳的謎，直到的YouTube幽默地承認這個頻道的存在是作為一個內部測試工具。此帳戶最近一次上傳影片為2019年10月31日，在這六年多總共上傳了約62萬個短片\[2\]。截止2019年11月14日，此帳戶擁有15萬9000多位訂閱者。\[3\]。

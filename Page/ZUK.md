@@ -1,3 +1,6 @@
+> 本文内容由[ZUK](https://zh.wikipedia.org/wiki/ZUK)转换而来。
+
+
 **ZUK**（全稱：**ZUK.com**）是[聯想集團的開發移動設備部門](https://zh.wikipedia.org/wiki/聯想集團 "wikilink")，負責手機業務。ZUK品牌始创于2015年，2017年，该品牌正式停止运作。
 
 ## 历史

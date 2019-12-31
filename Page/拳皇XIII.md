@@ -1,3 +1,6 @@
+> 本文内容由[拳皇XIII](https://zh.wikipedia.org/wiki/拳皇XIII)转换而来。
+
+
 是[SNK Playmore](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")（现[SNK](../Page/SNK.md "wikilink")）开发的[拳皇系列](../Page/拳皇系列.md "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，最初在2010年于日本登陆街机平台，并从2011年至2013年先后移植至[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")和[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，並在包含日本和欧美在内的全球各地发行。
 
 事隔5年正式推出艾森篇新章，情節連接《[拳皇XI](../Page/拳皇XI.md "wikilink")》，大部份遊戲設定參考《[拳皇XII](../Page/拳皇XII.md "wikilink")》並修改，繼承《拳皇XII》一對一回合制度。除了已於《拳皇XII》登場的角色外，其他的人物全部重繪。《拳皇XII》所出現的問題全部均有作出修正。相比之前数作，本作获得媒体和玩家一致好评。

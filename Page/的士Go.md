@@ -1,3 +1,6 @@
+> 本文内容由[的士Go](https://zh.wikipedia.org/wiki/的士Go)转换而来。
+
+
 《**的士Go**》（****）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的[旅遊節目](https://zh.wikipedia.org/wiki/旅遊 "wikilink")，以[的士司機作為主導](https://zh.wikipedia.org/wiki/的士 "wikilink")，節目一共有兩季，第一季於2016年7月6日至9月8日逢星期三至四22:00－22:30於[ViuTV](../Page/ViuTV.md "wikilink")播出\[1\]，第二季於2018年12月15日至2019年3月2日逢星期六22:30－23:00播出\[2\]。
 
 ## 節目簡介

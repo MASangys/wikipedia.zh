@@ -1,3 +1,6 @@
+> 本文内容由[For You \(INFINITE專輯\)](https://zh.wikipedia.org/wiki/For You \(INFINITE專輯\))转换而来。
+
+
 《**For You**》，是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第二張日語專輯，於2015年12月16日發行\[1\]。這是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片](../Page/維京唱片.md "wikilink")之品牌後首張正規專輯。
 
 ## 背景

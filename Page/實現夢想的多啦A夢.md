@@ -1,3 +1,6 @@
+> 本文内容由[實現夢想的多啦A夢](https://zh.wikipedia.org/wiki/實現夢想的多啦A夢)转换而来。
+
+
 （，羅馬字：Yume wo Kanaete Doraemon），或譯、等等，[臺灣](../Page/臺灣.md "wikilink")填词版名為，[香港](../Page/香港.md "wikilink")填词版名為，是《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》中的一首動畫歌曲，亦是水田版動畫[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")，接替並取代有多年歷史的主題曲[哆啦A夢之歌](../Page/哆啦A夢之歌.md "wikilink")。
 
 ## 日語原版

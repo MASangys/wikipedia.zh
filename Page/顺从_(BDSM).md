@@ -1,3 +1,6 @@
+> 本文内容由[顺从 \(BDSM\)](https://zh.wikipedia.org/wiki/顺从 \(BDSM\))转换而来。
+
+
 [MaleSub_Bondage_2.jpg](https://zh.wikipedia.org/wiki/File:MaleSub_Bondage_2.jpg "fig:MaleSub_Bondage_2.jpg") **顺从**（英语：**bottom**或**submissive**，为在BDSM中被动方。伙伴为主导方。
 
 顺从的行为包括[鞭打](https://zh.wikipedia.org/wiki/鞭打 "wikilink")，奴役和屈辱，可以通过束缚，制造顺从方的痛苦，顺从还包括受到的惩罚和羞辱。

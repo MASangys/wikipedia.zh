@@ -1,3 +1,6 @@
+> 本文内容由[HotBot](https://zh.wikipedia.org/wiki/HotBot)转换而来。
+
+
 **HotBot**是一个由[科思](https://zh.wikipedia.org/wiki/科思 "wikilink")（[Lycos](../Page/Lycos.md "wikilink")）研发的[网络搜索引擎](https://zh.wikipedia.org/wiki/网络搜索引擎 "wikilink")。它于1996年5月推出。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[中国物理B](https://zh.wikipedia.org/wiki/中国物理B)转换而来。
+
+
 《**中国物理B**》（）是[中国物理学会](../Page/中国物理学会.md "wikilink")主办的英文[物理学](../Page/物理学.md "wikilink")学术期刊，创办于1992年，现为月刊。《中国物理B》创刊时刊名为《**物理学报**》（**海外版**）（），2000年改名为《**中国物理**》（）以示区分，2008年改为现名。《中国物理B》刊登除[高能物理与](https://zh.wikipedia.org/wiki/高能物理 "wikilink")[核物理以外物理学各分支的原创性论文](https://zh.wikipedia.org/wiki/核物理 "wikilink")、简报、综述。
 
 ## 历史

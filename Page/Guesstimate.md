@@ -1,3 +1,6 @@
+> 本文内容由[Guesstimate](https://zh.wikipedia.org/wiki/Guesstimate)转换而来。
+
+
 **Guesstimate**是一個非正式的[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[混成詞](../Page/混成詞.md "wikilink")，是由guess（猜測）和estimate（估計）結合而成，中文可以稱為**猜估**，最早是由美國[統計學家在](https://zh.wikipedia.org/wiki/統計學家 "wikilink")1934年\[1\]或1935年開始使用\[2\]。Guesstimate是指在沒有適當資訊或是完全資訊下所作的\[3\]\[4\]，甚至可以說是透過猜測或是猜想得到的估計\[5\]\[6\]\[7\]。Guesstimate可以做名詞也可以做動詞，兩者[讀音的變化類似estimate](https://zh.wikipedia.org/wiki/讀音 "wikilink")。Guesstimate可能是在還沒有更準確估計時的粗略近似，也可能是在沒有更好資訊情形下，一個有根據的猜測。
 
 有時有助精確估測的資訊是可以取得的，但卻在忽略這些資訊的情形下進行估測，也會用guesstimate，不過此時就有[貶義在內](https://zh.wikipedia.org/wiki/貶義 "wikilink")\[8\]\[9\]。

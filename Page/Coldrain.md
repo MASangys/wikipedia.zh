@@ -1,3 +1,6 @@
+> 本文内容由[Coldrain](https://zh.wikipedia.org/wiki/Coldrain)转换而来。
+
+
 **Coldrain**（**コールドレイン**）是來自[名古屋的日本金屬蕊樂團](https://zh.wikipedia.org/wiki/名古屋 "wikilink")，成軍於[2007年](https://zh.wikipedia.org/wiki/2007 "wikilink")\[1\]。該樂團融合了旋律歌唱和後硬蕊音樂類型的典型嘶喊。在[2009年該團體發表了單曲](https://zh.wikipedia.org/wiki/2009 "wikilink")：〈8AM〉、也被使用於[日本動畫系列](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[第一神拳](../Page/第一神拳.md "wikilink")》（第2部）中\[2\]。在[2010年](https://zh.wikipedia.org/wiki/2010 "wikilink")6月23日、該樂團發表了[EP](https://zh.wikipedia.org/wiki/EP "wikilink")：《Nothing Lasts Forever》。其中一首歌「We’re Not Alone」被使用於日本動畫系列《[少年犯之七人](../Page/少年犯之七人.md "wikilink")》的片頭主題曲\[3\]。另一首歌「Die Tomorrow」被使用於《[世界足球勝利十一人2011](https://zh.wikipedia.org/wiki/勝利十一人 "wikilink")》的配樂\[4\]。
 
 ## 成員

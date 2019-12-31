@@ -1,3 +1,6 @@
+> 本文内容由[Now寬頻電視／香港電視娛樂外購日本劇集列表](https://zh.wikipedia.org/wiki/Now寬頻電視／香港電視娛樂外購日本劇集列表)转换而来。
+
+
 本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放但並非由其公司所製作的**外購日本劇集**，一般以粵/日雙語廣播。
 <small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的首播日期及頻道。</small>
 

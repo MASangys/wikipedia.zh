@@ -1,3 +1,6 @@
+> 本文内容由[Oops! Jealous](https://zh.wikipedia.org/wiki/Oops! Jealous)转换而来。
+
+
 **Oops\! Jealous**是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")與其姊姊蔡旻紋於2007年共同創立的一個[指甲油品牌](https://zh.wikipedia.org/wiki/指甲油 "wikilink")\[1\]。蔡旻紋於2009年將業務地區擴展至美國，於[加利福尼亞州](../Page/加利福尼亚州.md "wikilink")[洛杉磯縣](../Page/洛杉矶县.md "wikilink")[核桃市創立美甲沙龍Oops](https://zh.wikipedia.org/wiki/沃尔纳特_\(加利福尼亚州\) "wikilink")\! J\&I，之後於2014年出售予其他投資者\[2\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[ON 異常犯罪搜查官·藤堂比奈子](https://zh.wikipedia.org/wiki/ON 異常犯罪搜查官·藤堂比奈子)转换而来。
+
+
 《**ON 異常犯罪搜查官·藤堂比奈子**》是日本[富士電視台](../Page/富士電視台.md "wikilink")、[關西電視台](../Page/關西電視台.md "wikilink")2016年製作播出的電視劇。由[白木啟一郎](https://zh.wikipedia.org/wiki/白木啟一郎 "wikilink")、[寶來忠昭執導](https://zh.wikipedia.org/wiki/寶來忠昭 "wikilink")， 編劇，波瑠主演，於2016年7月12日首播，2016年9月6日結束。
 
 ## 簡介

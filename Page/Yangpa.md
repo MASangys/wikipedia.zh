@@ -1,3 +1,6 @@
+> 本文内容由[Yangpa](https://zh.wikipedia.org/wiki/Yangpa)转换而来。
+
+
 **Yangpa**（，），本名**李銀瑨**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")。1996年以首張專輯《毛孩子的愛情》出道。2015年參加[MBC音樂節目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《》獲得冠軍。
 
 ## 音樂作品

@@ -1,3 +1,6 @@
+> 本文内容由[魅藍Note 2](https://zh.wikipedia.org/wiki/魅藍Note 2)转换而来。
+
+
 魅族 魅蓝note2是[魅族科技](../Page/魅族科技.md "wikilink")于2015年6月2日发行的魅蓝系列手机。该手机有蓝、白、粉、灰\[1\]四种颜色外观，可更换多种颜色背壳。产品搭载基于[Android](../Page/Android.md "wikilink")5.1的[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink")4.5系统。
 
 ## 手机制式

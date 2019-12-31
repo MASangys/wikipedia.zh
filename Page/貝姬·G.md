@@ -1,3 +1,6 @@
+> 本文内容由[貝姬·G](https://zh.wikipedia.org/wiki/貝姬·G)转换而来。
+
+
 **蕾貝卡·瑪莉·戈梅茲**（，\[1\]），藝名**貝琪·G**（），是一名美國歌手、詞曲作家及演員。
 
 貝琪·G首次被認可是她於2011年開始在網上張貼自己詮釋流行歌曲的影片開始。這使自己受到了製作人[路克博士的關注](https://zh.wikipedia.org/wiki/路克博士 "wikilink")，後來她與和[RCA唱片](../Page/RCA唱片.md "wikilink")共同簽約。貝琪·G為了能推出首張專輯，便開始與[will.i.am和](https://zh.wikipedia.org/wiki/will.i.am "wikilink")[寇弟·辛普森](../Page/寇弟·辛普森.md "wikilink")合作。她的首張專輯《*Becky from the Block*》於2013年推出，這獲得了正面的迴響。

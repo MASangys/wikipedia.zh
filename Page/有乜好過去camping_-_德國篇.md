@@ -1,3 +1,6 @@
+> 本文内容由[有乜好過去camping - 德國篇](https://zh.wikipedia.org/wiki/有乜好過去camping - 德國篇)转换而来。
+
+
 《**有乜好過去camping - 德國篇**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的旅遊節目，亦是監製[周子妮節目系列之一](https://zh.wikipedia.org/wiki/周子妮 "wikilink")，全節目共5集，由[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[梁烈唯擔任主持](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")。本節目於2016年4月18日起[香港時間](../Page/香港時間.md "wikilink")逢一至五晚上22:30-23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）\[1\]\[2\]。
 
 ## 每集內容

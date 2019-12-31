@@ -1,3 +1,6 @@
+> 本文内容由[CygamesPictures](https://zh.wikipedia.org/wiki/CygamesPictures)转换而来。
+
+
 **Cygames Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2016年成立。[Cygames](../Page/Cygames.md "wikilink")旗下的子公司。
 
 ## 歷史

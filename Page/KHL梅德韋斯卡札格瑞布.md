@@ -1,3 +1,6 @@
+> 本文内容由[KHL梅德韋斯卡札格瑞布](https://zh.wikipedia.org/wiki/KHL梅德韋斯卡札格瑞布)转换而来。
+
+
 **KHL梅德韋斯卡札格瑞布**（）是一支[克羅埃西亞冰球隊](https://zh.wikipedia.org/wiki/克羅埃西亞 "wikilink")。它是[克羅埃西亞最成功和受歡迎的冰球隊](https://zh.wikipedia.org/wiki/克羅埃西亞 "wikilink")。曾經參賽於[大陸冰球聯盟Bobrov](https://zh.wikipedia.org/wiki/大陸冰球聯盟 "wikilink") Division。於2017年離開大陸冰球聯盟轉戰奧地利冰球聯賽。
 
 ## 參考資料

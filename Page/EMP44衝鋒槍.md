@@ -1,3 +1,6 @@
+> 本文内容由[EMP44衝鋒槍](https://zh.wikipedia.org/wiki/EMP44衝鋒槍)转换而来。
+
+
 **EMP44衝鋒槍**（）是一款在[二战時期由](../Page/第二次世界大战.md "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")於1943年生產的原型及全金屬製[冲锋枪](../Page/冲锋枪.md "wikilink")，但被拒絕，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 歷史

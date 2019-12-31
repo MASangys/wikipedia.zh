@@ -1,3 +1,6 @@
+> 本文内容由[日產Juke](https://zh.wikipedia.org/wiki/日產Juke)转换而来。
+
+
 **日產Juke**（）乃是[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")自2010年起開發製造的[次緊湊型](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，在[中國](../Page/中國.md "wikilink")市場[換牌成](../Page/换牌工程.md "wikilink")**英菲尼迪ESQ**。關於車名「Juke」，源自[美式足球](../Page/美式足球.md "wikilink")防備時快速變換隊形之意\[1\]。
 
 ## 歷史

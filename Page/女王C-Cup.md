@@ -1,3 +1,6 @@
+> 本文内容由[女王C-Cup](https://zh.wikipedia.org/wiki/女王C-Cup)转换而来。
+
+
 **易衡**，笔名**女王C-Cup**，中国[性教育](../Page/性教育.md "wikilink")科普作家，[女性主义者](https://zh.wikipedia.org/wiki/女性主义 "wikilink")。\[1\]目前为[果壳网](../Page/果壳网.md "wikilink")供稿。\[2\]
 
 ## 参考资料

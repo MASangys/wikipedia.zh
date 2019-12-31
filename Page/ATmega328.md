@@ -1,3 +1,6 @@
+> 本文内容由[ATmega328](https://zh.wikipedia.org/wiki/ATmega328)转换而来。
+
+
 ATmega328是Atmel發展的megaAVR產品線其中一個單晶片產品。
 
 ## 規格

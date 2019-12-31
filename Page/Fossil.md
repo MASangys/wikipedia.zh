@@ -1,3 +1,6 @@
+> 本文内容由[Fossil](https://zh.wikipedia.org/wiki/Fossil)转换而来。
+
+
 **Fossil**是一个[分布式版本控制系统](https://zh.wikipedia.org/wiki/分布式版本控制系统 "wikilink")、[缺陷跟踪管理系统](../Page/缺陷跟踪管理系统.md "wikilink")以及在[软件开发中使用的](https://zh.wikipedia.org/wiki/软件开发 "wikilink")[wiki软件服务器](https://zh.wikipedia.org/wiki/wiki软件 "wikilink")，它由创建。
 
 ## 功能

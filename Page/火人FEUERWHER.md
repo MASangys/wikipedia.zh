@@ -1,3 +1,6 @@
+> 本文内容由[火人FEUERWHER](https://zh.wikipedia.org/wiki/火人FEUERWHER)转换而来。
+
+
 《**火人FEUERWEHR**》是台湾漫画家[羊寧欣所繪的](https://zh.wikipedia.org/wiki/羊寧欣 "wikilink")[台灣漫畫作品](https://zh.wikipedia.org/wiki/台灣漫畫 "wikilink")，主角立安倫是台北市消防局華安分隊消防隊員。於[東立出版社](../Page/東立出版社.md "wikilink")漫畫雜誌[龍少年連載](https://zh.wikipedia.org/wiki/龍少年 "wikilink")。之後發行單行本全3卷。
 
 作者在創作《火人FEUERWEHR》以前，以「蠢羊」為筆名，推出《鴿只是傳說》漫畫，誕生是受到2014年發生兩宗政治與社會事件影響，也就是高雄氣爆案和「太陽花」學運。\[1\]讓讀者體會消防員辛勞。\[2\]而《火人 FEUERWEHR》是使用德文的消防員『FEUERWEHR』這個單字作為書名，也因為台灣的消防系統，早期是參考德國的建立。\[3\]

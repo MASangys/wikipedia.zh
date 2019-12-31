@@ -1,3 +1,6 @@
+> 本文内容由[YNB娛樂](https://zh.wikipedia.org/wiki/YNB娛樂)转换而来。
+
+
 **YNB娛樂**（；）是成立於2012年的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，主要業務為藝人管理，當前藝人包括、[BESTie](../Page/BESTie.md "wikilink")、、。
 
 ## 旗下藝人

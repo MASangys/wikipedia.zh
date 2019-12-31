@@ -1,3 +1,6 @@
+> 本文内容由[山中Hiko](https://zh.wikipedia.org/wiki/山中Hiko)转换而来。
+
+
 **山中Hiko**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。O型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[1\]。她的作品主要在[BL雜誌](../Page/BL_\(和製英語\).md "wikilink")\[2\]和女性雜誌\[3\]發表。
 
 ## 作品列表

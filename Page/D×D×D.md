@@ -1,3 +1,6 @@
+> 本文内容由[D×D×D](https://zh.wikipedia.org/wiki/D×D×D)转换而来。
+
+
 《**D×D×D**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第四張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2016年1月1日以三個版本：初回限定盤A、初回限定盤B及通常盤推出\[1\]。兩張打入Oricon單曲週榜前五名的單曲：《[Your Number](../Page/Your_Number.md "wikilink")》及《[Sing Your Song](https://zh.wikipedia.org/wiki/Sing_Your_Song_\(SHINee單曲\) "wikilink")》在專輯推出前預先發行。
 
 ## 概觀

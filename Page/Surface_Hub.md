@@ -1,3 +1,6 @@
+> 本文内容由[Surface Hub](https://zh.wikipedia.org/wiki/Surface Hub)转换而来。
+
+
 **Surface Hub**是一個[微軟產品](https://zh.wikipedia.org/wiki/微軟 "wikilink")，[Microsoft Surface家族的一部分](../Page/Microsoft_Surface.md "wikilink")。微軟在Windows 10發佈時，一併公佈於2015年1月21日。\[1\]
 
 ## 設計

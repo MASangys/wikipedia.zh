@@ -1,3 +1,6 @@
+> 本文内容由[Help:TeX和MathML語法對照表](https://zh.wikipedia.org/wiki/Help:TeX和MathML語法對照表)转换而来。
+
+
 ## 基本
 
 | 項目    | Wiki中的TeX語法         | 對應的MathML語法                       | 預覽                     |

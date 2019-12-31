@@ -1,3 +1,6 @@
+> 本文内容由[OMGPop](https://zh.wikipedia.org/wiki/OMGPop)转换而来。
+
+
 **OMGPop**是一个现已倒闭的游戏工作室，于2013年7月被Zynga收购，游戏形式为“在线”、“多人”，以[Adobe Flash为基本框架](../Page/Adobe_Flash.md "wikilink")。\[1\]
 
 ## 历史

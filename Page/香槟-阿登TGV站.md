@@ -1,3 +1,6 @@
+> 本文内容由[香槟-阿登TGV站](https://zh.wikipedia.org/wiki/香槟-阿登TGV站)转换而来。
+
+
 **香槟-阿登TGV站**（），又名**兰斯-伯扎讷站**（Gare de Reims-Bezannes），是法国的一个铁路车站，位于法国城市[兰斯](../Page/兰斯.md "wikilink")（Reims）附近。
 
 ## 位置

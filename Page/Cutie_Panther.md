@@ -1,3 +1,6 @@
+> 本文内容由[Cutie Panther](https://zh.wikipedia.org/wiki/Cutie Panther)转换而来。
+
+
 **《Cutie Panther》**是[μ's的迷你小队](https://zh.wikipedia.org/wiki/μ's "wikilink")“BiBi”在2013年7月24日发行的单曲，由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[美能達SR接環](https://zh.wikipedia.org/wiki/美能達SR接環)转换而来。
+
+
 **美能達SR接環** 是由相機品牌商[美能達](../Page/美能達.md "wikilink")於1958年所推出的刺刀式三爪[單眼相機接環](https://zh.wikipedia.org/wiki/單眼相機 "wikilink")，當中幾經SR、MC、MD等新技術加入等時期推演，直到1985年才由[Minolta AF自動對焦單眼系統取代其位階](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")。
 
 ## 系統概述

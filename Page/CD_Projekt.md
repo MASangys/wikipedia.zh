@@ -1,3 +1,6 @@
+> 本文内容由[CD Projekt](https://zh.wikipedia.org/wiki/CD Projekt)转换而来。
+
+
 | ISIN = PLOPTTC00011 | area_served = 全球 | key_people = 亚当·季辛斯基（）<small>（总裁、CEO）</small>
 马尔钦·伊温斯基<small>（CEO）</small> | industry = [电脑与电子游戏](../Page/电子游戏产业.md "wikilink") | products =  | revenue = 4.63亿[波兰兹罗提](../Page/波兰兹罗提.md "wikilink")（2017年）\[1\] | operating_income = | net_income = 2亿波兰兹罗提\[2\] | net_income_year = 2017年 | equity =  8.82亿波兰兹罗提（2017年）\[3\] | owner = 马尔钦·伊温斯基和米卡·季辛斯基（23.5%）
 彼得·尼尔卢博奇斯（ (6.38%)\[4\] | num_employees =  887人（2018）\[5\] | subsid =  | homepage =  | foundation =  | founders =  | location_city = [华沙](../Page/华沙.md "wikilink") | location_country = [波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink") }}

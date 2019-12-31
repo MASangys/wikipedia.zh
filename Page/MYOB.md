@@ -1,3 +1,6 @@
+> 本文内容由[MYOB](https://zh.wikipedia.org/wiki/MYOB)转换而来。
+
+
 **[MYOB](https://united.com.hk/myob/)**（全称：Mind Your Own Business）是一所來自[澳洲的](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，主要向中小型企業提供會計軟件等服務。
 
 ## 產品

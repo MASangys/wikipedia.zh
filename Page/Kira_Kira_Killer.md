@@ -1,3 +1,6 @@
+> 本文内容由[Kira Kira Killer](https://zh.wikipedia.org/wiki/Kira Kira Killer)转换而来。
+
+
 《**Kira Kira Killer**》（）是[Kyary Pamyu Pamyu的特別單曲](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")。限量生產7777張，2014年6月11日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。
 
 ## 概要

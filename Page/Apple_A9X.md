@@ -1,3 +1,6 @@
+> 本文内容由[Apple A9X](https://zh.wikipedia.org/wiki/Apple A9X)转换而来。
+
+
 **Apple A9X**是一款[苹果公司设计的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[64位元](../Page/64位元.md "wikilink")[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")[SoC](../Page/系统芯片.md "wikilink")，首先搭载于2015年9月9日宣布，2015年11月11日发行的[iPad Pro之上](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")\[1\]。A9X集成了名为M9的运动[协处理器](https://zh.wikipedia.org/wiki/協同處理器 "wikilink")。
 
 苹果宣称A9X与其前身[A8X相比](../Page/Apple_A8X.md "wikilink")，拥有1.8倍的CPU性能和2倍的GPU性能\[2\]。

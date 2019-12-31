@@ -1,3 +1,6 @@
+> 本文内容由[2C-B](https://zh.wikipedia.org/wiki/2C-B)转换而来。
+
+
 **2,5-二甲氧基-4-溴[苯乙胺](../Page/苯乙胺.md "wikilink")**（2,5-dimethoxy-4-bromophenethylamine，**2C-B**），一種隸屬的致幻劑，由[Alexander Shulgin於](../Page/亚历山大·舒尔金.md "wikilink")1974年合成，其製備與應用劑量（12-24mg）在[PiHKAL一書中均有闡明](https://zh.wikipedia.org/wiki/PiHKAL "wikilink")。可經口服或吸入途徑給藥。
 
 在街頭販售時，2C-B多以粉劑、貼片或片劑形式流通，其上印有數字或俚語，藉此區分於其他藥物。\[1\]

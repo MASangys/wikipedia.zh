@@ -1,3 +1,6 @@
+> 本文内容由[SR-1維克多手槍](https://zh.wikipedia.org/wiki/SR-1維克多手槍)转换而来。
+
+
 **SR-1「維克多」**（；）、**謝爾久科夫半自動手槍**（，簡稱：СПС；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：SPS；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")聯邦槍械設計師和伊戈爾·别利亞耶夫（Игорем Беляевым）領導的設計團隊因應俄羅斯軍隊“烏鴉”計劃而研製、槍械製造商所生產的[特種部隊](../Page/特種部隊.md "wikilink")專用[半自動手槍](../Page/半自動手槍.md "wikilink")，亦是最新型俄羅斯軍用制式手槍（）之一，其設計目的是在100[公尺](../Page/米_\(单位\).md "wikilink")（109.36[码](https://zh.wikipedia.org/wiki/码 "wikilink")，328.08[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）內的[近身距離作戰](../Page/近身距離作戰.md "wikilink")時，殺傷穿著個人[防彈衣的敵人](../Page/防彈背心.md "wikilink")。發射多種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（中央研究精密機械製造局現在命名為／）。\[1\]
 
 ## 歷史

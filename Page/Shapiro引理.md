@@ -1,3 +1,6 @@
+> 本文内容由[Shapiro引理](https://zh.wikipedia.org/wiki/Shapiro引理)转换而来。
+
+
 **Shapiro引理**(*Shapiro's lemma*)是[李代數上同調論中的一條定理](../Page/李代数上同调.md "wikilink")。
 
 假設

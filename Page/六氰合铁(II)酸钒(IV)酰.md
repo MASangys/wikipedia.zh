@@ -1,3 +1,6 @@
+> 本文内容由[六氰合铁\(II\)酸钒\(IV\)酰](https://zh.wikipedia.org/wiki/六氰合铁\(II\)酸钒\(IV\)酰)转换而来。
+
+
 **六氰合铁(II)酸钒(IV)酰**是一种无机化合物，化学式为(VO)<sub>2</sub>\[Fe(CN)<sub>6</sub>\]。
 
 ## 制备

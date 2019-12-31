@@ -1,3 +1,6 @@
+> 本文内容由[WoW64](https://zh.wikipedia.org/wiki/WoW64)转换而来。
+
+
 **WoW64**（**W**indows 32-bit **o**n **W**indows **64**-bit）是[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")的一个子系统，它提供在所有Windows [64位系统上运行](https://zh.wikipedia.org/wiki/64位 "wikilink")[32位元](../Page/32位元.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")的能力——这包括[Windows XP Professional x64 Edition](../Page/Windows_XP_Professional_x64_Edition.md "wikilink")、[IA-64和](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[Windows Server 2003的](../Page/Windows_Server_2003.md "wikilink")64位版本，以及[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server 2008](../Page/Windows_Server_2008.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Server 2012](../Page/Windows_Server_2012.md "wikilink")、[Windows 8.1和](../Page/Windows_8.1.md "wikilink")[Windows 10的](../Page/Windows_10.md "wikilink")64位版本。在[Windows Server 2008 R2](../Page/Windows_Server_2008_R2.md "wikilink") Server Core中它成为了可选组件，并在[Nano Server中不再提供](../Page/Windows_Server_2016.md "wikilink")。WoW64旨在解决32位与64位Windows中的许多差异，特别是涉及到Windows本身的结构变化。
 
 ## 转换-{zh:库;zh-hans:库;zh-hant:函式庫;}-

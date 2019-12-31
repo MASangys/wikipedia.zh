@@ -1,3 +1,6 @@
+> 本文内容由[ISIS酱](https://zh.wikipedia.org/wiki/ISIS酱)转换而来。
+
+
 [ISIS_Chan_by_Ellie_Smiley.jpg](https://zh.wikipedia.org/wiki/File:ISIS_Chan_by_Ellie_Smiley.jpg "fig:ISIS_Chan_by_Ellie_Smiley.jpg") **ISIS酱**（）\[1\]\[2\]\[3\]\[4\]是一个虚构的二次元角色，起源于日本网络论坛[2ch](https://zh.wikipedia.org/wiki/2ch "wikilink")，其起因是2015年的，[伊斯兰国](../Page/伊斯兰国.md "wikilink")绑架了日本人[汤川遥菜和](https://zh.wikipedia.org/wiki/汤川遥菜 "wikilink")[后藤健二并将其](https://zh.wikipedia.org/wiki/后藤健二 "wikilink")。在这之后，日本的网络社交媒体把伊斯兰国拟人化为一个带有[萌](../Page/萌.md "wikilink")系风格的女孩。
 
 ## 概述

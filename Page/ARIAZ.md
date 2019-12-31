@@ -1,3 +1,6 @@
+> 本文内容由[ARIAZ](https://zh.wikipedia.org/wiki/ARIAZ)转换而来。
+
+
 **ARIAZ**（，前名**Empire Girls**（））是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rising Star娛樂於](../Page/明星帝國娛樂.md "wikilink")2019年推出的女子團體，成員包括金潤智、李多願、姜施賢、崔予利、張效經、趙主恩。
 
 ## 經歷

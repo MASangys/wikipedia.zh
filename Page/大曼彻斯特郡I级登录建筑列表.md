@@ -1,3 +1,6 @@
+> 本文内容由[大曼彻斯特郡I级登录建筑列表](https://zh.wikipedia.org/wiki/大曼彻斯特郡I级登录建筑列表)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Greater_Manchester_County_\(3\).png "fig:缩略图")，分为10个[都市自治市](https://zh.wikipedia.org/wiki/都市自治市 "wikilink")。\]\]
 
 [大曼彻斯特郡位于](../Page/大曼徹斯特郡.md "wikilink")[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[英格兰](../Page/英格兰.md "wikilink")西北部，共有48座I级登录建筑。在英国，如果一座历史遗迹拥有特殊的建筑史或文化底蕴，该历史遗迹将会被选为[登录建筑](https://zh.wikipedia.org/wiki/登录建筑 "wikilink")，拥有特殊价值的历史遗迹则可被选为I级登录建筑。\[1\]英国监管局根据1990年登录建筑及保护区管理法\[2\]由一个受英国文化、媒体、体育部管理的[非政府部门公共机构](../Page/非政府部門公共機構.md "wikilink")——Historic England管理。

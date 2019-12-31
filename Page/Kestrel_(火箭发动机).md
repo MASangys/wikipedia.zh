@@ -1,3 +1,6 @@
+> 本文内容由[Kestrel \(火箭发动机\)](https://zh.wikipedia.org/wiki/Kestrel \(火箭发动机\))转换而来。
+
+
 **Kestrel火箭发动机**是一款使用[液氧](../Page/液氧.md "wikilink")和[煤油](../Page/煤油.md "wikilink")作为燃料的[挤压循环火箭发动机](https://zh.wikipedia.org/wiki/挤压循环 "wikilink")。
 
 Kestrel火箭发动机于21世纪00年代由[SpaceX](../Page/SpaceX.md "wikilink")开发,用于[猎鹰1号运载火箭火箭的上面级](https://zh.wikipedia.org/wiki/猎鹰1号运载火箭 "wikilink")。Kestrel使用了与[默林火箭发动机](../Page/默林火箭发动机.md "wikilink")相同的针栓式喷注器，但并没有涡轮泵，只靠储箱压力供应推进剂。

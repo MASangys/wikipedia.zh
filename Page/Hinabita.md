@@ -1,3 +1,6 @@
+> 本文内容由[Hinabita](https://zh.wikipedia.org/wiki/Hinabita)转换而来。
+
+
 《**Hinabita**》(英：HinaBitter♪、日：ひなビタ♪)是[KONAMI公司的虛擬偶像企劃](https://zh.wikipedia.org/wiki/KONAMI "wikilink")(正式名稱：[Web聯動型音樂配信企畫](https://zh.wikipedia.org/wiki/Web聯動型音樂配信企劃 "wikilink"))。\[1\] 本是企劃監修是由〈Zektbach敘事詩〉的音樂製作人TOMOSUKE(舟木智介)，原畫為韓國籍日系插畫家CUTEG。
 
 ## 概要

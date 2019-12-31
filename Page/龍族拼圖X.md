@@ -1,3 +1,6 @@
+> 本文内容由[龍族拼圖X](https://zh.wikipedia.org/wiki/龍族拼圖X)转换而来。
+
+
 《**龍族拼圖X**》（），是[日本](../Page/日本.md "wikilink")[GungHo發行的](https://zh.wikipedia.org/wiki/GungHo "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")專用遊戲，為《[龍族拼圖](../Page/龍族拼圖.md "wikilink")》的延伸作品。遊戲於2016年7月28日發售，同時推出「神之章」及「龍之章」兩個版本。
 
 電視動畫於2016年7月4日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放。香港[ViuTV](../Page/ViuTV.md "wikilink")在2018年10月4日起播放。

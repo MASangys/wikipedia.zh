@@ -1,3 +1,6 @@
+> 本文内容由[Xero](https://zh.wikipedia.org/wiki/Xero)转换而来。
+
+
 **Xero**是一所主要研发[云计算](../Page/雲端運算.md "wikilink")[會計系統的软件公司](https://zh.wikipedia.org/wiki/會計系統 "wikilink")，主要服务对象是中小型企业。Xero的总部位于新西兰[惠灵顿](../Page/惠灵顿.md "wikilink")，并在澳大利亚、英国\[1\]和美国设有分公司。\[2\]Xero同时在新西兰交易所\[3\]和澳大利亚证券交易所上市。\[4\]
 
 Xero的产品以[软件即服务](../Page/软件即服务.md "wikilink")（SaaS）为基础框架。\[5\]

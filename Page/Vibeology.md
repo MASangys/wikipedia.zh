@@ -1,3 +1,6 @@
+> 本文内容由[Vibeology](https://zh.wikipedia.org/wiki/Vibeology)转换而来。
+
+
 《**Vibeology**》是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")在1992年1月發行的單曲，這首單曲在[告示牌單曲榜獲得第](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")16名\[1\]。
 
 ## 資料

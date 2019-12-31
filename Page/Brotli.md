@@ -1,3 +1,6 @@
+> 本文内容由[Brotli](https://zh.wikipedia.org/wiki/Brotli)转换而来。
+
+
 **Brotli**是一个Jyrki Alakuijala和开发的[开源](../Page/开源软件.md "wikilink")[数据压缩](../Page/数据压缩.md "wikilink")[程序库](https://zh.wikipedia.org/wiki/程序库 "wikilink")。\[1\]\[2\]Brotli基于[LZ77算法的一个现代变体](../Page/LZ77与LZ78.md "wikilink")、[霍夫曼编码](../Page/霍夫曼编码.md "wikilink")和二阶。
 
 在[Chrome](../Page/Google_Chrome.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Firefox](../Page/Firefox.md "wikilink")中，它已被用于加速[万维网](../Page/万维网.md "wikilink")的传输速度。\[3\]类似[Google](../Page/Google.md "wikilink")的压缩算法[zopfli](https://zh.wikipedia.org/wiki/zopfli "wikilink")，brotli这个名字来自瑞士的烘培产品。\[4\]

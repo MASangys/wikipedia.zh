@@ -1,3 +1,6 @@
+> 本文内容由[Cupidesthes](https://zh.wikipedia.org/wiki/Cupidesthes)转换而来。
+
+
 ***Cupidesthes***是[灰蝶科](../Page/灰蝶科.md "wikilink")[眼灰蝶亞科](../Page/眼灰蝶亞科.md "wikilink")[犁灰蝶族](../Page/犁灰蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有18個物種，分佈於非洲森林\[1\]。外型上出現[兩性異形](https://zh.wikipedia.org/wiki/兩性異形 "wikilink")。
 
 ## 物種

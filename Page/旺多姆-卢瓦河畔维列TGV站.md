@@ -1,3 +1,6 @@
+> 本文内容由[旺多姆-卢瓦河畔维列TGV站](https://zh.wikipedia.org/wiki/旺多姆-卢瓦河畔维列TGV站)转换而来。
+
+
 **旺多姆-卢瓦河畔维列TGV站**，简称**旺多姆TGV站**（），是法国的一个高速铁路车站，位于法国中部市镇[卢瓦河畔维列](https://zh.wikipedia.org/wiki/卢瓦河畔维列 "wikilink")，在[卢瓦-谢尔省境内](https://zh.wikipedia.org/wiki/卢瓦-谢尔省 "wikilink")。
 
 ## 位置

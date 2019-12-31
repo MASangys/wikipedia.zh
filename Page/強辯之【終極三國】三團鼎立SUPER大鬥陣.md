@@ -1,3 +1,6 @@
+> 本文内容由[強辯之【終極三國】三團鼎立SUPER大鬥陣](https://zh.wikipedia.org/wiki/強辯之【終極三國】三團鼎立SUPER大鬥陣)转换而来。
+
+
 《**強辯之【終極三國】三團鼎立SUPER大鬥陣**》收錄電視劇【[終極三國](../Page/終極三國.md "wikilink")】劇中原聲音樂。內含專輯CD、戲劇精華版與武虎將獨家真情訪談DVD，由[相信音樂](../Page/相信音樂.md "wikilink")製作，於2009年4月3日[環球唱片代理發行](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。\[1\] \[2\] \[3\]
 
 ## 曲目

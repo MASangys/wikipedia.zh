@@ -1,3 +1,6 @@
+> 本文内容由[微軟Lumia 650](https://zh.wikipedia.org/wiki/微軟Lumia 650)转换而来。
+
+
 **微软Lumia 650**\[1\]（）是[微軟移動推出的一款中階型手機](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")，搭載[Windows Mobile 10作業系統](https://zh.wikipedia.org/wiki/Windows_Mobile_10 "wikilink")，是最後一款[微軟Lumia系列手機](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")，已於2016年2月上市。
 
 ## 參見

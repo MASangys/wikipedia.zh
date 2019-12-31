@@ -1,3 +1,6 @@
+> 本文内容由[DJ蛇王](https://zh.wikipedia.org/wiki/DJ蛇王)转换而来。
+
+
 **威廉·薩米·艾蒂安·格里加西恩**（William Sami Etienne Grigahcine，）\[1\]\[2\]\[3\]，藝名**DJ蛇王**（DJ Snake），是一名法國[DJ及音樂製作人](https://zh.wikipedia.org/wiki/DJ "wikilink")。
 
 DJ蛇王在2013年發表了《Bird Machine》及《Turn Down For What》，前者與法國藝人Alesia合作，並由知名DJ [Diplo所經營的Mad](https://zh.wikipedia.org/wiki/Diplo "wikilink") Decent收錄及發行。 2013年6月，Diplo邀請DJ蛇王至他在BBC Radio 1的廣播秀《Diplo & Friends》演出。\[4\]

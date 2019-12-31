@@ -1,3 +1,6 @@
+> 本文内容由[MRE口粮](https://zh.wikipedia.org/wiki/MRE口粮)转换而来。
+
+
 [MRE_20071124.PNG](https://zh.wikipedia.org/wiki/File:MRE_20071124.PNG "fig:MRE_20071124.PNG")
 
 **口糧**（）是一種內容物完備且輕量化的個人，由[美國軍隊開發](https://zh.wikipedia.org/wiki/美國軍隊 "wikilink")，提供給在[戰鬥中或沒有提供完善供餐設備場域的成員](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")。於1981年取代了[MCI口糧](https://zh.wikipedia.org/wiki/MCI口糧 "wikilink")\[1\]以及[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")、[特種部隊](../Page/特種部隊.md "wikilink")與[越戰時](https://zh.wikipedia.org/wiki/越戰 "wikilink")[美國陸軍遊騎兵](../Page/美國陸軍遊騎兵.md "wikilink")的輕量化[LRP口糧](../Page/LRP口糧.md "wikilink")。

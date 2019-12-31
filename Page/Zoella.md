@@ -1,3 +1,6 @@
+> 本文内容由[Zoella](https://zh.wikipedia.org/wiki/Zoella)转换而来。
+
+
 **柔伊·伊莉莎白·薩格**（，），或簡稱**柔伊·薩格**（）\[1\]，是一位[英國時尚美妝](https://zh.wikipedia.org/wiki/英國 "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")、[Vlogger與](https://zh.wikipedia.org/wiki/VLOG "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。她以其[YouTube](../Page/YouTube.md "wikilink")頻道名稱**Zoella**最為人們熟知。她的處女作小說《》於2014年11月出版，並打破自1998年以來諸多紀錄，成為新人作家最高單週銷售量之紀錄保持人。
 
 ## 個人生活

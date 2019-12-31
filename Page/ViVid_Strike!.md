@@ -1,3 +1,6 @@
+> 本文内容由[ViVid Strike!](https://zh.wikipedia.org/wiki/ViVid Strike!)转换而来。
+
+
 《**ViVid Strike\!**》（）是[都築真紀](../Page/都築真紀.md "wikilink")製作的[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")完全原创作品，沿用[魔法少女奈葉ViVid](../Page/魔法少女奈葉ViVid.md "wikilink")的部分角色与制作班底，故事时间设定在ViVid时间线一年后。
 
 [电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2016年10月開始播出\[1\]。

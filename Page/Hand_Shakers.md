@@ -1,3 +1,6 @@
+> 本文内容由[Hand Shakers](https://zh.wikipedia.org/wiki/Hand Shakers)转换而来。
+
+
 《**Hand Shakers** 》（）是[GoHands](https://zh.wikipedia.org/wiki/GoHands "wikilink")、[Frontier Works](../Page/Frontier_Works.md "wikilink")、[KADOKAWA](../Page/KADOKAWA.md "wikilink")共同製作，[Animate創業](../Page/安利美特.md "wikilink")30週年紀念的[日本](../Page/日本.md "wikilink")原創[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。首播時間2017年1月至3月。作品標語是「**用我的手，守護住。**（）」。
 
 ## 劇情

@@ -1,3 +1,6 @@
+> 本文内容由[东方深秘录 ～ Urban Legend in Limbo.](https://zh.wikipedia.org/wiki/东方深秘录 ～ Urban Legend in Limbo.)转换而来。
+
+
 是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")14.5作。\[1\]\[2\]
 
 本作将会首次出现第一个游戏主机[PlayStation 4移植版本](../Page/PlayStation_4.md "wikilink")，\[3\]将会增加《[永夜抄](../Page/東方永夜抄_～_Imperishable_Night..md "wikilink")》的铃仙·优昙华院·因幡作为新角色，和一个在《[紺珠傳](../Page/東方紺珠傳_～_Legacy_of_Lunatic_Kingdom..md "wikilink")》事件之后的新番外故事剧情，延續故事為《[憑依華](../Page/東方憑依華_～_Antinomy_of_Common_Flowers..md "wikilink")》。\[4\]\[5\]

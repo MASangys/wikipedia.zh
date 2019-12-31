@@ -1,3 +1,6 @@
+> 本文内容由[Samhwa Networks](https://zh.wikipedia.org/wiki/Samhwa Networks)转换而来。
+
+
 **Samhwa Networks**（）是[韓國的電視劇製作公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")。成立在1980年，包括影劇投資製作等。
 
 ## 電視劇製作

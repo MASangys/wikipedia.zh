@@ -1,3 +1,6 @@
+> 本文内容由[Salsa20](https://zh.wikipedia.org/wiki/Salsa20)转换而来。
+
+
 **Salsa20**是一种[流加密算法](https://zh.wikipedia.org/wiki/流加密 "wikilink")，由提交到。它建立在基于add-rotate-xor（ARX）操作的[伪随机函数之上](https://zh.wikipedia.org/wiki/伪随机 "wikilink")——32位模加、[异或](https://zh.wikipedia.org/wiki/异或 "wikilink")（XOR）和[循环移位操作](../Page/位操作.md "wikilink")。Salsa20映射一个256[位密钥](../Page/位元.md "wikilink")、一个64位[nonce以及一个](https://zh.wikipedia.org/wiki/nonce "wikilink")64位流位置到一个512位的输出（也存在一个128位密钥的版本）。这使Salsa20具有了不同寻常的优势，用户可以在恒定时间内寻求输出流中的任何位置。它可以在现代[x86处理器中提供约每](https://zh.wikipedia.org/wiki/x86 "wikilink")4–14次循环周期一字节的速度\[1\]，并具有合理的硬件性能。它没有注册专利，并且Bernstein还撰写了几篇对常见[架构优化的](https://zh.wikipedia.org/wiki/架构 "wikilink")[公有领域](../Page/公有领域.md "wikilink")实现。\[2\]
 
 一个相关的[密码算法](https://zh.wikipedia.org/wiki/密碼_\(密碼學\) "wikilink")**ChaCha**，具有类似的特点，但有不同的循环移位函数，已在2008年由Bernstein发布。

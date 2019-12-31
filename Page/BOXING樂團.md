@@ -1,3 +1,6 @@
+> 本文内容由[BOXING樂團](https://zh.wikipedia.org/wiki/BOXING樂團)转换而来。
+
+
 **BOXING**（**拳**）是台灣首支[原住民](../Page/原住民.md "wikilink")拉丁饒舌樂團，以拉丁、搖滾、嘻哈、融合風格為主。六位成員是由[屏東](https://zh.wikipedia.org/wiki/屏東 "wikilink")[排灣族](../Page/排灣族.md "wikilink")的3對兄弟組成，具有拳擊選手的背景。原名「SE樂團」，2010年正式成軍以來多在各大音樂節場合演出。2012年在歌手[張惠妹](../Page/張惠妹.md "wikilink")的賞識發掘之下，成為AMeiZING世界巡迴演唱會唯一九場的表演嘉賓樂團。2014年10月31日同步發行[排灣語](../Page/排灣語.md "wikilink")專輯《野生Boxing》和中文專輯《Boxing》，並以《野生Boxing》專輯入圍[第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")、最佳樂團獎、最佳原住民語歌手獎及最佳原住民語專輯獎，最後獲得最佳新人獎。\[1\]
 
 2016年3月18日上映的電影《[只要我長大](https://zh.wikipedia.org/wiki/只要我長大_\(電影\) "wikilink")》中，鼓手曉龍飾演男配角杜曉龍，並獲得第18屆台北電影獎最佳新演員獎。其餘樂團成員也參與電影客串演出，這是他們的首部電影作品。\[2\]

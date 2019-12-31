@@ -1,3 +1,6 @@
+> 本文内容由[TRT-25遙控武器站](https://zh.wikipedia.org/wiki/TRT-25遙控武器站)转换而来。
+
+
 **TRT-25遙控武器站**（）是一款由[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")研製及生產的[遙控武器系統](../Page/遙控武器系統.md "wikilink")，所搭載的[M242巨蝮式鏈炮](../Page/M242巨蝮式鏈炮.md "wikilink")發射[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 該[砲塔](../Page/砲塔.md "wikilink")被設計成為輕型[装甲车](../Page/装甲车.md "wikilink")（LAV）、（MMPV）和[裝步戰車](https://zh.wikipedia.org/wiki/裝步戰車 "wikilink")（IFV）所使用的自我保護和火力支援兩用武器。\[1\]當2010年6月，該砲塔在巴黎2010年（Eurosatory 2010）首度展出時，它安裝在公司新型以上。它被BAE系統公司全球戰術系統[总裁](../Page/总裁.md "wikilink")丹尼斯·莫里斯（Dennis Morris）描述為“在攻守兼備的情況下，低成本的解決方案，簡單易用的操作界面，適用於幾乎所有的作戰”。\[2\]

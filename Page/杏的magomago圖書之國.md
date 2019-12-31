@@ -1,3 +1,6 @@
+> 本文内容由[杏的magomago圖書之國](https://zh.wikipedia.org/wiki/杏的magomago圖書之國)转换而来。
+
+
 《**杏的magomago圖書之國**》（），又譯《小杏的圖書之國》，是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[樋口橘](../Page/樋口橘.md "wikilink")所創作的[少女漫画](../Page/少女漫画.md "wikilink")，自2014年18號開始於[白泉社](../Page/白泉社.md "wikilink")雜誌《[花與夢](../Page/花與夢.md "wikilink")》上連載，至2015年12月日文版單行本已發行3冊。
 
 ## 故事簡介

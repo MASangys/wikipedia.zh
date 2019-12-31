@@ -1,3 +1,6 @@
+> 本文内容由[東急PLAZA](https://zh.wikipedia.org/wiki/東急PLAZA)转换而来。
+
+
 [TOKYU_PLAZA_Omotesando_Harajuku_3.JPG](https://zh.wikipedia.org/wiki/File:TOKYU_PLAZA_Omotesando_Harajuku_3.JPG "fig:TOKYU_PLAZA_Omotesando_Harajuku_3.JPG") [Tokyu_Plaza_Ginza1b.JPG](https://zh.wikipedia.org/wiki/File:Tokyu_Plaza_Ginza1b.JPG "fig:Tokyu_Plaza_Ginza1b.JPG") **東急PLAZA**（，英語：*TOKYU PLAZA*）是集團營運的都市型[購物商場](https://zh.wikipedia.org/wiki/購物商場 "wikilink")。
 
 ## 概要

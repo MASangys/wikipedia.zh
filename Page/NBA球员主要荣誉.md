@@ -1,3 +1,6 @@
+> 本文内容由[NBA球员主要荣誉](https://zh.wikipedia.org/wiki/NBA球员主要荣誉)转换而来。
+
+
 下表列有12名现役及退役[NBA](../Page/NBA.md "wikilink")球员的主要职业生涯及国际比赛成就。这12名球员是[ESPN](../Page/ESPN.md "wikilink")球员历史排名的前12名。\[1\] 他们分别是[<span style="color:White; background-color:Coral">迈克尔·乔丹</span>](../Page/迈克尔·乔丹.md "wikilink")、[<span style="background-color:Yellow">卡里姆·阿卜杜勒-贾巴尔</span>](../Page/卡里姆·阿卜杜勒-贾巴尔.md "wikilink")、[<span style="color:White; background-color:Navy">勒布朗·詹姆斯</span>](../Page/勒布朗·詹姆斯.md "wikilink")、[<span style="color:White; background-color:Green">埃尔文·约翰逊</span>](../Page/魔术师约翰逊.md "wikilink")、[<span style="background-color:GreenYellow">威尔特·张伯伦</span>](../Page/威尔特·张伯伦.md "wikilink")、[<span style="background-color:Plum">拉里·伯德</span>](https://zh.wikipedia.org/wiki/拉里·伯德 "wikilink")、[<span style="color:White; background-color:Crimson">比尔·拉塞尔</span>](../Page/比尔·拉塞尔.md "wikilink")、[<span style="background-color:Lime">蒂姆·邓肯</span>](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")、[<span style="color:White; background-color:Teal">沙奎尔·奥尼尔</span>](../Page/沙奎尔·奥尼尔.md "wikilink")、[<span style="color:White; background-color:DodgerBlue">哈基姆·奥拉朱旺</span>](../Page/哈基姆·奥拉朱旺.md "wikilink")、[<span style="color:White; background-color:Blue">奥斯卡·罗伯特森</span>和](../Page/奥斯卡·罗伯逊.md "wikilink")[<span style="background-color:Gold">科比·布莱恩特</span>](../Page/科比·布莱恩特.md "wikilink")。
 
 ## NBA球员主要荣誉

@@ -1,3 +1,6 @@
+> 本文内容由[MIT計算機科學與人工智慧實驗室](https://zh.wikipedia.org/wiki/MIT計算機科學與人工智慧實驗室)转换而来。
+
+
 **MIT計算機科學與人工智慧實驗室**（，縮寫為 ），美國[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")（MIT）的研究實驗室。
 
 ## 历史

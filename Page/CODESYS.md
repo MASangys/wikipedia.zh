@@ -1,3 +1,6 @@
+> 本文内容由[CODESYS](https://zh.wikipedia.org/wiki/CODESYS)转换而来。
+
+
 **CODESYS**，以前稱為**CoDeSys**，是控制器開發系統（controller development system）的[首字母縮略字](../Page/首字母縮略字.md "wikilink")，是針對[可程式邏輯控制器](https://zh.wikipedia.org/wiki/可程式邏輯控制器 "wikilink")（PLC）應用的[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，符合[IEC 61131-3標準](../Page/IEC_61131-3.md "wikilink")，是與硬件及製造商無關的整合開發環境\[1\]。
 
 CODESYS是由位在德國[肯普滕的軟體公司](https://zh.wikipedia.org/wiki/肯普滕 "wikilink")3S-Smart Software Solutions公司所開發，1.0版是在1994年發行，CODESYS授權不需授權費，軟體在同一介面下考慮了許多不同面向的[工業自動化技術應用](https://zh.wikipedia.org/wiki/自動化技術 "wikilink")。

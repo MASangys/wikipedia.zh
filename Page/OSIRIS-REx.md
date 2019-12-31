@@ -1,3 +1,6 @@
+> 本文内容由[OSIRIS-REx](https://zh.wikipedia.org/wiki/OSIRIS-REx)转换而来。
+
+
 **太陽系起源、光谱解析、资源识别、安全保障、小行星风化层探索者**（，缩写**OSIRIS-REx**，又譯為**歐西里斯號**\[1\]或**[冥王号](../Page/俄西里斯.md "wikilink")**\[2\]）是一項由[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（NASA）進行中的小行星研究和采样返回任务\[3\]\[4\]\[5\]\[6\]。探測器于2016年9月8日發射，任务是研究[小行星101955](../Page/小行星101955.md "wikilink")——一顆[含碳的](../Page/C-型小行星.md "wikilink")[近地小行星](../Page/近地小行星.md "wikilink")，并在2023年将样本送回地球进行详细分析，這顆小行星被視為[潛在威脅天體](../Page/潛在威脅天體.md "wikilink")，是有可能會撞擊地球的小天體之一。探測器採得的材料有望使科学家进一步了解[太阳系的形成与演化](https://zh.wikipedia.org/wiki/太阳系的形成与演化 "wikilink")，包含行星形成初期阶段，和导致地球上[生命形成](../Page/生命起源.md "wikilink")[有机化合物](../Page/有机化合物.md "wikilink")的来源\[7\]。如果成功，OSIRIS-REx将是首具从小行星帶回样本的美国航天器，也是繼[日本的](https://zh.wikipedia.org/wiki/JAXA "wikilink")[隼鳥號後](https://zh.wikipedia.org/wiki/隼鳥號 "wikilink")，第二具將小行星樣本送回地球的探測器。
 
 这次任务的成本大约为8亿美元\[8\]，另外由[擎天神5號運載火箭](../Page/擎天神5號運載火箭.md "wikilink")發射探測器的費用约为1.835亿美元\[9\]。它是NASA的[新疆界計畫](../Page/新疆界計畫.md "wikilink")中第三个行星科学任务，列在[朱诺号](../Page/朱诺号.md "wikilink")和[新视野号](../Page/新视野号.md "wikilink")之后。由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[亞利桑那大學的](https://zh.wikipedia.org/wiki/亞利桑那大學 "wikilink")[天文化學家](https://zh.wikipedia.org/wiki/天文化學 "wikilink")（Dante Lauretta）擔任計畫主持人（PI）。

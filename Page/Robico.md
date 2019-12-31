@@ -1,3 +1,6 @@
+> 本文内容由[Robico](https://zh.wikipedia.org/wiki/Robico)转换而来。
+
+
 **Robico**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")\[1\]。出身於[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")\[2\]。A型[血](https://zh.wikipedia.org/wiki/血型 "wikilink")\[3\]。她的作品主要在[講談社的旗下雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[The Dessert](../Page/The_Dessert.md "wikilink")》連載。
 
 ## 人物簡介

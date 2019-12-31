@@ -1,3 +1,6 @@
+> 本文内容由[YOSAKOI索朗祭](https://zh.wikipedia.org/wiki/YOSAKOI索朗祭)转换而来。
+
+
 [YOSAKOI_Soran_Festival.jpg](https://zh.wikipedia.org/wiki/File:YOSAKOI_Soran_Festival.jpg "fig:YOSAKOI_Soran_Festival.jpg") [2010_YOSAKOI_Soran_Festival_06.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_06.jpg "fig:2010_YOSAKOI_Soran_Festival_06.jpg") [2010_YOSAKOI_Soran_Festival_09.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_09.jpg "fig:2010_YOSAKOI_Soran_Festival_09.jpg") [2010_YOSAKOI_Soran_Festival_10.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_10.jpg "fig:2010_YOSAKOI_Soran_Festival_10.jpg") [2010_YOSAKOI_Soran_Festival_01.jpg](https://zh.wikipedia.org/wiki/File:2010_YOSAKOI_Soran_Festival_01.jpg "fig:2010_YOSAKOI_Soran_Festival_01.jpg")
 
 **YOSAKOI索朗祭**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：**）**是每年六月上旬在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")舉辦的[YOSAKOI](../Page/YOSAKOI.md "wikilink")祭典。由 YOSAKO索朗祭組織委員會（）主辦。

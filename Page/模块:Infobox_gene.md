@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox gene](https://zh.wikipedia.org/wiki/模块:Infobox gene)转换而来。
+
+
 local p = { }
 
 local navbar = require('Module:Navbar')._navbar local infobox = require('Module:Infobox3cols').infobox local infoboxImage = require('Module:InfoboxImage').InfoboxImage

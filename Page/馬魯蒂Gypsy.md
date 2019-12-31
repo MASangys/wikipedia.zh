@@ -1,3 +1,6 @@
+> 本文内容由[馬魯蒂Gypsy](https://zh.wikipedia.org/wiki/馬魯蒂Gypsy)转换而来。
+
+
 **馬魯蒂Gypsy**（）乃1985年起[印度](../Page/印度.md "wikilink")[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")（[母公司為](https://zh.wikipedia.org/wiki/母公司 "wikilink")[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）製造、販售的[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，此車款脫胎自[鈴木Jimny SJ410型](https://zh.wikipedia.org/wiki/鈴木Jimny#SJ40型Jimny_1000 "wikilink")。
 
 ## 歷史與概要

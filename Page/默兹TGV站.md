@@ -1,3 +1,6 @@
+> 本文内容由[默兹TGV站](https://zh.wikipedia.org/wiki/默兹TGV站)转换而来。
+
+
 **默兹TGV站**（），全名为"默兹-圣道TGV站"（），是法国的一个铁路车站，位于法国[默兹省的](https://zh.wikipedia.org/wiki/默兹省 "wikilink")[三域市镇范围内](https://zh.wikipedia.org/wiki/三域 "wikilink")。
 
 ## 位置

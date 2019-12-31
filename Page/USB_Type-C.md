@@ -1,3 +1,6 @@
+> 本文内容由[USB Type-C](https://zh.wikipedia.org/wiki/USB Type-C)转换而来。
+
+
 [LeTV_X600_USB_Type_C_port.jpg](https://zh.wikipedia.org/wiki/File:LeTV_X600_USB_Type_C_port.jpg "fig:LeTV_X600_USB_Type_C_port.jpg")
 
 **USB Type-C**，又稱**USB-C**，是一種[通用序列匯流排](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")（USB）的硬體介面形式，外觀上最大特點在於其上下端完全一致，與[Micro-USB相比用戶不必再區分USB正反面](https://zh.wikipedia.org/wiki/Micro-USB "wikilink")。

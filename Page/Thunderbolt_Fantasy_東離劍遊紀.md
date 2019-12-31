@@ -1,3 +1,6 @@
+> 本文内容由[Thunderbolt Fantasy 東離劍遊紀](https://zh.wikipedia.org/wiki/Thunderbolt Fantasy 東離劍遊紀)转换而来。
+
+
 《**Thunderbolt Fantasy 東離劍遊紀**》是一部由[臺灣](../Page/臺灣.md "wikilink")和[日本](../Page/日本.md "wikilink")雙方合作的[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲](../Page/布袋戲.md "wikilink")偶電視劇集作品。劇本由日本編劇[虛淵玄](../Page/虛淵玄.md "wikilink")撰寫，布袋戲劇由臺灣[霹靂布袋戲](../Page/霹靂布袋戲.md "wikilink")製作，劇名由[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")的董事長黃強華董事長命名。\[1\]本作是[布袋戲](../Page/布袋戲.md "wikilink")此一傳統藝術首次進行臺灣及日本跨界合作的作品。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll](../Page/Crunchyroll.md "wikilink")進行三地聯播。
 
 2017年上映外傳電影《[Thunderbolt Fantasy 生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》，2018年10月1日開播第二季《[Thunderbolt Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》，2019年上映外傳電影第二部《[Thunderbolt Fantasy 西幽玹歌](../Page/Thunderbolt_Fantasy_西幽玹歌.md "wikilink")》，第三季已宣布製作中。

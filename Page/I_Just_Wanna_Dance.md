@@ -1,3 +1,6 @@
+> 本文内容由[I Just Wanna Dance](https://zh.wikipedia.org/wiki/I Just Wanna Dance)转换而来。
+
+
 《**I Just Wanna Dance**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）的首張個人專輯，由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2016年5月11日發行。
 
 ## 發行

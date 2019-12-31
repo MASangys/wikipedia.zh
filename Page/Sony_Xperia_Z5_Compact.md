@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia Z5 Compact](https://zh.wikipedia.org/wiki/Sony Xperia Z5 Compact)转换而来。
+
+
 **Sony Xperia Z5 Compact**，是[索尼](../Page/索尼.md "wikilink")於2015年9月2日在柏林發表的旗艦手機，是[Xperia Z5系列的Compact机种](https://zh.wikipedia.org/wiki/Xperia_Z5 "wikilink")。搭載4.6吋螢幕、[高通](../Page/高通.md "wikilink") [Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") MSM8994 2.0GHz + 1.5GHz 八核心處理器、2GB記憶體、2,300萬畫素 25mm G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能，配有指紋傳感器。
 
 ## 詳細規格

@@ -1,3 +1,6 @@
+> 本文内容由[LnB信用市集](https://zh.wikipedia.org/wiki/LnB信用市集)转换而来。
+
+
 **LnB信用市集**為台灣一[金融科技](../Page/金融科技.md "wikilink")（**FinTech**）公司，提供的服務為[網路借貸](https://zh.wikipedia.org/wiki/網路借貸 "wikilink")（**P2P Lending**），由瑞保網路科技股份有限公司（以下簡稱瑞保網科）開發營運。為台灣第一家取得金管會專案核准、與銀行合作之網路借貸公司\[1\]。
 
 該公司提供個體和個體之間通過網際網路平台實作的直接借貸。申貸方（[債務人](https://zh.wikipedia.org/wiki/債務人 "wikilink")）於平台上提出借貸需求，同時需提供借貸目的、財力證明等相關資訊佐證，經過資格審核後，申貸案件方可於平台上架。依照申貸方的[信用評等](https://zh.wikipedia.org/wiki/信用評等 "wikilink")、借款總額及貸款期數，計算出每期應償還之[利息](../Page/利息.md "wikilink")及[本金](https://zh.wikipedia.org/wiki/本金 "wikilink")，投資人（[債權人](https://zh.wikipedia.org/wiki/債權人 "wikilink")）則可自由選擇申貸案件直接投資。該公司並無提供債務總額分割之服務，仲介之服務手續費抽成為該公司收入來源。

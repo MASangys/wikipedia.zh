@@ -1,3 +1,6 @@
+> 本文内容由[人生肥宅x尊](https://zh.wikipedia.org/wiki/人生肥宅x尊)转换而来。
+
+
 **人生肥宅x尊**是由台湾[YouTuber](../Page/YouTuber.md "wikilink")朱玉恩经营的一個[YouTube](../Page/YouTube.md "wikilink")頻道\[1\]。朱玉恩畢業於[羅東高商](https://zh.wikipedia.org/wiki/羅東高商 "wikilink")，本名速唸而得藝名**尊**，2018年为全台湾最年轻的百萬訂閱YouTuber，年僅19歲\[2\]。该頻道以實驗[開箱](../Page/開箱.md "wikilink")及[都市傳說](../Page/都市傳說.md "wikilink")系列影片為主。在其開箱影片中，以添加[斷魂椒](../Page/斷魂椒.md "wikilink")的[洋芋片](https://zh.wikipedia.org/wiki/洋芋片 "wikilink")（18禁洋芋片）最為知名\[3\] ，並造成網路話題熱潮。
 
 影片風格受到[日本](../Page/日本.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")影響，因此內容偏向日式。

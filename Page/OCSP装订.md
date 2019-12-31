@@ -1,3 +1,6 @@
+> 本文内容由[OCSP装订](https://zh.wikipedia.org/wiki/OCSP装订)转换而来。
+
+
 **OCSP装订**（），正式名称为[TLS](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")[证书状态查询扩展](https://zh.wikipedia.org/wiki/数字证书 "wikilink")，可代替[在线证书状态协议](../Page/在线证书状态协议.md "wikilink")（OCSP）来查询[X.509](../Page/X.509.md "wikilink")证书的状态。\[1\]服务器在TLS握手时发送事先缓存的OCSP响应，用户只需验证该响应的有效性而不用再向[数字证书认证机构](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")（CA）发送请求。\[2\]\[3\]
 
 ## 动机

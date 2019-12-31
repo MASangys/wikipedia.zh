@@ -1,3 +1,6 @@
+> 本文内容由[COSMIC EXPLORER](https://zh.wikipedia.org/wiki/COSMIC EXPLORER)转换而来。
+
+
 《COSMIC EXPLORER》（星際探險家）是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第六張](https://zh.wikipedia.org/wiki/Perfume "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2016年4月6日發行\[1\]。唱片公司為[Perfume Records/UNIVERSAL J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 
 ## 概要

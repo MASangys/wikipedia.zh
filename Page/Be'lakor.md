@@ -1,3 +1,6 @@
+> 本文内容由[Be\'lakor](https://zh.wikipedia.org/wiki/Be\'lakor)转换而来。
+
+
 **Be'lakor** 是一支[旋律死亡金屬樂團](https://zh.wikipedia.org/wiki/旋律死亡金屬 "wikilink")，來自[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[墨爾本市](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")。團名的靈感來自於遊戲[中古戰鎚中的惡魔貝拉寇](https://zh.wikipedia.org/wiki/戰鎚_\(設定\) "wikilink")（Be'lakor）\[1\]。
 
 ## 歷史

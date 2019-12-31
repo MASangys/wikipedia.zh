@@ -1,3 +1,6 @@
+> 本文内容由[STALKER](https://zh.wikipedia.org/wiki/STALKER)转换而来。
+
+
 《**STALKER**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")第十一張韓語迷你專輯，於2016年6月7日發行，主打歌曲為《Stalker》\[1\]。
 
 ## 背景

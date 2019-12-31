@@ -1,3 +1,6 @@
+> 本文内容由[魔法少女奈葉Reflection](https://zh.wikipedia.org/wiki/魔法少女奈葉Reflection)转换而来。
+
+
 《**魔法少女奈葉Reflection**》（ ；）是「[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")」第3部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。[日本](../Page/日本.md "wikilink")於2017年7月22日上映；[臺灣於](../Page/中華民國.md "wikilink")2017年11月17日上映；[香港](../Page/香港.md "wikilink")於2017年11月16日上映，優先場於2017年11月11日上映。
 
 ## 簡介

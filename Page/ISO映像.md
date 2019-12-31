@@ -1,3 +1,6 @@
+> 本文内容由[ISO映像](https://zh.wikipedia.org/wiki/ISO映像)转换而来。
+
+
 **ISO映像**是一种[光盘的](../Page/光碟.md "wikilink")，是[磁盘映像](../Page/磁盘映像.md "wikilink")的类型之一，数据由一张[光盘的每个](../Page/光碟.md "wikilink")[扇区组成](https://zh.wikipedia.org/wiki/磁盘扇区 "wikilink")，这包括光盘的[文件系统](../Page/文件系统.md "wikilink")。\[1\]ISO映像文件通常采用[文件扩展名](../Page/文件扩展名.md "wikilink")`.iso`。名称ISO取自用于[CD-ROM](../Page/CD-ROM.md "wikilink")介质的[ISO 9660文件系统](../Page/ISO_9660.md "wikilink")，但ISO映像也可包含[DVD和](../Page/數碼多功能影音光碟.md "wikilink")[蓝光光盘使用的](https://zh.wikipedia.org/wiki/蓝光光盘 "wikilink")[UDF](../Page/通用光碟格式.md "wikilink")（ISO/IEC 13346）文件系统。
 
 ISO映像可以使用三种方式创建：使用从光盘创建，使用[光盘制作软件从一系列文件创建](../Page/光盘制作软件列表.md "wikilink")，从另一个而成。在可引导光盘上分发的软件很多都有可下载的ISO映像格式，并且类似的ISO映像大多可以写入光盘（例如CD或DVD）中。

@@ -1,3 +1,6 @@
+> 本文内容由[UNDER LOVER](https://zh.wikipedia.org/wiki/UNDER LOVER)转换而来。
+
+
 **UNDER LOVER**，又稱**地下情人**，是於影音網站發跡的男子雙人組合，團員為胡睿兒與楊琳。
 
 胡睿兒與楊琳都是[花蓮縣](../Page/花蓮縣.md "wikilink")[阿美族](../Page/阿美族.md "wikilink")人，但胡睿兒少年時遷居臺北、在花蓮[服役期間認識楊琳](https://zh.wikipedia.org/wiki/服役 "wikilink")，相約一起作音樂。胡睿兒不顧家中反對，堅持與楊琳合作，2010年開始在網路深耕，2012年胡睿兒以與[玖壹壹洋蔥合作的](https://zh.wikipedia.org/wiki/玖壹壹 "wikilink")《癡情的男子漢》一曲爆紅，成為知名的網路歌手。2015年正式發行首張實體專輯，兩人又以與玖壹壹春風合作的一曲《癡情玫瑰花》攻佔各大排行榜，還在[YouTube](../Page/YouTube.md "wikilink")破了1億5900萬多觀看次數。

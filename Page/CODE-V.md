@@ -1,3 +1,6 @@
+> 本文内容由[CODE-V](https://zh.wikipedia.org/wiki/CODE-V)转换而来。
+
+
 **CODE-V**（；），為在[日本](../Page/日本.md "wikilink")發展之[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人男子組合，前身是5人組合**Bless**（）\[1\]，於2007年11月13日發行數位單曲《12月32日》（）出道，到2009年暫時停止活動。
 
 2010年組合成員重組為**CODE-V**\[2\]於韓國出道，並在2012年進軍日本樂壇\[3\]，於首張日語單曲《你給我的東西》（）發行當天舉行《CODE-V Japan Debut Special Live in OSAKA》音樂會\[4\]。

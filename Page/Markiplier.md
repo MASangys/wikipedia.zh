@@ -1,3 +1,6 @@
+> 本文内容由[Markiplier](https://zh.wikipedia.org/wiki/Markiplier)转换而来。
+
+
 **馬克·愛德華·菲施巴赫**（Mark Edward Fischbach，），較廣為人知的是化名**Markiplier**，美國YouTuber，專注於的[獨立遊戲](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")，普遍為[動作遊戲和](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[恐怖遊戲](../Page/恐怖遊戲.md "wikilink")\[1\]。他出生於[夏威夷州](../Page/夏威夷州.md "wikilink")[檀香山](../Page/檀香山.md "wikilink")\[2\]，並在[俄亥俄州](../Page/俄亥俄州.md "wikilink")[辛辛那提開始其YouTube生涯](https://zh.wikipedia.org/wiki/辛辛那提_\(俄亥俄州\) "wikilink")，現居[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")\[3\]。
 
 截至2018年9月，Markiplier已經有超過2180萬名訂閱者與100億觀看次數\[4\]，是YouTube第34多訂閱者的頻道\[5\]。

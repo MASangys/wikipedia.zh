@@ -1,3 +1,6 @@
+> 本文内容由[乐高Ideas](https://zh.wikipedia.org/wiki/乐高Ideas)转换而来。
+
+
 \-{H | zh-tw:活人甡吃; zh-hk:笑死人凶間; zh-hans:僵尸肖恩}- -{H | zh-tw:彩虹小馬; zh:小马宝莉}- -{H | zh-tw:魔鬼剋星; zh:捉鬼敢死队}- -{H | zh-tw:超時空奇俠; zh-hant:異世奇人; zh-hans:神秘博士}-
 
 **乐高Ideas**（以前称为 **乐高Cuusoo**）是一个网站，它由Cuusoo和[乐高集团在](https://zh.wikipedia.org/wiki/乐高集团 "wikilink")2008年开始运作，它允许用户对乐高的产品提出想法，然后将其变成潜在的商业可行的套装，而原先的设计师可以得到[版税的](https://zh.wikipedia.org/wiki/版税 "wikilink")1%。\[1\]

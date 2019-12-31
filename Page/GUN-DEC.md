@@ -1,3 +1,6 @@
+> 本文内容由[GUN-DEC](https://zh.wikipedia.org/wiki/GUN-DEC)转换而来。
+
+
 是[Sammy在](https://zh.wikipedia.org/wiki/颯美 "wikilink")1991年4月26日發售的[Family Computer平台動作類型遊戲](https://zh.wikipedia.org/wiki/Family_Computer "wikilink")\[1\]，美版是在1991年11月30日發售。\[2\]遊戲中除了動作類型玩法外還有競速類型和射擊類型的玩法。
 
 ## 遊戲系統

@@ -1,3 +1,6 @@
+> 本文内容由[Wings.io](https://zh.wikipedia.org/wiki/Wings.io)转换而来。
+
+
 《**Wings.io**》是一個由Wings.io在2016年推出的一款大型多人動作遊戲. 玩家化身為飛機，並想辦法殺死其它對手以擠進排行榜。這個遊戲跟《[Agar.io](../Page/Agar.io.md "wikilink")》和《[Slither.io](../Page/Slither.io.md "wikilink")》有很大的相似之處。
 
 ## 開發

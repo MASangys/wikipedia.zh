@@ -1,3 +1,6 @@
+> 本文内容由[PHP框架列表](https://zh.wikipedia.org/wiki/PHP框架列表)转换而来。
+
+
 这个页面列出可用的[PHP](../Page/PHP.md "wikilink")框架。
 
   - [Agavi是一个开源的](https://zh.wikipedia.org/wiki/Agavi "wikilink")[PHP](../Page/PHP.md "wikilink")框架，支持[MVC](../Page/MVC.md "wikilink")[设计模式](https://zh.wikipedia.org/wiki/设计模式 "wikilink")。它并没有使用[约定优于配置](../Page/约定优于配置.md "wikilink")的设计范式，而是重在设计决策，以及更好的可伸缩性。

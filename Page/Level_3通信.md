@@ -1,3 +1,6 @@
+> 本文内容由[Level 3通信](https://zh.wikipedia.org/wiki/Level 3通信)转换而来。
+
+
 **Level 3通信**（Level 3 Communcations）是一家总部位于[美国](../Page/美国.md "wikilink")[科罗拉多州的跨国](https://zh.wikipedia.org/wiki/科罗拉多州 "wikilink")[电信](../Page/电信.md "wikilink")服务及[互联网服务提供商](https://zh.wikipedia.org/wiki/互联网服务提供商 "wikilink")。\[1\]
 
 该公司运营一个[第一级网络](https://zh.wikipedia.org/wiki/ISP "wikilink")\[2\] 该公司在北美洲、拉丁美洲、欧洲及一些特定的亚洲城市为大中型服务提供商提供 IP 网络、语音通话及内容分发等服务。\[3\]Level 3 同时也是美国市场上最大的竞争性本地交换运营商（英文：**C**ompetitive **L**ocal **E**xchange **C**arrier）以及第三大的光纤网络提供商（基于覆盖地区而言）。

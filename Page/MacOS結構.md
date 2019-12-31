@@ -1,3 +1,6 @@
+> 本文内容由[MacOS結構](https://zh.wikipedia.org/wiki/MacOS結構)转换而来。
+
+
 [OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink") 是苹果公司 Mac OS 操作系统替代品的产物。 在多次失败的尝试之后，苹果于1994年启动了 Pink 项目（后来和 IBM 进行了合作），这就是 Taligent 和 [Copland](https://zh.wikipedia.org/wiki/Copland_操作系统 "wikilink") ，两年后这一项目取消。 通过收购获得了 [NeXT](../Page/NeXT.md "wikilink") 和其 [NeXTSTEP](../Page/NeXTSTEP.md "wikilink") 操作系统之后，苹果公司开始着手开发他们最新的操作系统 ([Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"))  OS X 首次出现是1999年的 OS X Server 1.0，第一个正式的 OS X 桌面版本发布于2001年3月24日。 从10.5版本开始，OS X 通过了 Open group Unix O3 单一 Unix 规范认证。
 
 2016年6月，苹果公司宣布OS X更名为macOS，以便与苹果其他操作系统如iOS、watchOS和tvOS保持统一的命名风格。

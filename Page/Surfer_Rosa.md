@@ -1,3 +1,6 @@
+> 本文内容由[Surfer Rosa](https://zh.wikipedia.org/wiki/Surfer Rosa)转换而来。
+
+
 《》（参考译名“弄潮儿罗莎”）是美国[另类摇滚](../Page/另类摇滚.md "wikilink")乐队[小妖精乐队](../Page/小妖精乐队.md "wikilink")的第一张全长专辑，于1988年3月由英国独立厂牌发行。这张专辑离奇的主题包括[肉刑和](https://zh.wikipedia.org/wiki/肉刑 "wikilink")[窥阴癖等](https://zh.wikipedia.org/wiki/窥阴癖 "wikilink")，实验性的录音技术和独具特色的鼓声进一步加强了这些主题。该专辑中也出现了许多乐队早期作品的元素，包括西班牙语歌词和对[波多黎各](../Page/波多黎各.md "wikilink")的提及。
 
 由于是独立厂牌，该专辑在美国由英国厂牌[艰难贸易唱片](https://zh.wikipedia.org/wiki/艰难贸易唱片 "wikilink")（）发行。然而，它在英美两国都没有打榜。《》是专辑中唯一发行的单曲，但它也只在[英国单曲榜最高达到](../Page/英國單曲排行榜.md "wikilink")93名。尽管如此，专辑于1992年由[Elektra唱片在美国再版发行](https://zh.wikipedia.org/wiki/Elektra唱片 "wikilink")，2005年被[美国唱片业协会认证为金唱片](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")。

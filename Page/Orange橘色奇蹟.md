@@ -1,3 +1,6 @@
+> 本文内容由[Orange橘色奇蹟](https://zh.wikipedia.org/wiki/Orange橘色奇蹟)转换而来。
+
+
 《**orange橘色奇蹟**》（ ）是日本女性漫畫家[高野莓創作的日本漫畫](https://zh.wikipedia.org/wiki/高野莓 "wikilink")。最初於「[別冊瑪格麗特](https://zh.wikipedia.org/wiki/別冊瑪格麗特 "wikilink")」（[集英社](../Page/集英社.md "wikilink")）2012年4月號至12月號連載後休刊，之後轉至「[月刊Action](https://zh.wikipedia.org/wiki/月刊Action "wikilink")」（[雙葉社](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")）的2014年2月號至2015年10月號不定期連載。集英社版單行本共發行2冊、雙葉社版單行本目前共6冊，並在世界9個國家翻譯出版\[1\]。
 
 ## 故事概要

@@ -1,3 +1,6 @@
+> 本文内容由[勒克勒佐TGV站](https://zh.wikipedia.org/wiki/勒克勒佐TGV站)转换而来。
+
+
 **勒克勒佐TGV站**（），全名为勒克勒佐-蒙沙南-蒙梭莱米讷站（），是法国的一个高速铁路车站，位于法国[索恩-卢瓦尔省](https://zh.wikipedia.org/wiki/索恩-卢瓦尔省 "wikilink")市镇范围内，因靠近[勒克勒佐](../Page/勒克勒佐.md "wikilink")而得名。
 
 ## 位置

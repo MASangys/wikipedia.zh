@@ -1,3 +1,6 @@
+> 本文内容由[怒之鐵拳II 死鬥的鎮魂歌](https://zh.wikipedia.org/wiki/怒之鐵拳II 死鬥的鎮魂歌)转换而来。
+
+
 是一款由[世嘉](../Page/世嘉.md "wikilink")公司制作和发行的横向卷轴[清版动作类游戏](https://zh.wikipedia.org/wiki/清版动作类游戏 "wikilink")。游戏最初于1992年12月在北美地区[Mega Drive上发行](../Page/Mega_Drive.md "wikilink")。\[1\] 本游戏是[怒之鐵拳系列](../Page/怒之鐵拳系列.md "wikilink")第二作。
 
 游戏加入了两个新的角色Max Thunder和Eddie "Skate" Hunter。游戏故事发生在前作1年之后。

@@ -1,3 +1,6 @@
+> 本文内容由[LOCC](https://zh.wikipedia.org/wiki/LOCC)转换而来。
+
+
 **LOCC** 是 Local Operations（局域操作）and Classical Communications（經典通訊）的縮寫，它是一種用在[量子信息](../Page/量子信息.md "wikilink")上、對量子態進行操作的方法。簡單的說，當一個量子系統被分成許多部份，每個部份的測量和操作只限制在該部分上，各個部分之間允許經典通訊，例如：打電話。許多[量子信息](../Page/量子信息.md "wikilink")的工作必須藉由 **LOCC** 來完成，例如：假設某次實驗室製備了一個，但是卻不能確定這個是 \(|\psi_1\rangle\) 還是 \(|\psi_2\rangle\)，其中 \(|\psi_1\rangle\) 和 \(|\psi_2\rangle\) 是
 
 [LOCC.png](https://zh.wikipedia.org/wiki/File:LOCC.png "fig:LOCC.png")

@@ -1,3 +1,6 @@
+> 本文内容由[馬自達CX-4](https://zh.wikipedia.org/wiki/馬自達CX-4)转换而来。
+
+
 **馬自達CX-4**（）乃2016年由[日本](../Page/日本.md "wikilink")[馬自達開發](https://zh.wikipedia.org/wiki/馬自達 "wikilink")、[中國](../Page/中國.md "wikilink")[一汽馬自達組裝製造的五人座緊湊型](../Page/中国第一汽车集团.md "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，目前只限定中國市場販售。雖然車身尺碼與[馬自達CX-5](../Page/馬自達CX-5.md "wikilink")接近，但降低車高後外觀更接近[轎跑](../Page/轎跑車.md "wikilink")[休旅車](../Page/运动型多用途车.md "wikilink")。
 
 ## 概要

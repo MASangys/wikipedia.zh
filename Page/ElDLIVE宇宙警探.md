@@ -1,3 +1,6 @@
+> 本文内容由[ElDLIVE宇宙警探](https://zh.wikipedia.org/wiki/ElDLIVE宇宙警探)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[天野明](../Page/天野明.md "wikilink")所畫的[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。於2013年起在[集英社](../Page/集英社.md "wikilink")旗下雜誌《[Jump LIVE](../Page/週刊少年Jump的增刊號.md "wikilink")》和《少年Jump+》上連載。台灣由《寶島少年EX》創刊號開始連載。2016年3月3日公佈其作品將會動畫化，並於2017年1月至3月內播放\[1\]。
 
 ## 作品簡介

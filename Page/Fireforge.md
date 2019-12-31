@@ -1,3 +1,6 @@
+> 本文内容由[Fireforge](https://zh.wikipedia.org/wiki/Fireforge)转换而来。
+
+
 **Fireforge**，是[美国](../Page/美国.md "wikilink")一家游戏公司，于2011年成立，于2016年申请破产。\[1\]
 
 ## 简介

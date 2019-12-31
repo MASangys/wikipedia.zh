@@ -1,3 +1,6 @@
+> 本文内容由[卡西歐 fx-570ES PLUS](https://zh.wikipedia.org/wiki/卡西歐 fx-570ES PLUS)转换而来。
+
+
 **卡西歐 fx-570ES PLUS**是一款由卡西歐推出的科學函數計算器，為卡西歐 fx-570ES的改進型號。
 
 本型號與[卡西歐 fx-991ES PLUS功能完全相同](../Page/卡西歐_fx-991ES_PLUS.md "wikilink")，僅為供電方式、尺寸和質量的分別。fx-991ES PLUS使用內置的大陽能電池以及一粒LR44電池，尺寸較小而質量較小。本型號使用一粒AAA電池，尺寸較大而質量較大。

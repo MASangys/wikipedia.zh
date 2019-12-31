@@ -1,3 +1,6 @@
+> 本文内容由[LeCroy](https://zh.wikipedia.org/wiki/LeCroy)转换而来。
+
+
 **LeCroy公司**（LeCroy Corporation）是美國製造[示波器](../Page/示波器.md "wikilink")、及其他設備的廠商\[1\]。現在LeCroy公司是（Teledyne Technologies）的一家子公司\[2\]。
 
 ## 歷史

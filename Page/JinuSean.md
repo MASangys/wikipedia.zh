@@ -1,3 +1,6 @@
+> 本文内容由[JinuSean](https://zh.wikipedia.org/wiki/JinuSean)转换而来。
+
+
 **JinuSean**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG Entertainment推出的嘻哈團體](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，成員包括Jinu、Sean。 用當時非主流的嘻哈音樂打動當時韓國粉絲的心而造成轟動，現在為[YG Entertainment理事](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")。
 
 ## 成員資料

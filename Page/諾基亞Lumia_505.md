@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Lumia 505](https://zh.wikipedia.org/wiki/諾基亞Lumia 505)转换而来。
+
+
 **諾基亞Lumia 505**\[1\]\[2\] 是[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")2012年11月Lumia 505在[墨西哥](../Page/墨西哥.md "wikilink")發表的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。搭載[Windows Phone 7.8](https://zh.wikipedia.org/wiki/Windows_Phone_7.8 "wikilink") 作業系統。
 
 ## 參見

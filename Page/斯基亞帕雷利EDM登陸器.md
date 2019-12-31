@@ -1,3 +1,6 @@
+> 本文内容由[斯基亞帕雷利EDM登陸器](https://zh.wikipedia.org/wiki/斯基亞帕雷利EDM登陸器)转换而来。
+
+
 technology demonstrator | operator = [ESA](https://zh.wikipedia.org/wiki/European_Space_Agency "wikilink"){{·}}[俄羅斯聯邦航天局](https://zh.wikipedia.org/wiki/俄羅斯聯邦航天局 "wikilink") | COSPAR_ID = 2016-017A | SATCAT = 41388 | website =  | mission_duration = Planned: 2 to 8 [sols](https://zh.wikipedia.org/wiki/Timekeeping_on_Mars#Sol "wikilink")\[1\]
 
 | manufacturer = [Thales Alenia Space](https://zh.wikipedia.org/wiki/Thales_Alenia_Space "wikilink") | launch_mass =  | landing_mass = | dimensions = Diameter:

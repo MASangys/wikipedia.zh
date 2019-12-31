@@ -1,3 +1,6 @@
+> 本文内容由[SKYWORLD 蒼穹境界](https://zh.wikipedia.org/wiki/SKYWORLD 蒼穹境界)转换而来。
+
+
 是[瀬尾つかさ所著的](https://zh.wikipedia.org/wiki/瀬尾つかさ "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[武藤此史負責插畫](https://zh.wikipedia.org/wiki/武藤此史 "wikilink")。[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")出版\[1\]。2014年2月漫畫版由負責並在《[月刊Dragon Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")》連載，同年11月漫畫版完結\[2\]。中文版小說與漫畫皆為台灣[東立出版社](../Page/東立出版社.md "wikilink")代理出版\[3\]。
 
 本書在日本銷售成績十分亮眼，出版第一集首週就進入[Oricon文庫排行榜前](https://zh.wikipedia.org/wiki/Oricon文庫 "wikilink")50名\[4\]。

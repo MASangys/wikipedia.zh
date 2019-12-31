@@ -1,3 +1,6 @@
+> 本文内容由[Battle Spirits Double Drive](https://zh.wikipedia.org/wiki/Battle Spirits Double Drive)转换而来。
+
+
 《**Battle Spirits Double Drive**》（），是日本第八部改編自[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")「[Battle Spirits](../Page/Battle_Spirits.md "wikilink")」的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。於2016年4月6日開始在[東京電視台](../Page/東京電視台.md "wikilink")等逢星期三17:55－18:25播出。
 
 ## 概要

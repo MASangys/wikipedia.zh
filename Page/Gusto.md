@@ -1,3 +1,6 @@
+> 本文内容由[Gusto](https://zh.wikipedia.org/wiki/Gusto)转换而来。
+
+
 **Gusto**（原名**ZenPayroll**）是一所[美国](../Page/美国.md "wikilink")薪酬计算公司。Gusto的服务覆盖了美国的50个州。\[1\]
 
 ## 发展历史

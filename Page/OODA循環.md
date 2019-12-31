@@ -1,3 +1,6 @@
+> 本文内容由[OODA循環](https://zh.wikipedia.org/wiki/OODA循環)转换而来。
+
+
 **OODA循環**（），也被稱為**柏伊德循環**（），由美國空軍上校提出的[決策方法](https://zh.wikipedia.org/wiki/決策 "wikilink")。這個方法是一個循環，由觀察（），調整（），決定（），與行動（）組成，反覆進行。這個方法最早應用於[戰鬥機飛行員的訓練](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，作為交戰程序之一，進而成為[軍事戰略](../Page/軍事戰略.md "wikilink")的一部份。後來也被應用於訴訟、商業等領域中。
 
 ## 概論

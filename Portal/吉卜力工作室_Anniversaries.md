@@ -1,3 +1,6 @@
+> 本文内容由[Portal:吉卜力工作室/Anniversaries](https://zh.wikipedia.org/wiki/Portal:吉卜力工作室/Anniversaries)转换而来。
+
+
 ## 每月纪念日
 
   -

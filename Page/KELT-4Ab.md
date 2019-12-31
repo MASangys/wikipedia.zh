@@ -1,3 +1,6 @@
+> 本文内容由[KELT-4Ab](https://zh.wikipedia.org/wiki/KELT-4Ab)转换而来。
+
+
 **KELT-4Ab**是一顆環繞恆星系統KELT-4中的成員星KELT-4A的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距離地球大約，在天球上位於[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")\[1\]。該行星是由 （Kilodegree Extremely Little Telescope，縮寫 KELT，暫譯）發現。
 
 ## 概要

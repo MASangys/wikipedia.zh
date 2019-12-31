@@ -1,3 +1,6 @@
+> 本文内容由[煙起的地方Pucevuljan](https://zh.wikipedia.org/wiki/煙起的地方Pucevuljan)转换而来。
+
+
 《**煙起的地方 pucevuljan**》（[排灣語](../Page/排灣語.md "wikilink")：），2017年[原住民族電視台](https://zh.wikipedia.org/wiki/原住民族電視台 "wikilink")[電視電影](../Page/電視電影.md "wikilink")。由[琇琴](../Page/琇琴.md "wikilink")、[葉瑋庭](https://zh.wikipedia.org/wiki/葉瑋庭 "wikilink")、[千苡桐](../Page/千苡桐.md "wikilink")領銜主演。\[1\]\[2\]故事描述部落青年外流，造成靈媒文化中斷無法傳承。\[3\] 2016年9月7日開鏡，2017年4月16日上檔。
 
 ## 播出時間

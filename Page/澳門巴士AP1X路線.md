@@ -1,3 +1,6 @@
+> 本文内容由[澳門巴士AP1X路線](https://zh.wikipedia.org/wiki/澳門巴士AP1X路線)转换而来。
+
+
 **澳門巴士AP1X路線**是一條由**[澳門新福利公共汽車有限公司](../Page/澳門新福利公共汽車有限公司.md "wikilink")**經營，往返**[關閘](../Page/關閘廣場_\(巴士站\).md "wikilink")**和**[澳門機場](https://zh.wikipedia.org/wiki/澳門機場總站 "wikilink")**的循環快速巴士路線。
 
 ## 簡介及歷史

@@ -1,3 +1,6 @@
+> 本文内容由[DNCE](https://zh.wikipedia.org/wiki/DNCE)转换而来。
+
+
 **DNCE**是一個來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")樂團。樂團的成員包括了[喬·強納斯](../Page/喬·強納斯.md "wikilink")、[Jack Lawless](https://zh.wikipedia.org/wiki/Jack_Lawless "wikilink")、[Jinjoo Lee](https://zh.wikipedia.org/wiki/Jinjoo_Lee "wikilink")、[Cole Whittle](https://zh.wikipedia.org/wiki/Cole_Whittle "wikilink")。 2015年，樂團和簽約並發行他們的第一支單曲""，這首歌在各個領域都有很好的成績，也在[告示牌百強單曲榜](https://zh.wikipedia.org/wiki/告示牌百強單曲榜 "wikilink")（[Billboard Hot 100](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")）達到第9名的成績。他們的首張EP，在發行後更廣受好評。他們同時也獲得2016年青少年選擇獎（）的最受歡迎新人獎提名，以及2016年迪士尼電台音樂獎（）的最受歡迎新人、最適合對嘴歌曲和最夯歌曲的提名。
 
 ## 經歷

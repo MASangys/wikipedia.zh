@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM創戰者角色列表](https://zh.wikipedia.org/wiki/GUNDAM創戰者角色列表)转换而来。
+
+
 **GUNDAM創戰者角色列表**列舉了在日本動畫《[GUNDAM創戰者](../Page/GUNDAM創戰者.md "wikilink")》登場的角色。
 
 ## 第一季（GBF）

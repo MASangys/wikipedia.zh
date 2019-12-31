@@ -1,3 +1,6 @@
+> 本文内容由[達人Show](https://zh.wikipedia.org/wiki/達人Show)转换而来。
+
+
 《**達人Show**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")的第二張國語個人音樂大碟，於2004年10月22日推出。
 
 ## 專輯曲目

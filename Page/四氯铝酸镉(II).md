@@ -1,3 +1,6 @@
+> 本文内容由[四氯铝酸镉\(II\)](https://zh.wikipedia.org/wiki/四氯铝酸镉\(II\))转换而来。
+
+
 **四氯铝酸镉(II)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，[化学式](../Page/化学式.md "wikilink")为Cd(AlCl<sub>4</sub>)<sub>2</sub>，其中镉为+2价。
 
 ## 制备

@@ -1,3 +1,6 @@
+> 本文内容由[Coming Home \(G.Soul迷你專輯\)](https://zh.wikipedia.org/wiki/Coming Home \(G.Soul迷你專輯\))转换而来。
+
+
 《**Coming Home**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul](../Page/G.Soul.md "wikilink")的出道迷你專輯，於2015年1月19日發行，主打曲為〈You〉。
 
 ## 概要

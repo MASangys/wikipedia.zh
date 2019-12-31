@@ -1,3 +1,6 @@
+> 本文内容由[1st ATTACK at SHIBUYA-AX](https://zh.wikipedia.org/wiki/1st ATTACK at SHIBUYA-AX)转换而来。
+
+
 『**1st ATTACK at SHIBUYA-AX**』是[日本](../Page/日本.md "wikilink")團體[AAA在](../Page/AAA_\(團體\).md "wikilink")2006年3月23日發售的第一個影像作品。
 
 ## 概要

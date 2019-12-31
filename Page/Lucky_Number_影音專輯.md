@@ -1,3 +1,6 @@
+> 本文内容由[Lucky Number 影音專輯](https://zh.wikipedia.org/wiki/Lucky Number 影音專輯)转换而来。
+
+
 《**Lucky Number 影音專輯**》（）是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第三張[影音專輯](../Page/音樂錄影帶.md "wikilink")，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2002年3月21日發行。該專輯內容包括專輯《[Lucky Number](../Page/Lucky_Number.md "wikilink")》中的歌曲的9支音樂錄影帶與6支電視廣告\[1\]。
 
 ## 曲目

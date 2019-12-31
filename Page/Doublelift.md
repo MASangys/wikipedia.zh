@@ -1,3 +1,6 @@
+> 本文内容由[Doublelift](https://zh.wikipedia.org/wiki/Doublelift)转换而来。
+
+
 **彭亦亮**（，），以遊戲代號**Doublelift**著名，是一位[美國職業](https://zh.wikipedia.org/wiki/美國 "wikilink")《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》[射手](https://zh.wikipedia.org/wiki/多人線上戰鬥競技場遊戲 "wikilink")，目前效力於。他也曾在和[Team SoloMid擔任選手](../Page/Team_SoloMid.md "wikilink")。他是北美地區中的資深選手，多次登上[英雄聯盟全球總決賽舞台](https://zh.wikipedia.org/wiki/英雄聯盟全球總決賽 "wikilink")。他所著名的英雄角色為汎，由於其操作行雲流水，且在比賽中屢次極限操作的表現，添加了不少他的傳奇色彩，除了擁有北美第一AD的美名外，也擁有「汎神」的稱號。他的「大師兄」外號由來是因為曾經在一次採訪中表示：「在座的各位都是垃圾」。與周星馳電影《[破壞之王](https://zh.wikipedia.org/wiki/破壞之王 "wikilink")》中的斷水流大師兄不約而同，從此許多玩家都稱他為大師兄。另外，其代號Doublelift來自一個撲克牌戲法的基本技巧，取這名字是因為彭亦亮對魔術感興趣\[1\]。
 
 ## 個人生涯

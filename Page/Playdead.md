@@ -1,3 +1,6 @@
+> 本文内容由[Playdead](https://zh.wikipedia.org/wiki/Playdead)转换而来。
+
+
 **Playdead**是一家成立于2006年的[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")，公司位于[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")。其开发的首款游戏《[地狱边境](../Page/地狱边境.md "wikilink")》获得了业界的高度评价。
 
 2016年7月，创始人之一的Dino Patti离开Playdead，并在之后成立了新的游戏公司Jumpship。\[1\]

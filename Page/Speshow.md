@@ -1,3 +1,6 @@
+> 本文内容由[Speshow](https://zh.wikipedia.org/wiki/Speshow)转换而来。
+
+
 《**Speshow**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")的第四張國語個人音樂大碟，於2006年11月17日推出。
 
 ## 專輯曲目

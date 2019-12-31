@@ -1,3 +1,6 @@
+> 本文内容由[女神异闻录Persona](https://zh.wikipedia.org/wiki/女神异闻录Persona)转换而来。
+
+
 是一款由[Atlus](../Page/Atlus.md "wikilink")制作和发行的[角色扮演类游戏](https://zh.wikipedia.org/wiki/角色扮演类游戏 "wikilink")\[1\]，副標題為「Be Your True Mind」。《[女神异闻录系列](https://zh.wikipedia.org/wiki/女神异闻录系列 "wikilink")》的首作。本游戏于1996年9月20日在日本地区[PlayStation首先发行](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")。\[2\]
 
 本作是角色扮演类游戏，玩家在其中控制一些高校学生。

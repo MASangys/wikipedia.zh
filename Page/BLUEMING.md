@@ -1,3 +1,6 @@
+> 本文内容由[BLUEMING](https://zh.wikipedia.org/wiki/BLUEMING)转换而来。
+
+
 《**BLUEMING**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第六張韓語迷你專輯，於2016年4月4日發行\[1\]，主打曲目為《美好的你》（）。
 
 ## 背景

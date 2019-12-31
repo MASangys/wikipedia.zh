@@ -1,3 +1,6 @@
+> 本文内容由[B聯賽](https://zh.wikipedia.org/wiki/B聯賽)转换而来。
+
+
 **B聯賽**\[1\]為[日本](../Page/日本.md "wikilink")男子職業[籃球聯賽](https://zh.wikipedia.org/wiki/籃球 "wikilink")，於2016年9月展開首個賽季。\[2\]\[3\]本聯賽由日本職業籃球聯盟營運，為[國際籃總下屬的](https://zh.wikipedia.org/wiki/國際籃總 "wikilink")[日本籃球協會管理的日本籃球聯盟和獨立經營的](https://zh.wikipedia.org/wiki/日本籃球協會 "wikilink")[bJ聯盟合併下形成的](https://zh.wikipedia.org/wiki/bJ聯盟 "wikilink")。該項合併獲得[國際籃總的認可](https://zh.wikipedia.org/wiki/國際籃總 "wikilink")，於2014年9月解除日本籃協的禁賽處分。\[4\]每個球隊60場比賽（30場主場比賽，30場客場比賽）。
 
 ## 隊伍

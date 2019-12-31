@@ -1,3 +1,6 @@
+> 本文内容由[BJ有喜](https://zh.wikipedia.org/wiki/BJ有喜)转换而来。
+
+
 </ref> }} 《**BJ有喜**》（）是一部2016年[浪漫喜劇電影](https://zh.wikipedia.org/wiki/浪漫喜劇 "wikilink")，為執導，[海倫·菲爾丁](https://zh.wikipedia.org/wiki/海倫·菲爾丁 "wikilink")、和[艾瑪·湯普遜撰寫劇本](https://zh.wikipedia.org/wiki/艾瑪·湯普遜 "wikilink")。本片為2004年電影《[BJ單身日記：男人禍水](../Page/BJ單身日記：男人禍水_\(電影\).md "wikilink")》的續集。由[芮妮·齊薇格](https://zh.wikipedia.org/wiki/芮妮·齊薇格 "wikilink")、[柯林·佛斯和](https://zh.wikipedia.org/wiki/柯林·佛斯 "wikilink")[派屈克·丹普西主演](https://zh.wikipedia.org/wiki/派屈克·丹普西 "wikilink")。
 
 正式拍攝於2015年10月2日在[倫敦開拍](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。該片定於2016年9月16日在英國和美國上映，2016年10月5日在法國上映。

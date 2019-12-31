@@ -1,3 +1,6 @@
+> 本文内容由[NC \(复杂度\)](https://zh.wikipedia.org/wiki/NC \(复杂度\))转换而来。
+
+
 在[计算复杂度理论](https://zh.wikipedia.org/wiki/计算复杂度理论 "wikilink")，**NC**（Nick's Class），是一个复杂度类，是能被[并行计算](../Page/并行计算.md "wikilink")机在[多对数函数时间](https://zh.wikipedia.org/wiki/多对数函数 "wikilink")（*[O](../Page/大O符号.md "wikilink")*(log<sup>*c*</sup> *n*)）内以[多项式空间](https://zh.wikipedia.org/wiki/多项式空间 "wikilink")（或者说*[O](../Page/大O符号.md "wikilink")*(*n*<sup>*k*</sup>)并行线程）下解决的[判定问题的集合](https://zh.wikipedia.org/wiki/判定问题 "wikilink")，最先由[史提芬·古克提出](https://zh.wikipedia.org/wiki/史提芬·古克 "wikilink")。\[1\]
 
 正如**[P](https://zh.wikipedia.org/wiki/P_\(复杂度\) "wikilink")**被认为是易解复杂度类一般，**NC**也被认为是在[并行计算](../Page/并行计算.md "wikilink")上易解的问题。\[2\]明显的有**NC ⊆ P**，因为一切并行计算都可以以多项式空间依次的在[确定型图灵机上运行](https://zh.wikipedia.org/wiki/确定型图灵机 "wikilink")。我们目前仍未知道的一个关键问题是，**NC = P**是否成立。大多数的研究人员都认为这是不可能的——否则的话这意味着一切[可计算函数都可以](https://zh.wikipedia.org/wiki/可计算问题 "wikilink")[并行计算](../Page/并行计算.md "wikilink")化。正如**[NP完全](../Page/NP完全.md "wikilink")**对于**[P](https://zh.wikipedia.org/wiki/P "wikilink")**来说是怀疑难解复杂度类一样，**[P完全](../Page/P-完全.md "wikilink")**对于**NC**来说也是“怀疑难解”的。

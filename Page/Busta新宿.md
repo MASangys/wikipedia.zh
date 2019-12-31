@@ -1,3 +1,6 @@
+> 本文内容由[Busta新宿](https://zh.wikipedia.org/wiki/Busta新宿)转换而来。
+
+
 **Busta新宿**（）是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[新宿站南口的](https://zh.wikipedia.org/wiki/新宿站 "wikilink")[大眾運輸](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")[轉運設施](../Page/公共運輸交匯處.md "wikilink")，主要為提供與集中新宿站周圍的高速巴士（[長途巴士](../Page/城際巴士.md "wikilink")）、[計程車搭乘站點而建造](https://zh.wikipedia.org/wiki/計程車 "wikilink")\[1\]。正式名稱為**新宿南口交通總站**（）\[2\]。2016年4月4日啟用\[3\]，是日本最大的[巴士總站](https://zh.wikipedia.org/wiki/巴士總站 "wikilink")\[4\]。
 
 ## 概要

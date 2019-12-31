@@ -1,3 +1,6 @@
+> 本文内容由[CRIME](https://zh.wikipedia.org/wiki/CRIME)转换而来。
+
+
 **CRIME**（，意思为：压缩率使信息容易泄露）是一种[可攻击安全隐患](https://zh.wikipedia.org/wiki/Exploit "wikilink")（Exploit），通过它可窃取启用[数据压缩](../Page/数据压缩.md "wikilink")特性的[HTTPS或](../Page/超文本传输安全协议.md "wikilink")[SPDY](../Page/SPDY.md "wikilink")协议传输的私密[Web Cookie](../Page/Cookie.md "wikilink")。\[1\]\[2\]在成功解读[身份验证Cookie后](https://zh.wikipedia.org/wiki/身份验证Cookie "wikilink")，攻击者可以实行[会话劫持和发动进一步攻击](https://zh.wikipedia.org/wiki/会话劫持 "wikilink")。CRIME被分配为CVE-2012-4929。\[3\]
 
 ## 细节

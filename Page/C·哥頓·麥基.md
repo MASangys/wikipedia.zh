@@ -1,3 +1,6 @@
+> 本文内容由[C·哥頓·麥基](https://zh.wikipedia.org/wiki/C·哥頓·麥基)转换而来。
+
+
 **查爾斯·哥頓·史超域·麥基**（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[遠東](../Page/遠東.md "wikilink")[商人](../Page/商人.md "wikilink")和[政治家](../Page/政治家.md "wikilink")，1927年至1935年任[仁記洋行](../Page/仁記洋行.md "wikilink")[香港](../Page/香港.md "wikilink")[董事總經理](https://zh.wikipedia.org/wiki/董事總經理 "wikilink")。
 
 麥基1901年由[蘇格蘭](../Page/蘇格蘭.md "wikilink")前往香港，加入仁記洋行任職助理。1912年，他升任司理，並長駐[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，及後進一步成為仁記的上海董事總經理。仁記洋行是遠東當時主要的貿易公司之一，除了從事一般商品貿易和船運，也負責代理和代辦多家公司的在華業務。透過在仁記的工作，麥基得以兼任多家公司的董事職務，1927年從上海調返香港以後，他還兼任[香港電燈公司主席一職](https://zh.wikipedia.org/wiki/香港電燈公司 "wikilink")，並兩度當選[香港上海匯豐銀行主席](https://zh.wikipedia.org/wiki/香港上海匯豐銀行 "wikilink")。此外，仁記與[鐵行火船公司在](https://zh.wikipedia.org/wiki/鐵行火船公司 "wikilink")1923年開展合作關係後，麥基也獲委任為鐵行在香港和上海的合夥人。

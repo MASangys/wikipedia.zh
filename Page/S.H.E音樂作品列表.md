@@ -1,3 +1,6 @@
+> 本文内容由[S.H.E音樂作品列表](https://zh.wikipedia.org/wiki/S.H.E音樂作品列表)转换而来。
+
+
 本條目為列舉[臺灣](../Page/臺灣.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")的各種音樂作品列表專頁，本專頁包含了各種專輯、原聲帶、單曲、合唱歌曲，以及歌曲的創作和製作。該團體迄今共發行十一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、兩張[精選專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")、5張[現場專輯](../Page/現場專輯.md "wikilink")（含數位發行）、10張[影音專輯與一張](../Page/音樂錄影帶.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")\[1\]。
 
 ## 歷史

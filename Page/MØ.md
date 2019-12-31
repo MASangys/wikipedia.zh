@@ -1,3 +1,6 @@
+> 本文内容由[MØ](https://zh.wikipedia.org/wiki/MØ)转换而来。
+
+
 [DJ Snake](https://zh.wikipedia.org/wiki/DJ_Snake "wikilink")\[1\] | website =  }}
 
 **卡伦·玛丽·奥高·厄斯泰兹·安诺生**（，发音：\[kaʁn maʁij ogɔʁ ɶɐ̯sdɛð ˈɑnɐsn̩\]，），又名**卡伦·玛丽·厄斯泰兹**（），艺名**MØ**（发音：\[møːˀ\]），丹麦创作型歌手，[索尼音乐娱乐签约艺人](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。MØ被比作和之流的[电子流行乐艺人](https://zh.wikipedia.org/wiki/电子流行乐 "wikilink")\[2\]。MØ除了是她的中间名和姓的首字母缩写，在[丹麦语](../Page/丹麦语.md "wikilink")中有“[处女](../Page/处女.md "wikilink")”的意思\[3\]。她的首张录音室专辑《》于2014年3月发行\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Apink影視作品列表](https://zh.wikipedia.org/wiki/Apink影視作品列表)转换而来。
+
+
 這是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")**[Apink](../Page/Apink.md "wikilink")**的影視作品列表，包括參與演出的電視劇、音樂劇、電影、網絡劇、綜藝節目、廣播節目及音樂錄影帶等。
 
 ## 電視劇

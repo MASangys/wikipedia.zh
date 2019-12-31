@@ -1,3 +1,6 @@
+> 本文内容由[Altiapa](https://zh.wikipedia.org/wiki/Altiapa)转换而来。
+
+
 ***Altiapa***是[眼蝶亞科](../Page/眼蝶亞科.md "wikilink")[眼蝶族](../Page/眼蝶族.md "wikilink")[珍眼蝶亞族](../Page/珍眼蝶亞族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於[新畿內亞](https://zh.wikipedia.org/wiki/新畿內亞 "wikilink")。Parsons (1999)將此屬的物種從[扁眼蝶屬](../Page/扁眼蝶屬.md "wikilink")分離出\[1\]。
 
 ## 物種

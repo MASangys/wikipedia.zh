@@ -1,3 +1,6 @@
+> 本文内容由[Google助理](https://zh.wikipedia.org/wiki/Google助理)转换而来。
+
+
 **Google助理**（）是[Google](../Page/Google.md "wikilink")开发的[智慧型個人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，于2016年5月在[Google I/O发布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。与[Google即时](../Page/Google即时.md "wikilink")不同，Google助理可以参与双向对话。Google助理目前被集成在[Allo应用](../Page/Google_Allo.md "wikilink")、设备、[Android Nougat或以上的設備](../Page/Android_Nougat.md "wikilink")、[Pixelbook](../Page/Google_Pixelbook.md "wikilink")、[Wear OS](../Page/Wear_OS.md "wikilink")、[Android TV](../Page/Android_TV.md "wikilink")、[iOS和](../Page/IOS.md "wikilink")[Android Auto](../Page/Android_Auto.md "wikilink")。
 
 ## 历史

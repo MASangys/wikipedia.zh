@@ -1,3 +1,6 @@
+> 本文内容由[机动战士钢弹UC登场机体列表](https://zh.wikipedia.org/wiki/机动战士钢弹UC登场机体列表)转换而来。
+
+
 本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM UC](../Page/機動戰士GUNDAM_UC.md "wikilink")》及其外傳的登場機體。
 
 ## UC計劃系列機

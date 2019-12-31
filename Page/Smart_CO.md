@@ -1,3 +1,6 @@
+> 本文内容由[Smart CO](https://zh.wikipedia.org/wiki/Smart CO)转换而来。
+
+
 **Smart CO**（）网络传统CO机房多种接入和汇聚设备并存（[交换机](https://zh.wikipedia.org/wiki/交换机 "wikilink")、[路由器](../Page/路由器.md "wikilink")、[传输等等](https://zh.wikipedia.org/wiki/传输 "wikilink")），随着业务的多样性，设备种类更加繁多，管理维护复杂困难。**Smart CO**是指CO机房智能化，通过一个[路由器](../Page/路由器.md "wikilink")设备汇聚所有业务及接口类型，同时，该路由器还具有BNG、虚拟化、增值业务等能力，适用于城域网瘦身，网络简化，综合承载（FMC）等多种业务场景，真正实现了CO站点的带宽汇聚、用户汇聚、业务汇聚，成为最佳体验承载网的起点\[1\]。
 
 ## 应用场景

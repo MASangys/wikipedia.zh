@@ -1,3 +1,6 @@
+> 本文内容由[Brand New Days](https://zh.wikipedia.org/wiki/Brand New Days)转换而来。
+
+
 《**Brand New Days**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂團體](https://zh.wikipedia.org/wiki/女子音樂團體 "wikilink")[Apink](../Page/Apink.md "wikilink")的第五張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2016年3月23日在[日本](../Page/日本.md "wikilink")發行。
 
 ## 概要

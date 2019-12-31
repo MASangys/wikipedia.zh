@@ -1,3 +1,6 @@
+> 本文内容由[Microvision](https://zh.wikipedia.org/wiki/Microvision)转换而来。
+
+
 **Microvision**是首部使用可更換卡帶的掌上遊戲機，由（Milton Bradley）於1979年11月發售，售價為51.25[美元](../Page/美元.md "wikilink")\[1\]。由於其可攜帶性及使用卡帶為媒介，在發售初期獲得不俗的成績。但是，由於遊戲數量過少、螢幕太細及缺乏遊戲公司的支援，導致它於1981年停止發售。
 
 ## 簡介

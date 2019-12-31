@@ -1,3 +1,6 @@
+> 本文内容由[KEYABINGO!](https://zh.wikipedia.org/wiki/KEYABINGO!)转换而来。
+
+
 《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46](../Page/櫸坂46.md "wikilink")冠名演出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台](../Page/日本電視台.md "wikilink")製播，節目主持人由[搞笑藝人](../Page/搞笑藝人.md "wikilink")[三明治人](../Page/三明治人.md "wikilink")擔任。自2016年首次推出以來已播出4[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
 
 ## 概要

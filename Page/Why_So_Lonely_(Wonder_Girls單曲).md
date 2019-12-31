@@ -1,3 +1,6 @@
+> 本文内容由[Why So Lonely \(Wonder Girls單曲\)](https://zh.wikipedia.org/wiki/Why So Lonely \(Wonder Girls單曲\))转换而来。
+
+
 《**Why So Lonely**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Wonder Girls的第四張單曲專輯](../Page/Wonder_Girls.md "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年7月5日發行。
 
 ## 發行

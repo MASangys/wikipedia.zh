@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Suzulight](https://zh.wikipedia.org/wiki/鈴木Suzulight)转换而来。
+
+
 [Suzuki_Suzulight_01.jpg](https://zh.wikipedia.org/wiki/File:Suzuki_Suzulight_01.jpg "fig:Suzuki_Suzulight_01.jpg") **鈴木Suzulight**（）乃是[日本](../Page/日本.md "wikilink")鈴木汽車工業（，[鈴木公司前身](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）自1955年至1968年間開發生產的[輕型車](../Page/輕型車.md "wikilink")，此為該公司跨入[汽車製造業的開業作](https://zh.wikipedia.org/wiki/汽車 "wikilink")，亦是日本車壇[前輪驅動國產車的鼻祖](https://zh.wikipedia.org/wiki/前輪驅動 "wikilink")\[1\]。關於車名「Suzulight」，「Suzu」為「鈴」之日語發音，「light」即意為「光明」\[2\]。2008年此車款獲選為日本汽車名人堂（）歷史車款，同時主導開發者[稻川誠一亦被選入名人堂](../Page/稻川誠一_\(企業家\).md "wikilink")\[3\]。
 
 ## 歷史

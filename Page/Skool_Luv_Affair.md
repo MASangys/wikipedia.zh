@@ -1,3 +1,6 @@
+> 本文内容由[Skool Luv Affair](https://zh.wikipedia.org/wiki/Skool Luv Affair)转换而来。
+
+
 《**Skool Luv Affair**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的第二張韓語迷你專輯\[1\]，為「學校三部曲」系列專輯的第三部曲，談述青少年們的愛情。2014年2月12日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打歌為〈상남자（Boy In Luv）〉，後續曲為〈하루만（Just One Day）〉。
 
 ## 簡介

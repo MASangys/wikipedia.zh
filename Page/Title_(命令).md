@@ -1,3 +1,6 @@
+> 本文内容由[Title \(命令\)](https://zh.wikipedia.org/wiki/Title \(命令\))转换而来。
+
+
 在[计算机领域中](https://zh.wikipedia.org/wiki/计算机 "wikilink")，**`title`**[命令是更改图形版](../Page/命令_\(计算机\).md "wikilink")[终端模拟器窗口标题的命令](https://zh.wikipedia.org/wiki/终端模拟器 "wikilink")，存在于各种[命令行解释器](../Page/命令行界面.md "wikilink")（[殼層](../Page/殼層.md "wikilink")）中，例如[Windows命令提示字元](../Page/命令提示字元.md "wikilink")、[Windows Embedded](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink") CE的命令处理器壳层\[1\]，以及软件\[2\]。该命令在和中被用于更改当前[驱动器的光盘标题](https://zh.wikipedia.org/wiki/碟盤存儲 "wikilink")。\[3\]
 
 在Windows命令提示符中，它是一个[`cmd.exe`](../Page/命令提示字元.md "wikilink")的[殼層內建指令](https://zh.wikipedia.org/wiki/殼層內建指令 "wikilink")。\[4\]默认的窗口标题定义在[环境变量](../Page/环境变量.md "wikilink")。\[5\]不过，自从[Win32控制台](../Page/Win32控制台.md "wikilink")的标题可以在程序的[快捷方式中定义](https://zh.wikipedia.org/wiki/快捷方式 "wikilink")，该标题通常被设置为“命令提示符”。此命令在[Windows 2000及之后版本中可用](../Page/Windows_2000.md "wikilink")。\[6\]

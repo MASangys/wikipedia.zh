@@ -1,3 +1,6 @@
+> 本文内容由[Viva \(謝霆鋒專輯\)](https://zh.wikipedia.org/wiki/Viva \(謝霆鋒專輯\))转换而来。
+
+
 《**VIVA**》是[謝霆鋒](../Page/謝霆鋒.md "wikilink")的第十張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2000年11月推出。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Note 7](https://zh.wikipedia.org/wiki/三星Galaxy Note 7)转换而来。
+
+
 **三星Galaxy Note 7**是[三星電子](../Page/三星電子.md "wikilink")於2016年推出的[平板式](https://zh.wikipedia.org/wiki/平板手機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，于[美國東部時間](https://zh.wikipedia.org/wiki/美國東部時間 "wikilink")2016年8月2日的[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")「Galaxy unpacked 2016」發布會，將此手機連同第二代Samsung Gear VR向全球發布，並隨即進行預售。\[1\]其前代型號為[Galaxy Note 5](https://zh.wikipedia.org/wiki/Galaxy_Note_5 "wikilink")，跳過「6」而直接推出「7」是由於三星希望將Galaxy Note與Galaxy S兩系列往後能「世代一致」，即同一年推出同一世代兩款手機，免卻消費者因兩部手機「同年推出，不同代號」而衍生疑惑。
 
 然而，因本産品於世界各地連番引發爆炸事故，三星最終決定作全球回收並停止生産，宣傳也全面下架，實際上本產品已經被三星放棄，並為三星業績以至[大韓民國經濟造成骨牌效應](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。而後調查結果是Galaxy Note 7的爆炸原因在於電池與組件之間過於緊密所造成。

@@ -1,3 +1,6 @@
+> 本文内容由[TrySail](https://zh.wikipedia.org/wiki/TrySail)转换而来。
+
+
 **Trysail**（\[1\]）是[Music Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
 
 ## 概要

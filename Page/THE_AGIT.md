@@ -1,3 +1,6 @@
+> 本文内容由[THE AGIT](https://zh.wikipedia.org/wiki/THE AGIT)转换而来。
+
+
 [SM娱乐演唱會品牌系列](https://zh.wikipedia.org/wiki/SM娱乐 "wikilink")《**THE AGIT**》的命名取自於「為SM的藝人們專門準備的用來招待歌迷的秘密活動指揮部（Agitpunkt的縮略）」。
 
 演唱會在輕量型公演場、[首爾](../Page/首爾.md "wikilink")三成洞SMTOWN COEX SMTOWN THEATRE舉行，SM旗下的藝術家們以特別的概念展開接力演出。

@@ -1,3 +1,6 @@
+> 本文内容由[Chef～三星級營養午餐～](https://zh.wikipedia.org/wiki/Chef～三星級營養午餐～)转换而来。
+
+
 ，為2016年10月起毎週四晚間10:00－10:54於[富士電視台](../Page/富士電視台.md "wikilink")聯播網的「[富士電視台週四連續劇](https://zh.wikipedia.org/wiki/富士電視台週四連續劇 "wikilink")」時段播出的連續劇，由[天海祐希](../Page/天海祐希.md "wikilink")主演\[1\]。
 
 ## 故事概要

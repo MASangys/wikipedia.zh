@@ -1,3 +1,6 @@
+> 本文内容由[TWICE音樂作品列表](https://zh.wikipedia.org/wiki/TWICE音樂作品列表)转换而来。
+
+
 **TWICE音樂作品列表**主要列舉[韓國女子組合](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[TWICE歷年發行的各類音樂專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")、影視歌曲及廣告歌曲。
 
 ## 韓語作品

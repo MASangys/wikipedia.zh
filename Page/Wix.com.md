@@ -1,3 +1,6 @@
+> 本文内容由[Wix.com](https://zh.wikipedia.org/wiki/Wix.com)转换而来。
+
+
 [Wix_HQ_2.JPG](https://zh.wikipedia.org/wiki/File:Wix_HQ_2.JPG "fig:Wix_HQ_2.JPG")的總部\]\]
 
 **Wix.com**（）是一個[線上網站建立服務](https://zh.wikipedia.org/wiki/線上 "wikilink")（線上建站服務，website builder），能讓使用者在其網絡上網站編輯器中[拖放工具建立](https://zh.wikipedia.org/wiki/拖放 "wikilink")[HTML5](../Page/HTML5.md "wikilink")網站\[1\]。使用者可在他們的網站編輯器中加入額外的功能，例如社交網絡按鈕、[電子商務功能](https://zh.wikipedia.org/wiki/電子商務 "wikilink")、聯絡表格、電子報及社群論壇等\[2\]。

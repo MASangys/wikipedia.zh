@@ -1,3 +1,6 @@
+> 本文内容由[CocoSori](https://zh.wikipedia.org/wiki/CocoSori)转换而来。
+
+
 **CocoSori**（，）為[MOLE娛樂旗下二人](https://zh.wikipedia.org/wiki/MOLE娛樂 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[Sori和](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Coco兩人組成](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")。
 
 2019年3月6日，公司表示與[Coco解約](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")，實際上解散。

@@ -1,3 +1,6 @@
+> 本文内容由[LIVEhouse.in](https://zh.wikipedia.org/wiki/LIVEhouse.in)转换而来。
+
+
 **LIVEhouse.in**是台灣自製的直播平台，為[愛卡拉的一項服務](https://zh.wikipedia.org/wiki/愛卡拉 "wikilink")，成立於2013年，網站於2014年正式上線，由[程世嘉創辦](https://zh.wikipedia.org/wiki/程世嘉 "wikilink")，總部位於台北市信義區。曾是台灣自製直播平台中規模最大者，然後來使用率下滑，於2018年起不再提供非合作使用者直播，並轉型行銷整合。2019年4月終止服務，業務悉併入愛卡拉的網紅服務[KOL Radar](https://zh.wikipedia.org/wiki/KOL_Radar "wikilink")。
 
 ## 歷史

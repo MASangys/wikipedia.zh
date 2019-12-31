@@ -1,3 +1,6 @@
+> 本文内容由[IG电子竞技俱乐部](https://zh.wikipedia.org/wiki/IG电子竞技俱乐部)转换而来。
+
+
 **iG电子竞技俱乐部**（**Invictus Gaming**）是一家中国[电子竞技](../Page/电子竞技.md "wikilink")俱乐部，成立于2011年。iG目前有《[英雄联盟](../Page/英雄联盟.md "wikilink")》、《[Dota 2](../Page/Dota_2.md "wikilink")》、《[星际争霸II](https://zh.wikipedia.org/wiki/星际争霸II：自由之翼 "wikilink")》以及《[炉石传说](https://zh.wikipedia.org/wiki/炉石传说：魔兽英雄传 "wikilink")》四支分部。
 
 ## 历史

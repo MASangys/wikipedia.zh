@@ -1,3 +1,6 @@
+> 本文内容由[Supinfogame](https://zh.wikipedia.org/wiki/Supinfogame)转换而来。
+
+
 **Supinfogame** 是法国第一个全面致力于电子游戏产业的学校. 位于[Aulnoy-lez-Valenciennes](../Page/欧努瓦莱瓦朗谢讷.md "wikilink"), 是Rubika三个学院之一, 和Supinfocom 与 International School of Design共同组成Rubika.。由商会于2001年奠基创立, Supinfogame 在 [game design](../Page/游戏设计.md "wikilink"), game art, [management](../Page/管理学.md "wikilink") 以及[game programming几个方向训练学生](../Page/游戏编程.md "wikilink")。
 
 每一年，40个通过学院考试的高考生可以开始为期3年的第一轮学业, 有 Management/Game Design 和 Management/Game Art 两个方向. 第二轮教育为拥有 [HND](../Page/英國國家高級文憑.md "wikilink") level的候选生开放 (等同于 Bac+2 or Bac+3). 进入第二轮教育的学生人数分配为： Management/Game Design 25 人, Management/Game Art 20人， Management/Programming16人。

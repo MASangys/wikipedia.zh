@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Spacia](https://zh.wikipedia.org/wiki/鈴木Spacia)转换而来。
+
+
 **鈴木Spacia**（）是2013年起由[日本](../Page/日本.md "wikilink")[鈴木公司開發生產的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，其兄弟車是[馬自達Flair Wagon](../Page/馬自達Flair_Wagon.md "wikilink")。關於車名「Spacia」來自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「space」之自創字，用以強調寬廣的車室空間\[1\]。
 
 ## 歷史與概要

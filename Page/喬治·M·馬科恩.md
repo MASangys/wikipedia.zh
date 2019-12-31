@@ -1,3 +1,6 @@
+> 本文内容由[喬治·M·馬科恩](https://zh.wikipedia.org/wiki/喬治·M·馬科恩)转换而来。
+
+
 **乔治·迈克菲·马科恩**（，，是[馬科恩-賴肖爾表記法](../Page/馬科恩-賴肖爾表記法.md "wikilink")设计者之一，他和[埃德溫·O·賴肖爾共同制订了这套朝鲜语拉丁文字转写法](https://zh.wikipedia.org/wiki/埃德温·赖肖尔 "wikilink")。他是美国传教士乔治·香农·马科恩之子，生于平壤并在韩国接受初等教育。他后于美国南达科他州[休伦学院求学](https://zh.wikipedia.org/wiki/休伦大学 "wikilink")，一年后又转学[罗格斯大学](../Page/罗格斯大学.md "wikilink")。1930年他从[西方学院取得学士学位](https://zh.wikipedia.org/wiki/西方学院 "wikilink")。
 
 马科恩1935年取得文学硕士后，在[加州大學柏克萊分校做毕业工作](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，拿到米尔斯出国奖学金在韩国继续研究。他用了一年制作正式李朝年表并撰写博士论文，并于1941年拿到博士学位。

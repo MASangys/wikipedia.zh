@@ -1,3 +1,6 @@
+> 本文内容由[NTFS重解析点](https://zh.wikipedia.org/wiki/NTFS重解析点)转换而来。
+
+
 **NTFS重解析点**（），微软官方也译-{zh-cn:重分析点、重新解析点、重新分析点;zh-tw:重新分析點、重新剖析點、重新分析指標}-\[1\]，是[NTFS](../Page/NTFS.md "wikilink")文件系统中的一种对象类型。它在[Windows 2000及之后版本中的NTFS](../Page/Windows_2000.md "wikilink") v3.0及以上版本中可用。重解析点提供一种扩展NTFS文件系统的方法。一个重解析点包含一个重解析标签和数据，文件系统过滤器（file system filter）可以按标签解读它。微软提供了几个默认标签，包括[NTFS符号链接](../Page/NTFS符号链接.md "wikilink")、和[NTFS卷挂载点](../Page/NTFS卷挂载点.md "wikilink")。另外，重解析点在Windows 2000的中作为已移动文件的占位符。它还可以作为硬链接，并且不限于同分卷的文件：可以指向任何本地分卷中的目录。\[2\]
 
 ## 设计

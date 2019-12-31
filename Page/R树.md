@@ -1,3 +1,6 @@
+> 本文内容由[R树](https://zh.wikipedia.org/wiki/R树)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:R-tree.svg "fig:右") [右](https://zh.wikipedia.org/wiki/File:RTree-Visualization-3D.svg "fig:右") **R树**是用来做[空间数据存储的](https://zh.wikipedia.org/wiki/空间数据存储 "wikilink")[树状数据结构](../Page/树_\(数据结构\).md "wikilink")。例如给[地理位置](https://zh.wikipedia.org/wiki/地理位置 "wikilink")，[矩形](../Page/矩形.md "wikilink")和[多边形](../Page/多边形.md "wikilink")这类多维数据建立索引。R树是由Antonin Guttman于1984年提出的\[1\]。人们随后发现它在理论和应用方面都非常实用\[2\]。 在现实生活中，R树可以用来存储地图上的空间信息，例如餐馆地址，或者地图上用来构造街道，建筑，湖泊边缘和海岸线的多边形。然后可以用它来回答“查找距离我2千米以内的博物馆”，“检索距离我2千米以内的所有路段”（然后显示在导航系统中）或者“查找（直线距离）最近的加油站”这类问题。R树还可以用来加速使用包括[大圆距离](../Page/大圆距离.md "wikilink")\[3\]在内的各种距离度量方式的[最邻近搜索](../Page/最邻近搜索.md "wikilink")\[4\]。
 
 ## R树的原理

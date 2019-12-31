@@ -1,3 +1,6 @@
+> 本文内容由[Pebble Time系列](https://zh.wikipedia.org/wiki/Pebble Time系列)转换而来。
+
+
 **Pebble Time** 系列由[Pebble](../Page/Pebble.md "wikilink")公司在2015年5月14日发布的智能手表系列。这个系列相对于第一代pebble旧产品新增了彩色e-paper屏幕和麦克风，并在充电口上做出了一系列调整，与之一起发布的还有被称为“Time-optimized”的新系统。\[1\]
 
 在2015年初，pebble公司在[Kickstarter](../Page/Kickstarter.md "wikilink")上筹集资金时，仅49分钟就收到了100万美元，打破了当时的记录。这个项目凭借着78741位众筹者募集的2040万美元，依然保持着[Kickstarter](../Page/Kickstarter.md "wikilink")众筹的最高金额记录。 \[2\]

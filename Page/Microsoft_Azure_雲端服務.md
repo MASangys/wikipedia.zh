@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Azure 雲端服務](https://zh.wikipedia.org/wiki/Microsoft Azure 雲端服務)转换而来。
+
+
 **Microsoft Azure 雲端服務** (Cloud Service) 是 Microsoft Azure 最早開始供應的服務之一，它提供了抽象化的運算資源給雲端應用程式 (Cloud Application) 使用，開發人員可以部署雲端應用程式到 Azure 雲端服務，以獲取所需的執行環境與運算能力，是一種 [PaaS](https://zh.wikipedia.org/wiki/PaaS "wikilink") 服務，而它也是 Azure 供應的 PaaS 服務中彈性最大，客制能力最高的服務。
 
 它也是早期[Azure虛擬機器所使用的邏輯管理單位](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Machine "wikilink")，[Azure虛擬網路的原型](https://zh.wikipedia.org/wiki/Microsoft_Azure_Virtual_Network "wikilink") Azure Connect 服務也是由雲端服務所起，因此它被稱為 Azure 運算與網路服務的源頭也不為過。

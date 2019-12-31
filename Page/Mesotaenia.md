@@ -1,3 +1,6 @@
+> 本文内容由[Mesotaenia](https://zh.wikipedia.org/wiki/Mesotaenia)转换而来。
+
+
 ***Mesotaenia***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[圖蛺蝶族](../Page/圖蛺蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於[墨西哥](../Page/墨西哥.md "wikilink")及[玻利維亞](../Page/玻利維亞.md "wikilink")一帶\[1\]。
 
 ## 物種

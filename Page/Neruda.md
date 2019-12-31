@@ -1,3 +1,6 @@
+> 本文内容由[Neruda](https://zh.wikipedia.org/wiki/Neruda)转换而来。
+
+
 ***Neruda***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[釉蛺蝶亞科](../Page/釉蛺蝶亞科.md "wikilink")[釉蛺蝶族](../Page/釉蛺蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。
 
 ## 語源

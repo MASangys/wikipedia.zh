@@ -1,3 +1,6 @@
+> 本文内容由[Brevioleria](https://zh.wikipedia.org/wiki/Brevioleria)转换而来。
+
+
 ***Brevioleria***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[斑蝶亞科](../Page/斑蝶亞科.md "wikilink")[綃蝶族](../Page/綃蝶族.md "wikilink")中的一個[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")，尚無正式中文學名命名。物種分佈於南美。
 
 ## 物種

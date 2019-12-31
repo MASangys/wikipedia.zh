@@ -1,3 +1,6 @@
+> 本文内容由[模块:Shogi diagram](https://zh.wikipedia.org/wiki/模块:Shogi diagram)转换而来。
+
+
 local p = {} function p.board(frame)
 
 `   local args = frame.args`

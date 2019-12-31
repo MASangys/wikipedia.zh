@@ -1,3 +1,6 @@
+> 本文内容由[鑑識英雄II 正義之戰](https://zh.wikipedia.org/wiki/鑑識英雄II 正義之戰)转换而来。
+
+
 《**鑑識英雄II正義之戰**》（），2019年台灣鑑識劇，由[李昌鈺](../Page/李昌鈺.md "wikilink")、[王識賢](../Page/王識賢.md "wikilink")、[蔡淑臻](../Page/蔡淑臻.md "wikilink")、[周孝安](../Page/周孝安.md "wikilink")、[蔡黃汝](../Page/蔡黃汝.md "wikilink")、[紀培慧](../Page/紀培慧.md "wikilink")、[蘇達](../Page/蘇達.md "wikilink")主演。2016年5月27日開拍，且以[電視電影](../Page/電視電影.md "wikilink")方法拍攝。[愛奇藝台灣站自](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")2019年3月27起，週一至週五晚間8點獨家播出。<ref>[李昌鈺入列《鑑識英雄２》](http://www.chinatimes.com/newspapers/20151106000825-260112)中時電子報. 2015年11月6日
 
 </ref>

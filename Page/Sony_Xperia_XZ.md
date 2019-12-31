@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia XZ](https://zh.wikipedia.org/wiki/Sony Xperia XZ)转换而来。
+
+
 **Sony Xperia XZ**是[索尼](../Page/索尼.md "wikilink")於2016年9月1日正式發表的旗艦手機\[1\]，乃继[Sony Xperia X Performance后所发表的机型](../Page/Sony_Xperia_X_Performance.md "wikilink")。与其一同发布的还有主打小屏的[Sony Xperia X Compact](../Page/Sony_Xperia_X_Compact.md "wikilink")。
 
 XZ搭载5.2吋屏幕、[高通](../Page/高通.md "wikilink")[Snapdragon 820处理器](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")、3GB内存，2300万24mm G鏡頭，支持IP65/68级防水，五轴EIS電子防震，配备指紋感應器和全新的三重影像传感技术。

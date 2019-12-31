@@ -1,3 +1,6 @@
+> 本文内容由[花樣年華 Young Forever](https://zh.wikipedia.org/wiki/花樣年華 Young Forever)转换而来。
+
+
 《**花樣年華 Young Forever**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")的韓語特別專輯，「青春二部曲」系列專輯的收尾作品。2016年5月2日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為〈불타오르네（FIRE）〉。
 
 ## 簡介

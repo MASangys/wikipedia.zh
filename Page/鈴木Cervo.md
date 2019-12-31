@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Cervo](https://zh.wikipedia.org/wiki/鈴木Cervo)转换而来。
+
+
 **鈴木Cervo**（）乃是[日本](../Page/日本.md "wikilink")鈴木汽車工業（今[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1977年至2009年間開發製造的[輕型](../Page/輕型車.md "wikilink")[轎跑車](../Page/轎跑車.md "wikilink")、[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。關於車名「Cervo」，在[義大利語中意指](https://zh.wikipedia.org/wiki/義大利語 "wikilink")[牡鹿](../Page/鹿科.md "wikilink")。
 
 ## 歷史與概要

@@ -1,3 +1,6 @@
+> 本文内容由[LG G Watch](https://zh.wikipedia.org/wiki/LG G Watch)转换而来。
+
+
 **LG G Watch**(代码：W100, 别名：**Dory**)是一款由[LG和](https://zh.wikipedia.org/wiki/LG "wikilink")[Google](../Page/Google.md "wikilink")共同开发与设计，使用[Android Wear的](https://zh.wikipedia.org/wiki/Android_Wear "wikilink")[智能手表](../Page/智能手表.md "wikilink")，并于2014年6月25日发售。G Watch带有一个经过修改以使之更加适应于可穿戴设备的[Android](../Page/Android.md "wikilink")版本，可以和运行Android 4.3以及更高版本的设备使用[蓝牙LE连接](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")。\[1\]
 
 G Watch在2014年于[美国](../Page/美国.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")\[2\] 、[澳大利亚](../Page/澳大利亚.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[德国](../Page/德国.md "wikilink")、[印度](../Page/印度.md "wikilink")、[爱尔兰](../Page/爱尔兰.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")销售。\[3\]

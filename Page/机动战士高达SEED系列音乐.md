@@ -1,3 +1,6 @@
+> 本文内容由[机动战士高达SEED系列音乐](https://zh.wikipedia.org/wiki/机动战士高达SEED系列音乐)转换而来。
+
+
 本列表罗列出与《[机动战士高达SEED](https://zh.wikipedia.org/wiki/机动战士高达SEED "wikilink")》系列作品相关发行的音乐专辑、单曲和角色CD等，并列明艺术家、发行时间和收录内容。
 
 ## 配乐

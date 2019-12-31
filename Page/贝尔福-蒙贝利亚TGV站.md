@@ -1,3 +1,6 @@
+> 本文内容由[贝尔福-蒙贝利亚TGV站](https://zh.wikipedia.org/wiki/贝尔福-蒙贝利亚TGV站)转换而来。
+
+
 **贝尔福-蒙贝利亚TGV站**（），简称**贝尔福TGV站**，是法国的一个高速铁路车站，位于法国[贝尔福地区](../Page/贝尔福地区.md "wikilink")[默鲁市镇范围内](../Page/默鲁_\(贝尔福地区\).md "wikilink")，因靠近[贝尔福](../Page/贝尔福.md "wikilink")和[蒙贝利亚两座城市而得名](../Page/蒙贝利亚尔.md "wikilink")。
 
 ## 位置

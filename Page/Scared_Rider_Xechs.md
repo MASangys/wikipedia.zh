@@ -1,3 +1,6 @@
+> 本文内容由[Scared Rider Xechs](https://zh.wikipedia.org/wiki/Scared Rider Xechs)转换而来。
+
+
 《**Scared Rider Xechs**》是[Red Entertainment在](../Page/Red_Entertainment.md "wikilink")2010年7月1日發售的[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。遊戲分為日常部分與戰鬥部分，以遭到由本能支配的“紅之世界”的生命體侵略的象徵著理性的“青之世界”為舞台，講述在青之世界擔任戰鬥指揮官的主人公與夥伴們的故事。\[1\]
 
 2011年6月23日，本作發售了Fan Disc「**Scared Rider Xechs -STARDUST LOVERS-**」，後於2012年4月26日又將本篇與Fan Disc彙總成一部遊戲移植到了[PlayStation Portable平台](../Page/PlayStation_Portable.md "wikilink")「**Scared Rider Xechs Ⅰ+ FD Portable**」，後又於2015年11月19日推出了PlayStation Vita移植版「**Scared Rider Xechs Rev.**」。\[2\][Android](../Page/Android.md "wikilink")、[iOS平台音樂節奏遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")「**Scared Rider Xechs 青與紅的狂詩曲**」也將在2016年8月上線運營。

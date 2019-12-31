@@ -1,3 +1,6 @@
+> 本文内容由[Millepensee](https://zh.wikipedia.org/wiki/Millepensee)转换而来。
+
+
 **株式會社Millepensee**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2013年年初\[2\]。
 
 ## 概要、沿革

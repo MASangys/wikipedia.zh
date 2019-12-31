@@ -1,3 +1,6 @@
+> 本文内容由[100offer](https://zh.wikipedia.org/wiki/100offer)转换而来。
+
+
 **100offer.com**\[1\]，是一个创新模式下的[互联网](../Page/互联网.md "wikilink")高端[人才招聘平台](https://zh.wikipedia.org/wiki/招聘 "wikilink")，他们的 slogan 是「为最好的互联网人发现更好的 offer」。
 
 ## 模式

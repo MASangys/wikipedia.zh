@@ -1,3 +1,6 @@
+> 本文内容由[Cygames](https://zh.wikipedia.org/wiki/Cygames)转换而来。
+
+
 **株式会社Cygames**（在台註冊譯為**賽傑思**）是[日本](../Page/日本.md "wikilink")的一间游戏开发公司，於2011年成立。以开发[社交网络游戏](../Page/社交网络游戏.md "wikilink")和[手机游戏](../Page/手机游戏.md "wikilink")为主。
 
 ## 历史

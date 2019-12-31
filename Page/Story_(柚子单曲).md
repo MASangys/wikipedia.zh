@@ -1,3 +1,6 @@
+> 本文内容由[Story \(柚子单曲\)](https://zh.wikipedia.org/wiki/Story \(柚子单曲\))转换而来。
+
+
 《**Story**》（）是[日本](../Page/日本.md "wikilink")二人组合[柚子](../Page/柚子_\(組合\).md "wikilink")（ゆず）的第24张单曲。\[1\]2008年2月6日由其所属公司发售。
 
 ## 參考資料

@@ -1,3 +1,6 @@
+> 本文内容由[抗CD3单克隆抗体](https://zh.wikipedia.org/wiki/抗CD3单克隆抗体)转换而来。
+
+
 **抗CD3[单克隆抗体](../Page/单克隆抗体.md "wikilink")**（），是一类[T细胞](../Page/T细胞.md "wikilink")表面CD3的抗体，他们是一类[免疫功能抑制药物](https://zh.wikipedia.org/wiki/免疫功能抑制药物 "wikilink")。
 
 1996年，首批获得批准的药物是，其用于治疗[移植排斥](../Page/移植排斥.md "wikilink")。

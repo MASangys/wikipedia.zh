@@ -1,3 +1,6 @@
+> 本文内容由[Missing9](https://zh.wikipedia.org/wiki/Missing9)转换而来。
+
+
 《**Missing9**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2017年1月18日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")。由《[憤怒的媽媽](../Page/憤怒的媽媽.md "wikilink")》[崔秉吉](../Page/崔秉吉.md "wikilink")導演、吳高美執導與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》孫皇元、文心蘭、周元廣編劇聯手打造的作品。以墜機事故和無人島漂流記為題材，描述了揭開以倖存者的證言為基礎的墜機事故真相，以及隱藏的謎團過程中發生的故事。\[1\]\[2\]
 
 ## 演員陣容

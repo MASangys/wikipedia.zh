@@ -1,3 +1,6 @@
+> 本文内容由[Portal:概率与统计/Intro](https://zh.wikipedia.org/wiki/Portal:概率与统计/Intro)转换而来。
+
+
 <noinclude>{{:/Tabs}} {{:/Box-Header | 概率与统计 主题 |  | Main }}</noinclude>
 
 <div style="float:left;margin-right:1.5em">

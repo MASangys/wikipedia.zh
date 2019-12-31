@@ -1,3 +1,6 @@
+> 本文内容由[BK 5航空機炮](https://zh.wikipedia.org/wiki/BK 5航空機炮)转换而来。
+
+
 **BK 5航空機炮**（）是一門由[納粹德國](../Page/納粹德國.md "wikilink")在[二战後期由](../Page/第二次世界大战.md "wikilink")[莱茵金属](../Page/莱茵金属.md "wikilink")研製及生產的[航空](https://zh.wikipedia.org/wiki/航空机关炮 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，發射50毫米[口徑機炮炮彈](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 納粹德國主要用之以攻擊[盟軍](../Page/同盟國_\(第二次世界大戰\).md "wikilink")[重型](../Page/重型轟炸機.md "wikilink")[轰炸机](../Page/轰炸机.md "wikilink")，尤其是[美國陸軍航空軍](../Page/美國陸軍航空軍.md "wikilink")（USAF）所用的[B-17「空中堡壘」](../Page/B-17轟炸機.md "wikilink")。沉重、大口徑砲彈具有很高的初速，因此具有很高的動量，使它們能夠正好地從轟炸機上搭載的防空槍炮的射程範圍以外遠距離精確射擊，而且每發炮彈內裝的大量爆裂物幾乎保證可以僅僅有一發擊中就毀滅任何一架轟炸機。

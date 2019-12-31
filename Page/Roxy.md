@@ -1,3 +1,6 @@
+> 本文内容由[Roxy](https://zh.wikipedia.org/wiki/Roxy)转换而来。
+
+
 **Roxy**是[Quiksilver旗下的大型女裝品牌](https://zh.wikipedia.org/wiki/Quiksilver "wikilink")，於1990年成立，剛開始只是一個泳裝系列，隨後逐步發展出完整產品線，並特別針對喜愛衝浪或滑雪等戶外運動的女性提供產品。
 
 ## 品牌介紹

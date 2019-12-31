@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·A·法利邮政局大楼](https://zh.wikipedia.org/wiki/詹姆斯·A·法利邮政局大楼)转换而来。
+
+
 **詹姆斯·A·法利邮政局大楼** （），位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，是[美國郵政署](../Page/美國郵政署.md "wikilink")在紐約市的主要大樓，屬於10001號[郵區的範圍](../Page/美國郵區編號.md "wikilink")。詹姆斯·A·法利邮政局大楼於1912年建成，因刻有非官方的[美國郵政署格言而知名](https://zh.wikipedia.org/wiki/美國郵政署格言 "wikilink")。大樓原名為「邮政总局大楼」，在1982年為紀念美國第53任郵政署長[詹姆斯·法利而易名](https://zh.wikipedia.org/wiki/詹姆斯·法利 "wikilink")。
 
 詹姆斯·A·法利邮政局大楼是因電影《[34街的奇蹟](../Page/34街的奇蹟.md "wikilink")》而成名的[聖誕老人行動的起源地](https://zh.wikipedia.org/wiki/聖誕老人行動 "wikilink")。它亦是[特里·普拉切特的小說](https://zh.wikipedia.org/wiki/特里·普拉切特 "wikilink")《[開始郵政](../Page/開始郵政.md "wikilink")》中郵政局的靈感來源。其「糊涂虫的發亮」傳說亦在2016年發行的電子遊戲《[湯姆克蘭西：全境封鎖](../Page/湯姆克蘭西：全境封鎖.md "wikilink")》中出現。

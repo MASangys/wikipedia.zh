@@ -1,3 +1,6 @@
+> 本文内容由[Doctors](https://zh.wikipedia.org/wiki/Doctors)转换而来。
+
+
 《**Doctors**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年6月20日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由[朴信惠及](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[金來沅主演](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，《[溫暖的一句話](../Page/溫暖的一句話.md "wikilink")》、《[上流社會](../Page/上流社會_\(電視劇\).md "wikilink")》[河明熙作家執筆](https://zh.wikipedia.org/wiki/河明熙 "wikilink")，以女流氓劉慧靜（[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink") 飾）為主人公，講述她生活跌至谷底，差點進入監獄後發憤圖強成為女醫生的故事。原著《女流氓慧靜》是作家[河明熙在](https://zh.wikipedia.org/wiki/河明熙 "wikilink")2010年廣播文化振興財團主辦的第3次劇本征集活動評選的電視劇作品。
 
 ## 劇情

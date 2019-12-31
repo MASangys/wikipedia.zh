@@ -1,3 +1,6 @@
+> 本文内容由[TRAPPIST-1](https://zh.wikipedia.org/wiki/TRAPPIST-1)转换而来。
+
+
 **TRAPPIST-1**，即 **2MASS J23062928-0502285**\[1\]，是一顆表面溫度極低的超冷紅矮星\[2\]\[3\]，距離地球約，天球上位於[寶瓶座](../Page/寶瓶座.md "wikilink")\[4\]。2017年2月，天文學家在該恆星周圍發現7顆類地行星，是已知行星系統中擁有次多類地行星者，僅次於[太陽和](https://zh.wikipedia.org/wiki/太陽 "wikilink")[克卜勒90](https://zh.wikipedia.org/wiki/克卜勒90 "wikilink")\[5\]\[6\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[妖怪少女MONSTER GIRL](https://zh.wikipedia.org/wiki/妖怪少女MONSTER GIRL)转换而来。
+
+
 《**妖怪少女MONSTER GIRL**》（）是由日本漫畫家[船津一輝](https://zh.wikipedia.org/wiki/船津一輝 "wikilink")（）所作的一部漫畫，於[集英社](../Page/集英社.md "wikilink")《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2014年14號開始連載。
 
 單行本日文版由[集英社](../Page/集英社.md "wikilink")出版發行，正體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發行。

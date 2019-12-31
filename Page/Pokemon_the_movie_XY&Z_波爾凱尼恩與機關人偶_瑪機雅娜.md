@@ -1,3 +1,6 @@
+> 本文内容由[Pokemon the movie XY\&Z 波爾凱尼恩與機關人偶 瑪機雅娜](https://zh.wikipedia.org/wiki/Pokemon the movie XY\&Z 波爾凱尼恩與機關人偶 瑪機雅娜)转换而来。
+
+
 《**-{zh-tw:波爾凱尼恩與機關人偶瑪機雅娜;zh-cn:波尔凯尼恩与机巧的玛机雅娜}-**》是[神奇寶貝動畫版的第十九部](https://zh.wikipedia.org/wiki/神奇寶貝動畫版 "wikilink")、同時是XY系列的第三部及最後一部電影版。標語為「**灼熱靈魂（魂心）的聲音有聽到嗎\!?**」，也是香港第二代小智[陳凱婷](../Page/陳凱婷.md "wikilink")離職[無綫後首部為小智配音的電影](https://zh.wikipedia.org/wiki/無綫 "wikilink")。
 
 ## 劇情簡介

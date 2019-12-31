@@ -1,3 +1,6 @@
+> 本文内容由[GRAND BLUE碧藍之海](https://zh.wikipedia.org/wiki/GRAND BLUE碧藍之海)转换而来。
+
+
 是[井上堅二](../Page/井上堅二.md "wikilink")擔任原作、[吉岡公威](../Page/吉岡公威.md "wikilink")負責作畫的一部搞笑[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")。本作是井上堅二第二次擔任漫畫原作，也是第一次的原創漫畫。是以描寫[水肺潛水](../Page/水肺潛水.md "wikilink")為題材，但其中有不少校園生活以及飲酒作樂的搞笑劇情。
 
 至2018年3月止，日本地區漫畫單行本累計發行量已突破200萬本。於2018年3月宣布改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於同年七月至九月開始播出。

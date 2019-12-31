@@ -1,3 +1,6 @@
+> 本文内容由[U街](https://zh.wikipedia.org/wiki/U街)转换而来。
+
+
 **U街走廊**（U Street Corridor）是美国[华盛顿哥伦比亚特区](../Page/华盛顿哥伦比亚特区.md "wikilink")东北区的一个商业和住宅区，有许多商店、餐厅、夜总会、画廊和音乐场地，沿着U街的9个街块。它东到9街，西到18街和[佛罗里达大道](../Page/佛罗里达大道.md "wikilink")。该区域的大部分属于肖（Shaw）社区，西端进入[杜邦圆环社区](https://zh.wikipedia.org/wiki/杜邦圆环 "wikilink")。它是由 U街站服务。
 
 ## 历史

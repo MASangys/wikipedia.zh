@@ -1,3 +1,6 @@
+> 本文内容由[FOUR ROOMS \(flumpool单曲\)](https://zh.wikipedia.org/wiki/FOUR ROOMS \(flumpool单曲\))转换而来。
+
+
 《**FOUR ROOMS**》是日本樂團[flumpool的Comcept](https://zh.wikipedia.org/wiki/flumpool "wikilink") Disc\[1\]，2015年8月5日發行，台灣方面則由[相信音樂](../Page/相信音樂.md "wikilink")製作、[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")股份有限公司發行\[2\]。
 
 ## 收錄歌曲

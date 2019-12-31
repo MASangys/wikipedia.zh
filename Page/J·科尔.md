@@ -1,3 +1,6 @@
+> 本文内容由[J·科尔](https://zh.wikipedia.org/wiki/J·科尔)转换而来。
+
+
 **杰曼·拉马尔·科尔(Jermaine Lamarr Cole)**（），以其艺名**J·科尔**（**J. Cole**）被大众熟知，是一位美国的饶舌歌手、词曲作者及唱片制作人。科尔成长于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")的[费耶特维尔](https://zh.wikipedia.org/wiki/費耶特維爾_\(北卡羅萊納州\) "wikilink")，2007年年初，科尔<span>以饶舌歌手的身份发行了</span>他的首张混音带《The Come Up<span>》</span>。为进一步追求饶舌歌手的职业生涯，2009年，在与Jay Z的Roc Nation唱片公司签约后，他发行了另外两张混音带。
 
 科尔于2011年发行了他的首张录音室专辑《<span>Cole World: The Sideline Story》</span>，这张专辑取得了评论方面\[1\]和商业上的成功。专辑空降美国[公告牌二百强专辑榜](../Page/公告牌二百强专辑榜.md "wikilink")的首位，并在短期内被[美国唱片业协会认证为白金唱片](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")\[2\]。科尔随后分别于2013年和2014年发行的专辑<span>《Born Sinner》、《2014 Forest Hills Drive》均取得了全球范围内的成功</span>\[3\]\[4\]\[5\]\[6\]，并已分别在美国取得了金唱片和双白金唱片的认证，而《2014 Forest Hills Drive》则为他赢得了他的首次[格莱美奖最佳饶舌专辑的提名](../Page/葛萊美獎.md "wikilink")。《<span>2014 Forest Hills Drive》也是近25年来首张无任何客串献唱却获得白金唱片认证的饶舌专辑</span>\[7\]<span>。</span>

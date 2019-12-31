@@ -1,3 +1,6 @@
+> 本文内容由[LIVE〜LEGEND 1999\&1997 APOCALYPSE](https://zh.wikipedia.org/wiki/LIVE〜LEGEND 1999\&1997 APOCALYPSE)转换而来。
+
+
 《**LIVE〜LEGEND 1999&1997 APOCALYPSE**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライブ〜レジェンド イチキュウキュウキュウ アンド イチキュウキュウナナ アポカリプス）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2014年發行的第二張現場影像作品\[1\]。
 
 ## 概況

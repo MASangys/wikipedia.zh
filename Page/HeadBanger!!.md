@@ -1,3 +1,6 @@
+> 本文内容由[HeadBanger!!](https://zh.wikipedia.org/wiki/HeadBanger!!)转换而来。
+
+
 〈**HeadBanger\!\!**〉（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ヘドバンギャー！！）是[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2012年7月4日發行的第三張單曲。
 
 ## 發行

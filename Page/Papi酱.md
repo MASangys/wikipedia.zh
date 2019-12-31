@@ -1,3 +1,6 @@
+> 本文内容由[Papi酱](https://zh.wikipedia.org/wiki/Papi酱)转换而来。
+
+
 **Papi酱**（），本名**姜逸磊**，生于[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，中国大陆[网络红人](https://zh.wikipedia.org/wiki/网络红人 "wikilink")，毕业于[中央戏剧学院](../Page/中央戏剧学院.md "wikilink")导演系。2016年因以[变声形式发布原创视频而被人熟知](https://zh.wikipedia.org/wiki/变声 "wikilink")，被誉为“2016年第一网红”\[1\]。
 
 ## 人物经历

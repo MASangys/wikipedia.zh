@@ -1,3 +1,6 @@
+> 本文内容由[模块:Property](https://zh.wikipedia.org/wiki/模块:Property)转换而来。
+
+
 \-- [Module:Property](https://zh.wikipedia.org/wiki/Module:Property "wikilink")
 
 local p = {}

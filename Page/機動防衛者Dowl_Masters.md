@@ -1,3 +1,6 @@
+> 本文内容由[機動防衛者Dowl Masters](https://zh.wikipedia.org/wiki/機動防衛者Dowl Masters)转换而来。
+
+
 《**機動防衛者Dowl Masters**》是[佐島勤所著的](https://zh.wikipedia.org/wiki/佐島勤 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[插圖由tarou](https://zh.wikipedia.org/wiki/插圖 "wikilink")2繪畫，由[ASCII Media Works出版](../Page/ASCII_Media_Works.md "wikilink")，中文繁體版則由[台灣角川](../Page/台灣角川.md "wikilink")發行。
 
 ## 故事簡介

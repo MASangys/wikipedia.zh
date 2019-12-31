@@ -1,3 +1,6 @@
+> 本文内容由[豐田Highlander](https://zh.wikipedia.org/wiki/豐田Highlander)转换而来。
+
+
 **豐田Highlander**（）是[日本](../Page/日本.md "wikilink")[豐田汽车自](https://zh.wikipedia.org/wiki/豐田汽车 "wikilink")2000年起開發製造的中型[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")、[跨界休旅車](../Page/跨界休旅車.md "wikilink")，官方中文名稱為「**豐田漢蘭達**」，而競爭對手為[本田Avancier](../Page/本田Avancier.md "wikilink")、[別克Envision](https://zh.wikipedia.org/wiki/別克Envision "wikilink")、[福特Edge](../Page/福特Edge.md "wikilink")、[日產Murano](../Page/日產Murano.md "wikilink")等。其[平台為](https://zh.wikipedia.org/wiki/汽車平台 "wikilink")[豐田佳美](https://zh.wikipedia.org/wiki/豐田佳美 "wikilink")，但基於[豐田Avalon底盤的尺寸](https://zh.wikipedia.org/wiki/豐田Avalon "wikilink")。\[1\]
 
 ## 歷史與概要

@@ -1,3 +1,6 @@
+> 本文内容由[Category:Drugs with non-standard legal status](https://zh.wikipedia.org/wiki/Category:Drugs with non-standard legal status)转换而来。
+
+
 and  articles that have a legal status that is not in the list of known Schemes. Known schemes are pre-formatted for: AU, CA, NZ, UK, US, UN, EU (see documentation below).
 
 **or**: has " (Prescription only)" as a unspecified note (no country or institute).

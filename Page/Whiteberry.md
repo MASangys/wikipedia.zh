@@ -1,3 +1,6 @@
+> 本文内容由[Whiteberry](https://zh.wikipedia.org/wiki/Whiteberry)转换而来。
+
+
 **Whiteberry**（），[日本](../Page/日本.md "wikilink")女子[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。簡稱、暱稱「****」或「**白**（）」
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Mi-Ke](https://zh.wikipedia.org/wiki/Mi-Ke)转换而来。
+
+
 **Mi-Ke**（），[日本](../Page/日本.md "wikilink")唱片公司[Being的旗下演唱團體](../Page/Being_\(公司\).md "wikilink")。是從[B.B.QUEENS](../Page/B.B.QUEENS.md "wikilink")中的3人女合音團體「**B.B.QUEENS SISTERS**（<small></small>）\[1\]」誕生，成員由、、共3人組成。
 
 1991年改名「Mi-Ke」之後以獨立[偶像團體出道](https://zh.wikipedia.org/wiki/偶像 "wikilink")，但於1993年停止活動。她們的原創標識「Presented by B.B.QUEENS」則是由B.B.QUEENS所書寫。

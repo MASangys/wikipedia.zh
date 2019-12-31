@@ -1,3 +1,6 @@
+> 本文内容由[Give In to Me](https://zh.wikipedia.org/wiki/Give In to Me)转换而来。
+
+
 "**Give In to Me**" 是迈克尔·杰克逊1991年的录音室专辑《[Dangerous](https://zh.wikipedia.org/wiki/Dangerous "wikilink")》的第十首歌曲。 单曲在新西兰连续四周达到榜首，并在[英國單曲排行榜](../Page/英國單曲排行榜.md "wikilink")排名第二。 风格上， “Give In to Me”是一个[硬摇滚民谣](https://zh.wikipedia.org/wiki/硬摇滚 "wikilink")，其中还有枪炮玫瑰乐队吉他手slash伴奏.\[1\]\[2\] 有些人认为这首歌，也可以被认为有激进的性暗示的[重金属](../Page/重金属.md "wikilink")民谣，.\[3\]\[4\] 单曲从未在北美和亚洲发行。单曲发行值得注意的是它的B边，其中包括杰克逊两个的其他[硬摇滚歌曲](https://zh.wikipedia.org/wiki/硬摇滚 "wikilink")， “[Dirty Diana](../Page/Dirty_Diana.md "wikilink")”，专辑中的版本“[Beat It](../Page/Beat_It.md "wikilink")”，这也包括硬摇滚吉他手的客串（分别是[史蒂夫·史蒂文斯和](https://zh.wikipedia.org/wiki/史蒂夫·史蒂文斯 "wikilink")[埃迪·范·海伦](../Page/埃迪·范·海伦.md "wikilink")）。
 
 ## 背景

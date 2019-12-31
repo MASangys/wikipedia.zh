@@ -1,3 +1,6 @@
+> 本文内容由[R-ICE](https://zh.wikipedia.org/wiki/R-ICE)转换而来。
+
+
 **R-ICE**，[香港](../Page/香港.md "wikilink")[男子演唱團體](https://zh.wikipedia.org/wiki/男子演唱團體 "wikilink")，其後經歷數次團員變動，現以雙人組合活動，成員為Mixx（[鄧佑剛](https://zh.wikipedia.org/wiki/鄧佑剛 "wikilink")）和Keni（[李礎業](../Page/李礎業.md "wikilink")）。
 
 ## 成員資料

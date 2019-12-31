@@ -1,3 +1,6 @@
+> 本文内容由[Bye bye my blue](https://zh.wikipedia.org/wiki/Bye bye my blue)转换而来。
+
+
 《**Bye bye my blue**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&成員](https://zh.wikipedia.org/wiki/15& "wikilink")[白藝潾的第一張單曲專輯](https://zh.wikipedia.org/wiki/白藝潾 "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，於2016年6月20日推出。主打歌曲為〈Bye bye my blue〉，由作曲家白雲創作，與白藝潾共同填詞。
 
 ## 概要

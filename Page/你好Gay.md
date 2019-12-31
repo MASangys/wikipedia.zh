@@ -1,3 +1,6 @@
+> 本文内容由[你好Gay](https://zh.wikipedia.org/wiki/你好Gay)转换而来。
+
+
 《**你好Gay**》（）是由美国歌手[凯蒂·佩芮演唱](https://zh.wikipedia.org/wiki/凯蒂·佩芮 "wikilink")，格雷格·威爾斯制作和策划。这个是凯蒂第一个在主要唱片公司所发布的歌曲，其后发布了其主要唱片公司专辑《[花漾派對](../Page/花漾派對.md "wikilink")》。[国会唱片让这首歌在他们官方网站上免费下载](https://zh.wikipedia.org/wiki/国会唱片 "wikilink")。这首歌并没有进入[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")。
 
 ## 背景和创作

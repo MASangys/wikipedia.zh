@@ -1,3 +1,6 @@
+> 本文内容由[Orophila](https://zh.wikipedia.org/wiki/Orophila)转换而来。
+
+
 ***Orophila***是[蛺蝶科](../Page/蛺蝶科.md "wikilink")[苾蛺蝶亞科](../Page/苾蛺蝶亞科.md "wikilink")[圖蛺蝶族](../Page/圖蛺蝶族.md "wikilink")裡的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分布於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")。此屬物種之翅膀形狀與同族其他物種不同，尤其前翅外緣凹凸不平\[1\]。
 
 ## 物種

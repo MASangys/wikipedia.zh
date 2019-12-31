@@ -1,3 +1,6 @@
+> 本文内容由[AlphaGo李世乭五番棋](https://zh.wikipedia.org/wiki/AlphaGo李世乭五番棋)转换而来。
+
+
 **AlphaGo對李世乭**是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[職業九段棋士](https://zh.wikipedia.org/wiki/圍棋棋士列表 "wikilink")[李世乭](../Page/李世乭.md "wikilink")（）與由[Google DeepMind開發的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")[AlphaGo](../Page/AlphaGo.md "wikilink")對弈的五局三勝制[圍棋比賽](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。比賽於2016年3月8日到3月15日在[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾](../Page/首爾.md "wikilink")舉行，採[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")：黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[1\]。結果為AlphaGo以四勝一敗擊敗李世乭。賽後[韓國棋院授予AlphaGo為](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[榮譽九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[2\]。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[Unity \(海底光缆\)](https://zh.wikipedia.org/wiki/Unity \(海底光缆\))转换而来。
+
+
 **Unity**是2010年4月建设完成的[日本](../Page/日本.md "wikilink")与[美国](../Page/美国.md "wikilink")之间的跨[太平洋](https://zh.wikipedia.org/wiki/太平洋 "wikilink")[海底電纜](../Page/海底電纜.md "wikilink")系统。\[1\]\[2\]\[3\]
 
 Unity电缆系统由多条“太比特”电缆线路组成，总长度10,000公里\[4\]，容量高达7.68 /s。\[5\]线缆施工由、Global Transit、[Google](../Page/Google.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、和[新加坡电信](../Page/新加坡电信.md "wikilink")在2008年2月组成的联合体出资。\[6\]Unity的安装费用约为3亿美元，在完成后将增加约20%跨太平洋电缆容量。\[7\]

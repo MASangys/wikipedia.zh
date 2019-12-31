@@ -1,3 +1,6 @@
+> 本文内容由[Android Nougat](https://zh.wikipedia.org/wiki/Android Nougat)转换而来。
+
+
 **Android Nougat**（安卓[牛轧糖](../Page/牛轧糖.md "wikilink")，開發[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")：**Android N**）是由[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")作業系統的第7个主要版本。首个[测试版本在](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")2016年3月9日发行，正式版本在2016年8月22日发行。[Google Nexus设备可首先接受更新](../Page/Google_Nexus.md "wikilink")\[1\]。
 
 Android Nougat引入了操作系统及其开发平台显着的变化，包括在屏幕上同时显示多个应用程序的能力，内联通知回复的支持，以及一个基于[OpenJDK](../Page/OpenJDK.md "wikilink")的[Java](../Page/Java.md "wikilink")的环境，对于先进的[Vulkan](../Page/Vulkan_\(API\).md "wikilink") 2D/3D图形渲染API的支持，并支持设备“无缝”系统更新。

@@ -1,3 +1,6 @@
+> 本文内容由[Apache Avro](https://zh.wikipedia.org/wiki/Apache Avro)转换而来。
+
+
 {{ Infobox software | name = Apache Avro | logo = | screenshot = | caption = | collapsible = | developer = [Apache软件基金会](../Page/Apache软件基金会.md "wikilink") | status = 活跃 | latest release version = 1.8.2 | latest release date =  | latest preview version = | latest preview date = | operating_system = | programming language = | genre = [远程过程调用框架](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink") | license = [Apache许可证](../Page/Apache许可证.md "wikilink") 2.0 | website = <http://avro.apache.org/> }}
 
 **Avro**是一种[远程过程调用和数据](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")[序列化](../Page/序列化.md "wikilink")框架，是在[Apache的](https://zh.wikipedia.org/wiki/Apache "wikilink")[Hadoop项目之内开发的](https://zh.wikipedia.org/wiki/Hadoop "wikilink")。它使用[JSON](../Page/JSON.md "wikilink")来定义数据类型和[通讯协议](https://zh.wikipedia.org/wiki/通讯协议 "wikilink")，使用压缩二进制格式来序列化数据。它主要用于[Hadoop](https://zh.wikipedia.org/wiki/Hadoop "wikilink")，它可以为持久化数据提供一种序列化格式，并为Hadoop节点间及从客户端程序到Hadoop服务的通讯提供一种电报格式。

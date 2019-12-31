@@ -1,3 +1,6 @@
+> 本文内容由[Booking Holdings](https://zh.wikipedia.org/wiki/Booking Holdings)转换而来。
+
+
 **Booking Holdings**（），透過該集團旗下六個品牌：[缤客](../Page/缤客.md "wikilink")、Priceline.com、[雅高達](../Page/雅高达.md "wikilink")、KAYAK、rentalcars.com以及OpenTable， 提供消費者與當地廠商旅遊相關服務的線上供應商。Booking Holdings在總共超過200個以上的國家營運，並支援美洲、歐洲、亞洲、中東地區等超過40種語言。
 
 Booking Holdings的前身是Priceline集團，到2018年二月正式改名。\[1\]

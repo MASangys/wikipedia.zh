@@ -1,3 +1,6 @@
+> 本文内容由[Tickmill](https://zh.wikipedia.org/wiki/Tickmill)转换而来。
+
+
 **Tickmill** 是英国的[外汇](https://zh.wikipedia.org/wiki/外汇 "wikilink")，[贵金属和](https://zh.wikipedia.org/wiki/贵金属 "wikilink")[差价合约](https://zh.wikipedia.org/wiki/差价合约 "wikilink")（CFD）经纪公司。
 
 ## 历史

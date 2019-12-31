@@ -1,3 +1,6 @@
+> 本文内容由[TalkBox 語音聊](https://zh.wikipedia.org/wiki/TalkBox 語音聊)转换而来。
+
+
 **TalkBox 語音聊**(英語：**TalkBox Voice Messenger**，<span>原名**TalkBox)，**</span>是一個[智能手機](../Page/智能手机.md "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，允許在[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink") 、與[BlackBerry](../Page/BlackBerry_OS.md "wikilink") 的用戶通過[PTT即時語音信息通訊交流](https://zh.wikipedia.org/wiki/Push-to-talk "wikilink")。
 
 ## 歷史

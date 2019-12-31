@@ -1,3 +1,6 @@
+> 本文内容由[FreeRTOS](https://zh.wikipedia.org/wiki/FreeRTOS)转换而来。
+
+
 **FreeRTOS**是一個熱門的\[1\][嵌入式裝置用](https://zh.wikipedia.org/wiki/嵌入式裝置 "wikilink")[即時作業系統核心](https://zh.wikipedia.org/wiki/即時作業系統 "wikilink")\[2\]\[3\]，它于2003年由Richard Barry设计，并已被經成功移植到35種不同的[微控制器上](https://zh.wikipedia.org/wiki/微控制器 "wikilink")\[4\]。FreeRTOS採用[MIT许可证授權](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。
 
 ## 實作

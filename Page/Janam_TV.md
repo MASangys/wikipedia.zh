@@ -1,3 +1,6 @@
+> 本文内容由[Janam TV](https://zh.wikipedia.org/wiki/Janam TV)转换而来。
+
+
 **Janam TV** 是印度其中一個使用[馬拉雅拉姆語的主流](https://zh.wikipedia.org/wiki/馬拉雅拉姆語 "wikilink")[新聞和娛樂節目電視頻道](https://zh.wikipedia.org/wiki/新聞 "wikilink")。它由**Janam多媒體有限公司經營**，他們的宗旨是「促進國家的利益」。\[1\] 全國民主聯盟政府於2014年批准Janam TV廣播電視牌照的申請。Janam TV於2015年4月19日首次播放節目。\[2\]\[3\]\[4\]\[5\] Janam TV 是首個使用[高清技術的](https://zh.wikipedia.org/wiki/高清 "wikilink")[馬拉雅拉姆語頻道](https://zh.wikipedia.org/wiki/馬拉雅拉姆語 "wikilink")。它現時擁有大約5000名股東，其中投放25000至50000[盧比不等](https://zh.wikipedia.org/wiki/盧比 "wikilink")。
 
 ## 公司重要人員

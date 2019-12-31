@@ -1,3 +1,6 @@
+> 本文内容由[最不受喜欢的YouTube视频列表](https://zh.wikipedia.org/wiki/最不受喜欢的YouTube视频列表)转换而来。
+
+
 [YouTube_Rewind_Logo_(2017_to_Present).svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_Logo_\(2017_to_Present\).svg "fig:YouTube_Rewind_Logo_(2017_to_Present).svg")》是[YouTube](../Page/YouTube.md "wikilink")上迄今最不受喜欢的视频。该视频自2018年12月6日上传以来，已收到超过1700万个不喜欢。\[1\]\]\] [YouTube_Rewind_2018_and_Baby_dislikes.svg](https://zh.wikipedia.org/wiki/File:YouTube_Rewind_2018_and_Baby_dislikes.svg "fig:YouTube_Rewind_2018_and_Baby_dislikes.svg")》在上传一周后超越《[宝贝](https://zh.wikipedia.org/wiki/宝贝_\(贾斯汀·比伯歌曲\) "wikilink")》音乐录影带而成为最不受喜欢的视频。\]\]
 
 **最不受喜欢的YouTube视频列表**（）包含了[YouTube](../Page/YouTube.md "wikilink")有史以来最不受喜欢的视频中的前10名，这些排名来自YouTube榜单。\[2\] 2010年，YouTube在视频播放页上部署了，作为网站主要设计的一部分。这个修改用以取代之前的[五星评分系统](../Page/星級.md "wikilink")，\[3\]这是由于五星评分系统中“两星”和“四星”两个选项因为极少的选择而被发现是没有实际效果的。\[4\]在本列表中的10个视频裡，有4个也出现在[播放次数最多的YouTube视频列表内](../Page/觀看次數最多的YouTube影片列表.md "wikilink")；同时也有2个出现在[最受喜欢的YouTube视频列表中](https://zh.wikipedia.org/wiki/最受喜欢的YouTube视频列表 "wikilink")。截至2019年12月，YouTube官方频道有2个视频位列其中。

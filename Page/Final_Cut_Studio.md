@@ -1,3 +1,6 @@
+> 本文内容由[Final Cut Studio](https://zh.wikipedia.org/wiki/Final Cut Studio)转换而来。
+
+
 **Final Cut Studio**是一款專業的視訊和音訊製作[套裝軟體](https://zh.wikipedia.org/wiki/套裝軟體 "wikilink")，由[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS X平台上推出](https://zh.wikipedia.org/wiki/OS_X "wikilink")。在進階電影製作產業中，此軟體是[Avid Media Composer的直接競爭者](https://zh.wikipedia.org/wiki/Avid_Media_Composer "wikilink")。Final Cut Studio的傳統盒裝版本現在僅能以電話向蘋果公司訂購，無法在網路或零售商店購買。Final Cut Studio在2011年停產，而其中的三個獨立主要應用程式－[Final Cut Pro X](https://zh.wikipedia.org/wiki/Final_Cut_Pro_X "wikilink")、[Motion](https://zh.wikipedia.org/wiki/Motion "wikilink")，和[Compressor則持續的推出更新版本](https://zh.wikipedia.org/wiki/Compressor "wikilink")，並可透過Mac App Store購買。
 
 ## 元件

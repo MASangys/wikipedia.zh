@@ -1,3 +1,6 @@
+> 本文内容由[Sci-Hub](https://zh.wikipedia.org/wiki/Sci-Hub)转换而来。
+
+
 **Sci-Hub**是一個線上資料庫，其上提供62,000,000篇[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")[學術論文和文章](https://zh.wikipedia.org/wiki/學術出版 "wikilink")\[1\]。網站透過「[.edu](../Page/.edu.md "wikilink")」[代理伺服器訪問相關頁面](https://zh.wikipedia.org/wiki/代理伺服器 "wikilink")，每天會上傳新的論文文章\[2\]\[3\]\[4\]。2011年，[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")研究生[亞歷珊卓·艾爾巴金](../Page/亞歷珊卓·艾爾巴金.md "wikilink")因為研究論文成本過高，每篇論文在機制（Paywall）下通常需要花費30美元，而決定成立Sci-Hub\[5\]\[6\]。2014年，學術界開始預測網站將會發展為類似[Napster](../Page/Napster.md "wikilink")的服務\[7\]。不過到了2015年，學術出版社[愛思唯爾](../Page/愛思唯爾.md "wikilink")向紐約地方法院提交訴訟，指控Sci-Hub已經[侵犯版權](https://zh.wikipedia.org/wiki/盜版 "wikilink")\[8\]。
 
 ## 歷史

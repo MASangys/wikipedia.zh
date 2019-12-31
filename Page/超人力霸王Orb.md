@@ -1,3 +1,6 @@
+> 本文内容由[超人力霸王Orb](https://zh.wikipedia.org/wiki/超人力霸王Orb)转换而来。
+
+
 {{ Infobox television | | show_name = 超人力霸王Orb | eng_name =  | format = [特攝片](../Page/特攝片.md "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink") | image = [280px](https://zh.wikipedia.org/wiki/檔案:Ultraman_Orb_Poster_resized.jpg "wikilink") | runtime = 26分鐘 | creator = [圓谷製作公司](https://zh.wikipedia.org/wiki/圓谷製作公司 "wikilink") | director = [田口清隆](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")
 [アベユーイチ](https://zh.wikipedia.org/wiki/アベユーイチ "wikilink")
 [市野龍一](https://zh.wikipedia.org/wiki/市野龍一 "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[AnimeJapan](https://zh.wikipedia.org/wiki/AnimeJapan)转换而来。
+
+
 **AnimeJapan**（）是開始於2014年，每年3月下旬舉行的綜合性[動畫活動](https://zh.wikipedia.org/wiki/動畫 "wikilink")\[1\]，口號是「動畫的一切，都在這裡」（）。
 
 ## 執行委員會

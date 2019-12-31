@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞9000 Communicator](https://zh.wikipedia.org/wiki/諾基亞9000 Communicator)转换而来。
+
+
 [右](https://zh.wikipedia.org/wiki/File:Nokia-9110-9000.jpg "fig:右")
 
 **諾基亞 9000 Communicator**是第一款諾基亞Communicator系列的[智能電話](../Page/智能手机.md "wikilink")，在1996年推出。

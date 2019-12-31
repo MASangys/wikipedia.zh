@@ -1,3 +1,6 @@
+> 本文内容由[Dirty](https://zh.wikipedia.org/wiki/Dirty)转换而来。
+
+
 《**Dirty**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[G.Soul](../Page/G.Soul.md "wikilink")的第2張迷你專輯，於2015年9月10日發行，主打曲為〈為你瘋狂〉。
 
 ## 概要

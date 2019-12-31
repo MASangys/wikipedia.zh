@@ -1,3 +1,6 @@
+> 本文内容由[UCLA学生宿舍](https://zh.wikipedia.org/wiki/UCLA学生宿舍)转换而来。
+
+
 [UCLA_Carnesale_Commons.jpg](https://zh.wikipedia.org/wiki/File:UCLA_Carnesale_Commons.jpg "fig:UCLA_Carnesale_Commons.jpg") **[加州大学洛杉矶分校](https://zh.wikipedia.org/wiki/加州大学洛杉矶分校 "wikilink")**（**UCLA**）拥有规模庞大的学生宿舍系统，为一万余名本科及研究生提供住宿。大学庞大的宿舍群由生活服务办公室（Office of Residential Life）及宿舍管理办公室（Housing and Hospitality Services）共同运营。其覆盖范围不仅包括校园内的宿舍系统，也涵盖校外的学生住宅\[1\]。
 
 ## 历史

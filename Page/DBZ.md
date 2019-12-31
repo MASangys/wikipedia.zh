@@ -1,3 +1,6 @@
+> 本文内容由[DBZ](https://zh.wikipedia.org/wiki/DBZ)转换而来。
+
+
 [Sturmfront_auf_Doppler-Radar-Schirm.jpg](https://zh.wikipedia.org/wiki/File:Sturmfront_auf_Doppler-Radar-Schirm.jpg "fig:Sturmfront_auf_Doppler-Radar-Schirm.jpg") **dBZ**是一個與特定參數Z值來描述[雷達](https://zh.wikipedia.org/wiki/雷達 "wikilink")[反射率之](https://zh.wikipedia.org/wiki/反射率 "wikilink")[比例](../Page/比例.md "wikilink")的[單位](../Page/计量单位.md "wikilink")，與[分貝類似](https://zh.wikipedia.org/wiki/分貝 "wikilink")，為[對數](https://zh.wikipedia.org/wiki/對數 "wikilink")[無因次量](https://zh.wikipedia.org/wiki/無因次量 "wikilink")，主要用於描述雷達迴波的強度，尤其是[氣象雷達用於度量](https://zh.wikipedia.org/wiki/氣象雷達 "wikilink")[大氣中特定區域的](https://zh.wikipedia.org/wiki/大氣 "wikilink")[降水](../Page/降水.md "wikilink")粒子（[雨](../Page/雨.md "wikilink")、[雪](../Page/雪.md "wikilink")、[冰雹](../Page/冰雹.md "wikilink")等）的多寡\[1\]，一般為比較反射自遠方物體（在每立方公尺中的mm<sup>6</sup>量）的雷達訊號之等效反射率與直徑1[毫米](../Page/毫米.md "wikilink")雨滴的反射量\[2\]。由於單位體積的[降水](../Page/降水.md "wikilink")粒子數量與降水粒子直徑的六次方成比例，因此可以用來估計雨、雪、冰雹等的降水強度\[3\]。以其他的變數來分析雷達回波的訊號則可以確定降水的類型。
 
 ## 原理

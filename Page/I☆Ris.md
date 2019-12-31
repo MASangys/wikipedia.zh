@@ -1,3 +1,6 @@
+> 本文内容由[I☆Ris](https://zh.wikipedia.org/wiki/I☆Ris)转换而来。
+
+
 **I☆Ris**（）是日本的一支由六名[聲優](../Page/聲優.md "wikilink")所組成的偶像組合\[1\]，所屬經紀公司為，唱片公司為。
 
 ## 概要

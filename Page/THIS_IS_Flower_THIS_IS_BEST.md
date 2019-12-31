@@ -1,3 +1,6 @@
+> 本文内容由[THIS IS Flower THIS IS BEST](https://zh.wikipedia.org/wiki/THIS IS Flower THIS IS BEST)转换而来。
+
+
 《**THIS IS Flower THIS IS BEST**》是[Flower的第一張精選專輯](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")。於2016年9月14日發行。唱片公司為[Sony Music Associated Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")。
 
 ## 概要

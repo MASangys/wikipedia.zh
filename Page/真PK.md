@@ -1,3 +1,6 @@
+> 本文内容由[真PK](https://zh.wikipedia.org/wiki/真PK)转换而来。
+
+
 《**真PK**》（）是由[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")製作的清談[整蠱節目](https://zh.wikipedia.org/wiki/整蠱 "wikilink")，主持為[火火](../Page/火火.md "wikilink")、[Kevin](../Page/李健宏.md "wikilink")，於[ViuTV](../Page/ViuTV.md "wikilink")清談節目時段《[晚吹](../Page/晚吹.md "wikilink")》首播，播放時間為逢星期六23:30－00:00。
 
 2017年因《[晚吹](../Page/晚吹.md "wikilink")》系列重組，此節目於2017年2月4日後停止播放。

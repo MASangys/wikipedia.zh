@@ -1,3 +1,6 @@
+> 本文内容由[早霧Seina](https://zh.wikipedia.org/wiki/早霧Seina)转换而来。
+
+
 **早霧せいな**（），愛稱CHIGI，是前[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[雪組主演男役](https://zh.wikipedia.org/wiki/雪組 "wikilink")(Top Star)。身高168cm，出生於長崎縣佐世保市、出身於長崎縣立佐世保西高等學校\[1\]。
 
 ## 簡介

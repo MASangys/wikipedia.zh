@@ -1,3 +1,6 @@
+> 本文内容由[T-POWERS](https://zh.wikipedia.org/wiki/T-POWERS)转换而来。
+
+
 **T-POWERS株式會社**（，），是一家日本的[AV事務所](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")。
 
 ## 概要

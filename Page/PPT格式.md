@@ -1,3 +1,6 @@
+> 本文内容由[PPT格式](https://zh.wikipedia.org/wiki/PPT格式)转换而来。
+
+
 **.ppt**，是[Microsoft PowerPoint软件](../Page/Microsoft_PowerPoint.md "wikilink")[簡報](../Page/簡報.md "wikilink")文件的常用扩展名。
 
 微软Office 2007的默认文件格式被新的基于XML的Office Open XML格式所取代。

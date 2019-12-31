@@ -1,3 +1,6 @@
+> 本文内容由[LMS職業聯賽](https://zh.wikipedia.org/wiki/LMS職業聯賽)转换而来。
+
+
 **LMS職業聯賽**（**League of Legends Master Series**，簡稱**LMS**，因賽事區域位在台港澳又稱**台港澳職業聯賽**），為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")地區的[英雄聯盟職業聯賽](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")\[1\]，原隸屬於[GPL](../Page/GPL超級聯賽.md "wikilink")、[LNL賽區的台港澳地區於](../Page/LNL台港澳聯賽.md "wikilink")2015年起脫離並獨立為LMS賽區。
 
 第一個賽季為2015年，一年將有春、夏兩季的7個隊伍常規性季賽，每半季的賽事結束後，會進行新一季的升降賽，決定下一季的參賽隊伍名單\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[TÜV組織](https://zh.wikipedia.org/wiki/TÜV組織)转换而来。
+
+
 [Flammrohrrauchrohrkessel_5.jpg](https://zh.wikipedia.org/wiki/File:Flammrohrrauchrohrkessel_5.jpg "fig:Flammrohrrauchrohrkessel_5.jpg") monitoring from TÜV-Süd\]\]
 
 **TÜV** (; , )，意译为**德国技术监督协会**，是德国检验产品安全与环境安全的非官方组织，业务范围包括检查工厂、机动车、能源设施、游乐设施、设备与产品。其许多独立分支机构也负责能源与交通的概念研发、环保问题解决、标准认证等。

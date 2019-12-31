@@ -1,3 +1,6 @@
+> 本文内容由[Montage \(關淑怡專輯\)](https://zh.wikipedia.org/wiki/Montage \(關淑怡專輯\))转换而来。
+
+
 《**Montage**》是[香港](../Page/香港.md "wikilink")女歌手[關淑怡](../Page/關淑怡.md "wikilink")首張純精選大碟\[1\]，於1991年3月20日初推出\[2\]。
 
 ## 曲目

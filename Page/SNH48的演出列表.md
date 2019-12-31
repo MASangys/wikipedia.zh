@@ -1,3 +1,6 @@
+> 本文内容由[SNH48的演出列表](https://zh.wikipedia.org/wiki/SNH48的演出列表)转换而来。
+
+
 **SNH48的演出列表**列出[SNH48](../Page/SNH48.md "wikilink")以團體及成員身份參與演出的各項媒體作品。
 
 ## 影视作品

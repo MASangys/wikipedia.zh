@@ -1,3 +1,6 @@
+> 本文内容由[不知道的Love\*教给我吧Love](https://zh.wikipedia.org/wiki/不知道的Love\*教给我吧Love)转换而来。
+
+
 **《不知道的Love\*教给我吧Love》**（）是[μ's的迷你小队](https://zh.wikipedia.org/wiki/μ's "wikilink")“lily white”在2011年7月27日发售的首张单曲。
 
 ## 概要

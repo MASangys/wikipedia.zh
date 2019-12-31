@@ -1,3 +1,6 @@
+> 本文内容由[Torch](https://zh.wikipedia.org/wiki/Torch)转换而来。
+
+
 **Torch**是一款採用[Chromium](../Page/Chromium.md "wikilink")核心基礎，並預設[ask.com作為](https://zh.wikipedia.org/wiki/ask.com "wikilink")[搜尋引擎的](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。特色為簡單，快速，安全。
 
 ## 特色

@@ -1,3 +1,6 @@
+> 本文内容由[BLUE ANT Extreme](https://zh.wikipedia.org/wiki/BLUE ANT Extreme)转换而来。
+
+
 **-{zh-tw:BLUE ANT極限台;zh-hk:BLUE ANT超極娛樂}-**（）為一東南亞地區英語綜合娛樂電視頻道，由BLUE ANT媒體所有。電視頻道於2014年3月27日開始發送，並以[高畫質播出](https://zh.wikipedia.org/wiki/高清電視 "wikilink")。该频道主要放送惊险剧集、特技节目、魔幻表演和真人冒险节目。
 
 ## 影集

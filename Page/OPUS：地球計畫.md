@@ -1,3 +1,6 @@
+> 本文内容由[OPUS：地球計畫](https://zh.wikipedia.org/wiki/OPUS：地球計畫)转换而来。
+
+
 《**OPUS：地球計畫**》（）是款以探索世界、體驗劇情為主的冒險遊戲，由台灣的[SIGONO](https://zh.wikipedia.org/wiki/SIGONO "wikilink")（原[Team Signal](https://zh.wikipedia.org/wiki/Team_Signal "wikilink")）開發。
 
 《OPUS：地球計畫》的[故事](../Page/故事.md "wikilink")是發生在數百萬年後，[人類](../Page/人類.md "wikilink")因為[科技進步而開始進行](https://zh.wikipedia.org/wiki/科技 "wikilink")[基因改造](https://zh.wikipedia.org/wiki/基因改造 "wikilink")，但長久下來也造成基因上的缺陷，因為缺乏人類原始基因的記錄，因此決定尋找已經成為[神話的](https://zh.wikipedia.org/wiki/神話 "wikilink")[地球](../Page/地球.md "wikilink")，希望找到彌補基因缺陷的方法。《OPUS 地球計畫》主要透過遊戲中的[望遠鏡來探測太空](https://zh.wikipedia.org/wiki/望遠鏡 "wikilink")，找尋可能是地球的[行星](../Page/行星.md "wikilink")，同時也會隨著劇情發展解答遊戲中的謎團。

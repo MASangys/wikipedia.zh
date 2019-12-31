@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t Say Goodbye](https://zh.wikipedia.org/wiki/Don\'t Say Goodbye)转换而来。
+
+
 《**Don't Say Goodbye**》是由製作的歌曲，收錄在瑞克·艾斯特利在1987年發行的專輯《》。雖然有人認為它是由與[RCA唱片](../Page/RCA唱片.md "wikilink")在全球發行的歌曲，但是它在1988年晚期只有在義大利發行。
 
 ## Track listing

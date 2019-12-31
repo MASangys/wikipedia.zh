@@ -1,3 +1,6 @@
+> 本文内容由[QP:flapper](https://zh.wikipedia.org/wiki/QP:flapper)转换而来。
+
+
 **QP:flapper**（），是[日本](../Page/日本.md "wikilink")的[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")與櫻小春的二人組合\[1\]。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[EXID音樂作品列表](https://zh.wikipedia.org/wiki/EXID音樂作品列表)转换而来。
+
+
 **EXID音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID自](https://zh.wikipedia.org/wiki/EXID "wikilink")2012年出道至今所發行的音樂作品。該團體原先隸屬於AB娛樂（2014年更名為Gamgak娛樂），以單曲《[Whoz That Girl](https://zh.wikipedia.org/wiki/Holla_\(EXID單曲\) "wikilink")》在2012年2月16日出道，後在2014年6月27日，轉至[Yedang娛樂](../Page/Imagine_Asia.md "wikilink")，即現在的（2016年更名），同年推出數位單曲《[Up & Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回歸樂壇，這首單曲為EXID演藝生涯的轉捩點，她們為少數例子因歌迷上傳拍攝表演影片而爆紅的女子組合。迄今，EXID在韓國共發行了1張正規專輯、4張迷你專輯、4張單曲、2張中文單曲。
 
 ## 錄音室專輯

@@ -1,3 +1,6 @@
+> 本文内容由[TWICE獲獎及提名名單](https://zh.wikipedia.org/wiki/TWICE獲獎及提名名單)转换而来。
+
+
 **TWICE獲獎及提名列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE由出道至今於頒獎典禮的獲獎及提名](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
 
 ## 韓國音樂頒獎典禮

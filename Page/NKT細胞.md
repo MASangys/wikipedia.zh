@@ -1,3 +1,6 @@
+> 本文内容由[NKT細胞](https://zh.wikipedia.org/wiki/NKT細胞)转换而来。
+
+
 **自然殺傷T細胞**（Natural killer T cells），簡稱**NKT細胞**（NKT cells），是一類異質的[T細胞](https://zh.wikipedia.org/wiki/T細胞 "wikilink")，與[T細胞和](https://zh.wikipedia.org/wiki/T細胞 "wikilink")[NK細胞](https://zh.wikipedia.org/wiki/NK細胞 "wikilink")（自然殺傷細胞）擁有部分相同的特徵。許多NKT細胞都能識別[非多型的](../Page/多态性_\(生物学\).md "wikilink")分子。CD1d是一類抗原呈遞分子，可與自體和異體的[脂質以及](https://zh.wikipedia.org/wiki/脂質 "wikilink")[糖脂](../Page/糖脂.md "wikilink")結合。NKT細胞大約只佔到外週[血](../Page/血液.md "wikilink")[T細胞的](https://zh.wikipedia.org/wiki/T細胞 "wikilink")0.1%\[1\]。值得注意的是，不要將NKT細胞與NK細胞混爲一談。
 
 ## 命名

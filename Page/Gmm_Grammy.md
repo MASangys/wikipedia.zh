@@ -1,3 +1,6 @@
+> 本文内容由[Gmm Grammy](https://zh.wikipedia.org/wiki/Gmm Grammy)转换而来。
+
+
 **亞洲歌萊美傳播股份有限公司**（**GMM Grammy Public Company Limited**，(）是[泰國一間最大國際性質的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，創立於1983年，總部在[曼谷](../Page/曼谷.md "wikilink")，創始人是[黃民輝](https://zh.wikipedia.org/wiki/黃民輝 "wikilink")，總市值100.8億泰銖。1990年代末，歌萊美成功將泰國組合[中國娃娃和偶像歌手](https://zh.wikipedia.org/wiki/中國娃娃 "wikilink")[TAE推向了最廣闊的華語市場](https://zh.wikipedia.org/wiki/TAE "wikilink")。歌萊美在電視劇製作上成績也頗佳，其中電視劇代表作有《保留丈夫》、《愛的陰霾》等，電視劇原創音樂代表作《我也愛我所愛》等均是當前泰國超人氣作品專輯。\[1\]
 
 ## 旗下公司

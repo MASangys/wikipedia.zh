@@ -1,3 +1,6 @@
+> 本文内容由[Squarespace](https://zh.wikipedia.org/wiki/Squarespace)转换而来。
+
+
 **Squarespace**是一個由、[網頁寄存服務及](https://zh.wikipedia.org/wiki/網頁寄存服務 "wikilink")[博客平台所組成](https://zh.wikipedia.org/wiki/博客 "wikilink")，並以[軟件即服務模式運作的](https://zh.wikipedia.org/wiki/軟件即服務 "wikilink")。該服務讓個人或公司建立及修改網站及博客。
 
 自2004年創立起，Squarespace在190個國家有超過500名員工\[1\]，以及有數百萬名用戶在該平台上建立網頁\[2\]。

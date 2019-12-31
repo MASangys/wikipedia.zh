@@ -1,3 +1,6 @@
+> 本文内容由[PT字體](https://zh.wikipedia.org/wiki/PT字體)转换而来。
+
+
 **PT字體**（，「公眾字體」）是一個[自由字型家族](../Page/自由及开放源代码软件.md "wikilink")，由「**PT Sans**」無襯線字型、「**PT Serif**」襯線字型及「**PT Mono**」等寬字型組成，於2009年發佈。它們是由委托設計和製作，是紀念[彼得大帝](../Page/彼得大帝.md "wikilink")推行[俄语正写法改革](https://zh.wikipedia.org/wiki/俄语正写法改革#18.E4.B8.96.E7.BA.AA.E7.9A.84.E5.8F.98.E5.8C.96 "wikilink")300週年的計劃之一\[1\]。PT字體支援包括俄羅斯在內的的[西里爾字母](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")、[俄文西里爾字母及](https://zh.wikipedia.org/wiki/俄文 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")。\[2\]\[3\]
 
 PT字體主要由設計，包含無襯線字型、襯線字型及等寬字型，其中無襯線字型及襯線字型各自都有一款為[小字型下閱讀優化的版本](https://zh.wikipedia.org/wiki/字型#.E5.A4.A7.E5.B0.8F "wikilink")。它們以[SIL開源字型授權發佈](https://zh.wikipedia.org/wiki/SIL開源字型授權 "wikilink")，而PT Sans亦在ParaType的自由字型授權下發佈\[4\]。該字型的寛體、窄體和[特重等變體則由ParaType以](https://zh.wikipedia.org/wiki/字型#.E5.AD.97.E9.87.8D "wikilink")「PT Sans Pro」和「PT Serif Pro」出售\[5\]\[6\]。

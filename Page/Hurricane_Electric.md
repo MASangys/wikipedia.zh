@@ -1,3 +1,6 @@
+> 本文内容由[Hurricane Electric](https://zh.wikipedia.org/wiki/Hurricane Electric)转换而来。
+
+
 **Hurricane Electric** 是一家位于[美国](../Page/美国.md "wikilink")的全球[互联网服务提供商](https://zh.wikipedia.org/wiki/互联网服务提供商 "wikilink")。该公司提供[IPv4](../Page/IPv4.md "wikilink")和[IPv6](../Page/IPv6.md "wikilink")接入\[1\] 以及位于美国[圣荷西](https://zh.wikipedia.org/wiki/圣荷西_\(加利福尼亚州\) "wikilink")（公司总部地址）的[数据中心](../Page/数据中心.md "wikilink")服务。
 
 ## 网络和对等策略

@@ -1,3 +1,6 @@
+> 本文内容由[中国国际贸易中心三期A阶段](https://zh.wikipedia.org/wiki/中国国际贸易中心三期A阶段)转换而来。
+
+
 **中国国际贸易中心三期A阶段**（简称**国贸三期A**）是[北京市](../Page/北京市.md "wikilink")[朝阳区的一座](../Page/朝阳区_\(北京市\).md "wikilink")[摩天大楼](https://zh.wikipedia.org/wiki/摩天大楼 "wikilink")。它位于[北京中央商务区](https://zh.wikipedia.org/wiki/北京中央商务区 "wikilink")，[建国门外大街](../Page/建国门外大街.md "wikilink")和[东三环交汇处西北方向](../Page/北京三环路.md "wikilink")，是[中国国际贸易中心](../Page/中国国际贸易中心.md "wikilink")第三期工程建设的一部分，于2007年10月29日封顶\[1\]，2010年启用，建筑高度330米。国贸三期A地上有81层，地下4层。这座建筑曾一度是北京最高建筑，直到2016年被[中国尊](../Page/中国尊.md "wikilink")超越\[2\]。
 
 国贸三期A内部设有商业和停车场（地下至地上3层）、会议和餐厅（地上3至6层）、办公（7至58层）和[五星级酒店](https://zh.wikipedia.org/wiki/五星级酒店 "wikilink")（61至81层）\[3\]。其中专门用于运送酒店顾客的四座电梯由[迅达集团提供](https://zh.wikipedia.org/wiki/迅达集团 "wikilink")，最高速度达到10米每秒\[4\]。

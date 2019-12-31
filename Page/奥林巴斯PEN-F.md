@@ -1,3 +1,6 @@
+> 本文内容由[奥林巴斯PEN-F](https://zh.wikipedia.org/wiki/奥林巴斯PEN-F)转换而来。
+
+
 **奥林巴斯 PEN-F**是一款于2016年推出的[微4/3系统机型](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，承接了2013年推出的[奥林巴斯 E-P5](https://zh.wikipedia.org/wiki/奥林巴斯_E-P5 "wikilink")，成为[数码PEN系列中新的旗舰](../Page/奥林巴斯PEN数码系列.md "wikilink")。
 
 外观设计上，向1963年推出的[PEN F单反机型](../Page/奥林巴斯PEN_F系列.md "wikilink")「致敬」。

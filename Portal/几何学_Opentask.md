@@ -1,3 +1,6 @@
+> 本文内容由[Portal:几何学/Opentask](https://zh.wikipedia.org/wiki/Portal:几何学/Opentask)转换而来。
+
+
 [Crystal_Clear_app_kteatime.png](https://zh.wikipedia.org/wiki/File:Crystal_Clear_app_kteatime.png "fig:Crystal_Clear_app_kteatime.png")
 
   - 编写**几何学**请求条目，翻译**几何学**相关的條目。

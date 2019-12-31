@@ -1,3 +1,6 @@
+> 本文内容由[Deeplearning4j](https://zh.wikipedia.org/wiki/Deeplearning4j)转换而来。
+
+
 **Deeplearning4j**是为[Java](../Page/Java.md "wikilink")和[Java虚拟机](../Page/Java虚拟机.md "wikilink")\[1\]\[2\]编写的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[深度学习](../Page/深度学习.md "wikilink")库，是广泛支持各种深度学习算法的[运算框架](https://zh.wikipedia.org/wiki/运算 "wikilink")\[3\]。Deeplearning4j可以实施的技术包括[受限玻尔兹曼机](../Page/受限玻尔兹曼机.md "wikilink")、[深度置信网络](https://zh.wikipedia.org/wiki/深度置信网络 "wikilink")、深度自动编码器、堆叠式降噪自动编码器、[循环神经张量网络](https://zh.wikipedia.org/wiki/循环神经张量网络 "wikilink")，以及[word2vec](https://zh.wikipedia.org/wiki/word2vec "wikilink")、doc2vec和GloVe。这些算法全部包括[分布式](https://zh.wikipedia.org/wiki/分布式 "wikilink")[并行版本](https://zh.wikipedia.org/wiki/并行 "wikilink")，与[Hadoop和](https://zh.wikipedia.org/wiki/Hadoop "wikilink")[Spark集成](../Page/Apache_Spark.md "wikilink")。\[4\][Skymind是Deeplearning](https://zh.wikipedia.org/wiki/Skymind "wikilink")4j的商业支持机构。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[VHS迴帶機](https://zh.wikipedia.org/wiki/VHS迴帶機)转换而来。
+
+
 [VHS_tape_rewinder.jpg](https://zh.wikipedia.org/wiki/File:VHS_tape_rewinder.jpg "fig:VHS_tape_rewinder.jpg") **VHS迴帶機**是一種電子設備，可以將[VHS](../Page/VHS.md "wikilink")[錄影帶放入](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，將錄影帶倒帶到最前面。
 
 錄影帶是以線性的方式儲存資料，因此若放映到最後面，需要將磁帶再卷到最前面才能播放，VHS迴帶機是專門進行錄影帶倒帶的設備，速度比[錄影機](../Page/錄影機.md "wikilink")的倒帶快很多，而且也避免錄影機磁頭的磨損，或是倒帶損壞錄影帶\[1\]。

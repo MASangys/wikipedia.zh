@@ -1,3 +1,6 @@
+> 本文内容由[Soylent](https://zh.wikipedia.org/wiki/Soylent)转换而来。
+
+
 **Soylent**是一种饮料，被宣传为“主食餐”，有液体和粉末两种形式。其发明人声称Soylent能够满足一般成年人所有的[营养需求](../Page/参考膳食摄入量.md "wikilink")，\[1\]但一些批评家持有[不同意见](https://zh.wikipedia.org/wiki/#健康影响 "wikilink")。Soylent最初是由软件工程师Rob Rhinehart作为自己对营养学的实验创造出来并加以测试。后来，粉末版Soylent被开发成了Rosa Labs公司的第一条产品线，该公司也是此配方现时的销售者。
 
 Rosa Labs声称当前配方是基于\[2\]的推荐，并符合当前[食品药品监督管理局对食品的要求](../Page/美国食品药品监督管理局.md "wikilink")。\[3\]Rosa Labs也声称Soylent包含健康食谱的所有元素，且不含过量的糖、饱和脂肪或胆固醇。\[4\]

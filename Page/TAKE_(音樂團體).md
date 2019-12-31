@@ -1,3 +1,6 @@
+> 本文内容由[TAKE \(音樂團體\)](https://zh.wikipedia.org/wiki/TAKE \(音樂團體\))转换而来。
+
+
 **TAKE**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CI ENT](https://zh.wikipedia.org/wiki/CI_ENT "wikilink")\[1\]公司旗下的五人男子组合。时隔12年，TAKE以二人组合回归\[2\]。
 
 ## 成員列表

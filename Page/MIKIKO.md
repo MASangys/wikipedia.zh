@@ -1,3 +1,6 @@
+> 本文内容由[MIKIKO](https://zh.wikipedia.org/wiki/MIKIKO)转换而来。
+
+
 **MIKIKO**（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：みきこ，1977年8月11日 - ），有時稱作水野老師，本名水野幹子。是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[編舞](https://zh.wikipedia.org/wiki/編舞 "wikilink")、[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")。頭銜是「演出編舞家」\[1\]。屬藝人經紀公司[Amuse](../Page/Amuse.md "wikilink")旗下人員。因擔任[Perfume與](https://zh.wikipedia.org/wiki/Perfume "wikilink")[BABYMETAL](../Page/BABYMETAL.md "wikilink")的編舞家而聞名，在[里約奧運閉幕式代表日本的表演中](../Page/2016年夏季奧林匹克運動會閉幕式.md "wikilink")，擔任總導演與舞蹈編排而受到世界矚目。
 
 ## 略歴

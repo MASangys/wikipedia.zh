@@ -1,3 +1,6 @@
+> 本文内容由[爆旋陀螺Burst](https://zh.wikipedia.org/wiki/爆旋陀螺Burst)转换而来。
+
+
 《**爆旋陀螺Burst**》（）是以「爆旋陀螺」第3代陀螺系列為題材製作的動畫。由日本玩具公司[TAKARA TOMY在](https://zh.wikipedia.org/wiki/TAKARA_TOMY "wikilink")2015年6月18日於「東京玩具展2015」上宣佈製作，並於2016年4月4日在[東京電視台](../Page/東京電視台.md "wikilink")播出。2017年4月3日開始播出第二季《ベイブレードバースト ゴッド / Beyblade Burst God》。 2018年4月2日開始播出第三季《ベイブレードバースト 超ゼツ / Beyblade Burst Super Z》。 2019年4月5日開始播出第四季《ベイブレードバースト ガチ / Beyblade Burst GT》。
 
 另外，在本次展會上亦宣佈了本作的漫畫化。漫畫將於漫畫月刊《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》8月號上開始連載，動畫也會根據漫畫的內容改編。

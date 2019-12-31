@@ -1,3 +1,6 @@
+> 本文内容由[ThisAV](https://zh.wikipedia.org/wiki/ThisAV)转换而来。
+
+
 **ThisAV**是一家[香港](../Page/香港.md "wikilink")的免费的[色情](../Page/色情.md "wikilink")视频分享网站，内容以[中文为主](https://zh.wikipedia.org/wiki/中文 "wikilink")。\[1\]
 
 ## 手机应用

@@ -1,3 +1,6 @@
+> 本文内容由[Abzû](https://zh.wikipedia.org/wiki/Abzû)转换而来。
+
+
 **Abzû** (又稱 *'ABZÛ **，有译作“**智慧之海*'”)是一个由Giant Squid Studios開發，[505 Games發行的](https://zh.wikipedia.org/wiki/505_Games "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")，遊戲發行於[PlayStation 4](../Page/PlayStation_4.md "wikilink")，[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox One](../Page/Xbox_One.md "wikilink")，最初於2016年8月發布數位版，2017年1月正式推出適用於遊戲機的零售實體版。遊戲中要操控潛水員探索海洋並使用魔法之泉恢復自然生命，玩家可以自由探索露天水域，天然洞穴或古老遺蹟的水下環境。
 
 遊戲發展歷時三年，由十三人的團隊共同開發。幾位成員包括導演 Matt Nava 和作曲家[Austin Wintory曾經製作](https://zh.wikipedia.org/wiki/Austin_Wintory "wikilink")2012年的電子遊戲“[风之旅人](../Page/风之旅人.md "wikilink")” - Abzû的海洋環境中，結合了對“风之旅人”中沙漠環境，和受到 Nava 對水肺潛水的熱愛。Abzû在銷售排行榜上名列前茅，得到了評論家的好評：大多數讚譽美術風格，並與“风之旅人”進行比較。

@@ -1,3 +1,6 @@
+> 本文内容由[Mint](https://zh.wikipedia.org/wiki/Mint)转换而来。
+
+
 《**Mint**》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2016年5月18日發行的第44張單曲\[1\]。
 
 ## 簡介

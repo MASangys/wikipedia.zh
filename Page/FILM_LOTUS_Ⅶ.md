@@ -1,3 +1,6 @@
+> 本文内容由[FILM LOTUS Ⅶ](https://zh.wikipedia.org/wiki/FILM LOTUS Ⅶ)转换而来。
+
+
 《**FILM LOTUS Ⅶ**》，日本女歌手[中島美嘉](../Page/中島美嘉.md "wikilink")的第七張音樂錄影帶選集。2009年3月25日發行。
 
 ## 概述

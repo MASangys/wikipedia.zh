@@ -1,3 +1,6 @@
+> 本文内容由[尹彩暻 \(APRIL\)](https://zh.wikipedia.org/wiki/尹彩暻 \(APRIL\))转换而来。
+
+
 **尹彩暻**\[1\]（，，），藝名**彩暻**（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[C.I.V.A](../Page/C.I.V.A.md "wikilink")、[I.B.I](../Page/I.B.I.md "wikilink")、[APRIL成員](../Page/APRIL_\(女子團體\).md "wikilink")、前[PURETTY](../Page/PURETTY.md "wikilink")成員。曾參加[Kara](../Page/Kara.md "wikilink")新成員遴選節目《[KARA PROJECT-KARA The Beginning](https://zh.wikipedia.org/wiki/KARA_PROJECT-KARA_The_Beginning "wikilink")》以及大型女團選秀節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》。
 
 ## 經歷

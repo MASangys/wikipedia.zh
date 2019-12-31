@@ -1,3 +1,6 @@
+> 本文内容由[Lostorage incited WIXOSS](https://zh.wikipedia.org/wiki/Lostorage incited WIXOSS)转换而来。
+
+
 《**失憶煽動WIXOSS**》（、）是[J.C.STAFF製作的原創電視動畫](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2016年10月起首播\[1\]。
 
 在動畫第12話尾段，宣告推出續篇《失憶融合WIXOSS》（Lostorage conflated WIXOSS），並從2018年4月起播出\[2\]，前作《**[Selector](../Page/Selector_infected_WIXOSS.md "wikilink")**》篇的主角們也再次登場\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[富力R\&F](https://zh.wikipedia.org/wiki/富力R\&F)转换而来。
+
+
 **富力R\&F**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**R\&F**）為[中國足球會](https://zh.wikipedia.org/wiki/PRC "wikilink")[廣州富力的附屬球隊](https://zh.wikipedia.org/wiki/廣州富力 "wikilink")，現時於[香港超級聯賽派員參賽](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")，亦是現時唯一一支在港超作賽的香港境外球隊。
 
 ## 球隊歷史

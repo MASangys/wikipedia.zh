@@ -1,3 +1,6 @@
+> 本文内容由[Tails \(操作系统\)](https://zh.wikipedia.org/wiki/Tails \(操作系统\))转换而来。
+
+
 **Tails**（）是一个侧重安全，基于[Debian](../Page/Debian.md "wikilink")专注于[个人隐私和](https://zh.wikipedia.org/wiki/个人隐私 "wikilink")[匿名性](https://zh.wikipedia.org/wiki/匿名性 "wikilink")，并将非匿名通信进行封锁的操作系统。\[1\] 这个系统所有的外部通信均强制通过[Tor](../Page/Tor.md "wikilink")进行传送，\[2\] 此系统设计为使用[Live DVD或者](../Page/Live_CD.md "wikilink")[Live USB进行引导](https://zh.wikipedia.org/wiki/Live_USB "wikilink")，且不让计算机在非显式行为下留下。另外，[Tor Project对于此项开发提供经济支持](../Page/Tor.md "wikilink")。\[3\]
 
 ## 历史

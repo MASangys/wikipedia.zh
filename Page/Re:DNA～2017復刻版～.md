@@ -1,3 +1,6 @@
+> 本文内容由[Re:DNA～2017復刻版～](https://zh.wikipedia.org/wiki/Re:DNA～2017復刻版～)转换而来。
+
+
 《**Re:DNA～2017復刻版～**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")於2016年12月21日在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北及](https://zh.wikipedia.org/wiki/台北 "wikilink")2017年2月3、4日在[日本](../Page/日本.md "wikilink")[東京舉辦的演唱會](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[1\]
 
 ## 背景

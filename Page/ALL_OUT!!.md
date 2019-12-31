@@ -1,3 +1,6 @@
+> 本文内容由[ALL OUT!!](https://zh.wikipedia.org/wiki/ALL OUT!!)转换而来。
+
+
 《**ALL OUT\!\!**》（）是[雨瀨栞](../Page/雨瀨栞.md "wikilink")的[橄欖球](../Page/橄欖球.md "wikilink")題材[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於[講談社青年漫畫雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")《》2013年1號開始連載，至2020年1號完結。在雜誌上連載時用「\#-」表示。本作品描寫主角祇園健次為初學者，加入縣立[神奈川高校](../Page/神奈川縣.md "wikilink")（簡稱「神高」）[橄欖球](../Page/橄欖球.md "wikilink")社之後面臨各式各樣的挑戰。
 
 動畫方面，2015年9月宣佈改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2016年10月至2017年3月首播\[1\]。

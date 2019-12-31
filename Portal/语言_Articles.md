@@ -1,3 +1,6 @@
+> 本文内容由[Portal:语言/Articles](https://zh.wikipedia.org/wiki/Portal:语言/Articles)转换而来。
+
+
 <center>
 
 **世界语言**

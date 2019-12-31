@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Azure 目錄服務](https://zh.wikipedia.org/wiki/Microsoft Azure 目錄服務)转换而来。
+
+
 **Microsoft Azure 目錄服務** (Azure Active Directory)，簡稱 Azure AD，是 Microsoft Azure 平台上提供身份驗證與存取管理 (Identity and Access Management) 的主要服務，負責管理身份驗證與存取管理的工作。Azure AD 的前身是 AppFabric 的存取控制服務，它是一個基於[HTTP通訊協定的目錄服務](https://zh.wikipedia.org/wiki/HTTP "wikilink") (Directory Service)，與以[LDAP和Kerberos協定為主的](https://zh.wikipedia.org/wiki/LDAP "wikilink") Windows Server [Active Directory](../Page/Active_Directory.md "wikilink") 無法直接共通，必須透過  工具進行帳戶同步後，才能在 Azure AD 中使用 Active Directory 的帳戶。
 
 Azure AD 依功能分為 Basic 版本與 Premium 版本，Basic 版本中包含了標準的單一簽入、帳戶與群組管理、Application Proxy (由 Azure AD 代轉訊息到地端的 AD 網域控制站進行驗證)、Azure AD Connect、基本資安與使用報表；Premium 版則支援了如地端與雲端共用的多重要素驗證、雲端帳戶密碼寫回至地端 AD 帳戶功能、動態群組功能、連線健康偵測與應用程式探索 (Cloud App Discovery) 等功能。Premium 版本也會配合微軟的企業行動套件 (Microsoft Enterprise Mobility Suites/EMS) 一起銷售 \[1\]。

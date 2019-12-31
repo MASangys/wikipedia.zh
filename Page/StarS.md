@@ -1,3 +1,6 @@
+> 本文内容由[StarS](https://zh.wikipedia.org/wiki/StarS)转换而来。
+
+
 ## 簡歷
 
 2012年，音樂劇演員井上芳雄、浦井健治、山崎育三郎三人組成StarS\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[BBC在線](https://zh.wikipedia.org/wiki/BBC在線)转换而来。
+
+
 **BBC在線**（BBC Online），舊稱**BBCi**，是[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（BBC）的網站名稱及其提供的服務。BBC在線提供[BBC新聞](https://zh.wikipedia.org/wiki/BBC新聞 "wikilink")、[BBC體育](../Page/BBC體育.md "wikilink")的內容，以及[BBC iPlayer點播服務](../Page/BBC_iPlayer.md "wikilink")。BBC自1994年就開始網路服務，但在1997年12月才正式開始。2008年，BBC在線改為現名\[1\]。BBC在線是世界訪問量最大的新聞網站之一\[2\]。
 
 ## 參考資料

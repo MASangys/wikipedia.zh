@@ -1,3 +1,6 @@
+> 本文内容由[模块:Hatnote list](https://zh.wikipedia.org/wiki/模块:Hatnote list)转换而来。
+
+
 -----
 
 \-- Module:Hatnote list -- -- -- -- This module produces and formats lists for use in hatnotes. In particular, -- -- it implements the for-see list, i.e. lists of "For X, see Y" statements, -- -- as used in , , and their variants. Also introduced -- -- are andList & orList helpers for formatting lists with those conjunctions. --

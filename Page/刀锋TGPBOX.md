@@ -1,3 +1,6 @@
+> 本文内容由[刀锋TGPBOX](https://zh.wikipedia.org/wiki/刀锋TGPBOX)转换而来。
+
+
 **刀锋TGPBOX**，是[英特尔](../Page/英特尔.md "wikilink")、[腾讯游戏和](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")[海尔推出的游戏主机](https://zh.wikipedia.org/wiki/海尔 "wikilink")。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[BABYMETAL \(專輯\)](https://zh.wikipedia.org/wiki/BABYMETAL \(專輯\))转换而来。
+
+
 《**BABYMETAL**》是日本團體[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2014年2月26日發行的首張同名[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由13首歌曲組成\[4\]。在此之前BABYMETAL已發行過5張單曲，包括首張獨立作品\[5\]〈[心跳☆早晨](../Page/心跳☆早晨.md "wikilink")〉\[6\]、合作作品《[BABYMETAL × Kiba of Akiba](../Page/BABYMETAL_×_Kiba_of_Akiba.md "wikilink")》中收錄的〈Iine\!〉\[7\]、第3張獨立作品〈[HeadBanger\!\!](../Page/HeadBanger!!.md "wikilink")〉\[8\]、正式主流作品〈[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")〉\[9\]、專輯發行前的最新單曲〈[女狐](../Page/女狐.md "wikilink")〉\[10\]，以及B面的歌曲，均收錄此專輯中\[11\]。主唱SU-METAL（[中元鈴香](../Page/中元鈴香.md "wikilink")）說「既是首張專輯，也是精選專輯」\[12\]。
 
 ## 發行

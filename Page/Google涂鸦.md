@@ -1,3 +1,6 @@
+> 本文内容由[Google涂鸦](https://zh.wikipedia.org/wiki/Google涂鸦)转换而来。
+
+
 [The_first_Google_Doodle.png](https://zh.wikipedia.org/wiki/File:The_first_Google_Doodle.png "fig:The_first_Google_Doodle.png")主题涂鸦作品。\]\] **Google涂鸦**（）是为庆祝[节日](https://zh.wikipedia.org/wiki/节日 "wikilink")、纪念日、成就以及纪念杰出人物等而对[Google](../Page/Google.md "wikilink")[首页](../Page/首页.md "wikilink")[商标的一种特殊的临时变更](../Page/Google商標.md "wikilink")。Google的第一个[涂鸦是在](../Page/塗鴉.md "wikilink")1998年为[火人祭活動设计的](https://zh.wikipedia.org/wiki/火人祭 "wikilink")。\[1\]\[2\]这个徽标由[拉里·佩奇](../Page/拉里·佩奇.md "wikilink")和[谢尔盖·布林](../Page/谢尔盖·布林.md "wikilink")亲自设计。此后Google的节日涂鸦都采用设计[外包模式](https://zh.wikipedia.org/wiki/外包 "wikilink")。2000年佩奇和布林让实习生[黄正穆设计](https://zh.wikipedia.org/wiki/黄正穆 "wikilink")[巴士底日的涂鸦](https://zh.wikipedia.org/wiki/巴士底日 "wikilink")。从这时开始，涂鸦开始由“Doodlers”团队的员工管理和发布。\[3\]
 
 Google涂鸦最初不是动画和[超链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")，而是与主题相关的静态图片。但自2010年代开始，涂鸦出现的频率及其复杂程度都有所增加。2010年1月，第一个动画涂鸦推出，这个涂鸦是纪念[艾萨克·牛顿](../Page/艾萨克·牛顿.md "wikilink")的。\[4\]不久后，第一个交互式涂鸦推出，以纪念[吃豆人](../Page/吃豆人.md "wikilink")诞生30周年\[5\]。涂鸦中也开始加入超链接，里面的超链接通常链接到涂鸦主题的[搜索结果页](https://zh.wikipedia.org/wiki/搜索结果页 "wikilink")。截至2014年，Google已经在其网页上发表2000个区域和国际涂鸦。\[6\]

@@ -1,3 +1,6 @@
+> 本文内容由[METAL RESISTANCE](https://zh.wikipedia.org/wiki/METAL RESISTANCE)转换而来。
+
+
 《**METAL RESISTANCE**》（意為金屬抗爭）是日本團體[BABYMETAL](../Page/BABYMETAL.md "wikilink")在2016年4月1日發行的第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由12首歌曲組成\[4\]，發行前〈[Road of Resistance](../Page/Road_of_Resistance.md "wikilink")〉和〈泡泡狂熱〉已在現場演出中亮相過\[5\]，以及2015年在[橫濱體育館](../Page/橫濱體育館.md "wikilink")公演中披露了〈[空手道](../Page/空手道_\(歌曲\).md "wikilink")〉與〈THE ONE〉共四曲\[6\]。如她們的慣例般，[SU-METAL與上張專輯一樣有兩首獨唱曲](../Page/中元鈴香.md "wikilink")〈Amore - 蒼星 -〉及〈NO RAIN, NO RAINBOW〉\[7\]，同樣也收錄了[YUIMETAL與](../Page/水野由結.md "wikilink")[MOAMETAL的雙人曲](../Page/菊地最愛.md "wikilink")〈GJ！〉和〈Sis. Anger〉\[8\]。
 
 ## 發行

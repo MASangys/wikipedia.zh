@@ -1,3 +1,6 @@
+> 本文内容由[Prisma](https://zh.wikipedia.org/wiki/Prisma)转换而来。
+
+
 **Prisma**是利用[神经网络和](../Page/人工神经网络.md "wikilink")[人工智能](../Page/人工智能.md "wikilink")技术，为普通照片加入艺术效果的照片编辑软件\[1\]。软件由阿列克谢·莫伊辛恩科夫（）创建，于2016年6月作为免费[移动应用程序上线](https://zh.wikipedia.org/wiki/移动应用程序 "wikilink")\[2\]。上线首周，该应用受到推崇，截至2016年7月已被下载750万次，收获100万活跃用户\[3\]\[4\]。应用最初透过苹果[App Store在](https://zh.wikipedia.org/wiki/App_Store "wikilink")[iOS上首次亮相](https://zh.wikipedia.org/wiki/iOS "wikilink")，成为俄罗斯及其邻国App Store的领衔应用程序\[5\]。2016年7月9日，开发者发布应用的[安卓测试版](https://zh.wikipedia.org/wiki/安卓 "wikilink")，数小时后因用户反馈而被开发者关闭\[6\]\[7\]，之后于2016年7月24日在[Google Play公开发行](../Page/Google_Play.md "wikilink")\[8\]。
 
 2016年7月，开发者宣称软件的视频和[虚拟现实](../Page/虚拟现实.md "wikilink")版目前正在开发中\[9\]\[10\]。

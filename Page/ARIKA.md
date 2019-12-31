@@ -1,3 +1,6 @@
+> 本文内容由[ARIKA](https://zh.wikipedia.org/wiki/ARIKA)转换而来。
+
+
 **株式會社ARIKA**（，）是一家總公司位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")\[1\]，專門從事[家用電視遊戲開發的遊戲公司](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")。成立於1995年。
 
 ## 公司概要

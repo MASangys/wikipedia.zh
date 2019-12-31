@@ -1,3 +1,6 @@
+> 本文内容由[Oxenfree](https://zh.wikipedia.org/wiki/Oxenfree)转换而来。
+
+
 《**Oxenfree**》是由[夜校工作室](https://zh.wikipedia.org/wiki/夜校工作室 "wikilink")（Night School Studio）開發並發行的一款[驚悚風格](https://zh.wikipedia.org/wiki/驚悚遊戲 "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[獨立遊戲](../Page/独立游戏.md "wikilink")。本作首先於2016年1月15日在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Xbox One等平台上發行](../Page/Xbox_One.md "wikilink")\[1\]，後來又分別於同年的5月31日及6月1日發行了[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Linux](../Page/Linux.md "wikilink")的版本 \[2\]，于2017年10月6日在[Nintendo Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink") eShop上架销售\[3\]。
 
 ## 遊戲模式

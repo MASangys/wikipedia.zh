@@ -1,3 +1,6 @@
+> 本文内容由[生命揸fit人](https://zh.wikipedia.org/wiki/生命揸fit人)转换而来。
+
+
 是一部於1999年出品的香港福音電影，由[潘亨利擔任導演](https://zh.wikipedia.org/wiki/潘亨利 "wikilink")，[袁文輝監製](https://zh.wikipedia.org/wiki/袁文輝 "wikilink")，以及由[黃貫中](../Page/黃貫中.md "wikilink")、[朱茵](../Page/朱茵.md "wikilink")、[王喜](../Page/王喜.md "wikilink")、[黃美芬](../Page/黃美芬.md "wikilink")、[陳恩明和](https://zh.wikipedia.org/wiki/陳恩明 "wikilink")[林以諾](../Page/林以諾.md "wikilink")擔任演出。本片榮獲第36屆[金馬獎](../Page/金馬獎.md "wikilink")最佳女主角提名及第五屆[香港電影金紫荊獎](../Page/香港電影金紫荊獎.md "wikilink")最佳男配角提名。
 
 ## 故事簡介

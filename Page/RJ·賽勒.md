@@ -1,3 +1,6 @@
+> 本文内容由[RJ·賽勒](https://zh.wikipedia.org/wiki/RJ·賽勒)转换而来。
+
+
 **倫納德·「RJ」·賽勒二世**（，）或簡稱**RJ·賽勒**（），是一位[美國男演員](https://zh.wikipedia.org/wiki/美國 "wikilink")。他較知名的是在2015年電影《[我們的故事未完待續](../Page/我們的故事未完待續.md "wikilink")》中所飾演的厄爾，以及2017年電影《[金剛戰士](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》中的一角。
 
 ## 早期生活

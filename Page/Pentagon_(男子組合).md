@@ -1,3 +1,6 @@
+> 本文内容由[Pentagon \(男子組合\)](https://zh.wikipedia.org/wiki/Pentagon \(男子組合\))转换而来。
+
+
 **PENTAGON**（，官方簡稱：**PTG**）是韓國[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下的9人[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，最初由10名成員組成，現任成員有[韓國籍的](https://zh.wikipedia.org/wiki/韓國 "wikilink") [珍虎](../Page/趙珍虎.md "wikilink")、[Hui](../Page/李會澤.md "wikilink")、洪碩、信源、Yeo One、Kino、禹奭，[日本](../Page/日本.md "wikilink")籍的Yuto，以及[中國](../Page/中國.md "wikilink")籍的閆桉。
 
 2016年5月2日，出道節目《[PENTAGON MAKER](https://zh.wikipedia.org/wiki/PENTAGON_MAKER "wikilink")》首播，10月10日正式出道，發行首張迷你專輯《PENTAGON》，主打歌《GORILLA》，10月13日，MNET《M Countdown》首次出演。團名是期許「兼具歌唱/Rap、舞蹈、才華、團隊合作、意志」，問候口號是「TENTASTIC\!大家好，我們是PENTAGON\!」，粉絲名是「UNIVERSE」，應援色是「UNINAVY」。

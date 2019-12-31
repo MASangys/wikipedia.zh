@@ -1,3 +1,6 @@
+> 本文内容由[K·p微扰论](https://zh.wikipedia.org/wiki/K·p微扰论)转换而来。
+
+
 在[固体物理中](https://zh.wikipedia.org/wiki/固体物理 "wikilink")，**K·p微扰论**或**K·p微扰法**，是一种用来计算固体[能带结构](../Page/能带结构.md "wikilink")和光学性质的[微扰方法](https://zh.wikipedia.org/wiki/微扰论 "wikilink")，因微扰[哈密顿算符](../Page/哈密顿算符.md "wikilink")中出现了正比于简约波矢（k）与动量算符（p）[内积的项而得名](https://zh.wikipedia.org/wiki/内积 "wikilink")。通过这种方法可以估计[半导体](../Page/半导体.md "wikilink")中的电子在[导带底](https://zh.wikipedia.org/wiki/导带 "wikilink")（或[空穴在价带顶](https://zh.wikipedia.org/wiki/空穴 "wikilink")）的[有效质量](https://zh.wikipedia.org/wiki/有效质量 "wikilink")。\[1\]\[2\]
 
 ## 推导

@@ -1,3 +1,6 @@
+> 本文内容由[CODE浮士德遊戲](https://zh.wikipedia.org/wiki/CODE浮士德遊戲)转换而来。
+
+
 《**CODE 浮士德遊戲**》（），2016年[臺灣](../Page/臺灣.md "wikilink")網路劇，首度以科幻為主的偶像劇。為集合電影首部自製網路電視劇，獲得文化部104年度補助製作行動寬頻影音節目補助，由[吳慷仁](../Page/吳慷仁.md "wikilink")、[謝沛恩](../Page/謝沛恩.md "wikilink")、[張翰領銜主演](../Page/張翰_\(台灣演員\).md "wikilink")。\[1\]\[2\]，2016年3月4日全劇正式殺青\[3\]，於2016年10月1日起在[愛奇藝台灣站上架](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")，2017年1月21日在[衛視電影台](../Page/衛視電影台.md "wikilink")播出。
 
 ## 播出時間

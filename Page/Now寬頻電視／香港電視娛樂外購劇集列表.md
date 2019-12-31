@@ -1,3 +1,6 @@
+> 本文内容由[Now寬頻電視／香港電視娛樂外購劇集列表](https://zh.wikipedia.org/wiki/Now寬頻電視／香港電視娛樂外購劇集列表)转换而来。
+
+
 本條目列出曾於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放但並非由其公司所製作的**外購劇集**，一般由配音公司製作[粵語聲道以雙語廣播](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
 <small>註：劇集名稱**前**的為該劇於[Now寬頻電視](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")的首播日期及頻道，劇集名稱後的為該劇於其所屬地區的首播頻道。</small>
 

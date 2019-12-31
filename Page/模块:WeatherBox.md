@@ -1,3 +1,6 @@
+> 本文内容由[模块:WeatherBox](https://zh.wikipedia.org/wiki/模块:WeatherBox)转换而来。
+
+
 w = {}; math_mod = require( "Module:Math" ); wbc = require( "Module:WeatherBoxColors" );
 
 function checkFlag( flag )

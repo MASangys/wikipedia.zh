@@ -1,3 +1,6 @@
+> 本文内容由[Why \(太妍迷你專輯\)](https://zh.wikipedia.org/wiki/Why \(太妍迷你專輯\))转换而来。
+
+
 《**Why**》是韓國組合[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](../Page/太妍.md "wikilink")的第二張迷你專輯，由[SM娛樂](../Page/SM娛樂.md "wikilink")企劃，[KT Music於](https://zh.wikipedia.org/wiki/KT_Music "wikilink")2016年6月28日發行。
 
 ## 發行

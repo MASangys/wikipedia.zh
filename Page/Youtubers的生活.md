@@ -1,3 +1,6 @@
+> 本文内容由[Youtubers的生活](https://zh.wikipedia.org/wiki/Youtubers的生活)转换而来。
+
+
 是一个即将推出的[生活和](../Page/生活模擬遊戲.md "wikilink")[业务模拟](../Page/模拟经营游戏.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，由[西班牙](../Page/西班牙.md "wikilink")独立的公司U-Play online發行。2016年5月18日，[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS X平台可以在](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Steam](../Page/Steam.md "wikilink")下载早期版。之后，当游戏准备充分時会在Microsoft Windows、OS X和Linux平台發佈正式版。游戏带有中文版，但翻译质量下乘。
 
 ## 游戏
