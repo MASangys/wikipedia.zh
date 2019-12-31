@@ -1,4 +1,4 @@
-> 本文内容由[Snarky Puppy](https://zh.wikipedia.org/wiki/Snarky Puppy)转换而来。
+> 本文内容由[Snarky Puppy](https://zh.wikipedia.org/wiki/Snarky_Puppy)转换而来。
 
 
 **暴烈幼犬** 是由Michael League（[電貝斯](../Page/電貝斯.md "wikilink")手, 作曲家, [音樂製作人](../Page/音樂製作人.md "wikilink"), [葛萊美獎](../Page/葛萊美獎.md "wikilink")得主）所帶領的, 位於[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[融合爵士樂樂團](https://zh.wikipedia.org/wiki/融合爵士樂 "wikilink")。於2004年成立於[德克薩斯州的登頓](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")。樂團的特色是其共有約40名音樂家組成，在不同的巡迴演出和錄音時都能上陣演出。其樂器包括了吉他，鋼琴，鍵盤樂器，木管，銅管，打擊以及弦樂器。許多目前及前任團員皆為[北德克薩斯大學](../Page/北德克薩斯大學.md "wikilink")畢業的學生。

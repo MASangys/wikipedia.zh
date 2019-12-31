@@ -1,4 +1,4 @@
-> 本文内容由[Back in Black](https://zh.wikipedia.org/wiki/Back in Black)转换而来。
+> 本文内容由[Back in Black](https://zh.wikipedia.org/wiki/Back_in_Black)转换而来。
 
 
 《**回歸黑暗**》（英語：Back in Black）是[澳大利亚](../Page/澳大利亚.md "wikilink")摇滚乐队的第七张录音室专辑，发行于1980年7月。这是担任主唱后的首张专辑，前主唱因饮酒过量于专辑录制前意外去世。

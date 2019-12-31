@@ -1,4 +1,4 @@
-> 本文内容由[System of a Down \(專輯\)](https://zh.wikipedia.org/wiki/System of a Down \(專輯\))转换而来。
+> 本文内容由[System of a Down \(專輯\)](https://zh.wikipedia.org/wiki/System_of_a_Down_\(專輯\))转换而来。
 
 
 《**System Of A Down**》是美國搖滾樂隊[墮落體制的第一張專輯](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，1998年發表。

@@ -1,4 +1,4 @@
-> 本文内容由[One Card](https://zh.wikipedia.org/wiki/One Card)转换而来。
+> 本文内容由[One Card](https://zh.wikipedia.org/wiki/One_Card)转换而来。
 
 
 **One Card**是流行於[韓國的一個](https://zh.wikipedia.org/wiki/韓國 "wikilink")[紙牌遊戲](https://zh.wikipedia.org/wiki/紙牌遊戲 "wikilink")，是[UNO](../Page/UNO.md "wikilink")的變體，但不需要使用UNO的特製牌，只要使用含有2張鬼牌的[撲克牌就可以了](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")。
