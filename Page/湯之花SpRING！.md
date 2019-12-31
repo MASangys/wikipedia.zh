@@ -1,3 +1,6 @@
+> 本文内容由[湯之花SpRING！](https://zh.wikipedia.org/wiki/湯之花SpRING！)转换而来。
+
+
 是[Otomate预定于](https://zh.wikipedia.org/wiki/Otomate "wikilink")2015年9月17日起\[1\]\[2\]，以[PlayStation Vita形式發售的獨佔遊戲](../Page/PlayStation_Vita.md "wikilink")。\[3\]\[4\]名字的意思是“溫泉之花 春天！”，「湯之花」發音（ゆのは）與女主角結乃葉的發音相同，所以有暗示另一個意思是「結乃葉的春天」。
 
 ## 故事大綱

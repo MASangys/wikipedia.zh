@@ -1,3 +1,6 @@
+> 本文内容由[KKTIX](https://zh.wikipedia.org/wiki/KKTIX)转换而来。
+
+
 **KKTIX活動報名售票平台**是一家[台灣的線上售票網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")。前身為2007年9月成立的Registrano\[1\]，2013年10月31日轉移到[KKBOX](../Page/KKBOX.md "wikilink")旗下並改名為KKTIX。
 
 2015年4月23日，KKBOX分兩階段投資[華娛網路娛樂股份有限公司](http://www.walkieticket.com/)，成為華娛網路的最大[法人](../Page/法人.md "wikilink")[股東](https://zh.wikipedia.org/wiki/股東 "wikilink")\[2\]。KKTIX則與華娛售票系統整併，保留KKTIX的名稱，但由華娛網路團隊營運\[3\]。

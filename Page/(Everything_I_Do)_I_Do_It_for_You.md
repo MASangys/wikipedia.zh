@@ -1,3 +1,6 @@
+> 本文内容由[\(Everything I Do\) I Do It for You](https://zh.wikipedia.org/wiki/\(Everything I Do\) I Do It for You)转换而来。
+
+
 《**一切皆為你**》（**(Everything I Do) I Do It for You**）是加拿大男歌手[布萊恩·亞當斯在](https://zh.wikipedia.org/wiki/布萊恩·亞當斯 "wikilink")1991年6月發行的歌曲，它同時也是電影《俠盜王子羅賓漢》（Robin Hood:Prince Of Thieves）的主題曲。〈一切皆為你〉除了分別摘下美國[告示牌單曲榜](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")7週冠軍以及[英國單曲榜](../Page/英國單曲排行榜.md "wikilink")16週冠軍之外，更為布萊恩·亞當斯奪下生平首座[葛萊美獎](../Page/葛萊美獎.md "wikilink")，布萊恩·亞當斯也藉著這首歌曲鹹魚翻身再創演藝事業巔峰\[1\]\[2\]\[3\]。
 
 ## 資料

@@ -1,3 +1,6 @@
+> 本文内容由[偵探小隊KZ事件簿](https://zh.wikipedia.org/wiki/偵探小隊KZ事件簿)转换而来。
+
+
 ，[日本](../Page/日本.md "wikilink")[兒童文學作品](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")，[藤本瞳原作](https://zh.wikipedia.org/wiki/藤本瞳 "wikilink")、[住瀧良寫作的兒童偵探冒險文學](https://zh.wikipedia.org/wiki/住瀧良 "wikilink")。2011年，成為[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")[青鳥文庫系列作品之一](https://zh.wikipedia.org/wiki/青鳥文庫 "wikilink")。該作經改編，2015年10月7日起在[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")的《[天才兒童MAX](../Page/天才兒童MAX.md "wikilink")》中播放每集長10分鐘的短篇[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。該動畫由[IG Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Signal-MD」負責製作，該公司相關之動畫企劃向來主要都是兒童向作品。
 
 ## 故事簡介

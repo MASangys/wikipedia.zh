@@ -1,3 +1,6 @@
+> 本文内容由[Lost and Found \(IU迷你专辑\)](https://zh.wikipedia.org/wiki/Lost and Found \(IU迷你专辑\))转换而来。
+
+
 《**Lost and Found**》是韩国创作歌手IU的出道迷你专辑。
 
 ## 曲目

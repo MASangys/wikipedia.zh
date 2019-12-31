@@ -1,3 +1,6 @@
+> 本文内容由[Escu:de](https://zh.wikipedia.org/wiki/Escu:de)转换而来。
+
+
 **Escu:de**（エスクード）是日本Element（エレメント）公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於1998年5月在[大阪市](../Page/大阪市.md "wikilink")成立。\[1\]\[2\]2008年和[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（あかべぇそふとつぅ）共同製作《こんぼく麻雀 〜こんな麻雀があったら僕はロン\!〜》。\[3\]
 
 ## 作品列表

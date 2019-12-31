@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士×假面騎士 Ghost \& Drive 超MOVIE大戰 Genesis](https://zh.wikipedia.org/wiki/假面騎士×假面騎士 Ghost \& Drive 超MOVIE大戰 Genesis)转换而来。
+
+
 《**假面騎士×假面騎士 Ghost & Drive 超MOVIE大戰 Genesis**》（），是日本特攝節目《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》聯動劇場版，日本地區於2015年12月12日上映。
 
 本作劇場版的口號為「世紀大天才＜李奧納多·達文西＞ VS 假面騎士」「10年前種下的謎團、Ghost和Drive<起源>『創世紀』的聯繫」。

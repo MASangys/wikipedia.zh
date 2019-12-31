@@ -1,3 +1,6 @@
+> 本文内容由[Come Back to Me \(珍娜·傑克森歌曲\)](https://zh.wikipedia.org/wiki/Come Back to Me \(珍娜·傑克森歌曲\))转换而来。
+
+
 〈**回到我身邊**〉（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Come Back to Me**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1990年6月推出的單曲，這首單曲在告示牌單曲榜獲得第2名的成績\[1\]。
 
 ## 歌曲介紹

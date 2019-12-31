@@ -1,3 +1,6 @@
+> 本文内容由[洛克人X \(遊戲\)](https://zh.wikipedia.org/wiki/洛克人X \(遊戲\))转换而来。
+
+
 是1993年12月17日[卡普空](../Page/卡普空.md "wikilink")發行於[超級任天堂](../Page/超級任天堂.md "wikilink")上的[電視遊戲](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")，[洛克人系列](../Page/洛克人系列.md "wikilink")的第一個分支，也是[洛克人X系列](../Page/洛克人X系列.md "wikilink")主軸故事的最初作品。
 
 除最初的[超級任天堂](../Page/超級任天堂.md "wikilink")版本外亦有移植、1996年5月24日推出[Windows版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2012年1月12日推出[iphone版本](https://zh.wikipedia.org/wiki/iphone "wikilink")，而在2013年5月22日推出了[WiiU的完全移植版](https://zh.wikipedia.org/wiki/WiiU "wikilink")。

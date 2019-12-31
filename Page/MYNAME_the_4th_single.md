@@ -1,3 +1,6 @@
+> 本文内容由[MYNAME the 4th single](https://zh.wikipedia.org/wiki/MYNAME the 4th single)转换而来。
+
+
 《**MYNAME the 4th single**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第四張韓語實體[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[金建宇](https://zh.wikipedia.org/wiki/金建宇 "wikilink")（）與[220VOLT創作](https://zh.wikipedia.org/wiki/220VOLT "wikilink")，並在2015年5月13日推出\[1\]。
 
 ## 背景

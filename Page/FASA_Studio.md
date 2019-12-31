@@ -1,3 +1,6 @@
+> 本文内容由[FASA Studio](https://zh.wikipedia.org/wiki/FASA Studio)转换而来。
+
+
 **FASA Studio**（前称**FASA Interactive Technologies Inc**），成立于1995年，由FASA Corporation, Spectrum HoloByte和Denny Thorley创立。
 
 1996年，FASA Interactive和Virtual World Entertainment被Virtual World Entertainment Group（VWEG）收购。1999年，微软公司收购VWEG，FASA Interactive改为FASA Studio，并成为微软工作室的一个组成部分。

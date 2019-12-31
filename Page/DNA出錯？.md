@@ -1,3 +1,6 @@
+> 本文内容由[DNA出錯？](https://zh.wikipedia.org/wiki/DNA出錯？)转换而来。
+
+
 《**DNA出錯?**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎明](../Page/黎明.md "wikilink")的個人音樂專輯，於1997年推出\[1\]。
 
 ## 曲目

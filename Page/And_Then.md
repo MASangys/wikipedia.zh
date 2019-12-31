@@ -1,3 +1,6 @@
+> 本文内容由[And Then](https://zh.wikipedia.org/wiki/And Then)转换而来。
+
+
 **《And Then》**為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")入行20周年的全新大碟\[1\]，亦是其第二十張個人粵語大碟(第31張個人專輯)，於2016年1月11日正式發售。2015年12月26日經已於[iTunes開放預購專輯](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄Digital Booklet，專輯推出首日旋即高踞iTunes排行榜No.1位置。首批實體限量版反應熱烈，開售3天便賣斷市並引起炒風\[2\]，因此唱片公司決定提早於2016年1月15日加推精裝版本。是次專輯回響極佳，甚至連2016年1月30日舉行的簽唱會證亦引發炒賣潮\[3\]\!
 
 專輯共收錄了9首粵語歌曲及1首國語歌曲，隨碟內附40頁寫真歌冊。首批二十週年特別版全球限量2000張，特別加送DVD收錄《其後》、《請放心傷我》、《Let's Celebrate》三首MV。

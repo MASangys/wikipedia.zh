@@ -1,3 +1,6 @@
+> 本文内容由[希望之星ON型4WD](https://zh.wikipedia.org/wiki/希望之星ON型4WD)转换而来。
+
+
 **希望之星ON型4WD**（）乃是1967年由[日本](../Page/日本.md "wikilink")[希望汽車開發的](../Page/希望公司.md "wikilink")[輕型車](../Page/輕型車.md "wikilink")，也是日本首部國產的輕型越野[四輪驅動車](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，更是[鈴木Jimny](../Page/鈴木Jimny.md "wikilink")的原型。也有人稱呼為**希望之星ON360**（），目前日本僅存2輛。
 
 ## 歷史與概要

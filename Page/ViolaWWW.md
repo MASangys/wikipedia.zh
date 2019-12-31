@@ -1,3 +1,6 @@
+> 本文内容由[ViolaWWW](https://zh.wikipedia.org/wiki/ViolaWWW)转换而来。
+
+
 **ViolaWWW**是[全球資訊網](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")（WWW）第一個流行的[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，目前已停止开发。其首次在1991／1992年的[UNIX](../Page/UNIX.md "wikilink")作業系統上发布，並成為受全球資訊網发源组织[CERN所推荐的瀏覽器](../Page/歐洲核子研究組織.md "wikilink")\[1\]，但其最常用瀏覽器的地位最終被[Mosaic](../Page/Mosaic.md "wikilink")浏览器取代。
 
 ## Viola語言

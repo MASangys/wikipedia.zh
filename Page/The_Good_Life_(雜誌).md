@@ -1,3 +1,6 @@
+> 本文内容由[The Good Life \(雜誌\)](https://zh.wikipedia.org/wiki/The Good Life \(雜誌\))转换而来。
+
+
 《**The Good Life**》，是一本源自[法國的商業生活混合型](https://zh.wikipedia.org/wiki/法國 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，2011年由[IDEAT Editions創刊](https://zh.wikipedia.org/wiki/IDEAT_Editions "wikilink")。內容涵蓋[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[建築](https://zh.wikipedia.org/wiki/建築 "wikilink")、[環保](https://zh.wikipedia.org/wiki/環保 "wikilink")、[旅行](../Page/旅行.md "wikilink")、[設計](../Page/設計.md "wikilink")等，題材較國際化及多元化。以[雜誌書](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")（mook）概念製作，每期頁數約300頁。主要目標讀者為商業界高收入年輕[男性](../Page/男性.md "wikilink")。\[1\]
 
 其中文版於2014年6月推出，由[現代傳播出版及發行](https://zh.wikipedia.org/wiki/現代傳播 "wikilink")，部分內容由法國IDEAT Editions提供版權，其餘則為當地製作的本土議題。每雙月5日出版，分別主要在[香港](../Page/香港.md "wikilink")及中國內地一線城市發行繁體中文及簡體中文版。

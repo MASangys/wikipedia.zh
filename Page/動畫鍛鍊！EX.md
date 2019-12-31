@@ -1,3 +1,6 @@
+> 本文内容由[動畫鍛鍊！EX](https://zh.wikipedia.org/wiki/動畫鍛鍊！EX)转换而来。
+
+
 《**動畫鍛鍊！EX**》（）是[濁川敦導演](https://zh.wikipedia.org/wiki/濁川敦 "wikilink")，Rising Force製作的5分鐘短篇動畫，並於2015年10月13日在[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[SUN電視台和](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")[Niconico動畫](../Page/Niconico動畫.md "wikilink")開始播放\[1\]\[2\]。故事以[第一身視覺與女孩一起做運動](https://zh.wikipedia.org/wiki/漢語人稱代詞 "wikilink")，並會有訓練的解說\[3\]。
 
 在第5集因[CG動畫欠佳而遭觀眾負評](../Page/计算机图形.md "wikilink")，在召開緊急反省會後\[4\]，第8集改為使用手繪的2D作畫呈現。

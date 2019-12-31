@@ -1,3 +1,6 @@
+> 本文内容由[TG1](https://zh.wikipedia.org/wiki/TG1)转换而来。
+
+
 **TG1**（，全称为“**TeleGiornale 1**”，直译为“一台电视新闻”），是[意大利广播电视公司](../Page/意大利广播电视公司.md "wikilink")（RAI）旗下频道[Rai 1的新闻节目](https://zh.wikipedia.org/wiki/Rai_1 "wikilink")，每天播出多次。节目也通过RAI的对外频道向海外播出。
 
 ## 历史

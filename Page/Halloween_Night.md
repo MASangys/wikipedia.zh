@@ -1,3 +1,6 @@
+> 本文内容由[Halloween Night](https://zh.wikipedia.org/wiki/Halloween Night)转换而来。
+
+
 《**Halloween Night**》（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")的第41張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在2015年8月26日由[國王唱片](../Page/國王唱片.md "wikilink")發售。此張單曲的同名[A面曲與搭配的多首](https://zh.wikipedia.org/wiki/A面曲 "wikilink")[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")，是根據同年6月6日揭榜的[第七屆選拔總選舉之開票名次決定參與演唱成員名單](https://zh.wikipedia.org/wiki/AKB48第41張單曲選拔總選舉 "wikilink")，因此是由[HKT48](../Page/HKT48.md "wikilink")成員[指原莉乃](../Page/指原莉乃.md "wikilink")擔任[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員），這也是指原莉乃自2013年的發行《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》以來再次單獨擔任AKB48單曲的Center。
 
 ## 簡介

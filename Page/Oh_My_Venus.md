@@ -1,3 +1,6 @@
+> 本文内容由[Oh My Venus](https://zh.wikipedia.org/wiki/Oh My Venus)转换而来。
+
+
 《**Oh My Venus**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年11月16日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[苏志燮](https://zh.wikipedia.org/wiki/苏志燮 "wikilink")、[新慜娥](../Page/新慜娥.md "wikilink")主演，《我结婚的理由》的金恩智作家與《[顺藤而上的你](https://zh.wikipedia.org/wiki/顺藤而上的你 "wikilink")》[金亨碩導演共同打造](https://zh.wikipedia.org/wiki/金亨碩 "wikilink")。此劇講述男主角（[蘇志燮](../Page/蘇志燮.md "wikilink")飾）是個視健康比什麼都還重要的知名健身教練，而女主角（[新慜娥](../Page/新慜娥.md "wikilink")飾）是位學生時期聰明又美麗，但長大後卻變成一位肥胖的律師，此劇講述了他們偶遇後、通過減肥重拾健康並發展成愛情的浪漫喜劇。\[1\]
 
 ## 演員陣容

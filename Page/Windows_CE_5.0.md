@@ -1,3 +1,6 @@
+> 本文内容由[Windows CE 5.0](https://zh.wikipedia.org/wiki/Windows CE 5.0)转换而来。
+
+
 **Windows CE 5.0**(代号为“**Macallan**”) \[1\]是Windows CE 4.2的后续版本,Windows CE .NET家庭版的第三个发行版本。
 
 Windows CE 5.0首次发布于2004年7月9日。和之前的版本一样,Windows CE 5.0面向嵌入式设备市场和独立设备供应商。Windows CE 5.0被宣传为一个低成本、紧凑、快速市场化、实时操作系统，并用于x86、ARM、MIPS、基于微处理器的SuperH操作系统。Windows CE 5.0建立在先前的Windows CE发行版采用的共享源之上。自2001年以来,微软一直在与嵌入式系统开发者一起稳步扩大可用的Windows CE源代码树。Windows CE 5.0是迄今为止最开放的微软操作系统,虽然在共享源协议下并不是系统的所有内容都是可获取的。开发者可以自由修改内核级别的内容,而不需要和微软或竞争对手分享他们的修改。

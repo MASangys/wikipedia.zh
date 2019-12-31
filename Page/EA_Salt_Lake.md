@@ -1,3 +1,6 @@
+> 本文内容由[EA Salt Lake](https://zh.wikipedia.org/wiki/EA Salt Lake)转换而来。
+
+
 **EA Salt Lake**，是美国犹他州盐湖城的一个游戏开发商。该工作室为[艺电](../Page/艺电.md "wikilink")所有。
 
 1992年，EA Salt Lake由该工作室的总裁Vance Cook创立，\[1\]当时名为Headgate Studios。Vance Cook曾是Access Software旗下高尔夫模拟游戏的程序员，因此他有足够的知识和经验知道如何制作高尔夫游戏。\[2\]Headgate的第一个产品是PentaCalc，该软件是[Windows系统的科学计算器](https://zh.wikipedia.org/wiki/Windows系统 "wikilink")。\[3\]

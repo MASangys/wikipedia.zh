@@ -1,3 +1,6 @@
+> 本文内容由[B.Gs](https://zh.wikipedia.org/wiki/B.Gs)转换而来。
+
+
 **B.Gs**，為一隊[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，現任成員包括鄒莉盈（Ceci）、方堯（Yona）、周汶希（Jovi）、霍柔心（Riley）及唐菲（Toffee），B.Gs 於2015年正式加入樂壇。
 
 ### EP

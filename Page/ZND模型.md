@@ -1,3 +1,6 @@
+> 本文内容由[ZND模型](https://zh.wikipedia.org/wiki/ZND模型)转换而来。
+
+
 **ZND模型**是描述[炸藥](https://zh.wikipedia.org/wiki/炸藥 "wikilink")的一維模型，在[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，由[雅可夫·泽尔多维奇](../Page/雅可夫·泽尔多维奇.md "wikilink")\[1\]、[約翰·馮·諾伊曼](https://zh.wikipedia.org/wiki/約翰·馮·諾伊曼 "wikilink")\[2\]及[沃納·多靈](../Page/沃納·多靈.md "wikilink")\[3\]三人獨立提出，故以他們三人的姓的第一個字母組合，成為ZND模型的名字。
 
 此模型允許有限速率的化學反應，因此引爆過程包括以下階段。一開始，一個無限薄的震波壓縮炸藥產生高壓，稱為馮紐曼尖鋒脈沖（von Neumann spike）。在出現馮紐曼尖鋒脈沖時，炸藥尚未反應。但脈沖發生了一個放熱化學反應的區域，稱為。之後引爆產物往後膨脹。

@@ -1,3 +1,6 @@
+> 本文内容由[NanaWind](https://zh.wikipedia.org/wiki/NanaWind)转换而来。
+
+
 **NanaWind**（ナナウィンド）是日本アスカデザイン公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 作品列表

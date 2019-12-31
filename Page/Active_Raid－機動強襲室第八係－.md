@@ -1,3 +1,6 @@
+> 本文内容由[Active Raid－機動強襲室第八係－](https://zh.wikipedia.org/wiki/Active Raid－機動強襲室第八係－)转换而来。
+
+
 《**Active Raid－機動強襲室第八係－**》是[谷口悟朗](../Page/谷口悟朗.md "wikilink")擔任總監督，[Production IMS製作的原創動畫](../Page/Production_IMS.md "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 
 ## 故事簡介

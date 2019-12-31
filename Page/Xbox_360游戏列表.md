@@ -1,3 +1,6 @@
+> 本文内容由[Xbox 360游戏列表](https://zh.wikipedia.org/wiki/Xbox 360游戏列表)转换而来。
+
+
 本电子游戏列表列举了[微软](../Page/微软.md "wikilink")[Xbox360的](https://zh.wikipedia.org/wiki/Xbox360 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏列表

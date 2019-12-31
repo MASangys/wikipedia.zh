@@ -1,3 +1,6 @@
+> 本文内容由[REFLECTION](https://zh.wikipedia.org/wiki/REFLECTION)转换而来。
+
+
 《**REFLECTION**》是[日本](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第18張[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2015年6月4日發行。
 
 ## 簡介

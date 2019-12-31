@@ -1,3 +1,6 @@
+> 本文内容由[Istec ISL-200附加型榴彈發射器](https://zh.wikipedia.org/wiki/Istec ISL-200附加型榴彈發射器)转换而来。
+
+
 **Istec ISL-200**是一款由[英国位於哈特福群](https://zh.wikipedia.org/wiki/英国 "wikilink")[ISTEC技術服務有限公司所研製和生產的小型單發下掛式](https://zh.wikipedia.org/wiki/ISTEC技術服務有限公司 "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它可以下掛於[步枪](../Page/步枪.md "wikilink")甚至[冲锋枪](../Page/冲锋枪.md "wikilink")的下護木，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 概述

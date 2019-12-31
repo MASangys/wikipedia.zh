@@ -1,3 +1,6 @@
+> 本文内容由[Alien](https://zh.wikipedia.org/wiki/Alien)转换而来。
+
+
 《**Alien**》（藝術體《**ALiƎN**》）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[黃鴻升的第四張專輯](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")，是他自2013年《[超有感](../Page/超有感.md "wikilink")》後的相隔兩年的作品。這大碟在2015年11月11日開始預購，並在11月27日推出。
 
 專輯第一主打《拿破崙》在11月2日於[Hito radio首播派台](https://zh.wikipedia.org/wiki/Hito_radio "wikilink")\[1\]

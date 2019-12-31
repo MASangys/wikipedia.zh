@@ -1,3 +1,6 @@
+> 本文内容由[CEV聯賽冠軍盃](https://zh.wikipedia.org/wiki/CEV聯賽冠軍盃)转换而来。
+
+
 **CEV聯賽冠軍盃**（官方統一名稱：CEV Champions League），又譯**CEV冠軍聯賽**，通稱**男排歐冠盃**，由[歐洲排球聯合會](https://zh.wikipedia.org/wiki/歐洲排球聯合會 "wikilink")（CEV）舉辦的年度排球比賽，是歐洲最頂級的俱樂部聯賽。
 
 最初由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")向[國際排球聯合會](https://zh.wikipedia.org/wiki/國際排球聯合會 "wikilink")（FIVB）提出，自1959－1960年度首屆，羅馬尼亞球隊連續十屆晉身決賽，五度稱王。[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[莫斯科中央陸軍除了奪得首屆冠軍以外](https://zh.wikipedia.org/wiki/莫斯科中央陸軍_\(排球\) "wikilink")，至1991年[蘇聯解體前](https://zh.wikipedia.org/wiki/蘇聯解體 "wikilink")12奪冠軍，為奪冠之最。隨後，1991-92至1999-00連續九屆由[意大利](../Page/意大利.md "wikilink")球會奪冠，風雲一時。而近年則多數是由[俄羅斯頂尖球會奪冠](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。2019年，意大利的球队奇维塔诺瓦击败俄罗斯的喀山夺冠，俄罗斯球队的7连冠被奇维塔诺瓦终结。

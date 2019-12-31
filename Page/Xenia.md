@@ -1,3 +1,6 @@
+> 本文内容由[Xenia](https://zh.wikipedia.org/wiki/Xenia)转换而来。
+
+
 **Xenia**是一个在[Windows上运行的免费](https://zh.wikipedia.org/wiki/Windows "wikilink")[开源的](../Page/开源软件.md "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")[模拟器](../Page/游戏机模拟器.md "wikilink")。本软件可以让Xbox 360的游戏在PC上运行。截至2017年2月，约50个Xbox 360游戏可以通过Xenia以全速运行。\[1\]\[2\]
 
 ## 开发

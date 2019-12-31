@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia M5](https://zh.wikipedia.org/wiki/Sony Xperia M5)转换而来。
+
+
 **Sony Xperia M5**是一款由[索尼](../Page/索尼.md "wikilink")製造，於2015年8月3日和[Xperia C5 Ultra共同發表的手機](https://zh.wikipedia.org/wiki/Xperia_C5_Ultra "wikilink")\[1\]。市場設定為中階機種，擁有不錯的防水性能（因為其主打防水性能又稱水水機） 。另外，還有雙卡版本Sony Xperia M5 dual。
 
 ## 設計特點

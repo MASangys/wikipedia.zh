@@ -1,3 +1,6 @@
+> 本文内容由[GCl 38](https://zh.wikipedia.org/wiki/GCl 38)转换而来。
+
+
 {{ Infobox globular cluster | name = GCl 38 | image = | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | class = | constellation = [武仙座](../Page/武仙座.md "wikilink") | ra = \[1\] | dec = \[2\] | dist_ly =  | dist_pc = \[3\] | appmag_v = 14.7\[4\] | size_v = | mass_kg = | mass_msol = | radius_ly = | v_hb = 20.0\[5\] | age = \[6\] | absmag_v = | notes = | names = Palomar 14, Arp 1, \[7\] }}
 
 **GCl 38**是位於[武仙座](../Page/武仙座.md "wikilink")的一個[球狀星團](../Page/球狀星團.md "wikilink")。它被[Sidney van den Bergh和](https://zh.wikipedia.org/wiki/Sidney_van_den_Bergh "wikilink")[Halton Arp從](https://zh.wikipedia.org/wiki/Halton_Arp "wikilink")1958年帕洛瑪巡天的攝影乾片中發現\[8\]。這是位於[銀河系銀暈外圍的集團](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，它比典型的球狀星團年輕30-40億歲 \[9\]。

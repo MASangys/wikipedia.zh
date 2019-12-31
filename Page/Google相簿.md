@@ -1,3 +1,6 @@
+> 本文内容由[Google相簿](https://zh.wikipedia.org/wiki/Google相簿)转换而来。
+
+
 **Google相簿**是一个图片存储和分享服务。它于2015年5月由Google发布，从[Google+](../Page/Google+.md "wikilink")的相册服务中分离出来。
 
 ## 服务

@@ -1,3 +1,6 @@
+> 本文内容由[Dcard](https://zh.wikipedia.org/wiki/Dcard)转换而来。
+
+
 **Dcard**（狄卡），是台灣一個提供[社群網路服務的網站](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，僅開放台灣跟海外部分大學的學生註冊。
 
 創辦人為[臺大學生](../Page/國立臺灣大學.md "wikilink")[林裕欽及](https://zh.wikipedia.org/wiki/林裕欽 "wikilink")[簡勤佑](https://zh.wikipedia.org/wiki/簡勤佑 "wikilink")，他們大學的創意創業學程架設名為「Dcard」社群網站的課程作品，因為有感於大部分同學只在生活圈交友，沒機會接觸更多人脈，便討論網站的發展可行性。2011年，Dcard於網路推出服務時，僅開放[臺大](../Page/國立臺灣大學.md "wikilink")、[政大學生註冊](https://zh.wikipedia.org/wiki/政大 "wikilink")，後來陸續開放其他大學註冊，現在是超過百萬會員的大型論壇，也是資本額高達四千萬並拿到上億融資的公司。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]

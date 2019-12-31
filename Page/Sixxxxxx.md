@@ -1,3 +1,6 @@
+> 本文内容由[Sixxxxxx](https://zh.wikipedia.org/wiki/Sixxxxxx)转换而来。
+
+
 《**sixxxxxx**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第5張迷你專輯，於2015年8月5日在日本發行。\[1\] 其中，由[SpeXial](../Page/SpeXial.md "wikilink")參與演唱和音樂錄像帶拍攝的專輯收錄曲目「Sayonara feat. SpeXial」於同年7月20日在[KKBOX](../Page/KKBOX.md "wikilink")台灣、香港、新加坡、馬來西亞、泰國同步先行數位公開。\[2\]
 
 本作發行後首日即登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")首位，是濱崎步繼《[LOVE again](../Page/LOVE_again_\(濱崎步專輯\).md "wikilink")》在2013年2月19日奪得日間榜單冠軍後時隔近兩年半首次獲得Oricon專輯榜日冠軍。

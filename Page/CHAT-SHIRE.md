@@ -1,3 +1,6 @@
+> 本文内容由[CHAT-SHIRE](https://zh.wikipedia.org/wiki/CHAT-SHIRE)转换而来。
+
+
 《**CHAT-SHIRE**》是[韩国创作歌手](https://zh.wikipedia.org/wiki/韩国 "wikilink")[IU的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。
 
 ## 曲目

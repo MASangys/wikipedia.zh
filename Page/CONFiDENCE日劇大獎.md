@@ -1,3 +1,6 @@
+> 本文内容由[CONFiDENCE日劇大獎](https://zh.wikipedia.org/wiki/CONFiDENCE日劇大獎)转换而来。
+
+
 **CONFiDENCE日劇大獎**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[日本電視劇獎](../Page/日本电视剧.md "wikilink")，為日本知名[Oricon](../Page/Oricon.md "wikilink")集團旗下公司Oricon Entertainment所發行的娛樂週刊雜誌《ORIGINAL CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\]\[2\]。 與由審查員、記者、讀者，三者票數總和為準《[日劇學院賞](../Page/日劇學院賞.md "wikilink")》不同，《CONFiDENCE日劇大獎》評審僅由電視、傳播界專業人士組成，得獎結果不受觀眾人氣票數影響，而是採集播出後的觀眾滿意度。
 
 此獎項如[WOWOW](../Page/WOWOW.md "wikilink")等衛星電視台的電視劇，不在評選範圍內。

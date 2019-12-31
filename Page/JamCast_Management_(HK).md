@@ -1,3 +1,6 @@
+> 本文内容由[JamCast Management \(HK\)](https://zh.wikipedia.org/wiki/JamCast Management \(HK\))转换而来。
+
+
 **JamCast Management (Hong Kong) Limited**，簡稱**JamCast**，在1998年，由[陳穎儀和](https://zh.wikipedia.org/wiki/陳穎儀 "wikilink")[李珮詩於](https://zh.wikipedia.org/wiki/李珮詩 "wikilink")[香港](../Page/香港.md "wikilink")（總部）成立。
 
 主要業務經營香港藝人管理，為雜誌、電視或平面媒體、現場表演、推廣及展覽活動、電影及廣告製作等提供模特兒，以及為客戶提供度身訂造的廣告試鏡服務\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[!HERO](https://zh.wikipedia.org/wiki/!HERO)转换而来。
+
+
 《**\!HERO**》（直译“！英雄”）是一部有关[耶稣](../Page/耶稣.md "wikilink")的。这部歌剧基于“如果耶稣出生在[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[伯利恒将会怎样](../Page/伯利恒_\(宾夕法尼亚州\).md "wikilink")？”这个问题。2003年首次巡演后，《\!HERO》也通过[DVD和](../Page/數碼多功能影音光碟.md "wikilink")[CD](../Page/CD.md "wikilink")发行。此歌剧也被写成一部[小说](../Page/小说.md "wikilink")[三部曲](../Page/三部曲.md "wikilink")和一系列[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
 ## 剧情

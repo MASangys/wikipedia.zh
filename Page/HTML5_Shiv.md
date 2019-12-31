@@ -1,3 +1,6 @@
+> 本文内容由[HTML5 Shiv](https://zh.wikipedia.org/wiki/HTML5 Shiv)转换而来。
+
+
 Sjoerd Visscher 所创造的**HTML5 Shiv**是[JavaScript](../Page/JavaScript.md "wikilink")的一种备选方案。该方案在[Internet Explorer](../Page/Internet_Explorer.md "wikilink") 9版本中优先启用[HTML5](../Page/HTML5.md "wikilink")元素样式，但不允许使用没有由[JavaScript](../Page/JavaScript.md "wikilink")定义过的[元素样式](../Page/HTML元素.md "wikilink")。
 
 ## Internet Explorer的兼容性和使用的版本

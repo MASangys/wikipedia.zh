@@ -1,3 +1,6 @@
+> 本文内容由[朝鮮LGBT權益](https://zh.wikipedia.org/wiki/朝鮮LGBT權益)转换而来。
+
+
 [同性戀](../Page/同性戀.md "wikilink")以及[跨性別](../Page/跨性別.md "wikilink")者在北韓「[原則上](https://zh.wikipedia.org/wiki/de_jure "wikilink")」並不違法，但政府並不承認[LGBT的權利](../Page/各地LGBT權利.md "wikilink")。根據[朝鮮友好協會的说法](https://zh.wikipedia.org/wiki/朝鮮友好協會 "wikilink")，雖然同性戀人士不會受到來自政府的迫害，但「……朝鮮民主主義人民共和國（DPRK）拒絕接受西方流行的同性戀文化中的各項特色，這被認為是接納消費主義、古典主義以及濫交」\[1\]。
 
 ## 刑法

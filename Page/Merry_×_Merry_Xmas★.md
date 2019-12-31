@@ -1,3 +1,6 @@
+> 本文内容由[Merry × Merry Xmas★](https://zh.wikipedia.org/wiki/Merry × Merry Xmas★)转换而来。
+
+
 《**Merry × Merry Xmas★**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")15张[单曲](../Page/单曲.md "wikilink")，於2015年12月23日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

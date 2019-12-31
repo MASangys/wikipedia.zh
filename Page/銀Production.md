@@ -1,3 +1,6 @@
+> 本文内容由[銀Production](https://zh.wikipedia.org/wiki/銀Production)转换而来。
+
+
 **有限公司銀Production**（，）是以[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")經紀為主要業務的[日本](../Page/日本.md "wikilink")[演藝事務所（聲優事務所）](../Page/經紀公司.md "wikilink")。成立於1997年。簡稱「**銀Pro**（<small></small>）」。
 
 ## 概要

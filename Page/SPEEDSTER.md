@@ -1,3 +1,6 @@
+> 本文内容由[SPEEDSTER](https://zh.wikipedia.org/wiki/SPEEDSTER)转换而来。
+
+
 《**SPEEDSTER**》是[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")3張原創專輯。於2016年3月2日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

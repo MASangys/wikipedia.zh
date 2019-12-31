@@ -1,3 +1,6 @@
+> 本文内容由[Mach \(Rainbow單曲\)](https://zh.wikipedia.org/wiki/Mach \(Rainbow單曲\))转换而来。
+
+
 「**Mach**」是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Rainbow的第](https://zh.wikipedia.org/wiki/Rainbow "wikilink")2張數位[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年10月20日由[DSP Media發售](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。與上張單曲「A」同樣，分別推出韓文版及日文版。此曲與「A」、「Tell Me Tell Me」，至今仍然是Rainbow在現場表演的必唱作品。
 
 ## 概要

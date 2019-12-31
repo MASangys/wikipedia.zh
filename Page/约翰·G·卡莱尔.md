@@ -1,3 +1,6 @@
+> 本文内容由[约翰·G·卡莱尔](https://zh.wikipedia.org/wiki/约翰·G·卡莱尔)转换而来。
+
+
 **约翰·格里芬·卡莱尔**（，），著名的美国政治家、[美国民主党重要人物之一](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")。1883年至1889年，他担任[美国众议院议长](https://zh.wikipedia.org/wiki/美国众议院议长 "wikilink")；1893年至1897年，担任[美国财政部长](../Page/美国财政部长.md "wikilink")，期间遭遇[1893年大恐慌](https://zh.wikipedia.org/wiki/1893年大恐慌 "wikilink")。作为成员，他曾经是[格罗弗·克利夫兰](../Page/格罗弗·克利夫兰.md "wikilink")总统时期的党内保守、利商派的领袖。
 
 ## 生平

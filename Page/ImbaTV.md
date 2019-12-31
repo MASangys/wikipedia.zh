@@ -1,3 +1,6 @@
+> 本文内容由[ImbaTV](https://zh.wikipedia.org/wiki/ImbaTV)转换而来。
+
+
 **ImbaTV**是中国大陆一个以游戏相关视频为核心的内容分发平台网站\[1\]，2014年6月6日由多名前上海游戏风云电视频道主持人创立，该网站以制作《[Dota 2](../Page/Dota_2.md "wikilink")》视频和直播为主，也有《[英雄联盟](../Page/英雄联盟.md "wikilink")》、《[风暴英雄](../Page/风暴英雄.md "wikilink")》、《[炉石传说](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")》等游戏视频。
 
 ## 历史

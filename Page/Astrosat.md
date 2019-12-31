@@ -1,3 +1,6 @@
+> 本文内容由[Astrosat](https://zh.wikipedia.org/wiki/Astrosat)转换而来。
+
+
 **Astrosat**是[印度](../Page/印度.md "wikilink")的第一個多波段[空间望远镜](../Page/空间望远镜.md "wikilink")，於2015年9月28日由[PSLV-XL火箭發射](../Page/極軌衛星運載火箭.md "wikilink")\[1\]\[2\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[BLADY](https://zh.wikipedia.org/wiki/BLADY)转换而来。
+
+
 **BLADY**（）為[Star Planet娛樂旗下五人](https://zh.wikipedia.org/wiki/Star_Planet娛樂 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，2011年出道初期由**多萊**、**粉紅**、**姜允**和**先英**四人組成。隨着成員更替，依次加入**娜賢**、[Coco](../Page/CocoSori.md "wikilink")、**秀珍**、**藝智**、[Tina](../Page/Tina_\(韓國歌手\).md "wikilink")、[加頻](../Page/加頻.md "wikilink")、䫂煐、起嶁和禮恩。現任成員為[加頻](../Page/加頻.md "wikilink")、䫂煐、起嶁、[Tina和禮恩](../Page/Tina_\(韓國歌手\).md "wikilink")，並由[加頻](../Page/加頻.md "wikilink")擔任隊長。
 
 官方粉絲名為**HoneyB**，前稱**Hi Ade**。

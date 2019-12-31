@@ -1,3 +1,6 @@
+> 本文内容由[ERIHIRO](https://zh.wikipedia.org/wiki/ERIHIRO)转换而来。
+
+
 **ERIHIRO**，[日本](../Page/日本.md "wikilink")演唱組合，由知名的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")「[SPEED](../Page/SPEED_\(日本音樂團體\).md "wikilink")」成員[今井繪理子](../Page/今井繪理子.md "wikilink")和[島袋寬子](../Page/島袋寬子.md "wikilink")所組成。團名取自兩人的姓名。
 
 ## 概要

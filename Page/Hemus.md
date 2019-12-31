@@ -1,3 +1,6 @@
+> 本文内容由[Hemus](https://zh.wikipedia.org/wiki/Hemus)转换而来。
+
+
 ***Hemus***是[十足目](../Page/十足目.md "wikilink")[蜘蛛蟹科](../Page/蜘蛛蟹科.md "wikilink")之下的一個屬\[1\]，與*[Planotergum](https://zh.wikipedia.org/wiki/Planotergum "wikilink")* <small>Balss, 1935</small>合組[Planoterginae](https://zh.wikipedia.org/wiki/Planoterginae "wikilink") <small>Števčić, 1991</small>亞科\[2\]。
 
 ## 物種

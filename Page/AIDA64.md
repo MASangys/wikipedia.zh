@@ -1,3 +1,6 @@
+> 本文内容由[AIDA64](https://zh.wikipedia.org/wiki/AIDA64)转换而来。
+
+
 **AIDA64**是一个运行在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的系统信息、诊断和审计程序，用于显示计算机的组件的详细信息。这些信息可以以[HTML](../Page/HTML.md "wikilink")、[CSV或](https://zh.wikipedia.org/wiki/CSV "wikilink")[XML](../Page/XML.md "wikilink")等格式保存到文件。
 
 ## 历史

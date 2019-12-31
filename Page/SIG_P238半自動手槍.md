@@ -1,3 +1,6 @@
+> 本文内容由[SIG P238半自動手槍](https://zh.wikipedia.org/wiki/SIG P238半自動手槍)转换而来。
+
+
 **SIG P238**是一系列由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的袖珍型單動式[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2009年（美國著名槍展）上首度展出，發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這是[柯爾特野馬半自動手槍](../Page/柯爾特野馬半自動手槍.md "wikilink")的西格&紹爾生產型版本，\[1\]\[2\]並且採用了西格&紹爾經典的倾斜式鋸齒狀突起防滑紋型[滑套和](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[扳機護圈下方的手指凹槽](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。握把側板是由凹槽型[聚合物](../Page/聚合物.md "wikilink")所製造，使這把全金屬製[底把槍械可以與同口徑類別的塑料底把手槍](../Page/机匣.md "wikilink")，如[儒格LCP和](https://zh.wikipedia.org/wiki/儒格LCP半自動手槍 "wikilink")[Kel-Tec P-3AT競爭](https://zh.wikipedia.org/wiki/Kel-Tec_P-3AT半自動手槍 "wikilink")。\[3\]

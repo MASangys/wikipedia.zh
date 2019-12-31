@@ -1,3 +1,6 @@
+> 本文内容由[GATE 奇幻自衛隊角色列表](https://zh.wikipedia.org/wiki/GATE 奇幻自衛隊角色列表)转换而来。
+
+
 本列表是《[GATE 奇幻自衛隊](../Page/GATE_奇幻自衛隊.md "wikilink")》內的**登場人物**的介紹。
 
 ### 地球

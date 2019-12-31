@@ -1,3 +1,6 @@
+> 本文内容由[OB企劃](https://zh.wikipedia.org/wiki/OB企劃)转换而来。
+
+
 **株式會社OB企劃**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")，主要從事動畫企畫製作、生產為主要營業事項的[日本](../Page/日本.md "wikilink")企業。成立於1981年。為人熟悉的代表作有賽車動畫《[頭文字D](../Page/頭文字D.md "wikilink")》系列和[安達充](https://zh.wikipedia.org/wiki/安達充 "wikilink")、[高橋留美子等多位](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")[小學館](../Page/小學館.md "wikilink")漫畫家的作品等（但只是擔任企劃製作）。
 
 ## 概要、沿革

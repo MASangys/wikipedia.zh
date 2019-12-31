@@ -1,3 +1,6 @@
+> 本文内容由[Two Yoo Project - Sugar Man](https://zh.wikipedia.org/wiki/Two Yoo Project - Sugar Man)转换而来。
+
+
 《**Two Yoo Project - Sugar Man**》（）是韓國[JTBC](../Page/JTBC.md "wikilink")電視台的音樂綜藝節目\[1\]\[2\]，於2015年8月19日及8月26日以《Two Yoo Project - 尋找Sugar Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放；第三季將於2019年11月29日起，逢韓國時間星期五晚上9時開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜](../Page/金伊娜.md "wikilink")及[2NE1](../Page/2NE1.md "wikilink")成員[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。第三季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[金伊娜](../Page/金伊娜.md "wikilink")、[Heize](https://zh.wikipedia.org/wiki/Heize "wikilink")。
 
 節目尋找曾經風靡一時，但現在卻逐漸被遺忘的歌手，將其經典歌曲重新編製，並呈現出不一樣的舞台。每次邀請兩位Sugar Man、兩組Show Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部分藉由聆聽申請原因及路人反應猜測歌曲及召喚歌手，後半部分由劉在錫及柳熙烈為首帶領的兩隊結構重編過程及進行經典歌曲再演繹的對決，並由100名觀眾投票選出該集獲勝隊伍。

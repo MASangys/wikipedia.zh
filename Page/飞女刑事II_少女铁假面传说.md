@@ -1,3 +1,6 @@
+> 本文内容由[飞女刑事II 少女铁假面传说](https://zh.wikipedia.org/wiki/飞女刑事II 少女铁假面传说)转换而来。
+
+
 **飞女刑事II 少女鉄仮面伝説**（スケバンデカツー しょうじょてつかめんでんせつ）是1985年11月7日至1986年10月23日毎週四19:30 - 20:00在[富士電視台](../Page/富士電視台.md "wikilink")系放送的日本的[学園劇](https://zh.wikipedia.org/wiki/学園劇 "wikilink")，由[南野陽子主演](https://zh.wikipedia.org/wiki/南野陽子 "wikilink")。
 
 ## 介绍

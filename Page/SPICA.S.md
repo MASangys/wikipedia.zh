@@ -1,3 +1,6 @@
+> 本文内容由[SPICA.S](https://zh.wikipedia.org/wiki/SPICA.S)转换而来。
+
+
 **SPICA.S**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B2M Entertainment於](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")2014年9月12日所推出的女子團體[SPICA的小分隊](../Page/SPICA_\(組合\).md "wikilink")，亦為[SPICA Project的Part](https://zh.wikipedia.org/wiki/SPICA_\(組合\)#SPICA_Project "wikilink") 1，成員包括[是炫](../Page/朴是炫.md "wikilink")、[娜萊](../Page/朴娜萊.md "wikilink")、[知元](../Page/楊知元.md "wikilink")、[保亨](../Page/金保亨.md "wikilink")。
 
 SPICA.S 當中最後一個「S」代表著「Special (特別)」的意思，期望這四位成員能夠帶來比 SPICA 更加獨特、新奇的樣貌給大家看。

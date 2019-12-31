@@ -1,3 +1,6 @@
+> 本文内容由[Fashion Walk](https://zh.wikipedia.org/wiki/Fashion Walk)转换而来。
+
+
 [Fashion_Walk_GF_interior_2015.jpg](https://zh.wikipedia.org/wiki/File:Fashion_Walk_GF_interior_2015.jpg "fig:Fashion_Walk_GF_interior_2015.jpg") [Food_Street_restaurants_in_Fashion_Walk_2016.jpg](https://zh.wikipedia.org/wiki/File:Food_Street_restaurants_in_Fashion_Walk_2016.jpg "fig:Food_Street_restaurants_in_Fashion_Walk_2016.jpg") [Fashion_Walk_2010.jpg](https://zh.wikipedia.org/wiki/File:Fashion_Walk_2010.jpg "fig:Fashion_Walk_2010.jpg") 'Fashion Walk'是[香港](../Page/香港.md "wikilink")一座室內商場，位於[銅鑼灣](../Page/銅鑼灣.md "wikilink")[記利佐治街](../Page/記利佐治街.md "wikilink")11-19號[華登大廈及](https://zh.wikipedia.org/wiki/華登大廈 "wikilink")[百德大廈基座以至百德新街](https://zh.wikipedia.org/wiki/百德大廈 "wikilink")[海濱大廈基座](https://zh.wikipedia.org/wiki/海濱大廈 "wikilink")、[加寧街](https://zh.wikipedia.org/wiki/加寧街 "wikilink")、[京士頓街及](https://zh.wikipedia.org/wiki/京士頓街 "wikilink")[告士打道](../Page/告士打道.md "wikilink")，於1998年開業，發展商為[恒隆地產](../Page/恒隆地產.md "wikilink")。原址前身為名店街、[大丸](../Page/大丸.md "wikilink")別館及[食街](https://zh.wikipedia.org/wiki/厚誠街 "wikilink")。\[1\]商場樓高2層，設多個嶄新概念商店及矚目國際時裝品牌均在此開設旗艦店。\[2\]
 
 ## 租戶

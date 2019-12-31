@@ -1,3 +1,6 @@
+> 本文内容由[Syu](https://zh.wikipedia.org/wiki/Syu)转换而来。
+
+
 **Syu**（シュウ、1980年9月23日 - ）日本[視覺系](../Page/視覺系.md "wikilink")藝人。本名不公開。兵庫縣蘆屋市人，目前為[Galneryus](../Page/Galneryus.md "wikilink")、Spinnalcord的成員，擅長作曲。
 
 ## 經歷

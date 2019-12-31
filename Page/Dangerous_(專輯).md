@@ -1,3 +1,6 @@
+> 本文内容由[Dangerous \(專輯\)](https://zh.wikipedia.org/wiki/Dangerous \(專輯\))转换而来。
+
+
 《**Dangerous**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的第三張正規專輯，於2015年8月19日開始預購（貼身預購版），9月11日正式發行\[1\]，並於11月6日推出專輯改版（慶功紀念盤）。首波主打歌為網絡劇《[校花的貼身高手](../Page/校花的貼身高手.md "wikilink")》主題曲《貼身》\[2\]；第二主打為電影《[移動迷宮：焦土試煉](../Page/移動迷宮：焦土試煉.md "wikilink")》中文主題曲《Dangerous》\[3\]；第三主打為偶像劇《[我的鬼基友](../Page/我的鬼基友.md "wikilink")》宣傳主題曲《暖男製造機》\[4\]。
 
 ## 專輯簡介

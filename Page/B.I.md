@@ -1,3 +1,6 @@
+> 本文内容由[B.I](https://zh.wikipedia.org/wiki/B.I)转换而来。
+
+
 **金韓彬**（，，），藝名**B.I**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[饒舌](../Page/饒舌.md "wikilink")歌手。曾為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")旗下7人男子流行音樂團體[iKON成員](https://zh.wikipedia.org/wiki/iKON "wikilink")，擅長作詞作曲和隊內教舞，其RAP的特點是歌詞傳達力強，Flow流暢，說唱時不用刻意傾聽，可以輕鬆享受，將嘻哈音樂詮釋得更加大眾化\[1\]。[iKON大多數的歌曲皆由B](https://zh.wikipedia.org/wiki/iKON "wikilink").I負責製作。2018年以作品《Love Scenario》獲得[MMA頒獎典禮首個](../Page/甜瓜音樂獎.md "wikilink")「最佳作曲人獎」。
 
 \[2\]。

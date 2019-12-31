@@ -1,3 +1,6 @@
+> 本文内容由[Ordinary \(Highlight迷你專輯\)](https://zh.wikipedia.org/wiki/Ordinary \(Highlight迷你專輯\))转换而来。
+
+
 《**Ordinary**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Highlight的第](../Page/Highlight_\(韓國組合\).md "wikilink")8枚[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2015年7月27日發行\[1\]，先行歌曲為《我必須要去工作》（）；主打歌曲則為《YeY》。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[神偷II：金属时代](https://zh.wikipedia.org/wiki/神偷II：金属时代)转换而来。
+
+
 是一款2000年发行的[隱蔽類遊戲](https://zh.wikipedia.org/wiki/隱蔽類遊戲 "wikilink")，由開發，[Eidos Interactive發行](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。與前作《[神偷：暗黑計劃](https://zh.wikipedia.org/wiki/神偷：暗黑計劃 "wikilink")》相同，遊戲主角為神偷，在[蒸汽朋克](../Page/蒸汽朋克.md "wikilink")大都會「城市」中逐步揭曉一股新勢力的陰謀。
 
 遊戲設計以前作為基礎，回應了玩家對前作的意見反饋，改以市區潛行為核心，同時減少使用怪物敵人和迷宮關卡。遊戲於1999年[E3遊戲展公佈](../Page/E3电子娱乐展.md "wikilink")，作為望遠鏡工作室與Edios之間發行神偷系列遊戲合約的延續。工作室在遊戲開發時已面臨破產，以Eidos預付資金繼續營運。

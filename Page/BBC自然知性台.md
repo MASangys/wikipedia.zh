@@ -1,3 +1,6 @@
+> 本文内容由[BBC自然知性台](https://zh.wikipedia.org/wiki/BBC自然知性台)转换而来。
+
+
 **BBC自然知性台**（BBC Earth）是[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（BBC）的一個收費電視頻道，由[英國廣播公司商業分支](../Page/英國廣播公司商業分支.md "wikilink")（BBC Worldwide）所有和運營，在2015年開始播出\[1\]。BBC地球主要播出紀實性節目。BBC地球首個播出國家是[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")\[2\]。
 
 ## 參考資料

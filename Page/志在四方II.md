@@ -1,3 +1,6 @@
+> 本文内容由[志在四方II](https://zh.wikipedia.org/wiki/志在四方II)转换而来。
+
+
 《**志在四方II**》（[英文](../Page/英语.md "wikilink")：），[新加坡](../Page/新加坡.md "wikilink")[新傳媒私人有限公司時裝](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[李南星](../Page/李南星.md "wikilink")、[黃碧仁](https://zh.wikipedia.org/wiki/黃碧仁 "wikilink")、[歐萱](../Page/歐萱.md "wikilink")、[瑞恩](../Page/瑞恩.md "wikilink")及[戚玉武領銜主演](https://zh.wikipedia.org/wiki/戚玉武 "wikilink")，[劉松仁](../Page/劉松仁.md "wikilink")及[陳美鳳特別客串](../Page/陳美鳳_\(台灣\).md "wikilink")，監製為[袁樹偉及](https://zh.wikipedia.org/wiki/袁樹偉 "wikilink")[黃芬菲](https://zh.wikipedia.org/wiki/黃芬菲 "wikilink")。此劇為新傳媒在第21屆上海電視節、中國國際影視展2015所推介的電視劇之一，亦是新傳媒52周年台慶劇。
 
 ## 故事概要

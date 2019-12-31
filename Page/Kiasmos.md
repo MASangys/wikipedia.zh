@@ -1,3 +1,6 @@
+> 本文内容由[Kiasmos](https://zh.wikipedia.org/wiki/Kiasmos)转换而来。
+
+
 **Kiasmos**是由音樂家[Ólafur Arnalds和](https://zh.wikipedia.org/wiki/Ólafur_Arnalds "wikilink")[Janus Rasmussen於](https://zh.wikipedia.org/wiki/Janus_Rasmussen "wikilink")2009年組成的[冰島實驗電子計劃組合](https://zh.wikipedia.org/wiki/冰島 "wikilink")\[1\]，後來加入英國音樂廠牌[Erased Tapes Records](../Page/Erased_Tapes_Records.md "wikilink")。
 
 ## 團隊成員

@@ -1,3 +1,6 @@
+> 本文内容由[Anniversary!!](https://zh.wikipedia.org/wiki/Anniversary!!)转换而来。
+
+
 《**Anniversary\!\!**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")13张[单曲](../Page/单曲.md "wikilink")，於2015年5月20日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

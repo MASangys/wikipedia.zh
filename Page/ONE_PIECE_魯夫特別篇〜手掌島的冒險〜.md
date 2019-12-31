@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 魯夫特別篇〜手掌島的冒險〜](https://zh.wikipedia.org/wiki/ONE PIECE 魯夫特別篇〜手掌島的冒險〜)转换而来。
+
+
 《**ONE PIECE 魯夫特別篇〜手掌島的冒險〜**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2012年12月15日在日本播出。
 
 ## 製作

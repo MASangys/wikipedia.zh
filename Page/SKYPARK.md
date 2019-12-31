@@ -1,3 +1,6 @@
+> 本文内容由[SKYPARK](https://zh.wikipedia.org/wiki/SKYPARK)转换而来。
+
+
 [Skypark_Entrance_2017.jpg](https://zh.wikipedia.org/wiki/File:Skypark_Entrance_2017.jpg "fig:Skypark_Entrance_2017.jpg") [SKYPARK_Showflat_20150629.jpg](https://zh.wikipedia.org/wiki/File:SKYPARK_Showflat_20150629.jpg "fig:SKYPARK_Showflat_20150629.jpg")
 
 **SKYPARK**，位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[旺角](../Page/旺角.md "wikilink")[奶路臣街](../Page/奶路臣街.md "wikilink")17號，由[新世界發展](../Page/新世界發展.md "wikilink")及[市區重建局](../Page/市區重建局.md "wikilink")合作發展，為[波鞋街](../Page/波鞋街.md "wikilink")重建項目住宅部分。樓盤取名SKYPARK，顧名思義，頂層設有大型空中花園供住戶使用，寓意為住戶於鬧市中打造一片空中花園。項目由香港[巴馬丹拿](../Page/巴馬丹拿.md "wikilink")設計，2017年4月底落成入伙，樓花期約21個月。\[1\]發展商於2015年6月底於[上環](../Page/上環.md "wikilink")開設[示範單位](../Page/示範單位.md "wikilink")，同年7月4日首度發售100伙，折實555萬元入場。

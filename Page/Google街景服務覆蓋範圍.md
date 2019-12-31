@@ -1,3 +1,6 @@
+> 本文内容由[Google街景服務覆蓋範圍](https://zh.wikipedia.org/wiki/Google街景服務覆蓋範圍)转换而来。
+
+
 下方列出**[Google街景](https://zh.wikipedia.org/wiki/Google街景 "wikilink")**自2007年5月25日引入[美國後所覆蓋的範圍](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ## 地圖

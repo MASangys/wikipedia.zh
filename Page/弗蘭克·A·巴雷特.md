@@ -1,3 +1,6 @@
+> 本文内容由[弗蘭克·A·巴雷特](https://zh.wikipedia.org/wiki/弗蘭克·A·巴雷特)转换而来。
+
+
 **弗蘭克·阿洛伊修斯·巴雷特**（；），是一位[美國共和黨的](../Page/共和黨_\(美國\).md "wikilink")[軍人](https://zh.wikipedia.org/wiki/軍人 "wikilink")、[律師](../Page/律師.md "wikilink")及政治人物，曾在1943年至1950年期間擔任[美國眾議院](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州單一國會選區代表眾議員](https://zh.wikipedia.org/wiki/懷俄明州單一國會選區 "wikilink")；1951年至1953年出任[懷俄明州州長](https://zh.wikipedia.org/wiki/懷俄明州州長 "wikilink")；以及在1953年至1959年期間擔任[聯邦參議員](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")。
 
 ## 背景

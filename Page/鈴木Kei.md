@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Kei](https://zh.wikipedia.org/wiki/鈴木Kei)转换而来。
+
+
 **鈴木Kei**（）是1998年至2009年間由[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型](../Page/輕型車.md "wikilink")[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，除了在[日本](../Page/日本.md "wikilink")國內市場銷售外，亦曾引進[香港](../Page/香港.md "wikilink")\[1\]。其雙生車款為[馬自達Laputa](../Page/馬自達Laputa.md "wikilink")，關於車名「Kei」在[日語中音同](https://zh.wikipedia.org/wiki/日語 "wikilink")「輕」，乃是原廠希望此車款能樹立輕型車的標準\[2\]。
 
 ## 歷史與概要

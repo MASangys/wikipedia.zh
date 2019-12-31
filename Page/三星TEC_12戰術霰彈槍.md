@@ -1,3 +1,6 @@
+> 本文内容由[三星TEC 12戰術霰彈槍](https://zh.wikipedia.org/wiki/三星TEC 12戰術霰彈槍)转换而来。
+
+
 **三星TEC 12**（）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[三星運動武器公司所設計和生產的可](https://zh.wikipedia.org/wiki/三星運動武器公司 "wikilink")[泵動及](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[半自動式兩用](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 三星TEC 12比較特別之處是其可選擇半自動或泵動運作的雙操作模式，在具有半自動霰彈槍的連射能力的同時還保有泵动式的可靠性和[彈藥兼容性](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Nyaa Torrents](https://zh.wikipedia.org/wiki/Nyaa Torrents)转换而来。
+
+
 **Nyaa Torrents**是一个侧重于[东亚](https://zh.wikipedia.org/wiki/东亚 "wikilink")（[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[日本](../Page/日本.md "wikilink")及[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")）多媒体资源的[BitTorrent站点](../Page/BitTorrent_\(协议\).md "wikilink")。它也是世界上最大的[动漫专用种子索引站](https://zh.wikipedia.org/wiki/动漫 "wikilink")。\[1\]在2011年的时候该网站一些用户就已经被列为的目标。\[2\]在2014年该网站已被日本政府确定为主要的数字盗版网站。\[3\]
 
 在2014年9月上旬该网站曾遭受大规模的[DDoS攻击](../Page/阻斷服務攻擊.md "wikilink")。\[4\]\[5\]

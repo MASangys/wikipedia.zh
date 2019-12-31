@@ -1,3 +1,6 @@
+> 本文内容由[Intuit](https://zh.wikipedia.org/wiki/Intuit)转换而来。
+
+
 **Intuit Inc.**是一家總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[山景城的跨國](../Page/山景城_\(加利福尼亚州\).md "wikilink")[計算機軟件公司](https://zh.wikipedia.org/wiki/計算機軟件 "wikilink")，主要製作金融和退稅相關的軟件。\[1\] 其較著名的產品包括[Quicken](https://zh.wikipedia.org/wiki/Quicken "wikilink")、[TurboTax和](https://zh.wikipedia.org/wiki/TurboTax "wikilink")[QuickBooks](https://zh.wikipedia.org/wiki/QuickBooks "wikilink")。
 
 ## 历史

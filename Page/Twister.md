@@ -1,3 +1,6 @@
+> 本文内容由[Twister](https://zh.wikipedia.org/wiki/Twister)转换而来。
+
+
 **Twister**是一款测试性的[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[微型博客](https://zh.wikipedia.org/wiki/微型博客 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。它是完全分散式的，所以没有什么单独的位置可以攻击，进而无人可以让它停止工作。这个软件系统使用端对端[加密](../Page/加密.md "wikilink")以保护信息交互安全。\[1\] 软件基于[BitTorrent和](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")[比特币](../Page/比特币.md "wikilink")，并且意图建立一个分散式的[Twitter](../Page/Twitter.md "wikilink") 克隆。\[2\]\[3\]\[4\]
 
 ## 概述

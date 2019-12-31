@@ -1,3 +1,6 @@
+> 本文内容由[BEI指數](https://zh.wikipedia.org/wiki/BEI指數)转换而来。
+
+
 **BEI指數**（Banking Executive Index，縮寫BEI，中文：**銀行高階主管指數**）由「經營指數」及「市場指數」所組成，参考[采购经理指数](../Page/采购经理指数.md "wikilink")（Purchasing Managers' Index, PMI）編製精神，調查[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[銀行](../Page/銀行.md "wikilink")高階主管預估未來3個月銀行業經營狀況及金融市場環境變化。
 
 ## 編製與發布

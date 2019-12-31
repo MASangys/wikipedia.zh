@@ -1,3 +1,6 @@
+> 本文内容由[Viu](https://zh.wikipedia.org/wiki/Viu)转换而来。
+
+
 **Viu**（）是[香港](../Page/香港.md "wikilink")[電訊盈科](../Page/電訊盈科.md "wikilink")媒體有限公司推出，針對[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[印尼及](https://zh.wikipedia.org/wiki/印尼 "wikilink")[印度](../Page/印度.md "wikilink")市場的免費[OTT平台影片網站](https://zh.wikipedia.org/wiki/OTT平台 "wikilink")，於2015年10月26日啟用。\[1\]
 
 ## 簡介

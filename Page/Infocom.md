@@ -1,3 +1,6 @@
+> 本文内容由[Infocom](https://zh.wikipedia.org/wiki/Infocom)转换而来。
+
+
 **Infocom**，是一家软件公司，总部设在马萨诸塞州剑桥市，曾制作文字冒险类游戏和商业应用基石关系数据库。\[1\]
 
 该公司于1979年6月22日由麻省理工学院的教职员工和学生Dave Lebling, Marc Blank, Albert Vezza, 和Joel Berez创建。1986年，动视公司将其收购并于1989年将其关闭。2002年，动视放弃Infocom商标。

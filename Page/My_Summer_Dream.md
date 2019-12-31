@@ -1,3 +1,6 @@
+> 本文内容由[My Summer Dream](https://zh.wikipedia.org/wiki/My Summer Dream)转换而来。
+
+
 《**My Summer Dream**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳奇隆](../Page/吳奇隆.md "wikilink")的第七張大碟，第二張粵語大碟，於1994年7月推出\[1\]\[2\]。
 
 ## 曲目

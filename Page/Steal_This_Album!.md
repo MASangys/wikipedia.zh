@@ -1,3 +1,6 @@
+> 本文内容由[Steal This Album!](https://zh.wikipedia.org/wiki/Steal This Album!)转换而来。
+
+
 ***Steal This Album\!*** 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[墮落體制的第三張專輯](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，是在2002年發表的。此專輯是由[瑞克·魯賓及](https://zh.wikipedia.org/wiki/瑞克·魯賓 "wikilink")[Daron Malakian製作](https://zh.wikipedia.org/wiki/Daron_Malakian "wikilink")。曾經在[Billboard的](../Page/告示牌_\(雜誌\).md "wikilink")*Top 200* 排行榜上得到第15位。\[1\]
 
 ## *Toxicity II*

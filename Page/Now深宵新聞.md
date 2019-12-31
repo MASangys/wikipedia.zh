@@ -1,3 +1,6 @@
+> 本文内容由[Now深宵新聞](https://zh.wikipedia.org/wiki/Now深宵新聞)转换而来。
+
+
 《**now深宵新聞**》（）是[香港](../Page/香港.md "wikilink")[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作的晚間新聞節目](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，於[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台及](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")播放。主播會詳盡報導當日頭條、政壇動態、國際時局，本地社會民生等新聞。
 
 香港其他電視台的晚間新聞節目有[港台電視](../Page/港台電視.md "wikilink")的《[新聞天地](../Page/新聞天地.md "wikilink")》、[香港開電視](../Page/香港開電視.md "wikilink")的《[十一點半最前線](https://zh.wikipedia.org/wiki/十一點半最前線 "wikilink")》及[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[晚間新聞](../Page/無綫電視晚間新聞.md "wikilink")》。

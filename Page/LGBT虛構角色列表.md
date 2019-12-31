@@ -1,3 +1,6 @@
+> 本文内容由[LGBT虛構角色列表](https://zh.wikipedia.org/wiki/LGBT虛構角色列表)转换而来。
+
+
 本條目為**LGBT虛構人物列表**，收錄出現在[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[戲劇](https://zh.wikipedia.org/wiki/戲劇 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[電玩等](https://zh.wikipedia.org/wiki/電玩 "wikilink")[虛構作品](../Page/虛構作品.md "wikilink")裡的LGBT[角色](../Page/角色.md "wikilink")。虛構是指憑空想像而非現實存在的人事物，許多創作者利用虛構手法，為作品構築獨特的世界觀及人事物，創造了不少藝術和娛樂價值。本列表收錄人物，以創作者明確表明或情節對話中有明示暗示者為主。創作者有可能不會表明人物角色的[性傾向或](https://zh.wikipedia.org/wiki/性傾向 "wikilink")[性別認同](../Page/性別認同.md "wikilink")，[同人愛好者亦可能對原作人物進行](../Page/同人_\(ACG\).md "wikilink")[二次創作](../Page/二次創作.md "wikilink")，故在本列表之外[閱聽人](../Page/閱聽人.md "wikilink")仍保有很大的想像空間。
 
 ## 影視戲劇

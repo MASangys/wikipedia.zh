@@ -1,3 +1,6 @@
+> 本文内容由[伊苏IV 太阳的假面](https://zh.wikipedia.org/wiki/伊苏IV 太阳的假面)转换而来。
+
+
 是日本Falcom公司[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")系列[伊蘇](../Page/伊蘇.md "wikilink")第四代作品之一，由[Tonkin House開發並於](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")1993年11月在[超級任天堂](../Page/超級任天堂.md "wikilink")發行。Falcom初步設計劇情後，將之交給[Tonkin House和](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")[Hudson Soft兩家公司分別製作](../Page/Hudson_Soft.md "wikilink")，後者的版本為[PC Engine上的](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")《[伊蘇IV 伊蘇的黎明](https://zh.wikipedia.org/wiki/伊蘇4_伊蘇的黎明 "wikilink")》，於一個多月後發行；兩款遊戲情節總體接近，但有一些差異。
 
 《太阳的假面》的情節設定於《[伊蘇II](https://zh.wikipedia.org/wiki/伊蘇II "wikilink")》結尾後，主人公亞特魯從海邊撿到了請求解救塞爾塞塔的漂流瓶後，前往塞爾塞塔冒險的故事。遊戲更深入地解釋了系列前兩作的世界觀。在玩法上，遊戲從《[伊蘇III](https://zh.wikipedia.org/wiki/伊蘇III "wikilink")》的橫向卷軸畫面回歸前兩作的俯視地圖，但也沿用了《伊蘇III》新增的戒指系統設定。

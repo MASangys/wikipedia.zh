@@ -1,3 +1,6 @@
+> 本文内容由[弗蘭克·O·霍頓](https://zh.wikipedia.org/wiki/弗蘭克·O·霍頓)转换而来。
+
+
 **弗蘭克·奧格爾維·霍頓**（；），是一位[美國共和黨的政治人物](../Page/共和黨_\(美國\).md "wikilink")，曾在1939年至1941年期間擔任[美國眾議院](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州單一國會選區代表眾議員](https://zh.wikipedia.org/wiki/懷俄明州單一國會選區 "wikilink")。
 
 ## 生涯

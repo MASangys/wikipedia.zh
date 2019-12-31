@@ -1,3 +1,6 @@
+> 本文内容由[春田XD-S半自動手槍](https://zh.wikipedia.org/wiki/春田XD-S半自動手槍)转换而来。
+
+
 **春田XD-S**（；XD-S，全稱：**X**-treme **D**uty-**S**limline）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司（前稱：I.M.金屬工廠，目前亦生產[VHS突擊步槍](../Page/VHS突擊步槍.md "wikilink")）研製的[聚合物](../Page/聚合物.md "wikilink")[底把和](../Page/机匣.md "wikilink")[擊針發射的](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。它們與它們的前輩，[HS2000半自動手槍](../Page/HS2000半自動手槍.md "wikilink")（即是在美國最廣為人知的春田XD）極為相似，同樣由[克罗地亚](../Page/克罗地亚.md "wikilink")[卡爾洛瓦茨的HS](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink") Produkt公司設計和生產。而此槍的稱呼，春田XD-S半自動手槍就是HS Produkt公司授權生產以後，春田公司在[美国](../Page/美国.md "wikilink")商業市場上出售的名稱。\[1\]
 
 ## 歷史

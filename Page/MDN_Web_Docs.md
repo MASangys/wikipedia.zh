@@ -1,3 +1,6 @@
+> 本文内容由[MDN Web Docs](https://zh.wikipedia.org/wiki/MDN Web Docs)转换而来。
+
+
 **MDN Web Docs**（舊稱Mozilla Developer Network、Mozilla Developer Center，简称MDN）是一個汇集众多[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")產品和網路技術開發文档的免费網站\[1\]。
 
 ## 歷史

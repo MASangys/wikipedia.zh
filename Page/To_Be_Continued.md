@@ -1,3 +1,6 @@
+> 本文内容由[To Be Continued](https://zh.wikipedia.org/wiki/To Be Continued)转换而来。
+
+
 《**To Be Continued**》（）為8月18日起，每周一至周四於[Naver TVcast網絡播出且與每周四於](https://zh.wikipedia.org/wiki/Naver "wikilink")[MBC every1頻道同時播出之節目](../Page/MBC_Plus_Media.md "wikilink")。
 [Naver TVcast每日播出一集](https://zh.wikipedia.org/wiki/Naver "wikilink")，[MBC every1則每日播出四集](../Page/MBC_Plus_Media.md "wikilink")。
 

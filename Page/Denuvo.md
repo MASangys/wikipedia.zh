@@ -1,3 +1,6 @@
+> 本文内容由[Denuvo](https://zh.wikipedia.org/wiki/Denuvo)转换而来。
+
+
 **Denuvo防篡改**（）或**Denuvo**，是由[奥地利Denuvo软件解决方案股份有限公司](https://zh.wikipedia.org/wiki/奥地利 "wikilink")（Denuvo Software Solutions GmbH）开发的一种[防篡改](../Page/防篡改.md "wikilink")技术。该公司通过的[管理层收购](https://zh.wikipedia.org/wiki/管理层收购 "wikilink")（MBO）而组成。2018年1月，**Denuvo**被收购\[1\]。
 
 Denuvo声称这项技术不是一个[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）的解决方案，因为它旨在保护现有的DRM解决方案，如[Origin联机访问和](../Page/Origin_\(电子游戏平台\).md "wikilink")[Steam](../Page/Steam.md "wikilink")许可管理制度\[2\]。

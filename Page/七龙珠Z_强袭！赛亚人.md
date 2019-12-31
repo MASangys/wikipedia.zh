@@ -1,3 +1,6 @@
+> 本文内容由[七龙珠Z 强袭！赛亚人](https://zh.wikipedia.org/wiki/七龙珠Z 强袭！赛亚人)转换而来。
+
+
 是一款由[万代公司制作的](https://zh.wikipedia.org/wiki/万代 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。本游戏是[七龙珠Z系列在FC的首作](https://zh.wikipedia.org/wiki/七龙珠Z "wikilink")，于1990年10月27日在[FC游戏机发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[1\]
 
 本游戏为使用卡牌战斗和在地图移动的角色扮演游戏，游戏内容为两个赛亚人Brocco、Pumpkin和Onion的故事。

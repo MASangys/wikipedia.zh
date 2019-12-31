@@ -1,3 +1,6 @@
+> 本文内容由[模块:Progression rainbow](https://zh.wikipedia.org/wiki/模块:Progression rainbow)转换而来。
+
+
 local list = {
 
 `   {'特色级内容', '#6699ff'},`

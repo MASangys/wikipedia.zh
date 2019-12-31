@@ -1,3 +1,6 @@
+> 本文内容由[林寶堅尼Miura](https://zh.wikipedia.org/wiki/林寶堅尼Miura)转换而来。
+
+
 **林寶堅尼Miura**，是[林寶堅尼車廠於](https://zh.wikipedia.org/wiki/林寶堅尼 "wikilink")1966至73年間所生產的旗艦車，為當年最快的量產車輛，亦是世上第一部被稱為[超級跑車](../Page/超級跑車.md "wikilink")的車輛。集團的創辦人及總裁[費魯齊歐·林寶堅尼](https://zh.wikipedia.org/wiki/費魯齊歐·林寶堅尼 "wikilink")（）一心想打造[豪華旅行車](../Page/豪華旅行車.md "wikilink")（），車廠的工程師團隊卻一直把他瞞着，悄悄地研發跑車起來，此事在數十年後依然為大眾所津津樂道。
 
 Miura不只是速度比同期的所有其他原廠量產車型快，最大巡航速度達時速二百七十六公里。比四十年前當時最快兼**第一款廠家自稱超跑的車[賓利](../Page/賓利.md "wikilink")Speed Six**，或同期最暢銷的私家車[迷你](../Page/迷你.md "wikilink")快上一倍之多。即使在五十年後的標準來說仍然相當快，相當於數代後的中檔跑車，僅比最新世代的超跑慢不足一半而實測圈速慢更少，又比[緊湊型轎車的佼佼者如](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")[大眾高爾夫快三分一](https://zh.wikipedia.org/wiki/大眾高爾夫 "wikilink")，甚至稍快於[豐田86](../Page/豐田86.md "wikilink")等數代後的[小型跑車](../Page/小型跑車.md "wikilink")中的傑作。

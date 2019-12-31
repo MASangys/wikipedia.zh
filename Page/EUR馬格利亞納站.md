@@ -1,3 +1,6 @@
+> 本文内容由[EUR馬格利亞納站](https://zh.wikipedia.org/wiki/EUR馬格利亞納站)转换而来。
+
+
 **EUR馬格利亞納站**（）是[羅馬地鐵](../Page/羅馬地鐵.md "wikilink")的一個車站。EUR馬格利亞納站位於[EUR區](../Page/EUR區.md "wikilink")，是羅馬地鐵B線的車站。EUR馬格利亞納站開通於1924年。車站建築以及經過多次重建。
 
 ## 外部連結

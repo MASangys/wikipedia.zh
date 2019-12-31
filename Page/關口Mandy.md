@@ -1,3 +1,6 @@
+> 本文内容由[關口Mandy](https://zh.wikipedia.org/wiki/關口Mandy)转换而来。
+
+
 **関口メンディー**（）是日本的舞者，[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[GENERATIONS from EXILE TRIBE的成員](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")
 身高182cm，血型：O型。
 在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新澤西州出生](https://zh.wikipedia.org/wiki/新澤西州 "wikilink")，1歲時搬到日本生活，在[品川區](../Page/品川區.md "wikilink")成長。

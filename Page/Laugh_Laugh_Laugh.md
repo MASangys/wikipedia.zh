@@ -1,3 +1,6 @@
+> 本文内容由[Laugh Laugh Laugh](https://zh.wikipedia.org/wiki/Laugh Laugh Laugh)转换而来。
+
+
 《**LAUGH LAUGH LAUGH**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第三張日語單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2015年9月23日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。主打歌為《LAUGH LAUGH LAUGH》。單曲發行當日即登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")單曲日榜冠軍\[1\]，成為GOT7在日本出道以來首次獲得Oricon冠軍的作品。
 
 ## 背景

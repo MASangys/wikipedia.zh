@@ -1,3 +1,6 @@
+> 本文内容由[火速救兵III](https://zh.wikipedia.org/wiki/火速救兵III)转换而来。
+
+
 《**火速救兵III**》（）是[香港電台](../Page/香港電台.md "wikilink")電視部與[香港消防處](../Page/香港消防處.md "wikilink")合作拍攝的[單元劇](https://zh.wikipedia.org/wiki/單元劇 "wikilink")，全劇共5集，此劇為《[火速救兵](../Page/火速救兵.md "wikilink")》及《[火速救兵II](../Page/火速救兵II.md "wikilink")》的延續。
 
 ## 每集主題

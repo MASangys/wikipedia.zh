@@ -1,3 +1,6 @@
+> 本文内容由[Cat and Mouse](https://zh.wikipedia.org/wiki/Cat and Mouse)转换而来。
+
+
 《**Cat and Mouse**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2](../Page/BY2.md "wikilink")的第六張錄音室專輯和第七個音樂作品\[1\]，於2015年7月28日正式發行\[2\]。
 
 ## 曲目

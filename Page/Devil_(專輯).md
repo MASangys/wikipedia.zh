@@ -1,3 +1,6 @@
+> 本文内容由[Devil \(專輯\)](https://zh.wikipedia.org/wiki/Devil \(專輯\))转换而来。
+
+
 **《Devil》**是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的出道](../Page/Super_Junior.md "wikilink")10周年特別紀念專輯，2015年7月16日發行。\[1\]這張專輯距該組合上張韓語專輯《[Mamacita](../Page/Mamacita.md "wikilink")》相距10個月。此專輯是成員[藝聲](../Page/藝聲.md "wikilink")退伍後復出的首張韓語專輯。
 
 《Devil》的後續版本專輯《Magic》在2015年9月16日發行，追加四首歌曲，共收錄14首歌。此專輯是成員[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")與[圭賢](../Page/圭賢.md "wikilink")入伍前的最後一張專輯。由於[神童](../Page/神童.md "wikilink")和[晟敏](../Page/晟敏.md "wikilink")入伍，所以不參與專輯錄製，共九名成員投入該專輯活動和宣傳工作。\[2\]\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[IGNITE](https://zh.wikipedia.org/wiki/IGNITE)转换而来。
+
+
 《**IGNITE**》（）是日本女歌手[藍井艾露](../Page/藍井艾露.md "wikilink")的第7張單曲，於2014年8月20日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

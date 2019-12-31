@@ -1,3 +1,6 @@
+> 本文内容由[新兵正传III：蛙人传](https://zh.wikipedia.org/wiki/新兵正传III：蛙人传)转换而来。
+
+
 《**新兵正传III：蛙人传**》（）是2015年的一部[新加坡](../Page/新加坡.md "wikilink")贺岁电影，由[梁智强执导及联合编剧](https://zh.wikipedia.org/wiki/梁智强 "wikilink")，2015年2月19日上映。
 
 荣获2015海口21世纪海上丝绸之路电影节最佳编剧奖。

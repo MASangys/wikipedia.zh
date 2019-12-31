@@ -1,3 +1,6 @@
+> 本文内容由[Will娛樂](https://zh.wikipedia.org/wiki/Will娛樂)转换而来。
+
+
 **Will Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2011年10月4日。當前旗下藝人包括[金載沅](../Page/金載沅.md "wikilink")、[真理翰](../Page/真理翰.md "wikilink")、[金玉彬](../Page/金玉彬.md "wikilink")等多名演員。
 
 ## 旗下藝人

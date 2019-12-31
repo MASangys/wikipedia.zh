@@ -1,3 +1,6 @@
+> 本文内容由[DOCOMO动画商城](https://zh.wikipedia.org/wiki/DOCOMO动画商城)转换而来。
+
+
 **DOCOMO动画商店有限公司**（，）是日本一家互联网[网络电视](../Page/网络电视.md "wikilink")公司。
 
 ## 概述

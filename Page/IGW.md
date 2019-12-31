@@ -1,3 +1,6 @@
+> 本文内容由[IGW](https://zh.wikipedia.org/wiki/IGW)转换而来。
+
+
 **IGW** 是一家国际[齿轮](../Page/齿轮.md "wikilink")制造厂商，其总部位于[比利时](../Page/比利时.md "wikilink")的[奥斯特坎普](https://zh.wikipedia.org/wiki/奥斯特坎普 "wikilink")。
 
 ## 活动

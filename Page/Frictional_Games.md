@@ -1,3 +1,6 @@
+> 本文内容由[Frictional Games](https://zh.wikipedia.org/wiki/Frictional Games)转换而来。
+
+
 **Frictional Games公司**是一家位於[瑞典](../Page/瑞典.md "wikilink")[赫爾辛堡的獨立](https://zh.wikipedia.org/wiki/赫爾辛堡 "wikilink")[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。該公司由一個以湯馬士·格力普和延斯·尼爾森領導的核心團隊所組成。某些重要員工是外部聘請的，像負責音樂製作的米可·塔米亞 ( Mikko Tarmia ) 即是如此。[Linux](../Page/Linux.md "wikilink") 和 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 平台的移植由愛德華·路德 ( Edward Rudd ) 負責。\[1\]
 
 到現在，Frictional Games專門開發[生存恐怖風格的](https://zh.wikipedia.org/wiki/生存恐怖遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，但該團隊表示他們接受新想法和新的遊戲概念。\[2\]

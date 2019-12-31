@@ -1,3 +1,6 @@
+> 本文内容由[Yoyoman](https://zh.wikipedia.org/wiki/Yoyoman)转换而来。
+
+
 《**Yoyoman**》，是[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2004年生成、2005年制作的卡通動畫影集。\[1\]讲述的是魯博士将自己設計的玩具，用藥水活化成為超人家族。而玫瑰男爵為了與博士对抗用地心礦石制造魔兽。\[2\]在第12届[上海国际电影节](../Page/上海国际电影节.md "wikilink")期间，与[大耳朵图图](../Page/大耳朵图图.md "wikilink")共同亮相“海上电影之夜”舞台，是[台海两岸首次](https://zh.wikipedia.org/wiki/台海两岸 "wikilink")[动漫形象合作](https://zh.wikipedia.org/wiki/动漫 "wikilink")，合拍系列动画\[3\]。因為形象具有正義感，寓教於樂受到親子喜愛，其週邊商品多達300種，甚至創造出超過新臺幣1億元收入的成績。\[4\]。
 
 ## 人物

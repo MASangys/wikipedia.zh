@@ -1,3 +1,6 @@
+> 本文内容由[Sylpheed](https://zh.wikipedia.org/wiki/Sylpheed)转换而来。
+
+
 **Sylpheed** 是一款[开源的](../Page/开源软件.md "wikilink")[邮件客户端和](https://zh.wikipedia.org/wiki/邮件客户端 "wikilink")[新闻聚合器](https://zh.wikipedia.org/wiki/新闻聚合器 "wikilink")，软件采用[GPL许可协议](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。它提供了简单的配置和丰富的功能。 邮件都储存在中。Sylpheed运行于[类Unix系统](../Page/类Unix系统.md "wikilink")包括[Linux](../Page/Linux.md "wikilink")及[BSD](../Page/BSD.md "wikilink")，亦支持[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。并使用[GTK+开发库](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。\[1\]
 
 2005年，Sylpheed的[分支版本Sylpheed](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")-Claws更名为[Claws Mail](../Page/Claws_Mail.md "wikilink")。\[2\]截至2015年，两款软件仍在独立开发中。

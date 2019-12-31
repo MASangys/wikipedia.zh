@@ -1,3 +1,6 @@
+> 本文内容由[Blend4Web](https://zh.wikipedia.org/wiki/Blend4Web)转换而来。
+
+
 Blend4Web是用于创建和在[网页浏览器](../Page/网页浏览器.md "wikilink")中显示交互式[三维计算机图形](../Page/三维计算机图形.md "wikilink")的[开源](../Page/开放源代码.md "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")。
 
 ## 概述

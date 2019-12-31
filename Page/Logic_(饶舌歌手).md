@@ -1,3 +1,6 @@
+> 本文内容由[Logic \(饶舌歌手\)](https://zh.wikipedia.org/wiki/Logic \(饶舌歌手\))转换而来。
+
+
 **瑟爾·羅伯特·布賴森·霍爾二世**（英語：Sir Robert Bryson Hall II，）\[1\]\[2\]，以藝名**Logic**較為人知，是一名美国[饒舌歌手](https://zh.wikipedia.org/wiki/饶舌 "wikilink")、歌手、[唱片制作人及作家](../Page/音樂製作人.md "wikilink")。他出生于美国[马里兰州](../Page/马里兰州.md "wikilink")[盖瑟斯堡市](https://zh.wikipedia.org/wiki/盖瑟斯堡 "wikilink")。作为说唱团体RattPack的一员，近年来Logic在互联网上积攒了很高的人气并发行了四张正式[混音带](../Page/混音带.md "wikilink")，而其中最近一张发行的《[Young Sinatra: Welcome to Forever](https://zh.wikipedia.org/wiki/:en:Young_Sinatra:_Welcome_to_Forever "wikilink")》备受好评。目前Logic已与Visionary Music Group和[Def Jam唱片公司签约](../Page/Def_Jam唱片公司.md "wikilink")，并且已于2014年10月21日发行了他的处子专辑《[Under Pressure](https://zh.wikipedia.org/wiki/:en:Under_Pressure_\(album\) "wikilink")》在2017發行Everybody專輯以特殊名《1-800-273-8255》為最紅歌曲，這首歌講述關於自殺希望讓那些有傷痛的人可以好好活著不要自殺。
 
 ## 早期生活

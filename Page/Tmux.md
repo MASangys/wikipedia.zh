@@ -1,3 +1,6 @@
+> 本文内容由[Tmux](https://zh.wikipedia.org/wiki/Tmux)转换而来。
+
+
 **tmux** 是一个优秀的[终端复用器类](https://zh.wikipedia.org/wiki/终端复用器 "wikilink")[自由软件](../Page/自由软件.md "wikilink")，功能类似 [GNU Screen](../Page/GNU_Screen.md "wikilink")，但使用 [BSD 许可发布](../Page/BSD许可证.md "wikilink")。用户可以通过 tmux 在一个[终端内管理多个分离的会话](https://zh.wikipedia.org/wiki/终端 "wikilink")，窗口及面板，对于同时使用多个[命令行](https://zh.wikipedia.org/wiki/命令行 "wikilink")，或多个任务时非常方便。
 
 ## 概念模型

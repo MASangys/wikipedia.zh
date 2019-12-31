@@ -1,3 +1,6 @@
+> 本文内容由[JR东日本KiHa E120型柴油动车组](https://zh.wikipedia.org/wiki/JR东日本KiHa E120型柴油动车组)转换而来。
+
+
 是一款单辆编组的[柴油动车组](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")，由[东日本旅客铁道自](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")2008年11月始在[新潟县](../Page/新潟县.md "wikilink")、[福岛县](../Page/福岛县.md "wikilink")和[山形县](../Page/山形县.md "wikilink")境内的[地方交通线上运用](https://zh.wikipedia.org/wiki/地方交通线 "wikilink")。\[1\]
 
 ## 运营情况

@@ -1,3 +1,6 @@
+> 本文内容由[SO GOOD \(李俊昊迷你專輯\)](https://zh.wikipedia.org/wiki/SO GOOD \(李俊昊迷你專輯\))转换而来。
+
+
 《**SO GOOD**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")[李俊昊的第](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")3枚日語迷你專輯，於2015年7月15日發行，主打歌曲為《SO GOOD》\[1\]。
 
 ## 背景

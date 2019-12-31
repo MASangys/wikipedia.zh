@@ -1,3 +1,6 @@
+> 本文内容由[HP Prime](https://zh.wikipedia.org/wiki/HP Prime)转换而来。
+
+
 **HP Prime**是一款由HP公司在2013年发布的带有[CAS系统的图形计算器](../Page/計算機代數系統.md "wikilink")，该机型是目前[HP图形计算器中的旗舰机型](../Page/惠普图形计算器对比.md "wikilink")，其有一系列类似于智能手机的功能，例如[触摸屏以及允许安装](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[应用程序](../Page/应用程序.md "wikilink")\[1\]HP Prime的CAS系统是一个独立的模式，用户可以自由选择是否启用。CAS系统基于一个由[Bernard Parisse开发的开源平台](https://zh.wikipedia.org/wiki/Bernard_Parisse "wikilink")[Xcas](https://zh.wikipedia.org/wiki/Xcas "wikilink")/[Giac](https://zh.wikipedia.org/wiki/Giac_\(software\) "wikilink") 1.1.2 ，此计算器拥有1500毫安时的可充电[锂电池](../Page/锂电池.md "wikilink")，大约可提供15小时的续航时间。
 
 HP Prime因为拥有18.23×8.58×1.39 cm的尺寸，是目前（2015年）最薄的带有CAS系统的计算器。\[2\]

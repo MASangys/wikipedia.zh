@@ -1,3 +1,6 @@
+> 本文内容由[Let\'s Encrypt](https://zh.wikipedia.org/wiki/Let\'s Encrypt)转换而来。
+
+
 **Let's Encrypt**是一个于2015年三季度推出的[数字证书认证机构](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")，旨在以自动化流程消除手动创建和安装证书的复杂流程，並推廣使[萬維網服務器的加密連接無所不在](https://zh.wikipedia.org/wiki/萬維網 "wikilink")，为安全网站提供免费的[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")/[TLS证书](https://zh.wikipedia.org/wiki/TLS "wikilink")。\[1\]\[2\]
 
 ## 介紹

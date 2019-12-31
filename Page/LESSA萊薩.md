@@ -1,3 +1,6 @@
+> 本文内容由[LESSA萊薩](https://zh.wikipedia.org/wiki/LESSA萊薩)转换而来。
+
+
 **LESSA萊薩**（，）是一部[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，由漫畫家[POGO所繪](https://zh.wikipedia.org/wiki/POGO "wikilink")，2012年開始於[NAVER](../Page/Naver_\(公司\).md "wikilink") [Webtoon](../Page/Webtoon.md "wikilink")連載\[1\]。
 
 ## 劇情簡介

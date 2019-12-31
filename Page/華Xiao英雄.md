@@ -1,3 +1,6 @@
+> 本文内容由[華Xiao英雄](https://zh.wikipedia.org/wiki/華Xiao英雄)转换而来。
+
+
 **《華Xiao英雄》**（）是一部2015年上映的[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華語電影](https://zh.wikipedia.org/wiki/華語 "wikilink")，由馬來西亞演員[關德輝](../Page/關德輝.md "wikilink")投資拍攝，[香港](../Page/香港.md "wikilink")導演[李力持](../Page/李力持.md "wikilink")和馬來西亞導演[李家鋐執導](https://zh.wikipedia.org/wiki/李家鋐 "wikilink")，並由關德輝、[朱咪咪](../Page/朱咪咪.md "wikilink")、[唐文龍](../Page/唐文龍.md "wikilink")、[李元玲](../Page/李元玲.md "wikilink")、[李馨巧](../Page/李馨巧.md "wikilink")和[黎明主演](https://zh.wikipedia.org/wiki/黎明_\(馬來西亞藝人\) "wikilink")。
 
 ## 劇情

@@ -1,3 +1,6 @@
+> 本文内容由[Eyes of the Insane](https://zh.wikipedia.org/wiki/Eyes of the Insane)转换而来。
+
+
 《****》（有“疯人之眼”之意）是[美国](../Page/美国音乐.md "wikilink")[敲击金属](../Page/敲击金属.md "wikilink")乐队[超级杀手合唱团](https://zh.wikipedia.org/wiki/超级杀手合唱团 "wikilink")2006年的一首歌曲，收录在同年专辑唱片《基督幻觉》中。歌词内容源于《[德克萨斯月刊](https://zh.wikipedia.org/wiki/德克萨斯月刊 "wikilink")》杂志上一篇题为《战争伤亡》的文章，其中探讨了一位美国军人从[伊拉克战场回国后感受到的精神痛苦](../Page/伊拉克战争.md "wikilink")。《》由歌手汤姆·阿拉亚创作，当时《基督幻觉》正在进行前期制作。这首歌得到乐评人的普遍好评，在丹麦单曲排行榜最高排到第15名。
 
 歌曲的[音乐影片于](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")2006年8月经[伊朗导演托尼](https://zh.wikipedia.org/wiki/伊朗 "wikilink")·彼得罗相之手在[洛杉矶地区摄制](../Page/大洛杉矶地区.md "wikilink")，以近距离特写镜头拍摄某军人的[瞳孔](../Page/瞳孔.md "wikilink")和[虹膜](../Page/虹膜.md "wikilink")，观众可以看到其中反射出令人难受的景象，如战争的恐怖、对家人的回忆和军人最后的死亡等。[2006年](../Page/2006年电影.md "wikilink")[美国恐怖片](../Page/美国电影.md "wikilink")《[电锯惊魂3](https://zh.wikipedia.org/wiki/电锯惊魂3 "wikilink")》的原声带中收录了《》，歌曲还在[第49届格莱美奖](../Page/第49届格莱美奖.md "wikilink")角逐中拿下最佳金属表演奖。

@@ -1,3 +1,6 @@
+> 本文内容由[C-V特性曲线](https://zh.wikipedia.org/wiki/C-V特性曲线)转换而来。
+
+
 C-V特性曲线（电容电压特性曲线）是用来测量[半导体](../Page/半导体.md "wikilink")材料和器件的一种方法。当所加电压改变时，[电容被测出](https://zh.wikipedia.org/wiki/电容 "wikilink")。方法是使用[金属](../Page/金属.md "wikilink")-[半导体](../Page/半导体.md "wikilink")结（[肖特基势垒](https://zh.wikipedia.org/wiki/肖特基势垒 "wikilink")）或者[PN结](../Page/PN结.md "wikilink")或者[场效应管](../Page/场效应管.md "wikilink")来得到[耗尽层](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")（其中[载流子](../Page/载流子.md "wikilink")被全部抽走，但仍然有离子化的[施主或](https://zh.wikipedia.org/wiki/施主 "wikilink")[晶体缺陷](../Page/晶体缺陷.md "wikilink")）。当电压改变时，[耗尽层深浅也发生变化](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")。
 
 ## 应用

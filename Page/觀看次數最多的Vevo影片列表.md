@@ -1,3 +1,6 @@
+> 本文内容由[觀看次數最多的Vevo影片列表](https://zh.wikipedia.org/wiki/觀看次數最多的Vevo影片列表)转换而来。
+
+
 此為列出在[VEVO音樂視頻網站上](https://zh.wikipedia.org/wiki/VEVO "wikilink")，點閱率最高的前30名視頻列表\[1\]。
 
 ## VEVO音樂錄影帶點閱率排行

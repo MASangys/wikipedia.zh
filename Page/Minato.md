@@ -1,3 +1,6 @@
+> 本文内容由[Minato](https://zh.wikipedia.org/wiki/Minato)转换而来。
+
+
 **minato**是一位[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[音樂製作人](../Page/音樂製作人.md "wikilink")。目前屬於[Being經紀公司](../Page/Being_\(公司\).md "wikilink")。主要擔任[VALSHE](../Page/VALSHE.md "wikilink")的音樂製作和企劃，一手包辦作詞、作曲、編曲、合聲等。別名**流星P**、**トゥライ**（to-lie）。
 
 ## 別名

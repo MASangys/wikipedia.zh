@@ -1,3 +1,6 @@
+> 本文内容由[Bankcard](https://zh.wikipedia.org/wiki/Bankcard)转换而来。
+
+
 **Bankcard**是1974年至2006年间由澳大利亚和新西兰的金融机构发行的[信用卡](../Page/信用卡.md "wikilink")共享[品牌](../Page/品牌.md "wikilink")。其由澳大利亚最大的银行们合资成立的澳大利亚银行卡协会（）管理，并且是澳大利亚第一款面向大众市场的信用卡。
 
 ## 历史

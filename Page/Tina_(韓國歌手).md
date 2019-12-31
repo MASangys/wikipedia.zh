@@ -1,3 +1,6 @@
+> 本文内容由[Tina \(韓國歌手\)](https://zh.wikipedia.org/wiki/Tina \(韓國歌手\))转换而来。
+
+
 **朴秀彬**\[1\]（，，），藝名**Tina**（），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。2013年加入Star Planet娛樂旗下女子組合[BLADY](../Page/BLADY.md "wikilink")\[2\]。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[GEM TV ASIA](https://zh.wikipedia.org/wiki/GEM TV ASIA)转换而来。
+
+
 GEM是一條亞洲娛樂頻道，除了為觀眾提供大部分與日本同週播出的精選黃金時段劇集，其中很多更是電視上獨家首播。同時也網羅了[日本](../Page/日本.md "wikilink")製作的多元化綜藝節目，以及由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")和[台灣製作的人氣劇集](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 2018年7月，GEM正式升格為日本娛樂頻道，並加入日本動畫，值得一提，日本動畫曾經在[Animax首播期間播出過](../Page/Animax_Asia.md "wikilink")。

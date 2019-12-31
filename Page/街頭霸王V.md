@@ -1,3 +1,6 @@
+> 本文内容由[街頭霸王V](https://zh.wikipedia.org/wiki/街頭霸王V)转换而来。
+
+
 ，是[Capcom於](https://zh.wikipedia.org/wiki/Capcom "wikilink")2016年推出的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[快打旋風系列的第五部主要作品](https://zh.wikipedia.org/wiki/快打旋風 "wikilink")。
 
 ## 概觀

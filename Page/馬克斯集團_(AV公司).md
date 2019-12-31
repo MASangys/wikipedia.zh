@@ -1,3 +1,6 @@
+> 本文内容由[馬克斯集團 \(AV公司\)](https://zh.wikipedia.org/wiki/馬克斯集團 \(AV公司\))转换而来。
+
+
 **馬克斯集團**（，），是日本的[AV事務所](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")、旗下公司也負責[成人影片的生產](https://zh.wikipedia.org/wiki/成人影片 "wikilink")。馬克斯集團依其所屬[女優的工作條件](../Page/AV女優.md "wikilink")， 根據適應年齡分成[MARKS JAPAN](https://zh.wikipedia.org/wiki/MARKS_JAPAN "wikilink")、[Five Promotion](https://zh.wikipedia.org/wiki/Five_Promotion "wikilink")、[BARDOT旗下三個公司管理](https://zh.wikipedia.org/wiki/BARDOT "wikilink")\[1\]。
 
 ## 概要

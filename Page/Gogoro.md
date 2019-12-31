@@ -1,3 +1,6 @@
+> 本文内容由[Gogoro](https://zh.wikipedia.org/wiki/Gogoro)转换而来。
+
+
 [Caowu_Square_gogoro_2019.jpg](https://zh.wikipedia.org/wiki/File:Caowu_Square_gogoro_2019.jpg "fig:Caowu_Square_gogoro_2019.jpg")草悟廣場分店\]\] **睿能創意股份有限公司**（）為外商公司，由Gogoro Inc.持有，代表人為[陸學森](../Page/陸學森.md "wikilink")（Horace Luke），於2011年8月29日在[中華民國](../Page/中華民國.md "wikilink")核可設立，在台灣持有兩座工廠，位於桃園市龜山區大華里頂湖路33號1、2樓，以及桃園市龜山區大華里頂湖路20號1、2、3樓（睿能創意股份有限公司二廠），工廠負責人皆為[陸學森](../Page/陸學森.md "wikilink")，負責製造Gogoro Smartscooter。
 
 睿能創意股份有限公司持有**睿能創意營銷股份有限公司**（Gogoro Taiwan Sales And Services Limited），負責在台的銷售及服務。

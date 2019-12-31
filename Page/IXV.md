@@ -1,3 +1,6 @@
+> 本文内容由[IXV](https://zh.wikipedia.org/wiki/IXV)转换而来。
+
+
 **IXV**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Intermediate eXperimental Vehicle**，IXV；[中文又譯](https://zh.wikipedia.org/wiki/中文 "wikilink")：**過渡試驗飛行器**\[1\]或**太空計程車**\[2\]）是[歐洲太空總署](https://zh.wikipedia.org/wiki/歐洲太空總署 "wikilink")（ESA）所研製的迷你[無人](../Page/無人航空載具.md "wikilink")[穿梭機](https://zh.wikipedia.org/wiki/太空梭 "wikilink")。
 
 IXV的目的是用於驗證大氣層[再入](../Page/再入.md "wikilink")技術\[3\]，首次飛行試驗於2015年2月11日，並於當天成功返航地球，且按計劃濺落在太平洋中。\[4\]IXV的成功無疑有助歐洲研製出可重複使用的[穿梭機](https://zh.wikipedia.org/wiki/太空梭 "wikilink")，並且有望研製出載人版本使歐洲能夠進行載人航天任務，為歐洲的太空科技發展畫下新的一頁。\[5\]

@@ -1,3 +1,6 @@
+> 本文内容由[GameZone](https://zh.wikipedia.org/wiki/GameZone)转换而来。
+
+
 **GameZone**是一个美国多平台[电子游戏](../Page/电子游戏.md "wikilink")网站，成立于1994年。
 
 ## 参考资料

@@ -1,3 +1,6 @@
+> 本文内容由[Evolve \(陳慧嫻專輯\)](https://zh.wikipedia.org/wiki/Evolve \(陳慧嫻專輯\))转换而来。
+
+
 《**Evolve**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")第18張粵語專輯，於2015年11月19日正式發行，一共收錄10首全新演繹歌曲，全為舊作，但推出兩日便獲[金唱片](../Page/金唱片.md "wikilink")銷量。[香港唱片商會](../Page/香港唱片商會.md "wikilink")銷量榜連續三星期冠軍。
 
 ## 曲目

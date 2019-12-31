@@ -1,3 +1,6 @@
+> 本文内容由[三國志V](https://zh.wikipedia.org/wiki/三國志V)转换而来。
+
+
 是一款由[光荣](../Page/光荣.md "wikilink")公司制作的[历史类游戏](https://zh.wikipedia.org/wiki/历史类游戏 "wikilink")。本游戏为[三国志系列的第五代作品](https://zh.wikipedia.org/wiki/三国志系列 "wikilink")。本游戏于1996年9月27日在[世嘉土星](../Page/世嘉土星.md "wikilink")发行，于1997年2月14日在[PlayStation](../Page/PlayStation.md "wikilink")上发行。\[1\]
 
 本游戏增加4个场景。光荣公司没有推出本作的英语版本。\[2\]

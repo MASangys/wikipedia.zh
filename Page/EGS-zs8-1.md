@@ -1,3 +1,6 @@
+> 本文内容由[EGS-zs8-1](https://zh.wikipedia.org/wiki/EGS-zs8-1)转换而来。
+
+
 **EGS-zs8-1**是在北天的[牧夫座](../Page/牧夫座.md "wikilink")方向上發現的一個[高紅移的](https://zh.wikipedia.org/wiki/紅移#河外星系觀測 "wikilink")[萊曼斷裂星系](../Page/萊曼斷裂星系.md "wikilink")\[1\]。在2015年5月，EGS-zs8-1是已知的所有[星系](../Page/星系.md "wikilink")中[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")[紅移](../Page/紅移.md "wikilink")最高的，意味著它是觀測到最遙遠和最古老的星系\[2\]\[3\]。但在2015年7月，EGS-zs8-1最遙遠和最古老的地位被[EGSY-2008532660超越](../Page/EGSY8p7.md "wikilink")\[4\]。
 
 ## 述述

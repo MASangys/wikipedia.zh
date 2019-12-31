@@ -1,3 +1,6 @@
+> 本文内容由[約瑟夫·M·凱里](https://zh.wikipedia.org/wiki/約瑟夫·M·凱里)转换而来。
+
+
 **約瑟夫·莫爾·凱里**（；），是一位[美國共和黨的政治人物](../Page/共和黨_\(美國\).md "wikilink")，曾在1911年至1915年擔任[懷俄明州州長](https://zh.wikipedia.org/wiki/懷俄明州州長 "wikilink")，也當過[懷俄明領地](../Page/懷俄明領地.md "wikilink")[眾議院議會代表和](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州聯邦參議員](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")。
 
 ## 生涯

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Twin](https://zh.wikipedia.org/wiki/鈴木Twin)转换而来。
+
+
 **鈴木Twin**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2003年至2005年間開發製造的雙人座[輕型車](../Page/輕型車.md "wikilink")，另有版本，為日本[輕型車](../Page/輕型車.md "wikilink")首創。
 
 ## 歷史與概要

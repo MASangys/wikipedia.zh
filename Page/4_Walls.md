@@ -1,3 +1,6 @@
+> 本文内容由[4 Walls](https://zh.wikipedia.org/wiki/4 Walls)转换而来。
+
+
 **《4 Walls》**為[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[f(x)的第四張正規專輯](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，由[SM娛樂](../Page/SM娛樂.md "wikilink")於2015年10月27日發行音源和唱片。此專輯也是成員[Sulli退團後發行的第一張專輯](../Page/崔真理.md "wikilink")。
 
 ## 「4 Walls」

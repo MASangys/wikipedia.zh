@@ -1,3 +1,6 @@
+> 本文内容由[Syncthing](https://zh.wikipedia.org/wiki/Syncthing)转换而来。
+
+
 **Syncthing**是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")<span dir="ltr" lang="zh">的</span>[文件同步客户端与服务器软件](https://zh.wikipedia.org/wiki/文件同步 "wikilink")，采用[Go](../Page/Go.md "wikilink")语言编写。它可以在本地网络上的设备之间或通过Internet在远程设备之间同步文件，使用了其独有的对等自由块交换协议。源代码托管在[GitHub](../Page/GitHub.md "wikilink")上\[1\]
 
 ## 历史

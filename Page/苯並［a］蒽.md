@@ -1,3 +1,6 @@
+> 本文内容由[苯並［a］蒽](https://zh.wikipedia.org/wiki/苯並［a］蒽)转换而来。
+
+
 **苯並\[*a*\]蒽**是一种[多环芳烃](https://zh.wikipedia.org/wiki/多环芳烃 "wikilink")，[化学式](../Page/化学式.md "wikilink") C<sub>18</sub>H<sub>12</sub>。
 
 ## 毒性

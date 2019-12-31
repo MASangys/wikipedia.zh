@@ -1,3 +1,6 @@
+> 本文内容由[Jae](https://zh.wikipedia.org/wiki/Jae)转换而来。
+
+
 **Jae**（），本名**朴再興**（音譯，，，1992年9月15日－），韓國[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")\[1\]，2015年9月7日以韓國男子樂團[DAY6](../Page/DAY6.md "wikilink")出道\[2\]，[韓裔美國人](../Page/韓裔美國人.md "wikilink")，在團內擔任副唱、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、饒舌\[3\]。
 
 ## 生涯

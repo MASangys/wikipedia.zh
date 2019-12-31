@@ -1,3 +1,6 @@
+> 本文内容由[SIG蚊子半自動手槍](https://zh.wikipedia.org/wiki/SIG蚊子半自動手槍)转换而来。
+
+
 **SIG蚊子**（；以下簡稱為「蚊子」）是一把由[德国](../Page/德国.md "wikilink")槍械公司[西格-紹爾研製](../Page/西格&紹爾.md "wikilink")、[德國運動槍有限公司生產的一把等比例縮小型](https://zh.wikipedia.org/wiki/德國運動槍有限公司 "wikilink")[反沖作用式](../Page/反沖作用_\(槍械\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是以[SIG P226為藍本並將尺寸縮小](../Page/SIG_P226半自動手槍.md "wikilink")10％的版本，發射[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節

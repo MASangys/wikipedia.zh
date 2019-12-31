@@ -1,3 +1,6 @@
+> 本文内容由[3DMGAME](https://zh.wikipedia.org/wiki/3DMGAME)转换而来。
+
+
 **3DMGAME**是[中国大陆](../Page/中国大陆.md "wikilink")一家以[单机游戏](../Page/单机游戏.md "wikilink")资-{}-讯、[汉化](../Page/中文化.md "wikilink")、为主的[游戏](../Page/电子游戏.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。包含游戏类[门户网站](../Page/门户网站.md "wikilink")和[网络论坛](../Page/网络论坛.md "wikilink")，是中国大陆最大的单机游戏网站及论坛之一。
 
 ## 历史

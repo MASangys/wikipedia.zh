@@ -1,3 +1,6 @@
+> 本文内容由[PayPal黑手黨](https://zh.wikipedia.org/wiki/PayPal黑手黨)转换而来。
+
+
 「**PayPal 黑手黨**」（）是指一群在以後開發或成立其他科技公司的前 [PayPal](../Page/PayPal.md "wikilink") 員工\[1\]。他們在離開 PayPal 再次创业成功率之高令人侧目，他们建立的企业包括[特斯拉汽車](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")，[領英](../Page/領英.md "wikilink")，[Matterport](https://zh.wikipedia.org/wiki/Matterport "wikilink")，[Palantir Technologies](../Page/Palantir_Technologies.md "wikilink")，[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Yelp](../Page/Yelp.md "wikilink") 和 [Yammer](../Page/Yammer.md "wikilink")\[2\]。大部分的成員都在[史丹福大學或](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")[伊利諾大學厄巴納-香檳分校就讀](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納-香檳分校 "wikilink")，部分人在高校時期於就讀。其中三個成員，包括[彼得·泰爾](../Page/彼得·泰爾.md "wikilink")、[伊隆·馬斯克和](https://zh.wikipedia.org/wiki/伊隆·馬斯克 "wikilink")[里德·霍夫曼](../Page/里德·霍夫曼.md "wikilink")成為了億萬富翁。
 
 ## 歷史

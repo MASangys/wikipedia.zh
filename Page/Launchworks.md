@@ -1,3 +1,6 @@
+> 本文内容由[Launchworks](https://zh.wikipedia.org/wiki/Launchworks)转换而来。
+
+
 **Launchworks**，以前名为**Xbox Live Productions**，是总部位于华盛顿州雷德蒙德的美国游戏开发商。由微软工作室在2008年在内部创建。\[1\]\[2\]
 
 ## 历史

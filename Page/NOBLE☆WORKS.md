@@ -1,3 +1,6 @@
+> 本文内容由[NOBLE☆WORKS](https://zh.wikipedia.org/wiki/NOBLE☆WORKS)转换而来。
+
+
 《**NOBLE☆WORKS**》（）是日本[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2010年12月24日發售的[美少女遊戲](../Page/美少女遊戲.md "wikilink")。它是YUZUSOFT5周年紀念作並為其第五部作品。簡稱「」\[1\]。
 
 ## 概要

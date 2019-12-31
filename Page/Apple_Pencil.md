@@ -1,3 +1,6 @@
+> 本文内容由[Apple Pencil](https://zh.wikipedia.org/wiki/Apple Pencil)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Apple_Pencil.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:IPad_\(Apple_Pencil\).jpg "fig:缩略图") **Apple Pencil**，是一個由[蘋果公司所設計的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[觸控筆](../Page/觸控筆.md "wikilink")，只能在[iPad Pro](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")、[iPad (第六代)和](https://zh.wikipedia.org/wiki/iPad_\(第六代\) "wikilink")[ipad（第七代）等特定型號的](https://zh.wikipedia.org/wiki/iPad_2019 "wikilink")[iPad系列](https://zh.wikipedia.org/wiki/iPad "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")使用，不支援[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod Touch及其他廠牌的行動裝置](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")\[1\]\[2\]。Apple Pencil 在2015年9月9日的秋季產品發表會上首次公開，並於2015年11月開始發售\[3\]。
 
 ## 產品介紹

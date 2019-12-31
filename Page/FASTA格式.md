@@ -1,3 +1,6 @@
+> 本文内容由[FASTA格式](https://zh.wikipedia.org/wiki/FASTA格式)转换而来。
+
+
 在[生物信息学](../Page/生物信息学.md "wikilink")中，**FASTA格式**是一种用于记录[核酸序列](../Page/核酸序列.md "wikilink")或[肽序列的文本](https://zh.wikipedia.org/wiki/肽序列 "wikilink")[格式](../Page/檔案格式.md "wikilink")，其中的核酸或[氨基酸](../Page/氨基酸.md "wikilink")均以单个字母编码呈现。该格式同时还允许在序列之前定义名称和编写注释。这一格式最初由软件包定义，但现今已是[生物信息学](../Page/生物信息学.md "wikilink")领域的一项标准。
 
 FASTA简明的格式降低了序列操纵和分析的难度，令序列可被文本处理工具和诸如[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")和[Perl](../Page/Perl.md "wikilink")等[脚本语言](../Page/脚本语言.md "wikilink")处理。

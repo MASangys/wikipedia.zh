@@ -1,3 +1,6 @@
+> 本文内容由[Japonism](https://zh.wikipedia.org/wiki/Japonism)转换而来。
+
+
 《**Japonism**》是[嵐](../Page/嵐.md "wikilink")的第17張專輯，第14枚原創專輯，於2015年10月21日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

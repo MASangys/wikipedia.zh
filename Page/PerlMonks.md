@@ -1,3 +1,6 @@
+> 本文内容由[PerlMonks](https://zh.wikipedia.org/wiki/PerlMonks)转换而来。
+
+
 **PerlMonks**（中文翻译：Perl修道士）是一个讨论[Perl](../Page/Perl.md "wikilink")编程的[网络社区](../Page/网络社区.md "wikilink")，里面也涵盖一些与Perl相关的话题，如[网络编程和](../Page/网络应用程序.md "wikilink")[系统管理等](../Page/系统管理员.md "wikilink")。该网站通常被用户戏称为“[僧院](../Page/僧院.md "wikilink")”。\[1\] PerlMonks这个名字和整个网站的风气，都幽默地反映出[程序员](../Page/程序员.md "wikilink")对自己喜爱的[编程语言](../Page/编程语言.md "wikilink")有着一种近乎宗教般的热爱。网站的用户被称作“修道士”（monk）。
 
 ## 特色

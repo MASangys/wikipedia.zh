@@ -1,3 +1,6 @@
+> 本文内容由[有夢要想 - Happily Ever After](https://zh.wikipedia.org/wiki/有夢要想 - Happily Ever After)转换而来。
+
+
 **有夢要想 - Happily Ever After**為香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")（Kay Tse）**第62支派台作品**，為[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")10周年主題曲。
 
 單曲於2015年12月8日派至各大電台。《有夢要想 - Happily Ever After》由Andy Dodd、作曲、[林夕](../Page/林夕.md "wikilink")填詞、張人傑編曲、[趙增熹](../Page/趙增熹.md "wikilink")監制。\[1\]。

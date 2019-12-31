@@ -1,3 +1,6 @@
+> 本文内容由[Rev响应元件](https://zh.wikipedia.org/wiki/Rev响应元件)转换而来。
+
+
 [HIV_Genome_Org_wRRE.png](https://zh.wikipedia.org/wiki/File:HIV_Genome_Org_wRRE.png "fig:HIV_Genome_Org_wRRE.png")内部\]\] HIV病毒的**Rev响应元件**（，**RRE**）是一个高度结构化的长约350核苷酸的RNA片段，位于病毒基因[Env的蛋白编码区内部](../Page/Env_\(基因\).md "wikilink")。在HIV-1的辅助蛋白[Rev存在的情况下](https://zh.wikipedia.org/wiki/Rev_\(HIV\) "wikilink")，带有RRE的HIV-1[mRNA会从](https://zh.wikipedia.org/wiki/信使RNA "wikilink")[细胞核输出到](https://zh.wikipedia.org/wiki/细胞核 "wikilink")[細胞質中](https://zh.wikipedia.org/wiki/細胞質 "wikilink")，参与进一步的[翻译与病毒包装](https://zh.wikipedia.org/wiki/翻译_\(遗传学\) "wikilink")\[1\]\[2\]。
 
 ## 在HIV病毒中的的功能

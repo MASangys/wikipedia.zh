@@ -1,3 +1,6 @@
+> 本文内容由[Showtek](https://zh.wikipedia.org/wiki/Showtek)转换而来。
+
+
 **Showtek** 是荷蘭的雙人[電子音樂](../Page/電子音樂.md "wikilink")團體。由兄弟檔Sjoerd Janssen (也稱做 Duro, born 1984)和Wouter Janssen (也稱做 Walt, born 1982)組成，於2001年投入音樂創作。最初做[鐵克諾音樂](https://zh.wikipedia.org/wiki/鐵克諾音樂 "wikilink")，中期漸漸變成[Hardstyle](https://zh.wikipedia.org/wiki/重派音樂 "wikilink")，最後轉變成[前衛浩室和](https://zh.wikipedia.org/wiki/前衛浩室 "wikilink")[電子浩室](../Page/電子浩室.md "wikilink")。
 
 <div>

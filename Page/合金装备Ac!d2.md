@@ -1,3 +1,6 @@
+> 本文内容由[合金装备Ac!d2](https://zh.wikipedia.org/wiki/合金装备Ac!d2)转换而来。
+
+
 ，是[科乐美在](https://zh.wikipedia.org/wiki/科乐美 "wikilink")2005年发行在psp运行的回合制卡牌游戏。该游戏的Java ME版本Glu公司发行。\[1\]
 
 该游戏时间发生在《[潜龙谍影Ac\!d](https://zh.wikipedia.org/wiki/潜龙谍影Ac!d "wikilink")》之后。与《潜龙谍影Ac\!d》一样,它的剧情独立于[合金装备系列的主线](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")。新主角Snake代替了Solid Snake，和他的搭档也变成了Venus，代替原来的Teliko Friedman。

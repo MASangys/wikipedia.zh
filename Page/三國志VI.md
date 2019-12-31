@@ -1,3 +1,6 @@
+> 本文内容由[三國志VI](https://zh.wikipedia.org/wiki/三國志VI)转换而来。
+
+
 是一款由[光荣公司制作的](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")[历史类游戏](https://zh.wikipedia.org/wiki/历史类游戏 "wikilink")。本游戏为[三国志系列的第六代作品](https://zh.wikipedia.org/wiki/三国志系列 "wikilink")。本游戏首先于1998年在Windows平台发行，游戏后移植至[PlayStation](../Page/PlayStation.md "wikilink")和[Dreamcast](../Page/Dreamcast.md "wikilink")。游戏于1998年10月8日在PlayStation日本地区发行，于2000年3月31日北美地区发行。\[1\]
 
 本作共有武将520名。武将的能力值分为统率、武力、智力、政治和魅力5项。

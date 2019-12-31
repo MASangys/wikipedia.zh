@@ -1,3 +1,6 @@
+> 本文内容由[幻影异闻录♯FE](https://zh.wikipedia.org/wiki/幻影异闻录♯FE)转换而来。
+
+
 是一款[Wii U平台的](../Page/Wii_U.md "wikilink")[跨界](../Page/跨界作品.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，基于[Atlus](../Page/Atlus.md "wikilink")和[Intelligent Systems各自的](../Page/Intelligent_Systems.md "wikilink")[女神转生系列和](https://zh.wikipedia.org/wiki/女神转生系列 "wikilink")[火焰之纹章系列](../Page/火焰之纹章系列.md "wikilink")。游戏由[Intelligent Systems授权并由](../Page/Intelligent_Systems.md "wikilink")[Atlus](../Page/Atlus.md "wikilink")负责开发，由[任天堂](../Page/任天堂.md "wikilink")于2015年12月26日在日本推出，2016年在西方推出\[1\]\[2\]。本作的日本地区销量约为3.3万份，\[3\]有不少玩家认为Wii U自身的销量低迷限制了本作的销量。游戏在之后2019年9月5日透過[任天堂直面會公佈在](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台移植加强版《**幻影异闻录♯FE Encore**》，於2020年1月17日发售并新增支持中文化内容。
 
 ## 开发

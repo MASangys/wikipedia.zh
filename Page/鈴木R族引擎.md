@@ -1,3 +1,6 @@
+> 本文内容由[鈴木R族引擎](https://zh.wikipedia.org/wiki/鈴木R族引擎)转换而来。
+
+
 **鈴木R族引擎**是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2010年12月起開發製造的[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，前代產品為[鈴木K族引擎](../Page/鈴木K族引擎.md "wikilink")。
 
 ## 概要

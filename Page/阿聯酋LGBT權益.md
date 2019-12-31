@@ -1,3 +1,6 @@
+> 本文内容由[阿聯酋LGBT權益](https://zh.wikipedia.org/wiki/阿聯酋LGBT權益)转换而来。
+
+
 [阿拉伯聯合大公國包含](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink")[杜拜](../Page/杜拜.md "wikilink")、[阿布達比](https://zh.wikipedia.org/wiki/阿布達比 "wikilink")、[拉斯海瑪](https://zh.wikipedia.org/wiki/拉斯海瑪 "wikilink")、[烏姆蓋萬](../Page/烏姆蓋萬.md "wikilink")、[阿治曼](https://zh.wikipedia.org/wiki/阿治曼 "wikilink")、[富吉拉](../Page/富吉拉.md "wikilink")和[夏爾迦等七個酋長國](https://zh.wikipedia.org/wiki/夏爾迦 "wikilink")。在傳統異性戀婚姻之外的性關係都是一種犯罪。同性戀可能被判死刑。刑罰從監禁、罰款[驅逐出境到死刑都有](https://zh.wikipedia.org/wiki/驅逐出境 "wikilink")。通姦與也是犯罪，犯下同性戀罪的人，如果與同性發生性關係時自己也有配偶，也會面臨通姦的罪刑。
 
 ## 聯邦刑法

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:社会/Featured biography](https://zh.wikipedia.org/wiki/Portal:社会/Featured biography)转换而来。
+
+
 __TOC__
 
 ## 特色人物列表

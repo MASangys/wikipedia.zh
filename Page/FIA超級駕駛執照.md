@@ -1,3 +1,6 @@
+> 本文内容由[FIA超級駕駛執照](https://zh.wikipedia.org/wiki/FIA超級駕駛執照)转换而来。
+
+
 **FIA超級駕駛執照**（），由[國際汽車聯合會所發出的牌照](https://zh.wikipedia.org/wiki/國際汽車聯合會 "wikilink")，為車手出賽[一級方程式賽車必須具備的文件](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")。
 
 ## 獲取資格

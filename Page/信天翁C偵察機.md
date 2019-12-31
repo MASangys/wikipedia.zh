@@ -1,3 +1,6 @@
+> 本文内容由[信天翁C偵察機](https://zh.wikipedia.org/wiki/信天翁C偵察機)转换而来。
+
+
 **信天翁C偵察機**是由信天翁飛機公司研製的雙翼偵察機，在[第一次世界大戰期間不單作為偵察機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，還以其機載機槍件為戰鬥機和對地攻擊機，信天翁飛機公司以此為基礎推出[信天翁D戰鬥機](../Page/信天翁D戰鬥機.md "wikilink")。
 
 不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林](../Page/柏林.md "wikilink")約亨尼斯塔爾區。

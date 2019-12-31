@@ -1,3 +1,6 @@
+> 本文内容由[St.Signpost](https://zh.wikipedia.org/wiki/St.Signpost)转换而来。
+
+
 **株式會社St.Signpost**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1959年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")準會員。
 
 ## 概要、沿革

@@ -1,3 +1,6 @@
+> 本文内容由[G·M·特里维廉](https://zh.wikipedia.org/wiki/G·M·特里维廉)转换而来。
+
+
 **乔治·麦考莱·特里维廉**，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[CBE](https://zh.wikipedia.org/wiki/英帝國司令勳章 "wikilink")，[FRS](https://zh.wikipedia.org/wiki/皇家學會院士 "wikilink")，[FBA](https://zh.wikipedia.org/wiki/英國國家學術院院士 "wikilink")（，），[英国](../Page/英国人.md "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他是[第二代准男爵乔治·奥托·特里维廉第三子以及](https://zh.wikipedia.org/wiki/第二代准男爵乔治·奥托·特里维廉 "wikilink")[辉格党史学家](https://zh.wikipedia.org/wiki/辉格党 "wikilink")[麦考莱男爵的甥孙](https://zh.wikipedia.org/wiki/第一代麦考利男爵托马斯·巴宾顿·麦考利 "wikilink")。
 
 ## 生平

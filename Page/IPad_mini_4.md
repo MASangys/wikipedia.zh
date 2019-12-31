@@ -1,3 +1,6 @@
+> 本文内容由[IPad mini 4](https://zh.wikipedia.org/wiki/IPad mini 4)转换而来。
+
+
 **iPad mini 4**是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[平板電腦](../Page/平板電腦.md "wikilink")，配備有7.9吋[-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-和Touch](../Page/Retina显示屏.md "wikilink") ID指纹识别功能，2015年9月9日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山發佈](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，不過並沒有在發表會上發表，並於同年9月16日發售。
 
 ## 硬件

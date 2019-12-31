@@ -1,3 +1,6 @@
+> 本文内容由[Kiss Me](https://zh.wikipedia.org/wiki/Kiss Me)转换而来。
+
+
 《**一吻定情**》是由薩拉薩瓦蒂·翁索姆佩奇執導，[Mike D. Angelo](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")、[李海娜](../Page/李海娜.md "wikilink")主演的泰國電視劇。改编自漫畫《[惡作劇之吻](../Page/淘气小亲亲.md "wikilink")》及日本电视剧《[惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")》。
 
 ## 劇情概述

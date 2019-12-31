@@ -1,3 +1,6 @@
+> 本文内容由[Astro Warna](https://zh.wikipedia.org/wiki/Astro Warna)转换而来。
+
+
 **Astro Warna**、**Astro Warna HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro拥有的频道](https://zh.wikipedia.org/wiki/Astro "wikilink")，该频道全天候24小时播出本地及海外环境剧、情景剧及综艺节目。该頻道以[马来语](../Page/马来语.md "wikilink")播出。\[1\] 该頻道开播前，所有环境剧及情景剧已在播出，2009年6月1日起，改由Astro Warna播出。2015年1月1日起，新加坡[星和視界用户将能够观赏该频道播出的节目](https://zh.wikipedia.org/wiki/星和視界 "wikilink")。\[2\]\[3\]
 
 ## Astro Warna HD

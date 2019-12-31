@@ -1,3 +1,6 @@
+> 本文内容由[聯合太平洋FEF型蒸汽機車](https://zh.wikipedia.org/wiki/聯合太平洋FEF型蒸汽機車)转换而来。
+
+
 FEF型機車列是由[聯合太平洋鐵路](../Page/聯合太平洋鐵路.md "wikilink")擁有和經營的[蒸氣機車](https://zh.wikipedia.org/wiki/蒸氣機車 "wikilink")。它有三個型號分別表示為 FEF-1、FEF-2 和 FEF-3。 “FEF”代表車輪的佈局及排列縮寫表示為[4-8-4類別的蒸氣機車](https://zh.wikipedia.org/wiki/4-8-4 "wikilink")。
 
 ## 起源

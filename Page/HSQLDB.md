@@ -1,3 +1,6 @@
+> 本文内容由[HSQLDB](https://zh.wikipedia.org/wiki/HSQLDB)转换而来。
+
+
 *'HSQLDB **(**Hyper SQL Database*')是一个用Java编写的关系数据库管理系统。它有一个JDBC驱动程序并且支持一个SQL-92和SQL:2008标准的较大子集。\[1\]它提供了一个快速轻量级(版本2.2大约为1300字节)数据库引擎\[2\]，该数据库引擎提供基于磁盘和内存的表。有两种模式：嵌入式和服务器模式可供购买。 此外,它包括一些工具,如轻量级web服务器、命令行、GUI管理工具(可以作为应用程序单独运行)和一些演示实例。可以运行在1.1版本以上的JRE上运行,包括免费JRE，如Kaffe。 HSQLDB 遵循BSD协议。它在许多开源软件项目中被用作数据库和持久引擎,如OpenOffice Base、LibreOffice Base、the Standalone Roller Demo,\[3\] Jitsi网络电话和视频会议客户端(从2.6版开始) \[4\]，还有一些商业产品,如Mathematica和InstallAnywhere(从8.0版开始)\[5\]。
 
 ## 事务支持

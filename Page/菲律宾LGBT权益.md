@@ -1,3 +1,6 @@
+> 本文内容由[菲律宾LGBT权益](https://zh.wikipedia.org/wiki/菲律宾LGBT权益)转换而来。
+
+
 **菲律宾LGBT权益**是[菲律賓對於](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[同志族群的相關保障](https://zh.wikipedia.org/wiki/同志 "wikilink")。根據2014年調查，菲律宾被列为全世界对同性恋最友好的国家之一和全[亚洲](../Page/亚洲.md "wikilink")对LGBT最友好的国家之一。\[1\]在一个涵盖了39个国家的全球性调查中菲律宾在17个多数接受[同性恋的国家中排名第](https://zh.wikipedia.org/wiki/同性恋 "wikilink")10。[皮尤研究中心](../Page/皮尤研究中心.md "wikilink")题为“对同性恋的全球鸿沟”的调查显示，73％的成年菲律宾人同意“同性恋应该被社会所接受”，比2002年的64%上升了9个百分点。\[2\]
 
 话虽如此，LGBT人群仍然是该国的少数派之一。女同性恋者，男同性恋者，双性恋者和跨性别往往面临工作中的歧视，没有结婚的权利。这导致了[LGBT权利的兴起](../Page/各地LGBT權利.md "wikilink")，这种权利被定义为[平等和不受歧视的权利](../Page/法律之前人人平等.md "wikilink")。\[3\]作为[联合国的成员](https://zh.wikipedia.org/wiki/联合国 "wikilink")，菲律宾签署了促进[人权](../Page/人权.md "wikilink")的各种国际公约。\[4\]

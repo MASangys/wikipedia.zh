@@ -1,3 +1,6 @@
+> 本文内容由[Decade \(對數尺度\)](https://zh.wikipedia.org/wiki/Decade \(對數尺度\))转换而来。
+
+
 [Three_decades.png](https://zh.wikipedia.org/wiki/File:Three_decades.png "fig:Three_decades.png") [Three_decades_x10.png](https://zh.wikipedia.org/wiki/File:Three_decades_x10.png "fig:Three_decades_x10.png")
 
 **decade**是在[對數尺度](../Page/對數尺度.md "wikilink")下，二個數量級之間10倍的差距。decade和[octave都是用來表示二個](https://zh.wikipedia.org/wiki/octave_\(電子\) "wikilink")[頻率之間的比例](https://zh.wikipedia.org/wiki/頻率 "wikilink")，也可能視為是對數單位\[1\]\[2\]。decade常用來描述頻率或是電子系統（如及[电子滤波器](../Page/电子滤波器.md "wikilink")）的[頻率響應](https://zh.wikipedia.org/wiki/頻率響應 "wikilink")。

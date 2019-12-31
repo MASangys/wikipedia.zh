@@ -1,3 +1,6 @@
+> 本文内容由[2PM OF 2PM](https://zh.wikipedia.org/wiki/2PM OF 2PM)转换而来。
+
+
 《**2PM OF 2PM**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM的第四張日語](https://zh.wikipedia.org/wiki/2PM "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2015年4月15日以三個版本：通常盤、初回生產限定盤A及初回生產限定盤B推出\[1\]；後又在2015年5月20日發佈初回生產限定重新包裝盤（）和重新包裝通常盤（）\[2\]。兩張打入Oricon單曲週榜前三名的單曲：《一起瘋吧》（）及《Guilty Love》在專輯推出前預先發行。
 
 ## 背景

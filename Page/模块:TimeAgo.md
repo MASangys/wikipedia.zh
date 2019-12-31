@@ -1,3 +1,6 @@
+> 本文内容由[模块:TimeAgo](https://zh.wikipedia.org/wiki/模块:TimeAgo)转换而来。
+
+
 \-- Replacement for [Template:Time ago](https://zh.wikipedia.org/wiki/Template:Time_ago "wikilink") local numberSpell = require('Module:NumberSpell')._main local yesno = require('Module:Yesno')
 
 local p = {}

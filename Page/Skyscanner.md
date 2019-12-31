@@ -1,3 +1,6 @@
+> 本文内容由[Skyscanner](https://zh.wikipedia.org/wiki/Skyscanner)转换而来。
+
+
 **天巡网** ()是全球機票、飯店、租車服務的免費比價[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，並提供30種以上的多語言服務\[1\]，包括[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")、[葡萄牙語等等](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")。在Skyscanner平台上，並不直接銷售機票，而是讓用戶尋找到最便宜的交易後，引導用戶到航空公司、租車公司、飯店、或是旅行社完成訂購程序\[2\]。
 
 ## 歷史

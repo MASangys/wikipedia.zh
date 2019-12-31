@@ -1,3 +1,6 @@
+> 本文内容由[CyArk](https://zh.wikipedia.org/wiki/CyArk)转换而来。
+
+
 **CyArk**是在[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")注册的[501(c)(3)](https://zh.wikipedia.org/wiki/501\(c\)\(3\) "wikilink")[免税](https://zh.wikipedia.org/wiki/免税 "wikilink")、[非营利](https://zh.wikipedia.org/wiki/非营利 "wikilink")、[慈善](../Page/慈善.md "wikilink")机构。该机构的网站介绍自己是“世界遗产的数字档案馆，主要目的是用于教育和保护”，机构宗旨为“依靠和[3D建模技术来收集](../Page/三维模型.md "wikilink")，保存文化遗产的数字数据，并将其提供给公众”。该组织及其目标也被称为“数字方舟”\[1\]。
 
 CyArk的创始人本·凯希拉在2011年的[TED大会](../Page/TED大会.md "wikilink")上表示该机构的成立是为了应对世界遗产遭到日益严重的人为和自然破坏的情况，确保这些“人类集体的记忆”能够依托包括互联网和移动平台等现代的传播技术而免于彻底消失的困境\[2\]。

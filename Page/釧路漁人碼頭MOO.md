@@ -1,3 +1,6 @@
+> 本文内容由[釧路漁人碼頭MOO](https://zh.wikipedia.org/wiki/釧路漁人碼頭MOO)转换而来。
+
+
 [Kushiro_Fisherman's_Wharf_MOO01n.jpg](https://zh.wikipedia.org/wiki/File:Kushiro_Fisherman's_Wharf_MOO01n.jpg "fig:Kushiro_Fisherman's_Wharf_MOO01n.jpg") **釧路漁人碼頭MOO**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[釧路市](../Page/釧路市.md "wikilink")[釧路川](../Page/釧路川.md "wikilink")河畔的商場，僅臨[幣舞橋](../Page/幣舞橋.md "wikilink")\[1\]。名稱源自[舊金山漁人碼頭](https://zh.wikipedia.org/wiki/舊金山漁人碼頭 "wikilink")，MOO則是**M**arine **O**ur **O**asis的縮寫。Moo也是日文平假名「ム」的發音，代表釧路的「夢」和「霧」。\[2\]
 
 建築由出身自釧路市的建築師所設計，包括五層樓的商場「MOO」和室內[植物園](https://zh.wikipedia.org/wiki/植物園 "wikilink")「EGG」兩個部分，EGG則是**E**ver・**G**reen・**G**arden的縮寫。\[3\]\[4\]

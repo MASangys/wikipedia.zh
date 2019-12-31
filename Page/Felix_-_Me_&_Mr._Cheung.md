@@ -1,3 +1,6 @@
+> 本文内容由[Felix - Me \& Mr. Cheung](https://zh.wikipedia.org/wiki/Felix - Me \& Mr. Cheung)转换而来。
+
+
 《**Felix**》是[張敬軒的第](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")18張[專輯](../Page/音樂專輯.md "wikilink")（副標題：**Me & Mr. Cheung**），是加盟英皇娛樂後第二張錄音室專輯，於2015年12月17日推出。原定於暑假推出，但由於要拍攝電影[燦爛這一刻](https://zh.wikipedia.org/wiki/燦爛這一刻 "wikilink")，所以把推出日期推遲。專輯的第一主打是《找對的人》及國語版《One Day》，第二主打歌為《過客別墅》。本專輯分為上下集，上集於2015年12月17日推出，下集於2016年1月推出。
 
 ## 創作意念

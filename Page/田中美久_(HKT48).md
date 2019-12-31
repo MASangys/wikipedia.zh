@@ -1,3 +1,6 @@
+> 本文内容由[田中美久 \(HKT48\)](https://zh.wikipedia.org/wiki/田中美久 \(HKT48\))转换而来。
+
+
 **田中美久**（，）是[日本偶像藝人](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為女子偶像團體[HKT48](../Page/HKT48.md "wikilink") Team H成員，[熊本縣](../Page/熊本縣.md "wikilink")出身，所屬[經紀公司](../Page/經紀公司.md "wikilink")為[AKS](../Page/AKS.md "wikilink")。
 
 ## 經歷

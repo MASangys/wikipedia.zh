@@ -1,3 +1,6 @@
+> 本文内容由[No.5 \(2PM專輯\)](https://zh.wikipedia.org/wiki/No.5 \(2PM專輯\))转换而来。
+
+
 《**No.5**》是韓國男子偶像團體[2PM第](https://zh.wikipedia.org/wiki/2PM "wikilink")5張正規韓語專輯（連同日語專輯計算則為第9張），在2015年6月15日以實體專輯與數位下載共同發行\[1\]。
 
 ## 背景

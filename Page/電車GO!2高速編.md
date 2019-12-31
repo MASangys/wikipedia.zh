@@ -1,3 +1,6 @@
+> 本文内容由[電車GO!2高速編](https://zh.wikipedia.org/wiki/電車GO!2高速編)转换而来。
+
+
 是一款由[太东制作和发行的](https://zh.wikipedia.org/wiki/太东 "wikilink")[模拟经营类](https://zh.wikipedia.org/wiki/模拟经营类 "wikilink")[游戏](../Page/游戏.md "wikilink")。本游戏于1998年3月[街机](../Page/街机.md "wikilink")和[PlayStation](../Page/PlayStation.md "wikilink")发行。\[1\] 1998年8月，本游戏的加强版《電車GO\!2高速編3000番台》发行。本游戏也以《電車GO\!64》移植至[任天堂64](../Page/任天堂64.md "wikilink")。
 
 ## 游戏内容

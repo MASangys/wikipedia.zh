@@ -1,3 +1,6 @@
+> 本文内容由[First Squeeze!](https://zh.wikipedia.org/wiki/First Squeeze!)转换而来。
+
+
 《**First Squeeze\!**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[Juice=Juice的第](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")1枚原創專輯，於2015年7月15日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

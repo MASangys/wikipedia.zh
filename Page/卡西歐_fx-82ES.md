@@ -1,3 +1,6 @@
+> 本文内容由[卡西歐 fx-82ES](https://zh.wikipedia.org/wiki/卡西歐 fx-82ES)转换而来。
+
+
 **卡西欧 fx-82ES**是[卡西欧发行的一款](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")[科学计算器](https://zh.wikipedia.org/wiki/科学计算器 "wikilink")。该款计算器用于取代原先的型号[卡西歐 fx-82MS](../Page/卡西歐_fx-82MS.md "wikilink")，并在原型号上进行改进，增加了功能。fx-82ES为卡西欧ES系列计算器的入门级机型，现在fx-82ES已停产并由[fx-82ES PLUS取代](https://zh.wikipedia.org/wiki/卡西歐_fx-82ES_PLUS "wikilink")。
 
 ## 功能

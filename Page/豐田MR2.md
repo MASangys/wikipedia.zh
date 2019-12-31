@@ -1,3 +1,6 @@
+> 本文内容由[豐田MR2](https://zh.wikipedia.org/wiki/豐田MR2)转换而来。
+
+
 **豐田MR2**是由[日本](https://zh.wikipedia.org/wiki/日本國 "wikilink")[豐田汽車與](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")1984-2007年生產的一款雙門雙座，[中置後驅](../Page/中置後驅.md "wikilink")的[跑車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。可共分為三個世代：1984-1989年為第一代，車體型號W10；1990-1999為第二代，車體型號W20；2000-2007停產時為第三代，車體編號W30。三代MR2均採用小型車體，[直列四缸引擎](../Page/直列四缸引擎.md "wikilink")橫置於駕駛室後，四輪[麥弗遜懸吊等佈局方式](https://zh.wikipedia.org/wiki/麥弗遜懸吊 "wikilink")，運動性能十分出色。\[1\]
 
 ## 起源

@@ -1,3 +1,6 @@
+> 本文内容由[夏色笑顏1,2,Jump!](https://zh.wikipedia.org/wiki/夏色笑顏1,2,Jump!)转换而来。
+
+
 《**夏色笑顏1,2,Jump\!**》（）是μ's的[單曲第](https://zh.wikipedia.org/wiki/單曲 "wikilink")3作，於2011年8月24日由[Lantis](../Page/Lantis.md "wikilink")發售。主唱根據第2回大選投票結果由矢澤妮可擔任。角色的排列順亦反映了第2回大選的結果。CD收錄樂曲及廣播劇，DVD收錄「」PV\[1\]。「」\[2\]規格。
 
 ## 概要

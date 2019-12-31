@@ -1,3 +1,6 @@
+> 本文内容由[Dok2](https://zh.wikipedia.org/wiki/Dok2)转换而来。
+
+
 **李埈京**（，）是一位韓國饒舌歌手及音樂製作人，他以藝名**DOK2**（）為人熟知。同時，他也是韓國[嘻哈](../Page/嘻哈.md "wikilink")音樂公司[Illionaire Records的CEO](../Page/Illionaire_Records.md "wikilink")\[1\]。在2011年與The Quiett一起創辦經紀公司1llionaire Records。 2016年成立了[Illionaire Records旗下的新音樂品牌](../Page/Illionaire_Records.md "wikilink")[AMBITION MUSIK](https://zh.wikipedia.org/wiki/AMBITION_MUSIK "wikilink")。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox3cols](https://zh.wikipedia.org/wiki/模块:Infobox3cols)转换而来。
+
+
 \-- -- This module implements  -- Imported from enwiki and localizated by Dabao qian. -- 同样比英文维基多解析了overimage, overcaption, -- overimagerowclass以及header/labal/data\*(a/b/c)style参数。
 
 local p = {}

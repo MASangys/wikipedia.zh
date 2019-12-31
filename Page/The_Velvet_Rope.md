@@ -1,3 +1,6 @@
+> 本文内容由[The Velvet Rope](https://zh.wikipedia.org/wiki/The Velvet Rope)转换而来。
+
+
 《**華麗的冒險**》（**The Velvet Rope**）是美國黑人女歌手[珍娜·傑克森第六張個人](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1997年10月7日由美國[維京唱片](../Page/維京唱片.md "wikilink")公司全球發行。《華麗的冒險》為珍娜·傑克森第4張全美冠軍專輯，專輯銷售量在美締造三白金的成績，其中收錄的〈[再度重逢](../Page/Together_Again_\(珍娜·傑克森單曲\).md "wikilink")〉成為她第8首全美冠軍單曲\[1\]\[2\]\[3\]\[4\]。另外單曲〈[失去了才了解](../Page/失去了才了解_\(珍娜·傑克森單曲\).md "wikilink")〉則為珍娜·傑克森再奪下一座[葛萊美獎](../Page/葛萊美獎.md "wikilink")。
 
 ## 專輯簡介

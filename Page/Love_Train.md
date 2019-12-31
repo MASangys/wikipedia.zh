@@ -1,3 +1,6 @@
+> 本文内容由[Love Train](https://zh.wikipedia.org/wiki/Love Train)转换而来。
+
+
 《**LOVE TRAIN**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第二張日語單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2015年6月10日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。主打歌為《LOVE TRAIN》。此單曲也是[珍榮將藝名修改後唯一一張仍以舊藝名](../Page/朴珍榮.md "wikilink")「Jr.」標記的作品。
 
 ## 背景

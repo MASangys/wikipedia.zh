@@ -1,3 +1,6 @@
+> 本文内容由[TBL-37信號槍](https://zh.wikipedia.org/wiki/TBL-37信號槍)转换而来。
+
+
 **TBL-37**是一款由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[康乃狄克州](../Page/康乃狄克州.md "wikilink")的槍械製造商[貝茨&迪圖斯公司所設計及生產的肩射型](https://zh.wikipedia.org/wiki/貝茨&迪圖斯公司 "wikilink")[上擺式](https://zh.wikipedia.org/wiki/上擺式 "wikilink")[信號](https://zh.wikipedia.org/wiki/信號槍 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射[37毫米信號彈](../Page/37mm信號彈.md "wikilink")。
 
 ## 概述

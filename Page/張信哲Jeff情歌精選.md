@@ -1,3 +1,6 @@
+> 本文内容由[張信哲Jeff情歌精選](https://zh.wikipedia.org/wiki/張信哲Jeff情歌精選)转换而来。
+
+
 《**張信哲Jeff情歌精選**》是[SONY BMG 香港於](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")2005年6月10日發行的精選輯。32首歌曲囊括[張信哲](../Page/張信哲.md "wikilink")歷年所有經典國語及粵語歌曲，同時對早期歌曲經過重新混音處理，與原專輯對比可以發現聲場較開闊、低音更有彈性。
 
 ## CD1

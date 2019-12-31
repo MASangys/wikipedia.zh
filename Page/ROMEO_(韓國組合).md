@@ -1,3 +1,6 @@
+> 本文内容由[ROMEO \(韓國組合\)](https://zh.wikipedia.org/wiki/ROMEO \(韓國組合\))转换而来。
+
+
 **ROMEO**（；），由[HUNUS旗下子公司CT娛樂於](../Page/HUNUS娛樂.md "wikilink")2015年第一個推出的七人男子組合，於2015年5月7日推出首張迷你專輯《THE ROMEO》，以《LOVESICK》（因為漂亮／예쁘니까）正式出道。出道時平均年齡17.7歲。
 
 組合名稱「ROMEO」來自莎士比亞的名作《[羅密歐與茱麗葉](https://zh.wikipedia.org/wiki/羅密歐與茱麗葉 "wikilink")》，形象也如羅密歐一樣，洋溢著純真、心動、熱情、幸福、永恆、信任和希望七種氣息。

@@ -1,3 +1,6 @@
+> 本文内容由[THE LAST COP](https://zh.wikipedia.org/wiki/THE LAST COP)转换而来。
+
+
 為2015年6月19日起晚間21:00 - 22:54（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）於[日本電視台](../Page/日本電視台.md "wikilink")播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")（第1集）及於網路平台[Hulu](../Page/Hulu.md "wikilink")於每週五（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）上傳的網路連續劇（第2至7集）\[1\]，由[唐澤壽明](../Page/唐澤壽明.md "wikilink")主演。此劇由[佐藤友治執筆改編自德國電視劇](https://zh.wikipedia.org/wiki/佐藤友治 "wikilink")《Der letzte Bulle》\[2\]。首集收視率為12.9%\[3\]。episode0為2015年播出的重製版及2016年播出的週六連續劇。
 
 ## 劇情概要

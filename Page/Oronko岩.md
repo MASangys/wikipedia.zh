@@ -1,3 +1,6 @@
+> 本文内容由[Oronko岩](https://zh.wikipedia.org/wiki/Oronko岩)转换而来。
+
+
 [Oronko_Rock_Utoro01s3.jpg](https://zh.wikipedia.org/wiki/File:Oronko_Rock_Utoro01s3.jpg "fig:Oronko_Rock_Utoro01s3.jpg") **Oronko岩**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[斜里町](../Page/斜里町.md "wikilink")[宇登呂](../Page/宇登呂.md "wikilink")地區旁，高度約60公尺的巨型岩石。岩石的頂部有一平坦的區域，可360度俯瞰包括宇登呂港和市區的週邊景色。\[1\]為之一。\[2\]
 
 岩石目前並沒有中文名稱，Oronko的名稱來自[阿伊努語](../Page/阿伊努語.md "wikilink")o-rok-watara，意思是「座落在那的岩石」，由於發音與庫頁島的原住民[鄂羅克人的發音接近](https://zh.wikipedia.org/wiki/鄂羅克人 "wikilink")，也被認為可能與其有關連。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[JAPH](https://zh.wikipedia.org/wiki/JAPH)转换而来。
+
+
 **JAPH**是**Just another Perl hacker**（中文：**另一个Perl黑客**）的缩写，指一个可以打印出“Just another Perl hacker,”的[Perl](../Page/Perl.md "wikilink")[程序](../Page/计算机程序.md "wikilink")。（结尾的逗号有时候也可以忽略。）
 
 JAPH程序通常会使用一种极端[混淆的编写方式](../Page/代码混淆.md "wikilink")，在这一点上与[混乱C语言有着相同的精神](../Page/国际C语言混乱代码大赛.md "wikilink")。最早的JAPH是由发表在comp.lang.perl[新闻组](../Page/新闻组.md "wikilink")，他将一段可以打印出JAPH的Perl[代码](../Page/代码.md "wikilink")放在自己的[签名](../Page/签名.md "wikilink")档里。\[1\]此后，编写JAPH成为Perl社区的一种[网络文化](../Page/网络文化.md "wikilink")。\[2\]

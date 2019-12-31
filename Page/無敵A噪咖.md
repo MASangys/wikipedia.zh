@@ -1,3 +1,6 @@
+> 本文内容由[無敵A噪咖](https://zh.wikipedia.org/wiki/無敵A噪咖)转换而来。
+
+
 《**無敵A噪咖**》是[東森超視](../Page/東森超視.md "wikilink")製播的[飲食節目](https://zh.wikipedia.org/wiki/飲食節目 "wikilink")，自2015年9月25日─2016年3月13日播出，主持人為[酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)、[大谷主水 (夢多)](https://zh.wikipedia.org/wiki/大谷主水_\(夢多\) "wikilink")、[法比歐](https://zh.wikipedia.org/wiki/法比歐 "wikilink")、[杜力](https://zh.wikipedia.org/wiki/杜力 "wikilink")、 [郭子乾](../Page/郭子乾.md "wikilink")。
 
 ## 節目簡介

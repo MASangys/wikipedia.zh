@@ -1,3 +1,6 @@
+> 本文内容由[HTC Vive](https://zh.wikipedia.org/wiki/HTC Vive)转换而来。
+
+
 [HTC_Vive_(16).jpg](https://zh.wikipedia.org/wiki/File:HTC_Vive_\(16\).jpg "fig:HTC_Vive_(16).jpg")
 
 **HTC Vive**是一款[虚拟现实](../Page/虚拟现实.md "wikilink")[头戴式显示器](https://zh.wikipedia.org/wiki/头戴式显示器 "wikilink")，由[宏达国际电子](https://zh.wikipedia.org/wiki/宏达国际电子 "wikilink")（HTC）和[維爾福公司](https://zh.wikipedia.org/wiki/維爾福 "wikilink")（Valve Corporation）共同开发，发布于2016年4月5日。 它也是維爾福公司的SteamVR项目的一部分。这款头戴式显示器的设计利用“房间规模”的技术，通过传感器把一个房间变成三维空间，在虚拟世界中允许用户自然地导航，能四处走动，并使用运动跟踪的手持控制器来生动地操纵物体的能力，有精密的互动，交流和沉浸式环境的体验\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Addendum](https://zh.wikipedia.org/wiki/Addendum)转换而来。
+
+
 《**Addendum**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[麥浚龍](../Page/麥浚龍.md "wikilink")的第14張唱片，於2015年9月20日發行，限量版則於2015年9月26日發行。
 
 唱片中收錄了大熱作品〈[羅生門](../Page/羅生門_\(歌曲\).md "wikilink")〉，在2015年暑假期間引起一時網絡瘋傳。

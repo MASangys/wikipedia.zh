@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy](https://zh.wikipedia.org/wiki/三星Galaxy)转换而来。
+
+
 [Samsung_Galaxy_wordmark.svg](https://zh.wikipedia.org/wiki/File:Samsung_Galaxy_wordmark.svg "fig:Samsung_Galaxy_wordmark.svg") **三星Galaxy**（Samsung Galaxy，風格化：SAMSUNG Galaxy，曾經有段時間風格化為Samsung GALAXY），其中國官網譯名為三星蓋-{}-樂世）是由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星集团其下的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[三星電子](../Page/三星電子.md "wikilink")設計，製造和銷售的一系列移動設備品牌。產品線中較為知名的包括高端智能電話的[Galaxy S和](../Page/三星Galaxy_S系列.md "wikilink")[Galaxy Note](../Page/三星Galaxy_Note系列.md "wikilink")，而及平板的[三星Galaxy Tab S系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S系列 "wikilink")/[A系列](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_A系列 "wikilink")。智能手錶的[三星Galaxy Watch](https://zh.wikipedia.org/wiki/三星Galaxy_Watch "wikilink")。從2009年到2013年9月，型號均為“ GT-xxxxx”格式，2013年9月至今，三星Galaxy系列設備的型號代碼均為“ SM-xxxxx”格式（不包括[Galaxy J](https://zh.wikipedia.org/wiki/Galaxy_J "wikilink") (SC-02F或SGH-N075T)）。
 
 ## 各系列列表

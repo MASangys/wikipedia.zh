@@ -1,3 +1,6 @@
+> 本文内容由[Galla](https://zh.wikipedia.org/wiki/Galla)转换而来。
+
+
 **Galla**（），[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。所屬唱片公司為[Avex](../Page/愛貝克思集團.md "wikilink")。知名的音樂作品是「奇蹟的薔薇」、「有你存在」，兩首都是賽車電視動畫『[頭文字D](../Page/頭文字D.md "wikilink")』的片尾曲。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[OCZ](https://zh.wikipedia.org/wiki/OCZ)转换而来。
+
+
 **OCZ**是一间位于美国加利福尼亚[圣何西](../Page/聖荷西_\(加利福尼亞州\).md "wikilink") (San Jose, California, USA) 的[固态硬盘](../Page/固态硬盘.md "wikilink")（即SSD）生产厂商，其为*OCZ Technology Group* 被出售于[东芝](../Page/东芝.md "wikilink")后形成的子品牌，代表前卫，狂热，以及酷份子，为电竞及视觉改装（Modding）族群研发SSD解决方案。在2002年，*OCZ Technology* 进入内存市场之后，OCZ的产品定位于计算机硬件狂热市场，制造性能級的DDR内存，[显示卡](../Page/显示卡.md "wikilink")，USB设备和各种散热产品。其目前开发的SSD介面使用SATA3、[PCI Express](../Page/PCI_Express.md "wikilink")、[SAS](https://zh.wikipedia.org/wiki/SAS "wikilink")\[1\]和[USB 3.0接口](../Page/USB_3.0.md "wikilink")，提供客户端和企业解决方案。
 
 2016年4月1日，*OCZ Storage Solutions* 解散，并与美国东芝电子元件公司\[2\]\[3\]合并，**OCZ**成为东芝的子品牌，与东芝进行开发，测试，提供SSD解决方案、售后服务，以及保固政策 Advanced Warranty Program (简称**AWP**) 。

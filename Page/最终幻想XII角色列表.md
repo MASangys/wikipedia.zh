@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XII角色列表](https://zh.wikipedia.org/wiki/最终幻想XII角色列表)转换而来。
+
+
 本列表列出在 《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》中登场的主要角色。
 
 ## 角色

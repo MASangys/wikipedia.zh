@@ -1,3 +1,6 @@
+> 本文内容由[IEEE里程碑列表](https://zh.wikipedia.org/wiki/IEEE里程碑列表)转换而来。
+
+
 這份**IEEE里程碑列表**，介紹的是由[美國電氣和電子工程師協會](https://zh.wikipedia.org/wiki/美國電氣和電子工程師協會 "wikilink")（[IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink")）認定，在[電機工程領域上重要的發明與貢獻](https://zh.wikipedia.org/wiki/電機工程 "wikilink")\[1\]。
 
 ## 工業革命前

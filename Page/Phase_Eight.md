@@ -1,3 +1,6 @@
+> 本文内容由[Phase Eight](https://zh.wikipedia.org/wiki/Phase Eight)转换而来。
+
+
 **Phase Eight (Fashion & Design) Limited**，簡稱**Phase Eight**（****），在1979年，由創辦人Patsy Seddon（佩茜．斯特安），於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[旺茲沃思](../Page/旺茲沃思.md "wikilink")成家一家時裝公司，首家地點是位於Bellevue Terrace 8號\[1\]。
 
 其總部位於英國[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。主要業務銷售及設計優雅女性時裝產品，包括晚服\[2\]，分店則在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[香港](../Page/香港.md "wikilink")等。

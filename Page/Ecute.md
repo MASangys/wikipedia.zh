@@ -1,3 +1,6 @@
+> 本文内容由[Ecute](https://zh.wikipedia.org/wiki/Ecute)转换而来。
+
+
 **ecute**（）是[JR東日本集團所開發與營運的站內商場](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")。
 
 ## 概要

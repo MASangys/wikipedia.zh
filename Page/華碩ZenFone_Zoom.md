@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone Zoom](https://zh.wikipedia.org/wiki/華碩ZenFone Zoom)转换而来。
+
+
 [Asus_zenfone_zoom's_back.jpg](https://zh.wikipedia.org/wiki/File:Asus_zenfone_zoom's_back.jpg "fig:Asus_zenfone_zoom's_back.jpg") **ASUS ZenFone Zoom**是[華碩](../Page/華碩.md "wikilink")於2015年1月6日在[CES展](https://zh.wikipedia.org/wiki/CES "wikilink")\[1\]發表的光學變焦手機，搭載[Android](../Page/Android.md "wikilink") 5.0、[64位元](../Page/64位元.md "wikilink") 2.5Ghz 四核心處理器，是[ZenFone系列中首款以相機為重點的手機](https://zh.wikipedia.org/wiki/ASUS_ZenFone "wikilink")。搭載三倍光學變焦和四倍數位變焦，(合計為12倍)為全球第一台最薄的變焦手機。\[2\] [缩略图](https://zh.wikipedia.org/wiki/File:Asus_zen_fone_zoom-蓮葉.jpg "fig:缩略图")
 
 ## 詳細規格

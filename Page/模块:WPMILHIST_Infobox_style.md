@@ -1,3 +1,6 @@
+> 本文内容由[模块:WPMILHIST Infobox style](https://zh.wikipedia.org/wiki/模块:WPMILHIST Infobox style)转换而来。
+
+
 local retval = {
 
 `   main_box_raw_auto_width = 'border-spacing:2px;',`

@@ -1,3 +1,6 @@
+> 本文内容由[VenusBlood -DESIRE-](https://zh.wikipedia.org/wiki/VenusBlood -DESIRE-)转换而来。
+
+
 《**VenusBlood -DESIRE-**》是日本スタジオ九尾公司的旗下品牌dualtail在2009年11月27日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年11月19日由WHITE BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBlood系列的第三作，不同於前兩作的育成模擬遊戲，本作和之後的續作都變更為地域壓制型模擬遊戲。
 
 ## 遊戲系統

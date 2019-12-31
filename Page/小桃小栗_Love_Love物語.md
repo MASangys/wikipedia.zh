@@ -1,3 +1,6 @@
+> 本文内容由[小桃小栗 Love Love物語](https://zh.wikipedia.org/wiki/小桃小栗 Love Love物語)转换而来。
+
+
 《**小桃小栗 Love Love物语**》（）是由創作並在漫画网站[comico上连载的](https://zh.wikipedia.org/wiki/comico "wikilink")[網路漫画](https://zh.wikipedia.org/wiki/網路漫画 "wikilink")，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")8卷。2015年改編為[網路動畫與其他衍生作品](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
 
 ## 故事內容

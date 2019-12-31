@@ -1,3 +1,6 @@
+> 本文内容由[模块:PRC admin](https://zh.wikipedia.org/wiki/模块:PRC admin)转换而来。
+
+
 local z = {}
 
 local function makeArticleLink( label, sitelink )

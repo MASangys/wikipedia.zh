@@ -1,3 +1,6 @@
+> 本文内容由[CpG位点](https://zh.wikipedia.org/wiki/CpG位点)转换而来。
+
+
 [Cpg_islands.svg](https://zh.wikipedia.org/wiki/File:Cpg_islands.svg "fig:Cpg_islands.svg") **CpG位点**（，或称为**CG位点**）是指DNA的某个区域，其上的[碱基序列以](../Page/碱基对.md "wikilink")[胞嘧啶](../Page/胞嘧啶.md "wikilink")接着[鸟嘌呤出现](https://zh.wikipedia.org/wiki/鸟嘌呤 "wikilink")。“CpG”是“—C—磷酸—G—”的缩写 ，指[磷酸二酯键连接了胞嘧啶和鸟嘌呤](https://zh.wikipedia.org/wiki/磷酸二酯键 "wikilink")，其中C位于5'端而G位于3'端。
 
 在CpG位点中的胞嘧啶可以被[甲基化为](../Page/DNA甲基化.md "wikilink")[5-甲基胞嘧啶](../Page/5-甲基胞嘧啶.md "wikilink")。在[哺乳动物](../Page/哺乳动物.md "wikilink")中，基因内CpG位点的甲基化会改变此基因的表达，对这一表达调控的研究是[表观遗传学的重要组成部分](https://zh.wikipedia.org/wiki/表观遗传学 "wikilink")。涉及添加甲基基团的[酶](../Page/酶.md "wikilink")称为。

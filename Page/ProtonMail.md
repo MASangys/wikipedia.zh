@@ -1,3 +1,6 @@
+> 本文内容由[ProtonMail](https://zh.wikipedia.org/wiki/ProtonMail)转换而来。
+
+
 [Protonmail_decentralized_hosting.png](https://zh.wikipedia.org/wiki/File:Protonmail_decentralized_hosting.png "fig:Protonmail_decentralized_hosting.png")（左）和 \[Attinghausen\]（右）.\]\] **ProtonMail**（在中国被非正式地称为“**质子邮箱**”）是一個加密的 Webmail 服務，於2013年由[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")（CERN）成员 Jason Stockman、Andy Yen和Wei Sun創建。ProtonMail 现由总部设在瑞士日内瓦州的 Proton Technologies AG 经营。据 Andy Yen 称，他和公司一半的人都来自麻省理工学院（MIT），ProtonMail 的两个服务器分别设在瑞士的洛桑和阿廷豪森。
 
 ## 特点

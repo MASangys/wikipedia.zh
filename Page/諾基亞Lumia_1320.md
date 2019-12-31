@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Lumia 1320](https://zh.wikipedia.org/wiki/諾基亞Lumia 1320)转换而来。
+
+
 诺基亚 Lumia 1320是诺基亚公司在Nokia World 2013上发布的一款Lumia 系列手机，其6英寸的ClearBlack IPS屏幕使它与Lumia 1520并肩成为屏幕最大的Lumia 手机。
 
 Lumia 1320在中国大陆于2013年12月末上市，售价2499元。\[1\]

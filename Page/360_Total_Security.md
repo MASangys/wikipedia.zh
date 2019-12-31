@@ -1,3 +1,6 @@
+> 本文内容由[360 Total Security](https://zh.wikipedia.org/wiki/360 Total Security)转换而来。
+
+
 360 Total Security是[360安全中心](https://zh.wikipedia.org/wiki/奇虎 "wikilink")\[1\]推出的一款面向海外地区的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[操作系统](../Page/操作系统.md "wikilink")下的[计算机安全辅助软件](https://zh.wikipedia.org/wiki/计算机 "wikilink")。功能主要有清除[恶意软件](../Page/恶意软件.md "wikilink")、扫描[木马](../Page/特洛伊木马_\(电脑\).md "wikilink")、修补系统漏洞、清理系统垃圾、清理使用痕迹、优化等功能。
 
 ## 歷史與發展

@@ -1,3 +1,6 @@
+> 本文内容由[Erwise](https://zh.wikipedia.org/wiki/Erwise)转换而来。
+
+
 **Erwise**是一款已停止開發的[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，是早期[圖形使用者介面的網頁瀏覽器先驅之一](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")\[1\]\[2\]。
 
 Erwise是[赫爾辛基理工大學的](https://zh.wikipedia.org/wiki/赫爾辛基理工大學 "wikilink")[芬蘭學生Kim](https://zh.wikipedia.org/wiki/芬蘭 "wikilink") Nyberg、Teemu Rantanen、Kati Suominen和Kari Sydänmaanlakka的雙碩士項目\[3\]\[4\]\[5\]\[6\]。該小組根據正在參訪大學的[羅伯特·卡里奧的建議開發了網頁瀏覽器](https://zh.wikipedia.org/wiki/羅伯特·卡里奧 "wikilink")，並由[Ari Lemmke監督](https://zh.wikipedia.org/wiki/Linux历史#名称的由来 "wikilink")\[7\]。

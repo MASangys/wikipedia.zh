@@ -1,3 +1,6 @@
+> 本文内容由[HAYA乐团](https://zh.wikipedia.org/wiki/HAYA乐团)转换而来。
+
+
 **HAYA樂團**（中文：**哈雅樂團**），[中國](../Page/中國.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，目前成員共六人，是支以[蒙古族](../Page/蒙古族.md "wikilink")世界音樂當作基礎並融入現代流行音樂元素的樂團，於2006年創立，由主唱[黛青塔娜](https://zh.wikipedia.org/wiki/黛青塔娜 "wikilink")、馬頭琴手張全勝、吉他手陳希博、吉他手穆熱阿勒、呼麥手暨鼓手寶音、[法國的貝斯手Eric](https://zh.wikipedia.org/wiki/法國 "wikilink") Lattanzio組成。HAYA在蒙語中是「邊緣」的意思，含義本身已超然物外跳脱規則束縛。2015年HAYA樂團成立十週年，世界巡迴演唱會首場於12月24日在北京展覽館劇場舉行。
 
 ## 樂團歷程

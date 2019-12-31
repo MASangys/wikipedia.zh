@@ -1,3 +1,6 @@
+> 本文内容由[越南LGBT权益](https://zh.wikipedia.org/wiki/越南LGBT权益)转换而来。
+
+
 **女同性恋，男同性恋，双性恋，跨性别**（**[LGBT](../Page/LGBT.md "wikilink")**）人士在**[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")**可能面临非LGBT居民没有经历过的法律挑战。男性和女性的同性性活动在越南历史上是合法的，从来没有被定为犯罪。\[1\]然而，同性伴侣和家庭没有资格获得提供给异性夫妇的法律保护。尽管因为越南传统[同性恋被普遍认为是](https://zh.wikipedia.org/wiki/同性恋 "wikilink")[禁忌](../Page/禁忌.md "wikilink")，但在21世纪人们对LGBT权利的认识已经上升。2012年8月5日越南第一次[骄傲游行](../Page/骄傲游行.md "wikilink")在[河内举行](https://zh.wikipedia.org/wiki/河内 "wikilink")。\[2\]
 
 ## 关于同性性行为法

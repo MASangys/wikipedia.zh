@@ -1,3 +1,6 @@
+> 本文内容由[Lumia影像應用程式](https://zh.wikipedia.org/wiki/Lumia影像應用程式)转换而来。
+
+
 **Lumia影像應用程式**是由[微軟移動](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")（之前由[诺基亚](../Page/诺基亚.md "wikilink")）为[微软Lumia开发基于](https://zh.wikipedia.org/wiki/微软Lumia "wikilink")[Scalado技术的应用程序](https://zh.wikipedia.org/wiki/Scalado "wikilink")（最初是为[Symbian和](https://zh.wikipedia.org/wiki/Symbian "wikilink")[MeeGo](../Page/MeeGo.md "wikilink")设备开发）。Lumia影像应用程式早期都在名称前面标注“诺基亚”，但[微软](../Page/微软.md "wikilink")收购诺基亚后，以系列名「Lumia 」取代诺基亚品牌，\[1\] 並对Lumia拍摄系列增添全新功能。大多数成像应用是由Microsoft Lund部门开发。\[2\]Lumia成像功能整合到[Windows 10行動版中Windows相機和Microsoft照片應用](https://zh.wikipedia.org/wiki/Windows_10行動版 "wikilink")，部分應用將在2015年10月30號停止支持。\[3\]
 
 ## Lumia Video Trimmer

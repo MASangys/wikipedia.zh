@@ -1,3 +1,6 @@
+> 本文内容由[Neversoft](https://zh.wikipedia.org/wiki/Neversoft)转换而来。
+
+
 **Neversoft Entertainment**，是美国游戏开发商，由乔尔·朱伊特，米克·韦斯特和克里斯·沃德成立于1994年7月。1999年10月，该公司被动视收购。\[1\]2014年5月3日，该工作室合并到Infinity Ward，2014年7月10日作出正式停止运作。
 
 ## 旗下游戏

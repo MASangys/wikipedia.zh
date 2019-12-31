@@ -1,3 +1,6 @@
+> 本文内容由[J·P·托克托](https://zh.wikipedia.org/wiki/J·P·托克托)转换而来。
+
+
 **让-皮埃尔“J. P.”托克托**（，），[美国](../Page/美国.md "wikilink")职业[篮球运动员](https://zh.wikipedia.org/wiki/篮球运动员 "wikilink")，大学时期效力于[北卡羅萊納大學](https://zh.wikipedia.org/wiki/北卡羅萊納大學 "wikilink")，于[2015年NBA选秀](../Page/2015年NBA选秀.md "wikilink")上被[费城76人](../Page/费城76人.md "wikilink")以次轮总第58顺位选中。
 
 ## 大学生涯

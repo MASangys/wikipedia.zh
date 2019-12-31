@@ -1,3 +1,6 @@
+> 本文内容由[狙击精英III](https://zh.wikipedia.org/wiki/狙击精英III)转换而来。
+
+
 是一款由[Rebellion Developments制作](../Page/Rebellion_Developments.md "wikilink")、[505游戏大街发行的](https://zh.wikipedia.org/wiki/505游戏大街 "wikilink")[第三人称](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")[战术射击游戏](../Page/战术射击游戏.md "wikilink")。游戏于2014年在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Xbox One平台发布](../Page/Xbox_One.md "wikilink")，[任天堂Switch](../Page/任天堂Switch.md "wikilink")版計畫於2019年推出。\[1\]本作是2012年《[狙击精英V2](https://zh.wikipedia.org/wiki/狙击精英V2 "wikilink")》的前传，[狙击精英系列](../Page/狙击精英系列.md "wikilink")的第三部作品。
 
 ## 设定

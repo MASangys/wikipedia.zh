@@ -1,3 +1,6 @@
+> 本文内容由[SpaceX CRS-7](https://zh.wikipedia.org/wiki/SpaceX CRS-7)转换而来。
+
+
 **SpaceX CRS-7**，是指[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")（SpaceX）向[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")（NASA）承包的第7次[商業補給服務](https://zh.wikipedia.org/wiki/商業補給服務 "wikilink")（CRS）\[1\]，意即對[国际空间站](../Page/国际空间站.md "wikilink")進行貨物補給的任務，於2015年6月28日執行，但在升空到（最大[動壓](https://zh.wikipedia.org/wiki/動壓 "wikilink")）不久後即發生爆炸\[2\]。
 
 此次任務使用[獵鷹9號運載火箭](../Page/獵鷹9號運載火箭.md "wikilink")搭載[天龙号無人](https://zh.wikipedia.org/wiki/天龙号太空船 "wikilink")升空\[3\]，火箭上還裝有一個新的對接裝置\[4\]。當地時間28日上午，在[佛羅里達州的](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[卡納維爾角發射](../Page/卡纳维拉尔角空军基地40号航天发射复合体.md "wikilink")，結果不到3分鐘即爆炸解體，碎片散落[大西洋](../Page/大西洋.md "wikilink")\[5\]。

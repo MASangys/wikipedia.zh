@@ -1,3 +1,6 @@
+> 本文内容由[Hackpad](https://zh.wikipedia.org/wiki/Hackpad)转换而来。
+
+
 **Hackpad**是一個的[网络应用程序](../Page/网络应用程序.md "wikilink")。
 
 [Dropbox](../Page/Dropbox.md "wikilink")在2014年4月收購了Hackpad\[1\]\[2\]，在2015年4月時宣佈將Hackpad以[開放原始碼軟體方式釋出](https://zh.wikipedia.org/wiki/開放原始碼軟體 "wikilink")\[3\]，原始碼在2015年8月公布在Github\[4\]，授權條款是[Apache许可证](../Page/Apache许可证.md "wikilink") 2.0\[5\]。

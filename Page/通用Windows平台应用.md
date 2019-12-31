@@ -1,3 +1,6 @@
+> 本文内容由[通用Windows平台应用](https://zh.wikipedia.org/wiki/通用Windows平台应用)转换而来。
+
+
 [Khan_Academy_Metro_app_(player).png](https://zh.wikipedia.org/wiki/File:Khan_Academy_Metro_app_\(player\).png "fig:Khan_Academy_Metro_app_(player).png") [Wikipedia_App_snapped_to_Windows_8_desktop.png](https://zh.wikipedia.org/wiki/File:Wikipedia_App_snapped_to_Windows_8_desktop.png "fig:Wikipedia_App_snapped_to_Windows_8_desktop.png")，粗邊框和[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")。
 右邊：Metro風格應用程式；主要由內容組成\]\] **通用Windows平台应用**，也称**Metro风格应用**，是一种通過[Windows应用商店向](https://zh.wikipedia.org/wiki/Windows应用商店 "wikilink")[Microsoft Windows作業系統分發的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[移動應用程式](https://zh.wikipedia.org/wiki/移动应用程序 "wikilink")，它們不同於在設計、開發、分發以及內容上不同於傳統桌面應用程式。
 

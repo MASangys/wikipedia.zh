@@ -1,3 +1,6 @@
+> 本文内容由[RESIGN](https://zh.wikipedia.org/wiki/RESIGN)转换而来。
+
+
 《**RESIGN**》（）是由[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司SherbetSoft（シャーベットソフト）在2010年7月23日發售的[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")18禁[同人遊戲](../Page/同人遊戲.md "wikilink")。\[1\]\[2\]\[3\]2013年預告製作重製版《**RESIGN OVERRIDE**》（）。\[4\]\[5\]
 
 ## 故事

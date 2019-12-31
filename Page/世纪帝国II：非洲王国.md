@@ -1,3 +1,6 @@
+> 本文内容由[世纪帝国II：非洲王国](https://zh.wikipedia.org/wiki/世纪帝国II：非洲王国)转换而来。
+
+
 是1999年[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的第三個[擴充資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，僅限於[Steam](../Page/Steam.md "wikilink")平台的HD版本。\[1\]本資料片新增了三個非洲文明與非洲的建築風格。也新增了一個歐洲文明。遊戲中也增加了一些新單位、建築和物件。
 
 ## 內容

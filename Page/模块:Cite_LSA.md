@@ -1,3 +1,6 @@
+> 本文内容由[模块:Cite LSA](https://zh.wikipedia.org/wiki/模块:Cite LSA)转换而来。
+
+
 local p = {} function p.cite(frame)
 
 `   local pframe = frame:getParent()`

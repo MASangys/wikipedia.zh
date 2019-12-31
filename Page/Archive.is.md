@@ -1,3 +1,6 @@
+> 本文内容由[Archive.is](https://zh.wikipedia.org/wiki/Archive.is)转换而来。
+
+
 \-{zh-cn:互联网档案馆; zh-tw:網際網路檔案館; zh-hk:互聯網檔案館; zh-sg:互联网档案馆;}-}}  **archive.is**（又名為**archive.today**）是一個私人資助的网页存档網站，\[1\]\[2\] 資料中心位於歐洲法國的[北部-加来海峡](../Page/北部-加来海峡.md "wikilink")。\[3\] 這個檔案館使用[Apache Hadoop與](../Page/Apache_Hadoop.md "wikilink")軟體。它可以一次取回一個類似於[WebCite](../Page/WebCite.md "wikilink")\[4\]的小於50MB的頁面，但收錄[Google地圖與](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")[Twitter](../Page/Twitter.md "wikilink")。<span class="cx-segment" data-segmentid="69"></span>
 
 archive.is会根据版權所有者的合乎[數位千年版權法案](https://zh.wikipedia.org/wiki/數位千年版權法案 "wikilink")（DMCA）的撤除請求移除已存檔的頁面。<ref>["How can I delete an archived page?"](http://blog.archive.is/post/41395737942/how-can-i-delete-an-archived-page)

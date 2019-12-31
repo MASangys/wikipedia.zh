@@ -1,3 +1,6 @@
+> 本文内容由[D-Day \(電視劇\)](https://zh.wikipedia.org/wiki/D-Day \(電視劇\))转换而来。
+
+
 《**D-Day**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2015年9月18日起播出的[金土迷你連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[幸福百分百](../Page/幸福百分百.md "wikilink")》、《[如果明日来临](https://zh.wikipedia.org/wiki/如果明日来临 "wikilink")》[張容佑導演與](https://zh.wikipedia.org/wiki/張容佑 "wikilink")《[城市獵人](../Page/城市獵人_\(韓國電視劇\).md "wikilink")》、《[海雲臺戀人們](../Page/海雲臺戀人們.md "wikilink")》[黄恩京](../Page/黄恩京.md "wikilink")編劇攜手合作。講述首爾發生自然災害，導致城市陷入癱瘓，為了解救受傷的市民而犧牲貢獻的救生員和急診室醫生的故事。\[1\]本劇為韓國首部災難醫療電視劇。
 
 ## 演員陣容

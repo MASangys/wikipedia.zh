@@ -1,3 +1,6 @@
+> 本文内容由[BMW X4](https://zh.wikipedia.org/wiki/BMW X4)转换而来。
+
+
 **BMW X4**是[德國汽車公司](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")生產的一款高級緊湊型跨界[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，發布於2014年。BMW X4生產於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[格里爾的工程](https://zh.wikipedia.org/wiki/格里爾_\(南卡羅來納州\) "wikilink")。BMW X4的概念車在2013年發布\[1\]\[2\]，並在2014年的紐約車展上正式亮相\[3\]\[4\]，在2014年春季開始發售。
 
 ## 參考資料

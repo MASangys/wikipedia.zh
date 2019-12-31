@@ -1,3 +1,6 @@
+> 本文内容由[模块:Redirect](https://zh.wikipedia.org/wiki/模块:Redirect)转换而来。
+
+
 \-- This module provides functions for getting the target of a redirect page.
 
 local p = {}

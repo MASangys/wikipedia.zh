@@ -1,3 +1,6 @@
+> 本文内容由[覆面系NOISE](https://zh.wikipedia.org/wiki/覆面系NOISE)转换而来。
+
+
 《**覆面系NOISE**》（）是日本漫画家[福山辽子连载的](https://zh.wikipedia.org/wiki/福山辽子 "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。于2013年5月5日开始在杂志《[花与梦](https://zh.wikipedia.org/wiki/花与梦 "wikilink")》连载。2016年4月發表改編[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]，10月發表改編真人電影之消息\[2\]。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[TVARK](https://zh.wikipedia.org/wiki/TVARK)转换而来。
+
+
 **TVARK**是[英国的一个电视历史档案网站](https://zh.wikipedia.org/wiki/英国 "wikilink")\[1\]，内容包括各电视台的频道及节目宣传片、节目片头片尾、频道开台收台画面及[检验图](https://zh.wikipedia.org/wiki/检验图 "wikilink")、[图文电视和技术失误等](https://zh.wikipedia.org/wiki/图文电视 "wikilink")\[2\]。网站收录的视频片段以英国国内电视台为主，包括[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")、[ITV](../Page/獨立電視台.md "wikilink")、[英国第四台和](https://zh.wikipedia.org/wiki/英国第四台 "wikilink")[天空电视台等](https://zh.wikipedia.org/wiki/天空电视台 "wikilink")；此外，网站也收录了其它国家和地区电视台的画面。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[Odd](https://zh.wikipedia.org/wiki/Odd)转换而来。
+
+
 《**Odd**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第4張韓語正規專輯，於2015年5月18日發行\[1\]，主打曲目為《View》。其後在8月3日發行重新包裝版《Married To The Music》，以同名歌曲《Married To The Music》進行打歌活動\[2\]。
 
 ## 概要

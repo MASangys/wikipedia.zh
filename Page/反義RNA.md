@@ -1,3 +1,6 @@
+> 本文内容由[反義RNA](https://zh.wikipedia.org/wiki/反義RNA)转换而来。
+
+
 **反義RNA**（Antisense RNA, 常縮寫爲asRNA），是一種與[轉錄產物](https://zh.wikipedia.org/wiki/轉錄 "wikilink")[mRNA](https://zh.wikipedia.org/wiki/mRNA "wikilink")（信使RNA）互補的單鏈RNA。部分學者亦將這類RNA稱爲「micRNA」（mRNA干擾互補RNA，），但此名稱並未得到廣泛使用\[1\]。
 
 反義RNA可通過與mRNA結合來抑制轉譯的進行\[2\]。可通過化學計量來測定反義RNA的抑制效果。[大腸桿菌](../Page/大腸桿菌.md "wikilink")的R1[質粒上的](https://zh.wikipedia.org/wiki/質粒 "wikilink")就是反義RNA抑制轉譯的一個實例。反義RNA有很大的作治療疾病的藥物的潛力，惟目前此類藥物只有[福米韋生進入市場](https://zh.wikipedia.org/wiki/福米韋生 "wikilink")。一位評論員這樣認爲：「反義RNA牽扯到一大堆技術，看上去『很華麗』，但商業價值卻低得可憐。」\[3\]一般來說，目前設計反義RNA（藥物）的效率仍然不高，相關藥物的生物活性也不高。目前也沒有找到高效的[給藥途徑](https://zh.wikipedia.org/wiki/給藥途徑 "wikilink")\[4\]。

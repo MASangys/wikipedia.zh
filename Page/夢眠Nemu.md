@@ -1,3 +1,6 @@
+> 本文内容由[夢眠Nemu](https://zh.wikipedia.org/wiki/夢眠Nemu)转换而来。
+
+
 **夢眠ねむ**（, ），日本[三重縣出生](https://zh.wikipedia.org/wiki/三重縣 "wikilink")，生日7月14日（年齡未公開）。是日本女性[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[歌手](../Page/歌手.md "wikilink")，亦為[電波組.inc](../Page/電波組.inc.md "wikilink")的成員。身高170公分。暱稱為 Nemukyun（）。在[電波組.inc](../Page/電波組.inc.md "wikilink")的口號是「永遠的魔法少女未滿」\[1\]，代表色為薄荷綠\[2\]。
 
 ## 簡歷

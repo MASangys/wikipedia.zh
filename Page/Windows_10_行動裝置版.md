@@ -1,3 +1,6 @@
+> 本文内容由[Windows 10 行動裝置版](https://zh.wikipedia.org/wiki/Windows 10 行動裝置版)转换而来。
+
+
 **Windows 10 -{zh-cn:Mobile; zh-tw:行動裝置版;zh-hk: Mobile;}-**，是[Windows 10作業系統的分支版本](../Page/Windows_10.md "wikilink")。此版本是专为屏幕尺寸低于8寸的[智能手机](../Page/智能手机.md "wikilink")和[平板电脑运行](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。它採用[ARM架构和](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[IA-32处理器架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")。該版本為[移动设备](../Page/移动设备.md "wikilink")提供了强大的功能。其中包括：同步處理功能、通用應用程式（）、从[Android](../Page/Android.md "wikilink")和[iOS的平台](https://zh.wikipedia.org/wiki/iOS "wikilink")[移植的应用](https://zh.wikipedia.org/wiki/移植_\(软件\) "wikilink")、将裝置连接至外部螢幕、可使用类似[PC](../Page/PC.md "wikilink")的滑鼠和键盘输入。微软曾经在Twitter上承诺所有Lumia Windows Phone 8 智能手机均可升级Windows 10 Mobile，\[1\]但一些功能取决于硬體設備的兼容性。\[2\]\[3\]微软官方曾表示會为所有搭载Windows Phone 8操作系统的设备提供Windows 10 Mobile更新。\[4\]Windows 10行動裝置版原預定2015年12月陸續發布，但已多次延後。2016年3月18日，微软向18款机型推送了正式版，随后表示除了[諾基亞Lumia 929以外](https://zh.wikipedia.org/wiki/諾基亞Lumia_929 "wikilink")，目前没有向其他Windows Phone设备提供升级的计划。\[5\]\[6\]2017年10月8日，微軟作業系統部門副總裁[Joe Belfiore表示Windows](https://zh.wikipedia.org/wiki/Joe_Belfiore "wikilink") 10 Mobile已經停止開發新版本與新功能，僅會對現有版本和設備進行安全補丁與維護，現已由先前公佈的2019年12月延長至2020年1月。\[7\]\[8\]
 
 ## 发展历史

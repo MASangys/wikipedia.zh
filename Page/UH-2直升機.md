@@ -1,3 +1,6 @@
+> 本文内容由[UH-2直升機](https://zh.wikipedia.org/wiki/UH-2直升機)转换而来。
+
+
 **UH-2直升機**（）是[日本陸上自衛隊的次世代多用途](https://zh.wikipedia.org/wiki/日本陸上自衛隊 "wikilink")[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，採購計畫原名**UH-X**，項目用意是取代現有的[UH-1H/J直升機機隊](../Page/UH-1直升機.md "wikilink")。
 
 UH-2於2015年（平成27年）7月17日選定由[速霸陸](../Page/速霸陸.md "wikilink")集團（前[富士重工業）與](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[貝爾直升機基於](https://zh.wikipedia.org/wiki/貝爾直升機公司 "wikilink")[貝爾412 EPI共同研發](https://zh.wikipedia.org/wiki/貝爾422 "wikilink")。預定於2021年（令和3年）起20年陸續交付共150機，每台造價估算約12億日元。\[1\]。在2018年12月25日，UH-X首飛，並在2019年3月8日交付給陸上自衛隊在明野駐屯地的飛行實驗隊，正式編號為XUH-2。\[2\]

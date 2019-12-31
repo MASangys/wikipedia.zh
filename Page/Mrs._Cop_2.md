@@ -1,3 +1,6 @@
+> 本文内容由[Mrs. Cop 2](https://zh.wikipedia.org/wiki/Mrs. Cop 2)转换而来。
+
+
 《**Mrs. Cop 2**》（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年3月5日起播出的[週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")，是《[Mrs. Cop](../Page/Mrs._Cop.md "wikilink")》系列作品第二季。由《[Mrs. Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink") 作家與[劉仁植](../Page/劉仁植.md "wikilink")導演再次攜手打造。\[1\]
 
 ## 劇情大綱

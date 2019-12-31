@@ -1,3 +1,6 @@
+> 本文内容由[Here WeGo](https://zh.wikipedia.org/wiki/Here WeGo)转换而来。
+
+
 **HERE**是一款由[諾基亞爲](../Page/诺基亚.md "wikilink")[Android](../Page/Android.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows Phone平臺開發的地圖移動應用程式](../Page/Windows_Phone.md "wikilink")。 在發佈Windows Phone版幾年后， 該應用2014年年底和2015年年初在[Google Play和](../Page/Google_Play.md "wikilink")[iOS商店發售](https://zh.wikipedia.org/wiki/iOS "wikilink")。 地圖每月更新兩至三次。\[1\]
 
 HERE在Google Play商店2014年12月10日發佈，在[iOS商店](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年3月15日發佈，在2016年6月30日停止了对一切Windows 10设备的支持。

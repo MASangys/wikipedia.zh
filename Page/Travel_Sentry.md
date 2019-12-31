@@ -1,3 +1,6 @@
+> 本文内容由[Travel Sentry](https://zh.wikipedia.org/wiki/Travel Sentry)转换而来。
+
+
 **Travel Sentry**是一个致力于建立和规制旅行安全的组织，也可以认为是其被美国运输安全管理局（Transportation Security Administration）认可的，称作“TSA锁（TSA Lock）”的标准。
 
 ## 历史

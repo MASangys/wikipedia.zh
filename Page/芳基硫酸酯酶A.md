@@ -1,3 +1,6 @@
+> 本文内容由[芳基硫酸酯酶A](https://zh.wikipedia.org/wiki/芳基硫酸酯酶A)转换而来。
+
+
 **芳基硫酸酯酶A**(Arylsulfatase A、ARSA、[酰基](../Page/酰基.md "wikilink")硫酸酯酶A、腦苷硫酸酯酶/cerebroside-sulfatase、芳香基硫酸酯酶A)屬於[酶](../Page/酶.md "wikilink")之一種，它可以分解[腦硫脂](../Page/腦硫脂.md "wikilink")(sulfatide)，即分解"腦苷3硫酸"(cerebroside 3-sulfate)為[脑苷脂及](https://zh.wikipedia.org/wiki/脑苷脂 "wikilink")[硫酸鹽](../Page/硫酸鹽.md "wikilink")。在人類中，芳基硫酸酯酶A由ARSA[基因](../Page/基因.md "wikilink")編碼。\[1\]\[2\]
 
 ## 病理機制

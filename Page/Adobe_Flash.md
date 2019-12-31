@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Flash](https://zh.wikipedia.org/wiki/Adobe Flash)转换而来。
+
+
 **Adobe Flash**（前稱**Macromedia Flash**和**Shockwave Flash**；簡稱**Flash**），前身為**FutureSplash**，既指[Adobe Flash Professional多媒体创作程序](https://zh.wikipedia.org/wiki/Adobe_Flash_Professional "wikilink")，也指[Adobe Flash Player](../Page/Adobe_Flash_Player.md "wikilink")。自从[Macromedia](../Page/Macromedia.md "wikilink")公司於2005年12月3日被[Adobe](../Page/Adobe.md "wikilink")公司收购，Flash也就成为了Adobe旗下的软體。2011年11月9日，Adobe公司宣布停止開發個人電腦平台以外的Flash Player，而專注於開發[非專利](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[標示語言](../Page/HTML.md "wikilink")[HTML5](../Page/HTML5.md "wikilink")。目前已經走向HTML和APP雙併行模式並在2014年技術趨於成熟。
 
 尽管Flash之前是在线多媒体内容的主要平台，但随着Adobe支持向HTML5过渡，它正在被慢慢得抛弃。Flash Player已不宜使用，并在2020年正式结束生命。\[1\]

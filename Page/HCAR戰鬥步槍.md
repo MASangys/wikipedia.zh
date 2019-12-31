@@ -1,3 +1,6 @@
+> 本文内容由[HCAR戰鬥步槍](https://zh.wikipedia.org/wiki/HCAR戰鬥步槍)转换而来。
+
+
 **重型戰鬥突擊步槍**（，簡稱：HCAR；又稱：**重型戰鬥突擊步槍**，，簡稱HCAR；以下亦沿用簡稱稱呼）是一枝由[美国](../Page/美国.md "wikilink")俄亥俄軍械廠所生產的[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，為[M1918白朗寧自動步槍的現代化改進型](../Page/白朗寧自動步槍.md "wikilink")，並在第143屆[全国步枪协会展會上推出](../Page/美国全国步枪协会.md "wikilink")，發射[.30-06](../Page/.30-06春田步槍彈.md "wikilink")[春田](../Page/春田兵工廠.md "wikilink")（7.62×63毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Ghost](https://zh.wikipedia.org/wiki/假面騎士Ghost)转换而来。
+
+
 《**假面騎士Ghost**》（，），從2015年10月4日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Ghost也是該劇主角變身的名字。《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第17部[平成](../Page/平成.md "wikilink")系列作品，口號是「燃燒生命吧！」、「英雄，是不停復活」、「幽靈眼魂爭奪戰！！」。
 
 台灣的東森綜合台及東森超視台於《假面騎士鎧武》播映完畢後，跳過本作與前作《假面騎士Drive》播出《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》。故此，本作是繼《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後，第四部沒有在台灣播出的平成假面騎士作品。

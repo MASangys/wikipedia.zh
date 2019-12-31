@@ -1,3 +1,6 @@
+> 本文内容由[Two of Us](https://zh.wikipedia.org/wiki/Two of Us)转换而来。
+
+
 《**Two of Us**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[2R](../Page/2R.md "wikilink")的第1張音樂專輯，於2003年10月20日發行。其後分別推出了第二版及第三版。
 
 ## 唱片版本

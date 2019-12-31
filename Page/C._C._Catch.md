@@ -1,3 +1,6 @@
+> 本文内容由[C. C. Catch](https://zh.wikipedia.org/wiki/C. C. Catch)转换而来。
+
+
 **C. C. Catch** (本名：Caroline Catherine Müller, 1964年7月31日生于[荷兰](../Page/荷兰.md "wikilink")[Oss](https://zh.wikipedia.org/wiki/Oss "wikilink")) 是一名流行音乐女歌手，以其在1980年代与合作的音乐创作表演而闻名。\[1\]\[2\]
 
 ## 早期

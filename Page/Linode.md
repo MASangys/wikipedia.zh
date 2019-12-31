@@ -1,3 +1,6 @@
+> 本文内容由[Linode](https://zh.wikipedia.org/wiki/Linode)转换而来。
+
+
 **Linode**是一个總部建立于[美国](../Page/美国.md "wikilink")[新泽西州](../Page/新泽西州.md "wikilink")加洛伟的[虚拟专用服务器](https://zh.wikipedia.org/wiki/虚拟专用服务器 "wikilink")（VPS）提供商。它的名字是由英文中[Linux](../Page/Linux.md "wikilink")中的**Li**和node（即“[节点](https://zh.wikipedia.org/wiki/节点 "wikilink")”一词）构成的[混成词](https://zh.wikipedia.org/wiki/混成词 "wikilink")\[1\]。如同它的名字一样，Linode 只提供运行 Linux 的服务器，而不提供运行 [Windows Server或其他](../Page/Windows_Server.md "wikilink")[作業系統的服务器](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。它的服务一向以稳定-{著}-称。
 
 ## 历史

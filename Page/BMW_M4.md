@@ -1,3 +1,6 @@
+> 本文内容由[BMW M4](https://zh.wikipedia.org/wiki/BMW M4)转换而来。
+
+
 ****是[BMW](../Page/BMW.md "wikilink")下属赛车运动部门——[BMW M公司基于](../Page/BMW_M公司.md "wikilink")[4系列车型所开发的一款高性能运动轿车](../Page/BMW_4系列.md "wikilink")，它是BMW有史以来速度最快的M系列量产车之一，0-100公里加速仅需4秒。作为BMW将3系列的[轿跑车及](https://zh.wikipedia.org/wiki/轿跑车 "wikilink")[敞篷车](../Page/敞篷车.md "wikilink")拆分并重编为4系列的一部分（以进一步区分[3系轿车](../Page/BMW_3系列.md "wikilink")），M4替代了[M3的双门轿跑车和敞篷车型](../Page/BMW_M3.md "wikilink")，同时也包括高级轿跑车。通过标准4系列升级后的M4搭载有一台改良了操控、悬挂的大马力和响应灵敏的双涡轮增压发动机，以及刹车系统、强化的空气动力学车身，并在外观/内饰上强调三色的“M”（代表Motorsport，即赛车运动）徽章，同时车辆的整体重量相较于标准的4系列显著降低，还有比起前身车型更硬朗的底盘调校，并有大量使用的碳纤维，尤其是在车顶\[1\]。  {{-}}
 
 ## F82/F83

@@ -1,3 +1,6 @@
+> 本文内容由[周刊少女SNH48](https://zh.wikipedia.org/wiki/周刊少女SNH48)转换而来。
+
+
 **周刊少女SNH48**，是一檔由中國大型女子偶像團體[SNH48](../Page/SNH48.md "wikilink")為主要演出成員的綜藝節目，於2015年6月27日起在[AcFun](../Page/AcFun.md "wikilink")網站播放。
 
 ## 簡介

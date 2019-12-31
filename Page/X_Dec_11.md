@@ -1,3 +1,6 @@
+> 本文内容由[X Dec 11](https://zh.wikipedia.org/wiki/X Dec 11)转换而来。
+
+
 《**X Dec 11**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎明](../Page/黎明.md "wikilink")的一張數碼唱片，收錄了四首歌曲，全部由[雷頌德](../Page/雷頌德.md "wikilink")作曲、編曲及監製\[1\]，於2011年12月5日在媒體播放應用程式[iTunes上推出](https://zh.wikipedia.org/wiki/iTunes "wikilink")，沒有正式在市面上發行\[2\]。此專輯設有限量版套裝，包括[CD](../Page/CD.md "wikilink")、[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")，在舉行《[Leon X U 紅館演唱會2011](../Page/Leon_X_U_紅館演唱會2011.md "wikilink")》期間於[香港體育館](../Page/香港體育館.md "wikilink")發售\[3\]。
 
 ## 曲目

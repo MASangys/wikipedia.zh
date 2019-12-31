@@ -1,3 +1,6 @@
+> 本文内容由[Circus \(遊戲品牌\)](https://zh.wikipedia.org/wiki/Circus \(遊戲品牌\))转换而来。
+
+
 **Circus**（サーカス）是日本moby-dick公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")\[1\]，於1999年11月成立\[2\]。該品牌是由數個團隊組成。
 
 ## 歷史

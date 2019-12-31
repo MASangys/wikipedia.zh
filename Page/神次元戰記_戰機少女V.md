@@ -1,3 +1,6 @@
+> 本文内容由[神次元戰記 戰機少女V](https://zh.wikipedia.org/wiki/神次元戰記 戰機少女V)转换而来。
+
+
 為[Idea Factory和](../Page/Idea_Factory.md "wikilink")[Compile Heart開發](../Page/Compile_Heart.md "wikilink")，於2012年8月30日開始發售的[PlayStation 3](../Page/PlayStation_3.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]。《[戰機少女系列](../Page/戰機少女系列.md "wikilink")》第三作。為第二作《[超次元戰記 戰機少女mk2](../Page/超次元戰記_戰機少女mk2.md "wikilink")》的續作。第四作《[新次元戰記 戰機少女VII](https://zh.wikipedia.org/wiki/新次元游戏_海王星VII "wikilink")》以[PlayStation 4為平台於](../Page/PlayStation_4.md "wikilink")2015年4月23日發售。重製版遊戲《**神次次元戰記 戰機少女重生3 V世紀**》（日語：神次次元ゲイム ネプテューヌRe;Birth3 V CENTURY）於2014年12月18日在[PlayStation Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")，而英文版將於2015年10月30日於[Steam](../Page/Steam.md "wikilink")登陸[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]\[3\]。
 
 ## 译名问题

@@ -1,3 +1,6 @@
+> 本文内容由[Gatecoin](https://zh.wikipedia.org/wiki/Gatecoin)转换而来。
+
+
 **Gatecoin**是一家成立於香港的[比特幣交易服務](../Page/比特币.md "wikilink")。於2013年七月創辦，這家公司的創辦人 － Aurélien Menant先前是一位[投資銀行家](../Page/投资银行.md "wikilink")。\[1\] 這家公司是香港唯一一家由[香港科技園](../Page/香港科技園公司.md "wikilink")(Hong Kong Science and Technology Parks Corporation)入資的機構，\[2\]並且是[香港政府旗下的法定機構](../Page/香港特別行政區政府.md "wikilink")。Gatecoin也得到了[南京](https://zh.wikipedia.org/wiki/南京 "wikilink")[清華科技園的入資](../Page/清华科技园.md "wikilink")。\[3\]截至2015年的第一季度，Gatecoin已經從[天使投資者的籌集資金中籌得了美金五十萬元](../Page/天使投资者.md "wikilink")。.\[4\]
 
 Gatecoin在2016年一月加入了科技金融加速器Super Charger的加速計畫(accelerator program)。這項計畫是由[百度](../Page/百度.md "wikilink")和[渣打銀行出資贊助而成的](https://zh.wikipedia.org/wiki/渣打銀行 "wikilink")。 \[5\]\[6\]

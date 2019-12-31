@@ -1,3 +1,6 @@
+> 本文内容由[紅唇Be My Baby](https://zh.wikipedia.org/wiki/紅唇Be My Baby)转换而来。
+
+
 《**紅唇Be My Baby**》（）是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第42張單曲作品，[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心職位 "wikilink")（中央站位）由[高橋南](../Page/高橋南.md "wikilink")擔任，是高橋自AKB48首張單曲《[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")》以來，近10年後再次單獨擔任A面曲的[Center](https://zh.wikipedia.org/wiki/AKB48團體構成#中心職位 "wikilink")。
 
 ## 簡介

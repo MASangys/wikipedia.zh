@@ -1,3 +1,6 @@
+> 本文内容由[IPTP Networks](https://zh.wikipedia.org/wiki/IPTP Networks)转换而来。
+
+
 **IPTP Networks**（IPTP Networks是国际领先的[系统集成商](https://zh.wikipedia.org/wiki/系统集成商 "wikilink")，一级单宿主网络（AS 3356），[互联网服务提供商](https://zh.wikipedia.org/wiki/互联网服务提供商 "wikilink")(AS 41095) 以及全球运营的[软件开发集团](https://zh.wikipedia.org/wiki/软件开发集团 "wikilink")，在阿姆斯特丹（荷兰），利马索尔（塞浦路斯），纽约（美国），莫斯科，新罗西斯克（俄罗斯），香港（中国），利马（秘鲁），圣保罗（巴西），拉巴斯（玻利维亚）和胡志明市（越南）均设有办事处。 公司为一级网络互联网服务提供商（ISP）运营全球骨干网，在全球175+ 多个[数据中心](../Page/数据中心.md "wikilink")提供连接，从设计和采购到实施和[集成](https://zh.wikipedia.org/wiki/集成 "wikilink")，务求全方位协助客户管理项目的每个阶段。 另外公司有自主开发的ERP和CRM平台，IPTP[智能空间自动化解决方案的主要组件之一](https://zh.wikipedia.org/wiki/智能空间自动化解决方案 "wikilink")。它可以汇集和管理搜集到的一系列数据，协调和自动执行日常任务，为您的业务提供实时管理功能。 其他服务包括连接服务，托管[统一通信服务](https://zh.wikipedia.org/wiki/统一通信 "wikilink")，安全管理服务，[托管移动通信服务](https://zh.wikipedia.org/wiki/托管移动通信 "wikilink")，托管[数据中心](../Page/数据中心.md "wikilink")服务。
 
 IPTP 支援 [LinuxMCE](https://zh.wikipedia.org/wiki/LinuxMCE "wikilink") 平台 \[1\]

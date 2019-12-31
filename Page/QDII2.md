@@ -1,3 +1,6 @@
+> 本文内容由[QDII2](https://zh.wikipedia.org/wiki/QDII2)转换而来。
+
+
 **QDII2**是指**合格境内个人投资者**（英语全称：**Qualified** **Domestic** **Individual** *' Investor*'）。与[QDII](https://zh.wikipedia.org/wiki/QDII "wikilink")(合格境内机构投资者)类似，它也是在[人民币](../Page/人民币.md "wikilink")没有实现完全自由兑换、资本项目尚未完全开放的情况下，有限度地允许境外投资的一项重要制度。但与QDII中的境内机构投资不同，QDII2是指在人民币资本项下不可兑换条件下，有控制地允许境内个人投资中國境外[资本市场](../Page/资本市场.md "wikilink")的[股票](../Page/股票.md "wikilink")、[债券](../Page/债券.md "wikilink")等有价证券投资业务的一项制度安排\[1\]。
 
 ## 背景

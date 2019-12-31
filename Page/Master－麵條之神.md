@@ -1,3 +1,6 @@
+> 本文内容由[Master－麵條之神](https://zh.wikipedia.org/wiki/Master－麵條之神)转换而来。
+
+
 《**Master－麵條之神**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年4月27日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[加油，金先生！](../Page/加油，金先生！.md "wikilink")》、《[鋼鐵人](../Page/鋼鐵人_\(電視劇\).md "wikilink")》[金鐘淵導演執導](https://zh.wikipedia.org/wiki/金鐘淵 "wikilink")、《[感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")》[蔡承代編劇執筆](https://zh.wikipedia.org/wiki/蔡承代 "wikilink")，改編自[朴寅權畫家的漫畫作品](https://zh.wikipedia.org/wiki/朴寅權 "wikilink")《**麵條之神**》，講述了為了復仇而鑽研麵條技術的男主角的成長故事。\[1\]
 
 ## 演員陣容

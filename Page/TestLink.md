@@ -1,3 +1,6 @@
+> 本文内容由[TestLink](https://zh.wikipedia.org/wiki/TestLink)转换而来。
+
+
 **TestLink**，是一个用于管理测试过程并提供统计分析的开源软件。\[1\]该软件发布于sourceforge，并采用Web界面交互，可以进行自动化的测试用例运行，并将测试结果生成报表并归档。该软件的主要功能如下：\[2\]
 
   - 需求管理

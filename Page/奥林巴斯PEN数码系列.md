@@ -1,3 +1,6 @@
+> 本文内容由[奥林巴斯PEN数码系列](https://zh.wikipedia.org/wiki/奥林巴斯PEN数码系列)转换而来。
+
+
 [Olympus_MFT_concept_1.jpg](https://zh.wikipedia.org/wiki/File:Olympus_MFT_concept_1.jpg "fig:Olympus_MFT_concept_1.jpg")
 
 **PEN数码系列**是[奥林巴斯公司推出的](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[可换镜头数码相机系列产品](https://zh.wikipedia.org/wiki/電子式取景可換鏡頭相機 "wikilink")，属于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，在外观风格上承袭经典的[奧林巴斯PEN系列](../Page/奧林巴斯PEN系列.md "wikilink")，强调便携。

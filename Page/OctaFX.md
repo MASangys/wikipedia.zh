@@ -1,3 +1,6 @@
+> 本文内容由[OctaFX](https://zh.wikipedia.org/wiki/OctaFX)转换而来。
+
+
 Octa Markets Incorporated (OctaFX)是世界著名外汇经纪商.。它由一个微型经纪商发展来的。\[1\] OctaFX向来自全球超过100个国家的客户提供外汇经纪服务业务。公司的业务由电子平台MetaTrader 4和cTrader实现。两个平台都支持Android，iOS和WinMobile操作系统兼容的设备，实现了电脑，无限上网的笔记本电脑，或手机等多种终端的接入能力。\[2\]
 
 ## 歷史

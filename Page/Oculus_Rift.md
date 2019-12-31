@@ -1,3 +1,6 @@
+> 本文内容由[Oculus Rift](https://zh.wikipedia.org/wiki/Oculus Rift)转换而来。
+
+
 **Oculus Rift**是一個[虛擬實境](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")[頭戴式顯示器](../Page/頭戴式顯示器.md "wikilink")，由[Oculus VR所開發](https://zh.wikipedia.org/wiki/Oculus_VR "wikilink")。Rift最初於[Kickstarter](../Page/Kickstarter.md "wikilink")集資。在此期間，Oculus VR（當時還是一家獨立的公司）為Rift的開發籌到了240萬[美元](../Page/美元.md "wikilink")的經費\[1\]。
 
 Rift於2016年3月28日推出，成為第一個消費者取向的虛擬實境頭套\[2\]。Oculus稱Rift為「第一款真正專業的PC用VR頭套」。Rift的解析度為每眼 1080x1200，更新率為90Hz，且具有寬廣的視野\[3\]。Rift有著整合的耳機，可提供空間化音效。Rift具6個[自由度的旋轉與位置追縱技術](https://zh.wikipedia.org/wiki/自由度_\(工程學\) "wikilink")。位置追縱是由一獨立的追縱單元所實現，一般放於使用者的桌子，且包含於每個Rift之內。此一系統讓人在使用Rift時，可以坐著、站立或在同一房間內走動\[4\]。

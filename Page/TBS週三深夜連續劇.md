@@ -1,3 +1,6 @@
+> 本文内容由[TBS週三深夜連續劇](https://zh.wikipedia.org/wiki/TBS週三深夜連續劇)转换而来。
+
+
 **TBS週三深夜連續劇**（），為[TBS電視台](../Page/TBS電視台.md "wikilink")於2015年10月起，每星期三23:53（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的30分鐘深夜[連續劇時段](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")\[1\]\[2\]\[3\]。
 
 ## 作品列表

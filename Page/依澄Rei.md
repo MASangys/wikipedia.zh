@@ -1,3 +1,6 @@
+> 本文内容由[依澄Rei](https://zh.wikipedia.org/wiki/依澄Rei)转换而来。
+
+
 **依澄れい**（）是日本女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，出生於[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")\[1\]。代表作為《[.hack//黃昏的腕輪傳說](https://zh.wikipedia.org/wiki/.hack/黃昏的腕輪傳說 "wikilink")》以及《[小小魔法使響](../Page/小小魔法使響.md "wikilink")》\[2\]，同時也是遊戲《[真實之淚 true tears](../Page/真實之淚_true_tears.md "wikilink")》的人物設計。
 
 ## 作品列表

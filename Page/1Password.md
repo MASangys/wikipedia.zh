@@ -1,3 +1,6 @@
+> 本文内容由[1Password](https://zh.wikipedia.org/wiki/1Password)转换而来。
+
+
 **1Password **是一个由 AgileBits 公司开发的[密码管理软件](https://zh.wikipedia.org/wiki/密码管理 "wikilink")。它能用来存放各种不同的[密码](https://zh.wikipedia.org/wiki/密码 "wikilink")，除普通登录密码，[信用卡](../Page/信用卡.md "wikilink")、[软件许可证](../Page/软件许可证.md "wikilink")等敏感信息也可一同存放在加密\[1\]的虚拟保险箱里，由主密码保护。\[2\]
 
 ## 密码文件同步

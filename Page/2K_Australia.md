@@ -1,3 +1,6 @@
+> 本文内容由[2K Australia](https://zh.wikipedia.org/wiki/2K Australia)转换而来。
+
+
 **2K Australia**，是总部设在[澳大利亚](../Page/澳大利亚.md "wikilink")[堪培拉](../Page/堪培拉.md "wikilink")的游戏开发商。该工作室成立于2000年，由Irrational Canberra和Jonathan Chey负责；在2007年，改名为2K Australia。根据新闻，该工作室的主要重点是开发新的[知识产权](../Page/知识产权.md "wikilink")和与其他2K工作室共同开发产品。
 
 该工作室原本是Irrational Games的一部分。在2010年，2K Australia为新的XCOM游戏宣布加入[2K Marin](../Page/2K_Marin.md "wikilink")。然而，在2011年底2K Marin和2K Australia分开。\[1\]

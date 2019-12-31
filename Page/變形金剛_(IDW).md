@@ -1,3 +1,6 @@
+> 本文内容由[變形金剛 \(IDW\)](https://zh.wikipedia.org/wiki/變形金剛 \(IDW\))转换而来。
+
+
 **變形金剛**漫畫為IDW根據孩之寶的變形金剛人物和玩具系列而出版的漫畫系列。
 
 繼Dreamwave在2005年破產，[IDW公司](../Page/IDW公司.md "wikilink")拿了版權，並聘請長期變形金剛作家[Simon Furman製作一個重新啟動第一代故事](https://zh.wikipedia.org/wiki/Simon_Furman "wikilink")。\[1\]。故事的前導版出版於2005年10月，而正式系列開始於2006年1月。

@@ -1,3 +1,6 @@
+> 本文内容由[Μ\'s](https://zh.wikipedia.org/wiki/Μ\'s)转换而来。
+
+
 **μ's**（假名轉寫：****，中文轉寫：**繆斯**、**謬斯**）是《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[ASCII Media Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis](../Page/Lantis.md "wikilink")唱片公司共同推出的的一个用户互动型企划作品[LoveLive\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。名字來自於[希臘神話中主司藝術與科學的九位文藝女神的總稱](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「[繆斯](https://zh.wikipedia.org/wiki/繆斯 "wikilink")」。现实中，“μ's”的名称由一位名为“御儿勇马”的粉丝提供，并在之后的投票中获选。
 
 官方已於2016年3月31日與4月1日舉行Final Live，但許多支持者仍以「μ'sic forever」表示將會持續應援。

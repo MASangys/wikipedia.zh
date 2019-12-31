@@ -1,3 +1,6 @@
+> 本文内容由[偶像活動Stars！角色列表](https://zh.wikipedia.org/wiki/偶像活動Stars！角色列表)转换而来。
+
+
 **偶像活動Stars！角色列表**是《[偶像活動Stars！](https://zh.wikipedia.org/wiki/偶像活動Stars！ "wikilink")》的登場角色介紹。
 劇中登場人物年齡隨時間軸改變，以第1、2部主角虹野夢為準：第1話時為中學一年級、第51話時為中學二年級。
 

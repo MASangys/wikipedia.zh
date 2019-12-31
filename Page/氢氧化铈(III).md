@@ -1,3 +1,6 @@
+> 本文内容由[氢氧化铈\(III\)](https://zh.wikipedia.org/wiki/氢氧化铈\(III\))转换而来。
+
+
 **氢氧化铈(III)**是一种无机化合物，化学式为Ce(OH)<sub>3</sub>。
 
 ## 制备

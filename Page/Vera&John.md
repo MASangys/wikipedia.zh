@@ -1,3 +1,6 @@
+> 本文内容由[Vera\&John](https://zh.wikipedia.org/wiki/Vera\&John)转换而来。
+
+
 **Vera\&John** 是一家总部设在马耳他的网上赌场。 Vera\&John 由 Dumarca Gaming Ltd 经营，它的母公司 Dumarca Holdings PLC 于2015年由Intertain Group Ltd 收购。\[1\]Intertain Group Ltd 在多伦多证券交易所上市。 Vera\&John 由马耳他博彩管理局和英国博彩委员会发牌及监管。\[2\]\[3\]Vera\&John 由 Jörgen Nordlund 创建，他过去曾因为创建 Maria Bingo 而闻名，该公司于2007年被 Unibet 以5400万英镑收购。\[4\]
 
 ## 简史

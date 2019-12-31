@@ -1,3 +1,6 @@
+> 本文内容由[鈴木FB族引擎](https://zh.wikipedia.org/wiki/鈴木FB族引擎)转换而来。
+
+
 **鈴木FB族引擎**乃由[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1961年10月至1987年11月之間開發、製造的全[鋁製二衝程引擎](https://zh.wikipedia.org/wiki/鋁 "wikilink")，用以搭載[輕型車](../Page/輕型車.md "wikilink")上。此族引擎常因不同車款的[底盤代號衍生不同的名稱](https://zh.wikipedia.org/wiki/底盤 "wikilink")，直到1970年前期鈴木公司才統一了引擎命名方式。
 
 ## FB型

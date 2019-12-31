@@ -1,3 +1,6 @@
+> 本文内容由[Sony Music Artists](https://zh.wikipedia.org/wiki/Sony Music Artists)转换而来。
+
+
 **Sony Music Artists**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），簡稱**SMA**，[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的藝人[經紀公司](../Page/經紀公司.md "wikilink")與[音樂出版社](../Page/音樂出版社.md "wikilink")。
 
 ## 沿革

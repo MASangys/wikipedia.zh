@@ -1,3 +1,6 @@
+> 本文内容由[Mapbox](https://zh.wikipedia.org/wiki/Mapbox)转换而来。
+
+
 **Mapbox**是為[Foursquare](../Page/Foursquare.md "wikilink")、[Pinterest](../Page/Pinterest.md "wikilink")、[Evernote](../Page/Evernote.md "wikilink")、《[金融時報](../Page/金融時報.md "wikilink")》、、[優步](../Page/優步.md "wikilink")科技等公司\[1\]的網站提供訂製線上地圖的大型供應商。自2010年起，該公司快速地拓展了訂製地圖的市場地位，以回應[Google地图](../Page/Google地图.md "wikilink")等地圖供應商提供的有限選擇\[2\]。Mapbox是一些開放原始碼地圖函式庫及應用程式的建立者或最大的貢獻者，其中包含了MBTiles規範、TileMill製圖IDE、 JavaScript 函式庫，以及CartoCSS地圖格式化語言與語法分析器等。
 
 ## 資料來源與技術

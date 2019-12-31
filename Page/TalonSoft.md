@@ -1,3 +1,6 @@
+> 本文内容由[TalonSoft](https://zh.wikipedia.org/wiki/TalonSoft)转换而来。
+
+
 **TalonSoft**，是[美國马里兰州巴尔的摩电脑游戏开发商](https://zh.wikipedia.org/wiki/美國 "wikilink")，由吉姆·罗斯和约翰·戴维森成立于1995年。该公司专门从事战争类游戏。
 
 2000年初，TalonSoft由[Take-Two收购](https://zh.wikipedia.org/wiki/Take-Two "wikilink")，成为Take-Two的一个品牌，直到2005年結業。2005年10月，[Matrix Games获得TalonSoft的大多数游戏的出版权利](https://zh.wikipedia.org/wiki/Matrix_Games "wikilink")。

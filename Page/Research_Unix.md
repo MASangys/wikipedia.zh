@@ -1,3 +1,6 @@
+> 本文内容由[Research Unix](https://zh.wikipedia.org/wiki/Research Unix)转换而来。
+
+
 **Research Unix**，是一系列的[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[作業系統的通稱](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[貝爾實驗室的計算機科學研究中心](https://zh.wikipedia.org/wiki/貝爾實驗室 "wikilink")（，部門編號1127）研發，因此得名，共有10個版本。這些Unix系統運行在[DEC](https://zh.wikipedia.org/wiki/DEC "wikilink") [PDP-7](https://zh.wikipedia.org/wiki/PDP-7 "wikilink")，[PDP-11](../Page/PDP-11.md "wikilink")，[VAX](../Page/VAX.md "wikilink")，以及Interdata 7/32與8/32電腦上。
 
 ## 歷史

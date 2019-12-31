@@ -1,3 +1,6 @@
+> 本文内容由[亨利·A·科芬](https://zh.wikipedia.org/wiki/亨利·A·科芬)转换而来。
+
+
 **亨利·阿薩·科芬**（；），是一位[美國民主黨的政治人物](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，曾在1893年至1895年擔任[美國眾議院](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州單一國會選區代表眾議員](https://zh.wikipedia.org/wiki/懷俄明州單一國會選區 "wikilink")。
 
 ## 生涯

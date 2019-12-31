@@ -1,3 +1,6 @@
+> 本文内容由[GN-z11](https://zh.wikipedia.org/wiki/GN-z11)转换而来。
+
+
 **GN-z11**是一個在[大熊座](../Page/大熊座.md "wikilink")發現的高[紅移](../Page/紅移.md "wikilink")[星系](../Page/星系.md "wikilink")，為目前[可觀測宇宙](../Page/可觀測宇宙.md "wikilink")中最古老、[最遙遠的已知星系](../Page/最遙遠的天體列表.md "wikilink")。\[1\]GN-z11的[光譜紅移值為](https://zh.wikipedia.org/wiki/光譜學 "wikilink")，相當於約的[同移距離](https://zh.wikipedia.org/wiki/同移距離 "wikilink")。\[2\]
 
 “GN-z11”一名來源於其在（GOODS-North）中的位置及其高宇宙學紅移數（）。\[3\]GN-z11被觀察到它存在於約134億年前，即[大爆炸](../Page/大爆炸.md "wikilink")之後的4億年就已形成。\[4\]\[5\]因此，GN-z11與地球之間的距離有時會被不恰當地\[6\]報導為134億光年（即[光行程](https://zh.wikipedia.org/wiki/距離測量_\(宇宙學\)#距離的類型 "wikilink")）。\[7\]\[8\]

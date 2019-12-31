@@ -1,3 +1,6 @@
+> 本文内容由[Better娛樂](https://zh.wikipedia.org/wiki/Better娛樂)转换而来。
+
+
 **Better Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。原名為Storm S Company在2013年更改，成立在2009年5月，由藝人[宋承憲](../Page/宋承憲.md "wikilink")創立的，包括藝人管理，當紅藝人包括演員[宋承憲](../Page/宋承憲.md "wikilink")等多名演員。
 
 ## 旗下藝人

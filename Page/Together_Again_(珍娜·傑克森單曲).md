@@ -1,3 +1,6 @@
+> 本文内容由[Together Again \(珍娜·傑克森單曲\)](https://zh.wikipedia.org/wiki/Together Again \(珍娜·傑克森單曲\))转换而来。
+
+
 〈**再度重逢**〉（**Together Again**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1997年12月2日發行的單曲，此曲是為了紀念珍娜因[愛滋病逝世的友人](https://zh.wikipedia.org/wiki/愛滋病 "wikilink")，珍娜選擇以輕快的流行舞曲形式來呈現，也是因為深知這位故友不希望眾人為她傷悲所做的體貼。〈再度重逢〉在英國單曲榜拿下第4名，在美國告示牌單曲榜摘下2週冠軍寶座，成為珍娜·傑克森第8首全美冠軍單曲。 \[1\] \[2\]
 
 ## 歌曲資料

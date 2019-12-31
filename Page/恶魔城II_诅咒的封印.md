@@ -1,3 +1,6 @@
+> 本文内容由[恶魔城II 诅咒的封印](https://zh.wikipedia.org/wiki/恶魔城II 诅咒的封印)转换而来。
+
+
 是一款由[科乐美制作和发行的](https://zh.wikipedia.org/wiki/科乐美 "wikilink")[平台类](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。\[1\]本游戏最初于1987年在[FC磁碟机发行](https://zh.wikipedia.org/wiki/FC磁碟机 "wikilink")\[2\]后游戏于1988年北美地区NES发行。
 
 ## 系統

@@ -1,3 +1,6 @@
+> 本文内容由[三角座XX](https://zh.wikipedia.org/wiki/三角座XX)转换而来。
+
+
 **三角座XX**（**XX Trianguli**）是一顆位於[三角座](../Page/三角座.md "wikilink")的[獵犬座RS型變星](../Page/獵犬座RS型變星.md "wikilink")，是[光譜型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink") K0III 的橙色[巨星](../Page/巨星.md "wikilink")\[1\]\[2\]。三角座XX因為有一個直徑遠比太陽巨大的[星斑](../Page/星斑.md "wikilink")而聞名。該星斑是以法發現於1999年\[3\]。
 
 ## 參考資料

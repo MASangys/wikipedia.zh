@@ -1,3 +1,6 @@
+> 本文内容由[Patreon](https://zh.wikipedia.org/wiki/Patreon)转换而来。
+
+
 **Patreon**（）（合作伙伴）是一個供內容創建者進行[群眾募資](../Page/群眾募資.md "wikilink")的平台。它讓創作者向[贊助者以每件作品或定期取得資金](https://zh.wikipedia.org/wiki/贊助 "wikilink")\[1\]。該公司總部設於[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，由和開發者山姆·也（）創立\[2\]。Patreon曾被刊登於《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》、《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》和《[福布斯](../Page/福布斯.md "wikilink")》。
 
 ## 歷史

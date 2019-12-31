@@ -1,3 +1,6 @@
+> 本文内容由[约旦LGBT权益](https://zh.wikipedia.org/wiki/约旦LGBT权益)转换而来。
+
+
 **[约旦](../Page/约旦.md "wikilink")的女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）权利**相比[中东](../Page/中东.md "wikilink")地区的大多数其他国家被认为是比较先进的。同性性行为合法化于1951年，同性恋杂志也能在约旦出版。然而，大多数[LGBT](../Page/LGBT.md "wikilink")人群面临着非同性恋居民没有经历过的社会歧视。\[1\]
 
 ## 刑法

@@ -1,3 +1,6 @@
+> 本文内容由[Google聯絡人](https://zh.wikipedia.org/wiki/Google聯絡人)转换而来。
+
+
 **Google聯絡人**（）是[Google](../Page/Google.md "wikilink")旗下的一款在其免费邮件系统[Gmail](../Page/Gmail.md "wikilink")中的[通讯录管理工具](https://zh.wikipedia.org/wiki/通讯录管理工具 "wikilink")，是一个独立的服务，而且是Google网络应用的一部分。
 
 ## 特性

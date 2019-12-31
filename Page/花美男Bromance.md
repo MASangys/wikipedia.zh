@@ -1,3 +1,6 @@
+> 本文内容由[花美男Bromance](https://zh.wikipedia.org/wiki/花美男Bromance)转换而来。
+
+
 《**花美男Bromance**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台為移動裝置用戶專門打造的](https://zh.wikipedia.org/wiki/MBC "wikilink")[MBig TV頻道所企劃的第一個網路綜藝節目](../Page/MBig_TV.md "wikilink")。
 
 節目以找尋演藝圈內鮮為人知的親密好友為主題，講述藝人之間真摯的友情故事。因以藝人私人模樣呈現為主而以狗仔隊的方式拍攝，猶如鄰近藝人私生活。\[1\] \[2\]

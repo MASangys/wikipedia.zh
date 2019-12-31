@@ -1,3 +1,6 @@
+> 本文内容由[Windows Phone 7裝置列表](https://zh.wikipedia.org/wiki/Windows Phone 7裝置列表)转换而来。
+
+
 該頁面列出并比較由[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")、[三星](https://zh.wikipedia.org/wiki/三星 "wikilink")、[LG](https://zh.wikipedia.org/wiki/LG "wikilink")、[戴爾](../Page/戴爾.md "wikilink")、[富士通](../Page/富士通.md "wikilink")、[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")、[宏碁](../Page/宏碁.md "wikilink")、[阿爾卡特和](https://zh.wikipedia.org/wiki/阿爾卡特 "wikilink")[中興](../Page/中興.md "wikilink")推出的微軟[Windows Phone 7作業系統的裝置](https://zh.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。 在其整個生命週期中，Windows Phone 7在28個獨一無二的裝置上運行着。該列表包含已確認並製造商正式推出的裝置。所有Windows Phone 7设备均无法升级至Windows Phone 8。
 
 ## 已推出

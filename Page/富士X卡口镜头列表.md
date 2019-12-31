@@ -1,3 +1,6 @@
+> 本文内容由[富士X卡口镜头列表](https://zh.wikipedia.org/wiki/富士X卡口镜头列表)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:130128_Fujifilm_X-Pro1_003.jpg "fig:缩略图")
 
 本条目收录[富士X卡口](../Page/富士X卡口.md "wikilink")上使用的镜头，包括[富士胶片](../Page/富士胶片.md "wikilink")自己生产XF、XC镜头，及第三方兼容之镜头。

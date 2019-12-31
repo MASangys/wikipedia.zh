@@ -1,3 +1,6 @@
+> 本文内容由[Anime工房婆娑羅](https://zh.wikipedia.org/wiki/Anime工房婆娑羅)转换而来。
+
+
 **有限公司Anime工房婆娑羅**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[西東京市](../Page/西東京市.md "wikilink")，專門從事[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[原畫作業及美術背景製作的日本動畫公司](https://zh.wikipedia.org/wiki/原畫 "wikilink")。
 
 ## 概要、沿革

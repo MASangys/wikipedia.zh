@@ -1,3 +1,6 @@
+> 本文内容由[葵 \(AV女優\)](https://zh.wikipedia.org/wiki/葵 \(AV女優\))转换而来。
+
+
 **葵**（，1993年12月3日 - ），[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")，[秋田縣出身](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")。现為「[S1](https://zh.wikipedia.org/wiki/S1_\(AV公司\) "wikilink")」的專屬女優\[1\]，所屬於「[8MAN](https://zh.wikipedia.org/wiki/8MAN "wikilink")」事務所。
 
 ## 人物

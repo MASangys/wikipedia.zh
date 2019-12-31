@@ -1,3 +1,6 @@
+> 本文内容由[D環](https://zh.wikipedia.org/wiki/D環)转换而来。
+
+
 [DNA-RNA_D-loops,_greatly_exaggerated.jpg](https://zh.wikipedia.org/wiki/File:DNA-RNA_D-loops,_greatly_exaggerated.jpg "fig:DNA-RNA_D-loops,_greatly_exaggerated.jpg")時的情形，模板鏈DNA和RNA結合。爲簡化圖形，DNA雙鏈結構在該圖中略去。\]\] **D環**（D-loop），或稱**置換環**（displacement loop）在分子生物學中是指一個[雙鏈DNA的兩條單鏈互相分離](https://zh.wikipedia.org/wiki/雙鏈DNA "wikilink")，並被另外一條（第三條）核酸鏈隔開的結構。第三條核酸鏈與與之配對的核酸鏈具有互補的鹼基序列。D環區域形成了結構。正如插圖所示，因爲這種結構類似於大寫的「D」（被置換的那條DNA鏈像「）」而新形成的雙鏈像「|」）而得名「D環」\[1\]。
 
 在不少過程中，D環均會出現，比如[DNA修復](../Page/DNA修復.md "wikilink")。另外，在[線粒體DNA中](https://zh.wikipedia.org/wiki/線粒體DNA "wikilink")（作爲一種半穩定的結構）以及[端粒](../Page/端粒.md "wikilink")中，亦存在D環結構。

@@ -1,3 +1,6 @@
+> 本文内容由[AOA CREAM](https://zh.wikipedia.org/wiki/AOA CREAM)转换而来。
+
+
 **AOA Cream**（韓文：**에이오에이 크림**），為韓國女子團體[AOA的子團體](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")。由AOA中的三位成員[徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[申惠晶和](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")[金澯美組成](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，並在V APP直播節目中選出最年長的**徐酉奈**擔任隊長 。有別於本團AOA性感的風格，AOA Cream為可愛活潑帶點性感的風格。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[Dear Bride \(BTOB日文單曲\)](https://zh.wikipedia.org/wiki/Dear Bride \(BTOB日文單曲\))转换而来。
+
+
 《**Dear Bride**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第四張日語單曲，該曲將所愛之人形容為美麗的純白天使，祝福對方能得到最好的幸福。2016年2月24日於[日本](../Page/日本.md "wikilink")以三個不同版本發行。
 
 ## 单曲資訊

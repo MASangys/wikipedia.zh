@@ -1,3 +1,6 @@
+> 本文内容由[PRETTY×CATION2](https://zh.wikipedia.org/wiki/PRETTY×CATION2)转换而来。
+
+
 《**PRETTY×CATION2**》（全名：PRETTY×CATION2 I wish I could be with you forever.）是日本[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")公司的旗下品牌hibiki works在2015年4月24日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]CATION系列的第四作。
 
 ## 遊戲系統

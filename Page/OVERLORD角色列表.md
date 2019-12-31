@@ -1,3 +1,6 @@
+> 本文内容由[OVERLORD角色列表](https://zh.wikipedia.org/wiki/OVERLORD角色列表)转换而来。
+
+
 [OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")（）是日本小說家[丸山くがね創作](https://zh.wikipedia.org/wiki/丸山くがね "wikilink")，繪師so-bin繪畫的[輕小說](../Page/輕小說.md "wikilink")，本條目為OVERLORD小說、漫畫及動畫中登場角色的角色列表。 主要角色之譯名原則以[台灣角川](../Page/台灣角川.md "wikilink")代理之中文版小說為主。
 
 ## 安茲·烏爾·恭

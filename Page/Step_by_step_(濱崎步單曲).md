@@ -1,3 +1,6 @@
+> 本文内容由[Step by step \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Step by step \(濱崎步單曲\))转换而来。
+
+
 \-{T|Step by step}-
 
 《**Step by step**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的一張數位單曲，作為2015年8月5日發行的迷你專輯《[sixxxxxx](https://zh.wikipedia.org/wiki/sixxxxxx "wikilink")》的先行單曲於同年7月1日開始全曲線上下載。\[1\]

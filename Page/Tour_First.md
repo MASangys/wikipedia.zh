@@ -1,3 +1,6 @@
+> 本文内容由[Tour First](https://zh.wikipedia.org/wiki/Tour First)转换而来。
+
+
 **Tour First**是位於[法國首都](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")[拉德芳斯](../Page/拉德芳斯.md "wikilink")的一座摩天大樓。Tour First由兩棟摩天大樓組成，第一座修建於1974年，高159米。第二座於2007年開始建設，在2011年竣工，高231米，是巴黎第二高的建築，僅次於埃菲爾鐵塔\[1\]\[2\]\[3\]\[4\]。
 
 ## 參考資料

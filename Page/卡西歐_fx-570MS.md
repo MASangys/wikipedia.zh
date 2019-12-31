@@ -1,3 +1,6 @@
+> 本文内容由[卡西歐 fx-570MS](https://zh.wikipedia.org/wiki/卡西歐 fx-570MS)转换而来。
+
+
 **卡西歐 fx-570MS**是[卡西欧公司发布的](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")[科学函数计算器](https://zh.wikipedia.org/wiki/科学计算器 "wikilink")。此型号计算器功能与[卡西歐 fx-991MS完全相同](../Page/卡西歐_fx-991MS.md "wikilink")，只是供电方式取消了太阳能电池。
 
 ## 功能

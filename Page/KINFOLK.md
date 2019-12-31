@@ -1,3 +1,6 @@
+> 本文内容由[KINFOLK](https://zh.wikipedia.org/wiki/KINFOLK)转换而来。
+
+
 **《Kinfolk》**是一本提倡慢生活的獨立雜誌，由 Ouur 發行，希望能夠藉由它們的方式來讓讀者的生活更輕鬆簡單、並花上更多的時間陪伴家人與朋友，總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[俄勒岡州](https://zh.wikipedia.org/wiki/俄勒岡州 "wikilink")[波特蘭](https://zh.wikipedia.org/wiki/波特蘭 "wikilink")。
 
 ## 雜誌簡介

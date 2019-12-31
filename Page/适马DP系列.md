@@ -1,3 +1,6 @@
+> 本文内容由[适马DP系列](https://zh.wikipedia.org/wiki/适马DP系列)转换而来。
+
+
 [Sigma_DP1_02.jpg](https://zh.wikipedia.org/wiki/File:Sigma_DP1_02.jpg "fig:Sigma_DP1_02.jpg") **适马DP**是由适马公司推出的不可换镜头数码相机产品系列。其特点在于配置了[APS-C规格的](https://zh.wikipedia.org/wiki/APS-C "wikilink")[Foveon X3感光元件](../Page/Foveon_X3感光元件.md "wikilink")，且镜头都为[定焦设计](../Page/定焦镜头.md "wikilink")，使用[镜间快门](https://zh.wikipedia.org/wiki/镜间快门 "wikilink")，体积相对紧凑。
 
 目前DP系列已拥有，涵盖从[超广角](https://zh.wikipedia.org/wiki/超广角镜头 "wikilink")（21mm,DP0 Quattro）到中焦的范围。

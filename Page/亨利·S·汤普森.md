@@ -1,3 +1,6 @@
+> 本文内容由[亨利·S·汤普森](https://zh.wikipedia.org/wiki/亨利·S·汤普森)转换而来。
+
+
 亨利·S·汤普森，19世纪美国作曲家。他的作品主要是甜蜜的歌谣，用于化装为黑人的表演；1849年-1885年间，他出版了40部作品。\[1\]
 
 根据美国人口普查信息，1824年或1825年，汤普森出生于美国[马萨诸塞州北部](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[埃塞克斯郡](../Page/埃塞克斯郡.md "wikilink")。1851年，他搬到了[马萨诸塞州的](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[纽伯里波特](https://zh.wikipedia.org/wiki/纽伯里波特 "wikilink")，在那里他是教师、表演者和掌门人。后来他与几个音乐公司相关。\[2\]

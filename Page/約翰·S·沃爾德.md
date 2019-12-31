@@ -1,3 +1,6 @@
+> 本文内容由[約翰·S·沃爾德](https://zh.wikipedia.org/wiki/約翰·S·沃爾德)转换而来。
+
+
 **約翰·席勒·沃爾德**（；），是一位[美國共和黨的政治人物](../Page/共和黨_\(美國\).md "wikilink")，曾在1969年至1971年期間擔任[美國眾議院](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州單一國會選區代表眾議員](https://zh.wikipedia.org/wiki/懷俄明州單一國會選區 "wikilink")\[1\]。
 
 [第二次世界大戰期間](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，他曾擔任[美國海軍](../Page/美國海軍.md "wikilink")的槍砲官和諮詢物理學家\[2\]。

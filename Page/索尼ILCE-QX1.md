@@ -1,3 +1,6 @@
+> 本文内容由[索尼ILCE-QX1](https://zh.wikipedia.org/wiki/索尼ILCE-QX1)转换而来。
+
+
 **索尼ILCE-QX1**是一款模块化数码相机产品，由索尼于2014年9月3日推出\[1\]。
 
 ILCE-QX1特别之处在于其模块化相机设计（Modular Camera） ，与之前于2013年推出的[索尼QX100类似](https://zh.wikipedia.org/wiki/索尼QX100 "wikilink")，本体并没有配置显示屏，而需要通过[WiFi连接](https://zh.wikipedia.org/wiki/WiFi "wikilink")[智能手机](../Page/智能手机.md "wikilink")或平板进行拍摄。而与早前产品不同，QX1配置了APS-C规格20MP传感器，同时改为可换镜头设计，具备[索尼E卡口](../Page/索尼E接环.md "wikilink")，支持[E口原生镜头或转接其他镜头](../Page/索尼E卡口镜头列表.md "wikilink")\[2\]；机身内置闪光灯，但是不具有机身防抖功能\[3\]，且机身上没有除电源开关、闪光灯弹出钮以外的其他按键\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Vivian Chow \(专辑\)](https://zh.wikipedia.org/wiki/Vivian Chow \(专辑\))转换而来。
+
+
 《**Vivian Chow**》是[周慧敏](../Page/周慧敏.md "wikilink")的首張個人粵語EP，於1988年11月推出。
 
 ## 曲目

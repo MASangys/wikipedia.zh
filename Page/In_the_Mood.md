@@ -1,3 +1,6 @@
+> 本文内容由[In the Mood](https://zh.wikipedia.org/wiki/In the Mood)转换而来。
+
+
 **In the Mood**是美国的乐团领队[格伦·米勒](../Page/格伦·米勒.md "wikilink")在1939年所作的，是当时[大乐团时代最热的那首曲子](../Page/大樂團.md "wikilink")。它曾在1940年高居榜首连续长达13周之久，并且在第二年还被用在电影[Sun Valley Serenade中](https://zh.wikipedia.org/wiki/Sun_Valley_Serenade "wikilink")。
 
 在1983年的时候，这首Glenn Miller在1939年所录制的被入选进入[格莱美名人堂](https://zh.wikipedia.org/wiki/格莱美名人堂 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Cara](https://zh.wikipedia.org/wiki/鈴木Cara)转换而来。
+
+
 **鈴木Cara**（）是1990年代[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型雙人座](../Page/輕型車.md "wikilink")[轎跑車](../Page/轎跑車.md "wikilink")，其兄弟車為提早一年發售的[馬自達](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[Autozam AZ-1](../Page/Autozam_AZ-1.md "wikilink")。
 
 ## 背景

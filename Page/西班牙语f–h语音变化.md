@@ -1,3 +1,6 @@
+> 本文内容由[西班牙语f–h语音变化](https://zh.wikipedia.org/wiki/西班牙语f–h语音变化)转换而来。
+
+
 **f-h語音變化**（）是屬於[羅曼語族的](https://zh.wikipedia.org/wiki/羅曼語族 "wikilink")[卡斯蒂利亞語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")（即西班牙語，後文同）最爲顯著的一個特徵。（但在[加斯科語](https://zh.wikipedia.org/wiki/加斯科方言 "wikilink")、摩爾達維亞和[特兰西瓦尼亚](../Page/特兰西瓦尼亚.md "wikilink")的[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")，東阿斯圖里亞斯語及其他羅曼語中也有此種現象）。這種現象指卡斯蒂利亞語中來自拉丁語的詞首f-會在一些固定條件下變爲h-。在多數標準西班牙語中，該發音最終都消失了，但同時也存在一些在某些詞彙中保留其發音的方言地區，如[安達魯西亞大部分地區](https://zh.wikipedia.org/wiki/安達魯西亞 "wikilink")，[埃斯特雷马杜拉](../Page/埃斯特雷马杜拉.md "wikilink")及[拉丁美洲](../Page/拉丁美洲.md "wikilink")（[阿斯圖里亞斯語的東部方言也保留部分保留](https://zh.wikipedia.org/wiki/阿斯圖里亞斯語 "wikilink")，這也是該語言的一個特徵。在其與卡斯蒂利亞語的過渡方言[坎塔布連方言](../Page/坎塔布連方言.md "wikilink")\[1\]及[埃斯特雷馬杜拉語](../Page/埃斯特雷馬杜拉語.md "wikilink")中也存在該現象）。該條目主要闡述現有研究及其成果，此外也會提到一些關於可能的影響因素的假設和理論。<span class="cx-segment" data-segmentid="16"></span>
 
 ## 拉丁語音韻學中的音素/f/

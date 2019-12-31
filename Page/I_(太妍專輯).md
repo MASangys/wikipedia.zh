@@ -1,3 +1,6 @@
+> 本文内容由[I \(太妍專輯\)](https://zh.wikipedia.org/wiki/I \(太妍專輯\))转换而来。
+
+
 《**I**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")（[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）[太妍的首張迷你專輯](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")，由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2015年10月8日發行。
 
 ## 發行

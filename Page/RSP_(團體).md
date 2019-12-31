@@ -1,3 +1,6 @@
+> 本文内容由[RSP \(團體\)](https://zh.wikipedia.org/wiki/RSP \(團體\))转换而来。
+
+
 **Real Street Performance**或**Real Street Project**，簡稱**RSP**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）\[1\]，曾經是[日本](../Page/日本.md "wikilink")的一個[流行音樂演唱及舞蹈團體組合](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，曾屬於MASTERSIX FOUNDATION、[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下。官方一般描述為「[Hip-hop](../Page/嘻哈音樂.md "wikilink")/[R\&B舞蹈工作室](../Page/节奏布鲁斯.md "wikilink")」。於2013年解散。
 
 ## 簡史

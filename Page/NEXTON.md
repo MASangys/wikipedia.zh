@@ -1,3 +1,6 @@
+> 本文内容由[NEXTON](https://zh.wikipedia.org/wiki/NEXTON)转换而来。
+
+
 **NEXTON**（ネクストン）是[日本](../Page/日本.md "wikilink")[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，位在[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")，成立於1993年2月24日。\[1\]\[2\]最早是以Nexton的品牌製作發售數款彈珠機遊戲，後來創立其他新品牌並改為製作發售成人遊戲為主。NEXTON社長鈴木昭彦同時也擔任[電腦軟體倫理機構的理事長](https://zh.wikipedia.org/wiki/電腦軟體倫理機構 "wikilink")。\[3\]
 
 ## 作品列表

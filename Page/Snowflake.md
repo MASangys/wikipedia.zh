@@ -1,3 +1,6 @@
+> 本文内容由[Snowflake](https://zh.wikipedia.org/wiki/Snowflake)转换而来。
+
+
 《**Snowflake**》，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[GFRIEND](../Page/GFRIEND.md "wikilink")的第三張迷你專輯，由[Source Music製作](../Page/Source_Music.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，於2016年1月25日推出。此專輯為「校園系列三部曲」的最後一部曲，共有7首歌曲，主打歌為《Rough》。《Snowflake》推出後，於[Gaon Chart專輯週榜排列第](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2，共售出33,000張。
 
 GFRIEND於韓國各大音樂節目表演及宣傳專輯，總共贏得15個冠軍。主打歌《Rough》的下載次數超過250萬次(截至2018年7月)，成為2月13日和20日的[Gaon Chart單曲週榜冠軍](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")。在專輯曲目方面，歌曲的風格與90年代末和2000年代的[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")十分相似。

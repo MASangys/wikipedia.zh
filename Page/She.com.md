@@ -1,3 +1,6 @@
+> 本文内容由[She.com](https://zh.wikipedia.org/wiki/She.com)转换而来。
+
+
 **she.com**，全名為**she communication limited**，是在2000年2月28日，由已故[安子介](../Page/安子介.md "wikilink")外孫[楊鼎立](https://zh.wikipedia.org/wiki/楊鼎立 "wikilink")（董事長及首席執行官）、林外山及林孝偉於[香港](../Page/香港.md "wikilink")（總部）成立。
 
 主要業務在香港和全球經營亞洲女性網站，同時為客戶提供資訊解決方案\[1\]\[2\]。

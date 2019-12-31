@@ -1,3 +1,6 @@
+> 本文内容由[PRIMAL×HEARTS](https://zh.wikipedia.org/wiki/PRIMAL×HEARTS)转换而来。
+
+
 《**PRIMAL×HEARTS**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2014年8月29日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2015年10月30日發售續作《[PRIMAL×HEARTS2](../Page/PRIMAL×HEARTS2.md "wikilink")》\[3\]，初回限定版的特典是本作Fan Disc《倉賀野聖良Love Love After》（倉賀野聖良らぶらぶアフター）。\[4\]
 
 ## 故事

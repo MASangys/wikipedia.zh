@@ -1,3 +1,6 @@
+> 本文内容由[PIN型二极管](https://zh.wikipedia.org/wiki/PIN型二极管)转换而来。
+
+
 [Pin-Diode.svg](https://zh.wikipedia.org/wiki/File:Pin-Diode.svg "fig:Pin-Diode.svg") **PIN型二极管**，又称**移相开关二极管**，\[1\]和普通的二层结构的PN结[二极管相比](https://zh.wikipedia.org/wiki/二极管 "wikilink")，PIN型二极管引入了I层：即在普通PN结二极管的由[P型半导体材料组成的P层和由](https://zh.wikipedia.org/wiki/P型半导体 "wikilink")[N型半导体材料组成的N层中间](https://zh.wikipedia.org/wiki/N型半导体 "wikilink")，插入一层低掺杂的纯度接近于[本征半导体](../Page/本征半导体.md "wikilink")材料组成的I层。如果I层材料为低掺杂的P型半导体，则该二极管可称为π型PIN二极管；如果I层材料为低掺杂的N型半导体，则该二极管可称为ν型PIN二极管。在PIN型二极管中，P层和N层通常由高掺杂的半导体材料组成。由于I层的存在，PIN型二极管通常比普通的二极管拥有更宽的[耗尽层](https://zh.wikipedia.org/wiki/耗尽层 "wikilink")，更大的[接面电阻和更小的](https://zh.wikipedia.org/wiki/接面电阻 "wikilink")[接面电容](https://zh.wikipedia.org/wiki/接面电容 "wikilink")。\[2\]在[射频与](https://zh.wikipedia.org/wiki/射频 "wikilink")[微波级别的电路中](https://zh.wikipedia.org/wiki/微波 "wikilink")，PIN型二极管经常被用作、和[衰减器](https://zh.wikipedia.org/wiki/衰减器 "wikilink")。\[3\]
 
 ## 原理

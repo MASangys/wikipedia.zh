@@ -1,3 +1,6 @@
+> 本文内容由[Μ\'s Best Album Best Live! collection II](https://zh.wikipedia.org/wiki/Μ\'s Best Album Best Live! collection II)转换而来。
+
+
 **LoveLive\! μ's Best Album Best Live\! collection II**（）是[μ's的第二张](https://zh.wikipedia.org/wiki/μ's "wikilink")[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，2015年5月27日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:星际迷航/Selected article](https://zh.wikipedia.org/wiki/Portal:星际迷航/Selected article)转换而来。
+
+
 __TOC__
 
 ## 说明

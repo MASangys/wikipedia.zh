@@ -1,3 +1,6 @@
+> 本文内容由[Hipmunk](https://zh.wikipedia.org/wiki/Hipmunk)转换而来。
+
+
 **Hipmunk**（風格化為**hipmunk**）是一家總部位於美國加州[舊金山的消費者向網上旅遊公司](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。它是由和[Reddit](../Page/Reddit.md "wikilink")聯合創辦人於2010件創立\[1\]。該公司專注於在視覺上整理航班搜尋結果\[2\]。它由於[Google](../Page/Google.md "wikilink")在2011年9月發佈它的，所以當時被媒體關注\[3\]\[4\]。
 
 2012年6月，Hipmunk在一輪由領導的B系列投資中取得1500萬美元，把它收到的投資增加至2000萬美元\[5\]。2014年5月，該公司宣佈在一輪C系列投資中再取得另外2000萬美元。該輪投資由有消費者旅遊經驗的領導。當時已是投資夥伴的機構創投和啟明創投，以及Hipmunk的天使投資者都有參與那輪投資\[6\]。

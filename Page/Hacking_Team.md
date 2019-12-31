@@ -1,3 +1,6 @@
+> 本文内容由[Hacking Team](https://zh.wikipedia.org/wiki/Hacking Team)转换而来。
+
+
 [Hacking_Team_logo.png](https://zh.wikipedia.org/wiki/File:Hacking_Team_logo.png "fig:Hacking_Team_logo.png") **Hacking Team**是一家總部在[意大利](../Page/意大利.md "wikilink")[米兰的](../Page/米蘭.md "wikilink")[信息技术](../Page/信息技术.md "wikilink")公司。该公司向政府部门及执法机构有偿提供电脑入侵及监视服务，允许政府监听网民的通信、解码加密文件、记录[Skype](../Page/Skype.md "wikilink")等网络电话通信、远程开启麦克风和摄像头。\[1\]该公司也因提供这些服务给不重视人权的一些政府而遭到批评。\[2\] Hacking Team声称如果政府利用它们的软件做出不道德行为，公司有能力禁用软件。\[3\]
 
 2014年6月，多伦多大学的一项报告详细分析了Hacking Team的远程控制系统的功能、架构和技术。\[4\]

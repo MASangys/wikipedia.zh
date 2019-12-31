@@ -1,3 +1,6 @@
+> 本文内容由[Now午間新聞](https://zh.wikipedia.org/wiki/Now午間新聞)转换而来。
+
+
 《**now午間新聞**》（）是[香港](../Page/香港.md "wikilink")[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作的新聞節目](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")，於[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")（只限部分時段）、[ViuTV](../Page/ViuTV.md "wikilink")播放（只同步12:00一節）。香港其他電視台同類節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[午間新聞](../Page/無綫電視午間新聞.md "wikilink")》及[有線電視的](../Page/香港有線電視.md "wikilink")《[有線新聞](../Page/有線新聞_\(電視節目\).md "wikilink")》（12:00-14:00時段）。
 
 午間新聞內容每小時更新一次。主播以及前線記者於午間時段詳盡報導即日頭條、突發新聞、政壇動態、國際時局，本地社會民生等新聞。

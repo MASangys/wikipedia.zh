@@ -1,3 +1,6 @@
+> 本文内容由[Concrete Revolutio～超人幻想～](https://zh.wikipedia.org/wiki/Concrete Revolutio～超人幻想～)转换而来。
+
+
 《**Concrete Revolutio～超人幻想～**》（）是[BONES和](../Page/BONES_\(動畫製作公司\).md "wikilink")[水島精二](../Page/水島精二.md "wikilink")推出的原創動畫，2015年10月4日開始播放。2016年4月3日起播放第二季《Concrete Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
 ## 故事簡介

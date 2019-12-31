@@ -1,3 +1,6 @@
+> 本文内容由[VS Media](https://zh.wikipedia.org/wiki/VS Media)转换而来。
+
+
 **VS MEDIA**是香港的一家網路創作者經紀及自媒體網絡公司，在台灣\[1\]和上海設有分公司。
 
 ## 公司背景

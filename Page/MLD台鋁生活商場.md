@@ -1,3 +1,6 @@
+> 本文内容由[MLD台鋁生活商場](https://zh.wikipedia.org/wiki/MLD台鋁生活商場)转换而来。
+
+
 [MLD台鋁生活商場.jpg](https://zh.wikipedia.org/wiki/File:MLD台鋁生活商場.jpg "fig:MLD台鋁生活商場.jpg") **都會生活開發股份有限公司**（英語：**Metropolitan Living Development**，簡稱：**MLD台鋁生活商場**、**MLD台鋁**），位於[高雄市](../Page/高雄市.md "wikilink")[前鎮區](../Page/前鎮區.md "wikilink")，是一間結合餐飲、影城、宴會、書屋、展演廳等生活娛樂與[文創的大型商場](https://zh.wikipedia.org/wiki/文創 "wikilink")。由「都會生活開發股份有限公司」以年租金[新臺幣](../Page/新臺幣.md "wikilink")3,198萬元標下經營權，商場是由[臺灣鋁業公司舊廠房改造](https://zh.wikipedia.org/wiki/臺灣鋁業公司 "wikilink")，於2015年7月2日開幕。\[1\]\[2\]
 
 ## 歷史

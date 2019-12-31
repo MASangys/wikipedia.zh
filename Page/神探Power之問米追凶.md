@@ -1,3 +1,6 @@
+> 本文内容由[神探Power之問米追凶](https://zh.wikipedia.org/wiki/神探Power之問米追凶)转换而来。
+
+
 是1994年首映的香港電影。由[王家衛](https://zh.wikipedia.org/wiki/王家衛 "wikilink"), [陳勳奇](../Page/陳勳奇.md "wikilink"), [左頌昇](../Page/左頌昇.md "wikilink")聯合編劇(掛名[陳家聲](https://zh.wikipedia.org/wiki/陳家聲 "wikilink"))\[1\]， [陳勳奇](../Page/陳勳奇.md "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，陳勳奇、[曾志偉](../Page/曾志偉.md "wikilink")、[翁慧德](../Page/翁慧德.md "wikilink")主演。
 
 ## 演员

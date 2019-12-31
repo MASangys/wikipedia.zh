@@ -1,3 +1,6 @@
+> 本文内容由[Kivy](https://zh.wikipedia.org/wiki/Kivy)转换而来。
+
+
 **Kivy**是開源[Python](../Page/Python.md "wikilink")函式庫，用於開發[行動應用程式和其它採用](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")[自然用户界面的](https://zh.wikipedia.org/wiki/自然用户界面 "wikilink")[多點觸控](../Page/多點觸控.md "wikilink")[應用軟件](https://zh.wikipedia.org/wiki/應用軟件 "wikilink")。它可以在[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Linux](../Page/Linux.md "wikilink")，[OS X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Windows執行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。採用[MIT授權條款](../Page/MIT許可證.md "wikilink")，Kivy是[自由並且](../Page/自由软件.md "wikilink")[開源的軟件](../Page/开源软件.md "wikilink")。
 
 Kivy的主要架構由Kivy組織開發，\[1\] 並有Python用於Android，\[2\]Kivy iOS，\[3\]和其它許多函式庫被使用在所有平台。在2012年，Kivy從[Python軟體基金會](../Page/Python軟體基金會.md "wikilink")獲得$5000美元補助，用於移植Kivy到Python 3.3。\[4\]Kivy也支援由[Bountysource贊助的](https://zh.wikipedia.org/wiki/Bountysource "wikilink")[樹莓派](https://zh.wikipedia.org/wiki/樹莓派 "wikilink")。\[5\]

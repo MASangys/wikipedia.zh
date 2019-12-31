@@ -1,3 +1,6 @@
+> 本文内容由[Gathering of Developers](https://zh.wikipedia.org/wiki/Gathering of Developers)转换而来。
+
+
 **Gathering of Developers**（又名为**God Games and Gathering**）是一个德克萨斯州的游戏出版公司，成立于1998年1月，宗旨为弥补发行商和独立游戏开发者之间的差距，允许独立开发者控制自己的项目、所有权和知识产权，并参与出版和营销决策。该公司是由几个有经验的开发公司合作的游戏发行商。该公司后来成为[Take-Two Interactive的子公司](../Page/Take-Two_Interactive.md "wikilink")。
 
 Take-Two在2000年5月将其进行收购，并试图获得德克萨斯组的管理权但不成功。创始人和G.O.D.的员工不满公司不允许开发者和知识产权所有权具备公平待遇原则。创始人道格·迈尔斯在2001年5月突然去世，促使其他合作伙伴进行谈判后不久与公司分离。最终，Take-Two接管所有操管理，此后，Gathering of Developers成为[2K Games的品牌](../Page/2K_Games.md "wikilink")。

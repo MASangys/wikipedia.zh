@@ -1,3 +1,6 @@
+> 本文内容由[阿爾斯通Citadis](https://zh.wikipedia.org/wiki/阿爾斯通Citadis)转换而来。
+
+
 **阿爾斯通Citadis**，是[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[阿爾斯通公司於法國](https://zh.wikipedia.org/wiki/阿爾斯通公司 "wikilink")[拉羅歇爾及](https://zh.wikipedia.org/wiki/拉羅歇爾 "wikilink")[西班牙](../Page/西班牙.md "wikilink")[巴塞隆拿生產的低地台電車](https://zh.wikipedia.org/wiki/巴塞隆拿 "wikilink")，至2008年已經生產了1,140架次，並且在全球28個城市中使用\[1\]。
 
 ## 車廂種類

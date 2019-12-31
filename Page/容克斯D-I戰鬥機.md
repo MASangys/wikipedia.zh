@@ -1,3 +1,6 @@
+> 本文内容由[容克斯D-I戰鬥機](https://zh.wikipedia.org/wiki/容克斯D-I戰鬥機)转换而来。
+
+
 **容克斯D-I戰鬥機**(工廠編號**J 9**)是[胡戈·容克斯](../Page/胡戈·容克斯.md "wikilink")在[第一次世界大戰期間在全金屬下](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[單翼戰鬥機方面作出的嘗試](../Page/單翼機.md "wikilink")\[1\]，而在之前他已推出全金屬的[J.I攻擊機並獲](https://zh.wikipedia.org/wiki/J.I攻擊機 "wikilink")[德意志帝國](../Page/德意志帝國.md "wikilink")[陸軍](../Page/德意志帝國陸軍.md "wikilink")[航空隊採用](https://zh.wikipedia.org/wiki/航空隊 "wikilink")，1917年初再進一步開始研發容克斯D-I戰鬥機但此機可說是生不逢時，從1918年6月開始生產至一戰結束祇有41架出廠而且並無實戰記錄，一戰後的1919年1月，戰勝的[協約國](../Page/協約國.md "wikilink")在[比利時找到](../Page/比利时.md "wikilink")5架，之後發表的官方報告宣稱「從未有人見過容克斯D-I戰鬥機飛上天」，此機除了科技上的突破外對參加一次大戰的德國並無幫助。
 
 創立於1895年的[容克斯](../Page/容克斯.md "wikilink")飛機與發動機製造廠原本是製造蒸汽渦輪機等機械零件的工廠，當一次大戰爆發時才被德國政府徵召研製飛機。

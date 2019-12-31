@@ -1,3 +1,6 @@
+> 本文内容由[Sunshine](https://zh.wikipedia.org/wiki/Sunshine)转换而来。
+
+
 **Sunshine**是由5位来自[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")[安徽省](../Page/安徽省.md "wikilink")[亳州市](../Page/亳州市.md "wikilink")的少女组成的草根青少年偶像团体组合，于2015年12月15日出道并且发行网络单曲《甜蜜具现式》\[1\]\[2\]\[3\]。在2016年春节期间经中國網站[新浪微博](../Page/新浪微博.md "wikilink")用户「娱八婆」\[4\]于2016年2月11日新浪微博发布后，由于成员外貌和演唱能力與普遍定義的偶像团体存在極大的差异，以及出道時打著要成為女版[TFBOYS](../Page/TFBOYS.md "wikilink")的名號，从而引起[中国大陸网络热议](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。
 
 ## 组合成员

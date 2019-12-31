@@ -1,3 +1,6 @@
+> 本文内容由[塞缪尔·J·兰德尔](https://zh.wikipedia.org/wiki/塞缪尔·J·兰德尔)转换而来。
+
+
 **塞缪尔·杰克逊·兰德尔**（，）是美国[民主党政治家](../Page/民主党_\(美国\).md "wikilink")，于19世纪下半叶担任[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[联邦众议员](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")，曾是第33任[众议院议长](https://zh.wikipedia.org/wiki/美国众议院议长 "wikilink")，并两次参与党派[美国总统](../Page/美国总统.md "wikilink")候选人提名的竞争。
 
 兰德尔生于[费城](https://zh.wikipedia.org/wiki/费城 "wikilink")[辉格党政治世家](https://zh.wikipedia.org/wiki/辉格党_\(美国\) "wikilink")，在辉格党消亡后加入民主党。19世纪50年代，兰德尔当选费城市议员，拉开从政生涯序幕，接下来又进入[宾夕法尼亚州参议院](https://zh.wikipedia.org/wiki/宾夕法尼亚州参议院 "wikilink")。[南北战争](../Page/南北战争.md "wikilink")期间，兰德尔在[北军骑兵队服役](https://zh.wikipedia.org/wiki/北军 "wikilink")，于1862年当选联邦众议员，此后一直连任直至去世。作为工业州的代表，兰德尔以坚定捍卫旨在帮助国内制造行业对抗国际竞争的[保护性关税著称](../Page/贸易保护主义.md "wikilink")。虽然在关税问题上经常同[共和党人站在一边](https://zh.wikipedia.org/wiki/共和党_\(美国\) "wikilink")，但他也像其他大部分民主党议员一样反对[重建法案和联邦权力的扩张](https://zh.wikipedia.org/wiki/美国重建时期 "wikilink")。

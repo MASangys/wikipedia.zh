@@ -1,3 +1,6 @@
+> 本文内容由[EIKEN](https://zh.wikipedia.org/wiki/EIKEN)转换而来。
+
+
 **株式會社EIKEN**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[荒川區](../Page/荒川區.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1969年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革

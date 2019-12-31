@@ -1,3 +1,6 @@
+> 本文内容由[数字恶魔物语 女神转生II](https://zh.wikipedia.org/wiki/数字恶魔物语 女神转生II)转换而来。
+
+
 《-{zh-cn:数字; zh-tw:數碼; zh-hk:電子;}-恶魔物语 女神转生II》是一款 [南梦宫](../Page/南梦宫.md "wikilink")发行、 [ATLUS开发的](https://zh.wikipedia.org/wiki/ATLUS "wikilink") [角色扮演游戏](../Page/角色扮演游戏.md "wikilink")。[SFC上的一个增强重制版则是在](https://zh.wikipedia.org/wiki/SFC_\(消歧義\) "wikilink")1995年由Opera House制作并由Atlus发行的。本游戏是《 [女神转生](https://zh.wikipedia.org/wiki/女神转生 "wikilink")》系列的第二作，主要描述了无名的主角于后启示录废土探索，并于恶魔战斗或将其召募。因为主角被迫参与了 [路西法](../Page/路西法.md "wikilink")的恶魔势力同 [Y・H・V・H军之间的斗争](../Page/四字神名.md "wikilink")。
 
 游戏在1987年开发，那是在前作《-{zh-cn:数字; zh-tw:數碼; zh-hk:電子;}-恶魔物语 女神转生》发布之后。虽然第一部游戏改编自小说三部曲，但《女神转生II》却有一个探讨了关于秩序与混乱描绘之偏见的原创故事。冈田口司和增子司分别作为导演和作曲家而回归，但图像部分却是由 [金子一马设计的](https://zh.wikipedia.org/wiki/金子一马 "wikilink")。游戏一发售，就受到了一致的好评。其中的一部分在1992年的SFC游戏《 [真女神转生](https://zh.wikipedia.org/wiki/真女神转生 "wikilink")》中重制，而后者被认为是整个系列中最具影响力的。

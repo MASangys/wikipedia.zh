@@ -1,3 +1,6 @@
+> 本文内容由[Lepidochitona](https://zh.wikipedia.org/wiki/Lepidochitona)转换而来。
+
+
 ******是[多板纲](../Page/多板纲.md "wikilink")[新石鳖亞綱](https://zh.wikipedia.org/wiki/新石鳖亞綱 "wikilink")[石鳖目](../Page/石鳖目.md "wikilink")[鬃毛石鱉總科](https://zh.wikipedia.org/wiki/鬃毛石鱉總科 "wikilink")[Lepidochitonidae](../Page/Lepidochitonidae.md "wikilink")科之下的一個[屬](https://zh.wikipedia.org/wiki/屬_\(生物\) "wikilink")。本屬曾被編入[Tonicellidae](../Page/Tonicellidae.md "wikilink")、[薄石鱉科](../Page/薄石鱉科.md "wikilink")\[1\]。
 
 *[L. raymondi](https://zh.wikipedia.org/wiki/Lepidochitona_raymondi "wikilink")*是多板綱唯一的一個[雌雄間性](../Page/雌雄間性.md "wikilink")物種\[2\]。

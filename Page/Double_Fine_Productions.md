@@ -1,3 +1,6 @@
+> 本文内容由[Double Fine Productions](https://zh.wikipedia.org/wiki/Double Fine Productions)转换而来。
+
+
 **Double Fine Productions**是一間[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子遊戲開發公司](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，由[提姆·謝弗](../Page/提姆·謝弗.md "wikilink")在離開[LucasArts](../Page/LucasArts.md "wikilink")後於2000年創立，總部位於[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")\[1\]。謝弗與程式設計師[大衛·迪克森](https://zh.wikipedia.org/wiki/大衛·迪克森 "wikilink")（David Dixon）和[強納森·曼茲](https://zh.wikipedia.org/wiki/強納森·曼茲 "wikilink")（Jonathan Menzies）在舊金山的一間木底鞋店舊址內成立了Double Fine工作室。在進行一款遊戲實驗版本的數個月後，來自《[神通鬼大](../Page/神通鬼大.md "wikilink")》團隊的成員和其他新員工陸續加入了遊戲的開發行列，該遊戲最後成為《[瘋狂世界](../Page/瘋狂世界.md "wikilink")》（*Psychonauts*）這款作品，並在2005年4月發行。\[2\]2019年，[微软](../Page/微软.md "wikilink")宣布收购Double Fine Productions，成为[Xbox游戏工作室](../Page/Xbox游戏工作室.md "wikilink")旗下的一员。
 
 雖然該公司最初的兩款遊戲《瘋狂世界》和《[惡黑搖滾](https://zh.wikipedia.org/wiki/惡黑搖滾 "wikilink")》（*Brütal Legend*）皆獲得許多正面評價，但作品的商業表現並不令發行公司滿意。直到謝弗著手將數款被稱為「Amnesia Fortnight」的公司內部遊戲原型以數位下載的方式推出，透過發行商釋出授權並獲得商業上的成功後，Double Fine的發展才開始進入穩定。謝弗之後繼續將這些「Amnesia Fortnight」中的作品推出，並透過支持者投票機制來決定了多款[小型遊戲作品的開發](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。此外，Double Fine也受益於電子遊戲[群眾募資](../Page/群眾募資.md "wikilink")的興盛，其中《[破碎時光](../Page/破碎時光.md "wikilink")》透過群眾募資獲得了超過300萬美元的開發資金，是[Kickstarter](../Page/Kickstarter.md "wikilink")網站上當時最大型的募資計劃之一。

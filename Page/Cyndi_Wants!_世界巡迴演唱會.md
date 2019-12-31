@@ -1,3 +1,6 @@
+> 本文内容由[Cyndi Wants! 世界巡迴演唱會](https://zh.wikipedia.org/wiki/Cyndi Wants! 世界巡迴演唱會)转换而来。
+
+
 《**Cyndi Wants！World Tours 2016王心凌世界巡迴演唱會**》，是[臺灣](../Page/臺灣.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[王心凌](../Page/王心凌.md "wikilink")出道十二年的首次世界巡迴售票演唱會，該巡演於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[臺北小巨蛋展開](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")。 臺北場於2015年10月23日開始售票，並於2016年1月2日舉行。
 
 ## 簡介

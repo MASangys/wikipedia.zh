@@ -1,3 +1,6 @@
+> 本文内容由[WINTER of LOVE](https://zh.wikipedia.org/wiki/WINTER of LOVE)转换而来。
+
+
 《**WINTER of LOVE**》，是日本歌手倖田來未於2016年1月20日發行的企劃精選輯。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Rev. from DVL](https://zh.wikipedia.org/wiki/Rev. from DVL)转换而来。
+
+
 **Rev. from DVL**，有時會簡稱為**Rev.**，是一個以[日本](../Page/日本.md "wikilink")[福岡地區為主要活動據點的](../Page/福岡市.md "wikilink")[在地](../Page/在地偶像.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，是福岡當地的藝能製作與經紀公司（，ActiveHakata）旗下的藝人與團體之一。成立於2011年的Rev. from DVL，在2013年底時因核心成員[橋本環奈](../Page/橋本環奈.md "wikilink")一張活動現場照在[社群媒體上的廣泛傳閱而知名度大開](https://zh.wikipedia.org/wiki/社群媒體 "wikilink")，並在隔年4月16日在[吉本興業](../Page/吉本興業.md "wikilink")旗下的[吉本R\&C支持下推出第一張單曲唱片](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")《》，且順利進入[Oricon](../Page/Oricon.md "wikilink")單曲榜內。
 
 ## 歷史

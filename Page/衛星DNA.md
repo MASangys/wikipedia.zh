@@ -1,3 +1,6 @@
+> 本文内容由[衛星DNA](https://zh.wikipedia.org/wiki/衛星DNA)转换而来。
+
+
 **衛星DNA**由串联排列、不断重复的[非編碼DNA](../Page/非編碼DNA.md "wikilink")组成，它是[着絲粒](../Page/着絲粒.md "wikilink")的主要组成部分，也是[異染色質](../Page/異染色質.md "wikilink")的主要结构部分\[1\]。
 
 ## 类型

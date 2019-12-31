@@ -1,3 +1,6 @@
+> 本文内容由[F·加里·格雷](https://zh.wikipedia.org/wiki/F·加里·格雷)转换而来。
+
+
 **-{zh-tw:費力克斯;zh-cn:菲力克斯;zh-hk:菲力士;}-·加里·格雷**（，），非洲裔美国电影导演、监制和MV导演。\[1\] 代表作有《[王牌对王牌](../Page/王牌对王牌.md "wikilink")》、《[天羅盜網](../Page/天羅盜網.md "wikilink")》、《[冲出康普顿](../Page/冲出康普顿.md "wikilink")》和《[玩命關頭8](../Page/玩命關頭8.md "wikilink")》。
 
 ## 生平

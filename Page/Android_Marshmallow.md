@@ -1,3 +1,6 @@
+> 本文内容由[Android Marshmallow](https://zh.wikipedia.org/wiki/Android Marshmallow)转换而来。
+
+
 **Android Marshmallow**\[1\]是[Google](../Page/Google.md "wikilink")繼[Android Lollipop之後开发的](../Page/Android_Lollipop.md "wikilink")[Android](../Page/Android.md "wikilink")[移动操作系统](https://zh.wikipedia.org/wiki/移动操作系统 "wikilink")，于2015年10月正式发布\[2\]。Marshmallow的中文名稱為[棉花糖](https://zh.wikipedia.org/wiki/棉花糖 "wikilink")。
 
 ## 历史

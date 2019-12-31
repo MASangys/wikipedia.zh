@@ -1,3 +1,6 @@
+> 本文内容由[賓得士K-5 II](https://zh.wikipedia.org/wiki/賓得士K-5 II)转换而来。
+
+
 **賓得士 K-5 II**（**Pentax K-5 II**）是[賓得士](../Page/賓得士.md "wikilink")的16.3百萬像素[數位單眼相機](../Page/數位單眼相機.md "wikilink")，是[宾得 K-5的後繼機種](https://zh.wikipedia.org/wiki/宾得_K-5 "wikilink")。K-5 II的機身與先前的[K-7和K](https://zh.wikipedia.org/wiki/宾得_K-7 "wikilink")-5幾乎相同，並且在性能上比K-5有一定增進。K-5 II 有兩個版本，基本版為 K-5 II；另有取消先前數位相機會裝配的[抗混叠滤波器的K](https://zh.wikipedia.org/wiki/抗混叠滤波器 "wikilink")-5 IIs，可使影像更加清晰，但可能使影像更容易出現[莫列波紋](../Page/莫列波紋.md "wikilink")。
 
 ## 功能增進

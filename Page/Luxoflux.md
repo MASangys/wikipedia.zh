@@ -1,3 +1,6 @@
+> 本文内容由[Luxoflux](https://zh.wikipedia.org/wiki/Luxoflux)转换而来。
+
+
 **Luxoflux**，是美国游戏开发商。它是由 Peter Morawiec和阿德里安·斯蒂芬斯在1997年1月在加利福利亚州圣莫尼卡成立。
 
 2002年10月，动视宣布收购Luxoflux。2010年2月11日，动视在一次裁员中宣布关闭工作室。\[1\]

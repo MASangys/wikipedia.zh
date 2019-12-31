@@ -1,3 +1,6 @@
+> 本文内容由[CBO戏剧频道](https://zh.wikipedia.org/wiki/CBO戏剧频道)转换而来。
+
+
 **中国电视剧频道**（）是[新加坡](../Page/新加坡.md "wikilink")[新電信擁有的頻道](../Page/新电信电视.md "wikilink")，专为播出内地电视剧，连续6小时。
 
 ## 节目

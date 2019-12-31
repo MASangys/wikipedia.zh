@@ -1,3 +1,6 @@
+> 本文内容由[李柏·M](https://zh.wikipedia.org/wiki/李柏·M)转换而来。
+
+
 **李柏罕·莫瑞克**（，）是出生[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[約翰尼斯堡](https://zh.wikipedia.org/wiki/約翰尼斯堡 "wikilink")[索維托的男性民族歌手](https://zh.wikipedia.org/wiki/索維托 "wikilink")、作曲家，個人所採用的藝名為「李柏·M」（）。曾擔任1994年[迪士尼動畫](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")《[獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")》開頭曲《[生生不息](../Page/生生不息.md "wikilink")》中；在歌曲前段[祖魯語部份的演唱](https://zh.wikipedia.org/wiki/祖魯語 "wikilink")。
 
 ## 經歷

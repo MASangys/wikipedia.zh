@@ -1,3 +1,6 @@
+> 本文内容由[IMAX中國](https://zh.wikipedia.org/wiki/IMAX中國)转换而来。
+
+
 **IMAX中國控股公司**（，英语缩写为：），中文簡稱**IMAX中國**。1980年，由[加拿大](../Page/加拿大.md "wikilink")[IMAX](../Page/IMAX.md "wikilink")公司，於[香港](../Page/香港.md "wikilink")開設第一間IMAX影院，之後在2001年在[中國大陸透過向博物館與科學中心提供其影院系統業務](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
 
 IMAX中國股份則在2015年10月8日於港交所主板上市，全球發售6,200萬股，集資18.48億至21.39億港元，其中投資者方源資本和由黎瑞剛持有[華人文化產業投資基金會配售股份](https://zh.wikipedia.org/wiki/華人文化產業投資基金 "wikilink")，而TCL、華夏基金、Davidson Funds、Hutchin Hill Capital Primary Fund, Ltd. 、Myriad Opportunities Master Fund Limited做基礎投資者\[1\]\[2\]\[3\]\[4\]。

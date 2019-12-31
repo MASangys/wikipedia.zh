@@ -1,3 +1,6 @@
+> 本文内容由[模块:RoundN](https://zh.wikipedia.org/wiki/模块:RoundN)转换而来。
+
+
 local numberToChinese = require('Module:NumberToChinese')._numberToChinese
 
 local p = {

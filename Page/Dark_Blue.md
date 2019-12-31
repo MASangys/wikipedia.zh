@@ -1,3 +1,6 @@
+> 本文内容由[Dark Blue](https://zh.wikipedia.org/wiki/Dark Blue)转换而来。
+
+
 《**Dark Blue**》是LiLiM DARKNESS在2009年11月27日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，BLUE系列的第5個作品。在2011年5月26日發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\][OVA是由PoRO發售](https://zh.wikipedia.org/wiki/OVA "wikilink")。\[4\]
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[GTP\'](https://zh.wikipedia.org/wiki/GTP\')转换而来。
+
+
 **GTP**'（GTP prime）是一个用于[GSM](../Page/GSM.md "wikilink")和[UMTS通信网络的基于](https://zh.wikipedia.org/wiki/UMTS "wikilink")[IP网络的协议](https://zh.wikipedia.org/wiki/IP "wikilink")。它可以使用[UDP或](https://zh.wikipedia.org/wiki/UDP "wikilink")[TCP的传输](https://zh.wikipedia.org/wiki/TCP "wikilink")。尽管GTP'协议的消息结构与[GTP相同](../Page/GPRS隧道协议.md "wikilink")（包括控制面的GTP-C和用户面的GTP-U），它仍是一个独立协议。GTP'协议使用UDP/TCP端口3386。
 
 GTP'的功能是在GSM、UMTS和[LTE核心网中将计费数据从计费数据功能](../Page/系统架构演进.md "wikilink")（）传输到计费网关功能（）。计费数据功能是对“计费”这一功能的抽象，以具体网元为例，通常是GGSN或SGSN等。而计费网关功能通常是一台中心服务器，收集各网元的计费数据，再统一传输给网络运营商的计费中心（）最终生成账单。

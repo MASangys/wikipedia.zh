@@ -1,3 +1,6 @@
+> 本文内容由[Fraternite](https://zh.wikipedia.org/wiki/Fraternite)转换而来。
+
+
 是日本遊戲品牌[CLOCKUP於](https://zh.wikipedia.org/wiki/CLOCKUP "wikilink")2014年7月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2019年9月27日發售HD版。標題「fraternite」指的是法文的「友愛」（fraternité）。這是自CLOCKUP在2011年發表的《[euphoria](https://zh.wikipedia.org/wiki/euphoria_\(遊戲\) "wikilink")》以來第二部獵奇作品。
 
 ## 故事

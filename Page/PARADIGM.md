@@ -1,3 +1,6 @@
+> 本文内容由[PARADIGM](https://zh.wikipedia.org/wiki/PARADIGM)转换而来。
+
+
 **PARADIGM**（パラダイム）是日本的出版社，位於東京都杉並區。主要出版[美少女遊戲](../Page/美少女遊戲.md "wikilink")的小說為主。\[1\]
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[RSSSF](https://zh.wikipedia.org/wiki/RSSSF)转换而来。
+
+
 **紀錄·體育·足球數據基金會（Rec.Sport.Soccer Statistics Foundation）**，簡稱**RSSSF**，是一個國際業餘機構，收集足球數據。基金會目的是建立一個全球性的超級足球資訊庫。
 
 ## 參考

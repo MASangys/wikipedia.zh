@@ -1,3 +1,6 @@
+> 本文内容由[Puck](https://zh.wikipedia.org/wiki/Puck)转换而来。
+
+
 《**Puck！**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年1月1日播出的[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢](../Page/孫秀賢.md "wikilink")及[郭東延](../Page/郭東延.md "wikilink")主演，[李光英導演執導](https://zh.wikipedia.org/wiki/李光英 "wikilink")，[尹賢浩編劇執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
 
 ## 劇情

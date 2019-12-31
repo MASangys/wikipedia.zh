@@ -1,3 +1,6 @@
+> 本文内容由[BP步行桥](https://zh.wikipedia.org/wiki/BP步行桥)转换而来。
+
+
 **BP步行桥**（，或简称）是一座位于[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")[卢普区](../Page/卢普区.md "wikilink")[千禧公园内的箱梁](https://zh.wikipedia.org/wiki/千禧公园 "wikilink")[行人天桥](https://zh.wikipedia.org/wiki/行人天桥 "wikilink")。它横跨哥伦布道，并连接千禧公园和麦琪戴利公园（Maggie Daley Park，更名前为Daley Bicentennial Plaza）。这两个公园由[普利策獎得主](https://zh.wikipedia.org/wiki/普利策獎 "wikilink")[弗兰克·盖里设计](https://zh.wikipedia.org/wiki/弗兰克·盖里 "wikilink")，是[格兰特公园的主要组成部分](https://zh.wikipedia.org/wiki/格兰特公园 "wikilink")，并于2004年7月16日和千禧公园其他设施一起向公众开放\[1\]。
 
 当时，芝加哥的城市委员会邀请盖里设计该步行桥和附近的[傑·普利茲克露天音樂廳](../Page/傑·普利茲克露天音樂廳.md "wikilink")，并最后在普立兹克家族提供建设音乐厅的基金后得到盖里的同意\[2\]\[3\]\[4\]。步行桥以为建设工程捐助500万[美元](../Page/美元.md "wikilink")的[英国石油公司](https://zh.wikipedia.org/wiki/英国石油公司 "wikilink")（BP）命名，它也是盖里第一座完工的桥\[5\]。

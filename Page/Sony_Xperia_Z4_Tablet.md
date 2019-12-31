@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia Z4 Tablet](https://zh.wikipedia.org/wiki/Sony Xperia Z4 Tablet)转换而来。
+
+
 **Sony Xperia Z4 Tablet**是索尼於2015年2月於[西班牙](../Page/西班牙.md "wikilink")[巴塞羅那](https://zh.wikipedia.org/wiki/巴塞羅那 "wikilink")[世界移動通信大會發佈的](https://zh.wikipedia.org/wiki/世界移動通信大會 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，搭載[Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")、3 GB RAM、32 GB ROM。此機種為[索尼Xperia Z2 Tablet的後繼機種](https://zh.wikipedia.org/wiki/索尼Xperia_Z2_Tablet "wikilink")。
 
 ## 設計特點

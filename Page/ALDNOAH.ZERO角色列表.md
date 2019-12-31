@@ -1,3 +1,6 @@
+> 本文内容由[ALDNOAH.ZERO角色列表](https://zh.wikipedia.org/wiki/ALDNOAH.ZERO角色列表)转换而来。
+
+
 **ALDNOAH.ZERO角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")》及其外傳登場的角色。
 
 ## 主要人物

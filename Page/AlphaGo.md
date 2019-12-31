@@ -1,3 +1,6 @@
+> 本文内容由[AlphaGo](https://zh.wikipedia.org/wiki/AlphaGo)转换而来。
+
+
 \-{H|zh-cn:蒙特卡洛;zh-tw:蒙地卡羅}- -{H|zh-cn:账号;zh-tw:帳號}- -{H|zh-cn:身份;zh-tw:身分}-
 
 [Alphago_logo.svg](https://zh.wikipedia.org/wiki/File:Alphago_logo.svg "fig:Alphago_logo.svg") （“Go”为日文“碁”字发音转写，是[围棋](../Page/围棋.md "wikilink")的西方名称），直译为**阿尔法围棋**，亦被音译为**阿尔法狗**\[1\]\[2\]、**阿法狗**\[3\]、**阿发狗**\[4\]\[5\]等，是於2014年开始由[英国伦敦](https://zh.wikipedia.org/wiki/英国 "wikilink")[Google DeepMind开发的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[人工智能](../Page/人工智能.md "wikilink")[圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")，以及對應的電影紀錄片《[AlphaGo世紀對決](../Page/AlphaGo世紀對決.md "wikilink")》。

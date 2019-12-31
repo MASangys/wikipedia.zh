@@ -1,3 +1,6 @@
+> 本文内容由[花澤香菜和雨宮天的RADIO GREE NIGHT](https://zh.wikipedia.org/wiki/花澤香菜和雨宮天的RADIO GREE NIGHT)转换而来。
+
+
 **花澤香菜和雨宮天的RADIO GREE NIGHT**（）是由[文化放送推出的一档](../Page/文化放送_\(日本\).md "wikilink")\[1\]。
 
 ## 概要

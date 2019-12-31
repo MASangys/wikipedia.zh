@@ -1,3 +1,6 @@
+> 本文内容由[AKB恐怖夜 腎上腺素之夜](https://zh.wikipedia.org/wiki/AKB恐怖夜 腎上腺素之夜)转换而来。
+
+
 ，2015年10月8日起每週四凌晨1:41 - 1:56（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[日本](../Page/日本.md "wikilink")短篇電視劇，此劇改編自[秋元康](../Page/秋元康.md "wikilink")於2009年創作之小說《腎上腺素之夜》（）\[1\]，[奇數集於](https://zh.wikipedia.org/wiki/奇數 "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")播出，[偶數集於付費頻道播出](https://zh.wikipedia.org/wiki/偶數 "wikilink")\[2\]。
 
 ## 企畫製作

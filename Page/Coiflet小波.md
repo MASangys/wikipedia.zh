@@ -1,3 +1,6 @@
+> 本文内容由[Coiflet小波](https://zh.wikipedia.org/wiki/Coiflet小波)转换而来。
+
+
 [Wavelet_Coif1.svg](https://zh.wikipedia.org/wiki/File:Wavelet_Coif1.svg "fig:Wavelet_Coif1.svg") **Coiflet小波**是[英格麗·多貝西](https://zh.wikipedia.org/wiki/英格麗·多貝西 "wikilink")（Ingrid Daubechies）應Ronald Coifman的要求所設計的一種離散[小波](https://zh.wikipedia.org/wiki/小波 "wikilink")。Coiflet小波的調整函式（scaling function）及小波函式（wavelet function）能同時擁有高消失動量，且其波形接近對稱，常被用於[數位訊號處理](https://zh.wikipedia.org/wiki/數位訊號處理 "wikilink")。\[1\]
 
 ## 性質

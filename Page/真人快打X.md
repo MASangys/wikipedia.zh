@@ -1,3 +1,6 @@
+> 本文内容由[真人快打X](https://zh.wikipedia.org/wiki/真人快打X)转换而来。
+
+
 是一款由[NetherRealm Studios开发的](https://zh.wikipedia.org/wiki/NetherRealm_Studios "wikilink")[格斗游戏](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")，是[真人快打系列](../Page/真人快打系列.md "wikilink")的第十部作品，2015年4月14日登陆[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Xbox One和](../Page/Xbox_One.md "wikilink")[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。NetherRealm的移动平台工作组开发了[IOS](../Page/IOS.md "wikilink")和[安卓版本](https://zh.wikipedia.org/wiki/安卓 "wikilink")，IOS版已于2015年4月7日在世界范围内发布，安卓版于2015年5月4日发布。\[1\]
 
 真人快打X一经发布就得到了积极的评价，从操作性、游戏画面、剧情和角色而言，有评论者认为该作是真人快打系列中最佳的一作。但也有人认为游戏的教程、[收费](https://zh.wikipedia.org/wiki/微收费 "wikilink")、[DLC和在线游戏可玩性有一定的问题](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。游戏的PC版本也由于许多技术问题遭到批评。

@@ -1,3 +1,6 @@
+> 本文内容由[Tengine](https://zh.wikipedia.org/wiki/Tengine)转换而来。
+
+
 **Tengine**是一個由[淘寶從](https://zh.wikipedia.org/wiki/淘寶 "wikilink")[Nginx](../Page/Nginx.md "wikilink")[複刻出來的](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")[HTTP伺服器](https://zh.wikipedia.org/wiki/HTTP伺服器 "wikilink")\[1\]，現時版本為2.2.2\[2\]。Tengine對Nginx的修改版本是於2011年12月開始釋放出來成为开源项目\[3\]，两者配置兼容\[4\]。Tengine雖然從Nginx復刻出來，但不斷從Nginx继承其更新，所以目前的版本兼容Nginx最新版1.8.1的所有特性，亦有[HTTP2模块同步于Nginx](https://zh.wikipedia.org/wiki/HTTP/2 "wikilink") 1.11.6\[5\]。相比於Nginx目前佔整個HTTP伺服器市場接近四成的巨量，目前Tengine的市場佔有率只有0.2%\[6\]。
 
 ## 與Nginx的差異

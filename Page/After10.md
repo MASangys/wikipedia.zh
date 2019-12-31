@@ -1,3 +1,6 @@
+> 本文内容由[After10](https://zh.wikipedia.org/wiki/After10)转换而来。
+
+
 **After10**為香港獨立樂隊，於2014年成立，成員為主音及結他手陳永康、低音結他手姚榮豐及鼓手陳仲偉。三人為前[RedNoon](../Page/RedNoon.md "wikilink")成員，分別於10年及11年以RedNoon名義發過兩張專輯《[Redvolution](../Page/Redvolution.md "wikilink")》、《[WHOCARES](https://zh.wikipedia.org/wiki/WHOCARES "wikilink")》，13年RedNoon解散後另組After10。2014年8月14日，After10於香港藝穗會舉辦首個音樂會「AFTER10 大步走向我中心 One Big Step Live」，同月首支單曲《大步走向我中心》派台。2015年2月第二支單曲《低沉》派台，坊間反應不俗。同年10月第三支單曲《上個你下個你》派台。2016年4月30日，After10於中環摩天輪下Milkmart市集翻唱盧冠廷歌曲《一生所愛》，原唱者盧冠廷突然中途加入合唱，現場及網上看影片的觀眾均表示感動\[1\]。2016年6月，單曲《大頭佛》派台。2017年8月，單曲《層壓時代》派台，現正錄製樂隊首張大碟。
 
 ## 成員

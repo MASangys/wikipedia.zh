@@ -1,3 +1,6 @@
+> 本文内容由[Toradex](https://zh.wikipedia.org/wiki/Toradex)转换而来。
+
+
 [Apalis-imx6-freescale.jpg](https://zh.wikipedia.org/wiki/File:Apalis-imx6-freescale.jpg "fig:Apalis-imx6-freescale.jpg") \]\] [Freescale-vybrid-vf6xx-computer-on-module.jpg](https://zh.wikipedia.org/wiki/File:Freescale-vybrid-vf6xx-computer-on-module.jpg "fig:Freescale-vybrid-vf6xx-computer-on-module.jpg")  \]\] [Nvidia-tegra-3-computer-on-module.jpg](https://zh.wikipedia.org/wiki/File:Nvidia-tegra-3-computer-on-module.jpg "fig:Nvidia-tegra-3-computer-on-module.jpg") [Tegra](../Page/图睿.md "wikilink") 3 \]\]
 
 **韬睿(Toradex)** 韬睿是一家从事设计和开发嵌入计算机模块（COM）或模块系统（SOM）以及配套底板和配件的瑞士公司。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[DPDK](https://zh.wikipedia.org/wiki/DPDK)转换而来。
+
+
 **DPDK**（Data Plane Development Kit），是一组快速處理[数据包的开发平台及接口](https://zh.wikipedia.org/wiki/数据包 "wikilink")。\[1\]\[2\] ，运行于[Intel X86與arm平台上](https://zh.wikipedia.org/wiki/x86 "wikilink")（最新版本也开始支持[PowerPC](../Page/PowerPC.md "wikilink")\[3\]）。该平台采用[BSD许可证](../Page/BSD许可证.md "wikilink")发布。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[FriDay音樂](https://zh.wikipedia.org/wiki/FriDay音樂)转换而来。
+
+
 **全音樂**（英文名為**Omusic**）是由[環球音樂及](../Page/環球音樂_\(台灣\).md "wikilink")[台灣索尼音樂](../Page/台灣索尼音樂娛樂.md "wikilink")、[華納音樂](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")、[華研國際音樂](../Page/華研國際音樂.md "wikilink")、[福茂唱片](../Page/福茂唱片.md "wikilink")、[杰威爾音樂](../Page/杰威爾音樂.md "wikilink")、[豐華唱片](../Page/豐華唱片.md "wikilink")等[唱片公司](../Page/唱片公司.md "wikilink")與[眾來科技](https://zh.wikipedia.org/wiki/眾來科技 "wikilink")\[1\]共同挹資成立的一個「數位音樂服務公司」。提供線上聽歌、離線聽歌、MP3歌曲下載、來電答鈴及鈴聲下載服務。2017年3月31日加入遠傳 friDay 品牌旗下， 提供friDay音樂 。2019年7月10日與[LINE](../Page/LINE.md "wikilink")台灣共同推出LINE MUSIC。\[2\]。
 
 ## 簡介

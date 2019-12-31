@@ -1,3 +1,6 @@
+> 本文内容由[Molten](https://zh.wikipedia.org/wiki/Molten)转换而来。
+
+
 [FIBA_Basketballs_2004-2005.JPG](https://zh.wikipedia.org/wiki/File:FIBA_Basketballs_2004-2005.JPG "fig:FIBA_Basketballs_2004-2005.JPG") 官方用球\]\]  是一家總部設立於[日本](../Page/日本.md "wikilink")[廣島縣](../Page/廣島縣.md "wikilink")的體育用品與汽車部品供應商。
 
 該公司所生產的[足球](../Page/足球.md "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[排球](../Page/排球.md "wikilink")、[手球](../Page/手球.md "wikilink")常被選用於國際正式比賽、業餘比賽以及錦標賽之中。並且，值得注意的是，目前 Molten 提供籃球給所有由 [FIBA](https://zh.wikipedia.org/wiki/FIBA "wikilink") 所舉辦的各大國際比賽中，並且是除了[北美以外最多籃球比賽所選用的籃球製造商](https://zh.wikipedia.org/wiki/北美 "wikilink")。 在[歐洲地區內的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[歐洲籃球聯賽](../Page/歐洲籃球聯賽.md "wikilink")[2006-07 賽季中](https://zh.wikipedia.org/wiki/歐洲聯賽_2006-07_賽季 "wikilink") Molten 為其提供比賽用球，然而在這之後，歐洲歐洲籃球聯賽的管理者，歐洲籃球聯賽（公司）更換了籃球供應商為[耐吉](https://zh.wikipedia.org/wiki/耐吉 "wikilink")（NIKE）。\[1\] Molten 目前也是[美國女排和](https://zh.wikipedia.org/wiki/美國女排 "wikilink")[NCAA錦標賽的排球供應商](https://zh.wikipedia.org/wiki/NCAA錦標賽 "wikilink")。

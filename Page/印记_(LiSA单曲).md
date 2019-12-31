@@ -1,3 +1,6 @@
+> 本文内容由[印记 \(LiSA单曲\)](https://zh.wikipedia.org/wiki/印记 \(LiSA单曲\))转换而来。
+
+
 《**印记**》（）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[LiSA](../Page/LiSA.md "wikilink")的第7张[单曲](../Page/单曲.md "wikilink")唱片。标题曲由LiSA作词，作曲。本单曲于2014年12月10日由[Aniplex](../Page/Aniplex.md "wikilink")发行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Kiss Me Good-Bye](https://zh.wikipedia.org/wiki/Kiss Me Good-Bye)转换而来。
+
+
 《**Kiss Me Good-bye**》是日本女歌手[安洁拉亚季的第三张单曲](https://zh.wikipedia.org/wiki/安洁拉亚季 "wikilink")，也是电子游戏《[最终幻想XII](../Page/最终幻想XII.md "wikilink")》的主题曲。该歌曲由安洁拉亚季自己填词，[植松伸夫](../Page/植松伸夫.md "wikilink")作曲，[福井健一郎](../Page/福井健一郎.md "wikilink")编曲。该单曲唱片包含了《Kiss Me Good-bye》的日语版以及在游戏中演绎的英文版。该单曲于2006年3月15日在日本发售，并曾登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的第六名。而在2006年5月16日，该单曲由索尼音乐旗下的通过[iTunes在北美发行了英语版的数字单曲](https://zh.wikipedia.org/wiki/iTunes "wikilink")。\[1\]
 
 ## 制作

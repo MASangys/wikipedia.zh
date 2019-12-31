@@ -1,3 +1,6 @@
+> 本文内容由[TA克隆](https://zh.wikipedia.org/wiki/TA克隆)转换而来。
+
+
 [tacloning.svg](https://zh.wikipedia.org/wiki/File:tacloning.svg "fig:tacloning.svg") **TA克隆**（TA cloning）是一種免用[限制酶](../Page/限制酶.md "wikilink")的[亞克隆](../Page/亞克隆.md "wikilink")手段\[1\]，其操作不僅比傳統的亞克隆簡單，而且耗時也較短。TA克隆的關鍵在於載體和目的基因末端的[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）和[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）的互補配對。載體和目的基因進行上述配對之後，用[DNA連接酶](../Page/DNA連接酶.md "wikilink")即可實現它們之間的共價連接。
 
 ## 過程

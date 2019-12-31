@@ -1,3 +1,6 @@
+> 本文内容由[Élf](https://zh.wikipedia.org/wiki/Élf)转换而来。
+
+
 **élf**（エルフ）是一家[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，總部位在[東京都](../Page/東京都.md "wikilink")，成立於1989年4月27日。過去在1990年代曾經和[AliceSoft有](https://zh.wikipedia.org/wiki/AliceSoft "wikilink")「東elf，西Alice」（東のエルフ、西のアリス）的齊名稱號。\[1\] 絕大部分élf遊戲也曾被改編為[成人動畫](../Page/成人動畫.md "wikilink")。有三部élf遊戲系列更曾被改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")：《[下級生](../Page/下級生.md "wikilink")》、《[萊姆色戰奇譚](https://zh.wikipedia.org/wiki/萊姆色戰奇譚 "wikilink")》、《[YU-NO 在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》。
 
 élf在2016年停止獨立營運，旗下遊戲的版權則分別賣給[DMM.com](../Page/DMM.com.md "wikilink")和[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")。\[2\]\[3\]

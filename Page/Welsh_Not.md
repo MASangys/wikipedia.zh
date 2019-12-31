@@ -1,3 +1,6 @@
+> 本文内容由[Welsh Not](https://zh.wikipedia.org/wiki/Welsh Not)转换而来。
+
+
 **禁說威爾斯語**（**Welsh Not、Welsh Note、NOT或** **Welsh stick**）是十九世紀末至二十世紀初，在[威爾斯](../Page/威爾斯.md "wikilink")的某些學校所施行的一種處罰方式，目的是為了防止學童說[威爾斯語](https://zh.wikipedia.org/wiki/威爾斯語 "wikilink")。
 
 <div>

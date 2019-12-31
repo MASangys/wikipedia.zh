@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Kei方程式賽車](https://zh.wikipedia.org/wiki/鈴木Kei方程式賽車)转换而来。
+
+
 **鈴木Kei方程式賽車**（）乃是[日本](../Page/日本.md "wikilink")鈴木運動公司（[IRD公司](../Page/IRD公司.md "wikilink")前身，[鈴木公司子公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）製造販售的入門級方程式賽車。
 
 ## 內容與概要

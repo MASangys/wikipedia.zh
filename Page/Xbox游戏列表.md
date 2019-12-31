@@ -1,3 +1,6 @@
+> 本文内容由[Xbox游戏列表](https://zh.wikipedia.org/wiki/Xbox游戏列表)转换而来。
+
+
 本电子游戏列表列举了[微软](../Page/微软.md "wikilink")[Xbox的](../Page/Xbox_\(遊戲機\).md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。
 
 |               |

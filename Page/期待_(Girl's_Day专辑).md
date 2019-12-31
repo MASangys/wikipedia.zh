@@ -1,3 +1,6 @@
+> 本文内容由[期待 \(Girl\'s Day专辑\)](https://zh.wikipedia.org/wiki/期待 \(Girl\'s Day专辑\))转换而来。
+
+
 《**期待**》（）是[韩国女子组合](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Girl's Day的第一张录音室专辑](../Page/Girl's_Day.md "wikilink")。专辑发行于2013年3月14日，以歌曲《期待》（기대해）作为主打歌曲。\[1\]专辑的发行日期恰逢[白色情人节](https://zh.wikipedia.org/wiki/白色情人节 "wikilink")。专辑以《**女总统**》的名称在2013年6月24日重新发行。歌曲《女总统》（여자 대통령）用作重新发行版的主打歌曲。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[索尼E卡口镜头列表](https://zh.wikipedia.org/wiki/索尼E卡口镜头列表)转换而来。
+
+
 [Sony_FE_90mm_F2.8_Macro_G_OSS_01.jpg](https://zh.wikipedia.org/wiki/File:Sony_FE_90mm_F2.8_Macro_G_OSS_01.jpg "fig:Sony_FE_90mm_F2.8_Macro_G_OSS_01.jpg") 本列表为[索尼E接环](../Page/索尼E接环.md "wikilink")上使用的镜头，包括索尼公司生产，与第三方兼容镜头。
 
 ## 索尼厂牌镜头

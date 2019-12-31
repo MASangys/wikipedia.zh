@@ -1,3 +1,6 @@
+> 本文内容由[Aquarion Logos](https://zh.wikipedia.org/wiki/Aquarion Logos)转换而来。
+
+
 《**創聖機械天使 LOGOS**》（）是一部日本[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")，已於2015年7月播映。
 
 ## 概要

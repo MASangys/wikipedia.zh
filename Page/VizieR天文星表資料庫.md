@@ -1,3 +1,6 @@
+> 本文内容由[VizieR天文星表資料庫](https://zh.wikipedia.org/wiki/VizieR天文星表資料庫)转换而来。
+
+
 **VizieR天文星表数据库**是由提供的[天體目錄](../Page/天體目錄.md "wikilink")。.
 
 VizieR天文星表数据库的起源可以追溯到1993年的ESA目錄瀏覽器，一開始只是要服務天文科學的社群，ESIS專案提前用[全球資訊網為網路資料庫](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")，可以用一致的方式存取異質性的目錄及資料。

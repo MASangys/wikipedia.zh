@@ -1,3 +1,6 @@
+> 本文内容由[Ponta](https://zh.wikipedia.org/wiki/Ponta)转换而来。
+
+
 **Ponta**是日本[三菱商事](../Page/三菱商事.md "wikilink")旗下公司「Loyalty Marketing, Inc.」（下簡稱**LM**）營運之「點數服務系統」（[客戶忠誠管理系統](https://zh.wikipedia.org/wiki/客戶忠誠管理系統 "wikilink")），境外服務目前於印尼提供。
 
 臺灣版由[東森媒體集團旗下之東森整合行銷公司](https://zh.wikipedia.org/wiki/東森媒體集團 "wikilink")，於2014年末開始，以「得易Ponta」名義進行營運\[1\]，其後於2018年12月31日，因東森整合行銷調整經營模式之故而停止營運。

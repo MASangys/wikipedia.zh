@@ -1,3 +1,6 @@
+> 本文内容由[RedOctane](https://zh.wikipedia.org/wiki/RedOctane)转换而来。
+
+
 **RedOctane**，是美国电子娱乐公司，该公司最出名的游戏是[吉他英雄系列](https://zh.wikipedia.org/wiki/吉他英雄系列 "wikilink")。2006年，RedOctane成为[动视](../Page/动视.md "wikilink")的全资子公司，在2010年2月，动视关闭该公司。\[1\]
 
 ## 参考资料

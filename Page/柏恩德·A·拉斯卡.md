@@ -1,3 +1,6 @@
+> 本文内容由[柏恩德·A·拉斯卡](https://zh.wikipedia.org/wiki/柏恩德·A·拉斯卡)转换而来。
+
+
 **柏恩德·A·拉斯卡**（，）是德國[哲學作家](https://zh.wikipedia.org/wiki/哲學 "wikilink")、編輯、翻譯和發行商。
 
 ## 著作

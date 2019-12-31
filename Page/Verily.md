@@ -1,3 +1,6 @@
+> 本文内容由[Verily](https://zh.wikipedia.org/wiki/Verily)转换而来。
+
+
 **Verily**，原名为**Google X生命科学部门**\[1\]\[2\]\[3\]，致力于生命科学的研究。2015年8月10日，[谢尔盖·布林](../Page/谢尔盖·布林.md "wikilink")称Verily将会成为[Alphabet](../Page/Alphabet.md "wikilink")的一家子公司独立运营。\[4\]
 
 ## 主要工作

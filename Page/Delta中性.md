@@ -1,3 +1,6 @@
+> 本文内容由[Delta中性](https://zh.wikipedia.org/wiki/Delta中性)转换而来。
+
+
 在[金融](../Page/金融.md "wikilink")领域，如果一个投资组合由相关的金融产品组成，而且其价值不受标的资产小幅价格变动的影响，这样的投资组合具有**delta中性**的性质。这种[投资组合的成分通常包括](../Page/投資組合.md "wikilink")[期权和相对应的标的资产](https://zh.wikipedia.org/wiki/期权 "wikilink")，让[delta正负相消](https://zh.wikipedia.org/wiki/delta "wikilink")，使投资组合的价格对标的资产的价格相对不敏感。
 
 delta对冲是一个与delta中性相关的概念。这种对冲描述的是保持[投资组合的](../Page/投資組合.md "wikilink")[delta尽可能等于或接近零的过程](https://zh.wikipedia.org/wiki/delta "wikilink")。维持零delta在实际操作中的难度较大。这是由于当标的资产的价格变化很大时，再次对冲的风险较高。此外，研究表明频繁的对冲会导致投资组合的低现金流。\[1\]

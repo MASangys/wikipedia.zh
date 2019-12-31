@@ -1,3 +1,6 @@
+> 本文内容由[LGAT課程](https://zh.wikipedia.org/wiki/LGAT課程)转换而来。
+
+
 **LGAT課程**（，可翻譯為**集體覺醒訓練**、**大團體覺醒課程**、**大型團體的意識培訓**等），泛指一些宣稱能夠令學員提升自我潛能的多人課程。此類課程經常被指涉及[洗腦](../Page/洗腦.md "wikilink")和[催眠](../Page/催眠.md "wikilink")等不良手法，曾有學員在參加課程後患上[精神疾病](https://zh.wikipedia.org/wiki/精神疾病 "wikilink")，引起[精神病学](../Page/精神病学.md "wikilink")醫生的質疑\[1\]。
 
 ## 課程內容

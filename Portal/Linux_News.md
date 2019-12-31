@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Linux/News](https://zh.wikipedia.org/wiki/Portal:Linux/News)转换而来。
+
+
   - 2016-12-11 [Linux内核](../Page/Linux内核.md "wikilink") 4.9 发布.
   - 2016-11-09 [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 7.3 发布.
   - 2016-10-02 [Linux内核](../Page/Linux内核.md "wikilink") 4.8 发布.

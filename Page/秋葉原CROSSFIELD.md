@@ -1,3 +1,6 @@
+> 本文内容由[秋葉原CROSSFIELD](https://zh.wikipedia.org/wiki/秋葉原CROSSFIELD)转换而来。
+
+
 **秋葉原CROSSFIELD**（）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[外神田](../Page/外神田.md "wikilink")的複合設施。過去又稱**秋葉原IT中心**、**秋葉原計劃**\[1\]。
 
 ## 概要

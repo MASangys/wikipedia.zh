@@ -1,3 +1,6 @@
+> 本文内容由[乙酸铊\(III\)](https://zh.wikipedia.org/wiki/乙酸铊\(III\))转换而来。
+
+
 **乙酸鉈(III)**是一種[乙酸根和](https://zh.wikipedia.org/wiki/乙酸根 "wikilink")[鉈的鹽類](https://zh.wikipedia.org/wiki/鉈 "wikilink")，化學式Tl(C<sub>2</sub>H<sub>3</sub>O<sub>2</sub>)<sub>3</sub>。在[微生物學中做為選擇性](https://zh.wikipedia.org/wiki/微生物學 "wikilink")[培养基](../Page/培养基.md "wikilink")\[1\]，乙酸鉈有毒\[2\]，但也可做為脫髮劑，8mg/kg的劑量就會造成急性中毒，成人的最小致死劑量在12mg/kg\[3\]。
 
 ## 制备

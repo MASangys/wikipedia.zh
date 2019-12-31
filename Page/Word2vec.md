@@ -1,3 +1,6 @@
+> 本文内容由[Word2vec](https://zh.wikipedia.org/wiki/Word2vec)转换而来。
+
+
 **Word2vec**，為一群用來產生[詞向量的相關模型](https://zh.wikipedia.org/wiki/詞嵌入 "wikilink")。這些模型為淺层雙層的[神經網路](https://zh.wikipedia.org/wiki/神經網路 "wikilink")，用來訓練以重新建構語言學之詞文本。網路以詞表現，並且需猜測相鄰位置的輸入詞，在word2vec中[词袋模型](../Page/词袋模型.md "wikilink")假設下，詞的順序是不重要的。
 
 訓練完成之後，word2vec模型可用來映射每個詞到一個向量，可用來表示詞對詞之間的關係。該向量為神經網路之隱藏層\[1\]。

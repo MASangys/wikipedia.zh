@@ -1,3 +1,6 @@
+> 本文内容由[PES Collection](https://zh.wikipedia.org/wiki/PES Collection)转换而来。
+
+
 是一款蒐集球員實名圖案，組成玩家專屬足球球隊的蒐集系足球社群遊戲。
 
 此遊戲於2014年5月20日正式在[Google Play及](../Page/Google_Play.md "wikilink")[App Store](../Page/App_Store_\(iOS\).md "wikilink")，以\`「**PES Manager**」名字發行\[1\]，並且在2015年4月24日更名至現有名字：PES Collection\[2\]。2018年3月27日，官方宣布國際版PES Collection會在2018年5月22日停止營運。日本版World Soccer Collection則不受影響。\[3\]

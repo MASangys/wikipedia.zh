@@ -1,3 +1,6 @@
+> 本文内容由[IU音乐作品列表](https://zh.wikipedia.org/wiki/IU音乐作品列表)转换而来。
+
+
 [韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[创作歌手兼](../Page/創作歌手.md "wikilink")[演员](../Page/演員.md "wikilink")[IU共发行](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")4张[录音室专辑、](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")10张[迷你专辑](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")、35首[单曲](../Page/单曲.md "wikilink")及37部[MV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。此外，她还发行了12首[合作歌曲](https://zh.wikipedia.org/wiki/合作 "wikilink")、17首[电视剧](../Page/电视剧.md "wikilink")、[电影](../Page/电影.md "wikilink")和[网络游戏](../Page/网络游戏.md "wikilink")的[原声音乐](../Page/原声音乐.md "wikilink")（包含未正式发行的原声音乐）。
 
 在Gaon专辑榜和Gaon音源榜，IU分别有2张专辑和14首歌曲获得一位。她还6次登上美国[Billboard的韩国流行音乐百强榜](../Page/告示牌_\(雜誌\).md "wikilink")（Korea K-Pop Hot 100，已停止排行），成为榜单中获得一位歌曲最多的歌手。

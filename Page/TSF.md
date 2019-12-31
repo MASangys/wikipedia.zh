@@ -1,3 +1,6 @@
+> 本文内容由[TSF](https://zh.wikipedia.org/wiki/TSF)转换而来。
+
+
 {{ otheruses | TSF (消歧義) }}  **TSF**（），是在虛構作品中對[異性的](https://zh.wikipedia.org/wiki/異性 "wikilink")**[性轉換](https://zh.wikipedia.org/wiki/性轉換 "wikilink")**這種作品類型的總稱。是將[英語中的](https://zh.wikipedia.org/wiki/英語 "wikilink")“TG”（）和“TF”（）合併起來的一個日語特有名詞。
 
 ## 概要

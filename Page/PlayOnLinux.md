@@ -1,3 +1,6 @@
+> 本文内容由[PlayOnLinux](https://zh.wikipedia.org/wiki/PlayOnLinux)转换而来。
+
+
 **PlayOnLinux**是一個[Wine](../Page/Wine.md "wikilink")軟體[相容層的圖形化前端](https://zh.wikipedia.org/wiki/相容層 "wikilink")，可以讓[Linux](../Page/Linux.md "wikilink")的使用者安裝基於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")、[Microsoft Office](../Page/Microsoft_Office.md "wikilink")（2000到2010）、Microsoft [Internet Explorer](../Page/Internet_Explorer.md "wikilink")、以及其他許多[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，像是Apple [iTunes及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[Safari](../Page/Safari.md "wikilink")等\[1\]\[2\]。
 
 ## 內部

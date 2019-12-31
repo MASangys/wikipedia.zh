@@ -1,3 +1,6 @@
+> 本文内容由[ST类型论](https://zh.wikipedia.org/wiki/ST类型论)转换而来。
+
+
 \-{下面}-的系统是Mendelson的（1997: 289-93）**ST**。[量化的域被划分成上升的类型层次](https://zh.wikipedia.org/wiki/论域 "wikilink")，带有所有的[个体都被指派了一个类型](https://zh.wikipedia.org/wiki/个体 "wikilink")。量化的变量确立范围只在一个类型上；所以底层逻辑是[一阶逻辑](../Page/一阶逻辑.md "wikilink")。**ST**是"简单的"（相对于《[数学原理](../Page/数学原理.md "wikilink")》中的类型论）主要是因为任何[关系的](../Page/关系_\(数学\).md "wikilink")[域和](../Page/定义域.md "wikilink")[陪域的所有成员都必须是同一个类型的](https://zh.wikipedia.org/wiki/陪域 "wikilink")。
 
 有一个最低的类型，它的个体没有成员并且是次最低类型的成员。最低类型的个体对应于特定集合论中的[基本元素](https://zh.wikipedia.org/wiki/基本元素 "wikilink")（urelement）。每个类型都有一个更高的类型，类似于在[皮亚诺算术中](https://zh.wikipedia.org/wiki/皮亚诺算术 "wikilink")[后继者](https://zh.wikipedia.org/wiki/后继函数 "wikilink")。**ST**对是否有极大类型保持沉默，形成[超限数](../Page/超限数.md "wikilink")个类型没有困难。这些因素，和回应于皮亚诺公理，使它方便和习惯于指派[自然数](../Page/自然数.md "wikilink")到每个类型，开始于0给最低类型。这个类型论不要求自然数的先决定义。

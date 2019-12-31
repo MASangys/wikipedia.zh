@@ -1,3 +1,6 @@
+> 本文内容由[Lost In Your Eyes](https://zh.wikipedia.org/wiki/Lost In Your Eyes)转换而来。
+
+
 《**深情眼眸**》（）是美國女歌手[黛比·吉布森](../Page/黛比·吉布森.md "wikilink")在1988年底發行的單曲，它在告示牌單曲榜獲得三週冠軍，成為黛比·吉布森繼〈[愚蠢的節奏](../Page/Foolish_Beat.md "wikilink")〉之後所得到的第二首全美冠軍單曲，〈深情眼眸〉在英國單曲榜最高名次為第34名\[1\]\[2\]。
 
 ## 歌曲資料

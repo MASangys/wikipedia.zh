@@ -1,3 +1,6 @@
+> 本文内容由[H.保定](https://zh.wikipedia.org/wiki/H.保定)转换而来。
+
+
 **H.保定**(**Hiram Kojo Kwarteng Boateng**，出生於1996年1月8日）是[英格蘭的職業足球運動員](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")，司職[中場](https://zh.wikipedia.org/wiki/中場 "wikilink")，他現在效力於[英超球隊](https://zh.wikipedia.org/wiki/英格兰足球超级联赛 "wikilink")[水晶宫](../Page/水晶宫足球俱乐部.md "wikilink")。
 
 ## 生涯統計

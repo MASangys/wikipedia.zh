@@ -1,3 +1,6 @@
+> 本文内容由[Do姐有問題](https://zh.wikipedia.org/wiki/Do姐有問題)转换而来。
+
+
 《**Do姐有問題**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的資訊遊戲節目，共3輯，第1、2輯都是25集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，第一輯於2016年3月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[1\]，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後兩個月後會刪除），由[樓上特約](https://zh.wikipedia.org/wiki/樓上燕窩莊 "wikilink")。第二輯於2018年3月12日起香港時間逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")播出\[2\]\[3\]\[4\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞特約](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink")。第三輯於2019年7月21日起香港時間逢星期日20:30－21:30在[翡翠台](../Page/翡翠台.md "wikilink")播出\[5\]\[6\]，及於[myTV SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除），由[康業信貸快遞K](https://zh.wikipedia.org/wiki/康業信貸快遞 "wikilink") Cash贊助（第1-13集）。
 
 各片段公開答案之前的口頭禪每輯不同，分別為「有問題有答案」（第一輯）、「識Do姐識答案」（第二輯）及「有Do姐有答案」（第三輯）。

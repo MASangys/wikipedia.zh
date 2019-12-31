@@ -1,3 +1,6 @@
+> 本文内容由[MeseMoa.](https://zh.wikipedia.org/wiki/MeseMoa.)转换而来。
+
+
 **MeseMoa.**（）是以9人组成的日本男子偶像團體。剛開始活動時以10人组成的Musumen.（）名義開始活動。以投稿翻跳[早安少女組的影片作為契機而結成](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")，以及自主營運的形式進行活動\[1\]。他們以在[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")公演作為目標，並在2015年8月達成該目標\[2\]。2017年2月3日，團體名字從Musumen.改成MeseMoa.。
 
 Musumen.大多數單曲和專輯的作詞作曲都是由親手包辦。粉絲名稱為irumii(イルミィ)

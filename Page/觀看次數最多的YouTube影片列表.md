@@ -1,3 +1,6 @@
+> 本文内容由[觀看次數最多的YouTube影片列表](https://zh.wikipedia.org/wiki/觀看次數最多的YouTube影片列表)转换而来。
+
+
 本列表列出所有時間觀看次數最多的[YouTube](../Page/YouTube.md "wikilink")影片前100名\[1\]。被YouTube懷疑操控觀看次數的影片不在此列表中\[2\]，觀看次數信息來自YouTube網站的數據。由於許多影片是音樂影片，音樂影片會透過YouTube的合作夥伴網站「[VEVO](https://zh.wikipedia.org/wiki/VEVO "wikilink")」播放，因此YouTube的觀看次數將會比VEVO落後幾天。\[3\]
 
 ## YouTube影片觀看次數前100名列表

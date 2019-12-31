@@ -1,3 +1,6 @@
+> 本文内容由[TLR9](https://zh.wikipedia.org/wiki/TLR9)转换而来。
+
+
 **Toll样受体9**（）是由人类[基因](../Page/基因.md "wikilink") *TLR9* 编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]，也被称为**CD289**（[分化簇](../Page/分化簇.md "wikilink")289，cluster of differentiation 289），是[Toll样受体](../Page/Toll样受体.md "wikilink")（TLR）家族的成员。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[PSI \(计算化学\)](https://zh.wikipedia.org/wiki/PSI \(计算化学\))转换而来。
+
+
 **PSI**是一套[从头算](https://zh.wikipedia.org/wiki/从头计算法 "wikilink")[量子化学](../Page/量子化学.md "wikilink")计算工具。最初由美国[乔治亚大学的Henry](https://zh.wikipedia.org/wiki/乔治亚大学 "wikilink") F. Schaefer, III课题组开发。目前由[乔治亚大学](https://zh.wikipedia.org/wiki/乔治亚大学 "wikilink")、[艾默里大学](https://zh.wikipedia.org/wiki/艾默里大学 "wikilink")、[乔治亚理工学院](https://zh.wikipedia.org/wiki/乔治亚理工学院 "wikilink")、[弗吉尼亚理工学院](https://zh.wikipedia.org/wiki/弗吉尼亚理工学院 "wikilink")、[佛罗里达州立大学](../Page/佛罗里达州立大学.md "wikilink")等多个课题组参与开发与维护。\[1\]该软件的目标是使用从头计算法精确计算小分子到中等大小分子的体系。
 
 至2016年，软件的最新版本为**PSI4**。为[开源软件](../Page/开源软件.md "wikilink")，使用[C++](../Page/C++.md "wikilink")编写，以[GNU GPL v2发布](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")。\[2\]

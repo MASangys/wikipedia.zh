@@ -1,3 +1,6 @@
+> 本文内容由[Ethornell](https://zh.wikipedia.org/wiki/Ethornell)转换而来。
+
+
 **Ethornell**是日本BURIKO公司（株式会社ブリコ）開發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，正式名稱是Buriko General Interpreter，作業系統是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[1\]\[2\]主要用於開發[冒險遊戲和](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[視覺小說類型的](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")，也能開發[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")、[模擬遊戲](../Page/模擬遊戲.md "wikilink")。
 
 ## 使用Ethornell的知名遊戲作品

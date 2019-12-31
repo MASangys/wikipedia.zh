@@ -1,3 +1,6 @@
+> 本文内容由[SSG 82狙擊步槍](https://zh.wikipedia.org/wiki/SSG 82狙擊步槍)转换而来。
+
+
 **82型狙擊步槍**（，簡稱：SSG 82），是由[德意志民主共和國](https://zh.wikipedia.org/wiki/德意志民主共和國 "wikilink")（東德）研製的[手動式](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[蘇聯研製的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[5.45×39毫米小口徑步槍子彈](../Page/5.45×39mm.md "wikilink")。該槍是專門針對[警察](../Page/警察.md "wikilink")和[特種部隊](../Page/特種部隊.md "wikilink")用於[反恐用途而特別開發](https://zh.wikipedia.org/wiki/反恐 "wikilink")，亦是少數地使用[小口徑步槍彈的狙擊步槍](https://zh.wikipedia.org/wiki/小口徑步槍 "wikilink")。
 
 ## 設計特徵

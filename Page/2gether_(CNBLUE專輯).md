@@ -1,3 +1,6 @@
+> 本文内容由[2gether \(CNBLUE專輯\)](https://zh.wikipedia.org/wiki/2gether \(CNBLUE專輯\))转换而来。
+
+
 《**2gether**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第二張韓語正規專輯，於2015年9月14日發行\[1\]，主打曲目為《Cinderella》（）。
 
 ## 背景

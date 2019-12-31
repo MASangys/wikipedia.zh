@@ -1,3 +1,6 @@
+> 本文内容由[THE JSB LEGACY](https://zh.wikipedia.org/wiki/THE JSB LEGACY)转换而来。
+
+
 《**THE JSB LEGACY**》是[日本](../Page/日本.md "wikilink")演唱團體[第三代J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")6張原創專輯。2016年3月30日發行，唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

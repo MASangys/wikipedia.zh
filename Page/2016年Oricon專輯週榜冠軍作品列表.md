@@ -1,3 +1,6 @@
+> 本文内容由[2016年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2016年Oricon專輯週榜冠軍作品列表)转换而来。
+
+
 **2016年Oricon專輯週榜冠軍作品列表**列出2016年度曾經登上[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯週榜冠軍的[專輯作品及其資料](../Page/音樂專輯.md "wikilink")。全年度共有44張冠軍專輯誕生，其中取得冠軍週數最多的專輯是[宇多田光](../Page/宇多田光.md "wikilink")的原創專輯《[Fantôme](../Page/Fantôme.md "wikilink")》（4週）。
 
 ## 冠軍專輯列表

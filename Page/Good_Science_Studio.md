@@ -1,3 +1,6 @@
+> 本文内容由[Good Science Studio](https://zh.wikipedia.org/wiki/Good Science Studio)转换而来。
+
+
 **Good Science Studio**，是[微软工作室所拥有的](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")[美国](../Page/美国.md "wikilink")游戏开发商。它成立于2009年，开发使用[Kinect](../Page/Kinect.md "wikilink")的[Xbox 360游戏](../Page/Xbox_360.md "wikilink")。该公司原名为**SpawnPoint**。\[1\]
 
 ## 旗下游戏

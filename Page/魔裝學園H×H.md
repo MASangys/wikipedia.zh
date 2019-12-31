@@ -1,3 +1,6 @@
+> 本文内容由[魔裝學園H×H](https://zh.wikipedia.org/wiki/魔裝學園H×H)转换而来。
+
+
 是[久慈政宗](../Page/久慈政宗.md "wikilink")所作的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Hisasi](../Page/Hisasi.md "wikilink")繪畫，[黑銀負責機械設定](https://zh.wikipedia.org/wiki/黑銀 "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
 
 ## 故事簡介

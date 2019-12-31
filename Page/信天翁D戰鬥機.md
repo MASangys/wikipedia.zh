@@ -1,3 +1,6 @@
+> 本文内容由[信天翁D戰鬥機](https://zh.wikipedia.org/wiki/信天翁D戰鬥機)转换而来。
+
+
 **信天翁D戰鬥機**是由信天翁飛機公司以[信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")的基礎和參考了法國[紐波特11戰鬥機](../Page/紐波特11戰鬥機.md "wikilink")而研製的雙翼戰鬥機，在[第一次世界大戰期間是繼](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")後德國空軍的主力戰鬥機。
 
 不同於[福克飛機公司是由荷蘭人安東尼](https://zh.wikipedia.org/wiki/福克飛機公司 "wikilink")．福克創立，信天翁飛機公司是正宗的德國飛機製造商，1910年成立於[柏林](../Page/柏林.md "wikilink")約亨尼斯塔爾區。

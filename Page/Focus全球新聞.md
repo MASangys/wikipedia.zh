@@ -1,3 +1,6 @@
+> 本文内容由[Focus全球新聞](https://zh.wikipedia.org/wiki/Focus全球新聞)转换而来。
+
+
 《**FOCUS全球新聞**》（），[TVBS製播的國際新聞節目](../Page/TVBS_\(頻道\).md "wikilink")，於2013年4月8日開播，由方念華主持\[1\]\[2\]。除TVBS頻道播出外，亦與[TVBS精采台](../Page/TVBS精采台.md "wikilink")聯播。
 
 ## 簡介

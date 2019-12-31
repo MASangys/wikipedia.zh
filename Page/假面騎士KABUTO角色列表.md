@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士KABUTO角色列表](https://zh.wikipedia.org/wiki/假面騎士KABUTO角色列表)转换而来。
+
+
 **假面騎士KABUTO角色列表**是於[朝日電視台](../Page/朝日電視台.md "wikilink")放映的特攝劇集《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》（）各個登場的角色。
 
 ## 假面騎士適任者 (ZECT Rider)

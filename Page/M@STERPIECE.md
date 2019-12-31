@@ -1,3 +1,6 @@
+> 本文内容由[M@STERPIECE](https://zh.wikipedia.org/wiki/M@STERPIECE)转换而来。
+
+
 **M@STERPIECE**（）为由[765PRO ALLSTARS所演唱的单曲](https://zh.wikipedia.org/wiki/偶像大師系列角色列表#765_Production "wikilink")，于2014年1月29日由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")发售。同名曲为该作品系列中的剧场版电影《[前往光輝的另一端！](../Page/偶像大師_劇場版_前往光輝的另一端！.md "wikilink")》的主题曲。
 
 ## 概述

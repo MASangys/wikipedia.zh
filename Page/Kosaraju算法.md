@@ -1,3 +1,6 @@
+> 本文内容由[Kosaraju算法](https://zh.wikipedia.org/wiki/Kosaraju算法)转换而来。
+
+
 **Kosaraju算法**（也被称为**Kosaraju–Sharir算法**）是一个在[线性时间内寻找一个](https://zh.wikipedia.org/wiki/线性时间 "wikilink")[有向图中的](../Page/图_\(数学\).md "wikilink")[强连通分量](../Page/强连通分量.md "wikilink")的算法。[阿尔佛雷德·艾侯](../Page/阿尔佛雷德·艾侯.md "wikilink")，[约翰·霍普克洛夫特和](https://zh.wikipedia.org/wiki/约翰·霍普克洛夫特 "wikilink")相信该算法来自于1978年撰写的一篇未发表论文之中\[1\]。也独立发现了该算法并于1981年将其发表\[2\]。该算法巧妙地利用了一个定理：「一个图的反向图和原图具有一样的强连通分量」。
 
 ## 简介

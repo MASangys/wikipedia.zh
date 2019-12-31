@@ -1,3 +1,6 @@
+> 本文内容由[XcodeGhost风波](https://zh.wikipedia.org/wiki/XcodeGhost风波)转换而来。
+
+
 **XcodeGhost风波**，为[中国大陆](../Page/中国大陆.md "wikilink")地区[App Store中的部分](../Page/App_Store_\(iOS\).md "wikilink")[iOS應用程式被称为](https://zh.wikipedia.org/wiki/iOS "wikilink")「XCodeGhost」的第三方惡意代码注入，而产生了一系列的问题，包括可能的隐私泄漏、广告点击。
 
 因为属于开发者端的程序污染，所以即便是未[越狱的iOS用户从苹果官方App](../Page/越獄_\(iOS\).md "wikilink") Store下载应用也可能存在风险。

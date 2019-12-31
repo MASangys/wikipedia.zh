@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 830](https://zh.wikipedia.org/wiki/诺基亚Lumia 830)转换而来。
+
+
 **诺基亚Lumia 830**是一款由[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。也是最后一台诺基亚品牌的Lumia手机。
 
 ## 硬件 

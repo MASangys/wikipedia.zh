@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV電視節目列表 \(2016年\)](https://zh.wikipedia.org/wiki/ViuTV電視節目列表 \(2016年\))转换而来。
+
+
 本列表列出2016年由[香港](../Page/香港.md "wikilink")[ViuTV](../Page/ViuTV.md "wikilink")所播放的節目（只限綜藝、資訊節目）。\[1\]
 
 除特別註明外，所有節目均為全高清製作。

@@ -1,3 +1,6 @@
+> 本文内容由[Hilltop Hoods](https://zh.wikipedia.org/wiki/Hilltop Hoods)转换而来。
+
+
 **Hilltop Hoods**是一个[澳大利亚](../Page/澳大利亚.md "wikilink")的[hip hop组合](https://zh.wikipedia.org/wiki/hip_hop "wikilink")。 该组合由Suffa（Matt Lambert）以及MC Pressure（Daniel Smith）于1994年在[阿德莱德](../Page/阿德莱德.md "wikilink")组建， 成员DJ Debris（Barry Francis）在创建人DJ Next（Ben Hare）1999年离开组合之后加入。组合在1997年发布了第一张[密纹唱片](https://zh.wikipedia.org/wiki/密纹唱片 "wikilink")， *Back Once Again(又一次)*， 并在之后的时间陆续发布了七张录音室唱片和三张DVD，并于2006年发布了一张重制版本的  *The Hard Road(漫漫长路) 专辑*。
 
 他们的四张专辑问鼎[澳大利亚唱片业协会榜第一名](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")：分别是*The Hard Road*（2006），*State of the Art*（2009），*Drinking from the Sun*（2012）以及*Walking Under Stars*（2014）。两首单曲进入该榜单前十名，分别是—"Chase That Feeling" （2009）以及"I Love It"，featuring [Sia](https://zh.wikipedia.org/wiki/希雅 "wikilink")（2011）—而其最新单曲"Cosby Sweater"（2014） 在当年11月9日成为该组合唯一此榜前五名单曲。

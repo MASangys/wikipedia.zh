@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A8](https://zh.wikipedia.org/wiki/三星Galaxy A8)转换而来。
+
+
 **三星Galaxy A8**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")智能手機，在2015年發佈，同期最大競爭對手是自家的Galaxy A7以及HTC M8s。\[1\]。
 
 ## 技術規格

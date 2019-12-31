@@ -1,3 +1,6 @@
+> 本文内容由[超昂天使Escalayer](https://zh.wikipedia.org/wiki/超昂天使Escalayer)转换而来。
+
+
 是日本[ALICESOFT](../Page/ALICESOFT.md "wikilink")在2002年8月2日發售的[冒險類型](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年7月25日發售重製版《超昂天使Escalayer R》（超昂天使エスカレイヤー・リブート）\[3\]\[4\]，同時附贈收錄在《Alice 2010》（アリス2010）的FD《[超昂閃忍遥 ～遥 vs Escalayer～](https://zh.wikipedia.org/wiki/超昂閃忍遥 "wikilink")》（超昂閃忍ハルカ ～ハルカ vs エスカレイヤー～）。\[5\]除了遊戲外也發售OVA、漫畫、小說等相關作品。
 
 ## 故事

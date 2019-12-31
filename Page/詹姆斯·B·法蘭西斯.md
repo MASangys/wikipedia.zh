@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·B·法蘭西斯](https://zh.wikipedia.org/wiki/詹姆斯·B·法蘭西斯)转换而来。
+
+
 **詹姆斯·比切諾·法蘭西斯** （，）為一位[英國裔的](https://zh.wikipedia.org/wiki/英國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[工程師](https://zh.wikipedia.org/wiki/工程師 "wikilink")，他著名的發明包括[法蘭西斯式水輪機](../Page/法蘭西斯式水輪機.md "wikilink")。
 
 ## 生平

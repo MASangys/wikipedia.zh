@@ -1,3 +1,6 @@
+> 本文内容由[Infinite大型頒獎禮獲獎及提名列表](https://zh.wikipedia.org/wiki/Infinite大型頒獎禮獲獎及提名列表)转换而来。
+
+
 本條目列出韓國男子組合[INFINITE](../Page/INFINITE.md "wikilink")由出道至今之獲獎與提名。
 
 |  |

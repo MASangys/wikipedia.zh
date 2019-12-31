@@ -1,3 +1,6 @@
+> 本文内容由[諾基亞Communicator](https://zh.wikipedia.org/wiki/諾基亞Communicator)转换而来。
+
+
 **諾基亞Communicator**爲辦公優化[智慧型手機系列的品牌名稱](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，由[諾基亞銷售](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")， 所有手機外部爲一般形式，打開[翻蓋可獲得將近裝置大小的](https://zh.wikipedia.org/wiki/翻蓋 "wikilink")[QWERTY鍵盤](../Page/QWERTY鍵盤.md "wikilink")和液晶熒屏。
 
 諾基亞Communicators具有互聯網鏈接能力、互聯網客戶端和非互聯網通信服務。早期9000系列由功能手機發展爲智慧型手機。[諾基亞E90 Communicator](https://zh.wikipedia.org/wiki/諾基亞E90_Communicator "wikilink")，最新Communicator型號，爲[諾基亞E系列一部分](https://zh.wikipedia.org/wiki/諾基亞E系列 "wikilink")。

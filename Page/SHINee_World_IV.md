@@ -1,3 +1,6 @@
+> 本文内容由[SHINee World IV](https://zh.wikipedia.org/wiki/SHINee World IV)转换而来。
+
+
 **SHINee World IV** 是韩国男子团体[SHINee](../Page/SHINee.md "wikilink")的第四次巡回演唱会，本次巡回演唱会由2015年5月15日的[首爾](../Page/首爾.md "wikilink")場揭開序幕，将会於[亚洲](../Page/亚洲.md "wikilink")等地方举行。SHINee于本次演唱会中将演唱30首以上的歌曲，演唱会时长达到3小时30分钟或更长时间。\[1\]
 
 ## 概述

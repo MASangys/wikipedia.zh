@@ -1,3 +1,6 @@
+> 本文内容由[Lynn \(聲優\)](https://zh.wikipedia.org/wiki/Lynn \(聲優\))转换而来。
+
+
 **Lynn**（\[1\]\[2\]）是[日本](../Page/日本.md "wikilink")的女性[聲優](../Page/聲優.md "wikilink")。[ARTSVISION](../Page/ARTSVISION.md "wikilink")所屬。成長於[新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink")（出生地為[神奈川縣](../Page/神奈川縣.md "wikilink")）\[3\]。
 
 ## 人物

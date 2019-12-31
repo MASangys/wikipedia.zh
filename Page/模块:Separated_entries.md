@@ -1,3 +1,6 @@
+> 本文内容由[模块:Separated entries](https://zh.wikipedia.org/wiki/模块:Separated entries)转换而来。
+
+
 \-- This module takes positional parameters as input and concatenates them with -- an optional separator. The final separator (the "conjunction") can be -- specified independently, enabling natural-language lists like -- "foo, bar, baz and qux".
 
 local compressSparseArray = require('Module:TableTools').compressSparseArray local p = {}

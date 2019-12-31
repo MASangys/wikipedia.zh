@@ -1,3 +1,6 @@
+> 本文内容由[Eqn](https://zh.wikipedia.org/wiki/Eqn)转换而来。
+
+
 **eqn** 是 [UNIX](../Page/UNIX.md "wikilink") 作業系統中排版軟體 [Troff](../Page/Troff.md "wikilink") 的一部份，（ **Troff** 約同等於 [LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink") , [Microsoft Word](../Page/Microsoft_Word.md "wikilink") 的地位。）是用來處理數學公式排版的 [預處理器](https://zh.wikipedia.org/wiki/預處理器 "wikilink") 。於1974年由 [布萊恩·柯林漢](../Page/布萊恩·柯林漢.md "wikilink") 、 編寫。
 
 eqn 的特色是使用口語化的語法，意思是它撰寫起來和如何讀一條數學式子是極類似的。eqn 使用 [上下文無關語法](https://zh.wikipedia.org/wiki/上下文無關語法 "wikilink") 。eqn 與 [TeX](../Page/TeX.md "wikilink") 在數學排版上很類似，但 eqn 較為簡單、不完整。

@@ -1,3 +1,6 @@
+> 本文内容由[約翰·J·麥金太爾 \(政治人物\)](https://zh.wikipedia.org/wiki/約翰·J·麥金太爾 \(政治人物\))转换而来。
+
+
 **約翰·約瑟夫·麥金太爾**（；），是一位[美國民主黨的政治人物](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，曾在1941年至1943年期間擔任[美國眾議院](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州單一國會選區代表眾議員](https://zh.wikipedia.org/wiki/懷俄明州單一國會選區 "wikilink")。
 
 ## 政治生涯

@@ -1,3 +1,6 @@
+> 本文内容由[李娜恩 \(APRIL\)](https://zh.wikipedia.org/wiki/李娜恩 \(APRIL\))转换而来。
+
+
 **李娜恩**（韓語：**이나은<sup>*Lee Na Eun*</sup>** ，1999年5月5日－），韓國女子組合[APRIL成員](../Page/APRIL_\(女子團體\).md "wikilink")，韓國女歌手、演員。
 2015年8月24日隨組合發行第一張迷你專輯《Dreaming》正式出道\[1\]。2018年2月7日，與同組合成員李真率组成子團，發行數位單曲《My Story (내 이야기)》\[2\]；5月2日，與真率為《[Switch-改變世界](https://zh.wikipedia.org/wiki/Switch-改變世界 "wikilink")》獻唱OST《夜空的星星》\[3\]。
 2018年7月1日接演校園網路劇《[A-TEEN](../Page/A-TEEN_\(電視劇\).md "wikilink")》飾演金荷娜一角而人氣急升。該劇播出時曾創下1億4千萬點擊率，成為韓國史上最高人氣的網絡劇；2019年4月25日第二季《[A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink")》開播，並由第一季原班人馬出演\[4\]。

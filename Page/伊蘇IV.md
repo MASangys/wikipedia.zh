@@ -1,3 +1,6 @@
+> 本文内容由[伊蘇IV](https://zh.wikipedia.org/wiki/伊蘇IV)转换而来。
+
+
 是[日本Falcom](../Page/日本Falcom.md "wikilink")公司[动作角色扮演游戏系列](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")[伊苏第四代一系列游戏的统称](https://zh.wikipedia.org/wiki/伊苏 "wikilink")。游戏事件接着《[伊苏](https://zh.wikipedia.org/wiki/伊苏I "wikilink")》和《[伊苏II](https://zh.wikipedia.org/wiki/伊苏II "wikilink")》之后，主要情节發生在「塞爾塞塔」。
 
 此代Falcom只提供故事原案，將開發授權給[Hudson與](../Page/Hudson_Soft.md "wikilink")[Tonkin House兩間公司](https://zh.wikipedia.org/wiki/Tonkin_House "wikilink")。分別開發出了《[伊蘇的黎明](https://zh.wikipedia.org/wiki/伊蘇的黎明 "wikilink")》以及《[太陽的假面](https://zh.wikipedia.org/wiki/太陽的假面 "wikilink")》兩種版本。然而兩間公司的世界設定與故事，與伊蘇系列的原設定皆有所衝突。2012年Falcom自行開發了《[塞爾塞塔的樹海](https://zh.wikipedia.org/wiki/塞爾塞塔的樹海 "wikilink")》作為四代的官方正式版本。

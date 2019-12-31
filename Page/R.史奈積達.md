@@ -1,3 +1,6 @@
+> 本文内容由[R.史奈積達](https://zh.wikipedia.org/wiki/R.史奈積達)转换而来。
+
+
 **R.史奈積達**(**Rodney Sneijder**，出生於1991年3月31日）是[荷蘭的職業足球運動員](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，司職[中場](https://zh.wikipedia.org/wiki/中場 "wikilink")，現效力於[蘇格蘭足球超级联赛](https://zh.wikipedia.org/wiki/蘇格蘭足球超级联赛 "wikilink")[登地聯](https://zh.wikipedia.org/wiki/登地聯足球會 "wikilink")。
 
 ## 參考

@@ -1,3 +1,6 @@
+> 本文内容由[夏色 MY GIRL](https://zh.wikipedia.org/wiki/夏色 MY GIRL)转换而来。
+
+
 《**夏色 MY GIRL**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的第三張日語單曲 \[1\]、第二張原創日語單曲 \[2\]，由創作；[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink")、[Peniel](https://zh.wikipedia.org/wiki/Peniel "wikilink")、[鎰勳負責饒舌填詞](https://zh.wikipedia.org/wiki/鎰勳 "wikilink")，並在2015年8月19日以三個不同版本發行 \[3\]。
 
 ## 背景

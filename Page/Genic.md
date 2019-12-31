@@ -1,3 +1,6 @@
+> 本文内容由[Genic](https://zh.wikipedia.org/wiki/Genic)转换而来。
+
+
 \-{T|_genic}-  《**_genic**》（_時尚基因）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")第十二張專輯，於2015年6月10日由[Avex旗下新廠牌Dimension](https://zh.wikipedia.org/wiki/Avex "wikilink") Point發行。
 
 ## 簡介

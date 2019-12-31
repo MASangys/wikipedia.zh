@@ -1,3 +1,6 @@
+> 本文内容由[HSL 4](https://zh.wikipedia.org/wiki/HSL 4)转换而来。
+
+
 **HSL 4**（，）是一條[比利時的](https://zh.wikipedia.org/wiki/比利時 "wikilink")[高速鐵路](../Page/高速鐵路.md "wikilink")軸，連接[布魯塞爾與](https://zh.wikipedia.org/wiki/布魯塞爾 "wikilink")[荷蘭的邊界](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，全長40公里，當中有36公里為專線。路線於2009年啟用。
 
 路線與連接法國邊境的[HSL 1和連接](../Page/HSL_1.md "wikilink")[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")的[荷蘭高速鐵路南線共同縮短來往布魯塞爾](https://zh.wikipedia.org/wiki/荷蘭高速鐵路南線 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")和阿姆斯特丹的時間。 路線亦有[大力士高速列車](https://zh.wikipedia.org/wiki/大力士高速列車 "wikilink")、[Fyra](../Page/Fyra.md "wikilink")（後來終止營運）。預計未來尚有[英國鐵路374型電力動車組及](https://zh.wikipedia.org/wiki/英國鐵路374型電力動車組 "wikilink")[德國鐵路407型電力動車組營運](https://zh.wikipedia.org/wiki/德國鐵路407型電力動車組 "wikilink")。

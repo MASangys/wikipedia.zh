@@ -1,3 +1,6 @@
+> 本文内容由[O͘](https://zh.wikipedia.org/wiki/O͘)转换而来。
+
+
 , ，是[臺灣話](../Page/臺灣話.md "wikilink")書寫系統之一的教會羅馬字（[白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")）使用的[元音](../Page/元音.md "wikilink")字母，是由[O](../Page/O.md "wikilink")加上[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[組合附加符號](../Page/組合附加符號.md "wikilink")字符而成，不能与越南文[Ơ](../Page/Ơ.md "wikilink")相混淆。这个字母读作。
 
 这个字母[并未很好的得到电脑字体支持](https://zh.wikipedia.org/wiki/臺灣話#計算機處理 "wikilink")，而且常常输入成**o·**（使用[间隔号](../Page/间隔号.md "wikilink")）、**o•**（使用[着重号](../Page/着重号.md "wikilink")）、**oo**或者**ou**。在其他的書寫系統中，多寫作**oo**。

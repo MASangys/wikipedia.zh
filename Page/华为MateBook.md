@@ -1,3 +1,6 @@
+> 本文内容由[华为MateBook](https://zh.wikipedia.org/wiki/华为MateBook)转换而来。
+
+
 **华为MateBook**是[华为](../Page/华为.md "wikilink")研发的，运行[Windows 10系统的](../Page/Windows_10.md "wikilink")[2合1电脑产品](https://zh.wikipedia.org/wiki/2合1电脑 "wikilink")，于2016年2月21日在[世界移动通信大会开幕前夕对外推出](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink")。MateBook也是华为的第一款2合1电脑产品\[1\]\[2\]。
 
 ## 发展历史

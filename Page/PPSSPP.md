@@ -1,3 +1,6 @@
+> 本文内容由[PPSSPP](https://zh.wikipedia.org/wiki/PPSSPP)转换而来。
+
+
 **PPSSPP**（“**P**layStation **P**ortable **S**imulator **S**uitable for **P**laying **P**ortably”的[缩写](../Page/首字母縮略字.md "wikilink")）是一个[自由、开源](../Page/自由及开放源代码软件.md "wikilink")、[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[PlayStation Portable（PSP）](../Page/PlayStation_Portable.md "wikilink")[模拟器](../Page/游戏机模拟器.md "wikilink")。相较于JPCSP等其他同类模拟器，PPSSPP更专注性能与可移植性的提升。\[1\]
 
 Henrik Rydgård，[Dolphin模拟器的作者之一](../Page/Dolphin_\(模擬器\).md "wikilink")，创立了PPSSPP项目。\[2\]PPSSPP于2012年11月1日推出，使用GNU GPLv2+许可发布。\[3\]\[4\]

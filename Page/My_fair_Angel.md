@@ -1,3 +1,6 @@
+> 本文内容由[My fair Angel](https://zh.wikipedia.org/wiki/My fair Angel)转换而来。
+
+
 《**My fair Angel**》是日本[Studio e.go\!在](../Page/Studio_e.go!.md "wikilink")2001年7月27日發售的[戀愛模擬類型](https://zh.wikipedia.org/wiki/戀愛模擬 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年3月31日發售DVD版。\[2\]
 
 ## 故事

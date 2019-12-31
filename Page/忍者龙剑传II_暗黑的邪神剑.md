@@ -1,3 +1,6 @@
+> 本文内容由[忍者龙剑传II 暗黑的邪神剑](https://zh.wikipedia.org/wiki/忍者龙剑传II 暗黑的邪神剑)转换而来。
+
+
 是一款由[特库摩](../Page/特库摩.md "wikilink")在FC游戏上制作和发行的横向卷轴类[动作平台类游戏](../Page/平台游戏.md "wikilink")。\[1\] 本游戏于1990年4月6日在日本地区[FC游戏机上发行](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")。\[2\]游戏后移植至[Commodore Amiga和](https://zh.wikipedia.org/wiki/Commodore_Amiga "wikilink")[DOS](../Page/DOS.md "wikilink")。
 
 故事发生于初代《[忍者龙剑传](https://zh.wikipedia.org/wiki/忍者龙剑传_\(FC\) "wikilink")》的1年之前。游戏开始于黑暗境地的恶魔领主阿斯塔。他计划打开黑暗之门来统治地球。

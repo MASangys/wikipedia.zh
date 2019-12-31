@@ -1,3 +1,6 @@
+> 本文内容由[CB \(行际网\)](https://zh.wikipedia.org/wiki/CB \(行际网\))转换而来。
+
+
 **Groupement des Cartes Bancaires CB**（意为CB[银行卡](../Page/银行卡.md "wikilink")集团），亦被人们称作**CB**，是[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")，拥有超过46,000台[自动柜员机以及超过](https://zh.wikipedia.org/wiki/自动柜员机 "wikilink")100万个受理点。\[1\]
 
 Carte Bleue[维萨双标卡是常见的CB卡](https://zh.wikipedia.org/wiki/维萨 "wikilink")。事实上，所有的Carte Bleue卡都是CB卡，但不是所有的CB卡都是Carte Bleue（CB卡也可以是[万事达卡](../Page/万事达卡.md "wikilink")）。CB提供ATM和EFTPOS网络基础设施，[Carte Bleue是运行于其上的](../Page/Carte_Bleue.md "wikilink")[借记卡](../Page/借记卡.md "wikilink")或支付方式。

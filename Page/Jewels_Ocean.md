@@ -1,3 +1,6 @@
+> 本文内容由[Jewels Ocean](https://zh.wikipedia.org/wiki/Jewels Ocean)转换而来。
+
+
 是日本[Escu:de](../Page/Escu:de.md "wikilink")在2004年3月19日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2006年2月23日由Pionesoft發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《**Jewels Ocean** Star of Sierra Leone》（ジュエルスオーシャン Star of Sierra Leone）。\[3\]除了遊戲外也發售CD、小說等相關作品。
 
 ## 故事

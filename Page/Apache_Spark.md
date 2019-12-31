@@ -1,3 +1,6 @@
+> 本文内容由[Apache Spark](https://zh.wikipedia.org/wiki/Apache Spark)转换而来。
+
+
 **Apache Spark**是一個[開源叢集運算框架](https://zh.wikipedia.org/wiki/開源 "wikilink")，最初是由加州大學柏克萊分校AMPLab所開發。相對於[Hadoop的](../Page/Apache_Hadoop.md "wikilink")[MapReduce](../Page/MapReduce.md "wikilink")會在執行完工作後將中介資料存放到磁碟中，Spark使用了記憶體內運算技術，能在資料尚未寫入硬碟時即在記憶體內分析運算。Spark在記憶體內執行程式的運算速度能做到比Hadoop MapReduce的運算速度快上100倍，即便是執行程式於硬碟時，Spark也能快上10倍速度。\[1\]Spark允許用戶將資料加載至叢集記憶體，並多次對其進行查詢，非常適合用於[機器學習演算法](https://zh.wikipedia.org/wiki/機器學習 "wikilink")。\[2\]
 
 使用Spark需要搭配叢集管理員和分散式儲存系統。Spark支援獨立模式（本地Spark叢集）、[Hadoop YARN或](../Page/Apache_Hadoop.md "wikilink")[Apache Mesos的叢集管理](https://zh.wikipedia.org/wiki/Apache_Mesos "wikilink")。\[3\] 在分散式儲存方面，Spark可以和 [Alluxio](../Page/Alluxio.md "wikilink"), [HDFS](../Page/Apache_Hadoop.md "wikilink")\[4\]、 [Cassandra](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")\[5\] 、[OpenStack Swift和](https://zh.wikipedia.org/wiki/OpenStack#Object_Storage_\(Swift\) "wikilink")[Amazon S3等介面搭載](../Page/Amazon_S3.md "wikilink")。 Spark也支援偽分散式（pseudo-distributed）本地模式，不過通常只用於開發或測試時以本機檔案系統取代分散式儲存系統。在這樣的情況下，Spark僅在一台機器上使用每個CPU核心執行程序。

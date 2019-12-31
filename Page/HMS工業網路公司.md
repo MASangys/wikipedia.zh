@@ -1,3 +1,6 @@
+> 本文内容由[HMS工業網路公司](https://zh.wikipedia.org/wiki/HMS工業網路公司)转换而来。
+
+
 **HMS工業網路公司**（HMS Industrial Networks）是從事[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")[通訊的公司](https://zh.wikipedia.org/wiki/通訊 "wikilink")\[1\]，總部在[瑞典](../Page/瑞典.md "wikilink")[哈尔姆斯塔德](../Page/哈尔姆斯塔德.md "wikilink")，是[斯德哥爾摩證券交易所的上市公司](https://zh.wikipedia.org/wiki/斯德哥爾摩證券交易所 "wikilink")，在十個國家有分公司，員工人數超過350人，2012的營業額有5700萬歐元\[2\]
 
 HMS工業網路公司是在1988年由 Nicolas Hassbjer創立，HMS代表Hassbjer MicroSystems，曾被瑞典贸易委员会評選為「年度出口公司」\[3\]。

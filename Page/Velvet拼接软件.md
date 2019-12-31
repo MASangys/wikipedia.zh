@@ -1,3 +1,6 @@
+> 本文内容由[Velvet拼接软件](https://zh.wikipedia.org/wiki/Velvet拼接软件)转换而来。
+
+
 **Velvet**是处理从头测序（*de novo*）[基因组组装及短读长](../Page/基因组计划.md "wikilink")[序列比對](../Page/序列比對.md "wikilink")的一个算法包。这是使用通过消除错误和化简重复区域而来进行基因组序列组装。\[1\] Geneious、、等商业软件包的内部也实现了Velvet。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[Indie Built](https://zh.wikipedia.org/wiki/Indie Built)转换而来。
+
+
 **Indie Built**（原名为**Access Software**），是一家由布鲁斯·卡弗成立于1982年的游戏开发商，工作室位于犹他州盐湖城。\[1\]
 
 Access Software于1999年被微软收购，\[2\]成为微软游戏工作室的一部分，并更名为“盐湖游戏工作室”。2003年，它更名为“独立游戏”。

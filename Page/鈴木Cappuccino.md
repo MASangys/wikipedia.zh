@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Cappuccino](https://zh.wikipedia.org/wiki/鈴木Cappuccino)转换而来。
+
+
 **鈴木Cappuccino**（）是1990年代[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型](../Page/輕型車.md "wikilink")[雙座敞篷車](../Page/雙座敞篷車.md "wikilink")。車名來自[義大利泡沫](https://zh.wikipedia.org/wiki/義大利 "wikilink")[咖啡](../Page/咖啡.md "wikilink")「[卡布奇諾](https://zh.wikipedia.org/wiki/卡布奇諾 "wikilink")」，以顯現小巧精緻敞篷車的形象\[1\]。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[Splatoon](https://zh.wikipedia.org/wiki/Splatoon)转换而来。
+
+
 是由[任天堂情报开发本部第](../Page/任天堂情報開發本部.md "wikilink")2组开发的[第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")，于2015年5月在全球[Wii U平台发行](../Page/Wii_U.md "wikilink")。游戏主角为名为“墨灵”（， Inklings）的生物，其可以在人形与[乌贼](https://zh.wikipedia.org/wiki/乌贼 "wikilink")（，Squid）形态之间自由转换，用枪状或刷状武器在物体表面喷射彩色墨水，并在墨水里潜泳。《Splatoon》提供有多种游戏模式，包括4对4在线多人比赛，游戏基本规则是以墨水喷涂地面，面积大者队伍为胜\[1\]。此外还有单人英雄模式以及1对1本地多人模式。
 
 《Splatoon》一经公布和发行就获得了总体上正面的评价，舆论普遍赞赏任天堂决定以全新[知识产权](../Page/知识产权.md "wikilink")（IP）品牌进入这一游戏类型，并积极称赞了游戏整体风格与画面、游戏玩法机制以及音乐。然而另一方面，媒体也多批评游戏缺少同类作品中的某些功能（例如[音频聊天](https://zh.wikipedia.org/wiki/音频聊天 "wikilink")）、必须使用[Amiibo才能解锁某些内容](https://zh.wikipedia.org/wiki/Amiibo "wikilink")、多人地图过少以及在线配对等问题。《Splatoon》上市后销售势头强劲，首周在日本和英国分列销量排行第一和第二位，并成为英国销量最高的Wii U新IP作品。截至2017年9月，《Splatoon》在全球已卖出487万份。\[2\]

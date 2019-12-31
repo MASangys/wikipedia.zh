@@ -1,3 +1,6 @@
+> 本文内容由[配角X³](https://zh.wikipedia.org/wiki/配角X³)转换而来。
+
+
 《**配角X³**》（Supporting role Actor X³）為 [臺灣](../Page/臺灣.md "wikilink")漫畫家[宇文風之作品](https://zh.wikipedia.org/wiki/宇文風 "wikilink")。\[1\]2015年2月正式開始於[東立出版社](../Page/東立出版社.md "wikilink")《[龍少年](https://zh.wikipedia.org/wiki/龍少年 "wikilink")》連載，單行本第一本於同年7月3日發售。
 
 内容以「配角」的角度來描述故事。\[2\]\[3\]

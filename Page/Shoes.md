@@ -1,3 +1,6 @@
+> 本文内容由[Shoes](https://zh.wikipedia.org/wiki/Shoes)转换而来。
+
+
 **Shoes** 是一套基于 [Ruby](../Page/Ruby.md "wikilink") 语言的 [GUI](https://zh.wikipedia.org/wiki/GUI "wikilink") 开发工具。其最初由  开发，在他停止了一切公开活动之后，社区接手了该项目并继续开发。Shoes 可以在 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink") 和 [Linux](../Page/Linux.md "wikilink")（[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")）上运行，底层使用了 [Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink") 和 [Pango](../Page/Pango.md "wikilink") 函数库。
 
 Shoes 的设计哲学是应用程序的编写越简单越好。下面是一个 Shoes 应用的范例：

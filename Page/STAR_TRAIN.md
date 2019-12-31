@@ -1,3 +1,6 @@
+> 本文内容由[STAR TRAIN](https://zh.wikipedia.org/wiki/STAR TRAIN)转换而来。
+
+
 《**STAR TRAIN**》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](../Page/Perfume_\(日本音樂團體\).md "wikilink")22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。單曲於2015年10月28日發行。唱片公司為[Perfume Records / UNIVERSAL J](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 介绍

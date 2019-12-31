@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·R·欣德曼](https://zh.wikipedia.org/wiki/詹姆斯·R·欣德曼)转换而来。
+
+
 **詹姆斯·R·欣德曼**（，）\[1\]，是一名美国政治家，曾任第23届[肯塔基州副州长](../Page/肯塔基州副州长.md "wikilink")。
 
 1839年，他出生于肯塔基州。1883年，他竞选并担任[肯塔基州副州长](../Page/肯塔基州副州长.md "wikilink")。[欣德曼市以他命名](https://zh.wikipedia.org/wiki/欣德曼市 "wikilink")。

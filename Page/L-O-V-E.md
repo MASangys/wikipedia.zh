@@ -1,3 +1,6 @@
+> 本文内容由[L-O-V-E](https://zh.wikipedia.org/wiki/L-O-V-E)转换而来。
+
+
 **L-O-V-E** 是[纳·京·高尔录制在他的](https://zh.wikipedia.org/wiki/纳·京·高尔 "wikilink")中的一首歌曲 。它由作曲，作词。小号独奏是由来演奏\[1\] 这首歌有一个器乐版本，出现在之前 Kaempfert的专辑*Blue Midnight中 *(1964)。
 
 Cole同时也录有"L-O-V-E"的意，法，西，德，日语的这几个版本。

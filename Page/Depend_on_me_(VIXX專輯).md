@@ -1,3 +1,6 @@
+> 本文内容由[Depend on me \(VIXX專輯\)](https://zh.wikipedia.org/wiki/Depend on me \(VIXX專輯\))转换而来。
+
+
 《**Depend on me**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的首張日語正規專輯，於2016年1月27日發行\[1\]，主打曲目為《Depend on me》。
 
 ## 曲目

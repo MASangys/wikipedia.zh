@@ -1,3 +1,6 @@
+> 本文内容由[Bitstream Charter](https://zh.wikipedia.org/wiki/Bitstream Charter)转换而来。
+
+
 **Bitstream Charter** 是一個由[馬修·卡特](../Page/馬修·卡特.md "wikilink")於1987年為 [Bitstream](https://zh.wikipedia.org/wiki/Bitstream "wikilink") 設計的有襯線體字型\[1\]，它的設計是基於於18世紀所創造的字型\[2\]。被 Bitstream 分類為[過渡體字體](https://zh.wikipedia.org/wiki/襯線體#過渡體 "wikilink")（Bitstream Transitional 801），它亦有一些[粗襯線體的特質](https://zh.wikipedia.org/wiki/粗襯線體 "wikilink")，亦經常被分類為粗襯線體\[3\]\[4\]。
 
 Charter 本來是為1980年代低解像度，約300 DPI 的[雷射印表機而設](https://zh.wikipedia.org/wiki/雷射印表機 "wikilink")，但是由於其強烈而清𥇦的設計，它在現代高解像度的雷射印表機和低解像度的噴墨印表機仍然適用，而它的設計是針對低記憶體的電腦和印表機而設。在2013年的訪問中，馬修·卡特提及，該字體擁有「一個很簡單的結構和最少量的曲線，更多直線部分，比例如 [Times New Roman](../Page/Times_New_Roman.md "wikilink") 更簡樸」\[5\]。由於它簡單的襯線體設計，它比馬修·卡特在之後於[Georgia的劃時代設計更早](../Page/Georgia_\(字型\).md "wikilink")。

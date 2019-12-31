@@ -1,3 +1,6 @@
+> 本文内容由[WLKM加特林重機槍](https://zh.wikipedia.org/wiki/WLKM加特林重機槍)转换而来。
+
+
 **WLKM “Szafir ”**（Szafir，意為：[蓝宝石](../Page/蓝宝石.md "wikilink")）是一挺由[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")[機械設備的研究和發展中心](https://zh.wikipedia.org/wiki/機械設備的研究和發展中心 "wikilink")（簡稱：OBRSM塔爾努夫公司）製造的車載4[槍管](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[重机枪](../Page/重机枪.md "wikilink")，於2014年國際國防工業展（MSPO 2014）上首次展出，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節

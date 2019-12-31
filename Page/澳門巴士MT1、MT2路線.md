@@ -1,3 +1,6 @@
+> 本文内容由[澳門巴士MT1、MT2路線](https://zh.wikipedia.org/wiki/澳門巴士MT1、MT2路線)转换而来。
+
+
 **澳門巴士[MT1](../Page/澳門巴士MT1路線.md "wikilink")、[MT2路線](../Page/澳門巴士MT2路線.md "wikilink")**原為兩條分別以順時針及逆時針方向行駛的、往返澳門半島及機場的[巴士路線](https://zh.wikipedia.org/wiki/澳門巴士 "wikilink")，隨著2016年12月18日MT2路線縮短行程至駿景酒店、MT1路線回程不再行經海洋花園，兩線已不再呈相向環島走向。
 
 ## 歷史及簡介

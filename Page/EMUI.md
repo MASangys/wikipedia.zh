@@ -1,3 +1,6 @@
+> 本文内容由[EMUI](https://zh.wikipedia.org/wiki/EMUI)转换而来。
+
+
 **EMUI**是由[華為開發的](https://zh.wikipedia.org/wiki/華為 "wikilink")[Android](../Page/Android.md "wikilink")裝置固件\[1\]。EMUI原名Emotion UI，2014年9月4日，华为在IFA发布会上宣布，Emotion UI正式更名为EMUI\[2\]。
 
 ## 历史

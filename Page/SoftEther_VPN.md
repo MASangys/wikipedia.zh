@@ -1,3 +1,6 @@
+> 本文内容由[SoftEther VPN](https://zh.wikipedia.org/wiki/SoftEther VPN)转换而来。
+
+
 **SoftEther VPN**是一個由[筑波大學研究生Daiyuu](https://zh.wikipedia.org/wiki/筑波大學 "wikilink") Nobori（[登大遊](../Page/登大遊.md "wikilink")）因碩士論文而開發的開源、跨平台、多重協定的[虛擬私人網路](../Page/虛擬私人網路.md "wikilink")方案，此方案讓一些[虛擬私人網路](../Page/虛擬私人網路.md "wikilink")協定像是SSL VPN 、[L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")、[IPsec](../Page/IPsec.md "wikilink")、[OpenVPN](../Page/OpenVPN.md "wikilink")以及微軟[SSTP都由同一個單一](https://zh.wikipedia.org/wiki/SSTP "wikilink")[VPN伺服器提供](https://zh.wikipedia.org/wiki/VPN "wikilink")。在2014年1月4日以[GNU通用公共授權條款的方式转变为](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")[开源软件](../Page/开源软件.md "wikilink")。
 
 SoftEther VPN是專門被設計為穿過防火牆的，支援[NAT穿透](../Page/NAT穿透.md "wikilink")，使其能越過政府或組織的防火牆，建立VPN通道。2013年3月，官方开始提供VPN Gate公共VPN中继服务器列表插件，以简化高强度[网络审查地区有](https://zh.wikipedia.org/wiki/网络审查 "wikilink")[突破网络封锁](https://zh.wikipedia.org/wiki/突破网络封锁 "wikilink")（翻墙）需求的用户的操作复杂程度。因為用了HTTPS來偽裝連接，防火牆的[深度封包檢測無法偵測到SoftEther的VPN傳送封包構成的VPN通道](https://zh.wikipedia.org/wiki/深度封包檢測 "wikilink")。但SoftEther的[SSL VPN協定在中國大陸的部分地區仍然被封鎖](https://zh.wikipedia.org/wiki/SSL_VPN "wikilink")。

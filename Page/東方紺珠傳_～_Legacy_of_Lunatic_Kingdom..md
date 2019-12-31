@@ -1,3 +1,6 @@
+> 本文内容由[東方紺珠傳 ～ Legacy of Lunatic Kingdom.](https://zh.wikipedia.org/wiki/東方紺珠傳 ～ Legacy of Lunatic Kingdom.)转换而来。
+
+
 是由同人組織[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")發布的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，為[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")15作。 [Th15_gameplay.png](https://zh.wikipedia.org/wiki/File:Th15_gameplay.png "fig:Th15_gameplay.png")
 
 ## 劇情簡介

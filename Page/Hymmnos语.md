@@ -1,3 +1,6 @@
+> 本文内容由[Hymmnos语](https://zh.wikipedia.org/wiki/Hymmnos语)转换而来。
+
+
 **Hymmnos语**（）又称作**塔语**、**AT语**，因为“hymmnos”词义为“诗歌”，故又称做**诗语**。是在[株式会社万普和](https://zh.wikipedia.org/wiki/株式会社万普 "wikilink")[Gust](../Page/Gust.md "wikilink")的原创作品“[魔塔大陸系列](../Page/魔塔大陸系列.md "wikilink")”（[PS2和](https://zh.wikipedia.org/wiki/PS2 "wikilink")[PS3上的游戏软件](https://zh.wikipedia.org/wiki/PS3 "wikilink")）中以及其衍生作品和关联作品中出现的一种[架空语言](../Page/藝術語言.md "wikilink")。并且，在作品外也单指没有使用Hymmnos文字（而是拉丁字母）写作的Hymmnos歌曲，但其本意和Hymmnos语没有区别（类似于俄语的[西里尔字母](../Page/西里尔字母.md "wikilink")写法和[拉丁字母](../Page/拉丁字母.md "wikilink")写法）。由于该语言存在基本的语法和[词典](http://hymmnoserver.uguu.ca/browse.php)，现实世界也存在少量再利用该语言的人群。但同时，因为词汇量比较少，再加上官方给出的词典并没有涵盖所有的单词。所以基本只能用来写诗或歌曲，而难以用来日常交流。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[F0rest](https://zh.wikipedia.org/wiki/F0rest)转换而来。
+
+
 **帕特里克·林伯格**（，），以[化名](../Page/化名.md "wikilink")**f0rest**著稱，是一位[瑞典](../Page/瑞典.md "wikilink")[職業電競選手](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，他因為在競爭激烈的《[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》領域有著長期卓越的表現而出名。林伯格自2005年展露頭角，作為全球頂尖的《絕對武力》玩家之一， 他在電子競技界已經享有盛名。林伯格最有名的是他在[Fnatic](../Page/Fnatic.md "wikilink")的四年期間，他幫助Fnatic成為2009年最具優勢的隊伍，在此年當中，該隊打破了《絕對武力》歷史上收入最高隊伍的紀錄。\[1\]2010年年底，林伯格離開Fnatic並加入[SK Gaming](../Page/SK_Gaming.md "wikilink")，\[2\]隨後，他在2012年7月離隊。\[3\]不久之後，他加入[睡衣忍者](../Page/睡衣忍者.md "wikilink")並轉投《[絕對武力：全球攻勢](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》戰場。\[4\]
 
 ## 職業生涯

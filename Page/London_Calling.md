@@ -1,3 +1,6 @@
+> 本文内容由[London Calling](https://zh.wikipedia.org/wiki/London Calling)转换而来。
+
+
 《》（译名《伦敦呼唤》）是英国朋克乐队[衝擊合唱團](../Page/衝擊合唱團.md "wikilink")的第三张录音室专辑，于1979年12月在英国发行\[1\]。该专辑的音乐类型为[後朋克](https://zh.wikipedia.org/wiki/後朋克 "wikilink")，融合了许多其他风格，包括朋克、[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")、[洛卡比里](../Page/洛卡比里.md "wikilink")、[斯卡](../Page/斯卡.md "wikilink")、、、[流行和](../Page/流行_\(音樂類型\).md "wikilink")[硬摇滚](https://zh.wikipedia.org/wiki/硬摇滚 "wikilink")。它收获了一致好评，在《[滚石](https://zh.wikipedia.org/wiki/滚石_\(杂志\) "wikilink")》杂志“[史上最伟大的500张专辑](https://zh.wikipedia.org/wiki/史上最伟大的500张专辑 "wikilink")”榜单上排名第8位。《》在[英國專輯排行榜](../Page/英國專輯排行榜.md "wikilink")上进入了前10位，其中[收录的同名单曲也进入了单曲榜前](https://zh.wikipedia.org/wiki/London_Calling_\(歌曲\) "wikilink")20位。它已在全球售出了超过五百万张，在美国获得了白金认证\[2\]。
 
 ## 曲目列表

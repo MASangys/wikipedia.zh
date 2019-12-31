@@ -1,3 +1,6 @@
+> 本文内容由[Exmor](https://zh.wikipedia.org/wiki/Exmor)转换而来。
+
+
 [Sony_Exmor.jpg](https://zh.wikipedia.org/wiki/File:Sony_Exmor.jpg "fig:Sony_Exmor.jpg") **Exmor**是索尼公司应用在其部分[CMOS图像传感器上的技术名称](https://zh.wikipedia.org/wiki/CMOS "wikilink")。其可以实现片上[模数转换以及错行像素的两步降噪并行处理](https://zh.wikipedia.org/wiki/模数转换 "wikilink")。
 
 **Exmor R**则是索尼的Exmor的版本\[1\] 。索尼公司于2008年6月11日发布Exmor R，其也是世界上首个量产型背照式传感器技术\[2\] 。索尼声称Exmor R约可达到传统前照式传感器（front illuminated sensor）两倍灵敏度。这类在一些索尼出品的拍照手机与相机中有应用，甚至[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone 4S与](https://zh.wikipedia.org/wiki/iPhone_4S "wikilink")[iPhone 5中也有应用](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")\[3\]\[4\] 。Exmor R传感器有助于帮助智能手机在低照度环境下获取高分辨率视频或静止图像。

@@ -1,3 +1,6 @@
+> 本文内容由[次甘氨酸A](https://zh.wikipedia.org/wiki/次甘氨酸A)转换而来。
+
+
 **次甘氨酸A**（）是一种存在于[无患子科植物中的](https://zh.wikipedia.org/wiki/无患子科 "wikilink")[非蛋白氨基酸](https://zh.wikipedia.org/wiki/非蛋白氨基酸 "wikilink")。大劑量摄入會引起。
 
 ## 来源

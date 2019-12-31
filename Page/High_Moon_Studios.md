@@ -1,3 +1,6 @@
+> 本文内容由[High Moon Studios](https://zh.wikipedia.org/wiki/High Moon Studios)转换而来。
+
+
 **High Moon Studios**（前身为**Sammy Studios**），是美国的游戏开发商。曾经是内华达娱乐的一部分，于2006年1月被[维旺迪游戏](../Page/维旺迪游戏.md "wikilink")收购并保留现在的名字。现在是由[动视暴雪](../Page/动视暴雪.md "wikilink")的全资子公司\[1\]\[2\]。
 
 ## 旗下游戏

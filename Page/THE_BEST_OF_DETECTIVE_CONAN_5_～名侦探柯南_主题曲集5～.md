@@ -1,3 +1,6 @@
+> 本文内容由[THE BEST OF DETECTIVE CONAN 5 ～名侦探柯南 主题曲集5～](https://zh.wikipedia.org/wiki/THE BEST OF DETECTIVE CONAN 5 ～名侦探柯南 主题曲集5～)转换而来。
+
+
 《THE BEST OF DETECTIVE CONAN 5 \~名侦探柯南 主题曲集5\~》（）是改编自日本漫画家[青山刚昌原作](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》的同名电视动画《名侦探柯南》的第五张主题曲合辑。
 
 ## 内容

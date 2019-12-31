@@ -1,3 +1,6 @@
+> 本文内容由[AKB48的今夜來外宿](https://zh.wikipedia.org/wiki/AKB48的今夜來外宿)转换而来。
+
+
 《**AKB48的今夜來外宿**》（）是[日本電視台](../Page/日本電視台.md "wikilink")自2015年10月5日\[1\]至12月21日，於每週一深夜25時29分至59分播放的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")。此節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")與其姊妹團體的冠名節目之一，由[搞笑二人組](../Page/搞笑藝人.md "wikilink")（）擔任節目[主持](https://zh.wikipedia.org/wiki/主持人 "wikilink")，並由AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")與[NGT48](../Page/NGT48.md "wikilink")的新進成員組成固定演出班底，以對話的方式在[攝影棚內進行節目流程](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")。
 
 ## 節目特色與流程

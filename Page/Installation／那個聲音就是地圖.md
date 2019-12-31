@@ -1,3 +1,6 @@
+> 本文内容由[Installation／那個聲音就是地圖](https://zh.wikipedia.org/wiki/Installation／那個聲音就是地圖)转换而来。
+
+
 ORICON STYLE|publisher=[オリコン](https://zh.wikipedia.org/wiki/オリコン "wikilink")|accessdate=2016-02-11}}</ref>）</small>
 
   - 39位<small>（[Billboard Japan Hot 100](https://zh.wikipedia.org/wiki/Billboard "wikilink")\[1\]）</small>

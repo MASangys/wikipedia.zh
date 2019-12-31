@@ -1,3 +1,6 @@
+> 本文内容由[BuzzFeed](https://zh.wikipedia.org/wiki/BuzzFeed)转换而来。
+
+
 **BuzzFeed**是一間美國的網路新聞媒體公司，由[喬納·派瑞提](https://zh.wikipedia.org/wiki/喬納·派瑞提 "wikilink")（Jonah Peretti）於2006年在紐約市成立。公司最初是一間研究網路熱門話題的實驗室（viral lab），如今已成為全球性的\[1\]媒體和科技公司，提供包括政治、手工藝、動物和商業等主題的新聞內容。2011年下半，《[Politico](https://zh.wikipedia.org/wiki/Politico "wikilink")》雜誌的[班·史密斯](https://zh.wikipedia.org/wiki/班·史密斯 "wikilink")（Ben Smith）受聘為BuzzFeed的總編輯，希望能藉此增加較嚴肅之新聞和長篇報導內容\[2\]。
 
 ## 歷史

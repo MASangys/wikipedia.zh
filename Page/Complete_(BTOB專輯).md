@@ -1,3 +1,6 @@
+> 本文内容由[Complete \(BTOB專輯\)](https://zh.wikipedia.org/wiki/Complete \(BTOB專輯\))转换而来。
+
+
 《**Complete**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BTOB](../Page/BTOB.md "wikilink")的首張韓語正規專輯，於2015年6月29日發行\[1\]，主打曲目為〈沒關係〉（）。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[WebAssembly](https://zh.wikipedia.org/wiki/WebAssembly)转换而来。
+
+
 **WebAssembly**或稱**wasm**是一個實驗性的[低階程式語言](https://zh.wikipedia.org/wiki/低级编程语言 "wikilink")，應用於[瀏覽器內的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")。WebAssembly是可攜式的[抽象語法樹](https://zh.wikipedia.org/wiki/抽象語法樹 "wikilink")\[1\]，被設計來提供比[JavaScript](../Page/JavaScript.md "wikilink")更快速的[編譯及執行](https://zh.wikipedia.org/wiki/編譯 "wikilink")\[2\]。WebAssembly將讓開發者能運用自己熟悉的程式語言（最初以[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")/[C++](../Page/C++.md "wikilink")作為實作目標）編譯，再藉虛擬機器引擎在瀏覽器內執行\[3\]。WebAssembly的開發團隊分別來自[Mozilla](../Page/Mozilla基金會.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Microsoft](https://zh.wikipedia.org/wiki/微軟 "wikilink")、[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，代表著四大網路瀏覽器[Firefox](../Page/Firefox.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Safari](../Page/Safari.md "wikilink")\[4\]。2017年11月，以上四個瀏覽器都開始實驗性的支援WebAssembly\[5\]\[6\]。WebAssembly 于 2019 年 12 月 5 日成为万维网联盟（W3C）的推荐，与 HTML，CSS 和 JavaScript 一起，成为 Web 的第四种语言。\[7\]。
 
 ## 設計

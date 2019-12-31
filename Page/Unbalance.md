@@ -1,3 +1,6 @@
+> 本文内容由[Unbalance](https://zh.wikipedia.org/wiki/Unbalance)转换而来。
+
+
 是日本Cherry soft（ちぇりーそふと）公司在2000年7月7日發售的冒險類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]OVA由DISCOVERY在2002年6月28日開始發售共3集。\[3\]
 
 ## 故事

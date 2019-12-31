@@ -1,3 +1,6 @@
+> 本文内容由[THE BAWDIES](https://zh.wikipedia.org/wiki/THE BAWDIES)转换而来。
+
+
 **THE BAWDIES**（ザ・ボゥディーズ）是日本的知名搖滾樂團，由ROY、TAXMAN、JIM、MARCY四位成員組成。樂團風格受到[小理查德](../Page/小理查德.md "wikilink")、[雷·查爾斯等所代表的](https://zh.wikipedia.org/wiki/雷·查爾斯 "wikilink")[節奏藍調和](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[Rock and Roll的影響](../Page/摇滚.md "wikilink")，歌曲是在日本罕見得全部以英文填詞的方式發表。
 2014年1月18日，主唱ROY在自己的[推特發表了和日本模特兒](https://zh.wikipedia.org/wiki/推特 "wikilink")/歌手組合中的入籍結婚的消息。\[1\]
 

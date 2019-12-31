@@ -1,3 +1,6 @@
+> 本文内容由[VeraCrypt](https://zh.wikipedia.org/wiki/VeraCrypt)转换而来。
+
+
 **VeraCrypt**是一款[开放源代码](../Page/开放源代码.md "wikilink")的（OTFE）。\[1\]它可以创建一个虚拟加密磁盘文件或加密分区\[2\]，或整个[存储设备](https://zh.wikipedia.org/wiki/存储设备 "wikilink")（除非使用了[UEFI或](https://zh.wikipedia.org/wiki/UEFI "wikilink")[GPT](../Page/GUID磁碟分割表.md "wikilink")）。\[3\]
 
 VeraCrypt是已经停止开发的[TrueCrypt](../Page/TrueCrypt.md "wikilink")项目的一个分支\[4\]，初始版本发布于2013年6月22日，截至目前為止最新的版本為v1.23，發布於2018年9月12日\[5\]。据其开发者声称，安全方面的改进已经落实，最初TrueCrypt的[代码审计问题已得到解决](https://zh.wikipedia.org/wiki/代码审计 "wikilink")。\[6\]

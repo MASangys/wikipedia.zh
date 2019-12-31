@@ -1,3 +1,6 @@
+> 本文内容由[BMW錦標賽](https://zh.wikipedia.org/wiki/BMW錦標賽)转换而来。
+
+
 **BMW錦標賽**（BMW Championship）是美國高爾夫[PGA巡迴賽的賽事之一](https://zh.wikipedia.org/wiki/PGA巡迴賽 "wikilink")，也是聯邦快遞杯四個季后賽賽事中的第三個賽事。BMW錦標賽的前身是西部公開賽（Western Open） \[1\]。
 
 ## 參考資料

@@ -1,3 +1,6 @@
+> 本文内容由[MAZE☆爆熱時空](https://zh.wikipedia.org/wiki/MAZE☆爆熱時空)转换而来。
+
+
 《**MAZE☆爆熱時空**》是[日本](../Page/日本.md "wikilink")作家[赤堀悟](../Page/赤堀悟.md "wikilink")（）的[輕小說](../Page/輕小說.md "wikilink")系列作品，插圖是[菅沼榮治](https://zh.wikipedia.org/wiki/菅沼榮治 "wikilink")。在[The Sneaker刊載](../Page/The_Sneaker.md "wikilink")、由[角川書店](../Page/角川書店.md "wikilink")發售。後來改編成[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、[劇場動畫](https://zh.wikipedia.org/wiki/劇場動畫 "wikilink")、[漫畫等作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 故事

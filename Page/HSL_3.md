@@ -1,3 +1,6 @@
+> 本文内容由[HSL 3](https://zh.wikipedia.org/wiki/HSL 3)转换而来。
+
+
 **HSL 3**（，，）是一條[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[高速鐵路](../Page/高速鐵路.md "wikilink")線，連接列日和德國近亞琛的邊境，全長56公里，當中42公里為高速專線。
 
 路線於2007年10月完工，但直接2009年6月14日才開始有德國[ICE列車營運](https://zh.wikipedia.org/wiki/ICE "wikilink")。[大力士高速列車自](https://zh.wikipedia.org/wiki/大力士高速列車 "wikilink")2009年12月13日起使用此線。\[1\]兩者間的時差是由於執行[ETCS 2級時遇上困難](../Page/歐洲列車控制系統.md "wikilink")，因為沒有列車能符合ERTMS的標準。\[2\]

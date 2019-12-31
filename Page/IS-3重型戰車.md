@@ -1,3 +1,6 @@
+> 本文内容由[IS-3重型戰車](https://zh.wikipedia.org/wiki/IS-3重型戰車)转换而来。
+
+
 **IS-3重型戰車**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**ИС-3**；開發代號**703工程**） 是一款[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰期間開發出的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型坦克](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，首次出現於1945年在[柏林](../Page/柏林.md "wikilink")舉行的勝利閱兵，並隨即以其優異的裝甲設計及性能震驚了在場觀禮的西方官員；西方國家也立刻著手發展更強大的戰車以對抗IS-3。然而由於該戰車在戰爭結束前幾天才開始量產，因而未能趕上任何戰鬥。也因此，IS-3通常被認為是[蘇聯的第一款戰後戰車](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")。「IS」指的是[蘇聯領導人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[約瑟夫·史達林的姓名縮寫](https://zh.wikipedia.org/wiki/約瑟夫·史達林 "wikilink")，而「3」指的是[IS系列戰車第三型](https://zh.wikipedia.org/wiki/IS系列戰車 "wikilink")；IS也是1943年至1959年間[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[重型戰車的正式名稱](https://zh.wikipedia.org/wiki/重型戰車 "wikilink")。IS-3搭載了一門與[IS-2重型坦克](../Page/IS-2重型坦克.md "wikilink")相同的122毫米主炮，並擁有十分獨特的裝甲佈局；其車體正面裝甲的特殊造型後來被稱為「楔形裝甲」。
 
 ## 名稱

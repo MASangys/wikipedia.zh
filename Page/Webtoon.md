@@ -1,3 +1,6 @@
+> 本文内容由[Webtoon](https://zh.wikipedia.org/wiki/Webtoon)转换而来。
+
+
 **Webtoon**（）是一種始創於[韓國的新概念](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡漫畫](../Page/網絡漫畫.md "wikilink")，由「**Web**（網絡）」及「Car**toon**（漫畫、卡通）」組成，只需向上下滑動就能閱讀，不需翻頁，是一種專為[電腦及](https://zh.wikipedia.org/wiki/電腦 "wikilink")[行動裝置而設的漫畫](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
 
 [Daum於](https://zh.wikipedia.org/wiki/Daum "wikilink")2003年創立Daum Webtoon平台，隨後[NAVER](../Page/NAVER.md "wikilink")也於2004年創立Naver Webtoon平台。\[9\]，Daum已發佈434部Webtoon，而NAVER已發佈520部Webtoon及推出[LINE Webtoon](../Page/LINE_Webtoon.md "wikilink")。\[10\]Daum Webtoon及NAVER Webtoon均按照既定的時間表持續地發佈，讓讀者每天都能免費閱讀最新及各式各樣的Webtoon。

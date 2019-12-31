@@ -1,3 +1,6 @@
+> 本文内容由[EGSY8p7](https://zh.wikipedia.org/wiki/EGSY8p7)转换而来。
+
+
 **EGSY8p7**（全稱**EGSY-2008532660**）是一個遙遠星系，[光譜](https://zh.wikipedia.org/wiki/光譜 "wikilink")[紅移](../Page/紅移.md "wikilink")值*z* = 8.68（的值為 8.57），相當於距離地球132億光年，代表它是138億年前[大爆炸](../Page/大爆炸.md "wikilink")後5.7億年的星系。
 
 ## 概要

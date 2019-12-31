@@ -1,3 +1,6 @@
+> 本文内容由[伊苏II 失落的伊苏古国 终章](https://zh.wikipedia.org/wiki/伊苏II 失落的伊苏古国 终章)转换而来。
+
+
 是[日本Falcom](../Page/日本Falcom.md "wikilink")于1988年在日本个人电脑[PC-8801](../Page/PC-8801.md "wikilink")出品的[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏是[伊苏系列](../Page/伊苏系列.md "wikilink")的第二作，情节紧接前作《[伊苏 失落的伊苏古国 序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》，讲述主人公亚特鲁集齐六本伊苏之书后，被传送到伊苏国的故事。游戏后来移植到多个平台，并常与前作捆绑销售。
 
 ## 玩法

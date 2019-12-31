@@ -1,3 +1,6 @@
+> 本文内容由[Dance Dance Dance \(E-girls單曲\)](https://zh.wikipedia.org/wiki/Dance Dance Dance \(E-girls單曲\))转换而来。
+
+
 《**Dance Dance Dance**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")14张[单曲](../Page/单曲.md "wikilink")，於2015年9月30日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

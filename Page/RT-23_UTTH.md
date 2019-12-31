@@ -1,3 +1,6 @@
+> 本文内容由[RT-23 UTTH](https://zh.wikipedia.org/wiki/RT-23 UTTH)转换而来。
+
+
 **RT-23 UTTH“好样的”洲际弹道导弹**（，拉丁化：，北约代号：“手术刀”修改版2/修改版3）是[俄罗斯](../Page/俄罗斯.md "wikilink")的一款洲际弹道导弹，它是由[RT-23洲际弹道导弹改进而来](https://zh.wikipedia.org/wiki/RT-23 "wikilink")。目前已经全部从[俄罗斯战略火箭军中退役](https://zh.wikipedia.org/wiki/俄罗斯战略火箭军 "wikilink")\[1\]。
 
 ## 历史

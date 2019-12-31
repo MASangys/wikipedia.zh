@@ -1,3 +1,6 @@
+> 本文内容由[Process.h](https://zh.wikipedia.org/wiki/Process.h)转换而来。
+
+
 **process.h**是一个[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")[头文件](../Page/头文件.md "wikilink")，包含了函数与宏用于创建管理[线程](../Page/线程.md "wikilink")与[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")。在[DOS](../Page/DOS.md "wikilink")、[Windows 3.1x](https://zh.wikipedia.org/wiki/Windows_3.1x "wikilink")、[Win32](https://zh.wikipedia.org/wiki/Win32 "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Novell NetWare](../Page/Novell_NetWare.md "wikilink")、等平台上一般提供该头文件与库函数。该头文件既不是[ANSI/ISO C也不是](../Page/ANSI_C.md "wikilink")[POSIX标准的组成部分](https://zh.wikipedia.org/wiki/POSIX "wikilink")。[MinGW](../Page/MinGW.md "wikilink")\[1\]与[Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink")\[2\]均支持该头文件。
 
 ## 函数

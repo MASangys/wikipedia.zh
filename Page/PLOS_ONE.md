@@ -1,3 +1,6 @@
+> 本文内容由[PLOS ONE](https://zh.wikipedia.org/wiki/PLOS ONE)转换而来。
+
+
 **《公共科学图书馆：综合》**（*PLOS ONE*，原名*PLoS ONE*）為一份[同行評審](../Page/同行評審.md "wikilink")的[开放获取](../Page/开放获取.md "wikilink")[科學期刊](https://zh.wikipedia.org/wiki/科學期刊 "wikilink")，由[公共科學圖書館](https://zh.wikipedia.org/wiki/PLOS "wikilink")（Public Library of Science，PLOS）自2006年發行。PLOS ONE為全世界文章刊載數量最多的期刊。
 
 PLOS ONE所刊載的文章包含[科學及](https://zh.wikipedia.org/wiki/科學 "wikilink")[醫學各領域的](https://zh.wikipedia.org/wiki/醫學 "wikilink")[基礎研究](https://zh.wikipedia.org/wiki/基礎研究 "wikilink")。所有的文章在刊登前必須經過學術編輯的同行審查，學術編輯則可以徵求外部的意見。刊登的文章並不會因為缺乏重要性而不被刊登，除非其缺乏立論基礎，因為PLOS ONE線上平台的特色是提供一個「先刊登，後評論」的場域，使科學家可以即時提供文章反饋。\[1\]

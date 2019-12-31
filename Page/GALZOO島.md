@@ -1,3 +1,6 @@
+> 本文内容由[GALZOO島](https://zh.wikipedia.org/wiki/GALZOO島)转换而来。
+
+
 是日本[ALICESOFT](../Page/ALICESOFT.md "wikilink")在2005年12月9日的[角色扮演類型](../Page/電子角色扮演遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 遊戲系統

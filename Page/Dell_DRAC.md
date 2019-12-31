@@ -1,3 +1,6 @@
+> 本文内容由[Dell DRAC](https://zh.wikipedia.org/wiki/Dell DRAC)转换而来。
+
+
 **Dell Remote Access Controller**或**DRAC**是一個基於頻帶外（out-of-band management）對伺服器進行管理的平台，由Dell公司所開發。該平台可以是外插卡或者是以晶片的形式出現，以晶片的形式則稱之為**iDRAC**。
 
 DRAC曾是Adrian White的發明專利\[1\]，其提供基於瀏覽器（browser-based）或是指令列（command-line）的兩種介面選項，可以兩者擇一或是兩者兼具，對於伺服器的硬體進行管理與監控。

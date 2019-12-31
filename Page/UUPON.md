@@ -1,3 +1,6 @@
+> 本文内容由[UUPON](https://zh.wikipedia.org/wiki/UUPON)转换而来。
+
+
 **UUPON 紅利點數**是以[悠遊卡](../Page/悠遊卡.md "wikilink")為會員載具的紅利集點，獨家提供悠遊卡會員點數服務。只要加入會員並綁定悠遊卡，就可以在合作特約商和搭乘[大眾交通工具用悠遊卡消費進行累兌點](https://zh.wikipedia.org/wiki/大眾交通工具 "wikilink")。
 
 建立使用悠遊卡通路消費和搭乘[大眾運輸的同時也可以累積紅利點數的消費模式](https://zh.wikipedia.org/wiki/大眾運輸 "wikilink")，增加悠遊卡的功能用途範圍。 提供點數兌換悠遊卡儲值金、信用卡紅利點數、航空里程及折抵超商、百貨、網購消費服務。

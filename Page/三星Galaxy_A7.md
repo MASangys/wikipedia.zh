@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A7](https://zh.wikipedia.org/wiki/三星Galaxy A7)转换而来。
+
+
 **Samsung Galaxy A7**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")智能手機，在2015年2月發佈\[1\]。
 
 ## 技術規格

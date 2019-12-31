@@ -1,3 +1,6 @@
+> 本文内容由[VIXX LR](https://zh.wikipedia.org/wiki/VIXX LR)转换而来。
+
+
 **VIXX LR**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2015年所推出的[VIXX](../Page/VIXX.md "wikilink")子團體，由LEO、RAVI兩名成員組成。2015年8月17日公開首張迷你專輯《[Beautiful Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》。
 
 ## 成員列表

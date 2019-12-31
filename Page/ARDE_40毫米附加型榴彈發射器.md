@@ -1,3 +1,6 @@
+> 本文内容由[ARDE 40毫米附加型榴彈發射器](https://zh.wikipedia.org/wiki/ARDE 40毫米附加型榴彈發射器)转换而来。
+
+
 **ARDE 40毫米下掛式榴彈發射器**是一具由[印度](../Page/印度.md "wikilink")（ARDE；負責本槍的設計）、（OFB）旗下的（OFT Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產的單發下掛式[榴弹发射器](../Page/榴弹发射器.md "wikilink")，是目前[印度陸軍](../Page/印度陸軍.md "wikilink")的[INSAS和](../Page/英薩斯突擊步槍.md "wikilink")[AK-47所使用的下掛式武器](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。它除了可以下掛於步槍的下護木，也可通過增加及[槍托](../Page/槍托.md "wikilink")配件改裝成一個獨立的[肩射型榴彈發射器武器系統](https://zh.wikipedia.org/wiki/榴弹发射器#肩射型榴弹发射器 "wikilink")。
 
 ## 概述

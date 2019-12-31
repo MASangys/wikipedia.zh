@@ -1,3 +1,6 @@
+> 本文内容由[索尼Vario-Tessar T\* E 16-70mm F4 ZA OSS](https://zh.wikipedia.org/wiki/索尼Vario-Tessar T\* E 16-70mm F4 ZA OSS)转换而来。
+
+
 **索尼 Vario-Tessar <span style="color:red">T\*</span> E 16-70mm F4 ZA OSS**是一枚标准变焦镜头，由[索尼](../Page/索尼.md "wikilink")与[蔡司公司](../Page/蔡司公司.md "wikilink")联合开发，由索尼公司于2013年8月发布\[1\]。
 
 产品编号**SEL1670Z**，通常会用焦段来简称为**1670**。

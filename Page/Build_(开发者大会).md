@@ -1,3 +1,6 @@
+> 本文内容由[Build \(开发者大会\)](https://zh.wikipedia.org/wiki/Build \(开发者大会\))转换而来。
+
+
 [Microsoft_BUILD_Conf_logo.svg](https://zh.wikipedia.org/wiki/File:Microsoft_BUILD_Conf_logo.svg "fig:Microsoft_BUILD_Conf_logo.svg") **“Build（开发者大会）”**是由[微软](../Page/微软.md "wikilink")举行的一年一度的开发者大会,面向使用[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink"),[Windows Phone](../Page/Windows_Phone.md "wikilink"),[Microsoft Azure和其他微软技术的](../Page/Microsoft_Azure.md "wikilink")[软件开发人员和](https://zh.wikipedia.org/wiki/软件开发 "wikilink")[web开发人员](https://zh.wikipedia.org/wiki/web开发人员 "wikilink")。第一届大会在2011年举行,它继任了微软之前的开发者大会，[Professional Developers Conference](https://zh.wikipedia.org/wiki/Professional_Developers_Conference "wikilink")(面向Windows操作系统的软件开发、[MIX](https://zh.wikipedia.org/wiki/MIX "wikilink")、[web开发和微软技术如](https://zh.wikipedia.org/wiki/web开发 "wikilink")[Silverlight和](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[ASP.net](https://zh.wikipedia.org/wiki/ASP.net "wikilink"))。
 
 ## 大会历届纪要

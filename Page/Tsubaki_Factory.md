@@ -1,3 +1,6 @@
+> 本文内容由[Tsubaki Factory](https://zh.wikipedia.org/wiki/Tsubaki Factory)转换而来。
+
+
 **つばきファクトリー**（****），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。目前有九名成員（九人均為原[Hello\! Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。2015年4月29日結成，結成當時成員人數為六人，同日宣布新團名。2016年8月13日宣佈加入三位新成員成為目前的九人體制。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[BMW 3系列 \(E46\)](https://zh.wikipedia.org/wiki/BMW 3系列 \(E46\))转换而来。
+
+
 **BMW E46**是德國[寶馬公司](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[BMW 3系列車型第四代](../Page/BMW_3系列.md "wikilink")，是[E36的換代產品](https://zh.wikipedia.org/wiki/BMW_E36 "wikilink")。
 
 1998年5月E46[四門轎車版首次公佈](https://zh.wikipedia.org/wiki/四門轎車 "wikilink")。次年，雙門轎跑和旅行車上市。2000年，[敞篷車和](https://zh.wikipedia.org/wiki/敞篷車 "wikilink")[掀背車型也開始發售](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。掀背車型僅供應歐洲，南非，澳大利亞和新西蘭市場。E46推出市場後廣受好評，其駕駛性能是同級別車輛中的佼佼者。\[1\]2002年E46銷量達到頂峰，當年全球各型號共賣出了561,249台。.\[2\]市場主要的競爭者為[阿尔法·罗密欧](../Page/阿尔法·罗密欧.md "wikilink")[156](https://zh.wikipedia.org/wiki/阿尔法·罗密欧156 "wikilink")，[奧迪A4](../Page/奧迪A4.md "wikilink")，[凌志IS](../Page/凌志IS.md "wikilink")，[梅赛德斯-奔驰C级](../Page/梅赛德斯-奔驰C级.md "wikilink")，[紳寶9-3](../Page/紳寶9-3.md "wikilink")和[富豪](../Page/富豪汽車.md "wikilink")[S60](https://zh.wikipedia.org/wiki/沃爾沃S60 "wikilink")。

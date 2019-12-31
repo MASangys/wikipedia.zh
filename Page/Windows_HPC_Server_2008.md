@@ -1,3 +1,6 @@
+> 本文内容由[Windows HPC Server 2008](https://zh.wikipedia.org/wiki/Windows HPC Server 2008)转换而来。
+
+
 **Windows HPC Server 2008**, 由[Microsoft公司于](https://zh.wikipedia.org/wiki/Microsoft "wikilink")2008年9月22日发行, 是[Windows Compute Cluster Server 2003的后续版本](https://zh.wikipedia.org/wiki/Windows_Server_2003#Windows_Compute_Cluster_Server "wikilink")，就像WCCS一样, Windows HPC Server 2008是设计于需要高性能计算集群的高端应用。\[1\] 此服务器软件声称能有效扩展到数以千计的内核。针对于超算机的工作负荷，它存在很多的特点：比如高速的NetworkDirect RDMA接口，高效率且具有可扩展性的群集管理工具（Cluster Management Tools），针对[面向服务的体系结构](../Page/面向服务的体系结构.md "wikilink")的作业计划工具（SOA Job Scheduler），以及基于开源接口的消息传递接口\[2\]，和通过“超算基础配置文件（High Performance Computing Basic Profile，HPCBP）”这个基于（Open Grid Forum，OGF）标准特性来实现集群互通性\[3\]。
 
 2008年6月，[美国国家超级电脑应用中心](../Page/国家超级电脑应用中心.md "wikilink")（National Center for Supercomputing Applications，NCSA）和[微软](../Page/微软.md "wikilink")进行的一个系统构筑合作计划超算在[TOP500](../Page/TOP500.md "wikilink")上排名第23位，其成绩为[每秒68.5兆次的浮点运算](https://zh.wikipedia.org/wiki/每秒浮点运算次数 "wikilink")（68.5 TFLOPS）。NCSA的超算机使用的就是Windows Server HPC和[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") 4这两种操作系统。\[4\]之后在 2011年11月，这台超算系统的排名降到了第253位\[5\]。

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Alto](https://zh.wikipedia.org/wiki/鈴木Alto)转换而来。
+
+
 **鈴木Alto**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1979年起開發製造的[輕型三](../Page/輕型車.md "wikilink")/五門[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")/[小型跑車](../Page/小型跑車.md "wikilink")。至2014年11月為止，該車款在全球總共出售約483萬輛\[1\]。至於車名「Alto」在[義大利語中具有](https://zh.wikipedia.org/wiki/義大利語 "wikilink")「優秀的」之意\[2\]，中國方面自1993年6月國產化以來，官方名稱則叫作**鈴木奧拓**。
 
 關於車名「Alto」來自[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")，具有「優秀」、「出色」的意義\[3\]。

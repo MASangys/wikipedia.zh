@@ -1,3 +1,6 @@
+> 本文内容由[Minato作品列表](https://zh.wikipedia.org/wiki/Minato作品列表)转换而来。
+
+
 [minato為日本音樂家](https://zh.wikipedia.org/wiki/minato "wikilink")、音樂製作人、歌手。本條目將會列出其創作及演唱的作品列表。
 
 ## 投稿影片

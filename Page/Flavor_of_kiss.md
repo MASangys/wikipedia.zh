@@ -1,3 +1,6 @@
+> 本文内容由[Flavor of kiss](https://zh.wikipedia.org/wiki/Flavor of kiss)转换而来。
+
+
 《**Flavor of kiss**》是[日本](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")48张[单曲](../Page/单曲.md "wikilink")，於2015年6月24日由[avex trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

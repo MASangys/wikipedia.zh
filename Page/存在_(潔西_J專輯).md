@@ -1,3 +1,6 @@
+> 本文内容由[存在 \(潔西 J專輯\)](https://zh.wikipedia.org/wiki/存在 \(潔西 J專輯\))转换而来。
+
+
 《**存在**\[1\]》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[歌手](../Page/歌手.md "wikilink")[潔西·J的第二張](https://zh.wikipedia.org/wiki/潔西·J "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2013年9月23日發售。
 
 《存在》是繼潔西大獲成功的《[你是誰](../Page/你是誰_\(潔西_J專輯\).md "wikilink")》相隔兩年半的新作，首波單曲《[Wild](https://zh.wikipedia.org/wiki/Wild "wikilink")》登上了英國單曲榜第五名。本專輯評價正反不一，有些樂評讚賞專輯展現出潔西的歌唱天賦，有些樂評則認為專輯與前作過於相似。在英國，專輯首周以超過39,000張登上專輯榜第三名，比前作銷量銳減。這使專輯美國發行版本一再延期，最終改為製作全新的專輯《[甜言蜜語](../Page/甜言蜜语_\(婕茜·J专辑\).md "wikilink")》。而這張專輯其後於2015年9月正式推出美國與加拿大版本。

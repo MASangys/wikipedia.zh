@@ -1,3 +1,6 @@
+> 本文内容由[全國體育署盃FUTSAL錦標賽](https://zh.wikipedia.org/wiki/全國體育署盃FUTSAL錦標賽)转换而来。
+
+
 {{ infobox football tournament | current = | logo = | founded = 2002年 | number of teams = | region =  | current champions = 男子組︰[銘傳大學足球隊](../Page/銘傳大學足球隊.md "wikilink")
 女子組︰台灣黑熊俱樂部
 長青組︰高雄市不老足球隊

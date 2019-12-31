@@ -1,3 +1,6 @@
+> 本文内容由[Viadeo](https://zh.wikipedia.org/wiki/Viadeo)转换而来。
+
+
 **Viadeo**是一个以[Web 2.0为基础的职业社交网站](../Page/Web_2.0.md "wikilink")，其成员包括企业所有者，企业家和公司经理。\[1\]截至2014年，该网站已拥有6500万成员。\[2\]
 
 ## Logo历史

@@ -1,3 +1,6 @@
+> 本文内容由[聖荷西SAP中心](https://zh.wikipedia.org/wiki/聖荷西SAP中心)转换而来。
+
+
 **聖荷西SAP中心** (****)，舊名**聖荷西體育館**（****）、**聖荷西康柏中心**（****）及**聖荷西惠普展示館**（****），是一座位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖荷西的室內](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")[體育館](https://zh.wikipedia.org/wiki/體育館 "wikilink")。中心的主要使用者為[國家冰球聯盟](../Page/國家冰球聯盟.md "wikilink")的[聖荷西鯊魚](../Page/聖荷西鯊魚.md "wikilink")隊，因此也被暱稱為「鯊魚池」（Shark Tank）\[1\]。軟體公司[SAP於](../Page/SAP公司.md "wikilink")2013年以每年335萬美元取得5年的冠名權。
 
 ## 歷史

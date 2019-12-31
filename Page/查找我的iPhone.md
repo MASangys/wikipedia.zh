@@ -1,3 +1,6 @@
+> 本文内容由[查找我的iPhone](https://zh.wikipedia.org/wiki/查找我的iPhone)转换而来。
+
+
 **查找我的iPhone**（）是用于苹果公司智能手机[iPhone的应用程序](https://zh.wikipedia.org/wiki/iPhone "wikilink")，该软件各自对应平台的名称为**查找我的iPad**、**查找我的iPod**或**查找我的Mac**。该程序允许远程定位跟踪[iOS设备和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Mac电脑](https://zh.wikipedia.org/wiki/Mac "wikilink")。截至2013年3月，该服务适用于可使用[iCloud的](https://zh.wikipedia.org/wiki/iCloud "wikilink")[iOS 5及后续版本和](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")[OS X 10.7.5 "Lion"及后续版本](../Page/Mac_OS_X_Lion.md "wikilink")。尽管该软件本身不与操作系统捆绑，但可透过[App Store免费下载](../Page/App_Store_\(iOS\).md "wikilink")，在运行iOS 5.0及后续版本的iOS设备中使用。
 
 在[iOS 9正式版发布后](https://zh.wikipedia.org/wiki/iOS_9 "wikilink")，“查找我的iPhone”预装在该系统内，用户无须另外在[App Store购买并下载安装](https://zh.wikipedia.org/wiki/App_Store "wikilink")。\[1\]

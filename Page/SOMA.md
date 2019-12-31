@@ -1,3 +1,6 @@
+> 本文内容由[SOMA](https://zh.wikipedia.org/wiki/SOMA)转换而来。
+
+
 是一款由[瑞典](../Page/瑞典.md "wikilink")遊戲製作團隊[Frictional Games獨立開發的](../Page/Frictional_Games.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[生存恐怖遊戲](https://zh.wikipedia.org/wiki/生存恐怖遊戲 "wikilink")。該遊戲於2015年9月22日發行。\[1\]\[2\]遊戲主要背景設定在2104年位於[大西洋](../Page/大西洋.md "wikilink")海底的帕索斯二號研究中心（PATHOS-II），一座充滿未知的海底廢墟。\[3\]\[4\]
 
 ## 遊戲情節設計

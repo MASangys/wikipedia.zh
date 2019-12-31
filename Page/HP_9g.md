@@ -1,3 +1,6 @@
+> 本文内容由[HP 9g](https://zh.wikipedia.org/wiki/HP 9g)转换而来。
+
+
 {{ Infobox Calculator | name = HP 9g | image = HP 9g graphing calculator.jpg | caption = 一台HP 9g | type = [图形计算器](../Page/图形计算器.md "wikilink") | entry = [Algebraic](https://zh.wikipedia.org/wiki/Algebraic "wikilink") | introduced = | cost = $39-$45 | manufacturer = [Hewlett-Packard](https://zh.wikipedia.org/wiki/Hewlett-Packard "wikilink") | precision = 至24位数\[1\] | display_type = [LCD](https://zh.wikipedia.org/wiki/Liquid_crystal_display "wikilink") | display_size = | processor = | memory_data = 400 bytes [RAM](https://zh.wikipedia.org/wiki/RAM "wikilink") | memory_step = | supply = 1x [CR2025](https://zh.wikipedia.org/wiki/CR2025 "wikilink") | power = 6mW | weight = 3.99oz (124g) | dimensions = 155x 81 x 13.7 }}
 
 **HP 9g** （F2222A）是一款由金宝电子公司设计，[惠普](../Page/惠普.md "wikilink")公司发行的[图形计算器](../Page/图形计算器.md "wikilink")\[2\]。HP 9g拥有基本的绘图、编程和科学函数功能。 但是这是一款背离了惠普公司向来传统的计算器，因为其没有[逆波兰](../Page/逆波兰表示法.md "wikilink")（RPN）输入法。

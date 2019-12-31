@@ -1,3 +1,6 @@
+> 本文内容由[Massstar](https://zh.wikipedia.org/wiki/Massstar)转换而来。
+
+
 **massstar**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女性](../Page/女性.md "wikilink")[Webtoon](../Page/Webtoon.md "wikilink")創作者。主要風格為[浪漫](https://zh.wikipedia.org/wiki/浪漫 "wikilink")、[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")，代表作為《[觸不可及](../Page/觸不可及_\(漫畫\).md "wikilink")》。
 
 ## 生平

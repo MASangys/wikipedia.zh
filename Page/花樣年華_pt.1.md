@@ -1,3 +1,6 @@
+> 本文内容由[花樣年華 pt.1](https://zh.wikipedia.org/wiki/花樣年華 pt.1)转换而来。
+
+
 《**花樣年華 pt.1**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")第三張韓語迷你專輯\[1\]，為「青春二部曲」系列專輯的首部曲，談述青春既美麗又不安的瞬間。\[2\]2015年4月29日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink") ，主打曲目為〈I NEED U〉，後續曲為〈(Dope)〉（）。
 
 ## 簡介

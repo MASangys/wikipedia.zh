@@ -1,3 +1,6 @@
+> 本文内容由[Mediaset](https://zh.wikipedia.org/wiki/Mediaset)转换而来。
+
+
 **Mediaset**是[義大利的一家](https://zh.wikipedia.org/wiki/義大利 "wikilink")[電視公司](https://zh.wikipedia.org/wiki/電視 "wikilink")\[1\]，總部位於[米蘭](../Page/米蘭.md "wikilink")。Mediaset創建於1978年。Mediaset是義大利最大的電視網之一，曾由義大利前總理[貝魯斯科尼所有](https://zh.wikipedia.org/wiki/貝魯斯科尼 "wikilink")。
 
 ## 频道列表

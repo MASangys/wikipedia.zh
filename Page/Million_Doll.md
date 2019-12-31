@@ -1,3 +1,6 @@
+> 本文内容由[Million Doll](https://zh.wikipedia.org/wiki/Million Doll)转换而来。
+
+
 **Million Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。2013年12月至2016年11月連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上。由[旭Production](../Page/旭Production.md "wikilink")製作的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月至9月首播。
 
 ## 登場人物

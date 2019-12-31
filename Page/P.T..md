@@ -1,3 +1,6 @@
+> 本文内容由[P.T.](https://zh.wikipedia.org/wiki/P.T.)转换而来。
+
+
 《**P.T.**》（全名：）是一款第一人稱視角[恐怖遊戲](../Page/恐怖遊戲.md "wikilink")，由日本遊戲設計師[小島秀夫監督](https://zh.wikipedia.org/wiki/小島秀夫 "wikilink")，[小島製作開發](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，并由[科樂美](../Page/科樂美.md "wikilink")發行。遊戲於2014年8月12日在[PlayStation Network免費下載](../Page/PlayStation_Network.md "wikilink")，作為被取消開發的沉默之丘系列作品「Silent Hills」的互動宣傳片。玩家在遊戲中置身於一所洋館中，在一道不斷重複的走廊中探索和經歷超自然事件。
 
 《P.T.》所獲的評價普遍正面，評論大多讚揚恐怖元素和輪迴走廊設定，但批評謎題過於複雜。科樂美在遊戲開發取消後把《P.T.》從[PlayStation Store上移除](../Page/PlayStation_Store.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:社会/Featured article/12](https://zh.wikipedia.org/wiki/Portal:社会/Featured article/12)转换而来。
+
+
 {{\#if:|
 
 <div style="float:left;margin-right:1em">

@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A3](https://zh.wikipedia.org/wiki/三星Galaxy A3)转换而来。
+
+
 **Samsung Galaxy A3**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款[Android](../Page/Android.md "wikilink")智能手機，在2014年10月連同[Galaxy A5發佈](https://zh.wikipedia.org/wiki/Samsung_Galaxy_A5 "wikilink")。
 
 ## 技術規格

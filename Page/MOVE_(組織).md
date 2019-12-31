@@ -1,3 +1,6 @@
+> 本文内容由[MOVE \(組織\)](https://zh.wikipedia.org/wiki/MOVE \(組織\))转换而来。
+
+
 **MOVE**是一個[非裔美國人激進環保組織](https://zh.wikipedia.org/wiki/非裔美國人 "wikilink")，總部在[費城](../Page/費城.md "wikilink")，由在1972年成立。組織成員共同居住，常常參與他們重視的事項的公眾示威。
 
 ## 源起

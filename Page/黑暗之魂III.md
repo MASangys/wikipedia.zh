@@ -1,3 +1,6 @@
+> 本文内容由[黑暗之魂III](https://zh.wikipedia.org/wiki/黑暗之魂III)转换而来。
+
+
 是一款由日本電子遊戲公司[From Software製作的](https://zh.wikipedia.org/wiki/From_Software "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，亦是《黑暗之魂》系列的第三部作品，於2016年于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One平台上发行](../Page/Xbox_One.md "wikilink")。\[1\]
 
 ## 游戏情节

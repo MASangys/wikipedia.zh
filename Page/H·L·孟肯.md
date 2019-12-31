@@ -1,3 +1,6 @@
+> 本文内容由[H·L·孟肯](https://zh.wikipedia.org/wiki/H·L·孟肯)转换而来。
+
+
 **亨利·路易斯·「H·L」·孟肯**（Henry Louis "H. L." Mencken；），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[記者](../Page/記者.md "wikilink")、諷刺[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、文化評論家，以及美式英語學者。
 
 ## 早年生活

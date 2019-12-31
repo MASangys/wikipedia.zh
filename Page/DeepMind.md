@@ -1,3 +1,6 @@
+> 本文内容由[DeepMind](https://zh.wikipedia.org/wiki/DeepMind)转换而来。
+
+
 **DeepMind**是一家[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[人工智能](../Page/人工智能.md "wikilink")公司。公司创建于2010年，最初名称是**DeepMind科技**（DeepMind Technologies Limited），在2014年被[谷歌收购](../Page/Google公司收購列表.md "wikilink")。
 
 ## 历史

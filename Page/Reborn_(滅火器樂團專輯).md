@@ -1,3 +1,6 @@
+> 本文内容由[Reborn \(滅火器樂團專輯\)](https://zh.wikipedia.org/wiki/Reborn \(滅火器樂團專輯\))转换而来。
+
+
 《**REBORN**》是[滅火器樂團的第四張專輯](https://zh.wikipedia.org/wiki/滅火器樂團 "wikilink")，於2016年3月25日由滅火器樂團創立公司[火氣音樂首張製作由](https://zh.wikipedia.org/wiki/火氣音樂 "wikilink")[五月天](../Page/五月天.md "wikilink")創立公司相關企業[相知國際發行](https://zh.wikipedia.org/wiki/相知國際 "wikilink")。\[1\]\[2\]
 
 《繼續向前行》MV，熱血歌詞搭配日本[311大地震海嘯災區重建畫面](https://zh.wikipedia.org/wiki/311大地震 "wikilink")，讓許多樂迷看了不禁飆淚，直呼：「太感動了，眼淚完全止不住！」表示每次聽滅火器，都有心被填滿的感覺。而由於在日本拍攝，也有許多日網友在歌曲下方留言，用翻譯軟體寫成生硬中文感謝滅火器；甚至旅日[埼玉西武獅](../Page/埼玉西武獅.md "wikilink")強投[郭俊麟](../Page/郭俊麟.md "wikilink")也忍不住在自己臉書分享，直說要拿這首歌做為自己登板出場曲。 \[3\]

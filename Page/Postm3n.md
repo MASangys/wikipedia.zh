@@ -1,3 +1,6 @@
+> 本文内容由[Postm3n](https://zh.wikipedia.org/wiki/Postm3n)转换而来。
+
+
 　
 
 **Postm3n**是在1996年組成的[臺灣](../Page/臺灣.md "wikilink")[流行](https://zh.wikipedia.org/wiki/流行 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，出道初期團名為**Postm2n**，由[林大晉](https://zh.wikipedia.org/wiki/林大晉 "wikilink")、[勞光宇兩人組成](https://zh.wikipedia.org/wiki/勞光宇 "wikilink")；另[王仁甫](../Page/王仁甫.md "wikilink")於第二張專輯《一級棒》時期加入並將團體名稱改為**Postm3n**，活躍於1996年至1998年。

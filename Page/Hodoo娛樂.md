@@ -1,3 +1,6 @@
+> 本文内容由[Hodoo娛樂](https://zh.wikipedia.org/wiki/Hodoo娛樂)转换而来。
+
+
 **Hodoo Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，包括藝人管理等。當前旗下藝人包括[李聖旻](../Page/李聖旻.md "wikilink")、[申河均](../Page/申河均.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")、[朴藝珍](../Page/朴藝珍.md "wikilink")等多名演員。
 
 ## 旗下藝人

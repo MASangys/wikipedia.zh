@@ -1,3 +1,6 @@
+> 本文内容由[OpenCritic](https://zh.wikipedia.org/wiki/OpenCritic)转换而来。
+
+
 **OpenCritic**是[电子游戏](../Page/电子游戏.md "wikilink")评论聚合网站。网站会收集众主流游戏媒体对各款游戏的评论，并计算该游戏的平均得分。网站还提供其他数据，如推荐该游戏的媒体百分比、游戏在OpenCritic的排名。网站由Matthew Enthoven、Charles Green、Aaron Rutledge和Richard Triggs创办。
 
 ## 参考文献

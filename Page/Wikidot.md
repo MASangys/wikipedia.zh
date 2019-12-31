@@ -1,3 +1,6 @@
+> 本文内容由[Wikidot](https://zh.wikipedia.org/wiki/Wikidot)转换而来。
+
+
 **Wikidot**是一家面向每个人的免费托管[wiki的服务商](https://zh.wikipedia.org/wiki/wiki "wikilink")。可以用来发布内容，共享文档，与朋友或同事合作，创造属于自己的[社群](https://zh.wikipedia.org/wiki/社群 "wikilink")。每个月wikidot流量都超过二百万。[scp基金会就是建立于wikidot](https://zh.wikipedia.org/wiki/scp基金会 "wikilink")。目前在wikidot上有超过二千五百万个页面。\[1\]通过wikidot的工具，创建自己的wiki轻松简单，诸多巨大活跃的门户网站也建立在wikidot上。但是现在，wikidot的创始人无法联系，许多管理员也失联了。
 
 ## wikidot历史

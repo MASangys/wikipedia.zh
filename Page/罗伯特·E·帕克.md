@@ -1,3 +1,6 @@
+> 本文内容由[罗伯特·E·帕克](https://zh.wikipedia.org/wiki/罗伯特·E·帕克)转换而来。
+
+
 **罗伯特·艾茲拉·帕克**（Robert Ezra Park；)，美国城市社会学家，被认为是对美国社会学影响最深远的人物之一。从1905年至1914年，帕克同[布克·华盛顿在](https://zh.wikipedia.org/wiki/布克·华盛顿 "wikilink")[塔斯基吉大学](../Page/塔斯基吉大学.md "wikilink")工作。在那之后的1914年至1933年，他在[芝加哥大学](../Page/芝加哥大学.md "wikilink")任教，对芝加哥大学社会学系的发展起了巨大的作用。\[1\] 帕克在[人类生态学](https://zh.wikipedia.org/wiki/人类生态学 "wikilink")、族群关系、[移民](../Page/移民.md "wikilink")、[同化](../Page/同化.md "wikilink")、[社会运动和社会解组等领域的工作为人称道](https://zh.wikipedia.org/wiki/社会运动 "wikilink")。\[2\] [Robert_E._Park.jpg](https://zh.wikipedia.org/wiki/File:Robert_E._Park.jpg "fig:Robert_E._Park.jpg")
 
 ## 生平

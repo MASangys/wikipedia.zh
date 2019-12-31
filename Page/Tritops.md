@@ -1,3 +1,6 @@
+> 本文内容由[Tritops](https://zh.wikipedia.org/wiki/Tritops)转换而来。
+
+
 **Tritops**（、），由韓國JSPrime Entertainment公司推出的男子美聲團體，目前所屬公司為Van Leader Entertainment。2007年以一輯《Boorish Love》出道 ，以前團名**I the Tri Tops**活動。
 
 2012年加入新成員，並以新團名TriTops和數碼單曲《我是壞傢伙》重新開始活動。現任成員有潘炯文（반형문）、金日君（김일군）、李宇坤（이우곤）、張有俊（장유준）\[1\] \[2\]。

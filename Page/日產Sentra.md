@@ -1,3 +1,6 @@
+> 本文内容由[日產Sentra](https://zh.wikipedia.org/wiki/日產Sentra)转换而来。
+
+
 **日產Sentra** (NISSAN SENTRA) 是[日產汽車](../Page/日產汽車.md "wikilink")自1982年起至今銷售的四門[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。2006年以前Sentra車名主要用在國外，也就是日本的[日產Sunny](https://zh.wikipedia.org/wiki/日產Sunny "wikilink")，但2007年起隨著車型增大成為[日產Sylphy的日本外名稱](https://zh.wikipedia.org/wiki/日產Sylphy "wikilink")，Sentra名稱不曾在日本市場使用。在多個南美市場的日產Sunny也以Sentra名稱銷售。
 
 比較特別的是第一至三代Sentra在[墨西哥](../Page/墨西哥.md "wikilink")市場的表現，日產以NISSAN Tsuru (日語「鶴」) 為名銷售，其中第三代B13自1992年至現在仍在[墨西哥](../Page/墨西哥.md "wikilink")以此名組裝銷售，以便宜的售價和大量的零件極度普及於南美洲的公路上，與新版Sentra同時在墨西哥市場銷售，直到2016年墨國政府提高安全法規才停產，預定2017年會將有限的千輛庫存銷售完畢。

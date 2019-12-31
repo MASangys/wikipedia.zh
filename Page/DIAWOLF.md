@@ -1,3 +1,6 @@
+> 本文内容由[DIAWOLF](https://zh.wikipedia.org/wiki/DIAWOLF)转换而来。
+
+
 **DIAWOLF**，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，2015年3月1日組成，成員SHOW OHARA和TORA AMANO為[A9](https://zh.wikipedia.org/wiki/A9 "wikilink")（舊名Alice Nine）的将（本名小原一將）和虎（本名天野真志）。團體名是以要像狼一樣尋找臨終時的場所為印象而命名的，想要表現「身為一個人在意識到死亡時，可以打從心裡聽到的一種類似渴望的聲音」。
 
 ## EP

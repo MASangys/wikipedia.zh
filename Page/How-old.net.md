@@ -1,3 +1,6 @@
+> 本文内容由[How-old.net](https://zh.wikipedia.org/wiki/How-old.net)转换而来。
+
+
 [“How-old.net”上对维基共享资源中的[一张图片](https://commons.wikimedia.org/wiki/File:APEC2006_%C3%81o_D%C3%A0i.jpg)的识别结果，注意图片中显示的年龄可能与人物的实际年龄有较大差距。](https://zh.wikipedia.org/wiki/文件:An_example_of_How-old.net.jpg "wikilink")
 
 **How-old.net**（中國大陸稱為「**顏齡機器人**」）是[微软公司创办的一个根据使用者上传照片判别照片中人物年龄的网站](https://zh.wikipedia.org/wiki/微软公司 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[M.S.406](https://zh.wikipedia.org/wiki/M.S.406)转换而来。
+
+
 [MS_406_fighters_in_Syria_July_1941.jpg](https://zh.wikipedia.org/wiki/File:MS_406_fighters_in_Syria_July_1941.jpg "fig:MS_406_fighters_in_Syria_July_1941.jpg") **法國莫拉納．索尼埃 M.S.406戰鬥機**是[法國於](https://zh.wikipedia.org/wiki/法國 "wikilink")[第二次世界大戰時生產的單翼](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，乃[法國空軍當時最多的戰鬥機](https://zh.wikipedia.org/wiki/法國空軍 "wikilink")。
 
 法國莫拉納．索尼埃飛機公司，開發MS 406的是回應了法國空軍三十年代中規劃現代化，並取代同廠的舊機，法國空軍約接收了約1,000多架戰機。面對[德軍的戰鬥機如](https://zh.wikipedia.org/wiki/德軍 "wikilink")[Bf 109E](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")，MS 406在數目及性能上都佔劣勢，更因為僅有擊落175架敵機，而已損失400多架的差勁戰果而負評。

@@ -1,3 +1,6 @@
+> 本文内容由[杀破狼II](https://zh.wikipedia.org/wiki/杀破狼II)转换而来。
+
+
 《**杀破狼II**》（）中国大陆和香港联合制作的[动作片](https://zh.wikipedia.org/wiki/动作片 "wikilink")，[郑保瑞](../Page/郑保瑞.md "wikilink")导演，[李忠志](../Page/李忠志.md "wikilink")动作指导，并由[東尼嘉](https://zh.wikipedia.org/wiki/東尼嘉 "wikilink")、[吴京](../Page/吳京_\(演員\).md "wikilink")、[任达华及](https://zh.wikipedia.org/wiki/任达华 "wikilink")[张晋领衔主演](https://zh.wikipedia.org/wiki/张晋 "wikilink")；[卢惠光](https://zh.wikipedia.org/wiki/卢惠光 "wikilink")、[恭碩良](../Page/恭碩良.md "wikilink")、[林嘉华及](https://zh.wikipedia.org/wiki/林嘉华 "wikilink")[蔡瀚亿主演](https://zh.wikipedia.org/wiki/蔡瀚亿 "wikilink")；[古天乐特別演出](https://zh.wikipedia.org/wiki/古天乐 "wikilink")。\[1\]\[2\]中国大陸、香港、台灣于2015年6月18日上映。此片與前作一樣，都获得了[香港电影金像奖最佳动作设计奖](https://zh.wikipedia.org/wiki/香港电影金像奖 "wikilink")。
 
 ## 剧情

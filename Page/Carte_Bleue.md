@@ -1,3 +1,6 @@
+> 本文内容由[Carte Bleue](https://zh.wikipedia.org/wiki/Carte Bleue)转换而来。
+
+
 **Carte Bleue**是法国主要的[借记卡](../Page/借记卡.md "wikilink")系统。与和等借记卡不同，Carte Bleue卡允许在未获得发卡行联机受权的情况下就进行交易。在很多情况下，Carte Bleue卡能像信用卡一样使用，却没有年费。Carte Bleue目前已与用途更广泛的[CB](../Page/CB_\(行际网\).md "wikilink")（或被称为carte bancaire）合并。所有的Carte Bleue卡都是CB卡，但不是所有的CB卡都是Carte Bleue。
 
 Carte Bleue是法国的，Carte Bleue单标卡在法国之外无法使用。不过，司空见惯的Carte Bleue [维萨双标卡可以在法国之外使用](https://zh.wikipedia.org/wiki/维萨 "wikilink")。从技术角度来看，Carte Bleue WAS可以算作Visa在法国的一个分支结构。

@@ -1,3 +1,6 @@
+> 本文内容由[白貓Project](https://zh.wikipedia.org/wiki/白貓Project)转换而来。
+
+
 是源於[日本](../Page/日本.md "wikilink")，由在日本及[韓國營運的奇幻主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[社交網絡遊戲](https://zh.wikipedia.org/wiki/社交網絡遊戲 "wikilink")，對應[Android](../Page/Android.md "wikilink")和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。台港澳[正體中文版版本由](https://zh.wikipedia.org/wiki/正體中文 "wikilink")[台灣碩網](../Page/So-net.md "wikilink")（So-net）代理。
 
 ## 遊戲特色

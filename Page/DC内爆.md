@@ -1,3 +1,6 @@
+> 本文内容由[DC内爆](https://zh.wikipedia.org/wiki/DC内爆)转换而来。
+
+
 **DC内爆**（英语：DC Implosion），是美国漫画出版商[DC漫画在](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")1978年将二十多个正在进行和计划进行的流行系列作品突然取消的事件。
 
 ## 历史

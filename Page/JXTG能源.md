@@ -1,3 +1,6 @@
+> 本文内容由[JXTG能源](https://zh.wikipedia.org/wiki/JXTG能源)转换而来。
+
+
 **JXTG能源株式会社**，是日本[石油](../Page/石油.md "wikilink")公司，前身為。它的业务主要是勘探进口、精炼、零售石油产品。縮寫为**NOE**、**ENEOS**或**JXTGエネ**。
 
 ## 相關項目

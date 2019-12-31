@@ -1,3 +1,6 @@
+> 本文内容由[NA.NA.NA.淚](https://zh.wikipedia.org/wiki/NA.NA.NA.淚)转换而来。
+
+
 《**NA.NA.NA.淚**》（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")的第二張日語單曲\[1\]，由Bruce和Mason作曲；NICE73作詞，並在2015年5月20日以三個不同版本推出\[2\]。
 
 ## 背景

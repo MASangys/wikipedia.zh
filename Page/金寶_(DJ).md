@@ -1,3 +1,6 @@
+> 本文内容由[金寶 \(DJ\)](https://zh.wikipedia.org/wiki/金寶 \(DJ\))转换而来。
+
+
 **金寶** (Kinple，05月6日-)，[網路電台](https://zh.wikipedia.org/wiki/網路電台 "wikilink")[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")，曾是[寶島聯播網](../Page/寶島聯播網.md "wikilink")主持人，[公視台語台](../Page/公視台語台.md "wikilink")棒球主播。
 主持風格幽默風趣，跳Tone但不失真，經手許多電視、電影、唱片、書籍訪問。
 曾經訪問[台北市長](https://zh.wikipedia.org/wiki/台北市長 "wikilink")[柯文哲](../Page/柯文哲.md "wikilink")、[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[蔡正元](../Page/蔡正元.md "wikilink")。

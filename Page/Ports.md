@@ -1,3 +1,6 @@
+> 本文内容由[Ports](https://zh.wikipedia.org/wiki/Ports)转换而来。
+
+
 **Ports collections** （又称 **ports trees** 或直接简称 **ports**）是一系列由[BSD](../Page/BSD.md "wikilink")系列操作系统（比如 [FreeBSD](../Page/FreeBSD.md "wikilink")，[NetBSD](../Page/NetBSD.md "wikilink")，和 [OpenBSD](../Page/OpenBSD.md "wikilink")）提供的一些 [makefile](https://zh.wikipedia.org/wiki/makefile "wikilink") 和 [patch (Unix)](https://zh.wikipedia.org/wiki/Patch "wikilink")，以作为一种简单的[安装以及创建](https://zh.wikipedia.org/wiki/安装 "wikilink")[二进制包的方法](https://zh.wikipedia.org/wiki/二进制包 "wikilink")。它们通常基于[软件包管理系统](../Page/软件包管理系统.md "wikilink")，并带有 ports  创建以及附加工具以对软件包删除、增添或进行其他操作。除了BSD，一些[Linux发行版](../Page/Linux发行版.md "wikilink")有类似的软件。包括 [Gentoo的](https://zh.wikipedia.org/wiki/Gentoo "wikilink") [Portage](../Page/Portage.md "wikilink")，[Archlinux](https://zh.wikipedia.org/wiki/Archlinux "wikilink") 的 [Arch编译系统](https://zh.wikipedia.org/wiki/Arch编译系统 "wikilink")(ABS) ， 的以及 [Void Linux](../Page/Void_Linux.md "wikilink") 的 Ports。
 
 Ports 的主要优点是使用现有的硬件资源对软件安装的微调与优化。例如，管理员可以容易地在64位系统安装一个64位软件，而如果还没有64位软件那就会安装一个未对64位优化的32位软件。

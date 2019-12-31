@@ -1,3 +1,6 @@
+> 本文内容由[Visual Studio Code](https://zh.wikipedia.org/wiki/Visual Studio Code)转换而来。
+
+
 **Visual Studio Code**（简称**VS Code**）是一个由[微软](../Page/微软.md "wikilink")开发，同时支持[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 、 [Linux](../Page/Linux.md "wikilink")和[macOS等操作系統且](https://zh.wikipedia.org/wiki/macOS "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")的[程式碼编辑器](../Page/文本编辑器.md "wikilink")\[1\]，它支持[測試](https://zh.wikipedia.org/wiki/调试 "wikilink")，并内置了[Git 版本控制功能](../Page/Git.md "wikilink")，同时也具有开发环境功能，例如代码补全（类似于 [IntelliSense](https://zh.wikipedia.org/wiki/IntelliSense "wikilink")）、代码片段和[代码重构](../Page/代码重构.md "wikilink")等，该编辑器支持用户個性化配置，例如改变主题颜色、键盘快捷方式等各种属性和参数，同时还在编辑器中内置了扩展程序管理的功能。
 
 在2019年的[Stack Overflow组织的开发者调研中](../Page/Stack_Overflow.md "wikilink")，VS Code被认为是最受开发者欢迎的开发环境，据调查87317名受访者中有50.7%的受访者声称正在使用VS Code\[2\]。

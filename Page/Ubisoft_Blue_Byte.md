@@ -1,3 +1,6 @@
+> 本文内容由[Ubisoft Blue Byte](https://zh.wikipedia.org/wiki/Ubisoft Blue Byte)转换而来。
+
+
 **Ubisoft Blue Byte**\[1\]（原名为**Blue Byte Software**），Ubisoft Blue Byte GmbH（在2017年之前為Blue Byte）是總部位於[杜塞爾多夫的](https://zh.wikipedia.org/wiki/杜塞爾多夫 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")[開發商](../Page/游戏开发者.md "wikilink")。該公司由托馬斯·赫茲勒（）和洛塔爾·施密特（）於1988年10月創立，以開發《[美麗新世界](../Page/纪元系列.md "wikilink")》和《[工人物語](../Page/工人物语系列.md "wikilink")》系列而聞名。2001年被[育碧娛樂公司收購](https://zh.wikipedia.org/wiki/育碧娛樂公司 "wikilink")。如今Ubisoft Blue Byte由三個工作室組成，包括育碧杜塞爾多夫工作室、育碧美因茲工作室和育碧柏林工作室。
 
 ## 歷史

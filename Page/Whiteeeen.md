@@ -1,3 +1,6 @@
+> 本文内容由[Whiteeeen](https://zh.wikipedia.org/wiki/Whiteeeen)转换而来。
+
+
 **whiteeeen**，[日本](../Page/日本.md "wikilink")4人女子歌唱組合，隸屬[ZEN MUSIC旗下](../Page/環球音樂_\(日本\).md "wikilink")，以[GReeeeN](../Page/GReeeeN.md "wikilink")的妹妹組合的身份出道\[1\]。 其中一人(meri)於2017年10月畢業，之後進行招募，現今團員共6人。
 
 ## 簡歷

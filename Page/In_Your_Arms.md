@@ -1,3 +1,6 @@
+> 本文内容由[In Your Arms](https://zh.wikipedia.org/wiki/In Your Arms)转换而来。
+
+
 《**In Your Arms**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[葉佩雯](../Page/葉佩雯.md "wikilink")的第一張唱片，是一張3吋CD Single，於1998年6月推出。
 
 ## 曲目

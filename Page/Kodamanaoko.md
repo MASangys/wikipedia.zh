@@ -1,3 +1,6 @@
+> 本文内容由[Kodamanaoko](https://zh.wikipedia.org/wiki/Kodamanaoko)转换而来。
+
+
 **Kodamanaoko**（，），[日本](../Page/日本.md "wikilink")的[女性](../Page/女性.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")、愛貓人士。現在以畫[百合向漫畫為主](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")。
 
 她的筆名可以拆做姓氏「Kodama」（可能的漢字：小玉、兒玉）和名字「naoko」（可能的漢字：直子、奈緒子）。

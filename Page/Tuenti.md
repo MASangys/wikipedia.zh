@@ -1,3 +1,6 @@
+> 本文内容由[Tuenti](https://zh.wikipedia.org/wiki/Tuenti)转换而来。
+
+
 **Tuenti**是一个成立在[西班牙](../Page/西班牙.md "wikilink")的公司，它通过自己的应用程序将电讯和社交服务整合在一起来为自己的客户提供多种平台上的云体验，它被称为“西班牙的[Facebook](../Page/Facebook.md "wikilink")”。\[1\]
 
 ## 历史

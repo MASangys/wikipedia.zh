@@ -1,3 +1,6 @@
+> 本文内容由[畅销任天堂3DS游戏列表](https://zh.wikipedia.org/wiki/畅销任天堂3DS游戏列表)转换而来。
+
+
 **已售出或出货至少100万份的[任天堂3DS](../Page/任天堂3DS.md "wikilink")游戏。**
 
   - [瑪利歐賽車7](../Page/瑪利歐賽車7.md "wikilink")（1,752万）\[1\]

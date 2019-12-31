@@ -1,3 +1,6 @@
+> 本文内容由[EA Tiburon](https://zh.wikipedia.org/wiki/EA Tiburon)转换而来。
+
+
 **EA Tiburon**，是位于美国佛罗里达州奥兰多市的开发工作室。该工作室成立于1994年，\[1\]它的前身是Tiburon Entertainment，1998年被[美国艺电收购](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")\[2\]。
 
 该工作室开发系列游戏Madden NFL系列（包括Madden, NCAA Football, NFL Street, NASCAR and NFL Head Coach），在2006年年底发布根据同名电影改编游戏《[超人归来](https://zh.wikipedia.org/wiki/超人归来 "wikilink")》。 EA Tiburon从EA Salt Lake接手了2008年版的Tiger Woods PGA Tour。

@@ -1,3 +1,6 @@
+> 本文内容由[偶像學園Stars！](https://zh.wikipedia.org/wiki/偶像學園Stars！)转换而来。
+
+
 《**偶像活動Stars！**》（）是[BANDAI於](../Page/萬代.md "wikilink")2016年5月發售的遊戲，是繼前作《[偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")》的後繼機種，《偶像活動》系列的第2作。
 
 電視動畫第1部於2016年4月7日在[東京電視網](../Page/東京電視網.md "wikilink")開始播放。第2部於2017年4月6日起在東京電視網播放。[台灣從](https://zh.wikipedia.org/wiki/台灣 "wikilink")2017年10月22日開始在[MOMO親子台](../Page/MOMO親子台.md "wikilink")播出第一季，於2018年9月16日播出第二季。

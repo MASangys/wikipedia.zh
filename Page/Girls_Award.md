@@ -1,3 +1,6 @@
+> 本文内容由[Girls Award](https://zh.wikipedia.org/wiki/Girls Award)转换而来。
+
+
 **Girls Award**（）是[日本](../Page/日本.md "wikilink")每年舉辦兩次的[時裝周](https://zh.wikipedia.org/wiki/時裝周 "wikilink")，對象為年輕女性，主打實用型時裝。活動內容包括[時裝表演](https://zh.wikipedia.org/wiki/時裝表演 "wikilink")、服裝販賣和音樂表演。簡稱**GA**或****。
 
 ## 概要

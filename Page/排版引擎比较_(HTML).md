@@ -1,3 +1,6 @@
+> 本文内容由[排版引擎比较 \(HTML\)](https://zh.wikipedia.org/wiki/排版引擎比较 \(HTML\))转换而来。
+
+
 下表比较了[HTML](../Page/HTML.md "wikilink")对一些[排版引擎](../Page/排版引擎.md "wikilink")的支持与兼容性。请参阅各个产品的条目获得更多信息。除非脚注中另有规定，比较均基于稳定版本，无任何附加组件、扩展或外部程序。
 
 本条目只考虑HTML 4与用于`text/html`的[XHTML](../Page/XHTML.md "wikilink") 1.0（所谓“HTML兼容”XHTML） 。欲了解更多XHTML相关的比较，请参见[排版引擎比较 (XHTML)](../Page/排版引擎比较_\(XHTML\).md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[KLT-靖天國際台](https://zh.wikipedia.org/wiki/KLT-靖天國際台)转换而来。
+
+
 **KLT-靖天國際台**是[嘉麗台](../Page/嘉麗台.md "wikilink")第二條頻道，2016年2月1日開播、取代[家娛國際台](https://zh.wikipedia.org/wiki/家娛國際台 "wikilink")。該頻道由[媒體智庫有限公司](../Page/媒體智庫有限公司.md "wikilink")與[靖天傳播](../Page/靖天傳播.md "wikilink")合作開設，主要播出[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 
 ## 節目列表

@@ -1,3 +1,6 @@
+> 本文内容由[DEATHTOPIA](https://zh.wikipedia.org/wiki/DEATHTOPIA)转换而来。
+
+
 《**DEATHTOPIA**》（死托邦）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山田惠庸的](https://zh.wikipedia.org/wiki/山田惠庸 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[講談社出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")，於雙周刊《[Evening](../Page/Evening.md "wikilink")》連載；中文版由[玉皇朝](../Page/玉皇朝.md "wikilink")發行。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[棒球大聯盟2nd](https://zh.wikipedia.org/wiki/棒球大聯盟2nd)转换而来。
+
+
 是[滿田拓也](../Page/滿田拓也.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《**[棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")**》的續作，以茂野大吾繼承父業為主軸。2015年於[小學館](../Page/小學館.md "wikilink")的[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")上開始連載，台灣由[青文出版社](../Page/青文出版社.md "wikilink")代理漫畫出版，2017年10月宣布動畫化。
 
 ## 概要

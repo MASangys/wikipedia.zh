@@ -1,3 +1,6 @@
+> 本文内容由[HOTSHOT](https://zh.wikipedia.org/wiki/HOTSHOT)转换而来。
+
+
 **HOTSHOT**（）為韓國[Star Crew娛樂旗下的六人男子流行音樂團體](https://zh.wikipedia.org/wiki/Star_Crew娛樂 "wikilink")，成員包括晙赫、Timoteo、[太鉉](../Page/盧太鉉.md "wikilink")、[成雲](../Page/河成雲.md "wikilink")、尹山、鎬廷\[1\]。出道日期為2014年10月31日。官方粉絲名為“핫플（hotple）”，為hot place的縮寫，為熱門場所的意思，包含著火熱的意義。
 
 ## 發展歷程

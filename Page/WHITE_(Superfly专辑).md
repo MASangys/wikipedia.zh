@@ -1,3 +1,6 @@
+> 本文内容由[WHITE \(Superfly专辑\)](https://zh.wikipedia.org/wiki/WHITE \(Superfly专辑\))转换而来。
+
+
 《**WHITE**》是日本乐团[Superfly](../Page/Superfly.md "wikilink")的第5张[录音室专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")，2015年5月27日发行。
 
 ## 背景与制作

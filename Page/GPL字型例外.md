@@ -1,3 +1,6 @@
+> 本文内容由[GPL字型例外](https://zh.wikipedia.org/wiki/GPL字型例外)转换而来。
+
+
 **GPL字型例外**（，[縮寫](../Page/縮寫.md "wikilink")：**GPL+FE**）條款是一個可以被添加到[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GNU GPL）讓[计算机字体](../Page/计算机字体.md "wikilink")可以嵌入數位[文-{}-献](../Page/文献.md "wikilink")[檔案而不必使該文件也使用GPL授權](../Page/電腦檔案.md "wikilink")。若無此條款，散佈可能會使用在桌面出版的開放原始碼專案可能會導致一些授權上的衝突\[1\]。Dave Crossland在自由圖形雜誌中解釋道，「一個[Copyleft](../Page/Copyleft.md "wikilink")的字型可能會不當的延伸其授權條款到使用該字型的文件，除非在常規的條文中加入例外；額外的授權讓在文件、照片、插圖與設計中使用一部份該字型可不受字型授權的影響。現在，大多數的自由字型都有這樣的Copyleft授權條款 —— [SIL开源字体授权](../Page/SIL开源字体授权.md "wikilink")或是在GPL FAQ中所描述的帶有字型例外的GNU GPL。」\[2\]
 
 ## 起因

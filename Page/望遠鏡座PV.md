@@ -1,3 +1,6 @@
+> 本文内容由[望遠鏡座PV](https://zh.wikipedia.org/wiki/望遠鏡座PV)转换而来。
+
+
 **望遠鏡座PV**（也稱為**HD 168476**）是位於[望遠鏡座的一顆](https://zh.wikipedia.org/wiki/望遠鏡座 "wikilink")[B-型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")（藍色）[極端氦星](../Page/極端氦星.md "wikilink")。它也是[PV Tel](../Page/望遠鏡座PV型變星.md "wikilink")[變星](../Page/變星.md "wikilink")的原型。這些可能是後[漸近巨星分支](../Page/漸近巨星分支.md "wikilink")恆星與弱[氫線和強](https://zh.wikipedia.org/wiki/氫 "wikilink")[氦](../Page/氦.md "wikilink")和[碳](../Page/碳.md "wikilink")線星。在2008年，確認的此種變星有12顆，週期從幾小時到幾年不等。有些研究者參照白矮星合併的模型來產生這種未必可能的變星\[1\]
 
 ## 參考資料

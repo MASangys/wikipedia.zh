@@ -1,3 +1,6 @@
+> 本文内容由[BMW F30](https://zh.wikipedia.org/wiki/BMW F30)转换而来。
+
+
 ****是[BMW](../Page/BMW.md "wikilink")对其第六代[3系列](../Page/BMW_3系列.md "wikilink")[中型车制定的企业内部标识](https://zh.wikipedia.org/wiki/中型车 "wikilink")。它自2012年起作为的继任车型，分别在[慕尼黑](../Page/慕尼黑.md "wikilink")、[雷根斯堡](../Page/雷根斯堡.md "wikilink")、[沈阳和](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[罗斯林的BMW工厂生产](https://zh.wikipedia.org/wiki/罗斯林 "wikilink")。F30的官方发布仪式是在2011年10月14日于慕尼黑的[BMW总部举行](../Page/寶馬公司總部大廈.md "wikilink")。首辆三厢版本则是自2012年2月11日起发售。
 
 该车同样可以提供不同的车身样式和动力级别，其中320d高效动力版本在[2012年伦敦奥运会期间基于BMW的官方合作伙伴身份而成为使用最广泛的车辆](https://zh.wikipedia.org/wiki/2012年伦敦奥运会 "wikilink")\[1\]。

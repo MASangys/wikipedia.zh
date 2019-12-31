@@ -1,3 +1,6 @@
+> 本文内容由[Nitroplus Blasterz -Heroines Infinite Duel-](https://zh.wikipedia.org/wiki/Nitroplus Blasterz -Heroines Infinite Duel-)转换而来。
+
+
 是以《[NITRO+ROYALE -HEROINES DUEL-](../Page/NITRO+ROYALE_-HEROINES_DUEL-.md "wikilink")》為基礎重製，由[Nitro+](../Page/Nitro+.md "wikilink")及共同完成的[格鬥類型](../Page/格鬥遊戲.md "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，於2015年4月30日上市。2015年12月10日發售的PS3、PS4版本則是由[Marvelous](../Page/Marvelous.md "wikilink")進行移植及委託販售。
 
 ## 開發概況

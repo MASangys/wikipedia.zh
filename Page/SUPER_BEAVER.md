@@ -1,3 +1,6 @@
+> 本文内容由[SUPER BEAVER](https://zh.wikipedia.org/wiki/SUPER BEAVER)转换而来。
+
+
 **SUPER BEAVER**（スーパービーバー）為日本搖滾樂團，於2005年組成。略稱為「ビーバー」（BEAVER）。
 
 樂團的名字為吉他手柳沢所取，想在樂團名中使用動物相關的詞語而選擇了海狸（BEAVER），前綴的SUPER僅是為了念法通順所加上，並沒有什麼特殊的意義。

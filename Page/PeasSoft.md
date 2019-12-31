@@ -1,3 +1,6 @@
+> 本文内容由[PeasSoft](https://zh.wikipedia.org/wiki/PeasSoft)转换而来。
+
+
 **PeasSoft**（ピースソフト）是位在日本[千葉縣](../Page/千葉縣.md "wikilink")[市川市](../Page/市川市.md "wikilink")的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司。\[1\]\[2\]過去曾經是（パートナーブランド）的加盟品牌之一。\[3\]
 
 ## 作品列表

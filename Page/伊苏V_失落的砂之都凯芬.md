@@ -1,3 +1,6 @@
+> 本文内容由[伊苏V 失落的砂之都凯芬](https://zh.wikipedia.org/wiki/伊苏V 失落的砂之都凯芬)转换而来。
+
+
 是[日本Falcom](../Page/日本Falcom.md "wikilink")开发，并于1995年在[超级任天堂发行的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，为[伊苏系列](../Page/伊苏系列.md "wikilink")第五代游戏。2006年[太东发行](https://zh.wikipedia.org/wiki/太东 "wikilink")[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。
 
 ## 玩法

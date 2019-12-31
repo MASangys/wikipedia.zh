@@ -1,3 +1,6 @@
+> 本文内容由[撲通撲通LOVE](https://zh.wikipedia.org/wiki/撲通撲通LOVE)转换而来。
+
+
 《**撲通撲通 LOVE**》（）（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/MBC "wikilink")2015年12月13日播出的54週年創社[特輯電視劇](../Page/MBC特輯電視劇.md "wikilink")，由[金瑟琪](../Page/金瑟琪.md "wikilink")及[尹斗俊](../Page/尹斗俊.md "wikilink")主演\[1\] 。講述高三少女張丹菲（[金瑟琪](../Page/金瑟琪.md "wikilink") 飾）與朝鮮時代世宗大王李裪（[尹斗俊](../Page/尹斗俊.md "wikilink") 飾）之間的戀愛羅曼史，是一部能為想逃離不安現況的年輕世代帶來共鳴與勇氣的作品。
 
 ## 演員列表

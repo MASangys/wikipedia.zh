@@ -1,3 +1,6 @@
+> 本文内容由[Imageepoch](https://zh.wikipedia.org/wiki/Imageepoch)转换而来。
+
+
 ，日本原电子游戏公司，建立于2005年6月，总部位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[文京区](https://zh.wikipedia.org/wiki/文京区 "wikilink")。主要业务为从大型游戏公司接受订单，进行游戏企划、[开发以及制作游戏视频](https://zh.wikipedia.org/wiki/电子游戏开发 "wikilink")。2010年3月，由于软件开发失败等原因遭遇了4亿5197万日元的赤字。2011年9月，通过[网游的开发创造了](https://zh.wikipedia.org/wiki/网游 "wikilink")17亿5109万日元的销量，但是因为一直没有吸收开发成本，导致持续低收益经营，导致不能继续维持运营。2015年5月7日，Imageepoch经东京地方裁判所判决破产。\[1\]\[2\]
 
 ## 游戏作品

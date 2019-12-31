@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV](https://zh.wikipedia.org/wiki/ViuTV)转换而来。
+
+
 [ViuTV_Office_in_Kowloon_Bay_201904.jpg](https://zh.wikipedia.org/wiki/File:ViuTV_Office_in_Kowloon_Bay_201904.jpg "fig:ViuTV_Office_in_Kowloon_Bay_201904.jpg")的影視製作工作室，佔地36,100平方呎\]\] **ViuTV**（）是[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")擁有的一條綜合娛樂電視頻道，於2016年4月6日上午6時正式啟播，現時為[香港免費數碼電視廣播的](../Page/香港數碼地面電視廣播.md "wikilink")99號頻道，節目以[粵語廣播為主](https://zh.wikipedia.org/wiki/粵語 "wikilink")。
 
 該頻道的節目內容以實況娛樂節目（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）為主打，另外也提供[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")、[動畫及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[體育等多元化節目](https://zh.wikipedia.org/wiki/體育 "wikilink")。

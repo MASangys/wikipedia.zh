@@ -1,3 +1,6 @@
+> 本文内容由[Imaging for Windows](https://zh.wikipedia.org/wiki/Imaging for Windows)转换而来。
+
+
 **Imaging for Windows**是一个由Global 360公司开发的一款[图像处理](../Page/图像处理.md "wikilink")软件。早期版本的Imaging for Windows以系统组件的形式包含在Windows 95/98/Me/NT/2000中，包含在Windows 95/98/Me/NT中的Imaging for Windows，其简体中文名称为**“-{zh;zh-hans;zh-hant;|映象}-”**；包含在Windows 2000中的Imaging for Windows，其简体中文名称为**“-{zh;zh-hans;zh-hant;|图像处理}-”**，二者的繁体中文名称皆为**“-{zh;zh-hans;zh-hant;|影像}-”**。Global360 Imaging for Windows是该软件的升级版。自[Windows XP开始](../Page/Windows_XP.md "wikilink")，微软已将该软件从Windows系统组件中移除\[1\]。其图像查看、编辑和扫描功能在Windows XP中已被[Windows图片和传真查看器与](https://zh.wikipedia.org/wiki/Windows圖片及傳真檢視器 "wikilink")[画图](../Page/画图.md "wikilink")工具取代，二者皆基于[GDI+](../Page/GDI+.md "wikilink")开发，但多页TIFF文档编辑与批注功能也随着Imaging for Windows的消失而在Windows中消失。
 
 Imaging for Windows最初由开发（在Windows 95/NT 4.0中），而后被[柯达收购](../Page/伊士曼柯达公司.md "wikilink")（署名为Eastman Software，在Windows 98/Me/2000中），然后成为eiStream公司（后来被更名为Global 360公司）旗下的产品，目前最新版本的Imaging for Windows 4.0由OpenText提供技术支持\[2\]。

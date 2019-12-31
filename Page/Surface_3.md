@@ -1,3 +1,6 @@
+> 本文内容由[Surface 3](https://zh.wikipedia.org/wiki/Surface 3)转换而来。
+
+
 **Surface 3**是微软Surface平板电脑系列的一员，于2015年3月31日发布。不像它的上一代[Surface 2](../Page/Surface_2.md "wikilink")，Surface 3拥有一个[x86架构的Intel](https://zh.wikipedia.org/wiki/x86 "wikilink") Atom处理器。因此，Surface 3可以執行完整版的[Windows 8.1](../Page/Windows_8.1.md "wikilink")，并且可以免费升级至[Windows 10](../Page/Windows_10.md "wikilink")。\[1\]
 
 ## 历史

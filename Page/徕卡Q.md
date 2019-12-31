@@ -1,3 +1,6 @@
+> 本文内容由[徕卡Q](https://zh.wikipedia.org/wiki/徕卡Q)转换而来。
+
+
 **徕卡Q (Typ 116)** 是一台固定镜头数码相机，由[徕卡公司于](https://zh.wikipedia.org/wiki/徕卡 "wikilink")2015年6月10日发布\[1\]。
 
 该相机最大特点在于配置了[全画幅](../Page/全画幅.md "wikilink")规格的图像传感器，使其成为[索尼RX1](https://zh.wikipedia.org/wiki/索尼_Cyber-shot_DSC-RX1 "wikilink")/RX1R后的又一款达到该规格的固定镜头数码相机。其具备一枚焦距28mm，开放光圈F1.7的镜头，相比早前发布的RX1机型较广，而错开了一定的竞争。同时具备内置式[EVF而使得携带与使用更为方便](../Page/电子取景器.md "wikilink")。

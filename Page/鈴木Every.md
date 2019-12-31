@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Every](https://zh.wikipedia.org/wiki/鈴木Every)转换而来。
+
+
 [Suzuki_Every_5th&4th_generation.JPG](https://zh.wikipedia.org/wiki/File:Suzuki_Every_5th&4th_generation.JPG "fig:Suzuki_Every_5th&4th_generation.JPG") **鈴木Every**（）乃是[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")（1990年9月以前稱為鈴木汽車工業）自1982年起開始製造發售的[輕型商用](../Page/輕型車.md "wikilink")[麵包車](https://zh.wikipedia.org/wiki/微型麵包車 "wikilink")。關於車名「Every」在[英語中意指](https://zh.wikipedia.org/wiki/英語 "wikilink")「每一個」，原廠為了營造高載貨量和行走迅速的形象，故取此車名\[1\]。
 
 ## 歷史與概要

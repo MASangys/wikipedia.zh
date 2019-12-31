@@ -1,3 +1,6 @@
+> 本文内容由[劳拉Go](https://zh.wikipedia.org/wiki/劳拉Go)转换而来。
+
+
 是2015年发行的回合制[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，为[古墓丽影系列](../Page/古墓丽影系列.md "wikilink")的一作。游戏是[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")另一品牌[杀手中](https://zh.wikipedia.org/wiki/杀手系列 "wikilink")，《[杀手Go](https://zh.wikipedia.org/wiki/杀手Go "wikilink")》的精神续作，由[史克威尔艾尼克斯蒙特利尔](../Page/史克威尔艾尼克斯蒙特利尔.md "wikilink")开发。玩家在游戏中通过触摸屏，移动[图版中的](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[劳拉·克劳馥避开障碍](https://zh.wikipedia.org/wiki/劳拉·克劳馥 "wikilink")、操作环境要素，最后走出迷宫。
 
 ## 玩法

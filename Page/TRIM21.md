@@ -1,3 +1,6 @@
+> 本文内容由[TRIM21](https://zh.wikipedia.org/wiki/TRIM21)转换而来。
+
+
 **三分模體包含蛋白質21**（Tripartite motif-containing protein 21，縮寫爲TRIM21），亦作**E3泛素化蛋白質連接酶TRIM21**（E3 ubiquitin-protein ligase TRIM21），係一種由人類*TRIM21*[基因](../Page/基因.md "wikilink")編碼的蛋白質\[1\]\[2\]。人們已經發現了該蛋白質的[可變剪切變體](https://zh.wikipedia.org/wiki/可變剪切 "wikilink")，但目前僅查明了其中一種在完整狀態下的性質。大部分人類組織都表達此種蛋白\[3\]。
 
 ## 結構

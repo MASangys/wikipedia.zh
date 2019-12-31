@@ -1,3 +1,6 @@
+> 本文内容由[Vice新聞](https://zh.wikipedia.org/wiki/Vice新聞)转换而来。
+
+
 **VICE新聞**（）是一個[Vice媒體屬下的新聞媒體](https://zh.wikipedia.org/wiki/Vice媒體 "wikilink")，創立於2013年12月\[1\]，在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[柏林](../Page/柏林.md "wikilink")、[墨西哥城](../Page/墨西哥城.md "wikilink")、[聖保羅](https://zh.wikipedia.org/wiki/聖保羅 "wikilink")、[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")、[伊斯坦堡](../Page/伊斯坦堡.md "wikilink")、[莫斯科](../Page/莫斯科.md "wikilink")、[北京和](https://zh.wikipedia.org/wiki/北京 "wikilink")[喀布爾等地擁有超過](https://zh.wikipedia.org/wiki/喀布爾 "wikilink")100名新聞工作人員，分屬於35個\[2\]\[3\]。Vice新聞與同一集團屬下的[Vice雜誌一樣以](../Page/Vice_\(雜誌\).md "wikilink")[Y世代](../Page/Y世代.md "wikilink")為目標觀眾對象\[4\]，希望能使年輕一代提升對世界時事的關注度，而其付出也受到了肯定\[5\]。
 
 截至2015年4月，Vice新聞的[YouTube](../Page/YouTube.md "wikilink")頻道每月影片瀏覽量平均達二千五百萬\[6\]。

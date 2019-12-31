@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Jimny](https://zh.wikipedia.org/wiki/鈴木Jimny)转换而来。
+
+
 **鈴木Jimny**（）乃是1970年起由[日本](../Page/日本.md "wikilink")[鈴木公司生產](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")、銷售的[輕型](../Page/輕型車.md "wikilink")[運動型多用途車](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，[中國](../Page/中國.md "wikilink")官方正式名稱為**鈴木吉姆尼**，本條目一併記述**鈴木Jimny Sierra**、**鈴木Jimny Wide**等衍生車型。2007年4月21日SJ413型Jimny攻頂[南美洲](../Page/南美洲.md "wikilink")[智利](../Page/智利.md "wikilink")[奥霍斯-德爾薩拉多山](https://zh.wikipedia.org/wiki/奥霍斯-德爾薩拉多山 "wikilink")，以行駛至[海拔](../Page/海拔.md "wikilink")6,688[公尺創下](https://zh.wikipedia.org/wiki/公尺 "wikilink")[汽車行駛最高海拔的](https://zh.wikipedia.org/wiki/汽車 "wikilink")[金氏世界紀錄](https://zh.wikipedia.org/wiki/吉尼斯世界纪录大全 "wikilink")\[1\]。
 
 ## 概要

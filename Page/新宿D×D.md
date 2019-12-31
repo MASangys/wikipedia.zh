@@ -1,3 +1,6 @@
+> 本文内容由[新宿D×D](https://zh.wikipedia.org/wiki/新宿D×D)转换而来。
+
+
 《**新宿D×D**》（），原作為日本漫畫家[安童夕馬](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")，臺灣漫畫家[彭傑](../Page/彭傑.md "wikilink")作畫，[友善文創](https://zh.wikipedia.org/wiki/友善文創 "wikilink")（Friendly Land）\[1\]協力製作。
 
 2014年於手機漫畫[app](https://zh.wikipedia.org/wiki/app "wikilink")「[漫畫王](https://zh.wikipedia.org/wiki/漫畫王 "wikilink")」上每週連載，由《[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")》發行單行本。2015年八月，官方[Twitter](../Page/Twitter.md "wikilink")表示單行本只會出到第三集。\[2\]

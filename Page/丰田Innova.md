@@ -1,3 +1,6 @@
+> 本文内容由[丰田Innova](https://zh.wikipedia.org/wiki/丰田Innova)转换而来。
+
+
 **丰田Innova**（有时译作**伊诺**），是一款[丰田在](https://zh.wikipedia.org/wiki/丰田 "wikilink")[东南亚](https://zh.wikipedia.org/wiki/东南亚 "wikilink")、[印度](../Page/印度.md "wikilink")、[中东](../Page/中东.md "wikilink")等地区推出的[MPV车型](https://zh.wikipedia.org/wiki/MPV "wikilink")。它属于丰田IMV计划的一部分，计划同时包含[丰田Hilux](https://zh.wikipedia.org/wiki/丰田Hilux "wikilink")[皮卡](../Page/皮卡.md "wikilink")和[丰田Fortuner](https://zh.wikipedia.org/wiki/丰田Fortuner "wikilink")[SUV](https://zh.wikipedia.org/wiki/SUV "wikilink")，该系列主要瞄准新兴国家市场。丰田Innova从2004年开始在[印度尼西亚](../Page/印度尼西亚.md "wikilink")生产，印尼的官方名称则为**Toyota Kijiang Inova**。丰田Innova在台湾则被视作[丰田瑞狮的后继](https://zh.wikipedia.org/wiki/丰田瑞狮 "wikilink")[商用車车型](https://zh.wikipedia.org/wiki/商用車 "wikilink")\[1\]，[台湾丰田给予Innova口号为](https://zh.wikipedia.org/wiki/台湾 "wikilink")“力挺头家出头天”\[2\]。
 
 第二代Innova已於2015年第三季度推出，东南亚国家和印度陆续推出第二代。台湾则因市場要求低而未引進第二代Innova，且第一代Innova在2016年5月停产。

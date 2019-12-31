@@ -1,3 +1,6 @@
+> 本文内容由[Dempa Connection Series](https://zh.wikipedia.org/wiki/Dempa Connection Series)转换而来。
+
+
 Dempa Connection（） 是[電波組.inc](../Page/電波組.inc.md "wikilink")成員全體參與演出的首部連續劇\[1\]。播放時間為2012年7月28日到2012年9月29日，於每週六凌晨2:00（JST）在 [tvk電視台播出](https://zh.wikipedia.org/wiki/tvk "wikilink")。每集只有5分鐘\[2\]。同名續篇 Dempa Connection French （）同樣也是由[電波組.inc](../Page/電波組.inc.md "wikilink")成員全體演出，播放時間為2015年4月3日到2015年6月26日，於每週五深夜1:50（JST）在[tvk播出](https://zh.wikipedia.org/wiki/tvk "wikilink")。每集亦只有5分鐘\[3\]。
 
 ## Dempa Connection

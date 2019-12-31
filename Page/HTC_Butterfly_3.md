@@ -1,3 +1,6 @@
+> 本文内容由[HTC Butterfly 3](https://zh.wikipedia.org/wiki/HTC Butterfly 3)转换而来。
+
+
 **HTC Butterfly 3**（日本為**HTC J butterfly HTV31**）是[台灣公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，屬於「HTC Butterfly」系列中的高階旗舰机型，採用[Android](../Page/Android.md "wikilink") [5.0 Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")。
 
 ## 簡介

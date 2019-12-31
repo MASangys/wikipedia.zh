@@ -1,3 +1,6 @@
+> 本文内容由[微軟Lumia 640](https://zh.wikipedia.org/wiki/微軟Lumia 640)转换而来。
+
+
 **微軟Lumia 640**\[1\]和**微軟Lumia 640 XL**\[2\]是由[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Windows Phone智能手機](../Page/Windows_Phone.md "wikilink")。在2015年3月2日發佈，爲2014年發佈的[Nokia Lumia 630的後繼系列](https://zh.wikipedia.org/wiki/Nokia_Lumia_630 "wikilink")。該手機主要針對發展中國家，\[3\] 但也在發達國家市場提供。两种设备在2015年6月开始在美国和其他大多数市场上市。\[4\]
 
 ## 發佈和供應

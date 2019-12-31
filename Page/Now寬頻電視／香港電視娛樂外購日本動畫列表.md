@@ -1,3 +1,6 @@
+> 本文内容由[Now寬頻電視／香港電視娛樂外購日本動畫列表](https://zh.wikipedia.org/wiki/Now寬頻電視／香港電視娛樂外購日本動畫列表)转换而来。
+
+
 本條目列出曾經於香港[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")／[香港電視娛樂](../Page/香港電視娛樂.md "wikilink")播放的**外購日本動畫**（包括[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[劇場版及](https://zh.wikipedia.org/wiki/劇場版 "wikilink")[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")）。
 
 <small>

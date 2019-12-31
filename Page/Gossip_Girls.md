@@ -1,3 +1,6 @@
+> 本文内容由[Gossip Girls](https://zh.wikipedia.org/wiki/Gossip Girls)转换而来。
+
+
 《**Gossip Girls**》為台灣女子團體[Popu Lady的第四張音樂寫真](../Page/Popu_Lady.md "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 專輯當中有打破前三張特有的電子舞曲，如：【Popu OK繃】－此歌曲由[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")[DJ鼓鼓操刀](https://zh.wikipedia.org/wiki/DJ "wikilink")，也有他們首次嘗試的悲傷深情歌曲，如：【我不要】－此歌曲首次由韓國音樂製作人操刀。

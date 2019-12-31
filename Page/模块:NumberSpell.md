@@ -1,3 +1,6 @@
+> 本文内容由[模块:NumberSpell](https://zh.wikipedia.org/wiki/模块:NumberSpell)转换而来。
+
+
 \-- This module converts a number into its written English form. -- For example, "2" becomes "two", and "79" becomes "seventy-nine".
 
 local getArgs = require('Module:Arguments').getArgs

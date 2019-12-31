@@ -1,3 +1,6 @@
+> 本文内容由[Source Serif Pro](https://zh.wikipedia.org/wiki/Source Serif Pro)转换而来。
+
+
 **Source Serif Pro**是一個由Frank Grießhammer為[Adobe Systems所建立的有襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。它是Adobe的第三個[开放源代码](../Page/开放源代码.md "wikilink")字體家族，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。
 
 這個字體是受及他為[Source Sans家族所設計的現代化風格啟發](../Page/Source_Sans_Pro.md "wikilink")。\[2\]它在直立的版本中提供六種字重（常規、特細、細、半粗、粗、黑），並有對應的斜體版本\[3\]。

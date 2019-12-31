@@ -1,3 +1,6 @@
+> 本文内容由[POPEYE](https://zh.wikipedia.org/wiki/POPEYE)转换而来。
+
+
 **《POPEYE》**（）是由[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[Magazine House於](../Page/Magazine_House.md "wikilink")1976年6月創辦的[男性](../Page/男性.md "wikilink")[時尚雜誌](https://zh.wikipedia.org/wiki/時尚 "wikilink")，每個月10日上架，刊名原自美國漫畫《[大力水手](../Page/大力水手.md "wikilink")》的卜派\[1\]，發行商也以其他兩位主角奧莉薇和布魯托各發行過雜誌\[2\]，名字同時也取巧「POP EYE」流行之眼，首任總編輯木滑良久\[3\]最初是將[美國現代生活介紹到日本](https://zh.wikipedia.org/wiki/美國 "wikilink")，對國內社會產生巨大的影響，八〇年代左右也有都會男性被稱呼為「POPEYE少年」，發售日期和[集英社](../Page/集英社.md "wikilink")《》相同，傳遞許多歐美時尚品牌與模特兒界的新聞資訊。
 
 ## 雜誌簡介

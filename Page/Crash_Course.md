@@ -1,3 +1,6 @@
+> 本文内容由[Crash Course](https://zh.wikipedia.org/wiki/Crash Course)转换而来。
+
+
 **Crash Course**是一個由[葛林兄弟](../Page/葛林兄弟.md "wikilink")的[約翰·葛林](../Page/約翰·葛林.md "wikilink")和成立的[YouTube](../Page/YouTube.md "wikilink")教育頻道\[1\]\[2\]\[3\]。在初期，約翰和漢克分別為頻道上[人文和](https://zh.wikipedia.org/wiki/人文 "wikilink")[科學系列的主持人](https://zh.wikipedia.org/wiki/科學 "wikilink")\[4\]，但在頻道發展後加入了其他的主持人。
 
 Crash Course是YouTube一億美元原創頻道計劃所創造的頻道之一，在2011年12月2日試映。2014年11月，漢克·葛林宣佈從2015年1月開始與合作，以製作更多影片。，該頻道已有超过一千万的訂閱者，共有超過10億點擊率\[5\]。

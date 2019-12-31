@@ -1,3 +1,6 @@
+> 本文内容由[E.G. SMILE -E-girls BEST-](https://zh.wikipedia.org/wiki/E.G. SMILE -E-girls BEST-)转换而来。
+
+
 《**E.G. SMILE -E-girls BEST-**》是[E-girls的第一張精選專輯](https://zh.wikipedia.org/wiki/E-girls "wikilink")。於2016年2月10日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[VR战士系列](https://zh.wikipedia.org/wiki/VR战士系列)转换而来。
+
+
 是[世嘉](../Page/世嘉.md "wikilink")旗下工作室AM2和设计师[铃木裕](../Page/铃木裕.md "wikilink")制作的[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[格斗游戏系列](https://zh.wikipedia.org/wiki/格斗游戏 "wikilink")。1993年系列首作在[街機上发行](https://zh.wikipedia.org/wiki/街機 "wikilink")，被广泛视为3D格斗游戏的起源。系列现有5部本傳游戏。
 
 与大部分格斗游戏类似，《VR战士系列》的系统是一對一在3个回合內爭搶2勝的比赛。

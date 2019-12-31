@@ -1,3 +1,6 @@
+> 本文内容由[初音島II Plus Situation](https://zh.wikipedia.org/wiki/初音島II Plus Situation)转换而来。
+
+
 \[1\]是[CIRCUS在](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")2008年5月29日由角川書店代理發售的PS2遊戲，為PC遊戲《[初音島II](../Page/初音島II.md "wikilink")》的遊戲機版。2009年6月25日發售PS2廉價版《**初音島II Plus Situation** KADOKAWA THE BEST》CIRCUS\[2\]。2008年12月26日發售18禁PC版《D.C.P.C.II 〜ダ・カーポII〜 プラスコミュニケーション》\[3\]。2010年10月28日發售PSP版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル》\[4\]。2013年1月25日由BD de ゲーム發售Blu-ray Players Game《D.C.～ダ・カーポ～ ブルーレイディスク特別版》\[5\]。2013年4月25日PlayStation Stone發售數位下載版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル》\[6\]。
 
 ## 與[初音島II](../Page/初音島II.md "wikilink")的不同處

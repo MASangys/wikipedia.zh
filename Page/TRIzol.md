@@ -1,3 +1,6 @@
+> 本文内容由[TRIzol](https://zh.wikipedia.org/wiki/TRIzol)转换而来。
+
+
 [TRIzol_reagent.JPG](https://zh.wikipedia.org/wiki/File:TRIzol_reagent.JPG "fig:TRIzol_reagent.JPG")
 
 **TRIzol**，是一種能分離RNA、DNA、蛋白質的試劑。該試劑常溫下爲紫紅色液體。其主要成分爲[苯酚](../Page/苯酚.md "wikilink")和[硫氰化胍](https://zh.wikipedia.org/wiki/硫氰化胍 "wikilink")。苯酚具有毒性和腐蝕性，而硫氰化胍則具有刺激性\[1\]\[2\]。該試劑是以Piotr Chomczyński與Sacchi, N在1987年提出的一步分離RNA法爲基礎發明的\[3\]。

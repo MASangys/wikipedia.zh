@@ -1,3 +1,6 @@
+> 本文内容由[魯邦三世 魯邦VS複製人](https://zh.wikipedia.org/wiki/魯邦三世 魯邦VS複製人)转换而来。
+
+
 《**魯邦三世 魯邦VS複製人**》（）是1978年12月16日上映的《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》系列首部[動畫電影作品](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")。
 
 原本的電影標題為「**ルパン三世**」，後來日本發行家用影音產品時多加了「**ルパンVS複製人間**」的副標題。

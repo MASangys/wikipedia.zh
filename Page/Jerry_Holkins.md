@@ -1,3 +1,6 @@
+> 本文内容由[Jerry Holkins](https://zh.wikipedia.org/wiki/Jerry Holkins)转换而来。
+
+
 **Jerry Holkins**，1976年2月6日在美国出生，与Mike Krahulik是漫画网站竹篙商场的主要作家。Holkins有时会使用Tycho Brahe为笔名，Holkins一分钱街机角色的名字。
 
 Holkins和Krahulik创造了竹篙商场世博会，从2004年开始，该世博会在西雅图，波士顿，澳大利亚和圣安东尼奥举办一系列的游戏节\[1\]。他也是Child's Play的创办人之一。

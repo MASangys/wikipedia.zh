@@ -1,3 +1,6 @@
+> 本文内容由[CBeebies](https://zh.wikipedia.org/wiki/CBeebies)转换而来。
+
+
 **CBeebies**是[英國廣播公司所有的一個電視頻道](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，主要面向8歲以下的兒童播出\[1\]\[2\]。CBeebies開播於2002年，在英國國內可以免費收看。CBeebies已經獲得多個電視獎項肯定，在2002年至2015年每年均獲得BAFTA兒童獎。國際版的CBeebies可以通過[英國廣播公司商業分支](../Page/英國廣播公司商業分支.md "wikilink")收看\[3\]。
 
 ## 參考資料

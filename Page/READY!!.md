@@ -1,3 +1,6 @@
+> 本文内容由[READY!!](https://zh.wikipedia.org/wiki/READY!!)转换而来。
+
+
 《**READY\!\!**》是[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")「」系列的第一張單曲，於2011年8月10日經[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。本曲是同名[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[偶像大師](../Page/偶像大師_\(動畫\).md "wikilink")》的第一期片頭曲，並由動畫中的組合「[765PRO ALLSTARS](https://zh.wikipedia.org/wiki/偶像大師_\(動畫\)#登場角色 "wikilink")」十三人演唱。
 
 ## 概要

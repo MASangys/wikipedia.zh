@@ -1,3 +1,6 @@
+> 本文内容由[雷明登Nylon 66半自動步槍](https://zh.wikipedia.org/wiki/雷明登Nylon 66半自動步槍)转换而来。
+
+
 **雷明登Nylon 66**（）是一款由[美国](../Page/美国.md "wikilink")槍械製造商[雷明登武器公司](../Page/雷明登武器公司.md "wikilink")所研製及生產的[半自动步槍](https://zh.wikipedia.org/wiki/半自动步槍 "wikilink")，發射[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
 
 雷明登Nylon 66於1959年至1989年間生產，在那時是有歷史以來第一批槍托是由木材以外的材料製造並且[大量生產](../Page/大量生產.md "wikilink")的步槍。值得注意的是在同一時間範圍以內，另一款使用木材以外的材料的槍托是具有醋酸丁酸纖維素塑料（[聚酯](../Page/聚酯.md "wikilink")[塑料](../Page/塑料.md "wikilink")）槍托的22-410史蒂文斯組合。\[1\]由於當時槍械市場普遍都缺乏合成槍托的經驗，這使得Nylon 66是當時雷明登的一個危險的豪賭。

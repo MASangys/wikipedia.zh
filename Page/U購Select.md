@@ -1,3 +1,6 @@
+> 本文内容由[U購Select](https://zh.wikipedia.org/wiki/U購Select)转换而来。
+
+
 [U_Select_Stores.JPG](https://zh.wikipedia.org/wiki/File:U_Select_Stores.JPG "fig:U_Select_Stores.JPG")分店\]\] [U購Select_Prince_Edward_Road_West_(28016374755).jpg](https://zh.wikipedia.org/wiki/File:U購Select_Prince_Edward_Road_West_\(28016374755\).jpg "fig:U購Select_Prince_Edward_Road_West_(28016374755).jpg")產品\]\] **U購Select超級市場**（）是[香港](../Page/香港.md "wikilink")一家[連鎖式](https://zh.wikipedia.org/wiki/連鎖式 "wikilink")[超級市場](../Page/超級市場.md "wikilink")。
 
 ## 歷史

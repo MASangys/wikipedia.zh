@@ -1,3 +1,6 @@
+> 本文内容由[KV-4坦克](https://zh.wikipedia.org/wiki/KV-4坦克)转换而来。
+
+
 **KV-4坦克**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**КВ-4**，代號**901工程**）是[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰期間所提出的構想性突破戰車](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，是KV系列坦克之一。
 
 ## 設計歷史

@@ -1,3 +1,6 @@
+> 本文内容由[PERMANENT \(雜誌\)](https://zh.wikipedia.org/wiki/PERMANENT \(雜誌\))转换而来。
+
+
 《**PERMANENT**》（）是由[日本](../Page/日本.md "wikilink")[福岡設計出版公司This](https://zh.wikipedia.org/wiki/福岡 "wikilink") Design旗下的PERMANENT BROS所發行之季刊雜誌，2013年1月31日創刊\[1\]。
 
 ## 刊物簡介

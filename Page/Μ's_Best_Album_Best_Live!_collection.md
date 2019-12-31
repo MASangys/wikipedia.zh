@@ -1,3 +1,6 @@
+> 本文内容由[Μ\'s Best Album Best Live! collection](https://zh.wikipedia.org/wiki/Μ\'s Best Album Best Live! collection)转换而来。
+
+
 **LoveLive\! μ's Best Album Best Live\! collection**（）是[μ's的第一张](https://zh.wikipedia.org/wiki/μ's "wikilink")[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")，2013年1月9日由[Lantis](../Page/Lantis.md "wikilink")发行。
 
 ## 发行

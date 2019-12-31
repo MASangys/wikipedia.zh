@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:网络书源/zh-mo](https://zh.wikipedia.org/wiki/MediaWiki:网络书源/zh-mo)转换而来。
+
+
 您可以在本頁用這本書的[ISBN號](../Page/国际标准书号.md "wikilink")<b></b>通過下面的圖書館、書店，或者是其他的圖書網站尋找此書。
 
 如果您是通過點擊維基百科某個頁面上的ISBN號連結來到本頁，那麼下面的標有「**尋找此書**」的連結將自動用該ISBN號尋找指定的書籍。

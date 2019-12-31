@@ -1,3 +1,6 @@
+> 本文内容由[HARVEST出版](https://zh.wikipedia.org/wiki/HARVEST出版)转换而来。
+
+
 **HARVEST出版**（ハーヴェスト出版）是日本的出版社，位於東京都品川區。主要出版[美少女遊戲](../Page/美少女遊戲.md "wikilink")的小說和[輕小說](../Page/輕小說.md "wikilink")作品為主。
 
 ## 歷史

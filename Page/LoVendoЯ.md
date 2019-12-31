@@ -1,3 +1,6 @@
+> 本文内容由[LoVendoЯ](https://zh.wikipedia.org/wiki/LoVendoЯ)转换而来。
+
+
 **LoVendoЯ**（ラベンダー）是、[日本](../Page/日本.md "wikilink")3人組成的[女子樂團](https://zh.wikipedia.org/wiki/女子樂團 "wikilink")。所属演藝經紀公司是[Up-Front Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
 
 ## 概要

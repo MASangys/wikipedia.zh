@@ -1,3 +1,6 @@
+> 本文内容由[ONFM](https://zh.wikipedia.org/wiki/ONFM)转换而来。
+
+
 **ONFM**（台呼：Always Online\! ）是[马来西亚](../Page/马来西亚.md "wikilink")On Connection Sdn Bhd旗下的网络视频电台。于2014年9月1日正式启动试播，由25位资深主持、歌手、演员及网络红人形成主持团队，当中包括[梁佑诚](../Page/梁佑诚.md "wikilink")、黄明慧、[曾文伟](../Page/曾文伟.md "wikilink")、李俐澌、[张起政](https://zh.wikipedia.org/wiki/张起政 "wikilink")、陈思颐、[李永升](../Page/李永升.md "wikilink")、[方贾为及多位网络红人](https://zh.wikipedia.org/wiki/方贾为 "wikilink")\[1\]。此台打破传统电台的规格，以“视频”为特质以及“网络社交平台”为优势，成为[东南亚首家网络视频电台兼马来西亚首家中文网络商业电台](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。\[2\]
 
 ## 节目详情

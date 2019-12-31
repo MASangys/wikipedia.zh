@@ -1,3 +1,6 @@
+> 本文内容由[SCUMM](https://zh.wikipedia.org/wiki/SCUMM)转换而来。
+
+
 **SCUMM**是美國遊戲商[LucasArts](../Page/LucasArts.md "wikilink")用於開發圖形[冒險遊戲的一種](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，於1987年發行的《[瘋狂大樓](../Page/瘋狂大樓.md "wikilink")》是首款利用SCUMM製作的遊戲。其引擎名稱正是「Script Creation Utility for Maniac Mansion」（瘋狂大樓專用程式腳本創建開發工具）所簡寫組成的頭字語。\[1\]
 
 一開始SCUMM所設計的《瘋狂大樓》雖是發行在[Commodore 64與](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")[Apple II電腦上](../Page/Apple_II.md "wikilink")，但因SCUMM[軟體可移植性好的特點](https://zh.wikipedia.org/wiki/軟體可移植性 "wikilink")，往後SCUMM有開發適用於[3DO](../Page/3DO.md "wikilink")、[DOS](../Page/DOS.md "wikilink")、[FM Towns等各種不同平台架構的遊戲作品](../Page/FM_Towns.md "wikilink")。\[2\]

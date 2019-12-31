@@ -1,3 +1,6 @@
+> 本文内容由[JR東日本KiHa E130系柴油動車組](https://zh.wikipedia.org/wiki/JR東日本KiHa E130系柴油動車組)转换而来。
+
+
 是由[东日本旅客铁道自](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")2007年1月起运用的一款柴油动车组。\[1\]\[2\]
 
 ## 运用情况

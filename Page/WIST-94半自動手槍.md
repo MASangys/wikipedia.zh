@@ -1,3 +1,6 @@
+> 本文内容由[WIST-94半自動手槍](https://zh.wikipedia.org/wiki/WIST-94半自動手槍)转换而来。
+
+
 **WIST-94 Piryt**（，意為：[黄铁矿](../Page/黄铁矿.md "wikilink")）是一款由[波兰槍械設計師維斯瓦夫](https://zh.wikipedia.org/wiki/波兰 "wikilink")·斯塔克（Wiesław Stark）所設計、（PREXER Ltd.）所生產的[半自動手槍](../Page/半自動手槍.md "wikilink")。WIST-94手槍的設計師放棄了以往採用[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")時期的設計實踐基礎，而是受到西方設計手法的影響而利用[9×19毫米手枪子彈和一些最新型的保險和其他設計技術](../Page/9×19mm魯格彈.md "wikilink")。
 
 ## 研發

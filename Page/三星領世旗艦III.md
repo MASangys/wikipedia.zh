@@ -1,3 +1,6 @@
+> 本文内容由[三星領世旗艦III](https://zh.wikipedia.org/wiki/三星領世旗艦III)转换而来。
+
+
 **三星領世旗艦III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")在2015年中推出的[Android](../Page/Android.md "wikilink")行動通訊產品，擁有3.9英寸螢幕，為三星領世旗艦的後繼機。
 
 ## 規格\[1\]

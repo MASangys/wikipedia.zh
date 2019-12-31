@@ -1,3 +1,6 @@
+> 本文内容由[柏法茨E單翼戰鬥機](https://zh.wikipedia.org/wiki/柏法茨E單翼戰鬥機)转换而来。
+
+
 **柏法茨E單翼戰鬥機**是在[第一次世界大戰前由德國](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[柏法茨飛機公司](https://zh.wikipedia.org/wiki/柏法茨飛機公司 "wikilink")(德文:Pfalz Flugzeugwerke)獲得受權生產的法國[莫蘭-索尼耶H單翼機](https://zh.wikipedia.org/wiki/莫蘭-索尼耶H單翼機 "wikilink")，無獨有偶，當時另一種德國戰鬥機[福克E單翼戰鬥機](../Page/福克E單翼戰鬥機.md "wikilink")也同樣是法國莫蘭-索尼耶H單翼機的仿製品，但福克飛機公司是仿製又改良而柏法茨是照抄。
 
 柏法茨公司原是一家在[巴伐利亞專門從事金屬零件鑄造的工廠](https://zh.wikipedia.org/wiki/巴伐利亞 "wikilink")，1913年6月3日開始生產飛機。

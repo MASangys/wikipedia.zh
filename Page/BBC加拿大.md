@@ -1,3 +1,6 @@
+> 本文内容由[BBC加拿大](https://zh.wikipedia.org/wiki/BBC加拿大)转换而来。
+
+
 **BBC加拿大**（）是[加拿大](../Page/加拿大.md "wikilink")一個乙類收費電視頻道，大部分節目內容由[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（BBC）提供，但亦播出來自[獨立電視台](../Page/獨立電視台.md "wikilink")和[第四台等英國其他電視台的節目](../Page/第四台_\(英國\).md "wikilink")。此頻道的東主賈斯帕廣播公司（）為一間聯營公司，80%業權歸[康力斯娛樂](../Page/康力斯娛樂.md "wikilink")，餘下業權則歸[英國廣播公司商業分支](../Page/英國廣播公司商業分支.md "wikilink")。
 
 ## 歷史

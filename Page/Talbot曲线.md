@@ -1,3 +1,6 @@
+> 本文内容由[Talbot曲线](https://zh.wikipedia.org/wiki/Talbot曲线)转换而来。
+
+
 [Tschirnhausen_cubic.svg](https://zh.wikipedia.org/wiki/File:Tschirnhausen_cubic.svg "fig:Tschirnhausen_cubic.svg") **Talbot曲线**也稱為**切恩豪斯立方曲線**，為一[平面曲線](https://zh.wikipedia.org/wiki/平面曲線 "wikilink")，[極坐標方程式如下](https://zh.wikipedia.org/wiki/極坐標 "wikilink")
 
 \[r = a\sec^3(\theta/3).\]

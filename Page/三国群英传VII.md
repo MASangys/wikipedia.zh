@@ -1,3 +1,6 @@
+> 本文内容由[三国群英传VII](https://zh.wikipedia.org/wiki/三国群英传VII)转换而来。
+
+
 《**三國群英傳VII**》是由[宇峻奧汀](../Page/宇峻奧汀.md "wikilink")公司開發，並於2007年在台湾發行的一款以三國為背景的單人對戰[戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")\[1\]，中国大陆则由[寰宇之星](../Page/寰宇之星.md "wikilink")在2009年发行\[2\]。本作對應[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，為[三國群英傳系列的第七代作品](https://zh.wikipedia.org/wiki/三國群英傳系列 "wikilink")。
 
 ## 参考来源

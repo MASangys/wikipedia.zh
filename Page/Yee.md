@@ -1,3 +1,6 @@
+> 本文内容由[Yee](https://zh.wikipedia.org/wiki/Yee)转换而来。
+
+
 [Yee_Oro.PNG](https://zh.wikipedia.org/wiki/File:Yee_Oro.PNG "fig:Yee_Oro.PNG")  ****這個詞起源於「revergo」這個[YouTube](../Page/YouTube.md "wikilink")頻道在2012年2月29日上傳的一部同名影片《Yee》\[1\]。這部影片將德國 Dingo Pictures 所製作動畫《恐龍的冒險》（）裡的片段改編後，上傳至YouTube。\[2\]\[3\]這部影片在2014年8月20日被分享到[Reddit](../Page/Reddit.md "wikilink")後，開始在[網路上爆紅](https://zh.wikipedia.org/wiki/網路爆紅 "wikilink")。在2015年6月傳入「[巴哈姆特](../Page/巴哈姆特電玩資訊站.md "wikilink")」後，開始在臺灣流傳。\[4\]成為在網路上及學生之間模仿的對象。\[5\]\[6\]
 
 ## 起源

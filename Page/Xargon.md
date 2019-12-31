@@ -1,3 +1,6 @@
+> 本文内容由[Xargon](https://zh.wikipedia.org/wiki/Xargon)转换而来。
+
+
 **Xargon**（本名：**張瑋**，遊戲代號：**Xargon0731**，別名：**殺梗**），台湾[實況主](../Page/現場直播.md "wikilink")、[電子競技](https://zh.wikipedia.org/wiki/電子競技 "wikilink")《[絕對武力](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》前職業選手。2004年踏入[電競圈](https://zh.wikipedia.org/wiki/電競 "wikilink")，代表[臺灣](../Page/臺灣.md "wikilink")參加WCG[世界電子競技大賽](https://zh.wikipedia.org/wiki/世界電子競技大賽 "wikilink")、IEM[英特爾極限高手盃](https://zh.wikipedia.org/wiki/英特爾極限高手盃 "wikilink")、ACON5世界電腦遊戲大賽、[ESWC等國際賽事](https://zh.wikipedia.org/wiki/ESWC "wikilink")，於服兵役後退居幕後。
 
 退役後曾擔任[台灣電子競技聯盟](https://zh.wikipedia.org/wiki/台灣電子競技聯盟 "wikilink")（TeSL）賽事部部長、[Garena電競館館長](https://zh.wikipedia.org/wiki/Garena "wikilink")、電競網站[4Gamers](../Page/4Gamers.md "wikilink")節目企劃、eXtreme Gamers eSport Club副領隊，同時也是台灣[Twitch](../Page/Twitch.md "wikilink")知名實況主，於2016年5月1日起正式轉為全職實況主。

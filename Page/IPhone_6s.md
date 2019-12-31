@@ -1,3 +1,6 @@
+> 本文内容由[IPhone 6s](https://zh.wikipedia.org/wiki/IPhone 6s)转换而来。
+
+
 **iPhone 6s**和**iPhone 6s Plus**是由[苹果公司设计销售的智能手机](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。两款产品于2015年9月9日发布，外型除了後方的“s”註記之外與6基本一致，不過在內部具备相當程度改进过的硬件规格與相機及壓力感應触摸屏技术3D Touch，性能較以往的iPhone大幅提升，同時在機身工藝做出了強化改造，而配色方面也首次增加了玫瑰金選項。
 
 同期主要競爭對手是[LG G4](../Page/LG_G4.md "wikilink")、[Sony Xperia Z5](../Page/Sony_Xperia_Z5.md "wikilink")、[HTC One M9](../Page/HTC_One_M9.md "wikilink")、[Samsung Galaxy S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[Samsung Galaxy Note 5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_5 "wikilink")、[Nexus 6P](../Page/Nexus_6P.md "wikilink")、[华为 Ascend Mate 8及](../Page/华为Mate_8.md "wikilink")[Nexus 5X](../Page/Nexus_5X.md "wikilink")，相對於iPhone 6的耀眼銷售，儘管這款產品不只是繼承近年來逐步改進的結晶，還包含蘋果的前瞻性技術在內，是第一款從後賈伯斯時代向庫克時代過渡的首部手機，然而出貨量卻出現了iPhone發布以來首次衰退，對蘋果財報造成了一定影響，直到一年後的銷售後期出貨總量才逐漸回穩。

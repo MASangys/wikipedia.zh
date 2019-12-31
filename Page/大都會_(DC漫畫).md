@@ -1,3 +1,6 @@
+> 本文内容由[大都會 \(DC漫畫\)](https://zh.wikipedia.org/wiki/大都會 \(DC漫畫\))转换而来。
+
+
 [乔·舒斯特](https://zh.wikipedia.org/wiki/乔·舒斯特 "wikilink") | genre = [超级英雄漫画](../Page/超级英雄漫画.md "wikilink") | type = [城市](../Page/城市.md "wikilink") | locations =  | people =  | population = 1,100万 | first = 《[动作漫画](../Page/动作漫画.md "wikilink")》第16期
 （1939年9月出版） | last = }}
 

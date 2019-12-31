@@ -1,3 +1,6 @@
+> 本文内容由[苯並［c］菲](https://zh.wikipedia.org/wiki/苯並［c］菲)转换而来。
+
+
 **苯並\[*c*\]菲**是一种[多环芳烃](https://zh.wikipedia.org/wiki/多环芳烃 "wikilink")，化学式C<sub>18</sub>H<sub>12</sub>。性状为白色固体，溶于非极性有机溶剂。它是非极性分子，\[1\]因其具有[轴手性](../Page/轴手性.md "wikilink")，该化合物在理论研究上引起化学家的兴趣。
 
 苯並\[*c*\]菲是一种弱[致癌物质](https://zh.wikipedia.org/wiki/致癌物质 "wikilink")。\[2\]

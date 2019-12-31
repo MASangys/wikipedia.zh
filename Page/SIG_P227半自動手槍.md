@@ -1,3 +1,6 @@
+> 本文内容由[SIG P227半自動手槍](https://zh.wikipedia.org/wiki/SIG P227半自動手槍)转换而来。
+
+
 [Sig_Sauer_P227_RS_with_Mag.jpg](https://zh.wikipedia.org/wiki/File:Sig_Sauer_P227_RS_with_Mag.jpg "fig:Sig_Sauer_P227_RS_with_Mag.jpg")。\]\]
 
 **SIG P227**是一系列由[SIG Sauer所設計和生產的全尺寸](../Page/西格&紹爾.md "wikilink")、緊湊型與大尺寸軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG P226的](../Page/SIG_P226半自動手槍.md "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")版本。

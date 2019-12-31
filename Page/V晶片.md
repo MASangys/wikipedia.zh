@@ -1,3 +1,6 @@
+> 本文内容由[V晶片](https://zh.wikipedia.org/wiki/V晶片)转换而来。
+
+
 **V晶片**（**V-chip**）是指使用在[加拿大](../Page/加拿大.md "wikilink")、[巴西](../Page/巴西.md "wikilink")和[美國地區](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視機接受器的一種技術](https://zh.wikipedia.org/wiki/電視機 "wikilink")，可依據[節目內容分級來阻擋特定節目的播放](../Page/電視分級制度.md "wikilink")。這項技術是為了讓家長能管理孩童觀看的電視節目內容而設計。自1999年起規定，在[美國市場銷售的所有電視機必須於](https://zh.wikipedia.org/wiki/美國 "wikilink")2000年1月開始支援V晶片技術\[1\]。利用此方式來阻擋電視節目的構想在1994年由布萊特·威斯特（Brett West）和約翰·P·葛登納（John P. Gardner）取得專利\[2\]，並在加拿大進行測試。自此之後業者開始生產許多使用V晶片技術的裝置。
 
 V晶片技術的運作方式與[隱藏字幕十分相似](https://zh.wikipedia.org/wiki/隱藏字幕 "wikilink")，皆是利用電視訊號的[垂直空白間隙傳送](https://zh.wikipedia.org/wiki/垂直空白間隙 "wikilink")。此系統會接受在播送訊號中的特殊代碼，代碼中包含該節目的分數資訊，此分數是利用簡單的數字系統針對節目中的暴力、性和粗俗言語內容進行分級\[3\]。節目的訊號會依據分級編碼，並使用[擴展數據服務](https://zh.wikipedia.org/wiki/擴展數據服務 "wikilink")（XDS）協定在訊號垂直空白間隙的[第21條中傳送](https://zh.wikipedia.org/wiki/EIA-608 "wikilink")，由電視機的V晶片負責偵測。如果節目的分級超過該台電視設定的可接受等級，節目便會被阻擋而無法播映。由於廣告、新聞和體育節目沒有分級，因此V晶片不會阻擋這些節目的播出。

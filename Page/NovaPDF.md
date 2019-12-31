@@ -1,3 +1,6 @@
+> 本文内容由[NovaPDF](https://zh.wikipedia.org/wiki/NovaPDF)转换而来。
+
+
 **novaPDF**是一種PDF編輯器，並在[Microsoft Windows系統上運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，此軟體由[SOFTland開發](https://zh.wikipedia.org/wiki/SOFTland "wikilink")。這個軟體可以建立PDF檔，只要是支援列印的檔案都可以建立。這軟體有發行三個版本:輕量版、標準版 以及專業版。該軟體以[共享軟體](../Page/共享軟體.md "wikilink")作為發行，若是評估版(沒有時間限制)的話，將會自動產生一個浮水印，當PDF檔的生成的同時。此軟體相容於Windows 8/7/2000/XP/2003 Server/2008 Server/Vista，而且不需要GhostScript或是.NET來生成PDF檔。
 
 ## 軟體運行

@@ -1,3 +1,6 @@
+> 本文内容由[Behaviour Santiago](https://zh.wikipedia.org/wiki/Behaviour Santiago)转换而来。
+
+
 **Behaviour Santiago**（原名**Wanako Studios**），是Behaviour Interactive所持有的智利游戏开发商。
 
 该公司在2002年由steban Sosnik, Tiburcio de la Carcova和Wenceslao Casares成立，总部设在纽约市，在智利圣地亚哥有一个主站点，该工作室是拉美地区最大的游戏开发工作室。

@@ -1,3 +1,6 @@
+> 本文内容由[Team A 7th Stage「獻給M.T.」](https://zh.wikipedia.org/wiki/Team A 7th Stage「獻給M.T.」)转换而来。
+
+
 [A72.jpg](https://zh.wikipedia.org/wiki/File:A72.jpg "fig:A72.jpg")
 
 **Team A 7th Stage「獻給M.T.」**（）是[AKB48](../Page/AKB48.md "wikilink") Team A的第7台[劇場公演](../Page/AKB48劇場公演.md "wikilink")。

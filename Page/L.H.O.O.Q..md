@@ -1,3 +1,6 @@
+> 本文内容由[L.H.O.O.Q.](https://zh.wikipedia.org/wiki/L.H.O.O.Q.)转换而来。
+
+
 [Marcel_Duchamp_Mona_Lisa_LHOOQ.jpg](https://zh.wikipedia.org/wiki/File:Marcel_Duchamp_Mona_Lisa_LHOOQ.jpg "fig:Marcel_Duchamp_Mona_Lisa_LHOOQ.jpg") [Sapeck-La_Joconde_fumant_la_pipe.jpg](https://zh.wikipedia.org/wiki/File:Sapeck-La_Joconde_fumant_la_pipe.jpg "fig:Sapeck-La_Joconde_fumant_la_pipe.jpg") 《**L.H.O.O.Q.**》（），或譯**带胡须的蒙娜丽莎**，是[杜象一系列依據](https://zh.wikipedia.org/wiki/杜象 "wikilink")《[蒙娜丽莎](../Page/蒙娜丽莎.md "wikilink")》改造而成的作品，最早的一幅完成于1919年，屬於“現成品”（Readymades）藝術。最初杜象只是給[達芬奇的這幅畫作上的人物用鉛筆加了兩撇小鬍子](https://zh.wikipedia.org/wiki/達芬奇 "wikilink")，然後重新命名為L.H.O.O.Q.而已。\[1\] 實際上法國畫家在1883年就創作過類似的作品，那次是給蒙娜丽莎加上了一個煙斗。通常評論家都把這幅畫看作是對傳統藝術的嘲諷\[2\]。
 
 ## 意義

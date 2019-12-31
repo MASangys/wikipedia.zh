@@ -1,3 +1,6 @@
+> 本文内容由[Remember－兒子的戰爭](https://zh.wikipedia.org/wiki/Remember－兒子的戰爭)转换而来。
+
+
 《**Remember-兒子的戰爭**》（，），或稱：**記得我愛你**、**記憶復仇**，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2015年12月9日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/SBS水木迷你連續劇 "wikilink")，由[俞承豪](../Page/俞承豪.md "wikilink")、[朴誠雄](../Page/朴誠雄.md "wikilink")、[朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")、[鄭惠成](../Page/鄭惠成.md "wikilink")及[南宮珉](../Page/南宮珉.md "wikilink")主演，《[美女的誕生](../Page/美女的誕生.md "wikilink")》導演[李昌民](../Page/李昌民.md "wikilink")執導以及《[辯護人](../Page/辯護人_\(電影\).md "wikilink")》編劇[尹賢浩執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。
 
 ## 劇情簡介

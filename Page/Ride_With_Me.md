@@ -1,3 +1,6 @@
+> 本文内容由[Ride With Me](https://zh.wikipedia.org/wiki/Ride With Me)转换而来。
+
+
 「**Ride With Me**」是[Hey\!Say\!JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")11张[单曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2013年12月25日由[J Storm发售](../Page/J_Storm.md "wikilink")。
 
 ## 概要

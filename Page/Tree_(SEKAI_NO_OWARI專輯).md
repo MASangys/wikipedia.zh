@@ -1,3 +1,6 @@
+> 本文内容由[Tree \(SEKAI NO OWARI專輯\)](https://zh.wikipedia.org/wiki/Tree \(SEKAI NO OWARI專輯\))转换而来。
+
+
 《**Tree**》是日本樂隊[SEKAI NO OWARI的第](../Page/SEKAI_NO_OWARI.md "wikilink")2張原創專輯，於2015年1月14日由[TOY'S FACTORY發行](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 背景與發行

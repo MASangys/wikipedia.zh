@@ -1,3 +1,6 @@
+> 本文内容由[豐田Mirai](https://zh.wikipedia.org/wiki/豐田Mirai)转换而来。
+
+
 **豐田Mirai**（取自原日文「」），是一款[氫氣](https://zh.wikipedia.org/wiki/氫氣車 "wikilink")[燃料電池汽車](https://zh.wikipedia.org/wiki/燃料電池車 "wikilink")，也是全球首部商業販售的氫氣燃料電池汽車\[1\] \[2\]。Mirai車款在2014年11月[洛杉磯國際車展中亮相](https://zh.wikipedia.org/wiki/洛杉磯國際車展 "wikilink")\[3\]，豐田汽車預計在2015年生產700輛以供應全球銷售\[4\]。
 
 在美國環境保護政策下，這輛2016[年度車款Mirai在燃料全滿的情況下可以跑](https://zh.wikipedia.org/wiki/年度車款 "wikilink")502公里（312英哩），城市/高速公路綜合燃料經濟評價獲得67mpg<sub>-US</sub>（3.5L/100km; 80mpg<sub>-imp</sub>），讓Mirai被EPA評為最具燃料效率的氫氣燃料電池車\[5\]。

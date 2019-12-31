@@ -1,3 +1,6 @@
+> 本文内容由[Two souls -toward the truth-](https://zh.wikipedia.org/wiki/Two souls -toward the truth-)转换而来。
+
+
 《**Two souls -toward the truth-**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第十張單曲。於2015年12月2日由[NBCUniversal Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon環球娛樂 "wikilink")。
 
 ## 概要

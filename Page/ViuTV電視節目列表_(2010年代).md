@@ -1,3 +1,6 @@
+> 本文内容由[ViuTV電視節目列表 \(2010年代\)](https://zh.wikipedia.org/wiki/ViuTV電視節目列表 \(2010年代\))转换而来。
+
+
 本列表是[ViuTV節目列表](../Page/ViuTV節目列表.md "wikilink")的子列表，列出2010年代的[ViuTV](../Page/ViuTV.md "wikilink")的綜藝及資訊節目。
 
 ## 2016年
@@ -1794,7 +1797,7 @@
 <td><p>26</p></td>
 <td><p>音樂</p></td>
 <td></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a></p></td>
+<td><p>主持：<a href="../Page/黃天頤.md" title="wikilink">黃天頤</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2711,7 +2714,7 @@
 <td><p>26</p></td>
 <td><p>音樂</p></td>
 <td></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃天頤" title="wikilink">黃天頤</a></p></td>
+<td><p>主持：<a href="../Page/黃天頤.md" title="wikilink">黃天頤</a></p></td>
 <td></td>
 <td></td>
 </tr>

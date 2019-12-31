@@ -1,3 +1,6 @@
+> 本文内容由[SEA-ME-WE 3](https://zh.wikipedia.org/wiki/SEA-ME-WE 3)转换而来。
+
+
 **亚欧3号国际海底光缆**（，或简称：**SEA-ME-WE 3**）又稱**法新歐亞三號海纜**，2000年底建成，是全世界连接区域最长的[海底光缆](https://zh.wikipedia.org/wiki/海底光缆 "wikilink")。该海缆由[法国电信和](https://zh.wikipedia.org/wiki/法国电信 "wikilink")[中国电信牵头筹建](https://zh.wikipedia.org/wiki/中国电信 "wikilink")，共有92个电信业投资者参与投资建设，2000年3月委任[新加坡电信](../Page/新加坡电信.md "wikilink")管理。
 
 海缆全长，\[1\]使用[波分复用技术和基于](https://zh.wikipedia.org/wiki/波分复用 "wikilink")[同步光网络](../Page/同步光网络.md "wikilink")，使其能在长距离传输中保持高质量的信号质量和增加通信流量。

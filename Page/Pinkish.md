@@ -1,3 +1,6 @@
+> 本文内容由[Pinkish](https://zh.wikipedia.org/wiki/Pinkish)转换而来。
+
+
 **Pinkish**是[日本](../Page/日本.md "wikilink")的女性歌舞組合\[1\]，[埼玉縣](../Page/埼玉縣.md "wikilink")[加須市](../Page/加須市.md "wikilink")的[在地偶像](../Page/在地偶像.md "wikilink")。該組合於2016年停止其活動\[2\]。
 
 ## 成員

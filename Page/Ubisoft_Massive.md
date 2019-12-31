@@ -1,3 +1,6 @@
+> 本文内容由[Ubisoft Massive](https://zh.wikipedia.org/wiki/Ubisoft Massive)转换而来。
+
+
 **Ubisoft Massive**，是一家总部位于瑞典[马尔默](../Page/马尔默.md "wikilink")的瑞典游戏工作室。从2008年开始该公司为育碧所有。\[1\]
 
 该工作室因制作《[冲突世界](../Page/冲突世界.md "wikilink")》和《汤姆·克兰西之[全境封锁](https://zh.wikipedia.org/wiki/全境封锁 "wikilink")》而知名。

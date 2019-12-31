@@ -1,3 +1,6 @@
+> 本文内容由[The Sims Studio](https://zh.wikipedia.org/wiki/The Sims Studio)转换而来。
+
+
 **The Sims Studio**，是[Maxis](../Page/Maxis.md "wikilink")的一个部门，[美国艺电的子公司](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")。\[1\]该工作室的是坐落于美国艺电在[红木城所在地](https://zh.wikipedia.org/wiki/红木城 "wikilink")\[2\]。除了红木城，该工作室也在EA加拿大Black Box工作室有一个辅助的工作室。至成立以来，The Sims Studio开发模拟人生系列游戏，合并到Maxis后开发了《[模拟人生3：大学生活](https://zh.wikipedia.org/wiki/模拟人生3：大学生活 "wikilink")》\[3\]和《[模拟人生4](https://zh.wikipedia.org/wiki/模拟人生4 "wikilink")》。
 
 ## 历史

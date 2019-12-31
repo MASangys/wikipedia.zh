@@ -1,3 +1,6 @@
+> 本文内容由[大流士战机II](https://zh.wikipedia.org/wiki/大流士战机II)转换而来。
+
+
 是一款由[太東](../Page/太東.md "wikilink")制作和发行的[卷轴射击游戏](https://zh.wikipedia.org/wiki/卷轴射击游戏 "wikilink")。本游戏是1987年街机游戏《[大流士战机](https://zh.wikipedia.org/wiki/大流士战机_\(游戏\) "wikilink")》的续作。游戏先于1989年在[街机](../Page/街机.md "wikilink")上发行。\[1\]之后移植至多个游戏平台。其中包括[Mega Drive](../Page/Mega_Drive.md "wikilink")、[Game Boy和](../Page/Game_Boy.md "wikilink")[世嘉Master System](../Page/世嘉Master_System.md "wikilink")。1993年一个重制版本在[PC Engine的Super](https://zh.wikipedia.org/wiki/PC_Engine "wikilink") CD-ROM²发行。本游戏收到大多数正面的评价。
 
 游戏被设定于太阳系内半部。与《大流士战机》具有类似的分支层次结构。\[2\]

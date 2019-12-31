@@ -1,3 +1,6 @@
+> 本文内容由[Dir \(命令\)](https://zh.wikipedia.org/wiki/Dir \(命令\))转换而来。
+
+
 **`dir`** （directory，目錄）是一個條列[檔案及](../Page/電腦檔案.md "wikilink")[目錄的](../Page/目录_\(文件系统\).md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[指令](https://zh.wikipedia.org/wiki/指令_\(電腦\) "wikilink")，在[CP/M](https://zh.wikipedia.org/wiki/CP/M "wikilink")、[VMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、[DOS](../Page/DOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Singularity](../Page/Singularity.md "wikilink")及[Microsoft Windows等](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統中都有此指令](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 `dir`指令基本上會會列出目录中的檔案及子目录的名稱，也可以列出其檔案大小，建立時間等相關資訊，並且列出所在的[磁碟機](https://zh.wikipedia.org/wiki/磁碟機 "wikilink")、可用空間等資訊。`dir`指令也可以尋找其[檔案名稱](../Page/檔案名稱.md "wikilink")符合特定條件的檔案。

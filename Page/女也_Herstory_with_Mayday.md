@@ -1,3 +1,6 @@
+> 本文内容由[女也 Herstory with Mayday](https://zh.wikipedia.org/wiki/女也 Herstory with Mayday)转换而来。
+
+
 《**女也 Herstory with Mayday**》，是由[相信音樂](../Page/相信音樂.md "wikilink")發行的音樂概念專輯，召集十組女歌手自選[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的十首歌曲重編演繹，陣容包括[曲婉婷](../Page/曲婉婷.md "wikilink")、[林憶蓮](../Page/林憶蓮.md "wikilink")、[S.H.E](../Page/S.H.E.md "wikilink")、[徐佳瑩](../Page/徐佳瑩.md "wikilink")、[梁靜茹](../Page/梁靜茹.md "wikilink")、[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[家家](https://zh.wikipedia.org/wiki/纪家盈 "wikilink")、[艾怡良](https://zh.wikipedia.org/wiki/艾怡良 "wikilink")、[魏如萱](../Page/魏如萱.md "wikilink")、[黃韻玲](../Page/黃韻玲.md "wikilink")。專輯企劃也特別與十位藝術家與導演合作，將每首歌曲都拍攝全新的音樂錄影帶，賦予歌曲全新的想像與畫面感；此次的專輯封面與內頁也邀請藝術家羅展鵬與平面設計師[聶永真](../Page/聶永真.md "wikilink")操刀設計。於2015年6月26日正式發行。\[1\]\[2\]
 
 ## 曲目

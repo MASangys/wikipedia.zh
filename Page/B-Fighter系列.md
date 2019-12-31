@@ -1,3 +1,6 @@
+> 本文内容由[B-Fighter系列](https://zh.wikipedia.org/wiki/B-Fighter系列)转换而来。
+
+
 《**B-Fighter系列**》為[日本](../Page/日本.md "wikilink")[東映](../Page/東映.md "wikilink")製作的[特攝TV連續劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，別名又稱作救援警察三部作。在東映特攝作品裡是在《[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列》与《[救援警察系列](../Page/救援警察系列.md "wikilink")》后的第三个系列人氣作品。 系列分為《[重甲B-Fighter](../Page/重甲B-Fighter.md "wikilink")》、《[超重甲B-Fighter Kabuto](../Page/B-Fighter_Kabuto.md "wikilink")》两部曲。「以昆虫为原型」 、「使用昆虫型变身器变身」、「以‘重甲’‘超重甲’为变身口号」等在當時來說是非常嶄新且劃時代的作品，對往後的特攝作品留下了深遠的影響。
 
 ## 系列构成

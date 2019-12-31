@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Carry](https://zh.wikipedia.org/wiki/鈴木Carry)转换而来。
+
+
 鈴木Carry（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1961年起開始製造發售的[輕型商用貨卡車](../Page/輕型車.md "wikilink")。關於車名「Carry」的由來，在[英語中意指](https://zh.wikipedia.org/wiki/英語 "wikilink")「運送」之意\[1\]。 {{-}}
 
 ## 歷史與概要

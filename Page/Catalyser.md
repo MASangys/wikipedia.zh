@@ -1,3 +1,6 @@
+> 本文内容由[Catalyser](https://zh.wikipedia.org/wiki/Catalyser)转换而来。
+
+
 **Catalyser**於2012年10月組成，樂隊成員分別為主音Iron、鼓手Ana、低音吉他手Agos、鍵琴手Eugene、木結他手Daniel，而離開成員有電結他手Anthony及主唱Tomy。為新生代[澳門樂隊](https://zh.wikipedia.org/wiki/澳門樂隊 "wikilink")，平均年齡僅二十歲，部份成員正在港澳地區大學就讀。
 
 ## 簡介

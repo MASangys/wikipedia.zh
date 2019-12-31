@@ -1,3 +1,6 @@
+> 本文内容由[Basteria](https://zh.wikipedia.org/wiki/Basteria)转换而来。
+
+
 《***Basteria***》是一份由同儕評審的[雙月](https://zh.wikipedia.org/wiki/Category:雙月刊 "wikilink")[期刊](../Page/期刊.md "wikilink")，由出版，涵蓋所有[軟體動物研究的範疇](https://zh.wikipedia.org/wiki/軟體動物 "wikilink")，始創於1936年\[1\]。現時本期刊文獻主要以英語發表。
 
 ## 歷任總編輯

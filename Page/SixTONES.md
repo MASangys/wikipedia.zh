@@ -1,3 +1,6 @@
+> 本文内容由[SixTONES](https://zh.wikipedia.org/wiki/SixTONES)转换而来。
+
+
 **SixTONES**是由[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹](../Page/田中樹.md "wikilink")及[高地優吾](../Page/高地優吾.md "wikilink")所組成的團體，念作「STONES」。
 
 SixTONES的意思是解作六個不同的音階，代表著六人每人也有各自屬於自己的音調。2015年5月1日結成，2020年1月22日正式發行單曲出道。

@@ -1,3 +1,6 @@
+> 本文内容由[HanbitSoft](https://zh.wikipedia.org/wiki/HanbitSoft)转换而来。
+
+
 ，是韩国电脑游戏出版和开发公司。该公司因韩国成功销售《[星际争霸](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")》而知名。
 
 该公司成立于1999年，专注于东亚国家的[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。该公司自称最高占全国的电脑游戏市场份额五个百分点，国际上拥有**Tantra Online**。该公司投资大型游戏产业，并已国内外公司进行合作。

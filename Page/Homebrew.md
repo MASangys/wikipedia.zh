@@ -1,3 +1,6 @@
+> 本文内容由[Homebrew](https://zh.wikipedia.org/wiki/Homebrew)转换而来。
+
+
 **Homebrew**是一款[自由及](../Page/自由软件.md "wikilink")[开放源代码的](../Page/开源软件.md "wikilink")[软件包管理系统](../Page/软件包管理系统.md "wikilink")，用以简化[macOS系统上的软件安装过程](https://zh.wikipedia.org/wiki/macOS "wikilink")，最初由马克斯·霍威尔（Max Howell）写成。因其[可扩展性得到了一致好评](https://zh.wikipedia.org/wiki/可扩展性 "wikilink")\[1\]，而在[Ruby on Rails社区广为人知](../Page/Ruby_on_Rails.md "wikilink")。
 
 Homebrew使用[GitHub](../Page/GitHub.md "wikilink")，通过用户的贡献扩大对软件包的支持。2012年，Homebrew是GitHub上拥有最多新贡献者的项目\[2\]。2013年，Homebrew同时成为GitHub上最多贡献者及最多已关闭问题的项目\[3\]。

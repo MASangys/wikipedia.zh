@@ -1,3 +1,6 @@
+> 本文内容由[Nokia 105](https://zh.wikipedia.org/wiki/Nokia 105)转换而来。
+
+
 **Nokia 105**是[Nokia生產的直立式](https://zh.wikipedia.org/wiki/Nokia "wikilink")[功能型手機](../Page/功能型手機.md "wikilink")，2013年5月1日發布。
 
 ## 規格

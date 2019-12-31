@@ -1,3 +1,6 @@
+> 本文内容由[A-4G天鷹式攻擊機](https://zh.wikipedia.org/wiki/A-4G天鷹式攻擊機)转换而来。
+
+
 [A-4G_on_cat_of_HMAS_Melbourne_(R21)_1972.jpeg](https://zh.wikipedia.org/wiki/File:A-4G_on_cat_of_HMAS_Melbourne_\(R21\)_1972.jpeg "fig:A-4G_on_cat_of_HMAS_Melbourne_(R21)_1972.jpeg")
 
 **麥克唐納-道格拉斯A-4G天鷹式**（）是一架由[澳洲皇家海軍](../Page/澳洲皇家海軍.md "wikilink")自[A-4天鷹式的基礎發展出來的](../Page/A-4天鷹式攻擊機.md "wikilink")[攻擊機](https://zh.wikipedia.org/wiki/攻擊機 "wikilink")。該設計是基於A-4F天鷹式的變體，並配有略微不同的航空電子設備，並可搭配[AIM-9響尾蛇空對空導彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")。澳洲皇家海軍分別在在1967年和1971年各接收十架A-4G，服役年份由1967年至1984年。

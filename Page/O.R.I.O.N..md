@@ -1,3 +1,6 @@
+> 本文内容由[O.R.I.O.N.](https://zh.wikipedia.org/wiki/O.R.I.O.N.)转换而来。
+
+
 《**O.R.I.O.N.**》（獵戶座）是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2014年12月10日由[rhythm zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

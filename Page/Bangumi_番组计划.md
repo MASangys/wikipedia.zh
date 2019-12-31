@@ -1,3 +1,6 @@
+> 本文内容由[Bangumi 番组计划](https://zh.wikipedia.org/wiki/Bangumi 番组计划)转换而来。
+
+
 **Bangumi 番组计划**是一个中文[ACG](../Page/ACG.md "wikilink")互联网分享与交流项目，由网友“Sai”于2008年在[中國](../Page/中國.md "wikilink")[廣西](https://zh.wikipedia.org/wiki/廣西壯族自治區 "wikilink")[桂林建立](../Page/桂林市.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## 简介

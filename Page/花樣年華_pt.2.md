@@ -1,3 +1,6 @@
+> 本文内容由[花樣年華 pt.2](https://zh.wikipedia.org/wiki/花樣年華 pt.2)转换而来。
+
+
 《**花樣年華 pt.2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")第四張韓語迷你專輯，為「青春二部曲」系列專輯的第二部曲。2015年11月30日由[Big Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]，主打曲目為《RUN》。
 
 ## 簡介

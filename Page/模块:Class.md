@@ -1,3 +1,6 @@
+> 本文内容由[模块:Class](https://zh.wikipedia.org/wiki/模块:Class)转换而来。
+
+
 local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
 
 local class = mw.loadData('Module:Class/data')

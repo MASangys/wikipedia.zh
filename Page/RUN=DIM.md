@@ -1,3 +1,6 @@
+> 本文内容由[RUN=DIM](https://zh.wikipedia.org/wiki/RUN=DIM)转换而来。
+
+
   -
 《**RUN=DIM**》（，，台灣：**AI特攻隊**或**丸町戰神**，香港：**機甲戰線**）是日本於2001年由[東京電視台](../Page/東京電視台.md "wikilink")播放的3D電腦動畫。由日本[IDEA FACTORY遊戲製作公司和韓國Digital](https://zh.wikipedia.org/wiki/IDEA_FACTORY "wikilink") Dream Studio動畫製作公司耗資20萬美元聯合製作。也是全亞洲首部3D電腦動畫。
 

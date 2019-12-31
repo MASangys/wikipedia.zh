@@ -1,3 +1,6 @@
+> 本文内容由[Ritual Entertainment](https://zh.wikipedia.org/wiki/Ritual Entertainment)转换而来。
+
+
 **Ritual Entertainment**，是由Robert Atkins, Mark Dochtermann, Jim Dosé, Richard 'Levelord' Gray, Michael Hadwin, Harry Miller, and Tom Mustaine成立于1996年的游戏开发商，总部设在美国德克萨斯州达拉斯，Ritual Entertainment的前身是Hipnotic Interactive，在此期间，他们开始发展工作室的招牌游戏SiN。
 
 2007年1月24日，开发商MumboJumbo宣布收购Ritual Entertainment\[1\]。收购后，Ritual Entertainment专注于休闲游戏而非原来的以行动导向型游戏。该公司收购后，几名关键员工离开公司，首席执行官Steve Nix成为id Software的业务发展主管，\[2\]副总裁兼联合创始人Tom Mustaine在离职的几个月后成立Escalation Studios。在收购数月后，社区关系经理Steve Hessel离开公司加盟Splash Damage。\[3\]

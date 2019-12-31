@@ -1,3 +1,6 @@
+> 本文内容由[ALL MV COLLECTION～當時的少女們～](https://zh.wikipedia.org/wiki/ALL MV COLLECTION～當時的少女們～)转换而来。
+
+
 《**ALL MV COLLECTION〜當時的少女們〜**》（）是[日本](../Page/日本.md "wikilink")女子偶像團體[乃木坂46的總](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[音樂影片集](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，收錄了從第1張單曲[窗簾圍繞](../Page/窗簾圍繞.md "wikilink")到第13張單曲[此刻，想說話的對象](../Page/此刻，想說話的對象.md "wikilink")共57首的所有音樂影片，是為出道近4年來單曲之集大成。\[1\]。
 
 ## 背景

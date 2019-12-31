@@ -1,3 +1,6 @@
+> 本文内容由[Unifi TV](https://zh.wikipedia.org/wiki/Unifi TV)转换而来。
+
+
 **Unifi TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.wikipedia.org/wiki/马来西亚电讯 "wikilink")[宽频电视服务](https://zh.wikipedia.org/wiki/宽频电视 "wikilink")。
 
 ## Unifi TV所有电视频道

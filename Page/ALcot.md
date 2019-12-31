@@ -1,3 +1,6 @@
+> 本文内容由[ALcot](https://zh.wikipedia.org/wiki/ALcot)转换而来。
+
+
 **ALcot**（）是日本CLOVER SOFTWARE（）公司旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。\[1\]該品牌的前身是[同人社團APPLE](https://zh.wikipedia.org/wiki/同人社團 "wikilink") project。原本有其他姊妹品牌**ALcot Honey Comb**（）和**ALcot Citrus**（），現在ALcot Citrus已併入ALcot Honey Comb。
 
 ## 歷史

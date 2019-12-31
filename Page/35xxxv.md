@@ -1,3 +1,6 @@
+> 本文内容由[35xxxv](https://zh.wikipedia.org/wiki/35xxxv)转换而来。
+
+
 「**35xxxv**」，日本搖滾樂團[ONE OK ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2015年2月11日發行的第7張專輯，分為「通常盤」和「初回預定盤」。並於2015年9月25日於全球推出全英文的特別版「**35xxxv Deluxe Edition**」。
 
 ## 簡介

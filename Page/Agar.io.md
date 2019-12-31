@@ -1,3 +1,6 @@
+> 本文内容由[Agar.io](https://zh.wikipedia.org/wiki/Agar.io)转换而来。
+
+
 [Agario-gameplay.jpg](https://zh.wikipedia.org/wiki/File:Agario-gameplay.jpg "fig:Agario-gameplay.jpg")的[Doge](../Page/Doge.md "wikilink")。\]\] 《**Agar.io**》（中国大陆通译为“**细胞吞噬**”\[1\]）是马特乌斯·瓦拉达里斯制作，2015年4月推出的[网页大型多人动作游戏](../Page/网页浏览器.md "wikilink")。玩家在地图中，控制自己的[细胞](../Page/细胞.md "wikilink")尽可能吞噬其它小细胞，并躲开大细胞的吞噬。游戏名“Agar.io”源自“*agar*”一词，即培养细菌的[琼脂](https://zh.wikipedia.org/wiki/琼脂 "wikilink")（洋菜）。
 
 《Agar.io》获得正面评价。媒体主要称赞游戏的简单、有对抗性，以及其机制，批评声集中于游戏系统单调。游戏[Steam](../Page/Steam.md "wikilink")下载版的制作消息于2015年5月公开，[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")版由[Miniclip于同年](https://zh.wikipedia.org/wiki/Miniclip "wikilink")7月发行。這個遊戲也開啟了一波「[.io類遊戲](../Page/.io游戏.md "wikilink")」的潮流，讓多人競技、具備成長機制、快速重生的特色成為了2015年起數年的網路遊戲特色。\[2\]

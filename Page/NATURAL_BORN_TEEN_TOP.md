@@ -1,3 +1,6 @@
+> 本文内容由[NATURAL BORN TEEN TOP](https://zh.wikipedia.org/wiki/NATURAL BORN TEEN TOP)转换而来。
+
+
 《**NATURAL BORN TEEN TOP**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")6枚迷你韓語專輯，於2015年6月22日發行，主打歌曲為《從早上到早上》（）\[1\]。
 
 ## 背景

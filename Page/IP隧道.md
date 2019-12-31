@@ -1,3 +1,6 @@
+> 本文内容由[IP隧道](https://zh.wikipedia.org/wiki/IP隧道)转换而来。
+
+
 **IP隧道**是指一種可在两网络间用[网际协议](../Page/网际协议.md "wikilink")进行通信的通道。在该通道里，會先[封装其他网络协议的](https://zh.wikipedia.org/wiki/封裝_\(網路\) "wikilink")[数据包](https://zh.wikipedia.org/wiki/分組 "wikilink")，之後再传输資訊。
 
 IP隧道经常用於连接两個不是用[路由](../Page/路由.md "wikilink")直接連結的IP网络，IP隧道會通过底层路由协议来架构中间传输网络。若IP隧道与两個或多个[IPSec一起使用时](https://zh.wikipedia.org/wiki/IPSec "wikilink")，可以创建[虚拟专用网](https://zh.wikipedia.org/wiki/虚拟专用网 "wikilink")（Virtual Private Network，VPN），讓二個或多個被公開網路（如[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")）隔開的私有网络彼此访问，另一个主要应用也是目前常用的，讓各[IPv6](../Page/IPv6.md "wikilink")網路隔著[IPv4](../Page/IPv4.md "wikilink")网络上通訊。

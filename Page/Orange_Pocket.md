@@ -1,3 +1,6 @@
+> 本文内容由[Orange Pocket](https://zh.wikipedia.org/wiki/Orange Pocket)转换而来。
+
+
 《**Orange Pocket**》（）是於2003年6月13日發售的[Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁](../Page/日本成人遊戲.md "wikilink")[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，由[HOOK製作](https://zh.wikipedia.org/wiki/HOOK "wikilink")。隨後由於2004年4月18日發售[Dreamcast](../Page/Dreamcast.md "wikilink")和[PlayStation 2版遊戲](../Page/PlayStation_2.md "wikilink")。兩個平台均有不同於Windows平台的場景和角色。電腦CLUB於2005年7月14日發售[DVD PlayersGame](../Page/互動式電影.md "wikilink")。[NTT DoCoMo於](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")2006年8月4日推出可以在[FOMA手機上運行遊戲的](https://zh.wikipedia.org/wiki/FOMA "wikilink")[行動電話版本](https://zh.wikipedia.org/wiki/行動電話 "wikilink")。[輕小說](../Page/輕小說.md "wikilink")、[CD](../Page/CD.md "wikilink")也陸續發布。
 
 ## 遊戲

@@ -1,3 +1,6 @@
+> 本文内容由[Diaspora \(软件\)](https://zh.wikipedia.org/wiki/Diaspora \(软件\))转换而来。
+
+
 \[1\] | latest release date =  | latest preview version = | latest preview date = | programming language = [Ruby](../Page/Ruby.md "wikilink")\[2\] | platform = [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") | size = | language = | status = 活跃 | genre = [社交网络服务](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink") | license = [AGPLv3](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink")\[3\]\[4\]，部分是基于[MIT许可证的](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[双许可证](https://zh.wikipedia.org/wiki/多许可 "wikilink")\[5\] | website = [DiasporaFoundation.org](https://diasporafoundation.org) }}
 
 **Diaspora**（现在常写作 diaspora\*，之前常写作 DIASPORA\*）是一款用于提供[分散式社交网络的自由的](https://zh.wikipedia.org/wiki/分散式社交网络 "wikilink")软件\[6\] 。 安装了这款软件的节点（在本软件中被称为“pods”）组成了 [Diaspora 社交网络](../Page/Diaspora_\(社交网络\).md "wikilink")。

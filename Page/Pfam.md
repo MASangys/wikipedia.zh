@@ -1,3 +1,6 @@
+> 本文内容由[Pfam](https://zh.wikipedia.org/wiki/Pfam)转换而来。
+
+
 **Pfam**是一個[蛋白質家族資料庫](https://zh.wikipedia.org/wiki/蛋白質家族 "wikilink")。此資料庫會利用[隱馬爾可夫模型進行](https://zh.wikipedia.org/wiki/隱馬爾可夫模型 "wikilink")[多重序列比對](../Page/多重序列比對.md "wikilink")以及加上蛋白腳註\[1\]\[2\]\[3\]。
 
 ## 特色

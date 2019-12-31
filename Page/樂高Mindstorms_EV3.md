@@ -1,3 +1,6 @@
+> 本文内容由[樂高Mindstorms EV3](https://zh.wikipedia.org/wiki/樂高Mindstorms EV3)转换而来。
+
+
 **樂高機器人 Mindstorms EV3**是樂高集團所製造第三代的可程式即可組合[機器人玩具](https://zh.wikipedia.org/wiki/機器人 "wikilink")（第一代為RCX，第二代為NXT）。整組的套件包含了感測器及連接線。[樂高](../Page/樂高.md "wikilink")（LEGO）于2013年下半年推出樂高公司和美國[麻省理工學院](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")（MIT）共同開發的機器人組件新款“教育用LEGO Mindstorms EV3”\[1\]。Mindstorms是將配備微處理器的LEGO公司的塑膠積木組裝起來，通過[個人電腦制作的程式來控制的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")。
 
 ## [RCX與](https://zh.wikipedia.org/wiki/RCX "wikilink")[NXT及EV](https://zh.wikipedia.org/wiki/乐高Mindstorms_NXT "wikilink")3的比較

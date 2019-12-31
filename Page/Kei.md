@@ -1,3 +1,6 @@
+> 本文内容由[Kei](https://zh.wikipedia.org/wiki/Kei)转换而来。
+
+
 **Kei**（，）本名為**金志妍**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，出生於[仁川廣域市](../Page/仁川廣域市.md "wikilink")，所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，2014年11月以組合[Lovelyz一員出道](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，為Lovelyz的主唱 、形象。\[1\]2019年10月8日，以本名金志妍SOLO出道。
 
 ## 音樂作品

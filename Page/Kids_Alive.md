@@ -1,3 +1,6 @@
+> 本文内容由[Kids Alive](https://zh.wikipedia.org/wiki/Kids Alive)转换而来。
+
+
 **Kids Alive**，[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。通常以「**KIDS ALIVE**」表示。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Underground Development](https://zh.wikipedia.org/wiki/Underground Development)转换而来。
+
+
 **Underground Development**（前身为**Z-Axis Games**）是于大卫·伦茨在1994年创立的游戏开发商。\[1\]
 
 2002年5月，该公司被[动视](../Page/动视.md "wikilink")收购，并于2005年搬到加利福尼亚州福斯特城。\[2\]2008年初，工作室更名为Underground Development。2008年4月19日，动视宣布，该工作室将在完成PlayStation3版Enemy Territory: Quake Wars后关闭。\[3\]然而，工作室继续运营，并在2009年2月移动到红木海岸地区加利福尼亚州红木城的一个新的办公室\[4\]。

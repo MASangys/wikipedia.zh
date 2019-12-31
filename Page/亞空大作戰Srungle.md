@@ -1,3 +1,6 @@
+> 本文内容由[亞空大作戰Srungle](https://zh.wikipedia.org/wiki/亞空大作戰Srungle)转换而来。
+
+
 『**亞空大作戰**』（原題：）是[日本](../Page/日本.md "wikilink")[國際映畫社制作的](https://zh.wikipedia.org/wiki/國際映畫社 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")。由[朝日電視台](../Page/朝日電視台.md "wikilink")在1983年1月21日至1984年1月27日播放，全53話（本編52話＋總集編1話）。
 
 ## 各話一覽

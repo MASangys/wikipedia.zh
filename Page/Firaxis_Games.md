@@ -1,3 +1,6 @@
+> 本文内容由[Firaxis Games](https://zh.wikipedia.org/wiki/Firaxis Games)转换而来。
+
+
 **Firaxis Games**，是席德·梅尔，杰夫·布里格斯和布赖恩·雷诺兹离开MicroProse在1996年成立的美国电子游戏开发商，现在是Take-Two公司的全资子公司。该公司最出名的是文明系列游戏。
 
 ## 游戏

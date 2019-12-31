@@ -1,3 +1,6 @@
+> 本文内容由[Classroom☆Crisis](https://zh.wikipedia.org/wiki/Classroom☆Crisis)转换而来。
+
+
 ，是由Lay-duce製作的日本原創電視動畫，2015年7月3日在[每日放送](../Page/每日放送.md "wikilink")的「[Animeism](../Page/Animeism.md "wikilink")」時段播出\[1\]。
 
 監督為[長崎健司](../Page/長崎健司.md "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")》插畫的[神崎廣](../Page/神崎廣.md "wikilink")擔任\[4\]。

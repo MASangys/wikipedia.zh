@@ -1,3 +1,6 @@
+> 本文内容由[Office Document Query](https://zh.wikipedia.org/wiki/Office Document Query)转换而来。
+
+
 **Office Document Query**（缩写：ODQ）即通用流式文档查询语言。它是一种通用于不同文档格式的查询语言。
 
 目前世界上流行的流式文档的标准格式有：[OOXML](../Page/Office_Open_XML.md "wikilink")、[ODF](../Page/开放文档格式.md "wikilink")、[UOF](../Page/统一办公文档格式.md "wikilink")。不同格式有着不同的访问接口。Office Document Query针对流式文档，在一定程度上屏蔽文档格式和版本的差异，提供统一的访问接口。

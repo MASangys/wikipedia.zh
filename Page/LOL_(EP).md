@@ -1,3 +1,6 @@
+> 本文内容由[LOL \(EP\)](https://zh.wikipedia.org/wiki/LOL \(EP\))转换而来。
+
+
 《**LOL**》為[Twins的](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2015年11月26日在[香港](../Page/香港.md "wikilink")發行。
 
 本唱片分了平裝版及限量版：平裝版共有不同造型封面，6首歌曲獨立EP推出；限量版則以Boxset形式發售，與[CHOCOOLATE](../Page/I.T.md "wikilink") X BABY MILO®合作，內送DVD、Tshirt、貼紙及明信片。

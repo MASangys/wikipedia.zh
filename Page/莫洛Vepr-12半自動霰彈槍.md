@@ -1,3 +1,6 @@
+> 本文内容由[莫洛Vepr-12半自動霰彈槍](https://zh.wikipedia.org/wiki/莫洛Vepr-12半自動霰彈槍)转换而来。
+
+
 **莫洛Vepr-12**（；；Вепрь，中文意思：[野豬](../Page/野豬.md "wikilink")）是一系列由[俄罗斯](../Page/俄罗斯.md "wikilink")槍械製造商（Molot Oruzhie Ltd.）所研製及生產的多用途[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")），為以原來的為藍本並進行構圖，再運用比較沉重的[RPK](../Page/RPK輕機槍.md "wikilink")[轻机枪](../Page/轻机枪.md "wikilink")的加強型[機匣為基礎製造](https://zh.wikipedia.org/wiki/機匣 "wikilink")，發射3英吋麥格農[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 該槍可用作狩獵、運動射擊比賽（通常於比賽的公開課中使用）、自我防衛以及軍警制式武器。該槍可說是其「表親」[Saiga-12半自動霰彈槍](../Page/Saiga-12半自動霰彈槍.md "wikilink")的直接的競爭對手。

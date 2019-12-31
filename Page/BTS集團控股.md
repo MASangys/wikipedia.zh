@@ -1,3 +1,6 @@
+> 本文内容由[BTS集團控股](https://zh.wikipedia.org/wiki/BTS集團控股)转换而来。
+
+
 **BTS集團控股有限公司**，簡稱**BTS集團控股**（****和****，[SET代碼](../Page/泰國證券交易所.md "wikilink")：BTS），1968年，由已故[黃子明兒子](https://zh.wikipedia.org/wiki/黃子明 "wikilink")[黃創山](../Page/黃創山.md "wikilink")（主席）創立前身為「泰華榮控股有限公司」（Tanayong Public Company Limited）。
 
 最早經營為房地產行業，後來在2010年，收購[曼谷大眾運輸系統](../Page/曼谷大眾運輸系統.md "wikilink")和[曼谷快速公交系統的母公司Bangkok](https://zh.wikipedia.org/wiki/曼谷快速公交系統 "wikilink") Mass Transit System PCL (BTSC)94.6%股權，其後擴大股本資金，也就是經營運輸、廣告等行業\[1\]\[2\]。

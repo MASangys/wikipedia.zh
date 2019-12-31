@@ -1,3 +1,6 @@
+> 本文内容由[EA Bright Light](https://zh.wikipedia.org/wiki/EA Bright Light)转换而来。
+
+
 **EA Bright Light**（前身为**EA UK**），成立于1995年，是[美国艺电位于英国的游戏开发商](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")。该工作室主要进行其特许专营权的工作，如将[哈利·波特](../Page/哈利·波特.md "wikilink")系列改编成游戏。
 
 \[1\]

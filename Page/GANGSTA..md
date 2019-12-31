@@ -1,3 +1,6 @@
+> 本文内容由[GANGSTA.](https://zh.wikipedia.org/wiki/GANGSTA.)转换而来。
+
+
 《**GANGSTA.**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[作品](../Page/作品.md "wikilink")。於[新潮社漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[月刊Comic@BUNCH](https://zh.wikipedia.org/wiki/月刊Comic@BUNCH "wikilink")》2011年3月號（創刊號）開始連載至今
 
 故事描述在一条由黑帮支配的街区，盘踞着各式各樣的人們，在一位看似性格温柔的枪手沃里克和一位双耳失聪但有着锐利双眼的刀客尼古拉斯所经营的「便利屋」之下，作者为我们描绘了一个他们不论哪方势力、何人委托帮人处理各种「脏事」的故事。

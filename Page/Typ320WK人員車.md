@@ -1,3 +1,6 @@
+> 本文内容由[Typ320WK人員車](https://zh.wikipedia.org/wiki/Typ320WK人員車)转换而来。
+
+
 [奔馳汽車廠於](../Page/梅賽德斯-賓士.md "wikilink")1926年至1940年間曾推出一系列人員車輛，Typ320WK人員車為其中一款，此車不單是[第二次世界大戰期間](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德軍其中一種車用車輛](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")，也同樣是[國民革命軍](../Page/國民革命軍.md "wikilink")主力的軍用車輛。
 
 ## 基本資料

@@ -1,3 +1,6 @@
+> 本文内容由[Ecosia](https://zh.wikipedia.org/wiki/Ecosia)转换而来。
+
+
 **Ecosia**是一个[网页搜索引擎](../Page/搜索引擎.md "wikilink")，他们将至少80%的剩余所得公益捐献，目前正关注植树。\[1\]
 
 Ecosia支持全[财务透明](https://zh.wikipedia.org/wiki/透明度_\(社会\) "wikilink")。\[2\]

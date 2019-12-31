@@ -1,3 +1,6 @@
+> 本文内容由[JR東日本HB-E210系柴聯車](https://zh.wikipedia.org/wiki/JR東日本HB-E210系柴聯車)转换而来。
+
+
 是一款柴油-电力[混合动力](https://zh.wikipedia.org/wiki/混合动力 "wikilink")[动车组](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")，自2015年5月30日起运用于[东日本旅客铁道的](https://zh.wikipedia.org/wiki/东日本旅客铁道 "wikilink")[仙石东北线上](https://zh.wikipedia.org/wiki/仙石东北线 "wikilink")。\[1\]\[2\]此車於2016年獲得[鐵道友之會](../Page/鐵道友之會.md "wikilink")頒發[桂冠獎](../Page/桂冠獎.md "wikilink")。
 
 ## 设计

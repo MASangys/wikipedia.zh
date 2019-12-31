@@ -1,3 +1,6 @@
+> 本文内容由[深圳地铁北车长客A型电动列车](https://zh.wikipedia.org/wiki/深圳地铁北车长客A型电动列车)转换而来。
+
+
 **深圳地铁北车长客A型电动列车**是[深圳地铁的一款列车](https://zh.wikipedia.org/wiki/深圳地铁 "wikilink")，于[1号线](../Page/深圳地铁1号线.md "wikilink")、[2号线](../Page/深圳地铁2号线.md "wikilink")、[5号线行走](../Page/深圳地铁5号线.md "wikilink")。列车由[中国北车长春轨道客车股份有限公司制造](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")。
 
 ## 历史

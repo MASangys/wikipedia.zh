@@ -1,3 +1,6 @@
+> 本文内容由[赤坂BLITZ](https://zh.wikipedia.org/wiki/赤坂BLITZ)转换而来。
+
+
 **赤坂BLITZ**（，），是位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[港区](https://zh.wikipedia.org/wiki/港区 "wikilink")[赤坂](../Page/赤坂.md "wikilink")、[赤坂Sacas](../Page/赤坂Sacas.md "wikilink")内的一座由[TBS电视台运营的](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")[live house](https://zh.wikipedia.org/wiki/LiveHouse "wikilink")。最初开放于1996年（[平成](../Page/平成.md "wikilink")8年），2003年（平成15年），由于重新规划开发而关闭。2008年（平成20年）3月20日重新开业。
 
 ## 概要

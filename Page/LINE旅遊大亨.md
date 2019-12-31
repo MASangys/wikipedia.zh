@@ -1,3 +1,6 @@
+> 本文内容由[LINE旅遊大亨](https://zh.wikipedia.org/wiki/LINE旅遊大亨)转换而来。
+
+
 \[1\]，是由[Netmarble N2工作室開發的一款手機遊戲](../Page/Netmarble_Games.md "wikilink")，玩法類似於[大富翁](../Page/地產大亨.md "wikilink")，但獨特的玩法使其受到世界各地玩家的喜愛。在[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[LINE代理](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")。
 
 與傳統的《[大富翁](../Page/地產大亨.md "wikilink")》不同，依照按住按鈕的時間長短，來影響骰子數字大小。玩家可以獲得更多的勝利條件，例如三區、整排、旅遊景點，遊戲內還有各種不同的角色和道具可以進行強化、合成，每個角色跟道具都有自己的特殊能力。\[2\]

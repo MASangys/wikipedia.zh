@@ -1,3 +1,6 @@
+> 本文内容由[W－兩個世界](https://zh.wikipedia.org/wiki/W－兩個世界)转换而来。
+
+
 《**W**》\[1\]（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年7月20日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由《[她很漂亮](https://zh.wikipedia.org/wiki/她很漂亮 "wikilink")》[鄭大胤導演執導](https://zh.wikipedia.org/wiki/鄭大胤 "wikilink")，《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》、《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》[宋在貞](../Page/宋在貞.md "wikilink")作者執筆，是一部充滿奇幻且浪漫的電視劇。\[2\]。 W兩個世界於2016年9月14日播发完结。
 
 [myVideo](https://zh.wikipedia.org/wiki/myVideo "wikilink")、[KKTV](../Page/KKTV.md "wikilink")等OTT平台均有播出。中華電信MOD龍華偶像台、龍華影劇台獲得台灣播映版權，於7月30日起播出。[Viu](../Page/Viu.md "wikilink")獲得香港播映權，每集在韓​​國首播後四小時連同繁體字幕上線。

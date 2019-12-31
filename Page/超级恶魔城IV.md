@@ -1,3 +1,6 @@
+> 本文内容由[超级恶魔城IV](https://zh.wikipedia.org/wiki/超级恶魔城IV)转换而来。
+
+
 是[KONAMI公司在](https://zh.wikipedia.org/wiki/KONAMI "wikilink")1991年10月31日發售的[动作](../Page/动作游戏.md "wikilink")[平台游戏](../Page/平台游戏.md "wikilink")。\[1\]
 
 本游戏根据[FC游戏机版本的](https://zh.wikipedia.org/wiki/FC游戏 "wikilink")《[惡魔城](../Page/惡魔城_\(遊戲\).md "wikilink")》基础上制作。

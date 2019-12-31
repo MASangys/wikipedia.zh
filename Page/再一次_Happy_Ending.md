@@ -1,3 +1,6 @@
+> 本文内容由[再一次 Happy Ending](https://zh.wikipedia.org/wiki/再一次 Happy Ending)转换而来。
+
+
 《**再一次 Happy Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年1月20日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[鄭敬淏](../Page/鄭敬淏.md "wikilink")、[張娜拉](../Page/張娜拉.md "wikilink")及[劉仁娜主演](https://zh.wikipedia.org/wiki/劉仁娜 "wikilink")，《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[媽媽的庭院](../Page/媽媽的庭院.md "wikilink")》[權聖昌導演執導](https://zh.wikipedia.org/wiki/權聖昌 "wikilink")。描述一晃眼就過了30歲的第一代妖精女團Angels成員們的未來，未婚與想婚、離婚與再婚、昨天與今天，希望能再一次得到幸福的男女。劇中傳達了單身、初婚、離婚以及再婚的內心轉折，回歸單身、單身爸爸、母胎單身和離婚沒兩樣的婚姻，看起來無法復合的已婚人，為了再次幸福而挑戰愛情的無比勇氣，愉快且痛快的閃閃發光浪漫喜劇。 \[1\]
 
 ## 演員列表

@@ -1,3 +1,6 @@
+> 本文内容由[Croscore字型](https://zh.wikipedia.org/wiki/Croscore字型)转换而来。
+
+
 **Chrome OS核心字型**，又稱**Croscore字型**，是一組包含以下三個[TrueType](../Page/TrueType.md "wikilink")[字型家族之集合](../Page/字体.md "wikilink")：Arimo（[无衬线体](../Page/无衬线体.md "wikilink")）、Tinos（[衬线体](../Page/衬线体.md "wikilink")）與Cousine（[等宽字体](../Page/等宽字体.md "wikilink")）。這些字型在規格上相容於[蒙納公司](../Page/蒙納公司.md "wikilink")的[Arial](../Page/Arial.md "wikilink")、[Times New Roman以及](../Page/Times_New_Roman.md "wikilink")[Courier New](https://zh.wikipedia.org/wiki/Courier_New "wikilink")，上述三個在Microsoft Windows作業系統上最普遍的字型，其目的為做為上述三字型的開放原始碼替代品\[1\]。
 
 [Google](../Page/Google.md "wikilink")從處取得這些字型，並以[Apache许可证](../Page/Apache许可证.md "wikilink")第二版授權\[2\]\[3\]\[4\]。

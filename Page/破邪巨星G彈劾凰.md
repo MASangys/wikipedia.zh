@@ -1,3 +1,6 @@
+> 本文内容由[破邪巨星G彈劾凰](https://zh.wikipedia.org/wiki/破邪巨星G彈劾凰)转换而来。
+
+
 『**破邪巨星G彈劾凰**』（原題：）是[朝日電視台](../Page/朝日電視台.md "wikilink")在2001年4月5日至7月5日播出，由[AIC所製作的](../Page/動畫國際公司.md "wikilink")[機械人動畫](https://zh.wikipedia.org/wiki/機械人動畫 "wikilink")，全13話。
 
 ## 概要

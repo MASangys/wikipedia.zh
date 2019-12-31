@@ -1,3 +1,6 @@
+> 本文内容由[Bizarre Creations](https://zh.wikipedia.org/wiki/Bizarre Creations)转换而来。
+
+
 **Bizarre Creations**（在中国大陆有时称作“南瓜头工作室”）是一家已经解散的英国电子游戏开发商。1988年工作室以Raising Hell Software之名在英国利物浦成立，并在1994年更名为Bizarre Creations。他们所制作的游戏以《》系列最为人熟知，此外工作室的作品还包括了《》系列。
 
 2007年[动视](../Page/动视.md "wikilink")宣布收购Bizarre Creations，不过在2011年动视在出售该公司失败后宣布解散Bizarre Creations。\[1\]\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[Must be now](https://zh.wikipedia.org/wiki/Must be now)转换而来。
+
+
 《**Must be now**》是[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48](../Page/NMB48.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2015年10月7日由[laugh out loud\! records發售](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
 
 ## 概要

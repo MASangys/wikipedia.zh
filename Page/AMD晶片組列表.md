@@ -1,3 +1,6 @@
+> 本文内容由[AMD晶片組列表](https://zh.wikipedia.org/wiki/AMD晶片組列表)转换而来。
+
+
 本條目包含AMD收購[ATI後](https://zh.wikipedia.org/wiki/ATI "wikilink")，所製造的南北橋晶片組與FCH晶片，若要查詢ATI被收購前所製造的南北橋晶片組，請另見[ATI晶片組列表](../Page/ATI晶片組列表.md "wikilink")。
 
 ## 北橋晶片

@@ -1,3 +1,6 @@
+> 本文内容由[沙丘II 新王朝](https://zh.wikipedia.org/wiki/沙丘II 新王朝)转换而来。
+
+
 是一款由[西木工作室](../Page/西木工作室.md "wikilink")制作、Virgin Interactive于1992年发行的[即时战略游戏](../Page/即时战略游戏.md "wikilink")。本游戏后于1993年在[Amiga](../Page/Amiga.md "wikilink")和[Mega Drive上发行](../Page/Mega_Drive.md "wikilink")。\[1\]游戏根据[大卫·林奇于](https://zh.wikipedia.org/wiki/大卫·林奇 "wikilink")1984年的电影《[沙丘](../Page/沙丘_\(电影\).md "wikilink")》改编。
 
 玩家作为一名星际基地的指挥官，目的是夺取其他的基地。游戏的基本策略是通过矿车采集香料矿而进行提炼获得金钱。玩家通过金钱来建造军事设施以击败敌人。

@@ -1,3 +1,6 @@
+> 本文内容由[Love Live! 人物列表](https://zh.wikipedia.org/wiki/Love Live! 人物列表)转换而来。
+
+
 以下是《[Love Live\!](../Page/Love_Live!.md "wikilink")》和《[Love Live\! Sunshine\!\!](../Page/Love_Live!_Sunshine!!.md "wikilink")》系列角色介紹。
 
 ## Love Live\! School Idol Project登場人物

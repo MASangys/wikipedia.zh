@@ -1,3 +1,6 @@
+> 本文内容由[NTU法](https://zh.wikipedia.org/wiki/NTU法)转换而来。
+
+
 [Tubular_heat_exchanger.png](https://zh.wikipedia.org/wiki/File:Tubular_heat_exchanger.png "fig:Tubular_heat_exchanger.png") [Exchangerflow.svg](https://zh.wikipedia.org/wiki/File:Exchangerflow.svg "fig:Exchangerflow.svg")
 
 **NTU法**是**熱傳單元數法**的簡稱，也稱為**熱交換有效性**法，是在一[熱交換器](https://zh.wikipedia.org/wiki/熱交換器 "wikilink")（特別是的熱交換器）沒有[對數平均溫差](../Page/對數平均溫差.md "wikilink")（LMTD）的條件下，計算其[熱交換速率的方式](https://zh.wikipedia.org/wiki/熱交換 "wikilink")。

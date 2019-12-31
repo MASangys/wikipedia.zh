@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive! 学园偶像天国](https://zh.wikipedia.org/wiki/LoveLive! 学园偶像天国)转换而来。
+
+
 是由开发、[角川游戏发行的一款音乐游戏](https://zh.wikipedia.org/wiki/角川集团 "wikilink")，在[PlayStation Vita平台运行](../Page/PlayStation_Vita.md "wikilink")，于2014年8月28日在日本发行。
 
 ## 简介

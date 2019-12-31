@@ -1,3 +1,6 @@
+> 本文内容由[Mad \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/Mad \(GOT7迷你專輯\))转换而来。
+
+
 《**MAD**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")所推出的第四張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，於2015年9月29日發行，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為KT Music，主打歌曲為《If You Do》。2015年9月30日在香港、印尼、馬來西亞、菲律賓、新加坡、泰國的iTunes專輯排行榜上獲得第一\[1\]， 隨後空降美國[Billboard世界專輯榜第一名](https://zh.wikipedia.org/wiki/Billboard "wikilink")。\[2\]11月6日發行台壓版專輯，特別加收中文版《Just right》一曲，23日發行改版專輯《MAD冬季版》（MAD Winter Edition）。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[問答RPG 魔法使與黑貓維茲](https://zh.wikipedia.org/wiki/問答RPG 魔法使與黑貓維茲)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")開發的奇幻主題的問答類[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，對應[Android](../Page/Android.md "wikilink")和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。繁體中文版由[so-net於](https://zh.wikipedia.org/wiki/so-net "wikilink")2015年開始營運。
 
 ## 系統設定

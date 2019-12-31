@@ -1,3 +1,6 @@
+> 本文内容由[G.當沙](https://zh.wikipedia.org/wiki/G.當沙)转换而来。
+
+
 **G.當沙**(**Godfred Donsah**，出生於1996年6月7日）是[加納的職業足球運動員](https://zh.wikipedia.org/wiki/加納 "wikilink")，司職[中場](https://zh.wikipedia.org/wiki/中場 "wikilink")，現效力於[意大利足球乙級聯賽](https://zh.wikipedia.org/wiki/意大利足球乙級聯賽 "wikilink")[卡利亞里](https://zh.wikipedia.org/wiki/卡利亞里足球會 "wikilink")。\[1\]
 
 ## 參考

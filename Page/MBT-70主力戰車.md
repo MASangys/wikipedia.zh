@@ -1,3 +1,6 @@
+> 本文内容由[MBT-70主力戰車](https://zh.wikipedia.org/wiki/MBT-70主力戰車)转换而来。
+
+
 **MBT-70主力戰車**（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：Kampfpanzer 70, KPz 70）是1960年代[德國](../Page/西德.md "wikilink")（[西德](../Page/西德.md "wikilink")）和[美國的聯合開發計畫](https://zh.wikipedia.org/wiki/美國 "wikilink")，旨在研製一款擁有尖端科技的[主力戰車](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")。該款戰車採用了當時最新的液氣式懸吊系統，並擁有一個足夠容納所有乘組員的大型炮塔。MBT-70的主要武裝為一門152毫米**XM150**戰車炮，能夠使用普通炮彈，也能夠發射[MGM-51棍杖飛彈](../Page/MGM-51橡樹棍反坦克導彈.md "wikilink")。\[1\]
 
 1969年時，MBT-70的開發計划已經大幅超出預算上限，[德國因而退出計划](../Page/西德.md "wikilink")，並自行研製一款新的主力戰車（[豹2型主力戰車](https://zh.wikipedia.org/wiki/豹2型坦克 "wikilink")）。至於[美國方面](https://zh.wikipedia.org/wiki/美國 "wikilink")，開發計划持續運作了一小段時間，直到1971年[美國國會將之取消為止](https://zh.wikipedia.org/wiki/美國國會 "wikilink")。MBT-70雖然是一款失敗的產物，但其研發經驗促成兩款優秀的坦克：[豹2型坦克以及](https://zh.wikipedia.org/wiki/豹2型坦克 "wikilink")[M1艾布蘭主力戰車](../Page/M1艾布蘭主力戰車.md "wikilink")，時至今日依然分別是[德國和](https://zh.wikipedia.org/wiki/德國 "wikilink")[美國的主力坦克](https://zh.wikipedia.org/wiki/美國 "wikilink")。

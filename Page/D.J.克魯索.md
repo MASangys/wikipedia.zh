@@ -1,3 +1,6 @@
+> 本文内容由[D.J.克魯索](https://zh.wikipedia.org/wiki/D.J.克魯索)转换而来。
+
+
 **小丹尼爾·約翰·「D.J」·克魯索**（，）是一名美國男導演和監製。他較著名的作品如《[萬里追兇](https://zh.wikipedia.org/wiki/萬里追兇 "wikilink")》（2002年）、《[機動殺人](https://zh.wikipedia.org/wiki/機動殺人 "wikilink")》（2004年）、《[金錢遊戲](https://zh.wikipedia.org/wiki/金錢遊戲 "wikilink")》（2005年）、《[恐怖社區](../Page/恐怖社區.md "wikilink")》（2007年）、《[鷹眼](../Page/鷹眼_\(電影\).md "wikilink")》（2008年）、《[獵殺第四行者](../Page/獵殺第四行者.md "wikilink")》（2011年）和《[山羊島](https://zh.wikipedia.org/wiki/山羊島_\(電影\) "wikilink")》（2013年）。
 
 ## 個人生活

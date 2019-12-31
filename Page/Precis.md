@@ -1,3 +1,6 @@
+> 本文内容由[Precis](https://zh.wikipedia.org/wiki/Precis)转换而来。
+
+
 ***Precis***是[蛺蝶亞科](../Page/蛺蝶亞科.md "wikilink")[眼蛺蝶族](../Page/眼蛺蝶族.md "wikilink")中的一個[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。物種分佈於[埃塞俄比亞界](https://zh.wikipedia.org/wiki/埃塞俄比亞界 "wikilink")。此屬曾長期與[眼蛺蝶屬](../Page/眼蛺蝶屬.md "wikilink")混淆，但現今的分子數據指出它們明顯進化自兩個不同的[演化支](../Page/演化支.md "wikilink")\[1\]。
 
 ## 物種

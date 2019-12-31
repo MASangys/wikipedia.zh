@@ -1,3 +1,6 @@
+> 本文内容由[Ib \(遊戲\)](https://zh.wikipedia.org/wiki/Ib \(遊戲\))转换而来。
+
+
 《**Ib**》（）是一款2012年2月27日發布、使用[RPG Maker 2000為工具](../Page/RPG_Maker_2000.md "wikilink")，製作的一款[免費的](https://zh.wikipedia.org/wiki/免費遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。作者為kouri。\[1\] __TOC__
 
 ## 系統

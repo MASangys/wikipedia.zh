@@ -1,3 +1,6 @@
+> 本文内容由[BRUTUS](https://zh.wikipedia.org/wiki/BRUTUS)转换而来。
+
+
 **《BRUTUS》**（）是由[日本](../Page/日本.md "wikilink")出版社 [Magazine House](../Page/Magazine_House.md "wikilink") 於1980年5月創刊的男性雜誌，每月1日與15日發行，雜誌標題原自美國漫畫《[大力水手](../Page/大力水手.md "wikilink")》的布魯托\[1\]，發行商也以其他兩位主角奧莉薇和卜派各發行過刊物，近年則轉變為刊載日本文化與生活風格為主的內容\[2\]，臺灣由[慕客館文化事業進口經銷](https://zh.wikipedia.org/wiki/慕客館文化事業 "wikilink")。
 
 ## 簡介

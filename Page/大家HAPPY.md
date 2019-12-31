@@ -1,3 +1,6 @@
+> 本文内容由[大家HAPPY](https://zh.wikipedia.org/wiki/大家HAPPY)转换而来。
+
+
 《**大家HAPPY**》是香港[亞洲電視](../Page/亞洲電視.md "wikilink")製作並於1983年8月8日首播的一齣電視劇集，本劇由[程潔茵](../Page/程潔茵.md "wikilink")擔任故事策劃，[李兆華監製](https://zh.wikipedia.org/wiki/李兆華 "wikilink")。主演有[劉家傑](../Page/劉家傑.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[陳惠敏](https://zh.wikipedia.org/wiki/陳惠敏 "wikilink")、[簡而清](../Page/簡而清.md "wikilink")、[車保羅](../Page/車保羅.md "wikilink")等人。值得一提，日後成為著名導演的[李力持](../Page/李力持.md "wikilink")及[邱禮濤](../Page/邱禮濤.md "wikilink")是本劇的助理編導之一。
 
 ## 劇情簡介

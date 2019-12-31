@@ -1,3 +1,6 @@
+> 本文内容由[Nemasomatidae](https://zh.wikipedia.org/wiki/Nemasomatidae)转换而来。
+
+
 **Nemasomatidae** <small>Bollman, 1893</small>是[馬陸的一個科](https://zh.wikipedia.org/wiki/馬陸 "wikilink")，是[姬馬陸目之下的一個分類元](https://zh.wikipedia.org/wiki/姬馬陸目 "wikilink")\[1\]。它是[Nemasomatoidea總科](https://zh.wikipedia.org/wiki/Nemasomatoidea "wikilink") <small>Bollman, 1893</small>的成員。
 
 ## 分類

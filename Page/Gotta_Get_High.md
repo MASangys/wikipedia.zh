@@ -1,3 +1,6 @@
+> 本文内容由[Gotta Get High](https://zh.wikipedia.org/wiki/Gotta Get High)转换而来。
+
+
 《**Gotta Get High**》為香港女歌手[容祖兒](../Page/容祖兒.md "wikilink")的歌曲，亦是其專輯《[J-POP](https://zh.wikipedia.org/wiki/J-POP_\(專輯\) "wikilink")》的第二主打。
 
 單曲於2015年12月4日派至各大電台，由[馮翰銘](../Page/馮翰銘.md "wikilink")作曲、[陳詠謙](../Page/陳詠謙.md "wikilink")填詞\[1\]。

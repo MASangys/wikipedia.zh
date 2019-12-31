@@ -1,3 +1,6 @@
+> 本文内容由[約翰·康諾利 \(FBI\)](https://zh.wikipedia.org/wiki/約翰·康諾利 \(FBI\))转换而来。
+
+
 **小約翰·約瑟夫·康諾利**（****，）\[1\] ，為前[聯邦調查局特工](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")。他因為參與[冬山幫](../Page/冬山幫.md "wikilink")、與已故的[白毛·巴爾傑](https://zh.wikipedia.org/wiki/白毛·巴爾傑 "wikilink")，以及有關係，而被控[敲詐](https://zh.wikipedia.org/wiki/敲詐 "wikilink")、[妨礙司法公正](../Page/妨礙司法公正.md "wikilink")和[謀殺](../Page/謀殺.md "wikilink")等罪名。
 
 和嘗試把「白毛」牢入鐵窗多年，但一直拖延至2011年。與此同時，「白毛傑」和佛萊明的康諾利（和「白毛」於一起長大的），遭當局起訴有關招攬「白毛」提供資料作為線民重點，以致無法無天。1999年12月22日，康諾利被控妨礙「白毛傑」和佛萊明調查、故意發出虛假聯邦調查局報告掩飾相關罪行，和接受賄賂。在2000年，康諾利加控一條名為敲詐罪，2002年，被判聯邦入獄10年。後在2008年，他被控在[佛羅里達州涉嫌相關](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[第二級謀殺罪名成立](../Page/謀殺.md "wikilink")，判入獄40年。他涉嫌在[邁亞密進行巴結](https://zh.wikipedia.org/wiki/邁亞密 "wikilink")「白毛傑」提供有關案件作為聯盟，一直有聯繫\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Fnac](https://zh.wikipedia.org/wiki/Fnac)转换而来。
+
+
 **Fnac**是[法國的一個零售企業](https://zh.wikipedia.org/wiki/法國 "wikilink")，開業於1954年。
 
 ## 歷史

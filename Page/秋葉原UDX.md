@@ -1,3 +1,6 @@
+> 本文内容由[秋葉原UDX](https://zh.wikipedia.org/wiki/秋葉原UDX)转换而来。
+
+
 **秋葉原UDX**（、*Akihabara Urban Development X*）是[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[外神田](../Page/外神田.md "wikilink")（[秋葉原](../Page/秋葉原.md "wikilink")）[秋葉原Crossfield內的大樓](https://zh.wikipedia.org/wiki/秋葉原Crossfield "wikilink")。2007年度[好設計獎](../Page/好設計獎.md "wikilink")得主\[1\]。
 
 ## 概要

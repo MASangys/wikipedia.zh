@@ -1,3 +1,6 @@
+> 本文内容由[肯尼斯·R·沙德里克](https://zh.wikipedia.org/wiki/肯尼斯·R·沙德里克)转换而来。
+
+
 border |caption = |birth_date =  |death_date =  |birth_place = 美国[肯塔基州](../Page/肯塔基州.md "wikilink")[哈伦县](https://zh.wikipedia.org/wiki/哈伦县_\(肯塔基州\) "wikilink") |death_place = 韩国[烏山市](https://zh.wikipedia.org/wiki/乌山市 "wikilink") |placeofburial = 美国[西弗吉尼亚州](https://zh.wikipedia.org/wiki/西弗吉尼亚州 "wikilink")[怀俄明县](https://zh.wikipedia.org/wiki/怀俄明县_\(西维吉尼亚州\) "wikilink") |placeofburial_label = |placeofburial_coordinates = |nickname = “肯尼”\[1\] |birth_name = |allegiance =  |branch = [美国陆军](../Page/美国陆军.md "wikilink") |serviceyears = 1948–1950 |rank = [二等兵](https://zh.wikipedia.org/wiki/二等兵 "wikilink") |servicenumber = 15-273-308\[2\] |unit = [第34步兵团](https://zh.wikipedia.org/wiki/美国第34步兵团 "wikilink")
 [第24步兵师](https://zh.wikipedia.org/wiki/美国第24步兵师 "wikilink") |commands = |battles = [朝鲜战争](../Page/朝鲜战争.md "wikilink")
 

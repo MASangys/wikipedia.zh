@@ -1,3 +1,6 @@
+> 本文内容由[IMFACT](https://zh.wikipedia.org/wiki/IMFACT)转换而来。
+
+
 **IMFACT**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明星帝國娛樂](../Page/明星帝國娛樂.md "wikilink")旗下的男子偶像組合，成員為帝業、泰浩、摯安、李想、雄宰，於2016年1月27日發行《Lollipop》專輯正式出道。
 
 **IMFACT**是一支創作型團隊，成員們具備著詞曲創作、音樂製作，與編舞能力，團名「**IMFACT**」表示他們有強大的衝擊力，及「I'm Fact（我是真實的）」——將帶來最真實的音樂之意\[1\]。團體口號為「**We Are IMFACT\!** 」\[2\]。粉絲名為「**IF**」，代表 **I**MFACT 和 **F**an，有著IMFACT 和粉絲合為一體、一起走下去的意思，也代表著多樣的可能性。\[3\]

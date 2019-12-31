@@ -1,3 +1,6 @@
+> 本文内容由[羅蘭C-II偵察機](https://zh.wikipedia.org/wiki/羅蘭C-II偵察機)转换而来。
+
+
 **羅蘭C-II偵察機**是由LFG公司（Luft-Fahrzeug-Gesellschaft）研製的雙翼偵察機，它被譽為[第一次世界大戰當中最漂亮的德國偵察機](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，它也因此被稱為「鯨魚」。
 
 LFG公司成立於1908年，原本是造飛船起家的，當它在1913年開始造飛機時就以「羅蘭」（ROLAND）作為品牌名稱，此名原本是指[查理曼大帝的一名在戰鬥當中英勇陣亡的後衛軍指揮官](https://zh.wikipedia.org/wiki/查理大帝 "wikilink")。

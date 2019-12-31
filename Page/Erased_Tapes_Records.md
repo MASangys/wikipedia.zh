@@ -1,3 +1,6 @@
+> 本文内容由[Erased Tapes Records](https://zh.wikipedia.org/wiki/Erased Tapes Records)转换而来。
+
+
 **Erased Tapes Records**是一間2007年成立、以[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦為據點的獨立音樂廠牌](https://zh.wikipedia.org/wiki/倫敦 "wikilink")，致力於發行前衛音樂。
 
 ## 發展過程

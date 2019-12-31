@@ -1,3 +1,6 @@
+> 本文内容由[FS作戰](https://zh.wikipedia.org/wiki/FS作戰)转换而来。
+
+
 **FS作戰**為[大日本帝国](../Page/大日本帝国.md "wikilink")在[第二次世界大战](../Page/第二次世界大战.md "wikilink")的[太平洋战争](../Page/太平洋战争.md "wikilink")中曾計劃進攻並侵佔[斐濟](../Page/斐濟.md "wikilink")、[萨摩亚](../Page/萨摩亚.md "wikilink")和[新喀里多尼亞](../Page/新喀里多尼亞.md "wikilink")的作戰的代號。該作戰原定於完成MO、RY及MI作戰（[中途岛海战](../Page/中途岛海战.md "wikilink")）後在1942年7-8月執行。
 
 FS作戰原訂為[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")與[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")共同執行的作戰，其主要目標為嘗試在MO、RY、MI作戰完成後，接着切斷連接澳洲和美國的[补给线及通訊](https://zh.wikipedia.org/wiki/补给线 "wikilink")，以便達成削弱或消除澳洲對日本南太平洋防衛圈的威脅此一目標。

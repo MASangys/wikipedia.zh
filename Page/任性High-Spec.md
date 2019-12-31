@@ -1,3 +1,6 @@
+> 本文内容由[任性High-Spec](https://zh.wikipedia.org/wiki/任性High-Spec)转换而来。
+
+
 是由MADOSOFT（，窗軟體 ）於2016年4月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。此作品為MADOSOFT的第3部作品，日文簡稱「」\[1\]。2017年8月25日發售續篇《任性High-Spec OC》（）\[2\]。
 
 ## 概要

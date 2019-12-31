@@ -1,3 +1,6 @@
+> 本文内容由[Claws Mail](https://zh.wikipedia.org/wiki/Claws Mail)转换而来。
+
+
 **Claws Mail** 是一款[免费](https://zh.wikipedia.org/wiki/免费软件 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，基于[GTK+语言编写的](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[电子邮件客户端和](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")[新闻聚合器](https://zh.wikipedia.org/wiki/新闻聚合器 "wikilink")。它提供了简单的配置和丰富的功能。它也可以通过插件支持及的邮件格式。 Claws Mail支持的系统包括[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")和[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 它包含[Windows的一款加密组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Gpg4win](../Page/Gpg4win.md "wikilink") 。\[1\]

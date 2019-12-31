@@ -1,3 +1,6 @@
+> 本文内容由[NBA總盖帽榜](https://zh.wikipedia.org/wiki/NBA總盖帽榜)转换而来。
+
+
 本列表统计的是**国家篮球协会（[NBA](../Page/NBA.md "wikilink")）球员个人职业生涯[常规赛盖帽总和](https://zh.wikipedia.org/wiki/NBA常规赛 "wikilink")**，NBA球员在其它联赛（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的数据并不包括在内。所有数据都是截至到2019年4月10日
 
 |    |              |

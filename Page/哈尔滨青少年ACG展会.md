@@ -1,3 +1,6 @@
+> 本文内容由[哈尔滨青少年ACG展会](https://zh.wikipedia.org/wiki/哈尔滨青少年ACG展会)转换而来。
+
+
 **哈尔滨青少年ACG展会**，全称**中国（哈尔滨）青少年动漫周**，是在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[黑龙江省](../Page/黑龙江省.md "wikilink")[哈尔滨市](../Page/哈尔滨市.md "wikilink")举办的[动漫展](https://zh.wikipedia.org/wiki/动漫展 "wikilink")，于2007年8月首次在[哈尔滨市](../Page/哈尔滨市.md "wikilink")举办。
 
 ## 活动概要

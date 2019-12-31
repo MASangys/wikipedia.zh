@@ -1,3 +1,6 @@
+> 本文内容由[Ring your bell](https://zh.wikipedia.org/wiki/Ring your bell)转换而来。
+
+
 《**ring your bell**》，為[Kalafina](../Page/Kalafina.md "wikilink")的第十七張單曲。由[梶浦由記](../Page/梶浦由記.md "wikilink")作詞・作曲。距離上一張單曲「[believe](https://zh.wikipedia.org/wiki/believe_\(Kalafina單曲\) "wikilink")」發售約半年，於2015年5月13日發行.
 
 ## 概要

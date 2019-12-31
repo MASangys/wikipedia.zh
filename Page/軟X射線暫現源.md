@@ -1,3 +1,6 @@
+> 本文内容由[軟X射線暫現源](https://zh.wikipedia.org/wiki/軟X射線暫現源)转换而来。
+
+
 **軟X射線暫現源**（，縮寫：SXT）是某種類型的緻密天體和某種類型的正常低質量天體（即質量僅為太陽質量分數的天體）。這些天體顯示出低能量級別，或軟X射線輻射，但有時會經由正常恆星向緻密的伴星輸出質量而改變。實際上，緻密天體"吞噬"正常恆星和輻射出X射線，是此一過程的最佳寫照\[1\]。
 
 軟X射線暫現源[半人馬座 X-4和](https://zh.wikipedia.org/wiki/半人馬座_X-4 "wikilink")[天鷹座 X-1是日本的](https://zh.wikipedia.org/wiki/天鷹座_X-1 "wikilink")[白鳥衛星最先發現的](https://zh.wikipedia.org/wiki/白鳥 "wikilink")\[2\]。

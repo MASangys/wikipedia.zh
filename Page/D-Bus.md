@@ -1,3 +1,6 @@
+> 本文内容由[D-Bus](https://zh.wikipedia.org/wiki/D-Bus)转换而来。
+
+
 **D-Bus**是一個[行程間通訊](../Page/行程間通訊.md "wikilink")及[远程过程调用機制](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")，可以讓多個不同的[计算机程序](../Page/计算机程序.md "wikilink")（即[行程](../Page/行程.md "wikilink")）在同一臺電腦上同時進行通訊\[1\]。D-Bus作為[freedesktop.org專案的一部份](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")，其設計目的是使[Linux](../Page/Linux.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")（如[GNOME](../Page/GNOME.md "wikilink")與[KDE](../Page/KDE.md "wikilink")等）提供的服務標準化。
 
 freedesktop.org專案同時也開發了一個稱為libdbus的[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，作為規範的參考實作。這個函式庫常與D-Bus本身混淆。也存在著其他的D-Bus實作，像是GDBus (GNOME)\[2\]，QtDBus ([Qt](../Page/Qt.md "wikilink")/KDE)\[3\]，dbus-java\[4\]以及sd-bus（[systemd的一部份](https://zh.wikipedia.org/wiki/systemd "wikilink")）\[5\]。

@@ -1,3 +1,6 @@
+> 本文内容由[P-MODEL](https://zh.wikipedia.org/wiki/P-MODEL)转换而来。
+
+
 **P-MODEL**是一个日本的乐队。它组建于1979年，前身是[前卫摇滚乐队](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")（），在同年以单曲《》和专辑《IN A MODEL ROOM》出道。P-MODEL经历过三次活动休止（分别称为“冻结”“待机”和“培养”），从2000年12月20日起至今仍处于“培养”状态中。尽管共有16位成员参加过P-MODEL（包括只以CG形式出场的虚拟角色TAINACO），只有团队核心[平泽进一直贯穿始终](https://zh.wikipedia.org/wiki/平泽进 "wikilink")。在这20余年间，P-MODEL发布了12张专辑以及大量其他形式的作品。\[1\]\[2\]
 
 本条目中也一并介绍从2004年起开始活动的**核P-MODEL**。

@@ -1,3 +1,6 @@
+> 本文内容由[Naeleck](https://zh.wikipedia.org/wiki/Naeleck)转换而来。
+
+
 **Naeleck**為來自[法國並定居於](https://zh.wikipedia.org/wiki/法國 "wikilink")[日本](../Page/日本.md "wikilink")[東京的法國](https://zh.wikipedia.org/wiki/東京 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")家，音樂風格結合[電子音樂](../Page/電子音樂.md "wikilink")與舞曲。
 
 在他表演的時候，他戴了帶有兩顆大眼以及微笑尖齒的黑帽。\[1\]

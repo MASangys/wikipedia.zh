@@ -1,3 +1,6 @@
+> 本文内容由[C-Block](https://zh.wikipedia.org/wiki/C-Block)转换而来。
+
+
 **C-Block**是[长沙市的一个音乐团体](https://zh.wikipedia.org/wiki/长沙市 "wikilink")\[1\]，在2007年组成，擅长[说唱](https://zh.wikipedia.org/wiki/说唱 "wikilink")\[2\]，主要创建[长沙话](../Page/长沙话.md "wikilink")的比较风趣、幽默而且反映人们生活的歌曲\[3\]，富含长沙的文化\[4\]，和长沙人民的生活比较贴近，经常唱出长沙人民的心声\[5\]，比如[堵沉](../Page/堵沉.md "wikilink")就是发出了长沙路况太堵的感叹\[6\]，又如[就是咯里](https://zh.wikipedia.org/wiki/就是咯里 "wikilink")（意为就是这里）唱出来长沙人民对长沙的爱与恨\[7\]\[8\]。C-Block拥有数万人的歌迷，担任[越策越开心](../Page/越策越开心.md "wikilink")等综艺节目\[9\]，湖南以外的地方也有C-Block的歌迷\[10\]，许多粉丝为C-Block创建了官方网站\[11\]。《[长沙策长沙](https://zh.wikipedia.org/wiki/长沙策长沙 "wikilink")》是其中最出名的歌曲\[12\]。
 
 2019年，參加《[中國新說唱](https://zh.wikipedia.org/wiki/中國新說唱 "wikilink")》第二季。

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Landy](https://zh.wikipedia.org/wiki/鈴木Landy)转换而来。
+
+
 **鈴木Landy**（）乃是2007年至2016年間由[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")OEM代工、[鈴木公司銷售的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[多功能休旅車](../Page/多功能休旅車.md "wikilink")，僅限日本當地發售的此車款乃[鈴木Every Landy之後繼車](../Page/鈴木Every_Landy.md "wikilink")。這款車以為基礎而發展，是鈴木在日本市場僅次於[鈴木Kizashi](../Page/鈴木Kizashi.md "wikilink")（2013年宣佈停產）的高價車系。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[KBO聯賽](https://zh.wikipedia.org/wiki/KBO聯賽)转换而来。
+
+
 **KBO聯賽**（、），是韓國最高層級的[職業棒球賽事](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")，成立於1982年，目前共有10支球隊。
 
 ## 歷史

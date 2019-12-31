@@ -1,3 +1,6 @@
+> 本文内容由[和谐号CJ1型电力动车组](https://zh.wikipedia.org/wiki/和谐号CJ1型电力动车组)转换而来。
+
+
 **CJ1型电力动车组**，是[中華人民共和國鐵道部为營運新建的](../Page/中华人民共和国铁道部.md "wikilink")[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")，而向[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[长春轨道客车股份有限公司及](https://zh.wikipedia.org/wiki/长春轨道客车股份有限公司 "wikilink")[唐山轨道客车有限責任公司订购的](https://zh.wikipedia.org/wiki/唐山軌道客車 "wikilink")[CRH系列高速](https://zh.wikipedia.org/wiki/CRH "wikilink")[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")。中国鐵道部将所有引进国外技术、联合设计生产的[中国铁路高速](https://zh.wikipedia.org/wiki/中国铁路高速 "wikilink")（CRH）車輛均命名為「**[和谐号](https://zh.wikipedia.org/wiki/和谐号 "wikilink")**」。
 
 ## 概要

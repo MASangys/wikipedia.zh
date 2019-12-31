@@ -1,3 +1,6 @@
+> 本文内容由[JSR股份公司](https://zh.wikipedia.org/wiki/JSR股份公司)转换而来。
+
+
 **JSR股份公司**（）是[日本](../Page/日本.md "wikilink")一家以[高分子化學為基礎的公司](https://zh.wikipedia.org/wiki/高分子化學 "wikilink")，並生產與銷售[液晶](../Page/液晶.md "wikilink")材料的相關產品。
 
 ## 簡介

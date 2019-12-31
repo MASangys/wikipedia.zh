@@ -1,3 +1,6 @@
+> 本文内容由[Break鍵](https://zh.wikipedia.org/wiki/Break鍵)转换而来。
+
+
 [Key_break.jpg](https://zh.wikipedia.org/wiki/File:Key_break.jpg "fig:Key_break.jpg") **Break鍵**是[電腦鍵盤上的一個鍵](https://zh.wikipedia.org/wiki/電腦鍵盤 "wikilink")。Break鍵起源於19世紀的[電報](https://zh.wikipedia.org/wiki/電報 "wikilink")。在[DOS](../Page/DOS.md "wikilink")時代，是常用鍵之一，但是近年來該鍵的使用頻率逐年減少\[1\]。在某些較舊的程式中，按這個鍵會使程式暫停，若同時按，會使程式停止而無法執行\[2\]\[3\]\[4\]\[5\]\[6\]。
 
 因為可以[中斷](../Page/中斷.md "wikilink")[程式](https://zh.wikipedia.org/wiki/Software "wikilink")，所以Break鍵也被稱為Pause鍵。\[7\]

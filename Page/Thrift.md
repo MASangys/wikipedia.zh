@@ -1,3 +1,6 @@
+> 本文内容由[Thrift](https://zh.wikipedia.org/wiki/Thrift)转换而来。
+
+
 **Thrift**是一种[接口描述语言](../Page/接口描述语言.md "wikilink")和二进制通讯协议，\[1\]它被用来定义和创建跨语言的服务。\[2\]它被当作一个[远程过程调用](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")（RPC）框架来使用，是由[Facebook](../Page/Facebook.md "wikilink")为“大规模跨语言服务开发”而开发的。它通过一个代码生成引擎联合了一个软件栈，来创建不同程度的、无缝的[跨平台高效服务](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，可以使用[C\#](../Page/C♯.md "wikilink")、[C++](../Page/C++.md "wikilink")（基于[POSIX兼容系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")\[3\]）、Cappuccino、\[4\][Cocoa](../Page/Cocoa.md "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")、[Go](../Page/Go.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")、[OCaml](../Page/OCaml.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")和[Smalltalk](../Page/Smalltalk.md "wikilink")。\[5\]虽然它以前是由Facebook开发的，但它现在是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的[开源项目了](https://zh.wikipedia.org/wiki/开源 "wikilink")。该实现被描述在2007年4月的一篇由Facebook发表的技术论文中，该论文现由Apache掌管。\[6\]
 
 ## 架构

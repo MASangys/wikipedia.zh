@@ -1,3 +1,6 @@
+> 本文内容由[珠海WTA超级精英赛](https://zh.wikipedia.org/wiki/珠海WTA超级精英赛)转换而来。
+
+
 **珠海WTA超级精英赛**（WTA Elite Trophy Zhuhai）是[女子网球联合会于](https://zh.wikipedia.org/wiki/女子网球联合会 "wikilink")2014年底设立的一项赛事，与[中国网球公开赛和](https://zh.wikipedia.org/wiki/中国网球公开赛 "wikilink")[武汉网球公开赛并称为中国三大女子网球赛事之一](https://zh.wikipedia.org/wiki/武汉网球公开赛 "wikilink")。第一届比赛于2015年11月举行，赛事由[中国网球协会及](https://zh.wikipedia.org/wiki/中国网球协会 "wikilink")[珠海市人民政府](../Page/珠海市人民政府.md "wikilink")联合主办，并由[珠海国有企业](https://zh.wikipedia.org/wiki/珠海 "wikilink")[华发集团承办并具体执行运营](https://zh.wikipedia.org/wiki/华发集团 "wikilink") 。赛事的运营期限为期5年，将一直持续至2019年为止。
 
 珠海WTA超级精英赛的冠军积分为700分，2017年总奖金为228万美元。自2015年至2019年，每年的11月在珠海市[横琴新区的](https://zh.wikipedia.org/wiki/横琴新区 "wikilink")[横琴国际网球中心举办](https://zh.wikipedia.org/wiki/横琴国际网球中心 "wikilink")。\[1\]\[2\]。

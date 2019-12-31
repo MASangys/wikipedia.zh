@@ -1,3 +1,6 @@
+> 本文内容由[Tsunako](https://zh.wikipedia.org/wiki/Tsunako)转换而来。
+
+
 **Tsunako**（**つなこ**，），[日本](../Page/日本.md "wikilink")[岡山縣](../Page/岡山縣.md "wikilink")出生，[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")，[Idea Factory所屬](../Page/Idea_Factory.md "wikilink")[遊戲開發者兼](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")[原畫家](https://zh.wikipedia.org/wiki/原畫家 "wikilink")。
 
 ## 主要作品

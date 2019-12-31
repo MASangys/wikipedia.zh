@@ -1,3 +1,6 @@
+> 本文内容由[JJCC](https://zh.wikipedia.org/wiki/JJCC)转换而来。
+
+
 **JJCC**（）為武打影星[成龍](../Page/成龍.md "wikilink")所打造的K-POP男子組合，最初由韓國籍的Eddy、E.co、Simba、SanCheong和澳大利亞華人Prince Mak五名成員組成，現由E.co、Prince Mak、Eddy、Yul、Zica、Simba和SanCheong組成。
 
 ## 簡介

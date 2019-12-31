@@ -1,3 +1,6 @@
+> 本文内容由[卡西歐 fx-991MS](https://zh.wikipedia.org/wiki/卡西歐 fx-991MS)转换而来。
+
+
 **卡西欧 fx-991MS**是[卡西欧公司发布的](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")[科学函数计算器](https://zh.wikipedia.org/wiki/科学计算器 "wikilink")。这个型号的计算器用于取代原先的型号[卡西欧 fx-991](https://zh.wikipedia.org/wiki/卡西欧_fx-991 "wikilink")，并在原型号上进行改进，增加了功能。本计算器分为两个版本，销售时间有所不同，功能上也有不同。
 
 ## 较早销售的版本

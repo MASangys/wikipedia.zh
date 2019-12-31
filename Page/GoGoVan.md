@@ -1,3 +1,6 @@
+> 本文内容由[GoGoVan](https://zh.wikipedia.org/wiki/GoGoVan)转换而来。
+
+
 **GoGoVan**是一家以[手機應用程式提供](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")[貨運服務的公司](https://zh.wikipedia.org/wiki/貨運 "wikilink")，為客戶提供貨運解決方案，總部位於[香港](../Page/香港.md "wikilink")。2013年7月，由5位創始人成立，是[亞洲首個運用手機應用程式連接用戶和貨車](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[司機的貨運](https://zh.wikipedia.org/wiki/司機 "wikilink")[物流](../Page/物流.md "wikilink")平台。\[1\]\[2\]用戶可以通過手機應用程式，並即時配對合適的司機進行即時送貨服務。\[3\]目前全球據點包括[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中國大陆](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[印度](../Page/印度.md "wikilink")。\[4\]\[5\]2017年8月，GoGoVan與58速運合併，業務覆蓋超過300個城市，司機網絡超過120萬人，全球員工由300人增至1,000名，成為香港[初創企業獨角獸](https://zh.wikipedia.org/wiki/初創企業 "wikilink")。此外，在香港曾經使用GoGoVan服務的人數已超過100萬。\[6\]\[7\]该公司未來將計劃進軍全球市場。
 
 ## 歷史

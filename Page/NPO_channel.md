@@ -1,3 +1,6 @@
+> 本文内容由[NPO channel](https://zh.wikipedia.org/wiki/NPO channel)转换而来。
+
+
 NPO channel是一個台灣的公益議題募款平台，創立於2012年6月，是提供台灣非營利機構、企業、以及消費者可以互相支持的平台。發起人[張幼霖](https://zh.wikipedia.org/wiki/張幼霖 "wikilink")，2015年以「社會平台」得到日本Good design award獎項\[1\]。
 
 ## 成立背景

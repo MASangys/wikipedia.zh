@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy A5](https://zh.wikipedia.org/wiki/三星Galaxy A5)转换而来。
+
+
 **Samsung Galaxy A5**是由[三星電子](../Page/三星電子.md "wikilink")製造的一款Android智能手機，在2014年10月連同[Galaxy A3發佈](https://zh.wikipedia.org/wiki/Samsung_Galaxy_A3 "wikilink")。
 
 ## 技術規格

@@ -1,3 +1,6 @@
+> 本文内容由[IU获奖与提名列表](https://zh.wikipedia.org/wiki/IU获奖与提名列表)转换而来。
+
+
 本列表列出韩国[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")、[演员及电视节目主持人](https://zh.wikipedia.org/wiki/演员 "wikilink")[IU所获的奖项与提名](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。
 
 ## 奖项与提名

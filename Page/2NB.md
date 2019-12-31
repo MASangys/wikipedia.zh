@@ -1,3 +1,6 @@
+> 本文内容由[2NB](https://zh.wikipedia.org/wiki/2NB)转换而来。
+
+
 **2NB** （）是[韓國Friday娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2006年3月成立的女子二人重唱團體。2NB的意思為「兩色的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")」，號稱是女子版的「[Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")」\[1\]。原始成員為金嘉熙與[許率智](https://zh.wikipedia.org/wiki/許率智 "wikilink")。2007年金嘉熙退出。2008年新成員[金頌怡加入](../Page/加頻.md "wikilink")\[2\]。2011年許率智退出。2012年金頌怡退出，組合解散。2016年8月31日甜甜圈文化的社長宣佈解散五年的2NB將以2期回歸，新的團員為金孝珍、孫酉奈\[3\]。
 
 ## 經歷

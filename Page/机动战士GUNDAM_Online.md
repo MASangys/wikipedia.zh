@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM Online](https://zh.wikipedia.org/wiki/机动战士GUNDAM Online)转换而来。
+
+
 是[BANDAI NAMCO Online开发的一款](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Online "wikilink")[大型多人在线第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏#大型多人在线第三人称射击游戏 "wikilink")。
 
 在日本由[万代南梦宫娱乐](../Page/万代南梦宫娱乐.md "wikilink")运营。在中国由[久游网](../Page/久游网.md "wikilink")代理运营。台港澳已經在2019年2月4日結束營運。

@@ -1,3 +1,6 @@
+> 本文内容由[2015年Hydis抗爭事件](https://zh.wikipedia.org/wiki/2015年Hydis抗爭事件)转换而来。
+
+
 **Hydis抗爭事件**是2015年，是[韓國Hydis公司員工到](https://zh.wikipedia.org/wiki/韓國 "wikilink")[台灣抗議的關廠抗爭事件](https://zh.wikipedia.org/wiki/台灣 "wikilink")。 Hydis抗爭事件於2018年2月13日，經由首爾高等法院的調解，Hydis公司與Hydis工會均已同意接受法院建議，結束公司與被解僱勞工之間的相關爭議。
 
 ## 事件背景

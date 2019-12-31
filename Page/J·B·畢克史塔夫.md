@@ -1,3 +1,6 @@
+> 本文内容由[J·B·畢克史塔夫](https://zh.wikipedia.org/wiki/J·B·畢克史塔夫)转换而来。
+
+
 **約翰·布萊爾·畢克史塔夫**（[英语](../Page/英语.md "wikilink"): John-Blair "J. B." Bickerstaff，）为[NBA](../Page/NBA.md "wikilink")职业[篮球](../Page/篮球.md "wikilink")教练，曾擔任[休斯敦火箭队](https://zh.wikipedia.org/wiki/休斯敦火箭队 "wikilink")、[曼斐斯灰熊主教練](https://zh.wikipedia.org/wiki/曼斐斯灰熊 "wikilink")，目前[克里夫蘭騎士副總教練](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink")。
 
 ## 篮球生涯

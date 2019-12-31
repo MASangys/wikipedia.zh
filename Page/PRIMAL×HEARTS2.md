@@ -1,3 +1,6 @@
+> 本文内容由[PRIMAL×HEARTS2](https://zh.wikipedia.org/wiki/PRIMAL×HEARTS2)转换而来。
+
+
 《**PRIMAL×HEARTS2**》是日本[MARMALADE](../Page/MARMALADE.md "wikilink")（ま～まれぇど）在2015年10月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，[PRIMAL×HEARTS](../Page/PRIMAL×HEARTS.md "wikilink")的續作。故事的時間點是在前作的6年之後，主要的場景也還是間之島學園。
 
 ## 故事

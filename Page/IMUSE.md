@@ -1,3 +1,6 @@
+> 本文内容由[IMUSE](https://zh.wikipedia.org/wiki/IMUSE)转换而来。
+
+
 **iMUSE**是由電子遊戲作曲家[麥可·蘭德](../Page/麥可·蘭德.md "wikilink")、[彼得·麥康奈爾](../Page/彼得·麥康奈爾.md "wikilink")所開發，為一種能讓[電子遊戲的背景音樂依照遊戲角色於場景裡的動作內容](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")；產生曲風上變化之擁有互動效果的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")。此應用於由美國遊戲公司[LucasArts](../Page/LucasArts.md "wikilink")所推出的作品為主，其名稱則是「Interactive Music Streaming Engine」（互動式音樂串流引擎）所簡寫組成的頭字語。
 
 ## 起源

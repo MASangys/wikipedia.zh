@@ -1,3 +1,6 @@
+> 本文内容由[Mi是μ\'sic的mi](https://zh.wikipedia.org/wiki/Mi是μ\'sic的mi)转换而来。
+
+
 《**Mi是μ'sic的mi**》（）是讀者參與企劃「LoveLive\! 大家創作的μ's的歌」（）的合作單曲。作為μ's的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")於2015年4月22日由[Lantis](../Page/Lantis.md "wikilink")發售\[1\]。
 
 ## 概要

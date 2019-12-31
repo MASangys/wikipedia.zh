@@ -1,3 +1,6 @@
+> 本文内容由[F\(x\) the 1st concert DIMENSION 4–Docking Station](https://zh.wikipedia.org/wiki/F\(x\) the 1st concert DIMENSION 4–Docking Station)转换而来。
+
+
 **f(x) the 1st concert DIMENSION 4–Docking Station**是韓國女子組合[f(x)第一次单独巡迴演唱會](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")。
 
 ## 概述

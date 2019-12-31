@@ -1,3 +1,6 @@
+> 本文内容由[Hush!](https://zh.wikipedia.org/wiki/Hush!)转换而来。
+
+
 **hush！**，[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，成員共有三人，由主唱[HUSH](https://zh.wikipedia.org/wiki/HUSH_\(台灣男歌手\) "wikilink")、貝斯手卡貝和鼓手熊爸組成。
 
 ## 成員

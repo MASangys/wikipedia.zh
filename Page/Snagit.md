@@ -1,3 +1,6 @@
+> 本文内容由[Snagit](https://zh.wikipedia.org/wiki/Snagit)转换而来。
+
+
 **SnagIt**是一款商业[截图软件](https://zh.wikipedia.org/wiki/截图 "wikilink")，可以截取桌面，活跃程序，也可以截取视频、音频。最初支持[Microsoft Windows系统](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，现在也支持[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，但功能较少。于1990年[TechSmith首次推出](https://zh.wikipedia.org/wiki/TechSmith "wikilink")。\[1\] 现在支持的语言有[英语](../Page/英语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[韩语和](https://zh.wikipedia.org/wiki/韩语 "wikilink")[日语](../Page/日语.md "wikilink")。
 
 *SnagIt* 取代了原生的[列印螢幕功能及其附加功能](https://zh.wikipedia.org/wiki/列印螢幕 "wikilink")。新版本允许嵌入式项目，如链接，图片和多媒体的批采集。用户可设置参数和键盘快捷键来捕获特定类型的数据，其存储在"Catalog" 文件夹中。

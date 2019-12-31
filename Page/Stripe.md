@@ -1,3 +1,6 @@
+> 本文内容由[Stripe](https://zh.wikipedia.org/wiki/Stripe)转换而来。
+
+
 **Stripe**是一家提供讓個人或公司在[互聯網上接受付款服務的科技公司](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。Stripe提供在網上接受付款所需的技術、避免技術及銀行基礎設施\[1\]。
 
 ## 付款後勤

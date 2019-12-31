@@ -1,3 +1,6 @@
+> 本文内容由[Party](https://zh.wikipedia.org/wiki/Party)转换而来。
+
+
 《**PARTY**》（；）是韓國女子組合[少女時代在](https://zh.wikipedia.org/wiki/少女時代 "wikilink")7月7日發行的單曲。
 
 ## 活動詳情

@@ -1,3 +1,6 @@
+> 本文内容由[Bambini Republic](https://zh.wikipedia.org/wiki/Bambini Republic)转换而来。
+
+
 **Bambini Republic Limited**，簡稱**Bambini Republic**，在2012年，由多名投資者於[香港](../Page/香港.md "wikilink")（當時總部）成立。\[1\]
 
 當時業務主要經營由外籍老師提供小班教導嬰幼兒的，連鎖式學前教育中心，當時分店為觀塘、天后、荃灣和沙田單位工商廈單位設店開班。

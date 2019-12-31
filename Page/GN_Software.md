@@ -1,3 +1,6 @@
+> 本文内容由[GN Software](https://zh.wikipedia.org/wiki/GN Software)转换而来。
+
+
 **GN Software**（GNソフトウェア）是[日本](../Page/日本.md "wikilink")GoodNavigate（グッドナビゲイト）公司和PIACCI公司的遊戲品牌。\[1\]主要製作發售從PC[成人遊戲移植到](../Page/日本成人遊戲.md "wikilink")[家用遊戲機和](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[掌上遊戲機的](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[2\]
 
 ## 作品列表

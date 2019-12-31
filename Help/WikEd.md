@@ -1,3 +1,6 @@
+> 本文内容由[Help:WikEd](https://zh.wikipedia.org/wiki/Help:WikEd)转换而来。
+
+
 [WikEd_screenshot.png](https://zh.wikipedia.org/wiki/File:WikEd_screenshot.png "fig:WikEd_screenshot.png")
 
 这是**[wikEd](https://zh.wikipedia.org/wiki/:en:User:Cacycle/wikEd "wikilink")**的使用說明页面。wikEd是运行于浏览器內的全功能文本编辑器，可强化维基百科和其他MediaWiki编辑页面的文字处理功能。

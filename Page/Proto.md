@@ -1,3 +1,6 @@
+> 本文内容由[Proto](https://zh.wikipedia.org/wiki/Proto)转换而来。
+
+
 《**Proto**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[麥浚龍](../Page/麥浚龍.md "wikilink")的第三張音樂專輯，於2004年4月27日推出。
 
 ## 曲目

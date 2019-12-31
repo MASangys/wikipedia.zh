@@ -1,3 +1,6 @@
+> 本文内容由[福克E單翼戰鬥機](https://zh.wikipedia.org/wiki/福克E單翼戰鬥機)转换而来。
+
+
 福克E單翼戰鬥機(德文:Fokker Eindecker)是由在[第一次世界大戰時為](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[德意志帝國](../Page/德意志帝國.md "wikilink")服務的荷蘭[福克公司](../Page/福克公司.md "wikilink")研發，其中Eindecker是指單翼機的意思。
 
 ## 基本資料(福克E-III戰鬥機)

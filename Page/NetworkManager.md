@@ -1,3 +1,6 @@
+> 本文内容由[NetworkManager](https://zh.wikipedia.org/wiki/NetworkManager)转换而来。
+
+
 在[電腦運算中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，**NetworkManager**軟體工具的目標是降低在[Linux](../Page/Linux.md "wikilink")與其他[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[计算机网络](../Page/计算机网络.md "wikilink")使用難度。它可以協助使用者在無線網路間漫遊時管理要使用的網路。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[「迴旋鏢」-BM遙控炮塔](https://zh.wikipedia.org/wiki/「迴旋鏢」-BM遙控炮塔)转换而来。
+
+
 [4mayrehearsal_20.jpg](https://zh.wikipedia.org/wiki/File:4mayrehearsal_20.jpg "fig:4mayrehearsal_20.jpg")上的「迴旋鏢」-BM遙控炮塔。\]\] **「迴旋鏢」-BM遙控炮塔**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**Бумеранг-БМ**；[俄語羅馬化](../Page/俄语罗马化.md "wikilink")：**Bumerang-BM**）\[1\]，或稱為「**時代**」（**Epoch**）遙控炮塔\[2\]，是一款專為[T-15阿瑪塔步兵戰車](../Page/T-15步兵戰車.md "wikilink")、[庫爾干人-25步兵戰車以及](../Page/庫爾干人-25裝甲車.md "wikilink")[迴旋鏢裝甲運兵車](../Page/迴旋鏢裝甲運兵車.md "wikilink")等武器平台研發的遠端操控武裝炮塔。\[3\]首次公開亮相於[2015年莫斯科勝利日閱兵的預演中](../Page/2015年红场阅兵.md "wikilink")，當時這款炮塔被安裝於上述各款武器平台上。
 
 ## 設計

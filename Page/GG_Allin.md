@@ -1,3 +1,6 @@
+> 本文内容由[GG Allin](https://zh.wikipedia.org/wiki/GG Allin)转换而来。
+
+
 Kevin Michael "GG" Allin（原名: Jesus Christ Allin，），是一位美國龐克搖滾歌手/創作者，其生涯與數個團體合作表演、錄音。GG Allin以其惡名昭彰的反社會演出行徑著稱，諸如: 食糞、自殘、攻擊聽眾等，也因此多次讓他被捕入獄。[AllMusic](https://zh.wikipedia.org/wiki/AllMusic "wikilink") 和 G4TV的節目 That’s Tough 分別稱他為「駭人的搖滾墮落史」和「世上最硬派的搖滾巨星」。
 
 除了舞台演出的聲名狼藉，作品上他也相當多產。除了龐克搖滾以外，也涉足口白朗誦、鄉村以及較為老派的搖滾風格。他充滿仇女、戀童、瀆神以及種族主義的歌詞，在高度關注政治的龐克社群裡反應兩極。當被質問到關於他的音樂和演出時，Allin通常都回答他只是想試著讓搖滾樂再次「充滿危險」。

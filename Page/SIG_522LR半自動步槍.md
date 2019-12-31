@@ -1,3 +1,6 @@
+> 本文内容由[SIG 522LR半自動步槍](https://zh.wikipedia.org/wiki/SIG 522LR半自動步槍)转换而来。
+
+
 **SIG 522LR**（）是一把由[德国](../Page/德国.md "wikilink")槍械公司[西格&紹爾](../Page/西格&紹爾.md "wikilink")研製及生產的[反沖作用式](../Page/反沖作用_\(槍械\).md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，外觀與[SIG SG 55X](../Page/SIG_SG_550突擊步槍.md "wikilink") [5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑系列](https://zh.wikipedia.org/wiki/口徑 "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")相似，發射[.22 LR](../Page/.22_LR.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 設計細節

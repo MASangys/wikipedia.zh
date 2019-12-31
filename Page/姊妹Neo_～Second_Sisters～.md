@@ -1,3 +1,6 @@
+> 本文内容由[姊妹Neo ～Second Sisters～](https://zh.wikipedia.org/wiki/姊妹Neo ～Second Sisters～)转换而来。
+
+
 是日本bootUP\!在2012年11月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]\[2\]，姊妹（あねいも）系列的第3部作品。2013年5月16日由N43 Project發售[DVDPG版](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]2013年11月29日發售《**姊妹Neo＋ ～Second Sisters～**》（あねいも Neo＋ ～Second Sisters～）\[4\]，2014年6月26日同樣由N43 Project發售DVDPG版。\[5\]2015年4月24日分別發售日向家母姊妹的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")，共有3作和合集《**もっともっと、日向家セット**》。\[6\]
 
 ## 故事

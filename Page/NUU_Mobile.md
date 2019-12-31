@@ -1,3 +1,6 @@
+> 本文内容由[NUU Mobile](https://zh.wikipedia.org/wiki/NUU Mobile)转换而来。
+
+
 **NUU Mobile** 是一個[智能手機品牌](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，由新基德科技（香港）有限公司製造。
 
 ## 歷史

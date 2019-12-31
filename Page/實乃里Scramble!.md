@@ -1,3 +1,6 @@
+> 本文内容由[實乃里Scramble!](https://zh.wikipedia.org/wiki/實乃里Scramble!)转换而来。
+
+
 《實乃里Scramble\!》（）是由所做的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2007年至2008年發表於[芳文社](../Page/芳文社.md "wikilink")雜誌《[Manga Time Kirara Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》，1本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2008年2月發售\[1\]。[動畫由](https://zh.wikipedia.org/wiki/動畫 "wikilink")[ufotable製作](https://zh.wikipedia.org/wiki/ufotable "wikilink")，並於2010年10月9日在德島縣舉行的「眉山山頂秋Festa X Machi Asobi Vol.4」中募集配音員\[2\]。
 
 ## 故事

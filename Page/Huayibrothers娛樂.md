@@ -1,3 +1,6 @@
+> 本文内容由[Huayibrothers娛樂](https://zh.wikipedia.org/wiki/Huayibrothers娛樂)转换而来。
+
+
 **Huayi Brothers Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2004年12月30日。當前旗下藝人包括[金允錫](../Page/金允錫.md "wikilink")、[周元](../Page/周元_\(韓國\).md "wikilink")、[林智妍](../Page/林智妍.md "wikilink")、[姜星](../Page/姜星.md "wikilink")等多名演員，Sim娛樂於2016年初接受中國[華誼兄弟](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")200多億韓元的投資，5月份正式更名華誼兄弟娛樂。\[1\]
 
 ## 旗下藝人

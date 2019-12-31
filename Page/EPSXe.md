@@ -1,3 +1,6 @@
+> 本文内容由[EPSXe](https://zh.wikipedia.org/wiki/EPSXe)转换而来。
+
+
 **ePSXe**是一款為裝載了Microsoft Windows、Linux和macOS的基於 X86 架構 PC 硬件所設計的[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")[游戏机模拟器](../Page/游戏机模拟器.md "wikilink")，也支持運行Android操作系統的設備。ePSXe 是閉源的，但它提供的插件API接口是开源的。
 
 有半年時間，ePSXe 是在私密狀態下開發的；而當2000年10月14日公開發佈時，它憑藉相比同期其它[PlayStation](../Page/PlayStation.md "wikilink")模擬器更高的兼容性和性能，為[PSX](../Page/PSX.md "wikilink")模擬領域帶來了一場技术革命。

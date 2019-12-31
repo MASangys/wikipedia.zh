@@ -1,3 +1,6 @@
+> 本文内容由[Press Play](https://zh.wikipedia.org/wiki/Press Play)转换而来。
+
+
 **Press Play**，是一家总部位于[哥本哈根的游戏开发工作室](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")。自2006年以来，该工作室在多个平台制作20多款游戏\[1\]。2012年，该工作室被微软收购，成为Microsoft Studios的一部分；2016年3月，微软宣布关闭工作室。
 
 ## 旗下游戏

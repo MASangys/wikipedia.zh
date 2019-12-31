@@ -1,3 +1,6 @@
+> 本文内容由[FLARM防碰撞系统](https://zh.wikipedia.org/wiki/FLARM防碰撞系统)转换而来。
+
+
 [FLARM_logo.png](https://zh.wikipedia.org/wiki/File:FLARM_logo.png "fig:FLARM_logo.png") **FLARM** 是一种用于小型飞机上的防碰撞警告设备，这一最初被设计用于装备在[滑翔机上的设备诞生于](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，但很快就引起了全世界的关注，并很快被接受。该设备大小如香烟盒，只需要很少的电量就能驱动。主要包括两部分，一部分为[GPS接收器](../Page/全球定位系统.md "wikilink")；另一部分为一个[数字](https://zh.wikipedia.org/wiki/数字信号 "wikilink")[无线电模块](https://zh.wikipedia.org/wiki/无线电 "wikilink")。数字无线电模块中有一个发射器，用于将该设备的当前位置传递给附近（几公里范围内）的其他FLARM设备，数字无线电模块内另外还有一个相应的接收器。所发射的数据通过预先设定的[频率传输](https://zh.wikipedia.org/wiki/頻率 "wikilink")（在欧洲地区为868.2 MHz和868.4 MHz）。
 
 ## 历史

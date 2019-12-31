@@ -1,3 +1,6 @@
+> 本文内容由[WWVB](https://zh.wikipedia.org/wiki/WWVB)转换而来。
+
+
 **WWVB**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家標準技術研究所](../Page/國家標準技術研究所.md "wikilink")（）所擁有的時碼發播台，位於美國[科羅拉多州](../Page/科羅拉多州.md "wikilink")[科林斯堡](https://zh.wikipedia.org/wiki/科林斯堡 "wikilink")，其姊妹站是WWV。\[1\]在北美地區，當地大部分[電波時鐘都使用WWVB的時碼訊號](https://zh.wikipedia.org/wiki/無線電時鐘 "wikilink")，以設定正確的時間。WWVB 擁有一個 70[千瓦的有效輻射功率發射機並利用](https://zh.wikipedia.org/wiki/千瓦 "wikilink") 60 [千赫的頻率發射對時訊號](https://zh.wikipedia.org/wiki/千赫 "wikilink")。而WWVB的對時訊號是利用[原子鐘](../Page/原子鐘.md "wikilink")來作訊號來源，其不確定度為10。WWVB每一比特每秒時間代碼，這是基於的時間代碼格式，是由同一組的原子鐘產生，然後調製到使用載波[脈衝寬度調變](../Page/脈衝寬度調變.md "wikilink")及[幅移键控](https://zh.wikipedia.org/wiki/幅移键控 "wikilink")。而時間代碼的單一完整的[幀是開始於每](https://zh.wikipedia.org/wiki/幀 "wikilink")[分鐘的開始](https://zh.wikipedia.org/wiki/分鐘 "wikilink")，每一幀持續一分鐘，當中包含年份，小時，分鐘等信息。
 
 雖然大部分授時台都是廣播該國的當地時間，但是美國跨越多個[時區](https://zh.wikipedia.org/wiki/時區 "wikilink")，所以WWVB廣播的時間訊號是[協調世界時](https://zh.wikipedia.org/wiki/協調世界時 "wikilink")。而當地所售買的[電波時鐘都可以設定為美國的四個時區及](https://zh.wikipedia.org/wiki/無線電時鐘 "wikilink")[夏令時間而顯示出正確的本地時間](https://zh.wikipedia.org/wiki/夏令時間 "wikilink")。\[2\]

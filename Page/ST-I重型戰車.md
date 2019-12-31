@@ -1,3 +1,6 @@
+> 本文内容由[ST-I重型戰車](https://zh.wikipedia.org/wiki/ST-I重型戰車)转换而来。
+
+
 **ST-I重型戰車**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：**СТ-I**）是[蘇聯於](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰期間的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[重型戰車開發項目](https://zh.wikipedia.org/wiki/重型戰車 "wikilink")。
 
 ## 發展歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Real+](https://zh.wikipedia.org/wiki/Real+)转换而来。
+
+
 《**Real+**》是韩国创作歌手[IU的韓語單曲專輯](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，同時也為第三張迷你專輯《[Real](https://zh.wikipedia.org/wiki/Real_\(IU_EP\) "wikilink")》的後續專輯。
 
 ## 曲目

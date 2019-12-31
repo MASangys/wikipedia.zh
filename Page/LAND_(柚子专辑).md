@@ -1,3 +1,6 @@
+> 本文内容由[LAND \(柚子专辑\)](https://zh.wikipedia.org/wiki/LAND \(柚子专辑\))转换而来。
+
+
 [LAND_Yuzu.jpg](https://zh.wikipedia.org/wiki/File:LAND_Yuzu.jpg "fig:LAND_Yuzu.jpg") 《LAND》（ランド）是[日本](../Page/日本.md "wikilink")二人乐队[柚子](https://zh.wikipedia.org/wiki/ゆず "wikilink")（ゆず）的第11张原创专辑。2013年5月1日由其所属公司发售。\[1\]
 
 ## 概要

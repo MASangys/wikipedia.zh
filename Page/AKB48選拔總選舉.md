@@ -1,3 +1,6 @@
+> 本文内容由[AKB48選拔總選舉](https://zh.wikipedia.org/wiki/AKB48選拔總選舉)转换而来。
+
+
 **AKB48選拔總選舉**（\[1\]；英語譯名：）是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")所舉辦，以類似政治[選舉](../Page/選舉.md "wikilink")的方式，由[歌迷從團內成員中](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[投票](../Page/投票.md "wikilink")決定[單曲作品演唱者](../Page/AKB48歌曲列表.md "wikilink")（即「選拔成員」）的活動，起始於2009年，每年以一張單曲為對象舉行一次。各屆的正式名稱是「**AKB48第○○張單曲選拔總選舉**\[2\]」（通常會有副標題），通稱「**第○○屆AKB48選拔總選舉**」。
 
 AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團](../Page/AKB48集團.md "wikilink")日本國內旗下各團之所有成員，與「」這個名字相呼應。開辦初期為強制參選，之後導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」，讓成員們自由決定是否參選。由於活動規模日漸盛大，已成為AKB48最具代表性的活動之一\[3\]。

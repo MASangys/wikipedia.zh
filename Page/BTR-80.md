@@ -1,3 +1,6 @@
+> 本文内容由[BTR-80](https://zh.wikipedia.org/wiki/BTR-80)转换而来。
+
+
 **BTR-80是**[蘇聯設計的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[裝甲運兵車](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，在1980年初期，考量到[阿富汗作戰上的問題](https://zh.wikipedia.org/wiki/阿富汗战争_\(1979年\) "wikilink")，蘇聯開始進一步發展裝甲車，於1986年服役BTR-80開始取代、。
 
 ## 描述

@@ -1,3 +1,6 @@
+> 本文内容由[UP10TION](https://zh.wikipedia.org/wiki/UP10TION)转换而来。
+
+
 **UP10TION**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TOP Media](https://zh.wikipedia.org/wiki/TOP_Media "wikilink")2015年推出的十人男子團體。2015年7月25日，透過參加實境節目《蒙面新人王戰 UP10TION》，選出[UP10TION](../Page/UP10TION.md "wikilink")成員。2015年9月11日，透過首張迷你專輯《一級秘密》，以主打歌《So，Dangerous》正式出道。團體名字「UP10TION」意思為「Unbelievable perfect ten teenagers idol open now」（令人難以置信完美的十位青少年偶像現在開啟）。官方粉絲名稱為「**HONEY10**」。
 
 ## 簡介

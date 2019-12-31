@@ -1,3 +1,6 @@
+> 本文内容由[Netflix原創節目列表](https://zh.wikipedia.org/wiki/Netflix原創節目列表)转换而来。
+
+
 [Netflix](../Page/Netflix.md "wikilink")（網飛）是一間網路[串流媒體服務供應商](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")，並在其平台上推出多部獨家發行的節目，包括《[紙牌屋](https://zh.wikipedia.org/wiki/紙牌屋 "wikilink")》、《[勁爆女子監獄](../Page/勁爆女子監獄.md "wikilink")》等原創影集，以及特別節目、迷你影集和電影等。其中原創電影《[埃及廣場](https://zh.wikipedia.org/wiki/埃及廣場 "wikilink")》曾獲[奧斯卡金像獎提名](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")，是Netflix製作內容中首度獲得奧斯卡提名的作品。
 
 除了原創製作外，Netflix的獨家節目也包含來自其他頻道曾被取消的影集，包括《[發展受阻](https://zh.wikipedia.org/wiki/發展受阻 "wikilink")》、《》、《[星際大戰：複製人之戰](../Page/星際大戰：複製人之戰_\(2008年電視影集\).md "wikilink")》、《》和《[西鎮警魂](https://zh.wikipedia.org/wiki/西鎮警魂 "wikilink")》。Netflix之前是透過公司製作原創節目。

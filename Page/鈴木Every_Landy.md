@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Every Landy](https://zh.wikipedia.org/wiki/鈴木Every Landy)转换而来。
+
+
 **鈴木Every Landy**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1999年至2005年間開發製造的小型單廂7人座[廂型車](../Page/廂型車.md "wikilink")，初期名稱為**鈴木Every+**（），僅限日本當地發售；2001年小改款後，才陸續輸出至[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")等市場。臺灣[金鈴汽車](../Page/金鈴汽車.md "wikilink")引進後更名為**鈴木Landy**，[中國](../Page/中國.md "wikilink")[昌河鈴木公司所國產化的](../Page/昌河汽车.md "wikilink")**鈴木浪迪**，其引擎陸續改用1.4L直列四缸DOHC [K14B型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14B型 "wikilink")、1.2L直列四缸DOHC [K12B型等二種](https://zh.wikipedia.org/wiki/鈴木K族引擎#K12B型 "wikilink")，外觀造型也與日規版不盡相同。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Blockupy運動](https://zh.wikipedia.org/wiki/Blockupy運動)转换而来。
+
+
 `   `
 
 [Blockupy_2015_4.jpg](https://zh.wikipedia.org/wiki/File:Blockupy_2015_4.jpg "fig:Blockupy_2015_4.jpg")的遊行\]\]

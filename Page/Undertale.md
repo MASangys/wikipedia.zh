@@ -1,3 +1,6 @@
+> 本文内容由[Undertale](https://zh.wikipedia.org/wiki/Undertale)转换而来。
+
+
 是[Toby Fox](../Page/托比·福克斯.md "wikilink")（id為tobyfox）獨立开发、發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。在遊戲要控制一位掉入地底世界，被魔法屏障隔開的人類孩子。玩家的任務是要讓人類孩子回到地表。遊戲的特色在於特殊的戰鬥系統，玩家必須閃避對手的彈幕攻擊，可以選擇寬恕（mercy）或攻擊（fight）他們。這些選擇會影響遊戲後面的對話、人物、故事和結局。遊戲製作幾乎皆為Toby Fox，遊戲主要美術為Temmie Chang。遊戲靈感來自於[地球冒險系列](../Page/地球冒險系列.md "wikilink")和瑪利歐與路易吉RPG，幽默元素則來自於英國喜劇表演者[-{zh-cn:憨豆先生;zh-hant:豆豆先生;}-](https://zh.wikipedia.org/wiki/豆豆先生 "wikilink")。Undertale最初設想的遊玩時數為兩小時，並預定在2014年年中發布，但開發被推延了一年 。
 
 遊戲在2015年9月發布於[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")，2016年7月於[Linux](../Page/Linux.md "wikilink")上發行，2017年8月推出[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[PlayStation Vita版本](../Page/PlayStation_Vita.md "wikilink")，2018年9月推出[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本。該遊戲備受遊戲評論家的好評，稱讚遊戲中的幽默元素（像是嘲諷遊戲中的時間流動、大量的雙關笑話等等）、直觀的戰鬥系統、音樂獨創性以及劇情中與角色深刻的情感連結。遊戲銷售超過一百萬份，被提名多個榮譽獎項。

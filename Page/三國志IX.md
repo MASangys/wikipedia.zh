@@ -1,3 +1,6 @@
+> 本文内容由[三國志IX](https://zh.wikipedia.org/wiki/三國志IX)转换而来。
+
+
 是一款由[光荣公司制作的历史类游戏](https://zh.wikipedia.org/wiki/光榮公司 "wikilink")。本游戏为[三国志系列的第九代作品](https://zh.wikipedia.org/wiki/三国志系列 "wikilink")。本游戏于2003年12月20日在[PlayStation 2日本地区发行](../Page/PlayStation_2.md "wikilink")，于2004年2月24日在PlayStation 2北美地区发行。\[1\]栗山和樹編曲音樂。
 
 本游戏增加了战术试验模式、战士培训模式等，採用單一大地圖模式，最遠可攻打日本。

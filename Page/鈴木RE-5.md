@@ -1,3 +1,6 @@
+> 本文内容由[鈴木RE-5](https://zh.wikipedia.org/wiki/鈴木RE-5)转换而来。
+
+
 **鈴木RE-5**（）是[日本](../Page/日本.md "wikilink")鈴木汽車工業（[鈴木公司前身](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")）於1974年至1976年間開發製造的[摩托車](../Page/摩托車.md "wikilink")，也是日本機車車壇中唯一搭載[汪克爾引擎](../Page/汪克爾引擎.md "wikilink")的市售車款。
 
 ## 概要

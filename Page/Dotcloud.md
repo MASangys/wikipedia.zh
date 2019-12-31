@@ -1,3 +1,6 @@
+> 本文内容由[Dotcloud](https://zh.wikipedia.org/wiki/Dotcloud)转换而来。
+
+
 **Dotcloud**是一個免費提供用戶註冊並且綁定網域名之[雲端空間](https://zh.wikipedia.org/wiki/雲端 "wikilink")。母公司為cloudControl。原先為[Docker](../Page/Docker.md "wikilink")之實驗基礎。\[1\]\[2\]\[3\]官方支援的程式語言有[JAVA](https://zh.wikipedia.org/wiki/JAVA "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Php及](https://zh.wikipedia.org/wiki/Php "wikilink")[NodeJS](https://zh.wikipedia.org/wiki/NodeJS "wikilink")。
 
 ## 通知信

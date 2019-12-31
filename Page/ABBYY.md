@@ -1,3 +1,6 @@
+> 本文内容由[ABBYY](https://zh.wikipedia.org/wiki/ABBYY)转换而来。
+
+
 **ABBYY**（，中文名**泰比**）是一家提供PC和移动设备[光学字符识别](../Page/光学字符识别.md "wikilink")、和软件的国际软件公司。\[1\]ABBYY的大多数产品，如ABBYY FineReader，意在简化从纸质文档到数字数据的转换过程。\[2\]ABBYY也提供基于语言的软件产品和服务。\[3\]
 
 ## 历史

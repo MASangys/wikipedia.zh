@@ -1,3 +1,6 @@
+> 本文内容由[Aqours](https://zh.wikipedia.org/wiki/Aqours)转换而来。
+
+
 **Aqours**（）是[日本](../Page/日本.md "wikilink")《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》杂志、[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")與唱片公司[Lantis](../Page/Lantis.md "wikilink")共同推出的的用户互动型企划作品[LoveLive\! Sunshine\!\!中登场的女性校园偶像团体或](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")[声优组成的组合](https://zh.wikipedia.org/wiki/声优 "wikilink")。由于其名称源自拉丁语“Aqua”（水）与英语“Ours”（我们的），故也被華人圈称为“水团”\[1\]。
 
 ## 介紹

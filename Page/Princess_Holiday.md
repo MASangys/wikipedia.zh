@@ -1,3 +1,6 @@
+> 本文内容由[Princess Holiday](https://zh.wikipedia.org/wiki/Princess Holiday)转换而来。
+
+
 是由日本[AUGUST](../Page/AUGUST.md "wikilink")在2002年9月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2003年5月29日由[Alchemist](../Page/Alchemist.md "wikilink")代理發售[Dreamcast](../Page/Dreamcast.md "wikilink")版\[3\]和2004年5月27日發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")\[4\]。2004年8月27日由[AUGUST](../Page/AUGUST.md "wikilink")發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。\[5\]\[6\]\[7\]
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[兵蜂PARADISE](https://zh.wikipedia.org/wiki/兵蜂PARADISE)转换而来。
+
+
 **兵蜂PARADISE**（ツインビーPARADISE）是[KONAMI的知名](https://zh.wikipedia.org/wiki/KONAMI "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")**[兵蜂](../Page/兵蜂.md "wikilink")**的[廣播劇](../Page/廣播劇.md "wikilink")，由[文化放送播放的廣播节目](../Page/文化放送_\(日本\).md "wikilink")。本节目于1993年10月10日播放，共有三个系列，于1997年3月30日结束。1998年12月28日開始發售OVA。\[1\]\[2\]
 
 ## 兵蜂PARADISE

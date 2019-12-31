@@ -1,3 +1,6 @@
+> 本文内容由[模块:Protection banner](https://zh.wikipedia.org/wiki/模块:Protection banner)转换而来。
+
+
 \-- This module implements  and its daughter templates such as -- ,  and .
 
 \-- Initialise necessary modules. require('Module:No globals') local makeFileLink = require('Module:File link')._main local effectiveProtectionLevel = require('Module:Effective protection level')._main local effectiveProtectionExpiry = require('Module:Effective protection expiry')._main local yesno = require('Module:Yesno')

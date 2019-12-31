@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Decade角色列表](https://zh.wikipedia.org/wiki/假面騎士Decade角色列表)转换而来。
+
+
 **假面騎士Decade角色列表**展示於[朝日電視台](../Page/朝日電視台.md "wikilink")放映的特攝劇集《**[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")**》（原題：）各個角色。
 
 ## 主要人物

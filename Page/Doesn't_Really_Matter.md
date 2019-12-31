@@ -1,3 +1,6 @@
+> 本文内容由[Doesn\'t Really Matter](https://zh.wikipedia.org/wiki/Doesn\'t Really Matter)转换而来。
+
+
 〈**無關緊要**〉（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Doesn't Really Matter**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")2000年5月21日發行的單曲，它同時也是電影《隨身變2》的主題曲。〈無關緊要〉在告示牌單曲榜獲得三週冠軍，成為珍娜·傑克森第9首全美冠軍單曲，在英國單曲榜上獲得第5名\[1\]\[2\]。
 
 ## 歌曲資料

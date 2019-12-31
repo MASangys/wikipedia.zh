@@ -1,3 +1,6 @@
+> 本文内容由[Erima](https://zh.wikipedia.org/wiki/Erima)转换而来。
+
+
 ****是一家总部设于[普富林根](../Page/普富林根.md "wikilink")的[德国](../Page/德国.md "wikilink")体育用品供应商。其在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、[比利时](../Page/比利时.md "wikilink")及[荷兰](../Page/荷兰.md "wikilink")均设有[子公司](../Page/子公司.md "wikilink")。
 
 ## 历史

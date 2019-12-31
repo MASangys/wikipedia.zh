@@ -1,3 +1,6 @@
+> 本文内容由[HarfBuzz](https://zh.wikipedia.org/wiki/HarfBuzz)转换而来。
+
+
 **HarfBuzz**（[波斯语](../Page/波斯语.md "wikilink")的宽式[拉丁化转写](../Page/拉丁字母.md "wikilink")，“Opentype”的意思\[1\]\[2\]）是用于文字塑形的软件开发库，亦即用于转换[Unicode文本到](https://zh.wikipedia.org/wiki/Unicode "wikilink")[字形](../Page/字形.md "wikilink")指标及方位的过程。最近的HarfBuzz（New HarfBuzz）以处理多种字体技术为目标，而第一版（Old HarfBuzz）只处理[OpenType](../Page/OpenType.md "wikilink")字体。\[3\]\[4\] New HarfBuzz只提供文字塑形功能而不提供文字布局及渲染，后者需要其他-{zh-cn:库;zh-tw:函式庫;}-的支持，[Pango](../Page/Pango.md "wikilink")（含有HarfBuzz）可以用于高级的文本排布，[FreeType](../Page/FreeType.md "wikilink")或[Anti-Grain Geometry可以用于文本渲染](https://zh.wikipedia.org/wiki/Anti-Grain_Geometry "wikilink")。
 
 ## 历史

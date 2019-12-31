@@ -1,3 +1,6 @@
+> 本文内容由[模块:Sports table](https://zh.wikipedia.org/wiki/模块:Sports table)转换而来。
+
+
 \-- Module to build tables for standings in Sports -- See documentation for details
 
 require('Module:No globals')

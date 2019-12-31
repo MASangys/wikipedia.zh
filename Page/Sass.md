@@ -1,3 +1,6 @@
+> 本文内容由[Sass](https://zh.wikipedia.org/wiki/Sass)转换而来。
+
+
 **Sass**（英文全称：**S**yntactically **A**wesome **S**tyle**s**heets）是一个最初由[Hampton Catlin设计并由](https://zh.wikipedia.org/wiki/Hampton_Catlin "wikilink")[Natalie Weizenbaum开发的层叠样式表语言](https://zh.wikipedia.org/wiki/Natalie_Weizenbaum "wikilink")。\[1\]\[2\]在开发最初版本之后，Weizenbaum和[Chris Eppstein继续通过SassScript来继续扩充Sass的功能](https://zh.wikipedia.org/wiki/Chris_Eppstein "wikilink")。SassScript是一个在Sass文件中使用的小型脚本语言。
 
 Sass是一个将脚本解析成[CSS的](https://zh.wikipedia.org/wiki/CSS "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，即SassScript。Sass包括两套[语法](https://zh.wikipedia.org/wiki/语法#电脑语法 "wikilink")。最开始的语法叫做“缩进语法”，与[Haml类似](https://zh.wikipedia.org/wiki/Haml "wikilink")\[3\]，使用[缩进来区分代码块](https://zh.wikipedia.org/wiki/缩进 "wikilink")，并且用-{zh-cn:回车;zh-tw:換行;}-将不同规则分隔开。而较新的语法叫做“SCSS”，使用和CSS一样的块语法，即使用大括号将不同的规则分开，使用分号将具体的样式分开。通常情况下，这两套语法通过.sass和.scss两个[文件扩展名](../Page/文件扩展名.md "wikilink")区分开。

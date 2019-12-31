@@ -1,3 +1,6 @@
+> 本文内容由[Allbiz](https://zh.wikipedia.org/wiki/Allbiz)转换而来。
+
+
 **Allbiz** ([www.all.biz](http://www.all.biz)) 是—国际电子商务中心，有26中语言功能，合并90个国家的商品市场，收集了全球140万家企业2400万条商品及服务的信息。可支持在国际、国家和地区产品目录中寻找商品及服务。
 
 ## 公司历史

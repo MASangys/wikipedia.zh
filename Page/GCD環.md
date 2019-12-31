@@ -1,3 +1,6 @@
+> 本文内容由[GCD環](https://zh.wikipedia.org/wiki/GCD環)转换而来。
+
+
 **GCD環**是一種有特殊性質的[整环](../Page/整环.md "wikilink")*R*，滿足其中任二個非零的元素都有[最大公因數](../Page/最大公因數.md "wikilink")（GCD），或者等價的，都有[最小公倍數](../Page/最小公倍數.md "wikilink")（LCM）\[1\]。
 
 GCD環是將[唯一分解整環](../Page/唯一分解整環.md "wikilink")推廣到非[諾特環](../Page/諾特環.md "wikilink")的情況，事實上，一個整環是[唯一分解整環](../Page/唯一分解整環.md "wikilink")若且惟若其為滿足的GCD環。

@@ -1,3 +1,6 @@
+> 本文内容由[初森BEMARS](https://zh.wikipedia.org/wiki/初森BEMARS)转换而来。
+
+
 《**初森BEMARS**》（）為2015年7月11日至9月26日由[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24](../Page/電視劇24.md "wikilink")系列開始播出以壘球為題材的電視劇。\[1\] [秋元康](../Page/秋元康.md "wikilink")在[電視劇24](../Page/電視劇24.md "wikilink")裡的製作往常是以偶像團體[AKB48](../Page/AKB48.md "wikilink")和其姊妹團體一起共同主演的[馬路須加學園](../Page/馬路須加學園.md "wikilink")展開序幕，這次，則是由[AKB48](../Page/AKB48.md "wikilink")的官方對手，同時也是[秋元康](../Page/秋元康.md "wikilink")所創立的偶像團體[乃木坂46第一次主演的電視劇](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。\[2\]
 
 ## 劇情概要

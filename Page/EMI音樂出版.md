@@ -1,3 +1,6 @@
+> 本文内容由[EMI音樂出版](https://zh.wikipedia.org/wiki/EMI音樂出版)转换而来。
+
+
 **EMI音樂出版**（）是一家總部設在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[跨國](../Page/跨國公司.md "wikilink")[音樂出版社](../Page/音樂出版社.md "wikilink")，由[索尼/聯合電視音樂出版拥有](https://zh.wikipedia.org/wiki/索尼/聯合電視音樂出版 "wikilink")，是這個全球最大音樂出版集團的一個部分。
 
 ## 歷史

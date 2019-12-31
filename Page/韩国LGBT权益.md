@@ -1,3 +1,6 @@
+> 本文内容由[韩国LGBT权益](https://zh.wikipedia.org/wiki/韩国LGBT权益)转换而来。
+
+
 **女同性恋、男同性恋、双性恋与跨性别者权益**在**大韩民国**会面临非LGBT居民没有经历过的法律挑战。男性及同性的同性性行为在韩国是合法行为，但[同性婚姻](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")、[民事结合等同性伴侣关系也不受法律支持](https://zh.wikipedia.org/wiki/民事结合 "wikilink")。
 
 同性恋在韩国的[大韩民国宪法](../Page/大韓民國憲法.md "wikilink")、民事或刑事法律文件中均未提及。韩国国家人权委员会法第31条规定，“人都不应因为其性取向而遭到歧视”。然而在军事刑法第92条中，单身者之间发生同性性关系被认为是“性骚扰”，并可处以最高一年监禁。军事刑法未对[知情同意和未知情同意的性行为进行区分](https://zh.wikipedia.org/wiki/知情同意 "wikilink")，并将知情同意的性行为称为“相互强奸”（[谚文](https://zh.wikipedia.org/wiki/谚文 "wikilink")：<span lang="ko-Hang">상호강간；</span><span>[汉字](../Page/朝鮮漢字.md "wikilink")：</span><span lang="ko-Hani">相互强姦</span>)。但[军事法庭在](https://zh.wikipedia.org/wiki/韩国軍事法庭 "wikilink")2010年裁定此法律违法，表示同性恋是严格的个人私事。该判定上诉至[韩国大法院](https://zh.wikipedia.org/wiki/韩国大法院 "wikilink")，并仍在等待裁决。\[1\]

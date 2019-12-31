@@ -1,3 +1,6 @@
+> 本文内容由[SBS歌謠大戰](https://zh.wikipedia.org/wiki/SBS歌謠大戰)转换而来。
+
+
 **《SBS歌謠大戰》**（）是[SBS自](../Page/SBS_\(韓國\).md "wikilink")1992年起每年年末舉辦的[K-Pop匯演節目](https://zh.wikipedia.org/wiki/K-Pop "wikilink")，自2014年起與[SBS演技大獎](../Page/SBS演技大獎.md "wikilink")及[SBS演藝大獎並列為](https://zh.wikipedia.org/wiki/SBS演藝大獎 "wikilink")「**SBS Awards Festival （SAF）**」系列節目。節目創立初期為[韓國音樂頒獎典禮之一](https://zh.wikipedia.org/wiki/韓國 "wikilink")，自2007年起取消頒獎環節（除2014年外），改為每年邀請該年度表現活躍的歌手表演。
 
 ## 歷史沿革

@@ -1,3 +1,6 @@
+> 本文内容由[B.安達迪](https://zh.wikipedia.org/wiki/B.安達迪)转换而来。
+
+
 **B.安達迪**(**Bruno Fernandes Andrade de Brito**，出生於1989年3月2日）是[巴西](../Page/巴西.md "wikilink")的職業足球運動員，司職[前鋒](https://zh.wikipedia.org/wiki/前鋒 "wikilink")，現效力於[荷蘭足球甲級聯賽](https://zh.wikipedia.org/wiki/荷蘭足球甲級聯賽 "wikilink")[威廉二世](https://zh.wikipedia.org/wiki/威廉二世足球會 "wikilink")。
 
 ## 榮譽

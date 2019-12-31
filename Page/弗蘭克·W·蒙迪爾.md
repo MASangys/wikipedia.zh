@@ -1,3 +1,6 @@
+> 本文内容由[弗蘭克·W·蒙迪爾](https://zh.wikipedia.org/wiki/弗蘭克·W·蒙迪爾)转换而来。
+
+
 **弗蘭克·惠勒·蒙迪爾**（；），是一位[美國共和黨的政治人物](../Page/共和黨_\(美國\).md "wikilink")，曾在1895年至1897年及1899年至1923年兩次擔任[美國眾議院](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")[懷俄明州單一國會選區代表眾議員](https://zh.wikipedia.org/wiki/懷俄明州單一國會選區 "wikilink")，同時也在1919年至1923年間擔任。
 
 ## 生涯

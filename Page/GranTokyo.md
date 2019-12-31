@@ -1,3 +1,6 @@
+> 本文内容由[GranTokyo](https://zh.wikipedia.org/wiki/GranTokyo)转换而来。
+
+
 **GranTokyo**（；又譯為**大東京大廈**或**格蘭東京大廈**）是位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[丸之內](../Page/丸之內.md "wikilink")一丁目的雙棟[摩天大樓](../Page/摩天大樓.md "wikilink")，坐落於[東京站](https://zh.wikipedia.org/wiki/東京站 "wikilink")[八重洲](../Page/八重洲.md "wikilink")口之上，分為43層的**GranTokyo北塔**（）、以及42層的**GranTokyo南塔**（），兩棟大樓之間由樓高4層的「**GranRoof**」（）連接。
 
 ## 概要

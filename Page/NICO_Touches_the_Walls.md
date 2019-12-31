@@ -1,3 +1,6 @@
+> 本文内容由[NICO Touches the Walls](https://zh.wikipedia.org/wiki/NICO Touches the Walls)转换而来。
+
+
 **NICO Touches the Walls**是2004年組成的日本搖滾樂團。2007年在[Sony Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 ## 成員

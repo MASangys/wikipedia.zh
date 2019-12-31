@@ -1,3 +1,6 @@
+> 本文内容由[Octave \(電子學\)](https://zh.wikipedia.org/wiki/Octave \(電子學\))转换而来。
+
+
 **octave**在[電子學上是指頻率加倍或是](https://zh.wikipedia.org/wiki/電子學 "wikilink")[除以2](../Page/除以二.md "wikilink")。此一詞是源自西方的音樂，因為音樂中的octave（[八度](../Page/八度.md "wikilink")）表示頻率加倍或是除以2，因此也用在[電子學](https://zh.wikipedia.org/wiki/電子學 "wikilink")（尤其是音频电子学）中。（其字首octa-表示8，是指八個全音阶）。octave和[decade都常用來表示](../Page/Decade_\(對數尺度\).md "wikilink")[頻率的比例或是頻率區間](https://zh.wikipedia.org/wiki/頻率 "wikilink")\[1\]\[2\]。
 
 頻率比例若要以octave表示，要計算頻率比例[以2爲底的對數](../Page/以2爲底的對數.md "wikilink")：

@@ -1,3 +1,6 @@
+> 本文内容由[模块:InfoboxImage](https://zh.wikipedia.org/wiki/模块:InfoboxImage)转换而来。
+
+
 \-- 输入： - 輸入： -- image - 纯文件名（带有File:/Image:前缀与否皆可）或完全格式化的图片链接 - 純檔案名（帶有File:/Image:字首與否皆可）或完全格式化的圖片連結 -- page - page to display for multipage images (DjVu) -- size - 显示图像大小 - 顯示影像大小 -- maxsize - 图像最大大小 - 影像最大大小 -- sizedefault - 如果size参数留空，默认显示图像大小 - 如果size參數留空，預設顯示影像大小 -- alt - 图像替换文本 - 影像替換文字 -- title - 图像标题文本 - 影像標題文字 -- border - 有边框则设为yes - 有邊框則設為yes -- center - 图像需居中则设为yes - 影像需居中則設為yes -- upright - 垂直图像参数 - 垂直影像參數 -- suppressplaceholder - 设为yes则检查图像是否为占位符并停用 - 設為yes則檢查影像是否為佔位符並停用 -- link - 点击图像时访问的页面 - 點選影像時訪問的頁面 -- 输出： - 輸出： -- 格式化图像 - 格式化影像 -- 详情请参阅"Module:InfoboxImage/doc"页面 - 詳情請參閱"Module:InfoboxImage/doc"頁面
 
 local i = {};

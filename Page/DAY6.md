@@ -1,3 +1,6 @@
+> 本文内容由[DAY6](https://zh.wikipedia.org/wiki/DAY6)转换而来。
+
+
 | 經紀公司 = [JYP娛樂](../Page/JYP娛樂.md "wikilink") | 網站 = （韓國）
 （日本） | 現任成員 =  | 過往成員 = [晙赫](https://zh.wikipedia.org/wiki/晙赫 "wikilink") }}  **DAY6**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2015年推出的六人男子樂團，原由[Jae](../Page/Jae.md "wikilink")、[晟鎮](https://zh.wikipedia.org/wiki/晟鎮 "wikilink")、[晙赫](https://zh.wikipedia.org/wiki/晙赫 "wikilink")、[Young K](../Page/姜永晛.md "wikilink")、[元弼及](https://zh.wikipedia.org/wiki/金元弼 "wikilink")[度雲](https://zh.wikipedia.org/wiki/尹度雲 "wikilink")6位成員組成，由晟鎮擔任隊長。2016年2月27日，成員晙赫退出DAY6並與JYP娛樂終止合約，自此DAY6成為五人樂團。
 

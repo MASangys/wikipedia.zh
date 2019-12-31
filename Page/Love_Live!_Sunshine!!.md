@@ -1,3 +1,6 @@
+> 本文内容由[Love Live! Sunshine!!](https://zh.wikipedia.org/wiki/Love Live! Sunshine!!)转换而来。
+
+
 《**LoveLive\! Sunshine\!\!**》（）是基于同名策划延伸出来的、[日昇动画制作的改编](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")，也就是Lovelive\!系列 的 "第二作" ，第1期于2016年7月2日开始播出\[1\]。2017年2月26日，官方公布了第2期制作决定的消息，於2017年10月7日[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")等電視台開始播出\[2\]。後於2017年12月30日當天所播出的第2期最後1話結尾時正式公佈本作全新劇場版的消息。上映日期于3rd第一天正式宣布預定於2019年1月4日播出。
 
 ## 故事情节

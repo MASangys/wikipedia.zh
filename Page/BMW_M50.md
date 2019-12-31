@@ -1,3 +1,6 @@
+> 本文内容由[BMW M50](https://zh.wikipedia.org/wiki/BMW M50)转换而来。
+
+
 [1993_bmw_325is_engine.jpg](https://zh.wikipedia.org/wiki/File:1993_bmw_325is_engine.jpg "fig:1993_bmw_325is_engine.jpg") **BMW M50**為[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[寶馬公司生產的一系列](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[直列六缸](https://zh.wikipedia.org/wiki/直列六缸引擎 "wikilink")，自然吸氣，頂置雙[凸輪軸](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")（DOHC）[汽油引擎](../Page/汽油引擎.md "wikilink")，1990年投產，為[M20系列引擎的換代產品](https://zh.wikipedia.org/wiki/BMW_M20 "wikilink")。1996年，M50（除S50外）停產並被[M52取代](../Page/BMW_M52.md "wikilink")。
 
 M50相比前代M20有較大改動，M20的單頂置凸輪軸（SOHC）被雙凸輪軸取代，每汽缸的氣門數量也增加到4個。[缸體仍保持](../Page/汽缸本體.md "wikilink")[鑄鐵同時](https://zh.wikipedia.org/wiki/鑄鐵 "wikilink")，缸蓋換為[鋁合金](../Page/鋁合金.md "wikilink")製。\[1\] 1992年M50全線更新為M52TU（TU為Techical Update的縮寫，技術升級之意），首次引入[可變氣門正時](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")（即[BMW VANOS技術](https://zh.wikipedia.org/wiki/BMW_VANOS "wikilink")），\[2\]以改善引擎在不同轉速時功率輸出表現，並減少油耗。

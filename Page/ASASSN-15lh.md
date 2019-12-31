@@ -1,3 +1,6 @@
+> 本文内容由[ASASSN-15lh](https://zh.wikipedia.org/wiki/ASASSN-15lh)转换而来。
+
+
 **ASASSN-15lh** （[超新星名稱](https://zh.wikipedia.org/wiki/天體命名#超新星 "wikilink") **SN 2015L**\[1\]）是由（All Sky Automated Survey for SuperNovae，ASAS-SN）於2015年在南天[印第安座](../Page/印第安座.md "wikilink")發現的一顆[極超新星](../Page/極超新星.md "wikilink")\[2\]。此一發現也由ASAS-SN的其它望遠鏡得到證實\[3\]，並且由北京大學凱維里理論物理研究所东蘇勃（Subo Dong）領銜在2016年1月15日的[科學這本期刊上正式發表論文](https://zh.wikipedia.org/wiki/科學_\(期刊\) "wikilink")\[4\]。ASASSN-15lh是曾經檢測到最明亮的超新星；它的亮度大約是整個[銀河系的](https://zh.wikipedia.org/wiki/銀河系 "wikilink")50倍\[5\]，[能量通量超過](https://zh.wikipedia.org/wiki/能量通量 "wikilink")[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")5700億倍\[6\]\[7\]。峰值[絕對星等](../Page/絕對星等.md "wikilink")為，在最初50天散佚的能量達到 [瓦](https://zh.wikipedia.org/wiki/瓦 "wikilink")\[8\]。這顆超新星的[紅移](../Page/紅移.md "wikilink")是0.2326，是停滯但照亮了距離地球38億光年的星系\[9\]\[10\]。根據ASAS-SN的主要研究人員，[俄亥俄州立大學斯基](https://zh.wikipedia.org/wiki/俄亥俄州立大學 "wikilink")·施塔內克的的調查，"如果它是在我們自己的星系，它會比滿月還要明亮，夜晚將會消失，在白天也很容易看見它\[11\]"。
 
 ## 發現

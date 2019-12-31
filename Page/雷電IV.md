@@ -1,3 +1,6 @@
+> 本文内容由[雷電IV](https://zh.wikipedia.org/wiki/雷電IV)转换而来。
+
+
 是由MOSS開發於2007年6月7日上市的[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[卷轴射擊遊戲](https://zh.wikipedia.org/wiki/卷轴射擊遊戲 "wikilink")，[雷電系列的第五作](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")，2008年10月2日在[Xbox 360發售](../Page/Xbox_360.md "wikilink")\[1\]。2014年5月13日在[PlayStation 3發售](../Page/PlayStation_3.md "wikilink")《雷電IV OverKill》\[2\]，2015年9月3日發售Windows版。
 
 ## 玩法

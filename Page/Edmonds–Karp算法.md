@@ -1,3 +1,6 @@
+> 本文内容由[Edmonds–Karp算法](https://zh.wikipedia.org/wiki/Edmonds–Karp算法)转换而来。
+
+
 [计算机科学](../Page/计算机科学.md "wikilink")中, Edmonds–Karp算法通过实现[Ford–Fulkerson算法](../Page/Ford–Fulkerson算法.md "wikilink")来计算网络中的最大流，其时间复杂度为\(O(VE^2)\)。该算法由Yefim (Chaim) Dinic 在1970年最先提出并由Jack Edmonds和[理察·卡普在](https://zh.wikipedia.org/wiki/理察·卡普 "wikilink")1972年独立发表。\[1\]
 
 ## C++實作

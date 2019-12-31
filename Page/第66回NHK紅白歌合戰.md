@@ -1,3 +1,6 @@
+> 本文内容由[第66回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第66回NHK紅白歌合戰)转换而来。
+
+
 **第66回[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")**（），於2015年（[平成](../Page/平成.md "wikilink")27年）12月31日（[JST](../Page/日本標準時間.md "wikilink")）晚19:15在[NHK音樂廳以](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[現場直播](../Page/現場直播.md "wikilink")的方式舉行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[STARMARIE](https://zh.wikipedia.org/wiki/STARMARIE)转换而来。
+
+
 **STARMARIE**是日本一個[女子偶像團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，2008年成立，經歷了多次成員變動，自2014年6月起以「STARMARIE」的全大寫文字重新出發，並第一次以五人團體的組合進行活動\[1\]。
 
 ## 簡介

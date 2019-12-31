@@ -1,3 +1,6 @@
+> 本文内容由[Zion.T](https://zh.wikipedia.org/wiki/Zion.T)转换而来。
+
+
 **Zion.T**（，），原名**金海率**（音譯，），[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")。他從與其他歌手合作開始他的職業生涯，並推出廣受好評的個人專輯\[1\]。[MTV伊基將其](https://zh.wikipedia.org/wiki/MTV "wikilink")2013年的正規專輯《Red Light》稱作「2013年度最佳R\&B/靈魂專輯」\[2\]。
 
 ## 介紹

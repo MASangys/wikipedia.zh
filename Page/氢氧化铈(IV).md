@@ -1,3 +1,6 @@
+> 本文内容由[氢氧化铈\(IV\)](https://zh.wikipedia.org/wiki/氢氧化铈\(IV\))转换而来。
+
+
 **氢氧化铈(IV)**是一种[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Ce(OH)<sub>4</sub>。
 
 ## 制备

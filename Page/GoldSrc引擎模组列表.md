@@ -1,3 +1,6 @@
+> 本文内容由[GoldSrc引擎模组列表](https://zh.wikipedia.org/wiki/GoldSrc引擎模组列表)转换而来。
+
+
 [Escape_from_Woomera_8.jpg](https://zh.wikipedia.org/wiki/File:Escape_from_Woomera_8.jpg "fig:Escape_from_Woomera_8.jpg")
 
 此列表收录的内容为[GoldSrc引擎](../Page/GoldSrc引擎.md "wikilink")游戏《[半条命](../Page/半条命_\(游戏\).md "wikilink")》专用的[模组](../Page/遊戲模組.md "wikilink")。

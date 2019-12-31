@@ -1,3 +1,6 @@
+> 本文内容由[IPad Pro](https://zh.wikipedia.org/wiki/IPad Pro)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:IPad_Pro_and_Apple_Pencil_\(boxed\).jpg "fig:缩略图")
 
 **iPad Pro**是由[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[平板電腦](../Page/平板電腦.md "wikilink")，面向专业用户，强调生产力。iPad Pro有两种尺寸，较大者为12.9寸，较小者则从第一代9.7寸到第二代10.5寸再到第三代的11寸。其往往搭载比同时代iPhone更为强大的处理器，并以Pro級規格定位为重點工作，讓Apple Pencil系列和Smart Keyboard系列的使用提供支持。它是第一款提供1TB配置的iOS裝置，儲存空間方面，第一代提供32、128和256GB版本，第二代提供64、256和512GB版本，第三代提供64、256、512GB和1TB版本。

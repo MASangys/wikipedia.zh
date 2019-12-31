@@ -1,3 +1,6 @@
+> 本文内容由[望遠鏡座PV型變星](https://zh.wikipedia.org/wiki/望遠鏡座PV型變星)转换而来。
+
+
 **望遠鏡座PV型變星**是[變星](../Page/變星.md "wikilink")的一種，在[變星總表](../Page/變星總表.md "wikilink")中建立的字母縮略詞是PVTEL。此類變星被定義為’’氦超巨星’’，是有著微弱氫線和強氦和碳線的[Bp星](https://zh.wikipedia.org/wiki/Ap和Bp星 "wikilink") \[1\]。那就是，這些恆星的氫譜線比正常的[B型恆星微弱](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，但氦和碳線更強。這種類型的原型是[HD 168476](../Page/望遠鏡座PV.md "wikilink")，也就是望遠鏡座PV，其中會經歷小但複雜的光度變化和[徑向速度的波動](https://zh.wikipedia.org/wiki/徑向速度 "wikilink")\[2\]。望遠鏡座PV星相較於其它B型恆星是極度缺乏氫，和光度會在幾小時到幾年的時間尺度範圍上發生變化\[3\]。當2008年，在**變星總表**上只有12顆被確認的望遠座PV型變星\[4\]
 
 望遠鏡座PV型變星根據[恆星光譜分為三種不同的類型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")：**I**是晚期的A和B型，**II**是是O和早期的B型，**III**是F和G型。III型總是富含碳和缺乏氫，而I和II型不一定有多餘的碳。熱的類型脈動得也比冷的快\[5\]。

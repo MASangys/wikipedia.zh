@@ -1,3 +1,6 @@
+> 本文内容由[Apink音樂作品列表](https://zh.wikipedia.org/wiki/Apink音樂作品列表)转换而来。
+
+
 **Apink音乐作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")**[Apink](../Page/Apink.md "wikilink")**歷年發行的各類音樂專輯、影視歌曲和廣告歌曲。
 
 ## 韓語

@@ -1,3 +1,6 @@
+> 本文内容由[星际之门：SG-1剧集列表](https://zh.wikipedia.org/wiki/星际之门：SG-1剧集列表)转换而来。
+
+
 [Stargate_SG-1_1997_logo.svg](https://zh.wikipedia.org/wiki/File:Stargate_SG-1_1997_logo.svg "fig:Stargate_SG-1_1997_logo.svg") **《星际之门：SG-1》**（Stargate SG-1）是一部于1997年至2007年播映的[美国](../Page/美国.md "wikilink")科幻[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")，共有10季。\[1\]\[2\]
 
 ## 剧集总览

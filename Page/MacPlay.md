@@ -1,3 +1,6 @@
+> 本文内容由[MacPlay](https://zh.wikipedia.org/wiki/MacPlay)转换而来。
+
+
 **MacPlay**，是两个美国出版商用于发布[Macintosh计算机游戏的名称](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。
 
 ## 历史

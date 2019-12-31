@@ -1,3 +1,6 @@
+> 本文内容由[MTN 8](https://zh.wikipedia.org/wiki/MTN 8)转换而来。
+
+
 {{ infobox football tournament | current = 2014 MTN 8 | logo = | founded = 1972 | number of teams = 8 | region =  | current champions = [凱薩酋長足球會](https://zh.wikipedia.org/wiki/凱薩酋長足球會 "wikilink") | most successful club = [凱薩酋長足球會](https://zh.wikipedia.org/wiki/凱薩酋長足球會 "wikilink")
 (15次) | motto = Wafa Wafa (do or die) | website = [www.mtn.co.za](http://www.mtn.co.za/) }} **MTN 8**是南非歷史最悠久的足球淘汰杯賽比賽。它是由[南非足球超級聯賽](../Page/南非足球超級聯賽.md "wikilink")前八的球隊角逐。第一輪的結構是賽季第一名的球隊對戰第八名的球隊;第二名的球隊對戰第七名的球隊;第三名的球隊對戰第六名的球隊;第四名的球隊對戰第五名的球隊。
 

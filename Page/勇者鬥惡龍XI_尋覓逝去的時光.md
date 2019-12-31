@@ -1,3 +1,6 @@
+> 本文内容由[勇者鬥惡龍XI 尋覓逝去的時光](https://zh.wikipedia.org/wiki/勇者鬥惡龍XI 尋覓逝去的時光)转换而来。
+
+
 是[史克威爾艾尼克斯开发并发行在](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台上的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]。遊戲是[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")第11部編號作品，也是系列诞生30周年的纪念作品。游戏于2015年正式公布，2017年7月在日本发售[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[任天堂3DS](../Page/任天堂3DS.md "wikilink")版本，2017年11月11日在臺灣與香港發行PS4平台中文版；2018年9月4日發售[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")、同時在欧美地區发售[PlayStation 4版](../Page/PlayStation_4.md "wikilink")；\[2\]而任天堂Switch版本几经延期后于2019年9月27日发售，该版本游戏視為加強版並確内置繁简中文。\[3\]
 
 ## 開發

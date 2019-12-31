@@ -1,3 +1,6 @@
+> 本文内容由[Dynamix](https://zh.wikipedia.org/wiki/Dynamix)转换而来。
+
+
 《**Dynamix**》是一款由香港獨立開發組織[C4Cat開發的手機](https://zh.wikipedia.org/wiki/C4Cat "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")\[1\]。該遊戲是一款三重落下式遊戲，其音樂風格目前以電子音樂為主\[2\]。[Android](../Page/Android.md "wikilink")版本於2014年10月30日在[Google Play上架](../Page/Google_Play.md "wikilink")\[3\]，[iOS版本於](https://zh.wikipedia.org/wiki/iOS "wikilink")2015年5月20日在[App Store上架](../Page/App_Store_\(iOS\).md "wikilink")\[4\]。
 
 ## 遊戲設計

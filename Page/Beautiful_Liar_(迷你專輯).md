@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful Liar \(迷你專輯\)](https://zh.wikipedia.org/wiki/Beautiful Liar \(迷你專輯\))转换而来。
+
+
 《**Beautiful Liar**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")子團體[VIXX LR首張韓語迷你專輯](../Page/VIXX_LR.md "wikilink")，於2015年8月17日發行，主打歌曲為專輯同名歌曲《Beautiful Liar》\[1\]。
 
 ## 背景

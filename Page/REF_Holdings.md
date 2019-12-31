@@ -1,3 +1,6 @@
+> 本文内容由[REF Holdings](https://zh.wikipedia.org/wiki/REF Holdings)转换而来。
+
+
 **REF Holdings Limited**，簡稱**REF Holdings**（），在2010年由劉文德（主席及非執行董事），於[香港](../Page/香港.md "wikilink")總部成立「緯豐財經印刷有限公司」（REF Financial Press Limited）。
 
 業務在香港經營高質量財經印刷產品及服務，包括處理首次公開售股章程、財務報告、通函、公告及其他財經文件\[1\]。

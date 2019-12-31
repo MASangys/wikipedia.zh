@@ -1,3 +1,6 @@
+> 本文内容由[奥林巴斯PEN E-P5](https://zh.wikipedia.org/wiki/奥林巴斯PEN E-P5)转换而来。
+
+
 **奥林巴斯 PEN E-P5**是一台[微4/3系统可换镜头数码无反机型](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")，由奥林巴斯公司于2013年5月10日发布\[1\]。
 
 其是2011年发布之[E-P3后续机种](https://zh.wikipedia.org/wiki/奥林巴斯_PEN_E-P3 "wikilink")，因为忌讳数字4，编号上跳过而命名为**E-P5**。EP5具备三种样式：纯黑、银黑配色与白色\[2\]。采用了升级的16MP传感器，以及配置了与之前[E-M5机型一致的五轴防抖机构](https://zh.wikipedia.org/wiki/奥林巴斯_OM-D_E-M5 "wikilink")。

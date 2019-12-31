@@ -1,3 +1,6 @@
+> 本文内容由[Solaborate](https://zh.wikipedia.org/wiki/Solaborate)转换而来。
+
+
 **Solaborate**是一个[美国](../Page/美国.md "wikilink")的[社交網路服務](../Page/社交網路服務.md "wikilink")和[协作软件](https://zh.wikipedia.org/wiki/群件 "wikilink")，其名字源于英文单词“social”和“collaboration”\[1\]。Solaborate的Trending Tech News feature可显示来自世界各地的科技新闻及其趋势分析，实时更新。类似于其他同类网站，Solaborate也有如专业简介、用户组、实时信息、问答一类的功能。Solaborate允许个体和公司聘请高科技行业方面的专家。注册用户可以使用聊天、录音和视频对讲功能。 Solaborate的所有服务都是免费的。
 
 ## 发展历史

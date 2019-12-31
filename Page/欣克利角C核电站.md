@@ -1,3 +1,6 @@
+> 本文内容由[欣克利角C核电站](https://zh.wikipedia.org/wiki/欣克利角C核电站)转换而来。
+
+
 **欣克利角C核电站**（），是目前在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[英格兰](../Page/英格兰.md "wikilink")的西南部[萨默塞特郡筹建的](https://zh.wikipedia.org/wiki/萨默塞特郡 "wikilink")[核电站](https://zh.wikipedia.org/wiki/核电站 "wikilink")。
 
 ## 历史

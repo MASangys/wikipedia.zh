@@ -1,3 +1,6 @@
+> 本文内容由[M59-UCD3](https://zh.wikipedia.org/wiki/M59-UCD3)转换而来。
+
+
 **M59-UCD3**是一個在天球上位於[室女座](../Page/室女座.md "wikilink")的超小型[矮星系](../Page/矮星系.md "wikilink")，鄰近[M59](../Page/M59.md "wikilink")星系。該星系由[聖荷西州立大學](../Page/聖荷西州立大學.md "wikilink")的兩名天文系學生發現於2015年。該星系的直徑是本[銀河系的二百分之一](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，恆星分布密度是太陽周圍空間的一萬倍，是已知密度第二高的矮星系，僅次於同時發現的[M85-HCC1](https://zh.wikipedia.org/wiki/M85-HCC1 "wikilink")\[1\]\[2\]。
 
 ## 參考資料

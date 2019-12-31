@@ -1,3 +1,6 @@
+> 本文内容由[横滨BLITZ](https://zh.wikipedia.org/wiki/横滨BLITZ)转换而来。
+
+
 [Yokohama_BLITZ.JPG](https://zh.wikipedia.org/wiki/File:Yokohama_BLITZ.JPG "fig:Yokohama_BLITZ.JPG") **横滨BLITZ**（）是位于[神奈川县](https://zh.wikipedia.org/wiki/神奈川县 "wikilink")[横滨市](../Page/横滨市.md "wikilink")[港未来五丁目的娱乐购物中心](https://zh.wikipedia.org/wiki/港未来 "wikilink")内的一家[展演空间](https://zh.wikipedia.org/wiki/展演空间 "wikilink")（Live House），以现场音乐演出为主。横滨BLITZ已经在2013年10月14日结束营业。
 
 ## 概況

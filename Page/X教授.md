@@ -1,3 +1,6 @@
+> 本文内容由[X教授](https://zh.wikipedia.org/wiki/X教授)转换而来。
+
+
 **X教授**（），是一位在[漫威漫畫](../Page/漫威漫畫.md "wikilink")中的出版物《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》中的[虛構人物](https://zh.wikipedia.org/wiki/虛構人物 "wikilink")。
 
 X教授和至交好友[萬磁王](../Page/萬磁王.md "wikilink")不同，他一心想讓[變種人與](https://zh.wikipedia.org/wiki/變種人 "wikilink")[人類](../Page/人類.md "wikilink")和平共處；但為了防止人類的迫害和引導變種人同胞走向正途，他以自身的財力創立了X學院來收容思緒不夠成熟或不怎麼會控制自己力量的變種人青少年，並建立了變種人的[超級英雄團隊](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")。

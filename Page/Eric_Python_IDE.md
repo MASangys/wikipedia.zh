@@ -1,3 +1,6 @@
+> 本文内容由[Eric Python IDE](https://zh.wikipedia.org/wiki/Eric Python IDE)转换而来。
+
+
 **Eric**是一个[自由的软件](../Page/自由软件.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")，主要为开发[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")语言编写的程序而设计。历史上某个时期中，Eric4是这款软件针对Python 2的变种，而Eric5则针对Python 3。但自从Eric6发布以后，两者均由同一份代码所支持。\[1\]
 
 从设计上来看，它作为数个程序的前端，例如[QScintilla编辑器小工具](../Page/Scintilla.md "wikilink")、Python语言解释器、[代码重构](../Page/代码重构.md "wikilink")工具、用来进行[性能分析](../Page/性能分析.md "wikilink")的[Python Profiler](https://zh.wikipedia.org/wiki/Python_Profiler "wikilink")，等等。它使用[PyQt](../Page/PyQt.md "wikilink")这个[Qt](../Page/Qt.md "wikilink") [部件工具箱](../Page/部件工具箱.md "wikilink")的Python绑定。程序的功能也可以经由插件机制进行扩展。Eric插件仓库提供了不同类型的扩展，可以在IDE中直接使用。

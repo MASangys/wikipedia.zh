@@ -1,3 +1,6 @@
+> 本文内容由[模块:Chemicals](https://zh.wikipedia.org/wiki/模块:Chemicals)转换而来。
+
+
 local p = {} local origArgs local error = require( 'Module:Error' ) local element = {} local lib_arg = {} local strings = require( 'Module:String' ) local element_data = {} function p.formula(frame)
 
 `   -- For calling from #invoke.`

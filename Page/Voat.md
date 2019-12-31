@@ -1,3 +1,6 @@
+> 本文内容由[Voat](https://zh.wikipedia.org/wiki/Voat)转换而来。
+
+
 （）是一個娛樂、[社交網絡服務及](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink")[新聞網站](https://zh.wikipedia.org/wiki/新聞 "wikilink")。已註冊用戶可以发布貼文（文字或連結）。其他已註冊用戶然後可以對貼文投正反票。網站上貼文根據內容分類為「subverses」。
 
 Voat由[蘇黎世大學的兩名分别属于](https://zh.wikipedia.org/wiki/蘇黎世大學 "wikilink")[電腦科學和](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")[經濟學的學生創立](https://zh.wikipedia.org/wiki/經濟學 "wikilink")\[1\]。Voat總部設在[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")。

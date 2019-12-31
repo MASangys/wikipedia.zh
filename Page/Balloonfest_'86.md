@@ -1,3 +1,6 @@
+> 本文内容由[Balloonfest \'86](https://zh.wikipedia.org/wiki/Balloonfest \'86)转换而来。
+
+
 **Balloonfest '86**是1986年的一個由[美國聯合勸募在](https://zh.wikipedia.org/wiki/美國聯合勸募 "wikilink")[俄亥俄州](../Page/俄亥俄州.md "wikilink")[克里夫蘭發起的籌款活動](https://zh.wikipedia.org/wiki/克里夫蘭_\(俄亥俄州\) "wikilink")。人們在該活動中釋放了近150萬氣球，創造了同時釋放最多氣球的[世界紀錄](https://zh.wikipedia.org/wiki/世界紀錄 "wikilink")。\[1\]該活動本身應為一個對人無害的宣傳噱頭，然而很多氣球被風吹回城市中，並降落在其周邊地區，引致交通擠塞及影響附近的機場。這些氣球更妨礙了[美国海岸警卫队](../Page/美国海岸警卫队.md "wikilink")尋找兩個遇溺的漁民，終致他們溺斃。\[2\]而舉辦活動的美國聯合勸募更在日後被多番起訴，追討逾百萬美元的賠償金\[3\]，並使得該籌款活動出現赤字。\[4\]
 
 ## 準備

@@ -1,3 +1,6 @@
+> 本文内容由[羅馬地鐵B線](https://zh.wikipedia.org/wiki/羅馬地鐵B線)转换而来。
+
+
 **羅馬地鐵B線**（）是[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[羅馬的一條](https://zh.wikipedia.org/wiki/羅馬 "wikilink")[地鐵路線](../Page/羅馬地鐵.md "wikilink")。羅馬地鐵B線是羅馬的第一條地鐵路線，其構想在二戰前就已經開始。二戰期間地鐵建設暫時停止。1948年地鐵恢復建設並在1955年正式開始運行。現在每天約有345,000人乘坐羅馬地鐵B線\[1\]。
 
 ## 參考資料

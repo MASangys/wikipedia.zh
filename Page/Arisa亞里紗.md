@@ -1,3 +1,6 @@
+> 本文内容由[Arisa亞里紗](https://zh.wikipedia.org/wiki/Arisa亞里紗)转换而来。
+
+
 《ARISA》是[安藤夏美](../Page/安藤夏美.md "wikilink")的日本[少女漫画](../Page/少女漫画.md "wikilink")作品。Nakayoshi（讲谈社）从2009年2月号到2012年9月号间连载，双胞胎交换身份题材的悬疑作品。全12卷。
 
 ## 梗概

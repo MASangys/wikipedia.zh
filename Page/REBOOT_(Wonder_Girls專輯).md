@@ -1,3 +1,6 @@
+> 本文内容由[REBOOT \(Wonder Girls專輯\)](https://zh.wikipedia.org/wiki/REBOOT \(Wonder Girls專輯\))转换而来。
+
+
 《**REBOOT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Wonder Girls第三張正規專輯](../Page/Wonder_Girls.md "wikilink")。[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2015年8月3日由KT Music發行。主打歌曲〈I Feel You〉的詞曲由[朴軫永](../Page/朴軫永.md "wikilink")製作。\[1\]
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[GOG.com](https://zh.wikipedia.org/wiki/GOG.com)转换而来。
+
+
 [GOG.com_old_logo.png](https://zh.wikipedia.org/wiki/File:GOG.com_old_logo.png "fig:GOG.com_old_logo.png")
 
 **GOG.com**（旧称Good Old Game）是一家提供[电子游戏](../Page/电子游戏.md "wikilink")和[电影](../Page/电影.md "wikilink")的[数字发行平台](https://zh.wikipedia.org/wiki/数字发行 "wikilink")，它由GOG公司运营，母公司為[CD Projekt](../Page/CD_Projekt.md "wikilink")。GOG公司的總部位于波兰[华沙](../Page/华沙.md "wikilink")。\[1\]GOG.com通过无[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM-free）的方式提供适用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[OS X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")平台的电子游戏。在早期，GOG只發行年代較久的遊戲，自2012年3月，它开始售卖较为新款的游戏。\[2\]\[3\]

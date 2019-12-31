@@ -1,3 +1,6 @@
+> 本文内容由[Diwata-1](https://zh.wikipedia.org/wiki/Diwata-1)转换而来。
+
+
 Diwata-1\[1\]是[菲律宾研制的首个国产微型卫星](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")，于2016年年初发射。\[2\]Diwata-1现已被菲律宾政府交付给[宇宙航空研究开发机构](../Page/宇宙航空研究開發機構.md "wikilink")（JAXA）。这颗重50千克的微卫星将被[JAXA运至美国](../Page/宇宙航空研究開發機構.md "wikilink")，而美国将会于2016年4月将它发射升空。\[3\]
 
 ## 背景

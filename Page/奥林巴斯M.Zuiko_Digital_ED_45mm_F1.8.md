@@ -1,3 +1,6 @@
+> 本文内容由[奥林巴斯M.Zuiko Digital ED 45mm F1.8](https://zh.wikipedia.org/wiki/奥林巴斯M.Zuiko Digital ED 45mm F1.8)转换而来。
+
+
 **M.Zuiko Digital 45mm F1.8** 是[奥林巴斯公司的一款](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[定焦镜头](../Page/定焦镜头.md "wikilink")，应用于[微4/3系统](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")。
 
 该镜头于2011年秋季推出\[1\]，为E-P3的同期产品。2013年中旬，同17mm、75mm镜头一起追加了黑色版本\[2\]。

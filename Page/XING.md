@@ -1,3 +1,6 @@
+> 本文内容由[XING](https://zh.wikipedia.org/wiki/XING)转换而来。
+
+
 **XING**（原名OPEN Business Club AG，简称OpenBC，于2006年11月17日更名为XING）是一个以就业为导向的德国社交网站，为[小世界网络方面的专业人士提供服务](https://zh.wikipedia.org/wiki/小世界网络 "wikilink")。\[1\]其用户遍及200多个国家。可用语言包括[荷兰语](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")、[英语](../Page/英语.md "wikilink")、[芬兰语](../Page/芬兰语.md "wikilink")、[法语](../Page/法语.md "wikilink")、[德语](../Page/德语.md "wikilink")、[匈牙利语](../Page/匈牙利语.md "wikilink")、[意大利语](../Page/意大利语.md "wikilink")、[日语](../Page/日语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")、[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")、[波兰语](https://zh.wikipedia.org/wiki/波兰语 "wikilink")、[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")、[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")、[瑞典语和](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")[土耳其语](https://zh.wikipedia.org/wiki/土耳其语 "wikilink")16种语言。
 
 XING的主要竞争对手是[美国](../Page/美国.md "wikilink")的[领英和](../Page/領英.md "wikilink")[欧洲](../Page/欧洲.md "wikilink")的[Viadeo](../Page/Viadeo.md "wikilink")。\[2\]\[3\]约76％的页面访问量来自[德国](../Page/德国.md "wikilink")，90％来自德语区。\[4\]

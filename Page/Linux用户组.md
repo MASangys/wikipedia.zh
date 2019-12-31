@@ -1,3 +1,6 @@
+> 本文内容由[Linux用户组](https://zh.wikipedia.org/wiki/Linux用户组)转换而来。
+
+
 [Installfest.jpg](https://zh.wikipedia.org/wiki/File:Installfest.jpg "fig:Installfest.jpg")
 
 **Linux用户组**（，缩写为 ****）或**GNU/Linux用户组**是一个为Linux用户，特别是无经验用户提供教育支持的私有组织，通常是非营利的。“用户组”主要指举办集会的本地组织，但它也可以指成员分布在各地，不举办或不基于线下集会的在线组织。多数LUG也包括了[FreeBSD](../Page/FreeBSD.md "wikilink")等[类Unix的自由操作系统](https://zh.wikipedia.org/wiki/类Unix "wikilink")。

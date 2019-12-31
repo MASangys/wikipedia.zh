@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox VG series](https://zh.wikipedia.org/wiki/模块:Infobox VG series)转换而来。
+
+
 local parameterList = {
 
 `   above = { 'title' },`

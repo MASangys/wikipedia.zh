@@ -1,3 +1,6 @@
+> 本文内容由[Clear \(歌手\)](https://zh.wikipedia.org/wiki/Clear \(歌手\))转换而来。
+
+
 clear（，）是日本的男性歌手。暱稱クリア、dear、會長等等。在[NICONICO動畫上發表自己的翻唱作品](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，以[VOCALOID](../Page/VOCALOID.md "wikilink")的歌曲為主。第一張專輯『Dearest』在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上得到第九名的紀錄\[1\]。特色是和名字「clear」一樣乾淨透徹的聲音。
 
 ## niconico動畫

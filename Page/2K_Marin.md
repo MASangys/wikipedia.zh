@@ -1,3 +1,6 @@
+> 本文内容由[2K Marin](https://zh.wikipedia.org/wiki/2K Marin)转换而来。
+
+
 **2K Marin**，是一家总部位于美国加州马林县诺瓦托的游戏开发商。根据新闻，该工作室的主要重点是与其他2K工作室开发新的知识产权和共同开发产品。\[1\]
 
 诺瓦托工作室是在2007年生化奇兵发布后从Irrational Games（简称为2K Boston/2K Australia）剥离出来。该工作室在2010年加入2K Marin。

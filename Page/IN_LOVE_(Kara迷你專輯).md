@@ -1,3 +1,6 @@
+> 本文内容由[IN LOVE \(Kara迷你專輯\)](https://zh.wikipedia.org/wiki/IN LOVE \(Kara迷你專輯\))转换而来。
+
+
 《**IN LOVE**》是韓國流行女子組合[KARA繼四人後推出的第二張迷你專輯](https://zh.wikipedia.org/wiki/KARA "wikilink")\[1\]。 專輯當中總共收錄六首歌曲\[2\]， 其中《IN LOVE》的主打歌「CUPID」是由作曲家 e.one 與 EJ.SHOW 為[KARA量身打造的歌曲](https://zh.wikipedia.org/wiki/KARA "wikilink")。\[3\]。
 
 ## 曲目

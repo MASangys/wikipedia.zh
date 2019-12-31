@@ -1,3 +1,6 @@
+> 本文内容由[MOOV](https://zh.wikipedia.org/wiki/MOOV)转换而来。
+
+
 **MOOV**是一個採用訂閱收益模式的[串流媒體服務](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")，提供[無損音頻和高清的](https://zh.wikipedia.org/wiki/無損數據壓縮 "wikilink")[音樂短片](https://zh.wikipedia.org/wiki/音樂短片 "wikilink")。\[1\]\[2\] 此服務在2006年由[香港](../Page/香港.md "wikilink")公司[電訊盈科](../Page/電訊盈科.md "wikilink")成立，並運營至今。\[3\]\[4\] MOOV和接近300間唱片公司和內容供應商合作包括三大主要唱片公司[EMI](../Page/EMI.md "wikilink")、[金牌大風](../Page/金牌大風.md "wikilink")和[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")，現有超過150萬首以[FLAC](../Page/FLAC.md "wikilink")無損格式編製的歌曲。\[5\]\[6\]\[7\]
 
 現在MOOV的服務地區為[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")和[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")。\[8\]\[9\]\[10\]

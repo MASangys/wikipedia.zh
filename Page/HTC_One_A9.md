@@ -1,3 +1,6 @@
+> 本文内容由[HTC One A9](https://zh.wikipedia.org/wiki/HTC One A9)转换而来。
+
+
 **HTC One A9**是一支由[HTC製造的安卓智慧型手機](https://zh.wikipedia.org/wiki/HTC "wikilink")，該部手機發表於美國時間的2015年10月20日。.
 
 這部手機是基於HTC 2015年旗艦機皇HTC One M9/M9+的重新設計姊妹機，然而這部手機在全球市場定位上是屬於中階手機。

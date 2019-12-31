@@ -1,3 +1,6 @@
+> 本文内容由[BMW引擎列表](https://zh.wikipedia.org/wiki/BMW引擎列表)转换而来。
+
+
 [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")公司共使用過下列引擎。
 
 ## [汽油引擎](../Page/汽油引擎.md "wikilink")

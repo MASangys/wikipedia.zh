@@ -1,3 +1,6 @@
+> 本文内容由[中日韓統一表意文字擴展區E](https://zh.wikipedia.org/wiki/中日韓統一表意文字擴展區E)转换而来。
+
+
 **中日韩统一表意文字扩展区E**（）是一个[Unicode标准](https://zh.wikipedia.org/wiki/Unicode "wikilink")，在2015年6月17日发布的Unicode 8.0中被引入。
 
 扩展E区共收录5762个汉字，编码范围为 U+2B820-U+2CEAF。

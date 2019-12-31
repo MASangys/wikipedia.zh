@@ -1,3 +1,6 @@
+> 本文内容由[CPC裏海石油管線](https://zh.wikipedia.org/wiki/CPC裏海石油管線)转换而来。
+
+
 **CPC裏海石油管線**（Caspian Pipeline Consortium，下稱**CPC管線**）是連接[哈薩克斯坦的](https://zh.wikipedia.org/wiki/哈薩克斯坦 "wikilink")[田吉茲油田](../Page/田吉茲油田.md "wikilink")到黑海沿岸的新羅西斯克二號海運碼頭（Nonorossiysk-2）一條石油管線。這同時也是[卡沙干油田與](https://zh.wikipedia.org/wiki/卡沙干油田 "wikilink")的主要出口路線。至2009年時這條CPC管線是俄國領土內唯一不由獨占的管線。\[1\]
 
 ## 歷史

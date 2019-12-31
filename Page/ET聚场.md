@@ -1,3 +1,6 @@
+> 本文内容由[ET聚场](https://zh.wikipedia.org/wiki/ET聚场)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:共舞台.jpg "fig:缩略图") **ET聚场**（）是位于[上海市](https://zh.wikipedia.org/wiki/上海市 "wikilink")[黄浦区](../Page/黄浦区.md "wikilink")[延安东路的一座剧场](../Page/延安东路_\(上海\).md "wikilink")，前身为**上海共舞台**。
 
 ## 历史

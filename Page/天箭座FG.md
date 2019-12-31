@@ -1,3 +1,6 @@
+> 本文内容由[天箭座FG](https://zh.wikipedia.org/wiki/天箭座FG)转换而来。
+
+
 **天箭座FG**位於天箭座，是一顆[超巨星](../Page/超巨星.md "wikilink")的[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")，距離[地球](../Page/地球.md "wikilink")大約8,000[光年](../Page/光年.md "wikilink")。它在1943年第一次被注意到，因為它是一顆變星，並且它的[光譜在](https://zh.wikipedia.org/wiki/恆星分類 "wikilink")1955年被登錄為B4leq（*藍色*）。自那時以來，它在1911年已經擴大和紅化成為G（*黃色*）\[1\]，然後再轉換成K\[2\]（*橙色*）。在登錄光譜為B4leg不久後，天箭座FG不久就變成A型星，並是週期15天的脈動變星，而現在週期已增加至超過100天。
 
 天箭座FG是[行星狀星雲](https://zh.wikipedia.org/wiki/行星狀星雲 "wikilink")*Henize 1-5*的中心恆星。.

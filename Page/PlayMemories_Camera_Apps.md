@@ -1,3 +1,6 @@
+> 本文内容由[PlayMemories Camera Apps](https://zh.wikipedia.org/wiki/PlayMemories Camera Apps)转换而来。
+
+
 [thumb](https://zh.wikipedia.org/wiki/FILE:SONY_PlayMemories_Camera_Apps_at_NEX-6.png "wikilink")，其上展示了 **PlayMemories Camera Apps** 列表\]\]
 
 **PlayMemories Camera Apps** （或缩写为**PMCA**）是一项由索尼公司为其相机提供的扩展服务，属于索尼影像产品增值服务**PlayMemories**的一部分\[1\]。使用[SEN](https://zh.wikipedia.org/wiki/Sony_Entertainment_Network "wikilink")(索尼娱乐网络)账号即可登录。

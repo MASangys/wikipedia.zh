@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-ToolsRedirect-courtesy-and-art-names.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-ToolsRedirect-courtesy-and-art-names.js)转换而来。
+
+
 /\* vim: set noexpandtab ft=javascript ts=4 sw=4: \*/
 
 mw.loader.using( \['ext.gadget.ToolsRedirect'\], function() {

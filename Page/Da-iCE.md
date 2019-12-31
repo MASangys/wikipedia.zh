@@ -1,3 +1,6 @@
+> 本文内容由[Da-iCE](https://zh.wikipedia.org/wiki/Da-iCE)转换而来。
+
+
 **Da-iCE**（），是日本的一個表演藝術團體及舞蹈流行音樂組合。所屬經紀公司為[愛貝克思管理](../Page/愛貝克思管理.md "wikilink")，唱片公司為[環球音樂 (日本)](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 歷史

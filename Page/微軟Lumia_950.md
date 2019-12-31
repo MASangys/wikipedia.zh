@@ -1,3 +1,6 @@
+> 本文内容由[微軟Lumia 950](https://zh.wikipedia.org/wiki/微軟Lumia 950)转换而来。
+
+
 **微軟Lumia 950**\[1\]和**微軟Lumia 950XL**\[2\]是由[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Windows 10 Mobile智慧型手機](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。在2015年10月6日發佈。\[3\] \[4\] Windows 10 推出後，Microsoft 已表示著手開發 Windows 10 Mobile。10 月 6 日 Microsoft 舉行發佈會，正式推出旗艦級手機 Lumia 950、Lumia 950 XL，\[5\]\[6\]\[7\]\[8\]\[9\] \[10\] 且此手機為 Microsoft Lumia系列中最後一台旗艦型手機。
 
 ## 主要特性

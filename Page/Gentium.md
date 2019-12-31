@@ -1,3 +1,6 @@
+> 本文内容由[Gentium](https://zh.wikipedia.org/wiki/Gentium)转换而来。
+
+
 ***Gentium***（在[拉丁语](../Page/拉丁语.md "wikilink")中為「萬國」之意）是一個[Unicode的有襯線體](https://zh.wikipedia.org/wiki/Unicode "wikilink")[字体](../Page/字体.md "wikilink")，由Victor Gaultney所設計。Gentium字型是[自由及](../Page/自由软件.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")軟體，以[SIL](../Page/SIL國際.md "wikilink")[开源字体授权](../Page/SIL开源字体授权.md "wikilink") (OFL) 釋出，允許修改與再散佈\[1\]。Gentium對使用[拉丁字母](../Page/拉丁字母.md "wikilink")、[希臘字母](https://zh.wikipedia.org/wiki/希臘字母 "wikilink")、[西里爾字母及](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")[國際音標](../Page/國際音標.md "wikilink")的語言有著相當廣泛的支援。Gentium Plus變種於2010年11月釋出，現在包含了超過5500個字形以及透過[OpenType](../Page/OpenType.md "wikilink")及[Graphite](../Page/Graphite.md "wikilink")所支援的進階印刷功能\[2\]。
 
 ## 歷史與變種

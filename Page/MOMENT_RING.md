@@ -1,3 +1,6 @@
+> 本文内容由[MOMENT RING](https://zh.wikipedia.org/wiki/MOMENT RING)转换而来。
+
+
 **《MOMENT RING》**是[μ's的单曲](https://zh.wikipedia.org/wiki/μ's "wikilink")，2016年3月2日由[Lantis](../Page/Lantis.md "wikilink")发行。该单曲也是μ's的最终单曲\[1\]。
 
 ## 概要

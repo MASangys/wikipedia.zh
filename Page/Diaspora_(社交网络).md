@@ -1,3 +1,6 @@
+> 本文内容由[Diaspora \(社交网络\)](https://zh.wikipedia.org/wiki/Diaspora \(社交网络\))转换而来。
+
+
 **Diaspora**（现在常写作**diaspora\***，之前常写作**DIASPORA\***）是一个[非营利性](https://zh.wikipedia.org/wiki/非营利 "wikilink")、用户自有的[分布式社交网络](https://zh.wikipedia.org/wiki/分布式社交网络 "wikilink")，基于[Diaspora 软件](../Page/Diaspora_\(软件\).md "wikilink")。
 
 Diaspora 由一组独立拥有节点（称为pods）组成，其互相操作以形成网络。截至2014年3月，已有超过一百万帐号。\[1\]

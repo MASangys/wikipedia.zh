@@ -1,3 +1,6 @@
+> 本文内容由[精靈寶可夢GO](https://zh.wikipedia.org/wiki/精靈寶可夢GO)转换而来。
+
+
 ，是一款[基于位置服务的](https://zh.wikipedia.org/wiki/基于位置的服务 "wikilink")[增强现实类](https://zh.wikipedia.org/wiki/增强现实 "wikilink")[手机游戏](../Page/手机游戏.md "wikilink")，由[任天堂](../Page/任天堂.md "wikilink")公司、[精靈寶可夢公司授权](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")，[Niantic, Inc.负责开发和运营](https://zh.wikipedia.org/wiki/Niantic,_Inc. "wikilink")。于2016年7月起在[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")雙平台发布\[1\]。该游戏允许玩家以现实世界为平台，捕捉、战斗、训练和交易虚拟怪獸「[寶可夢](https://zh.wikipedia.org/wiki/寶可夢列表 "wikilink")」\[2\]。游戏将[免费发布](../Page/网络游戏免费模式.md "wikilink")，亦支持内购\[3\]。同该游戏同期发布的还有一部名为精灵宝-{}-可梦Go Plus的周边设备，利用[蓝牙连接手机](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")，在附近有精灵宝可梦时推送通知\[4\]。
 
 精灵宝可梦在中国大陆进行[锁区](https://zh.wikipedia.org/wiki/锁区 "wikilink")，

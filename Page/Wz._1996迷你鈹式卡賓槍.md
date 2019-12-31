@@ -1,3 +1,6 @@
+> 本文内容由[Wz. 1996迷你鈹式卡賓槍](https://zh.wikipedia.org/wiki/Wz. 1996迷你鈹式卡賓槍)转换而来。
+
+
 **Kbk wz. 1996 Mini-Beryl**（，意為：[铍](../Page/铍.md "wikilink")，又稱：[綠寶石](../Page/祖母綠.md "wikilink")，簡稱：迷你鈹）是一款由[波兰位於](https://zh.wikipedia.org/wiki/波兰 "wikilink")[拉多姆](../Page/拉多姆.md "wikilink")的槍械製造商（現稱：Fabryka Broni Łucznik）所設計和生產的緊湊型[突击步枪](../Page/突击步枪.md "wikilink")（[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")），亦是與它並行發展的[Kbk wz. 1996「鈹」的卡賓槍版本](../Page/Wz._1996鈹式突擊步槍.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。
 
 該卡賓槍是用以取代[波蘭武裝部隊所使用的](../Page/波蘭軍事.md "wikilink")[5.45×39毫米](../Page/5.45×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")口徑[Skbk wz. 1989「縞瑪瑙」卡賓槍](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")。

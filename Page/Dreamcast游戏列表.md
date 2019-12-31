@@ -1,3 +1,6 @@
+> 本文内容由[Dreamcast游戏列表](https://zh.wikipedia.org/wiki/Dreamcast游戏列表)转换而来。
+
+
 本电子游戏列表列举了[世嘉](../Page/世嘉.md "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")的[电子游戏](../Page/电子游戏.md "wikilink")。
 
 ## 游戏列表

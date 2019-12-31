@@ -1,3 +1,6 @@
+> 本文内容由[High 5 制霸青春](https://zh.wikipedia.org/wiki/High 5 制霸青春)转换而来。
+
+
 《**High 5** **制霸青春**》（），2016年[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，由[羅宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[連晨翔](https://zh.wikipedia.org/wiki/連晨翔 "wikilink")、[Janet](../Page/謝怡芬.md "wikilink")、[邱宇辰](../Page/邱宇辰.md "wikilink")、[程予希](../Page/程予希.md "wikilink")、[A'N'D宇宙](https://zh.wikipedia.org/wiki/林思宇 "wikilink")、[路斯明](../Page/路斯明.md "wikilink")、[高英軒](../Page/高英軒.md "wikilink")領銜主演。\[1\]\[2\]\[3\]\[4\]\[5\] 本劇以高中校園籃球為題材，2016年5月9日開鏡，2016年11月30日殺青，2016年10月15日於[八大綜合台](../Page/八大綜合台.md "wikilink")、[愛奇藝台灣站播出](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")。本劇獲得[中華民國文化部](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")105年度高畫質電視連續劇類補助[新臺幣](../Page/新臺幣.md "wikilink") 1,600萬元5.1聲道補助66萬元。於[第52屆金鐘獎中入圍戲劇節目男主角](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")（[羅宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")）、戲劇節目導演、攝影以及剪接四個獎項。
 
 ## 劇情大綱

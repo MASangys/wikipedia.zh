@@ -1,3 +1,6 @@
+> 本文内容由[模块:Importance](https://zh.wikipedia.org/wiki/模块:Importance)转换而来。
+
+
 local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
 
 local importance = mw.loadData('Module:Importance/data')

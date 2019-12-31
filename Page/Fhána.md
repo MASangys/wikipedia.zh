@@ -1,3 +1,6 @@
+> 本文内容由[Fhána](https://zh.wikipedia.org/wiki/Fhána)转换而来。
+
+
 **fhána**（）為[日本](../Page/日本.md "wikilink")[Lantis](../Page/Lantis.md "wikilink")所屬的音樂團體，由FLEET的佐藤純一、s10rw的yuxuki waga以及Leggysalad的kevin mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加入。fhána主要為[動漫](../Page/動漫.md "wikilink")與[電視動畫發行片頭](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、片尾曲。
 
 ## 經歷

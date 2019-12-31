@@ -1,3 +1,6 @@
+> 本文内容由[A-zone花蓮文化創意產業園區](https://zh.wikipedia.org/wiki/A-zone花蓮文化創意產業園區)转换而来。
+
+
 [花蓮文創園區_Hualian_Cultural_and_Creative_Park_-_panoramio.jpg](https://zh.wikipedia.org/wiki/File:花蓮文創園區_Hualian_Cultural_and_Creative_Park_-_panoramio.jpg "fig:花蓮文創園區_Hualian_Cultural_and_Creative_Park_-_panoramio.jpg") **a-zone花蓮文化創意產業園區**（簡稱**花蓮文創園區**）是位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[花蓮縣](../Page/花蓮縣.md "wikilink")[花蓮市](../Page/花蓮市.md "wikilink")的一座[文化創意產業](../Page/文化創意產業.md "wikilink")園區，是由[文化部管理的五個文化創意園區之一](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")。
 
 ## 歷史

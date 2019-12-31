@@ -1,3 +1,6 @@
+> 本文内容由[模块:Effective protection level](https://zh.wikipedia.org/wiki/模块:Effective protection level)转换而来。
+
+
 local p = {}
 
 \-- Returns the permission required to perform a given action on a given title. -- If no title is specified, the title of the page being displayed is used. function p._main(action, pagename)

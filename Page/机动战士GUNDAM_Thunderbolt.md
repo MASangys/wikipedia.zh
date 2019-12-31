@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM Thunderbolt](https://zh.wikipedia.org/wiki/机动战士GUNDAM Thunderbolt)转换而来。
+
+
 《**机动战士GUNDAM Thunderbolt**》（）可以指[太田垣康男绘制的漫画](https://zh.wikipedia.org/wiki/太田垣康男 "wikilink")，以及由此衍生的动画作品。
 
 该项目的外传作品《沙鼠的肖恩》、网络漫画《机动战士GUNDAM Thunderbolt外传》也有描述。

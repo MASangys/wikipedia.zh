@@ -1,3 +1,6 @@
+> 本文内容由[CSW](https://zh.wikipedia.org/wiki/CSW)转换而来。
+
+
 **CSW**（Collins Scrabble Words）是一個英式英文[Scrabble](../Page/Scrabble.md "wikilink")比賽中使用的官方詞典，自2012年起啟用。前身為SOWPODS，是由詞典OSPD及OSW合組而成並重新排列，SOWPODS並沒有實體版。目前最新版本是CSW 2019。
 
 現時SOWPODS由兩個來源合組，包括：

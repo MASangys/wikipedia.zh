@@ -1,3 +1,6 @@
+> 本文内容由[FOX體育 \(美國\)](https://zh.wikipedia.org/wiki/FOX體育 \(美國\))转换而来。
+
+
 **FOX體育**（Fox Sports，亦作「霍氏體育」）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[福斯廣播公司](../Page/福斯廣播公司.md "wikilink")播出的體育節目的總稱，由[21世紀福斯所有](https://zh.wikipedia.org/wiki/21世紀福斯 "wikilink")。FOX體育開始播出於1994年，現在FOX體育是[國家美式足球聯盟](https://zh.wikipedia.org/wiki/國家美式足球聯盟 "wikilink")（NFL）的主要轉播商之一，此外也是[國家冰球聯盟](../Page/國家冰球聯盟.md "wikilink")、[美國職棒大聯盟](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")、[美國高爾夫公開賽](../Page/美國高爾夫公開賽.md "wikilink")\[1\]、[世界杯足球賽](https://zh.wikipedia.org/wiki/世界杯足球賽 "wikilink")（自2018年開始）等賽事的轉播商。
 
 ## 概要

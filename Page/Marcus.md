@@ -1,3 +1,6 @@
+> 本文内容由[Marcus](https://zh.wikipedia.org/wiki/Marcus)转换而来。
+
+
 **Marcus**（）是[日本](../Page/日本.md "wikilink")一家過去曾經在1990年代後半從事[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電子遊戲企劃製作的公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，代表人是。
 
 ## 概要

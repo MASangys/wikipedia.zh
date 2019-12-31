@@ -1,3 +1,6 @@
+> 本文内容由[Whirlpool](https://zh.wikipedia.org/wiki/Whirlpool)转换而来。
+
+
 **Whirlpool**（ワールプール）是日本ファナティックス公司的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於2006年2月14日成立。2010年1月13日由INFERNO公司（インフェルノ）取得該品牌的營運權。\[1\]
 
 ## 作品列表

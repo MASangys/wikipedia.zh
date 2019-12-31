@@ -1,3 +1,6 @@
+> 本文内容由[NCT](https://zh.wikipedia.org/wiki/NCT)转换而来。
+
+
 **NCT**（）为“**Neo Culture Technology**”的简称，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")于2016年推出的跨国性[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")。成員國籍眾多\[1\]，人數沒有限制，可以自由增減成員（部分成員曾於新概念預備明星平台[SM ROOKIES亮相](../Page/SM_ROOKIES.md "wikilink")），NCT將以這種方式活躍於世界舞台\[2\]，且擁有自己獨特的組合世界觀\[3\]\[4\]\[5\]\[6\]\[7\]。
 
 現有4個分隊，21名成員。問候口號為：「To the world，這裡是NCT！大家好，我們是NCT。」，而分隊問候口號則將分隊名稱代入NCT後。WayV則是：「WayV！大家好，我們是威神V。」。

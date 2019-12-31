@@ -1,3 +1,6 @@
+> 本文内容由[VFTS 352](https://zh.wikipedia.org/wiki/VFTS 352)转换而来。
+
+
 [An_artist’s_impression_of_the_hottest_and_most_massive_touching_double_star.jpg](https://zh.wikipedia.org/wiki/File:An_artist’s_impression_of_the_hottest_and_most_massive_touching_double_star.jpg "fig:An_artist’s_impression_of_the_hottest_and_most_massive_touching_double_star.jpg")\[1\]。\]\] [The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg](https://zh.wikipedia.org/wiki/File:The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg "fig:The_brilliant_star_VFTS_682_in_the_Large_Magellanic_Cloud.jpg")
 
 **VFTS 352**是一個位於[大麥哲倫星系](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")[蜘蛛星雲內的](https://zh.wikipedia.org/wiki/蜘蛛星雲 "wikilink")[密接聯星](../Page/密接聯星.md "wikilink")，距離地球約\[2\]。該聯星系是至今質量最大，並且光譜型是最早期型的密接聯星\[3\]。

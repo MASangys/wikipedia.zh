@@ -1,3 +1,6 @@
+> 本文内容由[霹靂TBG足球會](https://zh.wikipedia.org/wiki/霹靂TBG足球會)转换而来。
+
+
 **霹靂TBG足球會**（）是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[霹靂州](../Page/霹靂州.md "wikilink")的足球會，於1951年成立，現時參與[馬來西亞超級足球聯賽](../Page/馬來西亞超級足球聯賽.md "wikilink")。
 
 ## 簡歷

@@ -1,3 +1,6 @@
+> 本文内容由[Game Boy游戏列表](https://zh.wikipedia.org/wiki/Game Boy游戏列表)转换而来。
+
+
 本列表共有1047款**[Game Boy游戏](../Page/Game_Boy.md "wikilink")**。\[1\]
 
 ## 游戏列表

@@ -1,3 +1,6 @@
+> 本文内容由[Locate](https://zh.wikipedia.org/wiki/Locate)转换而来。
+
+
 **`locate`**是最早出现于1983年的[Unix实用程序](../Page/UNIX.md "wikilink")，\[1\]用于在[文件系统](../Page/文件系统.md "wikilink")上搜索[電腦檔案](../Page/電腦檔案.md "wikilink")。它通过由**`updatedb`**或一个[守护进程](../Page/守护进程.md "wikilink")生成并压缩的预建[数据库](../Page/数据库.md "wikilink")搜索文件。它的运行速度显著快于`find`，但需要对数据库进行定期更新。locate为了显著的运行速度（尤其在大型文件系统上）而牺牲了效率（即使没有用户需要时也会检索文件系统）以及结果的准确性（数据库不会[实时更新](../Page/实时计算.md "wikilink")）。
 
 ## 参考资料

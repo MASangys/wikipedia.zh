@@ -1,3 +1,6 @@
+> 本文内容由[KSTAR](https://zh.wikipedia.org/wiki/KSTAR)转换而来。
+
+
 **KSTAR**（）是[韩国大田研究基地国家聚变研究所的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[超导](https://zh.wikipedia.org/wiki/超导 "wikilink")[托卡马克](../Page/托卡马克.md "wikilink")[核聚变装置](https://zh.wikipedia.org/wiki/核聚变 "wikilink")，被称为“韩国太阳”，它是[国际热核聚变实验反应堆](../Page/国际热核聚变实验反应堆.md "wikilink")（ITER）项目的一部分。KSTAR是世界上首一个采用新型超导磁体（Nb<sub>3</sub>Sn）材料产生[磁场的全超导聚变装置](https://zh.wikipedia.org/wiki/磁场 "wikilink")，磁场强度是使用[铌](../Page/铌.md "wikilink")[钛](../Page/钛.md "wikilink")系统核聚变装置的3倍多。核聚变相比[核裂变](../Page/核裂变.md "wikilink")释放的能量更大，而且[放射性污染几乎为零](https://zh.wikipedia.org/wiki/放射性污染 "wikilink")，其原料可以直接取于[海水](../Page/海水.md "wikilink")，是理想的能源方式\[1\]\[2\]。KSTAR的成功为韩国的利用核聚变发电奠定了基石。韩国计划在以后30年左右开始利用核聚变发电\[3\]\[4\]\[5\]。
 
 在2012年，它成功地维持高温等离子体（约5000万摄氏度）17秒。

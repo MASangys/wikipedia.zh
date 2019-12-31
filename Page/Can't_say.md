@@ -1,3 +1,6 @@
+> 本文内容由[Can\'t say](https://zh.wikipedia.org/wiki/Can\'t say)转换而来。
+
+
 《**Can't say**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第二張日語單曲\[1\]、首張原創日語單曲\[2\]，由（）、[徐定真](https://zh.wikipedia.org/wiki/徐定真 "wikilink")（）、[金斗賢](https://zh.wikipedia.org/wiki/金斗賢 "wikilink")（）作曲；SHOW作詞，並在2015年9月9日以三個不同版本推出\[3\]。
 
 ## 背景

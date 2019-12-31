@@ -1,3 +1,6 @@
+> 本文内容由[CA集團](https://zh.wikipedia.org/wiki/CA集團)转换而来。
+
+
 **CA集團**（，\[1\]），是日本最大的[成人視訊製造商](../Page/色情片製作公司.md "wikilink")，總部設在[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")。又被稱作「**アウトビジョン**」（*Outvision*）。日本大型[電子商務網站](https://zh.wikipedia.org/wiki/電子商務 "wikilink")「[DMM.com](../Page/DMM.com.md "wikilink")」也是集團旗下公司之一\[2\]。創辦人為現任「[DMM](../Page/DMM.com.md "wikilink")」[會長](https://zh.wikipedia.org/wiki/會長 "wikilink")。
 
 ## 概要

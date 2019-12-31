@@ -1,3 +1,6 @@
+> 本文内容由[AtelierRoku07](https://zh.wikipedia.org/wiki/AtelierRoku07)转换而来。
+
+
 **株式會社AtelierRoku07**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，專門從事[動畫美術背景製作的日本動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1969年，舊名「AtelierRoku」。
 
 ## 概要、沿革

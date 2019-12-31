@@ -1,3 +1,6 @@
+> 本文内容由[境界之詩 Tactics](https://zh.wikipedia.org/wiki/境界之詩 Tactics)转换而来。
+
+
 《**境界之詩 Tactics**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發商 "wikilink")[希娜科藝自行研發](https://zh.wikipedia.org/wiki/希娜科藝 "wikilink")、營運的手機遊戲\[1\]，玩法為棋盤回合式的[策略角色扮演遊戲](https://zh.wikipedia.org/wiki/策略角色扮演遊戲 "wikilink")，於2014年[東京電玩展中公開亮相後](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")，經歷了一年的開發期，在2015年8月第二次封閉測試後公開測試。\[2\]
 
 ## 遊戲玩法

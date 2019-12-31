@@ -1,3 +1,6 @@
+> 本文内容由[RedLynx](https://zh.wikipedia.org/wiki/RedLynx)转换而来。
+
+
 **RedLynx**，是芬兰一家游戏开发商和发行商，总部设在芬兰[赫尔辛基](../Page/赫尔辛基.md "wikilink")，成立于2000年，目前为[育碧](../Page/育碧.md "wikilink")所拥有。
 
 ## 历史

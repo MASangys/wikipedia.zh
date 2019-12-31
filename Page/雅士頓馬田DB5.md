@@ -1,3 +1,6 @@
+> 本文内容由[雅士頓馬田DB5](https://zh.wikipedia.org/wiki/雅士頓馬田DB5)转换而来。
+
+
 **雅士頓馬田DB5**（，簡稱DB5），是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[跑車品牌](https://zh.wikipedia.org/wiki/跑車 "wikilink")[雅士頓·馬田製造](https://zh.wikipedia.org/wiki/雅士頓·馬田 "wikilink")，由[意大利](../Page/意大利.md "wikilink")著名設計工作室Carrozzeria Touring Superleggera所設計的[豪華旅行車](../Page/豪華旅行車.md "wikilink")。DB5於1963年推出市場，共生產了1,023輛，取代原有的，DB為當時公司東主（）的簡稱。DB5曾經亮相於1964年占士邦電影《[鐵金剛大戰金手指](../Page/鐵金剛大戰金手指.md "wikilink")》，是較為知名的[007的座駕](https://zh.wikipedia.org/wiki/007的座駕 "wikilink")\[1\]。
 
 ## 占士邦電影

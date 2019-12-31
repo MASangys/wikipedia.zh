@@ -1,3 +1,6 @@
+> 本文内容由[Toxicity \(歌曲\)](https://zh.wikipedia.org/wiki/Toxicity \(歌曲\))转换而来。
+
+
 "**Toxicity**" 是亞美尼亞裔[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[重金屬樂隊](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[墮落體制的EP](https://zh.wikipedia.org/wiki/墮落體制 "wikilink")，於2002年發行。此曲同時收錄於[同名專輯](../Page/Toxicity_\(專輯\).md "wikilink")。
 被稱作新金屬的經典之作(Nu-Metal Classic)\[1\]。
 

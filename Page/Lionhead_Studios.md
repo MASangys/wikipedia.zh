@@ -1,3 +1,6 @@
+> 本文内容由[Lionhead Studios](https://zh.wikipedia.org/wiki/Lionhead Studios)转换而来。
+
+
 **Lionhead Studios**（有译为“狮头工作室”），是一家英国的电子游戏开发商，由英国著名游戏制作人[彼得·莫利纽克斯创立](https://zh.wikipedia.org/wiki/彼得·莫利纽克斯 "wikilink")，在2006年4月被微软收购，并开始脱离[Bullfrog Productions](https://zh.wikipedia.org/wiki/Bullfrog_Productions "wikilink")。Lionhead Studios第一款游戏是《黑与白》，由[艺电](../Page/艺电.md "wikilink")发行。该工作室以Mark Webley的仓鼠命名。2016年3月，微软宣布取消由Lionhead Studios开发多年的多人网络游戏《》，并宣布将考虑关闭工作室；4月29日，微软正式宣布关闭Lionhead Studios。\[1\]\[2\]
 
 ## 游戏

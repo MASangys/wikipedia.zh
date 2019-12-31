@@ -1,3 +1,6 @@
+> 本文内容由[HTML-Kit](https://zh.wikipedia.org/wiki/HTML-Kit)转换而来。
+
+
 **HTML-Kit**是由chami.com制作的[Microsoft Windows专有](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[HTML编辑器](../Page/HTML编辑器.md "wikilink")。这个应用程序是一个全功能的HTML编辑器，设计用于编辑、设计版式、验证、预览和发布[HTML](../Page/HTML.md "wikilink")、[XHTML](../Page/XHTML.md "wikilink")和[XML](../Page/XML.md "wikilink")语言的[web页面](https://zh.wikipedia.org/wiki/web "wikilink")。
 
 HTML-Kit是免费软件，但是额外功能是向注册用户收费的。

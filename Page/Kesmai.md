@@ -1,3 +1,6 @@
+> 本文内容由[Kesmai](https://zh.wikipedia.org/wiki/Kesmai)转换而来。
+
+
 **Kesmai**，是游戏开发商和发行商，在1981年由凯尔顿弗林和约翰·泰勒成立\[1\]。该公司最出名的游戏是在1987年推出战斗飞行模拟游戏空中勇士，该工作室还开发了一个基于ASCII的[MUD](../Page/MUD.md "wikilink")，《Island of Kesmai》，该游戏在CompuServe上运行。
 
 1994年，该公司被默多克鲁伯特的新闻公司收购\[2\]\[3\]。该公司不断开发[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")，如《空中勇士2》和《Legends of Kesmai》。该公司将游戏通过[AOL发布](https://zh.wikipedia.org/wiki/AOL "wikilink")，并与其他三个发行商游戏服务形成一个游戏服务平台GameStorm。\[4\]

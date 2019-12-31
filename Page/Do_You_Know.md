@@ -1,3 +1,6 @@
+> 本文内容由[Do You Know](https://zh.wikipedia.org/wiki/Do You Know)转换而来。
+
+
 《**Do You Know**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方皓玟](../Page/方皓玟.md "wikilink")的首張個人國語專輯，於2002年7月16日推出。\[1\]\[2\]
 
 ## 曲目

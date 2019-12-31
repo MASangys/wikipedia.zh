@@ -1,3 +1,6 @@
+> 本文内容由[HTTP公钥固定](https://zh.wikipedia.org/wiki/HTTP公钥固定)转换而来。
+
+
 **HTTP公钥固定**（又称**HTTP公钥钉扎**，，缩写**HPKP**）\[1\]是[HTTPS网站防止攻击者利用](https://zh.wikipedia.org/wiki/HTTPS "wikilink")[数字证书认证机构](https://zh.wikipedia.org/wiki/数字证书认证机构 "wikilink")（CA）错误签发的[证书进行](../Page/公開金鑰認證.md "wikilink")[中间人攻击](../Page/中间人攻击.md "wikilink")的一种安全机制，用于预防CA遭受入侵或其他会造成CA签发未授权证书的情况。采用公钥固定时，网站会提供已授权[公钥的](https://zh.wikipedia.org/wiki/公钥 "wikilink")[哈希列表](https://zh.wikipedia.org/wiki/哈希 "wikilink")，指示客户端在后续通讯中只接受列表上的公钥。
 
 ## 工作原理

@@ -1,3 +1,6 @@
+> 本文内容由[Evergreen \(GENERATIONS單曲\)](https://zh.wikipedia.org/wiki/Evergreen \(GENERATIONS單曲\))转换而来。
+
+
 《**Evergreen**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")8张[单曲](../Page/单曲.md "wikilink")，於2015年5月13日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

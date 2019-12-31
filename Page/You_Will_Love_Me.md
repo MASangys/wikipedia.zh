@@ -1,3 +1,6 @@
+> 本文内容由[You Will Love Me](https://zh.wikipedia.org/wiki/You Will Love Me)转换而来。
+
+
 《**You Will Love Me**》（），為[韓國自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2015年10月29日起於與TRENDY同步首播的電視劇，同時本劇為Drama H首部自製電視劇。本劇為[吳昶錫](../Page/吳昶錫.md "wikilink")與[李泰林](../Page/李泰林.md "wikilink")時隔6個月繼《[我的心一閃一閃](../Page/我的心一閃一閃.md "wikilink")》後再度合作。故事講述一名被誤以為是男生的女生，在社交網路上成了傳說級的戀愛高手，給毫無戀愛經驗的「屌絲男」來個脫胎換骨的戀愛養成計畫大改造。\[1\]
 
 ## 演員陣容

@@ -1,3 +1,6 @@
+> 本文内容由[世界貿易中心車站 \(PATH\)](https://zh.wikipedia.org/wiki/世界貿易中心車站 \(PATH\))转换而来。
+
+
 **世界貿易中心車站**（）是位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[曼哈頓下城的](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[捷運車站](../Page/捷運車站.md "wikilink")，屬於[世界貿易中心建築群的一部分](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")，為[紐新航港局過哈德遜河捷運](../Page/紐新航港局過哈德遜河捷運.md "wikilink")（PATH）的東端[總站](https://zh.wikipedia.org/wiki/總站 "wikilink")，也是PATH系統的紐華克賓州車站–世貿中心、霍伯肯–世貿中心等2個[運行系統的端點站](https://zh.wikipedia.org/wiki/運行系統 "wikilink")。
 
 它最初以****（）為名於1909年7月19日開始營運，後來隨著[世界貿易中心的興建而在](https://zh.wikipedia.org/wiki/世界貿易中心 "wikilink")1971年轉用新站、同時改為現名。該車站在[九一一襲擊事件時遭到毀壞](https://zh.wikipedia.org/wiki/九一一襲擊事件 "wikilink")，直到2003年啟用臨時站才恢復營運。2016年3月4日以**世界貿易中心交通樞紐**（）為名啟用。新車站由西班牙建築師[聖地牙哥·卡拉特拉瓦](../Page/聖地牙哥·卡拉特拉瓦.md "wikilink")設計，設計概念稱為「眼窗」（Oculus），是從一位孩童手中釋放鴿子而來，白色建物外觀矗立在金融區世貿中心1號大樓等摩天大樓之間，突出的造型獲[CNN評為](https://zh.wikipedia.org/wiki/CNN "wikilink")2016年9大新地標之一\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[ICHEF](https://zh.wikipedia.org/wiki/ICHEF)转换而来。
+
+
 **iCHEF**為一餐廳[行動銷售時點情報系統](../Page/行動銷售時點情報系統.md "wikilink")（），於2012年由資廚管理顧問股份有限公司（iCHEF Co., Ltd.）發表，為一[行動應用程式](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")（[app](https://zh.wikipedia.org/wiki/app "wikilink")），目前以[iOS為主要下載平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。運作模式為多台[iPad操作](https://zh.wikipedia.org/wiki/iPad "wikilink")，從點餐、結帳、報表管理，完成餐廳服務。餐廳在網路斷線的離線模式，會同步將資料儲存至[雲端](https://zh.wikipedia.org/wiki/雲端 "wikilink")。透過[雲端處理交易資料](https://zh.wikipedia.org/wiki/雲端 "wikilink")，自動產出營業報表及各類別菜單銷售情況，進行自動分析。系統服務模式在餐廳內需[iPad](https://zh.wikipedia.org/wiki/iPad "wikilink")、出單機、以及[Wi-Fi](../Page/Wi-Fi.md "wikilink")，避免傳統電腦或其他機體設備的空間佔據。\[1\]在使用架構上，在使用者的[智慧型電話或](https://zh.wikipedia.org/wiki/智慧型電話 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")進行操作介面設置及營業報表檢視，在iPad上進行餐廳內的點餐流程，包括提醒客人等待時間、桌位安排及點菜、口味標記、出餐確認、以及結帳或折扣，系統進行自動運算並產生報表。\[2\]
 
 ## 歷史沿革

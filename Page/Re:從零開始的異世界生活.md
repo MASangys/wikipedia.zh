@@ -1,3 +1,6 @@
+> 本文内容由[Re:從零開始的異世界生活](https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活)转换而来。
+
+
 是[長月達平](../Page/長月達平.md "wikilink")所作的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，簡稱，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[大塚真一郎繪畫](https://zh.wikipedia.org/wiki/大塚真一郎 "wikilink")。現已出版本篇20冊\[1\]、短篇集4冊\[2\]和外傳3冊\[3\]。本為投稿網站《[成為小說家吧](../Page/成為小說家吧.md "wikilink")》連載的[網絡小說](../Page/網絡小說.md "wikilink")，當時[筆名](../Page/筆名.md "wikilink")是[鼠色貓](https://zh.wikipedia.org/wiki/鼠色貓 "wikilink")，後來在2014年經由[Media Factory整理出版](../Page/Media_Factory.md "wikilink")。繁體中文版由[青文出版社](../Page/青文出版社.md "wikilink")發行及出版；簡體中文版則為[天聞角川發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")，第1-2卷由[台海出版社出版](https://zh.wikipedia.org/wiki/台海出版社 "wikilink")，第3-6卷由[雲南美術出版社出版](https://zh.wikipedia.org/wiki/雲南美術出版社 "wikilink")，第7卷開始改由[中國電影出版社出版](https://zh.wikipedia.org/wiki/中國電影出版社 "wikilink")。2015年由《這本Web小說真厲害！》導覽書票選為第二名\[4\]。
 
 漫畫分別有繪製，《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》連載的《Re:從零開始的異世界生活 第一章 王都的一日篇》、《Re:從零開始的異世界生活 第三章 Truth of Zero》；及《[月刊BIG GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")》連載，由楓月誠繪圖的《Re:從零開始的異世界生活 第二章 宅邸的一周篇》的版本。

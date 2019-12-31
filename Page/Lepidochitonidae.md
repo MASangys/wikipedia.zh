@@ -1,3 +1,6 @@
+> 本文内容由[Lepidochitonidae](https://zh.wikipedia.org/wiki/Lepidochitonidae)转换而来。
+
+
 ******是[多板纲](../Page/多板纲.md "wikilink")[新石鳖亞綱](https://zh.wikipedia.org/wiki/新石鳖亞綱 "wikilink")[鳞侧石鳖目](../Page/鳞侧石鳖目.md "wikilink")的一個[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")。
 
 ## 分類

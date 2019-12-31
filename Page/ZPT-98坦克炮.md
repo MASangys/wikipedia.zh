@@ -1,3 +1,6 @@
+> 本文内容由[ZPT-98坦克炮](https://zh.wikipedia.org/wiki/ZPT-98坦克炮)转换而来。
+
+
 **ZPT-98**是一門由[中国研製和生產的單管](https://zh.wikipedia.org/wiki/中国 "wikilink")[滑膛式](../Page/滑膛槍炮.md "wikilink")[坦克炮](../Page/坦克炮.md "wikilink")，是[前苏联](../Page/苏联.md "wikilink")／[俄罗斯](../Page/俄罗斯.md "wikilink")[2A46M坦克炮的仿製型](../Page/2A46坦克炮.md "wikilink")，並安裝在現代中國生產的[主戰坦克以上](https://zh.wikipedia.org/wiki/坦克#主戰坦克 "wikilink")，發射滑膛[炮彈](../Page/炮彈.md "wikilink")。
 
 ## 研發歷史

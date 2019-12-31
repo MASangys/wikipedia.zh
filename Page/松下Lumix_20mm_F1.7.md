@@ -1,3 +1,6 @@
+> 本文内容由[松下Lumix 20mm F1.7](https://zh.wikipedia.org/wiki/松下Lumix 20mm F1.7)转换而来。
+
+
 **松下Lumix G 20mm F1.7 ASPH.镜头**是一款应用于[微4/3系统的](https://zh.wikipedia.org/wiki/微4/3系统 "wikilink")[定焦](../Page/定焦镜头.md "wikilink")[饼干镜头](../Page/饼干镜头.md "wikilink")，由松下公司最早于2008年Photokina上披露\[1\]，并于2009年与[DMC-GF1同期发布](https://zh.wikipedia.org/wiki/松下_Lumix_DMC-GF1 "wikilink")\[2\]。
 
 由于其小巧的体积和不俗的成像，爱好者中通常简称为“20饼”，或者“神饼”。

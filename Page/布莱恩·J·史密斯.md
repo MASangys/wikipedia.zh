@@ -1,3 +1,6 @@
+> 本文内容由[布莱恩·J·史密斯](https://zh.wikipedia.org/wiki/布莱恩·J·史密斯)转换而来。
+
+
 **布莱恩·J·史密斯**（，），美国演员，在2010年军事[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")《[星际之门：宇宙](https://zh.wikipedia.org/wiki/星际之门：宇宙 "wikilink")》\[1\]和2015年科幻剧情类网络电视连续剧《[超感八人组](https://zh.wikipedia.org/wiki/超感猎杀 "wikilink")》中出演主要角色，于2014年获得美国[托尼奖](https://zh.wikipedia.org/wiki/托尼奖 "wikilink")提名。
 
 ## 早期生活和教育状况

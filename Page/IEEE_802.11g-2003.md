@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 802.11g-2003](https://zh.wikipedia.org/wiki/IEEE 802.11g-2003)转换而来。
+
+
 **802.11g标准**，全称为**IEEE 802.11g-2003**是对[802.11原始标准](../Page/IEEE_802.11_\(原始标准\).md "wikilink")[物理层](../Page/物理层.md "wikilink")上的一个修订。802.11g工作在2.4G[信道](../Page/信道.md "wikilink")上，物理层速率提升至54[Mbps](../Page/比特率.md "wikilink")。该规范已在世界上得到了广泛的应用。相关的修改已经集成进IEEE 802.11-2007和后续版本，成为[802.11协议的一部分](https://zh.wikipedia.org/wiki/802.11 "wikilink")。
 
 ## 描述

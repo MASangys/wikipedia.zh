@@ -1,3 +1,6 @@
+> 本文内容由[Dear My Friends](https://zh.wikipedia.org/wiki/Dear My Friends)转换而来。
+
+
 《**Dear My Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年5月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》[盧熙京](../Page/盧熙京.md "wikilink")作家與《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](../Page/我的秘密飯店.md "wikilink")》[洪鍾燦](../Page/洪鍾燦.md "wikilink")導演聯手打造的作品。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
 
 ## 演員陣容

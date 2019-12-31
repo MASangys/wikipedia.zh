@@ -1,3 +1,6 @@
+> 本文内容由[Venom Games](https://zh.wikipedia.org/wiki/Venom Games)转换而来。
+
+
 **Venom Games**，是总部设在纽卡斯尔的英国游戏开发商。
 
 Venom Games成立于2003年1月。2004年9月，[Take-Two公司将该公司收购](https://zh.wikipedia.org/wiki/Take-Two "wikilink")。\[1\]2008年7月，该工作室被2K关闭，\[2\]此举为了逐步减少其西欧发展成本从而增加更具效益的东欧和亚洲生产成本。

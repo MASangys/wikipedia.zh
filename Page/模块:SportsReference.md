@@ -1,3 +1,6 @@
+> 本文内容由[模块:SportsReference](https://zh.wikipedia.org/wiki/模块:SportsReference)转换而来。
+
+
 \-- This is the code to insert a template to indicate that the link is in English: -- frame:expandTemplate{ title = "LANGUAGETEMPLATENAME", args = { "en" } } -- It is obviously not used in the English Wikipedia itself. local function linktext(s)
 
 `   entity = mw.wikibase.getEntityObject()`

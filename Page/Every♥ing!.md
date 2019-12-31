@@ -1,3 +1,6 @@
+> 本文内容由[Every♥ing!](https://zh.wikipedia.org/wiki/Every♥ing!)转换而来。
+
+
 **every♥ing\!**（エブリング）由兩位聲優，[山崎惠理](../Page/山崎惠理.md "wikilink")、[木戶衣吹](../Page/木戶衣吹.md "wikilink")所組成的團體。
 
 ## 概要

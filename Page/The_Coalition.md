@@ -1,3 +1,6 @@
+> 本文内容由[The Coalition](https://zh.wikipedia.org/wiki/The Coalition)转换而来。
+
+
 **The Coalition**，是微软旗下一家位于加拿大温哥华的游戏开发工作室，前身为Zipline Studios、微软游戏工作室温哥华分部（Microsoft Game Studios Vancouver）和黑图斯克工作室（Black Tusk Studios）。\[1\]2012年11月，工作室更名为黑图斯克工作室（Black Tusk Studios），并主要负责创作《光环》的相关作品。\[2\]更名前，该工作室为Microsoft Flight和一个Kinect游戏进行工作。\[3\]
 
 2014年1月27日，微软已从[Epic Games收购游戏系列](../Page/Epic_Games.md "wikilink")《战争机器》的版权，黑图斯克工作室将继续开发该系列的游戏。\[4\]\[5\] 作为《战争机器》收购的一部分，微软聘请了罗德·弗格森（前三部《战争机器》的制作人兼导演）。\[6\]2015年6月3日，弗格森在Xbox Wire上宣布将黑图斯克工作室更名为The Coalition。\[7\]

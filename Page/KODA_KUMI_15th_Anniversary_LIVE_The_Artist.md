@@ -1,3 +1,6 @@
+> 本文内容由[KODA KUMI 15th Anniversary LIVE The Artist](https://zh.wikipedia.org/wiki/KODA KUMI 15th Anniversary LIVE The Artist)转换而来。
+
+
 《KODA KUMI 15th Anniversary LIVE The Artist》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年於日本舉辦的15周年限定演唱會。
 
 ## 簡介

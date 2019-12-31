@@ -1,3 +1,6 @@
+> 本文内容由[時間的B理論](https://zh.wikipedia.org/wiki/時間的B理論)转换而来。
+
+
 **時間的B理論**（）是兩個時間的理論立場中的其中一個立場的名稱。相對於表示時間能在一條有序路線上運行之[時間的A理論](https://zh.wikipedia.org/wiki/時間的A理論 "wikilink")，B理論者論證時間的流動是錯覺，過去、現在以及未來是同樣實在的，且時間是無時態的。這將意味著時間的改變並非一個客觀實在特徵。
 
 B理論常被描繪成是根據於[理論物理學的](https://zh.wikipedia.org/wiki/理論物理學 "wikilink")，例如B理論中的[永恆論](../Page/永恆論.md "wikilink")。

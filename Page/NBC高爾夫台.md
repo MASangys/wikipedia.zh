@@ -1,3 +1,6 @@
+> 本文内容由[NBC高爾夫台](https://zh.wikipedia.org/wiki/NBC高爾夫台)转换而来。
+
+
 **高爾夫台**（**Golf Channel**，1995年至2007年曾名為The Golf Channel\[1\]）是[美國的一個有線電視和衛星電視頻道](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[NBC環球](../Page/NBC環球.md "wikilink")旗下的[NBC體育集團所有](https://zh.wikipedia.org/wiki/NBC體育集團 "wikilink")。高爾夫台專門播出有關高爾夫的節目，創建於亞拉巴馬州伯明翰\[2\]。現在高爾夫台總部位於佛羅里達州奧蘭多。2015年2月，高爾夫台的收視戶有79,250,000，佔美國電視用戶總數的68.1%\[3\]。高爾夫台開始播出於1995年\[4\]\[5\]\[6\]。
 
 ## 參考資料

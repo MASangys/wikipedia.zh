@@ -1,3 +1,6 @@
+> 本文内容由[LG G系列](https://zh.wikipedia.org/wiki/LG G系列)转换而来。
+
+
 **LG G系列**是[LG電子](../Page/LG電子.md "wikilink")旗下的[LG Optimus系列](https://zh.wikipedia.org/wiki/LG_Optimus "wikilink")。
 
 ## 旗下產品

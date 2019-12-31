@@ -1,3 +1,6 @@
+> 本文内容由[畅销PC游戏列表](https://zh.wikipedia.org/wiki/畅销PC游戏列表)转换而来。
+
+
   -
     [Gamepad.svg](https://zh.wikipedia.org/wiki/File:Gamepad.svg "fig:Gamepad.svg")这是一个有关[电子游戏](../Page/电子游戏.md "wikilink")的[未完成列表](https://zh.wikipedia.org/wiki/Category:未完成列表 "wikilink")，内容可能随时出现变动，所以这个列表可能永远也不会補充完整。歡迎您'''隨時<span class="plainlinks">\[ 修改\]</span>并[列明来源](https://zh.wikipedia.org/wiki/Wikipedia:列明来源 "wikilink")。
 

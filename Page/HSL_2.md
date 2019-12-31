@@ -1,3 +1,6 @@
+> 本文内容由[HSL 2](https://zh.wikipedia.org/wiki/HSL 2)转换而来。
+
+
 **HSL 2**（，，）是一條位於[魯汶及](https://zh.wikipedia.org/wiki/魯汶 "wikilink")[昂斯的比利時高速鐵路](https://zh.wikipedia.org/wiki/昂斯 "wikilink")，全長64公里，全數位於高速專線，自2002年12月15日開始營業。
 
 前往德國邊境的[HSL 3已經完工通車](../Page/HSL_3.md "wikilink")，來往[布魯塞爾南站和](https://zh.wikipedia.org/wiki/布魯塞爾南站 "wikilink")[科隆火車總站最短只需](https://zh.wikipedia.org/wiki/科隆火車總站 "wikilink")1小時47分鐘。大力士高速列車、城際特快列車以及比利時鐵路的城際鐵路服務均會使用HSL 2。

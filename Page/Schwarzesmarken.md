@@ -1,3 +1,6 @@
+> 本文内容由[Schwarzesmarken](https://zh.wikipedia.org/wiki/Schwarzesmarken)转换而来。
+
+
 是由著、擔任插畫的日本[輕小說](../Page/輕小說.md "wikilink")作品，最初在[TECH GIAN連載](../Page/TECH_GIAN.md "wikilink")，由enterbrain發售，全部7集。\[1\]Schwarzesmarken是[Muv-Luv](../Page/Muv-Luv.md "wikilink")（マブラヴ）系列的[衍生作品](../Page/衍生作品.md "wikilink")，除了輕小說外也有發售電腦遊戲\[2\]，2016年1月開始播放電視動畫。Schwarzes-{}-marken是[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")，意思是「黑色标记」。日本又簡稱為「」或「柴犬（）」。\[3\]\[4\]
 
 ## 設定

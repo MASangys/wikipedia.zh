@@ -1,3 +1,6 @@
+> 本文内容由[F理論](https://zh.wikipedia.org/wiki/F理論)转换而来。
+
+
 **F理論**（F-theory）為[弦論衍生出的詞彙](https://zh.wikipedia.org/wiki/弦論 "wikilink")，可視為[M理論](https://zh.wikipedia.org/wiki/M理論 "wikilink")（Mother-theory）的伴侶，但意義則有所不同。大略來說，F理論是源自[IIB型弦理論](https://zh.wikipedia.org/wiki/第一型弦理論 "wikilink") ，並藉由[非微擾方式成立的](https://zh.wikipedia.org/wiki/微擾理論 "wikilink")。此外，IIB型弦論則是成效於[軸子-伸縮子場](https://zh.wikipedia.org/wiki/軸子-伸縮子場 "wikilink")（axio-dilaton field)。
 
 ## 概念

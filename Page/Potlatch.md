@@ -1,3 +1,6 @@
+> 本文内容由[Potlatch](https://zh.wikipedia.org/wiki/Potlatch)转换而来。
+
+
 **Potlatch**是一個利用[Adobe Flash來編輯](../Page/Adobe_Flash.md "wikilink")[開放街圖](../Page/開放街圖.md "wikilink")地圖資料的工具。它是內嵌於開放街圖網頁的兩個編輯器的其中一個。
 
 Potlatch 1 \[1\]在2006年中釋出\[2\]並且曾是在開放街圖主網頁上的預設編輯器，一直到其在2011年4月被Potlatch 2取代為止\[3\]。

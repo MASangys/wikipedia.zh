@@ -1,3 +1,6 @@
+> 本文内容由[Mitha](https://zh.wikipedia.org/wiki/Mitha)转换而来。
+
+
 **Mitha**是一位[日本](../Page/日本.md "wikilink")女性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[原畫師](https://zh.wikipedia.org/wiki/原畫師 "wikilink")。出身於[東京都](../Page/東京都.md "wikilink")。
 
 ## 作品列表

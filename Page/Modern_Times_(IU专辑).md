@@ -1,3 +1,6 @@
+> 本文内容由[Modern Times \(IU专辑\)](https://zh.wikipedia.org/wiki/Modern Times \(IU专辑\))转换而来。
+
+
 《**Modern Times**》是韩国[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")[IU的第三张韩语录音室专辑](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[℃maj9](https://zh.wikipedia.org/wiki/℃maj9)转换而来。
+
+
 《**℃maj9**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第8枚原創專輯。於2015年12月23日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

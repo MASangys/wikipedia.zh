@@ -1,3 +1,6 @@
+> 本文内容由[模块:Escape](https://zh.wikipedia.org/wiki/模块:Escape)转换而来。
+
+
 local escape = {
 
 `   char = function(self, chr, args)`

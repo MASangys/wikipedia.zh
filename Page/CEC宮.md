@@ -1,3 +1,6 @@
+> 本文内容由[CEC宮](https://zh.wikipedia.org/wiki/CEC宮)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Palacio_CEC,_Bucarest,_Rumanía,_2016-05-29,_DD_65.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Palacio_CEC,_Bucarest,_Rumanía,_2016-05-29,_DD_91-93_HDR.jpg "fig:缩略图") **CEC宮**（）是位於[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")首都[布加勒斯特](../Page/布加勒斯特.md "wikilink")的一座建築，修建於1900年。CEC宮現址在歷史上曾是一處教堂，但在1875年被拆除。CEC宮於1897年6月8日開始修建，建設當時是一座銀行總部。CEC宮是一座[折衷主義建築](https://zh.wikipedia.org/wiki/折衷主義建築 "wikilink")。雖然現在CEC宮已經被CEC銀行出售給布加勒斯特市政府，但CEC銀行仍然使用CEC宮作為辦公場所。
 
 ## 參考資料

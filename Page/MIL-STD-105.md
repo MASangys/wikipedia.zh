@@ -1,3 +1,6 @@
+> 本文内容由[MIL-STD-105](https://zh.wikipedia.org/wiki/MIL-STD-105)转换而来。
+
+
 **MIL-STD-105**是[美國國防部軍用標準提供產品](https://zh.wikipedia.org/wiki/美國國防部 "wikilink")[抽樣](../Page/抽樣.md "wikilink")標準，來自於[修華特](https://zh.wikipedia.org/wiki/修華特 "wikilink")(Shewhart)，[哈利羅米格和](https://zh.wikipedia.org/wiki/哈利羅米格 "wikilink")[Dodge Roming抽樣檢驗理論和數學公式](https://zh.wikipedia.org/wiki/Dodge_Roming "wikilink")。除了應用軍事採購程序外，也是世界上應用最普及的抽樣標準，目前最新版本為1989年改版的**MIL-STD-105E**。
 
 ## 歷史

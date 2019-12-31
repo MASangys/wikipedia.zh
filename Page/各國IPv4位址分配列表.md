@@ -1,3 +1,6 @@
+> 本文内容由[各國IPv4位址分配列表](https://zh.wikipedia.org/wiki/各國IPv4位址分配列表)转换而来。
+
+
 此表為**各國IPv4位址分配列表**，該表列出252個國家IPv4位址的分配數量，其中除[聯合國會員國外](https://zh.wikipedia.org/wiki/聯合國會員國 "wikilink")，也包含[教廷](../Page/教廷.md "wikilink")（[梵蒂岡](https://zh.wikipedia.org/wiki/梵蒂岡 "wikilink")）、[科索沃](../Page/科索沃.md "wikilink")以及[中華民國](../Page/中華民國.md "wikilink")等非聯合國會員國。該列表統計截至於2012年4月2日。
 
 [IPv4](../Page/IPv4.md "wikilink")協定版本中有2<sup>32</sup>個（超過40億個）[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。其中將近6億個位址被保留而且不能使用於公共網域中\[1\]，其餘由[網際網路號碼分配局](https://zh.wikipedia.org/wiki/網際網路號碼分配局 "wikilink")（IANA）透過[区域互联网注册管理机构](../Page/区域互联网注册管理机构.md "wikilink")（RIRs）來於各個國家分配位址\[2\]。

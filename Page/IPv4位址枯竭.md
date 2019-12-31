@@ -1,3 +1,6 @@
+> 本文内容由[IPv4位址枯竭](https://zh.wikipedia.org/wiki/IPv4位址枯竭)转换而来。
+
+
 [Regional_Internet_Registries_world_map.svg](https://zh.wikipedia.org/wiki/File:Regional_Internet_Registries_world_map.svg "fig:Regional_Internet_Registries_world_map.svg")
 
 **IPv4地址枯竭**（），又稱**IPv4地址耗盡**，為[網際網路通訊協定第四版](../Page/IPv4.md "wikilink")（IPv4）可使用的未核發[位址完全用盡的狀況](../Page/IP地址.md "wikilink")。從1980年代晚期開始，已經開始意識到這個問題將會發生。[IPv6](../Page/IPv6.md "wikilink")的研發及部署，主要就是為了解決這個問題。

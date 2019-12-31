@@ -1,3 +1,6 @@
+> 本文内容由[Cantarell](https://zh.wikipedia.org/wiki/Cantarell)转换而来。
+
+
 **Cantarell**是[GNOME](../Page/GNOME.md "wikilink")自3.0版起，[用户界面](../Page/用户界面.md "wikilink")的預設[字体](../Page/字体.md "wikilink")，其取代了[Bitstream Vera](../Page/Bitstream_Vera.md "wikilink")。該字型最初由Dave Crossland在2009年所建立。
 
 ## 歷史

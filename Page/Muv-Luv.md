@@ -1,3 +1,6 @@
+> 本文内容由[Muv-Luv](https://zh.wikipedia.org/wiki/Muv-Luv)转换而来。
+
+
 是日本âge在2003年2月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]，2006年9月22日發售全年齡版。\[2\]Muv-Luv最初在2000年10月的成人遊戲雜誌[TECH GIAN預告](../Page/TECH_GIAN.md "wikilink")2001年秋發售，經過2次延期後才決定在2003年2月28日發售遊戲。\[3\]遊戲機版都是由[5pb.](../Page/5pb..md "wikilink")發售，[Xbox 360版在](../Page/Xbox_360.md "wikilink")2011年10月27日發售\[4\]，[PlayStation 3版在](../Page/PlayStation_3.md "wikilink")2012年10月25日發售\[5\]，[PlayStation Vita版在](../Page/PlayStation_Vita.md "wikilink")2016年1月21日發售。\[6\]2004年12月17日發售[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《Muv-Luv SUPPLEMENT》（マブラヴ サプリメント）。\[7\]除了遊戲外也還發售漫畫、小說、CD等相關作品。
 
 ## 遊戲系統

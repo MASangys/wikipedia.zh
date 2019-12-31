@@ -1,3 +1,6 @@
+> 本文内容由[Cyrix Cx486DLC](https://zh.wikipedia.org/wiki/Cyrix Cx486DLC)转换而来。
+
+
 [Cyrix_Cx486DLC-33GP.jpg](https://zh.wikipedia.org/wiki/File:Cyrix_Cx486DLC-33GP.jpg "fig:Cyrix_Cx486DLC-33GP.jpg") [KL_Cyrix_486DRx2.jpg](https://zh.wikipedia.org/wiki/File:KL_Cyrix_486DRx2.jpg "fig:KL_Cyrix_486DRx2.jpg") **Cyrix Cx486DLC**，是[Cyrix](../Page/Cyrix.md "wikilink")早期的486級CPU，Cyrix希望它能够和英代爾486SX與DX競爭。爲Cyrix製造486DLC的[德州儀器後來發布了它自己的版本](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")，型号为TI-486SXL，并在新版本中將Cyrix原設計中的1KB緩存升至8KB。[IBM 486DLC](../Page/IBM_386SLC.md "wikilink")、486DLC2、486DLC3（也就是藍色閃電）等產品因為名稱類似所以往往與Cyrix產生混淆，但它們是基於英代爾486設計的。
 
 於1992年6月發布的它，與後來著名的[Cyrix Cx5x86同爲過渡式CPU](https://zh.wikipedia.org/wiki/Cyrix_Cx5x86 "wikilink")，既容納了新處理器的功能（較英代爾[80486而言](https://zh.wikipedia.org/wiki/80486 "wikilink")），又可以插在其上一代產品386DX的插座中，並可在25、33和40MHz頻率下工作。

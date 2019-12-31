@@ -1,3 +1,6 @@
+> 本文内容由[Tamarin \(軟體\)](https://zh.wikipedia.org/wiki/Tamarin \(軟體\))转换而来。
+
+
 **Tamarin**是一個[自由的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[即時編譯](../Page/即時編譯.md "wikilink")（JIT）[虛擬機器](../Page/虛擬機器.md "wikilink")\[1\]，旨在實現[ECMAScript](../Page/ECMAScript.md "wikilink")（ES4）語言標準規範。Tamarin的[原始碼基於](https://zh.wikipedia.org/wiki/原始碼 "wikilink")[Adobe Systems開發的ActionScript](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink") Virtual Machine 2（AVM2），是[Adobe Flash Player 9所使用的虛擬機器](../Page/Adobe_Flash_Player.md "wikilink")。
 
 ## 發展

@@ -1,3 +1,6 @@
+> 本文内容由[NTT都市開發](https://zh.wikipedia.org/wiki/NTT都市開發)转换而来。
+
+
 **NTT都市開發**（，）是日本[不動產](../Page/不動產.md "wikilink")、[地產開發公司](../Page/地產發展商.md "wikilink")。
 
 ## 概要

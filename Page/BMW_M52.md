@@ -1,3 +1,6 @@
+> 本文内容由[BMW M52](https://zh.wikipedia.org/wiki/BMW M52)转换而来。
+
+
 [M52NonTUB28.jpg](https://zh.wikipedia.org/wiki/File:M52NonTUB28.jpg "fig:M52NonTUB28.jpg") **BMW M52**為[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[寶馬公司生產的一系列](https://zh.wikipedia.org/wiki/寶馬 "wikilink")[直列六缸](https://zh.wikipedia.org/wiki/直列六缸引擎 "wikilink")，自然吸氣，頂置雙[凸輪軸](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")（DOHC）[汽油引擎](../Page/汽油引擎.md "wikilink")。M52系列為[M50系列引擎的換代品](../Page/BMW_M50.md "wikilink")，生產年代為1994-2001。
 
 M52衍生至M50，和M50不同之處在於大量使用鑄[鋁材料製造缸體和缸蓋](https://zh.wikipedia.org/wiki/鋁 "wikilink")。北美市場發售車型，除Z3裝備的外，其餘M52基礎版本仍採用[鑄鐵](https://zh.wikipedia.org/wiki/鑄鐵 "wikilink")[缸體](../Page/汽缸本體.md "wikilink")，因此在技術上更接近M50TU。1999年，M52發動機進行部分重新設計，升級版本命名為M52TU（TU為Technical Update的縮寫），將[可變氣門正時](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")（即BMW的[VANOS系統](https://zh.wikipedia.org/wiki/BMW_VANOS "wikilink")）從單一進氣門擴展到進排氣門的雙VANOS系統。其他升級還包括增加[可變進氣歧管](https://zh.wikipedia.org/wiki/可變進氣歧管 "wikilink")（BMW DISA），增加電子油門。\[1\]
