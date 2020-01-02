@@ -1,3 +1,6 @@
+> 本文内容由[约翰·J·克里滕登](https://zh.wikipedia.org/wiki/约翰·J·克里滕登)转换而来。
+
+
 [John_J._Crittenden_at_National_Portrait_Gallery_IMG_4382.JPG](https://zh.wikipedia.org/wiki/File:John_J._Crittenden_at_National_Portrait_Gallery_IMG_4382.JPG "fig:John_J._Crittenden_at_National_Portrait_Gallery_IMG_4382.JPG")的国家肖像馆。\]\]
 
 **约翰·乔丹·克里滕登**（，）是位来自美国[肯塔基](https://zh.wikipedia.org/wiki/肯塔基 "wikilink")[州的](../Page/美国州份.md "wikilink")[政治家](../Page/政治家.md "wikilink")，曾担任该州[联邦众议员和](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")[联邦参议员](../Page/美国参议院.md "wikilink")，并在[威廉·亨利·哈里森](../Page/威廉·亨利·哈里森.md "wikilink")、[约翰·泰勒](../Page/约翰·泰勒.md "wikilink")和[米勒德·菲尔莫尔](../Page/米勒德·菲尔莫尔.md "wikilink")三位[美国总统](../Page/美国总统.md "wikilink")任内出任了两届[联邦司法部长](../Page/美國司法部長.md "wikilink")。他曾担任[第17任](../Page/肯塔基州州长列表.md "wikilink")[肯塔基州州长](https://zh.wikipedia.org/wiki/肯塔基州州长 "wikilink")，并且还曾是该州的[州议员](../Page/肯塔基州议会.md "wikilink")。虽多次有望成为总统候选人，但他始终没有同意参选。

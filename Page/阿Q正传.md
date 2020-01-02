@@ -1,3 +1,6 @@
+> 本文内容由[阿Q正传](https://zh.wikipedia.org/wiki/阿Q正传)转换而来。
+
+
 《**阿Q正传**》，中國近代作家[魯迅唯一的一部中篇小說](https://zh.wikipedia.org/wiki/魯迅 "wikilink")。
 
 ## 發表

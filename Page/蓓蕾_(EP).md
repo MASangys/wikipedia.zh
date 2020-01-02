@@ -1,3 +1,6 @@
+> 本文内容由[蓓蕾 \(EP\)](https://zh.wikipedia.org/wiki/蓓蕾_\(EP\))转换而来。
+
+
 **《蓓蕾》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Super Girls的第二張音樂專輯](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")，於2015年2月14日首先推出限量版；2月16日推出普通版。
 
 ## 曲目列表

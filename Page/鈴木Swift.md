@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Swift](https://zh.wikipedia.org/wiki/鈴木Swift)转换而来。
+
+
 **鈴木Swift**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2000年起開發製造的[次緊湊型](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[掀背車](https://zh.wikipedia.org/wiki/掀背車 "wikilink")。在此之前，該公司也曾將「鈴木Swift」使用在[鈴木Cultus](../Page/鈴木Cultus.md "wikilink")的外銷版，但兩者並非系出同門。該車系在[中國](../Page/中國.md "wikilink")的官方名稱為**鈴木雨燕**，由[印度](../Page/印度.md "wikilink")[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")生產、第二代以降的四門[轎車車型則稱作](https://zh.wikipedia.org/wiki/轎車 "wikilink")**鈴木Swift DZire**。 {{-}}
 
 ## 歷史與概要

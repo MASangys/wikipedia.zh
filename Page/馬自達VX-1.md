@@ -1,3 +1,6 @@
+> 本文内容由[馬自達VX-1](https://zh.wikipedia.org/wiki/馬自達VX-1)转换而来。
+
+
 **馬自達VX-1**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司子公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[印尼鈴木汽車](../Page/印尼鈴木汽車.md "wikilink")自2013年5月幫[馬自達OEM代工製造的](https://zh.wikipedia.org/wiki/馬自達 "wikilink")7人座緊湊型[多功能休旅車](../Page/多功能休旅車.md "wikilink")，其原型為[鈴木Ertiga](../Page/鈴木Ertiga.md "wikilink")，另有兄弟車寶騰Ertiga。
 
 ## 歷史及概要

@@ -1,3 +1,6 @@
+> 本文内容由[模块:TemplatePar](https://zh.wikipedia.org/wiki/模块:TemplatePar)转换而来。
+
+
 \--\[=\[ TemplatePar 2015-02-14 Template parameter utility
 
   - assert

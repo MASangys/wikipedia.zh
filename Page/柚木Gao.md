@@ -1,3 +1,6 @@
+> 本文内容由[柚木Gao](https://zh.wikipedia.org/wiki/柚木Gao)转换而来。
+
+
 **柚木Gao**（，），[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。出身和居住於[青森縣](../Page/青森縣.md "wikilink")\[1\]。
 
 ## 作品列表

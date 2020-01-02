@@ -1,3 +1,6 @@
+> 本文内容由[頑強的D](https://zh.wikipedia.org/wiki/頑強的D)转换而来。
+
+
 **頑強的D**（**Tenacious D**）是一個由[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")和[凱爾·蓋斯於](https://zh.wikipedia.org/wiki/凱爾·蓋斯 "wikilink")1994年在[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯組成的二人](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[喜劇搖滾樂隊](https://zh.wikipedia.org/wiki/喜劇搖滾 "wikilink")，共發行了三張專輯，即《[頑強的D](https://zh.wikipedia.org/wiki/頑強的D_\(專輯\) "wikilink")》（2001）、《[搖滾之神](https://zh.wikipedia.org/wiki/搖滾之神 "wikilink")》（2006）和《[浴火重生](https://zh.wikipedia.org/wiki/浴火重生 "wikilink")》（2012）。 在現場演奏時的完整樂隊陣容還要加上吉他手[約翰·科內斯基和貝斯手](https://zh.wikipedia.org/wiki/約翰·科內斯基 "wikilink")[約翰·斯派克](https://zh.wikipedia.org/wiki/約翰·斯派克 "wikilink")。鼓手[戴夫·格羅爾](../Page/戴夫·格羅爾.md "wikilink")有時也會出演。
 
 在1999年於[同名電視劇中出演後](https://zh.wikipedia.org/wiki/頑強的D_\(電視劇\) "wikilink")，該樂隊開始出名。\[1\] 2001年發佈的同名專輯，其中的第一首歌《Tribute》是該樂隊的成名曲，一度登上所有榜單的前十名。後來此記錄被他們的新作的《[The Metal](https://zh.wikipedia.org/wiki/The_Metal "wikilink")》 刷新。

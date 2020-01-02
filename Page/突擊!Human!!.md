@@ -1,3 +1,6 @@
+> 本文内容由[突擊!Human!!](https://zh.wikipedia.org/wiki/突擊!Human!!)转换而来。
+
+
 《**突擊！Human！！**》（とつげき ヒューマン）是1972年10月7日到同年12月30日在[日本电视台全](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")13話放送的英雄节目。在毎週土曜日午後7時30分到午後8時放送。
 
 ## 介绍

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Sha1](https://zh.wikipedia.org/wiki/模块:Sha1)转换而来。
+
+
 local sha1 = {
 
 ` _VERSION     = "sha.lua 0.5.0",`

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Crc32lua](https://zh.wikipedia.org/wiki/模块:Crc32lua)转换而来。
+
+
 \--\[\[
 
 LUA MODULE

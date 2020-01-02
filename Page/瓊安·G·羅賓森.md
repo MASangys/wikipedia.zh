@@ -1,3 +1,6 @@
+> 本文内容由[瓊安·G·羅賓森](https://zh.wikipedia.org/wiki/瓊安·G·羅賓森)转换而来。
+
+
 **瓊安·蓋爾·羅賓森**（，），婚後姓**湯瑪斯**（Thomas），是二十世紀出生於英國[白金漢郡](https://zh.wikipedia.org/wiki/白金漢郡 "wikilink")的女性作家、插畫家。
 
 ## 生平

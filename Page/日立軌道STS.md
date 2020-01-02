@@ -1,3 +1,6 @@
+> 本文内容由[日立軌道STS](https://zh.wikipedia.org/wiki/日立軌道STS)转换而来。
+
+
 **安薩爾多STS**（****）是[義大利一家以](https://zh.wikipedia.org/wiki/義大利 "wikilink")[鐵路信號及整合軌道客運與貨運系統業務為主的公司](https://zh.wikipedia.org/wiki/鐵路信號 "wikilink")，業務遍及全球。2019年初由[日立經旗下日立軌道義大利投資](../Page/日立製作所.md "wikilink")，完成全資收購成為其子公司。公司名稱中的STS為「Signalling and Transportation Solutions」（信號與運輸方案）的縮寫。
 
 ## 歷史

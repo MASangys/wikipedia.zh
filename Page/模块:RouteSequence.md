@@ -1,3 +1,6 @@
+> 本文内容由[模块:RouteSequence](https://zh.wikipedia.org/wiki/模块:RouteSequence)转换而来。
+
+
 local p = {
 
 `   STATION_SEPARATOR = ' - ',`

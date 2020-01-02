@@ -1,3 +1,6 @@
+> 本文内容由[A股 \(中國\)](https://zh.wikipedia.org/wiki/A股_\(中國\))转换而来。
+
+
 **A股**也称为**人民币普通股票**，是指那些在[中國大陸注册](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、在[中国股票市场](../Page/中国股票市场.md "wikilink")[股票上市的](https://zh.wikipedia.org/wiki/上市 "wikilink")[普通股](https://zh.wikipedia.org/wiki/普通股 "wikilink")，以[人民币](../Page/人民币.md "wikilink")认购和交易。
 
 A股不是实物股票，以无纸化电子记帐，实行“[T+1](https://zh.wikipedia.org/wiki/T+1 "wikilink")”交割制度（即无法[当日冲销](https://zh.wikipedia.org/wiki/当日冲销 "wikilink")），有涨跌幅限制（10%，[ST的股票](../Page/特别处理.md "wikilink")5%），参与[投资者为中国机构或个人](https://zh.wikipedia.org/wiki/投资者 "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Nihongo title](https://zh.wikipedia.org/wiki/模块:Nihongo_title)转换而来。
+
+
 local p = {}
 
 local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')

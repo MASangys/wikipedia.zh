@@ -1,3 +1,6 @@
+> 本文内容由[賓菲加體育B隊](https://zh.wikipedia.org/wiki/賓菲加體育B隊)转换而来。
+
+
 **賓菲加體育B隊**（），葡萄牙職業足球會，位於Seixal，成立於1999年，曾於2006年解散，但在2012年重建，現時於[葡甲作賽](https://zh.wikipedia.org/wiki/葡甲 "wikilink")。他們是[賓菲加的預備隊](https://zh.wikipedia.org/wiki/賓菲加 "wikilink")。他們不容許參與[葡萄牙盃](../Page/葡萄牙盃.md "wikilink")及[葡聯盃](https://zh.wikipedia.org/wiki/葡聯盃 "wikilink")。
 
 ## 外部連結

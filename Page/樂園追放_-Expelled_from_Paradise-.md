@@ -1,3 +1,6 @@
+> 本文内容由[樂園追放 -Expelled from Paradise-](https://zh.wikipedia.org/wiki/樂園追放_-Expelled_from_Paradise-)转换而来。
+
+
 **乐园追放 -Expelled from Paradise-**（）是[东映动画](../Page/东映动画.md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")合作制作的原创动画电影，由[水岛精二执导](https://zh.wikipedia.org/wiki/水岛精二 "wikilink")，[虚渊玄编剧](https://zh.wikipedia.org/wiki/虚渊玄 "wikilink")，使用3D场景加2D重绘的风格，是两人首部全CG风格的作品，于2014年11月15日发布。
 
 ## 剧情概述

@@ -1,3 +1,6 @@
+> 本文内容由[狮子丸G](https://zh.wikipedia.org/wiki/狮子丸G)转换而来。
+
+
 **狮子丸G**（，）是在2006年10月1日至12月24日由[东京电视台放送的特摄作品](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")，全13話。
 
 ## 介绍

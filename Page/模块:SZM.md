@@ -1,3 +1,6 @@
+> 本文内容由[模块:SZM](https://zh.wikipedia.org/wiki/模块:SZM)转换而来。
+
+
 \-- 载入getArgs模块 local getArgs = require('Module:Arguments').getArgs
 
 \-- 导入数据 local d = mw.loadData('Module:SZM/data') -- d.lineNames 线路名称解析列表 -- d.lineColors 线路色彩列表

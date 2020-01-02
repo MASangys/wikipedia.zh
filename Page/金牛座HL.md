@@ -1,3 +1,6 @@
+> 本文内容由[金牛座HL](https://zh.wikipedia.org/wiki/金牛座HL)转换而来。
+
+
 **金牛座HL**（HL Tau）是位于金牛座分子云[TMC-1的一颗距离地球](https://zh.wikipedia.org/wiki/Taurus_Molecular_Cloud_1 "wikilink")450光年（140秒差距），视星等为15.1的年轻[金牛座T型星](https://zh.wikipedia.org/wiki/金牛座T型星 "wikilink")\[1\]\[2\]。其周圍有[原行星盘环绕](https://zh.wikipedia.org/wiki/原行星盘 "wikilink")，并根據[次毫米波的觀測資料推测其中有行星正在经历形成过程](https://zh.wikipedia.org/wiki/太赫兹 "wikilink")\[3\]。從它的光度與有效溫度可推測其年齡小於10萬年\[4\]。金牛座HL附近還有沿著盤面自轉軸噴出噴流，並且噴發物質與鄰近星際雲氣與塵埃相撞的[赫比格-哈羅天體](../Page/赫比格-哈羅天體.md "wikilink")\[5\]。
 
 ## 原行星盤

@@ -1,3 +1,6 @@
+> 本文内容由[连续q哈恩多项式](https://zh.wikipedia.org/wiki/连续q哈恩多项式)转换而来。
+
+
 **连续q-哈恩多项式**以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义：\[1\] \(p_n(x;a,b,c|q)=a^{-n}e^{-inu}(abe^{2iu},ac,ad;q)_n*_4\Phi_3(q^{-n},abcdq^{n-1},ae^{i{t+2u}},ae^{-it};abe^{2iu},ac,ad;q;q)\)
 
 并且

@@ -1,3 +1,6 @@
+> 本文内容由[香港寬頻bbTV](https://zh.wikipedia.org/wiki/香港寬頻bbTV)转换而来。
+
+
 **香港寬頻bbTV**（）於2003年啟播，2017年1月1日停播，是[香港](../Page/香港.md "wikilink")的[收費電視台之一](https://zh.wikipedia.org/wiki/收費電視 "wikilink")，前稱**香港寬頻電視**及**香港寬頻數碼電視**，是[香港寬頻有限公司之全資附屬公司](https://zh.wikipedia.org/wiki/香港寬頻有限公司 "wikilink")[香港寬頻網絡有限公司](https://zh.wikipedia.org/wiki/香港寬頻網絡有限公司 "wikilink")（「香港寬頻」）所提供的服務之一，以私有的自家[寬頻網絡技術傳送電視訊號](https://zh.wikipedia.org/wiki/OTT "wikilink")。
 
 由於香港寬頻數碼電視獲[廣播事務管理局](../Page/廣播事務管理局.md "wikilink")界定為[互聯網電視](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")，所以毋需領取電視台牌照，亦不受《廣播條例》監管，只受《淫褻及不雅物品管制條例》監管。

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Template:DYKEntry](https://zh.wikipedia.org/wiki/模块:Template:DYKEntry)转换而来。
+
+
 local z = {} local sha1 = require( 'Module:Sha1' )
 
 function z.hash( frame )

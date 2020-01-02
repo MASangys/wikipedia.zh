@@ -1,3 +1,6 @@
+> 本文内容由[模块:Documentation](https://zh.wikipedia.org/wiki/模块:Documentation)转换而来。
+
+
 \-- This module implements .
 
 \-- Get required modules. local getArgs = require('Module:Arguments').getArgs local messageBox = require('Module:Message box')

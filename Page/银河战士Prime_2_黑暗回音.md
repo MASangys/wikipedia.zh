@@ -1,3 +1,6 @@
+> 本文内容由[银河战士Prime 2 黑暗回音](https://zh.wikipedia.org/wiki/银河战士Prime_2_黑暗回音)转换而来。
+
+
 ，是由[Retro Studio开发](https://zh.wikipedia.org/wiki/Retro_Studio "wikilink")，[任天堂](../Page/任天堂.md "wikilink")为[GameCube游戏机发行的](https://zh.wikipedia.org/wiki/GameCube "wikilink")[第一人称](https://zh.wikipedia.org/wiki/第一人称游戏 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏是[银河战士系列第](https://zh.wikipedia.org/wiki/银河战士系列 "wikilink")7部游戏，为《[银河战士Prime](../Page/银河战士Prime.md "wikilink")》的直系续作，也是系列首部支持[多人模式的游戏](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")。《黑暗回音》于2004年在北美、欧洲、澳洲发行，2005年在日本发行。
 
 ## 参考资料

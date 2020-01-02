@@ -1,3 +1,6 @@
+> 本文内容由[武藏MUSASHI](https://zh.wikipedia.org/wiki/武藏MUSASHI)转换而来。
+
+
 ，是[NHK在](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")2003年製播的[大河劇](../Page/NHK大河劇.md "wikilink")，放送期間是2003年1月5日至12月7日。
 
 本劇以吉川英治的《宮本武藏》做為原作，原作原本只寫到巖流島決鬥而已，而本劇則是在後半部份衍生出巖流島以後的故事。在巖流島決鬥的那一集，用了三十台攝影機，嘗試製作出特殊的效果。

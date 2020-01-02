@@ -1,3 +1,6 @@
+> 本文内容由[牙狼〈GARO〉-炎之刻印-](https://zh.wikipedia.org/wiki/牙狼〈GARO〉-炎之刻印-)转换而来。
+
+
 《**牙狼〈GARO〉-炎之刻印-**》是由[MAPPA](../Page/MAPPA.md "wikilink")製作的電視動畫，於2014年10月3日播放，全24話。作品改編自特攝劇集《[牙狼](../Page/牙狼〈GARO〉.md "wikilink")》，動畫延續《牙狼》系列的世界觀，但故事是完全原創的。
 
 ## 本劇特色

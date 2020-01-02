@@ -1,3 +1,6 @@
+> 本文内容由[连续q勒让德多项式](https://zh.wikipedia.org/wiki/连续q勒让德多项式)转换而来。
+
+
 **连续勒让德多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
 
 \(P_n(x|q)=\;_{4}\phi_3\left(\begin{matrix}

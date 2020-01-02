@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士Z GUNDAM](https://zh.wikipedia.org/wiki/機動戰士Z_GUNDAM)转换而来。
+
+
 《**機動戰士ZGUNDAM**》是日本動畫《[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")》的續集，於1985年3月2日至1986年2月22日在名古屋電視台上映。**Z**是取希臘字母中的**Zeta**，並非英語的最後字母"Z"。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")1988年（[民國77年](https://zh.wikipedia.org/wiki/民國77年 "wikilink")）11月5日至1989年（[民國78年](https://zh.wikipedia.org/wiki/民國78年 "wikilink")）10月14日間由[緯來公司製播](https://zh.wikipedia.org/wiki/緯來 "wikilink")\[1\]，與續作[機動戰士GUNDAM ZZ一併以](../Page/機動戰士GUNDAM_ZZ.md "wikilink")《**剛-{}-彈勇-{}-士**》的名義在[華視頻道放映](https://zh.wikipedia.org/wiki/華視 "wikilink")；[香港](../Page/香港.md "wikilink")[無綫電視則譯為](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《**機動戰士再起風雲**》，由1992年11月11日至1993年1月19日期間在[無綫電視翡翠台播放](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。附中文字幕的官方高畫質復刻版於2017年在gundam.info和Youtube免費線上放送。《機動戰士Z GUNDAM 星之繼承者》獲選為2005年第九回[日本](../Page/日本.md "wikilink")[文部省](../Page/文部省.md "wikilink")[文化廳媒體藝術祭](../Page/文化廳媒體藝術祭.md "wikilink")動畫部門推薦的作品。
 
 ## 故事概要

@@ -1,3 +1,6 @@
+> 本文内容由[混合世界BIORG TRINITY](https://zh.wikipedia.org/wiki/混合世界BIORG_TRINITY)转换而来。
+
+
 《**混合世界BIORG TRINITY**》是[舞城王太郎](../Page/舞城王太郎.md "wikilink")原作，[大暮維人繪畫的](https://zh.wikipedia.org/wiki/大暮維人 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，[集英社](../Page/集英社.md "wikilink")出版，是完成了《[飛輪少年](https://zh.wikipedia.org/wiki/飛輪少年 "wikilink")》之後大暮維人的新作\[1\]，以未來大戰之後的世界為時代背景，2013年1月開始在《Ultra Jump》連載，至2018年1月結束。話數單位是「bug.○」（○為數字）。
 
 ## 故事簡介

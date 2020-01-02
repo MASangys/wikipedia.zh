@@ -1,3 +1,6 @@
+> 本文内容由[闪电人f](https://zh.wikipedia.org/wiki/闪电人f)转换而来。
+
+
 **闪电人F**（**イナズマンF**）（イナズマン フラッシュ）是1974年（昭和49年）4月9日至同年9月24日[NET](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")，毎週火曜日19時30分到20時00分全23話放送，NET・[東映](../Page/東映.md "wikilink")制作的[特撮テレビドラマ](https://zh.wikipedia.org/wiki/特撮テレビ番組一覧 "wikilink")。
 
 ## 介绍

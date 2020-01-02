@@ -1,3 +1,6 @@
+> 本文内容由[街頭霸王II －世界勇士－](https://zh.wikipedia.org/wiki/街頭霸王II_－世界勇士－)转换而来。
+
+
 是日本[CAPCOM公司的一套廣受歡迎的](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，於1991年2月6日推出。其遊戲中的人物以上集的-{zh-hans:隆;zh-hant:隆;zh-hk:隆;zh-tw:[隆](https://zh.wikipedia.org/wiki/隆 "wikilink");zh-mo:隆;}-（Ryu）和-{zh-hans:拳;zh-hant:拳;zh-hk:拳;zh-tw:[拳](https://zh.wikipedia.org/wiki/拳 "wikilink");zh-mo:拳;}-（Ken）為主角，而反派則是-{zh-hans:維加;zh-hk:M·拜臣;zh-tw:[貝卡](https://zh.wikipedia.org/wiki/貝卡 "wikilink");}-（日版：Vega，美版及欧版：M. Bison）。遊戲中的角色來自不同國度，有獨特的必殺技、完整防禦和進攻系統。
 
 時至今日，-{zh-hans:街头霸王II;zh-hant:快打旋風II;zh-hk:街頭霸王II;zh-tw:快打旋風II;zh-mo:街頭霸王II;}-常常被列入遊戲史上最偉大的[電子遊戲之一](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。它廣泛地被認為是[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")的先驅，並仍然被很多純粹主義者認為是該類作品當中最優秀的例子，因它更注重操縱性及可玩性，而不依靠圖像和動畫。特別是其操縱系統，其後的遊戲常常模仿它的系統，包括其他[CAPCOM的格鬥遊戲](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")。

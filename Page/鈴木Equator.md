@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Equator](https://zh.wikipedia.org/wiki/鈴木Equator)转换而来。
+
+
 **鈴木Equator**（）乃[日產汽車](../Page/日產汽車.md "wikilink")位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[田納西州士麥那的工廠替](https://zh.wikipedia.org/wiki/田納西州 "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[OEM代工生產的](https://zh.wikipedia.org/wiki/贴牌生产 "wikilink")[皮卡](../Page/皮卡.md "wikilink")貨車，2009年至2012年間僅限[北美洲](../Page/北美洲.md "wikilink")市場販售。該車款以為原型而修改，也是鈴木公司第一輛皮卡貨車\[1\]。
 
 ## 歷史與概要
