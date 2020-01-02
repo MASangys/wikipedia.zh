@@ -1,3 +1,6 @@
+> 本文内容由[提督之決斷II](https://zh.wikipedia.org/wiki/提督之決斷II)转换而来。
+
+
 是指[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1993年推出的[第二次世界大戰海戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")──[提督之決斷系列](../Page/提督之決斷系列.md "wikilink")的第二代作品。
 
 ## 概要

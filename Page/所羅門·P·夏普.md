@@ -1,3 +1,6 @@
+> 本文内容由[所羅門·P·夏普](https://zh.wikipedia.org/wiki/所羅門·P·夏普)转换而来。
+
+
 **所罗门·波尔基乌斯·夏普**（，）是[美国](../Page/美国.md "wikilink")[肯塔基州](../Page/肯塔基州.md "wikilink")[政治家](../Page/政治家.md "wikilink")，曾担任该州总检察长、[州议员和](../Page/肯塔基州议会.md "wikilink")[国会议员](../Page/美国国会.md "wikilink")。1825年，年仅38岁的夏普遭[杰里波安·O·博尚谋杀](https://zh.wikipedia.org/wiki/杰里波安·O·博尚 "wikilink")，这一事件被称为[博尚－夏普慘案](../Page/博尚－夏普慘案.md "wikilink")或“肯塔基悲剧”。
 
 夏普于1809年首度当选[沃伦县](https://zh.wikipedia.org/wiki/沃伦县_\(肯塔基州\) "wikilink")[州众议员](https://zh.wikipedia.org/wiki/肯塔基州众议院 "wikilink")，拉开从政生涯序幕。他曾短暂参加[1812年战争](../Page/1812年战争.md "wikilink")，並獲[上校](../Page/上校.md "wikilink")頭銜，之後返回肯塔基州并于1813年成为该州[联邦众议员](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")。夏普在两年后取得连任，但又在1816年因支持一项极具争议的法案而失去议席。夏普与肯塔基州赈灾党联盟，于1817年重返州众议院。1821年，他接受州长[约翰·亚岱尔](../Page/约翰·亚岱尔.md "wikilink")任命出任肯塔基州总检察长，继任亚岱尔州长一职的[约瑟夫·德沙](../Page/约瑟夫·德沙.md "wikilink")也任命他出任这一职位。1825年，夏普辞职再返州众议院。

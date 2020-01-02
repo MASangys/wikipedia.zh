@@ -1,3 +1,6 @@
+> 本文内容由[快樂有go正](https://zh.wikipedia.org/wiki/快樂有go正)转换而来。
+
+
 《**快樂有go正**》，英文名***Happy Go Go Go***，是[大東影藝製作](https://zh.wikipedia.org/wiki/大東影藝 "wikilink")\[1\]、[中華電視公司](../Page/中華電視公司.md "wikilink")監製的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。於2007年1月13日至2008年12月20日的[台灣時間每星期六](https://zh.wikipedia.org/wiki/台灣時間 "wikilink")20時整至22時整於華視主頻道播出，共播出100集。該節目的特點，是以詼諧的方式傳達[法律](../Page/法律.md "wikilink")[知識](https://zh.wikipedia.org/wiki/知識 "wikilink")，讓[觀眾在歡笑聲中輕鬆學法律](https://zh.wikipedia.org/wiki/觀眾 "wikilink")。
 
 該節目製作人為[彭達](../Page/彭達.md "wikilink")、[高滋謙](https://zh.wikipedia.org/wiki/高滋謙 "wikilink")（[高欣平](https://zh.wikipedia.org/wiki/高欣平 "wikilink")），主要[主持人為](https://zh.wikipedia.org/wiki/主持人 "wikilink")[謝震武](../Page/謝震武.md "wikilink")，助理主持人有[劉真](https://zh.wikipedia.org/wiki/劉真 "wikilink")、[楊千霈](../Page/楊千霈.md "wikilink")、[Gino](https://zh.wikipedia.org/wiki/蔡尚甫 "wikilink")、[JR等](https://zh.wikipedia.org/wiki/簡孝儒 "wikilink")。常見的來賓有[白雲](../Page/白雲_\(台灣藝人\).md "wikilink")、[張克帆](../Page/張克帆.md "wikilink")、[NONO](https://zh.wikipedia.org/wiki/陳宣裕 "wikilink")、[王彩樺](../Page/王彩樺.md "wikilink")、[阿Ben](https://zh.wikipedia.org/wiki/BEN "wikilink")、[小鬼](../Page/小鬼.md "wikilink")……等藝人。

@@ -1,3 +1,6 @@
+> 本文内容由[新巴N8P線](https://zh.wikipedia.org/wiki/新巴N8P線)转换而来。
+
+
 **新巴N8P線**是由[新巴營運的一條](https://zh.wikipedia.org/wiki/新巴 "wikilink")[香港島](../Page/香港島.md "wikilink")[循環巴士路線](../Page/香港循環巴士路線.md "wikilink")，特快來往[小西灣（藍灣半島）及](../Page/小西灣（藍灣半島）公共運輸交匯處.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")（[港灣道](../Page/港灣道.md "wikilink")），只於深宵時段提供服務。以灣景中心大廈做循環點
 
 ## 歷史

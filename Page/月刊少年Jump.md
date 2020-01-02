@@ -1,3 +1,6 @@
+> 本文内容由[月刊少年Jump](https://zh.wikipedia.org/wiki/月刊少年Jump)转换而来。
+
+
 《**月刊少年Jump**》是從1970年起到2007年為止[集英社](../Page/集英社.md "wikilink")發行的月刊[少年](../Page/少年漫画.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
 
 ## 概要

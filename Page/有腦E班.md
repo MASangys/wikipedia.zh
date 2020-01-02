@@ -1,3 +1,6 @@
+> 本文内容由[有腦E班](https://zh.wikipedia.org/wiki/有腦E班)转换而来。
+
+
 《**有腦E班**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的一個[兒童節目](https://zh.wikipedia.org/wiki/兒童節目 "wikilink")，節目每日有不同主題，在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")播岀，此節目接替同類型播了近7年的兒童節目《[亞洲電視兒童台](https://zh.wikipedia.org/wiki/亞洲電視兒童台 "wikilink")》。由[亞洲電視](../Page/亞洲電視.md "wikilink")和[紫荊雜誌社主辦的](https://zh.wikipedia.org/wiki/紫荊雜誌社 "wikilink")“中國改革開放30周年知識競賽”也曾在此節目播出。於2009年4月此節目已被《[媽媽不懂的事](../Page/媽媽不懂的事.md "wikilink")》所取代。
 
 ## 播岀時間

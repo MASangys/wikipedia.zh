@@ -1,3 +1,6 @@
+> 本文内容由[戰鎚Online](https://zh.wikipedia.org/wiki/戰鎚Online)转换而来。
+
+
 是一款由[Mythic Entertainment游戏公司所制作的](../Page/Mythic_Entertainment.md "wikilink")[大型多人角色扮演游戏](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，此游戏是基于[Games Workshop最出名的名为](../Page/Games_Workshop.md "wikilink")*Warhammer Fantasy Battle*的战棋游戏设定（当然也包含了《[戰鎚奇幻角色扮演游戏](https://zh.wikipedia.org/wiki/戰鎚奇幻角色扮演游戏 "wikilink")》的桌上角色扮演游戏相关设定）。《戰鎚Online：决战世纪》（Warhammer Online: Age of Reckoning）于2008年9月18日同时在[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")，[南美](https://zh.wikipedia.org/wiki/南美 "wikilink")，[欧洲](../Page/欧洲.md "wikilink")，[亚洲](../Page/亚洲.md "wikilink")，[澳大利亚](../Page/澳大利亚.md "wikilink")和[新西兰](../Page/新西兰.md "wikilink")等部分地区公开发售。其游戏紧紧围绕着著名的戰鎚奇幻设定中正在进行并带有黑色幽默的包含整个世界的冲突斗争。
 
 本遊戲已於2013年12月18日終止營運。

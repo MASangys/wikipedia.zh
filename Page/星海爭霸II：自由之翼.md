@@ -1,3 +1,6 @@
+> 本文内容由[星海爭霸II：自由之翼](https://zh.wikipedia.org/wiki/星海爭霸II：自由之翼)转换而来。
+
+
 是[暴雪娱乐发行的一款](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")。是《[星际争霸](../Page/星际争霸_\(游戏\).md "wikilink")》的续作，2010年7月27日全球同步上市（中国大陆为2011年3月29日）。\[1\]游戏于目前支援[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS平台](https://zh.wikipedia.org/wiki/macOS "wikilink")。整个《星际争霸II》由《自由之翼》以及资料片《[虫群之心](../Page/星际争霸II：虫群之心.md "wikilink")》（*Heart of the Swarm*）与《[虛空之遺](https://zh.wikipedia.org/wiki/星际争霸II：虛空之遺 "wikilink")》（*Legacy of the Void*）组成。
 
 游戏发生在公元26世纪[银河系](../Page/银河系.md "wikilink")的边缘，分为三个种族：[地球人的后裔](https://zh.wikipedia.org/wiki/地球人 "wikilink")[人类](https://zh.wikipedia.org/wiki/人类 "wikilink")（Terran）、一种进化迅速的生物群体-{zh:虫族; zh-hans:异虫; zh-hant:蟲族;}-（Zerg），以及一支高度文明并具有心灵力量的远古种族神族（Protoss）。《自由之翼》的剧情集中在人类，《蟲群之心》与《虛空之遺》则分别着重於异虫与星灵。游戏中的故事发生在《[星际争霸：母巢之战](../Page/星际争霸：母巢之战.md "wikilink")》后的第四年，\[2\]玩家将跟随着[吉姆·雷诺](../Page/吉姆·雷诺.md "wikilink")与他的游骑兵一起对抗帝国。

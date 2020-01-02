@@ -1,3 +1,6 @@
+> 本文内容由[心跳回憶 Girl\'s Side](https://zh.wikipedia.org/wiki/心跳回憶_Girl\'s_Side)转换而来。
+
+
 《**心跳回憶 Girl's Side**》是在2002年6月20日由[科樂美](../Page/科樂美.md "wikilink")公司發售的[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS1」，是《[心跳回憶 Girl's Side 系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第1彈。本作的推出時間距離《[心跳回憶3](https://zh.wikipedia.org/wiki/心跳回憶3 "wikilink")》發售時間不過半年。
 
 雖然最初銷量比不過《心跳回憶3》，卻因為豐富的遊戲性和豪華的[聲優](../Page/聲優.md "wikilink")陣容而廣受好評。2007年3月15日發售[任天堂DS](../Page/任天堂DS.md "wikilink")版《心跳回憶 Girl's Side 1st Love》（略稱GSDS），在2009年3月12日發售了該遊戲的全語音版《心跳回憶 Girl's Side 1st Love Plus》。

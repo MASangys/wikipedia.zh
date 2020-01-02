@@ -1,3 +1,6 @@
+> 本文内容由[未來日記-ANOTHER:WORLD-](https://zh.wikipedia.org/wiki/未來日記-ANOTHER:WORLD-)转换而来。
+
+
 《**未來日記-ANOTHER:WORLD-**》，是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")將於2012年4月21日起逢星期六23:10至23:55（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")），即「[土曜劇場](../Page/富士電視台週六連續劇.md "wikilink")」時段播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。
 
 ## 製作背景

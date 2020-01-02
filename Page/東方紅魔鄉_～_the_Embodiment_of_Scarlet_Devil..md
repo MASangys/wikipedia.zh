@@ -1,3 +1,6 @@
+> 本文内容由[東方紅魔鄉 ～ the Embodiment of Scarlet Devil.](https://zh.wikipedia.org/wiki/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil.)转换而来。
+
+
 [The_Embodiment_of_Scarlet_Devil.jpg](https://zh.wikipedia.org/wiki/File:The_Embodiment_of_Scarlet_Devil.jpg "fig:The_Embodiment_of_Scarlet_Devil.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")所制作的縱[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")6作，也是[東方Project在](https://zh.wikipedia.org/wiki/東方Project "wikilink")[Windows平台上的第一作](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 本作是在相隔[PC-98推出該平台最後的作品](https://zh.wikipedia.org/wiki/PC-98 "wikilink")「[東方怪綺談 ～ Mystic Square.](../Page/東方怪綺談_～_Mystic_Square..md "wikilink")」的三年後開發的。在2002年6月10日發佈體驗版，並在2002年8月11日（[Comic Market](../Page/Comic_Market.md "wikilink") 62）正式發售，最後在同年9月27日開始在各[同人商店開始了委託販賣](../Page/同人_\(ACG\).md "wikilink")。當時在商店售賣的時候，[漫畫虎之穴店中有本遊戲的示範](https://zh.wikipedia.org/wiki/漫畫虎之穴 "wikilink")。\[1\]

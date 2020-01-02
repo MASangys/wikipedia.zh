@@ -1,3 +1,6 @@
+> 本文内容由[德古拉傳說II](https://zh.wikipedia.org/wiki/德古拉傳說II)转换而来。
+
+
 是由[科樂美](../Page/科樂美.md "wikilink")開發的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。该作于1991年7月12日发售，也是[恶魔城系列](../Page/恶魔城系列.md "wikilink")在[Game Boy平台上的第二作](../Page/Game_Boy.md "wikilink")。在2000年以彩色化再度收錄於[KONAMI GB 精選集](https://zh.wikipedia.org/wiki/KONAMI_GB_精選集 "wikilink") VOL.4（），與一代合併的重製版《ドラキュラ伝説 ReBirth》於10月27日WiiWare下載發行。
 
 ## 劇情

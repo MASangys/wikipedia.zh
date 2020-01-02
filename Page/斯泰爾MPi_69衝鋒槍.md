@@ -1,3 +1,6 @@
+> 本文内容由[斯泰爾MPi 69衝鋒槍](https://zh.wikipedia.org/wiki/斯泰爾MPi_69衝鋒槍)转换而来。
+
+
 **斯泰爾MPi 69**（）是一款由[奧地利槍械製造商](https://zh.wikipedia.org/wiki/奧地利 "wikilink")所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 设计特点

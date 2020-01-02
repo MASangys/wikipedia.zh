@@ -1,3 +1,6 @@
+> 本文内容由[支持DirectX 10游戏列表](https://zh.wikipedia.org/wiki/支持DirectX_10游戏列表)转换而来。
+
+
 本表为**支持[Windows Vista和](../Page/Windows_Vista.md "wikilink")[Windows 7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[DirectX 10的已发行及待发行的游戏列表](https://zh.wikipedia.org/wiki/DirectX#DirectX_10 "wikilink")**。
 
 相关游戏请参见[电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[東方花映塚 ～ Phantasmagoria of Flower View.](https://zh.wikipedia.org/wiki/東方花映塚_～_Phantasmagoria_of_Flower_View.)转换而来。
+
+
 [Phantasmagoria_of_Flower_View.jpg](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Flower_View.jpg "fig:Phantasmagoria_of_Flower_View.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")所製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第九個作品](https://zh.wikipedia.org/wiki/東方Project "wikilink")。作品標題中的英文部分是參照東方系列第3作《[東方夢時空 ～ Phantasmagoria of Dim.Dream.](../Page/東方夢時空_～_Phantasmagoria_of_Dim.Dream..md "wikilink")》而來的，但兩個作品中的故事並無關連。
 
 ## 概要

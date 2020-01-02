@@ -1,3 +1,6 @@
+> 本文内容由[惡魔高校D×D角色列表](https://zh.wikipedia.org/wiki/惡魔高校D×D角色列表)转换而来。
+
+
 此列表是小說《**[惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")**》內的**登場人物**的介紹，中文譯名以台灣角川書店之正體中文版為準。
 
 ## 恐怖組織特殊應變小組「D×D」

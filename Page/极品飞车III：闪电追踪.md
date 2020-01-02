@@ -1,3 +1,6 @@
+> 本文内容由[极品飞车III：闪电追踪](https://zh.wikipedia.org/wiki/极品飞车III：闪电追踪)转换而来。
+
+
 **极品飞车 III：闪电追踪**（**Need for Speed III: Hot Pursuit**，副标题也译作**热力追踪**，在日本又称作**Over Drivin' III: Hot Pursuit**），是[美国艺电EA](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")）推出的《[极品飞车](../Page/极品飞车系列.md "wikilink")》系列赛车游戏之一，于1998年推出。
 
 ## 出场车型

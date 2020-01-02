@@ -1,3 +1,6 @@
+> 本文内容由[怀念的未来～longing future～](https://zh.wikipedia.org/wiki/怀念的未来～longing_future～)转换而来。
+
+
 《****》（**懷念的未來～longing future～** ）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")的第三张[单曲](../Page/单曲.md "wikilink")，是alan从2008年7月开始连续5个月单曲连发，以“创造地球的五大元素”：[地](https://zh.wikipedia.org/wiki/地 "wikilink")、[空](https://zh.wikipedia.org/wiki/空 "wikilink")、[风](https://zh.wikipedia.org/wiki/风 "wikilink")、[火](../Page/火.md "wikilink")、[水](../Page/水.md "wikilink")为主题的首弹。同[日本](../Page/日本.md "wikilink")知名[音乐人](https://zh.wikipedia.org/wiki/音乐人 "wikilink")[坂本龙一合作](https://zh.wikipedia.org/wiki/坂本龙一 "wikilink")，作为[日本](../Page/日本.md "wikilink")[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")2008[世界环境日](../Page/世界环境日.md "wikilink")“SAVE THE FUTURE 2008”的[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。
 
 ## 收录内容

@@ -1,3 +1,6 @@
+> 本文内容由[悍馬HX](https://zh.wikipedia.org/wiki/悍馬HX)转换而来。
+
+
 **悍馬HX (Hummer HX)** 是一款[通用汽車生產的SUV概念車於](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")2008/1/8 發表.\[1\]\[2\] 本車像是小型化的H2 和 H3悍馬並有3.6升SIDI [V6引擎可以使用](https://zh.wikipedia.org/wiki/V6 "wikilink")[E85酒精混合油](https://zh.wikipedia.org/wiki/E85 "wikilink").本車甚至比H3還要緊湊 – 只有81 吋 (2,057 mm) 寬, 103吋軸距(2,616-mm) 也定位為雙門敞篷越野車.所有設計都由新工作室的三名年輕設計師完成，所以評論家說外觀有明顯[Halo](https://zh.wikipedia.org/wiki/Halo "wikilink")(最後一戰)電玩遊戲的色彩.而且本質上通用也注意到了銷售量大幅下滑給日本車的一項因素，就是在現今世界高度城市密集化，大體積大馬力的美國式汽車思維在外銷市場逐漸落敗因為在擁擠的城市中馬力無用，反而靈活度和好停車以及低度維修符合城市生活步調。
 
 HX
