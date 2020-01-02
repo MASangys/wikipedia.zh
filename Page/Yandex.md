@@ -1,3 +1,6 @@
+> 本文内容由[Yandex](https://zh.wikipedia.org/wiki/Yandex)转换而来。
+
+
 **Yandex**（，）是一家[俄罗斯](../Page/俄罗斯.md "wikilink")[互联网](../Page/互联网.md "wikilink")企业，旗下的[搜索引擎](../Page/搜索引擎.md "wikilink")在俄国内拥有逾60%的市场占有率，\[1\]同时也提供其他的一系列互联网产品和服务。数据显示，Yandex是目前世界第五大搜索引擎：在2012年4月，平均每日的搜索量超过1.5亿次；5月份，每日访客（包括搜索以外的业务）超过2550万。\[2\]公司的企业使命是为有着任何（明确的或含蓄的）问题的用户提供答案。\[3\]
 
 Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是俄罗斯访问量最高的网址，\[4\]同时也在[白俄罗斯](../Page/白俄罗斯.md "wikilink")、[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")、[乌克兰](../Page/乌克兰.md "wikilink")和[土耳其](../Page/土耳其.md "wikilink")运营，\[5\]而且吸引着超过5600万其他国家的用户使用。\[6\]

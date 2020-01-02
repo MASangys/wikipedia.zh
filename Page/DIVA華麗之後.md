@@ -1,3 +1,6 @@
+> 本文内容由[DIVA華麗之後](https://zh.wikipedia.org/wiki/DIVA華麗之後)转换而来。
+
+
 為一套2012年的香港電影，由[容祖兒](../Page/容祖兒.md "wikilink")、[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")、[胡歌](../Page/胡歌.md "wikilink")及[林欣彤](../Page/林欣彤.md "wikilink")領銜主演，導演[麥曦茵](../Page/麥曦茵.md "wikilink")，監製[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")。上映20日後於香港錄得港幣四百萬元票房。
 
 ## 故事大綱

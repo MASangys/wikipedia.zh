@@ -1,3 +1,6 @@
+> 本文内容由[夜曲Op. 15 \(蕭邦\)](https://zh.wikipedia.org/wiki/夜曲Op._15_\(蕭邦\))转换而来。
+
+
 [thumb](https://zh.wikipedia.org/wiki/image:Chopin_nocturne_op15_1a.png "wikilink") **夜曲Op. 15**是[蕭邦的一組](https://zh.wikipedia.org/wiki/蕭邦 "wikilink")[夜曲作品](https://zh.wikipedia.org/wiki/夜曲 "wikilink")，共三首。該曲於1830至1833年創作，1834年1月出版，獻給德國作曲家[費迪南德·希勒](https://zh.wikipedia.org/wiki/費迪南德·希勒 "wikilink")\[1\]。當中第三首是Op. 15中最為著名的。
 
 ## Op. 15, No. 1

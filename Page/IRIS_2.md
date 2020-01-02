@@ -1,3 +1,6 @@
+> 本文内容由[IRIS 2](https://zh.wikipedia.org/wiki/IRIS_2)转换而来。
+
+
 《**IRIS 2**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2013年2月13日起播出的[水木迷你連續劇](../Page/KBS水木連續劇.md "wikilink")，2009年熱播諜報電視劇《[IRIS](../Page/IRIS_\(電視劇\).md "wikilink")》之續集，由《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》、《[他們的世界](../Page/他們的世界.md "wikilink")》[表民秀](../Page/表民秀.md "wikilink")導演及《[雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink")》[金泰勳導演共同執導](https://zh.wikipedia.org/wiki/金泰勳 "wikilink")，《[lRlS](../Page/IRIS_\(電視劇\).md "wikilink")》、《[Poseidon](../Page/波塞冬_\(電視劇\).md "wikilink")》[趙奎元作家擔任編劇](https://zh.wikipedia.org/wiki/趙奎元 "wikilink")，[張赫與](https://zh.wikipedia.org/wiki/張赫 "wikilink")[李多海](../Page/李多海.md "wikilink")繼《[不汗黨](../Page/不汗黨.md "wikilink")》、《[推奴](../Page/推奴.md "wikilink")》之後第三度攜手演出的電視劇。好萊塢電影《[終極警探：跨國救援](https://zh.wikipedia.org/wiki/終極警探：跨國救援 "wikilink")》製作團隊加盟匈牙利當地的拍攝，在動作、武打、裝備等方面給予許多幫助。\[1\]
 
 ## 故事簡介

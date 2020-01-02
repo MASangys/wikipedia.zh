@@ -1,3 +1,6 @@
+> 本文内容由[夢想夏鄉 -A Summer Day\'s Dream-](https://zh.wikipedia.org/wiki/夢想夏鄉_-A_Summer_Day\'s_Dream-)转换而来。
+
+
 《**夢想夏鄉 -A Summer Day's Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](https://zh.wikipedia.org/wiki/舞風 "wikilink")（MAIKAZE）制作的[東方Project同人動畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")。2008年12月29日，第1話《夢想夏鄉》在[C75以](../Page/Comic_Market.md "wikilink")2200日圓的價格首發\[1\]。作為同人作品，其精美的畫風和華麗的[聲優](../Page/聲優.md "wikilink")陣容引起廣泛議論\[2\]\[3\]。
 
 動畫的製作組曾表示預定全12話，不過鑑於1、2話發售時間間隔長，不排除計劃變更的可能。\[4\]製作組後表示預計4話完結。\[5\]

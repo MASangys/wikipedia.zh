@@ -1,3 +1,6 @@
+> 本文内容由[CAcert](https://zh.wikipedia.org/wiki/CAcert)转换而来。
+
+
 **CAcert.org** 是一个社群推动的公共[认证机构](https://zh.wikipedia.org/wiki/认证机构 "wikilink")。它可以对个人发放免费[公钥证书](https://zh.wikipedia.org/wiki/公钥 "wikilink")\[1\] (其他证书颁发机构需要收费)。该机构目前已经有 200,000 名认证用户，以及接近800,000（截至2012年1月）\[2\]份证书。
 
 该机构的证书支持[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，以及[X.509](../Page/X.509.md "wikilink")协议

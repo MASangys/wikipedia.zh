@@ -1,3 +1,6 @@
+> 本文内容由[THE NEXT DOOR](https://zh.wikipedia.org/wiki/THE_NEXT_DOOR)转换而来。
+
+
 《**THE NEXT DOOR**》是[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）於2009年2月17日發售配信限定數位單曲。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Natthew](https://zh.wikipedia.org/wiki/Natthew)转换而来。
+
+
 {{ 藝人 | 姓名 = Natthew | 類型 = 男歌手 | 圖片 = NATTHEW by Fanclub.jpg | 圖片簡介 = | 圖片尺寸 = | 外文名 = | 外文 = | 英文名 = Natthew | 國籍 =  | 出生日期 =  | 職業 = 歌手、模特、演員 | 活躍年代 = 2008年至今 | 出道日期 = 2012年11月12日（韓國） | 代表作 = | 唱片公司 =  CJ E\&M | 經紀公司 = [CJ E\&M](../Page/CJ_E&M.md "wikilink") | 網站 = }}
 
 **Natthew**（，，），本名 **Nat Thewphaingam**（），是当地选秀节目《Academy Fantasia》的获胜者，在泰国以演员，模特，歌手的身份活动。于2012年11月12日发行韩语单曲《She's Bad》。

@@ -1,3 +1,6 @@
+> 本文内容由[Perfume First Tour 『GAME』](https://zh.wikipedia.org/wiki/Perfume_First_Tour_『GAME』)转换而来。
+
+
 ****是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第二張演唱會](https://zh.wikipedia.org/wiki/Perfume "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/Blu-ray。
 
 ## 概要

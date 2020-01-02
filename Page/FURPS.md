@@ -1,3 +1,6 @@
+> 本文内容由[FURPS](https://zh.wikipedia.org/wiki/FURPS)转换而来。
+
+
 **FURPS**是[功能](../Page/功能需求.md "wikilink")（**f**unction）、[易用性](../Page/易用性.md "wikilink")（**u**sability）、[可靠度](https://zh.wikipedia.org/wiki/可靠度 "wikilink")（**r**eliability）、性能（**p**erformance）及可支援性（**s**upportability）五個詞英文字首的縮寫\[1\]，是一種識別軟體品質屬性的模型。其中功能部份對應[功能需求](../Page/功能需求.md "wikilink")，另外四項則是軟體系統中重要的四項[非功能性需求](../Page/非功能性需求.md "wikilink")，有時會特別用**URPS**來表示此四項非功能性需求。
 
 FURPS可分為以下五項：

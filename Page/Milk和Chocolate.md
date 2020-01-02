@@ -1,3 +1,6 @@
+> 本文内容由[Milk和Chocolate](https://zh.wikipedia.org/wiki/Milk和Chocolate)转换而来。
+
+
 《**Milk和Chocolate**》（）是[ChocoLe](../Page/ChocoLe.md "wikilink")的首張單曲，2011年12月28日由[avex entertainment開始販售](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")。
 
 ## 概要

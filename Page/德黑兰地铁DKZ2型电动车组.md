@@ -1,3 +1,6 @@
+> 本文内容由[德黑兰地铁DKZ2型电动车组](https://zh.wikipedia.org/wiki/德黑兰地铁DKZ2型电动车组)转换而来。
+
+
 **德黑兰地铁DKZ2型电动车组**是[德黑兰地铁的](https://zh.wikipedia.org/wiki/德黑兰地铁 "wikilink")[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在行走于。
 
 ## 简介

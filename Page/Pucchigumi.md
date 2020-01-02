@@ -1,3 +1,6 @@
+> 本文内容由[Pucchigumi](https://zh.wikipedia.org/wiki/Pucchigumi)转换而来。
+
+
 《**Pucchigumi**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2006年創刊。
 
 ## 漫画

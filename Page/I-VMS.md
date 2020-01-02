@@ -1,3 +1,6 @@
+> 本文内容由[I-VMS](https://zh.wikipedia.org/wiki/I-VMS)转换而来。
+
+
 [I-VMS_Model_pic.jpg](https://zh.wikipedia.org/wiki/File:I-VMS_Model_pic.jpg "fig:I-VMS_Model_pic.jpg")
 
 **<big>I-VMS</big>**模型，英文为整体附加值管理系统(**<big>I</big>**ntegrated **<big>V</big>**alue-added **<big>M</big>**anagement **<big>S</big>**ystem)，注重创造附加值，是经济学中一种实际的新方法，对人力资源进行管理。与公司其他管理系统配合，可提高组织、结构管理中的效率，这个方法可增加附加值整体网络、是一个增加附加值的三维复杂控制系统，允许更加有效的管理。 [Logistics_and_I-VMS.jpg](https://zh.wikipedia.org/wiki/File:Logistics_and_I-VMS.jpg "fig:Logistics_and_I-VMS.jpg")

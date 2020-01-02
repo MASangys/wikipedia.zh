@@ -1,3 +1,6 @@
+> 本文内容由[MAKIDAI](https://zh.wikipedia.org/wiki/MAKIDAI)转换而来。
+
+
 **MAKIDAI** 、本名：**真木大輔**（、）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[演員](../Page/演員.md "wikilink")、[司儀](../Page/司儀.md "wikilink")。前[EXILE的表演者](https://zh.wikipedia.org/wiki/EXILE "wikilink")。元[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")、[RATHER UNIQUE](https://zh.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")。
 
 [神奈川縣](../Page/神奈川縣.md "wikilink")[横滨市](../Page/横滨市.md "wikilink")出身。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
@@ -126,7 +129,7 @@
 
 ## DJ MAKIDAI
 
-**DJ MAKIDAI**是EXILE表演者MAKIDAI以DJ身份時的稱呼、[PKCZ的成員](https://zh.wikipedia.org/wiki/PKCZ "wikilink")。所屬唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。 2014年與EXILE HIRO、VERBAL及DJ DARUMA一起結成「[PKCZ](https://zh.wikipedia.org/wiki/PKCZ "wikilink")」。
+**DJ MAKIDAI**是EXILE表演者MAKIDAI以DJ身份時的稱呼、[PKCZ的成員](https://zh.wikipedia.org/wiki/PKCZ "wikilink")。所屬唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。2014年與EXILE HIRO、VERBAL及DJ DARUMA一起結成「[PKCZ](https://zh.wikipedia.org/wiki/PKCZ "wikilink")」。
 
 ### 作品
 

@@ -1,3 +1,6 @@
+> 本文内容由[NetBIOS](https://zh.wikipedia.org/wiki/NetBIOS)转换而来。
+
+
 **NetBIOS**，為**網路基本輸入輸出系統**（）的縮寫，它提供了[OSI模型](../Page/OSI模型.md "wikilink")中的[會話層服務](https://zh.wikipedia.org/wiki/會話層 "wikilink")，讓在不同電腦上運行的不同程式，可以在[區域網路中](https://zh.wikipedia.org/wiki/區域網路 "wikilink")，互相連線，以及分享資料。嚴格來說，NetBIOS不是一種網路協定，而是[应用程序接口](../Page/应用程序接口.md "wikilink")（API）。較古老的作業系統，使用[IEEE 802.2與](https://zh.wikipedia.org/wiki/IEEE_802.2 "wikilink")[IPX/SPX協定](https://zh.wikipedia.org/wiki/IPX/SPX "wikilink")，可以使用[NetBIOS Frames協定或NetBIOS](https://zh.wikipedia.org/wiki/NetBIOS_Frames協定 "wikilink") over IPX/SPX協定來運作。現代作業系統，多數都使用TCP/IP協定，則可透過[NetBIOS over TCP/IP協定來相互通訊](https://zh.wikipedia.org/wiki/NetBIOS_over_TCP/IP "wikilink")。
 
 ## 歷史

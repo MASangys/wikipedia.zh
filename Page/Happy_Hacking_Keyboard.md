@@ -1,3 +1,6 @@
+> 本文内容由[Happy Hacking Keyboard](https://zh.wikipedia.org/wiki/Happy_Hacking_Keyboard)转换而来。
+
+
 [Happy_Hacking_Keyboard_Professional_2.jpg](https://zh.wikipedia.org/wiki/File:Happy_Hacking_Keyboard_Professional_2.jpg "fig:Happy_Hacking_Keyboard_Professional_2.jpg") [Happy_Hacking_Keyboard_Lite_2.jpg](https://zh.wikipedia.org/wiki/File:Happy_Hacking_Keyboard_Lite_2.jpg "fig:Happy_Hacking_Keyboard_Lite_2.jpg")布局，但是不标假名。）\]\]
 
 **Happy Hacking Keyboard**（缩写为**HHKB**）是由株式会社[PFU](https://zh.wikipedia.org/wiki/PFU "wikilink")（[富士通](../Page/富士通.md "wikilink")的全资子公司）所经销的[计算机](../Page/个人电脑.md "wikilink")[键盘](../Page/电脑键盘.md "wikilink")。本键盘由[和田英一和](https://zh.wikipedia.org/wiki/和田英一 "wikilink")[PFU研究所共同开发](https://zh.wikipedia.org/wiki/PFU "wikilink")，于1996年12月开始销售。

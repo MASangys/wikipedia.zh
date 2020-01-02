@@ -1,3 +1,6 @@
+> 本文内容由[The Jam](https://zh.wikipedia.org/wiki/The_Jam)转换而来。
+
+
 **The Jam**是一支來自[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[薩里郡](../Page/薩里郡.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[朋克風格](https://zh.wikipedia.org/wiki/朋克 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。The Jam在[1972年組成](https://zh.wikipedia.org/wiki/1972 "wikilink")，成員包括被認為最出色的[主音](../Page/主音.md "wikilink")及[吉他](../Page/吉他.md "wikilink")手[Paul Weller](https://zh.wikipedia.org/wiki/Paul_Weller "wikilink"), [貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")[Bruce Foxton](https://zh.wikipedia.org/wiki/Bruce_Foxton "wikilink"), [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")[Rick Buckler及](https://zh.wikipedia.org/wiki/Rick_Buckler "wikilink")[樂隊成立早期時已離隊的](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[吉他](../Page/吉他.md "wikilink")手Steve Brookes。
 
 在[樂隊組成的十年之後](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，由[Paul Weller在](https://zh.wikipedia.org/wiki/Paul_Weller "wikilink")[1982年宣佈The](https://zh.wikipedia.org/wiki/1982 "wikilink") Jam正式解散。

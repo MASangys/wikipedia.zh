@@ -1,3 +1,6 @@
+> 本文内容由[Expedia公司](https://zh.wikipedia.org/wiki/Expedia公司)转换而来。
+
+
 **Expedia公司**（；）是一家线上旅游公司，旗下品牌包括[Expedia.com](https://zh.wikipedia.org/wiki/Expedia.com "wikilink")、[Hotels.com](https://zh.wikipedia.org/wiki/:en:Hotels.com "wikilink")、[Orbitz.com](https://zh.wikipedia.org/wiki/:en:Orbitz.com "wikilink")、[Travelocity](https://zh.wikipedia.org/wiki/:en:Travelocity "wikilink")、[Trivago](https://zh.wikipedia.org/wiki/Trivago "wikilink")、[Hotwire.com](https://zh.wikipedia.org/wiki/:en:Hotwire.com "wikilink")、Egencia、[Venere.com](https://zh.wikipedia.org/wiki/:en:Venere.com "wikilink")、[HomeAway](https://zh.wikipedia.org/wiki/:en:HomeAway "wikilink")、Expedia本土专家、Classic Vacations。Expedia是納斯達克上市公司，股票代码为EXPE。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[ENFJ](https://zh.wikipedia.org/wiki/ENFJ)转换而来。
+
+
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ENFJ**(外倾/直觉/情感/判断)是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink")，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")**[教師](https://zh.wikipedia.org/wiki/教師_\(角色变异\) "wikilink")**，属于[理想主义者的四种类型之一](https://zh.wikipedia.org/wiki/理性者_\(气质类型\) "wikilink")。\[1\]
 
 ENFJ约占人口的2.4%。\[2\]

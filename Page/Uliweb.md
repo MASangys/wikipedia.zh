@@ -1,3 +1,6 @@
+> 本文内容由[Uliweb](https://zh.wikipedia.org/wiki/Uliweb)转换而来。
+
+
 **Uliweb**（*UnLimited Web Framework*）是一款中型[Python](../Page/Python.md "wikilink")web框架。 框架采用与[Django](../Page/Django.md "wikilink")相同的MVT模式和的模板，底层基于[Werkzeug](https://zh.wikipedia.org/wiki/Werkzeug "wikilink")，数据库[ORM则对](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")[SQLAlchemy](../Page/SQLAlchemy.md "wikilink")进行了封装。Uliweb使用BSD授权。
 
 ## 特性

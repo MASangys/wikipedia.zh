@@ -1,3 +1,6 @@
+> 本文内容由[OSV-96狙擊步槍](https://zh.wikipedia.org/wiki/OSV-96狙擊步槍)转换而来。
+
+
 **OSV-96“胡桃鉗”**（，）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠研製的](../Page/俄联邦仪器设计局.md "wikilink")12.7毫米（.50英吋）大口徑重型[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 其主要用途是打擊距離超過1,000公尺（1,093.61码，3,280.84英尺，0.62英里）的目標、反狙擊、貫穿厚厚的牆壁和輕型[裝甲戰鬥車輛](../Page/装甲车.md "wikilink")。

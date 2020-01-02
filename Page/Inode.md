@@ -1,3 +1,6 @@
+> 本文内容由[Inode](https://zh.wikipedia.org/wiki/Inode)转换而来。
+
+
 **inode**是指在许多“类[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[文件系统](../Page/文件系统.md "wikilink")”中的一种[数据结构](../Page/数据结构.md "wikilink")。每个inode保存了文件系统中的一个**文件系统对象**（包括[文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")、[目录](../Page/目录_\(文件系统\).md "wikilink")、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[socket](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")、[管道](../Page/管道_\(Unix\).md "wikilink"), 等等）的元信息数据，但不包括数据内容或者文件名\[1\]。
 
 ## 命名

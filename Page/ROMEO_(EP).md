@@ -1,3 +1,6 @@
+> 本文内容由[ROMEO \(EP\)](https://zh.wikipedia.org/wiki/ROMEO_\(EP\))转换而来。
+
+
 《**ROMEO**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee](../Page/SHINee.md "wikilink")在2009年5月25日公佈的第二張EP。歌曲《茱麗葉》*<small>(줄리엣 (Juliette))</small>*為宣傳單曲。原發行日期為5月21日，但由隊長[溫流](../Page/溫流.md "wikilink")牙齒損壞，後來宣布要唱片發行日期被推遲至5月25日。
 
 ## 專輯簡介

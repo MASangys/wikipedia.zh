@@ -1,3 +1,6 @@
+> 本文内容由[ROCKBOUND NEIGHBORS](https://zh.wikipedia.org/wiki/ROCKBOUND_NEIGHBORS)转换而来。
+
+
 **ROCKBOUND NEIGHBORS**是[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第九张個人专辑。於2012年12月12日由[King Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 专辑解説

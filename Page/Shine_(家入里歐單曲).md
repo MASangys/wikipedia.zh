@@ -1,3 +1,6 @@
+> 本文内容由[Shine \(家入里歐單曲\)](https://zh.wikipedia.org/wiki/Shine_\(家入里歐單曲\))转换而来。
+
+
 《**Shine**》是[家入里歐](../Page/家入里歐.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Victor Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 概要

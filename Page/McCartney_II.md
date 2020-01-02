@@ -1,3 +1,6 @@
+> 本文内容由[McCartney II](https://zh.wikipedia.org/wiki/McCartney_II)转换而来。
+
+
 **McCartney II**是英国音乐家[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")的第三张个人录音室专辑。
 
 ## 曲目列表

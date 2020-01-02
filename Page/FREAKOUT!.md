@@ -1,3 +1,6 @@
+> 本文内容由[FREAKOUT!](https://zh.wikipedia.org/wiki/FREAKOUT!)转换而来。
+
+
 **FREAKOUT\!**是[日本](../Page/日本.md "wikilink")音樂組合[(二代目)J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年8月20日起於[EXILE mobile限量發售](https://zh.wikipedia.org/wiki/EXILE_mobile "wikilink")。
 
 ## 解說

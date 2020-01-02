@@ -1,3 +1,6 @@
+> 本文内容由[DJG2型电力机车](https://zh.wikipedia.org/wiki/DJG2型电力机车)转换而来。
+
+
 **DJG2型电力机车**是一台由[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大同电力机车有限责任公司开发研制的实验性高速](https://zh.wikipedia.org/wiki/大同电力机车有限责任公司 "wikilink")[电力机车](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，主要目的为验证和试验由中国北车集团自主研发的大功率交流传动牵引变流及控制系统。
 
 ## 发展历史

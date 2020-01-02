@@ -1,3 +1,6 @@
+> 本文内容由[Perfume 3rd Tour ｢JPN｣](https://zh.wikipedia.org/wiki/Perfume_3rd_Tour_｢JPN｣)转换而来。
+
+
 ****是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume "wikilink")6張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")/Blu-ray。
 
 ## 概要

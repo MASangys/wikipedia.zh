@@ -1,3 +1,6 @@
+> 本文内容由[天長地久／Drive me crazy](https://zh.wikipedia.org/wiki/天長地久／Drive_me_crazy)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")歌手[倉木麻衣](../Page/倉木麻衣.md "wikilink")的第三十三張單曲，於2010年3月3日發行。
 
 ## 簡介

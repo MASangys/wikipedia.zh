@@ -1,3 +1,6 @@
+> 本文内容由[Game Center](https://zh.wikipedia.org/wiki/Game_Center)转换而来。
+
+
 **Game Center**是一個由[苹果公司所創立的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[線上](../Page/互联网.md "wikilink")[多人競賽網路遊戲中心](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")\[1\]\[2\]。它允許用戶邀請好友進行遊戲，或者透過線上配對來進行多人遊戲。 Game Center會記錄玩家的遊戲成績，還有一個玩家英雄榜，將遊戲玩家的戰績排名\[3\]。Game Center最初於2010年4月8日發表，同年9月8日和11月，分別正式推出適用於iOS 4.1和使用iOS 4.2系統的iPad的軟體版本。Game Center為配合iOS 5系統，於2011年10月進行了一次重大的更新，並開始支援回合制比賽\[4\]。从iOS10开始，Game Center将不再以应用的形式出现，而转为一种服务。\[5\]
 
 2012年2月16日，苹果公司宣布Game Center將整合到Mac OS X的最新版本—[Mountain Lion中](https://zh.wikipedia.org/wiki/Mountain_Lion "wikilink")，並於7月25日發行\[6\]。有些遊戲現在可以共享Mac和iOS系統中線上多人遊戲的功能\[7\]。
@@ -70,37 +73,22 @@ iPhone 3G和第一代iPhone不被支持。然而，iPhone 3G 可以通过越狱�
 [Category:多人遊戲服務](https://zh.wikipedia.org/wiki/Category:多人遊戲服務 "wikilink") [Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:蘋果公司服務](https://zh.wikipedia.org/wiki/Category:蘋果公司服務 "wikilink") [Category:部落冲突](https://zh.wikipedia.org/wiki/Category:部落冲突 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [苹果“ - OS X Mountain Lion](http://www.apple.com/macosx/mountain-lion/features.html#gamecenter)
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
 19.
-
 20. <http://www.apple.com/macosx/mountain-lion/features.html＃的GameCenter>

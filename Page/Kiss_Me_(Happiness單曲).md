@@ -1,3 +1,6 @@
+> 本文内容由[Kiss Me \(Happiness單曲\)](https://zh.wikipedia.org/wiki/Kiss_Me_\(Happiness單曲\))转换而来。
+
+
 「**Kiss Me**」是[Happiness的出道](../Page/Happiness_\(組合\).md "wikilink")・單曲。2011年2月9日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 概要

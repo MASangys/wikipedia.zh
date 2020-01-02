@@ -1,3 +1,6 @@
+> 本文内容由[御夫座AB](https://zh.wikipedia.org/wiki/御夫座AB)转换而来。
+
+
 **御夫座**（****）是一顆位於御夫座的[變星](../Page/變星.md "wikilink")。該恆星因為周圍擁有可能存在行星或棕矮星的塵埃盤而聞名，並且可能有軌道半徑較大的[亞恆星伴星存在](https://zh.wikipedia.org/wiki/亞恆星 "wikilink")。
 
 ## 可能的行星系統？

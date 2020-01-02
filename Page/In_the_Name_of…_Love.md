@@ -1,3 +1,6 @@
+> 本文内容由[In the Name of… Love](https://zh.wikipedia.org/wiki/In_the_Name_of…_Love)转换而来。
+
+
 《**In The Name Of… Love**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的第十七張大碟，第五張粵語專輯，在2007年12月21日推出，第一主打歌是《Here I Go》，而第二主打歌為《我教你分手》。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Telemundo电视台](https://zh.wikipedia.org/wiki/Telemundo电视台)转换而来。
+
+
 **Telemundo电视台** ([西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")：**Telemundo**) 是[NBC环球](https://zh.wikipedia.org/wiki/NBC环球 "wikilink")（NBCUniversal）在[美国](../Page/美国.md "wikilink")所拥有的西班牙语电视网络。通过当地的广播电台，有线电视和卫星网络在142个市场的西语裔和拉美裔住宅区达到58％的覆盖率。
 
 ## 历史

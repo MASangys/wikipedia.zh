@@ -1,3 +1,6 @@
+> 本文内容由[SPEED \(韓國音樂團體\)](https://zh.wikipedia.org/wiki/SPEED_\(韓國音樂團體\))转换而来。
+
+
 **SPEED**（）為[MBK娛樂](../Page/MBK娛樂.md "wikilink")旗下已解散的男子團體。原為韓國混聲音樂團體[男女共學的男性子團](https://zh.wikipedia.org/wiki/男女共學_\(組合\) "wikilink")，後為獨立團體。SPEED的官方粉絲名稱為「DEEPS」，意思為被SPEED深深吸引的人們。
 
 ## 經歷

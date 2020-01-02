@@ -1,3 +1,6 @@
+> 本文内容由[Life \(紀錄片\)](https://zh.wikipedia.org/wiki/Life_\(紀錄片\))转换而来。
+
+
 《**Life**》（）為[英國廣播公司製作的自然紀錄片](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，由[大衛·愛登堡旁白](https://zh.wikipedia.org/wiki/大衛·愛登堡 "wikilink")，2009年10月12日起於[英國廣播公司第一台](../Page/英國廣播公司第一台.md "wikilink")及[高清台首播](https://zh.wikipedia.org/wiki/英國廣播公司高清台 "wikilink")，共10集。節目製作歷時4年，由與[探索頻道](../Page/探索頻道.md "wikilink")、及[英國公開大學聯合製作](https://zh.wikipedia.org/wiki/英國公開大學 "wikilink")，並以[高清攝製](https://zh.wikipedia.org/wiki/高清 "wikilink")。\[1\]
 
 本片每集皆附上10分鐘的《Life製作特輯》（-{Life}- on Location），講述攝製隊在拍攝過程遇到的種種困難及有趣見聞。

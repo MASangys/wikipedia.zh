@@ -1,3 +1,6 @@
+> 本文内容由[Google Play图书](https://zh.wikipedia.org/wiki/Google_Play图书)转换而来。
+
+
 **Google Play圖書**（），以前稱為**Google[電子書](../Page/電子書.md "wikilink")**（），是[Google](../Page/Google.md "wikilink")提供的[電子書](../Page/電子書.md "wikilink")[數位分發服務](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。用戶可以從[Google Play購買和下載](../Page/Google_Play.md "wikilink")[電子書](../Page/電子書.md "wikilink")，該服務提供超過500萬本[電子書](../Page/電子書.md "wikilink")，Google聲稱它是全球最大的電子書商店。用戶還可以向他們的Google Play圖書帳戶雲端存儲中上傳多達1000個[PDF或](https://zh.wikipedia.org/wiki/便携式文档格式 "wikilink")[EPUB](../Page/EPUB.md "wikilink")格式的電子書，並在多個設備之間同步。但不支持上傳受到Google Play圖書 [數字版權管理](../Page/数字版权管理.md "wikilink")（DRM）保護的電子書。\[1\]而使用Google Play圖書需要Google帳戶。
 
 與[Amazon.com的](../Page/亞馬遜公司.md "wikilink")[Kindle Store和](https://zh.wikipedia.org/wiki/Kindle_Store "wikilink")[Apple的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iBooks不同](https://zh.wikipedia.org/wiki/iBooks "wikilink")，用於從Google Play圖書購買的受保護項目的DRM系統基於Adobe的[開放平台DRM系統](../Page/開放平臺.md "wikilink")。這樣，用戶可以通過EPUB和PDF格式從Google Play圖書下載受DRM保護的圖書，這些圖書可以傳輸到支持Adobe Content Server 4 DRM的電子閱讀器和應用程序上閱讀。\[2\]\[3\] 支持的電子閱讀器包括Nook和Sony Reader。受DRM保護的電子書不能轉移到[Amazon Kindles或Apple](../Page/Kindle.md "wikilink") iBook，因為它們不支持Adobe的DRM。將受DRM保護的圖書傳送到電子閱讀器需要在計算機上安裝Adobe Digital Editions軟件。\[4\] 通過Google Play提供圖書的作者可以選擇不啟用DRM保護，在這種情況下，下載的電子書可以免費轉移到其他平台，包括Kindle和iBooks。\[5\]

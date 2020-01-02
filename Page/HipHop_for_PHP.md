@@ -1,3 +1,6 @@
+> 本文内容由[HipHop for PHP](https://zh.wikipedia.org/wiki/HipHop_for_PHP)转换而来。
+
+
 是一系列[PHP](../Page/PHP.md "wikilink")腳本語言的程式碼轉換器的集合，它包含、、以及，這四個腳本引擎各有所不同，但是他們共用相同的运行時（）及工具集（）。是由[Facebook](../Page/Facebook.md "wikilink")所建立，他們用它來節省伺服器的資源。被發佈時，已經是高達60萬行由[C++](../Page/C++.md "wikilink")及[C所撰寫的程式碼](https://zh.wikipedia.org/wiki/C语言 "wikilink")，它以[自由软件](../Page/自由软件.md "wikilink")發佈，採用[PHP许可证](../Page/PHP许可证.md "wikilink") 3.01版。
 
 可顯著的增快應用程式的速度，藉由2到6個已觀察到的要素，改善了網頁生成的效能\[1\]\[2\]。

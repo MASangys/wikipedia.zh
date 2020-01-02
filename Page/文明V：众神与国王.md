@@ -1,3 +1,6 @@
+> 本文内容由[文明V：众神与国王](https://zh.wikipedia.org/wiki/文明V：众神与国王)转换而来。
+
+
 《**文明V：众神与国王**》（）是由[Firaxis开发的](https://zh.wikipedia.org/wiki/Firaxis "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")[文明系列](../Page/文明系列.md "wikilink")的第五部——《[-{zh-cn:文明V;zh-tw:文明帝國5;}-](https://zh.wikipedia.org/wiki/文明V "wikilink")》的首部资料片，於2012年6月19日於北美洲市場推出。《文明V：众神与国王》中不但增添了27种新单位、13种新建筑、9种新奇迹、9种可游玩的新文明，更改了投射兵种的升级链，还重新引入了[宗教](../Page/宗教.md "wikilink")系统和[谍报机制](https://zh.wikipedia.org/wiki/谍报 "wikilink")，同时[外交](../Page/外交.md "wikilink")也较前作而言变得更为丰富。
 
 ## 新增文明

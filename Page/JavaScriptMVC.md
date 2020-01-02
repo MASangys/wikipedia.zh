@@ -1,3 +1,6 @@
+> 本文内容由[JavaScriptMVC](https://zh.wikipedia.org/wiki/JavaScriptMVC)转换而来。
+
+
 **JavaScriptMVC** 是一套[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[多樣化網際網路應用程式](https://zh.wikipedia.org/wiki/多樣化網際網路應用程式 "wikilink")[框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，以 [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink") 與 [OpenAJAX](https://zh.wikipedia.org/wiki/OpenAJAX "wikilink") 為基礎。JavaScriptMVC 利用 [MVC](../Page/MVC.md "wikilink") 架構與工具擴展這些[函式庫](../Page/函式庫.md "wikilink")，以便開發與測試。由於 JavaScriptMVC 不需要任何伺服器端的配合，因此它可以和任何的網站服務介面與程式語言整合，如 [ASP.NET](../Page/ASP.NET.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink") 或 [Ruby](../Page/Ruby.md "wikilink")。
 
 ## 歷史

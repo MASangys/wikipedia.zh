@@ -1,3 +1,6 @@
+> 本文内容由[MAS-49半自动步枪](https://zh.wikipedia.org/wiki/MAS-49半自动步枪)转换而来。
+
+
 **MAS-49**是法国的半自动军用步枪，在二战结束后用来替换在法军里的的手动步枪（MAS-36、李恩菲尔德No4、美国M1917和K98k）。它是由MAS（全称为manufacture d'armes de Saint-Etienne，法国政府的国营兵工厂之一）设计制造\[1\]。MAS-49在法国陆军内正式命名为“**M-1949 7.5毫米半自动步枪**”。MAS-49式半自动步枪生产数量有限（仅20,600把），而更短、更轻的变种MAS-49/56则投入大规模生产（共制造275,240把），并配备所有法国军队。这两种步枪都可以装上一个可拆卸的狙击镜。 [MAS_49_rifle.jpg](https://zh.wikipedia.org/wiki/File:MAS_49_rifle.jpg "fig:MAS_49_rifle.jpg")
 
 ## 背景

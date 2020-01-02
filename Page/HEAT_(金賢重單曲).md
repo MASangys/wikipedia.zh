@@ -1,3 +1,6 @@
+> 本文内容由[HEAT \(金賢重單曲\)](https://zh.wikipedia.org/wiki/HEAT_\(金賢重單曲\))转换而来。
+
+
 《**HEAT**》（）是[金賢重](../Page/金賢重.md "wikilink")在2012年7月4日於日本發行的第二張個人單曲。
 
 ## 單曲概述

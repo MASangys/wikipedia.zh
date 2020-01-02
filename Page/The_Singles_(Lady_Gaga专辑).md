@@ -1,3 +1,6 @@
+> 本文内容由[The Singles \(Lady Gaga专辑\)](https://zh.wikipedia.org/wiki/The_Singles_\(Lady_Gaga专辑\))转换而来。
+
+
 **The Singles**是日本[環球唱片自主發行收錄](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[美国](../Page/美国.md "wikilink")流行歌手[女神卡卡八首單曲的](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")\[1\]，限定生產量為5000套，內含9隻CD並以9個單曲水晶薄盒保存，對摺了的封面紙裡面是印有日英對譯的歌詞頁。 本套裝收錄了八張單曲碟加一張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，八首單曲為[女神卡卡於](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[Born This Way單曲發表前全部單曲](https://zh.wikipedia.org/wiki/Born_This_Way "wikilink")（但不包括宣傳單曲Beautiful, Dirty, Rich及Dance In The Dark），而[EP則收錄](https://zh.wikipedia.org/wiki/EP "wikilink")[女神卡卡於櫻花會時現唱演唱的歌曲並加入了](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[女神卡卡的](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")《Christmas Tree》作額外歌曲。而且《The Singles》裡的《櫻花會》亦是唯一有收錄歌曲《Christmas Tree》的發佈唱片。
 
 ## 套裝曲目表

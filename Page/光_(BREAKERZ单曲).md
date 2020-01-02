@@ -1,3 +1,6 @@
+> 本文内容由[光 \(BREAKERZ单曲\)](https://zh.wikipedia.org/wiki/光_\(BREAKERZ单曲\))转换而来。
+
+
 《**光**》是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年7月15日由[ZAIN RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 收錄曲

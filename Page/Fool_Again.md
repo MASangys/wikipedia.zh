@@ -1,3 +1,6 @@
+> 本文内容由[Fool Again](https://zh.wikipedia.org/wiki/Fool_Again)转换而来。
+
+
 **Fool Again**是[西域男孩同名专辑中最后发布的单曲](https://zh.wikipedia.org/wiki/西域男孩 "wikilink")，是该组合连续第5首冠军单曲，目前在英国已售出超过215 000份。\[1\]
 
 ## 记录

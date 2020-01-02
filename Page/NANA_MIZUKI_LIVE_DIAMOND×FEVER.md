@@ -1,3 +1,6 @@
+> 本文内容由[NANA MIZUKI LIVE DIAMOND×FEVER](https://zh.wikipedia.org/wiki/NANA_MIZUKI_LIVE_DIAMOND×FEVER)转换而来。
+
+
 『**NANA MIZUKI LIVE DIAMOND×FEVER**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第8作張Live影像作品\[1\]。2009年12月23日由[King Records以Blu](https://zh.wikipedia.org/wiki/King_Records "wikilink")-ray Disc、DVD發售。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t cry anymore](https://zh.wikipedia.org/wiki/Don\'t_cry_anymore)转换而来。
+
+
 《**don't cry anymore**》是日本[創作歌手](../Page/創作歌手.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")1張單曲，於2010年3月3日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 發行與宣傳

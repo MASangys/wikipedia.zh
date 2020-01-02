@@ -1,3 +1,6 @@
+> 本文内容由[擁抱我HOLD ON ME!](https://zh.wikipedia.org/wiki/擁抱我HOLD_ON_ME!)转换而来。
+
+
 「**擁抱我HOLD ON ME\!**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第3张[单曲](../Page/单曲.md "wikilink")。於1998年9月9日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

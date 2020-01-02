@@ -1,3 +1,6 @@
+> 本文内容由[GLOBAL COMMUNICATION](https://zh.wikipedia.org/wiki/GLOBAL_COMMUNICATION)转换而来。
+
+
 『**GLOBAL COMMUNICATION**』是[GLAY](../Page/GLAY.md "wikilink")的第22張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

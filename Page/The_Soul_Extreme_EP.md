@@ -1,3 +1,6 @@
+> 本文内容由[The Soul Extreme EP](https://zh.wikipedia.org/wiki/The_Soul_Extreme_EP)转换而来。
+
+
 《The Soul Extreme EP》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2011年5月11日發行之2nd[EP](https://zh.wikipedia.org/wiki/EP "wikilink")。
 
 ## 解說

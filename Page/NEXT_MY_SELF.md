@@ -1,3 +1,6 @@
+> 本文内容由[NEXT MY SELF](https://zh.wikipedia.org/wiki/NEXT_MY_SELF)转换而来。
+
+
 「**NEXT MY SELF**」是[日本](../Page/日本.md "wikilink")女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年12月12日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

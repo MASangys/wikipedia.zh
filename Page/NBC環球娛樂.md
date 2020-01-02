@@ -1,3 +1,6 @@
+> 本文内容由[NBC環球娛樂](https://zh.wikipedia.org/wiki/NBC環球娛樂)转换而来。
+
+
 **日本NBC環球娛樂有限責任公司**（／），是[NBC環球](../Page/NBC環球.md "wikilink")旗下影音娛樂製作企劃公司。
 
 ## 概要

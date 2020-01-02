@@ -1,3 +1,6 @@
+> 本文内容由[Neko Jump](https://zh.wikipedia.org/wiki/Neko_Jump)转换而来。
+
+
 **Neko Jump**（\[1\]、）是[泰國的双胞胎音乐組合](https://zh.wikipedia.org/wiki/泰國 "wikilink")。2006年9月出道。2007年開始進行公演。
 
 ## 成員

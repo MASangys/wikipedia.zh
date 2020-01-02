@@ -1,3 +1,6 @@
+> 本文内容由[Seemann](https://zh.wikipedia.org/wiki/Seemann)转换而来。
+
+
 《**Seemann**》（德译：[水手](../Page/水手.md "wikilink")、[海员](https://zh.wikipedia.org/wiki/海员 "wikilink")）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")。
 
 ## MV

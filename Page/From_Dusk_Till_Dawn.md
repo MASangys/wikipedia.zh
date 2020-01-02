@@ -1,3 +1,6 @@
+> 本文内容由[From Dusk Till Dawn](https://zh.wikipedia.org/wiki/From_Dusk_Till_Dawn)转换而来。
+
+
 『**From Dusk Till Dawn**』是[學院貴公子](../Page/學院貴公子.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年12月16日發售。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[HAT-P-8](https://zh.wikipedia.org/wiki/HAT-P-8)转换而来。
+
+
 **HAT-P-8**是一顆視星等10等的恆星，距離地球約750光年，位於[飛馬座](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")\[1\]。
 
 ## 行星系統

@@ -1,3 +1,6 @@
+> 本文内容由[Girls Forever](https://zh.wikipedia.org/wiki/Girls_Forever)转换而来。
+
+
 《**Girls Forever**》（）是[韩国女子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[KARA在日本发行的第三弹日语原作專輯](https://zh.wikipedia.org/wiki/KARA "wikilink")，于2012年11月14日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本

@@ -1,3 +1,6 @@
+> 本文内容由[OgaFight](https://zh.wikipedia.org/wiki/OgaFight)转换而来。
+
+
 **OgaFight**是一款由[國立雲林科技大學數位媒體設計系學生團隊](https://zh.wikipedia.org/wiki/國立雲林科技大學 "wikilink")[CVER.NET開發的](https://zh.wikipedia.org/wiki/CVER.NET "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[ACT類](https://zh.wikipedia.org/wiki/ACT "wikilink")[持續性網頁遊戲](https://zh.wikipedia.org/wiki/持續性網頁遊戲 "wikilink")。
 
 ## 概要

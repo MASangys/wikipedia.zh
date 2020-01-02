@@ -1,3 +1,6 @@
+> 本文内容由[Suddenly, This Summer](https://zh.wikipedia.org/wiki/Suddenly,_This_Summer)转换而来。
+
+
 《**Suddenly, this summer**》是[梁詠琪的廣東音樂專輯](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")，於2001年6月28日推出。
 
 ## 曲目

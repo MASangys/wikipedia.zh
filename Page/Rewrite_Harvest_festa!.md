@@ -1,3 +1,6 @@
+> 本文内容由[Rewrite Harvest festa!](https://zh.wikipedia.org/wiki/Rewrite_Harvest_festa!)转换而来。
+
+
 《**Rewrite Harvest festa\!**》是[Key发售的第](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")10个[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")，是同一公司2011年发售的游戏《[Rewrite](../Page/Rewrite.md "wikilink")》的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")，于2012年7月27日发售。\[1\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[大熊座CO](https://zh.wikipedia.org/wiki/大熊座CO)转换而来。
+
+
 **大熊座CO**，又名**BD+37 2162**，**HD 96813**、**SAO 62427**、**HR 4333**，是[大熊座](../Page/大熊座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.74，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")183.56，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")66.52，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

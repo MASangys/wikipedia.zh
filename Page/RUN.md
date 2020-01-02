@@ -1,3 +1,6 @@
+> 本文内容由[RUN](https://zh.wikipedia.org/wiki/RUN)转换而来。
+
+
 《**RUN**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第六张录音室专辑。1992年10月28日由[BMG ROOMS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 最終銷量約219.6萬張，為日本最暢銷專輯第63名。

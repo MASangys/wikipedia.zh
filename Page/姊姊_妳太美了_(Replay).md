@@ -1,3 +1,6 @@
+> 本文内容由[姊姊 妳太美了 \(Replay\)](https://zh.wikipedia.org/wiki/姊姊_妳太美了_\(Replay\))转换而来。
+
+
 《**姊姊 妳太美了 (Replay)**》是[南韓男子组合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的出道迷你專輯，於2008年5月23日正式發售。這張迷你專輯首日在韓國音樂榜登上第十名，並且飆升到第八名，2008年上半年的總銷量為17,957張。其中歌曲《姊姊 妳太美了 (Replay)》為SHINee的出道單曲。
 
 ## 專輯簡介

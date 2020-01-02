@@ -1,3 +1,6 @@
+> 本文内容由[On Call 36小時II](https://zh.wikipedia.org/wiki/On_Call_36小時II)转换而来。
+
+
 [Queen_Elizabeth_Hospital.jpg](https://zh.wikipedia.org/wiki/File:Queen_Elizabeth_Hospital.jpg "fig:Queen_Elizabeth_Hospital.jpg")取景拍攝\]\] 《**On Call 36小時II**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，並由[黃智雯](../Page/黃智雯.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[朱千雪](../Page/朱千雪.md "wikilink")、[岑麗香](https://zh.wikipedia.org/wiki/岑麗香 "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[古明華](../Page/古明華.md "wikilink")聯合主演，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為第十七屆香港國際影視展中無綫電視重點推介的劇集之一，亦是無綫電視**46週年台慶劇**，並由FWD香港富衛保險呈獻。此劇於[伊利沙伯醫院](../Page/伊利沙伯醫院.md "wikilink")取景拍攝。
 
 ## 演員表
@@ -931,7 +934,7 @@
 <td><p>丘晴樂</p></td>
 <td><p>臨床心理學家<br />
 張一健之學姐<br />
-孫朗月之好友<br />
+孫曼月之好友<br />
 昔日曾追求洛文笙</p></td>
 </tr>
 <tr class="even">
@@ -1352,7 +1355,8 @@ Monica之生意夥伴<br />
 
 ## 軼事
 
-此劇是2012年香港小姐亞軍[黃心穎](../Page/黃心穎.md "wikilink")與季軍[朱千雪](../Page/朱千雪.md "wikilink")首度同時合作一劇。
+  - 此劇是2012年香港小姐亞軍[黃心穎](../Page/黃心穎.md "wikilink")與季軍[朱千雪](../Page/朱千雪.md "wikilink")首度同時合作一劇。
+  - 此劇是[吳啟華](../Page/吳啟華.md "wikilink")時隔7年後回巢[無綫電視拍攝的劇集](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
 ## 記事
 

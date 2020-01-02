@@ -1,3 +1,6 @@
+> 本文内容由[Give Me Your Heart](https://zh.wikipedia.org/wiki/Give_Me_Your_Heart)转换而来。
+
+
 **《Give Me Your Heart》**是韓國人氣男子組合 [SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年9月5日由[Victor Entertainment旗下Colourful](https://zh.wikipedia.org/wiki/:ja:ビクターエンタテインメント "wikilink") Records\[1\]所發行的首張個人日文單曲。
 
 ## 單曲概述

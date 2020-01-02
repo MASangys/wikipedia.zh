@@ -1,3 +1,6 @@
+> 本文内容由[新科動力CPW衝鋒槍](https://zh.wikipedia.org/wiki/新科動力CPW衝鋒槍)转换而来。
+
+
 **新科動力CPW**（，意為：緊湊型個人武器）是一款由[新加坡](../Page/新加坡.md "wikilink")國防企業新科動力（全稱：；，簡稱：ST Kinetics）所自主研發和生產的多[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，同時兼具[冲锋手枪和](../Page/全自動手槍.md "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")的特點。
 
 ## 設計細節

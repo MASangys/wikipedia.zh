@@ -1,10 +1,13 @@
+> 本文内容由[Guitarissimo](https://zh.wikipedia.org/wiki/Guitarissimo)转换而来。
+
+
 《**guitarissimo**》是日本女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")1張專輯，於2011年4月6日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。「guitarissimo」由「guitar」（[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")）和「issimo」組成，其中「issimo」在[意大利文中有](https://zh.wikipedia.org/wiki/意大利文 "wikilink")「非常」之意。\[1\]
 
 ## 發行
 
 《guitarissimo》原定在2011年3月30日於[日本](../Page/日本.md "wikilink")國內發行，但由於同年3月11日發生[東日本大震災](../Page/東日本大震災.md "wikilink")，發行日期延後至同年4月6日。\[2\]
 
-該專輯分為普通版和首批發行限量版（），共有兩個版本，收錄曲目相同，但封面照片不同。\[3\]\[4\]首批發行限量版附送[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄了2010年12月8日miwa於[LIQUIDROOM ebisu演唱五首歌曲的演唱會錄像](https://zh.wikipedia.org/wiki/LIQUIDROOM "wikilink")。\[5\]\[6\]另外，首批發行限量版亦附送2011年「miwa live tour 2011 "guitarissimo"」[巡迴演唱會的門票優先預約單張](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")。\[7\]
+該專輯分為普通版和首批發行限量版（），共有兩個版本，收錄曲目相同，但封面照片不同。\[3\]\[4\]首批發行限量版附送[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，收錄了2010年12月8日miwa於[LIQUIDROOM ebisu演唱五首歌曲的演唱會錄像](../Page/LIQUIDROOM.md "wikilink")。\[5\]\[6\]另外，首批發行限量版亦附送2011年「miwa live tour 2011 "guitarissimo"」[巡迴演唱會的門票優先預約單張](https://zh.wikipedia.org/wiki/巡迴演唱會 "wikilink")。\[7\]
 
 2011年7月15日，該專輯以《-{吉他}-女聲》的名字在[台灣經](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣索尼音樂娛樂](../Page/台灣索尼音樂娛樂.md "wikilink")發行。\[8\]
 
@@ -44,22 +47,15 @@
 [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink") [Category:Miwa音樂專輯](https://zh.wikipedia.org/wiki/Category:Miwa音樂專輯 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
-
 7.
 8.
-
 9.
 10.
-
 11.
 12.
 13.
@@ -69,8 +65,6 @@
 17.
 18.
 19.
-
 20.
 21.
-
 22.

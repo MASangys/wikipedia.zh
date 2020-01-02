@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus G](https://zh.wikipedia.org/wiki/LG_Optimus_G)转换而来。
+
+
 **LG Optimus G**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂喜金星集團於](https://zh.wikipedia.org/wiki/樂喜金星集團 "wikilink")2012年中發佈的高階旗艦[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，它是超薄[四核心旗艦智慧型手機](https://zh.wikipedia.org/wiki/四核心 "wikilink")，[国际版版本型號為E](https://zh.wikipedia.org/wiki/国际版 "wikilink")975，[美国和加拿大版本型號為E](https://zh.wikipedia.org/wiki/美国和加拿大 "wikilink")973，[日本](../Page/日本.md "wikilink")版本型號為L-01E，[韓國版本型號為F](https://zh.wikipedia.org/wiki/韓國 "wikilink")180，採用[Android 4.0系統](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")，其賣點是[高通](../Page/高通.md "wikilink")[四核心](https://zh.wikipedia.org/wiki/四核心 "wikilink")[處理器和](https://zh.wikipedia.org/wiki/處理器 "wikilink") True HD [IPS螢幕](https://zh.wikipedia.org/wiki/IPS "wikilink")。
 
 ## 規格

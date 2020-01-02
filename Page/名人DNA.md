@@ -1,3 +1,6 @@
+> 本文内容由[名人DNA](https://zh.wikipedia.org/wiki/名人DNA)转换而来。
+
+
 **名人DNA**(List of haplogroups of historic people)是名人的[Y染色體](../Page/Y染色體.md "wikilink")[單倍群](https://zh.wikipedia.org/wiki/單倍群 "wikilink")、亦名人的[粒線體DNA單倍群一覧](https://zh.wikipedia.org/wiki/粒線體DNA "wikilink")。[Y染色體](../Page/Y染色體.md "wikilink")[單倍群嚴格遵循父系遺傳規律](https://zh.wikipedia.org/wiki/單倍群 "wikilink")，可以反映一箇箇體的父系源流，亦[粒線體DNA單倍群嚴格遵循母系遺傳規律](https://zh.wikipedia.org/wiki/粒線體DNA "wikilink")，可以反映一箇箇體的母系源流。
 
 ## Y染色体DNA单倍型类群
@@ -329,231 +332,121 @@ Alexander Hamilton portrait by John Trumbull 1806.jpg|[汉密尔顿](../Page/亚
 [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink") [Category:遗传系谱学](https://zh.wikipedia.org/wiki/Category:遗传系谱学 "wikilink")
 
 1.
-
 2.
-
 3.  <http://www.isogg.org/famoushg.htm>
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21. 『藩翰譜』,『[寛政重修諸家譜](https://zh.wikipedia.org/wiki/寛政重修諸家譜 "wikilink")』
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35. Revisiting the harem conspiracy and death of Ramesses III: anthropological, forensic, radiological, and genetic study. <http://www.bmj.com/content/345/bmj.e8268>
-
 36. Bantu genomes from southern Africa. Nature.com.
-
 37. "Are you related to Mandela?". SouthAfrica.info.
-
 38. <http://www.isogg.org/famoushg.htm>
-
 39. Haplogroup of the Y Chromosome of Napoléon the First
-
 40. Harvey Y-DNA Genetic Project <http://www.familytreedna.com/public/HARVEY/default.aspx>
-
 41. "Wright Dna Project". Wright-dna.org.
-
 42. G2b-M377 / L72 / L183 / M283 Y Haplogroup Project <http://www.familytreedna.com/public/G2c/default.aspx?section=ysnp>
-
 43. Hitler verwant met Somaliërs, Berbers en Joden - De Standaard
-
 44.
-
 45.
-
 46.
-
 47. The Genetic Legacy of the Mongols.
-
 48. The Y-chromosome C2\* star-cluster attributed to Genghis Khan's descendants is present at high frequency in the Kerey clan from Kazakhstan.
-
 49. The Y-chromosomal Lineages of Chinggis Khan.
-
 50. The Y-chromosome C2\* star-cluster attributed to Genghis Khan's descendants is present at high frequency in the Kerey clan from Kazakhstan.
-
 51.
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57. Русский Newsweek / Тема номера, www.runewsweek.ru
-
 58. Finding the founder of Stockholm – A kinship study based on Y-chromosomal, autosomal and mitochondrial DNA
-
 59. Hamilton DNA Project Results Discussion <http://www.personal.psu.edu/faculty/g/a/gah4/HamDNA/Results.html>
-
 60. "Rice Family DNA Project". Edmund Rice (1638) Association.
-
 61. Crockett Families DNA Project
-
 62.
-
 63.
-
 64. <http://www.isogg.org/famoushg.htm>
-
 65. DNA Database for Rurikid and Gediminid princes
-
 66. "Rurikid Dynasty DNA Project at FamilyTreeDNA". Familytreedna.com
-
 67.
-
 68.
 69.
-
 70.
-
 71.
-
 72.
-
 73. 是ISOGG 2014版表記。原文是ISOGG 2010版表記「O3a4」。
-
 74.
-
 75. ISOGG 2017的表記。原文ISOGG旧表記是「O3a3」
-
 76. "Famous DNA". Isogg.org.
-
 77. "Ancestry of Tom Hanks" <http://www.familytreedna.com/public/HanksDNAProject/default.aspx?section=results>
-
 78. <http://www.isogg.org/famoushg.htm>
-
 79. Ysearch: WUZG2
-
 80. Ancestry and Pathology in King Tutankhamun's Family <http://jama.jamanetwork.com/article.aspx?articleid=185393>
-
 81. A y-chromosome signature of hegemony in gaelic Ireland
-
 82. Ysearch: C9X5J
-
 83. <http://www.isogg.org/famoushg.htm>
-
 84. Genomic identification in the historical case of the Nicholas II royal family. <http://www.pnas.org/content/suppl/2009/02/27/0811190106.DCSupplemental/0811190106SI.pdf>
-
 85. <http://isogg.org/presdna.htm>
-
 86. <http://isogg.org/presdna.htm>
-
 87. Darwin family DNA shows African origin
-
 88.
-
 89. <http://www.isogg.org/famoushg.htm>
-
 90. <http://www.isogg.org/famoushg.htm>
-
 91. ""Charlie Rose - Henry Louis Gates, Jr. / Spencer Wells / Major Gen. Douglas Lute"". "Charlie Rose".
-
 92. Phelps/Felps DNA Projec <http://www.familytreedna.com/public/Phelps/default.aspx?section=yresults>
-
 93.
-
 94.
-
 95.
-
 96.
-
 97. Thomas Jefferson's Y chromosome belongs to a rare European lineage
-
 98. 『Discover Japan』（2012年8月號）70頁
-
 99.
 100. 『Discover Japan』（2012年8月號）53頁
-
 101. 『Discover Japan』（2012年8月號）46頁
-
 102.
-
 103.
 104. 『Discover Japan』（2012年8月號）53頁
-
 105.
-
 106.
 107.
 108.
 109. 『Discover Japan』（2012年8月號）51頁
-
 110.
-
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.

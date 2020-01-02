@@ -1,3 +1,6 @@
+> 本文内容由[Ring of GUNDAM](https://zh.wikipedia.org/wiki/Ring_of_GUNDAM)转换而来。
+
+
 《**Ring of Gundam**》是[SUNRISE制作的全CG](../Page/日昇動畫.md "wikilink")[动画](../Page/动画.md "wikilink")。[GUNDAM系列动画作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HK G28狙擊步槍](https://zh.wikipedia.org/wiki/HK_G28狙擊步槍)转换而来。
+
+
 **HK G28**（最初稱為DMR 762；又稱：HK241）是一款由[德国](../Page/德国.md "wikilink")槍械公司[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")所研製及生產的軍用型[精確射手步槍](../Page/精確射手步槍.md "wikilink")，在[2011年10月](../Page/2011年10月.md "wikilink")法国[巴黎](../Page/巴黎.md "wikilink")召開的[國際軍警保安器材展](https://zh.wikipedia.org/wiki/國際軍警保安器材展 "wikilink")（，意為：**Mili**tary and **pol**ice）向公眾首次展出，其後再在[2012年1月](../Page/2012年1月.md "wikilink")位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上推出。該槍是[MR308](../Page/HK417自動步槍.md "wikilink")（[HK417戰鬥步槍民用型](../Page/HK417自動步槍.md "wikilink")）的[精確射手步槍](../Page/精確射手步槍.md "wikilink")型版本，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

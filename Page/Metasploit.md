@@ -1,3 +1,6 @@
+> 本文内容由[Metasploit](https://zh.wikipedia.org/wiki/Metasploit)转换而来。
+
+
 **Metasploit项目**是一个旨在提供[安全漏洞信息计算机安全项目](https://zh.wikipedia.org/wiki/计算机安全隐患 "wikilink")，可以协助安全工程师进行[渗透测试](https://zh.wikipedia.org/wiki/渗透测试 "wikilink")（penetration testing）及[入侵检测系统](../Page/入侵检测系统.md "wikilink")签名开发。
 
 Metasploit项目最为知名的子项目是[开源的Metasploit框架](../Page/开放源代码.md "wikilink")，一套针对远程主机进行开发和执行“[exploit代码](https://zh.wikipedia.org/wiki/exploit "wikilink")”的工具。其他重要的子项目包括Opcode数据库、shellcode档案、安全研究等内容。

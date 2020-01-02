@@ -1,3 +1,6 @@
+> 本文内容由[ENTJ](https://zh.wikipedia.org/wiki/ENTJ)转换而来。
+
+
 [Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ENTJ**（外倾/直觉/思考/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink").\[1\] ，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")「[陆军元帅](https://zh.wikipedia.org/wiki/陆军元帅_\(角色变异\) "wikilink")」，属于[理性者的四种类型之一](https://zh.wikipedia.org/wiki/理性者_\(气质类型\) "wikilink")，约占人口的1.8%。\[2\]\[3\]
 
 ## MBTI偏好
@@ -8,8 +11,6 @@
   - **J——判断**相对于理解。倾向于计划他们的活动，并早早地作出决定。他们从可预见性得到掌控之感，在同一方面理解型的人可能看起来被限制。\[7\]
 
 ## 特征
-
-### 类型描述
 
 ENTJ (外倾思考 & 内倾直觉) 坦率、果断、随时承担领导职责。能够迅速的看到不合逻辑和低效率的产品和策略，通过建立并且部署综合的系统，来解决组织架构的问题。享受长期规划和目标设置。通常消息灵通，知识渊博，乐于扩展他们的知识并且传授给他人。在展示他们的观点时候非常有说服力。
 

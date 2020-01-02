@@ -1,3 +1,6 @@
+> 本文内容由[Mandarin](https://zh.wikipedia.org/wiki/Mandarin)转换而来。
+
+
 係指：
 
 ## 官僚

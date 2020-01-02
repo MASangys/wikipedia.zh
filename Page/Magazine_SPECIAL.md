@@ -1,3 +1,6 @@
+> 本文内容由[Magazine SPECIAL](https://zh.wikipedia.org/wiki/Magazine_SPECIAL)转换而来。
+
+
 《**Magazine SPECIAL**》（マガジンSPECIAL），[日本](../Page/日本.md "wikilink")[講談社發行的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1983年創刊。
 
 ## 連載作品

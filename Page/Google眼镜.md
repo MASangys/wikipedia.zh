@@ -1,3 +1,6 @@
+> 本文内容由[Google眼镜](https://zh.wikipedia.org/wiki/Google眼镜)转换而来。
+
+
 **Google眼镜**（）是一款配有[光学头戴式显示器](https://zh.wikipedia.org/wiki/头戴式显示器 "wikilink")（OHMD）的[可穿戴式电脑](../Page/可穿戴式電腦.md "wikilink")，由[Google](../Page/Google.md "wikilink")開發\[1\]，其目標是希望能製造出供給大眾消費市場的[普適計算裝置](https://zh.wikipedia.org/wiki/普適計算 "wikilink")\[2\]。Google眼鏡以免手持、與[智慧型手機類似的方式顯示各種資訊](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[3\]。穿戴者透過[自然語言語音指令與網際網路服務聯繫溝通](../Page/自然语言处理.md "wikilink")\[4\]。
 
 Google提供四種處方鏡片用鏡框款式選擇，售價約為225美元。Google也與擁有[Ray-Ban](https://zh.wikipedia.org/wiki/Ray-Ban "wikilink")、[Oakley等品牌的眼鏡商](https://zh.wikipedia.org/wiki/Oakley "wikilink")[Luxottica合作](https://zh.wikipedia.org/wiki/Luxottica "wikilink")，推出其他的鏡框設計款式\[5\]。Google於2014年4月15日於美國限時販售Google眼鏡，售價為1500美元\[6\]。2014年5月13日，Google宣布在美國市場公開發售Google眼鏡。只要仍有庫存，任何人均可以1500美元的價格購買這款産品\[7\]。

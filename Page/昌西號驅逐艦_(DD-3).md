@@ -1,3 +1,6 @@
+> 本文内容由[昌西號驅逐艦 \(DD-3\)](https://zh.wikipedia.org/wiki/昌西號驅逐艦_\(DD-3\))转换而来。
+
+
 **昌西号驱逐舰（[舷号DD](../Page/美国海军通用舰船分类符号.md "wikilink")-3）** （最初编号为Destroyer No. 3） 是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")，以纪念美国海军[艾萨克·昌西](https://zh.wikipedia.org/wiki/艾萨克·昌西 "wikilink")[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")。
 
 ## 建造

@@ -1,3 +1,6 @@
+> 本文内容由[So.cl](https://zh.wikipedia.org/wiki/So.cl)转换而来。
+
+
 **So.cl**（发音为 "social"）是一个由运作的[社交网络服务和一个](https://zh.wikipedia.org/wiki/社交网络 "wikilink")引擎。
 
 ## 设计

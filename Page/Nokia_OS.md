@@ -1,3 +1,6 @@
+> 本文内容由[Nokia OS](https://zh.wikipedia.org/wiki/Nokia_OS)转换而来。
+
+
 **Nokia OS**是[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")、[HMD Global和](../Page/HMD_Global.md "wikilink")[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[Series 30+和](https://zh.wikipedia.org/wiki/Series_30+ "wikilink")[Series 40](../Page/Series_40.md "wikilink")[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")，首次搭載於1999年發布的[諾基亞7110](../Page/諾基亞7110.md "wikilink")。
 
 ## 參考文獻

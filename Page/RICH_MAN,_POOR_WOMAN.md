@@ -1,3 +1,6 @@
+> 本文内容由[RICH MAN, POOR WOMAN](https://zh.wikipedia.org/wiki/RICH_MAN,_POOR_WOMAN)转换而来。
+
+
 《**-{RICH MAN, POOR WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2012年7月9日至2012年9月17日播出的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")，由[小栗旬](../Page/小栗旬.md "wikilink")\[1\]主演。台灣緯來日本台於2012年7月21日同期播出，劇名為《-{多金社長小資女}-》；特別篇於2013年12月11日播出，劇名為《-{多金社長小資女之同居挑戰中}-》。
 
 韓國製作公司IHQ於2017年宣布翻拍此作，共16集\[2\]。

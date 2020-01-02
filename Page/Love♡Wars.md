@@ -1,3 +1,6 @@
+> 本文内容由[Love♡Wars](https://zh.wikipedia.org/wiki/Love♡Wars)转换而来。
+
+
 「**LoveWars**」在2010年3月31日由[Queen & Elizabeth發售的單曲](https://zh.wikipedia.org/wiki/#Queen_&_Elizabeth "wikilink")。
 
 ## 概要

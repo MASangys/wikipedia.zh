@@ -1,3 +1,6 @@
+> 本文内容由[Gin Lee \(專輯\)](https://zh.wikipedia.org/wiki/Gin_Lee_\(專輯\))转换而来。
+
+
 《**Gin Lee**》是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[歌手](../Page/歌手.md "wikilink")[李幸倪](../Page/李幸倪.md "wikilink")的第三張唱片，亦是她在香港第二張推出的唱片\[1\]。
 
 ## 曲目

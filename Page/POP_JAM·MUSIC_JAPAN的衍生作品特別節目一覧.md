@@ -1,3 +1,6 @@
+> 本文内容由[POP JAM·MUSIC JAPAN的衍生作品特別節目一覧](https://zh.wikipedia.org/wiki/POP_JAM·MUSIC_JAPAN的衍生作品特別節目一覧)转换而来。
+
+
   -
 **POP JAM·MUSIC JAPAN的衍生作品特別節目一覧**
 

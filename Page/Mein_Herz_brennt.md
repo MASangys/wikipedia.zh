@@ -1,3 +1,6 @@
+> 本文内容由[Mein Herz brennt](https://zh.wikipedia.org/wiki/Mein_Herz_brennt)转换而来。
+
+
 "**Mein Herz brennt**"（德译：我心燃烧）是德国工业金属乐队[Rammstein发行的单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，2001年歌曲第一次出现在专辑[Mutter中](../Page/Mutter_\(专辑\).md "wikilink")，并在当时用作演唱会的开场曲，2011年出现在乐队精选集[Made in Germany 1995–2011中](../Page/Made_in_Germany_1995–2011.md "wikilink")。2012年11月22日宣布将以单曲的形式发行，歌曲的钢琴版与2012年12月7日发行。
 
 歌曲的歌词描述了恐怖的噩梦，歌曲的开场白("Nun, liebe Kinder, gebt fein Acht. Ich habe euch etwas mitgebracht")选自上世纪50年代德国的儿童电视节目Das Sandmännchen，每晚Das Sandmännchen都会播出并讲一个睡前故事，这就意味着歌曲的旁白是一个黑暗版本。

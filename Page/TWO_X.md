@@ -1,3 +1,6 @@
+> 本文内容由[TWO X](https://zh.wikipedia.org/wiki/TWO_X)转换而来。
+
+
 **TWO X**（）是 [J.Tune CAMP](https://zh.wikipedia.org/wiki/J.Tune_CAMP "wikilink") 公司推出的五人女子團體，現為星淘娛樂集團旗下女團。成員包括 [智有](https://zh.wikipedia.org/wiki/智有 "wikilink")、[恩](https://zh.wikipedia.org/wiki/恩 "wikilink")、[珉妵](https://zh.wikipedia.org/wiki/珉妵 "wikilink")、[秀潾](https://zh.wikipedia.org/wiki/秀潾 "wikilink") 和 [恩永](https://zh.wikipedia.org/wiki/恩永 "wikilink")，2016年1月成員[珉妵以健康理由退出團體](https://zh.wikipedia.org/wiki/珉妵 "wikilink")。
 
 而團體名稱 TWO X 的意思是 Top、Win、One，而 X 是指數學中的乘號。在8月16日的M\! Countdown進行《Double Up》出道舞台。

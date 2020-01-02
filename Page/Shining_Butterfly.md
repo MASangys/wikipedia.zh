@@ -1,3 +1,6 @@
+> 本文内容由[Shining Butterfly](https://zh.wikipedia.org/wiki/Shining_Butterfly)转换而来。
+
+
 「**Shining Butterfly**」（'''）是[夢幻早安少女組。](../Page/夢幻早安少女組。.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年2月15日由[zetima發售](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")\[1\]。
 
 ## 概要

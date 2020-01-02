@@ -1,3 +1,6 @@
+> 本文内容由[TPA](https://zh.wikipedia.org/wiki/TPA)转换而来。
+
+
 **TPA**可以指：
 
 ## 商業及財金

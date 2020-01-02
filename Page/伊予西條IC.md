@@ -1,3 +1,6 @@
+> 本文内容由[伊予西條IC](https://zh.wikipedia.org/wiki/伊予西條IC)转换而来。
+
+
 **伊予西條IC**（平假名：いよさいじょうインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[西條市](../Page/西條市.md "wikilink")的[松山自動車道](../Page/松山自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

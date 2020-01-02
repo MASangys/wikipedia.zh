@@ -1,3 +1,6 @@
+> 本文内容由[Z女戰爭](https://zh.wikipedia.org/wiki/Z女戰爭)转换而来。
+
+
 《**Z女戰爭**》（）是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（包括獨立製作・限定出荷通算14張）。2012年6月27日\[1\]\[2\]由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要

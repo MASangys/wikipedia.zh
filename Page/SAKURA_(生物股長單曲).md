@@ -1,3 +1,6 @@
+> 本文内容由[SAKURA \(生物股長單曲\)](https://zh.wikipedia.org/wiki/SAKURA_\(生物股長單曲\))转换而来。
+
+
 「**SAKURA**」是[生物股長的主流](https://zh.wikipedia.org/wiki/生物股長 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年3月15日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 收錄曲

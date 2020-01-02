@@ -1,3 +1,6 @@
+> 本文内容由[月刊EXILE](https://zh.wikipedia.org/wiki/月刊EXILE)转换而来。
+
+
 《**月刊EXILE**》為[LDH發行的](../Page/LDH_\(藝能事務所\).md "wikilink")[月刊雜誌](https://zh.wikipedia.org/wiki/月刊雜誌 "wikilink")。於2008年6月27日創刊\[1\]。每月27日於日本發行。
 
 ## 概要

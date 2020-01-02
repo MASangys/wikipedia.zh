@@ -1,3 +1,6 @@
+> 本文内容由[Gara Gara Go!](https://zh.wikipedia.org/wiki/Gara_Gara_Go!)转换而来。
+
+
 『**Gara Gara GO\!\!**』（）是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2張單曲。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[IUPAC数值前缀](https://zh.wikipedia.org/wiki/IUPAC数值前缀)转换而来。
+
+
 | 数值 | 前缀           |  | 数值   | 前缀           |
 | -- | ------------ |  | ---- | ------------ |
 | 1  | mono-        |  | 32   | dotriaconta- |

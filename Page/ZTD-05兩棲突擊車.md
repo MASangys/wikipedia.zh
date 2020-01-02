@@ -1,3 +1,6 @@
+> 本文内容由[ZTD-05兩棲突擊車](https://zh.wikipedia.org/wiki/ZTD-05兩棲突擊車)转换而来。
+
+
 **ZTD-05兩棲突擊車**\[1\]又被称为**05式两棲突擊車**，装备[中国人民解放军海军陆战队](../Page/中国人民解放军海军陆战队.md "wikilink")和陆军两栖机械化部队，是[中华人民共和国研制的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")“[05式两栖装甲车族](../Page/05式两栖装甲车族.md "wikilink")”一员，它与[美国](../Page/美国.md "wikilink")的“[远征战斗车](https://zh.wikipedia.org/wiki/远征战斗载具 "wikilink")”（Expeditionary Fighting Vehicle, EFV）的在概念上相似。\[2\]\[3\]此车配备1600匹马力的柴油发动机，功率比陆军的99式主战坦克的1500匹更高，水上速度可以达到28-30千米/小时，是目前世界上水上速度最快的两栖装甲突击车辆\[4\]。
 
 ZTD-05两栖突击车首次公开亮相是在2009年10月1日的[中华人民共和国国庆60周年阅兵式上](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在受阅装备方队的第3位，由[中国人民解放军陆军](../Page/中国人民解放军陆军.md "wikilink")[第1集团军两栖机械化](https://zh.wikipedia.org/wiki/中国人民解放军第1集团军 "wikilink")[第1师第](https://zh.wikipedia.org/wiki/中国人民解放军第1师 "wikilink")1团的成员组成。

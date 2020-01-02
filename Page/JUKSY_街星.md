@@ -1,3 +1,6 @@
+> 本文内容由[JUKSY 街星](https://zh.wikipedia.org/wiki/JUKSY_街星)转换而来。
+
+
 **JUKSY 街星**是[臺灣](../Page/臺灣.md "wikilink")一個[網路媒體平台](https://zh.wikipedia.org/wiki/網路 "wikilink")，為[捷喜多媒體數位股份有限公司旗下](https://zh.wikipedia.org/wiki/捷喜多媒體數位股份有限公司 "wikilink")[新媒體](../Page/新媒體.md "wikilink")，創站於2007年。其網站報導國內外[流行](https://zh.wikipedia.org/wiki/流行 "wikilink")、[娛樂](../Page/娛樂.md "wikilink")、[生活](https://zh.wikipedia.org/wiki/生活 "wikilink")、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")、[設計](../Page/設計.md "wikilink")、[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")、[科技等多元化資訊](https://zh.wikipedia.org/wiki/科技 "wikilink")，並製作過多檔網路節目，2016年成立自媒體經紀部門，簽下蓋彼、囂搞、油頭二世等多位網路超人氣插畫家及網路紅人。
 
 公司服務範圍包括數位廣告、原生廣告、網紅經紀、創意影片、社群操作、AR 擴增實境以及O2O活動。目前以台灣為據點，近年陸續於新加坡、福建及上海開立分公司，新媒體版圖擴及東南亞及中國大陸。

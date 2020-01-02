@@ -1,3 +1,6 @@
+> 本文内容由[Neverland](https://zh.wikipedia.org/wiki/Neverland)转换而来。
+
+
 **Neverland**（）是日本一家[电子游戏](../Page/电子游戏.md "wikilink")开发公司，成立于1993年5月7日。该公司曾为[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")、[Dreamcast](../Page/Dreamcast.md "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")、[Game Boy Color](../Page/Game_Boy_Color.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[PSP和](https://zh.wikipedia.org/wiki/PSP "wikilink")[Wii](../Page/Wii.md "wikilink")等平台开发游戏。
 
 因破產關係，公司已於2013年11月29日終止所有業務。 其中最出名的游戏是[四狂神战记系列](https://zh.wikipedia.org/wiki/四狂神战记系列 "wikilink")（Lufia）、[符文工廠系列](https://zh.wikipedia.org/wiki/符文工廠 "wikilink")（Rune Factory）等。

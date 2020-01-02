@@ -1,3 +1,6 @@
+> 本文内容由[CATCH ME](https://zh.wikipedia.org/wiki/CATCH_ME)转换而来。
+
+
 《**CATCH ME**》是[韓國流行音樂男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[东方神起的第六张韩语](https://zh.wikipedia.org/wiki/东方神起 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。2012年9月26日由[SM Entertainment发售](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 收錄內容

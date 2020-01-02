@@ -1,3 +1,6 @@
+> 本文内容由[Precious Junk](https://zh.wikipedia.org/wiki/Precious_Junk)转换而来。
+
+
 《**Precious Junk**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1995年5月13日發行。
 
 ## 概述

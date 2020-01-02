@@ -1,3 +1,6 @@
+> 本文内容由[Manic sheep](https://zh.wikipedia.org/wiki/Manic_sheep)转换而来。
+
+
 Manic Sheep為活躍於台灣的獨立樂團，主要風格為瞪鞋以及噪音搖滾。 現任成員為羅玉婷(吉他/主唱)、吳柏廷(鼓)、楊浩(吉他)、張芳瑜(貝斯)。
 
 ## 簡介

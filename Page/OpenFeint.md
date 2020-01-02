@@ -1,3 +1,6 @@
+> 本文内容由[OpenFeint](https://zh.wikipedia.org/wiki/OpenFeint)转换而来。
+
+
 **OpenFeint**（原名**Aurora Feint**）\[1\]，是一個在[Android](../Page/Android.md "wikilink")和[iOS平台上的](https://zh.wikipedia.org/wiki/iOS "wikilink")[手機遊戲運行的](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")[社交網路服務](../Page/社交網路服務.md "wikilink")，主要競爭对手有[Game Center](../Page/Game_Center.md "wikilink")。使用者可將遊戲進度上傳至平台中，解鎖各個成就，或使用排行榜互相比較成績等。該平台的軟體以[軟體開發套件的形式釋出](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")，開發者可以自行將此功能加入自己開發的遊戲內。\[2\]
 
 OpenFeint於2012年12月14日被整合進[GREE平台中](https://zh.wikipedia.org/wiki/GREE平台 "wikilink")，不再被支援。\[3\]

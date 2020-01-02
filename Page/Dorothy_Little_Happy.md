@@ -1,3 +1,6 @@
+> 本文内容由[Dorothy Little Happy](https://zh.wikipedia.org/wiki/Dorothy_Little_Happy)转换而来。
+
+
 **Dorothy Little Happy**是日本的音樂團體、一人女性偶像團體。所屬經紀公司為[STEP ONE](https://zh.wikipedia.org/wiki/STEP_ONE "wikilink")，唱片公司為 OTODAMA RECORDS。
 
 ## 概要

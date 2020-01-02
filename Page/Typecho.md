@@ -1,3 +1,6 @@
+> 本文内容由[Typecho](https://zh.wikipedia.org/wiki/Typecho)转换而来。
+
+
 **Typecho**是一个基于[PHP](../Page/PHP.md "wikilink")的简洁的开源博客程序。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")）储存数据，在[GNU GPLv2许可证下发行](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 名称来历

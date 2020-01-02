@@ -1,3 +1,6 @@
+> 本文内容由[IF產品設計獎](https://zh.wikipedia.org/wiki/IF產品設計獎)转换而来。
+
+
 [2007TaitronicsAutumn_iF_Design.jpg](https://zh.wikipedia.org/wiki/File:2007TaitronicsAutumn_iF_Design.jpg "fig:2007TaitronicsAutumn_iF_Design.jpg")的「iF產品設計獎」主題館，也促成2008年台北國際電腦展「創新設計獎」的舉辦。\]\]
 
 **iF產品設計獎**（英語：**iF Product Design Award**）是一個創辦於1953年的[產品設計國際大獎](https://zh.wikipedia.org/wiki/產品設計 "wikilink")，至今每年約有來自50個國家，6400件左右的產品設計參加報名\[1\]，此獎由德國[國際論壇設計](../Page/國際論壇設計.md "wikilink")公司舉行。該獎最高地位為IF產品設計獎**金獎**，素有產品設計界[奧斯卡獎的代稱](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")。

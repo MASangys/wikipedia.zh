@@ -1,3 +1,6 @@
+> 本文内容由[Your Eyes](https://zh.wikipedia.org/wiki/Your_Eyes)转换而来。
+
+
 《**Your Eyes**》是[嵐](../Page/嵐.md "wikilink")的第39張單曲，於2012年6月6日發行，唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 發行

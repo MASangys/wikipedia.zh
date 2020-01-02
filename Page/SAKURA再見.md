@@ -1,3 +1,6 @@
+> 本文内容由[SAKURA再見](https://zh.wikipedia.org/wiki/SAKURA再見)转换而来。
+
+
 《**SAKURA再見**》（）是日本女子樂隊[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年3月4日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 收錄內容

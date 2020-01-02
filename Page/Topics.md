@@ -1,3 +1,6 @@
+> 本文内容由[Topics](https://zh.wikipedia.org/wiki/Topics)转换而来。
+
+
 『**Topics**』是2001年5月16日發售[MY LITTLE LOVER的第](../Page/My_Little_Lover.md "wikilink")4張（包括「[The Waters](https://zh.wikipedia.org/wiki/The_Waters "wikilink")」是第5張）的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。唱片公司是[TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 收錄曲

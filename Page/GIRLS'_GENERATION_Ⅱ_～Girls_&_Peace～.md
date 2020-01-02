@@ -1,3 +1,6 @@
+> 本文内容由[GIRLS\' GENERATION Ⅱ ～Girls \& Peace～](https://zh.wikipedia.org/wiki/GIRLS\'_GENERATION_Ⅱ_～Girls_\&_Peace～)转换而来。
+
+
 《**GIRLS' GENERATION Ⅱ ～Girls & Peace～**》，[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[少女時代的第](https://zh.wikipedia.org/wiki/少女時代 "wikilink")2張原創日語專輯。於2012年11月28日發行。唱片公司為[NAYUTAWAVE RECORDS](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 概要

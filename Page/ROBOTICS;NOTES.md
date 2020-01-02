@@ -1,3 +1,6 @@
+> 本文内容由[ROBOTICS\;NOTES](https://zh.wikipedia.org/wiki/ROBOTICS\;NOTES)转换而来。
+
+
 《**ROBOTICS;NOTES**》（；簡稱R;N）是[5pb.](../Page/5pb..md "wikilink")（）於2012年6月28日發行的[Xbox 360和](../Page/Xbox_360.md "wikilink")[PlayStation 3冒险游戏](../Page/PlayStation_3.md "wikilink")。在遊戲發售前就發佈動畫化的消息，2012年10月開始播放。
 
 [乐视网](../Page/乐视网.md "wikilink")宣布从2013年3月8日起，每周五00:45与日本同步直播\[1\]。

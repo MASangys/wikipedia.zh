@@ -1,3 +1,6 @@
+> 本文内容由[Gogo机上因特网](https://zh.wikipedia.org/wiki/Gogo机上因特网)转换而来。
+
+
 **Gogo**为商用和商务航机提供机上宽带因特网服务、流媒体视频及其他连接服务。2011年6月，作为重塑品牌的一部分，公司正式由更名为Gogo。在更名前，Gogo的商用航空服务称为“Gogo Inflight Internet”。 Aircell仍是该公司商务航空业务部门的名字。
 
 Gogo让乘客能够通过地面上的基站连接到因特网。他们的Air to Ground（ATG）系统采用[EV-DO Rev. A](https://zh.wikipedia.org/wiki/EV-DO "wikilink") 3G无线技术。

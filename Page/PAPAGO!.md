@@ -1,3 +1,6 @@
+> 本文内容由[PAPAGO!](https://zh.wikipedia.org/wiki/PAPAGO!)转换而来。
+
+
 PAPAGO\!為[研勤科技](../Page/研勤科技.md "wikilink")所開發的一套[電子地圖服務軟體](https://zh.wikipedia.org/wiki/電子地圖服務 "wikilink")，地圖包含地標、線條、形狀等資訊，提供向量地圖視圖。PAPAGO\!的每個版本上市後都有兩年的免費圖資更新；更新期滿，使用者可以選擇繼續使用現有圖資或是付費升級繼續取得圖資更新檔。\[1\]\[2\]
 
 ## 歷史版本

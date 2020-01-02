@@ -1,3 +1,6 @@
+> 本文内容由[Come Together](https://zh.wikipedia.org/wiki/Come_Together)转换而来。
+
+
 《**Come Together**》（一起來）是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[約翰·藍儂創作](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")、收錄於專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》的1969年歌曲。（作品上是以藍儂-麥卡尼「Lennon–McCartney」的名義發表）
 
 並曾在1969年10月6日，另與披頭四歌曲《[Something](../Page/Something.md "wikilink")》合併為雙[A面單曲作品發行](../Page/A面與B面.md "wikilink")。

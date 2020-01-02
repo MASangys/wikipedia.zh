@@ -1,3 +1,6 @@
+> 本文内容由[IRobot](https://zh.wikipedia.org/wiki/IRobot)转换而来。
+
+
 [Irobotheadquarters.jpg](https://zh.wikipedia.org/wiki/File:Irobotheadquarters.jpg "fig:Irobotheadquarters.jpg") **iRobot**是一家美国机器人公司，1990年於美國特拉華州註冊成立。同時亦是一間[上市公司](../Page/上市公司.md "wikilink")，總部位於[馬薩諸塞州](https://zh.wikipedia.org/wiki/馬薩諸塞州 "wikilink")[貝德福德](../Page/貝德福德.md "wikilink")。公司設計及製造[軍用機械人](https://zh.wikipedia.org/wiki/軍用機械人 "wikilink")、[商用機械人](https://zh.wikipedia.org/wiki/商用機械人 "wikilink")、[醫療機器人及](https://zh.wikipedia.org/wiki/醫療機器人 "wikilink")[家用機械人](https://zh.wikipedia.org/wiki/家用機械人 "wikilink")，並以家用自動[吸塵機械人](https://zh.wikipedia.org/wiki/吸塵器 "wikilink")——[Roomba最为知名](https://zh.wikipedia.org/wiki/Roomba "wikilink")。其他知名產品包括家用自動[洗地機械人](https://zh.wikipedia.org/wiki/洗地 "wikilink")[Scooba和](https://zh.wikipedia.org/wiki/Scooba "wikilink")[軍用機械人](https://zh.wikipedia.org/wiki/軍用機械人 "wikilink")[PackBot](https://zh.wikipedia.org/wiki/PackBot "wikilink")。
 
 ## 歷史

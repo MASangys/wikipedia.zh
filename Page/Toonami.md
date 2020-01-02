@@ -1,3 +1,6 @@
+> 本文内容由[Toonami](https://zh.wikipedia.org/wiki/Toonami)转换而来。
+
+
 **Toonami**是美國[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[Cartoon Network旗下一個節目區塊品牌](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")。有關名字是結合[英語中](https://zh.wikipedia.org/wiki/英語 "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")（Car**toon**）和[海嘯](https://zh.wikipedia.org/wiki/海嘯 "wikilink")（Tsu**nami**）最後四個字節，寓意區塊會為觀眾帶來泛起大浪般刺激的動畫作品。區塊於1997年3月17日啟播，並於2008年9月20日一度結束。但後來在一眾支持者要求和頻道重整形象的鋪排下，重新在2012年5月26日安排播放。儘管海嘯一詞源自[日本](../Page/日本.md "wikilink")，惟最初安排的均為動作系的[美國動畫](https://zh.wikipedia.org/wiki/美國動畫 "wikilink")。引入[日本動畫是屬於頻道後期的政策](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，讓區塊於美國地區作為其中一個日本動畫集中點。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[HEARTBEAT不會停止!](https://zh.wikipedia.org/wiki/HEARTBEAT不會停止!)转换而来。
+
+
 「**HEARTBEAT不會停止\!**」（HEARTBEATが止まらないっ\!）是[唯夏織](../Page/唯夏織.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[King Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2010年11月17日發售。
 
 ## 概要

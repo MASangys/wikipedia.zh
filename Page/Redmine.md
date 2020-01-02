@@ -1,3 +1,6 @@
+> 本文内容由[Redmine](https://zh.wikipedia.org/wiki/Redmine)转换而来。
+
+
 **Redmine**是一個網頁界面的[项目管理](../Page/项目管理.md "wikilink")與[缺陷跟蹤管理系統的](https://zh.wikipedia.org/wiki/缺陷跟蹤管理系統 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")工具。它整合了项目管理所需的各項功能：[日曆](https://zh.wikipedia.org/wiki/日曆 "wikilink")、[燃尽图](../Page/燃尽图.md "wikilink")和[甘特圖](https://zh.wikipedia.org/wiki/甘特圖 "wikilink") 以協助視覺化表現專案與時間限制，和[版本控制](../Page/版本控制.md "wikilink")。此外，Redmine也可以同時處理多個项目。
 
 Redmine 是以 [Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink") 撰寫的架構，它橫跨多個平台與[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，它的設計很明顯是受一些類似功能軟件包的[Trac](../Page/Trac.md "wikilink")所影響。此外，它也是[Bitnami](../Page/Bitnami.md "wikilink") 應用[函式庫](../Page/函式庫.md "wikilink")的一部份。

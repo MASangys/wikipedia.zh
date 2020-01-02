@@ -1,3 +1,6 @@
+> 本文内容由[One off](https://zh.wikipedia.org/wiki/One_off)转换而来。
+
+
 《**One off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")原創[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由導演[佐藤順一](../Page/佐藤順一.md "wikilink")策劃和執導，將於冬天以[OVA形式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。此外，本動畫乃由[本田技研工業特別贊助播出](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。
 
 ## 故事概要

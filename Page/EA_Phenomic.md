@@ -1,3 +1,6 @@
+> 本文内容由[EA Phenomic](https://zh.wikipedia.org/wiki/EA_Phenomic)转换而来。
+
+
 **EA Phenomic**是一家位于[德国](../Page/德国.md "wikilink")[英格爾海姆的](../Page/英格斯海姆.md "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")开发公司。
 
 1997年，公司最早由Volker Wertich所创办，名為**Phenomic Game Development**，前者曾在[Blue Byte工作並開發The](../Page/Ubisoft_Blue_Byte.md "wikilink") Settlers和The Settlers III。

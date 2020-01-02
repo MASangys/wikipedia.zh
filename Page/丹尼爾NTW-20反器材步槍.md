@@ -1,3 +1,6 @@
+> 本文内容由[丹尼爾NTW-20反器材步槍](https://zh.wikipedia.org/wiki/丹尼爾NTW-20反器材步槍)转换而来。
+
+
 **NTW-20**是由[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[丹尼爾防衛企業](https://zh.wikipedia.org/wiki/丹尼爾防衛企業 "wikilink")（）於1990年代研製的大口徑[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
 
 此槍的設計終旨是要為成為一種可用作打擊多種目標（例如：停泊的[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")、通信桅杆、電源線、導彈陣地、雷達裝置、煉油廠、衛星天線、砲台、碉堡和人員等）的多用途狙擊步槍，並可發射各種特殊彈藥。就像許多同類型的武器一樣，NTW系列狙擊步槍亦可用於[反狙擊作戰和爆炸物處理](https://zh.wikipedia.org/wiki/反狙擊 "wikilink")。

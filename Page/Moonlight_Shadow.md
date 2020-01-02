@@ -1,3 +1,6 @@
+> 本文内容由[Moonlight Shadow](https://zh.wikipedia.org/wiki/Moonlight_Shadow)转换而来。
+
+
 《》（直译为“月光下的影子”）是一首由[多乐器演奏家](https://zh.wikipedia.org/wiki/多乐器演奏家 "wikilink")[迈克·欧菲尔德谱写和演奏的英语](https://zh.wikipedia.org/wiki/迈克·欧菲尔德 "wikilink")[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，歌曲发行于1983年5月，并收录于同年发售的专辑《[Crises](https://zh.wikipedia.org/wiki/Crises "wikilink")》中\[1\]。歌曲人声由和迈克·欧菲尔德于1980年相识的苏格兰歌手[玛姬·赖利录制](https://zh.wikipedia.org/wiki/玛姬·赖利 "wikilink")。这是欧菲尔德最成功的单曲，其排到了欧洲多个排行榜榜首。比利時女歌手 Dana Winner 曾翻唱這首名曲。此曲也被改編為粵語版，為香港女歌手[林志美](../Page/林志美.md "wikilink")的「月影」。但曾用于天语手机默认铃声\[2\]
 
 ## 发行

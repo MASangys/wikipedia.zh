@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯-奔馳CLS Shooting Brake](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳CLS_Shooting_Brake)转换而来。
+
+
 **梅赛德斯-奔驰CLS Shooting Brake**，為[梅赛德斯-奔驰旗下之](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[CLS系列雛形作為發展所推出之概念車](../Page/梅賽德斯-賓士CLS系列.md "wikilink")。此款新概念車型，以高性能轎跑車為藍本，並於原四門Coupe車型加入尾廂設計，以大幅提升裝載空間，是一款結合轎跑車和旅行車特色之車型。 2012年，梅赛德斯-奔驰正式宣佈該概念車已進入量產階段，並將之定名為「CLS Shooting Brake」，於德國[辛德爾芬根廠區進行生產](https://zh.wikipedia.org/wiki/辛德爾芬根 "wikilink")。
 
 ## Shooting Brake之起源與變遷

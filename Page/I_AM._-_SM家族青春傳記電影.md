@@ -1,3 +1,6 @@
+> 本文内容由[I AM. - SM家族青春傳記電影](https://zh.wikipedia.org/wiki/I_AM._-_SM家族青春傳記電影)转换而来。
+
+
 **I AM. - SM家族青春傳記電影**（） 是[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012年5月上映的[傳記影片](https://zh.wikipedia.org/wiki/傳記影片 "wikilink")。電影主要以2011年10月SMTOWN於美國「紐約麥迪遜花園廣場」舉行演唱會為背景的紀錄片。
 
 ## 參演藝人

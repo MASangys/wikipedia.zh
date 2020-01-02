@@ -1,3 +1,6 @@
+> 本文内容由[SQLAlchemy](https://zh.wikipedia.org/wiki/SQLAlchemy)转换而来。
+
+
 **SQLAlchemy**是[Python](../Page/Python.md "wikilink")编程语言下的一款[开源软件](../Page/开放源代码.md "wikilink")。提供了[SQL](../Page/SQL.md "wikilink")工具包及[对象关系映射](../Page/对象关系映射.md "wikilink")（ORM）工具，使用[MIT许可证发行](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。
 
 SQLAlchemy“采用简单的Python语言，为高效和高性能的数据库访问设计，实现了完整的企业级持久模型”。SQLAlchemy的理念是，SQL数据库的量级和性能重要于对象集合；而对象集合的抽象又重要于表和行。因此，SQLAlchmey采用了类似于[Java](../Page/Java.md "wikilink")里[Hibernate](../Page/Hibernate.md "wikilink")的[数据映射](http://www.martinfowler.com/eaaCatalog/dataMapper.html)模型，而不是其他ORM框架采用的[Active Record模型](../Page/Active_Record.md "wikilink")。不过，[Elixir](http://elixir.ematia.de/)和[declarative](https://web.archive.org/web/20110612081816/http://www.sqlalchemy.org/docs/orm/extensions/declarative.html)等可选插件可以让用户使用声明语法。

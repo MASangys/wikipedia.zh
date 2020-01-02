@@ -1,3 +1,6 @@
+> 本文内容由[DOLL](https://zh.wikipedia.org/wiki/DOLL)转换而来。
+
+
 《**DOLL**》是日本女子樂隊[SCANDAL的主流出道](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2008年10月22日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 收錄曲目

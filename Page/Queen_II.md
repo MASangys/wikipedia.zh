@@ -1,3 +1,6 @@
+> 本文内容由[Queen II](https://zh.wikipedia.org/wiki/Queen_II)转换而来。
+
+
 **Queen II**是英国摇滚乐团[皇后乐队](../Page/皇后乐队.md "wikilink")的第二张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")、罗伊·托马斯·贝克以及罗宾·杰弗里·凯布尔制作，1974年3月由唱片公司[EMI](../Page/EMI.md "wikilink")在英国发行，由唱片公司Elektra在美国发行。\[1\]
 
 ## 曲目列表

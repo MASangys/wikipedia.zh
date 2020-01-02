@@ -1,3 +1,6 @@
+> 本文内容由[MONSTER \(B\'z專輯\)](https://zh.wikipedia.org/wiki/MONSTER_\(B\'z專輯\))转换而来。
+
+
 《**MONSTER**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十五张录音室专辑。2006年6月28日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約53.9萬張。

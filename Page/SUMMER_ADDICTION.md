@@ -1,3 +1,6 @@
+> 本文内容由[SUMMER ADDICTION](https://zh.wikipedia.org/wiki/SUMMER_ADDICTION)转换而来。
+
+
 《**SUMMER ADDICTION**》是[夏之管](../Page/夏之管.md "wikilink")（[TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink")）在2012年6月27日推出的第34張最新專輯。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[南十字座TU](https://zh.wikipedia.org/wiki/南十字座TU)转换而来。
+
+
 **南十字座TU**，又名**BD-19 3521**，**HD 109585**、**SAO 180937**、**HR 4797**，是[南十字座](../Page/南十字座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.2，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")298.04，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")42.2，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

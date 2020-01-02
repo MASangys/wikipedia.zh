@@ -1,3 +1,6 @@
+> 本文内容由[Happy endings](https://zh.wikipedia.org/wiki/Happy_endings)转换而来。
+
+
 《**happy endings**》是[花澤香菜](../Page/花澤香菜.md "wikilink")以个人名义发表的第3张單曲。于2012年10月24日由[Aniplex](../Page/Aniplex.md "wikilink")發行。
 
 ## 概要

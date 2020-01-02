@@ -1,3 +1,6 @@
+> 本文内容由[Super Jump](https://zh.wikipedia.org/wiki/Super_Jump)转换而来。
+
+
 《**Super Jump**》是[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")發行的漫畫雜誌，1986年12月20日以《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》增刊號創刊，1988年11月號以月刊獨立創刊，1991年7月改為半月刊，2011年10月12日休刊。
 
 ## 連載作品

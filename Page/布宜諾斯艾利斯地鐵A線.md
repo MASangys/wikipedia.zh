@@ -1,3 +1,6 @@
+> 本文内容由[布宜諾斯艾利斯地鐵A線](https://zh.wikipedia.org/wiki/布宜諾斯艾利斯地鐵A線)转换而来。
+
+
 **A线**（），为[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯地铁](../Page/布宜诺斯艾利斯地铁.md "wikilink")最早的运营线路。目前地铁A线从[五月广场站](../Page/五月广场站.md "wikilink")至San Pedrito，共有16个车站，全长10.7公里。
 
 ## 参考文献

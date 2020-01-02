@@ -1,3 +1,6 @@
+> 本文内容由[VOA卫视](https://zh.wikipedia.org/wiki/VOA卫视)转换而来。
+
+
 **VOA卫视**（）是[美国联邦政府](https://zh.wikipedia.org/wiki/美国联邦政府 "wikilink")[广播理事会开办的面向中国及全球华人区域的对外广播的电视频道](https://zh.wikipedia.org/wiki/美国广播理事会 "wikilink")，隸屬[美国之音](../Page/美国之音.md "wikilink")。
 
 ## 历史发展

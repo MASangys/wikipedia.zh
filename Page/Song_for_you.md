@@ -1,3 +1,6 @@
+> 本文内容由[Song for you](https://zh.wikipedia.org/wiki/Song_for_you)转换而来。
+
+
 《**song for you**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2002年4月17日於日本發行。
 
 ## 解説

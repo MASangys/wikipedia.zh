@@ -1,3 +1,6 @@
+> 本文内容由[Odnoklassniki](https://zh.wikipedia.org/wiki/Odnoklassniki)转换而来。
+
+
 （，意为“同学”）是一个为[俄罗斯](../Page/俄罗斯.md "wikilink")和其他[前苏联国家的网民提供校友](https://zh.wikipedia.org/wiki/前苏联 "wikilink")[社交网络服务的网站](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")，由[阿尔伯特·波普科夫创建于](https://zh.wikipedia.org/wiki/阿尔伯特·波普科夫 "wikilink")2006年3月4日。\[1\]
 
 ## 现状

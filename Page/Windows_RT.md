@@ -1,3 +1,6 @@
+> 本文内容由[Windows RT](https://zh.wikipedia.org/wiki/Windows_RT)转换而来。
+
+
 **Windows RT** 是由[微软](../Page/微软.md "wikilink")针对移动设备开发的一款[操作系统](../Page/操作系统.md "wikilink")。它本质上是[Windows 8为](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")(ARMv7)架构而开发的定制版本。\[1\] 在2011年1月于[国际消费电子展展示](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")，Windows 8 RT在2012年10月26日与Windows8一并上市，包括三款基于Windows RT的设备，比如微软的[Surface tablet](../Page/Surface_\(2012\).md "wikilink")。与Windows 8不同，Windows RT只能被OEM预装在设备上。该系统适用于电池使用时间更长且专为在旅途中使用而设计的轻薄型电脑。Windows RT 8.1 只能运行内置应用或从 Windows 应用商店下载的应用。
 
 ## 历史

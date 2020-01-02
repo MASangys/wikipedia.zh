@@ -1,3 +1,6 @@
+> 本文内容由[SHOKICHI](https://zh.wikipedia.org/wiki/SHOKICHI)转换而来。
+
+
 **SHOKICHI**（），[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE THE SECOND的主唱兼表演者](../Page/EXILE_THE_SECOND.md "wikilink")，原[J Soul Brothers成員](../Page/J_Soul_Brothers.md "wikilink")。
 
 [北海道](../Page/北海道.md "wikilink")[苫小牧市](../Page/苫小牧市.md "wikilink")出身。身高183cm\[1\]。
@@ -342,86 +345,47 @@ EXILE SHOKICHI LIVE TOUR 2019 "UNDERDOGG"\[45\]
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
-
 14.
-
 15. 「週刊EXILE」
-
 16. 2012年12月2日播映的「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」
-
 17.
-
 18. 與 Loveholic (EXILE SHOKICHI feat.DOBERMAN INFINITY)。不同的版本
-
 19.
-
 20. [「お願い\!ランキング」より](http://www.tv-asahi.co.jp/onegairanking)
-
 21.
-
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
-
 44. [EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release Party～ 続報！ 2015年10月16日閲覧](http://exile-shokichi.jp/news/detail.php?id=1027724)
-
 45.

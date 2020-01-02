@@ -1,3 +1,6 @@
+> 本文内容由[格林 L. 杰克逊纪念大桥](https://zh.wikipedia.org/wiki/格林_L._杰克逊纪念大桥)转换而来。
+
+
 **格林 L. 杰克逊纪念大桥**（），是一座横跨[哥伦比亚河](https://zh.wikipedia.org/wiki/哥伦比亚河 "wikilink")，连接着[俄勒冈州](../Page/俄勒冈州.md "wikilink")[波特兰和](https://zh.wikipedia.org/wiki/波特兰_\(俄勒冈州\) "wikilink")[华盛顿州](../Page/华盛顿州.md "wikilink")[温哥华两地](https://zh.wikipedia.org/wiki/温哥华_\(华盛顿州\) "wikilink")。由于[205号州际公路从桥上通过](../Page/205号州际公路_\(俄勒冈州和华盛顿州\).md "wikilink")，因此它也被称为或称**I-205大桥**。该桥梁是波特兰跨越哥伦比亚河的两座桥梁之一。
 
 ## 修建历史

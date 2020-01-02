@@ -1,3 +1,6 @@
+> 本文内容由[The Axis of Awesome](https://zh.wikipedia.org/wiki/The_Axis_of_Awesome)转换而来。
+
+
 **The Axis of Awesome**（直譯：**厲害軸心**）是一支[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[喜劇搖滾](https://zh.wikipedia.org/wiki/喜劇搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，成員為喬丹·拉斯科普洛斯 、李·纳伊莫和本尼·戴維斯。這個三人組合有一個很廣闊的表演範圍，並且經常模仿一些[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")。
 
 ## 歷史

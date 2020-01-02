@@ -1,3 +1,6 @@
+> 本文内容由[Glossy:MMM](https://zh.wikipedia.org/wiki/Glossy:MMM)转换而来。
+
+
 「**Glossy:MMM**」是[橋本美雪](../Page/橋本美雪.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年4月22日由[GloryHeaven發售](../Page/Lantis.md "wikilink")。
 
 ## 概要

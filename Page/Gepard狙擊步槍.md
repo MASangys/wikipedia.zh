@@ -1,3 +1,6 @@
+> 本文内容由[Gepard狙擊步槍](https://zh.wikipedia.org/wiki/Gepard狙擊步槍)转换而来。
+
+
 **Gepard**（[獵豹](https://zh.wikipedia.org/wiki/獵豹 "wikilink")）是由[匈牙利](../Page/匈牙利.md "wikilink")研製的一系列大口徑重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")）。
 
 ## 概述

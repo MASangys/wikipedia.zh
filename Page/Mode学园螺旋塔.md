@@ -1,3 +1,6 @@
+> 本文内容由[Mode学园螺旋塔](https://zh.wikipedia.org/wiki/Mode学园螺旋塔)转换而来。
+
+
 **Mode學園螺旋塔**（モード学園スパイラルタワーズ）是[日本](../Page/日本.md "wikilink")[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村區](https://zh.wikipedia.org/wiki/中村區 "wikilink")[名站的一棟](https://zh.wikipedia.org/wiki/名站 "wikilink")[摩天大樓](../Page/摩天大樓.md "wikilink")。\[1\]\[2\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HEAT UP \(平井堅單曲\)](https://zh.wikipedia.org/wiki/HEAT_UP_\(平井堅單曲\))转换而来。
+
+
 《**HEAT UP**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1997年7月21日發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[SHA-3](https://zh.wikipedia.org/wiki/SHA-3)转换而来。
+
+
 **SHA-3**第三代安全雜湊演算法(Secure Hash Algorithm 3)，之前名為**Keccak**（唸作或)）演算法，\[1\]\[2\]\[3\]設計者宣稱在 [Intel Core 2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink") 的CPU上面，此演算法的效能是12.5cpb（[每位元組周期數](https://zh.wikipedia.org/wiki/每位元組周期數 "wikilink")，cycles per byte）。\[4\]不過，在[-{zh-cn:硬件实现; zh-tw:硬體實做}-上面](../Page/特殊應用積體電路.md "wikilink")，這個演算法比起其他演算法明顯的快上很多。\[5\]
 
 SHA-3 在2015年8月5日由 NIST 通过 FIPS 202 正式发表。\[6\]\[7\]

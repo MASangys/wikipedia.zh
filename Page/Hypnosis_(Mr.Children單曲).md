@@ -1,3 +1,6 @@
+> 本文内容由[Hypnosis \(Mr.Children單曲\)](https://zh.wikipedia.org/wiki/Hypnosis_\(Mr.Children單曲\))转换而来。
+
+
 《**hypnosis**》，[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第4首只提供網上下載的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月11日開放手機片段下載，8月29日開放手機全曲下載。\[1\]
 
 ## 概要

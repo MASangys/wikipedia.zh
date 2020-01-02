@@ -1,3 +1,6 @@
+> 本文内容由[Wise Disk Cleaner](https://zh.wikipedia.org/wiki/Wise_Disk_Cleaner)转换而来。
+
+
 **Wise Disk Cleaner**是WiseCleaner.com團隊推出的一个界面友好,功能强大，操作简单快捷的垃圾及痕跡清理工具([磁碟清理](../Page/磁碟清理.md "wikilink"))，通过系统瘦身释放大量系统盘空间，并提供磁盘整理工具([磁碟重組工具](../Page/磁碟重組工具.md "wikilink"))。它能识别多达50种垃圾文件，可以让你轻松地把垃圾文件从你的[计算机磁盘上清除](https://zh.wikipedia.org/wiki/计算机 "wikilink")。支持自定义文件类型清理，最大限度释放磁盘空间。通过磁盘碎片整理可以有效地提升硬盘访问速度，从而提高整机性能。配合该公司的另一款注册表清理工具[Wise Registry Cleaner效果更佳](../Page/Wise_Registry_Cleaner.md "wikilink")。
 
 ## 产品特色

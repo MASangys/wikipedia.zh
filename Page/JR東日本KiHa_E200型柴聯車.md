@@ -1,3 +1,6 @@
+> 本文内容由[JR東日本KiHa E200型柴聯車](https://zh.wikipedia.org/wiki/JR東日本KiHa_E200型柴聯車)转换而来。
+
+
 [Dc-e200.jpg](https://zh.wikipedia.org/wiki/File:Dc-e200.jpg "fig:Dc-e200.jpg")。\]\] **JR東日本KiHa E200型柴聯車**（）是一款由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）開發並實際投入營運的[一般型](../Page/一般型車輛_\(日本鐵路\).md "wikilink")[柴聯車](../Page/柴聯車.md "wikilink")（DMU）。除了一般DMU上常見的[柴油引擎](../Page/柴油引擎.md "wikilink")與[電動馬達之外](https://zh.wikipedia.org/wiki/電動馬達 "wikilink")，E200還額外搭載了大容量的[鋰離子蓄電池可倚靠純電力模式行駛](https://zh.wikipedia.org/wiki/鋰離子蓄電池 "wikilink")，是世界上第一款實際投入營運的串聯式[混合動力鐵路車輛](https://zh.wikipedia.org/wiki/混合動力車 "wikilink")。JR東日本以先期預產的三輛E200投入旗下山區鐵路線[小海線](../Page/小海線.md "wikilink")的日常營運，並賦予其「**小海號**」（，Koumi）的暱稱，利用實際營運收集相關的資料，作為日後將混合動力技術普及化的參考。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[且慢CHIKAN!](https://zh.wikipedia.org/wiki/且慢CHIKAN!)转换而来。
+
+
 《**且慢CHIKAN\!**》（）是[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的第4張單曲，於1986年4月21日發售。
 
 ## 解說

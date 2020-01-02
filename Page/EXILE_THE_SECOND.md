@@ -1,3 +1,6 @@
+> 本文内容由[EXILE THE SECOND](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND)转换而来。
+
+
 **EXILE THE SECOND**（中文名：**二势力 from 放浪兄弟**）是[日本](../Page/日本.md "wikilink")的六人舞蹈及歌唱組合團體，所屬[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴

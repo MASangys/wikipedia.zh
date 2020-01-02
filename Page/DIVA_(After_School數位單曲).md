@@ -1,3 +1,6 @@
+> 本文内容由[DIVA \(After School數位單曲\)](https://zh.wikipedia.org/wiki/DIVA_\(After_School數位單曲\))转换而来。
+
+
 《**DIVA**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School的第](../Page/After_School.md "wikilink")1張[數位單曲](https://zh.wikipedia.org/wiki/數位 "wikilink")，2009年4月9日由[Pledis Entertainment发售](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
 
 ## 概要

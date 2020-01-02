@@ -1,3 +1,6 @@
+> 本文内容由[My song Your song](https://zh.wikipedia.org/wiki/My_song_Your_song)转换而来。
+
+
 《**My song Your song**》（），[日本](../Page/日本.md "wikilink")音樂團體[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2008年12月24日發行。
 
 ## 簡介

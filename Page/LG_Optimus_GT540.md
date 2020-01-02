@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus GT540](https://zh.wikipedia.org/wiki/LG_Optimus_GT540)转换而来。
+
+
 **LG Optimus GT540**是[LG電子](../Page/LG電子.md "wikilink")於2010年發佈的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，於2010年4月公佈，並於2010年6月售賣，搭載[Android 1.6](https://zh.wikipedia.org/wiki/Android_1.6 "wikilink")，可以升級到[Android 2.1](https://zh.wikipedia.org/wiki/Android_2.1 "wikilink")，並提供四種顏色選擇：分別為黑色，白色，粉紅色和銀色。該手機評價普遍良好，雖然沒有尖端的硬件，經評測人員發現，該手機性能良好，而且價格亦合理\[1\]\[2\]\[3\]\[4\]\[5\]。
 
 ## 事件

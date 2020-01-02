@@ -1,3 +1,6 @@
+> 本文内容由[Ladies First](https://zh.wikipedia.org/wiki/Ladies_First)转换而来。
+
+
 《**Ladies First**》（意思：女士優先）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第20張個人專輯和第16張粵語專輯，於2000年8月發行\[1\]。
 
 ## 專輯介紹

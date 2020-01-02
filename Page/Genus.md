@@ -1,3 +1,6 @@
+> 本文内容由[Genus](https://zh.wikipedia.org/wiki/Genus)转换而来。
+
+
 **Genus** ()是[英国的一家种畜公司](https://zh.wikipedia.org/wiki/英国 "wikilink")。Genus是[富時250指數](../Page/富時250指數.md "wikilink")成份股，总部位于[貝辛斯托克](../Page/貝辛斯托克.md "wikilink")。
 
 该公司有两个子公司，分别是生产种牛的ABS和生产种猪的PIC。

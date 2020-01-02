@@ -1,3 +1,6 @@
+> 本文内容由[WANT!](https://zh.wikipedia.org/wiki/WANT!)转换而来。
+
+
 《**WANT\!**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第30張[单曲](../Page/单曲.md "wikilink")，在2012年12月19日由[PICCOLO TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

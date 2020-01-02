@@ -1,3 +1,6 @@
+> 本文内容由[Cheese!](https://zh.wikipedia.org/wiki/Cheese!)转换而来。
+
+
 《**Cheese\!**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1996年創刊。
 
 ## 連載中作品（2019年6月）

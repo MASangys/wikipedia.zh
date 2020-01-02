@@ -1,3 +1,6 @@
+> 本文内容由[Moment \(SMAP單曲\)](https://zh.wikipedia.org/wiki/Moment_\(SMAP單曲\))转换而来。
+
+
 《**Moment**》是日本男子組合[SMAP](../Page/SMAP.md "wikilink")的第48張單曲，於2012年8月1日由[Victor Entertainment發行](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Xbox \(應用程式\)](https://zh.wikipedia.org/wiki/Xbox_\(應用程式\))转换而来。
+
+
 **Xbox SmartGlass**是一個為[Xbox 360](../Page/Xbox_360.md "wikilink")、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")等行動終端開發的串連技術，于2012年面世\[1\]。它可以使行動設備連接Xbox 360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
 
 ## 功能

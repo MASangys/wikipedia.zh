@@ -1,3 +1,6 @@
+> 本文内容由[JR神戶線](https://zh.wikipedia.org/wiki/JR神戶線)转换而来。
+
+
 **JR神戶線**（）是[日本](../Page/日本.md "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線](../Page/東海道本線.md "wikilink")自[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[北區的](../Page/北區_\(大阪市\).md "wikilink")[大阪站至](https://zh.wikipedia.org/wiki/大阪站 "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")[中央區](../Page/中央區_\(神戶市\).md "wikilink")[神戶站的區間](../Page/神戶站_\(兵庫縣\).md "wikilink")，和[山陽本線](../Page/山陽本線.md "wikilink")自神戶站至兵庫縣[姬路市](../Page/姬路市.md "wikilink")[姬路站的區間](https://zh.wikipedia.org/wiki/姬路站 "wikilink")，所給付的愛稱。
 
 此愛稱自1988年3月13日開始被使用。[阪急電鐵](../Page/阪急電鐵.md "wikilink")也有名為[神戶線的線路](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")，避免混淆在此線路前加「JR」。

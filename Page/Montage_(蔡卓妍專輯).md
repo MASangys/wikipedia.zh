@@ -1,3 +1,6 @@
+> 本文内容由[Montage \(蔡卓妍專輯\)](https://zh.wikipedia.org/wiki/Montage_\(蔡卓妍專輯\))转换而来。
+
+
 《**Montage**》為香港歌手[蔡卓妍](../Page/蔡卓妍.md "wikilink")的第二张粤语大碟，首批限量特別版於2012年7月24日推出。
 
 ## 曲目

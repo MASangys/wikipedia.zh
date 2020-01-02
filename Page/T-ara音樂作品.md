@@ -1,3 +1,6 @@
+> 本文内容由[T-ara音樂作品](https://zh.wikipedia.org/wiki/T-ara音樂作品)转换而来。
+
+
 以下列出韓國女子音樂組合[T-ara的音樂作品](https://zh.wikipedia.org/wiki/T-ara "wikilink")。
 
 ## 專輯
@@ -1291,13 +1294,9 @@ Pink Dolls由電影中的四名主角<br />
 [Category:T-ara](https://zh.wikipedia.org/wiki/Category:T-ara "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.
 7.
@@ -1306,23 +1305,17 @@ Pink Dolls由電影中的四名主角<br />
 10.
 11.
 12.
-
 13.
 14.
 15.
 16.
 17. 2011年8月14日\~2014年5月10日
-
 18.
 19.
-
 20.
-
 21.
 22.
-
 23.
 24.
 25.
-
 26.

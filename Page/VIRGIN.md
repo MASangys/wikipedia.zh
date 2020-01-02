@@ -1,3 +1,6 @@
+> 本文内容由[VIRGIN](https://zh.wikipedia.org/wiki/VIRGIN)转换而来。
+
+
 《**VIRGIN**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School的第](../Page/After_School.md "wikilink")1枚正規韓語專輯，於2011年4月29日發行。\[1\]唱片公司為[Pledis Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
 
 ## 概要

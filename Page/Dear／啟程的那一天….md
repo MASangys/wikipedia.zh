@@ -1,3 +1,6 @@
+> 本文内容由[Dear／啟程的那一天…](https://zh.wikipedia.org/wiki/Dear／啟程的那一天…)转换而来。
+
+
 《**Dear／啟程的那一天…**》是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛](../Page/川嶋愛.md "wikilink")在2006年2月1日發售的第8張單曲\[1\]。
 
 ## 概要
