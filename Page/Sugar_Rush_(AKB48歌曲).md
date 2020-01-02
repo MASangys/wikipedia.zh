@@ -1,3 +1,6 @@
+> 本文内容由[Sugar Rush \(AKB48歌曲\)](https://zh.wikipedia.org/wiki/Sugar_Rush_\(AKB48歌曲\))转换而来。
+
+
 《**Sugar Rush**》是一首2012年時由[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")所推出的歌曲作品，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華特迪士尼動畫工作室](../Page/華特迪士尼動畫工作室.md "wikilink")電影作品《[無敵破壞王](https://zh.wikipedia.org/wiki/無敵破壞王 "wikilink")》（*Wreck-It Ralph*）在全球市場放映時的片尾曲，其曲名源自電影中一個虛構的賽車遊戲「甜蜜衝刺」（Sugar Rush）。該曲是由[秋元康](../Page/秋元康.md "wikilink")作詞，並由撰寫過多首[好萊塢電影與電視歌曲的女性作曲家](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[潔美·休斯頓](https://zh.wikipedia.org/wiki/潔美·休斯頓 "wikilink")（Jamie Houston）作曲。新曲與電影《無敵破壞王》同步，在2012年10月29日時於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉磯的電影](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[首映會現場發表](https://zh.wikipedia.org/wiki/首映會 "wikilink")，並被收錄在[華特迪士尼唱片](../Page/華特迪士尼唱片.md "wikilink")（Walt Disney Records）在隔日（10月30日）所發行的《無敵破壞王》[電影原聲帶中](https://zh.wikipedia.org/wiki/電影原聲帶 "wikilink")。
 
 ## 簡介

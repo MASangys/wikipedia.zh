@@ -1,3 +1,6 @@
+> 本文内容由[R·A·迪奇](https://zh.wikipedia.org/wiki/R·A·迪奇)转换而来。
+
+
 **羅伯特·艾倫·迪奇**（，），經常被稱為**R·A·迪奇**（R. A. Dickey），生於美國[田納西州](https://zh.wikipedia.org/wiki/田納西州 "wikilink")[納什維爾](https://zh.wikipedia.org/wiki/納什維爾 "wikilink")，[美國職棒大聯盟的](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")，是一名自由球員。他曾在大聯盟（MLB）為[德州遊騎兵隊](../Page/德克薩斯遊騎兵_\(棒球\).md "wikilink")，[西雅圖水手隊](https://zh.wikipedia.org/wiki/西雅圖水手隊 "wikilink")，[明尼蘇達雙城隊](https://zh.wikipedia.org/wiki/明尼蘇達雙城隊 "wikilink")，[紐約大都會隊](https://zh.wikipedia.org/wiki/紐約大都會隊 "wikilink")，[多倫多藍鳥隊和](https://zh.wikipedia.org/wiki/多倫多藍鳥隊 "wikilink")[亞特蘭大勇士隊效力](https://zh.wikipedia.org/wiki/亞特蘭大勇士隊 "wikilink")。在2012年，迪奇投出生涯最佳的成績，不但拿下20勝，還第一次入選參加[全明星賽](../Page/2012年美國職棒大聯盟全明星賽.md "wikilink")，並以優異的成績獲得了[賽揚獎](../Page/賽揚獎.md "wikilink")，也是史上首位獲得[賽揚獎](../Page/賽揚獎.md "wikilink")的[蝴蝶球](../Page/蝴蝶球.md "wikilink")投手。\[1\]
 
 ## 職棒生涯

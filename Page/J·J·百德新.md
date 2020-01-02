@@ -1,3 +1,6 @@
+> 本文内容由[J·J·百德新](https://zh.wikipedia.org/wiki/J·J·百德新)转换而来。
+
+
 **約翰·約翰斯敦·百德新**，[JP](../Page/太平紳士.md "wikilink")（，），[英國及](https://zh.wikipedia.org/wiki/英國 "wikilink")[香港](../Page/香港.md "wikilink")[企業家](https://zh.wikipedia.org/wiki/企業家 "wikilink")。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[Cinema Of Love](https://zh.wikipedia.org/wiki/Cinema_Of_Love)转换而来。
+
+
 《**Cinema of Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第二張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2011年5月26日發行。
 
 ## 曲目

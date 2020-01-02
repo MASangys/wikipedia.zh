@@ -1,3 +1,6 @@
+> 本文内容由[Pause](https://zh.wikipedia.org/wiki/Pause)转换而来。
+
+
 《**Pause**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[關心妍](../Page/關心妍.md "wikilink")於2012年10月12日發行的第十二張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，全碟共有9首歌曲。
 
 ## 曲目

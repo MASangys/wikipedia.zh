@@ -1,3 +1,6 @@
+> 本文内容由[NO NAME \(偶像組合\)](https://zh.wikipedia.org/wiki/NO_NAME_\(偶像組合\))转换而来。
+
+
 **NO NAME**是從[日本](../Page/日本.md "wikilink")的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的成员中选出负责電視動畫《[AKB0048](../Page/AKB0048.md "wikilink")》的[声優组成](https://zh.wikipedia.org/wiki/声優 "wikilink")「**声優選抜**」名义的偶像組合。
 
 ## 成員

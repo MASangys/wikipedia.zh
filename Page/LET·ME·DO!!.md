@@ -1,3 +1,6 @@
+> 本文内容由[LET·ME·DO!!](https://zh.wikipedia.org/wiki/LET·ME·DO!!)转换而来。
+
+
 「**LET・ME・DO\!\!**」是[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年7月27日由[GloryHeaven發售](../Page/Lantis.md "wikilink")。
 
 ## 概要

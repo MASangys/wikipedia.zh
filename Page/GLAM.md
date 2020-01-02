@@ -1,3 +1,6 @@
+> 本文内容由[GLAM](https://zh.wikipedia.org/wiki/GLAM)转换而来。
+
+
 **GLAM**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big Hit娱乐與](https://zh.wikipedia.org/wiki/Big_Hit娱乐 "wikilink")[Source Music公司聯手打造於](../Page/Source_Music.md "wikilink")2012年推出的女子團體。成員由朴智妍、Zinni、多喜、美笑組成，四人皆擁有與生俱來的歌唱、舞蹈及樂器等方面的天分，是一組實力及外貌兼具的個性派偶像。2012年7月16日以〈Party (XXO)〉正式出道。
 
 團名是由「Girls Be Ambitious（女孩們要有野心）」而來，期望她們能創造出有野心、有獨特色彩的音樂。

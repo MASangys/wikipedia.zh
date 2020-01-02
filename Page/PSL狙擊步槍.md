@@ -1,3 +1,6 @@
+> 本文内容由[PSL狙擊步槍](https://zh.wikipedia.org/wiki/PSL狙擊步槍)转换而来。
+
+
 **PSL**（[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")：Puşcă Semiautomată cu Lunetă model 1974，意為1974年型半自動狙擊步槍）是[羅馬尼亞研製的一種](https://zh.wikipedia.org/wiki/羅馬尼亞社會主義共和國 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")／精確射手步槍，其地位相當於[蘇聯的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[德拉古諾夫狙擊步槍](https://zh.wikipedia.org/wiki/德拉古諾夫狙擊步槍 "wikilink")。
 
 ## 歷史

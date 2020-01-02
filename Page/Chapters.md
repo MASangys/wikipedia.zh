@@ -1,3 +1,6 @@
+> 本文内容由[Chapters](https://zh.wikipedia.org/wiki/Chapters)转换而来。
+
+
 **Chapters**是加拿大的[超級廣場](https://zh.wikipedia.org/wiki/超級廣場 "wikilink")[书店](https://zh.wikipedia.org/wiki/书店 "wikilink")，为[Indigo Books and Music的子公司](https://zh.wikipedia.org/wiki/Indigo_Books_and_Music "wikilink")。这家公司原来是Indigo的竞争对手。2001年合并后，两家公司继续以合并前的品牌进行运营\[1\]。 [ChaptersMarkham5.jpg](https://zh.wikipedia.org/wiki/File:ChaptersMarkham5.jpg "fig:ChaptersMarkham5.jpg")的Chapters\]\] [ChaptersMarkham.jpg](https://zh.wikipedia.org/wiki/File:ChaptersMarkham.jpg "fig:ChaptersMarkham.jpg") [chapmtl.jpg](https://zh.wikipedia.org/wiki/File:chapmtl.jpg "fig:chapmtl.jpg") store.\]\]
 
 Chapters公司1999年由加拿大最大的两家连锁书店和SmithBooks合并成立。2001初，Indigo成功收购Chapters。

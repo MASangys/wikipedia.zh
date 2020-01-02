@@ -1,3 +1,6 @@
+> 本文内容由[Socket C32](https://zh.wikipedia.org/wiki/Socket_C32)转换而来。
+
+
 **Socket C32**是[美商超微推出的的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[處理器插座和處理器管腳陣列](../Page/CPU插座.md "wikilink")，用於取代Socket F/F+，供支援單處理器或雙處理器協同處理的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[工作站](../Page/工作站.md "wikilink")平台之[Opteron 4000系列中央處理器使用](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")。\[1\]
 
 ## 技術概況

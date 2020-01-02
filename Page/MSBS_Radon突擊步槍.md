@@ -1,3 +1,6 @@
+> 本文内容由[MSBS Radon突擊步槍](https://zh.wikipedia.org/wiki/MSBS_Radon突擊步槍)转换而来。
+
+
 **模組化武器系統5.56毫米口徑型**（[波蘭語](https://zh.wikipedia.org/wiki/波蘭語 "wikilink")：Radon Modułowy System Broni Strzeleckiej kalibru 5,56 mm）是一款[波蘭製的](https://zh.wikipedia.org/wiki/波蘭 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，預料將會取代[wz. 1988鉭式突擊步槍](https://zh.wikipedia.org/wiki/wz._1988鉭式突擊步槍 "wikilink")、[wz. 1996鈹式突擊步槍和其衍生型成為](https://zh.wikipedia.org/wiki/wz._1996鈹式突擊步槍 "wikilink")[波蘭軍隊的下一代制式步槍](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")。
 
 2018年2月，區域防衛部隊的第42輕步兵營成為首支裝備MSBS步槍的部隊。

@@ -1,3 +1,6 @@
+> 本文内容由[URAKARA](https://zh.wikipedia.org/wiki/URAKARA)转换而来。
+
+
 《**URAKARA**》是[東京電視台](../Page/東京電視台.md "wikilink")[電視劇24](../Page/電視劇24.md "wikilink")系列的喜劇[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，也是該時段首次有国際交流的電視劇，於2011年1月14日開始逢[當地時間星期五](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")24:12-24:53播出。
 
 ## 概要

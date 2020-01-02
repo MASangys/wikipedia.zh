@@ -1,3 +1,6 @@
+> 本文内容由[Macintosh Classic](https://zh.wikipedia.org/wiki/Macintosh_Classic)转换而来。
+
+
 cm × {{\#expr:2.54\*11.2round1}} cm;}} 长 x 宽 x 高) }}
 
 **Macintosh Classic** 是[苹果公司生产的一款个人电脑](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。该电脑于1990年10月15日上市，是首款售价低于1000美元的[麦金塔电脑](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")。\[1\] 这款电脑是在此前的Macintosh Plus 和 Macintosh SE型号大获成功后进行生产。Macintosh Classic的系统配置和前几款电脑相似，都使用 的单色[CRT显示器](https://zh.wikipedia.org/wiki/CRT "wikilink")，具有512×342像素分辨率及最大4MB内存。\[2\]这款电脑不配备最新的摩托罗拉68010CPU，也不提供更大的内存与彩色显示器，借此提供相对的低价位。尽管如此，这款电脑和前任Macintosh Plus还是有不少改进（Mactintosh Plus同样面向低端市场）。Macintosh Classic相比Macintosh Plus快25%，并且还包括了 标配 的Apple SuperDrive[软盘驱动器](https://zh.wikipedia.org/wiki/软盘驱动器 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[I say good-bye](https://zh.wikipedia.org/wiki/I_say_good-bye)转换而来。
+
+
 『**I Say Good-bye**』是[日本](../Page/日本.md "wikilink")唱作男[歌手](../Page/歌手.md "wikilink") [中川晃教](../Page/中川晃教.md "wikilink")，於2001年11月7日所推出的單曲碟。
 
 ## 概要

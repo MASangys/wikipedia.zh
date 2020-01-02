@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D07\)](https://zh.wikipedia.org/wiki/ATC代码_\(D07\))转换而来。
+
+
 ## D07A [皮质甾体激素类](https://zh.wikipedia.org/wiki/皮质甾体激素 "wikilink")，单方（Corticosteroids, plain）
 
 ### D07AA 皮质类固醇类，弱（I组）（Corticosteroids, weak (group I)）

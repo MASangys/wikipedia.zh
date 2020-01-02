@@ -1,3 +1,6 @@
+> 本文内容由[PPS衝鋒槍](https://zh.wikipedia.org/wiki/PPS衝鋒槍)转换而来。
+
+
 **PPS衝鋒槍**（，意为**苏达耶夫冲锋枪**）是一種由[蘇聯研製的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，並被[蘇聯紅軍用於](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[第二次世界大戰](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，[中國人民志願軍和](https://zh.wikipedia.org/wiki/中國人民志願軍 "wikilink")[朝鮮人民軍用於](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")[韓戰](https://zh.wikipedia.org/wiki/韓戰 "wikilink")，隨後在[越戰時](https://zh.wikipedia.org/wiki/越戰 "wikilink")[北越軍队亦有使用](https://zh.wikipedia.org/wiki/越南人民軍 "wikilink")。
 
 ## 誕生於列寧格勒戰役

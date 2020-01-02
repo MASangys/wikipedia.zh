@@ -1,3 +1,6 @@
+> 本文内容由[DANCEROID](https://zh.wikipedia.org/wiki/DANCEROID)转换而来。
+
+
 **DANCEROID**（）是[日本](../Page/日本.md "wikilink")女子舞蹈組合，於2009年10月22日組成，隸屬於Beautiful Group。2014年7月26日因與[經紀公司](../Page/經紀公司.md "wikilink")合約到期而解散。 [Danceroid_at_J-Pop_Summit_Festival_2011.jpg](https://zh.wikipedia.org/wiki/File:Danceroid_at_J-Pop_Summit_Festival_2011.jpg "fig:Danceroid_at_J-Pop_Summit_Festival_2011.jpg")
 
 ## 經歷

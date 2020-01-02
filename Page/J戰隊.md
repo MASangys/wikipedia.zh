@@ -1,3 +1,6 @@
+> 本文内容由[J戰隊](https://zh.wikipedia.org/wiki/J戰隊)转换而来。
+
+
 **J Team**是一支台灣職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，所屬-{杰}-藝文創公司旗下，主要參與[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。原為**台北暗殺星**（**Taipei Assassins**，簡稱**TPA**），2012年10月14日台北暗殺星在美國洛杉磯舉辦的[英雄聯盟第2季世界大賽中](https://zh.wikipedia.org/wiki/英雄聯盟S2賽季全球總決賽 "wikilink")，擊敗[南韓職業隊伍Azubu](https://zh.wikipedia.org/wiki/南韓 "wikilink") Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國](../Page/中華民國.md "wikilink")政府及朝野各黨團則以允諾修法、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。 2016年4月由台灣藝人[周杰倫](../Page/周杰倫.md "wikilink")代表的-{杰}-藝文創公司取得經營權，改名為**J Team**，並由周杰倫擔任董事长。
 
 ## 英雄聯盟(LOL)

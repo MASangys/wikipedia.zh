@@ -1,3 +1,6 @@
+> 本文内容由[DJMAX TECHNIKA 3](https://zh.wikipedia.org/wiki/DJMAX_TECHNIKA_3)转换而来。
+
+
 是由[Pentavision](../Page/Pentavision.md "wikilink")研发并销售的[街机](../Page/街机.md "wikilink")平台[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。此游戏是[DJ Max Technika系列的第三作](https://zh.wikipedia.org/wiki/DJ_Max_Technika系列 "wikilink")。
 
 ## 游戏介绍

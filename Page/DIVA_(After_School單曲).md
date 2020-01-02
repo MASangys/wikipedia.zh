@@ -1,3 +1,6 @@
+> 本文内容由[DIVA \(After School單曲\)](https://zh.wikipedia.org/wiki/DIVA_\(After_School單曲\))转换而来。
+
+
 《**DIVA**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School的第](../Page/After_School.md "wikilink")2張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2011年11月23日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

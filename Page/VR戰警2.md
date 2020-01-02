@@ -1,3 +1,6 @@
+> 本文内容由[VR戰警2](https://zh.wikipedia.org/wiki/VR戰警2)转换而来。
+
+
 是由[世嘉](../Page/世嘉.md "wikilink")於1995年所開發的[第一人稱射擊](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[光線槍遊戲](https://zh.wikipedia.org/wiki/光槍射擊遊戲 "wikilink")，遊戲是《[VR戰警](../Page/VR戰警.md "wikilink")》的續集。在2003年《VR戰警2》的续作《[VR戰警3](https://zh.wikipedia.org/wiki/VR戰警3 "wikilink")》发售。
 
 ## 劇情

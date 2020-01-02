@@ -1,3 +1,6 @@
+> 本文内容由[The Works](https://zh.wikipedia.org/wiki/The_Works)转换而来。
+
+
 **The Works**是英国摇滚乐队[皇后乐队](../Page/皇后乐队.md "wikilink")的第十一张专辑。由[皇后乐队](../Page/皇后乐队.md "wikilink")和莱因霍尔德·麦克制作，1984年2月由唱片公司[EMI](../Page/EMI.md "wikilink")在英国发行，由唱片公司[Capitol在美国发行](https://zh.wikipedia.org/wiki/Capitol "wikilink")。\[1\]
 
 ## 曲目列表

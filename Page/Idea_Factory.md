@@ -1,3 +1,6 @@
+> 本文内容由[Idea Factory](https://zh.wikipedia.org/wiki/Idea_Factory)转换而来。
+
+
 **Idea Factory**（）是於1994年10月26日成立的日本遊戲公司。由原[Data East職員](../Page/Data_East.md "wikilink")[太田康一和](https://zh.wikipedia.org/wiki/太田康一 "wikilink")[桑名真吾所創設](https://zh.wikipedia.org/wiki/桑名真吾 "wikilink")。
 
 ## 主要作品

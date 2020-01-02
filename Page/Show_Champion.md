@@ -1,3 +1,6 @@
+> 本文内容由[Show Champion](https://zh.wikipedia.org/wiki/Show_Champion)转换而来。
+
+
 《**Show Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")頻道的一檔音樂電視節目，於每週公佈其音樂榜單排名及傳達歌謠界熱門話題。節目於2012年2月14日開播，一期以錄製形式進行，於每週一在首爾廣津區AX-KOREA進行錄影,自2013年1月30日二期開始，形式由預錄轉為直播，放送時間改為[韓國時間每週三下午七時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")，自2018年10月17日起放送時間改為[韓國時間每週三下午六時](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")。
 
 ## 主持

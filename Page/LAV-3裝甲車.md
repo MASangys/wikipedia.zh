@@ -1,3 +1,6 @@
+> 本文内容由[LAV-3裝甲車](https://zh.wikipedia.org/wiki/LAV-3裝甲車)转换而来。
+
+
 **LAV-3裝甲車**（LAV III）為[加拿大](../Page/加拿大.md "wikilink")設計之八輪裝甲車，是[史崔克裝甲車](../Page/史崔克裝甲車.md "wikilink")的前身。1991年加拿大意圖研發一種新裝甲車取代6、70年代的[M113等舊車](https://zh.wikipedia.org/wiki/M113 "wikilink")，是為MRCV專案，1992年定型本車稱為LAV-3，1999年服役。由瑞士MOWAG公司[食人魚裝甲車衍生而來的LAV的改型](https://zh.wikipedia.org/wiki/食人魚裝甲車 "wikilink")，係由加拿大通用陸上系統公司生產。
 
 2011年加拿大政府与[通用动力](../Page/通用动力.md "wikilink")公司地面系统加拿大分部签订了一份价值10.52亿[美元](../Page/美元.md "wikilink")合同，为LAV III地面战车集成综合升级组件。

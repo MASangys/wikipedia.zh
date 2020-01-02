@@ -1,3 +1,6 @@
+> 本文内容由[丹麦国铁EG型电力机车](https://zh.wikipedia.org/wiki/丹麦国铁EG型电力机车)转换而来。
+
+
 **EG型电力机车**是[德国](../Page/德国.md "wikilink")[西门子交通集团为](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[丹麦国家铁路公司设计制造的一种双电流制大功率](https://zh.wikipedia.org/wiki/丹麦国家铁路公司 "wikilink")[电力机车](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，也是“[欧洲短跑手](../Page/EuroSprinter.md "wikilink")”（EuroSprinter）系列电力机车车型之一，适用于供电制式为15千伏16⅔赫兹的低频[单相交流电](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")、25千伏50赫兹工频单相交流电的[电气化铁路](../Page/電氣化鐵路.md "wikilink")。
 
 ## 发展历史

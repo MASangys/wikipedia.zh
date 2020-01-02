@@ -1,3 +1,6 @@
+> 本文内容由[AOA](https://zh.wikipedia.org/wiki/AOA)转换而来。
+
+
 **AOA**（；**Ace of Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂](../Page/FNC娛樂.md "wikilink")旗下第一支[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，最初由8名成員組成，現任成員包括[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[雪炫和](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")，由智珉擔任隊長。AOA的子團包括、[AOA White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
 
 2012年7月30日，AOA釋出首張單曲專辑《[Angels' Story](../Page/Angels'_Story.md "wikilink")》主打歌《Elvis》MV。之後於8月9日於[M\! Countdown出道並進行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音樂银行表演](https://zh.wikipedia.org/wiki/KBS音樂银行 "wikilink")。10月第二張單曲專輯發行《[Wanna Be](../Page/Wanna_Be_\(AOA單曲\).md "wikilink")》。2013年，AOA發行《MOYA》及《[Red Motion](../Page/RED_MOTION.md "wikilink")》。2014年，主打性感風的《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》和《[短髮](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》讓AOA的人氣逐漸上升，且前者使該组合獲得了首個一位。

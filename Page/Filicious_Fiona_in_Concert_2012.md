@@ -1,3 +1,6 @@
+> 本文内容由[Filicious Fiona in Concert 2012](https://zh.wikipedia.org/wiki/Filicious_Fiona_in_Concert_2012)转换而来。
+
+
 《**Filicious Fiona in Concert 2012**》是香港女歌手[薛凱琪出道九年以來的第一個於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[紅磡香港體育館舉行的個人演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")。因當時演唱會期間為[薛凱琪商議續約時期](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，當時母公司[華納唱片沒有設置攝像設施](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，故只推出CD錄音唱片。
 
 ## 簡介

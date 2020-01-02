@@ -1,3 +1,6 @@
+> 本文内容由[Goodness係數](https://zh.wikipedia.org/wiki/Goodness係數)转换而来。
+
+
 **Goodness係數**是一個由英國电气工程师所提出，有關[馬達效率的](https://zh.wikipedia.org/wiki/馬達 "wikilink")[無因次](https://zh.wikipedia.org/wiki/無因次 "wikilink")[度量](../Page/度量.md "wikilink")\[1\]\[2\]。他根據此公式開發了高效率的[磁浮](https://zh.wikipedia.org/wiki/磁浮 "wikilink")[感應馬達](https://zh.wikipedia.org/wiki/感應馬達 "wikilink")\[3\]：
 
 \[G = \frac {\omega} {R \times \mathcal R} = \frac {\omega \mu \sigma A_\mathrm{m} A_\mathrm{e}} {l_\mathrm{m} l_\mathrm{e}}\]

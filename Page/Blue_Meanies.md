@@ -1,3 +1,6 @@
+> 本文内容由[Blue Meanies](https://zh.wikipedia.org/wiki/Blue_Meanies)转换而来。
+
+
 **Blue Meanies**是1968年的[奇幻電影](https://zh.wikipedia.org/wiki/奇幻電影 "wikilink")[黃色潛水艇中的](https://zh.wikipedia.org/wiki/黃色潛水艇_\(電影\) "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[角色](../Page/角色.md "wikilink")，象徵世界上各種的壞人\[1\]。
 
 ## 造型

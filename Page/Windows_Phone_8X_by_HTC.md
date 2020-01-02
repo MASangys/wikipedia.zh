@@ -1,3 +1,6 @@
+> 本文内容由[Windows Phone 8X by HTC](https://zh.wikipedia.org/wiki/Windows_Phone_8X_by_HTC)转换而来。
+
+
 **Windows Phone 8X by HTC**（簡稱：**HTC 8X**,开发代号：**Accord**）是[HTC於](https://zh.wikipedia.org/wiki/HTC "wikilink")2012年9月19日與[微軟共同發表的一款智慧型手機](https://zh.wikipedia.org/wiki/微軟 "wikilink")，使用[Windows Phone 8作業系統](../Page/Windows_Phone_8.md "wikilink")，同時搭載[Beats Audio音效技術和](https://zh.wikipedia.org/wiki/Beats_Audio "wikilink")[NFC功能](https://zh.wikipedia.org/wiki/NFC "wikilink")。
 
 ## 網路支援

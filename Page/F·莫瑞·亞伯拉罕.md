@@ -1,3 +1,6 @@
+> 本文内容由[F·莫瑞·亞伯拉罕](https://zh.wikipedia.org/wiki/F·莫瑞·亞伯拉罕)转换而来。
+
+
 **F·莫瑞·亞伯拉罕**（，），[美國男](https://zh.wikipedia.org/wiki/美國 "wikilink")[演員](../Page/演員.md "wikilink")，凭借1984年音乐传记电影《[阿瑪迪斯](../Page/阿瑪迪斯.md "wikilink")》獲[奧斯卡最佳男主角獎](https://zh.wikipedia.org/wiki/奧斯卡最佳男主角獎 "wikilink")，该片由[米洛斯·福曼](../Page/米洛斯·福曼.md "wikilink")执导，描述音乐神童[沃尔夫冈·阿玛迪斯·莫扎特传奇的一生](https://zh.wikipedia.org/wiki/沃尔夫冈·阿玛迪斯·莫扎特 "wikilink")。
 
 ## 生平

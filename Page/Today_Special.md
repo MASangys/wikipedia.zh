@@ -1,3 +1,6 @@
+> 本文内容由[Today Special](https://zh.wikipedia.org/wiki/Today_Special)转换而来。
+
+
 《**Today Special**》為香港歌手[李克勤](../Page/李克勤.md "wikilink")於2009年發行的粵語專輯，於2009年1月15日正式發行。本唱片特別在於克勤請來不同的音樂人及歌手與他合作，如：[陳奕迅](../Page/陳奕迅.md "wikilink")、[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")、[張繼聰](../Page/張繼聰.md "wikilink")、[范曉萱](../Page/范曉萱.md "wikilink")、[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、[林海峰](https://zh.wikipedia.org/wiki/林海峰 "wikilink")、[側田](../Page/側田.md "wikilink")、[譚詠麟](../Page/譚詠麟.md "wikilink")、[Jerald](https://zh.wikipedia.org/wiki/Jerald "wikilink")。
 
 ## 曲目

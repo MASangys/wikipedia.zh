@@ -1,3 +1,6 @@
+> 本文内容由[FRIENDS](https://zh.wikipedia.org/wiki/FRIENDS)转换而来。
+
+
 「**FRIENDS**」是[日本](../Page/日本.md "wikilink")的女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第1枚原創專輯。於2009年12月16日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

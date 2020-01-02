@@ -1,3 +1,6 @@
+> 本文内容由[IXION SAGA DT](https://zh.wikipedia.org/wiki/IXION_SAGA_DT)转换而来。
+
+
 **《伊克西翁传说 DT》**（，）是基于日本游戏公司[卡普空开发的多人互动](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")**《伊克西翁传说》**（，）所改编的电视动画。于2012年10月7日至2013年3月31日播映，全25集。同时亦有改编漫画**《伊克西翁传说 ED》**（）。
 
 ## 故事簡介

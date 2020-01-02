@@ -1,3 +1,6 @@
+> 本文内容由[Big Comic Original](https://zh.wikipedia.org/wiki/Big_Comic_Original)转换而来。
+
+
 《**Big Comic Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1972年創刊。
 
 ## 連載作品

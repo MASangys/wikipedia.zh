@@ -1,3 +1,6 @@
+> 本文内容由[Force \(Superfly專輯\)](https://zh.wikipedia.org/wiki/Force_\(Superfly專輯\))转换而来。
+
+
 《**Force**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2012年9月19日發行之第四張原創[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 簡介

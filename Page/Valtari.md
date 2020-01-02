@@ -1,3 +1,6 @@
+> 本文内容由[Valtari](https://zh.wikipedia.org/wiki/Valtari)转换而来。
+
+
 ***Valtari*** \[1\]是[冰島樂團](https://zh.wikipedia.org/wiki/冰島 "wikilink")[席格若斯的第六張](https://zh.wikipedia.org/wiki/Sigur_Rós "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，將於[五月](https://zh.wikipedia.org/wiki/五月 "wikilink")[二十三日於](https://zh.wikipedia.org/wiki/二十三日 "wikilink")[日本](../Page/日本.md "wikilink")發行\[2\]、其他國家則為五月二十八日或二十九日發行，[臺灣](../Page/臺灣.md "wikilink")由[金牌大風](../Page/金牌大風.md "wikilink")於六月八日代理發行，並將專輯中文名稱翻譯為「壓解」\[3\]。
 
 ## 背景

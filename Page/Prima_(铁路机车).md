@@ -1,3 +1,6 @@
+> 本文内容由[Prima \(铁路机车\)](https://zh.wikipedia.org/wiki/Prima_\(铁路机车\))转换而来。
+
+
 “**Prima**”是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[阿尔斯通公司开发的](https://zh.wikipedia.org/wiki/阿尔斯通公司 "wikilink")[电力机车和](https://zh.wikipedia.org/wiki/电力机车 "wikilink")[柴油机车产品系列](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，于1999年开始投入生产。截至2008年，阿尔斯通公司已经生产了超过1750台“Prima”系列机车，其中电力机车的主要使用国为法国、中国等，而柴油机车的用户包括法国、伊朗、斯里兰卡、以色列、美国、叙利亚、西班牙等。
 
 ## 发展历史

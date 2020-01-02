@@ -1,3 +1,6 @@
+> 本文内容由[LOFTER](https://zh.wikipedia.org/wiki/LOFTER)转换而来。
+
+
 [LOFTER_LOGO.png](https://zh.wikipedia.org/wiki/File:LOFTER_LOGO.png "fig:LOFTER_LOGO.png")
 
 **LOFTER**，中文名**乐乎**，是由[网易](../Page/网易.md "wikilink")开发的轻博客服务，目标群体是小众的[文艺青年](https://zh.wikipedia.org/wiki/文艺青年 "wikilink")。

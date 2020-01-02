@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(B02\)](https://zh.wikipedia.org/wiki/ATC代码_\(B02\))转换而来。
+
+
 ## B02A [抗纤维蛋白溶酶药](https://zh.wikipedia.org/wiki/抗纤维蛋白溶酶药 "wikilink")（Antifibrinolytics）
 
 ### B02AA [氨基酸类](https://zh.wikipedia.org/wiki/氨基酸类 "wikilink")（Amino acids）

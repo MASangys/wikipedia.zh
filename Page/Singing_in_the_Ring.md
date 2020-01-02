@@ -1,3 +1,6 @@
+> 本文内容由[Singing in the Ring](https://zh.wikipedia.org/wiki/Singing_in_the_Ring)转换而来。
+
+
 《**Singing in the Ring**》是[劉浩龍](../Page/劉浩龍.md "wikilink")的第二張個人專輯，於2004年12月30日推出。
 
 ## 曲目

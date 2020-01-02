@@ -1,3 +1,6 @@
+> 本文内容由[Big Comic](https://zh.wikipedia.org/wiki/Big_Comic)转换而来。
+
+
 《**Big Comic**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1968年創刊。
 
 ## 連載作品

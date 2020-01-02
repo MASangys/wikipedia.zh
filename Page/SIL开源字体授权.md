@@ -1,3 +1,6 @@
+> 本文内容由[SIL开源字体授权](https://zh.wikipedia.org/wiki/SIL开源字体授权)转换而来。
+
+
 **SIL開源字型授權**（，縮寫**OFL**）是一種[自由](../Page/自由软件.md "wikilink")、[開源的字型授權條款](../Page/开源软件.md "wikilink")。它由[SIL國際](../Page/SIL國際.md "wikilink")制定，首先使用於其發佈的一些[Unicode字型](https://zh.wikipedia.org/wiki/Unicode "wikilink")。\[1\]
 
 與GPL相比，採用本授權條款發佈的字型，若要發售則必需要與其他軟件[同捆發佈](https://zh.wikipedia.org/wiki/同捆 "wikilink")，不可只單純販售此字型（not sold by themselves）。所以若想販售，必得搭配其他產品，例如其他字型、軟體等。然而，只要簡單的[hello world程式](https://zh.wikipedia.org/wiki/hello_world "wikilink")，即可符合要求。至於免費發佈，則不受此限。因此本授權條款獲得[自由軟體基金會判定符合自由軟體的定義](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")。\[2\]但須注意，它與[GNU通用公共授權條款並不兼容](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")。\[3\]

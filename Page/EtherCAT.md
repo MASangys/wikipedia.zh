@@ -1,3 +1,6 @@
+> 本文内容由[EtherCAT](https://zh.wikipedia.org/wiki/EtherCAT)转换而来。
+
+
 **EtherCAT**（**乙太網控制自動化技術**\[1\]）是一個開放架構，以[乙太網為基礎的](https://zh.wikipedia.org/wiki/乙太網 "wikilink")[現場總線](../Page/現場總線.md "wikilink")系統，其名稱的CAT為控制自動化技術（**C**ontrol **A**utomation **T**echnology）字首的縮寫。EtherCAT是確定性的[工業以太網](../Page/工業以太網.md "wikilink")，最早是由德國的研發\[2\]。
 
 自動化對通訊一般會要求較短的資料更新時間（或稱為週期時間）、時的通訊[抖动](../Page/抖动.md "wikilink")量低，而且硬體的成本要低，EtherCAT開發的目的就是讓乙太網可以運用在自動化應用中。

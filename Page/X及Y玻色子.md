@@ -1,3 +1,6 @@
+> 本文内容由[X及Y玻色子](https://zh.wikipedia.org/wiki/X及Y玻色子)转换而来。
+
+
 在[粒子物理學](../Page/粒子物理學.md "wikilink")中，**X及Y玻色子**（或有時合稱為**X玻色子**\[1\]）是一種假想[基本粒子](../Page/基本粒子.md "wikilink")，與[W及Z玻色子](../Page/W及Z玻色子.md "wikilink")類似，但它們傳遞的是一種全新的力，而這種力是由[喬吉-格拉肖模型所預測的](https://zh.wikipedia.org/wiki/喬吉-格拉肖模型 "wikilink")，它是一套[大統一理論](https://zh.wikipedia.org/wiki/大統一理論 "wikilink")。
 
 ## 細節

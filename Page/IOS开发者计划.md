@@ -1,3 +1,6 @@
+> 本文内容由[IOS开发者计划](https://zh.wikipedia.org/wiki/IOS开发者计划)转换而来。
+
+
 **iOS开发者计划**（英语：**iOS Developer Program**）是[苹果公司为iOS开发人员提供的官方项目](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，该计划包括为开发人员提供开发工具，技术支持培训，资格及程序发布审核等支持\[1\]。[苹果公司的iOS](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") Dev Center网站亦提供了大量技术和学习资料。此外[苹果公司每年都会举办](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[苹果公司全球软件开发者年会](https://zh.wikipedia.org/wiki/苹果公司全球软件开发者年会 "wikilink")（[WWDC](https://zh.wikipedia.org/wiki/WWDC "wikilink")）。
 
 开发者每年拥有两次技术支持事件（TSI），每次允许开发者请求技术支持工程师提供代码级支持。问题将被分配给合适的工程师以帮助排除代码问题，指出获取其他技术资源的途径，或者提供能够加速其开发过程的变通方法或相应的技术文档。开发者可以通过会员中心的“Programs & Add-ons”（计划和附加项目）购买额外的技术支持事件，包括99美元2次技术支持和249美元5次技术支持两种选择。

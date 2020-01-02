@@ -1,3 +1,6 @@
+> 本文内容由[Sendmail](https://zh.wikipedia.org/wiki/Sendmail)转换而来。
+
+
 **Sendmail**是一種多用途、支援多種協定的跨網路電子郵件傳送代理軟體，由[艾瑞克·歐曼](https://zh.wikipedia.org/wiki/艾瑞克·歐曼 "wikilink")（Eric Allman）所開發，於1983年隨著[BSD](../Page/BSD.md "wikilink") 4.1c首次發行。
 
 ## 概要

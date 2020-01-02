@@ -1,3 +1,6 @@
+> 本文内容由[Love Again \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Love_Again_\(韓國電視劇\))转换而来。
+
+
 《**Love Again**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2012年4月25日起播出的[水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")，翻拍自2010年[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")《[同窗會～Love Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同樣以曾為同學的男女主角們於30年後的同學會再次相遇引發的戀愛故事，但劇情上稍有不同。
 
 ## 演員陣容

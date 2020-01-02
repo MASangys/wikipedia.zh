@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A03\)](https://zh.wikipedia.org/wiki/ATC代码_\(A03\))转换而来。
+
+
 ## A03A 治疗功能性肠道疾病的药物（Drugs for functional bowel disorders）
 
 ### A03AA 合成的抗胆碱能药物，带叔胺基团的酯类（Synthetic anticholinergics, esters with tertiary amino group）

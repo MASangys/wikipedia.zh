@@ -1,3 +1,6 @@
+> 本文内容由[D\&G禁止香港人攝影風波](https://zh.wikipedia.org/wiki/D\&G禁止香港人攝影風波)转换而来。
+
+
 [Dolce_&_Gabbana_Harbour_City_Store_2012.jpg](https://zh.wikipedia.org/wiki/File:Dolce_&_Gabbana_Harbour_City_Store_2012.jpg "fig:Dolce_&_Gabbana_Harbour_City_Store_2012.jpg")杜嘉班纳分店。\]\] [Dolce_&_Gabbana_HK_Protests_20120108.jpg](https://zh.wikipedia.org/wiki/File:Dolce_&_Gabbana_HK_Protests_20120108.jpg "fig:Dolce_&_Gabbana_HK_Protests_20120108.jpg") [D\&G_Hong_Kong_Racism.jpg](https://zh.wikipedia.org/wiki/File:D&G_Hong_Kong_Racism.jpg "fig:D&G_Hong_Kong_Racism.jpg")到場維持秩序。\]\]
 
 **D\&G禁止香港人攝影風波**起源於2012年1月著名[意大利](../Page/意大利.md "wikilink")[時裝](../Page/時裝.md "wikilink")品牌[D\&G位於](https://zh.wikipedia.org/wiki/杜嘉班納 "wikilink")[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[廣東道](../Page/廣東道.md "wikilink")[海港城](../Page/海港城.md "wikilink")的分店，有[香港人](../Page/香港人.md "wikilink")於該分店店外的行人路上進行[攝影時](https://zh.wikipedia.org/wiki/攝影 "wikilink")，被[商場](../Page/商場.md "wikilink")[保安員禁止攝影及驅趕](https://zh.wikipedia.org/wiki/保安員 "wikilink")，惟准許[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[遊客進行攝影等不平等待遇的爭議及風波](https://zh.wikipedia.org/wiki/遊客 "wikilink")。事件引起群眾於該分店外集會、攝影及示威，最终以杜嘉班纳位於[意大利](../Page/意大利.md "wikilink")[米蘭](../Page/米蘭.md "wikilink")的[總部發表聲明道歉告終](https://zh.wikipedia.org/wiki/總部 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[ATI Radeon HD 3000](https://zh.wikipedia.org/wiki/ATI_Radeon_HD_3000)转换而来。
+
+
 **ATI Radeon HD 3000系列**，代號*Radeon R670*，是[ATi被](https://zh.wikipedia.org/wiki/ATi "wikilink")[AMD收購以後推出的第二個](https://zh.wikipedia.org/wiki/AMD "wikilink")[Radeon系列圖形處理器](https://zh.wikipedia.org/wiki/ATI_Radeon "wikilink")。Radeon HD 3000系列的架構和上一代[Radeon HD 2000系列](../Page/ATI_Radeon_HD_2000.md "wikilink")（代號*[Radeon R600](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")*）的基本一致。但不同的是，Radeon HD 3000系列採用55奈米製程，上代產品採用的是80奈米或65奈米製程。單晶片頂級產品Radeon HD 3870相較於上代的旗艦型號Radeon HD 2900 XT，降低了顯示記憶體位寬，核心時脈亦有所提升，性能亦有進步，但功耗則大幅降低。在Radeon HD 2000系列推出不到一年，2007年11月15日，AMD發佈基於RV670顯示核心的Radeon HD 3800系列顯示卡，以55奈米製程製造，支援DirectX 10.1，並首次於中高階和旗艦產品中加入UVD，提供硬體影像解碼。
 
 ## 產品

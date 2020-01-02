@@ -1,3 +1,6 @@
+> 本文内容由[Systemd](https://zh.wikipedia.org/wiki/Systemd)转换而来。
+
+
 **systemd**是[Linux](../Page/Linux.md "wikilink")電腦[作業系統之下的一套](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[中央化系統及設定管理程式](https://zh.wikipedia.org/wiki/init "wikilink")（init），包括有[守护进程](../Page/守护进程.md "wikilink")、[程式庫以及應用軟體](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，由带头开发。其开发目标是提供更优秀的[框架以表示](https://zh.wikipedia.org/wiki/框架 "wikilink")间的依赖关系，并依此实现系统初始化时服务的并行启动，同时达到降低[Shell的](https://zh.wikipedia.org/wiki/Shell "wikilink")的效果，最终代替现在常用的[System V与](https://zh.wikipedia.org/wiki/System_V "wikilink")[BSD](../Page/BSD.md "wikilink")风格init程序。
 
 目前絕大多數的[Linux發行版都已採用systemd代替原來的](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[System V](../Page/UNIX_System_V.md "wikilink")。

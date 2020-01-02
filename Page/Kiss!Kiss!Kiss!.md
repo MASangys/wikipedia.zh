@@ -1,3 +1,6 @@
+> 本文内容由[Kiss!Kiss!Kiss!](https://zh.wikipedia.org/wiki/Kiss!Kiss!Kiss!)转换而来。
+
+
 {{Infobox Single| | Name = Kiss\!Kiss\!Kiss\! | Artist = [Buono\!](../Page/Buono!.md "wikilink") | Album = [Buono\!2](../Page/Buono!2.md "wikilink") | A-side = | B-side = **最喜歡大家了** | Released = 2008年5月14日 | Recorded = | Genre = [J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink") | Length = | Label = [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") | Writer = [岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink")(\#1、作詞)
 井上慎二郎(\#1、作曲)
 C.Piece(\#2、作詞)

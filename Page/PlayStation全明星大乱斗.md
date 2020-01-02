@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation全明星大乱斗](https://zh.wikipedia.org/wiki/PlayStation全明星大乱斗)转换而来。
+
+
 《**PlayStation全明星大乱斗**》（），，是一款由SuperBot Entertainment开发，并由[索尼电脑娱乐发行在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation 3及](../Page/PlayStation_3.md "wikilink")[PlayStation Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。本作将于2012年10月23日在北美发售。本作的形式极其类似于[任天堂明星大亂鬥系列](../Page/任天堂明星大亂鬥系列.md "wikilink")，所以也有将本作称之为“索尼全明星大乱斗”。
 
 ## 登场角色

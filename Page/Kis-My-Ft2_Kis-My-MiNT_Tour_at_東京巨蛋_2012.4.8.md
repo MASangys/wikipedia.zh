@@ -1,3 +1,6 @@
+> 本文内容由[Kis-My-Ft2 Kis-My-MiNT Tour at 東京巨蛋 2012.4.8](https://zh.wikipedia.org/wiki/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京巨蛋_2012.4.8)转换而来。
+
+
 『**Kis-My-Ft2 Kis-My-MiNT Tour at 東京巨蛋 2012.4.8**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")3張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄内容

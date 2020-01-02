@@ -1,3 +1,6 @@
+> 本文内容由[TE7型柴油机车](https://zh.wikipedia.org/wiki/TE7型柴油机车)转换而来。
+
+
 **ТE7型柴油机车**（）是[苏联铁路的干线客运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。
 
 ## 发展历史

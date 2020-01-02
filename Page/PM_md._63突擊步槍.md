@@ -1,3 +1,6 @@
+> 本文内容由[PM md. 63突擊步槍](https://zh.wikipedia.org/wiki/PM_md._63突擊步槍)转换而来。
+
+
 **1963年型7.62毫米[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")\[1\]**（）是一款由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")仿制的[AKM](https://zh.wikipedia.org/wiki/AKM "wikilink")。曾為[羅馬尼亞軍隊的制式步槍](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")，亦有出口到多個國家。其出口型一般都會被簡稱為：**AIM**及**AIMS**。
 
 其中md. 63（AIM）是仿制自[AKM](../Page/AKM突擊步槍.md "wikilink")，而md .65（AIMS），則是仿制自AKMS。

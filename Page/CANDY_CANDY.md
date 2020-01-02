@@ -1,3 +1,6 @@
+> 本文内容由[CANDY CANDY](https://zh.wikipedia.org/wiki/CANDY_CANDY)转换而来。
+
+
 《**CANDY CANDY**》是[Kyary Pamyu Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月4日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。該曲的製作人是繼前作[中田康貴](../Page/中田康貴.md "wikilink")擔當。分為初回限定盤和通常盤2種形態發售。歌曲後來在2016年被[勸世寶貝喵喵](../Page/勸世寶貝喵喵.md "wikilink")翻唱。\[1\]
 
 ## 音樂影片

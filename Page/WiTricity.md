@@ -1,3 +1,6 @@
+> 本文内容由[WiTricity](https://zh.wikipedia.org/wiki/WiTricity)转换而来。
+
+
 **WiTricity**或 'WiTri'，是 WiTricity公司的标志\[1\]。该公司主要研发[无线输电技术](../Page/无线供电.md "wikilink")，包括磁耦合无线输电，一种能实现远距离无线输电的方法。 该公司已经与汽车制造商奥迪，宝马，克莱斯勒，捷豹，日产和丰田合作。在2017年，迄今筹集了6800万美元。但是该公司面对来自[高通公司开发的无线汽车标准Halo的竞争](https://zh.wikipedia.org/wiki/高通公司 "wikilink")，该公司将其员工从80人减少到55人，并在得克萨斯州[奥斯汀关闭了一个办公室](https://zh.wikipedia.org/wiki/奥斯汀 "wikilink")\[2\]。然后将该技术与Qualcomm Halo集成，并仅继承WiTricity的公司标志。
 
 ## 历史
@@ -63,7 +66,7 @@ WiTricity的技术基于使用“高度共振”来实现高功率传输效率�
 [Category:无线能量转移](https://zh.wikipedia.org/wiki/Category:无线能量转移 "wikilink")
 
 1.
-2.  [WiTricity takes a turn toward electric-car charging](http://www.bostonglobe.com/business/2017/12/15/witricity-takes-turn-toward-electric-car-charging/jbuwKKlY4qr18j0B7PCUII/story.html#comments)
+2.
 3.
 4.
 5.

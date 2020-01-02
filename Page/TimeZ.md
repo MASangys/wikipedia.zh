@@ -1,3 +1,6 @@
+> 本文内容由[TimeZ](https://zh.wikipedia.org/wiki/TimeZ)转换而来。
+
+
 **TimeZ**是由北京捷特聯合文化傳媒有限公司（SuperJet Entertainment），聯手CJ E\&M集團共同打造的中國偶像男團，由隊長孔舒航、田翌臣、劉冠希和[毛若懿](../Page/毛若懿.md "wikilink")4名中國成員和李炯柱和金成煥2名韓國成員組成。2012年10月18日通過韓國Mwave電視台的打榜節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。
 
 ## 成員列表

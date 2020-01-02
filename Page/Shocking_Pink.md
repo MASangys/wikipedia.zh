@@ -1,3 +1,6 @@
+> 本文内容由[Shocking Pink](https://zh.wikipedia.org/wiki/Shocking_Pink)转换而来。
+
+
 《**Shocking Pink**》（中文名稱：**粉紅**）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭秀文](../Page/鄭秀文.md "wikilink")的第23張個人專輯和第18張粵語專輯，於2001年7月20日發行\[1\]。2001年9月19日推出第二版，加送兩個[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
 
 ## 曲目列表

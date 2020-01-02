@@ -1,3 +1,6 @@
+> 本文内容由[SISTAR19](https://zh.wikipedia.org/wiki/SISTAR19)转换而来。
+
+
 **SISTAR 19**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：씨스타19），在2011年4月29日由[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR推出首個子團體SISTAR](https://zh.wikipedia.org/wiki/Sistar "wikilink") 19，為[SISTAR的](https://zh.wikipedia.org/wiki/Sistar "wikilink")[孝琳和](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")[寶拉兩名成員組成](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")。\[1\]
 
 ## 團名由來

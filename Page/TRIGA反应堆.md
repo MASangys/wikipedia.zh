@@ -1,3 +1,6 @@
+> 本文内容由[TRIGA反应堆](https://zh.wikipedia.org/wiki/TRIGA反应堆)转换而来。
+
+
 [TrigaReactorCore.jpeg](https://zh.wikipedia.org/wiki/File:TrigaReactorCore.jpeg "fig:TrigaReactorCore.jpeg")引起的蓝色辉光.\]\] **TRIGA反应堆**是一种小型核反应堆，最初由[通用原子公司](https://zh.wikipedia.org/wiki/通用原子公司 "wikilink")（General Atomics）设计，其设计小组由物理学家[弗里曼·戴森](../Page/弗里曼·戴森.md "wikilink")（Freeman Dyson）领导。TRIGA是“训练、研究、同位素、通用原子”（Training, Research, Isotopes, General Atomic）5个英文字母的缩写。
 
 ## 设计

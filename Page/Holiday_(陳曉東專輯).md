@@ -1,3 +1,6 @@
+> 本文内容由[Holiday \(陳曉東專輯\)](https://zh.wikipedia.org/wiki/Holiday_\(陳曉東專輯\))转换而来。
+
+
 《**Holiday**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳曉東的第七張粵語專輯](../Page/陳曉東_\(藝人\).md "wikilink")，在1998年7月推出。專輯第一主打大碟是《新歡加精選》，第二主打則為《水瓶座》。本專輯在香港[IFPI唱片銷量榜上榜三星期](https://zh.wikipedia.org/wiki/IFPI "wikilink")，最高佔據冠軍位置，也是他首奪本地唱片銷量榜冠軍。\[1\] \[2\]
 
 ## 曲目

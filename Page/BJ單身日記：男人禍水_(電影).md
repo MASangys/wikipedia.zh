@@ -1,3 +1,6 @@
+> 本文内容由[BJ單身日記：男人禍水 \(電影\)](https://zh.wikipedia.org/wiki/BJ單身日記：男人禍水_\(電影\))转换而来。
+
+
 **《BJ單身日記：男人禍水》**（）是一部2004年的浪漫喜剧[电影](../Page/电影.md "wikilink")，导演是[碧芭·潔倫](https://zh.wikipedia.org/wiki/碧芭·潔倫 "wikilink")，根据[海伦·菲尔丁](../Page/海伦·菲尔丁.md "wikilink")的[同名小说改编](https://zh.wikipedia.org/wiki/B.J.的單身日記2─都是男人惹的禍 "wikilink")。由[蕾妮·齐薇格](../Page/蕾妮·齐薇格.md "wikilink")，[休·格兰特](../Page/休·格兰特.md "wikilink")和[哥連·費夫主演](https://zh.wikipedia.org/wiki/哥連·費夫 "wikilink")。这部电影是《[BJ单身日记](https://zh.wikipedia.org/wiki/BJ单身日记_\(电影\) "wikilink")》（2001）的续集。电影和原著小说的故事情节间有很大差异。电影由英国与法国，德国和爱尔兰合作制作。
 
 这部电影获得的评论大多數是负面的，儘管如此，這部電影票房還是成功，全球票房收入超過2.6億美元。 \[1\]2011年8月11日正式宣布，电影的第三部確定开拍。\[2\]續集《[BJ有喜](../Page/BJ有喜.md "wikilink")》於2016年上映。

@@ -1,3 +1,6 @@
+> 本文内容由[I Remember feat. Joe Sample](https://zh.wikipedia.org/wiki/I_Remember_feat._Joe_Sample)转换而来。
+
+
 『**I Remember feat. Joe Sample**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2010年12月15日發售的第20張單曲\[1\]。
 
 ## 概要

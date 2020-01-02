@@ -1,3 +1,6 @@
+> 本文内容由[PH1](https://zh.wikipedia.org/wiki/PH1)转换而来。
+
+
 \[1\] |semi-amp = 20.69 ± 0.31 ×10<sup>3</sup> \[2\] }}
 
 **PH1**（Planet Hunters 1），或稱為**克卜勒64b**（**Kepler-64b**）\[3\]是一顆環繞[四重星系統內其中一組](../Page/聚星.md "wikilink")[聯星](../Page/聯星.md "wikilink")的[環聯星運轉行星](https://zh.wikipedia.org/wiki/環聯星運轉行星 "wikilink")。該行星是由參與[行星獵人](../Page/行星獵人.md "wikilink")計畫的兩位業餘天文學家在一組各國天文學家中來自[耶魯大學的成員幫助下分析來自](https://zh.wikipedia.org/wiki/耶魯大學 "wikilink")[克卜勒太空望遠鏡](../Page/克卜勒太空望遠鏡.md "wikilink")的資料發現。該行星於2012年10月15日宣布發現\[4\]\[5\]，是以[凌日法在四重星系統中發現的第一顆行星](https://zh.wikipedia.org/wiki/凌日法 "wikilink")\[6\]，也是在四重星系統中發現的首顆環聯星運轉行星\[7\]，更是四重星系統中發現的第一顆行星。該行星也是行星獵人計畫確認發現的第一顆行星\[8\]。

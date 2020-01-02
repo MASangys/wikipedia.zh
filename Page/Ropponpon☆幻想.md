@@ -1,3 +1,6 @@
+> 本文内容由[Ropponpon☆幻想](https://zh.wikipedia.org/wiki/Ropponpon☆幻想)转换而来。
+
+
 《**Ropponpon☆幻想**》（）是日本組合[惠比壽麝香葡萄](../Page/惠比壽麝香葡萄.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。 2011年10月12日由[環球音樂發售](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 概要

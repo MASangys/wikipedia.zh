@@ -1,3 +1,6 @@
+> 本文内容由[Du hast](https://zh.wikipedia.org/wiki/Du_hast)转换而来。
+
+
 "**Du hast**"（德译：你有/你狠）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")。
 
 ## MV

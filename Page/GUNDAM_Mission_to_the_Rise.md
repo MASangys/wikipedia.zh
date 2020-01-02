@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM Mission to the Rise](https://zh.wikipedia.org/wiki/GUNDAM_Mission_to_the_Rise)转换而来。
+
+
 《**GUNDAM Mission to the Rise**》（原題：ガンダム ミッション・トゥ・ザ・ライズ），是由[大友克洋](../Page/大友克洋.md "wikilink")所執導的[GUNDAM系列CG動畫短片作品](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。\[1\]\[2\]
 
 ## 概要

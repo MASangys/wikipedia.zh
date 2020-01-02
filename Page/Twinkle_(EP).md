@@ -1,3 +1,6 @@
+> 本文内容由[Twinkle \(EP\)](https://zh.wikipedia.org/wiki/Twinkle_\(EP\))转换而来。
+
+
 《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代](../Page/少女时代.md "wikilink")子团体[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，CD实体版于5月2日在韩国发行\[1\] 。
 
 ## 单曲

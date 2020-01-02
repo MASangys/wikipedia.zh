@@ -1,3 +1,6 @@
+> 本文内容由[Canvas／你好棒](https://zh.wikipedia.org/wiki/Canvas／你好棒)转换而来。
+
+
 《**Canvas／你・好・棒♥**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：／[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：／[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Canvas／You Are Beau・ti・ful♥），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月20日發行。
 
 ## 概述

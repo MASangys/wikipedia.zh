@@ -1,3 +1,6 @@
+> 本文内容由[Get Back \(Aice5單曲\)](https://zh.wikipedia.org/wiki/Get_Back_\(Aice5單曲\))转换而来。
+
+
 「**Get Back**」是[Aice5](../Page/Aice5.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年3月11日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要

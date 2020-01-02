@@ -1,3 +1,6 @@
+> 本文内容由[Super131](https://zh.wikipedia.org/wiki/Super131)转换而来。
+
+
 **Super131**，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[聯華娛樂旗下的](https://zh.wikipedia.org/wiki/聯華娛樂 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")。成員有[陽光](https://zh.wikipedia.org/wiki/陽光 "wikilink")、[巴飛](https://zh.wikipedia.org/wiki/巴飛 "wikilink")、[黎開](https://zh.wikipedia.org/wiki/黎開 "wikilink")、[子浩和](../Page/吳承洋_\(1989年\).md "wikilink")[子豪](https://zh.wikipedia.org/wiki/子豪 "wikilink")，2014年各自以其專長發展，同時宣佈，正式解散。
 
 成員[陽光](https://zh.wikipedia.org/wiki/陽光 "wikilink")、[黎開於](https://zh.wikipedia.org/wiki/黎開 "wikilink")2016年與[馮宇](../Page/馮宇.md "wikilink")、[高泰重新組合為](https://zh.wikipedia.org/wiki/高泰 "wikilink")[BET.A](https://zh.wikipedia.org/wiki/BET.A "wikilink")，發行EP《[Bet Again](https://zh.wikipedia.org/wiki/Bet_Again "wikilink")》。

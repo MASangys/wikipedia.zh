@@ -1,3 +1,6 @@
+> 本文内容由[Pocket](https://zh.wikipedia.org/wiki/Pocket)转换而来。
+
+
 **Pocket**（前称**Read It Later**）是一个用于管理[互联网](../Page/互联网.md "wikilink")文章的[应用程序](../Page/应用程序.md "wikilink")及服务，目前已有[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Kobo eReader等平台的客户端](https://zh.wikipedia.org/wiki/Kobo_eReader "wikilink")，各種浏览器中亦有其附加元件。\[1\]Pocket以前只可以用于[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")\[2\]。
 
 ## 功能
@@ -16,7 +19,7 @@ Read It Later最早由Nathan Weiner于2007年8月发布。随着产品使用人�
 
 ## 用户数量
 
-截止2014年5月，该应用程序拥有1200万用户s\[10\]，共计10亿次保存\[11\]。2007-2011年，用户总共存放了 1.7 亿条项目，但在2012年有 2.4 亿个项目被存至Pocket。\[12\]\[13\]根据[Techcrunch](https://zh.wikipedia.org/wiki/Techcrunch "wikilink")，每天下載量達10,000，而其中有些是其它应用程序的需求，例如[Twitter](../Page/Twitter.md "wikilink") Read It Later的[API](https://zh.wikipedia.org/wiki/API "wikilink")。\[14\]\[15\]
+截止2014年5月，该应用程序拥有1200万用户\[10\]，共计10亿次保存\[11\]。2007-2011年，用户总共存放了 1.7 亿条项目，但在2012年有 2.4 亿个项目被存至Pocket。\[12\]\[13\]根据[Techcrunch](https://zh.wikipedia.org/wiki/Techcrunch "wikilink")，每天下載量達10,000，而其中有些是其它应用程序的需求，例如[Twitter](../Page/Twitter.md "wikilink") Read It Later的[API](https://zh.wikipedia.org/wiki/API "wikilink")。\[14\]\[15\]
 
 ## 评价
 
@@ -39,34 +42,21 @@ Read It Later最早由Nathan Weiner于2007年8月发布。随着产品使用人�
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:黑莓软件](https://zh.wikipedia.org/wiki/Category:黑莓软件 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
 
 1.  [Pocket: Applications](http://getpocket.com/apps/). Getpocket.com. Retrieved on 2013-07-30.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12. [Pocket用户数达740万，这一年有2.4亿个项目被保存稍后看，比过去四年的总和还多 | 36氪](http://www.36kr.com/p/200322.html)
-
 13. [With 7.4 million users and 240 million saves, Pocket breaks down its most popular content of 2012](http://thenextweb.com/insider/2012/12/20/with-7-4-million-users-and-240-million-saves-pocket-breaks-down-its-most-popular-content-of-2012/). The Next Web (2012-12-20). Retrieved on 2013-07-30.
-
 14.
 15.
 16.
-
 17.
 18.
-
 19.

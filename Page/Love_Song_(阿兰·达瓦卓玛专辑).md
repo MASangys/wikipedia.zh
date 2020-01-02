@@ -1,3 +1,6 @@
+> 本文内容由[Love Song \(阿兰·达瓦卓玛专辑\)](https://zh.wikipedia.org/wiki/Love_Song_\(阿兰·达瓦卓玛专辑\))转换而来。
+
+
 《**Love Song**》是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第三张[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。
 
 ## 收录歌曲

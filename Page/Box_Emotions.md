@@ -1,3 +1,6 @@
+> 本文内容由[Box Emotions](https://zh.wikipedia.org/wiki/Box_Emotions)转换而来。
+
+
 《**Box Emotions**》為日本組合[Superfly](../Page/Superfly.md "wikilink")於2009年9月2日發行的第二張專輯。
 
 ## 簡介

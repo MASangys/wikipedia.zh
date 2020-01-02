@@ -1,3 +1,6 @@
+> 本文内容由[MIRACLE RUSH](https://zh.wikipedia.org/wiki/MIRACLE_RUSH)转换而来。
+
+
 「**MIRACLE RUSH**」是[StylipS](../Page/StylipS.md "wikilink")的第2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月16日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要

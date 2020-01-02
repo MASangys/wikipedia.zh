@@ -1,3 +1,6 @@
+> 本文内容由[FDZone](https://zh.wikipedia.org/wiki/FDZone)转换而来。
+
+
 **FDZone**（2003年－2012年，2013年－），是港澳大型地下[討論區之一](https://zh.wikipedia.org/wiki/討論區 "wikilink")，會員以[華人為主](https://zh.wikipedia.org/wiki/華人 "wikilink")，在台灣亦有一定知名度。它以嚴謹的網站營運制度見稱，藉此逃避執法機構監管。2012年6月7日，港澳海關聯手偵破該[侵權討論區](https://zh.wikipedia.org/wiki/侵權 "wikilink")，拘捕創辦人暨管理員AndyGod等人，網站暫時關閉。但其後網站於2013年2月10日重新開放。
 
 ## 簡介和特性
@@ -48,14 +51,9 @@
 [Category:香港網上論壇](https://zh.wikipedia.org/wiki/Category:香港網上論壇 "wikilink")
 
 1.  [高登討論區：澳門日報: FDZone 神話聰明誤](http://forum1.hkgolden.com/view.aspx?message=3773543)，2012年6月9日。
-
 2.
 3.  [高登討論區：FDZONE網主ANDYGOD一經定罪，處最高八年徒刑](http://forum1.hkgolden.com/view.aspx?message=3772247)，2012年6月8日。
-
 4.  [ETtoday（台灣）：MU抄站亞洲版？　「FDZone」站長ANDYGOD澳門遭逮](http://www.ettoday.net/news/20120609/55498.htm)，2012年6月9日。
-
 5.  [高登討論區：有無forum取代到fdzone](http://forum2.hkgolden.com/view.aspx?message=3652864)，2012年4月6日。
-
 6.  [高登討論區：FDZONE巳被澳門海關收檔](http://forum1.hkgolden.com/view.aspx?message=3772083)，2012年6月8日。
-
 7.  [ETtoday：「公仔箱論壇」版主伸援手　願收容FDZone難民會員！](http://www.ettoday.net/news/20120609/55524.htm)，2012年6月9日。

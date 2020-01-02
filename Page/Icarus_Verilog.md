@@ -1,3 +1,6 @@
+> 本文内容由[Icarus Verilog](https://zh.wikipedia.org/wiki/Icarus_Verilog)转换而来。
+
+
 **Icarus Verilog**是[Verilog](../Page/Verilog.md "wikilink")[硬件描述语言](../Page/硬件描述语言.md "wikilink")的实现工具之一。它支持Verilog对应的的[IEEE](../Page/电气电子工程师学会.md "wikilink") 1995、IEEE 2001和IEEE 2005三个不同的版本，并对[SystemVerilog](../Page/SystemVerilog.md "wikilink")的部分内容提供支持。
 
 Icarus Verilog可以配置在[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenSolaris](../Page/OpenSolaris.md "wikilink")、[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")、[Microsoft Windows以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS X环境中](https://zh.wikipedia.org/wiki/OS_X "wikilink")。该软件以[GNU通用公共许可协议发布](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，是一个[自由软件](../Page/自由软件.md "wikilink")。

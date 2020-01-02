@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C03\)](https://zh.wikipedia.org/wiki/ATC代码_\(C03\))转换而来。
+
+
 ## C03A [低限量利尿药](https://zh.wikipedia.org/wiki/低限量利尿药 "wikilink"),噻嗪类（Low-ceiling diuretics, thiazides）
 
 ### C03AA [噻嗪类](https://zh.wikipedia.org/wiki/噻嗪 "wikilink"),单方（Thiazides, plain）

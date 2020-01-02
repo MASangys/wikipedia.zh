@@ -1,3 +1,6 @@
+> 本文内容由[Live A Life](https://zh.wikipedia.org/wiki/Live_A_Life)转换而来。
+
+
 《**Live A Life**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第八張個人專輯，同時亦為第三張個人大碟。原定於2012年8月18日推出\[1\]，後延後三天到8月21日發行\[2\]。
 
 8月31日，[博美娛樂](../Page/博美娛樂.md "wikilink")宣布在9月7日為《Live A Life》推出第二版，加入收錄《Moov Live 2012 周國賢》的一片DVD\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Silent Snow](https://zh.wikipedia.org/wiki/Silent_Snow)转换而来。
+
+
 《**Silent Snow**》是[花澤香菜](../Page/花澤香菜.md "wikilink")以个人名义发表的第4张單曲。于2013年1月16日由[Aniplex](../Page/Aniplex.md "wikilink")發行。
 
 ## 概要

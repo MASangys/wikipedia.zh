@@ -1,3 +1,6 @@
+> 本文内容由[SeederDict](https://zh.wikipedia.org/wiki/SeederDict)转换而来。
+
+
 **SeederDict**是一款用于[Android](../Page/Android.md "wikilink")[移动设备](../Page/移动设备.md "wikilink")的[电子辞典软件](https://zh.wikipedia.org/wiki/电子辞典 "wikilink")，可以用于查看Stardict/MDict/ZDic[格式词典文件](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。
 
 SeederDict支持简／繁体转换和真人发音。目前由網友制作的語音庫包括英文美音、英音，中文，日文，葡語,西班牙語，粵語等。

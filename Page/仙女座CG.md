@@ -1,3 +1,6 @@
+> 本文内容由[仙女座CG](https://zh.wikipedia.org/wiki/仙女座CG)转换而来。
+
+
 **仙女座CG**，又名**BD+44 4538**，**HD 224801**、**SAO 53568**、**HR 9080**，是[仙女座](../Page/仙女座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.38，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")113.65，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-16.7，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

@@ -1,3 +1,6 @@
+> 本文内容由[Lustre](https://zh.wikipedia.org/wiki/Lustre)转换而来。
+
+
 **Lustre**，一種平行[分散式檔案系統](../Page/分散式檔案系統.md "wikilink")，通常用于大型[計算機叢集和](https://zh.wikipedia.org/wiki/計算機叢集 "wikilink")[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")。Lustre是源自[Linux](../Page/Linux.md "wikilink")和Cluster的[混成词](https://zh.wikipedia.org/wiki/混成词 "wikilink")。最早在1999年，由[皮特·布拉姆](https://zh.wikipedia.org/wiki/皮特·布拉姆 "wikilink")（）建立的[叢集檔案系統公司](https://zh.wikipedia.org/wiki/叢集檔案系統公司 "wikilink")（）開始研發，於2003年釋出 Lustre 1.0。採用[GNU GPLv](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")2開源碼授權。
 
 ## 历史

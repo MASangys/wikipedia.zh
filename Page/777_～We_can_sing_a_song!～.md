@@ -1,3 +1,6 @@
+> 本文内容由[777 ～We can sing a song!～](https://zh.wikipedia.org/wiki/777_～We_can_sing_a_song!～)转换而来。
+
+
 《**777 ～We can sing a song\!～**》是[日本](../Page/日本.md "wikilink")的[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")33张[单曲](../Page/单曲.md "wikilink")。2012年7月25日由[avex trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

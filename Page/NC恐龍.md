@@ -1,3 +1,6 @@
+> 本文内容由[NC恐龍](https://zh.wikipedia.org/wiki/NC恐龍)转换而来。
+
+
 **NC恐龍**（、），是[KBO聯賽](../Page/KBO聯賽.md "wikilink")的球隊之一，母企業為知名的遊戲公司[NCsoft](../Page/NCsoft.md "wikilink")，成立於[2011年](../Page/2011年.md "wikilink")2月8日，為[韓國職棒第二次擴編的首支新球隊](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，也是聯盟的第九支球隊，並依規定於[2012年](../Page/2012年.md "wikilink")先打一年二軍，後於[2013年](../Page/2013年.md "wikilink")正式升上一軍，主場為位於[慶尚南道](https://zh.wikipedia.org/wiki/慶尚南道 "wikilink")[昌原市](../Page/昌原市.md "wikilink")的[昌原NC球場](https://zh.wikipedia.org/wiki/昌原NC球場 "wikilink")。
 
 [NC_Dinos_Dandi_and_Sseri.JPG](https://zh.wikipedia.org/wiki/File:NC_Dinos_Dandi_and_Sseri.JPG "fig:NC_Dinos_Dandi_and_Sseri.JPG")

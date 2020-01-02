@@ -1,3 +1,6 @@
+> 本文内容由[La La La \(鄭秀文專輯\)](https://zh.wikipedia.org/wiki/La_La_La_\(鄭秀文專輯\))转换而来。
+
+
 《**La La La**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭秀文](../Page/鄭秀文.md "wikilink")的第29張個人專輯和第22張粵語專輯，於2004年2月27日發行。
 
 ## 曲目列表

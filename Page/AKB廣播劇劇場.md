@@ -1,3 +1,6 @@
+> 本文内容由[AKB廣播劇劇場](https://zh.wikipedia.org/wiki/AKB廣播劇劇場)转换而来。
+
+
 **AKB廣播劇劇場**（）是[AKB48](../Page/AKB48.md "wikilink")的成員每日交替出演的[廣播劇](../Page/廣播劇.md "wikilink")。由[NRN](../Page/NRN.md "wikilink")系列播放，[日本放送](../Page/日本放送.md "wikilink")制作。
 
 ## 概要

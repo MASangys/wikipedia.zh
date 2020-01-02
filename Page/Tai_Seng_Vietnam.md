@@ -1,3 +1,6 @@
+> 本文内容由[Tai Seng Vietnam](https://zh.wikipedia.org/wiki/Tai_Seng_Vietnam)转换而来。
+
+
 **Tai Seng Vietnam**（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[泰盛電視廣播公司擁有的一條以](https://zh.wikipedia.org/wiki/泰盛電視廣播公司 "wikilink")[越南語廣播為主的頻道](https://zh.wikipedia.org/wiki/越南語 "wikilink")，該頻道主要以配上[越南語發音而播放外購予亞洲各地所攝製的華語電視劇及電影](https://zh.wikipedia.org/wiki/越南語 "wikilink")。
 
 ## 外部連結

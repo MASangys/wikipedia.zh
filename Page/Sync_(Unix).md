@@ -1,3 +1,6 @@
+> 本文内容由[Sync \(Unix\)](https://zh.wikipedia.org/wiki/Sync_\(Unix\))转换而来。
+
+
 **sync**（意指Synchronize，即“同步”）为[UNIX](../Page/UNIX.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的标准[系统调用](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，功能为将[内核](../Page/内核.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")[缓冲区的所有数据](https://zh.wikipedia.org/wiki/缓冲区 "wikilink")（也即预定将通过低级[I/O系统调用](https://zh.wikipedia.org/wiki/I/O "wikilink")写入存储介质的数据）写入存储介质（如硬盘）。
 
 作为[C语言的函数之一](https://zh.wikipedia.org/wiki/C语言 "wikilink")，`sync()`一般以`void sync(void)`的形式在`unistd.h`内声明。该函数也可以从[命令行执行sync命令的方式调用](https://zh.wikipedia.org/wiki/命令行 "wikilink")，同时在其他程序语言（如[Perl](../Page/Perl.md "wikilink")）中也有名字与之相似的函数。

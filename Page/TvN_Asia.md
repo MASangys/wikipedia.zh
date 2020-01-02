@@ -1,3 +1,6 @@
+> 本文内容由[TvN Asia](https://zh.wikipedia.org/wiki/TvN_Asia)转换而来。
+
+
 tvN}}   **tvN Asia**原為tvN Southeast Asia及Channel M，針對[亞洲播放的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，由[Mnet媒體](../Page/Mnet媒體.md "wikilink")和[新闻集团旗下](../Page/新闻集团_\(1979－2013年\).md "wikilink")[星空传媒](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")（现时的[福斯國際電視網](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")）共同創辦，於2009年10月26日開播。该频道提供了各种各样的节目组合，从 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")，[Mnet](../Page/Mnet媒體.md "wikilink")，OtvN, Champ TV（动画频道），[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")，DIA TV，XtvN，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和 [OnStyle](../Page/OnStyle.md "wikilink")。
 
 ## 歷史
@@ -58,65 +61,64 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 </tr>
 <tr class="even">
 <td><p>星期三</p></td>
-<td><p>19:50 - 20:30</p></td>
-<td><p>X1 Flash</p></td>
-<td><p>8月28日起</p></td>
+<td><p>23:05 - 00:35</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/街头美食斗士_(第二季)" title="wikilink">白老师的道地美食攻略2</a></p></td>
+<td><p>10月10日起</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>23:05 - 00:35</p></td>
-<td><p><a href="../Page/高校供餐王.md" title="wikilink">高校供餐王</a></p></td>
-<td><p>7月24日起</p></td>
+<td><p>星期四</p></td>
+<td><p>23:05 - 00:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西伯利亚先遣队" title="wikilink">西伯利亚先遣队</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期四</p></td>
-<td><p>23:05 - 00:30</p></td>
-<td><p><a href="../Page/The_Call.md" title="wikilink">The Call 2</a></p></td>
-<td><p>8月1日起</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>星期五</p></td>
 <td><p>23:05 - 00:25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/守美的饭馔" title="wikilink">守美家秘笈：韩式饭饌</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>星期六</p></td>
 <td><p>21:05 - 22:50</p></td>
-<td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a>：山村篇</p></td>
-<td><p>8月17日起</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新西游记7" title="wikilink">新西游记7</a></p></td>
+<td><p>11月2日起</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22:50 - 00:20</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/工作见面的关系" title="wikilink">工作见面的关系</a></p></td>
 <td><p>8月31日起</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>星期一、二</p></td>
 <td><p>23:05 - 00:20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/武法律师" title="wikilink">武法律师</a></p></td>
-<td><p>9月16日起</p></td>
+<td><p><a href="../Page/火星生活_(韓國電視劇).md" title="wikilink">火星生活</a></p></td>
+<td><p>11月11日起</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>星期一</p></td>
+<td><p>19:15 - 20:30</p></td>
+<td><p><a href="../Page/我的大叔.md" title="wikilink">我的大叔</a></p></td>
+<td><p>11月25日起</p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>星期二、三</p></td>
 <td><p>21:50 - 23:05</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德鲁纳酒店" title="wikilink">德鲁纳酒店</a></p></td>
-<td><p>8月13日起</p></td>
+<td><p>11月26日起</p></td>
 <td><p><br />
 </p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>星期四、五</p></td>
-<td><p><a href="../Page/秘密森林.md" title="wikilink">秘密森林</a></p></td>
-<td><p>9月26日起</p></td>
+<td><p>11月21日起</p></td>
 <td><p><br />
 <br />
 <br />
@@ -126,10 +128,11 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <small>2</small><br />
 </p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/清日电子李小姐" title="wikilink">李小姐</a></p></td>
-<td><p>9月26日起，与韩国24小时内同日播出</p></td>
+<td><p><a href="../Page/精神病患者日記.md" title="wikilink">变态日记</a></p></td>
+<td><p>11月21日起，与韩国24小时内同日播出</p></td>
 <td><p><br />
 <br />
 <small>1</small></p></td>
@@ -139,8 +142,8 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <tr class="even">
 <td><p>星期二、三</p></td>
 <td><p>20:50 - 22:05(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伟大的Show" title="wikilink">伟大的Show</a></p></td>
-<td><p>8月27日起，与韩国24小时内同日播出</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Black_Dog_(电视剧)" title="wikilink">Black Dog</a></p></td>
+<td><p>12月17日起，与韩国24小时内同日播出</p></td>
 <td><p><small>1</small></p></td>
 </tr>
 </tbody>
@@ -393,7 +396,7 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <td><p>♤</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年926日 - 2019年</p></td>
+<td><p>2019年9月26日 - 2019年11月15日</p></td>
 <td><p>星期四、五 21:50</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/清日电子李小姐" title="wikilink">李小姐</a></p></td>
 <td><p>16</p></td>
@@ -401,242 +404,50 @@ tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wik
 <br />
 ♤</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年10月22日 - 2019年12月11日</p></td>
+<td><p>星期二、三20:50(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/抓住幽灵" title="wikilink">抓住幽灵</a></p></td>
+<td><p>16</p></td>
+<td><p>♤</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月21日 - 2020年1月日</p></td>
+<td><p>星期四、五 21:50</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/精神病患者日记" title="wikilink">变態日记</a></p></td>
+<td><p>16</p></td>
+<td><p><br />
+<br />
+♤</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月17日 - 2020年</p></td>
+<td><p>星期二、三20:50(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Black_Dog_(电视剧)" title="wikilink">Black Dog</a></p></td>
+<td><p>16</p></td>
+<td><p>♤</p></td>
+</tr>
 </tbody>
 </table>
 
-## tvN Asia韩剧巡礼2019
+## tvN Asia新劇搜羅2020
 
-  - 《[犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(韩国\) "wikilink")》
-  - 《[救救我](../Page/救救我.md "wikilink")》
-  - 《[卞赫的爱情](https://zh.wikipedia.org/wiki/卞赫的爱情 "wikilink")》
-  - 《[母亲](https://zh.wikipedia.org/wiki/Mother_\(韩国电视剧\) "wikilink")》
-  - 《[机智牢房生活](https://zh.wikipedia.org/wiki/机智牢房生活 "wikilink")》
-  - 《[我的大叔](../Page/我的大叔.md "wikilink")》
-  - 《[河伯的新娘 2017](../Page/河伯的新娘_2017.md "wikilink")》
-  - 《[今生是第一次](../Page/今生是第一次.md "wikilink")》
-  - 《[付岩洞复仇者们](https://zh.wikipedia.org/wiki/付岩洞复仇者们 "wikilink")》
-  - 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》
-  - 《[武法律師](../Page/武法律師.md "wikilink")》
-  - 《[Circle：相連的兩個世界](../Page/Circle：相連的兩個世界.md "wikilink")》
-
-## 節目
-
-  - 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》
-  - 《A magnificent zoo》
-  - 《K-POP 獵星行動2》
-  - 《Baek Jong-won's Street Food Fighter》
-  - 《韓星同樂會》
-  - 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》（中文頻道為：韓國流行音樂榜）
-  - 《M WIDE 娛樂速遞》
-  - 《[我愛李太利](../Page/我愛李太利.md "wikilink")》
-  - 《[INFINITE TV](../Page/INFINITE.md "wikilink")》
-  - 《Show K Music》
-  - 《K-Pop M》
-  - 《THE CEO》
-  - 《Scientists in South Korea》
-  - 《MBN Documentary Feature》
-  - 《Health Solutions》
-  - 《Gag Republic》
-  - 《Go Go with Mr. Paik》
-  - 《The Duet》
-  - 《Vampire Idol》
-  - 《泡菜粉絲俱樂部》
-  - 《[請回答1997](../Page/請回答1997.md "wikilink")》
-  - 《[請回答1988](../Page/請回答1988.md "wikilink")》
-  - 《[第三醫院](../Page/第三醫院.md "wikilink")》
-  - 《[After School Club](../Page/After_School_Club.md "wikilink")》
-  - 《》
-  - 《》
-  - 《Live every economic》
-  - 《News Plaza》
-  - 《[2AM昶旻生活煮意](https://zh.wikipedia.org/wiki/昶旻 "wikilink")》
-  - 《Enews龍虎榜》
-  - 《韓星旅遊團》
-  - 《[Taxi脫口秀](https://zh.wikipedia.org/wiki/Taxi脫口秀 "wikilink")》
-  - 《[Hip Hop 大比拼](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼 "wikilink")》
-  - 《Show K Music》
-  - 《Get It Beauty on the Road》
-  - 《Gag Republic》
-  - 《Showbiz Korea》
-  - 《The Duet》
-  - 《NEWS 1》
-  - 《MBN News》
-  - 《MBN News 8》
-  - 《MBN special broadcast》
-  - 《MBN Mt discussion》
-  - 《Suggest planning a Mac》
-  - 《Sports Station M》
-  - 《News today and tomorrow.》
-  - 《NEWS M》
-  - 《2012潮人榜》
-  - 《[Superstar K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》
-  - 《偶像戀愛兵團》
-  - 《Good Morning, MBN》
-  - 《MBN News Worldwide》
-  - 《Jeongungap intensive analysis of》
-  - 《Newsmaker horse\! End\! End\!》
-  - 《[M\! Countdown 亞州特別巡迴演出版](https://zh.wikipedia.org/wiki/M!_Countdown_亞州特別巡迴演出版 "wikilink")》
-  - 《雙星報喜》
-  - 《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》
-  - 《韓遊智囊》
-  - 《[Boyfriend TV](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")》
-  - 《瘋韓必修班》
-  - 《[鄰家花美男](../Page/鄰家花美男.md "wikilink")》
-  - 《[盛女浪漫日記](../Page/需要浪漫.md "wikilink")》
-  - 《[盛女浪漫日記2](../Page/需要浪漫2012.md "wikilink")》
-  - 《偶像戀愛兵團2》
-  - 《[新西遊記](../Page/新西遊記.md "wikilink")》
-  - 《Jjang》
-  - 《Pine》
-  - 《Chungmuro chattering》
-  - 《THE CEO》
-  - 《Scientists in South Korea》
-  - 《MBN Documentary Feature》
-  - 《[神的測驗](../Page/神的測驗.md "wikilink")》
-  - 《傻瓜3兄弟》
-  - 《[花美男拉麵店](../Page/花美男拉麵店.md "wikilink")》
-  - 《[戀愛操作團](../Page/戀愛操作團：大鼻子情聖.md "wikilink")》
-  - 《[週六夜現場 韓國版](https://zh.wikipedia.org/wiki/週六夜現場_韓國版 "wikilink")》
-  - 《》
-  - 《[吸血鬼檢察官](../Page/吸血鬼檢察官.md "wikilink")》
-  - 《Who Is Next (WIN)》
-  - 《[韓妝教室](https://zh.wikipedia.org/wiki/韓妝教室 "wikilink")》
-  - 《[結婚的策略](../Page/結婚的策略.md "wikilink")》
-  - 《[Who Are You](https://zh.wikipedia.org/wiki/Who_Are_You "wikilink")》
-  - 《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》
-  - 《[花樣姐姐](../Page/花樣姐姐.md "wikilink")》
-  - 《[花樣青春](../Page/花樣青春.md "wikilink")》
-  - 《[請回答1994](../Page/請回答1994.md "wikilink")》
-  - 《[急診男女](../Page/急診男女.md "wikilink")》
-  - 《韓食大賽》
-  - 《[吸血鬼檢察官](../Page/吸血鬼檢察官.md "wikilink")2》
-  - 《K-POP concert》
-  - 《Open the Star》
-  - 《Mom's challenges, hopes infancy in the Sahara》
-  - 《Documentary during the day》
-  - 《Variety young men and women at work meetings, and no hands\!》
-  - 《Max\! Aepeulrisyo 2》
-  - 《[花樣爺爺 – 西班牙篇](../Page/花樣爺爺.md "wikilink")》
-  - 《》
-  - 《[Dancing 9](../Page/Dancing_9.md "wikilink") 2》
-  - 《Into an era of hope in times of anger》
-  - 《Korea's economic Meets the Big Three》
-  - 《My office is more beautiful than your bar》
-  - 《Mother's Touch: Korean Side Dishes》
-  - 《[Thrifter's Guide to Luxurious Travels](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》
-  - 《[高校處世王](../Page/高校處世王.md "wikilink")》
-  - 《[This is INFINITE](../Page/INFINITE.md "wikilink")》
-  - 《[Jessica & Krystal](../Page/Jessica_&_Krystal.md "wikilink")》
-  - 《[花樣青春](../Page/花樣青春.md "wikilink")》
-  - 《Jeongungap intensive analysis of the leadership of South Korea》
-  - 《[九回時空旅行](../Page/Nine：九回時間旅行.md "wikilink")》
-  - 《》
-  - 《》
-  - 《TASTEmakers》
-  - 《[兩天一夜](../Page/兩天一夜.md "wikilink")》
-  - 《[有理的愛情](../Page/有理的愛情.md "wikilink")》
-  - 《[Monstar](../Page/Monstar.md "wikilink")》
-  - 《[壞傢伙們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》
-  - 《超級偶像排行榜》
-  - 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》
-  - 《[神的測驗](../Page/神的測驗.md "wikilink")3》
-  - 《[和姐姐Go Go](https://zh.wikipedia.org/wiki/河智苑#綜藝節目 "wikilink")》
-  - 《A beautiful story of millionaire》
-  - 《Blue House bapsang》
-  - 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》
-  - 《[一日三餐 漁村篇](../Page/一日三餐.md "wikilink")》
-  - 《韓食大賽3》
-  - 《K Style》（[Star World翻譯為](../Page/衛視合家歡台.md "wikilink")《韓妞瘋時尚》）
-  - 《[一起吃飯吧](../Page/一起吃飯吧.md "wikilink")》
-  - 《[一日三餐 農村篇](../Page/一日三餐.md "wikilink")》
-  - 《今天吃什麼？》
-  - 《I've Got You've come to the right.》
-  - 《Growing gisedeungdeung》
-  - 《Watcheueop|Musical Survival watcheueop》
-  - 《[拯救廚男](https://zh.wikipedia.org/wiki/拯救廚男 "wikilink")》
-  - 《好莱坞访问》
-  - 《巴黎希尔顿BFF》
-  - 《The City》
-  - 《》
-  - 《美體姊妹團》
-  - 《LIVE 4 U》
-  - 《Sweetheart in Your Ear》
-  - 《SBS MTV LIVE》
-  - 《SBS MTV首选杜德森》
-  - 《刺破》
-  - 《MTV The Hills》
-  - 《MTV首选》
-  - 《皮条客我的骑》
-  - 《有史以来最糟糕的日子》
-  - 《杰西卡·辛普森的》
-  - 《泽西海岸》
-  - 《Best Dance Crew》
-  - 《TOP 20》
-  - 《SBS MTV Hits》
-  - 《Fourin朋友日》
-  - 《SBS MTV Heroes》
-  - 《MATCH UP》
-  - 《MTV The M》
-  - 《MTV Movie》
-  - 《The Osbournes》
-  - 《MTV World Stage》
-  - 《The X Effect》
-  - 《MTV旗舰版》
-  - 《雪天堂》
-  - 《MTV The Stage》
-  - 《Girls On Top》
-  - 《MTV Class Up》
-  - 《MTV 24》
-  - 《Week in Rock》
-  - 《Classic MTV》
-  - 《MTV Unplugged》
-  - 《MTV US Top20》
-  - 《MTV另类国家》
-  - 《MTV Time Out》
-  - 《MTV House Of Style》
-  - 《MTV Most Wanted》
-  - 《MTV In Control》
-  - 《[MTV Party Zone](https://zh.wikipedia.org/wiki/MTV_Party_Zone "wikilink")》
-  - 《[盛女浪漫日記3](../Page/需要浪漫3.md "wikilink")》
-  - 《慢遊濟州》
-  - 《MTV Music Knowhow》
-  - 《MTV Korea hitlist
-  - 《MTV FreeStyle》
-  - 《》
-  - 《MTV Fresh》
-  - 《[Hip Hop 大比拼 4](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼_4 "wikilink")》
-  - 《小小足球會》
-  - 《[看見鬼的刑警處容](../Page/能看見鬼的警察處容.md "wikilink")》
-  - 《MTV Pulse》
-  - 《MTV James》
-  - 《MTV Grind》
-  - 《MTV Asia Hit List》
-  - 《Wake Up Call》
-  - 《HITS : Classic》
-  - 《FRESH : POP》
-  - 《Seoul At Home》
-  - 《FRESH : K-POP》
-  - 《Leaving the Nest》
-  - 《秘方》
-  - 《[Channel 少女時代](https://zh.wikipedia.org/wiki/Channel_少女時代 "wikilink")》
-  - 《School's Out》
-  - 《美體姊妹團2》
-  - 《[魔女的戀愛](../Page/魔女的戀愛.md "wikilink")》
-  - 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》
-  - 《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》
-  - 《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》
-  - 《惡魔時尚鬥》（原名：Devil's Runway）
-  - 《[特殊失蹤專案組M](../Page/失蹤的黑色M.md "wikilink")》
-  - 《[CHANNEL AOA](https://zh.wikipedia.org/wiki/CHANNEL_AOA "wikilink")》
-  - 《SBS MTV the SHOW》
-  - 《SBS MTV Live The Script》
-  - 《SBS MTV Hits The Script》
-  - 《[一起吃飯吧2](../Page/一起吃飯吧2.md "wikilink")》
-  - 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》\<\!--
-  - 《》
-  - 《》
-  - 《》
-  - 《》--\>
+  - 《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》 （曾經於新加坡和馬來西亞播出）
+  - 《[壞傢伙們：惡的都市](../Page/壞傢伙們：惡的都市.md "wikilink")》
+  - 《[金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")》
+  - 《[Mistresses](../Page/Mistresses.md "wikilink")》
+  - 《[机智牢房生活](https://zh.wikipedia.org/wiki/机智牢房生活 "wikilink")》 （尚未播出）
+  - 《[Voice2](../Page/Voice2.md "wikilink")》
+  - 《[認識的妻子](../Page/認識的妻子.md "wikilink")》
+  - 《[從天而降的一億顆星](../Page/從天而降的一億顆星.md "wikilink")》
+  - 《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》
+  - 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》 （尚未播出）
+  - 《[內向的老闆](../Page/內向的老闆.md "wikilink")》
+  - 《[一起吃飯吧3：Begins](../Page/一起吃飯吧3：Begins.md "wikilink")》
+  - 《[致忘了詩的你](../Page/致忘了詩的你.md "wikilink")》
+  - 《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》
+  - 《[想暫停的瞬間：About Time](https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time "wikilink")》
+  - 《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》
 
 ## 相關公司
 

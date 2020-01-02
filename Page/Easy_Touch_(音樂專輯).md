@@ -1,3 +1,6 @@
+> 本文内容由[Easy Touch \(音樂專輯\)](https://zh.wikipedia.org/wiki/Easy_Touch_\(音樂專輯\))转换而来。
+
+
 **Easy Touch**是由Mary Wells於51 West Records上發佈的一個翻唱音樂專輯。這個專輯中包括[Frankie Lymon](https://zh.wikipedia.org/wiki/Frankie_Lymon "wikilink") 、[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink") 、[Melissa Manchester](https://zh.wikipedia.org/wiki/Melissa_Manchester "wikilink") 、 [木匠兄妹合唱團](https://zh.wikipedia.org/wiki/木匠兄妹合唱團 "wikilink") 和[唐娜·桑默](../Page/唐娜·桑默.md "wikilink") 等。
 
 ## 專輯歌曲

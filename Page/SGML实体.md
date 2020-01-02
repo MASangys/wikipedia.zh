@@ -1,3 +1,6 @@
+> 本文内容由[SGML实体](https://zh.wikipedia.org/wiki/SGML实体)转换而来。
+
+
 在 [标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink") 里, 一个 **实体** 是一个[原始数据类型](https://zh.wikipedia.org/wiki/原始数据类型 "wikilink")
 
 ## 实体类型

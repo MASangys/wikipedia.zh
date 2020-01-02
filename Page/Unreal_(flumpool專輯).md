@@ -1,3 +1,6 @@
+> 本文内容由[Unreal \(flumpool專輯\)](https://zh.wikipedia.org/wiki/Unreal_\(flumpool專輯\))转换而来。
+
+
 《**Unreal**》是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")1張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。2008年11月19日發售。
 
 ## 收錄曲

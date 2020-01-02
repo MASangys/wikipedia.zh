@@ -1,3 +1,6 @@
+> 本文内容由[MEGA Plus](https://zh.wikipedia.org/wiki/MEGA_Plus)转换而来。
+
+
 [MEGA_Plus.jpg](https://zh.wikipedia.org/wiki/File:MEGA_Plus.jpg "fig:MEGA_Plus.jpg") **MEGA Plus**為[新意網](../Page/新意網.md "wikilink")旗下位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")第85區[環保大道](../Page/環保大道.md "wikilink")299號一幅1.03[公頃的土地上高端](https://zh.wikipedia.org/wiki/公頃 "wikilink")[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，樓面面積逾47萬平方呎，高度限制在主水平基準以上60米，於2017年落成。
 
 ## 沿革

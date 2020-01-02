@@ -1,3 +1,6 @@
+> 本文内容由[KEIJI](https://zh.wikipedia.org/wiki/KEIJI)转换而来。
+
+
 **KEIJI**（）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE THE SECOND的表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
 [宮崎縣](../Page/宮崎縣.md "wikilink")[宮崎郡](../Page/宮崎郡.md "wikilink")[清武町](../Page/清武町.md "wikilink")（今[宮崎市](../Page/宮崎市.md "wikilink")）出身。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。 2014年7月，藝名從KEIJI改為本名的黑木啓司。

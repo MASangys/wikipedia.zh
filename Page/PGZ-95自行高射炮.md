@@ -1,3 +1,6 @@
+> 本文内容由[PGZ-95自行高射炮](https://zh.wikipedia.org/wiki/PGZ-95自行高射炮)转换而来。
+
+
 **PGZ-95自行高射炮**是[中華人民共和國自製之炮彈合一自走防空履帶裝甲車](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，系統由[陜西省西北机电工程研究所研究設計開發](https://zh.wikipedia.org/wiki/陜西省 "wikilink")。
 
 [1990年代](../Page/1990年代.md "wikilink")末期交付[中國人民解放軍陸軍](https://zh.wikipedia.org/wiki/中國人民解放軍陸軍 "wikilink")，目前已停產，其角色由[PGZ-09自行高射炮](../Page/PGZ-09自行高射炮.md "wikilink")接替。

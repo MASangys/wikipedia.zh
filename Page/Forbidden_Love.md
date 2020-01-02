@@ -1,3 +1,6 @@
+> 本文内容由[Forbidden Love](https://zh.wikipedia.org/wiki/Forbidden_Love)转换而来。
+
+
 「**Forbidden Love**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第2張日語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年2月29日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

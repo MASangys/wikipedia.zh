@@ -1,3 +1,6 @@
+> 本文内容由[Rock Fujiyama](https://zh.wikipedia.org/wiki/Rock_Fujiyama)转换而来。
+
+
 **Rock Fujiyama**（）是[日本](../Page/日本.md "wikilink")的一档[音乐](../Page/音乐.md "wikilink")类电视节目，在2006年4月3日至2007年3月26日之间播出于[东京电视台](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")。这档节目本质上是播出于2005年的电视节目"Mr. Heavy Metal"的重制。它的主要风格为[重金属音乐](../Page/重金属音乐.md "wikilink")，就像"Mr. Heavy Metal"。
 
 ## 各期嘉宾

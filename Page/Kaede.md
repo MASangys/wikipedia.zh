@@ -1,3 +1,6 @@
+> 本文内容由[Kaede](https://zh.wikipedia.org/wiki/Kaede)转换而来。
+
+
 **Kaede**，一种，起源于自然状态的[石珊瑚目](../Page/石珊瑚目.md "wikilink")的[蜿蜒曲紋珊瑚](https://zh.wikipedia.org/wiki/蜿蜒曲紋珊瑚 "wikilink")（Trachyphyllia geoffroyi）。Kaede 在日语中意为枫叶。当被[紫外光辐照](https://zh.wikipedia.org/wiki/紫外光 "wikilink")（350-400nm）时，kaede会有从[绿色荧光到红色荧光的不可逆光转换](https://zh.wikipedia.org/wiki/绿色荧光 "wikilink")。它是116 kDa 的人[四聚物](https://zh.wikipedia.org/wiki/四聚物 "wikilink")[蛋白质](../Page/蛋白质.md "wikilink")。据推断作为其主要结构的四聚物结构仅28 kDa。这种四聚体化可能导致kaede结合到其他蛋白质时形成[聚合物](../Page/聚合物.md "wikilink")的可能性较低。
 
 ## 发现

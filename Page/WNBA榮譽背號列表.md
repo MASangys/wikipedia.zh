@@ -1,3 +1,6 @@
+> 本文内容由[WNBA榮譽背號列表](https://zh.wikipedia.org/wiki/WNBA榮譽背號列表)转换而来。
+
+
 表示敬意了的对[國家女子籃球聯盟](https://zh.wikipedia.org/wiki/國家女子籃球聯盟 "wikilink")(WNBA)贡献者
 
 ## 列表

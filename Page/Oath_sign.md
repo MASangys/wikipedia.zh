@@ -1,3 +1,6 @@
+> 本文内容由[Oath sign](https://zh.wikipedia.org/wiki/Oath_sign)转换而来。
+
+
 《**oath sign**》是[LiSA](../Page/LiSA.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2011年11月23日由[Aniplex](../Page/Aniplex.md "wikilink")發售。
 
 ## 概要

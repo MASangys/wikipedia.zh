@@ -1,3 +1,6 @@
+> 本文内容由[Superparticular數](https://zh.wikipedia.org/wiki/Superparticular數)转换而来。
+
+
 **Superparticular數**是以下形式的[有理數](https://zh.wikipedia.org/wiki/有理數 "wikilink")：
 
 \[{n + 1 \over n} = 1 + {1 \over n}\]

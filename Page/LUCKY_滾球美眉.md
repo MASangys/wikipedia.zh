@@ -1,3 +1,6 @@
+> 本文内容由[LUCKY 滾球美眉](https://zh.wikipedia.org/wiki/LUCKY_滾球美眉)转换而来。
+
+
 《**LUCKY 滾球美眉**》（）是[みそおでん的日本](https://zh.wikipedia.org/wiki/みそおでん "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品，以保齡球為主題。於芳文社的《月刊Manga Time Kirara MAX》2009年10月號起連載至2012年3月號\[1\]\[2\]。中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發行。
 
 ## 故事簡介

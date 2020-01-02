@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D04\)](https://zh.wikipedia.org/wiki/ATC代码_\(D04\))转换而来。
+
+
 ## D04A [止痒药](https://zh.wikipedia.org/wiki/止痒药 "wikilink")，含[抗组胺药](https://zh.wikipedia.org/wiki/抗组胺药 "wikilink")、[麻醉药等](https://zh.wikipedia.org/wiki/麻醉药 "wikilink")（Antipruritics, including antihistamines, anesthetics, etc.）
 
 ### D04AA 局部用抗组胺药（Antihistamines for topical use）

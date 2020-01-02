@@ -1,3 +1,6 @@
+> 本文内容由[OFF THE LOCK](https://zh.wikipedia.org/wiki/OFF_THE_LOCK)转换而来。
+
+
 《**OFF THE LOCK**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第二张录音室专辑。1989年5月21日由[BMG VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 最終銷量約60.8萬張。

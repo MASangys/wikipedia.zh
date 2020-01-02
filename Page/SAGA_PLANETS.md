@@ -1,3 +1,6 @@
+> 本文内容由[SAGA PLANETS](https://zh.wikipedia.org/wiki/SAGA_PLANETS)转换而来。
+
+
 **SAGA PLANETS**（）是日本[Visual Art's公司旗下的遊戲品牌之一](../Page/Visual_Art's.md "wikilink")，主要開發販售[成人遊戲](../Page/日本成人遊戲.md "wikilink")。公司作品以幻想系作品居多，初期也有凌辱系的作品，不过《》之后就停止開發販售凌辱系的作品，現在是以純愛系作品為主。
 
 ## 作品一览

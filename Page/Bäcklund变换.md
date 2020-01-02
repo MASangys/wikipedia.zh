@@ -1,3 +1,6 @@
+> 本文内容由[Bäcklund变换](https://zh.wikipedia.org/wiki/Bäcklund变换)转换而来。
+
+
 **Bäcklund变换**是两个非线性偏微分方程之间的一对变换关系\[1\]
 
 偏微分方程1：\(F_1(u,x,t,u_x,u_t,u_xx,u_tt,u_xt,u_tt)=0\)

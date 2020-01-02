@@ -1,3 +1,6 @@
+> 本文内容由[At home](https://zh.wikipedia.org/wiki/At_home)转换而来。
+
+
 《**at home**》為[日本](../Page/日本.md "wikilink")歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2007年2月21日發行的第12張單曲（含RUI名義）。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[仙女座R](https://zh.wikipedia.org/wiki/仙女座R)转换而来。
+
+
 **仙女座R**，又名**BD+37 58**，**HD 1967**、**SAO 53860**、**HR 90**，是[仙女座](../Page/仙女座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为7.39，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")117.07，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-23.98，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

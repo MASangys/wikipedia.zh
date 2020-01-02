@@ -1,3 +1,6 @@
+> 本文内容由[ShKAS機槍](https://zh.wikipedia.org/wiki/ShKAS機槍)转换而来。
+
+
 [ShKAS_tourelle.jpg](https://zh.wikipedia.org/wiki/File:ShKAS_tourelle.jpg "fig:ShKAS_tourelle.jpg")
 
 **ShKAS機槍**（俄文：ШКАС）是在1930年代由[蘇聯研製的一種空用機槍](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，口徑是7.62毫米，可被分成作為機翼和機頭的固定型（有射擊同步器）以及由機槍手操作的活動型，但由於此種口徑發射的子彈對有裝甲保護的戰鬥機和轟炸機的破壞力不足，故在[德蘇戰爭後已被更大口徑的機槍和機炮取代](https://zh.wikipedia.org/wiki/德蘇戰爭 "wikilink")。

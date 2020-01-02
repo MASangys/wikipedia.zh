@@ -1,3 +1,6 @@
+> 本文内容由[Sublime Text](https://zh.wikipedia.org/wiki/Sublime_Text)转换而来。
+
+
 **Sublime Text**是一套[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[文字編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")，支持基於[Python](../Page/Python.md "wikilink")的外掛程式。Sublime Text是[專有軟體](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")，可透過套件（Package）擴充功能。大多數的套件使用自由軟體授權釋出，並由社群建置維護。
 
 ## 程式特色

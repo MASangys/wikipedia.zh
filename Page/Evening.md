@@ -1,3 +1,6 @@
+> 本文内容由[Evening](https://zh.wikipedia.org/wiki/Evening)转换而来。
+
+
 《**Evening**》（イブニング）是[日本](../Page/日本.md "wikilink")[講談社發行的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，2001年創刊。
 
 ## 連載中作品

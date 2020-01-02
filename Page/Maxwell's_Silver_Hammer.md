@@ -1,3 +1,6 @@
+> 本文内容由[Maxwell\'s Silver Hammer](https://zh.wikipedia.org/wiki/Maxwell\'s_Silver_Hammer)转换而来。
+
+
 《**Maxwell's Silver Hammer**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[保羅·麥卡尼創作](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")、收錄於專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》的1969年歌曲。（作品上是以藍儂-麥卡尼「Lennon–McCartney」的名義發表）
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[ENCODE](https://zh.wikipedia.org/wiki/ENCODE)转换而来。
+
+
 **DNA元件百科全书**（，简称为**ENCODE**项目）是一个由[美国](../Page/美国.md "wikilink")(NHGRI)在2003年9月发起的一项公共联合研究项目\[1\]，旨在找出[人类基因组中所有功能组件](https://zh.wikipedia.org/wiki/人类基因组 "wikilink")\[2\]\[3\]\[4\]\[5\]。
 
 这是既完成[人类基因组计划](../Page/人类基因组计划.md "wikilink")后国家人类基因组研究所开始的最重要的项目之一。

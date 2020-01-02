@@ -1,3 +1,6 @@
+> 本文内容由[Red Entertainment](https://zh.wikipedia.org/wiki/Red_Entertainment)转换而来。
+
+
 **Red Entertainment Corporation**（）是日本一家[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")。1976年成立时名为（1985年才开始营业），2000年12月4日以Red Entertainment为公司名称重组。上世纪80年代中期，Red Company成为上市公司。该公司第一次使用Red Entertainment商标是在2002年7月17日发行的《[Gungrave](https://zh.wikipedia.org/wiki/Gungrave "wikilink")》上。
 
 ## 主要游戏作品

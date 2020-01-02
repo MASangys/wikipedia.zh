@@ -1,3 +1,6 @@
+> 本文内容由[⑬Colorful Character](https://zh.wikipedia.org/wiki/⑬Colorful_Character)转换而来。
+
+
 《**⑬Colorful Character**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第13枚原創專輯。於2012年9月12日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

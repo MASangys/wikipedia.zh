@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N01\)](https://zh.wikipedia.org/wiki/ATC代码_\(N01\))转换而来。
+
+
 ## N01A 全身麻醉药（Anesthetics, general）
 
 ### N01AA [醚](../Page/醚.md "wikilink")类（Ethers）

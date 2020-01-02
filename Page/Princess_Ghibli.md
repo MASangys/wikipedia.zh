@@ -1,3 +1,6 @@
+> 本文内容由[Princess Ghibli](https://zh.wikipedia.org/wiki/Princess_Ghibli)转换而来。
+
+
 《**Princess Ghibli**》是一張於2011年發行、以[金屬音樂風格來翻唱](https://zh.wikipedia.org/wiki/金屬音樂 "wikilink")[吉卜力工作室相關動畫作品歌曲的翻唱專輯](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")。\[1\]
 
 ## 概要
@@ -192,12 +195,9 @@ Yoko Hallelujah</p></td>
 [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:致敬專輯](https://zh.wikipedia.org/wiki/Category:致敬專輯 "wikilink") [Category:吉卜力工作室](https://zh.wikipedia.org/wiki/Category:吉卜力工作室 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.

@@ -1,3 +1,6 @@
+> 本文内容由[Getting There](https://zh.wikipedia.org/wiki/Getting_There)转换而来。
+
+
 《**Getting There**》是[何偉圖的第一張大碟](https://zh.wikipedia.org/wiki/何偉圖 "wikilink")；而此專輯本來預定於2012年8月推出，最後延至11月12日推出\[1\]；碟中收錄已在互聯網發布並由他創作的《後備情人》（出版時改稱《＜未命名＞》）、《幸福太遠》歌曲\[2\]。
 
 ## 曲目

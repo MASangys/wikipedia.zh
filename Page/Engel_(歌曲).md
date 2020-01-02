@@ -1,3 +1,6 @@
+> 本文内容由[Engel \(歌曲\)](https://zh.wikipedia.org/wiki/Engel_\(歌曲\))转换而来。
+
+
 "**Engel**"（德译：天使）是[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，是专辑[Sehnsucht中第一首发布的歌曲](https://zh.wikipedia.org/wiki/Sehnsucht "wikilink")。
 
 ## 录制

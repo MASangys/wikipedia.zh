@@ -1,3 +1,6 @@
+> 本文内容由[GREEN \(B\'z專輯\)](https://zh.wikipedia.org/wiki/GREEN_\(B\'z專輯\))转换而来。
+
+
 《**GREEN**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十二张录音室专辑。2002年7月3日由[VERMILLION RECORDS发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約113.1萬張，為日本最暢銷專輯第232名。

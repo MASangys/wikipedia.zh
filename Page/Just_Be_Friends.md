@@ -1,3 +1,6 @@
+> 本文内容由[Just Be Friends](https://zh.wikipedia.org/wiki/Just_Be_Friends)转换而来。
+
+
 《**Just Be Friends**》有時又會被簡稱為「**JBF**」，是一首由[Dixie Flatline負責作曲與作詞](https://zh.wikipedia.org/wiki/Dixie_Flatline "wikilink")、[Yunomi-P](https://zh.wikipedia.org/wiki/Yunomi-P "wikilink")（）負責插畫和動畫製作的[VOCALOID2歌曲](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")\[1\]\[2\]。歌曲聲音來源取自VOCALOID音樂軟體[巡音流歌](../Page/巡音流歌.md "wikilink")而成，並於2009年7月4日發表在[影音彈幕網站](https://zh.wikipedia.org/wiki/影音彈幕網站 "wikilink")[NICONICO動畫上](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。《Just Be Friends》可以說是以巡音流歌為名義所創作的著名歌曲之一，同時在[網際網路或者其他媒體亦有出現不同的版本或者](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
 ## 內容

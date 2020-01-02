@@ -1,3 +1,6 @@
+> 本文内容由[Picaru的定理](https://zh.wikipedia.org/wiki/Picaru的定理)转换而来。
+
+
 《**Picaru的定理**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），日本[富士電視台](../Page/富士電視台.md "wikilink")的綜藝節目，2010年10月19日開始播放，2013年9月4日结束播放。節目名稱「Picaru的定理」與現實中存在的數學定理[皮卡（Picard）定理並無關係](../Page/皮卡定理.md "wikilink")。
 
 ## 概要

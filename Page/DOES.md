@@ -1,3 +1,6 @@
+> 本文内容由[DOES](https://zh.wikipedia.org/wiki/DOES)转换而来。
+
+
 **DOES**（），日本三人摇滚乐队，2000年于日本[福岡组成](https://zh.wikipedia.org/wiki/福岡 "wikilink")。2006年9月签约[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下唱片厂牌Ki/oon Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将无限期停止活动。\[2\]
 
 ## 成员

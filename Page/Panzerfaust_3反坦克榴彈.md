@@ -1,3 +1,6 @@
+> 本文内容由[Panzerfaust 3反坦克榴彈](https://zh.wikipedia.org/wiki/Panzerfaust_3反坦克榴彈)转换而来。
+
+
 **Panzerfaust 3**（，意為：裝甲拳／鐵拳，簡稱：PzF；又稱：鐵拳3或鐵拳3式）是一款由[德国](../Page/德国.md "wikilink")-{[狄那米特—諾貝爾炸藥公司](https://zh.wikipedia.org/wiki/狄那米特—諾貝爾炸藥公司 "wikilink")}-在1978年6月至1985年研制和生產、1992年投入[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")服役的現代化的一次性型[無後座](../Page/无后座力炮.md "wikilink")[火箭筒](../Page/火箭弹发射器.md "wikilink")，發射110毫米[火箭](https://zh.wikipedia.org/wiki/火箭弹 "wikilink")[彈頭](../Page/彈頭.md "wikilink")。
 
 1973年，PzF獲第一次發出的招標，以向西德[步兵](../Page/步兵.md "wikilink")發配一種有效對付當代[苏联](../Page/苏联.md "wikilink")裝甲部隊的[武器](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，從而取代已經屬於舊型號的[PzF 44 Lanze火箭發射器](../Page/鐵拳44火箭筒.md "wikilink")。

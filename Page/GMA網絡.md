@@ -1,3 +1,6 @@
+> 本文内容由[GMA網絡](https://zh.wikipedia.org/wiki/GMA網絡)转换而来。
+
+
 **GMA電視網**〈[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****〉是[菲律賓最大的商營電視網](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")。GMA電視網是GMA Network, Inc.附屬公司。它在1961年10月29日開播，GMA電視網(前身為DZBB-TV，RBS-TV，GMA Radio Television Arts 和 GMA Rainbow Satellite)通常以該標誌的外形稱呼為“愛心台”。它也被稱為“基督教台”，它指的是在新的管理任期，於1974年接管了明顯的編程。這是總部設在奎松市的GMA電視網中心，它的發射器也位於Tandang Sora Avenue，\[1\] [Gmajfaa.JPG](https://zh.wikipedia.org/wiki/File:Gmajfaa.JPG "fig:Gmajfaa.JPG")
 
 ## 頻道

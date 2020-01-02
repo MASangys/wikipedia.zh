@@ -1,3 +1,6 @@
+> 本文内容由[Key開發遊戲列表](https://zh.wikipedia.org/wiki/Key開發遊戲列表)转换而来。
+
+
 [Key_10th_Memorial_Box.jpg](https://zh.wikipedia.org/wiki/File:Key_10th_Memorial_Box.jpg "fig:Key_10th_Memorial_Box.jpg")所推出的「KEY 10th MEMORIAL BOX」紀念盒裝，封面整理了1999年至2009年期間所推出的視覺小說之宣傳封面。\]\]
 
 **[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")**是日本[Visual Art's旗下的](../Page/Visual_Art's.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[遊戲工作室暨出版](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[品牌](../Page/品牌.md "wikilink")，其開發的視覺小說遊戲大多先通過Visual Art's在[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[個人電腦發行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，之後再由[Interchannel](../Page/Interchannel.md "wikilink")和Prototype[移植到其他電子遊戲平台](https://zh.wikipedia.org/wiki/移植 "wikilink")。而在日本以外的海外地區，Key並沒有與其他廠商進行合作來發行自家的遊戲作品。Key最早在1999年發布了第一款遊戲《[Kanon](../Page/Kanon.md "wikilink")》\[1\]\[2\]，之後於2000年發布第二款作品《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》\[3\]\[4\]，其中這2部作品最早都是作為[成人遊戲推出](../Page/日本成人遊戲.md "wikilink")\[5\]\[6\]。不過在2004年所推出的遊戲《[CLANNAD](../Page/CLANNAD.md "wikilink")》，則是在一開始便將[遊戲分級定為任何人都能夠遊玩](https://zh.wikipedia.org/wiki/電子遊戲分級系統 "wikilink")\[7\]\[8\]。2004年時Key推出的《[星之夢](../Page/星之夢.md "wikilink")》同樣是一款適合各個年齡層遊玩的遊戲，同時開發團隊則將遊戲內容歸類為擁有直線劇情的KineticNovel（）\[9\]\[10\]。

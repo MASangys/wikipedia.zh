@@ -1,3 +1,6 @@
+> 本文内容由[Fantasia of Life Stripe](https://zh.wikipedia.org/wiki/Fantasia_of_Life_Stripe)转换而来。
+
+
 『**Fantasia of Life Stripe**』是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2011年1月26日發售。
 
 ## 收錄曲

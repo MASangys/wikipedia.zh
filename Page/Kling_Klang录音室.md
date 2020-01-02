@@ -1,3 +1,6 @@
+> 本文内容由[Kling Klang录音室](https://zh.wikipedia.org/wiki/Kling_Klang录音室)转换而来。
+
+
 [Studio_Kling_Klang.jpg](https://zh.wikipedia.org/wiki/File:Studio_Kling_Klang.jpg "fig:Studio_Kling_Klang.jpg")的Kling Klang录音工作室原址\]\]
 
 **Kling Klang**（亦写作**Klingklang**，德语中描述金属碰撞声的拟声词）是[Kraftwerk乐队的私人](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")[录音室](https://zh.wikipedia.org/wiki/录音室 "wikilink")，名字取自[Kraftwerk专辑](https://zh.wikipedia.org/wiki/Kraftwerk "wikilink")《》第一首曲子的曲名。

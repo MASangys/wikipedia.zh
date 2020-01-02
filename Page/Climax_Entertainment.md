@@ -1,3 +1,6 @@
+> 本文内容由[Climax Entertainment](https://zh.wikipedia.org/wiki/Climax_Entertainment)转换而来。
+
+
 **Climax Entertainment**（）是日本的一家[电子游戏开发公司](https://zh.wikipedia.org/wiki/电子游戏开发公司 "wikilink")。此外负责某些广播节目的制作规划。Climax在[16位时代主要为](https://zh.wikipedia.org/wiki/16位时代 "wikilink")[Mega Drive平台开发游戏](../Page/Mega_Drive.md "wikilink")。在[32位时代](https://zh.wikipedia.org/wiki/32位时代 "wikilink"), 团队的某些成员离开并创建了[Matrix Software](../Page/Matrix_Software.md "wikilink")。\[1\]
 
 ## 简介

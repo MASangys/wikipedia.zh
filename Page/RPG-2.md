@@ -1,3 +1,6 @@
+> 本文内容由[RPG-2](https://zh.wikipedia.org/wiki/RPG-2)转换而来。
+
+
 **RPG-2**（РПГ-2）是一種由[蘇聯研製及大規模生產的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")，它亦是史上第一種便攜式[無後坐力炮](https://zh.wikipedia.org/wiki/無後坐力炮 "wikilink")。\[1\]
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C02\)](https://zh.wikipedia.org/wiki/ATC代码_\(C02\))转换而来。
+
+
 ## C02A 起中心作用的[抗肾上腺素能药](https://zh.wikipedia.org/wiki/抗肾上腺素 "wikilink")（Antiadrenergic agents, centrally acting）
 
 ### C02AA [蛇根木](../Page/蛇根木.md "wikilink")[生物碱类](https://zh.wikipedia.org/wiki/生物碱 "wikilink")（Rauwolfia alkaloids）

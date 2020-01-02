@@ -1,3 +1,6 @@
+> 本文内容由[VFTS 102](https://zh.wikipedia.org/wiki/VFTS_102)转换而来。
+
+
 [VFTS_102.jpg](https://zh.wikipedia.org/wiki/File:VFTS_102.jpg "fig:VFTS_102.jpg") **VFTS 102**是一顆位於[大麥哲倫星系內恆星形成區域](https://zh.wikipedia.org/wiki/大麥哲倫星系 "wikilink")[蜘蛛星雲中的恆星](https://zh.wikipedia.org/wiki/蜘蛛星雲 "wikilink")。
 
 ## 恆星性質

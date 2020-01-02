@@ -1,3 +1,6 @@
+> 本文内容由[Kis-My-Ft再次相逢de Show vol.3 at 國立代代木第一體育館 2011.2.12](https://zh.wikipedia.org/wiki/Kis-My-Ft再次相逢de_Show_vol.3_at_國立代代木第一體育館_2011.2.12)转换而来。
+
+
 『**Kis-My-Ft再次相逢de Show vol.3 at 国立代代木第一体育館 2011.2.12**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")1張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

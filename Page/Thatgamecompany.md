@@ -1,8 +1,13 @@
+> 本文内容由[Thatgamecompany](https://zh.wikipedia.org/wiki/Thatgamecompany)转换而来。
+
+
 **thatgamecompany**是一家美国的[独立](../Page/独立游戏.md "wikilink")[游戏开发工作室](../Page/游戏开发者.md "wikilink")。由[南加州大学](../Page/南加州大学.md "wikilink")的学生[凯莉·圣迪亚戈](../Page/凯莉·圣迪亚戈.md "wikilink")和[陈星汉](../Page/陈星汉.md "wikilink")联合创立。该工作室之前主要为[索尼电脑娱乐开发](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation 3在](../Page/PlayStation_3.md "wikilink")[PlayStation Network上的下载游戏](../Page/PlayStation_Network.md "wikilink")；现在已获得了独立投资。
 
 thatgamecompany专注于开发能让游戏玩家产生情绪放映的电子游戏。工作室在企划一部游戏之前都会去设想他们将会给玩家带来怎么样的感受，而不是像大型游戏厂商的流水线生产一款游戏。他们认为现在的游戏产业推出了太多工业化的缺乏与玩家产生情感的电子游戏，尽管他们并不排斥这种类别。工作室至今还没有制作“游戏大作”或“游戏巨制”的计划，因为他们认为高销量的压力会扼杀创意。
 
 thatgamecompany的第一部作品是陈星汉学生时期的获奖作品——Flash游戏《[流](https://zh.wikipedia.org/wiki/流_\(游戏\) "wikilink")》的重制版；新版加强了视听的感受，添加了[多人游戏模式并且支持PS](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")3的体感操作。本作于2007年在[PlayStation在线商店发售](../Page/PlayStation_Store.md "wikilink")。工作室的第二部作品《[花](../Page/花_\(游戏\).md "wikilink")》于2009年在PlayStation在线商店发售。他们的第三部作品《[旅途](https://zh.wikipedia.org/wiki/旅途 "wikilink")》于2012年在PlayStation在线商店发售。
+
+目前tgc的最新作品是[Sky:Children of the Light](../Page/Sky光·遇.md "wikilink")。
 
 ## 公司历史
 
@@ -25,6 +30,8 @@ thatgamecompany最新的作品也是它与索尼合约中最后一款作品是�
 2014年5月27日，thatgamecompay宣布获得了由今日资本领衔的700万美元的投资。\[38\]
 
 2016年11月1日，thatgamecompany正式公布代号“that next game”的新作，并确定游戏主题为给予，预计登陆多平台。\[39\]\[40\]
+
+2019年7月18日，iOS平台开启[Sky光遇的全平台公测](../Page/Sky光·遇.md "wikilink")。
 
 ## 游戏制作哲学
 
@@ -83,6 +90,10 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 </tbody>
 </table>
 
+## 彩蛋
+
+在tgc的游戏[Sky:Children of the Light里有一个关于tgc工作室的彩蛋](../Page/Sky光·遇.md "wikilink")。
+
 ## 参考资料
 
   - [【GADIOPRO VOL.42】专访陈星汉 I （游戏之路）-Jenova Chen Interview](http://www.g-cores.com/read.php?tid=10878). 机核网Gadio. 2011-08-31
@@ -98,83 +109,48 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 [Category:位于洛杉矶的公司](https://zh.wikipedia.org/wiki/Category:位于洛杉矶的公司 "wikilink") [Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:Thatgamecompany](https://zh.wikipedia.org/wiki/Category:Thatgamecompany "wikilink") [Category:2006年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2006年加利福尼亞州建立 "wikilink")
 
 1.
-
 2.  TED|TED (conference){{\!}}TED\]\] |publisher=Sapling Foundation |accessdate=2011-03-10 |date=2010-10-08 |archiveurl=<https://web.archive.org/web/20101020203513/http://blog.ted.com/2010/10/08/fellows-friday-with-kellee-santiago/> |archivedate=2010-10-20 |deadurl=no }}
-
 3.
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
 11.
 12.
-
 13.
 14. [2008 11th Interactive Achievement Awards](http://www.interactive.org/awards/2008_11th_awards.asp)Academy of Interactive Arts & Sciences
-
 15. Variety|Variety (magazine){{\!}}Variety\]\] |accessdate=2011-01-06 |date=2008-05-02 |archiveurl=<https://www.webcitation.org/5xAXDEDGe?url=http://www.variety.com/article/VR1117985047?refCatId=3046> |archivedate=2011-03-14 |deadurl=no }}
-
 16.
-
 17.
-
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
 24.
-
 25.
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39. [Journey and Flower studio thatgamecompany teases its next title](http://www.eurogamer.net/articles/2016-11-01-journey-and-flower-studio-thatgamecompany-teases-its-next-title).Eurogamer.2016-11-01.\[2016-11-02\].
-
 40. [多人，多平台！陈星汉工作室新作设定图公开](http://www.g-cores.com/articles/21290) .机核网.2016-11-02.\[2016-11-02\].
-
 41.
-
 42.
-
 43.
-
 44.
-
 45.
 46.

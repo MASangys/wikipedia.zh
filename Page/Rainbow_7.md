@@ -1,3 +1,6 @@
+> 本文内容由[Rainbow 7](https://zh.wikipedia.org/wiki/Rainbow_7)转换而来。
+
+
 「**Rainbow 7**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第7枚原創專輯。於2006年2月15日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

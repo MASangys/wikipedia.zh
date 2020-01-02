@@ -1,3 +1,6 @@
+> 本文内容由[Spending all my time](https://zh.wikipedia.org/wiki/Spending_all_my_time)转换而来。
+
+
 《**Spending all my time**》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](../Page/Perfume_\(日本音樂團體\).md "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。單曲於2012年8月15日發行。唱片公司為[Perfume Records / UNIVERSAL J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 
 ## 介绍

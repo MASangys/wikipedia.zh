@@ -1,3 +1,6 @@
+> 本文内容由[MATE](https://zh.wikipedia.org/wiki/MATE)转换而来。
+
+
 **MATE**，为一[桌面环境](../Page/桌面环境.md "wikilink")，由已經停止官方维护的 [GNOME](../Page/GNOME.md "wikilink") 2 源代码衍生而来。MATE 得名于南美植物[巴拉圭冬青](../Page/巴拉圭冬青.md "wikilink")（yerba mate）\[1\]。由于 GNOME 3 在界面上的激进变动，导致诸多批评，因而许多人决定创建一个 GNOME 的衍生桌面环境，维持 GNOME 2 的传统风格。更名是為了避免與 GNOME 3 的組成元件產生衝突。
 
 ## 歷史

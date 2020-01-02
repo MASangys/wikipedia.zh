@@ -1,3 +1,6 @@
+> 本文内容由[Big](https://zh.wikipedia.org/wiki/Big)转换而来。
+
+
 《**Big**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年6月4日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，由[孔劉](../Page/孔劉.md "wikilink")、[申原昊](../Page/申原昊.md "wikilink")及[李珉廷](../Page/李珉廷.md "wikilink")主演，《[原來是美男](https://zh.wikipedia.org/wiki/原來是美男 "wikilink")》、《[最佳愛情](../Page/最佳愛情.md "wikilink")》等劇的洪氏姐妹（[洪貞恩](https://zh.wikipedia.org/wiki/洪貞恩 "wikilink")、[洪美蘭](https://zh.wikipedia.org/wiki/洪美蘭 "wikilink")）與《[熱血生意人](../Page/熱血生意人.md "wikilink")》[池秉賢導演合作打造](https://zh.wikipedia.org/wiki/池秉賢 "wikilink")，其創作靈感源自於[汤姆·汉克斯](../Page/汤姆·汉克斯.md "wikilink")主演的同名電影《[飛進未來](../Page/飛進未來.md "wikilink")》（-{Big}-）。[孔劉](../Page/孔劉.md "wikilink")繼《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》後時隔5年回歸電視劇場，在劇中同時展現中年和少年、醫生和高中生、完美男和叛逆學生的面貌。
 
 ## 劇情介紹

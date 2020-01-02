@@ -1,3 +1,6 @@
+> 本文内容由[ICON A5](https://zh.wikipedia.org/wiki/ICON_A5)转换而来。
+
+
 **ICON A5**[飞机是一种由美国ICON](https://zh.wikipedia.org/wiki/飞机 "wikilink") Aircraft飞机公司研制的两栖轻型运动飞机。\[1\]第一架概念机已于2008年首飞，但尚未开展[批量生产](https://zh.wikipedia.org/wiki/批量生产 "wikilink")
 
 ## 设计
@@ -16,8 +19,6 @@
 [Category:水陸兩棲飛機](https://zh.wikipedia.org/wiki/Category:水陸兩棲飛機 "wikilink") [Category:ICON飛機](https://zh.wikipedia.org/wiki/Category:ICON飛機 "wikilink")
 
 1.
-
 2.
-
 3.
 4.

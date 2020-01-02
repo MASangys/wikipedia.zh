@@ -1,3 +1,6 @@
+> 本文内容由[PLAYGIRLZ](https://zh.wikipedia.org/wiki/PLAYGIRLZ)转换而来。
+
+
 《**PLAYGIRLZ**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School的第](../Page/After_School.md "wikilink")1枚原創日語專輯，於2012年3月14日發行。\[1\]唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

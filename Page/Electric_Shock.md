@@ -1,3 +1,6 @@
+> 本文内容由[Electric Shock](https://zh.wikipedia.org/wiki/Electric_Shock)转换而来。
+
+
 “**Electric Shock**”是[南韓女子團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[f(x)第二張EP](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")，於2012年6月13日全面發售。而f(x)通過在6月14日Mnet的《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》給觀眾展現精彩的回歸舞台。
 
 ## 背景

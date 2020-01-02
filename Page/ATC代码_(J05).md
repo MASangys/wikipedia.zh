@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(J05\)](https://zh.wikipedia.org/wiki/ATC代码_\(J05\))转换而来。
+
+
 ## J05A 直接作用的[抗病毒药](https://zh.wikipedia.org/wiki/抗病毒药 "wikilink")（Direct acting antiviral drugs）
 
 ### J05AA [缩氨硫脲类](https://zh.wikipedia.org/wiki/缩氨硫脲 "wikilink")（Thiosemicarbazones）

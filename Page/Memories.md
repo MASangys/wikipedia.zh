@@ -1,3 +1,6 @@
+> 本文内容由[Memories](https://zh.wikipedia.org/wiki/Memories)转换而来。
+
+
 《**Memories**》是香港歌手[劉德華](../Page/劉德華.md "wikilink")於1995年4月發行的粤語翻唱集\[1\]。
 
 ## 簡介

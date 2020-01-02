@@ -1,3 +1,6 @@
+> 本文内容由[Jin \(日本音樂家\)](https://zh.wikipedia.org/wiki/Jin_\(日本音樂家\))转换而来。
+
+
 **Jin**（，），也被稱為**自然之敵P**（），是[日本](../Page/日本.md "wikilink")[音乐家](https://zh.wikipedia.org/wiki/音乐家 "wikilink")、[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")，主要使用[初音未來](../Page/初音未來.md "wikilink")和[IA等](../Page/IA_\(VOCALOID\).md "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")軟體來創作歌曲。
 2011年發佈[陽炎計劃](../Page/陽炎計劃.md "wikilink")第一首歌曲，2012年開始發表小說。
 

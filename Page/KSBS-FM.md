@@ -1,3 +1,6 @@
+> 本文内容由[KSBS-FM](https://zh.wikipedia.org/wiki/KSBS-FM)转换而来。
+
+
 **KSBS-FM**（92.1 FM "Island 92"）是位于[美属萨摩亚的一个商业广播电台](https://zh.wikipedia.org/wiki/美属萨摩亚 "wikilink")，在1988年4月14日开播。发射地位于[帕果帕果](../Page/帕果帕果.md "wikilink")，覆盖整个[美属萨摩亚](https://zh.wikipedia.org/wiki/美属萨摩亚 "wikilink")。该电台的广播执照于2012年1月发放，属于萨摩亚科技公司。
 
 ## 概况

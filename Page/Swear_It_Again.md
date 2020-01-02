@@ -1,3 +1,6 @@
+> 本文内容由[Swear It Again](https://zh.wikipedia.org/wiki/Swear_It_Again)转换而来。
+
+
 **Swear It Again**是[爱尔兰](../Page/爱尔兰.md "wikilink")流行乐队[西域男孩的首支单曲](https://zh.wikipedia.org/wiki/西域男孩 "wikilink")，一经推出便蝉联英国单曲榜冠军两周，\[1\]是西域男孩经典曲目之一。
 
 ## 记录

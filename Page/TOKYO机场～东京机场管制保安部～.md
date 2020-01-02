@@ -1,3 +1,6 @@
+> 本文内容由[TOKYO机场～东京机场管制保安部～](https://zh.wikipedia.org/wiki/TOKYO机场～东京机场管制保安部～)转换而来。
+
+
 《**TOKYO机场～东京机场管制保安部～**》（）是自2012年10月14日在[富士电视台播出的日本电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")，以[空中交通管制為主題](https://zh.wikipedia.org/wiki/空中交通管制 "wikilink")、[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）為背景，由[深田恭子](../Page/深田恭子.md "wikilink")、[佐佐木希](../Page/佐佐木希.md "wikilink")、[瀨戶康史](../Page/瀨戶康史.md "wikilink")、[要润](https://zh.wikipedia.org/wiki/要润 "wikilink")、[瀨戶朝香](../Page/瀨戶朝香.md "wikilink")及[時任三郎](../Page/時任三郎.md "wikilink")領銜主演，並得到[日本航空](../Page/日本航空.md "wikilink")及[全日空支持下拍攝](../Page/全日本空輸.md "wikilink")。
 
 ## 故事大綱

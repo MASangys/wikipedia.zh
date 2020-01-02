@@ -1,3 +1,6 @@
+> 本文内容由[Color The Cover](https://zh.wikipedia.org/wiki/Color_The_Cover)转换而来。
+
+
 《**Color The Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年2月27日發行的第二張[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
 ## 簡介

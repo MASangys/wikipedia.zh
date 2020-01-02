@@ -1,3 +1,6 @@
+> 本文内容由[Falkon](https://zh.wikipedia.org/wiki/Falkon)转换而来。
+
+
 **Falkon**（舊稱Qupzilla\[1\]）是一個快速且安全的[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，拥有[跨平台的優勢以及與](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[桌面環境整合度高的](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")[使用者界面](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。加入了許多實用的功能並使用[GPLv3作為其](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[憑證](https://zh.wikipedia.org/wiki/憑證 "wikilink")。
 
 ## 特色

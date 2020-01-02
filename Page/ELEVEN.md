@@ -1,3 +1,6 @@
+> 本文内容由[ELEVEN](https://zh.wikipedia.org/wiki/ELEVEN)转换而来。
+
+
 《**ELEVEN**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十一张录音室专辑。2000年12月6日由[Rooms RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約113.2萬張，為日本最暢銷專輯第228名。

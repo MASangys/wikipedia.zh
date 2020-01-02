@@ -1,3 +1,6 @@
+> 本文内容由[Signal.h](https://zh.wikipedia.org/wiki/Signal.h)转换而来。
+
+
 **signal.h**是[C标准函数库中的信号处理部分](https://zh.wikipedia.org/wiki/C标准函数库 "wikilink")， 定义了程序执行时如何处理不同的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。信号用作进程间通信， 报告异常行为（如除零）、用户的一些按键组合（如同时按下Ctrl与C键，产生信号[SIGINT](https://zh.wikipedia.org/wiki/SIGINT "wikilink")）。
 
 [C++](../Page/C++.md "wikilink")中的对应头文件是`csignal`。

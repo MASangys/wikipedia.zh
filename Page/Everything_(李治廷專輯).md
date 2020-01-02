@@ -1,3 +1,6 @@
+> 本文内容由[Everything \(李治廷專輯\)](https://zh.wikipedia.org/wiki/Everything_\(李治廷專輯\))转换而来。
+
+
 《**Everything**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[李治廷](../Page/李治廷.md "wikilink")的第二張專輯，在2011年8月16日由[A Music製作發行](https://zh.wikipedia.org/wiki/A_Music "wikilink")。專輯中第一主打是翻唱[張國榮](../Page/張國榮.md "wikilink")歌曲的《一片痴》，第二主打則是快歌《速度對比》\[1\]\[2\]。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Erepyon \(小野惠令奈單曲\)](https://zh.wikipedia.org/wiki/Erepyon_\(小野惠令奈單曲\))转换而来。
+
+
 《**Erepyon**》（），是[歌手](../Page/歌手.md "wikilink")[小野惠令奈](../Page/小野惠令奈.md "wikilink")於2012年4月3日宣佈發表的首張個人單曲。
 
 ## 概要

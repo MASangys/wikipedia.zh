@@ -1,3 +1,6 @@
+> 本文内容由[Foo\?](https://zh.wikipedia.org/wiki/Foo\?)转换而来。
+
+
 《**foo?**》是由日本樂團[色情塗鴉所發行的第二張錄音專輯](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")，2001年2月28日於日本發售。
 
 ## 簡介

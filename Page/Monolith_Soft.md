@@ -1,3 +1,6 @@
+> 本文内容由[Monolith Soft](https://zh.wikipedia.org/wiki/Monolith_Soft)转换而来。
+
+
 是一家日本的电子娱乐公司，主要业务为开发[电子游戏](../Page/电子游戏.md "wikilink")。它曾为[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Wii](../Page/Wii.md "wikilink")以及[手机等平台开发过不同类型的游戏](https://zh.wikipedia.org/wiki/手机 "wikilink")。现为日本电子游戏巨头[任天堂](../Page/任天堂.md "wikilink")的旗下[子公司](../Page/子公司.md "wikilink")。
 
 ## 公司概要

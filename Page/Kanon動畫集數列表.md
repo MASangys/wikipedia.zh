@@ -1,3 +1,6 @@
+> 本文内容由[Kanon動畫集數列表](https://zh.wikipedia.org/wiki/Kanon動畫集數列表)转换而来。
+
+
 [Kanon](../Page/Kanon.md "wikilink")動畫是[日本](../Page/日本.md "wikilink")[視覺小說kanon的動畫化作品](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，共分為[東映動畫製作版與](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[京都動畫](../Page/京都動畫.md "wikilink")製作版兩個版本。動畫描述男主角相澤祐一因家庭因素而到北國小鎮寄住在身為[表妹的少女家中的少年與在那小鎮中相遇的少女們的](https://zh.wikipedia.org/wiki/表妹 "wikilink")[戀愛故事](https://zh.wikipedia.org/wiki/戀愛 "wikilink")。随着双亲去了海外就职，来到了七年不见的“北國小鎮”，寄住在母亲的妹妹水濑秋子和她女儿名雪的家里。不知为何幾乎没有关于七年前在北國小鎮的记忆。
 
 ## 東映動畫版
@@ -217,12 +220,8 @@
 [Category:日本動畫集數列表](https://zh.wikipedia.org/wiki/Category:日本動畫集數列表 "wikilink")
 
 1.
-
 2.  日本播映日期情報參考自[Kanon-華音館](http://the-kanon.com/) 。
-
 3.
-
 4.
 5.
-
 6.

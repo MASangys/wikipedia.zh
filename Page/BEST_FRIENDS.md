@@ -1,3 +1,6 @@
+> 本文内容由[BEST FRIENDS](https://zh.wikipedia.org/wiki/BEST_FRIENDS)转换而来。
+
+
 《**BEST FRIENDS**》是日本女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第1張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2013年2月6日發行。唱片公司為[hachama](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

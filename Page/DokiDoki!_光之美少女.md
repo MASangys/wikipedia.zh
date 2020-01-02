@@ -1,3 +1,6 @@
+> 本文内容由[DokiDoki! 光之美少女](https://zh.wikipedia.org/wiki/DokiDoki!_光之美少女)转换而来。
+
+
 《**心跳！光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放\[1\]\[2\]。台灣由[東森電影台](../Page/東森電影台.md "wikilink")在2015年11月23日以「**DokiDoki\!-{}- 光之美少女**」的名義首播、[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出。美國Saban Entertainment在2017年8月18日開始以「**Glitter Force Doki Doki**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Travis CI](https://zh.wikipedia.org/wiki/Travis_CI)转换而来。
+
+
 **Travis CI**是在[软件开发领域中的一个在线的](https://zh.wikipedia.org/wiki/软件开发 "wikilink")，分布式的\[1\][持续集成服务](../Page/持續整合.md "wikilink")，用来构建及测试在[GitHub](../Page/GitHub.md "wikilink")\[2\]托管的代码。这个软件的代码同时也是[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")，可以在GitHub上下载到\[3\]，尽管开发者当前并不推荐在闭源项目中单独使用它。\[4\]
 
 它提供了多种编程语言的支持，包括[Ruby](../Page/Ruby.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Scala](../Page/Scala.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")和[Erlang](../Page/Erlang.md "wikilink")在内的多种语言\[5\]。许多知名的开源项目使用它来在每次提交的时候进行构建测试，比如[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")，[Ruby](../Page/Ruby.md "wikilink")和[Node.js](../Page/Node.js.md "wikilink")\[6\]\[7\]。

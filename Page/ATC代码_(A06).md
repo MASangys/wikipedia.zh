@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A06\)](https://zh.wikipedia.org/wiki/ATC代码_\(A06\))转换而来。
+
+
 ## A06A [轻泻药](https://zh.wikipedia.org/wiki/轻泻药 "wikilink")（Laxatives）
 
 ### A06AA 软化药，润滑药（Softeners, emollients）

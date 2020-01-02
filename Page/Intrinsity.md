@@ -1,3 +1,6 @@
+> 本文内容由[Intrinsity](https://zh.wikipedia.org/wiki/Intrinsity)转换而来。
+
+
 **Intrinsity** 是美國一家高速晶片製造商, 位於美國德州奥斯汀市（Austin）。
 
 ## 历史

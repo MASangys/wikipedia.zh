@@ -1,3 +1,6 @@
+> 本文内容由[GoAgent](https://zh.wikipedia.org/wiki/GoAgent)转换而来。
+
+
 [Wikipedia_main_page_with_GoAgent_validation_certificate_in_firefox.png](https://zh.wikipedia.org/wiki/File:Wikipedia_main_page_with_GoAgent_validation_certificate_in_firefox.png "fig:Wikipedia_main_page_with_GoAgent_validation_certificate_in_firefox.png")中打开维基百科主页的截图
 可见证书颁发人为GoAgent\]\]
 

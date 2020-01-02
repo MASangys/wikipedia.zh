@@ -1,3 +1,6 @@
+> 本文内容由[Stop! Stop! Stop!](https://zh.wikipedia.org/wiki/Stop!_Stop!_Stop!)转换而来。
+
+
 《**Stop\! Stop\! Stop\!**》是乌克兰组合[圣女天团](../Page/圣女天团.md "wikilink")的第四张录音室专辑，专辑发售于2004年。
 
 ## 曲目列表

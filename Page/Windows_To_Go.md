@@ -1,3 +1,6 @@
+> 本文内容由[Windows To Go](https://zh.wikipedia.org/wiki/Windows_To_Go)转换而来。
+
+
 **Windows To Go**是[Windows 8.1与](../Page/Windows_8.1.md "wikilink")[Windows 10的一种企业功能](../Page/Windows_10.md "wikilink")，被内置于Windows 8企业版（Windows 8 Enterprise）与Windows 10企业版（Windows 10 Enterprise）中。对于满足Windows 8或Windows10硬件要求的电脑，Windows To Go可使Windows 7以后的系统从[USB](../Page/USB.md "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")中启动并运行，不必考虑电脑上运行的[操作系统](../Page/操作系统.md "wikilink")（Mac和[Windows RT不被支持](../Page/Windows_RT.md "wikilink")）。此功能已停止开发，在Windows 10版本1903中弃用。将来，该功能将被删除。\[1\]
 
 这是一個完全的可管理的電腦環境，Windows To Go工作区可将相同的映像企业版功能用于其台式计算机和便携式计算机，还可采用相同的方式加以管理。Windows To Go可以为有效使用备用的工作场所方案资源提供支持。

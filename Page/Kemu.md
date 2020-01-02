@@ -1,3 +1,6 @@
+> 本文内容由[Kemu](https://zh.wikipedia.org/wiki/Kemu)转换而来。
+
+
 **Kemu**是[日本](../Page/日本.md "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")，主要以[VOCALOID](../Page/VOCALOID.md "wikilink")來創作歌曲，並上傳到[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。其上傳的九首歌曲全部達成百萬再生，成為唯一一名全曲傳說的製作人。
 
 ## 介绍

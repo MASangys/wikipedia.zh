@@ -1,3 +1,6 @@
+> 本文内容由[Instapaper](https://zh.wikipedia.org/wiki/Instapaper)转换而来。
+
+
 **Instapaper**是一个[Web服务](../Page/Web服务.md "wikilink")，可从[网页浏览器](../Page/网页浏览器.md "wikilink")，[苹果iOS](https://zh.wikipedia.org/wiki/苹果iOS "wikilink")，[Android](../Page/Android.md "wikilink")设备和亚马逊[Kindle](../Page/Kindle.md "wikilink")上保存文章，供日后阅读。注册一个免费帐户后，该服务可保存用户选择“稍后阅读”的内容，并将内容显示在一个小型的，可读的版面。服务成立于2008年，创始人[Marco Arment](https://zh.wikipedia.org/wiki/Marco_Arment "wikilink")，截至2011年年底拥有约200万用户。\[1\]2013年，Arment将Instapaper大部分股份卖给了[Betaworks](https://zh.wikipedia.org/wiki/Betaworks "wikilink")。\[2\]2016年，Instapaper由另一家社群網路公司[Pinterest](../Page/Pinterest.md "wikilink")收購\[3\]。
 
 它已经获得了出版物的积极评价，包括[纽约时报](../Page/纽约时报.md "wikilink")，\[4\] [华尔街日报](../Page/华尔街日报.md "wikilink")\[5\] [PC杂志](https://zh.wikipedia.org/wiki/PC杂志 "wikilink")，\[6\] [Macworld大会](https://zh.wikipedia.org/wiki/Macworld大会 "wikilink")，\[7\]和[Wired](https://zh.wikipedia.org/wiki/Wired "wikilink")。\[8\]
@@ -45,51 +48,28 @@ Instapaper iPad应用程序捆绑在[iPad](https://zh.wikipedia.org/wiki/iPad "w
 [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
-
 2.  [The next generation of Instapaper](http://www.marco.org/2013/04/25/instapaper-next-generation)
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10. [Instapaper免费版和premium的功能区别](http://shanglei.net/hiwiki/index.php?title=Instapaper#.E5.85.8D.E8.B4.B9.E7.89.88.E5.92.8Cpremium.E7.9A.84.E5.8A.9F.E8.83.BD.E5.8C.BA.E5.88.AB)
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
