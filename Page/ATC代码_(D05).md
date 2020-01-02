@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D05\)](https://zh.wikipedia.org/wiki/ATC代码_\(D05\))转换而来。
+
+
 In ATCvet, this subgroup is named "QD05 *Drugs for keratoseborrheic disorders*".
 
 ## D05A 局部用治疗牛皮癣药（Antipsoriatics for topical use）

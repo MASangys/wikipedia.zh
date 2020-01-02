@@ -1,3 +1,6 @@
+> 本文内容由[Berryz工房Single V Clips \(4\)](https://zh.wikipedia.org/wiki/Berryz工房Single_V_Clips_\(4\))转换而来。
+
+
 『**Berryz工房Single V Clips ④**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第4張PV集。
 
 ## 收錄内容

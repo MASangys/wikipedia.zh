@@ -1,3 +1,6 @@
+> 本文内容由[變形金剛：Masterpiece](https://zh.wikipedia.org/wiki/變形金剛：Masterpiece)转换而来。
+
+
 **變形金剛：Masterpiece**是[日本](../Page/日本.md "wikilink")TAKARA（，現‧[TAKARATOMY](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")）在2003年推出的[變形金剛產品線](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")。以當今先進的技術重現Generation 1動畫中的變形金剛。
 
 另外，TAKARATOMY的Masterpiece系列已經出現了幾個分線，代表《[勇者系列](../Page/勇者系列.md "wikilink")》的"masterpiece brave" ,代表變形金剛真人電影系列的"Masterpiece Movie"和代表《[索斯機械獸](../Page/索斯機械獸.md "wikilink")》系列的"Masterpiece Zoids"

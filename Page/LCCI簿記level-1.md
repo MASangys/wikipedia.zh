@@ -1,3 +1,6 @@
+> 本文内容由[LCCI簿記level-1](https://zh.wikipedia.org/wiki/LCCI簿記level-1)转换而来。
+
+
 **[LCCI](https://zh.wikipedia.org/wiki/LCCI "wikilink") [簿記](https://zh.wikipedia.org/wiki/簿記 "wikilink")** Book-Keeping level-1 \[1\]是基本[會計的入門部份](https://zh.wikipedia.org/wiki/會計 "wikilink")，此考試希望考生能牚握記錄[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[交易](../Page/交易.md "wikilink")概念，以及為獨立交易商記帳和準備其會計記錄。這是成為會計文員的基本知識。考試成功者可以修讀[簿記及會計](https://zh.wikipedia.org/wiki/簿記及會計 "wikilink")。此些部份函蓋於[香港中學文憑考試](../Page/香港中學文憑考試.md "wikilink")當中。
 
 ## 考試範圍

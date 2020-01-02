@@ -1,3 +1,6 @@
+> 本文内容由[Berryz公寓9階](https://zh.wikipedia.org/wiki/Berryz公寓9階)转换而来。
+
+
 《**Berryz公寓9階**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第8張原創專輯，於2013年1月30日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

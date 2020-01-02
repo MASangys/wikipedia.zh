@@ -1,3 +1,6 @@
+> 本文内容由[狐狸座U](https://zh.wikipedia.org/wiki/狐狸座U)转换而来。
+
+
 **狐狸座U**，又名**BD+20 4200**，**HD 185059**、**SAO 87447**、**HR 7458**，是[狐狸座](../Page/狐狸座.md "wikilink")的一颗[恒星](https://zh.wikipedia.org/wiki/恒星 "wikilink")\[1\]\[2\]，视星等为7.14，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")56.07，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-0.29，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

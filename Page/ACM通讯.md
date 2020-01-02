@@ -1,3 +1,6 @@
+> 本文内容由[ACM通讯](https://zh.wikipedia.org/wiki/ACM通讯)转换而来。
+
+
 **ACM通讯**（Communications of the ACM，CACM）是[计算机协会](../Page/计算机协会.md "wikilink")面向所有会员发行的一种[杂志](../Page/杂志.md "wikilink")，于1958年创建，[索尔·罗森担任其第一任](https://zh.wikipedia.org/wiki/索尔·罗森 "wikilink")[总编辑](https://zh.wikipedia.org/wiki/总编辑 "wikilink")。\[1\]该杂志是最久远最受尊敬的计算机出版物之一。
 
 ## 著名文章

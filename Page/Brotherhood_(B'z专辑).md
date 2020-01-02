@@ -1,3 +1,6 @@
+> 本文内容由[Brotherhood \(B\'z专辑\)](https://zh.wikipedia.org/wiki/Brotherhood_\(B\'z专辑\))转换而来。
+
+
 《**Brotherhood**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十张录音室专辑。1999年7月14日由[Rooms RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約139.1萬張，為日本最暢銷專輯第161名。

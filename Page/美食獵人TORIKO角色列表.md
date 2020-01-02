@@ -1,3 +1,6 @@
+> 本文内容由[美食獵人TORIKO角色列表](https://zh.wikipedia.org/wiki/美食獵人TORIKO角色列表)转换而来。
+
+
 **美食獵人TORIKO角色列表**是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[島袋光年](../Page/島袋光年.md "wikilink")作品《[美食獵人TORIKO](../Page/美食獵人TORIKO.md "wikilink")》裡全部登場人物的概覽。
 
 ## 主要人物

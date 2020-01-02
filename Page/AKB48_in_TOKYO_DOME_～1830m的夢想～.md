@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 in TOKYO DOME ～1830m的夢想～](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的夢想～)转换而来。
+
+
 **AKB48 in TOKYO DOME ～1830m的夢想～**（）是[AKB48](../Page/AKB48.md "wikilink")於2012年8月24日 - 26日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉辦的演唱會。「1830m」指的是從[AKB48劇場](../Page/AKB48劇場.md "wikilink")到東京巨蛋之間的實際距離。
 
 ## 第1日

@@ -1,3 +1,6 @@
+> 本文内容由[BLOODY CROSS](https://zh.wikipedia.org/wiki/BLOODY_CROSS)转换而来。
+
+
 《**BLOODY CROSS～血色十字架～**》（，血之十字架），是[米山シヲ的日本漫畫作品](https://zh.wikipedia.org/wiki/米山シヲ "wikilink")。於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》2009年3月號開始連載。
 
 ## 大綱

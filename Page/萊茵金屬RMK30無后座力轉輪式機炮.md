@@ -1,3 +1,6 @@
+> 本文内容由[萊茵金屬RMK30無后座力轉輪式機炮](https://zh.wikipedia.org/wiki/萊茵金屬RMK30無后座力轉輪式機炮)转换而来。
+
+
 [Rheinmetall_RMK30_1.jpg](https://zh.wikipedia.org/wiki/File:Rheinmetall_RMK30_1.jpg "fig:Rheinmetall_RMK30_1.jpg") **萊茵金屬RMK30**（）是一門由[德国](../Page/德国.md "wikilink")武器製造商[莱茵金属](../Page/莱茵金属.md "wikilink")所研製，旗下的[子公司](../Page/子公司.md "wikilink")[毛瑟](../Page/毛瑟.md "wikilink")公司所生產的單管[无後座力](../Page/无后座力炮.md "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")，發射[30×250毫米](https://zh.wikipedia.org/wiki/30毫米口径 "wikilink")[無殼機炮](../Page/無殼彈.md "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 ## 概述
@@ -10,7 +13,7 @@ RMK30機炮已被提議作為[德國聯邦國防軍](../Page/德國聯邦國防�
 
 1996年，它亦被測試安裝在[黃鼠狼式裝甲武器運輸車](../Page/鼬鼠_\(装甲车\).md "wikilink")（，簡稱：Wiesel AWC）以上。\[4\]
 
-一個不尋常的研究（MORAINE項目\[5\]）建議將RMK30機炮安裝在[212型](../Page/212型潛艇.md "wikilink")[潛艇](../Page/潛艇.md "wikilink")的可伸縮式[桅杆上](https://zh.wikipedia.org/wiki/桅杆 "wikilink")。這樣的桅杆會增強該潛艇的火力，因為目前它缺乏適當的手段以打擊小型水面目標或只是用作警告射擊。這項研究直接涉及到[MURAENA機炮系統的概念](https://zh.wikipedia.org/wiki/MURAENA機炮系統 "wikilink")。
+一個不尋常的研究（MORAINE項目\[5\]）建議將RMK30機炮安裝在[212型](../Page/212型潛艇.md "wikilink")[潛艇](../Page/潛艇.md "wikilink")的可伸縮式[桅杆](../Page/桅杆.md "wikilink")上。這樣的桅杆會增強該潛艇的火力，因為目前它缺乏適當的手段以打擊小型水面目標或只是用作警告射擊。這項研究直接涉及到[MURAENA機炮系統的概念](https://zh.wikipedia.org/wiki/MURAENA機炮系統 "wikilink")。
 
 ## 參見
 
@@ -64,7 +67,6 @@ RMK30機炮已被提議作為[德國聯邦國防軍](../Page/德國聯邦國防�
 [Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:機炮](https://zh.wikipedia.org/wiki/Category:機炮 "wikilink") [Category:轉輪式機炮](https://zh.wikipedia.org/wiki/Category:轉輪式機炮 "wikilink") [Category:無後座力炮](https://zh.wikipedia.org/wiki/Category:無後座力炮 "wikilink") [Category:車輛武器](https://zh.wikipedia.org/wiki/Category:車輛武器 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink")
 
 1.
-
 2.
 3.
 4.

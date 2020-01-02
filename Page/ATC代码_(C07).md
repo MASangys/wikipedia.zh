@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C07\)](https://zh.wikipedia.org/wiki/ATC代码_\(C07\))转换而来。
+
+
 ## C07A β受体阻断药（Beta blocking agents）
 
 ### C07AA 非选择性[β受体阻滞药](https://zh.wikipedia.org/wiki/β受体阻滞药 "wikilink")（Beta blocking agents, non-selective）

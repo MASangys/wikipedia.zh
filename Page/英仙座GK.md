@@ -1,3 +1,6 @@
+> 本文内容由[英仙座GK](https://zh.wikipedia.org/wiki/英仙座GK)转换而来。
+
+
 **英仙座GK**（**GK Persei**）也被称为**1901年英仙座新星**（**Nova Persei 1901**）是一颗位于[英仙座](../Page/英仙座.md "wikilink")的明亮[新星](../Page/新星.md "wikilink")，1901年爆发，爆发后最亮[视星等](../Page/视星等.md "wikilink")为0.2，这是20世纪发现的第一颗新星，也是现代发现的最亮新星，直到1918年才被[天鹰座V603](../Page/天鹰座V603.md "wikilink")打破。它由苏格兰牧师[托马斯·大卫·安德森在](https://zh.wikipedia.org/wiki/Thomas_David_Anderson "wikilink")2月21日发现。\[1\]
 
 ## 特征

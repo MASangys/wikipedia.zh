@@ -1,3 +1,6 @@
+> 本文内容由[練習曲 \(EP\)](https://zh.wikipedia.org/wiki/練習曲_\(EP\))转换而来。
+
+
 《**練習曲**》是[澳門](../Page/澳門.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭永琛](../Page/彭永琛.md "wikilink")的第二張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2012年10月19日推出\[1\]。專輯第一主打為《天天樂天》，第二主打則為著名音樂人[雷頌德](../Page/雷頌德.md "wikilink")監製作品《一個人的練習曲》。
 
 ## 曲目

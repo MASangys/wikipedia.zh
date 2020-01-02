@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(J07\)](https://zh.wikipedia.org/wiki/ATC代码_\(J07\))转换而来。
+
+
 ## J07A 细菌疫苗类（Bacterial vaccines）
 
 ### J07AC [炭疽疫苗](https://zh.wikipedia.org/wiki/炭疽疫苗 "wikilink")（Anthrax vaccines）

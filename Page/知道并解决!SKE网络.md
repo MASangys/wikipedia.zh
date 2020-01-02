@@ -1,3 +1,6 @@
+> 本文内容由[知道并解决!SKE网络](https://zh.wikipedia.org/wiki/知道并解决!SKE网络)转换而来。
+
+
 『**知道并解决\!SKE网络**』（）于2010年4月5日在[綜合頻道开始播出](../Page/NHK綜合頻道.md "wikilink")。
 
 ## 概要

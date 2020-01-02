@@ -1,3 +1,6 @@
+> 本文内容由[這是怎樣的戀愛 YOU KNOW\?](https://zh.wikipedia.org/wiki/這是怎樣的戀愛_YOU_KNOW\?)转换而来。
+
+
 「**這是怎樣的戀愛 YOU KNOW?**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第7張[单曲](../Page/单曲.md "wikilink")。2005年6月8日由[PICCOLO TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

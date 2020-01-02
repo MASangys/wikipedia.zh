@@ -1,3 +1,6 @@
+> 本文内容由[迪士尼XD](https://zh.wikipedia.org/wiki/迪士尼XD)转换而来。
+
+
 **迪士尼XD**（Disney XD）是一個[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視及](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[廣播衛星](https://zh.wikipedia.org/wiki/廣播衛星 "wikilink")[電視網](../Page/電視聯播網.md "wikilink")，為[華特迪士尼公司之迪士尼媒體電視網旗下](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[迪士尼ABC電視集團中的迪士尼全球公司擁有](https://zh.wikipedia.org/wiki/迪士尼ABC電視集團 "wikilink")，為[迪士尼频道的姊妹频道](https://zh.wikipedia.org/wiki/迪士尼频道 "wikilink")。其总部位于美国，并在其它国家也拥有当地语言的频道。迪士尼XD主要播放面对6至14岁的儿童动作动画剧集、实景节目和电影。
 
 迪士尼XD播放原创迪士尼XD内容和[迪士尼频道的内容](https://zh.wikipedia.org/wiki/迪士尼频道 "wikilink")，分别有《[功夫Wasabi](../Page/功夫Wasabi.md "wikilink")》等与《[小查与寇弟的顶级生活](https://zh.wikipedia.org/wiki/小查与寇弟的顶级生活 "wikilink")》、《[飞哥与小佛](https://zh.wikipedia.org/wiki/飞哥与小佛 "wikilink")》等。同时其也播放“[迪士尼频道原创电影](https://zh.wikipedia.org/wiki/迪士尼频道原创电影列表 "wikilink")”。

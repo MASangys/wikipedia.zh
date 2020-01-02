@@ -1,3 +1,6 @@
+> 本文内容由[BS-1 Tishina榴彈發射器](https://zh.wikipedia.org/wiki/BS-1_Tishina榴彈發射器)转换而来。
+
+
 **BS-1 Tishina**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：БС-1 Тишина）是一款由[蘇聯開發的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")30毫米槍管下掛式消音[榴彈發射器系統](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，該武器在[蘇軍的正式編號為為](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")**RGA-86**。而武器名稱當中的「Тишина」是指「沈默」。\[1\]
 
 ## 設計

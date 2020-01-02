@@ -1,8 +1,11 @@
+> 本文内容由[ASU-57空降自走炮](https://zh.wikipedia.org/wiki/ASU-57空降自走炮)转换而来。
+
+
 ASU-57空降自走炮（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：[АСУ-57 (Объект 572)](https://ru.wikipedia.org/wiki/%D0%90%D0%A1%D0%A3-57)）是[第二次世界大戰後的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")1950年由[蘇聯為其](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[傘兵](../Page/傘兵.md "wikilink")發展的超輕型[自走炮](https://zh.wikipedia.org/wiki/自走炮 "wikilink")，但由於自身體積太小而作用不大，很快就於1962年被淘汰不用
 
 ## 基本資料
 
-  - 乘員：3人(車長兼炮手、上彈兵和駕駛)
+  - 乘員：3人(車長兼炮手、裝填手和駕駛)
   - 車長：3.48公尺
   - 車闊：2.8公尺
   - 車高：1.18公尺

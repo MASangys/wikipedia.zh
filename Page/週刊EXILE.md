@@ -1,3 +1,6 @@
+> 本文内容由[週刊EXILE](https://zh.wikipedia.org/wiki/週刊EXILE)转换而来。
+
+
 『**週刊EXILE**』在2010年1月18日開始在[TBS系列每週星期一](../Page/TBS電視台.md "wikilink")24:59 - 25:29（星期二0:59 - 1:29、[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放的[真人實境節目](../Page/真人實境秀.md "wikilink")。
 
 ## 出演

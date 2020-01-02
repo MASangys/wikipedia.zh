@@ -1,3 +1,6 @@
+> 本文内容由[Bakalov突擊步槍](https://zh.wikipedia.org/wiki/Bakalov突擊步槍)转换而来。
+
+
 **Bakalov**是由[保加利亞槍械設計師Georgij](https://zh.wikipedia.org/wiki/保加利亞 "wikilink") Delčev Bakalov開發的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 設計

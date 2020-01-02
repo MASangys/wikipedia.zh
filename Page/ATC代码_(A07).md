@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A07\)](https://zh.wikipedia.org/wiki/ATC代码_\(A07\))转换而来。
+
+
 ## A07A 肠道抗感染药（Intestinal anti-infectives）
 
 ### A07AA [抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")（Antibiotics）

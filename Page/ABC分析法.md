@@ -1,3 +1,6 @@
+> 本文内容由[ABC分析法](https://zh.wikipedia.org/wiki/ABC分析法)转换而来。
+
+
 **ABC分析法**又稱帕累托分析法或巴雷托分析法、柏拉圖分析、主次因分析法 、ABC分类法、分類管理法、重點管理法、ABC管理法、abc管理、巴雷特分析法，是一种根据[帕累托最优](../Page/帕累托最优.md "wikilink")原则设计的分类方法，是确定[库存等级的技术](https://zh.wikipedia.org/wiki/库存 "wikilink")，常用于[物资管理中](https://zh.wikipedia.org/wiki/物资管理 "wikilink")，也称为*选择性库存控制*。 ABC分析法包括:
 
   - A物品: 严格控制、准确记录

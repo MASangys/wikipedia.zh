@@ -1,3 +1,6 @@
+> 本文内容由[Blessthefall](https://zh.wikipedia.org/wiki/Blessthefall)转换而来。
+
+
 **Blessthefall**是一個美國[金屬蕊](../Page/金屬蕊.md "wikilink")樂團，來自美國[亞利桑那州](../Page/亞利桑那州.md "wikilink")的[鳳凰城](../Page/鳳凰城_\(亞利桑那州\).md "wikilink")，目前與[Fearless簽約](https://zh.wikipedia.org/wiki/Fearless "wikilink")。這個樂團成立時間在2003年，由吉他手Mike Frisby、鼓手Matt Traynor和貝斯手Jared Warth所成立。首張專輯《His Last Walk》，發行於2007年四月10日，當時的主唱為[Craig Mabbitt](https://zh.wikipedia.org/wiki/Craig_Mabbitt "wikilink")。2009年十月6日，第二張專輯《Witness》的發行，則換上新主唱Beau Bokan。2011年十月4日，第四張專輯《Awakening》。
 
 ## 專輯作品

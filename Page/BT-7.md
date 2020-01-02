@@ -1,3 +1,6 @@
+> 本文内容由[BT-7](https://zh.wikipedia.org/wiki/BT-7)转换而来。
+
+
 **BT-7** \[1\]是[苏联](../Page/苏联.md "wikilink")[骑兵坦克](https://zh.wikipedia.org/wiki/骑兵坦克 "wikilink")-[BT坦克](../Page/BT坦克.md "wikilink")的最后一型，在1935年至1940年间大量生产。此类坦克装备轻型装甲，但却有以其所处时代来看相对优良的火力和大大超过同时代其他坦克的机动性。BT坦克因其名称[首字母发音而获得绰号](https://zh.wikipedia.org/wiki/首字母缩略字 "wikilink")*Betka*，或昵称为*Betushka*。\[2\]
 
 BT-7的继承者正是大名鼎鼎的[T-34](../Page/T-34坦克.md "wikilink")，后者于1940年面世，并将取代当时服役的所有苏联快速坦克、[步兵坦克和中型坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。
@@ -76,11 +79,7 @@ BT-7的首辆原型车拥有独特的倾斜椭圆形炮塔，主炮和同轴[机
 [Category:骑兵坦克](https://zh.wikipedia.org/wiki/Category:骑兵坦克 "wikilink") [Category:两次大战间苏联坦克](https://zh.wikipedia.org/wiki/Category:两次大战间苏联坦克 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
 
 1.  BT ()是“快速坦克”()的俄文首字母缩写。
-
 2.  Zaloga 1984, p 74.
-
-3.  <http://www.wwiivehicles.com/ussr/organization/table-of-organization/1939-11-light-tank-brigade.png>
-
+3.
 4.  <http://www.jaegerplatoon.net/TANKS5.htm>
-
 5.

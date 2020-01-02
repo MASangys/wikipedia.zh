@@ -1,3 +1,6 @@
+> 本文内容由[第36回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第36回NHK紅白歌合戰)转换而来。
+
+
 **第36回NHK紅白歌合戰**於1985年12月31日在[NHK音樂廳舉行](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")。
 
 ## 概要

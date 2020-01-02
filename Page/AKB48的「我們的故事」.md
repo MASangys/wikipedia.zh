@@ -1,3 +1,6 @@
+> 本文内容由[AKB48的「我們的故事」](https://zh.wikipedia.org/wiki/AKB48的「我們的故事」)转换而来。
+
+
 **AKB48的"我們的故事"**（）是[AKB48](../Page/AKB48.md "wikilink")的成員隔週替換出演的[廣播劇](../Page/廣播劇.md "wikilink")。[NHK-FM頻率](../Page/NHK-FM頻率.md "wikilink")制作。過去在2010年8月14日・2011年1月2日的2回以[特別節目播放](https://zh.wikipedia.org/wiki/特別節目 "wikilink")，2011年4月開始在隔週星期五正式播放。
 
 ## 概要

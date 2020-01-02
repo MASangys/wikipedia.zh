@@ -1,3 +1,6 @@
+> 本文内容由[AKB48集團相關歌曲一覽](https://zh.wikipedia.org/wiki/AKB48集團相關歌曲一覽)转换而来。
+
+
 **AKB48集團相关歌曲一覧**是[AKB48](../Page/AKB48.md "wikilink")与[SKE48](../Page/SKE48.md "wikilink")等姐妹组合，与[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")（）等衍生分队歌曲的一览表，但不包括被称作“官方对手”的[乃木坂46之作品](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")。
 
 此列表收錄的範圍不仅限于[秋元康](../Page/秋元康.md "wikilink")担任制作人的歌曲，也包括了AKB48集團成員参加演唱的他方作品。

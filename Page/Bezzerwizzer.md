@@ -1,3 +1,6 @@
+> 本文内容由[Bezzerwizzer](https://zh.wikipedia.org/wiki/Bezzerwizzer)转换而来。
+
+
 **Bezzerwizzer**是一款知识竞赛类的[游戏](../Page/游戏.md "wikilink")，玩家通过回答问题向前移动棋子，最先绕场一周回到原点的获胜。
 
 本游戏名称来源于德语Besserwisser：besser，好的比较级，意思是更好；wisser源于动词wissen，知道，并变成了一种人称；合起来意思就是成为知道更多的人、更有知识的人。

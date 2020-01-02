@@ -1,3 +1,6 @@
+> 本文内容由[Bonamana \(單曲\)](https://zh.wikipedia.org/wiki/Bonamana_\(單曲\))转换而来。
+
+
 《**Bonamana**》是韓國男子組合[Super Junior的第一張日語單曲](../Page/Super_Junior.md "wikilink")。2010年5月發佈。\[1\]2011年6月8日由[Avex trax發售](../Page/Avex_trax.md "wikilink")。\[2\]
 
 ## 錄製與音樂

@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 900](https://zh.wikipedia.org/wiki/诺基亚Lumia_900)转换而来。
+
+
 **諾基亞Lumia 900**是由[诺基亚](../Page/诺基亚.md "wikilink")开发，使用[Windows Phone操作系统的](../Page/Windows_Phone.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")。于[2012年4月](../Page/2012年4月.md "wikilink")发布。Lumia 900拥有4.3英寸的“[AMOLED](../Page/AMOLED.md "wikilink")”800×480分辨率[电容式触摸屏](https://zh.wikipedia.org/wiki/电容式触摸屏 "wikilink")，同时其机身为一体化设计，材料为[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")，有黑色，青色和白色三种颜色可供选择。
 
 ## 主要特性

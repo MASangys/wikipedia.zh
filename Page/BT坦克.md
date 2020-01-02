@@ -1,3 +1,6 @@
+> 本文内容由[BT坦克](https://zh.wikipedia.org/wiki/BT坦克)转换而来。
+
+
 **BT坦克**是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1932至1941年間生產的一系列[輕型坦克](https://zh.wikipedia.org/wiki/輕型戰車 "wikilink")。BT意即快速坦克（），由最初的BT-1至[BT-7](../Page/BT-7.md "wikilink")共有7個型號（有時BT-7M也被稱為BT-8），BT坦克是[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[T-34坦克](../Page/T-34坦克.md "wikilink")的前身。
 
 ## 研發簡史

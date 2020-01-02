@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A12\)](https://zh.wikipedia.org/wiki/ATC代码_\(A12\))转换而来。
+
+
 ## A12A [钙](../Page/钙.md "wikilink")（Calcium）
 
 ### A12AA 钙（Calcium）

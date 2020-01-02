@@ -1,3 +1,6 @@
+> 本文内容由[A Time 4 You](https://zh.wikipedia.org/wiki/A_Time_4_You)转换而来。
+
+
 《**A Time 4 You**》是[林峯第八張個人專輯](https://zh.wikipedia.org/wiki/林峯 "wikilink")，亦為首張新曲加精選專輯，此專輯於2013年1月25日推出發行。全碟17首歌曲，分別收錄4首新歌，包括《Nice》（“A Time 4 You 林峰演唱會”主題曲）、《Once Again》、《BB》、《同林》（微電影《愛在魅來1分鐘》主題曲），也收錄兩套電視劇《[雷霆掃毒](../Page/雷霆掃毒.md "wikilink")》的片尾曲《幼稚完》和《[回到三國](../Page/回到三國.md "wikilink")》主題曲《等你回來》；而其餘11首精選歌都是林峯親自從出道唱片《[愛在記憶中找你](../Page/愛在記憶中找你.md "wikilink")》至《[LF](../Page/LF_\(專輯\).md "wikilink")》之中選出的11首精選歌。
 
 ## 曲目列表

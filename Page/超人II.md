@@ -1,3 +1,6 @@
+> 本文内容由[超人II](https://zh.wikipedia.org/wiki/超人II)转换而来。
+
+
 《**超人II**》（），是一部於1980年上映的[超级英雄](../Page/超级英雄.md "wikilink")[科幻电影](../Page/科幻电影.md "wikilink")，为1978年《[超人](https://zh.wikipedia.org/wiki/超人_\(电影\) "wikilink")》的[续集](https://zh.wikipedia.org/wiki/续集 "wikilink")，主演[克里斯托弗·里夫](../Page/克里斯托弗·里夫.md "wikilink")，[金·哈克曼](../Page/金·哈克曼.md "wikilink")，[泰伦斯·史坦普](https://zh.wikipedia.org/wiki/泰伦斯·史坦普 "wikilink")，[尼德·巴蒂](https://zh.wikipedia.org/wiki/尼德·巴蒂 "wikilink")，[莎拉·道格拉斯](https://zh.wikipedia.org/wiki/莎拉·道格拉斯 "wikilink")，[玛戈·基德等](https://zh.wikipedia.org/wiki/玛戈·基德 "wikilink")。这是唯一一部由两位[导演](../Page/导演.md "wikilink")合作[制片完成的](https://zh.wikipedia.org/wiki/制片 "wikilink")[超人电影](https://zh.wikipedia.org/wiki/超人电影 "wikilink")。\[1\]\[2\]
 
 ## 劇情

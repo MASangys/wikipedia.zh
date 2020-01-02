@@ -1,3 +1,6 @@
+> 本文内容由[Braban! -The bonds of melody-](https://zh.wikipedia.org/wiki/Braban!_-The_bonds_of_melody-)转换而来。
+
+
 《**Braban\! -The bonds of melody-**》（）是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")在2006年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱「」，日文「」的縮寫，中文是指[管樂隊](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[BANG!](https://zh.wikipedia.org/wiki/BANG!)转换而来。
+
+
 《**BANG\!**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School發行的第](../Page/After_School.md "wikilink")3張韓語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")\[1\]，2010年3月25日由[Pledis Entertainment發售](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
 
 ## 概要

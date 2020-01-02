@@ -1,3 +1,6 @@
+> 本文内容由[长链非编码RNA数据库](https://zh.wikipedia.org/wiki/长链非编码RNA数据库)转换而来。
+
+
 **长链非编码RNA数据库**，又称**长链间隔区非编码RNA數據庫**、**lncRNA數據庫**，是收集了非编码[RNA及其相关](https://zh.wikipedia.org/wiki/RNA "wikilink")[表达模式的数据库](https://zh.wikipedia.org/wiki/表达模式 "wikilink")。[长链非编码RNA是当前生物学和医学研究的前沿领域和热点](https://zh.wikipedia.org/wiki/长链非编码RNA "wikilink")\[1\]\[2\]。
 
 ## 例子

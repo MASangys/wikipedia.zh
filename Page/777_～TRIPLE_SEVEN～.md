@@ -1,3 +1,6 @@
+> 本文内容由[777 ～TRIPLE SEVEN～](https://zh.wikipedia.org/wiki/777_～TRIPLE_SEVEN～)转换而来。
+
+
 《**777 ～TRIPLE SEVEN～**》是[AAA的第](../Page/AAA_\(團體\).md "wikilink")7張原創專輯。於2012年8月22日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

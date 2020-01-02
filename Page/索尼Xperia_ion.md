@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia ion](https://zh.wikipedia.org/wiki/索尼Xperia_ion)转换而来。
+
+
 [Sony_Xperia_Ion.JPG](https://zh.wikipedia.org/wiki/File:Sony_Xperia_Ion.JPG "fig:Sony_Xperia_Ion.JPG") **Sony Xperia ion**是[日本](../Page/日本.md "wikilink")電子公司[SONY於](https://zh.wikipedia.org/wiki/SONY "wikilink")2012年5月推出的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。（3G版本）但該機已在2012年2月時於[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[AT\&T](../Page/AT&T.md "wikilink")合作推出[4G LTE的版本](https://zh.wikipedia.org/wiki/LTE "wikilink")。
 
 ## 規格\[1\]

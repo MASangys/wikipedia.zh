@@ -1,3 +1,6 @@
+> 本文内容由[黑桃A \(遊戲\)](https://zh.wikipedia.org/wiki/黑桃A_\(遊戲\))转换而来。
+
+
 ，是一款[沙盒建造](https://zh.wikipedia.org/wiki/沙盒 "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")，玩家可以在一個[三維世界裡用各種方塊建造建築物抵禦敵方攻擊](https://zh.wikipedia.org/wiki/三維 "wikilink")，也可以攻擊對方。此遊戲由Ben Aksoy獨立開發。《Ace of Spades》基於網上伺服器平台。遊戲隊伍分為兩隊，藍隊和綠隊，玩家可以選擇加入[藍隊和](https://zh.wikipedia.org/wiki/Ace_of_Spades#.E9.9A.8A.E4.BC.8D "wikilink")[綠隊](https://zh.wikipedia.org/wiki/Ace_of_Spades#.E9.9A.8A.E4.BC.8D "wikilink")，再選擇[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")、[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")、[散彈槍](../Page/散彈槍.md "wikilink")。\[1\]每名玩家有100[生命值](../Page/生命值.md "wikilink")，生命值少於100時，可以到補給站補生命值。當玩家死亡時，需要等候時間重新遊戲。目前最新版本為[Beta版](https://zh.wikipedia.org/wiki/Beta版 "wikilink")0.76。
 
 最近被[Steam](../Page/Steam.md "wikilink")買下，推出全新版本《AOS》。由於遊戲地圖與《[當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilink")》相似，所以又被稱為「槍戰版當個創世神」\[2\]\[3\]

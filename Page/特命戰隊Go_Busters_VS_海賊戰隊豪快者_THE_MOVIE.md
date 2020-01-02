@@ -1,3 +1,6 @@
+> 本文内容由[特命戰隊Go Busters VS 海賊戰隊豪快者 THE MOVIE](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters_VS_海賊戰隊豪快者_THE_MOVIE)转换而来。
+
+
 《**特命戰隊Go Busters VS 海賊戰隊豪快者 THE MOVIE**》（），是2013年1月19日東映上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")**》和《**[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")**》的劇場版作品。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[All You Need Is Love](https://zh.wikipedia.org/wiki/All_You_Need_Is_Love)转换而来。
+
+
 《**All You Need Is Love**》為[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[披頭四的一首單曲](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，由[約翰·藍儂創作](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")\[1\]。當時[英國廣播公司邀請樂隊為英國寫一首曲](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")，樂隊在1967年6月25日的直播節目Our World中首次唱此曲，當時估計有26個國家4億人收看。歌曲也被收錄在專輯《[奇幻之旅](../Page/奇幻之旅.md "wikilink")》及在電影《[黃色潛水艇](https://zh.wikipedia.org/wiki/黃色潛水艇_\(電影\) "wikilink")》中。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Boys \(Summertime Love\)](https://zh.wikipedia.org/wiki/Boys_\(Summertime_Love\))转换而来。
+
+
 **《Boys (Summertime Love)》**是一首由[意大利](../Page/意大利.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/歌唱 "wikilink")[莎布琳娜·沙勒亞諾主唱的歌曲](https://zh.wikipedia.org/wiki/Sabrina_Salerno "wikilink")。這是她同名專輯裡的第三首[单曲](../Page/单曲.md "wikilink")，在很多國家取得第一名的單曲排行榜，包括[西班牙](../Page/西班牙.md "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、 [法国與](https://zh.wikipedia.org/wiki/法国 "wikilink")[意大利](../Page/意大利.md "wikilink")。這是莎布琳娜在[英国發行的第一首單曲](https://zh.wikipedia.org/wiki/英国 "wikilink")。這首歌曲曾經兩次以混音方式重新發行，1995年首次以《Boys '95》的單曲名稱在[法国當地發行](https://zh.wikipedia.org/wiki/法国 "wikilink")，2003年第二次以《Boys Boys Boys (The Dance Remixes)》再次發行。
 
 ## 音樂影片

@@ -1,3 +1,6 @@
+> 本文内容由[BMP-1步兵戰車](https://zh.wikipedia.org/wiki/BMP-1步兵戰車)转换而来。
+
+
 **BMP-1步兵戰車**是[蘇聯第一種](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[步兵戰鬥車](https://zh.wikipedia.org/wiki/步兵戰鬥車 "wikilink")，其設計是[輕型坦克和](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")[裝甲運兵車的結合](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")。
 
 [蘇聯陸軍](../Page/蘇聯陸軍.md "wikilink")自[第二次世界大戰開始即奉行大裝甲戰爭](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，以坦克組成裝甲師對敵國進行衝鋒的大縱深作戰，故此要求步兵要跟隨坦克一起行動，這也是裝甲運兵車出現的原因，尤其是冷戰期間蘇軍預計會和西方發生核子戰爭，故要求裝甲車輛可以運送士兵穿過核污染地帶直攻西歐，故在1966年蘇聯進一步推出BMP-1步兵戰鬥車。
@@ -172,7 +175,7 @@ BMP-1的主要缺點是主要火力的2A28滑膛炮所發射的炮彈初速低�
 
 ## 外部連結
 
-  - [蘇聯BMP-1步兵戰車](http://www.airforceworld.com/tank/bbzc/bbzc099.htm)
+  - [蘇聯BMP-1步兵戰車](https://web.archive.org/web/20121227002349/http://www.airforceworld.com/tank/bbzc/bbzc099.htm)
 
   - [RUSSIAN BMP-1 Mechanised Infantry Combat Vehicle – Walk around photos](https://web.archive.org/web/20070210083430/http://www.thetankmaster.com/ENGLISH/AFV/bmp-1_01.asp)
 

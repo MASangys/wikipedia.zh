@@ -1,3 +1,6 @@
+> 本文内容由[飄忽s-](https://zh.wikipedia.org/wiki/飄忽s-)转换而来。
+
+
 [印歐語學中的](https://zh.wikipedia.org/wiki/印歐語學 "wikilink")**飄忽s-**（s-mobile；“mobile”讀作，為[拉丁語中性形容詞](https://zh.wikipedia.org/wiki/拉丁語變格 "wikilink")）是指一些構擬的[原始印歐語詞根](../Page/原始印歐語詞根.md "wikilink")中可有可無的前綴結構。之所以稱其可有可無，是因為它在一些後代語言中被保留，在另一些後代語言中則無存在的痕跡。
 
 ## 概述

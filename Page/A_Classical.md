@@ -1,3 +1,6 @@
+> 本文内容由[A Classical](https://zh.wikipedia.org/wiki/A_Classical)转换而来。
+
+
 \-{T|A Classical}-
 
 《**A Classical**》（A 古典精選）是日本歌手濱崎步的古典混音專輯，同時是15週年連續發行計畫的第三項，本作於2013年1月8日發行，至2013年4月8日濱崎步出道15週年為止，每一個月會發行另外一張作品，共計五作。

@@ -1,3 +1,6 @@
+> 本文内容由[蛇夫座Y](https://zh.wikipedia.org/wiki/蛇夫座Y)转换而来。
+
+
 **蛇夫座Y**，又名**BD-06 4672**，**HD 162714**、**SAO 141926**、**HR 6661**，是[蛇夫座](../Page/蛇夫座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.21，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")20.6，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")10.12，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

@@ -1,3 +1,6 @@
+> 本文内容由[BMP-2步兵戰車](https://zh.wikipedia.org/wiki/BMP-2步兵戰車)转换而来。
+
+
 **BMP-2步兵戰鬥車**是[BMP-1步兵戰車](../Page/BMP-1步兵戰車.md "wikilink")的改良型，是為了針對BMP-1在火力和車長位置的不當，1982年首次在莫斯科紅場的閱兵當中出場。
 
 ## 基本資料
@@ -141,7 +144,7 @@
 
 ## 外部連結
 
-  - [蘇聯BMP-2步兵戰車](http://www.airforceworld.com/tank/bbzc/bbzc100.htm)
+  - [蘇聯BMP-2步兵戰車](https://web.archive.org/web/20121227002522/http://www.airforceworld.com/tank/bbzc/bbzc100.htm)
 
 [Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
 

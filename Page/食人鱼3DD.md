@@ -1,3 +1,6 @@
+> 本文内容由[食人鱼3DD](https://zh.wikipedia.org/wiki/食人鱼3DD)转换而来。
+
+
 《**食人鱼3DD**》（）是2012年5月11日上映于[美国](../Page/美国.md "wikilink")的[科幻片和](https://zh.wikipedia.org/wiki/科幻片 "wikilink")[恐怖片](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")，前集是《[食人鱼3D](../Page/食人鱼3D.md "wikilink")》。
 
 ## 剧情

@@ -1,3 +1,6 @@
+> 本文内容由[ALL SINGLES BEST 2](https://zh.wikipedia.org/wiki/ALL_SINGLES_BEST_2)转换而来。
+
+
 《**ALL SINGLES BEST 2**》是日本樂團[可苦可樂](../Page/可苦可樂.md "wikilink")的第二張精選輯。2012年9月5日發行。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[AMD Piledriver](https://zh.wikipedia.org/wiki/AMD_Piledriver)转换而来。
+
+
 **AMD Piledriver**（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：“**AMD 打樁機**”\[1\]）是[超微半導體研發](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[微處理器架構的代號](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，是為第一代[Bulldozer](../Page/AMD_Bulldozer.md "wikilink")[微架構](../Page/微架構.md "wikilink")的改進版。\[2\]\[3\]首發產品是2012年5月發布的基於Piledriver微架構的[AMD Fusion之流動版本A](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")10、A8系列（核心代號“[Trinity](../Page/三位一體.md "wikilink")”）。Piledriver在架構上不會與Bulldozer有太大的差別，而部分國外科技媒體則稱它為「New Stepping of Bulldozer」，是步進比較新的Bulldozer\[4\]。給人一種「只對耗電問題解決，並在某些方面的改良當中讓時脈變得更好提升。\[5\]
 
 2010年超微半導體的[財務分析日上](https://zh.wikipedia.org/wiki/財務分析 "wikilink")，公佈了2012年第二代Bulldozer微架構的計劃事宜\[6\]，指出它是“增強型Bulldozer”微架構；後來這個微架構被賦予了代號“Piledriver”。Piledriver相對於第一代Bulldozer微架構的主要改進在於提升每[時鐘週期的](https://zh.wikipedia.org/wiki/時鐘週期 "wikilink")[指令執行效能](https://zh.wikipedia.org/wiki/指令 "wikilink")、提升[時鐘頻率](https://zh.wikipedia.org/wiki/時鐘頻率 "wikilink")、提高效能功耗比率和降低發熱量。\[7\]和Bulldozer微架構不同的是，Piledriver微架構還將會有流動平台型號的處理器，部分型號還內建[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")。 同頻率下單核心效能約Phenom II(K10.5架構)的0.8\~0.85之間。

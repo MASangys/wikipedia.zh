@@ -1,3 +1,6 @@
+> 本文内容由[Albina -Assorted Kudwaf Songs-](https://zh.wikipedia.org/wiki/Albina_-Assorted_Kudwaf_Songs-)转换而来。
+
+
 《**Albina -Assorted Kudwaf Songs-**》是将[Key的成人](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[PC游戏](https://zh.wikipedia.org/wiki/PC游戏 "wikilink")《[Kud Wafter](../Page/Kud_Wafter.md "wikilink")》原声带中的部分乐曲重新编曲而成的一枚专辑。2010年12月29日由[Key Sounds Label品牌的名义在](../Page/Key_Sounds_Label.md "wikilink")[C79限定发售](../Page/Comic_Market.md "wikilink")。发售公司为[Visual Art's](../Page/Visual_Art's.md "wikilink")，编号为KSLA-0066。\[1\]
 
 本专辑是《[Kud Wafter](../Page/Kud_Wafter.md "wikilink")》初回限定版附赠的特典《[Kud Wafter Original SoundTrack](../Page/Kud_Wafter_Original_SoundTrack.md "wikilink")》（以下简称SoundTrack）中的歌曲重新编曲，并配词演唱而成的专辑。限定版全部10首曲子中有4首是配词演唱版的。专辑中所有的音源都来自现场演奏。本专辑中改编的曲目是根据网络上的投票选出的。\[2\]

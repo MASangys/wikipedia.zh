@@ -1,3 +1,6 @@
+> 本文内容由[Best Show](https://zh.wikipedia.org/wiki/Best_Show)转换而来。
+
+
 《**Best Show**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")於2007年11月2日推出的首張國語[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，收錄了羅志祥在[艾迴音樂時期](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")（2003-2006）所發行的四張專輯的歌曲。這張由艾迴音樂發行的精選輯共推出了兩個版本，分別是Best Show勁舞天王版及Best Show最愛珍藏版，各版本均附有CD+DVD。\[1\]\[2\]兩個版本都收錄了十五首精選歌曲，但額外附贈的一首混音歌曲及DVD內容則不相同。
 
 ## 曲目

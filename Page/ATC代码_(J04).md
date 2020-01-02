@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(J04\)](https://zh.wikipedia.org/wiki/ATC代码_\(J04\))转换而来。
+
+
 ## J04A 顿挫性[结核治疗用药](https://zh.wikipedia.org/wiki/结核 "wikilink")（Drugs for treatment of tuberculosis）
 
 ### J04AA [氨基水杨酸及其衍生物类](https://zh.wikipedia.org/wiki/氨基水杨酸 "wikilink")（Aminosalicylic acid and derivatives）
