@@ -1,3 +1,6 @@
+> 本文内容由[微軟Office專家](https://zh.wikipedia.org/wiki/微軟Office專家)转换而来。
+
+
 [MOS_logo.gif](https://zh.wikipedia.org/wiki/File:MOS_logo.gif "fig:MOS_logo.gif") [Mous_logo.gif](https://zh.wikipedia.org/wiki/File:Mous_logo.gif "fig:Mous_logo.gif") **微軟Office專家**（，簡稱**MOS**，舊稱**Microsoft Office User Specialist**）是微軟針對[Microsoft Office系列軟體所發展的一種認證](../Page/Microsoft_Office.md "wikilink")，為微軟認證的一個分支，其認可標的是針對使用Office各類軟體的使用者，由於MOS是國際性且係由微軟官方提出的認證，因此在全球受到許多國家的認可。此認證由Office 95開始出現\[1\]，經由Office 97, 2000, XP, 2003, 2007, 2010,2013等版本，認證與考試的模型已經發展的相當成熟。全球目前取得MOS認證的人數已超過250萬人\[2\]。
 
 目前，MOS認證最新版本為2016。

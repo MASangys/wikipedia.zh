@@ -1,3 +1,6 @@
+> 本文内容由[峴港SHB足球俱樂部](https://zh.wikipedia.org/wiki/峴港SHB足球俱樂部)转换而来。
+
+
 **峴港SHB足球俱樂部**（） 是[越南足球俱乐部](https://zh.wikipedia.org/wiki/越南 "wikilink")，位于[岘港](https://zh.wikipedia.org/wiki/岘港 "wikilink")。俱乐部创建于1976年，属于越南足球联赛中的顶级联赛球队，球队主体育场为支朗体育场（San Chi Lang）。
 
 俱乐部在2006赛季最近一次闯入过[亚洲冠军联赛](https://zh.wikipedia.org/wiki/亚洲冠军联赛 "wikilink")，尽管表现只能称得上惨败（包括平记录的0-15惨败给日本联赛球队[大阪飞脚](https://zh.wikipedia.org/wiki/大阪飞脚 "wikilink")），最终在和[全北现代](https://zh.wikipedia.org/wiki/全北现代 "wikilink")、[大阪飞脚](https://zh.wikipedia.org/wiki/大阪飞脚 "wikilink")、[大连实德小组赛中](https://zh.wikipedia.org/wiki/大连实德 "wikilink")6战全败垫底被淘汰。

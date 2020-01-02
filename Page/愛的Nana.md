@@ -1,3 +1,6 @@
+> 本文内容由[愛的Nana](https://zh.wikipedia.org/wiki/愛的Nana)转换而来。
+
+
 《**愛的Nana**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")-{[于浩威](../Page/于浩威.md "wikilink")}-的國語專輯。這大碟是他唯一一張專輯，在2006年9月22日由[大聲音樂製作](https://zh.wikipedia.org/wiki/大聲音樂 "wikilink")，[科藝百代發行](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。專輯中第一主打是《Nana》，第二主打則是《游泳的魚》。其後他因科藝百代人事變動及遭併購為[金牌大風而被解約](../Page/金牌大風_\(台灣\).md "wikilink")。
 
 ## 曲目

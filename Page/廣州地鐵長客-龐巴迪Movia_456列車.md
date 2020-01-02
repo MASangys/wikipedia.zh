@@ -1,3 +1,6 @@
+> 本文内容由[廣州地鐵長客-龐巴迪Movia 456列車](https://zh.wikipedia.org/wiki/廣州地鐵長客-龐巴迪Movia_456列車)转换而来。
+
+
 **廣州地鐵長客-龐巴迪Movia 456列車**\[1\]\[2\]是[广州地铁](../Page/广州地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，內部型號為**A2**（首批26列）、**A3**（增購8列）。該款列車目前分別在[1号线](../Page/广州地铁1号线.md "wikilink")、[8号线運營](../Page/广州地铁8号线.md "wikilink")。
 
 ## 概要

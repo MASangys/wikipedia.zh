@@ -1,3 +1,6 @@
+> 本文内容由[我們的音樂 Our Music](https://zh.wikipedia.org/wiki/我們的音樂_Our_Music)转换而来。
+
+
 《**我們的音樂 Our Music**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[系列自](https://zh.wikipedia.org/wiki/富士網 "wikilink")2004年4月3日播放的深夜音樂節目。[草彅剛](../Page/草彅剛.md "wikilink")擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。[索尼音樂單獨贊助](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")。
 
 是以現場演奏為中心，製作精緻的純粹音樂節目，加上音樂人與特別嘉賓之間的訪談。節目的主旨是打造一個「不搞笑的音樂節目」，儘管[收視率一直不高](https://zh.wikipedia.org/wiki/收視率 "wikilink")，但受到音樂業界和年輕觀眾很高的評價。收視率最高的一集是2007年3月23日播放的「[Mr.Children](../Page/Mr.Children.md "wikilink")×[阿木燿子](../Page/阿木燿子.md "wikilink")」（13.1%）。

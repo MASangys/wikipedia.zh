@@ -1,3 +1,6 @@
+> 本文内容由[幻想萬華鏡 \~The Memories Of Phantasm\~](https://zh.wikipedia.org/wiki/幻想萬華鏡_\~The_Memories_Of_Phantasm\~)转换而来。
+
+
 《**幻想萬華鏡**》，全名《**幻想萬華鏡 \~The Memories Of Phantasm\~**》，是同人社團[滿福神社創作的](https://zh.wikipedia.org/wiki/滿福神社 "wikilink")[東方Project二次創作同人動畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")，於2011年開始推出，其音樂由[幽閉星光](../Page/幽閉星光.md "wikilink")負責制作。
 
 本動畫並非東方的官方動畫化，亦不是商業動畫，現時只有《春雪異變章》,《紅霧異變章（前篇）》,《紅霧異變章（中篇）》,《紅霧異變章（後篇）》,《花之異變之章（前篇）》,《花之異變之章（後篇）》，《巨大妖怪傳說之章》，《永夜異變之章（前篇）》，《永夜异变之章（中篇）》，《永夜异变之章（后篇①）》，《永夜异变之章（后篇②）》，《試膽大會之章（前篇）》，《試膽大會之章（后篇）》十三話，除此之外的其他僅為[PV](../Page/音樂錄影帶.md "wikilink")。儘管如此，《春雪異變章》在發佈前即被東方Project愛好者賦與了很高的期望，其音樂亦受到不少好評\[1\]。

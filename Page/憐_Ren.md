@@ -1,3 +1,6 @@
+> 本文内容由[憐 Ren](https://zh.wikipedia.org/wiki/憐_Ren)转换而来。
+
+
 《**憐 Ren**》是[水口敬文撰寫](https://zh.wikipedia.org/wiki/水口敬文 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")，由[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")出版，中文版則由[台灣角川](../Page/台灣角川.md "wikilink")出版發行。
 
 本作為第九屆[Sneaker大賞](../Page/Sneaker大賞.md "wikilink")獎勵賞得獎作品，投稿時的標題為《》。

@@ -1,3 +1,6 @@
+> 本文内容由[心跳回憶 Girl\'s Side 2nd Kiss](https://zh.wikipedia.org/wiki/心跳回憶_Girl\'s_Side_2nd_Kiss)转换而来。
+
+
 《**心跳回憶 Girl's Side 2nd Kiss**》（）是[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")在2006年8月3日發售的女性向[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS2」，是《[心跳回憶 Girl's Side 系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第2彈。舞台是跟前作一樣是振翅市，不過主人公就讀的學校變成了「羽崎学園」。
 
 2007年3月15日發售[PC版打字遊戲](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")《心跳回憶 Girl's Side 2nd Kiss Typing》。而在2008年2月14日發售[任天堂DS](../Page/任天堂DS.md "wikilink")版戀愛模擬遊戲《心跳回憶 Girl's Side 2nd Season》，並增加新角色和新元素。

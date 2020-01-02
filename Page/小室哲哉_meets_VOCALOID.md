@@ -1,3 +1,6 @@
+> 本文内容由[小室哲哉 meets VOCALOID](https://zh.wikipedia.org/wiki/小室哲哉_meets_VOCALOID)转换而来。
+
+
 **《小室哲哉 meets VOCALOID》**（**こむろてつや ミーツ ボーカロイド**）是由[Avex trax於](../Page/Avex_trax.md "wikilink")2012年3月28日發行的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。作者[小室哲哉](../Page/小室哲哉.md "wikilink")本人認可，以[VOCALOID](../Page/VOCALOID.md "wikilink")[翻唱其所創作的經典歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
 ## 收錄曲
