@@ -1,3 +1,6 @@
+> 本文内容由[Wimmersperg Spz-kr](https://zh.wikipedia.org/wiki/Wimmersperg_Spz-kr)转换而来。
+
+
 **Spz-kr**是一種由[納粹德國](../Page/納粹德國.md "wikilink")於1945年二戰末期製造的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍與[VG1-5](https://zh.wikipedia.org/wiki/VG1-5 "wikilink")，[STG45（M）和](../Page/StG45突擊步槍.md "wikilink")[MP 3008一樣皆是屬於](https://zh.wikipedia.org/wiki/MP_3008 "wikilink")“最後一搏”系列的武器。
 
 ## 概述

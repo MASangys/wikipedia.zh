@@ -1,3 +1,6 @@
+> 本文内容由[Special! Best Mini ～2.5張的他～](https://zh.wikipedia.org/wiki/Special!_Best_Mini_～2.5張的他～)转换而来。
+
+
 「**Special\! Best Mini ～2.5張的他～**」（スッペシャル\!ベストミニ〜2.5枚目の彼〜）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第1枚迷你專輯。於2005年12月7日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

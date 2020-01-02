@@ -1,3 +1,6 @@
+> 本文内容由[索尼Tablet](https://zh.wikipedia.org/wiki/索尼Tablet)转换而来。
+
+
 **Sony Tablet**是[索尼](../Page/索尼.md "wikilink")旗下的[平板電腦](../Page/平板電腦.md "wikilink")品牌，搭載[Android](../Page/Android.md "wikilink")作業系統。\[1\]\[2\]
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Sherlock \(專輯\)](https://zh.wikipedia.org/wiki/Sherlock_\(專輯\))转换而来。
+
+
 《**Sherlock**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee](../Page/SHINee.md "wikilink")第四張迷你專輯，音源於2012年3月19日發佈，而實體鎖售於2012年3月21日開始。專輯為韓國三月份最高銷量專輯，gaon公佈的統計數據紀錄於三月份《**Sherlock**》總售出135,370份，其中主打歌曲《Sherlock (Clue + Note)》在韓國音源下載榜佔據五星期一位。《**Sherlock**》亦於2012年3月27日登上[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink") "Weekly Heatseekers Albums" 第十位及[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink") "Weekly World Albums"第五位。
 
 ## 專輯簡介

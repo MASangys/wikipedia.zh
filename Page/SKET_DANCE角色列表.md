@@ -1,3 +1,6 @@
+> 本文内容由[SKET DANCE角色列表](https://zh.wikipedia.org/wiki/SKET_DANCE角色列表)转换而来。
+
+
 **SKET DANCE角色列表**是[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[SKET DANCE](../Page/SKET_DANCE.md "wikilink")》中登場角色的概覽。
 
   - <small>備註：條目中有關日本配音員的資料，左面顯示的為廣播劇CD的配音、右面顯示的為電視動畫的配音。電視動畫中設定的角色出生年份，較原著漫畫的設定晚兩年。台灣及香港則紀錄Animax版本的配音員資料。</small>

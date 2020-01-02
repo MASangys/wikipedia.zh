@@ -1,3 +1,6 @@
+> 本文内容由[西瓜BABY](https://zh.wikipedia.org/wiki/西瓜BABY)转换而来。
+
+
 《**西瓜BABY**》是[Not yet的第](../Page/Not_yet.md "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月30日由[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")發行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[LIPSTICK](https://zh.wikipedia.org/wiki/LIPSTICK)转换而来。
+
+
 《**LIPSTICK**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[橙子焦糖](../Page/橙子焦糖.md "wikilink")的第1张正規韓語專輯，於2012年9月12日發行。唱片公司為[Pledis Entertainment](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Virginity](https://zh.wikipedia.org/wiki/Virginity)转换而来。
+
+
 《**Virginity**》（）是[日本](../Page/日本.md "wikilink")女子[偶像組合](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48](../Page/NMB48.md "wikilink")的第5張[單曲唱片作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月8日由[吉本R\&C旗下的唱片品牌](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")[laugh out loud\! records發行](https://zh.wikipedia.org/wiki/laugh_out_loud!_records "wikilink")。
 
 ## 概要

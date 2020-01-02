@@ -1,3 +1,6 @@
+> 本文内容由[貝瑞塔Mx4 Storm衝鋒槍](https://zh.wikipedia.org/wiki/貝瑞塔Mx4_Storm衝鋒槍)转换而来。
+
+
 **貝瑞塔Mx4 Storm**（）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")為軍事用途和[執法機關使用而研製和生產的](../Page/警察.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，是[貝瑞塔Cx4 Storm的短槍管全自動軍警用型版本](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 貝瑞塔Mx4 Storm在2011年[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")的「[國際防務展覽及會議](../Page/阿布扎比国际防务展.md "wikilink")」（IDEX，）以上首度展出。

@@ -1,3 +1,6 @@
+> 本文内容由[Xposed](https://zh.wikipedia.org/wiki/Xposed)转换而来。
+
+
 《-{**Xposed**}-》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")（G.E.M.）推出的第四張[音樂專輯](../Page/音樂專輯.md "wikilink")，亦是G.E.M.事隔兩年後推出的唱片，平裝版於2012年7月5日發售，而限量紀念版則延至7月10日才推出\[1\]。首個香港《-{**Xposed**}-》專輯簽唱會於7月8日在[apm舉行](https://zh.wikipedia.org/wiki/apm "wikilink")，[臺北](../Page/臺北.md "wikilink")售票音樂會則於7月27日在河岸留言舉行\[2\]。此外，這張大碟亦為首批登陸[iTunes的華語唱片之一](https://zh.wikipedia.org/wiki/iTunes "wikilink")，並於專輯正式發行前一週供用戶購買下載\[3\]。鄧紫棋憑此輯奪得[2012年度IFPI香港唱片銷量大獎全年最高銷量國語唱片及全年最高銷量本地女歌手](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2012 "wikilink")，並入圍了[第24屆金曲獎](../Page/第24屆金曲獎.md "wikilink")最佳國語女歌手。本专辑在[中国大陆](../Page/中国大陆.md "wikilink")使用的名称为《-{**曝光**}-》\[4\]。
 
 ## 專輯簡介

@@ -1,4 +1,7 @@
-**Whoscall**是一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Naver集團收購](../Page/Naver_\(公司\).md "wikilink")[台灣Gogolook公司所開發的應用程式服務](https://zh.wikipedia.org/wiki/台灣 "wikilink")。該服務可透過電話[黃頁](../Page/黃頁.md "wikilink")[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，協助使用者辨識陌生來電，包括來電者所使用之電信公司以及撥號地區，並擁有[社群服務](https://zh.wikipedia.org/wiki/社群 "wikilink")，以及[黑名單](../Page/黑名單.md "wikilink")功能。產品取名靈感來自於英文「」的縮寫。目前可服務範圍包括[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[印度](../Page/印度.md "wikilink")等31個國家或地區。\[1\]
+> 本文内容由[Whoscall](https://zh.wikipedia.org/wiki/Whoscall)转换而来。
+
+
+**Whoscall**是一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Naver集團收購](../Page/Naver_\(公司\).md "wikilink")[台灣Gogolook公司所開發的應用程式服務](https://zh.wikipedia.org/wiki/台灣 "wikilink")。該服務可透過電話[黃頁](../Page/黃頁.md "wikilink")[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，協助使用者辨識陌生來電，包括來電者所使用之電信公司以及撥號地區，並擁有[社群服務](https://zh.wikipedia.org/wiki/社群 "wikilink")，以及[黑名單](../Page/黑名單.md "wikilink")功能。產品取名靈感來自於英文「」的縮寫。目前可服務範圍包括[中華民國](../Page/中華民國.md "wikilink")（臺灣）、[香港](../Page/香港.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[印度](../Page/印度.md "wikilink")等31個國家或地區。\[1\]
 
 應用程式也提供離線資料庫，包括[黃頁](../Page/黃頁.md "wikilink")資料庫和警示資料庫，讓使用者在無[網路環境也能辨識](https://zh.wikipedia.org/wiki/網路 "wikilink")[資料庫中提供之號碼](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。\[2\]\[3\]
 
@@ -673,113 +676,59 @@ Whoscall 於2014年1月7日將[Android](../Page/Android.md "wikilink")版App改�
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [版本v3.7.0上架](http://www.whoscall.com/tw/share2get100/)
-
 6.  [版本v3.7.4【whoscall-離線版】上架](http://www.whoscall.com/tw/【whoscall-離線版】帥氣上架。離線版讓您沒網路也可以/)
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.  ETtoday 東森新聞雲|accessdate=2016-08-11|last=新聞雲|first=ETtoday|language=zh-TW}}
-
 30.
-
 31.  Facebook|accessdate=2016-12-19|work=www.facebook.com}}
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.  Facebook|accessdate=2016-12-19|work=www.facebook.com}}
-
 41.  中央社訊息平台|accessdate=2016-12-14}}
-
 42.  Facebook|accessdate=2016-12-19|work=www.facebook.com}}
-
 43.
-
 44.
-
 45.
-
 46.
 47.
 48.
-
 49.
-
 50.
-
 51. [波卡數據爆隱私爭議　WhosCall解釋是因... 文/劉人豪|Apple Daily](http://www.appledaily.com.tw/realtimenews/article/new/20150905/685384/)
-
 52.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.

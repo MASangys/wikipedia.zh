@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(V06\)](https://zh.wikipedia.org/wiki/ATC代码_\(V06\))转换而来。
+
+
 ## V06A 治疗肥胖症的食谱（Diet formulations for treatment of obesity）
 
 ### V06AA 低能量食谱（Low-energy diets）

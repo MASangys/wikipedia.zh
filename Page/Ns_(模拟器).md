@@ -1,3 +1,6 @@
+> 本文内容由[Ns \(模拟器\)](https://zh.wikipedia.org/wiki/Ns_\(模拟器\))转换而来。
+
+
 | released = \[1\] | latest release version = 0.18.2 | latest release date = \[2\] | latest preview version = Mercurial 目录\[3\] | latest preview date = | programming language = [C++](../Page/C++.md "wikilink")（主要）[Python](../Page/Python.md "wikilink")（绑定） | operating system = [GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink"), [FreeBSD](../Page/FreeBSD.md "wikilink"), [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") | platform = [IA-32](https://zh.wikipedia.org/wiki/IA-32 "wikilink"), [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") | status = 活跃 | genre = [网络模拟](https://zh.wikipedia.org/wiki/网络模拟 "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =  }}
 
 **ns**（来源于“network simulator”）是一系列[离散事件](https://zh.wikipedia.org/wiki/离散事件仿真 "wikilink")[网络模拟器](https://zh.wikipedia.org/wiki/网络模拟器 "wikilink")，包括**ns-1**、**ns-2**和**ns-3**。他们主要应用于研究\[4\]和教学。ns-3是[自由软件](../Page/自由软件.md "wikilink")，以GNU GPLv2协议分发。

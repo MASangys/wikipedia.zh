@@ -1,3 +1,6 @@
+> 本文内容由[MP3 Surround](https://zh.wikipedia.org/wiki/MP3_Surround)转换而来。
+
+
 [5_1_channels_(surround_sound)_label.svg](https://zh.wikipedia.org/wiki/File:5_1_channels_\(surround_sound\)_label.svg "fig:5_1_channels_(surround_sound)_label.svg") **MP3 Surround**是[MP3](../Page/MP3.md "wikilink")的一个包含支持[5.1环绕立体声的多通道音频扩展](https://zh.wikipedia.org/wiki/环绕立体声 "wikilink") 。它是由[弗劳恩霍夫IIS与](../Page/弗劳恩霍夫协会.md "wikilink")[汤姆逊和](https://zh.wikipedia.org/wiki/法国汤姆逊集团 "wikilink")[杰尔系统](../Page/杰尔系统.md "wikilink")合作开发，并在2004年12月发布的。\[1\]\[2\]\[3\]
 
 ## 概述

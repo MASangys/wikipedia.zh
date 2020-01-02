@@ -1,3 +1,6 @@
+> 本文内容由[MT Framework](https://zh.wikipedia.org/wiki/MT_Framework)转换而来。
+
+
 **MT Framework**是一款由日本著名游戏软件厂商[卡普空](../Page/卡普空.md "wikilink")（Capcom）为[第七世代游戏主机开发的](https://zh.wikipedia.org/wiki/電子遊戲歷史#.E7.AC.AC.E4.B8.83.E6.9C.9F_.282005.E2.80.932013.29 "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。卡普空将该引擎主要用于[PlayStation 3平台](../Page/PlayStation_3.md "wikilink")、[Xbox 360平台和](../Page/Xbox_360.md "wikilink")[Microsoft Windows平台上的游戏开发](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，也有为[Wii](../Page/Wii.md "wikilink")特别开发了相应的版本；除此以外，基于MT Framework核心技术的**MT Framework Mobile**引擎被用于[任天堂3DS](../Page/任天堂3DS.md "wikilink")和[PlayStation Vita等掌机平台游戏及智能手机游戏上](../Page/PlayStation_Vita.md "wikilink")。\[1\]
 
 MT Framework中的“MT”可以表示“Multi-Thread”（多线程）、“Meta Tools”（元工具）以及“Multi-Target”（多目标）。使用MT Framework引擎制作的游戏最初都是在PC上进行开发，然后再转移到PlayStation 3和Xbox 360的开发机上继续。卡普空的前游戏制作人[稻船敬二](../Page/稻船敬二.md "wikilink")曾在接受美国游戏媒体1UP时介绍到：MT Framework的首席程序员在打造这款游戏引擎时，专门为《[丧尸围城](https://zh.wikipedia.org/wiki/丧尸围城 "wikilink")》，《[失落的星球：极限状态](../Page/失落的星球：极限状态.md "wikilink")》和稻船自己已准备多时的《[洛克人 DASH 3](https://zh.wikipedia.org/wiki/洛克人_DASH_3_計畫 "wikilink")》（后取消开发）所准备的。\[2\]
@@ -304,7 +307,7 @@ MT Framework中的“MT”可以表示“Multi-Thread”（多线程）、“Met
   - ["Capcom's Kobayashi Talks MT Framework, Multi-SKU DMC4 Development"](http://gamasutra.com/php-bin/news_index.php?story=16611)
   - ["Capcom brings MT Framework to Wii"](http://archive.is/20130101232215/www.andriasang.com//e/blog/2009/10/26/mt_framework_wii/)
   - [西川善司の3Dゲームファンのための「ロスト プラネット」グラフィックス講座](http://game.watch.impress.co.jp/docs/20070131/3dlp.htm)
-  - [新清士のゲームスクランブル ようやく米国に追いついてきた日本のゲーム開発環境](http://it.nikkei.co.jp/digital/column/gamescramble.aspx?ichiran=True&n=MMITew000004092006)
+  - [新清士のゲームスクランブル ようやく米国に追いついてきた日本のゲーム開発環境](https://web.archive.org/web/20071021110949/http://it.nikkei.co.jp/digital/column/gamescramble.aspx?ichiran=True&n=MMITew000004092006)
   - [西川善司の3Dゲームファンのための「ロスト プラネット 2」グラフィックス講座(前編)](http://game.watch.impress.co.jp/docs/series/3dcg/20100910_392952.html)
   - [西川善司の3Dゲームファンのための「ロスト プラネット 2」グラフィックス講座(後編)](http://game.watch.impress.co.jp/docs/series/3dcg/20100913_393420.html)
 

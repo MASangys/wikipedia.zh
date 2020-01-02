@@ -1,3 +1,6 @@
+> 本文内容由[Music Café節目列表 \(2012年\)](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2012年\))转换而来。
+
+
 <div id="contentSub">
 
 <span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - 2012年** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")** - **[2020年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2020年\) "wikilink")**</span>

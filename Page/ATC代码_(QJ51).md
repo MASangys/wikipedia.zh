@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(QJ51\)](https://zh.wikipedia.org/wiki/ATC代码_\(QJ51\))转换而来。
+
+
 ## QJ51A 用于乳房内的[四环素类药物](https://zh.wikipedia.org/wiki/四环素 "wikilink")（Tetracyclines for intramammary use）
 
 ### QJ51AA 四环素类药物（Tetracyclines）

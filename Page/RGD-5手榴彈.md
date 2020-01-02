@@ -1,3 +1,6 @@
+> 本文内容由[RGD-5手榴彈](https://zh.wikipedia.org/wiki/RGD-5手榴彈)转换而来。
+
+
 [Grenade_RGD-5_Navy.jpg](https://zh.wikipedia.org/wiki/File:Grenade_RGD-5_Navy.jpg "fig:Grenade_RGD-5_Navy.jpg") [RGD5_b.jpg](https://zh.wikipedia.org/wiki/File:RGD5_b.jpg "fig:RGD5_b.jpg")未引爆的RGD-5手榴彈\]\]
 
 **RGD-5**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Ручная Граната, Дистанционная，[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：遠程手榴彈）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[二戰後研製的一種](https://zh.wikipedia.org/wiki/二戰 "wikilink")[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")，並在1954年起列裝[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")。至今，RGD-5仍然在許多前蘇聯繼承國和[阿拉伯國家中服役](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")。

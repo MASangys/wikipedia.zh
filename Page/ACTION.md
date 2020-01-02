@@ -1,3 +1,6 @@
+> 本文内容由[ACTION](https://zh.wikipedia.org/wiki/ACTION)转换而来。
+
+
 《**ACTION**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十六张录音室专辑。2007年12月5日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約44萬張。

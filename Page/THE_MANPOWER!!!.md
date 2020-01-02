@@ -1,3 +1,6 @@
+> 本文内容由[THE MANPOWER!!!](https://zh.wikipedia.org/wiki/THE_MANPOWER!!!)转换而来。
+
+
 「**THE MANPOWER\!\!\!**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第25张[单曲](../Page/单曲.md "wikilink")，於2005年1月19日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

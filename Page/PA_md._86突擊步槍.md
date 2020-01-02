@@ -1,3 +1,6 @@
+> 本文内容由[PA md. 86突擊步槍](https://zh.wikipedia.org/wiki/PA_md._86突擊步槍)转换而来。
+
+
 **1986年型5.45毫米自動步槍**（[羅馬尼亞語](../Page/羅馬尼亞語.md "wikilink")：Pușca Automată, calibrul 5,45 mm, Model 1986，簡稱：PA md. 86）是一款由[羅馬尼亞](../Page/羅馬尼亞.md "wikilink")研製的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，至今仍為[羅馬尼亞軍隊的制式步槍](https://zh.wikipedia.org/wiki/羅馬尼亞軍隊 "wikilink")。
 
 該槍的出口版本被命名為「AIMS-74」。

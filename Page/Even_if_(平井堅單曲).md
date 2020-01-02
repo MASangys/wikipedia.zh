@@ -1,3 +1,6 @@
+> 本文内容由[Even if \(平井堅單曲\)](https://zh.wikipedia.org/wiki/Even_if_\(平井堅單曲\))转换而来。
+
+
 《**even if**》（即使），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2000年12月6日發行。
 
 ## 概述

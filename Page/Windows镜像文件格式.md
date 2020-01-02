@@ -1,3 +1,6 @@
+> 本文内容由[Windows镜像文件格式](https://zh.wikipedia.org/wiki/Windows镜像文件格式)转换而来。
+
+
 **Windows 映像文件格式**（）是一个基于[文件的](https://zh.wikipedia.org/wiki/文件 "wikilink")[磁盘映像](../Page/磁盘映像.md "wikilink")[格式](https://zh.wikipedia.org/wiki/格式 "wikilink")。它由[微软公司设计且发布于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Windows Vista及其之后的Windows](../Page/Windows_Vista.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，用来支持他们的一部分标准安装过程。它与旧版Windows操作系统兼容良好，且部分用于[Windows Fundamentals for Legacy PCs中](../Page/Windows_Fundamentals_for_Legacy_PCs.md "wikilink")。\[1\]。
 
 ## 设计

@@ -1,3 +1,6 @@
+> 本文内容由[AMD Steamroller](https://zh.wikipedia.org/wiki/AMD_Steamroller)转换而来。
+
+
 **Steamroller微架構**，超微在發布AMD Bulldozer微架構時表示Bulldozer架構實現“一年一改進”，2011年發布首代Bulldozer架構，2012年發布第二代『增強型』Bulldozer架構（即Piledriver架構），2013年/2014年推出第三代Bulldozer架構（即Steamroller架構），2015年/2016年推出第四代Bulldozer架構（即Excavator架構）。\[1\]\[2\]
 
 ### 第三代Bulldozer架構：Steamroller

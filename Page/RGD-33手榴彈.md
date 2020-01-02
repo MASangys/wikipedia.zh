@@ -1,3 +1,6 @@
+> 本文内容由[RGD-33手榴彈](https://zh.wikipedia.org/wiki/RGD-33手榴彈)转换而来。
+
+
 [Soviet_RGD-33_hand_grenade_with_fragmentation_jacket.jpg](https://zh.wikipedia.org/wiki/File:Soviet_RGD-33_hand_grenade_with_fragmentation_jacket.jpg "fig:Soviet_RGD-33_hand_grenade_with_fragmentation_jacket.jpg")
 
 **RGD-33**是一種由[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")1933年研製的柄式手榴彈，研製的目的是為了取代[沙俄時期的](../Page/俄罗斯帝国.md "wikilink")[1914型手榴彈](https://zh.wikipedia.org/wiki/1914型手榴彈 "wikilink")。RGD-33在二戰期間亦有被[蘇聯紅軍使用](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")。由於RGD-33使用方法過於複雜（這種手榴彈本身的設計是爲了保證安全，而複雜的操作對不熟悉它的人反而很危險）和難以生產的原因，故在[德國入侵蘇聯後](../Page/巴巴羅薩行動.md "wikilink")，蘇聯便設計出比RGD-33更便於生產且體積更小的RG-42，並逐漸地取代了它。但在二戰後的一些衝突仍然可找到這種武器的蹤影。

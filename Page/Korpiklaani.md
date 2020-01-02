@@ -1,3 +1,6 @@
+> 本文内容由[Korpiklaani](https://zh.wikipedia.org/wiki/Korpiklaani)转换而来。
+
+
 **叢林英豪**（）是一个芬兰[民谣金属](../Page/民谣金属.md "wikilink")乐队，曾名**萨满**（）。
 
 ## 传记

@@ -1,3 +1,6 @@
+> 本文内容由[PHP研究所](https://zh.wikipedia.org/wiki/PHP研究所)转换而来。
+
+
 **株式会社PHP研究所**是[日本](../Page/日本.md "wikilink")的一個民間[智庫](../Page/智庫.md "wikilink")暨[出版社](../Page/出版社.md "wikilink")，由[松下電器](../Page/松下電器.md "wikilink")（Panasonic）創辦人[松下幸之助](../Page/松下幸之助.md "wikilink")於1946年所創立。東京总部位于[東京都](../Page/東京都.md "wikilink")[江東区](https://zh.wikipedia.org/wiki/江東区 "wikilink")[丰洲](https://zh.wikipedia.org/wiki/丰洲 "wikilink")5丁目6番地52号（），京都总部位于[京都市](../Page/京都市.md "wikilink")[南区西九条北之内町](https://zh.wikipedia.org/wiki/南区_\(京都市\) "wikilink")11号（）。 [PHP-bldg-kyoto-01.jpg](https://zh.wikipedia.org/wiki/File:PHP-bldg-kyoto-01.jpg "fig:PHP-bldg-kyoto-01.jpg")
 
 ## 社名

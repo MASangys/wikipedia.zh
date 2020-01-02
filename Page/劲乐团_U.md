@@ -1,3 +1,6 @@
+> 本文内容由[劲乐团 U](https://zh.wikipedia.org/wiki/劲乐团_U)转换而来。
+
+
 是由韩国公司Momo Corp开发的音乐游戏，该游戏的大部分音乐都来自原PC版[劲乐团](../Page/劲乐团.md "wikilink")的音乐。官方Facebook引用第三方媒体的消息表示\[1\]开发商NHN公司只打算制作Android版本于是由Momo Corp来制作iOS版本。之后开发团队在Facebook上布了一个神秘截图\[2\]并宣称代号为“S”，随后发布试玩视频，2012年6月23日正式在AppStore发布劲乐团 S\[3\]，劲乐团 S和U没有太多的关系是一个独立的游戏，并有免费试玩版和付费完整版。
 
 2012年夏季推出了劲乐团 U的Android版，这也意味着劲乐团 U并不是劲乐团Analog的iOS版。

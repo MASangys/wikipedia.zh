@@ -1,3 +1,6 @@
+> 本文内容由[RSD-1型柴油机车](https://zh.wikipedia.org/wiki/RSD-1型柴油机车)转换而来。
+
+
 **RSD-1型柴油机车**是一种由[美国机车公司](../Page/美国机车公司.md "wikilink")在[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间研制的电传动[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，于1942年研制成功，至1946年停产共计生产150台。
 
 ## 发展历史

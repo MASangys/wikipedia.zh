@@ -1,3 +1,6 @@
+> 本文内容由[Cross Over \(專輯\)](https://zh.wikipedia.org/wiki/Cross_Over_\(專輯\))转换而来。
+
+
 《**Cross over**》是[香港](../Page/香港.md "wikilink")歌手[張國榮](../Page/張國榮.md "wikilink")和[黃耀明](../Page/黃耀明.md "wikilink")合作推出的廣東EP，於2002年7月2日發行。
 
 ## 專輯介紹

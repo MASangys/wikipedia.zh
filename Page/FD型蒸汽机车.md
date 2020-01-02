@@ -1,3 +1,6 @@
+> 本文内容由[FD型蒸汽机车](https://zh.wikipedia.org/wiki/FD型蒸汽机车)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:China_Railways_FD-1979_steam_locomotive.JPG "fig:缩略图")
 
 **FD型蒸汽机车**（）是[苏联铁路的一款干线货运型](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")，它以苏联早期领导人[捷尔任斯基的两个俄文首字母](https://zh.wikipedia.org/wiki/捷尔任斯基 "wikilink")命名。该车由[伏罗希洛夫格勒蒸汽机车制造厂和](../Page/卢甘斯克机车制造厂.md "wikilink")于1931年到1942年期间生产，共计3213台，最高时速为85公里/小时。
@@ -30,7 +33,7 @@ FD型蒸汽机车在实践中发挥了强大的牵引力，所以在苏联43条�
 
   - 11辆机车静态展示于各博物馆
   - 1辆机车在[顿河畔罗斯托夫](../Page/顿河畔罗斯托夫.md "wikilink")一企业作为固定锅炉使用\[6\]
-  - 14辆机车以形式静态展示于
+  - 14辆机车以形式静态展示
   - 1辆工作状态
   - 1辆废弃状态
 

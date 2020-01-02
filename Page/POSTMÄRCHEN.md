@@ -1,3 +1,6 @@
+> 本文内容由[POSTMÄRCHEN](https://zh.wikipedia.org/wiki/POSTMÄRCHEN)转换而来。
+
+
 **POSTMÄRCHEN**是日本的创作型[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")。
 
 ## 概要

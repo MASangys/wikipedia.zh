@@ -1,3 +1,6 @@
+> 本文内容由[Karkelo](https://zh.wikipedia.org/wiki/Karkelo)转换而来。
+
+
 《**Karkelo**》是[芬兰](../Page/芬兰.md "wikilink")[民谣金属](../Page/民谣金属.md "wikilink")乐队[Korpiklaani](../Page/Korpiklaani.md "wikilink")的第六章录音室专辑。专辑标题是芬兰语“派对”的意思，或可以理解为意味松散的“好玩”或“嬉戏”\[1\]。
 
 ## 预发行与制作

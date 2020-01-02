@@ -1,3 +1,6 @@
+> 本文内容由[TVB Vietnam](https://zh.wikipedia.org/wiki/TVB_Vietnam)转换而来。
+
+
 ****（）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司擁有的一條以](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[越南語廣播為主的頻道](https://zh.wikipedia.org/wiki/越南語 "wikilink")，該頻道主要以配上[越南語發音而播放](https://zh.wikipedia.org/wiki/越南語 "wikilink")[香港無綫電視所製播的電視劇](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")\[1\]。
 
 該頻道與同樣播放節目的頻道是僅在[越南收看的](https://zh.wikipedia.org/wiki/越南 "wikilink")[SCTV9](https://zh.wikipedia.org/wiki/SCTV9 "wikilink")。

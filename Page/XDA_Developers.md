@@ -1,3 +1,6 @@
+> 本文内容由[XDA Developers](https://zh.wikipedia.org/wiki/XDA_Developers)转换而来。
+
+
 **XDA Developers**（亦作**XDA**或**xda-developers**），XDA Developers的名稱起源於[O2](../Page/O2.md "wikilink") XDA，是在全球擁有500萬使用者的行動軟體開發社群\[1\]，始辦於2003年1月。\[2\]
 
 该网站的主要目的是讨论和开发的[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[Windows Mobile](../Page/Windows_Mobile.md "wikilink")、[WebOS](https://zh.wikipedia.org/wiki/WebOS "wikilink")、[Firefox OS等手机系统](../Page/Firefox_OS.md "wikilink")，也可用于平板电脑和许多其他设备。并提供相关设备的技术信息、[ROM升级](https://zh.wikipedia.org/wiki/ROM "wikilink")、技术支持、Q＆A。每个型号的手机拥有自己的板块。

@@ -1,3 +1,6 @@
+> 本文内容由[T-ara影視作品列表](https://zh.wikipedia.org/wiki/T-ara影視作品列表)转换而来。
+
+
 《**T-ara影視作品列表**》列举[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[T-ara历年参与各类电视节目](https://zh.wikipedia.org/wiki/T-ara "wikilink")、固定节目及电视剧。
 
 ## 官方音樂影片

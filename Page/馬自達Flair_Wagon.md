@@ -1,3 +1,6 @@
+> 本文内容由[馬自達Flair Wagon](https://zh.wikipedia.org/wiki/馬自達Flair_Wagon)转换而来。
+
+
 [Mazda_Flair_Wagon_XS_MM32S.JPG](https://zh.wikipedia.org/wiki/File:Mazda_Flair_Wagon_XS_MM32S.JPG "fig:Mazda_Flair_Wagon_XS_MM32S.JPG") **馬自達Flair Wagon**（）是2012年起由[日本](../Page/日本.md "wikilink")[馬自達汽車公司委託](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[代工生產](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")、[貼上馬自達廠徽銘牌的](../Page/换牌工程.md "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，這款車是以[鈴木Palette](../Page/鈴木Palette.md "wikilink")（スズキ・パレット）為基礎而開發出來的，僅在日本國內市場銷售。
 
 除了鈴木Palette外，另一款兄弟車為。這是繼[第六代鈴木Alto](https://zh.wikipedia.org/wiki/鈴木Alto#第六代HA24S/24V型（2004年-2009年） "wikilink")、[第五代馬自達Carol和](https://zh.wikipedia.org/wiki/馬自達Carol#第五代（HB24型_2004年-2009年） "wikilink")三兄弟車款以來，第二次出現三兄弟車款。

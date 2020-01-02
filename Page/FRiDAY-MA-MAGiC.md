@@ -1,3 +1,6 @@
+> 本文内容由[FRiDAY-MA-MAGiC](https://zh.wikipedia.org/wiki/FRiDAY-MA-MAGiC)转换而来。
+
+
 《**FRiDAY-MA-MAGiC**》是[日本](../Page/日本.md "wikilink")女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")7張單曲，於2011年9月21日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要

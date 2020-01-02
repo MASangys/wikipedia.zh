@@ -1,3 +1,6 @@
+> 本文内容由[Lisp机器](https://zh.wikipedia.org/wiki/Lisp机器)转换而来。
+
+
 **Lisp机器**（）是被设计来高效运行以[Lisp语言为主要软件开发语言的通用型](https://zh.wikipedia.org/wiki/Lisp语言 "wikilink")[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")（通常通过硬件支持）。在某种意识上，Lisp机器是第一个商业的单用户工作站。尽管在数量上表现不如意（在1988年大概只有7000套），Lisp机器在商业上开创了许多现行的技术，包括高效的[内存垃圾收集](../Page/垃圾回收_\(計算機科學\).md "wikilink")，[激光打印](https://zh.wikipedia.org/wiki/激光打印 "wikilink")，[窗口化系统](https://zh.wikipedia.org/wiki/窗口化系统 "wikilink")，计算机[鼠标](../Page/鼠标.md "wikilink")，高分辨率的[位图](../Page/位图.md "wikilink")，计算机图像解析和网络革新（像[CHAOSN](https://zh.wikipedia.org/wiki/CHAOSN "wikilink")）。
 
 在二十世纪八十年代，几家公司正建造和销售Lisp机器：Symbolics(3600,3640,XL1200,Maclvory和其他模型），Lisp机器公司（LMI Lambda），德州仪器（Explorer和MicroExplorer）和Xerox（InterLisp-D workstations）。这些操作系统都是用Lisp Machine Lisp,InterLisp(Xerox)和稍后出现的Common Lisp写的。

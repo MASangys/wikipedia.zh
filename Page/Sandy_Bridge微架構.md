@@ -1,3 +1,6 @@
+> 本文内容由[Sandy Bridge微架構](https://zh.wikipedia.org/wiki/Sandy_Bridge微架構)转换而来。
+
+
 **Sandy Bridge**，或简称**SNB**（英特尔官方简称）或**沙橋**（中国大陆的网友或玩家一般使用的简称），是[Intel研發的](https://zh.wikipedia.org/wiki/Intel "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")之[代號](https://zh.wikipedia.org/wiki/代號 "wikilink")，2005年開始研發，是為[Intel Nehalem微架構的繼任者](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")。2009年Intel公開展示使用Sandy Bridge微架構的[處理器樣品](https://zh.wikipedia.org/wiki/處理器 "wikilink")，2011年1月正式發布，仍然使用[Intel Core系列處理器作為首發產品](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。\[1\]\[2\]Sandy Bridge微架構的處理器均使用32[納米平面雙柵極](https://zh.wikipedia.org/wiki/納米 "wikilink")[電晶體的製程](https://zh.wikipedia.org/wiki/電晶體 "wikilink")。\[3\]依照Intel的『Tick-Tock』策略，繼任的[Intel Ivy Bridge微架構是Intel](https://zh.wikipedia.org/wiki/Intel_Ivy_Bridge "wikilink") Sandy Bridge微架構的製程改進版。Intel Ivy Bridge使用22納米3D[三柵極電晶體製程](https://zh.wikipedia.org/wiki/三柵極電晶體 "wikilink")。2011年第四季度Intel展示使用Ivy Bridge微架構的處理器樣品，並宣布於2012年中期陸續發布基於Ivy Bridge微架構的處理器。\[4\]
 
 ## 技術特點

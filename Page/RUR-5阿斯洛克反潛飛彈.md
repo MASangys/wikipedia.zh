@@ -1,3 +1,6 @@
+> 本文内容由[RUR-5阿斯洛克反潛飛彈](https://zh.wikipedia.org/wiki/RUR-5阿斯洛克反潛飛彈)转换而来。
+
+
 **阿斯洛克反潜导弹**也称**阿斯洛克反潜火箭**（**ASROC**，是[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「反潛火箭」的縮寫）是一种全天候，全海况[反潜导弹系统](https://zh.wikipedia.org/wiki/反潜导弹 "wikilink")。编号**RUR-5**。由美国海军在1950年代开发，并在1960年代部署，在1990年代更新升级，并最终安装在超过200艘美国海军水面舰艇，包括是[巡洋舰](../Page/巡洋舰.md "wikilink")、[驱逐舰](../Page/驱逐舰.md "wikilink")和[巡防艦](../Page/巡防艦.md "wikilink")。ASROC已部署在包括[加拿大](../Page/加拿大.md "wikilink")、[德国](../Page/德国.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中华民国](https://zh.wikipedia.org/wiki/中华民国 "wikilink")、[希腊](../Page/希腊.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")和其他海军的军舰上。\[1\]
 
 ## 历史

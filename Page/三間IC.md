@@ -1,3 +1,6 @@
+> 本文内容由[三間IC](https://zh.wikipedia.org/wiki/三間IC)转换而来。
+
+
 **三間IC**（平假名：みまインターチェンジ）是位於[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[宇和島市](../Page/宇和島市.md "wikilink")的[松山自動車道](../Page/松山自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

@@ -1,3 +1,6 @@
+> 本文内容由[Yahoo! Axis](https://zh.wikipedia.org/wiki/Yahoo!_Axis)转换而来。
+
+
 **Yahoo\! Axis**是由[Yahoo\!開發的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")“[-{zh-hans:搜索;zh-hant:搜尋;}-瀏覽器](../Page/搜索引擎.md "wikilink")\[1\]”\[2\]，於2012年5月23日發布\[3\]。該瀏覽器包括iPhone、iPad版[移動瀏覽器](https://zh.wikipedia.org/wiki/移動瀏覽器 "wikilink")，和桌面端[Google Chrome](../Page/Google_Chrome.md "wikilink")、Mozilla [Firefox](../Page/Firefox.md "wikilink")、Microsoft Windows [Internet Explorer和Apple](../Page/Internet_Explorer.md "wikilink") [Safari](../Page/Safari.md "wikilink")等[網頁瀏覽器的](../Page/网页浏览器.md "wikilink")。於2013年6月28日,Yahoo\!宣布終止開發\[4\]。
 
 ## 設計

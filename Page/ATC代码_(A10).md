@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A10\)](https://zh.wikipedia.org/wiki/ATC代码_\(A10\))转换而来。
+
+
 ## A10A 胰岛素及其同系物（Insulins and analogues）
 
 ### A10AB 注射用[胰岛素](../Page/胰岛素.md "wikilink")及其类似药物，速效（Insulins and analogues for injection, fast-acting）

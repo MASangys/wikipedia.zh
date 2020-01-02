@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia miro](https://zh.wikipedia.org/wiki/索尼Xperia_miro)转换而来。
+
+
 **Sony Xperia miro**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。其於2012年6月發表，於2012年第三季推出。\[1\]\[2\]
 
 ## 顏色

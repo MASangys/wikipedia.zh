@@ -1,3 +1,6 @@
+> 本文内容由[Bump.y](https://zh.wikipedia.org/wiki/Bump.y)转换而来。
+
+
 **bump.y**是在2009年所組成的女子五人[團體](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")。所屬事務所為[Sweet Power](../Page/Sweet_Power.md "wikilink")，唱片公司則是[PONY CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 概要

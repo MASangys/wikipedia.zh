@@ -1,3 +1,6 @@
+> 本文内容由[Televisa](https://zh.wikipedia.org/wiki/Televisa)转换而来。
+
+
 **Televisa集团**（[西班牙语](../Page/西班牙语.md "wikilink")：****）是一个[墨西哥](../Page/墨西哥.md "wikilink")的多媒体大众媒体公司，是[拉丁美洲](../Page/拉丁美洲.md "wikilink")\[1\]\[2\]和西班牙语世界最大的[大众媒体公司](https://zh.wikipedia.org/wiki/大众媒体 "wikilink")\[3\]。 [TELEVISA_CHAPULTEPEC.jpg](https://zh.wikipedia.org/wiki/File:TELEVISA_CHAPULTEPEC.jpg "fig:TELEVISA_CHAPULTEPEC.jpg") [TelevisaBldgDF.JPG](https://zh.wikipedia.org/wiki/File:TelevisaBldgDF.JPG "fig:TelevisaBldgDF.JPG")
 
 公司的名稱是[西班牙語Televisión](https://zh.wikipedia.org/wiki/西班牙語 "wikilink") Via Satélite（衛星電視）的宿寫。

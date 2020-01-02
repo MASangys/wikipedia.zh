@@ -1,3 +1,6 @@
+> 本文内容由[PANDORA \(Kara迷你專輯\)](https://zh.wikipedia.org/wiki/PANDORA_\(Kara迷你專輯\))转换而来。
+
+
 **《PANDORA》**（）是韓國流行女子組合[KARA繼](https://zh.wikipedia.org/wiki/KARA "wikilink")2011年發行第三張正規專輯《[STEP](../Page/STEP.md "wikilink")》後睽違一年於2012年8月22日再度發行的第五張迷你專輯\[1\]。
 
 ## 專輯製作

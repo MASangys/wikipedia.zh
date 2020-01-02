@@ -1,3 +1,6 @@
+> 本文内容由[DS3型电力机车](https://zh.wikipedia.org/wiki/DS3型电力机车)转换而来。
+
+
 **DS3型电力机车**（）是[乌克兰](../Page/乌克兰.md "wikilink")铁路的新型干线[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由乌克兰[第聂伯彼得罗夫斯克电力机车制造厂](https://zh.wikipedia.org/wiki/第聂伯彼得罗夫斯克电力机车制造厂 "wikilink")（ДЭВЗ）与[德国](../Page/德国.md "wikilink")[西门子公司](../Page/西门子公司.md "wikilink")联合设计制造，其中第聂伯彼得罗夫斯克电力机车制造厂负责总体设计和机械部分，西门子公司负责提供交流传动系统包括牵引变流器，辅助变流器以及控制设备。机车采用三相交流传动、水冷[IGBT牵引逆变器](https://zh.wikipedia.org/wiki/IGBT "wikilink")。目前所有DS3型电力机车均配属[基辅机务段](https://zh.wikipedia.org/wiki/基辅 "wikilink")，担当[西南铁路的旅客快车牵引任务](https://zh.wikipedia.org/wiki/西南铁路 "wikilink")。
 
 ## 参看

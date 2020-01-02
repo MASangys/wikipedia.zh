@@ -1,3 +1,6 @@
+> 本文内容由[KYOI](https://zh.wikipedia.org/wiki/KYOI)转换而来。
+
+
 **KYOI**（全称**Superrock KYOI**）是位于[北马里亚纳群岛](../Page/北马里亚纳群岛.md "wikilink")的一个已停播的短波广播电台，主要播放[摇滚乐](../Page/摇滚乐.md "wikilink")和[流行音乐](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")。电台在1982年开播，1989年停播，发射地点位于[塞班岛](../Page/塞班岛.md "wikilink")。主要针对[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[苏联](../Page/苏联.md "wikilink")、[日本](../Page/日本.md "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")和[新西兰](../Page/新西兰.md "wikilink")等国广播。
 
 ## 历史

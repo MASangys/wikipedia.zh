@@ -1,3 +1,6 @@
+> 本文内容由[Spica節目演出列表](https://zh.wikipedia.org/wiki/Spica節目演出列表)转换而来。
+
+
 本頁為南韓女子組合[SPICA自](../Page/SPICA_\(組合\).md "wikilink")2012年出道以來參與的節目演出列表。列出**電視劇**、**電影**、**綜藝節目**、**廣播**、**音樂現場**、**參與節目**等相關資訊。[Girl_group_spica.jpg](https://zh.wikipedia.org/wiki/File:Girl_group_spica.jpg "fig:Girl_group_spica.jpg")
 
 ### 電視劇

@@ -1,3 +1,6 @@
+> 本文内容由[Summer Rescue～天空的診療所～](https://zh.wikipedia.org/wiki/Summer_Rescue～天空的診療所～)转换而来。
+
+
 《**高山診療所**》（），為[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")2012年7月8日起至同年9月23日，於每週[星期日](../Page/星期日.md "wikilink")21:00 - 21:54（[JST](../Page/日本標準時間.md "wikilink")）播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由[向井理](../Page/向井理.md "wikilink")主演，初回與第5話延長15分（21:00 - 22:09）。
 
 ## 概要

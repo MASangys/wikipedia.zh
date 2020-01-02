@@ -1,3 +1,6 @@
+> 本文内容由[Butterfly Kisses \(梁詠琪專輯\)](https://zh.wikipedia.org/wiki/Butterfly_Kisses_\(梁詠琪專輯\))转换而来。
+
+
 《**Butterfly Kisses**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁詠琪的第](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")31張音樂專輯、第13張國語專輯，於2012年7月20日推出。
 
 ## 曲目

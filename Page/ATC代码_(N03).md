@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N03\)](https://zh.wikipedia.org/wiki/ATC代码_\(N03\))转换而来。
+
+
 ## N03A [抗癫痫药](https://zh.wikipedia.org/wiki/抗癫痫药 "wikilink")
 
 ### N03AA [巴比妥](../Page/巴比妥.md "wikilink")及其衍生物（Barbiturates and derivatives）

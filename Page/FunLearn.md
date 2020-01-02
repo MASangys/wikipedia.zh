@@ -1,3 +1,6 @@
+> 本文内容由[FunLearn](https://zh.wikipedia.org/wiki/FunLearn)转换而来。
+
+
 **FunLearn**是一個於2010年成立，採用[Discuz\!](../Page/Discuz!.md "wikilink")架構的[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，站內免費提供[國中和](https://zh.wikipedia.org/wiki/國中 "wikilink")[高中課程內容的網路影音教學](https://zh.wikipedia.org/wiki/高中 "wikilink")，並設有討論區作為學生和義務性解題的駐站教師討論學科問題的平台，主要服務社群為[台灣地區之中學學生](https://zh.wikipedia.org/wiki/台灣 "wikilink")。但也有少部分的大陸學生註冊使用。約在2017年中開始就連不上網站，2018年7月27日，FunLearn官方主機正式退役。
 
 網路影音教學的來源，主要是學校老師、補習班老師，自發性的無償參與，包括pengtitus、[洪安](https://zh.wikipedia.org/wiki/洪安 "wikilink")、賴方、[李鋒](https://zh.wikipedia.org/wiki/李鋒 "wikilink")、三坪、[劉靜](https://zh.wikipedia.org/wiki/劉靜 "wikilink")、CHT、[高至豪等人](https://zh.wikipedia.org/wiki/高至豪 "wikilink")，合力製作出數百支的影音課程 但仍然遠遠不足以涵蓋國高中的課程所需，因此此網站在倒站前仍然持續在招募老師參與錄製。

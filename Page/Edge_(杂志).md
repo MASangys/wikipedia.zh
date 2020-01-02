@@ -1,3 +1,6 @@
+> 本文内容由[Edge \(杂志\)](https://zh.wikipedia.org/wiki/Edge_\(杂志\))转换而来。
+
+
 《**Edge**》是由英国[Future plc出版的多格式的](https://zh.wikipedia.org/wiki/Future_plc "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")杂志。其以行业人脉关系、社论立场、独特的匿名第三人称写作风格、年度大奖与长寿而出名。此外杂志亦曾经在英国以外的地方发行过多个版本。
 
 ## 历史

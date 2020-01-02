@@ -1,3 +1,6 @@
+> 本文内容由[阿錡TO新聞](https://zh.wikipedia.org/wiki/阿錡TO新聞)转换而来。
+
+
 **阿錡TO新聞**（[台羅](https://zh.wikipedia.org/wiki/台羅 "wikilink")：A-kî Thuh Sin-bûn；台語thuh即是針對事件加以針砭之意）為[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")[名嘴](../Page/名嘴.md "wikilink")[阿錡以時事](https://zh.wikipedia.org/wiki/林明期 "wikilink")[新聞作為題材之評論](https://zh.wikipedia.org/wiki/新聞 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")。
 
 ## 節目內容

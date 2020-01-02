@@ -1,3 +1,6 @@
+> 本文内容由[Npm](https://zh.wikipedia.org/wiki/Npm)转换而来。
+
+
 **npm**（全称 Node Package Manager，即“node包管理器”）是[Node.js](../Page/Node.js.md "wikilink")預設的、以[JavaScript](../Page/JavaScript.md "wikilink")編寫的[軟體套件管理系統](https://zh.wikipedia.org/wiki/軟體套件管理系統 "wikilink")。
 
 ## 历史

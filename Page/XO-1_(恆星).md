@@ -1,3 +1,6 @@
+> 本文内容由[XO-1 \(恆星\)](https://zh.wikipedia.org/wiki/XO-1_\(恆星\))转换而来。
+
+
 \[1\] }}  \[2\] | metal_fe = 0.02 ± 0.08 \[3\] | mass = 1.027{{±|0.057|0.061}} \[4\] | radius = 0.94 ± 0.02 \[5\] | gravity = 4.53 ± 0.06 \[6\] | rotation = | luminosity = 0.86{{±|0.12|0.10}} \[7\] | temperature = 5750 ± 75 \[8\] }}
 
 **XO-1**是一個距離地球約560光年的11等黃矮星，位於[北冕座](../Page/北冕座.md "wikilink")\[9\]。XO-1的質量和半徑與太陽類似。2006年使用[XO望遠鏡](../Page/XO望遠鏡.md "wikilink")以[凌日法發現它有一顆](https://zh.wikipedia.org/wiki/凌日法 "wikilink")[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")[XO-1b](../Page/XO-1b.md "wikilink")\[10\]。

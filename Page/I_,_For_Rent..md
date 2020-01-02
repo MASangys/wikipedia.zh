@@ -1,3 +1,6 @@
+> 本文内容由[I , For Rent.](https://zh.wikipedia.org/wiki/I_,_For_Rent.)转换而来。
+
+
 [李至正](../Page/李至正.md "wikilink"){{、w}}[王琄](../Page/王琄.md "wikilink"){{、w}}[沈昶宏](../Page/沈昶宏.md "wikilink") | country =  | language = [國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | slogan = 人在這沒有溫度的世界裡是什麼？
 究竟又扮演著什麼角色？ | producer = 顏瑜玫 | location =  | supervising_producer = [公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink") | runtime = 30分鐘（含[廣告](../Page/廣告.md "wikilink")） | company = [中國文化大學](https://zh.wikipedia.org/wiki/中國文化大學 "wikilink") | channel = [公共電視台](https://zh.wikipedia.org/wiki/公共電視台 "wikilink") | picture_format = [高畫質電視](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink") | audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  | imdb_id = 10267156 }} 《**出租情人**》（），為[臺灣](../Page/臺灣.md "wikilink")[公共電視的](../Page/公共電視文化事業基金會.md "wikilink")[第八屆學生劇展](https://zh.wikipedia.org/wiki/第八屆學生劇展 "wikilink")，張耕聞、陳冠頤導演，由[李維維](../Page/李維維.md "wikilink")、[李至正](../Page/李至正.md "wikilink")、[王琄](../Page/王琄.md "wikilink")、[沈昶宏](../Page/沈昶宏.md "wikilink")主演。2012年8月開拍，2013年5月26日晚間11點30分於公共電視台上映。
 

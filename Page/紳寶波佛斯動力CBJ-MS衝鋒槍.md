@@ -1,3 +1,6 @@
+> 本文内容由[紳寶波佛斯動力CBJ-MS衝鋒槍](https://zh.wikipedia.org/wiki/紳寶波佛斯動力CBJ-MS衝鋒槍)转换而来。
+
+
 **紳寶波佛斯動力CBJ-MS衝鋒槍**（）是一款由[瑞典](../Page/瑞典.md "wikilink")槍械設計師[伯蒂爾·約翰遜](https://zh.wikipedia.org/wiki/伯蒂爾·約翰遜 "wikilink")（）所設計，[紳寶](../Page/萨博.md "wikilink")[波佛斯動力公司提供研究贊助](https://zh.wikipedia.org/wiki/波佛斯公司 "wikilink")，目前由[CBJ技術有限公司所生產的最新型](https://zh.wikipedia.org/wiki/CBJ技術有限公司 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，同時兼具[冲锋手枪和](../Page/全自動手槍.md "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")的特點。發射特別研發的[6.5×25毫米CBJ-MS和](../Page/6.5×25mm_CBJ-MS.md "wikilink")[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 發展

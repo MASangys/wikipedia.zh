@@ -1,3 +1,6 @@
+> 本文内容由[Szymanski算法](https://zh.wikipedia.org/wiki/Szymanski算法)转换而来。
+
+
 **Szymanski算法**是解决多个[线程](../Page/线程.md "wikilink")[并发访问一个共享资源的](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[互斥问题的一个算法](../Page/互斥锁.md "wikilink")。由Boleslaw Szymanski于1988年提出。\[1\]\[2\]\[3\]该算法具有很多优良性能，如线性等待，解决了由Leslie Lamport提出的[开问题](https://zh.wikipedia.org/wiki/开问题 "wikilink")。\[4\]
 
 ## 算法的类比解释

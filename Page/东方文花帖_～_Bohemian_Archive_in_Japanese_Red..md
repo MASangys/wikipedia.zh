@@ -1,3 +1,6 @@
+> 本文内容由[东方文花帖 ～ Bohemian Archive in Japanese Red.](https://zh.wikipedia.org/wiki/东方文花帖_～_Bohemian_Archive_in_Japanese_Red.)转换而来。
+
+
 **東方文花帖 〜 Bohemian Archive in Japanese Red.**（，ISBN 4-7580-1037-4）为2005年8月[一迅社](../Page/一迅社.md "wikilink")出版的一本[东方Project](https://zh.wikipedia.org/wiki/东方Project "wikilink")[同人志](https://zh.wikipedia.org/wiki/同人志 "wikilink")。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Flyme](https://zh.wikipedia.org/wiki/Flyme)转换而来。
+
+
 **Flyme**是由[珠海魅族科技有限公司开发的基于](../Page/魅族科技.md "wikilink")[Android](../Page/Android.md "wikilink")的手机操作系统。
 
 ## 軟件

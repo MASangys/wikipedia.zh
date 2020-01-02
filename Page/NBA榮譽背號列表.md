@@ -1,3 +1,6 @@
+> 本文内容由[NBA榮譽背號列表](https://zh.wikipedia.org/wiki/NBA榮譽背號列表)转换而来。
+
+
 [LakersRetiredJerseys.jpg](https://zh.wikipedia.org/wiki/File:LakersRetiredJerseys.jpg "fig:LakersRetiredJerseys.jpg")[洛杉磯湖人隊退休背號球衣](https://zh.wikipedia.org/wiki/洛杉磯湖人隊 "wikilink")\]\]
 
 “荣誉背号”表示了对[美国国家篮球协会](https://zh.wikipedia.org/wiki/美国国家篮球协会 "wikilink")(NBA)做出贡献者的敬意

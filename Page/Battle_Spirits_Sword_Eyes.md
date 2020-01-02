@@ -1,3 +1,6 @@
+> 本文内容由[Battle Spirits Sword Eyes](https://zh.wikipedia.org/wiki/Battle_Spirits_Sword_Eyes)转换而来。
+
+
 《**Battle Spirits Sword Eyes**》，又譯為《**Battle Spirits 劍瞳**》。為[Battle Spirits系列的第五部作品](../Page/Battle_Spirits.md "wikilink")。由2012年9月9日至2013年9月8日於[名古屋電視台](../Page/名古屋電視台.md "wikilink")播放，全50話。
 
 ## 概要

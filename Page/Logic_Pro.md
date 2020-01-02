@@ -1,3 +1,6 @@
+> 本文内容由[Logic Pro](https://zh.wikipedia.org/wiki/Logic_Pro)转换而来。
+
+
 **Logic Pro** 是一款[Mac平台的](https://zh.wikipedia.org/wiki/Mac "wikilink")[数字音频工作站](https://zh.wikipedia.org/wiki/数字音频工作站 "wikilink")（DAW）与[MIDI](../Page/MIDI.md "wikilink")[音序器软件](https://zh.wikipedia.org/wiki/音序器 "wikilink")。Logic Pro最早由德国软件开发商[Emagic开发](https://zh.wikipedia.org/wiki/Emagic "wikilink")，并随着2002年[苹果公司对Emagic的收购成为苹果的产品](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，并作为苹果的专业级音乐软件套装[Logic Studio的一部分](https://zh.wikipedia.org/wiki/Logic_Studio "wikilink")。
 
 另一款消费级的音频软件Logic Express由Logic Pro缩减而来，与Logic Pro有相同的音频处理引擎和交互界面。作为随售出的Mac附赠的软件、[iLife套件的一部分](https://zh.wikipedia.org/wiki/iLife "wikilink")，苹果的另一款名为[GarageBand的软件也是采用了相同的音频处理引擎](https://zh.wikipedia.org/wiki/GarageBand "wikilink")。2011年12月8日，苹果不再提供盒装版的Logic Pro和Logic Express软件，Logic Pro只能从App Store购买，价格为199美元，与先前的Logic Express价格相同。

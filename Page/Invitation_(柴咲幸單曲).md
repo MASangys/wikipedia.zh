@@ -1,3 +1,6 @@
+> 本文内容由[Invitation \(柴咲幸單曲\)](https://zh.wikipedia.org/wiki/Invitation_\(柴咲幸單曲\))转换而来。
+
+
 《**invitation**》（邀請）為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2006年8月9日發行之10th單曲。
 
 ## 概要

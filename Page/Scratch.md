@@ -1,3 +1,6 @@
+> 本文内容由[Scratch](https://zh.wikipedia.org/wiki/Scratch)转换而来。
+
+
 **Scratch**是[麻省理工媒體實驗室終身幼稚園組开发的一套](https://zh.wikipedia.org/wiki/麻省理工媒體實驗室 "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[程式開發平台](https://zh.wikipedia.org/wiki/程式 "wikilink")，旨在讓[程式設計語言初學者不需先學習語言語法便能设计产品](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")。开发者期望通过学习Scratch，启发和激励用户在愉快的環境下經由操作（如設計互動故事）去學習[程式設計](https://zh.wikipedia.org/wiki/程式設計 "wikilink")、[數學和](https://zh.wikipedia.org/wiki/數學 "wikilink")[計算知識](https://zh.wikipedia.org/wiki/計算 "wikilink")，同時获得[創造性的](https://zh.wikipedia.org/wiki/創造性 "wikilink")[思考](https://zh.wikipedia.org/wiki/思考 "wikilink")，[邏輯編程](../Page/邏輯編程.md "wikilink")，和[協同工作的体验](https://zh.wikipedia.org/wiki/CSCW "wikilink")。Mitchel Resnick 和 Andrés Monroy-Hernández 是 creater.
 
 Scratch [開發平台可安裝在](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")的平台上；自2.0之后，换用[ActionScript](../Page/ActionScript.md "wikilink")编制，Scratch已於2019年1月2日發布3.0正式版，換用[HTML5](../Page/HTML5.md "wikilink")編制。Scratch运行于浏览器。Scratch[源碼完全开放](https://zh.wikipedia.org/wiki/源碼 "wikilink")（但小猫图案和scratch名称受版权保护）\[1\]

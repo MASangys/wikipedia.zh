@@ -1,3 +1,6 @@
+> 本文内容由[Fly High](https://zh.wikipedia.org/wiki/Fly_High)转换而来。
+
+
 《**Fly High**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE H的首張迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2013年1月11日發行。唱片公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")。
 
 ## 概要
@@ -199,7 +202,6 @@
 [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:INFINITE_H音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE_H音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
-
 2.
 3.
 4.

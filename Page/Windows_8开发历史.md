@@ -1,3 +1,6 @@
+> 本文内容由[Windows 8开发历史](https://zh.wikipedia.org/wiki/Windows_8开发历史)转换而来。
+
+
 **[Windows 8开发历史](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")**從[Windows 7發布後開始記錄](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
 ## 历史

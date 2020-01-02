@@ -1,3 +1,6 @@
+> 本文内容由[DDA40X型柴油机车](https://zh.wikipedia.org/wiki/DDA40X型柴油机车)转换而来。
+
+
 **DDA40X型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪](../Page/易安迪.md "wikilink")公司（GM-EMD）在1960年代末为[联合太平洋铁路研制的一款超大功率电力传动](../Page/聯合太平洋鐵路.md "wikilink")[柴油机车](../Page/柴油機車.md "wikilink")，这也是至今世界上单节功率最大、单节长度最长的柴油机车\[1\]。DDA40X型柴油机车是专门用于牵引快速重载[货物列车](https://zh.wikipedia.org/wiki/货物列车 "wikilink")、采用[双机组设计的](https://zh.wikipedia.org/wiki/双机组柴油机车 "wikilink")6,600马力干线货运柴油机车，装用两套[16-645E3-A型](../Page/易安迪645系列柴油机.md "wikilink")[涡轮增压](../Page/渦輪增壓器.md "wikilink")[柴油机及AR](../Page/柴油引擎.md "wikilink")12型[交流发电机](../Page/交流發電機.md "wikilink")，但由于美国铁路对于双机组大功率柴油机车的兴趣不大，该型机车并没有进行过大批量生产。1969年至1971年间，易安迪公司仅生产了47台DDA40X型柴油机车。
 
 ## 发展历史

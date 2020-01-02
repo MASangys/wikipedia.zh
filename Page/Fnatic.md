@@ -1,3 +1,6 @@
+> 本文内容由[Fnatic](https://zh.wikipedia.org/wiki/Fnatic)转换而来。
+
+
 **Fnatic**，簡稱**FNC**，是一家設於[澳大利亚](../Page/澳大利亚.md "wikilink")、[韓國和](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歐洲的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[職業](../Page/職業.md "wikilink")[電子競技公司](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，創辦人为薩繆爾·馬修斯（Samuel Mathews）。Fnatic在2004年7月23日成立，最令人著名的是他那獲得高度成功的[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")[絕對武力團隊](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")。在[電競歷史裡面](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，Fnatic所擁有的絕對武力戰隊是這款遊戲裡經營最成功的戰隊之一，同時也作為G7團隊的創始隊員一支。在2012年，他們已經獲得RC語音的贊助並且冠其名為**FnaticRaidCall**。
 
 在這之前，[微星科技](../Page/微星科技.md "wikilink")同時也是他們的主要[贊助商](https://zh.wikipedia.org/wiki/贊助 "wikilink")，並且給予他們最新的[筆電](https://zh.wikipedia.org/wiki/筆電 "wikilink")、[主機和](https://zh.wikipedia.org/wiki/主機 "wikilink")[顯卡](https://zh.wikipedia.org/wiki/顯卡 "wikilink")，並且以其冠名。隨著新的贊助商RC贊助，Fnatic是少數在國外最先擁有（[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾](../Page/首爾.md "wikilink")）房地產的[電競公司之一](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。另外其他贊助商還有Steelseries和Eizo。

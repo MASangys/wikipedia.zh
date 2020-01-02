@@ -1,3 +1,6 @@
+> 本文内容由[ATP單打排名第一選手列表](https://zh.wikipedia.org/wiki/ATP單打排名第一選手列表)转换而来。
+
+
 [Roger_Federer_(26_June_2009,_Wimbledon)_2_new.jpg](https://zh.wikipedia.org/wiki/File:Roger_Federer_\(26_June_2009,_Wimbledon\)_2_new.jpg "fig:Roger_Federer_(26_June_2009,_Wimbledon)_2_new.jpg")保有以下纪录：史上最年长世界第一、第一次与最后一次登顶世界第一年龄跨度最大、最长连续單打世界排名第一——237週、最多世界排名第一总周数——310週。\]\]
 
 [職業網球聯合會根據選手獲得職業網球比賽積分多寡來決定選手名次高低](https://zh.wikipedia.org/wiki/職業網球聯合會 "wikilink")，在過去52個星期中獲得最多積分選手被認為是世界排名第一。自從1975年開始，共有26位選手成為世界排名第一\[1\]\[2\]。[皮特·山普拉斯連續](https://zh.wikipedia.org/wiki/山普拉斯 "wikilink")6年年終都是世界排名第一，也曾保有286個星期的世界排名第一紀錄（后被[羅傑·費德勒於](https://zh.wikipedia.org/wiki/羅傑·費德勒 "wikilink")2012年7月16日打破）。[羅傑·費德勒擁有歷史上單打世界排名第一連續週數最長的紀錄](https://zh.wikipedia.org/wiki/羅傑·費德勒 "wikilink")，總共237個星期。歷史上共有2位選手未獲得[網球大滿貫冠軍即成為世界排名第一](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")，分別是[伊万·伦德尔](../Page/伊万·伦德尔.md "wikilink")\[3\]與[马塞洛·里奥斯](../Page/马塞洛·里奥斯.md "wikilink")。马塞洛·里奥斯也是歷史上唯一一位未曾獲得[網球大滿貫冠軍的世界排名第一選手](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")\[4\]\[5\]。[帕特里克·拉夫特](../Page/帕特里克·拉夫特.md "wikilink")是歷史上保持時間最短的世界排名第一選手，僅維持一個星期。[萊頓·休伊特是歷史上最年輕的世界排名第一選手](https://zh.wikipedia.org/wiki/萊頓·休伊特 "wikilink")，他在20歲268天即成為球王\[6\]，也是最年輕的年終球王\[7\]\[8\]。[羅傑·費德勒也是最年长的世界排名第一選手](https://zh.wikipedia.org/wiki/羅傑·費德勒 "wikilink")，2018年2月18日的鹿特丹精英赛夺冠后，他以36岁零6个月超越原纪录保持者[安德烈·阿加西](../Page/安德烈·阿加西.md "wikilink")的33歲零131天。

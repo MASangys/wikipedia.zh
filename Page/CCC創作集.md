@@ -1,3 +1,6 @@
+> 本文内容由[CCC創作集](https://zh.wikipedia.org/wiki/CCC創作集)转换而来。
+
+
 [Creative_Comic_Collection_1.jpg](https://zh.wikipedia.org/wiki/File:Creative_Comic_Collection_1.jpg "fig:Creative_Comic_Collection_1.jpg") 《**Creative Comic Collection 創作集**》，簡稱《**CCC創作集**》，是以[臺灣](../Page/臺灣.md "wikilink")歷史、文化與自然為題材，臺灣創作者創作的漫畫綜合雜誌，由[行政院國家科學委員會](https://zh.wikipedia.org/wiki/行政院國家科學委員會 "wikilink")[數位典藏與數位學習國家型科技計畫](https://zh.wikipedia.org/wiki/數位典藏與數位學習國家型科技計畫 "wikilink")-數位核心平台計畫製作\[1\]\[2\]，[蓋亞文化發行](https://zh.wikipedia.org/wiki/蓋亞文化 "wikilink")\[3\]；2012年底，數位典藏與數位學習國家型科技計畫執行完畢\[4\]，《CCC創作集》改由蓋亞文化獨立製作與出版；2015年，《CCC創作集》發行第二十期後宣布停刊\[5\]。2017年[中華民國文化部挹注](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")[新台幣千萬元](https://zh.wikipedia.org/wiki/新台幣 "wikilink") ，預計月刊發行24期 ，並於同年12月27日發行復刊號試刊 \[6\]。
 
 ## 出版緣起

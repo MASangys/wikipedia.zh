@@ -1,3 +1,6 @@
+> 本文内容由[MOTHER \(LUNA SEA專輯\)](https://zh.wikipedia.org/wiki/MOTHER_\(LUNA_SEA專輯\))转换而来。
+
+
 《**MOTHER**》是由日本樂團[月之海](../Page/月之海.md "wikilink")所發行的第4張錄音專輯，於1994年10月26日發行。
 
 ## 曲目

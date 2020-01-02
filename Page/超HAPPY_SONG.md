@@ -1,3 +1,6 @@
+> 本文内容由[超HAPPY SONG](https://zh.wikipedia.org/wiki/超HAPPY_SONG)转换而来。
+
+
 「**超HAPPY SONG**」是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")和[℃-ute](../Page/℃-ute.md "wikilink")的第2張合作[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年6月20日由[PICCOLO TOWN和](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")[zetima發售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

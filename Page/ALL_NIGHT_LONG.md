@@ -1,3 +1,6 @@
+> 本文内容由[ALL NIGHT LONG](https://zh.wikipedia.org/wiki/ALL_NIGHT_LONG)转换而来。
+
+
 《**ALL NIGHT LONG**》為[日本](../Page/日本.md "wikilink")團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第39張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年6月20日於日本發行。
 
 ## 解說

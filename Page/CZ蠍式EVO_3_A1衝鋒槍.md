@@ -1,3 +1,6 @@
+> 本文内容由[CZ蠍式EVO 3 A1衝鋒槍](https://zh.wikipedia.org/wiki/CZ蠍式EVO_3_A1衝鋒槍)转换而来。
+
+
 **CZ蠍式EVO 3 A1**（）是一款由[捷克](../Page/捷克.md "wikilink")槍械製造商（簡稱：CZ-UB）公司所設計及生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。名字當中的“蠍式”意味著它繼承了[蠍式衝鋒槍的名字](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Take-Two Interactive](https://zh.wikipedia.org/wiki/Take-Two_Interactive)转换而来。
+
+
 **Take-Two Interactive**（一般簡稱**TAKE 2**或**T2**；）是一家美國主要的遊戲開發與發行商，同時他也是電玩遊戲與周邊設備的經銷商，旗下有2K和[Rockstar Games](../Page/Rockstar_Games.md "wikilink")，其中2K品牌包括发行核心游戏的[2K Games](../Page/2K_Games.md "wikilink")、发行休闲益智类游戏的[2K Play以及发行体育竞技类游戏的](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K Sports](../Page/2K_Sports.md "wikilink")。公司總部位於紐約而國際總部則是為於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[溫莎](../Page/溫莎_\(伯克郡\).md "wikilink")。開發工作室遍及了許多地方，包括[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")、[溫哥華](../Page/溫哥華.md "wikilink")、[多倫多以及](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[諾瓦托](https://zh.wikipedia.org/wiki/諾瓦托 "wikilink")。
 
 ## 大事记

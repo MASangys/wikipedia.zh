@@ -1,3 +1,6 @@
+> 本文内容由[Octopus\'s Garden](https://zh.wikipedia.org/wiki/Octopus\'s_Garden)转换而来。
+
+
 《**Octopus's Garden**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[林哥·史達創作](https://zh.wikipedia.org/wiki/林哥·史達 "wikilink")、收錄於專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》的1969年歌曲。（作品上是以林哥·史達的本名理查·史塔基「Richard Starkey」的名義發表）
 
 ## 概要

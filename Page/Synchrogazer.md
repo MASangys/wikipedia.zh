@@ -1,3 +1,6 @@
+> 本文内容由[Synchrogazer](https://zh.wikipedia.org/wiki/Synchrogazer)转换而来。
+
+
 《**Synchrogazer**》（）是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第26張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2012年1月11日由[King Records MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番號KICM-1377。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[LTE國際航空](https://zh.wikipedia.org/wiki/LTE國際航空)转换而来。
+
+
 **LTE國際航空**（）是一家位於[西班牙](../Page/西班牙.md "wikilink")[帕爾馬的包機](https://zh.wikipedia.org/wiki/帕爾馬_\(西班牙\) "wikilink")[航空公司](../Page/航空公司.md "wikilink")。公司提供來往歐洲各地的非定期航班服務，以[馬略卡島帕爾馬機場為基地](https://zh.wikipedia.org/wiki/馬略卡島帕爾馬機場 "wikilink")，重點机场包括[巴塞隆納機場](https://zh.wikipedia.org/wiki/巴塞隆納機場 "wikilink")、[蘭薩羅特島和](https://zh.wikipedia.org/wiki/蘭薩羅特島 "wikilink")[特內里費南部機場](https://zh.wikipedia.org/wiki/特內里費南部機場 "wikilink")\[1\]。
 
 ## 歷史

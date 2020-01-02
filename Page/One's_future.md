@@ -1,3 +1,6 @@
+> 本文内容由[One\'s future](https://zh.wikipedia.org/wiki/One\'s_future)转换而来。
+
+
 《**one's future**》是[日本](../Page/日本.md "wikilink")女性声優[鈴田美夜子](../Page/鈴田美夜子.md "wikilink")的[单曲](../Page/单曲.md "wikilink")。于2010年4月23日由[Key Sounds Label发售](../Page/Key_Sounds_Label.md "wikilink")，其序列号为KSLA-0056。\[1\]
 
 歌曲《one's future》是[Key的PC游戏](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")《[Kud Wafter](../Page/Kud_Wafter.md "wikilink")》的片头[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。于游戏2010年6月25日发售之前先行发售。

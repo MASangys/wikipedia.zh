@@ -1,3 +1,6 @@
+> 本文内容由[M \(電視劇\)](https://zh.wikipedia.org/wiki/M_\(電視劇\))转换而来。
+
+
 《**M**》是[韓國文化廣播公司於](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")1994年8月1日至1994年8月30日期間播放的[月火劇](../Page/MBC月火連續劇.md "wikilink")。此劇是韓國第二部以[恐怖為題材的電視劇](https://zh.wikipedia.org/wiki/恐怖 "wikilink")，也是韓國藝人沈銀河的成名作。此劇在韓國播出後的平均收視率為52.2%。\[1\]
 
 ## 簡介

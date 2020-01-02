@@ -1,3 +1,6 @@
+> 本文内容由[庞巴迪TRAXX](https://zh.wikipedia.org/wiki/庞巴迪TRAXX)转换而来。
+
+
 [185_142_Luetzel_03042010.JPG](https://zh.wikipedia.org/wiki/File:185_142_Luetzel_03042010.JPG "fig:185_142_Luetzel_03042010.JPG") **庞巴迪TRAXX**，其注册商标全称为**高灵活性的跨国铁路应用机车平台**（）\[1\]，是一个由[庞巴迪运输为中型货运及客运](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[铁路运输所制造的](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")[模块化系列](https://zh.wikipedia.org/wiki/模块 "wikilink")[机车的统称](../Page/鐵路機車.md "wikilink")。其首个版本是2000年面世的为[德国铁路](../Page/德国铁路.md "wikilink")（DB）制造的双[电压制式](https://zh.wikipedia.org/wiki/电压 "wikilink")[交流电机车](https://zh.wikipedia.org/wiki/交流电 "wikilink")。随后又开发了可运行于[欧洲](../Page/欧洲.md "wikilink")大多数[电气化铁路的](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")[直流电制式和四电压制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，以及自2006年起扩展至[柴油](../Page/柴油.md "wikilink")动力制式的版本。该系列所有机型共有的元素包括[钢](../Page/钢.md "wikilink")制车身外壳、双动力轴双[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")、[三相异步](https://zh.wikipedia.org/wiki/三相 "wikilink")[感应电动机](https://zh.wikipedia.org/wiki/感应电动机 "wikilink")、集成于车顶边缘的[冷却排气装置以及轮盘式制动器](https://zh.wikipedia.org/wiki/冷却 "wikilink")。如今已有超过1230台TRAXX家族的机车在各大欧洲[铁路运营商中运营或订购](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")，其中仅TRAXX2和TRAXX2E系列就有719台。其所有系列均提供满足跨境交通需求的多系统机车。
 
 截至2012年8月，庞巴迪运输已交付超过1550台该系列的客运及货运机车，其主要用户为[德国](../Page/德国.md "wikilink")，并在欧洲16个国家中运用\[2\]。

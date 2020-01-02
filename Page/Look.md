@@ -1,3 +1,6 @@
+> 本文内容由[Look](https://zh.wikipedia.org/wiki/Look)转换而来。
+
+
 《**Look**》是[梁詠琪的](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")[粵語音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2005年11月3日推出。
 
 ## 曲目

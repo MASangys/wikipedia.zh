@@ -1,3 +1,6 @@
+> 本文内容由[Dragon Slayer系列](https://zh.wikipedia.org/wiki/Dragon_Slayer系列)转换而来。
+
+
 是由[木屋善夫所主導策劃](https://zh.wikipedia.org/wiki/木屋善夫 "wikilink")，[日本Falcom](../Page/日本Falcom.md "wikilink")发行的系列作。从1984年推出的首作《[屠龙剑](../Page/屠龙剑_\(游戏\).md "wikilink")》，至1995年推出的最终作《[风之传说Xanadu II](https://zh.wikipedia.org/wiki/风之传说Xanadu_II "wikilink")》，有八代共16部作品，游戏类型包括[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")、[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")和[模擬](../Page/模擬遊戲.md "wikilink")。作品彼此間的最大關聯就是主題都與「屠龍」有關。
 
 第六代作品《[Dragon Slayer 英雄传说](../Page/英雄傳說_\(遊戲\).md "wikilink")》后来独立成为[英雄传说系列](https://zh.wikipedia.org/wiki/英雄传说系列 "wikilink")，成為現在與[伊蘇系列並列為Falcom兩大招牌的系列作品](https://zh.wikipedia.org/wiki/伊蘇系列 "wikilink")。在木屋善夫離職後，Falcom推出了第八代作品《[風之傳說](https://zh.wikipedia.org/wiki/風之傳說 "wikilink")》的續作《風之傳說2》作為此系列的完結。此後八部作品取下「Dragon Slayer」的標題後，各自走入完結或者發展成為新系列。

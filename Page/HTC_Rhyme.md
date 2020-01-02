@@ -1,3 +1,6 @@
+> 本文内容由[HTC Rhyme](https://zh.wikipedia.org/wiki/HTC_Rhyme)转换而来。
+
+
 **HTC Rhyme**，[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電開發的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 2011年9月20日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約發表](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 

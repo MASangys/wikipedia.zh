@@ -1,3 +1,6 @@
+> 本文内容由[Talking Heads](https://zh.wikipedia.org/wiki/Talking_Heads)转换而来。
+
+
 **傳聲頭像**（Talking Heads）是一支[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")樂隊，在1975年於[紐約市組建](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，直至1991年解散。樂隊成員包括主音兼結他手[大衛·伯恩](../Page/大衛·伯恩.md "wikilink")（David Byrne）、鼓手（Chris Frantz）、貝斯手（Tina Weymouth）、結他及鍵盤手（Jerry Harrison）。樂隊以其複雜而多層次的音樂見稱，當中融合了[朋克](https://zh.wikipedia.org/wiki/朋克 "wikilink")、[放克](../Page/放克.md "wikilink")、[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、[世界音樂](https://zh.wikipedia.org/wiki/世界音樂 "wikilink")、[前衛音樂](../Page/實驗音樂.md "wikilink")、[藝術搖滾等各種元素](../Page/艺术摇滚.md "wikilink")，促使[後朋克慢慢演變成為自成一格的](https://zh.wikipedia.org/wiki/後朋克 "wikilink")[新浪潮](../Page/新浪潮.md "wikilink")曲風。作為主音的大衛·伯恩亦為樂隊作品填出不少怪誕、嘲諷又或深奧難懂的歌詞，並因其鮮明且創新的現場演出風格使他們受各地樂迷的熱烈支持。
 
 傳聲頭像憑籍其過人的藝術性和前衛的實驗性，在八十年代的唱片界嬴得了商業成功和評論界的一致讚揚，風頭橫跨英美。即使解散後，其作品仍對音樂發展有著深遠的影響力，備受不少音樂權威刊物的推崇和肯定。2002年，樂隊順利地榮登[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。在2003年公佈的[滾石雜誌五百大專輯](../Page/滾石雜誌五百大專輯.md "wikilink")中，樂隊共有四張專輯的名字出現在這份榜單上，並在[英國第四台的百大專輯票選活動結果中奪下一席](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")。2011年，樂隊入選[滾石雜誌的百大偉大音樂家](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")，再進一步肯定了樂隊的地位。

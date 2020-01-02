@@ -1,3 +1,6 @@
+> 本文内容由[GDDR5](https://zh.wikipedia.org/wiki/GDDR5)转换而来。
+
+
 **第五版圖形用雙倍資料傳輸率**記憶體（**G**raphics **D**ouble **D**ata **R**ate, version **5**，簡稱**GDDR5**），是一種高性能[顯示卡使用的](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[同步動態隨機存取記憶體](https://zh.wikipedia.org/wiki/同步動態隨機存取記憶體 "wikilink")，专为高带宽需求电脑应用所设计。由AMD、SK Hynix、三星電子、NVIDIA、JEDEC等聯合制定，取代[GDDR3以及](https://zh.wikipedia.org/wiki/GDDR3 "wikilink")[GDDR4顯示記憶體](https://zh.wikipedia.org/wiki/GDDR4 "wikilink")。
 
 ## 技術細節

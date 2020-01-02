@@ -1,3 +1,6 @@
+> 本文内容由[D-Unit](https://zh.wikipedia.org/wiki/D-Unit)转换而来。
+
+
 **D-UNIT**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[D-Business娛樂在](https://zh.wikipedia.org/wiki/D-Business娛樂 "wikilink")2012年推出的新人嘻哈女子團體，於2012年8月3日的[M\! Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
 
 ## 團體形式

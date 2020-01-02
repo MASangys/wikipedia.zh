@@ -1,3 +1,6 @@
+> 本文内容由[FLASHBACK](https://zh.wikipedia.org/wiki/FLASHBACK)转换而来。
+
+
 《**FLASHBACK**》是[韓國的女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[After School的第](../Page/After_School.md "wikilink")5張韓語[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2012年6月21日由[Pledis Entertainment發售](https://zh.wikipedia.org/wiki/Pledis_Entertainment "wikilink")。\[1\]
 
 ## 概要

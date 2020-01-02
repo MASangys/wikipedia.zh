@@ -1,3 +1,6 @@
+> 本文内容由[J-Min](https://zh.wikipedia.org/wiki/J-Min)转换而来。
+
+
 **J-Min**（，），本名**吳志旼**（），是一名[韩国女歌手](https://zh.wikipedia.org/wiki/韩国 "wikilink")，屬[SM娛樂](../Page/SM娛樂.md "wikilink")旗下。于2007年9月与[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[东方神起一样](https://zh.wikipedia.org/wiki/东方神起 "wikilink")，通过Avex推出迷你唱片《滚动的苹果》，进军日本歌坛。憑著優秀的演唱功力，加上巧妙地运用韩语，日语，英语3国语言，令她其成为跨国界歌手。2012年8月26日，正式以《[致美麗的你](../Page/花樣少年少女_\(2012年電視劇\).md "wikilink")》原聲大碟一曲〈Stand Up〉在韩国樂壇出道。
 
 ## 音樂作品

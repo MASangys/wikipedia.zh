@@ -1,3 +1,6 @@
+> 本文内容由[Labo](https://zh.wikipedia.org/wiki/Labo)转换而来。
+
+
 「**labo**」是[flumpool的限定](https://zh.wikipedia.org/wiki/flumpool "wikilink")[獨立製作](../Page/獨立製作.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説

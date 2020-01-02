@@ -1,3 +1,6 @@
+> 本文内容由[Lucky \(迷你專輯\)](https://zh.wikipedia.org/wiki/Lucky_\(迷你專輯\))转换而来。
+
+
 《**Lucky**》是韓國人氣組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2011年10月11日發行的第二張迷你專輯。\[1\]
 
 ## 概述

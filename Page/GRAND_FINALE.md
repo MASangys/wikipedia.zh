@@ -1,3 +1,6 @@
+> 本文内容由[GRAND FINALE](https://zh.wikipedia.org/wiki/GRAND_FINALE)转换而来。
+
+
 《**GRAND FINALE**》是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年2月18日由[ZAIN RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 收錄曲目

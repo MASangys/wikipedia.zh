@@ -1,3 +1,6 @@
+> 本文内容由[宮津天橋立IC](https://zh.wikipedia.org/wiki/宮津天橋立IC)转换而来。
+
+
 **宮津天橋立IC**（平假名：みやづあまのはしだてインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宮津市](../Page/宮津市.md "wikilink")的[京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")與[鳥取豐岡宮津自動車道之](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

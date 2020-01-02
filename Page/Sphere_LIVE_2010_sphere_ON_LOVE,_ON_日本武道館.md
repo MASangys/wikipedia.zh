@@ -1,3 +1,6 @@
+> 本文内容由[Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館](https://zh.wikipedia.org/wiki/Sphere_LIVE_2010_sphere_ON_LOVE,_ON_日本武道館)转换而来。
+
+
 『**Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館**』（スフィア LIVE 2010 sphere ON LOVE, ON 日本武道館）是[sphere第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")2張的Live影像作品。2011年8月31日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

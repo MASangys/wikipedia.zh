@@ -1,3 +1,6 @@
+> 本文内容由[Ifconfig](https://zh.wikipedia.org/wiki/Ifconfig)转换而来。
+
+
 **ifconfig**（interface configuration的缩写）是在[类Unix作业系统中于](https://zh.wikipedia.org/wiki/类Unix "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")（CLI）下或系统配置脚本中用于配置、控制及查询[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")[网络接口的系统管理工具](../Page/网卡.md "wikilink")。ifconfig最初于4.2BSD中作为[BSD](../Page/BSD.md "wikilink") TCP/IP协议族的一部分出现。
 
 ## 用法

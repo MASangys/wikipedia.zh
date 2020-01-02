@@ -1,3 +1,6 @@
+> 本文内容由[HK SR9半自動步槍](https://zh.wikipedia.org/wiki/HK_SR9半自動步槍)转换而来。
+
+
 **HK SR9**是一款由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒-科赫公司所研製及生產](../Page/黑克勒&科赫.md "wikilink")、以[滾輪延遲反衝式槍機操作的運動及打靶用途的](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")[半自动步枪](../Page/半自动步枪.md "wikilink")。這該步槍是以美國民用市場的[HK91為藍本](https://zh.wikipedia.org/wiki/HK91半自動步槍 "wikilink")，並且裝上來自[HK PSG1和](../Page/HK_PSG1狙擊步槍.md "wikilink")[MSG90](../Page/HK_MSG90狙擊步槍.md "wikilink")[精確射手步槍](../Page/精確射手步槍.md "wikilink")的零部件。發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")／民用型[.308 Winchester](../Page/.308_Winchester.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述

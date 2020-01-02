@@ -1,3 +1,6 @@
+> 本文内容由[LALALA·SOSOSO](https://zh.wikipedia.org/wiki/LALALA·SOSOSO)转换而来。
+
+
 「**LALALA·SOSOSO**」（ラララ-ソソソ）是[日本](../Page/日本.md "wikilink")的女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第3张獨立製作[单曲](../Page/单曲.md "wikilink")。2008年12月13日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

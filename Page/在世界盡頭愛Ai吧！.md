@@ -1,3 +1,6 @@
+> 本文内容由[在世界盡頭愛Ai吧！](https://zh.wikipedia.org/wiki/在世界盡頭愛Ai吧！)转换而来。
+
+
 《**在世界盡頭愛Ai吧！**》（）是日本漫畫家[武田すん的漫畫作品](https://zh.wikipedia.org/wiki/武田すん "wikilink")，於[角川書店](../Page/角川書店.md "wikilink")《[電撃魔王](https://zh.wikipedia.org/wiki/電撃魔王 "wikilink")》連載完畢，[單行本全八冊](https://zh.wikipedia.org/wiki/單行本 "wikilink")。因為漫畫中部分橋段有女性[裸體](https://zh.wikipedia.org/wiki/裸體 "wikilink")，所以在台灣列為[十八禁漫畫](https://zh.wikipedia.org/wiki/十八禁漫畫 "wikilink")。
 
 ## 故事大綱

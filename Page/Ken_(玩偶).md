@@ -1,3 +1,6 @@
+> 本文内容由[Ken \(玩偶\)](https://zh.wikipedia.org/wiki/Ken_\(玩偶\))转换而来。
+
+
 是美國[玩具](../Page/玩具.md "wikilink")製造商[美泰兒](../Page/美泰兒.md "wikilink")1961年向大眾介紹推出的[人物玩偶](https://zh.wikipedia.org/wiki/玩偶 "wikilink")——該公司1959年發表[芭比娃娃](../Page/芭比娃娃.md "wikilink")，而此玩偶則設計作為她的[男朋友](https://zh.wikipedia.org/wiki/男朋友 "wikilink")，是芭比娃娃相關主要產品（[Barbie family and other principal characters](https://zh.wikipedia.org/wiki/:en:List_of_Barbie's_friends_and_family "wikilink")）之一。主產品芭比娃娃是20世紀全球最廣為人知及最暢銷的玩偶之一。
 
 玩偶“肯尼”與“芭比”雖為[虛構人物](https://zh.wikipedia.org/wiki/虚构角色 "wikilink")，但卻是以美泰兒公司創建人-{zh-hans:鲁丝·汉德勒; zh-hant:魯絲·漢德勒; zh-tw:露絲·韓德勒; zh:露絲·韓德勒;}-一對兒女的名字所命名。在2010年的[美国动画](https://zh.wikipedia.org/wiki/美国动画 "wikilink")《[-{-{zh:玩具總動員;zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-}- 3](../Page/玩具總動員3.md "wikilink") 》，“芭比”與“肯尼”也客串作為虛構故事中的人物角色。

@@ -1,3 +1,6 @@
+> 本文内容由[卡爾·F·H·亨利](https://zh.wikipedia.org/wiki/卡爾·F·H·亨利)转换而来。
+
+
 **卡爾亨利 （**英文：Carl Ferdinand Howard Henry或Carl F. H. Henry，1913年1月22日– 2003年12月7日），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[福音派](../Page/福音派.md "wikilink")[神學家](https://zh.wikipedia.org/wiki/神學家 "wikilink")，[福樂神學院創辦人之一](https://zh.wikipedia.org/wiki/福樂神學院 "wikilink")、《[今日基督教](../Page/今日基督教.md "wikilink")》首任主編。\[1\]
 
 ## 生平

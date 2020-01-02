@@ -1,3 +1,6 @@
+> 本文内容由[BIG MACHINE](https://zh.wikipedia.org/wiki/BIG_MACHINE)转换而来。
+
+
 《**BIG MACHINE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十三张录音室专辑。2003年9月17日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約74.6萬張。

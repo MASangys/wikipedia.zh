@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful Life \(專輯\)](https://zh.wikipedia.org/wiki/Beautiful_Life_\(專輯\))转换而来。
+
+
 **《Beautiful Life》** 是[陳法拉](../Page/陳法拉.md "wikilink")的首張個人音樂專輯大碟，於2012年7月31日公開發售。專輯內十首歌曲以抒情慢歌為主打，亦有收錄[陳法拉](../Page/陳法拉.md "wikilink")曾為無線電視劇集演唱的主題曲。
 
 ## 曲目列表

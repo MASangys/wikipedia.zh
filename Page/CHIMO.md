@@ -1,3 +1,6 @@
+> 本文内容由[CHIMO](https://zh.wikipedia.org/wiki/CHIMO)转换而来。
+
+
 **Chimo**是以[大分縣為中心活動的](https://zh.wikipedia.org/wiki/大分縣 "wikilink")[本地偶像團體](https://zh.wikipedia.org/wiki/本地偶像 "wikilink")。
 
 成員全員現居住在大分縣内・高中生，進行原創歌曲公演。

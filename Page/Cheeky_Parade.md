@@ -1,3 +1,6 @@
+> 本文内容由[Cheeky Parade](https://zh.wikipedia.org/wiki/Cheeky_Parade)转换而来。
+
+
 **Cheeky Parade** 是2012年組成的七人日本女子偶像團體、歌舞團體。所屬經紀公司為[avex management](https://zh.wikipedia.org/wiki/avex_management "wikilink")，所屬唱片公司為[iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要

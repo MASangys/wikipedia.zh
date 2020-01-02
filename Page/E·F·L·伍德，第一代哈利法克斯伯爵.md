@@ -1,3 +1,6 @@
+> 本文内容由[E·F·L·伍德，第一代哈利法克斯伯爵](https://zh.wikipedia.org/wiki/E·F·L·伍德，第一代哈利法克斯伯爵)转换而来。
+
+
 **愛德華·弗雷德里克·林德利·伍德，第一代哈利法克斯伯爵**，[KG](https://zh.wikipedia.org/wiki/嘉德勳章 "wikilink")，[OM](../Page/功績勳章_\(英國\).md "wikilink")，[GCSI](https://zh.wikipedia.org/wiki/印度之星勳章 "wikilink")，[GCMG](https://zh.wikipedia.org/wiki/GCMG "wikilink")，[GCIE](https://zh.wikipedia.org/wiki/印度帝國勳章 "wikilink")，[TD](https://zh.wikipedia.org/wiki/本地勳章 "wikilink")，[PC](../Page/英國樞密院.md "wikilink")（，），1925年至1934年稱為**艾文勳爵**（**The Lord Irwin**），1934年至1944年為**哈利法克斯子爵**（**The Viscount Halifax**），[英國資深](https://zh.wikipedia.org/wiki/英國 "wikilink")[保守黨](https://zh.wikipedia.org/wiki/英國保守黨 "wikilink")[政治家](../Page/政治家.md "wikilink")，1926年至1931年擔任[印度副王及總督](https://zh.wikipedia.org/wiki/印度總督 "wikilink")，1938年至1940年任[外務大臣](https://zh.wikipedia.org/wiki/英國外相 "wikilink")，任內與時任[首相](https://zh.wikipedia.org/wiki/英國首相 "wikilink")[內維爾·張伯倫等人向](https://zh.wikipedia.org/wiki/內維爾·張伯倫 "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")施行[綏靖政策](https://zh.wikipedia.org/wiki/綏靖政策 "wikilink")，廣受後世批評。
 
 ## 參考資料

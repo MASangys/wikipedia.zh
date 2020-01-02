@@ -1,3 +1,6 @@
+> 本文内容由[We Will ～在那裡～](https://zh.wikipedia.org/wiki/We_Will_～在那裡～)转换而来。
+
+
 《**We Will 〜在那裡〜**》（）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2003年2月5日於日本發行。
 
 ## 概要

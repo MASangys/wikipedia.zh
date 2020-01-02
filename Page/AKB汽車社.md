@@ -1,3 +1,6 @@
+> 本文内容由[AKB汽車社](https://zh.wikipedia.org/wiki/AKB汽車社)转换而来。
+
+
 《**AKB汽車社**》（）是[富士電視台](../Page/富士電視台.md "wikilink")在2012年4月28日至9月22日之間，於每週六深夜（相當於週日凌晨）在[日本](../Page/日本.md "wikilink")[關東地方](../Page/關東地方.md "wikilink")播放的一個與[汽車相關的](https://zh.wikipedia.org/wiki/汽車 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。由[AKB48](../Page/AKB48.md "wikilink")冠名並主演的此節目，是由[豐田汽車獨立贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")。
 
 ## 簡介

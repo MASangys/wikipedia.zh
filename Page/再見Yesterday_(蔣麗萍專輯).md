@@ -1,3 +1,6 @@
+> 本文内容由[再見Yesterday \(蔣麗萍專輯\)](https://zh.wikipedia.org/wiki/再見Yesterday_\(蔣麗萍專輯\))转换而来。
+
+
 《**再見Yesterday**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[蔣麗萍](../Page/蔣麗萍.md "wikilink")的第三張專輯，在1985年推出。專輯的第一主打歌是大碟同名歌曲《再見Yesterday》。
 
 ## 曲目

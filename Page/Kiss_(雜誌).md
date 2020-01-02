@@ -1,3 +1,6 @@
+> 本文内容由[Kiss \(雜誌\)](https://zh.wikipedia.org/wiki/Kiss_\(雜誌\))转换而来。
+
+
 《**Kiss**》是[日本](../Page/日本.md "wikilink")[講談社發行的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1992年創刊。
 
 ## 現在連載中作品

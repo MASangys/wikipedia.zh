@@ -1,3 +1,6 @@
+> 本文内容由[Naul](https://zh.wikipedia.org/wiki/Naul)转换而来。
+
+
 **Naul**（本名：유나얼，）是[大韓民國的歌手](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。Gyewon造型藝術大學媒體繪畫、[檀國大學](../Page/檀國大學.md "wikilink")西洋學學士、[檀國大學](../Page/檀國大學.md "wikilink")設計學院造型藝術學碩士。1999年ANTHEM 1輯《變心》出道，從2001年開始以組合[Brown Eyed Soul活動](../Page/Brown_Eyed_Soul.md "wikilink")。2010年拿撒勒大學聘之為音樂學部教授。與演員[韓惠軫](../Page/韓惠軫.md "wikilink")從2004年開始交往至2012年12月分手\[1\]\[2\]\[3\]，並是電影導演유대얼的雙胞胎哥哥。
 
 ## 學歷

@@ -1,3 +1,6 @@
+> 本文内容由[ACTC认证](https://zh.wikipedia.org/wiki/ACTC认证)转换而来。
+
+
 ACTC认证是苹果认证技术专员（英文：Apple Certified Technical Coordinator）认证的简称。该认证属于[苹果公司针对Mac](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") [OS X技术支持认证体系中的高级认证](https://zh.wikipedia.org/wiki/OS_X "wikilink")。主要针对苹果Mac [OS X Server的技术支持工程师](https://zh.wikipedia.org/wiki/OS_X_Server "wikilink")、销售支持工程师。
 
 ACTC主要考核专业技术人员在[OS X Server服务器领域的技术支持和故障诊断技能](https://zh.wikipedia.org/wiki/OS_X_Server "wikilink")。包括：如何安装和配置[OS X Server](https://zh.wikipedia.org/wiki/OS_X_Server "wikilink")，以提供基于网络的服务，如：文件共享、邮件服务、Web服务和Wiki等。如何使用工具来高效的管理和部署[OS X和软件更新等](https://zh.wikipedia.org/wiki/OS_X "wikilink")。

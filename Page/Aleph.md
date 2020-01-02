@@ -1,3 +1,6 @@
+> 本文内容由[Aleph](https://zh.wikipedia.org/wiki/Aleph)转换而来。
+
+
 ****是[原始迦南字母](../Page/原始迦南字母.md "wikilink")表的第一个字母，后来演变为各种[闪米特字母](https://zh.wikipedia.org/wiki/闪米特 "wikilink")，包括[腓尼基字母](../Page/腓尼基字母.md "wikilink")[phoenician_aleph.svg](https://zh.wikipedia.org/wiki/File:phoenician_aleph.svg "fig:phoenician_aleph.svg")（）、[叙利亚字母](https://zh.wikipedia.org/wiki/叙利亚字母 "wikilink")****（）、[希伯来字母](../Page/希伯来字母.md "wikilink")****（Aleph）以及[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")****（）。
 
 Aleph在闪米特语言中表示“牛”，最初是源于[埃及圣书体中牛头的象形字](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")<hiero> F1 </hiero>

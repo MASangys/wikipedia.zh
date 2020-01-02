@@ -1,3 +1,6 @@
+> 本文内容由[KFM金德](https://zh.wikipedia.org/wiki/KFM金德)转换而来。
+
+
 **KFM金德控股有限公司**，簡稱**KFM金德控股**，以及**KFM金德**（****，），於1989年，由[孫國華](https://zh.wikipedia.org/wiki/孫國華 "wikilink")（主席）、[葉錦培](https://zh.wikipedia.org/wiki/葉錦培 "wikilink")、[丘林泉](https://zh.wikipedia.org/wiki/丘林泉 "wikilink")，以及[翁正德創立名為](https://zh.wikipedia.org/wiki/翁正德 "wikilink")「金德精密五金有限公司」。
 
 業務在香港和國內經營提供精密金屬沖壓工具，以及金屬零部件的創新設計工程解決方案及製造服務\[1\]，總部位於香港新界葵涌葵樂街2-28號裕林工業中心A座10樓3室。

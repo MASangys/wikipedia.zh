@@ -1,3 +1,6 @@
+> 本文内容由[Gangkiz](https://zh.wikipedia.org/wiki/Gangkiz)转换而来。
+
+
 **Gangkiz**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GM Contents Media公司](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")2012推出的七人女子組合，於2012年5月18日出道，成員由智賢、秀恩、海寅、素敏、恩星、Esther、惠智七人組成。出道專輯為《We Became Gang》，其主打歌為《HONEY HONEY》。組合已宣告解散。
 
 ## 經歷

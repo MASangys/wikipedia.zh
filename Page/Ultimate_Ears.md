@@ -1,3 +1,6 @@
+> 本文内容由[Ultimate Ears](https://zh.wikipedia.org/wiki/Ultimate_Ears)转换而来。
+
+
 **Ultimate Ears**是[罗技旗下的部门](https://zh.wikipedia.org/wiki/罗技 "wikilink")，成立于1995年。
 
 ## 事件

@@ -1,3 +1,6 @@
+> 本文内容由[船帆座IM](https://zh.wikipedia.org/wiki/船帆座IM)转换而来。
+
+
 **船帆座IM**，又名**CD-48 4831**，**HD 83368**、**SAO 221339**、**HR 3831**，是[船帆座](../Page/船帆座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.17，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")273.18，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")2.52，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

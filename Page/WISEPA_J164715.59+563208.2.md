@@ -1,3 +1,6 @@
+> 本文内容由[WISEPA J164715.59+563208.2](https://zh.wikipedia.org/wiki/WISEPA_J164715.59+563208.2)转换而来。
+
+
 **WISEPA J164715.59+563208.2**（编号可缩写为**WISE 1647+5632**或**WISE J1647+5632**）是一颗[光谱分类为L](https://zh.wikipedia.org/wiki/恒星分类 "wikilink")9 pec（红）的[棕矮星](../Page/棕矮星.md "wikilink")，\[1\]位于[天龙座](../Page/天龙座.md "wikilink")中，距离地球大约28[光年](../Page/光年.md "wikilink")。\[2\]
 
 ## 发现

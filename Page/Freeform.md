@@ -1,3 +1,6 @@
+> 本文内容由[Freeform](https://zh.wikipedia.org/wiki/Freeform)转换而来。
+
+
 **Freeform**為[美国](../Page/美国.md "wikilink")的有線電視網，属于[迪士尼ABC電視集團旗下的](https://zh.wikipedia.org/wiki/迪士尼ABC電視集團 "wikilink")[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")的全球公司的子公司。Freeform提供面向广大观众、适合家庭收看到当代电视节目，同時也播放一些针对年轻女性的主要特色剧集与电影。节目包括离网重播的原始剧集、专题片、 电视原声电影以及一些宗教节目。
 其電視網建立于1977年，作为電視福音傳道士[佩特·羅伯森的基督教電視台](https://zh.wikipedia.org/wiki/佩特·羅伯森 "wikilink")，而于1990年演变成家庭频道（The Family Channel）。1998年被福斯儿童国际台（Fox Kids Worldwide Inc）买下，并更名为福斯家庭（Fox Family）。\[1\]\[2\] 2001年10月24日，福斯家庭频道、福斯家庭全球（Fox Family Worldwide）及一并售与华特迪士尼公司。\[3\]\[4\] 2015年10月6日，[迪士尼ABC電視集團宣布ABC](https://zh.wikipedia.org/wiki/迪士尼ABC電視集團 "wikilink") Family將於2016年1月12日起更名為Freeform。\[5\]\[6\]
 

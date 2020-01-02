@@ -1,3 +1,6 @@
+> 本文内容由[三菱扶桑MK](https://zh.wikipedia.org/wiki/三菱扶桑MK)转换而来。
+
+
 **三菱扶桑MK**（Mitsubishi Fuso MK）系列，是一款由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車設計生產的後置引擎單層巴士](https://zh.wikipedia.org/wiki/三菱扶桑卡客車 "wikilink")，本車系的發展源於1960年代的MR620型巴士，其後有多款改良型推出，當中MK117型在1988年1月推出，而MK217型則於1993年推出，本車系在日本獲大量採用，但日本以外則較不常見，而香港是少數曾經大量引進本車型的地區。
 
 [KMBRoute053.jpg](https://zh.wikipedia.org/wiki/File:KMBRoute053.jpg "fig:KMBRoute053.jpg")

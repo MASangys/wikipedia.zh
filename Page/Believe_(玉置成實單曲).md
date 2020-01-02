@@ -1,3 +1,6 @@
+> 本文内容由[Believe \(玉置成實單曲\)](https://zh.wikipedia.org/wiki/Believe_\(玉置成實單曲\))转换而来。
+
+
 「**Believe**」是[玉置成實](../Page/玉置成實.md "wikilink")在2003年4月23日發售的出道單曲。唱片公司是[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")。
 
 還有，同年5月21日再生產・單曲「**Believe Reproduction 〜GUNDAM SEED EDITION〜**」發售。本記事亦有記述。

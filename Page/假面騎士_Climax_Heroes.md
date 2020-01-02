@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士 Climax Heroes](https://zh.wikipedia.org/wiki/假面騎士_Climax_Heroes)转换而来。
+
+
 ，是由[Eighting公司開發](https://zh.wikipedia.org/wiki/Eighting "wikilink")，[NAMCO BANDAI Games推出](https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games "wikilink")，以[特攝片](../Page/特攝片.md "wikilink")『[假面騎士系列](../Page/假面騎士系列.md "wikilink")』為主的格鬥遊戲系列。
 
 在本系列推出以前，假面騎士系列的[電子遊戲都是以再現劇中各畫面為基本的](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，不過為了乎合平成假面騎士10週年作品『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的故事內容，於是在2009年開發了集結了從『[假面騎士空我](../Page/假面騎士空我.md "wikilink")』到『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的十作平成假面騎士作品的[跨界作品](../Page/跨界作品.md "wikilink")遊戲：『**假面騎士 Climax Heroes**』。

@@ -1,3 +1,6 @@
+> 本文内容由[Docking48](https://zh.wikipedia.org/wiki/Docking48)转换而来。
+
+
 《**Docking48**》（）是2011年4月19日開始在[關西電視台](../Page/關西電視台.md "wikilink")（[關西地方](https://zh.wikipedia.org/wiki/關西地方 "wikilink")）每週星期二24:35 - 25:30\[1\] 播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 出演者

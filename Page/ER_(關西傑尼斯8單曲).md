@@ -1,3 +1,6 @@
+> 本文内容由[ER \(關西傑尼斯8單曲\)](https://zh.wikipedia.org/wiki/ER_\(關西傑尼斯8單曲\))转换而来。
+
+
 《**ER**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第21張單曲，以特殊組合「關八戰隊」的名義發行於2012年7月25日發行，唱片公司為[Imperial Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要

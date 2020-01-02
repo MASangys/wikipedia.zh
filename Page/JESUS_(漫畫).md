@@ -1,3 +1,6 @@
+> 本文内容由[JESUS \(漫畫\)](https://zh.wikipedia.org/wiki/JESUS_\(漫畫\))转换而来。
+
+
 《**JESUS**》系列漫畫是1992年12月號開始連載於[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")的漫畫，原作：[七月鏡一](../Page/七月鏡一.md "wikilink")、作畫：[藤原芳秀](../Page/藤原芳秀.md "wikilink")。1995年結束第一部。第二部於2009年2月20日重新連載。
 
 ## JESUS 復活殺手

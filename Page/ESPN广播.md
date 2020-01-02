@@ -1,3 +1,6 @@
+> 本文内容由[ESPN广播](https://zh.wikipedia.org/wiki/ESPN广播)转换而来。
+
+
 **ESPN广播**（ESPN Radio）是[ESPN](../Page/ESPN.md "wikilink")旗下的一个美国体育广播网，于1992年1月1日起开播，开播时呼号为“SportsRadio ESPN”。电台总部设在布里斯托尔。ESPN广播除了播放传统的日播和周播节目外，也对[美国职棒大联盟](https://zh.wikipedia.org/wiki/美国职棒大联盟 "wikilink")、[全国篮球协会杯冠军赛等赛事进行特别直播](https://zh.wikipedia.org/wiki/全国篮球协会杯冠军赛 "wikilink")。
 
 ## 电台

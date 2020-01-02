@@ -1,3 +1,6 @@
+> 本文内容由[M-84AS主戰坦克](https://zh.wikipedia.org/wiki/M-84AS主戰坦克)转换而来。
+
+
 **M-84AS主戰坦克**是[塞爾維亞研製的](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")[主戰坦克](https://zh.wikipedia.org/wiki/主戰坦克 "wikilink")。它改良自[M-84](https://zh.wikipedia.org/wiki/M-84 "wikilink")，也稱M-2001或M-84AB1。
 
 M-84AS加強了火控系統和夜戰能力，外型與[T-90多有類似可以推斷使用了俄國技術](https://zh.wikipedia.org/wiki/T-90 "wikilink")，但是重量上比較輕又換裝了較大發動機所以速度比T-90快，還裝有主動防禦系統和核生化防護裝備，目前有232輛[M-84預計升級為M](https://zh.wikipedia.org/wiki/M-84 "wikilink")-84AS，2010年開始列裝，[科威特](../Page/科威特.md "wikilink")與阿拉伯國家對此戰車也深表興趣，因為該車幾乎公認為[T-90的一種變形版](https://zh.wikipedia.org/wiki/T-90 "wikilink")，卻又不必向俄國購得，對許多多方考量政經關係卻又慣用俄式武器的國家為一種另類選擇。

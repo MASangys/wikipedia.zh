@@ -1,3 +1,6 @@
+> 本文内容由[HTC One \(M7\)](https://zh.wikipedia.org/wiki/HTC_One_\(M7\))转换而来。
+
+
 **HTC One**（研發代號M7）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")公司开发、搭载[Android](../Page/Android.md "wikilink")操作系统之高階旗舰[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。2013年2月，HTC One先在台灣被報導\[1\]，並在美国[纽约](../Page/纽约.md "wikilink")和英国[伦敦](../Page/伦敦.md "wikilink")两地同步正式发表\[2\]，次月开售。被外界视为是重振[HTC One系列品牌定位](../Page/HTC_One系列.md "wikilink")，企圖与 [Samsung Galaxy S 4](../Page/三星Galaxy_S4.md "wikilink")、[Sony Xperia Z](../Page/Sony_Xperia_Z.md "wikilink") 和 [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 在高階手機市场竞争的機型。
 
 憑優異的工業設計，2013年的HTC One在[MWC獲頒](../Page/世界行動通訊大會.md "wikilink")「最佳新手機、裝置或平板電腦獎項」，2014年2月又獲選為MWC「年度最佳智慧型手機\[3\] 」， 獲得網評人之讚譽。隨著此款手機供貨開始穩定，使得宏達國際公司營業赤字比預期有所減少。
@@ -662,89 +665,47 @@ iF product design award 2014 - gold - 2014 February\[39\](2014 [iF產品設計�
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14. [HTC ONE dual 概觀 規格 使用教學 購買地點](http://www.htc.com/tw/smartphones/htc-one-dual-sim/)
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. [GSMA 2013 - Global Mobile Awards Best New Mobile Device](http://www.globalmobileawards.com/winners-2013/#cat_id23)
-
 20.
 21. [Tech Radar - 20 Best Smartphones in the US : No. 1](http://mylifescoop.com/2013/05/17/20-best-smartphones-in-the-us/)
-
 22. [Computex 2013 - Gold award for design & innovation](http://www.computextaipei.com.tw/en_US/news/info.html?id=DF8365444EE2FFBA)
-
 23. [EISA Award - Best Product 2013-2014 : Advanced Smartphone](http://www.eisa.eu/award/32/european-advanced-smartphone-2013-2014.html)
-
 24. [Pocket-lint - Best smartphones 2013: The best phones available to buy today](http://www.pocket-lint.com/news/120309-best-smartphones-2013-the-best-phones-available-to-buy-today)
-
 25. [Tech Radar - 20 best mobile phones in the world today : No. 1](http://www.techradar.com/news/phone-and-communications/mobile-phones/20-best-mobile-phones-in-the-world-today-645440#articleContent)
-
 26. [Tech Radar - 20 Best Smartphones in the US : No. 1](http://www.techradar.com/us/news/phone-and-communications/mobile-phones/20-best-mobile-phones-in-the-world-today-645440)
-
 27. [T3 Awards 2013 - T3 Design Award](http://awards.t3.com/categories/t3-design-award)
-
 28. [T3 Awards 2013 - Phone of the Year](http://awards.t3.com/categories/phone-of-the-year)
-
 29. [T3 Awards 2013 - Gadget of the Year](http://awards.t3.com/categories/gadget-of-the-year)
-
 30. [HTC One 取得全球首款智慧型手機 ISO/TS 14067:2013 產品碳足跡查驗證書](http://www.htc.com/tw/csr/sustainability-agenda/sustainable-products/)
-
 31. [Pocket-lint Gadget Awards 2013 winners announced](http://www.pocket-lint.com/news/125501-pocket-lint-gadget-awards-2013-winners-announced)
-
 32. [Business Insider - RANKED\#1: The Most Innovative Smartphones Of 2013](http://www.businessinsider.com/most-innovative-smartphones-2013-12#1-the-htc-one-proved-android-phones-can-be-beautiful-10)
-
 33. [ZDNet - Top 10 smartphones of 2013: There's One that's best - Number 1: HTC One](http://www.zdnet.com/top-10-smartphones-of-2013-theres-one-thats-best-7000024169/)
-
 34. [Android and Me - Reader’s Choice: Best Smartphone of 2013](http://androidandme.com/2013/12/devices/readers-choice-awards-the-best-smartphone-of-2013/)
-
 35. [HTC One crowned 2013 TrustedReviews Phone of the Year](http://www.trustedreviews.com/news/htc-one-crowned-2013-trustedreviews-phone-of-the-year#OczEUfO7ejFAkApH.99)
-
 36. [Engadget 中文版 2013 旗艦手機篇之最](http://chinese.engadget.com/2014/01/04/engadget-2013-best-of-flagship-phones/)
-
 37. [Global Mobile Awards Best Smartphone](http://www.globalmobileawards.com/winners-2014/#cat_id22)
-
 38.
 39. [iF product design award 2014 - gold](http://exhibition.ifdesign.de/entrydetails_en.html?beitrag_id=125485)
-
 40. [The winners of the 2013 Engadget Awards -- Readers' Choice](http://www.engadget.com/2014/03/20/winners-2013-engadget-awards-readers-choice/)
-
 41. [1](http://www.ifixit.com/Teardown/HTC+One+Teardown/13494)
-
 42. [hTC 旗艦機 夜拍竟泛紫光](http://www.appledaily.com.tw/appledaily/article/headline/20130818/35230103/)隨著感光組件的老化，網路上宣布"災情"的數量也直線攀升。
-
 43. [New HTC One 拍照嚴重色偏 HTC 承認錯誤 將提供韌體升級解決](http://www.chinatimes.com/realtimenews/New-HTC-One%E6%8B%8D%E7%85%A7%E5%9A%B4%E9%87%8D%E8%89%B2%E5%81%8F-HTC%E6%89%BF%E8%AA%8D%E9%8C%AF%E8%AA%A4-%E5%B0%87%E6%8F%90%E4%BE%9B%E9%9F%8C%E9%AB%94%E5%8D%87%E7%B4%9A%E8%A7%A3%E6%B1%BA-20130914001911-260412)
-
 44. [手機自選 ISO 值 攏係假](http://www.appledaily.com.tw/appledaily/article/headline/20131103/35410839/%E6%89%8B%E6%A9%9F%E8%87%AA%E9%81%B8ISO%E5%80%BC%E6%94%8F%E4%BF%82%E5%81%87)
-
 45. [HTC與Nokia專利訴訟落幕 雙方簽合作契約](http://www.nownews.com/n/2014/02/08/1112836)

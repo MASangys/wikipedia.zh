@@ -1,3 +1,6 @@
+> 本文内容由[Over Joyed](https://zh.wikipedia.org/wiki/Over_Joyed)转换而来。
+
+
 **《Over Joyed》**是韓國Pop Dance組合[SS501](../Page/SS501.md "wikilink")主唱[許永生](../Page/許永生.md "wikilink")於2012年9月19日由B2M Entertainment企劃，[波麗佳音發行的首張日文正規專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 專輯概要

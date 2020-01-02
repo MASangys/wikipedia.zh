@@ -1,3 +1,6 @@
+> 本文内容由[Dice系数](https://zh.wikipedia.org/wiki/Dice系数)转换而来。
+
+
 **Dice系数**, 根据 [Lee Raymond Dice](https://zh.wikipedia.org/wiki/Lee_Raymond_Dice "wikilink")\[1\] 命名，是一种集合相似度度量函数，通常用于计算两个样本的相似度：
 
 \[s = \frac{2 | X \cap Y |}{| X | + | Y |}\]

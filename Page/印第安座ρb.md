@@ -1,3 +1,6 @@
+> 本文内容由[印第安座ρb](https://zh.wikipedia.org/wiki/印第安座ρb)转换而来。
+
+
 **印第安座ρb**（**Rho Indi b**）是一顆環繞[印第安座ρ](../Page/印第安座ρ.md "wikilink")的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")。它的軌道半長軸是2.54天文單位，在母恆星的[適居帶以外](https://zh.wikipedia.org/wiki/適居帶 "wikilink")，軌道週期是3.7年，質量超過木星2倍。
 
 [Rho_Indi_b.jpg](https://zh.wikipedia.org/wiki/File:Rho_Indi_b.jpg "fig:Rho_Indi_b.jpg") 中的印第安座ρb\]\]

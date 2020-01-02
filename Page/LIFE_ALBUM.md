@@ -1,3 +1,6 @@
+> 本文内容由[LIFE ALBUM](https://zh.wikipedia.org/wiki/LIFE_ALBUM)转换而来。
+
+
 《**LIFE ALBUM**》（ライフアルバム））是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")2張錄音室專輯，2008年2月13日發行。
 
 ## 收錄歌曲

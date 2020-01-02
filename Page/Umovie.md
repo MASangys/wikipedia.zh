@@ -1,3 +1,6 @@
+> 本文内容由[Umovie](https://zh.wikipedia.org/wiki/Umovie)转换而来。
+
+
 **UMOVIE**，全名Umovie Production Co. Ltd.，中文名稱為宇宙製作有限公司，是一間[多媒體](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[製作](../Page/製作.md "wikilink")公司。目前UMOVIE[業務](https://zh.wikipedia.org/wiki/業務 "wikilink")[範疇包括](https://zh.wikipedia.org/wiki/範疇 "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")、拍攝短片、[惡搞短片等](https://zh.wikipedia.org/wiki/惡搞 "wikilink")。其部分短片透過[YouTube](../Page/YouTube.md "wikilink")平台分享。UMOVIE公司其著名作品，如[司徒夾帶](../Page/司徒夾帶.md "wikilink")、《頭文字T》、《搵鬼訊》、 《大災難》等。其公司並得到了導演[李力持](../Page/李力持.md "wikilink")支持，成為其[董事](../Page/董事.md "wikilink")及[製作總監](https://zh.wikipedia.org/wiki/製作總監 "wikilink")。UMOVIE公司理念為「以新創行，凡事可能」。
 
 ## 成员

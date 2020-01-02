@@ -1,3 +1,6 @@
+> 本文内容由[GLib](https://zh.wikipedia.org/wiki/GLib)转换而来。
+
+
 **GLib**是一个跨平台的、用[C语言编写的五个底层](https://zh.wikipedia.org/wiki/C语言 "wikilink")[库的集合](../Page/函式庫.md "wikilink")，为[GNOME](../Page/GNOME.md "wikilink")所使用。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[IMac G3](https://zh.wikipedia.org/wiki/IMac_G3)转换而来。
+
+
 **iMac G3**为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")(原苹果电脑公司)iMac个人电脑产品线上首个型号,并是[精简型电脑的鼻祖](https://zh.wikipedia.org/wiki/精简型电脑 "wikilink")。就如同[首台Mac一般](https://zh.wikipedia.org/wiki/苹果机 "wikilink")，iMac G3是一台[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")，将显示屏与[系统单元都集成在一个机箱中](https://zh.wikipedia.org/wiki/系统单元 "wikilink")。
 
 iMac G3拥有半透明、色彩艳丽的外壳，并与色彩相配的键盘、鼠标一起出售。

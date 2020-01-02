@@ -1,3 +1,6 @@
+> 本文内容由[Summer Night Town](https://zh.wikipedia.org/wiki/Summer_Night_Town)转换而来。
+
+
 「**Summer Night Town**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第2张[单曲](../Page/单曲.md "wikilink")。於1998年5月27日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[EAP](https://zh.wikipedia.org/wiki/EAP)转换而来。
+
+
 **EAP**可以指：[English for Academic Purpose](https://en.wikipedia.org/wiki/English_for_academic_purposes) 学术英语
 
 ## 组织

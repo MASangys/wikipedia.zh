@@ -1,3 +1,6 @@
+> 本文内容由[食人族 \(EP\)](https://zh.wikipedia.org/wiki/食人族_\(EP\))转换而来。
+
+
 《食人族》（）為[美國歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[凱莎](../Page/凱莎.md "wikilink")於2010年11月19日發行的首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，美國本土由[RCA發行](https://zh.wikipedia.org/wiki/RCA_Records "wikilink")，美國本土以外由[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")發行。
 
 ## 簡介

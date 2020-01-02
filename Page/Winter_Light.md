@@ -1,3 +1,6 @@
+> 本文内容由[Winter Light](https://zh.wikipedia.org/wiki/Winter_Light)转换而来。
+
+
 《**Winter Light**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[辛曉琪](../Page/辛曉琪.md "wikilink")的首張英語[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱專輯 "wikilink")，在1995年12月推出。專輯的第一主打歌是《The Girl With April In Her Eyes》，而第二主打歌則是大碟同名歌曲《Winter Light》。
 
 ## 曲目

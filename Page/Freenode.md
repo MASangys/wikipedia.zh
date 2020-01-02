@@ -1,3 +1,6 @@
+> 本文内容由[Freenode](https://zh.wikipedia.org/wiki/Freenode)转换而来。
+
+
 **Freenode**，前称**Open Projects Network**，是用于群体间或个人对个人的[IRC](../Page/IRC.md "wikilink")[即时聊天](https://zh.wikipedia.org/wiki/即时聊天 "wikilink")[网络](../Page/计算机网络.md "wikilink")。\[1\]所有服务器都可以通过主机地址[chat.freenode.net](irc://chat.freenode.net)和[irc.freenode.net](http://arquivo.pt/wayback/20141125012630/http://irc.freenode.net/)访问，并轮循连接各地实际服务器的进行[负载均衡](../Page/负载均衡.md "wikilink")。\[2\]\[3\]到2010年为止，它已经成为最大的[自由及开源软件的IRC网络](../Page/自由及开放源代码软件.md "wikilink")。\[4\]截止到2013年，这个世界最大的IRC网络\[5\]拥有超过90000名用户和40000个频道，及保持每年约5000名新用户的增长速率。
 
 ## 特点

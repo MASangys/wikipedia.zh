@@ -1,3 +1,6 @@
+> 本文内容由[Help me!!](https://zh.wikipedia.org/wiki/Help_me!!)转换而来。
+
+
 《**Help me\!\!**》是[日本](../Page/日本.md "wikilink")女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第52張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年1月23日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
@@ -81,5 +84,4 @@
 [Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:2013年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon單曲週榜冠軍作品 "wikilink") [Category:2013年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2013年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.
-
 2.

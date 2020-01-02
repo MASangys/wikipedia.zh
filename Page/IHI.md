@@ -1,3 +1,6 @@
+> 本文内容由[IHI](https://zh.wikipedia.org/wiki/IHI)转换而来。
+
+
 **IHI公司**（，），前稱「**石川島播磨重工業**」（），是[日本](../Page/日本.md "wikilink")一家[重工業公司](https://zh.wikipedia.org/wiki/重工業 "wikilink")。
 
 IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://zh.wikipedia.org/wiki/江戶幕府 "wikilink")[水戶藩](../Page/水戶藩.md "wikilink")主[德川齊昭](../Page/德川齊昭.md "wikilink")下令於[江戶](../Page/江戶.md "wikilink")[隅田川](../Page/隅田川.md "wikilink")河口的石川島（位於現在[東京都](../Page/東京都.md "wikilink")[中央區佃二丁目](../Page/中央區_\(東京都\).md "wikilink")）建設造船廠，成為「石川島造船廠」。一戰後開始涉足汽車及飛行器製造業務，二戰時參與建造軍艦及飛行器。二戰後透過併購繼續壯大，2007年更名為株式會社IHI。

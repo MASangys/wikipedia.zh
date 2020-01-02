@@ -1,3 +1,6 @@
+> 本文内容由[Uncontrolled](https://zh.wikipedia.org/wiki/Uncontrolled)转换而来。
+
+
 《**Uncontrolled**》（勢不可擋）是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[安室奈美惠](../Page/安室奈美惠.md "wikilink")第十張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。於2012年6月27日發行。
 
 ## 簡介

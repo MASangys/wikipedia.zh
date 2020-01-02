@@ -1,3 +1,6 @@
+> 本文内容由[Sankt Georgen am Ybbsfelde](https://zh.wikipedia.org/wiki/Sankt_Georgen_am_Ybbsfelde)转换而来。
+
+
 **Sankt Georgen am Ybbsfelde**（德语：）是[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[下奥地利州](https://zh.wikipedia.org/wiki/下奥地利州 "wikilink")[阿姆施泰滕县的一个](https://zh.wikipedia.org/wiki/阿姆施泰滕县 "wikilink")[市镇](../Page/市镇_\(奥地利\).md "wikilink")。总面积22.87平方公里，总人口2613人，人口密度114.3人/平方公里（2005年）。
 
 ## 参见

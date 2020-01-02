@@ -1,3 +1,6 @@
+> 本文内容由[Try Boy,Try Girl](https://zh.wikipedia.org/wiki/Try_Boy,Try_Girl)转换而来。
+
+
 《**Try Boy,Try Girl**》是前田亘輝的第4張（件）的單人曲子。CD「SRDL3758」。
 
 ## 簡介

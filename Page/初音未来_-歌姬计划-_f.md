@@ -1,3 +1,6 @@
+> 本文内容由[初音未来 -歌姬计划- f](https://zh.wikipedia.org/wiki/初音未来_-歌姬计划-_f)转换而来。
+
+
 《**初音未来 -歌姬计划- f**》（，）是一款由[世嘉](../Page/世嘉.md "wikilink")与[Crypton Future Media为](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")[PlayStation Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation 3平台开发的](../Page/PlayStation_3.md "wikilink")[音乐游戏](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。\[1\]这是[初音未来 -歌姬计划-系列的第五款游戏](../Page/初音未来_-歌姬计划-.md "wikilink")，也是歌姬计划系列中首款[跨平台的游戏](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。《初音未来 -歌姬计划- f》于2012年8月30日发布于PlayStation Vita平台，2013年3月7日发布于PlayStation 3平台。\[2\]\[3\]\[4\]
 
 ## 影响

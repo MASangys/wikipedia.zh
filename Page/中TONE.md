@@ -1,3 +1,6 @@
+> 本文内容由[中TONE](https://zh.wikipedia.org/wiki/中TONE)转换而来。
+
+
 **中TONE**（），是一組來自[中華民國](../Page/中華民國.md "wikilink")台灣[澎湖的](https://zh.wikipedia.org/wiki/澎湖 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，目前成員有4個人。育德、小咪、阿東三人，在2010年7月一起組成「總統府秘書長」樂團。2011年後來加入小提琴手BOA，確定正式組成中TONE樂團。2012年主唱丁丁離開，小許、阿德加入。2014年因鼓手返鄉回高雄，找不到合適的替代人選，同年7月1日中TONE樂團宣布無限期休團。
 
 ## 音樂作品

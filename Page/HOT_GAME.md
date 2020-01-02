@@ -1,3 +1,6 @@
+> 本文内容由[HOT GAME](https://zh.wikipedia.org/wiki/HOT_GAME)转换而来。
+
+
 **《HOT GAME》**（，）是韓國新銳男子組合[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")，於2012年7月11日由 [DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ E\&M 所發行的第三張數位單曲。同年10月31日由UniversalSigma發行實體日語四版本。
 
 ## 單曲概要

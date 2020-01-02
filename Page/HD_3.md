@@ -1,3 +1,6 @@
+> 本文内容由[HD 3](https://zh.wikipedia.org/wiki/HD_3)转换而来。
+
+
 **HD 3**，又名**BD+44 4550**，**SAO 36042**、**HR 1**，是一颗恒星\[1\]\[2\]，视星等为6.7，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")114.44，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-16.88，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 特性

@@ -1,3 +1,6 @@
+> 本文内容由[DC 超級英雄 Online](https://zh.wikipedia.org/wiki/DC_超級英雄_Online)转换而来。
+
+
 《**DC 宇宙 Online**》（英文名：）是[索尼線上娛樂所發行的一款](https://zh.wikipedia.org/wiki/索尼線上娛樂 "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，可運行於[個人電腦及](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[PlayStation 3](../Page/PlayStation_3.md "wikilink")。游戏根據[DC漫畫](../Page/DC漫畫.md "wikilink")中的[超級英雄而設](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，遊戲總監是[吉姆·李](../Page/吉姆·李.md "wikilink")。遊戲最早於2008年7月4日發布和2008年7月14日發布首款預告片，於2011年1月正式推出。遊戲最初以按月收費，至2011年10月改為免費。
 
 ## 評價

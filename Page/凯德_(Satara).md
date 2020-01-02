@@ -1,3 +1,6 @@
+> 本文内容由[凯德 \(Satara\)](https://zh.wikipedia.org/wiki/凯德_\(Satara\))转换而来。
+
+
 **凯德**（Khed），是[印度](../Page/印度.md "wikilink")[马哈拉施特拉邦](../Page/马哈拉施特拉邦.md "wikilink")[萨塔拉县的一个城镇](https://zh.wikipedia.org/wiki/萨塔拉县 "wikilink")。总人口6897（2001年）。
 
 ## 人口

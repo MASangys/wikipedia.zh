@@ -1,3 +1,6 @@
+> 本文内容由[Love \& Hate \(Ping Pung專輯\)](https://zh.wikipedia.org/wiki/Love_\&_Hate_\(Ping_Pung專輯\))转换而来。
+
+
 **Love & Hate**是[香港](../Page/香港.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")**[Ping Pung](../Page/Ping_Pung.md "wikilink")**于2004年8月20日推出的首张大碟。 [Ping Pung憑大碟上榜歌曲](../Page/Ping_Pung.md "wikilink")《我話事》、《殺她死》及《愛是最大權利》於2004年度叱咤樂壇流行榜頒獎典禮奪得「叱咤樂壇生力軍組合銀獎」。
 
 ## 曲目

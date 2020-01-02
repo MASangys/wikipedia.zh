@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Pocket](https://zh.wikipedia.org/wiki/三星Galaxy_Pocket)转换而来。
+
+
 **Samsung Galaxy Pocket**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星公司在](https://zh.wikipedia.org/wiki/三星公司 "wikilink")2011年的入門式[智慧型電話](https://zh.wikipedia.org/wiki/智慧型電話 "wikilink")，於2012年3月開始生產。Galaxy Pocket配備[Galaxy系列裏最小的](https://zh.wikipedia.org/wiki/Samsung_Galaxy系列 "wikilink")2.8寸顯示屏，類似[Galaxy Y](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Y "wikilink")。Galaxy Pocket配備一個832MHz的處理器，可使用3G，Wi-Fi和藍牙3.0。
 
 ## 特色

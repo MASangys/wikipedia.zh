@@ -1,3 +1,6 @@
+> 本文内容由[Because... I am](https://zh.wikipedia.org/wiki/Because..._I_am)转换而来。
+
+
 「**Because... I am**」是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年7月11日由\[1\][A-Sketch發售](https://zh.wikipedia.org/wiki/amuse "wikilink")。
 
 ## 收錄曲

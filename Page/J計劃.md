@@ -1,3 +1,6 @@
+> 本文内容由[J計劃](https://zh.wikipedia.org/wiki/J計劃)转换而来。
+
+
 《**J計劃**》（）為1994年由遊戲廠商[Almanic製作](https://zh.wikipedia.org/wiki/Almanic "wikilink")、[ENIX發行的](https://zh.wikipedia.org/wiki/ENIX "wikilink")[SFC主機用](https://zh.wikipedia.org/wiki/SFC "wikilink")[養成遊戲](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")。\[1\]
 
 作品名稱中的「」是當時在漫畫雜誌《[VJump](https://zh.wikipedia.org/wiki/VJump "wikilink")》上發起徵名活動，從讀者回函中所挑選出。

@@ -1,3 +1,6 @@
+> 本文内容由[Clochette](https://zh.wikipedia.org/wiki/Clochette)转换而来。
+
+
 **Clochette**（）社位於[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")[淺草](https://zh.wikipedia.org/wiki/淺草 "wikilink")，為日本公司ブランエール（BLANC AILE）旗下的成人遊戲品牌。自2007年開始活躍，開發浪漫喜劇性質的校園風格的遊戲。
 
 在法國“鐘，小鐘”和Clochette是一個詞，意思是（鈴、小鐘），在法國（Blanc Aile）的意思是“白色的翅膀”。

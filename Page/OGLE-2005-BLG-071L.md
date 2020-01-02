@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-2005-BLG-071L](https://zh.wikipedia.org/wiki/OGLE-2005-BLG-071L)转换而来。
+
+
 **OGLE-2005-BLG-071L**是一顆視星等只有19.5的恆星，在天球上位於[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，位於距離地球約11000光年的[銀河系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")[核球內](https://zh.wikipedia.org/wiki/核球_\(星系\) "wikilink")。該恆星被認為是質量只有太陽46%的[紅矮星](../Page/紅矮星.md "wikilink")\[1\]。
 
 ## 行星系統

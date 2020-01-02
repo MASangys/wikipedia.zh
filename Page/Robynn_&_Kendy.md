@@ -1,3 +1,6 @@
+> 本文内容由[Robynn \& Kendy](https://zh.wikipedia.org/wiki/Robynn_\&_Kendy)转换而来。
+
+
 **Robynn & Kendy**，[香港](../Page/香港.md "wikilink")唱作[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，成員為**Robynn Yip**（[葉晴晴](https://zh.wikipedia.org/wiki/:zh-yue:葉晴晴 "wikilink")）和**Kendy Suen**（[孫曉慧](https://zh.wikipedia.org/wiki/:zh-yue:孫曉慧 "wikilink")），2011年7月開始於影片分享網站[YouTube](../Page/YouTube.md "wikilink")發放改編及翻唱作品，現為[環球唱片旗下歌手](../Page/環球唱片_\(香港\).md "wikilink")。
 
 ## 成員背景

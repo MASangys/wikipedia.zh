@@ -1,3 +1,6 @@
+> 本文内容由[BXP衝鋒槍](https://zh.wikipedia.org/wiki/BXP衝鋒槍)转换而来。
+
+
 **BXP**是一款由[南非槍械製造商](https://zh.wikipedia.org/wiki/南非 "wikilink")-{[米切姆公司](https://zh.wikipedia.org/wiki/米切姆公司 "wikilink")}-（，目前是[丹尼爾公司的其中一個部門](https://zh.wikipedia.org/wiki/丹尼爾公司 "wikilink")，原來屬於阿姆斯科（））於1980年代中期研製並且於1988年開始投入生產的[冲锋枪](../Page/冲锋枪.md "wikilink")，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

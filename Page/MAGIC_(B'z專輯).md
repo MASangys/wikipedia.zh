@@ -1,3 +1,6 @@
+> 本文内容由[MAGIC \(B\'z專輯\)](https://zh.wikipedia.org/wiki/MAGIC_\(B\'z專輯\))转换而来。
+
+
 《**MAGIC**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十七张录音室专辑。2009年11月18日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約48.8萬張。

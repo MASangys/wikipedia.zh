@@ -1,3 +1,6 @@
+> 本文内容由[Chuck Taylor All-Stars](https://zh.wikipedia.org/wiki/Chuck_Taylor_All-Stars)转换而来。
+
+
 [A_classic_Black_pair_of_Converse_All_Stars_resting_on_the_Black_&_White_Ed._Shoebox_(1998-2002).JPG](https://zh.wikipedia.org/wiki/File:A_classic_Black_pair_of_Converse_All_Stars_resting_on_the_Black_&_White_Ed._Shoebox_\(1998-2002\).JPG "fig:A_classic_Black_pair_of_Converse_All_Stars_resting_on_the_Black_&_White_Ed._Shoebox_(1998-2002).JPG") ****，或称****，别名“****”、“****”、“****”、“****”、“****”，\[1\]是由[匡威](../Page/匡威.md "wikilink")生产的[帆布](https://zh.wikipedia.org/wiki/帆布 "wikilink")[胶底](../Page/橡膠.md "wikilink")[鞋](../Page/鞋.md "wikilink")。1917年首次生产时称“**All Star**”, 公司以此尝试占领[篮球](../Page/篮球.md "wikilink")鞋市场。\[2\]身为篮球运动员兼匡威产品推销员的改进了鞋的设计并在1920年代成为该产品代言人。\[3\]
 
 ## 历史

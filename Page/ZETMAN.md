@@ -1,3 +1,6 @@
+> 本文内容由[ZETMAN](https://zh.wikipedia.org/wiki/ZETMAN)转换而来。
+
+
 《**ZETMAN**》是日本漫畫家[桂正和](../Page/桂正和.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2002年48號起開始連載。從2006年6月經過約1年的長期休載後於2007年26號恢復連載；2014年34号第一幕完结。
 
 2012年4月起開始播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。

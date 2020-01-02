@@ -1,3 +1,6 @@
+> 本文内容由[ChAngE](https://zh.wikipedia.org/wiki/ChAngE)转换而来。
+
+
 《**chAngE**》是日本[創作歌手](../Page/創作歌手.md "wikilink")[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")3張單曲，於2010年9月1日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要

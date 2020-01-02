@@ -1,3 +1,6 @@
+> 本文内容由[裝甲核心V](https://zh.wikipedia.org/wiki/裝甲核心V)转换而来。
+
+
 是[機戰傭兵系列睽違](https://zh.wikipedia.org/wiki/機戰傭兵系列 "wikilink")4年的第五款正宗續作。世界觀翻新。[廣告標語](../Page/廣告標語.md "wikilink")是「」（能把一切燃燒殆盡的暴力）。是該系列首次有正體中文化。
 
 ## 玩法

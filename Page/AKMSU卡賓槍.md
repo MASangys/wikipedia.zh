@@ -1,3 +1,6 @@
+> 本文内容由[AKMSU卡賓槍](https://zh.wikipedia.org/wiki/AKMSU卡賓槍)转换而来。
+
+
 **AKMSU**是[AKMS的短槍管卡賓槍型](../Page/AKM突擊步槍.md "wikilink")，但由於產量極為稀少，故難以尋找其蹤跡，而且還被認為不是蘇聯製的武器。
 
 ## 歷史

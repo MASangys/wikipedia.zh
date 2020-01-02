@@ -1,3 +1,6 @@
+> 本文内容由[首爾SK騎士](https://zh.wikipedia.org/wiki/首爾SK騎士)转换而来。
+
+
 **首爾SK騎士**是[韓國籃球聯賽](../Page/韓國籃球聯賽.md "wikilink")的職業籃球俱樂部。
 
 ## 成績

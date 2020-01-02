@@ -1,3 +1,6 @@
+> 本文内容由[Where\'s George\?](https://zh.wikipedia.org/wiki/Where\'s_George\?)转换而来。
+
+
 **Where's George?**是一个追踪[美国](../Page/美国.md "wikilink")[纸币在地理上流动方向的](https://zh.wikipedia.org/wiki/纸币 "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。其受欢迎程度使众多其他[货币跟踪网站纷纷建立](https://zh.wikipedia.org/wiki/货币跟踪 "wikilink")（Where's George?仍然是迄今为止最流行的）。同时这个网站还为建立对其它物品——比如书籍——的跟踪网站提供了灵感。Where's George?已经被至少一份研究报告提及，它为研究美国国内人类迁移提供了一种统计模式。\[1\]
 
 截止2012年4月18日，*Where's George?*共追踪了206,243,476张纸币，总计1,111,134,339美元。\[2\]这些数字都在不断变化，因为用户仍在不断提交新的记录。

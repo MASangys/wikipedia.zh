@@ -1,3 +1,6 @@
+> 本文内容由[BTOOOM!](https://zh.wikipedia.org/wiki/BTOOOM!)转换而来。
+
+
 《**BTOOOM\!**》（；）是[日本](../Page/日本.md "wikilink")漫畫家[井上淳哉](../Page/井上淳哉.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2009年6月19日（29號）至2010年8月27日（39號，最終號）在[新潮社旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[週刊Comic Bunch](https://zh.wikipedia.org/wiki/週刊Comic_Bunch "wikilink")》上連載，之后由於《週刊Comic Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本青年漫畫雜誌《[月刊Comic@Bunch](https://zh.wikipedia.org/wiki/月刊Comic@Bunch "wikilink")》上，从雜誌創刊號开始連載至今。
 
 ## 故事

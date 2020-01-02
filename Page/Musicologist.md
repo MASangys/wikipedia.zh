@@ -1,3 +1,6 @@
+> 本文内容由[Musicologist](https://zh.wikipedia.org/wiki/Musicologist)转换而来。
+
+
 《**Musicologist**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[曹震豪](../Page/曹震豪.md "wikilink")的第三張大碟，第二張粵語[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2013年1月31日發行\[1\]，第一主打歌為《得不到又怎麼失去過》。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[WASP-7](https://zh.wikipedia.org/wiki/WASP-7)转换而来。
+
+
 **WASP-7**，或稱為**HD 197286**，是一顆距離地球約456光年的[光譜類型](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink") F 型恆星，位於[顯微鏡座](https://zh.wikipedia.org/wiki/顯微鏡座 "wikilink")。該恆星的半徑比太陽稍大，質量是太陽的1.28倍，光度和溫度也稍高於太陽。它的視星等為9等，必須以小型望遠鏡觀測\[1\]。
 
 ## 行星系統

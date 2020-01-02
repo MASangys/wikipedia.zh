@@ -1,3 +1,6 @@
+> 本文内容由[Smart QQ](https://zh.wikipedia.org/wiki/Smart_QQ)转换而来。
+
+
 **WebQQ**是[腾讯](../Page/腾讯.md "wikilink")于2009年9月15日正式推出的一项服务，该服务可以使用户在不安装[QQ软件的情况下使用QQ的部分服务](https://zh.wikipedia.org/wiki/QQ "wikilink")。该功能已于2019年1月1日停止运营\[1\]。
 
 ## 版本

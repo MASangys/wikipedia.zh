@@ -1,3 +1,6 @@
+> 本文内容由[EMI音樂日本](https://zh.wikipedia.org/wiki/EMI音樂日本)转换而来。
+
+
 **株式会社EMI音樂・日本**（EMI音樂日本）是一家曾属于[EMI](../Page/EMI.md "wikilink")旗下的[唱片公司](../Page/唱片公司.md "wikilink")，原為**東芝EMI株式会社**（東芝EMI），已於2013年4月1日解散並由[日本環球音樂整合成其國內的一個品牌](../Page/環球音樂_\(日本\).md "wikilink")「EMI Records Japan」。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Golden Bomber](https://zh.wikipedia.org/wiki/Golden_Bomber)转换而来。
+
+
 **Golden Bomber**（）是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[空氣](https://zh.wikipedia.org/wiki/空氣吉他 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")\[1\]。媒體略称是「金爆（きんばく）」\[2\]。
 
 ## 概要
@@ -34,7 +37,7 @@
 同時也是[B'z](../Page/B'z.md "wikilink")的熱衷歌迷，曾在[Rolling Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")。
 在專輯『イミテイション・ゴールド〜金爆の名曲二番搾り〜』中展現了對著名歌手的模仿功力，從曲風到唱腔都能夠模仿。
 
-高中畢業後進入[吉本綜合藝能學院](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")，為東京NSC第9期學生。在學期間曾與[搞笑藝人組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[しずる的池田一真搭檔](https://zh.wikipedia.org/wiki/しずる "wikilink")，組合名是「チョコサラミ」。解散後又與他人組成「やっと笑えたね」活動。NSC畢業後，認為自己不適合在[搞笑藝人界發展](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，於是放棄了藝人的道路而開始樂團活動。
+高中畢業後進入[吉本綜合藝能學院](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")，為東京NSC第9期學生。在學期間曾與[搞笑藝人](../Page/搞笑藝人.md "wikilink")組合[しずる的池田一真搭檔](https://zh.wikipedia.org/wiki/しずる "wikilink")，組合名是「チョコサラミ」。解散後又與他人組成「やっと笑えたね」活動。NSC畢業後，認為自己不適合在[搞笑藝人](../Page/搞笑藝人.md "wikilink")界發展，於是放棄了藝人的道路而開始樂團活動。
 
 #### 個人作品
 

@@ -1,3 +1,6 @@
+> 本文内容由[CR彈珠機AKB48](https://zh.wikipedia.org/wiki/CR彈珠機AKB48)转换而来。
+
+
 **CR柏青哥AKB48**（）是[日本](../Page/日本.md "wikilink")[柏青哥機台製造商](https://zh.wikipedia.org/wiki/柏青哥 "wikilink")[京樂產業於](https://zh.wikipedia.org/wiki/京樂產業 "wikilink")2012年8月開始發售的[彈珠機](../Page/彈珠機.md "wikilink")遊戲機台。此機種是京樂產業與女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的幕後營運單位[AKS](../Page/AKS.md "wikilink")跨業合作的企畫產品，為了新機種的上市，部分AKB48成員組成命名為Team Surprise（）的臨時衍生團體。除了針對柏青哥的遊戲內容特別設計了[卡通](../Page/卡通.md "wikilink")化的人物專屬圖像外，也演唱與拍攝了12首全新的[單曲與搭配的](https://zh.wikipedia.org/wiki/單曲 "wikilink")[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，在CR柏青哥AKB48的機台與網路上進行每週一首新歌的《重力共鳴公演》（）。
 
 ## 簡介

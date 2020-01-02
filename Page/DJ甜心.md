@@ -1,3 +1,6 @@
+> 本文内容由[DJ甜心](https://zh.wikipedia.org/wiki/DJ甜心)转换而来。
+
+
 《**DJ甜心**》（Radio Rebel，又名**电台甜心**、**叛逆主播**）是2012年[迪士尼頻道原創真人版電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，根據小說《Shrinking Violet》改编，由Debby Ryan主演。在美國於2012年2月17日首播，在台灣於台灣時間（GMT+8）2012年7月25日21:00首播。
 
 ## 故事背景

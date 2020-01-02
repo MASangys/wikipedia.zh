@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia neo L](https://zh.wikipedia.org/wiki/索尼Xperia_neo_L)转换而来。
+
+
 **Sony Xperia neo L**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，是[Sony Ericsson Xperia neo V的後續](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_neo_V "wikilink")，也是第一部附載[Android](../Page/Android.md "wikilink")4.0的[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。其於2012年3月發表，預計將於2012年6月推出。\[1\]\[2\]
 
 ## 顏色

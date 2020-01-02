@@ -1,3 +1,6 @@
+> 本文内容由[JR東海Kiha25型柴聯車](https://zh.wikipedia.org/wiki/JR東海Kiha25型柴聯車)转换而来。
+
+
 **Kiha25型柴聯車**是一款屬於[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）的通勤型[柴聯車](../Page/柴聯車.md "wikilink")。
 
 ## 概要

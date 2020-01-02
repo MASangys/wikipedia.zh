@@ -1,3 +1,6 @@
+> 本文内容由[Kashiwakura Tsutomu](https://zh.wikipedia.org/wiki/Kashiwakura_Tsutomu)转换而来。
+
+
 **柏倉努**（1966年3月1日 - ）[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")、[音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")。隸屬[Magus](https://zh.wikipedia.org/wiki/Magus "wikilink")（マグス）。生於[神奈川縣](../Page/神奈川縣.md "wikilink")[相模原市](../Page/相模原市.md "wikilink")。
 
 本名和舊藝名為****（讀音相同），中譯有柏倉務、柏倉勉。當初當音響監督的工作時以**柏倉ツトム**的名稱活動。至2004年9月變更為現時的藝名。

@@ -1,3 +1,6 @@
+> 本文内容由[G弦上的咏叹调](https://zh.wikipedia.org/wiki/G弦上的咏叹调)转换而来。
+
+
 **G弦上的咏叹调**（Air on the G String），又稱**G弦之歌**，出自[德国](../Page/德国.md "wikilink")作曲家**[巴赫](https://zh.wikipedia.org/wiki/巴赫 "wikilink")**的[管弦乐](https://zh.wikipedia.org/wiki/管弦乐 "wikilink")[组曲](../Page/组曲.md "wikilink") Suite No. 3 in D major, BWV 1068 中的第二乐章 Air，由德国小提琴家威廉密改编而成。
 
 ## 历史

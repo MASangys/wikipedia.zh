@@ -1,3 +1,6 @@
+> 本文内容由[REVOLUTION](https://zh.wikipedia.org/wiki/REVOLUTION)转换而来。
+
+
 《**REVOLUTION**》是韩国女子音乐组合**[Kara](../Page/Kara.md "wikilink")**的第二张录音室专辑。2009年7月30日由DSP Media发行。
 
 ## 概括

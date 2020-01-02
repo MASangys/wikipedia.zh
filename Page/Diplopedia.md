@@ -1,3 +1,6 @@
+> 本文内容由[Diplopedia](https://zh.wikipedia.org/wiki/Diplopedia)转换而来。
+
+
 [Diplopedia-logo.jpg](https://zh.wikipedia.org/wiki/File:Diplopedia-logo.jpg "fig:Diplopedia-logo.jpg")
 
 **Diplopedia**\[1\]，被標榜為「[美國國務院百科全書](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")」（Encyclopedia of the United States Department of State），是[美國國務院國際信息局](https://zh.wikipedia.org/wiki/美國國務院國際信息局 "wikilink")的一個計劃，為運行在[美國政府](../Page/美國聯邦政府.md "wikilink")[內部網](https://zh.wikipedia.org/wiki/內部網 "wikilink")「OpenNet」上的一個Wiki。網站收集關於[外交](../Page/外交.md "wikilink")、[國際關係和](https://zh.wikipedia.org/wiki/國際關係 "wikilink")[國務院情報等內容](https://zh.wikipedia.org/wiki/美國國務院 "wikilink")。

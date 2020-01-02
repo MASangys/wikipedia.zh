@@ -1,3 +1,6 @@
+> 本文内容由[PB消音手槍](https://zh.wikipedia.org/wiki/PB消音手槍)转换而来。
+
+
 **PB消音手槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пистолет Бесшумный，意思為「無聲手槍」）是一種[蘇聯製造的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 概述

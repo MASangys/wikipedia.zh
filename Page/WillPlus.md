@@ -1,3 +1,6 @@
+> 本文内容由[WillPlus](https://zh.wikipedia.org/wiki/WillPlus)转换而来。
+
+
 **WillPlus**（ウィルプラス）是位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")製作公司。\[1\]WillPlus的前身是Will有限公司（ウィル）位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")的福岡開發室。2010年8月Will公司解散，原公司成員於10月建立WillPlus並繼續維持品牌的經營，少數由Asgard有限公司繼承。
 
 ## 歷史

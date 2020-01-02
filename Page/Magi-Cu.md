@@ -1,3 +1,6 @@
+> 本文内容由[Magi-Cu](https://zh.wikipedia.org/wiki/Magi-Cu)转换而来。
+
+
 《**Magi-Cu**》（）是[日本](../Page/日本.md "wikilink")[enterbrain公司所發行的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[雜誌書](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，2001年創刊，2007年6月25日發行第40期後休刊，刊名是「Magical Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官方[看板娘是](https://zh.wikipedia.org/wiki/看板娘 "wikilink")[篤見唯子](../Page/篤見唯子.md "wikilink")畫的「小玉」（）與「Maji」（）\[1\]，小玉專屬[畫集](https://zh.wikipedia.org/wiki/畫集 "wikilink")《小玉寫真集》（）收錄於《瓶詰妖精funbook：篤見唯子畫集》內。
 
 ## 主要刊載作品

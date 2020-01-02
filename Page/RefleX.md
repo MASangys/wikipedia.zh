@@ -1,3 +1,6 @@
+> 本文内容由[RefleX](https://zh.wikipedia.org/wiki/RefleX)转换而来。
+
+
 **反射**（**反射**）是由**[SITER SKAIN](https://zh.wikipedia.org/wiki/SITER_SKAIN "wikilink")**製作的一款縱軸捲動的射擊遊戲，是\[母脑四部曲\]故事中的第三部，是第四部作品[神威的前傳與續作](https://zh.wikipedia.org/wiki/神威_\(射擊遊戲\) "wikilink")，[反射的完整版](https://zh.wikipedia.org/wiki/反射 "wikilink")，於2008年8月16日發行。
 
 ## 概要

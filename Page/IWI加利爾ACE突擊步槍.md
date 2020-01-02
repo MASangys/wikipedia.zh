@@ -1,3 +1,6 @@
+> 本文内容由[IWI加利爾ACE突擊步槍](https://zh.wikipedia.org/wiki/IWI加利爾ACE突擊步槍)转换而来。
+
+
 **Galil ACE**（[中文](https://zh.wikipedia.org/wiki/漢语 "wikilink")：**加利爾ACE突击步枪**，[希伯来文](../Page/希伯来语.md "wikilink")：**גליל ACE**）是一系列由[以色列武器工業](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")（IWI）以[IMI Galil系列為藍本改進](../Page/IMI_Galil突擊步槍.md "wikilink")、所生產的改進型[自動步枪](https://zh.wikipedia.org/wiki/自動步枪 "wikilink")，而原型IMI Galil則是由[以色列·加利爾](https://zh.wikipedia.org/wiki/以色列·加利爾 "wikilink")（Yisrael Galili）和[雅各布·利奧爾](https://zh.wikipedia.org/wiki/雅各布·利奧爾 "wikilink")（Yaacov Lior）於1971年[拉马特沙龙所設計](https://zh.wikipedia.org/wiki/拉马特沙龙 "wikilink")。分為三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約口徑](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、[7.62×39毫米](../Page/7.62×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")口徑或[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約口徑步槍子彈](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。5.56×45毫米北約口徑和7.62×39毫米蘇聯口徑是[突击步枪](../Page/突击步枪.md "wikilink")，前者可以同時發射M193和SS109兩種[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")；而7.62×51毫米北約口徑是[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")。
 
 加利爾ACE系列突擊步槍是以原型IMI Galil的機構為藍本，但使用現代化的設計和材料以增加其準確性並降低它的重量，同時保持Galil在戰鬥條件以下的[人體工學](../Page/人因工程学.md "wikilink")、便於維護和可靠性。\[1\]它是為目前的現代戰爭所要求的高精度及高可靠性提供了最終的解決方案。它的重點是在特別不利和全球最極端的條件下提高了其可靠性和仍能戰鬥。

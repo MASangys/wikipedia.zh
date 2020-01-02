@@ -1,3 +1,6 @@
+> 本文内容由[The 7th Blues](https://zh.wikipedia.org/wiki/The_7th_Blues)转换而来。
+
+
 《**The 7th Blues**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第七张录音室专辑。1994年3月2日由[BMG ROOMS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]是B'z唯一一張亦是日本音樂史上最高銷量的雙CD錄音室專輯。
 
 此張專輯為1994年日本當年唯一一張初動量突破百萬的專輯。

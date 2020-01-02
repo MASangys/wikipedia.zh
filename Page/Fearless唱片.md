@@ -1,3 +1,6 @@
+> 本文内容由[Fearless唱片](https://zh.wikipedia.org/wiki/Fearless唱片)转换而来。
+
+
 **Fearless唱片**（[Fearless Records](../Page/Fearless唱片.md "wikilink")）是一間以[另類搖滾導向的](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")，成立於1994年。\[1\] 公司位於[加州西敏斯特](https://zh.wikipedia.org/wiki/加州 "wikilink")，早期以[流行龐克著稱](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")，這可見於他們所發形的《Fearless Flush Sampler》、《Punk Bites》，當時旗下的樂團有Bigwig與Dynamite Boy，後來又有Sugarcult、就是白樂團（）、 The Aquabats以及一些由At the Drive-In所發行的[後硬蕊](https://zh.wikipedia.org/wiki/後硬蕊 "wikilink")（[Post-Hardcore](../Page/後硬核.md "wikilink")）音樂作品。\[2\]然而，這間唱片公司這幾年來，一直在與許多不同的音樂類型的樂團簽約。樂團如[A Static Lullaby](https://zh.wikipedia.org/wiki/A_Static_Lullaby "wikilink")、Rock Kills Kid、[Mayday Parade](https://zh.wikipedia.org/wiki/Mayday_Parade "wikilink")、[Alesana](../Page/Alesana.md "wikilink")與[The Maine](https://zh.wikipedia.org/wiki/The_Maine "wikilink")，這些後硬蕊與另類搖滾樂團都在這幾年來崛起。廠牌Fearless目前的發行是由RED Distribution與East West唱片公司進行通路銷售。\[3\]
 
 ## 歷史

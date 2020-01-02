@@ -1,3 +1,6 @@
+> 本文内容由[4th「一起走吧!」](https://zh.wikipedia.org/wiki/4th「一起走吧!」)转换而来。
+
+
 「**4th「一起走吧\!」**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第4枚原創專輯。於2002年3月27日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

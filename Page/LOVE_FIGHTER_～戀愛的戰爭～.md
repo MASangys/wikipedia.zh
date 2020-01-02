@@ -1,3 +1,6 @@
+> 本文内容由[LOVE FIGHTER ～戀愛的戰爭～](https://zh.wikipedia.org/wiki/LOVE_FIGHTER_～戀愛的戰爭～)转换而来。
+
+
 《**LOVE FIGHTER ～戀愛的戰爭～**》（）是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2009年11月4日由[ZAIN RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 收錄曲目

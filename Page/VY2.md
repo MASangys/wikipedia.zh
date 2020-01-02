@@ -1,3 +1,6 @@
+> 本文内容由[VY2](https://zh.wikipedia.org/wiki/VY2)转换而来。
+
+
 **VY2**是隸屬於[山葉株式會社的](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")[Bplats於](https://zh.wikipedia.org/wiki/Bplats "wikilink")2011年4月25日所推出的[VOCALOID2](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")[語音合成軟體](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，同時也是該公司繼[VY1以後銷售的VY系列軟體](https://zh.wikipedia.org/wiki/VY1 "wikilink")，同時也是當前質量最高的男性日語VOCALOID軟體。如同過去所推出的VY1般並沒有另外設計專屬的人物形象，VY2單純是以nagimiso（）所繪製的[日本](../Page/日本.md "wikilink")風格的靛青色背景加上[武士刀作為整體形象](https://zh.wikipedia.org/wiki/武士刀 "wikilink")。而「VY2」這個名稱則是取自於「Vocaloid Yamaha 2」的英文簡寫\[1\]，另外在軟體開發時則以較為偏向男性名稱的「勇馬」（）作為代號使用\[2\]。
 
 ## 歷史

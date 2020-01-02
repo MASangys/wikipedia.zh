@@ -1,3 +1,6 @@
+> 本文内容由[ChocoLe](https://zh.wikipedia.org/wiki/ChocoLe)转换而来。
+
+
 **ChocoLe**是於2011年所組成的[日本](../Page/日本.md "wikilink")女子三人[團體](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")。所屬事務所為[Biscuit Entertainment](https://zh.wikipedia.org/wiki/Biscuit_Entertainment "wikilink")（隸屬渡邊娛樂），唱片公司是[愛貝克思的](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[avex entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")。
 
 ## 概要

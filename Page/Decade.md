@@ -1,3 +1,6 @@
+> 本文内容由[Decade](https://zh.wikipedia.org/wiki/Decade)转换而来。
+
+
 《**Decade**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第二張專輯。於2012年12月5日由[Geneon Entertainment發售](https://zh.wikipedia.org/wiki/日本Geneon环球娱乐 "wikilink")。
 
 ## 概要

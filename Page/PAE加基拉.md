@@ -1,3 +1,6 @@
+> 本文内容由[PAE加基拉](https://zh.wikipedia.org/wiki/PAE加基拉)转换而来。
+
+
 **AOK加基拉**（**AOK Kerkyra**）是[希臘的一家足球俱樂部](https://zh.wikipedia.org/wiki/希臘 "wikilink")。主場位於克爾基拉島。參加[希臘足球超級聯賽](../Page/希臘足球超級聯賽.md "wikilink")的賽事。
 
 ## 外部連結

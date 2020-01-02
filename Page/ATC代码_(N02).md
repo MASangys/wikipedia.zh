@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N02\)](https://zh.wikipedia.org/wiki/ATC代码_\(N02\))转换而来。
+
+
 ## N02A [阿片碱类](https://zh.wikipedia.org/wiki/鸦片类药物 "wikilink")（Opioids）
 
 ### N02AA 天然阿片[生物碱类](https://zh.wikipedia.org/wiki/生物碱 "wikilink")（Natural opium alkaloids）

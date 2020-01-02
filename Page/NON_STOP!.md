@@ -1,3 +1,6 @@
+> 本文内容由[NON STOP!](https://zh.wikipedia.org/wiki/NON_STOP!)转换而来。
+
+
 《**NON STOP\!**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[富士電視台](../Page/富士電視台.md "wikilink")自2012年4月2日起每週一至週五早上9:55 - 11:30播放的生活資訊節目。由富士電視台[播報員](https://zh.wikipedia.org/wiki/播報員 "wikilink")[山﨑夕貴](../Page/山﨑夕貴.md "wikilink")和[香蕉人的](../Page/香蕉人_\(搞笑組合\).md "wikilink")[設樂統](../Page/設樂統.md "wikilink")主持。
 
 原本播放時段是《[求知！](https://zh.wikipedia.org/wiki/求知！ "wikilink")》，該節目轉移到下午時段播放。由2012年4月起播放新的生活資訊節目《NON STOP\!》。節目圍繞觀眾想知道和感興趣的事情，以原創的視角介紹世界上發生的真實事情。

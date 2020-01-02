@@ -1,3 +1,6 @@
+> 本文内容由[White Shiny Street](https://zh.wikipedia.org/wiki/White_Shiny_Street)转换而来。
+
+
 『**White Shiny Street**』是[日本](../Page/日本.md "wikilink")唱作男[歌手](../Page/歌手.md "wikilink") [中川晃教](../Page/中川晃教.md "wikilink")，於2002年5月29日所推出的單曲碟。
 
 ## 收錄曲目

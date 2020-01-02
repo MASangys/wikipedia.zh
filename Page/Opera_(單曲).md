@@ -1,3 +1,6 @@
+> 本文内容由[Opera \(單曲\)](https://zh.wikipedia.org/wiki/Opera_\(單曲\))转换而来。
+
+
 《Opera》是韓國男子組合[Super Junior的第三張日語單曲](../Page/Super_Junior.md "wikilink")。2012年5月9日由Avex trax發售。\[1\]
 
 ## 錄製與音樂

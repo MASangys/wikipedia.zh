@@ -1,3 +1,6 @@
+> 本文内容由[GP3系列赛](https://zh.wikipedia.org/wiki/GP3系列赛)转换而来。
+
+
 **GP3系列赛**（**GP3 Series**，简称**GP3**）是一项[方程式赛车赛事](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")，参赛车辆为开轮式单座赛车。这项赛事始创于2010年，是[GP2系列赛的次级别赛事](https://zh.wikipedia.org/wiki/GP2系列赛 "wikilink")，由GP2的赛事组织者布鲁诺·米歇尔（Bruno Michel）发起\[1\] 。
 
 作为[一级方程式锦标赛和GP](https://zh.wikipedia.org/wiki/一级方程式锦标赛 "wikilink")2系列赛的次级赛事，GP3的欧洲赛事安排完全仿照上述两项赛事。2012年，[摩纳哥赛道](../Page/摩纳哥赛道.md "wikilink")进入GP3的赛历，而在之前两年，摩纳哥站的比赛由于空间问题而未能举办。与GP2系列赛相似，GP3使得车手有机会体验大奖赛的赛事环境，同时，赛事也可利用为一级方程式比赛而准备的基础设施、工作人员以及医疗设施。

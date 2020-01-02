@@ -1,3 +1,6 @@
+> 本文内容由[Outlook.com](https://zh.wikipedia.org/wiki/Outlook.com)转换而来。
+
+
 **Outlook.com**是[微軟公司推出的一個免費](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[互聯網收發](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[電子郵件服務](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。
 
 ## 歷史

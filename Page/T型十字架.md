@@ -1,3 +1,6 @@
+> 本文内容由[T型十字架](https://zh.wikipedia.org/wiki/T型十字架)转换而来。
+
+
 [thumb](https://zh.wikipedia.org/wiki/file:Te_cross.svg "wikilink") [San-Anton-Tau-Cross.jpg](https://zh.wikipedia.org/wiki/File:San-Anton-Tau-Cross.jpg "fig:San-Anton-Tau-Cross.jpg") [Franciscan_Tau.JPG](https://zh.wikipedia.org/wiki/File:Franciscan_Tau.JPG "fig:Franciscan_Tau.JPG")的T型十字架\]\]
 
 **T型十字架**（Tau Cross），又称 **安东尼十字架**、**Tau十字架**或**埃及十字架**。其中Tau十字架的名字源自希腊文第十九个字母τ（音“涛”），同时也是希伯来文最后一个字母Taw。

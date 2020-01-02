@@ -1,3 +1,6 @@
+> 本文内容由[Our Relation](https://zh.wikipedia.org/wiki/Our_Relation)转换而来。
+
+
 《**Our Relation**》是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")[今井繪理子](../Page/今井繪理子.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在2002年7月10日由[SONIC GROOVE發行](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。當中收錄[東京電視網](../Page/東京電視網.md "wikilink")動畫《[足球小將](../Page/足球小將.md "wikilink")》主題曲。
 
 ## 曲目

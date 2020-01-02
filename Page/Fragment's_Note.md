@@ -1,3 +1,6 @@
+> 本文内容由[Fragment\'s Note](https://zh.wikipedia.org/wiki/Fragment\'s_Note)转换而来。
+
+
 《**Fragment's Note**》（假名：）是一款由[日本](../Page/日本.md "wikilink")游戏厂商[ULLUCUSHEAVEN和](https://zh.wikipedia.org/wiki/ULLUCUSHEAVEN "wikilink")[ALVION共同开发](https://zh.wikipedia.org/wiki/ALVION "wikilink")、于2012年7月18日发行于[iOS平台的基于](https://zh.wikipedia.org/wiki/iOS "wikilink")[触摸屏的](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\][体验版于](https://zh.wikipedia.org/wiki/体验版 "wikilink")2012年8月31日发布。2012年12月19日发布1.03版，在这个版本中，添加了朝霞雪月和白鷺絵里的相关剧情，同时增加了CG模式功能。\[2\]\[3\]游戏全程无语音，有[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")。
 
 ## 故事简介

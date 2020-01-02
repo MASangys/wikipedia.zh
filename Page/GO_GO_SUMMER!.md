@@ -1,3 +1,6 @@
+> 本文内容由[GO GO SUMMER!](https://zh.wikipedia.org/wiki/GO_GO_SUMMER!)转换而来。
+
+
 「**GO GO Summer\!**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張單曲。2011年6月29日由[UNIVERSAL SIGMA發售](../Page/环球唱片.md "wikilink")。
 
 ## 概要

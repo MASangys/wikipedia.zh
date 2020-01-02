@@ -1,3 +1,6 @@
+> 本文内容由[ALL the SINGLES](https://zh.wikipedia.org/wiki/ALL_the_SINGLES)转换而来。
+
+
 《**ALL the SINGLES**》是日本男子音乐组合[橘子新乐园](../Page/橘子新乐园.md "wikilink")的第五张精选辑，2010年7月14日由[gr8\! records在日本发行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
 
 ## 曲目

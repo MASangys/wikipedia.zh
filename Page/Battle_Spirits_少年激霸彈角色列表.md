@@ -1,3 +1,6 @@
+> 本文内容由[Battle Spirits 少年激霸彈角色列表](https://zh.wikipedia.org/wiki/Battle_Spirits_少年激霸彈角色列表)转换而来。
+
+
 **Battle Spirits 少年激霸彈 角色列表**是《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的角色介紹。
 
 ## 主要人物

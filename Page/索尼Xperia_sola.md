@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia sola](https://zh.wikipedia.org/wiki/索尼Xperia_sola)转换而来。
+
+
 **Sony Xperia sola**是[日本](../Page/日本.md "wikilink")[索尼移動於](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")2012年推出的，採用[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的中階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，屬於[Xperia](../Page/Xperia.md "wikilink") NXT系列，於2012年[国际消费电子展發佈](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")，其市場定位介乎[Xperia P與](https://zh.wikipedia.org/wiki/Xperia_P "wikilink")[Xperia U之間](https://zh.wikipedia.org/wiki/Xperia_U "wikilink")，特色為採用懸浮[觸控技術](https://zh.wikipedia.org/wiki/觸控 "wikilink")。\[1\]
 
 ## 硬件

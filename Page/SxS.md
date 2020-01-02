@@ -1,3 +1,6 @@
+> 本文内容由[SxS](https://zh.wikipedia.org/wiki/SxS)转换而来。
+
+
 [Sony_SBP-8_20071218.jpg](https://zh.wikipedia.org/wiki/File:Sony_SBP-8_20071218.jpg "fig:Sony_SBP-8_20071218.jpg") **SxS記憶卡**（英文讀音：S-by-S）是一種由[Sony及](https://zh.wikipedia.org/wiki/Sony "wikilink")[SanDisk所共同創立的](https://zh.wikipedia.org/wiki/SanDisk "wikilink")[ExpressCard](../Page/ExpressCard.md "wikilink")式[快閃記憶體裝置標準](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。根據Sony及SanDisk發表的文件中，SxS記憶卡的傳輸速度可達至800 Mbit/s，瞬時傳輸速度更可達至2.5 Gbit/s\[1\]\[2\]。
 
 ## 應用

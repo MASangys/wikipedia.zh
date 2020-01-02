@@ -1,3 +1,6 @@
+> 本文内容由[NANA MIZUKI LIVE GAMES×ACADEMY](https://zh.wikipedia.org/wiki/NANA_MIZUKI_LIVE_GAMES×ACADEMY)转换而来。
+
+
 『**NANA MIZUKI LIVE GAMES×ACADEMY**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第9作張Live影像作品（通算第14作張影像作品）。2010年12月22日由[King Records以](https://zh.wikipedia.org/wiki/King_Records "wikilink")[Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄内容

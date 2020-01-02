@@ -1,3 +1,6 @@
+> 本文内容由[別冊FRIEND](https://zh.wikipedia.org/wiki/別冊FRIEND)转换而来。
+
+
 《**別冊FRIEND**》是[日本](../Page/日本.md "wikilink")[講談社發行的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[少女漫畫雜誌](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")，1965年創刊，毎月13日發行。
 
 ## 連載中作品（2017年1月）

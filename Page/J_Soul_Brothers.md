@@ -1,3 +1,6 @@
+> 本文内容由[J Soul Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers)转换而来。
+
+
 **J Soul Brothers**是[日本](../Page/日本.md "wikilink")的[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，所屬唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 該團體曾組成過3次：

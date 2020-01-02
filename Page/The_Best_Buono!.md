@@ -1,3 +1,6 @@
+> 本文内容由[The Best Buono!](https://zh.wikipedia.org/wiki/The_Best_Buono!)转换而来。
+
+
 『**The Best Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。2010年8月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

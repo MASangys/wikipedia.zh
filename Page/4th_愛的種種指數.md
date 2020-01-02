@@ -1,3 +1,6 @@
+> 本文内容由[4th 愛的種種指數](https://zh.wikipedia.org/wiki/4th_愛的種種指數)转换而来。
+
+
 「**4th 愛的種種指數**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第3枚原創專輯。於2007年8月1日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

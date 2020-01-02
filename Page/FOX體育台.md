@@ -1,3 +1,6 @@
+> 本文内容由[FOX體育台](https://zh.wikipedia.org/wiki/FOX體育台)转换而来。
+
+
 **FOX體育台**是[福斯國際電視網旗下於亞洲地區營運的](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")[體育家族頻道](https://zh.wikipedia.org/wiki/體育 "wikilink")，因[迪士尼集團在](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")2012年7月將亞洲[ESPN](../Page/ESPN.md "wikilink")频道所有股權售予[福斯娛樂集團](https://zh.wikipedia.org/wiki/福斯娛樂集團 "wikilink")，翌年亚洲ESPN频道改名為FOX體育台（中國大陸\[1\]、南亞地區除外），播出的[節目及原本頻道號碼未因為改名而更改](https://zh.wikipedia.org/wiki/節目 "wikilink")。2019年3月迪士尼併購了[二十一世紀福斯](../Page/二十一世紀福斯.md "wikilink")大部分的子公司，其中也包括東南亞FOX體育台系列頻道所隸屬的[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")，因此原名為ESPN衛視體育台的FOX體育台又重返迪士尼旗下。
 
 現今有：

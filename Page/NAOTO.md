@@ -1,3 +1,6 @@
+> 本文内容由[NAOTO](https://zh.wikipedia.org/wiki/NAOTO)转换而来。
+
+
 **NAOTO**（），本名**片岡直人**，是[日本](../Page/日本.md "wikilink")男性[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，為男子歌舞組合[EXILE的表演者](https://zh.wikipedia.org/wiki/EXILE "wikilink")，以及男子歌舞組合[三代目J Soul Brothers的隊長兼表演者](../Page/J_Soul_Brothers.md "wikilink")。[埼玉縣](../Page/埼玉縣.md "wikilink")[所澤市](../Page/所澤市.md "wikilink")出身。身高169cm。
 
 ## 來歷
@@ -52,6 +55,7 @@
   - [Frenemy街頭正義](https://zh.wikipedia.org/wiki/Frenemy街頭正義 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2013年7月 - ）飾演 **岡嶋渉**
   - [亲爱的姊妹](../Page/亲爱的姊妹.md "wikilink") 第9話（2014年12月11日、フジテレビ） 飾演 桑名
   - [暗夜英雄Naoto](https://zh.wikipedia.org/wiki/暗夜英雄Naoto "wikilink") （2016年4月 - 7月、東京電視台）飾演 **NAOTO**'
+  - [愛上恐龍妹](https://zh.wikipedia.org/wiki/愛上恐龍妹 "wikilink")【ブスの瞳に恋してる】（ 2019年10月12日)飾演 **鈴野理**
 
 ### 舞台
 
@@ -135,24 +139,14 @@
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
-
 12.

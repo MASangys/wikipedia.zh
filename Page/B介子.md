@@ -1,3 +1,6 @@
+> 本文内容由[B介子](https://zh.wikipedia.org/wiki/B介子)转换而来。
+
+
 **B介子**（）是一種含有[反](https://zh.wikipedia.org/wiki/反物質 "wikilink")[底夸克](../Page/底夸克.md "wikilink")的[介子](../Page/介子.md "wikilink")。B介子可細分成四種，按介子中的另一種夸克而定：含有[上夸克](../Page/上夸克.md "wikilink")，含有[下夸克](../Page/下夸克.md "wikilink")，含有[奇夸克](../Page/奇夸克.md "wikilink")，而則含有[魅夸克](https://zh.wikipedia.org/wiki/魅夸克 "wikilink")。由於[頂夸克](../Page/頂夸克.md "wikilink")的壽命實在太短，所以一般認為反底夸克不能與頂夸克生成介子。而底夸克與反底夸克這個組合不是B介子，是底[夸克偶素](https://zh.wikipedia.org/wiki/夸克偶素 "wikilink")，當中最有名的是[Υ介子](../Page/Υ介子.md "wikilink")。
 
 每一種B介子都有其對應的反粒子，內含底夸克及各種反夸克，分別為反上夸克()、反下夸克()、反奇夸克()及反魅夸克()。

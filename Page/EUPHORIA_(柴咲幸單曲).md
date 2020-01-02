@@ -1,3 +1,6 @@
+> 本文内容由[EUPHORIA \(柴咲幸單曲\)](https://zh.wikipedia.org/wiki/EUPHORIA_\(柴咲幸單曲\))转换而来。
+
+
 《**EUPHORIA**》為日本歌手[柴咲幸](../Page/柴咲幸.md "wikilink")的第21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（以RUI、KOH+名義發行的也包含在內）。於2010年11月3日發行。
 
 ## 概要

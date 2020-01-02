@@ -1,3 +1,6 @@
+> 本文内容由[Arc](https://zh.wikipedia.org/wiki/Arc)转换而来。
+
+
 **Arc**是一種程式語言，[LISP](../Page/LISP.md "wikilink")的之一，由[保羅·格雷厄姆與](https://zh.wikipedia.org/wiki/保羅·格雷厄姆 "wikilink")[羅伯特·泰潘·莫里斯設計](https://zh.wikipedia.org/wiki/羅伯特·泰潘·莫里斯 "wikilink")，2008年釋出第一個正式版本。
 
 ## 歷史

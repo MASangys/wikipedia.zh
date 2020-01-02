@@ -1,3 +1,6 @@
+> 本文内容由[Kel-Tec RFB半自動步槍](https://zh.wikipedia.org/wiki/Kel-Tec_RFB半自動步槍)转换而来。
+
+
 **Kel-Tec RFB**（[縮寫](../Page/縮寫.md "wikilink")及[簡稱為](https://zh.wikipedia.org/wiki/簡稱 "wikilink")**RFB**，全稱：**R**ifle, **F**orward-ejection, **B**ullpup，意為：前拋殼型犢牛式步槍）\[1\]是一系列由槍械設計師所設計、[美国](../Page/美国.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[可可市槍械公司](../Page/可可_\(佛罗里达州\).md "wikilink")研製及生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")[戰鬥步槍](../Page/自动步枪.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

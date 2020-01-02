@@ -1,3 +1,6 @@
+> 本文内容由[室女座FW](https://zh.wikipedia.org/wiki/室女座FW)转换而来。
+
+
 **室女座FW**，又名**BD+02 2560**，**HD 109896**、**SAO 119508**、**HR 4807**，是[室女座](../Page/室女座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.71，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")295.32，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")64.53，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

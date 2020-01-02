@@ -1,3 +1,6 @@
+> 本文内容由[Google雲端硬碟](https://zh.wikipedia.org/wiki/Google雲端硬碟)转换而来。
+
+
 **Google云端硬盘**（）是[Google](../Page/Google.md "wikilink")的一個[線上同步儲存服務](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")，同時結合[Google文件](../Page/Google文件.md "wikilink")及[Google我的地圖的線上文件編輯功能](https://zh.wikipedia.org/wiki/Google我的地圖 "wikilink")，於2012年4月24日起逐漸開放給用戶使用\[1\]\[2\]。這項服務早於2006年3月便有傳言提及\[3\]。
 
 最早出現的是Google Storage，但不太受關注。Google Drive可視為Google Docs的升級版，把空間從1GB升級到5GB，后整合[Gmail](../Page/Gmail.md "wikilink")与[Google+](../Page/Google+.md "wikilink")相册的存储空间，总共15GB。Google Drive免費提供用戶15GB的儲存空間，單一檔案的大小限制為10GB。用戶可以付費把儲存空間擴充到最大30TB。Google Drive提供類似[Dropbox](../Page/Dropbox.md "wikilink")的目錄管理，在Google Drive中稱為Folder location，可同步上傳檔案到Google Drive中。

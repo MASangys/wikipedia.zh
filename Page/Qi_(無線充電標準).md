@@ -1,3 +1,6 @@
+> 本文内容由[Qi \(無線充電標準\)](https://zh.wikipedia.org/wiki/Qi_\(無線充電標準\))转换而来。
+
+
 [Qi_wireless_power_interface_specification_-_basic_system_overview.png](https://zh.wikipedia.org/wiki/File:Qi_wireless_power_interface_specification_-_basic_system_overview.png "fig:Qi_wireless_power_interface_specification_-_basic_system_overview.png") **Qi**（發音與命名來自中文字「氣」），是一種由[無線充電聯盟](https://zh.wikipedia.org/wiki/無線充電聯盟 "wikilink")（，縮寫WPC\[1\]）所制定的短距離（40mm, 1.6英吋\[2\]）低功率無線感應式電力傳輸的互連標準，主要目的是提供行動電話手機與其他攜帶型電子設備便利與通用的無線充電。
 
 無線充電聯盟於2008年12月17日由，ConvenientPower Limited、Fulton Innovation LLC、[羅技](../Page/羅技.md "wikilink")公司、[美國國家半導體](../Page/美國國家半導體.md "wikilink")公司、[奧林巴斯](../Page/奧林巴斯.md "wikilink")株式會社、[荷蘭皇家飛利浦電子公司](../Page/飛利浦.md "wikilink")、[三洋電機](../Page/三洋電機.md "wikilink")株式會社、深圳桑菲消費通信有限公司及[德州儀器公司](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")（依英文字母序）共9家公司創立，以制定所有電子設備都能相容的無線低功率充電國際標準為使命。迄2018年11月，該聯盟成員已有超過638家公司，包括[诺基亚](../Page/诺基亚.md "wikilink")、[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")、[三星](../Page/三星電子.md "wikilink")、[意法半导体](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")、[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[华为](../Page/华为.md "wikilink")、[索尼](../Page/索尼.md "wikilink")等等\[3\]。
@@ -70,6 +73,7 @@ Qi規格第一卷（低功率部份，5W以下）於2010年推出，目前已有
       - [Nexus 7 (2013)](../Page/Nexus_7_\(2013\).md "wikilink")
       - [Nexus 6](../Page/Nexus_6.md "wikilink")
       - [Google Pixel 3](https://zh.wikipedia.org/wiki/Google_Pixel_3 "wikilink")/[Google Pixel 3 XL](https://zh.wikipedia.org/wiki/Google_Pixel_3_XL "wikilink")
+      - [Google Pixel 4](https://zh.wikipedia.org/wiki/Google_Pixel_4 "wikilink")/[Google Pixel 4 XL](https://zh.wikipedia.org/wiki/Google_Pixel_4_XL "wikilink")
   - PHILIPS
       - [S8860](https://zh.wikipedia.org/wiki/S8860 "wikilink")
   - SAMSUNG

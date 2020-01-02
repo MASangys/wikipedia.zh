@@ -1,3 +1,6 @@
+> 本文内容由[MUSA\'s](https://zh.wikipedia.org/wiki/MUSA\'s)转换而来。
+
+
 **MUSA's**是由來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa" Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
 
 ## 有關樂團

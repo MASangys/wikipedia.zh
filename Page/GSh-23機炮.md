@@ -1,3 +1,6 @@
+> 本文内容由[GSh-23機炮](https://zh.wikipedia.org/wiki/GSh-23機炮)转换而来。
+
+
 **GSh-23機炮**是前[蘇聯為了取代](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[NR-23機炮](../Page/NR-23機炮.md "wikilink")而開發的23毫米口徑空用機炮，該機炮採用雙炮管，該型機炮被分成基本型的GSh-23和略為加長的GSh-23L，該型機炮在中國也有生產，名稱是23-3型。
 
 ## 基本資料

@@ -1,3 +1,6 @@
+> 本文内容由[Happy! Lucky! Dochy!](https://zh.wikipedia.org/wiki/Happy!_Lucky!_Dochy!)转换而来。
+
+
 **Happy\! Lucky\! Dochy\!**，是[日本](../Page/日本.md "wikilink")女[配音員](../Page/配音員.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")、[金井美香](../Page/金井美香.md "wikilink")、[堀江由衣](../Page/堀江由衣.md "wikilink")的[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")。這首單曲是當年[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")《[暮蟬悲鳴時 煌](../Page/暮蟬悲鳴時.md "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")。
 
 ## 收錄曲

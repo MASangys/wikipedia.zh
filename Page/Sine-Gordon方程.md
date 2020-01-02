@@ -1,3 +1,6 @@
+> 本文内容由[Sine-Gordon方程](https://zh.wikipedia.org/wiki/Sine-Gordon方程)转换而来。
+
+
 [Bellsoliton2.gif](https://zh.wikipedia.org/wiki/File:Bellsoliton2.gif "fig:Bellsoliton2.gif") **Sine-Gordon方程**是十九世纪发现的一种偏微分方程：
 
 \(\varphi_{tt}- \varphi_{xx} = \sin\varphi\)

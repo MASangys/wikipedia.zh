@@ -1,3 +1,6 @@
+> 本文内容由[Astro全佳HD](https://zh.wikipedia.org/wiki/Astro全佳HD)转换而来。
+
+
 **Astro全佳HD**是[马来西亚](../Page/马来西亚.md "wikilink")[Astro拥有的第二个](../Page/Astro集團.md "wikilink")[中文](../Page/汉语.md "wikilink")[高清频道](../Page/高清电视.md "wikilink")，全天候24小时播出。该频道主要播出来自[中国大陸电视剧](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、纪录片、综艺节目等等。该频道备有[中文](../Page/汉语.md "wikilink")、[英文及](../Page/英语.md "wikilink")[马来文字幕服务](https://zh.wikipedia.org/wiki/马来文 "wikilink")。
 
 其与[湖南广播电视台](../Page/湖南广播电视台.md "wikilink")的[湖南卫视](../Page/湖南卫视.md "wikilink")和[芒果TV](../Page/芒果TV.md "wikilink")系主力合作服务对象，与此同时亦购买了[浙江卫视](../Page/浙江卫视.md "wikilink")和[爱奇艺](../Page/爱奇艺.md "wikilink")部分节目的在大马地区的首播权。Astro与爱奇艺联合开办的爱奇艺频道于2019年7月17日启播后，爱奇艺的节目和剧集被优先安排在该频道播出。

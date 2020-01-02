@@ -1,3 +1,6 @@
+> 本文内容由[WASP-7b](https://zh.wikipedia.org/wiki/WASP-7b)转换而来。
+
+
 | period = 4.954658{{±|5.5e-5|4.3e-5}} | eccentricity = 0 | inclination = 89.6{{±|0.4|0.9}} | t_transit = 2453985.0149{{±|0.0009|0.00012}} }}  | radius = 0.915{{±|0.046|0.04}} | density = 1660 | gravity_earth = 3.03 | temperature = 2000 }}
 
 [Planet_WASP-7_b.png](https://zh.wikipedia.org/wiki/File:Planet_WASP-7_b.png "fig:Planet_WASP-7_b.png") **WASP-7b**是一顆發現於2008年的太陽系外行星，軌道周期僅有5日。它的體積稍小於木星，但質量與木星幾乎相等，因此其密度較木星高\[1\]。

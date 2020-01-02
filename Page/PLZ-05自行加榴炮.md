@@ -1,3 +1,6 @@
+> 本文内容由[PLZ-05自行加榴炮](https://zh.wikipedia.org/wiki/PLZ-05自行加榴炮)转换而来。
+
+
 [PLZ-05_Self-Propelled_Artillery_20170919.jpg](https://zh.wikipedia.org/wiki/File:PLZ-05_Self-Propelled_Artillery_20170919.jpg "fig:PLZ-05_Self-Propelled_Artillery_20170919.jpg") **PLZ-05 155毫米自行加榴炮**是[中國人民解放軍正式装备的首款](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")155毫米履带式[自行火炮](../Page/自行火炮.md "wikilink")，由[PLZ-45自行加榴炮](../Page/PLZ-45自行加榴炮.md "wikilink")发展而来。采用52倍口径身管，用以替代[83式自行加榴炮](../Page/83式152毫米自行加榴炮.md "wikilink")，2005年正式定型量產。到2013年为止, 解放军至少已装备了288门PLZ05。
 
 ## 研制
