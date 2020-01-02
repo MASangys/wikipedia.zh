@@ -1,3 +1,6 @@
+> 本文内容由[Wonderful Hearts](https://zh.wikipedia.org/wiki/Wonderful_Hearts)转换而来。
+
+
 ***Wonderful Hearts***（）此一詞在2006年的演唱會開始被使用，之後由[早安家族](../Page/早安家族.md "wikilink")藝人的路線分成兩部分，另一為 **[Elder Club](../Page/Elder_Club.md "wikilink")**（）。
 
 ## 所屬團員

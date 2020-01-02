@@ -1,3 +1,6 @@
+> 本文内容由[That\'s Why God Made the Radio](https://zh.wikipedia.org/wiki/That\'s_Why_God_Made_the_Radio)转换而来。
+
+
 《》是美国摇滚乐团[海滩男孩的第](https://zh.wikipedia.org/wiki/海滩男孩 "wikilink")29张录音室专辑。
 
 ## 曲目列表

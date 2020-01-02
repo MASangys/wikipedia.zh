@@ -1,3 +1,6 @@
+> 本文内容由[TEM1型柴油机车](https://zh.wikipedia.org/wiki/TEM1型柴油机车)转换而来。
+
+
 **TEM1型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的调车[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[布良斯克机械制造厂](../Page/布良斯克机械制造厂.md "wikilink")设计制造，1958年至1968年间生产了超过1900台。
 
 ## 发展历史

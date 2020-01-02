@@ -1,3 +1,6 @@
+> 本文内容由[OMNI NEWS](https://zh.wikipedia.org/wiki/OMNI_NEWS)转换而来。
+
+
 **OMNI NEWS**是[加拿大](../Page/加拿大.md "wikilink")[多元文化電視台](../Page/多元文化電視台.md "wikilink")新聞部製作的電視新聞節目。
 
 ## 歷史

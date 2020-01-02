@@ -1,3 +1,6 @@
+> 本文内容由[凱迪拉克XLR](https://zh.wikipedia.org/wiki/凱迪拉克XLR)转换而来。
+
+
 **凱迪拉克XLR**（**Cadillac XLR**）是通用[凱迪拉克于](https://zh.wikipedia.org/wiki/凱迪拉克 "wikilink")2003年推出的一款敞篷跑車， 採用Y-body 底盤和[雪佛蘭Corvette類似](https://zh.wikipedia.org/wiki/雪佛蘭Corvette "wikilink")，XLR也採用類似GM LS2引擎設計的北極星引擎但是搭配全新設計的內裝和懸吊，伸縮車頂是鋁合金硬式車頂。
 
 XLR於2003底特律汽車展發表於2004量產獲得[北美年度風雲車](../Page/北美年度風雲車.md "wikilink")。2005又推出了XLR-V車型，馬力從320 hp (238.6 kW; 324.4 PS)加大到443 hp (330 kW; 449 PS) 。XLR是以Chevrolet Corvette為取代對象再由Cadillac EVOQ概念車開發而來，主要目標是瞄準M-Benz的SL系列，希望以更低、更親民的價格吸引潛在賓士客戶。

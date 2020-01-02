@@ -1,3 +1,6 @@
+> 本文内容由[SPFDisk](https://zh.wikipedia.org/wiki/SPFDisk)转换而来。
+
+
 **SPFDisk（SPecialFDisk）** 是一套[磁碟分割工具與](https://zh.wikipedia.org/wiki/磁碟分割工具 "wikilink")[啟動管理程式](../Page/啟動程式.md "wikilink")（Boot Manager），使用圖形化的操作介面，並且支援[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")、[簡體中文和](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")，作者為[馮緒平](https://zh.wikipedia.org/wiki/馮緒平 "wikilink")。
 
 SPFDisk 使用[C語言和](https://zh.wikipedia.org/wiki/C語言 "wikilink")[組合語言寫成](https://zh.wikipedia.org/wiki/組合語言 "wikilink")。

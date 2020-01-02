@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson P1i](https://zh.wikipedia.org/wiki/Sony_Ericsson_P1i)转换而来。
+
+
 **Sony Ericsson P1i**为[Sony Ericsson于](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")2007年8月22日所推出的智能手机，內置320万像素自动对焦相机。
 
 ## 特色

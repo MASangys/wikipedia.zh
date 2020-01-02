@@ -1,3 +1,6 @@
+> 本文内容由[XMPP協議伺服器軟體列表](https://zh.wikipedia.org/wiki/XMPP協議伺服器軟體列表)转换而来。
+
+
 下列是[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")／[XMPP](https://zh.wikipedia.org/wiki/XMPP "wikilink") 伺服器實作之列表。
 
 ## 開放源碼

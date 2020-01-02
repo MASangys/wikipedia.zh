@@ -1,3 +1,6 @@
+> 本文内容由[RNA世界學說](https://zh.wikipedia.org/wiki/RNA世界學說)转换而来。
+
+
 [RNA-comparedto-DNA_thymineAndUracilCorrected.png](https://zh.wikipedia.org/wiki/File:RNA-comparedto-DNA_thymineAndUracilCorrected.png "fig:RNA-comparedto-DNA_thymineAndUracilCorrected.png")。\]\]
 
 **RNA世界學說**（英語：**RNA world hypothesis**）是一個理論，認為[地球](../Page/地球.md "wikilink")上早期的[生命](../Page/生命.md "wikilink")分子以[RNA先出現](https://zh.wikipedia.org/wiki/RNA "wikilink")\[1\]，之後才有蛋白质和[DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")\[2\]\[3\]。且這些早期的RNA分子同時擁有如同DNA的遺傳訊息儲存功能，以及如[蛋白質般的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")[催化](../Page/催化.md "wikilink")能力\[4\]，支持了早期的細胞或前細胞生命的運作<ref>

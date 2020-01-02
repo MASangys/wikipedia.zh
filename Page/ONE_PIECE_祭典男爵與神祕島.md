@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 祭典男爵與神祕島](https://zh.wikipedia.org/wiki/ONE_PIECE_祭典男爵與神祕島)转换而来。
+
+
 **《ONE PIECE 祭典男爵與神祕島》**是於2005年上映的第六部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情

@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation \(遊戲機\)](https://zh.wikipedia.org/wiki/PlayStation_\(遊戲機\))转换而来。
+
+
 是由[索尼電腦娛樂开发和发售的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[家用游戏机](../Page/家用游戏机.md "wikilink")。主机于1994年12月3日在[日本](../Page/日本.md "wikilink")发布，\[1\]1995年9月9日在[北美发售](https://zh.wikipedia.org/wiki/北美 "wikilink")，1995年9月29日在[欧洲](../Page/欧洲.md "wikilink")发售，1995年11月15日在[澳大利亚](../Page/澳大利亚.md "wikilink")发售。这款游戏机是[PlayStation](../Page/PlayStation.md "wikilink")系列家用视频游戏机的第一款。作为[第五世代遊戲機](../Page/第五世代遊戲機.md "wikilink")的一部分，与其他第五时代游戏机如[任天堂64](../Page/任天堂64.md "wikilink")和[世嘉土星](../Page/世嘉土星.md "wikilink")竞争。
 
 PlayStation是第一个“电脑娱乐系统”。一台機器有三種功能，既能玩游戏，也能播放[音樂CD](https://zh.wikipedia.org/wiki/音樂CD "wikilink")，部分机型还能播放[影音光碟](https://zh.wikipedia.org/wiki/影音光碟 "wikilink")。机器出货量为1亿部，共发售了9年6个月。\[2\]2000年7月，一款名为**PS one**的“超薄”版本发布，取代了最初的灰色版本主机，并重新以适当的名字命名，以避免与它的继任者[PlayStation 2混淆](../Page/PlayStation_2.md "wikilink")。

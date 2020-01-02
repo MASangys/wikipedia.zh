@@ -1,3 +1,6 @@
+> 本文内容由[Portlet](https://zh.wikipedia.org/wiki/Portlet)转换而来。
+
+
 **Portlets**在[Web门户上管理和显示的](../Page/门户网站.md "wikilink")[可插拔的](../Page/插件.md "wikilink")[用户界面](../Page/用户界面.md "wikilink")[组件](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")。Portlet产生可以聚合到门户页面中的[标记语言代码的片段](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，如[HTML](../Page/HTML.md "wikilink")，[XML](../Page/XML.md "wikilink")等。通常，根据[桌面隐喻](https://zh.wikipedia.org/wiki/桌面比擬 "wikilink")，一个门户页面显示为一组互相不重叠的portlet窗口，其中每一个portlet窗口显示一个portlet。因此，可以说一个（或一组）portlet就像一个在门户网站上运行的基于Web的[应用程序](../Page/应用程序.md "wikilink")。 Portlet应用程序的一些例子包括[电子邮件](../Page/电子邮件.md "wikilink")，[天气预报](../Page/天气预报.md "wikilink")，[论坛和](../Page/网络论坛.md "wikilink")[新闻](../Page/新闻.md "wikilink")等。
 
 Portlet标准的目的是使[开发人员开发出的portlet可以插入到任何支持该标准的门户网站](https://zh.wikipedia.org/wiki/软件设计师 "wikilink")。

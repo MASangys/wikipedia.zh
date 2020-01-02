@@ -1,3 +1,6 @@
+> 本文内容由[串列SCSI](https://zh.wikipedia.org/wiki/串列SCSI)转换而来。
+
+
 [SASHardDriveComparsion.jpg](https://zh.wikipedia.org/wiki/File:SASHardDriveComparsion.jpg "fig:SASHardDriveComparsion.jpg")Kiss[薄荷糖的大小比較](https://zh.wikipedia.org/wiki/薄荷糖 "wikilink")。\]\] **序列式SCSI**（，簡稱）是一種[電腦集線的技術](https://zh.wikipedia.org/wiki/I/O总线 "wikilink")，其功能主要是作為週邊零件的數據傳輸，例如：[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、[CD-ROM](../Page/CD-ROM.md "wikilink")等設備而設計的界面。序列式SCSI 由[並列SCSI物理存儲介面演化而來](https://zh.wikipedia.org/wiki/並列SCSI "wikilink")，是由ANSI INCITS [T10技術委員會](https://zh.wikipedia.org/wiki/T10技術委員會 "wikilink")（[T10 committee](http://www.t10.org)）開發及維護的新的存儲介面標準。與並列方式相比，序列方式能提供更快速的通信傳輸速度以及更簡易的配置。此外SAS並支援與序列式ATA（[SATA](../Page/SATA.md "wikilink")）設備相容，且兩者可以使用相類似的電纜。
 
 SAS是點對點（point-to-point）連接，並允許多個端口集中於單個控制器上，其可以內建於主機板（mother board）當中；也可另外添加。該技術建立在強大的並列SCSI通信技術基礎上。SAS是採用SATA相容的電纜線採取點對點連接方式，從而在計算機系統中不需要建立雛菊鏈結（daisy-chaining）方式便可簡單地實現線纜安裝。

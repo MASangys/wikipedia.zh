@@ -1,3 +1,6 @@
+> 本文内容由[ULTRA BLUE](https://zh.wikipedia.org/wiki/ULTRA_BLUE)转换而来。
+
+
 **ULTRA BLUE** 是[宇多田光](../Page/宇多田光.md "wikilink")的第四張日文原創專輯，於2006年6月14日發行。 在實體銷量方面，這是她第一次的大幅下滑，未能取得年度冠軍，全球銷量約為110萬，一般認為這跟與上張日文專輯間長達四年之久的間隔頗有關係。不過本作在付費下載方面仍很成功，在發行一個月內，碟內曲目付費下載數已突破400萬次，\[1\] 並居[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") Japan專輯榜前十位長達2個月之久，成為[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink") Japan數位銷售年間第四。
 
 ## 概要

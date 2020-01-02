@@ -1,3 +1,6 @@
+> 本文内容由[Trickster](https://zh.wikipedia.org/wiki/Trickster)转换而来。
+
+
 **Trickster**（），是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第十八張單曲，商品編號KICM-1251，2008年10月1日發售。
 
 ## 單曲解說

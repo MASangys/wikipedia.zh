@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot S2 IS](https://zh.wikipedia.org/wiki/佳能PowerShot_S2_IS)转换而来。
+
+
 **佳能 PowerShot S2 IS** 是一部2005年推出的五百万[象素的](https://zh.wikipedia.org/wiki/象素 "wikilink")[佳能](../Page/佳能.md "wikilink")长焦[数码相机](../Page/数码相机.md "wikilink")。它是[Canon PowerShot S1 IS的升级版本](https://zh.wikipedia.org/wiki/Canon_PowerShot_S1_IS "wikilink")，带有12x光学变焦，以及[图像稳定器](https://zh.wikipedia.org/wiki/图像稳定器 "wikilink")，使用[DiG\!C II数字处理芯片](https://zh.wikipedia.org/wiki/DIGIC "wikilink")。
 
 S2 IS的继任者是[Canon PowerShot S3 IS](https://zh.wikipedia.org/wiki/Canon_PowerShot_S3_IS "wikilink")。两部机器相似化程度较高，S3 IS只是使用了较大面积的CCD并且在象素上升级到了六百万。

@@ -1,3 +1,6 @@
+> 本文内容由[Shivaree](https://zh.wikipedia.org/wiki/Shivaree)转换而来。
+
+
 **Shivaree**是一個[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[另類搖滾樂團](https://zh.wikipedia.org/wiki/另類搖滾 "wikilink")，成立於1999年，同年推出首張大碟《I Oughtta Give You a Shot in the Head for Making Me Live in this Dump》。該樂團由三人組成，[主唱為Ambrosia](https://zh.wikipedia.org/wiki/主唱 "wikilink") Parsley，[鍵盤手為Danny](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink") McGough，而Duke McVinnie 則為[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。其風格較為另類，所以名氣寂寂無聲，未能得到廣泛的認同。直到2004年，其1999年舊作《Goodnight Moon》被導演[昆汀·塔倫提諾用作](https://zh.wikipedia.org/wiki/昆汀·塔倫提諾 "wikilink")《Kill Bill Vol.2》的插曲而吸引了廣大歌迷注意，Shivaree也開始被人認識。
 
 ## 作品

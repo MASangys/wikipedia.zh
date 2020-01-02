@@ -1,3 +1,6 @@
+> 本文内容由[Shop At Home](https://zh.wikipedia.org/wiki/Shop_At_Home)转换而来。
+
+
 **Shop at Home Network**（較耳熟能詳的是**Shop at Home**, **Shop At Home TV**, **SATH** or **SAH**）是在[美國所擁有的一家電視網路](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 在2006年被併購之前。是由所擁有並經營的（2002年－2006年），當SAH在6月21日暫時歇業時，將其主要業務專注於家庭電視購物節目上，與其名相互輝映。

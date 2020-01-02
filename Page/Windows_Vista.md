@@ -1,3 +1,6 @@
+> 本文内容由[Windows Vista](https://zh.wikipedia.org/wiki/Windows_Vista)转换而来。
+
+
 ****是[微軟发行的一款](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows個人桌面](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")，於2005年7月22日微软正式公布此名稱。開發代號**Longhorn**。<ref>{{cite web
 
 `|url=`<http://www.microsoft.com/presspass/press/2005/jul05/07-22LHMA.mspx>` `

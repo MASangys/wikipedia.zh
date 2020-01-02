@@ -1,3 +1,6 @@
+> 本文内容由[Sexy Zone \(單曲\)](https://zh.wikipedia.org/wiki/Sexy_Zone_\(單曲\))转换而来。
+
+
 《**Sexy Zone**》是[Sexy Zone的出道](../Page/Sexy_Zone.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年11月16日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

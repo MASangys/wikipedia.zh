@@ -1,3 +1,6 @@
+> 本文内容由[TBF復仇者式轟炸機](https://zh.wikipedia.org/wiki/TBF復仇者式轟炸機)转换而来。
+
+
 **TBF復仇者式**（；如果是[通用汽車所代工版本則稱為](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")**TBM Avenger**）為[格魯門公司開發的](https://zh.wikipedia.org/wiki/格魯門公司 "wikilink")[-{zh:艦上;zh-tw:海基;zh-hk:艦上;zh-hans:舰载}-](../Page/艦載機.md "wikilink")[魚雷轟炸機](https://zh.wikipedia.org/wiki/魚雷轟炸機 "wikilink")，主要於[第二次世界大戰的太平洋戰場上運用](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。
 
 ## 開發

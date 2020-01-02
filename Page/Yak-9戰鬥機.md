@@ -1,3 +1,6 @@
+> 本文内容由[Yak-9戰鬥機](https://zh.wikipedia.org/wiki/Yak-9戰鬥機)转换而来。
+
+
 Yak-9是**蘇聯**在[二次世界大戰後期主要的戰鬥機之](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")。其设计源自根據作戰的經驗对前一款的[Yak-7戰鬥機](../Page/Yak-7戰鬥機.md "wikilink")的改良。之後被证实是一款性能優異的機種。
 
 ## 概要

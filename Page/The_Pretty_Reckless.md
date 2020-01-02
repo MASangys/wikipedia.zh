@@ -1,3 +1,6 @@
+> 本文内容由[The Pretty Reckless](https://zh.wikipedia.org/wiki/The_Pretty_Reckless)转换而来。
+
+
 **The Pretty Reckless**（有非正式的中文翻译为“漂亮的鲁莽”）是一支来自美国[纽约](../Page/纽约.md "wikilink")的另类摇滚乐队。乐队目前的成员有：[泰勒·莫姆森](https://zh.wikipedia.org/wiki/泰勒·莫姆森 "wikilink")（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")，节奏吉他）、本·菲利普斯（主音吉他，伴唱）、马克·达蒙（贝司）和杰米·帕金斯（架子鼓）。
 
 他们的首张专辑《**Light Me Up**》于2010年8月30日在英国发售，专辑中的首打单曲在5月13日就已经放出试听了。本张专辑中诞生了三首高人气的单曲，《Make Me Wanna Die》更是空降英国摇滚排行榜榜首。

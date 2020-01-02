@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation Home](https://zh.wikipedia.org/wiki/PlayStation_Home)转换而来。
+
+
 [Playstationhome_logo.jpg](https://zh.wikipedia.org/wiki/File:Playstationhome_logo.jpg "fig:Playstationhome_logo.jpg")
 
 **PlayStation Home**（註冊商標：Home）是[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（SCE）於2005年發佈，提供給[PlayStation 3用戶的一個網上社交平台](../Page/PlayStation_3.md "wikilink")，預定2008年第一季透過「[PlayStation Store](../Page/PlayStation_Store.md "wikilink")」採用免費下載方式發放給所有地方的用戶。2013年8月30日，索尼宣佈由 SCEJA 所管轄的 PlayStation Home 服務，將於 2013 年 9 月後停止日本區域新內容的上架、2014 年 3 月後停止亞洲區域新內容的上架。2014年9月26日宣佈關閉範圍將會擴展至北美及歐洲地區，將會由11月12日開始停止推出各種新內容，下載內容的最後期限為12月3日。\[1\]\[2\]2015年3月31日PlayStation Home将正式停止服务。

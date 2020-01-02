@@ -1,3 +1,6 @@
+> 本文内容由[VAX](https://zh.wikipedia.org/wiki/VAX)转换而来。
+
+
 [VAX_11-780_intero.jpg](https://zh.wikipedia.org/wiki/File:VAX_11-780_intero.jpg "fig:VAX_11-780_intero.jpg") **VAX**（Virtual Address eXtension）是一種可以支持[機器語言和](https://zh.wikipedia.org/wiki/機器語言 "wikilink")[虛擬地址的](https://zh.wikipedia.org/wiki/虛擬地址 "wikilink")[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[小型計算機](https://zh.wikipedia.org/wiki/小型計算機 "wikilink")。VAX最初由[迪吉多](../Page/迪吉多.md "wikilink")電腦公司（DEC）在二十世紀七十年代初發明。
 
 ## 命名

@@ -1,3 +1,6 @@
+> 本文内容由[SH@PPLE](https://zh.wikipedia.org/wiki/SH@PPLE)转换而来。
+
+
 是[竹岡葉月撰寫](https://zh.wikipedia.org/wiki/竹岡葉月 "wikilink")、負責插畫的[輕小說](../Page/輕小說.md "wikilink")作品。角川集團旗下的[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")出版，繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理。本作品已經漫畫化，由[ういらあくる作畫並在](https://zh.wikipedia.org/wiki/ういらあくる "wikilink")[角川書店](../Page/角川書店.md "wikilink")《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》連載。
 
 ## 故事簡介

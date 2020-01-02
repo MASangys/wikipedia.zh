@@ -1,3 +1,6 @@
+> 本文内容由[ReWire](https://zh.wikipedia.org/wiki/ReWire)转换而来。
+
+
 ReWire是一個軟體-{zh-hans:协议; zh-hant:協定}-，由 Propellerhead 公司和 Steinberg公司聯合開發出來的，允許遠程控制（remote control）並傳輸-{zh-hans:数字; zh-hant:數位}-音頻編輯（digital audio editing），已是音頻／MIDI程式間通訊的一種標準。
 
 ReWire總線技術上為單聲道形式，目前廣泛使用於麥金塔電腦與微軟的作業系統，在系統內建立虚拟的音频通路，传输最多64个通道（channel）的音频流。

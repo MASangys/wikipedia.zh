@@ -1,3 +1,6 @@
+> 本文内容由[T Town](https://zh.wikipedia.org/wiki/T_Town)转换而来。
+
+
 [Chung_Fu_Shopping_Centre_Phase_2.jpg](https://zh.wikipedia.org/wiki/File:Chung_Fu_Shopping_Centre_Phase_2.jpg "fig:Chung_Fu_Shopping_Centre_Phase_2.jpg") [HK_ChungFuShoppingCentre.jpg](https://zh.wikipedia.org/wiki/File:HK_ChungFuShoppingCentre.jpg "fig:HK_ChungFuShoppingCentre.jpg")入口（2008年）\]\] **T Town**是一個位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[天水圍](../Page/天水圍.md "wikilink")[天華路](https://zh.wikipedia.org/wiki/天華路 "wikilink")30至33號的購物商場，於1999年至2000年分階段落成。T Town橫跨[天水圍新市鎮](../Page/天水圍新市鎮.md "wikilink")的南部和北部，是天水圍人流最多的購物商場之一，亦是[領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")（領展）的重點發展商場之一。該商場由[香港房屋委員會](../Page/香港房屋委員會.md "wikilink")興建、擁有及管理，於2005年售予「領匯房地產信託基金」（現已改名為[領展房地產信託基金](https://zh.wikipedia.org/wiki/領展房地產信託基金 "wikilink")）。該商場分為一期和二期，由橫跨天華路的密封式天橋連接，商場樓高三層，建築樓面面積達36,700平方米。商場設有[籃球場](../Page/籃球場.md "wikilink")、[排球場](https://zh.wikipedia.org/wiki/排球場 "wikilink")、[網球場](../Page/網球場.md "wikilink")和多層[停車場](../Page/停車場.md "wikilink")。商場落成時名為**頌富商場**（）\[1\]，2010年更名為**頌富廣場**\[2\]（Chung Fu Plaza），到2017年3月改稱現名；舊名源於商場位處[天頌苑](../Page/天頌苑.md "wikilink")和[天富苑](../Page/天富苑.md "wikilink")之間的位置。
 
 ## T Town South

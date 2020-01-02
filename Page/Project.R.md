@@ -1,3 +1,6 @@
+> 本文内容由[Project.R](https://zh.wikipedia.org/wiki/Project.R)转换而来。
+
+
 **Project.R**（）是[日本](../Page/日本.md "wikilink")的[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，2008年結成。他們主要作的是2000年代末至今的[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[特攝主題曲](https://zh.wikipedia.org/wiki/特攝 "wikilink")。現在他們是[Columbia Music Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia_Music_Entertainment "wikilink")。
 
 而Project.R的「R」字頭，即是代表「連者」（Ranger）的意思。

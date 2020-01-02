@@ -1,3 +1,6 @@
+> 本文内容由[威廉·M·戴利](https://zh.wikipedia.org/wiki/威廉·M·戴利)转换而来。
+
+
 **威廉·迈克尔·戴利**（**William Michael Daley**，），[美国](../Page/美国.md "wikilink")政治家、商人，[美国民主党成员](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，自2011年1月至2012年1月出任[奧巴馬政府的](https://zh.wikipedia.org/wiki/奧巴馬 "wikilink")[白宫幕僚长](https://zh.wikipedia.org/wiki/白宫幕僚长 "wikilink")。
 
 ## 生平

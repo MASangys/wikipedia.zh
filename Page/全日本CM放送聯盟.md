@@ -1,3 +1,6 @@
+> 本文内容由[全日本CM放送聯盟](https://zh.wikipedia.org/wiki/全日本CM放送聯盟)转换而来。
+
+
 社團法人**全日本CM放送聯盟**（，，通稱ACC），是由[日本廣告主協會](https://zh.wikipedia.org/wiki/日本廣告主協會 "wikilink")（Japan Advertisers Association，通稱JAA）、[日本廣告業協會](https://zh.wikipedia.org/wiki/日本廣告業協會 "wikilink")（Japan Advertising Agencies Association，通稱JAAA）、[放送廣告代理店中央聯盟](https://zh.wikipedia.org/wiki/放送廣告代理店中央聯盟 "wikilink")、[日本電視商業製作公司聯盟](https://zh.wikipedia.org/wiki/日本電視商業製作公司聯盟 "wikilink")（Japan Association of TV Commercial production companies，通稱JAC）、[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")（National Association of Commercial Broadcasters in Japan，通稱NAB）等各業界團體，所參加而組成。
 
 以社會文化的貢獻為目標，培育廣告的健全發展為目的，於1960年首先由日本廣告主協會、日本廣告業協会、日本民間放送聯盟，組成「廣告聯合研究會 （Allied CM Council，簡稱ACC）」，接著在1963年改組成「全日本廣告協議會 （All Japan Radio ＆Television Commercial Council，簡稱ACC）」，最後在1993年，以公益活動為基礎且非營利而社團法人化，設立全日本ＣＭ放送聯盟至今。

@@ -1,3 +1,6 @@
+> 本文内容由[PPTC](https://zh.wikipedia.org/wiki/PPTC)转换而来。
+
+
 [Photo-Polyswitch.jpg](https://zh.wikipedia.org/wiki/File:Photo-Polyswitch.jpg "fig:Photo-Polyswitch.jpg") **PPTC**（Polymeric Positive Temperature Coefficient\[1\]），即**[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")正系数温度元件**。又稱**可復式保險絲**（Resettable Fuse）或**聚合物保险丝**（Polyfuse），在[中国大陆](../Page/中国大陆.md "wikilink")的电子业界俗称**自恢复保险丝**或**过流保护片**。在西方电子业界多称为Polyswitch，这是的产品商标。
 
 ## 歷史與市場

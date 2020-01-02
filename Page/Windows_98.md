@@ -1,3 +1,6 @@
+> 本文内容由[Windows 98](https://zh.wikipedia.org/wiki/Windows_98)转换而来。
+
+
 [Windows98.gif](https://zh.wikipedia.org/wiki/File:Windows98.gif "fig:Windows98.gif") ****是[美国](../Page/美国.md "wikilink")[微软](../Page/微软.md "wikilink")公司发行於1998年6月25日的混合[16位](https://zh.wikipedia.org/wiki/16位 "wikilink")／[32位的](https://zh.wikipedia.org/wiki/32位 "wikilink")[Windows系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，其版本號為4.1，[開發代號為](https://zh.wikipedia.org/wiki/開發代號 "wikilink")****。
 
 ## 特點

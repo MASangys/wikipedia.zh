@@ -1,3 +1,6 @@
+> 本文内容由[SURVIVE](https://zh.wikipedia.org/wiki/SURVIVE)转换而来。
+
+
 《**SURVIVE**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的第9張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[1997年](../Page/1997年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")由[Rooms RECORDS於日本發行](../Page/VERMILLION_RECORDS.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[STI 5.0戰術型手槍](https://zh.wikipedia.org/wiki/STI_5.0戰術型手槍)转换而来。
+
+
 **STI 5.0戰術型**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[STI國際公司](https://zh.wikipedia.org/wiki/STI國際公司 "wikilink")（STI International）設計及生產的[1911樣式](../Page/M1911手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 概述
@@ -19,7 +22,7 @@ STI 5.0戰術型是以著名的[M1911手槍](../Page/M1911手槍.md "wikilink")�
   - [柯爾特OHWS](../Page/柯爾特OHWS半自動手槍.md "wikilink")
   - [柯爾特滑軌](../Page/柯爾特滑軌半自動手槍.md "wikilink")
   - [金柏特裝型](../Page/金柏特裝型半自動手槍.md "wikilink")
-  - [MEU](https://zh.wikipedia.org/wiki/MEU\(SOC\)半自動手槍 "wikilink")
+  - [MEU](../Page/MEU\(SOC\)半自動手槍.md "wikilink")
   - [帕拉軍工廠P14-45](../Page/帕拉軍工廠P14-45半自動手槍.md "wikilink")
   - [帕拉軍工廠P18-9](../Page/帕拉軍工廠P18-9半自動手槍.md "wikilink")
   - [雷明登1911 R1](https://zh.wikipedia.org/wiki/雷明登1911_R1半自動手槍 "wikilink")

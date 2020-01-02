@@ -1,3 +1,6 @@
+> 本文内容由[OTOME CRISIS](https://zh.wikipedia.org/wiki/OTOME_CRISIS)转换而来。
+
+
 《**OTOME CRISIS**》（）為[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2008年3月28日發售的遊戲\[1\]，遊戲引擎繼承[DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")／[Xross Scramble的橫向](../Page/Xross_Scramble.md "wikilink")2D卷軸式戰鬥，屬於[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[NetCaptor](https://zh.wikipedia.org/wiki/NetCaptor)转换而来。
+
+
 **NetCaptor**是一款使用了[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [Internet Explorer的](../Page/Internet_Explorer.md "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的Internet Explorer外殼瀏覽器。在IE内核浏览器中最早实现了标签式浏览／分页浏览（Tabbed Browsing），它為IE使用者提供了一個替代的[多標籤界面](https://zh.wikipedia.org/wiki/多標籤瀏覽器 "wikilink")，並附有一系列額外功能。它是一個可在免費模式（部份功能無法使用，界面中也會顯示細小的文字廣告）或在已註冊模式（称为NetCaptor Pro，無廣告，所有功能可用）下執行的[廣告軟件](https://zh.wikipedia.org/wiki/廣告軟件 "wikilink")／[共享軟件](https://zh.wikipedia.org/wiki/共享軟件 "wikilink")。
 
 ## 主要功能（截至版本7.5.4）

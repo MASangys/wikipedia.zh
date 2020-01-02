@@ -1,3 +1,6 @@
+> 本文内容由[TSD09型柴油动车组](https://zh.wikipedia.org/wiki/TSD09型柴油动车组)转换而来。
+
+
 **TSD09型柴油动车组**是由[中国中车](../Page/中国中车.md "wikilink")集团[唐山机车车辆厂研制的](https://zh.wikipedia.org/wiki/唐山机车车辆厂 "wikilink")[动力分散](https://zh.wikipedia.org/wiki/動力分散式 "wikilink")[摆式](../Page/擺式列車.md "wikilink")[柴油动车组](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")，于2003年研制成功，采用[康明斯](../Page/康明斯.md "wikilink")柴油机、[福伊特](../Page/福伊特.md "wikilink")液力传动箱、德国ESW公司倾摆系统，设计最高运行速度为160公里/小时。列车原计划交付[广东三茂铁路股份有限公司使用](https://zh.wikipedia.org/wiki/三茂铁路股份有限公司 "wikilink")，但由于[中国铁道部政策原因因而未获批准](../Page/中华人民共和国铁道部.md "wikilink")。
 
 ## 发展历史

@@ -1,3 +1,6 @@
+> 本文内容由[VL40U型电力机车](https://zh.wikipedia.org/wiki/VL40U型电力机车)转换而来。
+
+
 **VL40U型电力机车**（）是[乌克兰](../Page/乌克兰.md "wikilink")铁路的干线客运[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于25千伏工频[单相交流制的](https://zh.wikipedia.org/wiki/單相交流電 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由[VL80T型电力机车改造而成](../Page/VL80型电力机车.md "wikilink")。
 
 ## 改造背景

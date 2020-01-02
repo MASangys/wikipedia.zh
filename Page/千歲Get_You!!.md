@@ -1,3 +1,6 @@
+> 本文内容由[千歲Get You!!](https://zh.wikipedia.org/wiki/千歲Get_You!!)转换而来。
+
+
 《**千歲Get You\!\!**》（）是[日本](../Page/日本.md "wikilink")漫畫家的[四格漫畫](../Page/四格漫畫.md "wikilink")作品。
 
 於[竹書房](../Page/竹書房.md "wikilink")的漫畫雜誌月刊『[まんがライフオリジナル](https://zh.wikipedia.org/wiki/まんがライフオリジナル "wikilink")』在2002年9月号初次掲載。

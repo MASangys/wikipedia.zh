@@ -1,3 +1,6 @@
+> 本文内容由[Ring \(平井堅單曲\)](https://zh.wikipedia.org/wiki/Ring_\(平井堅單曲\))转换而来。
+
+
 《**Ring**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第17張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年11月7日發行。
 
 ## 概述

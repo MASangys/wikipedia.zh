@@ -1,3 +1,6 @@
+> 本文内容由[Windows 7新功能](https://zh.wikipedia.org/wiki/Windows_7新功能)转换而来。
+
+
 [Windows 7基於](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows Vista核心上](../Page/Windows_Vista.md "wikilink")，仍包含了許多的新功能。並且改進了觸控的方便性、[語音辨識和手寫輸入](https://zh.wikipedia.org/wiki/語音識別 "wikilink")、支持虚拟硬盘、更多的[檔案格式](../Page/檔案格式.md "wikilink")並且提高[多核心](https://zh.wikipedia.org/wiki/多核心 "wikilink")[中央處理器的效能](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")\[1\]、加快[启动速度以及核心上改进](https://zh.wikipedia.org/wiki/開機 "wikilink")。
 
 ## 使用者介面

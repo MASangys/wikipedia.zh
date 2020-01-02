@@ -1,3 +1,6 @@
+> 本文内容由[Urban Emotions](https://zh.wikipedia.org/wiki/Urban_Emotions)转换而来。
+
+
 《**Urban Emotions**》 是[張敬軒的第八張大碟](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")，於2008年7月11日推出。在9月4日推出內地版時加上中文名稱《**他的故事**》，並刪去《狐》及《鬧鬼愛情》兩首歌曲。第二版於2008年9月12日推出。
 
 ## 曲目

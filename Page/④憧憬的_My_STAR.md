@@ -1,3 +1,6 @@
+> 本文内容由[④憧憬的 My STAR](https://zh.wikipedia.org/wiki/④憧憬的_My_STAR)转换而来。
+
+
 「**④憧憬的 My STAR**」（④憧れ My STAR）是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第3枚原創專輯。於2009年1月28日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

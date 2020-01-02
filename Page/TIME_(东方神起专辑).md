@@ -1,3 +1,6 @@
+> 本文内容由[TIME \(东方神起专辑\)](https://zh.wikipedia.org/wiki/TIME_\(东方神起专辑\))转换而来。
+
+
 《**TIME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[東方神起](../Page/東方神起.md "wikilink")的第6枚原創日語專輯，於2013年3月6日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[VIA Nano](https://zh.wikipedia.org/wiki/VIA_Nano)转换而来。
+
+
 **VIA Nano**（開發代號為VIA Isaiah/[以賽亞](../Page/以賽亞書.md "wikilink")）處理器是[VIA公司研發的](https://zh.wikipedia.org/wiki/VIA "wikilink")64位元處理器，VIA公司從2004年起即開始Isaiah處理器的研發工作，曾預定在2006年推出，但目前已被推遲到2008年。2008年3月，VIA旗下[Centaur Technology的CEO](https://zh.wikipedia.org/wiki/Centaur_Technology "wikilink") Glenn Henry表示，Isaiah處理器的樣品已經大量出貨給客戶，預計5-6月份正式推出。Isaiah處理器將使用[富士通](../Page/富士通.md "wikilink")或[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")65nm製程技術生產，目前公司也在考慮使用45nm製程技術。VIA Isaiah處理器的開發代號為**CN**。外界普遍認為，Isaiah處理器的對手是[Intel Atom處理器](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。但後者只採用顺序执行设计，理論上效能會比Isaiah差。為了彌補不足，Intel會為Atom處理器增加[超執行緒](../Page/超執行緒.md "wikilink")技術，並開發雙核心版本。
 
 2008年5月尾，VIA正式發佈了Isaiah核心處理器，並命名為**VIA Nano（威盛凌珑）**處理器系列。官方稱Nano並不是用來取代C7處理器，而是其延伸。兩者的針腳是互相兼容的，廠商可以用較低的成本去升級產品。

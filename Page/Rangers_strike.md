@@ -1,3 +1,6 @@
+> 本文内容由[Rangers strike](https://zh.wikipedia.org/wiki/Rangers_strike)转换而来。
+
+
 **Rangers Strike**（）是[日本](../Page/日本.md "wikilink")Carddas公司發行的一個[交换卡片游戏](https://zh.wikipedia.org/wiki/交换卡片游戏 "wikilink")，最初是紀念[超級戰隊系列屆](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")30週年，在[東映](../Page/東映.md "wikilink")（Toei）批准下於2006年發行。及後，紙牌遊戲被擴展往其他特攝系列，包括2007年發行的[幪面超人](../Page/幪面超人.md "wikilink")系列（The Masked Rider Expansion）及2008年發行的[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")（Special Metal Edition）。2009年6月再將3個系列合併發行，名為**XGather**。
 
 ## 发行历史

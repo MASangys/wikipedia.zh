@@ -1,3 +1,6 @@
+> 本文内容由[TEMPTATION BOX](https://zh.wikipedia.org/wiki/TEMPTATION_BOX)转换而来。
+
+
 《**TEMPTATION BOX**》是日本女子樂隊[SCANDAL第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")2張的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 概要

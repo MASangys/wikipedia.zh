@@ -1,3 +1,6 @@
+> 本文内容由[國際LGBTI聯合會](https://zh.wikipedia.org/wiki/國際LGBTI聯合會)转换而来。
+
+
 **國際LGBTI聯合會**（**International Lesbian, Gay, Bisexual, Trans and Intersex Association**）是一個促進世界各地區[女同性戀](../Page/女同性戀.md "wikilink")、[男同性戀](../Page/男同性戀.md "wikilink")、[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")、[跨性別](../Page/跨性別.md "wikilink")和[雙性人](../Page/雙性人.md "wikilink")群體共同爭取[平權的國際組織](../Page/平等主義.md "wikilink")。該組織於1978年成立，為**國際同性戀聯合會**（**International Gay Association，IGA**），在1986年改名為**國際男女同性戀聯合會**（**International Lesbian and Gay Association，ILGA**）。ILGA現在擁有超過1100個團體會員，分佈在六大地區的110多個國家\[1\]，組織願景為確保任何人不分其[性傾向](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[性別認同](../Page/性別認同.md "wikilink")、[性別表達和](https://zh.wikipedia.org/wiki/性別氣質 "wikilink")[性徵](https://zh.wikipedia.org/wiki/性別 "wikilink")，都能享有[自由](../Page/自由.md "wikilink")[平等的](../Page/法律之前人人平等.md "wikilink")[人權](https://zh.wikipedia.org/wiki/人權 "wikilink")，並致力於實現這樣一種全球[正義](../Page/正義.md "wikilink")和[平權的世界](../Page/平等主義.md "wikilink")\[2\]。
 
 ## 介紹

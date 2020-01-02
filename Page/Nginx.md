@@ -1,3 +1,6 @@
+> 本文内容由[Nginx](https://zh.wikipedia.org/wiki/Nginx)转换而来。
+
+
 **Nginx**（发音同「」）是异步框架的[網頁伺服器](../Page/網頁伺服器.md "wikilink")，也可以用作[反向代理](../Page/反向代理.md "wikilink")、[负载平衡器和](../Page/负载均衡.md "wikilink")[HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存 "wikilink")。该软件由[伊戈爾·賽索耶夫](../Page/伊戈爾·賽索耶夫.md "wikilink")创建并于2004年首次公开发布。\[1\] 2011年成立同名公司以提供支持。\[2\]2019年3月11日，Nginx公司被以6.7億美元收购\[3\]。
 
 Nginx是免费的[开源软件](../Page/开源软件.md "wikilink")，根据类[BSD许可证](../Page/BSD许可证.md "wikilink")的条款发布。一大部分Web服务器使用Nginx，\[4\] 通常作为[负载均衡](../Page/负载均衡.md "wikilink")器。\[5\]

@@ -1,3 +1,6 @@
+> 本文内容由[OneDrive](https://zh.wikipedia.org/wiki/OneDrive)转换而来。
+
+
 ****，全名****，前稱**，是微軟所推出的[網絡硬碟及](https://zh.wikipedia.org/wiki/網絡硬碟 "wikilink")[雲端服務](https://zh.wikipedia.org/wiki/雲端服務 "wikilink")。使用者可以上傳他們的檔案到網路伺服器上，並且透過網路瀏覽器來瀏覽那些檔案。更可直接編輯和觀看文件。同時推出同步上載軟件，可於電腦直接存取和同步檔案。另外，OneDrive並允許使用者透過[Microsoft Account來限制不同的使用者存取檔案](https://zh.wikipedia.org/wiki/Microsoft_Account "wikilink")，允許使用者決定是否將檔案與公眾分享，或是限於聯絡清單上的人才能存取；而對所有人公開的檔案則不需要Microsoft Account即可存取。
 
 [Office 365订阅用户可获得](../Page/Office_365.md "wikilink")1TB储存空间，免费用户拥有5GB储存空间\[1\]（用户除了免費空間还可以邀请新用户加入OneDrive你和被邀请者都可以获得0.5GB额外的储存空间，最高10GB），用戶可選擇付款擴充容量\[2\]。OneDrive現在支援10GB的檔案\[3\]。另外，微軟也提供以[Silverlight和](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[HTML5](../Page/HTML5.md "wikilink")為基礎的檔案上傳功能，使用者只要透過「拖拉」的方式便能將檔案上傳。但如沒有安裝Silverlight或瀏覽器不支援HTML5，則每次同時只可上傳5個檔案。

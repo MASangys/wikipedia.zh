@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 9](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_9)转换而来。
+
+
 **GeForce 9系列**，代號**D9E**，是[NVIDIA的第九代GeForce顯示晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，首個產品GeForce 9600 GT於2008年2月尾推出。9系列擁有65nm製程的高階D9E和55nm製程中階的D9P兩種型號，兩者皆支援DirectX 10和Shader Model 4.0。08年二月尾先上市的是高階的D9E，D9P則在同年六月推出。2009年初，NVIDIA將GeForce 9系列多數型號重新更名為[GeForce 100系列](https://zh.wikipedia.org/wiki/GeForce_100 "wikilink")，規格只在頻率上有部分提升。
 
 這個系列的第一款顯示卡是GeForce 9600GT，是一款中端的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。架構與8800GT相似，但只有64個流處理器。此核心亦強化顯示[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，提高資料的壓縮比。它亦是NVIDIA首款中端顯示卡，擁有256-bit記憶體頻寬。[PureVideo](https://zh.wikipedia.org/wiki/PureVideo "wikilink") HD方面，此核心可以同時處理兩條影片，新增對[HDR的調整](https://zh.wikipedia.org/wiki/HDR "wikilink")，以及加強膚色的色澤表現。

@@ -1,3 +1,6 @@
+> 本文内容由[假面骑士W RETURNS](https://zh.wikipedia.org/wiki/假面骑士W_RETURNS)转换而来。
+
+
 《**假面骑士W RETURNS**》（）是特摄片《[假面骑士W](https://zh.wikipedia.org/wiki/假面骑士W "wikilink")》的[OV作品](https://zh.wikipedia.org/wiki/录影带首映 "wikilink")。本作分为假面骑士Accel（）篇和假面骑士Eternal（）篇。
 
 ## 概要

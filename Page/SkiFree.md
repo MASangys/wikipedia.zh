@@ -1,3 +1,6 @@
+> 本文内容由[SkiFree](https://zh.wikipedia.org/wiki/SkiFree)转换而来。
+
+
 ***SkiFree***是一个[电脑游戏](../Page/电脑游戏.md "wikilink")，Chris Pirih于1991年创作，当时他工作在[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。游戏目标简单：飞下斜坡，略过障碍。
 
 ## 历史

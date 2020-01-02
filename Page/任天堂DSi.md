@@ -1,3 +1,6 @@
+> 本文内容由[任天堂DSi](https://zh.wikipedia.org/wiki/任天堂DSi)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[電子遊戲商](../Page/電子遊戲發行商.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")研發的[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")，為[任天堂DS系列的第三代機種](https://zh.wikipedia.org/wiki/任天堂DS系列 "wikilink")，前代主機為2006年推出的[任天堂DS Lite](../Page/任天堂DS_Lite.md "wikilink")\[1\]。
 
 原版任天堂DSi於2008年10月的[東京任天堂秋季發表會上首次公開](https://zh.wikipedia.org/wiki/東京 "wikilink")，並於同年11月在日本、2009年4月在[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美地區正式推出](https://zh.wikipedia.org/wiki/北美 "wikilink")；2009年底，任天堂發售任天堂DSi大螢幕升級機型，取名為任天堂DSi LL（在海外被稱為任天堂DSi XL）\[2\]。繼任主機為2011年推出的[任天堂3DS](../Page/任天堂3DS.md "wikilink")\[3\]。

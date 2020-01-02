@@ -1,3 +1,6 @@
+> 本文内容由[White X\'mas](https://zh.wikipedia.org/wiki/White_X\'mas)转换而来。
+
+
 『**White X'mas**』是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第8張單曲作品。
 
 ## 概要

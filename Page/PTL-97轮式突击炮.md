@@ -1,3 +1,6 @@
+> 本文内容由[PTL-97轮式突击炮](https://zh.wikipedia.org/wiki/PTL-97轮式突击炮)转换而来。
+
+
 **PTL-97轮式突击炮**是[中华人民共和国的一款轮式突击炮車](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，采用100毫米口径[滑膛炮](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")，能发射[尾翼稳定脱壳穿甲弹](https://zh.wikipedia.org/wiki/尾翼稳定脱壳穿甲弹 "wikilink")。在[87式100毫米轮式突击炮](../Page/87式100毫米轮式突击炮.md "wikilink")基础上改进而来，是[PTL-02轮式突击炮](../Page/PTL-02轮式突击炮.md "wikilink")的原型样车。
 
 ## 历史沿革

@@ -1,3 +1,6 @@
+> 本文内容由[Portable](https://zh.wikipedia.org/wiki/Portable)转换而来。
+
+
 **Portable** 一種為-{R|『}- [隨身碟選單](https://zh.wikipedia.org/wiki/隨身碟選單 "wikilink")-{R|』}-**（**[PortableApps](https://zh.wikipedia.org/wiki/PortableApps "wikilink")、[UPP](https://zh.wikipedia.org/wiki/UPP "wikilink")、[WinPenPack](https://zh.wikipedia.org/wiki/WinPenPack "wikilink")、[PStart](https://zh.wikipedia.org/wiki/PStart "wikilink")**）**製作的綠化格式，通常與[綠色軟體](../Page/綠色軟體.md "wikilink")劃上等號，但其具有一定的格式，如：
 
 1\. 路徑中首資料夾具有**單獨執行檔**，故可在選單內保持單一捷徑。

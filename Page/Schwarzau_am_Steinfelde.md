@@ -1,3 +1,6 @@
+> 本文内容由[Schwarzau am Steinfelde](https://zh.wikipedia.org/wiki/Schwarzau_am_Steinfelde)转换而来。
+
+
 **Schwarzau am Steinfelde**（德语：）是[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[下奥地利州](https://zh.wikipedia.org/wiki/下奥地利州 "wikilink")[诺因基兴县的一个](https://zh.wikipedia.org/wiki/诺因基兴县 "wikilink")[市镇](../Page/市镇_\(奥地利\).md "wikilink")。总面积9.75平方公里，总人口1843人，人口密度189.0人/平方公里（2005年）。
 
 ## 参见

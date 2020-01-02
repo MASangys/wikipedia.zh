@@ -1,3 +1,6 @@
+> 本文内容由[VDL巴士](https://zh.wikipedia.org/wiki/VDL巴士)转换而来。
+
+
 **VDL巴士**（**VDL Bus Chassis**，前稱**DAF Bus International**）為[荷蘭巴士底盤生產商](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")，源自[DAF](../Page/DAF.md "wikilink")的巴士生產線。
 
 DAF的巴士生產線於1990年脫離DAF公司，並且成立DAF Bus International，為United Bus成員之一。豈料United Bus於1993年破產，DAF Bus International就被[VDL 集團收購](https://zh.wikipedia.org/wiki/VDL_集團 "wikilink")。2003年9月，DAF Bus International易名為VDL Bus International，2008年再易名為VDL Bus Chassis。現時VDL集團持有VDL巴士81%股份，其餘則由美國PACCAR持有。

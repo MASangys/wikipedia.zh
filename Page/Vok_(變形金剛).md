@@ -1,3 +1,6 @@
+> 本文内容由[Vok \(變形金剛\)](https://zh.wikipedia.org/wiki/Vok_\(變形金剛\))转换而来。
+
+
 **Vok**是[变形金刚宇宙中一个虚构的外星种族](https://zh.wikipedia.org/wiki/变形金刚_\(卡通\) "wikilink")。
 
 ## “野兽战争”时期

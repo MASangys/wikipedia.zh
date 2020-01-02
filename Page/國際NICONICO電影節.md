@@ -1,3 +1,6 @@
+> 本文内容由[國際NICONICO電影節](https://zh.wikipedia.org/wiki/國際NICONICO電影節)转换而来。
+
+
 **國際NICONICO電影節**是線上影片分享網站[NICONICO動畫舉辦的](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[電影節](https://zh.wikipedia.org/wiki/電影節 "wikilink")。NICONICO動畫認為其他電影節的對象只有一些專業製作的影片，所以對作品的種類沒有特別限制，只要是1秒至15分鐘長度、沒有侵犯[版權的原創作品即可參選](https://zh.wikipedia.org/wiki/版權 "wikilink")。電影節由構思至實際發表的準備時間只有三個月\[1\]，目標是把作品於[電影院](../Page/電影院.md "wikilink")播放。第一屆於11月26日發表結果。正式審評員包括[手塚治虫](../Page/手塚治虫.md "wikilink")的兒子[手塚真](https://zh.wikipedia.org/wiki/手塚真 "wikilink")、[舞蹈家](https://zh.wikipedia.org/wiki/舞蹈家 "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[松嶋初音](https://zh.wikipedia.org/wiki/松嶋初音 "wikilink")、[2ch創立人](https://zh.wikipedia.org/wiki/2ch "wikilink")[西村博之](https://zh.wikipedia.org/wiki/西村博之 "wikilink")。第三屆開始出現職業[漫畫家和](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[聲優](../Page/聲優.md "wikilink")合作的作品\[2\]。
 
 ## 第一屆

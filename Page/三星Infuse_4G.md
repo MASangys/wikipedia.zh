@@ -1,3 +1,6 @@
+> 本文内容由[三星Infuse 4G](https://zh.wikipedia.org/wiki/三星Infuse_4G)转换而来。
+
+
 {{Infobox Mobile phone |name = Samsung Infuse 4G (SGH-i997) |image = |imagesize = |caption = |manufacturer = [三星電子](../Page/三星電子.md "wikilink") |carrier = [AT\&T Mobility](https://zh.wikipedia.org/wiki/AT&T_Mobility "wikilink"), [Rogers Wireless](https://zh.wikipedia.org/wiki/Rogers_Wireless "wikilink") |networks = **GSM/EDGE** 850/900/1800/1900
 **UMTS** 850/1900/2100
 **UMTS** 900/AWS/2100

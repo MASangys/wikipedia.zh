@@ -1,3 +1,6 @@
+> 本文内容由[千機變II之花都大戰](https://zh.wikipedia.org/wiki/千機變II之花都大戰)转换而来。
+
+
 是一部由[梁柏堅](https://zh.wikipedia.org/wiki/梁柏堅 "wikilink")、[元奎](../Page/元奎.md "wikilink")執導的香港電影，2004年上映。
 
 ## 劇情

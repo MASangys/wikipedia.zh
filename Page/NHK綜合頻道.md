@@ -1,3 +1,6 @@
+> 本文内容由[NHK綜合頻道](https://zh.wikipedia.org/wiki/NHK綜合頻道)转换而来。
+
+
 **NHK綜合頻道**（，英語譯名：），又譯為**NHK綜合電視台**、**NHK綜合台**，為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[無線電視頻道之一](https://zh.wikipedia.org/wiki/無線電視 "wikilink")，簡稱「NHK G」或「[GTV](https://zh.wikipedia.org/wiki/GTV "wikilink")」（[台標顯示為](https://zh.wikipedia.org/wiki/台標 "wikilink")「*<font size=-2>NHK</font>G*」），[識別呼號為JOAK](../Page/无线电台呼号.md "wikilink")-(D)TV。開播於1953年2月1日，是[日本](../Page/日本.md "wikilink")第一個開播的[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")。大部分節目由位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")的[NHK放送中心](../Page/NHK放送中心.md "wikilink")製播，並透過NHK在日本各地的放送局向全國播出，但各放送局也會自行製播部分節目，例如重點時段的新聞節目。
 
 ## 概要

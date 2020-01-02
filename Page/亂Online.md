@@ -1,3 +1,6 @@
+> 本文内容由[亂Online](https://zh.wikipedia.org/wiki/亂Online)转换而来。
+
+
 《**亂Online**》是[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")，遊戲風格屬於校園環境，是一款不限地區，是終身免費的[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。在遊戲或官方網站常會看到「亂」字出現，正是強調該款遊戲的名稱。
 
 ## 遊戲營運

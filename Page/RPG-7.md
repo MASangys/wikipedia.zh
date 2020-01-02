@@ -1,3 +1,6 @@
+> 本文内容由[RPG-7](https://zh.wikipedia.org/wiki/RPG-7)转换而来。
+
+
 **RPG-7**（）是一種被廣泛使用的無導向肩托式[反坦克](https://zh.wikipedia.org/wiki/反坦克 "wikilink")[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")。
 
 ## 採用

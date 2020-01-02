@@ -1,3 +1,6 @@
+> 本文内容由[Nowhere Man](https://zh.wikipedia.org/wiki/Nowhere_Man)转换而来。
+
+
 **Nowhere Man**是英國樂團[The Beatles](https://zh.wikipedia.org/wiki/披頭四 "wikilink")1965年12月3日發行的專輯[Rubber Soul中的一首歌](https://zh.wikipedia.org/wiki/Rubber_Soul "wikilink")，及後以單曲形式在1966年2月21日發行。它在澳洲和加拿大排名第一，在[告示牌百強單曲榜中排名第三](https://zh.wikipedia.org/wiki/告示牌百強單曲榜 "wikilink")。此歌由[John所寫](https://zh.wikipedia.org/wiki/約翰·連儂 "wikilink")，歌中表達了其哲學觀念，它是樂團最早期的非情歌作品之一。
 
 此歌亦出現在電影[黃色潛水艇中](https://zh.wikipedia.org/wiki/黃色潛水艇_\(電影\) "wikilink")，樂團成員在 Sea of Nothing 上對着 [Jeremy](https://zh.wikipedia.org/wiki/Jeremy_Hillary_Boob "wikilink") 唱這首歌。

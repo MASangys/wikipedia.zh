@@ -1,3 +1,6 @@
+> 本文内容由[We are BOYFRIEND](https://zh.wikipedia.org/wiki/We_are_BOYFRIEND)转换而来。
+
+
 **We are BOYFRIEND**是[boyfriend的第](https://zh.wikipedia.org/wiki/boyfriend "wikilink")1張迷你專輯。
 
 ## 内容

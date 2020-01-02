@@ -1,3 +1,6 @@
+> 本文内容由[SL₂\(ℝ\)](https://zh.wikipedia.org/wiki/SL₂\(ℝ\))转换而来。
+
+
 在[数学](../Page/数学.md "wikilink")中，[特殊线性群](https://zh.wikipedia.org/wiki/特殊线性群 "wikilink")  是[行列式](../Page/行列式.md "wikilink")为  的  [实](../Page/实数.md "wikilink")[矩阵](../Page/矩阵.md "wikilink")组成的群：
 
   -

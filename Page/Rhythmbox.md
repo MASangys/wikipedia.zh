@@ -1,3 +1,6 @@
+> 本文内容由[Rhythmbox](https://zh.wikipedia.org/wiki/Rhythmbox)转换而来。
+
+
 **Rhythmbox**是一个[GNOME](../Page/GNOME.md "wikilink")默认的[音乐](../Page/音乐.md "wikilink")管理和播放[软件](../Page/软件.md "wikilink")，软件界面和[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iTunes很相似](https://zh.wikipedia.org/wiki/iTunes "wikilink")。Rhythmbox是一个[自由软件](../Page/自由软件.md "wikilink")，其核心播放功能基于[GStreamer](../Page/GStreamer.md "wikilink")多媒体框架。
 
 ## 功能

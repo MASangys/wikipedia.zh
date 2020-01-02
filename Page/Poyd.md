@@ -1,3 +1,6 @@
+> 本文内容由[Poyd](https://zh.wikipedia.org/wiki/Poyd)转换而来。
+
+
 **Poyd**（暱稱：**寶兒**，，），是[泰国](../Page/泰国.md "wikilink")的新生代當紅的[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[模特](https://zh.wikipedia.org/wiki/模特 "wikilink")，現活跃於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[香港](../Page/香港.md "wikilink")的[演藝圈](https://zh.wikipedia.org/wiki/演藝圈 "wikilink")。\[1\]
 
 ## 簡介

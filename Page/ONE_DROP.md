@@ -1,3 +1,6 @@
+> 本文内容由[ONE DROP](https://zh.wikipedia.org/wiki/ONE_DROP)转换而来。
+
+
 《**ONE DROP**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第9張單曲作品。獲得日本公信榜2009年單曲榜年終排名第9名的成績。
 
 ## 概要

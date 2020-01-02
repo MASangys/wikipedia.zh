@@ -1,3 +1,6 @@
+> 本文内容由[TinEye](https://zh.wikipedia.org/wiki/TinEye)转换而来。
+
+
 **TinEye**（錫眼睛\[1\]）是Idée公司所開發的圖像搜尋網站。2008年5月6日開站，提供使用者依據[URL或上傳的圖檔](../Page/统一资源定位符.md "wikilink")，搜尋網路上近似的圖像與位置。TinEye將搜尋目標與庫存圖像檔作比較，然後找出近似者並列出圖片網址。目前支援的圖像格式包括：[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/PNG.md "wikilink")及[GIF](../Page/GIF.md "wikilink")格式。Idée公司於1999年在[加拿大](../Page/加拿大.md "wikilink")[多倫多設立](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，專門發展圖像辨識軟體如PixID，與圖像搜尋引擎TinEye。截至2012年7月18日為止，該公司聲稱其資料庫收錄圖像已達20億張\[2\]。
 
 ## 支援方式

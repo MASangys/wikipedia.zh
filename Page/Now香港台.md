@@ -1,3 +1,6 @@
+> 本文内容由[Now香港台](https://zh.wikipedia.org/wiki/Now香港台)转换而来。
+
+
 **now香港台**（又稱**now香港**）是[香港](../Page/香港.md "wikilink")[now寬頻電視的一條預覽頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")，於2008年12月12日啟播。2016年3月19日起本頻道於不同時間內與now寬頻電視的其中一條頻道作同步預覽。此頻道曾是now寬頻電視其中一條香港本地中文資訊娛樂頻道。此頻道已於2019年11月1日終止廣播。
 
 ## 歷史

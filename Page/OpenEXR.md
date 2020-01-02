@@ -1,3 +1,6 @@
+> 本文内容由[OpenEXR](https://zh.wikipedia.org/wiki/OpenEXR)转换而来。
+
+
 **OpenEXR**，或简称为exr格式，是一种[开放标准的](https://zh.wikipedia.org/wiki/开放标准 "wikilink")[高动态范围](../Page/高动态范围成像.md "wikilink")[图像格式](../Page/图形文件格式比较.md "wikilink")，在[计算机图形学](../Page/计算机图形学.md "wikilink")里被广泛用于存储图像数据，但也可以存储一些后期合成处理所需的数据。OpenEXR最早由[工业光魔开发](https://zh.wikipedia.org/wiki/工业光魔 "wikilink")，并在一个类似[BSD许可证](../Page/BSD许可证.md "wikilink")的[自由软件许可证下发布](https://zh.wikipedia.org/wiki/自由软件许可证 "wikilink")，其发布的软件包里带有一些处理exr图像格式的工具。\[1\]
 
 最早使用OpenEXR格式的电影，是[哈利·波特与魔法石](https://zh.wikipedia.org/wiki/哈利·波特与魔法石_\(电影\) "wikilink")，从那以后，OpenEXR成了[-{zh-cn:工业光魔;zh-tw:光影魔幻工業;}-主要使用的](../Page/光影魔幻工業.md "wikilink")[图像文件格式](https://zh.wikipedia.org/wiki/图像文件格式 "wikilink")，工业光魔所有正在制作的影片都用到了这个图像格式。\[2\]

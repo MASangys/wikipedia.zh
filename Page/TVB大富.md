@@ -1,3 +1,6 @@
+> 本文内容由[TVB大富](https://zh.wikipedia.org/wiki/TVB大富)转换而来。
+
+
 **TVB大富**（）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司與](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[日本](../Page/日本.md "wikilink")[大富株式會社合作開辦而擁有的一條綜合娛樂頻道](https://zh.wikipedia.org/wiki/大富株式會社 "wikilink")。[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")並非直接經營此頻道，而是[授權大富株式会社設立](https://zh.wikipedia.org/wiki/授權 "wikilink")。
 
 ## 記事

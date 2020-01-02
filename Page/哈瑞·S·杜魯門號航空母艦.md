@@ -1,3 +1,6 @@
+> 本文内容由[哈瑞·S·杜魯門號航空母艦](https://zh.wikipedia.org/wiki/哈瑞·S·杜魯門號航空母艦)转换而来。
+
+
 **哈瑞·S·杜魯門號航空母艦**（****），或直接称**杜魯門號航空母艦**，是[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[尼米茲級核動力航空母艦的八號艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")，1993年11月29日在[紐波特紐斯造船及船塢公司铺设龙骨起造](https://zh.wikipedia.org/wiki/紐波特紐斯造船及船塢公司 "wikilink")，最初命名“[美國號](https://zh.wikipedia.org/wiki/美國號 "wikilink")”（USS United States），1995年2月在鋪放[龍骨之前改名杜魯門號](https://zh.wikipedia.org/wiki/龍骨 "wikilink")，1996年9月7日，同年9月13日正式下水。杜魯門號是以美國第33任總統[哈利·杜鲁门命名](https://zh.wikipedia.org/wiki/哈利·S·杜鲁门 "wikilink")。该舰于1998年7月25日编入[美国大西洋舰队服役](https://zh.wikipedia.org/wiki/美国大西洋舰队 "wikilink")，母港[維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")[諾福克海軍基地](https://zh.wikipedia.org/wiki/諾福克海軍基地 "wikilink")。
 
 ## 簡介

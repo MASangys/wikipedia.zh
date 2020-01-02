@@ -1,3 +1,6 @@
+> 本文内容由[PChome Online網路家庭](https://zh.wikipedia.org/wiki/PChome_Online網路家庭)转换而来。
+
+
 **PChome Online網路家庭**（簡稱**PChome**）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[入口網站之一](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，前身為1998年成立的「todo」網站，2000年1月改為現名。其經營者為1998年7月成立的「**網路家庭國際資-{}-訊股份有限公司**」（簡稱**網家**；）。PChome也是網路電話服務[Skype](../Page/Skype.md "wikilink")的台灣代理商，並與[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")[合資成立](../Page/合資公司.md "wikilink")[露天拍賣](../Page/露天拍賣.md "wikilink")網站。
 
 ## 歷史沿革

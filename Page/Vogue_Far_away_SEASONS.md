@@ -1,3 +1,6 @@
+> 本文内容由[Vogue Far away SEASONS](https://zh.wikipedia.org/wiki/Vogue_Far_away_SEASONS)转换而来。
+
+
 《**vogue Far away SEASONS**》（時尚 遠走 四季）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的影像作品，也是首張同時發行[VHS](../Page/VHS.md "wikilink")與[DVD版本的影像作品](https://zh.wikipedia.org/wiki/DVD "wikilink")。VHS在2000年7月12日於日本發售。DVD則在2000年9月20日於日本發售。
 
 ## 說明

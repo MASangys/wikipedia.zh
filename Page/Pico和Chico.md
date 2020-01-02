@@ -1,3 +1,6 @@
+> 本文内容由[Pico和Chico](https://zh.wikipedia.org/wiki/Pico和Chico)转换而来。
+
+
 **Pico和Chico**是2007年4月19日由[Soft On Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。**[Pico系列](../Page/Pico系列.md "wikilink")**的第二集、正式的名稱為『Pico系列2 Pico和Chico』。\[1\]
 
 同日也發售了一千五百個裝有各式各樣的特典的『Pico和Chico滿足BOX』。除了放入本作『Pico和Chico』和第一集的『[我的Pico](../Page/我的Pico.md "wikilink")』，也有Pico和Chico的[公仔和](https://zh.wikipedia.org/wiki/手辦 "wikilink")「[Pico和Chico台詞CD](https://zh.wikipedia.org/wiki/Pico和Chico台詞CD "wikilink")」等商品。

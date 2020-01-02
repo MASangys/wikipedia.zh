@@ -1,3 +1,6 @@
+> 本文内容由[富士見Mystery文庫](https://zh.wikipedia.org/wiki/富士見Mystery文庫)转换而来。
+
+
 **富士見Mystery文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[富士見書房](../Page/富士見書房.md "wikilink")出版的[文庫](../Page/文庫.md "wikilink")系列。内容以[輕小說](../Page/輕小說.md "wikilink")為主，2000年11月自同出版社的[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")獨立。
 
 2003年12月開始，企圖跳脫所謂Mystery（本格推理小說）的既有觀念而大幅更新。封面插圖的佔有量增加、加入裏封面（封面和一張插畫），黑色調封底也改為柔和色調。內容增加戀愛要素，並在此類作品書腰寫上大字的「L·O·V·E！」。

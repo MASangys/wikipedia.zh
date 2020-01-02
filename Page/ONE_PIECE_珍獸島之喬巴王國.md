@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 珍獸島之喬巴王國](https://zh.wikipedia.org/wiki/ONE_PIECE_珍獸島之喬巴王國)转换而来。
+
+
 《**ONE PIECE 珍獸島之喬巴王國**》是於2002年上映的第三部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。[中國中央電視台電影頻道](https://zh.wikipedia.org/wiki/中國中央電視台電影頻道 "wikilink")（CCTV-6）亦曾引進並於2011年8月10日下午15:15分首播。
 
 ## 劇情

@@ -1,3 +1,6 @@
+> 本文内容由[TARI TARI](https://zh.wikipedia.org/wiki/TARI_TARI)转换而来。
+
+
 《**TARI TARI**》\[1\]是以[神奈川縣](../Page/神奈川縣.md "wikilink")的[江之島](../Page/江之島.md "wikilink")為舞臺的原創動畫，由[P.A. Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年7月1日至9月23日首播，全13話。該片是P.A.Works繼「[真實之淚](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")」、「[花開物語](../Page/花開物語.md "wikilink")」之後第三部青春群像劇\[3\]。
 
 ## 故事簡介

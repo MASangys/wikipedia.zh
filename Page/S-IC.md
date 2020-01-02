@@ -1,3 +1,6 @@
+> 本文内容由[S-IC](https://zh.wikipedia.org/wiki/S-IC)转换而来。
+
+
 <table>
 <caption><font size="+1"><strong>S-IC</strong></font></caption>
 <tbody>

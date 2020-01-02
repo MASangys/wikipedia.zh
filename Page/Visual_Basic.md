@@ -1,3 +1,6 @@
+> 本文内容由[Visual Basic](https://zh.wikipedia.org/wiki/Visual_Basic)转换而来。
+
+
 [Typical_vb6_session.png](https://zh.wikipedia.org/wiki/File:Typical_vb6_session.png "fig:Typical_vb6_session.png") **Visual Basic**（**VB**）是由[微軟公司开发的包含](https://zh.wikipedia.org/wiki/微軟 "wikilink")[环境的](https://zh.wikipedia.org/wiki/环境 "wikilink")[事件驱动编程语言](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")。它源自于[BASIC](../Page/BASIC.md "wikilink")编程语言。VB拥有[图形用户界面](../Page/图形用户界面.md "wikilink")（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）和[快速應用程式開發](../Page/快速應用程式開發.md "wikilink")（[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")）系统，可以轻易的使用[DAO](https://zh.wikipedia.org/wiki/DAO "wikilink")、[RDO](https://zh.wikipedia.org/wiki/RDO "wikilink")、[ADO](../Page/ADO.md "wikilink")连接[数据库](../Page/数据库.md "wikilink")，或者轻松的创建[ActiveX](../Page/ActiveX.md "wikilink")[控件](../Page/控件.md "wikilink")。程序员可以轻松地使用VB提供的组件快速建立一个[应用程序](../Page/应用程序.md "wikilink")。
 
 ## 发展史

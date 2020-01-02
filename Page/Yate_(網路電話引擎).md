@@ -1,3 +1,6 @@
+> 本文内容由[Yate \(網路電話引擎\)](https://zh.wikipedia.org/wiki/Yate_\(網路電話引擎\))转换而来。
+
+
 **Yate** 的全名是 **Yet Another Telephony Engine**，是開放原始碼的[VoIP](../Page/VoIP.md "wikilink")網路電話引擎。可以作为網路電話服务器、也可以作为網路電話客户端使用。目前有Linux版本、也有Windows版本。
 
 Yate 最早是2004年由NullTeam 所推出。\[1\]2005年Sangoma 宣稱 Yate 將在 Windows 平台上繼續開發。\[2\]

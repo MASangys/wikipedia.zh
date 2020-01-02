@@ -1,3 +1,6 @@
+> 本文内容由[StarForce](https://zh.wikipedia.org/wiki/StarForce)转换而来。
+
+
 **StarForce** 是1998年 **Protection Technology（星之盾科技）**针对 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 平台设计的一款软件[复制保护](../Page/复制保护.md "wikilink")技术的商标，它获得了微软合作伙伴等级认证\[1\] 并成为微软解决方案合作伙伴\[2\] 和英特尔软件合作伙伴\[3\]。
 
 它的主要保护方案是使用[字节码封装](https://zh.wikipedia.org/wiki/字节码 "wikilink")[可执行文件和](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[DLL](../Page/动态链接库.md "wikilink")，并通过其[虚拟机解释这些文件](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。

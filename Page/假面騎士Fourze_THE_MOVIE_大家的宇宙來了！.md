@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Fourze THE MOVIE 大家的宇宙來了！](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！)转换而来。
+
+
 《**假面騎士Fourze THE MOVIE 大家的宇宙來了\!**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》的獨立劇場版。日本定於2012年8月4日上映。\[1\]
 
 本作劇場版的口號為「終於、宇宙大決戰！」、「友情力量突破大氣層 青春、宇宙在充滿火花！」。

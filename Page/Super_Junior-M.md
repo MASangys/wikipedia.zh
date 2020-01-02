@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior-M](https://zh.wikipedia.org/wiki/Super_Junior-M)转换而来。
+
+
 **Super Junior-M**（），簡稱 **SJ-M**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[Super Junior的第三個官方子團體](../Page/Super_Junior.md "wikilink")。它是華語音樂圈中第一個成員中包含有華人、韓國人的國際音樂團體，也是韓國的CT（文化技术，Culture Technology）組織成立的第一個團體。 [韓庚](../Page/韓庚.md "wikilink")因合約關係於在2009年12月21日宣告單飛，並在2010年6月22日獲得勝訴而退出組合\[1\] 。2018年4月30日，[Henry約滿離隊](../Page/劉憲華.md "wikilink")\[2\]。
 
 Super Junior-M目前成員包括[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")及[圭賢](../Page/圭賢.md "wikilink")。

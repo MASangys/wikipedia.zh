@@ -1,3 +1,6 @@
+> 本文内容由[Takahiro](https://zh.wikipedia.org/wiki/Takahiro)转换而来。
+
+
 **TAKAHIRO**（），日本男[歌手](../Page/歌手.md "wikilink")，[EXILE主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")。[山口縣](https://zh.wikipedia.org/wiki/山口縣 "wikilink")[下關市出生](https://zh.wikipedia.org/wiki/下關市 "wikilink")\[1\]，於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")成長。身高180cm。其妻為演員[武井咲](../Page/武井咲.md "wikilink")。
 
 ## 來歷

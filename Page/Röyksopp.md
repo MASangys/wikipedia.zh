@@ -1,3 +1,6 @@
+> 本文内容由[Röyksopp](https://zh.wikipedia.org/wiki/Röyksopp)转换而来。
+
+
 **Röyksopp**（）是一个[挪威](../Page/挪威.md "wikilink")的[电子音乐](https://zh.wikipedia.org/wiki/电子音乐 "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")， 成员包括[Torbjørn Brundtland以及](https://zh.wikipedia.org/wiki/Torbjørn_Brundtland "wikilink")[Svein Berge](https://zh.wikipedia.org/wiki/Svein_Berge "wikilink")。乐队于1998年正式成立，於2001年、2005年和2009年分別发行了 [Melody A.M.](https://zh.wikipedia.org/wiki/Melody_A.M. "wikilink") 、 [The Understanding](https://zh.wikipedia.org/wiki/The_Understanding "wikilink")、Junior三张录音室[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，2010年9月13日将发表新专辑Senior\[1\]。
 
 ## 作品一览

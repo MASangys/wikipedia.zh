@@ -1,3 +1,6 @@
+> 本文内容由[东方求闻口授 ～ Symposium of Post-mysticism.](https://zh.wikipedia.org/wiki/东方求闻口授_～_Symposium_of_Post-mysticism.)转换而来。
+
+
 《**东方求闻口授 ～ Symposium of Post-mysticism.**》（）是[一迅社](../Page/一迅社.md "wikilink")于2012年4月27日发售的[东方Project设定集](https://zh.wikipedia.org/wiki/东方Project "wikilink")，由ZUN主编，由、TOKIAME、阿櫻、、多位插画师提供插画。台灣版由[青文出版社](../Page/青文出版社.md "wikilink")代理。和前一作《[东方求闻史纪](https://zh.wikipedia.org/wiki/东方求闻史纪 "wikilink")》相仿，记录从[东方风神录至](https://zh.wikipedia.org/wiki/东方风神录 "wikilink")[东方神灵庙的人物设定与故事环境](https://zh.wikipedia.org/wiki/东方神灵庙 "wikilink")，但方式略有改变。
 
 ## 概述

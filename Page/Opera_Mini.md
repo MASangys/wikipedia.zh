@@ -1,3 +1,6 @@
+> 本文内容由[Opera Mini](https://zh.wikipedia.org/wiki/Opera_Mini)转换而来。
+
+
 **Opera Mini**是一款由[挪威](../Page/挪威.md "wikilink")[Opera Software ASA制作](https://zh.wikipedia.org/wiki/Opera_Software_ASA "wikilink")，用于在[移动电话](../Page/移动电话.md "wikilink")上使用的免费[网络浏览器](https://zh.wikipedia.org/wiki/网络浏览器 "wikilink")，可浏览[万维网](../Page/万维网.md "wikilink")及[WAP网站](https://zh.wikipedia.org/wiki/WAP "wikilink")。
 
 Opera Mini的一大特點就是浏览时先由Opera公司的服务器对所访问的网页进行压缩和优化，縮小文件大小，以便於傳遞，使之适合于手机浏览，再于手机上显示，传输中信息使用[SSL协议进行加密](https://zh.wikipedia.org/wiki/SSL "wikilink")。

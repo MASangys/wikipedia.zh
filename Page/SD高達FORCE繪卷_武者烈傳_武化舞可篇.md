@@ -1,3 +1,6 @@
+> 本文内容由[SD高達FORCE繪卷 武者烈傳 武化舞可篇](https://zh.wikipedia.org/wiki/SD高達FORCE繪卷_武者烈傳_武化舞可篇)转换而来。
+
+
 **武化舞可篇**是「[武者烈傳](https://zh.wikipedia.org/wiki/武者烈傳 "wikilink")」系列故事之一，全名是**SD鋼彈FORCE繪卷 武者烈傳·武化舞可編**（ＳＤガンダムフォース絵巻 武者烈伝·武化舞可編）。作品中並無提及與動畫《[SD鋼彈FORCE](../Page/SD鋼彈FORCE.md "wikilink")》（簡稱SDF）的關係，只是本作與動畫SDF一樣，是一個把各個[SD GUNDAM系列重製而成的平行世界](../Page/SD_GUNDAM系列.md "wikilink")，標題因此而來。正如《SDF》把**SD Command戰記**、**SD戰國傳**及**SD GUNDAM外傳**（騎士）三個世界共冶一爐，烈傳揉合整個武者世界，結合了《[SD戰國傳 武者七人眾篇](../Page/SD戰國傳_武者七人眾篇.md "wikilink")》、《[SD戰國傳 天下統一篇](../Page/SD戰國傳_天下統一篇.md "wikilink")》、《[SD戰國傳 風林火山篇](../Page/SD戰國傳_風林火山篇.md "wikilink")》的主線人物故事，《[SD戰國傳 七人之超將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_七人之超將軍篇 "wikilink")》的[大鋼](https://zh.wikipedia.org/wiki/SD戰國傳_七人之超將軍篇#介紹 "wikilink")，《[SD戰國傳 超機動大將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍篇 "wikilink")》及《[SD戰國傳 武神輝羅鋼篇](https://zh.wikipedia.org/wiki/SD戰國傳_武神輝羅鋼篇 "wikilink")》的鐵機武者概念等。
 
 **武化舞可篇**時間設定於[武者烈傳·零](../Page/武者烈傳·零.md "wikilink")完結後十多年，習慣上會被區分為「第一篇」及「第二篇」。

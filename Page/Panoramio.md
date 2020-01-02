@@ -1,3 +1,6 @@
+> 本文内容由[Panoramio](https://zh.wikipedia.org/wiki/Panoramio)转换而来。
+
+
 **Panoramio**是一个已經結束營運的地理位置[摄影](../Page/摄影.md "wikilink")分享网站。使用者可以上传包含[地理位置的照片](https://zh.wikipedia.org/wiki/地理位置 "wikilink")，並在每個月的月底展示在[Google地球](../Page/Google地球.md "wikilink")和[Google地图](../Page/Google地图.md "wikilink")上。Panoramio的宗旨是让Google地球的用户凭借观看其他用户的摄影作品对特定的区域更加地了解。該网站支持多种语言。
 
 Panoramio的总部位于[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[苏黎世](../Page/苏黎世.md "wikilink")的Google的办公楼内\[1\]。网站在中国无法稳定访问，疑似受到了中国当局的封锁。

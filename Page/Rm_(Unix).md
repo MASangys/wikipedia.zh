@@ -1,3 +1,6 @@
+> 本文内容由[Rm \(Unix\)](https://zh.wikipedia.org/wiki/Rm_\(Unix\))转换而来。
+
+
 **rm**，是一个基本的[UNIX命令](../Page/Unix实用程序列表.md "wikilink")，其名称源自[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[单词remove的](https://zh.wikipedia.org/wiki/单词 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")，用于删除文件系统中的文件、目录、[设备文件](https://zh.wikipedia.org/wiki/设备文件 "wikilink")、[符号链接](../Page/符号链接.md "wikilink")等对象。准确地说，rm移除的指向特定对象的引用。在文件系统中，这些特定的对象可能有多个引用（例如，两个不同的文件名可能指向相同的文件）, 只有在一个对象不再有任何引用，并且没有任何程序还拥有这个文件的有效句柄的时候，这个文件才会被删除。
 
 这一机制允许下列出现：某个程序可以创建一个文件，并立即将此文件从文件系统中移除，并将这个文件占用的空间作为临时空间使用。（因为我们知道在该程序退出甚至是崩溃的时候，这一文件占用的空间会被回收。）

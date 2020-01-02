@@ -1,3 +1,6 @@
+> 本文内容由[X Pixmap](https://zh.wikipedia.org/wiki/X_Pixmap)转换而来。
+
+
 **X PixMap** （**XPM**）是一种基于[ASCII](../Page/ASCII.md "wikilink")编码的图像格式，在[X Window系统中的应用十分广泛](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")。她最初由位于法国Sophia Antipolis的Bull研究中心的Daniel Dardailler和Colas Nahaboo发明，后来Arnaud Le Hors对其进行了改进。XPM文件经常用于创建图标位图文件，支持“transparent color”功能。XPM文件格式源自更早的X BitMap（XBM）。特点是文件格式简单，可以被任何[文本编辑器](../Page/文本编辑器.md "wikilink")创建和修改，另外通过\#include指令可以将XPM格式的图形数据导入C语言源文件，这对程序员而言有时是十分方便的。
 
 [Screenshot-xterm-linux.xpm-GVIM.png](https://zh.wikipedia.org/wiki/File:Screenshot-xterm-linux.xpm-GVIM.png "fig:Screenshot-xterm-linux.xpm-GVIM.png")（例如[gvim](https://zh.wikipedia.org/wiki/gvim "wikilink")）能够按图形格式显示xpm图\]\]

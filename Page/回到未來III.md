@@ -1,3 +1,6 @@
+> 本文内容由[回到未來III](https://zh.wikipedia.org/wiki/回到未來III)转换而来。
+
+
 《**回到未來第三集**》（）是一部經典[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")、[喜劇](../Page/喜劇.md "wikilink")、[西部電影](../Page/西部片.md "wikilink")，[回到未來系列](../Page/回到未來系列.md "wikilink")的第三集及最後一集，於1990年5月25日上映，由[米高·J·霍士](https://zh.wikipedia.org/wiki/米高·J·霍士 "wikilink")、[基斯杜化·萊特](../Page/克里斯托弗·劳埃德.md "wikilink")、[瑪麗·史汀柏格及](https://zh.wikipedia.org/wiki/瑪麗·史汀柏格 "wikilink")[湯馬士·法蘭西斯·威爾遜主演](../Page/托马斯·弗朗西斯·威尔逊.md "wikilink")。電影在美國[加利福尼亞州和](https://zh.wikipedia.org/wiki/加州 "wikilink")[亞利桑那州](../Page/亞利桑那州.md "wikilink")拍攝。
 
 ## 劇情簡介

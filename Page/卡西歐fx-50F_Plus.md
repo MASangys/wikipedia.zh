@@ -1,3 +1,6 @@
+> 本文内容由[卡西歐fx-50F Plus](https://zh.wikipedia.org/wiki/卡西歐fx-50F_Plus)转换而来。
+
+
 [Casio_fx-50FH_II.JPG](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II.JPG "fig:Casio_fx-50FH_II.JPG")
 
 [User's_guide_of_Casio_fx-50FH_II.jpg](https://zh.wikipedia.org/wiki/File:User's_guide_of_Casio_fx-50FH_II.jpg "fig:User's_guide_of_Casio_fx-50FH_II.jpg") [Casio_fx-50FH_II_1.jpg](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II_1.jpg "fig:Casio_fx-50FH_II_1.jpg") [Casio_fx-50FH_II_2.jpg](https://zh.wikipedia.org/wiki/File:Casio_fx-50FH_II_2.jpg "fig:Casio_fx-50FH_II_2.jpg") **Casio fx-50F Plus**是一款由[Casio於](https://zh.wikipedia.org/wiki/Casio "wikilink")2006年9月所推出的計數機，為[fx-10F](https://zh.wikipedia.org/wiki/Casio_fx-10F "wikilink")、[fx-50F及](https://zh.wikipedia.org/wiki/Casio_fx-50F "wikilink")[fx-61F的改進型號](https://zh.wikipedia.org/wiki/Casio_fx-61F "wikilink")。在日本推出時被稱為**Casio fx-71F**。其外型與[fx-3650P相似](https://zh.wikipedia.org/wiki/Casio_fx-3650P "wikilink")，有一個可顯示兩行文字的[液晶螢幕](https://zh.wikipedia.org/wiki/液晶螢幕 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[宇宙騎士BLADE](https://zh.wikipedia.org/wiki/宇宙騎士BLADE)转换而来。
+
+
 《**宇宙騎士利刃**》（）是一部[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。於1992年2月18日至1993年2月2日於[東京電視台](../Page/東京電視台.md "wikilink")放映。這部動畫的前身是1975年的动画[宇宙騎士](../Page/宇宙騎士.md "wikilink")（），但故事上和這部沒關係。其主要人物曾在本作的倒数第二集[客串登场](https://zh.wikipedia.org/wiki/客串 "wikilink")。
 
 ## 登場人物

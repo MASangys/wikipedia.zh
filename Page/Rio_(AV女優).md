@@ -1,3 +1,6 @@
+> 本文内容由[Rio \(AV女優\)](https://zh.wikipedia.org/wiki/Rio_\(AV女優\))转换而来。
+
+
 **里緒**（，），原名柚木蒂娜（），[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")，也是日本女子團體[惠比壽麝香葡萄](../Page/惠比壽麝香葡萄.md "wikilink")的成員。出身於[東京都](../Page/東京都.md "wikilink")。在2005年出道，很快便出名。以活泼可爱的风格闻名。被日本AV行业誉为2006年最佳新人。从2007年末起，她改名为Rio。2008年，Rio憑著超高的人氣，獲得主持個人電視節目《Rioの楽園》的機會，跨足一般的演藝工作。2010年，Rio和另外兩位人氣女優[吉澤明步](../Page/吉澤明步.md "wikilink")、[Mihiro共同擔綱演出](https://zh.wikipedia.org/wiki/Mihiro "wikilink")[SKELT 8 BAMBINO樂團單曲](https://zh.wikipedia.org/wiki/SKELT_8_BAMBINO "wikilink")[What's Love？Feat. SoulJa的演出](https://zh.wikipedia.org/wiki/What's_Love？Feat._SoulJa "wikilink")。
 
 她是个[混血儿](https://zh.wikipedia.org/wiki/混血儿 "wikilink")，父亲是日本人，母亲为葡萄牙人。她从妈妈那里学习[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")，她的爱好有卡拉OK。 曾经在[獨協大学经济部学习](https://zh.wikipedia.org/wiki/獨協大学 "wikilink")（现在是休学中）。所属公司为T-POWER，业务提携是Baccarat事务所。

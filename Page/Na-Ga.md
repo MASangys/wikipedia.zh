@@ -1,3 +1,6 @@
+> 本文内容由[Na-Ga](https://zh.wikipedia.org/wiki/Na-Ga)转换而来。
+
+
 **Na-Ga** （，）是[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、[漫畫的原畫家](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，現時[Key所屬](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。於[廣島縣](../Page/廣島縣.md "wikilink")出身，[神奈川縣](../Page/神奈川縣.md "wikilink")長大，身高173cm。筆名的由來是真名的一部份。
 
 ## 經歷

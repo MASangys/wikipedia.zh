@@ -1,3 +1,6 @@
+> 本文内容由[Zooropa](https://zh.wikipedia.org/wiki/Zooropa)转换而来。
+
+
 《**Zooropa**》是[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[U2的第八張專輯](../Page/U2樂團.md "wikilink")，發行。這張專輯最初是要以[EP的形式發行](https://zh.wikipedia.org/wiki/Extended_Play "wikilink")，後來在Zoo TV巡迴演唱會期間錄製後並且以完整專輯形式發行。《Zooropa》延續了上一張專輯的實驗性音樂風格，仍然以另類搖滾樂、電子音樂為主，而事實上，也是個成功的專輯。
 
 ***Zooropa***取自專輯的巡迴旅程***Zoo TV***以及***[Europa](https://zh.wikipedia.org/wiki/歐羅巴 "wikilink")***（希臘神話女神，在此代指歐洲）的合稱，中文並無正式翻譯。

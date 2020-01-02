@@ -1,3 +1,6 @@
+> 本文内容由[Ribon](https://zh.wikipedia.org/wiki/Ribon)转换而来。
+
+
 《**Ribon**》（）是[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")發行的月刊[少女漫畫](../Page/少女漫画.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1955年8月3日創刊；2015年8月創刊60週年。
 
 《Ribon》和[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》和[小學館](../Page/小學館.md "wikilink")的《[Ciao](../Page/Ciao.md "wikilink")》並列為日本三大少女漫畫雜誌。漫畫的內容在三大少女漫畫雜誌中最接近成人化。相對於《Ciao》，讀者的平均年齡較高。

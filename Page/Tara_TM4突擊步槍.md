@@ -1,3 +1,6 @@
+> 本文内容由[Tara TM4突擊步槍](https://zh.wikipedia.org/wiki/Tara_TM4突擊步槍)转换而来。
+
+
 **TM-4**是由[蒙特內哥羅](../Page/蒙特內哥羅.md "wikilink")[塔拉完善公司](https://zh.wikipedia.org/wiki/塔拉完善公司 "wikilink")（Tara Perfection）以[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")作基礎研製的[AR-15樣式](https://zh.wikipedia.org/wiki/AR-15 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 概述

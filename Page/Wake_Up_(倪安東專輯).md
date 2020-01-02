@@ -1,3 +1,6 @@
+> 本文内容由[Wake Up \(倪安東專輯\)](https://zh.wikipedia.org/wiki/Wake_Up_\(倪安東專輯\))转换而来。
+
+
 《**Wake Up**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[倪安東](../Page/倪安東.md "wikilink")的第二張國語專輯。這大碟在2012年1月18日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在2月24日推出，首波主打歌曲是《一覺醒來》，第二波主打歌曲則是《失敗的分手》，第三波主打歌曲則是《Wake Up》。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Strawberry Sex](https://zh.wikipedia.org/wiki/Strawberry_Sex)转换而来。
+
+
 《**Strawberry Sex**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年5月22日發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[VSS高斯錫足球會](https://zh.wikipedia.org/wiki/VSS高斯錫足球會)转换而来。
+
+
 **VSS高斯錫足球會**（**FC VSS Košice**）是[斯洛伐克](../Page/斯洛伐克.md "wikilink")的一家已经解散的足球俱樂部，位於斯洛伐克第二大城市[科希策](../Page/科希策.md "wikilink")。球队得到了兩次斯洛伐克足球甲級聯賽的冠軍。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[上古卷轴III：晨风](https://zh.wikipedia.org/wiki/上古卷轴III：晨风)转换而来。
+
+
 是一款[奇幻类](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[开放世界型](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。它由[贝塞斯达软件公司开发](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")、贝塞斯达和[育碧公司联合发行于](https://zh.wikipedia.org/wiki/育碧公司 "wikilink")2002年，是[上古卷轴系列](../Page/上古卷轴系列.md "wikilink")的第三代作品。作品受到广泛好评，总共销售出400万套正版。\[1\]游戏前后赢得了超过60项大奖，包括[Game of the Year](https://zh.wikipedia.org/wiki/Game_of_the_Year "wikilink")。\[2\]《晨风》从[Metacritic](../Page/Metacritic.md "wikilink")和[Game Rankings得到了](https://zh.wikipedia.org/wiki/Game_Rankings "wikilink")89分平均分。\[3\]\[4\]游戏有两个资料片，仅发布于windows平台：[上古卷轴III：审判席和](https://zh.wikipedia.org/wiki/上古卷轴III：审判席 "wikilink")[上古卷轴III：血月](https://zh.wikipedia.org/wiki/上古卷轴III：血月 "wikilink")。最后这三个版本被整合到一起，命名为《晨风：年度版》，于2003年10月30日发布。在[中国大陆](../Page/中国大陆.md "wikilink")地区，《晨风》由[天人互动](../Page/天人互动.md "wikilink")代理發行于2002年8月8日。\[5\]2003年12月19日推出的汉化版\[6\]因汉化质量不佳而受到非议。\[7\]
 
 游戏的故事发生在晨风省（Morrowind）的瓦登费尔（Vvardenfell）岛上。主要描述尼尔瓦瑞因（Nerevarine）挫败达格斯·乌尔（Dagoth Ur）利用洛可汗之心（heart of Lorkhan）制造机械邪神阿古拉可汗（Akulakhan）企图消灭审判席（Tribunal）征服整个泰姆瑞尔大陆的故事。\[8\]\[9\]\[10\]《晨风》继承了上古卷轴系列高自由度，开放剧情的设计方式。虽然也受到批评，但批评之声被赞叹游戏世界的庞大丰富和游戏本身的可扩充性所冲淡。

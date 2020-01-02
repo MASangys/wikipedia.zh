@@ -1,14 +1,17 @@
-**The KLF** (又称为**The Justified Ancients of Mu Mu**, **The Timelords**，以及其他名字) 是来自[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")80年代末和90年代初最具有开创性的[酸浩室舞曲乐团](https://zh.wikipedia.org/wiki/酸浩室舞曲乐团 "wikilink")。\[1\]
+> 本文内容由[The KLF](https://zh.wikipedia.org/wiki/The_KLF)转换而来。
 
-从1987年开始, (别名：King Boy D) 与 (别名：Rockman Rock) ，以**齐平古代穆木**（The Justified Ancients of Mu Mu）的名义发布具有嘻哈灵感的专辑, 以及1988年以**[時光領主](../Page/时间领主.md "wikilink")**的名义发布了获得英国排行榜第一名的单曲""。乐队的简称长期以来一直是个谜; 其被乐迷广泛认为是“**版权解放阵线**（Kopyright Liberation Front）”, 然而在2010年，比尔接受媒体采访时，开玩笑得表示KLF的简称是"**肯塔基解放阵线**（Kentucky Liberation Front）", 在KLF名义的时期，德拉蒙德与高迪率先尝试"体育场浩室"（stadium house,结合流行摇滚与人群噪音的劲爆音乐）与""的音乐风格，也以 KLF Communications 为唱片公司发行了一些列国际前十单曲，并且成为1991年最畅销单曲。这两人还出版了一本书《指南手册》（The Manual），并参与一部未完成的叫做《白色房间》（The White Room）的公路电影的制作中。
 
-早先，他们采用了小说《》（The Illuminatus\! Trilogy）所信奉的哲学理念,他们各种无政府主义的情境表现更是声名狼藉,包括广告牌的污损、在著名杂志[新音乐快递](../Page/新音乐快递.md "wikilink")与主流媒体上发表隐晦广告、以及在“[流行之巅](../Page/Top_of_the_Pops.md "wikilink")”（英国BBC音乐节目）上极具特性不同寻常的表演. 他们最臭名昭著的表演是在1992年2月[全英音乐奖上与](../Page/全英音樂獎.md "wikilink")合作的那次，他们朝观众发射了[空白机关枪](https://zh.wikipedia.org/wiki/玩具枪 "wikilink")，并在表演结束后的派对上扔了一只死羊。这次表演宣告KLF乐队与音乐商业决裂，这二人于1992年5月删除了他们整个旧目录。
+**The KLF**，又称为**齐平古代穆木**（The Justified Ancients of Mu Mu）、**时间领主**（The Timelords），是来自[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")80年代末和90年代初最具有开创性的[酸浩室](../Page/酸浩室.md "wikilink")舞曲乐团。\[1\]
 
-随着KLF的唱片利润收入过多，\[2\]比尔·德拉蒙德与吉米·高迪建立名為，还辦了一個衝著「透納獎」而來的獎項，他們要選出年度最糟的英國當代藝術家，然而有一次他們就因得獎者不領取，曾在泰德美術館外面。虽然德拉蒙德与高迪曾仍然承诺在1992年5月删除整个旧目录，但专辑白色房间（The White Room）仍然在美国出售。他们后来少数以其他名义发行单曲：包括1995年以**The One World Orchestra**名义发行：""（收录于专辑“The Help Album”），以及最近1997年以**2K**的名义发行：""。
+从1987年开始, （别名：King Boy D）与（别名：Rockman Rock），以齐平古代穆木的名义发布具有嘻哈灵感的专辑, 以及1988年以[時光領主的名义发布了获得英国排行榜第一名的单曲](../Page/时间领主.md "wikilink")《》。乐队简称的意義长期以来一直是个谜；其被乐迷广泛认为是“**版权解放阵线**（Kopyright Liberation Front）”, 然而在2010年，比尔接受媒体采访时，开玩笑得表示KLF的简称是「**肯塔基解放阵线**（Kentucky Liberation Front）」。在KLF名义的时期，德拉蒙德与高迪率先尝试「体育场浩室」（stadium house，结合流行摇滚与人群噪音的劲爆音乐）与「」的音乐风格，也以 KLF Communications 为唱片公司发行了一些列国际前十单曲，并且成为1991年最畅销单曲。这两人还出版了一本书《指南手册》（The Manual），并参与一部未完成的叫做《白色房间》（The White Room）的公路电影的制作中。
+
+早先，他们采用了小说《[光明會三部曲](../Page/光明會三部曲.md "wikilink")》所信奉的哲学理念。他们各种无政府主义的情境表现更是声名狼藉，包括广告牌的污损、在著名杂志[新音乐快递](../Page/新音乐快递.md "wikilink")与主流媒体上发表隐晦广告，以及在《[流行之巅](../Page/Top_of_the_Pops.md "wikilink")》（英国BBC音乐节目）上极具特性不同寻常的表演. 他们最臭名昭著的表演是在1992年2月[全英音乐奖上与](../Page/全英音樂獎.md "wikilink")合作的那次，他们朝观众发射了[空白机关枪](https://zh.wikipedia.org/wiki/玩具枪 "wikilink")，并在表演结束后的派对上扔了一只死羊。这次表演宣告KLF乐队与音乐商业决裂，这二人于1992年5月删除了他们整个旧目录。
+
+随着KLF的唱片利润收入过多，\[2\]比尔·德拉蒙德与吉米·高迪建立，还辦了一個衝著「透納獎」而來的獎項，他們要選出年度最糟的英國當代藝術家，然而有一次他們就因得獎者不領取，曾在泰德美術館外面。虽然德拉蒙德与高迪曾仍然承诺在1992年5月删除整个旧目录，但专辑《白色房间》（The White Room）仍然在美国出售。他们后来少数以其他名义发行单曲：包括1995年以**The One World Orchestra**名义发行：《》（收录于专辑《The Help Album》），以及最近1997年以**2K**的名义发行：《》。
 
 ## 历史
 
-1986年，Bill Drummond 在英国音乐界已确立了不可动摇的地位，他们共同创立了****，\[3\]曾在利物浦担任朋克乐队**的吉他手，\[4\]以及担任过 与 的经纪人。\[5\]那年的7月21日，他辞去WEA唱片公司的[A\&R部门职位](https://zh.wikipedia.org/wiki/A&R "wikilink")，理由是他接近33⅓岁。
+1986年，Bill Drummond 在英国音乐界已确立了不可动摇的地位，他们共同创立了，\[3\]曾在利物浦担任朋克乐队的吉他手，\[4\]以及担任过与的经纪人。\[5\]那年的7月21日，他辞去WEA唱片公司的[A\&R部门职位](https://zh.wikipedia.org/wiki/A&R "wikilink")，理由是他接近33⅓岁。
 
 ## 參考文獻
 

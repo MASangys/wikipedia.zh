@@ -1,3 +1,6 @@
+> 本文内容由[Valencia](https://zh.wikipedia.org/wiki/Valencia)转换而来。
+
+
 **[巴倫西亞](https://zh.wikipedia.org/wiki/巴倫西亞 "wikilink")**（）一般指的是西班牙[巴伦西亚自治区和](https://zh.wikipedia.org/wiki/巴伦西亚自治区 "wikilink")[巴伦西亚省的首府](https://zh.wikipedia.org/wiki/巴伦西亚省 "wikilink")。
 
 **巴伦西亚**、**瓦伦西亚**、**华伦西亚**、**Valencia**也可以指：

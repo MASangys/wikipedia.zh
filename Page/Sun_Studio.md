@@ -1,3 +1,6 @@
+> 本文内容由[Sun Studio](https://zh.wikipedia.org/wiki/Sun_Studio)转换而来。
+
+
 {{ infobox Software | name = **Sun Studio** | developer = [昇陽電腦](../Page/昇陽電腦.md "wikilink") | latest release version = [Sun Studio 12 Update 1](http://developers.sun.com/sunstudio/downloads/express/index.jsp) | latest release date = 2009年6月 | latest preview version = | latest preview date = | operating system = [Solaris](../Page/Solaris.md "wikilink"), [OpenSolaris](../Page/OpenSolaris.md "wikilink"), [Linux](../Page/Linux.md "wikilink") | genre = [編譯器](../Page/編譯器.md "wikilink")，[除錯器](https://zh.wikipedia.org/wiki/除錯器 "wikilink")，[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink") | website = [主頁](http://developers.sun.com/sunstudio) | language = [英語](https://zh.wikipedia.org/wiki/英語 "wikilink")
 [日語](https://zh.wikipedia.org/wiki/日語 "wikilink")
 [簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink") | license = [免費下載與使用](http://opensolaris.org/os/community/tools/sun_studio_tools/sss12ent_license/) }} **Sun Studio**為[昇陽電腦](../Page/昇陽電腦.md "wikilink")的旗艦級軟體開發產品，現有[Solaris](../Page/Solaris.md "wikilink")、[Linux](../Page/Linux.md "wikilink")版本。

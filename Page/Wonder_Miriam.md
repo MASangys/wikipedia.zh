@@ -1,3 +1,6 @@
+> 本文内容由[Wonder Miriam](https://zh.wikipedia.org/wiki/Wonder_Miriam)转换而来。
+
+
 **《Wonder Miriam》**\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")於2008年9月26日發行的個人粵語大碟，是第二張由[A music發行的專輯](../Page/東亞唱片_\(製作\).md "wikilink")。兩個星期，大碟銷量已經衝破[金唱片](../Page/金唱片.md "wikilink")，達到二萬張。
 
 第四主打《撈月亮的人》獲齊四台歌曲獎項，累積至今擁有5首歌曲於同年獲齊四台歌曲獎，為該紀錄[女歌手保持者](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。《撈月亮的人》國語版本為《圓缺》，為電視劇《[鐵齒銅牙紀曉嵐4](https://zh.wikipedia.org/wiki/鐵齒銅牙紀曉嵐4 "wikilink")》國語片尾曲，但未收錄在此專輯中。第五主打《當女飛俠愛上萬能俠》為[亞洲遊戲展](../Page/亞洲遊戲展.md "wikilink")2008主題曲。

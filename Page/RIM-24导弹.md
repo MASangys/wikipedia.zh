@@ -1,3 +1,6 @@
+> 本文内容由[RIM-24导弹](https://zh.wikipedia.org/wiki/RIM-24导弹)转换而来。
+
+
 \-{H|zh-cn:鞑靼人;zh-tw:韃靼;}-
 
 **RIM-24 鞑靼人导弹**（-{zh-cn:，也称**鞑靼**;zh-tw: ;}-）是[通用动力](../Page/通用动力.md "wikilink")公司旗下的一款舰载中程[防空导弹](../Page/面對空飛彈.md "wikilink")（SAM），也是[美国海军舰艇最早装备的舰对空导弹之一](https://zh.wikipedia.org/wiki/美国海军 "wikilink")。作为美国海军在20世纪60年代至70年代的主力装备，与同时期的[RIM-2小猎犬导弹和](../Page/RIM-2飛彈.md "wikilink")[RIM-8黄铜骑士导弹合称](../Page/RIM-8飛彈.md "wikilink")"3 T's"。

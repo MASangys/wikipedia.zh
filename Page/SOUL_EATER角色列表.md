@@ -1,3 +1,6 @@
+> 本文内容由[SOUL EATER角色列表](https://zh.wikipedia.org/wiki/SOUL_EATER角色列表)转换而来。
+
+
 <div style="display:none;">
 
 \-{A|zh-hans:瑪莉‧穆尼亞; zh-tw:瑪莉‧穆尼亞; zh-hk:瑪莉‧苗里爾;}- -{A|zh-hans:瑪莉; zh-tw:瑪莉; zh-hk:瑪莉;}- -{A|zh-hans:弗藍肯‧斯坦; zh-tw:弗藍肯‧斯坦; zh-hk:法蘭基‧斯坦;}- -{A|zh-hans:斯坦; zh-tw:斯坦 ; zh-hk:斯坦;}- -{A|zh-hans:美拉‧奈古絲; zh-tw:美拉‧奈古絲; zh-hk:木乃伊莱姬斯;}- -{A|zh-hans:莱姬斯; zh-tw:奈古絲; zh-hk:莱姬斯;}- -{A|zh-hans:梅杜莎; zh-tw:梅杜莎; zh-hk:美杜莎;}- -{A|zh-hans:艾璐卡‧弗洛葛; zh-tw:艾璐卡‧弗洛葛; zh-hk:艾路嘉‧未洛克;}- -{A|zh-hans:艾璐卡; zh-tw:艾璐卡; zh-hk:艾路嘉;}- -{A|zh-hans:自由（魔眼之男）; zh-tw:自由（魔眼之男）; zh-hk:自由人（魔眼人）;}- -{A|zh-hans:米兹妮; zh-tw:鼠寶; zh-hk:米兹妮;}- -{A|zh-hans:奥拉克妮 ; zh-tw:亞拉克涅; zh-hk:奧拉克妮 ;}- -{A|zh-hans:莫斯基德 ; zh-tw:摩司基德; zh-hk:莫斯基德 ;}- -{A|zh-hans:索爾; zh-tw:索爾; zh-hk:基利哥;}- -{A|zh-hans:諾亞; zh-tw:諾亞; zh-hk:諾亞;}- -{A|zh-hans:安琪拉‧雷恩; zh-tw:安琪拉‧雷恩; zh-hk:安琪拉‧雷恩;}- -{A|zh-hans:安潔拉; zh-tw:安琪拉; zh-hk:安琪拉;}- -{A|zh-hans:米霍尼; zh-tw:米夫內; zh-hk:米霍尼;}- -{A|zh-hans:布蕾亞; zh-tw:布蕾亞; zh-hk:貝雅;}- -{A|zh-hans:White Star; zh-tw:白光之星; zh-hk:White Star;}- -{A|zh-hans:聖劍; zh-tw:聖劍; zh-hk:Excalibur;}- -{A|zh-tw:恐怖蜘蛛; zh-hk:蜘蛛恐懼;}- -{A|zh-hans:艾邦; zh-hk:伊波恩}-

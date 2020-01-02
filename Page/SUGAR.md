@@ -1,3 +1,6 @@
+> 本文内容由[SUGAR](https://zh.wikipedia.org/wiki/SUGAR)转换而来。
+
+
 ***SUGAR*** 為[馬玉芬](https://zh.wikipedia.org/wiki/馬玉芬 "wikilink")1990年第2張英語專輯。
 
 ## 曲目

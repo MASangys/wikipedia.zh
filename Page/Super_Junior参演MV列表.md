@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior参演MV列表](https://zh.wikipedia.org/wiki/Super_Junior参演MV列表)转换而来。
+
+
 这是韩国男子组合[Super Junior及其子組合](../Page/Super_Junior.md "wikilink")[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")、[Super Junior Donghae & Eunhyuk的的官方MV列表](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")。
 
 ## 官方MV

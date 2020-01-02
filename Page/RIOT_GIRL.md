@@ -1,3 +1,6 @@
+> 本文内容由[RIOT GIRL](https://zh.wikipedia.org/wiki/RIOT_GIRL)转换而来。
+
+
 《****》（）是[平野綾第一張大碟](https://zh.wikipedia.org/wiki/平野綾 "wikilink")。于2008年7月16日發售。
 
 ## 收錄曲目

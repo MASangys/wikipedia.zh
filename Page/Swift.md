@@ -1,3 +1,6 @@
+> 本文内容由[Swift](https://zh.wikipedia.org/wiki/Swift)转换而来。
+
+
 **Swift** 在英文中指[雨燕](https://zh.wikipedia.org/wiki/雨燕 "wikilink")，另外也可能指下列事物：
 
 ## 人物

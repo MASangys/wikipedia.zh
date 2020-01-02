@@ -1,3 +1,6 @@
+> 本文内容由[Web服务器网关接口](https://zh.wikipedia.org/wiki/Web服务器网关接口)转换而来。
+
+
 **Web服务器-{zh-cn:网关;zh-tw:閘道}-接口**（**Python Web Server Gateway Interface**，缩写为WSGI）是为[Python](../Page/Python.md "wikilink")语言定义的[Web服务器和](../Page/網頁伺服器.md "wikilink")[Web应用程序或](../Page/网络应用程序.md "wikilink")[框架之间的一种简单而通用的](../Page/Web应用框架.md "wikilink")[接口](../Page/介面_\(程式設計\).md "wikilink")。自从WSGI被开发出来以后，许多其它语言中也出现了类似接口。
 
 ## 发展背景

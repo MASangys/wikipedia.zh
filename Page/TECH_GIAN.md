@@ -1,3 +1,6 @@
+> 本文内容由[TECH GIAN](https://zh.wikipedia.org/wiki/TECH_GIAN)转换而来。
+
+
 《**TECH GIAN**》（テックジャイアン）是[enterbrain發行的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")\[1\]，1996年9月21日創刊。
 
 ## 連載漫畫

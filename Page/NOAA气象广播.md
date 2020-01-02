@@ -1,3 +1,6 @@
+> 本文内容由[NOAA气象广播](https://zh.wikipedia.org/wiki/NOAA气象广播)转换而来。
+
+
 **NOAA气象广播**([英语](../Page/英语.md "wikilink")：**NOAA Weather Radio**)是美国的一个气象预警广播网，属于[美国商务部](../Page/美国商务部.md "wikilink")的[美国国家海洋和大气管理局](../Page/美国国家海洋和大气管理局.md "wikilink")，广播信息由[美国国家气象局提供](https://zh.wikipedia.org/wiki/美国国家气象局 "wikilink")。
 
 ## 概况

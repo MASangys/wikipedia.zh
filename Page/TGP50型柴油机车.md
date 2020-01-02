@@ -1,3 +1,6 @@
+> 本文内容由[TGP50型柴油机车](https://zh.wikipedia.org/wiki/TGP50型柴油机车)转换而来。
+
+
 **TGP50型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的液力传动干线客运[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[科洛姆纳内燃机车制造厂设计制造](https://zh.wikipedia.org/wiki/科洛姆纳内燃机车制造厂 "wikilink")，于1962年研制成功，仅试制两台并未投入批量生产。
 
 ## 发展历史

@@ -1,3 +1,6 @@
+> 本文内容由[NEC杯 \(日本\)](https://zh.wikipedia.org/wiki/NEC杯_\(日本\))转换而来。
+
+
 **NEC杯（日本）**，[日本](../Page/日本.md "wikilink")[NEC公司主办的](https://zh.wikipedia.org/wiki/NEC "wikilink")[围棋赛](https://zh.wikipedia.org/wiki/围棋赛 "wikilink")。比赛已于2012年第31届后停办。
 
 ## 比赛用时

@@ -1,3 +1,6 @@
+> 本文内容由[Sexy, Free \& Single \(單曲\)](https://zh.wikipedia.org/wiki/Sexy,_Free_\&_Single_\(單曲\))转换而来。
+
+
 《Sexy, Free & Single》是韓國男子組合[Super Junior的第四張日語單曲](../Page/Super_Junior.md "wikilink")。2012年8月22日由Avex trax發售。\[1\]
 
 ## 錄製與音樂

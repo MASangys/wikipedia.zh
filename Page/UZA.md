@@ -1,3 +1,6 @@
+> 本文内容由[UZA](https://zh.wikipedia.org/wiki/UZA)转换而来。
+
+
 《**UZA**》是日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")的第28张[单曲](../Page/单曲.md "wikilink")作品\[1\]，於2012年10月31日由[國王唱片](../Page/國王唱片.md "wikilink")发售\[2\]。主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《UZA》採用快節奏的[舞曲](../Page/舞曲.md "wikilink")風格，搭配的[MV也號稱收錄AKB](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")48創團以來難度最高的[編舞](https://zh.wikipedia.org/wiki/編舞 "wikilink")。承繼上一張單曲《[格子花紋](../Page/格子花紋.md "wikilink")》的作法，《UZA》的MV也是由[美籍](https://zh.wikipedia.org/wiki/美國 "wikilink")[韓裔導演](https://zh.wikipedia.org/wiki/韓國人 "wikilink")（Joseph Kahn）負責[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")。
 
 ## 簡介

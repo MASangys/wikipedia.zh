@@ -1,3 +1,6 @@
+> 本文内容由[Never gonna stop it](https://zh.wikipedia.org/wiki/Never_gonna_stop_it)转换而来。
+
+
 『**Never gonna stop it**』是[MAX的第](https://zh.wikipedia.org/wiki/MAX_\(日本音樂團體\) "wikilink")16張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2000年2月16日發售。
 
 ## 概要

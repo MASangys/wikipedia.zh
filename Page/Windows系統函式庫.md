@@ -1,3 +1,6 @@
+> 本文内容由[Windows系統函式庫](https://zh.wikipedia.org/wiki/Windows系統函式庫)转换而来。
+
+
 [微軟視窗系統支援一種被稱為](https://zh.wikipedia.org/wiki/微軟視窗系統 "wikilink")[動態連結庫的共享程式庫](https://zh.wikipedia.org/wiki/動態連結庫 "wikilink")。正如這種程式庫檔案的命名，它只需要被載入[記憶體一次](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，即可被多於一個[處理程序使用](https://zh.wikipedia.org/wiki/處理程序 "wikilink")。本條目將會對以下伴隨Windows而安裝到電腦，作為Windows系統的基礎組成部份的動態連結程式庫進行介紹。
 
 ## 內部元件

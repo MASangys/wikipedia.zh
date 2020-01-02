@@ -1,3 +1,6 @@
+> 本文内容由[True My Heart](https://zh.wikipedia.org/wiki/True_My_Heart)转换而来。
+
+
 **True My Heart**是2007年9月5日發售的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，歌手為「[ave;new](https://zh.wikipedia.org/wiki/ave;new "wikilink") feat. [佐倉紗織](../Page/佐倉紗織.md "wikilink")」。
 
 ## 簡介

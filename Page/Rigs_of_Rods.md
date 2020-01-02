@@ -1,3 +1,6 @@
+> 本文内容由[Rigs of Rods](https://zh.wikipedia.org/wiki/Rigs_of_Rods)转换而来。
+
+
 《**Rigs of Rods**》（簡稱**RoR**）是一款[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")\[1\][模拟游戏](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")，其引擎代码是以[GPLv3授权发放](https://zh.wikipedia.org/wiki/GPL "wikilink")。《Rigs of Rods》的[三維](https://zh.wikipedia.org/wiki/三維 "wikilink")[圖形是由](https://zh.wikipedia.org/wiki/圖形 "wikilink")[OGRE渲染引擎負責](https://zh.wikipedia.org/wiki/OGRE "wikilink")，而[物理效果則由软体物理引擎Beam負責](https://zh.wikipedia.org/wiki/物理 "wikilink")。截至2009年2月16日，《Rigs of Rods》官方网站有1664个[游戏模组被发布](https://zh.wikipedia.org/wiki/游戏模组 "wikilink")。此數字於2009年9月1日增长到2222个。此遊戲从0.36版本开始开源\[2\]。
 
 ## 模擬

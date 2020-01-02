@@ -1,3 +1,6 @@
+> 本文内容由[POSIX线程](https://zh.wikipedia.org/wiki/POSIX线程)转换而来。
+
+
 **POSIX线程**（，常被縮寫為）是[POSIX的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[线程](../Page/线程.md "wikilink")标准，定义了创建和操纵线程的一套[API](https://zh.wikipedia.org/wiki/Application_programming_interface "wikilink")。
 
 实现POSIX 线程标准的库常被称作**Pthreads**，一般用于[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink") POSIX 系统，如[Linux](../Page/Linux.md "wikilink")、 [Solaris](../Page/Solaris.md "wikilink")。但是[Microsoft Windows上的实现也存在](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，例如直接使用Windows API实现的第三方库pthreads-w32；而利用Windows的SFU/SUA子系统，则可以使用微软提供的一部分原生POSIX API。

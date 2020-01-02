@@ -1,3 +1,6 @@
+> 本文内容由[SD鋼彈FORCE](https://zh.wikipedia.org/wiki/SD鋼彈FORCE)转换而来。
+
+
 《**SD GUNDAM FORCE**》（**Superior Defender Gundam Force**）是從2004年1月7日起到2004年12月29日為止在[東京電視台](../Page/東京電視台.md "wikilink")播放的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 故事簡介

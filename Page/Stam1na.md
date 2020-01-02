@@ -1,3 +1,6 @@
+> 本文内容由[Stam1na](https://zh.wikipedia.org/wiki/Stam1na)转换而来。
+
+
 **Stam1na**是[芬兰](../Page/芬兰.md "wikilink")[南卡累利阿区](https://zh.wikipedia.org/wiki/南卡累利阿区 "wikilink")[莱米的一支本土金属乐队](https://zh.wikipedia.org/wiki/莱米 "wikilink")，其主要音乐风格为[前卫金属](https://zh.wikipedia.org/wiki/前卫金属 "wikilink")，同时受[鞭击金属](https://zh.wikipedia.org/wiki/鞭击金属 "wikilink")、[死亡金属和](https://zh.wikipedia.org/wiki/死亡金属音乐 "wikilink")[另类金属影响](https://zh.wikipedia.org/wiki/另类金属 "wikilink")。
 
 ## 乐队名称

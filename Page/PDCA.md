@@ -1,3 +1,6 @@
+> 本文内容由[PDCA](https://zh.wikipedia.org/wiki/PDCA)转换而来。
+
+
 [PDCA_Cycle.svg](https://zh.wikipedia.org/wiki/File:PDCA_Cycle.svg "fig:PDCA_Cycle.svg") [PDCA_Process.png](https://zh.wikipedia.org/wiki/File:PDCA_Process.png "fig:PDCA_Process.png") **PDCA**（Plan-Do-Check-Act的簡稱）循環式[品質](https://zh.wikipedia.org/wiki/品質 "wikilink")[管理](https://zh.wikipedia.org/wiki/管理 "wikilink")，針對品質工作按規劃、執行、查核與行動來進行活動，以確保可靠度目標之達成，並進而促使品質持續改善。由美國學者[愛德華茲·戴明](../Page/愛德華茲·戴明.md "wikilink")提出，因此也称**戴明环**。这个四步的循环一般用来提高產品品質和改善产品生产过程。这个过程循环也被人熟知为：Plan-Do-Study-Act（PDSA），戴明圆环（Deming cicle/cycle/wheel）或者哈特利圆环。另一个不同的版本是OPDCA，加入了O（observation观察），有些说法认为是获得当前的状况的意思。
 
 ## PDCA的含义

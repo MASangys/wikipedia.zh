@@ -1,3 +1,6 @@
+> 本文内容由[Trac](https://zh.wikipedia.org/wiki/Trac)转换而来。
+
+
 **Trac**是公司开发并维护的[开放源码網頁界面](https://zh.wikipedia.org/wiki/开放源码 "wikilink")[專案管理](https://zh.wikipedia.org/wiki/專案管理 "wikilink")、[缺陷追踪軟體](https://zh.wikipedia.org/wiki/缺陷追踪 "wikilink")。Trac的灵感来自于CVSTrac，因为能够与[Subversion](../Page/Subversion.md "wikilink")接口，所以最初叫做svntrac。
 
 Trac使用[Python](../Page/Python.md "wikilink")[程式語言開發](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。在2005年中以前，Trac以[GPL發行](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")；直到0.9版開始使用[修改過的BSD許可證釋出](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")\[1\]。基本上都是屬於[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[許可證](../Page/软件许可证.md "wikilink")。

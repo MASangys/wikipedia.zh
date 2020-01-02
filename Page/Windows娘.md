@@ -1,3 +1,6 @@
+> 本文内容由[Windows娘](https://zh.wikipedia.org/wiki/Windows娘)转换而来。
+
+
 **Windows娘**（，英文：Windows tan／Windows Girl）是對[微軟操作系統](https://zh.wikipedia.org/wiki/微軟 "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")卡通形象代言人的稱呼。
 
 ## 背景

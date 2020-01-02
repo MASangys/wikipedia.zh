@@ -1,3 +1,6 @@
+> 本文内容由[嫌疑犯X的獻身](https://zh.wikipedia.org/wiki/嫌疑犯X的獻身)转换而来。
+
+
 《**嫌疑犯X的獻身**》（）是[日本](../Page/日本.md "wikilink")作家[東野圭吾](../Page/東野圭吾.md "wikilink")的[長篇](../Page/長篇小說.md "wikilink")[推理小說](../Page/推理小說.md "wikilink")，也是「伽利略系列」的第三本小說。2003年起以「**嫌疑犯X**」為題於《》連載。2005年8月於[文藝春秋](../Page/文藝春秋.md "wikilink")出版，出版的時候改成現在的標題。2011年英文版出版，譯名《**The Devotion of Suspect X**》。本作是東野圭吾發表作品迄今被最多語言翻譯代理的作品。
 
 電影版於2008年10月4日在日本上映，並由與電視劇《[神探伽利略](../Page/神探伽利略.md "wikilink")》相同的演員主演。同年12月24日在台灣上映。该片亦被提名[2009年香港電影金像獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎 "wikilink")[最佳亞洲電影獎](https://zh.wikipedia.org/wiki/2009年香港電影金像獎#最佳亞洲電影 "wikilink")。

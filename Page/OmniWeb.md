@@ -1,3 +1,6 @@
+> 本文内容由[OmniWeb](https://zh.wikipedia.org/wiki/OmniWeb)转换而来。
+
+
 **OmniWeb**是一个专有的[互联网](../Page/互联网.md "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，由The Omni Group开发并推向市场。它只在[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS X上运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。不同于它的许多竞争对手，例如：[Mozilla Firefox或](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Camino](../Page/Camino.md "wikilink")，OmniWeb直至2009年2月24日才提供[免費下載](../Page/免費軟體.md "wikilink")，而在此前，购买一个授权需要14.95美元\[1\]。
 
 ## 历史

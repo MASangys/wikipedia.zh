@@ -1,3 +1,6 @@
+> 本文内容由[Who Cares](https://zh.wikipedia.org/wiki/Who_Cares)转换而来。
+
+
 《**WHOCARES**》是[RedNoon](../Page/RedNoon.md "wikilink")的第二張錄音室專輯，於2011年8月25日推出\[1\]。隨碟附贈MV及Live共11首之DVD。
 
 ## 曲目列表

@@ -1,3 +1,6 @@
+> 本文内容由[寶兒 \(Popu Lady\)](https://zh.wikipedia.org/wiki/寶兒_\(Popu_Lady\))转换而来。
+
+
 **吳昀廷**（），藝名**寶兒**，畢業於[康寧護專](https://zh.wikipedia.org/wiki/康寧醫護暨管理專科學校 "wikilink")，現為女子偶像團體[Popu Lady成員](../Page/Popu_Lady.md "wikilink")。
 
 ## 經歷

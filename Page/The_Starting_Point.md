@@ -1,3 +1,6 @@
+> 本文内容由[The Starting Point](https://zh.wikipedia.org/wiki/The_Starting_Point)转换而来。
+
+
 『**The Starting Point**』是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")共計第7張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 概要

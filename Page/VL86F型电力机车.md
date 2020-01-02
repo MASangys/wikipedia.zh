@@ -1,3 +1,6 @@
+> 本文内容由[VL86F型电力机车](https://zh.wikipedia.org/wiki/VL86F型电力机车)转换而来。
+
+
 **VL86F型电力机车**（），是[苏联](../Page/苏联.md "wikilink")铁路的干线货运[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于25千伏工频[单相交流制的](https://zh.wikipedia.org/wiki/單相交流電 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。
 
 ## 发展历史

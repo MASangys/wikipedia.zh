@@ -1,3 +1,6 @@
+> 本文内容由[S型电力动车组](https://zh.wikipedia.org/wiki/S型电力动车组)转换而来。
+
+
 **S型电力动车组**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，也是苏联第一种投入大批量生产的电力动车组，适用于供电制式为1500伏（后期3000伏）[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[莫斯科州](../Page/莫斯科州.md "wikilink")的[梅季希机器制造厂设计制造](../Page/地铁车辆机械制造厂.md "wikilink")。
 
 ## 发展历史

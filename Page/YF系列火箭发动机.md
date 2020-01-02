@@ -1,3 +1,6 @@
+> 本文内容由[YF系列火箭发动机](https://zh.wikipedia.org/wiki/YF系列火箭发动机)转换而来。
+
+
 **YF系列火箭发动机**是[中国为](https://zh.wikipedia.org/wiki/中国 "wikilink")[长征系列运载火箭研发的火箭液态发动机系列](https://zh.wikipedia.org/wiki/长征系列运载火箭 "wikilink")，YF取自**液态**和**发动机**第一字的首字母。
 
 ## 研发史

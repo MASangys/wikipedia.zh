@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-TR-56 b](https://zh.wikipedia.org/wiki/OGLE-TR-56_b)转换而来。
+
+
 **OGLE-TR-56b**是一顆距離地球約1500秒差距的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")，母恆星是 [OGLE-TR-56](../Page/OGLE-TR-56.md "wikilink")。該行星發現於2002年11月3日\[1\]，由波蘭[華沙大學的](https://zh.wikipedia.org/wiki/華沙大學 "wikilink")[光學重力透鏡實驗](../Page/光學重力透鏡實驗.md "wikilink")計畫以凌日法發現，並於2003年1月4日以[都卜勒光譜學確認](https://zh.wikipedia.org/wiki/都卜勒光譜學 "wikilink")\[2\]。該行星在 [WASP-12b](../Page/WASP-12b.md "wikilink") 被發現以前是已確認行星中公轉週期最短的行星\[3\]。該行星的週期暗示它和母恆星距離相當近，因此被列為[熱木星](../Page/熱木星.md "wikilink")。
 
 [OGLE-TR-56_b_rv.pdf](https://zh.wikipedia.org/wiki/File:OGLE-TR-56_b_rv.pdf "fig:OGLE-TR-56_b_rv.pdf")

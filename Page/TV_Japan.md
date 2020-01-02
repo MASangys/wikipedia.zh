@@ -1,3 +1,6 @@
+> 本文内容由[TV Japan](https://zh.wikipedia.org/wiki/TV_Japan)转换而来。
+
+
 **TV Japan**（），是目前唯一在[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")的24小時日語收費電視頻道，也是[日本](../Page/日本.md "wikilink")[NHK向](https://zh.wikipedia.org/wiki/NHK "wikilink")[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[歐洲提供節目型態的通稱](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 ## 概要

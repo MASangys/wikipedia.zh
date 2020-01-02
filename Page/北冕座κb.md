@@ -1,3 +1,6 @@
+> 本文内容由[北冕座κb](https://zh.wikipedia.org/wiki/北冕座κb)转换而来。
+
+
 **北冕座κb**（**Kappa Coronae Borealis b**）是一個距離地球約102光年的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")，位於[北冕座](../Page/北冕座.md "wikilink")。該行星由約翰·阿謝爾·強森（John Asher Johnson）等人以行星對母恆星重力影響[徑向速度變化的方式發現](https://zh.wikipedia.org/wiki/徑向速度 "wikilink")。該行星於2007年9月首次被觀測，並於同年11月發表相關論文。
 
 ## 行星性質

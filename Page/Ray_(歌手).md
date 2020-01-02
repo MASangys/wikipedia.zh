@@ -1,3 +1,6 @@
+> 本文内容由[Ray \(歌手\)](https://zh.wikipedia.org/wiki/Ray_\(歌手\))转换而来。
+
+
 **Ray**（，），本名**中山怜香**，[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。隸屬於日本[Geneon環球娛樂公司旗下](https://zh.wikipedia.org/wiki/Geneon環球娛樂 "wikilink")。
 
 ## 概要

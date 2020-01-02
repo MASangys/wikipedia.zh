@@ -1,3 +1,6 @@
+> 本文内容由[Once \(夜愿专辑\)](https://zh.wikipedia.org/wiki/Once_\(夜愿专辑\))转换而来。
+
+
 《**Once**》是[芬兰](../Page/芬兰.md "wikilink")[力量金属](../Page/力量金属.md "wikilink")乐队[夜愿](../Page/夜愿.md "wikilink")的第五章录音室专辑，其由[Nuclear Blast发行于](https://zh.wikipedia.org/wiki/Nuclear_Blast "wikilink")2004年6月7日、[Spinefarm发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")11月24日，而在美国则由[Roadrunner Records发行于](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")10月5日。在一次采访中，乐队主要歌词作者[托马斯·霍洛帕尼表示](https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼 "wikilink")，标题Once的含义该由听着发现。每个名字自由其意——不过，他感到这言对于该专辑并不受用\[1\]。这是最后一张由[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")主唱的夜愿录音室专辑\[2\]。
 
 ## 背景

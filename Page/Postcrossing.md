@@ -1,3 +1,6 @@
+> 本文内容由[Postcrossing](https://zh.wikipedia.org/wiki/Postcrossing)转换而来。
+
+
 \-{H|zh:项目;zh-hans:項目;zh-hant:項目;zh-cn:项目;zh-tw:計畫}- -{H|zh:在线;zh-hans:在線;zh-hant:在線;zh-cn:在线;zh-tw:線上}-
 
 [Postcrossing_Logo.png](https://zh.wikipedia.org/wiki/File:Postcrossing_Logo.png "fig:Postcrossing_Logo.png")

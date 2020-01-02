@@ -1,3 +1,6 @@
+> 本文内容由[Touch \(Unix\)](https://zh.wikipedia.org/wiki/Touch_\(Unix\))转换而来。
+
+
 **touch**是一个被用于更改[文件访问和修改时间的标准](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[UNIX](../Page/UNIX.md "wikilink")[程序](../Page/计算机程序.md "wikilink")，它也被用于创建新文件。
 
 ## 历史

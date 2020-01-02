@@ -1,3 +1,6 @@
+> 本文内容由[Sherlock \(SHINee單曲\)](https://zh.wikipedia.org/wiki/Sherlock_\(SHINee單曲\))转换而来。
+
+
 「**sherlock**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第4张日語[单曲](../Page/单曲.md "wikilink")。2012年5月16日由[EMI](../Page/EMI.md "wikilink")发售。
 
 ## 概要

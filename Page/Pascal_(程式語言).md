@@ -1,3 +1,6 @@
+> 本文内容由[Pascal \(程式語言\)](https://zh.wikipedia.org/wiki/Pascal_\(程式語言\))转换而来。
+
+
 **Pascal**是一个有影响的[面向对象和](https://zh.wikipedia.org/wiki/命令式编程 "wikilink")[面向过程](https://zh.wikipedia.org/wiki/过程化编程 "wikilink")[编程语言](../Page/编程语言.md "wikilink")，由[尼克劳斯·维尔特](../Page/尼克劳斯·维尔特.md "wikilink")在1968年9月设计，在1970年发行，作为一个小型的和高效的语言，意图鼓励使用[结构化编程](../Page/结构化编程.md "wikilink")和[数据结构](../Page/数据结构.md "wikilink")进行良好的编程实践。
 
 称作[Object Pascal的一个衍生是为](../Page/Object_Pascal.md "wikilink")[面向对象编程设计的](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。

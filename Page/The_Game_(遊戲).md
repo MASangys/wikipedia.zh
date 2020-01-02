@@ -1,3 +1,6 @@
+> 本文内容由[The Game \(遊戲\)](https://zh.wikipedia.org/wiki/The_Game_\(遊戲\))转换而来。
+
+
 ****（直譯：**遊戲**）是一個無間斷的[思想](../Page/思想.md "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，遊戲的最終目的是要阻止玩家自己想到The Game的存在。
 
 ## 概述

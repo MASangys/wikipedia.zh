@@ -1,3 +1,6 @@
+> 本文内容由[VMware Workstation Player](https://zh.wikipedia.org/wiki/VMware_Workstation_Player)转换而来。
+
+
 **VMware Workstation Player**是[VMware](../Page/VMware.md "wikilink")推出的一款简易[虚拟机软件](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，是[VMware Workstation的免費版](../Page/VMware_Workstation.md "wikilink")，功能较[VMware Workstation Pro简单](https://zh.wikipedia.org/wiki/VMware_Workstation_Pro "wikilink")，可免费用于个人非商业用途（VMware Workstation Pro才能用于商业用途）。VMware Workstation Pro安裝過程會一併安裝VMware Workstation Player，用户也可以在VMware网站下载VMware Workstation Player。
 
 ## 歷史

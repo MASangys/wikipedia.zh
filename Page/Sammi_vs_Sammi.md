@@ -1,3 +1,6 @@
+> 本文内容由[Sammi vs Sammi](https://zh.wikipedia.org/wiki/Sammi_vs_Sammi)转换而来。
+
+
 《**Sammi VS Sammi**》（意思：Sammi對Sammi）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭秀文](../Page/鄭秀文.md "wikilink")的第三十張個人專輯和第二十三張粵語專輯，亦是她首張全翻唱專輯，於2004年發行\[1\]。
 
 ## 曲目列表

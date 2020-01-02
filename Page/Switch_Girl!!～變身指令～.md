@@ -1,3 +1,6 @@
+> 本文内容由[Switch Girl!!～變身指令～](https://zh.wikipedia.org/wiki/Switch_Girl!!～變身指令～)转换而来。
+
+
 《**Switch Girl\!\!～變身指令～**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")的一部[愛情](../Page/愛情.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，2006年於《[瑪格麗特](https://zh.wikipedia.org/wiki/マーガレット_\(雜誌\) "wikilink")》18號開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全25卷已發售。
 
 ## 劇情內容

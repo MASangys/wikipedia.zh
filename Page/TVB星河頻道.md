@@ -1,3 +1,6 @@
+> 本文内容由[TVB星河頻道](https://zh.wikipedia.org/wiki/TVB星河頻道)转换而来。
+
+
 **星河頻道**（）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司擁有的一條以](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[華語廣播而經營的衛星頻道](https://zh.wikipedia.org/wiki/華語 "wikilink")，該頻道每日以[粤語及](https://zh.wikipedia.org/wiki/粤語 "wikilink")[國語廣播播放](https://zh.wikipedia.org/wiki/國語 "wikilink")[香港無綫電視所製播的電視劇為主](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")。
 
 於1998年12月7日，**電視廣播（衛星）有限公司**成立，是唯一一個為進軍海外中文衛星電視市場，以華語廣播的星河頻道開播，該頻道及同屬的[TVB8](../Page/TVB8.md "wikilink")獲[中華人民共和國國家廣播電影電視總局批准在中國大陸境内落地收看](../Page/国家广播电影电视总局.md "wikilink")，為三星或以上級別酒店和涉外單位提供服務。2018年1月1日此頻道全新改版。

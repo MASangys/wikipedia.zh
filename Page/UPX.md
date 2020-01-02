@@ -1,3 +1,6 @@
+> 本文内容由[UPX](https://zh.wikipedia.org/wiki/UPX)转换而来。
+
+
 **UPX**（*the **U**ltimate **P**acker for e**X**ecutables*）是一个免费且[开源的可执行程序文件加壳器](https://zh.wikipedia.org/wiki/开源 "wikilink")，支持许多不同[操作系统](../Page/操作系统.md "wikilink")下的可执行文件格式，具体的支持列表可见下文“支持格式”一节。
 
 ## 压缩

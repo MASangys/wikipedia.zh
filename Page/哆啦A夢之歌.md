@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢之歌](https://zh.wikipedia.org/wiki/哆啦A夢之歌)转换而来。
+
+
 <noinclude>
 
 **哆啦A夢之歌**是[朝日電視台](../Page/朝日電視台.md "wikilink")版[哆啦A夢動畫自](https://zh.wikipedia.org/wiki/哆啦A夢_\(電視動畫\) "wikilink")1979年到2005年期間的[片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")，也是哆啦A夢的片頭曲中最為人所知的。作詞[楠部工](../Page/楠部工.md "wikilink")、補作詞。作曲[菊池俊輔](../Page/菊池俊輔.md "wikilink")。

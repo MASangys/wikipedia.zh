@@ -1,3 +1,6 @@
+> 本文内容由[VR戰警](https://zh.wikipedia.org/wiki/VR戰警)转换而来。
+
+
 ，是由[世嘉](../Page/世嘉.md "wikilink")於1994年所開發的[第一人稱射擊](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[光線槍遊戲](https://zh.wikipedia.org/wiki/光槍射擊遊戲 "wikilink")，而此遊戲一直是[SEGA最為經典的射擊遊戲大作之一](https://zh.wikipedia.org/wiki/SEGA "wikilink")，曾經長期名列街機排行榜首位。當遊戲移植到[PC](../Page/PC.md "wikilink")版本後，其遊戲簡便的操作、出色的聲光表現以及緊張壓迫的射擊快感，使得此遊戲一出現便成為風靡一時的射擊遊戲，受到不少玩家的青睞。《VR戰警》的延續還有《[VR戰警2](../Page/VR戰警2.md "wikilink")》及《[VR戰警3](https://zh.wikipedia.org/wiki/VR戰警3 "wikilink")》。
 
 ## 劇情

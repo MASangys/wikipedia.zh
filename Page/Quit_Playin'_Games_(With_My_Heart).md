@@ -1,3 +1,6 @@
+> 本文内容由[Quit Playin\' Games \(With My Heart\)](https://zh.wikipedia.org/wiki/Quit_Playin\'_Games_\(With_My_Heart\))转换而来。
+
+
 是[新好男孩組合的第五首單曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")，被收入了[新好男孩專輯和其後的](../Page/新好男孩_\(國際版\).md "wikilink")[美國版專輯](https://zh.wikipedia.org/wiki/新好男孩_\(美國版\) "wikilink")。單曲發行於1997年，其後很快在[英國單曲榜和](https://zh.wikipedia.org/wiki/英國單曲榜 "wikilink")[Billboard 單曲百名榜上位列第二名](https://zh.wikipedia.org/wiki/Billboard_單曲百名榜 "wikilink")。在[瑞士與](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[澳大利亞的榜單上這首單曲位列第一](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，在[荷蘭的榜單上位列第七](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")。
 
 這首單曲是[新好男孩早年最成功的作品](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")，直到團隊鼎盛之作  才將其超過。這首單曲在1997年的[亞洲音樂電視榜單上亦位列前茅](https://zh.wikipedia.org/wiki/亞洲音樂電視 "wikilink")。

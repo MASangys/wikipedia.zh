@@ -1,3 +1,6 @@
+> 本文内容由[SOUND HOLIC](https://zh.wikipedia.org/wiki/SOUND_HOLIC)转换而来。
+
+
 **SOUND HOLIC**是[日本](../Page/日本.md "wikilink")的一個音樂[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。愛稱「サンホリ」（Sanhori）。
 
 ## 概要

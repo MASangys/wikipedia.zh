@@ -1,3 +1,6 @@
+> 本文内容由[Perfume \(日本音樂團體\)](https://zh.wikipedia.org/wiki/Perfume_\(日本音樂團體\))转换而来。
+
+
 **Perfume**（，中文又稱**電音香水**）是一個出身於[日本](../Page/日本.md "wikilink")[廣島縣](../Page/廣島縣.md "wikilink")的女子[流行電子音樂組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")，所屬唱片公司為[Perfume Records / UNIVERSAL J](../Page/環球音樂_\(日本\).md "wikilink")，全部成員均為[AMUSE經紀公司屬下](../Page/Amuse.md "wikilink")。
 
 Perfume最初於2000年由3名成員組成，發展至今成為日本最具知名度的女子團體之一\[1\]。Perfume在主流出道後的大部份歌曲皆由電子音樂組合[CAPSULE](../Page/CAPSULE.md "wikilink")的成立人[中田康貴](../Page/中田康貴.md "wikilink")製作，多張暢銷單曲及專輯為她們在日本音樂市場帶來不同獎項及成就，至今已擁有多張[金唱片](../Page/金唱片.md "wikilink")單曲、一張雙白金[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、四張白金專輯及兩張金專輯，日本唱片總銷量逾130萬\[2\]。

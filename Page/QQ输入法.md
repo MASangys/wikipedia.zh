@@ -1,3 +1,6 @@
+> 本文内容由[QQ输入法](https://zh.wikipedia.org/wiki/QQ输入法)转换而来。
+
+
 **QQ输入法**是2007年11月20日由[腾讯](../Page/腾讯.md "wikilink")发布的一款[汉语拼音输入法及](https://zh.wikipedia.org/wiki/汉语拼音输入法 "wikilink")[五笔输入法软件](https://zh.wikipedia.org/wiki/五笔输入法 "wikilink")，运行在[Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS系统上](https://zh.wikipedia.org/wiki/macOS "wikilink")\[1\]，2014年被[搜狗](../Page/搜狗.md "wikilink")收购\[2\]。
 
 ## 分支

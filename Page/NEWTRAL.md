@@ -1,3 +1,6 @@
+> 本文内容由[NEWTRAL](https://zh.wikipedia.org/wiki/NEWTRAL)转换而来。
+
+
 《**NEWTRAL**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")5張原創專輯，於2012年2月29日由[Epic Records Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要

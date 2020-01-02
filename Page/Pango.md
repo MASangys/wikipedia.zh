@@ -1,3 +1,6 @@
+> 本文内容由[Pango](https://zh.wikipedia.org/wiki/Pango)转换而来。
+
+
 **Pango**（）是一个[开放源代码](../Page/开放源代码.md "wikilink")的[自由文本布局库](../Page/自由软件.md "wikilink")，通过使用[HarfBuzz](../Page/HarfBuzz.md "wikilink")文本塑形库-{A|zh-hans:渲染;zh-hant:描繪}-多语种的文字。\[1\]全功能文本渲染和跨平台支持在Pango与各平台的API或诸如[Uniscribe](../Page/Uniscribe.md "wikilink")和[FreeType](../Page/FreeType.md "wikilink")作为文本渲染[后端的第三方库使用时呈现](https://zh.wikipedia.org/wiki/后端 "wikilink")。Pango处理的文本会表现出在不同平台之下运行时的相近效果。
 
 Pango是一种特定用途的文本函式库，而不是像同样能被Pango所用的通用图形渲染库[Cairo只具备最简单的文本渲染](https://zh.wikipedia.org/wiki/Cairo_\(绘图\) "wikilink")。实际上Cairo技术文档推荐使用Pango来渲染文本。

@@ -1,3 +1,6 @@
+> 本文内容由[Sound \(Beyond專輯\)](https://zh.wikipedia.org/wiki/Sound_\(Beyond專輯\))转换而来。
+
+
 《**Sound**》是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行第十一张粵語专辑，《Sound》是從[香港](../Page/香港.md "wikilink")遠赴[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯灌錄](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，再帶到[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")混音，於[香港文化中心](../Page/香港文化中心.md "wikilink")舉行《Sound音樂會》，以光纖電纜將演唱會實況傳送到各大商場，Beyond注重[吉他](../Page/吉他.md "wikilink")方面的表現，及音樂上的豐富性，在專輯中加入一首純音樂，Beyond留心[電子音樂](../Page/電子音樂.md "wikilink")的發展，三人樂隊的音樂形態就此成型。
 
 批叛主流傳媒的《教壞細路》這首抨擊[TVB的歌曲](https://zh.wikipedia.org/wiki/TVB "wikilink")，Beyond帶來和TVB間的嫌隙，香港的節目上，Beyond的宣傳大減，吸納著90年代[北美洲](../Page/北美洲.md "wikilink")的搖滾氣候而來下，有較多Jam出來的歌曲，是Beyond在三人時期最具原始搖滾音量的專輯，同時包含氣氛低迴黯然的《嘆息》和失落無力感自述《Cryin'》。

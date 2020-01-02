@@ -1,3 +1,6 @@
+> 本文内容由[TOM-Skype](https://zh.wikipedia.org/wiki/TOM-Skype)转换而来。
+
+
 **TOM-Skype**，是[TOM集团旗下北京讯能网络有限公司](https://zh.wikipedia.org/wiki/TOM集团 "wikilink")[TOM在线](../Page/TOM在线.md "wikilink")和[Skype](../Page/Skype.md "wikilink")于[2004年11月](../Page/2004年11月.md "wikilink")在[中国大陆](../Page/中国大陆.md "wikilink")联合推出的Skype中国大陆版即时通讯软件。从2007年开始，访问Skype官方网站skype.com的大陆用户会被重定向至Tom版Skype网站skype.tom.com。截至2007年6月底，TOM-Skype注册用户已经突破4200万，超越[美国](../Page/美国.md "wikilink")成为Skype全球最大的市场。TOM在线也为中国大陆用户推出了几款仅能在TOM-Skype使用的中国大陆特别优惠卡和电话月费计划（如Skype国内卡，国际版Skype无法使用）。然而，TOM-Skype由于其含有文字审查过滤系统，故该版本软件的安全性和隐私性一直备受诟病。2013年11月20日，微软与TOM集团终止合作。
 
 ## 审查

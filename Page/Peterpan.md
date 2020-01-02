@@ -1,3 +1,6 @@
+> 本文内容由[Peterpan](https://zh.wikipedia.org/wiki/Peterpan)转换而来。
+
+
 **诺亚**，是万隆，西爪哇，印度尼西亚的流行摇滚乐队。诺亚始建于2000年。
 
 ## 資料

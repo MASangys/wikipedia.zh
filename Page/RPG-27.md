@@ -1,3 +1,6 @@
+> 本文内容由[RPG-27](https://zh.wikipedia.org/wiki/RPG-27)转换而来。
+
+
 **RPG-27**（；\[1\]\[2\]Таволга；[英文](../Page/英语.md "wikilink")：**Tavolga**，意為：[藍草](https://zh.wikipedia.org/wiki/藍草 "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）國家研究和生產企業[Bazalt所研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")105毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-26](../Page/RPG-26.md "wikilink")的改進型。同樣地，主要在短距離[反坦克戰](../Page/反坦克戰.md "wikilink")時使用，發射[PG-27](https://zh.wikipedia.org/wiki/PG-27 "wikilink") [HEAT](../Page/高爆反坦克彈.md "wikilink")[火箭彈](https://zh.wikipedia.org/wiki/火箭彈 "wikilink")。
 
 ## 歷史
@@ -88,12 +91,8 @@ RPG-27還有一種衍生型名為RShG-1，改用[燃料空氣炸彈](../Page/燃
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
 
 1.  РПГ，全寫：**Р**учной **п**ротивотанковый **г**ранатомёт，意為：反坦克榴彈發射器
-
 2.  <http://www.arms.ru/Guns/grenade/rpg2201.htm>
-
 3.
-
 4.
-
 5.
 6.  <https://sites.google.com/site/worldinventory/wiw_sa_colombia>

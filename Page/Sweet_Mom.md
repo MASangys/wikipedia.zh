@@ -1,3 +1,6 @@
+> 本文内容由[Sweet Mom](https://zh.wikipedia.org/wiki/Sweet_Mom)转换而来。
+
+
 《**Sweet Mom**》（親愛媽咪）為日本歌手[柴咲幸](../Page/柴咲幸.md "wikilink")8th單曲。於2005年10月5日發行。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[今天Call了沒](https://zh.wikipedia.org/wiki/今天Call了沒)转换而来。
+
+
 《**今天Call了沒**》是由匈牙利Telemedia InteracTV原創，授權由臺灣地區MTV頻道播出的電視節目。播映時間約從2007年10月起至2009年2月28日為止，因[國家通訊傳播委員會](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink")（[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")：National Communication Commission，簡稱NCC）判定有詐欺嫌疑，而勒令停播。
 
 ## 節目特色

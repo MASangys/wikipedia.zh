@@ -1,3 +1,6 @@
+> 本文内容由[So long!](https://zh.wikipedia.org/wiki/So_long!)转换而来。
+
+
 《**So long\!**》是[AKB48](../Page/AKB48.md "wikilink")的第30张\[1\][单曲](../Page/单曲.md "wikilink")\[2\]，于2013年2月20日由[國王唱片](../Page/國王唱片.md "wikilink")（）发售。
 
 ## 概要
@@ -214,33 +217,18 @@ A面曲「So Long\!」[MV的导演是](https://zh.wikipedia.org/wiki/MV "wikilin
 [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:畢業歌曲](https://zh.wikipedia.org/wiki/Category:畢業歌曲 "wikilink") [Category:日本電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台電視劇主題曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:2013年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon單曲月榜冠軍作品 "wikilink") [Category:2013年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon單曲週榜冠軍作品 "wikilink") [Category:2013年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2013年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2013年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2013年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")
 
 1.  以正式出版的單曲為準，其中包含[數位下載單曲](https://zh.wikipedia.org/wiki/數位下載 "wikilink")《[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")》。若包括[獨立製作](../Page/獨立製作.md "wikilink")時期的的兩張作品，則為第32張。但是此統計数字并不包括僅有提供數位下載的慈善樂捐单曲《[为了谁 -What can I do for someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")》在內。
-
 2.
-
 3.  Type-A、-K、-B的初回盤和通常盤封面相同，区別點是只限於標題的顏色。
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.  广告由篠田、高橋南、渡辺麻、大島優、柏木、小嶋陽、島崎、横山出演。
-
 9.  广告由入山、川荣、渡辺麻、加藤玲、島崎出演。
-
 10.
-
 11. 广告由篠田、高橋南、渡辺麻、板野、大島優、柏木、島崎、横山、北原出演。
-
 12.
-
 13. 广告由島崎出演。
-
 14. 在2013年1月23日播出的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》新聞單元中，由拍攝主打單曲PV的16名成員共同亮相替新歌進行宣傳。
-
 15. 在单曲发行前的2月1日降格为研究生。1月31日为止仍属于梅田Team B。
-
 16.

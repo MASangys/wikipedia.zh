@@ -1,3 +1,6 @@
+> 本文内容由[Windows 8新功能](https://zh.wikipedia.org/wiki/Windows_8新功能)转换而来。
+
+
 **[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")**基於[Windows 7核心上](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，仍包含了許多的新功能。
 
 ## 界面

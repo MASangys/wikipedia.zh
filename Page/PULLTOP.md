@@ -1,3 +1,6 @@
+> 本文内容由[PULLTOP](https://zh.wikipedia.org/wiki/PULLTOP)转换而来。
+
+
 **PULLTOP**（プルトップ）為[WillPlus](../Page/WillPlus.md "wikilink")有限公司旗下的品牌、軟體製作位置為東京開發室。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[TechCrunch](https://zh.wikipedia.org/wiki/TechCrunch)转换而来。
+
+
 **TechCrunch**是一个聚焦[信息技术](../Page/信息技术.md "wikilink")公司报道的新闻网站，他们关注的公司大小各异，从创业公司到[纳斯达克](../Page/纳斯达克.md "wikilink")指数所包含的顶尖企业都有涉及。这个网站在2005年由[迈克尔·阿灵顿创始](https://zh.wikipedia.org/wiki/迈克尔·阿灵顿 "wikilink")。2010年9月28日，在美国旧金山举行的年度TechCrunch Disrupt会议上，[美国在线](../Page/美国在线.md "wikilink")宣布他们将会收购该网站，收购金额据传是在2500-4000万美元之间。
 
 2011年，由于美国在线对阿灵顿的一个新建投资基金CrunchFund进行了注资\[1\]，涉嫌违反新闻伦理，阿灵顿和一些创始的编辑退出了该网站。此后还有其他作者包括Paul Carr\[2\]和Sarah Lacy\[3\]对此事件提起诉讼。

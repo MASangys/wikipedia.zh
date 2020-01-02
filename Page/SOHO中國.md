@@ -1,3 +1,6 @@
+> 本文内容由[SOHO中國](https://zh.wikipedia.org/wiki/SOHO中國)转换而来。
+
+
 **SOHO中國有限公司**（）前身**北京紅石實業有限責任公司**，成立於1995年，是[中國大陸一家](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[商用](https://zh.wikipedia.org/wiki/商業 "wikilink")[房地產發展商](https://zh.wikipedia.org/wiki/房地產 "wikilink")，集中於[北京市](../Page/北京市.md "wikilink")中心[發展及](https://zh.wikipedia.org/wiki/發展 "wikilink")[銷售商用物業](https://zh.wikipedia.org/wiki/銷售 "wikilink")。SOHO中國現時是北京最大的[房地產發展商之一](https://zh.wikipedia.org/wiki/房地產 "wikilink")。公司創辦人是[潘石屹](../Page/潘石屹.md "wikilink")和[张欣夫婦](https://zh.wikipedia.org/wiki/张欣_\(1965年\) "wikilink")。
 
 公司主要擁有北京市及上海市核心地帶的商用地皮，共計開發面積超過155萬平米，項目有「SOHO現代城」、「[建外SOHO](https://zh.wikipedia.org/wiki/建外SOHO "wikilink")」、「SOHO尚都」、「朝外SOHO」和「[光華路SOHO](https://zh.wikipedia.org/wiki/光華路 "wikilink")」；同時，它在北京[長城腳下和](https://zh.wikipedia.org/wiki/長城 "wikilink")[海南省](../Page/海南省.md "wikilink")[博鼇分別開發建設了全球知名前衛建築專案](https://zh.wikipedia.org/wiki/博鼇 "wikilink")「[長城腳下的公社](https://zh.wikipedia.org/wiki/長城腳下的公社 "wikilink")」和「博鼇凱賓斯基」等，並開發了「[三里屯SOHO](https://zh.wikipedia.org/wiki/三里屯 "wikilink")」及朝陽門SOHO。SOHO中國在過去一直視中國北京市作為它的唯一參與開發的地區，但直至2009年成功收購了在上海[南京西路的SOHO東海廣場後](https://zh.wikipedia.org/wiki/南京西路 "wikilink")，公司已經漸由北京進入中國最大的商業城市[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。SOHO中國的主要核心理念是"只在最高端的城市開發高檔物業"，並且奉行獨特的整套開發但散售模式，SOHO中國同時也是中國內地其中一間具一流銷售能力的房地產開發商。

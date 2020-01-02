@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu发行版列表](https://zh.wikipedia.org/wiki/Ubuntu发行版列表)转换而来。
+
+
 **Ubuntu发行版**由[Ubuntu](../Page/Ubuntu.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的开发者[Canonical有限公司每隔半年发行](https://zh.wikipedia.org/wiki/Canonical有限公司 "wikilink")，用年和月来表示[版本号](https://zh.wikipedia.org/wiki/软件版本 "wikilink")。例如Ubuntu发行版的第一个版本Ubuntu 4.10即发行于2004年10月20日。\[1\]\[2\]
 
 ## 命名规则

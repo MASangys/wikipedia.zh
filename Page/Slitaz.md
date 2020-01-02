@@ -1,3 +1,6 @@
+> 本文内容由[Slitaz](https://zh.wikipedia.org/wiki/Slitaz)转换而来。
+
+
 {{ infobox OS | name = SliTaz GNU/Linux | logo = Slitaz-logo.svg | logo_size = 200px | screenshot = Slitaz-4.0.png | screenshot_size = 260px | caption = Slitaz 4.0 桌面 | developer = Christophe Lincoln | family = Linux | source_model = [开放源代码](../Page/开放源代码.md "wikilink") | latest_release_version = 滾動更新 | latest_release_date = | license = 各种 | website = [www.slitaz.org](http://www.slitaz.org/en) | marketing_target = Live CD | language = 多语种 | kernel_type = [整塊性核心](../Page/整塊性核心.md "wikilink") | package_manager = Tazpkg }}
 
 **Slitaz** 是一个免费的[GNU](../Page/GNU.md "wikilink")/[Linux发行版](../Page/Linux发行版.md "wikilink")，它基于[Busybox](https://zh.wikipedia.org/wiki/Busybox "wikilink")、Linux内核和GNU[自由软件](../Page/自由软件.md "wikilink")。 它可以从[光盘或](https://zh.wikipedia.org/wiki/光盘 "wikilink")[USB](../Page/USB.md "wikilink")设备加载，完整地在内存中运行，也可以安装到硬盘中。Slitaz以LiveCD的形式发布，你可以把它刻录到光盘，并从光盘启动。系统运行时，你可以弹出CD，用[CD-ROM](../Page/CD-ROM.md "wikilink")来进行其他工作。LiveCD提供一个特色十足的、图形界面的发行版，可以保存你的数据和个人设置到其他设备中。这个系统可以通过Tazpkg软件包管理器添加软件来增加各种各样的功能，也可以用它升级系统来保持系统最新版本。

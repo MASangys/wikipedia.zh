@@ -1,3 +1,6 @@
+> 本文内容由[Rosenbrock函數](https://zh.wikipedia.org/wiki/Rosenbrock函數)转换而来。
+
+
 [Rosenbrock_function.svg](https://zh.wikipedia.org/wiki/File:Rosenbrock_function.svg "fig:Rosenbrock_function.svg") 在數學[最佳化中](https://zh.wikipedia.org/wiki/最佳化 "wikilink")，**Rosenbrock函數**是一個用來測試最佳化[演算法性能的非凸函数](https://zh.wikipedia.org/wiki/演算法 "wikilink")，由Howard Harry Rosenbrock在1960年提出\[1\]。也稱為**Rosenbrock山谷**或**Rosenbrock香蕉函數**，也簡稱為**香蕉函數**。
 
 Rosenbrock函數的定義如下：

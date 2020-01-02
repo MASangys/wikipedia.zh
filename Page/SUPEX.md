@@ -1,3 +1,6 @@
+> 本文内容由[SUPEX](https://zh.wikipedia.org/wiki/SUPEX)转换而来。
+
+
 **SUPEX**是指“Super Excellent水平”，是人的能力所能达到的最高水平。SUPEX是韩国第三大企业[鲜京集团](https://zh.wikipedia.org/wiki/鲜京集团 "wikilink")（现称SK集团）的系统化经营理论——SKMS的核心内容。
 
 ## SUPEX目标／实施战略

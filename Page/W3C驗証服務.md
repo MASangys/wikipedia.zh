@@ -1,3 +1,6 @@
+> 本文内容由[W3C驗証服務](https://zh.wikipedia.org/wiki/W3C驗証服務)转换而来。
+
+
 [Valid_XHTML_1.0.svg](https://zh.wikipedia.org/wiki/File:Valid_XHTML_1.0.svg "fig:Valid_XHTML_1.0.svg") [Valid_CSS.svg](https://zh.wikipedia.org/wiki/File:Valid_CSS.svg "fig:Valid_CSS.svg")
 
 由**[万维网联盟](../Page/万维网联盟.md "wikilink")（W3C）提供的驗證服務**可以為[互聯網用戶檢查](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[HTML](../Page/HTML.md "wikilink")文件是否符合[HTML](../Page/HTML.md "wikilink")或[XHTML](../Page/XHTML.md "wikilink")標準。這可以向網頁設計師提供快速檢查網頁錯誤的方法。\[1\]

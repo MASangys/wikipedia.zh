@@ -1,3 +1,6 @@
+> 本文内容由[NovaLogic](https://zh.wikipedia.org/wiki/NovaLogic)转换而来。
+
+
 **Novalogic**是成立於1985年的軟體開發商和出版商。總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州Agoura](https://zh.wikipedia.org/wiki/加州 "wikilink") Hills，目前公司的執行長是John A. Garcia。
 
   - Novalogic最知名的遊戲為[三角洲部隊一系列的遊戲](https://zh.wikipedia.org/wiki/三角洲部隊_\(遊戲\) "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[X射线](https://zh.wikipedia.org/wiki/X射线)转换而来。
+
+
 [Laprascopy-Roentgen.jpg](https://zh.wikipedia.org/wiki/File:Laprascopy-Roentgen.jpg "fig:Laprascopy-Roentgen.jpg")時的X射線影像图\]\]
 
 **-{zh:X射线;zh-hans:X射线;zh-hant:X射線;zh-cn:X射线;zh-tw:X射線;zh-hk:X光;zh-mo:X射线}-**（），又被称为**爱克斯射线**、**艾克斯射线**、**伦琴射线**或**-{zh:X光;zh-hans:X光;zh-hant:X光;zh-cn:X光;zh-tw:X光;zh-hk:X射線;zh-mo:X光}-**，是一种[波长](../Page/波长.md "wikilink")范围在0.01[纳米](../Page/纳米.md "wikilink")到10纳米之间（对应频率范围30 [PHz到](../Page/赫兹.md "wikilink")30[EHz](../Page/赫兹.md "wikilink")）的[电磁辐射形式](https://zh.wikipedia.org/wiki/电磁辐射 "wikilink")。X射线最初用于[医学成像诊断和](https://zh.wikipedia.org/wiki/医学成像 "wikilink")[X射线结晶学](https://zh.wikipedia.org/wiki/X光散射技術 "wikilink")。X射线也是[游離輻射](../Page/游離輻射.md "wikilink")等这一类对人体有危害的射线。 [替代=人体肺部的X射线](https://zh.wikipedia.org/wiki/File:Lung_X-Ray.jpg "fig:替代=人体肺部的X射线") X射線[波長範圍在較短處與](https://zh.wikipedia.org/wiki/波長 "wikilink")[伽馬射線較長處重疊](https://zh.wikipedia.org/wiki/伽馬射線 "wikilink")。

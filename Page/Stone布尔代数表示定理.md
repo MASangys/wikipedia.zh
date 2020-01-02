@@ -1,3 +1,6 @@
+> 本文内容由[Stone布尔代数表示定理](https://zh.wikipedia.org/wiki/Stone布尔代数表示定理)转换而来。
+
+
 在[数学](../Page/数学.md "wikilink")中，**斯通氏布尔代数表示定理**声称所有[布尔代数](../Page/布尔代数.md "wikilink")都[同构](../Page/同构.md "wikilink")于[集合域](../Page/集合域.md "wikilink")。这个定理是深入理解在二十世纪上半叶所拓展的[布尔代数](../Page/布尔代数.md "wikilink")的基础。这个定理首先由[斯通氏](https://zh.wikipedia.org/wiki/马歇尔·哈维·斯通 "wikilink")（1936年）证明，并以他的姓氏命名。斯通氏通过他对[希尔伯特空间](../Page/希尔伯特空间.md "wikilink")上的[算子的](https://zh.wikipedia.org/wiki/线性算子 "wikilink")[谱理论的研究而得出了它](https://zh.wikipedia.org/wiki/谱理论 "wikilink")。
 
 ## 定理

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Messenger](https://zh.wikipedia.org/wiki/Windows_Messenger)转换而来。
+
+
 **Windows Messenger**是微软公司开发的[即时消息](https://zh.wikipedia.org/wiki/即时消息 "wikilink")[客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")，內建於[Windows XP中](../Page/Windows_XP.md "wikilink")。能够同时登录到[SIP和](https://zh.wikipedia.org/wiki/SIP "wikilink")[.NET Messenger Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")。從版本5開始，它能在[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP和](../Page/Windows_XP.md "wikilink")[Windows Server 2003中运行](../Page/Windows_Server_2003.md "wikilink")，但不包括[Windows Vista](../Page/Windows_Vista.md "wikilink")。
 
 Windows Messenger與[Windows Live Messenger](../Page/Windows_Live_Messenger.md "wikilink")（前稱MSN Messenger）是不同的，縱使名稱相似。後者可以從微軟的網站下載。此外，Windows Messenger與[信差服務並沒有關係](https://zh.wikipedia.org/wiki/信差服務 "wikilink")，後者是[Windows NT的](../Page/Windows_NT.md "wikilink")[LAN Manager組件中的一部分](https://zh.wikipedia.org/wiki/LAN_Manager "wikilink")。

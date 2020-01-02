@@ -1,3 +1,6 @@
+> 本文内容由[Zing](https://zh.wikipedia.org/wiki/Zing)转换而来。
+
+
 **Zing**是越南[网络游戏](../Page/网络游戏.md "wikilink")公司[VinaGame](../Page/VinaGame.md "wikilink")推出的越南语[门户网站](../Page/门户网站.md "wikilink")，包括搜索引挚、新闻信息、互动社区、[娱乐产品和基础服务的大型综合](https://zh.wikipedia.org/wiki/娱乐 "wikilink")[门户网站](../Page/门户网站.md "wikilink")。**Zing**服务于越南人用户，是越南目前最大的[娱乐性和互动性的互联网媒体服务](https://zh.wikipedia.org/wiki/娱乐 "wikilink")。经过两个月内测，**Zing**门户网站正式发布于2008年1月19日。
 
 **Zing.vn**发布之后，该网站流量快速升高。根据[Alexa](https://zh.wikipedia.org/wiki/Alexa "wikilink")2008年1月19日的[网络排名数据](https://zh.wikipedia.org/wiki/网络排名 "wikilink")，**Zing.vn**目前在越南排名第五，在全球排名第252。

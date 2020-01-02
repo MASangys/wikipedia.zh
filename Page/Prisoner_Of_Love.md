@@ -1,3 +1,6 @@
+> 本文内容由[Prisoner Of Love](https://zh.wikipedia.org/wiki/Prisoner_Of_Love)转换而来。
+
+
 《**Prisoner of Love**》是[宇多田光](../Page/宇多田光.md "wikilink")第21張單曲，以數碼下載與CD+DVD兩形式發售。
 
 ## 簡介

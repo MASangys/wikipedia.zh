@@ -1,3 +1,6 @@
+> 本文内容由[S.N.G](https://zh.wikipedia.org/wiki/S.N.G)转换而来。
+
+
 《**S.N.G**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[周湯豪](../Page/周湯豪.md "wikilink")的第二張大碟，也是他由[華納唱片轉投](https://zh.wikipedia.org/wiki/華納唱片_\(台灣\) "wikilink")[金牌大風後睽違兩年推出的首張專輯](../Page/金牌大風_\(台灣\).md "wikilink")。專輯於2012年5月15日開始預購，5月30日發行\[1\]。
 
 專輯第一主打歌《S.N.G》是台灣[偶像劇](../Page/偶像劇.md "wikilink")《[粉愛粉愛你](../Page/粉愛粉愛你.md "wikilink")》的插曲《Super Nice Girl》之R\&B抒情版本，在5月10日首播\[2\]。

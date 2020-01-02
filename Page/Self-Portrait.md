@@ -1,3 +1,6 @@
+> 本文内容由[Self-Portrait](https://zh.wikipedia.org/wiki/Self-Portrait)转换而来。
+
+
 **《Self-Portrait》**為[林峯第六張個人粵語專輯](https://zh.wikipedia.org/wiki/林峯 "wikilink")（亦為第七張個人專輯），此專輯於2012年8月17日推出發行，隨碟附送4首Music Video。
 
 ## 曲目列表

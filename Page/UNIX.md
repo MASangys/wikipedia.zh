@@ -1,3 +1,6 @@
+> 本文内容由[UNIX](https://zh.wikipedia.org/wiki/UNIX)转换而来。
+
+
 **UNIX**，一种多用户、多进程的计算机[操作系统](../Page/操作系统.md "wikilink")，源自于从20世纪70年代开始在美国[AT\&T](../Page/AT&T.md "wikilink")公司的[贝尔实验室](../Page/贝尔实验室.md "wikilink")开发的 [AT＆T](../Page/AT&T.md "wikilink") Unix 。
 
 ## 簡介

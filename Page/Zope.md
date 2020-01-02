@@ -1,3 +1,6 @@
+> 本文内容由[Zope](https://zh.wikipedia.org/wiki/Zope)转换而来。
+
+
 **Zope**是一个以[Python](../Page/Python.md "wikilink")编写的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、[面向对象的](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")[Web应用服务器](../Page/万维网.md "wikilink")。Zope代表着“Z对象发布环境（*Z Object Publishing Environment*）”，并且是第一个系统使用了新的通用对象发布方法的框架。\[1\]\[2\]Zope已经被认为是一个[Python](../Page/Python.md "wikilink")的杀手级应用，一个帮助Python走到聚光灯下的应用。\[3\]
 
 在过去的几年中，Zope社区发布了几个不同类型的[Web框架](https://zh.wikipedia.org/wiki/Web框架 "wikilink")，但是他们应用相同的哲学、人生和源代码。Zope 2仍是应用最广泛的框架，这主要得益于[Plone](../Page/Plone.md "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")运行于Zope 2之上。[BlueBream](https://zh.wikipedia.org/wiki/BlueBream "wikilink")（早先被称作Zope 3）应用较Zope 2少，但也有许多网站运行于其上，包括[Launchpad](https://zh.wikipedia.org/wiki/Launchpad "wikilink")。[Grok以对程序员更加友好的框架的目标开发](https://zh.wikipedia.org/wiki/Grok "wikilink")。在2009年[BFG以Zope](https://zh.wikipedia.org/wiki/BFG "wikilink") principles为基础的minimalistic framework受到Zope社区的注意。

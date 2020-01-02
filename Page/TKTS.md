@@ -1,3 +1,6 @@
+> 本文内容由[TKTS](https://zh.wikipedia.org/wiki/TKTS)转换而来。
+
+
 [TKTS_47_st_jeh.JPG](https://zh.wikipedia.org/wiki/File:TKTS_47_st_jeh.JPG "fig:TKTS_47_st_jeh.JPG") **TKTS**是販售[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[百老匯音樂劇和](https://zh.wikipedia.org/wiki/百老匯音樂劇 "wikilink")[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[音樂劇的售票亭](https://zh.wikipedia.org/wiki/倫敦西區_\(劇院\) "wikilink")，提供25%至50%之間的折扣，因此經常大排長龍。
 
 ## 紐約市的TKTS

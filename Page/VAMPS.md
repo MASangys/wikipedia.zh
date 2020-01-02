@@ -1,3 +1,6 @@
+> 本文内容由[VAMPS](https://zh.wikipedia.org/wiki/VAMPS)转换而来。
+
+
 **VAMPS**，為一個日本搖滾樂團。2008年由[L'Arc\~en\~Ciel](https://zh.wikipedia.org/wiki/L'Arc~en~Ciel "wikilink")（彩虹樂團）的主唱**[HYDE](https://zh.wikipedia.org/wiki/Hyde "wikilink")**和（末日之塵）的吉他手**K.A.Z**所組成，團名取自「[吸血鬼](../Page/吸血鬼.md "wikilink")」（VAMPIRES）之意。2008年7月2日發行首張單曲《LOVE ADDICT》。
 
 ## 概述

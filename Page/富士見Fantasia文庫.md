@@ -1,3 +1,6 @@
+> 本文内容由[富士見Fantasia文庫](https://zh.wikipedia.org/wiki/富士見Fantasia文庫)转换而来。
+
+
 **富士見Fantasia文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[富士見書房](../Page/富士見書房.md "wikilink")發行的[輕小說](../Page/輕小說.md "wikilink")[文庫](../Page/文庫.md "wikilink")。1988年和《[月刊Dragon Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一同創刊，主要讀者為10多歲的國高中生，從創刊當初便發行了眾多以[奇幻世界為舞台的](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。現在和[電擊文庫](../Page/電擊文庫.md "wikilink")、[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")並列為[角川集團](../Page/角川集團.md "wikilink")的輕小說主力文庫。發行的第一部作品是[田中芳樹](../Page/田中芳樹.md "wikilink")著。
 
 雖然以「Fantasia」為名，但題材並不侷限於奇幻類型，亦出版許多以現代與其他世界為舞台的書籍。

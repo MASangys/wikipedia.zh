@@ -1,3 +1,6 @@
+> 本文内容由[XLR端子](https://zh.wikipedia.org/wiki/XLR端子)转换而来。
+
+
 [Xlr-connectors.jpg](https://zh.wikipedia.org/wiki/File:Xlr-connectors.jpg "fig:Xlr-connectors.jpg")
 
 **XLR端子**是影音器材中常見的端子，經常用於連接專業影音器材和[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")。一般家用影音器材常使用[RCA端子](../Page/RCA端子.md "wikilink")傳送由[前級放大器產生的](https://zh.wikipedia.org/wiki/前級放大器 "wikilink")[Line level訊號](https://zh.wikipedia.org/wiki/Line_level "wikilink")。[TRS端子](../Page/TRS端子.md "wikilink")也在家用及電腦用的麥克風中應用到。

@@ -1,3 +1,6 @@
+> 本文内容由[What a beautiful moment](https://zh.wikipedia.org/wiki/What_a_beautiful_moment)转换而来。
+
+
 《**What a beautiful moment**》是[ZARD](../Page/ZARD.md "wikilink")出道13年來第一次，也是唯一一次巡迴演唱會的DVD作品。發行日期為2005年6月8日。
 
 ## 内容

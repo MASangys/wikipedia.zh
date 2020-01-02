@@ -1,3 +1,6 @@
+> 本文内容由[SSE2](https://zh.wikipedia.org/wiki/SSE2)转换而来。
+
+
 **SSE2**，全名為**Streaming SIMD Extensions 2**，是一種[IA-32架構的](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")（單一指令多重資料）[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")。SSE2是在 2001年隨著[Intel發表第一代](https://zh.wikipedia.org/wiki/Intel "wikilink")[Pentium 4處理器也一併推出的指令集](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")。它延伸較早的[SSE](../Page/SSE.md "wikilink")指令集，而且可以完全取代[MMX](../Page/MMX.md "wikilink")指令集。在2004年，Intel 再度擴展了SSE2指令為 SSE3 指令集。與 70 條指令的 SSE 相比，SSE2新增了144條指令。在2003年，[AMD也在發布](https://zh.wikipedia.org/wiki/AMD "wikilink")[AMD64的](https://zh.wikipedia.org/wiki/AMD64 "wikilink")64位元處理器時跟進SSE2指令集。
 
 ## SSE2的更動

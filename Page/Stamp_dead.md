@@ -1,3 +1,6 @@
+> 本文内容由[Stamp dead](https://zh.wikipedia.org/wiki/Stamp_dead)转换而来。
+
+
 《**Stamp dead**》（スタンプ・デッド）是撰寫，插畫的[輕小說](../Page/輕小說.md "wikilink")作品。
 
 第一回史克威爾艾尼克斯小說大賞入選作品。小說投稿比賽時的標題為《》。得獎後由[史克威爾艾尼克斯出版](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[大熊座I矮星系](https://zh.wikipedia.org/wiki/大熊座I矮星系)转换而来。
+
+
 {{ Galaxy | | image = | name = 大熊座I矮星系 | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | type = dSph | ra = \[1\] | dec = \[2\] | dist_ly = 330[kly](../Page/光年.md "wikilink") (100 [kpc](../Page/秒差距.md "wikilink")) | z = | appmag_v = | size_v = | constellation name = [大熊座](../Page/大熊座.md "wikilink") | notes = | names = UMa dwarf,\[3\] Ursa Major dSph\[4\] }}
 
 **大熊座I矮星系**（**UMa I dSph**）是[銀河系的衛星星系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，分類上屬於[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，由[貝絲等人在](https://zh.wikipedia.org/wiki/Beth_Willman "wikilink")2005年宣布此一發現。

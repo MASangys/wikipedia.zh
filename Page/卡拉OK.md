@@ -1,3 +1,6 @@
+> 本文内容由[卡拉OK](https://zh.wikipedia.org/wiki/卡拉OK)转换而来。
+
+
 [卡拉OK.jpg](https://zh.wikipedia.org/wiki/File:卡拉OK.jpg "fig:卡拉OK.jpg")
 
 **卡拉OK**（）是 源自[日本](../Page/日本.md "wikilink")的娛樂性質[歌唱活動](https://zh.wikipedia.org/wiki/歌唱 "wikilink")，通常是在播放預錄在[錄影帶之類儲存媒介上](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")、沒有主唱人聲的[音樂伴奏同時](https://zh.wikipedia.org/wiki/音樂 "wikilink")，在[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[螢幕上同步播放有著節拍提示的歌詞](https://zh.wikipedia.org/wiki/螢幕 "wikilink")，然後由參與者邊看著歌詞邊持[麥克風歌唱](https://zh.wikipedia.org/wiki/麥克風 "wikilink")。其日語原名意為「無人樂隊」。自從1971年[井上大佑發明了最早的音樂伴唱帶之後](https://zh.wikipedia.org/wiki/井上大佑 "wikilink")，它已成為現今最受歡迎的大眾休閒娛樂方式之一。

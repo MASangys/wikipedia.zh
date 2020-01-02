@@ -1,3 +1,6 @@
+> 本文内容由[NESMITH](https://zh.wikipedia.org/wiki/NESMITH)转换而来。
+
+
 **NESMITH** （），[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE THE SECOND的主唱兼表演者](../Page/EXILE_THE_SECOND.md "wikilink")。
 
 [熊本縣](../Page/熊本縣.md "wikilink")[熊本市](../Page/熊本市.md "wikilink")出身。身高181cm。

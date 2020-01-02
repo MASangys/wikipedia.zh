@@ -1,3 +1,6 @@
+> 本文内容由[O\'zbekiston型電力機車](https://zh.wikipedia.org/wiki/O\'zbekiston型電力機車)转换而来。
+
+
 **O'zbekiston型電力機車**是[烏茲別克斯坦国家鐵路从中国进口的](https://zh.wikipedia.org/wiki/烏茲別克斯坦 "wikilink")[電力機車](../Page/電力機車.md "wikilink")車型之一，由[中国南车集团](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")[株洲电力机车厂和](https://zh.wikipedia.org/wiki/南车株洲电力机车 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[西门子交通集团聯合设计制造](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")。O'zbekiston型電力機車为交流传动的客货运通用电力机车，主传动系统和控制系统方面采用了西门子公司的产品，并借鉴了[中国铁路](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[DJ1型电力机车](../Page/DJ1型电力机车.md "wikilink")的成熟技术；机车持续功率为6000千瓦，最高速度为120公里/小时。
 
 ## 发展历史

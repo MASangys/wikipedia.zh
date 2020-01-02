@@ -1,3 +1,6 @@
+> 本文内容由[NHK交響樂團](https://zh.wikipedia.org/wiki/NHK交響樂團)转换而来。
+
+
 **公益財團法人NHK交響樂團**（，）是[日本](../Page/日本.md "wikilink")一家[管弦樂團](../Page/管弦樂團.md "wikilink")，簡稱「**N響**」，總部位於[東京都](../Page/東京都.md "wikilink")[港区](../Page/港區_\(東京都\).md "wikilink")[高輪](../Page/高輪.md "wikilink")二丁目16番49號。NHK交響樂團成立於1926年10月5日，最初的名字是「新交響樂團」，是日本第一家專業交響樂團。後來更名為「日本交響樂團」。1951年，該樂團開始接受[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的支援，并更名為現在的名稱。
 
 知名[指揮家](https://zh.wikipedia.org/wiki/指揮家 "wikilink")[小澤征爾曾經是NHK交響樂團的指揮](https://zh.wikipedia.org/wiki/小澤征爾 "wikilink")，但在1962年小澤與NHK交響樂團之間發生衝突，雖然經由作曲家[黛敏郎](../Page/黛敏郎.md "wikilink")從中斡旋，NHK副理事[阿部真之助與小澤於](https://zh.wikipedia.org/wiki/阿部真之助 "wikilink")1963年1月17日會談，雙方達成和解，但小澤也因此離開該樂團。直到1995年1月23日，小澤才重新站上NHK交響樂團的指揮台為樂團指揮，哀悼[阪神大地震](../Page/阪神大地震.md "wikilink")罹難者。

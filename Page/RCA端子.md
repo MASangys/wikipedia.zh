@@ -1,3 +1,6 @@
+> 本文内容由[RCA端子](https://zh.wikipedia.org/wiki/RCA端子)转换而来。
+
+
 [Cinch-Buchse.jpg](https://zh.wikipedia.org/wiki/File:Cinch-Buchse.jpg "fig:Cinch-Buchse.jpg") [Cinch-adapter.jpg](https://zh.wikipedia.org/wiki/File:Cinch-adapter.jpg "fig:Cinch-adapter.jpg") **RCA端子**（**RCA jack**，或**RCA connector**），俗称**梅花头**、**莲花头**，是一种应用广泛的端子，可以应用的场合包括模拟视频/音频（例：[AV端子](../Page/AV端子.md "wikilink")(三色線)）、数字音频（例：[S/PDIF](https://zh.wikipedia.org/wiki/S/PDIF "wikilink")）与色差分量（例：[色差端子](../Page/色差端子.md "wikilink")）传输等。
 
 ## 用途

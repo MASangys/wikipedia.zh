@@ -1,3 +1,6 @@
+> 本文内容由[Netcat](https://zh.wikipedia.org/wiki/Netcat)转换而来。
+
+
 **netcat**是個[计算机网络](../Page/计算机网络.md "wikilink")公用程式，用來對網路連線[TCP或者](https://zh.wikipedia.org/wiki/TCP "wikilink")[UDP進行讀寫](https://zh.wikipedia.org/wiki/UDP "wikilink")。
 
 netcat 在2001年insecure.org對[nmap用戶郵件列表舉辦的投票被推選為第二有用的網路保全工具](https://zh.wikipedia.org/wiki/nmap "wikilink")\[1\]。2003年投票結果是第四名\[2\]；2006年的投票繼續穩佔同樣第四名寶座。\[3\]

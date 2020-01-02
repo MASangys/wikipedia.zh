@@ -1,3 +1,6 @@
+> 本文内容由[QtScript](https://zh.wikipedia.org/wiki/QtScript)转换而来。
+
+
 **QtScript**是一個[Qt](../Page/Qt.md "wikilink") 4.3.0及以後版本的腳本引擎。
 
 這個腳本語言是基於[ECMAScript](../Page/ECMAScript.md "wikilink")語言，ECMA-262標準。該函式庫包含引擎，和一個[C++](../Page/C++.md "wikilink")的API作為執行QtScript代碼和創建自定的QObject衍生C++類別，作為QtScript使用。

@@ -1,3 +1,6 @@
+> 本文内容由[Swiftweasel](https://zh.wikipedia.org/wiki/Swiftweasel)转换而来。
+
+
 **Swiftweasel**是一個[Mozilla Firefox的衍生版本](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，不過並未使用其標誌。它為各個硬體平台進行了優化，目前為止只在Linux上可用。
 
 Swiftweasel在[Mozilla Public License許可協議下釋出](https://zh.wikipedia.org/wiki/Mozilla_Public_License "wikilink")，是一個[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Windows DNA](https://zh.wikipedia.org/wiki/Windows_DNA)转换而来。
+
+
 **Windows DNA**（）是[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows NT與](../Page/Windows_NT.md "wikilink")[Windows 2000時期](../Page/Windows_2000.md "wikilink")，配合當時的[Microsoft BackOffice以及](../Page/Microsoft_Servers.md "wikilink")[COM](https://zh.wikipedia.org/wiki/COM "wikilink")、[MTS](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")、[COM+](../Page/COM+.md "wikilink")等技術所規劃的[分散式應用程式](../Page/分散式應用程式.md "wikilink")（Distributed Application）開發架構，使用的是，在[Microsoft .NET出現後逐漸淡出市場](https://zh.wikipedia.org/wiki/Microsoft_.NET "wikilink")。
 
 ## 成員

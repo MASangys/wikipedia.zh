@@ -1,3 +1,6 @@
+> 本文内容由[TBS週六晚間八點連續劇](https://zh.wikipedia.org/wiki/TBS週六晚間八點連續劇)转换而来。
+
+
 **TBS週六晚間八點連續劇系列**（），簡稱「**土八**」，是[日本](../Page/日本.md "wikilink")[TBS電視於每星期六晚間](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")7點56分至8點54分（[日本標準時間](../Page/日本標準時間.md "wikilink")）播出的[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[連續劇檔次](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。《[震撼鮮師](../Page/震撼鮮師.md "wikilink")》播畢後廢止此電視劇時段。
 
 ## 作品列表

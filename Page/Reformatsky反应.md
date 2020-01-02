@@ -1,3 +1,6 @@
+> 本文内容由[Reformatsky反应](https://zh.wikipedia.org/wiki/Reformatsky反应)转换而来。
+
+
 **雷福尔马茨基反应**（**Reformatsky反应**、**Reformatskii反应**）是[醛](../Page/醛.md "wikilink")或[酮](../Page/酮.md "wikilink")与α-卤代酸[酯](../Page/酯.md "wikilink")和[锌](../Page/锌.md "wikilink")在惰性溶剂中作用，发生[缩合得到β](https://zh.wikipedia.org/wiki/缩合 "wikilink")-[羟基](../Page/羟基.md "wikilink")酸酯的反应\[1\]\[2\]。 它首先由俄国化学家[雷福尔马茨基发现](https://zh.wikipedia.org/wiki/雷福尔马茨基 "wikilink")。
 
 [Reformatsky_Reaktion_Übersicht1.svg](https://zh.wikipedia.org/wiki/File:Reformatsky_Reaktion_Übersicht1.svg "fig:Reformatsky_Reaktion_Übersicht1.svg")

@@ -1,3 +1,6 @@
+> 本文内容由[天龍座CN](https://zh.wikipedia.org/wiki/天龍座CN)转换而来。
+
+
 **天龍座CN**，又名**BD+68 1082**，**HD 187764**、**SAO 18530**、**HR 7563**，是[天龍座的一颗恒星](https://zh.wikipedia.org/wiki/天龍座 "wikilink")\[1\]\[2\]，视星等为6.34，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")100.58，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")20.24，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

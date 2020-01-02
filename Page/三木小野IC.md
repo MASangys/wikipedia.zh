@@ -1,3 +1,6 @@
+> 本文内容由[三木小野IC](https://zh.wikipedia.org/wiki/三木小野IC)转换而来。
+
+
 **三木小野IC**（平假名：みきおのインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[三木市](../Page/三木市.md "wikilink")的[山陽自動車道](../Page/山陽自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

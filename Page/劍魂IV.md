@@ -1,3 +1,6 @@
+> 本文内容由[劍魂IV](https://zh.wikipedia.org/wiki/劍魂IV)转换而来。
+
+
 是[Namco 魂之系列的第五款遊戲](https://zh.wikipedia.org/wiki/Namco_魂之系列 "wikilink")，同時也是該系列中，第一款支援網路連線的遊戲，除了可以讓玩家藉由PlayStation Network或Xbox Live的服務，進行線上的對戰，另可藉由線上服務，進行遊戲內容的更新。
 
 本遊戲最先於2008年7月29日，在[北美洲](../Page/北美洲.md "wikilink")、[台灣先行發布](https://zh.wikipedia.org/wiki/台灣 "wikilink")，其後，才在[日本](../Page/日本.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[紐西蘭等地發行](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")。

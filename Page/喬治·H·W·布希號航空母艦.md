@@ -1,3 +1,6 @@
+> 本文内容由[喬治·H·W·布希號航空母艦](https://zh.wikipedia.org/wiki/喬治·H·W·布希號航空母艦)转换而来。
+
+
 [CVN-77-Bush.jpg](https://zh.wikipedia.org/wiki/File:CVN-77-Bush.jpg "fig:CVN-77-Bush.jpg")
 
 **喬治·H·W·布希號航空母艦**（**USS George H.W. Bush CVN-77**）是一艘[美國海軍](../Page/美國海軍.md "wikilink")所建造與使用的[核子動力](https://zh.wikipedia.org/wiki/核能 "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，是[尼米茲級核動力航空母艦第十號艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")。喬治·H·W·布希號除了是尼米茲級的最後一艘新艦外，也是美國海軍目前正在建造[福特級核動力航空母艦之前的過渡艦隻](https://zh.wikipedia.org/wiki/福特級核動力航空母艦 "wikilink")，因此有別於尼米茲級的其他姊妹艦，布希號無論是在動力系統還是武裝設備上，都有相當程度的改進。

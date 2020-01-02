@@ -1,3 +1,6 @@
+> 本文内容由[X](https://zh.wikipedia.org/wiki/X)转换而来。
+
+
 **X**, **x** （[英文](../Page/英语.md "wikilink")：ex；中文音译：亞克斯）是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第24个[字母](../Page/字母.md "wikilink")。在[北约音标字母](../Page/北约音标字母.md "wikilink")中使用*X-Ray*来表示X。
 
 /ks/音在古代的西部希腊语中用“Χ”（Chi）字母来表示；而在古代的东部希腊语中用“Ξ”（Xi）字母来表示，“Χ”（Chi）字母只表示/x/。

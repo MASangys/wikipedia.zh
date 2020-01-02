@@ -1,3 +1,6 @@
+> 本文内容由[Over the rain ～發亮的橋～](https://zh.wikipedia.org/wiki/Over_the_rain_～發亮的橋～)转换而来。
+
+
 「**Over the rain ～發亮的橋～**」（）是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")2張[配信限定](https://zh.wikipedia.org/wiki/數位下載 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説

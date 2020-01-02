@@ -1,3 +1,6 @@
+> 本文内容由[Symfony](https://zh.wikipedia.org/wiki/Symfony)转换而来。
+
+
 **Symfony**是一款基于[MVC](../Page/MVC.md "wikilink")架构的[PHP](../Page/PHP.md "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")。它是一款免费软件，在[MIT License许可下发行](https://zh.wikipedia.org/wiki/MIT_License "wikilink")。2005年10月18日，其官方网站symfony-project.com对外开放。2011年Symfony2正式发布，随即启用全新的官方网站symfony.com。\[1\]
 
 ## 目标

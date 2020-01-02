@@ -1,3 +1,6 @@
+> 本文内容由[Romance Privacy](https://zh.wikipedia.org/wiki/Romance_Privacy)转换而来。
+
+
 「**Romance Privacy**」（）是[French Kiss的第](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年7月18日由[avex Entertainment Inc.發行](https://zh.wikipedia.org/wiki/avex_Entertainment_Inc. "wikilink")。
 
 ## 概要

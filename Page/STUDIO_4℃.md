@@ -1,3 +1,6 @@
+> 本文内容由[STUDIO 4℃](https://zh.wikipedia.org/wiki/STUDIO_4℃)转换而来。
+
+
 **STUDIO4℃**是日本一家以[动画](../Page/动画.md "wikilink")为主体的主要从事影像作品设计與制作的公司。
 
 从事[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")、[CM](https://zh.wikipedia.org/wiki/电视广告 "wikilink")、宣传影像、游戏CG、[电影](../Page/电影.md "wikilink")等方面的制作。由田中榮子、[森本晃司](../Page/森本晃司.md "wikilink")於1986年5月2日创立。1999年12月24日、「STUDIO4℃有限公司」正式成立、2007年按照日本新法律以股份有限公司登记并更名。

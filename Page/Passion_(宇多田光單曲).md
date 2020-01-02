@@ -1,3 +1,6 @@
+> 本文内容由[Passion \(宇多田光單曲\)](https://zh.wikipedia.org/wiki/Passion_\(宇多田光單曲\))转换而来。
+
+
 《**Passion**》是[宇多田光](../Page/宇多田光.md "wikilink")第15張日語單曲，於2005年12月14日發行，初動5萬張，累計銷售11萬張。
 
 本曲的英文版為《Sanctuary》，為[王國之心 II全球版的主題曲](https://zh.wikipedia.org/wiki/王國之心_II "wikilink")。

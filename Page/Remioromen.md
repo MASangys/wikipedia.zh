@@ -1,3 +1,6 @@
+> 本文内容由[Remioromen](https://zh.wikipedia.org/wiki/Remioromen)转换而来。
+
+
 **Remioromen**（；[台灣譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**雷密歐羅曼**）是於2000年結成的[日本](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")。所屬事務所是有限公司[烏龍舍](https://zh.wikipedia.org/wiki/烏龍舍 "wikilink")，所屬[唱片公司](../Page/唱片公司.md "wikilink")是[OORONG RECORDS](https://zh.wikipedia.org/wiki/OORONG_RECORDS "wikilink")。成員包括了[藤卷亮太](https://zh.wikipedia.org/wiki/藤卷亮太 "wikilink")、[前田啟介](https://zh.wikipedia.org/wiki/前田啟介 "wikilink")、[神宮司治三人](https://zh.wikipedia.org/wiki/神宮司治 "wikilink")。三名成員均是[山梨縣出身](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。
 
 ## 成員

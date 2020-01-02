@@ -1,3 +1,6 @@
+> 本文内容由[七龍珠GT](https://zh.wikipedia.org/wiki/七龍珠GT)转换而来。
+
+
 《**七龍珠GT**》（，，簡稱：DBGT），是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明](../Page/鳥山明.md "wikilink")漫畫《[七龍珠](https://zh.wikipedia.org/wiki/七龍珠 "wikilink")》，在1996年2月7日到1997年11月19日播放的原創[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，這是七龍珠動畫版最後的延續故事，故事發生在《[七龍珠Z](../Page/七龍珠Z.md "wikilink")》故事結束的五年後。
 
 此外，在播放期間1997年3月26日插入一集特別篇《七龍珠GT 悟空外傳\!勇氣的證明是四星球》（）。

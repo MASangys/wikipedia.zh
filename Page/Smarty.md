@@ -1,3 +1,6 @@
+> 本文内容由[Smarty](https://zh.wikipedia.org/wiki/Smarty)转换而来。
+
+
 **Smarty**是一個[PHP](../Page/PHP.md "wikilink")下的[網頁模板系統](https://zh.wikipedia.org/wiki/網頁模板 "wikilink")。Smarty基本上是一種為了將不同考量的事情分離而推出的工具，這對某些應用程式是一種共通性設計策略。\[1\]\[2\]
 
 ## 簡介

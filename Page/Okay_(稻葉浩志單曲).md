@@ -1,3 +1,6 @@
+> 本文内容由[Okay \(稻葉浩志單曲\)](https://zh.wikipedia.org/wiki/Okay_\(稻葉浩志單曲\))转换而来。
+
+
 「**Okay**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")的主唱[稻葉浩志](../Page/稻葉浩志.md "wikilink")在[2010年](https://zh.wikipedia.org/wiki/2010年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")發行的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

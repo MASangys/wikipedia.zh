@@ -1,3 +1,6 @@
+> 本文内容由[Square \(組合\)](https://zh.wikipedia.org/wiki/Square_\(組合\))转换而来。
+
+
 **Square**是由趙俊承、何尚謙、李柏煥、何浚尉組成的四人男子組合，2008年[香港](../Page/香港.md "wikilink")出道。
 
 2011年，Square宣佈解散，各成員亦有不同發展。

@@ -1,3 +1,6 @@
+> 本文内容由[只知道你 Never Let Go](https://zh.wikipedia.org/wiki/只知道你_Never_Let_Go)转换而来。
+
+
 **《只知道你 Never Let Go》**是韓國新人男子組合〈[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")〉，於2012年5月15日推出，由「CJ E\&M」所發行的首張單曲。
 
 ## 音樂與錄製

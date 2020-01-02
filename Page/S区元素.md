@@ -1,3 +1,6 @@
+> 本文内容由[S区元素](https://zh.wikipedia.org/wiki/S区元素)转换而来。
+
+
 [right也屬於s區元素](https://zh.wikipedia.org/wiki/FILE:Orbitalblöcke.svg "wikilink")。\]\] **s区元素**主要包括[元素周期表](../Page/元素周期表.md "wikilink")中IA族[元素和IIA族元素](https://zh.wikipedia.org/wiki/元素 "wikilink")，IA族元素包括[氢](../Page/氢.md "wikilink")、[锂](../Page/锂.md "wikilink")、[钠](../Page/钠.md "wikilink")、[钾](../Page/钾.md "wikilink")、[铷](../Page/铷.md "wikilink")、[铯](../Page/铯.md "wikilink")、[钫](../Page/钫.md "wikilink")、[Uue](../Page/Uue.md "wikilink")、Uhe九种元素，由於鈉和鉀等金屬的[氫氧化物是典型的](https://zh.wikipedia.org/wiki/氫氧化物 "wikilink")[鹼](https://zh.wikipedia.org/wiki/鹼 "wikilink")，因此除氢外的这八种元素又称[碱金属](../Page/碱金属.md "wikilink")，IIA族元素包括[铍](../Page/铍.md "wikilink")、[镁](../Page/镁.md "wikilink")、[钙](../Page/钙.md "wikilink")、[锶](../Page/锶.md "wikilink")、[钡](../Page/钡.md "wikilink")、[镭](../Page/镭.md "wikilink")、[Ubn](../Page/Ubn.md "wikilink")、Usn八种元素，由於鈣，鍶，鋇的[氧化物](../Page/氧化物.md "wikilink")之性質介於鹼金屬與[稀土元素之間](https://zh.wikipedia.org/wiki/稀土元素 "wikilink")，因此又称[碱土金属](../Page/碱土金属.md "wikilink")。
 
 由於[氦](../Page/氦.md "wikilink")的[電子排布為](https://zh.wikipedia.org/wiki/電子排布 "wikilink")1s<sup>2</sup>，故被分為s区元素。

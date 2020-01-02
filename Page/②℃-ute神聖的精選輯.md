@@ -1,3 +1,6 @@
+> 本文内容由[②℃-ute神聖的精選輯](https://zh.wikipedia.org/wiki/②℃-ute神聖的精選輯)转换而来。
+
+
 「**②℃-ute神聖的精選輯**」（）是日本的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第2枚精選專輯，於2012年11月21日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

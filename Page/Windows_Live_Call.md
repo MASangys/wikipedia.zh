@@ -1,3 +1,6 @@
+> 本文内容由[Windows Live Call](https://zh.wikipedia.org/wiki/Windows_Live_Call)转换而来。
+
+
 **Windows Live Call**是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows Live服務的一部分](../Page/Windows_Live.md "wikilink")。它被整合到[Windows Live Messenger之中](../Page/Windows_Live_Messenger.md "wikilink")，允許使用者進行「電腦對電腦」和「電腦對電話」間的語音和視訊通話。而[微軟透過和世界各國的電話業者合作](https://zh.wikipedia.org/wiki/微軟 "wikilink")，讓使用者可以藉由[電腦設備](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")、[喇叭以及高速](https://zh.wikipedia.org/wiki/喇叭 "wikilink")[網路便能和世界各地的一般市話進行通話](https://zh.wikipedia.org/wiki/網路 "wikilink")。
 
 Windows Live Call提供了三種方式的通話：

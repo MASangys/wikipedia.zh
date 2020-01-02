@@ -1,3 +1,6 @@
+> 本文内容由[THE八犬傳](https://zh.wikipedia.org/wiki/THE八犬傳)转换而来。
+
+
 『**THE八犬傳**』（原題：）是[曲亭馬琴](../Page/曲亭馬琴.md "wikilink")（瀧澤馬琴）原作的『[南總里見八犬傳](../Page/南總里見八犬傳.md "wikilink")』的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。2005年，發行DVD。
 
 ## THE八犬傳

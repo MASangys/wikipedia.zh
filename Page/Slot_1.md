@@ -1,3 +1,6 @@
+> 本文内容由[Slot 1](https://zh.wikipedia.org/wiki/Slot_1)转换而来。
+
+
 [Pentium_II_front.jpg](https://zh.wikipedia.org/wiki/File:Pentium_II_front.jpg "fig:Pentium_II_front.jpg") **Slot 1**，是[Intel公司于](https://zh.wikipedia.org/wiki/Intel "wikilink")1997年推出的一种[CPU插槽](https://zh.wikipedia.org/wiki/CPU插槽 "wikilink")，使用P6 GTL+[总线](../Page/总线.md "wikilink")协议。
 
 Slot 1有242个引脚，与当时的Intel的[Pentium II一同推出](https://zh.wikipedia.org/wiki/Pentium_II "wikilink")。

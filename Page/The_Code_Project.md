@@ -1,3 +1,6 @@
+> 本文内容由[The Code Project](https://zh.wikipedia.org/wiki/The_Code_Project)转换而来。
+
+
 **The Code Project**，是一個免費公開來源碼的程式設計網站，主要的使用者是Windows平台上的電腦程式設計人員。每一篇文章幾乎都附有來源碼（src）和例子（demo）下載。
 
 ## 語言

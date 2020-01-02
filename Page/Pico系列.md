@@ -1,3 +1,6 @@
+> 本文内容由[Pico系列](https://zh.wikipedia.org/wiki/Pico系列)转换而来。
+
+
 **Pico系列**為[正太動畫的系列作](https://zh.wikipedia.org/wiki/正太 "wikilink")，由NATURAL HIGH公司製作的世界第一個[正太控](../Page/正太控.md "wikilink")成人動畫。\[1\]
 
 ## 作品理念

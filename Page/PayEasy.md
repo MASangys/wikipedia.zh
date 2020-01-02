@@ -1,3 +1,6 @@
+> 本文内容由[PayEasy](https://zh.wikipedia.org/wiki/PayEasy)转换而来。
+
+
 **PayEasy**是台灣最大企業福利網，[B2C購物平台](https://zh.wikipedia.org/wiki/B2C "wikilink")，公司中文名稱為**康迅數位整合股份有限公司**，於2000年4月成立時[資本額為](https://zh.wikipedia.org/wiki/資本額 "wikilink")[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")5000萬元。經過歷次盈餘轉增資，截至2012年10月資本額為新台幣4.35億元，最初為[台新金控內部創業獨立成子公司](https://zh.wikipedia.org/wiki/台新金控 "wikilink")，目前最大股東是[新光三越百貨](../Page/新光三越百貨.md "wikilink")；目前主要業務是提供企業電子化員工福利平台服務，使企業透過線上方式，執行員工福利政策。
 
 旗下有「康迅旅行社股份有限公司」。至2018年3月，公司員工人數約100人。

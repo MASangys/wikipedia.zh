@@ -1,3 +1,6 @@
+> 本文内容由[PDF軟體列表](https://zh.wikipedia.org/wiki/PDF軟體列表)转换而来。
+
+
 **PDF軟體列表**列出[PDF管理軟體](https://zh.wikipedia.org/wiki/PDF "wikilink")，包含用於製作、閱讀、編輯、開發的軟體等。
 
 ## Amiga OS

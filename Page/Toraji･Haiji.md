@@ -1,3 +1,6 @@
+> 本文内容由[Toraji･Haiji](https://zh.wikipedia.org/wiki/Toraji･Haiji)转换而来。
+
+
 **Toraji·Haiji**是[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")所屬期間限定兩人組合。由鯉之堀Toraji（[TOKIO的](https://zh.wikipedia.org/wiki/TOKIO "wikilink")[國分太一](https://zh.wikipedia.org/wiki/國分太一 "wikilink")）和「鯉之堀Haiji」（[KinKi Kids的](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")[堂本剛](../Page/堂本剛.md "wikilink")）所組成。這是繼[J-FRIENDS](../Page/J-FRIENDS.md "wikilink")後，傑尼斯事務所相隔7年後再次推出的跨團體組合。\[1\]\[2\]
 
 在這次跨組合組成的團體之後，下一隊同樣跨組合組成的團體是[修二與彰](../Page/修二與彰.md "wikilink")。

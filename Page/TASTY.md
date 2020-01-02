@@ -1,3 +1,6 @@
+> 本文内容由[TASTY](https://zh.wikipedia.org/wiki/TASTY)转换而来。
+
+
 **Hanch兄弟**，原名**Tasty**（)。[中國](../Page/中國.md "wikilink")雙人舞蹈偶像組合，成員為雙胞胎兄弟。常被稱為Tasty2wins，Tasty官方歌迷名稱為Twings，意為Twins與wings的結合。
 
 ## 早年經歷

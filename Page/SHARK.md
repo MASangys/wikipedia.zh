@@ -1,3 +1,6 @@
+> 本文内容由[SHARK](https://zh.wikipedia.org/wiki/SHARK)转换而来。
+
+
 在[密碼學裡](https://zh.wikipedia.org/wiki/密碼學 "wikilink")，**SHARK**被認為是一種[Rijndael加密法](../Page/高级加密标准.md "wikilink")（[高級加密標準](https://zh.wikipedia.org/wiki/高級加密標準 "wikilink")）前身的[區塊加密](https://zh.wikipedia.org/wiki/區塊加密 "wikilink")。
 
 SHARK有64位元[區塊大小與](https://zh.wikipedia.org/wiki/區塊大小\(密碼學\) "wikilink")128位元[密鑰長度](../Page/密碼.md "wikilink")。它是個6迴圈[SP網路](https://zh.wikipedia.org/wiki/SPN "wikilink")，利用線性與非線性轉換層輪換[密鑰混合階段](../Page/密碼.md "wikilink")。線性轉換使用[MDS矩陣代表](https://zh.wikipedia.org/wiki/MDS矩陣 "wikilink")[Reed-Solomon](https://zh.wikipedia.org/wiki/Reed-Solomon "wikilink")[錯誤糾正代碼以保證適度](https://zh.wikipedia.org/wiki/錯誤糾正代碼 "wikilink")[散亂](https://zh.wikipedia.org/wiki/散亂 "wikilink")。非線性層是以8個來自函數*F(x) = x<sup>-1</sup>*於*GF(2<sup>8</sup>)*（[有限域](../Page/有限域.md "wikilink")2的8次方）的8×8位元[S-box組成](https://zh.wikipedia.org/wiki/S-box "wikilink")。

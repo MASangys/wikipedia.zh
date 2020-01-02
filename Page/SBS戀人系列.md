@@ -1,3 +1,6 @@
+> 本文内容由[SBS戀人系列](https://zh.wikipedia.org/wiki/SBS戀人系列)转换而来。
+
+
 **《戀人系列》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2004年至2007年期間播放的三套由[申宇哲](../Page/申宇哲.md "wikilink")執導、[金銀淑](../Page/金銀淑.md "wikilink")編劇，以[戀人為題材的](https://zh.wikipedia.org/wiki/戀人 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 <table>

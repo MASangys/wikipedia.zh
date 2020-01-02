@@ -1,3 +1,6 @@
+> 本文内容由[UClibc](https://zh.wikipedia.org/wiki/UClibc)转换而来。
+
+
 {{ infobox software | name = uClibc | title = uClibc | developer = Erik Andersen | released =  | latest release version = 0.9.33.2 | latest release date =  | programming language = [C](https://zh.wikipedia.org/wiki/C语言 "wikilink") | operating system = [嵌入式Linux](../Page/嵌入式Linux.md "wikilink") | platform = [嵌入式Linux](../Page/嵌入式Linux.md "wikilink") | genre =  | license = [GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")\[1\] | website = <http://www.uclibc.org/> }} [Linux_kernel_System_Call_Interface_and_uClibc.svg](https://zh.wikipedia.org/wiki/File:Linux_kernel_System_Call_Interface_and_uClibc.svg "fig:Linux_kernel_System_Call_Interface_and_uClibc.svg") (system calls), [Linux内核](../Page/Linux内核.md "wikilink") / [µClinux](https://zh.wikipedia.org/wiki/µClinux "wikilink").\]\]
 
 在[计算术语中](https://zh.wikipedia.org/wiki/计算 "wikilink")，**uClibc** 是一个面向[嵌入式](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[Linux](../Page/Linux.md "wikilink")系统的小型的[C标准库](https://zh.wikipedia.org/wiki/C标准库 "wikilink")。最初uClibc是为了支持[uClinux而开发](https://zh.wikipedia.org/wiki/uClinux "wikilink")，这是一个不需要[内存管理单元](../Page/内存管理单元.md "wikilink")的Linux版本，因此适合于[微控制器系统](https://zh.wikipedia.org/wiki/微控制器 "wikilink")（uCs；此处"u"是代表"micro"的[μ的](https://zh.wikipedia.org/wiki/μ "wikilink")[罗马化](../Page/罗马化.md "wikilink")）.\[2\]

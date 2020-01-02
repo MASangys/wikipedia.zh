@@ -1,3 +1,6 @@
+> 本文内容由[Vii](https://zh.wikipedia.org/wiki/Vii)转换而来。
+
+
 **Vii**，又名**威力棒**，是[中國](../Page/中國.md "wikilink")[广州](https://zh.wikipedia.org/wiki/广州 "wikilink")[京仕敦电子科技有限公司生產製造的](https://zh.wikipedia.org/wiki/京仕敦电子科技有限公司 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，外观酷似[任天堂](../Page/任天堂.md "wikilink")的[Wii](../Page/Wii.md "wikilink")，主要针对[儿童](../Page/儿童.md "wikilink")用户。於2007年12月发售。由于其夸张的宣传和实质不符而广受诟病。\[1\]
 
 ## 基本情况

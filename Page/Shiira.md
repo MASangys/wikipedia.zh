@@ -1,3 +1,6 @@
+> 本文内容由[Shiira](https://zh.wikipedia.org/wiki/Shiira)转换而来。
+
+
 **Shiira** (シイラ, [鯕鳅](https://zh.wikipedia.org/wiki/鯕鳅 "wikilink")) 是运行在[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") [操作系统](../Page/操作系统.md "wikilink")下的一款[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink"). 根据官方网站的表述，Shiira的目标是创造出一款比[Safari](../Page/Safari.md "wikilink")更好、更有用的浏览器。
 
 浏览器项目由日本的Makoto Kinoshita领导，基于[Webkit引擎开发](https://zh.wikipedia.org/wiki/Webkit "wikilink")。

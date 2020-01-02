@@ -1,3 +1,6 @@
+> 本文内容由[天空霸者Z](https://zh.wikipedia.org/wiki/天空霸者Z)转换而来。
+
+
 《**天空霸者Ｚ**》（日文原名：）是[日本](../Page/日本.md "wikilink")漫畫家[宇野比呂士的漫畫作品](https://zh.wikipedia.org/wiki/宇野比呂士 "wikilink")。主要人物是龍崎天馬和安琪莉娜。
 
 漫畫描述[第一次世界大戰後假想的世界](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，主角北辰一刀流的傳人——龍崎天馬因故從日本流落到[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，被貝伯飛行馬戲團收養，憑著精湛的飛行技術與卓越的劍術在歐洲闖蕩。後因緣際會結識了被[蓋世太保鎖定追捕的神秘女人安琪莉娜](https://zh.wikipedia.org/wiki/蓋世太保 "wikilink")，由此展開了一場對抗[納粹與](https://zh.wikipedia.org/wiki/納粹 "wikilink")[希特勒的冒險](https://zh.wikipedia.org/wiki/希特勒 "wikilink")。為了修復斷掉的配劍「陸奧守流星」，而到回了日本。修復「陸奧守流星」所必要的精鑄T礦，被日本軍搶走了。後奪回精鑄T礦，天馬等人在華奈子的帶路之下，發生一系列的故事。

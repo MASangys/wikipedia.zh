@@ -1,3 +1,6 @@
+> 本文内容由[YAHOO!搜尋人氣大獎](https://zh.wikipedia.org/wiki/YAHOO!搜尋人氣大獎)转换而来。
+
+
 **Yahoo 人氣大獎**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），前稱 **Yahoo 搜尋人氣大獎**，由[雅虎香港](../Page/雅虎香港.md "wikilink")於2005年創辦，是[香港](../Page/香港.md "wikilink")首個[網站](../Page/網站.md "wikilink")所舉辦之綜合頒獎禮。Yahoo 人氣大獎主要根據提名名單在[互聯網的熱門程度](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，向受歡迎的[娛樂圈人物頒發相關年度獎項](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。2019年因社會氣氛，頒獎禮會停辦，換言之2018年是最後一屆YAHOO搜尋人氣大獎頒獎典禮。
 
 ## 評審準則

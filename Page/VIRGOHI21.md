@@ -1,3 +1,6 @@
+> 本文内容由[VIRGOHI21](https://zh.wikipedia.org/wiki/VIRGOHI21)转换而来。
+
+
 **VIRGOHI21**是一个迄今为止最为奇特的星系，其中不包括任何恒星或是行星。 VIRGOHI21星系位于室女座星系群中，2007年6月18日美国康奈尔大学科学家领导的国际天文学研究小组宣布，最终证实该天体构造其实是一个[暗星系](../Page/暗星系.md "wikilink")，其尺寸与普通的星系差不多，但却完全由[暗物质](../Page/暗物质.md "wikilink")组成。
 
 通过设在荷兰的“威斯特博尔克综合射电天文望远镜”（Westerbork Synthesis Radio Telescope），精确测定了该星系的大小。通过[哈伯太空望远镜的进一步观测](https://zh.wikipedia.org/wiki/哈伯太空望远镜 "wikilink")，发现该星系中不存在一颗恒星，甚至连构成普通恒星和行星的物质也找不到。

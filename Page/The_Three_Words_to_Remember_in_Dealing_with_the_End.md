@@ -1,3 +1,6 @@
+> 本文内容由[The Three Words to Remember in Dealing with the End](https://zh.wikipedia.org/wiki/The_Three_Words_to_Remember_in_Dealing_with_the_End)转换而来。
+
+
 **The Three Words to Remember in Dealing with the End**是美國[流行龐克樂隊](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")**[All Time Low](../Page/All_Time_Low.md "wikilink")**的一張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2004年透過唱片公司[Emerald Moon Records發行](https://zh.wikipedia.org/wiki/Emerald_Moon_Records "wikilink")。
 
 ## 歌曲列表

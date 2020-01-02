@@ -1,3 +1,6 @@
+> 本文内容由[ScienceBlogs](https://zh.wikipedia.org/wiki/ScienceBlogs)转换而来。
+
+
 **ScienceBlogs**是一個只接受邀請者寫作的[網誌](../Page/網誌.md "wikilink")平台與[虛擬社群](../Page/虛擬社群.md "wikilink")， 由 [Seed Media Group](https://zh.wikipedia.org/wiki/Seed_\(magazine\) "wikilink") 於2006年 創立，目的在於增進大眾對 [科學知識的認知](https://zh.wikipedia.org/wiki/科學 "wikilink")。\[1\]截至2008年三月，ScienceBlogs擁有70網誌，分屬於不同的研究領域。每個網誌有不同的主題、特色與作者群，內容不受平台提供者的限制。作者是來自各領域的[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，包含工業界專家、大學教授、專業作家、大學研究生與博士後。
 
 根據 [Technorati](../Page/Technorati.md "wikilink")調查，截至2007年7月7日，ScienceBlogs共有9581作者，被引用連結的數目在網誌世界排名第三十七。\[2\]截至2008年3月14日，[Quantcast](http://www.quantcast.com)指出該網站每月有超過1,100,000個訪客，其中65%來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。\[3\]

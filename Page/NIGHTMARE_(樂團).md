@@ -1,3 +1,6 @@
+> 本文内容由[NIGHTMARE \(樂團\)](https://zh.wikipedia.org/wiki/NIGHTMARE_\(樂團\))转换而来。
+
+
 **NIGHTMARE** （），日本[視覺系](../Page/視覺系.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")（Visual Rock）。2000年於仙台組成，簡稱メア。 另一個樂隊[仙台貨物](../Page/仙台貨物.md "wikilink")即是ナイトメア組成，但成員皆不承認。現屬[艾迴音樂旗下藝人](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")。
 
 ## 成員

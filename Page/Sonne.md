@@ -1,3 +1,6 @@
+> 本文内容由[Sonne](https://zh.wikipedia.org/wiki/Sonne)转换而来。
+
+
 ***Sonne***（德译：太阳）是[NDH](../Page/NDH.md "wikilink")乐队[Rammstein的一首歌曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，是[Mutter中第一首发布的歌曲](../Page/Mutter_\(专辑\).md "wikilink")，据[Till Lindemann说](https://zh.wikipedia.org/wiki/Till_Lindemann "wikilink")，這首歌原本要作為烏克蘭重量級拳擊冠軍，"鐵拳"維塔力·克里胥科(Віталій Кличко/Vitalij Klitschko)的入場音樂，但終究沒派上用場。不過開頭還是保留裁判在場上的倒數十秒。
 
 ## MV

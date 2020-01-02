@@ -1,3 +1,6 @@
+> 本文内容由[RAM \(专辑\)](https://zh.wikipedia.org/wiki/RAM_\(专辑\))转换而来。
+
+
 **RAM**是[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")和[琳达·麦卡特尼](../Page/琳达·麦卡特尼.md "wikilink")的一张[音乐专辑](https://zh.wikipedia.org/wiki/音乐专辑 "wikilink")。发行于1971年，麦卡特尼夫妻二人完成了整张专辑。\[1\]
 
 ## 曲目列表

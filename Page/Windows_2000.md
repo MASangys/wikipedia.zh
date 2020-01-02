@@ -1,3 +1,6 @@
+> 本文内容由[Windows 2000](https://zh.wikipedia.org/wiki/Windows_2000)转换而来。
+
+
 ****（簡稱**Win2K**）是一個獨佔式、可中斷執行、具有圖形使用者介面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")）和商業導向的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。Windows 2000可以運作在單處理器系統或者多處理系統（SMP）上，是屬於微軟[Windows NT產品線的一部分](../Page/Windows_NT.md "wikilink")，發佈於2000年2月17日\[1\]，此外Windows 2000也是[Windows XP](../Page/Windows_XP.md "wikilink")（2001年10月上市）和[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")（2003年4月上市）的前身。Windows 2000的[內核採用](https://zh.wikipedia.org/wiki/內核 "wikilink")[混合式核心設計](https://zh.wikipedia.org/wiki/混合式核心 "wikilink")\[2\]，Windows NT的產品線也都使用這種核心模式。相較於之前僅管理OSI第二層的模式，Windows 2000的網路管理方面可以管理到OSI第三層。
 
 Windows 2000釋出四種版本：專業版（Professional）、伺服器版（Server）、進階伺服器版（Advanced Server）、資料中心伺服器版（Datacenter Server）\[3\]。另外，微軟也販賣64位元處理器[Itanium專用的Windows](https://zh.wikipedia.org/wiki/Itanium "wikilink") 2000 Advanced Server Limited Edition和Windows 2000 Datacenter Server Limited Edition\[4\]，不過功能上有些限制。雖然每個版本有不同的市場目標，但是所有版本都使用相同的核心功能，像是電腦管理主控台（Microsoft Management Console）和系統管理程式。Windows 2000也有針對殘障人士的使用介面做改進，透過新的輔助科技，Windows 2000比前一個版本[Windows NT 4.0更容易讓身心障礙人士使用](../Page/Windows_NT_4.0.md "wikilink")\[5\]，另外支援的語言也增加\[6\]，並且增加更多的地區設定（locale）\[7\]，讓更多國家和地區的使用者可以更容易使用。

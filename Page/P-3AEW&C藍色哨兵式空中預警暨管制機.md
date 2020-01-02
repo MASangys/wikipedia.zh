@@ -1,3 +1,6 @@
+> 本文内容由[P-3AEW\&C藍色哨兵式空中預警暨管制機](https://zh.wikipedia.org/wiki/P-3AEW\&C藍色哨兵式空中預警暨管制機)转换而来。
+
+
 **P-3AEW\&C Blue Sentinel**是由[洛克希德公司](https://zh.wikipedia.org/wiki/洛克希德 "wikilink")（LockHeed）以[P-3獵戶（Orion）B式巡邏機為基礎改裝而來的](https://zh.wikipedia.org/wiki/P-3獵戶式巡邏機 "wikilink")[空中預警機](https://zh.wikipedia.org/wiki/空中預警機 "wikilink")（Airborne Early Warning and Control, AEW\&C）。[美國國土安全部](../Page/美國國土安全部.md "wikilink")（United States Department of Homeland Security，DHS）現有8架，主要用於打擊[毒品走私和國土安全巡邏](https://zh.wikipedia.org/wiki/毒品走私 "wikilink")。
 
 ## 發展歷程

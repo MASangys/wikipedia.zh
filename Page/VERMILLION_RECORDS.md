@@ -1,3 +1,6 @@
+> 本文内容由[VERMILLION RECORDS](https://zh.wikipedia.org/wiki/VERMILLION_RECORDS)转换而来。
+
+
 **VERMILLION RECORDS**是[日本](../Page/日本.md "wikilink")一家[Being以及同為](../Page/Being_\(公司\).md "wikilink")[子公司](../Page/子公司.md "wikilink")的音樂經紀管理事務所[VERMILLION](https://zh.wikipedia.org/wiki/VERMILLION "wikilink")（前[B・U・M](https://zh.wikipedia.org/wiki/B'z_#B+U+M "wikilink")）的唱片公司。此外，**株式會社VERMILLION RECORDS**是一家曾經做過同樣業務的公司。現為[Being的唱片公司之一](../Page/Being_\(公司\).md "wikilink")。
 
 是專屬於所屬[藝人](https://zh.wikipedia.org/wiki/音樂家 "wikilink")[B'z](../Page/B'z.md "wikilink")和其成員[松本孝弘](../Page/松本孝弘.md "wikilink")與[稻葉浩志](../Page/稻葉浩志.md "wikilink")的[SOLO活動的私人](https://zh.wikipedia.org/wiki/獨奏 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。 「VERMILLION」是將日本具有獨特風格的[朱色之意](https://zh.wikipedia.org/wiki/朱色 "wikilink")「**VERMILION**」（松本提案），與百萬之意「**MILLION**」（稻葉提案）作結合的[造詞](https://zh.wikipedia.org/wiki/造詞法 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[STAY TUNED](https://zh.wikipedia.org/wiki/STAY_TUNED)转换而来。
+
+
 『**STAY TUNED**』是[GLAY](../Page/GLAY.md "wikilink")在2001年7月4日發售的第23張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[宇宙戰士 \(OVA\)](https://zh.wikipedia.org/wiki/宇宙戰士_\(OVA\))转换而来。
+
+
 《**宇宙戰士**》（，英文標題*Starship Troopers*）是改編自[羅伯特·海萊因](../Page/羅伯特·海萊因.md "wikilink")執筆的科幻小說《[星艦戰將](../Page/星艦戰將.md "wikilink")》的日本[OVA動畫](../Page/原創動畫錄影帶.md "wikilink")，由[日昇動畫](../Page/日昇動畫.md "wikilink")與[萬代](../Page/萬代.md "wikilink")影像所製作，於[1988年發行](https://zh.wikipedia.org/wiki/1988 "wikilink")。後來在1991年1至2月間，於[東京電視台](../Page/東京電視台.md "wikilink")播出。
 
 ## 製作

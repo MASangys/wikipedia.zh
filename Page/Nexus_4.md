@@ -1,3 +1,6 @@
+> 本文内容由[Nexus 4](https://zh.wikipedia.org/wiki/Nexus_4)转换而来。
+
+
 **Nexus 4**（LG E960，代号 Mako）是由LG代工，於2012年10月29日發布一款的Nexus系列手機，採用4.7英寸1280×768分辨率顯示屏，像素密度達到了320ppi，其他主要特點包括首發搭載Android 4.2操作系統、四核Snapdragon S4處理器、NFC和800萬像素攝像。機身厚度9.1毫米，內置了感應線圈，可以在不插線的情況下實現後殼靠在底座上的無線充電。目前可升級至Android 5.1.1(Lollipop)。
 
 ## 售價

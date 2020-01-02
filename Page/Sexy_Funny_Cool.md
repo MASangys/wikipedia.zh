@@ -1,3 +1,6 @@
+> 本文内容由[Sexy Funny Cool](https://zh.wikipedia.org/wiki/Sexy_Funny_Cool)转换而来。
+
+
 **SEXXY-FUNИY-COOL**是[香港](../Page/香港.md "wikilink")三人女子跳舞歌唱組合[HotCha](../Page/HotCha.md "wikilink")的第二張專輯，於2008年11月2日發行。此專輯以三款不同封面推出，分別是以[白色](../Page/白色.md "wikilink")背景為主的SEXXY（SEXY）版、以[啡色背景為主的FUNИY](https://zh.wikipedia.org/wiki/啡色 "wikilink")（FUNNY）版及以[黑色](../Page/黑色.md "wikilink")背景為主的COOL版。
 
 這張專輯的主打歌為《了了》、《小野蠻》及《You Are My Best Friend》，而隨碟附送的[DVD收錄了四首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")。此外，本專輯亦隨碟附送HotCha珍藏貼紙。

@@ -1,3 +1,6 @@
+> 本文内容由[XO-1](https://zh.wikipedia.org/wiki/XO-1)转换而来。
+
+
 **XO-1**，在之前常被稱作「百元電腦」或「兒童的機器」，是一部追求價廉的[筆記型電腦](../Page/筆記型電腦.md "wikilink")。這部電腦由「一個小孩一部手提電腦」（[OLPC](../Page/OLPC.md "wikilink")）的[貿易協會所開發](https://zh.wikipedia.org/wiki/貿易協會 "wikilink")。其目的是要使電腦應用推廣到全世界的[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")，特別是[發展中國家](https://zh.wikipedia.org/wiki/發展中國家 "wikilink")，好讓他們能夠獲取知識及現代化的教育。OLPC是一個由[美國麻省理工學院媒體實驗室的所有成員組成的](../Page/麻省理工学院.md "wikilink")[非營利組織](../Page/非營利組織.md "wikilink")，他們會負責整個設計、生產以至推廣這部電腦的工作。
 
 XO-1追求的目標是低階、低耗能，因此，不少功能及設備都朝着轻量化的方向。例如電腦將用[固态硬盘](../Page/固态硬盘.md "wikilink")取代[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，而且會使用[Fedora Core作為它的](https://zh.wikipedia.org/wiki/Fedora_Core "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\] 。[行動隨意網路將會使用在其中](https://zh.wikipedia.org/wiki/Ad_hoc網路 "wikilink")，以便提供多部機器只須經由一個連結點就能進入網路。

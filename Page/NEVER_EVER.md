@@ -1,3 +1,6 @@
+> 本文内容由[NEVER EVER](https://zh.wikipedia.org/wiki/NEVER_EVER)转换而来。
+
+
 《**NEVER EVER**》（絕無僅有）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第21張單曲，2001年3月7日於日本發售。
 
 ## 說明

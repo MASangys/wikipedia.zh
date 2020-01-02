@@ -1,3 +1,6 @@
+> 本文内容由[P.O.D](https://zh.wikipedia.org/wiki/P.O.D)转换而来。
+
+
 **P.O.D**（）是[美国](../Page/美国.md "wikilink")著名另类金属乐队，始终坚持[硬蕊](https://zh.wikipedia.org/wiki/硬蕊 "wikilink")、[重金属](../Page/重金属.md "wikilink")和[饒舌](../Page/饒舌.md "wikilink")相结合的[音乐](../Page/音乐.md "wikilink")风格。成立于1992年，乐队名称即Payable on Death的简称。 樂團成員都是名符其實的[基督徒](../Page/基督徒.md "wikilink")，專輯歌曲都是關於[基督教](../Page/基督教.md "wikilink")信仰之含意，因此他們被號稱金屬界的福音樂團，隸屬[當代基督教音樂樂派範疇](https://zh.wikipedia.org/wiki/當代基督教音樂 "wikilink")。
 
 ## 樂團歷史

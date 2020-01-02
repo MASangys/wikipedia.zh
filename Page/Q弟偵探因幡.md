@@ -1,3 +1,6 @@
+> 本文内容由[Q弟偵探因幡](https://zh.wikipedia.org/wiki/Q弟偵探因幡)转换而来。
+
+
 《**Q弟偵探因幡**》（）是漫畫家 的漫畫作品，於日本《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[SQUARE ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")）2007年9月號連載中，各話標題皆為「～事件」（番外篇除外）。《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》2009年11月號發表廣播劇CD，2012年8月[電視動畫化決定](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2013年1月開始播放。
 
 ## 故事簡介

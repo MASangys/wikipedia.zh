@@ -1,3 +1,6 @@
+> 本文内容由[SOI](https://zh.wikipedia.org/wiki/SOI)转换而来。
+
+
 [Athlon_64_X2_E6_3800.jpg](https://zh.wikipedia.org/wiki/File:Athlon_64_X2_E6_3800.jpg "fig:Athlon_64_X2_E6_3800.jpg")
 
 **SOI**全名為**Silicon On Insulator**，是指[矽](https://zh.wikipedia.org/wiki/矽 "wikilink")[電晶體結構在](https://zh.wikipedia.org/wiki/電晶體 "wikilink")[絕緣體](../Page/絕緣體.md "wikilink")之上的意思，原理就是在矽電晶體之間，加入絕緣體物質，可使兩者之間的寄生[電容](../Page/電容.md "wikilink")比原來的少上一倍。優點是可以較易提升[時脈](https://zh.wikipedia.org/wiki/時脈 "wikilink")，並減少[電流](https://zh.wikipedia.org/wiki/電流 "wikilink")成為省電的IC，在製程上還可以省略部分[光罩以節省成本](https://zh.wikipedia.org/wiki/光罩 "wikilink")，因此不論在製程上或是電路上都有其優勢。此外，在SOI晶圓（SOI wafer）本身基板的[阻抗](../Page/阻抗.md "wikilink")值的部分也會影響到元件的表現，因此後來也有公司在基板上進行阻抗值的調整，達到射頻元件（Radio frequency component、RF component）特性的提升。原本應通過交換器的[電子](https://zh.wikipedia.org/wiki/電子 "wikilink")，有些會鑽入矽中造成浪費；SOI可防止電子流失，與補強一些原本Bulk wafer中CMOS元件的缺點。[摩托罗拉](../Page/摩托罗拉.md "wikilink")宣稱[中央處理器可因此提升時脈](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")20%，並減低耗電30%。除此之外，還可以減少一些有害的電氣效應。還有一點，可以說是很多[超頻](../Page/超頻.md "wikilink")玩家所感興趣的，那就是它的工作溫度可高達300°C，減少過熱的問題。

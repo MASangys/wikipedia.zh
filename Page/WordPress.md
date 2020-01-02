@@ -1,3 +1,6 @@
+> 本文内容由[WordPress](https://zh.wikipedia.org/wiki/WordPress)转换而来。
+
+
 ****是一个以[PHP](../Page/PHP.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")为平台的[自由开源的博客软件和](../Page/自由及开放源代码软件.md "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")\[1\]。WordPress具有插件架构和模板系统。截至2018年4月，排名前1000万的网站中超过30.6%使用WordPress\[2\]。WordPress是最受欢迎的网站[内容管理系统](../Page/内容管理系统.md "wikilink")\[3\]。WordPress是目前[因特网上最流行的博客系统](https://zh.wikipedia.org/wiki/因特网 "wikilink")。\[4\]\[5\]WordPress在最著名的网络发布阶段中脱颖而出。如今，它被使用在超过7000万个站点上。\[6\]
 
 2003年5月27日，WordPress从b2/cafelog分支，由[马特·查尔斯·穆伦维格](../Page/马特·查尔斯·穆伦维格.md "wikilink")（）\[7\]和Mike Little\[8\]开发。到了2011年12月，3.0版本已经被下载了超过6500万次。\[9\]

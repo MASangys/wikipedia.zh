@@ -1,3 +1,6 @@
+> 本文内容由[Video Research](https://zh.wikipedia.org/wiki/Video_Research)转换而来。
+
+
 **Video Research**（，Video Research Ltd. [縮寫](../Page/縮寫.md "wikilink")**VR**）是[日本](../Page/日本.md "wikilink")一家進行[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")[收視率與](https://zh.wikipedia.org/wiki/收視率 "wikilink")[廣播節目](https://zh.wikipedia.org/wiki/廣播節目 "wikilink")[收聽率調查的公司](https://zh.wikipedia.org/wiki/收聽率 "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[StepMania](https://zh.wikipedia.org/wiki/StepMania)转换而来。
+
+
 **StepMania** （简称**SM**）是一个[跨平台的音乐游戏及引擎](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。最初被开发为[科樂美](../Page/科樂美.md "wikilink")[街机](../Page/街机.md "wikilink")系列[勁爆熱舞](../Page/勁爆熱舞.md "wikilink")的模拟器，此后进化为支持多种基于节拍的游戏的可扩展的节拍游戏引擎。StepMania是[开放源代码](../Page/开放源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，在[MIT许可证下发布](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。
 
 电子游戏[In the Groove和](https://zh.wikipedia.org/wiki/In_the_Groove "wikilink")[Pump It Up Pro](https://zh.wikipedia.org/wiki/Pump_It_Up_Pro "wikilink")／Jump 使用StepMania作为[游戏引擎](../Page/游戏引擎.md "wikilink")。2005年，StepMania在纽约活动影响博物馆的一个游戏展览中展出。

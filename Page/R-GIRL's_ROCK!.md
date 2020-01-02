@@ -1,3 +1,6 @@
+> 本文内容由[R-GIRL\'s ROCK!](https://zh.wikipedia.org/wiki/R-GIRL\'s_ROCK!)转换而来。
+
+
 《**R-GIRL's ROCK\!**》是[SCANDAL的](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[翻唱](https://zh.wikipedia.org/wiki/翻唱 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 收錄曲目

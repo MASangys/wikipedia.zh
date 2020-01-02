@@ -1,3 +1,6 @@
+> 本文内容由[咒法解禁！！ HYDE \& CROSER](https://zh.wikipedia.org/wiki/咒法解禁！！_HYDE_\&_CROSER)转换而来。
+
+
 《**咒法解禁\!\! HYDE & CROSER**》（），是[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")在2008年4·5號合併號中開始連載的[麻生羽呂的漫畫作品](https://zh.wikipedia.org/wiki/麻生羽呂 "wikilink")。話數計算為「第○劇」。[青文出版社](../Page/青文出版社.md "wikilink")發行的[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")於2008年8月號開始連載
 
 ## 劇情介紹

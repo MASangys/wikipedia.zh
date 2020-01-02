@@ -1,3 +1,6 @@
+> 本文内容由[半人馬座A](https://zh.wikipedia.org/wiki/半人馬座A)转换而来。
+
+
 **半人馬座A**，也稱為**NGC 5128**，是位於[半人馬座內距離大約](https://zh.wikipedia.org/wiki/半人馬座 "wikilink")1千4百萬光年遠的一個[透鏡星系](https://zh.wikipedia.org/wiki/透鏡星系 "wikilink")。它是最靠近地球的電波源之一，也是被專業天文學家廣泛研究的[活躍星系核](https://zh.wikipedia.org/wiki/活躍星系核 "wikilink")\[1\]。這個星系也是全天第五亮的星系，所以即使這個星系只能在南半球和北半球的低緯度地區看見，它依然也還是業餘天文學家的理想目標\[2\]。 [相對論性噴流的能量被相信是從在星系核心的](https://zh.wikipedia.org/wiki/相對論性噴流 "wikilink")[超大質量黑洞](../Page/超大質量黑洞.md "wikilink")附近的空間喷射出來的，輻射出[X射線和](https://zh.wikipedia.org/wiki/X射線 "wikilink")[無線電波的波長](https://zh.wikipedia.org/wiki/無線電波 "wikilink")。以十年的間隔對噴流的電波進行觀察，天文學家確定噴流內側部分的移動速度達到[光速](../Page/光速.md "wikilink")的一半。X射線則是噴流內的高能微粒在更遠處與周圍的氣體碰撞所產生的。
 
 如同對其他的[星爆星系所做的觀測](https://zh.wikipedia.org/wiki/星爆星系 "wikilink")，碰撞導致恆星的形成和引發強烈的爆炸。使用[史匹哲太空望遠鏡](../Page/史匹哲太空望遠鏡.md "wikilink")，科學家證實了半人馬座 A是經由一個大型橢圓星系與一個小螺旋星系碰撞的結果。

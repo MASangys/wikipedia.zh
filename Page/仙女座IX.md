@@ -1,3 +1,6 @@
+> 本文内容由[仙女座IX](https://zh.wikipedia.org/wiki/仙女座IX)转换而来。
+
+
 **仙女座 Ⅸ**是在2004年被Zucker等人從[史隆數位巡天](../Page/史隆數位巡天.md "wikilink")的恆星測光儀中解析而發現的星系。它是位於[仙女座](../Page/仙女座.md "wikilink")的一個[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，也是[仙女座星系](../Page/仙女座星系.md "wikilink")的衛星星系。\[1\]在發現之際，它是已知的星系中表面光度最低的Σ<sub>*V*</sub>～26.8mags arcsec<sup>-2</sup>，並且是本質的絕對星等最暗的星系。\[2\]
 
 仙女座 Ⅸ是從史隆數位巡天在2002年10月5日沿著M31的長軸方向掃描得到的數據中檢出的，McConnacrchie等人估計他的距離與M31幾乎完全相同（2005）。

@@ -1,3 +1,6 @@
+> 本文内容由[古靈精探B](https://zh.wikipedia.org/wiki/古靈精探B)转换而来。
+
+
 《**古靈精探B**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：，前名《古靈精探II》），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。此劇為[2009無綫節目巡禮](../Page/2009無綫節目巡禮.md "wikilink")劇集之一及2009無綫節目精選第二季劇集之一，由[郭晉安](../Page/郭晉安.md "wikilink")及[郭羨妮](../Page/郭羨妮.md "wikilink")領銜主演，並由[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")及[郭政鴻](../Page/郭政鴻.md "wikilink")聯合主演，監製[關永忠](../Page/關永忠.md "wikilink")。本劇為《[古靈精探](../Page/古靈精探.md "wikilink")》續集，劇名中的“B”既有第二辑的意思，也有「Baby」的意思。此劇選用跟上輯一樣的主題曲音樂，只是改用新的歌詞，由男主角[郭晉安](../Page/郭晉安.md "wikilink")主唱。2012年11月8日開始於翡翠台星期一至五中午劇集時段重播。
 
 ## 小資料

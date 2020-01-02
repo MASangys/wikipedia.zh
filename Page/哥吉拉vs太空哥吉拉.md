@@ -1,3 +1,6 @@
+> 本文内容由[哥吉拉vs太空哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉vs太空哥吉拉)转换而来。
+
+
 《**哥吉拉vs太空哥吉拉**》（日文原名：**ゴジラvsスペースゴジラ**）是1994年12月10日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")21部作品，日本觀眾人數達到340萬人，票房約33億，片商實盈收入16億5000萬日圓。
 
 ## 劇情概要

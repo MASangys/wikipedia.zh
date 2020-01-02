@@ -1,3 +1,6 @@
+> 本文内容由[塞西尔·B·德米尔奖](https://zh.wikipedia.org/wiki/塞西尔·B·德米尔奖)转换而来。
+
+
 **塞西尔·B·德米尔奖**（**Cecil B. DeMille Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终身致力](https://zh.wikipedia.org/wiki/金球獎_\(影視獎項\) "wikilink")[电影](../Page/电影.md "wikilink")事业，为全球娱乐业做出贡献的人士的奖项，自1952年开始由[好莱坞外国记者协会](../Page/好莱坞外国记者协会.md "wikilink")（HFPA）在[金球奖典礼上颁发](https://zh.wikipedia.org/wiki/金球獎_\(影視獎項\) "wikilink")。该奖项的名称以首届获奖者[塞西尔·德米尔命名](https://zh.wikipedia.org/wiki/塞西尔·德米尔 "wikilink")，后者是一名成功的电影制作人。\[1\]
 
 ## 历届获奖者

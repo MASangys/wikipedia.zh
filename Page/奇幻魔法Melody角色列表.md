@@ -1,3 +1,6 @@
+> 本文内容由[奇幻魔法Melody角色列表](https://zh.wikipedia.org/wiki/奇幻魔法Melody角色列表)转换而来。
+
+
 此表列出《[奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")》動畫中出現的角色。
 
 ## 主要角色

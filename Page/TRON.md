@@ -1,3 +1,6 @@
+> 本文内容由[TRON](https://zh.wikipedia.org/wiki/TRON)转换而来。
+
+
 **TRON** （The Real-time Operating system Nucleus）是一个开放的[实时操作系统](../Page/实时操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。其项目于1984年由[东京大学](../Page/东京大学.md "wikilink")的[坂村健教授发起](https://zh.wikipedia.org/wiki/坂村健 "wikilink")，宗旨是“为全社会的需要创造一套理想的[计算机结构和网络](https://zh.wikipedia.org/wiki/计算机结构 "wikilink")”。\[1\]
 
 截止2003年，由其衍生的 [Industrial TRON](https://zh.wikipedia.org/wiki/Industrial_TRON "wikilink") (ITRON)是全世界使用数量最多的操作系统之一，\[2\]遍布于从移动电话、[家用电器](../Page/家用电器.md "wikilink")甚至到汽车的数十亿电子设备上。虽然 ITRON 主要是被日本公司使用，但也吸引了世界范围内的兴趣。\[3\]然而，据说优质英语文档的缺乏让它没能被更广泛地接受。\[4\]

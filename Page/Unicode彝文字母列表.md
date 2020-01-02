@@ -1,3 +1,6 @@
+> 本文内容由[Unicode彝文字母列表](https://zh.wikipedia.org/wiki/Unicode彝文字母列表)转换而来。
+
+
 Unicode的[彝文字母列表](https://zh.wikipedia.org/wiki/彝文字母 "wikilink")（範圍：A000-A48F）。
 
 | 編碼     | 符號 | 羅馬化拼音 |

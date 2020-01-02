@@ -1,3 +1,6 @@
+> 本文内容由[大垣IC](https://zh.wikipedia.org/wiki/大垣IC)转换而来。
+
+
 **大垣IC**（平假名：**おおがきインターチェンジ**）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[大垣市](../Page/大垣市.md "wikilink")的[名神高速道路之](https://zh.wikipedia.org/wiki/名神高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

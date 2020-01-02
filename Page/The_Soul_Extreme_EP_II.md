@@ -1,3 +1,6 @@
+> 本文内容由[The Soul Extreme EP II](https://zh.wikipedia.org/wiki/The_Soul_Extreme_EP_II)转换而来。
+
+
 《**The Soul Extreme EP II**》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2011年10月12日發行之第3張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 解說

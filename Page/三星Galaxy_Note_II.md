@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Note II](https://zh.wikipedia.org/wiki/三星Galaxy_Note_II)转换而来。
+
+
 **Samsung Galaxy Note II**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")在2012年中推出的[Android](../Page/Android.md "wikilink")行動通訊產品，擁有5.5英寸螢幕，介乎大螢幕[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")之間，為[Samsung Galaxy Note的後繼機](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note "wikilink")。而Galaxy Note II同期的最大競爭對手是 iPhone 5。
 
 ## 歷史

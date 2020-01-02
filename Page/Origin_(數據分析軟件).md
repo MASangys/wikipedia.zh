@@ -1,3 +1,6 @@
+> 本文内容由[Origin \(數據分析軟件\)](https://zh.wikipedia.org/wiki/Origin_\(數據分析軟件\))转换而来。
+
+
 **Origin**是由[OriginLab公司开发的一个科学绘图](https://zh.wikipedia.org/wiki/OriginLab "wikilink")、数据分析软件，支持在Microsoft Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。Origin中的[曲线拟合是采用基于](https://zh.wikipedia.org/wiki/曲线拟合 "wikilink")[Levernberg-Marquardt算法](https://zh.wikipedia.org/wiki/Levernberg-Marquardt算法 "wikilink")（LMA）的非线性[最小二乘法](../Page/最小二乘法.md "wikilink")拟合。Origin强大的数据导入功能，支持多种格式的数据，包括[ASCII](../Page/ASCII.md "wikilink")、[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink")、NI TDM、DIADem、[NetCDF](../Page/NetCDF.md "wikilink")、SPC等等。图形输出格式多样，例如JPEG，GIF，EPS，TIFF等。内置的查询工具可通过ADO访问数据库数据。
 
 ## 界面

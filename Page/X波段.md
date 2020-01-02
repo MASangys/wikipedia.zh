@@ -1,3 +1,6 @@
+> 本文内容由[X波段](https://zh.wikipedia.org/wiki/X波段)转换而来。
+
+
 根据IEEE 521-2002标准，**X波段**是指频率在8-12 GHz的无线电波波段，在[電磁波譜中屬於](https://zh.wikipedia.org/wiki/電磁波譜 "wikilink")[微波](https://zh.wikipedia.org/wiki/微波 "wikilink")。而在某些场合中，X波段的频率范围则为7-11.2 GHz。通俗而言，X波段中的X即英语中的“extended”，表示“扩展的”[调幅广播](https://zh.wikipedia.org/wiki/调幅广播 "wikilink")。
 
 X波段通常的下行频率為7.25-7.75 GHz，上行频率為7.9-8.4 GHz，也常被称为**7/8 GHz波段**（）\[1\]。而[NASA和](../Page/美国国家航空航天局.md "wikilink")[欧洲空间局](../Page/欧洲空间局.md "wikilink")的[深空站通用的X波段通信频率范围则为上行](../Page/深空网络.md "wikilink")7145-7235 [MHz](https://zh.wikipedia.org/wiki/MHz "wikilink")，下行8400-8500 MHz。\[2\]\[3\]

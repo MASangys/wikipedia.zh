@@ -1,3 +1,6 @@
+> 本文内容由[Replica 1](https://zh.wikipedia.org/wiki/Replica_1)转换而来。
+
+
 [BrielComputers_Replica1.jpg](https://zh.wikipedia.org/wiki/File:BrielComputers_Replica1.jpg "fig:BrielComputers_Replica1.jpg") **Replica 1**是由Vince Briel在[斯蒂夫·沃兹尼亚克](../Page/斯蒂夫·沃兹尼亚克.md "wikilink")（Steve Wozniak）的授权下设计生产的[Apple I复制机](../Page/Apple_I.md "wikilink")。Replica 1在功能上与原版Apple I几乎一样，但使用更新的零件及较小、简化过的主板。Replica 1使用与Apple I一样的[MOS Technology 6502做为内核与设计基础](https://zh.wikipedia.org/wiki/MOS_Technology_6502 "wikilink")。与原版Apple I一样，Replica 1使用简单的AV端子输入/输出以连接至电视，并保持了许多当时的特性，例如缺乏删除键。
 
 [苹果公司并不反对这项计划](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，因为Wozniak已经许可，且Apple I实际上可说是Wozniak自己的作品，因为它在公司成立前即已出产。苹果公司曾释出关于Apple I的所有材料给[Apple I Owners Club](https://zh.wikipedia.org/wiki/Apple_I_Owners_Club "wikilink")。\[1\]

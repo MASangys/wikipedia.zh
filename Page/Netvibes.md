@@ -1,3 +1,6 @@
+> 本文内容由[Netvibes](https://zh.wikipedia.org/wiki/Netvibes)转换而来。
+
+
 **Netvibes**是一個使用[AJAX](../Page/AJAX.md "wikilink")的個人化首頁，用戶可以依據喜好和需要自訂頁面內的模組、頁籤及外觀佈景，非註冊用戶可以在自己的電腦存取自己的個人化頁面，而註冊用戶則可以在任何電腦存取。Netvibes至今已經被翻譯成65種語言版本。
 
 ## 內建模組

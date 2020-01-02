@@ -1,3 +1,6 @@
+> 本文内容由[Transit](https://zh.wikipedia.org/wiki/Transit)转换而来。
+
+
 **TRANSIT**[翻譯記憶](../Page/翻譯記憶.md "wikilink")軟體，是瑞士[STAR Group所發展出一套功能完善的](https://zh.wikipedia.org/wiki/STAR_Group "wikilink")「[電腦輔助翻譯](../Page/電腦輔助翻譯.md "wikilink")系統」（CAT，Computer-assisted Translation 或 Computer-aided Translation），專為處理大量且重複性高之[翻譯工作所設計](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。TRANSIT同時也是技術性翻譯與在文字地化工作的專業軟體，支援超過100種以上的語言格式，包括亞洲、中東以及東歐語系。廣泛被應用於企業[全球化](../Page/全球化.md "wikilink")作業程序。
 
 ## 歷史

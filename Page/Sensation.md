@@ -1,3 +1,6 @@
+> 本文内容由[Sensation](https://zh.wikipedia.org/wiki/Sensation)转换而来。
+
+
 **Sensation**，[日本](../Page/日本.md "wikilink")的四人纯音乐乐队，2012年结成，为[Being旗下艺人](../Page/Being_\(公司\).md "wikilink")。
 
 ## 成员

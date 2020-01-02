@@ -1,3 +1,6 @@
+> 本文内容由[S Voice](https://zh.wikipedia.org/wiki/S_Voice)转换而来。
+
+
 **S Voice**是一个[智慧型個人助理及](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，为一个内置的且仅可运行于[三星Galaxy系列中的应用](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")。该应用程序使用，通过委派一组[Web服务](../Page/Web服务.md "wikilink")请求，可回答问题，提出建议，执行行动，回答簡單問題，甚至可以在鎖定螢幕中使用捷徑。\[1\]\[2\]此应用基于智能语音助手。\[3\]
 
 Galaxy S5及之后的三星Android设备中，S Voice使用[Nuance代替Vlingo](../Page/Nuance_Communications.md "wikilink")。

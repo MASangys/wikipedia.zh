@@ -1,3 +1,6 @@
+> 本文内容由[SDF-1 馬克羅斯](https://zh.wikipedia.org/wiki/SDF-1_馬克羅斯)转换而来。
+
+
 [macross-city.jpg](https://zh.wikipedia.org/wiki/File:macross-city.jpg "fig:macross-city.jpg") **SDF-1 馬克羅斯**（），是日本動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》及其美国改编版《[太空堡垒](../Page/太空堡垒.md "wikilink")》中的主役宇宙戰艦，隸屬[地球統合宇宙軍](https://zh.wikipedia.org/wiki/地球統合宇宙軍 "wikilink")，並被視為統合軍的象徵。
 
 馬克羅斯的舷號「SDF-1」是「Super Dimensional Fortress-1」的字首縮寫，意為「超時空要塞一號艦」。

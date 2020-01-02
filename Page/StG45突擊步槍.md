@@ -1,3 +1,6 @@
+> 本文内容由[StG45突擊步槍](https://zh.wikipedia.org/wiki/StG45突擊步槍)转换而来。
+
+
 **Sturmgewehr 45**（簡稱**StG 45**）是[納粹德國](../Page/納粹德國.md "wikilink")在[二戰末期的試驗型](https://zh.wikipedia.org/wiki/二戰 "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，由[毛瑟](../Page/毛瑟.md "wikilink")公司在1945年設計及生產。字面解作「45式突擊步槍」。該槍採用了創新的[滾輪延遲反沖式原理](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")，也是第一支使用該原理的槍械。
 
 ## 設計及歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Rovio娱乐](https://zh.wikipedia.org/wiki/Rovio娱乐)转换而来。
+
+
 [Rovio_Entertainment_Hdqtrs_1.jpg](https://zh.wikipedia.org/wiki/File:Rovio_Entertainment_Hdqtrs_1.jpg "fig:Rovio_Entertainment_Hdqtrs_1.jpg")的总部\]\] **Rovio娱乐有限公司**（，之前名为“Relude”及“Rovio Mobile”），是一家总部设在[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[埃斯波](../Page/埃斯波.md "wikilink")的[电子游戏](../Page/电子游戏.md "wikilink")[开发商](../Page/游戏开发者.md "wikilink")、[发行商和分销商](../Page/電子遊戲發行商.md "wikilink")。该公司在2003年以移动电子游戏开发工作室的名义而成立的。該公司最有名的電子遊戲產品為[憤怒鳥](https://zh.wikipedia.org/wiki/憤怒的小鳥 "wikilink")。
 
 ## 公司历史

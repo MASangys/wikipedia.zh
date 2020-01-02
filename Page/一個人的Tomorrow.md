@@ -1,3 +1,6 @@
+> 本文内容由[一個人的Tomorrow](https://zh.wikipedia.org/wiki/一個人的Tomorrow)转换而来。
+
+
 《**一個人的Tomorrow**》是[台灣歌手](https://zh.wikipedia.org/wiki/台灣歌手 "wikilink")[吳克羣發行第一張國語專輯](https://zh.wikipedia.org/wiki/吳克羣 "wikilink")，在2000年11月23日開始發行販售。吳克羣在[MTV所舉辦](https://zh.wikipedia.org/wiki/MTV "wikilink")「新聲鬥陣賽」活動中獲得第六名成績，並在21歲那年發行個人首張專輯，但發片後就開始沉寂，曾有一個月時間裡沒有通告，為此花了兩年時間研習出創作歌曲《學不會》，並收錄於下張專輯，從此吳克羣就展開創作音樂的路程。
 
 ## 曲目

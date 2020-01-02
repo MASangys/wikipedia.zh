@@ -1,3 +1,6 @@
+> 本文内容由[NEKO NEKO Software](https://zh.wikipedia.org/wiki/NEKO_NEKO_Software)转换而来。
+
+
 **NEKO NEKO Software**（ねこねこソフト）是Soldier Blue有限公司（舊合名會社貓貓軟件）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，總部設於日本[埼玉縣](../Page/埼玉縣.md "wikilink")的[所澤市](../Page/所澤市.md "wikilink")。[戲畫PB成員](https://zh.wikipedia.org/wiki/戲畫PB "wikilink")。[同人軟件社團](../Page/同人遊戲.md "wikilink")「STAGE NANA」為基礎而組成。
 
 ## 概要

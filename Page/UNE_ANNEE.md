@@ -1,3 +1,6 @@
+> 本文内容由[UNE ANNEE](https://zh.wikipedia.org/wiki/UNE_ANNEE)转换而来。
+
+
 《UNE ANNEE》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Apink](../Page/Apink.md "wikilink")於2012年5月9日發行的首張正規[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。「UNE ANNEE」一詞源自[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")「」，意為「一年」。本專輯的主打曲為《**Hush**》。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Sketch book～素描簿～](https://zh.wikipedia.org/wiki/Sketch_book～素描簿～)转换而来。
+
+
 《**Sketch book～素描簿～**》（）是所畫的[四格漫畫](../Page/四格漫畫.md "wikilink")。於[Mag Garden的雜誌](../Page/Mag_Garden.md "wikilink")「[COMIC BLADE](https://zh.wikipedia.org/wiki/COMIC_BLADE "wikilink")」2002年4月號（創刊號）開始連載，亦有在COMIC BLADE的臨時增刊「COMIC BLADE MASAMUNE」的2003年1月號刊登。2007年10月1日開始播放動畫《**Sketchbook ～full color's～**》。
 
 ## 概要
