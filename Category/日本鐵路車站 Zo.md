@@ -1,3 +1,6 @@
+> 本文内容由[Category:日本鐵路車站 Zo](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Zo)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

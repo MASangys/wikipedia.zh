@@ -1,3 +1,6 @@
+> 本文内容由[Category:日本鐵路車站 U](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_U)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">
