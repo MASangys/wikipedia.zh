@@ -1,3 +1,6 @@
+> 本文内容由[狐狸座NQ](https://zh.wikipedia.org/wiki/狐狸座NQ)转换而来。
+
+
 **狐狸座NQ**（**NQ Vulpeculae**）是一颗位于[狐狸座](../Page/狐狸座.md "wikilink")的[新星](../Page/新星.md "wikilink")，1976年爆发。爆发时最亮[视星等](../Page/视星等.md "wikilink")为6等（10月21日）。
 
 ## 天球坐标

@@ -1,3 +1,6 @@
+> 本文内容由[歌之木 seasons “春”](https://zh.wikipedia.org/wiki/歌之木_seasons_“春”)转换而来。
+
+
 **《歌之木 seasons “春”》**（**うたのき シーズンズ はる**）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[渡邊美里的](https://zh.wikipedia.org/wiki/渡邊美里 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2005年2月23日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概述

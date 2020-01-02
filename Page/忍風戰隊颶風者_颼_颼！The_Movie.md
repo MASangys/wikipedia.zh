@@ -1,3 +1,6 @@
+> 本文内容由[忍風戰隊颶風者 颼 颼！The Movie](https://zh.wikipedia.org/wiki/忍風戰隊颶風者_颼_颼！The_Movie)转换而来。
+
+
 《**忍風戰隊破裏劍者 颼 颼！The Movie**》（原題：忍風戦隊ハリケンジャー シュシュッと THE MOVIE）。係於日本時間2002年8月17日上映的劇場版作品。與『**[假面騎士龍騎 Episode Final](../Page/假面騎士龍騎_Episode_Final.md "wikilink")**』同時上映。
 
 ## 概要

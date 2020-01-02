@@ -1,3 +1,6 @@
+> 本文内容由[第37回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第37回NHK紅白歌合戰)转换而来。
+
+
 **第37回NHK紅白歌合戰**於1986年12月31日在[NHK音樂廳舉行](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")，並於[NHK播映](https://zh.wikipedia.org/wiki/NHK "wikilink")。香港無綫電視也有取得此集的轉播權，並緊接日本播放。
 
 ## 概要

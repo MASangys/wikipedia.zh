@@ -1,3 +1,6 @@
+> 本文内容由[旅程 \(EP\)](https://zh.wikipedia.org/wiki/旅程_\(EP\))转换而来。
+
+
 《**旅程**》，是[香港](../Page/香港.md "wikilink")[流行樂隊](https://zh.wikipedia.org/wiki/流行樂隊 "wikilink")[Supper Moment的第二張錄音室](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 專輯介紹

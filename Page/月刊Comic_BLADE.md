@@ -1,3 +1,6 @@
+> 本文内容由[月刊Comic BLADE](https://zh.wikipedia.org/wiki/月刊Comic_BLADE)转换而来。
+
+
 《**月刊Comic BLADE**》（）是[日本](../Page/日本.md "wikilink")[Mag Garden發行的](../Page/Mag_Garden.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，每月30日發售，以[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")[高中學生為目標讀者群](https://zh.wikipedia.org/wiki/高中 "wikilink")。2014年7月休刊。2014年9月轉型為[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")，每月5、15、25、30日更新。
 
 另有姊妹雜誌《[月刊Comic Avarus](../Page/月刊Comic_Avarus.md "wikilink")》。

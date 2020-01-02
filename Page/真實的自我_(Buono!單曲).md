@@ -1,3 +1,6 @@
+> 本文内容由[真實的自我 \(Buono!單曲\)](https://zh.wikipedia.org/wiki/真實的自我_\(Buono!單曲\))转换而来。
+
+
 {{Infobox Single| | Name = 真實的自我 | Artist = [Buono\!](../Page/Buono!.md "wikilink") | Album = [Café Buono\!](../Page/Café_Buono!.md "wikilink") | A-side = | B-side = **心之卵** | Released = 2007年10月31日 | Recorded = | Genre = [J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink") | Length = 16分7秒 | Label = [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") | Writer = [岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink")(\#1、作詞)
 木之下慶行(\#1、作曲)
 川上夏季(\#2、作詞)

@@ -1,3 +1,6 @@
+> 本文内容由[救急戰隊GOGO V 衝突! 新出現的超戰士](https://zh.wikipedia.org/wiki/救急戰隊GOGO_V_衝突!_新出現的超戰士)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

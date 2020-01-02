@@ -1,3 +1,6 @@
+> 本文内容由[未來戰隊時間連者 VS GOGOV](https://zh.wikipedia.org/wiki/未來戰隊時間連者_VS_GOGOV)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

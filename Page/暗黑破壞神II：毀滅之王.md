@@ -1,3 +1,6 @@
+> 本文内容由[暗黑破壞神II：毀滅之王](https://zh.wikipedia.org/wiki/暗黑破壞神II：毀滅之王)转换而来。
+
+
 是[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")《[暗黑破坏神II](https://zh.wikipedia.org/wiki/暗黑破坏神II "wikilink")》的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。与前作《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》的资料片《[暗黑破坏神：地狱火](https://zh.wikipedia.org/wiki/暗黑破坏神：地狱火 "wikilink")》不同，《暗黑破坏神II：毁灭之王》是由游戏原作的研发商[暴雪北方亲自开发并由](https://zh.wikipedia.org/wiki/暴雪北方 "wikilink")[暴雪娱乐发布的一款资料片](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")。和其他的游戏资料片不同的是，《暗黑破坏神：毁灭之王》不仅添加了两个新的角色、许多新的武器和一个新的关卡，而且引人瞩目地将《暗黑破坏神II》的游戏方式，特别是多人游戏方式重新设计。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[我老婆唔夠秤II：我老公唔生性](https://zh.wikipedia.org/wiki/我老婆唔夠秤II：我老公唔生性)转换而来。
+
+
 2012年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[鄭伊健](../Page/鄭伊健.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")領銜主演，由[阮世生](../Page/阮世生.md "wikilink")執導，由[寰宇娛樂出品](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")。是於2002年上映的《[我老婆唔夠秤](https://zh.wikipedia.org/wiki/:zh-yue:我老婆唔夠秤 "wikilink")》的續作。 獲選為2012年度【香港電影評論學會】八部推薦電影之一\[1\]。
 
 ## 演員表

@@ -1,3 +1,6 @@
+> 本文内容由[班布里奇号驱逐舰 \(DD-1\)](https://zh.wikipedia.org/wiki/班布里奇号驱逐舰_\(DD-1\))转换而来。
+
+
 **班布里奇号驱逐舰**（USS *Bainbridge* (DD-1)）是[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[驱逐舰](../Page/驱逐舰.md "wikilink")，[班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/班布里奇级驱逐舰 "wikilink")[首舰](https://zh.wikipedia.org/wiki/首舰 "wikilink")，也是第二艘以此为名的美国海军舰只。其命名来源于美国海军军官[威廉·班布里奇](../Page/威廉·班布里奇.md "wikilink")。
 
 ## 建造

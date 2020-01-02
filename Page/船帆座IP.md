@@ -1,3 +1,6 @@
+> 本文内容由[船帆座IP](https://zh.wikipedia.org/wiki/船帆座IP)转换而来。
+
+
 **船帆座IP**，又名**CD-50 4420**，**HD 84400**、**SAO 237260**、**HR 3872**，是[船帆座](../Page/船帆座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.15，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")275.67，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")1.41，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

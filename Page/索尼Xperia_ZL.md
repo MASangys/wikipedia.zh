@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia ZL](https://zh.wikipedia.org/wiki/索尼Xperia_ZL)转换而来。
+
+
 **Sony Xperia ZL**是[Sony公司於](https://zh.wikipedia.org/wiki/Sony "wikilink")2013年1月發佈的旗艦級[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，[Xperia Z的兄弟機](../Page/Sony_Xperia_Z.md "wikilink")，具有13 MP拍照、Full HD錄影的Exmor RS鏡頭，配備[Full HD解像的Reality](../Page/Full_HD.md "wikilink") Display，支援標準的 MHL 轉接器，並配有[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") S4 APQ8064 四核心處理器 ，提供超快效能、絕佳圖像，及更有效率使用電池。\[1\]
 
 ## 設計

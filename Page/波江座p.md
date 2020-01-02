@@ -1,3 +1,6 @@
+> 本文内容由[波江座p](https://zh.wikipedia.org/wiki/波江座p)转换而来。
+
+
 **波江座p**（6 Eri, DUN 5）是在[波江座](../Page/波江座.md "wikilink")（[河流](../Page/河流.md "wikilink")）內距離地球僅有26[光年](../Page/光年.md "wikilink")的一顆[聯星](../Page/聯星.md "wikilink")。它在1825年12月被[詹姆士·丹露帕在](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")[澳大利亞帕拉瑪塔市](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，現在是[新南威爾斯州的](https://zh.wikipedia.org/wiki/新南威爾斯州 "wikilink")[帕拉瑪塔市家中發現是](https://zh.wikipedia.org/wiki/帕拉瑪塔市 "wikilink")[雙星](../Page/雙星.md "wikilink")。
 
 ## 命名

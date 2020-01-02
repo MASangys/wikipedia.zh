@@ -1,3 +1,6 @@
+> 本文内容由[火影忍者疾風傳 激鬥忍者大戰！EX](https://zh.wikipedia.org/wiki/火影忍者疾風傳_激鬥忍者大戰！EX)转换而来。
+
+
 《**火影忍者疾風傳 激鬥忍者大戰！EX**》（）為2007年於[Wii](../Page/Wii.md "wikilink")遊戲主機平臺上所發行的一款[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[第42回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第42回NHK紅白歌合戰)转换而来。
+
+
 《**第42回NHK紅白歌合戰**》於1991年12月31日在[NHK音樂廳舉行的](https://zh.wikipedia.org/wiki/NHK音樂廳 "wikilink")[NHK紅白歌合戰](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")，並由[NHK現場直播](https://zh.wikipedia.org/wiki/NHK "wikilink")。
 
 第一部19時20分至20時55分，第二部為21時至23時45分。

@@ -1,3 +1,6 @@
+> 本文内容由[火炬之光II](https://zh.wikipedia.org/wiki/火炬之光II)转换而来。
+
+
 《**火炬之光II**》（）是由位于西雅图的Runic Games开发的一部[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，于2012年9月20日发行于[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")；2019年9月3日移植到[任天堂Switch](../Page/任天堂Switch.md "wikilink")平台。游戏是《[火炬之光](../Page/火炬之光.md "wikilink")》的续作。开发组曾经开发了《[暗黑破坏神](https://zh.wikipedia.org/wiki/暗黑破坏神 "wikilink")》、《[暗黑破坏神2](https://zh.wikipedia.org/wiki/暗黑破坏神2 "wikilink")》、《[神话](../Page/神话.md "wikilink")》等游戏。 《火炬之光2》继承了《火炬之光》的纹理处理技术。
 
 玩家在游戏中可以单人游戏，多人[局域网](../Page/局域网.md "wikilink")游戏和在线链接服务器游戏。

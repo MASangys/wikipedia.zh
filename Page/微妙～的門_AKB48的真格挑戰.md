@@ -1,3 +1,6 @@
+> 本文内容由[微妙～的門 AKB48的真格挑戰](https://zh.wikipedia.org/wiki/微妙～的門_AKB48的真格挑戰)转换而来。
+
+
 《**光TV presents 微妙～的門 AKB48的真格挑戰**》（）是日本有線[付費電視頻道](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[光TV在](https://zh.wikipedia.org/wiki/光TV "wikilink")2012年6月29日開始提供訂閱的[AKB48](../Page/AKB48.md "wikilink")[綜藝](../Page/綜藝節目.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")節目。由於節目全名較長，一般習慣簡稱為**真格挑戰**（）。
 
 ## 概要

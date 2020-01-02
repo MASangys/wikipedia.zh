@@ -1,3 +1,6 @@
+> 本文内容由[無綫新聞台及TVB新聞台財經節目](https://zh.wikipedia.org/wiki/無綫新聞台及TVB新聞台財經節目)转换而来。
+
+
 在港股及美股交易日，[無綫新聞台](../Page/無綫新聞台.md "wikilink")及[TVB新聞台](../Page/TVB新聞台.md "wikilink")播出的財經新聞節目（），由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[新聞及資訊部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，包括《[開市第一擊](../Page/開市第一擊.md "wikilink")》、《[深滬港快訊](https://zh.wikipedia.org/wiki/深滬港快訊 "wikilink")》、《[滬港一點通](https://zh.wikipedia.org/wiki/滬港一點通 "wikilink")》、《[財經報道](https://zh.wikipedia.org/wiki/財經報道 "wikilink")》、《[滬港點評](https://zh.wikipedia.org/wiki/滬港點評 "wikilink")》及《[財經多國度](../Page/財經多國度.md "wikilink")》，報道財經新聞及股市資訊。
 
 因應高清翡翠台將於2016年2月22日起易名為J5（於2017年8月15日起改名為無綫財經台，再於2018年1月20日起改名為無綫財經·資訊台）啟播，互動新聞台（於2017年8月15日起改名為無綫新聞台）及TVB新聞台於2016年2月起取消播映財經新聞節目（《[開市第一擊](../Page/開市第一擊.md "wikilink")》、《[深滬港快訊](https://zh.wikipedia.org/wiki/深滬港快訊 "wikilink")》和《[財經多國度](../Page/財經多國度.md "wikilink")》除外）。

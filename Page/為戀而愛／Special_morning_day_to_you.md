@@ -1,3 +1,6 @@
+> 本文内容由[為戀而愛／Special morning day to you](https://zh.wikipedia.org/wiki/為戀而愛／Special_morning_day_to_you)转换而来。
+
+
 《**為戀而愛／Special morning day to you**》（日語：恋に恋して／Special morning day to you）為[倉木麻衣](../Page/倉木麻衣.md "wikilink")第38張單曲。2012年8月15日由[NORTHERN MUSIC發售](../Page/NORTHERN_MUSIC.md "wikilink")。
 
 ## 概述
