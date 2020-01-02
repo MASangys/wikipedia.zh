@@ -1,3 +1,6 @@
+> 本文内容由[甜心戰士 THE LIVE](https://zh.wikipedia.org/wiki/甜心戰士_THE_LIVE)转换而来。
+
+
 《**甜心戰士 THE LIVE**》（*Cutie Honey The Live*）。2007年10月2日至2008年3月25日，日本东京电视台系列放送的一部特摄作品。全25话(DVD是全26话)。根据[永井豪](../Page/永井豪.md "wikilink")原作的漫画・动画作品《[甜心戰士](../Page/甜心戰士.md "wikilink")》而改编的真人电视剧版。
 
 ## 概要

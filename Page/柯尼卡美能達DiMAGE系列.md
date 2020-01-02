@@ -1,3 +1,6 @@
+> 本文内容由[柯尼卡美能達DiMAGE系列](https://zh.wikipedia.org/wiki/柯尼卡美能達DiMAGE系列)转换而来。
+
+
 [Komidimagea2.jpg](https://zh.wikipedia.org/wiki/File:Komidimagea2.jpg "fig:Komidimagea2.jpg")
 
 **柯尼卡美能达DiMAGE**是[柯尼卡美能达公司旗下的小型](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")[数码相机](../Page/数码相机.md "wikilink")系列、胶片扫描仪与相应软件品牌。

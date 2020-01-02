@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM AGE登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_AGE登場機體列表)转换而来。
+
+
 {{ OftenUpdate }}    本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM AGE](../Page/機動戰士GUNDAM_AGE.md "wikilink")》及其外傳的登場機體。
 
 ## 概要

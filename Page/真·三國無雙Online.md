@@ -1,3 +1,6 @@
+> 本文内容由[真·三國無雙Online](https://zh.wikipedia.org/wiki/真·三國無雙Online)转换而来。
+
+
 是一款由日本[光榮株式會社在](https://zh.wikipedia.org/wiki/光榮株式會社 "wikilink")2007年發售的[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")。真‧三國無雙Online為[PS2上](https://zh.wikipedia.org/wiki/PS2 "wikilink")[真·三國無雙4](../Page/真·三國無雙4.md "wikilink")的改編續作，遊戲內容主要是讓玩家創立自己的角色，並隨著衝突、特務、爭奪促使角色升級並獲得[虛擬寶物及消費用虛擬貨幣](https://zh.wikipedia.org/wiki/虛擬寶物 "wikilink")，遊戲類似線上格鬥，是由大量的線上的玩家加入、大家可以一起體驗無双格鬥“以一擋千的MMO格鬥”遊戲。除玩家外的普通士兵和武將都比較弱，總體來說難度適中，玩家控制的角色在戰場上的作用就顯得重要許多。2010年2月18日日本方面開始運行[PS3版本](https://zh.wikipedia.org/wiki/PS3 "wikilink")，並與日本[PC](../Page/PC.md "wikilink")版本使用同樣的伺服器。
 
 2013年7月18日後，各國伺服器先後更新為「真‧三國無雙Online Z」，武將模組將更新為《[真·三國無雙6](../Page/真·三國無雙6.md "wikilink")》的模樣，追加「[晉](https://zh.wikipedia.org/wiki/西晉 "wikilink")」勢力的武將等等，並大幅更新現有系統。

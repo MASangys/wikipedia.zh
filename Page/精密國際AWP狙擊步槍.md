@@ -1,3 +1,6 @@
+> 本文内容由[精密國際AWP狙擊步槍](https://zh.wikipedia.org/wiki/精密國際AWP狙擊步槍)转换而来。
+
+
 **[精密國際](../Page/精密國際.md "wikilink")AWP**（**Accuracy International Arctic Warfare Police**）為英國精密國際開發的北極作戰（Arctic Warfare）系列的[狙擊步槍](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，為[精密國際AW狙擊步槍](../Page/精密國際AW狙擊步槍.md "wikilink")針對警察和執法機構用戶生產。
 
 ## 设计

@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM 00 登場國家及組織列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00_登場國家及組織列表)转换而来。
+
+
 本條目記錄《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》及其外傳中登場的國家及組織。
 
 ## 天人

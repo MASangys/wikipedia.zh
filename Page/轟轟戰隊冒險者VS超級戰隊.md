@@ -1,3 +1,6 @@
+> 本文内容由[轟轟戰隊冒險者VS超級戰隊](https://zh.wikipedia.org/wiki/轟轟戰隊冒險者VS超級戰隊)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

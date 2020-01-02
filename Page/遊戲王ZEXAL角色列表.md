@@ -1,3 +1,6 @@
+> 本文内容由[遊戲王ZEXAL角色列表](https://zh.wikipedia.org/wiki/遊戲王ZEXAL角色列表)转换而来。
+
+
 **遊戲王ZEXAL角色列表**是[日本](../Page/日本.md "wikilink")[動畫及](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[遊戲王ZEXAL](https://zh.wikipedia.org/wiki/遊戲王ZEXAL "wikilink")》（）中登場的人物一覽。
 
 ## 主角

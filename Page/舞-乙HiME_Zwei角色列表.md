@@ -1,3 +1,6 @@
+> 本文内容由[舞-乙HiME Zwei角色列表](https://zh.wikipedia.org/wiki/舞-乙HiME_Zwei角色列表)转换而来。
+
+
   - 以下可能包含原著[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")的人物但[Zwei沒出現](../Page/舞-乙HiME_Zwei.md "wikilink")\[1\]。
 
 ## 風花王國

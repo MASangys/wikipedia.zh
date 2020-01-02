@@ -1,3 +1,6 @@
+> 本文内容由[義呆利 Axis Powers](https://zh.wikipedia.org/wiki/義呆利_Axis_Powers)转换而来。
+
+
 《**義呆利 Axis Powers**》（），簡稱*APH*，是一部於[網路上連載的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，作者為[日丸屋秀和](../Page/日丸屋秀和.md "wikilink")。
 
 ## 簡介

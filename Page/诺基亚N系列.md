@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚N系列](https://zh.wikipedia.org/wiki/诺基亚N系列)转换而来。
+
+
 **[諾基亞N系列](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")**是[多媒体](../Page/多媒体.md "wikilink")[手机家族的一员](https://zh.wikipedia.org/wiki/手机 "wikilink")。这个系列的手机都支持数字多媒体服务比如音乐播放，视频采集，照相，手机游戏和因特网服务。并支持至少一种高速无线技术，例如[3G](../Page/3G.md "wikilink")或[无线局域网](../Page/无线局域网.md "wikilink")。
 
 ## 历史

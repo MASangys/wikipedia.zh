@@ -1,3 +1,6 @@
+> 本文内容由[舞-乙HiME](https://zh.wikipedia.org/wiki/舞-乙HiME)转换而来。
+
+
 《**舞-乙HiME**》是由[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作的[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。雖然這是《[舞-HiME](../Page/舞-HiME.md "wikilink")》第二個系列，但本作發生在一個新的時空背景，除了角色相同以外，其餘皆不相同。
 
 動畫從2005年10月6日到2006年3月30日在[東京電視台](../Page/東京電視台.md "wikilink")播放，共有26話。並於2006年11月24日陸續發售《舞-乙HiME》的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[舞-乙HiME Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所埋下的伏筆是在[OVA中解釋清楚的](https://zh.wikipedia.org/wiki/OVA "wikilink")。11月9日發售格鬥類的PS2遊戲《舞-乙HiME 乙女舞鬥史\!\!》。另外在2008年2月22日發售的[舞-乙HiME 0～S.ifr～則是在述說本作主角亞里香的母親蕾娜以及五柱的故事](../Page/舞-乙HiME_0～S.ifr～.md "wikilink")。

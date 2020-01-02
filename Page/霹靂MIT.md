@@ -1,3 +1,6 @@
+> 本文内容由[霹靂MIT](https://zh.wikipedia.org/wiki/霹靂MIT)转换而来。
+
+
 《**霹靂MIT**》（），是由[八大電視](../Page/八大電視.md "wikilink")與[三匠影視繼](https://zh.wikipedia.org/wiki/三匠影視 "wikilink")《[愛殺17](../Page/愛殺17.md "wikilink")》後再度合作開拍的懸疑[偶像劇](../Page/偶像劇.md "wikilink")。2007年12月18日開鏡。男女主角為[飛輪海](../Page/飛輪海.md "wikilink")成員[炎亞綸](../Page/炎亞綸.md "wikilink")、前[黑Girl](../Page/黑Girl.md "wikilink")成員[吳映潔（鬼鬼）以及](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")[黃鴻升 (小鬼)](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[范瑋琪](../Page/范瑋琪.md "wikilink")。原先[楊士萱](../Page/楊士萱.md "wikilink")所飾演角色改由[陸廷威](../Page/陸廷威.md "wikilink")扮演。本劇已在台灣及香港的有線電視播畢。《霹靂MIT》以每集一推理單元為結構，喜劇成分背後隱含充滿寫實與深刻的人心刻畫，諷刺現代社會的教育政策與社會價值觀。
 
 電視劇以高畫質拍攝播送，且受[行政院新聞局](../Page/行政院新聞局.md "wikilink")[台灣優質高畫質電視節目補助](https://zh.wikipedia.org/wiki/台灣優質高畫質電視節目補助 "wikilink")。

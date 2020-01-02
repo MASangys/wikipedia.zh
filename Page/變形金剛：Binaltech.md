@@ -1,3 +1,6 @@
+> 本文内容由[變形金剛：Binaltech](https://zh.wikipedia.org/wiki/變形金剛：Binaltech)转换而来。
+
+
 **變形金剛：Binaltech**(<sup><small>[日文原名](https://zh.wikipedia.org/wiki/日文 "wikilink")：</small></sup>**Transformers: Binaltech**)是日本在2003年推出的一款[變形金剛的產品線](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")。歐美則是於2004年以**Transformers: Alternators**的標題在市場上發售。
 
 本系列是與幾家汽車廠商品牌合作，推出1/24含合金高精密度的真車模型，配合上G1許多的經典人物加上全新造型以及原創劇情來推出。不過歐美地區在2004年"Transformers: Alternators"系列取消了合金成分。

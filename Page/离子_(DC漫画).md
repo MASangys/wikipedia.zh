@@ -1,3 +1,6 @@
+> 本文内容由[离子 \(DC漫画\)](https://zh.wikipedia.org/wiki/离子_\(DC漫画\))转换而来。
+
+
 **离子**（）是[DC漫画公司的虚构人物](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")，可以指一名超级英雄或精神實體。由作家贾德·维尼克和艺术家戴尔·伊格尔舍姆创作于《[绿灯侠](https://zh.wikipedia.org/wiki/绿灯侠_\(漫画书\) "wikilink") 第三卷 \#142》。开始时，“离子侠”被设计为《绿灯侠》主人公[凯尔·雷纳](../Page/凯尔·雷纳.md "wikilink")的新超级英雄身份。“离子”后来被揭示为一个可以变形为与宿主互利共生的实体；即是说“**离子侠**”指的是离子进入宿主[凯尔·雷纳](../Page/凯尔·雷纳.md "wikilink")以及后来的[索达姆·亚特后](https://zh.wikipedia.org/wiki/索达姆·亚特 "wikilink")，宿主的新身份。这是对[百烈煞](../Page/百烈煞.md "wikilink")的[追溯连续性设定很类似的效仿](https://zh.wikipedia.org/wiki/追溯连续性 "wikilink")：百烈煞起初是一个作为[哈尔·乔丹](../Page/哈尔·乔丹.md "wikilink")对手的新超级反派，而后来在2004年－2005年迷你系列《[绿灯侠：重生](https://zh.wikipedia.org/wiki/绿灯侠：重生 "wikilink")》中，其被揭示为一个可寄生的恐惧化身。
 
 ## 虚构角色传记

@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚6500 slide](https://zh.wikipedia.org/wiki/诺基亚6500_slide)转换而来。
+
+
 **诺基亚 6500s**（****）是一款[诺基亚](../Page/诺基亚.md "wikilink")生产的[Series 40平台](../Page/Series_40.md "wikilink")[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，是[诺基亚 6500c的滑盖版本](https://zh.wikipedia.org/wiki/诺基亚_6500c "wikilink")。
 
 ## 特性

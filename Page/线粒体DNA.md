@@ -1,3 +1,6 @@
+> 本文内容由[线粒体DNA](https://zh.wikipedia.org/wiki/线粒体DNA)转换而来。
+
+
 [Map_of_the_human_mitochondrial_genome.svg](https://zh.wikipedia.org/wiki/File:Map_of_the_human_mitochondrial_genome.svg "fig:Map_of_the_human_mitochondrial_genome.svg")
 
 [Electron_microscopy_reveals_mitochondrial_DNA_in_discrete_foci.jpg](https://zh.wikipedia.org/wiki/File:Electron_microscopy_reveals_mitochondrial_DNA_in_discrete_foci.jpg "fig:Electron_microscopy_reveals_mitochondrial_DNA_in_discrete_foci.jpg") |volume=2 |issue= |page=9 |year=2004 |pmid=15157274 |pmc=425603 |doi = 10.1186/1741-7007-2-9 |url = [http://www.biomedcentral.com/1741-7007/2/9|last2=Kimura](http://www.biomedcentral.com/1741-7007/2/9%7Clast2=Kimura) |last3=Cook }}</ref>\]\]

@@ -1,3 +1,6 @@
+> 本文内容由[瓦爾特PP手槍](https://zh.wikipedia.org/wiki/瓦爾特PP手槍)转换而来。
+
+
 **瓦爾特PP** (）是由德國[卡爾·瓦爾特運動槍有限公司制造的](https://zh.wikipedia.org/wiki/卡爾·瓦爾特運動槍有限公司 "wikilink")[反沖作用操作](../Page/反沖作用_\(槍械\).md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 歷史

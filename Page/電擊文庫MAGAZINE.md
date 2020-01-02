@@ -1,3 +1,6 @@
+> 本文内容由[電擊文庫MAGAZINE](https://zh.wikipedia.org/wiki/電擊文庫MAGAZINE)转换而来。
+
+
 是[KADOKAWA](../Page/KADOKAWA.md "wikilink")發行的季刊[輕小說](../Page/輕小說.md "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，於2007年12月10日作為雙月刊創刊，是於同年10月10日停刊的《[電擊hp](../Page/電擊hp.md "wikilink")》後繼雜誌。前兩期以《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》增刊的形式發行，次年4月10日正式獨立創刊。2019年7月10日的第68期起改為每年1、4、7、10月10日發售的季刊雜誌。主要刊載內容為[電擊文庫](../Page/電擊文庫.md "wikilink")與[MediaWorks文庫](../Page/MediaWorks文庫.md "wikilink")所屬作家的連載或短篇小說，以及兩文庫旗下作品的相關情報。
 
 ## 連載作品

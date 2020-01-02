@@ -1,3 +1,6 @@
+> 本文内容由[豐田Prius c](https://zh.wikipedia.org/wiki/豐田Prius_c)转换而来。
+
+
 **豐田Prius c**（C代表城市），在日本被稱為**TOYOTA AQUA**（），是由[豐田汽車公司所生產製造的](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[次緊湊型](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")[油電混合車](https://zh.wikipedia.org/wiki/油電混合車 "wikilink")。是豐田Prius家族系列產品的第三個成員，為結合[豐田Yaris](../Page/豐田Yaris.md "wikilink")車型大小的油電車版本。PRIUS C的訂價低於傳統的[豐田普銳斯](../Page/豐田普銳斯.md "wikilink")，根據[美國環境保護署的測試報告](https://zh.wikipedia.org/wiki/美國環境保護署 "wikilink")，其在城市中行駛有著比較高的燃油效率。
 
 ## 概念車
@@ -72,41 +75,23 @@ Prius C在2012年4月於澳大利亞開始上市銷售，訂價在23,990元[澳�
 [Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink") [Category:混合动力汽车](https://zh.wikipedia.org/wiki/Category:混合动力汽车 "wikilink") [Category:次紧凑型车](https://zh.wikipedia.org/wiki/Category:次紧凑型车 "wikilink") [Category:掀背车](https://zh.wikipedia.org/wiki/Category:掀背车 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:CVT變速系統車輛](https://zh.wikipedia.org/wiki/Category:CVT變速系統車輛 "wikilink") [Category:2011年面世的汽車](https://zh.wikipedia.org/wiki/Category:2011年面世的汽車 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.  *See the section: December 2012 Hybrid Cars Numbers. A total of 434,498 hybrid electric vehicles were sold during 2012.*
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
 20.
-
 21.

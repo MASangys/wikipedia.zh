@@ -1,3 +1,6 @@
+> 本文内容由[香港Cosplay活動列表](https://zh.wikipedia.org/wiki/香港Cosplay活動列表)转换而来。
+
+
 [香港](../Page/香港.md "wikilink")境內先後有十多個公開舉辦的[Cosplay](../Page/Cosplay.md "wikilink")活動，遍布[香港](../Page/香港.md "wikilink")、[九龍](../Page/九龍.md "wikilink")及[新界](../Page/新界.md "wikilink")。
 
 ## 大型活動

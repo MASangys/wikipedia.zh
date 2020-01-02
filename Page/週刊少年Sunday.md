@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Sunday](https://zh.wikipedia.org/wiki/週刊少年Sunday)转换而来。
+
+
 《**週刊少年Sunday**》（日語：）是[日本](../Page/日本.md "wikilink")[小学馆发行的综合性少年](https://zh.wikipedia.org/wiki/小学馆 "wikilink")[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")。該雜誌创刊於1959年，取名為Sunday只是為使讀者感受週日般快樂輕鬆的氣氛，雜誌本身是於每**周三**发行。拥有包括[安达充](../Page/安达充.md "wikilink")、[高桥留美子](../Page/高桥留美子.md "wikilink")、[青山刚昌在内的一批著名](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")。刊载作品从画技到情节都很优秀，题材有运动、科幻、魔幻、侦破、历史、恋爱等，呈现多样化格局。相較於強調“努力”“友情”“勝利”的《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》，该刊作品相对欠缺明显的整体风格，比較傾向於由作家自行發揮。比起《週刊少年JUMP》以[市調至上](https://zh.wikipedia.org/wiki/市調 "wikilink")，經常在市調不佳時中止漫畫，該刊作品也多由作家畫至故事告一段落時才結束（也因此有故事冗長之批評）。发行量较《週刊少年Jump》和《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》為低。
 
 台灣是由[青文出版社](../Page/青文出版社.md "wikilink")取得大部分漫畫的版權，曾在《[元氣少年](https://zh.wikipedia.org/wiki/元氣少年 "wikilink")》上進行連載，但該雜誌已於2009年5月5日停刊。

@@ -1,3 +1,6 @@
+> 本文内容由[極限體能王SASUKE](https://zh.wikipedia.org/wiki/極限體能王SASUKE)转换而来。
+
+
 **極限體能王**（**SASUKE**）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")不定期播出的[運動](../Page/体育.md "wikilink")[娛樂](../Page/娛樂.md "wikilink")特別節目。
 
 正式名稱是「終極的生存遊戲SASUKE」。SASUKE的名稱是由[猿飛佐助](../Page/猿飛佐助.md "wikilink")的典故而來。第1回是在1997年秋天播出，當初是《[挑戰冠軍王](../Page/筋肉擂台.md "wikilink")》中的特別節目。『挑戰冠軍王』因為某些意外而在2002年5月停止播出。但由於SASUKE深受觀眾喜愛，從2002年秋天的第10回大會起以獨立節目的型態繼續播出（其間也有兩度以大型節目中的特別單元形式播出）。

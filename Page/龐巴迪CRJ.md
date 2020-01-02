@@ -1,3 +1,6 @@
+> 本文内容由[龐巴迪CRJ](https://zh.wikipedia.org/wiki/龐巴迪CRJ)转换而来。
+
+
 [Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg](https://zh.wikipedia.org/wiki/File:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_\(Brit_Air\)_-_F-GRJB_-_LEMD.jpg "fig:Canadair_CL-600-2B19_Regional_Jet_CRJ-100ER_-_Air_France_(Brit_Air)_-_F-GRJB_-_LEMD.jpg")的CRJ-100ER\]\] **龐巴迪CRJ**（即的縮寫，意为[加拿大](../Page/加拿大.md "wikilink")區域客機）系列客機，是[加拿大](../Page/加拿大.md "wikilink")[龐巴迪宇航公司所生產的](https://zh.wikipedia.org/wiki/龐巴迪宇航公司 "wikilink")[支線客機系列](https://zh.wikipedia.org/wiki/支線客機 "wikilink")，生產地位於[加拿大](../Page/加拿大.md "wikilink")，CRJ以及庞巴迪正在生产的[庞巴迪C系列的主要競爭對手為](https://zh.wikipedia.org/wiki/庞巴迪C系列 "wikilink")[巴西航空工業所生產的](https://zh.wikipedia.org/wiki/巴西航空工業 "wikilink")[ERJ-145](https://zh.wikipedia.org/wiki/ERJ-145 "wikilink")、[ERJ-190系列客機](https://zh.wikipedia.org/wiki/ERJ-190 "wikilink")。
 
 ## 發展

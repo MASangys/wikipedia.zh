@@ -1,3 +1,6 @@
+> 本文内容由[灵魂能力III](https://zh.wikipedia.org/wiki/灵魂能力III)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[Namco公司出品的](https://zh.wikipedia.org/wiki/Namco "wikilink")3D格鬥遊戲《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列的第三作（如果把《[刀魂](https://zh.wikipedia.org/wiki/刀魂 "wikilink")》都算為一代的話，則此作應為第四作），與上作同樣屬於[街機與家庭主機的跨平台作品](https://zh.wikipedia.org/wiki/街機 "wikilink")。本作於2005年11月23日在家庭遊戲主機[PlayStation 2上發售](../Page/PlayStation_2.md "wikilink")，並打著「劍魂系列十周年紀念作品」的名義推出。
 
 ## 內容概述

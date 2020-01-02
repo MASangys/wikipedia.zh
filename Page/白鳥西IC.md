@@ -1,3 +1,6 @@
+> 本文内容由[白鳥西IC](https://zh.wikipedia.org/wiki/白鳥西IC)转换而来。
+
+
 **白鳥西IC**（平假名：しろとりにしインターチェンジ）是位於[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[郡上市](../Page/郡上市.md "wikilink")的[中部縱貫自動車道](https://zh.wikipedia.org/wiki/中部縱貫自動車道 "wikilink")（[油坂峽道路](https://zh.wikipedia.org/wiki/油坂峽道路 "wikilink")）之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

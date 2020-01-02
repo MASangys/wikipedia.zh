@@ -1,3 +1,6 @@
+> 本文内容由[歡迎來到Pia Carrot!!](https://zh.wikipedia.org/wiki/歡迎來到Pia_Carrot!!)转换而来。
+
+
 是[Cocktail Soft](../Page/Cocktail_Soft.md "wikilink")（[F\&C](../Page/F&C.md "wikilink")）在1996年7月26日發售的[PC-9801平台](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，[歡迎來到Pia Carrot\!\!系列的第](../Page/歡迎來到Pia_Carrot!!系列.md "wikilink")1作。後來移植到[PC-FX](../Page/PC-FX.md "wikilink")、[Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，並且改編成OVA共三集。
 
 ## 故事

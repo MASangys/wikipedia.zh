@@ -1,3 +1,6 @@
+> 本文内容由[绿色GDP](https://zh.wikipedia.org/wiki/绿色GDP)转换而来。
+
+
 **绿色国内生产总值**，缩写为**GeGDP**，简称为**绿色GDP**，是一个以[经济增长](../Page/经济增长.md "wikilink")和环境因素综合起来的一个指数。
 
 ## 計算方式

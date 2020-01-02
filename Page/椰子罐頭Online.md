@@ -1,3 +1,6 @@
+> 本文内容由[椰子罐頭Online](https://zh.wikipedia.org/wiki/椰子罐頭Online)转换而来。
+
+
 **椰子罐頭（COCOCAN）**，原名**水果村**、**諾亞方舟（Noah's Ark）**是由[遊戲橘子](../Page/遊戲橘子.md "wikilink")開發的休閒[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，[台灣方面由於人數不斷銳減](https://zh.wikipedia.org/wiki/台灣 "wikilink")，自2008年10月1日起停止營運。
 
 椰子罐頭自2003年初在台灣推廣以來，吸引不少網友的興趣，玩家年齡層廣，之後也在日本、[香港](../Page/香港.md "wikilink")等地掀起風潮。

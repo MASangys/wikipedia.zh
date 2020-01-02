@@ -1,3 +1,6 @@
+> 本文内容由[真·女神轉生III－Nocturne](https://zh.wikipedia.org/wiki/真·女神轉生III－Nocturne)转换而来。
+
+
 是一款由日本公司[Atlus](../Page/Atlus.md "wikilink")開發及發行的[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，是Atlus在步入第六代主機時代時為[PlayStation 2開發的第二款遊戲](../Page/PlayStation_2.md "wikilink")（第一款為《[魔劍爻](https://zh.wikipedia.org/wiki/魔劍爻 "wikilink")》）。作為[女神轉生系列](../Page/女神轉生系列.md "wikilink")的正傳作品，距離在[超級任天堂](../Page/超級任天堂.md "wikilink")上發表的《[真·女神轉生II](https://zh.wikipedia.org/wiki/真·女神轉生II "wikilink")》的發售時間相差了幾乎8年多。在繼承了前作的各種元素外亦在自身進行了許多的改革，最明顯的是畫面由當初的[第一人稱視角變成跟隨潮流的](https://zh.wikipedia.org/wiki/第一人稱視角 "wikilink")[第三人稱視角全實時](https://zh.wikipedia.org/wiki/第三人稱視角 "wikilink")3D環境，還有獨特的進化了的[回合制戰鬥](https://zh.wikipedia.org/wiki/回合制 "wikilink")。
 
 次年Atlus推出了導演剪輯版《真·女神轉生III－Nocturne Maniax》（狂熱版），新增困難模式、迷宮等，還有原出自[卡普空](../Page/卡普空.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")《[惡魔獵人2](../Page/惡魔獵人2.md "wikilink")》的主角但丁客串演出。

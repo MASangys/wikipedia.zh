@@ -1,3 +1,6 @@
+> 本文内容由[A Time For Us](https://zh.wikipedia.org/wiki/A_Time_For_Us)转换而来。
+
+
 **《A Time For Us》**是[容祖兒](../Page/容祖兒.md "wikilink")的第二十五張個人唱片，於2009年4月30日公開發售，隨碟附送56頁「A Time For Us寫真集」及「MIOGGI護膚禮品包」一份。容祖兒稱原本構思推出EP，但由於唱片公司想推出大碟，而且推出EP或大碟，所需宣傳費一樣，所以最後該唱片由3月延遲至4月才能推出。
 
 2009年6月6日，《A Time For Us》推出第二版，加收錄了5首MV。

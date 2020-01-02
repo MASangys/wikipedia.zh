@@ -1,3 +1,6 @@
+> 本文内容由[豐田Coaster](https://zh.wikipedia.org/wiki/豐田Coaster)转换而来。
+
+
 **豐田考斯特**（）是一款由[豐田汽車公司所出產的](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[小型巴士](https://zh.wikipedia.org/wiki/小型巴士 "wikilink")。Coaster設有多個版本，有短軸版（16座位，6.2米長）、長軸版（20-24座位，6.9米長）以及超長軸版（23-28座位，7.7米長）。
 
 因為豐田Coaster的可靠性及成本效益皆高，豐田Coaster在多個國家或地區，尤其是[亞洲和](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[中東地區十分常見](https://zh.wikipedia.org/wiki/中東地區 "wikilink")，如在香港幾乎所有小巴營運商都使用豐田Coaster為車隊主力。

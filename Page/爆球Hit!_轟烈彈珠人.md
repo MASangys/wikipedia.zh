@@ -1,3 +1,6 @@
+> 本文内容由[爆球Hit! 轟烈彈珠人](https://zh.wikipedia.org/wiki/爆球Hit!_轟烈彈珠人)转换而来。
+
+
 《**爆球Hit！轟烈彈珠人**》（）是[倉谷友也的作品](https://zh.wikipedia.org/wiki/倉谷友也 "wikilink")，在[小學館](../Page/小學館.md "wikilink")的漫畫雜誌[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")中連載，此外根據本作改編的[電視動畫作品於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2006年1月9日到同年12月25日期間在[東京電視台](../Page/東京電視台.md "wikilink")播放。
 
 ## 登場人物

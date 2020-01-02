@@ -1,3 +1,6 @@
+> 本文内容由[追擊者 THE CHASER](https://zh.wikipedia.org/wiki/追擊者_THE_CHASER)转换而来。
+
+
 《**追擊者 THE CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")2012年5月28日起播出的[月火迷你連續劇](../Page/SBS月火連續劇.md "wikilink")。由曾經執筆《[太王四神記](../Page/太王四神記.md "wikilink")》、《[KAIST](../Page/KAIST_\(電視劇\).md "wikilink")》的作家[朴慶秀](../Page/朴慶秀.md "wikilink")與執導《[鄰居冤家](../Page/鄰居冤家.md "wikilink")》、《[玻璃之城](../Page/菜鳥變鳳凰.md "wikilink")》的導演[趙南國](../Page/趙南國.md "wikilink")攜手打造。
 
 ## 簡介

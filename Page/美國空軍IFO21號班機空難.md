@@ -1,3 +1,6 @@
+> 本文内容由[美國空軍IFO21號班機空難](https://zh.wikipedia.org/wiki/美國空軍IFO21號班機空難)转换而来。
+
+
 1996年4月3日，一架[美軍的](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[波音CT-43型軍用機於](https://zh.wikipedia.org/wiki/波音T43 "wikilink")[克羅地亞執行任務時](https://zh.wikipedia.org/wiki/克羅地亞 "wikilink")，失事墜毀於距離[杜布羅夫尼克](../Page/杜布羅夫尼克.md "wikilink")機場北部約3公里外的山區。機上34人死亡，其中一名女空中[醫療軍士被救難人員發現的時候仍然活著](https://zh.wikipedia.org/wiki/醫療軍士 "wikilink")，可是在送往醫院途中於[救護車](../Page/救護車.md "wikilink")內去世，令這次意外無人生還。死難者名單中包括當時的[美國商務部長](https://zh.wikipedia.org/wiki/美國商務部長 "wikilink")[羅納德·布朗](https://zh.wikipedia.org/wiki/羅納德·布朗 "wikilink")。
 
 這架飛機是由駐[德國美國空軍第](https://zh.wikipedia.org/wiki/德國 "wikilink")86中隊營運。跟民用的737不同，它的駕駛艙並沒有設置[飛行紀錄儀](../Page/飛行紀錄儀.md "wikilink")及駕駛艙通話記錄。

@@ -1,3 +1,6 @@
+> 本文内容由[香港政府WiFi通](https://zh.wikipedia.org/wiki/香港政府WiFi通)转换而来。
+
+
 [Govwifi.jpg](https://zh.wikipedia.org/wiki/File:Govwifi.jpg "fig:Govwifi.jpg") [GovWiFi_sign_at_Tsing_Yi_Park_(Hong_Kong).jpg](https://zh.wikipedia.org/wiki/File:GovWiFi_sign_at_Tsing_Yi_Park_\(Hong_Kong\).jpg "fig:GovWiFi_sign_at_Tsing_Yi_Park_(Hong_Kong).jpg")觀景台的香港政府WiFi通標誌，顯示該範圍設有無線網絡。\]\]
 
 **香港政府WiFi通**（GovWiFi）是[香港特別行政區政府](../Page/香港特別行政區政府.md "wikilink")[政府資訊科技總監辦公室](../Page/政府資訊科技總監辦公室.md "wikilink")推行的2008年[數碼21資訊科技策略的其中一個重點計劃](https://zh.wikipedia.org/wiki/數碼21 "wikilink")，銳意將[香港](../Page/香港.md "wikilink")打造成無線城市。\[1\]香港政府WiFi通在指定的政府場地設置[Wi-Fi](../Page/Wi-Fi.md "wikilink")，供予公眾免費接達[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")。

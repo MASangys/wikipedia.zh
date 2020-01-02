@@ -1,3 +1,6 @@
+> 本文内容由[生命有TAKE2](https://zh.wikipedia.org/wiki/生命有TAKE2)转换而来。
+
+
 《**生命有TAKE2**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。監製[徐正康](../Page/徐正康.md "wikilink")。
 
 ## 故事概要

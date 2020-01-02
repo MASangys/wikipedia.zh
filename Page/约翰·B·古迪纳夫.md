@@ -1,3 +1,6 @@
+> 本文内容由[约翰·B·古迪纳夫](https://zh.wikipedia.org/wiki/约翰·B·古迪纳夫)转换而来。
+
+
 **约翰·班尼斯特·古迪纳夫**（，），[美国](../Page/美国.md "wikilink")[固体物理学](../Page/固体物理学.md "wikilink")家，是二次電池產業的重要學者。他目前是美國[德州大學奧斯汀分校的](https://zh.wikipedia.org/wiki/德州大學奧斯汀分校 "wikilink")[機械工程和](https://zh.wikipedia.org/wiki/機械工程 "wikilink")[材料科學教授](https://zh.wikipedia.org/wiki/材料科學 "wikilink")。\[1\]
 
 古迪納夫是獲獎時最高齡（97歲）的諾貝爾獎得主，刷新了[阿瑟·亞希金](https://zh.wikipedia.org/wiki/阿瑟·亞希金 "wikilink")（96歲）的紀錄。

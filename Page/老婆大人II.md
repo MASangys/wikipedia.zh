@@ -1,3 +1,6 @@
+> 本文内容由[老婆大人II](https://zh.wikipedia.org/wiki/老婆大人II)转换而来。
+
+
 《**老婆大人II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，是《[老婆大人](../Page/老婆大人_\(香港\).md "wikilink")》續集，由[宣萱](../Page/宣萱.md "wikilink")及[陳錦鴻](../Page/陳錦鴻.md "wikilink")領銜主演，並由[許紹雄](../Page/許紹雄.md "wikilink")、[滕麗名](../Page/滕麗名.md "wikilink")、[唐詩詠及](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")[李思捷](../Page/李思捷.md "wikilink")聯合主演，監製[莊偉建](../Page/莊偉建.md "wikilink")。此劇2009無綫節目精選第一季劇集之一。
 
 ## 演員表

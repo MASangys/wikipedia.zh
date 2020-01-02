@@ -1,3 +1,6 @@
+> 本文内容由[金輪號NZJ2型柴油動車組](https://zh.wikipedia.org/wiki/金輪號NZJ2型柴油動車組)转换而来。
+
+
 **NZJ2型“金輪號”柴油動車組**是[中國鐵路的準高速](https://zh.wikipedia.org/wiki/中國鐵路 "wikilink")[柴油動車組車款之一](https://zh.wikipedia.org/wiki/柴油動車組 "wikilink")，屬於動力集中式，採用推拉式設計。
 
 ## 車輛簡介

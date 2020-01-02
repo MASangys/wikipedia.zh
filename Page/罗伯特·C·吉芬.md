@@ -1,3 +1,6 @@
+> 本文内容由[罗伯特·C·吉芬](https://zh.wikipedia.org/wiki/罗伯特·C·吉芬)转换而来。
+
+
 **罗伯特·C·吉芬（Robert C. Giffen）**  [美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[中將](../Page/中將.md "wikilink")。
 
 ## 生平

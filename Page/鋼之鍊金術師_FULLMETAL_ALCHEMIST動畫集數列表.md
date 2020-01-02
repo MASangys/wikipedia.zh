@@ -1,3 +1,6 @@
+> 本文内容由[鋼之鍊金術師 FULLMETAL ALCHEMIST動畫集數列表](https://zh.wikipedia.org/wiki/鋼之鍊金術師_FULLMETAL_ALCHEMIST動畫集數列表)转换而来。
+
+
 以下是[日本](../Page/日本.md "wikilink")[动漫系列](https://zh.wikipedia.org/wiki/动漫 "wikilink")《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》第2作動畫 ──《[鋼之鍊金術師 FULLMETAL ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》的各話简介，共播出5、全64話。
 
 ## 各話簡介

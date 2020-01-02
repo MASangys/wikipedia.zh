@@ -1,3 +1,6 @@
+> 本文内容由[柯尼卡美能達Dynax 5D](https://zh.wikipedia.org/wiki/柯尼卡美能達Dynax_5D)转换而来。
+
+
 **Konica Minolta Dynax 5D** 是一部[Konica Minolta公司于](https://zh.wikipedia.org/wiki/Konica_Minolta "wikilink")2005年出品的一款600万[像素](../Page/像素.md "wikilink")[數位單眼相機](../Page/數位單眼相機.md "wikilink")。（此为[欧洲](../Page/欧洲.md "wikilink")及[香港](../Page/香港.md "wikilink")市场名称，[中国市场称作](https://zh.wikipedia.org/wiki/中国 "wikilink")**α-5 Digital**，[北美市场名称为](https://zh.wikipedia.org/wiki/北美 "wikilink")**Konica Minolta Maxxum 5D**[日本](../Page/日本.md "wikilink")市场名称为**Alpha Sweet Digital**）\[1\]
 
 **Dynax 5D**是在前作，定位于中端机型的[Dynax 7D上通过部分功能的简化得到的机型](https://zh.wikipedia.org/wiki/Dynax_7D "wikilink")；而在[索尼接受柯尼卡美能达数码相机事业部门之后](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，亦以此机型为基础而推出其第一台DSLR [α100](https://zh.wikipedia.org/wiki/索尼ALPHA_DSLR-A100 "wikilink")。

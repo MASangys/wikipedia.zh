@@ -1,3 +1,6 @@
+> 本文内容由[甲B五鼠事件](https://zh.wikipedia.org/wiki/甲B五鼠事件)转换而来。
+
+
 **甲B五鼠事件**是指发生在[2001年中国足球甲级B组联赛最后阶段的连续假球事件](../Page/2001年中国足球甲B联赛.md "wikilink")，也是中国足球职业化至今最严重、最著名的假球案。这五支球队是[浙江绿城](https://zh.wikipedia.org/wiki/浙江绿城 "wikilink")、[成都五牛](https://zh.wikipedia.org/wiki/成都五牛 "wikilink")、[长春亚泰](https://zh.wikipedia.org/wiki/长春亚泰 "wikilink")、[江苏舜天和](https://zh.wikipedia.org/wiki/江苏舜天足球俱乐部 "wikilink")[四川绵阳](https://zh.wikipedia.org/wiki/四川绵阳 "wikilink")。
 
 ## 相关比赛

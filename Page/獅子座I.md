@@ -1,3 +1,6 @@
+> 本文内容由[獅子座I](https://zh.wikipedia.org/wiki/獅子座I)转换而来。
+
+
 {{ Galaxy | | image = [Ugc5470.jpg](https://zh.wikipedia.org/wiki/File:Ugc5470.jpg "fig:Ugc5470.jpg") |caption =在明亮的軒轅十四右邊的獅子座 I，看似一個暗淡的光斑。創建者：司克托安迪拉 () | name = 獅子座 I | epoch = [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") | type = E;dSph\[1\] | ra = \[2\] | dec = \[3\] | dist_ly = 820 ± 70[kly](../Page/光年.md "wikilink") (250 ± 20 [kpc](../Page/秒差距.md "wikilink"))\[4\]\[5\] | z = 285 ± 2 [公里](../Page/公里.md "wikilink")/秒\[6\] | appmag_v = 11.2\[7\] | size_v = 9′.8 × 7′.4\[8\] | constellation name = [獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink") | notes = 銀河系的衛星星系 | names = [UGC](https://zh.wikipedia.org/wiki/Uppsala_General_Catalogue "wikilink") 5470,\[9\] [PGC](https://zh.wikipedia.org/wiki/Principal_Galaxies_Catalogue "wikilink") 29488,\[10\] [DDO](https://zh.wikipedia.org/wiki/David_Dunlap_Observatory_Catalogue "wikilink") 74,\[11\]
 A1006,\[12\]Harrington-Wilson \#1,\[13\]
 Regulus Dwarf\[14\] }}

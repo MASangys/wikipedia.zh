@@ -1,3 +1,6 @@
+> 本文内容由[法兰西岛大区快铁A线](https://zh.wikipedia.org/wiki/法兰西岛大区快铁A线)转换而来。
+
+
 **法兰西岛大区快铁A线**（），简称**RER A**，是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁](../Page/法兰西岛大区快铁.md "wikilink")的一条贯通[巴黎](../Page/巴黎.md "wikilink")市郊东西走向的线路，具有多个分支。该线路连接西偏北的[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")（位於A1分支），[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink")（位於A3分支），[普瓦西站](../Page/普瓦西站.md "wikilink")（位於A5分支），以及东偏南的[布瓦西圣雷热站](../Page/布瓦西圣雷热站.md "wikilink")（位於A2分支），[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")（位於A4分支）。通过巴黎市中心，市区每个车站均可转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")。
 
 A线在[楠泰尔省府站](../Page/楠泰尔省府站.md "wikilink")以西通往A3和A5分支的路段由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）运营，其余路段由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")（RATP）运营。列车全归RATP所有。当前A线客流量居各条快铁线路之首。

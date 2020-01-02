@@ -1,3 +1,6 @@
+> 本文内容由[爆粗Band友](https://zh.wikipedia.org/wiki/爆粗Band友)转换而来。
+
+
 《**重金搖滾雙面人**》（），是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[若杉公德所繪的](https://zh.wikipedia.org/wiki/若杉公德 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，以[死亡金屬音樂](../Page/死亡金屬音樂.md "wikilink")為主題，標題源自於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")[KISS的名曲](../Page/Kiss合唱團.md "wikilink")《Detroit Rock City》。於[白泉社](../Page/白泉社.md "wikilink")所發行的漫畫雜誌《[Young Animal](../Page/Young_Animal.md "wikilink")》上於2005年至2010年期間連載連載。
 
 改編真人[電影於](https://zh.wikipedia.org/wiki/電影 "wikilink")2008年8月23日在[日本](../Page/日本.md "wikilink")上映。2009年由[STUDIO 4℃改編成](../Page/STUDIO_4℃.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全12話。

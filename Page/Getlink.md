@@ -1,3 +1,6 @@
+> 本文内容由[Getlink](https://zh.wikipedia.org/wiki/Getlink)转换而来。
+
+
 **Getlink**，原稱**歐洲隧道公司**（Eurotunnel）簡稱**歐隧公司**，是營運及管理[英法海底隧道](../Page/英法海底隧道.md "wikilink")的公司，成立於1986年8月。
 
 公司透過使用汽車專用車廂，提供汽車來往隧道的穿梭服務，同時也向其他使用隧道的列車徵收費用，包括[歐洲之星](../Page/歐洲之星.md "wikilink")客運列車、[英威蘇鐵路](https://zh.wikipedia.org/wiki/英威蘇鐵路 "wikilink")（EWS）及[法鐵](https://zh.wikipedia.org/wiki/法國國營鐵路公司 "wikilink")（SNCF）的貨運列車。流量方面，使用隧道的乘客量僅為預期的三分之一。

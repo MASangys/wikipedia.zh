@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 800](https://zh.wikipedia.org/wiki/诺基亚Lumia_800)转换而来。
+
+
 諾基亞Lumia 800是由[諾基亞開發](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，採用[Windows Phone作業系統的](../Page/Windows_Phone.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。為2011年2月[諾基亞與](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[微軟組成](https://zh.wikipedia.org/wiki/微軟 "wikilink")[策略性聯盟後](https://zh.wikipedia.org/wiki/策略性聯盟 "wikilink")，首部推出的智能手機。
 
 ## 硬件

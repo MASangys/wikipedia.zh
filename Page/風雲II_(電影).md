@@ -1,3 +1,6 @@
+> 本文内容由[風雲II \(電影\)](https://zh.wikipedia.org/wiki/風雲II_\(電影\))转换而来。
+
+
 是一部以香港漫畫家[馬榮成](../Page/馬榮成.md "wikilink")漫畫《[風雲](../Page/風雲_\(漫畫\).md "wikilink")》為基礎所改編的玄幻武俠電影，是1998年香港電影《[風雲：雄霸天下](../Page/風雲：雄霸天下_\(1998年電影\).md "wikilink")》的續集，在前作中擔當主演的[郭富城](../Page/郭富城.md "wikilink")和[鄭伊健](../Page/鄭伊健.md "wikilink")在本片中再次攜手，另有[任达华](https://zh.wikipedia.org/wiki/任达华 "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")、[何家勁](../Page/何家勁.md "wikilink")、[唐嫣](../Page/唐嫣.md "wikilink")等明星加盟其中。本片於2008年3月18日舉行新聞發布會\[1\]，3月底在泰國正式開拍，同年7月2日殺青\[2\]，2009年12月9日下午兩點在中國大陸正式上映\[3\]。
 
 ## 故事大綱

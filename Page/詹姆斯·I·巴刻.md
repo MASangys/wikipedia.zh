@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·I·巴刻](https://zh.wikipedia.org/wiki/詹姆斯·I·巴刻)转换而来。
+
+
 **詹姆斯·恩尼爾·巴刻**（或譯**占士·I·巴刻**，簡稱**巴刻**；**James Innell Packer**，簡稱 **J. I. Packer**，），是著名[基督教](../Page/基督教.md "wikilink")[神學家](https://zh.wikipedia.org/wiki/神學家 "wikilink")。 他是加拿大英屬哥倫比亞省維真學院的教授，被公認為是當代最具影響力的[福音派](../Page/福音派.md "wikilink")領袖.\[1\] 。 他獲得文學學士 (1948)，文學碩士(1952)和哲學博士(1955)\[2\]。 他的神學思想深受其牛津大學教授[C·S·路易斯](../Page/C·S·路易斯.md "wikilink")影響。
 
 ## 簡歷

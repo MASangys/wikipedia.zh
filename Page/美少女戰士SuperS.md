@@ -1,3 +1,6 @@
+> 本文内容由[美少女戰士SuperS](https://zh.wikipedia.org/wiki/美少女戰士SuperS)转换而来。
+
+
 《**美少女戰士SuperS**》（）是1995年3月4日到1996年3月2日播放的[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要

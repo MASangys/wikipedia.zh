@@ -1,3 +1,6 @@
+> 本文内容由[沙羅曼蛇 \(OVA\)](https://zh.wikipedia.org/wiki/沙羅曼蛇_\(OVA\))转换而来。
+
+
 《**沙羅曼蛇**》（），是改編自日本遊戲公司[柯拿米所發行之橫向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/柯拿米 "wikilink")《**[沙羅曼蛇](https://zh.wikipedia.org/wiki/沙羅曼蛇 "wikilink")**》的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")，由[Studio Pierrot所製作](../Page/Studio_Pierrot.md "wikilink")，為《**沙羅曼蛇三部曲**》的首部曲，不過發行日期較《沙羅曼蛇二部曲》晚。於1988年11月30日發行[錄影帶](https://zh.wikipedia.org/wiki/錄影帶 "wikilink")，1989年3月21日發行影碟，[臺灣](../Page/臺灣.md "wikilink")的[霹靂衛星電視台以及](https://zh.wikipedia.org/wiki/霹靂衛星電視台 "wikilink")[衛視電影台](../Page/衛視電影台.md "wikilink")都曾經播出。
 
 ## 劇情概要

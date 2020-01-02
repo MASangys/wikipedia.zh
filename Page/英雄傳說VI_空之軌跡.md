@@ -1,3 +1,6 @@
+> 本文内容由[英雄傳說VI 空之軌跡](https://zh.wikipedia.org/wiki/英雄傳說VI_空之軌跡)转换而来。
+
+
 是[日本Falcom](../Page/日本Falcom.md "wikilink")公司製作的[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。本作為[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")的第六代作品，也是該系列第三期[軌跡系列第一系列作](https://zh.wikipedia.org/wiki/軌跡系列 "wikilink")。包含了《**英雄傳說 空之軌跡FC**》、《**英雄傳說 空之軌跡SC**》、《**英雄傳說 空之軌跡 the 3rd**》共3部作品。
 
 Falcom慶祝創立30周年之時，正式宣布將推出動畫作品\[1\]，並於2011年11月贩售以《英雄傳說 空之軌跡 THE ANIMATION》作為標題的OVA動畫DVD。

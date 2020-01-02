@@ -1,3 +1,6 @@
+> 本文内容由[法證先鋒II](https://zh.wikipedia.org/wiki/法證先鋒II)转换而来。
+
+
 《**法證先鋒II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝查案[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第二部，全劇共30集，由[歐陽震華](../Page/歐陽震華.md "wikilink")、[林文龍](../Page/林文龍.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[佘詩曼及](https://zh.wikipedia.org/wiki/佘詩曼 "wikilink")[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，由[鍾嘉欣特別演出](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，並由[曹永廉](../Page/曹永廉.md "wikilink")及[郭少芸](../Page/郭少芸.md "wikilink")聯合主演，監製[梅小青](../Page/梅小青.md "wikilink")。
 
 ## 演員表

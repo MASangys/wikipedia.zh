@@ -1,3 +1,6 @@
+> 本文内容由[ISS集團](https://zh.wikipedia.org/wiki/ISS集團)转换而来。
+
+
 [ISS_VW_LT_Østerbro.jpg](https://zh.wikipedia.org/wiki/File:ISS_VW_LT_Østerbro.jpg "fig:ISS_VW_LT_Østerbro.jpg")
 
 **ISS集團**，(**Integrated Service Solutions**)，是一間成立於1901年的[跨國公司](../Page/跨國公司.md "wikilink")，總公司在[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[哥本哈根](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")，主要生意為[設施管理及](https://zh.wikipedia.org/wiki/設施管理 "wikilink")[保全](../Page/保全.md "wikilink")[清潔等](https://zh.wikipedia.org/wiki/清潔 "wikilink")。ISS在全球46個國家擁有超過485,908名員工(截至2018年底)。集團2018年收入達735.92億丹麥克朗(DKK)，自然增長3.9%，

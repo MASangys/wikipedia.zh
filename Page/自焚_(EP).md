@@ -1,3 +1,6 @@
+> 本文内容由[自焚 \(EP\)](https://zh.wikipedia.org/wiki/自焚_\(EP\))转换而来。
+
+
 《**自焚**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張立基](../Page/張立基.md "wikilink")的第一張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在1988年3月推出。專輯的第一主打歌是大碟同名歌曲《自焚》，而第二主打歌則是《心跳》。
 
 ## 曲目

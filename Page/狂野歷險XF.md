@@ -1,3 +1,6 @@
+> 本文内容由[狂野歷險XF](https://zh.wikipedia.org/wiki/狂野歷險XF)转换而来。
+
+
 ，是由[Media-Vision開發](https://zh.wikipedia.org/wiki/Media-Vision "wikilink")，[索尼電腦娛樂於](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")2007年8月9日發售的模擬策略[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。[狂野歷險系列](../Page/狂野歷險系列.md "wikilink")的第七作。
 
 ## 概要

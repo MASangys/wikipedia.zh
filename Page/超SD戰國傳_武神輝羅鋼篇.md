@@ -1,3 +1,6 @@
+> 本文内容由[超SD戰國傳 武神輝羅鋼篇](https://zh.wikipedia.org/wiki/超SD戰國傳_武神輝羅鋼篇)转换而来。
+
+
 **武神輝羅鋼篇**是「[超SD戰國傳](https://zh.wikipedia.org/wiki/超SD戰國傳 "wikilink")」首部作品。
 
 故事背景發生在「[SD戰國傳 超機動大將軍篇](https://zh.wikipedia.org/wiki/SD戰國傳_超機動大將軍篇 "wikilink")」後十五年， 當時魔星之子武羅星， 率領魔將組成「百鬼夜行眾」， 在天宮到處肆虐。一名失去記憶的武者， 一心想拯救被魔將魔殺驅威脅、影舞亂夢皇子雷龍時， 突然被「[輝羅鋼](https://zh.wikipedia.org/wiki/SD戰國傳_武神輝羅鋼篇#用語解說 "wikilink")」鎧甲包圍， 將魔將消滅。而這位武者， 因為鎧甲上有「零」字， 被稱為「天零頑馱無」

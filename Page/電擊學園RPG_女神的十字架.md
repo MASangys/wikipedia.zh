@@ -1,3 +1,6 @@
+> 本文内容由[電擊學園RPG 女神的十字架](https://zh.wikipedia.org/wiki/電擊學園RPG_女神的十字架)转换而来。
+
+
 《**電擊學園RPG 女神的十字架**》，是[角川書店](../Page/角川書店.md "wikilink")與[ASCII Media Works為了慶祝](../Page/ASCII_Media_Works.md "wikilink")[電擊文庫](../Page/電擊文庫.md "wikilink")15周年，而在2009年3月19日於[NDS平台上推出的](https://zh.wikipedia.org/wiki/NDS "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此遊戲使用傳統RPG的遊戲模式及2D[橫向捲軸戰鬥模式](https://zh.wikipedia.org/wiki/橫向捲軸遊戲 "wikilink")，一次同時操縱三個人物利用連續攻擊和必殺技進行戰鬥，此遊戲也支援卡片合成系統，為遊戲添加了更大的變數。隨後在2011年2月10日，[角川書店](../Page/角川書店.md "wikilink")與[ASCII Media Works以前作為基礎](../Page/ASCII_Media_Works.md "wikilink")，推出《**電擊學園RPG 女神的十字架 特別版**》。
 
 ## 世界

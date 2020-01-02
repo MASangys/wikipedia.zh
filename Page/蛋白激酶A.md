@@ -1,3 +1,6 @@
+> 本文内容由[蛋白激酶A](https://zh.wikipedia.org/wiki/蛋白激酶A)转换而来。
+
+
 **蛋白激酶A**（，简称为**PKA**）在[细胞生物学](../Page/细胞生物学.md "wikilink")中是指其活性取决于细胞[环腺苷酸](../Page/环腺苷酸.md "wikilink")（cAMP）水平的一家族[酶](../Page/酶.md "wikilink")类。蛋白激酶A也被称为**环腺苷酸依赖性蛋白激酶**（）。蛋白激酶A在细胞中具有多种功能，包括对[糖原](../Page/糖原.md "wikilink")、[糖以及](https://zh.wikipedia.org/wiki/糖 "wikilink")[脂类](https://zh.wikipedia.org/wiki/脂类 "wikilink")[代谢](../Page/代谢.md "wikilink")的调控。
 
 请勿将其与[腺苷一磷酸激活性蛋白激酶](https://zh.wikipedia.org/wiki/腺苷一磷酸激活性蛋白激酶 "wikilink")——尽管也是类似的一类，但效应相反——\[1\]以及[周期蛋白依赖性激酶](../Page/周期蛋白依赖性激酶.md "wikilink")（Cdks）相混淆。

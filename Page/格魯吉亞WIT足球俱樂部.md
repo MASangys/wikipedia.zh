@@ -1,3 +1,6 @@
+> 本文内容由[格魯吉亞WIT足球俱樂部](https://zh.wikipedia.org/wiki/格魯吉亞WIT足球俱樂部)转换而来。
+
+
 **格魯吉亞WIT足球俱樂部**是一家[格魯吉亞的](https://zh.wikipedia.org/wiki/格魯吉亞 "wikilink")[足球俱樂部](https://zh.wikipedia.org/wiki/足球俱樂部 "wikilink")，位於[首都](../Page/首都.md "wikilink")[第比利斯](../Page/第比利斯.md "wikilink")。球隊是一家稱為「WIT格魯吉亞有限公司」贊助，當中WIT代表「世界創新技術」（**W**orld **I**nnovation **T**echnologies）。
 
 2004年，格魯吉亞WIT首次贏得[格魯吉亞足球超級聯賽冠軍](https://zh.wikipedia.org/wiki/格魯吉亞足球超級聯賽 "wikilink")，並因而可參加下屆[歐洲聯賽冠軍盃](https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃 "wikilink")。

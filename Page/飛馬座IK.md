@@ -1,3 +1,6 @@
+> 本文内容由[飛馬座IK](https://zh.wikipedia.org/wiki/飛馬座IK)转换而来。
+
+
 **飛馬座IK**（亦作**HR 8210**）是位於[飛馬座的](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")[聯星](../Page/聯星.md "wikilink")系統，距離[太陽系約](https://zh.wikipedia.org/wiki/太陽系 "wikilink")150[光年](../Page/光年.md "wikilink")。由于视星等仅为6.078等，只有理想状况下才能用肉眼勉强看到。
 
 該聯星系統的主星（飛馬座IK A）是一顆[主序星](../Page/主序星.md "wikilink")，[光譜分類屬A型](../Page/恒星光谱.md "wikilink")，其[光度](../Page/光度.md "wikilink")波動不大。在分類上，它屬[矮造父變星](https://zh.wikipedia.org/wiki/矮造父變星 "wikilink")，光度變化每天會重複22.9次。\[1\]而伴星（飛馬座IK B）則為一顆已脫離主序星階段，並已停止以[核聚變產生能量的大質量](https://zh.wikipedia.org/wiki/核聚變 "wikilink")[白矮星](../Page/白矮星.md "wikilink")。兩顆恆星平均距離3,100萬公里（0.21 [AU](../Page/天文單位.md "wikilink")），比[水星](../Page/水星.md "wikilink")和太陽之間的距離還要短。

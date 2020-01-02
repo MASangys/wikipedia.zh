@@ -1,3 +1,6 @@
+> 本文内容由[黑Girl](https://zh.wikipedia.org/wiki/黑Girl)转换而来。
+
+
 **黑Girl** （英語：**Hey Girl**，前稱：**黑澀會美眉**），[台灣女子演唱組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，成立於2006年5月，初期由九位成員組成，所以又叫「九妞妞」，九位成員都是由《[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")》節目參加者中所選出。曾是台灣演藝史上最多人的女子團體，出道時成員都只有15至22歲。第一代的成員包括：[黃暐婷](../Page/黃暐婷.md "wikilink")（Apple）、[周宜霈](../Page/周宜霈.md "wikilink")（大牙）、[郭婕祈](../Page/郭婕祈.md "wikilink")（MeiMei）、[蔡玓彤](../Page/蔡玓彤.md "wikilink")（彤彤）、[詹子晴](../Page/詹子晴.md "wikilink")（丫頭）、[黃瀞怡](../Page/黃瀞怡.md "wikilink")（小薰）、[吳映潔](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")（鬼鬼）、[王承嫣](../Page/王承嫣.md "wikilink")（小蠻）和[張甯兒](../Page/張甯兒.md "wikilink")（筱婕）。此時期亦為**黑Girl**的黃金時期，跨足唱片、戲劇、節目主持及廣告代言各領域。
 
 2008年[蔡玓彤](../Page/蔡玓彤.md "wikilink")退出團體，正式由**黑澀會美眉**改名為**黑Girl**，重新出發。2009年，[王承嫣](../Page/王承嫣.md "wikilink")及[吳映潔相繼退出團體](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")。

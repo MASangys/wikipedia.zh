@@ -1,3 +1,6 @@
+> 本文内容由[華碩PadFone系列](https://zh.wikipedia.org/wiki/華碩PadFone系列)转换而来。
+
+
 *' Asus Padfone*'是[華碩](../Page/華碩.md "wikilink")旗下的已絕版[智慧型手機系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 
 Asus Padfone最大特色是能將手機放入專屬的平板基座，使手機變成平板，因此又被稱為變形手機。不但可以加大螢幕尺寸，還可以增加電量，第一代的產品甚至還有鍵盤基座，讓手機變成類似筆記型電腦的型態，但後繼機種並沒有提供。

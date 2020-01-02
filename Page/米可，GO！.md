@@ -1,3 +1,6 @@
+> 本文内容由[米可，GO！](https://zh.wikipedia.org/wiki/米可，GO！)转换而来。
+
+
 《**米可，GO！**》是[三群製作事業有限公司製作](https://zh.wikipedia.org/wiki/三群製作事業有限公司 "wikilink")、[公共電視台監製的](https://zh.wikipedia.org/wiki/公共電視台 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，是一部愛與希望的故事。描述一位少女意外中[失明](../Page/失明.md "wikilink")，[導盲犬](../Page/導盲犬.md "wikilink")「米可」帶給這位少女希望的曙光與前進的勇氣。本劇改編的電視[劇本由](https://zh.wikipedia.org/wiki/劇本 "wikilink")[鄭芬芬](../Page/鄭芬芬.md "wikilink")編寫，[台視文化公司](../Page/台視文化公司.md "wikilink")發行，由[夏霏](../Page/夏霏.md "wikilink")改寫成劇本[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。
 
 ## 播出時間

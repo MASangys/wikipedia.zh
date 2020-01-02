@@ -1,3 +1,6 @@
+> 本文内容由[雅-miyavi-](https://zh.wikipedia.org/wiki/雅-miyavi-)转换而来。
+
+
 [Miyavi_at_Irving_Plaza_on_October_31,_2011(cropped).jpg](https://zh.wikipedia.org/wiki/File:Miyavi_at_Irving_Plaza_on_October_31,_2011\(cropped\).jpg "fig:Miyavi_at_Irving_Plaza_on_October_31,_2011(cropped).jpg") **雅-MIYAVI-**（），本名**石原貴雅**實際姓名為“石原崇雅”（Takamasa Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9月14日出生於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")。日本[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[歌手](../Page/歌手.md "wikilink")。其妻為[石川美雪](https://zh.wikipedia.org/wiki/石川美雪 "wikilink")。
 
 日本被喻為吉他武士。全身大部份都有[紋身](https://zh.wikipedia.org/wiki/紋身 "wikilink")，背部的紋身是[般若波羅蜜多心經](../Page/般若波羅蜜多心經.md "wikilink")。

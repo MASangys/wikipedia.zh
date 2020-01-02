@@ -1,3 +1,6 @@
+> 本文内容由[豐田IC](https://zh.wikipedia.org/wiki/豐田IC)转换而来。
+
+
 **豐田IC**（平假名：とよたインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[豐田市的](https://zh.wikipedia.org/wiki/豐田市 "wikilink")[東名高速道路之](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

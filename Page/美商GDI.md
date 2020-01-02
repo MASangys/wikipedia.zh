@@ -1,3 +1,6 @@
+> 本文内容由[美商GDI](https://zh.wikipedia.org/wiki/美商GDI)转换而来。
+
+
 **美商GDI**的全名是**Global Domains International.inc**（**全球網域國際公司**），是一個採[直銷方式的網路服務公司](https://zh.wikipedia.org/wiki/直銷 "wikilink")。在1999年在[加州成立](https://zh.wikipedia.org/wiki/加州 "wikilink")。提供[網域](https://zh.wikipedia.org/wiki/網域 "wikilink")（主要是[.ws](../Page/.ws.md "wikilink")網域，也提供其他網域）和[主機空間服務](https://zh.wikipedia.org/wiki/主機空間 "wikilink")。
 
 ## 沿革

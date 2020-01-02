@@ -1,3 +1,6 @@
+> 本文内容由[桑佳Asa](https://zh.wikipedia.org/wiki/桑佳Asa)转换而来。
+
+
 **桑佳Asa**（，）。[宮崎縣](../Page/宮崎縣.md "wikilink")[小林市](../Page/小林市.md "wikilink")出身。日本女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。舊名義為**藤野Moyamu**（）。 代表作是《[召梦童子](https://zh.wikipedia.org/wiki/召梦童子 "wikilink")》、《[賢者長久不在](https://zh.wikipedia.org/wiki/賢者長久不在 "wikilink")》。
 
 ## 作品

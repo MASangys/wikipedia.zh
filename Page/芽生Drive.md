@@ -1,3 +1,6 @@
+> 本文内容由[芽生Drive](https://zh.wikipedia.org/wiki/芽生Drive)转换而来。
+
+
 《**芽生Drive**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：（）），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[marble的首張](https://zh.wikipedia.org/wiki/marble_\(樂團\) "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年2月21日由[Lantis](../Page/Lantis.md "wikilink")發行，商品編號為LACM-4347。
 
 ## 概況

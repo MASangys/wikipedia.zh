@@ -1,3 +1,6 @@
+> 本文内容由[街頭霸王IV](https://zh.wikipedia.org/wiki/街頭霸王IV)转换而来。
+
+
 **街頭霸王Ⅳ**（，），简称**街霸Ⅳ**（，），是於2008年由在主機推出的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，使用框體。這款[投幣式街機遊戲於](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")2008年6月18日在日本發行，於同年8月引進北美市場。\[1\][PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360的](../Page/Xbox_360.md "wikilink")[電視遊樂器版本預計在](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")2009年2月12日於日本發行，2月17日於北美發行，2月20日於歐洲發行。\[2\][Windows版本於](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2009年7月發行。\[3\]
 
 ## 街頭霸王Ⅱ (Street Fighter II) 原創角色

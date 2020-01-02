@@ -1,3 +1,6 @@
+> 本文内容由[法拉利F12 Berlinetta](https://zh.wikipedia.org/wiki/法拉利F12_Berlinetta)转换而来。
+
+
 **法拉利F12 Berlinetta**是[法拉利于](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")2012年推出的一款前置引擎，后轮驱动的跑车，於2012年[日内瓦车展上对外公布](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")，并且取代[法拉利599系列的车款](../Page/法拉利599_GTB_Fiorano.md "wikilink")。F12 Berlinetta在2012年被[Top gear评为](https://zh.wikipedia.org/wiki/英國瘋狂汽車秀 "wikilink")“2012年度车款”。
 
 ## 规格

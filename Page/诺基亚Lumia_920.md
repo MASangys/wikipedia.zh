@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 920](https://zh.wikipedia.org/wiki/诺基亚Lumia_920)转换而来。
+
+
 **Nokia Lumia 920**是一款[Nokia以](https://zh.wikipedia.org/wiki/Nokia "wikilink")[Windows Phone 8平台所開發的旗艦型](../Page/Windows_Phone_8.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。Lumia 920發表於2012年9月5日，同時也是全球第一部上市的Windows Phone 8智慧型手機，於2012年10月31日在美國、加拿大上市。Nokia Lumia 920在外型設計上與[Nokia Lumia 900相似](https://zh.wikipedia.org/wiki/Nokia_Lumia_900 "wikilink")，同樣採用[Nokia N9風格的設計](https://zh.wikipedia.org/wiki/Nokia_N9 "wikilink")，外殼材料是聚碳酸酯，硬體上配置[Snapdragon第四代](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")（S4）MSM8960 1.5GHz雙核處理器、4.5 吋 1280 × 768 解析度螢幕、870萬像素並帶有PureView技術的卡爾蔡司相機鏡頭、2000 mAh 電池，屬於2012年度的Windows Phone 8旗艦機，微軟在介紹Windows Phone 8時也多以此機種進行展示。
 
 Nokia Lumia 920也內建無線充電模組，可以使用國際標準的Qi無線充電，而Nokia也會為其推出NFC連接的產品，包括無線喇叭、耳機等。Nokia Lumia 920搭載32GB的儲存空間，並享有SkyDrive 7GB的雲端空間，但是不支援MicroSD記憶卡，同期推出的[诺基亚 Lumia 820則支援MicroSD記憶卡](https://zh.wikipedia.org/wiki/诺基亚_Lumia_820 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[潛龍諜影Online](https://zh.wikipedia.org/wiki/潛龍諜影Online)转换而来。
+
+
 是由日本[科樂美](../Page/科樂美.md "wikilink")公司發行，[小島製作製作](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，[PlayStation 3平台發售的多人戰術類動作遊戲](../Page/PlayStation_3.md "wikilink")，於2008年6月12日搭配《[潛龍諜影4 愛國者之槍](../Page/潛龍諜影4_愛國者之槍.md "wikilink")》同步在日本、北美、歐洲與亞洲等地推出在2012年6月12日結束遊戲的營運。
 
 ## 付費下載更新

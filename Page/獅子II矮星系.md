@@ -1,3 +1,6 @@
+> 本文内容由[獅子II矮星系](https://zh.wikipedia.org/wiki/獅子II矮星系)转换而来。
+
+
 **獅子II** （或**Leo B**）是[本星系群](../Page/本星系群.md "wikilink")中的一個[矮星系](../Page/矮星系.md "wikilink")，位於[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，距離大約701,000[光年](../Page/光年.md "wikilink")（215[Kpc](../Page/秒差距.md "wikilink")），直徑大約4,200光年，是[銀河系的衛星系](https://zh.wikipedia.org/wiki/銀河系 "wikilink")。牠於1950年被[羅伯特 G. 哈靈頓和](https://zh.wikipedia.org/wiki/羅伯特_G._哈靈頓 "wikilink")[艾伯特·喬治·威爾遜在](https://zh.wikipedia.org/wiki/艾伯特·喬治·威爾遜 "wikilink")[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[威爾遜山天文台和](https://zh.wikipedia.org/wiki/威爾遜山天文台 "wikilink")[帕洛馬天文台共同發現](https://zh.wikipedia.org/wiki/帕洛馬天文台 "wikilink")。
 
 ## 相關條目

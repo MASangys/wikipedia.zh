@@ -1,3 +1,6 @@
+> 本文内容由[龍刻 RYU-KOKU](https://zh.wikipedia.org/wiki/龍刻_RYU-KOKU)转换而来。
+
+
 《**龍刻 RYU-KOKU**》是[KID](../Page/KID.md "wikilink")於2006年9月21日發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，也是KID[破產](../Page/破產.md "wikilink")前的最後一套遊戲。[英特衛多媒體](../Page/英特衛多媒體.md "wikilink")在台灣發行繁體中文PC版，列為《遊戲偶像劇系列》第4集，分為「平裝版」與「特典版」。
 
 2009年9月底，[北京娱乐通在中国大陆发行了基于](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")[古月游戏引擎的简体中文PC版](https://zh.wikipedia.org/wiki/古月游戏引擎 "wikilink")。这个版本放弃了传统的基于光盘验证的数字版权保护技术，完全依赖于网络激活，是中国大陆少有的几个不需要插光盘就能运行的[单机游戏](../Page/单机游戏.md "wikilink")之一。

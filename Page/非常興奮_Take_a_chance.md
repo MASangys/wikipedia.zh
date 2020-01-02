@@ -1,3 +1,6 @@
+> 本文内容由[非常興奮 Take a chance](https://zh.wikipedia.org/wiki/非常興奮_Take_a_chance)转换而来。
+
+
 《**非常興奮 Take a chance**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第51張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年10月10日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

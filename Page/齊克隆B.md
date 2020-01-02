@@ -1,3 +1,6 @@
+> 本文内容由[齊克隆B](https://zh.wikipedia.org/wiki/齊克隆B)转换而来。
+
+
 [Zyklon_B_Container.jpg](https://zh.wikipedia.org/wiki/File:Zyklon_B_Container.jpg "fig:Zyklon_B_Container.jpg") **齊克隆B**（Zyklon B或Cyclon B），是以[氰化物](../Page/氰化物.md "wikilink")為基的消毒[熏蒸劑和殺蟲劑](https://zh.wikipedia.org/wiki/熏蒸劑 "wikilink")，在[第二次世界大戰期間被](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")用於執行[種族滅絕作戰](https://zh.wikipedia.org/wiki/種族滅絕 "wikilink")。\[1\]\[2\]
 
 </blockquote>
