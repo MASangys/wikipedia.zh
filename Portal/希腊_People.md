@@ -1,3 +1,6 @@
+> 本文内容由[Portal:希腊/People](https://zh.wikipedia.org/wiki/Portal:希腊/People)转换而来。
+
+
 __NOEDITSECTION__
 
 ## 音乐界

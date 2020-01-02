@@ -1,3 +1,6 @@
+> 本文内容由[Portal:太平洋颱風季/box-header](https://zh.wikipedia.org/wiki/Portal:太平洋颱風季/box-header)转换而来。
+
+
 <div style="clear: both;">
 
 </div>

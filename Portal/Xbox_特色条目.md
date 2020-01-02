@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Xbox/特色条目](https://zh.wikipedia.org/wiki/Portal:Xbox/特色条目)转换而来。
+
+
 {{/1}}
 
 <div style="clear: both">

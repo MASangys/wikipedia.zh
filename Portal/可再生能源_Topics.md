@@ -1,3 +1,6 @@
+> 本文内容由[Portal:可再生能源/Topics](https://zh.wikipedia.org/wiki/Portal:可再生能源/Topics)转换而来。
+
+
 <div style="padding:2px; background:#014421; margin:0 0px 5px 0px; border:1px solid #014421">
 
 <center>

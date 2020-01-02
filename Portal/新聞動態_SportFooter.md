@@ -1,3 +1,6 @@
+> 本文内容由[Portal:新聞動態/SportFooter](https://zh.wikipedia.org/wiki/Portal:新聞動態/SportFooter)转换而来。
+
+
 |                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **時間**： [UTC](../Page/协调世界时.md "wikilink") | **日期**：[日](https://zh.wikipedia.org/wiki/{{CURRENTMONTHNAME}}{{CURRENTDAY}}日 "wikilink") |

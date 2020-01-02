@@ -1,3 +1,6 @@
+> 本文内容由[Portal:化学/Did you know](https://zh.wikipedia.org/wiki/Portal:化学/Did_you_know)转换而来。
+
+
 <div align="right">
 
 **[存档](https://zh.wikipedia.org/wiki/Portal:化学/Did_you_know/存档 "wikilink") | [创建新条目](https://zh.wikipedia.org/wiki/Help:如何创建新页面 "wikilink") | [更多新条目...](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")**

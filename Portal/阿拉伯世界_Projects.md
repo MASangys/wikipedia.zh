@@ -1,3 +1,6 @@
+> 本文内容由[Portal:阿拉伯世界/Projects](https://zh.wikipedia.org/wiki/Portal:阿拉伯世界/Projects)转换而来。
+
+
   - 主計畫
     [阿拉伯世界](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Arab_world "wikilink")
 

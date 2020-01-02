@@ -1,3 +1,6 @@
+> 本文内容由[Portal:東南亞/FP](https://zh.wikipedia.org/wiki/Portal:東南亞/FP)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

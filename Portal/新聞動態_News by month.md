@@ -1,3 +1,6 @@
+> 本文内容由[Portal:新聞動態/News by month](https://zh.wikipedia.org/wiki/Portal:新聞動態/News_by_month)转换而来。
+
+
 <center>
 
 <div style="align:center">

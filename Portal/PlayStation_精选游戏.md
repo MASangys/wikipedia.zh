@@ -1,3 +1,6 @@
+> 本文内容由[Portal:PlayStation/精选游戏](https://zh.wikipedia.org/wiki/Portal:PlayStation/精选游戏)转换而来。
+
+
 {{/1}}
 
 <div style="clear: both">

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:澳門新聞動態/Sidebar](https://zh.wikipedia.org/wiki/Portal:澳門新聞動態/Sidebar)转换而来。
+
+
 __NOTOC__
 
 <table>

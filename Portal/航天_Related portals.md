@@ -1,3 +1,6 @@
+> 本文内容由[Portal:航天/Related portals](https://zh.wikipedia.org/wiki/Portal:航天/Related_portals)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

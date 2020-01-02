@@ -1,3 +1,6 @@
+> 本文内容由[Portal:軍事/New](https://zh.wikipedia.org/wiki/Portal:軍事/New)转换而来。
+
+
 [XM706E2_USAF.JPG](https://zh.wikipedia.org/wiki/File:XM706E2_USAF.JPG "fig:XM706E2_USAF.JPG")
 
   - **[哪挺通用機槍](../Page/大宇K12通用機槍.md "wikilink")**是[大宇K3的](../Page/大宇K3輕機槍.md "wikilink")[7.62×51毫米口徑版本](../Page/7.62×51mm_NATO.md "wikilink")？

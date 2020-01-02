@@ -1,3 +1,6 @@
+> 本文内容由[Portal:中華民國/box-header](https://zh.wikipedia.org/wiki/Portal:中華民國/box-header)转换而来。
+
+
 <div style="clear: both; <!--
          -->position: relative; <!--
          -->border:0px; <!--

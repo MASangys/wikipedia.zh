@@ -1,3 +1,6 @@
+> 本文内容由[Portal:天文学/Events](https://zh.wikipedia.org/wiki/Portal:天文学/Events)转换而来。
+
+
 <span style="font-size:larger;">**[2016年](../Page/2016年.md "wikilink")**焦點新聞</span> <span style="font-size:80%;">下列日期是新聞發布時間，而非事件發表或發現時間</span>
 
   - 5月2日，由於探測到[引力波的蹤跡](https://zh.wikipedia.org/wiki/引力波 "wikilink")，LIGO計畫創始者[朗納·德瑞福](../Page/朗納·德瑞福.md "wikilink")、[基普·索恩](../Page/基普·索恩.md "wikilink")、[萊納·魏斯與](https://zh.wikipedia.org/wiki/萊納·魏斯 "wikilink")1012位團隊同工榮獲[基礎物理學特別突破獎與獎金](../Page/基礎物理學突破獎.md "wikilink")3百萬美金[。](https://breakthroughprize.org/News/32)

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:重庆/重庆新闻动态/Itn](https://zh.wikipedia.org/wiki/Portal:重庆/重庆新闻动态/Itn)转换而来。
+
+
 <noinclude> **编辑注意事项：**
 
   - 收录的新闻焦点应该属于下面已录入重庆相关的新闻事件；

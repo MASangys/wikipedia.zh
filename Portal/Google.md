@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Google](https://zh.wikipedia.org/wiki/Portal:Google)转换而来。
+
+
 __NOTOC__
 
 <div align="center">

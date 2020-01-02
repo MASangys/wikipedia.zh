@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Keroro軍曹](https://zh.wikipedia.org/wiki/Portal:Keroro軍曹)转换而来。
+
+
 __NOTOC__
 
 <div align="center">

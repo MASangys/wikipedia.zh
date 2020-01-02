@@ -1,3 +1,6 @@
+> 本文内容由[Portal:軍事/In the news](https://zh.wikipedia.org/wiki/Portal:軍事/In_the_news)转换而来。
+
+
 ### 全程关注
 
   - [達爾富爾衝突](https://zh.wikipedia.org/wiki/達爾富爾衝突 "wikilink")

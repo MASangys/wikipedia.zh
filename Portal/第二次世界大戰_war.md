@@ -1,3 +1,6 @@
+> 本文内容由[Portal:第二次世界大戰/war](https://zh.wikipedia.org/wiki/Portal:第二次世界大戰/war)转换而来。
+
+
 [Portal:第二次世界大戰/war/1](https://zh.wikipedia.org/wiki/Portal:第二次世界大戰/war/1 "wikilink")
 
 <div style="clear: both">

@@ -1,3 +1,6 @@
+> 本文内容由[Portal:体育运动/Events/存檔](https://zh.wikipedia.org/wiki/Portal:体育运动/Events/存檔)转换而来。
+
+
   - [4月21日](../Page/4月21日.md "wikilink")，前[国际奥林匹克委员会](../Page/国际奥林匹克委员会.md "wikilink")主席**[胡安·安东尼奥·萨马兰奇](../Page/胡安·安东尼奥·萨马兰奇.md "wikilink")**在西班牙巴塞罗那逝世，享年89岁。
 
 <!-- end list -->

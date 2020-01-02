@@ -1,3 +1,6 @@
+> 本文内容由[Portal:太阳系/太阳系 news/Wikinews](https://zh.wikipedia.org/wiki/Portal:太阳系/太阳系_news/Wikinews)转换而来。
+
+
   - [12月7日](../Page/12月7日.md "wikilink"): [NASA的火星科學實驗漫遊車延後至2011年發射](https://zh.wikipedia.org/wiki/wikinews:Launch_of_NASA's_Mars_Science_Laboratory_rover_delayed_until_2011 "wikilink")
   - [11月24日](../Page/11月24日.md "wikilink"): [太空X的獵鷹9號在德克薩斯州成功完成點火實驗](https://zh.wikipedia.org/wiki/wikinews:SpaceX_successfully_test_fires_Falcon_9_rocket_in_Texas "wikilink")
   - [11月22日](https://zh.wikipedia.org/wiki/11月22日 "wikilink"): [土星環比原先認定的更老](https://zh.wikipedia.org/wiki/wikinews:Saturn's_rings_are_much_older_than_previously_thought "wikilink")

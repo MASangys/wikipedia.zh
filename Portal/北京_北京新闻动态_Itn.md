@@ -1,3 +1,6 @@
+> 本文内容由[Portal:北京/北京新闻动态/Itn](https://zh.wikipedia.org/wiki/Portal:北京/北京新闻动态/Itn)转换而来。
+
+
 <noinclude> **编辑注意事项：**
 
   - 收录的新闻焦点应该属于下面已录入北京相关的新闻事件；

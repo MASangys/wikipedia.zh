@@ -1,3 +1,6 @@
+> 本文内容由[Portal:軍事/Featured](https://zh.wikipedia.org/wiki/Portal:軍事/Featured)转换而来。
+
+
 [Portal:軍事/Featured/1](https://zh.wikipedia.org/wiki/Portal:軍事/Featured/1 "wikilink")
 
 <div style="clear: both">

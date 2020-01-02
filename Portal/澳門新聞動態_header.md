@@ -1,3 +1,6 @@
+> 本文内容由[Portal:澳門新聞動態/header](https://zh.wikipedia.org/wiki/Portal:澳門新聞動態/header)转换而来。
+
+
 __NOTOC__
 
 |                                             |

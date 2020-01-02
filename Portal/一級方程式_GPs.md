@@ -1,3 +1,6 @@
+> 本文内容由[Portal:一級方程式/GPs](https://zh.wikipedia.org/wiki/Portal:一級方程式/GPs)转换而来。
+
+
 2014年F1赛程表
 
 <table>

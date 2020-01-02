@@ -1,3 +1,6 @@
+> 本文内容由[Portal:Xbox/精选图片](https://zh.wikipedia.org/wiki/Portal:Xbox/精选图片)转换而来。
+
+
 {{/1}}
 
 <div style="clear: both">

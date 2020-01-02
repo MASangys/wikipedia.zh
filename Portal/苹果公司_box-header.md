@@ -1,3 +1,6 @@
+> 本文内容由[Portal:苹果公司/box-header](https://zh.wikipedia.org/wiki/Portal:苹果公司/box-header)转换而来。
+
+
 <div style="clear: both; <!--
          -->{{border-radius|10px 10px 0 0}}
 border: solid #979797; <!--

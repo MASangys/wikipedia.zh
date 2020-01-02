@@ -1,3 +1,6 @@
+> 本文内容由[Portal:足球/Events](https://zh.wikipedia.org/wiki/Portal:足球/Events)转换而来。
+
+
 <div align="left">
 
 [2018年4月12日](https://zh.wikipedia.org/wiki/2018年4月12日 "wikilink")，FIFA排名[德国仍居首](https://zh.wikipedia.org/wiki/德国國家足球隊 "wikilink")，[比利时升至第三](https://zh.wikipedia.org/wiki/比利时國家足球隊 "wikilink")。

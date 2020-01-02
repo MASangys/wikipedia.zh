@@ -1,3 +1,6 @@
+> 本文内容由[Portal:澳門/RowBox](https://zh.wikipedia.org/wiki/Portal:澳門/RowBox)转换而来。
+
+
 <table style="width:10%;">
 <colgroup>
 <col style="width: 5%" />
