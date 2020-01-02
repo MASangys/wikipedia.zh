@@ -1,3 +1,6 @@
+> 本文内容由[新Mon怪談](https://zh.wikipedia.org/wiki/新Mon怪談)转换而来。
+
+
 2009年，因[有線電視的](https://zh.wikipedia.org/wiki/有線電視 "wikilink")《[怪談](https://zh.wikipedia.org/wiki/怪談 "wikilink")》節目突然改變形式，甚至間歇性停播。[司徒法正](../Page/司徒法正.md "wikilink")[師傅為了延續](https://zh.wikipedia.org/wiki/師傅 "wikilink")《怪談》團隊這份打不死的探索精神，決定另闖新空間，因緣際會下與『新MONDAY』雜誌成功合作，開設『新Mon怪談』專欄，繼續進行靈異探索，並開拓了多媒體新局面。
 
 『新MONDAY』由2009年10月30日星期五開始，每期連載『新Mon怪談』，並且創立網上平台『新Mon怪談網站』gytam.hk，提供自家攝製的緊張刺激探靈招魂video，及搜羅世界各地的靈異故事、照片及影片一同分享。

@@ -1,3 +1,6 @@
+> 本文内容由[羅賓遜XCR突擊步槍](https://zh.wikipedia.org/wiki/羅賓遜XCR突擊步槍)转换而来。
+
+
 **XCR Modular Weapon System**（又名**Robinson Arms XCR**）是由Robinson Arms在2005年參選[美軍](https://zh.wikipedia.org/wiki/美軍 "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（，簡稱：USSOCOM） [SCAR計劃所推出的多口徑](https://zh.wikipedia.org/wiki/SCAR計劃 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，但最後因空包彈助退器（blank firing adapter）在限期前未有送到而被取消資格\[1\]。
 
 ## 設計

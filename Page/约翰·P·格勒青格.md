@@ -1,3 +1,6 @@
+> 本文内容由[约翰·P·格勒青格](https://zh.wikipedia.org/wiki/约翰·P·格勒青格)转换而来。
+
+
 [John_Grotzinger_World_Economic_Forum_2013.jpg](https://zh.wikipedia.org/wiki/File:John_Grotzinger_World_Economic_Forum_2013.jpg "fig:John_Grotzinger_World_Economic_Forum_2013.jpg")\]\] **约翰·P·格勒青格**（John P. Grotzinger）是[加州理工学院的一名](https://zh.wikipedia.org/wiki/加州理工学院 "wikilink")[地质学](../Page/地质学.md "wikilink")教授。主要教授地理学与行星科学，他的研究主要集中于生命与环境中的化学与物理之间的相互作用\[1\]。他是一名活跃的[火星地理](../Page/火星地理.md "wikilink")研究学家，并参与了一些[NASA探索](https://zh.wikipedia.org/wiki/NASA "wikilink")[火星](../Page/火星.md "wikilink")的科研项目\[2\]\[3\]。
 
 ## 学历与教学史

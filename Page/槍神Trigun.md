@@ -1,3 +1,6 @@
+> 本文内容由[槍神Trigun](https://zh.wikipedia.org/wiki/槍神Trigun)转换而来。
+
+
 是一個由[内藤泰弘](../Page/内藤泰弘.md "wikilink")創作及插圖的[日本](../Page/日本.md "wikilink")[漫畫系列](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於1996年至2008年間連載。台灣東立曾出版前兩冊，第一集於1999年9月出版，譯《太空遊俠》。
 
 1995年開始於《月刊少年CAPTIAN》連載，後來因廢刊而停止連載，之後休刊至1997年10月改以TRIGUN MAXIMUM名義在[少年画报社的月刊](https://zh.wikipedia.org/wiki/少年画报社 "wikilink")《[YOUNG KING OURs](../Page/YOUNG_KING_OURs.md "wikilink")》上连载。

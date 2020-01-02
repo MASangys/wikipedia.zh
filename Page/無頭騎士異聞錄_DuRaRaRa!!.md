@@ -1,3 +1,6 @@
+> 本文内容由[無頭騎士異聞錄 DuRaRaRa!!](https://zh.wikipedia.org/wiki/無頭騎士異聞錄_DuRaRaRa!!)转换而来。
+
+
 《**無頭騎士異聞錄 DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[成田良悟](../Page/成田良悟.md "wikilink")撰寫、[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")（安田典生／安田鈴人\[1\]）繪製插畫的[輕小說](../Page/輕小說.md "wikilink")系列。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")（[ASCII MEDIA WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
 本作以[池袋](../Page/池袋.md "wikilink")為舞台，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄 DuRaRaRa\!\!SH**》（）。

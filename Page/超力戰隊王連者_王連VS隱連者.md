@@ -1,3 +1,6 @@
+> 本文内容由[超力戰隊王連者 王連VS隱連者](https://zh.wikipedia.org/wiki/超力戰隊王連者_王連VS隱連者)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

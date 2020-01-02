@@ -1,3 +1,6 @@
+> 本文内容由[波江座DU](https://zh.wikipedia.org/wiki/波江座DU)转换而来。
+
+
 **波江座DU**，又名**BD-13 893**，**HD 28497**、**SAO 149674**、**HR 1423**，是[波江座](../Page/波江座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.6，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")208.78，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-37.4，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

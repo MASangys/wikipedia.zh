@@ -1,3 +1,6 @@
+> 本文内容由[至Q寵物屋](https://zh.wikipedia.org/wiki/至Q寵物屋)转换而来。
+
+
 **小小寵物店**（）是[Hub Network的](https://zh.wikipedia.org/wiki/Hub_Network "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本作描述一名高中女孩**布萊絲**和她的單親爸爸搬家到紐約市中心鎮的一家一樓設有寵物店的公寓頂樓，結果布萊絲無意發現自己聽的懂店中寵物說的話，而且還和牠們成了好朋友。劇中還以大量的音樂穿插在其中為特色。不僅如此，製作團隊因為本作是以流行的概念，所以布萊絲每集登場都以不同服裝亮相，而裁縫、設計服裝布萊絲她本人最大專長和嗜好。
 
 同頻道的節目《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》的配音員之一艾絮列‧鮑爾([Ashleigh Ball](https://zh.wikipedia.org/wiki/Ashleigh_Ball "wikilink")) 除了幫蘋果嘉兒、雲寳配音以外，她同時身兼本作主角布萊絲的配音。另外，除了她還有妮可‧奧立佛(Nicole Oliver)、托比塔‧St‧伽曼(Tabitha St Germain)也分別幫寵物店兩隻動物 - 平毛尋回犬**柔伊(Zoe)**還有條紋臭鼬**胡椒/皮皮(Pepper)**配聲。

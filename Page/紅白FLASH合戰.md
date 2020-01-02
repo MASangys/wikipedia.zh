@@ -1,3 +1,6 @@
+> 本文内容由[紅白FLASH合戰](https://zh.wikipedia.org/wiki/紅白FLASH合戰)转换而来。
+
+
 **紅白FLASH合戰**為日本[2ch的Flash板於年末舉辦之比賽活動](https://zh.wikipedia.org/wiki/2ch "wikilink")。仿照[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")[紅白歌唱大賽的形式](https://zh.wikipedia.org/wiki/紅白歌唱大賽 "wikilink")，將參賽者分為紅與白兩組，以一對一[Flash作品對抗的方式進行網路投票](https://zh.wikipedia.org/wiki/Flash "wikilink")，最後總票數最高的組別為勝利組。
 
 ## 簡介

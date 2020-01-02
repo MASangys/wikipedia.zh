@@ -1,3 +1,6 @@
+> 本文内容由[至Net奇兵歌曲列表](https://zh.wikipedia.org/wiki/至Net奇兵歌曲列表)转换而来。
+
+
 在[至NET奇兵中](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")，有很多首不同的歌曲，這條目是列出[至NET奇兵中的歌曲](https://zh.wikipedia.org/wiki/至NET奇兵 "wikilink")。
 
 ## 主題曲

@@ -1,3 +1,6 @@
+> 本文内容由[豐田松平IC](https://zh.wikipedia.org/wiki/豐田松平IC)转换而来。
+
+
 **豐田松平IC**（平假名：とよたまつだいらインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[豐田市的](https://zh.wikipedia.org/wiki/豐田市 "wikilink")[東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

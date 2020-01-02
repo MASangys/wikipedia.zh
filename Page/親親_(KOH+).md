@@ -1,3 +1,6 @@
+> 本文内容由[親親 \(KOH+\)](https://zh.wikipedia.org/wiki/親親_\(KOH+\))转换而来。
+
+
 《**親親**》是日本组合[KOH<sup>+</sup>的第一张单曲作品](https://zh.wikipedia.org/wiki/KOH+ "wikilink")，2007年11月21日发售，商品番号UPCH-80050。
 
 ## 简介

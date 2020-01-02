@@ -1,3 +1,6 @@
+> 本文内容由[比亞迪F3DM](https://zh.wikipedia.org/wiki/比亞迪F3DM)转换而来。
+
+
 比亞迪F3DM是世界上第一款批量生產的[插电式混合动力汽车](https://zh.wikipedia.org/wiki/插电式混合动力汽车 "wikilink")。屬於[小型車](https://zh.wikipedia.org/wiki/小型車 "wikilink")，於2008年12月15日在中國上市，預定於2010年開始在歐洲出售。F3DM曾在2008年[日內瓦車展展出](https://zh.wikipedia.org/wiki/日內瓦車展 "wikilink")。[比亞迪總裁王傳福](https://zh.wikipedia.org/wiki/比亞迪 "wikilink")12月15日表示，該公司計畫2009年出售180,000輛，2010年將銷量增至350,000輛。F3DM可能於2011年開始在美國銷售。
 
 DM是Dual Mode（雙模）的縮寫，表示有純電力（EV, Electric Vehicle）與油電混合（HEV, Hybrid Electric Vehicle）兩種運行模式。

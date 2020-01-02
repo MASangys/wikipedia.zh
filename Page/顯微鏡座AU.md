@@ -1,3 +1,6 @@
+> 本文内容由[顯微鏡座AU](https://zh.wikipedia.org/wiki/顯微鏡座AU)转换而来。
+
+
 **顯微鏡座AU**（AU Mic）是距離我們遠，大約是離[太陽最近距離恆星](https://zh.wikipedia.org/wiki/太陽 "wikilink")8倍遠的一顆[紅矮星](../Page/紅矮星.md "wikilink")\[1\]。它的[視星等為](https://zh.wikipedia.org/wiki/視星等 "wikilink")8.73 \[2\]，這是太黯淡了，因此裸眼看不見它。因為它是在南天[顯微鏡座的一顆](https://zh.wikipedia.org/wiki/顯微鏡座 "wikilink")[變星](../Page/變星.md "wikilink")，所以用[變星命名法](../Page/變星命名法.md "wikilink")命名。如同[老人增四](../Page/老人增四.md "wikilink")（繪架座β）一樣，它有一個[岩屑盤](../Page/岩屑盤.md "wikilink")的塵埃拱星盤環繞著。
 
 ## 恆星的性質

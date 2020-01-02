@@ -1,3 +1,6 @@
+> 本文内容由[提督之決斷IV](https://zh.wikipedia.org/wiki/提督之決斷IV)转换而来。
+
+
 是[光榮推出的一個關於](https://zh.wikipedia.org/wiki/光榮 "wikilink")[第二次世界大戰海戰的回合制](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")，並為[提督之決斷系列](../Page/提督之決斷系列.md "wikilink")遊戲的最新作。
 
 ## 概要

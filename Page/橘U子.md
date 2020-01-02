@@ -1,3 +1,6 @@
+> 本文内容由[橘U子](https://zh.wikipedia.org/wiki/橘U子)转换而来。
+
+
 **橘U子**（）是一名[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")，舊藝名**合志真理**，經營二十一世紀霍士劇團，[血型為B型](https://zh.wikipedia.org/wiki/血型 "wikilink")，隸屬[Kenyu Office](../Page/Kenyu_Office.md "wikilink")。
 
 ## 出演作品

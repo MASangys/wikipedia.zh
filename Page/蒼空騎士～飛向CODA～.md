@@ -1,3 +1,6 @@
+> 本文内容由[蒼空騎士～飛向CODA～](https://zh.wikipedia.org/wiki/蒼空騎士～飛向CODA～)转换而来。
+
+
 《**蒼空騎士～飛向CODA～**》（，），是由[日本](../Page/日本.md "wikilink")遊戲廠商[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")（前身[BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink")）於2010年10月所發行的一款全3D[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")，使用的平台為[Nintendo DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")平台上所發行的《[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")》一樣同屬於以[獸人](../Page/獸人.md "wikilink")做為[種族以及](https://zh.wikipedia.org/wiki/種族 "wikilink")[角色設定的遊戲](https://zh.wikipedia.org/wiki/角色設定 "wikilink")，且兩個遊戲的世界觀完全相同。而很多購入本遊戲的愛好者中有一大部分即為當年接觸過貓犬協奏曲的老玩家。
 
 本款遊戲也是開發公司日本CyberConnect2的**十五週年紀念作品**，從開始構思到完成共計花費了十年的時間，其中光是相關開發就花去三年。三年的開發中用於遊戲企劃的時間就有整整一年。另外使用於遊戲中的相關人物、背景、種族、機械、城市、怪物等相關設定插畫與原畫就佔了1000張以上。\[1\]

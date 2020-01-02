@@ -1,3 +1,6 @@
+> 本文内容由[月刊AKB48團體新聞](https://zh.wikipedia.org/wiki/月刊AKB48團體新聞)转换而来。
+
+
 （第二代）株式會社[體育日本新聞社](https://zh.wikipedia.org/wiki/體育日本 "wikilink") | editor = （第一代）株式會社日刊體育新聞社{{→}}（第二代）株式會社KimiBoku | chiefeditor = | assoceditor = | staff = | foundation = 2011年12月16日 | ceased publication = | political = | language = [日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | price = [日幣](../Page/日圓.md "wikilink")300圓（郵購為日幣450圓）{{→}}日幣350圓 | headquarters = | circulation = | ISSN = | website = }}
 
 **月刊AKB48團體新聞**（）是以報導日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")及其姊妹團體（[AKB48集團](../Page/AKB48集團.md "wikilink")）為主題的[月刊型](https://zh.wikipedia.org/wiki/月刊 "wikilink")[報紙](../Page/報紙.md "wikilink")\[1\]，2011年12月16日創刊，最初由[日刊體育](../Page/日刊體育.md "wikilink")發行，2019年1月起改由株式會社KimiBoku編製、[體育日本發行](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。

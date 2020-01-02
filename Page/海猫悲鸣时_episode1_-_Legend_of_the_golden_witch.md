@@ -1,3 +1,6 @@
+> 本文内容由[海猫悲鸣时 episode1 - Legend of the golden witch](https://zh.wikipedia.org/wiki/海猫悲鸣时_episode1_-_Legend_of_the_golden_witch)转换而来。
+
+
 《**海貓悲鳴時 episode1 - Legend of the golden witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》以及由此改编的[漫画的首作](https://zh.wikipedia.org/wiki/漫画 "wikilink")。游戏於2007年夏季的[Comic Market](../Page/Comic_Market.md "wikilink")72發表。
 
 ## 概要

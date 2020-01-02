@@ -1,3 +1,6 @@
+> 本文内容由[煩惱girls](https://zh.wikipedia.org/wiki/煩惱girls)转换而来。
+
+
 **煩惱girls**（是[日本](../Page/日本.md "wikilink")的女子歌手團體。2005年10月8日出道，同年12月31日解散。
 
 ## 特徴

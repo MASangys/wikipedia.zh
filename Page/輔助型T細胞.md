@@ -1,3 +1,6 @@
+> 本文内容由[輔助型T細胞](https://zh.wikipedia.org/wiki/輔助型T細胞)转换而来。
+
+
 [Antigen_presentation_alt.svg](https://zh.wikipedia.org/wiki/File:Antigen_presentation_alt.svg "fig:Antigen_presentation_alt.svg")
 
 **辅助T细胞**（），又稱為**助手型T细胞**，是一种[T细胞](../Page/T细胞.md "wikilink")（[白血球](../Page/白血球.md "wikilink")的一种），它的表面有[抗原](../Page/抗原.md "wikilink")受体，可以辨識[抗原提呈細胞的MHC](https://zh.wikipedia.org/wiki/抗原提呈細胞 "wikilink")-II类分子呈獻的抗原片段。

@@ -1,3 +1,6 @@
+> 本文内容由[戰國Collection](https://zh.wikipedia.org/wiki/戰國Collection)转换而来。
+
+
 《**戰國Collection**》（，又譯：戰國大亂鬥）是2012年4月開始播出的動畫，以同名[社群卡牌遊戲為原作](https://zh.wikipedia.org/wiki/SNS "wikilink")。
 
 ## 登場人物

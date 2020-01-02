@@ -1,3 +1,6 @@
+> 本文内容由[血管紧张素II受体拮抗剂](https://zh.wikipedia.org/wiki/血管紧张素II受体拮抗剂)转换而来。
+
+
 [Losartan_structure.png](https://zh.wikipedia.org/wiki/File:Losartan_structure.png "fig:Losartan_structure.png")
 
 **血管紧张素II受体拮抗剂**（Angiotensin II receptor antagonist），也被称为**血管紧张素受体阻滞剂**（angiotensin receptor blockers, **ARB**s)或**AT<sub>1</sub>受体拮抗剂**，是一类作用于[肾素-血管紧张素系统](../Page/肾素-血管紧张素系统.md "wikilink")的药物。主要应用于治疗[高血压](https://zh.wikipedia.org/wiki/高血压 "wikilink")、[糖尿病肾病和](https://zh.wikipedia.org/wiki/糖尿病肾病 "wikilink")[充血性心力衰竭](https://zh.wikipedia.org/wiki/充血性心力衰竭 "wikilink")。

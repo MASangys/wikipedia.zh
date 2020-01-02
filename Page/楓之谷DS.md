@@ -1,3 +1,6 @@
+> 本文内容由[楓之谷DS](https://zh.wikipedia.org/wiki/楓之谷DS)转换而来。
+
+
 是由[韓國公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Nexon](../Page/Nexon.md "wikilink")開發的[任天堂DS](../Page/任天堂DS.md "wikilink")遊戲。一個從[Windows平台上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")《[楓之谷](https://zh.wikipedia.org/wiki/楓之谷 "wikilink")》所衍生出在上的版本。遊戲於2006年的[E3發表](https://zh.wikipedia.org/wiki/E3 "wikilink")，2010年4月15日在韩国發售。
 
 2007年1月9日，Nexon和新成立的[任天堂韓國在首次展示了](https://zh.wikipedia.org/wiki/任天堂韓國 "wikilink")《楓之谷DS》。

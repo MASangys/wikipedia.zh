@@ -1,3 +1,6 @@
+> 本文内容由[王菀之Ivana首張國語創作專輯](https://zh.wikipedia.org/wiki/王菀之Ivana首張國語創作專輯)转换而来。
+
+
 《**王菀之Ivana首張國語創作專輯**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第三張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、首張[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，台灣版發行日期為2007年12月6日，香港版發行日期為2007年12月18日，第二版發行於2008年2月15日。第一版包括一隻CD，共收錄了十一首新歌及兩首Bonus Track。\[1\] 除了四首歌曲為全新創作外，其餘歌曲均從王菀之舊作改編。香港版特別收錄全新廣東歌《奇異恩典》；第二版包括一隻CD及一隻DVD，DVD中收錄了三首新歌的MV。全碟歌曲均由王菀之作曲（《奇異恩典》除外）。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[日產S-Cargo](https://zh.wikipedia.org/wiki/日產S-Cargo)转换而来。
+
+
 **日產S-Cargo**（）是一部由[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")公司設計製造的三門輕型商用[廂型車](../Page/廂型車.md "wikilink")，乃使用[日產March第一代K10型之](https://zh.wikipedia.org/wiki/日產March#第一代：K10型（1982年-1992年） "wikilink")[底盤衍生而出](https://zh.wikipedia.org/wiki/底盤 "wikilink")。
 
 關於車名的由來，乃是結合[法文的](https://zh.wikipedia.org/wiki/法文 "wikilink")「escargot（[蝸牛](https://zh.wikipedia.org/wiki/蝸牛 "wikilink")）」與[英文的](https://zh.wikipedia.org/wiki/英文 "wikilink")「cargo（貨物）」而成的新字，進而表達其車身造型。

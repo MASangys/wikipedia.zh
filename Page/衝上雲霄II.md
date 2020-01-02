@@ -1,3 +1,6 @@
+> 本文内容由[衝上雲霄II](https://zh.wikipedia.org/wiki/衝上雲霄II)转换而来。
+
+
 《**衝上雲霄II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，由[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[張智霖](../Page/張智霖.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")及[吳卓羲](../Page/吳卓羲.md "wikilink")\[1\]領銜主演，並由[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")\[2\]、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[羅仲謙](../Page/羅仲謙.md "wikilink")聯合主演，監製[歐冠英及](https://zh.wikipedia.org/wiki/歐冠英 "wikilink")[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。
 
 此劇是《[衝上雲霄系列](../Page/衝上雲霄系列.md "wikilink")》第二輯，[2012無綫節目巡禮](../Page/2012無綫節目巡禮.md "wikilink")劇集，亦為第17屆香港國際影視展中無綫電視推介的17部劇集之一，以及「[TVB Amazing Summer](../Page/TVB_Amazing_Summer.md "wikilink") 2013」暑期宣傳活動的推介劇集，由[香港航空](../Page/香港航空.md "wikilink")贊助、[香港機場管理局](../Page/香港機場管理局.md "wikilink")協助拍攝。

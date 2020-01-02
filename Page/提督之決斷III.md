@@ -1,3 +1,6 @@
+> 本文内容由[提督之決斷III](https://zh.wikipedia.org/wiki/提督之決斷III)转换而来。
+
+
 是[光榮在](https://zh.wikipedia.org/wiki/光榮 "wikilink")1994年推出的一個關於[第二次世界大戰海戰的回合制](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[策略遊戲](https://zh.wikipedia.org/wiki/策略遊戲 "wikilink")，為[提督之決斷系列](../Page/提督之決斷系列.md "wikilink")的第三個作品。
 
 ## 概要

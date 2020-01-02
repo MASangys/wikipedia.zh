@@ -1,3 +1,6 @@
+> 本文内容由[航母style](https://zh.wikipedia.org/wiki/航母style)转换而来。
+
+
 [航母style.png](https://zh.wikipedia.org/wiki/File:航母style.png "fig:航母style.png")[舰载机起飞手势](https://zh.wikipedia.org/wiki/舰载机 "wikilink")\]\]
 
 **航母style**（又称“走你”、“走你style”、“起飞style”）指[中華人民共和国第一艘](https://zh.wikipedia.org/wiki/中華人民共和国 "wikilink")[航空母舰](../Page/航空母舰.md "wikilink")[辽宁舰的](https://zh.wikipedia.org/wiki/辽宁号航空母舰 "wikilink")[舰载机](https://zh.wikipedia.org/wiki/舰载机 "wikilink")[歼15於起飞時的指挥](https://zh.wikipedia.org/wiki/歼15 "wikilink")[手势](https://zh.wikipedia.org/wiki/手势 "wikilink")\[1\]，後被被大量[网民](../Page/网民.md "wikilink")模仿，並出現[网络爆红现象的事件](https://zh.wikipedia.org/wiki/网络爆红现象 "wikilink")。此事被《[新闻联播](../Page/新闻联播.md "wikilink")》等媒体报道，客观上体现了中国民众爱国情感、对国家军事实现现代化的成就感和高度的民族认同感\[2\]。

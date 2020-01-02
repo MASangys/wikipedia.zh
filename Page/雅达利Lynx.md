@@ -1,3 +1,6 @@
+> 本文内容由[雅达利Lynx](https://zh.wikipedia.org/wiki/雅达利Lynx)转换而来。
+
+
 **Atari Lynx**是生產商[雅達利](../Page/雅達利.md "wikilink")於1989年發佈的手提式[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，是世上首款設有[彩色](https://zh.wikipedia.org/wiki/彩色 "wikilink")[液晶顯示屏的手提電子遊戲機](https://zh.wikipedia.org/wiki/液晶顯示屏 "wikilink")，與[任天堂](../Page/任天堂.md "wikilink")的[GameBoy遊戲機同年推出](https://zh.wikipedia.org/wiki/GameBoy "wikilink")。及後由於銷量並不理想，即使於1990年推出改良版Lynx II，但仍未能吸引遊戲開發商生產足夠的遊戲，而最終隨Atari與[JT Storage合併而消失於市場](https://zh.wikipedia.org/wiki/JT_Storage "wikilink")。
 
 ## 技術規格

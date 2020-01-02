@@ -1,3 +1,6 @@
+> 本文内容由[老威廉·H·盖茨](https://zh.wikipedia.org/wiki/老威廉·H·盖茨)转换而来。
+
+
 **威廉·亨利·蓋茨二世**（，），常被稱為**老威廉·亨利·蓋茨**（），通稱**老比爾·蓋茨**（），生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[布雷默頓](https://zh.wikipedia.org/wiki/布雷默頓_\(華盛頓州\) "wikilink")，律師與慈善家，為是威廉·盖茨基金会的会长，是[微软](../Page/微软.md "wikilink")创始人之一[比尔·盖茨](../Page/比尔·盖茨.md "wikilink")的父亲。
 
 ## 名稱

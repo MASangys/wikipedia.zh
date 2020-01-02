@@ -1,3 +1,6 @@
+> 本文内容由[游戏王5D\'s](https://zh.wikipedia.org/wiki/游戏王5D\'s)转换而来。
+
+
 《**遊戲王5D's**》（）是《[遊戲王](../Page/遊戲王.md "wikilink")》系列動畫之一，自2008年4月2日起在日本首播，於2011年3月30日完結，全劇154集。它的前作是《[遊戲王GX](https://zh.wikipedia.org/wiki/遊戲王GX "wikilink")》，接檔作品是《[遊戲王ZEXAL](https://zh.wikipedia.org/wiki/遊戲王ZEXAL "wikilink")》。
 
 ## 概要

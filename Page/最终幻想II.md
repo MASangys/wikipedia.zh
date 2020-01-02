@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想II](https://zh.wikipedia.org/wiki/最终幻想II)转换而来。
+
+
 是由[史克威爾](../Page/史克威爾.md "wikilink")開發，並於1988年在[任天堂](../Page/任天堂.md "wikilink")[FC遊戲機平臺發行的奇幻](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第二部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於後來多次[重製](https://zh.wikipedia.org/wiki/電子遊戲重製 "wikilink")，重製平臺包括[WonderSwan Color](../Page/WonderSwan_Color.md "wikilink")、[索尼](../Page/索尼.md "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")、[Game Boy Color](../Page/Game_Boy_Color.md "wikilink")、[PlayStation Portable以及多個行動電話與智慧型手機](../Page/PlayStation_Portable.md "wikilink")。由於《最終幻想II》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》都沒有在日本以外首發，為避免北美玩家困惑，《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》在北美發售時以“最終幻想II”為題。遊戲最新的重製版是[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")版，其分別於2010年和2012年在全球發行。
 
 遊戲故事圍繞著四個父母被帕拉美琪亞帝國軍隊殺害的年輕人的故事。四人中的三人加入了帝國反抗軍，完成任務來獲得新魔法和武器、毀壞敵人的超級武器、並營救領導者。在擊敗了帝國和皇帝後，三人組找到了成為黑騎士的第四個年輕人，他取代了之前的皇帝並準備攻擊反抗軍。在與他對峙時，重生成為惡魔的皇帝出現，並準備毀滅世界。然而四名主角決定合力消滅他，並最終在他的魔法城堡中消滅了他。Game Boy Color版在遊戲完成後增加了劇情，講述了幾個在遊戲中犧牲的配角打敗互生皇帝的故事。
@@ -75,12 +78,9 @@ PlayStation Portable獲得了一般的評價。GameSpot稱升級系統“混亂�
 [Category:1988年电子游戏](https://zh.wikipedia.org/wiki/Category:1988年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:WonderSwan_Color遊戲](https://zh.wikipedia.org/wiki/Category:WonderSwan_Color遊戲 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
 6.
 7.
@@ -88,91 +88,53 @@ PlayStation Portable獲得了一般的評價。GameSpot稱升級系統“混亂�
 9.
 10.
 11.
-
 12.
 13.
-
 14.
 15.
-
 16. <http://gamez.itmedia.co.jp/games/articles/0912/17/news104.html>
-
 17.
 18.
 19.
-
 20.
-
 21.
 22.
-
 23.
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.
-
 42.
-
 43.
 44.
-
 45.
 46.
-
 47.
 48.
 49.
-
 50.
-
 51.
 52. *ワンダースワン - ファイナルファンタジーII*. Weekly Famitsu. No.915 Pt.2. Pg.112. 30 June 2006.
-
 53.
-
 54.
-
 55.
-
 56.
-
 57.
 58.
-
 59.
-
 60.
-
 61.

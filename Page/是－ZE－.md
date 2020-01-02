@@ -1,3 +1,6 @@
+> 本文内容由[是－ZE－](https://zh.wikipedia.org/wiki/是－ZE－)转换而来。
+
+
 《**是－ZE－**》（）是[志水雪的](https://zh.wikipedia.org/wiki/志水雪 "wikilink")[BL漫畫作品](https://zh.wikipedia.org/wiki/BL "wikilink")。在月刊雜誌《[Dear+](https://zh.wikipedia.org/wiki/Dear+ "wikilink")》連載。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[水木清华BBS](https://zh.wikipedia.org/wiki/水木清华BBS)转换而来。
+
+
 **水木清华BBS**（[域名](../Page/域名.md "wikilink") smth.edu.cn）是[清华大学目前的官方](https://zh.wikipedia.org/wiki/清华大学 "wikilink")[BBS](../Page/BBS.md "wikilink")，也是[中国教育网的第一个BBS](../Page/中国教育和科研计算机网.md "wikilink")，正式成立于1995年8月8日。水木清华曾经是[中国大陆](../Page/中国大陆.md "wikilink")最有人气的BBS之一，代表着中国高校的网络社群文化。但在2005年3月16日转变成为校内型后，水木清华的访问人数大幅下降，影响力已不如前。此后数年间BBS水木清华站逐渐式微，于2012年夏正式关站，终止运作。分裂出的[水木社区](../Page/水木社区.md "wikilink")（[域名](../Page/域名.md "wikilink") smth.org），系自然人出资的北京明睿博信息技术发展有限公司旗下之商业网站，该站利用备份的用户数据，在原水木清华BBS用户资源基础上实行独立商业化发展。
 
 ## 概况

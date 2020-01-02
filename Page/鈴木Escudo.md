@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Escudo](https://zh.wikipedia.org/wiki/鈴木Escudo)转换而来。
+
+
 **鈴木Escudo**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1988年起開發生產的[SUV或](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，車名由來為19世紀[西班牙](../Page/西班牙.md "wikilink")在[中南美洲](https://zh.wikipedia.org/wiki/中南美洲 "wikilink")[殖民地](../Page/殖民地.md "wikilink")所使用的[貨幣](../Page/貨幣.md "wikilink")「[escudo](https://zh.wikipedia.org/wiki/escudo "wikilink")」\[1\]。
 
 ## 歷史

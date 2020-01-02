@@ -1,3 +1,6 @@
+> 本文内容由[月刊IKKI](https://zh.wikipedia.org/wiki/月刊IKKI)转换而来。
+
+
 《**月刊IKKI**》是[小學館](../Page/小學館.md "wikilink")發行的少年[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2003年創刊，毎月25日發行。2014年停刊\[1\]。
 
 ## 現在連載作品

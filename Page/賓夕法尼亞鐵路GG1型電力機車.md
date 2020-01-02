@@ -1,3 +1,6 @@
+> 本文内容由[賓夕法尼亞鐵路GG1型電力機車](https://zh.wikipedia.org/wiki/賓夕法尼亞鐵路GG1型電力機車)转换而来。
+
+
 **賓夕法尼亞鐵路GG1型電力機車**（PRR GG1）是[賓夕法尼亞鐵路公司從](https://zh.wikipedia.org/wiki/賓夕法尼亞鐵路公司 "wikilink")1930年代中期至1980年代初廣泛使用的一型客貨兩用[電力機車](../Page/電力機車.md "wikilink")。列車由[奇異公司和阿爾圖納機車廠生產](https://zh.wikipedia.org/wiki/奇異公司 "wikilink")，從1935年至1943年共生產139台，運用於美國東北地區賓夕法尼亞鐵路網。該型機車亦被賓夕法尼亞中央鐵路，[美國國鐵和](https://zh.wikipedia.org/wiki/美國國鐵 "wikilink")[紐澤西公共運輸公司繼承並繼續使用至](https://zh.wikipedia.org/wiki/紐澤西公共運輸公司 "wikilink")1983年方才全部退役。
 
 ## 技术数据

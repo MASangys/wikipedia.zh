@@ -1,3 +1,6 @@
+> 本文内容由[Twitterrific](https://zh.wikipedia.org/wiki/Twitterrific)转换而来。
+
+
 [Twitterrific.png](https://zh.wikipedia.org/wiki/File:Twitterrific.png "fig:Twitterrific.png") **Twitterrific**是一个[Twitter](../Page/Twitter.md "wikilink")客户端。Twitterrific由[The Iconfactory公司开发](../Page/The_Iconfactory.md "wikilink")，可以免费使用，但每小时会有广告弹出。如果以14.95$的售价购买一个[序列号](https://zh.wikipedia.org/wiki/序列号 "wikilink")，则可以去除该限制。
 
 [Mac OS X平台上的Twitterrific是一个](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Cocoa](../Page/Cocoa.md "wikilink")程序，它仅运行在[Mac OS X v10.4及以上](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")\[1\]。目前它是[Mac平台上最受欢迎的Twitter客户端](https://zh.wikipedia.org/wiki/Mac "wikilink")。

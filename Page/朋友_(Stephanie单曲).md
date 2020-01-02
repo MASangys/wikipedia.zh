@@ -1,3 +1,6 @@
+> 本文内容由[朋友 \(Stephanie单曲\)](https://zh.wikipedia.org/wiki/朋友_\(Stephanie单曲\))转换而来。
+
+
 **朋友**（），是[Stephanie的第四张单曲](https://zh.wikipedia.org/wiki/Stephanie "wikilink")，商品番号SECL-594。
 
 ## 概要

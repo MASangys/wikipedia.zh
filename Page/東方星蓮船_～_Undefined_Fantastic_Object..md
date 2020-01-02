@@ -1,3 +1,6 @@
+> 本文内容由[東方星蓮船 ～ Undefined Fantastic Object.](https://zh.wikipedia.org/wiki/東方星蓮船_～_Undefined_Fantastic_Object.)转换而来。
+
+
 [Undefined_Fantastic_Object.jpg](https://zh.wikipedia.org/wiki/File:Undefined_Fantastic_Object.jpg "fig:Undefined_Fantastic_Object.jpg") 是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")12作。
 
 ## 概要

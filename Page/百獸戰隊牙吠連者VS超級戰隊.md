@@ -1,3 +1,6 @@
+> 本文内容由[百獸戰隊牙吠連者VS超級戰隊](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者VS超級戰隊)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

@@ -1,3 +1,6 @@
+> 本文内容由[蒂莫西·F·蓋特納](https://zh.wikipedia.org/wiki/蒂莫西·F·蓋特納)转换而来。
+
+
 [Timothy_Franz_Geithner.jpg](https://zh.wikipedia.org/wiki/File:Timothy_Franz_Geithner.jpg "fig:Timothy_Franz_Geithner.jpg") **蒂莫西·弗朗兹·盖特纳**（，），[美国](../Page/美国.md "wikilink")经济学家，第75任[美国财政部](../Page/美国财政部.md "wikilink")[部长](../Page/美国财政部长.md "wikilink")（2009年1月26日－2013年1月26日）\[1\]。畢業於曼谷國際學校，後考入[達特茅斯學院](https://zh.wikipedia.org/wiki/達特茅斯學院 "wikilink")，於1983年畢業，主修[亞洲政治](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，並曾於1981與1983年分別在[北京大學和](https://zh.wikipedia.org/wiki/北京大學 "wikilink")[北京師範大學學習](https://zh.wikipedia.org/wiki/北京師範大學 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，並取漢名「**高逸然**」\[2\]。1985年獲[約翰·霍普金斯大學保羅尼采高級國際問題研究院碩士學位](https://zh.wikipedia.org/wiki/約翰·霍普金斯大學 "wikilink")。
 
 ## 争议

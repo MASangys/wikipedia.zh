@@ -1,3 +1,6 @@
+> 本文内容由[是啊! We\'re ALIVE](https://zh.wikipedia.org/wiki/是啊!_We\'re_ALIVE)转换而来。
+
+
 「**是啊\! We're ALIVE**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第14张[单曲](../Page/单曲.md "wikilink")。於2002年2月20日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

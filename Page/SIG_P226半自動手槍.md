@@ -1,3 +1,6 @@
+> 本文内容由[SIG P226半自動手槍](https://zh.wikipedia.org/wiki/SIG_P226半自動手槍)转换而来。
+
+
 **SIG P226**是一系列由[德国](../Page/德国.md "wikilink")槍械公司[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的全尺寸軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.357 SIG和](../Page/.357_SIG.md "wikilink")[.22 LR這四種](../Page/.22_LR.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 它實質上使用了與[SIG P220相同的基本設計](../Page/SIG_P220手槍.md "wikilink")，只是發展為使用更大容量的雙排交錯並列式[彈匣](../Page/彈匣.md "wikilink")所取代原來P220所使用的單排彈匣。而P226本身亦進一步地衍生出其緊湊衍生型，[P228](../Page/SIG_P228半自動手槍.md "wikilink")、[P229和](../Page/SIG_P229半自動手槍.md "wikilink")[P224都是以雙排交錯並列式彈匣供彈的P](https://zh.wikipedia.org/wiki/SIG_P224半自動手槍 "wikilink")226設計的緊湊型版本。SIG Sauer P226以及其衍生型在世界各地多個[執法機關和](../Page/警察.md "wikilink")[軍事組織](../Page/軍事組織.md "wikilink")之中服役。\[1\]

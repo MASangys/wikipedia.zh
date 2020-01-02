@@ -1,3 +1,6 @@
+> 本文内容由[流星之吻 \(9nine單曲\)](https://zh.wikipedia.org/wiki/流星之吻_\(9nine單曲\))转换而来。
+
+
 《**流星之吻**》（）是[日本](../Page/日本.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[9nine](../Page/9nine.md "wikilink")的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年6月20日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

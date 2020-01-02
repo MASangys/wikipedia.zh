@@ -1,3 +1,6 @@
+> 本文内容由[长春轨道客车DK系列地铁车辆列表](https://zh.wikipedia.org/wiki/长春轨道客车DK系列地铁车辆列表)转换而来。
+
+
 **长春轨道客车DK系列地铁车辆**是[长春轨道客车在城市轨道交通车辆中生产的主要产品](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")。自1967年开始生产DK1型至今，DK系列地铁车辆已拥有35种。已出口至[朝鲜和](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。**DK**是**电动客车**的拼音缩写，指可以任意编组的列车。**DKZ**则是**电动客车组**的拼音缩写，指只能固定编组的列车。列车以B型、C型为主。经过多年的生产，DK系列地铁车辆已超过2000辆，由初期的单一型衍生出现在的多样型。其主要用户为[北京地铁](../Page/北京地铁.md "wikilink")和[天津地铁](../Page/天津地铁.md "wikilink")。
 
 ## 生产车列表

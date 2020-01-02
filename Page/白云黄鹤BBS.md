@@ -1,3 +1,6 @@
+> 本文内容由[白云黄鹤BBS](https://zh.wikipedia.org/wiki/白云黄鹤BBS)转换而来。
+
+
 **武汉白云黄鹤BBS**全称“中国教育科研计算机网华中地区网络中心BBS武汉白云黄鹤站”，是[中国教育和科研计算机网](../Page/中国教育和科研计算机网.md "wikilink")(CERNET)中较早建立的[BBS](../Page/BBS.md "wikilink")站点之一。主机位于中国教育科研网(CERNET)华中地区网络中心(同时也是[华中科技大学](../Page/华中科技大学.md "wikilink")网络中心)。
 
 ## 简介

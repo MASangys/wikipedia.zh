@@ -1,3 +1,6 @@
+> 本文内容由[福島車站 \(JR西日本\)](https://zh.wikipedia.org/wiki/福島車站_\(JR西日本\))转换而来。
+
+
 **福島車站**（）是一由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[福島區](../Page/福島區.md "wikilink")福島七丁目，是JR西日本所屬的[大阪環狀線](../Page/大阪環狀線.md "wikilink")沿線車站之一。福島車站是JR西日本旗下大阪近郊鐵路路線群[都市網路](https://zh.wikipedia.org/wiki/都市網路 "wikilink")（，Urban Network）所屬的車站，根據[JR](../Page/JR.md "wikilink")的[特定都區市內](../Page/特定都區市內.md "wikilink")制度，被劃分為「大阪市內」的車站之一，是JR西日本的直營車站之一，但委由[西九條車站管理](https://zh.wikipedia.org/wiki/西九條車站 "wikilink")。且由於JR系統之內還有另外一個同名的[福島車站](https://zh.wikipedia.org/wiki/福島車站_\(福島縣\) "wikilink")（[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[福島市](../Page/福島市.md "wikilink")的主車站），為了區別，在車票上會以「(環) 福島」的方式標示本站，其中「環」字是所屬的大阪環狀線之意。
 
 福島車站鄰近地區還存在有兩個名稱相同或近似的車站——位於[阪神本線](../Page/阪神本線.md "wikilink")上的[同名車站](../Page/福島車站_\(阪神\).md "wikilink")，與位於[JR東西線](../Page/JR東西線.md "wikilink")上的[新福島車站](https://zh.wikipedia.org/wiki/新福島車站 "wikilink")（位於[JR東西線](../Page/JR東西線.md "wikilink")上）。位於地底、彼此僅有一個路口之隔的阪神福島與新福島兩車站與本站之間並無直接相連，之間相隔約100公尺左右的步行距離。

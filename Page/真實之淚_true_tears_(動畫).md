@@ -1,3 +1,6 @@
+> 本文内容由[真實之淚 true tears \(動畫\)](https://zh.wikipedia.org/wiki/真實之淚_true_tears_\(動畫\))转换而来。
+
+
 《**真實之淚 true tears**》是由[P.A.WORKS所製作的](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")[日本](../Page/日本.md "wikilink")的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
 
 ## 概要

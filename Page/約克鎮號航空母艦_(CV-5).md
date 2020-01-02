@@ -1,3 +1,6 @@
+> 本文内容由[約克鎮號航空母艦 \(CV-5\)](https://zh.wikipedia.org/wiki/約克鎮號航空母艦_\(CV-5\))转换而来。
+
+
 **約克城號航空母艦**（，**[舷號CV](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-5**）是一艘隸屬於[美國海軍](../Page/美國海軍.md "wikilink")的[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，為[約克鎮級航空母艦的首艦](https://zh.wikipedia.org/wiki/約克鎮級航空母艦 "wikilink")。她是美軍第三艘以[約克鎮](../Page/約克鎮.md "wikilink")為名的軍艦，紀念[美國獨立戰爭](../Page/美國獨立戰爭.md "wikilink")中的[約克鎮圍城戰役](../Page/約克鎮圍城戰役.md "wikilink")。
 
 約克鎮號在1934年開始建造，在1936年下水，於1937年服役。及後約克鎮號參與了海軍最後兩次的[艦隊解難演習](../Page/艦隊解難演習.md "wikilink")（Fleet Problems），並在1940年編入駐太平洋的[戰鬥部隊](https://zh.wikipedia.org/wiki/戰鬥部隊 "wikilink")（Battle Force）。[第二次世界大戰爆發後](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，美國在歐洲進行[中立巡航](https://zh.wikipedia.org/wiki/中立巡航 "wikilink")，而約克鎮號也在1941年4月調返[大西洋艦隊](https://zh.wikipedia.org/wiki/美國大西洋艦隊 "wikilink")，防備[納粹德國海軍](../Page/納粹德國海軍.md "wikilink")進入西半球攻擊商船。同年12月[日本](../Page/日本.md "wikilink")[偷襲珍珠港後](https://zh.wikipedia.org/wiki/偷襲珍珠港 "wikilink")，約克鎮號旋即調到[美國太平洋艦隊](../Page/美國太平洋艦隊.md "wikilink")，並參與美國在[太平洋戰爭早期的多場行動](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")，包括掩護[陸戰隊增援](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")[美屬薩摩亞](../Page/美屬薩摩亞.md "wikilink")及[馬紹爾及吉爾伯特群島突襲](../Page/馬紹爾及吉爾伯特群島突襲.md "wikilink")。

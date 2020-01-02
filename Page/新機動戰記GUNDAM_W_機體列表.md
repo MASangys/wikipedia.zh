@@ -1,3 +1,6 @@
+> 本文内容由[新機動戰記GUNDAM W 機體列表](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_機體列表)转换而来。
+
+
 本列表介紹[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")》的登場[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")。
 
 ## 殖民地

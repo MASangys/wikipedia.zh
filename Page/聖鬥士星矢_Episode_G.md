@@ -1,3 +1,6 @@
+> 本文内容由[聖鬥士星矢 Episode G](https://zh.wikipedia.org/wiki/聖鬥士星矢_Episode_G)转换而来。
+
+
 《**聖鬥士星矢EPISODE.G**》是[车田正美](../Page/车田正美.md "wikilink")原著、画者为[冈田芽武的](https://zh.wikipedia.org/wiki/冈田芽武 "wikilink")《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》外傳作品，于2002年12月19日开始，在[秋田书店月刊](https://zh.wikipedia.org/wiki/秋田书店 "wikilink")《Champion RED》连载。
 
 ## 故事概要

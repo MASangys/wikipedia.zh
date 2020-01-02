@@ -1,3 +1,6 @@
+> 本文内容由[魔法戰隊魔法連者VS刑事連者](https://zh.wikipedia.org/wiki/魔法戰隊魔法連者VS刑事連者)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

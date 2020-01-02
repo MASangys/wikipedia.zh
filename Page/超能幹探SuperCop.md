@@ -1,3 +1,6 @@
+> 本文内容由[超能幹探SuperCop](https://zh.wikipedia.org/wiki/超能幹探SuperCop)转换而来。
+
+
 《**超能幹探SuperCop**》（）是香港電視廣播有限公司的時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，監製[梁家樹](../Page/梁家樹.md "wikilink")，由[劉錫明](../Page/劉錫明.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[林穎嫻](https://zh.wikipedia.org/wiki/林穎嫻 "wikilink")、[彭家麗](../Page/彭家麗.md "wikilink")、[朱江](../Page/朱江.md "wikilink")、[陳嘉輝](../Page/陳嘉輝.md "wikilink")、[谷峰](../Page/谷峰.md "wikilink")、[王龍威](https://zh.wikipedia.org/wiki/王龍威 "wikilink")、[蘇杏璇](../Page/蘇杏璇.md "wikilink")等主演，此劇曾於1995年於[翡翠台](../Page/翡翠台.md "wikilink")、2013年5月20日至6月14日在[TVB星河頻道](../Page/TVB星河頻道.md "wikilink")重播及由2018年5月31日起逢星期一至五於[TVB經典台](../Page/TVB經典台.md "wikilink")重播。
 
 ## 故事簡介

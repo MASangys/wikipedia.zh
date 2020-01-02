@@ -1,3 +1,6 @@
+> 本文内容由[西方Project](https://zh.wikipedia.org/wiki/西方Project)转换而来。
+
+
 **西方Project**（）是由原[東京電機大學內的非公式工作室](https://zh.wikipedia.org/wiki/東京電機大學 "wikilink")「AmusementMakers」（现同人组织「被瞬殺之道?」）开发的纵版[弹幕射击游戏系列游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")。
 
 ## 概述

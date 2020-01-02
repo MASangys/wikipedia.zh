@@ -1,3 +1,6 @@
+> 本文内容由[聖戰士DUNBINE](https://zh.wikipedia.org/wiki/聖戰士DUNBINE)转换而来。
+
+
 《**聖戰士DUNBINE**》（）是[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")出品的[機器人動畫](../Page/機器人動畫.md "wikilink")系列。在日本由[名古屋電視台](../Page/名古屋電視台.md "wikilink")於1983年2月5日至1984年1月21日播放，全49集。
 
 ## 概要

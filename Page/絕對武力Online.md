@@ -1,3 +1,6 @@
+> 本文内容由[絕對武力Online](https://zh.wikipedia.org/wiki/絕對武力Online)转换而来。
+
+
 是一款基於著名[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[反恐精英](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》的改編作，以[反恐精英：零點行動的](../Page/絕對武力：一觸即發.md "wikilink")[GoldSrc引擎](../Page/GoldSrc引擎.md "wikilink")為基礎製作而成的FPS類[網絡遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")，主要目的是為了進一步拓展亞洲的[FPS市場](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，由原反恐精英研發商[Valve與](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[韓國的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司合作，在2007年12月於[韓國首度發行](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。
 
 2012年4月5日NEXON宣布將和Valve再次合作，採用新版本的Source引擎開發續作《[反恐精英Online 2](../Page/絕對武力_Online_2.md "wikilink")》\[1\]。

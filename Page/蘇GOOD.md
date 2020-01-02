@@ -1,3 +1,6 @@
+> 本文内容由[蘇GOOD](https://zh.wikipedia.org/wiki/蘇GOOD)转换而来。
+
+
 《**蘇GOOD系列**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")首個外判予獨立製作公司所製作的飲食節目系列。
 
 節目由[蘇施黃](../Page/蘇施黃.md "wikilink")主持，共有兩輯、一輯賀年版及一集賀年特輯。第1輯由2008年9月22日至10月31日及2008年11月24日至2009年1月2日播出；賀年版由2009年1月19日至1月31日播出，名為《**SO FAR蘇GOOD過牛年**》（）；第2輯由2009年8月24日至10月2日及2010年2月22日至4月3日播出。第1輯和賀年版均於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:35-23:05同步播放；第2輯則於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")逢星期一至五晚上22:30-23:00同步播放，並於翌日凌晨01:45-02:10及04:35-05:00於[高清翡翠台](../Page/高清翡翠台.md "wikilink")重播，及於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。[高清翡翠台](../Page/高清翡翠台.md "wikilink")設有互動功能，使用有[MHEG-5](../Page/MHEG-5.md "wikilink")的[數碼接收器或](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")[IDTV即可使用](https://zh.wikipedia.org/wiki/IDTV "wikilink")。

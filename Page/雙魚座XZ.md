@@ -1,3 +1,6 @@
+> 本文内容由[雙魚座XZ](https://zh.wikipedia.org/wiki/雙魚座XZ)转换而来。
+
+
 **雙魚座XZ**，又名**BD-00 4585**，**HD 224062**、**SAO 146973**、**HR 9047**，是[雙魚座的一颗恒星](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")\[1\]\[2\]，视星等为5.61，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")94.06，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-59.55，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

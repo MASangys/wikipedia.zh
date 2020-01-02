@@ -1,3 +1,6 @@
+> 本文内容由[激走戰隊車連者VS王連者](https://zh.wikipedia.org/wiki/激走戰隊車連者VS王連者)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

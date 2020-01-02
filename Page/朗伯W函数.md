@@ -1,3 +1,6 @@
+> 本文内容由[朗伯W函数](https://zh.wikipedia.org/wiki/朗伯W函数)转换而来。
+
+
 [lambertw.png](https://zh.wikipedia.org/wiki/File:lambertw.png "fig:lambertw.png")
 
 **朗伯W函数**（，又称为**欧米加函数**或**乘积对数**），是*f*(*w*) = *we*<sup>*w*</sup>的[反函数](https://zh.wikipedia.org/wiki/反函数 "wikilink")，其中*e*<sup>*w*</sup>是[指数函数](../Page/指数函数.md "wikilink")，*w*是任意复数。对于任何复数*z*，都有：

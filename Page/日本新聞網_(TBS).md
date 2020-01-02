@@ -1,3 +1,6 @@
+> 本文内容由[日本新聞網 \(TBS\)](https://zh.wikipedia.org/wiki/日本新聞網_\(TBS\))转换而来。
+
+
 [TBS_headquarters_2013.JPG](https://zh.wikipedia.org/wiki/File:TBS_headquarters_2013.JPG "fig:TBS_headquarters_2013.JPG")
 
 **日本新聞網**（，），簡稱****，是以[TBS電視台](../Page/TBS電視台.md "wikilink")為核心的[電視聯播網](../Page/電視聯播網.md "wikilink")，成立於1959年8月1日，為日本歷史最悠久的電視聯播網。

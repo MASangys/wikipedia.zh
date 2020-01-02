@@ -1,3 +1,6 @@
+> 本文内容由[特命戰隊Go Busters THE MOVIE 保護東京Enetower!](https://zh.wikipedia.org/wiki/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!)转换而来。
+
+
 『**特命戰隊Go Busters THE MOVIE 保護東京Enetower\!**』（日文：）是2012年8月4日 [東映](../Page/東映.md "wikilink")公開預定上映的『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")』劇場版作品，與『[假面騎士系列](../Page/假面騎士系列.md "wikilink") 』的『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink") 』劇場版『[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink") 』同時上映。
 
 ## 概要

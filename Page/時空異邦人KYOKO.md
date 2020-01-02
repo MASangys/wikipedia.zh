@@ -1,3 +1,6 @@
+> 本文内容由[時空異邦人KYOKO](https://zh.wikipedia.org/wiki/時空異邦人KYOKO)转换而来。
+
+
 《**時空異邦人KYOKO**》是由**[種村有菜](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")**在[集英社](../Page/集英社.md "wikilink")《[Ribon](../Page/Ribon.md "wikilink")》連載，[少女](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")、[奇幻漫畫](../Page/奇幻漫畫.md "wikilink")作品。
 
 ## 概要

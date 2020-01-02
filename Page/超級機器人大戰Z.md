@@ -1,3 +1,6 @@
+> 本文内容由[超級機器人大戰Z](https://zh.wikipedia.org/wiki/超級機器人大戰Z)转换而来。
+
+
 《**超級機器人大戰Z**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義於2008年9月25日發售的[回合制](https://zh.wikipedia.org/wiki/回合制 "wikilink")[戰略](https://zh.wikipedia.org/wiki/戰略 "wikilink")[RPG](../Page/電子角色扮演遊戲.md "wikilink")。簡稱「**機戰Z**」「**SRWZ**」。
 
 本作宣傳詞為「**多元世紀元年 我們的世界崩壞了･･･**」

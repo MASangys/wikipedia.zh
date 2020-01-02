@@ -1,3 +1,6 @@
+> 本文内容由[詹姆斯·T·柯克](https://zh.wikipedia.org/wiki/詹姆斯·T·柯克)转换而来。
+
+
 **詹姆斯·泰比里厄斯·寇克**（James Tiberius Kirk）是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》系列中的一名[虚构角色](https://zh.wikipedia.org/wiki/虚构角色 "wikilink")。\[1\]由[威廉·夏特纳](../Page/威廉·夏特纳.md "wikilink")和[克里斯·派恩先后饰演](https://zh.wikipedia.org/wiki/克里斯·派恩 "wikilink")。柯克是第一部《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行：初代 "wikilink")》电视剧和前六部《星际旅行》电影的[主角](https://zh.wikipedia.org/wiki/主角 "wikilink")，另在第七部电影担任配角。2007年，[J·J·艾布拉姆斯宣布柯克将会成为新近的](https://zh.wikipedia.org/wiki/J·J·艾布拉姆斯 "wikilink")《[星际旅行XI](https://zh.wikipedia.org/wiki/星际旅行XI "wikilink")》电影中的一名角色，尽管他当时并没有说谁会扮演这个角色。\[2\]后来确定的演员为[克里斯·派恩](https://zh.wikipedia.org/wiki/克里斯·派恩 "wikilink")，他将出演2009年电影《[星际旅行XI](https://zh.wikipedia.org/wiki/星际旅行XI "wikilink")》中柯克的角色。
 
 柯克指挥过两艘[名叫“进取号”的星舰](../Page/进取号星舰.md "wikilink")：[联邦星舰进取号 (NCC-1701)与](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701\) "wikilink")[联邦星舰进取号 (NCC-1701-A)](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-A\) "wikilink")。

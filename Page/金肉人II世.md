@@ -1,3 +1,6 @@
+> 本文内容由[金肉人II世](https://zh.wikipedia.org/wiki/金肉人II世)转换而来。
+
+
 **金肉人二世**（**** Kinnikuman Nisei）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[蚵仔煎](https://zh.wikipedia.org/wiki/Yudetamago "wikilink")（）的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、亦是原作與[動畫作品及](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主角的名字](https://zh.wikipedia.org/wiki/主角 "wikilink")。
 
 《[金肉人](../Page/金肉人.md "wikilink")》連載完後多年，作者蚵仔煎於1998年在[集英社](../Page/集英社.md "wikilink")的青年雜誌《週刊Playboy》上開始連載金肉人二世至今。

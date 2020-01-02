@@ -1,3 +1,6 @@
+> 本文内容由[音樂i瞎佛](https://zh.wikipedia.org/wiki/音樂i瞎佛)转换而来。
+
+
 《**音樂i瞎佛**》為[MTV台灣頻道節目](https://zh.wikipedia.org/wiki/MTV "wikilink")，主持人為[八三夭](../Page/八三夭.md "wikilink")、[山東](https://zh.wikipedia.org/wiki/山東 "wikilink")、[張芸京](../Page/張芸京.md "wikilink")、[自由發揮](../Page/自由發揮.md "wikilink")、[張兆志](../Page/張兆志.md "wikilink")，於2012年9月17日開播，週一至週五晚間21:00-22:00首播。
 
 《音樂i瞎佛》由八三夭、山東、張芸京、自由發揮、張兆志五組主持人每天介紹不同的主題歌單，帶領觀眾重新閱讀MV的魅力，從中挖掘新鮮有趣的觀點。

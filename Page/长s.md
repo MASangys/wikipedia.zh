@@ -1,3 +1,6 @@
+> 本文内容由[长s](https://zh.wikipedia.org/wiki/长s)转换而来。
+
+
 ，又名**長S**，是[小写字母](https://zh.wikipedia.org/wiki/小写字母 "wikilink")*[s](https://zh.wikipedia.org/wiki/s "wikilink")* 的變體，用於字的開首或中段，而不會用來結尾。例如：  就是“sinfulness”一詞的過去寫法。
 
 ## 历史

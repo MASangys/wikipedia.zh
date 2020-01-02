@@ -1,3 +1,6 @@
+> 本文内容由[香港居民巴士NRN89線](https://zh.wikipedia.org/wiki/香港居民巴士NRN89線)转换而来。
+
+
 **香港居民巴士NRN89線**是[香港](../Page/香港.md "wikilink")[城巴](../Page/城巴.md "wikilink")一條已停辦的居民巴士路線，由位於[中環](../Page/中環.md "wikilink")（[港澳碼頭](https://zh.wikipedia.org/wiki/港澳碼頭_\(香港\) "wikilink")）巴士總站旁的[中景道](https://zh.wikipedia.org/wiki/中景道 "wikilink")（[海傍警署](https://zh.wikipedia.org/wiki/海傍警署 "wikilink")）單-{A|向}-往[沙田第一城](../Page/沙田第一城.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[風色幻想III～罪與罰的鎮魂歌～](https://zh.wikipedia.org/wiki/風色幻想III～罪與罰的鎮魂歌～)转换而来。
+
+
 《**風色幻想III～罪與罰的鎮魂歌～**》是[弘煜科技](../Page/弘煜科技.md "wikilink")开发的[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。亦是弘煜經過長久研發期，使用新型[3D遊戲引擎的開始](https://zh.wikipedia.org/wiki/3D "wikilink")。故事內容屬於菲利斯多篇四部曲中第三部曲。游戏於2004年11月16日在台湾發售，\[1\][中国大陆](../Page/中国大陆.md "wikilink")则由[寰宇之星](../Page/寰宇之星.md "wikilink")代理，於2005年2月25日发行。\[2\]
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[暗黑破壞神II](https://zh.wikipedia.org/wiki/暗黑破壞神II)转换而来。
+
+
 是由[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")于2000年6月29日發行的一款PC及Mac OS平台的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是《[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")》的第二代。故事紧随前作1996年发行的《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》。其[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")《[暗黑破壞神II：毀滅之王](../Page/暗黑破壞神II：毀滅之王.md "wikilink")》于2001年6月29日發行。
 
 玩家可在單人模式及多人模式進行遊戲以及在[战网與其他玩家共同遊玩](https://zh.wikipedia.org/wiki/战网 "wikilink")。

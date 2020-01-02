@@ -1,3 +1,6 @@
+> 本文内容由[狮子王3：Hakuna Matata](https://zh.wikipedia.org/wiki/狮子王3：Hakuna_Matata)转换而来。
+
+
 是一部由[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[華特迪士尼製作](https://zh.wikipedia.org/wiki/華特迪士尼影業 "wikilink")、於2004年2月10日以[錄影帶首映方式發行的](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")[電腦動畫](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。它是1994年的電影《[獅子王](https://zh.wikipedia.org/wiki/獅子王 "wikilink")》的平行續集。這部電影的双碟版[DVD已经分别由](https://zh.wikipedia.org/wiki/DVD "wikilink")[中录德加拉](../Page/中录德加拉.md "wikilink")、[博伟](../Page/博伟.md "wikilink")在[中国大陆](../Page/中国大陆.md "wikilink")以及[台湾发行](https://zh.wikipedia.org/wiki/台湾 "wikilink")。其劇情大致上為重新敘述《獅子王》的故事，但是焦點是放在[狐獴](../Page/狐獴.md "wikilink")丁滿（Timon）以及[疣豬](../Page/疣豬.md "wikilink")彭彭（Pumbaa）上，而整個電影的時間線在《獅子王》故事發生之前以及之間。角色大致上只有丁滿和彭彭兩位主角，他們以影子的方式出現在一個類似電影院的地方。
 
 這部電影開始在一個電影院中，丁滿和彭彭正看到《獅子王》這部片的片頭，但丁滿突然拿起遙控器，想要將這部片快轉到自己出現的片段，彭彭卻不同意，他認為不該斷斷續續的看電影，於是兩個人就開始爭執了起來。最後，他們決定要以另外一個角度來看這部電影，以丁滿和彭彭為主角來重新開始這部片。待劇情結束後，彭彭建議再看一遍，但丁滿並不同意，可是這時，他們的朋友，甚至是幾乎所有迪士尼電影中出現的主角都出現到電影院中。丁滿也只好認了，於是整個電影又重新開始一遍，故事結束。

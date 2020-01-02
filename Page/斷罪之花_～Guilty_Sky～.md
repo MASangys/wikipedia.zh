@@ -1,3 +1,6 @@
+> 本文内容由[斷罪之花 ～Guilty Sky～](https://zh.wikipedia.org/wiki/斷罪之花_～Guilty_Sky～)转换而来。
+
+
 《**斷罪之花 ～Guilty Sky～**》是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")，[BeForU成員](https://zh.wikipedia.org/wiki/BeForU "wikilink")[小坂梨由](../Page/小坂梨由.md "wikilink")的第3枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

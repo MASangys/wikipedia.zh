@@ -1,8 +1,11 @@
+> 本文内容由[瑪利歐與路易吉RPG3!!!](https://zh.wikipedia.org/wiki/瑪利歐與路易吉RPG3!!!)转换而来。
+
+
 是一個於2009年由[AlphaDream](../Page/AlphaDream.md "wikilink")開發並由[任天堂](../Page/任天堂.md "wikilink")發佈的[角色扮演電子遊戲](../Page/電子角色扮演遊戲.md "wikilink")，其平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。它是[瑪利歐與路易RPG遊戲系列的第三個遊戲](https://zh.wikipedia.org/wiki/瑪利歐與路易RPG系列 "wikilink")，緊接系列的前兩個遊戲《[马里奥与路易RPG](https://zh.wikipedia.org/wiki/马里奥与路易RPG "wikilink")》及《[瑪利歐與路易吉RPG2](../Page/瑪利歐與路易吉RPG2.md "wikilink")》。2019年，本遊戲在3DS平台推出重製版。
 
 此遊戲以[瑪利歐和](https://zh.wikipedia.org/wiki/瑪利歐_\(角色\) "wikilink")[路易被縮小並吸進他們敵人](https://zh.wikipedia.org/wiki/路易吉_\(遊戲角色\) "wikilink")[庫巴的身體內開始](https://zh.wikipedia.org/wiki/庫巴 "wikilink")。而後瑪利歐兄弟便因要面對共同敵人而嘗試協助尚未知道體內有瑪利歐兄弟的庫巴去擊敗佔領了庫巴城堡和桃子城堡的奸角盖拉柯比茲\[1\]（, ）。這個遊戲的重點在於3人合作，並發揮各自的特技去解決難關及打敗敵人。此遊戲亦是瑪利歐與路易RPG遊戲系列中首個玩家能夠操控[庫巴的遊戲](https://zh.wikipedia.org/wiki/庫巴 "wikilink")。
 
-《瑪利歐與路易RPG3\!\!\!》於2008年10月2日的[東京新聞發布會中首次亮相](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[2\]而其英語版本則於2009初在[E3中發佈](https://zh.wikipedia.org/wiki/E3 "wikilink")。\[3\]這個遊戲非常成功，並分別於[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[MetaCritic中分別獲得](https://zh.wikipedia.org/wiki/MetaCritic "wikilink")91%\[4\]和90分的分數。\[5\]截至2011年4月，此遊戲亦售出了約413萬份遊戲。\[6\]
+《瑪利歐與路易RPG3\!\!\!》於2008年10月2日的[東京新聞發布會中首次亮相](https://zh.wikipedia.org/wiki/東京 "wikilink")。\[2\]而其英語版本則於2009初在[E3中發佈](https://zh.wikipedia.org/wiki/E3 "wikilink")。\[3\]這個遊戲非常成功，並分別於[GameRankings](../Page/GameRankings.md "wikilink")和[MetaCritic中分別獲得](https://zh.wikipedia.org/wiki/MetaCritic "wikilink")91%\[4\]和90分的分數。\[5\]截至2011年4月，此遊戲亦售出了約413萬份遊戲。\[6\]
 
 ## 故事
 
@@ -35,42 +38,24 @@
 [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:马里奥角色扮演游戏](https://zh.wikipedia.org/wiki/Category:马里奥角色扮演游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
 
 1.  <http://www.mariowiki.com/Fawful#Names_in_other_languages>
-
 2.
-
 3.
-
 4.  [GameRankings: Mario & Luigi: Bowser's Inside Story](http://www.gamerankings.com/ds/954368-mario-and-luigi-bowsers-inside-story/index.html)
-
 5.  [MetaCritic: Mario & Luigi: Bowser's Inside Story](http://www.metacritic.com/games/platforms/ds/marioandluigibowsersinsidestory)
-
 6.  {{ cite web|url=[http://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf\#page=5|title=Supplementary](http://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf#page=5%7Ctitle=Supplementary) Information about Earnings Release|publisher=Nintendo|date=2011-04-26|format=pdf|accessdate=2011-04-26|pages=10}}
-
 7.
-
 8.
 9.
-
 10.
 11.
 12.
-
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.

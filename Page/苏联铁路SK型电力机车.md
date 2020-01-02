@@ -1,3 +1,6 @@
+> 本文内容由[苏联铁路SK型电力机车](https://zh.wikipedia.org/wiki/苏联铁路SK型电力机车)转换而来。
+
+
 **SK型电力机车**（），研制时原称为**VL20型电力机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于3000伏直流[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，于1936年研制成功。该型机车是在[Ss型](../Page/苏联铁路Ss型电力机车.md "wikilink")、[VL19型电力机车](../Page/VL19型电力机车.md "wikilink")基础上改进而成的实验性电力机车，仅试制四台但未投入批量生产。
 
 ## 发展历史

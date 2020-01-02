@@ -1,3 +1,6 @@
+> 本文内容由[血管紧张肽I转化酶抑制剂](https://zh.wikipedia.org/wiki/血管紧张肽I转化酶抑制剂)转换而来。
+
+
 **血管紧张肽I转化酶抑制剂**（，简称为**ACEI**）是一类抗[高血压药](https://zh.wikipedia.org/wiki/高血压 "wikilink")。
 
 ## 作用机理

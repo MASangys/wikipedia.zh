@@ -1,3 +1,6 @@
+> 本文内容由[特搜戰隊刑事連者VS暴連者](https://zh.wikipedia.org/wiki/特搜戰隊刑事連者VS暴連者)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

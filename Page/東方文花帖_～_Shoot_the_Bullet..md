@@ -1,3 +1,6 @@
+> 本文内容由[東方文花帖 ～ Shoot the Bullet.](https://zh.wikipedia.org/wiki/東方文花帖_～_Shoot_the_Bullet.)转换而来。
+
+
 [Shoot_the_Bullet.jpg](https://zh.wikipedia.org/wiki/File:Shoot_the_Bullet.jpg "fig:Shoot_the_Bullet.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")9.5彈。
 
 ## 概要
