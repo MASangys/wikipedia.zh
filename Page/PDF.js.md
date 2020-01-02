@@ -1,3 +1,6 @@
+> 本文内容由[PDF.js](https://zh.wikipedia.org/wiki/PDF.js)转换而来。
+
+
 **PDF.js**、**pdf.js**是一款使用[HTML5 Canvas安全地渲染](../Page/Canvas_\(HTML元素\).md "wikilink")[PDF文件以及遵从](https://zh.wikipedia.org/wiki/PDF "wikilink")[网页标准的](https://zh.wikipedia.org/wiki/网页标准 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")渲染PDF文件的[JavaScript](../Page/JavaScript.md "wikilink")库。[安德里亞斯·加爾](../Page/安德里亞斯·加爾.md "wikilink")于2011年发起（最初是实验性的）之后由[Mozilla基金会主导](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")。
 
 PDF.js可以作为浏览器或网站的一部分运行。原本是一個[Firefox擴充套件](https://zh.wikipedia.org/wiki/Firefox擴充套件列表 "wikilink")\[1\]，自2012年開始，它被納入[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（15版本）\[2\]\[3\]，并从2013年开始默认启用（19版本）成為基本功能\[4\]\[5\] 。它还是[ownCloud的一部分](https://zh.wikipedia.org/wiki/ownCloud "wikilink")，并可用作[Chrome](../Page/Google_Chrome.md "wikilink")、[Chromium](../Page/Chromium.md "wikilink")\[6\]、[Firefox for Android](../Page/Firefox_for_Android.md "wikilink")\[7\]、[Pale Moon](../Page/苍月浏览器.md "wikilink")\[8\]及[SeaMonkey](../Page/SeaMonkey.md "wikilink")\[9\]的附加元件。

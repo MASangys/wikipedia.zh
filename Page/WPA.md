@@ -1,3 +1,6 @@
+> 本文内容由[WPA](https://zh.wikipedia.org/wiki/WPA)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Fritz!Box_Fon_WLAN_7141_-_Typenschild-3743.jpg "fig:缩略图") **WPA**（），意即「Wi-Fi存取保護」，是一種保護[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")（[Wi-Fi](../Page/Wi-Fi.md "wikilink")）存取安全的技術標準。它是應研究者在前一代的[有線等效加密](../Page/有線等效加密.md "wikilink")（WEP）系統中找到的幾個嚴重的弱點而產生的。目前廣泛實作的有WPA、WPA2兩個標準，WPA實作了[IEEE](https://zh.wikipedia.org/wiki/IEEE "wikilink") [802.11i標準的大部分](https://zh.wikipedia.org/wiki/802.11i "wikilink")，是在802.11i完備之前替代WEP的過渡方案。WPA的設計可以用在所有的[無線網卡上](https://zh.wikipedia.org/wiki/無線網卡 "wikilink")，但未必能用在第一代的[無線接入點](../Page/無線接入點.md "wikilink")上。WPA2具備完整的標準體系，但其不能被應用在某些舊型的網卡上。WPA和WPA2這兩個標準都提供了不錯的保全能力，但也都存在自己的問題：
 
   - WPA或WPA2一定要啟動並且被選來代替WEP才能生效，但是在某些旧设备的安裝指引或默认配置中，WEP标准是默认选项。

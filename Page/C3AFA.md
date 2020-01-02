@@ -1,3 +1,6 @@
+> 本文内容由[C3AFA](https://zh.wikipedia.org/wiki/C3AFA)转换而来。
+
+
 **C3AFA**是在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[香港](../Page/香港.md "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[耶加達及](https://zh.wikipedia.org/wiki/耶加達 "wikilink")[曼谷](../Page/曼谷.md "wikilink")舉辦的集合動畫、漫畫、小說、遊戲及音樂的大型展覽。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Intel 4004](https://zh.wikipedia.org/wiki/Intel_4004)转换而来。
+
+
 [Ic-photo-intel-D4004.png](https://zh.wikipedia.org/wiki/File:Ic-photo-intel-D4004.png "fig:Ic-photo-intel-D4004.png") **4004**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[英特爾公司](https://zh.wikipedia.org/wiki/英特爾公司 "wikilink") (Intel) 推出的第1款[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，也是全球第一款微處理器；1971年11月15日发布。
 
 4004處理器的尺寸為3mm×4mm，外層有16隻針腳，內有2,300個[晶體管](https://zh.wikipedia.org/wiki/晶體管 "wikilink")，採用五层設計、[10微米製程](https://zh.wikipedia.org/wiki/10微米製程 "wikilink")。

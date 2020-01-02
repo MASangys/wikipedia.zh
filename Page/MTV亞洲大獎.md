@@ -1,3 +1,6 @@
+> 本文内容由[MTV亞洲大獎](https://zh.wikipedia.org/wiki/MTV亞洲大獎)转换而来。
+
+
 **MTV亞洲大獎**（）是和歐洲的[MTV歐洲音樂大獎](../Page/MTV歐洲音樂大獎.md "wikilink")（MTV EMA）同等的亞洲音樂獎項。創立於2002年，該活動給予在成就、電影、時尚、人道主義、音樂等方面的亞洲和國際偶像肯定和獎勵。和MTV歐洲音樂大獎一樣，大多數的獎項都由亞洲地區的觀眾投票決定。
 
 最新的獎盃設計是一個金色的類似[三角巧克力的長條](https://zh.wikipedia.org/wiki/三角巧克力 "wikilink")。雙[稜鏡](../Page/稜鏡.md "wikilink")形狀代表字母「M」和兩個字母「A」，也就是MTV亞洲大獎的英文縮寫（MAA）。

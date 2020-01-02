@@ -1,3 +1,6 @@
+> 本文内容由[DNA測序](https://zh.wikipedia.org/wiki/DNA測序)转换而来。
+
+
 **DNA测序**（**[DNA sequencing](https://zh.wikipedia.org/wiki/:en:DNA_sequencing "wikilink")**，或譯**DNA定序**）是指分析特定[DNA片段的](https://zh.wikipedia.org/wiki/DNA "wikilink")[碱基序列](https://zh.wikipedia.org/wiki/碱基 "wikilink")，也就是[腺嘌呤](../Page/腺嘌呤.md "wikilink")（A）、[胸腺嘧啶](../Page/胸腺嘧啶.md "wikilink")（T）、[胞嘧啶](../Page/胞嘧啶.md "wikilink")（C）與[鳥嘌呤](https://zh.wikipedia.org/wiki/鳥嘌呤 "wikilink")（G）的排列方式。快速的DNA测序方法的出现极大地推动了生物学和医学的研究和发现。
 
 在基础生物学研究中，和在众多的应用领域，如诊断，生物技术，法医生物学，生物系统学中，DNA序列知识已成为不可缺少的知识。具有现代的DNA测序技术的快速测序速度已经有助于达到测序完整的DNA序列，或多种类型的基因组测序和生命物种，包括人类基因组和其他许多动物，植物和微生物物种的完整DNA序列。

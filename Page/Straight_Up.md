@@ -1,3 +1,6 @@
+> 本文内容由[Straight Up](https://zh.wikipedia.org/wiki/Straight_Up)转换而来。
+
+
 《**Straight Up**》是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")在1988年11月發行的單曲，它曾獲得美國單曲榜三週冠軍，成為寶拉·阿巴杜首支全美冠軍單曲，寶拉·阿巴杜也因為〈Straight Up〉打響了她在美國流行樂壇的知名度\[1\]。
 
 ## 歌曲

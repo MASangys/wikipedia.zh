@@ -1,3 +1,6 @@
+> 本文内容由[HTTP严格传输安全](https://zh.wikipedia.org/wiki/HTTP严格传输安全)转换而来。
+
+
 **HTTP严格传输安全**（，縮寫：**HSTS**）是一套由[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")发布的[互联网](../Page/互联网.md "wikilink")安全策略机制。[网站可以选择使用HSTS策略](https://zh.wikipedia.org/wiki/网站 "wikilink")，来让[浏览器强制使用](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[HTTPS与网站进行通信](../Page/超文本传输安全协议.md "wikilink")，以减少[会话劫持风险](https://zh.wikipedia.org/wiki/会话劫持 "wikilink")。\[1\]\[2\]
 
 其[徵求修正意見書文件编号是](https://zh.wikipedia.org/wiki/徵求修正意見書 "wikilink")-{}-RFC 6797，发布于2012年11月。

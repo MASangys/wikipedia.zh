@@ -1,3 +1,6 @@
+> 本文内容由[Google Cardboard](https://zh.wikipedia.org/wiki/Google_Cardboard)转换而来。
+
+
 **Google Cardboard**是[Google](../Page/Google.md "wikilink")所开发、与[智能手机](../Page/智能手机.md "wikilink")配合使用的[虚拟现实](../Page/虚拟现实.md "wikilink")[头戴式显示器](https://zh.wikipedia.org/wiki/头戴式显示器 "wikilink")。该平台以其折叠式纸板头盔命名，旨在以廉价成本，激发对VR应用的兴趣和发展\[1\]\[2\]。按照Google发布的规范，用户既可以利用廉价简易的元件自行制作头盔，或购买预先做好的头盔。要使用平台，用户须在手机上运行Cardboard兼容的应用，将手机置于头盔后端，透过镜片观看内容\[3\]。
 
 该平台由巴黎Google艺术文化学院工程师大卫·科玆（）和达米恩·亨利（）利用他们20%“创意休息时间”（）开发\[4\]，于2014年[Google I/O开发者大会上亮相](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，被派发给现场所有观众。Cardboard的[软件开发工具包](../Page/软件开发工具包.md "wikilink")（SDK）向[Android](../Page/Android.md "wikilink")和[iOS操作系统开发](https://zh.wikipedia.org/wiki/iOS "wikilink")。SDK的VR View允许开发者嵌入网络及他们移动应用中的VR内容。

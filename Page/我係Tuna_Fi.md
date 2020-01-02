@@ -1,3 +1,6 @@
+> 本文内容由[我係Tuna Fi](https://zh.wikipedia.org/wiki/我係Tuna_Fi)转换而来。
+
+
 《**我係TUNA FI**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的時裝劇，于1990年11月首播，共20集，由[陳澤成監製](https://zh.wikipedia.org/wiki/陳澤成 "wikilink")。\[1\]
 
 ## 劇情介紹

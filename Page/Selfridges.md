@@ -1,3 +1,6 @@
+> 本文内容由[Selfridges](https://zh.wikipedia.org/wiki/Selfridges)转换而来。
+
+
 **Selfridges**（官方不使用譯名，\[1\]亦稱**Selfridge & Co.**）是一家英國的高檔[百貨公司](../Page/百貨公司.md "wikilink")，由[哈里·戈登·塞爾福里奇於](https://zh.wikipedia.org/wiki/哈里·戈登·塞爾福里奇 "wikilink")1909年創立，其位於倫敦[牛津街](../Page/牛津街.md "wikilink")的旗艦店在1909年3月15日開業，是目前僅次於[哈洛德百貨公司](../Page/哈洛德百貨公司.md "wikilink")的英國第二大百貨商店。\[2\]
 
 幾經轉手之後，\[3\] 在1965年被[西爾斯百貨](../Page/西爾斯百貨.md "wikilink")收購，\[4\] 在西爾斯百貨的運營下從倫敦擴展到了[曼徹斯特和](https://zh.wikipedia.org/wiki/曼徹斯特 "wikilink")[伯明翰](../Page/伯明翰.md "wikilink")。\[5\] 2003年被加拿大商人[蓋倫·韋斯頓](../Page/蓋倫·韋斯頓.md "wikilink")以5.98億英鎊的價格收購。\[6\] 2013年該公司的歷史搬上了銀幕，拍成英國電視劇《[塞爾福里奇先生](https://zh.wikipedia.org/wiki/塞爾福里奇先生 "wikilink")》。\[7\]

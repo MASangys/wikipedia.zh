@@ -1,3 +1,6 @@
+> 本文内容由[OXO](https://zh.wikipedia.org/wiki/OXO)转换而来。
+
+
 是于1952年，为[延遲存儲電子自動計算器](../Page/延遲存儲電子自動計算器.md "wikilink")（EDSAC）创作的[井字棋](../Page/井字棋.md "wikilink")电脑游戏，这是[早期电子游戏史中最早的游戏之一](https://zh.wikipedia.org/wiki/早期电子游戏史 "wikilink")。游戏系道格拉斯为[剑桥大学](../Page/剑桥大学.md "wikilink")[人机交互](../Page/人机交互.md "wikilink")课题而开发。EDSAC是最早的储存程序计算机之一，可以[读取或写入储存器](../Page/随机存取存储器.md "wikilink")。机器有三块小型[显像管屏幕](https://zh.wikipedia.org/wiki/显像管 "wikilink")，用以指示储存器状态；道格拉斯重新定义了一块屏幕，使之向用户显示其他信息，如井字棋游戏状态。游戏在完成目的后被废弃。《OXO》和[克里斯托弗·斯特雷奇](../Page/克里斯托弗·斯特雷奇.md "wikilink")同期的[西洋跳棋](../Page/西洋跳棋.md "wikilink")游戏，是已知最早以电子屏幕显示画面的游戏。《OXO》按某些定义是最早的电子游戏，而一些电子游戏定义要求画面活动或实时更新，故《OXO》被排除在外。
 
 ## 玩法

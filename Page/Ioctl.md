@@ -1,3 +1,6 @@
+> 本文内容由[Ioctl](https://zh.wikipedia.org/wiki/Ioctl)转换而来。
+
+
 在计算机中，**ioctl**(input/output control)是一个专用于设备输入输出操作的系统调用,该调用传入一个跟设备有关的请求码，系统调用的功能完全取决于请求码。举个例子，CD-ROM驱动程序可以弹出光驱，它就提供了一个对应的**Ioctl**请求码。设备无关的请求码则提供了内核调用权限。ioctl这名字第一次出现在Unix第七版中，他在很多类[unix系统](https://zh.wikipedia.org/wiki/unix "wikilink")（比如[Linux](../Page/Linux.md "wikilink")、[Mac OSX等](https://zh.wikipedia.org/wiki/Mac_OSX "wikilink")）都有提供，不过不同系统的请求码对应的设备有所不同。[Microsoft Windows在Win](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")32 API里提供了相似的函数，叫做[DeviceIoControl](https://zh.wikipedia.org/wiki/DeviceIoControl "wikilink")。
 
 ## 背景

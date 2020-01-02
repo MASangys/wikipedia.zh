@@ -1,3 +1,6 @@
+> 本文内容由[Fantastic \(Henry單曲\)](https://zh.wikipedia.org/wiki/Fantastic_\(Henry單曲\))转换而来。
+
+
 《**Fantastic**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior-M成員](../Page/Super_Junior-M.md "wikilink")[Henry的首張日語單曲](../Page/劉憲華.md "wikilink")，由[Kenzie](https://zh.wikipedia.org/wiki/金妍政 "wikilink")（）與[Will Simms作曲](https://zh.wikipedia.org/wiki/Will_Simms "wikilink")、[AKIRA作詞](https://zh.wikipedia.org/wiki/AKIRA_\(作詞人\) "wikilink")，並在2014年10月8日以兩個不同版本推出\[1\]。
 
 ## 背景

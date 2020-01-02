@@ -1,3 +1,6 @@
+> 本文内容由[Got it\? \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/Got_it\?_\(GOT7迷你專輯\))转换而来。
+
+
 《**Got it?**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")出道發行的首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2014年1月20日發行，唱片公司為KT Music。主打歌曲《Girls Girls Girls》釋出僅16天，《Got it?》即登上美國[Billboard世界專輯榜第一名](https://zh.wikipedia.org/wiki/Billboard "wikilink")，創下韓國團體出道以來最快登榜記錄\[1\]。
 
 ## 背景

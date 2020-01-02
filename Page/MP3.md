@@ -1,3 +1,6 @@
+> 本文内容由[MP3](https://zh.wikipedia.org/wiki/MP3)转换而来。
+
+
 **动态图像专家组-1**或**动态图像专家组-2** **音频层III**（），常简称为**MP3**，是当今流行的一种[数字音频编码和](https://zh.wikipedia.org/wiki/数字音频 "wikilink")[有损压缩格式](https://zh.wikipedia.org/wiki/有損數據壓縮 "wikilink")，它被设计来大幅降低音频数据量，通过舍弃[PCM音訊資料中對人類聽覺不重要的部分](https://zh.wikipedia.org/wiki/脉冲编码调制 "wikilink")，達成壓縮成較小檔案的目的。而对于大多数用户的聽覺感受来说，MP3的音质与最初的不压缩音频相比没有明显的下降。它是在1991年，由位于[德国](../Page/德国.md "wikilink")[埃爾朗根的研究組織](https://zh.wikipedia.org/wiki/埃爾朗根 "wikilink")[弗劳恩霍夫协会](../Page/弗劳恩霍夫协会.md "wikilink")的一组工程师发明和标准化的。MP3的普及，曾對音樂產業造成衝擊與影響。
 
 ## 概观

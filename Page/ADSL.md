@@ -1,3 +1,6 @@
+> 本文内容由[ADSL](https://zh.wikipedia.org/wiki/ADSL)转换而来。
+
+
 [Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg](https://zh.wikipedia.org/wiki/File:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg "fig:Alcatel_T07AW_of_Chunghwa_Telecom_2007-02-27.jpg")採用的[ATU-R](https://zh.wikipedia.org/wiki/ATU-R "wikilink")（ADSL數據機）「T07AW」內含[WLAN功能](https://zh.wikipedia.org/wiki/WLAN "wikilink")\]\] **非對稱[數位用戶線路](https://zh.wikipedia.org/wiki/數位用戶線路 "wikilink")(英文：Asymmetric Digital Subscriber)**又称**非對稱-{zh-hans:数字用户环路;zh-hk:數碼用戶回路;zh-tw:數位用戶回路;}-**（**Asymmetric Digital Subscriber Loop**）,简称**ADSL**。
 
 ## 介绍

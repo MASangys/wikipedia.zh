@@ -1,3 +1,6 @@
+> 本文内容由[SourceForge](https://zh.wikipedia.org/wiki/SourceForge)转换而来。
+
+
 [Sourceforge_logo.png](https://zh.wikipedia.org/wiki/File:Sourceforge_logo.png "fig:Sourceforge_logo.png") [Sourceforge_Website_2017.png](https://zh.wikipedia.org/wiki/File:Sourceforge_Website_2017.png "fig:Sourceforge_Website_2017.png") **SourceForge**是一套合作式[软件开发管理系统](../Page/版本控制.md "wikilink")。SourceForge本身是[VA Software出售的](https://zh.wikipedia.org/wiki/VA_Software "wikilink")[专有软件](../Page/专有软件.md "wikilink")。它集成了很多[开源应用程序](https://zh.wikipedia.org/wiki/开源 "wikilink")（例如[PostgreSQL](../Page/PostgreSQL.md "wikilink")和[SVN](../Page/Subversion.md "wikilink")、[CVS](https://zh.wikipedia.org/wiki/协作版本系统 "wikilink")），为软件开发提供了整套[生命周期服务](https://zh.wikipedia.org/wiki/生命周期 "wikilink")。
 
 **SourceForge.net**，又稱**SF.net**，是[开源软件](../Page/开源软件.md "wikilink")的开发者进行开发管理的集中式场所，也是全球最大[开源软件](../Page/开源软件.md "wikilink")开发平台和仓库。SourceForge.net由[VA Software提供主机](https://zh.wikipedia.org/wiki/VA_Software "wikilink")，并运行SourceForge软件。大量开源项目在此落户（2005年6月已经達到125,090個專案及1,352,225位註冊用戶），包括[维基百科](../Page/维基百科.md "wikilink")使用的[MediaWiki](../Page/MediaWiki.md "wikilink")，但也包含很多停止開發和一人開發的项目。

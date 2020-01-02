@@ -1,3 +1,6 @@
+> 本文内容由[爸B也Upgrade 2](https://zh.wikipedia.org/wiki/爸B也Upgrade_2)转换而来。
+
+
 《**爸B也Upgrade 2**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，全節目共5集。本節目於2014年10月13日起逢星期一至五晚上22:30-23:00於[翡翠台](../Page/翡翠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 每集內容

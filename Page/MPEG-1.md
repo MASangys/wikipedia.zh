@@ -1,3 +1,6 @@
+> 本文内容由[MPEG-1](https://zh.wikipedia.org/wiki/MPEG-1)转换而来。
+
+
 **MPEG-1**是[MPEG](../Page/MPEG.md "wikilink")组织制定的第一个[视频](../Page/视频.md "wikilink")和[音频有损压缩标准](https://zh.wikipedia.org/wiki/音频 "wikilink")，也是最早推出及应用在市场上的MPEG技术，其原来主要-{zh-hans:目标;zh-hant:目標}-是在[CD](../Page/CD.md "wikilink")光盘上记录影像，后来被广泛应用在[VCD](../Page/VCD.md "wikilink")光盘。[视频压缩算法于](https://zh.wikipedia.org/wiki/视频压缩 "wikilink")1990年定义完成。1992年底，MPEG-1正式被批准成为国际标准。
 
 ## MPEG-1概述

@@ -1,3 +1,6 @@
+> 本文内容由[Fear, and Loathing in Las Vegas](https://zh.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas)转换而来。
+
+
 **Fear, and Loathing in Las Vegas 樂團**，是日本一個[神户出身的](https://zh.wikipedia.org/wiki/神户 "wikilink")[Trance Core樂團](https://zh.wikipedia.org/wiki/Trance_Core "wikilink")。
 
 ## 團名由來

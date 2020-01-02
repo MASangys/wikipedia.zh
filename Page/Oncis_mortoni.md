@@ -1,3 +1,6 @@
+> 本文内容由[Oncis mortoni](https://zh.wikipedia.org/wiki/Oncis_mortoni)转换而来。
+
+
 ***Oncis mortoni***是一種會呼吸的[蛞蝓](../Page/蛞蝓.md "wikilink")。牠屬於[腹足纲](../Page/腹足纲.md "wikilink")[異鰓總目](https://zh.wikipedia.org/wiki/異鰓總目 "wikilink")[缩柄眼目](https://zh.wikipedia.org/wiki/缩柄眼目 "wikilink")[石磺總科](https://zh.wikipedia.org/wiki/石磺總科 "wikilink")[石磺科](../Page/石磺科.md "wikilink")\[1\]。
 
 ## 簡述

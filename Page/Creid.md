@@ -1,3 +1,6 @@
+> 本文内容由[Creid](https://zh.wikipedia.org/wiki/Creid)转换而来。
+
+
 《**Creid**》（爱尔兰语的“相信”），是[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")1997年[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[异度装甲](https://zh.wikipedia.org/wiki/异度装甲 "wikilink")》的原声[编曲专辑](https://zh.wikipedia.org/wiki/编曲 "wikilink")。专辑由游戏作曲人[光田康典](../Page/光田康典.md "wikilink")编写，千年祭（Millennial Fair）合奏团演奏。[DigiCube](../Page/DigiCube.md "wikilink")于1998年4月22日在日本初版专辑，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")与2005年6月29日再版专辑。《Cried》收录《[异度装甲原声音乐](https://zh.wikipedia.org/wiki/异度装甲原声音乐 "wikilink")》中的10首编曲，编曲大多采用[爱尔兰和](https://zh.wikipedia.org/wiki/爱尔兰音乐 "wikilink")[凯尔特](https://zh.wikipedia.org/wiki/凯尔特音乐 "wikilink")，以及光田所言的少量[日本摇滚曲风](https://zh.wikipedia.org/wiki/日本摇滚 "wikilink")\[1\]。项目雇佣了日本和爱尔兰艺术家。专辑五首声乐中四首由工藤顺子填词，本间哲子演唱，另一曲《Creid》由光田作词，[艾蜜尔·奎恩演唱](https://zh.wikipedia.org/wiki/Eimear_Quinn "wikilink")。
 
 专辑获得媒体好评，内容创意及演奏和曲目选择皆获称赞。光田对吉他手[吉良知彦的演奏印象深刻](https://zh.wikipedia.org/wiki/吉良知彦 "wikilink")，选择让他参与之后《[穿越时空](../Page/穿越时空.md "wikilink")》的演奏，最终他演奏了《穿越时空》的游戏片尾曲《Radical Dreamers ～盗不走的宝石～》。

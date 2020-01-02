@@ -1,3 +1,6 @@
+> 本文内容由[HSB旋轉中心](https://zh.wikipedia.org/wiki/HSB旋轉中心)转换而来。
+
+
 **HSB旋轉中心**（）於2005年8月27日開幕；建築物位於[瑞典](../Page/瑞典.md "wikilink")[馬爾默樓高](https://zh.wikipedia.org/wiki/馬爾默 "wikilink")、54層的一幢[摩天大廈](https://zh.wikipedia.org/wiki/摩天大廈 "wikilink")，有「扭毛巾大樓」之稱\[1\]；為當地著名地標\[2\]；它是除了是[瑞典](../Page/瑞典.md "wikilink")及[北歐最高的建築物外](https://zh.wikipedia.org/wiki/斯堪的納維亞 "wikilink")，也是[歐洲第二高的住宅大廈](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 ## 設計

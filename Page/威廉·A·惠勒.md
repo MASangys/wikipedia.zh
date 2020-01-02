@@ -1,3 +1,6 @@
+> 本文内容由[威廉·A·惠勒](https://zh.wikipedia.org/wiki/威廉·A·惠勒)转换而来。
+
+
 **威廉·A·惠勒**（，）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[联邦众议员和第](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")19任[美國副總統](https://zh.wikipedia.org/wiki/美國副總統 "wikilink")（1877年–1881年）。
 
 ## 早年生活

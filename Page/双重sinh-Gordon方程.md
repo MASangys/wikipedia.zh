@@ -1,3 +1,6 @@
+> 本文内容由[双重sinh-Gordon方程](https://zh.wikipedia.org/wiki/双重sinh-Gordon方程)转换而来。
+
+
 **双重sinh-Gordon方程**（Double sinh_Gordon equation）是一个[非线性偏微分方程](../Page/非线性偏微分方程.md "wikilink")。\[1\]. \[2\] \[3\]\[4\]\[5\].
 
 \(u_{xt}=asinh(u)+bsinh(2u)\)

@@ -1,3 +1,6 @@
+> 本文内容由[任天堂Dream](https://zh.wikipedia.org/wiki/任天堂Dream)转换而来。
+
+
 是[德间书店发行的日本](https://zh.wikipedia.org/wiki/德间书店 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")杂志，是日本的[任天堂](../Page/任天堂.md "wikilink")主题杂志。最初名为《The 64Dream》，在1996年6月[任天堂64](../Page/任天堂64.md "wikilink")发售时创刊\[1\]。后在2001年5月[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")发售前易为现名。
 
 《The 64Dream》在2001年改名前是月刊。2002年改为半月刊，在每月6日和21日发行。2005年又改回月刊，维持至今。

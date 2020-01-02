@@ -1,3 +1,6 @@
+> 本文内容由[Einstein@Home](https://zh.wikipedia.org/wiki/Einstein@Home)转换而来。
+
+
 **Einstein@Home**，是一个由[威斯康星大學密爾沃基分校主辦](https://zh.wikipedia.org/wiki/威斯康星大學密爾沃基分校 "wikilink")，基于[BOINC](../Page/BOINC.md "wikilink")计算平台的[分布式计算](../Page/分布式计算.md "wikilink")项目。
 
 ## 尋找引力波

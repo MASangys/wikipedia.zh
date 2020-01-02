@@ -1,3 +1,6 @@
+> 本文内容由[三国志X](https://zh.wikipedia.org/wiki/三国志X)转换而来。
+
+
 是[日本光榮公司於](https://zh.wikipedia.org/wiki/日本光榮公司 "wikilink")2004年7月推出的一款[三國志系列](../Page/三國志系列.md "wikilink")的[策略](https://zh.wikipedia.org/wiki/策略 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。三國志X再度融合了[角色養成的成分](https://zh.wikipedia.org/wiki/养成游戏 "wikilink")，賦予高自由度扮演一名[文官或](https://zh.wikipedia.org/wiki/文官 "wikilink")[武將的可能性](https://zh.wikipedia.org/wiki/武將 "wikilink")，與[三國志VII](../Page/三國志VII.md "wikilink")、[三國志VIII相似](https://zh.wikipedia.org/wiki/三國志VIII "wikilink")，相對於[三國志IX](../Page/三國志IX.md "wikilink")有著相當大的不同。
 
 ## 內容

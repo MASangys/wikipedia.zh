@@ -1,3 +1,6 @@
+> 本文内容由[P Productions](https://zh.wikipedia.org/wiki/P_Productions)转换而来。
+
+
 **ピー・プロダクション**是日本的日本电视动画、电视节目、特摄节目、特殊映像的製作会社。
 
 ## 主要作品

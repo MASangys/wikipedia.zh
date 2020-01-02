@@ -1,3 +1,6 @@
+> 本文内容由[RAID](https://zh.wikipedia.org/wiki/RAID)转换而来。
+
+
 [Nuvola_devices_raid.png](https://zh.wikipedia.org/wiki/File:Nuvola_devices_raid.png "fig:Nuvola_devices_raid.png") **-{zh-hk:獨立磁碟冗餘陣列;zh-cn:独立硬盘冗余阵列;zh-tw:容錯式磁碟陣列;}-**（），舊稱**-{zh-hk:廉價磁盤冗餘陣列;zh-tw:容錯式廉價磁碟陣列;zh-cn:廉价磁盘冗余阵列;}-**（），簡稱**磁盘阵列**。利用虛擬化儲存技術把多個硬碟組合起來，成為一個或多個硬碟陣列組，目的為提升效能或資料冗餘，或是兩者同時提升。
 
 在運作中，取決於 RAID 層級不同，資料會以多種模式分散於各個硬碟，RAID 層級的命名會以 RAID 開頭並帶數字，例如：RAID 0、RAID 1、RAID 5、RAID 6、RAID 7、RAID 01、RAID 10、RAID 50、RAID 60。每種等級都有其理論上的優缺點，不同的等級在兩個目標間取得平衡，分別是增加資料可靠性以及增加存储器（群）读写效能。

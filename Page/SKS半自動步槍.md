@@ -1,3 +1,6 @@
+> 本文内容由[SKS半自動步槍](https://zh.wikipedia.org/wiki/SKS半自動步槍)转换而来。
+
+
 **SKS半自動步槍**是由[蘇聯槍械設計師谢尔盖](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")·西蒙諾夫（Сергей Гаврилович Симонов）在1945年設計的[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。SKS45是（[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")：，[中文翻譯是自動上膛的卡賓槍](https://zh.wikipedia.org/wiki/中文 "wikilink")－西蒙諾夫系統，1945年）的縮寫。SKS半自動步槍在[蘇聯的第一線服役後很快便被](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[AK-47突击步枪取代](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")。但其後它仍然在第二線服務了幾十年。直到今天，仍然是俄罗斯、[中華人民共和國和多個前蘇聯國家的儀仗隊使用的步槍](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")。SKS半自動步槍被蘇聯廣泛出口到前東歐集團國家和中華人民共和國，部份國家更曾仿製並大量生產。中華人民共和國製造的SKS被命名為[56式半自動步枪](../Page/56式半自动步枪.md "wikilink")，[東德](../Page/東德.md "wikilink")則命名為“S式卡賓槍（Karabiner S）”，朝鮮則稱為“63式”。由於已經被軍隊淘汰而大量的廉價出售，當今它在許多國家平民使用的半自動步槍市場很受歡迎。SKS是第二個使用[7.62×39毫米子彈的武器](../Page/7.62×39mm.md "wikilink")，第一个使用的是[RPD輕機槍](../Page/RPD輕機槍.md "wikilink")。
 
 ## 技術規格

@@ -1,3 +1,6 @@
+> 本文内容由[Color TV-Game](https://zh.wikipedia.org/wiki/Color_TV-Game)转换而来。
+
+
 是任天堂於1977年至1980年制造的一系列家用[专用游戏机](https://zh.wikipedia.org/wiki/专用游戏机 "wikilink")。系列有五种不同的主机，都仅在日本开发并发行。總計銷量約250至300萬\[1\]\[2\]。
 
 ## 詳細

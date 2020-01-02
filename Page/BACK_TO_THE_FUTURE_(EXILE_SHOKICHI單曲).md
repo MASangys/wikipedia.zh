@@ -1,3 +1,6 @@
+> 本文内容由[BACK TO THE FUTURE \(EXILE SHOKICHI單曲\)](https://zh.wikipedia.org/wiki/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\))转换而来。
+
+
 「**BACK TO THE FUTURE**」是於2014年6月4日、[EXILE SHOKICHI的首張個人出道的單曲](../Page/SHOKICHI.md "wikilink")。\[1\]。有CD+DVD、CD ONLY 2種形態公開發售。另外有FC及MOBILE限定ONE COIN CD及MUSIC CARD（全3種）發售。
 
 CD收錄了4首歌曲。而標題歌曲「BACK TO THE FUTURE」是與VERBAL及SWAY合作。而「THE ANTHEM」是與[DOBERMAN INC及SWAY再加上](https://zh.wikipedia.org/wiki/DOBERMAN_INC "wikilink")[三代目J Soul Brothers from EXILE TRIBE的](../Page/J_Soul_Brothers.md "wikilink")[ELLY所參與](https://zh.wikipedia.org/wiki/ELLY "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[MediaNet](https://zh.wikipedia.org/wiki/MediaNet)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")的[子公司](../Page/子公司.md "wikilink")，其製作的[動畫主要供應給東京電視台的主頻道及其附屬日本動畫頻道](https://zh.wikipedia.org/wiki/動畫 "wikilink")[AT-X](../Page/AT-X.md "wikilink")播放。該公司製作的動畫至今已播放的有二十套，包括、及等。
 
 ## 沿革

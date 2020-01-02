@@ -1,3 +1,6 @@
+> 本文内容由[Apache Tomcat](https://zh.wikipedia.org/wiki/Apache_Tomcat)转换而来。
+
+
 **Tomcat**是由Apache软件基金会属下[Jakarta项目](../Page/Jakarta项目.md "wikilink")开发的[Servlet容器](https://zh.wikipedia.org/wiki/Servlet "wikilink")，按照[Sun Microsystems提供的技术规范](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")，实现了对[Servlet和](https://zh.wikipedia.org/wiki/Servlet "wikilink")[JavaServer Page](https://zh.wikipedia.org/wiki/JavaServer_Page "wikilink")（[JSP](../Page/JSP.md "wikilink")）的支持，并提供了作为Web服务器的一些特有功能，如Tomcat管理和控制平台、安全域管理和Tomcat阀等。由于Tomcat本身也内含了[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")[服务器](../Page/服务器.md "wikilink")，因此也可以视作单独的[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")。但是，不能将Tomcat和[Apache HTTP服务器混淆](https://zh.wikipedia.org/wiki/Apache_HTTP服务器 "wikilink")，[Apache HTTP服务器是用C语言实现的HTTP](https://zh.wikipedia.org/wiki/Apache_HTTP服务器 "wikilink")[Web服务器](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")；这两个HTTP web server不是捆绑在一起的。Apache Tomcat包含了配置管理工具，也可以通过编辑XML格式的配置文件来进行配置。
 
 ## 环境

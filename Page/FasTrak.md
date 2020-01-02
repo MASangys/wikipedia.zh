@@ -1,3 +1,6 @@
+> 本文内容由[FasTrak](https://zh.wikipedia.org/wiki/FasTrak)转换而来。
+
+
 **FasTrak**是[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")使用的[電子道路收費系統](../Page/電子道路收費系統.md "wikilink")，主要负责[加州高速及快速公路系統的收费路段](https://zh.wikipedia.org/wiki/加州高速及快速公路系統 "wikilink")、桥梁和收费[高乘载车道的收费](https://zh.wikipedia.org/wiki/高乘载车道 "wikilink")。
 
 ## 外部链接

@@ -1,3 +1,6 @@
+> 本文内容由[TOM集團](https://zh.wikipedia.org/wiki/TOM集團)转换而来。
+
+
 **TOM集團有限公司**（股份代號：2383）為[香港聯合交易所主板上市的](https://zh.wikipedia.org/wiki/香港聯合交易所 "wikilink")[媒體與](https://zh.wikipedia.org/wiki/媒體 "wikilink")[科技公司](https://zh.wikipedia.org/wiki/科技 "wikilink")。除了經營[出版和廣告的媒體業務外](https://zh.wikipedia.org/wiki/出版 "wikilink")，TOM集團也是一個科技平台，營運業務包括[電子商貿](https://zh.wikipedia.org/wiki/電子商貿 "wikilink")、[社交網絡](https://zh.wikipedia.org/wiki/社交網絡 "wikilink")、移動互聯網；其策略投資領域則涵蓋金融科技和先進數據分析。TOM集團為[長江和記實業](../Page/長江和記實業.md "wikilink")有限公司成員。公司在[開曼群島](../Page/開曼群島.md "wikilink")註冊，主席為[陸法蘭](../Page/陸法蘭.md "wikilink")。
 
 TOM集團（前稱**TOM.COM**）2000年3月1日在[香港創業板上市](https://zh.wikipedia.org/wiki/香港創業板 "wikilink")，當時上市編號為8001.HK。TOM.COM當時上市招股價為1.78元，上市首日收報7.75元，較招股價上升3.35倍。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[WMS产业](https://zh.wikipedia.org/wiki/WMS产业)转换而来。
+
+
 **WMS产业有限公司**（WMS Industries, Inc.）是美国电子游戏与娱乐公司，开发设施位于伊利诺斯芝加哥。2013年公司被[科学游戏全资收购](https://zh.wikipedia.org/wiki/科学游戏 "wikilink")。公司的主要经营子公司有[WMS游戏和](https://zh.wikipedia.org/wiki/WMS游戏 "wikilink")[威廉姆斯互动](https://zh.wikipedia.org/wiki/威廉姆斯互动 "wikilink")。WMS最早可追溯到哈瑞·H·威廉姆斯在1943年创立的**威廉姆斯制造**（Williams Manufacturing Company）。不过今天名为WMS产业的公司则是从1974年正式建立的**威廉姆斯电子有限公司**（Williams Electronics, Inc.）开始。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[HOTEL \(倖田來未單曲\)](https://zh.wikipedia.org/wiki/HOTEL_\(倖田來未單曲\))转换而来。
+
+
 《**HOTEL**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年8月6日發行的第57張單曲\[1\]。
 
 ## 簡介

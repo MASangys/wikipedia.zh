@@ -1,3 +1,6 @@
+> 本文内容由[Punch \(電視劇\)](https://zh.wikipedia.org/wiki/Punch_\(電視劇\))转换而来。
+
+
 《**Punch**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2014年12月15日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，由《[追擊者 THE CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》、《[黃金帝國](../Page/黃金帝國.md "wikilink")》朴慶秀作家攜手《[時尚王](../Page/時尚王.md "wikilink")》、《[兩個女人的房間](../Page/兩個女人的房間.md "wikilink")》[李明佑導演合作打造](https://zh.wikipedia.org/wiki/李明佑 "wikilink")。
 
 ## 劇情

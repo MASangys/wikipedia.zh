@@ -1,3 +1,6 @@
+> 本文内容由[HELLO WORLD \(SCANDAL專輯\)](https://zh.wikipedia.org/wiki/HELLO_WORLD_\(SCANDAL專輯\))转换而来。
+
+
 《**HELLO WORLD**》是由日本樂團[SCANDAL所發行的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")6張錄音專輯，於2014年12月3日發行。 本專輯於發售首週獲得ORICON週排行第三名的成績\[1\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[仿射q克拉夫楚克多项式](https://zh.wikipedia.org/wiki/仿射q克拉夫楚克多项式)转换而来。
+
+
 **仿射q克拉夫楚克多项式**是以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
 
 \(K^{aff}_{n}(q^{-x};p;N;q)=\;_{2}\phi_1\left(\begin{matrix}

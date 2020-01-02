@@ -1,3 +1,6 @@
+> 本文内容由[PowerBook G4](https://zh.wikipedia.org/wiki/PowerBook_G4)转换而来。
+
+
 [15-inch-titanium-powerbook.jpg](https://zh.wikipedia.org/wiki/File:15-inch-titanium-powerbook.jpg "fig:15-inch-titanium-powerbook.jpg") [AluminiumG4.jpg](https://zh.wikipedia.org/wiki/File:AluminiumG4.jpg "fig:AluminiumG4.jpg")
 
 **PowerBook G4**是由[蘋果電腦所設計生產的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")系列產品，使用[PowerPC](../Page/PowerPC.md "wikilink") G4 [中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（原先是由[摩托羅拉](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")（[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")）生產，現由[IBM](../Page/IBM.md "wikilink")生產），本系列的所有產品現今都已停產。

@@ -1,3 +1,6 @@
+> 本文内容由[鹿豹座MY](https://zh.wikipedia.org/wiki/鹿豹座MY)转换而来。
+
+
 **鹿豹座MY**（**MY Camelopardalis**，縮寫**MY Cam**），是位於[疏散星團](https://zh.wikipedia.org/wiki/疏散星團 "wikilink")[阿里坎特1](https://zh.wikipedia.org/wiki/阿里坎特1 "wikilink")（Alicante 1）內的一組[聯星](../Page/聯星.md "wikilink")，在天球上位於[鹿豹座](../Page/鹿豹座.md "wikilink")，距離地球約。它是已知質量最巨大的聯星系統之一\[1\]。鹿豹座MY是星團阿里坎特1中最明亮的成員星\[2\]。
 
 ## 概要

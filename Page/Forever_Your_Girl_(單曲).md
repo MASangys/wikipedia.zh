@@ -1,3 +1,6 @@
+> 本文内容由[Forever Your Girl \(單曲\)](https://zh.wikipedia.org/wiki/Forever_Your_Girl_\(單曲\))转换而来。
+
+
 《**永遠是你的女孩**》（）是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")在1989年2月發行和專輯同名的單曲，它曾獲得美國單曲榜2週冠軍\[1\]。
 
 ## 歌曲

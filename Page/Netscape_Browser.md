@@ -1,3 +1,6 @@
+> 本文内容由[Netscape Browser](https://zh.wikipedia.org/wiki/Netscape_Browser)转换而来。
+
+
 **Netscape Browser**是Netscape[網頁瀏覽器的第](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")8版，改寫自[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")的[Mozilla Firefox瀏覽器](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，不同於以往導航者（Navigator）與郵件軟體（Netscape Mail & Newsgroups）一起推出的套裝形式。原本的HTML編輯器也被獨立出來，成為由[Linspire](../Page/Linspire.md "wikilink")公司研發的[Nvu](../Page/Nvu.md "wikilink")。
 
 該軟體僅有[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統執行的版本](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。由[美國線上](https://zh.wikipedia.org/wiki/美國線上 "wikilink")（AOL）發行，開發方面則委託[加拿大](../Page/加拿大.md "wikilink")公司Mercurial Communications負責。該款瀏覽器是自[Netscape結束瀏覽器開發業務後](https://zh.wikipedia.org/wiki/Netscape "wikilink")，首款以Netscape名義推出的瀏覽器，也是Netscape瀏覽器系列的延續。

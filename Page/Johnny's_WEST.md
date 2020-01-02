@@ -1,3 +1,6 @@
+> 本文内容由[Johnny\'s WEST](https://zh.wikipedia.org/wiki/Johnny\'s_WEST)转换而来。
+
+
 **Johnnys' WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的偶像團體，於2014年4月23日正式出道。所屬唱片公司為[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")。出道曲為「這樣不是很好嗎」。\[1\]
 
 由7位[關西](https://zh.wikipedia.org/wiki/關西地方 "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")組成，為自[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")以來相隔十年的全團員關西小傑尼斯出道\[2\]。另外，名稱中冠上「Johnny's」的正式出道組合，是自傑尼斯事務所的初代組合Johnny's後的唯一例\[3\]</ref>。

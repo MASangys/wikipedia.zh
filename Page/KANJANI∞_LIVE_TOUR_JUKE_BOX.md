@@ -1,3 +1,6 @@
+> 本文内容由[KANJANI∞ LIVE TOUR JUKE BOX](https://zh.wikipedia.org/wiki/KANJANI∞_LIVE_TOUR_JUKE_BOX)转换而来。
+
+
 《**KANJANI∞ LIVE TOUR JUKE BOX**》（カンジャニエイト ライブツアー ジュークボックス），為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第10張DVD。
 
 ## 概要

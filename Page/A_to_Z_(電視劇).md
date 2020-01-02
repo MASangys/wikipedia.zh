@@ -1,3 +1,6 @@
+> 本文内容由[A to Z \(電視劇\)](https://zh.wikipedia.org/wiki/A_to_Z_\(電視劇\))转换而来。
+
+
 《**A to Z**》為一部由創造的美國浪漫喜劇影集，並由其與、共同擔任執行製作，[華納兄弟電視公司](../Page/華納兄弟電視公司.md "wikilink")製作。\[1\] 本劇在2014年10月2日晚間9點30分（[ET](https://zh.wikipedia.org/wiki/北美東部時區 "wikilink")）／晚間8點30分（[CT](https://zh.wikipedia.org/wiki/北美中部時區 "wikilink")）於[NBC首播](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")，為[2014年－2015年美國電視季度的首播影集](https://zh.wikipedia.org/wiki/2014年－2015年美國電視網節目表 "wikilink")。\[2\]\[3\]2014年10月31日，NBC宣布取消本劇，但預計會將預定的13集全數播完。2015年1月22日本劇正式落幕。
 
 ## 故事

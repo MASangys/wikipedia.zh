@@ -1,3 +1,6 @@
+> 本文内容由[Twinko \(專輯\)](https://zh.wikipedia.org/wiki/Twinko_\(專輯\))转换而来。
+
+
 《**Twinko同名迷你專輯**》（英語：**Twinko 1st Mini Album**）為台灣女子團體[Twinko](../Page/Twinko.md "wikilink")的首張迷你專輯，為她們出道一年後正式發行的音樂作品，專輯收錄6首不同風格的歌曲，專輯歌曲以「愛」為概念主。
 
 ## 曲目

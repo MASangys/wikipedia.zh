@@ -1,3 +1,6 @@
+> 本文内容由[瓦爾特PPX半自動手槍](https://zh.wikipedia.org/wiki/瓦爾特PPX半自動手槍)转换而来。
+
+
 **瓦爾特PPX**（，意為：X型警用手槍）是一款由[德国](../Page/德国.md "wikilink")槍械製造商[卡尔·瓦尔特运动枪](../Page/卡尔·瓦尔特运动枪.md "wikilink")[有限公司](../Page/有限公司.md "wikilink")為民間射擊、安全部隊和執法機關取代過去的[瓦爾特P99而研製和生產的](../Page/瓦爾特P99手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W這兩種](../Page/.40_S&W.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

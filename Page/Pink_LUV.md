@@ -1,3 +1,6 @@
+> 本文内容由[Pink LUV](https://zh.wikipedia.org/wiki/Pink_LUV)转换而来。
+
+
 《**Pink LUV**》是[韓國女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Apink](../Page/Apink.md "wikilink")的第5枚迷你專輯，於2014年11月24日發行，經紀及製作公司為[A Cube娛樂](../Page/Plan_A娛樂.md "wikilink")，由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。主打歌為<LUV>，一共於音樂節目獲得17個一位，成為獲得最多一位的女團歌曲\[1\]。
 
 ## 概要

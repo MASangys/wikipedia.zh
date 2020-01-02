@@ -1,3 +1,6 @@
+> 本文内容由[Handspring](https://zh.wikipedia.org/wiki/Handspring)转换而来。
+
+
 **HandSpring**是一家[个人数码助理](https://zh.wikipedia.org/wiki/PDA "wikilink")（PDA）及[智能手機生產商](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，現已與[Palm](../Page/Palm.md "wikilink")合併。
 
 HandSpring曾獲得[Palm OS的授权](../Page/Palm_OS.md "wikilink")，开发Palm兼容机型，主要为[Treo](../Page/Treo.md "wikilink")系列，以带硬体[键盘的Palm手机闻名](https://zh.wikipedia.org/wiki/键盘 "wikilink")。

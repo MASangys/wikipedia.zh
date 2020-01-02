@@ -1,3 +1,6 @@
+> 本文内容由[Venmo](https://zh.wikipedia.org/wiki/Venmo)转换而来。
+
+
 **Venmo**是[PayPal](../Page/PayPal.md "wikilink")旗下的一个[行动支付服务](https://zh.wikipedia.org/wiki/行动支付 "wikilink")，让用户可以使用手机或网页转账给他人。2015年Venmo处理的转账金额达75亿美元，2016年第一季度达32亿美元。\[1\]
 
 使用Venmo转账不是即时的，在初次发出后是可以取消的。转账可能需要几天才会到账。

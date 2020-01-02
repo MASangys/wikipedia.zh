@@ -1,3 +1,6 @@
+> 本文内容由[中国足球甲级A组联赛](https://zh.wikipedia.org/wiki/中国足球甲级A组联赛)转换而来。
+
+
 **中国足球甲级A组联赛**，简称**甲A联赛**，曾是中国足球的顶级联赛，为[中國足球超級聯賽的前身](https://zh.wikipedia.org/wiki/中國足球超級聯賽 "wikilink")，簡稱（甲A，C League）。1989年成立，前期为专业体制，[1994年开始职业化](../Page/1994年中国足球甲A联赛.md "wikilink")，至[2003赛季结束后改制为](../Page/2003年中国足球甲A联赛.md "wikilink")[中国足球超级联赛](https://zh.wikipedia.org/wiki/中国足球超级联赛 "wikilink")。
 
 职业化十年的过程中[大连万达/实德获](https://zh.wikipedia.org/wiki/大连实德 "wikilink")7次冠军、[上海申花获](https://zh.wikipedia.org/wiki/上海申花 "wikilink")1次冠军（由于涉及假赌黑2003年冠军被剥夺）、[山东鲁能泰山获](https://zh.wikipedia.org/wiki/山东鲁能泰山 "wikilink")1次冠军。

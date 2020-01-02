@@ -1,3 +1,6 @@
+> 本文内容由[GLPI](https://zh.wikipedia.org/wiki/GLPI)转换而来。
+
+
 **GLPI**，是一个用于IT资产管理的[开源软件](../Page/开源软件.md "wikilink")，为法语Gestionnaire libre de parc informatique（资讯设备自由软件）的缩写，这个软件是用PHP编写的，并在GPL许可下发布。
 
 作为一种开源技术，任何人都可以运行，修改或开发代码。 这样，贡献者可以通过在GitHub上提交免费和开源的补充模块来参与软件的开发。

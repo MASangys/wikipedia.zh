@@ -1,3 +1,6 @@
+> 本文内容由[Nd Cube](https://zh.wikipedia.org/wiki/Nd_Cube)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")开发商，在[东京和](https://zh.wikipedia.org/wiki/东京都 "wikilink")[札幌设有办公室](https://zh.wikipedia.org/wiki/札幌 "wikilink")，为[任天堂](../Page/任天堂.md "wikilink")的[子公司](../Page/子公司.md "wikilink")。Nd Cube最初于2000年3月1日创立，由任天堂和[电通](../Page/电通.md "wikilink")合资建立，Nd即为两公司首字母结合\[1\]。Nd Cube原由任天堂持股78%、电通持股13.3%，但2010年任天堂购得98%股份、电通取消持股\[2\]，任天堂网站上显示Nd Cube为正式研发子公司\[3\]。
 
 Nd Cube建立后一直保持低姿态，开发多款[GameCube和](https://zh.wikipedia.org/wiki/GameCube "wikilink")[Game Boy Advance游戏](../Page/Game_Boy_Advance.md "wikilink")，在[西方世界](../Page/西方世界.md "wikilink")最知名的两款游戏是《[F-Zero: Maximum Velocity](https://zh.wikipedia.org/wiki/F-Zero:_Maximum_Velocity "wikilink")》和《[Tube Slider](https://zh.wikipedia.org/wiki/Tube_Slider "wikilink")》。

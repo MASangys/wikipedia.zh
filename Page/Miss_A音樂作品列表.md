@@ -1,3 +1,6 @@
+> 本文内容由[Miss A音樂作品列表](https://zh.wikipedia.org/wiki/Miss_A音樂作品列表)转换而来。
+
+
 **[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")**是韓國[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下四人女子組合，現已發行2張錄音室專輯、3張迷你專輯及8首單曲。
 
 ## 專輯

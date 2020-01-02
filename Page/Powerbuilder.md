@@ -1,3 +1,6 @@
+> 本文内容由[Powerbuilder](https://zh.wikipedia.org/wiki/Powerbuilder)转换而来。
+
+
 **PowerBuilder**是Powersoft（美国著名的数据库应用开发工具厂商，现已被德国SAP集团旗下的Sybase公司收购）推出的可视化数据库集成开发工具，它是一个专业的客户机／服务器应用程序开发工具。PowerBuilder目前的最新版本是12.6，最新版本最大特点是支持了Odata，且和APPEON結合可以達到寫一套程式可以在C/S、手機(android和iOS)和WEB平台上使用。它能够设计传统的基于客户机／服务器体系结构的应用系统，从6.0版本开始也能够开发基于Internet的应用系统（Web.PB）。
 
 ## 时间线

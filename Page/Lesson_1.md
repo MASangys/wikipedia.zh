@@ -1,3 +1,6 @@
+> 本文内容由[Lesson 1](https://zh.wikipedia.org/wiki/Lesson_1)转换而来。
+
+
 《**Lesson 1**》（第1輯）是[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")1張原創專輯。於2013年4月17日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

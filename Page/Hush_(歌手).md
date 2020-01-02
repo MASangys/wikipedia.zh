@@ -1,3 +1,6 @@
+> 本文内容由[Hush \(歌手\)](https://zh.wikipedia.org/wiki/Hush_\(歌手\))转换而来。
+
+
 **Hush**（），本名**陳家偉**，是臺灣男歌手與詞曲作家，曾是[Hush\!](../Page/Hush!.md "wikilink") 樂團的主唱。Hush在大學攻讀[哲學系](../Page/哲學系.md "wikilink")，對[星象](../Page/星座.md "wikilink")、[塔羅等充滿神祕事物也感興趣](https://zh.wikipedia.org/wiki/塔羅 "wikilink")，因此在他的詞曲創作中經常以哲學角度為出發點詮釋生命與愛情\[1\]。Hush曾為[張惠妹](../Page/張惠妹.md "wikilink")、[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")、[A-Lin](../Page/A-Lin.md "wikilink")、[徐佳瑩](../Page/徐佳瑩.md "wikilink")、[丁噹](../Page/丁噹.md "wikilink")、[林宥嘉](../Page/林宥嘉.md "wikilink")等歌手創作，因合作的歌手過多而被稱為「集郵天王」\[2\]。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[HyperTransport](https://zh.wikipedia.org/wiki/HyperTransport)转换而来。
+
+
 **HyperTransport**匯流排技术，简称“**HT总线**”，以前曾被称作“闪电数据传输”（**Lightning Data Transport**，**LDT**），是一种電腦處理器的互聯技術。它是一種高速、双向、低延时、[点对点](https://zh.wikipedia.org/wiki/点对点 "wikilink")（P2P）、串行或者并行的高带宽连接[总线](../Page/总线.md "wikilink")技术，最早在1999年由超微半導體提出並發起，並聯合[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")、[ALi](https://zh.wikipedia.org/wiki/ALi "wikilink")、[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")、[Apple](https://zh.wikipedia.org/wiki/Apple "wikilink")、[全美達](../Page/全美達.md "wikilink")、[IBM](../Page/IBM.md "wikilink")、[CISCO等多個硬體廠商組成HyperTransport開放聯盟](https://zh.wikipedia.org/wiki/CISCO "wikilink")，于2001年4月2日开始將此匯流排技術投入使用，並由[HyperTransport联合会](https://zh.wikipedia.org/wiki/HyperTransport联合会 "wikilink")（The HyperTransport Consortium）负责改进和发展此技术。\[1\]\[2\]\[3\]\[4\]
 
 ## 名稱

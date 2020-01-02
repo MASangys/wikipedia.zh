@@ -1,3 +1,6 @@
+> 本文内容由[海闊天空 \(Beyond歌曲\)](https://zh.wikipedia.org/wiki/海闊天空_\(Beyond歌曲\))转换而来。
+
+
 {{ external media | float = right | width = 300px | video1 = [BEYOND【海闊天空】Official Music Video](https://www.youtube.com/watch?v=qu_FSptjRic) 滾石唱片 }} 《**海闊天空**》是[香港](../Page/香港.md "wikilink")搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")的著名歌曲之一，於1993年創作，收錄於《[樂與怒](../Page/樂與怒.md "wikilink")》大碟，亦是[香港電台](../Page/香港電台.md "wikilink")電視節目《驕陽歲月》的主題曲，作曲、作詞及主音均為樂隊靈魂人物[黃家駒](../Page/黃家駒.md "wikilink")。歌曲以追求音樂夢想為主題，也滲入了Beyond成立10年的感情\[1\]。
 
 Beyond同時亦錄製了日文版的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[遙かなる夢に～Far away～](https://zh.wikipedia.org/wiki/遙かなる夢に～Far_away～ "wikilink")》。此曲製作完成後不足2個月，黃家駒於日本意外身故，成為其絕響作。及後見於籌款節目、示威活動等多種場合，至今仍然在香港及華人地區保持極高知名度。

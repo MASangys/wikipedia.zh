@@ -1,3 +1,6 @@
+> 本文内容由[Pro C](https://zh.wikipedia.org/wiki/Pro_C)转换而来。
+
+
 **Pro C**（），團名意思是「**Problem Children**」，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")於2013年所推出的2人男子組合，是[MADTOWN正式出道前](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")，由成員與[BUFFY組成的子團](https://zh.wikipedia.org/wiki/BUFFY "wikilink")\[1\]\[2\]\[3\]。 2013年11月25日官方公開預告影片\[4\]。 2013年11月28日，公開出道曲《Bad memory》\[5\]。 2014年1月之後才公開兩位成員的面貌，讓大家正式與**Pro C**見面\[6\]\[7\]。
 
 ## 成員列表

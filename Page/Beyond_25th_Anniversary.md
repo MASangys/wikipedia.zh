@@ -1,3 +1,6 @@
+> 本文内容由[Beyond 25th Anniversary](https://zh.wikipedia.org/wiki/Beyond_25th_Anniversary)转换而来。
+
+
 《**Beyond 25th Anniversary**》是滾石為紀念[beyond創立](https://zh.wikipedia.org/wiki/beyond "wikilink")25周年而發行的精選集，共收錄50首。
 
 ## 曲目

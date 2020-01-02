@@ -1,3 +1,6 @@
+> 本文内容由[Hottest Time of the Day](https://zh.wikipedia.org/wiki/Hottest_Time_of_the_Day)转换而来。
+
+
 **Hottest Time of the Day**是韓國男子偶像團體[2PM首張出道單曲](https://zh.wikipedia.org/wiki/2PM "wikilink")，在2008年8月29日以專輯與數位下載共同發行。
 
 ## 背景

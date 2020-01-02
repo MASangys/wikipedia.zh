@@ -1,3 +1,6 @@
+> 本文内容由[FOSSASIA](https://zh.wikipedia.org/wiki/FOSSASIA)转换而来。
+
+
 **FOSSASIA**是幫助自由和開源技術開發者和maker（創客或製客）的非營利組織。它由Hong Phuc Dang和Mario Behling成立。 FOSSASIA的目的是發展和套用開源技術以配合社會轉變，並把重點放在亞洲用戶。FOSSASIA峰會在每年農曆新年後一個月舉行。
 
 [FOSSASIA_2014,_Group_Photo.JPG](https://zh.wikipedia.org/wiki/File:FOSSASIA_2014,_Group_Photo.JPG "fig:FOSSASIA_2014,_Group_Photo.JPG")

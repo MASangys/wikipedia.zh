@@ -1,3 +1,6 @@
+> 本文内容由[Amazing f\(x\)](https://zh.wikipedia.org/wiki/Amazing_f\(x\))转换而来。
+
+
 {{ 問題條目 |
 
 {{ copy edit }}}}

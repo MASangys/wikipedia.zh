@@ -1,3 +1,6 @@
+> 本文内容由[GameSpy](https://zh.wikipedia.org/wiki/GameSpy)转换而来。
+
+
 [gamespy_logo.jpg](https://zh.wikipedia.org/wiki/File:gamespy_logo.jpg "fig:gamespy_logo.jpg")
 
 **GameSpy**，也被称做 **GameSpy Industries**，曾是[IGN Entertainment下属的一个部门](../Page/IGN.md "wikilink")，現為Glu Mobile所有\[1\]。公司运营一系列的游戏网站，并提供与电子游戏相关的在线服务和软件。服務平台已於2014年5月31日被關閉。

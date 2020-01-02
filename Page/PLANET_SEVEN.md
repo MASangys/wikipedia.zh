@@ -1,3 +1,6 @@
+> 本文内容由[PLANET SEVEN](https://zh.wikipedia.org/wiki/PLANET_SEVEN)转换而来。
+
+
 《**PLANET SEVEN**》（七大行星）是[日本](../Page/日本.md "wikilink")演唱團體[第三代J Soul Brothers的第五張原創專輯](../Page/J_Soul_Brothers.md "wikilink")。2015年1月28日發行，唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

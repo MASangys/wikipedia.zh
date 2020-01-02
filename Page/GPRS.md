@@ -1,3 +1,6 @@
+> 本文内容由[GPRS](https://zh.wikipedia.org/wiki/GPRS)转换而来。
+
+
 **通用封包無線服務**（，缩写：**GPRS**）是[GSM](../Page/GSM.md "wikilink")移动电话用户可以使用的一种移动数据业务/技术。它经常被描述成「[2.5G](https://zh.wikipedia.org/wiki/2.5G "wikilink")」，意指这项技术介于第二代（[2G](../Page/2G.md "wikilink")）与第三代（[3G](../Page/3G.md "wikilink")）移动通讯技术之间。它是利用[GSM](../Page/GSM.md "wikilink")网络中未使用的[TDMA信道](https://zh.wikipedia.org/wiki/TDMA "wikilink")，提供中速的数据传输服务。起初有人想通过扩展GPRS来覆盖其他标准，只是这些网络都正在转而使用GSM标准，这样GSM就成了GPRS唯一能够使用的网络。GPRS在Release 97之后被集成进GSM标准，起先它是由[ETSI标准化](https://zh.wikipedia.org/wiki/ETSI "wikilink")，但是现在已经移交[3GPP](../Page/3GPP.md "wikilink")负责。
 
 ## GPRS原理

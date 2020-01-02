@@ -1,3 +1,6 @@
+> 本文内容由[Novi学区](https://zh.wikipedia.org/wiki/Novi学区)转换而来。
+
+
 [NoviHighSchoolMIEntranceSign.jpg](https://zh.wikipedia.org/wiki/File:NoviHighSchoolMIEntranceSign.jpg "fig:NoviHighSchoolMIEntranceSign.jpg") **Novi学区**（****）是一个美国[密歇根县的学区](https://zh.wikipedia.org/wiki/密歇根 "wikilink")，总部在教育服务大楼(Educational Services Building)。\[1\]
 
 Novi学区营运5间小学、1间初中、和1间高中、\[2\] 2010年12月学生人数达左右6,300人 2011年3月日本学生人与美国日本学生人数达多于1,700人。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[CLAMP](https://zh.wikipedia.org/wiki/CLAMP)转换而来。
+
+
 **CLAMP**（）是[日本](../Page/日本.md "wikilink")[漫畫家組合](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，是個知名和多作品的漫畫家團體。漫畫作品有：華麗風格的《[聖傳](../Page/聖傳_\(漫畫\).md "wikilink")》、《[東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")》、《[X](../Page/X_\(漫畫\).md "wikilink")》、《[魔法騎士雷阿斯](https://zh.wikipedia.org/wiki/魔法騎士 "wikilink")》；清新風格的《[Wish](../Page/Wish_\(漫畫\).md "wikilink")》、《[少女情懷總是詩](https://zh.wikipedia.org/wiki/少女情懷總是詩 "wikilink")》、《喜歡，所以喜歡》《[CLOVER](../Page/CLOVER_\(漫畫\).md "wikilink")》、《[奇蹟少女KOBATO.](../Page/奇蹟少女KOBATO..md "wikilink")》；童真風格的《[百變小櫻](https://zh.wikipedia.org/wiki/百變小櫻 "wikilink")》、《[ANGELIC LAYER 天使領域](../Page/ANGELIC_LAYER_天使領域.md "wikilink")》；奇幻風格的《[迷幻藥局](https://zh.wikipedia.org/wiki/迷幻藥局 "wikilink")》；可愛風格的《[Chobits](../Page/Chobits.md "wikilink")》；少年風格的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》、《[xxxHOLiC](https://zh.wikipedia.org/wiki/xxxHOLiC "wikilink")》、《[xxxHOLiC·戻](https://zh.wikipedia.org/wiki/xxxHOLiC·戻 "wikilink")》、《[DRUG\&DROP](https://zh.wikipedia.org/wiki/DRUG&DROP "wikilink")》等。
 
 ## 歷史

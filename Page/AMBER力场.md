@@ -1,3 +1,6 @@
+> 本文内容由[AMBER力场](https://zh.wikipedia.org/wiki/AMBER力场)转换而来。
+
+
 **AMBER力场**是在[生物大分子的模拟计算领域有着广泛应用的一个](https://zh.wikipedia.org/wiki/生物大分子 "wikilink")[分子力场](../Page/分子力场.md "wikilink")。开发这个力场的是Peter Kollman课题组，最初AMBER力场是专门为了计算[蛋白质](../Page/蛋白质.md "wikilink")和[核酸](../Page/核酸.md "wikilink")体系而开发的，计算其力场参数的数据均来自实验值，后来随着AMBER力场的广泛应用，包括Kollman在内的很多课题组对AMBER力场的内容不断进行丰富，逐渐开发出了一个可以用于[生物大分子](https://zh.wikipedia.org/wiki/生物大分子 "wikilink")、[有机小分子和](https://zh.wikipedia.org/wiki/有机 "wikilink")[高分子](../Page/高分子.md "wikilink")模拟计算的力场体系。但是总体来讲，AMBER力场的优势在于对生物大分子的计算，其对小分子体系的计算结果常常不能令人满意。
 
 AMBER力场的势能函数形势较为简单，所需参数不多，计算量也比较小，这是这个力场的一大特色，但也在一定程度上限制了这个力场的扩展性。本力场用[谐振子模型计算键长伸缩能和键角弯转能](https://zh.wikipedia.org/wiki/谐振子模型 "wikilink")，用[傅立叶级数的形式来描述二面角扭转能](https://zh.wikipedia.org/wiki/傅立叶级数 "wikilink")，选用[Lennard-Jones势来模拟](https://zh.wikipedia.org/wiki/Lennard-Jones势 "wikilink")[范德华力](../Page/范德华力.md "wikilink")；用库仑公式来描述静电相互作用，其势能表达式为\[1\]：

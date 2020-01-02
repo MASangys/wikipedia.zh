@@ -1,3 +1,6 @@
+> 本文内容由[AVL树](https://zh.wikipedia.org/wiki/AVL树)转换而来。
+
+
 [Unbalanced_binary_tree.svg](https://zh.wikipedia.org/wiki/File:Unbalanced_binary_tree.svg "fig:Unbalanced_binary_tree.svg")
 
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**AVL树**是最早被发明的[自平衡二叉查找树](https://zh.wikipedia.org/wiki/自平衡二叉查找树 "wikilink")。在AVL树中，任一节点对应的两棵子树的最大高度差为1，因此它也被称为**高度平衡树**。查找、插入和删除在平均和最坏情况下的[時間複雜度都是](https://zh.wikipedia.org/wiki/時間複雜度 "wikilink")\(O(\log{n})\)。增加和删除元素的操作则可能需要藉由一次或多次[树旋转](../Page/树旋转.md "wikilink")，以实现树的重新平衡。AVL树得名于它的发明者[G. M. Adelson-Velsky和](https://zh.wikipedia.org/wiki/格奥尔吉·阿杰尔松-韦利斯基 "wikilink")，他们在1962年的论文《An algorithm for the organization of information》中公开了这一数据结构。

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Solio](https://zh.wikipedia.org/wiki/鈴木Solio)转换而来。
+
+
 **鈴木Solio**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1999年起開發製造的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")，此車款乃依據[鈴木Wagon R發展而來](../Page/鈴木Wagon_R.md "wikilink")，故本條目一併記述Wagon R Wide（前身）、Wagon R+、Wagon R Solio等車型。2002年4月[臺灣](../Page/臺灣.md "wikilink")[太子汽車](../Page/太子汽車.md "wikilink")曾將第二代國產化，並於2004年以超過3萬輛的年銷售量穩居臺灣車壇小型車級距之龍頭\[1\]。
 
 由於原廠與[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車自](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")1980年代起的合作關係，這款車的第二代曾經[換牌成](https://zh.wikipedia.org/wiki/換牌工程 "wikilink")、佛賀Agila（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）、（[日本](../Page/日本.md "wikilink")）；而第三代也換牌成。

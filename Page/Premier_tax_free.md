@@ -1,3 +1,6 @@
+> 本文内容由[Premier tax free](https://zh.wikipedia.org/wiki/Premier_tax_free)转换而来。
+
+
 **Premier Tax Free** 是隶属于Fintrax Group\[1\]旗下的金融服务公司，其主要业务为动态货币转换，信用卡支付系统，和购物退税服务（Tax Free Shopping）。Premier Tax Free公司致力于为国际旅客，跨国零售集团，酒店以及银行提供服务。
 
 Premier Tax Free全球总部坐落于爱尔兰，英国和巴黎为区域总部，在全球30个国家运营并设有办公地点。

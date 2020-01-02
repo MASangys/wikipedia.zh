@@ -1,3 +1,6 @@
+> 本文内容由[Who Is It](https://zh.wikipedia.org/wiki/Who_Is_It)转换而来。
+
+
 “Who Is It”（可译为它是谁）是美国歌手[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")的一首歌曲。这首歌作为杰克逊的第八张录音室专辑（[Dangerous](https://zh.wikipedia.org/wiki/Dangerous "wikilink")）的第五张单曲于1992年8月31日由[史诗唱片](../Page/史诗唱片.md "wikilink")发行。这首歌由杰克逊所写，由杰克逊和比尔波特雷所制作。这首歌讲述了一个绝望的人，也讲述了这个人想留下他的所爱之人，一些批评家把迈克尔[Thriller的单曲](https://zh.wikipedia.org/wiki/Thriller "wikilink")[Billie Jean与这首歌做比较](https://zh.wikipedia.org/wiki/Billie_Jean "wikilink")。为宣传这首歌，两个[MV在](https://zh.wikipedia.org/wiki/MV "wikilink")1992年发行。
 
 这首歌没有在迈克尔的任何一个巡演中被表演过。但在1993年Oprah Winfrey（奥普拉·温弗瑞）采访他时他透露他已经完成一小部分歌曲的现场器乐版。这本应该使用在“就是这样音乐会”中的，但由于杰克逊的死亡，这被迫被取消。\[1\]

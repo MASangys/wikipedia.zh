@@ -1,3 +1,6 @@
+> 本文内容由[Monochrome \(張根碩專輯\)](https://zh.wikipedia.org/wiki/Monochrome_\(張根碩專輯\))转换而来。
+
+
 《**Monochrome**》（）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[張根碩](../Page/張根碩.md "wikilink")的第三張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2015年2月25日以三個版本：豪華初回限定盤、通常盤及Fan Club盤推出\[1\]。
 
 ## 概觀

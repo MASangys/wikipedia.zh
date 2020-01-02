@@ -1,3 +1,6 @@
+> 本文内容由[Whitney \(專輯\)](https://zh.wikipedia.org/wiki/Whitney_\(專輯\))转换而来。
+
+
 《**惠妮**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[黑人](../Page/黑人.md "wikilink")女歌手[惠妮·休斯頓個人第二張](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1987年6月2日由美國芒穗唱片公司發行。它在英美兩地以及許多國家都獲得專輯榜冠軍\[1\]，《惠妮》更是美國史上**首張空降冠軍的女藝人專輯**，它亦成為惠妮·休斯頓第二張全美冠軍專輯。惠妮·休斯頓以單曲〈[I Wanna Dance With Somebody (Who Loves Me)](https://zh.wikipedia.org/wiki/I_Wanna_Dance_With_Somebody_\(Who_Loves_Me\) "wikilink")〉第二度榮獲[葛萊美獎](../Page/葛萊美獎.md "wikilink")最佳流行女歌手獎（）\[2\]。
 
 ## 內容

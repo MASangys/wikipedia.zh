@@ -1,3 +1,6 @@
+> 本文内容由[Gremlin产业](https://zh.wikipedia.org/wiki/Gremlin产业)转换而来。
+
+
 是1970年代到1980年代早期活跃的[街机游戏生产商](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")，坐落于美国[圣地亚哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink")。
 
 ## 历史

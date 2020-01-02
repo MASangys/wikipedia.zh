@@ -1,3 +1,6 @@
+> 本文内容由[DESIRE \(History迷你專輯\)](https://zh.wikipedia.org/wiki/DESIRE_\(History迷你專輯\))转换而来。
+
+
 《**DESIRE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[History第](https://zh.wikipedia.org/wiki/History "wikilink")3枚迷你韓語專輯，於2014年6月23日發行，主打歌曲為《Psycho》\[1\]。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[AMD Sempron處理器列表](https://zh.wikipedia.org/wiki/AMD_Sempron處理器列表)转换而来。
+
+
   - [AMD處理器列表](../Page/AMD處理器列表.md "wikilink")
 
 ## 桌上型

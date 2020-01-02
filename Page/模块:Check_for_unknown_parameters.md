@@ -1,3 +1,6 @@
+> 本文内容由[模块:Check for unknown parameters](https://zh.wikipedia.org/wiki/模块:Check_for_unknown_parameters)转换而来。
+
+
 \-- This module may be used to compare the arguments passed to the parent -- with a list of arguments, returning a specified result if an argument is -- not on the list local p = {}
 
 local function trim(s)

@@ -1,3 +1,6 @@
+> 本文内容由[上古卷轴V：天际·炉火](https://zh.wikipedia.org/wiki/上古卷轴V：天际·炉火)转换而来。
+
+
 是《[上古卷轴V：天际](../Page/上古卷轴V：天际.md "wikilink")》的第二个官方[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")（DLC）。游戏由[贝塞斯达游戏工作室](../Page/贝塞斯达游戏工作室.md "wikilink")开发设计和[贝塞斯达软件公司发行](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")。游戏于2012年9月4日在微软的[Xbox 360平台首发](../Page/Xbox_360.md "wikilink")。\[1\]接着[Windows版于](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")2012年10月5日发行了。\[2\]最后[PlayStation 3版分别于](../Page/PlayStation_3.md "wikilink")2013年2月12日和13日在北美和欧洲发行。\[3\]\[4\]\[5\]
 
 在《炉火》里，玩家将被能够打造属于自己的家庭，如添加家庭成员以及抚养孩子成长。玩家也能建造一些独立的房屋，如诊疗所、图书馆、炼丹室、马车库等。除此之外，玩家也可以选择体验一下园艺的魅力，种种花草来度过闲暇时光。还有聘请管家来帮忙管理家务。

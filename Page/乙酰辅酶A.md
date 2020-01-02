@@ -1,3 +1,6 @@
+> 本文内容由[乙酰辅酶A](https://zh.wikipedia.org/wiki/乙酰辅酶A)转换而来。
+
+
 [Coenzym_A_beschriftet.svg](https://zh.wikipedia.org/wiki/File:Coenzym_A_beschriftet.svg "fig:Coenzym_A_beschriftet.svg") [Acetyl-CoA.svg](https://zh.wikipedia.org/wiki/File:Acetyl-CoA.svg "fig:Acetyl-CoA.svg") **乙酰辅酶A**\[1\]（）是活化了的[乙酸](../Page/乙酸.md "wikilink")，由[乙酰基](../Page/乙酰基.md "wikilink")（CH<sub>3</sub>CO-）与[辅酶A](../Page/辅酶A.md "wikilink")的[巯基以高能的](https://zh.wikipedia.org/wiki/巯基 "wikilink")[硫酯键相连](https://zh.wikipedia.org/wiki/硫酯键 "wikilink")。乙醯輔酶A是[脂肪酸](../Page/脂肪酸.md "wikilink")的[β-氧化及](https://zh.wikipedia.org/wiki/β-氧化 "wikilink")[糖酵解后产生的](https://zh.wikipedia.org/wiki/糖酵解 "wikilink")[丙酮酸](../Page/丙酮酸.md "wikilink")脱羧後的产物。
 
 在[三羧酸循环](../Page/三羧酸循环.md "wikilink")的第一步，乙酰基转移到[草酰乙酸](../Page/草酰乙酸.md "wikilink")中，生成[柠檬酸](https://zh.wikipedia.org/wiki/柠檬酸 "wikilink")，因此這個循環也稱作「檸檬酸循環」。

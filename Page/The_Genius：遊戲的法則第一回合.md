@@ -1,3 +1,6 @@
+> 本文内容由[The Genius：遊戲的法則第一回合](https://zh.wikipedia.org/wiki/The_Genius：遊戲的法則第一回合)转换而来。
+
+
 《**[The Genius](../Page/The_Genius.md "wikilink")：遊戲的法則**》（），是韓國[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目，逢周五晚間11點30分（韓國時間）播出，邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]
 《**[The Genius](../Page/The_Genius.md "wikilink")：遊戲的法則**》（）第一回合於2013年4月26日首播。該回合的主要競賽 (Main Match)是《1,2,3 遊戲》 （），死亡競賽 (Death Match)是《連勝遊戲》）。
 

@@ -1,3 +1,6 @@
+> 本文内容由[KDDI](https://zh.wikipedia.org/wiki/KDDI)转换而来。
+
+
 **KDDI**是一家[日本](../Page/日本.md "wikilink")大型[-{zh-cn:电信公司; zh-hk:電訊公司; zh-tw: 電信公司; zh-sg:电信公司;}-](https://zh.wikipedia.org/wiki/電訊公司 "wikilink")，在2000年10月1日由（DDI）、、（IDO）等三家公司[合併而成](https://zh.wikipedia.org/wiki/合併 "wikilink")，主要與共同使用「」這個品牌提供[手機](../Page/移动电话.md "wikilink")、[固網](https://zh.wikipedia.org/wiki/固網電信 "wikilink")、[網際網路等](../Page/互联网服务供应商.md "wikilink")[電信服務](https://zh.wikipedia.org/wiki/電信 "wikilink")。其營業規模在日本三大綜合電信業者中（[NTT](../Page/日本電信電話.md "wikilink")、KDDI、[Softbank](../Page/軟銀.md "wikilink")）排名第二\[1\]。
 
 ## 簡介

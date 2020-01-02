@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia Z2a](https://zh.wikipedia.org/wiki/Sony_Xperia_Z2a)转换而来。
+
+
 **Sony Xperia Z2a**，是[索尼](../Page/索尼.md "wikilink")於2014年7月8日在台灣發佈的旗艦手機，搭載5吋螢幕、2.3 GHz四核心處理器、3GB記憶體、2,070萬畫素相機且支援4K錄影及防水等功能。\[1\]
 
 [安卓作業系統的旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")，作为它的前一代[Sony Xperia ZL的繼承機型](https://zh.wikipedia.org/wiki/Sony_Xperia_ZL "wikilink")。同期的競爭主要有[HTC One (E8)](https://zh.wikipedia.org/wiki/HTC_One_\(E8\) "wikilink")、[Samsung Galaxy J](https://zh.wikipedia.org/wiki/Samsung_Galaxy_J "wikilink")。

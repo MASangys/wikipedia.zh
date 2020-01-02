@@ -1,3 +1,6 @@
+> 本文内容由[I.M.G. ～without you～](https://zh.wikipedia.org/wiki/I.M.G._～without_you～)转换而来。
+
+
 《**I.M.G. ～without you～**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第3枚原創日語專輯，於2013年3月10日發行。唱片公司為[irving](https://zh.wikipedia.org/wiki/irving "wikilink")。
 
 ## 概要

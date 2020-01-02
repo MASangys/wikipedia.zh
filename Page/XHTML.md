@@ -1,3 +1,6 @@
+> 本文内容由[XHTML](https://zh.wikipedia.org/wiki/XHTML)转换而来。
+
+
 **可扩展超文本标记语言**（，），是一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，表现方式与[超文本标记语言](https://zh.wikipedia.org/wiki/超文本标记语言 "wikilink")（[HTML](../Page/HTML.md "wikilink")）类似，不过语法上更加严格。从继承关系上讲，HTML是一种基于[标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")（[SGML](../Page/SGML.md "wikilink")）的应用，是一種非常灵活的置標語言，而**XHTML**则基于[可扩展标记语言](https://zh.wikipedia.org/wiki/可扩展标记语言 "wikilink")（[XML](../Page/XML.md "wikilink")），XML是[SGML](../Page/SGML.md "wikilink")的一个子集。XHTML 1.0在2000年1月26日成为[W3C的推荐标准](https://zh.wikipedia.org/wiki/W3C "wikilink")。
 
 XHTML1.1為XHTML最後的獨立標準，2.0止於草案階段。XHTML5則是屬於HTML5標準的一部份，且名稱已改為「以XML序列化的HTML5」，而非「可擴展的HTML」。在今日(2017年)，XHTML5比起HTML5仍遠遠並非主流。

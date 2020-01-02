@@ -1,3 +1,6 @@
+> 本文内容由[玩串真人Show](https://zh.wikipedia.org/wiki/玩串真人Show)转换而来。
+
+
 《**玩串真人Show**》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[異世奇人](../Page/異世奇人.md "wikilink")》[系列1的第](../Page/異世奇人_\(系列1\).md "wikilink")12集，於2005年6月11日在英國[BBC One播出](https://zh.wikipedia.org/wiki/BBC_One "wikilink")。本劇的編劇為[拉塞爾·T·戴維斯](../Page/拉塞爾·T·戴維斯.md "wikilink")，負責執導。演員方面，除了常設的[基斯杜化·艾克斯頓](../Page/基斯杜化·艾克斯頓.md "wikilink")飾演[博士和](../Page/博士_\(異世奇人\).md "wikilink")[比莉·派佩](../Page/比莉·派佩.md "wikilink")飾演羅斯·泰勒（Rose Tyler）外，[約翰·巴洛曼扮演的](https://zh.wikipedia.org/wiki/約翰·巴洛曼 "wikilink")[傑克·夏尼斯隊長也是主角](https://zh.wikipedia.org/wiki/傑克·夏尼斯隊長 "wikilink")。
 
 此集講述博士、泰勒和傑克不知何故地被帶到名叫衛星5的太空站，並被迫參加[真人秀遊戲](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，輸掉比賽的人會被化為原子。然而，博士發現這是其天敵[戴立克](https://zh.wikipedia.org/wiki/戴立克 "wikilink")（Dalek）的陰謀，其餘的劇情則在下一集《[背水一戰](../Page/背水一戰_\(異世奇人\).md "wikilink")》交代。這集在[首播時英國共有](https://zh.wikipedia.org/wiki/首演 "wikilink")681萬人收看，並得到影評家的讚賞。

@@ -1,3 +1,6 @@
+> 本文内容由[连续q拉盖尔多项式](https://zh.wikipedia.org/wiki/连续q拉盖尔多项式)转换而来。
+
+
 [Continuous_q_Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Continuous_q_Laguerre_polynomials.gif "fig:Continuous_q_Laguerre_polynomials.gif") **连续q拉盖尔多项式**(Continuous q-Laguerre polynomials)是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]。
 
 \(P_{n}^{(\alpha)}(x|q)=\frac{(q^\alpha+1;q)_{n}}{(q;q)_{n}}\)\(_{3}\Phi_{2}(q^{-n},q^{\alpha/2+1/4}e^{i\theta},q^{\alpha/2+1/4}*e^{-i\theta};q^{\alpha+1},0|q,q)\)

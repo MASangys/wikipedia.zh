@@ -1,3 +1,6 @@
+> 本文内容由[ANTLR](https://zh.wikipedia.org/wiki/ANTLR)转换而来。
+
+
 **ANTLR**（全名：**AN**other **T**ool for **L**anguage **R**ecognition）是基于LL(\*)算法实现的语法解析器生成器（parser generator），用[Java](../Page/Java.md "wikilink")语言编写，使用自上而下（top-down）的递归下降[LL剖析器](../Page/LL剖析器.md "wikilink")方法。由[旧金山大学](../Page/旧金山大学.md "wikilink")的[Terence Parr博士等人於](https://zh.wikipedia.org/wiki/Terence_Parr "wikilink")1989年開始發展。
 
 ANTLR最初叫做**PCCTS**，**P**urdue **C**ompiler **C**onstruction **T**ool **S**et，是Terence Parr在[普渡大学攻讀碩士學位時的創作](https://zh.wikipedia.org/wiki/普渡大学 "wikilink")，在Hank Dietz教授的指导下，开始研究构造自动化的分析器。1993年，Parr取得博士學位，並於同年发布ANTLR 1.10版。最早的ANTLR只支持Java, 直到ANTLR 3以後開始支持[Ada](../Page/Ada.md "wikilink")95、[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C＃](https://zh.wikipedia.org/wiki/C＃ "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[C++](../Page/C++.md "wikilink")和[Standard ML](https://zh.wikipedia.org/wiki/Standard_ML "wikilink")\[1\]。

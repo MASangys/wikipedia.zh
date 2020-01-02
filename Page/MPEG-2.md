@@ -1,3 +1,6 @@
+> 本文内容由[MPEG-2](https://zh.wikipedia.org/wiki/MPEG-2)转换而来。
+
+
 [Mpeg.svg](https://zh.wikipedia.org/wiki/File:Mpeg.svg "fig:Mpeg.svg")，以及，皆屬於[容器格式](https://zh.wikipedia.org/wiki/容器格式 "wikilink")。\]\] **MPEG-2**是[MPEG](../Page/MPEG.md "wikilink")工作组于1994年发布的[視訊和](https://zh.wikipedia.org/wiki/視訊 "wikilink")[音频压缩国际标准](https://zh.wikipedia.org/wiki/音频 "wikilink")。MPEG-2通常用来为广播信号提供-{zh-tw:視訊; zh-hk:視頻; zh-cn:视频;}-和音频[编码](https://zh.wikipedia.org/wiki/编码 "wikilink")，包括[卫星电视](../Page/卫星电视.md "wikilink")、[有线电视](../Page/有线电视.md "wikilink")等。MPEG-2经过少量修改后，也成为[DVD产品的核心技术](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 MPEG-2的系统描述部分（第1部分）定义了传输流，它用来一套在非可靠介质上传输數位-{zh-tw:視訊; zh-hk:視頻; zh-cn:视频;}-信号和音频信号的机制，主要用在广播电视领域。

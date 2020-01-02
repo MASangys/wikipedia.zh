@@ -1,3 +1,6 @@
+> 本文内容由[模块:ParseVauthors](https://zh.wikipedia.org/wiki/模块:ParseVauthors)转换而来。
+
+
 local p = {}
 
 function p.parse(frame)

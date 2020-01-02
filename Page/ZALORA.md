@@ -1,3 +1,6 @@
+> 本文内容由[ZALORA](https://zh.wikipedia.org/wiki/ZALORA)转换而来。
+
+
 **ZALORA**是一個網上時裝及美容產品購物平台, 為男女顧客提供時裝、飾物、鞋履及化妝護膚品。總部位於新加坡的ZALORA於不同地區設有分區網頁, 包括香港、台灣、新加坡、印尼、菲律賓、泰國、越南、馬來西亞及汶萊。ZALORA售賣國際品牌, 各個分區網頁亦會售賣本地品牌。ZALORA旗下亦包括於澳洲及紐西蘭運作的網上時裝購物平台[The Iconic](https://zh.wikipedia.org/wiki/The_Iconic "wikilink")。
 
 ## 歷史

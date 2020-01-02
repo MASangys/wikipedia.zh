@@ -1,3 +1,6 @@
+> 本文内容由[Q拉卡多项式](https://zh.wikipedia.org/wiki/Q拉卡多项式)转换而来。
+
+
 **Q拉卡多项式**是以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的多项式：
 
 \[p_n(q^{-x}+q^{x+1}cd;a,b,c,d;q) = {}_4\phi_3\left[\begin{matrix} q^{-n} &abq^{n+1}&q^{-x}&q^{x+1}cd\\

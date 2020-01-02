@@ -1,3 +1,6 @@
+> 本文内容由[一 \(AGA歌曲\)](https://zh.wikipedia.org/wiki/一_\(AGA歌曲\))转换而来。
+
+
 《**一**》是香港新晉創作女歌手[AGA於](../Page/江海迦.md "wikilink")2014年推出的大熱歌曲，由AGA親自作曲，填詞[林若寧](../Page/林若寧.md "wikilink")，編曲[Johnny Yim](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink")，監製[舒文](../Page/舒文.md "wikilink")。\[1\]歌曲收錄在同年推出的《[One](../Page/One_\(江海迦單曲\).md "wikilink")》單曲專輯內，為該專輯三個版本的原始版本，亦是最流行、最獲各界熱播的版本。此曲於頒獎禮中亦獲得了不少獎項，包括叱咤十大歌曲第三位。
 
 ## 簡介

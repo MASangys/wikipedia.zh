@@ -1,3 +1,6 @@
+> 本文内容由[空中客车A350 XWB](https://zh.wikipedia.org/wiki/空中客车A350_XWB)转换而来。
+
+
 **空中客车A350 XWB**（Airbus A350 XWB），是歐洲飛機製造商[空中客车](../Page/空中客车.md "wikilink")所研發的長程[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/廣體客機 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物](../Page/碳纖維強化聚合物.md "wikilink")的[民航飛機](../Page/民航飛機.md "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為取代[A340與部分機齡較高的](../Page/空中客车A340.md "wikilink")[A330](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")，主要競爭機型為[波音公司的](https://zh.wikipedia.org/wiki/波音公司 "wikilink")[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787客機](../Page/波音787.md "wikilink")。
 
 A350系列机型最初構想於2004年，以[A330機身搭配新型](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")[空氣動力學外形和引擎](../Page/空气动力学.md "wikilink")。2006年，为解决客户在使用中所反馈的问题，空中巴士改进了這架飛機的设计，之后便生產出此款名为“A350 XWB”（超廣體，eXtra Wide Body）的A330系列改进机型。開發成本估計為110億歐元（150億美元或95億英鎊）。截至2019年2月，空中巴士已收到全球47家客戶的852架A350訂單。\[3\]A350原型機於2013年6月14日首次從法國土魯斯起飛。 2014年9月收到[歐洲航空安全局的認證](https://zh.wikipedia.org/wiki/歐洲航空安全局 "wikilink")，兩個月後獲得[聯邦航空管理局的認證](https://zh.wikipedia.org/wiki/聯邦航空管理局 "wikilink")。 2015年1月15日，[卡塔尔航空](../Page/卡塔尔航空.md "wikilink")完成了A350-900机型的试飞；2018年2月24日，卡塔尔航空完成A350-1000机型的试飞。

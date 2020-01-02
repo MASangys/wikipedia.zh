@@ -1,3 +1,6 @@
+> 本文内容由[鈴木G族引擎](https://zh.wikipedia.org/wiki/鈴木G族引擎)转换而来。
+
+
 **鈴木G族引擎**是1990年代起[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，其中G18K型引擎實際上是J18A型，詳情參看[鈴木J族引擎\#J18/J18A型](https://zh.wikipedia.org/wiki/鈴木J族引擎#J18/J18A型 "wikilink")。由於1981年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[汽車巨擘](https://zh.wikipedia.org/wiki/汽車 "wikilink")[通用汽車購入鈴木的股票](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")，雙方展開合作關係，此族引擎大部份搭載於通用汽車旗下所發展的車款，也就是第一代[鈴木Cultus](../Page/鈴木Cultus.md "wikilink")和第一代[鈴木Escudo](../Page/鈴木Escudo.md "wikilink")的兄弟車。
 
 ## G10型

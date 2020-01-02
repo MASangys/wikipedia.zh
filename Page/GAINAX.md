@@ -1,3 +1,6 @@
+> 本文内容由[GAINAX](https://zh.wikipedia.org/wiki/GAINAX)转换而来。
+
+
 **GAINAX**是一家[日本動畫製作公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，於1984年12月24日成立。代表作有《[王立宇宙軍](../Page/王立宇宙軍.md "wikilink")》《[飛越巔峰](../Page/飛越巔峰.md "wikilink")》《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》《[天元突破 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")》等。
 
 GAINAX以顛覆傳統的動畫類型和實驗動畫而聞名，另外因主要成員的興趣而加入大量的[戲仿或](https://zh.wikipedia.org/wiki/戲仿 "wikilink")[致敬](../Page/致敬.md "wikilink")，曾因此被人稱為「[御宅公司](../Page/御宅族.md "wikilink")」。此外，GAINAX亦讓部分動畫師嘗試多個職位，動畫師同時染指劇本、分鏡和作畫監督的情況時常出現。而在傳統之下，各成員都著重手繪動畫方面的能力。

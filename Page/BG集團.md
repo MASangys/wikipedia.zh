@@ -1,3 +1,6 @@
+> 本文内容由[BG集團](https://zh.wikipedia.org/wiki/BG集團)转换而来。
+
+
 **BG集團**（**BG Group plc**）是一家總部位於英國[伯克郡](../Page/伯克郡.md "wikilink")[雷丁](../Page/雷丁.md "wikilink")的跨國能源公司\[1\]\[2\]。它運營於各大洲總共25個國家，每日平均開採680,000[BOE](https://zh.wikipedia.org/wiki/桶油當量 "wikilink")\[3\]\[4\]。它也是美國最大的[液化天然氣供應商](https://zh.wikipedia.org/wiki/液化天然氣 "wikilink")\[5\]。
 
 BG集團曾在[倫敦證券交易所上市](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")，也曾是[富時100指數成分](https://zh.wikipedia.org/wiki/富時100指數 "wikilink")。，該公司市值為449億英鎊，是當時倫敦證券交易所全部上市公司中的第七大公司。\[6\]

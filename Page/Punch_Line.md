@@ -1,3 +1,6 @@
+> 本文内容由[Punch Line](https://zh.wikipedia.org/wiki/Punch_Line)转换而来。
+
+
 《**Punch Line**》（）是从2015年4月开始在[富士电视台的](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[NoitaminA](../Page/NoitaminA.md "wikilink")节目中播放的[日本电视动画作品](https://zh.wikipedia.org/wiki/日本电视动画 "wikilink")。
 
 ## 概要

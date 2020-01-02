@@ -1,3 +1,6 @@
+> 本文内容由[CSDN](https://zh.wikipedia.org/wiki/CSDN)转换而来。
+
+
 **CSDN**（ 或  ，中国[软件开发者网络](https://zh.wikipedia.org/wiki/软件开发 "wikilink")），中文IT知识服务集团，业务有IT信息传播、技术交流、教育培训和专业技术人才服务。旗下有网络社区、学习平台和交流平台。技术期刊《程序员》创办方。
 
 ## 历史

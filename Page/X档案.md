@@ -1,3 +1,6 @@
+> 本文内容由[X档案](https://zh.wikipedia.org/wiki/X档案)转换而来。
+
+
 《**X檔案**》（）是1990年代聞名於世界各地的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視劇 "wikilink")[科幻影集](https://zh.wikipedia.org/wiki/科幻 "wikilink")，製作人是[克里斯·卡特](https://zh.wikipedia.org/wiki/克里斯·卡特 "wikilink")。1993年9月10日於[FOX首播第一季](../Page/福斯廣播公司.md "wikilink")，2002年5月19日播畢9季後結束；1998年拍攝了一部[同名電影](https://zh.wikipedia.org/wiki/X檔案_\(電影\) "wikilink")，至2008年，電視版結束了6年後，再次拍攝了另一部同名電影。本劇商業上十分成功，在評論界的口碑也很好，立刻吸引了龐大的死忠影迷群體。但第5季末電影版推出後，從第6季開始人氣顯著下滑。加上後期主演人員變動等原因，FOX最終決定在第9季結束此劇。
 
 2015年3月24日，FOX宣布於本劇開播22年、下檔13年後，於加拿大溫哥華重啟製作本劇的迷你劇集版本，共6集。

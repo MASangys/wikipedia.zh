@@ -1,3 +1,6 @@
+> 本文内容由[The Moment](https://zh.wikipedia.org/wiki/The_Moment)转换而来。
+
+
 **The Moment**為[新加坡](../Page/新加坡.md "wikilink")歌手[孫燕姿的](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，CD1收錄5首全新歌曲，CD2收錄15首自出道以來對孫燕姿有特殊意義的舊作。專輯於2003年8月22日發行，發行日前預購者可憑專屬下載密碼在華納唱片的官方網站下載未收錄進CD中的新歌《**夢想天空**》。專輯的豪華版加贈影像光盤一張，內容為“孫燕姿 The Moment 出道關鍵時刻”紀錄片，約長50分鐘。專輯發行首日，台灣便賣出20萬張\[1\]。全亞洲最终銷量更是衝破150萬大關\[2\]。孫燕姿並于專輯發行後不久公開聲明將“休息”一年。
 
 ## 曲目

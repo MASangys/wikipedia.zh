@@ -1,3 +1,6 @@
+> 本文内容由[PostgreSQL](https://zh.wikipedia.org/wiki/PostgreSQL)转换而来。
+
+
 </ref> |website =  |repo = <git://git.postgresql.org/git/postgresql.git>
 <https://github.com/postgres/postgres> }}
 

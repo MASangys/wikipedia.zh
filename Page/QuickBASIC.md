@@ -1,3 +1,6 @@
+> 本文内容由[QuickBASIC](https://zh.wikipedia.org/wiki/QuickBASIC)转换而来。
+
+
 [QuickBASIC45.png](https://zh.wikipedia.org/wiki/File:QuickBASIC45.png "fig:QuickBASIC45.png") **Microsoft QuickBASIC**（正确的简称是QB，而不是[QBasic](https://zh.wikipedia.org/wiki/QBasic "wikilink")，后者是另外一个不同的产品）是[BASIC](../Page/BASIC.md "wikilink")程序设计语言的一个变种，由[微软](../Page/微软.md "wikilink")开发，用于[MS-DOS](../Page/MS-DOS.md "wikilink")平台，也有面向[Mac操作系统的版本](https://zh.wikipedia.org/wiki/Mac "wikilink")。笼统地讲，它是基于[GW-BASIC](../Page/GW-BASIC.md "wikilink")的一个改进的产品，相比较而言，它有以下改进：支持用户自定义类型、加强了对结构化编程思想的支持、增加了图形功能和磁盘存取方法，此外，还提供了一个[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")。相对于面向商业和专业用途的微软BASIC Compiler产品线，QuickBASIC是一个个人用户的开发套件。
 
 1985年8月18日，微软发布了第一个版本的QuickBASIC，软件载体是一张单面的5.25[吋软盘](https://zh.wikipedia.org/wiki/吋 "wikilink")。QuickBASIC配有一个和早先版本的BASIC差异很大的[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE），稱為Programmer Work Bench（PWB）。行号不再是必须的，因为用户可以通过一个全屏文本编辑器在任意位置直接插入和删除代码行。

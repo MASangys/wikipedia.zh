@@ -1,3 +1,6 @@
+> 本文内容由[拉丁语短语列表 \(C字头\)](https://zh.wikipedia.org/wiki/拉丁语短语列表_\(C字头\))转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

@@ -1,3 +1,6 @@
+> 本文内容由[Havok引擎](https://zh.wikipedia.org/wiki/Havok引擎)转换而来。
+
+
 **Havok引擎**，全称为**Havok游戏动力学开发工具包**（**Havok Game Dynamics SDK**），一般称为**Havok**，是一个用于物理（[动力学](https://zh.wikipedia.org/wiki/动力学 "wikilink")）效应模拟的[游戏引擎](../Page/游戏引擎.md "wikilink")，为[电子游戏](../Page/电子游戏.md "wikilink")所设计，注重在游戏中对于真实世界的模拟。使用撞击监测功能的Havok引擎可以让更多真实世界的情况以最大的拟真度反映在游戏中。
 
 2015年10月2日，[微軟宣佈從](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Intel收購Havok](https://zh.wikipedia.org/wiki/Intel "wikilink")。\[1\]

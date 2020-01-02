@@ -1,3 +1,6 @@
+> 本文内容由[IBook](https://zh.wikipedia.org/wiki/IBook)转换而来。
+
+
 [IBook_flavors.jpg](https://zh.wikipedia.org/wiki/File:IBook_flavors.jpg "fig:IBook_flavors.jpg") **iBook**是[苹果电脑公司設計生產的](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")[筆記型电脑系列產品](https://zh.wikipedia.org/wiki/筆記型电脑 "wikilink")。
 
 隨著 [iMac](https://zh.wikipedia.org/wiki/iMac "wikilink") 的成功和[蘋果電腦公司的市場策略轉變](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")，針對消費者和教育市場推出了一個全新的[筆記型電腦](../Page/筆記型電腦.md "wikilink")產品系列“iBook”。

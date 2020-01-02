@@ -1,3 +1,6 @@
+> 本文内容由[BB \(稱呼\)](https://zh.wikipedia.org/wiki/BB_\(稱呼\))转换而来。
+
+
 [BB原是指香港網民對他們](https://zh.wikipedia.org/wiki/BB "wikilink")（心目中）的「[女神](https://zh.wikipedia.org/wiki/女神 "wikilink")」的親切稱呼。但是近年來亦有對[男神有如此稱謂](https://zh.wikipedia.org/wiki/男神 "wikilink")。語意是出自香港地區將嬰兒稱呼成BB而引伸的親切稱呼。
 
 ## 源頭

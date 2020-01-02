@@ -1,3 +1,6 @@
+> 本文内容由[Xcode](https://zh.wikipedia.org/wiki/Xcode)转换而来。
+
+
 **Xcode**是[蘋果公司向開發人員提供的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[集成開發環境](https://zh.wikipedia.org/wiki/集成開發環境 "wikilink")，用於開發[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[WatchOS](../Page/WatchOS.md "wikilink")和[tvOS的應用程序](https://zh.wikipedia.org/wiki/tvOS "wikilink")。
 
 ## 概述

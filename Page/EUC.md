@@ -1,3 +1,6 @@
+> 本文内容由[EUC](https://zh.wikipedia.org/wiki/EUC)转换而来。
+
+
 **EUC**全名为**Extended Unix Code**，是一个使用8[位编码来表示](https://zh.wikipedia.org/wiki/位 "wikilink")[字符](../Page/字符.md "wikilink")的方法。
 
 EUC最初是针对Unix系统，由一些Unix公司所开发，于1991年标准化。EUC基于[ISO/IEC 2022的](https://zh.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")7位编码标准，因此单字节的编码空间为94，双字节的编码空间（区位码）为94x94。把每个区位加上0xA0来表示，以便符合ISO 2022。它主要用于表示及储存[汉语](../Page/汉语.md "wikilink")文字、[日语](../Page/日语.md "wikilink")文字及[朝鲜文字](https://zh.wikipedia.org/wiki/韓語 "wikilink")。

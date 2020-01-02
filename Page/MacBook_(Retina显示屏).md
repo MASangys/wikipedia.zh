@@ -1,3 +1,6 @@
+> 本文内容由[MacBook \(Retina显示屏\)](https://zh.wikipedia.org/wiki/MacBook_\(Retina显示屏\))转换而来。
+
+
 配备[Retina显示屏](../Page/Retina显示屏.md "wikilink")的**MacBook**是[苹果公司设计的新一代](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[MacBook](../Page/MacBook.md "wikilink")（商品名为**全新MacBook**），在2015年春季发布（同時期尚有Apple Watch预售的新商品发布）。
 
 新一代的MacBook為了追求極致簡化，連線基本採用無線架構，只留下3.5mm耳機插口並去除了一切舊的物理接口，改成新加入[USB Type-C的多功能端口來支援物理傳輸與充電](../Page/USB_3.1.md "wikilink")，並移除散热风扇，将最厚度减小到了1.31厘米，重量不到一公斤。

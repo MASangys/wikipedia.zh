@@ -1,3 +1,6 @@
+> 本文内容由[珞珈山水BBS](https://zh.wikipedia.org/wiki/珞珈山水BBS)转换而来。
+
+
 [2008ss.jpg](https://zh.wikipedia.org/wiki/File:2008ss.jpg "fig:2008ss.jpg")[WHU_LJSS_BBS.png](https://zh.wikipedia.org/wiki/File:WHU_LJSS_BBS.png "fig:WHU_LJSS_BBS.png")
 
 **珞珈山水BBS**（缩写**LJSS**，简称**[珞珈山水](https://zh.wikipedia.org/wiki/珞珈山水 "wikilink")**或**山水**）是[武汉大学](../Page/武汉大学.md "wikilink")的官方[BBS](../Page/BBS.md "wikilink")，创建于1996年10月8日，现已成为武汉大学最大的校内交流平台。

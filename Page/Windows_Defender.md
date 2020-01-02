@@ -1,3 +1,6 @@
+> 本文内容由[Windows Defender](https://zh.wikipedia.org/wiki/Windows_Defender)转换而来。
+
+
 **Windows Defender**（[Windows 10创意者更新后名为](https://zh.wikipedia.org/wiki/Windows_10#版本_1703（創意者更新） "wikilink")**Windows Defender Antivirus**），曾用名**Microsoft AntiSpyware**，最初是用来移除、隔离和预防[间谍软件](../Page/间谍软件.md "wikilink")的程序，可以运行在[Windows XP以及更高版本的操作系统上](../Page/Windows_XP.md "wikilink")，並已經內置在[Windows Vista以及以後的版本中](../Page/Windows_Vista.md "wikilink")。Windows Defender的定义库更新很频繁。在[Windows 8及之后的系统中取代](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Microsoft Security Essentials](../Page/Microsoft_Security_Essentials.md "wikilink")，成为一款全面反病毒软件。
 
 Windows Defender不像某些其他同类免费产品一样只能扫描系统，还可以对系统进行实时监控，移除已經安装的[ActiveX](../Page/ActiveX.md "wikilink")插件\[1\]，清除大多数微软的程序和其他常用程序的历史纪录。

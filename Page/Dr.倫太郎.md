@@ -1,3 +1,6 @@
+> 本文内容由[Dr.倫太郎](https://zh.wikipedia.org/wiki/Dr.倫太郎)转换而来。
+
+
 ，是2015年4月至2015年6月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[中園美保](../Page/中園美保.md "wikilink")編劇\[1\]，[堺雅人](../Page/堺雅人.md "wikilink")主演\[2\]\[3\]。此劇亦是堺雅人初次在此時段擔任主演。
 
 ## 概要

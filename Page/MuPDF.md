@@ -1,3 +1,6 @@
+> 本文内容由[MuPDF](https://zh.wikipedia.org/wiki/MuPDF)转换而来。
+
+
 {{ infobox software | logo = [MuPDF.png](https://zh.wikipedia.org/wiki/File:MuPDF.png "fig:MuPDF.png") | caption = MuPDF标志 | author = Tor Andersson | developer = Artifex Software, Inc. | released =  | latest release version = 1.16.1 | latest release date = \[1\] | latest preview date = | programming language = [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") | operating system = [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") | license = [Affero通用公共许可证](https://zh.wikipedia.org/wiki/Affero通用公共许可证 "wikilink") | genre = [库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink") | website = [mupdf.com](http://mupdf.com/) }}
 
 **MuPDF**是一款以[C语言编写的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，是[PDF和](https://zh.wikipedia.org/wiki/PDF "wikilink")[XPS解析和渲染引擎](https://zh.wikipedia.org/wiki/开放XML纸张规范 "wikilink")。主要用以[渲染](../Page/渲染.md "wikilink")页面为[位图](../Page/位图.md "wikilink")，但也提供对其他操作诸如搜索和列举目录和链接的支持。

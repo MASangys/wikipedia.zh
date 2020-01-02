@@ -1,3 +1,6 @@
+> 本文内容由[Googleplex](https://zh.wikipedia.org/wiki/Googleplex)转换而来。
+
+
 [Googleplex-SignIn.jpg](https://zh.wikipedia.org/wiki/File:Googleplex-SignIn.jpg "fig:Googleplex-SignIn.jpg") **Googleplex**，是[Google公司总部的名字](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，位于[美国](../Page/美国.md "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[圣克拉拉县的](https://zh.wikipedia.org/wiki/圣克拉拉县 "wikilink")[山景城](https://zh.wikipedia.org/wiki/山景城_\(加利福尼亞州\) "wikilink")，离[旧金山](../Page/旧金山.md "wikilink")很近。
 
 “Googleplex”来源于英文单词“googolplex”（[古戈爾普勒克斯](../Page/古戈爾普勒克斯.md "wikilink")），而「Google」转变于单词“googol”（[古戈爾](../Page/古戈爾.md "wikilink")）。 古戈爾普勒克斯指的是10<sup>10<sup>100</sup></sup>，即1後面有古戈爾个0的[自然数](../Page/自然数.md "wikilink")。

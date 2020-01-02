@@ -1,3 +1,6 @@
+> 本文内容由[Mr. Back](https://zh.wikipedia.org/wiki/Mr._Back)转换而来。
+
+
 《**Mr. Back**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年11月5日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[帝王之女守百香](../Page/帝王之女守百香.md "wikilink")》、《[光與影](../Page/光與影.md "wikilink")》李尚燁導演執導與《[急診男女](../Page/急診男女.md "wikilink")》[崔胤貞作家執筆](https://zh.wikipedia.org/wiki/崔胤貞 "wikilink")，講述了一個70多歲的財富、地位、權勢等應有盡有的某集團會長因一次偶然的機會重返青春，決定嘗試以前從未體驗過的真正的愛情的故事。 \[1\]\[2\]\[3\]
 
 ## 演員陣容

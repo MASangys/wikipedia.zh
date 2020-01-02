@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想VIII](https://zh.wikipedia.org/wiki/最终幻想VIII)转换而来。
+
+
 是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）在1999年於[PlayStation](../Page/PlayStation.md "wikilink")平台上发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，是[最终幻想系列第八部正传](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")，同年本作也移植至Windows平台。因當時[史克威爾](../Page/史克威爾.md "wikilink")授權的港台攻略本與媒體使用港台舊譯「太空-{}-戰士8」，所以港台許多老玩家稱此作為太8。是系列首部完全使用现实比例角色造型的作品。游戏系統取消了一貫消費[魔力值发动魔法的方式](https://zh.wikipedia.org/wiki/魔力值 "wikilink")，改以新創的抽取指令搭配結合系統以培養角色。本作同前作FF7一般採用了具多種現代科技元素的世界觀，但也有著如「魔女」這種具有強大魔力的神秘存在。遊戲讲述了一群佣兵學園學生——隶属于組織“SeeD”——的故事，劇情裡主角群的行動深受世上多數存在的「魔女」所影響，而魔女中強大者甚至能壓縮時間，牽動着角色們的過去與未來。主角史克爾成為SeeD後的首次任務，即被捲入刺殺暗地掌控一國之魔女「Edea」的行動中。
 
 《最终幻想VIII》从1997年开始研發，长期负责系列音樂的[植松伸夫](../Page/植松伸夫.md "wikilink")继续为本作配乐，但為系列中首次使用歌手演唱之主题曲——[王菲](../Page/王菲.md "wikilink")的《[Eyes on Me](../Page/Eyes_on_Me.md "wikilink")》。PlayStation版本的全球累計銷量達800萬套以上\[1\]。游戏于2009年作为PSone Classics作品在[PlayStation Network上发布](../Page/PlayStation_Network.md "wikilink")。2006年获得日本杂志《[Fami通](../Page/Fami通.md "wikilink")》读者投票的史上最佳游戏第22名。

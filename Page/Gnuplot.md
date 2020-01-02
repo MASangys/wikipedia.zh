@@ -1,3 +1,6 @@
+> 本文内容由[Gnuplot](https://zh.wikipedia.org/wiki/Gnuplot)转换而来。
+
+
 **gnuplot**是一套[跨平臺](../Page/跨平臺.md "wikilink")的數學繪圖[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。使用命令列介面，可以繪製數學函數圖形，也可以從純文字檔讀入簡單格式的座標資料，繪製統計圖表等等。它可以提供多種輸出格式，例如[PNG](../Page/PNG.md "wikilink")，[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")，[PS](../Page/PostScript.md "wikilink")，HPGL，供文書處理、簡報、試算表使用。它並不是統計軟體或數學軟體。
 
 gnuplot是有版权的，但自由分发；无须付费。

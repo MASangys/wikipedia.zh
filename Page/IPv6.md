@@ -1,3 +1,6 @@
+> 本文内容由[IPv6](https://zh.wikipedia.org/wiki/IPv6)转换而来。
+
+
 **网际协议第6版**（，縮寫：**IPv6**）是[网际协议](../Page/网际协议.md "wikilink")的最新版本，用作[互联网](../Page/互联网.md "wikilink")的[網路層協議](https://zh.wikipedia.org/wiki/網路層 "wikilink")。用它来取代[IPv4](../Page/IPv4.md "wikilink")主要是为了解决[IPv4地址枯竭问题](https://zh.wikipedia.org/wiki/IPv4地址枯竭问题 "wikilink")，同时它也在其他方面对于IPv4有许多改进。
 
 IPv6的设计目的是取代IPv4，然而长期以来IPv4在互联网流量中仍占据主要地位，IPv6的使用增长缓慢。在2017年7月，通过IPv6使用[Google](../Page/Google.md "wikilink")服务的用户百分率首次超过20%。\[1\]

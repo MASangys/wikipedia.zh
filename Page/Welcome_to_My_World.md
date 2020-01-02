@@ -1,3 +1,6 @@
+> 本文内容由[Welcome to My World](https://zh.wikipedia.org/wiki/Welcome_to_My_World)转换而来。
+
+
 《**Welcome to My World**》 是[台歌手](https://zh.wikipedia.org/wiki/台 "wikilink")[柯有倫](../Page/柯有倫.md "wikilink")個人第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2007年6月1日正式發行，一共收錄十首歌曲。\[1\]
 
 ## 曲目

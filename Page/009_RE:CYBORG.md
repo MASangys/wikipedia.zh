@@ -1,3 +1,6 @@
+> 本文内容由[009 RE:CYBORG](https://zh.wikipedia.org/wiki/009_RE:CYBORG)转换而来。
+
+
 《**009 RE:CYBORG**》是2012年10月27日上映的[日本](../Page/日本.md "wikilink")[动画电影](https://zh.wikipedia.org/wiki/动画电影 "wikilink")。与[石之森章太郎](../Page/石之森章太郎.md "wikilink")原作的《[人造人009](../Page/人造人009.md "wikilink")》有相同的登场人物，与2013的现代世界同步作为舞台描写了新的剧本\[1\]。标题的RE是重新开始的意思，考虑以本作为出发点展开新的系列\[2\]。
 
 ## 剧情简介

@@ -1,3 +1,6 @@
+> 本文内容由[Coward](https://zh.wikipedia.org/wiki/Coward)转换而来。
+
+
 《**Coward**》為[堂本剛](../Page/堂本剛.md "wikilink")以[ENDLICHERI☆ENDLICHERI名義出品的第一張原創](https://zh.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。（作為堂本剛的單獨表演[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，總計第3張。）2006年3月1日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")發行。
 
 ## 解說

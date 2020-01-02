@@ -1,3 +1,6 @@
+> 本文内容由[8bit](https://zh.wikipedia.org/wiki/8bit)转换而来。
+
+
 **8bit**（）是日本的一間[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[製作](../Page/製作.md "wikilink")[公司](../Page/公司.md "wikilink")，主要從事動畫[企劃](https://zh.wikipedia.org/wiki/企劃 "wikilink")、制作、[攝影](https://zh.wikipedia.org/wiki/攝影 "wikilink")。
 
 ## 概要

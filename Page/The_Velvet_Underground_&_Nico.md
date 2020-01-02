@@ -1,3 +1,6 @@
+> 本文内容由[The Velvet Underground \& Nico](https://zh.wikipedia.org/wiki/The_Velvet_Underground_\&_Nico)转换而来。
+
+
 《****》（译名：地下丝绒与妮可）是美国摇滚乐队[地下絲絨](../Page/地下絲絨.md "wikilink")和歌手[妮可的首张专辑](https://zh.wikipedia.org/wiki/妮可 "wikilink")，于1967年3月由发行。
 
 ## 介绍

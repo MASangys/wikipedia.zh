@@ -1,3 +1,6 @@
+> 本文内容由[IPad Air 2](https://zh.wikipedia.org/wiki/IPad_Air_2)转换而来。
+
+
 **iPad Air 2**（在[2017款iPad推出之前](../Page/IPad_\(第5代\).md "wikilink")，[第一代iPad Air有](../Page/IPad_Air.md "wikilink")“**iPad 5**”之俗称，故本代亦有“**iPad 6**”之俗称）是由美国[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的第二代[iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。它於2014年10月16日於美国加州旧金山发布，與iPad Mini 3同時發布，並於2014年10月22日發布。iPad Air 2比其前身[iPad Air更薄更快](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，並具有[Touch ID](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")，其高度和螢幕尺寸與iPad Air相同。標榜更輕薄的設計、指紋辨識、A8X高效處理器、八百萬像素後置相機鏡頭。
 
 2017年3月21日，iPad Air 2終止銷售，Air系列也停止販售。其後續產品即[iPad 2017於當日宣布](https://zh.wikipedia.org/wiki/iPad_\(第5代\) "wikilink")。

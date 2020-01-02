@@ -1,3 +1,6 @@
+> 本文内容由[M.O.A](https://zh.wikipedia.org/wiki/M.O.A)转换而来。
+
+
 **M.O.A**（，全寫為**M**ember **o**f **A**sia、**M**otion **o**f **A**rt）是[Professional娛樂旗下](https://zh.wikipedia.org/wiki/Professional娛樂 "wikilink")[韓國七人女子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。
 
 出道作「I'll Call Ya」MV被指拍得太差，結果遭電視台禁播\[1\]，因而不能闖出知名度，導致成立不久便陷入拆夥邊緣。

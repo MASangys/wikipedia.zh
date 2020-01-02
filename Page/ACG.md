@@ -1,3 +1,6 @@
+> 本文内容由[ACG](https://zh.wikipedia.org/wiki/ACG)转换而来。
+
+
 [Last_Wikipe-tan_by_Kasuga.png](https://zh.wikipedia.org/wiki/File:Last_Wikipe-tan_by_Kasuga.png "fig:Last_Wikipe-tan_by_Kasuga.png")\]\]  **ACG**即[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")（**A**nime）、[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")（**C**omics）與[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")（**G**ames）的英文[首字母縮略字](../Page/首字母縮略字.md "wikilink")。该词汇一般不翻译为中文，需要时可能会被译为「**動漫遊戲**」、「**二次元**」或「**動漫遊**」等。
 
 该词汇来自于[華人地區](../Page/華人地區.md "wikilink")的[次文化](../Page/次文化.md "wikilink")，多指來自[日本](../Page/日本.md "wikilink")的[动漫及](https://zh.wikipedia.org/wiki/动漫 "wikilink")[電子遊戲作品](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，包括传统日式[电子角色扮演游戏以及](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")[美少女游戏](https://zh.wikipedia.org/wiki/美少女游戏 "wikilink")。并随着「[二次元](https://zh.wikipedia.org/wiki/二次元 "wikilink")」这一词汇的延伸性，ACG这些词所容纳的东西正渐渐成为不再是单纯指代日本产品的词汇。

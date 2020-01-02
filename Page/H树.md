@@ -1,3 +1,6 @@
+> 本文内容由[H树](https://zh.wikipedia.org/wiki/H树)转换而来。
+
+
 [H_tree.svg](https://zh.wikipedia.org/wiki/File:H_tree.svg "fig:H_tree.svg") 在[分形几何中](https://zh.wikipedia.org/wiki/分形几何 "wikilink")，**H树**是一种[分形](../Page/分形.md "wikilink")树结构，由互相[垂直](../Page/垂直.md "wikilink")的[线段](../Page/线段.md "wikilink")构成，其中任意一条线段的长度都是次一级线段的[\(\sqrt{2}\)倍](https://zh.wikipedia.org/wiki/2的平方根 "wikilink")。它因类似于字母“H”的重复图案而得名。它的[豪斯多夫维数](../Page/豪斯多夫维数.md "wikilink")为2，能任意接近[矩形](../Page/矩形.md "wikilink")中的每一点。其应用包括[超大规模集成电路](../Page/超大规模集成电路.md "wikilink")设计和微波工程。
 
 ## 构造

@@ -1,3 +1,6 @@
+> 本文内容由[Mystic娛樂](https://zh.wikipedia.org/wiki/Mystic娛樂)转换而来。
+
+
 **Mystic娛樂**（；）是[韓國的一家演藝經紀企劃公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由創作歌手、音樂製作人[尹鍾信](../Page/尹鍾信.md "wikilink")主導，作為飽含音樂內容所創立的娛樂公司為出發點，現在不只是在音樂產業，包括藝能、電視劇、電影等，將擴大事業範圍到整個大眾文化產業。
 
 [尹鍾信](../Page/尹鍾信.md "wikilink")所創立的公司，原名**Mystic89**，於2014年與演員經紀專門的「**Family Actors**」公司，還有音樂專門的「**Apop Entertainment**」合併，以「Mystic89與家族」的形式統整公司名稱。\[1\]

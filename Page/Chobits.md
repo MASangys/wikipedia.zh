@@ -1,3 +1,6 @@
+> 本文内容由[Chobits](https://zh.wikipedia.org/wiki/Chobits)转换而来。
+
+
 《**Cho-{}-bits**》（）是日本漫畫家團體[CLAMP](../Page/CLAMP.md "wikilink")的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，自2000年9月至2002年10月間於日本[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》連載。[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊\[1\]\[2\]。改編動畫版自2002年4月起至9月止於[TBS播放](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")，全27話。
 
 ## 名稱由來

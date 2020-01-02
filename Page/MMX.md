@@ -1,3 +1,6 @@
+> 本文内容由[MMX](https://zh.wikipedia.org/wiki/MMX)转换而来。
+
+
 [Pentium_mmx.png](https://zh.wikipedia.org/wiki/File:Pentium_mmx.png "fig:Pentium_mmx.png") **MMX**是由[英特尔](../Page/英特尔.md "wikilink")开发的一种**[SIMD](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")**[多媒体](../Page/多媒体.md "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")，共有57条指令。它于1996年集成在英特尔[奔腾](https://zh.wikipedia.org/wiki/奔腾 "wikilink")（Pentium）MMX[处理器上](https://zh.wikipedia.org/wiki/处理器 "wikilink")，以提高其多媒体数据的处理能力。
 
 其优点是增加了處理器關於[多媒体](../Page/多媒体.md "wikilink")方面的处理能力，缺点是占用[浮点数](../Page/浮点数.md "wikilink")[寄存器](../Page/寄存器.md "wikilink")进行运算（64位MMX寄存器实际上就是浮点数寄存器的别名）以至于MMX指令和浮点数操作不能同时工作。为了减少在MMX和浮点数模式切换之间所消耗的时间，程序员们尽可能减少模式切换的次数，也就是说，这两种操作在应用上是互斥的。[AMD在此基础上发展出](https://zh.wikipedia.org/wiki/AMD "wikilink")[3D Now\!指令集](../Page/3DNow!.md "wikilink")。

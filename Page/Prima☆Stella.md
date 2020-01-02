@@ -1,3 +1,6 @@
+> 本文内容由[Prima☆Stella](https://zh.wikipedia.org/wiki/Prima☆Stella)转换而来。
+
+
 《**Prima☆Stella**》（）是日本[Atelier KAGUYA](../Page/Atelier_KAGUYA.md "wikilink")(アトリエかぐや)在2008年6月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2009年9月18日發售與《さらさらささら》合併的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《プリ☆さら 〜ドキドキ×らぶらぶWファンディスク〜》。\[3\]2009年10月29日由AICHERRY發售DVDPG版。\[4\]遊戲名稱Prima Stella是[義大利語](https://zh.wikipedia.org/wiki/義大利語 "wikilink")，中文翻譯是第一星。
 
 ## 故事

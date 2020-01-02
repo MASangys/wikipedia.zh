@@ -1,3 +1,6 @@
+> 本文内容由[GO!GO!台北捷運](https://zh.wikipedia.org/wiki/GO!GO!台北捷運)转换而来。
+
+
 《**GO\!GO\!台北捷運**》是[尼奧科技與](https://zh.wikipedia.org/wiki/尼奧科技 "wikilink")[臺北捷運公司合作開發的](https://zh.wikipedia.org/wiki/臺北捷運公司 "wikilink")[鐵路模擬遊戲](https://zh.wikipedia.org/wiki/鐵路模擬遊戲 "wikilink")，2003年7月在[Windows平臺推出](https://zh.wikipedia.org/wiki/Windows "wikilink")。遊戲主要是駕駛[台北捷運的](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[高運量列車在](https://zh.wikipedia.org/wiki/高運量系統 "wikilink")[淡水線](../Page/淡水線.md "wikilink")的地上和高架路段（[民權西路站到](https://zh.wikipedia.org/wiki/民權西路站 "wikilink")[淡水站](../Page/淡水站.md "wikilink")）來回行駛。玩家能在體驗駕駛的同時欣賞淡水線沿線的風景。\[1\]\[2\]
 
 ## 玩法

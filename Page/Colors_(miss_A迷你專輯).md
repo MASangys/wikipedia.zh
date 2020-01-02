@@ -1,3 +1,6 @@
+> 本文内容由[Colors \(miss A迷你專輯\)](https://zh.wikipedia.org/wiki/Colors_\(miss_A迷你專輯\))转换而来。
+
+
 《**Colors**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss A第三張迷你專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2015年3月30日由KT Music發行。主打歌曲為〈Only You〉，由黑眼必勝製作。\[1\]
 
 ## 背景

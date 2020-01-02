@@ -1,3 +1,6 @@
+> 本文内容由[B股](https://zh.wikipedia.org/wiki/B股)转换而来。
+
+
 **B股**（**B share**）在许多国家的[股市都存在](https://zh.wikipedia.org/wiki/股市 "wikilink")，可以是[普通股或](https://zh.wikipedia.org/wiki/普通股 "wikilink")[優先股](../Page/優先股.md "wikilink")。
 
 ## 欧美

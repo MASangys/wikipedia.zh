@@ -1,3 +1,6 @@
+> 本文内容由[Always \(U-KISS迷你專輯\)](https://zh.wikipedia.org/wiki/Always_\(U-KISS迷你專輯\))转换而来。
+
+
 《**Always**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")第十張韓語迷你專輯，於2015年1月23日發行，主打歌曲為《遊樂場》（）\[1\]。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Fσ集](https://zh.wikipedia.org/wiki/Fσ集)转换而来。
+
+
 數學上，一個**F<sub>σ</sub>集**是[可數個](https://zh.wikipedia.org/wiki/可數 "wikilink")[閉集的](https://zh.wikipedia.org/wiki/閉集 "wikilink")[併集](https://zh.wikipedia.org/wiki/併集 "wikilink")。F<sub>σ</sub>集的記法是[豪斯多夫在](https://zh.wikipedia.org/wiki/豪斯多夫 "wikilink")1914年出版的著作《》引入的。\[1\]名稱中的F來自法文的[fermé](https://zh.wikipedia.org/wiki/wikt:fermé#French "wikilink")，意思是閉（現在法文也稱閉集為fermé），而σ來自德文的[Summe](https://zh.wikipedia.org/wiki/wikt:Summe#German "wikilink")，意思是和，在此指可數個集合的併集。
 
 F<sub>σ</sub>集的[補集是](https://zh.wikipedia.org/wiki/補集 "wikilink")[G<sub>δ</sub>集](https://zh.wikipedia.org/wiki/Gδ集 "wikilink")。

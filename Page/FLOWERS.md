@@ -1,3 +1,6 @@
+> 本文内容由[FLOWERS](https://zh.wikipedia.org/wiki/FLOWERS)转换而来。
+
+
 《**FLOWERS**》是由[Innocent Grey團隊開發的文字](../Page/Innocent_Grey.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，此系列共4部。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Smart \(Hey! Say! JUMP專輯\)](https://zh.wikipedia.org/wiki/Smart_\(Hey!_Say!_JUMP專輯\))转换而来。
+
+
 《**smart**》是[Hey\! Say\! JUMP的第](../Page/Hey!_Say!_JUMP.md "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2014年6月18日由[J Storm發售](../Page/J_Storm.md "wikilink")。
 
 ## 收錄曲

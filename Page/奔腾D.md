@@ -1,3 +1,6 @@
+> 本文内容由[奔腾D](https://zh.wikipedia.org/wiki/奔腾D)转换而来。
+
+
 **Pentium D**是[英特爾公司的雙核心處理器系列之一](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，於2005年春季的Intel開發者論壇中首度亮相。它把兩顆[Pentium 4](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink") Prescott核心放在同一塊晶片上。
 
 ## 核心

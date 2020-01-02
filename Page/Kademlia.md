@@ -1,3 +1,6 @@
+> 本文内容由[Kademlia](https://zh.wikipedia.org/wiki/Kademlia)转换而来。
+
+
 **Kademlia**是一种通过[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")实现的[协议算法](https://zh.wikipedia.org/wiki/协议算法 "wikilink")，它是由Petar和David为非集中式[P2P计算机网络而设计的](https://zh.wikipedia.org/wiki/P2P "wikilink")。**Kademlia**规定了[网络的结构](https://zh.wikipedia.org/wiki/网络 "wikilink")，也规定了通过[节点查询进行](https://zh.wikipedia.org/wiki/节点 "wikilink")[信息交换的方式](https://zh.wikipedia.org/wiki/信息交换 "wikilink")。**Kademlia**网络节点之间使用[UDP进行通讯](https://zh.wikipedia.org/wiki/UDP "wikilink")。参与通讯的所有节点形成一张虚拟网（或者叫做覆盖网）。这些节点通过一组数字（或称为节点ID）来进行身份标识。节点ID不仅可以用来做身份标识，还可以用来进行值定位（值通常是文件的散列或者关键词）。其实，节点ID与文件散列直接对应，它所表示的那个节点存储着哪儿能够获取文件和资源的相关信息。当我们在网络中搜索某些值（即通常搜索存储文件散列或关键词的节点）的时候，**Kademlia**算法需要知道与这些值相关的键，然后分步在网络中开始搜索。每一步都会找到一些节点，这些节点的ID与键更为接近，如果有节点直接返回搜索的值或者再也无法找到与键更为接近的节点ID的时候搜索便会停止。这种搜索值的方法是非常高效的：与其他的分散式雜湊表的实现类似，在一个包含n个节点的系统的值的搜索中，**Kademlia**仅访问[O(log(n))个节点](../Page/大O符号.md "wikilink")。非集中式网络结构还有更大的优势，那就是它能够显著增强抵御[拒绝服务攻击的能力](https://zh.wikipedia.org/wiki/拒绝服务 "wikilink")。即使网络中的一整批节点遭受泛洪攻击，也不会对网络的可用性造成很大的影响，通过绕过这些漏洞（被攻击的节点）来重新编织一张网络，网络的可用性就可以得到恢复。
 
 ## 系统细节

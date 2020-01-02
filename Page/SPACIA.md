@@ -1,3 +1,6 @@
+> 本文内容由[SPACIA](https://zh.wikipedia.org/wiki/SPACIA)转换而来。
+
+
 [Tobu100_2.jpg](https://zh.wikipedia.org/wiki/File:Tobu100_2.jpg "fig:Tobu100_2.jpg")）
 （2007年11月3日 姫宮 - 東武動物公園間）\]\] [TOBURAILWAY_SERIES100_101F.JPG](https://zh.wikipedia.org/wiki/File:TOBURAILWAY_SERIES100_101F.JPG "fig:TOBURAILWAY_SERIES100_101F.JPG") **SPACIA**（）為[日本](../Page/日本.md "wikilink")[東武鐵道](../Page/東武鐵道.md "wikilink")所經營，行駛於[淺草車站與](https://zh.wikipedia.org/wiki/淺草車站 "wikilink")[東武日光車站或](https://zh.wikipedia.org/wiki/東武日光車站 "wikilink")[新藤原車站間](https://zh.wikipedia.org/wiki/新藤原車站 "wikilink")，[伊勢崎線](../Page/伊勢崎線.md "wikilink")（淺草 ～ 東武動物公園路段）、[日光線](../Page/日光線.md "wikilink")（東武動物公園 ～ 東武日光路段）與[鬼怒川線](../Page/鬼怒川線.md "wikilink")（下今市 ～ 新藤原路段）上之特急列車。
 

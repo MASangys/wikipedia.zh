@@ -1,3 +1,6 @@
+> 本文内容由[Illumina](https://zh.wikipedia.org/wiki/Illumina)转换而来。
+
+
 **Illumina**是美国的一家生物科技公司，成立于1998年，总部设于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣地亚哥](https://zh.wikipedia.org/wiki/圣地亚哥_\(加利福尼亚州\) "wikilink")。它在巴西、英国、荷兰、中国、新加坡、日本、澳大利亚也设有分部。其员工超过3000人，2013年总收入达14.2亿。\[1\]该公司专注于生物信息分析，提供有关SNP基因分型、[拷贝数变异](https://zh.wikipedia.org/wiki/拷贝数变异 "wikilink")（CNV）、[基因组测序](https://zh.wikipedia.org/wiki/基因组测序 "wikilink")、[DNA甲基化](../Page/DNA甲基化.md "wikilink")研究、[转录组分析](https://zh.wikipedia.org/wiki/转录组分析 "wikilink")、[基因表达谱分析相关的服务](https://zh.wikipedia.org/wiki/基因表达谱分析 "wikilink")。\[2\]如今的Illumina已经占有了基因组测序领域70%的市场份额，在2014年还被《MIT技术评论》选为年度50家最聪明公司第一位。\[3\]
 
 ## 发展历程

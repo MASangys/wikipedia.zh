@@ -1,3 +1,6 @@
+> 本文内容由[Berryz工房](https://zh.wikipedia.org/wiki/Berryz工房)转换而来。
+
+
 **Berryz工房**是[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
 2004年1月14日於[Hello\! Project Kids中選出八名成員組成](../Page/Hello!_Project_Kids.md "wikilink")，2005年成員[石村舞波](../Page/石村舞波.md "wikilink")畢業，目前共有七名成員。

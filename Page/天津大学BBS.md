@@ -1,3 +1,6 @@
+> 本文内容由[天津大学BBS](https://zh.wikipedia.org/wiki/天津大学BBS)转换而来。
+
+
 **天津大学BBS**发展比较晚，据说这主要是校方对BBS的不认可造成的。
 
 ## 历程

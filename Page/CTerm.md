@@ -1,3 +1,6 @@
+> 本文内容由[CTerm](https://zh.wikipedia.org/wiki/CTerm)转换而来。
+
+
 **CTerm**是一个与[FTerm](../Page/FTerm.md "wikilink")功能相仿的通用仿真终端软件。是[中国大陆](../Page/中国大陆.md "wikilink")地区发展的第一个在[BBS](../Page/BBS.md "wikilink")站上支持[鼠标](../Page/鼠标.md "wikilink")操作的[BBS](../Page/BBS.md "wikilink")软件。主要特点：支持以[SSH方式登录BBS](https://zh.wikipedia.org/wiki/SSH "wikilink")（从3.3.0版本开始）；支持鼠标操作；支持图片URL自动识别下载浏览；支持自定义老板键（FTerm不支持）；不支持Zmodem，不能直接上传附件（FTerm支持）；支持自动登录；支持[socks 4](https://zh.wikipedia.org/wiki/socks_4 "wikilink")、[socks 5](https://zh.wikipedia.org/wiki/socks_5 "wikilink")、[http](https://zh.wikipedia.org/wiki/http "wikilink")、[telnet类型代理](https://zh.wikipedia.org/wiki/telnet "wikilink")；与FTerm和[Sterm相比](https://zh.wikipedia.org/wiki/Sterm "wikilink")，更新速度快。因为FTerm很早就支持SSH登录BBS，安全性比telnet强，所以FTerm在BBS中非常流行，现在CTerm也正变得越来越流行。
 
 ## 发展历史

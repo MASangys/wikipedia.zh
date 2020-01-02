@@ -1,3 +1,6 @@
+> 本文内容由[MathOverflow](https://zh.wikipedia.org/wiki/MathOverflow)转换而来。
+
+
 **MathOverflow**是一個互動數學網站，既是一個協作[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，也是專業[數學家的](https://zh.wikipedia.org/wiki/數學家 "wikilink")[網絡社區](https://zh.wikipedia.org/wiki/網絡社區 "wikilink")。用戶在這網站上可以提問，回答，及對問題或答案投票和評論，通過這些活動用戶可以獲取徽章和聲望值。這網站是[Stack Exchange Network的其中一員](https://zh.wikipedia.org/wiki/Stack_Exchange_Network "wikilink")。
 
 這網站主要是發問數學研究的問題，也就是關於[未解問題和探索現代數學各領域中的新知識](https://zh.wikipedia.org/wiki/未解決的數學問題 "wikilink")。數學家平常交流時會討論的各種問題，也可以到這網站發問，譬如[發文章](https://zh.wikipedia.org/wiki/學術出版 "wikilink")、[評審文章](../Page/同行評審.md "wikilink")、[指導研究生](https://zh.wikipedia.org/wiki/博士導師 "wikilink")、取得[終身教職等](https://zh.wikipedia.org/wiki/終身教職 "wikilink")。網站上不允許發問主觀偏好及有爭議性的問題。網站上也不歡迎非數學家求人指導，例如問作業題；這類問題可以到Mathematics Stack Exchange等其他網站發問。

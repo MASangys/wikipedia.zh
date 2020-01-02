@@ -1,3 +1,6 @@
+> 本文内容由[X \(莫文蔚專輯\)](https://zh.wikipedia.org/wiki/X_\(莫文蔚專輯\))转换而来。
+
+
 **《X》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[莫文蔚](../Page/莫文蔚.md "wikilink")的第十張個人專輯，於2003年8月28日發行\[1\]。
 
 ## 曲目列表

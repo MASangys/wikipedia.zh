@@ -1,3 +1,6 @@
+> 本文内容由[雪铁龙CX](https://zh.wikipedia.org/wiki/雪铁龙CX)转换而来。
+
+
 **雪铁龙CX**（Citroën CX），是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[雪铁龙](../Page/雪铁龙.md "wikilink")公司在1974年至1991年期间生产的汽车，共生产约120万辆。在1975年被评为「欧洲年度风云车」。
 
 本款汽车拥有先进的悬架。\[1\]从[雪铁龙SM继承了许多功能跑车的功能](https://zh.wikipedia.org/wiki/雪铁龙SM "wikilink")，例如拥有特别精确的汽车动力转向系统。

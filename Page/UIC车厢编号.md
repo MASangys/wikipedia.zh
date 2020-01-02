@@ -1,3 +1,6 @@
+> 本文内容由[UIC车厢编号](https://zh.wikipedia.org/wiki/UIC车厢编号)转换而来。
+
+
 [Lastgrenzenraster.jpg](https://zh.wikipedia.org/wiki/File:Lastgrenzenraster.jpg "fig:Lastgrenzenraster.jpg")的F型特种敞车\]\] **UIC车厢编号**是[铁路货车及](https://zh.wikipedia.org/wiki/铁路货车 "wikilink")[客车的唯一区分标识](https://zh.wikipedia.org/wiki/铁路客车 "wikilink")，它包含用于[铁路运输的重要密钥数据](https://zh.wikipedia.org/wiki/铁路运输 "wikilink")。车厢编号由[国际铁路联盟指定](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")，并构成了铁路运输企业、铁路基础设施企业以及相关政府机构之间的共同语言。
 
 一套完整的UIC车厢编号包含有12位数字，在此情况下，车厢编号的的单位数字通常具有以下含义：

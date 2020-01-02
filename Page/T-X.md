@@ -1,3 +1,6 @@
+> 本文内容由[T-X](https://zh.wikipedia.org/wiki/T-X)转换而来。
+
+
 **T-X**是在《[终结者](../Page/终结者.md "wikilink")》電影系列中登场的虛構人物，《[魔鬼終結者3](https://zh.wikipedia.org/wiki/魔鬼終結者3 "wikilink")》中的主要反派。為一超强战斗[机器人](../Page/机器人.md "wikilink")，由[天網于](../Page/天網_\(魔鬼終結者\).md "wikilink")2031年开始研制\[1\]，同年T-X研制成功并开始进行部署，其中一个被送往2004年7月24日，以暗杀人类反抗軍阵营核心人物并促使天网的成功激活。
 
 該角由[克莉絲汀娜·羅肯飾演](https://zh.wikipedia.org/wiki/克莉絲汀娜·羅肯 "wikilink")\[2\]\[3\]。

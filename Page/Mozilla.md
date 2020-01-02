@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla](https://zh.wikipedia.org/wiki/Mozilla)转换而来。
+
+
 **Mozilla**是一个[自由軟體社群](../Page/自由軟體社群.md "wikilink")，由[網景通訊公司的成員於](https://zh.wikipedia.org/wiki/網景通訊公司 "wikilink")1998年創立\[1\]\[2\]。在非正式的場合下，「Mozilla」這個名字常用於不同的事物上。這些事物大都與現已歇業的網景通訊公司及其旗下的應用軟體相關。許多其它「Mozilla」名詞的用法請見下方敘述。
 
 ## 開發代號

@@ -1,3 +1,6 @@
+> 本文内容由[Slackware](https://zh.wikipedia.org/wiki/Slackware)转换而来。
+
+
 **Slackware**是**Slackware Linux, Inc**的制作的[Linux发行版本](https://zh.wikipedia.org/wiki/Linux发行版本 "wikilink")。Slackware走了一条与其他的发行版本（[Red Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")、[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、[SuSE](https://zh.wikipedia.org/wiki/SuSE "wikilink")、[Mandriva](../Page/Mandriva_Linux.md "wikilink")、[Ubuntu](../Page/Ubuntu.md "wikilink")等）不同的道路，它力图成为“[UNIX](../Page/UNIX.md "wikilink")风格”的Linux发行版本\[1\]。它的方针是只吸收稳定版本的应用程序，并且缺少其他Linux版本中那些为发行版本定制的配置工具。
 
 ## 历史和命名

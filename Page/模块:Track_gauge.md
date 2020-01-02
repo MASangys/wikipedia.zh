@@ -1,3 +1,6 @@
+> 本文内容由[模块:Track gauge](https://zh.wikipedia.org/wiki/模块:Track_gauge)转换而来。
+
+
 \-- This module implements the  template. -- Data is in Module:Track gauge/data local p = {} local gaugeDataAll = nil local dataPageName = 'Module:Track gauge/data' -- sandbox here
 
 -----

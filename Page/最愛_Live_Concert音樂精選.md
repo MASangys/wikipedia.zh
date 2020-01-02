@@ -1,3 +1,6 @@
+> 本文内容由[最愛 Live Concert音樂精選](https://zh.wikipedia.org/wiki/最愛_Live_Concert音樂精選)转换而来。
+
+
 《**最愛 Live Concert音樂精選**》（）是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第四張[混音](../Page/混音.md "wikilink")專輯，由[新力博德曼於](../Page/台灣索尼音樂娛樂.md "wikilink")2006年11月3日發行。該專輯內容包括蔡依林於新力博德曼時期的19首歌曲的混音版本\[1\]。
 
 ## 曲目

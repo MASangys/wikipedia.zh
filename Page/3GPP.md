@@ -1,3 +1,6 @@
+> 本文内容由[3GPP](https://zh.wikipedia.org/wiki/3GPP)转换而来。
+
+
 **第三代合作伙伴计划**（，即）是一个成立于1998年12月的标准化机构。目前其成员包括[欧洲](../Page/欧洲.md "wikilink")的[ETSI](../Page/欧洲电信标准协会.md "wikilink")、[日本](../Page/日本.md "wikilink")的[ARIB和](https://zh.wikipedia.org/wiki/电波产业会 "wikilink")[TTC](https://zh.wikipedia.org/wiki/情报通信技术委员会 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[CCSA](../Page/中国通信标准化协会.md "wikilink")、[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[TTA](https://zh.wikipedia.org/wiki/韩国情报通信技术协会 "wikilink")、[北美洲](../Page/北美洲.md "wikilink")的[ATIS和](https://zh.wikipedia.org/wiki/电信工业解决方案联盟 "wikilink")[印度](../Page/印度.md "wikilink")的[电信标准开发协会](https://zh.wikipedia.org/wiki/TSDSI "wikilink")。
 
 3GPP的目标是在[国际电信联盟](../Page/国际电信联盟.md "wikilink")的[IMT-2000计划范围内制订和实现全球性的](../Page/3G.md "wikilink")（[第三代](https://zh.wikipedia.org/wiki/第三代移动通信系统 "wikilink")）[移动电话](../Page/移动电话.md "wikilink")系统规范。它致力于[GSM到](https://zh.wikipedia.org/wiki/全球移动通信系统 "wikilink")[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")（[W-CDMA](https://zh.wikipedia.org/wiki/W-CDMA "wikilink")）的演化，虽然GSM到W-CDMA[空中介面](../Page/空中介面.md "wikilink")差别很大，但是其核心网采用了[GPRS的框架](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")，因此仍然保持一定的延续性。

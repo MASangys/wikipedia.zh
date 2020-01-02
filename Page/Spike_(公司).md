@@ -1,3 +1,6 @@
+> 本文内容由[Spike \(公司\)](https://zh.wikipedia.org/wiki/Spike_\(公司\))转换而来。
+
+
 是原[日本](../Page/日本.md "wikilink")[电子游戏开发商与](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，大部份职员源自[Human Entertainment](../Page/Human_Entertainment.md "wikilink")。Human的[Fire Pro Wrestling系列属于Spike](https://zh.wikipedia.org/wiki/Fire_Pro_Wrestling "wikilink")。公司在2012年4月1日和[Chunsoft合并成为](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")[Spike Chunsoft](../Page/Spike_Chunsoft.md "wikilink")。
 
 ## 子公司

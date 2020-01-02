@@ -1,3 +1,6 @@
+> 本文内容由[新竹FC女子足球隊](https://zh.wikipedia.org/wiki/新竹FC女子足球隊)转换而来。
+
+
 {{ noteTA | G1 = Football
 
 | 1 = zh-tw:領隊; zh-hk:領隊; zh-mo:領隊; zh-cn:领队; zh-sg:领队 | 2 = zh-tw:總教練; zh-hk:總教練; zh-mo:總教練; zh-cn:总教练; zh-sg:总教练}}

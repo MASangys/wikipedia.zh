@@ -1,3 +1,6 @@
+> 本文内容由[W-inds.](https://zh.wikipedia.org/wiki/W-inds.)转换而来。
+
+
 **w-inds.**（）是[日本](../Page/日本.md "wikilink")3人男子[歌舞](https://zh.wikipedia.org/wiki/歌舞系 "wikilink")[組合](../Page/男子音乐组合.md "wikilink")，以歌唱與舞蹈著稱，擅長Rap和唱跳街舞，隊長是[千葉涼平](../Page/千葉涼平.md "wikilink")，[橘慶太](../Page/橘慶太.md "wikilink")是主唱，千葉涼平和[緒方龍一](../Page/緒方龍一.md "wikilink")是和音、Rap和伴舞。所屬經紀公司為[VISION FACTORY](https://zh.wikipedia.org/wiki/VISION_FACTORY "wikilink")，所屬唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 成員資料

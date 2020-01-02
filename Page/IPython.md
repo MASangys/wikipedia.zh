@@ -1,3 +1,6 @@
+> 本文内容由[IPython](https://zh.wikipedia.org/wiki/IPython)转换而来。
+
+
 **IPython**是一种基于Python的交互式解释器。相较于原生的Python Shell，IPython提供了更为强大的编辑和交互功能。
 
 ## 魔法命令

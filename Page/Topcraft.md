@@ -1,3 +1,6 @@
+> 本文内容由[Topcraft](https://zh.wikipedia.org/wiki/Topcraft)转换而来。
+
+
 **Topcraft**（）是成立於1972年、由曾在[東映動畫任職的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[原徹](../Page/原徹.md "wikilink")所創建之日本動畫工作室。事務上以接洽製作美國方面的動畫為主，並曾在1984年推出電影劇場動畫《[風之谷](https://zh.wikipedia.org/wiki/風之谷 "wikilink")》。
 
 ## 公司經歷

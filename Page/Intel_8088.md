@@ -1,3 +1,6 @@
+> 本文内容由[Intel 8088](https://zh.wikipedia.org/wiki/Intel_8088)转换而来。
+
+
 **Intel 8088** 是一個 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 以 [8086](../Page/Intel_8086.md "wikilink") 為基礎的 [微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，擁有 16 [位元](../Page/位元.md "wikilink") [暫存器](https://zh.wikipedia.org/wiki/暫存器 "wikilink") 和 8 位元外部 [資料匯流排](https://zh.wikipedia.org/wiki/資料匯流排 "wikilink")。這是原本 [IBM PC](../Page/IBM_PC.md "wikilink") 上所使用的處理器。
 
 8088 使用 8 位元的設計，所針對的是較為經濟之系統。在它推出時候，大的資料匯流排寬度電路板還是相當地昂貴。8088 的預取(prefetch) 貯列(queue) 是 4 位元組，相對於 8086 的是 6 位元組。8088 的後代包括到現在還在使用的[intel 80188](https://zh.wikipedia.org/wiki/intel_80188 "wikilink")、[80288](https://zh.wikipedia.org/wiki/80288 "wikilink")（不再製造或使用）、和 [80388](https://zh.wikipedia.org/wiki/80388 "wikilink") [微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")（microcontroller）。

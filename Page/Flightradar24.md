@@ -1,3 +1,6 @@
+> 本文内容由[Flightradar24](https://zh.wikipedia.org/wiki/Flightradar24)转换而来。
+
+
 **Flightradar24**是一家提供实时航班飞行状况的互联网服务商。网站提供航班的飞行轨迹、出发地、目的地、航班号、[注册编号](../Page/航空器註冊編號.md "wikilink")、飞行器型号、当前位置、高度和[空速](../Page/空速.md "wikilink")等。网站同样可以显示过往航班的信息。网站汇总了多方面的来源，包括[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")提供的信息，在美国外的很多数据由持有[ADS-B的志愿者提供](../Page/广播式自动相关监视.md "wikilink")。\[1\]该服务由两名瑞典的航空爱好者于2006年始创\[2\]，后在瑞典成立Svenska Resenätverket AB公司。服务支持通过[网页或](https://zh.wikipedia.org/wiki/Web "wikilink")[移动应用访问](https://zh.wikipedia.org/wiki/移动应用 "wikilink")。
 
 ## 相关事件

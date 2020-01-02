@@ -1,3 +1,6 @@
+> 本文内容由[OneEleven](https://zh.wikipedia.org/wiki/OneEleven)转换而来。
+
+
 **OneEleven**是一棟位在芝加哥的摩天大樓，舊稱**西偉基111號**及**水景中心**（111 W. Wacker 及Waterview Tower），原計畫建設高度為319公尺（1,047英尺）。2012年後更改原設計方案，建築高度也降低為190公尺（630英尺），共59層，於2014年落成。
 
 ## 建設歷史

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木H族引擎](https://zh.wikipedia.org/wiki/鈴木H族引擎)转换而来。
+
+
 **鈴木H族引擎**是1990年代[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，共通設計為[V型六缸](../Page/V6发动机.md "wikilink")、[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、24汽門、多點燃油噴射（multi-point fuel injection）的結構。H20A型引擎曾和[馬自達汽車共同合作研發](https://zh.wikipedia.org/wiki/馬自達 "wikilink")，故姊妹品乃[馬自達KF型引擎](https://zh.wikipedia.org/wiki/馬自達K族引擎#KF型 "wikilink")。
 
 ## H20A型

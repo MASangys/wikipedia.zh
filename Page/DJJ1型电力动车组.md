@@ -1,3 +1,6 @@
+> 本文内容由[DJJ1型电力动车组](https://zh.wikipedia.org/wiki/DJJ1型电力动车组)转换而来。
+
+
 **DJJ1型“蓝箭”电力动车组**是[中国铁路的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[高速列车之一](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")，由[株洲电力机车厂](https://zh.wikipedia.org/wiki/株洲电力机车厂 "wikilink")、[长春客车厂及](https://zh.wikipedia.org/wiki/长春客车厂 "wikilink")[株洲电力机车研究所于](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")2000年联合研制成功累计生产8组。“蓝箭”电力动车组为[动力集中式的推挽式](https://zh.wikipedia.org/wiki/动力集中式 "wikilink")[电力动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，采用交—直—交流电传动，最高运营速度为200公里/小时。所有“蓝箭”列车早期由[广州中车公司拥有](https://zh.wikipedia.org/wiki/广州中车铁路机车车辆销售租赁有限公司 "wikilink")，2001年起租赁给广深铁路股份有限公司使用，於2006年賣斷，並於2008年起提供予[成都铁路局使用](https://zh.wikipedia.org/wiki/成都铁路局 "wikilink")。2012年11月21日，鉴于“蓝箭号”车底在进行性能评估时已达退役标准，为保证旅客安全，“蓝箭号”不再担当旅客列车任务并正式“退役”，並於2014年7月31日除籍。
 
 ## 发展历史

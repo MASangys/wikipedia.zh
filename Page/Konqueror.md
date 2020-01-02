@@ -1,3 +1,6 @@
+> 本文内容由[Konqueror](https://zh.wikipedia.org/wiki/Konqueror)转换而来。
+
+
 **Konqueror**是[KDE](../Page/KDE.md "wikilink")桌面系统的一部分，主要用于文件管理、各种格式档案的查看，以及网页浏览。Konqueror主要運用于[GNU/Linux和](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[BSD](../Page/BSD.md "wikilink")家族的[操作系统](../Page/操作系统.md "wikilink")，在[微软](../Page/微软.md "wikilink")的[Windows系统也可使用](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Konqueror按照[GPL进行发布](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 在给Konqueror命名上，其命名者跟其它的网页浏览器玩了个文字游戏：首先是[Navigator](../Page/网景导航者.md "wikilink")（意为航海家，[网景公司的浏览器](https://zh.wikipedia.org/wiki/Netscape "wikilink")）、然后是[Explorer](../Page/Internet_Explorer.md "wikilink")（意为探索者），接下来就是Konqueror（Conqueror的变体，意为征服者）；这里首字母取K是为了遵循KDE软件都以K打头的传统。 2005年11月29日KDE開發團隊釋出Konqueror 3.5.1，並成功的排出[Acid2](../Page/Acid2.md "wikilink")的笑臉，雖然測試結果中出現了不該出現的「捲軸」引起爭議，但發起測試的WaSP仍宣佈為合格。使Konqueror為首個通過[Acid2](../Page/Acid2.md "wikilink")測試的開放原始碼GNU/Linux瀏覽器。直至Konqueror 3.5.2已修正捲軸條會出現的問題。

@@ -1,3 +1,6 @@
+> 本文内容由[WPS文字处理系统](https://zh.wikipedia.org/wiki/WPS文字处理系统)转换而来。
+
+
 **WPS文字处理系统**是由[香港金山电脑有限公司](https://zh.wikipedia.org/wiki/金山软件#发展历史 "wikilink")（HONGKONG KINGSUN COMPUTER CO., LTD.）于1988年发布，在[DOS](../Page/DOS.md "wikilink")时代盛行的文书录入工具。全称为Super-WPS文字处理系统，最后的版本是由珠海金山公司发布的NT 1.2。
 
 ## 简述

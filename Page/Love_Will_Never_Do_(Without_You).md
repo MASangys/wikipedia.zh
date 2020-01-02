@@ -1,3 +1,6 @@
+> 本文内容由[Love Will Never Do \(Without You\)](https://zh.wikipedia.org/wiki/Love_Will_Never_Do_\(Without_You\))转换而来。
+
+
 《**愛少了你不完整**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Love Will Never Do (Without You)**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1990年10月發行的單曲，它在美國獲得告示牌單曲榜一週冠軍，它同時也是珍娜·傑克森第5首全美冠軍單曲\[1\]\[2\]。
 
 ## 歌曲介紹

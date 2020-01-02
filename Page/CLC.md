@@ -1,3 +1,6 @@
+> 本文内容由[CLC](https://zh.wikipedia.org/wiki/CLC)转换而来。
+
+
 **CLC**（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂](../Page/Cube娛樂.md "wikilink")旗下的七人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，2015年3月19日，五人出道包括[韓國籍的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[承姬](https://zh.wikipedia.org/wiki/承姬 "wikilink")、[有眞](https://zh.wikipedia.org/wiki/有眞 "wikilink")、[丞延](https://zh.wikipedia.org/wiki/丞延 "wikilink")、[睿恩與](https://zh.wikipedia.org/wiki/睿恩 "wikilink")[泰國籍的](https://zh.wikipedia.org/wiki/泰國 "wikilink")[Sorn](https://zh.wikipedia.org/wiki/Sorn "wikilink")，由承姬擔任隊長。2016年2月29日，加入曾參與[PRODUCE 101的](../Page/PRODUCE_101.md "wikilink")[恩彬與來自](https://zh.wikipedia.org/wiki/恩彬 "wikilink")[香港](../Page/香港.md "wikilink")的[Elkie](../Page/莊錠欣.md "wikilink")，由丞延擔任隊長。
 
 出道前被稱作「Cube Girls」 \[1\]，團名為「**C**rysta**L** **C**lear」之縮寫，期許團員們能像水晶一樣永遠維持在透明潔淨、光芒閃耀的狀態並持續保持魅力的意思\[2\]\[3\] 。

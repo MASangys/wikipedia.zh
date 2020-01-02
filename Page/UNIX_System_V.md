@@ -1,3 +1,6 @@
+> 本文内容由[UNIX System V](https://zh.wikipedia.org/wiki/UNIX_System_V)转换而来。
+
+
 [Unix_history-simple.svg](https://zh.wikipedia.org/wiki/File:Unix_history-simple.svg "fig:Unix_history-simple.svg") **UNIX System V**是[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")众多版本中的一支。它最初由[AT\&T](../Page/AT&T.md "wikilink")开发，在1983年第一次发布，因此也被稱為**AT\&T System V**。一共发行了4个System V的主要版本：版本1、2、3和4。System V Release 4，或者称为SVR4，是最成功的版本，成为一些UNIX共同特性的源头，例如“SysV [初始化](../Page/初始化.md "wikilink")脚本”（`/etc/init.d`），用来控制系统启动和关闭，*System V Interface Definition*（SVID）是一个System V如何工作的标准定义。
 
 AT\&T出售运行System V的专有硬件，但许多（或许是大多数）客户在其上运行一个转售的版本，这个版本基于AT\&T的[实现说明](https://zh.wikipedia.org/wiki/实现说明 "wikilink")。流行的SysV衍生版本包括Dell SVR4和Bull SVR4。当今广泛使用的System V版本是[SCO](https://zh.wikipedia.org/wiki/SCO "wikilink") [OpenServer](../Page/OpenServer.md "wikilink")，基于System V Release 3，以及[SUN](https://zh.wikipedia.org/wiki/SUN "wikilink") [Solaris](../Page/Solaris.md "wikilink")和SCO [UnixWare](https://zh.wikipedia.org/wiki/UnixWare "wikilink")，都基于System V Release 4。

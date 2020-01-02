@@ -1,3 +1,6 @@
+> 本文内容由[WAKE UP \(防彈少年團專輯\)](https://zh.wikipedia.org/wiki/WAKE_UP_\(防彈少年團專輯\))转换而来。
+
+
 《**WAKE UP**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團](../Page/防彈少年團.md "wikilink")首張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年12月24日以三個版本：通常盤、初回限定盤A及初回限定盤B推出\[1\]。三張打入Oricon單曲週榜前十名的單曲：《NO MORE DREAM -Japanese Ver.-》、《BOY IN LUV -Japanese Ver.-》及《DANGER -Japanese Ver.-》在專輯推出前預先發行。
 
 ## 背景

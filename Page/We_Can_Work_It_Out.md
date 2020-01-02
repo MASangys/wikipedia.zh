@@ -1,3 +1,6 @@
+> 本文内容由[We Can Work It Out](https://zh.wikipedia.org/wiki/We_Can_Work_It_Out)转换而来。
+
+
 《****》是一首[披头士乐队歌曲](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，由[列侬-麦卡特尼组合创作](https://zh.wikipedia.org/wiki/列侬-麦卡特尼 "wikilink")，于1965年以[双A面](../Page/A面與B面.md "wikilink")[单曲](../Page/单曲.md "wikilink")形式发行，另一面为《》。两首歌都是在专辑《》的录音期完成的。
 
 ## 参考资料

@@ -1,3 +1,6 @@
+> 本文内容由[P.S. 我愛你](https://zh.wikipedia.org/wiki/P.S._我愛你)转换而来。
+
+
 《**P.S.我愛你**》（）是一部由執導的2007年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[劇情片](https://zh.wikipedia.org/wiki/劇情片 "wikilink")。[劇本是由理查德](https://zh.wikipedia.org/wiki/劇本 "wikilink")·拉格文斯和根據2004年[西西莉雅·艾亨](../Page/西西莉雅·艾亨.md "wikilink")的改編。
 
 ## 演員

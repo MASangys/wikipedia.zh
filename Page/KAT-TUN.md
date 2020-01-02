@@ -1,3 +1,6 @@
+> 本文内容由[KAT-TUN](https://zh.wikipedia.org/wiki/KAT-TUN)转换而来。
+
+
 **KAT-TUN**是日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的藝人組合；於2001年3月16日組成，2006年3月22日正式發行CD出道。
 
 團名原是由6名成員的姓氏羅馬拼音首字母所組成，因為在日文發音中與Cartoon（[卡通](../Page/卡通.md "wikilink")／[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")）及“勝利的運氣”（）相近，而有著像卡通般精采以及勝利的含意；至於KAT-TUN中間的「-」（ハイフン），則代表的是粉絲。

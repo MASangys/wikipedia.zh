@@ -1,3 +1,6 @@
+> 本文内容由[Secret Love](https://zh.wikipedia.org/wiki/Secret_Love)转换而来。
+
+
 《**Secret Love**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") 自2014年6月13日起於每週五晚間10點播出的[獨幕劇](https://zh.wikipedia.org/wiki/獨幕劇 "wikilink")，由《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》的導演[金圭泰](../Page/金圭泰.md "wikilink")執導，[Kara](../Page/Kara.md "wikilink")的五位成員分別擔綱各單元的女主角，唯美的拍攝手法，描述五段充滿不同滋味的初戀愛情故事；男主角由[延宇振](../Page/延宇振.md "wikilink")、[金英光](../Page/金英光.md "wikilink")、[裴秀彬](../Page/裴秀彬.md "wikilink")、[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")擔綱演出。 \[1\] \[2\]
 
 ## 演員陣容

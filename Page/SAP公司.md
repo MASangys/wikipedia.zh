@@ -1,3 +1,6 @@
+> 本文内容由[SAP公司](https://zh.wikipedia.org/wiki/SAP公司)转换而来。
+
+
 **SAP公司**是德国一家软件企业，总部位于德国[巴登符腾堡州](https://zh.wikipedia.org/wiki/巴登符腾堡州 "wikilink")[瓦尔多夫](../Page/瓦尔多夫.md "wikilink")，主营[企业资源管理软件](https://zh.wikipedia.org/wiki/企业资源管理 "wikilink")，在130个国家设有办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx 50股票市场指数的成分股](https://zh.wikipedia.org/wiki/Stoxx_50 "wikilink")。\[2\]
 
 ## 歷史

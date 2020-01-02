@@ -1,3 +1,6 @@
+> 本文内容由[藍光LED](https://zh.wikipedia.org/wiki/藍光LED)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:RBG-LED.jpg "fig:缩略图") **藍光LED**是能發出[藍光](../Page/藍光.md "wikilink")的[LED](https://zh.wikipedia.org/wiki/LED "wikilink")（發光二極體）燈，其發明獲譽為「[愛迪生之後的第二次照明革命](https://zh.wikipedia.org/wiki/愛迪生 "wikilink")」\[1\]。2014年，[天野浩](../Page/天野浩.md "wikilink")与[赤崎勇](../Page/赤崎勇.md "wikilink")、[中村修二](../Page/中村修二.md "wikilink")因「發明高亮度藍色[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")，帶來了節能明亮的白色光源」共同获得[诺贝尔物理学奖](../Page/诺贝尔物理学奖.md "wikilink")\[2\]。藍光LED的發明，使得人類湊齊能發出[三原色光的LED](https://zh.wikipedia.org/wiki/三原色 "wikilink")，得以用LED湊出足夠亮的[白光](https://zh.wikipedia.org/wiki/白光 "wikilink")。而發白光的LED燈的發明，大幅提高人類的照明效率。\[3\]。
 
 ## 發現歷程

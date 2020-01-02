@@ -1,3 +1,6 @@
+> 本文内容由[The Simpsons Guy](https://zh.wikipedia.org/wiki/The_Simpsons_Guy)转换而来。
+
+
 《**The Simpsons Guy**》是[卡通](../Page/卡通.md "wikilink")《[居家男人](https://zh.wikipedia.org/wiki/居家男人 "wikilink")》第十三季第1集的名稱。此集是45分鐘長的《[辛普森一家](../Page/辛普森一家.md "wikilink")》的[跨界作品](../Page/跨界作品.md "wikilink")。\[1\]講述[格里芬一家的車在](https://zh.wikipedia.org/wiki/格里芬家庭 "wikilink")[春田镇郊外被偷竊後](../Page/春田镇_\(辛普森一家\).md "wikilink")，暫時居留於辛普森家所發生的事情。
 
 ## 劇情

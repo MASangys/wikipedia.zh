@@ -1,3 +1,6 @@
+> 本文内容由[BitComet](https://zh.wikipedia.org/wiki/BitComet)转换而来。
+
+
 **比特彗星**（****，缩写：）是一個用C++語言為[Microsoft Windows平台編寫的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[BitTorrent客戶端軟件](https://zh.wikipedia.org/wiki/BitTorrent "wikilink")，也可用于HTTP/FTP下载，并可选装“[eMule插件](https://zh.wikipedia.org/wiki/eMule "wikilink")”通过[电驴网络进行BitTorrent](https://zh.wikipedia.org/wiki/电驴网络 "wikilink")/电驴同时下载。
 
 ## 功能

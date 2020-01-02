@@ -1,3 +1,6 @@
+> 本文内容由[CDR](https://zh.wikipedia.org/wiki/CDR)转换而来。
+
+
 **CDR**可能指：
 
 ## 科技

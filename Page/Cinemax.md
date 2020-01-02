@@ -1,3 +1,6 @@
+> 本文内容由[Cinemax](https://zh.wikipedia.org/wiki/Cinemax)转换而来。
+
+
 **Cinemax**，又稱**Max**，是一個專門播放[電影的](https://zh.wikipedia.org/wiki/電影 "wikilink")[有線電視網](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，客戶需訂購才可收看。Cinemax為[HBO](../Page/HBO.md "wikilink")集團（由[華納媒體](../Page/華納媒體.md "wikilink")所擁有）的max系列的其中一個頻道，從[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[三藩市傳送播放](https://zh.wikipedia.org/wiki/三藩市 "wikilink")。Cinemax在美國還會在深夜播放[色情](../Page/色情.md "wikilink")節目，所以也被人稱作"skin-a-max"（露出最多肌膚）。
 
 ## 歷史

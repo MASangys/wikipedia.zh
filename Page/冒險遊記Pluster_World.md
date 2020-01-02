@@ -1,3 +1,6 @@
+> 本文内容由[冒險遊記Pluster World](https://zh.wikipedia.org/wiki/冒險遊記Pluster_World)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")的[日本電視動畫](../Page/日本電視動畫.md "wikilink")的作品。全52話。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[DC](https://zh.wikipedia.org/wiki/DC)转换而来。
+
+
 **DC**或**D.C.**是多個詞匯的簡寫，可以指：
 
 ## 电器與相關產品

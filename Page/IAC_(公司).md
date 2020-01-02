@@ -1,3 +1,6 @@
+> 本文内容由[IAC \(公司\)](https://zh.wikipedia.org/wiki/IAC_\(公司\))转换而来。
+
+
 **IAC/InterActiveCorp**（亦稱：**IAC**）是一家美國互聯網公司，在全球100多個國家持有150多個商標。\[1\] 其總部位於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。\[2\]
 
 ## 歷史

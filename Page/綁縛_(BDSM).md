@@ -1,3 +1,6 @@
+> 本文内容由[綁縛 \(BDSM\)](https://zh.wikipedia.org/wiki/綁縛_\(BDSM\))转换而来。
+
+
 [Spreizstange_(Bondage).jpg](https://zh.wikipedia.org/wiki/File:Spreizstange_\(Bondage\).jpg "fig:Spreizstange_(Bondage).jpg") [Leather,_Latex,_and_BDSM_pride_-_Light.svg](https://zh.wikipedia.org/wiki/File:Leather,_Latex,_and_BDSM_pride_-_Light.svg "fig:Leather,_Latex,_and_BDSM_pride_-_Light.svg")\]\] **绑缚**是一種人類性活動，以綑綁等約束肢體的方式來達到愉悅感。这是虐恋活动最常见的行为，也是最典型的活动。虐恋活动中，施虐者使用绳索、[手銬](https://zh.wikipedia.org/wiki/手銬#情趣手銬與玩具手銬 "wikilink")、脚镣、枷锁、铁链等用具捆绑、束缚受虐者，造成受虐者无法自由活动，再对被缚的受虐者施加其他项目，例如[打屁股](../Page/打屁股.md "wikilink")、[肛交](../Page/肛交.md "wikilink")和其他项目等等。
 
 绳索捆绑的手法多种多样，除了简单的捆绑手腕之外，还有更多复杂的绑法，最常用的主要有中式的五花大绑、[日式绑缚](../Page/日式绑缚.md "wikilink")和欧式绑缚等，每一种绑法都有很多的种类。甚至有的手法还拥有专门的名称和教学资料，绑缚爱好者社群通常会聚会举办活动，来相互交流、切磋各种捆绑方法。

@@ -1,3 +1,6 @@
+> 本文内容由[AWT](https://zh.wikipedia.org/wiki/AWT)转换而来。
+
+
 [Easy_Java_AWT_example.jpg](https://zh.wikipedia.org/wiki/File:Easy_Java_AWT_example.jpg "fig:Easy_Java_AWT_example.jpg")
 
 **抽象視窗工具組**（**A**bstract **W**indow **T**oolkit=**AWT**）是[Java](../Page/Java.md "wikilink")的平台獨立的[視窗系統](../Page/視窗系統.md "wikilink")， [圖形和](https://zh.wikipedia.org/wiki/圖形 "wikilink")[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[器件工具包](https://zh.wikipedia.org/wiki/器件工具包 "wikilink")。AWT是[Java基礎類](https://zh.wikipedia.org/wiki/JFC "wikilink")（JFC）的一部分，為Java程序提供[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")（GUI）的標準[API](https://zh.wikipedia.org/wiki/API "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[LOVELESS \(漫畫\)](https://zh.wikipedia.org/wiki/LOVELESS_\(漫畫\))转换而来。
+
+
 **LOVELESS**（又名**无爱之战**，原名**LOVELESS**）是[日本](../Page/日本.md "wikilink")漫画家[高河弓](../Page/高河弓.md "wikilink")的漫画作品，该作品自2002年起连载于[Square Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》，当前连载于[日本](../Page/日本.md "wikilink")[一迅社](../Page/一迅社.md "wikilink")的《[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》月刊。漫画作品包括 Toy Master 篇（完结）、Sacrifice 篇（完结）、诞生者篇（完结）和七月篇（连载中）。 该作的 Sacrifice 篇大部分已制作成同名动画，于2005年4月至6月在[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")播出，其後[朝日放送](../Page/朝日放送.md "wikilink")、[名古屋電視台](../Page/名古屋電視台.md "wikilink")和[AT-X](../Page/AT-X.md "wikilink")也陆续播出本作。
 
 ## 简介

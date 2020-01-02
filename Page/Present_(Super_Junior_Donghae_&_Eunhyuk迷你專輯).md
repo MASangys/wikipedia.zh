@@ -1,3 +1,6 @@
+> 本文内容由[Present \(Super Junior Donghae \& Eunhyuk迷你專輯\)](https://zh.wikipedia.org/wiki/Present_\(Super_Junior_Donghae_\&_Eunhyuk迷你專輯\))转换而来。
+
+
 《**Present**》是韓國演唱團體[Super Junior Donghae & Eunhyuk的第一張日語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，2015年4月1日發行\[1\]。該專輯獲頒第30屆[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[2\]。
 
 ## 簡介

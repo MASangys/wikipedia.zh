@@ -1,3 +1,6 @@
+> 本文内容由[KENG](https://zh.wikipedia.org/wiki/KENG)转换而来。
+
+
 **Keng**（），[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")。2008年开始于《少年S》发表作品出道，出生地是[广东](https://zh.wikipedia.org/wiki/广东 "wikilink")[潮州市](../Page/潮州市.md "wikilink")。其代表作有《[魔王条约](https://zh.wikipedia.org/wiki/魔王条约 "wikilink")》和《[将夜](https://zh.wikipedia.org/wiki/将夜 "wikilink")》。
 
 ## 代表作品

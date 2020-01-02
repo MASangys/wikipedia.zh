@@ -1,3 +1,6 @@
+> 本文内容由[Y Angle](https://zh.wikipedia.org/wiki/Y_Angle)转换而来。
+
+
 《**Y Angle**》是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[青少年](../Page/青少年.md "wikilink")資訊節目，接替同類型節目《[激優一族](../Page/激優一族.md "wikilink")》。本節目在2015年1月17日首播，並在2019年11月30日播出最後一集，其後被《[\#一屋後生仔](https://zh.wikipedia.org/wiki/#後生仔傾下偈 "wikilink")》取代。
 
 ## 概要

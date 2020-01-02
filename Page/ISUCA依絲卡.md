@@ -1,3 +1,6 @@
+> 本文内容由[ISUCA依絲卡](https://zh.wikipedia.org/wiki/ISUCA依絲卡)转换而来。
+
+
 《**ISUCA依絲卡**》（）是[高橋脩](../Page/高橋脩.md "wikilink")的日本[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於〈[YOUNG ACE](https://zh.wikipedia.org/wiki/YOUNG_ACE "wikilink")〉2009年Vol.1中開始連載。\[1\]2012年改為隔月連載。
 
 2014年6月決定改編成電視動畫\[2\]，同年10月宣布會於2015年1月播出\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[LIDENFILMS](https://zh.wikipedia.org/wiki/LIDENFILMS)转换而来。
+
+
 **株式會社LIDENFILMS**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")[上荻](../Page/荻窪_\(杉並區\).md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2012年2月\[2\]。的旗下子公司之一。
 
 ## 概要、沿革

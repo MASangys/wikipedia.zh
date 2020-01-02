@@ -1,3 +1,6 @@
+> 本文内容由[UIC铁路货车分类](https://zh.wikipedia.org/wiki/UIC铁路货车分类)转换而来。
+
+
 **UIC铁路货车分类**是一个国际性的字母标记体系，它包含了一款[货运车厢的主要技术特点](https://zh.wikipedia.org/wiki/鐵路貨車 "wikilink")。这些标记适用于在国际中使用的所有[车辆](https://zh.wikipedia.org/wiki/铁路车辆 "wikilink")。
 
 这种分类标记早在1960年以前便由[国际铁路联盟](https://zh.wikipedia.org/wiki/国际铁路联盟 "wikilink")（UIC）开发出来，但直至1964年才普及使用。自1968年起，所有国际铁路联盟和[铁路合作组织](../Page/铁路合作组织.md "wikilink")的相关成员的所有货运车厢都必须印上这类标记。UIC标记主要由一个“类别字母”（大写）以及一个或多个“标记字母”（小写）共同组成，并有助于识别货运车厢的特性，这在装卸和运行过程中显得尤为重要。在UIC分类标记下方还印有[UIC车厢编号](../Page/UIC车厢编号.md "wikilink")，并以此取代过去使用的标记。

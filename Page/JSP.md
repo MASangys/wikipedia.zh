@@ -1,3 +1,6 @@
+> 本文内容由[JSP](https://zh.wikipedia.org/wiki/JSP)转换而来。
+
+
 **JSP**（全称**J**ava**S**erver **P**ages）是由[Sun Microsystems公司主导建立的一种动态网页技术标准](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")。JSP部署于网络服务器上，可以响应客户端发送的请求，并根据请求内容动态地生成[HTML](../Page/HTML.md "wikilink")、[XML](../Page/XML.md "wikilink")或其他格式文档的[Web网页](https://zh.wikipedia.org/wiki/Web "wikilink")，然后返回给请求者。JSP技术以[Java](../Page/Java.md "wikilink")语言作为[脚本语言](../Page/脚本语言.md "wikilink")，为用户的[HTTP请求提供服务](https://zh.wikipedia.org/wiki/HTTP "wikilink")，并能与服务器上的其它Java程序共同处理复杂的业务需求。
 
 JSP将Java代码和特定变动内容嵌入到静态的页面中，实现以静态页面为模板，动态生成其中的部分内容。JSP引入了被称为“JSP动作”的XML标签，用来调用内建功能。另外，可以创建JSP标签库，然后像使用标准HTML或XML标签一样使用它们。标签库能增强功能和服务器性能，而且不受[跨平台问题的限制](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。JSP文件在运行时会被其编译器转换成更原始的[Servlet代码](https://zh.wikipedia.org/wiki/Servlet "wikilink")。JSP编译器可以把JSP文件编译成用Java代码写的Servlet，然后再由Java编译器来编译成能快速执行的二进制[机器码](https://zh.wikipedia.org/wiki/机器码 "wikilink")，也可以直接编译成二进制码。

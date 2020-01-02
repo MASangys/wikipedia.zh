@@ -1,3 +1,6 @@
+> 本文内容由[字面常量 \(C语言\)](https://zh.wikipedia.org/wiki/字面常量_\(C语言\))转换而来。
+
+
 **字面常量**（literal constant），是[C程序设计语言与](https://zh.wikipedia.org/wiki/C程序设计语言 "wikilink")[C++语言的词法上的概念](https://zh.wikipedia.org/wiki/C++语言 "wikilink")（lexical conventions），\[1\]是指源程序中表示固定值的符号（token）。\[2\]
 
 下述内容遵从[C11](../Page/C11.md "wikilink")与[C++11](../Page/C++11.md "wikilink")语言标准。

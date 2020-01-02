@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士×假面騎士 Drive \& 鎧武 MOVIE大戰 Full Throttle](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Drive_\&_鎧武_MOVIE大戰_Full_Throttle)转换而来。
+
+
 《**假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle**》（），是日本特攝節目《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》和《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》聯動劇場版，日本地區於2014年12月13日上映。
 
 本作劇場版的口號為「鎧武、最後的花道！最後的舞台！」「Drive、史上最大的事件\! 怪盜・Lupin上場！」、「不會停步！水果．汽車一起炸裂！」。

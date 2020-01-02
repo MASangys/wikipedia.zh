@@ -1,3 +1,6 @@
+> 本文内容由[SMART-1](https://zh.wikipedia.org/wiki/SMART-1)转换而来。
+
+
 **SMART-1**或**智能1號**是[欧洲空间局](../Page/欧洲空间局.md "wikilink")一个借助[太阳能](https://zh.wikipedia.org/wiki/太阳能 "wikilink")[离子推进器进入](https://zh.wikipedia.org/wiki/离子推进器 "wikilink")[月球](../Page/月球.md "wikilink")[轨道的环月](https://zh.wikipedia.org/wiki/轨道 "wikilink")[人造卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，该探测器由[瑞典](../Page/瑞典.md "wikilink")负责设计，于2003年9月27日23时14分（[UTC](../Page/协调世界时.md "wikilink")）发射升空。'"SMART'"是**用于先进技术研究的小型任务**（**S**mall **M**issions for **A**dvanced **R**esearch in **T**echnology）的缩写。（[LISA Pathfinder是智能](https://zh.wikipedia.org/wiki/LISA_Pathfinder "wikilink")2號的另一个名字，计划其将于2008年发射升空）SMART-1是欧洲第一个飞向[月球](../Page/月球.md "wikilink")的[太空飞船](https://zh.wikipedia.org/wiki/太空飞船 "wikilink")。该飞船于2006年9月3日5时42分（[UTC](../Page/协调世界时.md "wikilink")）成功撞击月球表面，为它的探月任务划上句号。
 
 ## 飞行器设计

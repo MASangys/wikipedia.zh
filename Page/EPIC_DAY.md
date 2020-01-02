@@ -1,3 +1,6 @@
+> 本文内容由[EPIC DAY](https://zh.wikipedia.org/wiki/EPIC_DAY)转换而来。
+
+
 《**EPIC DAY**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十九张录音室专辑。2015年3月4日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 簡介

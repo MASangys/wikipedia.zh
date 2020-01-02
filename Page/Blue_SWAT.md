@@ -1,3 +1,6 @@
+> 本文内容由[Blue SWAT](https://zh.wikipedia.org/wiki/Blue_SWAT)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

@@ -1,3 +1,6 @@
+> 本文内容由[BOYFRIEND in Wonderland](https://zh.wikipedia.org/wiki/BOYFRIEND_in_Wonderland)转换而来。
+
+
 《**BOYFRIEND in Wonderland**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND第](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")4枚迷你韓語專輯，於2015年3月9日發行，主打歌曲為《BOUNCE》\[1\]。
 
 ## 背景

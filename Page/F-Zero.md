@@ -1,3 +1,6 @@
+> 本文内容由[F-Zero](https://zh.wikipedia.org/wiki/F-Zero)转换而来。
+
+
 《**F-Zero**》是一款未来主义[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")，由[任天堂情报开发本部](https://zh.wikipedia.org/wiki/任天堂情报开发本部 "wikilink")（任天堂EAD）开发，[任天堂](../Page/任天堂.md "wikilink")在[超级任天堂平台发行](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。游戏于1990年在日本推出，为日本超级任天堂的[首发游戏之一](https://zh.wikipedia.org/wiki/首发游戏 "wikilink")。游戏于1991年在北美，1992年在欧洲发行。游戏于2006年在[Wii](../Page/Wii.md "wikilink")[Virtual Console再版](../Page/Virtual_Console.md "wikilink")，2013年在[Wii U](../Page/Wii_U.md "wikilink") Virtual Console再版。
 
 ## 参考资料

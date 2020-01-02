@@ -1,3 +1,6 @@
+> 本文内容由[JR福知山線出軌事故](https://zh.wikipedia.org/wiki/JR福知山線出軌事故)转换而来。
+
+
 **JR福知山線出軌事故**（）是發生在2005年4月25日上午9時18分（[日本標準時間](../Page/日本標準時間.md "wikilink")），於日本[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")，一列[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[福知山線](../Page/福知山線.md "wikilink")（官方暱稱為「JR寶塚線」）的[快速電車因為](https://zh.wikipedia.org/wiki/快速電車 "wikilink")[脫軌撞擊路旁](https://zh.wikipedia.org/wiki/脫軌 "wikilink")[公寓](../Page/公寓.md "wikilink")大樓而造成107人死亡，562人受傷的重大鐵路事故。
 
 ## 事故概述

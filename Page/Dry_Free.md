@@ -1,3 +1,6 @@
+> 本文内容由[Dry Free](https://zh.wikipedia.org/wiki/Dry_Free)转换而来。
+
+
 《**Dry Free**》是香港組合[Dry的第三張音樂專輯](https://zh.wikipedia.org/wiki/Dry_\(組合\) "wikilink")，亦是他們最後一張唱片，於1998年8月發行。
 
 ## 曲目

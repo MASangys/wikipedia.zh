@@ -1,3 +1,6 @@
+> 本文内容由[PriministAr](https://zh.wikipedia.org/wiki/PriministAr)转换而来。
+
+
 《**PriministAr**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2013年8月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\][DMM.com](../Page/DMM.com.md "wikilink")在2015年2月19日發售全年齡版。\[3\]2015年11月27日發售《PriministAr MiniFanDisk 枝那森千里＆駒萱野Ver.》。\[4\]\[5\]ENTERGRAM在2016年9月29日發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]
 
 ## 故事介绍

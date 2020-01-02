@@ -1,3 +1,6 @@
+> 本文内容由[富士Fujicabin](https://zh.wikipedia.org/wiki/富士Fujicabin)转换而来。
+
+
 **富士Fujicabin**（）乃是1950年代[日本](../Page/日本.md "wikilink")[富士汽車](../Page/富士汽車.md "wikilink")開發的前二輪、後單輪的雙人座[輕型車](../Page/輕型車.md "wikilink")（或稱[迷你車](https://zh.wikipedia.org/wiki/迷你車 "wikilink")、），這輛車是日本輕型車開發摸索期的代表作之一，雖然單體硬殼式結構車體以[FRP打造](https://zh.wikipedia.org/wiki/玻璃鋼 "wikilink")，可惜因為馬力不足及操控安定性不佳，落得商業失敗的下場。
 
 ## 概要

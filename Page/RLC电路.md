@@ -1,3 +1,6 @@
+> 本文内容由[RLC电路](https://zh.wikipedia.org/wiki/RLC电路)转换而来。
+
+
 [RLC_series.png](https://zh.wikipedia.org/wiki/File:RLC_series.png "fig:RLC_series.png") **RLC电路**是一种由[电阻](../Page/电阻.md "wikilink")（R）、[电感](../Page/电感.md "wikilink")（L）、[电容](https://zh.wikipedia.org/wiki/电容 "wikilink")（C）组成的[电路](../Page/电路.md "wikilink")结构。[LC电路](../Page/LC电路.md "wikilink")是其简单的例子。RLC电路也被称为二阶电路，电路中的[电压或者](https://zh.wikipedia.org/wiki/电压 "wikilink")[电流](../Page/电流.md "wikilink")是一個二阶[微分方程](../Page/微分方程.md "wikilink")的解，而其係數是由电路结构决定。
 
 若电路元件都视为线性元件时，一个RLC电路可以被视作电子[谐波振荡器](https://zh.wikipedia.org/wiki/谐波振荡器 "wikilink")。

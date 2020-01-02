@@ -1,3 +1,6 @@
+> 本文内容由[AirPort](https://zh.wikipedia.org/wiki/AirPort)转换而来。
+
+
 {{ Otheruses|subject=蘋果電腦之無線網路系統|other=Airport中文解釋| 機場 }}  **AirPort**是[蘋果電腦以](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[IEEE 802.11](../Page/IEEE_802.11.md "wikilink")（又稱[Wi-Fi](../Page/Wi-Fi.md "wikilink")）標準為基礎的[無線網路系統](https://zh.wikipedia.org/wiki/無線網路 "wikilink")，也通過認證能夠與其他的802.11裝置相容。最新的產品家族中，是以[IEEE 802.11ac規格為基礎](../Page/IEEE_802.11ac.md "wikilink")，提供最高每秒1.3Gbps的速度，并且能夠與舊的產品相容與共用。
 
 有些容易混淆的是，AirPort和**AirPort Extreme**也會被用來當作協定（個別使用 802.11b 和 802.11g），擴充卡以及基地台。

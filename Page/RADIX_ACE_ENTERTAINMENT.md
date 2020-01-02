@@ -1,3 +1,6 @@
+> 本文内容由[RADIX ACE ENTERTAINMENT](https://zh.wikipedia.org/wiki/RADIX_ACE_ENTERTAINMENT)转换而来。
+
+
 **株式會社RADIX ACE ENTERTAINMENT**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")，至2006年10月1日為止主要從事動畫製作的日本動畫企業。
 
 ## 概要、沿革

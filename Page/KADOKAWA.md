@@ -1,3 +1,6 @@
+> 本文内容由[KADOKAWA](https://zh.wikipedia.org/wiki/KADOKAWA)转换而来。
+
+
 **株式會社KADOKAWA**（，）是一家[日本](../Page/日本.md "wikilink")[出版公司](https://zh.wikipedia.org/wiki/出版 "wikilink")，是[KADOKAWA集团的核心](../Page/角川集團.md "wikilink")，拥有包含[角川書店](../Page/角川書店.md "wikilink")在内的诸多品牌。
 
 2014年10月1日，株式会社KADOKAWA与[株式会社多玩国合并后](../Page/多玩國.md "wikilink")，共同出资成立[株式会社角川多玩国](../Page/角川多玩国.md "wikilink")，两家公司都成为角川多玩国的子公司。2019年7月1日，株式会社KADOKAWA更改商号为株式会社KADOKAWA Future Publishing，而母公司角川多玩国承继了子公司KADOKAWA原来的事业，并更改商号为株式会社KADOKAWA\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Dilemma \(INFINITE單曲\)](https://zh.wikipedia.org/wiki/Dilemma_\(INFINITE單曲\))转换而来。
+
+
 《**Dilemma**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第五張日語單曲，由[布袋寅泰](../Page/布袋寅泰.md "wikilink")作曲\[1\]、（）填詞，並在2014年12月24日以兩個不同版本推出\[2\]。
 
 ## 背景

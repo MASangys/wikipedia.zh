@@ -1,3 +1,6 @@
+> 本文内容由[任务管理器 \(Windows元件\)](https://zh.wikipedia.org/wiki/任务管理器_\(Windows元件\))转换而来。
+
+
 **工作管理員**（），是在[Windows系统中管理应用程式和處理程序的工具](https://zh.wikipedia.org/wiki/微軟視窗 "wikilink")，通常由Windows自带，也有提供增强功能的第三方軟體。任务管理器可以让用户查看当前运行的處理程序。它提供有关电脑性能和运行软件的信息，包括运行进程的名称，CPU负载，内存使用，I/O情况，已登录的用户和 Windows 服务。任务管理器也可以用来设置进程优先级，处理器相关性，启动和停止服务，强制终止进程。此程序在最新的Windows上能通过按然后输入`taskmgr.exe`；按[{{Key press并选取](https://zh.wikipedia.org/wiki/Control-Alt-Delete "wikilink")“任务管理器”；按；或右击[Windows任务栏并选取](https://zh.wikipedia.org/wiki/任务栏#Microsoft_Windows "wikilink")“任务管理器”。任务管理器在Windows NT 4.0以现在的形式被加入。以前的版本的 [Windows NT](../Page/Windows_NT.md "wikilink") 和 [Windows 3.x](../Page/Windows_3.x.md "wikilink") 则自带任务列表，它能够列出当前正在运行的进程，并终止它们，也可以创建一个新的进程。[Windows 9x](../Page/Windows_9x.md "wikilink") 有一个被称为“ 关闭程序”的工具，该工具列出当前正在运行的程序，并提供关闭程序以及关闭电脑的选项。\[1\]
 
 ## 功能

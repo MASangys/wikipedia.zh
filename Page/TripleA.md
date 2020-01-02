@@ -1,3 +1,6 @@
+> 本文内容由[TripleA](https://zh.wikipedia.org/wiki/TripleA)转换而来。
+
+
 **TripleA**是一款基于[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")的自由[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")，规则基于桌面[图版游戏](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[轴心国与同盟国](https://zh.wikipedia.org/wiki/轴心国与同盟国 "wikilink")。
 
 TripleA使用[Java](../Page/Java.md "wikilink")语言编写，可以在任何支持Java的平台（包括[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）上运行\[1\]。

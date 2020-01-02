@@ -1,3 +1,6 @@
+> 本文内容由[Somewhere I Belong](https://zh.wikipedia.org/wiki/Somewhere_I_Belong)转换而来。
+
+
 “**Somewhere I Belong**”（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：我的歸屬），于2003年3月17日发售。是[天空之城—美特拉](../Page/天空之城—美特拉.md "wikilink")专辑的第三首歌曲，也是此专辑的首张单曲 。
 
 ## MV

@@ -1,3 +1,6 @@
+> 本文内容由[X.Org Server](https://zh.wikipedia.org/wiki/X.Org_Server)转换而来。
+
+
 **X.Org Server**（全称）是[X Window System的官方](https://zh.wikipedia.org/wiki/X_Window_System "wikilink")[参考實作](https://zh.wikipedia.org/wiki/参考實作 "wikilink")，它是[开放源代码](../Page/开放源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")。
 
 这个项目由[X.Org基金会](../Page/X.Org基金会.md "wikilink")运作，存放于[freedesktop.org的主机上](https://zh.wikipedia.org/wiki/freedesktop.org "wikilink")。

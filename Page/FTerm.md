@@ -1,3 +1,6 @@
+> 本文内容由[FTerm](https://zh.wikipedia.org/wiki/FTerm)转换而来。
+
+
 **FTerm**是一個通用仿真[終端](../Page/終端.md "wikilink")軟件。FTerm最初是由[浙江大學笑書亭BBS站長fuse開發用作登錄](https://zh.wikipedia.org/wiki/浙江大學 "wikilink")[笑書亭BBS的工具](https://zh.wikipedia.org/wiki/笑書亭BBS "wikilink")，隨著版本發展，它除了可用作為[BBS](../Page/BBS.md "wikilink")客戶端，還可以遠程登錄提供終端服務的各種[UNIX](../Page/UNIX.md "wikilink")類系統主機。主要開發者有fuse和[水木清華BBS的kxn](https://zh.wikipedia.org/wiki/水木清華BBS "wikilink")。
 
 FTerm采用[Delphi](../Page/Delphi.md "wikilink")作開發環境，核心代碼由Francois Piette編寫的ICS[控件](../Page/控件.md "wikilink")衍生並作較大修改，目前此部分代碼為[開放源代碼](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")，2007年4月3日發布最後的版本2.5.0.154版。

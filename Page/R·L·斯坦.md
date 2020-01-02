@@ -1,3 +1,6 @@
+> 本文内容由[R·L·斯坦](https://zh.wikipedia.org/wiki/R·L·斯坦)转换而来。
+
+
 **羅伯特·勞倫斯·斯坦**（**Robert Lawrence Stine**，)，\[1\] 常稱**R·L·史坦恩**（**R. L. Stine**）和**約維亞·鮑勃·斯坦**（**Jovial Bob Stine**），是一位[猶太裔美國](https://zh.wikipedia.org/wiki/猶太裔美國人 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，被稱為“兒童文學界的[史蒂芬·金](https://zh.wikipedia.org/wiki/史蒂芬·金 "wikilink")”。\[2\] 他主要創作兒童[恐怖小說](../Page/恐怖小說.md "wikilink")，以寫就暢銷書《[雞皮疙瘩系列](../Page/雞皮疙瘩_\(小說\).md "wikilink")》出名，這部書共有32個語言版本，截止2014年約已出版3.5億冊。
 
 ## 早年

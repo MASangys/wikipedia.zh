@@ -1,3 +1,6 @@
+> 本文内容由[西蒙·J·史密斯](https://zh.wikipedia.org/wiki/西蒙·J·史密斯)转换而来。
+
+
 **西蒙·J·史密斯** （Simon J. Smith）是一位英国动画师、电影导演和配音员，效力于[梦工厂动画](https://zh.wikipedia.org/wiki/梦工厂动画 "wikilink")。
 
 ## 作品

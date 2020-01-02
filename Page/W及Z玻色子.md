@@ -1,3 +1,6 @@
+> 本文内容由[W及Z玻色子](https://zh.wikipedia.org/wiki/W及Z玻色子)转换而来。
+
+
 在[物理學中](https://zh.wikipedia.org/wiki/物理學 "wikilink")，**W及Z玻色子**（boson）是負責傳遞[弱核力的](https://zh.wikipedia.org/wiki/弱核力 "wikilink")[基本粒子](../Page/基本粒子.md "wikilink")。它們是1983年在[歐洲核子研究組織](../Page/歐洲核子研究組織.md "wikilink")發現的，被認為是[粒子物理](https://zh.wikipedia.org/wiki/粒子物理 "wikilink")[標準模型的一大勝利](https://zh.wikipedia.org/wiki/標準模型 "wikilink")。
 
 **W玻色子**是因弱核力的“弱”（**W**eak）字而命名的。而**Z玻色子**則半幽默地因是“最後一個要發現的粒子”而名。另一個說法是因Z玻色子有零（**Z**ero）[電荷](../Page/電荷.md "wikilink")而得名。

@@ -1,3 +1,6 @@
+> 本文内容由[IBM PC兼容机](https://zh.wikipedia.org/wiki/IBM_PC兼容机)转换而来。
+
+
 [IBM_PC_5150.jpg](https://zh.wikipedia.org/wiki/File:IBM_PC_5150.jpg "fig:IBM_PC_5150.jpg") [Amiga_1000_system_with_sidecar.jpg](https://zh.wikipedia.org/wiki/File:Amiga_1000_system_with_sidecar.jpg "fig:Amiga_1000_system_with_sidecar.jpg")推出的1000型電腦可用外掛右方機箱的方式成為IBM PC兼容机\]\] **IBM PC兼容机**（），是指与IBM的PC机兼容的[个人电脑](../Page/个人电脑.md "wikilink")。早期的IBM兼容机主要是基于[x86系列](https://zh.wikipedia.org/wiki/x86 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，使用[ISA总线](https://zh.wikipedia.org/wiki/ISA总线 "wikilink")，能够运行[PC-DOS](../Page/PC-DOS.md "wikilink")／[MS-DOS](../Page/MS-DOS.md "wikilink")系统。
 
 “IBM PC兼容机”一般用于指[80486及之前的PC机](https://zh.wikipedia.org/wiki/80486 "wikilink")，之后渐渐代之以“[标准PC](https://zh.wikipedia.org/wiki/标准PC "wikilink")”的说法。

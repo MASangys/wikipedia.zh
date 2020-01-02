@@ -1,3 +1,6 @@
+> 本文内容由[NBA年度最佳第六人](https://zh.wikipedia.org/wiki/NBA年度最佳第六人)转换而来。
+
+
 **NBA年度最佳第六人**（）是[美国国家篮球协会从](../Page/NBA.md "wikilink")[1982-1983年NBA赛季开始颁发的年度奖项](https://zh.wikipedia.org/wiki/1982-83_NBA赛季 "wikilink")，旨在表彰[赛季中表现最优异的替补球员](https://zh.wikipedia.org/wiki/NBA赛季列表 "wikilink")（第六人）。奖项由美加两国各地的体育记者和广播员共同投票选出，每人可以选出自己心目中的第一、第二和第三名。每张第一名选票相当于五分，第二名相当于三分，第三名一分。无论第一名选票归属几何，都是最终得分最高的球员获奖。此外，角逐奖项的球员在整个赛季作为替补球员的比赛场数必须多于首发场次\[1\]。
 
 从奖项设立至2018年止，共有27名球员获得过最佳第六人奖。[贾马尔·克劳福德](../Page/贾马尔·克劳福德.md "wikilink")、[路·威廉姆斯共有三次获奖](https://zh.wikipedia.org/wiki/路·威廉姆斯 "wikilink")，比其他球员都多。[凯文·麦克海尔](https://zh.wikipedia.org/wiki/凯文·麦克海尔 "wikilink")、[里奇·皮尔斯和](https://zh.wikipedia.org/wiki/里奇·皮尔斯 "wikilink")[德特夫·史伦夫都曾两次获奖](https://zh.wikipedia.org/wiki/德特夫·史伦夫 "wikilink")。麦克海尔和[比尔·沃尔顿是所有最佳第六人中仅有的两名已入选](https://zh.wikipedia.org/wiki/比尔·沃尔顿 "wikilink")[篮球名人堂的运动员](../Page/奈史密斯篮球名人纪念堂.md "wikilink")，沃尔顿和[詹姆士·哈登曾获](https://zh.wikipedia.org/wiki/詹姆士·哈登 "wikilink")[NBA最有价值球员奖的球员](https://zh.wikipedia.org/wiki/NBA最有价值球员 "wikilink")\[2\]。

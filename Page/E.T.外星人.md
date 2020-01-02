@@ -1,3 +1,6 @@
+> 本文内容由[E.T.外星人](https://zh.wikipedia.org/wiki/E.T.外星人)转换而来。
+
+
 《**E.T.外星人**》（）是[1982年](https://zh.wikipedia.org/wiki/1982年电影 "wikilink")[美国](../Page/美国电影.md "wikilink")[科幻电影](../Page/科幻电影.md "wikilink")，由[史蒂文·斯皮尔伯格执导并与](https://zh.wikipedia.org/wiki/史蒂文·斯皮尔伯格 "wikilink")[凯瑟琳·肯尼迪一起担任](https://zh.wikipedia.org/wiki/凯瑟琳·肯尼迪_\(制片人\) "wikilink")[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")，梅丽莎·马西森[编剧](https://zh.wikipedia.org/wiki/编剧 "wikilink")，亨利·托马斯、迪·沃伦斯、罗伯特·麦克纳夫顿（）、[德鲁·巴里摩尔和彼德](https://zh.wikipedia.org/wiki/德鲁·巴里摩尔 "wikilink")·考约特主演。讲述了名叫埃利奥特的内向男孩与被困在地球的善良[外星人成为朋友的故事](../Page/外星生命.md "wikilink")。埃利奥特给外星人起名叫“”（英文“”的简称，意为外星人），他与自己的哥哥和妹妹联合起来帮助外星人找到回家的路，并且还要避免被母亲及[政府发现](https://zh.wikipedia.org/wiki/美国联邦政府 "wikilink")。
 
 本片的创作理念源于斯皮尔伯格在[父母于](https://zh.wikipedia.org/wiki/父母 "wikilink")1960年[离婚后想像出来的朋友](https://zh.wikipedia.org/wiki/离婚 "wikilink")。1980年，他与马西森会面并在已陷入僵局的科幻[恐怖片项目](https://zh.wikipedia.org/wiki/恐怖片 "wikilink")《夜空》（）基础上发展出新的故事。影片于1981年9月到12月期间在[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")进行摄制，拍摄成本为1050万[美元](../Page/美元.md "wikilink")。与其他大部分电影不同，本片基本上是按时间顺序拍摄的，这样有利于小演员们给出更具可信度的演出。

@@ -1,3 +1,6 @@
+> 本文内容由[Dry One](https://zh.wikipedia.org/wiki/Dry_One)转换而来。
+
+
 《**Dry One**》是香港組合[Dry的第一張音樂專輯](https://zh.wikipedia.org/wiki/Dry_\(組合\) "wikilink")，於1997年3月發行。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Susie](https://zh.wikipedia.org/wiki/Susie)转换而来。
+
+
 **Susie**是一個基於[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統的免費的電腦繪圖觀看程式](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[日本](../Page/日本.md "wikilink")的竹村嘉人製作。
 
 对应[16位操作系统](https://zh.wikipedia.org/wiki/16位 "wikilink")（[Windows 3.1等](https://zh.wikipedia.org/wiki/Windows_3.1 "wikilink")）版本的命名为Susie，对应[32位操作系统](https://zh.wikipedia.org/wiki/32位 "wikilink")（[Windows XP等](../Page/Windows_XP.md "wikilink")）的版本命名为Susie32。

@@ -1,3 +1,6 @@
+> 本文内容由[Time Works Wonders](https://zh.wikipedia.org/wiki/Time_Works_Wonders)转换而来。
+
+
 《**Time Works Wonders**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第42张[单曲](../Page/单曲.md "wikilink")。于2014年11月5日由[avex trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

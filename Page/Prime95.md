@@ -1,3 +1,6 @@
+> 本文内容由[Prime95](https://zh.wikipedia.org/wiki/Prime95)转换而来。
+
+
 **Prime95**是一款运行于[Windows中的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[开源软件](../Page/开源软件.md "wikilink")，由寻找[梅森素数](../Page/梅森素数.md "wikilink")的[分布式计算](../Page/分布式计算.md "wikilink")项目[GIMPS的](https://zh.wikipedia.org/wiki/GIMPS "wikilink")[乔治·沃特曼](../Page/乔治·沃特曼.md "wikilink")编写。
 
 **Prime95**的另外一个作用是用于测试计算机系统的稳定性。由于该软件需要进行大量的运算工作，所以可以有效的测试计算机系统的稳定性。在许多的测试中被使用。

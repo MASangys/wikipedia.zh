@@ -1,3 +1,6 @@
+> 本文内容由[GENERATIONS \(GENERATIONS專輯\)](https://zh.wikipedia.org/wiki/GENERATIONS_\(GENERATIONS專輯\))转换而来。
+
+
 《**GENERATIONS**》（放浪新世代）是[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")1張原創專輯。於2013年11月13日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Opteron](https://zh.wikipedia.org/wiki/Opteron)转换而来。
+
+
 [AMD_Opteron_Six_Cores_Angle.jpg](https://zh.wikipedia.org/wiki/File:AMD_Opteron_Six_Cores_Angle.jpg "fig:AMD_Opteron_Six_Cores_Angle.jpg") **Opteron**是美國[AMD公司一系列的](https://zh.wikipedia.org/wiki/AMD "wikilink")[64位元](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，中文名为**皓龙**。於2003年4月22日正式推出。Opteron處理器主要用於多路[伺服器的領域上](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。最早的Opteron處理器採用了[K8微處理器架構](../Page/AMD_K8.md "wikilink")，及至2007年後期逐步過渡至[K10微處理器架構](https://zh.wikipedia.org/wiki/K10 "wikilink")。目前最新的Opteron採用的是2011年發表的[Bulldozer微架構及其改版](https://zh.wikipedia.org/wiki/Bulldozer微架構 "wikilink")。除了x86及x86-64以外，還發售過使用[ARM架構](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")（AArch64、ARMv8）的機種。
 
 其主要競爭對手為[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Xeon處理器系列](https://zh.wikipedia.org/wiki/Xeon "wikilink")。原定Opteron將會採用Zen微架構打造，取代Bulldozer/Piledriver微架構的產品，不過最終AMD決定將推出十四年之久的本系列終止，以採用Zen微架構打造的[EPYC系列取代之](../Page/AMD_Epyc.md "wikilink")。

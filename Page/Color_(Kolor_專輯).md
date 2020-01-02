@@ -1,3 +1,6 @@
+> 本文内容由[Color \(Kolor 專輯\)](https://zh.wikipedia.org/wiki/Color_\(Kolor_專輯\))转换而来。
+
+
 《**Color**》為一張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2007年7月10日發行，為[香港](../Page/香港.md "wikilink")組合[Kolor](../Page/Kolor.md "wikilink")推出的首張粵語大碟。
 
 ## 介紹

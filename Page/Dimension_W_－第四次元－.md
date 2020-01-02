@@ -1,3 +1,6 @@
+> 本文内容由[Dimension W －第四次元－](https://zh.wikipedia.org/wiki/Dimension_W_－第四次元－)转换而来。
+
+
 《**Dimension W －第四次元－**》是的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[1\]，[史克威爾艾尼克斯出版](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，2011年9月在《[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》開始連載。2015年7月公布將改編為動畫的消息\[2\]。
 
 ## 故事簡介

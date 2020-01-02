@@ -1,3 +1,6 @@
+> 本文内容由[ViBe](https://zh.wikipedia.org/wiki/ViBe)转换而来。
+
+
 **ViBe**是一种在IEEE [ICASSP](https://zh.wikipedia.org/wiki/ICASSP "wikilink") 2009大会中提出并在此后发布版本中改进了的[背景剪除](https://zh.wikipedia.org/wiki/背景剪除 "wikilink")[算法](../Page/算法.md "wikilink")。\[1\]\[2\]\[3\]\[4\] 更确切地说，它是从运动图像中提取背景信息的软件模块。它由比利时[列日大学](../Page/列日大学.md "wikilink")的Montefiore研究所的Oliver Barnich和Marc Van Droogenbroeck开发。\[5\]
 
 ViBe已获得专利：\[6\] 专利涵盖各个方面，如随机置换、空间扩散和非时序处理。

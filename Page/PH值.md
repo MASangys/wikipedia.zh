@@ -1,3 +1,6 @@
+> 本文内容由[PH值](https://zh.wikipedia.org/wiki/PH值)转换而来。
+
+
 **pH**，亦称**pH值**、**氢离子浓度指数**、**酸鹼值**\[1\]、**\[-{离}-巠\]（音<span title=líng>ㄌㄧㄥˊ</span>）標值**\[2\]，是[溶液](../Page/溶液.md "wikilink")中[氢](../Page/氢.md "wikilink")[离子](../Page/离子.md "wikilink")[活度的一种标度](https://zh.wikipedia.org/wiki/活度 "wikilink")，也就是通常意义上溶液[酸](../Page/酸.md "wikilink")[碱](../Page/碱.md "wikilink")程度的衡量标准。这个概念是1909年由[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[生物化学](../Page/生物化学.md "wikilink")家[瑟倫·索倫森](../Page/瑟倫·索倫森.md "wikilink")提出的。「pH」中的「H」代表氫離子（H<sup>+</sup>），而「p」的來源則有幾種說法。第一種稱p代表德语「Potenz」，意思是力度、強度；第二種稱pH代表[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「pondus hydrogenii」，即「氫的量」；第三種認為p只是索倫森随意选定的符号，因为他也用了q。现今的化学界把p加在[无量纲量](../Page/无量纲量.md "wikilink")前面表示该量的负[对数](https://zh.wikipedia.org/wiki/对数 "wikilink")。
 
 通常情况下（25[℃](https://zh.wikipedia.org/wiki/摄氏度 "wikilink")、298[K左右](../Page/开尔文.md "wikilink")），当pH小于7的时候，溶液呈[酸性](https://zh.wikipedia.org/wiki/酸性 "wikilink")，当pH大于7的时候，溶液呈[碱性](https://zh.wikipedia.org/wiki/碱性 "wikilink")，当pH等于7的时候，溶液为[中性](https://zh.wikipedia.org/wiki/中性 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Apport](https://zh.wikipedia.org/wiki/Apport)转换而来。
+
+
 **Apport**是一個在類似[Unix環境的](https://zh.wikipedia.org/wiki/Unix "wikilink")[GNOME](../Page/GNOME.md "wikilink")[桌面](https://zh.wikipedia.org/wiki/桌面 "wikilink")[应用软件環境執行的](https://zh.wikipedia.org/wiki/应用软件 "wikilink")[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")，用於應用程序的[錯誤報告](https://zh.wikipedia.org/wiki/錯誤報告 "wikilink")。Apport有三個界面：分別是一個[命令列界面及兩個分別用](https://zh.wikipedia.org/wiki/命令列界面 "wikilink")[GTK+及](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Qt4編寫的GUI界面](https://zh.wikipedia.org/wiki/Qt4 "wikilink")。該軟件的第一個發布版本發布於2006年7月10日，在這個計劃公佈概念之後的一年\[1\]。1.0版本於2009年4月7日發佈。
 
 ## 元件

@@ -1,3 +1,6 @@
+> 本文内容由[XONE](https://zh.wikipedia.org/wiki/XONE)转换而来。
+
+
 **XONE**是一款免費通話APP，於2014年1月誕生。用戶間可以通過[互聯網在不額外增加費用情況下與其他用戶進行](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[語音](../Page/語音.md "wikilink")通話。XONE強調撥打全世界的手機或市話全部免費暢打。除了語音通話功能之外，XONE還是一個內容平台，藉由[大數據](../Page/大數據.md "wikilink")分析技術，學習使用者的瀏覽習慣，成為個人專屬的行動資訊平台。
 
 XONE的語音通話最不一樣在於不像[LINE的通話前提必須雙方皆須下載](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")[LINE的軟體](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")，而[Skype必須使用現金儲值兌換成點數才能進行撥打非](../Page/Skype_for_Business.md "wikilink")[Skype的電話](../Page/Skype_for_Business.md "wikilink")，XONE的模式類似WhatsCall，而XONE的創立時間也較WhatsCall來得早，XONE更是台灣土生土長的APP。

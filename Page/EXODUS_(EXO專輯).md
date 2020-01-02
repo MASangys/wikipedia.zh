@@ -1,3 +1,6 @@
+> 本文内容由[EXODUS \(EXO專輯\)](https://zh.wikipedia.org/wiki/EXODUS_\(EXO專輯\))转换而来。
+
+
 《**EXODUS**》是南韓偶像團體[EXO](../Page/EXO.md "wikilink")第二張正規專輯。距離第二張迷你專輯《[Overdose](https://zh.wikipedia.org/wiki/EXO音乐作品列表 "wikilink")》有10個月之久，於2015年3月30日發行。改版專輯《LOVE ME RIGHT》於2015年6月3日發行。
 
 ## 簡介

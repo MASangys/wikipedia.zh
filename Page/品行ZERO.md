@@ -1,3 +1,6 @@
+> 本文内容由[品行ZERO](https://zh.wikipedia.org/wiki/品行ZERO)转换而来。
+
+
 《**品行ZERO**》（）是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Block B子團體](../Page/Block_B.md "wikilink")[BASTARZ](../Page/BASTARZ.md "wikilink")首張韓語迷你專輯，於2015年4月14日發行，主打歌曲為專輯同名歌曲《品行ZERO》\[1\]。
 
 ## 背景

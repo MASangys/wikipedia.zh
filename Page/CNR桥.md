@@ -1,3 +1,6 @@
+> 本文内容由[CNR桥](https://zh.wikipedia.org/wiki/CNR桥)转换而来。
+
+
 **CNR桥**（）是[加拿大](../Page/加拿大.md "wikilink")[卑诗省](https://zh.wikipedia.org/wiki/卑诗省 "wikilink")[新威斯敏斯特](../Page/新威斯敏斯特.md "wikilink")的一个跨越[菲沙河北汊的钢桁架](https://zh.wikipedia.org/wiki/菲沙河 "wikilink")铁路桥，连接了[鲁鲁岛](../Page/鲁鲁岛.md "wikilink")和大陆。此桥名字来源于其使用者[加拿大國家鐵路公司](https://zh.wikipedia.org/wiki/加拿大國家鐵路公司 "wikilink")（Canadian National Railway）的首字母缩写。
 
 ## 另见

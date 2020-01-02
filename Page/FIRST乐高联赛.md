@@ -1,3 +1,6 @@
+> 本文内容由[FIRST乐高联赛](https://zh.wikipedia.org/wiki/FIRST乐高联赛)转换而来。
+
+
 **FIRST乐高联赛** (**FLL**)是由[FIRST](../Page/FIRST.md "wikilink")组织举办的一项针对小学生和初中生（在[中国大约是](https://zh.wikipedia.org/wiki/中国 "wikilink")9-16岁）的国际竞赛。\[1\]
 
 在每年9月\[2\]都会公布一个新的关注现实世界科学问题的挑战主题\[3\]，竞赛的每一个环节都会围绕着这个主题。\[4\] 竞赛的机器人部分围绕着在[乐高Mindstorms上设计和编程来完成任务](https://zh.wikipedia.org/wiki/乐高Mindstorms "wikilink")。学生努力找出并提出多个问题的解决方案，接着参加区域锦标赛去分享他们的智慧、奇思妙想并展示他们的机器人。

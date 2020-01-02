@@ -1,3 +1,6 @@
+> 本文内容由[J Soul Brothers \(J Soul Brothers專輯\)](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(J_Soul_Brothers專輯\))转换而来。
+
+
 **J Soul Brothers**是於2009年2月25日發售的[二代目 J Soul Brothers正式出道專輯](../Page/J_Soul_Brothers.md "wikilink")。
 
 ## 概要

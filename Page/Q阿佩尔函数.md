@@ -1,3 +1,6 @@
+> 本文内容由[Q阿佩尔函数](https://zh.wikipedia.org/wiki/Q阿佩尔函数)转换而来。
+
+
 **q阿佩尔函数**（**q-Appell function**）又名q阿佩尔多项式（q-Appell polynomials）是数学家Jackson创立的[阿佩尔函数](../Page/阿佩尔函数.md "wikilink")的q模拟\[1\]\[2\]
 
 《美国国家标准局数学函数手册》中给出的定义如下\[3\]

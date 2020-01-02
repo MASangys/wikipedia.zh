@@ -1,3 +1,6 @@
+> 本文内容由[Sunday靚聲王](https://zh.wikipedia.org/wiki/Sunday靚聲王)转换而来。
+
+
 《**Sunday靚聲王**》（）是一檔由[香港電視廣播有限公司製作](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，主要是以懷舊金曲作為主題的音樂節目，全節目共35集，由[鄭少秋](../Page/鄭少秋.md "wikilink")、[汪明荃](../Page/汪明荃.md "wikilink")、[林曉峰](../Page/林曉峰.md "wikilink")主持。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年2月15日起，逢星期日晚21:00至22:00於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出。本節目於香港時間2015年5月3日起，改為逢星期日晚20:30至21:30於[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播映。
 
 此節目雖由無綫電視製作，但節目中亦不時出現[麗的電視的電視劇歌曲](https://zh.wikipedia.org/wiki/麗的電視 "wikilink")，以至[亞洲電視](../Page/亞洲電視.md "wikilink")的電視劇歌曲，因此節目收視良好，無綫電視決定在2016年拍攝第二輯。

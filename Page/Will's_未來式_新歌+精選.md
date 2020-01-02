@@ -1,3 +1,6 @@
+> 本文内容由[Will\'s 未來式 新歌+精選](https://zh.wikipedia.org/wiki/Will\'s_未來式_新歌+精選)转换而来。
+
+
 《**Will's未來式新歌+精選**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[潘瑋柏的首張精選專輯](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")，於2008年7月18日正式發行。雙CD專輯分別以「瑋柏的力量」和「瑋柏的情歌」記錄了潘瑋柏最具代表性的快歌與慢歌，特別加錄最新快歌《夏日瘋》和抒情歌《轉機》，更首次以廣東話演繹《轉機》粵語版。
 
 ## 唱片版本

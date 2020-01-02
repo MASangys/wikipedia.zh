@@ -1,3 +1,6 @@
+> 本文内容由[Hyde \(EP\)](https://zh.wikipedia.org/wiki/Hyde_\(EP\))转换而来。
+
+
 《**hyde**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")首張迷你韓語專輯，於2013年5月20日發行，主打歌曲為專輯同名歌曲《hyde》\[1\]，其後在同年7月31日發行重新包裝版專輯《Jekyll》，主打歌則為《了.不.起.的.妳》（）\[2\]。
 
 ## 曲目

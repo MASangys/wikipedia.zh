@@ -1,3 +1,6 @@
+> 本文内容由[俄羅斯方塊DS](https://zh.wikipedia.org/wiki/俄羅斯方塊DS)转换而来。
+
+
 是[任天堂](../Page/任天堂.md "wikilink")开发的[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，为[Touch\! Generations游戏的一作](../Page/Touch!_Generations.md "wikilink")。[THQ曾在](https://zh.wikipedia.org/wiki/THQ "wikilink")[E3 2005前宣布计划开发](https://zh.wikipedia.org/wiki/E3_2005 "wikilink")《俄罗斯方块DS》，并在展会上展出。然而公司决定取消游戏，任天堂则在2006年3月发布了自家开发的《俄罗斯方块DS》。游戏支持至多10人使用一张卡带本地游玩，或二至四人通过[任天堂Wi-Fi连接](../Page/任天堂Wi-Fi连接.md "wikilink")服务联网对战。
 
 《俄罗斯方块DS》支持多种新游戏模式，每种对应不同的任天堂主题。主题包括《[超级马里奥兄弟](../Page/超级马里奥兄弟.md "wikilink")》、《[塞尔达传说](../Page/塞尔达传说_\(游戏\).md "wikilink")》、《[银河战士](../Page/银河战士_\(游戏\).md "wikilink")》、《[气球大战](../Page/气球大战.md "wikilink")》、《[大金刚](../Page/大金刚_\(游戏\).md "wikilink")》以及《[耀西饼干](https://zh.wikipedia.org/wiki/耀西饼干 "wikilink")》。

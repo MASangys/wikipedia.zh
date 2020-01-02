@@ -1,3 +1,6 @@
+> 本文内容由[FTP服务器列表](https://zh.wikipedia.org/wiki/FTP服务器列表)转换而来。
+
+
 以下是[FTP服务器的列表](../Page/文件传输协议.md "wikilink")。
 
 ## 图形界面

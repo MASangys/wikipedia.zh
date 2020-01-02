@@ -1,3 +1,6 @@
+> 本文内容由[NowJelli紫金國際台](https://zh.wikipedia.org/wiki/NowJelli紫金國際台)转换而来。
+
+
 **nowJelli紫金國際台**（）是[now寬頻電視一條由now與](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[江蘇省廣播電視總台的](https://zh.wikipedia.org/wiki/江蘇省廣播電視總台 "wikilink")[江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink")、[江蘇國際頻道合辦的海外華語資訊娛樂頻道](https://zh.wikipedia.org/wiki/江蘇國際頻道 "wikilink")。該頻道於2015年2月1日正式啟播，海外播出地區覆蓋香港、馬來西亞和泰國等。該頻道主要內容為江蘇衛視及其他江蘇省廣播電視總台旗下頻道自製的綜藝娛樂及資訊節目，同時亦有购买了[优酷](../Page/优酷.md "wikilink")、[腾讯视频](../Page/腾讯视频.md "wikilink")等中国内地节目资源。
 
 ## 歷史與發展

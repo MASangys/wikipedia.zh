@@ -1,3 +1,6 @@
+> 本文内容由[DJJ2型电力动车组](https://zh.wikipedia.org/wiki/DJJ2型电力动车组)转换而来。
+
+
 **DJJ<sub>2</sub>“中华之星”**，是[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[高速铁路](https://zh.wikipedia.org/wiki/高速铁路 "wikilink")[动车组之一](https://zh.wikipedia.org/wiki/动车组 "wikilink")，是DJJ1型“[蓝箭](https://zh.wikipedia.org/wiki/中国铁路DJJ1型电力动车组 "wikilink")”的后继产品。
 
 ## 簡述

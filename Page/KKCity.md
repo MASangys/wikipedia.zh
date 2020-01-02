@@ -1,3 +1,6 @@
+> 本文内容由[KKCity](https://zh.wikipedia.org/wiki/KKCity)转换而来。
+
+
 **KKCity網路城邦**是由[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[願境網訊股份有限公司經營的電子佈告欄系統](https://zh.wikipedia.org/wiki/願境網訊股份有限公司 "wikilink")（[BBS](../Page/BBS.md "wikilink")）網站。系統是基於[Telnet](../Page/Telnet.md "wikilink")通訊協定所建立的，所以只有純文字加上文字超連結的功能，文字編碼為[Big5碼](https://zh.wikipedia.org/wiki/Big5碼 "wikilink")，圖片則以網址連結到WWW的空間才能看到。[2012年](https://zh.wikipedia.org/wiki/2012 "wikilink")10月，telnet://bbs.kkcity.com.tw 已無法連上。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HTN1](https://zh.wikipedia.org/wiki/HTN1)转换而来。
+
+
 **組氨素1**（），是一類由HTN1基因編碼的蛋白質\[1\]，其编码的[組氨素](https://zh.wikipedia.org/wiki/組氨素 "wikilink")1还能降解为組氨素2。
 
 | 等位基因 | 基因                                 | 蛋白質             |

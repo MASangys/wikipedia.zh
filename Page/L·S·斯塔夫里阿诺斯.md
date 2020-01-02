@@ -1,3 +1,6 @@
+> 本文内容由[L·S·斯塔夫里阿诺斯](https://zh.wikipedia.org/wiki/L·S·斯塔夫里阿诺斯)转换而来。
+
+
 **L·S·斯塔夫里阿诺斯**（，1913年2月5日－2004年3月23日），[加拿大](../Page/加拿大.md "wikilink")出生的[希腊](../Page/希腊.md "wikilink")裔[美国](../Page/美国.md "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")，早年专攻[巴尔干史](https://zh.wikipedia.org/wiki/巴尔干 "wikilink")，后致力于全球史观的[通史](../Page/通史.md "wikilink")编纂，1971年出版《[全球通史](../Page/全球通史.md "wikilink")》一书。
 
 ## 生平

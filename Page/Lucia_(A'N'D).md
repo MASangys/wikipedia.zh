@@ -1,3 +1,6 @@
+> 本文内容由[Lucia \(A\'N\'D\)](https://zh.wikipedia.org/wiki/Lucia_\(A\'N\'D\))转换而来。
+
+
 **陳盈燕**（**Lucia Chen**，），藝名**Lucia**，[可米製作旗下的團體](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")[A'N'D和](https://zh.wikipedia.org/wiki/A'N'D "wikilink")[KOGIRLS的成員之一](https://zh.wikipedia.org/wiki/KOGIRLS "wikilink")\[1\]。目前就讀於[中國文化大學國劇系](https://zh.wikipedia.org/wiki/中國文化大學 "wikilink")。2011年曾參加[韓國娛樂頻道tvN舉辦的](https://zh.wikipedia.org/wiki/韓國 "wikilink")「[K-Pop獵星行動](https://zh.wikipedia.org/wiki/:en:K-Pop_Star_Hunt "wikilink")」第一季選秀活動，最終獲得第三名。\[2\]\[3\]\[4\]在[A'N'D担当领舞兼口风琴担当](https://zh.wikipedia.org/wiki/A'N'D "wikilink")、性感担当。在[KOGIRLS担当副唱和舞蹈担当](https://zh.wikipedia.org/wiki/KOGIRLS "wikilink")。
 
 ## 音乐作品

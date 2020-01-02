@@ -1,3 +1,6 @@
+> 本文内容由[Windows XP Professional x64 Edition](https://zh.wikipedia.org/wiki/Windows_XP_Professional_x64_Edition)转换而来。
+
+
 **Windows XP Professional x64 Edition**是微軟[Windows XP](../Page/Windows_XP.md "wikilink")[作業系統專業版之一](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，支援[AMD64架構](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，包括[AMD64及](https://zh.wikipedia.org/wiki/AMD64 "wikilink")[EM64T處理機](https://zh.wikipedia.org/wiki/EM64T "wikilink")\[1\]。2005年4月25日推出，起初是對AMD64系統平台的回應做為安騰版的補充，後隨安騰版的夭折成為XP中最終唯一受支援的64位元平台產品。現階段該系統己停止以任何形式發售，並已於2014年4月8日停止所有支援。\[2\]
 
 ## 支援語言

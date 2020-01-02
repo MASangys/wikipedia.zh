@@ -1,3 +1,6 @@
+> 本文内容由[麥可·B·喬丹](https://zh.wikipedia.org/wiki/麥可·B·喬丹)转换而来。
+
+
 **麥可·巴卡里·喬丹**（，）是一名[美國男演員](https://zh.wikipedia.org/wiki/美國 "wikilink")。他較著名的是在電視劇《[火線重案組](https://zh.wikipedia.org/wiki/火線重案組_\(電視影集\) "wikilink")》（2002年）中飾演華萊士、《[我的孩子們](https://zh.wikipedia.org/wiki/我的孩子們 "wikilink")》（2003年至2006年）中飾演雷吉·波特·蒙哥馬利、《[勝利之光](https://zh.wikipedia.org/wiki/勝利之光_\(電視劇\) "wikilink")》（2009年至2011年）中詮釋東狄龍高中的四分衛范斯·霍華與《[為人父母](https://zh.wikipedia.org/wiki/為人父母 "wikilink")》（2010年至2011年）中飾演亞歷克斯一角。後來，喬丹出演了電影《[超能失控](../Page/超能失控.md "wikilink")》（2012年）和廣受好評的《[奧斯卡的一天](../Page/奧斯卡的一天.md "wikilink")》（2013年）。而他也在2015年的超級英雄電影《[驚奇4超人](../Page/驚奇4超人_\(2015年電影\).md "wikilink")》中飾演[強尼·史東／霹靂火](../Page/霹靂火.md "wikilink")，並也在同年的「[洛基系列電影](https://zh.wikipedia.org/wiki/洛基系列電影 "wikilink")」外傳《[金牌拳手](../Page/金牌拳手.md "wikilink")》中詮釋阿波羅之子阿多尼斯。
 
 ## 早期生活

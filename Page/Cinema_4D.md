@@ -1,3 +1,6 @@
+> 本文内容由[Cinema 4D](https://zh.wikipedia.org/wiki/Cinema_4D)转换而来。
+
+
 **Cinema 4D**是一套由[德国](../Page/德国.md "wikilink")[公司](../Page/公司.md "wikilink")[Maxon Computer开发的](https://zh.wikipedia.org/wiki/Maxon_Computer "wikilink")[三维绘图](https://zh.wikipedia.org/wiki/三维绘图 "wikilink")[软件](../Page/软件.md "wikilink")，以其高的运算速度和强大的[渲染](../Page/渲染.md "wikilink")外掛著称。Cinema 4D应用广泛，在[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")、[电影](../Page/电影.md "wikilink")、[工业设计](../Page/工业设计.md "wikilink")、等方面都有出色的表现，例如影片《[毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")》（*Doom*）、《[-{zh-hans:范海辛; zh-hant:凡赫辛;}-](https://zh.wikipedia.org/wiki/范海辛 "wikilink")》（*Van Helsing*）、《[-{zh-hans:蜘蛛侠; zh-hant:蜘蛛人;}-](https://zh.wikipedia.org/wiki/蜘蛛侠 "wikilink")》、以及动画片《[-{zh-hans:极地特快; zh-hant:北極特快車;}-](https://zh.wikipedia.org/wiki/极地特快 "wikilink")》、《[-{zh-hans:丛林大反攻; zh-hant:打獵季節;}-](https://zh.wikipedia.org/wiki/丛林大反攻 "wikilink")》（*Open Season*）等等。它正成为许多一流[艺术家和电影公司的首选](https://zh.wikipedia.org/wiki/艺术家 "wikilink")，Cinema 4D已经走向[成熟](https://zh.wikipedia.org/wiki/成熟 "wikilink")。
 
 ## 概要

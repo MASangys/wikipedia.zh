@@ -1,3 +1,6 @@
+> 本文内容由[JPEG](https://zh.wikipedia.org/wiki/JPEG)转换而来。
+
+
 **聯合圖像專家小組**（，缩写：**JPEG**）是一種針對相片影像而廣泛使用的[失真壓縮標準方法](../Page/有损数据压缩.md "wikilink")。這個名稱代表。此團隊創立於1986年，1992年發布了JPEG的標準而在1994年獲得了[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink") 10918-1的認定。JPEG與視訊音訊壓縮標準的[MPEG](../Page/MPEG.md "wikilink")（Moving Picture Experts Group）很容易混淆，但兩者是不同的組織及標準。
 
 JPEG本身只有描述如何將一個影像轉換為[字节](../Page/字节.md "wikilink")的數據串流（streaming），但並沒有說明這些位元組如何在任何特定的儲存媒體上被封存起來。JPEG的壓縮方式通常是[有损压缩](https://zh.wikipedia.org/wiki/有损压缩 "wikilink")（lossy compression），即在壓縮過程中圖像的品質會遭受到可見的破壞，有一種以JPEG為基礎的標準[Lossless JPEG是採用無失真的壓縮方式](../Page/Lossless_JPEG.md "wikilink")，但Lossless JPEG並沒有受到廣泛的支援。

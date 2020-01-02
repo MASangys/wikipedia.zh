@@ -1,3 +1,6 @@
+> 本文内容由[GoPro](https://zh.wikipedia.org/wiki/GoPro)转换而来。
+
+
 [Montage_d'une_Gopro_HD_sur_un_masque_de_chasse_sous-marine.jpg](https://zh.wikipedia.org/wiki/File:Montage_d'une_Gopro_HD_sur_un_masque_de_chasse_sous-marine.jpg "fig:Montage_d'une_Gopro_HD_sur_un_masque_de_chasse_sous-marine.jpg")之上\]\] [Cyclisme_&_GoPro_-_GoPro_Hero_4_(02).JPG](https://zh.wikipedia.org/wiki/File:Cyclisme_&_GoPro_-_GoPro_Hero_4_\(02\).JPG "fig:Cyclisme_&_GoPro_-_GoPro_Hero_4_(02).JPG") [GoProHero3BlackEdition.jpg](https://zh.wikipedia.org/wiki/File:GoProHero3BlackEdition.jpg "fig:GoProHero3BlackEdition.jpg") **GoPro公司**\[1\]（前稱：伍德曼實驗室，），總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[聖馬刁](../Page/聖馬刁_\(加利福尼亞州\).md "wikilink")（近[三藩市](https://zh.wikipedia.org/wiki/三藩市 "wikilink")），是美國一所研製及生產供[極限運動](../Page/極限運動.md "wikilink")使用的高畫質錄影器材公司。
 
 ## 簡史

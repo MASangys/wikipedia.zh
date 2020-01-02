@@ -1,3 +1,6 @@
+> 本文内容由[彭建源卡拉OK縱火案](https://zh.wikipedia.org/wiki/彭建源卡拉OK縱火案)转换而来。
+
+
 **彭建源卡拉OK縱火案**是在2012年3月12日於[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[東區境內發生的一起](../Page/東區_\(新竹市\).md "wikilink")5死縱火案\[1\]。凶嫌[彭建源](https://zh.wikipedia.org/wiki/彭建源KTV縱火案 "wikilink")（案發時34歲）因不滿好友周志強（案發時34歲）不願出面相挺，故購買300元的汽油至其位於[新竹市明湖路的](https://zh.wikipedia.org/wiki/新竹市 "wikilink")[KTV縱火](https://zh.wikipedia.org/wiki/KTV "wikilink")，造成5死4傷。 本案在2014年9月2日由[中華民國最高法院判決](https://zh.wikipedia.org/wiki/中華民國最高法院 "wikilink")[死刑](../Page/死刑.md "wikilink")定讞，彭建源目前羈押於[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[土城看守所等待](https://zh.wikipedia.org/wiki/土城看守所 "wikilink")[槍決](https://zh.wikipedia.org/wiki/槍決 "wikilink")。\[2\]
 
 ## 凶嫌背景

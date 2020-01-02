@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki PREMIUM SHOWCASE ～Feel the love～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_PREMIUM_SHOWCASE_～Feel_the_love～)转换而来。
+
+
 《**ayumi hamasaki PREMIUM SHOWCASE ～Feel the love～**》（濱崎步 特別演唱會 ～敢愛～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2014年間舉行的日本巡迴演唱會，於2014年10月22日發行DVD及Blu-ray。\[1\]
 
 ## 說明

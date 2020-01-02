@@ -1,3 +1,6 @@
+> 本文内容由[The Beat Goes On](https://zh.wikipedia.org/wiki/The_Beat_Goes_On)转换而来。
+
+
 《**The Beat Goes On**》是韓國演唱團體[Super Junior Donghae & Eunhyuk的第一張韓語迷你專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")，於2015年3月9日發行，3月23日發行特別版專輯。\[1\]\[2\]
 
 ## 發行與宣傳

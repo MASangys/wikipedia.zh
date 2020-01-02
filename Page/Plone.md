@@ -1,3 +1,6 @@
+> 本文内容由[Plone](https://zh.wikipedia.org/wiki/Plone)转换而来。
+
+
 **Plone**是一种建立在[Zope](../Page/Zope.md "wikilink")[应用服务器之上的](https://zh.wikipedia.org/wiki/应用服务器 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")。Plone是[自由软件](../Page/自由软件.md "wikilink")并且设计为可扩展的。它可以使用于[内网和](https://zh.wikipedia.org/wiki/内网 "wikilink")[外网](https://zh.wikipedia.org/wiki/外网 "wikilink")[服务器](../Page/服务器.md "wikilink")，[文档发布系统](https://zh.wikipedia.org/wiki/文档管理系统 "wikilink")，并且可以作为位置分享的实体协作[软件工具](https://zh.wikipedia.org/wiki/协作式软件 "wikilink")。
 
 其最早由Alan Runyan、Alexander Limi與Vidar Andersen在1999年开始，之后迅速成为流行而又强大的内容管理系统。

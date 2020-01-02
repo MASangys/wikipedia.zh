@@ -1,3 +1,6 @@
+> 本文内容由[SNK](https://zh.wikipedia.org/wiki/SNK)转换而来。
+
+
 **SNK**（）是一家[日本](../Page/日本.md "wikilink")的[電子遊戲公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，於1978年成立。SNK此簡稱缘起自[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")****的[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：**Shin Nihon Kikaku**的三個字首 ，英譯為**New Japan Project**。SNK製作發行過很多有名的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，在2001年10月30日宣布破產，將所有[知識產權轉入](https://zh.wikipedia.org/wiki/知識產權 "wikilink")**PLAYMORE**公司之下，於2001年8月1日成立SNK Playmore作為公司名稱。2015年8月6日被[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[蕪湖順榮三七互娛公司收買倂購](https://zh.wikipedia.org/wiki/蕪湖 "wikilink")。2016年4月25日宣佈公司重新回歸為SNK作為公司名稱並會用這個名義去製作發行遊戲。2016年12月1日，SNK Playmore官方宣布将其公司重新名为SNK。\[1\]\[2\]
 
 [SNK_Playmore_logo_and_wordmark.png](https://zh.wikipedia.org/wiki/File:SNK_Playmore_logo_and_wordmark.png "fig:SNK_Playmore_logo_and_wordmark.png")

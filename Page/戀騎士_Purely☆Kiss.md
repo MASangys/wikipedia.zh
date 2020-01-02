@@ -1,3 +1,6 @@
+> 本文内容由[戀騎士 Purely☆Kiss](https://zh.wikipedia.org/wiki/戀騎士_Purely☆Kiss)转换而来。
+
+
 《**戀騎士 Purely☆Kiss**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")公司的分公司在2011年9月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年4月エフォルダムソフト宣告解散，遊戲的版權移交給AKABEiSOFT2公司的AKABEiSOFT3。\[3\]OVA則是由PinkPineapple在2013年7月26日開始發售。\[4\]
 
 ## 故事

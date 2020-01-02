@@ -1,3 +1,6 @@
+> 本文内容由[Windows Embedded Compact](https://zh.wikipedia.org/wiki/Windows_Embedded_Compact)转换而来。
+
+
 **Windows Embedded Compact**（曾被稱為Microsoft Windows CE），為[微軟研發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[嵌入式作業系統](https://zh.wikipedia.org/wiki/嵌入式作業系統 "wikilink")，可以應用在各種[嵌入式系統](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，或是硬體規格較低的電腦系統（例如很少的記憶體，較慢的[中央處理器等](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")）。微軟並未定義CE縮寫由來，一般解釋則有Compact Edition、Customer Embedded、Consumer Electronics等等。在2008年4月15日舉行的嵌入式系统大会上，微軟宣布將Windows CE更名為Windows Embedded Compact，與[Windows Embedded Enterprise](https://zh.wikipedia.org/wiki/Windows_Embedded_Enterprise "wikilink")、[Windows Embedded Standard和](https://zh.wikipedia.org/wiki/Windows_Embedded_Standard "wikilink")[Windows Embedded POSReady組成](https://zh.wikipedia.org/wiki/Windows_Embedded_POSReady "wikilink")[Windows Embedded系列產品](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")。\[1\]
 
 ## 概覽

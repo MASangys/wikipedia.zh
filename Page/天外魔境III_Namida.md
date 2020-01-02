@@ -1,3 +1,6 @@
+> 本文内容由[天外魔境III Namida](https://zh.wikipedia.org/wiki/天外魔境III_Namida)转换而来。
+
+
 是[Hudson Soft发行的](../Page/Hudson_Soft.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[天外魔境系列](../Page/天外魔境系列.md "wikilink")第三作。游戏于2005年在[PlayStation 2推出](../Page/PlayStation_2.md "wikilink")。
 
 《[Fami通](../Page/Fami通.md "wikilink")》为游戏打出29/40分\[1\]。

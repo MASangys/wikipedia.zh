@@ -1,3 +1,6 @@
+> 本文内容由[JSA安全地帶](https://zh.wikipedia.org/wiki/JSA安全地帶)转换而来。
+
+
 《**JSA安全地帶**》（，），是一部於2000年拍攝的[韓國電影](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。
 
 ## 劇情介紹

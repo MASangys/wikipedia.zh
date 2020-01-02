@@ -1,3 +1,6 @@
+> 本文内容由[Beyond Compare](https://zh.wikipedia.org/wiki/Beyond_Compare)转换而来。
+
+
 **Beyond Compare**是一套由[Scooter Software推出的](https://zh.wikipedia.org/wiki/Scooter_Software "wikilink")[內容比較工具軟件](https://zh.wikipedia.org/wiki/內容比較 "wikilink")。除了可以作[檔案比較以外](https://zh.wikipedia.org/wiki/檔案比較 "wikilink")，還可以比對檔案目錄、FTP目錄及壓縮檔案的內容等\[1\]。因為這些功能，Beyond Compare被應用於[版本控制](../Page/版本控制.md "wikilink")及[資料同步的工作上](https://zh.wikipedia.org/wiki/資料同步 "wikilink")。
 
 ## 外掛

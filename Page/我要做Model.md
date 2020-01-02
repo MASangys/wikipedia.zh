@@ -1,3 +1,6 @@
+> 本文内容由[我要做Model](https://zh.wikipedia.org/wiki/我要做Model)转换而来。
+
+
 《**我要做Model**》是一套於2004年上映的香港喜劇電影，由[鄭中基](../Page/鄭中基.md "wikilink")和[林嘉欣](../Page/林嘉欣.md "wikilink")擔任主演，其他主演包括[李燦森](https://zh.wikipedia.org/wiki/李燦森 "wikilink")、[鍾鎮濤](../Page/鍾鎮濤.md "wikilink")和[森美等](https://zh.wikipedia.org/wiki/森美 "wikilink")。本電影為鄭中基繼《[龍咁威2003](../Page/龍咁威2003.md "wikilink")》後再度在喜劇中擔演男主角，同時為資深藝人[許冠英](../Page/許冠英.md "wikilink")生前電影遺作。
 
 ## 演員表

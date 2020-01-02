@@ -1,3 +1,6 @@
+> 本文内容由[Freeciv](https://zh.wikipedia.org/wiki/Freeciv)转换而来。
+
+
 《**Freeciv**》是一個[回合制策略遊戲](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")。它的概念源自於[席德·梅爾](../Page/席德·梅爾.md "wikilink")在1991年為美國微文公司（Micro Prose）所創造出來的一款電腦遊戲《[文明帝國](https://zh.wikipedia.org/wiki/文明_\(遊戲\) "wikilink")》。它是一個依據[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")之下開發的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。其原始碼、圖片、音效等，都是世界各地的開發者供獻而成。
 
 ## 遊戲簡述

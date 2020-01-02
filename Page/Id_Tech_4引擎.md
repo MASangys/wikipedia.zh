@@ -1,3 +1,6 @@
+> 本文内容由[Id Tech 4引擎](https://zh.wikipedia.org/wiki/Id_Tech_4引擎)转换而来。
+
+
 **id Tech 4引擎**，以前称为**毁灭战士3引擎**，是個由[id Software所開發的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，首度使用這個引擎的遊戲是電腦PC遊戲[毀滅戰士3](https://zh.wikipedia.org/wiki/毀滅戰士3 "wikilink")。這個遊戲引擎由[約翰·卡馬克](../Page/約翰·卡馬克.md "wikilink")（John Carmack）領導設計，他同時也設計了《[雷神之鎚](https://zh.wikipedia.org/wiki/雷神之鎚 "wikilink")》遊戲所使用的引擎。
 
 ## 歷史

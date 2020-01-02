@@ -1,3 +1,6 @@
+> 本文内容由[The Promise of a New Day](https://zh.wikipedia.org/wiki/The_Promise_of_a_New_Day)转换而来。
+
+
 《**The Promise of a New Day**》是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")在1991年7月發行的單曲，這首單曲曾獲得告示牌流行榜一週冠軍，它也是寶拉·阿巴杜第六首全美冠軍單曲\[1\]。
 
 ## 單曲資料

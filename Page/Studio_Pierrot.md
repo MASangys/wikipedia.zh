@@ -1,3 +1,6 @@
+> 本文内容由[Studio Pierrot](https://zh.wikipedia.org/wiki/Studio_Pierrot)转换而来。
+
+
 **株式會社Pierrot**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[三鷹市](../Page/三鷹市.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1979年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。由於Pierrot中文有小丑的含義，因此有「小丑社」的別稱。
 
 2004年以前製作動畫的使用商標是「****（Pierrot）」表示，2004年以後改為「****（Studio Pierrot）」表示。

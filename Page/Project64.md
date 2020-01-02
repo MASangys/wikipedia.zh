@@ -1,3 +1,6 @@
+> 本文内容由[Project64](https://zh.wikipedia.org/wiki/Project64)转换而来。
+
+
 **Project64**是[任天堂64](../Page/任天堂64.md "wikilink")[模拟器](../Page/游戏机模拟器.md "wikilink")，使用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，能运行在[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")。\[1\]该软件使用插件系统，每个组件有好几个插件，由第三方团队编写插件。Project64可以在电脑上运行任天堂64的游戏，具体方式通过读取ROM镜像。\[2\]目前为止，Project64被认为是最佳模拟器之一。\[3\]\[4\]
 
 ## 功能

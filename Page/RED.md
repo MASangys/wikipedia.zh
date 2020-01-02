@@ -1,3 +1,6 @@
+> 本文内容由[RED](https://zh.wikipedia.org/wiki/RED)转换而来。
+
+
 《**RED**》是[B'z](../Page/B'z.md "wikilink")第52张[单曲](../Page/单曲.md "wikilink")。
 
 ## 簡介

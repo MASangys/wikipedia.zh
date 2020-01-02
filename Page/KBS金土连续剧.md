@@ -1,3 +1,6 @@
+> 本文内容由[KBS金土连续剧](https://zh.wikipedia.org/wiki/KBS金土连续剧)转换而来。
+
+
 **KBS金土连续剧**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六](../Page/星期六.md "wikilink")所播出的[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")。於2017年6月2日重新播出。\[1\]
 
 ## 播出時間更動表

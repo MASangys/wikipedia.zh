@@ -1,3 +1,6 @@
+> 本文内容由[Aniplex](https://zh.wikipedia.org/wiki/Aniplex)转换而来。
+
+
 **Aniplex株式会社**（）通常簡寫**Aniplex**或**ANX**\[1\]，是[日本索尼音樂旗下以](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[動畫為主](https://zh.wikipedia.org/wiki/動畫 "wikilink")，從事[发行](https://zh.wikipedia.org/wiki/发行 "wikilink")、[企画](https://zh.wikipedia.org/wiki/企画 "wikilink")、[製作](../Page/製作.md "wikilink")及[販賣等業務的](https://zh.wikipedia.org/wiki/販賣 "wikilink")[公司](../Page/公司.md "wikilink")。
 
 ## 沿革

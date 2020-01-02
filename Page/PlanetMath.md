@@ -1,3 +1,6 @@
+> 本文内容由[PlanetMath](https://zh.wikipedia.org/wiki/PlanetMath)转换而来。
+
+
 **PlanetMath**是一本自由、協作的網絡[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")。強調[同行評審](../Page/同行評審.md "wikilink")、嚴密、公開、具教育性、實時內容、內容互連、以及群體協作。PlanetMath的目標是成為一本綜合性的網絡[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")。該企劃位於[弗吉尼亚理工学院暨州立大学](../Page/弗吉尼亚理工学院暨州立大学.md "wikilink")的[數碼圖書館](https://zh.wikipedia.org/wiki/數碼圖書館 "wikilink")[研究實驗室](https://zh.wikipedia.org/wiki/研究實驗室 "wikilink")。
 
 PlanetMath企劃開始於另一本網絡數學百科全書[MathWorld](../Page/MathWorld.md "wikilink")因[法院禁制令而下線的時候](https://zh.wikipedia.org/wiki/法院禁制令 "wikilink")。其時[CRC Press控告](https://zh.wikipedia.org/wiki/CRC_Press "wikilink")[沃夫朗研究公司](https://zh.wikipedia.org/wiki/沃夫朗研究公司 "wikilink")（Wolfram Research）與其員工[埃立克·魏爾斯史甸](https://zh.wikipedia.org/wiki/埃立克·魏爾斯史甸 "wikilink")（MathWorld創辦人）違反合約。（詳見[MathWorld](../Page/MathWorld.md "wikilink")條目）

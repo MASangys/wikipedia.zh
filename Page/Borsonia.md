@@ -1,3 +1,6 @@
+> 本文内容由[Borsonia](https://zh.wikipedia.org/wiki/Borsonia)转换而来。
+
+
 ***Borsonia***是[软体动物门](https://zh.wikipedia.org/wiki/软体动物门 "wikilink")[腹足纲](../Page/腹足纲.md "wikilink")[新腹足目](../Page/新腹足目.md "wikilink")的一個屬，皆為[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")。舊屬[拳螺科](../Page/拳螺科.md "wikilink")\[1\]，現在屬於[芋螺總科](../Page/芋螺總科.md "wikilink")[Borsoniidae科](https://zh.wikipedia.org/wiki/Borsoniidae "wikilink")\[2\]。
 
 ## 物種

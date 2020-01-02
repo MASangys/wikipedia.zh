@@ -1,3 +1,6 @@
+> 本文内容由[Radiopaedia](https://zh.wikipedia.org/wiki/Radiopaedia)转换而来。
+
+
 {{ infobox website | name = Radiopaedia | screenshot = | caption = | url = <http://radiopaedia.org/> | alexa = | commercial = 非盈利 | type = [Wiki](../Page/Wiki.md "wikilink") | language = 英语 | registration = 要求 | owner = Investling | key_people= Dr Frank Gaillard | launch date = 2005-12 | current status = 运营中 | revenue = | slogan = | website = }}
 
 **Radiopaedia** 是一个非营利性的国际协作的放射学教育网站，含参考文献、放射影像维基、病人的病例。\[1\]它还包含一个放射学百科全书。这是目前世界最大的一个免费的放射学相关的资源，网站有超过18000的病例和超过7700篇相关主题的论文。

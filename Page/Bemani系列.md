@@ -1,3 +1,6 @@
+> 本文内容由[Bemani系列](https://zh.wikipedia.org/wiki/Bemani系列)转换而来。
+
+
 [Bemani_series_logo.png](https://zh.wikipedia.org/wiki/File:Bemani_series_logo.png "fig:Bemani_series_logo.png") **Bemani系列**是[科乐美](https://zh.wikipedia.org/wiki/科乐美 "wikilink")[音乐游戏系列统一的品牌名称](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")。如《[劲舞革命](https://zh.wikipedia.org/wiki/劲舞革命 "wikilink")》、《[狂热节拍IIDX](https://zh.wikipedia.org/wiki/狂热节拍IIDX "wikilink")》、《[乐动魔方](../Page/乐动魔方.md "wikilink")》、《[舞蹈进化](../Page/舞蹈进化.md "wikilink")》等音乐游戏都属于Bemani系列。其名稱來自於該公司1997年至2002年間推出的狂热节拍（beatmania）系列。
 
 這種遊戲機的主要概念是玩家在遊戲機上隨著音樂的節拍，在指定的拍點做出指定的動作，如腳踩或敲擊特定的機器部位、或是擺出特定的姿勢等等，而遊戲機依據感應器接收到的動作準確度予以評價，在樂曲或遊戲結束後評分。雖然遊戲機無法測知玩家的動作是否正確，不過對玩家練習反應、節奏感有很大的幫助。除了街機之外，[科樂美](../Page/科樂美.md "wikilink")也發行街機遊戲的[家用遊戲機或](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[掌上遊戲機版本](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")。

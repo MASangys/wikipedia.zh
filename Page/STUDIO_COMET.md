@@ -1,3 +1,6 @@
+> 本文内容由[STUDIO COMET](https://zh.wikipedia.org/wiki/STUDIO_COMET)转换而来。
+
+
 **株式會社STUDIO COMET**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1986年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員、會員。
 
 ## 概要、沿革

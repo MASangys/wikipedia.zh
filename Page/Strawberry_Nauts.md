@@ -1,3 +1,6 @@
+> 本文内容由[Strawberry Nauts](https://zh.wikipedia.org/wiki/Strawberry_Nauts)转换而来。
+
+
 《**Strawberry Nauts**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2011年11月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]通常版於2011年12月22日發售。\[3\][DMM.com](../Page/DMM.com.md "wikilink")在2014年8月1日發售DL版\[4\]，2016年1月22日發售18禁版的HD版《Strawberry Nauts HD Renewal Edition》\[5\]\[6\]，2016年2月26日發售全年齡版的HD版。\[7\]\[8\]2016年7月28日由ENTERGRAM發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[9\]
 
 ## 故事

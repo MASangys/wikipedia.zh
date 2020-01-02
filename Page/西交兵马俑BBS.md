@@ -1,3 +1,6 @@
+> 本文内容由[西交兵马俑BBS](https://zh.wikipedia.org/wiki/西交兵马俑BBS)转换而来。
+
+
 [Bmybbs_telnet.gif](https://zh.wikipedia.org/wiki/File:Bmybbs_telnet.gif "fig:Bmybbs_telnet.gif")
 
 **西交兵马俑BBS**是[西安交通大学的官方BBS](https://zh.wikipedia.org/wiki/西安交通大学 "wikilink")，[中国教育网内较早的BBS之一](../Page/中国教育和科研计算机网.md "wikilink")，也是较有影响的BBS之一。下设开发技术、电脑应用、学术科学、社会科学、文学艺术、知性感性、体育运动、休闲音乐、游戏娱乐、兄弟院校、乡音乡情、校务信息、俱乐部区、本站系统、交通大学和新闻信息十六个大的讨论区。

@@ -1,3 +1,6 @@
+> 本文内容由[2004年中華職棒FORD FOCUS總冠軍賽](https://zh.wikipedia.org/wiki/2004年中華職棒FORD_FOCUS總冠軍賽)转换而来。
+
+
 **2004年中華職棒FORD FOCUS總冠軍戰**（又稱為「**[台灣大賽](https://zh.wikipedia.org/wiki/台灣大賽 "wikilink")**」），是在2004年11月6日－11月14日，分別於高雄縣澄清湖棒球場（1場）、-{台中}-棒球場（1場）、-{台北}-縣立新莊棒球場（2場）、-{台南市}-立棒球場（3場）進行交手。參賽的兩支球隊是上半球季冠軍[統一獅](../Page/統一獅.md "wikilink")隊，及下半球季冠軍[興農牛隊](https://zh.wikipedia.org/wiki/興農牛 "wikilink")。
 
 ## 例行賽戰績

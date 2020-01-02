@@ -1,3 +1,6 @@
+> 本文内容由[VIA C3](https://zh.wikipedia.org/wiki/VIA_C3)转换而来。
+
+
 **VIA C3**是一款[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[处理器](../Page/中央处理器.md "wikilink")，早期为继承从Cyrix收购来的智慧产权，而被命名为「**VIA Cyrix III**」，但它实际上是由从[Integrated Device Technology](https://zh.wikipedia.org/wiki/Integrated_Device_Technology "wikilink")（IDT）中收购来的Centaur Technology部門的開發人員以[WinChip處理器為基礎而開發](https://zh.wikipedia.org/wiki/WinChip "wikilink")，由[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")[威盛電子](../Page/威盛電子.md "wikilink")（VIA）制造，与基于**Joshua核心**的**Cyrix III**无关。后被更名为VIA C3，是VIA“中国芯”C系列的经典版本。
 
 [VIA_C3_C5XL_CPGA.jpg](https://zh.wikipedia.org/wiki/File:VIA_C3_C5XL_CPGA.jpg "fig:VIA_C3_C5XL_CPGA.jpg")

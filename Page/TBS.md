@@ -1,3 +1,6 @@
+> 本文内容由[TBS](https://zh.wikipedia.org/wiki/TBS)转换而来。
+
+
 **TBS**可以指：
 
   - [東京放送控股](../Page/東京放送控股.md "wikilink")（**T**okyo **B**roadcasting **S**ystem Holdings, Inc.），前身為**東京廣播公司**（簡稱同樣為TBS），是[日本](../Page/日本.md "wikilink")一家[媒體](https://zh.wikipedia.org/wiki/傳播媒體 "wikilink")[控股公司](../Page/控股公司.md "wikilink")，旗下有兩大[子公司](../Page/子公司.md "wikilink")：

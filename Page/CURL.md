@@ -1,3 +1,6 @@
+> 本文内容由[CURL](https://zh.wikipedia.org/wiki/CURL)转换而来。
+
+
 **cURL**是一个利用URL语法在[命令行下工作的文件传输工具](../Page/命令行界面.md "wikilink")，1997年首次发行。它支持文件上传和下载，所以是综合传输工具，但按传统，习惯称cURL为下载工具。cURL还包含了用于程序开发的libcurl。
 
 cURL支持的通訊協定有[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[FTPS](../Page/FTPS.md "wikilink")、[HTTP](https://zh.wikipedia.org/wiki/HTTP "wikilink")、[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink")、[TFTP](https://zh.wikipedia.org/wiki/TFTP "wikilink")、[SFTP](https://zh.wikipedia.org/wiki/SFTP "wikilink")、[Gopher](../Page/Gopher_\(网络协议\).md "wikilink")、[SCP](../Page/安全复制.md "wikilink")、[Telnet](../Page/Telnet.md "wikilink")、[DICT](https://zh.wikipedia.org/wiki/DICT "wikilink")、[FILE](https://zh.wikipedia.org/wiki/FILE "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")、LDAPS、[IMAP](https://zh.wikipedia.org/wiki/IMAP "wikilink")、[POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")、[SMTP和](https://zh.wikipedia.org/wiki/SMTP "wikilink")[RTSP](https://zh.wikipedia.org/wiki/RTSP "wikilink")。

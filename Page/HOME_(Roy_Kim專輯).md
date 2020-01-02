@@ -1,3 +1,6 @@
+> 本文内容由[HOME \(Roy Kim專輯\)](https://zh.wikipedia.org/wiki/HOME_\(Roy_Kim專輯\))转换而来。
+
+
 《**HOME**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Roy Kim第](../Page/Roy_Kim.md "wikilink")2張正規韓語專輯，於2014年10月8日由[CJ E\&M發行](../Page/CJ_E&M.md "wikilink")，主打歌曲為專輯同名歌曲《Home》\[1\]。
 
 ## 背景

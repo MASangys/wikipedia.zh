@@ -1,3 +1,6 @@
+> 本文内容由[IPhoto](https://zh.wikipedia.org/wiki/IPhoto)转换而来。
+
+
 **iPhoto**是一款由[蘋果公司为](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS X操作系统和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[iLife软件套装编写](https://zh.wikipedia.org/wiki/iLife "wikilink")，用于管理[数码照片的应用软件](https://zh.wikipedia.org/wiki/数码照片 "wikilink")。iPhoto只能运行在[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，不能在早期的Classic版[Mac OS或其它操作系统上运行](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。然而在2012年初，蘋果公司也发布了能在iOS系統上運行iPhoto的版本。2015年，iPhoto正式由新軟體「照片」取代。
 
 iPhoto提供以下的服务：

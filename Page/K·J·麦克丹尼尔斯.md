@@ -1,3 +1,6 @@
+> 本文内容由[K·J·麦克丹尼尔斯](https://zh.wikipedia.org/wiki/K·J·麦克丹尼尔斯)转换而来。
+
+
 **K·J·麦克丹尼尔斯**（，），美国职业[篮球运动员](https://zh.wikipedia.org/wiki/篮球运动员 "wikilink")，出生于[亚拉巴马州](https://zh.wikipedia.org/wiki/亚拉巴马州 "wikilink")[伯明翰](https://zh.wikipedia.org/wiki/伯明翰_\(亚拉巴马州\) "wikilink")，现效力于[NBA](../Page/NBA.md "wikilink")的[布魯克林籃網队](https://zh.wikipedia.org/wiki/布魯克林籃網 "wikilink")。大学时期他效力于[克莱门森大学](https://zh.wikipedia.org/wiki/克莱门森大学 "wikilink")。
 
 ## 大学生涯

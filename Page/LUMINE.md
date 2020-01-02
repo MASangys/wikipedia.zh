@@ -1,3 +1,6 @@
+> 本文内容由[LUMINE](https://zh.wikipedia.org/wiki/LUMINE)转换而来。
+
+
 **株式會社LUMINE**（，**Lumine Co.,Ltd.**）是經營型[商場](../Page/商場.md "wikilink")的企業，為[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）連結子公司、JR東日本集團的中核企業之一。
 
 商品價格大多在1萬日圓以下\[1\]，顧客群以25-30歲女性\[2\]為主，是日本最大的[時裝大樓](../Page/時裝大樓.md "wikilink")營運企業\[3\]。

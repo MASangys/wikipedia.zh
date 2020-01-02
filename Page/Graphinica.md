@@ -1,3 +1,6 @@
+> 本文内容由[Graphinica](https://zh.wikipedia.org/wiki/Graphinica)转换而来。
+
+
 **Graphinica**（，）是日本的一間主要從事[CG和](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[VFX製作的動畫工作室](https://zh.wikipedia.org/wiki/VFX "wikilink")。除CG、VFX製作外，也負責動畫的作畫、攝影、色彩設定等工作。
 
 ## 概要/沿革

@@ -1,3 +1,6 @@
+> 本文内容由[FastCopy](https://zh.wikipedia.org/wiki/FastCopy)转换而来。
+
+
 **FastCopy**是一款快速的文件拷贝[计算机软件](https://zh.wikipedia.org/wiki/计算机软件 "wikilink")，是遵循[GPLv3的](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，适用于[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，也是一款[绿色软件](https://zh.wikipedia.org/wiki/绿色软件 "wikilink")。该软件的特点是复制速度更快，能保留被复制文件和文件夹的原始时间，以及其他高级功能。
 
 ## 运行截图

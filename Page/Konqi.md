@@ -1,3 +1,6 @@
+> 本文内容由[Konqi](https://zh.wikipedia.org/wiki/Konqi)转换而来。
+
+
 [KDE_Mascot_Konqi_by_Tyson_Tan.png](https://zh.wikipedia.org/wiki/File:KDE_Mascot_Konqi_by_Tyson_Tan.png "fig:KDE_Mascot_Konqi_by_Tyson_Tan.png") **Konqi**是[KDE](../Page/KDE.md "wikilink")的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。他是一只活泼开朗的卡通小绿龙。他最早是作为KDE帮助中心的卡通助手被引入KDE，后在KDE版本3.x期间正式成为KDE的吉祥物。Konqi是象征了KDE社区的一个代表性角色，在KDE软件的版本对话框、各种有关印刷物、会议演示文档和众多KDE的相关网站上均可见到他的身影。他迄今为止有过两版设计方案，第一版的设计者是[Stefan Spatz](https://zh.wikipedia.org/wiki/Stefan_Spatz "wikilink")，而目前在使用的第二版设计则来自中国的[钛山](https://zh.wikipedia.org/wiki/钛山 "wikilink")（Tyson Tan）。
 
 ## 名字

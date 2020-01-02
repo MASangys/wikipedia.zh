@@ -1,3 +1,6 @@
+> 本文内容由[四個女仔三個BAR](https://zh.wikipedia.org/wiki/四個女仔三個BAR)转换而来。
+
+
 《**四個女仔三個BAR**》（），為[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝的時裝法律電視劇，以大律師及事務律師追尋公義的故事為題。此劇由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[陳凱琳及](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")[姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")\[1\]領銜主演，並由[張繼聰](../Page/張繼聰.md "wikilink")\[2\]、[蔣志光](../Page/蔣志光.md "wikilink")、[陳瀅](../Page/陳瀅.md "wikilink")、[何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[唐詩詠](https://zh.wikipedia.org/wiki/唐詩詠 "wikilink")、[鄭子誠](../Page/鄭子誠.md "wikilink")、[江美儀](../Page/江美儀.md "wikilink")及[劉佩玥](../Page/劉佩玥.md "wikilink")聯合主演，監製[陳維冠](https://zh.wikipedia.org/wiki/陳維冠 "wikilink")。此劇為[2015無綫節目巡禮](../Page/2015無綫節目巡禮.md "wikilink")劇集之一。\[3\]
 
 ## 演員表

@@ -1,3 +1,6 @@
+> 本文内容由[Touch! Generations](https://zh.wikipedia.org/wiki/Touch!_Generations)转换而来。
+
+
 **Touch\! Generations**是[任天堂](../Page/任天堂.md "wikilink")在2006年创办的品牌，它们作为[任天堂DS](../Page/任天堂DS.md "wikilink")和[Wii](../Page/Wii.md "wikilink")的展示游戏，以吸引更广泛的大众。随着2011年[任天堂3DS](../Page/任天堂3DS.md "wikilink")发售，任天堂停用了这个创立5年的品牌\[1\]。虽然如此，一些诞生于此品牌的作品继续在当时或之后的任天堂机种上发展续作。
 
 ## 评价

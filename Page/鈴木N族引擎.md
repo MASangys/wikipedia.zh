@@ -1,3 +1,6 @@
+> 本文内容由[鈴木N族引擎](https://zh.wikipedia.org/wiki/鈴木N族引擎)转换而来。
+
+
 **鈴木N族引擎**是2000年代[日本](../Page/日本.md "wikilink")[鈴木公司經過](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車授權製造的](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，屬於[V型六缸](../Page/V6发动机.md "wikilink")、[DOHC的結構設計](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")，其原型來自。
 
 ## 概要

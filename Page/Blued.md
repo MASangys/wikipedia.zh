@@ -1,3 +1,6 @@
+> 本文内容由[Blued](https://zh.wikipedia.org/wiki/Blued)转换而来。
+
+
 **Blued**是[中國大陸一款基于地理位置的陌生人](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[社交應用](https://zh.wikipedia.org/wiki/社交應用 "wikilink")，由马保力創立，於2012年推出，具有交友、[HIV评估预测检测](https://zh.wikipedia.org/wiki/HIV "wikilink")、[網路直播](../Page/網路直播.md "wikilink")等功能。應用推出以來共獲得7輪融資，並進入了中國大陸以外市場。
 
 ## 歷史

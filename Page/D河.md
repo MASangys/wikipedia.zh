@@ -1,3 +1,6 @@
+> 本文内容由[D河](https://zh.wikipedia.org/wiki/D河)转换而来。
+
+
 **D河**位於[美国](../Page/美国.md "wikilink")[俄勒冈州](../Page/俄勒冈州.md "wikilink")[林肯市](https://zh.wikipedia.org/wiki/林肯市_\(奧勒岡州\) "wikilink")，一度沒有名字，曾被[吉尼斯世界纪录大全列為](https://zh.wikipedia.org/wiki/吉尼斯世界纪录大全 "wikilink")「世界最短河流」\[1\]\[2\]\[3\]\[4\]，只有長。但1989年該紀錄由[蒙大拿州](../Page/蒙大拿州.md "wikilink")的取代，而林肯市居民為了贏回最短河流的紀錄，在「極高潮」時測得該河僅長。\[5\]2006年起，吉尼斯世界纪录大全不再收錄最短河流這一條紀錄。
 
 ## 命名

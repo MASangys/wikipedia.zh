@@ -1,3 +1,6 @@
+> 本文内容由[MOTSS](https://zh.wikipedia.org/wiki/MOTSS)转换而来。
+
+
 **MOTSS**為[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「**Members of the same sex**」的縮寫，意為**同性別的成員**，表示[同性戀](../Page/同性戀.md "wikilink")關係或同性戀伴侶。MOTSS起源於1970年[美國人口調查的表格中](https://zh.wikipedia.org/wiki/美國 "wikilink")，隨後逐漸成為[同性戀社群以及](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")[性學](../Page/性學.md "wikilink")研究者的常用名詞。相較於「Gay」或「Lesbian」專指男同性戀及女同性戀者，「Motss」顯得較為中性，故流行於同性戀之間。大概在1990年代，該詞相繼進入[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中國大陸等中文社會](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")。
 
 ## 中文社會的使用情況

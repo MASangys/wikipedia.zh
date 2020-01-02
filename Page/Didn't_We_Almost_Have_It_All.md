@@ -1,3 +1,6 @@
+> 本文内容由[Didn\'t We Almost Have It All](https://zh.wikipedia.org/wiki/Didn\'t_We_Almost_Have_It_All)转换而来。
+
+
 《**Didn't We Almost Have It All**》是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1987年8月13日所發行的單曲，這首單曲獲得告示牌單曲榜兩週冠軍，成為惠妮·休斯頓第5首美國冠軍單曲\[1\]。
 
 ## 歌曲資料

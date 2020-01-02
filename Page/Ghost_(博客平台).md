@@ -1,3 +1,6 @@
+> 本文内容由[Ghost \(博客平台\)](https://zh.wikipedia.org/wiki/Ghost_\(博客平台\))转换而来。
+
+
 **Ghost**是用[JavaScript](../Page/JavaScript.md "wikilink")编写的博客平台，基于[MIT许可证开放源代码](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")。Ghost的设计主旨是简化个人网站发布以及网上出版的过程。
 
 Ghost是一款个人博客系统，它是使用[Node.js](../Page/Node.js.md "wikilink")语言和MySQL数据库开发的，同时支持[MySQL](../Page/MySQL.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")和[PostgreSQL](../Page/PostgreSQL.md "wikilink")。用户可以在支持[Node.js](../Page/Node.js.md "wikilink")的服务器上使用自己的博客。

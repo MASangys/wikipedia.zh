@@ -1,3 +1,6 @@
+> 本文内容由[Dev-C++](https://zh.wikipedia.org/wiki/Dev-C++)转换而来。
+
+
 **Dev-C++**是一套用於開發C/C++（C++11）的[自由的](../Page/自由软件.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE），並以[GPL作為散佈許可](../Page/GNU通用公共许可证.md "wikilink")。使用[MinGW](../Page/MinGW.md "wikilink")及[GDB作為編譯系統與除錯系統](https://zh.wikipedia.org/wiki/GDB "wikilink")。Dev-C++的IDE是利用[Delphi](../Page/Delphi.md "wikilink")開發的。
 
 Dev-C++是一個[SourceForge](../Page/SourceForge.md "wikilink")的計畫，是由Colin Laplace這位程式設計師及其公司Bloodshed Software所開始的。目前Dev-C++一般用於撰寫執行於[Microsoft Windows的程式](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Dev-C++一度有移植到[Linux](../Page/Linux.md "wikilink")的計畫但目前被暫停了。

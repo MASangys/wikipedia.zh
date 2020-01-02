@@ -1,3 +1,6 @@
+> 本文内容由[舊金山輕軌N線](https://zh.wikipedia.org/wiki/舊金山輕軌N線)转换而来。
+
+
 **舊金山輕軌N線**，亦稱**N朱達**路線（），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山市區的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[舊金山輕軌路線](https://zh.wikipedia.org/wiki/舊金山輕軌 "wikilink")，因主要行駛朱達街（Judah Street）而得名，朱達街命名則是紀念鐵路工程師。\[1\]此路線聯繫舊金山城中鬧區與、等郊區，目前是[舊金山輕軌路線中最繁忙的路線](https://zh.wikipedia.org/wiki/舊金山輕軌 "wikilink")，2013年工作日之平均日運量為41,439人次。\[2\]其為舊金山[路面電車路線之一](https://zh.wikipedia.org/wiki/路面電車 "wikilink")，於1928年開始營運，\[3\]之後於1980年部分改建為現代[輕軌路線營運](https://zh.wikipedia.org/wiki/輕軌 "wikilink")。許多路面電車在[二次大戰之後改成](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")[公車路線](https://zh.wikipedia.org/wiki/公車 "wikilink")，但N線因使用[日落隧道](../Page/日落隧道.md "wikilink")的緣故而保留下來。
 
 ## 路線描述

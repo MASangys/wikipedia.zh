@@ -1,3 +1,6 @@
+> 本文内容由[RealPlayer](https://zh.wikipedia.org/wiki/RealPlayer)转换而来。
+
+
 **RealPlayer**，是一個由[RealNetworks](../Page/RealNetworks.md "wikilink")開發的跨平台的[播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，可欣賞各種線上音訊和視訊資料，包括有：[MP3](../Page/MP3.md "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[QuickTime](../Page/QuickTime.md "wikilink")、[Windows Media及其專用的](../Page/Windows_Media.md "wikilink")[RealAudio與](https://zh.wikipedia.org/wiki/RealAudio "wikilink")[RealVideo](../Page/RealVideo.md "wikilink")格式\[1\]。
 
 RealPlayer的第一個版本在1995年4月面世，是[互聯網上首個](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[媒體串流播放軟件](https://zh.wikipedia.org/wiki/媒體串流 "wikilink")\[2\]。RealPlayer最初一直都以數字來命名各個版本，但第6版改名為「RealPlayer G2」，第9版改名為「RealOne Player」，第12版改名為「RealPlayer SP」。RealPlayer一直以來都為客戶提供兩個不同的版本：分別為免費的基本版和需付費的Plus高級版，付費版本提供額外的功能。在14版，RealPlayer新增一個「捆綁服務」（SuperPass），是整合基本版和Plus高級版的一項服務，有提供14天的免費體驗，但需要註冊RealNetworks的帳戶。此外，在Windows推出的第9版曾附載有[RealJukebox](https://zh.wikipedia.org/wiki/RealJukebox "wikilink")。

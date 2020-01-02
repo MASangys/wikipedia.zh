@@ -1,3 +1,6 @@
+> 本文内容由[H·G·威尔斯](https://zh.wikipedia.org/wiki/H·G·威尔斯)转换而来。
+
+
 **赫伯特·乔治·威尔斯**（，），通称**H·G·威尔斯**（）\[1\]，[英国著名](https://zh.wikipedia.org/wiki/英国 "wikilink")[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")，新闻[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")、[政治家](../Page/政治家.md "wikilink")、[社会学家和](https://zh.wikipedia.org/wiki/社会学家 "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他创作的[科幻小说](../Page/科幻小说.md "wikilink")对该领域影响深远，如“[时间旅行](../Page/时间旅行.md "wikilink")”、“[外星人入侵](https://zh.wikipedia.org/wiki/外星人入侵 "wikilink")”、“[反乌托邦](../Page/反乌托邦.md "wikilink")”等都是20世纪科幻小说中的主流话题，科幻作家布里安·阿尔迪斯（Brian Aldiss）将威尔斯称作“科幻小说界的[莎士比亚](https://zh.wikipedia.org/wiki/莎士比亚 "wikilink")”\[2\]。
 
 ## 早年生活

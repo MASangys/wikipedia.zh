@@ -1,3 +1,6 @@
+> 本文内容由[WatchOS](https://zh.wikipedia.org/wiki/WatchOS)转换而来。
+
+
 **watchOS**是[Apple Watch的](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[蘋果公司開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，衍生自[iOS作業系統](https://zh.wikipedia.org/wiki/iOS "wikilink")，兩者之間有許多相似的功能。watchOS在2015年4月24日與蘋果手錶同時推出。蘋果手錶是唯一運行watchOS的裝置。[API稱爲](https://zh.wikipedia.org/wiki/API "wikilink")[WatchKit](https://zh.wikipedia.org/wiki/WatchKit "wikilink")。在[WWDC 2017](https://zh.wikipedia.org/wiki/WWDC "wikilink")，發布了帶有重大改良的watchOS 4預覽版。在2017年9月19日發布正式版watchOS 4。watchOS 5於2018年6月4日發布，增加了更多第三方支持和新增功能以及「Walkie-Talkie」功能。\[1\]
 
 ## 使用者介面

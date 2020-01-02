@@ -1,3 +1,6 @@
+> 本文内容由[Production-ai](https://zh.wikipedia.org/wiki/Production-ai)转换而来。
+
+
 **株式會社Production-ai**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")\[1\]，專門從事[動畫美術背景製作的日本動畫企業](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於1970年。
 
 ## 概要、沿革

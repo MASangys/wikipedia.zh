@@ -1,3 +1,6 @@
+> 本文内容由[BDSM术语列表](https://zh.wikipedia.org/wiki/BDSM术语列表)转换而来。
+
+
 **[BDSM](../Page/BDSM.md "wikilink")（）术语**一般为[BDSM](../Page/BDSM.md "wikilink")团体所使用。
 
 BDSM活动是BDSM术语的实践\[1\]。 以下列表包括一般術語和[調教](https://zh.wikipedia.org/wiki/調教 "wikilink")，[調教是BDSM的實際活動或互動行為](https://zh.wikipedia.org/wiki/調教 "wikilink")。

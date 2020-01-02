@@ -1,3 +1,6 @@
+> 本文内容由[Fine On The Outside](https://zh.wikipedia.org/wiki/Fine_On_The_Outside)转换而来。
+
+
 《**Fine On The Outside**》（）是由韓裔美籍女子歌手[普莉西雅·安](../Page/普莉西雅·安.md "wikilink")創作及演唱，作為2014年由日本[吉卜力工作室上映的電影動畫](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")《[回憶中的瑪妮](../Page/回憶中的瑪妮.md "wikilink")》之片尾曲。
 
 ## 作品內容

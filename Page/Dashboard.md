@@ -1,3 +1,6 @@
+> 本文内容由[Dashboard](https://zh.wikipedia.org/wiki/Dashboard)转换而来。
+
+
 **Dashboard**（為**儀表板**之意）是一個[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac OS X v10.4 Tiger作業系統中的應用程式](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")，用作稱為「[widget](https://zh.wikipedia.org/wiki/widget "wikilink")」的小型應用程式之執行基礎。其界面主要為一半透明的圖層，在啟動以外的時間是隱藏起來的，使用者可透過按下熱鍵來啟動，而熱鍵可在偏好設定中變更指定。
 
 當Dashboard啟動時，使用者的桌面會變暗，而widgets則會漸入出現於前景中。如同一般的應用程式視窗，widgets可以被四處移動、重新配置、關閉，以及重複開啟（因此能夠同時開啟多個相同的widget，並且針對每一個做出不同的設定）。可使用選單列開啟新的widget，只需點選或拖曳widget的圖示至畫面上即可。等待widget載入後就能立即使用。

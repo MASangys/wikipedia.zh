@@ -1,3 +1,6 @@
+> 本文内容由[BOINC](https://zh.wikipedia.org/wiki/BOINC)转换而来。
+
+
 **伯克利開放式網絡計算平台**（，簡稱**BOINC**）是目前主流的[分佈式計算平台之一](https://zh.wikipedia.org/wiki/分佈式計算平台 "wikilink")，由[加州大學柏克萊分校電腦學系發展出的](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")[分散式計算系統](https://zh.wikipedia.org/wiki/分散式計算 "wikilink")。原本專為[SETI@home](../Page/SETI@home.md "wikilink")項目而設計，目前納入的領域包括[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[醫學](https://zh.wikipedia.org/wiki/醫學 "wikilink")、[天文學](../Page/天文學.md "wikilink")和[氣象學等](https://zh.wikipedia.org/wiki/氣象學 "wikilink")。BOINC匯集全球各地志願者的電腦或移動裝置，提供運算能力給研究者。截至2017年3月，BOINC在全世界有約815,912台活躍的主機，提供約18.971[PetaFLOPS的運算能力](https://zh.wikipedia.org/wiki/FLOPS "wikilink")\[1\]。
 
 ## 運行原理

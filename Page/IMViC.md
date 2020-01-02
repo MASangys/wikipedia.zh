@@ -1,3 +1,6 @@
+> 本文内容由[IMViC](https://zh.wikipedia.org/wiki/IMViC)转换而来。
+
+
 [IMViC_Results.jpg](https://zh.wikipedia.org/wiki/File:IMViC_Results.jpg "fig:IMViC_Results.jpg")
 
 IMViC試驗是數個試驗的集合。在微生物實驗室中，時常用來鑑定大腸菌群（Coliform bacteria）。大腸菌群是[革蘭氏陰性菌](https://zh.wikipedia.org/wiki/革蘭氏陰性菌 "wikilink")，是好氧或兼性厭氧桿菌，會發酵[乳糖](../Page/乳糖.md "wikilink")並在48小時內產生氣體。食物中若存在一些大腸菌群表示該食物受到糞便污染。

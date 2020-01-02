@@ -1,3 +1,6 @@
+> 本文内容由[SPARC](https://zh.wikipedia.org/wiki/SPARC)转换而来。
+
+
 [Sun_UltraSPARCII.jpg](https://zh.wikipedia.org/wiki/File:Sun_UltraSPARCII.jpg "fig:Sun_UltraSPARCII.jpg")
 
 **SPARC**，名稱源自於**可擴充處理器架構**（**S**calable **P**rocessor **ARC**hitecture）的縮寫，是一種[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")[指令集架構](../Page/指令集架構.md "wikilink")，最早於1985年由[昇陽電腦](../Page/昇陽電腦.md "wikilink")所設計，也是**SPARC國際公司**的注冊商標之一。這家公司於1989年成立，其目的是向外界推廣SPARC，以及為該架構進行符合性測試。此外該公司為了擴闊SPARC設計的生態系統，SPARC國際也把標準開放，並授權予多間生產商採用，包括[德州儀器](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")、Cypress半導體、[富士通](../Page/富士通.md "wikilink")等。由於SPARC架構也對外完全開放，因此也出現了完全[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[LEON處理器](https://zh.wikipedia.org/wiki/LEON "wikilink")，這款處理器以[VHDL](../Page/VHDL.md "wikilink")語言寫成，並採用[LGPL授權](https://zh.wikipedia.org/wiki/LGPL "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[殘響Reference](https://zh.wikipedia.org/wiki/殘響Reference)转换而来。
+
+
 《**殘響Reference**》是日本搖滾樂團[ONE OK ROCK於](../Page/ONE_OK_ROCK.md "wikilink")2011年10月5日發行的第五張音樂專輯。\[1\]
 
 ## 曲目列表

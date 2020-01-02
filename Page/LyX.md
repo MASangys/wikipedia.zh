@@ -1,3 +1,6 @@
+> 本文内容由[LyX](https://zh.wikipedia.org/wiki/LyX)转换而来。
+
+
 **\(\mathbf{L}\!{}_\mathbf{\displaystyle Y}\!\mathbf{X}\)**是一個「所見即所指」（what you see is what you mean）的利用[來排版的文件編輯軟體](https://zh.wikipedia.org/wiki/LaTeX "wikilink")。相對於其它標榜[所見即所得的編輯器而言](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，LyX標榜只顯示你真正的關心的內容。
 
 ## 功能

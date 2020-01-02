@@ -1,3 +1,6 @@
+> 本文内容由[CHiCO](https://zh.wikipedia.org/wiki/CHiCO)转换而来。
+
+
 **CHiCO**（，\[1\]）是[日本](../Page/日本.md "wikilink")的女性[歌手](../Page/歌手.md "wikilink")。
 
 ## 簡歷

@@ -1,3 +1,6 @@
+> 本文内容由[SQLite](https://zh.wikipedia.org/wiki/SQLite)转换而来。
+
+
 **SQLite**（\[1\]或\[2\]）是遵守[ACID](../Page/ACID.md "wikilink")的[关系数据库管理系统](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")，它包含在一个相对小的[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")[程式庫中](https://zh.wikipedia.org/wiki/程式庫 "wikilink")。与许多其它数据库管理系统不同，SQLite不是一个[客户端/服务器结构的数据库引擎](https://zh.wikipedia.org/wiki/客户端/服务器结构 "wikilink")，而是被集成在用户程序中。
 
 SQLite遵守[ACID](../Page/ACID.md "wikilink")，实现了大多数[SQL](../Page/SQL.md "wikilink")标准。它使用动态的、弱[类型的SQL语法](../Page/資料類型.md "wikilink")。\[3\]它作为嵌入式数据库，是[应用程序](../Page/应用程序.md "wikilink")，如[网页浏览器](../Page/网页浏览器.md "wikilink")，在本地/客户端存储数据的常见选择。它可能是最广泛部署的数据库引擎，因为它正在被一些流行的浏览器、[操作系统](../Page/操作系统.md "wikilink")、[嵌入式系统](../Page/嵌入式系统.md "wikilink")所使用\[4\]。同时，它有许多程序设计语言的[语言绑定](https://zh.wikipedia.org/wiki/语言绑定 "wikilink")。

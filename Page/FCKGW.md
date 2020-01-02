@@ -1,3 +1,6 @@
+> 本文内容由[FCKGW](https://zh.wikipedia.org/wiki/FCKGW)转换而来。
+
+
 **FCKGW**是[Windows XP作業系統於](../Page/Windows_XP.md "wikilink")2001年甫上市時，市面上可以買得到或下載到的[盜版安裝金鑰頭五個字母](https://zh.wikipedia.org/wiki/盜版 "wikilink")。這組安裝碼最初由[駭客組織](https://zh.wikipedia.org/wiki/駭客 "wikilink")“devils0wn”產生。
 
 ## 概要

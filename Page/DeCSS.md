@@ -1,3 +1,6 @@
+> 本文内容由[DeCSS](https://zh.wikipedia.org/wiki/DeCSS)转换而来。
+
+
 **DeCSS**是一个用于解密[DVD碟片的](../Page/數碼多功能影音光碟.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")。在DeCSS发布之前，基于Linux的电脑系统都无法播放DVD视频。
 
 在开发过程中，DeCSS没有获得来自DVD Copy Control Association（DVD CCA）的许可，而这个组织则负责[内容扰乱系统](https://zh.wikipedia.org/wiki/內容擾亂系統 "wikilink")（CSS）等用于DVD[数字版权管理](../Page/数字版权管理.md "wikilink")的系统。DeCSS发布之后，其作者之一在挪威被控刑事犯罪，数年后才获判无罪。为了阻止DeCSS的传播，DVD CCA还在美国发起了一系列诉讼。

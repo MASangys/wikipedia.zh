@@ -1,3 +1,6 @@
+> 本文内容由[PhpBB](https://zh.wikipedia.org/wiki/PhpBB)转换而来。
+
+
 **phpBB**是[自由软件](../Page/自由软件.md "wikilink")，也是[开放源代码](../Page/开放源代码.md "wikilink")的[网络论坛](../Page/网络论坛.md "wikilink")系统，使用[PHP](../Page/PHP.md "wikilink")作为程式语言，并支持如[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[MSSQL](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[SQLite](../Page/SQLite.md "wikilink")与[Oracle](https://zh.wikipedia.org/wiki/Oracle_database "wikilink")\[1\]等的[資料库](https://zh.wikipedia.org/wiki/資料库 "wikilink")。
 
 ## 历史

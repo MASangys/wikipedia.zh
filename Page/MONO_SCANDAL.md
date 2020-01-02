@@ -1,3 +1,6 @@
+> 本文内容由[MONO SCANDAL](https://zh.wikipedia.org/wiki/MONO_SCANDAL)转换而来。
+
+
 《**MONO SCANDAL**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")第九張韓語迷你專輯，於2014年6月2日發行，主打歌曲為《別賣弄風騷》（）\[1\]。
 
 ## 曲目

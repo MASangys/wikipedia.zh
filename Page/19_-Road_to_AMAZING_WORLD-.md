@@ -1,3 +1,6 @@
+> 本文内容由[19 -Road to AMAZING WORLD-](https://zh.wikipedia.org/wiki/19_-Road_to_AMAZING_WORLD-)转换而来。
+
+
 《**19 -Road to AMAZING WORLD-**》（19 -邁向璀璨世界-）是[日本](../Page/日本.md "wikilink")演唱團體[放浪兄弟](../Page/放浪兄弟.md "wikilink")的第10張原創專輯。2015年3月25日發行，唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

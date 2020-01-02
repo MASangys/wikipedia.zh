@@ -1,3 +1,6 @@
+> 本文内容由[Cell \(微處理器\)](https://zh.wikipedia.org/wiki/Cell_\(微處理器\))转换而来。
+
+
 **Cell**[微處理器架構](https://zh.wikipedia.org/wiki/微處理器 "wikilink")（**Cell Broadband Engine Architecture**，通常簡稱**Cell BE**\[1\]或**CBEA**\[2\]）由[索尼](../Page/索尼.md "wikilink")、[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[國際商業機器](https://zh.wikipedia.org/wiki/國際商業機器 "wikilink")（IBM）公司联合开发\[3\]。它是以[RISC指令体系的](https://zh.wikipedia.org/wiki/RISC "wikilink")[Power架构为基础来设计的](../Page/IBM_POWER.md "wikilink")，并具有高[时钟频率](../Page/时钟频率.md "wikilink")、高执行效率等特点。主要应用于[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[刀鋒服务器之上](https://zh.wikipedia.org/wiki/刀鋒服务器 "wikilink")。而CELL處理器的第二代版本，提高了双精度[浮点运算性能](https://zh.wikipedia.org/wiki/浮点 "wikilink")。以往的CELL處理器，[双精度的性能只有](https://zh.wikipedia.org/wiki/双精度 "wikilink")[單精度的十分之一](https://zh.wikipedia.org/wiki/單精確浮點數 "wikilink")。而新的CELL處理器，可以使到双精度性能有五倍的提升。\[4\]
 
 ## 發展歷史

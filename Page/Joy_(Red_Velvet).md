@@ -1,3 +1,6 @@
+> 本文内容由[Joy \(Red Velvet\)](https://zh.wikipedia.org/wiki/Joy_\(Red_Velvet\))转换而来。
+
+
 **朴秀英**\[1\]\[2\]（，，），常見譯名為**朴秀榮**\[3\]，藝名**Joy**（，），[韩国女](https://zh.wikipedia.org/wiki/韩国 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活

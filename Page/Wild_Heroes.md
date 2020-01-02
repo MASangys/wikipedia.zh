@@ -1,3 +1,6 @@
+> 本文内容由[Wild Heroes](https://zh.wikipedia.org/wiki/Wild_Heroes)转换而来。
+
+
 ，是預定由2015年4月19日開始，毎週日日本時間22:30 - 23:25，於[日本電視台](../Page/日本電視台.md "wikilink")的「[週日連續劇](../Page/日本電視台週日連續劇.md "wikilink")」時段內播映的電視連續劇，是[EXILE的](https://zh.wikipedia.org/wiki/EXILE "wikilink")[TAKAHIRO初次主演的電視劇](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")。劇情主題將以「主角與於高中時代的壞孩子同伴，7人之間的友情」而展開。\[1\]曾經是不良少年的主角，將會聯同六位伙伴，一同保護一個受到生命威脅的少女\[2\]。
 
 ## 背景概要

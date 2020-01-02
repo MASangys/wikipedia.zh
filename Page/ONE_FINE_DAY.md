@@ -1,3 +1,6 @@
+> 本文内容由[ONE FINE DAY](https://zh.wikipedia.org/wiki/ONE_FINE_DAY)转换而来。
+
+
 《**ONE FINE DAY**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第](https://zh.wikipedia.org/wiki/K.Will "wikilink")5枚迷你韓語專輯，於2014年10月13日發行，主打歌曲為《今天開始的一天》（）\[1\]。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[To The Light \(FTIsland單曲\)](https://zh.wikipedia.org/wiki/To_The_Light_\(FTIsland單曲\))转换而来。
+
+
 《**To The Light**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十七張單曲（第十四張主流單曲），由[李在真與](https://zh.wikipedia.org/wiki/李在真 "wikilink")（）、[崔載烈](https://zh.wikipedia.org/wiki/崔載烈 "wikilink")（）（二人合稱「Heaven Light」）作曲、李在真與[李洪基](../Page/李洪基.md "wikilink")作詞，並在2014年10月15日以四個不同版本推出\[1\]。
 
 ## 背景

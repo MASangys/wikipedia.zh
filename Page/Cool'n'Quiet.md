@@ -1,3 +1,6 @@
+> 本文内容由[Cool\'n\'Quiet](https://zh.wikipedia.org/wiki/Cool\'n\'Quiet)转换而来。
+
+
 **Cool'n'Quiet**是一种通过调整[CPU频率和电压](https://zh.wikipedia.org/wiki/CPU "wikilink")，以达到减少CPU的功耗和发热量的技术，这项技术包含在[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")64位处理器中。当只运行小型程序或系统负荷较轻时，**Cool'n'Quiet**就会降低CPU的电压及时钟频率，在部分情况下**Cool'n'Quiet**还可以减慢风扇转速，籍此降低噪音。
 
 这个技术已经整合在E-步进的[皓龙](../Page/Opteron.md "wikilink")（被称为**优化电源管理(OPM)**）中，增加了[可校验内存](../Page/纠错内存.md "wikilink")（ECC）的支持。

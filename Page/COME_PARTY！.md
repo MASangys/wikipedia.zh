@@ -1,3 +1,6 @@
+> 本文内容由[COME PARTY！](https://zh.wikipedia.org/wiki/COME_PARTY！)转换而来。
+
+
 《**COME PARTY！**》是[日本](../Page/日本.md "wikilink")偶像歌手[板野友美](../Page/板野友美.md "wikilink")的第6张[单曲](../Page/单曲.md "wikilink")作品，于2014年12月17日由[You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS發行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")，同是也是[板野友美](../Page/板野友美.md "wikilink")畢業後第二張單曲，內容服裝多樣化，帶來炒熱氣氛的曲風，在還沒正式發布完整版MV前，就廣受好評。
 
 ## 概要

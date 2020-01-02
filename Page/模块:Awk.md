@@ -1,3 +1,6 @@
+> 本文内容由[模块:Awk](https://zh.wikipedia.org/wiki/模块:Awk)转换而来。
+
+
 local p = {}
 
 function p.help( frame )

@@ -1,3 +1,6 @@
+> 本文内容由[All Along the Watchtower](https://zh.wikipedia.org/wiki/All_Along_the_Watchtower)转换而来。
+
+
 《****》（译名：《沿着瞭望塔》）是[美国](../Page/美国.md "wikilink")[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")[鲍勃·迪伦](../Page/鲍勃·迪伦.md "wikilink")的一首歌曲，在1967年被收录于专辑《》中首次发行。它也被收录进迪伦的大部分精选辑里，不同的现场版出现在他的四张现场专辑中。
 
 这首歌有无数翻唱版本，跨越许多[音乐类型](../Page/音乐类型.md "wikilink")。其中最知名的是[吉米·亨德里克斯](../Page/吉米·亨德里克斯.md "wikilink")的版本，收录于[吉米·亨德里克斯体验乐队](../Page/吉米·亨德里克斯体验乐队.md "wikilink")1968年的专辑《》中\[1\]。该版本甚至比迪伦原版更加著名，被公认为亨德里克斯最好的作品之一\[2\] 。它在《[滚石](https://zh.wikipedia.org/wiki/滚石_\(杂志\) "wikilink")》杂志的“[史上最伟大的500首歌曲](https://zh.wikipedia.org/wiki/史上最伟大的500首歌曲 "wikilink")”榜单中排名第47位。

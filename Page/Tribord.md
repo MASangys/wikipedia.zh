@@ -1,3 +1,6 @@
+> 本文内容由[Tribord](https://zh.wikipedia.org/wiki/Tribord)转换而来。
+
+
 **Tribord**（）是法国体育用品品牌[迪卡侬](../Page/迪卡侬.md "wikilink")集团旗下水上运动器材的子品牌。Tribord将总部设于法国南部的昂代伊，毗邻西班牙。
 
 ## 设计理念

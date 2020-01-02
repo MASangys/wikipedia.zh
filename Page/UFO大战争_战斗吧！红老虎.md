@@ -1,3 +1,6 @@
+> 本文内容由[UFO大战争 战斗吧！红老虎](https://zh.wikipedia.org/wiki/UFO大战争_战斗吧！红老虎)转换而来。
+
+
 UFO大战争 战斗吧！红老虎『**UFO大戦争 戦え\! レッドタイガー**』（ユーフォーだいせんそう たたかえ レッドタイガー）是1978年（昭和53年）4月8日至同年12月28日在[東京12チャンネル（現・テレビ東京）全](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")39話放送，、[創英舎製作的特摄节目](https://zh.wikipedia.org/wiki/創英舎 "wikilink")。
 
 ## 登場人物

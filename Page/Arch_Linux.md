@@ -1,3 +1,6 @@
+> 本文内容由[Arch Linux](https://zh.wikipedia.org/wiki/Arch_Linux)转换而来。
+
+
 **Arch Linux**（或 **Arch** )\[1\]）是一款基于 [x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink") 架构的 [Linux发行版](../Page/Linux发行版.md "wikilink") \[2\]。系统主要由[自由和](../Page/自由软件.md "wikilink")[开源软件](../Page/开源软件.md "wikilink")\[3\]组成，支持社区参与。系统设计以 [KISS原则](../Page/KISS原则.md "wikilink")（保持简单和愚蠢）为总体指导原则，注重代码正确、优雅和极简主义，期待用户愿意去理解系统的运作\[4\]。Arch Linux 採用[pacman作為預設的](https://zh.wikipedia.org/wiki/pacman "wikilink")[软件包管理器](https://zh.wikipedia.org/wiki/软件包管理器 "wikilink")。
 
 Arch Linux 采用[滾動發行](../Page/滾動發行.md "wikilink")模式，即没有所谓的大版本更新，每次常规更新都会将系统和软件保持在最新状态。Arch 发行的系统安装映像也只是简单地包含最新的基本系统组件。\[5\]

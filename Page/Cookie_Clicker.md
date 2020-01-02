@@ -1,3 +1,6 @@
+> 本文内容由[Cookie Clicker](https://zh.wikipedia.org/wiki/Cookie_Clicker)转换而来。
+
+
 **Cookie Clicker**（中文译作「**餅乾計數器**」、「**餅乾製造機**」、「**餅乾點點樂**」或「**无尽的饼干**」）是一個以[JavaScript](../Page/JavaScript.md "wikilink")語言製作的網頁遊戲，由Julien Thiennot設計\[1\]，在2013年8月10日釋出。藉由滑鼠點擊來生產餅乾，並研發遊戲中的科技來加快餅乾的產量，是一個僅靠點擊就能進行的遊戲。
 
 ## 遊玩方式

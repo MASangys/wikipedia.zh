@@ -1,3 +1,6 @@
+> 本文内容由[LAN party](https://zh.wikipedia.org/wiki/LAN_party)转换而来。
+
+
 [Campus_Party.jpg](https://zh.wikipedia.org/wiki/File:Campus_Party.jpg "fig:Campus_Party.jpg")舉行的Campus party\]\]
 
 **LAN party**（網路派對）指的是由一群人暫時性、通常也是自發性的帶著他們的[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")，在一個地方將電腦以[區域網路連結的聚會](https://zh.wikipedia.org/wiki/區域網路 "wikilink")，這樣的聚會大部份是以玩多人[網路遊戲為目的](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")。

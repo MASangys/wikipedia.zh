@@ -1,3 +1,6 @@
+> 本文内容由[Picasa](https://zh.wikipedia.org/wiki/Picasa)转换而来。
+
+
 **Picasa**是一套[應用軟體](https://zh.wikipedia.org/wiki/應用軟體 "wikilink")，用於整理和編輯[數位相片](https://zh.wikipedia.org/wiki/數位攝影 "wikilink")，起先由所創。Picasa原為一家位於美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[帕薩迪納的公司](../Page/帕萨迪纳_\(加利福尼亚州\).md "wikilink")，提供數位相片自動化管理服務，並發行同名軟體。2004年7月，Google收購Picasa並開始提供免費下載。此外，該公司生產的[即時通訊](../Page/即時通訊.md "wikilink")工具[Hello也一併歸Google所有](https://zh.wikipedia.org/wiki/Hello_\(軟體\) "wikilink")。 2016年2月，Google宣布自2016年3月16日起停止對Picasa的更新與支援，同時在5月1日終止[Picasa網路相簿](https://zh.wikipedia.org/wiki/Picasa網路相簿 "wikilink")（Picasa Web Albums）照片共用服務，此外還將停止對部分Picasa [API的支援](https://zh.wikipedia.org/wiki/API "wikilink")。
 
 ## 特色

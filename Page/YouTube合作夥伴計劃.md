@@ -1,3 +1,6 @@
+> 本文内容由[YouTube合作夥伴計劃](https://zh.wikipedia.org/wiki/YouTube合作夥伴計劃)转换而来。
+
+
 {{ 地域中心 }} {{ expert }}
 
 YouTube 合作夥伴計劃（**YouTube Partner Program**, 簡稱YPP）能讓**Youtuber**(創作者)能透過廣告、訂閱等各種方式，利用 YouTube 上的內容達到**營利目的**，協助**Youtuber**(創作者)打造專屬的頻道和觀眾。

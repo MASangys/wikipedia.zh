@@ -1,3 +1,6 @@
+> 本文内容由[My Generation \(专辑\)](https://zh.wikipedia.org/wiki/My_Generation_\(专辑\))转换而来。
+
+
 《》（参考译名《我这一代》）是英格兰摇滚乐队[谁人乐队](../Page/谁人乐队.md "wikilink")的首张专辑，于1965年12月由在英国发行。在美国，本专辑由[迪卡唱片公司更名为](https://zh.wikipedia.org/wiki/迪卡唱片公司 "wikilink")《》于1966年4月发行，专辑封面和曲目都有所不同\[1\]。
 
 ## 反响和影响

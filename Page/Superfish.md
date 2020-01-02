@@ -1,3 +1,6 @@
+> 本文内容由[Superfish](https://zh.wikipedia.org/wiki/Superfish)转换而来。
+
+
 **Superfish**（中國稱為**快魚**）是一間[廣告軟體公司](https://zh.wikipedia.org/wiki/廣告軟體 "wikilink")，於2006年在[以色列](../Page/以色列.md "wikilink")創立。總部位於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")。
 
 Superfish被不少人稱為[惡意軟件](https://zh.wikipedia.org/wiki/惡意軟件 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]早於2010年，Superfish已經被用來捆綁其他軟件。\[6\]2014年9月，[Lenovo開始在旗下筆記本電腦](https://zh.wikipedia.org/wiki/Lenovo "wikilink")（不包括[ThinkPad](../Page/ThinkPad.md "wikilink")和桌上型電腦）中預載Superfish。\[7\]被安裝的電子產品，不僅會持續彈出廣告、還有助駭客竊取用戶隱私資訊；該軟體還可自行簽發安全憑證，讓使用者「把有問題的網站誤認為安全」。

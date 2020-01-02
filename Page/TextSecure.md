@@ -1,3 +1,6 @@
+> 本文内容由[TextSecure](https://zh.wikipedia.org/wiki/TextSecure)转换而来。
+
+
 **TextSecure**曾是一個[自由開放的](../Page/自由及开放源代码软件.md "wikilink")[Android](../Page/Android.md "wikilink")加密通訊應用程式。它可以在[簡訊](../Page/簡訊.md "wikilink")、[多媒體短訊與](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")進行傳送與接收訊息。它利用[端對端加密通訊使所有訊息安全地傳送給其他使用者](https://zh.wikipedia.org/wiki/端對端加密通訊 "wikilink")。它是由[Open Whisper Systems所開發並且以](https://zh.wikipedia.org/wiki/Open_Whisper_Systems "wikilink")[GPL v3發行](https://zh.wikipedia.org/wiki/GNU通用公共许可证#GPLv3 "wikilink")。2015年11月，TextSecure與另一個應用程式RedPhone結合成一個應用程式[Signal開發](../Page/Signal_\(軟件\).md "wikilink")。
 
 ## 特性

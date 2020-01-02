@@ -1,3 +1,6 @@
+> 本文内容由[任天堂3DS家族](https://zh.wikipedia.org/wiki/任天堂3DS家族)转换而来。
+
+
 **任天堂3DS家系**是[任天堂](../Page/任天堂.md "wikilink")开发并从2011年销售的[掌上游戏机家系](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")。3DS家系和上世代的[任天堂DS家系同样使用双屏显示](https://zh.wikipedia.org/wiki/任天堂DS家系 "wikilink")。
 
 在2017年7月底公開的第一季（截止至2017年六月）任天堂財報中任天堂3DS主機在全球已售出6,708萬台及遊戲軟體在全球已售出3億3,510萬份。\[1\]

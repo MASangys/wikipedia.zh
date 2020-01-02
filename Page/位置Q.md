@@ -1,3 +1,6 @@
+> 本文内容由[位置Q](https://zh.wikipedia.org/wiki/位置Q)转换而来。
+
+
 [HKJC_QPlace.jpg](https://zh.wikipedia.org/wiki/File:HKJC_QPlace.jpg "fig:HKJC_QPlace.jpg") **位置Q**(位置連贏) 是[賽馬](../Page/賽馬.md "wikilink")[術語](https://zh.wikipedia.org/wiki/術語 "wikilink")，是[賽馬](../Page/賽馬.md "wikilink")[博彩的一個彩池](https://zh.wikipedia.org/wiki/博彩 "wikilink")，選中一場賽事中的第1名、第2名及第3名馬匹在內的任何兩匹，毋須順序。
 
 ## 「位置Q」不同國家的統稱

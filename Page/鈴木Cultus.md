@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Cultus](https://zh.wikipedia.org/wiki/鈴木Cultus)转换而来。
+
+
 **鈴木Cultus**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1983年至2003年間開發製造的[次緊湊型車](https://zh.wikipedia.org/wiki/次緊湊型車 "wikilink")（subcompact）或[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")，自第一代起外銷版稱為**鈴木Swift**。1981年[美國汽車巨擘](https://zh.wikipedia.org/wiki/美國 "wikilink")[通用汽車購入鈴木的](https://zh.wikipedia.org/wiki/通用汽車 "wikilink")[股票](../Page/股票.md "wikilink")，雙方開始合作關係；全盛時期時前者甚至持有後者20.4%的股權。由於前者採行集團共用車型的政策，這部Cultus在世界各地出現許多兄弟車：****、**雪佛蘭Sprint/Metro**、**霍頓Barina**等，各車款皆採用通用S平台。1992年[臺灣](../Page/臺灣.md "wikilink")[太子汽車](../Page/太子汽車.md "wikilink")將之國產化，定名為**鈴木福星**。1999年[中國](../Page/中國.md "wikilink")[長安鈴木將之國產化](https://zh.wikipedia.org/wiki/長安鈴木 "wikilink")，取名**長安鈴木羚羊**，迄今仍持續販售。
 
 車名「Cultus」來自[英語膜拜之意的](https://zh.wikipedia.org/wiki/英語 "wikilink")「cult」、文化之意的「culture」，期許此車款「具有思想的汽車便是文化」\[1\]。 {{-}}

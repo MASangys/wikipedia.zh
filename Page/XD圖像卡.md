@@ -1,3 +1,6 @@
+> 本文内容由[XD圖像卡](https://zh.wikipedia.org/wiki/XD圖像卡)转换而来。
+
+
 [Olympusxd.JPG](https://zh.wikipedia.org/wiki/File:Olympusxd.JPG "fig:Olympusxd.JPG")卡比較\]\] [Mediafo_PSd_512MB.jpg](https://zh.wikipedia.org/wiki/File:Mediafo_PSd_512MB.jpg "fig:Mediafo_PSd_512MB.jpg") **xD圖像卡**（）是一種專門於[数码相机](../Page/数码相机.md "wikilink")的[闪存](../Page/闪存.md "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")，由[富士胶卷與](https://zh.wikipedia.org/wiki/富士胶卷 "wikilink")[奥林巴斯聯合於](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")2002年7月發表，應用於超迷你型數码照相機市場。前述兩公司共同[研發以外](https://zh.wikipedia.org/wiki/研發 "wikilink")，[东芝](../Page/东芝.md "wikilink")亦參与研發，擁有为上述两家公司生产xD卡的[授權](https://zh.wikipedia.org/wiki/授權 "wikilink")。其他品牌，如[柯达](https://zh.wikipedia.org/wiki/柯达公司 "wikilink")、[新帝和](https://zh.wikipedia.org/wiki/新帝公司 "wikilink")[雷克沙现在也开始销售xD卡](https://zh.wikipedia.org/wiki/雷克沙 "wikilink")。
 
 [富士胶卷與](https://zh.wikipedia.org/wiki/富士胶卷 "wikilink")[奥林巴斯以往採用](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[SM卡](https://zh.wikipedia.org/wiki/SM卡 "wikilink")，但因為[SM卡本身的容量限制及卡片尺寸而發展受限](https://zh.wikipedia.org/wiki/SM卡 "wikilink")，因此開發了xD卡以取代它，不过，在内部的电路却还是继承了[SM卡的设计概念](https://zh.wikipedia.org/wiki/SM卡 "wikilink")，只有存储器没有控制电路，所以，为xD卡而设计的控制集成电路也可向下相容3.3V的[SM卡](https://zh.wikipedia.org/wiki/SM卡 "wikilink")。

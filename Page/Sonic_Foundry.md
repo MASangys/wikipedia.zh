@@ -1,3 +1,6 @@
+> 本文内容由[Sonic Foundry](https://zh.wikipedia.org/wiki/Sonic_Foundry)转换而来。
+
+
 **Sonic Foundry**是[美國的多媒體套裝軟件開發公司](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ## 歷史

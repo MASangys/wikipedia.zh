@@ -1,3 +1,6 @@
+> 本文内容由[Get Up and Dance](https://zh.wikipedia.org/wiki/Get_Up_and_Dance)转换而来。
+
+
 《**Get Up and Dance**》是香港女歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")於1991年5月7日推出的一張跳舞歌曲混音專輯。其中點題歌曲《Get Up and Dance》是一首長達9分多鐘的串燒歌曲。值得留意的是，當時陳慧嫻正在美國學業，這張混音專輯沒有新歌作品。
 
 ## 曲目

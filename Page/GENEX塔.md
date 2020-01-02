@@ -1,3 +1,6 @@
+> 本文内容由[GENEX塔](https://zh.wikipedia.org/wiki/GENEX塔)转换而来。
+
+
 **GENEX塔**（）是位於[塞爾維亞](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")[貝爾格勒的一座高層建築](https://zh.wikipedia.org/wiki/貝爾格勒 "wikilink")，共有35層，高115公尺（旋轉餐廳高135-140公尺）。GENEX塔為[粗野主義建築](https://zh.wikipedia.org/wiki/粗野主義 "wikilink")，由兩座塔樓組成，是貝爾格勒第二高建築，東南歐第三大塔樓。
 
 ## 另見

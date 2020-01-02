@@ -1,3 +1,6 @@
+> 本文内容由[Hide](https://zh.wikipedia.org/wiki/Hide)转换而来。
+
+
 **hide**（，\[1\]\[2\]），本名**松本秀人**，是一位[日本](../Page/日本.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")／[重金屬](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")及[音樂製作人](../Page/音樂製作人.md "wikilink")\[3\]。自1987年到1997年間，他以擔任日本金屬／搖滾樂團[X JAPAN的吉他手最為著名](../Page/X_Japan.md "wikilink")，藝名為**HIDE**\[4\]\[5\]。1989年以X的成員身分，參與發行專輯《[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")》正式出道\[6\]。他率先提出了[視覺系](../Page/視覺系.md "wikilink")這個名詞，故被認為是視覺系風潮中的先驅\[7\]\[8\]。
 
 自1993年以後，他也以藝名**hide**展開個人音樂活動\[9\]。1996年成立「LEMONed」[唱片公司](../Page/唱片公司.md "wikilink")\[10\]。1997年X JAPAN解散後，組成hide with Spread Beaver及Zilch兩支樂團繼續活動。1998年5月2日酒後驟逝\[11\]\[12\]\[13\]。hide被視為是日本青年反抗國家社會體制的榜樣。美國《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》雜誌稱他的死亡是「一個時代的結束」\[14\]\[15\]。日本音樂評論家也稱「視覺系因hide崛起，也因hide逝世而衰退」\[16\]。2007年X JAPAN重組，樂團仍保留他的成員位置，以茲紀念\[17\]。

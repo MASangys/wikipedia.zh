@@ -1,3 +1,6 @@
+> 本文内容由[完熟Berryz工房 The Final Completion Box](https://zh.wikipedia.org/wiki/完熟Berryz工房_The_Final_Completion_Box)转换而来。
+
+
 「**完熟Berryz工房 The Final Completion Box**」是日本的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第3枚精選專輯。於2015年1月21日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

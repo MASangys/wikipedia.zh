@@ -1,3 +1,6 @@
+> 本文内容由[AIM \(應用程式\)](https://zh.wikipedia.org/wiki/AIM_\(應用程式\))转换而来。
+
+
 **AIM**（**美國在線即時通訊**、**AOL即時通**）是一個由[AOL出版以廣告收入來支持的個人](https://zh.wikipedia.org/wiki/美國線上 "wikilink")[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。由AOL發布於1997年5月，使用OSCAR立即傳訊協定和TOC協定。 於2017年12月15日停止服務。\[1\]
 
 ## 參考資料

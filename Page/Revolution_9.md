@@ -1,3 +1,6 @@
+> 本文内容由[Revolution 9](https://zh.wikipedia.org/wiki/Revolution_9)转换而来。
+
+
 《》（参考译名《革命9》）是一首[披头士乐队作品](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")，收录于1968年专辑《》（白专）中。
 
 ## 简介

@@ -1,3 +1,6 @@
+> 本文内容由[HTC One M9](https://zh.wikipedia.org/wiki/HTC_One_M9)转换而来。
+
+
 **HTC One M9**是[台湾智慧型手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所發表的新一代[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，屬於[HTC One 系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行較新的[Android 7.0操作系统](../Page/Android_Nougat.md "wikilink")，競爭對手為[Samsung Galaxy S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[LG G4](../Page/LG_G4.md "wikilink")、[Sony Xperia Z3+](../Page/Sony_Xperia_Z3+.md "wikilink")、[Huawei P8](https://zh.wikipedia.org/wiki/Huawei_P8 "wikilink")。\[1\]
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Blender](https://zh.wikipedia.org/wiki/Blender)转换而来。
+
+
 **Blender**是专业的[自由及开放源代码](../Page/自由及开放源代码软件.md "wikilink")[三维计算机图形](../Page/三维计算机图形.md "wikilink")軟體。
 
 ## 歷史

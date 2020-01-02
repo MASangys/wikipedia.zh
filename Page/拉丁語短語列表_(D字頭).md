@@ -1,3 +1,6 @@
+> 本文内容由[拉丁語短語列表 \(D字頭\)](https://zh.wikipedia.org/wiki/拉丁語短語列表_\(D字頭\))转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

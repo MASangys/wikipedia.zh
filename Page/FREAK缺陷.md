@@ -1,3 +1,6 @@
+> 本文内容由[FREAK缺陷](https://zh.wikipedia.org/wiki/FREAK缺陷)转换而来。
+
+
 **FREAK缺陷**（全称：**Factoring RSA Export Keys**，）是[SSL/TLS协议中的密码学安全缺陷](https://zh.wikipedia.org/wiki/传输层安全 "wikilink")。20世纪90年代，此缺陷随着美国加密出口法规的出台而引入。
 
 ## 概要

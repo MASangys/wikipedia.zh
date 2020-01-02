@@ -1,3 +1,6 @@
+> 本文内容由[鈴木XL7](https://zh.wikipedia.org/wiki/鈴木XL7)转换而来。
+
+
 **鈴木XL7**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司於](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1998年至2009年間開發製造的[中型](https://zh.wikipedia.org/wiki/中型车 "wikilink")[SUV](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")。
 
 ## 歷史及概要

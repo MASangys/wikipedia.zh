@@ -1,3 +1,6 @@
+> 本文内容由[Stateflow](https://zh.wikipedia.org/wiki/Stateflow)转换而来。
+
+
 **Stateflow**，是[The MathWorks开发的利用状态机和](https://zh.wikipedia.org/wiki/The_MathWorks "wikilink")[流程图](../Page/流程图.md "wikilink")用于对[响应系统进行建模的工具](https://zh.wikipedia.org/wiki/响应系统 "wikilink")。Stateflow使用由David Harel提出的一种[有限状态机](../Page/有限状态机.md "wikilink")的图示方式，实现在一个状态图中对结构、平行机制及历史记忆进行表示。\[1\]此外Stateflow还提供了[状态转移表](../Page/状态转移表.md "wikilink")和[真值表](../Page/真值表.md "wikilink")。
 
 ## 常见用途

@@ -1,3 +1,6 @@
+> 本文内容由[SAAB 37战斗机](https://zh.wikipedia.org/wiki/SAAB_37战斗机)转换而来。
+
+
 **SAAB-37雷式戰鬥機**（[瑞典](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")/[英语](../Page/英语.md "wikilink")：**Saab 37 Viggen**）{{\#tag:ref |The names of Swedish combat aircraft are always in the definite form, like Lansen or Gripen. | group = Nb |name= "Naming"}}\[1\] ，是[瑞典](../Page/瑞典.md "wikilink")研製的單發單座戰鬥機，稱為Viggen，瑞典語中是「雷」的意思。SAAB-37在瑞典空軍中服役，配套的作戰系統被稱為第37武器系統，1967年首飛成功。隔年年，SAAB-37通過瑞典空軍的驗收，初步訂購了超過800架，但後來只生產329架。SAAB-37的的衍生型包括SF 37、SH 37，同时擔任[雙座教練機](../Page/教練機.md "wikilink")。1970年代末增加了全天候戰鬥機兼攔截機的JA 37。
 
 ## 发展型

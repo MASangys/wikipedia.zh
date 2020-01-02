@@ -1,3 +1,6 @@
+> 本文内容由[美能达Dimage EX](https://zh.wikipedia.org/wiki/美能达Dimage_EX)转换而来。
+
+
 **Dimâge EX** (也被称作 **EX 1500** )是一款由[美能达公司于](https://zh.wikipedia.org/wiki/美能达 "wikilink")1998年推出的[数码相机](../Page/数码相机.md "wikilink")。类似于1996年发布的[美能达 Dimâge V](https://zh.wikipedia.org/wiki/美能达_Dimage_V "wikilink")，Dimâge EX也采用了模块化设计，但不再支持镜头旋转拍摄取景。Dimâge EX是较早在北美市场登陆的消费级数码相机，其也于发布次年的PMA99获得PS类相机奖\[1\]。
 
 相较于前代的 **DiMAGE V** 机型，**DiMAGE EX**仍然保持了成像与机身可分离设计，同时提供了更多的可选镜头部，覆盖了广角和标准变焦范围。但美能达之后的[DiMAGE相机产品没有继续沿此创新型路线开发推出类似产品](https://zh.wikipedia.org/wiki/DiMAGE "wikilink")。

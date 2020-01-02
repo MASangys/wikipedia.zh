@@ -1,3 +1,6 @@
+> 本文内容由[CORBA](https://zh.wikipedia.org/wiki/CORBA)转换而来。
+
+
 **CORBA**（Common Object Request Broker Architecture）通用物件請求代理架構是軟體構建的一个標準。
 
 CORBA標準由[物件管理組織](https://zh.wikipedia.org/wiki/Object_Management_Group "wikilink")（OMG）設立並進行控制，CORBA定義了一系列[API](https://zh.wikipedia.org/wiki/API "wikilink")，通信協議，和物件／服務[信息模型用於使得異質](https://zh.wikipedia.org/wiki/信息模型 "wikilink")[應用程序能夠互相操作](https://zh.wikipedia.org/wiki/應用程序 "wikilink")，這些應用程序用不同的程式語言編寫，運行在不同的平台上。CORBA因此為定義明確的物件提供了平臺和位置的透明性，這些物件是[分布式計算平臺的基礎](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")。

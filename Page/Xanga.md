@@ -1,3 +1,6 @@
+> 本文内容由[Xanga](https://zh.wikipedia.org/wiki/Xanga)转换而来。
+
+
 **Xanga**是一個提供[網誌](../Page/網誌.md "wikilink")托管服務的[網站](../Page/網站.md "wikilink")，服務包括[攝影博客](https://zh.wikipedia.org/wiki/攝影博客 "wikilink")，[網誌](../Page/網誌.md "wikilink")及[社交網路服務](../Page/社交網路服務.md "wikilink")。它由一家基地為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市的Xanga](https://zh.wikipedia.org/wiki/紐約市 "wikilink").com公司於1999年運作，擁有4,000萬來自世界各地的用戶使用其服務\[1\]。截至2013年6月，Xanga更出現了財務困難，面臨倒閉危機。
 
 ## 起源

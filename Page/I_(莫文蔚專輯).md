@@ -1,3 +1,6 @@
+> 本文内容由[I \(莫文蔚專輯\)](https://zh.wikipedia.org/wiki/I_\(莫文蔚專輯\))转换而来。
+
+
 **《i》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[莫文蔚](../Page/莫文蔚.md "wikilink")的第九張個人專輯，為她加盟新東家[Sony Music后發行的首張專輯](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，於2002年4月18日發行\[1\]。香港特別版加送一張EP，包括2首粵語新歌。同年6月，唱片公司再度加推《i+Live視聽加值版限定盤》，附送台北【i】演唱會Live30分鐘精華版VCD。次年，莫文蔚憑此專輯獲得[台灣金曲獎最佳國語女演唱人獎](../Page/金曲獎.md "wikilink")\[2\]。
 
 ## 曲目列表

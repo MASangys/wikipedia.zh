@@ -1,3 +1,6 @@
+> 本文内容由[Princess Evangile](https://zh.wikipedia.org/wiki/Princess_Evangile)转换而来。
+
+
 《**Princess Evangile**》是日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")在2011年7月29發售的[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2012年4月12日由CYBERFRONT發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《Princess Evangile PORTABLE》。\[2\]\[3\]2012年6月29日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《Princess Evangile 〜W Happiness〜》。\[4\]遊戲中有部分的名詞是用[法語來表示](https://zh.wikipedia.org/wiki/法語 "wikilink")，例如遊戲名稱的Evangile（福音）。
 
 ## 故事介紹

@@ -1,3 +1,6 @@
+> 本文内容由[DIY](https://zh.wikipedia.org/wiki/DIY)转换而来。
+
+
 [Basic_DIY_Tools.jpg](https://zh.wikipedia.org/wiki/File:Basic_DIY_Tools.jpg "fig:Basic_DIY_Tools.jpg") **DIY**意思是英文**Do It Yourself**的縮寫，可以正式譯為**自己動手做**，但通常不需詳譯人們也大都能理解其意義。DIY原本是個[-{zh-hans:名词短语; zh-hant:名詞片語;}-](https://zh.wikipedia.org/wiki/名詞片語 "wikilink")，但在中文環境裡除了當[名詞](../Page/名詞.md "wikilink")用之外，它往往是被當作[形容詞般使用](https://zh.wikipedia.org/wiki/形容詞 "wikilink")，意指「自助的」。
 
 ## 起源與用法

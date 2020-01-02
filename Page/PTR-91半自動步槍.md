@@ -1,3 +1,6 @@
+> 本文内容由[PTR-91半自動步槍](https://zh.wikipedia.org/wiki/PTR-91半自動步槍)转换而来。
+
+
 **PTR-91**是一系列由[美国](../Page/美国.md "wikilink")槍械製造商[PTR工業公司所](https://zh.wikipedia.org/wiki/PTR工業公司 "wikilink")[研發和生產的民用型](../Page/研究開發.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，其設計為[HK G3](../Page/HK_G3自動步槍.md "wikilink")[戰鬥步槍的衍生型](../Page/自动步枪.md "wikilink")，發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")／民用型[.308 Winchester制](../Page/.308_Winchester.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這些步槍是由[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")[艾諾市的PTR工業有限公司所生產](../Page/艾诺_\(南卡罗来纳州\).md "wikilink")，而PTR為“精密目標步槍”（）之意。

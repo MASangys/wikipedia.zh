@@ -1,3 +1,6 @@
+> 本文内容由[Four Ladies](https://zh.wikipedia.org/wiki/Four_Ladies)转换而来。
+
+
 **Four Ladies**（），多數寫成**4L**，是一個由[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jade Contents Media](https://zh.wikipedia.org/wiki/Jade_Contents_Media "wikilink") 所創造的[韓國女子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")。除了藝瑟以外，其他成員由同年七人女子組合[M.O.A](../Page/M.O.A.md "wikilink")分拆組成。2015年6月藝瑟退出，宣布以solo歌手身份出道。2016年6月16日，子英在個人[Instagram](../Page/Instagram.md "wikilink")上宣布與J-na以[J-Young成員身份重新出道](https://zh.wikipedia.org/wiki/J-Young "wikilink")。而車妮則在2016年11月以[UREKA成員身份出道](https://zh.wikipedia.org/wiki/UREKA "wikilink")，因此4L解散。
 
 ## 成員檔案

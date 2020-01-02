@@ -1,3 +1,6 @@
+> 本文内容由[Brøderbund](https://zh.wikipedia.org/wiki/Brøderbund)转换而来。
+
+
 **Brøderbund Software, Inc.**是原美国[电子游戏](../Page/电子游戏.md "wikilink")、[教育软件和生产率工具](https://zh.wikipedia.org/wiki/教育软件 "wikilink")[The Print Shop制造商](https://zh.wikipedia.org/wiki/The_Print_Shop "wikilink")。以首创与发行游戏《[Carmen Sandiego](https://zh.wikipedia.org/wiki/Carmen_Sandiego "wikilink")》最为知名。公司在[俄勒冈](https://zh.wikipedia.org/wiki/俄勒冈 "wikilink")[尤金建立](https://zh.wikipedia.org/wiki/尤金_\(俄勒冈州\) "wikilink")，之后迁址[加利福尼亚](https://zh.wikipedia.org/wiki/加利福尼亚 "wikilink")[圣拉斐尔](../Page/圣拉斐尔.md "wikilink")，并最终迁到加利福尼亚[诺瓦托](https://zh.wikipedia.org/wiki/诺瓦托 "wikilink")\[1\]。[The Learning Company在](https://zh.wikipedia.org/wiki/The_Learning_Company "wikilink")1998年收购Brøderbund。
 
 许多Brøderbund软件作品现在以“Broderbund”（“ø”换为“o”）名义发行，比如The Print Shop、[PrintMaster和](https://zh.wikipedia.org/wiki/PrintMaster "wikilink")[Mavis Beacon](https://zh.wikipedia.org/wiki/Mavis_Beacon_Teaches_Typing "wikilink")。重新运营的Broderbund所发行的游戏由[Encore公司销售](https://zh.wikipedia.org/wiki/Encore "wikilink")。

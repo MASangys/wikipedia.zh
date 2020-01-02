@@ -1,3 +1,6 @@
+> 本文内容由[Windows Media Audio](https://zh.wikipedia.org/wiki/Windows_Media_Audio)转换而来。
+
+
 **WMA**（**Windows Media Audio**）是[微软](../Page/微软.md "wikilink")公司开发的一系列[音频编解码器](../Page/音频编解码器.md "wikilink")，也指相应的[數位](https://zh.wikipedia.org/wiki/數位 "wikilink")[音频编码格式](https://zh.wikipedia.org/wiki/音频 "wikilink")。WMA包括四种不同的编解码器：（1） *WMA*，原始的WMA编解码器，作为[MP3](../Page/MP3.md "wikilink")和[RealAudio编解码器的竞争者](https://zh.wikipedia.org/wiki/RealAudio "wikilink")\[1\]\[2\]；（2） *WMA Pro*，支持更多声道和更高质量的音频\[3\]；（3） *WMA Lossless*，[无损编解码器](https://zh.wikipedia.org/wiki/无损压缩 "wikilink")；（4）*WMA Voice*，用于储存语音，使用的是低码率压缩\[4\]。一些使用Windows Media Audio编码格式编码其所有内容的纯音频[ASF文件也使用WMA作为扩展名](https://zh.wikipedia.org/wiki/ASF "wikilink")。
 
 WMA格式最初为微软公司所开发，但是随着众多播放器对它的支持，这个格式正在成为[MP3](../Page/MP3.md "wikilink")格式的竞争对手之一。它兼容MP3的ID3元数据标签，同时支持额外的标签。另外，一般情况下相同音质的WMA和MP3音频，前者文件体积较小。

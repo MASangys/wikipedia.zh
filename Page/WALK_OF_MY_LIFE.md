@@ -1,3 +1,6 @@
+> 本文内容由[WALK OF MY LIFE](https://zh.wikipedia.org/wiki/WALK_OF_MY_LIFE)转换而来。
+
+
 《WALK OF MY LIFE》（倖感軌跡）為[日本](../Page/日本.md "wikilink")女歌手[倖田來未](../Page/倖田來未.md "wikilink")於2015年3月18日發行的第12張原創專輯。
 
 ## 簡介

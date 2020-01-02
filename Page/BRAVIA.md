@@ -1,3 +1,6 @@
+> 本文内容由[BRAVIA](https://zh.wikipedia.org/wiki/BRAVIA)转换而来。
+
+
 **BRAVIA**是[日本](../Page/日本.md "wikilink")索尼（[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")）的新一代[平板](https://zh.wikipedia.org/wiki/平板电视 "wikilink")[液晶電視品牌](https://zh.wikipedia.org/wiki/液晶電視 "wikilink")。BRAVIA是「Best Resolution Audio Visual Integrated Architecture」的縮寫。
 
 ## 關於

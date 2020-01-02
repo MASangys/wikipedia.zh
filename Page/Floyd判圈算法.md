@@ -1,3 +1,6 @@
+> 本文内容由[Floyd判圈算法](https://zh.wikipedia.org/wiki/Floyd判圈算法)转换而来。
+
+
 **Floyd判圈算法**(**Floyd Cycle Detection Algorithm**)，又称**龟兔赛跑算法**(**Tortoise and Hare Algorithm**)，是一个可以在[有限状态机](../Page/有限状态机.md "wikilink")、[迭代函数](../Page/迭代函数.md "wikilink")或者[链表](../Page/链表.md "wikilink")上判断是否存在[环](https://zh.wikipedia.org/wiki/環_\(圖論\) "wikilink")，求出该环的起点与长度的算法。该算法据[高德纳](../Page/高德纳.md "wikilink")称由美国科学家[罗伯特·弗洛伊德](../Page/罗伯特·弗洛伊德.md "wikilink")发明，但这一算法并没有出现在[罗伯特·弗洛伊德](../Page/罗伯特·弗洛伊德.md "wikilink")公开发表的著作中[1](https://en.wikipedia.org/wiki/Cycle_detection#Tortoise_and_hare)。
 
 如果有限状态机、迭代函数或者链表上存在环，那么在某个环上以不同速度前进的2个[指针必定会在某个时刻相遇](https://zh.wikipedia.org/wiki/指針_\(信息學\) "wikilink")。同时显然地，如果从同一个起点(即使这个起点不在某个环上)同时开始以不同速度前进的2个指针最终相遇，那么可以判定存在一个环，且可以求出2者相遇处所在的环的起点与长度。

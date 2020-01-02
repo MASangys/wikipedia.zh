@@ -1,3 +1,6 @@
+> 本文内容由[Xen](https://zh.wikipedia.org/wiki/Xen)转换而来。
+
+
 **Xen**是[开放源代码](../Page/开放源代码.md "wikilink")[虚拟机监视器](https://zh.wikipedia.org/wiki/虚拟机监视器 "wikilink")，由XenProject开发，能夠在单个计算机运行多达128个有完全功能的[操作系统](../Page/操作系统.md "wikilink")。
 
 在舊（無虛擬硬件）的處理器上執行Xen，操作系统必须进行显式地修改（“移植”）以在Xen上运行（但是提供对用户应用的兼容性）。这使得Xen无需特殊硬件支持，就能达到高性能的虚拟化。

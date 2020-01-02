@@ -1,3 +1,6 @@
+> 本文内容由[鈴木F族引擎](https://zh.wikipedia.org/wiki/鈴木F族引擎)转换而来。
+
+
 **鈴木F族引擎**是1970年代起[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，[排氣量自](https://zh.wikipedia.org/wiki/排氣量 "wikilink")0.5L至1.1L不等，大部份搭載於該公司所生產的[輕型車](../Page/輕型車.md "wikilink")。若不計入後文所敘的F8B型，1994年後逐漸由[鈴木K族引擎](../Page/鈴木K族引擎.md "wikilink")替代。
 
 ## 沿革與概要

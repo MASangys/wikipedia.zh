@@ -1,3 +1,6 @@
+> 本文内容由[MathWorld](https://zh.wikipedia.org/wiki/MathWorld)转换而来。
+
+
 **MathWorld**是線上[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[百科全書](https://zh.wikipedia.org/wiki/百科全書 "wikilink")，由[沃夫朗研究公司](https://zh.wikipedia.org/wiki/沃夫朗研究公司 "wikilink")（[Wolfram Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink") inc.，WRI）贊助和享有版权，大部分由[埃里克·韦斯坦因](../Page/埃里克·韦斯坦因.md "wikilink")创建和编写。沃夫朗研究公司即是全球闻名的数学软件[Mathematica的生产商](https://zh.wikipedia.org/wiki/Mathematica "wikilink")。MathWorld亦有接受美國[国家科学基金会的](https://zh.wikipedia.org/wiki/国家科学基金会 "wikilink")承認的[伊利諾大學厄巴納-香檳分校支持](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納-香檳分校 "wikilink")。
 
 ## 歷史

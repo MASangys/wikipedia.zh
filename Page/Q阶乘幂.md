@@ -1,3 +1,6 @@
+> 本文内容由[Q阶乘幂](https://zh.wikipedia.org/wiki/Q阶乘幂)转换而来。
+
+
 **q阶乘幂**是[阶乘幂的](https://zh.wikipedia.org/wiki/阶乘幂 "wikilink")[Q-模拟](../Page/Q-模拟.md "wikilink")\[1\]。与阶乘幂在[广义超几何函数](../Page/广义超几何函数.md "wikilink")中的作用类似，q阶乘幂也是定义[基本超几何函数](../Page/基本超几何函数.md "wikilink")的基础。
 
 ## 定义

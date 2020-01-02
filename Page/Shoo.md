@@ -1,3 +1,6 @@
+> 本文内容由[Shoo](https://zh.wikipedia.org/wiki/Shoo)转换而来。
+
+
 **Shoo**（）本名為**柳水永**（；），[日本](../Page/日本.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")，[韓國女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，與[Sea及](../Page/Bada_\(歌手\).md "wikilink")[Eugene為女子團體](../Page/柳真.md "wikilink")[S.E.S.成員](../Page/S.E.S._\(組合\).md "wikilink")，於1997年11月以專輯《》正式出道。當時與[H.O.T.](../Page/H.O.T..md "wikilink")、[神話](https://zh.wikipedia.org/wiki/神話 "wikilink")、[Baby V.O.X](../Page/Baby_V.O.X.md "wikilink")、[酷龍](../Page/酷龍.md "wikilink")等團體把韓國音樂推廣到國外，2002年組合解散後留在[SM娛樂](../Page/SM娛樂.md "wikilink")作個人發展。
 
 ## 家庭情況及經歷

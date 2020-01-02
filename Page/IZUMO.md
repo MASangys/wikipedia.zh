@@ -1,3 +1,6 @@
+> 本文内容由[IZUMO](https://zh.wikipedia.org/wiki/IZUMO)转换而来。
+
+
 《**IZUMO**》是日本[Studio e.go\!公司的](../Page/Studio_e.go!.md "wikilink")[角色扮演類型](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2001年12月21日發售[CD-ROM](../Page/CD-ROM.md "wikilink")版\[1\]，2002年2月22日發售DVD-ROM版。該遊戲後來移植到[Dreamcast](../Page/Dreamcast.md "wikilink")及[PlayStation 2上](../Page/PlayStation_2.md "wikilink")。\[2\]後來改編為共6集的同名[成人動畫](../Page/成人動畫.md "wikilink")，由Milky負責製作發售。\[3\]Studio e.go\!於2004年7月30日發售續作《[IZUMO2](../Page/IZUMO2.md "wikilink")》的[DVD-ROM版附送前作的完全版](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，內容主要是新增劇情和CG。「IZUMO」的名稱由於日本古代地名[出雲國](../Page/出雲國.md "wikilink")。
 
 ## 故事內容

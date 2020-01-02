@@ -1,3 +1,6 @@
+> 本文内容由[ADIPOR2](https://zh.wikipedia.org/wiki/ADIPOR2)转换而来。
+
+
 脂联素受体2（，缩写**ADIPOR2**）是一种由人类[基因](../Page/基因.md "wikilink") *ADIPOR2* 编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]。
 
 ## 结构

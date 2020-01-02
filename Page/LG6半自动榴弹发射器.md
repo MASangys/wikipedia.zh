@@ -1,3 +1,6 @@
+> 本文内容由[LG6半自动榴弹发射器](https://zh.wikipedia.org/wiki/LG6半自动榴弹发射器)转换而来。
+
+
 **LG6**是一枝由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[湖南兵器轻武器研究所为满足外贸需求而自行研制和生產](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，并且由[北方工业公司銷售的轻便](../Page/中国兵器工业集团.md "wikilink")[彈鼓供弹式](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[半自動](https://zh.wikipedia.org/wiki/榴弹发射器#半自动榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](../Page/生物力学.md "wikilink")、安全可靠、通用性强大、高[性價比](../Page/性價比.md "wikilink")的优点，在国际武器市场上具有较强大的竞争力。

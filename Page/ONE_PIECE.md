@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE)转换而来。
+
+
 《**ONE PIECE**》（，中文譯名：海賊王、航海王），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今還在連載。該作品以虛構的「大海賊時代」為故事舞台，描述一名少年[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")想要得到「****」和成為「**海賊王**」為夢想而出海向「偉大的航道」航行的海洋冒險[故事](../Page/故事.md "wikilink")。
 
 該作於[1997年](../Page/1997年.md "wikilink")在日本[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#跨媒體展開 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/傳播媒體 "wikilink")。

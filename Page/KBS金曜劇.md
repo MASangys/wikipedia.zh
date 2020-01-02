@@ -1,3 +1,6 @@
+> 本文内容由[KBS金曜劇](https://zh.wikipedia.org/wiki/KBS金曜劇)转换而来。
+
+
 **KBS金曜劇**（）是[韓國放送公社](../Page/韓國放送公社.md "wikilink")[第2頻道於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")[星期五所播出的](https://zh.wikipedia.org/wiki/星期五 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")。
 
 ## 播出時間更動表

@@ -1,3 +1,6 @@
+> 本文内容由[Dance In The Rain](https://zh.wikipedia.org/wiki/Dance_In_The_Rain)转换而来。
+
+
 《Dance In The Rain》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年11月5日發行的數位[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說

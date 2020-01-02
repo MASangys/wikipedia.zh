@@ -1,3 +1,6 @@
+> 本文内容由[Palm OS](https://zh.wikipedia.org/wiki/Palm_OS)转换而来。
+
+
 **Palm OS**是一种32位的嵌入式操作系统，用于掌上电脑。此系统是3Com公司的Palm Computing 部开发的。(Palm Computing已经独立成一家公司。) Palm OS与同步软件HotSync结合可以使掌上电脑与PC机上的信息实现同步，把台式机的 功能扩展到了手掌上。一些其他的公司也获得了生产基于Palm OS的PDA的许可，如SONY公司，Handspring公司。
 
 在2001年，基于Palm OS的掌上电脑主要是3Com的系列产品，如Palm IIIx，Palm V，Palm VII, IBM WorkPad c3用的也是Palm OS。Sony等公司也获得了Palm Computing的许可，将开发 基于Palm OS的掌上电脑。

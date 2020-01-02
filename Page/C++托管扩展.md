@@ -1,3 +1,6 @@
+> 本文内容由[C++托管扩展](https://zh.wikipedia.org/wiki/C++托管扩展)转换而来。
+
+
 **C++托管扩展**（Managed Extensions for C++）是对[C++](../Page/C++.md "wikilink")的一个属性和关键字的扩展，以便于在[微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[.NET Framework进行编程](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。它也经常被称为托管C++。2002年由微软发布。
 
 *注意：C++托管扩展自[Visual C++ 2005起被一个新的语言规范](https://zh.wikipedia.org/wiki/Visual_C++_2005 "wikilink")，正在标准化的[C++/CLI所取代](https://zh.wikipedia.org/wiki/C++/CLI "wikilink")。*

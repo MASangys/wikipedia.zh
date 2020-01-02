@@ -1,3 +1,6 @@
+> 本文内容由[Vitas](https://zh.wikipedia.org/wiki/Vitas)转换而来。
+
+
 [Автограф_Витаса.jpg](https://zh.wikipedia.org/wiki/File:Автограф_Витаса.jpg "fig:Автограф_Витаса.jpg")
 
 **维塔斯**（，，），原名**維塔利·弗拉達索維奇·格拉喬夫**（，拉丁化：），是出生于[拉脫維亞](../Page/拉脫維亞.md "wikilink")的[俄罗斯](../Page/俄罗斯.md "wikilink")男歌手，以其跨越五个[八度](../Page/八度.md "wikilink")\[1\]的宽广音域和高音区雌雄难辨的声线著称，有「海豚音王子」美譽。是[俄罗斯](../Page/俄罗斯.md "wikilink")流行音乐领域继[t.A.T.u.和](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")[Nu Virgos之后又一风靡全球的歌手](../Page/圣女天团.md "wikilink")。他于2000年在[克里姆林宫](../Page/克里姆林宫.md "wikilink")的演唱会的现场录像曾在网络上广泛流传，其个人网站的日均访问量曾一度超过200,000。

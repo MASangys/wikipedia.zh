@@ -1,3 +1,6 @@
+> 本文内容由[H·律敦治](https://zh.wikipedia.org/wiki/H·律敦治)转换而来。
+
+
 **賀穆士治.律敦治**，（**Hormusjee Ruttonjee**，\[1\]），是一位在香港的[巴斯人](https://zh.wikipedia.org/wiki/巴斯人 "wikilink")，在[孟買出生](https://zh.wikipedia.org/wiki/孟買 "wikilink")。H.律敦治於1884年抵港\[2\]\[3\]\[4\]，在香港及廣州的洋行工作，1887年成立律敦治洋行（H. Ruttonjee & Son）。1913年將公司交給兒子[J.H.律敦治打理](https://zh.wikipedia.org/wiki/J.H.律敦治 "wikilink")，公司發展為知名家族企業\[5\]。1898年英國租借新界後，律敦治父子開始在深井購入大量土地，在1930年代初期在[深井](../Page/深井.md "wikilink")興建香港首座釀酒廠[香港啤酒廠有限公司](../Page/香港生力啤酒廠.md "wikilink")（**Hong Kong Brewery**），持有大量深井物業\[6\]\[7\]\[8\]\[9\]，並且興建白樓作為別墅。後來白樓被[香港政府購買作為](https://zh.wikipedia.org/wiki/港英政府 "wikilink")[香港公務員](../Page/香港公務員.md "wikilink")[宿舍](../Page/宿舍.md "wikilink")，1995年被有關[香港政府部門闢作展覽中心](https://zh.wikipedia.org/wiki/香港政府部門 "wikilink")，介紹《香港機場核心計劃》，於1996年年初開放。[古物諮詢委員會](../Page/古物諮詢委員會.md "wikilink")於2010年1月22日將白樓確認評為[三級歷史建築](https://zh.wikipedia.org/wiki/三級歷史建築 "wikilink")\[10\]。兒子J.H.律敦治在1943年\[11\]成立了「香港防癆會」（[香港防癆心臟及胸病協會](../Page/香港防癆心臟及胸病協會.md "wikilink")前身）\[12\]\[13\]。孫兒為前[香港立法局議員](https://zh.wikipedia.org/wiki/香港立法局議員 "wikilink")[鄧律敦治](../Page/鄧律敦治.md "wikilink")。
 
 ## 參考

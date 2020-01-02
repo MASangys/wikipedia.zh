@@ -1,3 +1,6 @@
+> 本文内容由[Wallop](https://zh.wikipedia.org/wiki/Wallop)转换而来。
+
+
 **Wallop**最初是[微軟研究院](../Page/微軟研究院.md "wikilink")提供的一个[社会性网络](https://zh.wikipedia.org/wiki/社会性网络 "wikilink")。它完全采用[Flash技术实现](https://zh.wikipedia.org/wiki/Flash "wikilink")。在wallop关闭之前，也就是其仍然処于[β测试阶段时](../Page/软件测试.md "wikilink")，成员采用与[Gmail](../Page/Gmail.md "wikilink")曾经使用过的注册方式类似的邀请制。该公司早期受到微软和几家风险投资商1300万美元的投资，但由于[Facebook](../Page/Facebook.md "wikilink")等其他社交网络服务的发展，2008年，该公司停止其社交网络服务，转而为其他SNS开发应用。 [SN_wallop.png](https://zh.wikipedia.org/wiki/File:SN_wallop.png "fig:SN_wallop.png")[Mywallop.png](https://zh.wikipedia.org/wiki/File:Mywallop.png "fig:Mywallop.png")
 
 ## 目前的Wallop

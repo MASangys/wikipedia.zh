@@ -1,3 +1,6 @@
+> 本文内容由[Solaris](https://zh.wikipedia.org/wiki/Solaris)转换而来。
+
+
 **Solaris**原先是[太阳微系统公司研制的](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")，在Sun公司被[Oracle併購後被稱作Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink") Solaris。目前最新版为Solaris 11。早期的Solaris是由[BSDUnix发展而来](https://zh.wikipedia.org/wiki/BSDUnix "wikilink")。这是因为昇陽公司的创始人之一，[比爾·喬伊](https://zh.wikipedia.org/wiki/比爾·喬伊 "wikilink")（Bill Joy）来自[柏克萊加州大學](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")（U.C.Berkeley）。但是随着时间的推移，Solaris现在在接口上正在逐渐向[System V靠拢](https://zh.wikipedia.org/wiki/System_V "wikilink")。
 
 2005年6月14日，Sun公司将正在开发中的Solaris 11的源代码以[CDDL许可开放](https://zh.wikipedia.org/wiki/CDDL "wikilink")，这一开放版本就是[OpenSolaris](../Page/OpenSolaris.md "wikilink")。2010年8月23日，OpenSolaris項目被Oracle中止。2011年11月9日，Solaris 11發佈。

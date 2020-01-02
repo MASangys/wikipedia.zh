@@ -1,3 +1,6 @@
+> 本文内容由[VAIO公司](https://zh.wikipedia.org/wiki/VAIO公司)转换而来。
+
+
 **VAIO公司**（、）是[日本](../Page/日本.md "wikilink")的一家[消費電子產品](../Page/消費電子產品.md "wikilink")製造商。總部及生產基地位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[安曇野市](https://zh.wikipedia.org/wiki/安曇野市 "wikilink")，業務包括電腦及電子專業製造服務，集合規劃、設計、開發、製造、銷售及輔助服務\[1\]。
 
 ## 歷史

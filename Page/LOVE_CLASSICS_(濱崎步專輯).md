@@ -1,3 +1,6 @@
+> 本文内容由[LOVE CLASSICS \(濱崎步專輯\)](https://zh.wikipedia.org/wiki/LOVE_CLASSICS_\(濱崎步專輯\))转换而来。
+
+
 \-{T|LOVE CLASSICS}-
 
 《**LOVE CLASSICS**》（摯愛 古典精選）是日本歌手濱崎步的古典混音專輯，於2015年1月28日在日本發行。\[1\]

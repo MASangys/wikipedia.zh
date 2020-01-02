@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla公共许可证](https://zh.wikipedia.org/wiki/Mozilla公共许可证)转换而来。
+
+
 **Mozilla公共许可证**（，简称）是个[自由](../Page/自由软件.md "wikilink")、[开源](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")、详细的[软件许可证](../Page/软件许可证.md "wikilink")，由[Mozilla基金会开发并维护](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")。该协议融合了[BSD许可证和](https://zh.wikipedia.org/wiki/BSD许可证#BSD.E8.AE.B8.E5.8F.AF.E8.AF.81.E7.9A.84.E6.9D.A1.E6.AC.BE "wikilink")[GNU通用公共许可协议的特性](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，追求平衡[专有软件](../Page/专有软件.md "wikilink")和开源软件开发者之间的顾虑。\[1\]
 
 此协议已有两个版本，\[2\]最新发布的2.0版以更简潔和更好的[兼容其他协议为目标](../Page/许可证兼容性.md "wikilink")。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[比利時甲組聯賽A](https://zh.wikipedia.org/wiki/比利時甲組聯賽A)转换而来。
+
+
 **比利時甲組聯賽A**（**Belgian First Division A**，或加冠名稱**Jupiler Pro League**）是比利時最高級別的職業足球聯賽，簡稱「比甲」，聯賽於1895年成立，是世界上歷史最悠久的職業足球聯賽。[首都球會](https://zh.wikipedia.org/wiki/首都球會 "wikilink")[安德列治是聯賽歷史上最成功的球會](../Page/皇家安德列治體育會.md "wikilink")，曾經 34 次奪得聯賽冠軍，其次是[布魯日](../Page/皇家布魯日足球會.md "wikilink")（15 次），[聖基萊斯聯](../Page/皇家聖基萊斯聯.md "wikilink")（11 次）和[標準列治](../Page/皇家標準列治.md "wikilink")（11 次）。
 
 ## 參賽球隊

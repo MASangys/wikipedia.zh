@@ -1,3 +1,6 @@
+> 本文内容由[Heart to Heart](https://zh.wikipedia.org/wiki/Heart_to_Heart)转换而来。
+
+
 《**Heart to Heart**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年1月9日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由《[咖啡王子1號店](../Page/咖啡王子1號店.md "wikilink")》、《[Triple](../Page/冰舞飛揚.md "wikilink")》[李允正](../Page/李允正.md "wikilink")導演及李正雅作家三度聯手打造。講述了喜歡受人矚目的精神科醫生和患有社交恐懼症，一受人關注就會臉紅的女生之間的治癒系羅曼史 \[1\]
 
 ## 演員陣容

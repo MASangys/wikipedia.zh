@@ -1,3 +1,6 @@
+> 本文内容由[SuperStar SMTown](https://zh.wikipedia.org/wiki/SuperStar_SMTown)转换而来。
+
+
 《**SuperStar SMTOWN**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")公司和韓國[節奏遊戲公司Dalcomsoft合作](https://zh.wikipedia.org/wiki/節奏遊戲 "wikilink")，2014年8月在[Google Play推出的](../Page/Google_Play.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")。遊戲特色在於，歌曲是韓國SM娛樂公司藝人的主打歌曲，像是：[寶兒](../Page/寶兒.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[Super Junior](../Page/Super_Junior.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")、[f(x)](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")、[EXO](../Page/EXO.md "wikilink")、[Red Velvet和](../Page/Red_Velvet.md "wikilink")[NCT](../Page/NCT.md "wikilink")。需要說明的是，本遊戲僅在韓國、新加坡、香港、菲律賓、馬來西亞及泰國[App Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")（iOS）和Google Play（Android）提供，而在語言則是提供[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")。《[全民天團](https://zh.wikipedia.org/wiki/全民天團 "wikilink")》是該遊戲的中國服務器版本。
 
 《SuperStar SMTOWN》是一款透過觸控來完成的節奏遊戲，除此之外還融合[卡牌元素](https://zh.wikipedia.org/wiki/卡牌游戏 "wikilink")，遊戲中的小卡都是按照專輯宣傳照去製作，玩家可以透過蒐集團員的小卡來增加遊戲分數。遊戲中提供了來自SM娛樂二十餘組藝人，二百首以上的歌曲，以及800張以上的卡牌。

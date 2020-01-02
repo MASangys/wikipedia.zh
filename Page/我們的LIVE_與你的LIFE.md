@@ -1,3 +1,6 @@
+> 本文内容由[我們的LIVE 與你的LIFE](https://zh.wikipedia.org/wiki/我們的LIVE_與你的LIFE)转换而来。
+
+
 《**我們的LIVE 與你的LIFE**》（）是[μ's的第一首](https://zh.wikipedia.org/wiki/LoveLive!#登場人物 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2010年8月13日在[C78會場內以](../Page/Comic_Market.md "wikilink")「LoveLive\! School idol project」名義發售夏CM限定版（），後於同年8月25日公開發售通常版。
 
 ## 概要

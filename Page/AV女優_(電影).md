@@ -1,3 +1,6 @@
+> 本文内容由[AV女優 \(電影\)](https://zh.wikipedia.org/wiki/AV女優_\(電影\))转换而来。
+
+
 \-{H|zh-tw:AV偶像; zh-hk:AV女優; zh-cn:AV女优;}-  **AV女優**（、），是一套[日本](../Page/日本.md "wikilink")與[南韓合拍的三級喜劇電影](https://zh.wikipedia.org/wiki/南韓 "wikilink")，由執導，前av女優[辰巳唯](../Page/辰巳唯.md "wikilink")為主角。
 
 內容是主角涼子到南韓拍攝[AV的故事](https://zh.wikipedia.org/wiki/日本成人影片 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[ThinkPad X1 Carbon](https://zh.wikipedia.org/wiki/ThinkPad_X1_Carbon)转换而来。
+
+
 [Lenovo_ThinkPad_X1_Ultrabook_(Nov_16,_2012).png](https://zh.wikipedia.org/wiki/File:Lenovo_ThinkPad_X1_Ultrabook_\(Nov_16,_2012\).png "fig:Lenovo_ThinkPad_X1_Ultrabook_(Nov_16,_2012).png") **ThinkPad X 1 Carbon** 是由[联想公司于](https://zh.wikipedia.org/wiki/联想 "wikilink")2012年首次发布，並且在2013年，2014年以及2015年升级的[Thinkpad系列的高端轻薄型商务笔记本電腦](https://zh.wikipedia.org/wiki/Thinkpad "wikilink")。ThinkPad X 1 Carbon 使用了具有触摸功能的多点触控屏幕以便更有效地與微软针對触摸优化的[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") 操作系统进行協同操作。
 
 ## 發佈

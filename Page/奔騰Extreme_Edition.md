@@ -1,3 +1,6 @@
+> 本文内容由[奔騰Extreme Edition](https://zh.wikipedia.org/wiki/奔騰Extreme_Edition)转换而来。
+
+
 [Intel-logo.svg](https://zh.wikipedia.org/wiki/File:Intel-logo.svg "fig:Intel-logo.svg") **** 是在2005年春天的開發者論壇中推出的一系列微處理器之品牌名稱。這個處理器是以雙核心的為基礎，但他擁有[超執行緒](../Page/超執行緒.md "wikilink")，因此任何的作業系統會看到四個邏輯的處理器（2x2實體核心）。這個處理器也支援和。它沒有鎖頻。早期的效能報告提到這個處理器最高能以空氣冷卻而在3.8GHz穩定執行。是在2005年早期推出，價格是999.99美元（）或1,200美元（零售）。
 
 ## 核心

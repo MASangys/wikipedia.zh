@@ -1,3 +1,6 @@
+> 本文内容由[Xcin](https://zh.wikipedia.org/wiki/Xcin)转换而来。
+
+
 **Xcin**是一套廣泛使用的[X Window](https://zh.wikipedia.org/wiki/X_Window "wikilink")[中文輸入軟體](https://zh.wikipedia.org/wiki/中文輸入法 "wikilink")，現已停止開發，最後版本是2.5.3pre2。
 
 ## XIM時代之前的Xcin

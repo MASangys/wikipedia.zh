@@ -1,3 +1,6 @@
+> 本文内容由[Qt Extended](https://zh.wikipedia.org/wiki/Qt_Extended)转换而来。
+
+
 **Qt Extended**（2008年9月30日前稱**Qtopia**）\[1\]是一個軟體平台，主要用於採用[嵌入式](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[Linux](../Page/Linux.md "wikilink")系統（embedded Linux-based system）的[電子手帳或](https://zh.wikipedia.org/wiki/電子手帳 "wikilink")[移動電話](https://zh.wikipedia.org/wiki/移動電話 "wikilink")。Qt Extended的主要用途，在於提供一個跨平台的軟體平台，以便軟體開發者可以為系統提供更多的軟體。Qt Extended是由[Nokia的子公司](https://zh.wikipedia.org/wiki/Nokia "wikilink")[Qt Software](https://zh.wikipedia.org/wiki/Qt_Software "wikilink")（前稱Trolltech）所開發。
 
 ## 開發中止

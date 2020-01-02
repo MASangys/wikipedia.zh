@@ -1,3 +1,6 @@
+> 本文内容由[WebLogic](https://zh.wikipedia.org/wiki/WebLogic)转换而来。
+
+
 **WebLogic**是美商[Oracle的主要產品之一](https://zh.wikipedia.org/wiki/Oracle "wikilink")，係購併得來。是商業市場上主要的[Java](../Page/Java.md "wikilink")（）應用[伺服器軟體](https://zh.wikipedia.org/wiki/伺服器 "wikilink")（）之一，是世界上第一个成功商业化的J2EE应用服务器，目前已推出到12c（12.1.1）版。而此產品也延伸出WebLogic Portal, WebLogic Integration等企業用的中介軟體（但目前Oracle主要以Fusion Middleware融合中间件来取代这些WebLogic Server之外的企业套件），以及OEPE（Oracle Enterprise Pack for Eclipse）開發工具。
 
 WebLogic最早由WebLogic Inc.开发，後併入BEA公司，最终BEA公司又并入Oracle公司。

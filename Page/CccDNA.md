@@ -1,3 +1,6 @@
+> 本文内容由[CccDNA](https://zh.wikipedia.org/wiki/CccDNA)转换而来。
+
+
 **cccDNA**即**共价闭合环状DNA** (covalently closed circular DNA)是一种有[三级结构的双链环状](../Page/DNA超螺旋.md "wikilink")[DNA分子](https://zh.wikipedia.org/wiki/DNA "wikilink")，最早是在[噬菌体](../Page/噬菌体.md "wikilink")中发现的，而在自然界中被[DNA病毒](https://zh.wikipedia.org/wiki/DNA病毒 "wikilink")（如[多瘤病毒科](../Page/多瘤病毒科.md "wikilink")）感染的其它细胞中也有发现。\[1\]\[2\]
 
 ## 产生

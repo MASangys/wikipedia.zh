@@ -1,3 +1,6 @@
+> 本文内容由[SamTrans](https://zh.wikipedia.org/wiki/SamTrans)转换而来。
+
+
 **SamTrans**，全稱為**聖馬刁郡運輸委員會**（）是位在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山灣區](../Page/舊金山灣區.md "wikilink")的[聖馬刁郡的](../Page/聖馬刁郡_\(加利福尼亞州\).md "wikilink")[公共運輸管理及營運單位](https://zh.wikipedia.org/wiki/公共運輸 "wikilink")。其服務範圍主要是[聖布魯諾山東側的聖馬刁郡](https://zh.wikipedia.org/wiki/聖布魯諾山 "wikilink")，並延伸到[舊金山與](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[帕羅奧圖](https://zh.wikipedia.org/wiki/帕羅奧圖_\(加利福尼亞州\) "wikilink")；太平洋側的服務則較有限。\[1\]
 
 ## 巴士服務

@@ -1,3 +1,6 @@
+> 本文内容由[倩女幽魂II：人間道](https://zh.wikipedia.org/wiki/倩女幽魂II：人間道)转换而来。
+
+
 是1990年香港電影。[徐克監製](https://zh.wikipedia.org/wiki/徐克_\(香港\) "wikilink")[倩女幽魂系列第二部](https://zh.wikipedia.org/wiki/倩女幽魂_\(1987年电影\) "wikilink")，演員除了第一部的[張國榮](../Page/張國榮.md "wikilink")、[王祖賢](../Page/王祖賢.md "wikilink")、[午馬](../Page/午馬.md "wikilink")、[劉兆銘](../Page/劉兆銘.md "wikilink")，加入了[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")，[李嘉欣](../Page/李嘉欣.md "wikilink")、[李子雄](../Page/李子雄.md "wikilink")、[劉洵](https://zh.wikipedia.org/wiki/劉洵_\(香港演員\) "wikilink")。而且劇情已經離開聊齋原著，另講新故事。
 
 ## 劇情

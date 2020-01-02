@@ -1,3 +1,6 @@
+> 本文内容由[S\&T重工业](https://zh.wikipedia.org/wiki/S\&T重工业)转换而来。
+
+
 **S\&T重工业**（****；）是一家[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[武器](../Page/武器.md "wikilink")、汽车配件、铸造品及[机械](../Page/机械.md "wikilink")设备生产商，也被称为爱思恩梯重工业公司\[1\]。其作為韓國[國防工業](../Page/國防工業.md "wikilink")的一環，设计、生产出各类武器装备，並已大量装备于[大韓民國國軍](../Page/大韓民國國軍.md "wikilink")各军种的前线部队。
 
 ## 历史沿革

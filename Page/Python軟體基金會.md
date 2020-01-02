@@ -1,3 +1,6 @@
+> 本文内容由[Python軟體基金會](https://zh.wikipedia.org/wiki/Python軟體基金會)转换而来。
+
+
 **Python軟體基金會**（Python Software Foundation，簡稱**PSF**）是一個致力於[Python](../Page/Python.md "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")\[1\]的[非營利組織](../Page/非營利組織.md "wikilink")，成立於2001年3月6日。基金會的宗旨在於“推廣、保護並提昇Python程式語言，同時支持並促進多元及國際性Python程式設計師社群的成長。”在這個宗旨下，基金會主要的工作有：
 
 1.  開發Python的核心發行版本

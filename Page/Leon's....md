@@ -1,3 +1,6 @@
+> 本文内容由[Leon\'s...](https://zh.wikipedia.org/wiki/Leon\'s...)转换而来。
+
+
 《**Leon's...**》是[黎明](../Page/黎明.md "wikilink")的[音樂專輯](../Page/音樂專輯.md "wikilink")，專輯收錄了四首歌曲，由[葉廣權擔任唱片監製](https://zh.wikipedia.org/wiki/葉廣權 "wikilink")，於1997年10月推出\[1\]。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[小q拉盖尔多项式](https://zh.wikipedia.org/wiki/小q拉盖尔多项式)转换而来。
+
+
 [Little_q-Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Little_q-Laguerre_polynomials.gif "fig:Little_q-Laguerre_polynomials.gif") **小q拉盖尔多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")
 
 \[\displaystyle  p_n(x;a|q) = {}_2\phi_1(q^{-n},0;aq;q,qx) = \frac{1}{(a^{-1}q^{-n};q)_n}{}_2\phi_0(q^{-n},x^{-1};;q,x/a)\]

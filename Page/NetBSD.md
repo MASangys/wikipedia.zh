@@ -1,3 +1,6 @@
+> 本文内容由[NetBSD](https://zh.wikipedia.org/wiki/NetBSD)转换而来。
+
+
 **NetBSD**是一份自由、安全的具有高度可定制性的[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")，适于多种平台，从[64位元](../Page/64位元.md "wikilink")[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") [Athlon](https://zh.wikipedia.org/wiki/Athlon "wikilink")[服务器](../Page/服务器.md "wikilink")和桌面系统到[手持设备和](https://zh.wikipedia.org/wiki/手持设备 "wikilink")[嵌入式设备](https://zh.wikipedia.org/wiki/嵌入式设备 "wikilink")。它设计简洁，代码规范，拥有众多先进特性，使得它在业界和学术界广受好评，用户可以通过完整的[源代码](../Page/源代码.md "wikilink")获得支持。许多[程序都可以很容易地通过](https://zh.wikipedia.org/wiki/程序 "wikilink")[NetBSD Packages Collection获得](https://zh.wikipedia.org/wiki/NetBSD_Packages_Collection "wikilink")。
 
 ## 歷史

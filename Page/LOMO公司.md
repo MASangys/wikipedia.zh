@@ -1,3 +1,6 @@
+> 本文内容由[LOMO公司](https://zh.wikipedia.org/wiki/LOMO公司)转换而来。
+
+
 [Lomo_lc-a.JPG](https://zh.wikipedia.org/wiki/File:Lomo_lc-a.JPG "fig:Lomo_lc-a.JPG") **LOMO**（**ЛОМО**），**Ленинградское Оптико-Механическое Объединение**的缩写，意思为**列宁格勒光学机械联盟**。它是[俄罗斯](../Page/俄罗斯.md "wikilink")[圣彼得堡的一家高级光学器材生产商](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")。它出品的相机也以**LOMO**为标记。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[打吡睇真D](https://zh.wikipedia.org/wiki/打吡睇真D)转换而来。
+
+
 《**打吡睇真D**》（），是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")製作的賽馬資訊節目，於2015年3月9日至3月13日星期一至五晚上21:30-22:00於[本港台](../Page/本港台.md "wikilink")現場直播\[1\]，全節目共5集。\[2\] [缩略图](https://zh.wikipedia.org/wiki/File:打吡睇真D.png "fig:缩略图")
 
 ## 內容

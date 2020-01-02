@@ -1,3 +1,6 @@
+> 本文内容由[DAISUKI](https://zh.wikipedia.org/wiki/DAISUKI)转换而来。
+
+
 **DAISUKI.net**是由多家廣告及動畫相關公司合資成立，為日本以外的國家或地區提供[動畫節目與販售等相關商品的網路平台](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由Anime Consortium Japan公司營運。於2013年5月開設，2017年10月結束營運\[1\]\[2\]。網站關閉前幾個月，[萬代南夢宮從其餘](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")14家出資公司購入餘下股份，將負責營運的Anime Consortium Japan公司子公司化。
 
 ## 概要

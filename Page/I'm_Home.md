@@ -1,3 +1,6 @@
+> 本文内容由[I\'m Home](https://zh.wikipedia.org/wiki/I\'m_Home)转换而来。
+
+
 《**I'm home**》（），為日本漫畫家創作的日本漫畫，1997年7月至1998年12月於小學館「BIG COMIC ORIGINAL」連載。1999年2月發行上下集單行本漫畫。2004年由[NHK改編為連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")《I'm home 遙遠的返家之路》（）\[1\]，由[淺野妙子](../Page/淺野妙子.md "wikilink")編劇，真鍋齋、本木一博執導，[時任三郎](../Page/時任三郎.md "wikilink")、及主演，全劇共24集。2015年4月由[朝日電視台](../Page/朝日電視台.md "wikilink")改編為連續劇，全劇共10集。本條目僅介紹2015版改編連續劇。
 
 ## 內容概要

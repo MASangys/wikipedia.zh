@@ -1,3 +1,6 @@
+> 本文内容由[NATO装甲标靶](https://zh.wikipedia.org/wiki/NATO装甲标靶)转换而来。
+
+
 **NATO装甲标靶**是一系列[NATO规定的用于测试武器穿甲能力的](https://zh.wikipedia.org/wiki/NATO "wikilink")[装甲](../Page/装甲.md "wikilink")[标靶](https://zh.wikipedia.org/wiki/标靶 "wikilink")，其中三层重型标靶是用于模拟[弹丸穿透苏联坦克的裙板](../Page/炮彈.md "wikilink")、路轮或车体的难度。\[1\]
 
 标靶的定义如下:

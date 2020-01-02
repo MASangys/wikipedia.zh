@@ -1,3 +1,6 @@
+> 本文内容由[模块:Template invocation](https://zh.wikipedia.org/wiki/模块:Template_invocation)转换而来。
+
+
 \-- This module provides functions for making MediaWiki template invocations.
 
 local checkType = require('libraryUtil').checkType

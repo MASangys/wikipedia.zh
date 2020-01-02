@@ -1,3 +1,6 @@
+> 本文内容由[Brick Like Me](https://zh.wikipedia.org/wiki/Brick_Like_Me)转换而来。
+
+
 《**Brick Like Me**》 是[卡通](../Page/卡通.md "wikilink")《[辛普森一家](../Page/辛普森一家.md "wikilink")》第25季第20集的名称，在2014年5月4日由[福克斯广播公司首播](https://zh.wikipedia.org/wiki/福克斯广播公司 "wikilink")。\[1\] 這集特點是[傳統動畫和](https://zh.wikipedia.org/wiki/傳統動畫 "wikilink")[電腦動畫的組合](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")。荷馬醒來後，看到一切是[樂高](../Page/樂高.md "wikilink")積木組成，他在積木世界之前必須弄清事情。
 
 ## 劇情

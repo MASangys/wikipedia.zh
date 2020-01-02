@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Creative Suite](https://zh.wikipedia.org/wiki/Adobe_Creative_Suite)转换而来。
+
+
 **Adobe Creative Suite**是[Adobe](../Page/Adobe.md "wikilink")公司出品的集成了[平面设计](../Page/平面设计.md "wikilink")、[视频编辑](https://zh.wikipedia.org/wiki/视频编辑 "wikilink")、[网页设计](../Page/网页设计.md "wikilink")等[应用的产品套装](https://zh.wikipedia.org/wiki/应用 "wikilink")。
 
 该套装最初主要包括电子文件制作程序[Adobe Acrobat](../Page/Adobe_Acrobat.md "wikilink")、矢量图形绘图程序[Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")、排版程序[Adobe InDesign](../Page/Adobe_InDesign.md "wikilink")、图像处理程序[Adobe Photoshop等产品](../Page/Adobe_Photoshop.md "wikilink")，在后来的版本中又加入了网页设计程序[Adobe Dreamweaver](../Page/Adobe_Dreamweaver.md "wikilink")、视觉特效制作程序[Adobe After Effects](../Page/Adobe_After_Effects.md "wikilink")、音频编辑程序[Adobe Audition](../Page/Adobe_Audition.md "wikilink")、网页图形设计程序[Adobe Fireworks](../Page/Adobe_Fireworks.md "wikilink")、矢量动画制作程序[Adobe Animate](../Page/Adobe_Animate.md "wikilink")、视频编辑程序[Adobe Premiere Pro等](../Page/Adobe_Premiere_Pro.md "wikilink")。

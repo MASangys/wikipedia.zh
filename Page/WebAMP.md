@@ -1,3 +1,6 @@
+> 本文内容由[WebAMP](https://zh.wikipedia.org/wiki/WebAMP)转换而来。
+
+
 **WebAMP** 是一種[網站](../Page/網站.md "wikilink")加速服務，用以提昇網站對外服務的頻寬能量。WebAMP是由台灣的網路服務業者[和信超媒體所推出的網路服務](https://zh.wikipedia.org/wiki/和信超媒體 "wikilink")，屬於[反向代理](../Page/反向代理.md "wikilink")伺服器（Reverse Proxy Server）的一種應用，可達到[負載平衡](https://zh.wikipedia.org/wiki/負載平衡 "wikilink")（Load Balance）。
 
 和信超媒體於2008年8月28日宣布將子公司和網寬頻出售給[中嘉網路](../Page/中嘉網路.md "wikilink")，隨後也於2008年10月30日停止接受WebAMP服務的申請。

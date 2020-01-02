@@ -1,3 +1,6 @@
+> 本文内容由[Ever](https://zh.wikipedia.org/wiki/Ever)转换而来。
+
+
 **Ever**是於2000年所成立的[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，為前[beyond鼓手](https://zh.wikipedia.org/wiki/beyond "wikilink")[葉世榮](../Page/葉世榮.md "wikilink")旗下藝人，由三位成員組成，分別是[何家豪](../Page/何家豪.md "wikilink")、[何家杰以及](https://zh.wikipedia.org/wiki/何家杰 "wikilink")[李恆韜](https://zh.wikipedia.org/wiki/李恆韜 "wikilink")，活躍時間為2000年至今。而[何家豪](../Page/何家豪.md "wikilink")负责打鼓，写歌、填词、编曲以及主唱一手包办。
 
 ## 簡介

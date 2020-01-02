@@ -1,3 +1,6 @@
+> 本文内容由[Love Killah](https://zh.wikipedia.org/wiki/Love_Killah)转换而来。
+
+
 《**Love Killah**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的首張影音迷你專輯，於2015年1月21日開始預購\[1\]（超親密FAN MEETING限量版），2月4日正式發行（超豪華寫真典藏版）\[2\]，並於3月24日推出專輯改版（Fan Meeting Live直擊影音珍藏版）。首波主打歌為重拍酷潮舞曲《Love Killah》\[3\]；第二主打為中版情歌《迷失in U》\[4\]；第三主打為手機遊戲《少年三國志》及偶像劇《[終極一班4](../Page/終極一班4.md "wikilink")》主題曲《Break It Down 11.11》。SpeXial其後憑歌曲《迷失in U》於《[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")[全球中文音樂榜上榜](../Page/全球中文音樂榜上榜_\(臺灣版\).md "wikilink")》創下破六萬最高得票數，並合共奪得七次冠軍，成為「七冠王」。
 
 ## 專輯簡介

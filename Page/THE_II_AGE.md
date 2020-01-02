@@ -1,3 +1,6 @@
+> 本文内容由[THE II AGE](https://zh.wikipedia.org/wiki/THE_II_AGE)转换而来。
+
+
 『**THE II AGE**』（英語讀音: THE SECOND AGE）是[THE SECOND from EXILE的首張專輯](https://zh.wikipedia.org/wiki/THE_SECOND_from_EXILE "wikilink")。
 
 ## 概要

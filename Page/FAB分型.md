@@ -1,3 +1,6 @@
+> 本文内容由[FAB分型](https://zh.wikipedia.org/wiki/FAB分型)转换而来。
+
+
 **FAB分型**系统，即法、美、英分型系统（）是一系列关于[急性白血病的分型诊断标准](https://zh.wikipedia.org/wiki/急性白血病 "wikilink")\[1\]，最早于1976年提出。\[2\]
 
 类型包括：

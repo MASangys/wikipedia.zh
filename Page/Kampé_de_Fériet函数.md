@@ -1,3 +1,6 @@
+> 本文内容由[Kampé de Fériet函数](https://zh.wikipedia.org/wiki/Kampé_de_Fériet函数)转换而来。
+
+
 **Kampé de Fériet函数**是[法兰西](https://zh.wikipedia.org/wiki/法兰西 "wikilink")[数学家](../Page/数学家.md "wikilink")在1937年为推广[超几何函数](../Page/超几何函数.md "wikilink")而创建的二元[特殊函数](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")，其定义如下：
 
 \[F^{p,q}_{r,s}\left(

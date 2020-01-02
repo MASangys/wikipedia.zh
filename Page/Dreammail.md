@@ -1,3 +1,6 @@
+> 本文内容由[Dreammail](https://zh.wikipedia.org/wiki/Dreammail)转换而来。
+
+
 **Dreammail**是一款在[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [Windows平台上运行的免费的专业](https://zh.wikipedia.org/wiki/Windows "wikilink")[电子邮件客户端软件](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")，用于管理和收发[电子邮件](../Page/电子邮件.md "wikilink")。它采用多用户和多账号方式来管理电子邮件，支持 [SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[ESMTP](https://zh.wikipedia.org/wiki/ESMTP "wikilink")、[POP3等邮件协议](https://zh.wikipedia.org/wiki/POP3 "wikilink")，并支持接收[Hotmail](https://zh.wikipedia.org/wiki/Hotmail "wikilink")、[Yahoo的](https://zh.wikipedia.org/wiki/Yahoo "wikilink")[Webmail](../Page/Webmail.md "wikilink")的邮件 ，但不支持IMAP协议，支持SSL加密，却不支持TSL加密。真正采用[多线程](../Page/多线程.md "wikilink")高速收发邮件。附带增强型远程管理，可以直接查看服务器上邮件的内容、可以在服务器上直接删除邮件；邮件过滤器、黑名单及白名单等组合使用，能有效对付垃圾邮件；DreamMail能自动检测破坏性邮件，增强系统安全；另外，DreamMail还支持特快专递、语音邮件、匿名发送及群组发送等。
 
 DreamMail全面支持 [HTML](../Page/HTML.md "wikilink") 邮件、邮件模板、邮件签名以及备份和管理电子邮件；特有的破乱码技术，轻松对付各种[乱码邮件](https://zh.wikipedia.org/wiki/乱码 "wikilink")；内建了邮件压缩存储，能占用更少的硬盘空间；编辑邮件时能自动存盘防止死机断电；拖曳附件到预览窗口即可直接预览；自动删除[垃圾邮件和废纸篓](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")。此外，它还集成了许多特色功能，比如：添加账号时自动检索 [POP3](https://zh.wikipedia.org/wiki/POP3 "wikilink")／[SMTP服务器](https://zh.wikipedia.org/wiki/SMTP "wikilink")；可以自定义动态滚动新闻；可以删除附件以减少硬盘存储量；能够编辑接收到的邮件；支持显示发件人地址及插入邮件表情等等。

@@ -1,3 +1,6 @@
+> 本文内容由[A ONE \(濱崎步專輯\)](https://zh.wikipedia.org/wiki/A_ONE_\(濱崎步專輯\))转换而来。
+
+
 \-{T|A ONE}-
 
 《**A ONE**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第16張原創專輯，於2015年4月8日在日本發行。\[1\]其中，由[林俊傑作曲并參與音樂錄像帶拍攝的專輯收錄曲目](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")「The GIFT」於同年3月23日在KKBOX台灣、香港、新加坡、馬來西亞等大中華地區先行數位公開。\[2\]\[3\]

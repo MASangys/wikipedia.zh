@@ -1,3 +1,6 @@
+> 本文内容由[U.C.纪元GUNDAM作品舰船及其他兵器列表](https://zh.wikipedia.org/wiki/U.C.纪元GUNDAM作品舰船及其他兵器列表)转换而来。
+
+
 此表列出在[日本](../Page/日本.md "wikilink")[动画](../Page/动画.md "wikilink")系列片[机动战士GUNDAM中以](../Page/GUNDAM系列作品.md "wikilink")[宇宙世纪](https://zh.wikipedia.org/wiki/宇宙世纪 "wikilink")（**U.C.**）为纪元的作品中出现的[虚构兵器](https://zh.wikipedia.org/wiki/虚构兵器 "wikilink")。
 
 要获取更多关于GUNDAM的信息，请参看主题条目：

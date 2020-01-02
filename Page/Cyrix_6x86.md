@@ -1,3 +1,6 @@
+> 本文内容由[Cyrix 6x86](https://zh.wikipedia.org/wiki/Cyrix_6x86)转换而来。
+
+
 **Cyrix 6x86**是一顆第六代、32位元、x86相容的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，是由[Cyrix](../Page/Cyrix.md "wikilink")公司所設計，並由[IBM](../Page/IBM.md "wikilink")、[SGS-Thomson所生產](https://zh.wikipedia.org/wiki/SGS-Thomson "wikilink")，於1996年發表。
 
 ## 架構

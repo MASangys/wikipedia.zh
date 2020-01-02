@@ -1,3 +1,6 @@
+> 本文内容由[X視窗系統](https://zh.wikipedia.org/wiki/X視窗系統)转换而来。
+
+
 **X Window系统**（**X Window System**，也常稱為**X11**或**X**）是一种以[位图](../Page/位图.md "wikilink")方式显示的軟體[視窗系統](../Page/視窗系統.md "wikilink")。最初是1984年[麻省理工學院的研究](../Page/麻省理工学院.md "wikilink")，之後變成[UNIX](../Page/UNIX.md "wikilink")、[类UNIX](https://zh.wikipedia.org/wiki/类UNIX "wikilink")、以及[OpenVMS等](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")[操作系统](../Page/操作系统.md "wikilink")所一致適用的標準化軟體工具套件及顯示架構的運作協定。X Window系统透過軟體工具及架構協定來建立作業系統所用的[图形用户界面](../Page/图形用户界面.md "wikilink")，此後則逐漸擴展適用到各形各色的其他作業系統上。现在幾乎所有的作業系統都能支援與使用X。更重要的是，今日知名的[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")——[GNOME](../Page/GNOME.md "wikilink")和[KDE](../Page/KDE.md "wikilink")也都是以X Window系统為基礎建構成的。
 
 由於X只是工具套件及架構規範，本身並無實際參與運作的實體，所以必須有人依據此標準進行開發撰寫。如此才有真正可用、可執行的實體，始可稱為實現體。目前依據X的規範架構所開發撰寫成的實現體中，以[X.Org最為普遍且最受歡迎](../Page/X.Org_Server.md "wikilink")。X.Org所用的協定版本，X11，是在1987年9月所發佈。而今最新的[參考實作](https://zh.wikipedia.org/wiki/參考實作 "wikilink")（參考性、示範性的實作體）版本則是X11 Release 7.7（簡稱：X11R7.7），而此專案由[X.Org基金会](../Page/X.Org基金会.md "wikilink")所領導，且是以[MIT授權和相似的授權許可的](../Page/MIT許可證.md "wikilink")[自由軟體](../Page/自由软件.md "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[Bitnami](https://zh.wikipedia.org/wiki/Bitnami)转换而来。
+
+
 **Bitnami**是一个[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，为开源的Web应用程序、开发堆栈以及虚拟设备提供安装程序或[安装软件包](https://zh.wikipedia.org/wiki/软件包 "wikilink")。Bitnami由Bitrock公司赞助，其为2003年在[西班牙](../Page/西班牙.md "wikilink")[塞维利亚](../Page/塞维利亚.md "wikilink")由Daniel Lopez Ridruejo创立。\[1\]Bitnami stacks用于在[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Solaris](../Page/Solaris.md "wikilink")上安装软件。
 
 ## 概述

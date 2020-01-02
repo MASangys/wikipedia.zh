@@ -1,3 +1,6 @@
+> 本文内容由[Qoo](https://zh.wikipedia.org/wiki/Qoo)转换而来。
+
+
 [Qoo_logo.svg](https://zh.wikipedia.org/wiki/File:Qoo_logo.svg "fig:Qoo_logo.svg") [Qoocharacter.jpg](https://zh.wikipedia.org/wiki/File:Qoocharacter.jpg "fig:Qoocharacter.jpg")
 
 **酷儿**（；）是由[可口可樂公司生產的一種非碳酸飲料](https://zh.wikipedia.org/wiki/可口可樂公司 "wikilink")。1999年11月15日，酷儿在可口可樂日本公司研制成功\[1\]\[2\]\[3\]，并联合[美汁源](../Page/美汁源.md "wikilink")（Minute Maid）在[日本](../Page/日本.md "wikilink")推出了这款面向儿童及青少年的饮料。2001年，酷儿成为可口可乐日本市场第三大品牌，并在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、新加坡及台湾市场（2001年引進臺灣）位居果汁饮料第一品牌，随后也推向[香港](../Page/香港.md "wikilink")和[中國大陆市场](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")\[4\]。在亚洲生产包括[葡萄](../Page/葡萄.md "wikilink")、[苹果](../Page/苹果.md "wikilink")及[橙味的多种口味](https://zh.wikipedia.org/wiki/柳橙 "wikilink")。

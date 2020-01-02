@@ -1,3 +1,6 @@
+> 本文内容由[大Q勒让德多项式](https://zh.wikipedia.org/wiki/大Q勒让德多项式)转换而来。
+
+
 **大q-勒让德多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的正交多项式\[1\]： [BIG_Q-LEGENDER_2D_PLOT.gif](https://zh.wikipedia.org/wiki/File:BIG_Q-LEGENDER_2D_PLOT.gif "fig:BIG_Q-LEGENDER_2D_PLOT.gif")
 
 \[\displaystyle   P_n(x;c;q)={}_3\phi_2(q^{-n},q^{n+1},x;q,cq;q,q)\]

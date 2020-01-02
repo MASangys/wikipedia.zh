@@ -1,3 +1,6 @@
+> 本文内容由[Siro](https://zh.wikipedia.org/wiki/Siro)转换而来。
+
+
 **Siro**\[1\]（，），[日本](../Page/日本.md "wikilink")男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[原畫](https://zh.wikipedia.org/wiki/原畫 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[千葉縣](../Page/千葉縣.md "wikilink")\[2\]，居住於[埼玉縣](../Page/埼玉縣.md "wikilink")[戶田市](../Page/戶田市.md "wikilink")\[3\]。
 
 ## 人物簡介

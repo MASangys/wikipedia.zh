@@ -1,3 +1,6 @@
+> 本文内容由[Vivaldi \(瀏覽器\)](https://zh.wikipedia.org/wiki/Vivaldi_\(瀏覽器\))转换而来。
+
+
 **Vivaldi**是**韋瓦第**科技（Vivaldi Technologies）公司開發的[网页浏览器](../Page/网页浏览器.md "wikilink")。創始人[谭咏文](https://zh.wikipedia.org/wiki/譚詠文 "wikilink")——前[Opera软件公司的執行長](../Page/Opera軟件.md "wikilink")、創辦人——與富田龍起（Tatsuki Tomita）——前Opera软件公司資深副總經理，在離開Opera公司後另起爐灶新創辦\[1\]。
 
 Vivaldi追求「為我們的朋友而打造」，旨在為原先Opera的忠實用户，如高階技術專家、重度的互联网用户，提供原Presto Opera的諸多專屬功能，例如自訂面板、筆記、分頁群組、單鍵快捷鍵等等。[Opera原有不少受歡迎的專屬功能](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")，卻在從[Presto](../Page/Presto.md "wikilink")引擎更換為[Blink](../Page/Blink.md "wikilink")的轉型過程中被削減\[2\]\[3\]而少掉原味。

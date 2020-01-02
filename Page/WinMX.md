@@ -1,3 +1,6 @@
+> 本文内容由[WinMX](https://zh.wikipedia.org/wiki/WinMX)转换而来。
+
+
 **WinMX**是[點對點](https://zh.wikipedia.org/wiki/點對點 "wikilink")（Peer to Peer）[檔案分享](../Page/檔案分享.md "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，由Frontcode Technologies開發。雖然Frontcode由WinMX 2開始，製作了一個擁有權協議，稱為WinMX Peer Network Protocol（WPNP）。WPNP 2在WinMX 3.0淘汰掉，而WPNP 3協議取而代之成立。[Lopster曾有WPNP](https://zh.wikipedia.org/wiki/Lopster "wikilink") 2支援，可是在WPNP 3中被封鎖了。
 
 ## 特性

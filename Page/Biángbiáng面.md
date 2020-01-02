@@ -1,3 +1,6 @@
+> 本文内容由[Biángbiáng面](https://zh.wikipedia.org/wiki/Biángbiáng面)转换而来。
+
+
 [Biang_Biang_Mian.jpg](https://zh.wikipedia.org/wiki/File:Biang_Biang_Mian.jpg "fig:Biang_Biang_Mian.jpg")[Biáng_(regular_script).svg](https://zh.wikipedia.org/wiki/File:Biáng_\(regular_script\).svg "fig:Biáng_(regular_script).svg") **面**（[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")[拼音](../Page/汉语拼音.md "wikilink")：，[注音符號](../Page/注音符號.md "wikilink")：，[国际音标](../Page/國際音標.md "wikilink")：；亦称“**儿面**”，“”字有多种写法，均无法输入电脑，常被代替写为[拼音](../Page/汉语拼音.md "wikilink")：「**BiángBiáng面**」、「**biángbiáng面**」或「**彪彪面**」、「**冰冰面**」），为流行于[陕西](../Page/陕西省.md "wikilink")[关中地区的一种知名传统风味](../Page/渭河平原.md "wikilink")[面食](https://zh.wikipedia.org/wiki/麵食 "wikilink")，属于[扯面](https://zh.wikipedia.org/wiki/扯面 "wikilink")，通过揉、抻、甩、扯等步骤制作，面宽而厚，犹如“裤腰带”，口感劲道，食用前加入各色[臊子或](https://zh.wikipedia.org/wiki/臊子 "wikilink")[油泼辣子](https://zh.wikipedia.org/wiki/油辣 "wikilink")。位居[关中十大怪之首](https://zh.wikipedia.org/wiki/关中十大怪 "wikilink")“扯面像裤带”。
 
 ## 读音与字型

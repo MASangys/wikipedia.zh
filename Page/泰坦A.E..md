@@ -1,3 +1,6 @@
+> 本文内容由[泰坦A.E.](https://zh.wikipedia.org/wiki/泰坦A.E.)转换而来。
+
+
 《**泰坦A.E.**》（）是一部於2000年上映的[美國動畫片](https://zh.wikipedia.org/wiki/美國 "wikilink")，由與合導。
 
 ## 劇情內容

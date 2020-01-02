@@ -1,3 +1,6 @@
+> 本文内容由[So-net](https://zh.wikipedia.org/wiki/So-net)转换而来。
+
+
 **So-net**（）是**索尼网络通信**有限公司（，）的品牌和公司旧称。它是[日本](../Page/日本.md "wikilink")的[電信](https://zh.wikipedia.org/wiki/電信 "wikilink")[ISP](../Page/互联网服务供应商.md "wikilink")，於1995年11月1日由[索尼](../Page/索尼.md "wikilink")成立並全資經營，業務範圍涵蓋[固网电信](../Page/固网电信.md "wikilink")与[移动电话](../Page/移动电话.md "wikilink")等。
 
 ## 日本

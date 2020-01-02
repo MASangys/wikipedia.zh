@@ -1,3 +1,6 @@
+> 本文内容由[ISight](https://zh.wikipedia.org/wiki/ISight)转换而来。
+
+
 [iSight.jpg](https://zh.wikipedia.org/wiki/File:iSight.jpg "fig:iSight.jpg")\]\] **iSight**是一種由[蘋果公司所製造的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[攝像頭](https://zh.wikipedia.org/wiki/攝像頭 "wikilink")。iSight分為內置式和外接式兩種，外接式iSight通過[FireWire連接](../Page/IEEE_1394.md "wikilink")，可以掛載在目前蘋果公司的筆記型電腦、整合式桌上型電腦，以及顯示器上。
 
 [蘋果電腦在](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")2003年的[世界開發者大會推出iSight](https://zh.wikipedia.org/wiki/世界開發者大會 "wikilink")。iSight是設計給[iChat AV](../Page/IChat.md "wikilink")，也就是蘋果電腦的視訊會議程式。[iMovie](../Page/IMovie.md "wikilink") 4以及之後的版本可以從這個裝置擷取影像，而且也是Freeverse軟體公司出品的ToySight遊戲集中所推薦的攝影機。

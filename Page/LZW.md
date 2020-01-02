@@ -1,3 +1,6 @@
+> 本文内容由[LZW](https://zh.wikipedia.org/wiki/LZW)转换而来。
+
+
 }} **藍波-立夫-衛曲編碼法**（Lempel-Ziv-Welch，縮寫LZW），是、与共同提出的一種[無損数据压缩](https://zh.wikipedia.org/wiki/無損数据压缩 "wikilink")[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
 
 它在1984年由泰瑞·衛曲改良亞伯拉罕·藍與傑可布·立夫在1978年发表的[LZ78的版本而來](../Page/LZ77与LZ78.md "wikilink")（主要是基於藍波、立夫的壓縮概念，設計出一套具有可逆推的邏輯程序）。

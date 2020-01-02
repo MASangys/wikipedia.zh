@@ -1,3 +1,6 @@
+> 本文内容由[BCS賞](https://zh.wikipedia.org/wiki/BCS賞)转换而来。
+
+
 **BCS賞**（），或稱「**建築業協會獎**」，是表揚[日本](../Page/日本.md "wikilink")國內優秀[建築作品的獎項](https://zh.wikipedia.org/wiki/建築 "wikilink")。BCS為建築業協會（**B**uilding **C**ontractors **S**ociety）的簡稱。
 
 ## 概要

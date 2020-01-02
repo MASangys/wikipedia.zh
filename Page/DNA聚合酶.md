@@ -1,3 +1,6 @@
+> 本文内容由[DNA聚合酶](https://zh.wikipedia.org/wiki/DNA聚合酶)转换而来。
+
+
 [DNA_polymerase.png](https://zh.wikipedia.org/wiki/File:DNA_polymerase.png "fig:DNA_polymerase.png")基序的三维模型\]\]**DNA聚合酶**（DNA Polymerase，[EC編號](../Page/EC編號.md "wikilink")2.7.7.7）是一種參與[DNA複製的](https://zh.wikipedia.org/wiki/DNA複製 "wikilink")[酶](../Page/酶.md "wikilink")。它主要是以[模板的形式](https://zh.wikipedia.org/wiki/模板 "wikilink")，[催化](../Page/催化.md "wikilink")[去氧核糖核苷酸的](https://zh.wikipedia.org/wiki/去氧核糖核苷酸 "wikilink")[聚合](https://zh.wikipedia.org/wiki/聚合 "wikilink")。[聚合後的](https://zh.wikipedia.org/wiki/聚合 "wikilink")[分子](../Page/分子.md "wikilink")將會組成模板鏈並再進一步參與配對。
 
 [DNA_replication_zh.png](https://zh.wikipedia.org/wiki/File:DNA_replication_zh.png "fig:DNA_replication_zh.png")

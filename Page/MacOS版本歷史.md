@@ -1,3 +1,6 @@
+> 本文内容由[MacOS版本歷史](https://zh.wikipedia.org/wiki/MacOS版本歷史)转换而来。
+
+
 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 是[蘋果電腦作業系統產品線最新的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink") [Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。儘管官方上簡單地說是 Mac OS 的 "版本10"，但是在歷史上看來它與早期的 Mac OS 版本有本质区别。
 
 ## 在蘋果外部發展

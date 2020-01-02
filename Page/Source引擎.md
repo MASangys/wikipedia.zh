@@ -1,3 +1,6 @@
+> 本文内容由[Source引擎](https://zh.wikipedia.org/wiki/Source引擎)转换而来。
+
+
 **Source引擎**（****、**起源引擎**）是一个真[三维的](https://zh.wikipedia.org/wiki/三维 "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")，由[Valve软件公司为了](https://zh.wikipedia.org/wiki/維爾福 "wikilink")[第一人称射击游戏](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")《[半条命2](https://zh.wikipedia.org/wiki/半条命2 "wikilink")》而开发，并且对其他的游戏开发者开放授权。这个引擎提供算繪、音效、动画、[抗锯齿](https://zh.wikipedia.org/wiki/抗锯齿 "wikilink")、界面、网络、美工创意和物理模拟方面的支持。
 
 就像以往一样，玩家如果想要享受新的引擎带来的绚丽效果，就要有一块当下比较流行的[显卡进行支持](https://zh.wikipedia.org/wiki/显卡 "wikilink")。Source引擎的互动性和响应性让《半条命2》比前一代更加的具有游戏性，但是Source引擎的真正特性往往不会被人提及。

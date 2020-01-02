@@ -1,3 +1,6 @@
+> 本文内容由[Quartz 2D](https://zh.wikipedia.org/wiki/Quartz_2D)转换而来。
+
+
 **Quartz 2D**是在[Mac OS X中的主要繪圖函式庫](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。它取代早期版本的[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")（現在稱為"Classic"）所使用的[QuickDraw](https://zh.wikipedia.org/wiki/QuickDraw "wikilink")。
 
 Quartz 2D是以Adobe [PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")（一種統一的檔案格式，不管在那個平台上建立，在任何來源的文件中保留所有的字型，格式，顏色，以及繪圖）1.4版本為基礎。他是源自[NeXT](../Page/NeXT.md "wikilink")的[Display PostScript後代](https://zh.wikipedia.org/wiki/Display_PostScript "wikilink")。

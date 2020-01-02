@@ -1,3 +1,6 @@
+> 本文内容由[ZIP格式](https://zh.wikipedia.org/wiki/ZIP格式)转换而来。
+
+
 **ZIP**[文件格式是一种数据压缩和文档储存的文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")，原名Deflate，发明者为[菲尔·卡茨](../Page/菲尔·卡茨.md "wikilink")（），他于1989年1月公布了该格式的资料。ZIP通常使用后缀名“.zip”，它的[MIME格式为application](https://zh.wikipedia.org/wiki/MIME "wikilink")/zip。目前，ZIP格式属于几种主流的压缩格式之一，其竞争者包括[RAR](../Page/RAR.md "wikilink")格式以及开放源码的[7z](../Page/7z.md "wikilink")格式。从性能上比较，RAR及7z格式较ZIP格式压缩率较高，而[7-Zip](../Page/7-Zip.md "wikilink")由于提供了免费的压缩工具而逐渐在更多的领域得到应用。[Microsoft从](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows ME操作系统开始内置对zip格式的支持](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")，即使用户的电脑上没有安装解压缩软件，也能打开和制作zip格式的压缩文件，[OS X和流行的](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")操作系统也对zip格式提供了类似的支持。因此如果在网络上传播和分发文件，zip格式往往是最常用的选择。
 
 ## 历史

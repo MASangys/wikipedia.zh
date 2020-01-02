@@ -1,3 +1,6 @@
+> 本文内容由[Batcher归并网络](https://zh.wikipedia.org/wiki/Batcher归并网络)转换而来。
+
+
 ## 基本术语
 
 Batcher排序网络是由一系列**Batcher比较器（Batcher's Comparator）**组成的。Batcher比较器是指在两个输入端给定输入x,y，再在两个输出端输出最大值max{x,y}和最小值min{x,y}。

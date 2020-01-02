@@ -1,3 +1,6 @@
+> 本文内容由[ATV這一家](https://zh.wikipedia.org/wiki/ATV這一家)转换而来。
+
+
 《**ATV這一家**》（），是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")的[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")，由[蔡國威](../Page/蔡國威.md "wikilink")和[劉錫賢](../Page/劉錫賢.md "wikilink")主持，逢星期一至五[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")18:35至18:45於[本港台](../Page/本港台.md "wikilink")及[亞洲台播出](../Page/亞洲電視亞洲台.md "wikilink")；第1至13集由欖菊康滌除菌洗衣液特約贊助播出，第14至43集由[亞洲會](../Page/亞洲會.md "wikilink")贊助播出。\[1\]
 
 ## 內容

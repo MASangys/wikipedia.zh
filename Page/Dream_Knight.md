@@ -1,3 +1,6 @@
+> 本文内容由[Dream Knight](https://zh.wikipedia.org/wiki/Dream_Knight)转换而来。
+
+
 [GOT7](../Page/GOT7.md "wikilink"){{、w}}[李玟暎](https://zh.wikipedia.org/wiki/李玟暎 "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =
  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 12集 | list_episodes = | slogan = | executive_producer = | supervising_producer = | producer = | editor = | location = 仁川大學
 仁川松島G-Tower

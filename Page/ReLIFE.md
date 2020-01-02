@@ -1,3 +1,6 @@
+> 本文内容由[ReLIFE](https://zh.wikipedia.org/wiki/ReLIFE)转换而来。
+
+
 ，是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[夜宵草](../Page/夜宵草.md "wikilink")所創作的一部的[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於2013年10月12日在[comico開始連載](https://zh.wikipedia.org/wiki/comico "wikilink")\[1\]\[2\]，2018年3月16日漫畫完結。2014年8月12日[TSUTAYA获得授权发售单行本](../Page/Culture_Convenience_Club.md "wikilink")\[3\]\[4\]\[5\]。
 
 在2014年6月7日於应用程式发布\[6\]\[7\]\[8\]，且在頭十五天就超過四十萬次的下載量，获得[苹果App Store全应用市场排行第一](../Page/App_Store_\(iOS\).md "wikilink")\[9\]\[10\]\[11\]，并成为comico在台湾首次登陆的漫画应用之一\[12\]。

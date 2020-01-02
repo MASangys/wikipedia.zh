@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A梦大长篇](https://zh.wikipedia.org/wiki/哆啦A梦大长篇)转换而来。
+
+
 《**哆啦A梦大长篇**》（，直譯為**小學館瓢蟲漫畫《大長篇哆啦A夢》**，簡稱）是日本動漫《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》的長篇漫畫版，從1980年1月《[大雄的恐龍](../Page/大雄的恐龍.md "wikilink")》開始連載，作為每年3月上映的[電影版原作及先行宣傳](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")，至1996年[藤子逝世為止有](https://zh.wikipedia.org/wiki/藤子.F.不二雄 "wikilink")16部。
 
 ## 連載情形

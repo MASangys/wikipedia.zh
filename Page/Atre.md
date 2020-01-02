@@ -1,3 +1,6 @@
+> 本文内容由[Atre](https://zh.wikipedia.org/wiki/Atre)转换而来。
+
+
 **株式會社atre** (，*atre co., ltd.*) 是經營開發**atré**（アトレ）等的[JR東日本集團企業](../Page/東日本旅客鐵道.md "wikilink")。舊社名**東京圈車站大樓開發株式會社**（，*The EKIBIRU Development Co. TOKYO,*）。
 
 [東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）的連結子公司。

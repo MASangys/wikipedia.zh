@@ -1,3 +1,6 @@
+> 本文内容由[CJK字体列表](https://zh.wikipedia.org/wiki/CJK字体列表)转换而来。
+
+
 **CJK字体列表**，是[中日韓統一表意文字](../Page/中日韓統一表意文字.md "wikilink")在電腦的所有字體列表。
 
 中日韩统一表意文字传统上有多种表现方式；而作为现代的字体，则主要有宋体（或称明体，相当于西方的衬线体）、黑体（相当于西方的非衬线体）及多种类手写体（如楷体、隶书体等）。
@@ -49,7 +52,7 @@
   - [Batang](https://zh.wikipedia.org/wiki/Batang "wikilink")（）、BatangChe（）、HYMyeongJo（）：随微软Windows分发
   - <span style="background-color:#90FF90;">\[F\]</span> UnBatang（）：大部份 Linux 發行版都有
   - [Seoul Hangang](https://zh.wikipedia.org/wiki/首爾漢江體 "wikilink")（）：[首尔市政府的官方字体](https://zh.wikipedia.org/wiki/首尔市政府 "wikilink")
-  - <span style="background-color:#90FF90;">\[F\]</span> [Nanum Myeongjo](https://zh.wikipedia.org/wiki/共享體 "wikilink")（）：Nanum系列字体之一，由[Naver公司发布](https://zh.wikipedia.org/wiki/Naver "wikilink")，[OFL授权](https://zh.wikipedia.org/wiki/OFL "wikilink")
+  - <span style="background-color:#90FF90;">\[F\]</span> [Nanum Myeongjo](../Page/共享體.md "wikilink")（）：Nanum系列字体之一，由[Naver公司发布](https://zh.wikipedia.org/wiki/Naver "wikilink")，[OFL授权](https://zh.wikipedia.org/wiki/OFL "wikilink")
 
 ### 越南文
 
@@ -151,7 +154,7 @@
 
   - Seoul Namsan（）- [首尔市政府的官方字体](https://zh.wikipedia.org/wiki/首尔市政府 "wikilink")。
 
-  - <span style="background-color:#90FF90;">\[F\]</span> [Nanum Gothic](https://zh.wikipedia.org/wiki/共享體 "wikilink")（）– Nanum系列字体之一，由[Naver公司发布](https://zh.wikipedia.org/wiki/Naver "wikilink")，[OFL授权](https://zh.wikipedia.org/wiki/OFL "wikilink")。
+  - <span style="background-color:#90FF90;">\[F\]</span> [Nanum Gothic](../Page/共享體.md "wikilink")（）– Nanum系列字体之一，由[Naver公司发布](https://zh.wikipedia.org/wiki/Naver "wikilink")，[OFL授权](https://zh.wikipedia.org/wiki/OFL "wikilink")。
 
   - <span style="background-color:#90FF90;">\[F\]</span> [Hamchorom Dotum](http://www.hancom.co.kr/downLoad.downView.do?targetRow=1&seqno=3136&mcd_save=005)（）- [Hancom公司开发](https://zh.wikipedia.org/wiki/Hancom "wikilink")。
 

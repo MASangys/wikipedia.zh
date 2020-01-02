@@ -1,3 +1,6 @@
+> 本文内容由[Sakura \(嵐\)](https://zh.wikipedia.org/wiki/Sakura_\(嵐\))转换而来。
+
+
 《**Sakura**》是[嵐](../Page/嵐.md "wikilink")的第45張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2015年2月25日在[日本](../Page/日本.md "wikilink")發行，唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

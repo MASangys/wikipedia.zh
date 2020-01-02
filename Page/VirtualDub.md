@@ -1,3 +1,6 @@
+> 本文内容由[VirtualDub](https://zh.wikipedia.org/wiki/VirtualDub)转换而来。
+
+
 **VirtualDub**是[开放源代码](../Page/开放源代码.md "wikilink")的视频捕捉及线性处理软件，由Avery Lee编写，遵循[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 介绍

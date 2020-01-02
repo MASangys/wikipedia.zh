@@ -1,3 +1,6 @@
+> 本文内容由[NSU車廠](https://zh.wikipedia.org/wiki/NSU車廠)转换而来。
+
+
 **NSU車廠**（）簡稱**NSU**，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")、[機車和](https://zh.wikipedia.org/wiki/機車_\(兩輪車\) "wikilink")[腳踏車製造公司](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")。他成立1873年，1969年時和[福斯集團合併](https://zh.wikipedia.org/wiki/福斯集團 "wikilink")。之後福斯集團與結盟，最終發展成為今日著名的[奧迪](https://zh.wikipedia.org/wiki/奧迪 "wikilink")。
 
 ## 外部連結

@@ -1,3 +1,6 @@
+> 本文内容由[FIRST](https://zh.wikipedia.org/wiki/FIRST)转换而来。
+
+
 **For Inspiration and Recognition of Science and Technology** (**FIRST**)\[1\]是一个国际性青少年组织，组织并举办了[FIRST机器人竞赛](../Page/FIRST机器人竞赛.md "wikilink")、[FIRST乐高联赛](../Page/FIRST乐高联赛.md "wikilink")、、[FIRST科技挑战赛](../Page/FIRST科技挑战赛.md "wikilink")
 
 FIRST由[迪安·卡蒙和](../Page/狄恩·卡门.md "wikilink")创立于1989年，它的目标是使激励学生在[工程领域和](https://zh.wikipedia.org/wiki/工程 "wikilink")[科技领域方面的途径不断拓展](https://zh.wikipedia.org/wiki/科技 "wikilink")。FIRST著称于它合作与竞赛并存的理念，这个理念被解释为*[协作竞争](https://zh.wikipedia.org/wiki/协作竞争 "wikilink")*和*高尚的专业精神*。

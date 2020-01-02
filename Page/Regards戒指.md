@@ -1,3 +1,6 @@
+> 本文内容由[Regards戒指](https://zh.wikipedia.org/wiki/Regards戒指)转换而来。
+
+
 **REGARDS戒指**（**regards ring**）是[維多利亞時代的](https://zh.wikipedia.org/wiki/維多利亞時代 "wikilink")[訂婚戒指](https://zh.wikipedia.org/wiki/訂婚戒指 "wikilink")，用戒指上[寶石](../Page/寶石.md "wikilink")英文的第一個字母，合起來為REGARDS（關心），類似[離合詩](../Page/離合詩.md "wikilink")用每句第一字連起來表示另一個字的作法\[1\]：
 
   - [紅寶石](https://zh.wikipedia.org/wiki/紅寶石 "wikilink")（**R**uby）

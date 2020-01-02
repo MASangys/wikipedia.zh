@@ -1,3 +1,6 @@
+> 本文内容由[Harukarisk\*Land](https://zh.wikipedia.org/wiki/Harukarisk\*Land)转换而来。
+
+
 《**Harukarisk\*Land**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2015年3月18日由[Music Ray'n Inc.發行](../Page/Music_Ray'n.md "wikilink")。
 
 ## 收錄内容

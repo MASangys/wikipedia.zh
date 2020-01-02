@@ -1,3 +1,6 @@
+> 本文内容由[SD GUNDAM G世代](https://zh.wikipedia.org/wiki/SD_GUNDAM_G世代)转换而来。
+
+
 是[萬代](../Page/萬代.md "wikilink")發售的以[SD造形機動戰士的](https://zh.wikipedia.org/wiki/SD "wikilink")[戰略遊戲系列](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")，簡稱「G世代」、「GGEN」。以[超級任天堂](../Page/超級任天堂.md "wikilink")晚期推出的雙匣帶遊戲《SD高達世代》為基礎開發的遊戲系列。
 
 ## 系列的特徵

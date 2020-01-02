@@ -1,3 +1,6 @@
+> 本文内容由[牙狼〈GARO〉-GOLDSTORM- 翔](https://zh.wikipedia.org/wiki/牙狼〈GARO〉-GOLDSTORM-_翔)转换而来。
+
+
 《**牙狼〈GARO〉-GOLDSTORM- 翔**》（）可以指︰
 
 1.  [日本](../Page/日本.md "wikilink")特攝劇集《[牙狼〈GARO〉](../Page/牙狼〈GARO〉.md "wikilink")》系列的電影作品，是《[牙狼〈GARO〉～照亮黑暗的人～](../Page/牙狼〈GARO〉～照亮黑暗的人～.md "wikilink")》的續作，也是《牙狼〈GARO〉-GOLDSTORM- 翔》電視版的前傳，於2015年3月28日公映；

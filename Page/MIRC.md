@@ -1,3 +1,6 @@
+> 本文内容由[MIRC](https://zh.wikipedia.org/wiki/MIRC)转换而来。
+
+
 **mIRC**是一個[Windows系統上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[即時通訊共享軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")，由Khaled Mardam-Bey開發並在1995年發佈。現在它的[mIRC語言已经在原来的基础上得到了极大的拓展](https://zh.wikipedia.org/wiki/mIRC語言 "wikilink")。其主要附加功能包括：
 
   - 頻道[IRC](../Page/IRC.md "wikilink")自動管理

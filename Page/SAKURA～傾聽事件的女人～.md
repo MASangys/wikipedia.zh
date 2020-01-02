@@ -1,3 +1,6 @@
+> 本文内容由[SAKURA～傾聽事件的女人～](https://zh.wikipedia.org/wiki/SAKURA～傾聽事件的女人～)转换而来。
+
+
 《**SAKURA～傾聽事件的女人～**》（），2014年[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，在2014年10月20日至12月22日期間於[TBS電視台](../Page/TBS電視台.md "wikilink")播出，由[仲間由紀惠主演](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")。
 
 ## 登場人物

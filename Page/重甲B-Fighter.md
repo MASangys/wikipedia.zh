@@ -1,3 +1,6 @@
+> 本文内容由[重甲B-Fighter](https://zh.wikipedia.org/wiki/重甲B-Fighter)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

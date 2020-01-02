@@ -1,3 +1,6 @@
+> 本文内容由[Kellyjackie](https://zh.wikipedia.org/wiki/Kellyjackie)转换而来。
+
+
 **陳曉琪**（藝名：****，英文名： ****，），是一位[創作歌手](../Page/創作歌手.md "wikilink")，憑2005年在網上發布作品《[他約我去迪士尼](https://zh.wikipedia.org/wiki/他約我去迪士尼 "wikilink")》成名。她是在[YouTube](../Page/YouTube.md "wikilink")一類分享網站流行以前，香港第一代能進軍主流樂壇的網絡歌手。
 
 她本是一位學生，就讀[瑪利諾修院學校](../Page/瑪利諾修院學校.md "wikilink")（小學部），於[保良局第一張永慶中學](../Page/保良局第一張永慶中學.md "wikilink")重讀中五，重讀中五後入讀[保良局莊啟程預科書院](../Page/保良局莊啟程預科書院.md "wikilink")。從13歲開始，便在課餘時間上網並在香港的音樂討論區[Cmidi](../Page/Cmidi.md "wikilink").com及[新聞組等](https://zh.wikipedia.org/wiki/新聞組 "wikilink")，上載自己翻唱其他歌星的歌曲，且主要翻唱[陳慧琳](../Page/陳慧琳.md "wikilink")的歌曲。一年後，開始學習作曲，16歲嘗試作曲，第一首放於網上作品歌名《幸運聲》。

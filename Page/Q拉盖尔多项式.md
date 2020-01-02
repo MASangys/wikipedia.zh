@@ -1,3 +1,6 @@
+> 本文内容由[Q拉盖尔多项式](https://zh.wikipedia.org/wiki/Q拉盖尔多项式)转换而来。
+
+
 **q拉盖尔多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")和[Q阶乘幂](../Page/Q阶乘幂.md "wikilink")定义的正交多项式 [Q-Laguerre_polynomials.gif](https://zh.wikipedia.org/wiki/File:Q-Laguerre_polynomials.gif "fig:Q-Laguerre_polynomials.gif")
 
 \[\displaystyle  L_n^{(\alpha)}(x;q) = \frac{(q^{\alpha+1};q)_n}{(q;q)_n} {}_1\phi_1(q^{-n};q^{\alpha+1};q,-q^{n+\alpha+1}x)\]

@@ -1,3 +1,6 @@
+> 本文内容由[G-Man](https://zh.wikipedia.org/wiki/G-Man)转换而来。
+
+
 **G-Man**，是[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[第一人称射击游戏](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[半条命系列的重要角色之一](https://zh.wikipedia.org/wiki/戰慄時空_\(系列\) "wikilink")。他通常会穿着一身笔挺的商务西装，一只手提着一只公文箱。他第一登场是在[半条命中](https://zh.wikipedia.org/wiki/半条命 "wikilink")。G-Man最为人所知的就是他古怪的行为和常人外表后的不可知的能力，尽管他的目的和动机还不为人所知。他在游戏中是作为一个纵览者和雇主出现的，他关注着[高登·弗里曼在游戏中的一切行动](https://zh.wikipedia.org/wiki/高登·弗里曼 "wikilink")。
 
 ## G-Man其人

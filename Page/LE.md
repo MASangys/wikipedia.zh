@@ -1,3 +1,6 @@
+> 本文内容由[LE](https://zh.wikipedia.org/wiki/LE)转换而来。
+
+
 **安孝珍**\[1\]（，，1991年12月10日－），藝名**LE**\[2\]（），原藝名為Elly（），在韓國[忠清南道](../Page/忠清南道.md "wikilink")[天安市](../Page/天安市.md "wikilink")[雙龍洞出生](../Page/雙龍洞_\(韓國\).md "wikilink")，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饒舌歌手和](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID成員之一](https://zh.wikipedia.org/wiki/EXID "wikilink")，2012年2月16日加入女子演唱組合[EXID後](https://zh.wikipedia.org/wiki/EXID "wikilink")，以成員**LE**身份正式出道，於組合內擔任主Rapper。\[3\]
 
 除了歌手的身份外，LE同時以[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")的身份活躍於樂壇，至今她創作了66首作品，她以音樂製作人身份登記於韓國音樂著作權家協會，登記編號為[10002393](https://archive.is/20150408120621/http://www.komca.or.kr/wos/wos_popup_select_member_right.jsp?S_MB_CD=10002393)。

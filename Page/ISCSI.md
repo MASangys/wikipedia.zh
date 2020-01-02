@@ -1,3 +1,6 @@
+> 本文内容由[ISCSI](https://zh.wikipedia.org/wiki/ISCSI)转换而来。
+
+
 **iSCSI**（Internet Small Computer System Interface，），Internet小型计算机系统接口，又稱為IP-[SAN](https://zh.wikipedia.org/wiki/SAN "wikilink")，是一种基于[因特网及](https://zh.wikipedia.org/wiki/因特网 "wikilink")[SCSI-3协议下的存储技术](https://zh.wikipedia.org/wiki/SCSI-3 "wikilink")，由[IETF提出](https://zh.wikipedia.org/wiki/IETF "wikilink")，並於2003年2月11日成為正式的標準。与传统的[SCSI技术比较起来](https://zh.wikipedia.org/wiki/SCSI "wikilink")，iSCSI技术有以下三个革命性的变化：
 
 1.  把原來只用於本機的SCSI協議透過[TCP/IP网络傳送](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，使连接距离可作无限的地域延伸；

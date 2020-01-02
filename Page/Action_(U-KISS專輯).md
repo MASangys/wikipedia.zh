@@ -1,3 +1,6 @@
+> 本文内容由[Action \(U-KISS專輯\)](https://zh.wikipedia.org/wiki/Action_\(U-KISS專輯\))转换而来。
+
+
 《**Action**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第四張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2015年3月18日以五個版本：CD＋Blu-ray盤、CD＋DVD盤、event LIVE合體盤（）、通常盤及mu-mo盤推出\[1\]。兩張打入Oricon單曲週榜前十名的單曲：《[LOVE ON U](https://zh.wikipedia.org/wiki/LOVE_ON_U "wikilink")》及《[Sweetie](https://zh.wikipedia.org/wiki/Sweetie_\(U-KISS單曲\) "wikilink")》在專輯推出前預先發行。
 
 ## 概觀

@@ -1,3 +1,6 @@
+> 本文内容由[How Will I Know](https://zh.wikipedia.org/wiki/How_Will_I_Know)转换而来。
+
+
 《**How Will I Know**》是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1986年2月15日所發行的單曲，它在美國流行單曲榜（）、節奏藍調單曲榜（）以及抒情榜（）都摘下冠軍，成為惠妮·休斯頓第2首全美冠軍單曲，這首單曲在英國單曲榜獲得第5名\[1\]\[2\]\[3\]。
 
 ## 歌曲資料

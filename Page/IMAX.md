@@ -1,3 +1,6 @@
+> 本文内容由[IMAX](https://zh.wikipedia.org/wiki/IMAX)转换而来。
+
+
 [Imax.svg](https://zh.wikipedia.org/wiki/File:Imax.svg "fig:Imax.svg") [London_IMAX_cinema_2.jpg](https://zh.wikipedia.org/wiki/File:London_IMAX_cinema_2.jpg "fig:London_IMAX_cinema_2.jpg")[倫敦的IMAX影院](https://zh.wikipedia.org/wiki/倫敦 "wikilink")-BFI IMAX\]\] [HST_3D_IMAX_Screening.jpg](https://zh.wikipedia.org/wiki/File:HST_3D_IMAX_Screening.jpg "fig:HST_3D_IMAX_Screening.jpg")
 
 **IMAX**（全稱：**I**mage **MAX**imum），意指最大影像，為一種能夠放映比傳統底片更大和更高解像度的[電影放映系統](https://zh.wikipedia.org/wiki/電影 "wikilink")。IMAX是大格式及需在特定場館播放的影像展示系統中最為成功的。

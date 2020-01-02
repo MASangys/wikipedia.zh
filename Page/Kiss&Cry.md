@@ -1,3 +1,6 @@
+> 本文内容由[Kiss\&Cry](https://zh.wikipedia.org/wiki/Kiss\&Cry)转换而来。
+
+
 **Kiss\&Cry**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Winning insight M在](https://zh.wikipedia.org/wiki/Winning_insight_M "wikilink")2014年推出的四人女子團體，成員包括BOHYE、HAENA、DIA、SOYUMI ，其中成員DIA在2009年以 solo 歌手身分出道，加入團體重新開始。
 
 在2014年12月11日，成員DIA以《Paradise》的個人之姿回歸。\[1\]

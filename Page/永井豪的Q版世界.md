@@ -1,3 +1,6 @@
+> 本文内容由[永井豪的Q版世界](https://zh.wikipedia.org/wiki/永井豪的Q版世界)转换而来。
+
+
 《**永井豪的Q版世界**》（）是[永井豪](../Page/永井豪.md "wikilink")作品原作改编的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，於1991年发售共3集VHS，在2007年6月22日由[萬代影視](../Page/萬代影視.md "wikilink")发售[DVD-BOX](https://zh.wikipedia.org/wiki/DVD-BOX "wikilink")。\[1\]\[2\]
 
 ## 故事簡介

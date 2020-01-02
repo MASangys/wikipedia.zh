@@ -1,3 +1,6 @@
+> 本文内容由[馬里迪莫體育會B隊](https://zh.wikipedia.org/wiki/馬里迪莫體育會B隊)转换而来。
+
+
 **馬里迪莫B隊**（），葡萄牙職業足球會，位於豐沙爾，成立於1999年，現時於[葡乙作賽](https://zh.wikipedia.org/wiki/葡乙 "wikilink")。他們是[馬里迪莫的預備隊](https://zh.wikipedia.org/wiki/馬里迪莫 "wikilink")。他們不容許參與[葡萄牙盃](../Page/葡萄牙盃.md "wikilink")及[葡聯盃](https://zh.wikipedia.org/wiki/葡聯盃 "wikilink")。
 
 ## 外部連結

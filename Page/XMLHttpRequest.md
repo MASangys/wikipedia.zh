@@ -1,3 +1,6 @@
+> 本文内容由[XMLHttpRequest](https://zh.wikipedia.org/wiki/XMLHttpRequest)转换而来。
+
+
 **XMLHTTP**是一组[API函数集](https://zh.wikipedia.org/wiki/API "wikilink")，可被[JavaScript](../Page/JavaScript.md "wikilink")、JScript、[VBScript](../Page/VBScript.md "wikilink")以及其它[web浏览器内嵌的](https://zh.wikipedia.org/wiki/web浏览器 "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")调用，通过[HTTP在浏览器和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[web服务器之间收发](https://zh.wikipedia.org/wiki/web服务器 "wikilink")[XML](../Page/XML.md "wikilink")或其它数据。XMLHTTP最大的好处在于可以动态地更新网页，它无需重新从服务器读取整个网页，也不需要安装额外的插件。该技术被许多网站使用，以实现快速响应的动态网页应用。例如：[Google](../Page/Google.md "wikilink")的[Gmail](../Page/Gmail.md "wikilink")服务、Google Suggest动态查找界面以及[Google Map地理信息服务](../Page/Google地图.md "wikilink")。
 
 XMLHTTP是**[AJAX](../Page/AJAX.md "wikilink")**网页开发技术的重要组成部分。

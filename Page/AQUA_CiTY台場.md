@@ -1,3 +1,6 @@
+> 本文内容由[AQUA CiTY台場](https://zh.wikipedia.org/wiki/AQUA_CiTY台場)转换而来。
+
+
 [Aqua-City_Odaiba.jpg](https://zh.wikipedia.org/wiki/File:Aqua-City_Odaiba.jpg "fig:Aqua-City_Odaiba.jpg") [Aquacity_Megami-no-gate.jpg](https://zh.wikipedia.org/wiki/File:Aquacity_Megami-no-gate.jpg "fig:Aquacity_Megami-no-gate.jpg") **AQUA CiTY台場**（，英語：AQUA CiTY ODAIBA）是2000年4月開幕的[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")[台場複合商業設施](https://zh.wikipedia.org/wiki/台場 "wikilink")。
 
 ## 概要

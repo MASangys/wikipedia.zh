@@ -1,3 +1,6 @@
+> 本文内容由[Fqrouter](https://zh.wikipedia.org/wiki/Fqrouter)转换而来。
+
+
 **fqrouter**是一个适用于[Android](../Page/Android.md "wikilink")系统的代理软件，在[中国大陆](../Page/中国大陆.md "wikilink")被广泛用于突破大陆官方建立的[防火长城](../Page/防火长城.md "wikilink")。
 
 其支持接入[GoAgent](../Page/GoAgent.md "wikilink")、[SSH](https://zh.wikipedia.org/wiki/SSH "wikilink")、HTTP[代理](../Page/代理服务器.md "wikilink")、WebVPN、[Shadowsocks](../Page/Shadowsocks.md "wikilink")等形式的代理服务器，同时也提供一些公共的代理服务器。而fqrouter的主要特色在于其支持“无线中继”和“Pick\&Play”功能，其他设备只要连入fqrouter所建立的[Wi-Fi](../Page/Wi-Fi.md "wikilink")热点，也可使用fqrouter提供的[代理服务](../Page/代理服务器.md "wikilink")。

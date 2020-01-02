@@ -1,3 +1,6 @@
+> 本文内容由[Egret](https://zh.wikipedia.org/wiki/Egret)转换而来。
+
+
 **Egret Engine**白鹭引擎是一套开源免费的完整的HTML5游戏开发解决方案，用于构建二维游戏、演示程序和其他图形界面交互应用等。白鹭引擎是一个基于[TypeScript](../Page/TypeScript.md "wikilink")语言开发的HTML5游戏引擎。当游戏开发完成后，可将程序发布到[Web](https://zh.wikipedia.org/wiki/Web "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[PC](../Page/PC.md "wikilink")等平台，实现[跨平台特性](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。
 
 白鹭引擎不仅仅是一个基于HTML5技术的游戏引擎，完整的产品线中除了白鹭引擎还提供了很多辅助游戏开发的工具。开发者可以使用Egret提供的相关工具搭建属于自己的游戏开发工作流。

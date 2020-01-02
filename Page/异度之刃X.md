@@ -1,3 +1,6 @@
+> 本文内容由[异度之刃X](https://zh.wikipedia.org/wiki/异度之刃X)转换而来。
+
+
 是一款由[Monolith Soft開發](../Page/Monolith_Soft.md "wikilink")，[由任天堂於](../Page/任天堂.md "wikilink")[Wii U平台發行的日式](../Page/Wii_U.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。游戏是[异度系列](../Page/异度系列.md "wikilink")作品之一，为[Wii](../Page/Wii.md "wikilink")游戏《[异度之刃](https://zh.wikipedia.org/wiki/异度之刃 "wikilink")》的[精神续作](../Page/精神续作.md "wikilink")\[1\]。游戏于2015年4月29日在日本发行，同年12月在欧美發行\[2\]。
 
 ## 游戏角色

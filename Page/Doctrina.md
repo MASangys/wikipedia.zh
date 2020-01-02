@@ -1,3 +1,6 @@
+> 本文内容由[Doctrina](https://zh.wikipedia.org/wiki/Doctrina)转换而来。
+
+
 ****，在中文一般翻譯為教義、教條、[主義](https://zh.wikipedia.org/wiki/主義 "wikilink")、[學說等等](https://zh.wikipedia.org/wiki/學說 "wikilink")（但各翻譯都有不完全對應原詞語），指一組被相信是真實無誤的[理念或](https://zh.wikipedia.org/wiki/理念 "wikilink")[信仰](../Page/信仰.md "wikilink")。將信仰內容，或是學說、教導內容、權威性的指示、[原理](../Page/原理.md "wikilink")，加以[法典化](https://zh.wikipedia.org/wiki/法典化 "wikilink")（codification），成文或不成文的成為某個[信仰](../Page/信仰.md "wikilink")體系中的基礎部份，被教導給他人，就稱為教義。
 
 在現代漢語中，教義這個名詞可以被當成與\[1\]，或的譯名\[2\]。

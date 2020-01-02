@@ -1,3 +1,6 @@
+> 本文内容由[Atom \(標準\)](https://zh.wikipedia.org/wiki/Atom_\(標準\))转换而来。
+
+
 [Feed-icon.svg](https://zh.wikipedia.org/wiki/File:Feed-icon.svg "fig:Feed-icon.svg")
 
 **Atom**是一對彼此相關的標準。Atom供稿格式（Atom Syndication Format）是用於[網站消息來源](../Page/消息來源.md "wikilink")，基于[XML](../Page/XML.md "wikilink")的文档格式；而Atom出版協定（Atom Publishing Protocol，簡稱AtomPub或APP）是用於新增及修改網路資源，基于[HTTP的协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Back to Priscilla 30th Anniversary Concert 2014](https://zh.wikipedia.org/wiki/Back_to_Priscilla_30th_Anniversary_Concert_2014)转换而来。
+
+
 《**Back To Priscilla 30th Anniversary Concert 2014**》為[香港](../Page/香港.md "wikilink")女歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")自2003年離開香港樂壇後，於2013年宣布全面復出后首次在[香港體育館](../Page/香港體育館.md "wikilink")举行的演唱會，由6月19日至21日合共3場，全場爆滿，由[環球唱片旗下](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[寶麗金](../Page/寶麗金.md "wikilink")發行。演唱會的實況專輯共收錄2CD，於2014年8月26日正式推出，銷量不俗，曾榮登香港唱片商會銷量榜週榜冠軍。而她為演唱會前出的熱身碟《[Back to Priscilla 嫻情三十](../Page/Back_to_Priscilla_嫻情三十.md "wikilink")》的銷量亦不俗，在唱片商會銷量榜亦取得5週亞軍之佳績。
 
 ## 演唱會曲目

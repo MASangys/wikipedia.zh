@@ -1,3 +1,6 @@
+> 本文内容由[數碼暴龍大冒險tri.](https://zh.wikipedia.org/wiki/數碼暴龍大冒險tri.)转换而来。
+
+
 ，是由[東映動畫企劃及制作的](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")[数码宝贝系列OVA動畫](https://zh.wikipedia.org/wiki/数码宝贝系列 "wikilink")，於2015年11月到2018年5月5日分為6章在剧场上映及网络播映。其中的“[tri.](https://zh.wikipedia.org/wiki/tri. "wikilink")”有「[3](../Page/3.md "wikilink")」的意思，表示本作為電視動畫第一作《[數碼寶貝大冒險](../Page/數碼寶貝大冒險.md "wikilink")》及第二作《[數碼寶貝大冒險02](../Page/數碼寶貝大冒險02.md "wikilink")》的續篇第三作，同時亦為數碼寶貝大冒險15周年紀念計劃最重要的一部分。\[1\]
 
 中国大陆[爱奇艺](../Page/爱奇艺.md "wikilink")和[银河奇异果以及香港](https://zh.wikipedia.org/wiki/银河奇异果 "wikilink")[Viu](../Page/Viu.md "wikilink")同步日本网络播映全6章。

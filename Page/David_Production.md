@@ -1,3 +1,6 @@
+> 本文内容由[David Production](https://zh.wikipedia.org/wiki/David_Production)转换而来。
+
+
 **株式會社david production**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")\[1\]的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2007年9月\[2\]。
 
 ## 簡介、沿革

@@ -1,3 +1,6 @@
+> 本文内容由[Mac OS X Leopard](https://zh.wikipedia.org/wiki/Mac_OS_X_Leopard)转换而来。
+
+
 是[蘋果為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac產品所製作的](https://zh.wikipedia.org/wiki/Mac "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")的第六個[版本](https://zh.wikipedia.org/wiki/版本 "wikilink")，也是前代作業系統的繼承者。最早於2007年10月26日發行，以兩種版本：以[個人電腦為訴求的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[桌上型電腦](../Page/桌上型電腦.md "wikilink")版本，以及[伺服器版本](https://zh.wikipedia.org/wiki/伺服器 "wikilink")——。蘋果提供減價升級版或者內含升級版給介於2007年10月1日到2007年12月29日購買新蘋果電腦，且新電腦未預裝的用戶\[1\]。
 
 根據蘋果的說法，包含了超過300種更新與加強功能\[2\]，含括核心操作系统元件，以及應用程式與開發工具。引進了顯著大修過的桌面，包括重新設計的，改進過的，新功能、半透明選單條，以及內含最初於使用的。其它主要的特點在包含支援[64位元](../Page/64位元.md "wikilink")應用程式、可自動備份的[時光機](../Page/Time_Machine.md "wikilink")（）、搜尋可橫跨多台機器，以及原來只在一部分機型才有的與。

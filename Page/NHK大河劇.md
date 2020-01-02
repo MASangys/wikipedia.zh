@@ -1,3 +1,6 @@
+> 本文内容由[NHK大河劇](https://zh.wikipedia.org/wiki/NHK大河劇)转换而来。
+
+
 **NHK大河劇**（）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）自1963年起每年製作一檔的[電視連續劇系列](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，於[日本時間每星期日晚間](../Page/日本標準時間.md "wikilink")8點在[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")播出，每集播出時間為45分鐘，每一檔製作約50集（不過在1993年到1994年這兩年，則一共製播了三檔）。其以[日本歷史的人物或是一個時代為主題製作](https://zh.wikipedia.org/wiki/日本歷史 "wikilink")，與[時代劇類似](../Page/時代劇_\(日本\).md "wikilink")。
 
 ## 概要

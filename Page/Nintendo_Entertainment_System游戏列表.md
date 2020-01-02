@@ -1,3 +1,6 @@
+> 本文内容由[Nintendo Entertainment System游戏列表](https://zh.wikipedia.org/wiki/Nintendo_Entertainment_System游戏列表)转换而来。
+
+
 [NES-Console-Set.jpg](https://zh.wikipedia.org/wiki/File:NES-Console-Set.jpg "fig:NES-Console-Set.jpg")
 
 [Nintendo Entertainment System](https://zh.wikipedia.org/wiki/Nintendo_Entertainment_System "wikilink")（NES）是FC的西方版，1985年10月18日在北美推出，有18款首发游戏发行。NES由第三方公司于1986年在欧洲和澳洲销售，直到1990年任天堂接手业务\[1\]。最后一款授权NES游戏是1994年的《[瓦里奥之森](https://zh.wikipedia.org/wiki/瓦里奥之森 "wikilink")》\[2\]。其继任机种为1991年发行的[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")。

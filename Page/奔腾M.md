@@ -1,3 +1,6 @@
+> 本文内容由[奔腾M](https://zh.wikipedia.org/wiki/奔腾M)转换而来。
+
+
 [Pentium_M_Dothan.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan.jpg "fig:Pentium_M_Dothan.jpg") [Pentium_M_Dothan_Backside.jpg](https://zh.wikipedia.org/wiki/File:Pentium_M_Dothan_Backside.jpg "fig:Pentium_M_Dothan_Backside.jpg") **Pentium M**是[英特爾公司的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[x86架構](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，供[筆記型電腦](../Page/筆記型電腦.md "wikilink")使用，亦被作为[Centrino的一部分](https://zh.wikipedia.org/wiki/Centrino "wikilink")，於2003年3月推出。M代表“移动”（Mobile）。在推出前的核心名稱為“Banias”，是[以色列](../Page/以色列.md "wikilink")的地名。Pentium M是由英特尔在以色列的海尔法（Haifa）实验室研发设计的。
 
 一直以来，英特尔公司完成一款处理器的设计之后先发售桌面版，在[制程上加以改良](https://zh.wikipedia.org/wiki/制程 "wikilink")（主要是减小功耗）后推出相对应的移动版处理器。在完成基于[NetBurst架构](https://zh.wikipedia.org/wiki/NetBurst "wikilink")、以追求运行频率为主要目标的Pentium 4处理器之后，其移动版P4-M因为较大的能耗和发热而受到市场恶评。这时候英特尔公司针对移动处理器市场，重新推出了Pentium M处理器。Pentium M並非從[Pentium 4發展而來](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，架構更接近了[Pentium III的短流水线設計](https://zh.wikipedia.org/wiki/Pentium_III "wikilink")，經多方面的修改而成，當中Pentium III的設計源自[Pentium Pro](https://zh.wikipedia.org/wiki/Pentium_Pro "wikilink")。該處理器具有省電、低功耗、延長電池壽命等特點，時脈方面比P4低，但其效能則與時脈較高的P4-M相近。可以近似认为，运作在1.6GHz的Pentium M总体运算性能与P4-M 2.4GHz相当。

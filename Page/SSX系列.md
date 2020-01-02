@@ -1,3 +1,6 @@
+> 本文内容由[SSX系列](https://zh.wikipedia.org/wiki/SSX系列)转换而来。
+
+
 **SSX**是[EA Sports BIG的滑雪電子遊戲系列](https://zh.wikipedia.org/wiki/EA_Sports_BIG "wikilink")。SSX為“Snowboard Supercross”的简写\[1\]，不过这全名基本没有在游戏内或是营销中用过。
 
 ## 作品

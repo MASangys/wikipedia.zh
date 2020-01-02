@@ -1,3 +1,6 @@
+> 本文内容由[Oculus](https://zh.wikipedia.org/wiki/Oculus)转换而来。
+
+
 [Oculus_Go_-_4.jpg](https://zh.wikipedia.org/wiki/File:Oculus_Go_-_4.jpg "fig:Oculus_Go_-_4.jpg") **脸书技术**（****，以前称为****）是一家美國[虛擬實境科技公司](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")，由[帕爾默·拉奇](../Page/帕爾默·拉奇.md "wikilink")與成立。他們的首件產品[Oculus Rift是一款逼真的虛擬實境](../Page/Oculus_Rift.md "wikilink")[頭戴式顯示器](../Page/頭戴式顯示器.md "wikilink")，且目前已經在市面上販售。[Facebook](../Page/Facebook.md "wikilink")於2014年3月同意以20億美元現金及Facebook股票[收購Oculus](../Page/併購.md "wikilink") VR。\[1\]
 
 2017年5月，Facebook宣布将关闭Oculus的VR内容制作部门“Oculus Story Studio”。\[2\]

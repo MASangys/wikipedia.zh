@@ -1,3 +1,6 @@
+> 本文内容由[MBC韓流音樂演唱會](https://zh.wikipedia.org/wiki/MBC韓流音樂演唱會)转换而来。
+
+
 《**MBC Korean Music Wave**》是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台舉辦的巡迴音樂演唱會](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")。
 
 ## 歷史

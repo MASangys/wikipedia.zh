@@ -1,3 +1,6 @@
+> 本文内容由[小米Note](https://zh.wikipedia.org/wiki/小米Note)转换而来。
+
+
 **小米Note**是[小米科技於](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2015年1月15日發表的[大屏幕旗艦](https://zh.wikipedia.org/wiki/平板手機 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，隸屬於[小米手機的第五代產品](https://zh.wikipedia.org/wiki/小米手機 "wikilink")，搭載[Android](../Page/Android.md "wikilink") [5.0](https://zh.wikipedia.org/wiki/Android歷史版本 "wikilink")、5.7吋 [1080p](../Page/Full_HD.md "wikilink")/2K 螢幕、頂配版處理器為[高通](../Page/高通.md "wikilink") [Snapdragon 810](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")、4GB記憶體，機身材質由塑膠提升到前後雙玻璃、鋁合金邊框。
 
 ## 詳細規格

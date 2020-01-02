@@ -1,3 +1,6 @@
+> 本文内容由[HI秀賢](https://zh.wikipedia.org/wiki/HI秀賢)转换而来。
+
+
 [李秀賢](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink") |過往成員 = |音樂專輯 = |電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
 
 **HI秀賢** （、）是[YG娛樂](../Page/YG娛樂.md "wikilink")於2014年11月所推出的新組合，由solo歌手[李遐怡](../Page/李遐怡.md "wikilink")以及[樂童音樂家的成員李秀賢組成](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。HI SUHYUN乃是作為「YG Collaboration Project」（YG合作企劃）編號001的全新小分隊。

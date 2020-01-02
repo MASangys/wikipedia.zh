@@ -1,3 +1,6 @@
+> 本文内容由[LALA世界](https://zh.wikipedia.org/wiki/LALA世界)转换而来。
+
+
 《**LALA世界**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Boy'z](../Page/Boy'z.md "wikilink")的第一張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2003年4月9日推出；其後於6月推出第二版，加收翻唱[容祖兒](../Page/容祖兒.md "wikilink")的《我的驕傲》。
 
 ## 曲目

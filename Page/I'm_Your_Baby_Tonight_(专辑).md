@@ -1,3 +1,6 @@
+> 本文内容由[I\'m Your Baby Tonight \(专辑\)](https://zh.wikipedia.org/wiki/I\'m_Your_Baby_Tonight_\(专辑\))转换而来。
+
+
 《**親愛的今夜屬於你**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[黑人](../Page/黑人.md "wikilink")女歌手[惠妮·休斯頓個人第三張](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1990年11月6日由Arista唱片公司全球發行。《親愛的今夜屬於你》是惠妮·休斯頓蟄伏三年再出發的轉型之作，由[葛萊美獎](../Page/葛萊美獎.md "wikilink")最佳製作人[娃娃臉擔任專輯製作人](../Page/娃娃臉_\(藝人\).md "wikilink")，並邀請[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、[路德·范德魯斯和](https://zh.wikipedia.org/wiki/路德·范德魯斯 "wikilink")[肯尼·基](../Page/肯尼·基.md "wikilink")等多位樂壇重量級藝人跨刀相助\[1\]，這張專輯在美國告示牌獲得第3名，全美唱片銷售數字達4白金\[2\]。
 
 ## 專輯

@@ -1,3 +1,6 @@
+> 本文内容由[Acrosterigma](https://zh.wikipedia.org/wiki/Acrosterigma)转换而来。
+
+
 是[帘蛤目](https://zh.wikipedia.org/wiki/帘蛤目 "wikilink")[鸟尾蛤科的一种](https://zh.wikipedia.org/wiki/鸟尾蛤科 "wikilink")，未有中文譯名。分佈於[印度洋-太平洋海域](../Page/印度洋-太平洋海域.md "wikilink")\[1\]。
 
 ## 物種

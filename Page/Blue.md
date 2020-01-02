@@ -1,3 +1,6 @@
+> 本文内容由[Blue](https://zh.wikipedia.org/wiki/Blue)转换而来。
+
+
 **Blue**是在2001年組成的[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，成员包括唐肯（[Duncan James](http://en.wikipedia.org/wiki/Duncan_James)）、賽門韋伯（[Simon Webbe](http://en.wikipedia.org/wiki/Simon_Webbe)）、安東尼寇斯特（[Antony Costa](http://en.wikipedia.org/wiki/Antony_Costa)）以及黎萊恩（[Lee Ryan](http://en.wikipedia.org/wiki/Lee_Ryan)）。Blue共獲超過一百一十萬張唱片銷量。
 
 Blue於2005年解散後各成員都已作個人發展。Blue於2009年4月宣布重組，並代表[英國參加](https://zh.wikipedia.org/wiki/英國 "wikilink")2011年在[德國舉辦的](https://zh.wikipedia.org/wiki/德國 "wikilink")[歐洲歌唱大賽](../Page/歐洲歌唱大賽.md "wikilink")。在2009年重組後,Blue開始到各個不同的國家展開巡迴演唱。2013年也發行了重組後的第一張專輯[《Roulette》](http://en.wikipedia.org/wiki/Roulette_\(Blue_album\))\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[对Internet Explorer的批评](https://zh.wikipedia.org/wiki/对Internet_Explorer的批评)转换而来。
+
+
 **[Internet Explorer](../Page/Internet_Explorer.md "wikilink")**是一款招致了许多批评的[网页浏览器](../Page/网页浏览器.md "wikilink")。大部分批评都集中在其[安全架构以及对](https://zh.wikipedia.org/wiki/电脑安全 "wikilink")[开放标准的支持程度上](https://zh.wikipedia.org/wiki/开放标准 "wikilink")。
 
 ## 对其安全性的批评

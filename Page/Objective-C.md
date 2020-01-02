@@ -1,3 +1,6 @@
+> 本文内容由[Objective-C](https://zh.wikipedia.org/wiki/Objective-C)转换而来。
+
+
 **Objective-C**是一种[通用](../Page/通用编程语言.md "wikilink")、[高级](https://zh.wikipedia.org/wiki/高级语言 "wikilink")、[面向对象的](../Page/面向对象程序设计.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。它扩展了标准的[ANSI C编程语言](../Page/ANSI_C.md "wikilink")，将[Smalltalk](../Page/Smalltalk.md "wikilink")式的[消息传递机制加入到ANSI](https://zh.wikipedia.org/wiki/消息传递机制 "wikilink") C中。目前主要支持的[编译器有](https://zh.wikipedia.org/wiki/编译器 "wikilink")[GCC](../Page/GCC.md "wikilink")和[Clang](../Page/Clang.md "wikilink")（採用[LLVM](../Page/LLVM.md "wikilink")作為後端）。
 
 Objective-C的[商標權屬於](https://zh.wikipedia.org/wiki/商標 "wikilink")[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，蘋果公司也是這個程式語言的主要開發者。苹果在開發[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")操作系统時使用了Objective-C，之后被[OS X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[iOS继承下來](https://zh.wikipedia.org/wiki/iOS "wikilink")。現在Objective-C与[Swift是OS](../Page/Swift_\(程式語言\).md "wikilink") X和iOS操作系统、及与其相关的[API](https://zh.wikipedia.org/wiki/API "wikilink")、[Cocoa](../Page/Cocoa.md "wikilink")和[Cocoa Touch的主要编程语言](../Page/Cocoa_Touch.md "wikilink")。

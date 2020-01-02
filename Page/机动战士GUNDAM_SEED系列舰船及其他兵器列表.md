@@ -1,3 +1,6 @@
+> 本文内容由[机动战士GUNDAM SEED系列舰船及其他兵器列表](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED系列舰船及其他兵器列表)转换而来。
+
+
 **机动战士高达 SEED系列舰船及其他兵器列表**，主要内容为日本动画作品《[机动战士GUNDAM SEED](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED "wikilink")》、《[机动战士GUNDAM SEED DESTINY](https://zh.wikipedia.org/wiki/机动战士GUNDAM_SEED_DESTINY "wikilink")》、《[机动战士GUNDAM SEED C.E.73 STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及附属作品所构成的宇宙纪元中登场的除[机动兵器](https://zh.wikipedia.org/wiki/机动兵器 "wikilink")（[机动战士](../Page/机动战士.md "wikilink")、[机动装甲](https://zh.wikipedia.org/wiki/机动装甲 "wikilink")）外的其他武器。
 
 ## 地球联合军

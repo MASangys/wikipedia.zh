@@ -1,3 +1,6 @@
+> 本文内容由[Ingres](https://zh.wikipedia.org/wiki/Ingres)转换而来。
+
+
 {{ Infobox_Software | name = Ingres | screenshot = [<File:Ingres> logo.png](https://zh.wikipedia.org/wiki/File:Ingres_logo.png "fig:File:Ingres logo.png") | caption = Ingres 公司标志 | developer = Ingres 公司 | latest_release_version = Ingres Database 9.2 | latest_release_date = 2008年12月9日 | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre = [RDBMS](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website = <http://www.ingres.com/> }}
 
 **Ingres** 是比较早的[数据库](../Page/数据库.md "wikilink")系统，开始于[加利福尼亚大学柏克莱分校的一个研究项目](https://zh.wikipedia.org/wiki/加利福尼亚大学柏克莱分校 "wikilink")，该项目开始于 70 年代早期，在 80 年代早期结束。像柏克莱大学的其他研究项目一样，它的代码使用[BSD许可证](../Page/BSD许可证.md "wikilink")。从 80 年代中期，在Ingres 基础上产生了很多商业数据库软件，包括 [Sybase](../Page/Sybase.md "wikilink")、[Microsoft SQL Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")、[NonStop SQL](https://zh.wikipedia.org/wiki/NonStop_SQL "wikilink")、[Informix](https://zh.wikipedia.org/wiki/Informix "wikilink") 和许多其他的系统。在 80 年代中期启动的后继项目 **Postgres**，产生了 [PostgreSQL](../Page/PostgreSQL.md "wikilink")、[Illustra](https://zh.wikipedia.org/wiki/Illustra "wikilink")，无论从任何意义上来说，Ingres 都是历史上最有影响的计算机研究项目之一。

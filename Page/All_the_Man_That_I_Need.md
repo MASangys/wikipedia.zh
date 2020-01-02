@@ -1,3 +1,6 @@
+> 本文内容由[All the Man That I Need](https://zh.wikipedia.org/wiki/All_the_Man_That_I_Need)转换而来。
+
+
 《**All the Man That I Need**》是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1990年12月份發行的單曲，這首單曲出自她第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《**[親愛的今夜屬於你](../Page/I'm_Your_Baby_Tonight_\(专辑\).md "wikilink")**》（），它在美國告示牌[流行單曲榜](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")（）、節奏藍調單曲榜（）和成人抒情歌曲榜（）三個榜皆獲得冠軍\[1\]\[2\]\[3\]，成為惠妮·休斯頓第9首全美冠軍單曲。
 
 ## 歌曲

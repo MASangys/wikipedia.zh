@@ -1,3 +1,6 @@
+> 本文内容由[Apple Cinema Display](https://zh.wikipedia.org/wiki/Apple_Cinema_Display)转换而来。
+
+
 **Apple Cinema Display** 是由 [蘋果電腦](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink") 所生產的平面電腦顯示器。非常早期的型號含 [DVI](../Page/DVI.md "wikilink")、[USB](../Page/USB.md "wikilink")、和 25 [伏特](../Page/伏特.md "wikilink") 電源透過單一個接頭來連接。大部分的型號使用 [DVI](../Page/DVI.md "wikilink")，提供更好的相容性和更少的纜線。舊的型號是以畫架形式的高密度塑膠外框為臺座。較新的型號有鋁質的臺座，符合蘋果電腦的 [Power Mac G5](../Page/Power_Mac_G5.md "wikilink") 電腦外觀。共有 20 吋、23吋、30吋三種型號。儘管原來的用意是給蘋果的電腦使用，但是這些顯示器也能夠與 [PC](../Page/PC.md "wikilink") 相容，只要搭配適當的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。到 2005年，消費性顯示卡有雙接頭的規格仍然比單一接頭的貴上許多。這也是因此成為 30 吋顯示器在 PC 使用上的重大價格障礙。
 
 ## 型號

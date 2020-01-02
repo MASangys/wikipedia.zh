@@ -1,3 +1,6 @@
+> 本文内容由[Breeze](https://zh.wikipedia.org/wiki/Breeze)转换而来。
+
+
 **breeze**（）是[微風國際旗下的](https://zh.wikipedia.org/wiki/微風國際 "wikilink")[台灣女子團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]， 出道初由[若穎](https://zh.wikipedia.org/wiki/陳若穎 "wikilink")、[源元](../Page/郭源元.md "wikilink")、[艾熙](../Page/陳郁涵.md "wikilink")、[以辰組成](../Page/梁以辰.md "wikilink")，秘密訓練2年，\[2\] 在2014年11月5日發行首張EP《[Pretty](https://zh.wikipedia.org/wiki/Pretty "wikilink")》而出道。\[3\]
 
 ## 成員資料

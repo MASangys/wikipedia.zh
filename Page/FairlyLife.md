@@ -1,3 +1,6 @@
+> 本文内容由[FairlyLife](https://zh.wikipedia.org/wiki/FairlyLife)转换而来。
+
+
 《**FairlyLife**》是日本[HOOK在](https://zh.wikipedia.org/wiki/HOOK "wikilink")2008年10月10日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2010年2月25日由[GN Software發售](../Page/GN_Software.md "wikilink")[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")。\[3\]另外在2009年1月23日和12月29日分別發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。這作和[Like Life一樣都是以](../Page/Like_Life.md "wikilink")[萌擬人化](../Page/萌擬人化.md "wikilink")為題材。
 
 ## 系統

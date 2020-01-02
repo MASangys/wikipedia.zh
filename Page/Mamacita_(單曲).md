@@ -1,3 +1,6 @@
+> 本文内容由[Mamacita \(單曲\)](https://zh.wikipedia.org/wiki/Mamacita_\(單曲\))转换而来。
+
+
 《**Mamacita**》是韓國男子組合[Super Junior的第六張日語單曲](../Page/Super_Junior.md "wikilink")。2014年12月17日由Avex trax發售。\[1\]\[2\]
 
 ## 概要

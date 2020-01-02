@@ -1,3 +1,6 @@
+> 本文内容由[Telnet](https://zh.wikipedia.org/wiki/Telnet)转换而来。
+
+
 **Telnet**是一種[應用層協議](https://zh.wikipedia.org/wiki/應用層 "wikilink")，使用於[網際網路及](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[區域網中](https://zh.wikipedia.org/wiki/區域網 "wikilink")，使用[虛擬終端機的形式](https://zh.wikipedia.org/wiki/虛擬終端機 "wikilink")，提供雙向、以文字字串為主的[命令列介面互動功能](https://zh.wikipedia.org/wiki/命令列介面 "wikilink")。屬於[TCP/IP協議族的其中之一](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")，是[Internet遠端登錄服務的標準協議和主要方式](https://zh.wikipedia.org/wiki/Internet "wikilink")，常用於[伺服器的遠端控制](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，可供使用者在本地主機執行遠端主機上的工作。
 
 Telnet在1969年開發出來，在 RFC 15 定義， RFC 854 定義了擴充功能。[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF），在中，將其加以標準化，是最早形成的網際網路協議之一。

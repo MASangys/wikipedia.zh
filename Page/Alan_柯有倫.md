@@ -1,3 +1,6 @@
+> 本文内容由[Alan 柯有倫](https://zh.wikipedia.org/wiki/Alan_柯有倫)转换而来。
+
+
 《**Alan 柯有倫**》 是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[柯有倫](../Page/柯有倫.md "wikilink")個人首張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2005年8月19日正式發行，一共收錄十二首歌曲。\[1\]
 
 ## 曲目

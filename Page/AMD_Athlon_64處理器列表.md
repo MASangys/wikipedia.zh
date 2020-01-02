@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon 64處理器列表](https://zh.wikipedia.org/wiki/AMD_Athlon_64處理器列表)转换而来。
+
+
 [Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")，[AMD的第八代微處理器](https://zh.wikipedia.org/wiki/AMD "wikilink")。
 
 ## 單核桌上型處理器

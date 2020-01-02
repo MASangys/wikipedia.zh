@@ -1,3 +1,6 @@
+> 本文内容由[BitTorrent \(协议\)](https://zh.wikipedia.org/wiki/BitTorrent_\(协议\))转换而来。
+
+
 [BitTorrent_DNAの動作説明2.PNG](https://zh.wikipedia.org/wiki/File:BitTorrent_DNAの動作説明2.PNG "fig:BitTorrent_DNAの動作説明2.PNG") **BitTorrent协议**（简称**BT**，俗称**比特洪流**、**BT下载**）是用在[对等网络中](https://zh.wikipedia.org/wiki/对等网络 "wikilink")[文件分享的](https://zh.wikipedia.org/wiki/文件分享 "wikilink")[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")[程序](../Page/计算机程序.md "wikilink")。和[点对点](../Page/点对点协议.md "wikilink")（point-to-point）的协议[程序不同](../Page/计算机程序.md "wikilink")，它是用户群对用户群（peer-to-peer），而且用户越多，下载同一檔案的人越多，下載该档案的速度越快。且下载後，繼續維持上传的狀態，就可以“分享”，成为其用户端节点下载的[种子文件](../Page/种子文件.md "wikilink")（.torrent），同時上传及下载。
 
 ## 歷史

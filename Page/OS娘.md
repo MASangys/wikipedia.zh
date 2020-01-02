@@ -1,3 +1,6 @@
+> 本文内容由[OS娘](https://zh.wikipedia.org/wiki/OS娘)转换而来。
+
+
 [Ostans.jpg](https://zh.wikipedia.org/wiki/File:Ostans.jpg "fig:Ostans.jpg") **OS娘**（，亦有OS Girls、OS少女等稱呼），爲一個在[日本](../Page/日本.md "wikilink")討論區[雙葉頻道](../Page/雙葉頻道.md "wikilink")（Futaba Channel，）的網絡現象。OS娘是[日本漫畫愛好者對目前的電腦](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[擬人化後的產物](https://zh.wikipedia.org/wiki/擬人化美少女 "wikilink")，其對象主要為[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。每位OS娘的出場是眾位漫畫愛好者獲得一致的想法創造出來的。
 
 作業系統通常被畫成女性[角色](../Page/角色.md "wikilink")，而Windows作業系統則通常以姐妹的身份出場，儘管她們看起來有時年紀相差很大。

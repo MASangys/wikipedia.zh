@@ -1,3 +1,6 @@
+> 本文内容由[Yeri](https://zh.wikipedia.org/wiki/Yeri)转换而来。
+
+
 [SM ROOKIES](../Page/SM_ROOKIES.md "wikilink") | IMDb = 6588737 }}
 
 **金藝琳**（，\[1\]，），藝名**Yeri**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")，為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員之一](../Page/Red_Velvet.md "wikilink")。2015年3月加入[Red Velvet正式出道](../Page/Red_Velvet.md "wikilink")。

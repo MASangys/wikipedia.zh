@@ -1,3 +1,6 @@
+> 本文内容由[希波吕忒 \(DC漫画\)](https://zh.wikipedia.org/wiki/希波吕忒_\(DC漫画\))转换而来。
+
+
 **希波吕忒女王**（）是[DC漫畫](../Page/DC漫畫.md "wikilink")的一位虛構[超級英雄](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，原型为[希腊神话](../Page/希腊神话.md "wikilink")中[阿玛宗人的女王](../Page/亞馬遜人.md "wikilink")[希波吕忒](https://zh.wikipedia.org/wiki/希波吕忒 "wikilink")。同时也是[神奇女侠与](https://zh.wikipedia.org/wiki/神奇女侠 "wikilink")[唐娜·特洛依的母亲](https://zh.wikipedia.org/wiki/唐娜·特洛依 "wikilink")。
 
 ## 能力

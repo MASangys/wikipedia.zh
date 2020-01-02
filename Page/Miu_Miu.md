@@ -1,3 +1,6 @@
+> 本文内容由[Miu Miu](https://zh.wikipedia.org/wiki/Miu_Miu)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Miu_Miu_Kyukyoryuchi_Kobe01s5s3450.jpg "fig:缩略图")
 
 **Miu Miu**是由Miuccia Prada於[意大利](../Page/意大利.md "wikilink")[米蘭](../Page/米蘭.md "wikilink")創立的一所[時裝](../Page/時裝.md "wikilink")公司，名字取於Miuccia Prada的花名Miu Miu。目前Miu Miu全權由Prada管理。 Miu Miu早前迁至位于法国巴黎马提翁街18号的Prada集团法国分公司办公楼。这幢大厦刚经过重新布局以安置Miu Miu品牌团队，包括销售部门，营销部门和广告宣传部门员工。这将是Prada集团旗下这个女性时装品牌的全新总部地址，而留在米兰的只有设计团队。

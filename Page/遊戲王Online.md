@@ -1,3 +1,6 @@
+> 本文内容由[遊戲王Online](https://zh.wikipedia.org/wiki/遊戲王Online)转换而来。
+
+
 ，提供[遊戲王](../Page/遊戲王.md "wikilink")的[集換紙牌遊戲](../Page/遊戲王集換紙牌遊戲.md "wikilink")\[1\]在線玩服務，由[科樂美](../Page/科樂美.md "wikilink")專營，<ref>[卡片对战游戏《游戏王OL》前瞻(图)](http://games.sina.com.cn/o/n/2005-08-19/1026122269.shtml)
 
 `新浪网-2005年8月20日`</ref>`但受到盜版打擊下，官方公告關閉伺服器。該公司其後推出的`[`網頁遊戲`](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")`，《`[`Yu-Gi-Oh!``   ``Duel``   ``Arena`](https://zh.wikipedia.org/wiki/Yu-Gi-Oh!_Duel_Arena "wikilink")`》亦因此於2015年3月27日停運。`\[2\]

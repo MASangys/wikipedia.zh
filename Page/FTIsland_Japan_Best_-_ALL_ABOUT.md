@@ -1,3 +1,6 @@
+> 本文内容由[FTIsland Japan Best - ALL ABOUT](https://zh.wikipedia.org/wiki/FTIsland_Japan_Best_-_ALL_ABOUT)转换而来。
+
+
 《**FTIsland Japan Best - ALL ABOUT**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第5枚正規韓語專輯（但官方網站視為精選輯），全部歌曲改編自他們的日語歌曲\[1\]，於2014年10月8日發行，並以《FREEDOM》為此專輯的主打曲目。
 
 ## 曲目

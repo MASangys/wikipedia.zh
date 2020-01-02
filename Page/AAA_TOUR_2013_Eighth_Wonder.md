@@ -1,3 +1,6 @@
+> 本文内容由[AAA TOUR 2013 Eighth Wonder](https://zh.wikipedia.org/wiki/AAA_TOUR_2013_Eighth_Wonder)转换而来。
+
+
 「**AAA TOUR 2013 Eighth Wonder**」是[日本](../Page/日本.md "wikilink")的[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[AAA於](https://zh.wikipedia.org/wiki/AAA "wikilink")2014年1月22日推出的DVD，由[avex trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

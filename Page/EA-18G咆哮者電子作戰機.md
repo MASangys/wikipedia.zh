@@ -1,3 +1,6 @@
+> 本文内容由[EA-18G咆哮者電子作戰機](https://zh.wikipedia.org/wiki/EA-18G咆哮者電子作戰機)转换而来。
+
+
 EA-18G「咆哮者」（英語：EA-18G Growler）是一款艦載型電子攻擊機，由2007年開始生產，並於2009年底開始服役。此機為雙座型[F/A-18F超級大黃蜂基礎上開發的特製機型](https://zh.wikipedia.org/wiki/超级大黄蜂 "wikilink")，用於取代美國海軍[EA-6B徘徊者式電子攻擊機](../Page/EA-6徘徊者式電子作戰機.md "wikilink")。而機上的電子攻擊設備主要由[諾斯洛普·格拉曼提供](https://zh.wikipedia.org/wiki/諾斯洛普·格拉曼 "wikilink")。
 
 ## 開發沿革

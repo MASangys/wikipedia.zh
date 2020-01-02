@@ -1,3 +1,6 @@
+> 本文内容由[DeNA](https://zh.wikipedia.org/wiki/DeNA)转换而来。
+
+
 是一家[日本](../Page/日本.md "wikilink")，創立之初以[電子商務起家](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，現在營運範圍涵蓋社交媒體、電子商務、娛樂。\[1\]\[2\]
 
 2011年12月2日，[東京放送控股](../Page/東京放送控股.md "wikilink")賣出[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[橫濱海灣之星過半股權給DeNA](https://zh.wikipedia.org/wiki/橫濱海灣之星 "wikilink")，橫濱海灣之星改為[橫濱DeNA海灣之星](../Page/橫濱DeNA海灣之星.md "wikilink")。\[3\]

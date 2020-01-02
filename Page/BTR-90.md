@@ -1,3 +1,6 @@
+> 本文内容由[BTR-90](https://zh.wikipedia.org/wiki/BTR-90)转换而来。
+
+
 是[俄羅斯在](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")1993年設計的8×8輪式[裝甲運兵車](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，於1994年首次公開展出。該車是BTR-80的增大版本，裝備與BMP-2一樣的[希普諾夫2A42機炮](../Page/希普諾夫2A42機炮.md "wikilink")。相對於BTR-80，BTR-90改進了整個戰車的前緣弧設計，使其能夠有效防禦14.5毫米口徑的槍彈。
 
 BTR-90配備一門希普諾夫2A42機炮（BTR-90M使用的則是[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")）以及一挺[PKT](../Page/PK通用機槍.md "wikilink") 7.62毫米同軸輕機槍或[Kord](../Page/Kord重機槍.md "wikilink") 12.7毫米[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，同時在炮台的兩側配備了5發戰車射反坦克導彈以及[AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink") 30毫米自動[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。

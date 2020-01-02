@@ -1,3 +1,6 @@
+> 本文内容由[MPEG-4](https://zh.wikipedia.org/wiki/MPEG-4)转换而来。
+
+
 [Mpeg.svg](https://zh.wikipedia.org/wiki/File:Mpeg.svg "fig:Mpeg.svg") **MPEG-4**是一套用于[音频](https://zh.wikipedia.org/wiki/音频 "wikilink")、[視訊信息的](https://zh.wikipedia.org/wiki/視訊 "wikilink")[压缩编码](../Page/数据压缩.md "wikilink")[标准](../Page/标准.md "wikilink")，由[国际标准化组织](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（[ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")）和[国际电工委员会](../Page/国际电工委员会.md "wikilink")（[IEC](https://zh.wikipedia.org/wiki/IEC "wikilink")）下属的“動態影像专家组”（Moving Picture Experts Group，即[MPEG](../Page/MPEG.md "wikilink")）制定，第一版在1998年10月通過，第二版在1999年12月通過。MPEG-4格式的主要用途在於網路上[串流](https://zh.wikipedia.org/wiki/串流 "wikilink")、[光碟](../Page/光碟.md "wikilink")、語音傳送（[視訊電話](https://zh.wikipedia.org/wiki/視訊電話 "wikilink")），以及[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")。
 
 MPEG-4包含了[MPEG-1](../Page/MPEG-1.md "wikilink")及[MPEG-2](../Page/MPEG-2.md "wikilink")的絕大部份功能及其他格式的長處，並加入及擴充對[虚拟现实模型语言](../Page/VRML.md "wikilink")（VRML，Virtual Reality Modeling Language）的支援，[物件導向的合成檔案](https://zh.wikipedia.org/wiki/物件導向 "wikilink")（包括音效，視訊及VRML物件），以及[数字版权管理](../Page/数字版权管理.md "wikilink")（[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")）及其他互動功能。而MPEG-4比MPEG-2更先进的其中一个特点，就是不再使用宏区块做影像分析，而是以影像上个体为变化记录，因此尽管影像变化速度很快、码率不足时，也不会出现方块画面。

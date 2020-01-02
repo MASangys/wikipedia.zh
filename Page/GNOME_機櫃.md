@@ -1,3 +1,6 @@
+> 本文内容由[GNOME 機櫃](https://zh.wikipedia.org/wiki/GNOME_機櫃)转换而来。
+
+
 **GNOME 機櫃**（）是[GNOME](../Page/GNOME.md "wikilink")桌面環境用來處理或[遠端系統和](https://zh.wikipedia.org/wiki/遠端桌面 "wikilink")[虛擬主機之應用程式](https://zh.wikipedia.org/wiki/虛擬主機 "wikilink")。
 
 ## 歷史與功能

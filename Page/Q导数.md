@@ -1,3 +1,6 @@
+> 本文内容由[Q导数](https://zh.wikipedia.org/wiki/Q导数)转换而来。
+
+
 **Q导数**也称为杰克逊导数，乃是一般[导数](../Page/导数.md "wikilink")的[Q模拟](https://zh.wikipedia.org/wiki/Q模拟 "wikilink")，由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[数学家](../Page/数学家.md "wikilink")创立。
 
 ## 定义

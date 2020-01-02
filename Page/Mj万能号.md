@@ -1,3 +1,6 @@
+> 本文内容由[Mj万能号](https://zh.wikipedia.org/wiki/Mj万能号)转换而来。
+
+
 Mj万能号『**マイティジャック**』 (Mighty Jack、**通称：MJ**(番組内**M.J.**表記) 是1968年（昭和43年）4月6日至同年6月29日在[フジテレビ毎週](https://zh.wikipedia.org/wiki/フジテレビジョン "wikilink")[土曜](https://zh.wikipedia.org/wiki/土曜日 "wikilink")20：00 - 20：56 ([JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")) 放送由[円谷特技プロダクション製作的](https://zh.wikipedia.org/wiki/円谷プロダクション "wikilink")[日本](../Page/日本.md "wikilink")の[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[特撮](https://zh.wikipedia.org/wiki/特撮 "wikilink")。
 
 ## 介绍

@@ -1,3 +1,6 @@
+> 本文内容由[RSh-12.7左轮手枪](https://zh.wikipedia.org/wiki/RSh-12.7左轮手枪)转换而来。
+
+
 **RSh-12.7**（；全寫：，意為：12.7 毫米突擊左輪手槍）是一柄由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠旗下的](../Page/俄联邦仪器设计局.md "wikilink")（TsKIB SOO）[研發生产的](../Page/研究開發.md "wikilink")12.7毫米（.50英吋）大[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilink")，是一種[近身距離作戰](../Page/近身距離作戰.md "wikilink")及[城市作戰專用的武器](../Page/城鎮戰.md "wikilink")，发射俄羅斯[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 該武器的研製目的是給諸如俄羅斯[聯邦安全局](../Page/聯邦安全局.md "wikilink")這些在城市環境戰鬥的[特種部隊](../Page/特種部隊.md "wikilink")單位對付全副武裝及有組織[黑社會](../Page/黑社會.md "wikilink")和[恐怖分子勢力時使用](../Page/恐怖主义.md "wikilink")。從這一編號能看出它和[ASh-12.7為配套關係](../Page/ASh-12.7突击步枪.md "wikilink")，並且使用同樣的子彈。該槍最先在2011年底與ASh-12.7一同亮相。

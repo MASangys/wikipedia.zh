@@ -1,3 +1,6 @@
+> 本文内容由[Kinema Citrus](https://zh.wikipedia.org/wiki/Kinema_Citrus)转换而来。
+
+
 **Kinema Citrus**是一間負責[日本動畫企劃及製作的公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要

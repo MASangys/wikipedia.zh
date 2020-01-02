@@ -1,3 +1,6 @@
+> 本文内容由[Game Boy Advance SP](https://zh.wikipedia.org/wiki/Game_Boy_Advance_SP)转换而来。
+
+
 Game Boy Advance SP（ゲームボーイアドバンス SP），是[任天堂](../Page/任天堂.md "wikilink")公司于2003年2月在日本发布的[Game Boy Advance的升级版掌上游戏机](../Page/Game_Boy_Advance.md "wikilink")，售价为12500日元。之后于2003年3月22日在美国发售，售价149.95美元；于2003年3月28日在欧洲及澳大利亚发售，售价分别为129.99欧元和199.99澳元。
 
 2004年10月27日任天堂与中国[神游科技](../Page/神游科技.md "wikilink")在中国大陆发售中国版的GBA SP——**小神游SP**，售价[人民币](../Page/人民币.md "wikilink")688元。

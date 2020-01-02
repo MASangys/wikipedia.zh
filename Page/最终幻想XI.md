@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XI](https://zh.wikipedia.org/wiki/最终幻想XI)转换而来。
+
+
 是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（后来为[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发的[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG），为[最终幻想系列的一作](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。游戏由[田中弘道](../Page/田中弘道.md "wikilink")设计并制作，于2002年5月16日在日本[索尼](../Page/索尼.md "wikilink")[PlayStation 2平台首发](../Page/PlayStation_2.md "wikilink")，次年又在[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")发行。游戏是首款[跨平台MMORPG](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，也是[Xbox 360的首款MMORPG](../Page/Xbox_360.md "wikilink")\[1\]。各版本的游戏皆需每月缴纳订阅金\[2\]。
 
 游戏情节设定于名为维纳戴尔的[奇幻世界](https://zh.wikipedia.org/wiki/奇幻 "wikilink")，玩家建立的[化身通过在各种目标中竞争与合作](https://zh.wikipedia.org/wiki/化身 "wikilink")，来发展各种职业和技能，并赢取游戏内的物品奖励。玩家还能开展大量任务，并通过游戏的等级制度发展，继而完成游戏的主要情节。自游戏2002年首发以来，另有五部[资料片和六部附加剧本发行](https://zh.wikipedia.org/wiki/资料片 "wikilink")\[3\]。每部资料片和附加剧本都为《最终幻想XI》的世界加入新的主线剧情，以及大量区域、任务、事件和道具奖励。

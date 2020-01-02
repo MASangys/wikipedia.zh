@@ -1,3 +1,6 @@
+> 本文内容由[Signal \(電視劇\)](https://zh.wikipedia.org/wiki/Signal_\(電視劇\))转换而来。
+
+
 《**Signal**》（）為[韓國有線電視台](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年1月22日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，由[李帝勳](../Page/李帝勳.md "wikilink")、[金惠秀](../Page/金惠秀.md "wikilink")和[趙震雄](../Page/趙震雄.md "wikilink")主演。本劇為[tvN開台十週年特別企劃](https://zh.wikipedia.org/wiki/tvN "wikilink")，是由擅長撰寫正統推理作品的劇作家[金銀姬](../Page/金銀姬.md "wikilink")（《[Sign](../Page/Sign_\(韓國電視劇\).md "wikilink")》、《[幽靈](../Page/幽靈_\(韓國電視劇\).md "wikilink")》、《[Three Days](../Page/Three_Days.md "wikilink")》）與[金元錫](../Page/金元錫.md "wikilink")導演（《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》、《[未生](../Page/未生.md "wikilink")》）聯手打造、帶有科幻風格的刑偵推理戲劇。
 
 本劇自開播以來就穩坐韓國尼爾森收視調查同時段「10至50歲最受歡迎節目」第一名，結局亦創下有線電視台收視率12.8%的超高紀錄，僅次於tvN鎮台之作《鬼怪》與《請回答》系列\[1\]。在[第52屆百想藝術大賞電視劇部門中](https://zh.wikipedia.org/wiki/第52屆百想藝術大賞 "wikilink")，本劇入圍八項大奖并獲得「最佳戲劇」、「最佳女主角」及「最佳劇本」三大獎。

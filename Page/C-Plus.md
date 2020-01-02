@@ -1,3 +1,6 @@
+> 本文内容由[C-Plus](https://zh.wikipedia.org/wiki/C-Plus)转换而来。
+
+
 **C-PLUS**是一个[澳门的](https://zh.wikipedia.org/wiki/澳门 "wikilink")[音乐组合](https://zh.wikipedia.org/wiki/音乐组合 "wikilink")，由[鍾楚霖](../Page/鍾楚霖.md "wikilink")和[徐智勇組成](https://zh.wikipedia.org/wiki/徐智勇 "wikilink")。
 
 ## 名字由來

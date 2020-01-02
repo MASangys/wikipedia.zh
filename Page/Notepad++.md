@@ -1,3 +1,6 @@
+> 本文内容由[Notepad++](https://zh.wikipedia.org/wiki/Notepad++)转换而来。
+
+
 **Notepad++**是[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[純文字編輯器](../Page/文本编辑器.md "wikilink")，由侯今吾基于同是[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[Scintilla文本编辑组件並獨力研發](https://zh.wikipedia.org/wiki/Scintilla文本编辑组件 "wikilink")，整个项目起初托管于[SourceForge.net之上](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")，截止到2011年，已被下載超過2700萬次\[1\]\[2\]，并两度获得SourceForge社群選擇獎——最佳開發工具\[3\]。2010年6月托管于TuxFamily，现由GitHub托管。
 
 該軟體以[GPL發佈](https://zh.wikipedia.org/wiki/GPL "wikilink")，有完整的[中文化介面及支援多國](https://zh.wikipedia.org/wiki/中文 "wikilink")[語言](../Page/語言.md "wikilink")撰寫的功能（採用[UTF-8](../Page/UTF-8.md "wikilink")编码）。它的功能比[Windows中的](https://zh.wikipedia.org/wiki/Windows "wikilink")[記事本](../Page/記事本.md "wikilink")（Notepad）強大，除了可以用來製作一般的純文字的說明文件，也十分適合用作撰寫[電腦程式的編輯器](https://zh.wikipedia.org/wiki/電腦程式 "wikilink")。由6.2.3版本起，Notepad++的文件預設文字格式由ANSI改為除去[BOM的UTF](../Page/位元組順序記號.md "wikilink")8（UTF8 without BOM）。Notepad++不僅有[語法高亮度顯示](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")，也有[語法摺疊](../Page/語法摺疊.md "wikilink")功能，並且支援[巨集](../Page/巨集.md "wikilink")以及擴充基本功能的[外掛模組](https://zh.wikipedia.org/wiki/外掛模組 "wikilink")。

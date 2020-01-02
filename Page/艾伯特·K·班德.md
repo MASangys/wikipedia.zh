@@ -1,3 +1,6 @@
+> 本文内容由[艾伯特·K·班德](https://zh.wikipedia.org/wiki/艾伯特·K·班德)转换而来。
+
+
 **艾伯特·K·班德**（，），[美國有名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[黑衣人](../Page/黑衣人.md "wikilink")證人，聲稱黑衣人其實就是[外星人](../Page/外星人.md "wikilink")在地球活動時派遣的幹員。出過《Flying Saucers and the Three Men in Black》一書。
 
 ## 班德的確定經歷

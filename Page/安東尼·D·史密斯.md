@@ -1,3 +1,6 @@
+> 本文内容由[安東尼·D·史密斯](https://zh.wikipedia.org/wiki/安東尼·D·史密斯)转换而来。
+
+
 **安東尼·戴維·斯蒂芬·史密斯**（**Anthony Davis Stephen Smith**；），是一名英國[民族學家](https://zh.wikipedia.org/wiki/民族學 "wikilink")，[倫敦政治經濟學院](../Page/倫敦政治經濟學院.md "wikilink")民族主義和種族教授，被認為是跨學科[民主主義研究的其中一個創始人](https://zh.wikipedia.org/wiki/民主主義 "wikilink")。
 
 早年在[牛津大學修讀](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")[經學和](https://zh.wikipedia.org/wiki/經學 "wikilink")[哲學](https://zh.wikipedia.org/wiki/哲學 "wikilink")，後來於[倫敦政治經濟學院](../Page/倫敦政治經濟學院.md "wikilink")取得社會學碩士和博士學位。

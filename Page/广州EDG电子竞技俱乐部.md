@@ -1,3 +1,6 @@
+> 本文内容由[广州EDG电子竞技俱乐部](https://zh.wikipedia.org/wiki/广州EDG电子竞技俱乐部)转换而来。
+
+
 **EDG电子竞技俱乐部**（EDward Gaming，簡稱**EDG**），成立于2013年9月13日。下设[英雄联盟](../Page/英雄联盟.md "wikilink")分部、[炉石传说分部](https://zh.wikipedia.org/wiki/炉石传说 "wikilink")、[风暴英雄](../Page/风暴英雄.md "wikilink")分部、[绝地求生分部](https://zh.wikipedia.org/wiki/绝地求生 "wikilink")、[王者榮耀分部以及](https://zh.wikipedia.org/wiki/王者榮耀 "wikilink")[CS:GO分部](../Page/反恐精英：全球攻势.md "wikilink")[皇室戰爭分部](../Page/部落衝突：皇室戰爭.md "wikilink")。其英雄联盟分部参加了中国的[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")（LPL），并曾在[英雄联盟2015季中邀请赛中获得冠军](https://zh.wikipedia.org/wiki/英雄联盟2015季中邀请赛 "wikilink")。
 
 ## 英雄联盟分部

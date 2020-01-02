@@ -1,3 +1,6 @@
+> 本文内容由[ADO](https://zh.wikipedia.org/wiki/ADO)转换而来。
+
+
 [微软公司的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")**ADO**（）是一个用于访问数据源的[COM组件](https://zh.wikipedia.org/wiki/COM "wikilink")，作为高层的编程界面层。ADO是在[OLE DB之上](../Page/OLE_DB.md "wikilink")，包含了很多层次化的COM对象与集合（Collections，也是一类对象，在其里面包含了其他层级对象）。允许开发人员编写访问数据的代码而不用关心数据源是如何实现与访问驱动的，而只用关心到数据库的连接。访问[数据库](../Page/数据库.md "wikilink")的时候，关于[SQL](../Page/SQL.md "wikilink")的知识不是必要的，但是特定数据库支持的SQL命令仍可以通过ADO中的命令对象（Command）来执行。
 
 ## 版本

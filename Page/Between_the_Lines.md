@@ -1,3 +1,6 @@
+> 本文内容由[Between the Lines](https://zh.wikipedia.org/wiki/Between_the_Lines)转换而来。
+
+
 《**Between the Lines**》（化學進行式-進化精選輯）是日本組合[化學超男子](../Page/化學超男子.md "wikilink")於2003年6月18日發行的概念專輯。
 
 ## 概述

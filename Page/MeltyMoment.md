@@ -1,3 +1,6 @@
+> 本文内容由[MeltyMoment](https://zh.wikipedia.org/wiki/MeltyMoment)转换而来。
+
+
 《**MeltyMoment**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2014年1月31日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2014年8月29日發售《MeltyMoment ミニファンディスク 葵＆鏡水Ver》。\[3\]2014年9月26日發售《MeltyMoment ミニファンディスク すみれ＆千恵美Ver》。\[4\][DMM.com](../Page/DMM.com.md "wikilink")於2015年3月6日獨家販售DL版。\[5\]由[GN Software在](../Page/GN_Software.md "wikilink")2015年12月17日發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")。\[6\]\[7\]
 
 ## 故事

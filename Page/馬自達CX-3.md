@@ -1,3 +1,6 @@
+> 本文内容由[馬自達CX-3](https://zh.wikipedia.org/wiki/馬自達CX-3)转换而来。
+
+
 **馬自達CX-3**（）乃[日本](../Page/日本.md "wikilink")[馬自達汽車公司於](https://zh.wikipedia.org/wiki/馬自達 "wikilink")2015年推出的五人座緊湊型[跨界休旅車](../Page/跨界休旅車.md "wikilink")。
 
 ## 概要

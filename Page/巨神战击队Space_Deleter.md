@@ -1,3 +1,6 @@
+> 本文内容由[巨神战击队Space Deleter](https://zh.wikipedia.org/wiki/巨神战击队Space_Deleter)转换而来。
+
+
 《**巨神戰擊隊Space Deleter**》(又名**巨神戰擊隊之空間戰擊隊**\[1\])是由[廣東奧飛動漫文化股份有限公司](https://zh.wikipedia.org/wiki/廣東奧飛動漫文化股份有限公司 "wikilink")、[上海永旭文化傳播有限公司聯合投資攝製的](https://zh.wikipedia.org/wiki/上海永旭文化傳播有限公司 "wikilink")[特攝劇](https://zh.wikipedia.org/wiki/特攝劇 "wikilink")，也是《[巨神戰擊隊](../Page/巨神戰擊隊.md "wikilink")》系列第二作。
 
 本作於2014年12月22日正式在[广东嘉佳卡通卫视和視頻網站播出](https://zh.wikipedia.org/wiki/广东广播电视台嘉佳卡通频道 "wikilink")。

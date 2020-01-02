@@ -1,3 +1,6 @@
+> 本文内容由[Astro喜悦HD](https://zh.wikipedia.org/wiki/Astro喜悦HD)转换而来。
+
+
 **Astro喜悅HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[NJOI首個免費](https://zh.wikipedia.org/wiki/NJOI "wikilink")24小時[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，也是[Astro第七個中文高清頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")。除了[NJOI用戶以外](https://zh.wikipedia.org/wiki/NJOI "wikilink")，擁有高清解碼器的Astro B.yond用戶也可以观看此頻道。該頻道主要播出其他Astro旗下的中文頻道：（[Astro AEC HD](../Page/Astro_AEC.md "wikilink")、[Astro双星HD](https://zh.wikipedia.org/wiki/Astro双星HD "wikilink")、[Astro全佳HD](../Page/Astro全佳HD.md "wikilink")、[Astro华丽台HD](https://zh.wikipedia.org/wiki/Astro华丽台HD "wikilink")、[Astro欢喜台HD](https://zh.wikipedia.org/wiki/Astro歡喜台 "wikilink")）已播出过的中文節目和最新的中文節目，该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[马来语](../Page/马来语.md "wikilink")字幕服务。頻道播放各類節目以及Astro自製節目。第30屆金曲獎是此頻道最後一個現場轉播節目。2019年7月1日起，Astro喜悅HD频道停播。2019年7月17日起，[爱奇艺](../Page/爱奇艺.md "wikilink")频道启播。
 
 ## 直播节目一览

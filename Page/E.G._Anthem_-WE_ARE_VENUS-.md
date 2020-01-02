@@ -1,3 +1,6 @@
+> 本文内容由[E.G. Anthem -WE ARE VENUS-](https://zh.wikipedia.org/wiki/E.G._Anthem_-WE_ARE_VENUS-)转换而来。
+
+
 《**E.G. Anthem -WE ARE VENUS-**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")9张[单曲](../Page/单曲.md "wikilink")，於2014年7月9日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

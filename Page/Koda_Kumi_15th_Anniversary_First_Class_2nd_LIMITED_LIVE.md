@@ -1,3 +1,6 @@
+> 本文内容由[Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE](https://zh.wikipedia.org/wiki/Koda_Kumi_15th_Anniversary_First_Class_2nd_LIMITED_LIVE)转换而来。
+
+
 《**Koda Kumi 15th Anniversary First Class 2nd LIMITED LIVE**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年12月6日舉辦的一日限定出道15週年紀念演唱會。
 
 ## 簡介

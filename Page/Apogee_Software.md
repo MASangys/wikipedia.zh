@@ -1,3 +1,6 @@
+> 本文内容由[Apogee Software](https://zh.wikipedia.org/wiki/Apogee_Software)转换而来。
+
+
 [apogeelogo.png](https://zh.wikipedia.org/wiki/File:apogeelogo.png "fig:apogeelogo.png") **Apogee Software**是一家[电脑游戏](../Page/电脑游戏.md "wikilink")和[电视游戏开发商和出版商](https://zh.wikipedia.org/wiki/电视游戏 "wikilink")，成立于1987年。人们更熟悉它现在的名字[3D Realms](https://zh.wikipedia.org/wiki/3D_Realms "wikilink")。
 
 ## 知名游戏

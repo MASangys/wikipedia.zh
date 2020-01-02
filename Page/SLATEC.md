@@ -1,3 +1,6 @@
+> 本文内容由[SLATEC](https://zh.wikipedia.org/wiki/SLATEC)转换而来。
+
+
 **SLATEC公用数学库**（）是包含1400多个数学及统计程序的[FORTRAN 77程序库](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")。其由[美国政府的多个研究实验室开发](https://zh.wikipedia.org/wiki/美国政府 "wikilink")，故代码属于[公有领域](../Page/公有领域.md "wikilink")。
 
 “SLATEC”是[桑迪亚](../Page/桑迪亚国家实验室.md "wikilink")（）、[洛斯阿拉莫斯](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（）及[空军武器](https://zh.wikipedia.org/wiki/空军研究实验室 "wikilink")（）实验室技术交换委员会（）的缩写。该组织成立于1974年，致力于美国政府各实验室的计算机中心之间技术信息的交换。

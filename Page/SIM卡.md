@@ -1,3 +1,6 @@
+> 本文内容由[SIM卡](https://zh.wikipedia.org/wiki/SIM卡)转换而来。
+
+
 TNT/_  [Nano_SIM(China_Mobile_HK).jpg](https://zh.wikipedia.org/wiki/File:Nano_SIM\(China_Mobile_HK\).jpg "fig:Nano_SIM(China_Mobile_HK).jpg") [GSM_SIM_card_evolution.svg](https://zh.wikipedia.org/wiki/File:GSM_SIM_card_evolution.svg "fig:GSM_SIM_card_evolution.svg") **用户身份模块**（**S**ubscriber **I**dentity **M**odule，**SIM**），通常称为“**SIM卡**”，是主要用于存储用户身份识别数据、[簡訊](../Page/簡訊.md "wikilink")数据和电话号码的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。
 
 SIM卡主要用于[GSM](../Page/GSM.md "wikilink")网络和[TD-SCDMA网络](https://zh.wikipedia.org/wiki/TD-SCDMA "wikilink")，但是兼容的模块也可以用于[IDEN电话](https://zh.wikipedia.org/wiki/IDEN "wikilink")。有人把[CDMA2000](../Page/CDMA2000.md "wikilink")和[cdmaOne的](https://zh.wikipedia.org/wiki/cdmaOne "wikilink")[RUIM卡和](https://zh.wikipedia.org/wiki/RUIM卡 "wikilink")[UIM卡](https://zh.wikipedia.org/wiki/UIM卡 "wikilink")，也称作SIM卡，虽然两者作用类似，并遵守了一样的所有机械、电气标准和部分软件标准，但是上层应用并不一定兼容。

@@ -1,3 +1,6 @@
+> 本文内容由[NBA年度最佳新秀](https://zh.wikipedia.org/wiki/NBA年度最佳新秀)转换而来。
+
+
 **NBA年度最佳新秀**（）是每年由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[NBA](../Page/NBA.md "wikilink")聯盟頒發給[例行賽表現最優秀的該年新秀之獎項](https://zh.wikipedia.org/wiki/NBA例行賽 "wikilink")，首次頒獎是在1953年，獎盃的全名為「[艾迪·戈特里布獎](https://zh.wikipedia.org/wiki/艾迪·戈特里布 "wikilink")」。
 
 ## 歷屆最佳新秀

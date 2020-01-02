@@ -1,3 +1,6 @@
+> 本文内容由[BPG](https://zh.wikipedia.org/wiki/BPG)转换而来。
+
+
 **BPG**格式，全稱「」（更好的可攜式圖像），它是一個聲稱比現時最流行的[JPEG](../Page/JPEG.md "wikilink")壓縮格式更優秀的[圖像壓縮方案](https://zh.wikipedia.org/wiki/圖像壓縮 "wikilink")，由法國的程式設計師[法布里斯·貝拉](https://zh.wikipedia.org/wiki/法布里斯·貝拉 "wikilink")（）於2014年创建。他将影像編碼格式中的技術運用到了圖像編碼，以達至更理想的壓縮比率，而不同于[JPEG](../Page/JPEG.md "wikilink")為提高壓縮比而犧牲畫質的方式\[1\]\[2\]。该影像編碼格式基於[高效率视频编码](../Page/高效率视频编码.md "wikilink")（HEVC）的[幀內編碼](../Page/幀內編碼.md "wikilink")技術改良而成\[3\]\[4\]。
 
 ## HEVC與BPG的關係

@@ -1,3 +1,6 @@
+> 本文内容由[BASE \(金鐘鉉迷你專輯\)](https://zh.wikipedia.org/wiki/BASE_\(金鐘鉉迷你專輯\))转换而来。
+
+
 《**BASE**》是韓國男子組合[SHINee](../Page/SHINee.md "wikilink")主唱[金鐘鉉的首張韓語迷你專輯](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，於2015年1月7日先發行先行曲《Déjà-Boo》（韓語：데자-부）\[1\]，2015年1月12日發行包括主打曲《Crazy（Guilty Pleasure）》在內的全專音源及實體專輯。\[2\]由SM娛樂製作，KT Music發行。
 
 ## 概要

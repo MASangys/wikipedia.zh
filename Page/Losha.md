@@ -1,3 +1,6 @@
+> 本文内容由[Losha](https://zh.wikipedia.org/wiki/Losha)转换而来。
+
+
 **《邪惡》**（[保加利亞文](https://zh.wikipedia.org/wiki/保加利亞文 "wikilink")：Лоша [轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：Losha」）是[保加利亞女歌手](https://zh.wikipedia.org/wiki/保加利亞 "wikilink")[Andrea的第四張專輯](https://zh.wikipedia.org/wiki/安茱莉亞·提奧多亞 "wikilink")，包含8首歌曲，發布日期為[Andrea](https://zh.wikipedia.org/wiki/安茱莉亞·提奧多亞 "wikilink") 25歲生日當天──2012年1月23日。
 
 ## 曲目列表

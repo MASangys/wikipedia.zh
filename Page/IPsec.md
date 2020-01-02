@@ -1,3 +1,6 @@
+> 本文内容由[IPsec](https://zh.wikipedia.org/wiki/IPsec)转换而来。
+
+
 **網際網路安全協定**（，縮寫：**IPsec**）是一個[协议套件](https://zh.wikipedia.org/wiki/协议套件 "wikilink")，透过对[IP协议的](https://zh.wikipedia.org/wiki/IP协议 "wikilink")[分组进行](https://zh.wikipedia.org/wiki/分组 "wikilink")[加密](../Page/加密.md "wikilink")和[认证来保护IP协议的](https://zh.wikipedia.org/wiki/认证 "wikilink")[网络传输协议](../Page/网络传输协议.md "wikilink")族（一些相互关联的协议的集合）。
 
 IPsec主要由以下[协议组成](../Page/网络传输协议.md "wikilink")\[1\]\[2\]：一、[认证头（AH）](https://zh.wikipedia.org/wiki/#认证头（AH） "wikilink")，为IP[数据报提供无连接](https://zh.wikipedia.org/wiki/数据报 "wikilink")[数据完整性](https://zh.wikipedia.org/wiki/数据完整性 "wikilink")、以及防[重放攻击保护](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")\[3\]\[4\]；二、[封装安全载荷（ESP）](https://zh.wikipedia.org/wiki/#封装安全载荷（ESP） "wikilink")，提供机密性、数据源认证、无连接完整性、防重放和有限的传输流（traffic-flow）机密性\[5\]；三、[安全關-{}-聯（SA）](https://zh.wikipedia.org/wiki/安全關聯 "wikilink")，提供算法和数据包，提供AH、ESP操作所需的参数\[6\]。

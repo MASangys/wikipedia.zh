@@ -1,3 +1,6 @@
+> 本文内容由[Tanhc函数](https://zh.wikipedia.org/wiki/Tanhc函数)转换而来。
+
+
 **Tanhc**函数定义如下\[1\] [Tanhc_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_2D_plot.png "fig:Tanhc_2D_plot.png") [Tanhc'(z)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc'\(z\)_2D_plot.png "fig:Tanhc'(z)_2D_plot.png") [Tanhc_integral_2D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_integral_2D_plot.png "fig:Tanhc_integral_2D_plot.png") [Tanhc_integral_3D_plot.png](https://zh.wikipedia.org/wiki/File:Tanhc_integral_3D_plot.png "fig:Tanhc_integral_3D_plot.png")
 
   - \(tanhc(z)={\frac {\tanh \left( z \right) }{z}}\)

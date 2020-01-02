@@ -1,3 +1,6 @@
+> 本文内容由[Nexus Player](https://zh.wikipedia.org/wiki/Nexus_Player)转换而来。
+
+
 **Nexus Player**是由[谷歌和](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[华硕共同开发的](https://zh.wikipedia.org/wiki/华硕 "wikilink")，是第二个[Google Nexus系列消费类设备中的媒体播放器](../Page/Google_Nexus.md "wikilink")。搭载[Android 5.0（“Lollipop”）](../Page/Android_Lollipop.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，其将是采用[Android TV电视平台的第一个设备](../Page/Android_TV.md "wikilink")。Nexus Player支持Google Cast，该功能在电视上选择和控制媒体播放，并且首先在[Chromecast](../Page/Chromecast.md "wikilink")上推出。
 
 ## 发布

@@ -1,3 +1,6 @@
+> 本文内容由[Google即时桌面](https://zh.wikipedia.org/wiki/Google即时桌面)转换而来。
+
+
 **Google 即时桌面**（Google 即時資訊啟動器 / ）是由 [Google](../Page/Google.md "wikilink") 开发的一款适用于 [Android](../Page/Android.md "wikilink") [操作系统](../Page/操作系统.md "wikilink")的桌面/启动器(Launcher)应用。\[1\]
 
 ## 功能

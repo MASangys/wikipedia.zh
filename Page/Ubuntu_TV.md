@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu TV](https://zh.wikipedia.org/wiki/Ubuntu_TV)转换而来。
+
+
 Ubuntu TV是一款由[Canonical](../Page/Canonical.md "wikilink")開發的[智能電視](../Page/智能電視.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，基於[Ubuntu](../Page/Ubuntu.md "wikilink")開發，並統一了界面。\[1\]\[2\]\[3\]\[4\]
 
 2014年10月，還沒有任何產品搭載這個系統，也沒有發佈給公眾使用。

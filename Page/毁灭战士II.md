@@ -1,3 +1,6 @@
+> 本文内容由[毁灭战士II](https://zh.wikipedia.org/wiki/毁灭战士II)转换而来。
+
+
 **毁灭战士II**，全名为毁灭战士II: 人间地狱（**Doom II: Hell on Earth**），是由[id Software开发的一款](https://zh.wikipedia.org/wiki/id_Software "wikilink")[第一人称射击游戏](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")。1994年发布的最初版本是针对[IBM](../Page/IBM.md "wikilink")生产的[PC](../Page/PC.md "wikilink")的。而它的前作，[毁灭战士](https://zh.wikipedia.org/wiki/毁灭战士 "wikilink")，于1993年发行后便成为一款广受好评的游戏。1995年，毁灭战士II获得了*Origins Awards*颁发的*1994年最佳幻想或科幻游戏奖*。但是和前作只接受邮购或者共享方式购买不同的是，毁灭战士II的完全版作为商业品在软件店内销售。
 
 ## 故事主线

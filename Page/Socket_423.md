@@ -1,3 +1,6 @@
+> 本文内容由[Socket 423](https://zh.wikipedia.org/wiki/Socket_423)转换而来。
+
+
 **Socket 423**是早期的[Pentium 4處理器](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")（Willamette核心）所使用的插座，由於它的設計被發現問題，以致在时钟频率上無法超越2GHz，只是一個臨時性解決方案，因此它的壽命不長，被[Socket 478所取代](../Page/Socket_478.md "wikilink")。
 
 ## 使用Socket 423的處理器

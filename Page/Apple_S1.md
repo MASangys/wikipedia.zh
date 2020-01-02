@@ -1,3 +1,6 @@
+> 本文内容由[Apple S1](https://zh.wikipedia.org/wiki/Apple_S1)转换而来。
+
+
 **Apple S1**是第一代[蘋果手錶](https://zh.wikipedia.org/wiki/蘋果手錶 "wikilink")（Apple Watch）中的整合式電腦晶片，蘋果公司形容其為「[系統型封裝](https://zh.wikipedia.org/wiki/SiP "wikilink")」（SiP）\[1\] 。
 
 據報導[三星是S](../Page/三星電子.md "wikilink")1核心組件的供應商，提供包括[隨機存取記憶體](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")（RAM）、[NAND Flash儲存裝置](https://zh.wikipedia.org/wiki/闪存#NAND_Flash "wikilink")，以及組裝零件\[2\]。

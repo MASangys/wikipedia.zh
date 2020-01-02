@@ -1,3 +1,6 @@
+> 本文内容由[模块:Jct](https://zh.wikipedia.org/wiki/模块:Jct)转换而来。
+
+
 local p = {}
 
 local concat = table.concat local insert = table.insert local getArgs = require('Module:Arguments').getArgs -- Import module function to work with passed arguments local parserModule = require "Module:Road data/parser" local parser = parserModule.parser

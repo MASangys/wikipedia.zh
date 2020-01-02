@@ -1,3 +1,6 @@
+> 本文内容由[Folding@home](https://zh.wikipedia.org/wiki/Folding@home)转换而来。
+
+
 **Folding@home**（簡稱**FAH**或**F@h**）是一个研究[蛋白质折叠](../Page/蛋白质折叠.md "wikilink")、误折、聚合及由此引起的相关疾病的[分布式计算](../Page/分布式计算.md "wikilink")工程。由[斯坦福大学](../Page/史丹佛大學.md "wikilink")[化學](../Page/化學.md "wikilink")系的潘德实验室（Pande Lab）主持，於2000年10月1日正式啟動。Folding@home現時是世界上最大的分布式計算計劃，於2007年為[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")所承認\[1\]。
 
 2004年3月8日，研究[基因](../Page/基因.md "wikilink")結構的計劃終止，併入Folding@home。

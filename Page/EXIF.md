@@ -1,3 +1,6 @@
+> 本文内容由[EXIF](https://zh.wikipedia.org/wiki/EXIF)转换而来。
+
+
 **可交换图像文件格式**（，官方簡稱**Exif**），是专门为[数码相机](../Page/数码相机.md "wikilink")的照片设定的，可以记录数-{zh-hans:码;zh-hk:碼;zh-tw:位;}-照片的属性信息和拍摄数据。
 
 Exif最初由[日本電子工業發展協會在](https://zh.wikipedia.org/wiki/日本電子工業發展協會 "wikilink")1996年制定，版本为1.0。1998年，升级到2.1，增加了对音频文件的支持。2002年3月，发表了2.2版。

@@ -1,3 +1,6 @@
+> 本文内容由[Green Flash \(AKB48單曲\)](https://zh.wikipedia.org/wiki/Green_Flash_\(AKB48單曲\))转换而来。
+
+
 《**Green Flash**》是[日本](../Page/日本.md "wikilink")女性[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的第39張[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[秋元康](../Page/秋元康.md "wikilink")製作與作詞，並由[國王唱片](../Page/國王唱片.md "wikilink")於2015年3月4日發行。此曲是由[小嶋陽菜](../Page/小嶋陽菜.md "wikilink")與[柏木由紀](../Page/柏木由紀.md "wikilink")兩名較年長的資深成員擔任center（中央位置）成員，除了是柏木首次獲得center位置的單曲外，也是AKB48首次的[饒舌歌曲挑戰](https://zh.wikipedia.org/wiki/饒舌歌曲 "wikilink")，在副歌中由[高橋南](../Page/高橋南.md "wikilink")與[山本彩](../Page/山本彩.md "wikilink")兩名成員實際進行饒舌演唱。單曲《Green Flash》（綠光）的歌名起源於一種可在日出或日落的瞬間看到的特殊光學現象「[綠閃光](../Page/綠閃光.md "wikilink")」，在一些如[夏威夷之類的地區流傳著如果能在日落時親眼見到綠光就能獲得幸福的說法](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，而歌詞中也有提及[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[艾力克·侯麥](https://zh.wikipedia.org/wiki/艾力克·侯麥 "wikilink")（）在1986年時推出的電影作品——《[綠光](https://zh.wikipedia.org/wiki/綠光_\(1986年電影\) "wikilink")》（）。
 
 ## 簡介

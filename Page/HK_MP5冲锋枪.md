@@ -1,3 +1,6 @@
+> 本文内容由[HK MP5冲锋枪](https://zh.wikipedia.org/wiki/HK_MP5冲锋枪)转换而来。
+
+
 \(\)
 
 **HK MP5**系列是由[德國軍械廠](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫所設計及製造的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，是黑克勒-科赫最著名及製造量最多的槍械產品。由於該系列衝鋒槍獲多國的軍隊、保安部隊、警隊選擇作為制式槍械使用，因此具有極高的知名度。

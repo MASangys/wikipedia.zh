@@ -1,3 +1,6 @@
+> 本文内容由[Game Boy Color](https://zh.wikipedia.org/wiki/Game_Boy_Color)转换而来。
+
+
 **Game Boy Color**（简称**GBC**）是[日本](../Page/日本.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")公司开发的一种电池驱动彩色屏幕[掌上游戏机](https://zh.wikipedia.org/wiki/掌上游戏机 "wikilink")，是原[Game Boy的加强版](../Page/Game_Boy.md "wikilink")。[日本](../Page/日本.md "wikilink")於1998年10月21日發行。其最大特点在于相对原版Game Boy使用了彩色屏幕。
 
 Game Boy Color在日本的主要竞争对手是16位灰色掌机[Neo Geo Pocket和](../Page/Neo_Geo_Pocket.md "wikilink")[WonderSwan](../Page/WonderSwan.md "wikilink")。不过在销售方面，Game Boy Color仍然远远超过竞争者。SNK和万代紧接着继续推出[Neo Geo Pocket Color和](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")[Wonderswan Color](https://zh.wikipedia.org/wiki/Wonderswan_Color "wikilink")，但是这个对于任天堂的主导地位几乎没有变化。当世嘉于1997年结束支持Game Gear，Game Boy Color在北美市场的主要竞争者就是Game Boy。直到短暂生命周期的Neo Geo Pocket Color于1999年8月出现。

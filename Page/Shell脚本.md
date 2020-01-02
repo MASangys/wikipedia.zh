@@ -1,3 +1,6 @@
+> 本文内容由[Shell脚本](https://zh.wikipedia.org/wiki/Shell脚本)转换而来。
+
+
 **Shell脚本**（），又稱**Shell命令稿**、**程式化腳本**，是一種電腦[程式使用的文字檔案](https://zh.wikipedia.org/wiki/程式 "wikilink")，內容由一連串的shell命令組成，經由[Unix Shell直譯其內容後運作](https://zh.wikipedia.org/wiki/Unix_Shell "wikilink")。被當成是一種[腳本語言來設計](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，其運作方式與[直譯語言相當](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")，由[Unix shell扮演](../Page/Unix_shell.md "wikilink")[命令行](../Page/命令行界面.md "wikilink")[直譯器](../Page/直譯器.md "wikilink")的角色，在讀取shell脚本之後，依序執行其中的shell命令，之後輸出結果。利用shell脚本可以進行系統管理，檔案操作等。
 
 在[Unix及所有的](https://zh.wikipedia.org/wiki/Unix "wikilink")[類Unix系統中](https://zh.wikipedia.org/wiki/類Unix "wikilink")，如[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")等作業系統，都存在shell脚本。依照Unix shell的各種不同類型，shell脚本也有各種不同方言。在[DOS](../Page/DOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[Microsoft Windows中的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[批次檔](../Page/批次檔.md "wikilink")，跟shell脚本有類似的功能。

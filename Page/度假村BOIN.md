@@ -1,3 +1,6 @@
+> 本文内容由[度假村BOIN](https://zh.wikipedia.org/wiki/度假村BOIN)转换而来。
+
+
 『**リゾートBOIN**』（リゾートボイン）是日本[Crossnet-Pie在](../Page/CROSSNET.md "wikilink")2007年3月16日发售[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 故事

@@ -1,3 +1,6 @@
+> 本文内容由[Winamp](https://zh.wikipedia.org/wiki/Winamp)转换而来。
+
+
 **Winamp**是一個由[Nullsoft公司開發的](https://zh.wikipedia.org/wiki/Nullsoft "wikilink")[Windows與](https://zh.wikipedia.org/wiki/Windows "wikilink")[Android](../Page/Android.md "wikilink")下的[媒體播放器軟件](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，曾被售予[美國在線](https://zh.wikipedia.org/wiki/美國在線 "wikilink")，現為[Radionomy](https://en.wikipedia.org/wiki/Radionomy)旗下產品之一。Winamp支持多種媒體格式，支持[面板更換](https://zh.wikipedia.org/wiki/面板 "wikilink")，支持通過各種[插件](../Page/插件.md "wikilink")擴充功能，同時也具有最基本的播放列表和媒體庫功能。Winamp以其聲音效果、播放列表和媒體庫功能而出名。隨著MP3的共享，其知名度迅速增長， Winamp的作者是Justin Frankel、Dmitry Boldyrev和Shiva Ayyadurai。同時播放器包含[免費版和](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[共享版等版本](https://zh.wikipedia.org/wiki/共享軟件 "wikilink")。
 
 [AOL於](https://zh.wikipedia.org/wiki/AOL "wikilink")2013年11月20日宣佈將於當年12月20日起關閉Winamp的網站，並不再維護暨提供下載服務\[1\]。2014年1月14日，[Radionomy](https://en.wikipedia.org/wiki/Radionomy)自AOL手中收購Winamp與網站[SHOUTcast](https://zh.wikipedia.org/wiki/SHOUTcast "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Turn 10工作室](https://zh.wikipedia.org/wiki/Turn_10工作室)转换而来。
+
+
 是一家隸屬于微软遊戲部門[微软工作室的美國](https://zh.wikipedia.org/wiki/微软工作室 "wikilink")[電子遊戲發行商](../Page/電子遊戲發行商.md "wikilink")。公司於2001年建立，它以开发竞速模拟类游戏系列《[极限竞速](../Page/極限競速系列.md "wikilink")》系列而知名。
 
 ## 公司作品

@@ -1,3 +1,6 @@
+> 本文内容由[Snow halation](https://zh.wikipedia.org/wiki/Snow_halation)转换而来。
+
+
 《**Snow halation**》是μ's的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，也是第一次以「μ's」名義發行的單曲，於2010年12月22日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要

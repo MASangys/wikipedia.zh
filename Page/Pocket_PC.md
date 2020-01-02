@@ -1,3 +1,6 @@
+> 本文内容由[Pocket PC](https://zh.wikipedia.org/wiki/Pocket_PC)转换而来。
+
+
 **Pocket PC**（简称PPC）是基于[微软](../Page/微软.md "wikilink")的[Windows Mobile操作系统的一种](../Page/Windows_Mobile.md "wikilink")[掌上电脑](../Page/个人数码助理.md "wikilink")。
 
 ## 簡介

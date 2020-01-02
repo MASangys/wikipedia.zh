@@ -1,3 +1,6 @@
+> 本文内容由[King Cream Soda](https://zh.wikipedia.org/wiki/King_Cream_Soda)转换而来。
+
+
 **King Cream Soda**（），是[日本](../Page/日本.md "wikilink")一隊由2男1女所組成的三人音樂組合，其名稱靈感來自[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/流行樂隊 "wikilink")[克里遜王](https://zh.wikipedia.org/wiki/克里遜王 "wikilink")。成立於2014年，現時所屬唱片公司為[Avex trax旗下的](../Page/Avex_trax.md "wikilink")「FRAME」，[經紀公司](../Page/經紀公司.md "wikilink")為tightpro。
 
 ## 成立經過

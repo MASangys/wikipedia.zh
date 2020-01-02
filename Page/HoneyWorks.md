@@ -1,3 +1,6 @@
+> 本文内容由[HoneyWorks](https://zh.wikipedia.org/wiki/HoneyWorks)转换而来。
+
+
 **HoneyWorks**（），簡稱或HW，是[日本](../Page/日本.md "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")樂團，也是[Niconico動畫](../Page/Niconico動畫.md "wikilink")的使用者，其作品上傳到該網站。他們於2010年正式成立，並在2014年1月29日以專輯《從好久以前就喜歡你。》正式出道。除此之外，HoneyWorks還會把較受歡迎的曲子改編成短篇動畫、漫畫和小說。
 
 ## 成員

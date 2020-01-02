@@ -1,3 +1,6 @@
+> 本文内容由[LuaTeX](https://zh.wikipedia.org/wiki/LuaTeX)转换而来。
+
+
 **LuaTeX**是作为带有[Lua](../Page/Lua.md "wikilink")脚本引擎嵌入的[pdfTeX版本发起的基于](https://zh.wikipedia.org/wiki/pdfTeX "wikilink")[的电脑](../Page/TeX.md "wikilink")[排版](../Page/排版.md "wikilink")系统。经过一段时间的开发后被pdfTeX小组采纳作为pdfTeX的继任者\[1\]\[2\]（本身是[eTeX的扩展](https://zh.wikipedia.org/wiki/eTeX "wikilink")，\[3\]后者也生成[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")）。后来在项目中Aleph的功能被包含进去（尤其是多方向排印）。该项目最初由Oriental TeX project资助，由Idris Samawi Hamid、Hans Hagen和Taco Hoekwater发起。
 
 ## 项目的开发目的

@@ -1,3 +1,6 @@
+> 本文内容由[Hot Chemistry](https://zh.wikipedia.org/wiki/Hot_Chemistry)转换而来。
+
+
 《**Hot Chemistry**》是日本組合[化學超男子](../Page/化學超男子.md "wikilink")於2005年1月26日發行的概念專輯。
 
 ## 解說

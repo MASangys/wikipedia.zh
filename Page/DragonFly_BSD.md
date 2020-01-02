@@ -1,3 +1,6 @@
+> 本文内容由[DragonFly BSD](https://zh.wikipedia.org/wiki/DragonFly_BSD)转换而来。
+
+
 **DragonFly BSD**是一套開放原始碼的類Unix作業系統，自[FreeBSD](../Page/FreeBSD.md "wikilink") 4.8分支。
 
 由於FreeBSD开发组將於FreeBSD 4.11後不再推出新的4系列版本（僅做安全性更新），而新的FreeBSD 5系列初期又有效能及穩定性等等的質疑，因此Matt Dillon在2003年[六月另外成立分支計劃](https://zh.wikipedia.org/wiki/六月 "wikilink")，並於同年[七月時於FreeBSD的郵件討論群組上公佈](https://zh.wikipedia.org/wiki/七月 "wikilink")。\[1\]

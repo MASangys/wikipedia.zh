@@ -1,3 +1,6 @@
+> 本文内容由[Sleipnir](https://zh.wikipedia.org/wiki/Sleipnir)转换而来。
+
+
 **Sleipnir**是[Fenrir所開發](../Page/Fenrir_\(公司\).md "wikilink")、面向進階用戶而且支援分頁標籤[网页浏览器](../Page/网页浏览器.md "wikilink")。Sleipnir在日本亦簡稱作**pnir**。从5.0版开始支持[Blink](../Page/Blink.md "wikilink")排版引擎，[Gecko](../Page/Gecko.md "wikilink")排版引擎不再使用。
 
 ## 概要

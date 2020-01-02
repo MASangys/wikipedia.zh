@@ -1,3 +1,6 @@
+> 本文内容由[魔兽争霸III：混乱之治](https://zh.wikipedia.org/wiki/魔兽争霸III：混乱之治)转换而来。
+
+
 是一款[即时战略游戏](../Page/即时战略游戏.md "wikilink")，属于[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")出品的《[魔兽争霸](https://zh.wikipedia.org/wiki/魔兽争霸 "wikilink")》系列第三代作品，于2002年发行。迄今總共發布了二十八個版本。2003年5月暴雪公司又发行了《[魔兽争霸III：寒冰霸權](../Page/魔獸爭霸III：寒冰霸權.md "wikilink")》（），它是本作的[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。暴雪同时对《混亂之治》与《冰封王座》两个版本进行更新与维护，并在其[Battle.net平台上提供免费的网络对战服务](https://zh.wikipedia.org/wiki/Battle.net "wikilink")。
 
 ## 故事背景

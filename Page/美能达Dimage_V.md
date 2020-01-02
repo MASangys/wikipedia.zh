@@ -1,3 +1,6 @@
+> 本文内容由[美能达Dimage V](https://zh.wikipedia.org/wiki/美能达Dimage_V)转换而来。
+
+
 **Dimâge V** 是由美能达公司于1996年9月发布的[数码相机](../Page/数码相机.md "wikilink")，也是[DiMAGE系列第一款数码相机产品](https://zh.wikipedia.org/wiki/DiMAGE "wikilink")，但是因为各种问题，直到1997年才上市\[1\]\[2\]。
 
 该机型最为引人注意的就是旋转镜头和部件可分式的设计。

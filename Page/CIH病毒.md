@@ -1,3 +1,6 @@
+> 本文内容由[CIH病毒](https://zh.wikipedia.org/wiki/CIH病毒)转换而来。
+
+
 **CIH**（英语又称为Chernobyl或Spacefiller）是一种[电脑病毒](https://zh.wikipedia.org/wiki/电脑病毒 "wikilink")，其名稱源自它的作者，當時仍然是[台灣大同工學院](https://zh.wikipedia.org/wiki/台灣 "wikilink")（現[大同大學](../Page/大同大學_\(台灣\).md "wikilink")）學生[陈盈豪的名字](https://zh.wikipedia.org/wiki/陈盈豪 "wikilink")[拼音或](https://zh.wikipedia.org/wiki/拼音 "wikilink")[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")（**C**hen **I**ng-**h**au）縮寫。它被认为是最有害的广泛传播的病毒之一，会破坏用户系统上的全部信息，在某些情况下，会重写系统的[BIOS](../Page/BIOS.md "wikilink")。因為CIH病毒的1.2和1.3版發作日期為4月26日（第一版病毒創造出來的時間），正好是[前蘇聯](https://zh.wikipedia.org/wiki/前蘇聯 "wikilink")（位於今日烏克蘭）核電廠災害“[切尔诺贝利核事故](../Page/切尔诺贝利核事故.md "wikilink")”的紀念日，故曾被認為病毒作者撰寫動機和切尔诺贝利事件有關，因此CIH病毒也被稱作切尔诺贝利（Chernobyl）病毒。
 
 ## 歷史

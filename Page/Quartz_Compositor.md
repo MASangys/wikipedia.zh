@@ -1,3 +1,6 @@
+> 本文内容由[Quartz Compositor](https://zh.wikipedia.org/wiki/Quartz_Compositor)转换而来。
+
+
 **Quartz Compositor**是在[Mac OS X中负责界面的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[视窗系统](https://zh.wikipedia.org/wiki/视窗系统 "wikilink")。在Mac上，Quartz Compositor可以在处理程序列表中被看到的，它叫做**Window Manager**，或是在最近的版本改为是**WindowServer**。
 
 Quartz Compositor主要执行两种的功能：

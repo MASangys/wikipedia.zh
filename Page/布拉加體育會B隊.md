@@ -1,3 +1,6 @@
+> 本文内容由[布拉加體育會B隊](https://zh.wikipedia.org/wiki/布拉加體育會B隊)转换而来。
+
+
 **布拉加體育會B隊**（），葡萄牙職業足球會，位於布拉加，成立於1999年，於2006年解散，在2012年重建，現時於[葡甲作賽](https://zh.wikipedia.org/wiki/葡甲 "wikilink")。他們是[布拉加](../Page/布拉加.md "wikilink")的預備隊。他們不容許參與[葡萄牙盃](../Page/葡萄牙盃.md "wikilink")及[葡聯盃](https://zh.wikipedia.org/wiki/葡聯盃 "wikilink")。
 
 ## 外部連結

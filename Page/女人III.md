@@ -1,3 +1,6 @@
+> 本文内容由[女人III](https://zh.wikipedia.org/wiki/女人III)转换而来。
+
+
 **女人III**（）是荷蘭裔美國畫家[威廉·德·庫寧繪製的一幅](https://zh.wikipedia.org/wiki/威廉·德·庫寧 "wikilink")[抽象表現主義](../Page/抽象表現主義.md "wikilink")畫作，1953年繪成，是畫家1951年至1953年間完成的一系列以女人為主題的畫作之一。
 
 自1970年代末至1994年，此畫為[德黑蘭現代藝術博物館的藏品](https://zh.wikipedia.org/wiki/德黑蘭現代藝術博物館 "wikilink")，但實際在1979年[伊朗革命之後就因為政府的嚴格管制而從未現世](https://zh.wikipedia.org/wiki/伊朗革命 "wikilink")。1994年由瑞士畫商[托馬斯·阿曼](https://zh.wikipedia.org/wiki/托馬斯·阿曼 "wikilink")\[1\] 做中間人賣給[大衛·葛芬](../Page/大衛·葛芬.md "wikilink")以交換16世紀的波斯手稿[塔赫瑪斯普](https://zh.wikipedia.org/wiki/塔赫瑪斯普一世 "wikilink")《[列王紀](../Page/列王紀_\(伊朗\).md "wikilink")》。\[2\]

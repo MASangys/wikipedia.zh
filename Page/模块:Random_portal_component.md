@@ -1,3 +1,6 @@
+> 本文内容由[模块:Random portal component](https://zh.wikipedia.org/wiki/模块:Random_portal_component)转换而来。
+
+
 \-- This module implements [Template:Random portal component](https://zh.wikipedia.org/wiki/Template:Random_portal_component "wikilink")
 
 local p = {}

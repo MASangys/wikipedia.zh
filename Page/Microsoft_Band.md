@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Band](https://zh.wikipedia.org/wiki/Microsoft_Band)转换而来。
+
+
 **Microsoft Band**，是一款由[微軟開發與設計](https://zh.wikipedia.org/wiki/微軟 "wikilink")，帶有[健身手環功能的](https://zh.wikipedia.org/wiki/健身 "wikilink")[智能手表](../Page/智能手表.md "wikilink")，並於2014年10月29日，在[美國發售了限量版](https://zh.wikipedia.org/wiki/美國 "wikilink")\[1\]，售價199[美元](../Page/美元.md "wikilink")。Microsoft Band於網上販售時便已供不應求，在美國的大部分地區被搶購一空。\[2\]
 
 這個手錶內含10個[传感器](../Page/传感器.md "wikilink")，一個[光学](../Page/光学.md "wikilink")，，和[紫外线](../Page/紫外线.md "wikilink")传感器，\[3\][電池在充滿電後能連續使用兩天](https://zh.wikipedia.org/wiki/電池 "wikilink")。\[4\] 這個裝置的一部份功能依賴於它的配套[APP](https://zh.wikipedia.org/wiki/APP "wikilink")[Microsoft Health](https://zh.wikipedia.org/wiki/Microsoft_Health "wikilink")，適用於[Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")、[Android 4.3+](../Page/Android.md "wikilink")，和[iOS 7.1+](https://zh.wikipedia.org/wiki/iOS "wikilink")\[5\]。

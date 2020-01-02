@@ -1,3 +1,6 @@
+> 本文内容由[AI \(歌手\)](https://zh.wikipedia.org/wiki/AI_\(歌手\))转换而来。
+
+
 **植村愛**（\[1\]），[日本](../Page/日本.md "wikilink")女歌手，藝名**AI**，生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，長於[日本](../Page/日本.md "wikilink")[鹿兒島](../Page/鹿儿岛市.md "wikilink")。
 
 母親是義大利裔美國人。1996年赴美進修，因為深喜[節奏藍調](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")，於是決定投身[黑人](../Page/黑人.md "wikilink")音樂，1999年出道，2000年返日演出，曾與[平井堅](../Page/平井堅.md "wikilink")、[安室奈美惠](../Page/安室奈美惠.md "wikilink")、[阪本龍一](https://zh.wikipedia.org/wiki/阪本龍一 "wikilink")、[加藤米莉亞](https://zh.wikipedia.org/wiki/加藤米莉亞 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")歌手[史努比狗狗](../Page/史努比狗狗.md "wikilink")等合作，在日本頗負盛名。2014年年底，參與[宇多田光](../Page/宇多田光.md "wikilink")出道十五年紀念專輯，翻唱了宇多田光的《FINAL DISTANCE》，受到日本樂迷的好評。

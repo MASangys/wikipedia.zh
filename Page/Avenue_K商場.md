@@ -1,3 +1,6 @@
+> 本文内容由[Avenue K商場](https://zh.wikipedia.org/wiki/Avenue_K商場)转换而来。
+
+
 [AvenueKexteriorafterrenovation.jpg](https://zh.wikipedia.org/wiki/File:AvenueKexteriorafterrenovation.jpg "fig:AvenueKexteriorafterrenovation.jpg") [AvenueKFloor4.jpg](https://zh.wikipedia.org/wiki/File:AvenueKFloor4.jpg "fig:AvenueKFloor4.jpg")
 
 **Avenue K商場**是一棟位在[吉隆坡城中城](../Page/吉隆坡城中城.md "wikilink")的購物中心，面積為421,612平方公尺，整棟商場共有八層樓高。Avenue K為輕快鐵城中城站的共構大樓，其50樓高的高級住宅大樓曾是馬來西亞最高的住宅大樓，[麗晶酒店](https://zh.wikipedia.org/wiki/麗晶酒店 "wikilink")（Regent Hotel）原本預計於2014年開幕，但因遭遇[亞洲金融風暴](../Page/亞洲金融風暴.md "wikilink")後消費氣氛的低迷及商場早期無法吸引人流，使得該酒店大樓的興建工程無限制延後。

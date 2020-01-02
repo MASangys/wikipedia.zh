@@ -1,3 +1,6 @@
+> 本文内容由[Kill Me Heal Me](https://zh.wikipedia.org/wiki/Kill_Me_Heal_Me)转换而来。
+
+
 《**Kill Me Heal Me**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2015年1月7日起播出的[水木連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[伊甸園之東](../Page/伊甸園之東_\(電視劇\).md "wikilink")》、《[醜聞](../Page/醜聞：極具衝擊性與不道德的事件.md "wikilink")》導演[金镇滿執導與](https://zh.wikipedia.org/wiki/金镇滿 "wikilink")《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[陳秀完](../Page/陳秀完.md "wikilink")作家執筆，並加入神秘推理情節，描寫擁有七重人格的主角車道賢（[池晟](../Page/池晟.md "wikilink")飾）與精神科醫生吳悧珍（[黃正音飾](https://zh.wikipedia.org/wiki/黃正音 "wikilink")）的愛情故事，為首次有韓劇使用的題材。本劇是[池晟](../Page/池晟.md "wikilink")與[黃正音時隔一年多繼](https://zh.wikipedia.org/wiki/黃正音 "wikilink")《[秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")》後再度合作。此劇由於題材創新，故事高潮迭起，[池晟](../Page/池晟.md "wikilink")在劇中所飾演的七種人格，每種人格的分別皆能清楚演繹，展現演員的精湛演技而廣受好評。
 
 ## 劇集背景

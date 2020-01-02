@@ -1,3 +1,6 @@
+> 本文内容由[VCD](https://zh.wikipedia.org/wiki/VCD)转换而来。
+
+
 **影音光碟**（），又稱影音壓縮光碟，是一種在[光碟](../Page/CD.md "wikilink")（Compact Disc）上存儲[視訊信息的標準](https://zh.wikipedia.org/wiki/視訊 "wikilink")。VCD可以在[個人電腦和](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[VCD播放器](https://zh.wikipedia.org/wiki/VCD播放器 "wikilink")\[1\]以及大部分[DVD播放機中播放](https://zh.wikipedia.org/wiki/DVD播放機 "wikilink")，但大部分[藍光光碟](../Page/藍光光碟.md "wikilink")播放機已不支援VCD。
 
 VCD標準由[索尼](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")、[飛利浦](../Page/飛利浦.md "wikilink")、[JVC](../Page/JVC.md "wikilink")、[松下電器](../Page/松下電器.md "wikilink")等電器生產廠商聯合於1993年制定，屬於數位光碟的[白皮書標準](https://zh.wikipedia.org/wiki/CD行業標準 "wikilink")。

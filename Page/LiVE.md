@@ -1,3 +1,6 @@
+> 本文内容由[LiVE](https://zh.wikipedia.org/wiki/LiVE)转换而来。
+
+
 《**LiVE**》是[椎名林檎](../Page/椎名林檎.md "wikilink")的第二張套裝專輯，於2013年11月13日發行。同時是唱片公司為紀念椎名林檎出道十五週年所發行的作品，和精選輯《[韻事](../Page/韻事.md "wikilink")》、現場錄音專輯《[蜜月抄](../Page/蜜月抄.md "wikilink")》及音樂專輯合輯《[The Sexual Healing Total Care Course 120min.](https://zh.wikipedia.org/wiki/The_Sexual_Healing_Total_Care_Course_120min. "wikilink")》一同於2013年11月13日由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Universal Music發行](../Page/環球音樂_\(日本\).md "wikilink")\[1\]。本張套裝專輯為初回限定生產，特典為「夜光指紋包裝、先攻高潮精華及寫真」\[2\]。
 
 ## 精選輯概要

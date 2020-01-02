@@ -1,3 +1,6 @@
+> 本文内容由[Gopher \(网络协议\)](https://zh.wikipedia.org/wiki/Gopher_\(网络协议\))转换而来。
+
+
 **Gopher**是一个[互联网](../Page/互联网.md "wikilink")上使用的分布型的文件搜集获取[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。它是1991年由[明尼苏达大学](../Page/明尼苏达大学.md "wikilink")的保羅·林德納（Paul Lindner）和[馬克·麥卡希爾](../Page/馬克·麥卡希爾.md "wikilink")发明的\[1\]。
 
 ## 起源

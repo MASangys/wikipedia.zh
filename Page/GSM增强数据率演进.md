@@ -1,3 +1,6 @@
+> 本文内容由[GSM增强数据率演进](https://zh.wikipedia.org/wiki/GSM增强数据率演进)转换而来。
+
+
 **GSM增强数据率演进**（**E**nhanced **D**ata rates for **G**SM **E**volution，缩写：**EDGE**），是[移动电话](../Page/移动电话.md "wikilink")[通信技术](https://zh.wikipedia.org/wiki/通信技术 "wikilink")，作为[2G](../Page/2G.md "wikilink")和[2.5G](https://zh.wikipedia.org/wiki/2.5G "wikilink")（[GPRS](../Page/GPRS.md "wikilink")）的延伸，有时會称为[2.75G](https://zh.wikipedia.org/wiki/2.75G "wikilink")。这项技术工作在[TDMA和](https://zh.wikipedia.org/wiki/TDMA "wikilink")[GSM](../Page/GSM.md "wikilink")网络中。EDGE（通常又称为：EGPRS）是GPRS的扩展，只要MS和BTS设备做一些必要的升级，就可以工作在任何已经部署GPRS的网络上。
 
 ## 技术概述

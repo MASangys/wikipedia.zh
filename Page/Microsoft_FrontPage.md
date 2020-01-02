@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft FrontPage](https://zh.wikipedia.org/wiki/Microsoft_FrontPage)转换而来。
+
+
 **Microsoft FrontPage**（全名：**Microsoft Office FrontPage**，簡稱**FP**）是[微軟公司推出的一款](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[網頁](../Page/網頁.md "wikilink")設計軟件。它於1997年至2003年的時候屬於[Microsoft Office系列的其中一款產品](../Page/Microsoft_Office.md "wikilink")。FrontPage由於其易用性，被認為適合網頁初學者的製作工具。但因其功能無法滿足更高要求，自2006年，Frontpage已經被[Microsoft Expression Web及](https://zh.wikipedia.org/wiki/Microsoft_Expression_Studio#應用程式 "wikilink")[Microsoft SharePoint Designer取代](../Page/Microsoft_SharePoint_Designer.md "wikilink")。
 
 ## 簡介

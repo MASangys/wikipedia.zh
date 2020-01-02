@@ -1,3 +1,6 @@
+> 本文内容由[The Rolling Girls](https://zh.wikipedia.org/wiki/The_Rolling_Girls)转换而来。
+
+
 《**The Rolling Girls**》（），是日本動畫公司[WIT STUDIO製作的原創](../Page/WIT_STUDIO.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2015年1月播出，中文翻譯「旋轉少女」。 2014年10月開始，在[Mag Garden旗下雜誌](../Page/Mag_Garden.md "wikilink")《月刊Comic Garden》與網絡雜誌《[月刊Comic Blade](https://zh.wikipedia.org/wiki/月刊Comic_Blade "wikilink")》上連載改編漫畫。
 
 ## 故事簡介

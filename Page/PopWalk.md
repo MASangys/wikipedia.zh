@@ -1,3 +1,6 @@
+> 本文内容由[PopWalk](https://zh.wikipedia.org/wiki/PopWalk)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:PopWalk_II_Outside_access_201607.jpg "fig:缩略图") **PopWalk**（天晉滙）是[新鴻基地產](../Page/新鴻基地產.md "wikilink")旗下的[商場](../Page/商場.md "wikilink")群，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")，商場位處於[天晉](../Page/天晉.md "wikilink")II、IIIA、IIIB及海天晉基座，沿市鎮廣場兩邊而建，4個商場零售面積合共約24萬平方呎，全數162家商舖料2016年中至2019年分批開業。\[1\]
 
 ## 規劃

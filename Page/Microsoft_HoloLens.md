@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft HoloLens](https://zh.wikipedia.org/wiki/Microsoft_HoloLens)转换而来。
+
+
 **Microsoft HoloLens**是[Windows Holographic的使用主要设备](https://zh.wikipedia.org/wiki/Windows_Holographic "wikilink")。HoloLens是一个Windows 10的產品。它采用先进的传感器、高清晰度3D光学头置式全角度透镜显示器以及環繞音效。它允许在[增强现实中用户界面可以与用户透過眼神](https://zh.wikipedia.org/wiki/增强现实 "wikilink")、语音和手势互相交流。\[1\]\[2\]其开发代号为“Project Baraboo”。HoloLens由微软在2015年1月21日公布，在此之前已经开发了5年之久，其构想的一部分成为了在2010年发布的[Kinect](../Page/Kinect.md "wikilink")。\[3\]\[4\]
 
 微软展示了HoloLens的各种应用，包括HoloStudio (一个3D建模软件)，可以输出成为适用于3D打印机的模型；Holobuilder，其灵感来自于电子游戏《[當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilink")》；[Skype](../Page/Skype.md "wikilink")；OnSight，在与[美国国家航空航天局](../Page/美国国家航空航天局.md "wikilink")喷气推进实验室（JPL）的合作中开发的软件工具。\[5\]OnSight将来自[好奇号火星车的数据整合为火星环境的](https://zh.wikipedia.org/wiki/好奇号 "wikilink")3D模拟，使得科学家们能够使用HoloLens设备对其观看、交互和协作。OnSight可以用于任务规划，能够观察模拟中的目标，用手势拉动，并选择菜单命令对火星车的活动进行编程。\[6\]JPL计划在好奇号的任务操作中部署OnSight，在2015年7月时将其用于控制火星车。\[7\]

@@ -1,3 +1,6 @@
+> 本文内容由[BSTR](https://zh.wikipedia.org/wiki/BSTR)转换而来。
+
+
 **BSTR**（Basic String\[1\]）是一种Pascal-Style字符串（明确标示字符串长度）和C-Style字符串（以\\0结尾）的混合物，一般用于[COM中](https://zh.wikipedia.org/wiki/COM "wikilink")，是[Unicode字符串](https://zh.wikipedia.org/wiki/Unicode "wikilink")，即标示字符串长度，最后还有一个值为\\0字节。
 
 对于BSTR，NULL与""有相同的语义（[Visual Basic引入的语义](../Page/Visual_Basic.md "wikilink")）。BSTR的长度不包含结尾的\\0字节。BSTR必须用SysAlloc\*操作系统API申请与释放。

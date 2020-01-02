@@ -1,3 +1,6 @@
+> 本文内容由[X戰警：天啟](https://zh.wikipedia.org/wiki/X戰警：天啟)转换而来。
+
+
 </ref> | sg_name = X战警：天启灭世战 }} 《**X战警：天启**》（）是一部由[布莱恩·辛格执导的](https://zh.wikipedia.org/wiki/布莱恩·辛格 "wikilink")2016年[美国](../Page/美国.md "wikilink")[超级英雄电影](https://zh.wikipedia.org/wiki/超级英雄电影 "wikilink")，改編自[漫威漫畫](../Page/漫威漫畫.md "wikilink")出版的漫畫書《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》。本片為2014年電影《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集和「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第九部作品，故事的時間點設定於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》中1973年的10年後。[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")負責編劇並與、[麥可·道格堤](../Page/麥可·道格堤.md "wikilink")和辛格提供故事。由[詹姆斯·麦卡沃伊](https://zh.wikipedia.org/wiki/詹姆斯·麦卡沃伊 "wikilink")、 [麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[詹妮弗·劳伦斯](https://zh.wikipedia.org/wiki/詹妮弗·劳伦斯 "wikilink")、[尼古拉斯·霍尔特](../Page/尼古拉斯·霍尔特.md "wikilink")、[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[奧莉薇亞·孟恩以及](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")[盧卡斯·提爾](../Page/盧卡斯·提爾.md "wikilink")主演。
 
 電影於2015年4月27日在[加拿大](../Page/加拿大.md "wikilink")的[蒙特婁開始拍攝](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")將本片定於2016年5月27日在美國上映。

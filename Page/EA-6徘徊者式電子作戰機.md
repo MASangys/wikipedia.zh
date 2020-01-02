@@ -1,3 +1,6 @@
+> 本文内容由[EA-6徘徊者式電子作戰機](https://zh.wikipedia.org/wiki/EA-6徘徊者式電子作戰機)转换而来。
+
+
 [EA-6A_Intruder_over_Cherry_Point_crop.jpg](https://zh.wikipedia.org/wiki/File:EA-6A_Intruder_over_Cherry_Point_crop.jpg "fig:EA-6A_Intruder_over_Cherry_Point_crop.jpg") [EA-6B_Prowlers_supporting_Southern_Watch_from_CVN-73.jpg](https://zh.wikipedia.org/wiki/File:EA-6B_Prowlers_supporting_Southern_Watch_from_CVN-73.jpg "fig:EA-6B_Prowlers_supporting_Southern_Watch_from_CVN-73.jpg")
 
 **EA-6徘徊者**（Prowler）式是一種雙引擎、中單翼的[艦載機](../Page/艦載機.md "wikilink")，專門擔任[電子作戰](../Page/電子作戰.md "wikilink")任務，機體沿用[A-6闖入者式攻擊機的基本設計](../Page/A-6入侵者式攻擊機.md "wikilink")，由[格魯門公司](https://zh.wikipedia.org/wiki/格魯門公司 "wikilink")（現為[诺斯洛普·格鲁门公司](https://zh.wikipedia.org/wiki/诺斯洛普·格鲁门公司 "wikilink")）製造。目前服役的是**EA-6B**型，自1971年起，EA-6一直是美國海軍航空隊主要的專用電子作戰機，[美國海軍](../Page/美國海軍.md "wikilink")的徘徊者由[EA-18G咆哮者電子作戰機](../Page/EA-18G咆哮者電子作戰機.md "wikilink")繼承，機隊在2015年退役，[美國海軍陸戰隊的徘徊者機隊目前計畫在](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")2019年仍將現役，後繼型號尚無定案。

@@ -1,3 +1,6 @@
+> 本文内容由[Rock with You](https://zh.wikipedia.org/wiki/Rock_with_You)转换而来。
+
+
 **Rock with You**由罗德·泰普顿所创作，由美国歌唱家[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")所歌唱（录制）。这首歌是Michael Jackson的第五张专辑“Off the Wall”的第二支单曲，它于1979年11月3日发行。 这首歌在当年流行与R＆B的单曲排行榜上均排名第一，根据Billboard（公告牌）上记载：“Rock with You”是1980年第四大单曲。这首歌掀起了迪斯科时代的最后一个高潮。 这首歌在2006年2月27日作为Visionary: The Video Singles box set中的一支单曲被重新发行。
 
 ## 音乐类型

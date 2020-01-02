@@ -1,3 +1,6 @@
+> 本文内容由[Linux发行版列表](https://zh.wikipedia.org/wiki/Linux发行版列表)转换而来。
+
+
 [Linux_Distribution_Timeline.svg](https://zh.wikipedia.org/wiki/File:Linux_Distribution_Timeline.svg "fig:Linux_Distribution_Timeline.svg") **Linux发行版列表**，列舉[Linux发行版](../Page/Linux发行版.md "wikilink")，包括按[軟體包管理系統劃分](https://zh.wikipedia.org/wiki/軟體包管理系統 "wikilink")，以及按发行方式划分兩種列表。
 
 ## 按打包方式划分

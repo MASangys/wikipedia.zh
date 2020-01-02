@@ -1,3 +1,6 @@
+> 本文内容由[IPod nano](https://zh.wikipedia.org/wiki/IPod_nano)转换而来。
+
+
 **iPod nano**是由[蘋果公司設計發售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")。這是蘋果[iPod家族內的中](https://zh.wikipedia.org/wiki/iPod "wikilink")-{zh-hans:级;zh-hant:階;}-產品。第一代的iPod nano是在2005年上市\[1\]。iPod nano和[iPod shuffle一樣使用](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，但增加一個寬型的小螢幕和[iPod classic上的](https://zh.wikipedia.org/wiki/iPod_classic "wikilink")「click wheel」按鍵轉輪，直到第六代才取消滚轮而改为多触控屏幕。自從首次登場以來，iPod nano至今已改款七次。在發售後不久，iPod nano就成為有史以來最暢銷的MP3播放器，超越前一代的商品[iPod mini](https://zh.wikipedia.org/wiki/iPod_mini "wikilink")。
 
 2017年7月27日起，蘋果公司終止販售iPod Nano和[iPod Shuffle](https://zh.wikipedia.org/wiki/iPod_Shuffle "wikilink")，但仍持續販售[iPod Touch](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。\[2\]

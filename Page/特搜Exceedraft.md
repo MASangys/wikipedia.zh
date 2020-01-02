@@ -1,3 +1,6 @@
+> 本文内容由[特搜Exceedraft](https://zh.wikipedia.org/wiki/特搜Exceedraft)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

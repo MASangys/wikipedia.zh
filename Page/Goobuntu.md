@@ -1,3 +1,6 @@
+> 本文内容由[Goobuntu](https://zh.wikipedia.org/wiki/Goobuntu)转换而来。
+
+
 **Goobuntu**是一个[Google](../Page/Google.md "wikilink")内部使用的[Linux发行版](../Page/Linux发行版.md "wikilink")，基于[Ubuntu](../Page/Ubuntu.md "wikilink")长期支持（long term support，LTS）版本，在20000雇员中有近一半使用它\[1\]。它增加了许多供内部使用的软件包，其中包括安全增强功能，并禁止安装某些应用程序，但其它部分仍相似。谷歌负责公司Linux桌面的经理[湯瑪斯·布什內爾在LinuxCon](https://zh.wikipedia.org/wiki/湯瑪斯·布什內爾 "wikilink") 2012展示了Goobuntu。布什内尔解释说：“Goobuntu就只是在标准的Ubuntu之外加了一层皮肤而已。”\[2\]
 
 有人称，谷歌可能计划向外界推出该发行版\[3\]\[4\]\[5\]。虽然谷歌和领导Ubuntu开发的[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")都已证实Goobuntu存在，并且于内部使用\[6\]，两人都坚决否认谷歌有任何计划向市场推出该[操作系统](../Page/操作系统.md "wikilink")\[7\]。

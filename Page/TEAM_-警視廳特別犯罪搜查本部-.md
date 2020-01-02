@@ -1,3 +1,6 @@
+> 本文内容由[TEAM -警視廳特別犯罪搜查本部-](https://zh.wikipedia.org/wiki/TEAM_-警視廳特別犯罪搜查本部-)转换而来。
+
+
 《**TEAM -警视厅特別犯罪捜査本部-**》（）是[日本](../Page/日本.md "wikilink")[朝日电视台與同系列電視台在](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")2014年夏季檔期播出的周三晚间九点刑警连续剧，由[小泽征悦](https://zh.wikipedia.org/wiki/小泽征悦 "wikilink")、[西田敏行](../Page/西田敏行.md "wikilink")、[田边诚一及](https://zh.wikipedia.org/wiki/田边诚一 "wikilink")[渡边一庆领衔主演](https://zh.wikipedia.org/wiki/渡边一庆 "wikilink")。
 
 ## 登場人物

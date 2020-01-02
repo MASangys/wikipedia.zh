@@ -1,3 +1,6 @@
+> 本文内容由[Light Table](https://zh.wikipedia.org/wiki/Light_Table)转换而来。
+
+
 **LightTable**是一个采用ClojureScript编写的可扩展的[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）。它由Chris Granger和Robert Attorri开发，具有实时运行反馈、调试和搜索文档的功能。即时反馈功能提供了一个不同寻常的运行环境来让程序员构建抽象。
 
 开发团队尝试创造一个能使程序员及时获知程序运行状态的软件。该软件一开始只支持[Clojure](../Page/Clojure.md "wikilink")语言，但现在通过众多扩展，也能够支持[Python](../Page/Python.md "wikilink")和[JavaScript](../Page/JavaScript.md "wikilink")语言。

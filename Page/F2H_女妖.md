@@ -1,3 +1,6 @@
+> 本文内容由[F2H 女妖](https://zh.wikipedia.org/wiki/F2H_女妖)转换而来。
+
+
 [麥克唐納飛行器公司的](https://zh.wikipedia.org/wiki/麥克唐納飛行器公司 "wikilink")**F2H 女妖**（F2H Banshee），是美國海軍和海軍陸戰隊從1948年至1961年部署的單座噴射戰鬥機，是在[韓戰期間使用的主要美國戰鬥機之一](https://zh.wikipedia.org/wiki/韓戰 "wikilink")。該機種也是[加拿大皇家海軍唯一發展的噴射戰鬥機](https://zh.wikipedia.org/wiki/加拿大皇家海軍 "wikilink")\[1\]，在1955年至1962年間為皇家海軍服務。飛機的名稱源自愛爾蘭神話。
 
 麥克唐納飛行器公司是一家開業於1939年的飛機公司，原本祇是替其他飛機製造廠生產零件的工廠，1941年才開始研發並不成功的[XP-67月蝙蝠式戰鬥機而有自己的飛機品牌](https://zh.wikipedia.org/wiki/XP-67月蝙蝠式戰鬥機 "wikilink")，其創辦人[詹姆斯·史密斯·麥克唐納](https://zh.wikipedia.org/wiki/詹姆斯·史密斯·麥克唐納 "wikilink")。因受到神秘主義影響，其飛機喜歡用妖魔鬼怪來命名。

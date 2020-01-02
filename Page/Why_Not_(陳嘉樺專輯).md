@@ -1,3 +1,6 @@
+> 本文内容由[Why Not \(陳嘉樺專輯\)](https://zh.wikipedia.org/wiki/Why_Not_\(陳嘉樺專輯\))转换而来。
+
+
 《'''Why Not '''》 ，是台灣著名女[歌手](../Page/歌手.md "wikilink")、[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")成員[Ella陳嘉樺首張個人專輯](../Page/陳嘉樺.md "wikilink")，於2015年4月1日預購，將於2015年4月17日發行。 2015年4月3日，首波主打《有何不可》MV於[youtube首播](https://zh.wikipedia.org/wiki/youtube "wikilink")\[1\] \[2\]。專輯中的歌曲《信愛成癮》和《浪費眼淚》分別入選2015年Hit Fm年度百首單曲第36位和第73位\[3\]\[4\]。此張專輯在台灣銷量為年度第9名\[5\]。
 
 ## 簡介

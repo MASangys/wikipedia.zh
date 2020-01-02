@@ -1,3 +1,6 @@
+> 本文内容由[Heavens-Above](https://zh.wikipedia.org/wiki/Heavens-Above)转换而来。
+
+
 **Heavens-Above**是一家由克里斯·皮特创建并运营的[非营利网站](https://zh.wikipedia.org/wiki/非营利网站 "wikilink")。网站的目的是为了帮助人们不需[望远镜等](https://zh.wikipedia.org/wiki/望远镜 "wikilink")[光学仪器](../Page/光学仪器.md "wikilink")就可以观察并追踪环绕地球的[人造卫星](https://zh.wikipedia.org/wiki/人造卫星 "wikilink")，特别是对[ISS](https://zh.wikipedia.org/wiki/ISS "wikilink")，[铱星闪光](https://zh.wikipedia.org/wiki/铱星 "wikilink")，[航天飞机](../Page/航天飞机.md "wikilink")飞行任务的观察追踪。它提供详细的星图显示相对于恒星背景的卫星轨迹。此网站还提供实时的可见彗星、流星雨、行星信息\[1\]。《[天空与望远镜杂志](https://zh.wikipedia.org/wiki/天空与望远镜杂志 "wikilink")》评价本网站为“最受欢迎的卫星追踪网站”。\[2\]
 
 ## 使用方法

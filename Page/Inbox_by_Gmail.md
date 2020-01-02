@@ -1,3 +1,6 @@
+> 本文内容由[Inbox by Gmail](https://zh.wikipedia.org/wiki/Inbox_by_Gmail)转换而来。
+
+
 **Inbox by Gmail**（前稱：**Google Inbox**），是一個於[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")等作業系統/瀏覽器上運行的一個電子郵件程式。於2015年[Google I/O後](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，Inbox已開放給所有用戶，不需要邀請也可使用，但用戶仍可邀請其他人使用。此程式剛開始時需由「邀請」開始啟用，並非全面開放給所有用戶，用戶要透過邀請才能使用，邀請只能向Google申請或由已有邀請權限的用戶邀請才可使用，收到邀請的用戶必須在Android/iOS版本上首次登入才能於網頁版上使用，當用戶登入時，Google會掃描用戶於[Gmail](../Page/Gmail.md "wikilink")上的郵件作整合，然後再分類顯示，Inbox比Gmail有一個新的功能就是能夠新增提醒(Reminder)\[1\]。
 
 Google多次重申，Inbox並不是要取代Gmail，用戶可以繼續使用Gmail收發郵件，但稱使用Inbox會達致最佳效果。此外，此程式已經加入Android 5.0 Lollipop的Material design\[2\]。

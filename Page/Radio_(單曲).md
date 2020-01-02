@@ -1,3 +1,6 @@
+> 本文内容由[Radio \(單曲\)](https://zh.wikipedia.org/wiki/Radio_\(單曲\))转换而来。
+
+
 《**Radio**》是[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫燕姿首張商業發行的](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2015年2月27日開放數位下載發行。實體單曲僅接受預定，不會正式鋪貨發行。\[1\]
 
 ## 曲目

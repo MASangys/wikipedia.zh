@@ -1,3 +1,6 @@
+> 本文内容由[武藏传II 剑圣](https://zh.wikipedia.org/wiki/武藏传II_剑圣)转换而来。
+
+
 是[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")开发，并于2005年在索尼[PlayStation 2发行的第三人称](../Page/PlayStation_2.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。游戏和前作《[勇敢的剑士 武藏传](../Page/勇敢的剑士_武藏传.md "wikilink")》非常相似，并融入了3D环境即时战斗，同时采用[野村哲也](../Page/野村哲也.md "wikilink")的角色设计。
 
 游戏在北美、日本和欧洲发售。意外的是，游戏事实上以印有OFLC“父母监护”（PG）分级发行，却没有在澳大利亚PlayStation网站和[OFLC提到](https://zh.wikipedia.org/wiki/OFLC "wikilink")。

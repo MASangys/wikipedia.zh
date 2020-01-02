@@ -1,3 +1,6 @@
+> 本文内容由[KillerSoap](https://zh.wikipedia.org/wiki/KillerSoap)转换而来。
+
+
 **KillerSoap**是一支源自於香港，成立於2004年的搖滾樂隊，他們當時正在宣道會陳朱素華紀念中學就讀中六。KillerSoap以外國搖滾而所為人認識\[1\]，近年亦開始嘗試不同曲風。成員包括主音Rocky([陳樂基](../Page/陳樂基.md "wikilink"))、結他手文文(劉健文)及歐仔(歐家偉)、低音結他手細佬(陳樂恒) 及鼓手SaNn\[2\]。曾出版唱片包括「Bittersweet」、「不知不覺」及「月球背面的日光」等\[3\]。其主音[陳樂基](../Page/陳樂基.md "wikilink")曾於2014年參加[浙江衛視節目](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[中國好聲音](https://zh.wikipedia.org/wiki/中國好聲音 "wikilink")》第三季，演唱《月半小夜曲》進級汪鋒組16強。\[4\]
 
 ## 簡歷

@@ -1,3 +1,6 @@
+> 本文内容由[Google轟炸](https://zh.wikipedia.org/wiki/Google轟炸)转换而来。
+
+
 **Google轟炸**（Googlebomb, Googlebombing，或译**Google炸弹**）\[1\]是一種試圖影響特定站點在[Google](../Page/Google.md "wikilink")中查詢結果排序的做法。藉由[Google](../Page/Google.md "wikilink")的特定[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，一個被很多相同關键字連結到的[網站](../Page/網站.md "wikilink")將在[Google](../Page/Google.md "wikilink")中得到一個高的頁面評價。「Google轟炸」既是[動詞也是](https://zh.wikipedia.org/wiki/動詞 "wikilink")[名詞](../Page/名詞.md "wikilink")。
 
 ## 背景

@@ -1,3 +1,6 @@
+> 本文内容由[本田NSX](https://zh.wikipedia.org/wiki/本田NSX)转换而来。
+
+
 **本田NSX**（北美及香港稱為[Acura](https://zh.wikipedia.org/wiki/Acura "wikilink") NSX）是[日本](../Page/日本.md "wikilink")汽车制造商[本田制造的最頂級](https://zh.wikipedia.org/wiki/本田 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")，擁有全[鋁車身](https://zh.wikipedia.org/wiki/鋁 "wikilink")，[中置后驱布局](https://zh.wikipedia.org/wiki/中置后驱 "wikilink")，原本叫NSX是在九十年代到二十一世紀初生產，停產數年後本田推出的後繼車，同樣被命名為NSX。
 
 ## 研发过程

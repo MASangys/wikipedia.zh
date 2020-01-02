@@ -1,3 +1,6 @@
+> 本文内容由[And \& End](https://zh.wikipedia.org/wiki/And_\&_End)转换而来。
+
+
 《*' And & End*'》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第六張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")（雖稱為第十張），由[Core Contents Media於](../Page/MBK娛樂.md "wikilink")2014年9月11日發佈。\[1\]\[2\]
 
 之後推出重新包裝的限量專輯《EDM Club Sugar Free Edition》。

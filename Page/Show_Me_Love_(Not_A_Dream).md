@@ -1,3 +1,6 @@
+> 本文内容由[Show Me Love \(Not A Dream\)](https://zh.wikipedia.org/wiki/Show_Me_Love_\(Not_A_Dream\))转换而来。
+
+
 《**Show Me Love (Not A Dream)**》為[宇多田光](../Page/宇多田光.md "wikilink")第七張數碼單曲，亦是其精選輯《[Utada Hikaru SINGLE COLLECTION VOL.2](https://zh.wikipedia.org/wiki/Utada_Hikaru_SINGLE_COLLECTION_VOL.2 "wikilink")》的先行數碼單曲，於2010年11月17日在Recochoku透過手機先行音樂下載，並在一星期之後的11月24日開始個人電腦音樂下載。
 
 這是宇多田光收錄在Utada Hikaru SINGLE COLLECTION VOL.2中的其中一首新曲。此曲在11月24日正式發售後，在[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")最高排名第21位。

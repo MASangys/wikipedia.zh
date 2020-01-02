@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful Mind](https://zh.wikipedia.org/wiki/Beautiful_Mind)转换而来。
+
+
 《**Beautiful Mind**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")2016年6月20日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，本劇改編自《[科學怪人](../Page/科學怪人.md "wikilink")》，講述了擁有出眾醫術、不輕易流露感情的冷血醫生在遇到心愛之人之後逐漸發生變化的故事。由 《[Dream High 2](https://zh.wikipedia.org/wiki/Dream_High_2 "wikilink")》毛完日導演執導、《[成均館緋聞](../Page/成均館緋聞.md "wikilink")》[金泰姬編劇執筆](https://zh.wikipedia.org/wiki/金泰姬 "wikilink")。\[1\]\[2\]
 
 ## 演員陣容

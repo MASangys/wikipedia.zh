@@ -1,3 +1,6 @@
+> 本文内容由[Big Huge Games](https://zh.wikipedia.org/wiki/Big_Huge_Games)转换而来。
+
+
 **Big Huge Games**是一個[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[開發商](https://zh.wikipedia.org/wiki/開發商 "wikilink")，總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[巴爾的摩郡](https://zh.wikipedia.org/wiki/巴爾的摩郡_\(馬里蘭州\) "wikilink")。
 
 ## 历史

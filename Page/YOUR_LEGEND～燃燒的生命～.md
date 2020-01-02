@@ -1,3 +1,6 @@
+> 本文内容由[YOUR LEGEND～燃燒的生命～](https://zh.wikipedia.org/wiki/YOUR_LEGEND～燃燒的生命～)转换而来。
+
+
 **YOUR LEGEND～燃燒的生命～**（）是臺灣樂團[五月天](../Page/五月天.md "wikilink")在日本推出的第二張日文單曲，2015年6月17日於日本正式發行。\[1\]\[2\]
 
 ## 曲目

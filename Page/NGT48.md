@@ -1,3 +1,6 @@
+> 本文内容由[NGT48](https://zh.wikipedia.org/wiki/NGT48)转换而来。
+
+
 **NGT48**是[日本](../Page/日本.md "wikilink")大型[女子](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[AKB48](../Page/AKB48.md "wikilink")第7個姊妹團體、以及第5個國內姊妹團體，於2015年8月21日[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，活動根據地是日本[北陸地方](../Page/北陸地方.md "wikilink")的主要城市[新潟市](../Page/新潟市.md "wikilink")，總[製作人則與其他AKB](https://zh.wikipedia.org/wiki/製作人 "wikilink")48姊妹團體同樣由作詞家[秋元康](../Page/秋元康.md "wikilink")擔任。其團名來自[新潟的](../Page/新潟市.md "wikilink")[羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「」。
 
 ## 简介

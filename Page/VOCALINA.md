@@ -1,3 +1,6 @@
+> 本文内容由[VOCALINA](https://zh.wikipedia.org/wiki/VOCALINA)转换而来。
+
+
 **VOCALINA**（）是由[TGENS開發的](https://zh.wikipedia.org/wiki/TGENS "wikilink")[語音合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，用作合成[韓文歌聲](https://zh.wikipedia.org/wiki/韓文 "wikilink")。其設計重點為輕易使用及生成高質素歌聲。\[1\]
 
 ## 特徵

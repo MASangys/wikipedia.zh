@@ -1,3 +1,6 @@
+> 本文内容由[四溴双酚A](https://zh.wikipedia.org/wiki/四溴双酚A)转换而来。
+
+
 **四溴双酚A**為白色粉末，用作[塑料](../Page/塑料.md "wikilink")制品添加剂，是常用的[溴化阻燃劑](../Page/溴化阻燃劑.md "wikilink")之一。
 
 ## 合成

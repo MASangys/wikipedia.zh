@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Acrobat](https://zh.wikipedia.org/wiki/Adobe_Acrobat)转换而来。
+
+
 **Adobe Acrobat**是由**[Adobe](../Page/Adobe.md "wikilink")公司**所開發的電子文書處理軟體集，可用於閱讀、編輯、管理和共享[PDF文檔](https://zh.wikipedia.org/wiki/PDF "wikilink")。
 
 一般包含如下套件：

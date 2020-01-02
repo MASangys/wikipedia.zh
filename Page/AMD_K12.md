@@ -1,3 +1,6 @@
+> 本文内容由[AMD K12](https://zh.wikipedia.org/wiki/AMD_K12)转换而来。
+
+
 **K12**是[AMD第一款基於](https://zh.wikipedia.org/wiki/AMD "wikilink")[ARMv8-A](https://zh.wikipedia.org/wiki/ARMv8-A "wikilink")（[AArch64](https://zh.wikipedia.org/wiki/AArch64 "wikilink")）[指令集的](https://zh.wikipedia.org/wiki/指令集 "wikilink")[微架構](../Page/微架構.md "wikilink")，預計將在2016年公布。\[1\]
 
 ## 基本介紹

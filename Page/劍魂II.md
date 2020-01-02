@@ -1,3 +1,6 @@
+> 本文内容由[劍魂II](https://zh.wikipedia.org/wiki/劍魂II)转换而来。
+
+
 是日本[Namco公司出品的](https://zh.wikipedia.org/wiki/Namco "wikilink")3D格斗游戏[劍魂系列的第二作](https://zh.wikipedia.org/wiki/劍魂 "wikilink")（若把Namco最初在[街机](../Page/街机.md "wikilink")和[PlayStation上的作品](https://zh.wikipedia.org/wiki/PlayStation_\(游戏机\) "wikilink")[刀魂也算为系列成员](https://zh.wikipedia.org/wiki/刀魂 "wikilink")，则为第三作）。这是系列中第一部跨平台的作品，存在于[索尼](../Page/索尼.md "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[微软](../Page/微软.md "wikilink")[Xbox](../Page/Xbox.md "wikilink")和[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")3种家庭游戏主机及街机之上。由于仅仅针对[世嘉公司](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")主机的系列第一作《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》在发行后好评如潮（被权威电子游戏杂志[FAMI通评为满分](https://zh.wikipedia.org/wiki/FAMI通 "wikilink")），业界与玩家普遍对《劍魂II》极其期待。然而，游戏于2003年发售后，销售量并不突出。
 
 ## 不同版本

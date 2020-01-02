@@ -1,3 +1,6 @@
+> 本文内容由[LGBT](https://zh.wikipedia.org/wiki/LGBT)转换而来。
+
+
 是[女同性戀者](https://zh.wikipedia.org/wiki/女同性戀者 "wikilink")（）、[男同性戀者](https://zh.wikipedia.org/wiki/男同性戀者 "wikilink")（）、[雙性戀者](https://zh.wikipedia.org/wiki/雙性戀者 "wikilink")（）與[跨性別者](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")（）的英文[首字母縮略字](../Page/首字母縮略字.md "wikilink")。1990年代，由於「[同性戀社群](https://zh.wikipedia.org/wiki/同性戀社群 "wikilink")」一詞無法完整體現相關群體，「LGBT」一词便應運而生、並逐漸普及\[1\]。在現代用語中，「LGBT」一詞、除了狹義的指[同性戀](../Page/同性戀.md "wikilink")、雙性戀或跨性別族群，也可廣泛代表所有[非異性戀](../Page/非異性戀.md "wikilink")者\[2\]\[3\]。另外，也有在詞語後方加上字母「Q」，代表[酷兒](https://zh.wikipedia.org/wiki/酷儿_\(LGBT\) "wikilink")（）和/或對其性別認同感到疑惑的人（），即是「」。現今已獲得了許多[英語系國家中多數](https://zh.wikipedia.org/wiki/英語國家和地區列表 "wikilink")族群和媒體的認同及採用，成為一種非常主流的用法\[4\]\[5\]。坊間有不少LGBT的資源中心，提供不少有關LGBT的中文文章，包括醫學、心理學、社會科學及法律的文章，是一個研究LGBT議題人士搜尋資料的地方。
 
 然而，「LGBT」的用法並非沒有爭議\[6\]。部分[雙性人](../Page/雙性人.md "wikilink")（intersex）認為自己也屬於族群中，因此支持使用「****」\[7\]\[8\]。也有個別族群不認為自己和LGBT所涵蓋的其他族群有所關聯\[9\]。有人基於「同性戀分離主義」思想，認為男、女同性戀者應脫離其他族群成為另一個團體\[10\]\[11\]</ref>，理由是跨性別和變性者与同性戀人士不同\[12\]。有人則認為“LGBT”這個用語太過[政治正確](../Page/政治正確.md "wikilink")，企圖將[多元性別](../Page/多元性別.md "wikilink")族群劃入灰色地帶，意味著包含主流性別族群的問題和優先權都獲得了平等的考量\[13\]\[14\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Discuz!](https://zh.wikipedia.org/wiki/Discuz!)转换而来。
+
+
 **Discuz\!**是個可免費下載的[PHP](../Page/PHP.md "wikilink")[網絡論壇](https://zh.wikipedia.org/wiki/網絡論壇 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")，簡稱**DZ**，由[戴志康](https://zh.wikipedia.org/wiki/戴志康 "wikilink")（Crossday）所創立，目前最新版本是Discuz\! X3.4。\[1\]前身為Crossday Bulletin（CDB），最初改自XMBForum，爾後改寫成為現今的Discuz\!社群論壇程式，由康盛創想所有（現已被[騰訊收購](https://zh.wikipedia.org/wiki/騰訊 "wikilink")）。現在Discuz\!已成為[大中華地區最多用戶使用的論壇程序](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")。
 
 Discuz\!的原始碼可免費下載，但它并不是[開源軟件](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")，因為其許可證不符合開放原始碼的定義。\[2\]\[3\]\[4\]

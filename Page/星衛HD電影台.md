@@ -1,3 +1,6 @@
+> 本文内容由[星衛HD電影台](https://zh.wikipedia.org/wiki/星衛HD電影台)转换而来。
+
+
 **星卫HD電影台**（）是[福斯国际电视网](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")（Fox International Channels, FIC）在[台湾的高画质電影频道](https://zh.wikipedia.org/wiki/台湾 "wikilink")。\[1\]
 
 ## 概述

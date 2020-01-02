@@ -1,3 +1,6 @@
+> 本文内容由[Ask.fm](https://zh.wikipedia.org/wiki/Ask.fm)转换而来。
+
+
 **Ask.fm**為於2010年6月16日在[拉脫維亞](../Page/拉脫維亞.md "wikilink")[里加](../Page/里加.md "wikilink")建立的社交網站\[1\] ，於2014年8月被[Ask.com](../Page/Ask.com.md "wikilink")購入。它是的主要競爭對手，但以全球使用量來說卻已經遠遠超越前者。
 
 ## 特色

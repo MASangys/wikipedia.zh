@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Verona](https://zh.wikipedia.org/wiki/鈴木Verona)转换而来。
+
+
 **鈴木Verona**（）乃[韓國GM大宇](https://zh.wikipedia.org/wiki/韓國 "wikilink")（前身）替[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[OEM代工生產的](https://zh.wikipedia.org/wiki/贴牌生产 "wikilink")[中型車](https://zh.wikipedia.org/wiki/中型車 "wikilink")，2002年至2006年間僅限[北美洲](../Page/北美洲.md "wikilink")市場販售。該車款以大宇Magnus為原型而修改，兄弟車另有雪佛蘭Epica（[中國](../Page/中國.md "wikilink")市場稱為雪佛蘭景程）。此外，[臺灣](../Page/臺灣.md "wikilink")[台朔汽車](../Page/台朔汽車.md "wikilink")的處女作「台朔一號Formosa Megnus」也是該車款的兄弟車\[1\]。
 
 ## 歷史與概要

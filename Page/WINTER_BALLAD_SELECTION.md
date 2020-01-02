@@ -1,3 +1,6 @@
+> 本文内容由[WINTER BALLAD SELECTION](https://zh.wikipedia.org/wiki/WINTER_BALLAD_SELECTION)转换而来。
+
+
 《**WINTER BALLAD SELECTION**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2014年11月26日發行的數位精選輯組合。\[1\]
 
 ## 說明

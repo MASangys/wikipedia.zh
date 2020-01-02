@@ -1,3 +1,6 @@
+> 本文内容由[Red Hat Linux](https://zh.wikipedia.org/wiki/Red_Hat_Linux)转换而来。
+
+
 **Red Hat Linux**是由[Red Hat公司發行的一个](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[Linux发行套件](https://zh.wikipedia.org/wiki/Linux发行套件 "wikilink")。
 
 Red Hat Linux可算是一個「中年」的Linux發行套件，其1.0版本於1994年11月3日發行。雖然其歷史不及[Slackware般悠久](https://zh.wikipedia.org/wiki/Slackware_Linux "wikilink")，但比起很多的Linux發行套件，Red Hat的歷史悠久得多。

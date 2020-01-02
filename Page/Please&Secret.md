@@ -1,3 +1,6 @@
+> 本文内容由[Please\&Secret](https://zh.wikipedia.org/wiki/Please\&Secret)转换而来。
+
+
 **Please\&Secret**成員為**Please 美眉**和**Secret 酷莓**。為[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[7-ELEVEN經營業者](../Page/7-Eleven.md "wikilink")[統一超商](../Page/統一超商.md "wikilink")委託日本[電通設計](https://zh.wikipedia.org/wiki/電通 "wikilink")，作為台灣的7-ELEVEN超商形象代言玩偶（[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")）[Open小將家族成員](../Page/OPEN小將.md "wikilink")。\[1\]
 
 在設定上，Please 美眉和Secret 酷莓為OPEN小將和LOCK小將的妹妹，具有變身成女高中生的魔法能力，是和家族其他成員不同的地方。

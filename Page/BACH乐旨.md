@@ -1,3 +1,6 @@
+> 本文内容由[BACH乐旨](https://zh.wikipedia.org/wiki/BACH乐旨)转换而来。
+
+
 [B-a-c-h.svg](https://zh.wikipedia.org/wiki/File:B-a-c-h.svg "fig:B-a-c-h.svg") 在[音乐](../Page/音乐.md "wikilink")中，**BACH乐旨**指的是由 **B**、**A**、**C**、**B** 四个音符组成的序列。由于在[德语](../Page/德语.md "wikilink")中 **B** 指的是[英语](../Page/英语.md "wikilink")中的 **B**，而 **H** 指的是英语中的 **B**，所以这四个音符正好串成了作曲家"[J.S.巴赫](../Page/约翰·塞巴斯蒂安·巴赫.md "wikilink")"的名字（*Johann Sebastian **BACH***，1685-1750）。
 
 很多作曲家都使用這個旋律動機，以表示对巴赫的尊敬。但第一个已知的例子却是[扬·皮特森·斯韦林克](https://zh.wikipedia.org/wiki/斯韦林克 "wikilink") (*Jan Pieterszoon Sweelinck*) 的一部作品。他创作该作品也有可能是为了向巴赫的某位祖先表达敬意。巴赫的祖先很多都是音乐家。

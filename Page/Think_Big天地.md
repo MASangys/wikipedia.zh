@@ -1,3 +1,6 @@
+> 本文内容由[Think Big天地](https://zh.wikipedia.org/wiki/Think_Big天地)转换而来。
+
+
 《**Think Big天地**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，接替《[放學ICU](../Page/放學ICU.md "wikilink")》，於2015年1月12日起逢星期一至五16:50－17:20播放，[收視約為](https://zh.wikipedia.org/wiki/收視率 "wikilink")1.4－1.8點。
 
 ## 概要

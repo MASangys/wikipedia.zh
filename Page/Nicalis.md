@@ -1,3 +1,6 @@
+> 本文内容由[Nicalis](https://zh.wikipedia.org/wiki/Nicalis)转换而来。
+
+
 **Nicalis**是坐落于美国加利福尼亚圣安娜的电子游戏开发、发行商。公司主要开发[独立游戏](../Page/独立游戏.md "wikilink")，同时也开发发行原创与移植游戏。公司由[泰隆·罗德里格斯](https://zh.wikipedia.org/wiki/泰隆·罗德里格斯 "wikilink")（原[IGN](../Page/IGN.md "wikilink")编辑、GolinHarris/任天堂公关经理）建立于2007年\[1\]\[2\]\[3\]\[4\]。
 
 ## 游戏

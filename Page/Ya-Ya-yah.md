@@ -1,3 +1,6 @@
+> 本文内容由[Ya-Ya-yah](https://zh.wikipedia.org/wiki/Ya-Ya-yah)转换而来。
+
+
 **Ya-Ya-yah**（）是[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的男子偶像團體，由四名小傑尼斯組成。
 
 Ya-Ya-yah的兄組為[KAT-TUN](../Page/KAT-TUN.md "wikilink")，而弟組則為。

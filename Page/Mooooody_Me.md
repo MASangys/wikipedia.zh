@@ -1,3 +1,6 @@
+> 本文内容由[Mooooody Me](https://zh.wikipedia.org/wiki/Mooooody_Me)转换而来。
+
+
 《**Mooooody Me**》是香港歌手[林欣彤](../Page/林欣彤.md "wikilink")的第4張廣東專輯，於2014年10月9日先在[iTunes內發售](https://zh.wikipedia.org/wiki/iTunes "wikilink")，而實體唱片則於10月10日推出，隨碟附送DVD一片。《**Mooooody Me**（Deluxe Version）》僅於iTunes內發售，額外收錄所有歌曲的KTV版本。專輯派台歌包括《食物鏈》及《光源》。
 
 ## 曲目

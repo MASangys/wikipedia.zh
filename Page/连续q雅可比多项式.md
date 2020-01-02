@@ -1,3 +1,6 @@
+> 本文内容由[连续q雅可比多项式](https://zh.wikipedia.org/wiki/连续q雅可比多项式)转换而来。
+
+
 **连续q雅可比多项式**定义如下
 
 \(P_{n}^{(\alpha;\beta)}(x|q)=\)\(\frac{(q^{\alpha+1};q)_n}{(q;q;)_n}\)

@@ -1,3 +1,6 @@
+> 本文内容由[Hi\~](https://zh.wikipedia.org/wiki/Hi\~)转换而来。
+
+
 《**Hi\~**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的首張韓語正規再包裝專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2015年3月4日發行，由[SM C\&C和](../Page/SM娛樂.md "wikilink")[LOEN Entertainment發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，主打曲為《Hi\~》。
 
 ## 概要

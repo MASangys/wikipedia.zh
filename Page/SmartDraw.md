@@ -1,3 +1,6 @@
+> 本文内容由[SmartDraw](https://zh.wikipedia.org/wiki/SmartDraw)转换而来。
+
+
 **SmartDraw**是一套由SmartDraw.com開發的繪圖軟體，可以用來畫[流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")、[時間圖等不同形式的商業圖表](https://zh.wikipedia.org/wiki/時間圖 "wikilink")。目前推出的版本為SmartDraw 2009。
 
 SmartDraw是一套專門為製作流程圖所開發的軟體，有了這套軟體，就可解決製作流程圖的問題，讓制作者的文件更具有可看性。

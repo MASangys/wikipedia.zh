@@ -1,3 +1,6 @@
+> 本文内容由[IChat](https://zh.wikipedia.org/wiki/IChat)转换而来。
+
+
 **iChat**是在[Mac OS X上兼容](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[AIM与](https://zh.wikipedia.org/wiki/AIM "wikilink")[Jabber的用户端](https://zh.wikipedia.org/wiki/Jabber "wikilink")，使用类Jabber协议与[Bonjour](../Page/Bonjour.md "wikilink")，也允许[区域网络通讯](https://zh.wikipedia.org/wiki/区域网络 "wikilink")。iChat的AIM协议由[AOL完整支持](https://zh.wikipedia.org/wiki/AOL "wikilink")，并使用官方的AIM [OSCAR协议](https://zh.wikipedia.org/wiki/OSCAR "wikilink")。使用Jabber传输，iChat使用者可整合他们的MSN与Yahoo联系人至Jabber框架，所以在Mac上几乎只需要一种即时通讯软件就好了。
 
 它支持金属样式界面、使用谈话气球与个人图片以满足在线聊天历程。在iChat，联系人名单的名字旁以绿色（可用）与红色（离开）色点来表示状态。

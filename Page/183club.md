@@ -1,3 +1,6 @@
+> 本文内容由[183club](https://zh.wikipedia.org/wiki/183club)转换而来。
+
+
 **183Club**，簡稱183，[喬傑立娛樂](../Page/喬傑立娛樂.md "wikilink")旗下的[臺灣](../Page/臺灣.md "wikilink")藝人團體，於2004年正式成立，當時[成員包括](https://zh.wikipedia.org/wiki/成員 "wikilink")[顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")、[王少偉](../Page/王少偉.md "wikilink")、[明道](../Page/明道_\(藝人\).md "wikilink")、[黃玉榮](../Page/黃玉榮.md "wikilink")和[祝釩剛](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")。因宣稱成員平均[身高為](https://zh.wikipedia.org/wiki/身高 "wikilink")183公分，故其組合名稱為「183Club」，
 
 2005年，五位成员出演了台湾偶像剧《王子变青蛙》。2006年，推出了首张音乐专辑《183Club首张同名专辑》，同年在香港新城国语力颁奖典礼获得“亚洲人气偶像奖”。

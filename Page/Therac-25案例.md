@@ -1,3 +1,6 @@
+> 本文内容由[Therac-25案例](https://zh.wikipedia.org/wiki/Therac-25案例)转换而来。
+
+
 **Therac-25事件**是在[軟體工程界被大量引用的案例](https://zh.wikipedia.org/wiki/軟體工程 "wikilink")。Therac-25是（AECL）所生產的[放射線療法機器](https://zh.wikipedia.org/wiki/放射線療法 "wikilink")，在Therac-6和Therac-20之後推出（以往的Therac-6和Therac-20是加拿大原子能有限公司和法國的CGL公司合作開發）。在1985年到1987年之間，在美國及加拿大至少有六起和Therac-25相關的醫療事故，因為軟體設計時的瑕疵，使病人受到了[過量的輻射](../Page/急性辐射综合症.md "wikilink")\[1\]。軟體的瑕疵是因為[競爭危害](../Page/競爭危害.md "wikilink")（二個同時進行程式之間時序衝突造成的問題），有瑕疵時會使病患接受到比正常劑量高一百倍的輻射，因此造成患者死亡或重傷\[2\]。
 
 此一事故突顯了[安全關鍵系統若使用軟體控制時的潛在危險性](https://zh.wikipedia.org/wiki/安全關鍵系統 "wikilink")，也是[軟體工程及](https://zh.wikipedia.org/wiki/軟體工程 "wikilink")[医学信息学](../Page/医学信息学.md "wikilink")的經典案例。另外因為工程師的過度自信\[3\]，而且沒有進行適當的[盡職調查](../Page/盡職調查.md "wikilink")來修復已知的軟體问題，這也是一個極端的例子，工程師因為對其初期的工程過度自信，沒有相信終端用戶提出的問題，最後產生了嚴重的結果。Therac-25事件也因而喚醒[軟體開發工程化管理方法論的省思](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")。

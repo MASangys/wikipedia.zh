@@ -1,3 +1,6 @@
+> 本文内容由[THE ARK](https://zh.wikipedia.org/wiki/THE_ARK)转换而来。
+
+
 [THE_ARK_-_Somebody_4_life_"The_Light".png](https://zh.wikipedia.org/wiki/File:THE_ARK_-_Somebody_4_life_"The_Light".png "fig:THE_ARK_-_Somebody_4_life_\"The_Light\".png")
 
 **THE ARK**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**디아크**），為韓國[Music K娛樂於](../Page/Music_K娛樂.md "wikilink")2015年推出的五人女子組合，由珉柱、Yuna Kim、有珍、漢拏、JANE組成。2015年4月10日發佈首張數位單曲《Somebody 4 Life》，主打歌為《The Light (빛)》。同月12日於[人氣歌謠節目舞台中正式出道](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。

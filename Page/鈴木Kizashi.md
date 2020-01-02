@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Kizashi](https://zh.wikipedia.org/wiki/鈴木Kizashi)转换而来。
+
+
 **鈴木Kizashi**（，[漢字寫成](https://zh.wikipedia.org/wiki/漢字 "wikilink")「兆」\[1\]）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2009年至2014年間開發製造的[中型](https://zh.wikipedia.org/wiki/中型車 "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")，銷售範圍遍及[北美洲](../Page/北美洲.md "wikilink")、[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[日本](../Page/日本.md "wikilink")、[印度](../Page/印度.md "wikilink")等市場，同時也是該公司在澳洲推出的第一部中型車\[2\]。
 
 ## 歷史與概要

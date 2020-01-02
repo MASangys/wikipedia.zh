@@ -1,3 +1,6 @@
+> 本文内容由[Java applet](https://zh.wikipedia.org/wiki/Java_applet)转换而来。
+
+
 **Applet**或**Java小应用程序**是一种在[Web环境下](https://zh.wikipedia.org/wiki/Web "wikilink")，运行于[客户端的](https://zh.wikipedia.org/wiki/客户端 "wikilink")[Java](../Page/Java.md "wikilink")程序组件。它也是1990年代中期，Java在诞生后得以一炮走红的功臣之一。通常，每个Applet的功能都比较单一（例如仅用于显示一个舞动的Logo），因此它被称作“小应用程序”<sup><small>[1](https://zh.wikipedia.org/wiki/#注释 "wikilink")</sup></small>。
 
 Applet必须运行于某个特定的“容器”，这个容器可以是[浏览器本身](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，也可以是通过各种[插件](../Page/插件.md "wikilink")，或者包括支持Applet的移动设备在内的其他各种程序来运行。与一般的Java[应用程序](../Page/应用程序.md "wikilink")不同，Applet不是通过main方法来运行的（参见[Java的Hello World程序和](https://zh.wikipedia.org/wiki/Hello_World程序#Java "wikilink")[Java Applet的Hello World程序](https://zh.wikipedia.org/wiki/Hello_World程序#Java_Applet "wikilink")）。在运行时Applet通常会与用户进行互动，显示动态的画面，并且还会遵循严格的安全检查，阻止潜在的不安全因素（例如根据[安全策略](https://zh.wikipedia.org/wiki/安全策略 "wikilink")，限制Applet对客户端文件系统的访问）。

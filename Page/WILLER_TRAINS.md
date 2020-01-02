@@ -1,3 +1,6 @@
+> 本文内容由[WILLER TRAINS](https://zh.wikipedia.org/wiki/WILLER_TRAINS)转换而来。
+
+
 **WILLER TRAINS**是一家[日本](../Page/日本.md "wikilink")的鐵路經營者，總部現設於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宮津市](../Page/宮津市.md "wikilink")，成立於2014年，是從事日本旅行事業及長途巴士的全資子公司，2015年4月1日接手原[北近畿丹後鐵道](../Page/北近畿丹後鐵道.md "wikilink")的列車營運及車票發售事宜\[1\]，由於北近畿丹後鐵道仍然保留路軌、車站及周邊設施的管理權\[2\]\[3\]，因此只屬於日本鐵路公司中的「[第二種鐵道事業者](https://zh.wikipedia.org/wiki/鐵路公司 "wikilink")」。
 
 在列車運行及車站運作上，卻是採用「**京都丹後鐵道**」（Kyoto Tango Railway，簡稱「**丹鐵**」）的稱呼，而非採用公司原來的英文正式名稱。

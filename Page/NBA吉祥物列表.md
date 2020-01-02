@@ -1,3 +1,6 @@
+> 本文内容由[NBA吉祥物列表](https://zh.wikipedia.org/wiki/NBA吉祥物列表)转换而来。
+
+
 以下列出[美國國家籃球協會](https://zh.wikipedia.org/wiki/美國國家籃球協會 "wikilink")（NBA）各隊的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")：
 
 ## 現有吉祥物

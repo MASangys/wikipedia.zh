@@ -1,3 +1,6 @@
+> 本文内容由[Compiere](https://zh.wikipedia.org/wiki/Compiere)转换而来。
+
+
 **Compiere**是一套為[中小型企業而設計的](https://zh.wikipedia.org/wiki/中小型企業 "wikilink")[開源](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")（OpenSource）[企業資源規劃](https://zh.wikipedia.org/wiki/企業資源計劃 "wikilink")（[ERP](https://zh.wikipedia.org/wiki/ERP "wikilink")）與[客戶關係管理](https://zh.wikipedia.org/wiki/客戶關係管理 "wikilink")（[CRM](https://zh.wikipedia.org/wiki/CRM "wikilink")）軟體。它是這個行業中少數不需要用戶支付巨額金錢去購買他們的軟體的一個異數。但由於Compiere公司忽略關注廣大用戶群體的需要，社群於[2006年9月](../Page/2006年9月.md "wikilink")在SourceForge上創建開放源碼項目[ADempiere系統](https://zh.wikipedia.org/wiki/ADempiere "wikilink")。2011年社群创建 [:draft:iDempiere系统](https://zh.wikipedia.org/wiki/:draft:iDempiere "wikilink")。並引致Compiere於[2009年3月](../Page/2009年3月.md "wikilink")暫停開發。
 
 ## 網頁廣告

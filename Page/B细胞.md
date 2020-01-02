@@ -1,3 +1,6 @@
+> 本文内容由[B细胞](https://zh.wikipedia.org/wiki/B细胞)转换而来。
+
+
 [Blausen_0624_Lymphocyte_B_cell.png](https://zh.wikipedia.org/wiki/File:Blausen_0624_Lymphocyte_B_cell.png "fig:Blausen_0624_Lymphocyte_B_cell.png") **B细胞**（B淋巴球）有時稱之為「朝囊定位細胞」（bursa oriented cells），這是因為它們首次在雞的[腔上囊](../Page/腔上囊.md "wikilink")（Bursa of Fabricius）被提及的關係\[1\]。
 
 在[腸道的](https://zh.wikipedia.org/wiki/腸道 "wikilink")[派亞氏腺體](https://zh.wikipedia.org/wiki/派亞氏腺體 "wikilink")（Peyer's glands）中的[淋巴組織](https://zh.wikipedia.org/wiki/淋巴組織 "wikilink")，被認為具有與鳥類的Fabricius組織中的[鳥囊](../Page/腔上囊.md "wikilink")（avian bursa）同樣的功能。在魚類，它們可能就是那位於腸中的[淋巴樣組織](https://zh.wikipedia.org/wiki/淋巴樣組織 "wikilink")，因為口服疫苗時，會刺激魚血液中產生相對應的[抗體蛋白](https://zh.wikipedia.org/wiki/抗體蛋白 "wikilink")。

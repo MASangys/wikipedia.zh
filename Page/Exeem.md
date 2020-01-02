@@ -1,3 +1,6 @@
+> 本文内容由[Exeem](https://zh.wikipedia.org/wiki/Exeem)转换而来。
+
+
 [Exeem020b.png](https://zh.wikipedia.org/wiki/File:Exeem020b.png "fig:Exeem020b.png")
 
 **eXeem**是個全新的點對點（[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")）檔案分享[客戶端](https://zh.wikipedia.org/wiki/客戶端 "wikilink")，大致上（但不完全是）是以 [BitTorrent通訊協定為基礎](https://zh.wikipedia.org/wiki/BitTorrent協議 "wikilink")。eXeem是設計用來代替需要中央追蹤伺服器（tracker）的需求。tracker是BitTorrent網路中參與中繼資料傳輸的伺服器。eXeem在許多著名的tracker因被[美国电影协会於](https://zh.wikipedia.org/wiki/美国电影协会 "wikilink")2004年12月的法律行動而被迫關閉的情況下，對檔案分享社群更顯得重要。

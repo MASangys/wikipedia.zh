@@ -1,3 +1,6 @@
+> 本文内容由[VxWorks](https://zh.wikipedia.org/wiki/VxWorks)转换而来。
+
+
 **VxWorks**是[美国](../Page/美国.md "wikilink")[溫瑞爾系統](../Page/溫瑞爾系統.md "wikilink")（）公司于1983年设计开发的一种[嵌入式](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[实时操作系统](../Page/实时操作系统.md "wikilink")（[RTOS](https://zh.wikipedia.org/wiki/RTOS "wikilink")），是嵌入式开发环境的关键组成部分。凭借良好的持续发展能力、高性能的[内核](../Page/内核.md "wikilink")以及友好的用户开发环境，其在嵌入式实时操作系统领域占据一席之地。
 
 VxWorks支持几乎所有现代市场上的嵌入式CPU，包括[x86系列](https://zh.wikipedia.org/wiki/x86 "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS "wikilink")、 [PowerPC](../Page/PowerPC.md "wikilink")、[Freescale ColdFire](https://zh.wikipedia.org/wiki/Freescale_ColdFire "wikilink")、[Intel i960](https://zh.wikipedia.org/wiki/Intel_i960 "wikilink")、[SPARC](../Page/SPARC.md "wikilink")、[SH-4](../Page/SuperH.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink"), [StrongARM](../Page/StrongARM.md "wikilink")以及[xScale](https://zh.wikipedia.org/wiki/xScale "wikilink") CPU。

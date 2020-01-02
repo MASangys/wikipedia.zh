@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive! 歷史年表](https://zh.wikipedia.org/wiki/LoveLive!_歷史年表)转换而来。
+
+
 以下是[日昇動畫](../Page/日昇動畫.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[電擊G's magazine的聯合作品](../Page/電擊G's_magazine.md "wikilink")《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》讀者參與計畫相關歷史的列表。資料來源最主要以《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》所公布的日期作為標準，以及相關網站\[1\]\[2\] 做為參考。
 
 如無特別說明，以下「XXXX年XX號」号均是指《電擊G's magazine》的號數，每月號一般在前兩個月的30日發行（如「2010年7月号」在5月30日）。

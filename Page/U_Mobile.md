@@ -1,3 +1,6 @@
+> 本文内容由[U Mobile](https://zh.wikipedia.org/wiki/U_Mobile)转换而来。
+
+
 **U Mobile**是[马来西亚](../Page/马来西亚.md "wikilink")一家移动电话服务提供者，成立于1998年（前身为 MiTV 网络公司），2007年转型成为移动通讯公司。U Mobile 是[成功集团的全资附属子公司](https://zh.wikipedia.org/wiki/成功集团 "wikilink")，公司持有者是马来西亚十大首富之一的[陈志远](https://zh.wikipedia.org/wiki/陈志远_\(商人\) "wikilink")。U Mobile使用018和011拨号。
 
 由于 U Mobile 自家基站的覆盖区极少，因此 U Mobile 租用了[明讯](../Page/明讯.md "wikilink")和[天地通在](https://zh.wikipedia.org/wiki/西尔康 "wikilink")[马来西亚](../Page/马来西亚.md "wikilink")的全国2G基站和部分地区的3G基站。

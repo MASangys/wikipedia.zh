@@ -1,3 +1,6 @@
+> 本文内容由[GPRS隧道协议](https://zh.wikipedia.org/wiki/GPRS隧道协议)转换而来。
+
+
 **GPRS隧道协议**（，简称：GTP）是一组基于[IP的](../Page/网际协议.md "wikilink")[通信协议](../Page/网络传输协议.md "wikilink")，用于在[GSM](../Page/GSM.md "wikilink")、[UMTS和](../Page/通用移动通讯系统.md "wikilink")[LTE网络中承载](https://zh.wikipedia.org/wiki/长期演进技术 "wikilink")[GPRS](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")（通用分组无线业务，）。
 
 GTP协议目前有3个版本：version 2使用于LTE核心网；version 1使用于GSM和UMTS网络，也应用于LTE网络中以传输用户面数据；version 0是早期版本，被1999年标准化的version 1替代\[1\]。

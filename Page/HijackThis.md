@@ -1,3 +1,6 @@
+> 本文内容由[HijackThis](https://zh.wikipedia.org/wiki/HijackThis)转换而来。
+
+
 **HijackThis**，有时称为**HJT**，是一款由Merijn Bellekom编写，在[Microsoft Windows平台上运行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[间谍软件](../Page/间谍软件.md "wikilink")移除工具。
 
 HijackThis原是一款免费软件，2012年起在GNU通用公共许可证下成为开源软件。现在它的版本是2.0.4。

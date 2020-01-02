@@ -1,3 +1,6 @@
+> 本文内容由[Echinolittorina](https://zh.wikipedia.org/wiki/Echinolittorina)转换而来。
+
+
 **Echinolittorina螺屬**（[学名](https://zh.wikipedia.org/wiki/学名 "wikilink")：）是[玉黍螺科](../Page/玉黍螺科.md "wikilink")的一种小海螺物種，原屬[中腹足目](../Page/中腹足目.md "wikilink")\[1\]，今屬[玉黍螺總科](https://zh.wikipedia.org/wiki/玉黍螺總科 "wikilink")\[2\]。主要分布于[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[中国大陆](../Page/中国大陆.md "wikilink")，常栖息在潮间带。
 
 ## 物種

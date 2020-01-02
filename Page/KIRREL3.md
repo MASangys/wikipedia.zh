@@ -1,3 +1,6 @@
+> 本文内容由[KIRREL3](https://zh.wikipedia.org/wiki/KIRREL3)转换而来。
+
+
 **KIRREL**(、類IRRE蛋白3系屬、不規則類視交叉蛋白3系屬(kin of irregular chiasm-like protein 3)、類腎蛋白2(**NEPH2**))是一種由KIRREL3[基因](../Page/基因.md "wikilink")所編碼的人類[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。\[1\]
 
 NEPH2是類[跨膜蛋白](../Page/跨膜蛋白.md "wikilink")腎病蛋白之蛋白質家族的成員，它包括NEPH1([KIRREL](../Page/KIRREL.md "wikilink"))及NEPH3()。所述之類腎病蛋白之蛋白質可與[腎病蛋白](../Page/腎病蛋白.md "wikilink")及進行[蛋白質交互作用](../Page/蛋白質交互作用.md "wikilink")。

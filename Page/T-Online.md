@@ -1,3 +1,6 @@
+> 本文内容由[T-Online](https://zh.wikipedia.org/wiki/T-Online)转换而来。
+
+
 [Logo-t-online.png](https://zh.wikipedia.org/wiki/File:Logo-t-online.png "fig:Logo-t-online.png") [T-Online_Zentrale.jpg](https://zh.wikipedia.org/wiki/File:T-Online_Zentrale.jpg "fig:T-Online_Zentrale.jpg") **T-Online** 是德国最大的[因特网服务提供商](https://zh.wikipedia.org/wiki/因特网服务提供商 "wikilink")。[网络门户站点](https://zh.wikipedia.org/wiki/网络门户 "wikilink")。
 
 ## 企业信息

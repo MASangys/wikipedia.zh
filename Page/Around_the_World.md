@@ -1,3 +1,6 @@
+> 本文内容由[Around the World](https://zh.wikipedia.org/wiki/Around_the_World)转换而来。
+
+
 《**AROUND THE WORLD**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的首張日語單曲，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2014年10月22日於日本正式發行，唱片公司為[日本索尼音樂旗下的](https://zh.wikipedia.org/wiki/日本索尼音樂 "wikilink")[EPIC Records Japan](https://zh.wikipedia.org/wiki/EPIC_Records_Japan "wikilink")。主打歌為《AROUND THE WORLD》。
 
 ## 背景

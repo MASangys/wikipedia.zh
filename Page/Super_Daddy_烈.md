@@ -1,3 +1,6 @@
+> 本文内容由[Super Daddy 烈](https://zh.wikipedia.org/wiki/Super_Daddy_烈)转换而来。
+
+
 《**Super Daddy 烈**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2015年3月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，改編同名網路漫畫。
 
 ## 劇情大綱

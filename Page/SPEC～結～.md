@@ -1,3 +1,6 @@
+> 本文内容由[SPEC～結～](https://zh.wikipedia.org/wiki/SPEC～結～)转换而来。
+
+
 《**SPEC～結～**》 （，）是2013年上映的[日本電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")，也是[TBS電視台](../Page/TBS電視台.md "wikilink")刑事科幻劇《[SPEC](../Page/SPEC～警視廳公安部公安第五課_未詳事件特別對策係事件簿～.md "wikilink")》的第2部[劇場版作品](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，為《SPEC》系列的完結篇。該作品分為前篇、後篇2部，前篇《漸之篇》（）於11月1日上映、後篇《爻之篇》（）於11月29日上映。
 
 ## 簡介

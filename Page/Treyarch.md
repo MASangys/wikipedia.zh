@@ -1,3 +1,6 @@
+> 本文内容由[Treyarch](https://zh.wikipedia.org/wiki/Treyarch)转换而来。
+
+
 **Treyarch**是[美国](../Page/美国.md "wikilink")的一家[电子游戏](../Page/电子游戏.md "wikilink")开发商，总部位于[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[圣莫尼卡](../Page/圣莫尼卡.md "wikilink")。Treyarch成立于1996年，2001年被[美国动视收购](https://zh.wikipedia.org/wiki/美国动视 "wikilink")。其代表作为《[使命召唤系列](https://zh.wikipedia.org/wiki/使命召唤系列 "wikilink")》。
 
 ## 主要作品

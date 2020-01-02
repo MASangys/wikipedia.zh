@@ -1,3 +1,6 @@
+> 本文内容由[TRIANGLE STAFF](https://zh.wikipedia.org/wiki/TRIANGLE_STAFF)转换而来。
+
+
 **有限公司TRIANGLE STAFF**（，）是[日本](../Page/日本.md "wikilink")一家已在2000年12月停止專門從事動畫製作的公司。
 
 ## 歷史

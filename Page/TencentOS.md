@@ -1,3 +1,6 @@
+> 本文内容由[TencentOS](https://zh.wikipedia.org/wiki/TencentOS)转换而来。
+
+
 **腾讯TOS**（又称**Tencent OS**或**腾讯OS**）为[中國](../Page/中國.md "wikilink")[腾讯公司开发的第二个Rom](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")，基于[Android 4.3开发的](https://zh.wikipedia.org/wiki/Android_4.3 "wikilink")[Color OS改编](https://zh.wikipedia.org/wiki/Color_OS "wikilink")\[1\]。于2015年3月3日发布\[2\]，2017年6月28日停止服务\[3\]。腾讯TOS采用扁平化设计，大幅修改安卓原有界面，并移除了应用程序列表。腾讯公司以“我有无限可能”为其宣传标语。\[4\]
 
 ## 历史

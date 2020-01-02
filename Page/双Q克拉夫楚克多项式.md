@@ -1,3 +1,6 @@
+> 本文内容由[双Q克拉夫楚克多项式](https://zh.wikipedia.org/wiki/双Q克拉夫楚克多项式)转换而来。
+
+
 **双Q克拉夫楚克多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
 
 \(K_n(\lambda(x);c,N|q)=_3\Phi_2(q^{-n},q^{-x},cq^{x-N};q^{-N},0|q;q)\)

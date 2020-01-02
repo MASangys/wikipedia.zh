@@ -1,3 +1,6 @@
+> 本文内容由[W \(Double U\)](https://zh.wikipedia.org/wiki/W_\(Double_U\))转换而来。
+
+
 **W**（**Double U**）是[Hello\! Project](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")（早安家族）旗下的女子雙人組合。因加護亞依被傳出醜聞的關係於2006年2月停止活動。2007年3月時公司與加護亞依解除經紀約，事實上解散。同年4月時官方網站也刪除了此團體。時隔十多年後，因加護亞依與早安家族以及UFA成功破冰，W得以於2019年3月30日的演唱會上再次重組。
 
 ## 成員

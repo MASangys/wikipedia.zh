@@ -1,3 +1,6 @@
+> 本文内容由[NEXTREME](https://zh.wikipedia.org/wiki/NEXTREME)转换而来。
+
+
 『**NEXTREME**』，是[日本](../Page/日本.md "wikilink")[电子摇滚乐团](https://zh.wikipedia.org/wiki/电子摇滚乐团 "wikilink")“[Fear, and Loathing in Las Vegas](../Page/Fear,_and_Loathing_in_Las_Vegas.md "wikilink")”的首张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")。于2011年7月13日发行。
 
 ## 收录曲

@@ -1,3 +1,6 @@
+> 本文内容由[HUB娱家戏剧台](https://zh.wikipedia.org/wiki/HUB娱家戏剧台)转换而来。
+
+
 **HUB娱家戏剧台**，英文名为**HUB VV Drama**（前身Variety Vision，1992年4月1日开播，1995年5月31日停播）是[新加坡](../Page/新加坡.md "wikilink")[星和视界](../Page/星和视界.md "wikilink")的[電視劇频道](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，主要节目包括[TVB](../Page/電視廣播有限公司.md "wikilink")[港剧](../Page/香港電視劇.md "wikilink")、[中国大陆剧](../Page/中國大陸電視劇.md "wikilink")、[台剧和](../Page/臺灣電視劇.md "wikilink")[韩剧](../Page/韓國電視劇.md "wikilink")，节目期间大概只有一分钟广告。星和娱家戏剧台是以[国语播放](https://zh.wikipedia.org/wiki/国语 "wikilink")，但部分节目附设[双声道](https://zh.wikipedia.org/wiki/双声道 "wikilink")。
 
 此频道为庆祝其成立20周年，在[新加坡標準時間](../Page/新加坡標準時間.md "wikilink")周五22:30增加[日剧时段](https://zh.wikipedia.org/wiki/日剧 "wikilink")。

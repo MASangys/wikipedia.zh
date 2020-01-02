@@ -1,3 +1,6 @@
+> 本文内容由[Comedy girls](https://zh.wikipedia.org/wiki/Comedy_girls)转换而来。
+
+
 **Comedy Girls（好好笑女孩）**，為[台灣的女子搞笑團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")。成立於2013年。由六位女性組成,表演方式以美式[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")、日式[漫才](../Page/漫才.md "wikilink")、即興互動及搞笑短劇。 \[1\] \[2\] \[3\] \[4\] \[5\] \[6\] \[7\] \[8\] \[9\]
 
 ## 成員

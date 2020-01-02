@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 光榮時刻](https://zh.wikipedia.org/wiki/AKB48_光榮時刻)转换而来。
+
+
 《**AKB48 光榮時刻**》（），是一部2014年7月4日在[日本](../Page/日本.md "wikilink")首映的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。該片是以2013至14年一年半間對女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的團員進行貼身跟拍所攝的影片，經過剪輯編排之後所作成之紀錄片，也是一系列以AKB48為主角的紀錄片作品中的第四部。
 
 ## 工作人員

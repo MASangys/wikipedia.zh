@@ -1,3 +1,6 @@
+> 本文内容由[Rewalk](https://zh.wikipedia.org/wiki/Rewalk)转换而来。
+
+
 **ReWalk**，在台灣稱作**ReWalk 友信立可走機器人腳**，是一個由[阿米徹·高菲爾](https://zh.wikipedia.org/wiki/阿米徹·高菲爾 "wikilink")（Amit Goffer）博士設計\[1\]，[以色列](../Page/以色列.md "wikilink")製造商ReWalk机械（ReWalk Robotic，前身為Argo Medical Technologies）設計製造的外骨骼系統，主要用途為協助下肢[癱瘓的病友能夠再次站立行走](../Page/瘫痪.md "wikilink")，甚至爬樓梯\[2\]。這套系統透過背包上的電池供給電力，並由手腕上的遙控器偵測使用者的行動。\[3\] 再透過電腦系統及活動感測器，模仿自然的步伐，並提供行走速度供使用者自由控制，使癱瘓人士能夠獨自行走。\[4\] 此產品曾於2013年度最佳發明之一\[5\]。此產品已於2014年通過[美国食品药品监督管理局](../Page/美国食品药品监督管理局.md "wikilink") 認證。 \[6\] Rewalk公司於2014年四月在美國申請[上市](https://zh.wikipedia.org/wiki/上市 "wikilink")。\[7\]
 
 ## ReWalk公司

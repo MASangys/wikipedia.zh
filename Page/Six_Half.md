@@ -1,3 +1,6 @@
+> 本文内容由[Six Half](https://zh.wikipedia.org/wiki/Six_Half)转换而来。
+
+
 『**Six Half**』 (シックス ハーフ) 是[日本](../Page/日本.md "wikilink")漫画家[池谷理香子创作的](https://zh.wikipedia.org/wiki/池谷理香子 "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。
 
 该作品最早『[Cookie](https://zh.wikipedia.org/wiki/Cookie_\(雑誌\) "wikilink")』（[集英社](../Page/集英社.md "wikilink")）在2009年12月号开始连载。[单行本](../Page/单行本.md "wikilink")自2014年2月开始出版，至今已经有9卷面世。

@@ -1,3 +1,6 @@
+> 本文内容由[Linux核心開發者高峰會](https://zh.wikipedia.org/wiki/Linux核心開發者高峰會)转换而来。
+
+
 **Linux核心開發者高峰會**（），[Linux核心開發者的年度聚會](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，這個聚會只有被Linux開發社群邀請的人才能以個人身份出席，一般來說，參與人數為80人左右。最早由[曹子德](../Page/曹子德.md "wikilink")出面發起，經由[Usenix號召](https://zh.wikipedia.org/wiki/Usenix "wikilink")，2001年3月在美國[聖荷西首次舉辦](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")，之後成為年度聚會。這個聚會成立的目的，是希望能夠建立一個讓開發者進行面對面討論的機會，以釐清Linux核心當前及未來面對的各種問題，形成共識。
 
 ## 歷史

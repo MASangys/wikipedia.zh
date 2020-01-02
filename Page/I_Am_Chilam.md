@@ -1,3 +1,6 @@
+> 本文内容由[I Am Chilam](https://zh.wikipedia.org/wiki/I_Am_Chilam)转换而来。
+
+
 《**I Am Chilam**》是[張智霖](../Page/張智霖.md "wikilink")的個人新曲+精選專輯，亦是他自2003年後再度推出的唱片，於2009年12月2日推出。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[NACA翼型](https://zh.wikipedia.org/wiki/NACA翼型)转换而来。
+
+
 [Airfoil_geometry.svg](https://zh.wikipedia.org/wiki/File:Airfoil_geometry.svg "fig:Airfoil_geometry.svg") **NACA翼型**是[美国国家航空咨询委员会](https://zh.wikipedia.org/wiki/美国国家航空咨询委员会 "wikilink")（NACA）开发的一系列[翼型](https://zh.wikipedia.org/wiki/翼型 "wikilink")。每个翼型的代号由“NACA”这四个字母与一串数字组成，将这串数字所描述的几何参数代入特定方程中即可得到翼型的精确形状。
 
 ## 四位数翼型族

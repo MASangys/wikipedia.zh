@@ -1,3 +1,6 @@
+> 本文内容由[Think Big大明星](https://zh.wikipedia.org/wiki/Think_Big大明星)转换而来。
+
+
 《**Think Big大明星**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的[兒童節目](../Page/無綫電視兒童節目.md "wikilink")，於2015年1月17日首播。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Mamamoo](https://zh.wikipedia.org/wiki/Mamamoo)转换而来。
+
+
 [玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink") {{·}}[輝人](https://zh.wikipedia.org/wiki/丁輝人 "wikilink") {{·}}[華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink") |過往成員 = |音樂專輯 = |電影 = |主持節目 = |電視劇 = |廣播劇 = |舞台劇 = |書籍 = |電視節目 = }}
 
 **MAMAMOO**（）原屬WA Entertainment旗下的四人女子音樂團體，2015年經紀公司與 [Rainbow Bridge World](../Page/Rainbow_Bridge_World.md "wikilink") (簡稱RBW)合併，成員有[頌樂](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、[玟星](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、[輝人及](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")[華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink")。「MAMA」是不論種族或國家的所有初生嬰兒學會的第一句詞彙，而「MOO」為嬰兒牙牙學語時發出的擬聲詞，意即MAMAMOO期望為大眾帶來超越國籍性別，且展現原始以及本能性的音樂。

@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM](https://zh.wikipedia.org/wiki/機動戰士GUNDAM)转换而来。
+
+
 《**機動戰士GUNDAM**》（，）是[日本](../Page/日本.md "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")變革的先驅，以及開創後世「[寫實機器人](../Page/寫實機器人.md "wikilink")」動畫潮流的著名[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。最初於1979年4月7日至1980年1月26日之間，由[朝日電視網所屬的](https://zh.wikipedia.org/wiki/ANN "wikilink")[名古屋電視台](../Page/名古屋電視台.md "wikilink")播映，全43集。
 
 ## 概要

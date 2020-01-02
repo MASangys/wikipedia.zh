@@ -1,3 +1,6 @@
+> 本文内容由[Origin Systems](https://zh.wikipedia.org/wiki/Origin_Systems)转换而来。
+
+
 **Origin Systems, Inc.**（有时简称**OSI**）是原位于美国[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奥斯汀的](https://zh.wikipedia.org/wiki/奥斯汀 "wikilink")[电子游戏开发商](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")，在1983年到2004年间营业。他们以[创世纪系列和](https://zh.wikipedia.org/wiki/创世纪系列 "wikilink")[银河飞将系列知名](https://zh.wikipedia.org/wiki/银河飞将 "wikilink")。
 
 ## 历史

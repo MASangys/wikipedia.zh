@@ -1,3 +1,6 @@
+> 本文内容由[AMD Zen](https://zh.wikipedia.org/wiki/AMD_Zen)转换而来。
+
+
 [Zen_microarchitecture.svg](https://zh.wikipedia.org/wiki/File:Zen_microarchitecture.svg "fig:Zen_microarchitecture.svg") **Zen**是一種[x86-64](https://zh.wikipedia.org/wiki/x86-64 "wikilink")[微架構](../Page/微架構.md "wikilink")，由[AMD開發](https://zh.wikipedia.org/wiki/AMD "wikilink")，2016年發表，取代[Bulldozer微架構及其改進版本](https://zh.wikipedia.org/wiki/Bulldozer微架構 "wikilink")。該微架構是AMD重返高效能運算市場的重要產品，與舊有架構相比幾乎完全重新設計並以新工藝製作以提升效能，同時還引入眾多新特性，處理器產品以[SoC或半SoC形態面市](https://zh.wikipedia.org/wiki/SoC "wikilink")。而首款Zen微架構的處理器，核心代號「Summit Ridge」，正式品牌名稱為「[Ryzen](../Page/AMD_Ryzen.md "wikilink")」，而中文名稱為「銳龍」，于2017年3月2日正式上市。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 概覽

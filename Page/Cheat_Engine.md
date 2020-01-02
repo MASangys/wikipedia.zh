@@ -1,3 +1,6 @@
+> 本文内容由[Cheat Engine](https://zh.wikipedia.org/wiki/Cheat_Engine)转换而来。
+
+
 **Cheat Engine**，一般簡稱CE，是一個[開放源代碼的軟體](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")，作者為Eric ("Dark Byte")，功能包括：記憶體掃描、[十六進制編輯器](https://zh.wikipedia.org/wiki/十六進制編輯器 "wikilink")、[除錯工具](https://zh.wikipedia.org/wiki/除錯工具 "wikilink")，供[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac作業系統運行](https://zh.wikipedia.org/wiki/Mac "wikilink")。\[1\]Cheat Engine最常在電腦遊戲中當做[遊戲外掛](https://zh.wikipedia.org/wiki/遊戲外掛 "wikilink")，有時會更新以避免被其他軟體檢測到。這個程式類似於[L. Spiro的 "*Memory Hacking Software*"](http://memoryhacking.com/)、TSearch、以及[ArtMoney](http://www.artmoney.ru/)。透過Cheat Engine，使用者可以查找與修改電腦的記憶體。
 
 ## 特色

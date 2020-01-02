@@ -1,3 +1,6 @@
+> 本文内容由[逸仙时空BBS](https://zh.wikipedia.org/wiki/逸仙时空BBS)转换而来。
+
+
 中山大学**逸仙时空BBS（Yat-sen Channel）**是[中山大学](../Page/中山大学.md "wikilink")官方、非商业的[BBS](../Page/BBS.md "wikilink")站点，用于教育科研、学术探讨、信息交流等方面，是校内用户及校友交流资讯和情感的平台。逸仙时空BBS成立于[中山大学](../Page/中山大学.md "wikilink")71周年校庆日，并于1996年3月正式定名为“逸仙时空BBS（Yat-sen Channel）”，是中国大陆高校中历史悠久的[BBS](../Page/BBS.md "wikilink")之一。
 
 ## argo名称由来

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Edge](https://zh.wikipedia.org/wiki/Microsoft_Edge)转换而来。
+
+
 **Microsoft Edge**（研发代号为**Project Spartan**，譯為**微軟边缘浏览器**\[1\]或**微軟前沿瀏覽器**\[2\]）是一个由[微软](../Page/微软.md "wikilink")研发的[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，於2015年1月21日公布，2015年3月30日公开发布第一个预览版。该浏览器在[Windows 10和](../Page/Windows_10.md "wikilink")[Windows 10 Mobile中取代](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")[Internet Explorer成为預設浏览器](../Page/Internet_Explorer.md "wikilink")，其中，Windows 10 Mobile中的IE已经被移除。
 
 Microsoft Edge移除包括[ActiveX](../Page/ActiveX.md "wikilink")在内的一些過時且較不安全的技术，同时又加入一些新的拓展技術如：建立網頁筆記、[Cortana語音助理和](https://zh.wikipedia.org/wiki/Microsoft_Cortana "wikilink")[OneDrive](../Page/OneDrive.md "wikilink")，同时也提供功能和阅读模式功能。\[3\]

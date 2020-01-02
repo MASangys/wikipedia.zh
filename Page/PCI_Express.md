@@ -1,3 +1,6 @@
+> 本文内容由[PCI Express](https://zh.wikipedia.org/wiki/PCI_Express)转换而来。
+
+
 **PCI Express**，简称**PCI-E**，官方简称**PCIe**，是[计算机总线的一个重要分支](../Page/总线.md "wikilink")，它沿用現有的PCI編程概念及信号标准，并建构建了更加高速的[串行通信](../Page/串行通信.md "wikilink")系統标准。目前这一标准有PCI-SIG组织制定和维护。PCIe仅应用于内部互连。由于PCIe是基于现有的[PCI系统](../Page/外设组件互连标准.md "wikilink")，所以只需修改[物理层](../Page/物理层.md "wikilink")而无须修改软件就可将现有PCI系统转换为PCIe。
 
 PCIe拥有更快的速率，所以几乎取代了以往所有的内部[总线](../Page/总线.md "wikilink")（包括[AGP](../Page/AGP.md "wikilink")和PCI）。現在英特爾和AMD已採用单芯片组技术，取代原有的[南桥](../Page/南桥.md "wikilink")／[北桥](../Page/北桥.md "wikilink")方案。

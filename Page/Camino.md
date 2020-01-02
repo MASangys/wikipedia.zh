@@ -1,3 +1,6 @@
+> 本文内容由[Camino](https://zh.wikipedia.org/wiki/Camino)转换而来。
+
+
 **Camino**（[西班牙語意義為路](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")，捷徑）是一個免費，[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[圖形界面](https://zh.wikipedia.org/wiki/圖形界面 "wikilink")[網絡瀏覽器](https://zh.wikipedia.org/wiki/網絡瀏覽器 "wikilink")，基於[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")的[Gecko](../Page/Gecko.md "wikilink")核心，是為[Mac OS X特別設計的瀏覽器](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。Camino使用了Mac本地的[Cocoa](../Page/Cocoa.md "wikilink")環境取代了Mozilla的[XUL](../Page/XUL.md "wikilink")環境。但它不能使用本地的文字。2013年3月30號，斯圖爾特·摩根（Stuart Morgan）宣佈Camino專案結束，以後不會再有新的版本出現\[1\]。
 
 Camino的目標之一就是盡可能的和Mac OS X進行整合。它使用了[Aqua主題](../Page/Aqua_\(GUI\).md "wikilink")，同時整合了一些OS X的服務和特性，例如：使用[钥匙串進行密碼管理](https://zh.wikipedia.org/wiki/钥匙串_\(Mac_OS\) "wikilink")，使用[Bonjour](../Page/Bonjour.md "wikilink")在所在網絡搜索可用的書籤。另外顯著的特性，包括一個整合的阻擋[彈出式廣告的功能](https://zh.wikipedia.org/wiki/彈出式廣告 "wikilink")，廣告阻擋，使用[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")，同時支持開源標準\[2\]\[3\]。

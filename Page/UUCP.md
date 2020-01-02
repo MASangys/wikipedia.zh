@@ -1,3 +1,6 @@
+> 本文内容由[UUCP](https://zh.wikipedia.org/wiki/UUCP)转换而来。
+
+
 **UUCP**即**UNIX间复制协议**（**U**nix to **U**nix **C**opy **P**rotocol）的缩写，它同时包括一个电脑[程序以及一个](https://zh.wikipedia.org/wiki/程序 "wikilink")[协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，UUCP允许在未连上[Internet的](https://zh.wikipedia.org/wiki/Internet "wikilink")[UNIX](../Page/UNIX.md "wikilink")主机间远程执行命令以及传送[文件](https://zh.wikipedia.org/wiki/电脑文件 "wikilink")，[email或](https://zh.wikipedia.org/wiki/email "wikilink")[netnews](https://zh.wikipedia.org/wiki/netnews "wikilink").UUCP包是由多种程序组成，包括uucp,uuxqt（front ends for remote copy and execution）,uucico（通信程序），uustat，以及uuname.现在已经很少使用[Modem来进行通信了](https://zh.wikipedia.org/wiki/Modem "wikilink")，但是有时这个协议仍然在[TCP/IP上使用](https://zh.wikipedia.org/wiki/互联网协议套件 "wikilink")。
 
 在广泛使用[Internet全球通信之前](https://zh.wikipedia.org/wiki/Internet "wikilink")，电脑间只能组建非常小型的网络连接或是点对点连接。UUCP允许机器间可以进行类似[Fidonet](https://zh.wikipedia.org/wiki/Fidonet "wikilink")（Fidonet在[DOS](../Page/DOS.md "wikilink")系统上非常流行，UUCP完全模仿Fidonet）的[消息交换](https://zh.wikipedia.org/wiki/消息交换 "wikilink")。

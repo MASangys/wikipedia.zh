@@ -1,3 +1,6 @@
+> 本文内容由[R.O.S.E](https://zh.wikipedia.org/wiki/R.O.S.E)转换而来。
+
+
 《**R.O.S.E**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")[張祐榮的首張日語單曲](https://zh.wikipedia.org/wiki/張祐榮 "wikilink")，由他自己與[超級昌代](https://zh.wikipedia.org/wiki/超級昌代 "wikilink")（）作曲、作詞，並在2015年3月4日以三個不同版本推出\[1\]。
 
 ## 背景

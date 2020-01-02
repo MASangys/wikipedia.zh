@@ -1,3 +1,6 @@
+> 本文内容由[Lorem ipsum](https://zh.wikipedia.org/wiki/Lorem_ipsum)转换而来。
+
+
 ****是指一篇常用於[排版](../Page/排版.md "wikilink")[設計](../Page/設計.md "wikilink")領域的[拉丁文文章](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")，主要的目的為測試文章或文字在不同[字型](../Page/字型.md "wikilink")、版型下看起來的效果。[中文的類似用法則稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")**亂數假文**、隨機假文。
 
 ## 應用

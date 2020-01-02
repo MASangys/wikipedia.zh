@@ -1,3 +1,6 @@
+> 本文内容由[鈴木M族引擎](https://zh.wikipedia.org/wiki/鈴木M族引擎)转换而来。
+
+
 **鈴木M族引擎**是2000年代[日本](../Page/日本.md "wikilink")[鈴木公司研發的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，屬於[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")、[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、16汽門的結構設計。
 
 ## 概要

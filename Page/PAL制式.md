@@ -1,3 +1,6 @@
+> 本文内容由[PAL制式](https://zh.wikipedia.org/wiki/PAL制式)转换而来。
+
+
 [PAL-NTSC-SECAM.svg](https://zh.wikipedia.org/wiki/File:PAL-NTSC-SECAM.svg "fig:PAL-NTSC-SECAM.svg")
 
 **PAL制式**是[電視廣播中色彩調頻的一種方法](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")，全名為**逐行倒相**（Phase Alternating Line）。除了[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")、[東亞部分地區使用](https://zh.wikipedia.org/wiki/東亞 "wikilink")[NTSC制式](../Page/NTSC制式.md "wikilink")，[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[法國及](https://zh.wikipedia.org/wiki/法國 "wikilink")[東歐採用](https://zh.wikipedia.org/wiki/東歐 "wikilink")[SECAM制式](../Page/SECAM制式.md "wikilink")以外，世界上大部份地區都是採用PAL制式。PAL于1963年由[德國人](https://zh.wikipedia.org/wiki/德國 "wikilink")提出，當時他為[德律風根](../Page/德律風根.md "wikilink")（Telefunken）工作。

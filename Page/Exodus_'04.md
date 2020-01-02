@@ -1,3 +1,6 @@
+> 本文内容由[Exodus \'04](https://zh.wikipedia.org/wiki/Exodus_\'04)转换而来。
+
+
 **Exodus '04**是[宇多田光](../Page/宇多田光.md "wikilink")以Utada名義發行的第三張[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2005年6月21日發行。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[GKD1型柴油机车](https://zh.wikipedia.org/wiki/GKD1型柴油机车)转换而来。
+
+
 **GKD1型柴油机车**（GKD1）是[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大连机车车辆有限公司为铁路站段](https://zh.wikipedia.org/wiki/大连机车车辆有限公司 "wikilink")、工矿企业、海港油田等用户设计生产的[调车](../Page/调车机车.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，为交一直流电传动调车及工矿运输用内燃机车。其名字中"GK"代表其为工矿系列机车，"D"代表其传动方式为电传动，以区分传统的液力传动的工矿机车，"1"为其型号。
 
 ## 发展历史

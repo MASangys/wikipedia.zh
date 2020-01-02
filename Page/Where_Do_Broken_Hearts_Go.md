@@ -1,3 +1,6 @@
+> 本文内容由[Where Do Broken Hearts Go](https://zh.wikipedia.org/wiki/Where_Do_Broken_Hearts_Go)转换而来。
+
+
 《**Where Do Broken Hearts Go**》是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1988年2月所發行的單曲，這首單曲獲得美國單曲榜兩週冠軍，它也成為惠妮·休斯頓第7首美國冠軍單曲。
 
 ## 歌曲資料

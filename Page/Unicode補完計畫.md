@@ -1,3 +1,6 @@
+> 本文内容由[Unicode補完計畫](https://zh.wikipedia.org/wiki/Unicode補完計畫)转换而来。
+
+
 **Unicode補完計畫**（**Unicode-at-on**，簡稱**UAO**，官方網站使用的識別系統用字是**Unicode補完計-{画}-**）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦使用者針對](https://zh.wikipedia.org/wiki/電腦 "wikilink")[大五碼](../Page/大五碼.md "wikilink")（Big-5）延伸的紊亂、以及[微軟Code](https://zh.wikipedia.org/wiki/微軟 "wikilink") Page 950（[Microsoft Windows內建的Big](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")-5轉碼表）未收錄某些常用字（又稱缺字問題）以及缺乏對於[倚天中文系統](../Page/倚天中文系統.md "wikilink")、[中國海字集](../Page/中國海字集.md "wikilink")延伸中的[簡體中文](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")、[日文假名與](https://zh.wikipedia.org/wiki/日文假名 "wikilink")[日文漢字支援等問題所採取的其中一種解決方案](https://zh.wikipedia.org/wiki/日文漢字 "wikilink")（參看[大五碼\#影響](https://zh.wikipedia.org/wiki/大五碼#.E5.BD.B1.E9.9F.BF "wikilink")）。透過對Code Page 950的修改，使得原始採用[簡體中文或](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[日語的內容](https://zh.wikipedia.org/wiki/日語 "wikilink")，在複製至ANSI架構的程式時能轉換為Unicode補完計畫字集下的對應字元，而不會造成缺字的問題（詳細字元請參看[字元的來源](https://zh.wikipedia.org/wiki/#.E5.AD.97.E5.85.83.E7.9A.84.E4.BE.86.E6.BA.90 "wikilink")）。它是一個[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 [Unicode_font_support.png](https://zh.wikipedia.org/wiki/File:Unicode_font_support.png "fig:Unicode_font_support.png")

@@ -1,3 +1,6 @@
+> 本文内容由[TVnavi日劇年度大賞](https://zh.wikipedia.org/wiki/TVnavi日劇年度大賞)转换而来。
+
+
 **TVnavi日劇年度大賞**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），由[日本](../Page/日本.md "wikilink")[產業經濟新聞社](../Page/產業經濟新聞社.md "wikilink")旗下的電視週刊雜誌《》所主辦，為一年一度並無專業評審的「觀眾投票」獎。2004年起為第一屆，參與對象為[NHK電視台及各家民間電視台所製播的連續劇](https://zh.wikipedia.org/wiki/NHK "wikilink")。
 
 ## 獲獎名單

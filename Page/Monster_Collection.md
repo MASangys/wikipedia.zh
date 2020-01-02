@@ -1,3 +1,6 @@
+> 本文内容由[Monster Collection](https://zh.wikipedia.org/wiki/Monster_Collection)转换而来。
+
+
 Monster Collection (日文:モンスター・コレクション，モンスター・コレクションTCG，簡稱：モンコレ，以下稱為遊戲)是一款日本的[集換式紙牌遊戲](https://zh.wikipedia.org/wiki/集換式紙牌遊戲 "wikilink")，是由開發，並於1997年中[富士見書房](../Page/富士見書房.md "wikilink")發售。不過在2003年12月推出"聖王の刻印"系列後起暫時停止出售新系列，一直到2008年7月後重新推出新系列"神霊獣の咆哮"。
 
 2011年8月開始由發售"[水瓶戰記](../Page/水瓶戰記.md "wikilink")"的[Broccoli](../Page/Broccoli.md "wikilink")取得遊戲的經營權。\[1\]

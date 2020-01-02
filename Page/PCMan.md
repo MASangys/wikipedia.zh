@@ -1,3 +1,6 @@
+> 本文内容由[PCMan](https://zh.wikipedia.org/wiki/PCMan)转换而来。
+
+
 **PCMan**是一系列免費且開放程式碼的[Telnet](../Page/Telnet.md "wikilink")軟體，並針對電子布告欄[BBS](../Page/BBS.md "wikilink")進行最佳化設置，原始作者是[洪任諭](../Page/洪任諭.md "wikilink")。\[1\]目前此軟體為[臺灣](../Page/臺灣.md "wikilink")的BBS用戶廣泛使用。
 
 2007年1月1日，作者將原始碼公開，成為開放原始碼軟體。2007年6月1日，Open PCMAN 2007正式版發佈。

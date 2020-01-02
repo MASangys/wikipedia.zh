@@ -1,3 +1,6 @@
+> 本文内容由[幸福 \(Red Velvet单曲\)](https://zh.wikipedia.org/wiki/幸福_\(Red_Velvet单曲\))转换而来。
+
+
 《행복(Happiness)》（中文：幸福）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red Velvet的首張數位單曲](../Page/Red_Velvet.md "wikilink")，於2014年8月4日發行。
 
 ## 製作背景與發行

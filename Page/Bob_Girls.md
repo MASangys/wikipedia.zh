@@ -1,3 +1,6 @@
+> 本文内容由[Bob Girls](https://zh.wikipedia.org/wiki/Bob_Girls)转换而来。
+
+
 **Bob Girls** （）是[韓國Chrome](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment於2014年6月推出的四人女子團體。成員由Dahye、Yujeong、Jina、Danbi組成。 2015年2月24日，Bob Girls正式解散。
 
 ## 成員資料

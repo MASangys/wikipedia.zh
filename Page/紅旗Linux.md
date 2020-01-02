@@ -1,3 +1,6 @@
+> 本文内容由[紅旗Linux](https://zh.wikipedia.org/wiki/紅旗Linux)转换而来。
+
+
 **红旗Linux**是由中国中科红旗软-{}-件技术有限公司开发的一系列[Linux发行版](../Page/Linux发行版.md "wikilink")，包括桌面版、工作站版、数据中心服务器版、HA集群版和红旗嵌入式Linux等產品。目前在[中国各软件专卖店可以购买到光盘版](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")，同时官方网站也提供[光盘镜像免费下载](https://zh.wikipedia.org/wiki/光盘镜像 "wikilink")。红旗Linux是中国较大、较成熟的Linux发行版之一。
 
 目前的红旗Linux桌面版的最新版本为2017年12月发布的红旗Linux9.0\[1\]，代号Taihang（太行）\[2\]。该版本桌面操作系统以Gnome3为预设桌面环境，并预装[网易云音乐](../Page/网易云音乐.md "wikilink")、[WPS](../Page/WPS_Office.md "wikilink")、[微信](../Page/微信.md "wikilink")等软件以方便中国国内的用户使用。

@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Magazine](https://zh.wikipedia.org/wiki/週刊少年Magazine)转换而来。
+
+
 《**週刊少年Magazine**》（[日文原名](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是[日本](../Page/日本.md "wikilink")[講談社出版的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，於1959年3月17日創刊，每周三發售（和[小學館](../Page/小學館.md "wikilink")《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》相同）。雖然目前總銷量落後[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》不少，但仍有不少著名[漫畫家在此雜誌連載漫畫](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。事實上，於1970年代，此雜誌的總銷量比《週刊少年Jump》還高。
 
 [台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")《[新少年快報](../Page/新少年快報.md "wikilink")》和[香港](../Page/香港.md "wikilink")的《[新少年週刊](../Page/新少年週刊.md "wikilink")》乃此漫畫雜誌的中文版，兩者均由[東立出版社](../Page/東立出版社.md "wikilink")出版。

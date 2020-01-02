@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 7D Mark II](https://zh.wikipedia.org/wiki/佳能_EOS_7D_Mark_II)转换而来。
+
+
 **佳能EOS 7D Mark II**是[佳能](../Page/佳能.md "wikilink")于2014年9月15日推出的一款[APS-C画幅](https://zh.wikipedia.org/wiki/APS-C "wikilink")[单镜反光相机](../Page/单镜反光相机.md "wikilink")\[1\]，有效像素为2020万。是[佳能EOS 7D的后续产品](https://zh.wikipedia.org/wiki/Canon_EOS_7D "wikilink")。发布时建议售价为$1799\[2\]
 
 ## 特点

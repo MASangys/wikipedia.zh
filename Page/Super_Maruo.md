@@ -1,3 +1,6 @@
+> 本文内容由[Super Maruo](https://zh.wikipedia.org/wiki/Super_Maruo)转换而来。
+
+
 是由昭和通商於1986年發行使用在[FC遊戲機平台](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")，具有情色成份的電子動作遊戲\[1\]
 
 ## 遊戲內容

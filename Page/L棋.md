@@ -1,3 +1,6 @@
+> 本文内容由[L棋](https://zh.wikipedia.org/wiki/L棋)转换而来。
+
+
 **L棋**（L game）是[愛德華·波諾在](https://zh.wikipedia.org/wiki/愛德華·波諾 "wikilink")1968年推出兩人[棋類](../Page/棋類.md "wikilink")，用以解釋[水平思考法](https://zh.wikipedia.org/wiki/水平思考法 "wikilink")。
 
 ## 棋具

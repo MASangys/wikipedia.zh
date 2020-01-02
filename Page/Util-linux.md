@@ -1,3 +1,6 @@
+> 本文内容由[Util-linux](https://zh.wikipedia.org/wiki/Util-linux)转换而来。
+
+
 **`util-linux`**是一个[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的标准软件包。当开发停滞时，一群人创建了[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")**`util-linux-ng`**（**`ng`**意为“下一代”）\[1\]，但已更名回util-linux，目前是包的正式版本\[2\]。
 
 ## 内容

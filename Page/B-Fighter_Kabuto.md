@@ -1,3 +1,6 @@
+> 本文内容由[B-Fighter Kabuto](https://zh.wikipedia.org/wiki/B-Fighter_Kabuto)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

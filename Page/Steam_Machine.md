@@ -1,3 +1,6 @@
+> 本文内容由[Steam Machine](https://zh.wikipedia.org/wiki/Steam_Machine)转换而来。
+
+
 **Steam Machine**（又稱**Steam Box**）是一系列預先組裝的[電競電腦](../Page/電競電腦.md "wikilink")，這些遊戲電腦都根據[維爾福公司訂下的設計規格生產製造](https://zh.wikipedia.org/wiki/維爾福公司 "wikilink")，並由多個廠商販售。所有 Steam Machine 都預先安裝了維爾福公司的 [SteamOS](../Page/SteamOS.md "wikilink") 或 [Steam](../Page/Steam.md "wikilink") 用戶端軟體。\[1\]SteamOS 是一個發展自 [Debian](../Page/Debian.md "wikilink") [Linux](../Page/Linux.md "wikilink") 的[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，開發來執行 Steam 上的[Linux遊戲並提供其他娛樂項目](https://zh.wikipedia.org/wiki/Linux遊戲 "wikilink")。有些 Steam Machine 的廠商宣佈他們的 Steam Machine 會安裝[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，他們並稱之為「預備好的 Steam Machine」（Steam Machine Ready），當 SteamOS 和 Steam Controller 開發完成時即可在這些電腦上使用。\[2\]\[3\]\[4\]多數預先組裝的 Steam Machine 可以在一定程度上進行硬體上的升級，就如同傳統的[個人電腦一般](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。如同許多[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，任何人都可以免費下載並安裝 SteamOS 到他們的電腦上。不同的 Steam Machine 會有不同的硬體配備、性能和價格。維爾福公司亦在開發一套叫作 Steam Controller 的[遊戲手把](https://zh.wikipedia.org/wiki/遊戲手把 "wikilink")，該手把使用[觸控板和傳統按鈕來進行操作](https://zh.wikipedia.org/wiki/觸控板 "wikilink")。
 
 儘管原先預定在2014年發行，維爾福公司後來把預定的發行日延後到2015年11月。

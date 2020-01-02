@@ -1,3 +1,6 @@
+> 本文内容由[RTF](https://zh.wikipedia.org/wiki/RTF)转换而来。
+
+
 **富文本格式**（**Rich Text Format**）即**RTF格式**，又称**多文本格式**，是由[微软](../Page/微软.md "wikilink")公司开发的跨平台[文档格式](https://zh.wikipedia.org/wiki/文档 "wikilink")。大多数的[文字处理软件都能读取和保存RTF文档](https://zh.wikipedia.org/wiki/文字处理 "wikilink")。
 
 ## 文档示例

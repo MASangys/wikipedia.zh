@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu MATE](https://zh.wikipedia.org/wiki/Ubuntu_MATE)转换而来。
+
+
 **Ubuntu MATE**是[Ubuntu](../Page/Ubuntu.md "wikilink")的一個官方衍生版\[1\]，它基於桌面環境[MATE](../Page/MATE.md "wikilink")。其所使用的[MATE](../Page/MATE.md "wikilink")桌面環境由已經停止官方維護的[GNOME](../Page/GNOME.md "wikilink") 2原始碼衍生而來\[2\]。針對老舊桌上型、筆記型、樹莓派（Raspberry Pi）電腦，及硬體效能等級不高，或喜歡簡潔、不用特效桌面環境者。第一個穩定版本為14.10\[3\]，而到了2015年2月26日發行15.04 Beta1時才一同發表Ubuntu MATE被官方認可正式成員的訊息\[4\]\[5\]\[6\]。
 
 ## 系統需求(桌上型範例)

@@ -1,3 +1,6 @@
+> 本文内容由[SVDK狙擊步槍](https://zh.wikipedia.org/wiki/SVDK狙擊步槍)转换而来。
+
+
 **SVDK**（，全寫：**С**найперская **в**интовка системы **Д**рагунова **К**ороткая，[俄語羅馬化](https://zh.wikipedia.org/wiki/俄語羅馬化 "wikilink")：Snayperskaya Vintovka Dragunova Korotkaya，意為：短德拉古諾夫狙擊步槍；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[俄羅斯聯邦工業設計局](../Page/俄罗斯.md "wikilink")（）以[SVD狙擊步槍](../Page/SVD狙擊步槍.md "wikilink")為藍本所研製和生產的縮短型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，是SVD的縮短及大口徑型版本，設計定位介乎於[精確射手步槍](../Page/精確射手步槍.md "wikilink")與[反器材步槍](../Page/反器材步槍.md "wikilink")之間。發射[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節

@@ -1,3 +1,6 @@
+> 本文内容由[舞力全开Now](https://zh.wikipedia.org/wiki/舞力全开Now)转换而来。
+
+
 《**現在就舞力全開**》（英語：*Just Dance Now*）是一款由育碧開發手機體感遊戲，此遊戲為舞力全開系列的第一個使用手機遊玩的遊戲。
 此遊戲在2014年9月25日在[Google Play以及](../Page/Google_Play.md "wikilink")[App Store正式上架](https://zh.wikipedia.org/wiki/App_Store "wikilink")，也是系列中唯一一個免費的手機遊戲。
 

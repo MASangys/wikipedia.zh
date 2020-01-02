@@ -1,3 +1,6 @@
+> 本文内容由[Mega Drive游戏列表](https://zh.wikipedia.org/wiki/Mega_Drive游戏列表)转换而来。
+
+
 本表羅列SEGA **[Mega Drive](../Page/Mega_Drive.md "wikilink")** （包含Mega-CD及32X）發行之遊戲，並按照遊戲發行時間排序，並有中英日遊戲名稱、日文價格、編號、容量、發行廠商等資料；「對應機種」欄位，Mega Drive 遊戲留白，Mega-CD（或 SEGA-CD） 標示為 CD，32X 則標示為 32X。
 
 ## 遊戲列表

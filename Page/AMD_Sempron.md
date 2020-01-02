@@ -1,3 +1,6 @@
+> 本文内容由[AMD Sempron](https://zh.wikipedia.org/wiki/AMD_Sempron)转换而来。
+
+
 **Sempron**是美國[AMD公司的入門級](https://zh.wikipedia.org/wiki/AMD "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，中文官方名稱為「**閃龍**」（不過一般玩家則多根据其英文发音俗称为「**散步龍**」），用以取代[Duron處理器及與](https://zh.wikipedia.org/wiki/Duron "wikilink")[英特爾公司的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Celeron和](https://zh.wikipedia.org/wiki/Celeron "wikilink")[Celeron D處理器競爭](https://zh.wikipedia.org/wiki/Celeron_D "wikilink")。
 
 名字方面，“Sempron”來自拉丁文的“semper”，意即「每天」，代表Sempron為每日的運算之選。

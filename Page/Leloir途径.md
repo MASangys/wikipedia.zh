@@ -1,3 +1,6 @@
+> 本文内容由[Leloir途径](https://zh.wikipedia.org/wiki/Leloir途径)转换而来。
+
+
 [Leloir_pathway.png](https://zh.wikipedia.org/wiki/File:Leloir_pathway.png "fig:Leloir_pathway.png")
 
 **Leloir途径**（）是降解[<small>D</small>-半乳糖的](../Page/半乳糖.md "wikilink")[代謝途徑](../Page/代謝途徑.md "wikilink")，以其发现者[卢伊斯·弗德里科·莱洛伊尔](../Page/卢伊斯·弗德里科·莱洛伊尔.md "wikilink")（Luis Federico Leloir）命名。

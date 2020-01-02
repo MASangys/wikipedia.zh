@@ -1,3 +1,6 @@
+> 本文内容由[Cocoa Touch](https://zh.wikipedia.org/wiki/Cocoa_Touch)转换而来。
+
+
 **Cocoa Touch**是苹果电脑公司的用户界面软件框架，用于在iOS操作系统上开发应用软件来运行在[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink"), [iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod Touch上](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。
 
 Cocoa Touch提供了iOS操作系统的抽象层。Cocoa Touch基于 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") [Cocoa API](https://zh.wikipedia.org/wiki/Cocoa_\(API\) "wikilink")， 主要用 [Objective-C](../Page/Objective-C.md "wikilink")程序语言写成。 相比[Mac OS X上的Cocoa](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，Cocoa Touch增加了支持iOS设备的硬件和功能。和Cocoa一样, Cocoa Touch使用[MVC](../Page/MVC.md "wikilink")[软件架构模式](https://zh.wikipedia.org/wiki/软件架构模式 "wikilink")。

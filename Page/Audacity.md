@@ -1,3 +1,6 @@
+> 本文内容由[Audacity](https://zh.wikipedia.org/wiki/Audacity)转换而来。
+
+
 **Audacity**是一款[跨平台的音频编辑软件](https://zh.wikipedia.org/wiki/跨平台 "wikilink")，用於錄音和編輯音訊，是[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、[開放原始碼的軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。可在[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[GNU/Linux和其它](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[作業系統上運作](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。Audacity在2004年7月獲選為[SourceForge.net當月最佳推薦專案](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")\[1\]，2007年7月選多媒體類的SourceForge.net 2007社区选择大奖\[2\]。
 
 ## 特色

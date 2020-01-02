@@ -1,3 +1,6 @@
+> 本文内容由[Berry Good](https://zh.wikipedia.org/wiki/Berry_Good)转换而来。
+
+
 **Berry Good** （）是JTG娛樂於2014年5月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，初始成員有邰賀、高雲、秀彬、Iera、娜妍。經成員變動後，現任成員有祚弦、徐律、多藝、世馨、高雲。
 
 团名"Berry Good"寓意著成員將竭尽全力结成最好的果实，粉絲名為Very Berry。

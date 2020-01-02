@@ -1,3 +1,6 @@
+> 本文内容由[HALO \(韓國組合\)](https://zh.wikipedia.org/wiki/HALO_\(韓國組合\))转换而来。
+
+
 **HALO**（），現為[韓國HISTAR娛樂公司的](https://zh.wikipedia.org/wiki/韓國 "wikilink")6人男子組合，於2014年6月26日發行單曲一輯《38℃》，主打曲《炙熱的體溫》（）。2014年6月28日，HALO踏上[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》舞台作正式出道。在尚未正式出道時就已登上2014年6月7日SBS舉辨的2014《韓流夢想演唱會Dream Concert》舞台，首次演出《炙熱的體溫》\[1\]。
 
 HALO在字典上的意思是光環，寓意著「無論在哪裡，在何時，他們就像是有著光環的偶像」，也表示了「6名成員在一起展現完美光芒」的意思。組合口號為 "We Run This Town"。成員的平均身高為181cm，除了音樂活動之外，還曾出演過廣告等，擁有眾多才能，屬於多棲發展型藝人。\[2\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Breathe Carolina](https://zh.wikipedia.org/wiki/Breathe_Carolina)转换而来。
+
+
 Breathe Carolina是一支于2007年成立于[美国](../Page/美国.md "wikilink")[科罗拉多州](https://zh.wikipedia.org/wiki/科罗拉多州 "wikilink")[丹佛](../Page/丹佛.md "wikilink")的乐队。
 
 乐队由David Schmitt, Eric Armenta, Luis Bonet 和 Tom Coops.同为创始者之一的 Kyle Even在2013年和David Schmitt生下他们的长女后离开乐队。

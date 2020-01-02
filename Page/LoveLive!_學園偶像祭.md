@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive! 學園偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭)转换而来。
+
+
 简称：、，是由[KLab](../Page/KLab.md "wikilink")製作、[武士道營運的](../Page/武士道_\(公司\).md "wikilink")[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink") 。屬於「[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")」多媒體計劃當中的一個作品，於2013年在[日本](../Page/日本.md "wikilink")首先推出日文版，並在2014年先後推出英文版（國際版）、繁體中文版、簡體中文版以及韓文版。
 
 本遊戲在[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")屬於免費下載的應用程式，而遊戲內亦有選擇性的付費項目可供購買。

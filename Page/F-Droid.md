@@ -1,3 +1,6 @@
+> 本文内容由[F-Droid](https://zh.wikipedia.org/wiki/F-Droid)转换而来。
+
+
 是一个[Android](../Page/Android.md "wikilink")应用程序的软件资源库（或[应用商店](https://zh.wikipedia.org/wiki/应用商店 "wikilink")）；其功能类似于[Google Play商店](../Page/Google_Play.md "wikilink")，但只包含[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")。应用（不适用于Google Play商店但可以方式安装者）可从F-Droid网站或直接从F-Droid客户端应用浏览及安装。F-Droid客户端应用会自动升级安装F-Droid应用。网站也提供所有应用的[源代码](../Page/源代码.md "wikilink")下载。\[1\]\[2\]F-Droid不要求用户注册或标示应用包含广告、用户追踪或倚赖非自由软件之类的“反特征”。\[3\]运行于F-Droid的服务器是自由软件，并允许任何人创建自己的Android软件资源库。\[4\]
 
 ## 历史

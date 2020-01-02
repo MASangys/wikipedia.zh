@@ -1,3 +1,6 @@
+> 本文内容由[BRAVE IT OUT](https://zh.wikipedia.org/wiki/BRAVE_IT_OUT)转换而来。
+
+
 《**BRAVE IT OUT**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")1张[单曲](../Page/单曲.md "wikilink")，於2012年11月21日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

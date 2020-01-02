@@ -1,3 +1,6 @@
+> 本文内容由[SKY PerfecTV!](https://zh.wikipedia.org/wiki/SKY_PerfecTV!)转换而来。
+
+
 **SKY PerfecTV*\!***（日文[商業名稱](../Page/商業名稱.md "wikilink")），為[日本](../Page/日本.md "wikilink")以至全[亞洲頗具規模的多頻道](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[衛星電視平台](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，由[SKY Perfect JSAT株式會社經營提供](../Page/SKY_Perfect_JSAT集團.md "wikilink")[直播衛星及](https://zh.wikipedia.org/wiki/直播衛星 "wikilink")[光纖網路的](https://zh.wikipedia.org/wiki/光纖網路 "wikilink")[收費電視服務](https://zh.wikipedia.org/wiki/收費電視 "wikilink")。
 
 ## 沿革

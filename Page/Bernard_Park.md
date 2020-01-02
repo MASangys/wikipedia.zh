@@ -1,3 +1,6 @@
+> 本文内容由[Bernard Park](https://zh.wikipedia.org/wiki/Bernard_Park)转换而来。
+
+
 **Bernard Park**（）；），原名**朴洛俊**（音譯，\[1\]），是一位美籍韓裔男歌手。他在2013年參加[SBS的音樂選秀節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《》中獲得冠軍\[2\]，並簽約為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下男歌手。2017年6月以本名NakJoon繼續發展。
 
 ## 音樂作品

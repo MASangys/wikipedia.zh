@@ -1,3 +1,6 @@
+> 本文内容由[奔騰III](https://zh.wikipedia.org/wiki/奔騰III)转换而来。
+
+
 **Pentium III**是[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")（更準確地說是P6）架構之[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，於1999年2月底推出。剛推出的版本與早期的[Pentium II非常相似](https://zh.wikipedia.org/wiki/Pentium_II "wikilink")，最值得注意的不同是[SSE](../Page/SSE.md "wikilink")指令的擴充，以及在每個晶片製造的過程加入有爭議的序號進去。與Pentium II相同，也有低階的[Celeron版本和高階的](https://zh.wikipedia.org/wiki/Celeron "wikilink")[Xeon版本](https://zh.wikipedia.org/wiki/Xeon "wikilink")。Pentium III最後被[Pentium 4所取代](https://zh.wikipedia.org/wiki/Pentium_4 "wikilink")，Pentium III的改進設計就是後來的[Pentium M](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")。
 
 ## Pentium III核心

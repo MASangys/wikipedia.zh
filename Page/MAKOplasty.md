@@ -1,3 +1,6 @@
+> 本文内容由[MAKOplasty](https://zh.wikipedia.org/wiki/MAKOplasty)转换而来。
+
+
 **MAKOplasty**，或稱**機器人手臂關節置換術**、**友信美骨立**，是一項 MAKO Surgical Corp 開發的 RIO（Robotic Arm Interactive Orthopedic System，機器人手臂關節置換系統，包含：提供導航功能的相機與螢幕系統、操作程式與調整手術計劃的電腦系統、以及醫師操作的機器手臂本體三個部分）機器手臂執行的膝關節或髖關節置換術。RIO 由[美國食品藥品監督管理局通過](https://zh.wikipedia.org/wiki/FDA "wikilink")，應用於骨科治療[退化性關節炎的全髖關節置換術及部分膝關節置換術](https://zh.wikipedia.org/wiki/退化性關節炎 "wikilink")，其立體定位技術適用於此類行手術上，因骨骼構造能夠被[電腦斷層掃描的模型所辨識](https://zh.wikipedia.org/wiki/電腦斷層掃描 "wikilink")。\[1\]
 
 自 2006 年全美第一起部分膝關節置換術及 2010 年第一起全髖關節置換術以來，截至 2013 年底為止，全球已執行超過 33,000 個 MAKOplasty 手術。 \[2\]

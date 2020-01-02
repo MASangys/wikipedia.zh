@@ -1,3 +1,6 @@
+> 本文内容由[MARIKA SEVEN](https://zh.wikipedia.org/wiki/MARIKA_SEVEN)转换而来。
+
+
 **MARIKA SEVEN**([日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：**まりかセヴン**)，是日本漫画家[伊藤伸平的](https://zh.wikipedia.org/wiki/伊藤伸平 "wikilink")[漫画作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。于[漫画アクション](https://zh.wikipedia.org/wiki/漫画アクション "wikilink")（[双葉社](https://zh.wikipedia.org/wiki/双葉社 "wikilink")）2010年10月19日号开始連載。
 
 ## 介绍

@@ -1,3 +1,6 @@
+> 本文内容由[Adobe](https://zh.wikipedia.org/wiki/Adobe)转换而来。
+
+
 **Adobe公司**（，發音：，旧称**Adobe系統公司**，股票代码：、），是[美國一家](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨國](../Page/跨國公司.md "wikilink")[電腦](https://zh.wikipedia.org/wiki/计算机 "wikilink")[软件](../Page/软件.md "wikilink")公司，總部位於[加州的](../Page/加利福尼亚州.md "wikilink")[聖荷西](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")，其官方[大中華](../Page/大中華.md "wikilink")部門內也常以[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")「**奧多比**」\[1\]\[2\]自稱。主要从事[多媒体](../Page/多媒体.md "wikilink")制作类软件的开发，近年亦开始涉足[丰富互联网应用程序](../Page/丰富互联网应用程序.md "wikilink")、、[金融分析应用程序等](https://zh.wikipedia.org/wiki/金融分析 "wikilink")[软件开发](https://zh.wikipedia.org/wiki/软件开发 "wikilink")。
 
 ## 历史

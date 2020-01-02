@@ -1,3 +1,6 @@
+> 本文内容由[ALSA](https://zh.wikipedia.org/wiki/ALSA)转换而来。
+
+
 [alsamixer.jpg](https://zh.wikipedia.org/wiki/File:alsamixer.jpg "fig:alsamixer.jpg")的截圖\]\] **高级Linux声音体系**（，缩写為）是[Linux内核](../Page/Linux内核.md "wikilink")中，为[声卡](../Page/声卡.md "wikilink")提供的驱动组件，以替代原先的[OSS](https://zh.wikipedia.org/wiki/OSS "wikilink")（开放声音系统）。 一部分的目的是支持声卡的自动配置，以及完美的处理系统中的多个声音设备，这些目的大多都已达到。另一个声音框架[JACK使用ALSA提供低延迟的专业级音频编辑和混音能力](../Page/JACK_Audio_Connection_Kit.md "wikilink")。
 
 [Jaroslav Kysela过去是这个项目的领导者](https://zh.wikipedia.org/wiki/Jaroslav_Kysela "wikilink")，这个项目开始于为1998年[Gravis Ultrasound所开发的驱动](https://zh.wikipedia.org/wiki/Gravis_Ultrasound "wikilink")，它一直作为一个单独的软件包开发，直到2002年他被引进入Linux内核的开发版本 (2.5.4-2.5.5)\[1\]。从2.6版本开始ALSA成为Linux内核中默认的标准音频驱动程序集，[OSS则被标记为废弃](https://zh.wikipedia.org/wiki/OSS "wikilink")。

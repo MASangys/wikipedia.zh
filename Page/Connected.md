@@ -1,3 +1,6 @@
+> 本文内容由[Connected](https://zh.wikipedia.org/wiki/Connected)转换而来。
+
+
 《**Connected**》是[香港](../Page/香港.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[RubberBand](../Page/RubberBand.md "wikilink")的音樂專輯，在2010年9月3日發行。
 
 ## 曲目

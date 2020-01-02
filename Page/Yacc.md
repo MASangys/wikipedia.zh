@@ -1,3 +1,6 @@
+> 本文内容由[Yacc](https://zh.wikipedia.org/wiki/Yacc)转换而来。
+
+
 **yacc**（**Yet Another Compiler Compiler**），是[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")/[Linux](../Page/Linux.md "wikilink")上一个用来生成[编译器的编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")（编译器代码生成器）。yacc生成的编译器主要是用C語言寫成的[语法解析器](https://zh.wikipedia.org/wiki/语法解析器 "wikilink")（Parser），需要与[词法解析器](https://zh.wikipedia.org/wiki/词法解析器 "wikilink")[Lex](../Page/Lex.md "wikilink")一起使用，再把兩部份產生出來的C程序一併編譯。yacc本來只在（类）Unix系統上才有，但現時已普遍移植往Windows及其他平台。
 
 yacc的输入是[巴科斯范式](../Page/巴科斯范式.md "wikilink")（BNF）表达的语法规则以及语法规约的处理代码，输出的是基于表驱动的编译器，包含输入的语法规约的处理代码部分。

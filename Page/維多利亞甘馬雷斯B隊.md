@@ -1,3 +1,6 @@
+> 本文内容由[維多利亞甘馬雷斯B隊](https://zh.wikipedia.org/wiki/維多利亞甘馬雷斯B隊)转换而来。
+
+
 **維多利亞甘馬雷斯B隊**（），葡萄牙職業足球會，位於吉馬良斯，成立於2012年，現時於[葡甲作賽](https://zh.wikipedia.org/wiki/葡甲 "wikilink")。他們是[甘馬雷斯的預備隊](https://zh.wikipedia.org/wiki/甘馬雷斯 "wikilink")。他們不容許參與[葡萄牙盃](../Page/葡萄牙盃.md "wikilink")及[葡聯盃](https://zh.wikipedia.org/wiki/葡聯盃 "wikilink")。
 
 ## 外部連結

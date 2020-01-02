@@ -1,3 +1,6 @@
+> 本文内容由[NIPPON \(椎名林檎單曲\)](https://zh.wikipedia.org/wiki/NIPPON_\(椎名林檎單曲\))转换而来。
+
+
 《**NIPPON**》（）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")的第十三張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI Records Japan於](../Page/環球音樂_\(日本\).md "wikilink")2014年6月4日發行\[1\]。在跨業合作部分，A面歌曲「NIPPON」更成為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[2014年世界盃足球賽節目的主題曲](https://zh.wikipedia.org/wiki/2014年世界盃足球賽 "wikilink")\[2\]\[3\]。
 
 在單曲銷售成績方面，本張單曲在日本Oricon銷售榜上最高位居單週第9名\[4\]，名列2014年年度銷售榜第275位\[5\]。歌曲「NIPPON」在日本告示牌所公布的告示牌百強單曲榜中，最高曾名列單週第2名\[6\]、2014年年度銷售榜第47位\[7\]。而在日本iTunes所公布的iTunes Store銷售榜中，最高曾名列單週第1名、2014年年度銷售榜第19位\[8\]。在銷售認證上，歌曲「NIPPON」的數位下載突破10萬次，在2014年7月通過日本唱片協會認定為金唱片\[9\]。

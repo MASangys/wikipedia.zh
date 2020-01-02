@@ -1,3 +1,6 @@
+> 本文内容由[CSI犯罪現場：紐約](https://zh.wikipedia.org/wiki/CSI犯罪現場：紐約)转换而来。
+
+
 《**CSI犯罪現場：紐約**》（****，簡稱****）是一部[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[刑事](https://zh.wikipedia.org/wiki/刑事 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，首播於2004年9月22日。它是《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》的第二個[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")（）。首次出現是在《[CSI犯罪現場: 邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場:_邁阿密 "wikilink")－》第二季的23集（），劇中主角何瑞修（）前往[紐約市追捕一名從邁阿密逃逸的謀殺嫌犯](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。有趣的是，影集在美國播映的時段與[國家廣播公司的](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")《[法網遊龍](../Page/法律與秩序.md "wikilink")》（**）一樣，而後者是以[紐約市為舞臺的老牌犯罪影集](https://zh.wikipedia.org/wiki/紐約市 "wikilink")。
 
 除了[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")、[美琳娜·卡娜卡瑞迪斯](https://zh.wikipedia.org/wiki/美琳娜·卡娜卡瑞迪斯 "wikilink")、以及[安娜·貝爾納普](../Page/安娜·貝爾納普.md "wikilink")以外，所有的演員都是來自[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")。然而，[蓋瑞·辛尼茲](../Page/蓋瑞·辛尼茲.md "wikilink")和[安娜·貝爾納普](../Page/安娜·貝爾納普.md "wikilink")都曾在紐約居住過一段時間。

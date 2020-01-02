@@ -1,3 +1,6 @@
+> 本文内容由[Collab Star](https://zh.wikipedia.org/wiki/Collab_Star)转换而来。
+
+
 **《Collab Star》**是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[C AllStar的第](../Page/C_AllStar.md "wikilink")7張音樂專輯，於2015年2月13日發行。專輯是由[C AllStar與五個不同單位的歌手合作而成](../Page/C_AllStar.md "wikilink")。
 
 ## 曲目列表

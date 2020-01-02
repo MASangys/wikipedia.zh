@@ -1,3 +1,6 @@
+> 本文内容由[ARL V 39式突擊炮](https://zh.wikipedia.org/wiki/ARL_V_39式突擊炮)转换而来。
+
+
 **ARL V 39**，亦被稱作**ARL 1940 V939 40**，係一款僅僅停留在原型車階段的[突擊炮](https://zh.wikipedia.org/wiki/突擊炮 "wikilink")。該車是二戰前爲滿足[法軍對一款新式突擊炮的需求而研發的](https://zh.wikipedia.org/wiki/法軍 "wikilink")\[1\]。1939年10月15日，法軍曾訂購了一批ARL V 39。按計劃，這些ARL V 39將會被分配到8個步兵營中（每個營兩個由3輛ARL V 39組成的小隊）。截至1940年，ARL V 39僅有兩輛原型車完工。法國投降後，量產的計劃被取消，原型車則被轉移到了[摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")，該車的研發工作也就就此終止\[2\]。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Sunny \(少女時代\)](https://zh.wikipedia.org/wiki/Sunny_\(少女時代\))转换而来。
+
+
 **李纯揆**（，），藝名**珊妮**（，），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")及[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，上有兩個大15歲和12歲的姐姐，但都在同一天生日，出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，後搬到[科威特](../Page/科威特.md "wikilink")，因[-{zh-hans:海湾战争; zh-hant:海灣戰爭;zh-tw:波斯灣戰爭}-被遣送回韓國](../Page/海湾战争.md "wikilink")，亦因而懼怕鞭炮聲。
 
 原本在父親李秀英的經紀公司訓練了9年，並要加入其公司旗下的「Sugar」出道，但在加入前，該團體就已先解散。再後來準備以組合「TINTOP」出道時，遇上公司破產。之後由[亞由美推薦參加](https://zh.wikipedia.org/wiki/ICONIQ "wikilink")[SM Entertainment甄選成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")，2007年8月5日以女子組合[少女時代出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，在隊内擔任主唱。2018年與[太妍](../Page/太妍.md "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[潤娥組成少女時代子團](https://zh.wikipedia.org/wiki/潤娥 "wikilink")[少女時代-Oh\! GG](../Page/少女時代-Oh!_GG.md "wikilink")。

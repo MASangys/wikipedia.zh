@@ -1,3 +1,6 @@
+> 本文内容由[SARS期間殉職醫護人員列表](https://zh.wikipedia.org/wiki/SARS期間殉職醫護人員列表)转换而来。
+
+
 本表列出在[SARS爆发期間](https://zh.wikipedia.org/wiki/SARS事件 "wikilink")[殉職](../Page/殉職.md "wikilink")的醫療工作者及醫療相關的人士，並依照[國籍](../Page/國籍.md "wikilink")與[逝世](https://zh.wikipedia.org/wiki/逝世 "wikilink")[日期](../Page/日期.md "wikilink")英文排序。
 
 ##

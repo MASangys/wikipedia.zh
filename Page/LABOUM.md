@@ -1,3 +1,6 @@
+> 本文内容由[LABOUM](https://zh.wikipedia.org/wiki/LABOUM)转换而来。
+
+
 **LABOUM**（韓語：**라붐**、日語：**ラブーム**）是[NH Media與](../Page/NH_Media.md "wikilink")[Nega Network合作於](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")2014年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，最初由6名成員組成，分别为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")、[金律喜](../Page/金律喜.md "wikilink")。團名「LABOUM」在法文則是代表「派對」的意思，配合團名的意義，LABOUM 將展現有別於性感風的魅力，開創屬於她們自己的獨特風格。官方粉絲名由官咖網路票選為Latte(拿鐵)。\[1\]\[2\]成员[金律喜](../Page/金律喜.md "wikilink")于2017年11月3日退队\[3\]，現任成員为[金柔廷](../Page/金柔廷.md "wikilink")、[鄭昭娟](https://zh.wikipedia.org/wiki/鄭昭娟 "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、廉海仁、[安率濱](https://zh.wikipedia.org/wiki/安率濱 "wikilink")。2018年2月11日，在选秀節目《The Unit》的最後一集中，ZN獲得第8名，進入期間限定團體出道。
 
 ## 團體資料

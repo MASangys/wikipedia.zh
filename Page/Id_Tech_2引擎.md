@@ -1,3 +1,6 @@
+> 本文内容由[Id Tech 2引擎](https://zh.wikipedia.org/wiki/Id_Tech_2引擎)转换而来。
+
+
 **id Tech 2引擎**，以前称为**雷神之锤II引擎**，是由开发的用于多种游戏的引擎，主要用于开发《[雷神之锤II](../Page/雷神之锤II.md "wikilink")》。自从其发布后就被多个游戏用于自己的开发。
 
 id Tech 2引擎的最大特性就是对[硬件加速](../Page/硬件加速.md "wikilink")的[显卡进行了全方位的支持](https://zh.wikipedia.org/wiki/显卡 "wikilink")，并且在传统[软件渲染模式下优化了](https://zh.wikipedia.org/wiki/软件渲染 "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")性能。之后产生的[雷神之锤III引擎则对此引擎进行了大刀阔斧的改动](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")，成为了新的引擎。

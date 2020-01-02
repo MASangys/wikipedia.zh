@@ -1,3 +1,6 @@
+> 本文内容由[Q贝塞尔多项式](https://zh.wikipedia.org/wiki/Q贝塞尔多项式)转换而来。
+
+
 [QBessel_function_2D_plot.gif](https://zh.wikipedia.org/wiki/File:QBessel_function_2D_plot.gif "fig:QBessel_function_2D_plot.gif") **q-贝塞尔多项式**，也称q-贝塞尔函数，其通过[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义\[1\]：
 
 \[y_{n}(x;a;q)=\;_{2}\phi_1 \left(\begin{matrix}

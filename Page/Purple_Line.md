@@ -1,3 +1,6 @@
+> 本文内容由[Purple Line](https://zh.wikipedia.org/wiki/Purple_Line)转换而来。
+
+
 《**PURPLE LINE**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第16张[单曲](../Page/单曲.md "wikilink")。于2008年1月16日由AVEX Entertainment公司下属厂牌[rhythm zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 收录歌曲

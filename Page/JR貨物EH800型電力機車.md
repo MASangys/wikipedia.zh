@@ -1,3 +1,6 @@
+> 本文内容由[JR貨物EH800型電力機車](https://zh.wikipedia.org/wiki/JR貨物EH800型電力機車)转换而来。
+
+
 **EH800型電力機車**，是供[日本貨物鐵道](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")（JR貨物）使用的交流傳動八軸[電力機車](../Page/電力機車.md "wikilink")，適用於20,000伏特與25,000伏特的50Hz交流電化區段，由[東芝公司承造](https://zh.wikipedia.org/wiki/東芝公司 "wikilink")。
 
 ## 概要

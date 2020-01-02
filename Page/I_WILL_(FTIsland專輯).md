@@ -1,3 +1,6 @@
+> 本文内容由[I WILL \(FTIsland專輯\)](https://zh.wikipedia.org/wiki/I_WILL_\(FTIsland專輯\))转换而来。
+
+
 《**I WILL**》（）是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第五張正規專輯（實際為第六張韓語專輯），於2015年3月23日發行，並以《PRAY》為此專輯的主打曲目。
 
 ## 背景

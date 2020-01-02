@@ -1,3 +1,6 @@
+> 本文内容由[D2 Place](https://zh.wikipedia.org/wiki/D2_Place)转换而来。
+
+
 [D2placeentrance.jpg](https://zh.wikipedia.org/wiki/File:D2placeentrance.jpg "fig:D2placeentrance.jpg") [D2_Place_atrium.jpg](https://zh.wikipedia.org/wiki/File:D2_Place_atrium.jpg "fig:D2_Place_atrium.jpg") [D2_Place_Level_10_Roof_garden_201705.jpg](https://zh.wikipedia.org/wiki/File:D2_Place_Level_10_Roof_garden_201705.jpg "fig:D2_Place_Level_10_Roof_garden_201705.jpg") **D2 Place**，為[香港](../Page/香港.md "wikilink")以創意文化產業為主題的建築，分兩期發展，於建成時分別為工業大廈**建業中心**和**利來中心**，到2012年更改用途。特設超過20,000平方呎的多用途空間及天台花園，匯聚各方人才積極培育創意產業及推動本地文化，現時吸引年青人及家庭客。\[1\]
 
 ## 1期

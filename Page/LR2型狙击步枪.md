@@ -1,3 +1,6 @@
+> 本文内容由[LR2型狙击步枪](https://zh.wikipedia.org/wiki/LR2型狙击步枪)转换而来。
+
+
 **LR2型狙击步枪**是一枝由[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[湖南](../Page/湖南省.md "wikilink")[轻武器研究所所研制和生产的](https://zh.wikipedia.org/wiki/湖南轻武器研究所 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")12.7毫米（.50英吋）大口徑重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），在2012年5月22日于北京舉行的第六届中国国际警用装备展上首度展出，发射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯或54式12.7毫米重机枪弹）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節

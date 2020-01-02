@@ -1,3 +1,6 @@
+> 本文内容由[E.G. TIME](https://zh.wikipedia.org/wiki/E.G._TIME)转换而来。
+
+
 《**E.G. TIME**》是[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")3張原創專輯。於2015年1月1日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[BLEACH](https://zh.wikipedia.org/wiki/BLEACH)转换而来。
+
+
 《**BLEACH**》是日本漫画家[久保带人](../Page/久保带人.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》连载，自2001年36·37合并号起至2016年37号結束。改編動畫版從2004年10月5日起於[東京電視台](../Page/東京電視台.md "wikilink")播放。於2018年7月推出真人電影版。系列漫畫的世界發行量達1億2000萬本\[1\]。
 
 ## 作品解說

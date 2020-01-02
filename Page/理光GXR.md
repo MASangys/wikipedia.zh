@@ -1,3 +1,6 @@
+> 本文内容由[理光GXR](https://zh.wikipedia.org/wiki/理光GXR)转换而来。
+
+
 [Ricoh_GXR_IMG_5351.JPG](https://zh.wikipedia.org/wiki/File:Ricoh_GXR_IMG_5351.JPG "fig:Ricoh_GXR_IMG_5351.JPG")
 
 **理光GXR**是由[理光](../Page/理光.md "wikilink")公司于2009年11月10日推出的模块化设计相机产品\[1\]。约在2013年中段停产，没有类似的后续产品。

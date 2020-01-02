@@ -1,3 +1,6 @@
+> 本文内容由[EBCDIC](https://zh.wikipedia.org/wiki/EBCDIC)转换而来。
+
+
 （，擴增二进式十进交換碼），为[IBM](../Page/IBM.md "wikilink")於1963年－1964年间推出的字元编码表，根据早期[打孔机式的](../Page/打孔卡.md "wikilink")**[二进化十进数](../Page/二進碼十進數.md "wikilink")**（*BCD*，*Bindary Coded Decimal*）排列而成。是IBM迷尔級以上電腦的標準碼。
 
 它的缺点是：英文字母不是连续地排列，中间出现多次断续，为撰写程式的人带来了一些困难。

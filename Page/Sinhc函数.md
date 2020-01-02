@@ -1,3 +1,6 @@
+> 本文内容由[Sinhc函数](https://zh.wikipedia.org/wiki/Sinhc函数)转换而来。
+
+
 数学上的**Sinhc函数**定义如下\[1\]\[2\]\[3\]
 
   -

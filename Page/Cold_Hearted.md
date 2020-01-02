@@ -1,3 +1,6 @@
+> 本文内容由[Cold Hearted](https://zh.wikipedia.org/wiki/Cold_Hearted)转换而来。
+
+
 《**Cold Hearted**》是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")在1989年6月發行的單曲，它曾獲得告示牌單曲榜一週冠軍，亦是寶拉·阿巴杜第三首全美冠軍單曲\[1\]。
 
 ## 歌曲

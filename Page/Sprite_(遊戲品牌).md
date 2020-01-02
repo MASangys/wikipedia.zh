@@ -1,3 +1,6 @@
+> 本文内容由[Sprite \(遊戲品牌\)](https://zh.wikipedia.org/wiki/Sprite_\(遊戲品牌\))转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Sprite_\(game_brand\)logo.gif "fig:缩略图") [Fairys_logo.gif](https://zh.wikipedia.org/wiki/File:Fairys_logo.gif "fig:Fairys_logo.gif") **sprite**是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")品牌，**fairys**是全年齡[美少女遊戲](../Page/美少女遊戲.md "wikilink")品牌，互為姊妹社。
 
 ## 沿革

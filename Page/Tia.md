@@ -1,3 +1,6 @@
+> 本文内容由[Tia](https://zh.wikipedia.org/wiki/Tia)转换而来。
+
+
 **Tia**（，），日本女歌手、声优。出生于日本[埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")。非常具有个人特色的新人歌手，曾为《[野良神](https://zh.wikipedia.org/wiki/野良神 "wikilink")》、《[T宝的悲惨日常](../Page/T宝的悲惨日常.md "wikilink")》等动画作品演唱片尾曲。作为歌手活动时常与[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")（[ryo](https://zh.wikipedia.org/wiki/ryo "wikilink")）合作。
 
 ## 经历

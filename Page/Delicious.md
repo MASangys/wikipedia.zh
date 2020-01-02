@@ -1,3 +1,6 @@
+> 本文内容由[Delicious](https://zh.wikipedia.org/wiki/Delicious)转换而来。
+
+
 **Delicious**原名del.icio.us，是[免費的](https://zh.wikipedia.org/wiki/免費 "wikilink")[社群性](https://zh.wikipedia.org/wiki/社會性軟件 "wikilink")[網絡服務](https://zh.wikipedia.org/wiki/Web服務 "wikilink")，用於交流網頁書籤网摘。它在2003年底上線，由開發。
 
 Delicious不同於[我的最愛或其他書籤網站](https://zh.wikipedia.org/wiki/我的最愛 "wikilink")，主要用於和別人分享和交流書籤，使用者亦可以在Delicious儲存或管理私人書籤（但需記得勾選"do not share"）。

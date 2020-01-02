@@ -1,3 +1,6 @@
+> 本文内容由[KVM切换器](https://zh.wikipedia.org/wiki/KVM切换器)转换而来。
+
+
 [Computers-kvm-switch-amoswolfe.png](https://zh.wikipedia.org/wiki/File:Computers-kvm-switch-amoswolfe.png "fig:Computers-kvm-switch-amoswolfe.png") **KVM切換器**（），一般簡稱**KVM**，又名**多電腦切換器**，是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[硬體設備](https://zh.wikipedia.org/wiki/硬體 "wikilink")，可以使用户透過一組[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[螢幕和](https://zh.wikipedia.org/wiki/螢幕 "wikilink")[滑鼠控制多台電腦](https://zh.wikipedia.org/wiki/滑鼠 "wikilink")。KVM，即键盘、显示器、鼠标的英文首字母缩写（**K**eyboard、**V**ideo、**M**ouse）。
 
 ## 使用

@@ -1,3 +1,6 @@
+> 本文内容由[Miss Mammamia](https://zh.wikipedia.org/wiki/Miss_Mammamia)转换而来。
+
+
 《**Miss Mammamia**》（，標題顯示為《 》）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS Drama播放的水木迷你劇](../Page/韓國放送公社.md "wikilink")。本劇播出同時，沈亨倬與張英南亦共同參演[Mnet](../Page/Mnet.md "wikilink")電視劇《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》。
 
 ## 演員陣容

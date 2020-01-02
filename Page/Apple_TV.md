@@ -1,3 +1,6 @@
+> 本文内容由[Apple TV](https://zh.wikipedia.org/wiki/Apple_TV)转换而来。
+
+
 **Apple TV**是一款由[蘋果公司所設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、行銷和銷售的數位[多媒體](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")。它可用作播放来自[iTunes Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")、[Netflix](../Page/Netflix.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Flickr](../Page/Flickr.md "wikilink")、[MobileMe](../Page/MobileMe.md "wikilink")里的線上内容或[電腦上](https://zh.wikipedia.org/wiki/電腦 "wikilink")[iTunes裡的多媒體檔案](https://zh.wikipedia.org/wiki/iTunes "wikilink")，並透過高[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")[寬螢幕的](https://zh.wikipedia.org/wiki/長寬比_\(影像\)#16:9_標準 "wikilink")[電視機輸出影像](https://zh.wikipedia.org/wiki/電視機 "wikilink")。
 
 苹果公司在2006年9月首次推出此產品，并于次年3月开始出货。\[1\]最初的版本容量只有40[GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")[硬盘](../Page/硬盘.md "wikilink")，但在2个月之后蘋果再推出160GB的版本-{取代}-40GB版本。

@@ -1,3 +1,6 @@
+> 本文内容由[AGP](https://zh.wikipedia.org/wiki/AGP)转换而来。
+
+
 **AGP**，全稱為**-{zh-hans:加速图形接口; zh-hant:加速影像處理埠;}-**（**A**ccelerated **G**raphics **P**ort），是[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[主機板上的一種高速點對點傳輸通道](https://zh.wikipedia.org/wiki/主機板 "wikilink")，供[顯示卡使用](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，主要應用在[三維電腦圖形的加速上](https://zh.wikipedia.org/wiki/三維電腦圖形 "wikilink")。AGP是在1997年由[Intel提出](https://zh.wikipedia.org/wiki/Intel "wikilink")，是從[PCI标准上建立起来](https://zh.wikipedia.org/wiki/PCI "wikilink")，是一种顯示卡专用接口。推出原因是为了消除PCI在处理3D图形时的瓶颈。**AGP**通常會被視為[-{zh-hans:计算机总线; zh-hant:電腦匯流排;}-的一種](https://zh.wikipedia.org/wiki/電腦匯流排 "wikilink")，但這樣的分法嚴格來說是錯誤的；因為一組-{zh-hans:总线; zh-hant:匯流排;}-可容許多個設備共用，而AGP卻不是。AGP不能多個插槽共用一組-{zh-hans:总线; zh-hant:匯流排;}-。一些主機板設有多條獨立的AGP-{zh-hans:插槽; zh-hant:埠;}-，-{zh-hans:现时; zh-hant:目前;}-AGP已基本被[PCI Express所取代](../Page/PCI_Express.md "wikilink")。
 
 ## 歷史

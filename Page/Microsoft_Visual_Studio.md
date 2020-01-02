@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Visual Studio](https://zh.wikipedia.org/wiki/Microsoft_Visual_Studio)转换而来。
+
+
 **Microsoft Visual Studio**（简称**VS**或**MSVS**）是[微软公司的开发](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[工具](../Page/工具.md "wikilink")套件系列[产品](https://zh.wikipedia.org/wiki/产品 "wikilink")。VS是一个基本完整的开发工具集，它包括了整个[軟體生命週期中所需要的大部分工具](https://zh.wikipedia.org/wiki/软件生命周期 "wikilink")，如[UML工具](https://zh.wikipedia.org/wiki/UML "wikilink")、程式碼管控工具、[整合開發環境](../Page/集成开发环境.md "wikilink")（IDE）等等。所写的目标代码适用于微软支持的所有平台，包括[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[Windows CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")、[.NET Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")、[.NET Compact Framework和](../Page/.NET_Compact_Framework.md "wikilink")[Microsoft Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")。
 
 而Visual Studio .NET是用于快速生成企业级ASP.NET Web应用程序和高性能桌面应用程序的工具。Visual Studio包含基于组件的开发工具（如Visual C\#、[Visual J\#](https://zh.wikipedia.org/wiki/Visual_J# "wikilink")、Visual Basic和Visual C++），以及许多用于简化基于小组的解决方案的设计、开发和部署的其他技术。

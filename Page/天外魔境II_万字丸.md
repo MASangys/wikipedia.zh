@@ -1,3 +1,6 @@
+> 本文内容由[天外魔境II 万字丸](https://zh.wikipedia.org/wiki/天外魔境II_万字丸)转换而来。
+
+
 是[Hudson Soft于](../Page/Hudson_Soft.md "wikilink")1992年在[PC-Engine外设](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")[Super CD-ROM²上发行的](https://zh.wikipedia.org/wiki/Super_CD-ROM² "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[天外魔境系列](../Page/天外魔境系列.md "wikilink")第二作。
 
 [PlayStation 2和](../Page/PlayStation_2.md "wikilink")[GameCube重制版于](https://zh.wikipedia.org/wiki/GameCube "wikilink")2003年发行，[任天堂DS](../Page/任天堂DS.md "wikilink")重制版于2006年发行。游戏还收录于2008年[PlayStation Portable合辑](../Page/PlayStation_Portable.md "wikilink")《[天外魔境Collection](https://zh.wikipedia.org/wiki/天外魔境Collection "wikilink")》。2011年，游戏于[PlayStation 3和PlayStation](../Page/PlayStation_3.md "wikilink") Portable的[PlayStation Network再版](../Page/PlayStation_Network.md "wikilink")。

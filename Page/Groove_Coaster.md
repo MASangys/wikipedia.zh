@@ -1,3 +1,6 @@
+> 本文内容由[Groove Coaster](https://zh.wikipedia.org/wiki/Groove_Coaster)转换而来。
+
+
 [GROOVE_COASTER_AC.JPG](https://zh.wikipedia.org/wiki/File:GROOVE_COASTER_AC.JPG "fig:GROOVE_COASTER_AC.JPG")
 
 《**GROOVE COASTER**》是[TAITO推出的](../Page/太東.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，在部分海外地區被稱為「**RHYTHMVADERS**」\[1\]。2011年推出[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[應用程式](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，2013年推出[街机](../Page/街机.md "wikilink")，2015年6月底推出 [Android](../Page/Android.md "wikilink")[應用程式](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。

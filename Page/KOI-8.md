@@ -1,3 +1,6 @@
+> 本文内容由[KOI-8](https://zh.wikipedia.org/wiki/KOI-8)转换而来。
+
+
 **KOI-8**（<span lang="ru">КОИ-8</span>）是一系列[斯拉夫文字的](../Page/斯拉夫语族.md "wikilink")8位元编码，在[俄罗斯](../Page/俄罗斯.md "wikilink")、[乌克兰](../Page/乌克兰.md "wikilink")等斯拉夫语族地区的网络社群中被广泛采用，使用率比起[ISO/IEC 8859-5更高](https://zh.wikipedia.org/wiki/ISO/IEC_8859-5 "wikilink")。
 
 ## 简介

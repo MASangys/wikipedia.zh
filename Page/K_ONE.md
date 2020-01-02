@@ -1,3 +1,6 @@
+> 本文内容由[K ONE](https://zh.wikipedia.org/wiki/K_ONE)转换而来。
+
+
 **K ONE**是闊耳音樂[韓羅賢](../Page/韓羅賢.md "wikilink")與GMM8866唱片[許常德](../Page/許常德.md "wikilink")，於2002年所成立的[可達娛樂所發掘並加以訓練而成立的男孩團體](https://zh.wikipedia.org/wiki/可達娛樂 "wikilink")。於2003年10月出道、以精湛舞技和舞蹈動作整齊劃一著名。 成立的初期成員有六人，因此曾一度取名為「六壯士」，後因該團為可達娛樂(英文名稱：KEDA)所推出的第一個團體，故取名為**K ONE**。
 
 ## 簡介

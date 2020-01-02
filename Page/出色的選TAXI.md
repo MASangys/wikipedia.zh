@@ -1,3 +1,6 @@
+> 本文内容由[出色的選TAXI](https://zh.wikipedia.org/wiki/出色的選TAXI)转换而来。
+
+
 ，是2014年10月至同年12月於[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")每週二[火十時段](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](../Page/搞笑藝人.md "wikilink")[笨蛋主義升野英知初次編寫](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐](../Page/竹野內豐.md "wikilink")主演\[1\]\[2\]。
 
 2016年4月5日播出2小時特別篇\[3\]。

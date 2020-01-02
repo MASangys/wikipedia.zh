@@ -1,3 +1,6 @@
+> 本文内容由[Open Sound System](https://zh.wikipedia.org/wiki/Open_Sound_System)转换而来。
+
+
 **开放声音系统**（Open Sound System，OSS）是一個在 Unix 操作系統上用於發出和取得聲音的介面。它是基於標準的 Unix 設備（即 POSIX 的讀、寫、ioctl 等）。
 
 OSS 是在 1992年由 [Hannu Savolainen](https://zh.wikipedia.org/wiki/Hannu_Savolainen "wikilink") 創造的，目前可用於11個主流的類Unix操作系統。OSS 可以在4種授權選擇下發布，其中3種是自由軟體授權，因此 OSS 是自由軟體。\[1\]

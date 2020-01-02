@@ -1,3 +1,6 @@
+> 本文内容由[WHITE \(CNBLUE單曲\)](https://zh.wikipedia.org/wiki/WHITE_\(CNBLUE單曲\))转换而来。
+
+
 《**WHITE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第十二張單曲，第九張出道單曲，由[李宗泫](../Page/李宗泫.md "wikilink")、[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink")、[高進永](https://zh.wikipedia.org/wiki/高進永 "wikilink")（）作曲；宗泫、[容和與](../Page/鄭容和.md "wikilink")[miwa\*作詞](https://zh.wikipedia.org/wiki/miwa* "wikilink")，並在2015年4月8日以四個不同版本推出，由[日本華納唱片發行](../Page/日本華納音樂.md "wikilink")\[1\]。
 
 ## 背景

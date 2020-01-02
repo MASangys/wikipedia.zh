@@ -1,3 +1,6 @@
+> 本文内容由[TPI台灣練習生](https://zh.wikipedia.org/wiki/TPI台灣練習生)转换而来。
+
+
 **TPI 台灣練習生** (Taiwan Playground Idol) 是一個台灣練習生團體，由[F.I.R.飛兒樂團](../Page/F.I.R.飛兒樂團.md "wikilink")的吉他手[阿沁成立](https://zh.wikipedia.org/wiki/阿沁 "wikilink")。從2014年2月甄選一期生，每半年甄選一次練習生；2014年8月2日於西門町武昌誠品廣場前甄選第二屆練習生，2015年2月7日於信義威秀廣場甄選第3屆練習生，2015年8月9日於ATT SHOW BOX舉辦夏季總評比演唱會並甄選第4屆練習生。\[1\]\[2\]目前已停止招生
 
 ## 參考資料

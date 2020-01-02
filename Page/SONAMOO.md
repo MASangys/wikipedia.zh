@@ -1,3 +1,6 @@
+> 本文内容由[SONAMOO](https://zh.wikipedia.org/wiki/SONAMOO)转换而来。
+
+
 **SONAMOO**（）是[TS Entertainment於](https://zh.wikipedia.org/wiki/TS_Entertainment "wikilink")2014年底推出的女子組合，最初由7名成員組成，現任成員包括[旼宰](../Page/旼宰.md "wikilink")、[D.ana](../Page/曹恩愛.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、High.D及New Sun。2014年12月29日發行首張迷你專輯《Deja Vu》，並於同日舉辦出道SHOWCASE，2015年1月2日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 「SONAMOO」是韓文「**松樹**」之意，取名為松樹代表希望SONAMOO能像松樹一樣，創作出具有長青生命力的音樂。團徽上的代表動物為**松鼠**。官方粉絲名稱為「**松果**」（솔방울）。全部成員平均經歷練習生涯長達四年，是TS繼2009年推出首個女子組合[Secret後](../Page/Secret_\(組合\).md "wikilink")，相隔五年再推出的新女子團體組合\[1\]。

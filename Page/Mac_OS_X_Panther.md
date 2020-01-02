@@ -1,3 +1,6 @@
+> 本文内容由[Mac OS X Panther](https://zh.wikipedia.org/wiki/Mac_OS_X_Panther)转换而来。
+
+
 **Mac OS X v10.3「Panther」** 是[蘋果电脑](https://zh.wikipedia.org/wiki/蘋果电脑 "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[作業系統的第四個主要發行版本](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。它是在[Mac OS X v10.2](../Page/Mac_OS_X_v10.2.md "wikilink")「Jaguar」之後和[Mac OS X v10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")「Tiger」之前。
 
 蘋果電腦在2003年10月24日發行Panther。蘋果定的銷售價格是，單一使用者授權是$129.00美元，家庭包裝（五個使用者，一個戶口）授權是$199.00美元。

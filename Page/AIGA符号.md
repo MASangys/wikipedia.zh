@@ -1,3 +1,6 @@
+> 本文内容由[AIGA符号](https://zh.wikipedia.org/wiki/AIGA符号)转换而来。
+
+
 [Tel-pictogram.png](https://zh.wikipedia.org/wiki/File:Tel-pictogram.png "fig:Tel-pictogram.png") [Toilet-pictogram.png](https://zh.wikipedia.org/wiki/File:Toilet-pictogram.png "fig:Toilet-pictogram.png")
 
 **AIGA符号**是[美国交通部](https://zh.wikipedia.org/wiki/美国交通部 "wikilink")（DoT, Department of Transportation）和[美国设计师学会](https://zh.wikipedia.org/wiki/美国设计师学会 "wikilink")（AIGA, American Institute of Graphic Arts）共同制定的一种不需要口头语言便能表达有用信息的符号。举例来说：现在广为人知的[厕所和](https://zh.wikipedia.org/wiki/厕所 "wikilink")[电话](../Page/电话.md "wikilink")的标志。自从在1974年推出以来，它们不止被广泛应用于美国的[飞机场](https://zh.wikipedia.org/wiki/飞机场 "wikilink")、[火车站](https://zh.wikipedia.org/wiki/火车站 "wikilink")、[酒店](../Page/酒店.md "wikilink")和其它公众场所，也被世界上很多地方所采用。因为其普遍被人们接受，有些人把它们称为象形符号中的“Helvetica字体”，在某些地方则被称为“人形Helvetica”。

@@ -1,3 +1,6 @@
+> 本文内容由[Satellaview](https://zh.wikipedia.org/wiki/Satellaview)转换而来。
+
+
 **Satellaview**是一种[超级任天堂游戏机的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[卫星](https://zh.wikipedia.org/wiki/卫星通信 "wikilink")[调制解调器](../Page/调制解调器.md "wikilink")[外设](https://zh.wikipedia.org/wiki/外设 "wikilink")，1995年在[日本](../Page/日本.md "wikilink")推出\[1\]。硬件于1995年2月13日在日本开始预定，零售价1.4－1.8万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")\[2\]\[3\]\[4\]，并捆绑BS-X游戏卡和8M记忆卡。
 
 Satellaview由[任天堂](../Page/任天堂.md "wikilink")开发并发售，可接受[卫星电视](../Page/卫星电视.md "wikilink")台[WOWOW](../Page/WOWOW.md "wikilink")之[卫星广播子公司](https://zh.wikipedia.org/wiki/卫星广播 "wikilink")[St.GIGA的广播信号](https://zh.wikipedia.org/wiki/St.GIGA "wikilink")。St.GIGA负责文件服务管理、维护，以及“声音联动”游戏的配音。任天堂数据广播会在固定时段用St.GIGA的广播节目。

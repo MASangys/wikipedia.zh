@@ -1,3 +1,6 @@
+> 本文内容由[NodeMCU](https://zh.wikipedia.org/wiki/NodeMCU)转换而来。
+
+
 [NodeMCU_DEVKIT_1.0_BETA_back.JPG](https://zh.wikipedia.org/wiki/File:NodeMCU_DEVKIT_1.0_BETA_back.JPG "fig:NodeMCU_DEVKIT_1.0_BETA_back.JPG") **NodeMCU**是一个开源\[1\]的[物联网](../Page/物联网.md "wikilink")平台。 它使用[Lua](../Page/Lua.md "wikilink")脚本语言编程\[2\]。该平台基于[eLua](https://zh.wikipedia.org/wiki/eLua "wikilink") \[3\]开源项目,底层使用ESP8266 sdk 0.9.5版本。该平台使用了很多开源项目, 例如 lua-cjson\[4\], spiffs\[5\]. NodeMCU包含了可以运行在 [esp8266](https://zh.wikipedia.org/wiki/esp8266 "wikilink") [Wi-Fi](../Page/Wi-Fi.md "wikilink") [SoC芯片之上的固件](https://zh.wikipedia.org/wiki/SoC "wikilink"),以及基于ESP-12模组的硬件。
 
 ## History

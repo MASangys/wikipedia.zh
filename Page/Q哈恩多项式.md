@@ -1,3 +1,6 @@
+> 本文内容由[Q哈恩多项式](https://zh.wikipedia.org/wiki/Q哈恩多项式)转换而来。
+
+
 **q哈恩多项式**是[哈恩多项式](../Page/哈恩多项式.md "wikilink")的q模拟，以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义如下
 
 \(Q_n(x;a,b,N;q)=\;_{3}\phi_2\left[\begin{matrix}

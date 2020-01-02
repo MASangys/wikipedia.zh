@@ -1,3 +1,6 @@
+> 本文内容由[史努比 The Peanuts Movie](https://zh.wikipedia.org/wiki/史努比_The_Peanuts_Movie)转换而来。
+
+
 《**史努比 The Peanuts Movie**》（，在部分國家記作）是一部於2015年上映的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[電腦動畫](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[喜劇片](https://zh.wikipedia.org/wiki/喜劇片 "wikilink")，改編自[查爾斯·舒茲](../Page/查爾斯·舒茲.md "wikilink")的《[花生漫畫](../Page/花生漫畫.md "wikilink")》。為[藍天工作室](../Page/藍天工作室.md "wikilink")製作、[二十世紀福斯](../Page/二十世紀福斯.md "wikilink")發行。導演為[史蒂芬·馬蒂諾](https://zh.wikipedia.org/wiki/史蒂芬·馬蒂諾 "wikilink")。這部電影是紀念漫畫65週年，於2015年11月6日在[美國上映](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 ## 劇情

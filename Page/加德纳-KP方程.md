@@ -1,3 +1,6 @@
+> 本文内容由[加德纳-KP方程](https://zh.wikipedia.org/wiki/加德纳-KP方程)转换而来。
+
+
 **加德纳-KP方程**（Gardner-KP equation）是一个非线性[偏微分方程](../Page/偏微分方程.md "wikilink")\[1\]
 
 \((u_t+6uu_x+6u^2*u_x+u_xxx)_x+u_yy=0\)

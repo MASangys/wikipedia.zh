@@ -1,3 +1,6 @@
+> 本文内容由[IDEO](https://zh.wikipedia.org/wiki/IDEO)转换而来。
+
+
 **IDEO**，是一家總部在美國[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[帕羅奧多](https://zh.wikipedia.org/wiki/帕羅奧多_\(美國加州\) "wikilink")（Palo Alto）的知名[設計](../Page/設計.md "wikilink")公司，在[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[波士頓](https://zh.wikipedia.org/wiki/波士頓 "wikilink")、[倫敦和](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")都有分公司，近年也在[上海设立了办事处](https://zh.wikipedia.org/wiki/上海 "wikilink")，规模成长迅猛。該公司聲稱自己的理念是專注於幫助顧客創新。目前業務包括有產品設計、設計顧問服務、環境規劃與數位經驗的理解。
 
 IDEO成立於1991年，是由三家小型的設計公司合併的，分別是大衛凱利設計室（由一位[史丹佛大學](../Page/史丹佛大學.md "wikilink")教授，[大衛·凱利所創立](../Page/大衛·凱利_\(設計師\).md "wikilink")）、以及ID TWO設計公司（由[比爾·莫格里吉成立](https://zh.wikipedia.org/wiki/比爾·莫格里吉 "wikilink")）、和Matrix Product 設計公司（由[麥克·納托爾Mike](https://zh.wikipedia.org/wiki/麥克·納托爾 "wikilink") Nuttal成立）。目前IDEO的執行長是[Sandy Speicher](https://zh.wikipedia.org/wiki/Sandy_Speicher "wikilink")、歸屬於Steelcase企業的子公司（Steelcase是世界最大的家具製造商）。而創立之初的三位創辦人如今依然對IDEO有影響力(比爾·莫格里吉於2012年9月8日辭世)。

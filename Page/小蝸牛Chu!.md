@@ -1,3 +1,6 @@
+> 本文内容由[小蝸牛Chu!](https://zh.wikipedia.org/wiki/小蝸牛Chu!)转换而来。
+
+
 **小蝸牛Chu\!**（）是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的一個衍生組合，也是48集團中另一個衍生組合「[小瓢蟲Chu\!](../Page/小瓢蟲Chu!.md "wikilink")」的正式官方對手\[1\]，由AKB48及HKT48中的7名年轻成员组成\[2\]。
 
 ## 簡介

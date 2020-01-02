@@ -1,3 +1,6 @@
+> 本文内容由[Saving All My Love for You](https://zh.wikipedia.org/wiki/Saving_All_My_Love_for_You)转换而来。
+
+
 〈**Saving All My Love for You**〉是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1985年8月13日所發行的單曲，這首單曲皆在英美排行榜摘冠，成為她在這兩地的第1首冠軍單曲，惠妮·休斯頓也因這首單曲獲得第28屆[葛萊美獎](../Page/葛萊美獎.md "wikilink")最佳流行女歌手獎（）\[1\]。
 
 ## 歌曲資料

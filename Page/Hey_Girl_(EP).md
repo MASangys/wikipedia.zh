@@ -1,3 +1,6 @@
+> 本文内容由[Hey Girl \(EP\)](https://zh.wikipedia.org/wiki/Hey_Girl_\(EP\))转换而来。
+
+
 《**Hey Girl**》是[臺灣](../Page/臺灣.md "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[黑Girl](../Page/黑Girl.md "wikilink")的首張同名EP（總計第四張EP），於2011年10月18日正式發行。這張EP是換了新東家[群石國際後所發行的](https://zh.wikipedia.org/wiki/群石國際 "wikilink")；也是經歷多次成員變動，[黑Girl](../Page/黑Girl.md "wikilink")首次以3人姿態和前**紅豆少女組**的[子庭](../Page/張子庭.md "wikilink")（紅豆/庭瑋）加入後的首張唱片\[1\]\[2\]\[3\]\[4\]\[5\]。
 
 ## 曲目

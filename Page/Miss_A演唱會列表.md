@@ -1,3 +1,6 @@
+> 本文内容由[Miss A演唱會列表](https://zh.wikipedia.org/wiki/Miss_A演唱會列表)转换而来。
+
+
 **miss A演唱會**包含Showcase、巡迴演唱會以及參與的拼盤演唱會。[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（）是隸屬於[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[韓國四人女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，2010年11月22日在北京舉行首場Showcase\[1\]，2014年1月25日展開miss A的首次亞洲巡迴演唱會\[2\]。
 
 ## 巡迴演唱會

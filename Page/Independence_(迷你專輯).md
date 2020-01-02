@@ -1,3 +1,6 @@
+> 本文内容由[Independence \(迷你專輯\)](https://zh.wikipedia.org/wiki/Independence_\(迷你專輯\))转换而来。
+
+
 《**Independence**》為一張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2010年8月7日在粵語大碟《[Surrealism](https://zh.wikipedia.org/wiki/Surrealism_\(Kolor_專輯\) "wikilink")》發行後推出，是香港搖滾樂隊[Kolor](../Page/Kolor.md "wikilink")發行的首張迷你專輯。而從這張EP推出之後，[Kolor](../Page/Kolor.md "wikilink")樂隊後來推出的作品全為迷你專輯，《[Surrealism](https://zh.wikipedia.org/wiki/Surrealism_\(Kolor_專輯\) "wikilink")》這張專輯，也成為了[Kolor](../Page/Kolor.md "wikilink")發行的最後一張大碟。
 
 ## 專輯介紹

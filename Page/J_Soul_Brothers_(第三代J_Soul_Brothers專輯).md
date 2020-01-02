@@ -1,3 +1,6 @@
+> 本文内容由[J Soul Brothers \(第三代J Soul Brothers專輯\)](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\))转换而来。
+
+
 《**J Soul Brothers**》是[日本](../Page/日本.md "wikilink")演唱團體[第三代J Soul Brothers的第一張原創專輯](../Page/J_Soul_Brothers.md "wikilink")。2011年6月1日發行，唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

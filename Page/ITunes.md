@@ -1,3 +1,6 @@
+> 本文内容由[ITunes](https://zh.wikipedia.org/wiki/ITunes)转换而来。
+
+
 {{ About | 一款应用程序 | 在线媒体服务 | iTunes Store }}
 
 {{ trivia | time = 2015-07-02T19:48:55+00:00 }}

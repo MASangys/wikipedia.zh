@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢)转换而来。
+
+
 《**哆啦A夢**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）為[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")筆下著名的[兒童](https://zh.wikipedia.org/wiki/兒童漫畫 "wikilink")、[科幻漫畫作品](https://zh.wikipedia.org/wiki/科幻漫畫 "wikilink")，自1969年12月開始連載，共發行[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")45冊（未收錄作品參見[哆啦A夢+](https://zh.wikipedia.org/wiki/哆啦A夢+ "wikilink")）\[1\]\[2\]、原著大長篇漫畫17本（加上其弟子所編繪之大長篇共24本）\[3\]，至今已成為日本國民級長壽動漫。
 
 本作主要敘述一隻來自22世纪的[猫](../Page/猫.md "wikilink")型[机器人](../Page/机器人.md "wikilink")——[哆啦A夢](../Page/哆啦A夢_\(角色\).md "wikilink")，受原本主人[野比世修的託付](https://zh.wikipedia.org/wiki/世修 "wikilink")，[回到20/21世紀](../Page/时间旅行.md "wikilink")，幫助世修的高祖父[野比大雄](../Page/野比大雄.md "wikilink")的故事。本作品在日本、亞洲和歐洲知名度高，作品中亦有滲入當時社會問題。\[4\]

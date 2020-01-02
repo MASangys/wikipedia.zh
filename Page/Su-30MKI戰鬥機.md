@@ -1,3 +1,6 @@
+> 本文内容由[Su-30MKI戰鬥機](https://zh.wikipedia.org/wiki/Su-30MKI戰鬥機)转换而来。
+
+
 **Su-30MKI戰鬥機**（[北約代號](../Page/北約代號.md "wikilink")：側衛-H）是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[蘇霍伊公司所開發的一種](https://zh.wikipedia.org/wiki/蘇霍伊公司 "wikilink")[多用途雙座](https://zh.wikipedia.org/wiki/多用途戰鬥機 "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")。該型是發展自蘇-30"M"型戰鬥機，主要由俄羅斯和印度生產使用。現時Su-30MKI服務於[印度空軍](../Page/印度空軍.md "wikilink")，是印度空軍的主力戰機。
 
 Su-30MKI是[俄語Су](https://zh.wikipedia.org/wiki/俄語 "wikilink")-30МКИ的[拉丁轉寫](https://zh.wikipedia.org/wiki/拉丁轉寫 "wikilink")。МКИ是модернизированный, коммерческий, индийский的縮寫，意思是[印度](../Page/印度.md "wikilink")的現代化商業版。

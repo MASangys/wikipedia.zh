@@ -1,3 +1,6 @@
+> 本文内容由[Midway](https://zh.wikipedia.org/wiki/Midway)转换而来。
+
+
 **Midway Games**是原美国电子游戏开发商与发行商。Midway的作品有[真人快打系列](../Page/真人快打系列.md "wikilink")、[吃豆子](https://zh.wikipedia.org/wiki/吃豆子 "wikilink")、[间谍猎手](https://zh.wikipedia.org/wiki/间谍猎手 "wikilink")、[Tron](https://zh.wikipedia.org/wiki/Tron "wikilink")、[Rampage等](https://zh.wikipedia.org/wiki/Rampage "wikilink")。Midway还获得了原[威廉姆斯电子和](https://zh.wikipedia.org/wiki/威廉姆斯电子 "wikilink")[雅达利的游戏](https://zh.wikipedia.org/wiki/雅达利 "wikilink")，比如[Defender](https://zh.wikipedia.org/wiki/Defender "wikilink")、[鸵鸟骑士](https://zh.wikipedia.org/wiki/鸵鸟骑士 "wikilink")、[机器人大战2084](https://zh.wikipedia.org/wiki/机器人大战2084 "wikilink")、[圣铠传说等](https://zh.wikipedia.org/wiki/圣铠传说 "wikilink")。
 
 公司前身为1958年建立的游乐场游戏生产商Midway Manufacturing。1973年公司转向[互动娱乐产业](https://zh.wikipedia.org/wiki/互动娱乐 "wikilink")，开发并发行[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")。Midway在1988年收购并重组[WMS产业](../Page/WMS产业.md "wikilink")。在引领街机业多年后，公司在1996年起进入家用游戏市场，并于同年[首次公开募股](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")。WMS在1998年从Midway分离，但后者依然对前者控股。Midway在2000年时是第四大电子游戏发行商\[1\]。

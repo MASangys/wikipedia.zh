@@ -1,3 +1,6 @@
+> 本文内容由[IEM英特爾極限高手盃](https://zh.wikipedia.org/wiki/IEM英特爾極限高手盃)转换而来。
+
+
 [IEMCeBIT1.jpg](https://zh.wikipedia.org/wiki/File:IEMCeBIT1.jpg "fig:IEMCeBIT1.jpg")上的IEM總決賽\]\]
 
 **英特爾極限高手盃大賽**（，[縮寫](../Page/縮寫.md "wikilink")：**IEM**）。持有此大賽的母公司為。目前第9季的賽事包含《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》與《[星海爭霸II：蟲族之心](https://zh.wikipedia.org/wiki/星海爭霸II：蟲族之心 "wikilink")》。在[卡托維治舉行世界大賽](https://zh.wikipedia.org/wiki/卡托維治 "wikilink")。\[1\]2017年官方宣布取消《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》項目，並於7月新增Rift Rivals。\[2\] 此賽事台灣16:1勝利後遭禁止參賽\[3\]

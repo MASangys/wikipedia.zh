@@ -1,3 +1,6 @@
+> 本文内容由[XnView](https://zh.wikipedia.org/wiki/XnView)转换而来。
+
+
 **XnView**為一款支持圖片瀏覽、轉換和編輯的[多平台軟體](https://zh.wikipedia.org/wiki/多平台軟體 "wikilink")。该软件支持改變[用戶界面](https://zh.wikipedia.org/wiki/用戶界面 "wikilink")[語言](../Page/語言.md "wikilink")以及自定义[工具栏](../Page/工具栏.md "wikilink")[按鈕与](https://zh.wikipedia.org/wiki/按鈕 "wikilink")[面板](https://zh.wikipedia.org/wiki/面板 "wikilink")。它支援讀取超過500種的[圖檔格式及部份](https://zh.wikipedia.org/wiki/圖檔格式 "wikilink")[音频文件格式](../Page/音频文件格式.md "wikilink")及[视频文件格式](../Page/视频文件格式.md "wikilink")，亦支援寫入50種圖片格式。提供免費的個人使用及簡易操作。可將壓縮檔以資料夾方式開啟、依[EXIF](../Page/EXIF.md "wikilink")及[IPTC作圖片搜尋](https://zh.wikipedia.org/wiki/IPTC "wikilink")、圖片相似比對、對圖片作[批次命名](https://zh.wikipedia.org/wiki/批次命名 "wikilink")、格式轉換及套用影像調整，並支援[無損耗旋轉](https://zh.wikipedia.org/wiki/JPEG#無損耗旋轉_\(lossless_JPEG_rotation\) "wikilink")。類似功能之[軟體有](https://zh.wikipedia.org/wiki/軟體 "wikilink")[ACDSee](../Page/ACDSee.md "wikilink")等。
 
 ## XnView MP

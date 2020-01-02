@@ -1,3 +1,6 @@
+> 本文内容由[比亚迪·Qin](https://zh.wikipedia.org/wiki/比亚迪·Qin)转换而来。
+
+
 **比亞迪**·Qin（），是由[比亞迪汽車所生產製造的一款](../Page/比亚迪汽车.md "wikilink")[新能源汽车](../Page/新能源汽车.md "wikilink")。最初版本为[插电式混合动力汽车](https://zh.wikipedia.org/wiki/插电式混合动力汽车 "wikilink")，充飽電力可行駛70公里，后推出纯电动版本。首次亮相於2012[北京国际汽车展览会](../Page/北京国际汽车展览会.md "wikilink")，以[概念車](../Page/概念車.md "wikilink")形式展出。该车以[中國](../Page/中國.md "wikilink")第一個統一的[封建王朝](https://zh.wikipedia.org/wiki/封建王朝 "wikilink")"[秦](https://zh.wikipedia.org/wiki/秦 "wikilink")"為命名，也是[比亚迪](../Page/比亚迪.md "wikilink")『[王朝系列](https://zh.wikipedia.org/wiki/王朝系列 "wikilink")』汽车中的一款。售價從人民幣一十八萬九千八百元起計價，約合三萬一千美元，适用中國政府對[环保车辆的补贴和免税](https://zh.wikipedia.org/wiki/环保车辆 "wikilink")。
 
 ## 參考資料

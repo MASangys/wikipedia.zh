@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 6](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_6)转换而来。
+
+
 **GeForce 6**是[NVIDIA第六代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[繪圖處理器的總稱](https://zh.wikipedia.org/wiki/GPU "wikilink")，其代號為**NV40**。在支援[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[DirectX](../Page/DirectX.md "wikilink") 9.0c規格下，全數均支援Vertex及Pixel shader 3.0版。NVIDIA用了10億美金研發。該系列於2004年4月14日推出\[1\] 並為[GeForce](../Page/GeForce.md "wikilink")系列的生產線增添了不少新特色，計有[Pure Video功能](https://zh.wikipedia.org/wiki/Pure_Video "wikilink")、支援Shader Model 3.0版，以及支援[SLI技術](https://zh.wikipedia.org/wiki/SLI "wikilink")。但是產品卻仍存在[GeForce FX系列的一些缺點](https://zh.wikipedia.org/wiki/GeForce_FX "wikilink")，例如ShaderModel 2.0的表現較差。然而在技術及市場上，NVIDIA仍可以GeForce 6系列來與[ATI同類產品競爭](https://zh.wikipedia.org/wiki/ATI "wikilink")。NVIDIA聲稱NV40核心效能比NV38提升一倍。整体而言GeForce 6完全在高端市場擊敗[ATi的](https://zh.wikipedia.org/wiki/ATi "wikilink")[Radeon X Series](https://zh.wikipedia.org/wiki/Radeon_X_Series "wikilink")。
 
 ## 產品特色

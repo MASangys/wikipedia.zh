@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Illustrator](https://zh.wikipedia.org/wiki/Adobe_Illustrator)转换而来。
+
+
 [替代=Danial Taherifar](https://zh.wikipedia.org/wiki/File:Danial-Taherifar.png "fig:替代=Danial Taherifar") **Adobe Illustrator**，簡稱“**AI**”，是[Adobe](../Page/Adobe.md "wikilink")系统公司推出的基于[向量](../Page/向量.md "wikilink")的图形製作軟體。最初是1986年为[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[麦金塔电脑设计开发的](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")，1987年1月发布，在此之前它只是Adobe内部的[字体](../Page/字体.md "wikilink")开发和[PostScript](../Page/PostScript.md "wikilink")编辑[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。
 
 ## 软件特点

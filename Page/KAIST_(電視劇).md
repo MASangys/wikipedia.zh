@@ -1,3 +1,6 @@
+> 本文内容由[KAIST \(電視劇\)](https://zh.wikipedia.org/wiki/KAIST_\(電視劇\))转换而来。
+
+
 《**KAIST**》（，港譯：**科技大學**），是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台製作的電視劇](../Page/SBS_\(韓國\).md "wikilink")，[宋智娜](../Page/宋智娜.md "wikilink")作家執筆，於1999年1月24日開始播出，劇情關於在[韓國科學技術院](https://zh.wikipedia.org/wiki/韓國科學技術院 "wikilink")（KAIST）就讀的大學生的生活。由於本劇很受大眾歡迎，所以其後又再製作續集，共兩季。第1集\~第67集為第一季，第68集\~第81集為第二季。
 
 ## 演員陣容

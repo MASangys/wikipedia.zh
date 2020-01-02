@@ -1,3 +1,6 @@
+> 本文内容由[Starting Over](https://zh.wikipedia.org/wiki/Starting_Over)转换而来。
+
+
 《**Starting Over**》是[太極樂隊](../Page/太極樂隊.md "wikilink")的[雷有輝於](https://zh.wikipedia.org/wiki/雷有輝 "wikilink")2005年所發行的首張個人專輯。
 
 ## 介紹

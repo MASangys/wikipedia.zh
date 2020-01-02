@@ -1,3 +1,6 @@
+> 本文内容由[X诗社](https://zh.wikipedia.org/wiki/X诗社)转换而来。
+
+
 **X诗社**，也被称为**X集团**、**X小组**，是指1963年，几位[北京的热爱文学的青年](https://zh.wikipedia.org/wiki/北京 "wikilink")（包括一些[高干子弟](../Page/高干子弟.md "wikilink")）组织的一个文学社团，互相交流作品、感想，X表示很多含义，包括[未知数](https://zh.wikipedia.org/wiki/未知数 "wikilink")、[十字架](../Page/十字架.md "wikilink")、[十字街头](../Page/十字街头.md "wikilink")，乃至“探索[哲学](../Page/哲学.md "wikilink")领域中诸多难题”。但这个文学社团，后被当时的[中国共产党](../Page/中国共产党.md "wikilink")政府，当作[反革命集团来处理](https://zh.wikipedia.org/wiki/反革命集团 "wikilink")，甚至[周恩来](../Page/周恩来.md "wikilink")都亲自过问此事。
 
 ## 成员

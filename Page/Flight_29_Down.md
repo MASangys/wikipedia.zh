@@ -1,3 +1,6 @@
+> 本文内容由[Flight 29 Down](https://zh.wikipedia.org/wiki/Flight_29_Down)转换而来。
+
+
 《**Flight 29 Down**》是关于一组在岛上搁浅年轻人的[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")。[Discovery Kids制作](https://zh.wikipedia.org/wiki/Discovery_Kids "wikilink")。节目由[Stan Rogow和](https://zh.wikipedia.org/wiki/Stan_Rogow "wikilink")[D. J. MacHale创作](https://zh.wikipedia.org/wiki/D._J._MacHale "wikilink")。执行制作人是Rogow、MacHale、Shauna Shapiro Jackson、和Gina & Rann Watumull。前两季在[Discovery Kids播放](https://zh.wikipedia.org/wiki/Discovery_Kids "wikilink")。
 
 连续剧“第三季暨最终季”在2007年2月5日开拍，\[1\]被制作成四部电影而不是前两季的剧集格式。\[2\]《Flight 29 Down: The Movie》促销在第二季完结期间推出。

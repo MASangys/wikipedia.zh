@@ -1,3 +1,6 @@
+> 本文内容由[假面骑士SPIRITS](https://zh.wikipedia.org/wiki/假面骑士SPIRITS)转换而来。
+
+
 《**幪面超人SPIRITS**》（）是由[石森章太郎原作](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")，[村枝賢一繪画的](https://zh.wikipedia.org/wiki/村枝賢一 "wikilink")[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")。2001年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[月刊Magazine Z](https://zh.wikipedia.org/wiki/月刊Magazine_Z "wikilink")》連載。單行本全16冊。
 
 2009年在講談社「[月刊少年Magazine](../Page/月刊少年Magazine.md "wikilink")」连载續篇《新 幪面超人SPIRITS》，單行本既刊18冊。

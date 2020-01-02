@@ -1,3 +1,6 @@
+> 本文内容由[Zotero](https://zh.wikipedia.org/wiki/Zotero)转换而来。
+
+
 **Zotero** 是一款[自由及开放源代码的](../Page/自由及开放源代码软件.md "wikilink")[文献管理软件](https://zh.wikipedia.org/wiki/文献管理软件 "wikilink")，管理书目信息（如作者、标题、出版社、摘要、阅读笔记等）及相关材料（如[PDF文件等](https://zh.wikipedia.org/wiki/PDF "wikilink"))。其最著名的特性是作为浏览器插件、在线同步、与文档编辑软件如[Microsoft Word](../Page/Microsoft_Word.md "wikilink")、[LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")、[OpenOffice.org Writer](../Page/OpenOffice.org_Writer.md "wikilink")、[NeoOffice](../Page/NeoOffice.md "wikilink")等集成，可生成、生成页面脚注或文后的参考文献（bibliographies）。
 
 ## 词源

@@ -1,3 +1,6 @@
+> 本文内容由[Black Cat \(歌曲\)](https://zh.wikipedia.org/wiki/Black_Cat_\(歌曲\))转换而来。
+
+
 〈**黑貓**〉（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Black Cat**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1990年8月推出的單曲，這首單曲在美單曲榜獲得一週冠軍，成為珍娜·傑克森第4首美國冠軍單曲\[1\]。
 
 ## 歌曲介紹

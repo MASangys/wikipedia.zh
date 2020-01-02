@@ -1,3 +1,6 @@
+> 本文内容由[DAPI](https://zh.wikipedia.org/wiki/DAPI)转换而来。
+
+
 **DAPI**即**4',6-二脒基-2-苯基吲哚**（4',6-**d**i**a**midino-2-**p**henyl**i**ndole），是一種能夠與[DNA強力結合的](https://zh.wikipedia.org/wiki/DNA "wikilink")[熒光](https://zh.wikipedia.org/wiki/熒光 "wikilink")[染料](../Page/染料.md "wikilink")，常用於螢光[顯微鏡](../Page/顯微鏡.md "wikilink")觀測\[1\]。因為DAPI可以透過完整的[細胞膜](https://zh.wikipedia.org/wiki/細胞膜 "wikilink")\[2\]，它可以用于活[細胞和固定細胞的](https://zh.wikipedia.org/wiki/細胞 "wikilink")[染色](https://zh.wikipedia.org/wiki/染色_\(生物學\) "wikilink")。
 
 ## 历史

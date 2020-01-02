@@ -1,3 +1,6 @@
+> 本文内容由[KOI8-R](https://zh.wikipedia.org/wiki/KOI8-R)转换而来。
+
+
 **KOI8-R**是[KOI-8](../Page/KOI-8.md "wikilink")系列的[斯拉夫文字](../Page/斯拉夫语族.md "wikilink")8位元编码，供[俄语及保加利亚语使用](https://zh.wikipedia.org/wiki/俄语 "wikilink")。在[Unicode未流行之前](https://zh.wikipedia.org/wiki/Unicode "wikilink")，KOI8-R 是最为广泛使用的俄语编码，使用率甚至比[ISO/IEC 8859-5还高](https://zh.wikipedia.org/wiki/ISO/IEC_8859-5 "wikilink")。
 
 *Andrey Chernov* 把 KOI8-R 整理后，提交了给[互联网协会](../Page/互联网协会.md "wikilink")（ISOC），成了 RFC 1489 文件 ("Registration of a cyrillic Character Set")。

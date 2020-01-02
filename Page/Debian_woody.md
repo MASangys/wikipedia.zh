@@ -1,3 +1,6 @@
+> 本文内容由[Debian woody](https://zh.wikipedia.org/wiki/Debian_woody)转换而来。
+
+
 **Debian 3.0**又称为Debian woody ，是[Debian](../Page/Debian.md "wikilink")最新的稳定发行版，发行于2002年7月19日。它的最新更新版本Debian 3.0r6发行于2005年6月2日。里面的软件包基本不再变化，只做安全更新，所以里面的软件可能不是最新的版本，但是却是相对稳定的版本。
 
 Debian woody支持的机器架构有：

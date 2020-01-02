@@ -1,3 +1,6 @@
+> 本文内容由[PdfTeX](https://zh.wikipedia.org/wiki/PdfTeX)转换而来。
+
+
 __NOTOC__ **pdfTeX**是[高德纳](../Page/高德纳.md "wikilink")的排版程序[TeX](../Page/TeX.md "wikilink")的附加组件，最初由Hàn Thế Thành在[捷克](../Page/捷克.md "wikilink")[布尔诺](https://zh.wikipedia.org/wiki/布尔诺 "wikilink")[马萨里克大学信息学院作为他的哲学博士学位论文的一部分编写并开发给公众使用](https://zh.wikipedia.org/wiki/马萨里克大学 "wikilink")。创作这个TeX附加组件的想法是在1990年代初期构想的，当时Jiří Zlatuška和Phil Taylor跟高德纳在斯坦福大学讨论了一些开发上的主意。高德纳后来在布尔诺马萨里克大学接受荣誉博士学位的时候面见了Hàn Thế Thành。
 
 pdfTeX的两大突出特点是产生有内容的字符突出，以及[赫尔曼·察普夫](../Page/赫尔曼·察普夫.md "wikilink")提出的用于改善排版页面灰度的展开字体。都延伸核心段落打破惯例。二者都在Thành的论文中作了探讨。\[1\]

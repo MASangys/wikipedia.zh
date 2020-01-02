@@ -1,3 +1,6 @@
+> 本文内容由[Xmas](https://zh.wikipedia.org/wiki/Xmas)转换而来。
+
+
 **Xmas**（亦寫作**X-mas**），是[耶誕節英文](https://zh.wikipedia.org/wiki/耶誕節 "wikilink")**Christmas**的意思。
 
 最正統的寫法是Xmas，而X'mas乃東亞地區誤用詞。

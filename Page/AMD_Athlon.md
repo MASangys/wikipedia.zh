@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon](https://zh.wikipedia.org/wiki/AMD_Athlon)转换而来。
+
+
 **Athlon**是美國[AMD公司的一種為](https://zh.wikipedia.org/wiki/AMD "wikilink")[x86計算機平台而設的](https://zh.wikipedia.org/wiki/x86 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，也是迄今为止AMD最为成功的一代处理器架构，其研发负责人是前AMD首席执行官[Dirk Meyer](https://zh.wikipedia.org/wiki/Dirk_Meyer "wikilink")。其中文官方名稱為「**速龍**」。第一款Athlon處理器屬於AMD的第七代（K7），與當時[英特爾的Pentium](https://zh.wikipedia.org/wiki/英特爾 "wikilink") 3處理器競爭，及後出現Athlon XP、MP等。現時最新的Athlon處理器有屬於[Zen架構的Athlon](../Page/AMD_Zen.md "wikilink") APU系列。
 
 ## Athlon发展史

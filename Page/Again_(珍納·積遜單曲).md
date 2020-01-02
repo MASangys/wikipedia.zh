@@ -1,3 +1,6 @@
+> 本文内容由[Again \(珍納·積遜單曲\)](https://zh.wikipedia.org/wiki/Again_\(珍納·積遜單曲\))转换而来。
+
+
 《**再一次**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Again**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1993年10月發行的單曲，這首單曲曾獲得告示牌單曲榜兩週冠軍，成為珍娜·傑克森第7首美國冠軍單曲。電影主題曲〈再一次〉榮獲[金球獎](../Page/金球獎.md "wikilink")「最佳電影歌曲獎」以及提名第66屆[奧斯卡](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")「最佳原創歌曲獎」\[1\]\[2\]。
 
 ## 歌曲介紹

@@ -1,3 +1,6 @@
+> 本文内容由[Socket.IO](https://zh.wikipedia.org/wiki/Socket.IO)转换而来。
+
+
 '''Socket.IO ''' 是一个面向实时 [web 应用的](https://zh.wikipedia.org/wiki/web_应用 "wikilink") [JavaScript](../Page/JavaScript.md "wikilink") 库。它使得服务器和客户端之间实时双向的通信成为可能。他有两个部分：在[浏览器中运行的](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[客户端库](https://zh.wikipedia.org/wiki/客户端 "wikilink")，和一个面向[Node.js](../Page/Node.js.md "wikilink")的服务端库。两者有着几乎一样的[API](https://zh.wikipedia.org/wiki/API "wikilink")。像Node.js一样，它也是[事件驱动的](https://zh.wikipedia.org/wiki/事件驱动程序设计 "wikilink").
 
 Socket.IO 主要使用[WebSocket](../Page/WebSocket.md "wikilink")协议。但是如果需要的话，Socket.io可以回退到几种其它方法，例如[Adobe Flash](../Page/Adobe_Flash.md "wikilink") Sockets，[JSONP](../Page/JSONP.md "wikilink")拉取，或是[传统的AJAX拉取](https://zh.wikipedia.org/wiki/Comet_\(web技术\) "wikilink")，\[1\]并且在同时提供完全相同的接口。尽管它可以被用作WebSocket的[包装库](https://zh.wikipedia.org/wiki/wrapper_library "wikilink")，它还是提供了许多其它功能，比如广播至多个套接字，存储与不同客户有关的数据，和[异步IO操作](https://zh.wikipedia.org/wiki/asynchronous_I/O "wikilink")。

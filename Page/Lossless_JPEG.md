@@ -1,3 +1,6 @@
+> 本文内容由[Lossless JPEG](https://zh.wikipedia.org/wiki/Lossless_JPEG)转换而来。
+
+
 **Lossless JPEG**是一種無失真的圖像壓縮標準，在1993年由組織創建和維護，但是現在也可以用來代表Joint Photographic Experts Group所創建的無失真壓縮，包含了[JPEG 2000還有JPEG](../Page/JPEG_2000.md "wikilink")-LS。
 
 Lossless JPEG在1993年被建立並加入了[JPEG](../Page/JPEG.md "wikilink")的標準之中，JPEG的壓縮方式通常是破壞性資料壓縮（lossy compression），意即在壓縮過程中圖像的品質會遭受到可見的破壞，Lossless JPEG則是用了與傳統的JPEG完全不同的方法來壓縮，採用無失真的壓縮方式，但並沒有受到廣泛的支援。

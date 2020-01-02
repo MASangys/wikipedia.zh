@@ -1,3 +1,6 @@
+> 本文内容由[奥林巴斯PEN F系列](https://zh.wikipedia.org/wiki/奥林巴斯PEN_F系列)转换而来。
+
+
 [Olympus_Pen_FT_5988.jpeg](https://zh.wikipedia.org/wiki/File:Olympus_Pen_FT_5988.jpeg "fig:Olympus_Pen_FT_5988.jpeg")
 
 **PEN F系列**是由[奥林巴斯公司推出的](https://zh.wikipedia.org/wiki/奥林巴斯 "wikilink")[半幅](../Page/半幅.md "wikilink")[单反相机系统](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，采用可换镜头设计。全系统自1963年推出 PEN F 机身开始，一直到1970年的 PEN FV 生产结束，一共有3台机身与18枚镜头。

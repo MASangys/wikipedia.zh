@@ -1,3 +1,6 @@
+> 本文内容由[OpenLDAP](https://zh.wikipedia.org/wiki/OpenLDAP)转换而来。
+
+
 **OpenLDAP**是[轻型目录访问协议](../Page/轻型目录访问协议.md "wikilink")（Lightweight Directory Access Protocol，LDAP）的自由和[开源的实现](https://zh.wikipedia.org/wiki/开源 "wikilink")，在其OpenLDAP许可证下发行，并已经被包含在众多流行的[Linux](../Page/Linux.md "wikilink")发行版中。
 
 它主要包括下述4个部分：

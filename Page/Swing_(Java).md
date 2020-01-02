@@ -1,3 +1,6 @@
+> 本文内容由[Swing \(Java\)](https://zh.wikipedia.org/wiki/Swing_\(Java\))转换而来。
+
+
 [Gui-widgets.png](https://zh.wikipedia.org/wiki/File:Gui-widgets.png "fig:Gui-widgets.png")的使用\]\]
 
 **Swing**是一个为[Java](../Page/Java.md "wikilink")设计的[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")，屬於[Java基础类的一部分](https://zh.wikipedia.org/wiki/JFC "wikilink")。Swing包括了[图形用户界面](../Page/图形用户界面.md "wikilink")（GUI）功能，其组件包含：文本框、文本域、按钮、表格、列表……等等。

@@ -1,3 +1,6 @@
+> 本文内容由[JUKE BOX \(關西傑尼斯8專輯\)](https://zh.wikipedia.org/wiki/JUKE_BOX_\(關西傑尼斯8專輯\))转换而来。
+
+
 《**JUKE BOX**》（）為[日本](../Page/日本.md "wikilink")男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第6張專輯。2013年10月16日由IMPERIAL RECORDS發行。
 
 ## 概要

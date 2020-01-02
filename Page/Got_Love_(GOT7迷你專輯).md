@@ -1,3 +1,6 @@
+> 本文内容由[Got Love \(GOT7迷你專輯\)](https://zh.wikipedia.org/wiki/Got_Love_\(GOT7迷你專輯\))转换而来。
+
+
 《**Got Love**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第二張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2014年6月23日發行，唱片公司為KT Music，主打歌曲為《A》。
 
 ## 背景

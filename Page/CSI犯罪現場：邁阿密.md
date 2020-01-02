@@ -1,3 +1,6 @@
+> 本文内容由[CSI犯罪現場：邁阿密](https://zh.wikipedia.org/wiki/CSI犯罪現場：邁阿密)转换而来。
+
+
 《**CSI犯罪現場：邁阿密**》（****）是[哥倫比亞廣播公司電視劇](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")《[CSI犯罪現場](../Page/CSI犯罪現場.md "wikilink")》（）的[衍生影集](https://zh.wikipedia.org/wiki/衍生影集 "wikilink")。與原CSI影集一樣，《CSI犯罪現場：邁阿密》是一齣關於一群鑑識科學家的[刑事](https://zh.wikipedia.org/wiki/刑事 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")。故事背景是設定在今日[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佛羅里達州的](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[邁阿密](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")。在北美平均每一集約有2千萬個觀眾收看，使得它成為星期一收視第一的影集，也是最多人收看的影集。這個系列影集在全世界幾十個國家都有播出，它是由[亞特蘭提斯同盟](https://zh.wikipedia.org/wiki/亞特蘭提斯同盟 "wikilink")（）行銷至國際間。影集於2002年9月23日首播。
 
 小組成員調查神秘與不尋常的死因，以判定是誰以及如何殺了他們。成員們也會解決一些其他的重罪，例如強姦罪的採證，但這個系列影集的主題仍以謀殺案件為主。

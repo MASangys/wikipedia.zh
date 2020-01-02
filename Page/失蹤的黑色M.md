@@ -1,3 +1,6 @@
+> 本文内容由[失蹤的黑色M](https://zh.wikipedia.org/wiki/失蹤的黑色M)转换而来。
+
+
 《**失蹤的黑色M**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2015年3月28日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），講述了調查1%失蹤案件的專案組員警和惡性犯罪嫌疑人之間對決的故事。[FBI](https://zh.wikipedia.org/wiki/FBI "wikilink") 出身 [IQ](https://zh.wikipedia.org/wiki/IQ "wikilink") 187的天才刑警吉秀賢（[金剛-{于}-](../Page/金剛于.md "wikilink") 飾）和純度100%的本土實力刑警吳大榮（[朴喜洵](../Page/朴喜洵.md "wikilink") 飾）的拍檔將會怎樣在一定期限內找出失踪者並與前所未聞的惡性犯罪者抗衡的故事，以“失踪”為主題，不僅將描繪尋找失踪者的過程，還將會是一段尋找社會丟失的正義、價值的旅程，是一部全新題材的刑偵劇。\[1\]\[2\]
 
 ## 演員陣容

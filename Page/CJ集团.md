@@ -1,3 +1,6 @@
+> 本文内容由[CJ集团](https://zh.wikipedia.org/wiki/CJ集团)转换而来。
+
+
 **CJ公司**（，又译**希杰公司**），是一家总部位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的大型跨国公司](https://zh.wikipedia.org/wiki/首尔 "wikilink")，主要业务包括食品餐饮、娱乐传媒、家庭购物与物流、生物工程。\[1\]CJ集团起源于韩国[三星集团的](https://zh.wikipedia.org/wiki/三星集团 "wikilink")“第一制糖”，其名也源自於第一製糖的羅馬拼音字首(**C**heil **J**edang)。1990年代，三星集团进行了高强度的产业结构调整後，拆分出第一製糖，但經營者仍為三星集团家族成員。\[2\]
 
 韩国知名娱乐公司[Mnet Media](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")、韩国最大的电影分销商[CJ E\&M](../Page/CJ_E&M.md "wikilink")\[3\]和韩国最大的连锁影院[CJ CGV都是希杰集团旗下的子公司](../Page/CJ_CGV.md "wikilink")。

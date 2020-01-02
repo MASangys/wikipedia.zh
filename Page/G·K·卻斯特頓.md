@@ -1,3 +1,6 @@
+> 本文内容由[G·K·卻斯特頓](https://zh.wikipedia.org/wiki/G·K·卻斯特頓)转换而来。
+
+
 **吉尔伯特·基思·卻斯特頓**（，），[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、文學評論者以及[神學](../Page/神學.md "wikilink")家。熱愛[推理小說](../Page/推理小說.md "wikilink")，不但致力於推廣，更親自下海撰寫[推理小說](../Page/推理小說.md "wikilink")，所創造最著名的角色是「[布朗神父](../Page/布朗神父.md "wikilink")」，首開以[犯罪心理學](../Page/犯罪心理學.md "wikilink")方式推理案情之先河，與[福爾摩斯](https://zh.wikipedia.org/wiki/福爾摩斯 "wikilink")-{注}-重物證推理的派別分庭抗禮。
 
 ## 生平

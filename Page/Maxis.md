@@ -1,3 +1,6 @@
+> 本文内容由[Maxis](https://zh.wikipedia.org/wiki/Maxis)转换而来。
+
+
 **Maxis**（音譯：**馬西斯**）是一家[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[軟件公司](https://zh.wikipedia.org/wiki/軟件 "wikilink")，由[威爾·萊特](../Page/威爾·萊特.md "wikilink")和Jeff Braun在1987年創辦。1997年被[美商藝電收購](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")，現在是[美商藝電旗下的子公司](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")。以制作“模拟”（Sim）系列游戏而著称。
 
 2015年3月4日，EA宣布将关闭Maxis的原总部所在的Maxis Emeryville工作室。\[1\]

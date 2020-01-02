@@ -1,3 +1,6 @@
+> 本文内容由[L型细菌](https://zh.wikipedia.org/wiki/L型细菌)转换而来。
+
+
 [TEM_of_L-form_bacteria-Mark_Leaver_Newcastle_University.jpeg](https://zh.wikipedia.org/wiki/File:TEM_of_L-form_bacteria-Mark_Leaver_Newcastle_University.jpeg "fig:TEM_of_L-form_bacteria-Mark_Leaver_Newcastle_University.jpeg")觀察到的L型細菌。這種細菌沒有原核生物普遍擁有的高電子密度的細胞壁。本圖的[比例尺為](https://zh.wikipedia.org/wiki/比例尺 "wikilink")500納米\]\]
 
 **L型細菌**係一類在突變後[細胞壁](../Page/細胞壁.md "wikilink")缺損的細菌，能在固體培養基上形成煎蛋形的小菌落。L型細菌必須生活在高[滲透壓的環境中](https://zh.wikipedia.org/wiki/滲透壓 "wikilink")，否則就會裂解死亡。其細胞膨大，對滲透壓十分敏感。其之所以叫做L-型細菌，是因這類細菌是在1935年最早由英國的發現的，故以李斯德研究所名稱的首字母「L」為其命名\[1\]\[2\]\[3\]。

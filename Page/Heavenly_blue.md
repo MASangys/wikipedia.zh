@@ -1,3 +1,6 @@
+> 本文内容由[Heavenly blue](https://zh.wikipedia.org/wiki/Heavenly_blue)转换而来。
+
+
 《**heavenly blue**》，是[Kalafina](../Page/Kalafina.md "wikilink")的樂曲。由[梶浦由記](../Page/梶浦由記.md "wikilink")作詞・作曲。在Kalafina精選專輯《THE BEST “Blue”》（2014年7月16日發行）中作為新曲首次收錄後，作為第15張[單曲於](https://zh.wikipedia.org/wiki/單曲 "wikilink")8月6日起在日本由[SME Records期間限定發售三個月](../Page/SME_Records.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[W·P·凱瑞商學院](https://zh.wikipedia.org/wiki/W·P·凱瑞商學院)转换而来。
+
+
 **W. P. 凱瑞商學院**（），是位於[美利堅合眾國](https://zh.wikipedia.org/wiki/美利堅合眾國 "wikilink")[亞利桑那州](../Page/亞利桑那州.md "wikilink")[鳳凰城大都會區](https://zh.wikipedia.org/wiki/鳳凰城 "wikilink")[亞利桑那州立大學](../Page/亞利桑那州立大學.md "wikilink")的商學院，也是全美最大且頂尖的商學院之一 ，是爲美國八大[會計公司提供最多專業人士的第二大學府](https://zh.wikipedia.org/wiki/會計 "wikilink")。有250名教授，10,500位[本科生和](https://zh.wikipedia.org/wiki/本科生 "wikilink")1,500位[研究生](../Page/研究生.md "wikilink")。該院以其創新的課程體系、高素質的學員和富有影響力的專家教授著稱。在科技與商業應用層面，該院也處于世界領先地位。
 
 ## 命名

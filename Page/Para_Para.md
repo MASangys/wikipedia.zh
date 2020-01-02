@@ -1,3 +1,6 @@
+> 本文内容由[Para Para](https://zh.wikipedia.org/wiki/Para_Para)转换而来。
+
+
 **Para Para**（，或Para-Para、ParaPara，注意：r以l音代之）是一種在1980年代開始在[日本](../Page/日本.md "wikilink")發展、並在1990年代時逐漸向其他周邊國家散播的舞蹈形式。這種舞蹈的特徵是以手部動作為主，除了簡單腳步的移動之外，很少有下半身的動作。由於這種特徵與日本在[盂蘭節](../Page/盂蘭節.md "wikilink")所跳的傳統[民族舞蹈](../Page/民族舞蹈.md "wikilink")「[-{盆踊}-](https://zh.wikipedia.org/wiki/盆踊 "wikilink")」相當類似，有人認為Para Para就有如現代版的-{盆踊}-一般，故又稱之為「-{**平成的盆踊**}-」（起因於此熱潮是在進入[平成時代開始興盛](https://zh.wikipedia.org/wiki/平成時代 "wikilink")）。Para Para的舞蹈音樂以Techno及Eurobeat等[電子舞曲為主](../Page/電子音樂.md "wikilink")。
 
 ## 歷史

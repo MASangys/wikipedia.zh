@@ -1,3 +1,6 @@
+> 本文内容由[Janet Jackson\'s Rhythm Nation 1814](https://zh.wikipedia.org/wiki/Janet_Jackson\'s_Rhythm_Nation_1814)转换而来。
+
+
 《**節奏國度**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Janet Jackson's Rhythm Nation 1814**）是美國黑人女歌手[珍娜·傑克森第四張個人](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1989年9月19日由美國A\&M唱片公司發行。《節奏國度》在美國銷量逾六白金\[1\]，專輯本身獲得[告示牌專輯榜](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")4週冠軍，成為珍娜·傑克森第二張全美冠軍專輯，其中所收錄的單曲亦締造了連續七首TOP 5紀錄，其中包含四首冠軍曲，這四首冠軍單曲進榜時間更橫跨了三個年度（1989年至1991年）。《節奏國度》獲得商業性的巨大成功，連帶讓它成為1990年告示牌**最佳年度專輯**，珍娜·傑克森也成為繼[惠妮·休斯頓之後](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")，史上第二位擁有最佳年度專輯的女藝人。
 
 根據統計《節奏國度》已在全球銷售1400萬張，另外它的得獎紀錄也是成績斐然，共獲得15項[告示牌音樂獎](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")、5項[美國音樂獎](https://zh.wikipedia.org/wiki/美國音樂獎 "wikilink")、3項[MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")以及1項[葛萊美獎](../Page/葛萊美獎.md "wikilink")\[2\]\[3\]。《節奏國度》將珍娜·傑克森的歌唱事業推至最巔峰，讓她躋身流行樂壇的天后之林。

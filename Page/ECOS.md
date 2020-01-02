@@ -1,3 +1,6 @@
+> 本文内容由[ECOS](https://zh.wikipedia.org/wiki/ECOS)转换而来。
+
+
 ## 系统简介
 
 **eCos**（embedded configurable operating system）是一個在1997年由Cygnus Solutions Inc.\[1\]开发的小型[开放原始码](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")[实时操作系统](../Page/实时操作系统.md "wikilink")。后来该公司被[Redhat收购](https://zh.wikipedia.org/wiki/Redhat "wikilink")。在2002年的早些时候\[2\]，[Redhat停止了eCos开发](https://zh.wikipedia.org/wiki/Redhat "wikilink")，并解散了开发队伍。很多原开发者继续开发eCos，并且成立了他们自己的公司来为该软件提供服务。迫于开发者的要求，Redhat在2004年一月份将eCos的版权转移给了[自由软件基金会](../Page/自由软件基金会.md "wikilink")\[3\]，并于2008年5月份最终完成了版权转移。

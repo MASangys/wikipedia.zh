@@ -1,3 +1,6 @@
+> 本文内容由[Hongyok Chansakorn](https://zh.wikipedia.org/wiki/Hongyok_Chansakorn)转换而来。
+
+
 **Hongyok Chansakorn Kittiwattanakorn**（，），又稱Hongyok AF10，暱稱(หงหยก，Hongyok)，是泰國新生代歌手和演員，透過歌唱實境選秀節目True Academy Fantasia 第10季正式出道，比賽的代表號碼V23，獲得第9名，2015年因為演出泰國純愛電影《Yes or No 2.5》而開始受到關注。
 
 ## 個人介紹

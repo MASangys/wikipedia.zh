@@ -1,3 +1,6 @@
+> 本文内容由[The One \(EXILE SHOKICHI單曲\)](https://zh.wikipedia.org/wiki/The_One_\(EXILE_SHOKICHI單曲\))转换而来。
+
+
 「**The One**」是於2014年10月22日發行的[EXILE SHOKICHI第](../Page/SHOKICHI.md "wikilink")2張單曲。分別有CD+DVD及CD ONLY共2種形態發行。另外還有FC及MOBILE限定的ONE COIN CD及MUSIC CARD（全3種）發售。
 
 CD收錄了3首歌曲。B面歌的「Loveholic」是與同屬於[LDH所屬的](../Page/LDH_\(藝能事務所\).md "wikilink")[DOBERMAN INFINITY共同合作的歌曲](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")。

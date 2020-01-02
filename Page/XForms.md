@@ -1,3 +1,6 @@
+> 本文内容由[XForms](https://zh.wikipedia.org/wiki/XForms)转换而来。
+
+
 **XForms**是用於從 Web表單收集輸入的XML格式，是 [HTML](../Page/HTML.md "wikilink")/XHTML 表單下一代的继承者；XForms 1.0（第三版）於2007年10月29日發布。最初的 XForms規範於 2003年10月14日成為 [W3C官方推薦標準](https://zh.wikipedia.org/wiki/W3C "wikilink")，而引入了若干改進的XForms 1.1在 2009年10月20日達到了相同的狀態。它采用了 [XML](../Page/XML.md "wikilink")的格式。XForms被設計為具有足夠的通用性，可以獨立的方式使用，也可用 XHTML以外的表示語言來描述用戶界面和一組常用的數據操作任務。
 
 ## 與一般表單的差異

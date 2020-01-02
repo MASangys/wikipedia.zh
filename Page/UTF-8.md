@@ -1,3 +1,6 @@
+> 本文内容由[UTF-8](https://zh.wikipedia.org/wiki/UTF-8)转换而来。
+
+
 [Utf8webgrowth.svg](https://zh.wikipedia.org/wiki/File:Utf8webgrowth.svg "fig:Utf8webgrowth.svg") **UTF-8**（）是一種針對[Unicode的可變長度](https://zh.wikipedia.org/wiki/Unicode "wikilink")[字元編碼](https://zh.wikipedia.org/wiki/字元編碼 "wikilink")，也是一种[前缀码](https://zh.wikipedia.org/wiki/前缀码 "wikilink")。它可以用一至四个字节对Unicode字符集中的所有有效编码点进行编码，属于[Unicode标准的一部分](https://zh.wikipedia.org/wiki/Unicode "wikilink")，最初由[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")和[罗布·派克提出](https://zh.wikipedia.org/wiki/罗布·派克 "wikilink")。\[1\]\[2\]由于较小值的编码点一般使用频率较高，直接使用Unicode编码效率低下，大量浪费内存空间。UTF-8就是为了解决向后兼容ASCII码而设计，Unicode中前128个字符（与ASCII码一一对应），使用与ASCII码相同的二进制值的单个[字节](../Page/字节.md "wikilink")进行编码，這使得原來處理ASCII字元的[軟體無須或只須做少部份修改](https://zh.wikipedia.org/wiki/軟體 "wikilink")，即可繼續使用。因此，它逐漸成為[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[網頁](../Page/網頁.md "wikilink")及其他[儲存或傳送文字優先採用的編碼方式](../Page/儲存裝置.md "wikilink")。
 
 自2009年以来，UTF-8一直是万维网的最主要的编码形式（对所有，而不仅是Unicode范围内的编码）（并由WHATWG宣布为强制性的“适用于所有事物()”，\[3\]截止到2019年11月， 在所有网页中，UTF-8编码应用率高达94.3%（其中一些仅是ASCII编码，因为它是UTF-8的子集），而在排名最高的1000个网页中占96％。\[4\] 第二热门的多字节编码方式Shift JIS和GB 2312分别具有0.3％和0.2％的占有率。\[5\]\[6\]\[7\]Internet邮件联盟（）建议所有电子邮件程序都能够使用UTF-8展示和创建邮件，\[8\] W3C建议UTF-8作为XML文件和HTML文件的默认编码方式。\[9\]

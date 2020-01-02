@@ -1,3 +1,6 @@
+> 本文内容由[VII](https://zh.wikipedia.org/wiki/VII)转换而来。
+
+
 《**VII**》於1990年10月12日發行，是[太極樂隊](../Page/太極樂隊.md "wikilink")第六張粵語大碟。
 
 ## 介紹

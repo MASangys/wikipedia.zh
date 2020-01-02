@@ -1,3 +1,6 @@
+> 本文内容由[AA树](https://zh.wikipedia.org/wiki/AA树)转换而来。
+
+
 **AA 樹**在[電腦科學一種形式的](https://zh.wikipedia.org/wiki/電腦科學 "wikilink")[自平衡二元搜尋樹用於高效存儲和檢索序數據](https://zh.wikipedia.org/wiki/自平衡二元搜尋樹 "wikilink")。 AA 樹的名稱是由它的發明者[Arne Andersson而來](https://zh.wikipedia.org/wiki/Arne_Andersson "wikilink")。
 
 AA樹是[紅黑樹的一種變種](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")，是Arne Andersson教授在1993年年在他的論文"Balanced search trees made simple"中介紹，設計的目的是減少[紅黑樹考慮的不同情況](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")，區別於紅黑樹的是，AA樹的紅節點只能作為右葉子。換句話說，沒有紅節點可以是一個左子兒。這導致代替[2-3-4樹](https://zh.wikipedia.org/wiki/2-3-4樹 "wikilink")，從而大大簡化了維護[2-3樹的模擬](https://zh.wikipedia.org/wiki/2-3樹 "wikilink")。維護[紅黑樹的平衡需要考慮](https://zh.wikipedia.org/wiki/紅黑樹 "wikilink")7種不同的情況:

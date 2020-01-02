@@ -1,3 +1,6 @@
+> 本文内容由[Drell-Yan过程](https://zh.wikipedia.org/wiki/Drell-Yan过程)转换而来。
+
+
 [Drell-Yan.svg](https://zh.wikipedia.org/wiki/File:Drell-Yan.svg "fig:Drell-Yan.svg") **德雷尔-颜过程**（）产生于高能强子散射。当一个[强子](../Page/强子.md "wikilink")中的[夸克](../Page/夸克.md "wikilink")与另一个强子中的[反夸克湮灭](https://zh.wikipedia.org/wiki/反夸克 "wikilink")，产生一个虚光子或者[Z玻色子](https://zh.wikipedia.org/wiki/Z玻色子 "wikilink")，之后衰变到一对带有相反电荷的[轻子](https://zh.wikipedia.org/wiki/轻子 "wikilink")。这个过程最早在1970年由[西德尼·德雷尔](../Page/西德尼·德雷尔.md "wikilink")和[颜东茂](https://zh.wikipedia.org/wiki/颜东茂 "wikilink")<ref name="DrellYan">
 
   -

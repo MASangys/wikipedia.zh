@@ -1,3 +1,6 @@
+> 本文内容由[IZUMO3](https://zh.wikipedia.org/wiki/IZUMO3)转换而来。
+
+
 《**IZUMO3**》是由[日本](../Page/日本.md "wikilink")[Studio e.go\!公司在](../Page/Studio_e.go!.md "wikilink")2007年7月27日發售的角色扮演類型[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事

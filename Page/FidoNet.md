@@ -1,3 +1,6 @@
+> 本文内容由[FidoNet](https://zh.wikipedia.org/wiki/FidoNet)转换而来。
+
+
 <div class="thumb tright">
 
 <div class="thumbinner">

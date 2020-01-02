@@ -1,3 +1,6 @@
+> 本文内容由[TBS週二連續劇](https://zh.wikipedia.org/wiki/TBS週二連續劇)转换而来。
+
+
 **TBS週二連續劇**（）是[TBS](../Page/TBS電視台.md "wikilink")[電視網从](https://zh.wikipedia.org/wiki/TBS電視網 "wikilink")2014年第二季（4月－6月）起每逢星期二22:00（[日本時間](../Page/日本標準時間.md "wikilink")）播出的[連續劇時段](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")。
 
 ## 作品列表

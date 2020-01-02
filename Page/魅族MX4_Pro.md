@@ -1,3 +1,6 @@
+> 本文内容由[魅族MX4 Pro](https://zh.wikipedia.org/wiki/魅族MX4_Pro)转换而来。
+
+
 **魅族 MX4 pro**是[魅族于](https://zh.wikipedia.org/wiki/魅族 "wikilink")2014年11月19日发布的旗舰[智能手机](../Page/智能手机.md "wikilink")产品。该系列手机有前黑后灰、白色版以及前白后金等三种外观，可更换多种颜色背壳。产品搭载为大屏手机优化的[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink") 4.0系统，具有指纹识别功能[mTouch](https://zh.wikipedia.org/wiki/Flyme#mBack "wikilink")。\[1\]
 
 ## 較前代產品的變化

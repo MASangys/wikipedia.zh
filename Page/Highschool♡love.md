@@ -1,3 +1,6 @@
+> 本文内容由[Highschool♡love](https://zh.wikipedia.org/wiki/Highschool♡love)转换而来。
+
+
 《**Highschool♡love**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")11张[单曲](../Page/单曲.md "wikilink")，於2014年9月10日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

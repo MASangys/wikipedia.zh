@@ -1,3 +1,6 @@
+> 本文内容由[Intel 8086](https://zh.wikipedia.org/wiki/Intel_8086)转换而来。
+
+
 Intel **8086**\[1\]（亦稱之為**iAPX 86**）\[2\]是由[英特爾公司於](https://zh.wikipedia.org/wiki/英特爾公司 "wikilink")1976年初開始設計，1978年年中發表的Intel第一款[16位元](https://zh.wikipedia.org/wiki/16位元 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。随後於1979年，又推出了[Intel 8088](../Page/Intel_8088.md "wikilink")，它在晶片的外部連接椎使用8位資料[匯流排](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（允許使用更廉價和更少[積體電路](https://zh.wikipedia.org/wiki/積體電路 "wikilink")\[3\]）的支援，成為8086的一个低成本的簡化产品，并用在[IBM PC的原始設計中的處理器](../Page/IBM_PC.md "wikilink")（包括廣為人所知的）中而被人知曉。
 
 8086是Intel最成功的处理器系列[x86架构的开端](https://zh.wikipedia.org/wiki/x86架构 "wikilink")。

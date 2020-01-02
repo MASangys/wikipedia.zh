@@ -1,3 +1,6 @@
+> 本文内容由[LJN](https://zh.wikipedia.org/wiki/LJN)转换而来。
+
+
 **LJN玩具有限公司**（）是1970年至1995年的一家美国玩具生产商和[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，它的玩具产品和电子游戏都来自电影、电视节目和明星人物。总部坐落在[纽约](../Page/纽约.md "wikilink")[曼哈顿中城](https://zh.wikipedia.org/wiki/曼哈顿中城 "wikilink")\[1\]，之后位于[新泽西](https://zh.wikipedia.org/wiki/新泽西 "wikilink")[林德赫斯特](https://zh.wikipedia.org/wiki/林德赫斯特 "wikilink")\[2\]。LJN由创始人杰克·弗雷德曼成立，最初是一家玩具公司，随后先后成为[MCA和](https://zh.wikipedia.org/wiki/MCA公司 "wikilink")[Acclaim Entertainment的子公司](https://zh.wikipedia.org/wiki/Acclaim_Entertainment "wikilink")，并进军电子游戏业，近年來因被網路遊戲評論家[憤怒電玩宅的嘲諷式介紹而打響名氣](https://zh.wikipedia.org/wiki/憤怒電玩宅 "wikilink")。1994年，LJN被吸收入母公司Acclaim Entertainment，从此关闭。
 
 LJN进入电子游戏业时其实仅仅是家[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")\[3\]。LJN的任何一款游戏都非自己制作，而是来自第三方工作室，但是许多游戏从未公布他们的制作者，即便是Acclaim时期开发的。\[4\]LJN发行的大部分游戏都是藉电影之风头，或是基于现有品牌搭售。这些游戏横跨了多个主机世代。

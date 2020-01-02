@@ -1,3 +1,6 @@
+> 本文内容由[Omate TrueSmart](https://zh.wikipedia.org/wiki/Omate_TrueSmart)转换而来。
+
+
 Omate TrueSmart是一款由Omate開發的[智慧型手錶](https://zh.wikipedia.org/wiki/智慧型手錶 "wikilink")。Omate TrueSmart與其他智慧型手錶不同的是它內建完整的[Android](../Page/Android.md "wikilink")系統，可以獨立運作，如撥打電話、上網等。並且擁有特製的[表帶](https://zh.wikipedia.org/wiki/表帶 "wikilink")。金屬機身會組隔訊號，所以天線皆配置在表帶內。表帶內有[GPS](https://zh.wikipedia.org/wiki/GPS "wikilink")、[Wifi](https://zh.wikipedia.org/wiki/Wifi "wikilink")、藍芽、揚聲器等配件。
 
 ## 規格

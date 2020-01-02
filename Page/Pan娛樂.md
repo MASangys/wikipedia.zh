@@ -1,3 +1,6 @@
+> 本文内容由[Pan娛樂](https://zh.wikipedia.org/wiki/Pan娛樂)转换而来。
+
+
 **Pan Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在1988年3月4日，包括影劇投資製作、電影投資製作、藝人管理、歌手演唱會企劃等。
 
 ## 旗下藝人

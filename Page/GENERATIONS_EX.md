@@ -1,3 +1,6 @@
+> 本文内容由[GENERATIONS EX](https://zh.wikipedia.org/wiki/GENERATIONS_EX)转换而来。
+
+
 《**GENERATIONS EX**》（放浪新世代 EX）是[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")2張原創專輯。於2015年2月18日發行。唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

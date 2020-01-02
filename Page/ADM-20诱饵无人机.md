@@ -1,3 +1,6 @@
+> 本文内容由[ADM-20诱饵无人机](https://zh.wikipedia.org/wiki/ADM-20诱饵无人机)转换而来。
+
+
 ADM-20“鹌鹑”是一种亚音速、喷气动力、由[B-52战略轰炸机攜帶的空射诱饵巡航无人机](https://zh.wikipedia.org/wiki/B-52战略轰炸机 "wikilink")，為[麥克唐納飛行器公司设计生产](https://zh.wikipedia.org/wiki/麥克唐納飛行器公司 "wikilink")，用来在敌方的雷达屏幕上呈现成轰炸机的形态，继而誘導敌方防空系统無法辨識攻擊實際轟炸機目標。
 
 ## 发展

@@ -1,3 +1,6 @@
+> 本文内容由[Q梅西纳多项式](https://zh.wikipedia.org/wiki/Q梅西纳多项式)转换而来。
+
+
 **q梅西纳多项式**以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义如下：
 
 \(M_n(q^{-x};b,c;q)=_2\Phi_1(q^{-n},q^{-x};bq;q;-q^{n+1}/c)\)

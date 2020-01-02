@@ -1,3 +1,6 @@
+> 本文内容由[NEW HORIZON](https://zh.wikipedia.org/wiki/NEW_HORIZON)转换而来。
+
+
 《**NEW HORIZON**》為[日本](../Page/日本.md "wikilink")團體[放浪兄弟](../Page/放浪兄弟.md "wikilink")的第44張單曲，由[rhythm zone於](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")2014年7月23日發行。
 
 ## 概要

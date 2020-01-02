@@ -1,3 +1,6 @@
+> 本文内容由[ActiveX](https://zh.wikipedia.org/wiki/ActiveX)转换而来。
+
+
 **ActiveX**在广义上是指[微软公司的整个](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[COM架构](https://zh.wikipedia.org/wiki/COM "wikilink")，但是现在通常用来称呼基于标准COM接口来实现[对象链接与嵌入](../Page/对象链接与嵌入.md "wikilink")（OLE）的ActiveX[控件](../Page/控件.md "wikilink")。\[1\]后者是指从[VBX发展而来的](https://zh.wikipedia.org/wiki/VBX "wikilink")，面向微软的[Internet Explorer技术而设计的以](../Page/Internet_Explorer.md "wikilink")[OCX为扩展名的](https://zh.wikipedia.org/wiki/OCX "wikilink")[OLE控件](https://zh.wikipedia.org/wiki/OLE "wikilink")。通过定义容器和组件之间的接口规范，如果编写了一个遵循规范的控件，那么可以很方便地在多种容器中使用而不用修改控件的代码。同样，通过实现标准接口调用，一个遵循规范的容器可以很容易地嵌入任何遵循规范的控件。由于OLE在ActiveX控件中的应用的普及，现在OLE技术中-{只}-有少数独立于ActiveX技术，例如[复合文档](https://zh.wikipedia.org/wiki/复合文档 "wikilink")。
 
 ## 簡介

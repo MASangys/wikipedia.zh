@@ -1,3 +1,6 @@
+> 本文内容由[傳說 \(Raidas專輯\)](https://zh.wikipedia.org/wiki/傳說_\(Raidas專輯\))转换而来。
+
+
 《**傳說**》於1987年3月16日推出，是[Raidas](../Page/Raidas.md "wikilink")發行的首張粵語大碟，此張專輯在《[吸菸的女人](https://zh.wikipedia.org/wiki/吸菸的女人 "wikilink")》這張EP推出後發行。
 
 本張專輯所有歌曲全由[黃耀光作曲以及編曲](https://zh.wikipedia.org/wiki/黃耀光 "wikilink")，而除了第三首歌《人海寫真》由[小美執筆及第四首歌](https://zh.wikipedia.org/wiki/小美 "wikilink")《傾心》是[黃凱芹](../Page/黃凱芹.md "wikilink")填詞之外，其餘所有歌曲全由[林夕](../Page/林夕.md "wikilink")填詞。

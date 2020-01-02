@@ -1,3 +1,6 @@
+> 本文内容由[PCR](https://zh.wikipedia.org/wiki/PCR)转换而来。
+
+
 **PCR**可能指：
 
 **政党：**

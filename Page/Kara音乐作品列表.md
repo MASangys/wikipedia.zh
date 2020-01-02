@@ -1,3 +1,6 @@
+> 本文内容由[Kara音乐作品列表](https://zh.wikipedia.org/wiki/Kara音乐作品列表)转换而来。
+
+
 下面列出的为韩国女子音乐组合[Kara](../Page/Kara.md "wikilink")的音乐作品。
 
 ## 韓文單曲

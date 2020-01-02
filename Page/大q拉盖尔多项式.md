@@ -1,3 +1,6 @@
+> 本文内容由[大q拉盖尔多项式](https://zh.wikipedia.org/wiki/大q拉盖尔多项式)转换而来。
+
+
 **大q-拉盖尔多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink"):
 
 \(P_n(x;a,b;q)=\frac{1}{(b^{-1}*q^{-n};q,n)}*_2\Phi_1(q^{-n},aqx^{-1};aq|q;\frac{x}{b})\)

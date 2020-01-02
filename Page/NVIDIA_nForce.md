@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA nForce](https://zh.wikipedia.org/wiki/NVIDIA_nForce)转换而来。
+
+
 **nForce**是由[NVIDIA開發的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[主機板](https://zh.wikipedia.org/wiki/主機板 "wikilink")[晶片組產品](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，Professional系列則是供[伺服器使用的晶片組](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。nForce晶片組擁有強大的效能，曾是[AMD處理器的最佳搭配](https://zh.wikipedia.org/wiki/AMD "wikilink")。而[Intel平臺則擁有可以組建](https://zh.wikipedia.org/wiki/Intel "wikilink")[SLI的優勢](https://zh.wikipedia.org/wiki/SLI "wikilink")，部分高階產品的效能亦超過Intel自有晶片組。其還推出了部分整合[GeForce](../Page/GeForce.md "wikilink")顯示核心的晶片組。
 
 但是，在[AMD收購](https://zh.wikipedia.org/wiki/AMD "wikilink")[ATi後](https://zh.wikipedia.org/wiki/ATi "wikilink")，擁有了自有品牌的晶片組業務；Intel推出的全新架構x5x系列晶片組後，原先的授權已不適用，而NVIDIA亦沒有自己的處理器業務，所以其晶片組產品受到排擠，往日的輝煌已不在，處於十分尷尬的境地。在2009年10月NVIDIA宣布放棄[AMD與](https://zh.wikipedia.org/wiki/AMD "wikilink")[Intel相容晶片組的開發計畫](https://zh.wikipedia.org/wiki/Intel "wikilink")。不過仍可能會發布新的[行動平臺晶片組以及繼續發表新的](https://zh.wikipedia.org/wiki/行動平臺 "wikilink")[nVIDIA ION系列整合產品](https://zh.wikipedia.org/wiki/nVIDIA_ION "wikilink")\[1\]。

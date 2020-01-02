@@ -1,3 +1,6 @@
+> 本文内容由[ZSL-93装甲输送车](https://zh.wikipedia.org/wiki/ZSL-93装甲输送车)转换而来。
+
+
 **ZSL-93装甲输送车**（研制工程代号“**WZ523**”）是[中华人民共和国研制的一款](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")6×6三轴轮式[装甲输送车](../Page/装甲输送车.md "wikilink")。原型车WZ523装甲输送车参加1984年中华人民共和国国庆35周年阅兵式首次公开露面。获得美军命名为“M1984”。1990年代少量列装[中国人民解放军](../Page/中国人民解放军.md "wikilink")以及[武警](https://zh.wikipedia.org/wiki/武警 "wikilink")、特警使用。[中国人民解放軍駐香港部隊装备的ZFB](https://zh.wikipedia.org/wiki/中国人民解放軍駐香港部隊 "wikilink")-91型裝甲車就是由WZ523原型车衍生而来的。
 
 ## 历史

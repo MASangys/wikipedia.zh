@@ -1,3 +1,6 @@
+> 本文内容由[I \(生物股長專輯\)](https://zh.wikipedia.org/wiki/I_\(生物股長專輯\))转换而来。
+
+
 《**I**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張原創專輯，於2013年7月24日由[Epic Records Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要

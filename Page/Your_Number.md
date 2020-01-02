@@ -1,3 +1,6 @@
+> 本文内容由[Your Number](https://zh.wikipedia.org/wiki/Your_Number)转换而来。
+
+
 《**Your Number**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的第11张日語[单曲](../Page/单曲.md "wikilink")，於2015年3月11日由[日本環球唱片子廠牌](../Page/環球音樂_\(日本\).md "wikilink")[EMI音樂日本](../Page/EMI音樂日本.md "wikilink")发售。
 
 ## 背景

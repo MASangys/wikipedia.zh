@@ -1,3 +1,6 @@
+> 本文内容由[SuGirly Wish](https://zh.wikipedia.org/wiki/SuGirly_Wish)转换而来。
+
+
 《**SuGirly Wish**》是日本[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")在2011年9月30日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2012年12月13日由[GN Software發售](../Page/GN_Software.md "wikilink")[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《SuGirly Wish -Limited-》。\[3\][DMM.com](../Page/DMM.com.md "wikilink")於2014年3月7日獨家販售DL版\[4\]，2017年8月4日發售HD版。\[5\]
 
 ## 故事

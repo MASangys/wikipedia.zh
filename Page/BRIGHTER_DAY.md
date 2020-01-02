@@ -1,3 +1,6 @@
+> 本文内容由[BRIGHTER DAY](https://zh.wikipedia.org/wiki/BRIGHTER_DAY)转换而来。
+
+
 《**BRIGHTER DAY**》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2014年11月12日發行的第42張單曲，並沒有收錄在安室的任何專輯內。
 
 ## 簡介

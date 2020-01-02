@@ -1,3 +1,6 @@
+> 本文内容由[Miss You Much](https://zh.wikipedia.org/wiki/Miss_You_Much)转换而来。
+
+
 《**想念你**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Miss You Much**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1989年8月推出的單曲，這首單曲共計獲得告示牌單曲榜四週冠軍、[舞曲榜和節奏藍調榜各兩週冠軍](https://zh.wikipedia.org/wiki/告示牌舞曲排行榜 "wikilink")，單曲在美銷售突破百萬張\[1\]\[2\]\[3\]\[4\]。〈想念你〉為珍娜·傑克森第2首全美冠軍單曲。
 
 ## 歌曲介紹

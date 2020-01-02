@@ -1,3 +1,6 @@
+> 本文内容由[快杰Z](https://zh.wikipedia.org/wiki/快杰Z)转换而来。
+
+
 快杰兹巴特（Zubat）『**快傑ズバット**』（かいけつズバット）是[東京12チャンネル](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")[水曜日](https://zh.wikipedia.org/wiki/水曜日 "wikilink")19:30-20:001977年（昭和52年）2月2日到9月28日全32話放送[東映](../Page/東映.md "wikilink")製作的特摄。
 
 ## 介绍

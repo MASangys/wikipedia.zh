@@ -1,3 +1,6 @@
+> 本文内容由[Common Lisp](https://zh.wikipedia.org/wiki/Common_Lisp)转换而来。
+
+
 **Common Lisp**，縮寫為**CL**（不是組合邏輯的縮寫）是Lisp編程語言的一種方言，由ANSI INCITS 226-1994(R2004)（前身為ANSI X3.226-1994(R1999)），所定義的語言規範標準。Common Lisp HyperSpec是源自於ANSI Common Lisp標準的網頁超連結版本。
 
 CL語言是為標準化和改良Maclisp而開發的後繼者。到20世紀80年代初，幾個工作群組已經在設計MacLisp各種後繼者，例如：Lisp Machine Lisp（又名 ZetaLisp），Spice Lisp，NIL和S-1 Lisp。CL是為了標準化和擴展此前眾多的MacLisp分支而開發，它本身並非具體的實作，而是對語言設立標準的規範。有數個實作符合Common Lisp規範，其中包括自由和開源軟件，以及商業化產品。CL支援了[結構化](../Page/结构化编程.md "wikilink")、[函數式和](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")[物件導向編程等範式](../Page/面向对象程序设计.md "wikilink")。相对于各种嵌入在特定产品中的语言，如[Emacs Lisp和](../Page/Emacs_Lisp.md "wikilink")[AutoLISP](https://zh.wikipedia.org/wiki/AutoLISP "wikilink")，Common Lisp是一種用途廣泛的编程语言。不同於很多早期Lisp，Common Lisp如同Scheme，其中的變量是預設為詞法[作用域](../Page/作用域.md "wikilink")的。

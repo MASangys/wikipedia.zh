@@ -1,3 +1,6 @@
+> 本文内容由[ATV星級演唱會](https://zh.wikipedia.org/wiki/ATV星級演唱會)转换而来。
+
+
 《**ATV星級演唱會**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")播放的一系列[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，各演唱會分別在[本港台](../Page/本港台.md "wikilink")及[亞洲台播放](../Page/亞洲電視亞洲台.md "wikilink")。一年重播幾次。
 
 ## 歷史

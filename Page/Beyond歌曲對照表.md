@@ -1,3 +1,6 @@
+> 本文内容由[Beyond歌曲對照表](https://zh.wikipedia.org/wiki/Beyond歌曲對照表)转换而来。
+
+
 以下是介紹香港樂隊[Beyond](../Page/Beyond.md "wikilink")發表的所有歌曲的語言對照表。
 
 ## 備註

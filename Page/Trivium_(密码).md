@@ -1,3 +1,6 @@
+> 本文内容由[Trivium \(密码\)](https://zh.wikipedia.org/wiki/Trivium_\(密码\))转换而来。
+
+
 [Trivium_(cipher).png](https://zh.wikipedia.org/wiki/File:Trivium_\(cipher\).png "fig:Trivium_(cipher).png") **Trivium**密码是一种对称密钥同步序列密码算法。它的设计目的是在计算能力有限的硬件上高效实现安全加密，同时兼顾软件实现效率。
 
 ## 结构

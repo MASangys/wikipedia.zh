@@ -1,3 +1,6 @@
+> 本文内容由[Amour \(梁詠琪專輯\)](https://zh.wikipedia.org/wiki/Amour_\(梁詠琪專輯\))转换而来。
+
+
 《**Amour**》是[梁詠琪的第十三張音樂專輯](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")、第六張國語專輯，於2001年3月8日推出。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Mr. Snowman](https://zh.wikipedia.org/wiki/Mr._Snowman)转换而来。
+
+
 《**Mr. Snowman**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[e-girls的第](https://zh.wikipedia.org/wiki/e-girls "wikilink")12张[单曲](../Page/单曲.md "wikilink")，於2014年11月26日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

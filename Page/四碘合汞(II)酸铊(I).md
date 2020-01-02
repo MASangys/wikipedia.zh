@@ -1,3 +1,6 @@
+> 本文内容由[四碘合汞\(II\)酸铊\(I\)](https://zh.wikipedia.org/wiki/四碘合汞\(II\)酸铊\(I\))转换而来。
+
+
 **四碘合汞(II)酸铊(I)**是一种[配位化合物](https://zh.wikipedia.org/wiki/配位化合物 "wikilink")，[化学式](../Page/化学式.md "wikilink")为Tl<sub>2</sub>\[HgI<sub>4</sub>\]。它可由[硝酸亚铊和](https://zh.wikipedia.org/wiki/硝酸亚铊 "wikilink")[碘化汞钾](../Page/碘化汞钾.md "wikilink")反应得到。\[1\]
 
 ## 物理性质

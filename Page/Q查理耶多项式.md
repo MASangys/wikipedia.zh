@@ -1,3 +1,6 @@
+> 本文内容由[Q查理耶多项式](https://zh.wikipedia.org/wiki/Q查理耶多项式)转换而来。
+
+
 **q查理耶多项式**是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")
 
 \[\displaystyle c_n(x;a;q) = {}_2\phi_1(q^{-n},q^{-x};0;q,-q^{n+1}/a)\]

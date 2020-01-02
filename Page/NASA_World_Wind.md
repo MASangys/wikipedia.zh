@@ -1,3 +1,6 @@
+> 本文内容由[NASA World Wind](https://zh.wikipedia.org/wiki/NASA_World_Wind)转换而来。
+
+
 [Globe-worldwind.jpg](https://zh.wikipedia.org/wiki/File:Globe-worldwind.jpg "fig:Globe-worldwind.jpg")\]\]
 
 **NASA World Wind**（有直譯為**世界风**者），是[NASA发布的一个](https://zh.wikipedia.org/wiki/NASA "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")的[地理](https://zh.wikipedia.org/wiki/地理 "wikilink")[科普](https://zh.wikipedia.org/wiki/科普 "wikilink")[软件](../Page/软件.md "wikilink")，由[NASA Research开发](https://zh.wikipedia.org/wiki/NASA_Research "wikilink")，[NASA Learning Technologies來發展](https://zh.wikipedia.org/wiki/NASA_Learning_Technologies "wikilink")，它是一个可视化[地球仪](https://zh.wikipedia.org/wiki/地球仪 "wikilink")，将NASA、USGS以及其它[WMS服务商提供的图像通过一个三维的](https://zh.wikipedia.org/wiki/WMS "wikilink")[地球](../Page/地球.md "wikilink")模型展现，近期还包含了[火星](../Page/火星.md "wikilink")和[月球](../Page/月球.md "wikilink")的展现。

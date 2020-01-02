@@ -1,3 +1,6 @@
+> 本文内容由[Ls](https://zh.wikipedia.org/wiki/Ls)转换而来。
+
+
 **ls**是一个由[POSIX和](https://zh.wikipedia.org/wiki/POSIX "wikilink")[单一Unix标准规范的命令](https://zh.wikipedia.org/wiki/单一Unix标准 "wikilink")，在[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix系统中都有实现](https://zh.wikipedia.org/wiki/类Unix "wikilink")。ls是英文**l**i**s**t的缩写，用于列出文件，是Unix和类Unix系统中使用非常频繁的命令。
 
 ## 历史

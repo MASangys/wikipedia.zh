@@ -1,3 +1,6 @@
+> 本文内容由[OIL](https://zh.wikipedia.org/wiki/OIL)转换而来。
+
+
 **OIL**（）[瑞致達](../Page/瑞致達.md "wikilink")集團成員公司，是一間全球性專業公司註冊集團，主要服務金融機構、上市公司和商業機構，提供公司註冊、註冊成立後技術支援及持續企業服務。\[1\]
 
 OIL在11個主要司法管轄區提供服務\[2\] ，分別為[安圭拉島](https://zh.wikipedia.org/wiki/安圭拉島 "wikilink")、[巴哈馬](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")、[英屬維爾京群島](../Page/英屬維爾京群島.md "wikilink")、[開曼群島](../Page/開曼群島.md "wikilink")、[德拉瓦](https://zh.wikipedia.org/wiki/德拉瓦 "wikilink")、[香港](../Page/香港.md "wikilink")、[毛里裘斯](https://zh.wikipedia.org/wiki/毛里裘斯 "wikilink")、[薩摩亞](https://zh.wikipedia.org/wiki/薩摩亞 "wikilink")、[塞舌爾](https://zh.wikipedia.org/wiki/塞舌爾 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")及[貝里斯](https://zh.wikipedia.org/wiki/貝里斯 "wikilink")。也在其他司法管轄區裡與律師和會計師事務結成聯盟，協助客戶在所有20個司法管轄區內註冊成立公司\[3\]。OIL為其中一間最大的公司註冊集團，業務佔環球市場約10%\[4\]

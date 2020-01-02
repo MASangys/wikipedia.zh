@@ -1,3 +1,6 @@
+> 本文内容由[IOPS](https://zh.wikipedia.org/wiki/IOPS)转换而来。
+
+
 **IOPS**（[Input/Output](https://zh.wikipedia.org/wiki/I/O "wikilink") Operations Per Second）是一個用於電腦[儲存裝置](../Page/儲存裝置.md "wikilink")（如[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")（HDD）、[固態硬碟](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")（SSD）或[存储区域网络](../Page/存储区域网络.md "wikilink")（SAN））的量測方式，可以視為是每秒的讀寫次數。和其他效能測試一様，儲存裝置製造商提出的IOPS不保證就是實際應用下的性能\[1\]\[2\]。
 
 IOPS可以用應用程式來量測，例如一開始由微軟開發的，像及也有類似功能\[3\]，IOPS主要會用在[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，以找到最佳的儲存組態。

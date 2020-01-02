@@ -1,3 +1,6 @@
+> 本文内容由[DHL](https://zh.wikipedia.org/wiki/DHL)转换而来。
+
+
 [B727_DHL_AKL.jpg](https://zh.wikipedia.org/wiki/File:B727_DHL_AKL.jpg "fig:B727_DHL_AKL.jpg")貨機\]\]
 
 **DHL快遞**（），是一家創立於[美國的運輸公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，目前由[德國郵政集團全資持有](https://zh.wikipedia.org/wiki/德國郵政 "wikilink")，是目前世界上最大的運輸公司之一。DHL快遞於[中國大陸因与](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中國外運股份有限公司](https://zh.wikipedia.org/wiki/中國外運股份有限公司 "wikilink")（中外運）的合作夥伴關係稱爲中外運-{}-敦豪，日常使用**-{DHL}-**；而在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，其早年進入台灣時曾使用**洋基通運**的譯名，但為了企業識別的統一，在行銷上已經直接稱為**-{DHL}-**，中文名稱僅保留作為公司註冊用名；在[香港](../Page/香港.md "wikilink")，公司註冊名稱為**-{敦豪}-國際**，但日常仍然使用-{DHL}-。

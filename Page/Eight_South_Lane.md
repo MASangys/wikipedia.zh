@@ -1,3 +1,6 @@
+> 本文内容由[Eight South Lane](https://zh.wikipedia.org/wiki/Eight_South_Lane)转换而来。
+
+
 [Eight_South_Lane_Shops_201603.jpg](https://zh.wikipedia.org/wiki/File:Eight_South_Lane_Shops_201603.jpg "fig:Eight_South_Lane_Shops_201603.jpg") [Eight_South_Lane_Shops_View_201603.jpg](https://zh.wikipedia.org/wiki/File:Eight_South_Lane_Shops_View_201603.jpg "fig:Eight_South_Lane_Shops_View_201603.jpg") **Eight South Lane**（坊間中文名稱：**南里8號**）為[香港](../Page/香港.md "wikilink")[石塘咀](../Page/石塘咀.md "wikilink")[南里](../Page/南里.md "wikilink")的單幢私人住宅，樓高共23層，由[新世界發展](../Page/新世界發展.md "wikilink")發展，[新世界物業管理管理](https://zh.wikipedia.org/wiki/新世界物業管理 "wikilink")，於2015年12月正式入伙。
 
 ## 歷史

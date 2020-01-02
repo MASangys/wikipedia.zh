@@ -1,3 +1,6 @@
+> 本文内容由[G.Soul](https://zh.wikipedia.org/wiki/G.Soul)转换而来。
+
+
 **G.Soul**（），本名**金志賢**（音譯，\[1\]；\[2\]，），[韓國創作型](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，為[JYP娛樂](../Page/JYP娛樂.md "wikilink")2015年推出的新人，尚未出道就已經累積相當高的知名度，曾在2010年MBC藝能節目《Radio Star》由於主持人們的關注引發網友熱烈討論。經歷長達15年的練習生生涯，於2015年1月19日在[韓國出道](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[3\]。2017年6月結束與JYP娛樂的合約，正式加入由歌手[朴宰範](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")、Cha Cha Malone共同成立的國際性嘻哈音樂公司「[H1GHR MUSIC](https://zh.wikipedia.org/wiki/H1ghr_music "wikilink")」。\[4\]
 
 ## 經歷

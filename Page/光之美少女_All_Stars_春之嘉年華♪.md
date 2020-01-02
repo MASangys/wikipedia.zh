@@ -1,3 +1,6 @@
+> 本文内容由[光之美少女 All Stars 春之嘉年華♪](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_春之嘉年華♪)转换而来。
+
+
 《**電影 光之美少女 All Stars 春之嘉年華♪**》於2015年3月14日在[日本](../Page/日本.md "wikilink")上映。本作是第七次結集[光之美少女系列](../Page/光之美少女系列.md "wikilink")成員的作品。
 
 ## 故事簡介

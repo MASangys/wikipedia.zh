@@ -1,3 +1,6 @@
+> 本文内容由[RocketBoy](https://zh.wikipedia.org/wiki/RocketBoy)转换而来。
+
+
 **孟阳**（），化名**RocketBoy**，中国前[职业电竞选手](../Page/电子竞技.md "wikilink")，因在《[雷神之锤III竞技场](../Page/雷神之锤III竞技场.md "wikilink")》、《[毁灭战士3](../Page/毁灭战士3.md "wikilink")》等电子游戏职业比赛的出色表现而知名。《电子竞技》杂志主编称他为“中国电子竞技精神领袖”\[1\]。
 
 ## 早年经历

@@ -1,3 +1,6 @@
+> 本文内容由[QR分解](https://zh.wikipedia.org/wiki/QR分解)转换而来。
+
+
 **QR分解法**是三種将[矩阵分解的方式之一](https://zh.wikipedia.org/wiki/矩阵分解 "wikilink")。這種方式，把[矩阵](../Page/矩阵.md "wikilink")分解成一个[正交矩阵](../Page/正交矩阵.md "wikilink")与一个[上三角矩阵的积](https://zh.wikipedia.org/wiki/上三角矩阵 "wikilink")。QR分解经常用来解[线性最小二乘法问题](https://zh.wikipedia.org/wiki/线性最小二乘法 "wikilink")。QR分解也是特定[特征值算法即](https://zh.wikipedia.org/wiki/特征值算法 "wikilink")[QR算法的基础](https://zh.wikipedia.org/wiki/QR算法 "wikilink")。
 
 ## 定义

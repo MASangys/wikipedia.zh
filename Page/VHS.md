@@ -1,3 +1,6 @@
+> 本文内容由[VHS](https://zh.wikipedia.org/wiki/VHS)转换而来。
+
+
 [JVC-VHS_Cassette001.JPG](https://zh.wikipedia.org/wiki/File:JVC-VHS_Cassette001.JPG "fig:JVC-VHS_Cassette001.JPG")
 
 [VHS_Internal.jpg](https://zh.wikipedia.org/wiki/File:VHS_Internal.jpg "fig:VHS_Internal.jpg") [VHSTapeOpen.jpg](https://zh.wikipedia.org/wiki/File:VHSTapeOpen.jpg "fig:VHSTapeOpen.jpg")

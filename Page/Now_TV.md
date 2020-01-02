@@ -1,3 +1,6 @@
+> 本文内容由[Now TV](https://zh.wikipedia.org/wiki/Now_TV)转换而来。
+
+
 [HK_Victoria_Park_Now_TV_News_Reporter_2007.JPG](https://zh.wikipedia.org/wiki/File:HK_Victoria_Park_Now_TV_News_Reporter_2007.JPG "fig:HK_Victoria_Park_Now_TV_News_Reporter_2007.JPG") **Now TV**（前稱now寬頻電視／now broadband TV）是[香港](../Page/香港.md "wikilink")的[收費電視台](https://zh.wikipedia.org/wiki/收費電視 "wikilink")，由[電訊盈科](../Page/電訊盈科.md "wikilink")全資擁有的[電訊盈科媒體](../Page/電訊盈科媒體.md "wikilink")負責經營，現時提供207條頻道，包括180條**Now TV**頻道（82條為[高清頻道](https://zh.wikipedia.org/wiki/高清電視 "wikilink")），另有30多類[自選影像服務](https://zh.wikipedia.org/wiki/自選影像 "wikilink")；其頻道總數目、高清頻道數目及自選影像內容數量均為全港各電視台之冠；電視台名稱中的「Now」為「**N**etwork **O**f the **W**orld」的縮寫。
 
 Now TV於2003年9月26日（星期五）啟播，其電視訊號主要透過[香港電訊](../Page/香港電訊.md "wikilink")的固定電訊網絡以[IPTV](../Page/IPTV.md "wikilink")技術傳送，並於2007年成為全港首家提供高清廣播服務的電視台。此外，於2012年起亦以[Over-the-top形式透過](../Page/OTT服务.md "wikilink")[互聯網把部分內容傳送至](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")及[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。截至2017年底，客戶數目130.1萬戶，每名客戶平均消費179元，低於2016年的192元\[1\]。其客戶數目、每戶平均收入、年度營業額及年度溢利皆為全港各收費電視台之冠。

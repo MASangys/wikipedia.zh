@@ -1,3 +1,6 @@
+> 本文内容由[Studio e.go!](https://zh.wikipedia.org/wiki/Studio_e.go!)转换而来。
+
+
 **Studio e.go\!**是[日本](../Page/日本.md "wikilink")一家開發[成人遊戲的公司](../Page/日本成人遊戲.md "wikilink")，於1998年由原畫師[山本和枝](../Page/山本和枝.md "wikilink")創立。該公司的[吉祥物為一隻胖](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")[麻雀](../Page/麻雀.md "wikilink")「迪波」（），常在[遊戲軟體中出現](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。該公司的一些作品透過[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[信必優多媒體改為全年齡中文版](https://zh.wikipedia.org/wiki/信必優多媒體 "wikilink")，改動方面包括刪去[限制級情節](https://zh.wikipedia.org/wiki/限制級 "wikilink")；在推出中文版《[新聖魔大戰](https://zh.wikipedia.org/wiki/新聖魔大戰 "wikilink")》後，曾有消息指信必優會把《[IZUMO](../Page/IZUMO.md "wikilink")》中文化，但最後沒有成事，日後再無把遊戲中文化。
 
 2001年，Studio e.go\!成立了新品牌[BlueImpact](https://zh.wikipedia.org/wiki/BlueImpact "wikilink")，遊戲的方向以[BL十八禁遊戲為主](https://zh.wikipedia.org/wiki/BL "wikilink")，如《Angel's Feather》系列。但首套以BlueImpact名義發行的作品《快樂的工作天》（）並非BL十八禁遊戲。

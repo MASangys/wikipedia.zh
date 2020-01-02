@@ -1,3 +1,6 @@
+> 本文内容由[青 \(INFINITE F單曲\)](https://zh.wikipedia.org/wiki/青_\(INFINITE_F單曲\))转换而来。
+
+
 《**青**》（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")子團體[INFINITE F的首張韓語實體](../Page/INFINITE_F.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[鄭泰洙](https://zh.wikipedia.org/wiki/鄭泰洙 "wikilink")（）、[張正錫](https://zh.wikipedia.org/wiki/張正錫 "wikilink")（）、[尹鐘成](https://zh.wikipedia.org/wiki/尹鐘成 "wikilink")（）作曲、鄭泰洙作詞，並在2014年12月2日推出\[1\]。
 
 ## 曲目

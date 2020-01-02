@@ -1,3 +1,6 @@
+> 本文内容由[Eminem](https://zh.wikipedia.org/wiki/Eminem)转换而来。
+
+
 **马绍尔·-{布鲁斯}-·马瑟斯三世**（，），知名于其艺名**-{zh-cn:埃米纳姆; zh-tw:阿姆; zh-hk:Eminem;}-**（-{zh-cn:Eminem; zh-tw:Eminem; zh-hk:阿姆;}-）\[1\]，是一位美國著名[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[唱片製作人](../Page/音樂製作人.md "wikilink")、演員及電影製作人。他一直被認為是嘻哈史上最偉大，最有影響力的饒舌歌手之一，也被稱為「饒舌之神」(Rap God)。他在1997年被饒舌歌手兼词曲製作人[Dr. Dre發掘](../Page/Dr._Dre.md "wikilink")，其後簽約至所屬的唱片公司。在其音樂生涯中，至今共獲得十五次格萊美獎，以及[奧斯卡最佳電影歌曲獎項](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。
 
 阿姆是美國2000年代最暢銷的饒舌歌手。在他的職業生涯中，他在Billboard 200上有九張專輯，在Billboard Hot 100上有五張單曲。他是唯一一位在Billboard 200 上連續首次亮相九張專輯的饒舌歌手。阿姆在全球銷售超過2.7億張唱片，是有史以來世界上最暢銷的饒舌歌手之一。

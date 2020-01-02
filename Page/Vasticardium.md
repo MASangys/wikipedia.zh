@@ -1,3 +1,6 @@
+> 本文内容由[Vasticardium](https://zh.wikipedia.org/wiki/Vasticardium)转换而来。
+
+
 是[帘蛤目](https://zh.wikipedia.org/wiki/帘蛤目 "wikilink")[鸟尾蛤科的一种](https://zh.wikipedia.org/wiki/鸟尾蛤科 "wikilink")，未有中文譯名。分佈於[印度太平洋海域](https://zh.wikipedia.org/wiki/印度太平洋海域 "wikilink")\[1\]。
 
 本屬原是[糙鳥蛤屬之下的亞屬](https://zh.wikipedia.org/wiki/糙鳥蛤屬 "wikilink")，現時獨立出來成為一個屬。

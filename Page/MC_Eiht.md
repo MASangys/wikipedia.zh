@@ -1,3 +1,6 @@
+> 本文内容由[MC Eiht](https://zh.wikipedia.org/wiki/MC_Eiht)转换而来。
+
+
 **艾伦·泰勒**（1967年5月22日-），藝名 **MC Eiht**，是來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[康普頓的](https://zh.wikipedia.org/wiki/康普頓 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")藝人。他的藝名部分激發於[KRS-One含有數字的藝名](https://zh.wikipedia.org/wiki/KRS-One "wikilink")。他選擇 "Eiht" 來與[非裔美國人社區文化](http://en.wikipedia.org/wiki/African-American_neighborhood)有所連結，例如[Olde English 800](https://zh.wikipedia.org/wiki/Olde_English_800 "wikilink")(一種酒)、撞球的8號球和.38左輪手槍。\[1\] 他是[西海岸嘻哈](../Page/西海岸嘻哈.md "wikilink")團體[Compton's Most Wanted的一員](https://zh.wikipedia.org/wiki/Compton's_Most_Wanted "wikilink")，但因出色的表現，使得外界認定為CMW的主力成員，其他團員[Boom Bam](https://zh.wikipedia.org/wiki/Boom_Bam "wikilink"), [Tha Chill](https://zh.wikipedia.org/wiki/Tha_Chill "wikilink"), [DJ Mike T和](https://zh.wikipedia.org/wiki/DJ_Mike_T "wikilink")[DJ Slip也都是來自](https://zh.wikipedia.org/wiki/DJ_Slip "wikilink")[康普頓的](https://zh.wikipedia.org/wiki/康普頓 "wikilink")[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")，另外他也因為演出了電影 *[Menace II Society](https://zh.wikipedia.org/wiki/Menace_II_Society "wikilink")*而出名。
 
 ## 音樂事業

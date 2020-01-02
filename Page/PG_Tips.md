@@ -1,3 +1,6 @@
+> 本文内容由[PG Tips](https://zh.wikipedia.org/wiki/PG_Tips)转换而来。
+
+
 **PG Tips**是英国的一个[茶](../Page/茶.md "wikilink")品牌，由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[联合利华公司生产](https://zh.wikipedia.org/wiki/Unilever "wikilink")。
 
 ## 品牌名称

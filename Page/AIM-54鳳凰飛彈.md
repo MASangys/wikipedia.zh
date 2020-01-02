@@ -1,3 +1,6 @@
+> 本文内容由[AIM-54鳳凰飛彈](https://zh.wikipedia.org/wiki/AIM-54鳳凰飛彈)转换而来。
+
+
 [AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_(CV-64)_on_20_March_2003_(030320-N-4142G-013).jpg](https://zh.wikipedia.org/wiki/File:AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_\(CV-64\)_on_20_March_2003_\(030320-N-4142G-013\).jpg "fig:AIM-54C_Phoenix_missle_on_a_F-14D_of_VF-2_aboard_USS_Constellation_(CV-64)_on_20_March_2003_(030320-N-4142G-013).jpg")
 
 **AIM-54「鳳凰」空對空飛彈**（AIM-54 Phoenix），是全世界第一種[主動雷達導引](../Page/主動雷達導引.md "wikilink")的[空對空飛彈](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")，只曾配掛在美國的[F-14戰鬥機上](https://zh.wikipedia.org/wiki/F-14戰鬥機 "wikilink")，並由[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊朗操作](https://zh.wikipedia.org/wiki/伊朗 "wikilink")。由於[美國海軍](../Page/美國海軍.md "wikilink")已經於2004年將此型飛彈全面除役，伊朗成為全世界唯一仍在使用鳳凰飛彈的國家。

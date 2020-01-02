@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 海賊無雙3](https://zh.wikipedia.org/wiki/ONE_PIECE_海賊無雙3)转换而来。
+
+
 為[光榮特庫摩所開發](https://zh.wikipedia.org/wiki/光榮特庫摩控股 "wikilink")，以《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》為題材的無雙動作遊戲，平台為[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation Vita和](../Page/PlayStation_Vita.md "wikilink")[Steam](../Page/Steam.md "wikilink")，由[南夢宮萬代發行](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")，發售日是2015年3月26日。
 
 ## 评价

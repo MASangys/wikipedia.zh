@@ -1,3 +1,6 @@
+> 本文内容由[T-Mobile](https://zh.wikipedia.org/wiki/T-Mobile)转换而来。
+
+
 **T-Mobile**是一家跨国[電信公司](https://zh.wikipedia.org/wiki/電信公司 "wikilink")，是[德国电信](../Page/德国电信.md "wikilink")的子公司，属于[Freemove联盟](https://zh.wikipedia.org/wiki/Freemove "wikilink")。T-Mobile在[西欧](../Page/西欧.md "wikilink")和[美国](../Page/美国.md "wikilink")营运[GSM](../Page/GSM.md "wikilink")网络并通过金融手段参与[东欧](../Page/东欧.md "wikilink")和[东南亚的网络营运](https://zh.wikipedia.org/wiki/东南亚 "wikilink")。该公司拥有1.09亿用户，是世界上[最大的移动电话公司之一](https://zh.wikipedia.org/wiki/最大的移动电话公司 "wikilink")。
 
 ## 市场状况

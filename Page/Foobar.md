@@ -1,3 +1,6 @@
+> 本文内容由[Foobar](https://zh.wikipedia.org/wiki/Foobar)转换而来。
+
+
 **foobar**是電腦程式領域裏的术语，並無實際用途和參考意義。在[计算机程序设计与计算机技术的相关文档中](https://zh.wikipedia.org/wiki/计算机程序设计 "wikilink")，术语**foobar**是一个常见的[无名氏化名](https://zh.wikipedia.org/wiki/无名氏 "wikilink")，常被作为“”使用。
 
 从技术上讲，“foobar”很可能在1960年代至1970年代初通过[迪吉多](../Page/迪吉多.md "wikilink")的系统手册传播开来。另一种说法是，“foobar”可能来源于电子学中反转的foo信号（\(\bar{q}\)）；这是因为如果一个数字信号是低电平有效（即负压或零电压代表“1”），那么在信号标记上方一般会标有一根水平横线，而横线的英文即为“bar”。在《》中，还提到“foo”可能早于“[FUBAR](https://zh.wikipedia.org/wiki/FUBAR "wikilink")”出现。\[1\]

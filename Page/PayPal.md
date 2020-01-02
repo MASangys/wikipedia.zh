@@ -1,3 +1,6 @@
+> 本文内容由[PayPal](https://zh.wikipedia.org/wiki/PayPal)转换而来。
+
+
 ，是一个[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[圣荷西市的](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")[因特网](https://zh.wikipedia.org/wiki/因特网 "wikilink")[第三方支付](../Page/第三方支付.md "wikilink")服务商，允许在使用[电子邮件](../Page/电子邮件.md "wikilink")来标识身份的用户之间[转移资金](https://zh.wikipedia.org/wiki/转移资金 "wikilink")，避免了传统的[邮寄](https://zh.wikipedia.org/wiki/邮寄 "wikilink")[支票](../Page/支票.md "wikilink")或者[汇款的方法](https://zh.wikipedia.org/wiki/汇款 "wikilink")。也和一些[电子商务](../Page/电子商务.md "wikilink")[网站合作](https://zh.wikipedia.org/wiki/网站 "wikilink")，成为它们的付款方式之一；但是用这种付款方式[转账时](https://zh.wikipedia.org/wiki/转账 "wikilink")，收取数额比例相当高昂的[手续费](https://zh.wikipedia.org/wiki/手续费 "wikilink")。
 
 ## 發展

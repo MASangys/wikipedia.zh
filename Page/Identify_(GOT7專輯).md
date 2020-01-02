@@ -1,3 +1,6 @@
+> 本文内容由[Identify \(GOT7專輯\)](https://zh.wikipedia.org/wiki/Identify_\(GOT7專輯\))转换而来。
+
+
 《**Identify**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GOT7](../Page/GOT7.md "wikilink")的第一張[韓語正規專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2014年11月18日發行，唱片公司為KT Music，主打歌曲為《Stop stop it》。專輯名稱「Identify」具有尋找GOT7專屬風格的意義，製作人[朴軫永](../Page/朴軫永.md "wikilink")在個人推特上表示以往製作過的如[Rain](../Page/Rain.md "wikilink")、[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[Wonder Girls等歌手](../Page/Wonder_Girls.md "wikilink")，都是在第三張作品找到屬於自己的定位，因此他確信GOT7也能在第三張作品《Identify》找到自己的色彩，做出真正的 Groove 舞曲\[1\]。
 
 ## 背景

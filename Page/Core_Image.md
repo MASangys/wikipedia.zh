@@ -1,3 +1,6 @@
+> 本文内容由[Core Image](https://zh.wikipedia.org/wiki/Core_Image)转换而来。
+
+
 [Apple_CoreImage.jpg](https://zh.wikipedia.org/wiki/File:Apple_CoreImage.jpg "fig:Apple_CoreImage.jpg") **Core Image**是一項[Mac OS X中的新技術](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，利用機器的[繪圖處理器來作影像相關特效](https://zh.wikipedia.org/wiki/繪圖處理器 "wikilink")。於[2004年8月](../Page/2004年8月.md "wikilink")的[世界開發者大會](https://zh.wikipedia.org/wiki/世界開發者大會 "wikilink")（WWDC）中展示，它提供大部份共同圖形濾鏡的捷徑。它提供即時直接作很多共同形式的[影像處理能力](https://zh.wikipedia.org/wiki/影像處理 "wikilink")（在這之前必須由開發者自己的程式碼來實做完成）。
 
 Core Image較簡單的[GUI增強有更深遠的含意](https://zh.wikipedia.org/wiki/GUI "wikilink")，像是由[Dashboard](../Page/Dashboard.md "wikilink")所產生的[水波紋效果](https://zh.wikipedia.org/wiki/:File:apple_dashboard_ripple.jpg "wikilink")。Core Image可以用來作即時的影像操作，類似於[Photoshop的濾鏡](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。這些運算稱為影像單位（Image Units）。然而，不像傳統的濾鏡是在來源影像上操作，Core Image利用重疊來實現這樣的操作 -- 能維持原來的影像。這稱為"非破壞性"操作。這樣的結果可以用來作高複雜度和多層的影像操作，而只有少數或沒有品質上的損失。

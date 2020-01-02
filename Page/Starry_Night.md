@@ -1,3 +1,6 @@
+> 本文内容由[Starry Night](https://zh.wikipedia.org/wiki/Starry_Night)转换而来。
+
+
 [Strrynight.png](https://zh.wikipedia.org/wiki/File:Strrynight.png "fig:Strrynight.png") ****是一款世界知名的[天文](https://zh.wikipedia.org/wiki/天文 "wikilink")[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。目前的最新版本是Pro Plus 6.4.3版。
 
 ## 系统要求

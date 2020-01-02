@@ -1,3 +1,6 @@
+> 本文内容由[The Genius：黑色石榴石第五回合](https://zh.wikipedia.org/wiki/The_Genius：黑色石榴石第五回合)转换而来。
+
+
 《**[The Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TVN](../Page/TVN.md "wikilink")電視台的心理戰遊戲綜藝節目《[The Genius](../Page/The_Genius.md "wikilink")》系列第三季，逢周三晚間11點30分（韓國時間）播出，邀請13位各界精英參賽，透過遊戲進行玩家間的心理攻防戰，每集淘汰一名參賽者。遊戲最初每位玩家都有一個寶石籌碼，每個寶石籌碼價值100萬[韓圜](../Page/韓圜.md "wikilink")，玩家通過遊戲賺取寶石籌碼，最終勝利時可以兌換相應金額的獎金。\[1\]
 《**[The Genius](../Page/The_Genius.md "wikilink")：黑色石榴石**》（）第五回合於2014年10月29日首播。該回合的主要競賽 (Main Match)是《礦工遊戲》（），死亡競賽 (Death Match)是《雙面撲克》（）。
 本回合優勝者為：

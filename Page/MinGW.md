@@ -1,3 +1,6 @@
+> 本文内容由[MinGW](https://zh.wikipedia.org/wiki/MinGW)转换而来。
+
+
 **MinGW**（**Min**imalist **G**NU for **W**indows），又称**mingw32**，是将[GCC](../Page/GCC.md "wikilink")编译器和[GNU Binutils移植到Win](../Page/GNU_Binutils.md "wikilink")32平台下的产物，包括一系列头文件（[Win32API](../Page/Windows_API.md "wikilink")）、[库和](https://zh.wikipedia.org/wiki/靜態連結函式庫 "wikilink")[可执行文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")。
 
 另有可用于产生32位及64位Windows可执行文件的**MinGW-w64**项目，是从原本MinGW产生的分支\[1\]。如今已经独立发展\[2\]。

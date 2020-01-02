@@ -1,3 +1,6 @@
+> 本文内容由[1PUNCH](https://zh.wikipedia.org/wiki/1PUNCH)转换而来。
+
+
 **1PUNCH**（）為D-Business Entertainment與[Brave Entertainment兩間經紀公司合作推出的](https://zh.wikipedia.org/wiki/Brave_Entertainment "wikilink")[韓國雙人男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，1PUNCH由[鄭帝元](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")（1 / one）和[金SAMUEL](https://zh.wikipedia.org/wiki/金SAMUEL "wikilink")（PUNCH）組成，於2015年1月23日出道，組合也於同年的九月解散。
 
 1PUNCH於出道100日後公開粉絲名稱為「K.O」(Knock Out)，意思為1punch的魅力擊倒所有人，還有大家所選出魅力的意義。

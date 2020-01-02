@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM SEED系列機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_SEED系列機體列表)转换而来。
+
+
 **機動戰士GUNDAM SEED系列機體列表**，主要內容為日本動畫作品《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》、《[機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》、《[机动战士GUNDAM SEED C.E.73 STARGAZER](../Page/机动战士GUNDAM_SEED_C.E.73_STARGAZER.md "wikilink")》及附属作品所构成的[宇宙纪元](../Page/宇宙纪元.md "wikilink")所登場的[机动战士](../Page/机动战士.md "wikilink")与[机动装甲](../Page/機動裝甲.md "wikilink")。
 
 ## [地球聯合軍](https://zh.wikipedia.org/wiki/地球聯合軍 "wikilink")

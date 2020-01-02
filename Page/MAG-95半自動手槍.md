@@ -1,3 +1,6 @@
+> 本文内容由[MAG-95半自動手槍](https://zh.wikipedia.org/wiki/MAG-95半自動手槍)转换而来。
+
+
 **MAG-95**是一款由[波兰槍械設計師馬利安](https://zh.wikipedia.org/wiki/波兰 "wikilink")·吉史格佛斯（Marian Gryszkiewicz）所設計、位於[拉多姆](../Page/拉多姆.md "wikilink")的（現稱：Fabryka Broni Łucznik）生產的[半自動手槍](../Page/半自動手槍.md "wikilink")。改進的型號是MAG-98，目前是MAG-08。MAG-95手槍的設計師放棄了以往採用[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")時期的設計實踐基礎，而是受到西方設計手法的影響而利用[9×19毫米口徑手枪子彈和一些最新型的保險和其他設計技術](../Page/9×19mm魯格彈.md "wikilink")。
 
 MAG-95採用了大多數對於西方射手而言已經習以為常，但已經從大多數東歐手槍都沒有而直到最近才有的、能夠方便使用者的設備。

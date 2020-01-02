@@ -1,3 +1,6 @@
+> 本文内容由[蒙古国LGBT权益](https://zh.wikipedia.org/wiki/蒙古国LGBT权益)转换而来。
+
+
 [同性性行为于](https://zh.wikipedia.org/wiki/同性性行为 "wikilink")1961年在[蒙古国](../Page/蒙古国.md "wikilink")合法化。
 
 在蒙古国境内存在一些活跃的LGBT维权组织，其中最著名的是"Tavilan"（意为：“命运”）。

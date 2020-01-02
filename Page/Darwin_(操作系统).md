@@ -1,3 +1,6 @@
+> 本文内容由[Darwin \(操作系统\)](https://zh.wikipedia.org/wiki/Darwin_\(操作系统\))转换而来。
+
+
 **Darwin**是由[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2000年所釋出的一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。Darwin是[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[iOS操作環境的作業系統部份](https://zh.wikipedia.org/wiki/iOS "wikilink")。蘋果公司於2000年把Darwin釋出給開放原始碼社群。
 
 Darwin是一種[類Unix作業系統](https://zh.wikipedia.org/wiki/類Unix "wikilink")，包含開放原始碼的[XNU](../Page/XNU.md "wikilink")[內核](https://zh.wikipedia.org/wiki/內核 "wikilink")，其以[微核心為基礎的核心架構來實作](https://zh.wikipedia.org/wiki/微核心 "wikilink")[Mach](../Page/Mach.md "wikilink")，而作業系統的服務和[使用者空間工具則以](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[BSD](../Page/BSD.md "wikilink")為基礎。類似其他類Unix作業系統，Darwin也有[對稱多處理器的優點](https://zh.wikipedia.org/wiki/对称多处理机 "wikilink")，高效能的網路設施和支援多種整合的檔案系統。

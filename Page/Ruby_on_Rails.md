@@ -1,3 +1,6 @@
+> 本文内容由[Ruby on Rails](https://zh.wikipedia.org/wiki/Ruby_on_Rails)转换而来。
+
+
 ****（官方简称为Rails，亦被简称为RoR），是一个使用[Ruby](../Page/Ruby.md "wikilink")语言写的[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[Web應用框架](https://zh.wikipedia.org/wiki/Web應用框架 "wikilink")，它是严格按照[MVC](../Page/MVC.md "wikilink")结构开发的。它努力使自身保持简单，来使实际的应用开发时的代码更少，使用最少的配置。
 
 Rails的设计原则包括「[不做重複的事](../Page/一次且仅一次.md "wikilink")」（Don't Repeat Yourself）和「[慣例優於設定](../Page/约定优于配置.md "wikilink")」（Convention Over Configuration）

@@ -1,3 +1,6 @@
+> 本文内容由[VBulletin](https://zh.wikipedia.org/wiki/VBulletin)转换而来。
+
+
 **vBulletin**（有时简称为**vB**，**vBB**）是一个商业[论坛程序](https://zh.wikipedia.org/wiki/討論區 "wikilink")。由Internet Brands及vBulletin Solutions開發及銷售，它使用[PHP](../Page/PHP.md "wikilink")脚本语言编写，并以[MySQL](../Page/MySQL.md "wikilink")為[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。
 
 ## 版本

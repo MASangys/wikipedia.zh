@@ -1,3 +1,6 @@
+> 本文内容由[ZevenOS](https://zh.wikipedia.org/wiki/ZevenOS)转换而来。
+
+
 **ZevenOS**是一個源自德國的 Linux 發行版，它基於 [Xubuntu](../Page/Xubuntu.md "wikilink") 進行定制，主要關注在提供一個簡便快速的可用系統，同時能支持老舊低配的電腦，它的最新版本是 2014年12月31日發佈的 ZevenOS 6.0，這個版本是基於 Ubuntu 14.04 LTS 所開發。
 
 ## 概述

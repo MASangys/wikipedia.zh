@@ -1,3 +1,6 @@
+> 本文内容由[信長KING OF ZIPANGU](https://zh.wikipedia.org/wiki/信長KING_OF_ZIPANGU)转换而来。
+
+
 《**信長 KING OF ZIPANGU**》（****，****），是[NHK在](https://zh.wikipedia.org/wiki/NHK "wikilink")1992年1月5日—12月13日製播放送的第30部[大河劇](../Page/NHK大河劇.md "wikilink")。
 
 本劇是以[葡萄牙](../Page/葡萄牙.md "wikilink")傳教士[路易斯·弗洛伊斯](../Page/路易斯·弗洛伊斯.md "wikilink")的角度來闡述織田信長的一生，劇中以一個帶有洋腔的外國人用日文來當本劇的旁白，並於每一集終結時說一句 "Ate breve\! Obrigado\!"（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")，約為「下回再見！謝謝！」）。在大河劇歷史上，可算是相當特別。

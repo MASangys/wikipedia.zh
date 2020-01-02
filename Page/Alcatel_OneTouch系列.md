@@ -1,3 +1,6 @@
+> 本文内容由[Alcatel OneTouch系列](https://zh.wikipedia.org/wiki/Alcatel_OneTouch系列)转换而来。
+
+
 **Alcatel OneTouch**是[TCL通訊旗下的產品系列](https://zh.wikipedia.org/wiki/TCL通訊 "wikilink")，在中國則以**TCL**的名義銷售。
 
 ## 事件

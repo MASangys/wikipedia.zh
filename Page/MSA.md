@@ -1,3 +1,6 @@
+> 本文内容由[MSA](https://zh.wikipedia.org/wiki/MSA)转换而来。
+
+
 **MSA**可能指：
 
 ## 組織或企業

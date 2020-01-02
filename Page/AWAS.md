@@ -1,3 +1,6 @@
+> 本文内容由[AWAS](https://zh.wikipedia.org/wiki/AWAS)转换而来。
+
+
 [AWAS_Logo.PNG](https://zh.wikipedia.org/wiki/File:AWAS_Logo.PNG "fig:AWAS_Logo.PNG") **AWAS**，原名**安捷全球航空服務**（，常簡稱為**安捷全球**），是一家總部位於[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[都柏林](../Page/都柏林.md "wikilink")的業者，也是全球最大的[噴射客機租賃公司之一](https://zh.wikipedia.org/wiki/噴射機 "wikilink")。AWAS旗下擁有超過300架的各型客機，並出租給全球超過100家的[航空公司](../Page/航空公司.md "wikilink")。AWAS的主要[股東是](https://zh.wikipedia.org/wiki/股東 "wikilink")[盧森堡的卡梅爾資本](https://zh.wikipedia.org/wiki/盧森堡 "wikilink")（Carmel Capital Sàrl），一家隸屬於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[私募基金](https://zh.wikipedia.org/wiki/私募基金 "wikilink")（Terra Firma Capital Partners, TFCP）旗下的控股公司。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[RAR](https://zh.wikipedia.org/wiki/RAR)转换而来。
+
+
 ****是一种专利[檔案格式](../Page/檔案格式.md "wikilink")，用于[数据压缩](../Page/数据压缩.md "wikilink")与归档打包，开发者为（，拉丁轉寫：Yevgeny Lazarevich Roshal），RAR的全名是「**R**oshal **AR**chive」，即“罗谢尔的归档”之意。首个公开版本RAR 1.3发布于1993年。
 
 尤金·羅謝爾，1972年3月10日生于[俄罗斯](../Page/俄罗斯.md "wikilink")。毕业于俄罗斯[车里雅宾斯克工业大学](https://zh.wikipedia.org/wiki/车里雅宾斯克工业大学 "wikilink")（Chelyabinsk Technical University，今），也是FAR文件管理器的作者。他开发程序压缩或解压RAR文件，最初用于[DOS](../Page/DOS.md "wikilink")，后来移植到其它平台。主要的[Windows版本编码器](https://zh.wikipedia.org/wiki/Windows "wikilink")，称为[WinRAR](../Page/WinRAR.md "wikilink")，以[共享软件的形式发行](https://zh.wikipedia.org/wiki/共享软件 "wikilink")。不过羅謝爾公开-{了}-解码器源码，UnRAR解码器许可证以不许发布编译RAR兼容编码器为条件下允许有条件自由发布与修改，而RAR编码器一直是有[专利](../Page/专利.md "wikilink")的。

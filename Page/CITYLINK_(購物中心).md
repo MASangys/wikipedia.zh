@@ -1,3 +1,6 @@
+> 本文内容由[CITYLINK \(購物中心\)](https://zh.wikipedia.org/wiki/CITYLINK_\(購物中心\))转换而来。
+
+
 [Citylink_Songshan_e-invoice_20160220_face.jpg](https://zh.wikipedia.org/wiki/File:Citylink_Songshan_e-invoice_20160220_face.jpg "fig:Citylink_Songshan_e-invoice_20160220_face.jpg")
 
 **CITYLINK**，是[臺灣](../Page/臺灣.md "wikilink")一家連鎖[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，為[潤泰企業集團](../Page/潤泰企業集團.md "wikilink")旗下[潤泰創新轉投資的](https://zh.wikipedia.org/wiki/潤泰創新 "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")。在[臺北市](../Page/臺北市.md "wikilink")有四家分店，首家**南港店**在[台灣鐵路](../Page/台灣鐵路.md "wikilink")[南港車站的](https://zh.wikipedia.org/wiki/南港車站 "wikilink")[潤泰南港車站大樓](https://zh.wikipedia.org/wiki/潤泰南港車站大樓 "wikilink")；第二家**松山壹號店**在[台灣鐵路](../Page/台灣鐵路.md "wikilink")[松山車站的](https://zh.wikipedia.org/wiki/松山車站_\(台灣\) "wikilink")[潤泰松山車站大樓](https://zh.wikipedia.org/wiki/潤泰松山車站大樓 "wikilink")；第三家**松山貳號店**於2017年11月開設在壹號店旁；第四家**內湖店**位於[臺北捷運](../Page/臺北捷運.md "wikilink")[內湖站](https://zh.wikipedia.org/wiki/內湖站 "wikilink")\[1\]。

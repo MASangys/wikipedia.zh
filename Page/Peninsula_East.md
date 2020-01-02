@@ -1,3 +1,6 @@
+> 本文内容由[Peninsula East](https://zh.wikipedia.org/wiki/Peninsula_East)转换而来。
+
+
 [Peninsula_East.jpg](https://zh.wikipedia.org/wiki/File:Peninsula_East.jpg "fig:Peninsula_East.jpg") **Peninsula East**，位處於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[油塘](../Page/油塘.md "wikilink")崇耀街9號，是[會德豐](../Page/會德豐.md "wikilink")旗下在油塘的首個住宅項目，部分單位可飽覽維港海景及[東九龍](https://zh.wikipedia.org/wiki/東九龍 "wikilink")[啟德郵輪碼頭](../Page/啟德郵輪碼頭.md "wikilink")景致。項目鄰近油塘灣「綜合發展區」及港鐵油塘站，僅一站往來香港島鰂魚涌。於入伙後，Peninsula East增加多項增值服務，包括24小時健身室、設有駐場[家務助理](https://zh.wikipedia.org/wiki/家務助理 "wikilink")，為住戶提供上門清潔服務等。
 
 Peninsula East，據發展商指出是喻意項目位處九龍半島的東面。 屋苑的入口設於崇耀街9號，但東源街3、5、7、9、11號和崇德圍3號也屬Peninsula East的正確地址。

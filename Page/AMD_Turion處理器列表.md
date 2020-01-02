@@ -1,3 +1,6 @@
+> 本文内容由[AMD Turion處理器列表](https://zh.wikipedia.org/wiki/AMD_Turion處理器列表)转换而来。
+
+
 **[Turion 64](../Page/Turion_64.md "wikilink")**是[AMD公司為流動平台而設的K](https://zh.wikipedia.org/wiki/AMD "wikilink")8處理器。
 
 備註:列表中除了羅列Turion系列處理器外，也會羅列其架構衍生出來的Athlon,Sempron等系列處理器。

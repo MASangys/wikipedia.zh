@@ -1,3 +1,6 @@
+> 本文内容由[富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL)转换而来。
+
+
 **富豪B9TL**（VOLVO B9TL），曾一度被稱為富豪奧林比安的低地台版本（VOLVO Olympian SLF），是[富豪車廠](https://zh.wikipedia.org/wiki/富豪車廠 "wikilink")（VOLVO）生產的一款超低地台[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")，於2002年首次生產。而它是全球暢銷度排名第二的3軸雙層巴士，僅次於[亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")，由2002年至今已售出超過2,000輛。
 
 ## 背景

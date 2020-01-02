@@ -1,3 +1,6 @@
+> 本文内容由[EXO影視作品列表](https://zh.wikipedia.org/wiki/EXO影視作品列表)转换而来。
+
+
 **EXO影視作品列表**主要列舉介紹[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[EXO](../Page/EXO.md "wikilink")**參與演出的專屬電視節目、劇集、電影和綜藝節目。
 
 ## 電影

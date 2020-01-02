@@ -1,3 +1,6 @@
+> 本文内容由[Rivals.com](https://zh.wikipedia.org/wiki/Rivals.com)转换而来。
+
+
 **Rivals.com**是一間以大學[美式足球](../Page/美式足球.md "wikilink")及[籃球為主的網站](https://zh.wikipedia.org/wiki/籃球 "wikilink")，該網站始於1998年，現有超過300名員工\[1\]。對於大學球員的評價有一定的參考性。
 
 ## 包括的學校

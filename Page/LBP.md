@@ -1,3 +1,6 @@
+> 本文内容由[LBP](https://zh.wikipedia.org/wiki/LBP)转换而来。
+
+
 **LBP**可能指：
 
   - [黎巴嫩鎊](../Page/黎巴嫩鎊.md "wikilink")（Lebanese pound）的[ISO 4217代碼](../Page/ISO_4217.md "wikilink")

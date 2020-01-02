@@ -1,3 +1,6 @@
+> 本文内容由[超Supercar Gattiger](https://zh.wikipedia.org/wiki/超Supercar_Gattiger)转换而来。
+
+
 超Supercar Gattiger『**超スーパーカー ガッタイガー**』（ちょうスーパーカー ガッタイガー）是永和制作的[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。1977年10月4日至1978年3月28日在[東京12频道](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")（現：东京电视台）放送。全26話。在毎週星期二19:30～20:00播出，但第14集播出于星期天17:00～17:30\[1\]。
 
 ## 介绍

@@ -1,3 +1,6 @@
+> 本文内容由[Spellbound \(專輯\)](https://zh.wikipedia.org/wiki/Spellbound_\(專輯\))转换而来。
+
+
 《**意亂情迷**》（）是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1991年5月14日由美國[維京唱片](../Page/維京唱片.md "wikilink")公司發行，這張專輯曾在美國告示牌獲得兩週冠軍，全美銷售三白金，這張專輯產生了〈[Rush Rush](../Page/Rush_Rush.md "wikilink")〉以及〈[The Promise of a New Day](../Page/The_Promise_of_a_New_Day.md "wikilink")〉這兩首冠軍單曲。寶拉·阿巴杜以這張專輯成功延續了由上一張專輯《[永遠是你的女孩](../Page/永远是你的女孩.md "wikilink")》（）所締造的全球知名度和群眾魅力。
 
 ## 專輯資料

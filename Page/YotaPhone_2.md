@@ -1,3 +1,6 @@
+> 本文内容由[YotaPhone 2](https://zh.wikipedia.org/wiki/YotaPhone_2)转换而来。
+
+
 **YotaPhone 2**是一款具有两块屏幕的[智能手机](../Page/智能手机.md "wikilink")，是一款同时具有普通[触摸屏和](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[电子墨水屏两块屏幕的智能手机](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")[YotaPhone的第二代产品](https://zh.wikipedia.org/wiki/YotaPhone "wikilink")，于2014年由[俄罗斯](../Page/俄罗斯.md "wikilink")[Yota](../Page/Yota.md "wikilink")公司发售。[2014中国APEC峰会期间](https://zh.wikipedia.org/wiki/2014中国APEC峰会 "wikilink")，时任[俄罗斯总统](../Page/俄罗斯总统.md "wikilink")[普京将其作为国礼赠予时任](https://zh.wikipedia.org/wiki/普京 "wikilink")[中华人民共和国主席](../Page/中华人民共和国主席.md "wikilink")[习近平](../Page/习近平.md "wikilink")。\[1\]
 
 ## 历史

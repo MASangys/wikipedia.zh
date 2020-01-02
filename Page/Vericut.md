@@ -1,3 +1,6 @@
+> 本文内容由[Vericut](https://zh.wikipedia.org/wiki/Vericut)转换而来。
+
+
 **Vericut** （通常拼写为 **VERICUT**）， 是一款用于模拟[机床加工的](https://zh.wikipedia.org/wiki/机床加工 "wikilink")[仿真](../Page/仿真.md "wikilink")[软件](../Page/软件.md "wikilink") 。它通常用于模拟[机床刀具运动以及加工时材料去除过程](../Page/数控机床.md "wikilink")，检测加工过程中可能出现的错误或数控加工程序中的错误。\[1\] 它由CGTech公司所开发\[2\]， 并且在1988年发布了第一个版本。
 
 ## 历史

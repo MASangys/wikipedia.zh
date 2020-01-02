@@ -1,3 +1,6 @@
+> 本文内容由[Bigflo](https://zh.wikipedia.org/wiki/Bigflo)转换而来。
+
+
 **BigFlo**（）為韓國HO COMPANY於2014年推出的男子組合，2014年6月19日以《Delilah》在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。出道時成員包括Jungkyun、Ron、Yuseong、Z-UK、High Top，現任成員為Euijin、Sungmin、Lex。
 
 團名由「**BIG—大；FLO—水流**」組成，寓意「要成為席卷歌謠界的大水流」。\[1\]團體口號為 「**Who is real? BIGFLO\!**」\[2\]，官方歌迷名為「**WAVE**」（）。

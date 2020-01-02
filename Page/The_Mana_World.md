@@ -1,3 +1,6 @@
+> 本文内容由[The Mana World](https://zh.wikipedia.org/wiki/The_Mana_World)转换而来。
+
+
 《**The Mana World**》（TMW）是一個[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")（MMORPG），已獲[GPL許可和確認為](https://zh.wikipedia.org/wiki/GPL "wikilink")[免費軟體](../Page/免費軟體.md "wikilink")\[1\]。 它是由[超級任天堂](../Page/超級任天堂.md "wikilink")电子遊戲《[聖劍傳說2](../Page/聖劍傳說2.md "wikilink")》啟發，采用不斷更新的伺服器，多個元素的2D遊戲。
 
 ## 營運概況

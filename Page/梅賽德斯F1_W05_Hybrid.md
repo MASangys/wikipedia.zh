@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯F1 W05 Hybrid](https://zh.wikipedia.org/wiki/梅賽德斯F1_W05_Hybrid)转换而来。
+
+
 （科技总监）{{-}} （执行技术总监） | Predecessor =  | Successor = [梅賽德斯F1 W06 Hybrid](../Page/梅賽德斯F1_W06_Hybrid.md "wikilink") | Team = [梅賽德斯AMG國油F1車隊](https://zh.wikipedia.org/wiki/梅賽德斯車隊 "wikilink") | Drivers = 6.  [尼可·羅斯堡](https://zh.wikipedia.org/wiki/尼可·羅斯堡 "wikilink")\[1\]
 44\.  [劉易斯·漢米爾頓](https://zh.wikipedia.org/wiki/劉易斯·漢米爾頓 "wikilink")\[2\] | Technical ref = \[3\] | Chassis = 模壓碳纖維和蜂窩複合結構 | Front suspension = 碳纖維橫臂和推桿啟動的扭力彈簧及搖臂 | Rear suspension = 碳纖維橫臂和拉桿啟動的扭力彈簧及搖臂 | Engine name = 梅賽德斯PU106A Hybrid\[4\] | Electric motor = 电动发电机 - 动力 {{-}} 电动发电机 - 余热 | Capacity =  | Configuration = [V6](https://zh.wikipedia.org/wiki/V6引擎 "wikilink")， | Turbo/NA = [渦輪增壓器](../Page/渦輪增壓器.md "wikilink") | Engine position =（90°），限制于18,000 [每分钟转速](https://zh.wikipedia.org/wiki/每分钟转速 "wikilink") | Gears = [序列式半自动变速器](../Page/序列式半自动变速器.md "wikilink") {{-}} 八速進檔、一速退檔裝置 | Weight = 691公斤 | Fuel = [國油](https://zh.wikipedia.org/wiki/國油 "wikilink") | Tyres = [倍耐力](../Page/倍耐力.md "wikilink") P Zero（乾）{{-}} [倍耐力](../Page/倍耐力.md "wikilink") Cinturato（濕） | Debut = [2014年澳大利亞大獎賽](https://zh.wikipedia.org/wiki/2014年澳大利亞大獎賽 "wikilink") | Races = 19 | Wins = 16 | Podiums = 31 | Poles = 18 | Fastest_laps = 12 | Cons_champ = 1 () | Drivers_champ = 1 ([劉易斯·漢米爾頓](https://zh.wikipedia.org/wiki/劉易斯·漢米爾頓 "wikilink"), ) }}
 

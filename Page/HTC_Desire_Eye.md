@@ -1,3 +1,6 @@
+> 本文内容由[HTC Desire Eye](https://zh.wikipedia.org/wiki/HTC_Desire_Eye)转换而来。
+
+
 **HTC Desire EYE**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2014年所开发的[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，為「Desire」系列中最高階的手機。
 
 ## 簡介

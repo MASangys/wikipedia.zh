@@ -1,3 +1,6 @@
+> 本文内容由[IKON](https://zh.wikipedia.org/wiki/IKON)转换而来。
+
+
 **iKON**（；），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")於2015年推出的男子組合，歷經出道生存節目《[WIN](../Page/WIN.md "wikilink")》和《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》，最終由[B.I](../Page/B.I.md "wikilink")（隊長）、[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")（《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》冠軍）、[金振煥](../Page/金振煥.md "wikilink")、[宋允亨](../Page/宋允亨.md "wikilink")、[具俊會](../Page/具俊會.md "wikilink")\[1\]、[金東赫](../Page/金東赫.md "wikilink")和[鄭粲右](../Page/鄭粲右.md "wikilink")\[2\]\[3\]\[4\]\[5\]\[6\]七人組成。 2015年9月15日出道時以《取向狙擊》\[7\]（；）橫掃韓國[Melon等](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")8大音樂排行榜，並囊括韓國五大頒獎典禮[MMA](../Page/甜瓜音樂獎.md "wikilink")、[MAMA](../Page/Mnet亞洲音樂大獎.md "wikilink")、[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")、[金唱片大賞和](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")[Gaon Chart K-POP大獎的新人賞](../Page/Gaon_Chart_K-POP大獎.md "wikilink")，完成「新人賞大滿貫」\[8\]。2016年1月13日於日本出道後，亦獲得最佳新人賞的殊榮。2018年1月25日發布的第二張正規專輯《[Return](../Page/Return_\(iKON專輯\).md "wikilink")》之主打歌《Love Scenario》\[9\]除了橫掃韓國Melon等7大音樂排行榜外，更連續位居實時榜單一位達41日，突破近十年來韓國樂壇史的最長紀錄\[10\]。同年2月9日更被美國《時代雜誌》選為現時K-POP（韓國流行音樂）界中的6大團體之一\[11\]。
 
 ## 團名由來

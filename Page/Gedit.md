@@ -1,3 +1,6 @@
+> 本文内容由[Gedit](https://zh.wikipedia.org/wiki/Gedit)转换而来。
+
+
 **gedit**是一个[GNOME](../Page/GNOME.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")下兼容[UTF-8](../Page/UTF-8.md "wikilink")的[文本编辑器](../Page/文本编辑器.md "wikilink")。它简单易用，有良好的语法高亮，对中文支持很好，支持包括[GB2312](https://zh.wikipedia.org/wiki/GB2312 "wikilink")、[GBK在内的多种字符编码](https://zh.wikipedia.org/wiki/GBK "wikilink")。gedit是一款[自由软件](../Page/自由软件.md "wikilink")。
 
 ## 特点

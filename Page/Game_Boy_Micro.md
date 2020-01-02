@@ -1,3 +1,6 @@
+> 本文内容由[Game Boy Micro](https://zh.wikipedia.org/wiki/Game_Boy_Micro)转换而来。
+
+
 **Game Boy MICRO**是[任天堂](../Page/任天堂.md "wikilink")公司於2005年發售的便携式遊戲機，是GBA的衍生机型，完全兼容GBA遊戲軟體。
 
 ## 概要

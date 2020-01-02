@@ -1,3 +1,6 @@
+> 本文内容由[賭城風雲II](https://zh.wikipedia.org/wiki/賭城風雲II)转换而来。
+
+
 《**賭城風雲II**》（；中國大陸譯名《**澳門風雲2**》）是一部於2015年上映的喜劇電影，該片主要是由[星王朝](../Page/王晶.md "wikilink")、[博納影業集團](https://zh.wikipedia.org/wiki/博納影業集團 "wikilink")、[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")、[寰亞電影](../Page/寰亞電影.md "wikilink")、[邵氏兄弟](../Page/邵氏兄弟.md "wikilink")電影有限公司以及[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")共同投资出品。由[王晶](../Page/王晶.md "wikilink")及[張敏擔任導演](https://zh.wikipedia.org/wiki/張敏_\(導演\) "wikilink")，[劉偉強](../Page/劉偉強.md "wikilink")及[王雅琳監製](https://zh.wikipedia.org/wiki/王雅琳 "wikilink")，由[周潤發](https://zh.wikipedia.org/wiki/周潤發 "wikilink")、[張家輝](../Page/張家輝.md "wikilink")、[劉嘉玲](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")、[余文樂](../Page/余文樂.md "wikilink")等演出。
 
 導演[王晶](../Page/王晶.md "wikilink")透露續集《[賭城風雲](https://zh.wikipedia.org/wiki/賭城風雲III "wikilink")》落實開拍，由周潤發、[劉德華](../Page/劉德華.md "wikilink")主演\[1\]，定於2016年春節檔上映。\[2\]

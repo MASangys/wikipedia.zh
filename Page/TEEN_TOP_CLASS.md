@@ -1,3 +1,6 @@
+> 本文内容由[TEEN TOP CLASS](https://zh.wikipedia.org/wiki/TEEN_TOP_CLASS)转换而来。
+
+
 《**TEEN TOP CLASS**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TEEN TOP第](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")4枚迷你韓語專輯，於2013年8月20日發行，主打歌曲為《不是玩笑》（）\[1\]，其後在同年10月23日發行重新包裝版專輯《TEEN TOP CLASS ADDITION》，主打歌則為《沒出息》（）\[2\]。
 
 ## 曲目

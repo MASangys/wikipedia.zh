@@ -1,3 +1,6 @@
+> 本文内容由[Panzer](https://zh.wikipedia.org/wiki/Panzer)转换而来。
+
+
 [Leopard_2_A5_der_Bundeswehr.jpg](https://zh.wikipedia.org/wiki/File:Leopard_2_A5_der_Bundeswehr.jpg "fig:Leopard_2_A5_der_Bundeswehr.jpg")\]\] [Bundesarchiv_Bild_146-1994-009-17,_Griechenland,_gefangener_Neuseeländer.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_146-1994-009-17,_Griechenland,_gefangener_Neuseeländer.jpg "fig:Bundesarchiv_Bild_146-1994-009-17,_Griechenland,_gefangener_Neuseeländer.jpg")，攝於1944年4月\]\]   **Panzer**（（，縮寫Pz.）是一個德語單詞，意爲[裝甲或](https://zh.wikipedia.org/wiki/裝甲 "wikilink")[坦克](../Page/坦克.md "wikilink")。在英語等語言中涉及到對德軍裝甲的描述時，會將該詞作為特定術語來使用（例如：[裝甲師](https://zh.wikipedia.org/wiki/裝甲師 "wikilink")：panzer division，[四號坦克](../Page/四號坦克.md "wikilink")：Panzer IV。
 
 這個詞語來源於一個已經過時的德語詞*Panzerkampfwagen*，該詞意爲坦克，按字面意思翻是「裝甲作戰車輛」的意思（現代德語通常用*Kampfpanzer*或*Panzer*來描述「坦克」）。

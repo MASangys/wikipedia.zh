@@ -1,3 +1,6 @@
+> 本文内容由[Id Tech 3引擎](https://zh.wikipedia.org/wiki/Id_Tech_3引擎)转换而来。
+
+
 **id Tech 3引擎**是由[id Software开发的用于多种游戏的游戏引擎](https://zh.wikipedia.org/wiki/id_Software "wikilink")。 它和[虚幻引擎](../Page/虚幻引擎.md "wikilink")，[Source引擎](../Page/Source引擎.md "wikilink")是在世界上使用最广泛的游戏引擎。
 
 id Tech 3引擎从[雷神之锤引擎](../Page/雷神之锤引擎.md "wikilink") 和[id Tech 2引擎发展而来](https://zh.wikipedia.org/wiki/id_Tech_2引擎 "wikilink")，和[毁灭战士引擎](../Page/毁灭战士引擎.md "wikilink")有着很大的区别。虽然很多人认为[毁灭战士3引擎是基于id](https://zh.wikipedia.org/wiki/毁灭战士3引擎 "wikilink") Tech 3游戏引擎的，但是这种观点是错误的。 毁灭战士3引擎是由[約翰·卡馬克](../Page/約翰·卡馬克.md "wikilink")领导的开发小组完全重新开发的引擎。

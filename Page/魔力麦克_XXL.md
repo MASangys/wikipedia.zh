@@ -1,3 +1,6 @@
+> 本文内容由[魔力麦克 XXL](https://zh.wikipedia.org/wiki/魔力麦克_XXL)转换而来。
+
+
 是一部2015年上映[美国](../Page/美国.md "wikilink")[喜剧電影](https://zh.wikipedia.org/wiki/喜剧電影 "wikilink")，由执导，編劇，主演是[查宁·塔图姆](https://zh.wikipedia.org/wiki/查宁·塔图姆 "wikilink")、[馬修·鮑默](https://zh.wikipedia.org/wiki/馬修·鮑默 "wikilink")、[凱文·奈許](../Page/凱文·奈許.md "wikilink")和[喬·曼根尼羅](../Page/喬·曼根尼羅.md "wikilink")。本片为2012年喜剧片《[舞棍俱樂部](https://zh.wikipedia.org/wiki/舞棍俱樂部 "wikilink")》的续集。该片定于2015年7月1日上映。
 
 ## 剧情

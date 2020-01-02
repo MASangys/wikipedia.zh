@@ -1,3 +1,6 @@
+> 本文内容由[Aqua \(GUI\)](https://zh.wikipedia.org/wiki/Aqua_\(GUI\))转换而来。
+
+
 **Aqua**是[Mac OS X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[GUI之](https://zh.wikipedia.org/wiki/GUI "wikilink")[商標名稱](https://zh.wikipedia.org/wiki/商標 "wikilink")，以及在這個GUI主要使用的佈景主題（另外一個佈景主題是拉丝金屬，Brushed metal）。
 
 ## 特徵

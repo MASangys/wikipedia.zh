@@ -1,3 +1,6 @@
+> 本文内容由[Chi函数](https://zh.wikipedia.org/wiki/Chi函数)转换而来。
+
+
 **Chi 函数**定义如下\[1\]\[2\]
 
 [Chi(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Chi\(x\)_2D_plot.png "fig:Chi(x)_2D_plot.png") [Chi(x)_3D_plot.png](https://zh.wikipedia.org/wiki/File:Chi\(x\)_3D_plot.png "fig:Chi(x)_3D_plot.png") \({\it Chi} \left( z \right) =\int _{0}^{z}\!{\frac {\cosh \left( t \right) }{t}}{dt}\)

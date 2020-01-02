@@ -1,3 +1,6 @@
+> 本文内容由[I\'m Your Baby Tonight \(歌曲\)](https://zh.wikipedia.org/wiki/I\'m_Your_Baby_Tonight_\(歌曲\))转换而来。
+
+
 《**親愛的今夜屬於你**》（）是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1990年9月份發行的單曲，它在[美國單曲榜曾獲得一週的冠軍](https://zh.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")，為惠妮·休斯頓第8首全美冠軍單曲\[1\]\[2\]，〈親愛的今夜屬於你〉收錄在美國版專輯以及海外版專輯中的歌曲版本各不同。
 
 ## 歌曲

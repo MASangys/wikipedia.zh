@@ -1,3 +1,6 @@
+> 本文内容由[Namie amuro LIVE STYLE 2014](https://zh.wikipedia.org/wiki/Namie_amuro_LIVE_STYLE_2014)转换而来。
+
+
 《namie amuro LIVE STYLE 2014》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2015年2月11日發行的影音作品。
 
 ## 簡介

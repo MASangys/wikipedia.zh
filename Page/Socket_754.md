@@ -1,3 +1,6 @@
+> 本文内容由[Socket 754](https://zh.wikipedia.org/wiki/Socket_754)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

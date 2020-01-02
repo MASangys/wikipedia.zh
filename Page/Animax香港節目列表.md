@@ -1,3 +1,6 @@
+> 本文内容由[Animax香港節目列表](https://zh.wikipedia.org/wiki/Animax香港節目列表)转换而来。
+
+
 本條目列出於香港[Animax播放的](../Page/Animax_Asia.md "wikilink")**日本動畫（包括電視動畫、OVA、劇場版及動畫電影）**及**其他節目**。
 
 大部份動畫皆以雙語同時播出（粵語及日語廣播，[now寬頻電視還提供英語及國語廣播](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")）；但仍有部份動畫只播出一種配音版本。[2015年](../Page/2015年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")起，香港Animax與東南亞Animax統一節目編排播放。

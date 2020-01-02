@@ -1,3 +1,6 @@
+> 本文内容由[B.I.G](https://zh.wikipedia.org/wiki/B.I.G)转换而来。
+
+
 **B.I.G**（全寫為: **Boys In Groove**；），為[韓國GH娛樂公司於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年推出的5人男子組合，成員為J-Hoon、Benji、建珉、鞠旼杓、熙都。2014年7月8日，公開出道曲《你好》\[1\]，2014年7月12日，[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》表演出道舞台。\[2\]
 
 團名含有「**沉醉在音樂中的少年們**」的意思。\[3\]團體口號為 「**Who are we? B.I.G\!**」。\[4\]官方歌迷名為「**Beginning\!**」。\[5\]\[6\]

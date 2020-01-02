@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy Note Edge](https://zh.wikipedia.org/wiki/三星Galaxy_Note_Edge)转换而来。
+
+
 **三星Galaxy Note Edge(也稱三星Galaxy Note 4 Edge)**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子制造的最新](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[大屏幕旗舰级](../Page/平板手机.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，於2014年9月3日在[德国](../Page/德国.md "wikilink")举行的[柏林国际广播展上发布](https://zh.wikipedia.org/wiki/柏林国际广播展 "wikilink")。与同期发布的[Galaxy Note 4相比](../Page/三星Galaxy_Note_4.md "wikilink")，Note Edge的最大卖点是右侧附有一块可独立运作的曲面屏幕，该屏幕运用三星最新的柔性[AMOLED](../Page/AMOLED.md "wikilink")工艺，与主屏幕是无缝一体化。\[1\]它的顯示器在設備右側彎曲顯示，可用作邊欄顯示應用程序快捷方式，通知和其他信息。
 
 ## 開發和發布

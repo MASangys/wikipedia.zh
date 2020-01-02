@@ -1,3 +1,6 @@
+> 本文内容由[Web 2.0](https://zh.wikipedia.org/wiki/Web_2.0)转换而来。
+
+
 [Web_2.0_Map.svg](https://zh.wikipedia.org/wiki/File:Web_2.0_Map.svg "fig:Web_2.0_Map.svg")\]\]
 
 **Web 2.0**，指的是一個利用[万维网](../Page/万维网.md "wikilink")（Web）的平台，一个由用户主导而生成内容的互联网产品模式，且为了区别传统由网站雇员主导生成的内容而定义为web2.0。\[1\]

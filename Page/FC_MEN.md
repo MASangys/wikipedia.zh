@@ -1,3 +1,6 @@
+> 本文内容由[FC MEN](https://zh.wikipedia.org/wiki/FC_MEN)转换而来。
+
+
 **FC MEN**（），是2011年4月於[南韓創立的足球俱樂部](https://zh.wikipedia.org/wiki/南韓 "wikilink")，為[水原三星藍翼足球俱樂部](../Page/水原三星藍翼足球俱樂部.md "wikilink")的全明星子球隊\[1\]\[2\]。
 
 ## 球員名單

@@ -1,3 +1,6 @@
+> 本文内容由[雷神之锤II](https://zh.wikipedia.org/wiki/雷神之锤II)转换而来。
+
+
 《**雷神之锤II**》（），是[id Software于](https://zh.wikipedia.org/wiki/id_Software "wikilink")1997年冬发布的一款划时代的[第一人稱射擊遊戲作品](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。这个游戏是[id Software在其创始人之一](https://zh.wikipedia.org/wiki/id_Software "wikilink")、著名游戏策划设计师[约翰·罗梅洛](../Page/约翰·罗梅洛.md "wikilink")（）离开后发布的第一个游戏。游戏的引擎被[约翰·卡马克](https://zh.wikipedia.org/wiki/约翰·卡马克 "wikilink")（）完全重写，实现了第一代游戏无法比拟的效果。并且首次实现了彩色光影效果，使得游戏中的物体在反射光影时候能展现出不同样的色彩效果。
 
 雷神之锤II的关卡设计是由id Software的新任地图设计师[提姆·威利兹](https://zh.wikipedia.org/wiki/提姆·威利兹 "wikilink")（）完成，展现了与[雷神之锤I完全不同的风格](https://zh.wikipedia.org/wiki/雷神之锤I "wikilink")。单人游戏中充满了陷阱和机会，玩家在享受绚丽效果和屠杀乐趣的同时可以拥有解谜的乐趣。

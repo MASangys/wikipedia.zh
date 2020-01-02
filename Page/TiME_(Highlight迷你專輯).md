@@ -1,3 +1,6 @@
+> 本文内容由[TiME \(Highlight迷你專輯\)](https://zh.wikipedia.org/wiki/TiME_\(Highlight迷你專輯\))转换而来。
+
+
 《**TiME**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST的第](https://zh.wikipedia.org/wiki/BEAST "wikilink")7枚[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2014年10月20日發行，主打歌曲為《12點30分》（）。
 
 ## 背景

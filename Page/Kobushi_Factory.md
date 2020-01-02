@@ -1,3 +1,6 @@
+> 本文内容由[Kobushi Factory](https://zh.wikipedia.org/wiki/Kobushi_Factory)转换而来。
+
+
 ****（MAGNOLIA FACTORY），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。 2015年1月2日結成，2月25日宣布新團名，並於同年9月2日發行第一張單曲主流出道。 同年12月30日, 於第57屆[日本唱片大賞中獲得最優秀新人賞](https://zh.wikipedia.org/wiki/日本唱片大賞 "wikilink")。目前有五名成員（五人原為[Hello\! Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 
 ## 成員

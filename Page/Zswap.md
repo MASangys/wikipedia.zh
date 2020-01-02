@@ -1,3 +1,6 @@
+> 本文内容由[Zswap](https://zh.wikipedia.org/wiki/Zswap)转换而来。
+
+
 **zswap**是一项[Linux内核](../Page/Linux内核.md "wikilink")的[虚拟内存压缩功能](https://zh.wikipedia.org/wiki/虚拟内存压缩 "wikilink")，可为将要[交换的页面提供压缩](../Page/分頁.md "wikilink")[回写](https://zh.wikipedia.org/wiki/回写 "wikilink")[缓存](../Page/缓存.md "wikilink")。当[内存页将要交换出去时](https://zh.wikipedia.org/wiki/内存页 "wikilink")，zswap不将其移动到交换设备，而是对其执行[压缩](../Page/数据压缩.md "wikilink")，然后存储到系统[RAM内动态分配的](https://zh.wikipedia.org/wiki/RAM "wikilink")[内存池中](../Page/記憶池.md "wikilink")。回写到实际交换设备的动作则会延迟，甚至能完全避免，从而显著减少Linux系统用于交换的[I/O](https://zh.wikipedia.org/wiki/I/O "wikilink")；副作用则是压缩所需的额外[CPU周期](https://zh.wikipedia.org/wiki/CPU "wikilink")。\[1\]\[2\]\[3\]
 
 zswap能减少I/O，因而有利于使用[固态存储的设备](https://zh.wikipedia.org/wiki/固态存储 "wikilink")，包括[嵌入式设备](https://zh.wikipedia.org/wiki/嵌入式设备 "wikilink")、[上网本](../Page/上网本.md "wikilink")及其它相似的低端硬件设备，也包括其它使用[SSD存储的设备](https://zh.wikipedia.org/wiki/SSD "wikilink")。由于其[固有性质](../Page/写入放大.md "wikilink")，[闪存](../Page/闪存.md "wikilink")的寿命有限，因而避免以其提供[交换空间可防止其迅速磨损](https://zh.wikipedia.org/wiki/Linux_swap "wikilink")。\[4\]

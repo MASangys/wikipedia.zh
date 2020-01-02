@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Virtual PC](https://zh.wikipedia.org/wiki/Microsoft_Virtual_PC)转换而来。
+
+
 **Microsoft Virtual PC**是一个[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")[软件](../Page/软件.md "wikilink")，可以在[Mac OS和](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") [操作系統上模擬](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[x86電腦](https://zh.wikipedia.org/wiki/x86 "wikilink")，並在其中安装运行操作系统。原來由[Connectix公司開發](https://zh.wikipedia.org/wiki/Connectix "wikilink")，起初-{只}-能在Mac OS運行，後改為跨平台，稱為**Connectix Virtual PC**。[微軟公司於](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")2003年收購該軟件，並改稱為**Microsoft Virtual PC**，並運用於微軟公司的訓練課程（如[MCSE的訓練課程](https://zh.wikipedia.org/wiki/MCSE "wikilink")）作模擬用途。
 
 微軟於2003年底推出用於Windows的Microsoft Virtual PC 2004，並於2006年7月12日宣佈Virtual PC成為[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")。不約而同地，其主要競爭對手[VMware](../Page/VMware.md "wikilink")亦於同年宣佈[VMware Server](https://zh.wikipedia.org/wiki/VMware_Server "wikilink") 1.0成為[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")。目前最新版本為Microsoft Virtual PC 2007，其正式版本已於2007年2月發佈，分為[32位元](../Page/32位元.md "wikilink")及[64位元](../Page/64位元.md "wikilink")版本，並支持[Windows Vista](../Page/Windows_Vista.md "wikilink")，可於微軟官方網站下載。

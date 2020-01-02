@@ -1,3 +1,6 @@
+> 本文内容由[MPEG-21](https://zh.wikipedia.org/wiki/MPEG-21)转换而来。
+
+
 **MPEG-21**是正在制定中的[MPEG](../Page/MPEG.md "wikilink")标准，致力于定义[多媒体](../Page/多媒体.md "wikilink")应用的一个开放框架。
 
 ## 第13部分

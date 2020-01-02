@@ -1,3 +1,6 @@
+> 本文内容由[MKE安卡華高古](https://zh.wikipedia.org/wiki/MKE安卡華高古)转换而来。
+
+
 **MKE安卡華高古（MKE Ankaragücü）**全名 **機械及化學品工業公司安卡華高古（Makina Kimya Endüstrisi Ankaragücü**，），是一支位於土耳其首都[安卡拉](../Page/安卡拉.md "wikilink")的一支職業足球會。球隊主場球衣是黃色及深藍色，主場是安卡拉19美耶斯球場\[1\]
 
 球會曾於1972年和1981年兩奪[土耳其盃](../Page/土耳其盃.md "wikilink")冠軍，亦曾兩度贏得次級聯賽冠軍，業餘年代時贏過5次安卡拉足球聯賽冠軍\[2\]。球隊的宿敵是[真格拿拜列治](https://zh.wikipedia.org/wiki/真格拿拜列治 "wikilink")。

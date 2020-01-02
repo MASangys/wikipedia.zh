@@ -1,3 +1,6 @@
+> 本文内容由[Earth Song](https://zh.wikipedia.org/wiki/Earth_Song)转换而来。
+
+
 〈**Earth Song**〉（可译为**地球之歌**）是[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")在1995年创作的歌曲，这首歌被收录进迈克尔于1996年发布的专辑[History中](https://zh.wikipedia.org/wiki/History "wikilink")，它在德国、瑞士、拉脱维亚、英国的排行榜上均夺得了第一名。
 
 这首歌的[MV收录进了诸如环境问题](https://zh.wikipedia.org/wiki/MV "wikilink")、贫困问题、波黑冲突等各类关于地球与人类目前的面临的问题的题材\[1\]，它在英国的销量超过100万份，并在此国的Wonderwall排行榜上连续六周排行第一，而此单曲在全世界的销量为300万以上。

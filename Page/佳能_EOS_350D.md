@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 350D](https://zh.wikipedia.org/wiki/佳能_EOS_350D)转换而来。
+
+
 **佳能 EOS-350D**（2005年3月上市）是[佳能](../Page/佳能.md "wikilink")公司生產的[數碼單鏡反光相機](https://zh.wikipedia.org/wiki/數碼單鏡反光相機 "wikilink")，又稱為**EOS Kiss Digital N**（[日本](../Page/日本.md "wikilink")市場）或**Digital Rebel XT**（[北美市場](https://zh.wikipedia.org/wiki/北美 "wikilink")）。
 
 ## 參見

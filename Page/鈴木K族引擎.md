@@ -1,3 +1,6 @@
+> 本文内容由[鈴木K族引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎)转换而来。
+
+
 **鈴木K系列引擎**是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1994年9月起開發製造的[往復式](https://zh.wikipedia.org/wiki/往復式發動機 "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，前代產品為[鈴木F系列引擎](https://zh.wikipedia.org/wiki/鈴木F系列引擎 "wikilink")，後繼產品則是[鈴木R系列引擎](https://zh.wikipedia.org/wiki/鈴木R系列引擎 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Osu! World Cup](https://zh.wikipedia.org/wiki/Osu!_World_Cup)转换而来。
+
+
 **osu\! World Cup**，通常簡稱 **OWC**，是多人連線音樂節奏遊戲《[osu\!](https://zh.wikipedia.org/wiki/osu! "wikilink")》的世界級競賽，由《osu\!》賽事團隊主辦，各國的《osu\!》菁英參加的比賽。首屆於 2011 舉行，從第二屆開始，於每一年的年末 ( 10 月至 12 月) 舉辦，並在 2013 年起以年次替代屆數。該賽事已衍生出osu\!taiko World Cup、osu\!catch World Cup 與 osu\!mania World Cup 等賽事。
 
 ## 比賽規則

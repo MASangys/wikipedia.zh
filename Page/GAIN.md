@@ -1,3 +1,6 @@
+> 本文内容由[GAIN](https://zh.wikipedia.org/wiki/GAIN)转换而来。
+
+
 [GAIN-Ad-image001.png](https://zh.wikipedia.org/wiki/File:GAIN-Ad-image001.png "fig:GAIN-Ad-image001.png")
 
 **GAIN**是**Gator Advertising and Information Network**的簡寫，是臭名昭著的[間諜軟體製造商](https://zh.wikipedia.org/wiki/間諜軟體 "wikilink")[Claria股份有限公司的三家子公司之一](https://zh.wikipedia.org/wiki/Claria股份有限公司 "wikilink")。總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[紅木城](../Page/紅木城.md "wikilink")，於1998年由[Denis Coleman成立](https://zh.wikipedia.org/wiki/Denis_Coleman "wikilink")。它的特色是經常利用「[訴諸恐懼](../Page/訴諸恐懼.md "wikilink")」的技巧，利用虛假的廣告假扮系統的警告，使新手或使用電腦程度較淺的用者墮入陷阱，在電腦系統中安裝了他們公司的間諜軟件。另一方面，他們的間諜軟件亦是出名很難清除。

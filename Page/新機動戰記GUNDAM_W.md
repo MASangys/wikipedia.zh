@@ -1,3 +1,6 @@
+> 本文内容由[新機動戰記GUNDAM W](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W)转换而来。
+
+
 《**新機動戰記GUNDAM W**》，是1995年4月到1996年3月在[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")所播映的[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")電視動畫影集共49話。本作是GUNDAM系列首部成功打入女性觀眾市場的作品。
 
 《**新機動戰記GUNDAM W**》與《[機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")》及《[機動新世紀GUNDAM X](../Page/機動新世紀GUNDAM_X.md "wikilink")》常被並稱為「平成三部曲」。

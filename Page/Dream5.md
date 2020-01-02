@@ -1,3 +1,6 @@
+> 本文内容由[Dream5](https://zh.wikipedia.org/wiki/Dream5)转换而来。
+
+
 **Dream5**是[日本](../Page/日本.md "wikilink")一隊由青少年所組成的歌舞團體，簡稱「」（），成立於2009年。組團時由4女1男所組成，現時則改為3女1男，以演釋[J-Pop](https://zh.wikipedia.org/wiki/J-Pop "wikilink")、[舞蹈流行音樂](https://zh.wikipedia.org/wiki/舞蹈流行音樂 "wikilink")、[少年流行曲為主](https://zh.wikipedia.org/wiki/少年流行曲 "wikilink")，對象主要為[青少年](../Page/青少年.md "wikilink")及[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")。所屬唱片公司為[Avex trax](../Page/Avex_trax.md "wikilink")，[經紀公司](../Page/經紀公司.md "wikilink")為Avex trex 旗下的。2016年12月31日，團體正式解散。
 
 ## 成立經過

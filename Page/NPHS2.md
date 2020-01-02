@@ -1,3 +1,6 @@
+> 本文内容由[NPHS2](https://zh.wikipedia.org/wiki/NPHS2)转换而来。
+
+
 **[足蛋白](../Page/足蛋白.md "wikilink")**(、NPHS2)是在人體內由*NPHS2*(Nephrosis 2)[基因](../Page/基因.md "wikilink")編碼的[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。\[1\]\[2\]\[3\]
 
 ## 交互作用

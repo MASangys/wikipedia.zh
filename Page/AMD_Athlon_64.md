@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon 64](https://zh.wikipedia.org/wiki/AMD_Athlon_64)转换而来。
+
+
 **Athlon 64**是美國[AMD公司的](https://zh.wikipedia.org/wiki/AMD "wikilink")64位[微處理器型號之一](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，它支援[AMD64架構](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，用於針對個人客戶的64位處理器市場。早期AMD K8開發計劃中，K8代號為**Hammer**，並使用與[IBM](../Page/IBM.md "wikilink")共同開發的**[SOI](../Page/SOI.md "wikilink")**（絕緣上覆矽）技術。
 
 **Athlon 64**分為[64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[FX及](../Page/Athlon_64_FX.md "wikilink")[X2三個版本](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")，當中以Athlon 64-FX的效能為最高，與[Opteron](../Page/Opteron.md "wikilink")相似。Athlon 64除支援AMD64外，還兼容16位和32位的[x86平台](https://zh.wikipedia.org/wiki/x86 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Excel](https://zh.wikipedia.org/wiki/Microsoft_Excel)转换而来。
+
+
 **Microsoft Excel**是[Microsoft为使用](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Apple Macintosh操作系统的电脑编写的一款](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")[試算表软件](https://zh.wikipedia.org/wiki/試算表 "wikilink")。直观的界面、出色的计算功能和图表工具，再加上成功的市场营销，使Excel成为最流行的个人计算机数据处理软件。在1993年，作为Microsoft Office的组件发布了5.0版之后，Excel就开始成为所适用操作平台上的电子制表软件的霸主。
 
 ## 歷史

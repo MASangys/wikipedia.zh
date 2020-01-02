@@ -1,3 +1,6 @@
+> 本文内容由[古惑仔Online](https://zh.wikipedia.org/wiki/古惑仔Online)转换而来。
+
+
 《**古惑仔Online**》是由[Gameone Group Ltd開發出](https://zh.wikipedia.org/wiki/Gameone_Group_Ltd "wikilink"),並獲得「和平出版有限公司」授權\[1\]的一款手機遊戲。於2015年1月15日在[App Store和](https://zh.wikipedia.org/wiki/App_Store "wikilink")[Google Play同步發行](../Page/Google_Play.md "wikilink")\[2\]。
 
 ## 遊戲內容

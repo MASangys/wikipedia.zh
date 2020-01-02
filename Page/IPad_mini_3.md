@@ -1,3 +1,6 @@
+> 本文内容由[IPad mini 3](https://zh.wikipedia.org/wiki/IPad_mini_3)转换而来。
+
+
 **iPad mini 3**是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[平板電腦](../Page/平板電腦.md "wikilink")，配備有7.9吋[-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-和Touch](../Page/Retina显示屏.md "wikilink") ID指纹识别功能，2014年10月16日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[舊金山發佈](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，並於同年11月15日發售。
 
 ## 軟件

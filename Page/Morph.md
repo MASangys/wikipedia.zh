@@ -1,3 +1,6 @@
+> 本文内容由[Morph](https://zh.wikipedia.org/wiki/Morph)转换而来。
+
+
 《**Morph**》是[張敬軒的第](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")16張[專輯](../Page/音樂專輯.md "wikilink")，是加盟英皇娛樂後首張全創作大碟，於2014年10月16日推出。專輯的第一派台歌以及第一主打歌都是《青春常駐》，而第二主打歌則為《最卑微的願望》。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[So Emotional](https://zh.wikipedia.org/wiki/So_Emotional)转换而来。
+
+
 《''' So Emotional '''》是美國女歌手[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1987年10月所發行的單曲，這首單曲獲得美國單曲榜一週冠軍，它也成為惠妮·休斯頓第6首美國冠軍單曲。
 
 ## 歌曲資料

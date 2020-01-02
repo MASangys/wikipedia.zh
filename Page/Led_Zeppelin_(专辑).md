@@ -1,3 +1,6 @@
+> 本文内容由[Led Zeppelin \(专辑\)](https://zh.wikipedia.org/wiki/Led_Zeppelin_\(专辑\))转换而来。
+
+
 《》（参考译名：齐柏林飞艇）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")[齐柏林飞艇的首张专辑](https://zh.wikipedia.org/wiki/齐柏林飞艇乐队 "wikilink")，于1969年1月12日由[大西洋唱片](../Page/大西洋唱片.md "wikilink")在[美国](../Page/美国.md "wikilink")发行。该专辑确立了他们融合[布鲁斯和](https://zh.wikipedia.org/wiki/布鲁斯 "wikilink")[摇滚](../Page/摇滚.md "wikilink")的风格，为乐队吸引了一大批忠实歌迷。尽管这张专辑最开始收到负面的专业评价，但它在商业上非常成功，而如今乐评也已转为积极的肯定。2003年，它在《[滚石](https://zh.wikipedia.org/wiki/滚石_\(杂志\) "wikilink")》杂志的“[史上最伟大的500张专辑](https://zh.wikipedia.org/wiki/滚石杂志五百大专辑 "wikilink")”榜单上排名第29位（在2012年版的榜单上名次未改变）。2004年，该专辑进入了\[1\]。
 
 ## 背景

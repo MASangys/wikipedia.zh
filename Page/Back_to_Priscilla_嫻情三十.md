@@ -1,3 +1,6 @@
+> 本文内容由[Back to Priscilla 嫻情三十](https://zh.wikipedia.org/wiki/Back_to_Priscilla_嫻情三十)转换而来。
+
+
 **《Back to Priscilla 嫻情三十》**是香港女歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")於2014年推出的精選專輯，共收錄入行至今多首經典作品、演唱會翻唱的作品及2008年的歌曲《無名指》，3CD合共收錄51首作品。另外亦收錄了陳慧嫻歷年多段演唱會的珍貴片段。此專輯由[環球旗下](https://zh.wikipedia.org/wiki/環球 "wikilink")[寶麗金](../Page/寶麗金.md "wikilink")發行，為入行三十週年的紀念演唱會《[Back to Priscilla 30th Anniversary Concert 2014](../Page/Back_to_Priscilla_30th_Anniversary_Concert_2014.md "wikilink")》造勢，此專輯亦於香港唱片商會銷量榜中取得五週亞軍的佳績。
 
 ## 曲目

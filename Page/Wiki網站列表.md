@@ -1,3 +1,6 @@
+> 本文内容由[Wiki網站列表](https://zh.wikipedia.org/wiki/Wiki網站列表)转换而来。
+
+
 **Wiki網站**，是指使用[Wiki軟體](../Page/Wiki軟體.md "wikilink")的網站。
 
 ## 列表

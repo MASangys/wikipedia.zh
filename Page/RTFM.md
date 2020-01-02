@@ -1,3 +1,6 @@
+> 本文内容由[RTFM](https://zh.wikipedia.org/wiki/RTFM)转换而来。
+
+
 **RTFM**，是一個[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[縮寫](../Page/縮寫.md "wikilink")，意思是：「去讀那些他媽的手冊」（**R**ead **T**he **F**ucking **M**anual），這句話通常用在回覆那些只要查閱文件就可以解決，拿出來提問只是浪費別人時間的問題。而為了避免這個縮寫單詞，因為用了「[fuck](https://zh.wikipedia.org/wiki/fuck "wikilink")」（他媽的）這個單詞而攻擊性、火藥味太重，RTFM也被解釋成「去讀那些愚蠢的手冊」（Read The Foolish Manual）；有的時候也解釋成「去讀那些友善的手冊」（Read The Friendly Manual）或「去讀那些寫得不錯的手冊」（Read The Fine Manual）。另外，有時候就乾脆把「F」拿掉，直接寫成RTM（去讀手冊，Read The Manual）。
 
 ## 起源

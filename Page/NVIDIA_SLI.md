@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA SLI](https://zh.wikipedia.org/wiki/NVIDIA_SLI)转换而来。
+
+
 **SLI**，全稱為「**-{zh-hans:可灵活伸缩的连接接口;zh-hk:可擴充鏈結介面;zh-tw:可擴充鏈結介面;}-**」（Scalable Link Interface），中文简称**速力**，是一種可把兩張或以上的[顯示卡連在一起](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，作單一輸出使用的技術，從而達至繪圖處理效能加強的效果。該技術最初被稱為Scan Line Interleave，於1998年由[3dfx公司推出](https://zh.wikipedia.org/wiki/3dfx "wikilink")，應用在[Voodoo 2繪圖處理器上](https://zh.wikipedia.org/wiki/Voodoo_2 "wikilink")。至2004年，3dfx的收購者[NVIDIA再次推出此技術](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，應用在以[PCI Express為基礎的](../Page/PCI_Express.md "wikilink")[電腦上](https://zh.wikipedia.org/wiki/電腦 "wikilink")。
 
 ## 3dfx的SLI(Scan-Line Interleave)

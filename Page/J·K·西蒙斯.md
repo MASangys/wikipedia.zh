@@ -1,3 +1,6 @@
+> 本文内容由[J·K·西蒙斯](https://zh.wikipedia.org/wiki/J·K·西蒙斯)转换而来。
+
+
 **-{zh-tw:強納森;zh-hk:祖拿芬;zh-cn:乔纳森;}-·金布爾·「J. K.」·西蒙斯**（，）是一位[美国](../Page/美国.md "wikilink")男演员，其知名角色包括[NBC电视剧](https://zh.wikipedia.org/wiki/NBC "wikilink")《[法律与秩序](https://zh.wikipedia.org/wiki/法律与秩序 "wikilink")》里的Dr. Emil Skoda，[HBO](../Page/HBO.md "wikilink")出品的监狱剧集《[监狱风云](../Page/监狱风云_\(美国电视剧\).md "wikilink")》中的Vernon Schillinger，[TNT剧集](https://zh.wikipedia.org/wiki/Turner_Network_Television "wikilink")《[真相追击](https://zh.wikipedia.org/wiki/真相追击 "wikilink")》里的Will Pope，[山姆·雷米](../Page/山姆·雷米.md "wikilink")执导的「[蜘蛛侠三部曲](https://zh.wikipedia.org/wiki/蜘蛛侠 "wikilink")」中的[J·喬納·詹姆森](../Page/J·喬納·詹姆森.md "wikilink")。在2014年电影《[爆裂鼓手](../Page/爆裂鼓手.md "wikilink")》里，演绎的魔鬼导师为其收获广泛好评，赢得包括[美國演員工會獎最佳男配角](https://zh.wikipedia.org/wiki/美國演員工會獎最佳男配角 "wikilink")、[英國電影學院獎最佳男配角](../Page/英國電影學院獎最佳男配角.md "wikilink")、[第72届金球奖最佳男配角以及](https://zh.wikipedia.org/wiki/第72届金球奖 "wikilink")[第87届奥斯卡金像奖最佳男配角等在内的许多男配角奖项](https://zh.wikipedia.org/wiki/第87屆奧斯卡金像獎 "wikilink")。
 
 ## 生平

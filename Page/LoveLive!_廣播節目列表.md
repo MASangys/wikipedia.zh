@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive! 廣播節目列表](https://zh.wikipedia.org/wiki/LoveLive!_廣播節目列表)转换而来。
+
+
 本列表羅列了**《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》的廣播節目**。它包括[日昇動畫](../Page/日昇動畫.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[電擊G's magazine的聯合作品](../Page/電擊G's_magazine.md "wikilink")《LoveLive\!》讀者參與計畫之中，有關廣播節目的部分。
 
 ## 網路電視部分

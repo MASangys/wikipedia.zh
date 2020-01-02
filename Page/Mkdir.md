@@ -1,3 +1,6 @@
+> 本文内容由[Mkdir](https://zh.wikipedia.org/wiki/Mkdir)转换而来。
+
+
 **`mkdir`**（，创建目录）[命令在](../Page/命令_\(计算机\).md "wikilink")[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[DOS](../Page/DOS.md "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")以及[PHP](../Page/PHP.md "wikilink")脚本语言中用于创建一个[目录](../Page/目录_\(文件系统\).md "wikilink")。DOS、OS/2和Windows中，这条指令常被简写用作**`md`**。
 
 ## 用法

@@ -1,3 +1,6 @@
+> 本文内容由[你是誰 \(潔西 J專輯\)](https://zh.wikipedia.org/wiki/你是誰_\(潔西_J專輯\))转换而来。
+
+
 《**你是誰**\[1\]》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[歌手](../Page/歌手.md "wikilink")[潔西·J的首張](https://zh.wikipedia.org/wiki/潔西·J "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，此專輯分別於2011年2月25日及4月12日在英國與美國發行。
 
 專輯於音樂評論家中獲得的評論褒眨不一。專輯於英國首周以105,000張空降排行榜亞軍，而美國首周則賣出34,000張。兩首於專輯發售前發行的單曲：英國首張單曲"Do It Like a Dude"以及與B.O.B合唱並在美國發行的"Price Tag"。第三支單曲“Nobody's Perfect”，成為潔西的連續第3張在英國排行前十的單曲。第4張單曲"Who's Laughing Now"於2011年8月26日發行，並打進排行榜第16名。

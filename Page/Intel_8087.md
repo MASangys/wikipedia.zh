@@ -1,3 +1,6 @@
+> 本文内容由[Intel 8087](https://zh.wikipedia.org/wiki/Intel_8087)转换而来。
+
+
 [Intel_C8087.jpg](https://zh.wikipedia.org/wiki/File:Intel_C8087.jpg "fig:Intel_C8087.jpg") **8087** 是由 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 所設計的第一個數學 [輔助處理器](../Page/輔助處理器.md "wikilink")，並且它是建造來與 Intel [8088](../Page/Intel_8088.md "wikilink") 和 [8086](../Page/Intel_8086.md "wikilink") 微處理器成對工作。它是 x87 家族中的第一個，8087 的目的是用來加速應用程式有關 [浮點](https://zh.wikipedia.org/wiki/浮點 "wikilink") 運算的運算需求。效能的加強依照特定的應用，從 20% 到 500% 不等。
 
 輔助處理器推出約 60 個新的可利用指令給程式設計師，所有的指令都是以 "F" 開頭跟其他的標準 8086/8088 整數運算指令有所區別，舉例來說，相對於 ADD/MUL，8087 提供 FADD/FMUL。

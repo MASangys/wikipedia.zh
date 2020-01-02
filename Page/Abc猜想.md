@@ -1,3 +1,6 @@
+> 本文内容由[Abc猜想](https://zh.wikipedia.org/wiki/Abc猜想)转换而来。
+
+
 **abc猜想**（）是一個未解決的數學猜想，最先由[約瑟夫·奧斯特莱及](https://zh.wikipedia.org/wiki/約瑟夫·奧斯特莱 "wikilink")[大衛·馬瑟](../Page/大衛·馬瑟.md "wikilink")在1985年提出。abc猜想以三個互質正整數a, b, c描述，c是a及b的和，猜想因此得名。此猜想有數個宣稱的證明，最近提出的正在檢查中，至2014年9月此猜想仍然未得證明。对此也衍生出一[BOINC](../Page/BOINC.md "wikilink")項目「[ABC@Home](https://zh.wikipedia.org/wiki/ABC@Home "wikilink")」。
 
 abc猜想若得證，數論中很多著名猜想可以立時得出。[多利安·哥德費爾德稱abc猜想為](https://zh.wikipedia.org/wiki/多利安·哥德費爾德 "wikilink")「[丟番圖分析中最重要的未解問題](../Page/丟番圖方程.md "wikilink")」。

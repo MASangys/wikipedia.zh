@@ -1,3 +1,6 @@
+> 本文内容由[CeVIO Creative Studio](https://zh.wikipedia.org/wiki/CeVIO_Creative_Studio)转换而来。
+
+
 **CeVIO Creative Studio**，是由[名古屋工業大學](../Page/名古屋工業大學.md "wikilink")[初創企業](https://zh.wikipedia.org/wiki/初創企業 "wikilink")[Techno-Speech](https://zh.wikipedia.org/wiki/Techno-Speech "wikilink")、[電子看板製作公司](https://zh.wikipedia.org/wiki/電子看板 "wikilink")[V-SYNC以及](https://zh.wikipedia.org/wiki/V-SYNC "wikilink")[動畫製作公司](https://zh.wikipedia.org/wiki/動畫製作 "wikilink")[Frontier Works等數家企業作為其所組成的](../Page/Frontier_Works.md "wikilink")[專案](https://zh.wikipedia.org/wiki/專案 "wikilink")，**CeVIO**，的其中一環而開發的語音合成軟體。\[1\]\[2\]输入音符、文字后便可发出类似于人类歌唱、說話的声音。同类软件有如[VOCALOID](../Page/VOCALOID.md "wikilink")、[UTAU](https://zh.wikipedia.org/wiki/UTAU "wikilink")，但CeVIO Creative Studio除了有"唱歌"的功能外，还有可模擬人聲"说话"的功能。
 
 CeVIO的名字是由英文單字"Voice"重組而成。

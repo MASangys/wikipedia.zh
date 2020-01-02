@@ -1,3 +1,6 @@
+> 本文内容由[Boys\' Record](https://zh.wikipedia.org/wiki/Boys\'_Record)转换而来。
+
+
 《**Boys' Record**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")的第五張韓語實體[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，亦為首張特別單曲，以翻唱1995年出道作品《分手方程式》（，直譯為｢離別公式｣）（[洪在善](https://zh.wikipedia.org/wiki/洪在善 "wikilink")（）作曲、[尹晟熙](https://zh.wikipedia.org/wiki/尹晟熙 "wikilink")（）作詞）作主打曲，並在2015年2月24日推出\[1\]。
 
 ## 背景

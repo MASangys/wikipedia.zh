@@ -1,3 +1,6 @@
+> 本文内容由[CompactFlash](https://zh.wikipedia.org/wiki/CompactFlash)转换而来。
+
+
 [CompactFlash.jpg](https://zh.wikipedia.org/wiki/File:CompactFlash.jpg "fig:CompactFlash.jpg") **CompactFlash**（**CF卡**）最初是一种用于便携式电子设备的数据存储设备，于1994年首次由[SanDisk公司生产并制定了相关规范](https://zh.wikipedia.org/wiki/SanDisk "wikilink")。它的物理格式曾被多种设备所采用。从外形上CF卡可以分为两种：CF I型卡以及稍厚一些的CF II型卡。从速度上它可以分为CF卡、高速CF卡（CF+/CF 2.0规范）、CF3.0、CF4.0，更快速的CF4.1标准也在2007年被采用。CF II型卡槽主要用于[微型硬盘等一些其他的设备](https://zh.wikipedia.org/wiki/微型硬盘 "wikilink")。
 
 CF是与出现更早且尺寸更大的PCMCIA I型内存卡竞争的第一批闪存标准之一，它最初是建立在[英特尔](../Page/英特尔.md "wikilink")的[或非型闪存的基础上](https://zh.wikipedia.org/wiki/或非型闪存 "wikilink")，之后改为使用[与非型闪存](https://zh.wikipedia.org/wiki/与非型闪存 "wikilink")。CF是最老也是最成功的标准之一，尤其在早期的专业数码相机市场。

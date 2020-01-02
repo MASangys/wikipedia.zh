@@ -1,3 +1,6 @@
+> 本文内容由[MYNAME 2nd Mini Album](https://zh.wikipedia.org/wiki/MYNAME_2nd_Mini_Album)转换而来。
+
+
 《**MYNAME 2nd Mini Album**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")第二張韓語迷你專輯，於2015年2月12日發行，主打歌曲為《非常Very一下子》（）\[1\]。
 
 ## 背景

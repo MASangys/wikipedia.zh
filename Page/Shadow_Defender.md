@@ -1,3 +1,6 @@
+> 本文内容由[Shadow Defender](https://zh.wikipedia.org/wiki/Shadow_Defender)转换而来。
+
+
 **Shadow Defender** （中文译名：**影子卫士**）是一款专为 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 开发的系统保护还原软件，它可以保护操作系统、应用程序和敏感信息，并维持它们功能的正常使用。\[1\]
 
 ## 软件功能

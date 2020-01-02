@@ -1,3 +1,6 @@
+> 本文内容由[Turion 64](https://zh.wikipedia.org/wiki/Turion_64)转换而来。
+
+
 [AMD_Turion_64.png](https://zh.wikipedia.org/wiki/File:AMD_Turion_64.png "fig:AMD_Turion_64.png") ****是[AMD公司的](https://zh.wikipedia.org/wiki/AMD "wikilink")[64位流動平台](https://zh.wikipedia.org/wiki/64位 "wikilink")[處理器](../Page/中央处理器.md "wikilink")，其中文官方名稱為「**炫龍**」，與[英特爾的同類產品](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[Pentium M及其繼承者](https://zh.wikipedia.org/wiki/Pentium_M "wikilink")[Intel Core競爭](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")。該處理器使用[Socket 754插座](../Page/Socket_754.md "wikilink")，擁有512KB或1MB的L2快取，內建64位單通道[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，以及單向800MHz、雙向1600Mhz的[HyperTransport](../Page/HyperTransport.md "wikilink")傳輸速度。另外，第二代的[Turion 64 X2及其他AMD移动型處理器使用新的](../Page/Turion_64_X2.md "wikilink")[Socket S1插座](https://zh.wikipedia.org/wiki/Socket_S1 "wikilink")，已於2006年推出。2008年推出Turion 64 Ultra。从2009年开始，中文官方名稱改为「**锐龙**」（与2017年3月发售的中文名为“锐龙”的[AMD Ryzen并无关系](../Page/AMD_Ryzen.md "wikilink")），并推出Turion Ⅱ和Turion Neo。
 
 ## 核心

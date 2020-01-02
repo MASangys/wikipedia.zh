@@ -1,3 +1,6 @@
+> 本文内容由[SPG-9無後座力炮](https://zh.wikipedia.org/wiki/SPG-9無後座力炮)转换而来。
+
+
 **SPG-9“矛”**（；СПГ，全寫：Станковый Противотанковый Гранатомёт，意為：炮架以上的反坦克榴彈發射器；Копьё，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／；以下簡稱為“SPG-9”）是一門由[苏联](../Page/苏联.md "wikilink")所[研發的](../Page/研究開發.md "wikilink")[三腳式炮架及單兵便攜式](https://zh.wikipedia.org/wiki/三腳架 "wikilink")73毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[无后座力炮](../Page/无后座力炮.md "wikilink")，發射73毫米[炮彈](../Page/炮彈.md "wikilink")。
 
 該武器結合了[榴彈發射器和](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")[反坦克武器的屬性](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，為摩托化步兵和空降兵部隊用以打擊裝甲車輛和野戰工事的戰鬥系統。其發射的尾翼穩定及火箭助推式高爆彈和[高爆反坦克彈](../Page/高爆反坦克彈.md "wikilink")類似於[BMP-1裝甲車上的](../Page/BMP-1步兵戰車.md "wikilink")73毫米[2A28「雷電」低膛壓滑膛炮的炮彈](../Page/2A28_73毫米雷電滑膛炮.md "wikilink")。

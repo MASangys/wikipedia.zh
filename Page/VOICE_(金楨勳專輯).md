@@ -1,3 +1,6 @@
+> 本文内容由[VOICE \(金楨勳專輯\)](https://zh.wikipedia.org/wiki/VOICE_\(金楨勳專輯\))转换而来。
+
+
 《**VOICE**》（台壓版冠名為《**聲情告白**》）是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[金楨勳](../Page/金楨勳.md "wikilink")以藝名John-Hoon出版的第四張日語[專輯及首張翻唱專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2012年5月23日以兩個版本：通常盤及初回限定盤推出\[1\]。
 
 ## 概觀

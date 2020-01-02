@@ -1,3 +1,6 @@
+> 本文内容由[OCN \(頻道\)](https://zh.wikipedia.org/wiki/OCN_\(頻道\))转换而来。
+
+
 **OCN**（**O**rion **C**inema **N**etwork）是[CJ E\&M旗下的](../Page/CJ集团.md "wikilink")[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，主要以播放電影與影集為主。每年播出之電影超過3000部，是韓國最大宗擁有電影播放版權的電視頻道。
 
 1995年時，由[大宇集團旗下的大宇傳媒創立此頻道](https://zh.wikipedia.org/wiki/大宇集團 "wikilink")，並定名為「**DCN**」（**D**aewoo **C**inema **N**etwork），於1999年因大宇傳媒倒閉而由[好麗友製菓旗下的](https://zh.wikipedia.org/wiki/好麗友 "wikilink")接手，2010年時[CJ集团](../Page/CJ集团.md "wikilink")收購了On-Media，因此OCN正式成為CJ E\&M旗下的一個有線電視頻道。

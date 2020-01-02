@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Liana](https://zh.wikipedia.org/wiki/鈴木Liana)转换而来。
+
+
 **鈴木Liana**（，乃「*Life In A New Age*」之字首縮寫）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2001年至2007年間開發製造的四門[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")、五門緊湊型[多功能休旅車](../Page/多功能休旅車.md "wikilink")。此車名使用於[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[中國](../Page/中國.md "wikilink")、[澳大利亞等市場](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，日本當地則稱作**鈴木Aerio**（）。此外，[印尼市場將四門轎車稱作](https://zh.wikipedia.org/wiki/印尼 "wikilink")**鈴木Baleno**（第二代），五門掀背車則稱為鈴木Aerio。
 
 縱然2007年正式停產，不過[中國](../Page/中國.md "wikilink")和[巴基斯坦](../Page/巴基斯坦.md "wikilink")等地仍持續發售；前者由[昌河鈴木製造](../Page/昌河汽车.md "wikilink")，後者則由[巴基鈴木公司](../Page/巴基鈴木公司.md "wikilink")製造。

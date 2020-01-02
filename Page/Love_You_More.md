@@ -1,3 +1,6 @@
+> 本文内容由[Love You More](https://zh.wikipedia.org/wiki/Love_You_More)转换而来。
+
+
 《**Love You More**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[GENERATIONS的第](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")3张[单曲](../Page/单曲.md "wikilink")，於2013年5月15日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

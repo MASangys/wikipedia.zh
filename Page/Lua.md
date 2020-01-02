@@ -1,3 +1,6 @@
+> 本文内容由[Lua](https://zh.wikipedia.org/wiki/Lua)转换而来。
+
+
 **Lua**（）是一个简洁、轻量、可扩展的[脚本语言](../Page/脚本语言.md "wikilink")。Lua在葡萄牙语中的意思是月亮。
 
 ## 目标

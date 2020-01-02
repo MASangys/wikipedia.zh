@@ -1,3 +1,6 @@
+> 本文内容由[H.261](https://zh.wikipedia.org/wiki/H.261)转换而来。
+
+
 **H.261**是1990年[ITU-T制定的一个](https://zh.wikipedia.org/wiki/ITU-T "wikilink")[影片编码标准](https://zh.wikipedia.org/wiki/影片 "wikilink")，属于[影片编解码器](https://zh.wikipedia.org/wiki/影片编解码器 "wikilink")。
 
 ## 设计与技术细节

@@ -1,3 +1,6 @@
+> 本文内容由[Visual Basic .NET](https://zh.wikipedia.org/wiki/Visual_Basic_.NET)转换而来。
+
+
 **Visual Basic .NET**（**VB.NET**）是[.NET Framework框架下的一种](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[多重编程范式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")[高级语言](https://zh.wikipedia.org/wiki/高级语言 "wikilink")。
 
 VB.NET，是[微软公司于](https://zh.wikipedia.org/wiki/微软公司 "wikilink")2002年作为原有的[Visual Basic的继承者而推出](../Page/Visual_Basic.md "wikilink")。虽然自2005年起，语言名称中的“.NET”就已经被去掉了。但为了与VB 6.0及以前版本的Visual Basic进行区分，“Visual Basic .NET”的名字仍然被社会公众用来指代VB 7.0及以后的Visual Basic。VB.NET与[C\#同为](../Page/Microsoft_Visual_C♯.md "wikilink").Net Framework框架下两种主要的程序设计语言，都是为了调用.Net Framework的类库资源，因此两种语言具有很高的对应性，数据类型、控制结构与语言特性都存在一一对应，容易把源代码从一种语言对译为另一种语言。

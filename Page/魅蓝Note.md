@@ -1,3 +1,6 @@
+> 本文内容由[魅蓝Note](https://zh.wikipedia.org/wiki/魅蓝Note)转换而来。
+
+
 **魅族 [魅蓝Note](../Page/魅蓝Note.md "wikilink")**是[魅族于](https://zh.wikipedia.org/wiki/魅族 "wikilink")2014年12月23日发布的智能手机产品。该系列手机可更换多种颜色背壳。产品搭载为大屏手机优化的[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink") 4系统。\[1\]
 
 ## 参考资料

@@ -1,3 +1,6 @@
+> 本文内容由[來自星星的傻瓜PK](https://zh.wikipedia.org/wiki/來自星星的傻瓜PK)转换而来。
+
+
 《**我的个神啊**》（）是2014年的[印度](../Page/印度.md "wikilink")諷刺性喜劇，由知名導演[拉库马·希拉尼](../Page/拉库马·希拉尼.md "wikilink")拍攝。主演為[寶萊塢巨星](https://zh.wikipedia.org/wiki/寶萊塢 "wikilink")[阿米爾·罕及女星](https://zh.wikipedia.org/wiki/阿米爾·罕 "wikilink")[艾魯絲卡·沙瑪](../Page/艾魯絲卡·沙瑪.md "wikilink")。\[1\]故事講述一名外星人來到地球並和一名記者成為朋友，對種種的宗教迷信表示質疑。此電影在印度及海外市場獲得空前成功，是印度史上[最賣座寶萊塢電影名單上排名第一位](https://zh.wikipedia.org/wiki/寶萊塢票房紀錄 "wikilink")，超越阿米爾·罕上一部電影《[遁天神盗3](https://zh.wikipedia.org/wiki/遁天神盗3 "wikilink")》，更是首部全球票房达到1亿美元的[印度电影](../Page/印度电影.md "wikilink")。\[2\]
 
 ## 劇情

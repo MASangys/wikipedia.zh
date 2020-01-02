@@ -1,3 +1,6 @@
+> 本文内容由[Wi-Fi](https://zh.wikipedia.org/wiki/Wi-Fi)转换而来。
+
+
 [WiFi_Logo.svg](https://zh.wikipedia.org/wiki/File:WiFi_Logo.svg "fig:WiFi_Logo.svg")   **Wi-Fi**（\[1\]\[2\]\[3\]），在[中文裡又稱作](https://zh.wikipedia.org/wiki/中文 "wikilink")「無線熱點」，是Wi-Fi聯盟製造商的[商標做為產品的品牌認證](https://zh.wikipedia.org/wiki/商標 "wikilink")，是一個建立於[IEEE 802.11標準的](../Page/IEEE_802.11.md "wikilink")[無線局域網技術](https://zh.wikipedia.org/wiki/無線局域網 "wikilink")。基於兩套系統的密切相關，也常有人把Wi-Fi當做IEEE 802.11標準的同义術語。「Wi-Fi」常被寫成「**WiFi**」或「**Wifi**」，但是它們並沒有被Wi-Fi聯盟認可。
 
 並不是每樣符合IEEE 802.11的產品都申請Wi-Fi聯盟的認證，相對地缺少Wi-Fi認證的產品並不一定意味著不兼容Wi-Fi設備。

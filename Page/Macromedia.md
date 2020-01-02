@@ -1,3 +1,6 @@
+> 本文内容由[Macromedia](https://zh.wikipedia.org/wiki/Macromedia)转换而来。
+
+
 **Macromedia**，中文翻譯**宏媒體**公司，是在1992年[Authorware](../Page/Authorware.md "wikilink")公司（Authorware的最初開發商）與MacroMind-Paracomp公司（[Macromedia Director的最初開發商](https://zh.wikipedia.org/wiki/Macromedia_Director "wikilink")）的合併中產生的，現為一家專門開發圖像處理與Web製作軟件的[軟件公司](https://zh.wikipedia.org/wiki/軟件公司 "wikilink")，總部設在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。2001年，Macromedia購進[Allaire公司](https://zh.wikipedia.org/wiki/Allaire "wikilink")，並將其[Web開發軟件加入自己的產品系列](https://zh.wikipedia.org/wiki/Web "wikilink")。2003年，Macromedia又收購了專門開發製作幫助軟件的[eHelp公司](https://zh.wikipedia.org/wiki/eHelp公司 "wikilink")，其代表產品包括RoboHelp、RoboDemo（現為[Adobe Captivate](https://zh.wikipedia.org/wiki/Adobe_Captivate "wikilink")）和RoboInfo。
 
 2005年4月18日，Macromedia被[美國著名圖形軟件開發商](https://zh.wikipedia.org/wiki/美國 "wikilink")[Adobe](../Page/Adobe.md "wikilink")系統公司以34億美元價格收購。這一收購極大豐富了Adobe的產品線，提高了其在[多媒體和網絡出版業的能力](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。

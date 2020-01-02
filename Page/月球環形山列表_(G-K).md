@@ -1,3 +1,6 @@
+> 本文内容由[月球環形山列表 \(G-K\)](https://zh.wikipedia.org/wiki/月球環形山列表_\(G-K\))转换而来。
+
+
 这是[月球环形山列表的一部份](https://zh.wikipedia.org/wiki/月球环形山列表 "wikilink")，此表列举出英文名称以字母G,H,I,J 及 K 开头的环形山。
 
 ## G

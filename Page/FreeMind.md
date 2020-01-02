@@ -1,3 +1,6 @@
+> 本文内容由[FreeMind](https://zh.wikipedia.org/wiki/FreeMind)转换而来。
+
+
 **FreeMind**是一款跨平台的、基于[GPL协议的](https://zh.wikipedia.org/wiki/GPL "wikilink")[自由软件](../Page/自由软件.md "wikilink")，用[Java](../Page/Java.md "wikilink")編寫，是一個用來繪製[思维导图的软件](https://zh.wikipedia.org/wiki/思维导图 "wikilink")。其产生的[文件格式后缀为](https://zh.wikipedia.org/wiki/文件格式 "wikilink").mm。可用来做笔记、脑图记录、[腦力激盪等](https://zh.wikipedia.org/wiki/腦力激盪 "wikilink")。
 
 ## 特点

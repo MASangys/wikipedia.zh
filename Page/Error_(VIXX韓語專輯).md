@@ -1,3 +1,6 @@
+> 本文内容由[Error \(VIXX韓語專輯\)](https://zh.wikipedia.org/wiki/Error_\(VIXX韓語專輯\))转换而来。
+
+
 《**Error**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[VIXX](../Page/VIXX.md "wikilink")第2枚迷你韓語專輯，於2014年10月14日發行，主打歌曲為專輯同名歌曲《Error》\[1\]。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[Spotlight \(應用程式\)](https://zh.wikipedia.org/wiki/Spotlight_\(應用程式\))转换而来。
+
+
 **Spotlight**是[苹果公司旗下的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[iOS操作系统上的一項快速搜寻](https://zh.wikipedia.org/wiki/iOS "wikilink")、随打即显、系統内置的桌面搜尋引擎，工作原理的概念类似[Windows索引服务](../Page/索引服务.md "wikilink")。
 
 Spotlight最早宣布于2004年的[苹果全球开发者大会](../Page/苹果全球开发者大会.md "wikilink")（WWDC），\[1\]并在2005年4月随[Mac OS X v10.4 "Tiger"一同发布](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")。\[2\]

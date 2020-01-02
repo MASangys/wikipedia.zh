@@ -1,3 +1,6 @@
+> 本文内容由[ATC卡片](https://zh.wikipedia.org/wiki/ATC卡片)转换而来。
+
+
 [Artist_trading_cards_set.jpg](https://zh.wikipedia.org/wiki/File:Artist_trading_cards_set.jpg "fig:Artist_trading_cards_set.jpg")
 
 **ATC卡片**（**Artist trading cards**）也可稱為**藝術家交換卡**，是小型的[卡片型手工藝術作品](https://zh.wikipedia.org/wiki/卡片 "wikilink")，大小類似現代的\[1\]，或是\[2\]，其尺寸小到可以放進標準的的卡片收集夾中\[3\]。ATC卡片是從運動中發展的，起源自[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")\[4\]。ATC卡片可以用各種不同的方式製成，包括乾劑媒介（[鉛筆](https://zh.wikipedia.org/wiki/鉛筆 "wikilink")、[筆](https://zh.wikipedia.org/wiki/筆 "wikilink")、[麥克筆](../Page/麥克筆.md "wikilink")等）、濕劑媒介（[水彩](https://zh.wikipedia.org/wiki/水彩 "wikilink")、[壓克力顏料等](https://zh.wikipedia.org/wiki/壓克力 "wikilink")）、紙製品（[珂拉琪拼貼畫](https://zh.wikipedia.org/wiki/珂拉琪 "wikilink")、[剪紙等](https://zh.wikipedia.org/wiki/剪紙 "wikilink")），甚至包括金屬及纖維。一般常用ATC卡片來彼此交換或收集。若是用來販售的，一般不會稱為ATC卡片，而會稱為ACEO（art card editions and originals）。

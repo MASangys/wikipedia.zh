@@ -1,3 +1,6 @@
+> 本文内容由[Smooth Criminal](https://zh.wikipedia.org/wiki/Smooth_Criminal)转换而来。
+
+
 **Smooth Criminal**（可译作**狡猾的罪犯**或**犯罪高手**）是[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")1987年的专辑[Bad的第七支单曲](https://zh.wikipedia.org/wiki/Bad_\(迈克尔·杰克逊专辑\) "wikilink")。这首快节奏的歌唱的是一个在公寓里被一个狡猾的罪犯杀害的名叫安妮的女人。本来迈克尔想用"Smooth Criminal" 作为专辑的名字，但他的专辑制作人[昆西·琼斯](../Page/昆西·琼斯.md "wikilink")不满意，所以只好作罢。这首歌在1988年10月24日被发行，在[告示牌百强单曲榜](../Page/告示牌百强单曲榜.md "wikilink")上最高排名是第七。\[1\]它在2006年4月10日作为Visionary: The Video Singles box set的一部分被重新发行。重新制作的单曲在英国排行十九。这首歌是杰克逊的标志歌曲之一，并出现在无数的精选专辑中，比如：Number Ones、The Essential Michael Jackson、Michael Jackson: The Ultimate Collection、 King of Pop、This Is It和 Immortal。
 
 这首歌也是1988年的电影[月球漫步者](../Page/月球漫步者.md "wikilink")的主题歌曲，单曲已售出超过7,500,000份。

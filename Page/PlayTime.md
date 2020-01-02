@@ -1,3 +1,6 @@
+> 本文内容由[PlayTime](https://zh.wikipedia.org/wiki/PlayTime)转换而来。
+
+
 **PlayTime**（**遊戲時間**）為[Dumb Youth所屬的](../Page/Dumb_Youth.md "wikilink")[香港](../Page/香港.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，成立於2013年，
 
 成員包括 — [梁曉豐](../Page/梁曉豐.md "wikilink")、[林耀聲](../Page/林耀聲.md "wikilink")、[岑珈其](../Page/岑珈其.md "wikilink")、[黃溢濠](../Page/黃溢濠.md "wikilink")。

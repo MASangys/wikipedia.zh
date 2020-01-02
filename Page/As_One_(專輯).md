@@ -1,3 +1,6 @@
+> 本文内容由[As One \(專輯\)](https://zh.wikipedia.org/wiki/As_One_\(專輯\))转换而来。
+
+
 《**AsOnE**》是[As One的首張](../Page/As_One.md "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")及全主打EP，於2014年6月推出。
 
 ## 曲目

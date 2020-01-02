@@ -1,3 +1,6 @@
+> 本文内容由[Opposites Attract](https://zh.wikipedia.org/wiki/Opposites_Attract)转换而来。
+
+
 《**Opposites Attract**》是美國女歌手[寶拉·阿巴杜](../Page/寶拉·阿巴杜.md "wikilink")在1989年11月發行的單曲，這首單曲曾在美國單曲榜摘下三週冠軍，它亦是寶拉·阿巴杜第四首全美冠軍單曲。
 
 ## 歌曲

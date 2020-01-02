@@ -1,3 +1,6 @@
+> 本文内容由[Vocaloid衍生角色](https://zh.wikipedia.org/wiki/Vocaloid衍生角色)转换而来。
+
+
 **VOCALOID衍生角色**，是指以[VOCALOID](../Page/VOCALOID.md "wikilink")的角色為原型，經粉絲們的手創作而成的角色\[1\]。也有「」\[2\]、「」\[3\]、「」\[4\]等別稱。
 
 ## 概要

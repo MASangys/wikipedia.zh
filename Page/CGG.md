@@ -1,3 +1,6 @@
+> 本文内容由[CGG](https://zh.wikipedia.org/wiki/CGG)转换而来。
+
+
 **CGG**是一家总部在法国的地球物理服务公司，建于1931年。公司的名字来源于法语的缩写。CGG于2007年1月与Veritas DGC Inc.合并，并更名为CGGVeritas (Compagnie Générale de Géophysique-Veritas)。2013年1月在完成对Furgo's Geoscience Division的收购之后，公司又将名称改回**CGG**\[1\]，而且是官方名称，不再是缩写的形式。
 
 ## 历史

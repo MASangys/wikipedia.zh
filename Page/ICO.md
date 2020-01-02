@@ -1,3 +1,6 @@
+> 本文内容由[ICO](https://zh.wikipedia.org/wiki/ICO)转换而来。
+
+
 **ICO**，[图标格式](https://zh.wikipedia.org/wiki/图标 "wikilink")，即指[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「icon」，是一种用于图标显示的图片格式。除了一般图片常见的颜色外，一般还用[调色板定义了](https://zh.wikipedia.org/wiki/调色板 "wikilink")[透明色和反色](https://zh.wikipedia.org/wiki/透明色 "wikilink")。 [icon_stretch.png](https://zh.wikipedia.org/wiki/File:icon_stretch.png "fig:icon_stretch.png")
 
 图标中包含的图片常见尺寸有16×16（小图标）、32×32、48×48，另外24×24、64×64、128×128也比较常见。256×256多见于[Windows Vista以上版本的](../Page/Windows_Vista.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")中。8×8、10×10、20×20多用于工具栏的按钮。较旧的操作系统不支持超过128×128的图标，所以向用于旧的操作系统的图标文件中添加大图标没有意义。

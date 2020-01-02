@@ -1,3 +1,6 @@
+> 本文内容由[我的鄰居是EXO](https://zh.wikipedia.org/wiki/我的鄰居是EXO)转换而来。
+
+
 [D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink"){{、w}}[文佳煐](../Page/文佳煐.md "wikilink"){{、w}}
 [Baekhyun](../Page/伯賢.md "wikilink"){{、w}}[Sehun](../Page/Sehun.md "wikilink") | country =  | language = [韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")（網路平台） / [繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink") | num_seasons = | num_episodes = 16集（網路平台版） + 1集番外篇（第7集） | list_episodes = | runtime = | company = [oh\!boy project](http://blog.naver.com/ohboypj)
 [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")

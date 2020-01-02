@@ -1,3 +1,6 @@
+> 本文内容由[DATS](https://zh.wikipedia.org/wiki/DATS)转换而来。
+
+
 **DATS**為日本樂團，於2013年6月組成，並連續兩年參加SUMMER SONIC，音樂創作以影像、時尚、文學（英日語）等多樣性題材作為創作契機活動中。而DATS所致力於創作「將LiveHouse化作DanceHouse」的音樂，將POP Ｍusic容易熟記的曲風作為基底，企圖帶給聽眾不同的感受。
 
 其中主唱Ｍonjoe與鼓手Kazuya另有組成以混音及節奏樂器為主的團體NNULL時常與饒舌樂手莊子it一起活動。

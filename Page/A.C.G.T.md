@@ -1,3 +1,6 @@
+> 本文内容由[A.C.G.T](https://zh.wikipedia.org/wiki/A.C.G.T)转换而来。
+
+
 '''株式會社A·C·G·T '''（，）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")的[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。成立於2000年。
 
 ## 概要、沿革

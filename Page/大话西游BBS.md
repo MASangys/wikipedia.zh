@@ -1,3 +1,6 @@
+> 本文内容由[大话西游BBS](https://zh.wikipedia.org/wiki/大话西游BBS)转换而来。
+
+
 **大话西游BBS**是中国[教育网上两个历史比较悠久的](https://zh.wikipedia.org/wiki/教育网 "wikilink")[BBS](../Page/BBS.md "wikilink")站。 其中[北京大学](../Page/北京大学.md "wikilink")的大话西游BBS建立于1999年3月，简称**DHXY**。[清华大学的大话西游BBS](https://zh.wikipedia.org/wiki/清华大学 "wikilink")（又名ZIXIA BBS）创建于1999年9月，简称**ZIXIA**。
 
 ## 大话西游(DHXY)站

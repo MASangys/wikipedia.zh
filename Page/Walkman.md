@@ -1,3 +1,6 @@
+> 本文内容由[Walkman](https://zh.wikipedia.org/wiki/Walkman)转换而来。
+
+
 [Walkman.svg](https://zh.wikipedia.org/wiki/File:Walkman.svg "fig:Walkman.svg")
 
 **Walkman**，是[日本](../Page/日本.md "wikilink")[索尼公司](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")（Sony）在1979年所推出的一個[隨身聽](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")[品牌](../Page/品牌.md "wikilink")，而[中文的](https://zh.wikipedia.org/wiki/中文 "wikilink")[隨身聽名稱即是由](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")“Walkman”轉變而來。

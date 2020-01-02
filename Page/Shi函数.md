@@ -1,3 +1,6 @@
+> 本文内容由[Shi函数](https://zh.wikipedia.org/wiki/Shi函数)转换而来。
+
+
 **双曲正弦积分函数**定义为\[1\]\[2\]
 
 [Shi(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Shi\(x\)_2D_plot.png "fig:Shi(x)_2D_plot.png") \({\it Shi} \left( z \right) =\int _{0}^{z}\!{\frac {\sinh \left( t \right) }{t}}{dt}\)

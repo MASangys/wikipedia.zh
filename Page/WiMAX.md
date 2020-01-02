@@ -1,3 +1,6 @@
+> 本文内容由[WiMAX](https://zh.wikipedia.org/wiki/WiMAX)转换而来。
+
+
 **全球互通微波存取**（，縮寫為**WiMAX**）是一项高速无线数据网络标准，主要用在[都會網路](https://zh.wikipedia.org/wiki/都會網路 "wikilink")，由[WiMAX論壇提出並於](https://zh.wikipedia.org/wiki/WiMAX論壇 "wikilink")2001年6月成形。它可提供至少一英里无线宽带接入，作为电缆和[DSL之外的选择](https://zh.wikipedia.org/wiki/DSL "wikilink")。在[IEEE 802.16标准的多个版本和选项中做出唯一的选择](https://zh.wikipedia.org/wiki/IEEE_802.16 "wikilink")，以保证不同厂商产品的互操作性。在[802.16](https://zh.wikipedia.org/wiki/802.16 "wikilink")[物理层](../Page/物理层.md "wikilink")的三个变体中，WiMAX选择了802.16-2004版的256 carrier [OFDM](https://zh.wikipedia.org/wiki/OFDM "wikilink")，能夠藉由較寬的頻帶以及較遠的傳輸距離，協助電信業者與[網際網路服務提供商業者建置無線網路的最後一哩](https://zh.wikipedia.org/wiki/ISP "wikilink")，與主要以短距離區域傳輸為目的之[IEEE 802.11通訊協定有著相當大的不同](../Page/IEEE_802.11.md "wikilink")。
 
 WiMAX能提供許多種應用服務，包括最後一哩无线宽带接入、[熱點](https://zh.wikipedia.org/wiki/無線接取器 "wikilink")、行動通訊回程線路以及作為商業用途在企業間的高速連線。通過WiMAX一致性測試的產品都能夠對彼此建立無線连接並傳送網際網路分组数据。在概念上類似[WiFi](https://zh.wikipedia.org/wiki/WiFi "wikilink")，WiMAX传送速率更快，传送范围距离更大，简单理解为一种“大WiFi”。

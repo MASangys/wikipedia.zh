@@ -1,3 +1,6 @@
+> 本文内容由[J·H·C·怀特海德](https://zh.wikipedia.org/wiki/J·H·C·怀特海德)转换而来。
+
+
 **约翰·亨利·康斯坦丁·怀特海德** [FRS](https://zh.wikipedia.org/wiki/皇家学会#会士 "wikilink")\[1\] （，1904年11月11日–1960年5月8日）是一名[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[数学家](../Page/数学家.md "wikilink")，是[同伦论的创始人之一](https://zh.wikipedia.org/wiki/同伦论 "wikilink")。怀特海德生于印度[金奈](https://zh.wikipedia.org/wiki/金奈 "wikilink") （当时名为马德拉斯），1960年在[新泽西州](../Page/新泽西州.md "wikilink")[普林斯顿逝世](../Page/普林斯顿_\(新泽西州\).md "wikilink")。
 
 ## 部分著作

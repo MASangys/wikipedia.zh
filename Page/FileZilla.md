@@ -1,3 +1,6 @@
+> 本文内容由[FileZilla](https://zh.wikipedia.org/wiki/FileZilla)转换而来。
+
+
 **FileZilla**是一種快速、可信賴的[FTP用戶端以及](https://zh.wikipedia.org/wiki/FTP "wikilink")[伺服器端](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[開放原始碼程式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，具有多種特色、直覺的介面。
 
 FileZilla在2003年11月獲選為[SourceForge.net當月最佳推薦專案](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[BeamNG.drive](https://zh.wikipedia.org/wiki/BeamNG.drive)转换而来。
+
+
 **BeamNG.drive**是一款[交通工具模拟游戏](../Page/交通工具模拟游戏.md "wikilink")，由BeamNG研發和發行，遊戲平台為[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。獨特之處在於它的軟體物理系統。
 
 ## 研發

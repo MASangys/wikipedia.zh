@@ -1,3 +1,6 @@
+> 本文内容由[I Wanna Dance with Somebody \(Who Loves Me\)](https://zh.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_\(Who_Loves_Me\))转换而来。
+
+
 《**I Wanna Dance With Somebody (Who Loves Me)**》是[美國女](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")[惠妮·休斯頓在](https://zh.wikipedia.org/wiki/惠妮·休斯頓 "wikilink")1987年4月30日所發行的單曲，這支單曲在英美兩地都摘下單曲榜冠軍，成為她第4首全美冠軍單曲的新紀錄。〈I Wanna Dance With Somebody (Who Loves Me)〉也是繼〈[Saving All My Love for You](../Page/Saving_All_My_Love_for_You.md "wikilink")〉之後，惠妮·休斯頓第2首英美雙冠軍單曲\[1\]。
 
 ## 歌曲

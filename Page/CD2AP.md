@@ -1,3 +1,6 @@
+> 本文内容由[CD2AP](https://zh.wikipedia.org/wiki/CD2AP)转换而来。
+
+
 **CD2相關蛋白質**()是在人類中由CD2AP[基因](../Page/基因.md "wikilink")所編碼的[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")。\[1\]\[2\]
 
 該基因編碼一種調節肌動蛋白細胞骨架的"支架分子"(在神經元通路中的廣大連結區域聚積的蛋白分子)。該蛋白質直接與絲狀肌動蛋白、及通過多種肌動蛋白結合位點的各種細胞膜的蛋白質、[SH3結構域](https://zh.wikipedia.org/wiki/SH3結構域 "wikilink")(SH3 domain)，以及含有SH3結構域結合位點之"富含[脯氨酸](../Page/脯氨酸.md "wikilink")區域"(proline-rich region)等交互作用。胞質蛋白定位於[膜皺褶](https://zh.wikipedia.org/wiki/膜皺褶 "wikilink")(Membrane ruffling)，[脂筏](https://zh.wikipedia.org/wiki/脂筏 "wikilink")(Lipid raft)和細胞的前緣。它牽涉到在受體的[內吞作用和](https://zh.wikipedia.org/wiki/內吞作用 "wikilink")"胞質分裂"(cytokinesis)發生動態[肌動蛋白重塑](https://zh.wikipedia.org/wiki/肌動蛋白重塑 "wikilink")(actin remodeling)和膜交換。該基因的"單倍劑量不足"(Haploinsufficiency)牽涉到易感性的腎小球疾病。\[3\]

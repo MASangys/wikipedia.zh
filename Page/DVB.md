@@ -1,3 +1,6 @@
+> 本文内容由[DVB](https://zh.wikipedia.org/wiki/DVB)转换而来。
+
+
 [DVB-logo.gif](https://zh.wikipedia.org/wiki/File:DVB-logo.gif "fig:DVB-logo.gif")  **數位視訊廣播**（，縮寫：），是由[DVB Project维护的一系列為国际所承认的](https://zh.wikipedia.org/wiki/DVB_Project "wikilink")[數位電視公开标准](https://zh.wikipedia.org/wiki/數位電視 "wikilink")。[DVB Project是一个由](https://zh.wikipedia.org/wiki/DVB_Project "wikilink")300多个成员组成的工业组织，它是由[欧洲电信标准化组织](../Page/欧洲电信标准协会.md "wikilink")（European Telecommunications Standards Institute, ETSI）、[欧洲电子标准化组织](https://zh.wikipedia.org/wiki/欧洲电子标准化组织 "wikilink")（European Committee for Electrotechnical Standardization, CENELEC）和[欧洲广播联盟](https://zh.wikipedia.org/wiki/欧洲广播联盟 "wikilink")（European Broadcasting Union, EBU）联合组成的“联合专家组”（Joint Technical Committee, JTC）发起的。几项DVB子标准的关系在《DVB指南》（*DVB-Cook*）中描述之。
 
 ## 传输

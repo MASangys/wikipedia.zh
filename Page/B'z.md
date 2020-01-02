@@ -1,3 +1,6 @@
+> 本文内容由[B\'z](https://zh.wikipedia.org/wiki/B\'z)转换而来。
+
+
 **B'z**（）是一個由[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘](../Page/松本孝弘.md "wikilink")與[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[稻葉浩志](../Page/稻葉浩志.md "wikilink")所組成的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink") \[1\]\[2\]。所屬事務所為[VERMILLION](https://zh.wikipedia.org/wiki/VERMILLION "wikilink")。所屬唱片公司是[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")。官方粉絲俱樂部為「[B'z Party](../Page/B'z_Party.md "wikilink")」。
 
 ## 概要

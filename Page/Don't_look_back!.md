@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t look back!](https://zh.wikipedia.org/wiki/Don\'t_look_back!)转换而来。
+
+
 《**Don't look back\!**》是日本女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[NMB48](../Page/NMB48.md "wikilink")的第11張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2015年3月31日由[吉本R\&C以](https://zh.wikipedia.org/wiki/吉本R&C "wikilink")「laugh out loud\! records」的品牌發行。由於這張單曲的發行日期正好與姊妹團體[SKE48](../Page/SKE48.md "wikilink")的第17張單曲《[風情萬種塞車中](../Page/風情萬種塞車中.md "wikilink")》的發行日期撞期，是一向都會將自家作品發行日錯開的[AKB48集團](../Page/AKB48集團.md "wikilink")首次發生的情況，而受到歌迷與媒體一些討論與關注。另外，有別於上一張單曲《[真不像我](../Page/真不像我.md "wikilink")》（）採用次世代成員，矢倉楓子及白間美瑠擔任center（中央成員）的作法，此張單曲以[山田菜菜](../Page/山田菜菜.md "wikilink")作為center。山田菜菜是首次單獨成為A面曲center。
 
 ## 簡介

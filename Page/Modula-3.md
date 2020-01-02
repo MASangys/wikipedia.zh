@@ -1,3 +1,6 @@
+> 本文内容由[Modula-3](https://zh.wikipedia.org/wiki/Modula-3)转换而来。
+
+
 在计算机科学领域中，Modula-3是一种作为Modula-2继任者的，Modula-2的升级版被誉为Modula+的编程语言。虽然它已在研究界是有影响力的（影响的语言的设计，如Java，C\#和Python）还没有在工业上被广泛采用。它是由Luca Cardelli, James Donahue, Lucille Glassman, Mick Jordan (before at the Olivetti Software Technology Laboratory), Bill Kalsow and Greg Nelson在上世纪80年代末数字设备公司（DEC）系统研究中心（SRC）和Olivetti研究中心（ORC）设计.
 
 Modula-3的主要特点是简单、安全的同时保持一个系统编程语言的强大。Modula-3旨在继续[pascl类型安全的传统](https://zh.wikipedia.org/wiki/Pascal（程序设计语言） "wikilink")，同时引入实际编程的新构建。特别是Modula-3添加了支持[泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")（类似于[模板](https://zh.wikipedia.org/wiki/模板（编程） "wikilink")）[多线程](../Page/线程.md "wikilink")，[异常处理](../Page/异常处理.md "wikilink")，[垃圾收集](https://zh.wikipedia.org/wiki/垃圾收集（计算机科学） "wikilink")，[面向对象编程](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")，部分不安全的代码的暴露和显式标记。Modula-3的设计目标是用基本的形式实现大部分命令式编程语言重要的现代特征。因而涉嫌危险和复杂的特征如[多重继承和运算符重载被省略了](https://zh.wikipedia.org/wiki/多重继承和运算符重载 "wikilink")。

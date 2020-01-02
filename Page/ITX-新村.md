@@ -1,3 +1,6 @@
+> 本文内容由[ITX-新村](https://zh.wikipedia.org/wiki/ITX-新村)转换而来。
+
+
 **ITX-新村**（）是[韓國鐵道公社](../Page/韓國鐵道公社.md "wikilink")[城際列車之一](https://zh.wikipedia.org/wiki/城際列車 "wikilink")。
 
 ## 概要

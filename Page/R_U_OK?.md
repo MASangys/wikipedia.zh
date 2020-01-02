@@ -1,3 +1,6 @@
+> 本文内容由[R U OK\?](https://zh.wikipedia.org/wiki/R_U_OK\?)转换而来。
+
+
 《**R U OK?**》是[許靖韻](../Page/許靖韻.md "wikilink")的第二張音樂專輯、第一張EP，於2014年12月1日發行。
 
 ## 曲目

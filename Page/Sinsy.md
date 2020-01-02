@@ -1,3 +1,6 @@
+> 本文内容由[Sinsy](https://zh.wikipedia.org/wiki/Sinsy)转换而来。
+
+
 **Sinsy**（，全名為**Sin**ging Voice **Sy**nthesis System）是一個線上[隱馬爾可夫模型（HMM）](../Page/隐马尔可夫模型.md "wikilink")[语音合成](../Page/语音合成.md "wikilink")系統，由[名古屋工業大學](../Page/名古屋工業大學.md "wikilink")遵照[BSD许可证](../Page/BSD许可证.md "wikilink")製作。
 
 ## 特徵

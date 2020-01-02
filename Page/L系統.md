@@ -1,3 +1,6 @@
+> 本文内容由[L系統](https://zh.wikipedia.org/wiki/L系統)转换而来。
+
+
 [Fractal_weeds.jpg](https://zh.wikipedia.org/wiki/File:Fractal_weeds.jpg "fig:Fractal_weeds.jpg")
 
 **Lindenmayer系統**，簡稱**L系統**，是由荷兰[烏特勒支大學的生物学和植物学家](https://zh.wikipedia.org/wiki/烏特勒支大學 "wikilink")，匈牙利裔的[林登麦伊尔](https://zh.wikipedia.org/wiki/林登麦伊尔 "wikilink")（Aristid Lindenmayer）於1968年提出的有关生长发展中的[细胞](../Page/细胞.md "wikilink")交互作用的数学模型，尤其被廣泛應用於[植物生長過程的研究](https://zh.wikipedia.org/wiki/植物生長 "wikilink")。

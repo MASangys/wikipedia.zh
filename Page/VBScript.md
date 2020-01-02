@@ -1,3 +1,6 @@
+> 本文内容由[VBScript](https://zh.wikipedia.org/wiki/VBScript)转换而来。
+
+
 **VBScript**是**Visual Basic Script**的简称，有时也被缩写为VBS。VBScript是[微软](../Page/微软.md "wikilink")开发的一种[脚本语言](../Page/脚本语言.md "wikilink")，可以看作是[VB语言的简化版](https://zh.wikipedia.org/wiki/VB "wikilink")，与[Visual Basic for Applications的关系也非常密切](../Page/Visual_Basic_for_Applications.md "wikilink")。它具有原语言容易学习的特性。目前这种语言广泛应用于网页和ASP程序制作，同时还可以直接作为一个可执行程序。用于调试简单的VB语句非常方便。
 
 ## 使用范围

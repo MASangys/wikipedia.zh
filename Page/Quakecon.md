@@ -1,3 +1,6 @@
+> 本文内容由[Quakecon](https://zh.wikipedia.org/wiki/Quakecon)转换而来。
+
+
 [Quakecon_logo.png](https://zh.wikipedia.org/wiki/File:Quakecon_logo.png "fig:Quakecon_logo.png") **Quakecon**是一个[BYOC](https://zh.wikipedia.org/wiki/BYOC "wikilink")（自己帶自己的電腦）性质的[电脑游戏](../Page/电脑游戏.md "wikilink")赛事，每年举办一次。Quakecon的名字是用[id Software的游戏](https://zh.wikipedia.org/wiki/id_Software "wikilink")[雷神之锤命名的](https://zh.wikipedia.org/wiki/雷神之锤 "wikilink")，每年举办的时候，各地的[玩家](../Page/玩家.md "wikilink")都会汇聚到赛场庆祝id的成功。它是[北美最大的局域网赛事](https://zh.wikipedia.org/wiki/北美 "wikilink")，也是世界上最大的免费局域网赛事，一般会持续四天。
 
 现在Quakecon已经不仅仅是一个游戏赛事，更是一个各大公司展示最新游戏和硬件的机遇，一般这些公司都和[id Software及其发行商](https://zh.wikipedia.org/wiki/id_Software "wikilink")[Activision有关系](https://zh.wikipedia.org/wiki/Activision "wikilink")，比如销售商、游戏外围设备供应商和软件供应商。

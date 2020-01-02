@@ -1,3 +1,6 @@
+> 本文内容由[假面骑士G](https://zh.wikipedia.org/wiki/假面骑士G)转换而来。
+
+
 《**假面騎士G**》（原題：仮面ライダー G）是2009年（[平成](../Page/平成.md "wikilink")21年）1月31日放映的單元特摄作品，於[朝日電視台](../Page/朝日電視台.md "wikilink")開台50週年紀念節目《50時間テレビ》第2夜的《SmaSTATION\!\! Presents SMAPがんばりますっ\!\!》中播出。
 闊別十年，假面騎士G在2019年7月下旬上映的《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》再度登場。
 
