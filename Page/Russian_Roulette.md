@@ -1,3 +1,6 @@
+> 本文内容由[Russian Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette)转换而来。
+
+
 《**Russian Roulette**》（）是南韓女子組合[SPICA於](../Page/SPICA_\(組合\).md "wikilink")2012年2月9日發行的首張迷你專輯\[1\]。改版專輯於2012年3月29日另名《**Painkiller**》（）發行\[2\]。
 
 ## 發行過程

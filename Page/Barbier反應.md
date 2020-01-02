@@ -1,3 +1,6 @@
+> 本文内容由[Barbier反應](https://zh.wikipedia.org/wiki/Barbier反應)转换而来。
+
+
 **巴比耶反應**（**Barbier reaction**）是一個[有機反應](https://zh.wikipedia.org/wiki/有機反應 "wikilink")。它是指在[羰基化合物等亲电试剂的催化下](https://zh.wikipedia.org/wiki/羰基化合物 "wikilink")，[卤代烃和](https://zh.wikipedia.org/wiki/卤代烃 "wikilink")[鋁](https://zh.wikipedia.org/wiki/鋁 "wikilink")、[鋅](https://zh.wikipedia.org/wiki/鋅 "wikilink")、[銦](https://zh.wikipedia.org/wiki/銦 "wikilink")、[錫等金属或者其鹽類等作用生成有机金属试剂](https://zh.wikipedia.org/wiki/錫 "wikilink")，并与反应体系中的羰基化合物反应，生成[仲醇或者](https://zh.wikipedia.org/wiki/仲醇 "wikilink")[叔醇的反應](https://zh.wikipedia.org/wiki/叔醇 "wikilink")。
 
 這個反應和[格林納反應十分類似](https://zh.wikipedia.org/wiki/格氏試劑 "wikilink")，但最重要的區別是巴比耶反應屬於[一鍋法合成](https://zh.wikipedia.org/wiki/一鍋法合成 "wikilink")，而格氏反應中則需要在加成羰基化合物前分開準備格林納試劑。\[1\]Barbier反應是一個[親核加成反應](https://zh.wikipedia.org/wiki/親核加成反應 "wikilink")，使用的是對水不活躍和相對便宜的金屬（對比格氏試劑和[有機鋰試劑](https://zh.wikipedia.org/wiki/有機鋰試劑 "wikilink")），因此成本相對較低，而且很多情況下反應可以在水中進行，亦符合[綠色化學的標準](https://zh.wikipedia.org/wiki/綠色化學 "wikilink")。這個反應的名字是因為[維克多·格林尼亞的老師](https://zh.wikipedia.org/wiki/維克多·格林尼亞 "wikilink")（）而得名。

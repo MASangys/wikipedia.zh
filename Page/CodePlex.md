@@ -1,3 +1,6 @@
+> 本文内容由[CodePlex](https://zh.wikipedia.org/wiki/CodePlex)转换而来。
+
+
 **CodePlex**是一個由[微軟公司於](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")2006年5月所建置的[开放源代码](../Page/开放源代码.md "wikilink")托管網站，在此網站中所發布的所有程式都可以下載[原始碼使用](https://zh.wikipedia.org/wiki/原始碼 "wikilink")，目前它已經成為微軟軟體的週邊元件或[擴充套件的發布管道](https://zh.wikipedia.org/wiki/擴充套件 "wikilink")。微软在2017年3月31日宣布于即日起无法新建项目，从10月起网站转为只读状态，同年12月15日关闭CodePlex。\[1\]
 
 在CodePlex中較有名的軟體有：

@@ -1,3 +1,6 @@
+> 本文内容由[UVD](https://zh.wikipedia.org/wiki/UVD)转换而来。
+
+
 ****全寫為Unified Video Decoder，中文譯成通用視訊解碼器，是中的其中一項技術。從HD 2400、HD 2600和HD 3000系列集成了這個解碼器，高端的HD 2900XT反而沒有集成。最近，AMD的780G整合式晶片組亦集成了UVD。利用UVD引擎，顯示卡就能完全硬體解碼H.264和VC-1格式的高清影片，分別為[Blu-ray Disc和](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")[HD-DVD的編碼](https://zh.wikipedia.org/wiki/HD-DVD "wikilink")。
 
 原先ATI企圖將UVD技術內置在[Radeon X1 Series的顯示核心中](https://zh.wikipedia.org/wiki/Radeon_X1_Series "wikilink")，成為新的顯核（RV550），推進主流市場，並於2006年12月推出。但後來卻無了下文。

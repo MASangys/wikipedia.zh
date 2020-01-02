@@ -1,3 +1,6 @@
+> 本文内容由[天琴座RR](https://zh.wikipedia.org/wiki/天琴座RR)转换而来。
+
+
 [_rr_lyrae_aavso.png](https://zh.wikipedia.org/wiki/File:_rr_lyrae_aavso.png "fig:_rr_lyrae_aavso.png")的天琴座RR變星[光度曲線](https://zh.wikipedia.org/wiki/光度曲線 "wikilink")，不同的顏色反射不同的[帶通](../Page/測光系統.md "wikilink")。\]\]
 
 **天琴座RR** 是在[天琴座](../Page/天琴座.md "wikilink")的一顆[變星](../Page/變星.md "wikilink")，它是[天琴座RR變星的原型](https://zh.wikipedia.org/wiki/天琴座RR變星 "wikilink")，週期約13小時，[視星等在](https://zh.wikipedia.org/wiki/視星等 "wikilink")7和8等間變化。它的變光本質是蘇格蘭天文學家[威廉敏娜·佛來明](https://zh.wikipedia.org/wiki/威廉敏娜·佛來明 "wikilink") 於1901年在[哈佛大學天文台發現的](https://zh.wikipedia.org/wiki/哈佛大學天文台 "wikilink")。因為天琴座RR變星是重要的[標準燭光](../Page/標準燭光.md "wikilink")，知道它精確的距離是測量[發光度所必需的](../Page/光度.md "wikilink")，對這一類的其他恆星也是一樣。

@@ -1,3 +1,6 @@
+> 本文内容由[Super PI](https://zh.wikipedia.org/wiki/Super_PI)转换而来。
+
+
 ****是一个计算[圆周率的](https://zh.wikipedia.org/wiki/圆周率 "wikilink")[计算机程序](../Page/计算机程序.md "wikilink")，最大精确到小数点以后的3200万位數。该程序采用[高斯-勒让德算法](../Page/高斯-勒让德算法.md "wikilink")，并且于1995年被日本[計算機科學家](https://zh.wikipedia.org/wiki/計算機科學家 "wikilink")[金田康正](../Page/金田康正.md "wikilink")使用在[Windows环境下计算出精确到](https://zh.wikipedia.org/wiki/Windows "wikilink")2<sup>32</sup>次方的圆周率。
 
 ## 意义

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A02\)](https://zh.wikipedia.org/wiki/ATC代码_\(A02\))转换而来。
+
+
 ## A02A 抗酸药（Antacids）
 
 ### A02AA 镁化合物类（Magnesium compounds）

@@ -1,3 +1,6 @@
+> 本文内容由[Skype for Business](https://zh.wikipedia.org/wiki/Skype_for_Business)转换而来。
+
+
 **Skype for Business**（舊稱**Microsoft Lync** 或 **Microsoft Office Communicator**），配合[Microsoft Lync Server一同使用](https://zh.wikipedia.org/wiki/Microsoft_Lync_Server "wikilink")。發售管道隨同[Office 365](../Page/Office_365.md "wikilink")。最初版本於2011年1月25日由微軟推出。此軟件有專為[Mac OS設計的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")**Microsoft Lync for Mac**。
 
 ## 功能

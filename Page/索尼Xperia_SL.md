@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia SL](https://zh.wikipedia.org/wiki/索尼Xperia_SL)转换而来。
+
+
 **Sony Xperia SL**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的旗艦級[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，Xperia S的兄弟機，屬於[Xperia NXT系列](../Page/Xperia.md "wikilink")\[1\]，是[Sony Xperia S的後續](../Page/Sony_Xperia_S.md "wikilink")，具備[Walkman](../Page/Walkman.md "wikilink")音樂播放器，與[Facebook](../Page/Facebook.md "wikilink")整合，\[2\]於2012年9月推出。\[3\]
 
 ## 硬件

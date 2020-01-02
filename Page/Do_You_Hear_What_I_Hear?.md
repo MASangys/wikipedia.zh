@@ -1,3 +1,6 @@
+> 本文内容由[Do You Hear What I Hear\?](https://zh.wikipedia.org/wiki/Do_You_Hear_What_I_Hear\?)转换而来。
+
+
 ****（中文译名：**你听到我听到的吗？**）是一首写于1962年10月的[圣诞歌曲](https://zh.wikipedia.org/wiki/圣诞 "wikilink")，由[诺尔·瑞格尼](https://zh.wikipedia.org/wiki/诺尔·瑞格尼 "wikilink")（）作词，[格罗瑞娅·申·贝克尔](https://zh.wikipedia.org/wiki/格罗瑞娅·申·贝克尔 "wikilink")（）作曲\[1\]。两人当时是夫妻，创作时值[古巴导弹危机](../Page/古巴导弹危机.md "wikilink")\[2\]，他们通过创作这首歌曲来表达对和平的渴望。自歌曲创作以来，其拷贝已售出几千万份，并被几百个不同的艺术家演绎过\[3\] 。
 
 ## 创作

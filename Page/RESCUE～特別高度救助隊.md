@@ -1,3 +1,6 @@
+> 本文内容由[RESCUE～特別高度救助隊](https://zh.wikipedia.org/wiki/RESCUE～特別高度救助隊)转换而来。
+
+
 《**RESCUE～特別高度救助隊～**》是，2009年1月24日用[TBS系列每週星期六](https://zh.wikipedia.org/wiki/東京廣播公司 "wikilink")19:56-20:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）廣播的連續剧[連續剧](https://zh.wikipedia.org/wiki/連續剧 "wikilink")。
 
 ## 概要

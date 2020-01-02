@@ -1,3 +1,6 @@
+> 本文内容由[Adobe InCopy](https://zh.wikipedia.org/wiki/Adobe_InCopy)转换而来。
+
+
 **Adobe InCopy**是[Adobe公司出品的一个专业的](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[文字处理应用程序](../Page/文字处理器.md "wikilink")。Adobe InCopy已集成到[Adobe InDesign中](../Page/Adobe_InDesign.md "wikilink")，同时也单独出售，但是它不包含在任何[Creative Suite套件版本中](https://zh.wikipedia.org/wiki/Creative_Suite "wikilink")\[1\]。
 
 主要用于出版的报纸和杂志等的编辑工作。

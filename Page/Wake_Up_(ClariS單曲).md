@@ -1,3 +1,6 @@
+> 本文内容由[Wake Up \(ClariS單曲\)](https://zh.wikipedia.org/wiki/Wake_Up_\(ClariS單曲\))转换而来。
+
+
 《**Wake Up**》是[ClariS](../Page/ClariS.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月15日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

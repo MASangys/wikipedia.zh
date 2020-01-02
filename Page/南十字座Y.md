@@ -1,3 +1,6 @@
+> 本文内容由[南十字座Y](https://zh.wikipedia.org/wiki/南十字座Y)转换而来。
+
+
 **南十字座Y**，又名**BD+46 1817**，**HD 110914**、**SAO 44317**、**HR 4846**，是[南十字座](../Page/南十字座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为4.99，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")126.45，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")71.65，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

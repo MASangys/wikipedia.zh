@@ -1,3 +1,6 @@
+> 本文内容由[Yahoo! Babel Fish](https://zh.wikipedia.org/wiki/Yahoo!_Babel_Fish)转换而来。
+
+
 **Yahoo\! Babel Fish**（[Yahoo\! 奇摩稱作](https://zh.wikipedia.org/wiki/Yahoo!_奇摩 "wikilink")**Yahoo\! 奇摩翻譯**；又譯**寶貝魚**、**巴別魚**）是一個[互聯網上一個自動化的免費](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[機械翻譯系統服務](https://zh.wikipedia.org/wiki/機械翻譯 "wikilink")，由[門戶網站](https://zh.wikipedia.org/wiki/門戶網站 "wikilink")[AltaVista](../Page/AltaVista.md "wikilink")（已被[雅虎](../Page/雅虎.md "wikilink")收購）提供。寶貝魚可以為用戶翻譯一段文字，或指定的網頁內容。早期的寶貝魚服務只提供有五種最常見的歐洲語言，分別是：英語、法語、德語、西班牙語及意大利語。現時系統已能作12種語言（繁簡中文算作一種）的翻譯。从2012年6月1日起，Yahoo\!Babel Fish已经关停，如果访问Yahoo\! Babel Fish则会自动转向[Bing Translator](https://zh.wikipedia.org/wiki/Bing翻译 "wikilink")。\[1\]
 
 ## 取名

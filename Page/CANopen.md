@@ -1,3 +1,6 @@
+> 本文内容由[CANopen](https://zh.wikipedia.org/wiki/CANopen)转换而来。
+
+
 **CANopen**是一種架構在[控制器區域網路](https://zh.wikipedia.org/wiki/控制器區域網路 "wikilink")（Controller Area Network, CAN）上的高層[通訊協定](https://zh.wikipedia.org/wiki/通訊協定 "wikilink")，包括通訊子協定及設備子協定常在[嵌入式系統中使用](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，也是工業控制常用到的一種[現場總線](../Page/現場總線.md "wikilink")。
 
 CANopen實作了[OSI模型](../Page/OSI模型.md "wikilink")中的[網路層以上](https://zh.wikipedia.org/wiki/網路層 "wikilink")（包括網路層）的協定。CANopen標準包括定址方案、數個小的通訊子協定及由設備子協定所定義的[應用層](https://zh.wikipedia.org/wiki/應用層 "wikilink")。CANopen支援網路管理、設備監控及節點間的通訊，其中包括一個簡易的[傳輸層](https://zh.wikipedia.org/wiki/傳輸層 "wikilink")，可處理資料的分段傳送及其組合。一般而言[資料鏈結層及](https://zh.wikipedia.org/wiki/資料鏈結層 "wikilink")[實體層會用CAN來實作](https://zh.wikipedia.org/wiki/實體層 "wikilink")。除了CANopen外，也有其他的通訊協定（如[POWERLINK及](https://zh.wikipedia.org/wiki/POWERLINK "wikilink")[EtherCAT](../Page/EtherCAT.md "wikilink")）實作CANopen的設備子協定。

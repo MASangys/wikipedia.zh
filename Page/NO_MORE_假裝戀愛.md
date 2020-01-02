@@ -1,3 +1,6 @@
+> 本文内容由[NO MORE 假裝戀愛](https://zh.wikipedia.org/wiki/NO_MORE_假裝戀愛)转换而来。
+
+
 《**NO MORE 假裝戀愛**》（）是[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的第7張單曲，於1987年1月21日發售。[Oricon初登場第](../Page/Oricon公信榜.md "wikilink")1位。
 
 ## 解説

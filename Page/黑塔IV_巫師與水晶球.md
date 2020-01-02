@@ -1,3 +1,6 @@
+> 本文内容由[黑塔IV 巫師與水晶球](https://zh.wikipedia.org/wiki/黑塔IV_巫師與水晶球)转换而来。
+
+
 《**巫師與水晶球**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬金所寫的長篇](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第四集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")。此集副標題為『凝視』。曾於1998年提名軌跡獎「最佳奇幻小說」。
 
 ## 劇情概要

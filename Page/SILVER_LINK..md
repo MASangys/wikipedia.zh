@@ -1,3 +1,6 @@
+> 本文内容由[SILVER LINK.](https://zh.wikipedia.org/wiki/SILVER_LINK.)转换而来。
+
+
 **株式會社SILVER LINK.**為日本動畫製作公司。在多數動畫作品的場合下以“SILVER LINK.”或“シルバーリンク”稱呼，中文簡稱銀鏈。
 
 ## 概要

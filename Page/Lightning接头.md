@@ -1,3 +1,6 @@
+> 本文内容由[Lightning接头](https://zh.wikipedia.org/wiki/Lightning接头)转换而来。
+
+
 [Lightning_Connecter.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Connecter.jpg "fig:Lightning_Connecter.jpg") [Lightning_Dock_in_iPad_mini.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Dock_in_iPad_mini.jpg "fig:Lightning_Dock_in_iPad_mini.jpg") **Lightning**是由[蘋果公司所製作的專屬](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[連接器規格](https://zh.wikipedia.org/wiki/連接器 "wikilink")，首次出現在2012年所發表的[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")、[iPod Touch及](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")[iPod nano等新款手持式消費性電子產品](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")。此連接器針腳為 8 pin，正反面皆可插，尺寸與[Micro USB相近](https://zh.wikipedia.org/wiki/Micro_USB "wikilink")。Lightning取代了使用多年的30pin連接器，而蘋果公司另外提供Lightning轉接30pin的轉接頭得以讓使用30pin連接器的週邊及線材仍可繼續使用。
 
 ## 特色

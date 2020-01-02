@@ -1,3 +1,6 @@
+> 本文内容由[Convertigo](https://zh.wikipedia.org/wiki/Convertigo)转换而来。
+
+
 **Convertigo**为独立软件供应商（ISV），主营业务分布在欧洲和美国，总部设在法国奥赛（Orsay），并在美国旧金山设办事处。公司现有员工25人。
 
 Convertigo致立于开发开放源代码软件（OSS），提供移动企业应用程序平台（MEAP）、企业混搭应用（mashup） 和网页抓取技术。Convertigo现有客户包括：家乐福（Carrefour），DARTY，法国巴黎银行（BNP Paribas），法国兴业银行（Société Générale），地中海会旅行社股份有限公司（Club Méditerranée）和花旗美邦（Morgan Stanley Smith Barney）。

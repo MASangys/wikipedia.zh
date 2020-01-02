@@ -1,3 +1,6 @@
+> 本文内容由[UCDOS](https://zh.wikipedia.org/wiki/UCDOS)转换而来。
+
+
 [UCDOS_7.0.png](https://zh.wikipedia.org/wiki/File:UCDOS_7.0.png "fig:UCDOS_7.0.png") **UCDOS**是北京希望公司研制的汉字系统，运行于[DOS](../Page/DOS.md "wikilink")环境下，是20世纪80年代到90年代较为流行的中文系统。\[1\]\[2\]
 
 ## 历史

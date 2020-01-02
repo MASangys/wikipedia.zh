@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N06\)](https://zh.wikipedia.org/wiki/ATC代码_\(N06\))转换而来。
+
+
 ## N06A [抗抑郁药](../Page/抗抑郁药.md "wikilink")（Antidepressants）
 
 ### N06AA [非选择性单胺再吸收抑制药](https://zh.wikipedia.org/wiki/非选择性单胺再吸收抑制药 "wikilink")（Non-selective monoamine reuptake inhibitors）

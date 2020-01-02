@@ -1,3 +1,6 @@
+> 本文内容由[In Control](https://zh.wikipedia.org/wiki/In_Control)转换而来。
+
+
 《**In Control**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[吳雨霏](../Page/吳雨霏.md "wikilink")的第二張個人[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](../Page/音樂專輯.md "wikilink")，於2007年6月8日推出。該唱片獲得2007年[四台聯頒音樂大獎](../Page/四台聯頒音樂大獎.md "wikilink")的大碟獎。
 
 ## 專輯簡介

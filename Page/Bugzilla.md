@@ -1,3 +1,6 @@
+> 本文内容由[Bugzilla](https://zh.wikipedia.org/wiki/Bugzilla)转换而来。
+
+
 **Bugzilla**是一款用於[软件缺陷的](https://zh.wikipedia.org/wiki/软件缺陷 "wikilink")[追踪管理網絡程式](../Page/缺陷跟踪管理系统.md "wikilink")，由[Mozilla](../Page/Mozilla.md "wikilink")計劃开发和应用。1998年，[网景公司開放其原始碼後](https://zh.wikipedia.org/wiki/网景公司 "wikilink")，以[Mozilla公共许可证](../Page/Mozilla公共许可证.md "wikilink")协议授權。有许多组织采用其作为旗下软件（特别是[自由软件](../Page/自由软件.md "wikilink")）的产品缺陷追踪系统。
 
 ## 歷史

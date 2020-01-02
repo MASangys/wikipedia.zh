@@ -1,3 +1,6 @@
+> 本文内容由[FIRST IMPACT](https://zh.wikipedia.org/wiki/FIRST_IMPACT)转换而来。
+
+
 **《FIRST IMPACT》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")于2012年5月16日在日本推出，由[環球音樂J發行的現場專輯](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
 ## 概述

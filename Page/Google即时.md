@@ -1,10 +1,15 @@
-[Nexus_7_with_Google_Now.jpg](https://zh.wikipedia.org/wiki/File:Nexus_7_with_Google_Now.jpg "fig:Nexus_7_with_Google_Now.jpg") **Discover**（中文：**Google即時資訊**\[1\]）是一款由[Google](../Page/Google.md "wikilink")開發的[智慧型個人助理軟體](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，擴充了[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[手機應用程式的功能](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")，**Discover**最初在[Android](../Page/Android.md "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google Chrome上使用](../Page/Google_Chrome.md "wikilink")，後來Google從[Google Chrome上移除](../Page/Google_Chrome.md "wikilink")\[2\]。**Discover**最早的名稱為**Google Now**，後改名為**Google Feed**，最終定名為**Discover**\[3\]。
+> 本文内容由[Google即时](https://zh.wikipedia.org/wiki/Google即时)转换而来。
 
-Google Now使用自然語言使用者介面（Natural language user interface）透過一系列的[Web服務來進行回答問題](https://zh.wikipedia.org/wiki/Web服務 "wikilink")、提供建議、執行動作之行為。在回應使用者時，Google Now會基於使用者過往的的搜尋習慣來預測其所可能需要的資訊。Google Now最初被包含在[Android 4.1 Jelly Bean](https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.1.x "wikilink")（譯為雷根糖或果凍豆）之中，首先支援的智慧型手機為[Galaxy Nexus](../Page/Galaxy_Nexus.md "wikilink")。
 
-美國雜誌《[科技新时代](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")》（Popular Science）將Google Now評選為2012年的「年度創新」（）。\[4\]
+[Nexus_7_with_Google_Now.jpg](https://zh.wikipedia.org/wiki/File:Nexus_7_with_Google_Now.jpg "fig:Nexus_7_with_Google_Now.jpg") **Google即時資訊**\[1\]（****）是一款由[Google](../Page/Google.md "wikilink")開發的[智慧型個人助理軟體](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，擴充了[Google搜尋](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[手機應用程式的功能](https://zh.wikipedia.org/wiki/手機應用程式 "wikilink")。Google即時資訊最初在[Android](../Page/Android.md "wikilink")、[iOS及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google Chrome上使用](../Page/Google_Chrome.md "wikilink")，後來Google從[Google Chrome上移除](../Page/Google_Chrome.md "wikilink")\[2\]。
+
+Google即時資訊使用自然語言使用者介面（Natural language user interface）透過一系列的[Web服務來進行回答問題](https://zh.wikipedia.org/wiki/Web服務 "wikilink")、提供建議、執行動作之行為。在回應使用者時，Google Now會基於使用者過往的的搜尋習慣來預測其所可能需要的資訊。Google Now最初被包含在[Android 4.1 Jelly Bean](https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.1.x "wikilink")（譯為雷根糖或果凍豆）之中，首先支援的智慧型手機為[Galaxy Nexus](../Page/Galaxy_Nexus.md "wikilink")。
+
+美國雜誌《[科技新时代](https://zh.wikipedia.org/wiki/科技新时代 "wikilink")》（Popular Science）將Google即時資訊評選為2012年的「年度創新」（）。\[3\]
 
 2013年4月29日，Google Now可在[iOS版本的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Google搜尋行動應用程式內使用](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。
+
+自2015年起，Google开始逐渐减少对“Google即時資訊”这一称呼的使用。其功能被集成到Google App中的“Feed”中（此功能后改名“Discover”）。\[4\]。现在Now的大部分功能可以被[Google个人助理取代](https://zh.wikipedia.org/wiki/Google个人助理 "wikilink")。
 
 ## 历史
 
@@ -18,13 +23,13 @@ Google Now使用自然語言使用者介面（Natural language user interface）
 
 2013年3月21日，Google執行董事長[艾瑞克·施密特](https://zh.wikipedia.org/wiki/艾瑞克·施密特 "wikilink")（Eric Emerson Schmidt）表示，Google已經將iOS版本的Google Now送至至[蘋果公司審核](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，且正等待批准，但他後來澄清此非事實。\[9\]。之後，蘋果也否認了此事。儘管如此，在2013年4月29日，開始可以在iOS的Google搜尋3.0版本的行動應用程式內使用Google Now。\[10\]Google Now在Android版本與iOS版本之中的所有功能並非完全相同。\[11\]
 
-2012年12月，根據Google Chrome的[代碼審查紀錄](https://zh.wikipedia.org/wiki/代碼審查 "wikilink")，Google Now也有望被添加到Google Chrome的桌面版本。\[12\]根據[CNET](../Page/CNET.md "wikilink")的塞斯·羅森布拉特（Seth Rosenblatt），謠傳2013年11月Google Now將會被當作是[iGoogle的替代功能](https://zh.wikipedia.org/wiki/iGoogle "wikilink")。\[13\]2013年5月15日，在Google I/O上，Google宣布即將在桌面平台推出Google Now，但只能能透過Google Chrome或Google Chrome OS使用。\[14\]後來Google把Google Now從桌面平台Chrome中移除\[15\]。
+2012年12月，根據Google Chrome的[代碼審查紀錄](https://zh.wikipedia.org/wiki/代碼審查 "wikilink")，Google Now也有望被添加到Google Chrome的桌面版本。\[12\]根據[CNET](../Page/CNET.md "wikilink")的塞斯·羅森布拉特（Seth Rosenblatt），謠傳2013年11月Google Now將會被當作是[iGoogle的替代功能](https://zh.wikipedia.org/wiki/iGoogle "wikilink")。\[13\]2013年5月15日，在Google I/O上，Google宣布即將在桌面平台推出Google Now，但只能能透過Google Chrome或Google Chrome OS使用。\[14\]後來Google把Google即時資訊從桌面平台Chrome中移除\[15\]。
 
 2017年7月，Google Now更名为Google Feed\[16\]。2018年9月，又再度更名為Discover\[17\]。
 
 ## 功能
 
-Google Now為[Google搜尋應用程式的一部分](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。它可以識別使用者在設備上重複的動作（常見的位置、重複的日曆活動、搜尋歷史……等），並以「卡片」（Cards）的方式向使用者提供相關資訊。此系统使用了[Google知識圖譜計畫](https://zh.wikipedia.org/wiki/Google知識圖譜 "wikilink")，透過整合詳細的搜尋結果分析並分析結果的意義和關聯。電子商務網站多利用此功能於物流狀況通知。\[18\]\[19\]
+Google即時資訊為[Google搜尋應用程式的一部分](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。它可以識別使用者在設備上重複的動作（常見的位置、重複的日曆活動、搜尋歷史……等），並以「卡片」（Cards）的方式向使用者提供相關資訊。此系统使用了[Google知識圖譜計畫](https://zh.wikipedia.org/wiki/Google知識圖譜 "wikilink")，透過整合詳細的搜尋結果分析並分析結果的意義和關聯。電子商務網站多利用此功能於物流狀況通知。\[18\]\[19\]
 
 Google Now可能無法在使用者的所在地區提供所有卡片。\[20\]
 
@@ -165,42 +170,24 @@ CNET的斯科特·韦伯斯特称赞了Google Now中基于过往位置历史和�
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink")
 
 1.
-
 2.  [Streamlining Notifications on Desktop](https://blog.chromium.org/2015/10/streamlining-notifications-on-desktop.html)
-
-3.  [Google Feed is now called Discover and available on Google's mobile site](https://www.androidcentral.com/google-feed-now-called-discover-and-available-googles-mobile-site)
-
-4.
-
+3.
+4.  [Google Feed is now called Discover and available on Google's mobile site](https://www.androidcentral.com/google-feed-now-called-discover-and-available-googles-mobile-site)
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16. [Goodbye Google Now, hello new feed that obsessively tracks your interests](https://www.pcworld.com/article/3209034/google-replaces-google-now-with-new-feed.html)
-
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.

@@ -1,3 +1,6 @@
+> 本文内容由[接口 \(Java\)](https://zh.wikipedia.org/wiki/接口_\(Java\))转换而来。
+
+
 **介面**（），在[Java](../Page/Java.md "wikilink")程式語言中是一個（Abstract Type），它被用來要求[類別](../Page/类_\(计算机科学\).md "wikilink")(Class)必須實作指定的方法，使不同類別的物件可以利用相同的界面進行溝通。介面通常以**`interface`**來宣告，它僅能包含[方法簽名](https://zh.wikipedia.org/wiki/方法簽名 "wikilink")（Method Signature）以及[常數宣告](https://zh.wikipedia.org/wiki/常數 "wikilink")（變數宣告包含了 [`static`](https://zh.wikipedia.org/wiki/Static_variable#Static_Variables_as_Class_Variables "wikilink") 及 [`final`](https://zh.wikipedia.org/wiki/Final_\(Java\) "wikilink")），一個介面不會包含[方法的實作](../Page/方法_\(電腦科學\).md "wikilink")（僅有定義）。
 
 介面無法被实例化，但是可以被實作。一個實作介面的類別，必須實作介面內所描述的所有方法，否則就必須宣告為（Abstract Class）。另外，在Java中，介面型別可用來宣告一個變數，他們可以成為一個空指標，或是被綁定在一個以此介面實現的物件。

@@ -1,3 +1,6 @@
+> 本文内容由[X光散射技术](https://zh.wikipedia.org/wiki/X光散射技术)转换而来。
+
+
 [X-ray_diffraction_pattern_3clpro.jpg](https://zh.wikipedia.org/wiki/File:X-ray_diffraction_pattern_3clpro.jpg "fig:X-ray_diffraction_pattern_3clpro.jpg")而形成。\]\] **X光散射技术**或**X射线衍射技术**（）是一系列常用的非破壞性分析技術，可用於揭示物質的[晶體結構](https://zh.wikipedia.org/wiki/晶體 "wikilink")、化學組成以及物理性質。这些技术都是以观测[X射线](../Page/X射线.md "wikilink")穿过样品后的[散射](../Page/散射.md "wikilink")[强度](../Page/强度.md "wikilink")为基础，并根据散射角度、极化度和入射X光[波长](../Page/波长.md "wikilink")对实验结果进行分析。X光散射技术可在許多不同的條件下進行分析，例如不同的[溫度或](https://zh.wikipedia.org/wiki/溫度 "wikilink")[壓力](https://zh.wikipedia.org/wiki/壓力 "wikilink")。
 
 ## X光繞射技术

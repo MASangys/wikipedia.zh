@@ -1,3 +1,6 @@
+> 本文内容由[ARASHIC](https://zh.wikipedia.org/wiki/ARASHIC)转换而来。
+
+
 《**ARASHIC**》是[嵐](../Page/嵐.md "wikilink")的第8枚專輯，第6枚原創專輯。於2006年7月5日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

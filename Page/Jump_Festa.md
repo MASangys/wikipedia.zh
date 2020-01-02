@@ -1,3 +1,6 @@
+> 本文内容由[Jump Festa](https://zh.wikipedia.org/wiki/Jump_Festa)转换而来。
+
+
 **Jump Festa**（）是雜誌[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")、[V-Jump](https://zh.wikipedia.org/wiki/V-Jump "wikilink")、[Jump Square](../Page/Jump_Square.md "wikilink")（至2007年Jump Festa前是[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")）舉辦的活動。
 
 ## 概要

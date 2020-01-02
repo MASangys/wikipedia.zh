@@ -1,3 +1,6 @@
+> 本文内容由[Aimmy](https://zh.wikipedia.org/wiki/Aimmy)转换而来。
+
+
 **Aimmy**（），[日本](../Page/日本.md "wikilink")女歌手。本名**渡邊愛未**（）。[大阪府出身](https://zh.wikipedia.org/wiki/大阪府 "wikilink")。血型A型。[SISTUS RECORDS](https://zh.wikipedia.org/wiki/SISTUS_RECORDS "wikilink")、[GENEON所属](https://zh.wikipedia.org/wiki/GENEON "wikilink")。
 
 ## 概要

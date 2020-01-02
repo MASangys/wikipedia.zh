@@ -1,3 +1,6 @@
+> 本文内容由[勇者斗恶龙II 恶灵的众神](https://zh.wikipedia.org/wiki/勇者斗恶龙II_恶灵的众神)转换而来。
+
+
 是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）于1987年在日本[FC游戏机上发行的](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")；游戏是[勇者斗恶龙系列的第二部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。北美版由艾尼克斯自行英文化，并于1990年在以“Dragon Warrior II”为题发行\[1\]。
 
 游戏故事设定于[前作](../Page/勇者斗恶龙_\(游戏\).md "wikilink")100年以后，并以罗雷西亚王子为主人公，讲述了他消灭毁灭蒙布尔克城的邪恶大神官的故事。和主人公一起的冒险的还有两个兄妹，撒玛多利亚王子和蒙布尔克公主。游戏继承并发展了第一作的游戏模式，包括扩大的[世界地图](https://zh.wikipedia.org/wiki/Overworld "wikilink")\[2\]，出现了乘船航行和用旅之门异地传送等不同的移动方式。

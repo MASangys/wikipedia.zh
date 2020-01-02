@@ -1,3 +1,6 @@
+> 本文内容由[NDJ3型柴油动车组](https://zh.wikipedia.org/wiki/NDJ3型柴油动车组)转换而来。
+
+
 **NDJ<sub>3</sub>“长城号”**，曾命名“和谐 · 长城号”是[中國鐵路的準高速](../Page/中華人民共和國鐵路運輸.md "wikilink")[柴油动车组車款之一](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")，屬於[動力集中式](https://zh.wikipedia.org/wiki/動力集中式 "wikilink")。
 
 ## 車輛簡介

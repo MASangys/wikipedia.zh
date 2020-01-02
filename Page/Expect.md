@@ -1,3 +1,6 @@
+> 本文内容由[Expect](https://zh.wikipedia.org/wiki/Expect)转换而来。
+
+
 **Expect**是[Unix系统中用来进行自动化控制和测试的软件工具](https://zh.wikipedia.org/wiki/Unix "wikilink")，由制作，作为[Tcl](../Page/Tcl.md "wikilink")脚本语言的一个扩展，应用在交互式[软件](../Page/软件.md "wikilink")中如[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")，[ftp](../Page/文件传输协议.md "wikilink")，[Passwd](https://zh.wikipedia.org/wiki/Passwd "wikilink")，[fsck](https://zh.wikipedia.org/wiki/fsck "wikilink")，，，[ssh等等](../Page/Secure_Shell.md "wikilink")。该工具利用Unix伪终端包装其子进程，允许任意程序通过终端接入进行自动化控制；也可利用[Tk](../Page/Tk.md "wikilink")工具，将交互程序包装在[X11的](https://zh.wikipedia.org/wiki/X11 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")中。
 
 ## 基本介绍

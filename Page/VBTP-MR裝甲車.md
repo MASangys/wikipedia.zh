@@ -1,3 +1,6 @@
+> 本文内容由[VBTP-MR裝甲車](https://zh.wikipedia.org/wiki/VBTP-MR裝甲車)转换而来。
+
+
 **VBTP-MR裝甲車**為[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")專為[巴西](../Page/巴西.md "wikilink")設計的一種6x6輪裝甲車，預計取代[EE-11裝甲車](https://zh.wikipedia.org/wiki/EE-11 "wikilink")，也有8x8輪版本。配有雙碟煞車ABS和衛星定位系統，夜間作戰裝備。
 
 21世紀後巴西军方希望开发一种18吨重的轮式车辆，由于考虑到巴西国内河流众多、海岸线复杂漫长，巴西军方的当初规划该车能胜任[两栖作战任务](https://zh.wikipedia.org/wiki/两栖作战 "wikilink")，至少能搭载10名步兵，可加配侧翼浮筒以增大在河流水网密布地区的浮渡能力，可配多种武器系统。之后在2005年巴西军方在意识到新一代装甲车也必须具备快速部署能力，以适应军方越来越多的海外维和部署任务时，将VBTP-MR可由[C-130運輸機](../Page/C-130運輸機.md "wikilink")装载的机动部署性能写进了技术指标。最终VBTP-MR样车在2009年亮相于[里约热内卢](../Page/里约热内卢.md "wikilink")国际航空防务展。

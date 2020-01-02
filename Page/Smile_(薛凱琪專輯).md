@@ -1,3 +1,6 @@
+> 本文内容由[Smile \(薛凱琪專輯\)](https://zh.wikipedia.org/wiki/Smile_\(薛凱琪專輯\))转换而来。
+
+
 《**Smile**》是[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2008年的廣東專輯，於2008年12月19日推出，收錄[薛凱琪首個售票音樂劇](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《Last Smile, First Tear》的全部音樂和歌曲。專輯內四首由[方大同作曲及編曲的作品均有派台](https://zh.wikipedia.org/wiki/方大同 "wikilink")，分別是《劍龍在草地散步》、《天國的微笑》、《甜蜜蜜》和《不呼不吸幾多秒》。
 
 ## 曲目資料

@@ -1,3 +1,6 @@
+> 本文内容由[Lady Diamond](https://zh.wikipedia.org/wiki/Lady_Diamond)转换而来。
+
+
 《**Lady Diamond**》（）是[Sexy Zone的第](../Page/Sexy_Zone.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月11日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

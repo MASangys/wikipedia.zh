@@ -1,3 +1,6 @@
+> 本文内容由[殘像 \(flumpool單曲\)](https://zh.wikipedia.org/wiki/殘像_\(flumpool單曲\))转换而来。
+
+
 「**殘像**」是[flumpool主流出道的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年2月3日發售。
 
 ## 收錄曲

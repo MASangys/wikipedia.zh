@@ -1,3 +1,6 @@
+> 本文内容由[IPhone 3GS](https://zh.wikipedia.org/wiki/IPhone_3GS)转换而来。
+
+
 **iPhone 3GS**是一款[苹果公司旗下的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[iPhone系列中的第三代](https://zh.wikipedia.org/wiki/iPhone "wikilink")。2009年6月8日，这款手机在[苹果公司全球软件开发者年会中正式发布](https://zh.wikipedia.org/wiki/苹果公司全球软件开发者年会 "wikilink")。iPhone 3GS基于前代，提升了电池的续航能力、增强了摄像头像素与摄像质量\[1\]、并最大支持7.2 Mbps[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")\[2\]。iPhone 3GS于2009年6月19日在[美国](../Page/美国.md "wikilink")、[加拿大](../Page/加拿大.md "wikilink")及六个欧洲国家发售，并于6月26日在[澳大利亚](../Page/澳大利亚.md "wikilink")及[日本](../Page/日本.md "wikilink")发售\[3\]。
 
 ## 硬件

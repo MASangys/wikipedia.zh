@@ -1,3 +1,6 @@
+> 本文内容由[Paxos算法](https://zh.wikipedia.org/wiki/Paxos算法)转换而来。
+
+
 **Paxos算法**是[莱斯利·兰伯特](https://zh.wikipedia.org/wiki/莱斯利·兰伯特 "wikilink")（，[LaTeX中的](https://zh.wikipedia.org/wiki/LaTeX "wikilink")「La」）于1990年提出的一种基于消息传递且具有高度容错特性的共识（consensus）算法。\[1\]
 
 需要注意的是，Paxos常被误称为“一致性算法”。但是“[一致性（consistency）](../Page/线性一致性.md "wikilink")”和“共识（consensus）”并不是同一个概念。Paxos是一个共识（consensus）算法。\[2\]

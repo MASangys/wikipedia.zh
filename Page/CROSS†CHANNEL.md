@@ -1,3 +1,6 @@
+> 本文内容由[CROSS†CHANNEL](https://zh.wikipedia.org/wiki/CROSS†CHANNEL)转换而来。
+
+
 《**CROSS†CHANNEL**》是[FlyingShine第一套以自己公司名義制作及發售的](https://zh.wikipedia.org/wiki/FlyingShine "wikilink")[成人游戏](https://zh.wikipedia.org/wiki/成人游戏 "wikilink")，于2003年9月26日发售。\[1\]2004年3月18日再由[KID](../Page/KID.md "wikilink")發售[PlayStation 2版本](../Page/PlayStation_2.md "wikilink")《CROSS†CHANNEL ～To all people～》。\[2\]2012年11月22日由[WillPlus](../Page/WillPlus.md "wikilink")发行复刻版。\[3\]
 
 ## 故事

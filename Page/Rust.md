@@ -1,3 +1,6 @@
+> 本文内容由[Rust](https://zh.wikipedia.org/wiki/Rust)转换而来。
+
+
 **Rust**是由[Mozilla](../Page/Mozilla.md "wikilink")\[1\]主导开发的[通用](https://zh.wikipedia.org/wiki/通用程式語言 "wikilink")、编译型编程语言。设计准则为“安全、并发、实用”，\[2\]\[3\]支持[函数式](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")、[並行式](https://zh.wikipedia.org/wiki/參與者模式 "wikilink")、[程序式以及](https://zh.wikipedia.org/wiki/程序編程 "wikilink")[面向对象的编程风格](../Page/面向对象程序设计.md "wikilink")。
 
 Rust語言原本是Mozilla員工Graydon Hoare的私人計畫，而Mozilla於2009年開始贊助這個計畫\[4\]，並且在2010年首次揭露了它的存在\[5\]。也在同一年，其[編譯器](../Page/編譯器.md "wikilink")原始碼開始由原本的OCaml語言轉移到用Rust語言，進行bootstrapping工作，稱做*rustc*\[6\]，並於2011年實際完成\[7\]。這個可自我編譯的編譯器在架構上採用了[LLVM](../Page/LLVM.md "wikilink")做為它的後端。

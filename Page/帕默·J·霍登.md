@@ -1,3 +1,6 @@
+> 本文内容由[帕默·J·霍登](https://zh.wikipedia.org/wiki/帕默·J·霍登)转换而来。
+
+
 **帕默·J·霍登**（）是一名[美国](../Page/美国.md "wikilink")养猪技术专家，主要研究领域为猪营养和管理。他从1972起所领导的《爱荷华州立大学生命周期猪营养》（Iowa State University LIFE CYCLE SWINE NUTRITION）具有较大的国际影响，被认为是[爱荷华州作为国际猪营养信息中心的重要因素之一](https://zh.wikipedia.org/wiki/爱荷华州 "wikilink")\[1\]。
 
 ## 履历

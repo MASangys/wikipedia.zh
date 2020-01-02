@@ -1,3 +1,6 @@
+> 本文内容由[Entity Framework](https://zh.wikipedia.org/wiki/Entity_Framework)转换而来。
+
+
 </ref> | latest preview version = | latest preview date =  | status = | programming language = [C\#](https://zh.wikipedia.org/wiki/C_Sharp_\(programming_language\) "wikilink") | operating system = | platform = [.NET Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink") | size = | language = | language count = | language footnote = | genre = [物件關聯對應](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink") (O/R Mapping) | license = [Apache License](https://zh.wikipedia.org/wiki/Apache_License "wikilink") | alexa = | website =  | standard = | AsOf = | logo_size = | logo_alt = }} **Entity Framework** (又稱ADO.NET Entity Framework) 是微軟以 ADO.NET 為基礎所發展出來的**[物件關聯對應](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink") (O/R Mapping)** 解決方案，早期被稱為 ObjectSpace，現已經包含在 Visual Studio 2008 Service Pack 1 以及 .NET Framework 3.5 Service Pack 1 中發表。
 
 ADO.NET Entity Framework 以 Entity Data Model (EDM) 為主，將資料邏輯層切分為三塊，分別為 Conceptual Schema, Mapping Schema 與 Storage Schema 三層，其上還有 Entity Client，Object Context 以及 [LINQ](https://zh.wikipedia.org/wiki/LINQ "wikilink") 可以使用。

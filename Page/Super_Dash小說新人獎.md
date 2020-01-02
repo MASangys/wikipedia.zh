@@ -1,3 +1,6 @@
+> 本文内容由[Super Dash小說新人獎](https://zh.wikipedia.org/wiki/Super_Dash小說新人獎)转换而来。
+
+
 **Super Dash小說新人獎**是[集英社](../Page/集英社.md "wikilink")舉辦的[輕小說](../Page/輕小說.md "wikilink")新人獎。一年發表一次（每年的10月25日截止，隔年4月25日發表）。得獎作品由評審委員共同決議，大賞得獎者可以得到正賞獎牌和副賞100萬日圓，佳作得獎者可以得到正賞的獎牌和副賞50萬日圓。此外，得獎者的作品會在[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")，出版後能夠得到[版稅](https://zh.wikipedia.org/wiki/版稅 "wikilink")。
 
 2001年首次頒獎，2013年停辦，2014年舉辦第13回之後，轉型為[集英社輕小說新人獎](https://zh.wikipedia.org/wiki/集英社輕小說新人獎 "wikilink")（）。

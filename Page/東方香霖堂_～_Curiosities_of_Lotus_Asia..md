@@ -1,3 +1,6 @@
+> 本文内容由[東方香霖堂 ～ Curiosities of Lotus Asia.](https://zh.wikipedia.org/wiki/東方香霖堂_～_Curiosities_of_Lotus_Asia.)转换而来。
+
+
 是[东方Project在](https://zh.wikipedia.org/wiki/东方Project "wikilink")[MediaWorks](../Page/MediaWorks.md "wikilink")[電撃萌王连载的小说作品](https://zh.wikipedia.org/wiki/電撃萌王 "wikilink")。由[ZUN](../Page/ZUN.md "wikilink")编写，插画由提供。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Dr. JIN](https://zh.wikipedia.org/wiki/Dr._JIN)转换而来。
+
+
 《**Dr. JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月26日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。改編自日本漫畫家[村上紀香](../Page/村上紀香.md "wikilink")漫畫作品《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》。講述2012年韓國最優秀的[外科醫生秦赫穿越時空回到](https://zh.wikipedia.org/wiki/外科醫生 "wikilink")1860年朝鮮時代艱苦行醫的故事。
 
 ## 劇情簡介

@@ -1,3 +1,6 @@
+> 本文内容由[NBA海外赛](https://zh.wikipedia.org/wiki/NBA海外赛)转换而来。
+
+
 **NBA海外赛**（**NBA Oversea Game**）是NBA全球推广战略的重要组成部分，随着NBA在世界范围内影响的扩大以及国际球员的增多甚至频频出现海外的[NBA选秀状元](https://zh.wikipedia.org/wiki/NBA选秀状元 "wikilink")，NBA比赛已经通过几十种语言传向了200多个国家和地区，NBA海外赛主要也是为了扩大NBA在美国本土以外的影响，所以比赛的过程和所产生的商业效应要比比赛实际的结果更被人们所看重。
 
 1978年9月8日，NBA球队首次和国际球队进行友谊赛，欧洲豪强以色列特拉维夫马卡比队在[特拉维夫](../Page/特拉维夫.md "wikilink")的主场以98-97一分险胜来访的[华盛顿子弹队](https://zh.wikipedia.org/wiki/华盛顿子弹队 "wikilink")；1993年，NBA首次在美加以外地区举行季前赛，地点是[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")；1990年[日本](../Page/日本.md "wikilink")[东京](../Page/东京.md "wikilink")成为第一个在美国和加拿大以外举办NBA常规赛的城市；1992年NBA转战拉美地区，1997年[墨西哥](../Page/墨西哥.md "wikilink")[墨西哥城](../Page/墨西哥城.md "wikilink")成为又一个举办NBA常规赛的海外城市\[1\]。

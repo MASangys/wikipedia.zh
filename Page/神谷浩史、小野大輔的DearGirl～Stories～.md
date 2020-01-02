@@ -1,3 +1,6 @@
+> 本文内容由[神谷浩史、小野大輔的DearGirl～Stories～](https://zh.wikipedia.org/wiki/神谷浩史、小野大輔的DearGirl～Stories～)转换而来。
+
+
 **神谷浩史、小野大輔的DearGirl～Stories～**（）是日本[文化放送播出的廣播節目](../Page/文化放送_\(日本\).md "wikilink")，從2007年4月7日起於每週日1:00－1:30播出。主持人為[聲優](../Page/聲優.md "wikilink")[神谷浩史](../Page/神谷浩史.md "wikilink")與[小野大輔](../Page/小野大輔.md "wikilink")。
 
 ## 節目概要

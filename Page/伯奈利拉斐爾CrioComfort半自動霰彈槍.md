@@ -1,3 +1,6 @@
+> 本文内容由[伯奈利拉斐爾CrioComfort半自動霰彈槍](https://zh.wikipedia.org/wiki/伯奈利拉斐爾CrioComfort半自動霰彈槍)转换而来。
+
+
 **伯奈利拉斐爾CrioComfort**（）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")公司在1990年代後期設計和生產的現代化標準型[半自動式](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，適合[獵人](../Page/狩獵.md "wikilink")、[執法機關和](../Page/警察.md "wikilink")[軍隊三方使用](../Page/武装力量.md "wikilink")，可以發射任可以發射2、3英吋甚至3英吋[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 設計

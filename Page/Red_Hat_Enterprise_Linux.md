@@ -1,3 +1,6 @@
+> 本文内容由[Red Hat Enterprise Linux](https://zh.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)转换而来。
+
+
 **Red Hat Enterprise Linux**（**RHEL**）是一個由[Red Hat開發的商業市場導向的](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")。红帽公司从 Red Hat Enterprise Linux 5 开始对企业版 LINUX 的每个版本提供 10 年的支持\[1\]。Red Hat Enterprise Linux 常被簡稱爲 RHEL，但它並非官方名稱。
 
 Red Hat Enterprise Linux 大約 3 年发布一个新版本。

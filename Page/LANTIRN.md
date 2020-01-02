@@ -1,3 +1,6 @@
+> 本文内容由[LANTIRN](https://zh.wikipedia.org/wiki/LANTIRN)转换而来。
+
+
 [F-14D_LANTIRN.jpg](https://zh.wikipedia.org/wiki/File:F-14D_LANTIRN.jpg "fig:F-14D_LANTIRN.jpg") **夜间低空导航暨红外線瞄准**夾艙（）或**蓝盾**（LANTIRN），由[馬丁·馬瑞塔公司開發](https://zh.wikipedia.org/wiki/馬丁·馬瑞塔 "wikilink")，為一組结合了[导航和紅外線瞄准夾艙之系统](https://zh.wikipedia.org/wiki/导航 "wikilink")，配備LANTIRN莢艙的戰機可以在夜間及任何氣候下皆可執行飛行作戰。
 
 LANTIRN計畫在1980年9月發包，1984年12月完成測評，1985年3月美國空軍允許該莢艙組進行[小批量試生產](https://zh.wikipedia.org/wiki/小批量試生產 "wikilink")，1986年11月批准以全速量產配備。第一批莢艙在1987年3月31日撥交美國空軍。

@@ -1,3 +1,6 @@
+> 本文内容由[Keroro軍曹角色列表](https://zh.wikipedia.org/wiki/Keroro軍曹角色列表)转换而来。
+
+
 **Keroro軍曹角色列表**為日本[動漫](../Page/動漫.md "wikilink")作品《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》中登場角色的相關介紹。
 
 ## K隆星人

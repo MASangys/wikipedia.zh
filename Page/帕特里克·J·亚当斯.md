@@ -1,3 +1,6 @@
+> 本文内容由[帕特里克·J·亚当斯](https://zh.wikipedia.org/wiki/帕特里克·J·亚当斯)转换而来。
+
+
 **帕特里克·-{zh-cn:约翰内斯;zh-hk:祖漢尼斯;zh-tw:約翰尼斯}-·亚当斯**（，），一 [加拿大](../Page/加拿大.md "wikilink") 演员。他在[USA Network的电视剧](https://zh.wikipedia.org/wiki/USA_Network "wikilink")《[金装律师](../Page/金装律师.md "wikilink")》饰演Mike Ross。
 
 ## 个人生活

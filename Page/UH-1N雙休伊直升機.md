@@ -1,3 +1,6 @@
+> 本文内容由[UH-1N雙休伊直升機](https://zh.wikipedia.org/wiki/UH-1N雙休伊直升機)转换而来。
+
+
 **[貝爾UH](https://zh.wikipedia.org/wiki/贝尔直升机公司 "wikilink")-1N Twin Huey**（UH-1N雙休伊）是在1968年推出的中型軍用[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，UH-1N具有15個座位，包括1名飛行員及14名乘客，而執行運輸任務時內部容量達220平方尺（6.23平方米），外力負載可達5000磅（2268公斤）。
 
 ## 設計及裝備

@@ -1,3 +1,6 @@
+> 本文内容由[東京KAWAII TV](https://zh.wikipedia.org/wiki/東京KAWAII_TV)转换而来。
+
+
 **東京KAWAII TV**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：，[英譯](https://zh.wikipedia.org/wiki/英語 "wikilink")：Tokyo Kawaii TV）是[日本放送協會的潮流節目](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")，於[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）每逢星期三0時10分至0時39分播出。2010年5月起，播放時間變更為每逢星期日23時30分至23時59分播出。2010年9月起，播放時間變更為每逢星期六23時00分至23時29分播出。2011年3月起，播放時間再變更為每逢星期六23時05分至23時34分播出。現在的[主持人是](https://zh.wikipedia.org/wiki/主持人 "wikilink")[澤村一樹](../Page/澤村一樹.md "wikilink")和[BENI](../Page/BENI.md "wikilink")。Kawaii TV的固定[模特兒](../Page/模特兒.md "wikilink")是[紗耶](https://zh.wikipedia.org/wiki/紗耶 "wikilink")。
 
 由於該節目以[日本](../Page/日本.md "wikilink")[潮流指標為節目內容](https://zh.wikipedia.org/wiki/潮流 "wikilink")，在日本以外地區亦有播出。2008年7月起，開始於香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[J2台播出](https://zh.wikipedia.org/wiki/J2台 "wikilink")（目前較日本慢約兩個月）；同年12月於[香港](../Page/香港.md "wikilink")[無綫生活台播出](https://zh.wikipedia.org/wiki/無綫生活台 "wikilink")。日本於2013年3月23日播放完畢。

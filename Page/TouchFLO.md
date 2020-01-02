@@ -1,3 +1,6 @@
+> 本文内容由[TouchFLO](https://zh.wikipedia.org/wiki/TouchFLO)转换而来。
+
+
 [TouchFlo.jpg](https://zh.wikipedia.org/wiki/File:TouchFlo.jpg "fig:TouchFlo.jpg") **TouchFLO**是[智能手机](../Page/智能手机.md "wikilink")廠商[HTC開發的一種針對](https://zh.wikipedia.org/wiki/HTC "wikilink")[Windows Mobile平台上的使用者界面](../Page/Windows_Mobile.md "wikilink")，被内置在HTC Touch系列手機上使用。其升级版为[TouchFLO 3D及](https://zh.wikipedia.org/wiki/TouchFLO_3D "wikilink")[HTC Sense](../Page/HTC_Sense.md "wikilink")。
 
 TouchFLO為[軟體與](https://zh.wikipedia.org/wiki/軟體 "wikilink")[硬體兩部分](https://zh.wikipedia.org/wiki/硬體 "wikilink")，硬體方面採用最低2.8英寸的65536色[QVGA觸摸屏](https://zh.wikipedia.org/wiki/QVGA "wikilink")。（上附高耐磨保護屏，擁有極其細小的點陣，通過這些點敏銳感應手指在屏幕上的劃動與點擊，感應屏的觸點數量應高於普通屏幕的30%），與其兼容的不低於200MHz的[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")，擁有獨立[顯卡](https://zh.wikipedia.org/wiki/顯卡 "wikilink")。軟體方面即3D Cube主界面與TouchFLO劃動感應驅動，兩者相互配合帶給了用家Windows Mobile的全新操控體驗。

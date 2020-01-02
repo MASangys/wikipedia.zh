@@ -1,3 +1,6 @@
+> 本文内容由[Scene7](https://zh.wikipedia.org/wiki/Scene7)转换而来。
+
+
 **Scene7**是一所美國[互動式多媒體軟件公司](https://zh.wikipedia.org/wiki/互動式多媒體 "wikilink")，提供[網頁寄存和](https://zh.wikipedia.org/wiki/網頁寄存服務 "wikilink")[桌面出版](../Page/桌面出版.md "wikilink")服務。一些公司，主要是零售商，更使用此公司的服務在自己的網站上展示他們的產品，並讓客戶與產品更互動。
 
 ## 公司

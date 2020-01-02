@@ -1,3 +1,6 @@
+> 本文内容由[IN THE LIFE](https://zh.wikipedia.org/wiki/IN_THE_LIFE)转换而来。
+
+
 《**IN THE LIFE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第五张录音室专辑。1991年11月27日由[BMG VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 Oricon年榜第二位，為B'z原創專輯年度排行最高的一張。

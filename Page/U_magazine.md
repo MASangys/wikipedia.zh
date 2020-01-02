@@ -1,3 +1,6 @@
+> 本文内容由[U magazine](https://zh.wikipedia.org/wiki/U_magazine)转换而来。
+
+
 **U Magazine**是香港的一本消閒[週刊](https://zh.wikipedia.org/wiki/週刊 "wikilink")，是[香港經濟日報](../Page/香港經濟日報.md "wikilink")集團出版旗下刊物，於2005年12月創刊，一書三冊，逢星期五出版。
 
 主要內容包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[飲食](https://zh.wikipedia.org/wiki/飲食 "wikilink")、優質生活、時裝潮流、人物及專欄，例如食肆介紹及特色飲食，世界各地旅遊專題等。

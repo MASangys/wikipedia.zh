@@ -1,3 +1,6 @@
+> 本文内容由[MOODYZ](https://zh.wikipedia.org/wiki/MOODYZ)转换而来。
+
+
 **MOODYZ**（）是[日本](../Page/日本.md "wikilink")一家[成人视频制造商](https://zh.wikipedia.org/wiki/成人视频制造商 "wikilink")，隸屬於[北都集團](https://zh.wikipedia.org/wiki/北都集團 "wikilink")，於2000年成立，總部位日本[石川縣](../Page/石川縣.md "wikilink")[加賀市美岬町](https://zh.wikipedia.org/wiki/加賀市 "wikilink")1-1 AVC運動中心。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Egoboo](https://zh.wikipedia.org/wiki/Egoboo)转换而来。
+
+
 ***Egoboo*** 是3D [开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[地下城探索](https://zh.wikipedia.org/wiki/地下城 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，全力支持 [Windows XP](../Page/Windows_XP.md "wikilink")，[Vista](../Page/Windows_Vista.md "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac OS X等平台](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，而更早的[Windows平台提供有限支持](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。一个下载站[Sourceforge记录了约](https://zh.wikipedia.org/wiki/Sourceforge "wikilink")47万次下载\[1\]，和Linux/\*BSD发行版仓库里也可以找到。
 
 ## 历史

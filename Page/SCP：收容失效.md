@@ -1,3 +1,6 @@
+> 本文内容由[SCP：收容失效](https://zh.wikipedia.org/wiki/SCP：收容失效)转换而来。
+
+
 《**SCP：收容失效**》（）是一款由芬兰游戏开发商Regalis根据[SCP基金会](../Page/SCP基金会.md "wikilink")内容开发的恐怖游戏。\[1\]
 
 ## 内容

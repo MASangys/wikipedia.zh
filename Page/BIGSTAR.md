@@ -1,3 +1,6 @@
+> 本文内容由[BIGSTAR](https://zh.wikipedia.org/wiki/BIGSTAR)转换而来。
+
+
 ''' BIGSTAR '''（），是[Brave Entertainment旗下的](https://zh.wikipedia.org/wiki/Brave_Entertainment "wikilink")[韓國五人男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包括隊長FeelDog、Baram、來桓、聖學及Jude，於2012年7月12日，以首張單曲《BIGSTART》出道，出道曲是《HOT BOY》。
 
 團體口號是「**The Future of Brave Sound, BIGSTAR\!**」。\[1\]官方歌迷名稱為「**OnlyONE**」，意思是「不論人數多少，歌迷都是他們的唯一」。\[2\]

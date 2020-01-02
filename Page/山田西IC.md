@@ -1,3 +1,6 @@
+> 本文内容由[山田西IC](https://zh.wikipedia.org/wiki/山田西IC)转换而来。
+
+
 **山田西IC**（平假名：やまだにしインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西區的](https://zh.wikipedia.org/wiki/西區_\(名古屋市\) "wikilink")[名古屋第二環狀自動車道](../Page/名古屋第二環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此交流道只提供內外回方向入口。
 
 ## 連接道路

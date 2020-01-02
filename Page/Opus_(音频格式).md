@@ -1,3 +1,6 @@
+> 本文内容由[Opus \(音频格式\)](https://zh.wikipedia.org/wiki/Opus_\(音频格式\))转换而来。
+
+
 **Opus**是一個[有損聲音編碼的格式](https://zh.wikipedia.org/wiki/破壞性資料壓縮#音訊壓縮 "wikilink")，由[Xiph.Org基金會](../Page/Xiph.Org基金會.md "wikilink")開發，之後由[網際網路工程任務組進行標準化](../Page/互联网工程任务组.md "wikilink")，目標是希望用單一格式包含聲音和語音，取代[Speex和](https://zh.wikipedia.org/wiki/Speex "wikilink")[Vorbis](https://zh.wikipedia.org/wiki/Vorbis "wikilink")，且適用於網路上低延遲的即時聲音傳輸，標準格式定義於RFC 6716文件。Opus格式是一個[開放格式](https://zh.wikipedia.org/wiki/開放格式 "wikilink")，使用上沒有任何[專利或限制](https://zh.wikipedia.org/wiki/專利 "wikilink")。
 
 Opus整合了兩種聲音編碼的技術：以語音編碼為導向的[SILK](../Page/SILK.md "wikilink")和低延遲的[CELT](https://zh.wikipedia.org/wiki/CELT "wikilink")。Opus可以无缝调节高低[比特率](../Page/比特率.md "wikilink")。在编码器内部它在较低比特率时使用[线性预测编码](../Page/线性预测编码.md "wikilink")在高比特率时候使用[变换编码](https://zh.wikipedia.org/wiki/变换编码 "wikilink")（在高低比特率交界处也使用两者结合的编码方式）。Opus具有非常低的演算法延遲（預設為22.5 ms）\[1\]，非常適合用於低延遲語音通話的編碼，像是網路上的即時聲音串流、即時同步聲音旁白等等，此外Opus也可以透過降低編碼位元率，達成更低的演算法延遲，最低可以到5 ms。在多個聽覺盲測中，Opus都比[MP3](../Page/MP3.md "wikilink")、[AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")、[HE-AAC等常見格式](https://zh.wikipedia.org/wiki/HE-AAC "wikilink")，有更低的延遲和更好的聲音壓縮率。

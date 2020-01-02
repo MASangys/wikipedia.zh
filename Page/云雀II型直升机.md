@@ -1,3 +1,6 @@
+> 本文内容由[云雀II型直升机](https://zh.wikipedia.org/wiki/云雀II型直升机)转换而来。
+
+
 [Aérospatiale_SA-318_BW_Alouette_II.jpg](https://zh.wikipedia.org/wiki/File:Aérospatiale_SA-318_BW_Alouette_II.jpg "fig:Aérospatiale_SA-318_BW_Alouette_II.jpg")
 
 **法国宇航云雀II型**（**Aérospatiale Alouette II**）是由[法国宇航公司生产的轻型](https://zh.wikipedia.org/wiki/法国宇航公司 "wikilink")、单发及五座多用途直升机。

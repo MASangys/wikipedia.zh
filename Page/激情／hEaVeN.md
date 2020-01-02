@@ -1,3 +1,6 @@
+> 本文内容由[激情／hEaVeN](https://zh.wikipedia.org/wiki/激情／hEaVeN)转换而来。
+
+
 「**激情／hEaVeN**」是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年7月14日由[ZAIN RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 收錄曲

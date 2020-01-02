@@ -1,3 +1,6 @@
+> 本文内容由[Akeboshi](https://zh.wikipedia.org/wiki/Akeboshi)转换而来。
+
+
 **Akeboshi**是[日本](../Page/日本.md "wikilink")[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")。原名**明星嘉男**，[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市出身](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")，唱片公司為日本[Epic Records](https://zh.wikipedia.org/wiki/Epic_Records "wikilink")，主要作品為《[Wind](https://zh.wikipedia.org/wiki/STONED_TOWN "wikilink")》，《Yellow Moon》。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[H album -H·A·N·D-](https://zh.wikipedia.org/wiki/H_album_-H·A·N·D-)转换而来。
+
+
 **H album -H·A·N·D-**是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")8張[專輯](../Page/音樂專輯.md "wikilink")。於2005年11月16日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說

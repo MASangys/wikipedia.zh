@@ -1,3 +1,6 @@
+> 本文内容由[娛樂CIA](https://zh.wikipedia.org/wiki/娛樂CIA)转换而来。
+
+
 《**娛樂CIA**》（）是由[傳訊媒體集團旗下的](https://zh.wikipedia.org/wiki/傳訊媒體集團 "wikilink")[傳訊媒體製作有限公司全資製作](https://zh.wikipedia.org/wiki/傳訊媒體製作有限公司 "wikilink")，集資訊、娛樂及綜藝於一身的[亞洲電視](../Page/亞洲電視.md "wikilink")節目，並安排由[傳訊媒體廣告有限公司贊助](https://zh.wikipedia.org/wiki/傳訊媒體廣告有限公司 "wikilink")，在2012年8月13日起逢星期一至日於[本港台](../Page/本港台.md "wikilink")及[亞洲台播映](../Page/亞洲電視亞洲台.md "wikilink")。
 
 由於傳訊媒體製作有限公司不滿有人干預[編輯自主令節目難以保持水準](https://zh.wikipedia.org/wiki/編輯自主 "wikilink")，故該公司向亞洲電視發出[律師信](https://zh.wikipedia.org/wiki/律師信 "wikilink")，通知於2013年2月27日[腰斬節目及追討賠償](../Page/腰斬_\(術語\).md "wikilink")。

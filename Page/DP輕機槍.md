@@ -1,3 +1,6 @@
+> 本文内容由[DP輕機槍](https://zh.wikipedia.org/wiki/DP輕機槍)转换而来。
+
+
 **DP輕機槍**（ **，意为**捷格加廖夫步兵机枪**），有型号**DP27**或**DP28**，是一款由[蘇聯人](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")於1927年研製成功，1928年裝備[蘇聯紅軍的](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")。
 
 ## 設計特式

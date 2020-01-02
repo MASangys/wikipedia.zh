@@ -1,3 +1,6 @@
+> 本文内容由[魔法學園MA](https://zh.wikipedia.org/wiki/魔法學園MA)转换而来。
+
+
 《**魔法學園MA**》（****）是[榊一郎](../Page/榊一郎.md "wikilink")作、[BLADE繪製插畫的](https://zh.wikipedia.org/wiki/BLADE "wikilink")[輕小說](../Page/輕小說.md "wikilink")。[Fami通文庫](../Page/Fami通文庫.md "wikilink")出版，全九本。略稱「」。此外，還有出版番外篇《****》。中文版由[尖端出版社出版](https://zh.wikipedia.org/wiki/尖端出版社 "wikilink")。
 
 除了小說，還有在同出版社的「」上連載的漫畫作品，作畫為BLADE。2007年6月7日發售遊戲。

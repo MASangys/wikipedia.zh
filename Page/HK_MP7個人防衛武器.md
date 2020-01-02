@@ -1,3 +1,6 @@
+> 本文内容由[HK MP7個人防衛武器](https://zh.wikipedia.org/wiki/HK_MP7個人防衛武器)转换而来。
+
+
 **HK MP7**是一款由[黑克勒-科赫所研發的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")，發射[4.6×30毫米口徑彈藥](../Page/4.6×30mm.md "wikilink")。
 
 ## 歷史

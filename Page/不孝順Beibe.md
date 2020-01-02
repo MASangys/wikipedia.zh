@@ -1,3 +1,6 @@
+> 本文内容由[不孝順Beibe](https://zh.wikipedia.org/wiki/不孝順Beibe)转换而来。
+
+
 「**不孝順Beibe**」（）是日本組合[惠比壽麝香葡萄](../Page/惠比壽麝香葡萄.md "wikilink")的第7張單曲。
 
 ## 收錄曲

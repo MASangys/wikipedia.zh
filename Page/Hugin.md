@@ -1,3 +1,6 @@
+> 本文内容由[Hugin](https://zh.wikipedia.org/wiki/Hugin)转换而来。
+
+
 **hugin**是一款由Pablo d'Angelo为主开发的跨平台[开源](../Page/开源软件.md "wikilink")[全景摄影](https://zh.wikipedia.org/wiki/全景摄影 "wikilink")[图像拼接软件](https://zh.wikipedia.org/wiki/图像拼接 "wikilink")。它是基于[Helmut Dersch](https://zh.wikipedia.org/wiki/Helmut_Dersch "wikilink")'s [Panorama Tools与Andrew](https://zh.wikipedia.org/wiki/Panorama_Tools "wikilink") Mihal的*Enblend*及*Enfuse*的一款[图形化界面的前端程序](https://zh.wikipedia.org/wiki/图形化界面 "wikilink")。拼接允许几张在同一地点拍摄的互有重叠的照片使用 **控制点**来拼合照片以混合而输出一张更大幅面的图像。**hugin**支持自动创建控制点，带预览窗口的优化图像投影方式方便用户全景图是否可接受。若用户接受，则程序通过拼接投影与输出来全景图。
 
 ## 功能

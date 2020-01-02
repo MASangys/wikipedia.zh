@@ -1,3 +1,6 @@
+> 本文内容由[新富士IC](https://zh.wikipedia.org/wiki/新富士IC)转换而来。
+
+
 **新富士IC**（平假名：しんふじインターチェンジ）是位於[靜岡縣](../Page/靜岡縣.md "wikilink")[富士市](../Page/富士市.md "wikilink")的[新東名高速道路與](https://zh.wikipedia.org/wiki/新東名高速道路 "wikilink")[西富士道路之](https://zh.wikipedia.org/wiki/西富士道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

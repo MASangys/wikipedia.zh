@@ -1,3 +1,6 @@
+> 本文内容由[Mastercard Contactless](https://zh.wikipedia.org/wiki/Mastercard_Contactless)转换而来。
+
+
 **Mastercard Contactless**，前稱PayPass，是[万事达卡](../Page/万事达卡.md "wikilink")組織推出的非接觸式[信用卡](../Page/信用卡.md "wikilink")及[扣賬卡系統](https://zh.wikipedia.org/wiki/扣賬卡 "wikilink")，带有EMV芯片的非接觸式万事达信用卡及扣賬卡不必接觸刷卡機就可以完成交易。同類系統有[Visa payWave及](../Page/Visa_payWave.md "wikilink")[銀聯](https://zh.wikipedia.org/wiki/銀聯 "wikilink")[閃付](https://zh.wikipedia.org/wiki/閃付 "wikilink")。
 
 ## 使用

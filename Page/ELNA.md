@@ -1,3 +1,6 @@
+> 本文内容由[ELNA](https://zh.wikipedia.org/wiki/ELNA)转换而来。
+
+
 **ELNA公司**（）是一間位於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市的電子公司](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")，製作[印刷電路板等電子物品](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，。分為[電容器事業本部和印刷回路事業本部](https://zh.wikipedia.org/wiki/電容器 "wikilink")。也是[東京證券交易所](../Page/東京證券交易所.md "wikilink")上市公司之一。
 
 ## 沿革

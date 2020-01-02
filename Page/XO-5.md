@@ -1,3 +1,6 @@
+> 本文内容由[XO-5](https://zh.wikipedia.org/wiki/XO-5)转换而来。
+
+
 **XO-5**是一個距離地球約850光年的[黃矮星](https://zh.wikipedia.org/wiki/黃矮星 "wikilink")，位於[天貓座](https://zh.wikipedia.org/wiki/天貓座 "wikilink")。該恆星視星等12等，必須以小型望遠鏡觀測\[1\]\[2\]。
 
 ## 行星系

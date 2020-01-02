@@ -1,3 +1,6 @@
+> 本文内容由[Feel So Good \(鄭秀文專輯\)](https://zh.wikipedia.org/wiki/Feel_So_Good_\(鄭秀文專輯\))转换而来。
+
+
 《**Feel So Good**》（意思：感覺很好）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第十五張個人專輯和第十三張粵語專輯\[1\]，於1998年7月同時在[香港](../Page/香港.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")及[馬來西亞發行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")\[2\]，其後於1998年8月1日推出韓國版。第一主打《理想對象》，第二主打《哭泣遊戲》，第三主打《祝大家好過》，另外收錄與當年美國頂級組合All-4One合唱英文歌曲《I Cross My Heart》。
 
 ## 專輯介紹

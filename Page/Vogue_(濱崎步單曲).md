@@ -1,3 +1,6 @@
+> 本文内容由[Vogue \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Vogue_\(濱崎步單曲\))转换而来。
+
+
 \-{T|vogue}-
 
 《**vogue**》（時尚）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")第14張單曲，2000年4月26日於日本發售。

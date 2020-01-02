@@ -1,3 +1,6 @@
+> 本文内容由[Udev](https://zh.wikipedia.org/wiki/Udev)转换而来。
+
+
 **udev** 是Linux kernel 2.6系列的设备管理器。它主要的功能是管理`/dev`目錄底下的[设备节点](https://zh.wikipedia.org/wiki/设备节点 "wikilink")。它同时也是用来接替[devfs及](https://zh.wikipedia.org/wiki/devfs "wikilink")[hotplug的功能](https://zh.wikipedia.org/wiki/hotplug "wikilink")，这意味着它要在添加/删除硬件时处理`/dev`目录以及所有用户空间的行为，包括加载[firmware时](https://zh.wikipedia.org/wiki/firmware "wikilink")。
 
 udev的最新版本依赖于升级后的Linux kernel 2.6.13的[uevent接口的最新版本](https://zh.wikipedia.org/wiki/uevent "wikilink")。使用新版本udev的系统不能在2.6.13以下版本启动，除非使用*noudev*参数来禁用udev并使用传统的`/dev`来进行设备读取。

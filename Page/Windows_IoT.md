@@ -1,3 +1,6 @@
+> 本文内容由[Windows IoT](https://zh.wikipedia.org/wiki/Windows_IoT)转换而来。
+
+
 **Windows [IoT](../Page/物联网.md "wikilink")**, 曾经叫做**Windows Embedded**，是[微软](../Page/微软.md "wikilink")的嵌入式系列产品家族，微软在开始发行Windows 10嵌入式版本时将"Windows Embedded"更名为"Windows IoT"，包括四大系列：
 
 ## [Windows Embedded Standard](https://zh.wikipedia.org/wiki/Windows_Embedded_Standard "wikilink")

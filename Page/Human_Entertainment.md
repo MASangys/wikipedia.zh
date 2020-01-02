@@ -1,3 +1,6 @@
+> 本文内容由[Human Entertainment](https://zh.wikipedia.org/wiki/Human_Entertainment)转换而来。
+
+
 **HUMAN株式會社**為1983年創立的[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[公司](../Page/公司.md "wikilink")。
 
 於1990年設立[全世界第一所](https://zh.wikipedia.org/wiki/全世界 "wikilink")[遊戲設計](https://zh.wikipedia.org/wiki/遊戲設計 "wikilink")[人才養成的](https://zh.wikipedia.org/wiki/人才 "wikilink")[專門学校](https://zh.wikipedia.org/wiki/專門学校 "wikilink")「」，並於1991年發售[任天堂FC遊戲](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")『[埃及](../Page/埃及.md "wikilink")』之後，[自有品牌的作品逐漸增多](https://zh.wikipedia.org/wiki/自有品牌 "wikilink")。1992年與[NEC-HE](https://zh.wikipedia.org/wiki/NEC-HE "wikilink")（[NEC與](https://zh.wikipedia.org/wiki/NEC "wikilink")[Hudson Soft的合資公司](../Page/Hudson_Soft.md "wikilink")）合併，成立[HuneX](https://zh.wikipedia.org/wiki/HuneX "wikilink")，為NEC-HE的[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")（[PC Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")、[PC-FX](../Page/PC-FX.md "wikilink")）開發專用的遊戲軟體。

@@ -1,3 +1,6 @@
+> 本文内容由[Friend過打Band](https://zh.wikipedia.org/wiki/Friend過打Band)转换而来。
+
+
 是一部由[李修賢執導的](https://zh.wikipedia.org/wiki/李修賢 "wikilink")[香港](../Page/香港.md "wikilink")警匪喜劇，於1982年上映，由[呂良偉](../Page/呂良偉.md "wikilink")、[鄭則士](https://zh.wikipedia.org/wiki/鄭則士 "wikilink")、[王青](../Page/王青.md "wikilink")主演。此片是[港產片中最早期的警匪電影之一](https://zh.wikipedia.org/wiki/港產片 "wikilink")，上映時票房高達600多萬，從此掀起一片警匪電影熱潮。
 
 ## 劇情

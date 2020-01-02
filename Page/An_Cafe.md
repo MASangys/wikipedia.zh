@@ -1,3 +1,6 @@
+> 本文内容由[An Cafe](https://zh.wikipedia.org/wiki/An_Cafe)转换而来。
+
+
 **An Cafe**（日文原名： ）是[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[乐团](https://zh.wikipedia.org/wiki/乐团 "wikilink")，2003年在独立唱片公司[Loop Ash的协助下组建而成](https://zh.wikipedia.org/wiki/Loop_Ash "wikilink")，特点为视觉系摇滚中的一种*oshare kei*，本乐团已经出版了一些自己独有的专辑。經紀公司為[Sony Music Artists](../Page/Sony_Music_Artists.md "wikilink")。
 
 ## 历史

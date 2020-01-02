@@ -1,3 +1,6 @@
+> 本文内容由[仙劍Online](https://zh.wikipedia.org/wiki/仙劍Online)转换而来。
+
+
 《**仙劍Online**》（以下简称**仙劍OL**）是由[大宇資訊](../Page/大宇資訊.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北研發總部以](https://zh.wikipedia.org/wiki/台北 "wikilink")[單機遊戲](https://zh.wikipedia.org/wiki/单人电子游戏 "wikilink")《[仙劍奇俠傳系列](../Page/仙劍奇俠傳系列.md "wikilink")》的故事设定为背景开发的一款[網路遊戲](https://zh.wikipedia.org/wiki/網路遊戲 "wikilink")（[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")）。目前此遊戲已結束營運。
 
 ## 遊戲世界觀

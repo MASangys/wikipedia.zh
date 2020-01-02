@@ -1,3 +1,6 @@
+> 本文内容由[Wise Data Recovery](https://zh.wikipedia.org/wiki/Wise_Data_Recovery)转换而来。
+
+
 **Wise Data Recovery**（明智的数据恢复软件）是WiseCleaner出品的一款完全免费的数据恢复工具。它可以恢复已被“永久”删除以及被[操作系统](../Page/操作系统.md "wikilink")标记为自由空间的文件（如珍贵照片，[Word](https://zh.wikipedia.org/wiki/Word "wikilink")、[Excel等重要文档](https://zh.wikipedia.org/wiki/Excel "wikilink")，[电子邮件](../Page/电子邮件.md "wikilink")，[TXT文本](https://zh.wikipedia.org/wiki/TXT "wikilink")，压缩包，视频文件等等）。另外该数据恢复软件还可以用于恢复从USB闪存驱动器，记忆卡，或MP3播放器等[移动设备](../Page/移动设备.md "wikilink")中删除的文件。
 
 ## 产品特色

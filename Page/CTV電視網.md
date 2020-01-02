@@ -1,3 +1,6 @@
+> 本文内容由[CTV電視網](https://zh.wikipedia.org/wiki/CTV電視網)转换而来。
+
+
 **CTV电视网**（），通常简称为“CTV”，是[加拿大](../Page/加拿大.md "wikilink")一家[英语](../Page/英语.md "wikilink")[地面](https://zh.wikipedia.org/wiki/地面电视 "wikilink")[电视网](https://zh.wikipedia.org/wiki/电视联播网 "wikilink")，也是加拿大最大的[电视联播网](https://zh.wikipedia.org/wiki/电视联播网 "wikilink")，于1961年啓播，2000年起隶属，現為旗下[贝尔传媒集團成員](https://zh.wikipedia.org/wiki/贝尔传媒 "wikilink")。CTV电视网是加拿大最大的[私人及商业电视网](https://zh.wikipedia.org/wiki/私有企业 "wikilink")。在关键收视市场落后本国竞争媒体[环球电视网数年后](../Page/環球電視_\(加拿大\).md "wikilink")，CTV电视网从2002年开始在加拿大总收视人群和核心收视人口两个统计数据中位于全加第一。
 
 除了CTV電視網之外，「CTV」這個品牌還應用於貝爾傳媒的其他廣播資產，包括24小時收費電視新闻频道[CTV新闻台以及次要](https://zh.wikipedia.org/wiki/CTV新闻台 "wikilink")[CTV第二台](../Page/CTV第二台.md "wikilink")，而贝尔传媒亦於2018年宣布旗下部分收費電視頻道将在未来使用「CTV」廣播品牌。

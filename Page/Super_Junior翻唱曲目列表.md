@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior翻唱曲目列表](https://zh.wikipedia.org/wiki/Super_Junior翻唱曲目列表)转换而来。
+
+
 **Super Junior翻唱曲目列表**主要列舉[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[Super Junior](../Page/Super_Junior.md "wikilink")**、子團體[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super Junior Donghae & Eunhyuk及](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")的[翻唱歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。儘管Super Junior大部分的歌曲都是由公司[韓國SM娛樂有限公司制作](https://zh.wikipedia.org/wiki/韓國SM娛樂有限公司 "wikilink")，但仍有少数歌曲是翻唱的。
 
 ## [Super Junior](../Page/Super_Junior.md "wikilink")

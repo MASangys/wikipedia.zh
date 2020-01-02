@@ -1,3 +1,6 @@
+> 本文内容由[Nucleus RTOS](https://zh.wikipedia.org/wiki/Nucleus_RTOS)转换而来。
+
+
 **Nucleus即時作業系統**（Nucleus RTOS）是Mentor Graphics旗下Accelerated Technology公司所推出的嵌入式作業系統。Nucleus的好處是程式師不用再撰寫板支持套裝軟體（[BSP](https://zh.wikipedia.org/wiki/BSP "wikilink")）。目前Nucleus RTOS已支持USB OTG。
 
 ## 組成

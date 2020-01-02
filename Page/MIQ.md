@@ -1,3 +1,6 @@
+> 本文内容由[MIQ](https://zh.wikipedia.org/wiki/MIQ)转换而来。
+
+
 **MIQ**，血型AB型，出身於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的動畫歌手](https://zh.wikipedia.org/wiki/港區 "wikilink")，歌迷常以「MIQ姐」來稱呼她。現主要於東京、[鳥取市](../Page/鳥取市.md "wikilink")兩地活動，並創辦「VLOMIQ」音樂教室。
 
 ## 人物

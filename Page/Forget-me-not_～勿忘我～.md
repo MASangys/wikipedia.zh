@@ -1,3 +1,6 @@
+> 本文内容由[Forget-me-not ～勿忘我～](https://zh.wikipedia.org/wiki/Forget-me-not_～勿忘我～)转换而来。
+
+
 《**forget-me-not ～勿忘我～**》（）是日本女子組合[FLOWER的第](https://zh.wikipedia.org/wiki/FLOWER_\(組合\) "wikilink")3張單曲，於2012年8月22日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要

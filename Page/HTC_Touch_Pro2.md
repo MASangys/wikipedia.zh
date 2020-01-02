@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch Pro2](https://zh.wikipedia.org/wiki/HTC_Touch_Pro2)转换而来。
+
+
 **HTC Touch Pro2**，產品代號**Rhodium**，從名字可以看出是[HTC Touch Pro的升級版](../Page/HTC_Touch_Pro.md "wikilink")，是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電公司所推出的旗艦級](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6.1，是一種具有3D立體觸控介面（[TouchFLO](../Page/TouchFLO.md "wikilink")）的手機。2009年2月16日發表，目前是宏達電Touch家族旗下的最高端型號。
 
 ## 技術規格

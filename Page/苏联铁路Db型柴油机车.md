@@ -1,3 +1,6 @@
+> 本文内容由[苏联铁路Db型柴油机车](https://zh.wikipedia.org/wiki/苏联铁路Db型柴油机车)转换而来。
+
+
 **D<sup>b</sup>型柴油机车**（）是[美国](../Page/美国.md "wikilink")[鲍尔温机车厂](../Page/鲍尔温机车厂.md "wikilink")于1945年为[苏联铁路设计制造的电传动](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，这也是鲍尔温机车厂第一种对外出口的机车产品，工厂设计代号为**0-6-6-0 1000/1 DE**\[1\]。
 
 ## 发展历史

@@ -1,3 +1,6 @@
+> 本文内容由[Ceui](https://zh.wikipedia.org/wiki/Ceui)转换而来。
+
+
 **Ceui**（，）是在[千叶县出生](https://zh.wikipedia.org/wiki/千叶县 "wikilink")，在[福冈县](../Page/福冈县.md "wikilink")长大的女性[歌手](../Page/歌手.md "wikilink")。血型A型。名字Ceui是基于[葡萄牙语](https://zh.wikipedia.org/wiki/葡萄牙语 "wikilink")（天空）的造语，意思是「星」\[1\]。受当[钢琴](../Page/钢琴.md "wikilink")老师的母亲影响，从六岁开始学习古典钢琴。毕业于[白百合女子大学文学部](https://zh.wikipedia.org/wiki/白百合女子大学 "wikilink")。
 
 ## 作品

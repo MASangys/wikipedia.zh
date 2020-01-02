@@ -1,3 +1,6 @@
+> 本文内容由[OL蔡桃桂](https://zh.wikipedia.org/wiki/OL蔡桃桂)转换而来。
+
+
 **[OL蔡桃桂](https://zh.wikipedia.org/wiki/辦公室女職員 "wikilink")**為網路漫畫家[RIVER的](https://zh.wikipedia.org/wiki/RIVER "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品\[1\]，於2003年開始於[Yahoo\!奇摩連載](https://zh.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")，單行本由[台灣東販](../Page/台灣東販.md "wikilink")發售\[2\]。內容敘述主角蔡桃桂在大間公司工作中的各種有趣事情。 值得一提的是，裡面所有的人物名稱多數都和食物有密切的關係（如*蔡桃桂*即台語[蘿蔔糕](../Page/蘿蔔糕.md "wikilink")的念法）
 
 ## 登場人物

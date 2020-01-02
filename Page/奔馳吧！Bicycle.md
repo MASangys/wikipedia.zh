@@ -1,3 +1,6 @@
+> 本文内容由[奔馳吧！Bicycle](https://zh.wikipedia.org/wiki/奔馳吧！Bicycle)转换而来。
+
+
 《**奔馳吧！Bicycle**》（）是日本女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月22日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 發行及宣傳

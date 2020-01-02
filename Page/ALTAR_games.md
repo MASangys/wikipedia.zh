@@ -1,3 +1,6 @@
+> 本文内容由[ALTAR games](https://zh.wikipedia.org/wiki/ALTAR_games)转换而来。
+
+
 **ALTAR Games**（前身為**ALTAR Interactive**）是一家總部位於[捷克](../Page/捷克.md "wikilink")[布爾諾](../Page/布爾諾.md "wikilink")的[電子遊戲開發公司](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，於1997年成立。\[1\]
 
 2005年，Altar Games、[波希米亞互動工作室](../Page/波希米亞互動工作室.md "wikilink")和[Black Element Software三家電子遊戲公司共同成立了](https://zh.wikipedia.org/wiki/Black_Element_Software "wikilink")[IDEA Games](../Page/Idea_Games.md "wikilink")。\[2\]

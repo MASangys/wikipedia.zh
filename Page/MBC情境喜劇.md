@@ -1,3 +1,6 @@
+> 本文内容由[MBC情境喜劇](https://zh.wikipedia.org/wiki/MBC情境喜劇)转换而来。
+
+
 **《MBC情境喜劇》**（韓語：）是[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")[週一至](https://zh.wikipedia.org/wiki/週一 "wikilink")[週五於晚上](https://zh.wikipedia.org/wiki/週五 "wikilink")7時45分的播出的時段。
 
 ## 作品列表

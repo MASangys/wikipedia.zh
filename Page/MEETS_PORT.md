@@ -1,3 +1,6 @@
+> 本文内容由[MEETS PORT](https://zh.wikipedia.org/wiki/MEETS_PORT)转换而来。
+
+
 **MEETS PORT**（）是一個位於[東京都](../Page/東京都.md "wikilink")[文京区](https://zh.wikipedia.org/wiki/文京区 "wikilink")[東京巨蛋城](../Page/東京巨蛋城.md "wikilink")（）内的複合商業設施，在2008年3月19日啟用。
 
 ## 歷史

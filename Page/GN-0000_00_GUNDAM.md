@@ -1,3 +1,6 @@
+> 本文内容由[GN-0000 00 GUNDAM](https://zh.wikipedia.org/wiki/GN-0000_00_GUNDAM)转换而来。
+
+
 | **00 GUNDAM**                                                                                         |
 | ----------------------------------------------------------------------------------------------------- |
 | [GN-0000 00 GUNDAM](https://zh.wikipedia.org/wiki/File:GN-0000_00_Gundam.jpg "fig:GN-0000 00 GUNDAM") |

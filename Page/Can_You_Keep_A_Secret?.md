@@ -1,3 +1,6 @@
+> 本文内容由[Can You Keep A Secret\?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret\?)转换而来。
+
+
 **Can You Keep A Secret?**（台灣EMI公司譯為「A級秘密」）是[宇多田光](../Page/宇多田光.md "wikilink")的第七張日語單曲，於2001年2月16日發行，初動78萬張，累計148萬張，是其代表作之一。
 
 本曲為史上收視最高日劇[HERO主題曲](../Page/HERO_\(日本電視劇\).md "wikilink")。當年得知此合作計畫後，她閱讀了劇本，並對歌詞做了些修改。她也在該劇客串一名服務生。

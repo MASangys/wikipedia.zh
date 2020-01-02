@@ -1,3 +1,6 @@
+> 本文内容由[Aerojet](https://zh.wikipedia.org/wiki/Aerojet)转换而来。
+
+
 **Aerojet**，是美国传统的军火公司，主营固体、液体[火箭](../Page/火箭.md "wikilink")[发动机](../Page/发动机.md "wikilink")设计、制造及生产。
 
 ## 历史

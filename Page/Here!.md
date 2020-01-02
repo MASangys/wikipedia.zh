@@ -1,3 +1,6 @@
+> 本文内容由[Here!](https://zh.wikipedia.org/wiki/Here!)转换而来。
+
+
 **here\!**是[美國一家面向](https://zh.wikipedia.org/wiki/美國 "wikilink")[LGBT](../Page/LGBT.md "wikilink")觀衆的付費電視新聞網。自2002年開臺以來，here\!在全美主要的有綫電視系統和互聯網電視提供商上提供全天候24x7的收費頻道訂閲，[隨選視訊](../Page/隨選視訊.md "wikilink")服務。
 
 here\!積極參與LGBT社區活動，並為每年的同志活動，比如[驕傲遊行](https://zh.wikipedia.org/wiki/驕傲遊行 "wikilink")、電影節以及數個組織提供贊助。

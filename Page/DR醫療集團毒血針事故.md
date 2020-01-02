@@ -1,3 +1,6 @@
+> 本文内容由[DR醫療集團毒血針事故](https://zh.wikipedia.org/wiki/DR醫療集團毒血針事故)转换而来。
+
+
 **DR醫療集團毒血針事故**是指2012年發生於香港的一宗醫學美容嚴重[醫療事故](../Page/醫療事故.md "wikilink")，涉及有人將尚在試驗階段的[CIK](https://zh.wikipedia.org/wiki/CIK "wikilink")（細胞因子誘導的殺傷細胞）[治癌醫療技術](../Page/癌症.md "wikilink")，用作美容保健用途。事件為香港歷史上最嚴重的一宗醫學美容事故，造成一人死亡、一人受傷及一人[殘障](https://zh.wikipedia.org/wiki/殘障 "wikilink")。\[1\]
 
 ## 背景

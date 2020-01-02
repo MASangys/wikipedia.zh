@@ -1,3 +1,6 @@
+> 本文内容由[ASP.NET AJAX](https://zh.wikipedia.org/wiki/ASP.NET_AJAX)转换而来。
+
+
 **ASP.NET AJAX** 是微軟專為 ASP.NET 應用程式所發展的 [AJAX](../Page/AJAX.md "wikilink") 基礎支援，研發代號為 **Atlas**，原有的 ASP.NET 應用程式可以很輕鬆的使用 ASP.NET AJAX 所提供的基礎架構，開發具有 AJAX 能力的 Web 應用程式。
 
 早期在 ASP.NET 2.0 時開始發展，它也是早期使用*' CTP (Community Technology Preview)*' 來代表測試版本的產品之一，在開發初期就已經受到 ASP.NET 的開發人員相當程度的關注，而在歷經一年左右的開發後，於 2007 年發表了在 ASP.NET 2.0 使用的 AJAX 1.0（版本號碼為 1.0.61025），目前的版本為 3.5，與 .NET Framework 3.5 一起發布。

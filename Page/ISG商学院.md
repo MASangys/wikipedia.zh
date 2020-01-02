@@ -1,3 +1,6 @@
+> 本文内容由[ISG商学院](https://zh.wikipedia.org/wiki/ISG商学院)转换而来。
+
+
 **ISG商学院**（，ISG），是[法国的一所](https://zh.wikipedia.org/wiki/法国 "wikilink")[商学院](../Page/商学院.md "wikilink")，创建于1967年。
 
 ## 著名校友

@@ -1,3 +1,6 @@
+> 本文内容由[Hardpack](https://zh.wikipedia.org/wiki/Hardpack)转换而来。
+
+
 **Hardpack**，香港[朋克摇滚風格的獨立樂隊](https://zh.wikipedia.org/wiki/朋克摇滚 "wikilink")，成立於2001年。2013年5月解散。
 
 ## 成員

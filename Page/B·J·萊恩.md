@@ -1,3 +1,6 @@
+> 本文内容由[B·J·萊恩](https://zh.wikipedia.org/wiki/B·J·萊恩)转换而来。
+
+
 **B.J.萊恩**（**B. J. Ryan**，原名**Robert Victor Ryan, Jr.**，）出生於[路易斯安那州](../Page/路易斯安那州.md "wikilink")[Bossier City](https://zh.wikipedia.org/wiki/Bossier_City,_Louisiana "wikilink")）是一名[美國職棒大聯盟選手](https://zh.wikipedia.org/wiki/美國職棒大聯盟 "wikilink")，以前擔任[多倫多藍鳥](../Page/多倫多藍鳥.md "wikilink")的[終結者](https://zh.wikipedia.org/wiki/終結者 "wikilink")。在這之前，他曾效力於[辛辛那提紅人](../Page/辛辛那提紅人.md "wikilink")與[巴爾的摩金鶯](https://zh.wikipedia.org/wiki/巴爾的摩金鶯 "wikilink")。
 
 ## 生涯

@@ -1,3 +1,6 @@
+> 本文内容由[Love Shuffle](https://zh.wikipedia.org/wiki/Love_Shuffle)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[TBS](../Page/TBS.md "wikilink")於2009年1月16日至3月20日每週星期五22:00～22:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[玉木宏](../Page/玉木宏.md "wikilink")主演。
 
 ## 登場人物

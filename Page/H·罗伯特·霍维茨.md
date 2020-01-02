@@ -1,3 +1,6 @@
+> 本文内容由[H·罗伯特·霍维茨](https://zh.wikipedia.org/wiki/H·罗伯特·霍维茨)转换而来。
+
+
 **霍华德·罗伯特·霍维茨**（，），[美国](../Page/美国.md "wikilink")生物学家，以研究[线虫动物门](../Page/线虫动物门.md "wikilink")的[秀丽隐杆线虫而著名](https://zh.wikipedia.org/wiki/秀丽隐杆线虫 "wikilink")。因发现器官发育和细胞程序性细胞死亡（细胞程序化凋亡）的遗传调控机理，与[悉尼·布伦纳](https://zh.wikipedia.org/wiki/悉尼·布伦纳 "wikilink")、[约翰·E·苏尔斯顿一起获得](https://zh.wikipedia.org/wiki/约翰·E·苏尔斯顿 "wikilink")2002年[诺贝尔生理学或医学奖](../Page/诺贝尔生理学或医学奖.md "wikilink")。
 
 ## 参考资料

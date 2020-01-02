@@ -1,3 +1,6 @@
+> 本文内容由[Comptiq](https://zh.wikipedia.org/wiki/Comptiq)转换而来。
+
+
 《**Comptiq**》（）是[日本](../Page/日本.md "wikilink")[角川書店](../Page/角川書店.md "wikilink")發行的漫畫[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1983年創刊。
 
 ## 連載作品

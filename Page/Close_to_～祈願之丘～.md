@@ -1,3 +1,6 @@
+> 本文内容由[Close to ～祈願之丘～](https://zh.wikipedia.org/wiki/Close_to_～祈願之丘～)转换而来。
+
+
 《**Close to ～祈願之丘～**》（）是[日本](../Page/日本.md "wikilink")[KID](../Page/KID.md "wikilink")在[Dreamcast](../Page/Dreamcast.md "wikilink")平台發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
 
 ## 概要

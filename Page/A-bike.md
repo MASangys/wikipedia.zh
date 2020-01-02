@@ -1,3 +1,6 @@
+> 本文内容由[A-bike](https://zh.wikipedia.org/wiki/A-bike)转换而来。
+
+
 [a-bike_stand_alone.jpg](https://zh.wikipedia.org/wiki/File:a-bike_stand_alone.jpg "fig:a-bike_stand_alone.jpg") [A-bike_folded.jpg](https://zh.wikipedia.org/wiki/File:A-bike_folded.jpg "fig:A-bike_folded.jpg") {{ external media | align = right | width = 300px | video1 = [北京新发现20120321：迷你折叠新风尚——A-bike](http://www.tudou.com/programs/view/noDrfyPwzqY) }}
 
 是一种由英国人[克莱夫·辛克莱尔发明的](https://zh.wikipedia.org/wiki/克莱夫·辛克莱尔 "wikilink")[折叠车](https://zh.wikipedia.org/wiki/折叠车 "wikilink")，于2006年7月12日发布。重量仅有，折叠体积有67×30×16 cm，可直接装入[背包](../Page/背包.md "wikilink")中。

@@ -1,3 +1,6 @@
+> 本文内容由[重音Teto](https://zh.wikipedia.org/wiki/重音Teto)转换而来。
+
+
 [Kasane_Teto.png](https://zh.wikipedia.org/wiki/File:Kasane_Teto.png "fig:Kasane_Teto.png") **重音Teto**（，此處「」為重疊之意，對應漢語音-{zh-hans:chóng;zh-hk:chóng;zh-tw:ㄔㄨㄥˊ;}-）是在2008年4月1日[愚人節前夕](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，由匿名留言板[2ch發起](https://zh.wikipedia.org/wiki/2ch "wikilink")，用作捉弄人的[虛擬偶像](https://zh.wikipedia.org/wiki/虛擬偶像 "wikilink")。後來有人以此[角色](../Page/角色.md "wikilink")為基調，將其製作成[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[UTAU的聲音資料庫](https://zh.wikipedia.org/wiki/UTAU "wikilink")。其後，由她的音源調降音階後衍生的[性轉換角色](https://zh.wikipedia.org/wiki/性轉換 "wikilink")也被廣泛使用。
 
 ## 概要

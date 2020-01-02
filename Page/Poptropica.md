@@ -1,3 +1,6 @@
+> 本文内容由[Poptropica](https://zh.wikipedia.org/wiki/Poptropica)转换而来。
+
+
 **Poptropica**\[1\]是一個大型的多人[線上遊戲及](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[虛擬世界](https://zh.wikipedia.org/wiki/虛擬世界 "wikilink")，適合6歲至15歲的[兒童玩耍](https://zh.wikipedia.org/wiki/兒童 "wikilink")。在遊戲中，玩家可以旅行、玩遊戲、跟其他玩家彼此溝通及完成「島嶼任務」。Poptropica是一個由[家庭教育](../Page/家庭教育.md "wikilink")網絡──[Funbrain研發](https://zh.wikipedia.org/wiki/Funbrain "wikilink")，該公司還擁有孩子們的遊戲學習網站──funbrain.com \[2\]。該遊戲的正式發布日期是[2007年9月](../Page/2007年9月.md "wikilink")\[3\]。
 
 ## 角色

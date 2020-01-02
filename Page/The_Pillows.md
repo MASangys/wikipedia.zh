@@ -1,3 +1,6 @@
+> 本文内容由[The Pillows](https://zh.wikipedia.org/wiki/The_Pillows)转换而来。
+
+
 **The Pillows**是一个于1989年组成的日本的[摇滚](../Page/摇滚.md "wikilink")乐队。目前由山中泽男、真鍋吉明、佐藤信一郎等三人組成。
 
 ## 成员资料

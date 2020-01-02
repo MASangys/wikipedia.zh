@@ -1,3 +1,6 @@
+> 本文内容由[地球少女Arjuna](https://zh.wikipedia.org/wiki/地球少女Arjuna)转换而来。
+
+
 《**地球少女Arjuna**》是一套[日本](../Page/日本.md "wikilink")的環保[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[Bandai Visual制作](https://zh.wikipedia.org/wiki/Bandai_Visual "wikilink")。講述地球失衡之後世界的變化。共有六個部份13集。有[DVD發行](https://zh.wikipedia.org/wiki/DVD "wikilink")。已在日本、香港和台灣上映。
 
 ## 登場人物

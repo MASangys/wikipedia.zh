@@ -1,3 +1,6 @@
+> 本文内容由[Tell Me Goodbye](https://zh.wikipedia.org/wiki/Tell_Me_Goodbye)转换而来。
+
+
 《**Tell Me Goodbye**》是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")4張單曲，於2010年6月9日發售。
 
 ## 收錄曲目

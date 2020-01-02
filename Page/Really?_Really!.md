@@ -1,3 +1,6 @@
+> 本文内容由[Really\? Really!](https://zh.wikipedia.org/wiki/Really\?_Really!)转换而来。
+
+
 《**Really? Really\!**》（）是[Navel](../Page/Navel.md "wikilink")游戏制作公司于2006年11月24日发售的[十八禁](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。2009年發售[任天堂DS](../Page/任天堂DS.md "wikilink")版本。2012年5月25日Gyutto獨家發售網路下載版。 __toc__
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[BC信用卡盃世界圍棋公開賽](https://zh.wikipedia.org/wiki/BC信用卡盃世界圍棋公開賽)转换而来。
+
+
 **BC信用卡盃世界圍棋公開賽** ( BC card Cup World Baduk Championship) ， 簡稱**BC卡盃**，是[圍棋主要國際賽事之一](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。
 
 前身為[韓國國內賽事BC信用卡盃](https://zh.wikipedia.org/wiki/韓國 "wikilink")[新人王戰](https://zh.wikipedia.org/wiki/新人王戰 "wikilink")，[韓國棋院主辦](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")，圍棋TV，NHN協辦 ， [BC信用卡公司贊助](https://zh.wikipedia.org/wiki/BC信用卡 "wikilink")。

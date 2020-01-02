@@ -1,3 +1,6 @@
+> 本文内容由[天若有情II之天長地久](https://zh.wikipedia.org/wiki/天若有情II之天長地久)转换而来。
+
+
 是一部於1993年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[陳木勝](../Page/陳木勝.md "wikilink")和[杜琪峯](../Page/杜琪峯.md "wikilink")分別擔任導演和監製，以及由[郭富城](../Page/郭富城.md "wikilink")、[吳倩蓮](../Page/吳倩蓮.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")和[黃秋生](../Page/黃秋生.md "wikilink")擔任主演，此電影為《天若有情三部曲系列》中的第二部。
 
 此電影在香港上映的天數和票房收入分別為21天和914萬，總票房排名第56位。

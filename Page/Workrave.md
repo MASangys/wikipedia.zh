@@ -1,3 +1,6 @@
+> 本文内容由[Workrave](https://zh.wikipedia.org/wiki/Workrave)转换而来。
+
+
 **Workrave** 是[自由软件](../Page/自由软件.md "wikilink")，设计为防止[职业病](../Page/职业病.md "wikilink")（比如[腕隧道症候群](../Page/腕隧道症候群.md "wikilink")、[重複使力傷害和](https://zh.wikipedia.org/wiki/重複使力傷害 "wikilink")[近視](../Page/近視.md "wikilink")）。
 
 动画角色 “Miss Workrave” 在屏幕上四处游走，做伸展运动\[1\]\[2\]\[3\]

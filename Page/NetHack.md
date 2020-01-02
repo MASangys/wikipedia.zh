@@ -1,3 +1,6 @@
+> 本文内容由[NetHack](https://zh.wikipedia.org/wiki/NetHack)转换而来。
+
+
 **NetHack**是一款最初在1987年發佈的[Roguelike](../Page/Roguelike.md "wikilink")[單人遊戲](https://zh.wikipedia.org/wiki/單人遊戲 "wikilink")。它繼承了Hack（1985年）及更早的Rogue（1980年）。
 
 遊戲名字中的「網路」（Net）是指開發過程通過[互联网](../Page/互联网.md "wikilink")合作完成。\[1\]

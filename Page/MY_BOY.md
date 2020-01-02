@@ -1,3 +1,6 @@
+> 本文内容由[MY BOY](https://zh.wikipedia.org/wiki/MY_BOY)转换而来。
+
+
 「**MY BOY**」是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第7張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年4月29日發售\[1\]\[2\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

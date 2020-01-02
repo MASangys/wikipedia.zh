@@ -1,3 +1,6 @@
+> 本文内容由[Spiritual Garden](https://zh.wikipedia.org/wiki/Spiritual_Garden)转换而来。
+
+
 《**Spiritual Garden**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第9張單曲，由[科樂美](../Page/科樂美.md "wikilink")於2005年10月26日發行，並由[KING RECORDS負責分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品編號為GBCM-7。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch Diamond2](https://zh.wikipedia.org/wiki/HTC_Touch_Diamond2)转换而来。
+
+
 **HTC Touch Diamond2**，產品代號**Topaz**，從名字可以看出是[HTC Touch Diamond的升級版](../Page/HTC_Touch_Diamond.md "wikilink")，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟[Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6.1，是一種具有3D立體觸控介面（[TouchFLO](../Page/TouchFLO.md "wikilink")）的手機。2009年2月16日發表。
 
 ## 技術規格

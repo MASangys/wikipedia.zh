@@ -1,3 +1,6 @@
+> 本文内容由[维生素D缺乏症](https://zh.wikipedia.org/wiki/维生素D缺乏症)转换而来。
+
+
 **维生素D缺乏症**是缺乏[维生素D](../Page/维生素D.md "wikilink")所表现出来的一系列病症。这种疾病可能是由于人体摄入的维生素D不足，并且没有接受足够多的阳光照射（准确地说是阳光中的[中波紫外线B光](../Page/紫外线.md "wikilink")）导致的，也有可能是体内发生的紊乱导致维生素D的吸收受限导致维生素D缺乏症，还有可能是因为[肝脏](https://zh.wikipedia.org/wiki/肝脏 "wikilink")、[肾脏或者遗传因素导致的紊乱使得维生素D转换成为具有活性的代谢产物的过程受损](https://zh.wikipedia.org/wiki/肾脏 "wikilink")\[1\]。
 
 维生素D缺乏症可以引发骨矿化受损以及多种与[骨骼](../Page/骨骼.md "wikilink")相关的疾病，儿童可能会出现[佝偻病](https://zh.wikipedia.org/wiki/佝偻病 "wikilink")，成人可能会出现[骨软化和](https://zh.wikipedia.org/wiki/骨软化 "wikilink")[骨质疏松症](https://zh.wikipedia.org/wiki/骨质疏松症 "wikilink")\[2\]。

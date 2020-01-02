@@ -1,3 +1,6 @@
+> 本文内容由[HBO](https://zh.wikipedia.org/wiki/HBO)转换而来。
+
+
 **HBO**（的[縮寫](../Page/縮寫.md "wikilink")，直譯為**家庭票房**）是一個[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[付费](../Page/付费电视.md "wikilink")[有线和](../Page/有线电视.md "wikilink")[衛星](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[聯播網](../Page/電視聯播網.md "wikilink")，為[華納媒體](../Page/華納媒體.md "wikilink")公司所擁有，由Home Box Office公司負責營運。HBO主要播出曾在戲院放映的[電影和獨立製播的](https://zh.wikipedia.org/wiki/電影 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，此外也有[為電視而製作的電影](../Page/電視電影.md "wikilink")、[紀錄片](../Page/紀錄片.md "wikilink")、[拳擊賽](https://zh.wikipedia.org/wiki/拳擊 "wikilink")，以及偶爾播出的喜劇脫口秀和演唱會特別節目。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[中国图书馆分类法 \(Z\)](https://zh.wikipedia.org/wiki/中国图书馆分类法_\(Z\))转换而来。
+
+
 ## 综合性图书
 
   - Z1 [丛书](https://zh.wikipedia.org/wiki/丛书 "wikilink")

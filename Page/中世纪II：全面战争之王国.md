@@ -1,3 +1,6 @@
+> 本文内容由[中世纪II：全面战争之王国](https://zh.wikipedia.org/wiki/中世纪II：全面战争之王国)转换而来。
+
+
 是[中世纪II：全面战争的資料片](https://zh.wikipedia.org/wiki/中世纪II：全面战争 "wikilink")。於2007年8月28日發行並新增了四個分別集中在不同地區的戰役。
 
 ## 戰役

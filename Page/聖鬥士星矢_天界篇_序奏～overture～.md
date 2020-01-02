@@ -1,3 +1,6 @@
+> 本文内容由[聖鬥士星矢 天界篇 序奏～overture～](https://zh.wikipedia.org/wiki/聖鬥士星矢_天界篇_序奏～overture～)转换而来。
+
+
 《**聖鬥士星矢 天界篇 序奏～overture～**》是於2004年2月14日上映的《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》系列的第5部劇場版作品。
 
 原本是作為原作冥王哈帝斯篇的正式續篇來進行製作，和前4部劇場版作品不同。

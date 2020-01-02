@@ -1,3 +1,6 @@
+> 本文内容由[JR北海道Kiha 261系柴油動車組](https://zh.wikipedia.org/wiki/JR北海道Kiha_261系柴油動車組)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

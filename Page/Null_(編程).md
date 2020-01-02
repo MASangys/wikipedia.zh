@@ -1,3 +1,6 @@
+> 本文内容由[Null \(編程\)](https://zh.wikipedia.org/wiki/Null_\(編程\))转换而来。
+
+
 **Null** 在電腦程式設計上有多種含義：
 
 ## Null 指標 或是 Null 引用

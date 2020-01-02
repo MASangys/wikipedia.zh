@@ -1,3 +1,6 @@
+> 本文内容由[Komica](https://zh.wikipedia.org/wiki/Komica)转换而来。
+
+
 **Komica**，又稱為**K島**或戲稱為**糟糕島**，是由網名「1883氏」創辦的一個[2chan風格](https://zh.wikipedia.org/wiki/双叶频道 "wikilink")[貼圖討論版集合](https://zh.wikipedia.org/wiki/論壇 "wikilink")。網站架設於[DreamHost](https://zh.wikipedia.org/wiki/DreamHost "wikilink")，大部分被認為是[台灣網站](https://zh.wikipedia.org/wiki/台灣 "wikilink")，有個別版面由[香港](../Page/香港.md "wikilink")人開辦維護\[1\]，是**[雙貓聯合站](https://zh.wikipedia.org/wiki/雙貓聯合站 "wikilink")**的參與網站之一。
 
 網站劃分爲以多種話題的討論版，大多沿用源自[2chan的貼圖版程式Futaba或其衍生物](https://zh.wikipedia.org/wiki/2chan "wikilink")。與其他貼圖版網站類似，此站以高匿名度和[言論自由](../Page/言論自由.md "wikilink")爲主要特色，討論環境非常寬鬆。各版面雖制定了不同的發言規則，但是貫徹執行均由版主和管理員自由裁定\[2\]網站秩序通常由用戶默契和自律維持，但是濫用匿名機制大肆破壞規則發表不當言論的現象也極爲常見，故部分Komica用戶懷有主張社區封閉和排外的傾向。

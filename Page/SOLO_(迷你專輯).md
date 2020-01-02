@@ -1,3 +1,6 @@
+> 本文内容由[SOLO \(迷你專輯\)](https://zh.wikipedia.org/wiki/SOLO_\(迷你專輯\))转换而来。
+
+
 以下時間以（[韓國時間](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")）[UTC+9為準](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")
 
 **《SOLO》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")主唱[許永生](../Page/許永生.md "wikilink")於2012年5月22日推出的第二張個人迷你專輯。2012年5月11日韓國yes24線上商店開始預購，5月18日凌晨0時公開預告[MV](../Page/音樂錄影帶.md "wikilink")\[1\]，5月22日凌晨0時線上公開音源和完整[MV](../Page/音樂錄影帶.md "wikilink")\[2\]及5月23日實體發售，6月1日從[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")－[音樂銀行中演出正式展開一連串的宣傳行程](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。6月17日於[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")－[人氣歌謠演出後結束宣傳](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。

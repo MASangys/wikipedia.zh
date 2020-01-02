@@ -1,3 +1,6 @@
+> 本文内容由[81diver](https://zh.wikipedia.org/wiki/81diver)转换而来。
+
+
 《**81diver**》（****）是[日本](../Page/日本.md "wikilink")漫畫家[柴田ヨクサル的作品](https://zh.wikipedia.org/wiki/柴田ヨクサル "wikilink")，是[集英社](../Page/集英社.md "wikilink")《[週刊Young Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所連載的第41部漫畫作品，以[日本將棋為主題](https://zh.wikipedia.org/wiki/日本將棋 "wikilink")。並且於2008年改編為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。將棋監修是[鈴木大介八段棋士](https://zh.wikipedia.org/wiki/鈴木大介 "wikilink")。
 
 ## 概要

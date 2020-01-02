@@ -1,3 +1,6 @@
+> 本文内容由[忍風戰隊破裏劍者VS牙吠連者](https://zh.wikipedia.org/wiki/忍風戰隊破裏劍者VS牙吠連者)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

@@ -1,3 +1,6 @@
+> 本文内容由[UNetbootin](https://zh.wikipedia.org/wiki/UNetbootin)转换而来。
+
+
 **UNetbootin**(Universal Netboot Installer)為一種跨平台工具軟體，可以用來建立[Live USB](https://zh.wikipedia.org/wiki/Live_USB "wikilink") 系統，也可以載入各種系統工具，或安裝各種Linux作業系統（[Linux发行版](../Page/Linux发行版.md "wikilink")）和其他[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，不需使用安裝[光碟](../Page/光碟.md "wikilink")（自動透過網路下載）。
 
 ## 功能

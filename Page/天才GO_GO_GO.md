@@ -1,3 +1,6 @@
+> 本文内容由[天才GO GO GO](https://zh.wikipedia.org/wiki/天才GO_GO_GO)转换而来。
+
+
 《**天才GO GO GO**》是[中華電視公司](../Page/中華電視公司.md "wikilink")（華視）的大型益智節目，2003年5月23日開播，2004年3月19日停播，製作單位是[東風文化傳播](https://zh.wikipedia.org/wiki/東風文化傳播 "wikilink")，製作人是[禚宏順](https://zh.wikipedia.org/wiki/禚宏順 "wikilink")，主持人是[吳宗憲](../Page/吳宗憲.md "wikilink")，首播時間為每星期五21時30分，第一集來賓為[許效舜](../Page/許效舜.md "wikilink")、[康康](../Page/康康.md "wikilink")、[NONO](../Page/NONO.md "wikilink")、[陳建州](../Page/陳建州.md "wikilink")、[黃嘉千](../Page/黃嘉千.md "wikilink")、[千田愛紗](../Page/千田愛紗.md "wikilink")與[謝麗金](https://zh.wikipedia.org/wiki/謝麗金 "wikilink")。2004年3月26日《天才GO GO GO》改版為《[天才向前衝](../Page/天才向前衝.md "wikilink")》，2006年5月12日起《天才向前衝》改版為《[天才衝衝衝](../Page/天才衝衝衝.md "wikilink")》。
 
 在本節目中，參賽者除了正值宣傳期的藝人之外，製作單位也會邀請素人參加（如學生、工程師等），每集總共邀請16位參賽者進行比賽。

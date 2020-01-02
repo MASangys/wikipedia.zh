@@ -1,3 +1,6 @@
+> 本文内容由[Compati Hero系列](https://zh.wikipedia.org/wiki/Compati_Hero系列)转换而来。
+
+
 \[1\]是日本[Banpresto公司和](https://zh.wikipedia.org/wiki/Banpresto "wikilink")[南梦宫万代](https://zh.wikipedia.org/wiki/南梦宫万代 "wikilink")（原来的[万代](https://zh.wikipedia.org/wiki/万代 "wikilink")）发行的一个[电子游戏](../Page/电子游戏.md "wikilink")系列，首作在1990年发行，遊戲系列特色，是集合了[奥特曼系列](https://zh.wikipedia.org/wiki/奥特曼系列 "wikilink")，[假面騎士系列](../Page/假面騎士系列.md "wikilink")，[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")和[铁拳系列](../Page/铁拳系列.md "wikilink")角色。由於初推出後大受歡迎，翌年更推出單純以跨作品機器人為主題的戰略遊戲「超級機器人大戰」，後者更成為遊戲界其中一款長壽系列。\[2\]
 
 ## 系列作品

@@ -1,3 +1,6 @@
+> 本文内容由[DEViANCE](https://zh.wikipedia.org/wiki/DEViANCE)转换而来。
+
+
 [DEViANCE-NFO.png](https://zh.wikipedia.org/wiki/File:DEViANCE-NFO.png "fig:DEViANCE-NFO.png") by Strick9.
 Source: DEV-U4DV[.NFO](../Page/.nfo.md "wikilink")，screenshot from pftp viewing deviance.nfo\]\] [DEViANCE_2005_cracktro.png](https://zh.wikipedia.org/wiki/File:DEViANCE_2005_cracktro.png "fig:DEViANCE_2005_cracktro.png") loader by alpha one and h2o (2005).\]\] [Deviance_intro.PNG](https://zh.wikipedia.org/wiki/File:Deviance_intro.PNG "fig:Deviance_intro.PNG") of Call of Duty 2.\]\] **DEViANCE**是一个地下游戏破解组织，成立于1999年1月1日。在[Topsite上发布破解和完整的PC游戏](https://zh.wikipedia.org/wiki/Topsite "wikilink")[ISOs](https://zh.wikipedia.org/wiki/ISO镜像 "wikilink")。组织的成立者是CyberNaj。
 

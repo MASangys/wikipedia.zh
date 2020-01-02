@@ -1,3 +1,6 @@
+> 本文内容由[MADHOUSE](https://zh.wikipedia.org/wiki/MADHOUSE)转换而来。
+
+
 **MADHOUSE**（）是日本一家動畫製作公司，主要業務為動畫相關企畫、製作及著作權管理。
 
 ## 簡介

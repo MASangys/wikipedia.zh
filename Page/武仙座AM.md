@@ -1,3 +1,6 @@
+> 本文内容由[武仙座AM](https://zh.wikipedia.org/wiki/武仙座AM)转换而来。
+
+
 '''武仙座AM *'是位於[武仙座](../Page/武仙座.md "wikilink")的一顆[紅矮星](../Page/紅矮星.md "wikilink")[變星](../Page/變星.md "wikilink")。這顆恆星與[大熊座AN](../Page/大熊座AN.md "wikilink")，是被稱為[高偏振星的](https://zh.wikipedia.org/wiki/高偏振星 "wikilink")[激變變星](../Page/激變變星.md "wikilink")，或*武仙座AM型變星''的原型。
 
 ## 歷史

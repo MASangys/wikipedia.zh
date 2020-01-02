@@ -1,3 +1,6 @@
+> 本文内容由[Sexy, Free \& Single](https://zh.wikipedia.org/wiki/Sexy,_Free_\&_Single)转换而来。
+
+
 **《Sexy, Free & Single》**是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的第六張錄音室專輯](../Page/Super_Junior.md "wikilink")，於2012年7月4日發行。統計至2012年12月，此張專輯在韓國的各版本銷量總和超過48萬張，是韓國樂壇2012年度的銷量第一。\[1\]這張專輯距該組合上張專輯《Mr.Simple》有11個月之久。
 
 ## 發行與宣傳

@@ -1,3 +1,6 @@
+> 本文内容由[無雙OROCHI 蛇魔再臨](https://zh.wikipedia.org/wiki/無雙OROCHI_蛇魔再臨)转换而来。
+
+
 是《[無雙OROCHI](https://zh.wikipedia.org/wiki/無雙蛇魔 "wikilink")》的續集，此作品在2008年4月3日在日本開始發售PS2版，而[北美版則在](https://zh.wikipedia.org/wiki/北美 "wikilink")2008年9月23日發售，[歐洲版則在](https://zh.wikipedia.org/wiki/歐洲 "wikilink")2008年9月19日發售。此作品也正式宣布在2008年9月4日在日本發售[Xbox 360版](../Page/Xbox_360.md "wikilink")\[1\]，而歐洲版和北美版則隨同PS2版一起發售。[PSP版則宣布在](https://zh.wikipedia.org/wiki/Playstation_Portable "wikilink")2008年11月27日正式發售\[2\]，之後又推出了含有[無雙OROCHI Z部分內容的增值中文版](https://zh.wikipedia.org/wiki/無雙OROCHI_Z "wikilink")。 2011年，推出續作《[無雙OROCHI 2](../Page/無雙OROCHI_2.md "wikilink")》。
 
 ## 角色

@@ -1,3 +1,6 @@
+> 本文内容由[Listen To Eason Chan](https://zh.wikipedia.org/wiki/Listen_To_Eason_Chan)转换而来。
+
+
 [2007ListenToEasonChanWhite.jpg](https://zh.wikipedia.org/wiki/File:2007ListenToEasonChanWhite.jpg "fig:2007ListenToEasonChanWhite.jpg")
 
 《**Listen To Eason Chan**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2007年10月18日正式發行，內地及台灣版本專輯名為《**聽陳奕迅吧**》。

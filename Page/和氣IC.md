@@ -1,3 +1,6 @@
+> 本文内容由[和氣IC](https://zh.wikipedia.org/wiki/和氣IC)转换而来。
+
+
 **和氣IC**（平假名：わけインターチェンジ）是位於[岡山縣](../Page/岡山縣.md "wikilink")[和氣郡](../Page/和氣郡.md "wikilink")[和氣町](../Page/和氣町.md "wikilink")的[山陽自動車道](../Page/山陽自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

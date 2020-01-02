@@ -1,3 +1,6 @@
+> 本文内容由[KML](https://zh.wikipedia.org/wiki/KML)转换而来。
+
+
 **KML**全称：Keyhole Markup Language，是基于[XML](../Page/XML.md "wikilink")（eXtensible Markup Language,可擴展標記語言）语法标准的一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")（markup language），采用标记结构，含有嵌套的元素和属性。由[Google](../Page/Google.md "wikilink")（[谷歌](http://www.google.com)）旗下的Keyhole公司发展并维护，用来表达地理标记。根据KML语言编写的文件则为KML文件，格式同样采用的XML文件格式，应用于Google地球相关软件中（Google Earth，Google Map, Google Maps for mobile...），用于显示地理数据（包括點、線、面、多邊形，多面體以及模型...）。而现在很多GIS相关企业也追随Google开始采用此种格式进行地理数据的交換。
 
 ## 在Google Earth可以完整呈現其功能

@@ -1,3 +1,6 @@
+> 本文内容由[Animage](https://zh.wikipedia.org/wiki/Animage)转换而来。
+
+
 為1978年5月26日由[德間書店](../Page/德間書店.md "wikilink")發行、並為[日本](../Page/日本.md "wikilink")第一個專門[動畫雜誌](../Page/動畫雜誌.md "wikilink")。\[1\]多以「AM」或「」來簡稱。
 
 ## 概要

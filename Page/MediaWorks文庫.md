@@ -1,3 +1,6 @@
+> 本文内容由[MediaWorks文庫](https://zh.wikipedia.org/wiki/MediaWorks文庫)转换而来。
+
+
 **MediaWorks文庫**（）是日本出版社[MediaWorks](../Page/MediaWorks.md "wikilink")（已併入[角川公司](https://zh.wikipedia.org/wiki/角川公司 "wikilink")）於2009年12月16日創刊的[文庫](../Page/文庫.md "wikilink")系列，在每月25日會出版新書。
 
 ## 概要

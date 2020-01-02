@@ -1,3 +1,6 @@
+> 本文内容由[G弦上的魔王](https://zh.wikipedia.org/wiki/G弦上的魔王)转换而来。
+
+
 是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com 2008年上半年統計中是第三名。
 
 ## 故事簡介

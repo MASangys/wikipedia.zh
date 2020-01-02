@@ -1,3 +1,6 @@
+> 本文内容由[Apache Axis2](https://zh.wikipedia.org/wiki/Apache_Axis2)转换而来。
+
+
 **Apache Axis2**是一個[Web服務的核心支援引擎](https://zh.wikipedia.org/wiki/Web服務 "wikilink")。AXIS2對舊有的AXIS重新設計及重寫，並提供兩種語言[Java](../Page/Java.md "wikilink")及[C的開發版本](https://zh.wikipedia.org/wiki/C語言 "wikilink")。
 
 事實上AXIS2 不只為WEB應用程式提供Web服務的介面，而且它也可以作為一個單獨的伺服器看待，而且很簡單就能跟[Apache Tomcat整合](../Page/Apache_Tomcat.md "wikilink")，目前AXIS2的最新版本是1.6.2。

@@ -1,3 +1,6 @@
+> 本文内容由[BMW](https://zh.wikipedia.org/wiki/BMW)转换而来。
+
+
 **巴伐利亞發動機製造廠股份有限公司**（，，缩写为**B-{M}-W**，在[英語系國家經常被暱稱為Bimmer](https://zh.wikipedia.org/wiki/英語系國家 "wikilink")，在[中國大陸地区称为](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")**宝-{}-马**，在[港澳地区以及](https://zh.wikipedia.org/wiki/港澳 "wikilink")[台灣一般使用原称缩写B](https://zh.wikipedia.org/wiki/台灣 "wikilink")-{M}-W ）是[德國一家](https://zh.wikipedia.org/wiki/德國 "wikilink")[跨國](../Page/跨國公司.md "wikilink")[豪华汽車](https://zh.wikipedia.org/wiki/豪华汽車 "wikilink")、[機車和](../Page/摩托車.md "wikilink")[引擎製造商](https://zh.wikipedia.org/wiki/引擎 "wikilink")。總部位於[德国](../Page/德国.md "wikilink")[巴伐利亞州的](https://zh.wikipedia.org/wiki/巴伐利亞州 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")。
 
 宝马集團除了以“B-{M}-W”作為品牌[商標銷售各式汽车与摩托车外](https://zh.wikipedia.org/wiki/商標 "wikilink")，也收購過多家外国汽车公司。目前BMW集团是B-{M}-W、[MINI](https://zh.wikipedia.org/wiki/宝马迷你 "wikilink")、[Rolls-Royce三個品牌的拥有者](https://zh.wikipedia.org/wiki/勞斯萊斯 "wikilink")。2012年宝马集团全品牌共生产1,845,186辆汽车和117,109辆摩托车。宝马經常与[奥迪](../Page/奥迪.md "wikilink")、[奔驰一同並列為德国三大豪华汽车制造商](https://zh.wikipedia.org/wiki/奔驰 "wikilink")。\[1\]\[2\]它标志的设计取材于[德国](../Page/德国.md "wikilink")[巴伐利亚州的州徽](https://zh.wikipedia.org/wiki/巴伐利亚州 "wikilink")。\[3\]

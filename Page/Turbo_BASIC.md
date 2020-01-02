@@ -1,3 +1,6 @@
+> 本文内容由[Turbo BASIC](https://zh.wikipedia.org/wiki/Turbo_BASIC)转换而来。
+
+
 **Turbo BASIC**是一個[BASIC](../Page/BASIC.md "wikilink") [編譯器](../Page/編譯器.md "wikilink")與編輯器，最初由Robert 'Bob' Zale所開發，後來被[Borland](../Page/Borland.md "wikilink")買下。當Borland決定不再販售之後，Zale從Borland手中買回它，並改名為[PowerBASIC](../Page/PowerBASIC.md "wikilink")並創立PowerBASIC公司，以繼續支援與研發。今天仍然存在市面上。
 
 這個軟體在1987-1988年期間，和Borland的[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink") 4.0, [Turbo C](https://zh.wikipedia.org/wiki/Turbo_C "wikilink") 1.0/1.5，與[Turbo Prolog](https://zh.wikipedia.org/wiki/Turbo_Prolog "wikilink") 1.1相似，以"black screen"為特徵。到了1989年推出Turbo C 2.0, Turbo C++ 1.1，……等時，Borland便不再沒有採取它註冊商標式的"blue screen" [IDE](../Page/集成开发环境.md "wikilink")。在這時，Turbo Basic與Turbo Prolog不再販賣。

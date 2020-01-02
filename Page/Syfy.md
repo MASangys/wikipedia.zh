@@ -1,3 +1,6 @@
+> 本文内容由[Syfy](https://zh.wikipedia.org/wiki/Syfy)转换而来。
+
+
 **Syfy**（原名**Sci-Fi 頻道**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家廣播公司(NBC)的一個](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")[有線電視頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，於1992年9月24日開播。Syfy專門播放科幻、奇幻、驚悚、超自然等電視影集，製作播放的著名影集包括《[異形庇護所](../Page/異形庇護所.md "wikilink")》（*Sanctuary*）、《[第十三號倉庫](https://zh.wikipedia.org/wiki/第十三號倉庫 "wikilink")》（*Warehouse 13*）、2004年版本的《[太空堡壘卡拉狄加](https://zh.wikipedia.org/wiki/太空堡壘卡拉狄加 "wikilink")》（*Battlestar Galactica*）、《[星際之門](https://zh.wikipedia.org/wiki/星際之門 "wikilink")》（*Stargate*）系列影集等，亦有播出[世界摔角娛樂所屬節目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[SmackDown](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")。Syfy一名於2009年7月7日開始採用。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[絕對SuperStar](https://zh.wikipedia.org/wiki/絕對SuperStar)转换而来。
+
+
 《**絕對**》是[新傳媒私人有限公司製作的](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")[新加坡](../Page/新加坡.md "wikilink")電視歌唱選秀節目，從[2005年6月](../Page/2005年6月.md "wikilink")開始播出。每一屆（季）各與不同的[唱片公司](../Page/唱片公司.md "wikilink")合作，每屆比賽的時間長度約四個月。每屆冠軍可以得到一張[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[合約](https://zh.wikipedia.org/wiki/合約 "wikilink")。
 
 第一屆在2005年9月1日結束，第二屆在2007年2月4日結束。

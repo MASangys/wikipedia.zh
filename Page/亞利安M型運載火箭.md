@@ -1,3 +1,6 @@
+> 本文内容由[亞利安M型運載火箭](https://zh.wikipedia.org/wiki/亞利安M型運載火箭)转换而来。
+
+
 **亞利安M型運載火箭**（Ariane M），是一台臆測的[運載火箭](https://zh.wikipedia.org/wiki/運載火箭 "wikilink")，也是一台可飛行於[低地球軌道及](https://zh.wikipedia.org/wiki/低地球軌道 "wikilink")[地球同步軌道的](https://zh.wikipedia.org/wiki/地球同步軌道 "wikilink")[運載火箭](https://zh.wikipedia.org/wiki/運載火箭 "wikilink")，由[歐洲太空總署研製](https://zh.wikipedia.org/wiki/歐洲太空總署 "wikilink")，為不可重複使用的[運載火箭](https://zh.wikipedia.org/wiki/運載火箭 "wikilink")。
 
 ## 歷史

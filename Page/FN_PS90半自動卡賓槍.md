@@ -1,3 +1,6 @@
+> 本文内容由[FN PS90半自動卡賓槍](https://zh.wikipedia.org/wiki/FN_PS90半自動卡賓槍)转换而来。
+
+
 **PS90**是由[Fabrique Nationale以](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[FN P90為基礎為美國民用市場開發](../Page/FN_P90衝鋒槍.md "wikilink")，於2005年尾上市的[半自動卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")。
 
 ## 特性

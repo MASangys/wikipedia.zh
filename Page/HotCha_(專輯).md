@@ -1,3 +1,6 @@
+> 本文内容由[HotCha \(專輯\)](https://zh.wikipedia.org/wiki/HotCha_\(專輯\))转换而来。
+
+
 **HotCha HotCha**是[香港](../Page/香港.md "wikilink")三人女子跳舞歌唱組合[HotCha](../Page/HotCha.md "wikilink")的首張專輯，預佈會於2007年10月9日舉行，而專輯則於2007年10月17日發行。由於「HotCha」一詞於外國有「熱愛」的意思，因此這張專輯的名稱可解釋為「熱愛HotCha」。
 
 這張專輯的主打歌為《Vanilla》、《不要防曬》及《你的味道》，而隨碟附送的[DVD收錄了三首新歌](https://zh.wikipedia.org/wiki/DVD "wikilink")[MV](https://zh.wikipedia.org/wiki/MV "wikilink")、《你的味道劇場版》及10分鐘足本版《馬來西亞曬曬陽光之旅》。

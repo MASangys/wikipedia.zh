@@ -1,3 +1,6 @@
+> 本文内容由[Your eyes only ～我曖昧的輪廓～](https://zh.wikipedia.org/wiki/Your_eyes_only_～我曖昧的輪廓～)转换而来。
+
+
 《**Your eyes only〜我曖昧的輪廓〜**》（）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年9月27日於日本發行。[Oricon](../Page/Oricon.md "wikilink")最高排行第4、初動銷量3.4萬張、累計25.0萬張。
 
 ## 解說

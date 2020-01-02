@@ -1,3 +1,6 @@
+> 本文内容由[Kiss×sis](https://zh.wikipedia.org/wiki/Kiss×sis)转换而来。
+
+
 《**Kiss×sis**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[Ditama某](../Page/Ditama某.md "wikilink")所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《月刊Young Magazine》連載。2010年4月，由AT-X製作的電視動畫版開始播放，OAD則是從「Kiss×sis」漫畫第3卷限定版開始隨書附贈。
 
 ## 概要

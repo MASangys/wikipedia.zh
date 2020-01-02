@@ -1,3 +1,6 @@
+> 本文内容由[KylieX2008](https://zh.wikipedia.org/wiki/KylieX2008)转换而来。
+
+
 **KylieX2008**（或被稱為 X2008），是[澳大利亚](../Page/澳大利亚.md "wikilink")[流行歌手](https://zh.wikipedia.org/wiki/流行 "wikilink")[OBE](https://zh.wikipedia.org/wiki/OBE "wikilink")[凯莉·米洛](../Page/凯莉·米洛.md "wikilink")的第十次巡演，以宣传她2007年年底发行的专辑《X》。最初宣布僅於歐洲巡迴的演唱會，在澳洲，亚洲和美洲舉辦巡演的傳聞便於各國際媒體間出現。在[欧洲](../Page/欧洲.md "wikilink")巡迴演出結束後，凯莉宣布將繼續在[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[亞洲以及](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[南美洲](../Page/南美洲.md "wikilink")展開巡迴。2009年，凯莉在一些音乐节表演则将这场巡演继续下去。
 
 在官方網站宣布[For You, For Me巡演的同时](https://zh.wikipedia.org/wiki/For_You,_For_Me "wikilink")，也宣布了X2008在票箱收入約賺進了7千萬美元。

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Gene](https://zh.wikipedia.org/wiki/HTC_Gene)转换而来。
+
+
 **HTC Gene**，原廠型號**HTC P3400，HTC P3400i，HTC P3401**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，採用時脈為200MHz的德州儀器OMAP850處理器，搭載微軟[Windows Mobile 5](https://zh.wikipedia.org/wiki/Windows_Mobile_5 "wikilink")（P3400）和[Windows Mobile 6](https://zh.wikipedia.org/wiki/Windows_Mobile_6 "wikilink")（P3400i），以及2.8英寸的解析度為240×320像素的65K色彩TFT電阻式觸控屏，具有200萬畫素攝像能力的後置攝像頭。面向低端，簡約設計，2007年3月於歐洲首度發表，後陸續推出升級版。還有以[多普達品牌販售的Dopod](https://zh.wikipedia.org/wiki/多普達 "wikilink") D600，Dopod D600 action version（活力版）。
 
 ## 技術規格

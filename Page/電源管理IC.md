@@ -1,3 +1,6 @@
+> 本文内容由[電源管理IC](https://zh.wikipedia.org/wiki/電源管理IC)转换而来。
+
+
 **PMIC**（Power Management IC）又稱**電源管理IC**，是一種特定用途的[集成電路](https://zh.wikipedia.org/wiki/集成電路 "wikilink")，其功能是為主系統作管理電源等工作。
 
 PMIC常用於以電池作為電源的裝置，例如[行動電話或](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")。由於這類裝置一般有多於一個電源(例如電池及USB電源)，系統又需要多個不同電壓的電源，加上要控制電池的充放電，以傳統方式滿足這樣的需求會佔用不少空間，同時增加產品開發時間，因此造就了PMIC的出現。

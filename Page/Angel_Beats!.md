@@ -1,3 +1,6 @@
+> 本文内容由[Angel Beats!](https://zh.wikipedia.org/wiki/Angel_Beats!)转换而来。
+
+
 是一部由遊戲製作公司[Key與](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")聯合製作的[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，除了共13話[電視動畫外還有相關企畫案](../Page/日本電視動畫.md "wikilink")。作品由曾寫過數款遊戲劇本的作家[麻枝准](../Page/麻枝准.md "wikilink")發想，分別由負責動畫音樂部分，以及[Na-Ga](../Page/Na-Ga.md "wikilink")負責人物角色的原畫製作。其中音樂和原畫皆是由Key公司負責，而負責原作創作的麻枝准與人物設計的Na-Ga亦都是Key公司的員工。這次企畫案為Key首次嘗試直接進行動畫創作，在這之前Key主要推出原創的電腦遊戲、再授權其他動畫公司來製作系列動畫，這包括有先前的《[Kanon](../Page/Kanon.md "wikilink")》、《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》以及《[CLANNAD](../Page/CLANNAD.md "wikilink")》等著名的[視覺小說作品](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。
 
 動畫在2010年4月2日到6月25日期間首次播出，該動畫[OVA版本則在同年](../Page/原創動畫錄影帶.md "wikilink")12月22日發佈。Key推出動畫的同時，也聯合[ASCII Media Works以及](../Page/ASCII_Media_Works.md "wikilink")《[電擊G's magazine](../Page/電擊G's_magazine.md "wikilink")》展開[跨媒體製作](../Page/跨媒體製作.md "wikilink")。其中《Angel Beats\!》總共在《電擊G's magazine》和《》上連載3部同主題[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，包括2部四格漫畫，以及連環漫畫作品《Angel Beats\! -Heaven's Door》。在2009年11月和2010年5月時，麻枝准則與插畫家合作在《電擊G's magazine》雜誌上推出短篇小說《Angel Beats\! -Track ZERO-》。而為了推廣《Angel Beats\!》，Key也推出兩個不同呈現方式的[網路電台節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")，來播放相關內容與消息。2015年6月26日推出6卷系列第1卷可以在[個人電腦平臺上遊玩的遊戲](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。

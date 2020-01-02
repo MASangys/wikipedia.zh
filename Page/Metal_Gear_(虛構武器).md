@@ -1,3 +1,6 @@
+> 本文内容由[Metal Gear \(虛構武器\)](https://zh.wikipedia.org/wiki/Metal_Gear_\(虛構武器\))转换而来。
+
+
 **Metal Gear**是[潛龍諜影系列](../Page/潛龍諜影系列.md "wikilink")中虛構的核搭載二足歩行型戦車的総称。
 
 ## 主系列

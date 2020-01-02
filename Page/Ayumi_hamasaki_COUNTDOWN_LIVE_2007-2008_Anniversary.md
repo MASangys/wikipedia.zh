@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COUNTDOWN LIVE 2007-2008 Anniversary](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COUNTDOWN_LIVE_2007-2008_Anniversary)转换而来。
+
+
 《**ayumi hamasaki COUNTDOWN LIVE 2007-2008 Anniversary**》（濱崎步 2007-2008 跨年演唱會 Anniversary）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年12月30日、31日在國立代代木競技場第一體育館舉行跨年演唱會，2008年6月18日發行DVD。
 
 ## 說明

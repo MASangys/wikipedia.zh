@@ -1,3 +1,6 @@
+> 本文内容由[NX \(软件\)](https://zh.wikipedia.org/wiki/NX_\(软件\))转换而来。
+
+
 **NX**，又稱為**NX Unigraphics**，或簡稱為**U-G**，是[西门子PLM软件开发的一款高端的](https://zh.wikipedia.org/wiki/西门子PLM软件 "wikilink")[CAD](../Page/计算机辅助设计.md "wikilink")/[CAE](https://zh.wikipedia.org/wiki/计算机辅助工程 "wikilink")/[CAM软件](../Page/计算机辅助制造.md "wikilink")。
 
 ## 历史

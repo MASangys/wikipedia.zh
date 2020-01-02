@@ -1,3 +1,6 @@
+> 本文内容由[ASCII艺术](https://zh.wikipedia.org/wiki/ASCII艺术)转换而来。
+
+
 **ASCII艺术**，又名「文字圖」、「字符畫」、「文字畫」，这种主要依靠[电脑表现的艺术形式是指使用电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")[字符](../Page/字符.md "wikilink")（主要是[ASCII](../Page/ASCII.md "wikilink")）来表达[图片](https://zh.wikipedia.org/wiki/图片 "wikilink")，最早于1982年[美国](../Page/美国.md "wikilink")[卡内基梅隆大学出现](https://zh.wikipedia.org/wiki/卡内基梅隆大学 "wikilink")，[互联网](../Page/互联网.md "wikilink")刚出现时在[英语世界](../Page/英语世界.md "wikilink")的社交网（[Usenet](../Page/Usenet.md "wikilink")、[BITNET](https://zh.wikipedia.org/wiki/BITNET "wikilink")、[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")、[FidoNet](../Page/FidoNet.md "wikilink")、[電子布告欄系統BBS](https://zh.wikipedia.org/wiki/電子布告欄系統 "wikilink")）上時常利用到的[表情符號](https://zh.wikipedia.org/wiki/表情符號 "wikilink")。它可以由[文本编辑器](../Page/文本编辑器.md "wikilink")生成。很多ASCII艺术要求使用定寬字体（固定宽度的字体，例如在传统[打字机上使用的字体](https://zh.wikipedia.org/wiki/打字机 "wikilink")）来显示。
 
 ASCII艺术用于当文字比图像更稳定和更快显示的场合。包括打字机、[电传打字机](https://zh.wikipedia.org/wiki/电传打字机 "wikilink")、没有图形的[终端](https://zh.wikipedia.org/wiki/终端 "wikilink")，早期的电脑网络，[电子邮件](../Page/电子邮件.md "wikilink")和[Usenet](../Page/Usenet.md "wikilink")的[新闻](../Page/新闻.md "wikilink")信息中。

@@ -1,3 +1,6 @@
+> 本文内容由[永中Office](https://zh.wikipedia.org/wiki/永中Office)转换而来。
+
+
 **永中Office** 是由[永中科技公司運用](https://zh.wikipedia.org/wiki/永中科技 "wikilink")[JAVA](https://zh.wikipedia.org/wiki/JAVA "wikilink") 程式語言开发\[1\]的一个可以在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink") 等多個不同操作系统上運行的办公软件，与微软公司的[Microsoft Office](../Page/Microsoft_Office.md "wikilink") 相似，包含了文字、表格和幻灯片的制作处理程序。与其他办公软件套装不同的是，永中Office 可以将所有的处理功能整合到一个程序中，而不是分列为不同的处理程序\[2\]。
 
 ## 历史

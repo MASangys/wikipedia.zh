@@ -1,3 +1,6 @@
+> 本文内容由[PGM-11紅石飛彈](https://zh.wikipedia.org/wiki/PGM-11紅石飛彈)转换而来。
+
+
 **PGM-11紅石**（Redstone）飛彈是[美國陸軍第一種](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[中程彈道飛彈](https://zh.wikipedia.org/wiki/中程彈道飛彈 "wikilink")，也是美國第一種以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[V2火箭技術為核心發展的](https://zh.wikipedia.org/wiki/V2火箭 "wikilink")[液態火箭](https://zh.wikipedia.org/wiki/液態火箭 "wikilink")。除了軍事上的用途以外，紅石飛彈同時也在[美國太空計畫中提供重大貢獻](https://zh.wikipedia.org/wiki/美國 "wikilink")，包括發射美國第一顆[人造衛星](../Page/人造衛星.md "wikilink")以及將第一位[太空人送上](https://zh.wikipedia.org/wiki/太空人 "wikilink")[地球軌道](https://zh.wikipedia.org/wiki/地球軌道 "wikilink")。
 
 紅石导弹服役期間只在1958年到1964年7月. 之後有些改裝成[測試火箭](https://zh.wikipedia.org/wiki/測試火箭 "wikilink")，稱為[斯巴達火箭](https://zh.wikipedia.org/wiki/斯巴達 "wikilink")。當在軍中服役時紅石有小名“陸軍快馬”；改成測試火箭時小名叫“可靠老爹”。

@@ -1,3 +1,6 @@
+> 本文内容由[Happy Together \(SBS\)](https://zh.wikipedia.org/wiki/Happy_Together_\(SBS\))转换而来。
+
+
 《**Happy Together**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台於](../Page/SBS_\(韓國\).md "wikilink")1999年播放的一套[電視劇](../Page/韓國電視劇.md "wikilink")，講述五個兄弟姊妹的故事。平均收視有35%，最高收視接近40%。
 
 ## 出演陣容

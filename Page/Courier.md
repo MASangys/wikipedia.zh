@@ -1,3 +1,6 @@
+> 本文内容由[Courier](https://zh.wikipedia.org/wiki/Courier)转换而来。
+
+
 **Courier**是一個[等寬的](https://zh.wikipedia.org/wiki/等寬字體 "wikilink")[粗襯線字體](https://zh.wikipedia.org/wiki/粗襯線體 "wikilink")，主要是依據[打字機所打印出來的字形來設計](https://zh.wikipedia.org/wiki/打字機 "wikilink")，於1955年由Howard "Bud" Kettler設計完成。原來的Courier字體是[IBM](../Page/IBM.md "wikilink")公司在1950年代設計給打印機使用的字體，但是並未維護他們的專利，使得這個字型成為整個打字機製造業的標準。
 
 在現今的電子時代，此字體也常被使用，因為其等寬的特性可以輕易地對齊[欄位的左右邊界](https://zh.wikipedia.org/wiki/欄 "wikilink")，也成為[腳本和](https://zh.wikipedia.org/wiki/腳本 "wikilink")[程式設計中](https://zh.wikipedia.org/wiki/程式設計 "wikilink")[原始碼的常用字體](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。

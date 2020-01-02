@@ -1,3 +1,6 @@
+> 本文内容由[黑塔VII：黑暗之塔](https://zh.wikipedia.org/wiki/黑塔VII：黑暗之塔)转换而来。
+
+
 《**業之門**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬金所寫的長篇](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第七集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")，即全系列最後一集。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[皇冠出版社出版](https://zh.wikipedia.org/wiki/皇冠出版社 "wikilink")，內地簡體版則由[人民文學出版社於](https://zh.wikipedia.org/wiki/人民文學出版社 "wikilink")2008年10月出版，英文原版早於2004年6月出版，當中相距近四年。
 
 這本小說於2005年獲得英倫奇幻獎。

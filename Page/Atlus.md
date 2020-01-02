@@ -1,3 +1,6 @@
+> 本文内容由[Atlus](https://zh.wikipedia.org/wiki/Atlus)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")一家[電子遊戲開發和發行公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。
 
 Atlus著名的代表作品為[真·女神轉生系列](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")。真·女神轉生系列與[勇者鬥惡龍系列](../Page/勇者鬥惡龍系列.md "wikilink")及[最終幻想系列並列為日系](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")[RPG三大作](https://zh.wikipedia.org/wiki/RPG "wikilink")\[1\]；真·女神轉生系列初期的作品《[女神轉生](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")》是由[南夢宮代理發行於](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")[任天堂](../Page/任天堂.md "wikilink")[红白机](../Page/红白机.md "wikilink")，而之後的系列作品皆為Atlus自行發行。Atlus的代表[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")「[傑克霜精](https://zh.wikipedia.org/wiki/冰霜傑克 "wikilink")」，是源自於Atlus在[超級任天堂](../Page/超級任天堂.md "wikilink")上發行的《真·女神轉生》中所出現的一名怪物角色。

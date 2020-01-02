@@ -1,3 +1,6 @@
+> 本文内容由[Coffee or Tea](https://zh.wikipedia.org/wiki/Coffee_or_Tea)转换而来。
+
+
 《**Coffee or Tea**》是香港歌手[劉德華](../Page/劉德華.md "wikilink")於2004年8月18日發行的粤語專輯\[1\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[華碩Eee系列](https://zh.wikipedia.org/wiki/華碩Eee系列)转换而来。
+
+
 [2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg](https://zh.wikipedia.org/wiki/File:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg "fig:2008Computex_ASUS_Eee_Box_white_with_customized_skin.jpg")\]\] **華碩Eee**是[華碩](../Page/華碩.md "wikilink")開發的電腦系列，此系列以2007年推出的[Eee PC](https://zh.wikipedia.org/wiki/Eee_PC "wikilink") [netbook為開始](https://zh.wikipedia.org/wiki/netbook "wikilink")。據華碩官方網頁所指，「Eee」分別代表「易於學習、易於上手、易於工作」（）\[1\]。
 
 ## Eee PC

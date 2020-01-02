@@ -1,3 +1,6 @@
+> 本文内容由[百度Hi](https://zh.wikipedia.org/wiki/百度Hi)转换而来。
+
+
 **百度Hi**，是[百度](../Page/百度.md "wikilink")公司开发的一款[即时通讯软體](https://zh.wikipedia.org/wiki/即时通讯软體 "wikilink")。百度Hi具備文字消息、視訊、通話、文件傳輸等功能。
 
 ## 版本

@@ -1,3 +1,6 @@
+> 本文内容由[BABY ACTION](https://zh.wikipedia.org/wiki/BABY_ACTION)转换而来。
+
+
 《**BABY ACTION**》是日本女子樂隊[SCANDAL第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")3張的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2011年8月10日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 收錄曲目

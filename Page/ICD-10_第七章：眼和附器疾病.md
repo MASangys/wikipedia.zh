@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第七章：眼和附器疾病](https://zh.wikipedia.org/wiki/ICD-10_第七章：眼和附器疾病)转换而来。
+
+
 **ICD-10 第七章：眼和附器疾病**，为[世界卫生组织](../Page/世界卫生组织.md "wikilink")编写的[ICD-10](../Page/ICD-10.md "wikilink")中关于眼和附器疾病的分类。
 
 ## 受控词表

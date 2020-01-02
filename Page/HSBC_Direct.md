@@ -1,3 +1,6 @@
+> 本文内容由[HSBC Direct](https://zh.wikipedia.org/wiki/HSBC_Direct)转换而来。
+
+
 **HSBC Direct**是[滙豐集團於](https://zh.wikipedia.org/wiki/滙豐集團 "wikilink")2005年於[美國開設的銀行服務](https://zh.wikipedia.org/wiki/美國 "wikilink")，其後擴展至[加拿大](../Page/加拿大.md "wikilink")、[南韓及](https://zh.wikipedia.org/wiki/南韓 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")（2006年9月起\[1\]）。服務主要以網上／電話理財形式提供，並不提供櫃位服務。而賣點則是較低的手續費、年費，無最低結餘要求和較高存款利率。
 
 台灣HSBC Direct業務於2014年7月5日結束服務，轉成[滙豐銀行整合專戶](https://zh.wikipedia.org/wiki/匯豐銀行_\(台灣\) "wikilink")\[2\]\[3\]。

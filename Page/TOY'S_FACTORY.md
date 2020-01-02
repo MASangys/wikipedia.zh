@@ -1,3 +1,6 @@
+> 本文内容由[TOY\'S FACTORY](https://zh.wikipedia.org/wiki/TOY\'S_FACTORY)转换而来。
+
+
 **株式会社TOY'S FACTORY**（*TOY'S FACTORY Inc.*）簡稱為「**TOY'S**」（トイズ），是[日本](../Page/日本.md "wikilink")的[唱片公司](../Page/唱片公司.md "wikilink")。
 
 ## 主要所屬歌手／團體

@@ -1,3 +1,6 @@
+> 本文内容由[Go Show](https://zh.wikipedia.org/wiki/Go_Show)转换而来。
+
+
 《**Go Show**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的一檔](../Page/SBS_\(韓國\).md "wikilink")[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2012年4月6日開始，逢[韓國時間星期五晚](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")11:05播放，每集約80分鐘。
 
 節目主要為每週設定不同電影主題並模擬徵選電影主角的選秀，進行挖掘徵選者的明星魅力與個性的面試訪談。

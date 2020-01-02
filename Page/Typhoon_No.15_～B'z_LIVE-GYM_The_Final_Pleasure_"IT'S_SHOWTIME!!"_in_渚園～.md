@@ -1,3 +1,6 @@
+> 本文内容由[Typhoon No.15 ～B\'z LIVE-GYM The Final Pleasure ITS SHOWTIME!!\" in 渚園～\" --variable=\"cfmurl=Typhoon_No.15_～Bz_LIVE-GYM_The_Final_Pleasure_IT\'S_SHOWTIME!!_in_渚園～"](https://zh.wikipedia.org/wiki/)转换而来。
+
+
 《**Typhoon No.15 〜B'z LIVE-GYM The Final Pleasure "IT'S SHOWTIME\!\!" in [渚園](https://zh.wikipedia.org/wiki/渚園 "wikilink")〜**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")於2004年2月25日發售的第8個映像化的LIVE作品（[VHS](../Page/VHS.md "wikilink")是第8張，[DVD則是第](https://zh.wikipedia.org/wiki/DVD "wikilink")6張）。也是B'z最後發售VHS版本的映像作品\[1\]。
 
 ## 簡介

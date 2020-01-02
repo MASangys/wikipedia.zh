@@ -1,3 +1,6 @@
+> 本文内容由[Tripcode](https://zh.wikipedia.org/wiki/Tripcode)转换而来。
+
+
 **Tripcode**是一種[認證方式](https://zh.wikipedia.org/wiki/認證 "wikilink")，主要用於[匿名留言板或沒有用戶註冊系統的留言板](https://zh.wikipedia.org/wiki/匿名留言板 "wikilink")，如日本的[2ch](https://zh.wikipedia.org/wiki/2ch "wikilink")、[2chan](https://zh.wikipedia.org/wiki/2chan "wikilink")、美国的[4chan](../Page/4chan.md "wikilink")、台灣的[Komica](../Page/Komica.md "wikilink")等。Tripcode是通過[雜湊演算法產生的](https://zh.wikipedia.org/wiki/演算法 "wikilink")。
 
 ## 概述

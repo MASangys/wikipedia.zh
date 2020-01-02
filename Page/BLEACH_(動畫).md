@@ -1,3 +1,6 @@
+> 本文内容由[BLEACH \(動畫\)](https://zh.wikipedia.org/wiki/BLEACH_\(動畫\))转换而来。
+
+
 《**-{zh-hans:BLEACH;zh-hant:BLEACH;zh-tw:BLEACH死神;zh-hk:BLEACH漂靈;zh-mo:BLEACH漂靈;}-**》是以漫畫《[BLEACH](../Page/BLEACH.md "wikilink")》為原作，[Studio Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動畫2004年10月5日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放。台灣[八大綜合台](../Page/八大綜合台.md "wikilink")自2006年6月3日、[Animax自](../Page/Animax_Asia.md "wikilink")2009年12月16日、[中視自](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2012年4月30日、[衛視電影台](../Page/衛視電影台.md "wikilink")自2012年8月20日播放。香港[J2](../Page/J2.md "wikilink")電視台自2008年4月30日、Animax自2010年1月4日播放。
 
 ## 概要

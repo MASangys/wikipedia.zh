@@ -1,3 +1,6 @@
+> 本文内容由[Karbon](https://zh.wikipedia.org/wiki/Karbon)转换而来。
+
+
 [Karbon14_Application_Logo.svg](https://zh.wikipedia.org/wiki/File:Karbon14_Application_Logo.svg "fig:Karbon14_Application_Logo.svg")
 
 **Karbon**（原名**Karbon14**、**Kontour**、**KIllustrator**）是一個自由的矢量繪圖程序。[Calligra Suite辦公軟體套裝組成一部分](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")。具有易於使用、高度可定制、可擴展的用戶界面。對初學者可以容易探索這個向量繪圖的世界以及為成為[藝術家想要創造驚人的藝術的工具](https://zh.wikipedia.org/wiki/藝術家 "wikilink")。使得創建剪貼畫、標誌、插圖或照片向量圖像變得十分容易。

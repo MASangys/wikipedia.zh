@@ -1,3 +1,6 @@
+> 本文内容由[GObject](https://zh.wikipedia.org/wiki/GObject)转换而来。
+
+
 [GObject_example.png](https://zh.wikipedia.org/wiki/File:GObject_example.png "fig:GObject_example.png")
 
 **[GLib](../Page/GLib.md "wikilink")对象系统**，或者说**GObject**，是一个在[LGPL下发布的](https://zh.wikipedia.org/wiki/LGPL "wikilink")[自由](../Page/自由软件.md "wikilink")[软件库](https://zh.wikipedia.org/wiki/软件库 "wikilink")，它提供了一个轻便的[对象系统并支持透明的多语言互通](https://zh.wikipedia.org/wiki/对象系统 "wikilink")。GObject被设计为可以直接使用在[C程序中](https://zh.wikipedia.org/wiki/C语言 "wikilink")，也[封装至其他语言](https://zh.wikipedia.org/wiki/封装 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[NEXT LEVEL](https://zh.wikipedia.org/wiki/NEXT_LEVEL)转换而来。
+
+
 《**NEXT LEVEL**》（新起步）為日本歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第十張專輯，這張專輯在日本首次採用了USB作為儲存媒介發行，2009年3月25日與CD、CD+DVD版本同時發售；而同月27日於台灣發售，但不包含USB的版本。
 
 ## 說明

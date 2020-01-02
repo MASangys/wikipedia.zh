@@ -1,3 +1,6 @@
+> 本文内容由[Apertium](https://zh.wikipedia.org/wiki/Apertium)转换而来。
+
+
 **Apertium**是一個[機器翻譯平台](https://zh.wikipedia.org/wiki/機器翻譯 "wikilink")，由[西班牙](../Page/西班牙.md "wikilink")政府和[加泰羅尼亞自治政府撥款支持](https://zh.wikipedia.org/wiki/加泰羅尼亞 "wikilink")[阿利坎特](../Page/阿利坎特.md "wikilink")大學開發，為一個以[GNU通用公共許可證條件發行的](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。
 
 Apertium原是[OpenTrad](http://www.opentrad.org/)計劃中其中一個機器翻譯引擎，原意為關係密切的語言之間互相翻譯。不過現在Apertium已經發展到可以為分野較大的語言之間翻譯。要創立一套新的語言翻譯系統，只需將有關語言的相關資料，即字典與文法規則，放入既定的[XML](../Page/XML.md "wikilink")格式便可。

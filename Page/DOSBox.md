@@ -1,3 +1,6 @@
+> 本文内容由[DOSBox](https://zh.wikipedia.org/wiki/DOSBox)转换而来。
+
+
 **DOSBox**是一种[模擬器软件](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，主要是在[IBM PC兼容机下](../Page/IBM_PC兼容机.md "wikilink")，模拟舊時的[操作系统](../Page/操作系统.md "wikilink")：[MS-DOS](../Page/MS-DOS.md "wikilink")，支援许多IBM PC兼容的[显卡和](https://zh.wikipedia.org/wiki/显卡 "wikilink")[声卡](../Page/声卡.md "wikilink")，为原生的[DOS](../Page/DOS.md "wikilink")程序提供执行环境，使这些程序可以正常运行于大多数现代计算机上的不同操作系统。DOSBox特別是为執行早期的[電腦遊戲所设计](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，主要以[C++](../Page/C++.md "wikilink")编写，是以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")许可发布的[自由软件](../Page/自由软件.md "wikilink")。
 
 DOSBox可以运行那些在现代计算机上不能运行的[MS-DOS](../Page/MS-DOS.md "wikilink")软件，这些软件通常与现在的主流硬件和操作系统有一些不兼容。DOSBox在模拟[MS-DOS](../Page/MS-DOS.md "wikilink")同时，还增加了一些可用特性，包括虚拟磁盘、点对点网络、對模拟畫面截图和录像。有些非官方的DOSBox变体，如DOSBox SVN Daum和DOSBox SVN-lfn提供了更多的功能，比如存档、[长文件名支持等](https://zh.wikipedia.org/wiki/长文件名 "wikilink")\[1\]。有些[遊戲開發商重新發行早期的DOS遊戲時](https://zh.wikipedia.org/wiki/遊戲開發者 "wikilink")，也會使用DOSBox，使其可以在现代计算机上运行。

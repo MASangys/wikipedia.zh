@@ -1,3 +1,6 @@
+> 本文内容由[NL](https://zh.wikipedia.org/wiki/NL)转换而来。
+
+
 <big>NLL1(Northern Light L ONE)</big> . NLL1 created on 2018 May 15. The team of League of Legends in North America. Lionel is captain of NLL1 and he also creates the team. The member of NLL1 include Lionel (NL L1 Lioooooo), Martin(NL L1 Martinnnnn), Aaron(NL L1 Aaronnnnnn), Andy(NL L1 Andyxxxxxx), Michael(NL L1 Zhonggeeee), Eric(NL L1 Ericccccc), Rico(NL L1 MoM HunteR), Mona(NL L1 Monaaaaaa). Their slogan is not to fight a group war in level one and they also can win in a bad situation - Michael
 
 ## Best champions

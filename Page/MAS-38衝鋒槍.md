@@ -1,3 +1,6 @@
+> 本文内容由[MAS-38衝鋒槍](https://zh.wikipedia.org/wiki/MAS-38衝鋒槍)转换而来。
+
+
 [MAS-38.jpg](https://zh.wikipedia.org/wiki/File:MAS-38.jpg "fig:MAS-38.jpg") [MAS38.JPG](https://zh.wikipedia.org/wiki/File:MAS38.JPG "fig:MAS38.JPG") [MAS38sheme.jpg](https://zh.wikipedia.org/wiki/File:MAS38sheme.jpg "fig:MAS38sheme.jpg") [Warsaw_Uprising_-_Baon_Czata_with_PIAT_guns.jpg](https://zh.wikipedia.org/wiki/File:Warsaw_Uprising_-_Baon_Czata_with_PIAT_guns.jpg "fig:Warsaw_Uprising_-_Baon_Czata_with_PIAT_guns.jpg")
 
 **MAS-38**（，）是一种[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，预先为[二战准备](https://zh.wikipedia.org/wiki/二战 "wikilink")，曾被法国及[德国](../Page/德国.md "wikilink")（缴获）使用，它源于1918年-1922年执行的武器制造计划，由武器服务计划（the Service Technique de l'Armement）构想。一种冲锋枪，一种[轻机枪](../Page/轻机枪.md "wikilink")，一种[半自动步枪](../Page/半自动步枪.md "wikilink")都由武器服务计划制造来更新法军的[武器](https://zh.wikipedia.org/wiki/轻武器 "wikilink")。不过由于建造像[马其诺防线一样的工程使法国政府因预算不够而无法大量装备上述武器](https://zh.wikipedia.org/wiki/马其诺防线 "wikilink")，除了[FM-24/29輕機槍](https://zh.wikipedia.org/wiki/FM-24/29輕機槍 "wikilink")。

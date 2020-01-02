@@ -1,3 +1,6 @@
+> 本文内容由[Peazip](https://zh.wikipedia.org/wiki/Peazip)转换而来。
+
+
 {{ infobox software | logo = [Peazip_ico.png](https://zh.wikipedia.org/wiki/File:Peazip_ico.png "fig:Peazip_ico.png") | screenshot = [Peazip-screenshot.png](https://zh.wikipedia.org/wiki/File:Peazip-screenshot.png "fig:Peazip-screenshot.png") | caption = PeaZip运行于[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink") | author = | developer = Giorgio Tani | released =  | frequently updated = yes | programming language = [Free Pascal](../Page/Free_Pascal.md "wikilink") | operating system = [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 [Linux](../Page/Linux.md "wikilink")
 [BSD](../Page/BSD.md "wikilink")

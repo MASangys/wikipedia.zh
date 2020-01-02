@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯-賓士CLS系列](https://zh.wikipedia.org/wiki/梅賽德斯-賓士CLS系列)转换而来。
+
+
 [Mercedes-Benz_C218_CLS_63_AMG_front.jpg](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_C218_CLS_63_AMG_front.jpg "fig:Mercedes-Benz_C218_CLS_63_AMG_front.jpg") **梅賽德斯-賓士CLS系列**（）是一個由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[梅賽德斯-賓士](../Page/梅賽德斯-賓士.md "wikilink")（賓士）所推出的中型四門[房車系列](https://zh.wikipedia.org/wiki/房車 "wikilink")，主要鎖定在介於一般標準[主管級房車](https://zh.wikipedia.org/wiki/主管級房車 "wikilink")（Executive car）與較為運動風格取向的雙門[轎跑車](../Page/轎跑車.md "wikilink")（）之間的過渡市場級距，於2004年首度推出。是市場上第一款[量產四門Coupé](https://zh.wikipedia.org/wiki/量產 "wikilink")，香港賓士更曾為[利氏家族設立一條只有一輛車的生產線](https://zh.wikipedia.org/wiki/利氏家族 "wikilink")，翌年3月交付。2019年捲入[西安奔馳新車漏油維權事件](https://zh.wikipedia.org/wiki/西安奔馳新車漏油維權事件 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Business Jump](https://zh.wikipedia.org/wiki/Business_Jump)转换而来。
+
+
 《**Business Jump**》是[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")發行的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，1985年7月創刊，創刊時為[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")，1986年3月改為半月刊，2011年10月休刊。
 
 ## 連載作品

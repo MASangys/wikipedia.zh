@@ -1,3 +1,6 @@
+> 本文内容由[HELL:ium](https://zh.wikipedia.org/wiki/HELL:ium)转换而来。
+
+
 「**HELL:ium**」（ヘリ:ウム）是[黒崎真音的第三張](https://zh.wikipedia.org/wiki/黒崎真音 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年5月9日由[Geneon Universal Entertainment Japan, LLC.發售](https://zh.wikipedia.org/wiki/Geneon_Universal_Entertainment_Japan,_LLC. "wikilink")。
 
 ## 概要

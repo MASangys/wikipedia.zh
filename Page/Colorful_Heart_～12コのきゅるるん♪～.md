@@ -1,3 +1,6 @@
+> 本文内容由[Colorful Heart ～12コのきゅるるん♪～](https://zh.wikipedia.org/wiki/Colorful_Heart_～12コのきゅるるん♪～)转换而来。
+
+
 《****》是2004年2月6日由[戲畫發售的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。[KOTOKO主唱](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")、作詞、[I've](../Page/I've.md "wikilink")製作的主題曲「」和Colorful系列前作的主題曲「」一樣，是網上「惹笑的[電波歌曲](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")」的代表之一。發售前曲名曾一度發表為「」，其後變為「」。2007年12月14日發售對應[Windows Vista的](../Page/Windows_Vista.md "wikilink")「Memorial Edition（）」。
 
 和前作《》在內容上並無關聯。

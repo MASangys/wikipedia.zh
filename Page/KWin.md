@@ -1,3 +1,6 @@
+> 本文内容由[KWin](https://zh.wikipedia.org/wiki/KWin)转换而来。
+
+
 在[Unix系統中](https://zh.wikipedia.org/wiki/Unix "wikilink")， KWin是[X Window系統中的一個](../Page/X_Window系統.md "wikilink")[窗口管理器](https://zh.wikipedia.org/wiki/X窗口管理器 "wikilink")。 構成[KDE Software Compilation的一部分](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink") ，它亦可以單獨使用或用於其他的[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。
 
 KWin可由基于[ECMAScript](../Page/ECMAScript.md "wikilink")的[脚本](../Page/脚本语言.md "wikilink")（如[QML](../Page/QML.md "wikilink")、[QtScript](../Page/QtScript.md "wikilink")）来进行配置。\[1\]

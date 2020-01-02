@@ -1,3 +1,6 @@
+> 本文内容由[IPFilter](https://zh.wikipedia.org/wiki/IPFilter)转换而来。
+
+
 ****（通用簡稱：）是一个[开源的软件项目](../Page/开源软件.md "wikilink")，可以为[类Unix操作系统提供](https://zh.wikipedia.org/wiki/类Unix "wikilink")[防火墙](../Page/防火墙.md "wikilink")和[网络地址转换](../Page/网络地址转换.md "wikilink")（）服务。
 
 ## 目的

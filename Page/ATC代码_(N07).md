@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N07\)](https://zh.wikipedia.org/wiki/ATC代码_\(N07\))转换而来。
+
+
 ## N07A [拟副交感神经药物](https://zh.wikipedia.org/wiki/拟副交感神经药物 "wikilink")（Parasympathomimetics）
 
 ### N07AA 抗胆碱酯酶类（Anticholinesterases）

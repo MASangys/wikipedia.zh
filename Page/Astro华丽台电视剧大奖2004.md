@@ -1,3 +1,6 @@
+> 本文内容由[Astro华丽台电视剧大奖2004](https://zh.wikipedia.org/wiki/Astro华丽台电视剧大奖2004)转换而来。
+
+
 **《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")2004》**（Astro Wah Lai Toi Drama Awards 2004）是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro華麗台](../Page/Astro華麗台.md "wikilink")聯合[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[TVB首次主辦無線電視劇頒獎典禮](https://zh.wikipedia.org/wiki/TVB "wikilink")。除了模仿香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[萬千星輝頒獎典禮](../Page/萬千星輝頒獎典禮.md "wikilink")之外，《Astro華麗台電視劇大獎2004》更增加多項獎項，勢要令馬來西亞觀眾們自由地決定他們的摯愛。[安德尊](../Page/安德尊.md "wikilink")及[郭燕燕主持](https://zh.wikipedia.org/wiki/郭燕燕 "wikilink")。
 
 《[戇夫成龍](../Page/戇夫成龍.md "wikilink")》順理成章成為大贏家，共奪得5大獎項，包括「我的至愛男主角」，「我的至愛劇集」，「我最難忘的一幕」及2項「我的至愛角色」。[郭晉安](../Page/郭晉安.md "wikilink")以大熱姿態獲得「我的至愛男主角」，成為首位馬來西亞觀眾們心目中的視帝。[陳慧珊](../Page/陳慧珊.md "wikilink")則以黑馬姿態擊敗被賽前視為大熱門的[宣萱](../Page/宣萱.md "wikilink")，獲得「我的至愛女主角」，成為首位馬來西亞觀眾們心目中的視-{后}-。

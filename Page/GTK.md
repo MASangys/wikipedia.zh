@@ -1,3 +1,6 @@
+> 本文内容由[GTK](https://zh.wikipedia.org/wiki/GTK)转换而来。
+
+
 ****（原名****）最初是[GIMP](../Page/GIMP.md "wikilink")的专用开发库（），后来发展为[Unix-like系統下开发](https://zh.wikipedia.org/wiki/Unix-like "wikilink")[图形界面的应用程序的主流开发工具之一](https://zh.wikipedia.org/wiki/图形界面 "wikilink")。GTK是[自由软件](../Page/自由软件.md "wikilink")，并且是[GNU计划的一部分](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")。自2019年2月6日起，GTK+改名为GTK。\[1\]
 
 ## 编程语言

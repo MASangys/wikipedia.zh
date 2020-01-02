@@ -1,3 +1,6 @@
+> 本文内容由[樫田Reo](https://zh.wikipedia.org/wiki/樫田Reo)转换而来。
+
+
 ****（）是日本的自由游戏剧本作家。
 
 ## 概要

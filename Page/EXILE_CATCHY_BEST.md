@@ -1,3 +1,6 @@
+> 本文内容由[EXILE CATCHY BEST](https://zh.wikipedia.org/wiki/EXILE_CATCHY_BEST)转换而来。
+
+
 **EXILE CATCHY BEST**（放浪節奏精選）是[EXILE第](https://zh.wikipedia.org/wiki/EXILE "wikilink")2張精選專輯，於2008年3月26日發售。
 
 ## 解說

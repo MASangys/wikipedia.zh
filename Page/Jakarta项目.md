@@ -1,3 +1,6 @@
+> 本文内容由[Jakarta项目](https://zh.wikipedia.org/wiki/Jakarta项目)转换而来。
+
+
 **Jakarta项目**是在[Apache軟件基金會营运的](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")开发项目之一。开发着[面向对象编程语言](https://zh.wikipedia.org/wiki/面向对象编程语言 "wikilink")[Java](../Page/Java.md "wikilink")的[程序库](https://zh.wikipedia.org/wiki/程序库 "wikilink")，[框架等](https://zh.wikipedia.org/wiki/框架 "wikilink")。
 
 Jakarta是Apache组织下的一套Java解决方案的开源软件的名称，它包括了很多子项目。[Tomcat](../Page/Apache_Tomcat.md "wikilink")、[Ant](../Page/Apache_Ant.md "wikilink")、[Struts](../Page/Struts.md "wikilink")等等現在是Apache下的开源项目，也曾是Jakarta的关联项目。

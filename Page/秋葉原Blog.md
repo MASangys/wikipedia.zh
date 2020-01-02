@@ -1,3 +1,6 @@
+> 本文内容由[秋葉原Blog](https://zh.wikipedia.org/wiki/秋葉原Blog)转换而来。
+
+
 **秋葉原Blog**，為一個專門報導[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")動態及ACG產業訊息的[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，是由曾在秋葉原的店鋪擔任店長的「geek」所維護。
 
 ## 簡介

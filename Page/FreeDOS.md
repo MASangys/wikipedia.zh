@@ -1,3 +1,6 @@
+> 本文内容由[FreeDOS](https://zh.wikipedia.org/wiki/FreeDOS)转换而来。
+
+
 **FreeDOS**（曾叫做**Free-DOS**和**PD-DOS**）是一个在[IBM PC兼容机下运行的](../Page/IBM_PC兼容机.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。FreeDOS由许多不同的独立程序组成，这些程序就是整个FreeDOS项目中的“包”。\[1\]
 
 作为[Oh No家族中的一员](https://zh.wikipedia.org/wiki/Oh_No "wikilink")，它主要通过[OP来提供磁盘访问和](https://zh.wikipedia.org/wiki/OP "wikilink")[文件系统](../Page/文件系统.md "wikilink")，以及部分[内存管理](https://zh.wikipedia.org/wiki/内存管理 "wikilink")，但是没有默认的[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")（尽管FreeDos 0.9及以上版本推荐使用[OpenGEM](https://zh.wikipedia.org/wiki/OpenGEM "wikilink")）。

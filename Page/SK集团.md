@@ -1,3 +1,6 @@
+> 本文内容由[SK集团](https://zh.wikipedia.org/wiki/SK集团)转换而来。
+
+
 **SK集团**（）是[韩国的第三大](https://zh.wikipedia.org/wiki/韩国 "wikilink")[財閥](../Page/財閥.md "wikilink")，总部位于韩国[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。SK集团旗下拥有95家子公司和关联企业，全球雇员人数超过三万，2018年[财富世界500强排名第](https://zh.wikipedia.org/wiki/财富世界500强 "wikilink")84\[1\]，目前SK集团的[会长為](https://zh.wikipedia.org/wiki/会长 "wikilink")。
 
 SK的主营业务是在[能源](../Page/能源.md "wikilink")和[石油化工领域](https://zh.wikipedia.org/wiki/石油化工 "wikilink")，子公司[SK能源是](https://zh.wikipedia.org/wiki/SK能源 "wikilink")[韩国最大的综合能源化工企业](https://zh.wikipedia.org/wiki/韩国 "wikilink")\[2\]。其[蔚山炼厂拥有每年](https://zh.wikipedia.org/wiki/蔚山廣域市 "wikilink")4200万吨原油加工能力，多年来保持全世界同行业单厂炼油规模最大的地位。SK同时也经营电子通讯，子公司[SK电讯](../Page/SK电讯.md "wikilink")是韩国最大的移动通信运营商，在韩国的市场占有率达到50%以上，也是全球十大蜂窝移动通信运营商之一。子公司[SK海力士](../Page/SK海力士.md "wikilink")是SK集团涉足[半导体](../Page/半导体.md "wikilink")行业的主力，海力士在[DRAM市場的佔有率於全球僅次於](https://zh.wikipedia.org/wiki/DRAM "wikilink")[三星電子](../Page/三星電子.md "wikilink")\[3\]。

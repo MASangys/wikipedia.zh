@@ -1,3 +1,6 @@
+> 本文内容由[真夜中的Kiss](https://zh.wikipedia.org/wiki/真夜中的Kiss)转换而来。
+
+
 《**-{zh-hans:真夜中的Kiss; zh-hant:真夜中的Kiss;}-**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[持田秋](../Page/持田秋.md "wikilink")的一部作品。於[集英社](../Page/集英社.md "wikilink")的[漫畫雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[りぼん](https://zh.wikipedia.org/wiki/りぼん "wikilink")》2007年4月號開始連載。
 
 ## 故事簡介

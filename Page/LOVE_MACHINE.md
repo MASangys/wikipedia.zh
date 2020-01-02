@@ -1,3 +1,6 @@
+> 本文内容由[LOVE MACHINE](https://zh.wikipedia.org/wiki/LOVE_MACHINE)转换而来。
+
+
 《**LOVE MACHINE**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第7张[单曲](../Page/单曲.md "wikilink")。於1999年9月9日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

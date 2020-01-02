@@ -1,3 +1,6 @@
+> 本文内容由[HK USP手槍](https://zh.wikipedia.org/wiki/HK_USP手槍)转换而来。
+
+
 **USP**（，，通用自動裝填手槍之意）為德國武器製造商[黑克勒-科赫所研發的](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 設計

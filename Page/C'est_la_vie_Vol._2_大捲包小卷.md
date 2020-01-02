@@ -1,3 +1,6 @@
+> 本文内容由[C\'est la vie Vol. 2 大捲包小卷](https://zh.wikipedia.org/wiki/C\'est_la_vie_Vol._2_大捲包小卷)转换而来。
+
+
 《**C'est la vie Vol. 2 大捲包小卷**》是在[自然捲的第二張專輯](../Page/自然捲_\(樂團\).md "wikilink")，於2005年12月24日發行。這張專輯延續前張專輯的優良傳統，入圍了[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[第17屆金曲獎](https://zh.wikipedia.org/wiki/第17屆金曲獎 "wikilink")。
 
 而此張專輯的也是延續前張專輯的概念將生活中的隨處可見的事物寫進歌詞裡面，主要還是奇哥來編曲與作詞，再搭配上主唱[娃娃那有如天籟的聲音](../Page/魏如萱.md "wikilink")，告訴我們這就是C'est La Vie 2。

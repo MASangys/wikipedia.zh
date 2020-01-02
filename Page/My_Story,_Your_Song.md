@@ -1,3 +1,6 @@
+> 本文内容由[My Story, Your Song](https://zh.wikipedia.org/wiki/My_Story,_Your_Song)转换而来。
+
+
 **My Story, Your Song 經典全記錄**為[孫燕姿的精選輯](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")，於2006年9月26日正式發行，這是孫燕姿在[華納唱片發行的最後一張作品](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，此時孫燕姿已經離開華納唱片。由於作品暢銷，唱片公司對此精選集進行過多次改版，前後共推出過6個版本。在華語樂壇，對於一張合約期外，並無歌手參與宣傳的精選集進行多次改版，這種情況極為罕見。
 
 ## 唱片版本

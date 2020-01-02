@@ -1,3 +1,6 @@
+> 本文内容由[TARDIS](https://zh.wikipedia.org/wiki/TARDIS)转换而来。
+
+
 [TARDIS1.jpg](https://zh.wikipedia.org/wiki/File:TARDIS1.jpg "fig:TARDIS1.jpg")的TARDIS模型。\]\] [TARDIS2.jpg](https://zh.wikipedia.org/wiki/File:TARDIS2.jpg "fig:TARDIS2.jpg")
 
 **TARDIS**（），全稱**時間和空間相對維度**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**T**ime **a**nd **R**elative **D**imension **i**n **S**pace）\[1\]\[2\]，是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[科幻電視劇](https://zh.wikipedia.org/wiki/科幻電視作品 "wikilink")《[神秘博士](https://zh.wikipedia.org/wiki/神秘博士 "wikilink")》及其相關作品中的一個虛構[時間機器和](https://zh.wikipedia.org/wiki/時間機器 "wikilink")[航天器](../Page/航天器.md "wikilink")。某程度上，TARDIS亦是異世奇人系列的象徵之一。\[3\]

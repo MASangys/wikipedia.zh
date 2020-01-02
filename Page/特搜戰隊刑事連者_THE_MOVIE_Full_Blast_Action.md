@@ -1,3 +1,6 @@
+> 本文内容由[特搜戰隊刑事連者 THE MOVIE Full Blast Action](https://zh.wikipedia.org/wiki/特搜戰隊刑事連者_THE_MOVIE_Full_Blast_Action)转换而来。
+
+
 《**特搜戰隊刑事連者 THE MOVIE Full Blast Action**》（原題：）。係於日本時間2004年9月11日上映的劇場版電影作品。
 
 ## 概要

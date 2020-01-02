@@ -1,3 +1,6 @@
+> 本文内容由[神鬼寓言II](https://zh.wikipedia.org/wiki/神鬼寓言II)转换而来。
+
+
 **神鬼寓言Ⅱ**（Fable II）是[Lionhead Studios於](../Page/Lionhead_Studios.md "wikilink")2008年製作完成的一款[XBOX 360上的](https://zh.wikipedia.org/wiki/XBOX_360 "wikilink")[单机游戏](../Page/单机游戏.md "wikilink")。這個遊戲是屬於[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。這個遊戲是接續前兩個遊戲—－**[神鬼寓言](../Page/神鬼寓言.md "wikilink")**（Fable）和**[神鬼寓言：失落之章](https://zh.wikipedia.org/wiki/神鬼寓言：失落之章 "wikilink")**（Fable: The Lost Chapters）的一個續集。這個遊戲於2008年10月21日首度發行，屬於**神鬼寓言系列**中的一個遊戲。
 
 神鬼寓言Ⅱ運行在一個虛擬的世界「**阿爾比恩**」中。這個遊戲和之前兩集的地點場景相同，但是其時代卻是在前兩集的大約五百年以後。其時間場景有點類似[啟蒙時代](../Page/啟蒙時代.md "wikilink")，也就是[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[攔路強盜盛行的時期](https://zh.wikipedia.org/wiki/攔路強盜 "wikilink")。那時的[槍](../Page/槍.md "wikilink")已經被發明，但是非常的粗糙且古老。許多大[城市](../Page/城市.md "wikilink")和[城堡](../Page/城堡.md "wikilink")在當時都已經被開發。這個遊戲和前兩集較不同的是，玩家在開始遊戲的時候可以選擇自己要成為男性還是女性的角色。

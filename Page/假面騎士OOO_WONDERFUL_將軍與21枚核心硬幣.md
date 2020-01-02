@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](https://zh.wikipedia.org/wiki/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣)转换而来。
+
+
 《**劇場版 假面騎士OOO WONDERFUL 將軍與21枚核心硬幣**》（），是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》的獨立劇場版。日本於2011年8月6日2D與3D上映。
 
 此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")**》劇場版《**[海賊戰隊豪快者 The Movie 飛天幽靈船](../Page/海賊戰隊豪快者_The_Movie_飛天幽靈船.md "wikilink")**》亦同步上映。

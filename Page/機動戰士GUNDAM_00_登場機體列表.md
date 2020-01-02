@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM 00 登場機體列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00_登場機體列表)转换而来。
+
+
 本列表為[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》及其所有外傳的登場機體。
 
 ## 天上人（Celestial Being）

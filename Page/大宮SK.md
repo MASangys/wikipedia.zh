@@ -1,3 +1,6 @@
+> 本文内容由[大宮SK](https://zh.wikipedia.org/wiki/大宮SK)转换而来。
+
+
 **大宮SK**是在2002年12月[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的人氣團體「[嵐](../Page/嵐.md "wikilink")」的演唱會上突然出現的謎樣的兩人組。
 
 ## 概要

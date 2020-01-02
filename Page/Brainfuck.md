@@ -1,3 +1,6 @@
+> 本文内容由[Brainfuck](https://zh.wikipedia.org/wiki/Brainfuck)转换而来。
+
+
 **Brainfuck**，是一种极小化的[程序语言](https://zh.wikipedia.org/wiki/程序语言 "wikilink")，它是由[Urban Müller在](https://zh.wikipedia.org/wiki/Urban_Müller "wikilink")1993年创造的。由於[fuck在](https://zh.wikipedia.org/wiki/fuck "wikilink")[英語中是](https://zh.wikipedia.org/wiki/英語 "wikilink")[髒話](../Page/髒話.md "wikilink")，这种语言有时被称为**Brainf\*ck**或**Brainf\*\*\***，或被简称为**BF**。
 
 ## 概述

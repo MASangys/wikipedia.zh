@@ -1,3 +1,6 @@
+> 本文内容由[Loving You我愛你](https://zh.wikipedia.org/wiki/Loving_You我愛你)转换而来。
+
+
 《**Loving You 我愛你**》（The Threat of Love），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝單元愛情喜劇[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，為十集時裝單元愛情喜劇，每集內容均完全不同。
 
 ## 演員表

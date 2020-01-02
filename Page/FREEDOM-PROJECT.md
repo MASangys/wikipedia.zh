@@ -1,3 +1,6 @@
+> 本文内容由[FREEDOM-PROJECT](https://zh.wikipedia.org/wiki/FREEDOM-PROJECT)转换而来。
+
+
 **FREEDOM-PROJECT**（自由計劃）是[日清食品](../Page/日清食品.md "wikilink")的[合味道](../Page/合味道.md "wikilink")[杯麵](../Page/杯麵.md "wikilink")與漫畫家[大友克洋](../Page/大友克洋.md "wikilink")合作的宣傳計劃，主要製作電視廣告、OVA及輕小說等。
 
 ## 概要

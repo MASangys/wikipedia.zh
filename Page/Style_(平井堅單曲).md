@@ -1,3 +1,6 @@
+> 本文内容由[Style \(平井堅單曲\)](https://zh.wikipedia.org/wiki/Style_\(平井堅單曲\))转换而来。
+
+
 《**style**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年7月30日發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Windows程式集](https://zh.wikipedia.org/wiki/Windows程式集)转换而来。
+
+
 **Windows程式集**（前稱**Windows Live程式集**）是一個由[微軟提供的免費軟件](https://zh.wikipedia.org/wiki/微軟 "wikilink")。它整合了[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[即時訊息](https://zh.wikipedia.org/wiki/即時訊息 "wikilink")、[圖片共享](https://zh.wikipedia.org/wiki/圖片共享 "wikilink")、[部落格發佈](../Page/網誌.md "wikilink")、安全和其他的[Windows Live服務](../Page/Windows_Live.md "wikilink")。
 
 此軟件推出的主要目的在於把Windows Live網路服務（如Windows Live Hotmail），整合到[Windows系統上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。

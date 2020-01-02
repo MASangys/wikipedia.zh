@@ -1,3 +1,6 @@
+> 本文内容由[DD-WRT](https://zh.wikipedia.org/wiki/DD-WRT)转换而来。
+
+
 **DD-WRT**是一个基于[Linux](../Page/Linux.md "wikilink")的无线路由[固件](https://zh.wikipedia.org/wiki/固件 "wikilink")，以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL）V2授權发布。
 
 DD-WRT提供了许多一般[路由器](../Page/路由器.md "wikilink")固件所没有的功能，例如支持[XLink Kai游戏协议](https://zh.wikipedia.org/wiki/XLink_Kai "wikilink")、基于[守护进程](../Page/守护进程.md "wikilink")的服务、[IPv6](../Page/IPv6.md "wikilink")、[无线分布式系统](https://zh.wikipedia.org/wiki/无线分布式系统 "wikilink")（无线网桥和无线中继）、[RADIUS](https://zh.wikipedia.org/wiki/RADIUS "wikilink")、先进[服务质量控制](https://zh.wikipedia.org/wiki/QoS "wikilink")、无线输出[功率](../Page/功率.md "wikilink")控制、[超频能力](https://zh.wikipedia.org/wiki/超频 "wikilink")，以及[SD卡](../Page/SD卡.md "wikilink")的硬件配置提供软件支持。

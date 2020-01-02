@@ -1,3 +1,6 @@
+> 本文内容由[三菱扶桑Super Great](https://zh.wikipedia.org/wiki/三菱扶桑Super_Great)转换而来。
+
+
 [73式セミトレ.jpg](https://zh.wikipedia.org/wiki/File:73式セミトレ.jpg "fig:73式セミトレ.jpg") **三菱Super Great**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Mitsubishi Fuso Super Great**，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：三菱ふそう・スーパーグレート），是[三菱扶桑卡客車旗下的一款重型卡車](https://zh.wikipedia.org/wiki/三菱扶桑卡客車 "wikilink")，於1996年推出，定位在大型運輸和基建工程，其有軍用版稱為73式特大型卡車。
 
 在[日本](../Page/日本.md "wikilink")和[亞洲其他地區](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，其主要競爭對手為[五十鈴Giga](https://zh.wikipedia.org/wiki/五十鈴Giga "wikilink")、UD[Quon和](https://zh.wikipedia.org/wiki/Quon "wikilink")[日野Profia](../Page/日野Profia.md "wikilink")，歐洲和英國對手為平治Actros。

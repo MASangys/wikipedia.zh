@@ -1,3 +1,6 @@
+> 本文内容由[Synfig](https://zh.wikipedia.org/wiki/Synfig)转换而来。
+
+
 **Synfig** 是一款[自由软件](../Page/自由软件.md "wikilink")，用途是2D [矢量图形](../Page/矢量图形.md "wikilink")[时间轴](https://zh.wikipedia.org/wiki/时间轴 "wikilink")[电脑动画创作](https://zh.wikipedia.org/wiki/电脑动画 "wikilink")，软件原作者是Robert Quattlebaum\[1\] 得到了Adrian Bentley的大力帮助。
 
 Synfig 原是定制平台，现在已被Voria Studios默认使用， 2005年[开放源代码](../Page/开放源代码.md "wikilink")，使用 [GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")\[2\].

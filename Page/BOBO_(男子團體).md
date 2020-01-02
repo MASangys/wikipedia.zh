@@ -1,3 +1,6 @@
+> 本文内容由[BOBO \(男子團體\)](https://zh.wikipedia.org/wiki/BOBO_\(男子團體\))转换而来。
+
+
 **BOBO組合**，由[井柏然](../Page/井柏然.md "wikilink")、[付辛博](../Page/付辛博.md "wikilink")兩人組成的雙人[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，[華誼兄弟音乐公司旗下藝人](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")。其粉絲團體被稱爲[薄荷](../Page/薄荷.md "wikilink")，簡稱[BH](https://zh.wikipedia.org/wiki/BH "wikilink")，應援色爲薄荷綠。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[魔法戰隊魔法連者 THE MOVIE 地獄魔人的新娘](https://zh.wikipedia.org/wiki/魔法戰隊魔法連者_THE_MOVIE_地獄魔人的新娘)转换而来。
+
+
 《**魔法戰隊魔法連者 THE MOVIE 地獄魔人的新娘**》（原題：）。係於日本時間2005年9月3日上映的劇場版電影作品。同時上映的作品還有《[假面騎士響鬼與七人的戰鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼與七人的戰鬼 "wikilink")》。
 
 ## 概要

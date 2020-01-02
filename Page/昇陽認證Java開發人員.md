@@ -1,3 +1,6 @@
+> 本文内容由[昇陽認證Java開發人員](https://zh.wikipedia.org/wiki/昇陽認證Java開發人員)转换而来。
+
+
 **昇陽認證Java開發人員**（Sun Certified Developer for Java, SCJD）是[Java](../Page/Java.md "wikilink")認證體系中的中階級專業認證，與平台認證系不同的是，SCJD重視的不是平台技術，而是使用Java開發應用程式的能力，也就是考驗考生的獨立開發能力，通常拿到此認證的人，都被視為已經具有完全應用Java開發應用程式的獨立作業能力，而這通常也是大多數使用Java作為開發應用程式平台主要工具的企業所需要的人才。
 
 為了要驗證Java開發人員的獨立作業能力，因此SCJD的考試方法和多數認證截然不同。

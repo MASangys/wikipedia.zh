@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N04\)](https://zh.wikipedia.org/wiki/ATC代码_\(N04\))转换而来。
+
+
 ## N04A [抗胆碱能药](https://zh.wikipedia.org/wiki/抗胆碱能 "wikilink")（Anticholinergic agents）
 
 ### N04AA 叔胺类（Tertiary amines）

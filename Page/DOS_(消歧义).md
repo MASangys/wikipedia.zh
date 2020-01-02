@@ -1,3 +1,6 @@
+> 本文内容由[DOS \(消歧义\)](https://zh.wikipedia.org/wiki/DOS_\(消歧义\))转换而来。
+
+
 **[DOS](../Page/DOS.md "wikilink")**條目描述的是由[微軟開發的用於](https://zh.wikipedia.org/wiki/微軟 "wikilink")[IBM PC及相容電腦上的磁碟](../Page/IBM_PC.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 **DOS**或**DoS**还可能指以下含义：

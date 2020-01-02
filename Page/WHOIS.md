@@ -1,3 +1,6 @@
+> 本文内容由[WHOIS](https://zh.wikipedia.org/wiki/WHOIS)转换而来。
+
+
 **WHOIS**（讀作「Who is」，而非縮寫）是用來查詢[網際網路中](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[域名](../Page/域名.md "wikilink")的[IP以及所有者等信息的傳輸協定](../Page/IP地址.md "wikilink")。早期的WHOIS查詢多以[命令列介面](https://zh.wikipedia.org/wiki/命令列介面 "wikilink")（Command Line）存在，但是現在出現了一些基於[網頁](../Page/網頁.md "wikilink")介面的簡化線上查詢工具，甚至可以一次向不同的[數據庫查詢](https://zh.wikipedia.org/wiki/數據庫 "wikilink")。網頁介面的查詢工具仍然依賴WHOIS協定向[伺服器傳送查詢請求](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，命令列介面的工具仍然被系統管理員廣泛使用。
 
 WHOIS通常使用[TCP協定](../Page/传输控制协议.md "wikilink")43埠。每个域名或IP的WHOIS信息由对应的管理机构保存，例如，以.com结尾的域名的WHOIS信息由.com域名运营商[VeriSign管理](https://zh.wikipedia.org/wiki/VeriSign "wikilink")，中国国家[顶级域名](https://zh.wikipedia.org/wiki/顶级域名 "wikilink")[.cn](../Page/.cn.md "wikilink")域名由[CNNIC管理](https://zh.wikipedia.org/wiki/CNNIC "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Propeller](https://zh.wikipedia.org/wiki/Propeller)转换而来。
+
+
 **propeller**（プロペラ）為[WillPlus](../Page/WillPlus.md "wikilink")有限公司旗下的品牌、軟體製作位置為東京開發室。
 
 ## 歷史

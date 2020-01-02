@@ -1,3 +1,6 @@
+> 本文内容由[FN弩炮精確狙擊步槍](https://zh.wikipedia.org/wiki/FN弩炮精確狙擊步槍)转换而来。
+
+
 **FN「弩炮」**（，[中文意為](../Page/汉语.md "wikilink")：「**弩車**」、「**弩炮**」，音譯：「巴利斯坦」，尤尼克阿爾卑斯命名為**TPG-3 A4**）是一款由奧地利[尤尼克阿爾卑斯](https://zh.wikipedia.org/wiki/尤尼克阿爾卑斯公司 "wikilink")[TPG-1為藍本重新設計](../Page/TPG-1狙擊步槍.md "wikilink")，[比利时](../Page/比利时.md "wikilink")[埃斯塔勒](../Page/埃斯塔勒.md "wikilink")[國營工廠](https://zh.wikipedia.org/wiki/埃斯塔勒國營工廠 "wikilink")（，簡稱：FN）競標及向市場上銷售的新一代模塊化及多種口徑設計[手動](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，其後這槍亦在2012年1月位於[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")[拉斯維加斯舉辦的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")（美國著名槍展）上展出。分為三種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，分別發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")（或是民用狩獵市場的[.308 Winchester](../Page/.308_Winchester.md "wikilink")）、[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（.300 Win Mag，7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）三種[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

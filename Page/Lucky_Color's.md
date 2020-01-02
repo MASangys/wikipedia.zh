@@ -1,3 +1,6 @@
+> 本文内容由[Lucky Color\'s](https://zh.wikipedia.org/wiki/Lucky_Color\'s)转换而来。
+
+
 **Lucky Color's**是居住在[沖繩縣](../Page/沖繩縣.md "wikilink")的模特兒5人組的舞蹈歌唱組合。口號是沖繩限定偶像組合「RYUKYUダンシングドールズ」。所屬事務所是[Itoh Company](https://zh.wikipedia.org/wiki/Itoh_Company "wikilink")。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[ABC模型](https://zh.wikipedia.org/wiki/ABC模型)转换而来。
+
+
 [被子植物](../Page/被子植物.md "wikilink")花发育的**ABC模型**由E. Coen和E. Meyerowitz在1991年提出。\[1\]这个模型是以对花器官发育有缺陷的突变体的观察为基础的。ABC模型概括了在[花](../Page/花.md "wikilink")的不同部位中，不同类型的[转录因子](../Page/转录因子.md "wikilink")是怎样起作用或不起作用，从而控制了花部器官的发育的。
 
 ## 模型的提出

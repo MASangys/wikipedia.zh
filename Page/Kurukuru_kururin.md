@@ -1,3 +1,6 @@
+> 本文内容由[Kurukuru kururin](https://zh.wikipedia.org/wiki/Kurukuru_kururin)转换而来。
+
+
 是一個由開發，並由[任天堂](../Page/任天堂.md "wikilink")於2001年3月21日發售在[Game Boy Advance的首發益智遊戲](../Page/Game_Boy_Advance.md "wikilink")，遊戲進行方式是玩家操作一根棒子，這根棒子會不斷的轉，玩家的目的就是要操控這根棒子通過各種障礙，並且到達目的的（Goal），非常的容易上手。
 
 本作有兩個續作，分別是於2002年12月6日在GBA平台發行的《**轉轉鳥樂園**》（）和於2004年10月18日在[GameCube平台發行的](../Page/任天堂GameCube.md "wikilink")《**轉轉鳥猛擊！**》（）。

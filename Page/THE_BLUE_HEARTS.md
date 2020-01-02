@@ -1,3 +1,6 @@
+> 本文内容由[THE BLUE HEARTS](https://zh.wikipedia.org/wiki/THE_BLUE_HEARTS)转换而来。
+
+
 **THE BLUE HEARTS**（日語：ザ・ブルーハーツ）是一支[日本](../Page/日本.md "wikilink")[龐克搖滾樂團](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")，活躍於1980年代後期至1990年代前期。樂團於1985年組成，1987年以單曲{{〈}}リンダリンダ{{〉}}（LINDA LINDA）正式出道，1995年解散。雖然已經解散多年，但最近幾年，日本的廣告、連續劇和電影裡仍然常常使用他們的歌曲。日本HMV將他們選為日本音樂界史上最具影響力的百名歌手第19名 \[1\]。
 
 ## 團員

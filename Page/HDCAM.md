@@ -1,3 +1,6 @@
+> 本文内容由[HDCAM](https://zh.wikipedia.org/wiki/HDCAM)转换而来。
+
+
 [Hdcam.jpg](https://zh.wikipedia.org/wiki/File:Hdcam.jpg "fig:Hdcam.jpg") [Sony_BCT-40SR_20060616.jpg](https://zh.wikipedia.org/wiki/File:Sony_BCT-40SR_20060616.jpg "fig:Sony_BCT-40SR_20060616.jpg")
 
 **HDCAM**於1997年推出，是[高畫質版本的](https://zh.wikipedia.org/wiki/高畫質 "wikilink")[Digital Betacam](../Page/Betacam.md "wikilink")，使用8位元[DCT](https://zh.wikipedia.org/wiki/DCT "wikilink") 3:1:1抽樣壓縮，在1440×1080下降取樣[1080i相容的](https://zh.wikipedia.org/wiki/1080i "wikilink")[解像度](https://zh.wikipedia.org/wiki/解像度 "wikilink")，及在後期型號加入24p及23.976 PsF模式。HDCAM編解碼器使用非正方形像素及在播放1440×1080錄影內容時上升取樣至1920×1080格式播放。錄影位元率為144 Mbit/s，音訊近乎一樣，以4聲道AES/EBU 20-bit/48 kHz數碼音訊收錄。

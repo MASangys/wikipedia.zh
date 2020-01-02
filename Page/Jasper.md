@@ -1,3 +1,6 @@
+> 本文内容由[Jasper](https://zh.wikipedia.org/wiki/Jasper)转换而来。
+
+
 **Jasper**單曲，為[木村KAELA](../Page/木村KAELA.md "wikilink")的個人第11張單曲，
 於2008年2月6日由哥倫比亞音樂發行。
 

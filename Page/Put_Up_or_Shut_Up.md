@@ -1,3 +1,6 @@
+> 本文内容由[Put Up or Shut Up](https://zh.wikipedia.org/wiki/Put_Up_or_Shut_Up)转换而来。
+
+
 **Put up or Shut up**是美國[流行龐克樂隊](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")**[All Time Low](../Page/All_Time_Low.md "wikilink")**的一張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2006年透過唱片公司[Hopeless Records發行](https://zh.wikipedia.org/wiki/Hopeless_Records "wikilink")，售出超過60000隻唱片\[1\]，當中五首歌曲是由出道唱片[The Party Scene的部份歌曲重錄而成](../Page/The_Party_Scene.md "wikilink")。
 
 ## 歌曲列表

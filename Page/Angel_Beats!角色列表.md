@@ -1,3 +1,6 @@
+> 本文内容由[Angel Beats!角色列表](https://zh.wikipedia.org/wiki/Angel_Beats!角色列表)转换而来。
+
+
 以下是出现在《[Angel Beats\!](../Page/Angel_Beats!.md "wikilink")》系列[動畫与](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")[漫畫中的角色介绍](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。
 
 ## 人物合圖
