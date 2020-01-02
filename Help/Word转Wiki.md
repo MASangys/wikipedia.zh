@@ -1,3 +1,6 @@
+> 本文内容由[Help:Word转Wiki](https://zh.wikipedia.org/wiki/Help:Word转Wiki)转换而来。
+
+
 ## Microsoft Word
 
 ### Word2MediaWikiPlus

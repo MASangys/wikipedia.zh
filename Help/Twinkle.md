@@ -1,3 +1,6 @@
+> 本文内容由[Help:Twinkle](https://zh.wikipedia.org/wiki/Help:Twinkle)转换而来。
+
+
 **Twinkle** 是一个基于 [JavaScript](../Page/JavaScript.md "wikilink") 的工具，有助于提高编者的效率。关于 Twinkle 的详细信息和安装方法，请参见[维基百科:Twinkle](https://zh.wikipedia.org/wiki/维基百科:Twinkle "wikilink")。请注意，本地化的 Twinkle 無法在 [Internet Explorer](../Page/Internet_Explorer.md "wikilink") 上運作。
 
 当您完成安装 Twinkle 后，您在打开不同页面时，会在页面顶部出现 TW 标识，并看到一系列不同的选项卡或链接。
