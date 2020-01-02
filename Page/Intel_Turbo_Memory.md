@@ -1,3 +1,6 @@
+> 本文内容由[Intel Turbo Memory](https://zh.wikipedia.org/wiki/Intel_Turbo_Memory)转换而来。
+
+
 **Intel Turbo Memory**（[代號](https://web.archive.org/web/20090107155040/http://www.tgdaily.com/content/view/31250/135/) **Robson flash memory**、亦稱為**Robson快取**）是一個由[中央處理器生產商](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[英特爾於](https://zh.wikipedia.org/wiki/英特爾 "wikilink")2005年10月17日在[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")（IDF）上進行介紹的技術，其中展示了一台幾乎可立即啓動的筆記型電腦\[1\]。Robson快閃記憶體使用了[NAND](https://zh.wikipedia.org/wiki/NAND "wikilink")[快閃記憶體來減少電腦開機](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")、存取程式與將資料寫入硬盤的時間，用於筆記型電腦亦可改善電池壽命\[2\]。與其他固態記憶體不同，快閃記憶體在電腦關閉後仍會保留資料。
 
 筆記型電腦的大部份能量消耗來自處理器、[液晶顯示器與](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")[硬盤](https://zh.wikipedia.org/wiki/硬盤 "wikilink")\[3\]。英特爾的Robson快取技術意圖以移動經常存取的資料（如操作系統與最常用的程式）到快閃記憶體來減低硬盤的使用率，由於快閃記憶體比硬盤有更好反應及更低的電力需求，這個技術將令筆記型電腦在未來會更快速及有更高的能源效率\[4\]。

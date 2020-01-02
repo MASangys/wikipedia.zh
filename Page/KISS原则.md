@@ -1,3 +1,6 @@
+> 本文内容由[KISS原则](https://zh.wikipedia.org/wiki/KISS原则)转换而来。
+
+
 **KISS原则**是英语  的[首字母缩略字](https://zh.wikipedia.org/wiki/首字母缩略字 "wikilink")，是一種[歸納過的](https://zh.wikipedia.org/wiki/歸納 "wikilink")[經驗原則](https://zh.wikipedia.org/wiki/經驗 "wikilink")。KISS 原则是指在设计当中應當**注重簡約**的原则。總結工程専業人員在設計過程中的經驗，大多數系統的設計應保持簡潔和單純，而不摻入非必要的複雜性，這樣的系統運作成效會取得最優；因此簡單性應該是設計中的關鍵目標，尽量迴避免不必要的複雜性。同時這原則亦有應用在商業書信\[1\]、設計[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[工程上](https://zh.wikipedia.org/wiki/工程 "wikilink")。
 
 ## 词源

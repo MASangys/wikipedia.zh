@@ -1,3 +1,6 @@
+> 本文内容由[EMule EastShare Mod](https://zh.wikipedia.org/wiki/EMule_EastShare_Mod)转换而来。
+
+
 **eMule EastShare Mod**，中文名：伊絲雪兒，簡稱**EastShare Mod**、**EastShare**或**ES**，是以官方[eMule和](https://zh.wikipedia.org/wiki/eMule "wikilink")[eMule MorphXT Mod為基礎修改開發的一個](https://zh.wikipedia.org/wiki/eMule_MorphXT_Mod "wikilink")[開源](../Page/开源软件.md "wikilink")[免費的](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")[P2P](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[文件共享軟體](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。它是一個[eMule Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")，遵循[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")。
 
 ## 起源

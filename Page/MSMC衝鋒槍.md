@@ -1,3 +1,6 @@
+> 本文内容由[MSMC衝鋒槍](https://zh.wikipedia.org/wiki/MSMC衝鋒槍)转换而来。
+
+
 **MSMC衝鋒槍**（，意為：現代衝鋒槍；Machine Carbine為英國式英語對衝鋒槍一詞的舊稱）是一款由[印度](../Page/印度.md "wikilink")（ARDE；負責本槍的設計）、（OFB）旗下的（OFT Trichy；負責本槍的生產）所組成的聯合企業自主研發和生產的[冲锋枪](../Page/冲锋枪.md "wikilink")。\[1\]\[2\]該槍也被稱為**JVPC**（，意為：合營防衛卡賓槍）。該槍是以過去研製[INSAS系列](../Page/英薩斯突擊步槍.md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")武器平台的經驗為基礎，為[印度陸軍](../Page/印度陸軍.md "wikilink")而研製的。\[3\]該槍同時兼具[冲锋手枪和](../Page/全自動手槍.md "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")的特點，比當地設計與生產的其他步槍都要非常輕便和緊湊的。發射印度自主研發的[子彈](../Page/子彈.md "wikilink")。\[4\]
 
 MSMC衝鋒槍是在[印度陸軍](../Page/印度陸軍.md "wikilink")對於INSAS突擊步槍的[卡賓槍版本的研製進展感到失望以後所設計的](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")。INSAS曾經用以研製一個命名為“[王者之劍](../Page/王者之劍.md "wikilink")”（）的衍生型，但卻由於INSAS突擊步槍使用的大威力彈藥在較小的卡賓槍上使用會造成過大的[後座力](../Page/後座力.md "wikilink")而被視為無法達到的要求\[5\]，MSMC的設計目的就是要修正以前研製的衍生型的缺陷。\[6\]經過各種試驗和改進以後，武器裝備研究與發展局最終製作的是一枝與[烏兹衝鋒槍一樣的設計](https://zh.wikipedia.org/wiki/烏兹衝鋒槍 "wikilink")，將武器的整體長度縮短，使其更為適合[近身距離作戰](../Page/近身距離作戰.md "wikilink")的用途，後來更提升了其[人體工學設計](../Page/人因工程学.md "wikilink")，以提升其出口潛力。該武器被認為具有貫穿[防彈衣的實力](https://zh.wikipedia.org/wiki/護甲 "wikilink")。\[7\]它的設立被視為是INSAS輕武器計劃的一個分支。\[8\]\[9\]

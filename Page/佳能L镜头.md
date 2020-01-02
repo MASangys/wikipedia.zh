@@ -1,3 +1,6 @@
+> 本文内容由[佳能L镜头](https://zh.wikipedia.org/wiki/佳能L镜头)转换而来。
+
+
 [Canon_EF_50mm_f_1.0L.JPG](https://zh.wikipedia.org/wiki/File:Canon_EF_50mm_f_1.0L.JPG "fig:Canon_EF_50mm_f_1.0L.JPG") **L镜头**是[佳能](../Page/佳能.md "wikilink")公司为[单镜反光相机](../Page/单镜反光相机.md "wikilink")生产的顶级镜头系列。
 
 字母“L”是英文单词“豪华”（Luxury）的第一个字母，L镜头的品質與價格都十分突出。佳能的[变焦和](https://zh.wikipedia.org/wiki/變焦鏡 "wikilink")[定焦L镜头應用于已经淘汰的FD接環以及目前所有EOS相机使用的EF接環](../Page/定焦镜头.md "wikilink")。

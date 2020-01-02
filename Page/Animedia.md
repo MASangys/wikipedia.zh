@@ -1,3 +1,6 @@
+> 本文内容由[Animedia](https://zh.wikipedia.org/wiki/Animedia)转换而来。
+
+
 **Animedia**（日文名：アニメディア），[日本](../Page/日本.md "wikilink")[学習研究社所發行的](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")[動畫雜誌](../Page/動畫雜誌.md "wikilink")月刊。每月10日發售。自稱「」。
 
 ## 簡介

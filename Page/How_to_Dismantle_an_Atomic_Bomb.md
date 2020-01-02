@@ -1,3 +1,6 @@
+> 本文内容由[How to Dismantle an Atomic Bomb](https://zh.wikipedia.org/wiki/How_to_Dismantle_an_Atomic_Bomb)转换而来。
+
+
 《**如何拆除原子彈**》（****）是[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[U2的第十一張專輯](../Page/U2樂團.md "wikilink")，發行。繼上張專輯《[無法遺忘](../Page/無法遺忘.md "wikilink")》代表U2走回傳統風格後，《如何拆除原子彈》則是延續正宗搖滾為主風格的專輯。專輯的製作團隊分別由多年的夥伴[馬克·艾利斯](https://zh.wikipedia.org/wiki/馬克·艾利斯 "wikilink")、[丹尼爾·雷諾伊斯](https://zh.wikipedia.org/wiki/丹尼爾·雷諾伊斯 "wikilink")、[布萊恩·伊諾](https://zh.wikipedia.org/wiki/布萊恩·伊諾 "wikilink")、[史提夫·李利懷特以及](https://zh.wikipedia.org/wiki/史提夫·李利懷特 "wikilink")[蓋瑞·李](https://zh.wikipedia.org/wiki/蓋瑞·李 "wikilink")、[尼利·琥珀](https://zh.wikipedia.org/wiki/尼利·琥珀 "wikilink")、[卡爾·葛蘭威爾聯合製作](https://zh.wikipedia.org/wiki/卡爾·葛蘭威爾 "wikilink")，專輯標題取自於英日附錄曲目〈Fast Cars〉的歌詞內。
 
 主唱[波諾曾說](https://zh.wikipedia.org/wiki/波諾 "wikilink")：「我們等了25年做這張專輯，這是我們第一張的搖滾專輯。」\[1\]\[2\]雖然這張專輯沒有特定主題，但是不論愛情親情、戰爭和平、生離死別都是這張專輯有傳達的概念。

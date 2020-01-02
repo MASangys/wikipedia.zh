@@ -1,3 +1,6 @@
+> 本文内容由[To New](https://zh.wikipedia.org/wiki/To_New)转换而来。
+
+
 《**To New**》是[香港](../Page/香港.md "wikilink")[同人遊戲組](https://zh.wikipedia.org/wiki/同人 "wikilink")[ss-square創作的電腦遊戲](https://zh.wikipedia.org/wiki/ss-square "wikilink")，由ss-square成員sinaoka以前寫下的小說《留給這世上我最愛的人》改編\[1\]。第一作《To New \~ towards your dream \~》於2007年5月1日面世，續作《To New \~ beyond your dream \~》預定於2008年發售。是香港罕見的同人[美少女遊戲](../Page/美少女遊戲.md "wikilink")。
 
 ## 遊戲簡介

@@ -1,3 +1,6 @@
+> 本文内容由[夢幻戰士II](https://zh.wikipedia.org/wiki/夢幻戰士II)转换而来。
+
+
 是[日本通訊網路](../Page/日本通訊網路.md "wikilink")於1989年間所發行的[橫向捲軸](https://zh.wikipedia.org/wiki/橫向捲軸 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，在個人電腦與[PC Engine主機都有移植版本](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，開發團隊是[狼組](../Page/狼組.md "wikilink")。
 
 本作是1986年發行的《[夢幻戰士](../Page/夢幻戰士.md "wikilink")》的正式後繼作品。隨者[MSX](../Page/MSX.md "wikilink")等電腦主機版本發行後，PC Engine主機版本也在1989年發行。本作挾者超人氣聲優[島本須美](../Page/島本須美.md "wikilink")替女主角麻生優子配音與精美動畫音樂的雙重組合下，在當時創下了令人亮眼的語音震撼，極具創意的表現讓夢幻戰士II成為PC CD-ROM主機黎明時期的超級大作與動作遊戲名作，而麻生優子則被稱為PC Engine主機世代永遠的偶像。

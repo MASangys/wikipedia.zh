@@ -1,3 +1,6 @@
+> 本文内容由[Be On Top](https://zh.wikipedia.org/wiki/Be_On_Top)转换而来。
+
+
 Be On Top，是日本的音樂組合[(二代目)J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")3張單曲。於2008年11月19日起於EXILE mobile限量銷售。
 
 ## 解說

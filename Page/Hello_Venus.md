@@ -1,3 +1,6 @@
+> 本文内容由[Hello Venus](https://zh.wikipedia.org/wiki/Hello_Venus)转换而来。
+
+
 **Hello Venus**（）是2012年由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")與[Fantagio](../Page/Fantagio.md "wikilink")共同合作透過Tricell Media經營的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年5月10日以《Venus》一曲正式出道，成員包括[娥羅](../Page/柳娥羅.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、Lime、[娜拉](../Page/權娜拉.md "wikilink")、[Alice及](../Page/Alice_\(韓國歌手\).md "wikilink")[瑜瑛](../Page/李瑜瑛.md "wikilink")，由娥羅擔任隊長。官方歌迷名稱為「Hello Cupid」\[1\]。Hello Venus的出道舞台因胤祖腳傷無法參與，故出道歌曲《VENUS》的宣傳期以五人形式進行。
 2014年7月31日，經紀公司透過官方CAFÉ宣布成員娥羅和胤祖退出組合，Hello Venus正式完全由[Fantagio](../Page/Fantagio.md "wikilink")經營。\[2\]2014年11月6日，加入兩名新成員（夏天、序英），以六人形式發行第四張單曲回歸。2019年4月26日，經紀公司公佈合約於5月8日到期，團體正式解散，Alice、娜拉離開公司，序英、夏天續留公司，Lime、瑜瑛決定與公司續約，四人均更換活動名，Lime改名為蔡㫶華（채주화）、瑜瑛改名為李花兼（이화겸）、夏天改名為庾拏結（유나결）、序英改用本名李瑞英\[3\]，4人將分別在演技、音樂劇領域活動。
 

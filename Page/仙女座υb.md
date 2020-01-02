@@ -1,3 +1,6 @@
+> 本文内容由[仙女座υb](https://zh.wikipedia.org/wiki/仙女座υb)转换而来。
+
+
 **仙女座υ星b**，也被称为**仙女座υ星Ab**（以区别于其母星[仙女座υ的伴星](https://zh.wikipedia.org/wiki/仙女座υ "wikilink")[仙女座υ星B](https://zh.wikipedia.org/wiki/仙女座υ星B "wikilink")），是一颗位于[仙女座](../Page/仙女座.md "wikilink")，距离地球约44光年的系外行星。其母星仙女座υ是一颗[太阳相似体](https://zh.wikipedia.org/wiki/太阳相似体 "wikilink")。该行星的轨道周期大约为5地球日。1996年6月，[傑佛瑞·馬西](../Page/傑佛瑞·馬西.md "wikilink")和保罗·巴特勒发现该行星，它是首批被发现的[热木星之一](https://zh.wikipedia.org/wiki/热木星 "wikilink")。仙女座υ星b还是仙女座υ行星系统中最靠近母星的行星。
 
 ## 发现

@@ -1,3 +1,6 @@
+> 本文内容由[MediaLib](https://zh.wikipedia.org/wiki/MediaLib)转换而来。
+
+
 **mediaLib**（指 "多媒体函数库"）是一个用于加速[多媒体](../Page/多媒体.md "wikilink")应用程序的[可移植的底层函数库](https://zh.wikipedia.org/wiki/可移植 "wikilink")。它具备[C语言接口](https://zh.wikipedia.org/wiki/C语言 "wikilink")，其最新版本为2.5。 它最初由[Sun开发](https://zh.wikipedia.org/wiki/升阳 "wikilink")，之后作为[OpenSolaris](../Page/OpenSolaris.md "wikilink")项目的一部分在[CDDL许可证下开源](https://zh.wikipedia.org/wiki/CDDL "wikilink")。
 
 mediaLib 用C及[编译器原语写成](https://zh.wikipedia.org/wiki/编译器原语 "wikilink")，可以利用多种处理器上带有的[SIMD多媒体指令集来获得显著的性能提升](https://zh.wikipedia.org/wiki/SIMD "wikilink")。虽然最初它只能利用[SPARC](../Page/SPARC.md "wikilink")处理器上的[VIS指令集](https://zh.wikipedia.org/wiki/VIS "wikilink")，但是后来又加入了对[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")／[AMD处理器上的](https://zh.wikipedia.org/wiki/AMD "wikilink")[MMX](../Page/MMX.md "wikilink")／[SSE](../Page/SSE.md "wikilink")／[SSE2](../Page/SSE2.md "wikilink")等指令集的支持。

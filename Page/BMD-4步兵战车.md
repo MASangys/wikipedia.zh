@@ -1,3 +1,6 @@
+> 本文内容由[BMD-4步兵战车](https://zh.wikipedia.org/wiki/BMD-4步兵战车)转换而来。
+
+
 **BMD-4伞兵战车** (俄语：Боевая Машина Десантная－4 简称БМД—4）是前[苏联](../Page/苏联.md "wikilink")解体前研发，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
 
 ## 研发和装备背景

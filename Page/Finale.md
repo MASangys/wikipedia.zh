@@ -1,3 +1,6 @@
+> 本文内容由[Finale](https://zh.wikipedia.org/wiki/Finale)转换而来。
+
+
 **Finale**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[MakeMusic公司所開發的](https://zh.wikipedia.org/wiki/MakeMusic "wikilink")[樂譜製作軟件](https://zh.wikipedia.org/wiki/樂譜製作軟件 "wikilink")，第一個版本於1989年發售。初期只能於[Macintosh的](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[Mac OS使用](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，1998年對應[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，2006年以後的版本則可以完全對應[Windows XP和](../Page/Windows_XP.md "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。最新版本的價格約600[美元](../Page/美元.md "wikilink")。另有較廉宜的數個版本，提供較簡便的功能，包括SongWriter及PrintMusic，而NotePad則為免費軟體，只提供基礎編輯功能。Finale Guitar、Notepad Plus、Allegro及免費的Finale Reader則已停止開發。
 
 ## 版本歷史

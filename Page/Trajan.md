@@ -1,3 +1,6 @@
+> 本文内容由[Trajan](https://zh.wikipedia.org/wiki/Trajan)转换而来。
+
+
 **Trajan** 是一种[衬线](https://zh.wikipedia.org/wiki/衬线 "wikilink")[字体](../Page/字体.md "wikilink")，是卡罗·吐温布里（Carol Twombly）在1989年为[Adobe](../Page/Adobe.md "wikilink")公司设计制作的。
 
 Trajan一词本身，是[罗马帝国](https://zh.wikipedia.org/wiki/罗马帝国 "wikilink")[皇帝](../Page/皇帝.md "wikilink")[图拉真名字的](https://zh.wikipedia.org/wiki/图拉真 "wikilink")[英文拼写](https://zh.wikipedia.org/wiki/英文 "wikilink")。该字体的设计基于“古罗马方块大写字母”（capitalis monumentalis）的风格，常用于公元[一世纪](https://zh.wikipedia.org/wiki/一世纪 "wikilink")[古罗马](../Page/古罗马.md "wikilink")石柱石碑雕刻使用。由于罗马时代还没有使用[小写字母](https://zh.wikipedia.org/wiki/小写字母 "wikilink")，因此Trajan字体全部都是[大写字母](https://zh.wikipedia.org/wiki/大写字母 "wikilink")。代替小写字母的，是一种[小型大写字母](../Page/小型大写字母.md "wikilink")。

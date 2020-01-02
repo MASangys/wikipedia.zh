@@ -1,3 +1,6 @@
+> 本文内容由[Update](https://zh.wikipedia.org/wiki/Update)转换而来。
+
+
 在[SQL](../Page/SQL.md "wikilink")裡，可以利用**`UPDATE`**陳述式修改[資料表中一筆或多筆的資料](https://zh.wikipedia.org/wiki/数据库表 "wikilink")。可以更新全部的欄位，或使用條件式只更新部份的資料。
 
 以下是`Update`陳述式的語法：

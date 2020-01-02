@@ -1,3 +1,6 @@
+> 本文内容由[MySQL技術認證](https://zh.wikipedia.org/wiki/MySQL技術認證)转换而来。
+
+
 **MySQL技術認證** (MySQL Certification) 是 MySQL AB 公司為其旗艦資料庫產品[MySQL](../Page/MySQL.md "wikilink")設計的技術認證\[1\]，持有此認證的考生會被視為具有足夠的 MySQL 操作與實務經驗，尤其是在目前[開放原始碼社群不斷強打](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[LAMP](../Page/LAMP.md "wikilink")系統架構下，MySQL 資料庫實已佔有十分重要的地位，而在開放原始碼社群中，具有客觀公正評量方法的技術或軟體十分少見，因此 MySQL 的認證更具有其參考價值。
 
 MySQL 認證自 MySQL 4.x（2005年）時開始開放考試\[2\]，當時 MySQL 認證分為 Core 和 Professional 兩種，並未依職務區分，到了 5.0 版時，才開始依職務區分。

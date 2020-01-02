@@ -1,3 +1,6 @@
+> 本文内容由[Rsync](https://zh.wikipedia.org/wiki/Rsync)转换而来。
+
+
 **rsync**是[Unix下的一款](https://zh.wikipedia.org/wiki/Unix "wikilink")[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，它能[同步更新两处计算机的](https://zh.wikipedia.org/wiki/同步 "wikilink")[檔案與](../Page/電腦檔案.md "wikilink")[目錄](https://zh.wikipedia.org/wiki/目錄_\(文件系统\) "wikilink")，並適當利用[差分編碼以減少](https://zh.wikipedia.org/wiki/差分編碼 "wikilink")[数据傳輸量](https://zh.wikipedia.org/wiki/数据 "wikilink")。rsync中的一項同类软件不常见的重要特性是每個目標的[镜像只需傳送一次](../Page/网站镜像.md "wikilink")。rsync可以拷貝／顯示目錄內容，以及拷貝檔案，並可選[壓縮以及](../Page/数据压缩.md "wikilink")[遞歸拷貝](https://zh.wikipedia.org/wiki/遞歸_\(計算機科學\) "wikilink")。
 
 在常駐模式（daemon mode）下，rsync預設監聽[TCP](../Page/传输控制协议.md "wikilink")[埠](https://zh.wikipedia.org/wiki/TCP/UDP端口列表 "wikilink")873，以原生rsync傳輸協定或者透過遠端[shell如](https://zh.wikipedia.org/wiki/shell "wikilink")[RSH或者](https://zh.wikipedia.org/wiki/RSH "wikilink")[SSH提供檔案](../Page/Secure_Shell.md "wikilink")。SSH模式下，rsync用戶端執行程式必須同時在本地和遠端機器上安裝。

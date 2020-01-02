@@ -1,3 +1,6 @@
+> 本文内容由[Eidos機構](https://zh.wikipedia.org/wiki/Eidos機構)转换而来。
+
+
 **eidos機構**（）是[澳大利亞的一個獨立](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[研究機構及](https://zh.wikipedia.org/wiki/研究機構 "wikilink")[智庫](../Page/智庫.md "wikilink")。成立於2006年，eidos的成立目的在於為優質[教育](../Page/教育.md "wikilink")、[人力市場](https://zh.wikipedia.org/wiki/人力市場 "wikilink")、[社會政策及](https://zh.wikipedia.org/wiki/社會政策 "wikilink")[人力資源提供新的意念及對話平台](https://zh.wikipedia.org/wiki/人力資源 "wikilink")。根據機構的主要目的是要建立\[1\]：
 
 ## 成員

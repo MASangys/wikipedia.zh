@@ -1,3 +1,6 @@
+> 本文内容由[Baobab](https://zh.wikipedia.org/wiki/Baobab)转换而来。
+
+
 **1.Baobab**，又称**磁盘使用分析**，是一个[GNOME](../Page/GNOME.md "wikilink")环境下图形化的磁盘空间分析软件。它是GnomeUtils的一部分。\[1\]
 
 **2.Baobab**，**猴面包树**，是一种非洲巨木。这种巨树主要因其巨大切肿胀的树干以及果实而闻名，又被称为“monkey bread” 。

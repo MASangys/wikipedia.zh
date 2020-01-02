@@ -1,3 +1,6 @@
+> 本文内容由[Princess Rose](https://zh.wikipedia.org/wiki/Princess_Rose)转换而来。
+
+
 **Princess Rose**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第11張單曲，由[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")於2006年12月20日發行（由[KING RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")），商品編號為GBCM-15。
 
 ## 概要

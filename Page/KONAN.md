@@ -1,3 +1,6 @@
+> 本文内容由[KONAN](https://zh.wikipedia.org/wiki/KONAN)转换而来。
+
+
 **KONAN**（）是一位[日本](../Page/日本.md "wikilink")女性[歌手](../Page/歌手.md "wikilink")、[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")、[寫真偶像](../Page/寫真偶像.md "wikilink")，曾经当过[賽車女郎](../Page/賽車女郎.md "wikilink")。亦曾是[女子偶像組合](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")[SDN48](../Page/SDN48.md "wikilink")以及偶像舞蹈組合[SOUL TIGER的成員](https://zh.wikipedia.org/wiki/SOUL_TIGER "wikilink")。旧藝名为**虎南有美**。
 
 出生于日本大阪市生野区寺田町，现在隶属于[One Eight Promotion经纪公司](https://zh.wikipedia.org/wiki/One_Eight_Promotion "wikilink")。

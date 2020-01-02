@@ -1,3 +1,6 @@
+> 本文内容由[喬治·R·R·馬丁](https://zh.wikipedia.org/wiki/喬治·R·R·馬丁)转换而来。
+
+
 **乔治·-{zh-cn:雷蒙德;zh-tw:瑞蒙;zh-hk:偉文;}-·-{zh-cn:理查德;zh-tw:李察;zh-hk:理查;}-·马丁**（，，常称**GRRM**、**喬治·R·R·馬丁**），[美国](../Page/美国.md "wikilink")作家及编剧，主要创作奇幻、恐怖和科幻等風格的作品。《[冰与火之歌](https://zh.wikipedia.org/wiki/冰与火之歌 "wikilink")》系列小说是他的代表作，其中前五部已被改编成[电视剧在](../Page/权力的游戏_\(电视剧\).md "wikilink")[HBO](../Page/HBO.md "wikilink")播出。2005年被《[時代](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》雜誌的作者列弗·格羅斯曼（Lev Grossman）稱為美國的[J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")。\[1\] 此外被《时代》评选为2011年[時代百大人物之一](https://zh.wikipedia.org/wiki/時代百大人物 "wikilink")。\[2\]\[3\]
 
 ## 生平

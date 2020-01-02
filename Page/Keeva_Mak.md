@@ -1,3 +1,6 @@
+> 本文内容由[Keeva Mak](https://zh.wikipedia.org/wiki/Keeva_Mak)转换而来。
+
+
 《**Keeva Mak**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[麥家瑜](../Page/麥家瑜.md "wikilink")的首張同名大碟，於2009年10月23日推出。\[1\]
 
 ## 專輯簡介
@@ -73,7 +76,7 @@
 
 ## 外部連結
 
-  - [Keeva Mak - 麥家瑜 Debut（官方介紹網站）](http://umg.com.hk/minisite/keeva_debut/)
+  - [Keeva Mak - 麥家瑜 Debut（官方介紹網站）](https://web.archive.org/web/20160312162413/http://umg.com.hk/minisite/keeva_debut/)
 
 [Category:麥家瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:麥家瑜音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 

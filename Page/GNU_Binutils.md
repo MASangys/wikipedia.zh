@@ -1,3 +1,6 @@
+> 本文内容由[GNU Binutils](https://zh.wikipedia.org/wiki/GNU_Binutils)转换而来。
+
+
 **[GNU](../Page/GNU.md "wikilink") Binary Utilities**或**binutils**是一整套的[程式語言工具程式](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，用來處理許多格式的[目的檔](https://zh.wikipedia.org/wiki/目的檔 "wikilink")。當前的版本原本由在[Cygnus Solutions的程式員以](https://zh.wikipedia.org/wiki/Cygnus_Solutions "wikilink")[Binary File Descriptor library](https://zh.wikipedia.org/wiki/Binary_File_Descriptor_library "wikilink")（libbfd）所撰寫。這個工具程式通常搭配[GCC](../Page/GCC.md "wikilink")、[make](https://zh.wikipedia.org/wiki/make "wikilink")、和[GDB這些程式來使用](https://zh.wikipedia.org/wiki/GNU_Debugger "wikilink")。
 
 剛開始時，這個套件內只有幾支程式，但後來，由於功能需求近似，陸續加入了[GNU組譯器](https://zh.wikipedia.org/wiki/GNU組譯器 "wikilink")（GAS）和[GNU連結器](https://zh.wikipedia.org/wiki/GNU連結器 "wikilink")（GLD）。一般來說，這些程式都很簡單，大部分的複雜性都存在於[Binary File Descriptor library和](https://zh.wikipedia.org/wiki/Binary_File_Descriptor_library "wikilink")[libopcodes這些函式庫裡頭](https://zh.wikipedia.org/wiki/libopcodes "wikilink")。

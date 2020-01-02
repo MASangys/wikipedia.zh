@@ -1,3 +1,6 @@
+> 本文内容由[WWE 冠軍](https://zh.wikipedia.org/wiki/WWE_冠軍)转换而来。
+
+
 **WWE 冠軍**（）\[1\]，是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")。WWE世界冠軍於1963年成立於世界摔角娛樂最早的前身，也就是當時的世界廣泛摔角聯盟（WWWF）。WWE世界冠軍是世界摔角娛樂自創建公司以來，所保留最久、被公認最富盛名的冠軍項目。
 
 ## 歷史
@@ -112,54 +115,29 @@ WWE世界重量級冠軍的最多勝利次數保持人是John Cena，其記錄�
 
 1.
 2.
-
 3.
-
 4.  [WCW World Champion - Chris Jericho](http://www.wwe.com/inside/titlehistory/wcwchampionship/3044541104)  at WWE.com
-
 5.  [The complex history of WWE's era of unification](http://www.wwe.com/classics/era-of-unification/page-5). WWE.com (2012-09-12). Retrieved on 2013-09-05.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
 16.
-
 17. "7 Championship Secrets Finally Revealed". (July 2009). WWE Magazine, p. 37.
-
 18.
-
 19.
-
 20. Murphy, Ryan. (2013-02-19) [The making of the new WWE Title: How the WWE Championship was reinvented in 540 days](http://www.wwe.com/inside/the-making-of-the-new-wwe-title-26092146/page-2) . WWE.com. Retrieved on 2013-09-05.
-
 21. Murphy, Ryan. (2013-02-19) [The making of the new WWE Title: How the WWE Championship was reinvented in 540 days](http://www.wwe.com/inside/the-making-of-the-new-wwe-title-26092146/page-2) . WWE.com. Retrieved on 2013-09-05.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.

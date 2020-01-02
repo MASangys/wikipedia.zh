@@ -1,3 +1,6 @@
+> 本文内容由[BMW X6](https://zh.wikipedia.org/wiki/BMW_X6)转换而来。
+
+
 **BMW X6**是[寶馬自](https://zh.wikipedia.org/wiki/寶馬 "wikilink")2008年開始銷售的豪華[跨界休旅車](../Page/跨界休旅車.md "wikilink")，雖然外形接近[运动型多用途车](../Page/运动型多用途车.md "wikilink")，寶馬稱其設計概念為**Sports Activity Coupe**，主要對手為[荒原路華及](https://zh.wikipedia.org/wiki/荒原路華 "wikilink")[保時捷卡宴](https://zh.wikipedia.org/wiki/保時捷卡宴 "wikilink")、[梅賽德斯 - 奔馳M級](https://zh.wikipedia.org/wiki/梅賽德斯_-_奔馳M級 "wikilink")，即全新類型的汽車。
 
 ## ActiveHybrid X6 (2009-)

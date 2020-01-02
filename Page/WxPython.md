@@ -1,3 +1,6 @@
+> 本文内容由[WxPython](https://zh.wikipedia.org/wiki/WxPython)转换而来。
+
+
 **wxPython**是[Python](../Page/Python.md "wikilink")语言的[GUI工具包](https://zh.wikipedia.org/wiki/GUI "wikilink")，作为Python的扩展模块实现，包装了[wxWidgets](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")。
 
 wxPython是跨平台的，开源的。

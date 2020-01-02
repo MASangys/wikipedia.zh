@@ -1,3 +1,6 @@
+> 本文内容由[GmailFS](https://zh.wikipedia.org/wiki/GmailFS)转换而来。
+
+
 **GmailFS**是一個[虛擬檔案系統](https://zh.wikipedia.org/wiki/虛擬檔案系統 "wikilink")，由[理查德·瓊斯開發](https://zh.wikipedia.org/wiki/理查德·瓊斯 "wikilink")，透過用戶的[Gmail](../Page/Gmail.md "wikilink")電郵帳號來作檔案儲存。GmailFS本身是為[Linux](../Page/Linux.md "wikilink")系統而寫，並應用了其[FUSE](../Page/FUSE.md "wikilink")技術，但亦有人把這系統轉移到[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS X上運行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 GmailFS的核心是一個以[Python](../Page/Python.md "wikilink")編寫的`libgmail`程式庫，作為FUSE與Gmail系統溝通的中介。整個GmailFS亦是以Python來創建。

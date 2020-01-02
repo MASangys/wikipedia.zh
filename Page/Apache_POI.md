@@ -1,3 +1,6 @@
+> 本文内容由[Apache POI](https://zh.wikipedia.org/wiki/Apache_POI)转换而来。
+
+
 **Apache POI**是[Apache軟件基金會的開放源碼](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[函式庫](../Page/函式庫.md "wikilink")，POI提供API給[Java](../Page/Java.md "wikilink")程式對[Microsoft Office格式檔案讀和寫的功能](../Page/Microsoft_Office.md "wikilink")。 .NET的開發人員則可以利用NPOI（POI for .NET）來存取POI的功能。
 
 ## 結構

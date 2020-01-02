@@ -1,3 +1,6 @@
+> 本文内容由[PLZ-07自行榴弹炮](https://zh.wikipedia.org/wiki/PLZ-07自行榴弹炮)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:PLZ-07_self-propelled_howitzer.jpg "fig:缩略图") **PLZ-07自行榴弹炮**也称为**07式122毫米自行榴弹炮**或**07式122毫米自行火炮**，是[中國人民解放軍装备的第三代](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")122毫米口径的[自行火炮](../Page/自行火炮.md "wikilink")\[1\]。
 
 PLZ-07自行榴弹炮参加了2009年10月1日的[中华人民共和国国庆60周年阅兵式](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在装备方队的第10位，由[中国人民解放军陆军](../Page/中国人民解放军陆军.md "wikilink")[第38集团军机械化步兵第](https://zh.wikipedia.org/wiki/中国人民解放军第38集团军 "wikilink")113师第338团（“红军团”）的成员驾驶。

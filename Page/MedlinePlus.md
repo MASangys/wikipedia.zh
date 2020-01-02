@@ -1,3 +1,6 @@
+> 本文内容由[MedlinePlus](https://zh.wikipedia.org/wiki/MedlinePlus)转换而来。
+
+
 **MedlinePlus**與**MedlinePlus醫學百科**（**MedlinePlus Medical Encyclopedia**）是一個存放有关健康与医疗訊息的網站，內容來自屬於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[國家衛生研究院的](https://zh.wikipedia.org/wiki/國家衛生研究院_\(美國\) "wikilink")[美國國家醫學圖書館](https://zh.wikipedia.org/wiki/美國國家醫學圖書館 "wikilink")（United States National Library of Medicine）。除此之外，也提供了線上醫學辭典，以及藥物索引、醫學新聞報導等服務。
 
 ## 参见

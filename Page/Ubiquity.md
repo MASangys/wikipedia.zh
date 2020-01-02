@@ -1,3 +1,6 @@
+> 本文内容由[Ubiquity](https://zh.wikipedia.org/wiki/Ubiquity)转换而来。
+
+
 ****是一个由[Mozilla Labs于](https://zh.wikipedia.org/wiki/Mozilla_Labs "wikilink")2008年8月26日推出的[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[附加组件](https://zh.wikipedia.org/wiki/Firefox附加组件 "wikilink")。\[1\]是一种[混搭](https://zh.wikipedia.org/wiki/混搭 "wikilink")，利用各种[网络服务提供的](https://zh.wikipedia.org/wiki/网络服务 "wikilink")，将用户进行的各项工作集成在一起，简化用户的操作。根据[阿薩·拉斯金](../Page/阿薩·拉斯金.md "wikilink")在[Vimeo](../Page/Vimeo.md "wikilink")上发布的视频，用户如果想要与朋友预约吃中午饭，只需要在Ubiquity中输入几个命令即可，不需要再到[Gmail](../Page/Gmail.md "wikilink")，[Google地图](../Page/Google地图.md "wikilink")，[Google日历和](https://zh.wikipedia.org/wiki/Google日历 "wikilink")[yelp等网站上一一处理](https://zh.wikipedia.org/wiki/yelp "wikilink")\[2\]。
 
 ## 简介

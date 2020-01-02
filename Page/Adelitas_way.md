@@ -1,3 +1,6 @@
+> 本文内容由[Adelitas way](https://zh.wikipedia.org/wiki/Adelitas_way)转换而来。
+
+
 Adelitas Way 是一支来自于拉斯维加斯的硬摇滚乐队，于2006年在内华达组建。
 
 ## 历史

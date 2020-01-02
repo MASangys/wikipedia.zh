@@ -1,3 +1,6 @@
+> 本文内容由[Delta位勢阱](https://zh.wikipedia.org/wiki/Delta位勢阱)转换而来。
+
+
 [Deltawell.png](https://zh.wikipedia.org/wiki/File:Deltawell.png "fig:Deltawell.png")。往左與往右的[行進波的振幅與方向都分別表示於圖內](https://zh.wikipedia.org/wiki/行進波 "wikilink")。用來計算[透射係數](../Page/透射係數.md "wikilink")與[反射係數的](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[行進波都以紅色表示](https://zh.wikipedia.org/wiki/行進波 "wikilink")。\]\] 在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢阱**是一個[阱內位勢為負](../Page/势阱.md "wikilink")[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，阱外位勢為0的位勢阱。**Delta位勢阱問題**專門研討，在這種位勢的作用中，一個粒子的量子行為。這是一個常見的理論問題。假若，粒子的能量是正值的，我們想要知道的是，在被Delta位勢壘[散射](../Page/散射.md "wikilink")的狀況下，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。假若，粒子的能量是負值的，這粒子會被束縛於Delta位勢阱的阱內。這時，我們想要知道的是粒子的能量與束縛的量子態。
 
 ## 定義

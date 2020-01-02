@@ -1,3 +1,6 @@
+> 本文内容由[Pico](https://zh.wikipedia.org/wiki/Pico)转换而来。
+
+
 **Pico**(**PI**ne **CO**mposer)\[1\]是[Unix操作系统中最常见的三种文字处理软件之一](https://zh.wikipedia.org/wiki/Unix "wikilink")\[2\]，具有文字编辑、搜索、[拼写检查](https://zh.wikipedia.org/wiki/拼写检查 "wikilink")、文件浏览和段对齐功能\[3\]，适合高效地编辑短小的文件\[4\]。
 
 Pico是由华盛顿大学开发的免费软件，随着[pine电子邮件处理软件发布](https://zh.wikipedia.org/wiki/pine "wikilink")\[5\]。它是在[Emacs](../Page/Emacs.md "wikilink")的基础上以pine的邮件编辑为目标而开发的\[6\]，所以其指令集是Emacs的子集\[7\]，但是由于在界面上有提示[快捷键](../Page/快捷键.md "wikilink")，相对于[vi和](https://zh.wikipedia.org/wiki/vi "wikilink")[Emacs](../Page/Emacs.md "wikilink")来说更加容易使用\[8\]。

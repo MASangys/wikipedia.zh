@@ -1,3 +1,6 @@
+> 本文内容由[Apple機頂盒](https://zh.wikipedia.org/wiki/Apple機頂盒)转换而来。
+
+
 [Apple_interactive_television_box.jpg](https://zh.wikipedia.org/wiki/File:Apple_interactive_television_box.jpg "fig:Apple_interactive_television_box.jpg") **蘋果機頂盒**（Apple Interactive Television Box）是一台由蘋果電腦（即今[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")）與包括[英國電信](../Page/英國電信.md "wikilink")與[比利時電信在內等多個](https://zh.wikipedia.org/wiki/比利時電信 "wikilink")[國家的](https://zh.wikipedia.org/wiki/國家 "wikilink")[電訊公司合作開發的](https://zh.wikipedia.org/wiki/電訊公司 "wikilink")[機頂盒](https://zh.wikipedia.org/wiki/機頂盒 "wikilink")，樣機於1994年至1995年期間在[美國與](https://zh.wikipedia.org/wiki/美國 "wikilink")[歐洲部份地區進行測試](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，但該產品在隨後被取消，未曾進行過大量生產或上市。
 
 該機頂盒設計作為[消費者與](https://zh.wikipedia.org/wiki/消費者 "wikilink")[互動電視服務之間的界面](https://zh.wikipedia.org/wiki/互動電視 "wikilink")，其[遙控器讓用戶選擇在連接的](https://zh.wikipedia.org/wiki/遙控器 "wikilink")[電視機上顯示的內容以及提供快轉與重播等功能](https://zh.wikipedia.org/wiki/電視機 "wikilink")，在這方面與現時的[衛星接收器或](https://zh.wikipedia.org/wiki/衛星接收器 "wikilink")[TiVo](../Page/TiVo.md "wikilink")裝置相似。但與TiVo不同，該機頂盒只會將用戶的選擇傳送到中央內容[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，而不會自行分發內容。此外，亦制訂了遊戲節目、[兒童用的教材與其他形式可利用裝置上互動能力內容的計劃](https://zh.wikipedia.org/wiki/兒童 "wikilink")。

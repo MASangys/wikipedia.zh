@@ -1,3 +1,6 @@
+> 本文内容由[ATP世界巡迴賽紀錄](https://zh.wikipedia.org/wiki/ATP世界巡迴賽紀錄)转换而来。
+
+
 **ATP世界巡迴賽紀錄**是[國際男子職業網球總會](https://zh.wikipedia.org/wiki/國際男子職業網球總會 "wikilink")（Association of Tennis Professionals）在1972年創立之後，球員在[大滿貫](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")、[1000大師賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽1000大師賽 "wikilink")、[500巡迴賽](https://zh.wikipedia.org/wiki/ATP世界巡迴賽500賽 "wikilink")、[250巡迴賽等賽事中所創造的重要紀錄](https://zh.wikipedia.org/wiki/ATP世界巡迴賽250賽 "wikilink")。
 
 ## 單打

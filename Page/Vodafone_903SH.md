@@ -1,3 +1,6 @@
+> 本文内容由[Vodafone 903SH](https://zh.wikipedia.org/wiki/Vodafone_903SH)转换而来。
+
+
 **Vodafone 903SH**是[日本](../Page/日本.md "wikilink")[Vodefone JP](https://zh.wikipedia.org/wiki/Vodafone "wikilink")（現為[軟銀](https://zh.wikipedia.org/wiki/Softbank "wikilink")）發售的[3G](../Page/3G.md "wikilink")[手提電話](https://zh.wikipedia.org/wiki/手提電話 "wikilink")，支援Vodefone JP（現為軟銀）[3G](../Page/3G.md "wikilink")網絡服務。Vodafone 903SH於2005年8月12日開始在日本發售，並且擁有當時屬最高階規的320萬像素[CCD鏡頭](https://zh.wikipedia.org/wiki/CCD "wikilink")，由[SHARP製造](https://zh.wikipedia.org/wiki/夏普 "wikilink")。
 
 [香港](../Page/香港.md "wikilink")版本由[Smartone-Vodafone於](../Page/數碼通.md "wikilink")2005年9月獨家發售，型號為SX833，當時售價為港幣5680\[1\]。[台灣方面則由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[夏普與](https://zh.wikipedia.org/wiki/夏普 "wikilink")[遠傳電信](../Page/遠傳電信.md "wikilink")合作推出，型號為WX-T91，售價為台幣14699\[2\]。

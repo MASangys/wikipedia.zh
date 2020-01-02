@@ -1,3 +1,6 @@
+> 本文内容由[仙女座V](https://zh.wikipedia.org/wiki/仙女座V)转换而来。
+
+
 **仙女座 Ⅴ**是一個距離大約252萬[光年](../Page/光年.md "wikilink")，位於[仙女座](../Page/仙女座.md "wikilink")的[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[PRISM ARK](https://zh.wikipedia.org/wiki/PRISM_ARK)转换而来。
+
+
 《**PRISM ARK**》（プリズム・アーク 〜プリズム・ハート エピソード2〜）是日本PAJAMAS SOFT在2006年8月25日發售的[戰略角色扮演類型](https://zh.wikipedia.org/wiki/戰略角色扮演 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，是2000年發售的《[PRISM HEART](https://zh.wikipedia.org/wiki/PRISM_HEART "wikilink")》的續作。\[1\]前作角色的下一代為今作的主要角色。在[Comic Market](../Page/Comic_Market.md "wikilink") 71中限量發售公式通販本作的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**THERESA to HEART**》（テレサとハート）\[2\]。2008年1月25日發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**LOVE<sup>2</sup> MAXIMUM\!**》（プリズム・アーク らぶらぶマキシマム\!）\[3\]。電視動畫版於2007年10月7日開始播放。2008年4月24日發售PS2移植版《**PRISM ARK -AWAKE-**》。在[Comic Market](../Page/Comic_Market.md "wikilink") 73中發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**じゃらじゃらアーク**》\[4\]\[5\]。在[Comic Market](../Page/Comic_Market.md "wikilink") 74中發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**lovely HELL tan**》（らぶり～ヘルたん）\[6\]。在[Comic Market](../Page/Comic_Market.md "wikilink") 75中發售[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**SPRING has COME**》(すぷりんぐ・はず・かむ)\[7\]和《**小神樂的冒險**》（)\[8\]。
 
 ## 遊戲系統

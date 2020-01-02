@@ -1,3 +1,6 @@
+> 本文内容由[Samantha](https://zh.wikipedia.org/wiki/Samantha)转换而来。
+
+
 《**Samantha**》（中譯：珊曼莎）為日本歌手[木村KAELA](../Page/木村KAELA.md "wikilink")個人的第九張單曲，2007年7月18日由所屬唱片公司[哥倫比亞音樂發行](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")。此次單曲為雙A（雙主打）。
 
 ## 曲目

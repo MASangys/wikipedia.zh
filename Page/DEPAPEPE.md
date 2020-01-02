@@ -1,3 +1,6 @@
+> 本文内容由[DEPAPEPE](https://zh.wikipedia.org/wiki/DEPAPEPE)转换而来。
+
+
 **DEPAPEPE**是一个2002年建立的[日本](../Page/日本.md "wikilink")二人[吉他](../Page/吉他.md "wikilink")组合。小组成员分别是德冈庆也和三浦拓也。
 
 DEPAPEPE 2002年11月由德岡慶也及三浦拓也二人合組而成的DEPAPEPE 當時從神戶到大阪、 京都以及東京，隨著街頭表演的經驗累積，DEPAPEPE瞬間開啟了知名度及人氣。

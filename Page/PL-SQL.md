@@ -1,3 +1,6 @@
+> 本文内容由[PL-SQL](https://zh.wikipedia.org/wiki/PL-SQL)转换而来。
+
+
 **PL/SQL**（Procedural Language/SQL）是[甲骨文公司](../Page/甲骨文公司.md "wikilink")專有的[SQL](../Page/SQL.md "wikilink")擴展語言，應用在[甲骨文公司](../Page/甲骨文公司.md "wikilink")的[Oracle](https://zh.wikipedia.org/wiki/Oracle "wikilink")[数据库系統](https://zh.wikipedia.org/wiki/数据库系統 "wikilink")。一些的[SQL](../Page/SQL.md "wikilink")[数据库管理系統也提供了類似的](https://zh.wikipedia.org/wiki/数据库管理系統 "wikilink")[擴展SQL語言](https://zh.wikipedia.org/wiki/擴展SQL語言 "wikilink")。PL/SQL的的[語法非常類似於](https://zh.wikipedia.org/wiki/語法 "wikilink")[Ada](../Page/Ada.md "wikilink")，而且像1980年代的[Ada](../Page/Ada.md "wikilink")編譯器一樣，PL/SQL的運作系統使用[Diana作為](https://zh.wikipedia.org/wiki/Diana "wikilink")[中介語言](https://zh.wikipedia.org/wiki/中介語言 "wikilink")。
 
 重要的是PL/SQL緊密的結合在[Oracle数据库裡面](https://zh.wikipedia.org/wiki/Oracle "wikilink")。

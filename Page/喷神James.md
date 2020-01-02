@@ -1,3 +1,6 @@
+> 本文内容由[喷神James](https://zh.wikipedia.org/wiki/喷神James)转换而来。
+
+
 《**The Angry Video Game Nerd**》（**AVGN**，原意“愤怒-{}-电玩宅”，中國大陸俗称“喷神-{}-James”、“怒之电玩煞星”）是一部[惡搞](../Page/惡搞文化.md "wikilink")[讽刺](../Page/讽刺.md "wikilink")式怀旧[电子游戏](../Page/电子游戏.md "wikilink")评论系列片，由业余制作人**[詹姆斯·罗弗](https://zh.wikipedia.org/wiki/詹姆斯·罗弗 "wikilink")**领衔制作及主持，在[GameTrailers](../Page/GameTrailers.md "wikilink")和ScrewAttack两大平台网站发布，影片亦在[YouTube](../Page/YouTube.md "wikilink")播出。
 
 ## 节目内容及特色

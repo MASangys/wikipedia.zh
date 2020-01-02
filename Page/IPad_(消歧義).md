@@ -1,3 +1,6 @@
+> 本文内容由[IPad \(消歧義\)](https://zh.wikipedia.org/wiki/IPad_\(消歧義\))转换而来。
+
+
 **iPad**可能指：
 
 ## Apple iPad

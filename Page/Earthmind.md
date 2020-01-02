@@ -1,3 +1,6 @@
+> 本文内容由[Earthmind](https://zh.wikipedia.org/wiki/Earthmind)转换而来。
+
+
 **earthmind**（）是一个[日本](../Page/日本.md "wikilink")[演唱團體](https://zh.wikipedia.org/wiki/日本演唱團體 "wikilink")。
 
 ## 概要

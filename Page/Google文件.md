@@ -1,3 +1,6 @@
+> 本文内容由[Google文件](https://zh.wikipedia.org/wiki/Google文件)转换而来。
+
+
 **Google文件編輯器**\[1\]（Google Docs Editors），是[Google](../Page/Google.md "wikilink")提供的網頁式辦公套件在线服務，包含文書處理（**Google文件**）、電子試算表（**Google試算表**）、簡報演示（**Google簡報**）和互動表單（**Google表單**）。用戶可線上免費創建和編輯檔案，同時與其他用戶共同協作。
 
 ## 历史

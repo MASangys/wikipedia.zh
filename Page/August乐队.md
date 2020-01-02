@@ -1,3 +1,6 @@
+> 本文内容由[August乐队](https://zh.wikipedia.org/wiki/August乐队)转换而来。
+
+
 **August樂團''＇（[泰文](https://zh.wikipedia.org/wiki/泰文 "wikilink")：**ออกัส**；[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**'''）是[泰国](../Page/泰国.md "wikilink")的一支[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由平均年龄不到20岁的泰国学生组成。凭借电影《[爱在暹逻](../Page/爱在暹逻.md "wikilink")》而迅速在亚洲走红。
 
 ## 名称由来

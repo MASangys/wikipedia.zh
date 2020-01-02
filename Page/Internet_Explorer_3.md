@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer 3](https://zh.wikipedia.org/wiki/Internet_Explorer_3)转换而来。
+
+
 **Microsoft Internet Explorer 3**（简称**IE3**）是[微軟所開發的一套使用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，它是[Internet Explorer系列中的一部份](../Page/Internet_Explorer.md "wikilink")。這個軟體於1996年8月13日首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")；於1997年1月8日首次發行適用於[Mac OS的版本](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。[Internet Explorer自這個版本起](../Page/Internet_Explorer.md "wikilink")，和當時的[Netscape Navigator成為最大的競爭](https://zh.wikipedia.org/wiki/Netscape_Navigator "wikilink")-{zh-hans:对象; zh-hant:對象}-，加入了[瀏覽器大戰的行列](https://zh.wikipedia.org/wiki/瀏覽器大戰 "wikilink")\[1\]。雖然沒有超越Netscape等瀏覽器，但從這個版本開始，Internet Explorer才有開始被較廣泛的使用，並擁有較大的市佔率。其市場佔有率在這個版本的期間，從1996年初的3-9%直升到1997年底的20-30%\[2\]\[3\]\[4\]。直到1997年9月，這個版本就被[Internet Explorer 4取代](../Page/Internet_Explorer_4.md "wikilink")。
 
 ## 版本發佈

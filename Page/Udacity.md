@@ -1,3 +1,6 @@
+> 本文内容由[Udacity](https://zh.wikipedia.org/wiki/Udacity)转换而来。
+
+
 [Sebastian_Thrun,_Stanford_2006_(square_crop).jpg](https://zh.wikipedia.org/wiki/File:Sebastian_Thrun,_Stanford_2006_\(square_crop\).jpg "fig:Sebastian_Thrun,_Stanford_2006_(square_crop).jpg") [CS101.png](https://zh.wikipedia.org/wiki/File:CS101.png "fig:CS101.png")
 
 **Udacity**是由Sebastian Thrun, David Stavens和Mike Sokolsky注资的一个私立教育组织，它的目标是实现自主學習。\[1\]

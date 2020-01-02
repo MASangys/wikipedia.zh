@@ -1,3 +1,6 @@
+> 本文内容由[寶石寵物 Happiness](https://zh.wikipedia.org/wiki/寶石寵物_Happiness)转换而来。
+
+
 《**寶石寵物 Happiness**》，是[三麗鷗](../Page/三麗鷗.md "wikilink")和[SEGA TOYS共同開發的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物](../Page/寶石寵物.md "wikilink")動畫版的第五作。於2013年4月6日起於[東京電視台](../Page/東京電視台.md "wikilink")播出 。香港[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")於2015年2月15日以「寶石寵物V」的名義播出。
 
 ## 概要
@@ -201,14 +204,14 @@
 #### 主要寶石寵物
 
   -
-    配音員：日本：[齋藤彩夏](../Page/齋藤彩夏.md "wikilink")；香港：[何璐怡](../Page/何璐怡.md "wikilink")
+    配音員：[齋藤彩夏](../Page/齋藤彩夏.md "wikilink")（日本）；[何璐怡](../Page/何璐怡.md "wikilink")（香港）
     一隻女性日本兔。
     與千亞里心靈合一出現心形的[紅寶石及兩個迷你心形的](https://zh.wikipedia.org/wiki/紅寶石 "wikilink")[紅寶石](https://zh.wikipedia.org/wiki/紅寶石 "wikilink")。
 
 <!-- end list -->
 
   -
-    配音員：日本：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")；香港：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（代配）
+    配音員：[平野綾](https://zh.wikipedia.org/wiki/平野綾 "wikilink")（日本）；[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")、[鄭麗麗](../Page/鄭麗麗.md "wikilink")（代配）（香港）
     一隻女性[波斯貓](../Page/波斯貓.md "wikilink")。
     與千亞里心靈合一出現方形的石榴石。
     與寶石寵物咖啡店各人及寶石寵物心靈合一出現兩個迷你方形的石榴石。
@@ -216,7 +219,7 @@
 <!-- end list -->
 
   -
-    配音員：日本：[佐佐木望](../Page/佐佐木望_\(女性聲優\).md "wikilink")；香港：[朱妙蘭](../Page/朱妙蘭.md "wikilink")
+    配音員：[佐佐木望](../Page/佐佐木望_\(女性聲優\).md "wikilink")（日本）；[朱妙蘭](../Page/朱妙蘭.md "wikilink")（香港）
     一隻女性查理斯王小獵犬。
     與寧寧心靈合一出現星形的[藍寶石](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")。
     與梓老師心靈合一出現兩個迷你星形的藍寶石。
@@ -224,7 +227,7 @@
 <!-- end list -->
 
   -
-    配音員：日本：[澤城美雪](../Page/澤城美雪.md "wikilink")；香港：[劉惠雲](../Page/劉惠雲.md "wikilink")
+    配音員：[澤城美雪](../Page/澤城美雪.md "wikilink")（日本）；[劉惠雲](../Page/劉惠雲.md "wikilink")（香港）
     一隻女性[北極熊](../Page/北極熊.md "wikilink")。
     與露露卡心靈合一出現青藍色的鑽石。
     與真知子心靈合一出現兩個青藍色的鑽石。
@@ -232,7 +235,7 @@
 <!-- end list -->
 
   -
-    配音員：日本：[豐崎愛生](../Page/豐崎愛生.md "wikilink")；香港：[成瑤孆](../Page/成瑤孆.md "wikilink")
+    配音員：[豐崎愛生](../Page/豐崎愛生.md "wikilink")（日本）；[成瑤孆](../Page/成瑤孆.md "wikilink")（香港）
     一隻女性[羊駝](https://zh.wikipedia.org/wiki/羊駝 "wikilink")。
     與匠心靈合一出現青藍色的水滴形[天使石及兩個迷你青藍色的水滴形](https://zh.wikipedia.org/wiki/天使石 "wikilink")[天使石](https://zh.wikipedia.org/wiki/天使石 "wikilink")。
     與匠及露露卡心靈合一出現三個迷你青藍色的水滴形[天使石](https://zh.wikipedia.org/wiki/天使石 "wikilink")。
@@ -240,7 +243,7 @@
 <!-- end list -->
 
   -
-    配音員：日本：[茅野愛衣](../Page/茅野愛衣.md "wikilink")；香港：[何寶珊](../Page/何寶珊.md "wikilink")
+    配音員：[茅野愛衣](../Page/茅野愛衣.md "wikilink")（日本）；[何寶珊](../Page/何寶珊.md "wikilink")（香港）
     一隻女性[棕熊](../Page/棕熊.md "wikilink")。
     與涼子心靈合一出現心形的玫瑰石。
     與亞里沙老師心靈合一出現兩個迷你心形的玫瑰石。
@@ -248,183 +251,183 @@
 #### 其他寶石寵物
 
   -
-    配音員：日本：[澤城美雪](../Page/澤城美雪.md "wikilink")；香港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")
+    配音員：[澤城美雪](../Page/澤城美雪.md "wikilink")（日本）；[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")（香港）
     與和泉及老闆心靈合一出現水藍色的小滴形鑽石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[佐佐木望](../Page/佐佐木望_\(女性聲優\).md "wikilink")；香港：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")
+    配音員：[佐佐木望](../Page/佐佐木望_\(女性聲優\).md "wikilink")（日本）；[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")（香港）
     與薔薇心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")；香港：[陳皓宜](../Page/陳皓宜.md "wikilink")
+    配音員：[清水愛](https://zh.wikipedia.org/wiki/清水愛 "wikilink")（日本）；[陳皓宜](../Page/陳皓宜.md "wikilink")（香港）
     與寧寧心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[福山潤](../Page/福山潤.md "wikilink")；香港：[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")
+    配音員：[福山潤](../Page/福山潤.md "wikilink")（日本）；[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")（香港）
     與寶石寵物咖啡店和食堂各人及寶石寵物心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[甲斐田幸](../Page/甲斐田幸.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")
+    配音員：[甲斐田幸](../Page/甲斐田幸.md "wikilink")（日本）；[曾秀清](../Page/曾秀清.md "wikilink")（香港）
     與菖蒲心靈合一出現星形的[橄欖石](https://zh.wikipedia.org/wiki/橄欖石 "wikilink")。
     與眾寶石寵物及千亞里各人心靈合一出現兩顆迷你的星形橄欖石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")；香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
+    配音員：[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")（日本）；[黃淑芬](../Page/黃淑芬.md "wikilink")（香港）
     與睦美心靈合一出現紫色的鑽石。
     與所有參與萬聖節的人心靈合一出現兩顆迷你的紫色鑽石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[宍戶留美](../Page/宍戶留美.md "wikilink")；香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
+    配音員：[宍戶留美](../Page/宍戶留美.md "wikilink")（日本）；[黃淑芬](../Page/黃淑芬.md "wikilink")（香港）
     與幸心靈合一出現[鑽石](https://zh.wikipedia.org/wiki/鑽石 "wikilink")。
-    與幸,千亞里,寧寧,露露卡,露比心靈合一出現兩顆迷你的鑽石。
+    與幸、千亞里、寧寧、露露卡、露比心靈合一出現兩顆迷你的鑽石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[澤城美雪](../Page/澤城美雪.md "wikilink")；香港：[雷碧娜](../Page/雷碧娜.md "wikilink")
+    配音員：[澤城美雪](../Page/澤城美雪.md "wikilink")（日本）；[雷碧娜](../Page/雷碧娜.md "wikilink")（香港）
 
 <!-- end list -->
 
   -
-    配音員：日本：[內海慶子](../Page/內海慶子.md "wikilink")；香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
+    配音員：[內海慶子](../Page/內海慶子.md "wikilink")（日本）；[黃淑芬](../Page/黃淑芬.md "wikilink")（香港）
     與小龍心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[金田晶](../Page/金田晶.md "wikilink")；香港：[陳琴雲](../Page/陳琴雲.md "wikilink")
+    配音員：[金田晶](../Page/金田晶.md "wikilink")（日本）；[陳琴雲](../Page/陳琴雲.md "wikilink")（香港）
     與和泉心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[宍戶留美](../Page/宍戶留美.md "wikilink")；香港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")→[張頌欣](../Page/張頌欣.md "wikilink")
+    配音員：[宍戶留美](../Page/宍戶留美.md "wikilink")（日本）；[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")→[張頌欣](../Page/張頌欣.md "wikilink")（香港）
     與薔薇心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[江里夏](../Page/江里夏.md "wikilink")；香港：[謝潔貞](../Page/謝潔貞.md "wikilink")
+    配音員：[江里夏](../Page/江里夏.md "wikilink")（日本）；[謝潔貞](../Page/謝潔貞.md "wikilink")（香港）
     與梓老師心靈合一出現一個黃色星形的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[竹內順子](../Page/竹內順子.md "wikilink")；香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
+    配音員：[竹內順子](../Page/竹內順子.md "wikilink")（日本）；[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（香港）
     與毛利心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[KENN](../Page/KENN.md "wikilink")；香港：[周倚天](../Page/周倚天.md "wikilink")
+    配音員：[KENN](../Page/KENN.md "wikilink")（日本）；[周倚天](../Page/周倚天.md "wikilink")（香港）
     與露露卡及奈娜心靈合一出現紅色的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[上田燿司](../Page/上田燿司.md "wikilink")；香港：[關令翹](../Page/關令翹.md "wikilink")
+    配音員：[上田燿司](../Page/上田燿司.md "wikilink")（日本）；[關令翹](../Page/關令翹.md "wikilink")（香港）
     與尤美香和玩偶心靈合一出現黑色的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[皆川純子](../Page/皆川純子.md "wikilink")；香港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")
+    配音員：[皆川純子](../Page/皆川純子.md "wikilink")（日本）；[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")（香港）
     與真田心靈合一出現星型的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：；香港：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")
+    配音員：（日本）；[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")（香港）
     與梓老師心靈合一出現一個心形的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[酒井香奈子](../Page/酒井香奈子.md "wikilink")；香港：[沈小蘭](../Page/沈小蘭.md "wikilink")
+    配音員：[酒井香奈子](../Page/酒井香奈子.md "wikilink")（日本）；[沈小蘭](../Page/沈小蘭.md "wikilink")（香港）
     與寧寧心靈合一出現心形的[藍寶石](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")。
 
 <!-- end list -->
 
   -
-    配音員：日：[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")；香港：[袁淑珍](../Page/袁淑珍.md "wikilink")
+    配音員：[木內秀信](https://zh.wikipedia.org/wiki/木內秀信 "wikilink")（日本）；[袁淑珍](../Page/袁淑珍.md "wikilink")（香港）
     與真知子心靈合一出現一個紫色星形的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：；香港：[陳琴雲](../Page/陳琴雲.md "wikilink")
+    配音員：（日本）；[陳琴雲](../Page/陳琴雲.md "wikilink")（香港）
     與露露卡心靈合一出現橘黃色的水滴形寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[岡野浩介](https://zh.wikipedia.org/wiki/岡野浩介 "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")
+    配音員：[岡野浩介](https://zh.wikipedia.org/wiki/岡野浩介 "wikilink")（日本）；[蔡惠萍](../Page/蔡惠萍.md "wikilink")（香港）
     與睦美心靈合一出現水色的鑽石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[竹內順子](../Page/竹內順子.md "wikilink")；香港：[謝潔貞](../Page/謝潔貞.md "wikilink")
+    配音員：[竹內順子](../Page/竹內順子.md "wikilink")（日本）；[謝潔貞](../Page/謝潔貞.md "wikilink")（香港）
     與千亞里心靈合一出現寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[竹內順子](../Page/竹內順子.md "wikilink")；香港：[陳皓宜](../Page/陳皓宜.md "wikilink")
+    配音員：[竹內順子](../Page/竹內順子.md "wikilink")（日本）；[陳皓宜](../Page/陳皓宜.md "wikilink")（香港）
     與露露卡和醫護室老師心靈合一出現藍色的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：；香港：[黃淑芬](../Page/黃淑芬.md "wikilink")
+    配音員：（日本）；[黃淑芬](../Page/黃淑芬.md "wikilink")（香港）
     與亞比路心靈合一出現心形的綠寶石。
 
 <!-- end list -->
 
   -
-    配音員：日本：[尾崎惠](../Page/尾崎惠.md "wikilink")；香港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")
-    喜歡莎菲.
+    配音員：[尾崎惠](../Page/尾崎惠.md "wikilink")（日本）；[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")（香港）
+    喜歡莎菲。
     與莎菲和寶石學園眾人心靈合一出現綠色的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日：[吉田仁美](../Page/吉田仁美.md "wikilink")；香港：[魏惠娥](../Page/魏惠娥.md "wikilink")
+    配音員：[吉田仁美](../Page/吉田仁美.md "wikilink")（日本）；[魏惠娥](../Page/魏惠娥.md "wikilink")（香港）
     與和泉心靈合一出現綠色的寶石。
 
 <!-- end list -->
 
   -
-    配音員：日：[五十嵐裕美](../Page/五十嵐裕美.md "wikilink")；香港：[黃麗芳](../Page/黃麗芳.md "wikilink")
+    配音員：[五十嵐裕美](../Page/五十嵐裕美.md "wikilink")（日本）；[黃麗芳](../Page/黃麗芳.md "wikilink")（香港）
     與薔薇心靈合一出現紫色的鑽石。
 
 <!-- end list -->
 
   -
-    配音員：日：[悠木碧](../Page/悠木碧.md "wikilink")；香港：[張頌欣](../Page/張頌欣.md "wikilink")
+    配音員：[悠木碧](../Page/悠木碧.md "wikilink")（日本）；[張頌欣](../Page/張頌欣.md "wikilink")（香港）
     與毛利和寧寧心靈合一出現心型的紫色寶石。
 
 <!-- end list -->
 
   -
-    配音員：日：[田丸篤志](../Page/田丸篤志.md "wikilink")；香港：[李凱傑](../Page/李凱傑.md "wikilink")
+    配音員：[田丸篤志](../Page/田丸篤志.md "wikilink")（日本）；[李凱傑](../Page/李凱傑.md "wikilink")（香港）
 
 ### 甜品寵物
 
   -
-    配音員：日本：[日高里菜](../Page/日高里菜.md "wikilink")；港：[張頌欣](../Page/張頌欣.md "wikilink")
+    配音員：[日高里菜](../Page/日高里菜.md "wikilink")（日本）；[張頌欣](../Page/張頌欣.md "wikilink")（香港）
 
 ## 道具
 

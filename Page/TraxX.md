@@ -1,3 +1,6 @@
+> 本文内容由[TraxX](https://zh.wikipedia.org/wiki/TraxX)转换而来。
+
+
 **TraxX**，為[SM Entertainment旗下的EDM樂團](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。出道於2004年，韓國出道名為 THE TRAX（日本活動則是 TRAX），作为摇滚乐团，以日本為首先發展目標，當時被其所屬公司—[SM Entertainment稱為是秘密武器](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")；後統一更名為TRAX；2018年3月加入新成员、更名为TraxX，并将曲风转变为EDM。
 
 現在的TRAX是Jay、政模、Ginjo三人形式組合進行活動。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[Megpoid](https://zh.wikipedia.org/wiki/Megpoid)转换而来。
+
+
 是[Internet有限公司以](https://zh.wikipedia.org/wiki/INTERNET_\(公司\) "wikilink")[Yamaha的](https://zh.wikipedia.org/wiki/Yamaha "wikilink")[VOCALOID2語音合成引擎為基礎開發販售的虛擬女性歌手軟件](https://zh.wikipedia.org/wiki/VOCALOID2 "wikilink")。收錄聲優中島愛錄音製作而成的語音資料庫，2015年12月發佈Megpoid V4聲庫。
 
 ## 軟件簡介

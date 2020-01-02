@@ -1,3 +1,6 @@
+> 本文内容由[Phone-in](https://zh.wikipedia.org/wiki/Phone-in)转换而来。
+
+
 **Phone-in 節目**，[香港](../Page/香港.md "wikilink")譯做**烽煙節目**，[台灣稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**叩應（Call-in）節目**，是一種[即時](https://zh.wikipedia.org/wiki/實時 "wikilink")[現場直播](../Page/現場直播.md "wikilink")，讓觀眾致電與節目主持人或嘉賓直接對話、發表意見的節目。**Phone-in 節目**可以是[電台節目](https://zh.wikipedia.org/wiki/電台 "wikilink")，也可以是[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")。它的作用，主要是作為溝通雙方面的平台，使大家可以平等直接的對話。
 
 ## 政治名嘴

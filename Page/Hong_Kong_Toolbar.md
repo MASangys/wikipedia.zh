@@ -1,3 +1,6 @@
+> 本文内容由[Hong Kong Toolbar](https://zh.wikipedia.org/wiki/Hong_Kong_Toolbar)转换而来。
+
+
 [HKToolbar_icon.svg](https://zh.wikipedia.org/wiki/File:HKToolbar_icon.svg "fig:HKToolbar_icon.svg")
 
 **Hong Kong Toolbar**（簡稱：**HKToolbar**）是一個由[香港商業電台](../Page/香港商業電台.md "wikilink")旗下[商台互動開發的多媒體資訊](https://zh.wikipedia.org/wiki/商台互動 "wikilink")、結合[點對點及](https://zh.wikipedia.org/wiki/點對點 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")技術的[免費軟件](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")，作為商業電台網上數碼高清廣播平台，同時配合商台網站881903.com提供視像節目重溫「視電台」及文字新聞資訊。

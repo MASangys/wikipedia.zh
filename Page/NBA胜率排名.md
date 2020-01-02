@@ -1,3 +1,6 @@
+> 本文内容由[NBA胜率排名](https://zh.wikipedia.org/wiki/NBA胜率排名)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

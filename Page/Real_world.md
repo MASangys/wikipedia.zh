@@ -1,3 +1,6 @@
+> 本文内容由[Real world](https://zh.wikipedia.org/wiki/Real_world)转换而来。
+
+
 《**real world**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第15張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2004年6月30日於日本發行。Oricon最高排行第1、初動銷量7.7萬張、累計銷量12.6萬張
 
 ## 概要

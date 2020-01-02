@@ -1,3 +1,6 @@
+> 本文内容由[Keep Tryin\'](https://zh.wikipedia.org/wiki/Keep_Tryin\')转换而来。
+
+
 《**Keep Tryin**'》（台灣EMI公司譯為勇往直前）是[宇多田光](../Page/宇多田光.md "wikilink")的第16張日語單曲，於2006年2月22日發行，初動7萬張，累計銷售12萬張。
 
 本單曲是自《[COLORS](https://zh.wikipedia.org/wiki/COLORS_\(單曲\) "wikilink")》以來，再次有B面歌曲收錄在內；以及自《[如願以償](../Page/如願以償.md "wikilink")》以來，再次收錄單曲A面歌曲的純音樂版本。

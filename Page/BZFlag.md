@@ -1,3 +1,6 @@
+> 本文内容由[BZFlag](https://zh.wikipedia.org/wiki/BZFlag)转换而来。
+
+
 《**BZFlag**》 ( ***B**attle **Z**one capture the **Flag***) 是三维第一人称坦克射击游戏。Chris Schoeneman原为SGI系列计算机编写，基于经典游戏 [Battlezone](https://zh.wikipedia.org/wiki/Battlezone "wikilink")。[Tim Riker和一个团队维护现在的版本](https://zh.wikipedia.org/wiki/Tim_Riker "wikilink")，而且已经开源了。这个项目的资源都在[SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")。虽然以前位[SGI](https://zh.wikipedia.org/wiki/Silicon_Graphics "wikilink") 计算机运行的[IRIX](../Page/IRIX.md "wikilink")设计，现在已经支持[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[BSD](../Page/BSD.md "wikilink")，[Solaris](../Page/Solaris.md "wikilink")，和其他平台。
 
 BZFlag相当流行，2004年12月11日，成为SourceForge.net第三个下载量突破100万的游戏项目。任何时候都有至少250个活动的服务器， 10-20%有玩家\[1\]2008年10月31日，有21300多玩家在官方论坛注册。 \[2\]任意时间都可以看到至少200多世界各地玩家在线。 BZFlag 曾是 SourceForge.net的 Project of the Month for April 2004。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Blackmagic Design](https://zh.wikipedia.org/wiki/Blackmagic_Design)转换而来。
+
+
 **Blackmagic Design**是一家来自[澳大利亚](../Page/澳大利亚.md "wikilink")的生产[视频采集卡](https://zh.wikipedia.org/wiki/视频采集卡 "wikilink")、[数字电视](../Page/数字电视.md "wikilink")[摄影机](https://zh.wikipedia.org/wiki/摄影机 "wikilink")、[制作切换台](https://zh.wikipedia.org/wiki/制作切换台 "wikilink")、[硬盘录像机](https://zh.wikipedia.org/wiki/硬盘录像机 "wikilink")、矩阵切换和分配设备、[监看设备等产品的公司](https://zh.wikipedia.org/wiki/监看 "wikilink")。该公司是由[執行長格蘭特](https://zh.wikipedia.org/wiki/執行長 "wikilink")·佩帝（Grant Petty）建立的。
 
 ## 产品

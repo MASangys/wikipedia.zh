@@ -1,3 +1,6 @@
+> 本文内容由[MTT渦輪超級機車](https://zh.wikipedia.org/wiki/MTT渦輪超級機車)转换而来。
+
+
 [Y2K_Turbine_Jet_bike.jpg](https://zh.wikipedia.org/wiki/File:Y2K_Turbine_Jet_bike.jpg "fig:Y2K_Turbine_Jet_bike.jpg")
 
 **MTT渦輪超級機車**（）又稱**Y2K渦輪超級機車**，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[路易斯安那州](../Page/路易斯安那州.md "wikilink")[海軍陸戰隊渦輪科技公司所生產之](https://zh.wikipedia.org/wiki/海軍陸戰隊渦輪科技 "wikilink")[摩托车](https://zh.wikipedia.org/wiki/摩托车 "wikilink")，常簡稱為**Y2K**。該款車採接單製造，售價為150,000[美元](../Page/美元.md "wikilink")（至2004年為止售價為185,000美元）。

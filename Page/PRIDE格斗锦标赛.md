@@ -1,3 +1,6 @@
+> 本文内容由[PRIDE格斗锦标赛](https://zh.wikipedia.org/wiki/PRIDE格斗锦标赛)转换而来。
+
+
 **Pride格鬥錦標賽**，是一個曾經在[日本](../Page/日本.md "wikilink")運作的職業[混合武術格鬥團體](https://zh.wikipedia.org/wiki/混合武術 "wikilink")。
 
 1997年的10月11日，Pride在[東京巨蛋](../Page/東京巨蛋.md "wikilink")舉行旗揚戰。直至最後停止運作為止，Pride總計舉辦了68場的大會。Pride一共運作了10年，在這10年當中他可以說是世界上水準最高，最受觀眾歡迎的職業混合武術格鬥團體。全盛時期的聲勢與動員人數，連[UFC都比不上](https://zh.wikipedia.org/wiki/UFC "wikilink")。

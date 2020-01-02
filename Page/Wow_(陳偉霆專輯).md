@@ -1,3 +1,6 @@
+> 本文内容由[Wow \(陳偉霆專輯\)](https://zh.wikipedia.org/wiki/Wow_\(陳偉霆專輯\))转换而来。
+
+
 《**WOW**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2011年8月25日推出之第五張個人專輯，第一主打歌為《Baby Don't Cry》。
 
 另外專輯附有一片DVD，收錄3首歌曲的音樂錄影帶：《L.U.V》、《Baby Don't Cry》與《Love U 2》。

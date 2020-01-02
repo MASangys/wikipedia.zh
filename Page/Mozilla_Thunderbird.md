@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla Thunderbird](https://zh.wikipedia.org/wiki/Mozilla_Thunderbird)转换而来。
+
+
 **Mozilla Thunderbird**，非正式中文名稱為**雷鳥**，是由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")研發的一款[自由及開放源碼](https://zh.wikipedia.org/wiki/自由及開放源碼軟件 "wikilink")\[1\]的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[電郵客戶端](https://zh.wikipedia.org/wiki/電郵客戶端 "wikilink")、[新聞閱讀器](https://zh.wikipedia.org/wiki/新聞閱讀器 "wikilink")、[聚合器](../Page/聚合器.md "wikilink")以及[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件列表 "wikilink")。此軟件預設安裝於[Ubuntu](../Page/Ubuntu.md "wikilink")之上。
 
 2004年12月7日，Mozilla發佈了Mozilla Thunderbird的1.0版本，並於首三日即獲得超過五十萬次下載，而十日內已有一百萬次下載\[2\]\[3\]。

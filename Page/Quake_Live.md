@@ -1,3 +1,6 @@
+> 本文内容由[Quake Live](https://zh.wikipedia.org/wiki/Quake_Live)转换而来。
+
+
 **Quake Live**是一款[第一人称射击](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，由[id Software设计](https://zh.wikipedia.org/wiki/id_Software "wikilink")，可在基于[x86计算机的](https://zh.wikipedia.org/wiki/x86 "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS X或](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")系统中下载后通过[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[插件](../Page/插件.md "wikilink")运行。是其前身[雷神之锤3：竞技场](https://zh.wikipedia.org/wiki/雷神之锤3 "wikilink")(Q3A)的变种。 Quake Live的下载和游戏是免费的。此外还有可订购包括更多竞技场，游戏类型和[游戏服务器的选项](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")。
 
 *Quake Live*之前是免费游戏，订阅选项提供额外的竞技场，游戏类型和[游戏服务器选项](https://zh.wikipedia.org/wiki/游戏服务器 "wikilink")。截至2015年10月27日，游戏不再免费，必须购买，订阅选项被取消。\[1\]

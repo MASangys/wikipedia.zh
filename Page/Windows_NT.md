@@ -1,3 +1,6 @@
+> 本文内容由[Windows NT](https://zh.wikipedia.org/wiki/Windows_NT)转换而来。
+
+
 **Windows NT**，**新技术视窗操作系统**（）的簡稱，是[美国](../Page/美国.md "wikilink")[微软公司](https://zh.wikipedia.org/wiki/微软公司 "wikilink")1993年推出的纯[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[核心](../Page/内核.md "wikilink")。其基于OS/2 NT的基础构造。[OS/2是由微软和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[IBM](../Page/IBM.md "wikilink")联合研制，分为微软的**Microsoft OS/2 NT**与IBM的**IBM OS/2**。由于双方在协作后来不欢而散，IBM继续向[市场](../Page/市场.md "wikilink")提供先前的OS/2版本；而微软则把**OS/2 NT**改名为**Windows NT**，并在1988年11月开始了对于“WinNT”（即第一代的Windows NT 3.1）的产品研发。在研发初期，“WinNT”曾一度被认为将会是原先OS/2的3.0版本，但面世之后的**Windows NT**是一种纯[32位操作系统](https://zh.wikipedia.org/wiki/32位 "wikilink")，采用NT核心技术。
 
 ## 名字由来

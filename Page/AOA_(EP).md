@@ -1,3 +1,6 @@
+> 本文内容由[AOA \(EP\)](https://zh.wikipedia.org/wiki/AOA_\(EP\))转换而来。
+
+
 《**AOA**》為[香港](../Page/香港.md "wikilink")唱跳團體[AOA發行首張EP](../Page/A2A.md "wikilink")，唱片共收錄7首歌曲。
 
 ## 曲目

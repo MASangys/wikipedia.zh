@@ -1,3 +1,6 @@
+> 本文内容由[CIS 50MG重機槍](https://zh.wikipedia.org/wiki/CIS_50MG重機槍)转换而来。
+
+
 \[1\]\[2\] |design_date= 1980年代後期 |manufacturer=
 
 <div class="NavFrame collapsed" style="color:black; background:#fff; margin:0 auto; padding:0 10px; text-align:left;">

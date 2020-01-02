@@ -1,3 +1,6 @@
+> 本文内容由[Object Windows Library](https://zh.wikipedia.org/wiki/Object_Windows_Library)转换而来。
+
+
 **Object Windows Library**（簡稱**OWL**），是一個[Borland C++對應於原生WinAPI的物件導向的framework設計](../Page/Borland_C++.md "wikilink")。它被使用在[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink") for Windows，[Borland Pascal與](https://zh.wikipedia.org/wiki/Borland_Pascal "wikilink")[Borland C++的套件中](../Page/Borland_C++.md "wikilink")。由Borland公司在[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink") for Windows時所推出，可自動完成許多由設計者自行撰寫的程式碼，他的竸爭對手是Microsoft Foundation Class Library（[MFC](https://zh.wikipedia.org/wiki/MFC "wikilink")）。其後繼者為VCL。
 
 ## 歷史

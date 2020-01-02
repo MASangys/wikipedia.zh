@@ -1,3 +1,6 @@
+> 本文内容由[LOVE \(濱崎步專輯\)](https://zh.wikipedia.org/wiki/LOVE_\(濱崎步專輯\))转换而来。
+
+
 \-{T|LOVE}-
 
 《**LOVE**》（致愛）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第三張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，同時是15週年連續發行計畫的第一項，本作於2012年11月8日發行，至2013年4月8日濱崎步出道15週年為止，每一個月會發行另外一張作品，共計五作。

@@ -1,3 +1,6 @@
+> 本文内容由[夢幻戰士X](https://zh.wikipedia.org/wiki/夢幻戰士X)转换而来。
+
+
 是由eants製作，[日本通訊網路](../Page/日本通訊網路.md "wikilink")發售的[冒險類型](https://zh.wikipedia.org/wiki/文字冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2006年3月在BB5通販網站進行網路下載販售動作，之後在2006年9月8日在發售實體商品《ヴァリスX～目覚めよ！ヴァリスの戦士たち～》。\[2\]
 
 ## 遊戲介紹

@@ -1,3 +1,6 @@
+> 本文内容由[VeryCD](https://zh.wikipedia.org/wiki/VeryCD)转换而来。
+
+
 **VeryCD**是[中国大陆](../Page/中国大陆.md "wikilink")的一个资源分享网站，于2003年由黄一孟、戴云杰等人创立。2005年6月\[1\]成立了VeryCD公司。
 
 VeryCD曾经主要提供[eDonkey网络的资源](https://zh.wikipedia.org/wiki/eDonkey网络 "wikilink")[链接下载](https://zh.wikipedia.org/wiki/eD2k链接 "wikilink")，公司也开发了修改/参考自官方[eMule的](https://zh.wikipedia.org/wiki/eMule "wikilink")[VeryCD Mod和](https://zh.wikipedia.org/wiki/eMule_VeryCD_Mod "wikilink")[easyMule软件](https://zh.wikipedia.org/wiki/easyMule "wikilink")。不过2010年左右起因版权等问题进行转型，致力于提供网页游戏和在线视频。2011年底公司月入过亿[元](../Page/人民币.md "wikilink")。\[2\]

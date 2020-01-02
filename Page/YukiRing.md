@@ -1,3 +1,6 @@
+> 本文内容由[YukiRing](https://zh.wikipedia.org/wiki/YukiRing)转换而来。
+
+
 **YukiRing**（\[1\]）是[日本](../Page/日本.md "wikilink")唱片公司[愛貝克思的一個](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")[品牌](../Page/品牌.md "wikilink")\[2\]，亦是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")的唱片品牌。
 
 ## 概要
@@ -113,13 +116,9 @@ AVCA-74029/B</p></td>
 [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [「YukiRing」官方網站](http://yukiring.jp/)
-
 5.
 6.
-
 7.

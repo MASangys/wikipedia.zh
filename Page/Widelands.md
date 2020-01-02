@@ -1,3 +1,6 @@
+> 本文内容由[Widelands](https://zh.wikipedia.org/wiki/Widelands)转换而来。
+
+
 {{ Infobox VG | title = | image = <File:Widelands-svn3311.jpg> | caption = 截图svn3311版本 | developer = [团队](http://xoops.widelands.org/modules/mediawiki/wiki/Developers) | engine = 自制 (基於[SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")) | genre = [即时战略](../Page/即时战略游戏.md "wikilink") | modes = [单人游戏](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")，[联机游戏](https://zh.wikipedia.org/wiki/联机游戏 "wikilink") | platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }} ***Widelands*** 是一个慢节奏[即时战略游戏](../Page/即时战略游戏.md "wikilink")，模仿[工人物语系列](../Page/工人物语系列.md "wikilink")的前两部，在[GPL协议下发布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。可以在[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows下运行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 游戏特点

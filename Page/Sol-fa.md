@@ -1,3 +1,6 @@
+> 本文内容由[Sol-fa](https://zh.wikipedia.org/wiki/Sol-fa)转换而来。
+
+
 『**Sol-fa**』（[日本](../Page/日本.md "wikilink")版：ソルファ、[美國版](https://zh.wikipedia.org/wiki/美國 "wikilink")：Sol-fa）是[ASIAN KUNG-FU GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2004年10月20日由Ki/oon Records發行。初回限定版附送封套及貼紙。另外，黑膠唱片也以初回限定版的形式同時發行。2005年10月18日由美國的TOFU RECORDS發行。美國版附送[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

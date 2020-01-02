@@ -1,3 +1,6 @@
+> 本文内容由[Chance!～她成功的理由～](https://zh.wikipedia.org/wiki/Chance!～她成功的理由～)转换而来。
+
+
 《**Chance！～她成功的理由～**》（）是一部於2009年3月7日和2009年3月14日，連續兩個星期六23:10-24:10（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）於[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")播映的[特別](https://zh.wikipedia.org/wiki/特別節目 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[堀北真希](../Page/堀北真希.md "wikilink")等人主演。
 
 ## 故事

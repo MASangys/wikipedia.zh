@@ -1,3 +1,6 @@
+> 本文内容由[Pwn](https://zh.wikipedia.org/wiki/Pwn)转换而来。
+
+
 **Pwn** ()，是一個[駭客語法的](https://zh.wikipedia.org/wiki/leet "wikilink")[俚語詞](https://zh.wikipedia.org/wiki/俚語 "wikilink")，自"own"這個字引申出來的\[1\]\[2\]，這個詞的含意在於，玩家在整個遊戲對戰中處在勝利的優勢，或是說明競爭對手處在完全慘敗的情形下，這個詞習慣上在[網路](https://zh.wikipedia.org/wiki/Internet "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[文化](../Page/文化.md "wikilink")主要用於嘲笑競爭對手在整個遊戲對戰中已經完全被擊敗（例如："You just got pwned\!"）。過去式的拼寫可以拼成**pwnd**，**pwn3d**，**pwnt**（讀成 *t* 這個音）或是**powned**（讀成 *d* 這個音）。
 
 在[駭客](https://zh.wikipedia.org/wiki/駭客_\(電腦安全\) "wikilink")[行話](../Page/行話.md "wikilink")裡，尤其在另外一種電腦技術方面，包括電腦（[伺服器或](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")）、網站、閘道裝置、或是應用程式，"pwn"在這一方面的意思是攻破（"to compromise"，危及、損害）或是控制（"to control"）。在這一方面的意義上，它與[駭客入侵與破解是相同意思的](https://zh.wikipedia.org/wiki/駭客_\(電腦安全\) "wikilink")。例如某一個外部團體已經取得未經公家許可的系統管理員控制權限，並利用這個權限駭入並入侵（"owned" 或是 "pwned"）這個系統。

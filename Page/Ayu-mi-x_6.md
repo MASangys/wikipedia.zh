@@ -1,3 +1,6 @@
+> 本文内容由[Ayu-mi-x 6](https://zh.wikipedia.org/wiki/Ayu-mi-x_6)转换而来。
+
+
 《**ayu-mi-x 6**》（濱崎·步·一樣 6）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，本系列在2008年3月26日於日本同時發行兩作，分別為《**ayu-mi-x 6 -GOLD-**》、《**ayu-mi-x 6 -SILVER-**》，為《ayu-mi-x》第六個系列。
 
 ## 說明（GOLD、SILVER共通）

@@ -1,3 +1,6 @@
+> 本文内容由[Coursera](https://zh.wikipedia.org/wiki/Coursera)转换而来。
+
+
 **Coursera**（）是由[-{zh-cn:斯坦福大学; zh-tw:史丹佛大學; zh-hk:史丹福大學}-的](../Page/史丹佛大學.md "wikilink")[计算机科学](../Page/计算机科学.md "wikilink")教授[吴恩达](../Page/吴恩达.md "wikilink")和[达芙妮·科勒联合创建的一个](https://zh.wikipedia.org/wiki/达芙妮·科勒 "wikilink")[營利性](https://zh.wikipedia.org/wiki/營利性 "wikilink")\[1\]的教育科技公司。\[2\] Coursera与多家大学合作，给大众带来一些在线免费课堂。在Knowledge@Wharton座谈会上，Daphne Koller在采访中说道，截至到2012年11月，Coursera上有来自196国家的超过190万人。他们至少注册过一门课堂，尽管有数百万人注册过课堂，但完成率仅是7-9%。\[3\]
 
 Coursera成立于[加州](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")，它的启动稍晚于由-{zh-cn:斯坦福大学; zh-tw:史丹佛大學; zh-hk:史丹福大學}-教授Sebastian Thrun投资的盈利性在线教育网站[Udacity](../Page/Udacity.md "wikilink")、但稍早于一个由[麻省理工学院](../Page/麻省理工学院.md "wikilink")、[哈佛大学](../Page/哈佛大学.md "wikilink")和[加州大學柏克萊分校所初创的非盈利性在线教育网站](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")[edX](https://zh.wikipedia.org/wiki/edX "wikilink")。

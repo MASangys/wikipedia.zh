@@ -1,3 +1,6 @@
+> 本文内容由[Morning \(漫畫雜誌\)](https://zh.wikipedia.org/wiki/Morning_\(漫畫雜誌\))转换而来。
+
+
 《**Morning**》（モーニング）是[日本](../Page/日本.md "wikilink")[講談社發行的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1982年創刊。
 
 ## 連載中作品

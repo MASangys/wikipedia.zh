@@ -1,3 +1,6 @@
+> 本文内容由[D-BOYS](https://zh.wikipedia.org/wiki/D-BOYS)转换而来。
+
+
 **D-BOYS**—日本[渡邊娛樂所屬的偶像男演員團體](https://zh.wikipedia.org/wiki/渡邊娛樂 "wikilink")。
 
 D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery（發現）、Development（成長）的意思。所屬成員大多有出演[網球王子舞台劇](../Page/網球王子舞台劇.md "wikilink")和[特攝片的經驗](https://zh.wikipedia.org/wiki/特攝 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[MTR Service Update](https://zh.wikipedia.org/wiki/MTR_Service_Update)转换而来。
+
+
 **MTR Service Update**\[1\]是一個提供[港鐵](../Page/港鐵.md "wikilink")列車服務故障消息的團隊，透過[Twitter](../Page/Twitter.md "wikilink")向乘客發放訊息，亦在[Facebook](../Page/Facebook.md "wikilink")上設有專頁\[2\]。它由一群約20人，全為[八十後](../Page/八十後.md "wikilink")的港鐵員工和乘客發起。訊息內容以[繁體中文及](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[英語為主](https://zh.wikipedia.org/wiki/英語 "wikilink")。儘管成員中有一群港鐵員工，但與官方無關。
 
 他們認為，港鐵經常「講大話」、「賴地硬」及「慢九拍」\[3\]，使公眾誤以為沒有意外發生或與港鐵無關。

@@ -1,3 +1,6 @@
+> 本文内容由[WordPad](https://zh.wikipedia.org/wiki/WordPad)转换而来。
+
+
 **-{WordPad}-**是一個簡單的[文本编辑器](../Page/文本编辑器.md "wikilink")，在简体中文版称作“**-{写字板}-**”。自從[Windows 95開始](../Page/Windows_95.md "wikilink")，[Microsoft Windows大部分的版本都內建了這個軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。它的功能比[記事本](https://zh.wikipedia.org/wiki/Windows記事本 "wikilink")（一個更基本的文字處理軟體）強，但比[Microsoft Word弱](../Page/Microsoft_Word.md "wikilink")。WordPad發源自[Windows 1.0x的時候](../Page/Windows_1.0.md "wikilink")，一個名為[Write的軟體](../Page/Windows_Write.md "wikilink")。
 
 WordPad的功能包括處理文字格式，或者將文字列印出來。但它缺少了一些中等程度的功能，例如拼字檢查，[類語辭典](https://zh.wikipedia.org/wiki/類語辭典 "wikilink")，表格的支援等等。就其本身而論，它適合書寫一封信件，或者一個短的文章。它不太適合書寫一個長的報告（因為這類文件通常有大量的圖片），或者一個長的文章，例如[图书](../Page/图书.md "wikilink")或者[手抄本](../Page/手抄本.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[CrystalTalk](https://zh.wikipedia.org/wiki/CrystalTalk)转换而来。
+
+
 '''CrystalTalk™ '''是[摩托羅拉的專利話音技術](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")，能使語音通話更清晰，它能自動調節通話中的音量，令雙方能更舒適地通話。這項技術包括揚聲器對噪音調適的提升以及話筒對環境噪音的削弱，通過動態調整呼叫者聲音與環境噪音的比値，使收聽者在噪音環境下收聽更加清晰。 令使用者能在任何環境下均能使用話機得到最佳如「水晶」般的通話質素。[1](https://web.archive.org/web/20071018023836/http://www.mymotorola.com.tw/direvent/dir2007/dircrystaltalk/crystaltalk.html)
 
 ## 部分支援 CrystalTalk 技術的手機

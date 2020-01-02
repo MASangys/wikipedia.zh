@@ -1,3 +1,6 @@
+> 本文内容由[全軍破敵：羅馬II](https://zh.wikipedia.org/wiki/全軍破敵：羅馬II)转换而来。
+
+
 是一款由[Creative Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉](../Page/世嘉.md "wikilink")發行的戰略遊戲。遊戲在2013年9月3日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]平台上發布。這是[全面戰爭系列的第](https://zh.wikipedia.org/wiki/全面戰爭系列 "wikilink")8代獨立遊戲，也是第3代作品《[羅馬：全面戰爭](https://zh.wikipedia.org/wiki/羅馬：全面戰爭 "wikilink")》的續作。這遊戲是一個商業上的成功，它在銷售量和發布當天的線上玩家人數都超越[全軍破敵系列的其他遊戲](https://zh.wikipedia.org/wiki/全軍破敵 "wikilink")\[2\]\[3\]\[4\]。
 
 遊戲的背景設定在[古典時代的歐洲](https://zh.wikipedia.org/wiki/古典時代 "wikilink")，相對於《羅馬：全軍破敵》的遊戲背景幾乎完全集中在[羅馬共和國和它的政治不同](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")，羅馬II盡可能準確和深入地刻畫出在那時代的每一個文明。玩家在遊戲中扮演其中一個可玩派系，而玩家想取得勝利便要比敵人更快建立一個帝國。單人遊戲模式開始於公元前272年，並持續300多年。然而，玩家可以繼續進行遊戲，因為在羅馬II中沒有時間勝利條件。

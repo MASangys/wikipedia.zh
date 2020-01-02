@@ -1,3 +1,6 @@
+> 本文内容由[Unicode幾何圖形列表](https://zh.wikipedia.org/wiki/Unicode幾何圖形列表)转换而来。
+
+
 **Unicode幾何圖形**是指[Unicode在](https://zh.wikipedia.org/wiki/Unicode "wikilink")[十六進制代碼範圍](https://zh.wikipedia.org/wiki/十六進制 "wikilink") 25A0 - 25FF 中呈現的96個圖形符號。在此範圍內，包含有各種[幾何形狀](../Page/幾何圖形.md "wikilink")，基本滿足了[計算機用戶在幾何表現上的要求](https://zh.wikipedia.org/wiki/計算機 "wikilink")。
 
 ## 字符集

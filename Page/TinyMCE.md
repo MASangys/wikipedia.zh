@@ -1,3 +1,6 @@
+> 本文内容由[TinyMCE](https://zh.wikipedia.org/wiki/TinyMCE)转换而来。
+
+
 **TinyMCE**（亦称**Tiny Moxiecode Content Editor**）是一款遵循[LGPL授權协议](https://zh.wikipedia.org/wiki/LGPL "wikilink")，以網頁介面為導向的HTML編輯器。
 
 ## 軟體特色

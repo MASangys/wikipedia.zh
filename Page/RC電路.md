@@ -1,3 +1,6 @@
+> 本文内容由[RC電路](https://zh.wikipedia.org/wiki/RC電路)转换而来。
+
+
 **RC電路**（），或稱**RC濾波器**、**RC網路**，也称作**相移電路**，是一個包含利用[電壓源](https://zh.wikipedia.org/wiki/電壓源 "wikilink")、[電流源驅使](https://zh.wikipedia.org/wiki/電流源 "wikilink")[電阻器](https://zh.wikipedia.org/wiki/電阻器 "wikilink")、[電容器運作的](https://zh.wikipedia.org/wiki/電容器 "wikilink")[電路](https://zh.wikipedia.org/wiki/電路 "wikilink")。一個最簡單的RC電路是由一個電容器和一個電阻器組成的，稱為一階RC電路。
 
 ## 介紹

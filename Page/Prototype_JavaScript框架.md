@@ -1,3 +1,6 @@
+> 本文内容由[Prototype JavaScript框架](https://zh.wikipedia.org/wiki/Prototype_JavaScript框架)转换而来。
+
+
 **Prototype JavaScript Framework**是由Sam Stephenson所開發的[JavaScript](../Page/JavaScript.md "wikilink")[框架](https://zh.wikipedia.org/wiki/软件框架 "wikilink")。它提供了完整的[Ajax框架及其它的工具](https://zh.wikipedia.org/wiki/Ajax "wikilink")。它的實作完全包含在一個單一的prototype.js檔案中。被应用于[Ruby on Rails](../Page/Ruby_on_Rails.md "wikilink")、[script.aculo.us和](https://zh.wikipedia.org/wiki/script.aculo.us "wikilink")[Rico等](https://zh.wikipedia.org/wiki/Rico "wikilink")。
 
 ## 應用範例

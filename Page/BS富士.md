@@ -1,3 +1,6 @@
+> 本文内容由[BS富士](https://zh.wikipedia.org/wiki/BS富士)转换而来。
+
+
 **株式會社BS富士**（登記的全名為****）為[富士電視台](../Page/富士電視台.md "wikilink")關係企業，主要業務為[BS數位放送](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，經營BS電視頻道（BS第181至183頻道）與BS電台頻道（BS第488至489頻道，皆已於2006年3月結束營業）。
 
 ## 沿革

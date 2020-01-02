@@ -1,3 +1,6 @@
+> 本文内容由[CMSimple](https://zh.wikipedia.org/wiki/CMSimple)转换而来。
+
+
 **CMSimple**是一種自由的[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")。標榜架構簡單，程式檔案小並且反應快速。系統以[PHP](../Page/PHP.md "wikilink")編寫，可以在各種平台上運作。
 
 CMSimple不需要使用[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，所有的頁面資料都以一個[超文件檔案格式](https://zh.wikipedia.org/wiki/超文件 "wikilink")，名稱為content.htm，存於全球資訊網伺服器上。純文字檔的資料設計使得安裝與備份工作相對較為簡單。

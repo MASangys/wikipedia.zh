@@ -1,3 +1,6 @@
+> 本文内容由[庞巴迪Zefiro](https://zh.wikipedia.org/wiki/庞巴迪Zefiro)转换而来。
+
+
 [Two_Bombardier_EMUs_at_SHQ.JPG](https://zh.wikipedia.org/wiki/File:Two_Bombardier_EMUs_at_SHQ.JPG "fig:Two_Bombardier_EMUs_at_SHQ.JPG")内，[CRH380D和使用Zefiro头型的新](https://zh.wikipedia.org/wiki/CRH380D "wikilink")[CRH1B](https://zh.wikipedia.org/wiki/CRH1B "wikilink")\]\] **龐巴迪Zefiro**是[龐巴迪運輸](../Page/龐巴迪運輸.md "wikilink")（Bombardier Transportation）在2005年4月13日公佈的超高速鐵路旅行最新概念的高速電動車組，由[龐巴迪公司](../Page/龐巴迪公司.md "wikilink")工業設計組與意大利工業設計公司**Zagato**共同設計。目前現成製品有[CRH1E](../Page/和谐号CRH1型电力动车组.md "wikilink")，[CRH380D](../Page/和谐号CRH380D型电力动车组.md "wikilink")\[1\]等投入运行。
 
 ## 外部設計

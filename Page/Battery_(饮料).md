@@ -1,3 +1,6 @@
+> 本文内容由[Battery \(饮料\)](https://zh.wikipedia.org/wiki/Battery_\(饮料\))转换而来。
+
+
 [Battery_logo.png](https://zh.wikipedia.org/wiki/File:Battery_logo.png "fig:Battery_logo.png") **Battery**是[芬兰](../Page/芬兰.md "wikilink")Oy [Sinebrychoff](https://zh.wikipedia.org/wiki/Sinebrychoff "wikilink") Ab公司出品的一款[机能性饮料](https://zh.wikipedia.org/wiki/机能性饮料 "wikilink")。
 
 ## 配方

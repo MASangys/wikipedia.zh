@@ -1,3 +1,6 @@
+> 本文内容由[KBS World](https://zh.wikipedia.org/wiki/KBS_World)转换而来。
+
+
 **KBS World**是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国外广播的電視频道，覆蓋73個國家。主要播送紀錄片，電視劇，娛樂節目，並配上英語、中文、西班牙語等字幕。頻道使用[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")、[IPTV](../Page/IPTV.md "wikilink")和[衛星電視接收外也有](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[youtube直播](https://zh.wikipedia.org/wiki/youtube "wikilink")。另外除了電視節目外，該頻道還擁有廣播節目。
 
 而KBS World日本播放版本完全由当地机构代播，不仅节目编排不同，就连日本版的台标却是单独的透明玻璃形状，节目亦提供日文字幕。

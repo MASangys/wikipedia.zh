@@ -1,3 +1,6 @@
+> 本文内容由[Coming Soon!!](https://zh.wikipedia.org/wiki/Coming_Soon!!)转换而来。
+
+
 《**Coming Soon\!\!**》（）是在TBS系列逢星期一23:45至24:50播映的[現場直播](../Page/現場直播.md "wikilink")音樂節目，由2011年4月25日首播，2012年3月26日結束播映。
 
 ## 概要

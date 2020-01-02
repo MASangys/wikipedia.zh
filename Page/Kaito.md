@@ -1,3 +1,6 @@
+> 本文内容由[Kaito](https://zh.wikipedia.org/wiki/Kaito)转换而来。
+
+
 **KAITO**是[山葉以](https://zh.wikipedia.org/wiki/山葉_\(公司\) "wikilink")[VOCALOID](../Page/VOCALOID.md "wikilink")[語音合成引擎為基礎開發](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[CRYPTON FUTURE MEDIA販售的虛擬歌手軟件第二作](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")，或此軟件的印象角色（這只是軟件的象徵，不會在實際使用時出現）。於2006年2月發售，開放價格，官方估計系列軟件實際價格約19,950日圓。由[風雅直人](../Page/風雅直人.md "wikilink")提供原聲\[1\]。日語第二套VOCALOID的產品，擅長[歌謠曲](https://zh.wikipedia.org/wiki/歌謠曲 "wikilink")、[童謠](https://zh.wikipedia.org/wiki/童謠 "wikilink")。因為同類型軟件的受眾多是男性\[2\]，發售當初只賣出500套，相比同系列[MEIKO的](https://zh.wikipedia.org/wiki/MEIKO "wikilink")3000套顯得遜色\[3\]，但是至2009年10月27日售出數已經與MEIKO同為約5000套\[4\]。VOCALOID 3引擎聲庫KAITO V3是由[CRYPTON FUTURE MEDIA開發并販售](https://zh.wikipedia.org/wiki/CRYPTON_FUTURE_MEDIA "wikilink")，于2013年2月15日发售。
 
 ## 發展

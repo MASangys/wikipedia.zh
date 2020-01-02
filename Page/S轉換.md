@@ -1,3 +1,6 @@
+> 本文内容由[S轉換](https://zh.wikipedia.org/wiki/S轉換)转换而来。
+
+
 **S轉換**(s-transform)，或**S變換**是一種[時頻分析](../Page/時頻分析.md "wikilink")的工具。
 
 和其他時頻分析工具一樣，透過S轉換，我們可以同時從[時域以及](https://zh.wikipedia.org/wiki/時域 "wikilink")[頻域](../Page/頻域.md "wikilink")觀察一個信號的能量分布。S轉換的特別之處在它既保持與[傅立葉變換的直接關係](https://zh.wikipedia.org/wiki/傅立葉變換 "wikilink")，又可在不同頻率有不同的解析度。此外，S轉換與[小波轉換](https://zh.wikipedia.org/wiki/小波轉換 "wikilink")（wavelet transform）有密切的關係，或可視為[連續小波轉換](../Page/連續小波轉換.md "wikilink")（continuous wavelet transform）的變形。S轉換的清晰度略優於[加伯轉換](../Page/加伯轉換.md "wikilink")（Gabor transform），而不如[韋格納分佈](https://zh.wikipedia.org/wiki/韋格納分佈 "wikilink")（Wigner distribution function）、[科恩克萊斯分佈](https://zh.wikipedia.org/wiki/科恩克萊斯分佈 "wikilink")、[改良式韋格納分佈](https://zh.wikipedia.org/wiki/改良式韋格納分佈 "wikilink")（Modified Wigner distribution function）。

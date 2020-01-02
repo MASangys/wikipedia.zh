@@ -1,3 +1,6 @@
+> 本文内容由[Muse \(蔡依林專輯\)](https://zh.wikipedia.org/wiki/Muse_\(蔡依林專輯\))转换而来。
+
+
 《**Muse**》是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第12張錄音室專輯，由[華納音樂於](../Page/華納音樂_\(台灣\).md "wikilink")2012年9月14日發行。該專輯嘗試將[流行音樂與](../Page/流行_\(音樂類型\).md "wikilink")[流行藝術結合](../Page/波普藝術.md "wikilink")，音樂風格橫跨主流音樂與[獨立音樂](../Page/獨立音樂.md "wikilink")\[1\]，並與包括[許哲珮](../Page/許哲珮.md "wikilink")、[吳青峰](https://zh.wikipedia.org/wiki/吴青峰 "wikilink")、[陳惠婷](../Page/陳惠婷.md "wikilink")、[林俊傑與](../Page/林俊杰.md "wikilink")[蔡健雅在內的音樂人合作](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")\[2\]
 
 該專輯獲得媒體與樂評人的廣泛好評，並被評價為值得反覆聆聽且具備深度的流行音樂專輯\[3\]。該專輯於市場上獲得成功，於臺灣的銷量超過10萬張，亦獲得臺灣年度唱片銷量排行榜第3名，使蔡依林八度獲得臺灣年度唱片銷量排行榜女歌手冠軍\[4\]。

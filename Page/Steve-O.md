@@ -1,3 +1,6 @@
+> 本文内容由[Steve-O](https://zh.wikipedia.org/wiki/Steve-O)转换而来。
+
+
 本名**史蒂芬·格里斯特·格罗佛**(Stephen "Steve-O" Gilchrist Glover)，广泛的被称作“Steve-O”。他是一位[特技演员由于出演](https://zh.wikipedia.org/wiki/特技演员 "wikilink")[MTV的](https://zh.wikipedia.org/wiki/MTV "wikilink")[Jackass节目而一举成名](https://zh.wikipedia.org/wiki/Jackass "wikilink")。
 
 ## 职业生涯

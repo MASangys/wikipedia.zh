@@ -1,3 +1,6 @@
+> 本文内容由[傑瑞德·K·歐尼爾](https://zh.wikipedia.org/wiki/傑瑞德·K·歐尼爾)转换而来。
+
+
 **傑瑞德·基特切恩·「格里」·歐尼爾**（Gerard Kitchen "Gerry" O'Neill、）是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[物理學家與](https://zh.wikipedia.org/wiki/物理學家 "wikilink")[天文學家](https://zh.wikipedia.org/wiki/天文學家 "wikilink")，曾經提出[質量投射器](../Page/質量投射器.md "wikilink")的構想\[1\]，並積極提倡[太空殖民的概念](https://zh.wikipedia.org/wiki/太空殖民 "wikilink")。
 
 傑瑞德·K·歐尼爾於1954年開始在[普林斯頓大學研究高能](https://zh.wikipedia.org/wiki/普林斯頓大學 "wikilink")[粒子物理學](../Page/粒子物理學.md "wikilink")，他在[康乃爾大學獲得博士學位](https://zh.wikipedia.org/wiki/康乃爾大學 "wikilink")。兩年後，他發表粒子儲存環理論。這個理論讓物理實驗比以前不可能達到能量運作。1965年傑瑞德·K·歐尼爾在斯坦福大學進行第一次粒子束碰撞物理實驗\[2\]。

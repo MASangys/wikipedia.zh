@@ -1,3 +1,6 @@
+> 本文内容由[Georgia \(字型\)](https://zh.wikipedia.org/wiki/Georgia_\(字型\))转换而来。
+
+
 [GeorgiatTmes.svg](https://zh.wikipedia.org/wiki/File:GeorgiatTmes.svg "fig:GeorgiatTmes.svg")
 
 **Georgia**是一種[襯線字體](https://zh.wikipedia.org/wiki/襯線字體 "wikilink")，為著名[字型](../Page/字型.md "wikilink")設計師[馬修·卡特](../Page/馬修·卡特.md "wikilink")（Matthew Carter）於1993年為[微軟所設計的作品](https://zh.wikipedia.org/wiki/微軟 "wikilink")，具有在小字下仍能清晰辨識的特性，可讀性十分優良。其命名發想自一份[小報報導在](https://zh.wikipedia.org/wiki/小報 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州](../Page/喬治亞州.md "wikilink")發現[外星人](../Page/外星人.md "wikilink")[頭顱的測試性](https://zh.wikipedia.org/wiki/頭顱 "wikilink")[頭條](https://zh.wikipedia.org/wiki/頭條 "wikilink")。

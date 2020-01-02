@@ -1,3 +1,6 @@
+> 本文内容由[SAGE引擎](https://zh.wikipedia.org/wiki/SAGE引擎)转换而来。
+
+
 **SAGE**（戰略動作遊戲引擎，）是[西木工作室](../Page/西木工作室.md "wikilink")（Westwood Studios）和[美商藝電](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")（EA）用於即時戰略遊戲的遊戲引擎。
 
 引擎的第一個版本是W3D (Westwood 3D)，是SurRender 3D引擎的高度修改版本，由Hybrid Graphics開發。

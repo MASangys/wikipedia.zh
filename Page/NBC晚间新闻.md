@@ -1,3 +1,6 @@
+> 本文内容由[NBC晚间新闻](https://zh.wikipedia.org/wiki/NBC晚间新闻)转换而来。
+
+
 《**NBC晚間新聞**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[全國廣播公司](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")（NBC）的旗艦全國新聞聯播節目，每晚從位於[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[洛克菲勒中心的](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")[通用電氣公司大廈播出](../Page/GE大樓.md "wikilink")。節目從1970年8月3日起改為現稱。現在非週末時段的主播為[萊斯特·霍爾特](../Page/萊斯特·霍爾特.md "wikilink")（Lester Holt），週六主播為[Telemundo電視台新聞主播](https://zh.wikipedia.org/wiki/Telemundo電視台 "wikilink")，周日版主播為[NBC新聞](../Page/NBC新聞.md "wikilink")主播。節目從洛克菲勒中心的3C演播室播出。節目現在使用的主題音樂是由著名作曲家[約翰·威廉斯](https://zh.wikipedia.org/wiki/約翰·威廉斯_\(作曲家\) "wikilink")（John Williams）創作。截至2011年，該節目作為全美國收視率最高的新聞節目已經超過十年。
 
 ## 播映時間

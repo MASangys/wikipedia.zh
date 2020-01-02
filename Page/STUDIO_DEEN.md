@@ -1,3 +1,6 @@
+> 本文内容由[STUDIO DEEN](https://zh.wikipedia.org/wiki/STUDIO_DEEN)转换而来。
+
+
 [Studio_Deen_(1988-2005).jpg](https://zh.wikipedia.org/wiki/File:Studio_Deen_\(1988-2005\).jpg "fig:Studio_Deen_(1988-2005).jpg") **株式會社STUDIO DEEN**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")\[1\]的動畫製作公司。成立於1975年。[日本動畫協會](../Page/日本動畫協會.md "wikilink")正式會員。
 
 ## 概要、沿革

@@ -1,3 +1,6 @@
+> 本文内容由[Office Online](https://zh.wikipedia.org/wiki/Office_Online)转换而来。
+
+
 ****，原称****，是[Microsoft Office套件的网页在线版本](../Page/Microsoft_Office.md "wikilink")，包含有[Microsoft Word](../Page/Microsoft_Word.md "wikilink")、[Microsoft Excel](../Page/Microsoft_Excel.md "wikilink")、[Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")、[Microsoft OneNote和](../Page/Microsoft_OneNote.md "wikilink")[Microsoft Outlook的网页版](../Page/Microsoft_Outlook.md "wikilink")。这些网页应用使用户可以使用一个[网页浏览器](../Page/网页浏览器.md "wikilink")直接访问他们的文件，同时也支持文件分享和与其他用户在线协作。
 
 ## 可用性

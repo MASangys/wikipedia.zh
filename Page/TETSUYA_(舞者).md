@@ -1,3 +1,6 @@
+> 本文内容由[TETSUYA \(舞者\)](https://zh.wikipedia.org/wiki/TETSUYA_\(舞者\))转换而来。
+
+
 **TETSUYA**（）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE THE SECOND表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
 [秋田縣出生](https://zh.wikipedia.org/wiki/秋田縣 "wikilink")\[1\]，[神奈川縣](../Page/神奈川縣.md "wikilink")[橫須賀市](../Page/橫須賀市.md "wikilink")成長。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。
@@ -181,81 +184,43 @@
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink") [Category:日本男演員](https://zh.wikipedia.org/wiki/Category:日本男演員 "wikilink") [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink") [Category:神奈川縣出身人物](https://zh.wikipedia.org/wiki/Category:神奈川縣出身人物 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  2012年4月30日播映『[週刊EXILE](../Page/週刊EXILE.md "wikilink")』。
-
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13. 2010年5月15日播映『』。
-
 14. 在EXE唱了1詞組，被德永本人認可了歌唱力。
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
-
 23. [全世界極限サバイバルジャングル！](http://www.tbs.co.jp/program/kyokugen_survival.html)
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41.

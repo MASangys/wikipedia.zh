@@ -1,3 +1,6 @@
+> 本文内容由[Linux裝置](https://zh.wikipedia.org/wiki/Linux裝置)转换而来。
+
+
 {{ RoughTranslation }} [Series_2_tivo_front.jpg](https://zh.wikipedia.org/wiki/File:Series_2_tivo_front.jpg "fig:Series_2_tivo_front.jpg") [DVR](https://zh.wikipedia.org/wiki/数字视频录像机 "wikilink")，一個最顯著的Linux製作之一\]\] [N810-open.jpg](https://zh.wikipedia.org/wiki/File:N810-open.jpg "fig:N810-open.jpg")\]\]
 
 **Linux裝置**或**基于Linux的裝置**，是采用[Linux内核](../Page/Linux内核.md "wikilink")并可能部分[GNU](../Page/GNU.md "wikilink")操作系统计算机设备。它们往往是简约和专用的，可能是环保和每单位产生较少电子废弃物。
@@ -32,7 +35,7 @@ Linux設備被其製造商建成運行的Linux。這降低了它們起步發展�
 
   - [LinuxDevices](https://archive.is/20121209130218/http://www.linuxdevices.com/), a website on devices that can run embedded Linux
   - [LinuxDevices Forum](https://web.archive.org/web/20000304081012/http://www.linuxdevices.com/cgi-bin/board/UltraBoard.pl)
-  - [Linux Receivers](http://www.eucardsharing.com/)
+  - [Linux Receivers](https://web.archive.org/web/20090523000408/http://www.eucardsharing.com/)
 
 [Category:Linux設備](https://zh.wikipedia.org/wiki/Category:Linux設備 "wikilink") [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink")
 

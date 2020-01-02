@@ -1,3 +1,6 @@
+> 本文内容由[JJ陸](https://zh.wikipedia.org/wiki/JJ陸)转换而来。
+
+
 **JJ陸**是[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[林俊傑於](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")2008年10月18日發行的第6張個人專輯，一共收錄14首創作歌曲。[香港](../Page/香港.md "wikilink")版則於2008年11月18日發行。
 
 此外，新馬與香港版於專輯末皆特別收錄了粵語版{{〈}}小酒窩{{〉}}，共15首。\[1\]本專輯獲得中國《中歌榜》港台最佳專輯獎的肯定，是[林俊傑發片以來第一次獲得](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")《中歌榜》港台最佳專輯獎。

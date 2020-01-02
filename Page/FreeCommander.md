@@ -1,3 +1,6 @@
+> 本文内容由[FreeCommander](https://zh.wikipedia.org/wiki/FreeCommander)转换而来。
+
+
 FreeCommander 是 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 標準元件[檔案總管](../Page/檔案總管.md "wikilink")的一個易於使用的替代品。該程序可以幫助您在 Windows 中進行日常工作。你可以找到管理資料文件庫存的所有必要功能。你可以隨時隨地使用FreeCommander - 只需將安裝目錄複製到CD或USB-Stick上即可。\[1\]
 
 FreeCommander的主要功能：

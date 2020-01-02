@@ -1,3 +1,6 @@
+> 本文内容由[Windows影像中心](https://zh.wikipedia.org/wiki/Windows影像中心)转换而来。
+
+
 **Windows影像中心**（；前稱：**Digital Image Photo Library**、**Windows相片圖庫**、**Windows Live影像中心**）是由[微軟開發的Windows程式集軟件](https://zh.wikipedia.org/wiki/微軟 "wikilink")，組織、編輯和共享影像。
 
 ## 概觀

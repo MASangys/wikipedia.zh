@@ -1,3 +1,6 @@
+> 本文内容由[System 6](https://zh.wikipedia.org/wiki/System_6)转换而来。
+
+
 **System 6** (也称 System Software 6) 是一個使用于[麦金塔電腦的](https://zh.wikipedia.org/wiki/麦金塔電腦 "wikilink")[圖形用戶界面的](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。System 6於1988年4月首次發佈。直至System 7於1991年發佈之前，它是最受歡迎的Macintosh作業系統。System 6盒裝版本售价为49美元。System 6可能是首個支援中文GUI的Macintosh System Software。
 
 ## 版本歷史

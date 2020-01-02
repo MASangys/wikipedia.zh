@@ -1,3 +1,6 @@
+> 本文内容由[HSL和HSV色彩空间](https://zh.wikipedia.org/wiki/HSL和HSV色彩空间)转换而来。
+
+
 [Hsl-hsv_models.svg](https://zh.wikipedia.org/wiki/File:Hsl-hsv_models.svg "fig:Hsl-hsv_models.svg")
 
 **HSL**和**HSV**都是一种将[RGB色彩模型中的点在](../Page/三原色光模式.md "wikilink")[圆柱坐标系中的表示法](https://zh.wikipedia.org/wiki/圆柱坐标系 "wikilink")。这两种表示法试图做到比基于[笛卡尔坐标系](../Page/笛卡尔坐标系.md "wikilink")的几何结构RGB更加直观。

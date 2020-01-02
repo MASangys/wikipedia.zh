@@ -1,4 +1,7 @@
-**Raw 雙打冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[Raw的一雙打冠軍項目](../Page/WWE_Raw.md "wikilink")。WWE雙打冠軍是世界摔角娛樂的第二個雙打冠軍項目（第一個是[世界雙打冠軍](../Page/世界雙打冠軍_\(WWE\).md "wikilink")）。WWE雙打冠軍成立於2002年，到2009年，WWE雙打冠軍與世界雙打冠軍合併稱為WWE統一雙打冠軍，但還是有兩個冠軍項目存在，直至2010年世界雙打冠軍正式退役。2016年，配合第2次品牌選秀，WWE雙打冠軍改隸[WWE Raw](../Page/WWE_Raw.md "wikilink")，並更名為Raw 雙打冠軍。
+> 本文内容由[Raw 雙打冠軍](https://zh.wikipedia.org/wiki/Raw_雙打冠軍)转换而来。
+
+
+**Raw 雙打冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[Raw的一雙打冠軍項目](../Page/WWE_Raw.md "wikilink")。WWE雙打冠軍是世界摔角娛樂的第二個雙打冠軍項目（第一個是[世界雙打冠軍](../Page/世界雙打冠軍_\(WWE\).md "wikilink")）。WWE雙打冠軍成立於2002年，到2009年，WWE雙打冠軍與世界雙打冠軍合併稱為WWE統一雙打冠軍，但還是有兩個冠軍項目存在，直至2010年世界雙打冠軍正式退役。2016年，配合第2次品牌選秀，原WWE雙打冠軍改隸[WWE Raw](../Page/WWE_Raw.md "wikilink")，並更名為Raw 雙打冠軍。
 
 ## 歷史
 

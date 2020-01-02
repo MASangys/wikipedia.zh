@@ -1,3 +1,6 @@
+> 本文内容由[TAK](https://zh.wikipedia.org/wiki/TAK)转换而来。
+
+
 ****（TAK）是一種無損音質的音樂[編解碼器](https://zh.wikipedia.org/wiki/編解碼器 "wikilink")。不但具有近似於[Monkey's Audio的高壓縮比](../Page/Monkey's_Audio.md "wikilink")，也擁有接近[FLAC](../Page/FLAC.md "wikilink")的解碼速度。不過就目前來說，支援的軟體極少，僅有像是foobar2000與Winamp等知名音樂播放軟體配合使用外掛程式才能播放。
 
 ## 特色

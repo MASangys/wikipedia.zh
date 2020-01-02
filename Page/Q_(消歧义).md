@@ -1,3 +1,6 @@
+> 本文内容由[Q \(消歧义\)](https://zh.wikipedia.org/wiki/Q_\(消歧义\))转换而来。
+
+
 [Q q](../Page/Q.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第17个[字母](../Page/字母.md "wikilink")。
 
 除此之外，Q还可以指代：

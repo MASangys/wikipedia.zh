@@ -1,3 +1,6 @@
+> 本文内容由[地獄犬的輓歌 -最終幻想VII-](https://zh.wikipedia.org/wiki/地獄犬的輓歌_-最終幻想VII-)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[SQUARE-ENIX在](https://zh.wikipedia.org/wiki/SQUARE-ENIX "wikilink")[PlayStation 2平台上推出的第三人稱射擊遊戲](../Page/PlayStation_2.md "wikilink")，於2006年1月26日公開發售。
 
 ## 歷史

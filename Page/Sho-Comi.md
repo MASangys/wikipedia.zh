@@ -1,3 +1,6 @@
+> 本文内容由[Sho-Comi](https://zh.wikipedia.org/wiki/Sho-Comi)转换而来。
+
+
 《**Sho-Comi**》是[小學館](../Page/小學館.md "wikilink")發行的[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。1968年創刊時名稱《少女Comic》，為半月刊；1970年改名《週刊少女Comic》，為週刊；1978年改為半月刊；1990年改名《少女Comic》；2008年1號改名《Sho-Comi》至今。
 
 ## 連載作品

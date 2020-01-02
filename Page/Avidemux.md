@@ -1,3 +1,6 @@
+> 本文内容由[Avidemux](https://zh.wikipedia.org/wiki/Avidemux)转换而来。
+
+
 **Avidumux**是一个[开放源代码](../Page/开放源代码.md "wikilink")的跨平台视频编辑软件，遵循[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 功能

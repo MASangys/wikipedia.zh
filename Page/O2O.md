@@ -1,3 +1,6 @@
+> 本文内容由[O2O](https://zh.wikipedia.org/wiki/O2O)转换而来。
+
+
 **O2O**（**Online To Offline线上到线下**）是一种新的电子商务模式，指[线上营销及](../Page/网络营销.md "wikilink")[线上购买带动线下](../Page/电子商务.md "wikilink")（非網路上的）经营和线下消费。O2O通过[促销](https://zh.wikipedia.org/wiki/促销 "wikilink")、[打折](https://zh.wikipedia.org/wiki/打折 "wikilink")、提供信息、服务预订等方式，把线下商店的消息推送给[互联网](../Page/互联网.md "wikilink")用户，从而将他们转换为自己的线下客户，这就特别适合必须到店消费的商品和服务，比如餐饮、健身、电影和演出、美容美发、摄影及百货商店等，除了餐廳陸續推出線上商務之外，也有一些以個人或團體旅遊等等爲主打的預定網站和應用大量出現。
 
 ## 发展历程

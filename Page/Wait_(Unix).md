@@ -1,3 +1,6 @@
+> 本文内容由[Wait \(Unix\)](https://zh.wikipedia.org/wiki/Wait_\(Unix\))转换而来。
+
+
 **`wait`**（意指“等待”）为[类UNIX](https://zh.wikipedia.org/wiki/类UNIX "wikilink")[操作系统](../Page/操作系统.md "wikilink")[系统调用](https://zh.wikipedia.org/wiki/系统调用 "wikilink")。
 
 ## 功能

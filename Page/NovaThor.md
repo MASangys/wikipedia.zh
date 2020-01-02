@@ -1,3 +1,6 @@
+> 本文内容由[NovaThor](https://zh.wikipedia.org/wiki/NovaThor)转换而来。
+
+
 **NovaThor**一个整合了[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（Soc）和调制解调器的移动芯片组系列，该芯片组由[ST-Ericsson](https://zh.wikipedia.org/wiki/ST-Ericsson "wikilink")（意法爱立信）研发制造，针对[智能手机](../Page/智能手机.md "wikilink")和[平板电脑平台](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。意法爱立信于2009年2月3日由[爱立信和](https://zh.wikipedia.org/wiki/爱立信 "wikilink")[意法半导体各注资](https://zh.wikipedia.org/wiki/意法半导体 "wikilink")50%股份组建而成。意法爱立信同时还销售SoCs（Nova）和调制解调器（Thor）。\[1\]
 
 2011年11月2月，[诺基亚](../Page/诺基亚.md "wikilink")公司曾宣布意法爱立信的NovaThor芯片组将被使用在诺基亚的[Windows Phone系列手机上](../Page/Windows_Phone.md "wikilink")，以便从其他品牌生产的众多使用了[高通](../Page/高通.md "wikilink")[Snapdragon处理器的Windows](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") Phone手机中区分开来，构成差异化。但随后该计划被取消，原因是[微软](../Page/微软.md "wikilink")要求Windows Phone手机必须使用高通处理器。\[2\]

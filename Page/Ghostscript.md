@@ -1,3 +1,6 @@
+> 本文内容由[Ghostscript](https://zh.wikipedia.org/wiki/Ghostscript)转换而来。
+
+
 **Ghostscript**是一套建基於[Adobe](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")、[PostScript](../Page/PostScript.md "wikilink")及[可移植文檔格式](https://zh.wikipedia.org/wiki/PDF "wikilink")（PDF）的[頁面描述語言等而編譯成的](https://zh.wikipedia.org/wiki/頁面描述語言 "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。
 
 现在已经从Linux版本移植到其他操作系统，如其他[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[VMS](https://zh.wikipedia.org/wiki/VMS "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Mac OS classic](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。

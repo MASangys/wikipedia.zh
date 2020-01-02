@@ -1,3 +1,6 @@
+> 本文内容由[NProtect GameGuard](https://zh.wikipedia.org/wiki/NProtect_GameGuard)转换而来。
+
+
 **nProtect GameGuard**（簡稱**GameGuard**或**GG**，其[驅動程序為](https://zh.wikipedia.org/wiki/驅動程序 "wikilink")**GameMon.des**）是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INCA互聯網](https://zh.wikipedia.org/wiki/INCA互聯網 "wikilink")（INCA Internet）開發的遊戲反作弊的軟體。隨著[網絡遊戲的興起](https://zh.wikipedia.org/wiki/網絡遊戲 "wikilink")，愈來愈多人利用[外掛從中作弊](https://zh.wikipedia.org/wiki/遊戲外掛 "wikilink")，這促使GameGuard等反作弊軟體的誕生，GameGuard開發完成後，很快就被[日本](../Page/日本.md "wikilink")及南韓網絡遊戲商引入。隨後開設「網絡遊戲用戶通報中心」，能傳送關於不正當或作弊工具之訊息。
 
 ## 功能

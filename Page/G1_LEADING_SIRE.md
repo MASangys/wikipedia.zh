@@ -1,3 +1,6 @@
+> 本文内容由[G1 LEADING SIRE](https://zh.wikipedia.org/wiki/G1_LEADING_SIRE)转换而来。
+
+
 **GI LEADING SIRE**是一隻由[科樂美](../Page/科樂美.md "wikilink")在1999年製作的[賽馬](../Page/賽馬.md "wikilink")[街機系列](https://zh.wikipedia.org/wiki/街機 "wikilink")。版本二於2000年發表，版本三則為2001年。以[磁力卡保存遊玩資料](https://zh.wikipedia.org/wiki/磁力卡 "wikilink")。
 
 ## 遊戲簡介

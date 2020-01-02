@@ -1,3 +1,6 @@
+> 本文内容由[J Storm](https://zh.wikipedia.org/wiki/J_Storm)转换而来。
+
+
 **J Storm（）**是[日本](../Page/日本.md "wikilink")的一間[唱片公司](../Page/唱片公司.md "wikilink")，成立於2001年11月12日，當時是為了[嵐](../Page/嵐.md "wikilink")而成立的專屬品牌，目前則負責為[傑尼斯旗下組合](https://zh.wikipedia.org/wiki/傑尼斯 "wikilink")（包括[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")、嵐、[KAT-TUN](../Page/KAT-TUN.md "wikilink")、[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")及[Hey\! Say\! JUMP](../Page/Hey!_Say!_JUMP.md "wikilink")）出版相關的影音產品。2006年3月，J Storm為KAT-TUN出道而成立另一個品牌「**J-One Records**」。目前社長是[藤島茱莉景子](../Page/藤島茱莉景子.md "wikilink")。除了為屬下的組合推出影音產品外，更會為旗下藝人拍攝[電影及](https://zh.wikipedia.org/wiki/電影 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 雖然影音產品是以J Storm或J-One Records名義推出，但實質是由另一間唱片公司負責發售。在2006年7月前是由[東芝EMI負責發行](https://zh.wikipedia.org/wiki/東芝EMI "wikilink")，現在是由[索尼音樂](../Page/日本索尼音樂娛樂.md "wikilink")（Sony Music Distribution (Japan) Inc.）負責發行；[台灣方面](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2006年5月前是由[EMI代理](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")，目前由[愛貝克思代理](../Page/愛貝克思_\(台灣\).md "wikilink")。

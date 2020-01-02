@@ -1,3 +1,6 @@
+> 本文内容由[IP多媒体子系统](https://zh.wikipedia.org/wiki/IP多媒体子系统)转换而来。
+
+
 **IP多媒体子系统**（IP Multimedia Subsystem，IMS）或**IP多媒体核心网络子系统**（IP Multimedia Core Network Subsystem, IMCNS）是一个基于互联网协议提供多媒体业务的体系架构。传统移动电话使用类[电路交换](../Page/电路交换.md "wikilink")网络提供语音通话服务，而非使用计算机[分组交换](../Page/分组交换.md "wikilink")通信方式的网络。虽然已有很多方式在智能手机上提供[网络电话与其他互联网多媒体服务](https://zh.wikipedia.org/wiki/网络协议通话技术 "wikilink")，但并未形成行业标准，IMS则为此提供了一个标准化体系架构。
 
 IMS的最初的版本（3GPP Rel-5）主要是给出了一种基于[GPRS](../Page/GPRS.md "wikilink")来实现互联网协议多媒体业务的方法。在这个版本的基础上，3GPP、[3GPP2以及](https://zh.wikipedia.org/wiki/3GPP2 "wikilink")[TISPAN进行了进一步的更新](https://zh.wikipedia.org/wiki/TISPAN "wikilink")，以支持GPRS之外，诸如[WLAN](https://zh.wikipedia.org/wiki/WLAN "wikilink")、[CDMA2000](../Page/CDMA2000.md "wikilink")和固定电话线等其他接入方式。

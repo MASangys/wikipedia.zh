@@ -1,3 +1,6 @@
+> 本文内容由[Kalafina](https://zh.wikipedia.org/wiki/Kalafina)转换而来。
+
+
 **Kalafina**（台：**華麗菲娜**\[1\]，陸：**卡拉菲娜**\[2\]）是已經解散的日本女子音樂團體，隸屬於[SPACE CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）與[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）。由[梶浦由記](../Page/梶浦由記.md "wikilink")為製作[空之境界](../Page/空之境界.md "wikilink")劇場版主題曲而在2007年組成。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[OpenStep](https://zh.wikipedia.org/wiki/OpenStep)转换而来。
+
+
 **OpenStep**是一组面向对象的[API](../Page/应用程序接口.md "wikilink")，大部分是由[NeXT](../Page/NeXT.md "wikilink")与[Sun Microsystems开发](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")。作为一种[面向对象的操作系统的规范](https://zh.wikipedia.org/wiki/object-oriented_operating_system "wikilink")，有一些现代操作系统用它作为核心。对于**OpenStep**一个重要的认识是，它只是一组API规范，而**OPENSTEP**（一定要大写）是由[NeXT开发的一个OpenStep的特殊实现](https://zh.wikipedia.org/wiki/NeXT_Computer "wikilink")。尽管它构建于[Mach](https://zh.wikipedia.org/wiki/Mach_kernel "wikilink")－即基于[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")（也是[NEXTSTEP的核心](https://zh.wikipedia.org/wiki/NEXTSTEP "wikilink")），OPENSTEP的同样有在[Solaris](../Page/Solaris.md "wikilink")和[Windows NT上的版本](../Page/Windows_NT.md "wikilink")。此外，OPENSTEP库（由OPENSTEP操作系统提供的库）实际上已经成为了原始OpenStep规范的超集。
 
 ## 歷史

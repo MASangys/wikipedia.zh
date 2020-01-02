@@ -1,3 +1,6 @@
+> 本文内容由[SharpDevelop](https://zh.wikipedia.org/wiki/SharpDevelop)转换而来。
+
+
 **SharpDevelop**是個自由的開放原始碼[整合開發環境](../Page/集成开发环境.md "wikilink")，主要用來開發支援[.NET Framework的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[C\#](../Page/C♯.md "wikilink")，[Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")（VB.NET）與[BOO](../Page/BOO.md "wikilink")等[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。
 
 它可以用來作為[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [Visual Studio .NET的替代品](https://zh.wikipedia.org/wiki/Visual_Studio_.NET "wikilink")，[MonoDevelop](../Page/MonoDevelop.md "wikilink")曾由此分支出來。

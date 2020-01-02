@@ -1,3 +1,6 @@
+> 本文内容由[FN P90衝鋒槍](https://zh.wikipedia.org/wiki/FN_P90衝鋒槍)转换而来。
+
+
 **P90**是于1990年由[比利時的軍火商](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale所推出](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")，屬於[個人防衛武器](../Page/個人防衛武器.md "wikilink")類別的一種鎗械。P90是全名“FN Project 1990”的簡寫，意即90年代所發明。P90是世界上第一種使用了全新彈藥的[個人防衛武器](../Page/個人防衛武器.md "wikilink")類槍械。
 
 ## 歷史

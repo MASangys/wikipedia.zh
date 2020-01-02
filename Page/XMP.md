@@ -1,3 +1,6 @@
+> 本文内容由[XMP](https://zh.wikipedia.org/wiki/XMP)转换而来。
+
+
 **可延伸後設資料平台**（，**XMP**）是一項由[Adobe Systems所創建的](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[ISO標準](../Page/國際標準化組織.md "wikilink")（ISO 16684-1:2012）\[1\]，其目的在於將數位影像資料的[後設資料標準化](https://zh.wikipedia.org/wiki/後設資料 "wikilink")。
 
 ## 沿革

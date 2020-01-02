@@ -1,3 +1,6 @@
+> 本文内容由[SIG SG 552卡賓槍](https://zh.wikipedia.org/wiki/SIG_SG_552卡賓槍)转换而来。
+
+
 **SIG SG 552**是[SIG SG 550的縮短版本](../Page/SIG_SG_550突擊步槍.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，由[Swiss Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前身為[SIG Arms](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink")）制造。
 
 ## 設計

@@ -1,3 +1,6 @@
+> 本文内容由[TEM7型柴油机车](https://zh.wikipedia.org/wiki/TEM7型柴油机车)转换而来。
+
+
 **TEM7型柴油机车**（）是由[苏联](../Page/苏联.md "wikilink")[柳迪诺沃内燃机车制造厂设计制造的一种调车用](https://zh.wikipedia.org/wiki/柳迪诺沃内燃机车制造厂 "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是苏联铁路第一种单机八轴柴油机车。
 
 ## 发展历史

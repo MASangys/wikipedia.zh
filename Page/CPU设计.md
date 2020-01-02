@@ -1,3 +1,6 @@
+> 本文内容由[CPU设计](https://zh.wikipedia.org/wiki/CPU设计)转换而来。
+
+
 **CPU 设计**是指设计[中央处理器](../Page/中央处理器.md "wikilink")(CPU)的工程学，是计算机[硬件](../Page/硬件.md "wikilink")(设计)的一部分，它是[计算机工程和](https://zh.wikipedia.org/wiki/计算机工程 "wikilink")[电子工程](../Page/电子工程.md "wikilink")中的一个分支。
 
 ## 细节

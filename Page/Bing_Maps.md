@@ -1,3 +1,6 @@
+> 本文内容由[Bing Maps](https://zh.wikipedia.org/wiki/Bing_Maps)转换而来。
+
+
 ****（前稱、或）是[微軟公司推出的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[Bing](../Page/Bing.md "wikilink")服務中[線上地圖服務](https://zh.wikipedia.org/wiki/電子地圖服務 "wikilink")，與[NOKIA提供的](https://zh.wikipedia.org/wiki/NOKIA "wikilink")[Here地圖共用地圖資源](https://zh.wikipedia.org/wiki/Here地圖 "wikilink")、介面。它的原名叫做「」，在微軟推出了  後它被改進後更名為並整合到了  產品系列中。现在，它作为Bing搜索引擎的一部分提供，并于2009年12月3日发布了一个新的测试版本。
 
 使用它，可以在[網路瀏覽器中觀察到世界上的每一個角落](https://zh.wikipedia.org/wiki/網路瀏覽器 "wikilink")。

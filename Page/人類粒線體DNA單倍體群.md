@@ -1,3 +1,6 @@
+> 本文内容由[人類粒線體DNA單倍體群](https://zh.wikipedia.org/wiki/人類粒線體DNA單倍體群)转换而来。
+
+
 [World_map_of_prehistoric_human_migrations.jpg](https://zh.wikipedia.org/wiki/File:World_map_of_prehistoric_human_migrations.jpg "fig:World_map_of_prehistoric_human_migrations.jpg") [Peopling_of_eurasia.jpg](https://zh.wikipedia.org/wiki/File:Peopling_of_eurasia.jpg "fig:Peopling_of_eurasia.jpg")
 
 **人類粒線體DNA單倍體群**（**Human mitochondrial DNA Haplogroup**）是[遺傳學上依據](https://zh.wikipedia.org/wiki/遺傳學 "wikilink")[粒線體DNA差異而定義出來的](https://zh.wikipedia.org/wiki/粒線體DNA "wikilink")[單倍體群](https://zh.wikipedia.org/wiki/單倍群 "wikilink")。可使研究者追溯母系遺傳的人類起源，粒線體研究顯示[人類](../Page/人類.md "wikilink")是起源於非洲地區。

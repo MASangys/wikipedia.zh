@@ -1,3 +1,6 @@
+> 本文内容由[Central Group](https://zh.wikipedia.org/wiki/Central_Group)转换而来。
+
+
 **中心組（セントラルグループ；Central Group）**是一所[日本](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[企業公司](https://zh.wikipedia.org/wiki/企業 "wikilink")，旗下主要藝人成員為未成年的[兒童藝人](https://zh.wikipedia.org/wiki/兒童藝人 "wikilink")。
 
 企業架構分別由中心製作部門、中心兒童劇團部門、中心兒童藝人部門及中心時尚部門，這四個部門組合而成。旗下曾育成包括[志田未來](../Page/志田未來.md "wikilink")、[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")、塚本璃子（[成海璃子](../Page/成海璃子.md "wikilink")）、[須賀健太](../Page/須賀健太.md "wikilink")等多名日本著名兒童演員。至[2012年3月](../Page/2012年3月.md "wikilink")止，旗下兒童藝人數目約為2500人\[1\] 。

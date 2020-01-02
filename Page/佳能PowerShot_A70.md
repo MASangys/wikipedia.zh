@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot A70](https://zh.wikipedia.org/wiki/佳能PowerShot_A70)转换而来。
+
+
 **佳能 PowerShot A70**是一款[佳能](../Page/佳能.md "wikilink")相机，于[2003年3月](../Page/2003年3月.md "wikilink")推出。原本市场定位为取代之前的[A30](https://zh.wikipedia.org/wiki/Canon_PowerShot_A30 "wikilink")、[A40](https://zh.wikipedia.org/wiki/Canon_PowerShot_A40 "wikilink")。
 
 这款相机借鉴了PowerShot G系列的一些成功经验并加以应用，如加入光圈优先、快门优先、全手动等拍摄模式，在爱好者中得到了“手动王”的美誉。相对低廉的价格（中国大陆时价约三千[人民币](../Page/人民币.md "wikilink")）及其所提供的可以媲美高端机型品质的画面，赢得了消费者的青睐，成为佳能占据市场的主力机型。

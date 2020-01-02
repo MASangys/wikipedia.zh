@@ -1,3 +1,6 @@
+> 本文内容由[ATRAC](https://zh.wikipedia.org/wiki/ATRAC)转换而来。
+
+
 [Atrac3.gif](https://zh.wikipedia.org/wiki/File:Atrac3.gif "fig:Atrac3.gif")
 
 **自適應聽覺轉換編碼**（，缩写**ATRAC**）為[Sony公司於](https://zh.wikipedia.org/wiki/Sony "wikilink")1992年所開發之音訊[有损数据压缩](../Page/有损数据压缩.md "wikilink")技術，也是相關技術名詞之總稱。除了Sony本身，其他[MiniDisc](../Page/MiniDisc.md "wikilink")製造商如[Sharp](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[Panasonic等](https://zh.wikipedia.org/wiki/Panasonic "wikilink")，也有各自研發自家的ATRAC[编解码器](../Page/编解码器.md "wikilink")。

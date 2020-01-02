@@ -1,3 +1,6 @@
+> 本文内容由[07th Expansion](https://zh.wikipedia.org/wiki/07th_Expansion)转换而来。
+
+
 **07th Expansion**（）是[同人遊戲](../Page/同人遊戲.md "wikilink")[組織](../Page/组织_\(社会学\).md "wikilink")。
 
 活動初期是製作[Leaf Fight的原創卡片為主](https://zh.wikipedia.org/wiki/Leaf_Fight "wikilink")，其後因為制作[電子小說](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》系列而成名。

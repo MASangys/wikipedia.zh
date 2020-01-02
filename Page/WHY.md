@@ -1,3 +1,6 @@
+> 本文内容由[WHY](https://zh.wikipedia.org/wiki/WHY)转换而来。
+
+
 《**WHY**》是韓國[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE的第四張日语单曲](../Page/4minute.md "wikilink")，於2011年3月9日公開發售。這張单曲分为三个版本发行，包括「DVD付初回限定盘 A」、「DVD付初回限定盘 B」以及「通常盘」。「WHY」作為『[惡黨〜重犯罪搜査班](https://zh.wikipedia.org/wiki/惡黨〜重犯罪搜査班 "wikilink")』片頭曲。
 
 ## 曲目

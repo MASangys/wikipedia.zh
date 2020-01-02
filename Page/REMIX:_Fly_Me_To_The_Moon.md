@@ -1,3 +1,6 @@
+> 本文内容由[REMIX: Fly Me To The Moon](https://zh.wikipedia.org/wiki/REMIX:_Fly_Me_To_The_Moon)转换而来。
+
+
 **REMIX: Fly Me To The Moon** 日本歌手[宇多田光](../Page/宇多田光.md "wikilink")的第七張單曲，第二章英文單曲，於2000年5月10日發行，這是她生涯唯一只發行黑膠唱片的單曲。收錄她翻唱名曲"[Fly Me To The Moon](https://zh.wikipedia.org/wiki/Fly_Me_To_The_Moon "wikilink")"的四個版本。東芝EMI為此單曲拍攝了動畫PV。
 
 7年後，2007年電影[新世紀福音戰士 新劇場版：序上映期間](https://zh.wikipedia.org/wiki/新世紀福音戰士_新劇場版：序 "wikilink")，本曲混音作為B面曲收錄於她的單曲[Beautiful World/Kiss & Cry中](https://zh.wikipedia.org/wiki/Beautiful_World/Kiss_&_Cry "wikilink")。（該單曲A面為即是她為該電影製作之主題曲）

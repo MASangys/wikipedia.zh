@@ -1,3 +1,6 @@
+> 本文内容由[I\'m Enterprise](https://zh.wikipedia.org/wiki/I\'m_Enterprise)转换而来。
+
+
 **株式會社I'm Enterprise**（，）是總部位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。常簡寫成「**I'm**（）」。1997年成立。[ARTSVISION](../Page/ARTSVISION.md "wikilink")的子聲優公司。
 
 ## 概要

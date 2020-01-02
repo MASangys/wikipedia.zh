@@ -1,3 +1,6 @@
+> 本文内容由[Now \(周筆暢專輯\)](https://zh.wikipedia.org/wiki/Now_\(周筆暢專輯\))转换而来。
+
+
 《NOW》是[中国大陆](../Page/中国大陆.md "wikilink")歌手[周笔畅](../Page/周笔畅.md "wikilink")的第二张个人专辑，也是她于2007年12月18日同步发行的双子专辑之一。《NOW》这张专辑延续了周笔畅擅长的抒情R\&B风格，代表着“现在”的周笔畅；而在另一张专辑《[WOW](https://zh.wikipedia.org/wiki/WOW_\(专辑\) "wikilink")》里，制作人和周笔畅实验了摇滚、舞曲、乡村等不同的音乐风格和唱法，目的是使听者发出"Wow\!"的感叹。\[1\]《NOW》这张专辑中还收录了周笔畅自己创作的歌曲《彼此》和《未来就是现在》。
 
 专辑的主打歌《浏阳河2008》中引用了[湖南](https://zh.wikipedia.org/wiki/湖南 "wikilink")[民歌](https://zh.wikipedia.org/wiki/民歌 "wikilink")《[浏阳河](https://zh.wikipedia.org/wiki/浏阳河 "wikilink")》的片段。《浏阳河》的原词作者徐叔华曾对新歌的歌词质量表示不满并试图起诉《浏阳河2008》的词曲作者和发行公司。\[2\] 后经双方调解，纠纷已和平解决。\[3\]

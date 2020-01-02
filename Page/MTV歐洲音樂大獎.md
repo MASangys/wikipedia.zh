@@ -1,3 +1,6 @@
+> 本文内容由[MTV歐洲音樂大獎](https://zh.wikipedia.org/wiki/MTV歐洲音樂大獎)转换而来。
+
+
 **[MTV歐洲音樂獎](https://zh.wikipedia.org/wiki/MTV "wikilink")**（MTV Europe Music Awards，簡稱EMA），是MTV全球音樂電視臺為歐洲各國表現傑出的歌手設立的獎項，目的是表彰觀眾喜歡的歌手。(由公眾投票評選)。1994年創辦。
 
 ## 主辦城市

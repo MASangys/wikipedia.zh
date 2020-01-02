@@ -1,3 +1,6 @@
+> 本文内容由[Apple III](https://zh.wikipedia.org/wiki/Apple_III)转换而来。
+
+
 **蘋果III**是一款面向商业用户的[个人电脑](../Page/个人电脑.md "wikilink")。它于1980年5月由[苹果电脑公司开始制造销售](https://zh.wikipedia.org/wiki/苹果电脑公司 "wikilink")，于1984年4月24日停产。其先祖－著名的[Apple II](../Page/Apple_II.md "wikilink")－是由苹果公司的共同创始人[史蒂夫·沃茲尼克](https://zh.wikipedia.org/wiki/史蒂夫·沃茲尼克 "wikilink")（Steve Wozniak）设计的。Apple III的设计则在Wendell Sander博士的指挥下于1978年末开始。它的内部代号叫做Sara，以Sander的女儿命名。
 
 ## 历史与设计

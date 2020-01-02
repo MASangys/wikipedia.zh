@@ -1,3 +1,6 @@
+> 本文内容由[Happiness \(組合\)](https://zh.wikipedia.org/wiki/Happiness_\(組合\))转换而来。
+
+
 **Happiness**是[日本](../Page/日本.md "wikilink")的女子歌唱團體。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴

@@ -1,3 +1,6 @@
+> 本文内容由[Wings 3D](https://zh.wikipedia.org/wiki/Wings_3D)转换而来。
+
+
 **Wings 3D**是一个[开源的](../Page/开源软件.md "wikilink")[三维计算机图形软件](../Page/三维计算机图形软件.md "wikilink")，适合创建[细分曲面](../Page/细分曲面.md "wikilink")[模型](../Page/三维模型.md "wikilink")。Wings 3D的名字来源于它用于存储坐标系和临近数据所使用的[翼边数据结构](https://zh.wikipedia.org/wiki/翼边 "wikilink")，构思取于Izware的Nendo和Mirai。支持多种[操作系统](../Page/操作系统.md "wikilink")，包括[Linux](../Page/Linux.md "wikilink")、[Mac和](https://zh.wikipedia.org/wiki/Mac "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。基于[Erlang](../Page/Erlang.md "wikilink")环境。
 
 ## 简介

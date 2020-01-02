@@ -1,3 +1,6 @@
+> 本文内容由[Windows Phone 8](https://zh.wikipedia.org/wiki/Windows_Phone_8)转换而来。
+
+
 [Nokia_Lumia_1020_with_PD-95G.jpg](https://zh.wikipedia.org/wiki/File:Nokia_Lumia_1020_with_PD-95G.jpg "fig:Nokia_Lumia_1020_with_PD-95G.jpg") ****是[美国](../Page/美国.md "wikilink")[微软公司推出的第二代](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Windows Phone](../Page/Windows_Phone.md "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，于2012年10月29日上市。\[1\]Windows Phone 8采用与[Windows 8相同的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[NT内核](../Page/Windows_NT.md "wikilink")。系统于2012年6月20日发布预览版，并于2012年9月14日交付给制造商。\[2\]
 
 第一批采用Windows Phone 8的设备由[诺基亚](../Page/诺基亚.md "wikilink")、[华为](../Page/华为.md "wikilink")、[三星及](https://zh.wikipedia.org/wiki/三星集团 "wikilink")[HTC所发布](https://zh.wikipedia.org/wiki/HTC "wikilink")。所有设备均会采用[高通公司的](https://zh.wikipedia.org/wiki/高通公司 "wikilink")[系统单芯片](https://zh.wikipedia.org/wiki/系统单芯片 "wikilink")。不过由于内核变更，现有的Windows Phone 7.X设备将不能运行或者升级至Windows Phone 8；Windows Phone 8几乎兼容所有Windows Phone 7.5的应用程序，但Windows Phone 8的所有原生程序无法在Windows Phone 7.X上运行，属于单向兼容。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Stand By](https://zh.wikipedia.org/wiki/Stand_By)转换而来。
+
+
 《**Stand By**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年4月9日起週一至五晚間7點45分至8點15分播出的日日情境劇。以電視台為背景，講述播音員、綜藝節目導演和編劇的煩惱和愛情。
 
 ## 劇情

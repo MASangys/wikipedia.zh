@@ -1,3 +1,6 @@
+> 本文内容由[劇場版美少女戰士S](https://zh.wikipedia.org/wiki/劇場版美少女戰士S)转换而来。
+
+
 《**劇場版美少女戰士S**》（原題：），是於1994年12月4日首映的《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》系列動畫電影第二部作品，由《[美少女戰士S](../Page/美少女戰士S.md "wikilink")》漫畫別冊《竹取公主的戀人》改編。
 
 ## 概要

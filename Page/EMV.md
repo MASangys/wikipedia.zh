@@ -1,3 +1,6 @@
+> 本文内容由[EMV](https://zh.wikipedia.org/wiki/EMV)转换而来。
+
+
 [JGC_VISA01s.jpg](https://zh.wikipedia.org/wiki/File:JGC_VISA01s.jpg "fig:JGC_VISA01s.jpg")和[Visa联合发布的信用卡](https://zh.wikipedia.org/wiki/Visa "wikilink")，下方中央位置金色方块即使用EMV标准的芯片。\]\]
 
 **EMV**是國際金融業界對於[智慧](../Page/智慧.md "wikilink")與可使用晶片卡的[POS終端機及](../Page/銷售時點情報系統.md "wikilink")[自動櫃員機](../Page/自動櫃員機.md "wikilink")（ATM）等所制定的标准。EMV[智慧卡](../Page/智慧卡.md "wikilink")（也称为IC卡）的信息储存在[集成电路](../Page/集成电路.md "wikilink")中而非过去的[磁条里](https://zh.wikipedia.org/wiki/磁条 "wikilink")，但大部分EMV卡背也有可以[向下兼容](../Page/向下兼容.md "wikilink")的磁条。芯片可以和插入式读卡器交换数据，[非接触式智能卡还可以使用](https://zh.wikipedia.org/wiki/非接触式智能卡 "wikilink")[射频识别](../Page/射频识别.md "wikilink")（RFID）技术在一定范围内交换数据。符合EMV标准的支付卡叫做**芯片卡**。

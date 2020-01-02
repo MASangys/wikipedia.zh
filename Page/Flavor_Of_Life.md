@@ -1,3 +1,6 @@
+> 本文内容由[Flavor Of Life](https://zh.wikipedia.org/wiki/Flavor_Of_Life)转换而来。
+
+
 《**Flavor Of Life**》是[宇多田光](../Page/宇多田光.md "wikilink")的第18張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2007年2月28日發行，初動27萬張，累計銷量65萬張，為宇多田光近年的代表作之一。
 
 《Flavor Of Life》歌曲的總下載量至今突破800萬次，為2007年總下載量日本第一、世界第二的歌曲。

@@ -1,3 +1,6 @@
+> 本文内容由[Forgiveness](https://zh.wikipedia.org/wiki/Forgiveness)转换而来。
+
+
 《**forgiveness**》（原諒）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第30張單曲，2003年8月20日於日本發售。
 
 ## 說明

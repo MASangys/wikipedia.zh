@@ -1,3 +1,6 @@
+> 本文内容由[ENSEMBLE ～舞降る羽のアンサンブル～](https://zh.wikipedia.org/wiki/ENSEMBLE_～舞降る羽のアンサンブル～)转换而来。
+
+
 《**ENSEMBLE**》（ENSEMBLE ～舞降る羽のアンサンブル～）是2004年1月30日由[F\&C FC03發售的](../Page/F&C.md "wikilink")[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。\[1\]
 
 預約購買者在一些店鋪還得到作為特典的[Windows XP對應版](../Page/Windows_XP.md "wikilink")《》。

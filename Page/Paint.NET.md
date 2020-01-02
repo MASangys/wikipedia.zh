@@ -1,3 +1,6 @@
+> 本文内容由[Paint.NET](https://zh.wikipedia.org/wiki/Paint.NET)转换而来。
+
+
 **Paint.NET**是使用[.NET Framework開發](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，適用於[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[點陣圖形編輯](https://zh.wikipedia.org/wiki/點陣圖 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")。Paint.NET最初是一個[華盛頓州立大學](../Page/華盛頓州立大學.md "wikilink")的學生專案，而Paint.NET則發展成支援[圖層](https://zh.wikipedia.org/wiki/圖層 "wikilink")、顏色渲染、透明度及擴充元件的[小畫家替代品](https://zh.wikipedia.org/wiki/小畫家 "wikilink")。而現在Paint.NET則已經被視為[Adobe Photoshop的免費替代品](../Page/Adobe_Photoshop.md "wikilink")。
 
 ## 概要

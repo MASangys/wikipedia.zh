@@ -1,3 +1,6 @@
+> 本文内容由[KELT-2Ab](https://zh.wikipedia.org/wiki/KELT-2Ab)转换而来。
+
+
 **KELT-2Ab**是一顆環繞恆星[KELT-2A](../Page/KELT-2A.md "wikilink")的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距離地球約419光年，位於[御夫座](../Page/御夫座.md "wikilink")\[1\]。該行星是由（Kilodegree Extremely Little Telescope，KELT）以凌日法發現，因此可以精確測定它的質量和體積。KELT-2Ab發現時是凌日的熱木星中亮度第五高的，因此可以知道它的約束質量相當高。這些特性使KELT-2A系統是未來太空或地面望遠鏡進一步觀測以了解行星大氣層的良好目標。
 
 母恆星KELT-2A是一個擁有共同自行聯星系統KELT-2（HD 42176）的其中一顆成員星。KELT-2B是一顆[橙矮星](../Page/橙矮星.md "wikilink")，距離主星295天文單位。

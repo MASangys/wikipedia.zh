@@ -1,3 +1,6 @@
+> 本文内容由[Euphoric field](https://zh.wikipedia.org/wiki/Euphoric_field)转换而来。
+
+
 **euphoric field**（），是2007年10月24日由[GENEON ENTERTAINMENT發行的日本女歌手](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")。商品番號為GNCA-0073。這首單曲是同年[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef - a tale of memories.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_memories. "wikilink")》的主題曲。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Joe Junior](https://zh.wikipedia.org/wiki/Joe_Junior)转换而来。
+
+
 **羅利期**\[1\]（，，），澳門著名[土生葡人歌手及影星](../Page/澳門土生葡人.md "wikilink")，但在拍攝《[三個小生去旅行](../Page/三個小生去旅行.md "wikilink")》前未曾到過葡國，更完全不諳[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")\[2\]。在[澳門](../Page/澳門.md "wikilink")出生，曾就讀澳門的[粤華中學](https://zh.wikipedia.org/wiki/粤華中學 "wikilink")，[聖若瑟書院](../Page/聖若瑟書院.md "wikilink")及[新法書院](../Page/新法書院.md "wikilink")（在校時與已故藝人[鄧光榮](../Page/鄧光榮.md "wikilink")為同學）。
 
 ## 歌唱生涯

@@ -1,3 +1,6 @@
+> 本文内容由[PGA巡回赛](https://zh.wikipedia.org/wiki/PGA巡回赛)转换而来。
+
+
 **PGA巡回赛**（英文：，简称“美巡赛”）是一项[美国](../Page/美国.md "wikilink")职业[高尔夫球系列赛事的统称](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，也是负责运作这些赛事的机构本身的名称。其总部设于[佛罗里达州](../Page/佛罗里达州.md "wikilink")[杰克逊维尔市郊外的蓬特委德拉海滩](https://zh.wikipedia.org/wiki/杰克逊维尔市 "wikilink")（Ponte Vedra Beach）。该组织的名称也经常被表示为全部大写的"**PGA TOUR**"。
 
 ## 沿革

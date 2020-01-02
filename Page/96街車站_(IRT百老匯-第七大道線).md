@@ -1,3 +1,6 @@
+> 本文内容由[96街車站 \(IRT百老匯-第七大道線\)](https://zh.wikipedia.org/wiki/96街車站_\(IRT百老匯-第七大道線\))转换而来。
+
+
 **96街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")的一個快車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[上西城](../Page/上西城.md "wikilink")及[百老匯](../Page/百老匯.md "wikilink")交界，設有[1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")、[2號線與](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")[3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")（均為任何時候停站）列車服務。
 
 96街車站曾為一部分，並於1904年10月27日啟用\[1\]。當時車站是同時是快慢車的總站，而快車會以慢車繼續北行至[145街](https://zh.wikipedia.org/wiki/145街車站_\(IRT百老匯-第七大道線\) "wikilink")\[2\]。

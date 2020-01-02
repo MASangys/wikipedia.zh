@@ -1,3 +1,6 @@
+> 本文内容由[宮S](https://zh.wikipedia.org/wiki/宮S)转换而来。
+
+
 **《宮S》**([韓文](../Page/諺文.md "wikilink")：****)，又稱《我的野蠻王子》([英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Prince Hours**)是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[MBC電視台於](https://zh.wikipedia.org/wiki/韓國文化廣播公司 "wikilink")2007年1月至3月期間播放的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，是一套假設韓國仍被君主管治為背景的劇集，由[崔東昱](../Page/崔東昱.md "wikilink")(SE7EN)、[許怡才](../Page/許怡才.md "wikilink")、[-{朴}-信惠及](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[姜斗主演](https://zh.wikipedia.org/wiki/姜斗 "wikilink")。此劇播出後，不獲好評，人氣也比不上第一部於2006年播映的《[宮](../Page/宮_\(2006年電視劇\).md "wikilink")》，而且收視更加每況愈下，最低曾見4.2%\[1\]，比不上同時段[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[達子的春天](../Page/達子的春天.md "wikilink")》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[外科醫生奉達熙](../Page/外科醫生奉達熙.md "wikilink")》。
 
 ## 人物介紹

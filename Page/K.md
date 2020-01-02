@@ -1,3 +1,6 @@
+> 本文内容由[K](https://zh.wikipedia.org/wiki/K)转换而来。
+
+
 **K**, **k** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第11个[字母](../Page/字母.md "wikilink")。它来源于[希腊字母](../Page/希腊字母.md "wikilink")的[Κ或](https://zh.wikipedia.org/wiki/Κ "wikilink")[κ](https://zh.wikipedia.org/wiki/κ "wikilink") (Kappa)，而希腊语的这个字母又来源于闪族语字母Kap，表示一支张开的手。
 
 虽然拉丁语转用字母[C](../Page/C.md "wikilink")而完全抛弃字母K，但闪族语字母的音值/k/在很多古典语言和现代语言中得到保留。因此，[罗曼语族](../Page/罗曼语族.md "wikilink")的字母K只用来拼写外来语。

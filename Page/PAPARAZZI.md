@@ -1,3 +1,6 @@
+> 本文内容由[PAPARAZZI](https://zh.wikipedia.org/wiki/PAPARAZZI)转换而来。
+
+
 《**PAPARAZZI**》是[韓國流行音樂女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[少女時代的第四張日語單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2012年6月27日由[環球唱片發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。\[1\]
 
 ## 概要

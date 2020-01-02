@@ -1,3 +1,6 @@
+> 本文内容由[FFmpeg](https://zh.wikipedia.org/wiki/FFmpeg)转换而来。
+
+
 **FFmpeg** 是一個[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，可以執行音訊和視訊多種格式的錄影、轉檔、串流功能\[1\]，包含了libavcodec——這是一個用於多個專案中音訊和視訊的解碼器函式庫，以及libavformat——一個音訊與視訊格式轉換函式庫。
 
 「FFmpeg」这个单词中的「FF」指的是「Fast Forward（快速前進）」\[2\]。有些新手写信给「FFmpeg」的项目负责人，询问FF是不是代表“Fast Free”或者“Fast Fourier”等意思，「FFmpeg」的项目负责人回信说：“Just for the record, the original meaning of "FF" in FFmpeg is "Fast Forward"...”

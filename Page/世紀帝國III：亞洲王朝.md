@@ -1,3 +1,6 @@
+> 本文内容由[世紀帝國III：亞洲王朝](https://zh.wikipedia.org/wiki/世紀帝國III：亞洲王朝)转换而来。
+
+
 | platforms = [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") }}
 
 是一個[即時戰略](https://zh.wikipedia.org/wiki/即時戰略 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，由[全效工作室](../Page/全效工作室.md "wikilink")和[Big Huge Games共同開發](../Page/Big_Huge_Games.md "wikilink")，並由[Microsoft Game Studios發行](https://zh.wikipedia.org/wiki/Microsoft_Game_Studios "wikilink")。這遊戲是《[世紀帝國III](../Page/世紀帝國III.md "wikilink")》的第二片[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，於《[世紀帝國III：群酋爭霸](../Page/世紀帝國III：群酋爭霸.md "wikilink")》之後發行。遊戲加入了三個新[文明](../Page/文明.md "wikilink")：[印度](https://zh.wikipedia.org/wiki/莫臥兒帝國 "wikilink")、[中國和](../Page/清朝.md "wikilink")[日本](https://zh.wikipedia.org/wiki/德川幕府 "wikilink")，以及一些原住民、戰伇、地圖以及遊戲模式。

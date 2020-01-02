@@ -1,3 +1,6 @@
+> 本文内容由[K3b](https://zh.wikipedia.org/wiki/K3b)转换而来。
+
+
 **K3b**（來自**KDE Burn Baby Burn**）\[1\] 是一個設計給 [KDE](../Page/KDE.md "wikilink")在[Linux](../Page/Linux.md "wikilink")或其它[類Unix系統上的](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")[CD](../Page/CD.md "wikilink")／[DVD燒錄的](https://zh.wikipedia.org/wiki/DVD "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink") 。K3b 是用[C++](../Page/C++.md "wikilink") [程式語言和](https://zh.wikipedia.org/wiki/程式語言 "wikilink")[Qt](../Page/Qt.md "wikilink")圖形界面開發工具寫成的。 K3b提供了圖形用戶介面給用戶進行CD/DVD燒錄工作，例如複製CD/DVD、製作音樂光碟，或者進一步燒錄[eMoviX光碟](https://zh.wikipedia.org/wiki/eMoviX "wikilink")，更可以直接從光碟複製到另一片光碟，程式也提供很多可以讓進階用戶修改的設定。K3b只提供圖形介面，實際上光碟燒錄是由[CLI工具](../Page/命令行界面.md "wikilink") [cdrecord](https://zh.wikipedia.org/wiki/:en:cdrecord "wikilink")、[wodim](https://zh.wikipedia.org/wiki/:en:wodim "wikilink")、[cdrdao和](https://zh.wikipedia.org/wiki/:en:cdrdao "wikilink")[growisofs完成的](https://zh.wikipedia.org/wiki/:en:growisofs "wikilink")。
 
 從1.0版開始，K3b提供了內建的音樂／DVD光碟讀取程式。

@@ -1,3 +1,6 @@
+> 本文内容由[Esperanza](https://zh.wikipedia.org/wiki/Esperanza)转换而来。
+
+
 《**Esperanza**》為[日本](../Page/日本.md "wikilink")女歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2011年5月18日發行的14th[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說

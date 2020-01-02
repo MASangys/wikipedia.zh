@@ -1,3 +1,6 @@
+> 本文内容由[HAT-P-9](https://zh.wikipedia.org/wiki/HAT-P-9)转换而来。
+
+
 ) G }} |- bgcolor="\#FFFAFA" | **Equatorial \[** [g](https://zh.wikipedia.org/wiki/g-force "wikilink") **\]** || 201,21 [m/s<sup>2</sup>](https://zh.wikipedia.org/wiki/Metre_per_second_squared "wikilink")
 
 **HAT-P-9**是一顆視星等12等的系外行星，距離地球約1560光年，位於[御夫座](../Page/御夫座.md "wikilink")\[1\]。

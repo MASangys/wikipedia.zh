@@ -1,3 +1,6 @@
+> 本文内容由[SD戰國傳 天下統一篇](https://zh.wikipedia.org/wiki/SD戰國傳_天下統一篇)转换而来。
+
+
 **天下統一篇**是「[SD戰國傳](https://zh.wikipedia.org/wiki/SD戰國傳 "wikilink")」終章，之後由「新SD戰國傳」接替。
 
 ## 故事內容

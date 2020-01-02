@@ -1,3 +1,6 @@
+> 本文内容由[Principle Of My Soul](https://zh.wikipedia.org/wiki/Principle_Of_My_Soul)转换而来。
+
+
 **《Principle Of My Soul》**是韓國四人組合Brown Eyed Soul的主唱[NAUL](https://zh.wikipedia.org/wiki/Naul_\(韓國歌手\) "wikilink")（），出道歌壇13年後正式於2012年9月20日由LOEN Music發行的首張正規專輯。甫公開專輯10首歌曲的音源立刻於1個小時內攻占韓國主要音源網第一至第十名的All Kill優異成績，展現NAUL不亞於時下偶像歌手的音樂魅力\[1\]\[2\]。
 
 ## 專輯概要

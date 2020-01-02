@@ -1,3 +1,6 @@
+> 本文内容由[Travianer](https://zh.wikipedia.org/wiki/Travianer)转换而来。
+
+
 **Travianer**（亦稱Travians）是一個[免費](https://zh.wikipedia.org/wiki/免费游戏 "wikilink")[瀏覽器內使用的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[角色](../Page/角色.md "wikilink")扮演[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")，由德國人所製作。
 
 Travianer[世界](../Page/世界.md "wikilink")內有很多[玩家](../Page/玩家.md "wikilink")，你會在此[遊戲裏挑戰日常生活中的村民](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。這意味著你不僅是專注於[佔領](../Page/佔領.md "wikilink")，建立自己的家或決定你是否喜歡這個[遊戲或是進行很多的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")：最重要的事情是溝通一個巨大的鄉村[社區](https://zh.wikipedia.org/wiki/社區 "wikilink")。只有這樣，才能到[俱樂部](../Page/俱樂部.md "wikilink")（Club）和強大的[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")（Gilde）。

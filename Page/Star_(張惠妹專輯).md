@@ -1,3 +1,6 @@
+> 本文内容由[Star \(張惠妹專輯\)](https://zh.wikipedia.org/wiki/Star_\(張惠妹專輯\))转换而来。
+
+
 《**Star**》是台灣歌手[張惠妹](../Page/張惠妹.md "wikilink")發行第14張國語專輯，《Star》為張惠妹加盟[科藝百代後發行首張個人專輯](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")，2007年8月3日發行。該專輯連續稱霸台灣G-MUSIC和五大銷量排行榜4週。\[1\]
 
 ## 曲目

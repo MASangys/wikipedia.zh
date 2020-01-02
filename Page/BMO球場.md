@@ -1,3 +1,6 @@
+> 本文内容由[BMO球場](https://zh.wikipedia.org/wiki/BMO球場)转换而来。
+
+
 **[BMO球場](../Page/滿地可銀行.md "wikilink")**（）是[加拿大](../Page/加拿大.md "wikilink")[安大略省](../Page/安大略省.md "wikilink")[多倫多一座戶外體育場](https://zh.wikipedia.org/wiki/多倫多 "wikilink")，現為[美國職業足球大聯盟](https://zh.wikipedia.org/wiki/美國職業足球大聯盟 "wikilink")（MLS）[多倫多FC](https://zh.wikipedia.org/wiki/多倫多FC "wikilink")、[加拿大加式足球聯盟](../Page/加拿大加式足球聯盟.md "wikilink")（CFL）[多倫多淘金人及](https://zh.wikipedia.org/wiki/多倫多淘金人 "wikilink")[美國足球聯賽多倫多FC](https://zh.wikipedia.org/wiki/美國足球聯賽 "wikilink") II的主場館。場館坐落[加拿大博覽會會場](https://zh.wikipedia.org/wiki/加拿大博覽會 "wikilink")，業權由多倫多市政府擁有，營運權則歸。球場2007年4月28日首次啟用，第一場賽事為多倫多FC對[堪薩斯城巫師](https://zh.wikipedia.org/wiki/堪薩斯城巫師 "wikilink")，結果主隊以0:1敗陣。
 
 此場館原為一座，供2007年起作賽的多倫多FC使用，而[2007年國際足協U-20世界盃](../Page/2007年國際足協U-20世界盃.md "wikilink")和[2014年國際足協女子U-20世界盃](../Page/2014年國際足協女子U-20世界盃.md "wikilink")部分賽事（包括前者的開幕賽和決賽）亦在此進行。場館亦於2010年、2016年和2017年三度舉辦[美國職業足球大聯盟盃](../Page/美國職業足球大聯盟盃.md "wikilink")決賽，當中主隊多倫多FC於2017年贏取獎盃。場館亦曾於[2015年泛美運動會](../Page/2015年泛美運動會.md "wikilink")期間舉辦[七人欖球賽事](https://zh.wikipedia.org/wiki/七人欖球 "wikilink")，而[加拿大國家橄欖球隊](../Page/加拿大國家橄欖球隊.md "wikilink")亦曾在此進行主場賽事。場館從2014-16年間進行重修，在東看台新設上層觀眾席，在觀眾席上方增添屋頂，並延長草坪以迎合[加拿大式足球](../Page/加拿大式足球.md "wikilink")賽事。工程完成後，淘金人隊從2016年CFL賽季起以此作其主場館。

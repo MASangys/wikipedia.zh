@@ -1,3 +1,6 @@
+> 本文内容由[Figma](https://zh.wikipedia.org/wiki/Figma)转换而来。
+
+
 **figma**（）是由[Max Factory企劃及開發](https://zh.wikipedia.org/wiki/Max_Factory "wikilink")，[GOOD SMILE COMPANY發售的](https://zh.wikipedia.org/wiki/GOOD_SMILE_COMPANY "wikilink")[可動式人物模型系列](https://zh.wikipedia.org/wiki/可動式人物模型 "wikilink")。
 
 ## 概要

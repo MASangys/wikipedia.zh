@@ -1,3 +1,6 @@
+> 本文内容由[OwnCloud](https://zh.wikipedia.org/wiki/OwnCloud)转换而来。
+
+
 **ownCloud**是一个[自由且](../Page/自由软件.md "wikilink")[开源的客戶端到服務器端的軟件](../Page/开放源代码.md "wikilink")，可作為个人[云存储](../Page/云存储.md "wikilink")解决方案。包括兩個部分：服务器和客戶端。ownCloud 最早由[KDE](../Page/KDE.md "wikilink")开发者[Frank Karlitschek于](https://zh.wikipedia.org/wiki/Frank_Karlitschek "wikilink")2010年一月创建，目标是成为商业云服务提供商的替代。与商业云存储服务不同，ownCloud可以自由获取无需付费，但相應地，使用者必須自行架設 ownCloud的服务器，這需要一點技術。不過也是有商业云存储服务提供商使用 ownCloud 作為服务器，例如奧地利商的 [OwnCube](https://owncube.com)。
 
 ownCloud在客戶端可透過網頁界面，或者安裝專用的客戶端軟體來使用。網頁界面當然就是任何能開網頁的平台都支援，而客戶端軟體也支援相當多平台，Windows、Linux、iOS、Android皆有。

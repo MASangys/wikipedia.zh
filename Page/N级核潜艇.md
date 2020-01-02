@@ -1,3 +1,6 @@
+> 本文内容由[N级核潜艇](https://zh.wikipedia.org/wiki/N级核潜艇)转换而来。
+
+
 **N级核动力攻击型潜艇**（[北约英文名称](https://zh.wikipedia.org/wiki/北约 "wikilink")：**November Class Submarine**，\[1\]亦可译作**十一月级**，苏俄代号**627型鲸鱼级**）是[苏联海军第一型](https://zh.wikipedia.org/wiki/苏联海军 "wikilink")[核动力](https://zh.wikipedia.org/wiki/核动力 "wikilink")[潜艇](https://zh.wikipedia.org/wiki/潜艇 "wikilink")，于1952年开始研发。当时苏共中央认为核潜艇诞生之后对于苏联海军带来质的影响，遂在1952年启动了627“鲸鱼”计划，即研究苏联的核潜艇。N级与当时苏联的常规潜艇一样，都仅装备[鱼雷](https://zh.wikipedia.org/wiki/鱼雷 "wikilink")。后来[H级核动力](https://zh.wikipedia.org/wiki/H级核潜艇 "wikilink")[弹道导弹潜艇](../Page/弹道导弹潜艇.md "wikilink")就是由N级改进而成的。N级一共建造了13艘，其中[列宁共青团号是第一个达到](https://zh.wikipedia.org/wiki/K-3 "wikilink")[北极点](../Page/北极点.md "wikilink")的苏联潜艇（1962年，比[鹦鹉螺号晚了](https://zh.wikipedia.org/wiki/鹦鹉螺号核动力潜艇 "wikilink")4年）。该级的[K-8号潜艇则于](https://zh.wikipedia.org/wiki/K-8 "wikilink")1970年在[比斯开湾因事故沉沒](https://zh.wikipedia.org/wiki/比斯开湾 "wikilink")。N级其余12艘艇在1987年-1991年间退役。K-3号潜艇退役后做为浮动博物馆保留。
 
 ## 设计过程

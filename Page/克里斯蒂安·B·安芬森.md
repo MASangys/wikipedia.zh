@@ -1,3 +1,6 @@
+> 本文内容由[克里斯蒂安·B·安芬森](https://zh.wikipedia.org/wiki/克里斯蒂安·B·安芬森)转换而来。
+
+
 **克里斯蒂安·伯默尔·安芬森**（，）\[1\]，出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")莫内森，[美国](../Page/美国.md "wikilink")生物化学家，他和[斯坦福·摩爾與](https://zh.wikipedia.org/wiki/斯坦福·摩爾 "wikilink")[威廉·霍華德·斯坦一起研究](https://zh.wikipedia.org/wiki/威廉·霍華德·斯坦 "wikilink")[核糖核酸酶](https://zh.wikipedia.org/wiki/核糖核酸酶 "wikilink")，特別是[胺基酸](https://zh.wikipedia.org/wiki/胺基酸 "wikilink")[序列](../Page/序列.md "wikilink")與生物活性構象之間的關聯，而在1972年共同榮獲[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")。\[2\]
 
 ## 生平

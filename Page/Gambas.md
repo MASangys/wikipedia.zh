@@ -1,3 +1,6 @@
+> 本文内容由[Gambas](https://zh.wikipedia.org/wiki/Gambas)转换而来。
+
+
 {{ infobox programming language | name = Gambas | logo = [<File:Gambas> mascot.png](https://zh.wikipedia.org/wiki/File:Gambas_mascot.png "fig:File:Gambas mascot.png") | screenshot = [Gambas-ubuntu.png](https://zh.wikipedia.org/wiki/File:Gambas-ubuntu.png "fig:Gambas-ubuntu.png") | caption = | year = 1999 | designer = Benoît Minisini | latest_release_version = 3.5.4 | latest_release_date =  | latest_test_version = 2.99.7 | latest_test_date =  | influenced_by = [Visual Basic](../Page/Visual_Basic.md "wikilink") | operating_system = [Linux](../Page/Linux.md "wikilink")、[类Unix系统](../Page/类Unix系统.md "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website = <http://gambas.sourceforge.net/> }}
 
 **Gambas**是一个面向对象的[BASIC](../Page/BASIC.md "wikilink")语言分支和一个附带的[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，能在[Linux](../Page/Linux.md "wikilink")以及其他[类Unix系统](../Page/类Unix系统.md "wikilink")计算机[操作系统](../Page/操作系统.md "wikilink")中运行。它提供一个与[Visual Basic相似的用户体验](../Page/Visual_Basic.md "wikilink")。Gambas被设计成为一个针对迁移到Linux平台上Visual Basic开发者的Visual Basic替代产品。

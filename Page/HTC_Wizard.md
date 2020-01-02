@@ -1,3 +1,6 @@
+> 本文内容由[HTC Wizard](https://zh.wikipedia.org/wiki/HTC_Wizard)转换而来。
+
+
 [Cingular_8125_(htc_wizard).jpg](https://zh.wikipedia.org/wiki/File:Cingular_8125_\(htc_wizard\).jpg "fig:Cingular_8125_(htc_wizard).jpg") **HTC Wizard**，原廠型號**HTC P4300**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5，配備[TI](https://zh.wikipedia.org/wiki/TI "wikilink") OMAP850 201MHz處理器，配有側滑動式[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，性能強大。2005年10月於歐洲首度發表。已知客製版本HTC P4300，Qtek 9100，Qtek A9100，Dopod 838，i-mate K-JAM，T-Mobile MDA Vario，O2 Xda Mini Pro，O2 Xda Mini S，Orange SPV M3000，Orange SPV M6000，Cingular 8125，Vodafone VPA Compact II，E-Plus Pocket PDA。
 
 ## 技術規格

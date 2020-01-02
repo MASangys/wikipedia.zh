@@ -1,3 +1,6 @@
+> 本文内容由[XO-4](https://zh.wikipedia.org/wiki/XO-4)转换而来。
+
+
 **XO-4**是一個距離地球約960光年的[黃-白矮星](https://zh.wikipedia.org/wiki/黃-白矮星 "wikilink")，位於[天貓座](https://zh.wikipedia.org/wiki/天貓座 "wikilink")。它的視星等是11等，必須以小型望遠鏡觀測\[1\]。
 
 ## 行星系統

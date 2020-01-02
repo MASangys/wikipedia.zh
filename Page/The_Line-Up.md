@@ -1,3 +1,6 @@
+> 本文内容由[The Line-Up](https://zh.wikipedia.org/wiki/The_Line-Up)转换而来。
+
+
 《**The Line-Up**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2002年的[粵語音樂專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2002年7月24日發行。
 
 ## 專輯簡介

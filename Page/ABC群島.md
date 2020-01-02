@@ -1,3 +1,6 @@
+> 本文内容由[ABC群島](https://zh.wikipedia.org/wiki/ABC群島)转换而来。
+
+
 **ABC群島**\[1\]是[阿魯巴](../Page/阿魯巴.md "wikilink")（**A**ruba）、[博奈尔](../Page/博奈尔.md "wikilink")（**B**onaire）和[库拉索](../Page/库拉索.md "wikilink")（**C**uraçao）三個島的簡稱，它們為[加勒比地区](../Page/加勒比地区.md "wikilink")[背风安的列斯群岛](../Page/背风安的列斯群岛.md "wikilink")中位於最西面的三個[島嶼](../Page/島嶼.md "wikilink")。從西至東，島嶼的排列順序分別為：阿魯巴、库拉索和博奈尔。
 
 這三個島皆為[荷兰王国](../Page/荷兰王国.md "wikilink")的一部分，但不為[欧洲联盟](../Page/欧洲联盟.md "wikilink")的成員之一，反而屬於[歐洲聯盟特別領域](../Page/歐洲聯盟特別領域.md "wikilink")的其中一個領土。阿魯巴和库拉索皆為荷兰王国中自治的[構成國](https://zh.wikipedia.org/wiki/構成國 "wikilink")，而博奈尔則是[荷蘭加勒比區](../Page/荷蘭加勒比區.md "wikilink")的一個公共实体。

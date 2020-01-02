@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki concert tour 2000 A 第1幕](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_concert_tour_2000_A_第1幕)转换而来。
+
+
 《**ayumi hamasaki concert tour 2000 A 第1幕**》（濱崎步 2000年 巡迴演唱會 A 第1幕）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年間舉行的巡迴演唱會。。
 
 ## 說明

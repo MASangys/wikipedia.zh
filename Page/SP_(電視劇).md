@@ -1,3 +1,6 @@
+> 本文内容由[SP \(電視劇\)](https://zh.wikipedia.org/wiki/SP_\(電視劇\))转换而来。
+
+
 《**SP 警視廳警備部警護課第四係**》是一部從2007年11月3日到2008年1月26日間，在[富士电视](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")[系每](https://zh.wikipedia.org/wiki/FNS "wikilink") 星期六[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")11[時](https://zh.wikipedia.org/wiki/小時 "wikilink")10－55分（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播放，而由[岡田准一](../Page/岡田准一.md "wikilink")主演的[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")、全11集。第一集加长15分钟。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")以「**SP特勤型男**」名稱播出，香港則以「**SP特警**」名稱播出，台灣[WakuWaku Japan於](../Page/WakuWaku_Japan.md "wikilink")2017年7月13日起以「**SP特勤型男**」名稱播出。
 
 ## 演員

@@ -1,3 +1,6 @@
+> 本文内容由[Girl next door](https://zh.wikipedia.org/wiki/Girl_next_door)转换而来。
+
+
 **girl next door**（「女孩次世代」，前稱「**GIRL NEXT DOOR**」），是一支[日本](../Page/日本.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，所屬公司是[艾迴音樂](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")，成員包括2男1女。在台灣被稱作「女孩次世代」。出道單曲《》在日本獲逾230萬次收聽率\[1\]。
 
 ## 成員

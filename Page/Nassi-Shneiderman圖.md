@@ -1,3 +1,6 @@
+> 本文内容由[Nassi-Shneiderman圖](https://zh.wikipedia.org/wiki/Nassi-Shneiderman圖)转换而来。
+
+
 [Multiple_Branching.jpg](https://zh.wikipedia.org/wiki/File:Multiple_Branching.jpg "fig:Multiple_Branching.jpg") **Nassi Shneiderman圖**，簡稱**NS圖**或**盒圖**，是[結構化編程中的一種](https://zh.wikipedia.org/wiki/結構化編程 "wikilink")\[1\]。NS圖是在1972年由Isaac Nassi及其學生Ben Shneiderman提出。\[2\]。NS圖類似[流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")，但所不同之處是NS圖可以表示程式的結構\[3\]。[DIN](https://zh.wikipedia.org/wiki/DIN "wikilink") 66261是NS圖的相關標準。
 
 ## 簡介

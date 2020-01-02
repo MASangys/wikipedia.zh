@@ -1,3 +1,6 @@
+> 本文内容由[GT](https://zh.wikipedia.org/wiki/GT)转换而来。
+
+
 **GT**/**Gt**在以下的領域可以指：
 
 ## 與[科學](https://zh.wikipedia.org/wiki/科學 "wikilink")、[技術](https://zh.wikipedia.org/wiki/技術 "wikilink")、[工程學及](https://zh.wikipedia.org/wiki/工程學 "wikilink")[度量衡相關](https://zh.wikipedia.org/wiki/度量衡 "wikilink")

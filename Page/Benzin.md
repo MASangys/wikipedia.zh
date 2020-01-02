@@ -1,3 +1,6 @@
+> 本文内容由[Benzin](https://zh.wikipedia.org/wiki/Benzin)转换而来。
+
+
 《**Benzin**》是[德國樂團](https://zh.wikipedia.org/wiki/德國 "wikilink")[Rammstein的歌曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，在其專輯*[Rosenrot](../Page/Rosenrot.md "wikilink")* 中為首張發表單曲。
 
 [德語中](https://zh.wikipedia.org/wiki/德語 "wikilink")，[汽油](../Page/汽油.md "wikilink")被稱為*Benzin*（由化學中的Benzin-[揮發油衍生而來](https://zh.wikipedia.org/wiki/揮發油 "wikilink")）。[Till表示該曲談論的是油價上漲的議題](https://zh.wikipedia.org/wiki/Till_Lindemann "wikilink")。\[[http://www.rammsteinniccage.com/media/interviews/veronicanov05en.html\]歌中用到"Gasolin"這個字](http://www.rammsteinniccage.com/media/interviews/veronicanov05en.html%5D歌中用到%22Gasolin%22這個字)，[德語並不存在這個字](https://zh.wikipedia.org/wiki/德語 "wikilink")，而是由[英語轉化而來](https://zh.wikipedia.org/wiki/英語 "wikilink")。而德國有連鎖加油站名即為"Gasolin"。

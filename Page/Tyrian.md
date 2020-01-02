@@ -1,3 +1,6 @@
+> 本文内容由[Tyrian](https://zh.wikipedia.org/wiki/Tyrian)转换而来。
+
+
 《**Tyrian**》是由[Eclipse Productions所開發的縱向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Eclipse_Productions "wikilink")，於1995年由[Epic MegaGames發行](https://zh.wikipedia.org/wiki/Epic_MegaGames "wikilink")。遊戲中玩家操縱一艘具有多種武器的船艦，玩家透過摧毀敵人或吃掉獎勵物品來賺取分數，而這些分數可以用來升級武器、防護盾、船艦……等。遊戲屬於快節奏且玩家將面對大量的敵人。
 
 《Tyrian》於2005年釋出為免費軟體（Freeware），遊戲內的物件圖像於2007年4月以內容開放（Open license）的方式釋出。《Tyrian》由Jason Emery進行-{zh-hans:編程; zh-hant:程式設計;}-，Daniel Cook進行美術工作，而音效部分則由Alexander Brandon和Andreas Molnar負責。

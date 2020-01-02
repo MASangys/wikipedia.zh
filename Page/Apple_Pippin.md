@@ -1,3 +1,6 @@
+> 本文内容由[Apple Pippin](https://zh.wikipedia.org/wiki/Apple_Pippin)转换而来。
+
+
 **Apple Pippin**是一种由[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")1990年代中期开发的游戏机／多媒体播放机平台。它采用66[MHz的](https://zh.wikipedia.org/wiki/MHz "wikilink") [PowerPC 603e处理器](https://zh.wikipedia.org/wiki/PowerPC_600#PowerPC_603e_.2F_603ev "wikilink")，14.4 kbit/s调制解调器并运行一精简版之[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。其目的是希望创造出主要面向基于[CD](../Page/CD.md "wikilink")之多媒体播放（特别是游戏）之低价电脑，并附带网络功能。它有一4倍速[光驱及可以连接至](https://zh.wikipedia.org/wiki/光驱 "wikilink")[电视](../Page/电视.md "wikilink")的视讯输出。其名字的由来是[翠玉苹果](https://zh.wikipedia.org/wiki/翠玉苹果 "wikilink")（Newtown Pippin）——一个[苹果](../Page/苹果.md "wikilink")[栽培品种](../Page/栽培品种.md "wikilink")，类似于[旭苹果](https://zh.wikipedia.org/wiki/旭苹果 "wikilink")（McIntosh）之于[麦金塔](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")（Macintosh）。
 
 苹果公司从未企图自行推出Pippin，而是希望将其授权给第三方厂商－与不幸的[3DO](../Page/3DO.md "wikilink")相同的商业模式。然而，只有[Bandai被授权制造贩售Pippin](https://zh.wikipedia.org/wiki/Bandai "wikilink")。

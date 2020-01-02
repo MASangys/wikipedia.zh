@@ -1,4 +1,7 @@
-）是[育碧公司](https://zh.wikipedia.org/wiki/育碧公司 "wikilink")[蒙特利爾工作室開發的一款](../Page/育碧蒙特利尔.md "wikilink")[動作冒險歷史奇幻類遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")。\[1\]本作是《[刺客信条](https://zh.wikipedia.org/wiki/刺客教条系列 "wikilink")》主系列的第六部作品兼第四款正统續作，亦是《[刺客教條III](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")》的前傳。2018年3月8日提供简体中文支持。\[2\]
+> 本文内容由[刺客教條IV：黑旗](https://zh.wikipedia.org/wiki/刺客教條IV：黑旗)转换而来。
+
+
+是[育碧公司](https://zh.wikipedia.org/wiki/育碧公司 "wikilink")[蒙特利爾工作室開發的一款](../Page/育碧蒙特利尔.md "wikilink")[動作冒險歷史奇幻類遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")。\[1\]本作是《[刺客信条](https://zh.wikipedia.org/wiki/刺客教条系列 "wikilink")》主系列的第六部作品兼第四款正统續作，亦是《[刺客教條III](https://zh.wikipedia.org/wiki/刺客教條III "wikilink")》的前傳。2018年3月8日提供简体中文支持。\[2\]
 
 ## 遊戲系統
 
@@ -55,7 +58,7 @@
 
 ## 評價
 
-遊戲評價普遍正面，大多對其開放式世界、支線任務、[圖像和海戰予以讚揚](https://zh.wikipedia.org/wiki/圖像 "wikilink")。[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")對遊戲的PlayStation 3版本分別給予87.62分和88分\[22\]\[23\]、Xbox 360版本分別給予85.74分和86分\[24\]\[25\]、Wii U版本分別給予87分和86\[26\]\[27\]、PlayStation 4版本分別給予85.31分和83分\[28\]\[29\]、Xbox One版本各給予81分\[30\] 、個人電腦版本則分別給予86.67分和86\[31\]\[32\]。
+遊戲評價普遍正面，大多對其開放式世界、支線任務、[圖像和海戰予以讚揚](https://zh.wikipedia.org/wiki/圖像 "wikilink")。[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")對遊戲的PlayStation 3版本分別給予87.62分和88分\[22\]\[23\]、Xbox 360版本分別給予85.74分和86分\[24\]\[25\]、Wii U版本分別給予87分和86\[26\]\[27\]、PlayStation 4版本分別給予85.31分和83分\[28\]\[29\]、Xbox One版本各給予81分\[30\] 、個人電腦版本則分別給予82.86分和84\[31\]\[32\]。
 
 遊戲普遍被認為比前作《刺客教條III》出色\[33\]\[34\]。[Game Informer成員祖](../Page/Game_Informer.md "wikilink")·朱巴（Joe Juba）表示育碧軟件對前作的批評作出了回應和改善\[35\]；[電腦與電子遊戲成員馬特](https://zh.wikipedia.org/wiki/電腦與電子遊戲 "wikilink")·基爾曼（Matt Gilman）稱遊戲是刺客教條系列中回復應有模樣的一作\[36\]；[PlayStation官方雜誌 (英國)成員米高](https://zh.wikipedia.org/wiki/PlayStation官方雜誌_\(英國\) "wikilink")·拉柏拉斯（Mikel Reparaz）表示遊戲正是系列自《刺客教條：啟示錄》和《刺客教條III》後需要的一劑良藥\[37\]；[IGN](../Page/IGN.md "wikilink")在遊戲發售兩天後把它列為系列中排行第二的一作，僅次於《[刺客教條II](https://zh.wikipedia.org/wiki/刺客教條II "wikilink")》\[38\]。
 
@@ -95,40 +98,25 @@
 
 1.
 2.
-
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
 12.
-
 13.
 14.
-
 15.
-
 16.
 17.
-
 18. *Assassin's Creed IV* is the first main series numbered title to carry a subtitle, a decision which Myhill says was made to clearly distinguish the pirate theme from the rest of the franchise.
-
 19.
 20.
 21.
-
 22.
 23.
 24.
@@ -146,7 +134,6 @@
 36.
 37.
 38.
-
 39.
 40.
 41.
@@ -222,7 +209,5 @@
 111.
 112.
 113.
-
 114. [Piratería, videojuegos y Amaro Pargo](https://eldia.es/cultura/2017-10-30/13-Pirateria-videojuegos-Amaro-Pargo.htm)
-
 115. [El pirata canario Amaro Pargo revive con Assassin´s Creed](http://www.laprovincia.es/vida-y-estilo/tecnologia/videojuegos/2013/12/04/pirata-espanol-amaro-pargo-revive/575852.html)

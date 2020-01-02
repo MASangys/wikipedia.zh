@@ -1,3 +1,6 @@
+> 本文内容由[保罗·F·拉扎斯菲尔德](https://zh.wikipedia.org/wiki/保罗·F·拉扎斯菲尔德)转换而来。
+
+
 **保罗·F·拉扎斯菲尔德**（，），美籍犹太人，是一位著名的[美国](../Page/美国.md "wikilink")实证[社会学家](https://zh.wikipedia.org/wiki/社会学家 "wikilink")。他是[哥倫比亞大學應用社會研究局的創辦人](https://zh.wikipedia.org/wiki/哥倫比亞大學 "wikilink")。他對研究的組織及技術都有深遠的影響。一位他的同事在他逝世後透露，「他不太是美國社會學家，因為他奠定了美國社會學的模樣。」
 
 ## 生平事蹟

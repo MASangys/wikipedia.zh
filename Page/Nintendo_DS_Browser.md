@@ -1,3 +1,6 @@
+> 本文内容由[Nintendo DS Browser](https://zh.wikipedia.org/wiki/Nintendo_DS_Browser)转换而来。
+
+
 **Opera Devices**是[Opera软件公司为](https://zh.wikipedia.org/wiki/Opera软件公司 "wikilink")[移动电话](../Page/移动电话.md "wikilink")、[个人数码助理](../Page/个人数码助理.md "wikilink")和[電子計算機](../Page/電子計算機.md "wikilink")以外的设备制造的[网页浏览器](../Page/网页浏览器.md "wikilink")，基於[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")9.0版本，其中的代表是为[任天堂](../Page/任天堂.md "wikilink")提供的**Wii Internet Channel**和**Nintendo DS Browser**。与Opera浏览器家族的另外三大成员相比，Opera Devices一般不提供下载和自行安装，即使有也不通过Opera公司网站，而是以[OEM的方式提供](https://zh.wikipedia.org/wiki/OEM "wikilink")，因而Opera Devices使用者极少知道他们使用的浏览器的制造厂商，甚至根本不知道他们在使用浏览器。
 
 ## Wii Internet Channel

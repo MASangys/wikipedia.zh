@@ -1,3 +1,6 @@
+> 本文内容由[只要有愛 IT\'S ALL RIGHT](https://zh.wikipedia.org/wiki/只要有愛_IT\'S_ALL_RIGHT)转换而来。
+
+
 「**只要有愛 IT'S ALL RIGHT**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第21张[单曲](../Page/单曲.md "wikilink")，於2004年1月21日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

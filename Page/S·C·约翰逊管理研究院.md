@@ -1,3 +1,6 @@
+> 本文内容由[S·C·约翰逊管理研究院](https://zh.wikipedia.org/wiki/S·C·约翰逊管理研究院)转换而来。
+
+
 **S.C.约翰逊管理研究生学院**（S.C. Johnson Graduate School of Management），简称**约翰逊学院**，隶属于[康奈尔大学](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")，坐落在[伊萨卡市康奈尔主校区正中的](../Page/纽约州.md "wikilink")[塞吉大厅](../Page/塞吉大厅.md "wikilink")（旧名塞吉寄宿学院）。该学院是享誉盛名的6所[常青藤商学院之一](https://zh.wikipedia.org/wiki/常青藤商学院 "wikilink")。
 
 约翰逊管理研究生学院创建于1946，为培养工商企业的管理高层而专门设立的研究生院，一开始名字为管理研究生学院。1984年该院接受了美国著名的500强家族企业[约翰逊家族的慷慨捐赠](https://zh.wikipedia.org/wiki/S._C.约翰逊 "wikilink")，而改名为约翰逊管理研究生学院。

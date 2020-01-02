@@ -1,3 +1,6 @@
+> 本文内容由[Yak-43戰鬥機](https://zh.wikipedia.org/wiki/Yak-43戰鬥機)转换而来。
+
+
 **Yak-43** () 是[Yak-141的改良型](https://zh.wikipedia.org/wiki/雅克-141戰鬥機 "wikilink")，但只停留在概念設計階段，從未生產過。與Yak-141一樣，Yak-43基於垂直升降設計必須只使用一個主發動機，以及兩個專門用於垂直升力的發動機。同時，Yak-43還加入了隱形考量的設計，整體設計與[F-35相似](https://zh.wikipedia.org/wiki/F-35 "wikilink")。其後雅科夫列夫還進一步改良成Yak-201，可是最終Yak-141、Yak-43和Yak-201的計劃都一一被終止，只有Yak-141曾生產過兩架原型機。
 
 ## 相關條目

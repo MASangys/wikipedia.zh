@@ -1,3 +1,6 @@
+> 本文内容由[Edge \(摔角手\)](https://zh.wikipedia.org/wiki/Edge_\(摔角手\))转换而来。
+
+
 [Edge_WHC_Chile.jpg](https://zh.wikipedia.org/wiki/File:Edge_WHC_Chile.jpg "fig:Edge_WHC_Chile.jpg")
 
 **Edge**（），本名**亞當·約瑟夫·科普蘭**（），[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）旗下摔角名星。是世界摔角娛樂史上最有魅力的反派角色之一，以伺機暗算和偷襲其他選手聞名，因此有最頂尖的機會主義者之稱（The Ultimate Opportunist），同時他也是11次的世界冠軍（4次[WWE冠軍](https://zh.wikipedia.org/wiki/WWE冠軍 "wikilink")、7次[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")），12次的[世界雙打冠軍](../Page/世界雙打冠軍_\(WWE\).md "wikilink")，並獲得了2010年[皇家大戰](../Page/皇家大戰.md "wikilink")的優勝，因為脊椎严重受伤，已於2011年4月宣布退休，同時也在2012年進入[世界摔角娛樂名人堂](../Page/世界摔角娛樂名人堂.md "wikilink")。

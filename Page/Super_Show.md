@@ -1,3 +1,6 @@
+> 本文内容由[Super Show](https://zh.wikipedia.org/wiki/Super_Show)转换而来。
+
+
 **Super Junior The 1st ASIA TOUR - "Super Show"**是韩国男子团体[Super Junior](../Page/Super_Junior.md "wikilink")2008～2009年在亚洲举办的巡回演唱会。演唱会是从团体的第二张专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》发行5个月后开始的。\[1\]演唱会演出了团体的前两张专辑的大部分曲目，包括他们的热门单曲[U](https://zh.wikipedia.org/wiki/U_\(Super_Junior\) "wikilink")，也包括子团体[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super Junior-M的主打曲目](../Page/Super_Junior-M.md "wikilink")。演唱会以在[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔的三站拉开序幕](https://zh.wikipedia.org/wiki/首尔 "wikilink")，然后改变路线至[泰国](../Page/泰国.md "wikilink")以及[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")。
 
 ## 历史

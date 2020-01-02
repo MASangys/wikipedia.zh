@@ -1,3 +1,6 @@
+> 本文内容由[Apache可移植运行时](https://zh.wikipedia.org/wiki/Apache可移植运行时)转换而来。
+
+
 {{ Infobox software | developer = [Apache软件基金会](../Page/Apache软件基金会.md "wikilink") | status = 活跃 | latest release version = 1.5.2 | latest release date = 2015-04-29 | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming language = [C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink") | genre = 开发[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink") | license = [Apache许可证](../Page/Apache许可证.md "wikilink") 2.0 | website =  }}
 
 **Apache可移植运行时**（**Apache Portable Runtime**，简称APR）是[Apache](https://zh.wikipedia.org/wiki/Apache "wikilink") [HTTP服务器的支持库](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")，提供了一组映射到下层操作系统的[API](../Page/应用程序接口.md "wikilink")。如果操作系统不支持某个特定的功能，APR将提供一个模拟的实现。这样程序员使用APR编写真正可在不同平台上移植的程序。

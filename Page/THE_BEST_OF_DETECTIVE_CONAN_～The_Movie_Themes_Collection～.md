@@ -1,3 +1,6 @@
+> 本文内容由[THE BEST OF DETECTIVE CONAN ～The Movie Themes Collection～](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_～The_Movie_Themes_Collection～)转换而来。
+
+
 《**THE BEST OF DETECTIVE CONAN ～The Movie Themes Collection～**》（）是改编自[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[青山刚昌原作](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》的[劇場版](https://zh.wikipedia.org/wiki/動畫電影列表#.E5.90.8D.E5.81.B5.E6.8E.A2.E6.9F.AF.E5.8D.97.E5.8A.87.E5.A0.B4.E7.89.88.EF.BC.88.E7.B3.BB.E5.88.97.EF.BC.89 "wikilink")[主题曲曲集](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。
 
 ## 專輯概述 

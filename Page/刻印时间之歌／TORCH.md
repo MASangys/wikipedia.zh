@@ -1,3 +1,6 @@
+> 本文内容由[刻印时间之歌／TORCH](https://zh.wikipedia.org/wiki/刻印时间之歌／TORCH)转换而来。
+
+
 《**刻印时间之歌／TORCH**》（），日本女性唱作歌手[Lia](../Page/Lia.md "wikilink")的第8张单曲。2008年11月14日发售。\[1\]
 
 ## 解説

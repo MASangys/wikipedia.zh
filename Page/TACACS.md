@@ -1,3 +1,6 @@
+> 本文内容由[TACACS](https://zh.wikipedia.org/wiki/TACACS)转换而来。
+
+
 **TACACS**，全稱**终端访问控制器访问控制系统**（），是一种用于[认证的](https://zh.wikipedia.org/wiki/认证 "wikilink")[计算机协议](https://zh.wikipedia.org/wiki/计算机协议 "wikilink")，在[UNIX网络中与认证服务器进行通信](https://zh.wikipedia.org/wiki/Unix "wikilink")，TACACS允许远程访问服务器与认证服务器通信，以决定用户是否有权限访问网络。
 
 TACACS允许客户端接受用户名和口令，并发往通常称作TACACS守护进程（或者简单地称作TACACSD）的TACACS认证服务器，这个服务器一般是在主机上运行的一个程序。主机将决定是否接受或拒绝请求，并发回一个响应。 TIP（用户想要登录的接受拨入链接的路由节点）将基于这个响应接受或拒绝访问。这样，做出决定的过程是"向上开放"(opened up)的，做出决定所用的算法和数据完全由TACACS守护进程的运行者控制。

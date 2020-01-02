@@ -1,3 +1,6 @@
+> 本文内容由[Love Love Love \(鍾嘉欣專輯\)](https://zh.wikipedia.org/wiki/Love_Love_Love_\(鍾嘉欣專輯\))转换而来。
+
+
 《**Love Love Love**》是[香港女歌手](https://zh.wikipedia.org/wiki/香港女歌手 "wikilink")[鍾嘉欣的第](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")4張個人專輯，第3張大碟，亦是在[星煥國際有限公司推出的首張專輯](https://zh.wikipedia.org/wiki/星煥國際有限公司 "wikilink")，與對上一張大碟《[My Love Story](../Page/My_Love_Story.md "wikilink")》相距兩年。收錄預防針的專輯《[Love Love Love](../Page/Love_Love_Love_\(鍾嘉欣專輯\).md "wikilink")》早於2011年籌備而推出日期一拖再拖，由2012年9月押後至11月28日，惟新碟進度理想，故把專輯推出日期提前至2012年11月13日。\[1\]由[Johnny Yim編曲和監製的](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink")「預防針」和「[你是我的一半](https://zh.wikipedia.org/wiki/你是我的一半 "wikilink")」是Linda擅長的中版情歌曲式。 於2012年11月13日推出。新專輯有11首歌。第一版銷量沖破白金唱片銷量的關口，數度斷市，因此第二版“**最幸福特別版**”於12月27日推出，特別收錄TVB熱播新劇《[幸福摩天輪](../Page/幸福摩天輪.md "wikilink")》主題曲《幸福歌》，及《最幸福的事》（黃宗澤V.O.劇場版），並隨碟附送幸福咭。本專輯一度登上香港唱片商會銷量榜連續五星期，其中兩星期為第二位，為該年推出純廣東唱片的女歌手中成績最好。其後因推出“最幸福特別版”，令專輯再次登上香港唱片商會銷量榜，銷量極好。此張專輯亦於2012年度IFPI香港唱片銷量大獎獲得十大銷量廣東唱片。
 
 ## 專輯介紹

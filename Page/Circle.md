@@ -1,3 +1,6 @@
+> 本文内容由[Circle](https://zh.wikipedia.org/wiki/Circle)转换而来。
+
+
 **Circle**專輯，為[木村KAELA](../Page/木村KAELA.md "wikilink")的個人第二張專輯，於2006年3月8日由哥倫比亞音樂發行。
 
 ## 解說

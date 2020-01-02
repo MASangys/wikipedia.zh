@@ -1,3 +1,6 @@
+> 本文内容由[RGBA](https://zh.wikipedia.org/wiki/RGBA)转换而来。
+
+
 [Hue_alpha.png](https://zh.wikipedia.org/wiki/File:Hue_alpha.png "fig:Hue_alpha.png") **RGBA**是代表**R**ed（[紅色](https://zh.wikipedia.org/wiki/紅色 "wikilink")）**G**reen（[綠色](../Page/綠色.md "wikilink")）**B**lue（[藍色](../Page/藍色.md "wikilink")）和**A**lpha的[色彩空間](../Page/色彩空間.md "wikilink")。虽然它有的时候被描述为一个颜色空间，但是它其实仅仅是[RGB模型的附加了额外的信息](https://zh.wikipedia.org/wiki/RGB "wikilink")。采用的颜色是RGB，可以属于任何一种RGB[颜色空间](https://zh.wikipedia.org/wiki/颜色空间 "wikilink")，但是[Catmull和](https://zh.wikipedia.org/wiki/Edwin_Catmull "wikilink")[Smith在](https://zh.wikipedia.org/wiki/Alvy_Ray_Smith "wikilink")1971至1972年间提出了这个不可或缺的alpha数值，使得[alpha渲染和](https://zh.wikipedia.org/wiki/alpha渲染 "wikilink")[alpha合成变得可能](https://zh.wikipedia.org/wiki/alpha合成 "wikilink")。提出者以*alpha*来命名是源于经典的[线性插值](../Page/线性插值.md "wikilink")方程αA + (1-α)B所用的就是这个[希腊字母](../Page/希腊字母.md "wikilink")。
 
 **alpha通道**一般用作不透明度参数。如果一个像素的alpha通道数值为0%，那它就是完全透明的（也就是看不见的），而数值为100%则意味着一个完全不透明的像素（传统的-{zh:数字;zh-cn:数字;zh-tw:數位;}-图像）。在0%和100%之间的值则使得像素可以透过背景显示出来，就像透过玻璃（半透明性），这种效果是简单的二元透明性（透明或不透明）做不到的。它使[数码合成变得容易](https://zh.wikipedia.org/wiki/数码合成 "wikilink")。alpha通道值可以用百分比、整数或者像RGB参数那样用0到1的实数表示。

@@ -1,3 +1,6 @@
+> 本文内容由[Deluge](https://zh.wikipedia.org/wiki/Deluge)转换而来。
+
+
 **Deluge**是一个功能齐全的跨平台[BitTorrent](../Page/BitTorrent_\(协议\).md "wikilink") [客户端软件](https://zh.wikipedia.org/wiki/客户端 "wikilink")，可在[Linux](../Page/Linux.md "wikilink"), [OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink"), [Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[Windows操作系统下工作](https://zh.wikipedia.org/wiki/Windows "wikilink")。它使用[libtorrent作为其后端](https://zh.wikipedia.org/wiki/libtorrent "wikilink")，有包括[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，网络远程客户端，命令行模式等多种用户界面。其设计方针是体积小巧且节约系统资源，通过丰富的[插件](../Page/插件.md "wikilink")来实现核心以外的众多功能。Deluge响应[Freedesktop.org](../Page/Freedesktop.org.md "wikilink")的倡议，兼容于[GNOME](../Page/GNOME.md "wikilink"), [KDE](../Page/KDE.md "wikilink"), [XFCE和其它多种桌面环境](https://zh.wikipedia.org/wiki/XFCE "wikilink")。它还是一款[自由软件](../Page/自由软件.md "wikilink")，使用[GPLv3进行授权](https://zh.wikipedia.org/wiki/GNU通用公共许可证#GPLv3 "wikilink")。\[1\]
 
 ## 历史

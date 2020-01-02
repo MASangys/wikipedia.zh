@@ -1,3 +1,6 @@
+> 本文内容由[ABC冰](https://zh.wikipedia.org/wiki/ABC冰)转换而来。
+
+
 [Ais_Kacang.jpg](https://zh.wikipedia.org/wiki/File:Ais_Kacang.jpg "fig:Ais_Kacang.jpg")
 
 **ABC冰**（**A**ir **B**atu **C**ampur、Ais Kacang），又名**娘惹紅豆冰** (在[东南亚](https://zh.wikipedia.org/wiki/东南亚 "wikilink")，[闽南语或](https://zh.wikipedia.org/wiki/闽南语 "wikilink")[福建话称为](https://zh.wikipedia.org/wiki/福建话 "wikilink")**红豆霜**（[閩南語](https://zh.wikipedia.org/wiki/閩南語 "wikilink")：Ang Dao Nseng，即[红豆](https://zh.wikipedia.org/wiki/红豆 "wikilink")[刨冰](../Page/刨冰.md "wikilink")之意），是[馬來西亞和](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[新加坡](../Page/新加坡.md "wikilink")的一種廣受歡迎的[刨冰](../Page/刨冰.md "wikilink")[甜品](https://zh.wikipedia.org/wiki/甜品 "wikilink")。它更被馬來西亞官方譽為「國民甜品」\[1\]

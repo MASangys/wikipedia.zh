@@ -1,3 +1,6 @@
+> 本文内容由[Vividred Operation](https://zh.wikipedia.org/wiki/Vividred_Operation)转换而来。
+
+
 《**Vividred Operation**》（）是日本的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2013年1月起於日本[MBS](../Page/每日放送.md "wikilink")、[TBS電視台](../Page/TBS電視台.md "wikilink")播放\[1\]。
 
 ## 概要
@@ -439,7 +442,6 @@
 [Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:伊豆群島背景作品](https://zh.wikipedia.org/wiki/Category:伊豆群島背景作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
-
 2.
 3.
 4.
@@ -458,31 +460,17 @@
 17.
 18.
 19.
-
 20.
-
 21.
-
 22.
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.

@@ -1,3 +1,6 @@
+> 本文内容由[Lucene](https://zh.wikipedia.org/wiki/Lucene)转换而来。
+
+
 **Lucene**是一套用于[全文检索和](https://zh.wikipedia.org/wiki/全文检索 "wikilink")[搜尋的](https://zh.wikipedia.org/wiki/搜尋 "wikilink")[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[程式庫](https://zh.wikipedia.org/wiki/程式庫 "wikilink")，由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")支持和提供。Lucene提供了一個簡單卻強大的應用程式介面，能夠做全文索引和搜尋，在[Java](../Page/Java.md "wikilink")开发环境裡Lucene是一個成熟的免費開放原始碼工具；就其本身而論，Lucene是現在並且是這幾年，最受歡迎的免費Java資訊檢索程式庫。
 
 ## 历史

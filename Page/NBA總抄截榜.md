@@ -1,3 +1,6 @@
+> 本文内容由[NBA總抄截榜](https://zh.wikipedia.org/wiki/NBA總抄截榜)转换而来。
+
+
 本列表統計的是國家籃球協會（NBA）球員個人職業生涯例行賽助攻總和，NBA球員在其它聯賽（如ABA）中的數據並不包括在內。所有數據都是截至到2019年4月10日。
 
 [John_Stockton_Lipofskydotcom-32245.jpg](https://zh.wikipedia.org/wiki/File:John_Stockton_Lipofskydotcom-32245.jpg "fig:John_Stockton_Lipofskydotcom-32245.jpg")\]\] [KiddFTline2.jpg](https://zh.wikipedia.org/wiki/File:KiddFTline2.jpg "fig:KiddFTline2.jpg")\]\] [Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\]

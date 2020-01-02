@@ -1,3 +1,6 @@
+> 本文内容由[TAC-50狙擊步槍](https://zh.wikipedia.org/wiki/TAC-50狙擊步槍)转换而来。
+
+
 **麥克米蘭TAC-50**（）是由[美國麥克米蘭兄弟步枪公司](https://zh.wikipedia.org/wiki/美國 "wikilink")（McMillan Brothers Rifle Co.，现更名为麦克米兰枪械公司 McMillan Firearms）在1980年推出的[12.7×99 NATO](../Page/12.7×99mm_NATO.md "wikilink")（.50 BMG）[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")／[反器材步槍](../Page/反器材步槍.md "wikilink")。
 
 ## 設計及历史

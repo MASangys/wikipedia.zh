@@ -1,3 +1,6 @@
+> 本文内容由[Inconsolable](https://zh.wikipedia.org/wiki/Inconsolable)转换而来。
+
+
 是[新好男孩於](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")2007年的第一首單曲，收錄進專輯《[愛無敵](https://zh.wikipedia.org/wiki/愛無敵 "wikilink")》中。2007年8月27日在[美國發行后](https://zh.wikipedia.org/wiki/美國 "wikilink")，專輯立刻在各大音樂電台熱播。專輯由作曲家[伊曼紐爾·基利亞庫等人作曲](https://zh.wikipedia.org/wiki/伊曼紐爾·基利亞庫 "wikilink")，後者曾為[凱瑟琳·麥菲寫作](https://zh.wikipedia.org/wiki/凱瑟琳·麥菲 "wikilink")。值得一提的是，作曲者潔茜·凱特曾為新好男孩單曲作曲。9月29日，單曲進入了[Billboard 百名榜](https://zh.wikipedia.org/wiki/Billboard_百名榜 "wikilink")，排名第86。單曲在[日本](../Page/日本.md "wikilink")排名第3，在[瑞士排名第](https://zh.wikipedia.org/wiki/瑞士 "wikilink")8。
 
 ## 音樂錄影帶

@@ -1,3 +1,6 @@
+> 本文内容由[Kutar](https://zh.wikipedia.org/wiki/Kutar)转换而来。
+
+
 **Kutar**（クター）是日本公司[GIGA連射所創建的人物](https://zh.wikipedia.org/wiki/GIGA連射 "wikilink")。該公司以Kutar推出各種小游戏，主要為[Flash遊戲](https://zh.wikipedia.org/wiki/Flash "wikilink")、[Web](https://zh.wikipedia.org/wiki/Web "wikilink")-Game、[PC](../Page/PC.md "wikilink")-Game、[手機遊戲](https://zh.wikipedia.org/wiki/手機 "wikilink")。是一種沒有表情的生物，但是他有感情，當他生氣、失落、困窘時身體會[膨脹起来](https://zh.wikipedia.org/wiki/膨脹 "wikilink")。遊戲裡出現的大多是本作的主角橘色Kutar（クター）。
 
 ## 人物介紹

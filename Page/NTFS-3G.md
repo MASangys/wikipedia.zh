@@ -1,3 +1,6 @@
+> 本文内容由[NTFS-3G](https://zh.wikipedia.org/wiki/NTFS-3G)转换而来。
+
+
 **NTFS-3G**是一個由[Tuxera](../Page/Tuxera.md "wikilink")公司開發並維護的[自由軟體項目](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，採用[GNU通用公共許可證釋出](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，旨在為非微軟[Windows NT系的](../Page/Windows_NT.md "wikilink")[作業系統提供安全快速](https://zh.wikipedia.org/wiki/作業系統 "wikilink")、具備讀寫功能的[NTFS](../Page/NTFS.md "wikilink")檔案系統[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")。
 
 NTFS-3G最初由資深Linux驅動程式開發者Szabolcs Szakacsits（）於2006年發起並主導，2007年初公佈了第一個穩定版本ntfs-3g-2007.02.21，原始碼託管於[SourceForge](../Page/SourceForge.md "wikilink")。隨後NTFS-3G團隊成立了[Tuxera Inc.](../Page/Tuxera.md "wikilink")，負責NTFS-3G的進一步發展、商業推廣以及爲專案提供開發資金。目前Tuxera公司還推出了NTFS-3G的商用版本Tuxera NTFS及NTFS for Mac，後兩者除了NTFS-3G的原始碼以外還有一些非Tuxera開發的用以加強存取效能的專有元件。\[1\]

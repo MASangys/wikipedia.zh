@@ -1,3 +1,6 @@
+> 本文内容由[Dream \(日本音樂團體\)](https://zh.wikipedia.org/wiki/Dream_\(日本音樂團體\))转换而来。
+
+
 **Dream**（**ドリーム**），為日本3人女子組合。所属事务所为[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。[唱片公司](../Page/唱片公司.md "wikilink")为[Rhythm zone](../Page/Rhythm_zone.md "wikilink")。
 
 ## 来歴

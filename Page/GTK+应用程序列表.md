@@ -1,3 +1,6 @@
+> 本文内容由[GTK+应用程序列表](https://zh.wikipedia.org/wiki/GTK+应用程序列表)转换而来。
+
+
 以下是使用[GTK+或](https://zh.wikipedia.org/wiki/GTK+ "wikilink")[Clutter控件項編寫的程式](https://zh.wikipedia.org/wiki/Clutter "wikilink")。這些程式和基於[GTK+的桌面環境](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，例如[GNOME](../Page/GNOME.md "wikilink")、[Cinnamon](../Page/Cinnamon.md "wikilink")、[LXDE](../Page/LXDE.md "wikilink")、[MATE](../Page/MATE.md "wikilink")、[Pantheon](https://zh.wikipedia.org/wiki/elementary_\(作業系統\) "wikilink")、[Sugar](https://zh.wikipedia.org/wiki/Sugar_\(用戶介面\) "wikilink")、[Xfce](../Page/Xfce.md "wikilink")或互相融合。
 
 與[Qt](../Page/Qt.md "wikilink")不同，GTK+依賴其它軟件庫，例如[GLib](../Page/GLib.md "wikilink")、[Cairo](https://zh.wikipedia.org/wiki/Cairo_\(繪圖\) "wikilink")、[Pango](../Page/Pango.md "wikilink")或[GStreamer](../Page/GStreamer.md "wikilink")。

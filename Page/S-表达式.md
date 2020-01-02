@@ -1,3 +1,6 @@
+> 本文内容由[S-表达式](https://zh.wikipedia.org/wiki/S-表达式)转换而来。
+
+
 [Corrected_S-expression_tree_2.png](https://zh.wikipedia.org/wiki/File:Corrected_S-expression_tree_2.png "fig:Corrected_S-expression_tree_2.png") [data structure](https://zh.wikipedia.org/wiki/data_structure "wikilink") representing the s-expression for `(* 2 (+ 3 4))` \]\] 所谓“S-[表达式](https://zh.wikipedia.org/wiki/表达式 "wikilink")/[運算式](https://zh.wikipedia.org/wiki/運算式 "wikilink")”（S-expression）或“sexp”（其中“S”代表“符号的”），是指一种以人类可读的文本形式表达[半结构化数据的约定](https://zh.wikipedia.org/wiki/半结构化数据 "wikilink")。S-表达式可能以其在[Lisp家族的编程语言中的使用而为人所知](https://zh.wikipedia.org/wiki/Lisp "wikilink")。其他应用则见于由Lisp衍生的语言，如，以及如[IMAP之类通信协议中作为标记出现和](https://zh.wikipedia.org/wiki/Internet_Message_Access_Protocol "wikilink")[约翰·麦卡锡](../Page/约翰·麦卡锡.md "wikilink")的。语法细节和所支持的数据类型虽因语言而异，但这些语言间最通用的特性则是使用S-表达式作为括号化的前缀表示法（有时亦作剑桥[波兰表示法](../Page/波兰表示法.md "wikilink")）。
 
 ## 數據類型和語法

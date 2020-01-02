@@ -1,3 +1,6 @@
+> 本文内容由[AVS-36自動步槍](https://zh.wikipedia.org/wiki/AVS-36自動步槍)转换而来。
+
+
 [Red_army_World_War_II_rifles.JPG](https://zh.wikipedia.org/wiki/File:Red_army_World_War_II_rifles.JPG "fig:Red_army_World_War_II_rifles.JPG")[步枪](../Page/步枪.md "wikilink")。从左到右:[莫辛纳甘M](../Page/莫辛-納甘步槍.md "wikilink")/91-30, [莫辛纳甘M](../Page/莫辛-納甘步槍.md "wikilink")/38卡宾枪，[莫辛纳甘M](../Page/莫辛-納甘步槍.md "wikilink")91龙步枪、AVS-36和[SVT-40步枪](https://zh.wikipedia.org/wiki/SVT-40 "wikilink")\]\] [AVS_36.JPG](https://zh.wikipedia.org/wiki/File:AVS_36.JPG "fig:AVS_36.JPG") **AVS-36**（Avtomaticheskaya Vintovka Simonova 1936 model；）是[苏联](../Page/苏联.md "wikilink")研製的一种[自动步枪](../Page/自动步枪.md "wikilink")，在[二战初期列装](https://zh.wikipedia.org/wiki/二战 "wikilink")。它亦是一种早期的[自动步枪](../Page/自动步枪.md "wikilink")（它不僅能進行半自动射擊，更能全自动射擊）。此槍在1936年起開始少量地试装部队。
 
 ## 歷史

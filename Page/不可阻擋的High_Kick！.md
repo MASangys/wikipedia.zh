@@ -1,3 +1,6 @@
+> 本文内容由[不可阻擋的High Kick！](https://zh.wikipedia.org/wiki/不可阻擋的High_Kick！)转换而来。
+
+
 《**不可阻擋的High Kick！**》（，又名《搞笑一家人》或《搞笑一家亲》）是由[MBC出品的长篇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[家庭情景喜剧](https://zh.wikipedia.org/wiki/家庭情景喜剧 "wikilink")。该剧采用全新的喜剧模式，利用了[夸张](https://zh.wikipedia.org/wiki/夸张 "wikilink")[搞笑的方式来诠释了](https://zh.wikipedia.org/wiki/搞笑 "wikilink")[爱情](https://zh.wikipedia.org/wiki/爱情 "wikilink")、[亲情](https://zh.wikipedia.org/wiki/亲情 "wikilink")、[友情](../Page/友情.md "wikilink")、[间谍](../Page/间谍.md "wikilink")、[失业](https://zh.wikipedia.org/wiki/失业 "wikilink")、[同学关系](https://zh.wikipedia.org/wiki/同学关系 "wikilink")、[婆媳关系等等看似复杂的一切](https://zh.wikipedia.org/wiki/婆媳关系 "wikilink")，同时该剧的作为MBC继《[大長今](https://zh.wikipedia.org/wiki/大长今_\(電視劇\) "wikilink")》、《[男生女生向前走](../Page/男生女生向前走.md "wikilink")》之后在2006－2007年的又一大力作，不仅有老一代[李顺載](https://zh.wikipedia.org/wiki/李顺載 "wikilink")、[羅文姬](../Page/羅文姬.md "wikilink")等演员的参与，还使得[丁一宇](../Page/丁一宇.md "wikilink")、-{[金汎](../Page/金汎.md "wikilink")}-、[朴敏英等的新秀走红](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")，并开始走上明星演员的道路。
 
 ## 剧名含义及译名

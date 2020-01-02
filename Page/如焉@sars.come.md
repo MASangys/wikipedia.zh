@@ -1,3 +1,6 @@
+> 本文内容由[如焉@sars.come](https://zh.wikipedia.org/wiki/如焉@sars.come)转换而来。
+
+
 《**如焉{{@}}sars.come**》是[胡发云](../Page/胡发云.md "wikilink")的一部小说，小说的背景是[sars肆虐时](https://zh.wikipedia.org/wiki/SARS事件 "wikilink")[中国政府开始大规模控制](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[互联网](../Page/互联网.md "wikilink")，一个追求真实的女子与副市长的感情故事和几个追求自由的老少知识分子的在经歷数次运动后的观念和行动。该书最初发表在网站上，其后2006年初春发表在《江南》第一期上。2006年10月中国国际广播出版社出版单行本。\[1\]
 
 ## 评论

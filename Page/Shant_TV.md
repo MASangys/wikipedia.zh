@@ -1,3 +1,6 @@
+> 本文内容由[Shant TV](https://zh.wikipedia.org/wiki/Shant_TV)转换而来。
+
+
 **Shant TV**（[亚美尼亚语](../Page/亚美尼亚语.md "wikilink")：Շանթ հեռուստատեսություն）是[亚美尼亚埃里温的一家私营电视台](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")，由Arthur Yezekyan在亚美尼亚第二大城市久姆里于1994年建立。电视台从1995年5月起发布一个整整6小时的节目表。
 
 ## 历史

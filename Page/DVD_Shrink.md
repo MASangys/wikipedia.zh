@@ -1,3 +1,6 @@
+> 本文内容由[DVD Shrink](https://zh.wikipedia.org/wiki/DVD_Shrink)转换而来。
+
+
 **DVD Shrink**是一個可以運行於[Microsoft Windows作業系統且免費的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[DVD壓縮及燒錄軟體](https://zh.wikipedia.org/wiki/DVD "wikilink")。該軟體原本的基本功能是將原本無法燒錄到一般DVD上的高容量DVD內容經過壓縮後再重新輸出至硬碟或者燒錄到光碟上。其壓縮的方式可以將品質變差，或者是刪除掉原本DVD上多餘的音軌或者是字幕。
 
 ## 法律問題

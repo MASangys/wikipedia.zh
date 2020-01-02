@@ -1,3 +1,6 @@
+> 本文内容由[E·內斯比特](https://zh.wikipedia.org/wiki/E·內斯比特)转换而来。
+
+
 **意蒂絲·内斯比特**（，婚後姓名為**Edith Bland**，）是[英國小說作家和詩人](https://zh.wikipedia.org/wiki/英國 "wikilink")，在兒童文學的出版上使用**E. Nesbit**為名。其最著名的文學作品為曾經改編成電影《[沙仙活地魔](../Page/沙仙活地魔.md "wikilink")》（Five Children and It，2004年）的奇幻魔法故事系列：《五個孩子和一個怪物》、《五個孩子和鳳凰與魔毯》、《五個孩子和一個護身符》三部曲 ，和《鐵路邊的孩子們》（[The Railway Children](http://en.wikipedia.org/wiki/The_Railway_Children_%28film%29)，1970年）。
 
 ## 作品列表

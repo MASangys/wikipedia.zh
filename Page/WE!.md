@@ -1,3 +1,6 @@
+> 本文内容由[WE!](https://zh.wikipedia.org/wiki/WE!)转换而来。
+
+
 WE\!，是[日本](../Page/日本.md "wikilink")的音樂組合[(二代目)J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")1張單曲。於2008年5月7日起於EXILE mobile限量銷售。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[太陽與你所描繪的STORY](https://zh.wikipedia.org/wiki/太陽與你所描繪的STORY)转换而来。
+
+
 《**太陽與你所描繪的STORY**》（）是日本女子樂隊[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")6張單曲，於2010年6月2日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要

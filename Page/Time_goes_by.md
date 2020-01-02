@@ -1,3 +1,6 @@
+> 本文内容由[Time goes by](https://zh.wikipedia.org/wiki/Time_goes_by)转换而来。
+
+
 《**Time goes by**》是日本樂隊[Every Little Thing的第](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")8張[單曲作品](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson Xperia Play](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_Play)转换而来。
+
+
 **Sony Ericsson Xperia Play**是由[索尼愛立信生產](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")，採用[Android](../Page/Android.md "wikilink")[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是特別為遊戲功能開發的智能手機，設有4個方向及4個遊戲鍵，支援 PlayStation Pocket 遊戲服務，於2011年3月推出。\[1\]與其後推出的 [Playstation Vita](https://zh.wikipedia.org/wiki/Playstation_Vita "wikilink") 同被視為索尼手提遊戲機 [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") 的後繼產品。
 
 ## 硬件

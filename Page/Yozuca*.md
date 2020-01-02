@@ -1,3 +1,6 @@
+> 本文内容由[Yozuca\*](https://zh.wikipedia.org/wiki/Yozuca\*)转换而来。
+
+
 **yozuca\***，[熊本縣](../Page/熊本縣.md "wikilink")出身，[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")，演唱[遊戲及](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[動畫歌曲](../Page/動畫歌曲.md "wikilink")為主。所屬事務所為Peak A Soul+，唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
 ## 概要

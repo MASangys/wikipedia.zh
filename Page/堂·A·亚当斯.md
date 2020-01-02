@@ -1,3 +1,6 @@
+> 本文内容由[堂·A·亚当斯](https://zh.wikipedia.org/wiki/堂·A·亚当斯)转换而来。
+
+
 **唐·A·亚当斯**（Don Alden Adams）是截至2005年的[守望台圣经书社社长](https://zh.wikipedia.org/wiki/守望台圣经书社 "wikilink")\[1\], [耶和华见证人的合法机构](../Page/耶和华见证人的合法机构.md "wikilink")中一个重要职务。\[2\]\[3\]\[4\]"他曾经担任[内森·诺尔的秘书](../Page/内森·霍默·诺尔.md "wikilink")，美国伯特利家庭成员，区域监督。
 
 ## 家庭背景

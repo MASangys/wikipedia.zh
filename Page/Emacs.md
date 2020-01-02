@@ -1,3 +1,6 @@
+> 本文内容由[Emacs](https://zh.wikipedia.org/wiki/Emacs)转换而来。
+
+
 **Emacs**（，源自**E**ditor **MAC**ro**S**，[宏编辑器](https://zh.wikipedia.org/wiki/宏 "wikilink")），是一个[文本编辑器](../Page/文本编辑器.md "wikilink")家族，具有强大的可扩展性，在[程序员](../Page/程序员.md "wikilink")和其他以技术工作为主的计算机用户中广受欢迎。最初由[Richard Stallman於](https://zh.wikipedia.org/wiki/Richard_Stallman "wikilink")1975年在[MIT](../Page/MIT.md "wikilink")协同[蓋伊·史提爾二世共同完成](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")。这一创意的灵感来源于TECO宏编辑器TECMAC和TMACS，它们是由[蓋伊·史提爾二世](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")、[Dave Moon](https://zh.wikipedia.org/wiki/Dave_Moon "wikilink")、[Richard Greenblatt](https://zh.wikipedia.org/wiki/Richard_Greenblatt_\(programmer\) "wikilink")、[Charles Frankston等人编写的宏文本编辑器](https://zh.wikipedia.org/wiki/Charles_Frankston "wikilink")。
 
 自诞生以来，Emacs演化出了众多分支，其中使用最广泛的两种分别是：1984年由[理查·斯托曼发起并由他维护至](https://zh.wikipedia.org/wiki/理查·斯托曼 "wikilink")2008年的**GNU Emacs**，以及1991年发起的[XEmacs](https://zh.wikipedia.org/wiki/XEmacs "wikilink")。XEmacs是GNU Emacs的分支，至今仍保持着相当的兼容性。它们都使用了[Emacs Lisp这种有着极强扩展性的](../Page/Emacs_Lisp.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")，从而实现了包括[编程](https://zh.wikipedia.org/wiki/编程 "wikilink")、[编译乃至网络浏览等等功能的扩展](https://zh.wikipedia.org/wiki/编译 "wikilink")。

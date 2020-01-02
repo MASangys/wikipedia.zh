@@ -1,3 +1,6 @@
+> 本文内容由[东风4DJ型柴油机车](https://zh.wikipedia.org/wiki/东风4DJ型柴油机车)转换而来。
+
+
 **东风4DJ型柴油机车**（DF4DJ），原称**东风4DAC型**（DF4DAC），是[中国铁路使用的干线客](../Page/中華人民共和國鐵路運輸.md "wikilink")、货两用[柴油机车车型之一](../Page/柴油機車.md "wikilink")，也是中国第一代采用[交流传动技术的国产柴油机车](https://zh.wikipedia.org/wiki/交流电 "wikilink")，由[中国北车集团](https://zh.wikipedia.org/wiki/中国北车集团 "wikilink")[大连机车车辆厂及](https://zh.wikipedia.org/wiki/大连机车车辆厂 "wikilink")[德国](../Page/德国.md "wikilink")[西门子交通集团于](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")2000年共同开发研制成功。东风4DJ型机车仅试制了两台，属于实验性车型，主要目的为验证交流传动技术的优越性，机车采用了西门子的交流传动系统。
 
 ## 发展历史

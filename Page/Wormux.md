@@ -1,3 +1,6 @@
+> 本文内容由[Wormux](https://zh.wikipedia.org/wiki/Wormux)转换而来。
+
+
 **Wormux**是一个仿照*[百战天虫](https://zh.wikipedia.org/wiki/百战天虫 "wikilink")*设计的[炮术游戏](https://zh.wikipedia.org/wiki/炮术游戏 "wikilink")，授权协议是[自由软件](../Page/自由软件.md "wikilink")。 *Lawrence Azzoug Moy（全名）*在2002年12月创立这个项目，当时使用[ClanLib](https://zh.wikipedia.org/wiki/ClanLib "wikilink")，现在是[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")；这个[跨平台游戏可在](https://zh.wikipedia.org/wiki/跨平台 "wikilink") [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 和 [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")（包括[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink") 和 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）系统上运行 ，而且还提供基于[GNU/Linux的](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")[Live CD](../Page/Live_CD.md "wikilink")[镜像下载](https://zh.wikipedia.org/wiki/镜像 "wikilink")。
 
 ## 游戏玩法

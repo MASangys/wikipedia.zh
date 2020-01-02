@@ -1,3 +1,6 @@
+> 本文内容由[WASP-8](https://zh.wikipedia.org/wiki/WASP-8)转换而来。
+
+
 **WASP-8**是一顆[視星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")9.9的[黃矮星](https://zh.wikipedia.org/wiki/黃矮星 "wikilink")，表面溫度5600 K，屬於[G型恆星](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")。它的質量是太陽的0.93倍、半徑是太陽的93%，光度是太陽的0.79倍\[1\]。
 
 ## 行星系統
@@ -18,5 +21,4 @@
 [Category:黃矮星](https://zh.wikipedia.org/wiki/Category:黃矮星 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink") [Category:玉夫座](https://zh.wikipedia.org/wiki/Category:玉夫座 "wikilink")
 
 1.
-
 2.

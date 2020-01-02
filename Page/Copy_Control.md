@@ -1,3 +1,6 @@
+> 本文内容由[Copy Control](https://zh.wikipedia.org/wiki/Copy_Control)转换而来。
+
+
 **Copy Control** 是一种于2001至2006年间由[EMI](../Page/EMI.md "wikilink")与[Sony BMG采用并应用于数个地区](https://zh.wikipedia.org/wiki/Sony_BMG "wikilink")（欧洲、加拿大、美国、澳洲等）推出之部分数位音訊光碟的防拷贝系统。注意：勿将其与[Microcosm公司于](https://zh.wikipedia.org/wiki/Microcosm "wikilink")1989年发明的同名防拷贝系统混为一谈。
 
 有数种形式的保护存在。基本上，Copy Control的目的在于使[CD](../Page/CD.md "wikilink")受防拷保护。然而，由于它们不符合[红皮书的规范](https://zh.wikipedia.org/wiki/红皮书_\(音讯CD\) "wikilink")，Copy Control光碟实际上不能被认为是CD。此一防拷系统是为了防止数位音訊抽取（即所谓的"ripping"），并借此限制其非法散布。Copy Control使用了下列技术：

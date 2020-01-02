@@ -1,3 +1,6 @@
+> 本文内容由[VIS指令集](https://zh.wikipedia.org/wiki/VIS指令集)转换而来。
+
+
 **Visual Instruction Set**（缩写**VIS**），是一个用于[SPARC](../Page/SPARC.md "wikilink")处理器的[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")[多媒体指令集扩展](https://zh.wikipedia.org/wiki/多媒体指令集扩展 "wikilink")。VIS在所有的[UltraSPARC以及较新的](https://zh.wikipedia.org/wiki/UltraSPARC "wikilink")[SPARC64处理器上都有实现](https://zh.wikipedia.org/wiki/SPARC64 "wikilink")。
 
 VIS有三个版本。VIS 1.0和VIS 2.0已在先前的SPARC处理器上得到实现；VIS 3.0 将在[Rock微處理器中首次实现](https://zh.wikipedia.org/wiki/Rock微處理器 "wikilink")。\[1\]

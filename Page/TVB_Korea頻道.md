@@ -1,3 +1,6 @@
+> 本文内容由[TVB Korea頻道](https://zh.wikipedia.org/wiki/TVB_Korea頻道)转换而来。
+
+
 **TVB Korea頻道**（，英文簡稱，）是[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司與](https://zh.wikipedia.org/wiki/電視廣播\(國際\)有限公司 "wikilink")[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")共同創辦而擁有的一條以[韓語廣播的頻道](https://zh.wikipedia.org/wiki/韓語 "wikilink")。
 
 ## 頻道歷史

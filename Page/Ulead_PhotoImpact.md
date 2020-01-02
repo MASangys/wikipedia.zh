@@ -1,3 +1,6 @@
+> 本文内容由[Ulead PhotoImpact](https://zh.wikipedia.org/wiki/Ulead_PhotoImpact)转换而来。
+
+
 **Ulead PhotoImpact**（中文名：**Photo硬派**）是一个由[Ulead推出的](https://zh.wikipedia.org/wiki/Ulead "wikilink")[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")，由[友立資訊](../Page/友立資訊.md "wikilink")於1996年2月開發完成上市，运行于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")下，以家庭用户為主。
 
 ## 描述

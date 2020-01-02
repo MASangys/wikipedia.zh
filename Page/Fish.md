@@ -1,3 +1,6 @@
+> 本文内容由[Fish](https://zh.wikipedia.org/wiki/Fish)转换而来。
+
+
 **fish** () 是一个[Unix shell](../Page/Unix_shell.md "wikilink")。fish旨在成为一个比其他shell交互性更强、用户体验更好的shell，并让其丰富的强大功能能够被用户轻松发现、记住并学以致用。fish的语法既不衍生于[Bourne shell也不衍生于](../Page/Bourne_shell.md "wikilink")[C Shell](../Page/C_Shell.md "wikilink")，故被分类为一种“外来”shell。有别于为节约系统资源而默认禁用部分功能的其他shell，fish的全部功能都是默认启用的。
 
 ## 特色

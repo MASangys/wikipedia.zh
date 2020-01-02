@@ -1,3 +1,6 @@
+> 本文内容由[Zetima](https://zh.wikipedia.org/wiki/Zetima)转换而来。
+
+
 **Zetima** 是[日本](../Page/日本.md "wikilink")藝能公司[Up-Front Works旗下擁有的一間](https://zh.wikipedia.org/wiki/Up-Front_Works "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。這個品牌的唱片是由[史詩唱片日本負責發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。在日本以外的地區，這間公司最為人熟悉的是發行[Hello\! Project旗下成員的唱片](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，最受歡迎的包括[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")。另外，此公司亦曾經發行唱片的歌手包括[平家充代](https://zh.wikipedia.org/wiki/平家充代 "wikilink")、[迷你早安](https://zh.wikipedia.org/wiki/迷你早安 "wikilink")（Mini Moni）和[田村直美](../Page/田村直美.md "wikilink")。
 
 ## 歌手和組合

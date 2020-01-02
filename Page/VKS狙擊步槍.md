@@ -1,3 +1,6 @@
+> 本文内容由[VKS狙擊步槍](https://zh.wikipedia.org/wiki/VKS狙擊步槍)转换而来。
+
+
 **VKS“排氣者”**（，全寫：，意為：大口徑狙擊步槍；研製計劃名稱：，全寫：，意為：大口徑特種狙擊步槍）是一款由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉市](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠旗下的](../Page/俄联邦仪器设计局.md "wikilink")（TsKIB SOO）槍械設計師[研發生产的](../Page/研究開發.md "wikilink")12.7毫米（.50英吋）大口徑重型[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[消聲](../Page/抑制器.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），使用了[直拉式槍機](../Page/手動槍機.md "wikilink")，發射俄羅斯[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

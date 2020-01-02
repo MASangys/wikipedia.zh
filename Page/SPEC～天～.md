@@ -1,3 +1,6 @@
+> 本文内容由[SPEC～天～](https://zh.wikipedia.org/wiki/SPEC～天～)转换而来。
+
+
 《**超能力事件簿首部曲:天啟**》（）是一部于2012年4月7日上映的日本电影，由[东宝制作](https://zh.wikipedia.org/wiki/东宝株式会社 "wikilink")，是[TBS电视剧](../Page/TBS電視台.md "wikilink")《[SPEC～警視廳公安部公安第五課 未詳事件特別對策係事件簿～](../Page/SPEC～警視廳公安部公安第五課_未詳事件特別對策係事件簿～.md "wikilink")》的剧场版，内容可视为是电视剧的续集。
 
 在4月7日的首映礼上制作方透露SPEC将可能拍成美剧\[1\]\[2\]。

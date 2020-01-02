@@ -1,3 +1,6 @@
+> 本文内容由[Meissel-Mertens常数](https://zh.wikipedia.org/wiki/Meissel-Mertens常数)转换而来。
+
+
 **Meissel-Mertens常数**也稱為**Mertens常數**或**質數倒數和常數**，是[數論中的一個](https://zh.wikipedia.org/wiki/數論 "wikilink")[常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")，定義為只針對[質數的调和级数和](https://zh.wikipedia.org/wiki/質數 "wikilink")[自然對數](../Page/自然對數.md "wikilink")的自然對數二者差的極限：
 
 \[M = \lim_{n \rightarrow \infty } \left(

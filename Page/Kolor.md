@@ -1,3 +1,6 @@
+> 本文内容由[Kolor](https://zh.wikipedia.org/wiki/Kolor)转换而来。
+
+
 **KOLOR**是[香港](../Page/香港.md "wikilink")一支流行搖滾樂隊，由主音SAMMY（[蘇浩才](../Page/蘇浩才.md "wikilink")）、結他手ROBIN（[羅灝斌](https://zh.wikipedia.org/wiki/羅灝斌 "wikilink")）、低音結他手高豐（[高耀豐](https://zh.wikipedia.org/wiki/高耀豐 "wikilink")）及鼓手MICHAEL（[朱偉初](https://zh.wikipedia.org/wiki/朱偉初 "wikilink")）於2005年組成。高豐於2013年退出KOLOR，而Bass手阿昇（[謝日昇](https://zh.wikipedia.org/wiki/謝日昇 "wikilink")）則後期補上。
 
 ## 成員

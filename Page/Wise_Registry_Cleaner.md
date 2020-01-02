@@ -1,3 +1,6 @@
+> 本文内容由[Wise Registry Cleaner](https://zh.wikipedia.org/wiki/Wise_Registry_Cleaner)转换而来。
+
+
 Wise Registry Cleaner是WiseCleaner.com团队开发一款免费安全的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[注册表](../Page/注册表.md "wikilink")清理优化工具。该[免费软件主要功能分为三个模块](https://zh.wikipedia.org/wiki/免费软件 "wikilink")，第一注册表清理，第二系统优化，第三注册表碎片整理。另外该软件可以与WiseCleaner.com的另一款垃圾清理工具[Wise Disk Cleaner配合使用](../Page/Wise_Disk_Cleaner.md "wikilink")，以最优化电脑性能。
 
 ## 产品特色

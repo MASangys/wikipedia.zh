@@ -1,3 +1,6 @@
+> 本文内容由[DiskGenius](https://zh.wikipedia.org/wiki/DiskGenius)转换而来。
+
+
 **DiskGenius**，原名**DiskMan**，是一款集[資料恢復](../Page/数据恢复软件列表.md "wikilink")、資料備份還原及[磁碟分割管理三大主要功能的工具軟體](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")，以[共享软件形式發行](https://zh.wikipedia.org/wiki/共享软件 "wikilink")，其分割管理功能免費提供使用，但資料恢復、資料備份還原功能則需付費使用。\[1\]
 
 最初DiskMan是一款[免费的](https://zh.wikipedia.org/wiki/免费 "wikilink")[硬盘](../Page/硬盘.md "wikilink")修复、分区工具軟體，在[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[DOS](../Page/DOS.md "wikilink")下具有[简体中文圖形界面](https://zh.wikipedia.org/wiki/简体中文 "wikilink")，支持鼠标操作，而英文版本收费，以DiskGenius\[2\]和PartitionGuru\[3\]双重身份发布。而現時所有語言版本均已整合統一。\[4\]

@@ -1,3 +1,6 @@
+> 本文内容由[SNH48](https://zh.wikipedia.org/wiki/SNH48)转换而来。
+
+
 [SNH48.jpg](https://zh.wikipedia.org/wiki/File:SNH48.jpg "fig:SNH48.jpg") **SNH48**是一個在2012年於[中國](../Page/中國.md "wikilink")[上海成立的中國大型女子](https://zh.wikipedia.org/wiki/上海 "wikilink")[偶像組合](../Page/偶像_\(日本\).md "wikilink")，亦是目前全球华语区规模最大的偶像团体，隶属于[上海丝芭文化传媒集团有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。SNH48的基本定位是基于「可面对面偶像」的造星理念，具备互联网思维和参与感精神的近距离养成式大型女子偶像团体\[1\]。SNH48目前共有132名成員，分为Team SII、Team NII、Team HII、Team X四支队伍，并拥有「IDOLS Ft」、「SNH48 Group海外练习生」和「SNH48 Group明星殿堂」三项计划。
 
 除上海外，SNH48 Group在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")，[广州等中国主要中心城市和地区有区域专属剧场](https://zh.wikipedia.org/wiki/广州 "wikilink")、偶像培训中心等线下实体网络及相应的偶像姊妹子团，形成覆盖全国各主要区域的偶像团体联盟。目前有以北京為中心的[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")，以廣州為中心的[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")，以[瀋陽為中心的](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")[SHY48](../Page/SHY48.md "wikilink")和以[重慶為中心辐射](https://zh.wikipedia.org/wiki/重慶 "wikilink")[西南地區的](https://zh.wikipedia.org/wiki/中國西南地區 "wikilink")[CKG48](../Page/CKG48.md "wikilink")\[2\]。

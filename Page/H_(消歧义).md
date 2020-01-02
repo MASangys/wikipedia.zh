@@ -1,3 +1,6 @@
+> 本文内容由[H \(消歧义\)](https://zh.wikipedia.org/wiki/H_\(消歧义\))转换而来。
+
+
 [H h](../Page/H.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第8个[字母](../Page/字母.md "wikilink")。
 
 除此之外，H还可以指代：

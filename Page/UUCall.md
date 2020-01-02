@@ -1,3 +1,6 @@
+> 本文内容由[UUCall](https://zh.wikipedia.org/wiki/UUCall)转换而来。
+
+
 **UUCall**是“中華電信（香港）國際有限公司”（原[悠优](https://zh.wikipedia.org/wiki/悠优 "wikilink")）推出的即时语音通讯软件。
 
 ## 优点

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Hermes](https://zh.wikipedia.org/wiki/HTC_Hermes)转换而来。
+
+
 **HTC Hermes**，原廠型號**HTC Z，HTC TyTN**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5，是全球第一臺三頻3G PDA手機，也是作為以hTC品牌進軍歐洲與日本的首發產品之一，配備[三星](../Page/三星電子.md "wikilink")400 MHz處理器，配有側滑動式[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，性能強大。2006年2月於歐洲首度發表。已知客製版本HTC P4500，HTC Z，HTC TyTN，Rogers＆HTC TyTN，Qtek 9600，Dopod 838 Pro，Dopod CHT9000，i-mate JASJAM，O2 Xda Trion，T-Mobile MDA Vario II，Vodafone VPA Compact III，Vodafone v1605，SFR v1605，Orange SPV M3100，AT\&T 8525，Cingular 8525，Swisscom XPA v1605，SoftBank X01HT。
 
 ## 技術規格

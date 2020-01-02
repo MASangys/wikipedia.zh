@@ -1,3 +1,6 @@
+> 本文内容由[Pure Niki](https://zh.wikipedia.org/wiki/Pure_Niki)转换而来。
+
+
 《**Pure Niki**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇](../Page/周勵淇.md "wikilink")的第1張個人音樂專輯，於2005年8月25日推出。
 
 ## 簡介

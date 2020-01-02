@@ -1,3 +1,6 @@
+> 本文内容由[Alisa \(專輯\)](https://zh.wikipedia.org/wiki/Alisa_\(專輯\))转换而来。
+
+
 《**Alisa**》是台灣歌手[高以愛](../Page/高以愛.md "wikilink")的第一張國語專輯，專輯名稱「Alisa」是以高以愛的英文原名，首批限量版是容合了[CD](../Page/CD.md "wikilink")及[VCD](../Page/VCD.md "wikilink")格式的[AVCD](https://zh.wikipedia.org/wiki/AVCD "wikilink")(AUDIO VIDEO COMPACT DISC)的光碟。
 
 ## 曲目

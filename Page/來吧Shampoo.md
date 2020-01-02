@@ -1,3 +1,6 @@
+> 本文内容由[來吧Shampoo](https://zh.wikipedia.org/wiki/來吧Shampoo)转换而来。
+
+
 《**來吧Shampoo**》（）是日本女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月2日由[Sony Music Records發售](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Fantasia大賞](https://zh.wikipedia.org/wiki/Fantasia大賞)转换而来。
+
+
 {{ Copyedit translation }} }} **Fantasia大賞**（****）是由富士見書房於舉辦的文學獎。 於第19回改名為。
 
 ## 入賞作品一覧

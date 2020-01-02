@@ -1,3 +1,6 @@
+> 本文内容由[Ho Hoo Tan](https://zh.wikipedia.org/wiki/Ho_Hoo_Tan)转换而来。
+
+
 **Ho Hoo Tan**為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")2006年一張粵語專輯，於2006年9月21日在[香港](../Page/香港.md "wikilink")發行。
 
 ## 簡介

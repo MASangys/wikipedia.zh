@@ -1,3 +1,6 @@
+> 本文内容由[PCLinuxOS](https://zh.wikipedia.org/wiki/PCLinuxOS)转换而来。
+
+
 **PCLinuxOS**，简称PCLOS，是一个桌面操作系统PCLinuxOS，目的是开发一个易于使用的自由操作系统。默认使用[KDE](../Page/KDE.md "wikilink")和[MATE](../Page/MATE.md "wikilink")桌面，使用[滚动发行策略](https://zh.wikipedia.org/wiki/滚动发行 "wikilink")。PCLinuxOS以[LiveCD的形式发布](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，既可在光驱中运行，也可安装在[硬盘](../Page/硬盘.md "wikilink")上。PCLinuxOS和其他基于Mandriva的发行版不同的是使用APT-RPM来安装软件。
 
 ## 版本歷史

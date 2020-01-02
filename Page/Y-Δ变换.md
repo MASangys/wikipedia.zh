@@ -1,3 +1,6 @@
+> 本文内容由[Y-Δ变换](https://zh.wikipedia.org/wiki/Y-Δ变换)转换而来。
+
+
 [Wye-delta.svg](https://zh.wikipedia.org/wiki/File:Wye-delta.svg "fig:Wye-delta.svg") **Y-Δ变换**或稱為**星角變換**，是一种把[Y形电路转换成等效的](https://zh.wikipedia.org/wiki/Y形电路 "wikilink")[Δ形电路](https://zh.wikipedia.org/wiki/Δ形电路 "wikilink")，或把Δ形电路转换成等效的Y形电路的方法。它可以用来简化电路的分析。这一变换理论是由於1899年发表。\[1\]
 
 ## 基本的Y-Δ变换

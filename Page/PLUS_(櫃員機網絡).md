@@ -1,3 +1,6 @@
+> 本文内容由[PLUS \(櫃員機網絡\)](https://zh.wikipedia.org/wiki/PLUS_\(櫃員機網絡\))转换而来。
+
+
 ****（或稱為****）是全球性、跨銀行的櫃員機網絡，支援所有卡（包括信用卡、支賬卡等）。目前，全世界有170個國家、超過1,000,000部連上PLUS網絡的櫃員機。\[1\]
 
 只要使用Visa, Visa Debit, [Visa Delta及](https://zh.wikipedia.org/wiki/Visa_Delta "wikilink")[Visa Electron](https://zh.wikipedia.org/wiki/Visa_Electron "wikilink")，PLUS可以同時作為一個單獨網絡和連上區域性跨銀行網絡。目前，全球有1.44億張PLUS卡，其中未計算以PLUS作第二網絡的櫃員機卡。

@@ -1,3 +1,6 @@
+> 本文内容由[Dr. Dre](https://zh.wikipedia.org/wiki/Dr._Dre)转换而来。
+
+
 **安德烈·羅梅勒·楊格**（，），是一位[非裔美籍](https://zh.wikipedia.org/wiki/非裔美國人 "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")音樂人、音樂製作人、[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")，[企业家](../Page/企业家.md "wikilink")，藝名**Dr. Dre**（中文常翻作**德瑞博士**，或**德瑞医生**，尽管Doctor意為向[NBA](../Page/NBA.md "wikilink")球員[Dr. J致敬](../Page/朱利叶斯·欧文.md "wikilink")）。他專精於，開創了[G-Funk樂派](https://zh.wikipedia.org/wiki/G-Funk "wikilink")，是[西岸嘻哈的代表人物](https://zh.wikipedia.org/wiki/西岸嘻哈 "wikilink")，代表作品是與[Snoop Dogg合作的](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")《》。
 
 他是[嘻哈](../Page/嘻哈.md "wikilink")音樂界最成功、最知名、最富有且最具影響力製作人之一，由Dr. Dre发掘与培养的艺人有[圖帕克](https://zh.wikipedia.org/wiki/圖帕克 "wikilink")、[Snoop Dogg](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")、[奈特狗狗](https://zh.wikipedia.org/wiki/Nate_Dogg "wikilink")、[Eminem](../Page/Eminem.md "wikilink")、[五角等等](https://zh.wikipedia.org/wiki/50_Cent "wikilink")，都是嘻哈界的一時之選，構成了他在嘻哈界的[教父地位](https://zh.wikipedia.org/wiki/教父 "wikilink")。[肯伊·威斯特](../Page/肯伊·威斯特.md "wikilink")說：「若問我『嘻哈人是否對德瑞萬分崇敬？』；就像問[基督徒](../Page/基督徒.md "wikilink")『[耶穌是不是為信徒](https://zh.wikipedia.org/wiki/耶穌 "wikilink")[贖罪](../Page/贖罪.md "wikilink")而死？』一樣。」

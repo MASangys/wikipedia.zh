@@ -1,3 +1,6 @@
+> 本文内容由[Crooked Rain, Crooked Rain](https://zh.wikipedia.org/wiki/Crooked_Rain,_Crooked_Rain)转换而来。
+
+
 ***Crooked Rain, Crooked Rain*** 是[美国](../Page/美国.md "wikilink")[独立摇滚](../Page/独立摇滚.md "wikilink")乐队[Pavement在](../Page/人行道乐队.md "wikilink")1994年发行的一张[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，而这也是他们的第三张专辑。在这张专辑中乐队放弃了之前在第一张专辑里所展现的lo-fi风格。
 
 ## 制作背景

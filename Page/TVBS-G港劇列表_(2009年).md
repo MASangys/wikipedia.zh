@@ -1,3 +1,6 @@
+> 本文内容由[TVBS-G港劇列表 \(2009年\)](https://zh.wikipedia.org/wiki/TVBS-G港劇列表_\(2009年\))转换而来。
+
+
 本條目內之「播放日期」，是指[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")的播放日期。
 
 ## 19:00港劇時段

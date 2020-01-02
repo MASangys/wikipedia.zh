@@ -1,3 +1,6 @@
+> 本文内容由[USA \(消歧義\)](https://zh.wikipedia.org/wiki/USA_\(消歧義\))转换而来。
+
+
 **USA**最常被用以指代[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，亦为美国的[ISO 3166-1三位字母国家代碼](../Page/ISO_3166-1.md "wikilink")。
 
 此外，**USA**还可以指：

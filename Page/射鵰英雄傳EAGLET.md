@@ -1,3 +1,6 @@
+> 本文内容由[射鵰英雄傳EAGLET](https://zh.wikipedia.org/wiki/射鵰英雄傳EAGLET)转换而来。
+
+
 《**射鵰英雄傳EAGLET**》（）為[白井三二朗所畫的](https://zh.wikipedia.org/wiki/白井三二朗 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，[翻譯協力由金海南擔任](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。本作改編自[金庸](../Page/金庸.md "wikilink")的[武俠小說](../Page/武俠小說.md "wikilink")《[射雕英雄傳](https://zh.wikipedia.org/wiki/射雕英雄傳 "wikilink")》，在《[月刊少年天狼星](../Page/月刊少年天狼星.md "wikilink")》2009年3月號至2010年12月號連載。
 
 ## 故事簡介

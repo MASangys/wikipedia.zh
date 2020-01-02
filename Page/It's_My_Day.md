@@ -1,3 +1,6 @@
+> 本文内容由[It\'s My Day](https://zh.wikipedia.org/wiki/It\'s_My_Day)转换而来。
+
+
 《**It's My Day**》是[薛凱琪的首張](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[國語專輯](https://zh.wikipedia.org/wiki/國語 "wikilink")，於2008年4月18日推出，主打歌為《愛麗絲的第一次》，以及第二主打《我不需要Tiffany》。此外，碟內其中一曲《It's My Day》更由[Zarahn](../Page/Zarahn.md "wikilink")成員[Goro作曲](https://zh.wikipedia.org/wiki/Goro "wikilink")。而《復刻回憶》則是改編自樂壇巨星[張學友的經典粵語流行歌曲](https://zh.wikipedia.org/wiki/張學友 "wikilink")[每天愛你多一些](../Page/每天愛你多一些.md "wikilink")，由[薛凱琪與](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[方大同合唱](https://zh.wikipedia.org/wiki/方大同 "wikilink")。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[PAMAS-G1手枪](https://zh.wikipedia.org/wiki/PAMAS-G1手枪)转换而来。
+
+
 **PAMAS-G1手枪**（[法文全名](https://zh.wikipedia.org/wiki/法文 "wikilink")：）是以[貝瑞塔92F衍生而成的](../Page/貝瑞塔92手槍.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")，由[法國的GIAT製造](https://zh.wikipedia.org/wiki/法國 "wikilink")。
 
 ## 历史

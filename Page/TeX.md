@@ -1,3 +1,6 @@
+> 本文内容由[TeX](https://zh.wikipedia.org/wiki/TeX)转换而来。
+
+
 **TeX**（，常被读作，音译，写作“”），是一个由美国计算机教授[高德纳](../Page/高德纳.md "wikilink")（）编写的排版软件。TeX的[MIME类型为](../Page/互联网媒体类型.md "wikilink")`application/x-tex`，是一款[自由软件](../Page/自由软件.md "wikilink")。它在学术界特别是[数学](../Page/数学.md "wikilink")、[物理学](../Page/物理学.md "wikilink")和[计算机科学](../Page/计算机科学.md "wikilink")界十分流行。TeX被普遍认为是一个优秀的排版工具，尤其是对于复杂数学公式的处理。利用LaTeX等终端软件，TeX就能够排版出精美的文本以幫助人們辨認和尋找。
 
 ## 历史

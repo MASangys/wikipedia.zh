@@ -1,3 +1,6 @@
+> 本文内容由[Heads or Tails](https://zh.wikipedia.org/wiki/Heads_or_Tails)转换而来。
+
+
 《**Heads or Tails**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2010年12月6日推出之第四張個人專輯，第一主打歌為設計意識大膽的《尾巴》。
 
 另外專輯附有一片DVD，收錄2首歌曲的音樂錄影帶：《尾巴》與《Together》。

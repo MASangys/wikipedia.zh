@@ -1,3 +1,6 @@
+> 本文内容由[Sorry, Sorry](https://zh.wikipedia.org/wiki/Sorry,_Sorry)转换而来。
+
+
 **《Sorry, Sorry》**是韩国男子组合[Super Junior的第三张专辑](../Page/Super_Junior.md "wikilink")，于2009年3月12日正式于[韩国发售](https://zh.wikipedia.org/wiki/韩国 "wikilink")，\[1\]有多种版本（见[版本](https://zh.wikipedia.org/wiki/Sorry,_Sorry#版本 "wikilink")）。在开放预定的一星期内，此专辑已被预定超过十五万张。\[2\]经统计，开始销售的第一天此专辑销售量超过29,000张。\[3\]
 
 至現時為止，此張專輯在韓國的各版本銷量總和超過25萬張。这张专辑距该组合上张专辑《[Don't Don](../Page/Don't_Don.md "wikilink")》有1年6个月之久。

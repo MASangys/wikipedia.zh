@@ -1,3 +1,6 @@
+> 本文内容由[Scheme](https://zh.wikipedia.org/wiki/Scheme)转换而来。
+
+
 **Scheme**是一种[函数式编程语言](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")，是[Lisp的两种主要方言之一](https://zh.wikipedia.org/wiki/Lisp "wikilink")（另一种为[Common Lisp](../Page/Common_Lisp.md "wikilink")）。不同于[Common Lisp](../Page/Common_Lisp.md "wikilink")，Scheme遵循[極簡主義哲学](https://zh.wikipedia.org/wiki/極簡主義_\(程式設計\) "wikilink")，以一个小型语言核心作为标准，加上各种强力语言工具（[语法糖](../Page/语法糖.md "wikilink")）来扩展语言本身\[1\]。
 
 [麻省理工學院與其他院校曾采用Scheme教授计算机科学入門課程](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")。著名的入門教材《[-{zh-hans:计算机程序的构造和解释;zh-hant:電腦程式的構造和解釋}-](https://zh.wikipedia.org/wiki/計算機程序的構造和解釋 "wikilink")》（SICP）利用Scheme來解釋程序設計\[2\]。Scheme的廣泛受眾被視為一個主要優勢，然而不同實現之間的差異成為了它的一個劣勢\[3\]。

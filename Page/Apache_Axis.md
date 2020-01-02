@@ -1,3 +1,6 @@
+> 本文内容由[Apache Axis](https://zh.wikipedia.org/wiki/Apache_Axis)转换而来。
+
+
 **阿帕奇 Axis** 是一個開源、建基於XML的Web服務架構。它包含了Java和C++語言實現的SOAP伺服器，以及各種公用服務及[API以生成和部署Web服務應用](https://zh.wikipedia.org/wiki/API "wikilink")。用阿帕奇Axis開發者能夠創造可互操作的，分佈式的計算應用。Axis由Apache軟件基金會主持下制訂的。
 
 ## Axis Java

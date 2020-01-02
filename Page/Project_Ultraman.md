@@ -1,3 +1,6 @@
+> 本文内容由[Project Ultraman](https://zh.wikipedia.org/wiki/Project_Ultraman)转换而来。
+
+
 《**PROJECT ULTRAMAN**》，是泰国采耀公司、深圳玩具厂商先端玩具与广州锐视文化製作的特攝电视剧作品。
 
 由于在[奥特曼海外版权与圓谷产生纠纷](../Page/奥特曼海外版权争议.md "wikilink")，在泰国终审圓谷勝訴後该作停止拍攝。

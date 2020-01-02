@@ -1,3 +1,6 @@
+> 本文内容由[R-過程](https://zh.wikipedia.org/wiki/R-過程)转换而来。
+
+
 [Rapid_neutron_capture.svg](https://zh.wikipedia.org/wiki/File:Rapid_neutron_capture.svg "fig:Rapid_neutron_capture.svg")
 
 **R-過程**，或稱為[快中子捕獲過程](https://zh.wikipedia.org/wiki/中子捕獲 "wikilink")，是在核心發生塌縮的超新星（參考[超新星核合成](../Page/超新星核合成.md "wikilink")）中創造富含[中子](../Page/中子.md "wikilink")且[比鐵重的元素的程序](https://zh.wikipedia.org/wiki/重金屬 "wikilink")，並創造了大約一半的數量。R-過程需要以[鐵為](https://zh.wikipedia.org/wiki/鐵 "wikilink")*種核*進行連續的*快*[中子捕獲](https://zh.wikipedia.org/wiki/中子捕獲 "wikilink")，或是短程的**R-過程**。另一種居主導地位產生重元素的機制為[S-過程](../Page/S-過程.md "wikilink")，也就是通過*慢中子*捕獲進行核合成，主要發生在[AGB星](../Page/漸近巨星分支.md "wikilink")，而這兩種過程在產生比鐵重的元素的[星系化學演化中占了很重的分量](https://zh.wikipedia.org/wiki/化學演化 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia V](https://zh.wikipedia.org/wiki/Sony_Xperia_V)转换而来。
+
+
 **Sony Xperia V**（日本型號：Xperia AX），是[索尼](../Page/索尼.md "wikilink")於2012年發佈的旗艦手機，採用[Android](../Page/Android.md "wikilink") 4.0作業系統，它是索尼移動通信首部支援全球4G LTE的手機，是首批機背取消了[索尼愛立信](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")「小綠球」的索尼手機之一。
 
 ## 網路

@@ -1,3 +1,6 @@
+> 本文内容由[Google Play](https://zh.wikipedia.org/wiki/Google_Play)转换而来。
+
+
 ****（前身为**Android Market**）是由[Google](../Page/Google.md "wikilink")为[Android](../Page/Android.md "wikilink")所開發的數位化應用發佈平台，包括數位媒體商店。它作為Android作業系統的官方應用商店，允許用戶瀏覽和下載使用Android SDK開發並透過Google發布的應用程式。 Google Play也是數位媒體商店，提供音樂，雜誌，書籍，電影和電視節目。它之前提供了Google硬件裝置，直到2015年3月11日推出一個單獨的線上硬件零售商Google Store\[1\]。
 
 使用者可以透過Google Play免費或付費購買應用程式。 透過Play商店行動應用直接下載到Android或Google TV裝置，也可以透過Google Play網站直接部署應用安裝在裝置上。\[2\] 利用裝置的硬件能力的應用可以透過必要的硬件屬性（諸如用於運動相關遊戲等的運動傳感器、用於線上視訊通話等的前置相機）針對合適的用戶。

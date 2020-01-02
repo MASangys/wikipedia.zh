@@ -1,3 +1,6 @@
+> 本文内容由[Linux中文文件計劃](https://zh.wikipedia.org/wiki/Linux中文文件計劃)转换而来。
+
+
 **Linux中文文件計劃**目的在為[Linux](../Page/Linux.md "wikilink")作業系統提供豐富，完整，高品質的中文文件。但目前已停止更新。
 
 ## 緣起

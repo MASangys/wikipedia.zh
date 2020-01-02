@@ -1,3 +1,6 @@
+> 本文内容由[Horses](https://zh.wikipedia.org/wiki/Horses)转换而来。
+
+
 **《Horses》**是[帕蒂·史密斯](../Page/帕蒂·史密斯.md "wikilink")首张音乐专辑，制作人为前[地下丝绒乐队的成员](https://zh.wikipedia.org/wiki/地下丝绒 "wikilink")[约翰·凯尔](../Page/约翰·凯尔.md "wikilink")，专辑于1975年发行。该专辑在[滚石杂志评选的](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")[五百大专辑中名列](https://zh.wikipedia.org/wiki/滚石杂志五百大专辑 "wikilink")44位。\[1\]
 
 ## 制作成员

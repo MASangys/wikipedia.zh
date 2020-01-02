@@ -1,3 +1,6 @@
+> 本文内容由[SEASONS](https://zh.wikipedia.org/wiki/SEASONS)转换而来。
+
+
 《**SEASONS**》（四季）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年6月7日發行的第16張單曲。
 
 ## 說明

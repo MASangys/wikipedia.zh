@@ -1,3 +1,6 @@
+> 本文内容由[大卫·H·斯坦伯格](https://zh.wikipedia.org/wiki/大卫·H·斯坦伯格)转换而来。
+
+
 **大卫·H·斯坦伯格**（，）是一个[美国](../Page/美国.md "wikilink")[编剧和](https://zh.wikipedia.org/wiki/编剧 "wikilink")[电影导演](https://zh.wikipedia.org/wiki/电影导演 "wikilink")，他的成名作品是《[美国派2](https://zh.wikipedia.org/wiki/美国派2 "wikilink")》、《[美国派：索爱天书](../Page/美国派：索爱天书.md "wikilink")》和《[我的美好欲望](../Page/我的美好欲望.md "wikilink")》。
 
 ## 生平

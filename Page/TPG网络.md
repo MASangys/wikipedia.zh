@@ -1,3 +1,6 @@
+> 本文内容由[TPG网络](https://zh.wikipedia.org/wiki/TPG网络)转换而来。
+
+
 **TPG网络**（，），可被理解为“完全外围设备小组”，通常称TPG或TPG网络。是[澳大利亚](../Page/澳大利亚.md "wikilink")的一家[因特网服务提供商以及](https://zh.wikipedia.org/wiki/因特网服务提供者 "wikilink")[IT公司](../Page/信息技术.md "wikilink")。隶属于[SP Telemedia](https://zh.wikipedia.org/wiki/SP_Telemedia "wikilink")（同为澳洲的通讯公司）。在过去的18年以来，TPG号称是[澳大利亚](../Page/澳大利亚.md "wikilink")最大的10家[因特网服务提供商之一](https://zh.wikipedia.org/wiki/因特网服务提供者 "wikilink")。最近，TPG公司着手于在[澳大利亚](../Page/澳大利亚.md "wikilink")范围内建设自己的[ADSL2+宽带网络](https://zh.wikipedia.org/wiki/ADSL2+ "wikilink")，采用的是线路共享技术。
 
 TPG公司的服务范围，包括因特网接入服务、组建网络、OEM服务、会计软件等等。

@@ -1,3 +1,6 @@
+> 本文内容由[GNU Octave](https://zh.wikipedia.org/wiki/GNU_Octave)转换而来。
+
+
 **GNU Octave**是一种采用[高级](https://zh.wikipedia.org/wiki/高级语言 "wikilink")[编程语言](../Page/编程语言.md "wikilink")的主要用于[数值分析的软件](https://zh.wikipedia.org/wiki/数值分析 "wikilink")。Octave有助于以数值方式解决线性和非线性问题，并使用与[MATLAB](../Page/MATLAB.md "wikilink")兼容的语言进行其他数值实验。它也可以作为[面向批处理的语言使用](https://zh.wikipedia.org/wiki/批处理任务 "wikilink")。因为它是[GNU計劃](../Page/GNU計劃.md "wikilink")的一部分，所以它是[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")条款下的[自由软件](../Page/自由软件.md "wikilink")。
 
 Octave是MATLAB的主要[自由替代品之一](../Page/自由软件.md "wikilink")，其他还有[Scilab](../Page/Scilab.md "wikilink")和[FreeMat](https://zh.wikipedia.org/wiki/FreeMat "wikilink")。\[1\]\[2\]\[3\]\[4\] 然而，与Octave相比，Scilab更少强调与MATLAB的（双向）句法兼容性。\[5\]\[6\]\[7\]

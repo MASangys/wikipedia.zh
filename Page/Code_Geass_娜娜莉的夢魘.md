@@ -1,3 +1,6 @@
+> 本文内容由[Code Geass 娜娜莉的夢魘](https://zh.wikipedia.org/wiki/Code_Geass_娜娜莉的夢魘)转换而来。
+
+
 **《Code Geass 娜娜莉的梦魇》**是动画[Code Geass 反叛的鲁路修的改編漫画](https://zh.wikipedia.org/wiki/Code_Geass_反叛的鲁路修 "wikilink")，自2006年开始在[月刊CompAce上进行连载](https://zh.wikipedia.org/wiki/月刊CompAce "wikilink")。
 
 故事原案[大河內一樓](../Page/大河內一樓.md "wikilink")、[谷口悟朗](../Page/谷口悟朗.md "wikilink")，由担任作画，CompAce Vol.10开始连载。

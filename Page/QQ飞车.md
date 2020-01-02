@@ -1,3 +1,6 @@
+> 本文内容由[QQ飞车](https://zh.wikipedia.org/wiki/QQ飞车)转换而来。
+
+
 《**-{zh-cn:QQ飞车;zh-sg:极速领域;zh-tw:極速領域}-**》（），-{zh-cn:国际版称为《**极速领域**》（），;zh-sg:中国版称为《**QQ飞车**》（），;zh-tw:中國版稱為《**QQ飛車**》（），;}-是中国[腾讯公司旗下的第一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")3D[卡丁车竞速](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，是款包含經典賽車競速與道具賽等模式的賽車遊戲，最大特色是包含很多[N2O加速的技能](https://zh.wikipedia.org/wiki/氮氧加速系统 "wikilink")（如不同于同类卡丁车遊戲的落地喷、空喷等技巧）。该游戏的Windows版本于2008年1月23日公测。手遊版本在2017年12月27日在中國大陸地區正式開放不刪檔測試，國際服(亞洲地區)則在2019年1月17日於台灣、香港、澳門、东南亚等地發布(越南地區2018年12月18日提前發布)，在同年的7月22日，國際服(拉丁美洲地區)於墨西哥、巴西、哥倫比亞等地發布。
 
 本作在[中国大陸由騰訊公司运营](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")，中國大陸以外则由Garena运营。

@@ -1,3 +1,6 @@
+> 本文内容由[IBM AIX](https://zh.wikipedia.org/wiki/IBM_AIX)转换而来。
+
+
 **AIX**，是[IBM](../Page/IBM.md "wikilink")专有[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")的商标名。名稱來自**先進互動執行系統**（，縮寫為）。最初的名稱來自，但或许这个名字没有得到法律部门的允许，因此更改为"Advanced Interactive eXecutive"。
 
 AIX的一些流行特性例如chuser、mkuser、rmuser命令以及相似的东西允许如同管理文件一样来进行用户管理。AIX级别的[逻辑卷管理正逐渐被添加进各种](https://zh.wikipedia.org/wiki/逻辑卷管理 "wikilink")[自由的](../Page/自由软件.md "wikilink")[UNIX风格操作系统中](https://zh.wikipedia.org/wiki/UNIX风格 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Sun Enterprise](https://zh.wikipedia.org/wiki/Sun_Enterprise)转换而来。
+
+
 **Sun Enterprise**是[太阳计算机在](https://zh.wikipedia.org/wiki/升阳 "wikilink")[UNIX](../Page/UNIX.md "wikilink")[伺服器方面的產品系列名稱](../Page/服务器.md "wikilink")，也可說是產品線名稱。此稱自1996年開始使用，至2001年停用。事實上最初稱為Sun **Ultra Enterprise**系列，然約在1998年去除了名稱中的Ultra一字，此後才正式稱為Sun Enterprise系列。
 
 Sun Enterprise系列的伺服器與Sun同時期推出的Ultra系列工作站一樣，都是使用[64位元的](https://zh.wikipedia.org/wiki/64位 "wikilink")[UltraSPARC處理器](https://zh.wikipedia.org/wiki/UltraSPARC "wikilink")，此外也與Ultra系列工作站一樣使用[Solaris](../Page/Solaris.md "wikilink")作業系統環境。

@@ -1,3 +1,6 @@
+> 本文内容由[SGML](https://zh.wikipedia.org/wiki/SGML)转换而来。
+
+
 **标准通用标记语言**（，）是现时常用的[超文本](../Page/超文本.md "wikilink")格式的最高层次标准，是可以定义标记语言的[元语言](https://zh.wikipedia.org/wiki/元语言 "wikilink")，甚至可以定义不必采用\< \>的常规方式。由于它的复杂，因而难以普及。
 
 这是它的一個例子：

@@ -1,3 +1,6 @@
+> 本文内容由[CPU缓存](https://zh.wikipedia.org/wiki/CPU缓存)转换而来。
+
+
 在[计算机系统中](https://zh.wikipedia.org/wiki/计算机 "wikilink")，**CPU高速缓存**（，在本文中简称缓存）是用于减少[处理器访问内存所需平均时间的部件](../Page/中央处理器.md "wikilink")。在金字塔式[存储体系中它位于自顶向下的第二层](https://zh.wikipedia.org/wiki/存储体系 "wikilink")，仅次于[CPU寄存器](../Page/寄存器.md "wikilink")。其容量远小于[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")，但速度却可以接近处理器的频率。
 
 当处理器发出内存访问请求时，会先查看缓存内是否有请求数据。如果存在（命中），则不经访问内存直接返回该数据；如果不存在（失效），则要先把内存中的相应数据载入缓存，再将其返回处理器。

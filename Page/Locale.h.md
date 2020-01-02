@@ -1,3 +1,6 @@
+> 本文内容由[Locale.h](https://zh.wikipedia.org/wiki/Locale.h)转换而来。
+
+
 **locale.h**是[C程序设计语言](https://zh.wikipedia.org/wiki/C程序设计语言 "wikilink")[标准函数库的一个](https://zh.wikipedia.org/wiki/C標準函數庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，声明了**C语言[本地化函数](https://zh.wikipedia.org/wiki/本地化 "wikilink")**。\[1\]\[2\] 这些函数用于在处理多种自然语言的软件编程设计时，把程序调整到特定的[区域设置](../Page/区域设置.md "wikilink"). 这些区域设置影响到C语言标准库的[输入/输出函数](https://zh.wikipedia.org/wiki/stdio.h "wikilink").
 
 ## 所包含的函数

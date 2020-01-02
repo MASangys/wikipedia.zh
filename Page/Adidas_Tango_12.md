@@ -1,3 +1,6 @@
+> 本文内容由[Adidas Tango 12](https://zh.wikipedia.org/wiki/Adidas_Tango_12)转换而来。
+
+
 [Euro_2012.jpg](https://zh.wikipedia.org/wiki/File:Euro_2012.jpg "fig:Euro_2012.jpg")的Adidas Tango 12纪念碑\]\] **Adidas Tango 12**是[UEFA](https://zh.wikipedia.org/wiki/UEFA "wikilink")[2012年欧洲足球锦标赛](../Page/2012年欧洲足球锦标赛.md "wikilink")官方指定用球。\[1\]虽然这款球沿用了原有非常成功的[Adidas Tango家族的名称](../Page/Adidas_Tango.md "wikilink")，但Tango 12采用了完全不同的新设计。这款球的其它版本已经被用于包括非洲杯、夏季奥运会在内的许多比赛，虽然[阿迪达斯并没有把它们全都划入](https://zh.wikipedia.org/wiki/阿迪达斯 "wikilink")“Adidas Tango 12”家族，但它们有着相似的设计。
 
 这款球在2011年12月2日在[基辅举行的](https://zh.wikipedia.org/wiki/基辅 "wikilink")[欧洲杯小组赛抽签仪式上正式发布](../Page/2012年欧洲足球锦标赛.md "wikilink")。据报道，这款足球被设计得比他的前一代[普天同庆](https://zh.wikipedia.org/wiki/普天同庆 "wikilink")（2010年[南非世界杯官方指定用球](https://zh.wikipedia.org/wiki/南非世界杯 "wikilink")）更方便运球和控制。Tango 12的构造设计基于[普天同庆](https://zh.wikipedia.org/wiki/普天同庆 "wikilink")，但做了大幅修改。[普天同庆遭到了很多守门员的谴责](https://zh.wikipedia.org/wiki/普天同庆 "wikilink")，包括巴西门将[儒利奥·塞萨尔](https://zh.wikipedia.org/wiki/儒利奥·塞萨尔 "wikilink")。

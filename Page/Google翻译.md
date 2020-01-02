@@ -1,3 +1,6 @@
+> 本文内容由[Google翻译](https://zh.wikipedia.org/wiki/Google翻译)转换而来。
+
+
 **Google翻譯**（）是一項[Google](../Page/Google.md "wikilink")提供的翻譯文段及網頁的服務。\[1\]
 
 與其他網站[巴別魚](../Page/Yahoo!_Babel_Fish.md "wikilink")、[美国在线](../Page/美国在线.md "wikilink")及[雅虎](../Page/雅虎.md "wikilink")使用[SYSTRAN引擎不同的是](https://zh.wikipedia.org/wiki/SYSTRAN "wikilink")，Google使用自己開發的翻譯軟件，大部分語言對採用[統計機器翻譯技術](https://zh.wikipedia.org/wiki/統計機器翻譯 "wikilink")，少部份語言採用[Google神經機器翻譯系統](../Page/Google神經機器翻譯系統.md "wikilink")。

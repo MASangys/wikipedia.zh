@@ -1,3 +1,6 @@
+> 本文内容由[BRAVE10](https://zh.wikipedia.org/wiki/BRAVE10)转换而来。
+
+
 《**BRAVE10**》（真田十勇士）是[霜月灰吏](../Page/霜月灰吏.md "wikilink")的漫畫作品，於2007年10月開始在[Media Factory的雜誌](../Page/Media_Factory.md "wikilink")[COMIC-FLAPPER上連載](https://zh.wikipedia.org/wiki/COMIC-FLAPPER "wikilink")。
 
 於2007年11月21日Marine Entertainment發售[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")。[TMS Entertainment於](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")2011年7月發佈動畫化消息，於2012年1月7日開始播放。

@@ -1,3 +1,6 @@
+> 本文内容由[Self](https://zh.wikipedia.org/wiki/Self)转换而来。
+
+
 **Self语言**，是一种[基于原型的](https://zh.wikipedia.org/wiki/基于原型的编程 "wikilink")[面向对象的](https://zh.wikipedia.org/wiki/面向对象编程语言 "wikilink")[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，于1986年由[施乐帕洛阿尔托研究中心的David](https://zh.wikipedia.org/wiki/施乐帕洛阿尔托研究中心 "wikilink") Ungar和Randy Smith给出了最初的设计。
 
 ## 简介

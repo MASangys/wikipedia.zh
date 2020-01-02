@@ -1,3 +1,6 @@
+> 本文内容由[BLACK BLOOD BROTHERS](https://zh.wikipedia.org/wiki/BLACK_BLOOD_BROTHERS)转换而来。
+
+
 《**BLACK BLOOD BROTHERS**》是[あざの耕平](https://zh.wikipedia.org/wiki/あざの耕平 "wikilink")、[草河遊也的](https://zh.wikipedia.org/wiki/草河遊也 "wikilink")[轻小说](https://zh.wikipedia.org/wiki/轻小说 "wikilink")。[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")刊行。2004年7月16日开始在[DRAGON MAGAZINE上连载](https://zh.wikipedia.org/wiki/DRAGON_MAGAZINE "wikilink")。
 
 ## 小说一覽

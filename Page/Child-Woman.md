@@ -1,3 +1,6 @@
+> 本文内容由[Child-Woman](https://zh.wikipedia.org/wiki/Child-Woman)转换而来。
+
+
 《**Child-Woman**》是周勵淇的第2張個人音樂專輯，於2006年4月11日推出。
 
 ## 簡介

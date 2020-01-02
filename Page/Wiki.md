@@ -1,3 +1,6 @@
+> 本文内容由[Wiki](https://zh.wikipedia.org/wiki/Wiki)转换而来。
+
+
 [Ward_Cunningham_-_Commons-1.jpg](https://zh.wikipedia.org/wiki/File:Ward_Cunningham_-_Commons-1.jpg "fig:Ward_Cunningham_-_Commons-1.jpg")，wiki技术的发明者。\]\] （）是在[全球資訊網上開放](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")，且可供多人協同創作的[超文本系統](https://zh.wikipedia.org/wiki/超文本系統 "wikilink")，由[沃德·坎宁安](../Page/沃德·坎宁安.md "wikilink")於1995年首先开发。沃德·坎宁安将wiki定义为“一种允许一群用户用简单的描述来创建和连接一组[网页的社会计算系统](https://zh.wikipedia.org/wiki/网页 "wikilink")”\[1\]。
 
 有些人認為\[2\]，Wiki系統屬於一種人類知識的網路系統，讓人們可以在web的基礎上對Wiki[文本進行瀏覽](https://zh.wikipedia.org/wiki/文本 "wikilink")、創建和更改，而且這種創建、更改及發佈的成本遠比HTML文本小。與此同時，Wiki系統還支持那些面向社群的協作式寫作，為協作式寫作提供了必要的幫助。最後Wiki的寫作者自然構成了一個社群，Wiki系統為這個社群提供了簡單的交流工具。與其它超文本系統相比，Wiki有使用簡便且開放的特點，有助於在一個社群內共享某個領域的知識。

@@ -1,3 +1,6 @@
+> 本文内容由[Grupo Banistmo](https://zh.wikipedia.org/wiki/Grupo_Banistmo)转换而来。
+
+
 **Grupo Banistmo**在1884年9月7日於[巴拿馬開始營運的一間金融服務公司](https://zh.wikipedia.org/wiki/巴拿馬 "wikilink")，當年資本為300萬美元，被滙豐收購前是[中美洲](../Page/中美洲.md "wikilink")內最大的。1999年在中美洲區內的[哥倫比亞和](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")[巴哈馬展開了多次收購](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")，集團持有及Banistmo，使她成為巴拿馬最大銀行。2006年11月被[滙豐控股以](https://zh.wikipedia.org/wiki/滙豐控股 "wikilink")17.7億美元收購，2007年2月滙豐再以1億9070萬美元全面收購Grupo Banistmo旗下的**Inversiones Financieras Bancosal**和[薩爾瓦多銀行](https://zh.wikipedia.org/wiki/薩爾瓦多銀行 "wikilink")（**Banco Salvadoreno**）的餘下股權\[1\]。 2005年續收購巴拿馬消費貸款企業Financomer，目前在巴擁有19家分行。巴拿馬第一地峽銀行為此間最大民營銀行，同時擁有當地最大保險公司 Compania Nacional del Seguros。該行至上（2005）年底資產總值為69億7,300萬美元，上年盈餘1億1,500萬美元。 2007年Grupo Banistmo正式併入滙豐原本在巴拿馬的機構HSBC Bank Panama SA。
 
 2012年1月24日將其在哥斯達黎加29家分行、薩爾瓦多57家和洪都拉斯50家，這些機構的總資產大約43億美元，貸款余額為25億美元出售給了哥倫比亞第三大銀行Banco Davivienda，交易價格為8.01億美元現金。

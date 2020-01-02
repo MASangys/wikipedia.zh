@@ -1,3 +1,6 @@
+> 本文内容由[RIDEBACK](https://zh.wikipedia.org/wiki/RIDEBACK)转换而来。
+
+
 《**RIDEBACK**》是[カサハラテツロー所作的](https://zh.wikipedia.org/wiki/カサハラテツロー "wikilink")[日本漫画](../Page/日本漫画.md "wikilink")。从2003年1月号开始到2009年1月号为止，連載于[小学馆发行的](https://zh.wikipedia.org/wiki/小学馆 "wikilink")《[月刊IKKI](../Page/月刊IKKI.md "wikilink")》。以2020年的日本為背景舞台，描述操作人形二輪車機器人「RIDEBACK」的女大學生尾形琳的故事。电视动画从2009年1月播放至3月。
 
 ## 剧情简介

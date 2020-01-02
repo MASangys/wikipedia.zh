@@ -1,3 +1,6 @@
+> 本文内容由[Google地球](https://zh.wikipedia.org/wiki/Google地球)转换而来。
+
+
 **Google地球**（）是一款[Google公司開發的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，它把[衛星照片](https://zh.wikipedia.org/wiki/衛星照片 "wikilink")、[航空照相和](https://zh.wikipedia.org/wiki/航空照相 "wikilink")[GIS布置在一個](https://zh.wikipedia.org/wiki/地理信息系統 "wikilink")[地球](../Page/地球.md "wikilink")的[三維](https://zh.wikipedia.org/wiki/三維 "wikilink")[模型上](https://zh.wikipedia.org/wiki/模型 "wikilink")，支援多種作業系統平台。
 
 ## 縱覽

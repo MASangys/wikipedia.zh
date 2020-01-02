@@ -1,3 +1,6 @@
+> 本文内容由[PIKA★★NCHI DOUBLE](https://zh.wikipedia.org/wiki/PIKA★★NCHI_DOUBLE)转换而来。
+
+
 《**PIKA★★NCHI DOUBLE**》是[嵐](../Page/嵐.md "wikilink")的第12枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2004年2月18日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

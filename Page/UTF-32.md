@@ -1,3 +1,6 @@
+> 本文内容由[UTF-32](https://zh.wikipedia.org/wiki/UTF-32)转换而来。
+
+
 **UTF-32**是32位[Unicode转换格式](https://zh.wikipedia.org/wiki/Unicode "wikilink")（Unicode Transformation Formats， 或UTF）的缩写。**UTF-32**是一种用于编码[Unicode的协定](https://zh.wikipedia.org/wiki/Unicode "wikilink")，该协定使用32位比特对每个Unicode[码位进行编码](https://zh.wikipedia.org/wiki/码位 "wikilink")（但前导比特数必须为零，故仅能表示2<sup>21</sup>个Unicode[码位](https://zh.wikipedia.org/wiki/码位 "wikilink")）。与其他可变长度的Unicode转换格式（UTF）相比，UTF-32编码长度是固定的，UTF-32中的每个32位值代表一个Unicode码位，并且与该码位的数值完全一致。
 
 UTF-32的主要优点是可以直接由Unicode码位来索引。在编码序列中查找第N个编码是一个[常数时间操作](https://zh.wikipedia.org/wiki/常数时间 "wikilink")。相比之下，其他可变长度编码需要进行[循序存取操作才能在编码序列中找到第N个编码](https://zh.wikipedia.org/wiki/循序存取 "wikilink")。这使得在计算机程序设计中，编码序列中的字符位置可以用一个整数来表示，整数加一即可得到下一个字符的位置，就和ASCII字符串一样简单。

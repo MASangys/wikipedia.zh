@@ -1,3 +1,6 @@
+> 本文内容由[Barton–McCombie去氧反应](https://zh.wikipedia.org/wiki/Barton–McCombie去氧反应)转换而来。
+
+
 **Barton–McCombie去氧反应**是一个[有机反应](../Page/有机反应.md "wikilink")。在反应中，[有机化合物](../Page/有机化合物.md "wikilink")中的[羟基](../Page/羟基.md "wikilink")被[氢](../Page/氢.md "wikilink")取代\[1\]\[2\]。该反应以英国化学家[德里克·巴顿](https://zh.wikipedia.org/wiki/德里克·哈罗德·理查德·巴顿 "wikilink")（1918年－1998年）和Stuart W. McCombie命名。 [Barton-McCombie_Deoxygenation_Scheme.svg](https://zh.wikipedia.org/wiki/File:Barton-McCombie_Deoxygenation_Scheme.svg "fig:Barton-McCombie_Deoxygenation_Scheme.svg") 这个反应是一个[自由基取代反應](../Page/自由基取代反應.md "wikilink")。在另一个类似的反应[Barton脱羧反应中](https://zh.wikipedia.org/wiki/Barton脱羧反应 "wikilink")，底物为[羧酸](../Page/羧酸.md "wikilink")。
 
 ## 机理

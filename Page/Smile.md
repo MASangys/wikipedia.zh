@@ -1,3 +1,6 @@
+> 本文内容由[Smile](https://zh.wikipedia.org/wiki/Smile)转换而来。
+
+
 **Smile**在[英語是](https://zh.wikipedia.org/wiki/英語 "wikilink")[微笑](../Page/微笑.md "wikilink")之意。又可能是：
 
 ## 組合

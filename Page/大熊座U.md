@@ -1,3 +1,6 @@
+> 本文内容由[大熊座U](https://zh.wikipedia.org/wiki/大熊座U)转换而来。
+
+
 **大熊座U**，又名**BD+60 1246**，**HD 88651**、**SAO 15129**、**HR 4008**，是[大熊座](../Page/大熊座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.25，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")150.91，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")47.77，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

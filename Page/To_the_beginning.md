@@ -1,3 +1,6 @@
+> 本文内容由[To the beginning](https://zh.wikipedia.org/wiki/To_the_beginning)转换而来。
+
+
 《**to the beginning**》是[Kalafina](../Page/Kalafina.md "wikilink")的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[SME Records於](../Page/SME_Records.md "wikilink")2012年4月18日發行。\[1\]
 
 ## 概要

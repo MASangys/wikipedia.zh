@@ -1,3 +1,6 @@
+> 本文内容由[IE Only](https://zh.wikipedia.org/wiki/IE_Only)转换而来。
+
+
 **IE Only**，指专门给[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet Explorer](../Page/Internet_Explorer.md "wikilink")（简称IE，多指至2009年底占有率最多的第六版[IE6](https://zh.wikipedia.org/wiki/IE6 "wikilink")，因其预装于市场占有率很大的[Windows XP作業系統](../Page/Windows_XP.md "wikilink")）[浏览器浏览的网页](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，因为那些网站使用了IE（或IE核心“[Trident](../Page/Trident_\(排版引擎\).md "wikilink") [排版引擎](../Page/排版引擎.md "wikilink")”）专属的语法（包括IE本身的缺陷語法，這種語法已在新版本修復），导致其他浏览器，如：[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")等，因为使用与IE不同的排版引擎而无法正常浏览。
 
 ## 对IE Only的批评

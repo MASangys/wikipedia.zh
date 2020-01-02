@@ -1,3 +1,6 @@
+> 本文内容由[NBC偵察車](https://zh.wikipedia.org/wiki/NBC偵察車)转换而来。
+
+
 **NBC偵察車**是[防衛省](../Page/防衛省.md "wikilink")開發的NBC（核・生物・化學）武器處理用輪式[裝甲車](https://zh.wikipedia.org/wiki/裝甲車 "wikilink")。2009年（平成21年）開發完成，2010年（平成22年）開始服役。
 
 陸上自衛隊現在有NC型（[核武](https://zh.wikipedia.org/wiki/核子彈 "wikilink")・[化學](https://zh.wikipedia.org/wiki/化學武器 "wikilink")）處理用的[化學防護車和B型](https://zh.wikipedia.org/wiki/化學防護車 "wikilink")（[細菌戰](https://zh.wikipedia.org/wiki/生化武器 "wikilink")）處理用的[生物偵察車](https://zh.wikipedia.org/wiki/生物偵察車 "wikilink")，所以構想中一體化的NBC處理車輛已經是必然的，預計配備在化學科兵種。

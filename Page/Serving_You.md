@@ -1,3 +1,6 @@
+> 本文内容由[Serving You](https://zh.wikipedia.org/wiki/Serving_You)转换而来。
+
+
 **《Serving You》**為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第四張個人大碟，於2008年11月27日推出，對比於上一張大碟足足相隔了兩年時間\[1\]。
 
 ## 簡介

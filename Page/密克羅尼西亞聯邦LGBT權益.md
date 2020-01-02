@@ -1,3 +1,6 @@
+> 本文内容由[密克羅尼西亞聯邦LGBT權益](https://zh.wikipedia.org/wiki/密克羅尼西亞聯邦LGBT權益)转换而来。
+
+
 **女同性戀、男同性戀、雙性戀與跨性別者**的權益在[密克羅尼西亞聯邦不受到](https://zh.wikipedia.org/wiki/密克羅尼西亞聯邦 "wikilink")[法律](../Page/法律.md "wikilink")保障，無任何法律保障[LGBT](../Page/LGBT.md "wikilink")的權益。雖然同性性行為在密克羅尼西亞聯邦合法，但是無任何法律承認不同[性傾向有相同的法律權益](https://zh.wikipedia.org/wiki/性傾向 "wikilink")\[1\]。
 
 ## 同性伴侶關係

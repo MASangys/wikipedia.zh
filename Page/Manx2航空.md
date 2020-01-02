@@ -1,3 +1,6 @@
+> 本文内容由[Manx2航空](https://zh.wikipedia.org/wiki/Manx2航空)转换而来。
+
+
 **Manx2航空**\[1\]（）是[萌島一家已結業的](https://zh.wikipedia.org/wiki/萌島 "wikilink")[航空公司](../Page/航空公司.md "wikilink")，負責运营[不列顛群島內的](https://zh.wikipedia.org/wiki/不列顛群島 "wikilink")[民航業務](https://zh.wikipedia.org/wiki/民航 "wikilink")，以為總部，往來於[貝爾法斯特](https://zh.wikipedia.org/wiki/貝爾法斯特 "wikilink")、[黑潭](../Page/黑潭.md "wikilink")、[利茲](https://zh.wikipedia.org/wiki/利茲 "wikilink") / [布拉德福德](../Page/布拉德福德.md "wikilink")、[告士打郡以及](https://zh.wikipedia.org/wiki/告士打郡 "wikilink")[澤西](../Page/澤西.md "wikilink")等地\[2\]。2012年12月，Manx2的资产出售给，Manx2的最后一班航班于2012年12月31日发生。\[3\]
 
 ## 歷史

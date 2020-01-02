@@ -1,3 +1,6 @@
+> 本文内容由[USB視頻類別列表](https://zh.wikipedia.org/wiki/USB視頻類別列表)转换而来。
+
+
 **USB視頻類別**（又稱 **USB video class** 或 **[UVC](https://zh.wikipedia.org/wiki/UVC "wikilink")**）是一種[USB](../Page/USB.md "wikilink")[裝置類別](https://zh.wikipedia.org/wiki/USB#设备分类 "wikilink")，形容可用於串流視頻的裝置，就如[網路攝影機](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")、數位[攝影機](../Page/攝影機.md "wikilink")、類比視頻轉換器（analog video converters）、（television tuners）、以及[靜態影像相機](https://zh.wikipedia.org/wiki/靜態影像相機 "wikilink")（still-image cameras）。
 
 下表即 UVC 相容裝置列表。

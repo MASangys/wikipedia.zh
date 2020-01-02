@@ -1,3 +1,6 @@
+> 本文内容由[三国志II 霸王的大陆](https://zh.wikipedia.org/wiki/三国志II_霸王的大陆)转换而来。
+
+
 是一款由[南梦宫](../Page/南梦宫.md "wikilink")公司在1992年于[红白机](../Page/红白机.md "wikilink")平台上发行的历史[战略模拟游戏](https://zh.wikipedia.org/wiki/战略模拟游戏 "wikilink")。\[1\] 本游戏全面超过了其前作《[三国志 中原的霸者](https://zh.wikipedia.org/wiki/三国志_中原的霸者 "wikilink")》。该游戏在[中国受到广泛欢迎](https://zh.wikipedia.org/wiki/中国 "wikilink")，是游戏玩家公认的战略模拟类优秀作品。与[光荣公司所出的三国系列的不同之处在于这款游戏只有一个剧本](https://zh.wikipedia.org/wiki/光荣公司 "wikilink")，由189年开始，人物出场的时间和真实历史有一定的差距。同时该游戏存在许多有趣的BUG和秘密，使许多三国类游戏爱好者乐此不疲。
 
 在1998年[PlayStation平台推出的南梦宫精選集](../Page/PlayStation_\(遊戲機\).md "wikilink")，《霸王的大陸》復刻版收錄其中。

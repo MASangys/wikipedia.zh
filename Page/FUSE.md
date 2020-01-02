@@ -1,3 +1,6 @@
+> 本文内容由[FUSE](https://zh.wikipedia.org/wiki/FUSE)转换而来。
+
+
 {{ Otheruses|subject=電腦作業系統的用户空间文件系统|other=保險絲或稱熔絲（Fuse）|保險絲}}    **用户空间文件系统**（**F**ilesystem in **Use**rspace，簡稱**FUSE**）是一个面向[类Unix计算机](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[软件接口](../Page/应用程序接口.md "wikilink")，它使无特权的用户能够无需编辑[内核](../Page/内核.md "wikilink")代码而创建自己的[文件系统](../Page/文件系统.md "wikilink")。目前[Linux](../Page/Linux.md "wikilink")通过[内核模块对此进行支持](https://zh.wikipedia.org/wiki/内核模块 "wikilink")。一些文件系统如[ZFS](../Page/ZFS.md "wikilink")、[glusterfs和](https://zh.wikipedia.org/wiki/glusterfs "wikilink")[lustre使用FUSE实现](https://zh.wikipedia.org/wiki/lustre "wikilink")。
 
 Linux用于支持用户空间文件系统的内核模块名叫FUSE，FUSE一词有时特指Linux下的用户空间文件系统。

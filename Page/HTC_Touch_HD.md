@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch HD](https://zh.wikipedia.org/wiki/HTC_Touch_HD)转换而来。
+
+
 **HTC Blackstone**，原廠型號**HTC Touch HD**，是台灣[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[公司](../Page/公司.md "wikilink")所推出的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，採用[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6.1 Professional[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，配備3.8吋高[像素](../Page/像素.md "wikilink")WVGA[螢幕](https://zh.wikipedia.org/wiki/螢幕 "wikilink")，搭載創新的[TouchFLO 3D介面](https://zh.wikipedia.org/wiki/TouchFLO_3D "wikilink")，並支援[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink")[網路](https://zh.wikipedia.org/wiki/網路 "wikilink")，達到[寬頻](../Page/寬頻.md "wikilink")等級的瀏覽和[下載速度](https://zh.wikipedia.org/wiki/下載 "wikilink")，同時擁有[HTC](https://zh.wikipedia.org/wiki/HTC "wikilink")[手機所罕見的](https://zh.wikipedia.org/wiki/手機 "wikilink")3.5mm標準[耳機](../Page/耳機.md "wikilink")插孔。2008年9月15日於[歐洲首度發表](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。
 
 ## 技術規格

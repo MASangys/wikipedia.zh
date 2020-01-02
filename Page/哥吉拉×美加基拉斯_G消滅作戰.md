@@ -1,3 +1,6 @@
+> 本文内容由[哥吉拉×美加基拉斯 G消滅作戰](https://zh.wikipedia.org/wiki/哥吉拉×美加基拉斯_G消滅作戰)转换而来。
+
+
 《**哥吉拉×美加基拉斯 G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")24集，[東寶電影公司製作](https://zh.wikipedia.org/wiki/東寶電影公司 "wikilink")、發行，日本票房收入12億日圓，觀眾人次約135萬。導演[手塚昌明曾擔任](https://zh.wikipedia.org/wiki/手塚昌明 "wikilink")《[摩斯拉2 海底大決戰](../Page/摩斯拉2_海底大決戰.md "wikilink")》及《[摩斯拉3 王者基多拉來襲](../Page/摩斯拉3_王者基多拉來襲.md "wikilink")》的副導演，本片是他首次擔任導演的作品。
 
 ## 劇情概要

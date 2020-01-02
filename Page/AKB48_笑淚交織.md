@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 笑淚交織](https://zh.wikipedia.org/wiki/AKB48_笑淚交織)转换而来。
+
+
 《**AKB48 笑淚交織**》（，又直譯為「AKB48紀錄電影：少女們在眼淚背後看到什麼？」），是一部2013年2月1日在[日本](../Page/日本.md "wikilink")首映的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。該片是以2012年一年間對女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的團員進行貼身跟拍所攝得的影片，經過剪輯編排之後所作成之紀錄片，也是一系列以AKB48為主角的紀錄片作品中的第三部。
 
 此片的[導演是曾經執導過前作](https://zh.wikipedia.org/wiki/導演 "wikilink")《[AKB48 永遠在一起](../Page/AKB48_永遠在一起.md "wikilink")》（）與多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](../Page/高橋榮樹.md "wikilink")，[旁白則是女演員](https://zh.wikipedia.org/wiki/旁白 "wikilink")[伊藤步](../Page/伊藤步.md "wikilink")。

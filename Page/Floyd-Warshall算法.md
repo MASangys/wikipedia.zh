@@ -1,3 +1,6 @@
+> 本文内容由[Floyd-Warshall算法](https://zh.wikipedia.org/wiki/Floyd-Warshall算法)转换而来。
+
+
 **算法**（），中文亦称**弗洛伊德算法**，是解决任意两点间的[最短路径的一种](https://zh.wikipedia.org/wiki/最短路径 "wikilink")[算法](../Page/算法.md "wikilink")\[1\]，可以正確處理[有向圖或负权](https://zh.wikipedia.org/wiki/有向圖 "wikilink")（但不可存在负权回路）的最短路径問題，同时也被用于计算有向图的传递闭包\[2\]。
 
 算法的[时间复杂度](../Page/时间复杂度.md "wikilink")為\(O(N^3)\)\[3\]，[空间复杂度为](https://zh.wikipedia.org/wiki/空间复杂度 "wikilink")\(O(N^2)\)。

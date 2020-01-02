@@ -1,3 +1,6 @@
+> 本文内容由[Stay With Me \(平井堅單曲\)](https://zh.wikipedia.org/wiki/Stay_With_Me_\(平井堅單曲\))转换而来。
+
+
 《**Stay With Me**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1996年11月1日發行。
 
 ## 概述

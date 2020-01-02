@@ -1,3 +1,6 @@
+> 本文内容由[The Weepies](https://zh.wikipedia.org/wiki/The_Weepies)转换而来。
+
+
 **The Weepies**是一个独立民谣二人组合，成员为歌手兼词曲作者[Deb Talan和](https://zh.wikipedia.org/wiki/Deb_Talan "wikilink")[Steve Tannen](https://zh.wikipedia.org/wiki/Steve_Tannen "wikilink")。他们的音乐被形容为“微妙的醉人的民谣流行乐”。\[1\]
 
 ## 作品

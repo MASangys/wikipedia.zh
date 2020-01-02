@@ -1,3 +1,6 @@
+> 本文内容由[Windows XP](https://zh.wikipedia.org/wiki/Windows_XP)转换而来。
+
+
 **Windows XP**（开发代号：）是[微软公司推出供](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[个人电脑](../Page/个人电脑.md "wikilink")使用的[操作系统](../Page/操作系统.md "wikilink")，包括商用及家用的[桌上型电脑](https://zh.wikipedia.org/wiki/桌上型电脑 "wikilink")、[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")、和[平板电脑等](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。其[RTM版于](https://zh.wikipedia.org/wiki/软件版本周期#RTM "wikilink")2001年8月24日发布；零售版于2001年10月25日上市\[1\]。其名字「****」的意思是[英文中的](https://zh.wikipedia.org/wiki/英文 "wikilink")「体验」（）\[2\]。Windows XP是继[Windows 2000及](../Page/Windows_2000.md "wikilink")[Windows Me之后的下一代](../Page/Windows_Me.md "wikilink")操作系统，也是微软首个面向消费者且使用Windows NT架构的操作系统。Windows XP的外部版本是2002，內部版本是5.1（即Windows NT 5.1），正式版的版本号是5.1.2600。
 
 Windows XP OEM及零售版本已经在2008年6月30日停止销售，但用户仍可在购买Windows Vista旗舰版（Ultimate）或企业版（Enterprise）之后降级到Windows XP。\[3\]\[4\]

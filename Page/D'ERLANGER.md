@@ -1,3 +1,6 @@
+> 本文内容由[D\'ERLANGER](https://zh.wikipedia.org/wiki/D\'ERLANGER)转换而来。
+
+
 日本摇滚乐队。活动时期为1983年～1990年及2007年至今。
 
 ## 历史

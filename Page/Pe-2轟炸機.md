@@ -1,3 +1,6 @@
+> 本文内容由[Pe-2轟炸機](https://zh.wikipedia.org/wiki/Pe-2轟炸機)转换而来。
+
+
 **佩-2**型輕[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，是[二次大戰時最著名的蘇聯轟炸機](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，衍生的佩-3／佩-2I型更是蘇聯當時唯一的雙發雙座重[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")。
 
 ## 歷史

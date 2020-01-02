@@ -1,3 +1,6 @@
+> 本文内容由[OpenMP](https://zh.wikipedia.org/wiki/OpenMP)转换而来。
+
+
 ****（Open Multi-Processing）是一套支持跨平台[共享内存方式的多线程并发的编程](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[API](https://zh.wikipedia.org/wiki/API "wikilink")，使用[C](../Page/C.md "wikilink"),[C++](../Page/C++.md "wikilink")和[Fortran](../Page/Fortran.md "wikilink")语言，可以在大多数的处理器体系和操作系统中运行，包括[Solaris](../Page/Solaris.md "wikilink"), [AIX](https://zh.wikipedia.org/wiki/AIX "wikilink"), [HP-UX](../Page/HP-UX.md "wikilink"), [GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink"), [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink"), 和[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。包括一套编译器指令、库和一些能够影响运行行为的环境变量。
 
 OpenMP采用可移植的、可扩展的模型，为程序员提供了一个简单而灵活的开发平台，从标准桌面电脑到超级计算机的并行应用程序接口。

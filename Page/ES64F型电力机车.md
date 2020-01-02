@@ -1,3 +1,6 @@
+> 本文内容由[ES64F型电力机车](https://zh.wikipedia.org/wiki/ES64F型电力机车)转换而来。
+
+
 **西门子ES64F型电力机车**（）是[西门子](https://zh.wikipedia.org/wiki/西门子 "wikilink")[欧洲短跑手系列家族中用于](https://zh.wikipedia.org/wiki/欧洲短跑手 "wikilink")[铁路重载](https://zh.wikipedia.org/wiki/铁路 "wikilink")的高性能[电力机车](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，也可用作[客运服务](https://zh.wikipedia.org/wiki/客运 "wikilink")，其中**ES**为“欧洲短跑手（）”的缩写，**64**代表机车功率为6400千瓦，**F**代表货运用途（）。它由[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[克劳斯-玛菲](../Page/克劳斯-玛菲.md "wikilink")于1996年联合开发，然而在两家[运营商](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")[德国铁路股份公司或](https://zh.wikipedia.org/wiki/德国铁路股份公司 "wikilink")[私铁](https://zh.wikipedia.org/wiki/私铁 "wikilink")中，这款机车都几乎完全用作牵引[货运列车](https://zh.wikipedia.org/wiki/货运列车 "wikilink")，并被定型为**152型**。
 
 ## 历史

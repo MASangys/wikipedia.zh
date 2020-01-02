@@ -1,3 +1,6 @@
+> 本文内容由[J-Air](https://zh.wikipedia.org/wiki/J-Air)转换而来。
+
+
 ****（），全稱「****」，是[日本](../Page/日本.md "wikilink")一家以[大阪國際機場](../Page/大阪國際機場.md "wikilink")為基地的[航空公司](../Page/航空公司.md "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[池田市](../Page/池田市.md "wikilink")，也是[日本航空](../Page/日本航空.md "wikilink")（）的[子公司](../Page/子公司.md "wikilink")。 [JAL_Express_Osaka_HQ_20100807-001.jpg](https://zh.wikipedia.org/wiki/File:JAL_Express_Osaka_HQ_20100807-001.jpg "fig:JAL_Express_Osaka_HQ_20100807-001.jpg")
 
 ## 航線

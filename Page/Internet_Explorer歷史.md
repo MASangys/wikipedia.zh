@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer歷史](https://zh.wikipedia.org/wiki/Internet_Explorer歷史)转换而来。
+
+
 [Internet-explorer-usage-data.svg](https://zh.wikipedia.org/wiki/File:Internet-explorer-usage-data.svg "fig:Internet-explorer-usage-data.svg")
 
 本文介绍的是[Internet Explorer的发展历程](../Page/Internet_Explorer.md "wikilink")。这是一个图形化的[网页浏览器](../Page/网页浏览器.md "wikilink")，由[Microsoft公司开发](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，包含11个主要的软件版本。Internet Explorer可运行于[Microsoft Windows下](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，但有些版本也包含[Apple Macintosh版本](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")，详细信息请参考[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")。对于[UNIX](../Page/UNIX.md "wikilink")版本，请参见[Internet Explorer for UNIX](../Page/Internet_Explorer_for_UNIX.md "wikilink")，对于移动设备版本，例如[Windows CE](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")、[Windows Mobile和](../Page/Windows_Mobile.md "wikilink")[Windows Phone](../Page/Windows_Phone.md "wikilink")，请参见[Internet Explorer Mobile](../Page/Internet_Explorer_Mobile.md "wikilink")。

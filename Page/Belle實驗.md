@@ -1,3 +1,6 @@
+> 本文内容由[Belle實驗](https://zh.wikipedia.org/wiki/Belle實驗)转换而来。
+
+
 [B-logo-small.gif](https://zh.wikipedia.org/wiki/File:B-logo-small.gif "fig:B-logo-small.gif") **貝爾實驗**（）為世界上兩大[B介子](../Page/B介子.md "wikilink")工廠之一，是一個國際合作的實驗計畫，使用[日本](../Page/日本.md "wikilink")[高能加速器研究機構](../Page/高能加速器研究機構.md "wikilink")的[KEKB加速器來進行](https://zh.wikipedia.org/wiki/KEKB加速器 "wikilink")[CP對稱性破壞的研究](../Page/CP破壞.md "wikilink")。 貝爾實驗的名稱**Belle**由來，乃是因為此實驗的研究需要產生大量的**B**[介子](../Page/介子.md "wikilink")，而產生的來源是由[電子](https://zh.wikipedia.org/wiki/電子 "wikilink")（**el**ectron）與[正電子](../Page/正電子.md "wikilink")（電子的[鏡像](https://zh.wikipedia.org/wiki/鏡像 "wikilink")[反粒子](https://zh.wikipedia.org/wiki/反粒子 "wikilink")，**el**）對撞生成的。
 
 參與此實驗的研究團隊包含有來自17個國家，超過400位[物理學家與技術人員所組成的](https://zh.wikipedia.org/wiki/物理學家 "wikilink")。

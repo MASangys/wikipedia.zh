@@ -1,3 +1,6 @@
+> 本文内容由[I-mate](https://zh.wikipedia.org/wiki/I-mate)转换而来。
+
+
 **i-mate**（[阿拉伯文](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")：****），即原Carrier Devices公司，成立於2001年1月，是一家[Windows Mobile](../Page/Windows_Mobile.md "wikilink")[智慧型手機生產商](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[Microsoft的金牌認證合作夥伴](https://zh.wikipedia.org/wiki/Microsoft "wikilink")。公司總部位於[阿拉伯聯合大公國的](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink")[杜拜](../Page/杜拜.md "wikilink")，在澳大利亞，意大利，英國，南非和美國設有分公司，2005年9月公司重組，之後組建於蘇格蘭的母公司i-mate plc在英國[倫敦證券交易所AIM](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink") Market上市。
 
 ## 產品

@@ -1,3 +1,6 @@
+> 本文内容由[Everything \(EXILE單曲\)](https://zh.wikipedia.org/wiki/Everything_\(EXILE單曲\))转换而来。
+
+
 《**Everything**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第21張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年12月6日於日本發行。Oricon最高排行第2、初動銷量8.1萬張、累計銷量15.3萬張
 
 ## 解說

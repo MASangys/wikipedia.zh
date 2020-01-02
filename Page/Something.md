@@ -1,3 +1,6 @@
+> 本文内容由[Something](https://zh.wikipedia.org/wiki/Something)转换而来。
+
+
 《**Something**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[喬治·哈里森創作](https://zh.wikipedia.org/wiki/喬治·哈里森 "wikilink")，收錄於1969年專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》中的歌曲。並在同年10月與另一歌曲《[Come Together](../Page/Come_Together.md "wikilink")》合併成雙[A面單曲發行](../Page/A面與B面.md "wikilink")。
 
 此曲亦為在披頭四發表的單曲作品中，首張非由[約翰·藍儂或](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")[保羅·麥卡尼所創作的A面歌曲](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")。

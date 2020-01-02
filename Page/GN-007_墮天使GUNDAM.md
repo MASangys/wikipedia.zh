@@ -1,3 +1,6 @@
+> 本文内容由[GN-007 墮天使GUNDAM](https://zh.wikipedia.org/wiki/GN-007_墮天使GUNDAM)转换而来。
+
+
 | **墮天使GUNDAM**                                                                                         |
 | ----------------------------------------------------------------------------------------------------- |
 | [GN-007 墮天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-007_Arios_Gundam.jpg "fig:GN-007 墮天使GUNDAM") |

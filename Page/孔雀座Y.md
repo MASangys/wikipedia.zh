@@ -1,3 +1,6 @@
+> 本文内容由[孔雀座Y](https://zh.wikipedia.org/wiki/孔雀座Y)转换而来。
+
+
 **孔雀座Y**，又名**CP-70 2844**，**HD 203133**、**SAO 254990**、**HR 8156**，是[孔雀座](../Page/孔雀座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.41，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")323.2，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-38.2，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

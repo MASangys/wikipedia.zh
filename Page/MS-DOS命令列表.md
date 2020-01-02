@@ -1,3 +1,6 @@
+> 本文内容由[MS-DOS命令列表](https://zh.wikipedia.org/wiki/MS-DOS命令列表)转换而来。
+
+
 以下是[微软](../Page/微软.md "wikilink")的[DOS](../Page/DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")（[MS-DOS](../Page/MS-DOS.md "wikilink")）的DOS命令列表。其它DOS的命令和用法可能类似。
 
 後期版本的 DOS 可以通过help命令来得到命令與參數列表，通过help *<命令>*或者*<命令>* /?来获得命令的详细信息。

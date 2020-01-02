@@ -1,3 +1,6 @@
+> 本文内容由[FAMAS突擊步槍](https://zh.wikipedia.org/wiki/FAMAS突擊步槍)转换而来。
+
+
 **FAMAS**（[法文全名](../Page/法语.md "wikilink")：，意為「**由圣-艾蒂安生产的轻型自动步枪**」）由[GIAT製](https://zh.wikipedia.org/wiki/GIAT "wikilink")，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[軍隊及警隊的制式](https://zh.wikipedia.org/wiki/法国军事 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，亦是著名的[犢牛式步槍之一](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[LHA \(檔案格式\)](https://zh.wikipedia.org/wiki/LHA_\(檔案格式\))转换而来。
+
+
 **LHA**是一種[檔案壓縮](https://zh.wikipedia.org/wiki/檔案壓縮 "wikilink")[電腦軟體](https://zh.wikipedia.org/wiki/電腦軟體 "wikilink")，也是此壓縮格式的名稱，其對應的[副檔名有](https://zh.wikipedia.org/wiki/副檔名 "wikilink")`.lha`及`.lzh`。發明人為[日本](../Page/日本.md "wikilink")業餘[程式設計師](https://zh.wikipedia.org/wiki/程式設計師 "wikilink")[吉崎榮泰](https://zh.wikipedia.org/wiki/吉崎榮泰 "wikilink")（），在日本仍是常見的壓縮格式之一。
 
 ## 歷史

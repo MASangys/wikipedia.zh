@@ -1,3 +1,6 @@
+> 本文内容由[Mars](https://zh.wikipedia.org/wiki/Mars)转换而来。
+
+
 「**Mars**」的英文意思為[火星](../Page/火星.md "wikilink")。「**Mars**」或「**MARS**」也可以指：
 
   - [海事移动接入与搜索系统](https://zh.wikipedia.org/wiki/海事移动接入与搜索系统 "wikilink")（**M**aritime mobile **A**ccess and **R**etrieval **S**ystem）

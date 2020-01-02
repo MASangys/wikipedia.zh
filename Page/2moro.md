@@ -1,3 +1,6 @@
+> 本文内容由[2moro](https://zh.wikipedia.org/wiki/2moro)转换而来。
+
+
 **2moro**是一個[雙胞胎](../Page/雙胞胎.md "wikilink")組成的團體，隊員是[郭彥均](../Page/郭彥均.md "wikilink")和[郭彥甫](../Page/郭彥甫.md "wikilink")。
 
 ## 成員

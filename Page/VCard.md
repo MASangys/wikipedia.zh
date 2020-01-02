@@ -1,3 +1,6 @@
+> 本文内容由[VCard](https://zh.wikipedia.org/wiki/VCard)转换而来。
+
+
 **vCard**是電子名片的文件格式標準。它一般附加在[電子郵件之後](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")，但也可以用於其它場合（如在[網際網路上相互交換](https://zh.wikipedia.org/wiki/網際網路 "wikilink")）。vCard可包含的信息有：姓名、地址資訊、電話號碼、[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，[logo](https://zh.wikipedia.org/wiki/logo "wikilink")，相片等。
 
 ## 歷史

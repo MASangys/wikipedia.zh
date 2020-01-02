@@ -1,3 +1,6 @@
+> 本文内容由[VSK-94狙擊步槍](https://zh.wikipedia.org/wiki/VSK-94狙擊步槍)转换而来。
+
+
 **VSK-94**是一枝由[KBP工具設計廠生產的輕型](https://zh.wikipedia.org/wiki/KBP工具設計廠 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[9×39毫米子彈](../Page/9×39mm.md "wikilink")，是[9A-91的狙擊步槍版本](../Page/9A-91突击步枪.md "wikilink")。可以用低成本來取代[VSS Vintorez](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。VSK-94的目的是要準確地進行定點達400[公尺距離內的所有目標](../Page/米_\(单位\).md "wikilink")。目前被[俄罗斯](../Page/俄罗斯.md "wikilink")的多個執法機構所使用。
 
 ## 設計

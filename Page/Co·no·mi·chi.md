@@ -1,3 +1,6 @@
+> 本文内容由[Co·no·mi·chi](https://zh.wikipedia.org/wiki/Co·no·mi·chi)转换而来。
+
+
 「**co·no·mi·chi**」是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年1月21日發售\[1\]\[2\]。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要

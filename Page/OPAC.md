@@ -1,3 +1,6 @@
+> 本文内容由[OPAC](https://zh.wikipedia.org/wiki/OPAC)转换而来。
+
+
 **OPAC**（全称*Online Public Access Catalogue*，图书馆联机目录），又称为“WebPAC（全称Web Public Access Catalogue，图书馆自动化系统线上公用目录）”，最新一代的产品往往也被称为“前端发现平台”，是一个电脑化的在线[图书馆](../Page/图书馆.md "wikilink")资源[目录](https://zh.wikipedia.org/wiki/图书馆目录 "wikilink")。读者可以通过万维网实现图书的查找和借阅。原来的电子书目用[TELNET作为技术支持](https://zh.wikipedia.org/wiki/TELNET "wikilink")，但是已不能满足现今[图书馆联盟间的书目进行汇总](https://zh.wikipedia.org/wiki/图书馆联盟 "wikilink")。现在的网上书目多以地区性图书馆的书目加以汇总，能使读者的查询结果覆盖更大范围的图书馆。
 
 ## 查找方式

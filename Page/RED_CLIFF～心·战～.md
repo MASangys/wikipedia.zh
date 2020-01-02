@@ -1,3 +1,6 @@
+> 本文内容由[RED CLIFF～心·战～](https://zh.wikipedia.org/wiki/RED_CLIFF～心·战～)转换而来。
+
+
 《》（RED CLIFF～心·战～）是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")以**alan**之名在[日本](../Page/日本.md "wikilink")的第六张[单曲](../Page/单曲.md "wikilink")，是alan从2008年7月开始连续5个月单曲连发，以“创造地球的五大元素”：[地](https://zh.wikipedia.org/wiki/地 "wikilink")、[空](https://zh.wikipedia.org/wiki/空 "wikilink")、[风](https://zh.wikipedia.org/wiki/风 "wikilink")、[火](../Page/火.md "wikilink")、[水](../Page/水.md "wikilink")为主题的第四弹。作为[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[史诗](../Page/史诗.md "wikilink")[电影](../Page/电影.md "wikilink")[赤壁上部的全世界](https://zh.wikipedia.org/wiki/赤壁_\(電影\) "wikilink")[主题曲](https://zh.wikipedia.org/wiki/主题曲 "wikilink")。
 
 ## 公信榜销售情况

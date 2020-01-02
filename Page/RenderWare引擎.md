@@ -1,3 +1,6 @@
+> 本文内容由[RenderWare引擎](https://zh.wikipedia.org/wiki/RenderWare引擎)转换而来。
+
+
 **RenderWare引擎**（简称**RW**）是[Criterion Games公司开发的](../Page/Criterion_Games.md "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。
 
 ## 简介

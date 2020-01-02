@@ -1,3 +1,6 @@
+> 本文内容由[ASP手槍](https://zh.wikipedia.org/wiki/ASP手槍)转换而来。
+
+
 [Asphandgun.jpg](https://zh.wikipedia.org/wiki/File:Asphandgun.jpg "fig:Asphandgun.jpg") **ASP**是一種由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[中央情報局特工兼槍械設計師](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")研製的改裝型[半自動手槍](../Page/半自動手槍.md "wikilink")，該槍是以[史密斯威森M39手槍](../Page/史密斯威森M39手槍.md "wikilink")作基礎。
 
 ## 概述

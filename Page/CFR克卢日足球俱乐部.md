@@ -1,3 +1,6 @@
+> 本文内容由[CFR克卢日足球俱乐部](https://zh.wikipedia.org/wiki/CFR克卢日足球俱乐部)转换而来。
+
+
 **CFR克卢日足球俱乐部**（），是一家位于[罗马尼亚](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")[克卢日-纳波卡](../Page/克卢日-纳波卡.md "wikilink")的[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")。CFR克卢日是2007-08赛季[罗马尼亚足球甲级联赛的](https://zh.wikipedia.org/wiki/罗马尼亚足球甲级联赛 "wikilink")[冠军](https://zh.wikipedia.org/wiki/冠军 "wikilink")。这是CFR克卢日的首个国内顶级联赛冠军，也是这一冠军头衔17年来首次由来自[布加勒斯特](../Page/布加勒斯特.md "wikilink")以外的球队夺得。此外，本赛季罗马尼亚首次获得一个直接晋级[欧洲冠军联赛](../Page/欧洲冠军联赛.md "wikilink")小组赛的名额，CFR克卢日也因此成为首支晋级欧洲冠军联赛小组赛的非布加勒斯特球队。这对于克卢日来说是一项非凡的成就，6年前他们还处在罗马尼亚第三级别的联赛。
 
 CFR克卢日足球俱乐部名称中的CFR为[罗马尼亚铁路](../Page/罗马尼亚铁路.md "wikilink")系统的缩写。

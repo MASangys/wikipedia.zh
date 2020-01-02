@@ -1,3 +1,6 @@
+> 本文内容由[Liquid War](https://zh.wikipedia.org/wiki/Liquid_War)转换而来。
+
+
 《**Liquid War**》是一个[多人](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。此遊戲的创想源于托馬斯·科爾孔貝（Thomas Colcombet），而游戏則是由他和克里斯琴·摩迪（Christian Mauduit）编程。在6.X.X版本之前使用的[自由軟件程式庫都是](https://zh.wikipedia.org/wiki/自由軟件程式庫 "wikilink")[Allegro](../Page/Allegro.md "wikilink")。此遊戲的授权协议为[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")，為[GNU项目一部分](https://zh.wikipedia.org/wiki/GNU项目 "wikilink")。
 
 ## 游戏描述

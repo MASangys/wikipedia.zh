@@ -1,3 +1,6 @@
+> 本文内容由[GUNPLA](https://zh.wikipedia.org/wiki/GUNPLA)转换而来。
+
+
 **GUNPLA**指的是在動畫[GUNDAM系列劇中登場的兵器如](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")[MS](https://zh.wikipedia.org/wiki/MS "wikilink")、[MA](https://zh.wikipedia.org/wiki/MA "wikilink")、宇宙船艦等被模型化的塑膠模型系列。
 
 ## 名字由來

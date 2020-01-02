@@ -1,3 +1,6 @@
+> 本文内容由[IMG格式](https://zh.wikipedia.org/wiki/IMG格式)转换而来。
+
+
 **IMG**是一種檔案歸檔格式（archive format），主要是為了建立磁碟的映像檔案（disk image），它可以用來封裝儲存整個磁碟（通常指軟磁碟，Floppy Disk或Diskette）或整片光碟的內容，使用".IMG"這個[副檔名的檔案就是利用這種檔案格式來建立的](../Page/文件扩展名.md "wikilink")。
 
 .IMG這個檔案格式可視為[.ISO格式的一種](../Page/ISO_9000.md "wikilink")[超集合](https://zh.wikipedia.org/wiki/超集合 "wikilink")。由於.ISO只能封存使用[ISO9660和](https://zh.wikipedia.org/wiki/ISO9660 "wikilink")[UDF這兩種](../Page/通用光碟格式.md "wikilink")[檔案系統的儲存媒介](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，意即.ISO只能拿來封存[CD](../Page/CD.md "wikilink")或[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，因此才發展出了.IMG，它是以.ISO格式為基礎另外新增可封存使用其它檔案系統的儲存媒介的能力，.IMG可[向後相容於](https://zh.wikipedia.org/wiki/向後相容 "wikilink").ISO，如果是拿來封存CD或DVD，則使用.IMG和.ISO這兩種格式所產生出來的內容是一樣的。

@@ -1,3 +1,6 @@
+> 本文内容由[Prolog](https://zh.wikipedia.org/wiki/Prolog)转换而来。
+
+
 **Prolog**（的缩写）是一种[逻辑编程语言](https://zh.wikipedia.org/wiki/逻辑编程 "wikilink")。它建立在[逻辑学的理论基础之上](https://zh.wikipedia.org/wiki/逻辑学 "wikilink")， 最初被运用于[自然语言等研究领域](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。现在它已广泛的应用在[人工智能](../Page/人工智能.md "wikilink")的研究中，它可以用来建造[专家系统](../Page/专家系统.md "wikilink")、自然语言理解、智能知识库等。
 
 ## 历史

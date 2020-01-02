@@ -1,3 +1,6 @@
+> 本文内容由[KEI](https://zh.wikipedia.org/wiki/KEI)转换而来。
+
+
 **KEI**是日本男性\[1\][插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。工作主要是[輕小說](../Page/輕小說.md "wikilink")插畫、[人物設計](../Page/人物設計.md "wikilink")。[北海道](../Page/北海道.md "wikilink")[千歲市](../Page/千歲市.md "wikilink")\[2\]出身。
 
 ## 畫風

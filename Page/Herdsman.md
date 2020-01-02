@@ -1,3 +1,6 @@
+> 本文内容由[Herdsman](https://zh.wikipedia.org/wiki/Herdsman)转换而来。
+
+
 **Herdsman**是一个用于猪场[数据收集](https://zh.wikipedia.org/wiki/数据收集 "wikilink")、[报表制作及](https://zh.wikipedia.org/wiki/报表 "wikilink")[数据管理](../Page/数据管理.md "wikilink")的[软件](../Page/软件.md "wikilink")。Herdman的[版本很多](https://zh.wikipedia.org/wiki/版本 "wikilink")，主要有青铜版（Bronze Edition）、白银版（Silver Edition）、黄金版（Gold Edition）、铂金版（Platinum Edition）及钻石版（Diamond Edition）\[1\]。
 
 目前，[美国](../Page/美国.md "wikilink")有60%的企业在使用Herdsman软件进行[猪场管理](https://zh.wikipedia.org/wiki/猪场 "wikilink")\[2\]。但是，Herdsman在[中国应用并不广泛](https://zh.wikipedia.org/wiki/中国 "wikilink")。Herdsman于2003年3月推出中文[Windows版本Herdsman](https://zh.wikipedia.org/wiki/Windows "wikilink")2000\[3\]。[软件](../Page/软件.md "wikilink")现在还没有完全[汉化](https://zh.wikipedia.org/wiki/汉化 "wikilink")，汉化程度为95%\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[XMPP協議的客戶端軟體列表](https://zh.wikipedia.org/wiki/XMPP協議的客戶端軟體列表)转换而来。
+
+
 下列是片面的即時消息客戶端支持Jabber/[XMPP協議的清單](https://zh.wikipedia.org/wiki/XMPP "wikilink")\[1\]。
 
 ## 单一协议XMPP客户端

@@ -1,3 +1,6 @@
+> 本文内容由[亞歷山大丹尼士Enviro 400](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_400)转换而来。
+
+
 **亞歷山大丹尼士Enviro 400**（英語：Alexander Dennis Enviro 400）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸雙層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。於2005年面世的Enviro 400，主要取代兩車軸的[丹尼士三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")及ALX400車身。
 
 ## 設計

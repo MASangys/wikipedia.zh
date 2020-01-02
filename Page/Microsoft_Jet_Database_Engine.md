@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Jet Database Engine](https://zh.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)转换而来。
+
+
 **Microsoft Jet**是微軟針對檔案型資料庫所發展的資料庫引擎（Database Engine），它的適用資料來源種類相當多，像是[Microsoft Access](../Page/Microsoft_Access.md "wikilink")、[Microsoft Excel](../Page/Microsoft_Excel.md "wikilink")、[dBase等等檔案型資料來源都可以利用Microsoft](https://zh.wikipedia.org/wiki/dBase "wikilink") Jet資料庫引擎來使用[SQL](../Page/SQL.md "wikilink")指令存取。
 
 目前的Jet引擎最新[版本為](https://zh.wikipedia.org/wiki/版本 "wikilink")4.0，並且未來在[x64平台上將不再支援](https://zh.wikipedia.org/wiki/x64 "wikilink")。

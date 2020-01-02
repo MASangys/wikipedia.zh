@@ -1,3 +1,6 @@
+> 本文内容由[Mini DisplayPort](https://zh.wikipedia.org/wiki/Mini_DisplayPort)转换而来。
+
+
 [Mini_displayport.jpg](https://zh.wikipedia.org/wiki/File:Mini_displayport.jpg "fig:Mini_displayport.jpg")
 
 **Mini DisplayPort**是一個微型版本的[DisplayPort](../Page/DisplayPort.md "wikilink")。由[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2008年10月14日發表。現在應用於[MacBook](../Page/MacBook.md "wikilink")（取代先前的[Mini-DVI](../Page/Mini-DVI.md "wikilink")）、[MacBook Air](../Page/MacBook_Air.md "wikilink")（取代先前的[Micro-DVI](https://zh.wikipedia.org/wiki/Micro-DVI "wikilink")）與[MacBook Pro](../Page/MacBook_Pro.md "wikilink")（取代先前的[DVI](../Page/DVI.md "wikilink")）筆記本電腦中。亦應用於27吋的[LED Cinema Display](https://zh.wikipedia.org/wiki/LED_Cinema_Display "wikilink")。其他廠商的筆記本電腦,部分亦設有Mini DisplayPort，例如[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [Surface Laptop](../Page/Surface_Laptop.md "wikilink") (2017)。

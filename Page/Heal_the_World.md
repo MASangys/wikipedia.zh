@@ -1,3 +1,6 @@
+> 本文内容由[Heal the World](https://zh.wikipedia.org/wiki/Heal_the_World)转换而来。
+
+
 {{ Infobox Single| | Name = Heal the World | Cover = Heal The World.jpg | Artist = [迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink") | Album = [Dangerous](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink") | B-side = She Drives Me Wild | Released = 1992年11月23日 | Format = CD single | Recorded = 1989年 | Genre = [R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink"), [灵魂](https://zh.wikipedia.org/wiki/灵魂音乐 "wikilink") | Length = 6:25 <small>(专辑版)</small>
 4:31 <small>(單曲版)</small> | Label = [Epic唱片](https://zh.wikipedia.org/wiki/Epic唱片 "wikilink") | Writer = [迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink") | Producer = 迈克尔·杰克逊 | Last single = "[Who Is It](../Page/Who_Is_It.md "wikilink")"
 (1992) | This single = "**Heal the World**"

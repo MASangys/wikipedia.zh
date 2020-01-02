@@ -1,3 +1,6 @@
+> 本文内容由[NULL](https://zh.wikipedia.org/wiki/NULL)转换而来。
+
+
 **NULL**可能是指：
 
 ## 科学、技术和数学

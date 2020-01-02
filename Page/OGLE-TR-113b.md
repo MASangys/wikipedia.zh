@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-TR-113b](https://zh.wikipedia.org/wiki/OGLE-TR-113b)转换而来。
+
+
 **OGLE-TR-113b**是一個環繞[OGLE-TR-113的](https://zh.wikipedia.org/wiki/OGLE-TR-113 "wikilink")[太陽系外行星](../Page/太陽系外行星.md "wikilink")，比[木星](../Page/木星.md "wikilink")大 1.32倍，屬於[熱木星](../Page/熱木星.md "wikilink")。
 
 ## 參見

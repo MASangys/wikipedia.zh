@@ -1,3 +1,6 @@
+> 本文内容由[Y染色體亞當](https://zh.wikipedia.org/wiki/Y染色體亞當)转换而来。
+
+
 **Y染色體亞當**（Y-chromosomal Adam），或稱**Y-MRCA**，在[遺傳學上](https://zh.wikipedia.org/wiki/遺傳學 "wikilink")，由[人類Y染色體DNA單倍型類群推測出的所有現存](https://zh.wikipedia.org/wiki/人類Y染色體DNA單倍型類群 "wikilink")[男性](../Page/男性.md "wikilink")在[父系上的](https://zh.wikipedia.org/wiki/父系 "wikilink")[最近共同祖先](../Page/最近共同祖先.md "wikilink")，從他遺傳[Y染色體](../Page/Y染色體.md "wikilink")。Y染色體亞當相對於[粒線體夏娃](../Page/粒線體夏娃.md "wikilink")。
 
 從[世界](../Page/世界.md "wikilink")上所有地區的人類[DNA分析中](https://zh.wikipedia.org/wiki/DNA "wikilink")，[遺傳學家](https://zh.wikipedia.org/wiki/遺傳學家 "wikilink")[史賓賽·韋爾斯](https://zh.wikipedia.org/wiki/史賓賽·韋爾斯 "wikilink")（Spencer Wells）結論出所有今天的人類都是生存於6萬年前[非洲大陆的男人的後裔](https://zh.wikipedia.org/wiki/非洲大陆 "wikilink")\[1\]。

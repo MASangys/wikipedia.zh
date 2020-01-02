@@ -1,3 +1,6 @@
+> 本文内容由[Game Boy Advance](https://zh.wikipedia.org/wiki/Game_Boy_Advance)转换而来。
+
+
 是[任天堂](../Page/任天堂.md "wikilink")公司於2001年3月21日發售的攜帶型遊戲機，最大特点是采用了彩色的TFT液晶屏幕。售价9800日元，可向下兼容上一代的的[Game Boy和](../Page/Game_Boy.md "wikilink")[Game Boy Color的遊戲](../Page/Game_Boy_Color.md "wikilink")。Game Boy Advance是[任天堂](../Page/任天堂.md "wikilink")經歷了上一代擁有彩色液晶顯示屏的[Game Boy Color後推出的](../Page/Game_Boy_Color.md "wikilink")。
 
 Game Boy Advance有两个改版机型，分别是2003年上市的[Game Boy Advance SP](../Page/Game_Boy_Advance_SP.md "wikilink")，和2005年上市的[Game Boy Micro](../Page/Game_Boy_Micro.md "wikilink")。截止到2010年，Game Boy Advance家族總全球累计售出了8151万部\[1\]。

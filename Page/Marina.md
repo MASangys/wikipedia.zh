@@ -1,3 +1,6 @@
+> 本文内容由[Marina](https://zh.wikipedia.org/wiki/Marina)转换而来。
+
+
 **marina**（），是日本的女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手列表 "wikilink")，[宫崎县出身](https://zh.wikipedia.org/wiki/宫崎县 "wikilink")。本名。\[1\]
 
 ## 概要

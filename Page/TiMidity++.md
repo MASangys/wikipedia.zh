@@ -1,3 +1,6 @@
+> 本文内容由[TiMidity++](https://zh.wikipedia.org/wiki/TiMidity++)转换而来。
+
+
 **TiMidity++**是一種軟體音源器，它的前身是**TiMidity**，現在仍常用這個名稱。它能夠轉換[MIDI](../Page/MIDI.md "wikilink")格式至數種不同其他的格式。產生[PCM編碼時](https://zh.wikipedia.org/wiki/PCM "wikilink")，能輸出至電腦的音效卡或檔案作儲存用。
 
 TiMidity++主要在[Linux](../Page/Linux.md "wikilink")及[Unix-like作業系統下運作](https://zh.wikipedia.org/wiki/Unix-like "wikilink")，但它也能運作於微軟的[Windows系統及](https://zh.wikipedia.org/wiki/Windows "wikilink")[AmigaOS](../Page/AmigaOS.md "wikilink")之下。它以[GNU GPL發佈](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，所以是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。

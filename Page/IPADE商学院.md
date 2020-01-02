@@ -1,3 +1,6 @@
+> 本文内容由[IPADE商学院](https://zh.wikipedia.org/wiki/IPADE商学院)转换而来。
+
+
 **泛美企業高級人員學院**（Instituto Panamericano de Alta Direccion de Empresa，IPADE）是隶属于墨西哥著名的[泛美大学](https://zh.wikipedia.org/wiki/泛美大学 "wikilink")，于1967年由几位杰出的企业家成立。它是首所在墨西哥采用案例教学的学校，以解决公司管理中实际问题为侧重点。在商学院建校的40年历史中，共有22，000学生从不同的课程项目中毕业，其中25%走上CEO或总经理的岗位。
 
 自建校之日起，IPADE商学院始终致力于推动国际交流，与全球多所知名的商学院如哈佛商学院，IESE商学院（西班牙）和纳瓦拉大学（巴塞罗那，西班牙）等建立了长期良好的合作关系。另外，IPADE为在拉美其他国家（[危地马拉](../Page/危地马拉.md "wikilink")、[厄瓜多尔](../Page/厄瓜多尔.md "wikilink")、[哥伦比亚](../Page/哥伦比亚.md "wikilink")、[阿根廷](../Page/阿根廷.md "wikilink")和[秘鲁](../Page/秘鲁.md "wikilink")）以及[欧洲](../Page/欧洲.md "wikilink")（[塞维利亚](../Page/塞维利亚.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")）建立同类商学院做出了决定性的贡献。

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C05\)](https://zh.wikipedia.org/wiki/ATC代码_\(C05\))转换而来。
+
+
 ## C05A 治疗[痔疮和](https://zh.wikipedia.org/wiki/痔疮 "wikilink")[肛裂的外用药](https://zh.wikipedia.org/wiki/肛裂 "wikilink")（Agents for treatment of hemorrhoids and anal fissures for topical use）
 
 ### C05AA [皮质类固醇类](https://zh.wikipedia.org/wiki/皮质类固醇 "wikilink")（Corticosteroids）

@@ -1,3 +1,6 @@
+> 本文内容由[Lifetival](https://zh.wikipedia.org/wiki/Lifetival)转换而来。
+
+
 **Lifetival**是[香港](../Page/香港.md "wikilink")[Now寬頻電視的一個電視節目](https://zh.wikipedia.org/wiki/Now寬頻電視 "wikilink")，2009年8月29日於[Now香港台](../Page/Now香港台.md "wikilink")首播。2011年2月轉到[Now101台播映](https://zh.wikipedia.org/wiki/Now101台 "wikilink")，逢星期四晚上10時半於Now101台播出，並於Now自選服務提供節目重溫。
 
 Lifetival的名字有「天天過節」的意思，節目內容包括由主持人親身到香港及世界各地，介紹[時尚](https://zh.wikipedia.org/wiki/時尚 "wikilink")、潮流、[珠寶](../Page/珠寶.md "wikilink")首飾\[1\]，訪問著名[品牌](../Page/品牌.md "wikilink")及著名藝人、介紹美食及吃喝玩樂新玩意等\[2\]。

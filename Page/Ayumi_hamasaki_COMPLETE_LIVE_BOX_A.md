@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COMPLETE LIVE BOX A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COMPLETE_LIVE_BOX_A)转换而来。
+
+
 『**ayumi hamasaki COMPLETE LIVE BOX A**』（巡迴演唱會DVD盒裝完全版 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年1月29日發行2002年間LIVE演唱會收錄[DVD中](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C01\)](https://zh.wikipedia.org/wiki/ATC代码_\(C01\))转换而来。
+
+
 ## C01A 强心[苷类](https://zh.wikipedia.org/wiki/苷 "wikilink")（Cardiac glycosides）
 
 ### C01AA [洋地黄苷类](https://zh.wikipedia.org/wiki/洋地黄 "wikilink")（Digitalis glycosides）

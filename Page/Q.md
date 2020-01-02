@@ -1,3 +1,6 @@
+> 本文内容由[Q](https://zh.wikipedia.org/wiki/Q)转换而来。
+
+
 **Q** , **q** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第17个[字母](../Page/字母.md "wikilink")。
 
 在[闪族语中](https://zh.wikipedia.org/wiki/闪含语系 "wikilink")，字母Qôp表示。[希腊语中](https://zh.wikipedia.org/wiki/希腊语 "wikilink")（称为[Qoppa](https://zh.wikipedia.org/wiki/Ϙ "wikilink")）可能是包括和的唇化塞音，后各变成和。所以Qoppa变成两个字母：Qoppa只表数字，Φι（Phi）表送气音，而后在[现代希腊语中变为](https://zh.wikipedia.org/wiki/希腊语 "wikilink")。[伊特鲁里亚语Q只与V连用](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")，表示和V。\[1\]有学者表示Q和Phi无关\[2\]\[3\]

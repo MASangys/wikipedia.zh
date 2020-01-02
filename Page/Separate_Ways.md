@@ -1,3 +1,6 @@
+> 本文内容由[Separate Ways](https://zh.wikipedia.org/wiki/Separate_Ways)转换而来。
+
+
 《**Separate Ways**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第四張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，第一張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2001年7月25日由[東芝EMI株式會社在](https://zh.wikipedia.org/wiki/東芝EMI株式會社 "wikilink")[日本](../Page/日本.md "wikilink")出版。一共5首歌，1首是之前發表過的歌曲。
 
 ## 簡介

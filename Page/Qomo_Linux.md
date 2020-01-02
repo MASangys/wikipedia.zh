@@ -1,3 +1,6 @@
+> 本文内容由[Qomo Linux](https://zh.wikipedia.org/wiki/Qomo_Linux)转换而来。
+
+
 **Qomo Linux**是由Linux人社区开发的一种社区版本[Linux](../Page/Linux.md "wikilink")。实际上，Qomo是由[红旗Linux赞助的社区](https://zh.wikipedia.org/wiki/红旗Linux "wikilink")[Linux](../Page/Linux.md "wikilink")。其关系类似于[RedHat与](https://zh.wikipedia.org/wiki/RedHat "wikilink")[Fedora](../Page/Fedora.md "wikilink")的关系。在红旗Linux的安装程序中提到了“社区版本Qomo”，而且在[红旗Linux发行版本](https://zh.wikipedia.org/wiki/红旗Linux "wikilink")6.0中也发现了一些有Qomo Logo的程序。
 
 原名為**Everest Linux**，2009年7月更名为Qomo Linux。Qomo来源于藏语的“Qomolangma”（[珠穆朗玛](https://zh.wikipedia.org/wiki/珠穆朗玛峰 "wikilink")）。

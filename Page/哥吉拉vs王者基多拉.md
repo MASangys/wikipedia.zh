@@ -1,3 +1,6 @@
+> 本文内容由[哥吉拉vs王者基多拉](https://zh.wikipedia.org/wiki/哥吉拉vs王者基多拉)转换而来。
+
+
 『**哥吉拉vs王者基多拉**』（日文原名：**ゴジラvsキングギドラ**）是1991年12月14日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")18部作品，也是[東寶創立](https://zh.wikipedia.org/wiki/東寶電影公司 "wikilink")60周年的記念作品。日本觀眾人數約270萬人，日本票房29億，片商實得盈利14億5000萬日圓，是1992年日本電影盈收第8位。本片在台灣上映時片名為「**六度空間大水怪**」，香港的片名為「**戰龍哥斯拉之魔龍復仇**」。
 
 著名怪獸[王者基多拉](../Page/王者基多拉.md "wikilink")睽違19年後再度登場與[哥吉拉對戰](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")，但由於劇情中牽涉到[時間旅行和](https://zh.wikipedia.org/wiki/時間旅行 "wikilink")[二次世界大戰](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")，引起爭議，包括壞人角色由[美國人演出](https://zh.wikipedia.org/wiki/美國 "wikilink")、以及美軍在拉哥斯島上被[哥吉拉龍踩踏而死傷的情節](https://zh.wikipedia.org/wiki/哥吉拉龍 "wikilink")，被部分歐美觀眾認為隱含[反美情緒](https://zh.wikipedia.org/wiki/反美情緒 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Comic Gum](https://zh.wikipedia.org/wiki/Comic_Gum)转换而来。
+
+
 《**Comic Gum**》是[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，由[Wani Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独立創刊。1999年成為[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")。
 
 ## 連載中作品

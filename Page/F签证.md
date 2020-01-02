@@ -1,3 +1,6 @@
+> 本文内容由[F签证](https://zh.wikipedia.org/wiki/F签证)转换而来。
+
+
 **F签证**是[美国](../Page/美国.md "wikilink")签发给进行美国高等教育全日制学习的他国[留学生的](https://zh.wikipedia.org/wiki/留学生 "wikilink")[签证](https://zh.wikipedia.org/wiki/签证 "wikilink")，属于非移民签证。F-1签证必须由美国驻外大使馆和领事馆颁发。想要赴美就读的学生必须向要就读的学校申请，获得[I-20表后方能申请F](../Page/I-20_\(表格\).md "wikilink")-1签证。F-2簽證則是簽發給持有F-1簽證的國際學生的配偶或21嵗以下的子女入境的簽證。
 
 ## 描述

@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot A640](https://zh.wikipedia.org/wiki/佳能PowerShot_A640)转换而来。
+
+
 [Canon_PowerShot_A640_img_0782.jpg](https://zh.wikipedia.org/wiki/File:Canon_PowerShot_A640_img_0782.jpg "fig:Canon_PowerShot_A640_img_0782.jpg")
 
 **佳能 PowerShot A640**是一款[佳能](../Page/佳能.md "wikilink")出品的[数码相机](../Page/数码相机.md "wikilink")，属于[Canon PowerShot系列](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")，它于[2006年8月](../Page/2006年8月.md "wikilink")发布。

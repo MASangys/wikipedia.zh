@@ -1,3 +1,6 @@
+> 本文内容由[Super Dash文庫](https://zh.wikipedia.org/wiki/Super_Dash文庫)转换而来。
+
+
 **Super Dash文庫**（）是[集英社](../Page/集英社.md "wikilink")在2007年7月成立的[輕小說](../Page/輕小說.md "wikilink")文庫系列。繼承同社在2001年4月休刊的[Super Fantasy文庫的路線](https://zh.wikipedia.org/wiki/Super_Fantasy文庫 "wikilink")，同時出版[學園小說以及喜劇類等有明顯輕小說色彩的作品](https://zh.wikipedia.org/wiki/學園小說 "wikilink")。2014年（平成26年）10月24日發行最後作品後已事實上廢止，由同年11月21日新設立[Dash X文庫](https://zh.wikipedia.org/wiki/Dash_X文庫 "wikilink")（）取代。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Fumio](https://zh.wikipedia.org/wiki/Fumio)转换而来。
+
+
 **Fumio**\[1\]（[片假名](../Page/片假名.md "wikilink")：，漢字例「文雄」「文夫」「文男」「史雄」等）是[日本](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。主要擔當成人向[美少女遊戲](../Page/美少女遊戲.md "wikilink")的[原畫及](https://zh.wikipedia.org/wiki/原畫 "wikilink")[人物設計](../Page/人物設計.md "wikilink")、[輕小說](../Page/輕小說.md "wikilink")封面及插畫工作。同人社團「裏FMO」的主持人。
 
 ## 经历

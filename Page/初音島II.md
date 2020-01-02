@@ -1,3 +1,6 @@
+> 本文内容由[初音島II](https://zh.wikipedia.org/wiki/初音島II)转换而来。
+
+
 《**初音島II**》（，簡稱D.C.II）是由[日本](../Page/日本.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")品牌[CIRCUS製作和發行的](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[戀愛冒險遊戲](../Page/戀愛遊戲.md "wikilink")，是《[初音島](../Page/初音島.md "wikilink")》的續作。《初音島II》的首個遊戲版本為電腦版[成人遊戲](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")，於2006年5月26日推出。並[多媒體發展而有漫畫](../Page/跨媒體製作.md "wikilink")、小說、動畫和家用遊戲機版等多種版本。
 
 ## 歴史

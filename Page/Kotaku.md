@@ -1,3 +1,6 @@
+> 本文内容由[Kotaku](https://zh.wikipedia.org/wiki/Kotaku)转换而来。
+
+
 **Kotaku**是一个以[电子游戏](../Page/电子游戏.md "wikilink")为主的博客。其为所属“Gawker”网络的站点之一，其它几个站点还包括[Gizmodo](../Page/Gizmodo.md "wikilink")、[Deadspin](https://zh.wikipedia.org/wiki/Deadspin "wikilink")、[Lifehacker](https://zh.wikipedia.org/wiki/Lifehacker "wikilink")、[io9和](https://zh.wikipedia.org/wiki/io9 "wikilink")[Jezebel](https://zh.wikipedia.org/wiki/Jezebel "wikilink")。Kotaku被选入了[CNET](../Page/CNET.md "wikilink")新闻的博客100中\[1\]，此外还一直排在[Technorati](../Page/Technorati.md "wikilink")百强博客的前40位\[2\]。Kotaku目前正以Stephen Totilo为首，其他编辑还有布赖恩·阿什克拉夫特，卢克·宾吉和迈克尔·费伊和欧文·古德。Kotaku的前成员包括[Bungie工作室的卢克](https://zh.wikipedia.org/wiki/Bungie工作室 "wikilink")·史密斯，[IGN.com的吉姆](https://zh.wikipedia.org/wiki/IGN.com "wikilink")·莱利，FastCompany.com的亚当·贝伦布莱特，Wired.com的约翰·布朗利（笔名弗洛里安·埃克哈特），Eliza Gauger和VOX游戏[Brian Crecente](https://zh.wikipedia.org/wiki/Brian_Crecente "wikilink")。
 
 2007年8月，艾露媒体推出的Kotaku澳大利亚版，使用了Gawker媒体的许可内容和当地原产的内容\[3\]。2009年7月30日，Kotaku日本由mediagene INC创办，内容包括了将Gawker媒体的内容日译版和日本相关游戏新闻\[4\] 。2010年11月，Kotaku巴西（内容包括翻译和原创）推出。

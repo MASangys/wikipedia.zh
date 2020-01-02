@@ -1,3 +1,6 @@
+> 本文内容由[LMMS](https://zh.wikipedia.org/wiki/LMMS)转换而来。
+
+
 **LMMS**（**Linux MultiMedia Studio**）, 是一個自由的數位音頻工作站軟體。它可用於[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Microsoft Windows作業系統](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。音樂可以來自合成聲音、改編的樣本和MIDI鍵盤上的演奏。它結合跟踪、音序器和合成器的特點 。支持[LADSPA](../Page/LADSPA.md "wikilink")和[VST插件](https://zh.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")。0.4.0版重寫舊的0.3.x並使用[Qt](../Page/Qt.md "wikilink") 4框架。
 
 ## 參考文獻

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Server](https://zh.wikipedia.org/wiki/Windows_Server)转换而来。
+
+
 **Windows Server**是[微软](../Page/微软.md "wikilink")发布的一系列[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的品牌名，它包括所有以“Windows Server”为品牌发布的[Windows操作系统](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 首个使用此品牌发布的Windows服务器系统是[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")。然而，[Windows NT 3.1](../Page/Windows_NT_3.1.md "wikilink") Advanced Server为Windows的首个服务器版本。在此之后，还有[Windows NT 3.5](../Page/Windows_NT_3.5.md "wikilink") Server、[Windows NT 4.0](../Page/Windows_NT_4.0.md "wikilink") Server和[Windows 2000 Server等非Windows](../Page/Windows_2000.md "wikilink") Server品牌下的服务器版本。Windows 2000 Server为首个集成许多现阶段流行功能的Windows服务器版本，包括[Active Directory](../Page/Active_Directory.md "wikilink")、[DNS服务器](../Page/域名系统.md "wikilink")、[DHCP服务器和](../Page/动态主机设置协议.md "wikilink")[组策略](../Page/组策略.md "wikilink")等。

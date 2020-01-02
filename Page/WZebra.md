@@ -1,3 +1,6 @@
+> 本文内容由[WZebra](https://zh.wikipedia.org/wiki/WZebra)转换而来。
+
+
 **WZebra**是一個為[黑白棋](../Page/黑白棋.md "wikilink")遊戲而編寫的[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，供練習和分析棋局。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[BONNIE PINK作品列表](https://zh.wikipedia.org/wiki/BONNIE_PINK作品列表)转换而来。
+
+
 這個頁面收錄了日本歌手[BONNIE PINK的音樂作品](https://zh.wikipedia.org/wiki/BONNIE_PINK "wikilink")。
 
 ## 單曲

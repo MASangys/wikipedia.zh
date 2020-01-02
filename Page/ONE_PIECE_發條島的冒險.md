@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 發條島的冒險](https://zh.wikipedia.org/wiki/ONE_PIECE_發條島的冒險)转换而来。
+
+
 《**ONE PIECE 發條島大冒險**》是於2001年上映的第二部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。[中國中央電視台電影頻道](https://zh.wikipedia.org/wiki/中國中央電視台電影頻道 "wikilink")（CCTV-6）亦曾引進並於2011年8月9日下午14:25分首播。
 
 ## 劇情

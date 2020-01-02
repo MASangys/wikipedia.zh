@@ -1,3 +1,6 @@
+> 本文内容由[GAGAGA文庫](https://zh.wikipedia.org/wiki/GAGAGA文庫)转换而来。
+
+
 **GAGAGA文庫**（）是[小學館](../Page/小學館.md "wikilink")在2007年5月24日創刊的[輕小說](../Page/輕小說.md "wikilink")文庫系列。
 
 是繼2001年同出版社休刊的Super Quest文庫後再度加入輕小說市場，但在創刊時報導的有如新加入市場一般\[1\]\[2\]。

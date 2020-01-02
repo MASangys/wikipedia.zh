@@ -1,3 +1,6 @@
+> 本文内容由[Gmail](https://zh.wikipedia.org/wiki/Gmail)转换而来。
+
+
 是[Google公司在](https://zh.wikipedia.org/wiki/Google公司 "wikilink")2004年4月1日发布的一个免费[电子邮件](../Page/电子邮件.md "wikilink")服务。Gmail在最初推出時，新用户需要现有用户的电子邮件邀请。2007年2月7日Google宣布將的注册完全开放\[1\]。2009年7月7日正式取消标志，在推出5年多后终于转为正式版本\[2\]。
 
 Gmail最初推出時有1[GB的儲存空間](https://zh.wikipedia.org/wiki/GB "wikilink")，大大的提高当时免費信箱容量的標準\[3\]。目前用戶已可以享有15GB 的容量，并且可以通过付费获取更多空间。如果要另外租用更多的空間，能以每月1.99[美元](../Page/美元.md "wikilink")的價格來取得100GB的儲存空間\[4\]。最令人稱道的就是它的使用界面，不但容易使用而且速度很快，此外也是一個著名的應用。

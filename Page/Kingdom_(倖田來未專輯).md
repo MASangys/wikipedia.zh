@@ -1,3 +1,6 @@
+> 本文内容由[Kingdom \(倖田來未專輯\)](https://zh.wikipedia.org/wiki/Kingdom_\(倖田來未專輯\))转换而来。
+
+
 《**Kingdom**》（倖感王國）是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第6張原創專輯，收錄《[BUT/愛的證明](https://zh.wikipedia.org/wiki/BUT/愛的證明 "wikilink")》、《[FREAKY](../Page/FREAKY.md "wikilink")》、《[愛之歌](../Page/愛之歌.md "wikilink")》、《[LAST ANGEL feat.東方神起](../Page/LAST_ANGEL_feat.東方神起.md "wikilink")》，以及專輯先行單曲《[anytime](https://zh.wikipedia.org/wiki/anytime "wikilink")》5張單曲。
 
 ## 發行版本

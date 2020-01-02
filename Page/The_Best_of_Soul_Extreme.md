@@ -1,3 +1,6 @@
+> 本文内容由[The Best of Soul Extreme](https://zh.wikipedia.org/wiki/The_Best_of_Soul_Extreme)转换而来。
+
+
 《The Best of Soul Extreme》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2012年6月13日發行之3rd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 解說

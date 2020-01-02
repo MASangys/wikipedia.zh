@@ -1,3 +1,6 @@
+> 本文内容由[ALIVE\&KICKING](https://zh.wikipedia.org/wiki/ALIVE\&KICKING)转换而来。
+
+
 **ALIVE\&KICKING**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2004年12月8日由[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。本作是[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")第三張為水樹奈奈監製的專輯。
 
 ## 收錄曲

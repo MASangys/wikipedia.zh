@@ -1,3 +1,6 @@
+> 本文内容由[K. JUNO](https://zh.wikipedia.org/wiki/K._JUNO)转换而来。
+
+
 **K. JUNO**是[日本](../Page/日本.md "wikilink")的女性[創作歌手](../Page/創作歌手.md "wikilink")。
 
 ## 概要

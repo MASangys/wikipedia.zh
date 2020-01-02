@@ -1,3 +1,6 @@
+> 本文内容由[Sysfs](https://zh.wikipedia.org/wiki/Sysfs)转换而来。
+
+
 **Sysfs** 是Linux 2.6所提供的一種[虛擬檔案系統](https://zh.wikipedia.org/wiki/虛擬檔案系統 "wikilink")。這個[檔案系統不僅可以把](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")[裝置](https://zh.wikipedia.org/wiki/裝置 "wikilink")（devices）和[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")（drivers）的資訊從内核輸出到[用户空间](https://zh.wikipedia.org/wiki/用户空间 "wikilink")，也可以用來對裝置和驅動程式做設定。
 
 ## 歷史

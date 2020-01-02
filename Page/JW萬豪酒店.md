@@ -1,3 +1,6 @@
+> 本文内容由[JW萬豪酒店](https://zh.wikipedia.org/wiki/JW萬豪酒店)转换而来。
+
+
 **JW萬豪酒店**（全稱：**JW萬豪奢華酒店及度假村**，）是[萬豪國際](../Page/萬豪國際.md "wikilink")旗下的[旗艦](https://zh.wikipedia.org/wiki/旗艦 "wikilink")[酒店](../Page/酒店.md "wikilink")[品牌](../Page/品牌.md "wikilink")，總部設於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")及[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")。品牌的主要競爭對手為[希爾頓酒店集團的](https://zh.wikipedia.org/wiki/希爾頓酒店集團 "wikilink")[港麗酒店](https://zh.wikipedia.org/wiki/港麗酒店 "wikilink")，甚至是向[四季酒店](../Page/四季酒店.md "wikilink")等豪華品牌挑戰。
 
 截至2017年8月為止，全球共有85間JW萬豪奢華酒店及度假村營運中。\[1\]酒店酬賓方案為全球萬豪禮賞會員「Marriott Rewards」。

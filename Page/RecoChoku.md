@@ -1,3 +1,6 @@
+> 本文内容由[RecoChoku](https://zh.wikipedia.org/wiki/RecoChoku)转换而来。
+
+
 **株式会社RecoChoku**（，*RecoChoku Co, Ltd.*）是[日本](../Page/日本.md "wikilink")的[IT情報關聯企業](https://zh.wikipedia.org/wiki/IT "wikilink")。**RecoChoku**（）是經營[手機鈴聲](https://zh.wikipedia.org/wiki/手機鈴聲 "wikilink")、[全曲下載等服務的收費配信網站](https://zh.wikipedia.org/wiki/全曲下載 "wikilink")。
 
 社名來自網站的舊名稱「（唱片公司直營）」的簡稱「（Recochoku）」，為日本主要的[唱片公司](../Page/唱片公司.md "wikilink")共同出資成立的企業。

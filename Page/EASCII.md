@@ -1,3 +1,6 @@
+> 本文内容由[EASCII](https://zh.wikipedia.org/wiki/EASCII)转换而来。
+
+
 （，延伸美国标准信息交换码）是将[ASCII](../Page/ASCII.md "wikilink")码由7[位扩充为](https://zh.wikipedia.org/wiki/位 "wikilink")8位而成。EASCII的内码是由0到255共有256个字符组成。EASCII码比ASCII码扩充出来的符号包括表格符号、计算符号、希腊字母和特殊的拉丁符号。
 
 ## Code Page 437

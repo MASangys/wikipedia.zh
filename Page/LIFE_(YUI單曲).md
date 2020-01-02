@@ -1,3 +1,6 @@
+> 本文内容由[LIFE \(YUI單曲\)](https://zh.wikipedia.org/wiki/LIFE_\(YUI單曲\))转换而来。
+
+
 《**LIFE**》是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2005年11月9日所推出的單曲碟，並是在[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的第三張單曲碟。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
 
 ## 收錄歌曲

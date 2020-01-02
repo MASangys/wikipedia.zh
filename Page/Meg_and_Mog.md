@@ -1,3 +1,6 @@
+> 本文内容由[Meg and Mog](https://zh.wikipedia.org/wiki/Meg_and_Mog)转换而来。
+
+
 《**Meg and Mog**》系列是一套由海倫·尼柯爾（Helen Nicoll）所寫，詹·平克斯基（Jan Pienkowski）負責繪畫插圖的[繪本](../Page/繪本.md "wikilink")。該系列自1970年代開始發售以來，已經售出超過三百萬冊\[1\]，並曾經改編為[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")，及推出35週年紀念版本\[2\]。
 
 ## 主要登場人物

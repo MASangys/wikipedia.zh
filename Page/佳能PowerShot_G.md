@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot G](https://zh.wikipedia.org/wiki/佳能PowerShot_G)转换而来。
+
+
 [Canon_PowerShot_G11-103.jpg](https://zh.wikipedia.org/wiki/File:Canon_PowerShot_G11-103.jpg "fig:Canon_PowerShot_G11-103.jpg") **Canon PowerShot G**是[佳能](../Page/佳能.md "wikilink")旗下[PowerShot数码相机的一个系列](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")。G系列作为佳能消费级[数码相机](../Page/数码相机.md "wikilink")的旗舰产品，最大特点就是成像品质和机器本身的专业化——不输于[数码单反](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")（連拍除外，因為受制於CCD的性能，直到G15採用CMOS才支援每秒10張連拍）。
 
 G系列提供[热靴](../Page/热靴.md "wikilink")接口可以外接佳能EX系列闪光灯，配备[锂离子电池](../Page/锂离子电池.md "wikilink")，可旋转LCD屏幕（从G7开始取消旋转，在G11上又恢复支持），支持[RAW](../Page/RAW.md "wikilink")格式输出（在G7上一度取消，在G9上又恢复支持），支持大光圈的镜头组，高速的响应。

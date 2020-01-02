@@ -1,3 +1,6 @@
+> 本文内容由[DTX規格](https://zh.wikipedia.org/wiki/DTX規格)转换而来。
+
+
 [Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg](https://zh.wikipedia.org/wiki/File:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg "fig:Comparison_ATX_µATX_DTX_ITX_mini-DTX.svg")  **DTX**是由[AMD所提倡之](https://zh.wikipedia.org/wiki/AMD "wikilink")[主機板規格](https://zh.wikipedia.org/wiki/主機板 "wikilink")，發佈於2007年1月10日。DTX規格尺寸為203毫米×244毫米，適用於[迷你](https://zh.wikipedia.org/wiki/迷你電腦 "wikilink")、[HTPC及](https://zh.wikipedia.org/wiki/HTPC "wikilink")[Barebone電腦](https://zh.wikipedia.org/wiki/準系統電腦 "wikilink")。[AMD表示DTX為開放規格](https://zh.wikipedia.org/wiki/AMD "wikilink")，且可向後兼容[ATX機箱規格](../Page/ATX規格.md "wikilink")。**DTX**規格同時擁有另一款較小型的變種，稱為**Mini-DTX**。其[印刷電路板較細小](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，而尺寸為203毫米×170毫米。
 
 DTX主機板規格提供最多兩組[擴展插槽](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（大多為[PCI Express及](../Page/PCI_Express.md "wikilink")[PCI](../Page/外设组件互连标准.md "wikilink")），位置與[ATX規格](../Page/ATX規格.md "wikilink")及[Micro-ATX主機板規格相同](https://zh.wikipedia.org/wiki/Micro-ATX "wikilink")。另外，DTX規格同時可提供非必需的[ExpressCard](../Page/ExpressCard.md "wikilink")插槽。

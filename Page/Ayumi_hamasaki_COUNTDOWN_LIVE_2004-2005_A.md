@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COUNTDOWN LIVE 2004-2005 A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COUNTDOWN_LIVE_2004-2005_A)转换而来。
+
+
 『**ayumi hamasaki COUNTDOWN LIVE 2004-2005 A**』（濱崎步 2004-2005 跨年演唱會 A ）是日本歌手濱崎步於2004年12月30日、31日在國立代代木競技場第一體育館舉行跨年演唱會。2005年3月2日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 說明

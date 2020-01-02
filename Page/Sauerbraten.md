@@ -1,3 +1,6 @@
+> 本文内容由[Sauerbraten](https://zh.wikipedia.org/wiki/Sauerbraten)转换而来。
+
+
 ***Sauerbraten***（也是*Cube 2* 或 *Sauer*，[德语](../Page/德语.md "wikilink")的“[sour roast](https://zh.wikipedia.org/wiki/酸味燉牛肉 "wikilink")”）是一个免费的[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D引擎，也是同名基于这个引擎的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。运行在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")或[Mac OS X上](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，使用[OpenGL](../Page/OpenGL.md "wikilink")和[SDL技术](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。最强大的地方在于即时修改地图的能力。此[游戏引擎](../Page/游戏引擎.md "wikilink")是[自由软件](../Page/自由软件.md "wikilink")授权为[Zlib](../Page/Zlib.md "wikilink")，\[1\]有着开发者公司的商业支持，[Dot3 Labs](http://dot3labs.com/)。\[2\]
 
 本作是**Cube**的后继产品，2004年5月4日发布第一个版本，最新的「Trooper Edition」於\`2009年5月4日放出。

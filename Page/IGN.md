@@ -1,3 +1,6 @@
+> 本文内容由[IGN](https://zh.wikipedia.org/wiki/IGN)转换而来。
+
+
 **IGN**（，想像遊戲網）是一間由乔纳森·辛普森-宾特在1996年创立的多媒體和評論[網站](../Page/網站.md "wikilink")，主要對象為[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。母公司是****（[GameSpy](../Page/GameSpy.md "wikilink")、[爛番茄](../Page/爛番茄.md "wikilink")、持有者）。
 
 IGN的主網站包含數個特別網頁或「頻道」，每一個都在IGN有分區。遊戲有關的頻道例如有：[电-{}-脑游戏](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。IGN頻道還包含：電影、音樂、工具、科技、運動、電視等等。

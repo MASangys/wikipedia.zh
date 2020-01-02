@@ -1,3 +1,6 @@
+> 本文内容由[Press TV](https://zh.wikipedia.org/wiki/Press_TV)转换而来。
+
+
 **Press TV**（伊朗英語新聞電視台）是一家由[伊朗政府运营](https://zh.wikipedia.org/wiki/伊朗 "wikilink")\[1\]，針對全世界觀眾播放的24小時[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，总部位於伊朗[首都](../Page/首都.md "wikilink")[德黑蘭](https://zh.wikipedia.org/wiki/德黑蘭 "wikilink")，主要播放最新的新聞，評論與紀錄片等節目，著重報導[中東地區的情勢](https://zh.wikipedia.org/wiki/中東 "wikilink")。「Press」一詞意為「新聞」，亦有著新聞所帶來的「[輿論](https://zh.wikipedia.org/wiki/輿論 "wikilink")」之意。
 
 Press TV通过[卫星和網路直播](https://zh.wikipedia.org/wiki/卫星 "wikilink")，覆盖全球各地。

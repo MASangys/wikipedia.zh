@@ -1,3 +1,6 @@
+> 本文内容由[Unix shell](https://zh.wikipedia.org/wiki/Unix_shell)转换而来。
+
+
 **Unix shell**，一種[殼層](../Page/殼層.md "wikilink")與[命令行界面](../Page/命令行界面.md "wikilink")，是[UNIX](../Page/UNIX.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")下传统的用户和计算机的交互界面。第一個用户直接输入[命令来执行各种各样的任务](../Page/命令_\(计算机\).md "wikilink")。
 
 普通意义上的shell就是可以接受用户输入命令的程序。它之所以被称作shell是因为它隐藏了操作系统低层的细节。同样的Unix下的图形用户界面[GNOME](../Page/GNOME.md "wikilink")和[KDE](../Page/KDE.md "wikilink")，有时也被叫做「虚拟shell」或「图形shell」。

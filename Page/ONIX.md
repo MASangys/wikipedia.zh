@@ -1,3 +1,6 @@
+> 本文内容由[ONIX](https://zh.wikipedia.org/wiki/ONIX)转换而来。
+
+
 **線上資訊交換標準**，****（****），是針對圖書而發展的網路資料交換標準，目的在於增進[電子商務](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，提供[網際網路書商豐富而標準化的產品資訊](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，並因應圖書[批發商及](https://zh.wikipedia.org/wiki/批發商 "wikilink")[零售商](../Page/零售商.md "wikilink")各種格式書目資訊交換的需求。
 
 ## 發展歷程

@@ -1,3 +1,6 @@
+> 本文内容由[Tor函子](https://zh.wikipedia.org/wiki/Tor函子)转换而来。
+
+
 在[交換代數](../Page/交換代數.md "wikilink")中，**Tor 函子**是[張量積的](https://zh.wikipedia.org/wiki/張量積 "wikilink")[導函子](https://zh.wikipedia.org/wiki/導函子 "wikilink")。此函子起初是為了表述[代數拓撲中的](https://zh.wikipedia.org/wiki/代數拓撲 "wikilink") Künneth 定理與[普遍係數定理而定義](https://zh.wikipedia.org/wiki/普遍係數定理 "wikilink")。
 
 ## 定義

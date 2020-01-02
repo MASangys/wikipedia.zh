@@ -1,3 +1,6 @@
+> 本文内容由[Qt Jambi](https://zh.wikipedia.org/wiki/Qt_Jambi)转换而来。
+
+
 **Qt Jambi**是[跨平台的應用程式框架](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Qt](../Page/Qt.md "wikilink")的[java綁定版本](https://zh.wikipedia.org/wiki/java "wikilink")。對Java開發人員來說可以使用Java標準版和Java企業版進行開發，並且對[C++](../Page/C++.md "wikilink")程序員也提供了Qt Jambi generator，可以方便地將其C++寫成的Qt代碼整合到Java中。
 
 Qt Jambi最初是由[Qt Development Frameworks開發](https://zh.wikipedia.org/wiki/Qt_Development_Frameworks "wikilink")。Qt Jambi 4.5.0_01之後以[LGPL釋出原始码](https://zh.wikipedia.org/wiki/LGPL "wikilink")，並轉交由开源社群繼續维护開發。\[1\]

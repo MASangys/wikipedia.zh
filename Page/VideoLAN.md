@@ -1,3 +1,6 @@
+> 本文内容由[VideoLAN](https://zh.wikipedia.org/wiki/VideoLAN)转换而来。
+
+
 [VLC_Icon.svg](https://zh.wikipedia.org/wiki/File:VLC_Icon.svg "fig:VLC_Icon.svg")
 
 是[开发通过局域网](https://zh.wikipedia.org/wiki/软件开发 "wikilink")（LAN）播放视频及其他媒体格式的软件的计划。最初开发了两个媒体[流媒体](../Page/流媒体.md "wikilink")[程序VideoLAN](https://zh.wikipedia.org/wiki/电脑程序 "wikilink") Client（VLC）及VideoLAN Server（VLS），然而大部分的VLS功能都逐渐整合進VLC，所以就將VLC改名為[VLC media player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")。

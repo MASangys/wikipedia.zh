@@ -1,3 +1,6 @@
+> 本文内容由[多啦美與多啦A夢七小子的機械人學校七不思議](https://zh.wikipedia.org/wiki/多啦美與多啦A夢七小子的機械人學校七不思議)转换而来。
+
+
 《**多啦美與多啦A夢七小子的機械人學校七不思議**》是一部於1996年3月2日上映的[哆啦A夢](../Page/哆啦A夢.md "wikilink")附篇[動畫電影](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")，由[米谷良知](../Page/米谷良知.md "wikilink")執導。片長30分鐘。
 
 ## 故事简介

@@ -1,3 +1,6 @@
+> 本文内容由[SHORT CIRCUIT II](https://zh.wikipedia.org/wiki/SHORT_CIRCUIT_II)转换而来。
+
+
 《**SHORT CIRCUIT II**\[1\]》是於2007年6月22日由[日本](../Page/日本.md "wikilink")[Visual Art's發售的](../Page/Visual_Art's.md "wikilink")[概念專輯](https://zh.wikipedia.org/wiki/概念專輯 "wikilink")，宣傳口號是「電波（）革命音戰士 第II章！！！」，[SHORT CIRCUIT的續作](https://zh.wikipedia.org/wiki/SHORT_CIRCUIT "wikilink")。收錄14曲，其中3曲是新作。[菊池政治](../Page/菊池政治.md "wikilink")負責[人物設計](../Page/人物設計.md "wikilink")、封面設計、插畫。
 
 ## 概要、歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Abuse \(游戏\)](https://zh.wikipedia.org/wiki/Abuse_\(游戏\))转换而来。
+
+
 **Abuse** 是一个由[Crack dot Com开发](https://zh.wikipedia.org/wiki/Crack_dot_Com "wikilink")，[Origin Systems](../Page/Origin_Systems.md "wikilink")、[Electronic Arts在](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")1996年发行的[跑動射擊遊戲](https://zh.wikipedia.org/wiki/跑動射擊遊戲 "wikilink")。大约2年之后，游戏代码开放，不过现在又在iphone软件商店销售。
 
 ## 玩法

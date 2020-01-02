@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office 2004 for Mac](https://zh.wikipedia.org/wiki/Microsoft_Office_2004_for_Mac)转换而来。
+
+
 **Microsoft Office 2004 for Mac**是微軟Microsoft Office的Mac OS X版本。微軟表示，Office 2004不會支持[通用二進位的更新](https://zh.wikipedia.org/wiki/通用二進位 "wikilink")。微軟於2009年1月13日結束對Office 2004的支援。[Microsoft Office 2008 for Mac是Office](../Page/Microsoft_Office_2008_for_Mac.md "wikilink") 2004的後續版本。
 
 ## 版本

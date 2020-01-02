@@ -1,3 +1,6 @@
+> 本文内容由[向星星許願 \(flumpool單曲\)](https://zh.wikipedia.org/wiki/向星星許願_\(flumpool單曲\))转换而来。
+
+
 《**向星星許願**》（）是[flumpool主流出道的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年2月25日發行。
 
 ## 收錄歌曲

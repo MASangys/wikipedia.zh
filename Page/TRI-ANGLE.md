@@ -1,3 +1,6 @@
+> 本文内容由[TRI-ANGLE](https://zh.wikipedia.org/wiki/TRI-ANGLE)转换而来。
+
+
 「**TRI-ANGLE**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[东方神起的第](https://zh.wikipedia.org/wiki/东方神起 "wikilink")1張正规韩语專輯。於2004年10月13日發行。唱片公司為[SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 概要

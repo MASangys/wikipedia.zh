@@ -1,3 +1,6 @@
+> 本文内容由[SCIgen](https://zh.wikipedia.org/wiki/SCIgen)转换而来。
+
+
 **SCIgen**是一个[计算机程序](../Page/计算机程序.md "wikilink")，能够自动生成无意义的英文[计算机科学](../Page/计算机科学.md "wikilink")研究[论文](../Page/论文.md "wikilink")，并且包含[图片](https://zh.wikipedia.org/wiki/图片 "wikilink")、表格、[流程图](../Page/流程图.md "wikilink")和[参考文献等](https://zh.wikipedia.org/wiki/参考文献 "wikilink")。这个程序使用用户定制的[上下文无关文法](../Page/上下文无关文法.md "wikilink")来生成论文的各类组成元素。\[1\]
 
 ## 简介

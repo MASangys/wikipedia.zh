@@ -1,3 +1,6 @@
+> 本文内容由[Petit comic](https://zh.wikipedia.org/wiki/Petit_comic)转换而来。
+
+
 《**Petit comic**》是[小學館](../Page/小學館.md "wikilink")發行的少女[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1977年創刊，毎月8日発行。
 
 ## 現在連載作品

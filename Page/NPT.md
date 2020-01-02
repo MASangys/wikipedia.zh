@@ -1,3 +1,6 @@
+> 本文内容由[NPT](https://zh.wikipedia.org/wiki/NPT)转换而来。
+
+
 **NPT**可能指：
 
 ## 區碼

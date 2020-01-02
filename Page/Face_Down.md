@@ -1,3 +1,6 @@
+> 本文内容由[Face Down](https://zh.wikipedia.org/wiki/Face_Down)转换而来。
+
+
 《**Face Down**》是日本組合[嵐](../Page/嵐.md "wikilink")的第38張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月9日由[J Storm發行](../Page/J_Storm.md "wikilink")。
 
 ## 概要

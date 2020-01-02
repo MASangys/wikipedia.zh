@@ -1,3 +1,6 @@
+> 本文内容由[KELT-2A](https://zh.wikipedia.org/wiki/KELT-2A)转换而来。
+
+
 **KELT-2A**，即**HD 42176A**，是一顆距離地球約419光年的[黃-白矮星](https://zh.wikipedia.org/wiki/黃-白矮星 "wikilink")，位於[御夫座](../Page/御夫座.md "wikilink")。該恆星的視星等8.77，必須以雙筒望遠鏡觀測。
 
 KELT-2A 是聯星系統 KELT-2（HD 42176）中較明亮的主星，伴星 KELT-2B 是一顆[橙矮星](../Page/橙矮星.md "wikilink")，距離主星約295天文單位。

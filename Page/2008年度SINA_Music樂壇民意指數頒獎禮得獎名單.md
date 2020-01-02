@@ -1,3 +1,6 @@
+> 本文内容由[2008年度SINA Music樂壇民意指數頒獎禮得獎名單](https://zh.wikipedia.org/wiki/2008年度SINA_Music樂壇民意指數頒獎禮得獎名單)转换而来。
+
+
 **SINA Music樂壇民意指數頒獎禮2008**，於2009年1月12日假[香港國際展貿中心](https://zh.wikipedia.org/wiki/香港國際展貿中心 "wikilink")[Star Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「你想點SING 就點星」，主持為[崔建邦](../Page/崔建邦.md "wikilink")、[趙碩之](../Page/趙碩之.md "wikilink")，當晚共頒發23個項目，其中15項「我最喜愛」獎項為由網民選舉得出，別具意義，總共48個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單

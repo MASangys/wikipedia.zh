@@ -1,3 +1,6 @@
+> 本文内容由[GameSpot](https://zh.wikipedia.org/wiki/GameSpot)转换而来。
+
+
 **GameSpot**（[中国大陆](../Page/中国大陆.md "wikilink")：游戏基地），於1996年5月由Pete Deemer和Vince Broady創立，是一個提供[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[評論](https://zh.wikipedia.org/wiki/評論 "wikilink")、[預告片](https://zh.wikipedia.org/wiki/預告片 "wikilink")、[下載及其他的相關資訊的](https://zh.wikipedia.org/wiki/下載 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[網站](../Page/網站.md "wikilink")。GameSpot被一間後來被[CNET](../Page/CNET.md "wikilink")收購的企業[ZDNet所收購](https://zh.wikipedia.org/wiki/ZDNet "wikilink")。根據[Alexa](../Page/Alexa_Internet.md "wikilink")，GameSpot.com是200個[網路擁擠最嚴重的網站之一](https://zh.wikipedia.org/wiki/網路擁擠 "wikilink")。
 
 除了由GameSpot員工創作的內容，網站還允許用戶寫評論、網誌、之後在[網路論壇分享](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")。一些在CNET旗下的[GameFAQs](../Page/GameFAQs.md "wikilink")分享。

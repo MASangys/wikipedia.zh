@@ -1,3 +1,6 @@
+> 本文内容由[BB航空](https://zh.wikipedia.org/wiki/BB航空)转换而来。
+
+
 **BB航空**（）是一間[總部設在](https://zh.wikipedia.org/wiki/總部 "wikilink")[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")[加德滿都](../Page/加德滿都.md "wikilink")的[航空公司](../Page/航空公司.md "wikilink")，於2012年1月成立，於同年9月開始正式運作，其樞紐機場為[特里布萬國際機場](https://zh.wikipedia.org/wiki/特里布萬國際機場 "wikilink")。BB航空在2012年10月13日首航[吉隆坡](../Page/吉隆坡.md "wikilink")\[1\]。
 
 ## 航點

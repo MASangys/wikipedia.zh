@@ -1,3 +1,6 @@
+> 本文内容由[HR](https://zh.wikipedia.org/wiki/HR)转换而来。
+
+
 **HR**、**Hr**或**hr**可以指：
 
   - ，電視動畫系列

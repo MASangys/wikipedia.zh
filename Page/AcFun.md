@@ -1,3 +1,6 @@
+> 本文内容由[AcFun](https://zh.wikipedia.org/wiki/AcFun)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:AC娘.png "fig:缩略图") **AcFun**（现正式备案名为**AcFun弹幕视频网**，曾用正式备案中文名**爱稀饭网**，常被简称为**AC**，**A站**）实际运营主体为北京弹幕网络科技有限公司，是中国大陆的[弹幕式视频分享网站之一](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")，开设于2007年6月6日\[1\]，最初为动画连载的网站。AcFun取意于“[Anime](https://zh.wikipedia.org/wiki/Anime "wikilink") [Comic](https://zh.wikipedia.org/wiki/漫画 "wikilink") Fun”，[2008年3月](../Page/2008年3月.md "wikilink")模仿[日本](../Page/日本.md "wikilink")视频分享站[NICONICO动画推出了带类似字幕的弹幕播放器](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")，称为[弹幕式播放器](../Page/视频弹幕.md "wikilink")。口号为“天下漫友是一家”，网站文化为“认真你就输了”。\[2\]网站的虚拟形象为AC娘，同时其附属站点也有与AC娘类似的形象。
 
 ## 历史

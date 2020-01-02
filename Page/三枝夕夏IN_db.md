@@ -1,3 +1,6 @@
+> 本文内容由[三枝夕夏IN db](https://zh.wikipedia.org/wiki/三枝夕夏IN_db)转换而来。
+
+
 **三枝夕夏IN db**為[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。隸屬於日本[Being Media Factory旗下的](https://zh.wikipedia.org/wiki/Being_Media_Factory "wikilink")[GIZA Studio](https://zh.wikipedia.org/wiki/GIZA_Studio "wikilink")。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[日商美音亞洲股份有限公司負責代理](https://zh.wikipedia.org/wiki/日商美音亞洲股份有限公司 "wikilink")、發行。
 
 ## 簡介

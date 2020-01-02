@@ -1,3 +1,6 @@
+> 本文内容由[WLAN信道列表](https://zh.wikipedia.org/wiki/WLAN信道列表)转换而来。
+
+
 **WLAN頻道列表**专指[IEEE 802.11網路應該使用的無線](../Page/IEEE_802.11.md "wikilink")[頻道](https://zh.wikipedia.org/wiki/頻道 "wikilink")。[无线局域网](../Page/无线局域网.md "wikilink")（WLAN）分很多種類，其中以IEEE 802.11规範為基礎的[WiFi認證是人們最熟悉的商業標準](https://zh.wikipedia.org/wiki/WiFi "wikilink")。802.11 工作組劃分了4個獨立的頻段：2.4 GHz、3.6 GHz、4.9 GHz 和 5.8 GHz\[1\]，每個頻段又劃分為若干頻道。每個國家自己制定了政策訂出如何使用這些頻段，例如最大的發射功率和配制方式等。
 
 ##  2.4 GHz (802.11[b](https://zh.wikipedia.org/wiki/802.11b "wikilink")/[g](https://zh.wikipedia.org/wiki/802.11g "wikilink")/[n](https://zh.wikipedia.org/wiki/802.11n "wikilink"))

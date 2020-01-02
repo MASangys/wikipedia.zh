@@ -1,3 +1,6 @@
+> 本文内容由[Spring计划](https://zh.wikipedia.org/wiki/Spring计划)转换而来。
+
+
 **Spring**计划力求创造一个超越[横扫千军](../Page/横扫千军.md "wikilink")的[即时战略](https://zh.wikipedia.org/wiki/即时战略 "wikilink")[游戏引擎](../Page/游戏引擎.md "wikilink")。代码授权为[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，继承大量横扫千军的特性，地图数据结构相近、使用[lua建立界面](https://zh.wikipedia.org/wiki/lua "wikilink")。
 
 ## 特性

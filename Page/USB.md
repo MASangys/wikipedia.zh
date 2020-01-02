@@ -1,3 +1,6 @@
+> 本文内容由[USB](https://zh.wikipedia.org/wiki/USB)转换而来。
+
+
 **通用串行总线**（，縮寫：）是连接[计算机系统与](https://zh.wikipedia.org/wiki/计算机 "wikilink")[外部设备的一种](https://zh.wikipedia.org/wiki/外部设备 "wikilink")[串口](../Page/串行端口.md "wikilink")[总线](../Page/总线.md "wikilink")标准，也是一种[输入输出](https://zh.wikipedia.org/wiki/输入输出 "wikilink")[接口的技术规范](https://zh.wikipedia.org/wiki/接口 "wikilink")，被广泛地应用于[个人电脑](../Page/个人电脑.md "wikilink")和[移动设备](../Page/移动设备.md "wikilink")等[信息通讯产品](../Page/信息及通信技术.md "wikilink")，并扩展至[摄影器材](https://zh.wikipedia.org/wiki/摄影器材 "wikilink")、[数字电视](../Page/数字电视.md "wikilink")（[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")）、[游戏机等其它相关领域](https://zh.wikipedia.org/wiki/游戏机 "wikilink")。
 
 多媒體電腦剛問世時，外接式裝置的傳輸介面各不相同，如印表機只能接[LPT](https://zh.wikipedia.org/wiki/並列埠 "wikilink")、數據機只能接[RS232](https://zh.wikipedia.org/wiki/RS-232 "wikilink")、滑鼠鍵盤只能接[PS/2等](https://zh.wikipedia.org/wiki/PS/2接口 "wikilink")。繁雜的介面系統，加上必須安裝驅動程式並重新開機才能使用的限制，都會造成使用者的困擾。因此，創造出一個統一且支援易插拔的外接式傳輸介面，便成為無可避免的趨勢，USB應運而生。

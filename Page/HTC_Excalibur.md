@@ -1,3 +1,6 @@
+> 本文内容由[HTC Excalibur](https://zh.wikipedia.org/wiki/HTC_Excalibur)转换而来。
+
+
 **HTC Excalibur**，原廠型號**HTC S620，HTC S621**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，宏達電首款採用QWERTY全鍵盤的SmartPhone智慧型手機，僅有1.28 公分的薄度。2006年10月於亞洲首度發表。客製版本HTC S620，HTC S621，Rogers＆HTC S621，Dopod C720W，Dopod C720，T-Mobile Dash，T-Mobile MDA Mail，O2 Xda Cosmo，Orange SPV E600。
 
 ## 技術規格

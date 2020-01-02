@@ -1,3 +1,6 @@
+> 本文内容由[MSX](https://zh.wikipedia.org/wiki/MSX)转换而来。
+
+
 **MSX**是一个标准化的[家用计算机体系结构](../Page/家用电脑.md "wikilink")，最早由[微软](../Page/微软.md "wikilink")于1983年6月16日提出\[1\]，并由后来的[微軟日本副总裁与](https://zh.wikipedia.org/wiki/微軟 "wikilink")[ASCII主管](../Page/ASCII_\(公司\).md "wikilink")[西和彦构思](https://zh.wikipedia.org/wiki/西和彦 "wikilink")。有人说这是由微软领导，试图在标准硬件制造商建立统一标准的项目\[2\] 。
 
 尽管有微软的介入，但MSX构架的机器在美国很少出现\[3\]，而在[日本](../Page/日本.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[中东](../Page/中东.md "wikilink")、[巴西](../Page/巴西.md "wikilink")、[苏联](../Page/苏联.md "wikilink")、[荷兰](../Page/荷兰.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")以及其他几个小型欧洲国家却非常流行。MSX计算机的销售数量难以估计，但仅在日本的最终销量就超过500万\[4\]。

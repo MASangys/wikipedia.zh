@@ -1,3 +1,6 @@
+> 本文内容由[CW電視網](https://zh.wikipedia.org/wiki/CW電視網)转换而来。
+
+
 **CW电视联播网**（；[简称](https://zh.wikipedia.org/wiki/简称 "wikilink")：**CW电视网**{{\\}}）是[美国](../Page/美国.md "wikilink")一家[英语](../Page/英语.md "wikilink")[免费](../Page/免費電視頻道接收.md "wikilink")[电视联播网](https://zh.wikipedia.org/wiki/电视联播网 "wikilink")，由CW电视网有限责任公司（）负责运营。CW电视网有限责任公司是由[CBS公司](../Page/CBS公司.md "wikilink")与[AT\&T](../Page/AT&T.md "wikilink")联合投资的[有限责任公司](../Page/有限公司.md "wikilink")。\[1\]CBS公司是[联合派拉蒙电视网的前所有者](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")；AT\&T旗下的[华纳传媒是](../Page/華納媒體.md "wikilink")[华纳兄弟](../Page/华纳兄弟.md "wikilink")的母公司，而华纳兄弟则是[华纳兄弟电视网的前所有者](../Page/WB電視網.md "wikilink")。CW电视联播网的名称由来是由其两家母公司CBS公司（）与华纳兄弟（）的英语名首字母构成。
 
 CW电视联播网于2006年9月18日正式在全美推出，而组成该电视网的[联合派拉蒙电视网和](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")[华纳兄弟电视网则分别在同年](../Page/WB電視網.md "wikilink")9月15日和17日分别停止了播出。在CW电视网开播的头两晚，即2006年9月18日和19日的晚间节目基本由重播内容和开播组成。直到2006年9月20日，CW电视网才播出了其第一档节目——《[全美超模新秀大赛](../Page/全美超級模特兒新秀大賽.md "wikilink")》[第七季的开篇](../Page/全美超級模特兒新秀大賽_\(第七季\).md "wikilink")2小时特辑。最初，CW电视网的收视观众定位在18岁到34岁之间的女性观众，\[2\]但是从2011年开始，CW电视网的节目也开始吸引到不少男性观众。\[3\]截止2017年8月，CW电视网的观众性别趋于平衡，即男女观众各占一半。\[4\]CW电视网节目目前在每周七天都有播出，分别是在周一到周五下午时段（）；周日到周五的晚间[黄金时段](../Page/時段.md "wikilink")；以及由所制作的周六早晨真人教育节目时段，该时段节目被称为《》，是动画栏目《》的接班栏目。

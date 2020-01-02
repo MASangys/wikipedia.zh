@@ -1,3 +1,6 @@
+> 本文内容由[Netscape Messenger 9](https://zh.wikipedia.org/wiki/Netscape_Messenger_9)转换而来。
+
+
 **Netscape Messenger 9**是由[網景](../Page/網景.md "wikilink")製作的一個[跨平台的獨立](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[電子郵件客戶端及](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")[新聞群組程式](https://zh.wikipedia.org/wiki/新聞群組 "wikilink")，建構於[Mozilla Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")。最初於2007年6月11日公開的時候以*Netscape Mercury*之名宣傳，這個郵件程式是設計來搭配網景新公開的瀏覽器[Netscape Navigator 9用的](../Page/Netscape_Navigator_9.md "wikilink")\[1\]。
 
 最初的名稱*Netscape Mercury*其實是來自於[羅馬神話中的傳遞信息的使者](https://zh.wikipedia.org/wiki/羅馬神話 "wikilink")[墨丘利](https://zh.wikipedia.org/wiki/墨丘利 "wikilink")\[2\]，取代了之前在版本4到7之間所用的[Netscape Mail and Newsgroups](https://zh.wikipedia.org/wiki/Netscape_Mail_and_Newsgroups "wikilink")。

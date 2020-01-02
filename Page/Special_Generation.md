@@ -1,3 +1,6 @@
+> 本文内容由[Special Generation](https://zh.wikipedia.org/wiki/Special_Generation)转换而来。
+
+
 「**Special Generation**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第6張[单曲](../Page/单曲.md "wikilink")。2005年3月30日由[PICCOLO TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

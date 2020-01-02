@@ -1,3 +1,6 @@
+> 本文内容由[HTC Canary](https://zh.wikipedia.org/wiki/HTC_Canary)转换而来。
+
+
 **HTC Canary**（研發代號），是台灣[宏達電公司所推出的全球第一款微軟](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，2002年10月23日以Orange SPV的身份在倫敦正式公開，引發全球通訊業界的高度矚目。2003年8月15日大陸多普達通訊與微軟又再度推出記憶體升級至64MB的HTC Canary，即全球首部採用中文Windows Mobile 2003的智慧型手機Dopod 515。客製版本Qtek 6080，Dopod 515，Orange SPV。
 
 ## Canary技術規格

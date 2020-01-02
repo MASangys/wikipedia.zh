@@ -1,3 +1,6 @@
+> 本文内容由[FreeRice](https://zh.wikipedia.org/wiki/FreeRice)转换而来。
+
+
 **FreeRice.com**是一個以[英文猜字](https://zh.wikipedia.org/wiki/英文 "wikilink")[遊戲來募款以幫助改善全球](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[饑荒](../Page/饑荒.md "wikilink")的慈善網站。網民每猜中一個生字的意思，該網站就會捐出10粒[稻米給](https://zh.wikipedia.org/wiki/稻米 "wikilink")[聯合國的](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[世界糧食計劃署](../Page/世界糧食計劃署.md "wikilink")（World Food Programme）。網站依賴多個廣告商支付捐款及營運成本，如[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[東芝](https://zh.wikipedia.org/wiki/東芝 "wikilink")、[富士通](../Page/富士通.md "wikilink")、[讀者文摘](https://zh.wikipedia.org/wiki/讀者文摘 "wikilink")、[美國運通](../Page/美國運通.md "wikilink")等等。
 
 ## 沿革

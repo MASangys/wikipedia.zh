@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Photoshop Elements](https://zh.wikipedia.org/wiki/Adobe_Photoshop_Elements)转换而来。
+
+
 __NOTOC__  **Adobe Photoshop Elements**是[Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")[光栅图编辑产品的消费版本](https://zh.wikipedia.org/wiki/光栅图 "wikilink")，售价为专业版产品的一小部分（大概六分之一）或者与相关硬件捆绑，如[打印机](../Page/打印机.md "wikilink")和[数码相机](../Page/数码相机.md "wikilink")。它包含了专业版的大多数特性，但是只有少量的简化选项。这个程序允许用户在同一产品中创建、编辑、组织和共享图像。
 
 最初Photoshop Elements与 [Photoshop](../Page/Adobe_Photoshop.md "wikilink") 7一起发行，面向摄影爱好者，因此缺少许多对于专业出版环境有用的特性。例如，Photoshop Elements不能以[CMYK色彩模式导出文件](https://zh.wikipedia.org/wiki/CMYK "wikilink")，只支持简化的色彩管理系统，并且不包含细节软打样。它还去除了所有的或只提供简单版本的插件，对象为非专业人员（如移除[红眼或改变照片中的肤色](https://zh.wikipedia.org/wiki/红眼现象 "wikilink")）。一些版本还可以打开、编辑和保存[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Namori](https://zh.wikipedia.org/wiki/Namori)转换而来。
+
+
 **Namori**（），\[1\]\[2\]）是日本[女性](../Page/女性.md "wikilink")\[3\]漫畫家，血型為[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")\[4\]。她出生於[富山縣](../Page/富山縣.md "wikilink")，居於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[5\]。大學時住在名古屋\[6\]。
 
 據其所言，她從小學時代就想當漫畫家了\[7\]。成为漫画家后，喜欢在咖啡厅等处工作画漫画。代表作之一為《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》。自画像形似[水母](../Page/水母.md "wikilink")。\[8\]

@@ -1,3 +1,6 @@
+> 本文内容由[Galneryus](https://zh.wikipedia.org/wiki/Galneryus)转换而来。
+
+
 **Galneryus**，是[日本](../Page/日本.md "wikilink")的[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")、[力量金屬](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")、[新古典金屬](../Page/新古典金屬.md "wikilink")、[旋律金屬樂隊](https://zh.wikipedia.org/wiki/旋律金屬 "wikilink")。2001年於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")，2003年由所屬唱片公司[Vap正式推廌出道](https://zh.wikipedia.org/wiki/Vap "wikilink")。
 
 ## 成員

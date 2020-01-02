@@ -1,3 +1,6 @@
+> 本文内容由[Love Is…](https://zh.wikipedia.org/wiki/Love_Is…)转换而来。
+
+
 《**Love Is…**》（意思：愛是⋯）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭秀文](../Page/鄭秀文.md "wikilink")的第21張個人專輯和第17張粵語專輯，於2000年12月28日發行。2001年3月推出特別版，加送電影《[鍾無艷](../Page/鍾無艷_\(電影\).md "wikilink")》的電影原聲帶；另外亦推出另一版本加送一張VCD\[1\]。
 
 ## 專輯介紹

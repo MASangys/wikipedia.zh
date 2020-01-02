@@ -1,3 +1,6 @@
+> 本文内容由[NetScreen](https://zh.wikipedia.org/wiki/NetScreen)转换而来。
+
+
 **网屏技术有限公司**（NetScreen Technologies Inc.）创建于1997年10月30日，是一个研发和销售网络安全系统软件和设备的公司。其产品分布为Firewall, IPSEC VPN, IDP/IDS等系列。2004年4月16日正式被全球第二大网络通讯设备公司[Juniper Networks并购](https://zh.wikipedia.org/wiki/Juniper_Networks "wikilink")。
 
 ## 网屏简介

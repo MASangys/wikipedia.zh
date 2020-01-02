@@ -1,3 +1,6 @@
+> 本文内容由[Glest](https://zh.wikipedia.org/wiki/Glest)转换而来。
+
+
 ***Glest***是[跨平台免费开源](https://zh.wikipedia.org/wiki/跨平台 "wikilink")3D[即时战略电脑游戏](https://zh.wikipedia.org/wiki/即时战略 "wikilink")，具有高度的自定义特性。开发组主要位于[西班牙](../Page/西班牙.md "wikilink")。\[1\]
 
 取材于[中世纪](../Page/中世纪.md "wikilink")背景，包含2个阵营，魔法和科技。2.0版本之后有许多变化，不仅增加了大量单位，升级，还有全面改版的扩展包。3.0添加在线游戏[LAN](https://zh.wikipedia.org/wiki/LAN "wikilink")／[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")，但只有类似架构的操作系统可以互联，如BSD和Linux，Windows只能和Windows对战。Glest Advanced Engine，缩写GAE，这个引擎也在不断更新。 Glest有较大的社区，\[2\]自制地图、单位、阵营和[科技树](../Page/科技树.md "wikilink")。

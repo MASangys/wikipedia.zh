@@ -1,3 +1,6 @@
+> 本文内容由[CBS公司](https://zh.wikipedia.org/wiki/CBS公司)转换而来。
+
+
 | defunct =  | location = [美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")[CBS大厦](https://zh.wikipedia.org/wiki/CBS大厦 "wikilink") | area_served = [美国](../Page/美国.md "wikilink") | key_people =  | industry = [大众传媒](https://zh.wikipedia.org/wiki/大众传媒 "wikilink") | products = [电影](../Page/电影.md "wikilink")、[电视](../Page/电视.md "wikilink")、[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")、[有线电视](../Page/有线电视.md "wikilink")
 [唱片](https://zh.wikipedia.org/wiki/音乐产业 "wikilink")、[出版](https://zh.wikipedia.org/wiki/出版 "wikilink")、[互联网](../Page/互联网.md "wikilink") | revenue = 138.8亿美元<small>（2015年）</small>\[1\] | operating_income = 24.17亿美元<small>（2015年）</small>\[2\] | net_income = 14.13亿美元<small>（2015年）</small>\[3\] | assets = 237.6亿美元<small>（2015年）</small>\[4\] | equity = 55.63亿美元<small>（2015年）</small>\[5\] | owner = [全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")<small>（占股80%）</small> | divisions =  | subsid =  | homepage =  }}
 

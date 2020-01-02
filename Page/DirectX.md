@@ -1,3 +1,6 @@
+> 本文内容由[DirectX](https://zh.wikipedia.org/wiki/DirectX)转换而来。
+
+
 **DirectX**（，[縮寫](../Page/縮寫.md "wikilink")：）是由[微软](../Page/微软.md "wikilink")公司建立的一系列專為多媒體以及遊戲開發的[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。旗下包含[Direct3D](../Page/Direct3D.md "wikilink")、[Direct2D](../Page/Direct2D.md "wikilink")、[DirectCompute](../Page/DirectCompute.md "wikilink")等等多個不同用途的子部份，因為這一系列[API皆以Direct字樣開頭](https://zh.wikipedia.org/wiki/API "wikilink")，所以DirectX（只要把X字母替換為任何一個特定API的名字）就成為這一巨大的API系列的統稱。目前最新版本為DirectX 12，隨附於Windows 10作業系統之上。
 
 DirectX被广泛用于Microsoft Windows、Microsoft Xbox电子游戏开发，并且-{只}-能支持这些平台。除了遊戲開發之外，DirectX亦被用於開發許多虛擬三維圖形相關軟體。[Direct3D](../Page/Direct3D.md "wikilink")是DirectX中最廣為應用的子模塊，所以有時候這兩個名詞可以互相代稱。

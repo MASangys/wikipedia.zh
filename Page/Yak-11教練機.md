@@ -1,3 +1,6 @@
+> 本文内容由[Yak-11教練機](https://zh.wikipedia.org/wiki/Yak-11教練機)转换而来。
+
+
 **Yak-11教練機**是[Yak-3戰鬥機換上風冷發動機的雙座教練機型](https://zh.wikipedia.org/wiki/Yak-3戰鬥機 "wikilink")，由20世紀40年代後期成為[蘇聯教練機和表演機](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，曾外銷東歐和中國。
 
 ## 历史

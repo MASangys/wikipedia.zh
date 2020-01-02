@@ -1,3 +1,6 @@
+> 本文内容由[OpenTTD](https://zh.wikipedia.org/wiki/OpenTTD)转换而来。
+
+
 [OpenTTD-1.0.1-en.png](https://zh.wikipedia.org/wiki/File:OpenTTD-1.0.1-en.png "fig:OpenTTD-1.0.1-en.png")
 
 **OpenTTD**（全稱：***Open** **T**ransport **T**ycoon **D**eluxe*）是游戏[豪華版交通大亨的](https://zh.wikipedia.org/wiki/豪華版交通大亨 "wikilink")[開放源碼的](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[復刻版](../Page/重製.md "wikilink")，早前的版本必须使用原版的数据文件。

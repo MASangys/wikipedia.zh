@@ -1,3 +1,6 @@
+> 本文内容由[DUEL SAVIOR](https://zh.wikipedia.org/wiki/DUEL_SAVIOR)转换而来。
+
+
 《**DUEL SAVIOR**》是[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2004年10月1日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險及](../Page/戀愛遊戲.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")\[1\]。2005年7月29日發售追加[資料片的](https://zh.wikipedia.org/wiki/資料片 "wikilink")《**[DUEL SAVIOR JUSTICE](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_JUSTICE "wikilink")**》。同年12月22日，[Alchemist](../Page/Alchemist.md "wikilink")發售移植到[PlayStation 2主機上的](../Page/PlayStation_2.md "wikilink")《**[DUEL SAVIOR DESTINY](https://zh.wikipedia.org/wiki/#DUEL_SAVIOR_DESTINY "wikilink")**》\[2\]。
 
 ## 遊戲系統

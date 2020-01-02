@@ -1,3 +1,6 @@
+> 本文内容由[HTML](https://zh.wikipedia.org/wiki/HTML)转换而来。
+
+
 **超文本标记语言**（，简称：**HTML**）是一种用于创建[网页的标准](https://zh.wikipedia.org/wiki/网页 "wikilink")[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。HTML是一种基础技术，常与[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")一起被众多网站用于设计网页、网页应用程序以及移动应用程序的用户界面\[1\]。[网页浏览器](../Page/网页浏览器.md "wikilink")可以读取HTML文件，并将其渲染成可视化网页。HTML描述了一个网站的结构语义随着线索的呈现，使之成为一种标记语言而非[编程语言](../Page/编程语言.md "wikilink")。
 
 [HTML元素](../Page/HTML元素.md "wikilink")是构建网站的基石。HTML允许嵌入图像与对象，并且可以用于创建交互式表单，它被用来结构化信息——例如标题、段落和列表等等，也可用来在一定程度上描述文档的外观和[语义](https://zh.wikipedia.org/wiki/语义 "wikilink")。HTML的语言形式为[尖括号包围的HTML元素](../Page/括号.md "wikilink")（如），浏览器使用HTML标签和脚本来诠释网页内容，但不会将它们显示在页面上。

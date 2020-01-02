@@ -1,3 +1,6 @@
+> 本文内容由[C+偵探](https://zh.wikipedia.org/wiki/C+偵探)转换而来。
+
+
 《**C+偵探**》（）是一部2007年的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，由[彭順擔任執導](https://zh.wikipedia.org/wiki/彭順 "wikilink")，以及由[郭富城](../Page/郭富城.md "wikilink")、[廖啟智](../Page/廖啟智.md "wikilink")、[成奎安](../Page/成奎安.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[黃德斌](../Page/黃德斌.md "wikilink")等擔任演出，此電影全部在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")取景拍攝，內容主要講述[私家偵探調查案件的故事](https://zh.wikipedia.org/wiki/私家偵探 "wikilink")。
 
 另外有一部續集電影《[B+偵探](../Page/B+偵探.md "wikilink")》於2009年10月在泰國曼谷開機拍攝，於2010年3月至5月期間，泰國曼谷發生[紅衫軍示威](../Page/反獨裁民主聯盟.md "wikilink")，續集電影已經暫停拍攝，因此續集電影的煞科戲尚未拍攝，於2010年7月，續集電影終於在泰國曼谷拍攝煞科戲便完成，之後正式殺青而展開後期製作，並於2011年5月12日在香港上映\[1\]。

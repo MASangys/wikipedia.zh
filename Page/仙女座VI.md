@@ -1,3 +1,6 @@
+> 本文内容由[仙女座VI](https://zh.wikipedia.org/wiki/仙女座VI)转换而来。
+
+
 **飛馬座矮橢球星系**（也稱為**仙女座 Ⅵ**或縮寫為*Peg dSph*）距離270萬[光年](../Page/光年.md "wikilink")，是位於[飛馬座的一個](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")。飛馬座矮橢球星系是[本星系群](../Page/本星系群.md "wikilink")的成員，也是[M31的](../Page/仙女座星系.md "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")。
 
 ## 一般資訊

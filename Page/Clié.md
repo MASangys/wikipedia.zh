@@ -1,3 +1,6 @@
+> 本文内容由[Clié](https://zh.wikipedia.org/wiki/Clié)转换而来。
+
+
 [Sony_Clie_logo.svg](https://zh.wikipedia.org/wiki/File:Sony_Clie_logo.svg "fig:Sony_Clie_logo.svg")
 
 **Clié**是[索尼推出的](https://zh.wikipedia.org/wiki/Sony公司 "wikilink")[個人數-{zh-hans:码;zh-hk:碼;zh-tw:位;}-助理](https://zh.wikipedia.org/wiki/PDA "wikilink")（PDA）。Clié是來自[法語意即](https://zh.wikipedia.org/wiki/法語 "wikilink")「筆記本」的意思，也代表「Communication」、「Link」、「Information」、「Entertainment」四個涵義。[索尼希望它成為個人的娛樂助理](https://zh.wikipedia.org/wiki/Sony公司 "wikilink")，而[奔邁公司自身的產品則更加偏于商務應用](../Page/Palm.md "wikilink")。新力的**Clié**在2004年6月退出歐美市場等地區的海外市場，2005年2月停止了在日本的生產和銷售。

@@ -1,3 +1,6 @@
+> 本文内容由[PACO與魔法繪本](https://zh.wikipedia.org/wiki/PACO與魔法繪本)转换而来。
+
+
 ，是以2004年在[日本](../Page/日本.md "wikilink")全國8城市公演的[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")「**MIDSUMMER CAROL 青蛙王子vs小龍蝦魔人**」為基礎改編的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 簡介

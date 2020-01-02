@@ -1,3 +1,6 @@
+> 本文内容由[MikuMikuDance](https://zh.wikipedia.org/wiki/MikuMikuDance)转换而来。
+
+
 **MikuMikuDance**，簡稱為**MMD**，又稱**未來未來舞**、**萌萌躂**，是所開發的一款免費的[3D動畫製作軟體](https://zh.wikipedia.org/wiki/3D動畫 "wikilink")，通过其他3D建模軟體將[VOCALOID](../Page/VOCALOID.md "wikilink")的[初音未來](../Page/初音未來.md "wikilink")等角色製作成3D模組后導入MikuMikuDance進行動畫製作。「MMD」也用來稱呼以此軟件製作的動畫。
 
 ## 概要

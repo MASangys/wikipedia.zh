@@ -1,3 +1,6 @@
+> 本文内容由[Múm](https://zh.wikipedia.org/wiki/Múm)转换而来。
+
+
 **múm**，[冰島的](https://zh.wikipedia.org/wiki/冰島 "wikilink")[實驗](../Page/實驗音樂.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 作品列表

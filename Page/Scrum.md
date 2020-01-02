@@ -1,3 +1,6 @@
+> 本文内容由[Scrum](https://zh.wikipedia.org/wiki/Scrum)转换而来。
+
+
 {{ otheruses | subject=一種軟體開發流程| other=橄欖球運動裡的爭球方法|列陣爭球}} [缩略图](https://zh.wikipedia.org/wiki/File:ScrumKim.png "fig:缩略图")
 
 **Scrum**是一种[敏捷软件开发](../Page/敏捷软件开发.md "wikilink")的[方法學](https://zh.wikipedia.org/wiki/方法學 "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](https://zh.wikipedia.org/wiki/橄榄球 "wikilink")[列陣爭球](../Page/列陣爭球.md "wikilink")的意思。

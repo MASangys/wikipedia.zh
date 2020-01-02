@@ -1,3 +1,6 @@
+> 本文内容由[Evergreen \(軟件\)](https://zh.wikipedia.org/wiki/Evergreen_\(軟件\))转换而来。
+
+
 **Evergreen**是一個[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")（[GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")）的[圖書館自動化](https://zh.wikipedia.org/wiki/圖書館自動化 "wikilink")（ILS），讀者可以[萬維網實現圖書的查找和借閱](https://zh.wikipedia.org/wiki/萬維網 "wikilink")，許多北美的[圖書館都使用它](https://zh.wikipedia.org/wiki/圖書館 "wikilink")。\[1\] \[2\]
 
 ## 功能

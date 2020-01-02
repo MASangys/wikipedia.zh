@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 5D Mark II](https://zh.wikipedia.org/wiki/佳能_EOS_5D_Mark_II)转换而来。
+
+
 **佳能 EOS 5D Mark II**是[佳能EOS系列](../Page/佳能EOS系列.md "wikilink")的一部2100万[像素](../Page/像素.md "wikilink")级别的[全片幅數位單眼相機](https://zh.wikipedia.org/wiki/全片幅數位單眼相機 "wikilink")。5D Mark II作为之前大受业余摄影爱好者欢迎的全片幅机型[佳能 EOS 5D的后续机型](../Page/佳能_EOS_5D.md "wikilink")，发布于2008年9月17日。由于谐音的原因，5D Mark II在大陆\[1\]和台湾用户中常被称为“**無敵兔**”\[2\]。
 
 ## 与5D的对比

@@ -1,3 +1,6 @@
+> 本文内容由[FluxBB](https://zh.wikipedia.org/wiki/FluxBB)转换而来。
+
+
 **FluxBB**是個快速、輕巧的[PHP](../Page/PHP.md "wikilink")架構的[網路論壇系統](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，以[GPL協議發行](https://zh.wikipedia.org/wiki/GPL "wikilink")。FluxBB的宗旨是變得與別的論壇系統相比更快、更小、少圖形，也具有較少的功能與更精簡的程式碼。大多數“沒有”的功能，有需要時可藉由[插件](../Page/插件.md "wikilink")來實現。FluxBB的頁面完整符合[XHTML](../Page/XHTML.md "wikilink")與[CSS標準](https://zh.wikipedia.org/wiki/CSS "wikilink")。\[1\]
 
 目前FluxBB可以在各種[作業系統下運作](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，並支援[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")等[資料庫系統](https://zh.wikipedia.org/wiki/資料庫 "wikilink")。\[2\]

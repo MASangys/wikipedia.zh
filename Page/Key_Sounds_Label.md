@@ -1,3 +1,6 @@
+> 本文内容由[Key Sounds Label](https://zh.wikipedia.org/wiki/Key_Sounds_Label)转换而来。
+
+
 **Key Sounds Label**是電腦遊戲軟件製作公司的[Visual Art's旗下的一個品牌](../Page/Visual_Art's.md "wikilink")，遊戲品牌・[Key的自社商標](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")。亦有使用**KSL**略稱。產品編號由「KSLA-」開始。
 
 作品會經由[Comic Market發售](../Page/Comic_Market.md "wikilink")，很多時候也會移到一般的商店發售。

@@ -1,3 +1,6 @@
+> 本文内容由[2007年度YAHOO!搜尋人氣大獎得獎名單](https://zh.wikipedia.org/wiki/2007年度YAHOO!搜尋人氣大獎得獎名單)转换而来。
+
+
 **2007年度YAHOO\!搜尋人氣大獎**，（又稱**第5屆Yahoo！搜尋人氣大獎**），於2007年12月23日假[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")[Star Hall舉行](https://zh.wikipedia.org/wiki/EMax#匯星 "wikilink")，主題為「搜尋最愛 閃亮五載 人氣獎項 由你主宰」，當晚共頒發47個項目，當中17項為[音樂獎項](https://zh.wikipedia.org/wiki/音樂 "wikilink")，13項為[電視及](https://zh.wikipedia.org/wiki/電視 "wikilink")[電影獎項](https://zh.wikipedia.org/wiki/電影 "wikilink")，5項為時事獎項，3項為潮流獎項，更設5項至尊獎項，為首次以[音樂會形式舉行](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，並把門券收入轉至[慈善團體](https://zh.wikipedia.org/wiki/慈善團體 "wikilink")。以下為當晚的得獎名單：
 
 ## 得獎名單

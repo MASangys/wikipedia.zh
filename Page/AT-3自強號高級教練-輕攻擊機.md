@@ -1,3 +1,6 @@
+> 本文内容由[AT-3自強號高級教練-輕攻擊機](https://zh.wikipedia.org/wiki/AT-3自強號高級教練-輕攻擊機)转换而来。
+
+
 **AIDC AT-3**是[中華民國空軍](../Page/中華民國空軍.md "wikilink")現役的高級[教練](../Page/教練機.md "wikilink")／[輕攻擊機](https://zh.wikipedia.org/wiki/攻擊機 "wikilink")，由[中山科學研究院](https://zh.wikipedia.org/wiki/中山科學研究院 "wikilink")[航空工業發展中心](https://zh.wikipedia.org/wiki/航空工業發展中心 "wikilink")（Aerospace Industrial Development Corporation, AIDC，現已改制為[漢翔航空工業股份有限公司](https://zh.wikipedia.org/wiki/漢翔航空工業股份有限公司 "wikilink")）與[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[諾斯諾普](https://zh.wikipedia.org/wiki/諾斯諾普 "wikilink")（Northrop）公司（購併[格魯曼](https://zh.wikipedia.org/wiki/格魯曼 "wikilink")（Grumman）公司後，改名為[諾斯諾普·格魯曼](https://zh.wikipedia.org/wiki/諾斯諾普·格魯曼 "wikilink")（Northrop Grumman）公司）合作研發，共生產65架。
 
 AT-3的AT是Attack(攻擊)，Trainer(教練機)，因此AT-3除了平時教練用途外，戰時也可擔任輕攻擊,對地炸射等任務

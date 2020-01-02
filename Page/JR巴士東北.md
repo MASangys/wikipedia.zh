@@ -1,3 +1,6 @@
+> 本文内容由[JR巴士東北](https://zh.wikipedia.org/wiki/JR巴士東北)转换而来。
+
+
 [JRBusTohoku_647-8972.jpg](https://zh.wikipedia.org/wiki/File:JRBusTohoku_647-8972.jpg "fig:JRBusTohoku_647-8972.jpg") **JR巴士東北**（）是在日本[東北地方](https://zh.wikipedia.org/wiki/東北地方 "wikilink")（不含[福島縣白河](https://zh.wikipedia.org/wiki/福島縣 "wikilink")、棚倉地區）經營的[巴士業者](https://zh.wikipedia.org/wiki/巴士 "wikilink")，屬於[JR東日本集團旗下獨資](https://zh.wikipedia.org/wiki/JR東日本 "wikilink")[子公司](../Page/子公司.md "wikilink")。公司成立于1988年（昭和63年）3月5日。
 
 ## 支店・營業所

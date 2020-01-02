@@ -1,3 +1,6 @@
+> 本文内容由[Nvu](https://zh.wikipedia.org/wiki/Nvu)转换而来。
+
+
 **Nvu**（發音N-view）是個[所見即所得的](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")[萬維網網頁處理系統](https://zh.wikipedia.org/wiki/萬維網 "wikilink")，它是[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，建基於[Mozilla Composer](../Page/Mozilla_Composer.md "wikilink")。它的目標是能與商業的網站開發工具如[Microsoft FrontPage和](../Page/Microsoft_FrontPage.md "wikilink")[Macromedia Dreamweaver爭一日之長短](https://zh.wikipedia.org/wiki/Macromedia_Dreamweaver "wikilink")，及成為[Linux](../Page/Linux.md "wikilink")上最重要的所見即所得編輯器。Nvu的設計是極為適合非專業的電腦使用者。並不強調需要[HTML](../Page/HTML.md "wikilink")或[CSS的知識](https://zh.wikipedia.org/wiki/CSS "wikilink")。
 
 Nvu的作者為[Daniel Glazman](https://zh.wikipedia.org/wiki/Daniel_Glazman "wikilink")，這個計劃由[Linspire](../Page/Linspire.md "wikilink")（以前稱作Lindows）贊助。

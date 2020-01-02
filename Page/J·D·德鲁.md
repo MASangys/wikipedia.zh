@@ -1,3 +1,6 @@
+> 本文内容由[J·D·德鲁](https://zh.wikipedia.org/wiki/J·D·德鲁)转换而来。
+
+
 **大卫·乔纳森·德鲁**（'''David Jonathan "J. D." Drew '''、）是效力于[美国职棒大联盟](https://zh.wikipedia.org/wiki/美国职棒大联盟 "wikilink")[波士顿红袜队的](https://zh.wikipedia.org/wiki/波士顿红袜 "wikilink")[右外野手](https://zh.wikipedia.org/wiki/右外野手 "wikilink")。
 
 ## 大学时期

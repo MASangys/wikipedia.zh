@@ -1,3 +1,6 @@
+> 本文内容由[TJS2](https://zh.wikipedia.org/wiki/TJS2)转换而来。
+
+
 **TJS2**，即是第二代 TJS ，是種一由 W.Dee 開發，主要用於[吉里吉里](../Page/吉里吉里.md "wikilink")的[內嵌式](https://zh.wikipedia.org/wiki/腳本語言#扩展/可嵌入语言 "wikilink")[腳本](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")[程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")。
 
 ## 概述

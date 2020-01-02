@@ -1,3 +1,6 @@
+> 本文内容由[JR東海巴士](https://zh.wikipedia.org/wiki/JR東海巴士)转换而来。
+
+
 [Jrtokaibus-shinjukulinerhama-20070202.jpg](https://zh.wikipedia.org/wiki/File:Jrtokaibus-shinjukulinerhama-20070202.jpg "fig:Jrtokaibus-shinjukulinerhama-20070202.jpg") **JR東海巴士**（）是[JR東海全資持有負責經營](https://zh.wikipedia.org/wiki/JR東海 "wikilink")[巴士業務的](https://zh.wikipedia.org/wiki/巴士 "wikilink")[公司](../Page/公司.md "wikilink")\[1\]。
 
 ## 歷史

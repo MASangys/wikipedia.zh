@@ -1,3 +1,6 @@
+> 本文内容由[No way to say](https://zh.wikipedia.org/wiki/No_way_to_say)转换而来。
+
+
 《**No way to say**》（難以言喻）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第31張單曲，2003年11月6日於日本發行。
 
 ## 說明

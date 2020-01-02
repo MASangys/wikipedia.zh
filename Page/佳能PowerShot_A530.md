@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot A530](https://zh.wikipedia.org/wiki/佳能PowerShot_A530)转换而来。
+
+
 [Canon_PowerShot_A530.jpg](https://zh.wikipedia.org/wiki/File:Canon_PowerShot_A530.jpg "fig:Canon_PowerShot_A530.jpg")
 
 **佳能 PowerShot A530**是一款[佳能](../Page/佳能.md "wikilink")相机，于[2006年3月](../Page/2006年3月.md "wikilink")推出。A530是Canon PowerShot 500系列里比较奇怪的一款机器，

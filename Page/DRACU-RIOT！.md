@@ -1,3 +1,6 @@
+> 本文内容由[DRACU-RIOT！](https://zh.wikipedia.org/wiki/DRACU-RIOT！)转换而来。
+
+
 《**DRACU-RIOT\!**》（）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2012年3月30日發售的[戀愛冒險類型成人遊戲](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")。\[1\]YUZUSOFT的第六部作品。名稱是由和（[暴動](https://zh.wikipedia.org/wiki/暴動 "wikilink")）所組合而成的詞。標語是「童貞畢業的計畫卻連人類之身也失去了」（）。
 
 ## 故事背景

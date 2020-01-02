@@ -1,3 +1,6 @@
+> 本文内容由[JTBC](https://zh.wikipedia.org/wiki/JTBC)转换而来。
+
+
 **中央東洋廣播公司**（），[簡稱](https://zh.wikipedia.org/wiki/簡稱 "wikilink")**JTBC**，是[韓國一家](https://zh.wikipedia.org/wiki/韓國 "wikilink")[衛星與](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[有線電視台](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，自2011年12月1日起開播，為[綜合編成頻道](../Page/綜合編成頻道.md "wikilink")四台之一。綜編4社中，JTBC投入資金最多，為4,220億韓元，這是韓國傳媒產業歷史上最大規模。前身為1980年遭[全斗煥](../Page/全斗煥.md "wikilink")政府以「[言論統廢合](https://zh.wikipedia.org/wiki/言論統廢合 "wikilink")」政策強行停播廣播電視公司之一的[東洋廣播公司](../Page/東洋廣播公司.md "wikilink")（TBC），因2008年[李明博](../Page/李明博.md "wikilink")政府通過韓國廣播相關法令增修，開放各大報業集團經營電視業務，在韓國《[中央日報](../Page/中央日報_\(韓國\).md "wikilink")》報社支持下，TBC得以「復播」，新的電視台即將代表中央日報的J加入名稱。
 
 2016年，[韓國總統](https://zh.wikipedia.org/wiki/韓國總統 "wikilink")[朴槿惠](../Page/朴槿惠.md "wikilink")的閨蜜[崔順實](../Page/崔順實.md "wikilink")[干政醜聞](../Page/2016年崔順實干政醜聞.md "wikilink")，即由JTBC新聞部主管兼當家主播[孫石熙](../Page/孫石熙.md "wikilink")在其主持的《[JTBC新聞室](https://zh.wikipedia.org/wiki/JTBC新聞室 "wikilink")》所揭發與報導；JTBC新聞被認為是韓國最具公信力新聞節目之一，收視率曾超越無線電視台[MBC及](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[SBS](../Page/SBS_\(韓國\).md "wikilink")。\[1\]\[2\]

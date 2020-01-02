@@ -1,3 +1,6 @@
+> 本文内容由[Crimson Fields](https://zh.wikipedia.org/wiki/Crimson_Fields)转换而来。
+
+
 {{ Infobox VG | title = Crimson Fields | image = <File:Crimson> Fields.png | caption = 游戏图标 | genre = [回合制策略](../Page/回合制策略游戏.md "wikilink") | developer = Harald Obermaier | platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }}
 
 **Crimson Fields**是 [免费](../Page/自由软件.md "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[回合制策略遊戲](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")，深受[战岛系列影响](https://zh.wikipedia.org/wiki/战岛_\(游戏系列\) "wikilink")\[1\]。

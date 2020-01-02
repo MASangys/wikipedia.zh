@@ -1,3 +1,6 @@
+> 本文内容由[Grad突擊步槍](https://zh.wikipedia.org/wiki/Grad突擊步槍)转换而来。
+
+
 **Grad**是在[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[北奧塞梯-阿蘭共和國内被發現的一種](https://zh.wikipedia.org/wiki/北奧塞梯-阿蘭共和國 "wikilink")[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，亦是[AK-74突擊步槍的一種變種槍](https://zh.wikipedia.org/wiki/AK-74突擊步槍 "wikilink")。
 
 ## 歷史

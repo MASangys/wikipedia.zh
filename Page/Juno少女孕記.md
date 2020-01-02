@@ -1,3 +1,6 @@
+> 本文内容由[Juno少女孕記](https://zh.wikipedia.org/wiki/Juno少女孕記)转换而来。
+
+
 </ref> | cn_name = 朱诺 | image = Junoposter2007.jpg | genre = [喜劇](../Page/喜劇.md "wikilink")、[正剧](https://zh.wikipedia.org/wiki/正剧 "wikilink") | director = [杰森·雷特曼](https://zh.wikipedia.org/wiki/杰森·雷特曼 "wikilink") | producer = [约翰·马尔科维奇](https://zh.wikipedia.org/wiki/约翰·马尔科维奇 "wikilink")
 连妮·霍芬（Lianne Halfon）
 卢塞尔·史密斯（Russell Smith）

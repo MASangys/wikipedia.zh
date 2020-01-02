@@ -1,3 +1,6 @@
+> 本文内容由[Redefine](https://zh.wikipedia.org/wiki/Redefine)转换而来。
+
+
 《**Redefine**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周勵淇](../Page/周勵淇.md "wikilink")的第4張音樂專輯，於2009年1月20日推出。由於第一版火速售罄，因此唱片公司加印了第二版，並於2月13日推出，歌曲與第一版無異，但唱片封套及相集卻更換了，另外多送一張明信片。
 
 ## 簡介

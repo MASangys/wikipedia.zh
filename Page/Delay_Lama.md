@@ -1,3 +1,6 @@
+> 本文内容由[Delay Lama](https://zh.wikipedia.org/wiki/Delay_Lama)转换而来。
+
+
 **Delay Lama**是一個[VST工具](https://zh.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")，使用時會出現[藏傳佛教](../Page/藏傳佛教.md "wikilink")[喇嘛](../Page/喇嘛.md "wikilink")的[三維影像](https://zh.wikipedia.org/wiki/三維 "wikilink")，以類似唸經的聲音歌唱。Delay Lama之名為[達賴喇嘛的諧音](https://zh.wikipedia.org/wiki/達賴喇嘛 "wikilink")。
 
 ## 背景

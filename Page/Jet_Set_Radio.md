@@ -1,3 +1,6 @@
+> 本文内容由[Jet Set Radio](https://zh.wikipedia.org/wiki/Jet_Set_Radio)转换而来。
+
+
 是一款由[Smilebit開發](https://zh.wikipedia.org/wiki/SEGA_Sports_R&D "wikilink")、[SEGA發行的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")主機[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")。該遊戲在2000年6月9日於日本推出，同年10月30日在北美上市，接著於11月24日在歐洲發售。之後，[Vicarious Visions製作的](../Page/Vicarious_Visions.md "wikilink")[Game Boy Advance移植版本由](../Page/Game_Boy_Advance.md "wikilink")[THQ在](https://zh.wikipedia.org/wiki/THQ "wikilink")2004年6月26日於北美、2004年2月20日於歐洲推出。2012年9月，Blit Software制作的高畫質（HD）版本在[Xbox Live Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[PlayStation Network和](../Page/PlayStation_Network.md "wikilink")[Windows上發售](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。在SEGA轉型為軟體公司後，其續作《[Jet Set Radio Future](https://zh.wikipedia.org/wiki/Jet_Set_Radio_Future "wikilink")》於2002年在[Xbox](../Page/Xbox.md "wikilink")上推出。本作品以[卡通渲染](../Page/卡通渲染.md "wikilink")的視覺風格在遊戲界中成為知名作品。
 
 ## 遊戲內容

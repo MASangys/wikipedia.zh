@@ -1,3 +1,6 @@
+> 本文内容由[全景 -Panorama-](https://zh.wikipedia.org/wiki/全景_-Panorama-)转换而来。
+
+
 《**パノラマ-Panorama-**》是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第9張單曲CD。 由[KING RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2004年4月7日發售。
 
 ## 收錄曲

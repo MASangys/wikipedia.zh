@@ -1,3 +1,6 @@
+> 本文内容由[TUNNELS的託大家的福](https://zh.wikipedia.org/wiki/TUNNELS的託大家的福)转换而来。
+
+
 《**TUNNELS的託大家的福**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[系列](https://zh.wikipedia.org/wiki/富士網 "wikilink")1997年6月26日開始播放的[綜藝節目](../Page/綜藝節目.md "wikilink")，逢[星期四晚](https://zh.wikipedia.org/wiki/星期四 "wikilink")21:00至21:54播出。是[隧道二人組](../Page/隧道二人組.md "wikilink")（TUNNELS）的冠名節目，於2018年3月22日結束（全973回）。
 
 節目開創了多種綜藝模式。其中「牆來了」環節被40多個國家購買了模式版權。此外，「偏食王決定戰」、「扭扭捏捏君」、「到著名藝人家中過夜」、「髒亂美食店」、「○○，買××」等環節也廣受歡迎。紅極一時的「[野猿](https://zh.wikipedia.org/wiki/野猿 "wikilink")」和「[矢島美容室](https://zh.wikipedia.org/wiki/矢島美容室 "wikilink")」等組合也是出自本節目。
@@ -13,7 +16,7 @@
 ### 準班底
 
   - [小木矢作](https://zh.wikipedia.org/wiki/小木矢作 "wikilink")（[小木博明](https://zh.wikipedia.org/wiki/小木博明 "wikilink")、[矢作兼](https://zh.wikipedia.org/wiki/矢作兼 "wikilink")）
-  - [香蕉人](../Page/香蕉人_\(搞笑組合\).md "wikilink")（[設樂統](../Page/設樂統.md "wikilink")、[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）
+  - [香蕉人](../Page/香蕉人_\(搞笑組合\).md "wikilink")（[設樂統](../Page/設樂統.md "wikilink")、[日村勇紀](../Page/日村勇紀.md "wikilink")）
   - [有吉弘行](../Page/有吉弘行.md "wikilink")
 
 ### 實況播報員

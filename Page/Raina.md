@@ -1,3 +1,6 @@
+> 本文内容由[Raina](https://zh.wikipedia.org/wiki/Raina)转换而来。
+
+
 **Raina**（諺文：**레이나**），本名**吳惠麟**（諺文：**오혜린**，英文：**Oh Hye-Rin**，）。2009年11月加入韓國女子團體[After School](../Page/After_School.md "wikilink")，隊內擔任第一主唱，為第三期成員。\[1\]Raina同時也是子團體[Orange Caramel的隊長和分隊](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")[After School Blue的成員](https://zh.wikipedia.org/wiki/After_School_Blue "wikilink")。
 
 ## 經歷

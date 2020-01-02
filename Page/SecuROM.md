@@ -1,3 +1,6 @@
+> 本文内容由[SecuROM](https://zh.wikipedia.org/wiki/SecuROM)转换而来。
+
+
 **SecuROM** 是一个保护[CD](../Page/CD.md "wikilink")／[DVD版权的产品](https://zh.wikipedia.org/wiki/DVD "wikilink")，由开发。常用于保护[Microsoft Windows下运行的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")。SecuROM旨在阻止家用刻录机、光盘拷贝机和[逆向工程](../Page/逆向工程.md "wikilink")技术的企图。最新的版本（第4版或更高）在防止1:1的[CD-R拷贝已经取得一定进展](https://zh.wikipedia.org/wiki/CD-R "wikilink")。但某些程序仍可以绕过保护。使用SecuROM是很有争议的，因为保护程序在某些方面有类似恶意软件的行为，并且SecuROM会在用户并不知情的情况自动安装到你的电脑。[EA因这个问题曾被提起诉讼](https://zh.wikipedia.org/wiki/EA "wikilink")\[1\]。
 
 ## SecuROM的版本及检测技术

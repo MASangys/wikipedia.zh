@@ -1,3 +1,6 @@
+> 本文内容由[SQL CLR](https://zh.wikipedia.org/wiki/SQL_CLR)转换而来。
+
+
 [SQL_CLR.png](https://zh.wikipedia.org/wiki/File:SQL_CLR.png "fig:SQL_CLR.png") **SQL CLR** (SQL Common Language Runtime) 是自 SQL Server 2005 才出現的新功能，它將[.NET Framework中的](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[CLR服務注入到](https://zh.wikipedia.org/wiki/Common_Language_Runtime "wikilink") SQL Server 中，讓 SQL Server 的部份資料庫物件可以使用 .NET Framework 的程式語言開發（目前只支援[VB.NET和](https://zh.wikipedia.org/wiki/VB.NET "wikilink")[C\#](../Page/C♯.md "wikilink")），包括[預存程序](../Page/存储程序.md "wikilink")、[使用者自訂函數](https://zh.wikipedia.org/wiki/使用者自訂函數 "wikilink")、[觸發程序](https://zh.wikipedia.org/wiki/触发器_\(数据库\) "wikilink")、[使用者自訂型別以及](https://zh.wikipedia.org/wiki/使用者自訂型別 "wikilink")[使用者自訂彙總函數等功能](https://zh.wikipedia.org/wiki/使用者自訂彙總函數 "wikilink")\[1\]。
 
 ## 架構

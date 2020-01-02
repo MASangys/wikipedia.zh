@@ -1,3 +1,6 @@
+> 本文内容由[MoonShell](https://zh.wikipedia.org/wiki/MoonShell)转换而来。
+
+
 **MoonShell**是由日本软件达人Moonlight开发的在[任天堂](../Page/任天堂.md "wikilink")[NDS上可用的多媒体播放软件](https://zh.wikipedia.org/wiki/NDS "wikilink")\[1\]\[2\]，主要功能包括：音乐播放、视频播放、图片浏览、电子书阅读等\[3\]。它可以播放其专用的DPG格式，支持视频全屏播放，最新版还支持支持Dpg2格式。
 
 软件也可播放MP3/OGG/MOD/SPC/MDX（非PCM）/GBS/HES/NSF/XM/MIDI／低碼率AAC音頻，非漸進JPEG/BMP/GIF/PNG圖像和文字檔案。MoonShell最高可播放全屏20fps／寬屏24fps及32.768千赫Hz聯合立體聲的影片。兩屏幕都可使用，下屏幕更可以選擇文件和控制。綜合插件系統提供的可擴展性的程序的功能。須要添加功能只須插件的文件僅僅是複製到相應的文件夾。

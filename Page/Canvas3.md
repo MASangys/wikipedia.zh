@@ -1,3 +1,6 @@
+> 本文内容由[Canvas3](https://zh.wikipedia.org/wiki/Canvas3)转换而来。
+
+
 《**Canvas3 ～白銀的肖像～**》（是[FC01于](../Page/F&C.md "wikilink")2009年3月20日发行的[18禁](../Page/日本成人遊戲.md "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\][PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")《淡色的粉笔画》（由[GN Software于](../Page/GN_Software.md "wikilink")2009年9月17日发售。\[2\]2009年12月29日發售PC版的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")《VALENTINE PINK》\[3\]，2010年4月23日發售了《VALENTINE PINK完整版》\[4\]。2010年4月22日發售[PSP版](https://zh.wikipedia.org/wiki/PSP "wikilink")《Canvas3 〜七色の奇跡〜》。\[5\]
 
 ## 剧情简介

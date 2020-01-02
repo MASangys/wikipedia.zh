@@ -1,3 +1,6 @@
+> 本文内容由[MS-DOS](https://zh.wikipedia.org/wiki/MS-DOS)转换而来。
+
+
 **微軟磁碟作業系統**，**MS-DOS**，的縮寫，一個由美国[微软](../Page/微软.md "wikilink")公司發展的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，運行在[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[個人電腦上](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。它是[DOS](../Page/DOS.md "wikilink")作業系統家族中最著名的一個，在[Windows 95以前](../Page/Windows_95.md "wikilink")，[DOS](../Page/DOS.md "wikilink")是[IBM PC及](../Page/IBM_PC.md "wikilink")[兼容机中的最基本配备](../Page/IBM_PC兼容机.md "wikilink")，而MS-DOS则是[个人电脑](../Page/个人电脑.md "wikilink")中最普遍使用的DOS操作系统。
 
 ## 概觀

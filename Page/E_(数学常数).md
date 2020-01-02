@@ -1,3 +1,6 @@
+> 本文内容由[E \(数学常数\)](https://zh.wikipedia.org/wiki/E_\(数学常数\))转换而来。
+
+
 [Exp_derivative_at_0.svg](https://zh.wikipedia.org/wiki/File:Exp_derivative_at_0.svg "fig:Exp_derivative_at_0.svg")（切线的[斜率](../Page/斜率.md "wikilink")）值为1之\(a\)的唯一值。对比一下，函数\(2^x\)（虚点曲线）和\(4^x\)（虚线曲线）和斜率为1、*y*-截距为1的直线（红色）并不相切。\]\]
 
 \(e\)，作为[數學常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")，是[自然對數](../Page/自然對數.md "wikilink")[函數的](https://zh.wikipedia.org/wiki/函數 "wikilink")[底數](https://zh.wikipedia.org/wiki/底数_\(对数\) "wikilink")。有時被稱為**歐拉數**（），以瑞士數學家[歐拉命名](https://zh.wikipedia.org/wiki/歐拉 "wikilink")；還有個較少見的名字**納皮爾常數**，用來紀念[蘇格蘭](../Page/蘇格蘭.md "wikilink")數學家[約翰·納皮爾](../Page/約翰·納皮爾.md "wikilink")引進[對數](https://zh.wikipedia.org/wiki/對數 "wikilink")。它是一个无限不循环小数，數值約是（小數點後20位，）：

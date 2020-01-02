@@ -1,3 +1,6 @@
+> 本文内容由[卡拉OK Live·台北·我](https://zh.wikipedia.org/wiki/卡拉OK_Live·台北·我)转换而来。
+
+
 **《卡拉OK.LIVE！‧台北‧我》**是[张雨生發行的第六張國語專輯](https://zh.wikipedia.org/wiki/张雨生 "wikilink")，專輯中所有歌曲的詞曲皆由張雨生自己創作，並以弦樂四重奏樂團現場方式表現。更締造了台灣流行音樂界秒數最長的唱片。然而，由於當時對[香港](../Page/香港.md "wikilink")「[四大天王](https://zh.wikipedia.org/wiki/四大天王_\(歌手\) "wikilink")」的狂熱風潮，此張專輯賣得只能以「慘澹」來形容。
 
 事實上，張雨生這張專輯內每首歌都是耐聽且有深度的歌，取材探討一些社會問題，包括《動物的悲歌》的流浪動物，此外本首歌也被選入[華視週六晚間單元劇](https://zh.wikipedia.org/wiki/華視 "wikilink")《[納桑麻谷我的家](https://zh.wikipedia.org/wiki/納桑麻谷我的家 "wikilink")》主題曲《永公街的街長》的[身心障礙](../Page/身心障礙.md "wikilink")者。此外，還有屬於個人關懷社會與寫給特定對象的歌曲。張雨生逝世後，[豐華唱片](../Page/豐華唱片.md "wikilink")更以現代錄音技術，讓原來由張雨生獨唱的《我期待》加上[陶晶瑩的聲音](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")，成了兩人對唱。

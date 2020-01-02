@@ -1,3 +1,6 @@
+> 本文内容由[LYRICAL LYRIC](https://zh.wikipedia.org/wiki/LYRICAL_LYRIC)转换而来。
+
+
 《**LYRICAL LYRIC**》（日語：****）是由[MARMALADE](../Page/MARMALADE.md "wikilink")於2007年7月27日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 劇情

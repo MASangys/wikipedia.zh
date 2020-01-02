@@ -1,3 +1,6 @@
+> 本文内容由[Vector \(STL\)](https://zh.wikipedia.org/wiki/Vector_\(STL\))转换而来。
+
+
 **Vector** 是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[類](../Page/类_\(计算机科学\).md "wikilink")，可視為會自動擴展容量的陣列，以循序(Sequential)的方式維護變數集合。vector的特色有支持隨機存取，在集合尾端增刪元素很快，但是在集合中間增刪元素比較費時。vector是[C++標準程式庫中的眾多](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[容器](https://zh.wikipedia.org/wiki/容器_\(資料類型\) "wikilink")（*container*）之一。 vector以[模板](../Page/模板_\(C++\).md "wikilink")(泛型)方式實現，可以保存任意類型的變數，包括使用者自定義的資料型態，例如：它可以是放置整數（int）型態的 vector、也可以是放置字串（string）型態的 vector、或者放置使用者自定類別（user-defined class）的 vector。
 
 ## 設計

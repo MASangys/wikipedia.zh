@@ -1,3 +1,6 @@
+> 本文内容由[Windows Live Messenger](https://zh.wikipedia.org/wiki/Windows_Live_Messenger)转换而来。
+
+
 **Windows Live Messenger**（簡寫**WLM**，俗稱**MSN**），是[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")，現已經結束服務。8.0版本之前称作**MSN Messenger**。預載於[視窗作業系統之中](https://zh.wikipedia.org/wiki/視窗作業系統 "wikilink")，是微软在线服务[Windows Live的一部分](../Page/Windows_Live.md "wikilink")，Windows Live Messenger包括MSN Messenger的全部功能，并再加上新的连接和[共享文件方法](https://zh.wikipedia.org/wiki/共享 "wikilink")，例如支持了MSN Messenger所不支持的离线消息以及离线共享文件。同时，微软也从[Windows Live OneCare中提取出一个](../Page/Windows_Live_OneCare.md "wikilink")[-{zh-hans:杀毒组件; zh-hant:防毒元件;}-](https://zh.wikipedia.org/wiki/防毒軟件 "wikilink")，专供Windows Live Messenger用于扫描接收到的文件。
 
 Windows Live Messenger曾是很多人使用的即時通訊軟體，結束服務前最晚版本除了有基本的文字通訊之外，還支援視訊會議、語音交談、多人會議、連線遊戲等等延伸功能，並且容許使用者在對話中插入它提供的[圖示](https://zh.wikipedia.org/wiki/表情符號_\(圖片\) "wikilink")，也容許使用者自己添加更多圖示。自第6版起它更能使用者個性化，例如自訂[表情符號](https://zh.wikipedia.org/wiki/表情符號_\(圖片\) "wikilink")、對話視窗的背景和主題、顯示圖片等。除此，還有一群軟體設計師為它製作第三方的附加軟體。

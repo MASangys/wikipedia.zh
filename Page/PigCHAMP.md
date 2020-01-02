@@ -1,3 +1,6 @@
+> 本文内容由[PigCHAMP](https://zh.wikipedia.org/wiki/PigCHAMP)转换而来。
+
+
 **PigCHAMP**是[北美著名的](https://zh.wikipedia.org/wiki/北美 "wikilink")[猪场管理软件](https://zh.wikipedia.org/wiki/猪场管理软件 "wikilink")。PigCHAMP最初于20世纪80年代早期由[明尼苏达州立大学兽医学院开发](https://zh.wikipedia.org/wiki/明尼苏达州立大学 "wikilink")，最初的开发目的是用于采集科研数据\[1\]。
 
 PigCHAMP的“CHAMP”是“计算机保健及管理程序”（Computerized Health and Management Program）的[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")\[2\]。

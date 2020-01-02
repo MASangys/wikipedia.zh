@@ -1,3 +1,6 @@
+> 本文内容由[Java注解](https://zh.wikipedia.org/wiki/Java注解)转换而来。
+
+
 **Java注解**又称**Java标注**，是[Java](../Page/Java.md "wikilink")语言5.0版本开始支持加入[源代码](../Page/源代码.md "wikilink")的特殊语法[元数据](../Page/元数据.md "wikilink")\[1\]。
 
 Java语言中的类、方法、变量、参数和包等都可以被标注。和[Javadoc](../Page/Javadoc.md "wikilink")不同，Java标注可以通过反射获取标注内容。在[编译器生成](https://zh.wikipedia.org/wiki/编译器 "wikilink")[类文件时](https://zh.wikipedia.org/wiki/类文件 "wikilink")，标注可以被嵌入到[字节码中](https://zh.wikipedia.org/wiki/字节码 "wikilink")。[Java虚拟机](../Page/Java虚拟机.md "wikilink")可以保留标注内容，在运行时可以获取到标注内容\[2\]。 当然它也支持自定义Java标注\[3\]

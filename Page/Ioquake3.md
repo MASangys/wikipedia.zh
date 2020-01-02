@@ -1,3 +1,6 @@
+> 本文内容由[Ioquake3](https://zh.wikipedia.org/wiki/Ioquake3)转换而来。
+
+
 **ioquake3**(*ioq3*,*icculus.org/quake3* )是[雷神之锤3引擎的修改版本](https://zh.wikipedia.org/wiki/雷神之锤3 "wikilink")（[Fork](https://zh.wikipedia.org/wiki/Fork "wikilink")），但不支持[PunkBuster](../Page/PunkBuster.md "wikilink")。 已经用于[Urban Terror](../Page/Urban_Terror.md "wikilink")，[OpenArena](../Page/OpenArena.md "wikilink")，[World of Padman](https://zh.wikipedia.org/wiki/World_of_Padman "wikilink")，[Tremulous](https://zh.wikipedia.org/wiki/Tremulous "wikilink")，[Star Trek: Voyager: Elite Force](https://zh.wikipedia.org/wiki/Star_Trek:_Voyager:_Elite_Force "wikilink")，[OpenMoHAA](https://zh.wikipedia.org/wiki/OpenMoHAA "wikilink")。而[Smokin' Guns开发组正在向此引擎迈进](../Page/Smokin'_Guns.md "wikilink")。
 
 ## 改进

@@ -1,3 +1,6 @@
+> 本文内容由[HBOS](https://zh.wikipedia.org/wiki/HBOS)转换而来。
+
+
 **HBOS公司**，是英國一家從事銀行及保險業務的公司，在2009年1月被[萊斯銀行集團接管](https://zh.wikipedia.org/wiki/萊斯銀行集團 "wikilink")。HBOS公司是[蘇格蘭銀行的](https://zh.wikipedia.org/wiki/蘇格蘭銀行 "wikilink")[控股公司](../Page/控股公司.md "wikilink")，在英國經營蘇格蘭銀行與品牌，以及HBOS澳洲與HBOS保險與投資集團有限公司。
 
 HBOS成立於2001年，是由哈利法克斯有限公司和蘇格蘭銀行合併而成\[1\]，合併後公司成為英國第五大銀行，規模與開業超過百年的[四大英國零售銀行相當](https://zh.wikipedia.org/wiki/四大銀行 "wikilink")，但她卻是英國最大的抵押貸款銀行\[2\]。[2006年HBOS集團重組法把哈利法克斯有限公司轉移至蘇格蘭銀行](https://zh.wikipedia.org/wiki/2006年HBOS集團重組法 "wikilink")，即現今的蘇格蘭銀行有限公司。

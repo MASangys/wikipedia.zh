@@ -1,3 +1,6 @@
+> 本文内容由[DRACO](https://zh.wikipedia.org/wiki/DRACO)转换而来。
+
+
 **DRACO**，即**双链核糖核酸激活的细胞凋亡蛋白酶聚合体**\[1\]（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink"):Double-stranded RNA (dsRNA) Activated Caspase Oligomerizer）是美国[麻省理工大学林肯实验室的](https://zh.wikipedia.org/wiki/麻省理工大学 "wikilink")[托德·莱德博士和同事](https://zh.wikipedia.org/wiki/托德·莱德 "wikilink")\[2\]在[抗病毒药物](../Page/抗病毒药物.md "wikilink")方面的新研究成果。据报道，它对一些[传染病病毒](https://zh.wikipedia.org/wiki/传染病病毒 "wikilink")（例如：[登革热](https://zh.wikipedia.org/wiki/登革热 "wikilink")、[鼻病毒](../Page/鼻病毒.md "wikilink")、[沙状病毒科病毒](https://zh.wikipedia.org/wiki/沙状病毒科 "wikilink")、[甲型H1N1流感等](https://zh.wikipedia.org/wiki/甲型H1N1流感 "wikilink")）具有广泛疗效，能在被[病毒](../Page/病毒.md "wikilink")感染的[哺乳动物](../Page/哺乳动物.md "wikilink")的[细胞](../Page/细胞.md "wikilink")中智能选择被感染[细胞](../Page/细胞.md "wikilink")，并快速地令其[细胞凋亡](../Page/细胞凋亡.md "wikilink")，而未被感染的[细胞](../Page/细胞.md "wikilink")则不受影响。\[3\]\[4\]
 
 ## 原理

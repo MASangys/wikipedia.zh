@@ -1,3 +1,6 @@
+> 本文内容由[Windows Server 2003](https://zh.wikipedia.org/wiki/Windows_Server_2003)转换而来。
+
+
 **Windows Server 2003**是[微软](../Page/微软.md "wikilink")的[服务器](../Page/服务器.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，對應[Windows XP](../Page/Windows_XP.md "wikilink")。
 
 该产品最初叫作“Windows .NET Server”，后改成“Windows .NET Server 2003”，最终被改成“Windows Server 2003”，于2003年3月28日发布，並在同年四月底上市。

@@ -1,3 +1,6 @@
+> 本文内容由[EMac](https://zh.wikipedia.org/wiki/EMac)转换而来。
+
+
 **eMac**（為「education Mac」教育用電腦的簡稱）是由[蘋果公司推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[麥金塔](../Page/麥金塔.md "wikilink")桌上型電腦。與蘋果第二代的[iMac相比](https://zh.wikipedia.org/wiki/iMac "wikilink")，本產品的售價較低，是為了[教育](../Page/教育.md "wikilink")市場的需求而設計。eMac的設計與第一代的iMac電腦類似，將螢幕、主機、光碟機、揚聲器等裝置組合在一起，成為稱作「all-in-one」的整體設計。eMac使用了[PowerPC G4處理器](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")，和舊款iMac的[G3處理器相比要快上許多](https://zh.wikipedia.org/wiki/PowerPC_G3 "wikilink")，[螢幕的尺寸也加大為](../Page/显示器.md "wikilink")17吋。
 
 蘋果公司於2006年7月5日宣佈eMac正式停止生產，並由僅針對教育機構販售的低階版iMac取代，隨後在2006年9月這款低階iMac也對一般消費者公開販售。

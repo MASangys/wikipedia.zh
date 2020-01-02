@@ -1,3 +1,6 @@
+> 本文内容由[亞歷山大丹尼士Enviro 300](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_300)转换而来。
+
+
 [Alexander_Dennis_Enviro_300_demonstrator_YN12_AAK.jpg](https://zh.wikipedia.org/wiki/File:Alexander_Dennis_Enviro_300_demonstrator_YN12_AAK.jpg "fig:Alexander_Dennis_Enviro_300_demonstrator_YN12_AAK.jpg") **亞歷山大丹尼士Enviro 300**（英語：Alexander Dennis Enviro 300），前稱**TransBus Enviro 300**，是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸單層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。它於2001年面世，主要取代ALX300車身。
 
 ## 設計

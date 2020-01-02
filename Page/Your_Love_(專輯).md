@@ -1,3 +1,6 @@
+> 本文内容由[Your Love \(專輯\)](https://zh.wikipedia.org/wiki/Your_Love_\(專輯\))转换而来。
+
+
 《**Your Love**》 是[林峯的第二張個人大碟](https://zh.wikipedia.org/wiki/林峯 "wikilink")，於2008年9月10日以雙封面公開發售。《Your Love》第二版在兩星期後於2008年9月24日以全新封面推出發行，隨碟附送3首Music Video和一套6款不同的明信片。
 
 ## 曲目列表

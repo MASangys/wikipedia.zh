@@ -1,3 +1,6 @@
+> 本文内容由[NJ1型柴油机车](https://zh.wikipedia.org/wiki/NJ1型柴油机车)转换而来。
+
+
 **NJ1型“捷力”柴油机车**是[中国铁路的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[四方机车车辆厂联合](https://zh.wikipedia.org/wiki/四方机车车辆厂 "wikilink")[株洲电力机车研究所](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")、[永济电机厂](https://zh.wikipedia.org/wiki/永济电机厂 "wikilink")、[大连内燃机车研究所等单位于](https://zh.wikipedia.org/wiki/大连内燃机车研究所 "wikilink")1999年研制成功，是中国第一种采用交—直—交流传动技术的柴油机车，适用于调车和小运转作业。NJ1型机车是铁道部“九五”期间机车车辆工业重点科技开发项目之一，采用了[日本](../Page/日本.md "wikilink")[三菱电机](../Page/三菱电机.md "wikilink")的IPM牵引逆变器。
 
 ## 发展历史

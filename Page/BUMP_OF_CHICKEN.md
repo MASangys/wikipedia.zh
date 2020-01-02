@@ -1,3 +1,6 @@
+> 本文内容由[BUMP OF CHICKEN](https://zh.wikipedia.org/wiki/BUMP_OF_CHICKEN)转换而来。
+
+
 **BUMP OF CHICKEN**（）是日本搖滾樂團，於1994年組成。略稱有「」、「BOC」等。經紀公司為[TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。團名有「弱者的反擊」之意。
 
 ## 所屬成員

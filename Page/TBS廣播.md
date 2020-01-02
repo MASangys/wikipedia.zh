@@ -1,3 +1,6 @@
+> 本文内容由[TBS廣播](https://zh.wikipedia.org/wiki/TBS廣播)转换而来。
+
+
 **株式會社TBS廣播**（，），通稱**TBS電台**（），是[日本](../Page/日本.md "wikilink")一家以[關東廣域圈為播出範圍的](https://zh.wikipedia.org/wiki/關東廣域圈 "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")，隸屬於[東京放送控股](../Page/東京放送控股.md "wikilink")旗下，為[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")[JRN的](https://zh.wikipedia.org/wiki/JRN "wikilink")[核心局](../Page/核心局.md "wikilink")。播出頻率為[AM](../Page/調幅廣播.md "wikilink")954，另擁有一[FM](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")（頻率90.5）。1951年12月25日開播，現有之公司法人則於2000年3月21日成立。
 
 ## 沿革

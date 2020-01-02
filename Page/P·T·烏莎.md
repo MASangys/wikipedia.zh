@@ -1,3 +1,6 @@
+> 本文内容由[P·T·烏莎](https://zh.wikipedia.org/wiki/P·T·烏莎)转换而来。
+
+
 **披拉伍拉坎蒂·梯克瓦蘭比·烏莎**（**Pilavullakandi Thekkevarambil Usha**， iaaf.org|url=[https://www.iaaf.org/athletes/india/pilavulakandi-t-usha-63519|accessdate=2019-10-15|work=www.iaaf.org](https://www.iaaf.org/athletes/india/pilavulakandi-t-usha-63519%7Caccessdate=2019-10-15%7Cwork=www.iaaf.org)}}</ref>||}}），[印度](../Page/印度.md "wikilink")短跑運動員，活躍在[二十世紀八十至九十年代](https://zh.wikipedia.org/wiki/二十世紀 "wikilink")，在印度人們時常稱她為**P.T.烏莎**。由于她出生於南印度[喀拉拉邦](../Page/喀拉拉邦.md "wikilink")[科芝科德縣的帕由里村](https://zh.wikipedia.org/wiki/科芝科德縣 "wikilink")（Payyoli），所以在她成名后人們又叫她*帕由里快車*（Payyoli Express）。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[Opera軟件](https://zh.wikipedia.org/wiki/Opera軟件)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Jon_Tetzchner_Opera_CEO.jpg "fig:缩略图")\]\]
 
 **Opera**（），成立於1995年，源自[挪威](../Page/挪威.md "wikilink")最大的[电信](../Page/电信.md "wikilink")公司[Telenor於](https://zh.wikipedia.org/wiki/Telenor "wikilink")1994年的研究项目，是由[譚詠文和](https://zh.wikipedia.org/wiki/譚詠文 "wikilink")[盖尔·伊瓦尔绥](../Page/盖尔·伊瓦尔绥.md "wikilink")創立。總部位於挪威首都奧斯陸，並在全球不同國家與地區的25個地點設有辦公室，包括瑞典、波蘭、中國大陸、日本、韓國、澳大利亞、俄羅、烏克蘭、冰島、新加坡、台灣和美國等地\[1\]。

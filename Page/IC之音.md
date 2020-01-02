@@ -1,3 +1,6 @@
+> 本文内容由[IC之音](https://zh.wikipedia.org/wiki/IC之音)转换而来。
+
+
 **IC之音（竹科廣播股份有限公司）**是[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")，於2002年2月25日開播，是由91位服務於[新竹科學工業園區](../Page/新竹科學工業園區.md "wikilink")的[企業主管集資成立的廣播電台](https://zh.wikipedia.org/wiki/企業主管 "wikilink")，廣播地區為[新竹](../Page/新竹都會區.md "wikilink")、[桃園](https://zh.wikipedia.org/wiki/桃園市 "wikilink")、[苗栗](../Page/苗栗縣.md "wikilink")，部份台北地區 收聽[頻率為](https://zh.wikipedia.org/wiki/頻率 "wikilink")[FM](https://zh.wikipedia.org/wiki/調頻 "wikilink") 97.5。
 
 IC之音致力於[財經](https://zh.wikipedia.org/wiki/財經 "wikilink")[科技與](https://zh.wikipedia.org/wiki/科技 "wikilink")[人文](https://zh.wikipedia.org/wiki/人文 "wikilink")[藝術的內容製作](https://zh.wikipedia.org/wiki/藝術 "wikilink")，榮獲24座金鐘獎肯定，節目製播方針為「資訊國際化」、「內容社群化」、「音樂心靈化」，並於2018年4月23日啟動台灣[第一個行動音頻](https://www.ic975.com/)。

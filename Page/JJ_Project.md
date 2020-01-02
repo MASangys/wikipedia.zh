@@ -1,3 +1,6 @@
+> 本文内容由[JJ Project](https://zh.wikipedia.org/wiki/JJ_Project)转换而来。
+
+
 **JJ Project**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")於2012年推出的雙人男子團體，成員包括[JB及](../Page/林在範.md "wikilink")[珍榮](../Page/朴珍榮.md "wikilink")（舊藝名為Jr.、Junior）。團名由[朴軫永](../Page/朴軫永.md "wikilink")命名，JJ為團員JB以及Jr.的兩個J，Project意味著兩人出道後能與粉絲一同成長\[1\]，合在一起即為團名JJ Project。2014年1月16日，JB與珍榮作為[GOT7](../Page/GOT7.md "wikilink")成員出道。
 
 ## 成員資料

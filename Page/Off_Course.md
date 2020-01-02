@@ -1,3 +1,6 @@
+> 本文内容由[Off Course](https://zh.wikipedia.org/wiki/Off_Course)转换而来。
+
+
 **Off Course**（），為1969年至1989年之間活動的日本流行音樂團體。
 
 ## 概略

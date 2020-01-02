@@ -1,3 +1,6 @@
+> 本文内容由[NBA總籃板榜](https://zh.wikipedia.org/wiki/NBA總籃板榜)转换而来。
+
+
 本列表统计的是**国家篮球协会（[NBA](../Page/NBA.md "wikilink")）球员个人职业生涯[常规赛籃板总和](https://zh.wikipedia.org/wiki/NBA常规赛 "wikilink")**，NBA球员在其它联赛（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的数据并不包括在内。所有数据都是截至到2019年4月10日。 [Wilt_Chamberlain3.jpg](https://zh.wikipedia.org/wiki/File:Wilt_Chamberlain3.jpg "fig:Wilt_Chamberlain3.jpg")\]\] [Bill_Russell_in_the_Green_Room.jpg](https://zh.wikipedia.org/wiki/File:Bill_Russell_in_the_Green_Room.jpg "fig:Bill_Russell_in_the_Green_Room.jpg")\]\] [Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")\]\] [Elvin_Hayes_1975_Bullets.jpg](https://zh.wikipedia.org/wiki/File:Elvin_Hayes_1975_Bullets.jpg "fig:Elvin_Hayes_1975_Bullets.jpg")\]\] [Moses_Malone.jpg](https://zh.wikipedia.org/wiki/File:Moses_Malone.jpg "fig:Moses_Malone.jpg")\]\]
 
 |    |              |

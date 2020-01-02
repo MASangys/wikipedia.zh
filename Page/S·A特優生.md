@@ -1,3 +1,6 @@
+> 本文内容由[S·A特優生](https://zh.wikipedia.org/wiki/S·A特優生)转换而来。
+
+
 **S·A特優生**（Special A）是由[南真纪所作](https://zh.wikipedia.org/wiki/南真紀 "wikilink")，《[花与梦](https://zh.wikipedia.org/wiki/花与梦 "wikilink")》（[白泉社](../Page/白泉社.md "wikilink")）上連載的[少女漫画](../Page/少女漫画.md "wikilink")。本漫畫已連載完結，单行本全17卷。累計发行量突破220万部。据此改编的[电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2008年4月开始放送。
 
 ## 剧情

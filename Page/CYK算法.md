@@ -1,3 +1,6 @@
+> 本文内容由[CYK算法](https://zh.wikipedia.org/wiki/CYK算法)转换而来。
+
+
 **CYK算法**（，縮寫為CYK algorithm）是由[約翰·科克](https://zh.wikipedia.org/wiki/約翰·科克 "wikilink")，Younger和共同研究出来大约发表于1965年的一个算法，它是一个用来判定任意给定的字符串\(~w \in \Sigma^*\) 是否属于一个[上下文无关文法](../Page/上下文无关文法.md "wikilink")的算法。普通的[回溯法](https://zh.wikipedia.org/wiki/回溯法 "wikilink")（backtracking）在最坏的情况下需要[指数时间才能解决这样的问题](https://zh.wikipedia.org/wiki/指数时间 "wikilink")，而CYK算法只需要[多项式时间就够了](https://zh.wikipedia.org/wiki/多项式时间 "wikilink")（\(~O(n^3)\) ， n 为字符串 w 的长度）。CYK算法采用了[动态规划](../Page/动态规划.md "wikilink")的思想。
 
 对于一个任意给定的上下文无关文法，都可以使用CYK算法来计算上述问题，但首先要将该文法转换成[乔姆斯基范式](../Page/乔姆斯基范式.md "wikilink")。

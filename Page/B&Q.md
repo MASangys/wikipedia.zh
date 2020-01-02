@@ -1,3 +1,6 @@
+> 本文内容由[B\&Q](https://zh.wikipedia.org/wiki/B\&Q)转换而来。
+
+
 **B\&Q**（簡稱：百安居），是一家[跨國的大型](../Page/跨國公司.md "wikilink")[DIY](../Page/DIY.md "wikilink")用家庭與園藝工具材料[連鎖店](../Page/連鎖店.md "wikilink")與[大賣場](https://zh.wikipedia.org/wiki/大賣場 "wikilink")，1969年成立於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[南安普敦](../Page/南安普敦.md "wikilink")，由理查·布洛克（Richard Block）與大衛·奎勒（David Quayle）共同創辦，B\&Q的公司名稱来自两位创始人姓氏布洛克（Block）与奎勒（Quayle）的英文首字母缩写。目前屬於世界前500大企業之一的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[翠豐集團](https://zh.wikipedia.org/wiki/翠豐集團 "wikilink")（Kingfisher Plc）旗下，是[英國第一大的](https://zh.wikipedia.org/wiki/英國 "wikilink")[家庭與園藝用品連鎖店](https://zh.wikipedia.org/wiki/建材市場 "wikilink")，在全球則排名第三。除了B\&Q，该集团还拥有Screwfix、Brico Dépôt和Castorama家装DIY连锁店，以及土耳其Koctas公司50%的股权。
 
 ## 發展概況

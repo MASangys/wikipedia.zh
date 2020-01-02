@@ -1,3 +1,6 @@
+> 本文内容由[Zend Studio](https://zh.wikipedia.org/wiki/Zend_Studio)转换而来。
+
+
 **Zend Studio**是[Zend Technologies开发的](https://zh.wikipedia.org/wiki/Zend_Technologies "wikilink")[PHP](../Page/PHP.md "wikilink")语言集成开发环境（Integrated Development Environment　[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink"))。也支持HTML和js标签，但只对PHP语言提供调试支持。因为是同一个公司的产品，所以提供的[Zend Framework方面的支持比其他软件好](https://zh.wikipedia.org/wiki/Zend_Framework "wikilink")。**Zend Studio**5.5系列后，官方推出利用了[Eclipse](../Page/Eclipse.md "wikilink")平台，基于PDT的**Zend Studio for Eclipse 6.0**，之后的版本也都构建于[Eclipse](../Page/Eclipse.md "wikilink")。
 
 ## 功能特点

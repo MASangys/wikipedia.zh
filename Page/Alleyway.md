@@ -1,3 +1,6 @@
+> 本文内容由[Alleyway](https://zh.wikipedia.org/wiki/Alleyway)转换而来。
+
+
 是由[任天堂开发第一部和](https://zh.wikipedia.org/wiki/任天堂开发第一部 "wikilink")[Intelligent Systems开发](../Page/Intelligent_Systems.md "wikilink")，并由[任天堂](../Page/任天堂.md "wikilink")在全球[Game Boy发行的](../Page/Game_Boy.md "wikilink")[打砖块类](https://zh.wikipedia.org/wiki/打砖块 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")\[1\]，游戏也是该平台最早开发及发行的四款游戏之一。游戏首先于1989年在日本发行\[2\]，随后于年末在北美发售，在欧洲则于1990年发行。在2011年，游戏于[任天堂3DS](../Page/任天堂3DS.md "wikilink") [Virtual Console上重新发布](../Page/Virtual_Console.md "wikilink")，人们可以通过网络下载。
 
 游戏名称原文“Alleyway”意为小巷，其指游戏中玩家飞船（显示为挡板）的必经之地\[3\]。虽然《Alleyway》是一款便携式[打砖块游戏](https://zh.wikipedia.org/wiki/打磚塊#Breakout "wikilink")，但其增加了一些新玩法，如砖块滚动、奖励球及后期关卡中的危险要素。虽然游戏包装盒上画出的主角无法辨认，但在后来的国际版中，主角被换成了[马里奥](https://zh.wikipedia.org/wiki/马里奥 "wikilink")。《Alleyway》和有限的广告一同发布，而因为和《[快打磚塊](../Page/快打磚塊.md "wikilink")》相似，媒体给了游戏较低的评价\[4\]。

@@ -1,3 +1,6 @@
+> 本文内容由[GNU Hurd](https://zh.wikipedia.org/wiki/GNU_Hurd)转换而来。
+
+
 **GNU Hurd**是一套[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")-{zh-tw:[核心](https://zh.wikipedia.org/wiki/核心 "wikilink");zh-cn:[內核](https://zh.wikipedia.org/wiki/內核 "wikilink")}-，以-{zh-tw:[微核心](https://zh.wikipedia.org/wiki/微核心 "wikilink");zh-cn:[微內核](../Page/微內核.md "wikilink")}-架構設計。Hurd是[GNU](../Page/GNU.md "wikilink")操作系统的核心部份。[GNU計畫从](https://zh.wikipedia.org/wiki/GNU計畫 "wikilink")1990年开始开发GNU Hurd，并且将它作为一个遵循[GPL的自由软件发布](https://zh.wikipedia.org/wiki/GPL "wikilink")。Hurd的目标是从功能、安全性和稳定性上全面超越传统[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")-{zh-tw:[核心](https://zh.wikipedia.org/wiki/核心 "wikilink");zh-cn:[內核](https://zh.wikipedia.org/wiki/內核 "wikilink")}-，而同时又能保持对其的兼容性，为此Hurd遵守[POSIX标准](https://zh.wikipedia.org/wiki/POSIX "wikilink")。
 
 「**HURD**」是一个间接[递归](../Page/递归.md "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")，来自「HIRD of [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") Replacing Daemons」，其中「**HIRD**」表示「HURD of Interfaces Representing Depth」\[1\]。

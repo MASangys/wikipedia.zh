@@ -1,3 +1,6 @@
+> 本文内容由[Wolfram SystemModeler](https://zh.wikipedia.org/wiki/Wolfram_SystemModeler)转换而来。
+
+
 由 Wolfram MathCore 开发的 **Wolfram SystemModeler**是基于 Modelica 语言的工程开发平台，以及生命科学建模和仿真平台。它提供了互动的图形建模和仿真环境，以及一套自定义的组件库。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[MAC-10衝鋒槍](https://zh.wikipedia.org/wiki/MAC-10衝鋒槍)转换而来。
+
+
 **MAC-10**（，意為：**軍事裝備公司10型**，正式稱呼：**M-10**）是一系列由於1964年為[特種部隊](../Page/特種部隊.md "wikilink")而設計，[開放式槍栓](../Page/開放式槍栓.md "wikilink")及[反沖作用操作的輕型](../Page/反沖作用_\(槍械\).md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），發射[.45 ACP或](../Page/.45_ACP.md "wikilink")[9×19毫米兩種](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 這是一種款簡單、低成本的設計、幾乎沒有可轉換零件的槍械，因此亦很容易製造和維修。MAC-10冲锋枪（衝鋒手槍）槍族，例如其衍生型：[MAC-11](../Page/MAC-11衝鋒槍.md "wikilink")（M-11A1），MAC-10的版本；MAC-11/9（M-11/9），是由[SWD](https://zh.wikipedia.org/wiki/SWD "wikilink")（[英文](../Page/英语.md "wikilink")：Sylvia and Wayne Daniel）和[Leinad所生產的一種長射程和短側面的小型](https://zh.wikipedia.org/wiki/Leinad "wikilink")9毫米版本。

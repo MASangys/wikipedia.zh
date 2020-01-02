@@ -1,3 +1,6 @@
+> 本文内容由[MM一族](https://zh.wikipedia.org/wiki/MM一族)转换而来。
+
+
 《**MM一族**》（），是[松野秋鳴的](https://zh.wikipedia.org/wiki/松野秋鳴 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，插畫家是[QP:flapper](../Page/QP:flapper.md "wikilink")（），由[MF文庫J](../Page/MF文庫J.md "wikilink")出版，並改編成同名電視動畫。
 
 2011年4月26日，Media Factory公告作者松野秋鳴於4月18日突然逝世，死因未說明，是否找其他人代筆仍不明\[1\]。

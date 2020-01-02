@@ -1,3 +1,6 @@
+> 本文内容由[Yellow \(木村KAELA單曲\)](https://zh.wikipedia.org/wiki/Yellow_\(木村KAELA單曲\))转换而来。
+
+
 **《Yellow》**，是[日本](../Page/日本.md "wikilink")歌手[木村KAELA](../Page/木村KAELA.md "wikilink")的個人第10張單曲，2007年10月24日在自己的生日這天由所屬唱片公司[哥倫比亞音樂發行](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")。
 
 ## 曲目

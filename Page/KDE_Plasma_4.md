@@ -1,3 +1,6 @@
+> 本文内容由[KDE Plasma 4](https://zh.wikipedia.org/wiki/KDE_Plasma_4)转换而来。
+
+
 **KDE Plasma 4**是[KDE](../Page/KDE.md "wikilink")專案提供的所有圖形環境總稱。
 
 目前有三個Plasma子專案：*Plasma Desktop*用於傳統的[桌面電腦和](https://zh.wikipedia.org/wiki/台式电脑 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")、*Plasma Netbook*用於[上网本](../Page/上网本.md "wikilink")\[1\]，以及*Plasma Active*用於[平板電腦](../Page/平板電腦.md "wikilink")。\[2\]**Plasma工作空間**是[KDE Software Compilation 4的一部分](../Page/KDE_Software_Compilation_4.md "wikilink")。其继承者为 [KDE Plasma 5](../Page/KDE_Plasma_5.md "wikilink") \[3\]，於2014年7月15日釋出\[4\] 。

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Data Access Components](https://zh.wikipedia.org/wiki/Microsoft_Data_Access_Components)转换而来。
+
+
 **Microsoft Data Access Components**（**MDAC**）是微軟專門為[資料存取](../Page/資料存取.md "wikilink")功能而發展的應用程式開發介面，做為微軟的統一化資料存取（Universal Data Access; UDA）解決方案的核心組成，最初的版本在1996年8月發表。目前其組成元件有[ODBC](../Page/ODBC.md "wikilink")，[OLE DB以及](../Page/OLE_DB.md "wikilink")[ADO](../Page/ADO.md "wikilink")，其中[ADO](../Page/ADO.md "wikilink")是在[Visual Basic上唯一的資料存取管道](../Page/Visual_Basic.md "wikilink")，而OLE DB則是基於[COM之上](https://zh.wikipedia.org/wiki/COM "wikilink")，供C/C++存取與提供資料的介面，ODBC則是統一化的資料存取API。
 
 ## 体系架构

@@ -1,3 +1,6 @@
+> 本文内容由[Time \(嵐\)](https://zh.wikipedia.org/wiki/Time_\(嵐\))转换而来。
+
+
 《**Time**》是[嵐](../Page/嵐.md "wikilink")的第9枚專輯，第7枚原創專輯。於2007年7月11日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

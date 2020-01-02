@@ -1,3 +1,6 @@
+> 本文内容由[Around40](https://zh.wikipedia.org/wiki/Around40)转换而来。
+
+
 **《Around40》**為[TBS](https://zh.wikipedia.org/wiki/東京廣播 "wikilink")[週五連續劇](../Page/TBS週五連續劇.md "wikilink")，2008年4月11日至6月20日每週五晚上10點播放。[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")於2009年1月5日起週一至週五每晚八點播出。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Chrome 500系列显卡](https://zh.wikipedia.org/wiki/Chrome_500系列显卡)转换而来。
+
+
 **Chrome 500**系列顯示卡是[威盛旗下子公司](https://zh.wikipedia.org/wiki/VIA "wikilink")[S3 Graphics的產品](../Page/S3_Graphics.md "wikilink")，與[Chrome 400系列顯示卡一樣](https://zh.wikipedia.org/wiki/Chrome_400系列顯示卡 "wikilink")，產品著重顯示卡的影像播放表現。
 
 ## 產品技術

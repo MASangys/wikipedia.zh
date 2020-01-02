@@ -1,3 +1,6 @@
+> 本文内容由[Cracker Jack](https://zh.wikipedia.org/wiki/Cracker_Jack)转换而来。
+
+
 [Cracker_Jack_bag.JPG](https://zh.wikipedia.org/wiki/File:Cracker_Jack_bag.JPG "fig:Cracker_Jack_bag.JPG")
 
 **Cracker Jack**\[1\]是[玉米花](../Page/玉米花.md "wikilink")混合[花生](../Page/花生.md "wikilink")裹上糖衣後而具濃厚[糖蜜](../Page/糖蜜.md "wikilink")風味的一種[零食](../Page/零食.md "wikilink")，目前為[美國百事食品公司旗下的](https://zh.wikipedia.org/wiki/美國 "wikilink")[產品與](https://zh.wikipedia.org/wiki/產品 "wikilink")[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")，它最著名的特色是包裝內附了一個玩具。華文地區裡有人照*crackerjack*原意譯成**好傢-{伙}-玉米花**\[2\]，或者按照其淡褐色外觀譯成**琥珀玉米花**\[3\]，但目前尚未出現官方中文名稱。

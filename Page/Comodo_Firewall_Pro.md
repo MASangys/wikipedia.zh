@@ -1,3 +1,6 @@
+> 本文内容由[Comodo Firewall Pro](https://zh.wikipedia.org/wiki/Comodo_Firewall_Pro)转换而来。
+
+
 **Comodo Firewall Pro**是美国[科摩多集團开发的一款免费的](https://zh.wikipedia.org/wiki/科摩多集團 "wikilink")[防火墙](../Page/防火墙.md "wikilink")软件。
 
 ## 特点

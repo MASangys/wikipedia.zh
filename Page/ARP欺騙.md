@@ -1,3 +1,6 @@
+> 本文内容由[ARP欺騙](https://zh.wikipedia.org/wiki/ARP欺騙)转换而来。
+
+
 **ARP欺騙**（），又稱**ARP毒化**（**ARP poisoning**，網路上多譯為**ARP病毒**）或**ARP攻擊**，是針對[乙太網路](https://zh.wikipedia.org/wiki/乙太網路 "wikilink")[地址解析協議](https://zh.wikipedia.org/wiki/地址解析協議 "wikilink")（[ARP](https://zh.wikipedia.org/wiki/ARP "wikilink")）的一種攻擊技術。此種攻擊可讓攻擊者取得[區域網路上的資料封包甚至可篡改封包](https://zh.wikipedia.org/wiki/區域網路 "wikilink")，且可讓網路上特定電腦或所有電腦無法正常連線。最早探討ARP欺騙的文章是由Yuri Volobuev所寫的《ARP與ICMP轉向遊戲》（*ARP and ICMP redirection games*）\[1\]。
 
 ## 運作機制

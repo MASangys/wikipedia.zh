@@ -1,3 +1,6 @@
+> 本文内容由[GSG-5卡賓槍](https://zh.wikipedia.org/wiki/GSG-5卡賓槍)转换而来。
+
+
 **GSG-5**是由[德國運動槍有限公司研製及生產的一種](https://zh.wikipedia.org/wiki/德國 "wikilink").22口徑[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。値得一提的是，德國運動槍有限公司是一間[氣槍](../Page/氣槍.md "wikilink")[批發商](https://zh.wikipedia.org/wiki/批發商 "wikilink")。
 
 ## 設計

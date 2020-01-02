@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ARENA TOUR 2005 A ～MY STORY～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_ARENA_TOUR_2005_A_～MY_STORY～)转换而来。
+
+
 《*' ayumi hamasaki ARENA TOUR 2005 A ～MY STORY～*'》（濱崎步 2005 巡迴演唱會 A ～私物語～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2005年間舉行的巡迴演唱會，同年8月24日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[Vivi and...](https://zh.wikipedia.org/wiki/Vivi_and...)转换而来。
+
+
 '''Vivi and... '''為藝人[徐若瑄](../Page/徐若瑄.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")發行的中文音樂專輯，也是她在艾迴合約中的最後一張專輯。專輯中邀來徐若瑄眾多的親朋好友參與音樂製作，包含[周杰倫](../Page/周杰倫.md "wikilink")、[王力宏](../Page/王力宏.md "wikilink")也參與此專輯。這張專輯當中有七首徐若瑄填詞，可說是屬於Vivi and…每一個傾聽她的人。
 
 ## 曲目

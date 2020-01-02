@@ -1,3 +1,6 @@
+> 本文内容由[Talkin\' 2 myself](https://zh.wikipedia.org/wiki/Talkin\'_2_myself)转换而来。
+
+
 《**talkin' 2 myself**》（心聲）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第42張單曲，2007年9月19日於日本發售。
 
 ## 說明

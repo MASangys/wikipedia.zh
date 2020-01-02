@@ -1,3 +1,6 @@
+> 本文内容由[EXILE LOVE](https://zh.wikipedia.org/wiki/EXILE_LOVE)转换而来。
+
+
 《**EXILE LOVE**》是[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")6張[專輯](../Page/音樂專輯.md "wikilink")。[Oricon](../Page/Oricon.md "wikilink")最高排行第1、初動銷量67.0萬張。
 
 ## 解說

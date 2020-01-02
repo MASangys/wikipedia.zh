@@ -1,3 +1,6 @@
+> 本文内容由[Gaia Gear角色列表](https://zh.wikipedia.org/wiki/Gaia_Gear角色列表)转换而来。
+
+
 **Gaia Gear的登場人物**（ - とうじょうじんぶつ）是[小说](../Page/小说.md "wikilink")以及[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")《[Gaia Gear](../Page/Gaia_Gear.md "wikilink")》中登场的[架空人物列表](https://zh.wikipedia.org/wiki/架空 "wikilink")。
 
 除非另有说明，以下只以小说版本为主。此外，配音只出现在广播剧中。

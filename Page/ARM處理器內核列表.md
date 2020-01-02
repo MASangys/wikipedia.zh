@@ -1,3 +1,6 @@
+> 本文内容由[ARM處理器內核列表](https://zh.wikipedia.org/wiki/ARM處理器內核列表)转换而来。
+
+
 本文是[ARM架構處理器內核](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")（）的列表。
 
 ## ARM處理器內核

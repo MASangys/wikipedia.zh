@@ -1,3 +1,6 @@
+> 本文内容由[Mer](https://zh.wikipedia.org/wiki/Mer)转换而来。
+
+
 **Mer**，一種[行動作業系統](../Page/行動作業系統.md "wikilink")，採用[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，主要應用於[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")，以及其他的消費性電子裝置。它是[MeeGo](../Page/MeeGo.md "wikilink")的[分支](https://zh.wikipedia.org/wiki/分支 "wikilink")。
 
 Mer是一個[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，最早是被用來替代使用於[諾基亞N](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")800及N810平板電腦上的[Maemo](../Page/Maemo.md "wikilink")作業系統。它特別強調[Ubuntu](../Page/Ubuntu.md "wikilink")版本的特色，並將Ubuntu上的許多功能移植到Maemo 5上。2011年，當[MeeGo](../Page/MeeGo.md "wikilink")計畫被中止後，Mer被當成是MeeGo的另一個分支而繼續被發展。

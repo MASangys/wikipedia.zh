@@ -1,3 +1,6 @@
+> 本文内容由[BitTorrent \(软件\)](https://zh.wikipedia.org/wiki/BitTorrent_\(软件\))转换而来。
+
+
 **BitTorrent**是由[布莱姆·科亨](../Page/布莱姆·科亨.md "wikilink")與[BitTorrent公司開發](https://zh.wikipedia.org/wiki/BitTorrent公司 "wikilink")，是全球第一套基於[BitTorrent協定的](../Page/BitTorrent_\(协议\).md "wikilink")[點對點檔案](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[上載/下載](https://zh.wikipedia.org/wiki/上載和下載 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")（也就是[BitTorrent用戶端](https://zh.wikipedia.org/wiki/BitTorrent用戶端 "wikilink")），由於源自官方而被暱稱為「主流」（）。
 
 ## 历史

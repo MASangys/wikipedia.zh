@@ -1,3 +1,6 @@
+> 本文内容由[Kud Wafter Original SoundTrack](https://zh.wikipedia.org/wiki/Kud_Wafter_Original_SoundTrack)转换而来。
+
+
 **Kud Wafter Original SoundTrack**（[日语](../Page/日语.md "wikilink")：）是游戏公司[Key的成人PC游戏](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")《[Kud Wafter](../Page/Kud_Wafter.md "wikilink")》的原声带。
 
 本原声带的初回版是2010年6月25日《Kud Wafter》发售时的特典之一，编号为KSLA-0057。\[1\]而单独发售版本于2011年12月29日发售，编号为KSLA-0077。单独发售的版本收录了游戏通关后的标题界面背景音乐，初回版没有收录的《hoshizora》。\[2\]

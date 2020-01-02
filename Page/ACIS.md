@@ -1,3 +1,6 @@
+> 本文内容由[ACIS](https://zh.wikipedia.org/wiki/ACIS)转换而来。
+
+
 **ACIS**是一套三維幾何造型組件軟體，適用於開發精密工程應用軟體。這套軟體是由[Spatial Corp](https://web.archive.org/web/20081022130947/http://www.spatial.com.cn/)於1986年開發上市，讓工程軟體開發者，能在電腦上模擬出三度空間的物體，並進行實體設計、運算、分析與處理。
 
 使用ACIS這套組件軟體而開發的應用軟體種類，包括了下列主要產業：

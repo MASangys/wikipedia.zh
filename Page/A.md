@@ -1,3 +1,6 @@
+> 本文内容由[A](https://zh.wikipedia.org/wiki/A)转换而来。
+
+
 **A/a** 是[拉丁字母](../Page/拉丁字母.md "wikilink")的首[字母](../Page/字母.md "wikilink")，来源于[拉丁语](../Page/拉丁语.md "wikilink")中有[低元音](https://zh.wikipedia.org/wiki/開元音 "wikilink")和音值的[希腊字母](../Page/希腊字母.md "wikilink")。其可从[伊特鲁里亚语和希腊语α追溯到](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")[闪含语的](https://zh.wikipedia.org/wiki/闪含语 "wikilink")'âlep（用于[声门塞音](https://zh.wikipedia.org/wiki/声门塞音 "wikilink")）。其希腊名源自闪含语，而闪含语是因[希伯来语](../Page/希伯来语.md "wikilink")而闻名的。[古英语的](https://zh.wikipedia.org/wiki/古英语 "wikilink")和音变为现代的和，前者原由a和e连写的æ表示。在其他语言（例如[意大利语](../Page/意大利语.md "wikilink")、[西班牙语](../Page/西班牙语.md "wikilink")和[德语](../Page/德语.md "wikilink")）中，A的音也与拉丁语相同。
 
 可以确定A最早源于[腓尼基字母](../Page/腓尼基字母.md "wikilink")表的第一个字母[Aleph](../Page/Aleph.md "wikilink")\[1\]（腓尼基字母表完全由辅音组成，是[辅音音素文字](../Page/辅音音素文字.md "wikilink")）。而Aleph的来源则可能是表示牛头的[埃及圣书体](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")。

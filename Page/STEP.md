@@ -1,3 +1,6 @@
+> 本文内容由[STEP](https://zh.wikipedia.org/wiki/STEP)转换而来。
+
+
 《**STEP**》是韩国女子音乐组合[Kara](../Page/Kara.md "wikilink")的第三张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2011年9月9日由DSP Media發行。\[1\]
 
 ## 收錄曲

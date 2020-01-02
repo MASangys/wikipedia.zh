@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla Application Suite](https://zh.wikipedia.org/wiki/Mozilla_Application_Suite)转换而来。
+
+
 **Mozilla Application Suite**（原稱**Mozilla**，簡稱**Mozilla Suite**）是一個[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[互聯網套件](https://zh.wikipedia.org/wiki/互聯網套件 "wikilink")。由未被[美國線上收購的](https://zh.wikipedia.org/wiki/美國線上 "wikilink")[網景公司發起](https://zh.wikipedia.org/wiki/網景公司 "wikilink")，基於[網景通訊家](../Page/網景通訊家.md "wikilink")的源代码。1998年至2003年由[Mozilla組織帶頭發展](../Page/Mozilla基金會.md "wikilink")，2003年至2006年由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")維護。Mozilla Suite後來被[SeaMonkey](../Page/SeaMonkey.md "wikilink")取代，SeaMonkey由社群所維謢，基於與Mozilla Application Suite同一原始碼。
 
 Mozilla Suite的元件包括Navigator（[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")）、[Mozilla Mail & Newsgroups](https://zh.wikipedia.org/wiki/Mozilla_Mail_&_Newsgroups "wikilink")（[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")）、[Mozilla Composer](../Page/Mozilla_Composer.md "wikilink")（網頁開發軟體）及[ChatZilla](../Page/ChatZilla.md "wikilink")（IRC用戶端軟體）。該軟體的[程式碼是完全開放的](https://zh.wikipedia.org/wiki/程式碼 "wikilink")，可在[Linux](../Page/Linux.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS X下執行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。

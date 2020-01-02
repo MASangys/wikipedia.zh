@@ -1,3 +1,6 @@
+> 本文内容由[GReeeeN](https://zh.wikipedia.org/wiki/GReeeeN)转换而来。
+
+
 **GReeeeN**又名**牙医**组合，成立于[日本](../Page/日本.md "wikilink")[福岛县](../Page/福岛县.md "wikilink")[郡山市](../Page/郡山市.md "wikilink")，属于[環球音樂](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")[NAYUTAWAVE RECORDS旗下的](../Page/環球音樂_\(日本\).md "wikilink")4人組創作樂團。
 
 ## 「GReeeeN」的由來

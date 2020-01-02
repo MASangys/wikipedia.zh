@@ -1,3 +1,6 @@
+> 本文内容由[PowerBASIC](https://zh.wikipedia.org/wiki/PowerBASIC)转换而来。
+
+
 **PowerBASIC**由位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佛羅里達州](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[威尼斯](../Page/威尼斯.md "wikilink")的PowerBASIC公司所製作，為一種[BASIC](../Page/BASIC.md "wikilink")編譯器，分別擁有[DOS](../Page/DOS.md "wikilink")版本及[Windows版本](https://zh.wikipedia.org/wiki/Windows "wikilink")（其中又有[命令行版本及](https://zh.wikipedia.org/wiki/命令行 "wikilink")[圖形界面開發版本](https://zh.wikipedia.org/wiki/图形界面 "wikilink")）。DOS版本使用的語法類似[QBasic和](https://zh.wikipedia.org/wiki/QBasic "wikilink")[QuickBASIC](../Page/QuickBASIC.md "wikilink")，而Windows版本則類似其他程式編譯器，結合標準BASIC語言和[API調用](https://zh.wikipedia.org/wiki/API "wikilink")。最早發布的版本被稱作BASIC/Z，之後由[Borland](../Page/Borland.md "wikilink")發行時叫做[Turbo BASIC](../Page/Turbo_BASIC.md "wikilink")。1989年Borland不再販售Turbo BASIC與[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")，Turbo BASIC由原開發者成立公司，而以PowerBASIC為名繼續發行。\[1\]
 
 ## 語言特色

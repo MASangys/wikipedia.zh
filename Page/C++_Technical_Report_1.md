@@ -1,3 +1,6 @@
+> 本文内容由[C++ Technical Report 1](https://zh.wikipedia.org/wiki/C++_Technical_Report_1)转换而来。
+
+
 **C++ Technical Report 1 (TR1)**[（英文）是](https://zh.wikipedia.org/wiki/:en:C++_Technical_Report_1 "wikilink")**ISO/IEC TR 19768, C++ Library Extensions（函式庫擴充）**的一般名稱。TR1是一份文件，內容提出了對[C++標準函式庫](../Page/C++標準函式庫.md "wikilink")的追加項目。這些追加項目包括了[正则表达式](../Page/正则表达式.md "wikilink")、[智能指针](../Page/智能指针.md "wikilink")、[哈希表](../Page/哈希表.md "wikilink")、[随机数生成器等](https://zh.wikipedia.org/wiki/随机数生成器 "wikilink")。TR1自己並非標準，他是一份草稿文件。然而他所提出的項目大多数已成為下次的官方標準（C++11）的一部分。這份文件的目標在於「為擴充的C++標準函式庫建立更為廣泛的現成實作品」。
 
 ## 概要

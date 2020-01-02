@@ -1,3 +1,6 @@
+> 本文内容由[Adult Swim](https://zh.wikipedia.org/wiki/Adult_Swim)转换而来。
+
+
 **Adult Swim**是一个以[成人觀眾為主要對象的](https://zh.wikipedia.org/wiki/成人 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[电视](../Page/电视.md "wikilink")频道,该频道主要播放[动画](../Page/动画.md "wikilink")节目，包括[美式成人喜劇動畫如](https://zh.wikipedia.org/wiki/美國動畫 "wikilink")《[居家男人](https://zh.wikipedia.org/wiki/居家男人 "wikilink")》、《》、[日本動畫如](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》，以及[联播节目等](../Page/廣播聯賣.md "wikilink")，播放内容基本只进行最少的剪裁甚至不经刪剪。
 
 在[美国](../Page/美国.md "wikilink")，Adult Swim和[卡通频道共用兩個頻道](https://zh.wikipedia.org/wiki/卡通频道 "wikilink")（卡通频道美東以及卡通频道美西）。该频道节目對象為成年人，与此相反的是在白天卡通频道只會播放以[未成年人為對象的動畫](https://zh.wikipedia.org/wiki/未成年人 "wikilink")。该频道也在[澳大利亚](../Page/澳大利亚.md "wikilink")等其他[国家](../Page/国家.md "wikilink")播放。\[1\]

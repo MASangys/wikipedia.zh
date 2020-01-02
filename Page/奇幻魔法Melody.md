@@ -1,3 +1,6 @@
+> 本文内容由[奇幻魔法Melody](https://zh.wikipedia.org/wiki/奇幻魔法Melody)转换而来。
+
+
 《**我愛美樂蒂**》（，直譯《拜託你了My Melody》）是一部以[Sanrio旗下的](https://zh.wikipedia.org/wiki/Sanrio "wikilink")[My Melody玩偶作基礎的](../Page/My_Melody.md "wikilink")[日本](../Page/日本.md "wikilink")動畫，全數四季，由[STUDIO COMET製作](../Page/STUDIO_COMET.md "wikilink")。第一季是於2005年4月3日至2006年3月26日逢星期日早上9:30-10:00在[東京電視台](../Page/東京電視台.md "wikilink")系放映，每季52集，另外也有在[Animax](../Page/Animax.md "wikilink")播放。為2005年至2008年期間的系列動畫，2009年續作為[Sanrio旗下的](https://zh.wikipedia.org/wiki/Sanrio "wikilink")《[寶石寵物](../Page/寶石寵物_\(第一季\).md "wikilink")》系列動畫。
 
 第一季至三季主要故事舞台為人類世界——夢之丘這個虛構市鎮，人類主角為夢野歌。第四季的故事舞台則改為美樂蒂的故鄉——馬里蘭樂園，時間點設定為美樂蒂遇到夢野歌之前（即第一季之前），人類主角為星月Kirara和Solala王子。

@@ -1,3 +1,6 @@
+> 本文内容由[Dragon Crisis!](https://zh.wikipedia.org/wiki/Dragon_Crisis!)转换而来。
+
+
 《**Dragon Crisis\!**》（）是[城崎火也撰寫](https://zh.wikipedia.org/wiki/城崎火也 "wikilink")，[亞方逸樹插畫的](https://zh.wikipedia.org/wiki/亞方逸樹 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，[集英社](../Page/集英社.md "wikilink")[Super Dash文庫出版](../Page/Super_Dash文庫.md "wikilink")。中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理。 於2009年3月25日由[Frontier Works發售廣播劇CD](../Page/Frontier_Works.md "wikilink")，電視動畫於2011年1月10日開始播出，3月28日播放完畢，全12話。
 
 ## 故事簡介

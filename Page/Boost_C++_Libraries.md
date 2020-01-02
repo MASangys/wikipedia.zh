@@ -1,3 +1,6 @@
+> 本文内容由[Boost C++ Libraries](https://zh.wikipedia.org/wiki/Boost_C++_Libraries)转换而来。
+
+
 {{ Infobox Software | name = Boost C++ Libraries | screenshot = Boost.png | caption = | author = | latest_release_version = 1.71.0 | latest_release_date =  | genre = [函式庫](../Page/函式庫.md "wikilink") | license = [Boost许可证](../Page/Boost许可证.md "wikilink") | website = <http://www.boost.org/> }}
 
 **Boost C++ 函式庫**（Libraries）是一組擴充[C++](../Page/C++.md "wikilink")功能的經過[同行評審](../Page/同行評審.md "wikilink")（Peer-reviewed）且[開放源碼程式庫](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")。大多數的函式為了能夠以開放源碼、封閉專案的方式運作，而授權於Boost軟體授權條款（Boost Software License）之下。許多Boost的開發人員是來自C++標準委員會，而部份的Boost函式庫成為C++的[TR1標準之一](../Page/C++_Technical_Report_1.md "wikilink")。\[1\]

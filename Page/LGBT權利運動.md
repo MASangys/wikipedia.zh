@@ -1,3 +1,6 @@
+> 本文内容由[LGBT權利運動](https://zh.wikipedia.org/wiki/LGBT權利運動)转换而来。
+
+
 **LGBT權利運動**（又稱**同志權利運動**、**同志社會運動**）是指一批鬆散結合的[公民權利團體](https://zh.wikipedia.org/wiki/公民權利 "wikilink")、[人權團體](https://zh.wikipedia.org/wiki/人權 "wikilink")、支持[LGBT權利的團體](https://zh.wikipedia.org/wiki/LGBT權利 "wikilink")、政治行動者或[社會運動](../Page/社會運動.md "wikilink")人士，以追求性別少數群體（包括[女同性戀](../Page/女同性戀.md "wikilink")、[男同性戀](../Page/男同性戀.md "wikilink")、[雙性戀](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")、[跨性別](../Page/跨性別.md "wikilink")，或[雙性人](../Page/雙性人.md "wikilink")）達到，以及獲得法律上的基本[權利為目標](https://zh.wikipedia.org/wiki/權利 "wikilink")。參与者不一定為該群體，也包括[順性別](../Page/順性別.md "wikilink")以及[異性戀者](https://zh.wikipedia.org/wiki/異性戀 "wikilink")。
 
 ## 概述

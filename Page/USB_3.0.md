@@ -1,3 +1,6 @@
+> 本文内容由[USB 3.0](https://zh.wikipedia.org/wiki/USB_3.0)转换而来。
+
+
 [SuperSpeed_USB.svg](https://zh.wikipedia.org/wiki/File:SuperSpeed_USB.svg "fig:SuperSpeed_USB.svg") [USB_&_Thunderbolt™_Speed_Comparison.jpg](https://zh.wikipedia.org/wiki/File:USB_&_Thunderbolt™_Speed_Comparison.jpg "fig:USB_&_Thunderbolt™_Speed_Comparison.jpg")的速度比較表\]\]
 
 **USB 3.0**\[1\]，其USB速率模式稱爲「Super Speed」，是[通用串列匯流排](https://zh.wikipedia.org/wiki/通用串列匯流排 "wikilink")（Universal Serial Bus，USB）的第三個主要修訂版本。其主要技術標準有：支援[全雙工](https://zh.wikipedia.org/wiki/全雙工 "wikilink")，並採用發送列表區段來進行數據發包，供電標準為900[mA](../Page/安培.md "wikilink")，且理论上有支援[光纤传输的潜力](https://zh.wikipedia.org/wiki/光纤 "wikilink")，傳輸速度為5Gbit/s。USB 3.0的设计兼容USB 2.0与USB 1.1版本，并採用[三級多層電源管理技術](https://zh.wikipedia.org/wiki/三級多層電源管理技術 "wikilink")，可以為不同設備提供不同的電源管理方案。

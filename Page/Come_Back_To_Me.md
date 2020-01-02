@@ -1,3 +1,6 @@
+> 本文内容由[Come Back To Me](https://zh.wikipedia.org/wiki/Come_Back_To_Me)转换而来。
+
+
 **Come Back To Me**（台灣譯為「回到我身邊」）為[宇多田光](../Page/宇多田光.md "wikilink")再次以「Utada」的名義，在2009年以數碼形式發行的[英語單曲](https://zh.wikipedia.org/wiki/英語 "wikilink")，本作其後收錄於專輯《[This Is The One](https://zh.wikipedia.org/wiki/This_Is_The_One "wikilink")》。
 
 本曲在1月6日時，首先在宇多田光的「Island Record」官方網站及 MySpace 中發表。其後在1月16日時，發表了本作的封面。直至2月10日，本曲正式在iTunes發售。

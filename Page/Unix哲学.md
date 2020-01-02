@@ -1,3 +1,6 @@
+> 本文内容由[Unix哲学](https://zh.wikipedia.org/wiki/Unix哲学)转换而来。
+
+
 **Unix哲学**是一套基于[Unix操作系统顶级开发者们的经验提出的](https://zh.wikipedia.org/wiki/Unix "wikilink")[软件开发的准则和哲学](https://zh.wikipedia.org/wiki/软件开发 "wikilink")。
 
 ## 來源

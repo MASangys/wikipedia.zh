@@ -1,3 +1,6 @@
+> 本文内容由[RKB每日放送](https://zh.wikipedia.org/wiki/RKB每日放送)转换而来。
+
+
 **RKB每日放送株式會社**（，英語譯名：）是[日本](../Page/日本.md "wikilink")的[廣播公司之一](https://zh.wikipedia.org/wiki/廣播 "wikilink")，在[福岡縣經營](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[無線](../Page/地面電視.md "wikilink")[電視台及](https://zh.wikipedia.org/wiki/電視台 "wikilink")[AM](../Page/調幅廣播.md "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")，為一\[1\]。總部位於[福岡的](../Page/福岡市.md "wikilink")[百道濱](https://zh.wikipedia.org/wiki/百道濱 "wikilink")。其名稱中的「RKB」是舊公司名**九州廣播電台**（**R**adio **K**yushu **B**roadcasting）的縮寫。1951年12月1日時先以廣播電台（Radio九州）的身份成立，而電視台的部分則是在7年後的1958年3月1日開台。
 
 RKB每日放送電視台是[日本新聞網](../Page/日本新聞網_\(TBS\).md "wikilink")（JNN，一般也通稱為[TBS系](https://zh.wikipedia.org/wiki/TBS系 "wikilink")）旗下電視台之一，[呼號為](https://zh.wikipedia.org/wiki/呼號 "wikilink")**JOFR-DTV**。至於台號**JOFR**的（）是以（AM stereo）方式播放，主要頻道AM 1278[千赫](https://zh.wikipedia.org/wiki/千赫 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Ext函子](https://zh.wikipedia.org/wiki/Ext函子)转换而来。
+
+
 在[同調代數](../Page/同調代數.md "wikilink")中，**Ext 函子**是 Hom 函子的導函子。此函子首見於[代數拓撲](https://zh.wikipedia.org/wiki/代數拓撲 "wikilink")，但其應用遍佈許多領域。
 
 ## 定義

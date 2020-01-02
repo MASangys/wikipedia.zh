@@ -1,3 +1,6 @@
+> 本文内容由[Apache HTTP Server](https://zh.wikipedia.org/wiki/Apache_HTTP_Server)转换而来。
+
+
 **Apache HTTP Server**（簡稱**Apache**）是[Apache軟體基金會的一個開放源碼的](https://zh.wikipedia.org/wiki/Apache軟體基金會 "wikilink")[網頁伺服器](../Page/網頁伺服器.md "wikilink")軟體，可以在大多數[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[作業系統中運行](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。由於其跨平台和安全性，被廣泛使用，是最流行的Web伺服器軟體之一。它快速、可靠並且可通過簡單的API擴充，將[Perl](../Page/Perl.md "wikilink")／[Python](../Page/Python.md "wikilink")等[直譯器](../Page/直譯器.md "wikilink")編譯到伺服器中。
 
 ## 歷史

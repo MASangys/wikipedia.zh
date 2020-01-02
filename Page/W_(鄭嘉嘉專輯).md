@@ -1,3 +1,6 @@
+> 本文内容由[W \(鄭嘉嘉專輯\)](https://zh.wikipedia.org/wiki/W_\(鄭嘉嘉專輯\))转换而来。
+
+
 《**W**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭嘉嘉](../Page/鄭嘉嘉.md "wikilink")的第一張音樂專輯，於2012年8月7日推出。
 
 ## 曲目

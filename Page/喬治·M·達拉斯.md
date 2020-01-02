@@ -1,3 +1,6 @@
+> 本文内容由[喬治·M·達拉斯](https://zh.wikipedia.org/wiki/喬治·M·達拉斯)转换而来。
+
+
 **喬治·米芬·達拉斯**（**George Miffin Dallas**，），[美國政治人物](https://zh.wikipedia.org/wiki/美國 "wikilink")，[民主黨人](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")，曾任美國第11任副總統（1845年－1849年）、聯邦參議員、駐[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[大使](https://zh.wikipedia.org/wiki/大使 "wikilink")、駐[英國大使等職](https://zh.wikipedia.org/wiki/英國 "wikilink")，出身[賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")。
 
 [Category:賓夕法尼亞州聯邦參議員](https://zh.wikipedia.org/wiki/Category:賓夕法尼亞州聯邦參議員 "wikilink") [Category:普林斯顿大学校友](https://zh.wikipedia.org/wiki/Category:普林斯顿大学校友 "wikilink") [Category:宾夕法尼亚州民主党人](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州民主党人 "wikilink") [Category:美国民主党副总统](https://zh.wikipedia.org/wiki/Category:美国民主党副总统 "wikilink") [Category:美國民主黨副總統候選人](https://zh.wikipedia.org/wiki/Category:美國民主黨副總統候選人 "wikilink") [Category:美國聖公宗教徒](https://zh.wikipedia.org/wiki/Category:美國聖公宗教徒 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")

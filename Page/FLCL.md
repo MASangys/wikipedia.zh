@@ -1,3 +1,6 @@
+> 本文内容由[FLCL](https://zh.wikipedia.org/wiki/FLCL)转换而来。
+
+
 《**FLCL**》（）為一部由[GAINAX](../Page/GAINAX.md "wikilink")、[Production I.G製作的](../Page/Production_I.G.md "wikilink")[日本](../Page/日本.md "wikilink")[OVA系列](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。另還有出版[小説及](https://zh.wikipedia.org/wiki/小説 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。本編OVA全6話、小說全3卷、漫畫單行本全2卷。本作也是在[新世紀福音戰士中擔任副監督的](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")[鶴卷和哉](../Page/鶴卷和哉.md "wikilink")的首部導演作品。
 
 本作的特徵為凝練的演出、唐突诡异的畫面轉換、夾雜漫畫風格的畫面構成、及隨處可見實驗性質濃厚的演出。而且節奏優秀的動作場面比例不低、設定及動畫品質也有相當高的評價。

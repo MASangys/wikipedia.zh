@@ -1,3 +1,6 @@
+> 本文内容由[小约瑟夫·P·肯尼迪](https://zh.wikipedia.org/wiki/小约瑟夫·P·肯尼迪)转换而来。
+
+
 **小约瑟夫·帕特里克·“乔”·肯尼迪**（，），[美国海軍](https://zh.wikipedia.org/wiki/美国海軍 "wikilink")[飞行员](https://zh.wikipedia.org/wiki/飞行员 "wikilink")，[上尉](../Page/上尉.md "wikilink")，[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")[軍官](../Page/軍官.md "wikilink")。
 
 小约瑟夫是[老约瑟夫·P·肯尼迪](../Page/老约瑟夫·P·肯尼迪.md "wikilink")與[罗丝·伊麗莎白·肯尼迪的長子](../Page/罗丝·肯尼迪.md "wikilink")、[美國第](https://zh.wikipedia.org/wiki/美國 "wikilink")35任[總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[約翰·甘迺迪及前](https://zh.wikipedia.org/wiki/約翰·甘迺迪 "wikilink")[美國司法部長](../Page/美國司法部長.md "wikilink")[羅伯特·甘迺迪和](https://zh.wikipedia.org/wiki/羅伯特·甘迺迪 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[聯邦參議員](https://zh.wikipedia.org/wiki/聯邦參議員 "wikilink")[愛德華·甘迺迪的哥哥](https://zh.wikipedia.org/wiki/愛德華·甘迺迪 "wikilink")，[肯尼迪家族](../Page/肯尼迪家族.md "wikilink")的第三代成员，1944年8月12日在[第二次世界大战](../Page/第二次世界大战.md "wikilink")中执行任务时在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[萨福克郡坠机身亡](https://zh.wikipedia.org/wiki/萨福克郡 "wikilink")，得年29歲。

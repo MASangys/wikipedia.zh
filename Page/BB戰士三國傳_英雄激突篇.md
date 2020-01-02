@@ -1,3 +1,6 @@
+> 本文内容由[BB戰士三國傳 英雄激突篇](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突篇)转换而来。
+
+
 《**BB戰士三國傳 英雄激突編**》是《[BB戰士三國傳 風雲豪傑編](https://zh.wikipedia.org/wiki/BB戰士三國傳_風雲豪傑編 "wikilink")》的續集，由2008年開始，於雜誌「Kerokero Ace」開始連載。故事背景仍沿用[中國](../Page/中國.md "wikilink")名著[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》的背景，以[董卓](../Page/董卓.md "wikilink")被誅，天下大亂作始。
 
 而模型雜誌「電擊Hobby」，亦會刊載個名角色的文字介紹，插畫則由[日向恭介擔任](https://zh.wikipedia.org/wiki/日向恭介 "wikilink")。

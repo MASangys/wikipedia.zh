@@ -1,3 +1,6 @@
+> 本文内容由[CASA 880](https://zh.wikipedia.org/wiki/CASA_880)转换而来。
+
+
 [CASA_880.JPG](https://zh.wikipedia.org/wiki/File:CASA_880.JPG "fig:CASA_880.JPG") [HK_North_Point_King_s_Road_CASA_880.JPG](https://zh.wikipedia.org/wiki/File:HK_North_Point_King_s_Road_CASA_880.JPG "fig:HK_North_Point_King_s_Road_CASA_880.JPG") [HK_Central_Wyndham_Street_Taxi_CASA_880_adv.jpg](https://zh.wikipedia.org/wiki/File:HK_Central_Wyndham_Street_Taxi_CASA_880_adv.jpg "fig:HK_Central_Wyndham_Street_Taxi_CASA_880_adv.jpg") **CASA 880**是[香港](../Page/香港.md "wikilink")一座37層高的單幢式住宅，位於[香港島](../Page/香港島.md "wikilink")[東區](../Page/東區_\(香港\).md "wikilink")[鰂魚涌](../Page/鰂魚涌.md "wikilink")\[1\]，鄰近[港鐵](../Page/港鐵.md "wikilink")[鰂魚涌站](../Page/鰂魚涌站.md "wikilink")\[2\]，亦是該區六年來的新屋苑。「Casa」一詞來自[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")，意思為房子，發展商希望以西班牙名字突顯該物業的[南歐風格特色](https://zh.wikipedia.org/wiki/南歐 "wikilink")；「880」則象徵英皇道880號，為該大廈的所在門牌號碼。CASA 880因此得名\[3\]。
 
 值得留意是屋苑前臨繁忙的英皇道，位於高層的單位也要飽受車聲困擾。而且，屋苑屬於單橦樓，發水面積相當高，做成客房細小但窗台大的現象。

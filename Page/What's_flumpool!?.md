@@ -1,3 +1,6 @@
+> 本文内容由[What\'s flumpool!\?](https://zh.wikipedia.org/wiki/What\'s_flumpool!\?)转换而来。
+
+
 『**What's flumpool\!?**』是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2009年12月23日發售。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[GODDESS](https://zh.wikipedia.org/wiki/GODDESS)转换而来。
+
+
 **GODDESS**（），為[韓國的KW](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment首度推出的首隊四人女子團體，也是旗下首位藝人，現任成員包括YeJin , BitNa , SoJeong和EunJee,於2012年9月28日以首張單曲《이별파티》(Farewell party)正式出道。她們本應在8月中旬出道，但因要重拍MV的關係，所以要延遲至9月出道。\[1\]
 
 ## 團名由來

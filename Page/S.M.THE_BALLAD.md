@@ -1,3 +1,6 @@
+> 本文内容由[S.M.THE BALLAD](https://zh.wikipedia.org/wiki/S.M.THE_BALLAD)转换而来。
+
+
 **S.M. THE BALLAD**（），是韓國經紀公司[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2010年成立的[限定企劃組合](https://zh.wikipedia.org/wiki/限定企劃組合 "wikilink")。第一代成員由、[圭賢](../Page/圭賢.md "wikilink")、[鐘鉉及](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")[JINO所組成](../Page/趙珍虎.md "wikilink")，首張迷你專輯《S.M. THE BALLAD Vol.1–Miss You》於2010年11月29日發售。
 
 2014年2月4日，[SM Entertainment宣布第二代由](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[最強昌珉](../Page/沈昌珉.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")、[周覓及](https://zh.wikipedia.org/wiki/周覓 "wikilink")[張力尹八人共同組成](https://zh.wikipedia.org/wiki/張力尹 "wikilink")，並於2月13日發行第二張迷你專輯《S.M. THE BALLAD Vol.2－Breath》。\[1\]

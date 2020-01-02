@@ -1,3 +1,6 @@
+> 本文内容由[MobileMe](https://zh.wikipedia.org/wiki/MobileMe)转换而来。
+
+
 **MobileMe**是一項由[蘋果公司於](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[WWDC 2008發佈的網路服務](https://zh.wikipedia.org/wiki/WWDC#WWDC_2008 "wikilink")，以取代[.Mac](../Page/.Mac.md "wikilink")及強化其功能。原有的.Mac服務及會員已自動轉移提升至MobileMe。此新服務自2008年7月9日開始。在[WWDC 2011](https://zh.wikipedia.org/wiki/WWDC#WWDC_2011 "wikilink")，蘋果宣布，MobileMe將不再接受新的訂閱\[1\]，並會於2012年6月30日停止MobileMe服務，原本的功能將會整合至[iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")[雲端服務](https://zh.wikipedia.org/wiki/雲端服務 "wikilink")。\[2\]
 
 ## .Mac與MobileMe的分別

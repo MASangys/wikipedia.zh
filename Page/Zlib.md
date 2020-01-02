@@ -1,3 +1,6 @@
+> 本文内容由[Zlib](https://zh.wikipedia.org/wiki/Zlib)转换而来。
+
+
 **zlib**是提供[資料壓縮之用的](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")[函式庫](../Page/函式庫.md "wikilink")，由Jean-loup Gailly與Mark Adler所開發，初版0.9版在1995年5月1日發表。zlib使用[抽象化的](https://zh.wikipedia.org/wiki/抽象化\(计算机科学\) "wikilink")[DEFLATE](../Page/DEFLATE.md "wikilink")[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，最初是為[libpng函式庫所寫的](https://zh.wikipedia.org/wiki/libpng "wikilink")，後來普遍為許多軟體所使用。此函式庫為[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，使用zlib授權。
 
 截至[2007年3月](../Page/2007年3月.md "wikilink")，zlib是包含在[Coverity的](https://zh.wikipedia.org/wiki/Coverity "wikilink")[美国国土安全部赞助者选择继续审查的开源项目](https://zh.wikipedia.org/wiki/美国国土安全部 "wikilink")\[1\]。

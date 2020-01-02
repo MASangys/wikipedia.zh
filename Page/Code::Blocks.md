@@ -1,3 +1,6 @@
+> 本文内容由[Code::Blocks](https://zh.wikipedia.org/wiki/Code::Blocks)转换而来。
+
+
 **Code::Blocks**是一個[免費](https://zh.wikipedia.org/wiki/免費軟件 "wikilink")、[開源](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")、[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")，使用[C++](../Page/C++.md "wikilink")開發，並且使用[wxWidgets做為GUI函式庫](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")。Code::Blocks使用了[外掛程式架構](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")，其功能可以使用外掛程式自由地擴充。目前，Code::Blocks主要針對開發[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")／[C++](../Page/C++.md "wikilink")程式而設計。
 
 Code::Blocks目前支援[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")及[Mac OS X數種平台](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。使用者亦能夠在[FreeBSD](../Page/FreeBSD.md "wikilink")環境中架设Code::Blocks。\[1\]

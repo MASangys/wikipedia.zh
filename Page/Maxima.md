@@ -1,3 +1,6 @@
+> 本文内容由[Maxima](https://zh.wikipedia.org/wiki/Maxima)转换而来。
+
+
 **Maxima** 是一种用[LISP](../Page/LISP.md "wikilink") 编写的[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")（Computer Algebra System），用于公式推导和符号计算，它是一套[自由软件](../Page/自由软件.md "wikilink")，在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下發行。它由[麻省理工学院](../Page/麻省理工学院.md "wikilink")在美国能源部的支持下于60年代末创造的 [Macsyma](https://zh.wikipedia.org/wiki/Macsyma "wikilink") 演变而来。Macsyma 後來慢慢走上商業化的道路，自1982年开始，[Bill Schelter](https://zh.wikipedia.org/wiki/Bill_Schelter "wikilink") 教授默默地维护基于能源部获得的代碼的Macsyma，他把這個軟體叫做Maxima，開放源码。因為版權的問題，Maxima一直没有公開發行，-{只}-有少數人知道有這個軟體的存在。1998年，Maxima 終於得到公開發行的許可，這已是 Schelter 教授努力了16年之後的事。Schelter 教授在2001年去世，不過已經正式成為合法開放源碼軟體，因此陸續有支持開放源碼的程式設計師，學者投入 Maxima 的開發工作。
 
 Maxima 的前身 Macsyma 在當時是非常創新的軟體。現代流行的商業[计算机代数系统軟體](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink") Maple 及 Mathematica，都是受到Macsyma 的啟發而設計出來的。

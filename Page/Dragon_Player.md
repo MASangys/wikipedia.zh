@@ -1,3 +1,6 @@
+> 本文内容由[Dragon Player](https://zh.wikipedia.org/wiki/Dragon_Player)转换而来。
+
+
 **神龍播放器**（Dragon Player）是一個精簡的媒體播放器。這是[KDE 3的Codeine影片播放器改名後繼續進行開發](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")，由於神龍播放器使用[Phonon](../Page/Phonon_\(KDE\).md "wikilink") - 一個多媒體的API本身可以連接任何的多媒體框架，它將可播放於任何支持的多媒體框架。
 
 ## 功能

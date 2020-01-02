@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C08\)](https://zh.wikipedia.org/wiki/ATC代码_\(C08\))转换而来。
+
+
 ## C08C 主要对[血管](../Page/血管.md "wikilink")产生影响的选择性[钙通道阻断药](https://zh.wikipedia.org/wiki/钙通道阻断 "wikilink")（Selective calcium channel blockers with mainly vascular effects）
 
 ### C08CA [二氢吡啶衍生物](https://zh.wikipedia.org/wiki/二氢吡啶衍 "wikilink")（Dihydropyridine derivatives）

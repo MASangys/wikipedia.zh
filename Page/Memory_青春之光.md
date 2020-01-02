@@ -1,3 +1,6 @@
+> 本文内容由[Memory 青春之光](https://zh.wikipedia.org/wiki/Memory_青春之光)转换而来。
+
+
 「**Memory 青春之光**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第4张[单曲](../Page/单曲.md "wikilink")。於1999年2月10日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

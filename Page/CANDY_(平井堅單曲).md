@@ -1,3 +1,6 @@
+> 本文内容由[CANDY \(平井堅單曲\)](https://zh.wikipedia.org/wiki/CANDY_\(平井堅單曲\))转换而来。
+
+
 《**CANDY**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第30張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年9月23日發行。
 
 ## 概述

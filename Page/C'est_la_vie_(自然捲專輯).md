@@ -1,3 +1,6 @@
+> 本文内容由[C\'est la vie \(自然捲專輯\)](https://zh.wikipedia.org/wiki/C\'est_la_vie_\(自然捲專輯\))转换而来。
+
+
 《**C'est la vie**》是在[自然捲的首張專輯](../Page/自然捲_\(樂團\).md "wikilink")，於2004年4月29日發行。這張專輯不但是成軍以來的首張專輯更入圍許多獎項，包括[新加坡金曲獎](../Page/新加坡金曲獎.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[第16屆金曲獎等](https://zh.wikipedia.org/wiki/第16屆金曲獎 "wikilink")。
 
 而此張專輯的概念是將生活中的隨處可見的事物寫進歌詞裡面，再搭配上主唱[娃娃那有如天籟的聲音](../Page/魏如萱.md "wikilink")，震撼了音樂圈。

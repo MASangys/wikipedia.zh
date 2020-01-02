@@ -1,3 +1,6 @@
+> 本文内容由[Smalltalk](https://zh.wikipedia.org/wiki/Smalltalk)转换而来。
+
+
 **Smalltalk**是一种[面向对象的](../Page/面向对象程序设计.md "wikilink")、[动态类型的](https://zh.wikipedia.org/wiki/动态类型 "wikilink")[编程语言](../Page/编程语言.md "wikilink")。Smalltalk由[艾伦·凯](../Page/艾伦·凯.md "wikilink")，Dan Ingalls，Ted Kaehler，Adele Goldberg等于70年代初在[Xerox PARC开发](https://zh.wikipedia.org/wiki/Xerox_PARC "wikilink")。
 
 Smalltalk对其它众多的程序设计语言的产生起到了极大的推动作用，主要有：[C++](../Page/C++.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[Objective-C](../Page/Objective-C.md "wikilink")，[Actor](https://zh.wikipedia.org/wiki/Actor "wikilink")，[Java](../Page/Java.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")等。90年代的许多软件开发思想得利于Smalltalk，例如[设计模式](../Page/设计模式_\(计算机\).md "wikilink")、[敏捷编程和](https://zh.wikipedia.org/wiki/敏捷编程 "wikilink")[代码重构](../Page/代码重构.md "wikilink")等。

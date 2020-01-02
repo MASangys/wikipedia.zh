@@ -1,3 +1,6 @@
+> 本文内容由[Windows Server 2012](https://zh.wikipedia.org/wiki/Windows_Server_2012)转换而来。
+
+
 ****，开发代号为Windows Server 8，是第五個[Windows Server的版本](../Page/Windows_Server.md "wikilink")。这是[Windows 8的服务器版本](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，是微軟繼[Windows Server 2008 R2後推出的Windows](../Page/Windows_Server_2008_R2.md "wikilink") Server系列產品。在开发过程中，它放出过两个版本：开发者预览版与公开测试版。从2012年9月4日開始，該軟件在全球范围内通過多種渠道提供給客戶。
 
 不同於上一代，Windows Server 2012不支持[Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")（[IA-64](https://zh.wikipedia.org/wiki/IA-64 "wikilink")）或[IA-32架构的](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")。Windows Server 2012有四個版本，较Windows Server 2008 R2做了很多改进。例如改进版本的Hyper-V，IP地址管理角色，新的Windows任务管理器，以及新的ReFS文件系統。同时，它也包含Metro用户界面，Windows Server 2012的这些功能收到很多正面评价。

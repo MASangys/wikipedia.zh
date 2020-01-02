@@ -1,3 +1,6 @@
+> 本文内容由[Mystery Virgin](https://zh.wikipedia.org/wiki/Mystery_Virgin)转换而来。
+
+
 《**Mystery Virgin**》（）是[山田涼介](../Page/山田涼介.md "wikilink")的第1張個人單曲，於2013年1月9日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

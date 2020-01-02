@@ -1,3 +1,6 @@
+> 本文内容由[Shield Portable](https://zh.wikipedia.org/wiki/Shield_Portable)转换而来。
+
+
 **Shield Portable**（**神盾掌机**，原名**Nvidia Shield**）是[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink")（英伟达）公司在2013年的[国际消费类电子产品展览会上推出的产品](https://zh.wikipedia.org/wiki/国际消费类电子产品展览会 "wikilink")\[1\]，这是一款针对开放平台的便携游戏的解决方案。
 
 ## 命名
@@ -39,15 +42,10 @@
 [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:游戏控制器](https://zh.wikipedia.org/wiki/Category:游戏控制器 "wikilink") [Category:掌上遊戲機](https://zh.wikipedia.org/wiki/Category:掌上遊戲機 "wikilink") [Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
 8.

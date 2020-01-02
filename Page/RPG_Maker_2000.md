@@ -1,3 +1,6 @@
+> 本文内容由[RPG Maker 2000](https://zh.wikipedia.org/wiki/RPG_Maker_2000)转换而来。
+
+
 **RPG Maker 2000**（遊戲製作大師RPG篇）（又稱RM2K）是[RPG製作大師](../Page/RPG製作大師.md "wikilink")系列中第二個運行於[Microsoft Windows作業系統上之RPG製作軟體](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。由[日本](../Page/日本.md "wikilink")[Enterbrain](../Page/Enterbrain.md "wikilink")發行。
 
 RPG Maker 2000在2000年8月首次發行於[日本](../Page/日本.md "wikilink")。之後[Enterbrain](../Page/Enterbrain.md "wikilink")發行了較便宜的[RPG Maker 2000 Value\!](https://zh.wikipedia.org/wiki/RPG_Maker_2000_Value! "wikilink")，並包含主要的更新，例如使用更多的編號處理圖片檔案。

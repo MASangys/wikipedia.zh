@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE用語列表](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表)转换而来。
+
+
 **ONE PIECE用語列表**列出漫畫《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中，地理、組織、動植物、物件及特別用語等的介紹。
 
 ## 地理

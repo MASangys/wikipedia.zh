@@ -1,3 +1,6 @@
+> 本文内容由[Univers](https://zh.wikipedia.org/wiki/Univers)转换而来。
+
+
 **Univers**（, [法语](../Page/法语.md "wikilink")意思是通用"universe"）是1957年[瑞士设计师](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[阿德里安·弗鲁提格](../Page/阿德里安·弗鲁提格.md "wikilink")设计的一种西文[无衬线](https://zh.wikipedia.org/wiki/无衬线 "wikilink")[字体](../Page/字体.md "wikilink")。
 
 它和[Helvetica](../Page/Helvetica.md "wikilink")一起被称为“[瑞士风格](https://zh.wikipedia.org/wiki/瑞士 "wikilink")”字体，最初是作为[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[德贝尔尼和佩尼奥铸造所的](https://zh.wikipedia.org/wiki/德贝尔尼和佩尼奥铸造所 "wikilink")[照相排版](../Page/照相排版.md "wikilink")[铅字发表的](https://zh.wikipedia.org/wiki/铅字 "wikilink")。

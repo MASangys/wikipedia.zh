@@ -1,3 +1,6 @@
+> 本文内容由[Thompson shell](https://zh.wikipedia.org/wiki/Thompson_shell)转换而来。
+
+
 **Thompson shell**是歷史上第一個[Unix shell](../Page/Unix_shell.md "wikilink")，1971年由[肯·湯普遜寫作出第一版并加入](https://zh.wikipedia.org/wiki/肯·湯普遜 "wikilink")[UNIX](../Page/UNIX.md "wikilink")之中。它是一個簡單的命令列[直譯器](../Page/直譯器.md "wikilink")，但不能被用來執行指令稿（Shell script）。它的許多特徵影響了以後[命令行界面](../Page/命令行界面.md "wikilink")的發展。至[Version 7 Unix之後](https://zh.wikipedia.org/wiki/Version_7_Unix "wikilink")，被[Bourne shell取代](../Page/Bourne_shell.md "wikilink")。
 
 Thompson shell使用的重導向命令“\<”與“\>”，以及[管線命令](../Page/管道_\(Unix\).md "wikilink")“|”影響到之後的[Unix shell與](../Page/Unix_shell.md "wikilink")[MS DOS](https://zh.wikipedia.org/wiki/MS_DOS "wikilink")。

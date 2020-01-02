@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson Xperia X10 mini](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_X10_mini)转换而来。
+
+
 Sony Ericsson Xperia X10 mini是[索尼愛立信生產](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")，採用[Android](../Page/Android.md "wikilink")[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是索尼愛立信第二部採用Android作業系統的智能手機。屬[Xperia](../Page/Xperia.md "wikilink")系列，於2010年2月14日面世。採用[電容式](https://zh.wikipedia.org/wiki/電容式 "wikilink")[多點觸控](../Page/多點觸控.md "wikilink")[顯示屏](https://zh.wikipedia.org/wiki/顯示屏 "wikilink")，600 MHz [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") [MSM7227](https://zh.wikipedia.org/wiki/MSM7227 "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，內置 256 MB [記憶體](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。
 
 ## Sony Ericsson Xperia X10 mini pro

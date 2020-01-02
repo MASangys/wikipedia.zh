@@ -1,3 +1,6 @@
+> 本文内容由[Go車誌](https://zh.wikipedia.org/wiki/Go車誌)转换而来。
+
+
 《**Go車誌 BuyCarTV**》，於2007年7月－2009年於[台灣交通電視台播放](../Page/民視第一台.md "wikilink")；2009年開始以[YouTube](../Page/YouTube.md "wikilink")為主要平台。節目內容為[台灣市場與國外的新車試駕評論以及台灣汽車零配件報導為主](https://zh.wikipedia.org/wiki/台灣 "wikilink")。讓觀眾了解台灣汽車市場的生態與變化。創辦人及主持人為曾任[車訊國際總編輯的](https://zh.wikipedia.org/wiki/車訊國際 "wikilink")「William」[朱嘉偉](https://zh.wikipedia.org/wiki/朱嘉偉 "wikilink")。該節目與[Yahoo\!奇摩汽車的合作](https://zh.wikipedia.org/wiki/Yahoo!奇摩 "wikilink")，改變台灣網友上網搜尋車輛資訊的習慣，從文字圖片轉變成影音為主的汽車影片。
 
 ## Go車誌車隊

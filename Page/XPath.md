@@ -1,3 +1,6 @@
+> 本文内容由[XPath](https://zh.wikipedia.org/wiki/XPath)转换而来。
+
+
 **XPath**即为[XML](../Page/XML.md "wikilink")路径语言（XML Path Language），它是一种用来确定XML文档中某部分位置的[计算机语言](https://zh.wikipedia.org/wiki/计算机语言 "wikilink")。
 
 XPath基于XML的树状结构，提供在数据结构树中找寻节点的能力。起初XPath的提出的初衷是将其作为一个通用的、介于与[XSL间的语法模型](https://zh.wikipedia.org/wiki/XSL "wikilink")。但是XPath很快的被开发者采用来当作小型[查询语言](https://zh.wikipedia.org/wiki/查询语言 "wikilink")。

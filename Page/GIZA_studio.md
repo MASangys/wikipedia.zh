@@ -1,3 +1,6 @@
+> 本文内容由[GIZA studio](https://zh.wikipedia.org/wiki/GIZA_studio)转换而来。
+
+
 GIZA studio [日本](../Page/日本.md "wikilink")[Being,Inc.旗下的唱片公司](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")1998年成立。在[近畿地區使用音樂事業積蓄了的資金廣泛地開展著高級公寓銷售](https://zh.wikipedia.org/wiki/近畿地區 "wikilink")·音樂大廳·音樂專門學校·飲食業。廠牌名稱的來源是 Garage Indies Zapping Association 的第一個字母合併而成。以[三枝夕夏 IN db](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")、[小松未歩](https://zh.wikipedia.org/wiki/小松未歩 "wikilink")、[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[愛内里菜](https://zh.wikipedia.org/wiki/愛内里菜 "wikilink")、[GARNET CROW等人氣歌手而聞名](../Page/GARNET_CROW.md "wikilink")。目前GIZA studio已經暫停業務。
 
 ## 特徴

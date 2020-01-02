@@ -1,3 +1,6 @@
+> 本文内容由[BMP-3步兵戰車](https://zh.wikipedia.org/wiki/BMP-3步兵戰車)转换而来。
+
+
 **BMP-3步兵戰車**是蘇聯BMP系列的第三代。不同於由BMP-1至BMP-2衹是局部改良，BMP-3是全新的設計，1986年推出原型車，1989年投產裝備部隊，1990年5月的閱兵式中首次出現在媒體。
 
 ## 基本資料
@@ -9,7 +12,7 @@
   - 重量：18.7噸
   - 最快速度：72公里/小時
   - 續航距離：600公里
-  - 主武裝：100毫米口徑2A70線膛炮+[AT-10反坦克飛彈](../Page/9K116指節套環反坦克導彈.md "wikilink")+30毫米口徑[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")
+  - 主武裝：100毫米口徑2A70線膛炮+[AT-10反坦克飛彈](../Page/9K116指節套環反坦克導彈.md "wikilink")+30毫米口徑[2A42机炮或](https://zh.wikipedia.org/wiki/希普诺夫2A42机炮 "wikilink")[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")
   - 副武裝：7.62毫米口徑PKT同軸機槍X3
   - 發動機：一個500匹馬力UTD-29M水冷式柴油發動機
 
@@ -17,7 +20,7 @@
 
 [RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg](https://zh.wikipedia.org/wiki/File:RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg "fig:RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg") [BMP-3_IFV_-_TankBiathlon14part2-68.jpg](https://zh.wikipedia.org/wiki/File:BMP-3_IFV_-_TankBiathlon14part2-68.jpg "fig:BMP-3_IFV_-_TankBiathlon14part2-68.jpg") BMP-3的車身和炮塔是鋁合金焊接結構，若干重要部份鑲鋼做補強。動力組件由BMP-1/2的車頭改為在車尾，為了乘員進出而在車尾加上兩道有腳踏的車門，為此動力組件盡量造得扁平以降低高度。車尾門因為要遷就車尾的動力組件而被設計成一對小門，乘坐的步兵上下車皆要爬過此門，因此BMP-3乘員進出的便利性不及BMP-1/2。BMP-3乘員為車長，炮手和駕駛再加7名士兵，車長和炮手在雙人炮塔中（車長在右而炮長在左），駕駛在車身前方中央位置，左右兩側各有一個士兵坐位，士兵坐位前方各有一挺[PKT機槍](../Page/PK通用機槍.md "wikilink")，其餘5名士兵坐在後方的運兵艙內，其座位也有槍孔可用手上的槍械向車外開火射擊。
 
-BMP-3的火力極為強大，炮塔上裝有一門100毫米口徑2A70型線膛炮，此炮能發射破片榴彈和AT-10炮射反坦克飛彈，在2A70右側為30毫米口徑[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")，在2A70主炮左側為7.62毫米口徑PKT機槍。
+BMP-3的火力極為強大，炮塔上裝有一門100毫米口徑2A70型線膛炮，此炮能發射破片榴彈和AT-10炮射反坦克飛彈，在2A70右側為30毫米口徑[2A42机炮或](https://zh.wikipedia.org/wiki/希普诺夫2A42机炮 "wikilink")[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")，在2A70主炮左側為7.62毫米口徑PKT機槍。
 
 如同BMP-1/2，BMP-3也是水陸兩用車，它在水上行駛時改為由發動機帶動一個噴水器向後方噴水，也因此其水上速度由BMP-1/2的7公里/小時加快至10公里/小時。
 
@@ -139,13 +142,13 @@ Bionix II:Mk 44巨蝮二式鏈炮<br />
 <a href="../Page/79式反載具飛彈.md" title="wikilink">79式反載具飛彈</a><br />
 <a href="../Page/住友74式7.62毫米車載機槍.md" title="wikilink">74式車載7.62mm機槍</a></small></p></td>
 <td><p><small>100毫米口徑<a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70線膛炮</a>（<a href="../Page/9K116指節套環反坦克導彈.md" title="wikilink">AT-10反坦克飛彈</a>）<br />
-30 mm <a href="https://zh.wikipedia.org/wiki/希普诺夫2A72机炮" title="wikilink">2A72机炮</a></small></p></td>
+30 mm <a href="https://zh.wikipedia.org/wiki/希普诺夫2A42机炮" title="wikilink">2A42机炮或</a><a href="https://zh.wikipedia.org/wiki/希普诺夫2A72机炮" title="wikilink">2A72机炮</a></small></p></td>
 <td><p><small><a href="../Page/希普諾夫2A42機炮.md" title="wikilink">2A42 30毫米機炮</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">PKT 7.62毫米同軸機槍</a><br />
 <a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克飛彈</a><br />
 Afghanit主動防禦系統</small></p></td>
 <td><p><small>2A70型100毫米线膛炮<br />
-<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">2A72型</a>30mm 机关炮<br />
+<a href="https://zh.wikipedia.org/wiki/希普诺夫2A42机炮" title="wikilink">2A42机炮或</a><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">2A72型</a>30mm 机关炮<br />
 7.62mm 并列机枪<br />
 7.62mm 航向机枪<br />
 5.45mm车体前侧机枪<br />
@@ -242,71 +245,41 @@ globalsecurity.org</ref>\[23\]
 [Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
 
 1.
-
 2.  <http://tass.ru/en/defense/819772>
-
 3.
-
 4.
-
 5.  Jane's Armour and Artillery 2003-2004
-
 6.
-
 7.
-
 8.
 9.  <http://www.globalsecurity.org/military/world/gulf/kuwait-army-equip.htm>
-
 10. <http://www.armstrade.org/includes/periodics/news/2015/0911/113031100/detail.shtml>
-
 11. <http://tass.ru/en/defense/824764>
-
 12. <http://www.globalsecurity.org/military/world/gulf/kuwait-army-equip.htm>
-
 13. <http://vpk-news.ru/news/27912>
-
 14.
 15. <http://armstrade.sipri.org/armstrade>
-
 16.
 17. <http://armstrade.sipri.org/armstrade>
-
 18. [美軍士兵在韓國試乘T-80U主戰車](https://www.chinatimes.com/realtimenews/20190825001748-260417?chdtv)
-
 19. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
-
 20. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
-
 21. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
-
 22. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
-
 23. [Ground Forces Equipment – Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm)
-
 24.
 25. <http://www.armstrade.org/includes/periodics/news/2015/0911/120531103/detail.shtml>
-
 26.
 27. Jane's Sentinel: Turkmenistan (2011)
-
 28.
 29. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
-
 30.
-
 31.
 32. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
-
 33.
-
 34. [Iraq and Saudi Arabia plan to acquire BMP-3 armoured infantry fighting vehicles from Russia](http://www.armyrecognition.com/september_2015_global_defense_security_news_uk/iraq_and_saudi_arabia_plan_to_acquire_bmp-3_armoured_infantry_fighting_vehicles_from_russia_13009155.html) - Armyrecognition.com, 30 September 2015
-
 35.
 36. <http://asian-defence-news.blogspot.com/2014/06/philippines-interested-in-russian-bmp-3f.html>
-
 37.
-
 38.
-
 39.

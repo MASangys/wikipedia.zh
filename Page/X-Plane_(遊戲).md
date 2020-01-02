@@ -1,3 +1,6 @@
+> 本文内容由[X-Plane \(遊戲\)](https://zh.wikipedia.org/wiki/X-Plane_\(遊戲\))转换而来。
+
+
 **X-Plane**是一款由[Laminar Research开发的个人专业](../Page/Laminar_Research.md "wikilink")[飞行模拟器](https://zh.wikipedia.org/wiki/飞行模拟器 "wikilink")。该软件已在[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Mac或](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows等众多操作系统发行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。X-Plane和其他软件打包成为完整且真实的飞行模拟平台。X-Plane其利于使用插件扩展功能的构架使X-Plane成为目前最完整真实的模拟飞行平台之一。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[PostScript](https://zh.wikipedia.org/wiki/PostScript)转换而来。
+
+
 **PostScript**（**PS**）是主要用于电子产业和[桌面出版](../Page/桌面出版.md "wikilink")领域的一种[页面描述语言](../Page/页面描述语言.md "wikilink")和[编程语言](../Page/编程语言.md "wikilink")。
 
 ## 历史

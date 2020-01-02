@@ -1,3 +1,6 @@
+> 本文内容由[Present \(flumpool單曲\)](https://zh.wikipedia.org/wiki/Present_\(flumpool單曲\))转换而来。
+
+
 「**Present**」是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年12月7日由[A-Sketch](../Page/A-Sketch.md "wikilink")發售。
 
 ## 收錄曲

@@ -1,3 +1,6 @@
+> 本文内容由[RD 潛腦調查室](https://zh.wikipedia.org/wiki/RD_潛腦調查室)转换而来。
+
+
 《**RD 潛腦調查室**》為一齣由2008年4月開始於在日本播放的[電視動畫原創作品](../Page/日本電視動畫.md "wikilink")。由[士郎正宗](../Page/士郎正宗.md "wikilink")、[Production I.G共同原作的科幻動畫](../Page/Production_I.G.md "wikilink")。RD為「Real Drive」的縮寫\[1\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Teru](https://zh.wikipedia.org/wiki/Teru)转换而来。
+
+
 **Teru**（本名：小橋　照彥，）日本著名音樂家。搖滾樂團．[GLAY](../Page/GLAY.md "wikilink")的主唱。北海道函館市出生，北海道函館商業高等學校畢業，身高169公分，血型Ｏ型，外號「Tekko」。
 
 ## 人物

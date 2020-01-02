@@ -1,3 +1,6 @@
+> 本文内容由[Google數據中心](https://zh.wikipedia.org/wiki/Google數據中心)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Googles_First_Server.jpg "fig:缩略图")
 
 **Google数据中心**（）是[Google](../Page/Google.md "wikilink")用来提供服务的计算机软件和大型硬件资源等技术基础设施。[美国](../Page/美国.md "wikilink")有9間；[欧洲](../Page/欧洲.md "wikilink")有4間；[亚洲](../Page/亚洲.md "wikilink")有3間；[南美洲](../Page/南美洲.md "wikilink")有1間\[1\]。

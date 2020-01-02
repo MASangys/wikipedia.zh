@@ -1,3 +1,6 @@
+> 本文内容由[Hosts文件](https://zh.wikipedia.org/wiki/Hosts文件)转换而来。
+
+
 **hosts文件**（域名解析文件\[1\]）是一个用于储存[计算机网络](../Page/计算机网络.md "wikilink")中各节点信息的计算机文件。这个文件负责将[主機名稱映射到相应的](https://zh.wikipedia.org/wiki/主機名稱 "wikilink")[IP地址](../Page/IP地址.md "wikilink")。hosts文件通常用于补充或取代网络中[DNS的功能](https://zh.wikipedia.org/wiki/DNS "wikilink")。和DNS不同的是，计算机的使用者可以直接对hosts文件进行控制。
 
 最初在[Internet的前身](https://zh.wikipedia.org/wiki/Internet "wikilink")[ARPANET](../Page/ARPANET.md "wikilink")中，其成员手动维护并分享了一个名为HOSTS.TXT的文件，其中就包括主机名称和对应地址。1983年[DNS系统开始开发](https://zh.wikipedia.org/wiki/DNS "wikilink")，1984年得到了发展。\[2\]在网络快速的发展过程中，DNS可以自动提供动态的主机名解析。不过在现代操作系统，hosts文件仍然是一个可以作为备用手段的名称解析机制。

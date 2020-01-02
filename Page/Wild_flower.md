@@ -1,3 +1,6 @@
+> 本文内容由[Wild flower](https://zh.wikipedia.org/wiki/Wild_flower)转换而来。
+
+
 **Wild flower**，[樹海的第一張專輯](../Page/樹海_\(樂團\).md "wikilink")。商品番號GNCX-1001。
 
 ## 概要

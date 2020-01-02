@@ -1,3 +1,6 @@
+> 本文内容由[Veyon](https://zh.wikipedia.org/wiki/Veyon)转换而来。
+
+
 **Veyon**（，原称iTALC，的縮寫，即**智能電腦教學及學習**系統）是一個[自由的](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[開源](https://zh.wikipedia.org/wiki/開源軟件 "wikilink")[課室管理系統](https://zh.wikipedia.org/wiki/課室管理系統 "wikilink")，可在[Linux](../Page/Linux.md "wikilink")及[Microsoft Windows環境下操作](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，主要用於管理電腦室內的課堂學習。透過iTALC，教師可以從教師電腦遙距操控電腦室內的學生電腦，包括以下動作：監察、控制、關閉、演示及開機/關機等。軟件的設計是用作[MasterEye](https://zh.wikipedia.org/wiki/MasterEye "wikilink")\[1\]的替代品。
 
 iTALC最初開發時，只有Linux版本。及至2006年中，由於其核心程式庫[Qt](../Page/Qt.md "wikilink")4被移植到Windows NT平台，所以iTALC亦開始開發出對應Windows平台的版本，不過其安裝方法及操作仍然保留有很濃重的Linux操作習慣，這使一般只會Windows操作的用戶（特別是教師）感到難以操控。不過，正因為其跨平台的特色，使教室可達至跨平台的操控，例如：在一個同時有Windows及Linux作業系統的教室裡，都可以透過同一部教師電腦來操控。

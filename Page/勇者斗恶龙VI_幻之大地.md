@@ -1,3 +1,6 @@
+> 本文内容由[勇者斗恶龙VI 幻之大地](https://zh.wikipedia.org/wiki/勇者斗恶龙VI_幻之大地)转换而来。
+
+
 \[1\]是由[HeartBeat开发](https://zh.wikipedia.org/wiki/HeartBeat_\(游戏公司\) "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）发行的[超级任天堂](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏是[勇者斗恶龙系列天空三部曲的最后一作](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")，于1995年12月9日在日本发行。本作由HeartBeat接替勇者斗恶龙系列游戏之前的开发商[Chunsoft](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")\[2\]。在2007年7月，史克威尔艾尼克斯宣布将《[勇者斗恶龙IV 被引导的人们](../Page/勇者斗恶龙IV_被引导的人们.md "wikilink")》、《[勇者斗恶龙V 天空的新娘](../Page/勇者斗恶龙V_天空的新娘.md "wikilink")》和《勇者斗恶龙VI 幻之大地》重制于[任天堂DS](../Page/任天堂DS.md "wikilink")平台，其中本作是首次重制于其他平台。任天堂DS重制版于2010年在日本发行，2011年在北美和欧洲发行。
 
 作为勇者斗恶龙系列的第六作，本作的美術風格和游戏性仍然和之前的作品相近，但也加入了少量新要素。游戏的图像相比前作《勇者斗恶龙V》有了大幅改进，雖同屬SFC平台，但前作DQ5為SFC初期的作品且图像表現並不算善用了硬體的性能。菜单和前作相比基本相同，战斗也沿用了第一人称回合制。游戏重新使用了《[勇者斗恶龙III](https://zh.wikipedia.org/wiki/勇者斗恶龙III "wikilink")》的职业系統，并做了小幅调整。遊戲為1995年度日本當地的最畅销游戏，最終累計在日本售出了320万份。重制的DS版截至2010年3月在日本售出了120万份。
@@ -76,92 +79,57 @@
 
   - [超级任天堂版官方介绍页](http://www.jp.square-enix.com/archive/dq6/)
   - [任天堂DS重制版官方页面](http://www.square-enix.co.jp/dragonquest/4to6/dsdq6/index.html)
-  - [北美版官方网站](http://dragonquest6.nintendo.com/)
+  - [北美版官方网站](https://web.archive.org/web/20110518175329/http://dragonquest6.nintendo.com/)
 
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:1995年电子游戏](https://zh.wikipedia.org/wiki/Category:1995年电子游戏 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
 
 1.
-
 2.
-
 3.
 4.  [Nintendo Power](https://zh.wikipedia.org/wiki/Nintendo_Power "wikilink") Vol. 81, pp. 64–67. [Nintendo of America](https://zh.wikipedia.org/wiki/Nintendo_of_America "wikilink"), 1995. Retrieved 2007-4-6
-
 5.  **Casino Owner**: Welcome to my subterranean casino\! I hope you enjoy yourself\!
-
 6.  **Medal King**: I collect small medals which were scattered around the world.
-
 7.
-
 8.
 9.  **Priest**: This is the shrine at Alltrades. As you travel, you will learn the skills of your class. Does someone wish to change classes?
-
 10. **Man**: There are higher classes that combine the skills of regular classes...If someone first masters the Warrior and Mage classes...Then he can choose to become a Armamentalist.
-
 11.
 12.
 13.
 14. **Girl**: I heard the demon emperor lives in the dark world.
-
 15. **Hassan**: We have to destroy the demon king\!
-
 16. **Shera**: Now you can take your rightful place as prince of Somnia.
-
 17. **Supreme Sage Isaac**: Quickly, get out of there\! This world is falling apart\! Huh? you defeated Mortamor? That must be it\!
-
 18.
-
 19.
-
 20.
-
 21.
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
 28.
-
 29.
-
 30.
-
 31.
 32.
-
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
-
 39.
-
 40.
-
 41. [【ゲームソフト販売本数ランキング TOP30】集計期間：2010年3月15日〜3月21日 – ファミ通.com](http://www.famitsu.com/game/rank/top30/1233476_1134.html). Famitsu.com (2010-01-04). Retrieved on 2013-01-07.
-
 42.
 43.
 44.
 45.
 46. Kurt Kalata (February 4, 2008), [Dragon Quest VI: Maboroshi no Daichi](http://www.gamasutra.com/view/feature/3520/the_history_of_dragon_quest.php?page=7), [Gamasutra](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")
-
 47.
-
 48.
-
 49.
 50.

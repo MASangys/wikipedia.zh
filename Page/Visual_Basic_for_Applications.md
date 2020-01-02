@@ -1,3 +1,6 @@
+> 本文内容由[Visual Basic for Applications](https://zh.wikipedia.org/wiki/Visual_Basic_for_Applications)转换而来。
+
+
 **V**isual **B**asic for **A**pplications（**VBA**）是[Visual Basic的一種](../Page/Visual_Basic.md "wikilink")[巨集語言](https://zh.wikipedia.org/wiki/宏 "wikilink")，主要能用來擴展Windows的應用程式功能，特別是[Microsoft Office軟體](../Page/Microsoft_Office.md "wikilink")。也可說是一種應用程式視覺化的Basic Sc​​ript。 1994年發行的[Excel](https://zh.wikipedia.org/wiki/Excel "wikilink") 5.0版本中，即具備了VBA的巨集功能。
 
 ## 數據類型

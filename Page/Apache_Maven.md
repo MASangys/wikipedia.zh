@@ -1,3 +1,6 @@
+> 本文内容由[Apache Maven](https://zh.wikipedia.org/wiki/Apache_Maven)转换而来。
+
+
 [Maven_repository_artifact_growth.png](https://zh.wikipedia.org/wiki/File:Maven_repository_artifact_growth.png "fig:Maven_repository_artifact_growth.png")
 
 **Apache Maven**，是一个[软件](../Page/软件.md "wikilink")（特别是[Java软件](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")）[项目管理](../Page/项目管理.md "wikilink")及[自动构建工具](https://zh.wikipedia.org/wiki/自动构建 "wikilink")，由[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")所提供。基于项目对象模型（缩写：POM）概念，Maven利用一个中央信息片断能管理一个项目的构建、报告和文档等步骤。

@@ -1,3 +1,6 @@
+> 本文内容由[SupeSite](https://zh.wikipedia.org/wiki/SupeSite)转换而来。
+
+
 **SupeSite**是一套獨立的[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")（CMS），並且擁有強大對[Discuz\!](../Page/Discuz!.md "wikilink")論壇資訊和[UCenter Home個人空間資訊聚合的功能](../Page/UCenter_Home.md "wikilink")，目前最新版本為7.0。為站長提供了一個創新的社區門戶解決方案。通過SupeSite軟體，社區論壇相關內容可以完成智慧化的提取，並可將相關聯資料及時的更新，SupeSite與站內論壇（Discuz\!）和個人空間（UCenter Home）協同運轉，能更加輕鬆地將網站龐大繁瑣的資料資源進行有效整合，大大減少查找和管理上的不便，自動生成一個生態型Web2.0社區門戶。
 
 ## 特色

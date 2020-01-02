@@ -1,3 +1,6 @@
+> 本文内容由[You Never Give Me Your Money](https://zh.wikipedia.org/wiki/You_Never_Give_Me_Your_Money)转换而来。
+
+
 《**You Never Give Me Your Money**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[保羅·麥卡尼創作](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")、收錄於專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》的1969年歌曲。（作品上是以藍儂-麥卡尼「Lennon–McCartney」的名義發表）
 
 ## 歌曲概要

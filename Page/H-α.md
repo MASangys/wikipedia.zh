@@ -1,3 +1,6 @@
+> 本文内容由[H-α](https://zh.wikipedia.org/wiki/H-α)转换而来。
+
+
 [Emission_spectrum-H.png](https://zh.wikipedia.org/wiki/File:Emission_spectrum-H.png "fig:Emission_spectrum-H.png")
 
 **H-α**，在[天文學](../Page/天文學.md "wikilink")和[物理學上是](https://zh.wikipedia.org/wiki/物理學 "wikilink")[氫的一條具體可見的紅色](https://zh.wikipedia.org/wiki/氫 "wikilink")[發射譜線](../Page/發射光譜.md "wikilink")，波長為6562.8 [Å](https://zh.wikipedia.org/wiki/埃 "wikilink")。依據[原子](../Page/原子.md "wikilink")的[波耳模型](https://zh.wikipedia.org/wiki/波耳模型 "wikilink")，[電子是存在於](https://zh.wikipedia.org/wiki/電子 "wikilink")[量子](../Page/量子.md "wikilink")化能階的軌道上繞著原子的原子核。這些能階以[主量子數](../Page/主量子數.md "wikilink") *n* = 1、2、3、... .來描述，電子只能存在於這些狀態中，並且也只能在這些狀態中轉移。

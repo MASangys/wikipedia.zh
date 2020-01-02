@@ -1,3 +1,6 @@
+> 本文内容由[Rockstar Games](https://zh.wikipedia.org/wiki/Rockstar_Games)转换而来。
+
+
 **Rockstar Games**常被玩家简称为“R星”，是遊戲發行商[Take-Two Interactive旗下的遊戲開發分公司](../Page/Take-Two_Interactive.md "wikilink")，其總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，该公司的前身是[BMG Entertainment旗下的游戏发行部门](https://zh.wikipedia.org/wiki/BMG_Entertainment "wikilink")**BMG Interactive**。公司的作品中，以《[俠盜獵車手](https://zh.wikipedia.org/wiki/俠盜獵車手 "wikilink")》（Grand Theft Auto）系列最為知名。公司下設多個工作室，包括自組及收購，每个工作室有不同的颜色标志。2005年，Take-Two为了让自己发行的游戏与Rockstar发行的游戏所做区别，另外成立了[2K Games品牌以及发行体育竞技类游戏的](../Page/2K_Games.md "wikilink")[2K Sports品牌与发行休闲益智类游戏的](../Page/2K_Sports.md "wikilink")[2K Play品牌以整合原Take](https://zh.wikipedia.org/wiki/2K_Play "wikilink")-Two旗下工作室开发的品牌资源。
 
 ## 工作室

@@ -1,3 +1,6 @@
+> 本文内容由[Adobe OnLocation](https://zh.wikipedia.org/wiki/Adobe_OnLocation)转换而来。
+
+
 **Adobe OnLocation**是一款视频录制及监视软件，前身为Serious Magic DV Rack。它为用户提供高质量的视频多媒体文件，涵盖了笔记本电脑到工作站等广泛的适用范围。
 
 OnLocation是DV/HDV数字磁盘记录器同一个监控系统的结合体，它能够运行在外挂便携式摄像机的Windows笔记本上。　　

@@ -1,3 +1,6 @@
+> 本文内容由[Life Continues...](https://zh.wikipedia.org/wiki/Life_Continues...)转换而来。
+
+
 《**Life Continues...**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2006年2月17日正式發行。
 
 ## 專輯簡介

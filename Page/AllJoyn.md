@@ -1,3 +1,6 @@
+> 本文内容由[AllJoyn](https://zh.wikipedia.org/wiki/AllJoyn)转换而来。
+
+
 **AllJoyn**，由[高通](../Page/高通.md "wikilink")公司主導的高通創新中心（Qualcomm Innovation Center）所開發的[開放原始碼專案](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，主要用於近距離[無線傳輸](https://zh.wikipedia.org/wiki/無線傳輸 "wikilink")，透過[Wifi或](https://zh.wikipedia.org/wiki/Wifi "wikilink")[藍牙](../Page/藍牙.md "wikilink")技術，進行定位與[點對點檔案傳輸](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")。這個專案在2012年對外公開。
 
 ## 參考資料

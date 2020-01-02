@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(B05\)](https://zh.wikipedia.org/wiki/ATC代码_\(B05\))转换而来。
+
+
 ## B05A [血液](../Page/血液.md "wikilink")及相关药品（Blood and related products）
 
 ### B05AA [血液代用品和](https://zh.wikipedia.org/wiki/血液代用品 "wikilink")[血浆蛋白成分](https://zh.wikipedia.org/wiki/血浆蛋白 "wikilink")（Blood substitutes and plasma protein fractions）

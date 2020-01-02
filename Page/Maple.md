@@ -1,3 +1,6 @@
+> 本文内容由[Maple](https://zh.wikipedia.org/wiki/Maple)转换而来。
+
+
 MAPLE是一個符號運算和數值計算軟體平臺
 
 ## 總覽

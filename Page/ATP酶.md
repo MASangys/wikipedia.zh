@@ -1,3 +1,6 @@
+> 本文内容由[ATP酶](https://zh.wikipedia.org/wiki/ATP酶)转换而来。
+
+
 **ATP酶**，又称为**三磷酸腺苷酶**，是一类能将[三磷酸腺苷](../Page/三磷酸腺苷.md "wikilink")（ATP）催化[水解](../Page/水解.md "wikilink")为[二磷酸腺苷](../Page/二磷酸腺苷.md "wikilink")（ADP）和[磷酸根](https://zh.wikipedia.org/wiki/磷酸根 "wikilink")[离子](../Page/离子.md "wikilink")的[酶](../Page/酶.md "wikilink")，这是一个释放能量的反应。在大多数情况下，能量可以通过传递而被用于驱动另一个需要能量的[化学反应](../Page/化学反应.md "wikilink")。这一过程被所有已知的生命形式广泛利用。
 
 部分ATP酶是[内在膜蛋白](https://zh.wikipedia.org/wiki/内在膜蛋白 "wikilink")（Integral membrane protein），可以锚定在[生物膜](../Page/生物膜.md "wikilink")上，并可以在膜上移动；这些ATP酶又被称为**跨膜ATP酶**。

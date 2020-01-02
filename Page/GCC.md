@@ -1,3 +1,6 @@
+> 本文内容由[GCC](https://zh.wikipedia.org/wiki/GCC)转换而来。
+
+
 **GNU编译器套裝**（，縮寫為**GCC**），指一套[编程語言](https://zh.wikipedia.org/wiki/编程語言 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，以[GPL及](https://zh.wikipedia.org/wiki/GPL "wikilink")[LGPL許可證所發行的](https://zh.wikipedia.org/wiki/LGPL "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，也是[GNU計劃的关键部分](https://zh.wikipedia.org/wiki/GNU計畫 "wikilink")，也是[GNU工具链的主要組成部份之一](https://zh.wikipedia.org/wiki/GNU工具链 "wikilink")。GCC（特别是其中的C语言编译器）也常被认为是跨平台编译器的事实标准。1985年由[理查德·马修·斯托曼開始發展](https://zh.wikipedia.org/wiki/理查德·马修·斯托曼 "wikilink")，現在由[自由軟體基金會負責維護工作](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")。
 
 原名為**GNU C語言編譯器**（），因為它原本只能處理[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")。GCC在发布后很快地得到擴展，變得可處理[C++](../Page/C++.md "wikilink")。之後也變得可處理[Fortran](../Page/Fortran.md "wikilink")、[Pascal](../Page/Pascal_\(程式語言\).md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Ada](../Page/Ada.md "wikilink")，[Go](../Page/Go.md "wikilink")與其他語言。

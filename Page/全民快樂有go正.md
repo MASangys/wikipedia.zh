@@ -1,3 +1,6 @@
+> 本文内容由[全民快樂有go正](https://zh.wikipedia.org/wiki/全民快樂有go正)转换而来。
+
+
 《**全民快樂有go正**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Happy Go Go Go*）是大東影藝製作、[中華電視公司](../Page/中華電視公司.md "wikilink")監製的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。該節目自2009年3月7日起的每星期六20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）於華視主頻道播出，2009年9月11日起改成每星期五20時整至22時整（[臺灣時間](https://zh.wikipedia.org/wiki/臺灣時間 "wikilink")）播出。該節目是《[快樂有go正](../Page/快樂有go正.md "wikilink")》的續作，節目中的特點，除了沿襲《快樂有go正》一部分的單元外，一度新增《快樂有go正》沒有的單元。
 
 ## 主持人

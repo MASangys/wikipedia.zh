@@ -1,3 +1,6 @@
+> 本文内容由[Opera行動瀏覽器](https://zh.wikipedia.org/wiki/Opera行動瀏覽器)转换而来。
+
+
 **Opera**（又稱：**Opera瀏覽器**；前稱：**Opera Mobile**），是[Opera軟件](../Page/Opera軟件.md "wikilink")為[智能手機和](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[個人數碼助理推出的](https://zh.wikipedia.org/wiki/個人數碼助理 "wikilink")[行動瀏覽器](https://zh.wikipedia.org/wiki/行動瀏覽器 "wikilink")。
 
 ## 功能

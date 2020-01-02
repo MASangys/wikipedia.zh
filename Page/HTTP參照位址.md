@@ -1,3 +1,6 @@
+> 本文内容由[HTTP參照位址](https://zh.wikipedia.org/wiki/HTTP參照位址)转换而来。
+
+
 **HTTP參照位址**（**referer**，或**HTTP referer**）是[HTTP表頭的一個欄位](https://zh.wikipedia.org/wiki/HTTP "wikilink")，用來表示從哪兒連結到目前的[網頁](../Page/網頁.md "wikilink")，採用的格式是[URL](https://zh.wikipedia.org/wiki/URL "wikilink")。換句話說，藉著HTTP參照位址，目前的網頁可以檢查訪客從哪裡而來，這也常被用來對付偽造的跨網站請求。
 
 而 *dereferer* 則是將HTTP參照位址資訊剝離，所以網站將無法識別訪客從何而來。

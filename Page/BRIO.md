@@ -1,3 +1,6 @@
+> 本文内容由[BRIO](https://zh.wikipedia.org/wiki/BRIO)转换而来。
+
+
 [Bröderna_Ivarsson_i_Osby.jpg](https://zh.wikipedia.org/wiki/File:Bröderna_Ivarsson_i_Osby.jpg "fig:Bröderna_Ivarsson_i_Osby.jpg") **BRIO**是一家成立於[瑞典](../Page/瑞典.md "wikilink")的[玩具](../Page/玩具.md "wikilink")公司。創立者[伊瓦·本特森](https://zh.wikipedia.org/wiki/伊瓦·本特森 "wikilink")（Ivar Bengtsson）原先是從事籃子製造，後在瑞典南部的[奧斯比](https://zh.wikipedia.org/wiki/奧斯比 "wikilink")（Osby）轉做玩具製造。在1908年，伊瓦的三個兒子繼承其事業並成立 BRIO ，是 Bröderna Ivarsson \[at\] Osby 的縮寫，意即在奧斯比的伊瓦兄弟。時至今日，所生產的玩具仍以原木為材料，一世紀始終在奧斯比從事玩具的設計。
 
 在1984年該公司創立了 BRIO Lekoseum ，一個以 BRIO 玩具為主軸的玩具博物館（同時有像[馬克林](https://zh.wikipedia.org/wiki/馬克林 "wikilink")（Märklin）或是[芭比娃娃](../Page/芭比娃娃.md "wikilink")等公司），位於BRIO在奧斯比的總部，孩童們可以自由地嘗試與把玩。

@@ -1,3 +1,6 @@
+> 本文内容由[Doa \(樂團\)](https://zh.wikipedia.org/wiki/Doa_\(樂團\))转换而来。
+
+
 **doa**（ドーア，讀音：do-a），是[日本](../Page/日本.md "wikilink")的三人搖滾樂團，音樂理念為『Rock and 3Vocal』。其成員包括[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")、。所屬唱片公司為[Being旗下的](../Page/Being_\(公司\).md "wikilink")[GIZA studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 
 ## 成員資料

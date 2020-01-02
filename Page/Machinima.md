@@ -1,3 +1,6 @@
+> 本文内容由[Machinima](https://zh.wikipedia.org/wiki/Machinima)转换而来。
+
+
 [Machinima_sample_reindeer_full_size.ogg](https://zh.wikipedia.org/wiki/File:Machinima_sample_reindeer_full_size.ogg "fig:Machinima_sample_reindeer_full_size.ogg")\]\]  **Machinima**（ 或 ），是*machine cinema*的[混成詞](../Page/混成詞.md "wikilink")\[1\]。中文譯為**機造影片**、**引擎電影**、**實機影片**。
 
 ## 用來制作machinima的程序

@@ -1,3 +1,6 @@
+> 本文内容由[Windows XP版本列表](https://zh.wikipedia.org/wiki/Windows_XP版本列表)转换而来。
+
+
 [Windows XP的最初版本於](../Page/Windows_XP.md "wikilink")2001年中發佈。其後，[微軟也發佈多個其他](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows XP版本](../Page/Windows_XP.md "wikilink")。
 
 Windows XP可通过[语言包拥有中文](https://zh.wikipedia.org/wiki/语言包 "wikilink")、日语、德语、法语等其他25种[语言界面](https://zh.wikipedia.org/wiki/语言界面 "wikilink")。\[1\]另外，亦可以得到某些語言的附加使用者界面翻譯。\[2\]

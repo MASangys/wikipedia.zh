@@ -1,3 +1,6 @@
+> 本文内容由[JAKQ電擊隊](https://zh.wikipedia.org/wiki/JAKQ電擊隊)转换而来。
+
+
 《**JAKQ電擊隊**》（原題：）是日本[東映](../Page/東映.md "wikilink")公司在1977年製作的「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」第2部[特攝作品](https://zh.wikipedia.org/wiki/特攝 "wikilink")（但與同為[石森章太郎原作的](../Page/石之森章太郎.md "wikilink")《[秘密戰隊五連者](../Page/秘密戰隊五連者.md "wikilink")》，均為事後予以追認納入系列中的作品）。1977年4月9日～12月24日於[朝日電視台](../Page/朝日電視台.md "wikilink")播出，共35集。主要角色的特點，在於使用[撲克牌的四種](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")[花色](../Page/花色.md "wikilink")當作戰士的造型符碼。
 
 台灣並未播出本作，但1970年代見於書籍媒體的翻譯名稱為《**撲克神功雷擊隊**》。

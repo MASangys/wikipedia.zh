@@ -1,3 +1,6 @@
+> 本文内容由[SHADOW LADY](https://zh.wikipedia.org/wiki/SHADOW_LADY)转换而来。
+
+
 《**SHADOW LADY**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[桂正和](../Page/桂正和.md "wikilink")所創作的日本漫畫作品。共有3個版本，於《[V Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》連載的VJ版；於《少年Jump》連載的[短篇版](https://zh.wikipedia.org/wiki/讀切 "wikilink")；於《週刊少年Jump》連載的WJ版。
 
 ## 概要

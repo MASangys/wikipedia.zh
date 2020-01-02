@@ -1,3 +1,6 @@
+> 本文内容由[P·J·卡勒西莫](https://zh.wikipedia.org/wiki/P·J·卡勒西莫)转换而来。
+
+
 **彼得·約翰·卡勒西莫**（，經常被稱為P. J. Carlesimo，），生于[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")斯克兰顿，大学和职业篮球教练，曾任[布魯克林籃網队總教練](https://zh.wikipedia.org/wiki/布魯克林籃網队 "wikilink")。
 
 他是斯克兰顿大学和[福特汉姆大学篮球队前主教练和运动总监彼得](https://zh.wikipedia.org/wiki/福特汉姆大学 "wikilink")·A·卡勒西莫的儿子。

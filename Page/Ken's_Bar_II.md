@@ -1,3 +1,6 @@
+> 本文内容由[Ken\'s Bar II](https://zh.wikipedia.org/wiki/Ken\'s_Bar_II)转换而来。
+
+
 **《Ken's Bar II》**，是[平井堅](../Page/平井堅.md "wikilink")個人第二張翻唱概念專輯。於2009年5月27日發行。
 
 ## 概述

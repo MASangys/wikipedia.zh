@@ -1,3 +1,6 @@
+> 本文内容由[WASP-8b](https://zh.wikipedia.org/wiki/WASP-8b)转换而来。
+
+
 }}
 
 **WASP-8b**是一顆位於[玉夫座](../Page/玉夫座.md "wikilink")的[太陽系外行星](../Page/太陽系外行星.md "wikilink")。該行星由[SuperWASP與其他行星](https://zh.wikipedia.org/wiki/SuperWASP "wikilink")（[WASP-6b](https://zh.wikipedia.org/wiki/WASP-6b "wikilink") 到 [WASP-15b](https://zh.wikipedia.org/wiki/WASP-15b "wikilink")）一起發現。2008年4月1日，[贝尔法斯特女王大学](../Page/贝尔法斯特女王大学.md "wikilink")的唐·波勒（Don Pollacco）在2008年的英國皇家天文學學會全國天文學會議（NAM 2008）宣布這項發現\[1\]。

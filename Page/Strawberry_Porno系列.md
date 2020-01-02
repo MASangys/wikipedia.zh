@@ -1,3 +1,6 @@
+> 本文内容由[Strawberry Porno系列](https://zh.wikipedia.org/wiki/Strawberry_Porno系列)转换而来。
+
+
 **Strawberry Porno系列**是[光榮於](https://zh.wikipedia.org/wiki/光榮 "wikilink")1982年至1985年開發並發售的[8位元](../Page/8位元.md "wikilink")電腦[十八禁遊戲系列](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")，系列包括《[社區主婦誘惑](https://zh.wikipedia.org/wiki/#社區主婦誘惑 "wikilink")》和《[充氣娃娃夢到了電鰻魚嗎？](https://zh.wikipedia.org/wiki/#充氣娃娃夢到了電鰻魚嗎？ "wikilink")\[1\]》兩套遊戲。此系列作品和之前同公司發售的《[Night Life](https://zh.wikipedia.org/wiki/#Night_Life "wikilink")》和光榮的歷史三部作（[信長之野望系列](../Page/信長之野望系列.md "wikilink")、[三國志系列](../Page/三國志_\(遊戲\).md "wikilink")、[成吉思汗系列](https://zh.wikipedia.org/wiki/成吉思汗系列 "wikilink")）被人相對地合稱為光榮的「成人三部作」。其後，光榮旗下的COMIX亦有發售[ENIX的十八禁遊戲](https://zh.wikipedia.org/wiki/ENIX "wikilink")《[Lolita Syndrome](https://zh.wikipedia.org/wiki/Lolita_Syndrome "wikilink")》的續篇《[My Lolita](https://zh.wikipedia.org/wiki/My_Lolita "wikilink")》。
 
 ## Night Life

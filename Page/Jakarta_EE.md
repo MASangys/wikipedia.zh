@@ -1,3 +1,6 @@
+> 本文内容由[Jakarta EE](https://zh.wikipedia.org/wiki/Jakarta_EE)转换而来。
+
+
 **Java EE**，Java平台企业版（Java Platform Enterprise Edition），之前称为Java 2 Platform, Enterprise Edition (J2EE)，2018年3月更名为**Jakarta EE**。\[1\]是[Sun公司为企业级应用推出的标准](https://zh.wikipedia.org/wiki/Sun "wikilink")[平台](https://zh.wikipedia.org/wiki/系統平台 "wikilink")。Java平台共分为三个主要版本**Java EE**、[Java SE和](https://zh.wikipedia.org/wiki/Java_SE "wikilink")[Java ME](../Page/Java_ME.md "wikilink")。
 
 [Sun公司在](https://zh.wikipedia.org/wiki/Sun "wikilink")1998年发表[JDK](../Page/JDK.md "wikilink")1.2版本的时候，使用了新名称Java 2 Platform，即“Java2平台”，修改后的[JDK](../Page/JDK.md "wikilink")称为Java 2 Platform Software Developing Kit，即[J2SDK](https://zh.wikipedia.org/wiki/J2SDK "wikilink")。并分为标准版（Standard Edition，[J2SE](https://zh.wikipedia.org/wiki/J2SE "wikilink")），企业版（Enterprise Edition，J2EE），微型版（MicroEdition，[J2ME](https://zh.wikipedia.org/wiki/J2ME "wikilink")）。J2EE便由此诞生。

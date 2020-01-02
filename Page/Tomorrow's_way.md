@@ -1,3 +1,6 @@
+> 本文内容由[Tomorrow\'s way](https://zh.wikipedia.org/wiki/Tomorrow\'s_way)转换而来。
+
+
 《**Tomorrow's way**》是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2005年6月22日所推出的單曲碟，並是在[Sony Music Records旗下的第二張單曲碟](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。
 
 ## 收錄歌曲

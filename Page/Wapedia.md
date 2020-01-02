@@ -1,3 +1,6 @@
+> 本文内容由[Wapedia](https://zh.wikipedia.org/wiki/Wapedia)转换而来。
+
+
 [Wapedia_-_Strona_Główna.JPG](https://zh.wikipedia.org/wiki/File:Wapedia_-_Strona_Główna.JPG "fig:Wapedia_-_Strona_Główna.JPG")[手机上的显示的Wapedia首页](https://zh.wikipedia.org/wiki/手机 "wikilink")\]\] **Wapedia**是[弗洛利安·阿墨罕](https://zh.wikipedia.org/wiki/弗洛利安·阿墨罕 "wikilink")（）利用[Taptu平台建立的非官方的維基百科](https://zh.wikipedia.org/wiki/Taptu "wikilink")[WAP行動版镜像网站](https://zh.wikipedia.org/wiki/WAP "wikilink")，旨於把[維基百科內容帶進像](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[行動電話與](https://zh.wikipedia.org/wiki/行動電話 "wikilink")[個人數位助理的行動裝置](https://zh.wikipedia.org/wiki/個人數位助理 "wikilink")。\[1\]\[2\]。
 
 Wapedia於2004年8月建立，在很長時間內扮演了第一移动版维基百科的角色，但隨著2007年6月維基百科官方WAP版的出現，Wapedia的使用有所減少。2013年11月4日Wapedia宣-{}-告关闭。

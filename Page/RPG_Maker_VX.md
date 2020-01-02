@@ -1,3 +1,6 @@
+> 本文内容由[RPG Maker VX](https://zh.wikipedia.org/wiki/RPG_Maker_VX)转换而来。
+
+
 **RPG Maker VX**（[日本](../Page/日本.md "wikilink")：）是[日本](../Page/日本.md "wikilink")[Enterbrain](../Page/Enterbrain.md "wikilink")發行的RPG製作工具。
 
 版本代號中「VX」是英文“VANGUARD EXPERIENCE”的縮寫。是PC系列中的第9作。

@@ -1,3 +1,6 @@
+> 本文内容由[Love in Memory](https://zh.wikipedia.org/wiki/Love_in_Memory)转换而来。
+
+
 《**Love in Memory**》（）為[韓國首部](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SNS電視劇](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink")，透過[NAVER](../Page/NAVER.md "wikilink") TV CAST、me2day等社群網站播出的迷你短劇，目前共播出兩季。
 
 ## 第一季

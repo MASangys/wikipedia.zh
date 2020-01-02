@@ -1,3 +1,6 @@
+> 本文内容由[分頁 \(GUI\)](https://zh.wikipedia.org/wiki/分頁_\(GUI\))转换而来。
+
+
 [Firefox_2_Tabbed_Browsing_GNU-Linux.png](https://zh.wikipedia.org/wiki/File:Firefox_2_Tabbed_Browsing_GNU-Linux.png "fig:Firefox_2_Tabbed_Browsing_GNU-Linux.png")，在網址列下方有個分頁列，可以用來切換多個網頁，節省螢幕空間，擺脫開新多視窗的困擾。\]\]
 
 **分頁**，又稱為**頁籤**，Windows內建的瀏覽器又稱為**索引標籤**。指的是在帳冊或是資料夾邊緣用來索引用的[標籤](https://zh.wikipedia.org/wiki/標籤 "wikilink")，抓住的話可以來快速檢索特定頁面，分頁瀏覽器就是以此為概念製作成[圖形使用者界面](https://zh.wikipedia.org/wiki/圖形使用者界面 "wikilink")。

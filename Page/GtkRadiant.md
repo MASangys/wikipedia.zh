@@ -1,3 +1,6 @@
+> 本文内容由[GtkRadiant](https://zh.wikipedia.org/wiki/GtkRadiant)转换而来。
+
+
 **GtkRadiant** 是[id Software与](https://zh.wikipedia.org/wiki/id_Software "wikilink")[Loki Software共同开发的关卡设计软件](../Page/Loki_Software.md "wikilink")。
 
 ## 历史

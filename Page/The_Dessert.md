@@ -1,3 +1,6 @@
+> 本文内容由[The Dessert](https://zh.wikipedia.org/wiki/The_Dessert)转换而来。
+
+
 《**The Dessert**》是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1999年創刊。
 
 ## 発行数量

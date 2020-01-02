@@ -1,3 +1,6 @@
+> 本文内容由[Black \& White](https://zh.wikipedia.org/wiki/Black_\&_White)转换而来。
+
+
 《**Black & White**》，中国大陆地区称《**黑与白新歌＋精选**》，是由香港歌手[张学友](../Page/张学友.md "wikilink")在2004年推出的精选集唱片，唱片监制是张学友。
 
 ## 介绍

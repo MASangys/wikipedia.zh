@@ -1,3 +1,6 @@
+> 本文内容由[BIOS中斷呼叫](https://zh.wikipedia.org/wiki/BIOS中斷呼叫)转换而来。
+
+
 **BIOS[中断调用](https://zh.wikipedia.org/wiki/中断 "wikilink")**（）是一組功能，为[DOS](../Page/DOS.md "wikilink")程式與一些软件提供使用[IBM PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS](../Page/BIOS.md "wikilink")的功能。一些[操作系统](../Page/操作系统.md "wikilink")在[系统引导時也使用BIOS以检测并初始化硬件資源](https://zh.wikipedia.org/wiki/系统引导 "wikilink")。
 
 ## 中断调用

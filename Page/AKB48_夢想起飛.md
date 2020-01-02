@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 夢想起飛](https://zh.wikipedia.org/wiki/AKB48_夢想起飛)转换而来。
+
+
 《**AKB48 夢想起飛**》（；直譯為「AKB48紀錄片：未完待續／10年後，少女們會如何看待今天的自己呢？」）是一部於2011年1月22日上映、以日本女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")為主角的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。此片是一系列以AKB48為主題的紀錄電影系列之首作，由（）[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")，並由曾執導《[情書](https://zh.wikipedia.org/wiki/情書_\(電影\) "wikilink")》一片的[岩井俊二](../Page/岩井俊二.md "wikilink")擔任製作總監。
 
 電影上映時所使用的宣傳標語為「將AKB48的現在、甚至未来都描繪出的[紀錄片](../Page/紀錄片.md "wikilink")，立刻獻給你！」（）

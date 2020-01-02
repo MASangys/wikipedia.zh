@@ -1,3 +1,6 @@
+> 本文内容由[BESTYO](https://zh.wikipedia.org/wiki/BESTYO)转换而来。
+
+
 **BESTYO**是[一青窈](../Page/一青窈.md "wikilink")的第一張精選輯。2006年11月29日發行。共收錄16首歌曲。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[SIMBAD](https://zh.wikipedia.org/wiki/SIMBAD)转换而来。
+
+
 [EU-FR-AL-67@Strasbourg-Observatoire_03.jpg](https://zh.wikipedia.org/wiki/File:EU-FR-AL-67@Strasbourg-Observatoire_03.jpg "fig:EU-FR-AL-67@Strasbourg-Observatoire_03.jpg")
 
 **SIMBAD**（**S**et of **I**dentifications, **M**easurements, and **B**ibliography for **A**stronomical **D**ata）是由[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")數據資料中心負責和維護的一個[天文資料庫](../Page/天文學.md "wikilink")，其設置的功能在確認、測量[太陽系外天體和收錄相關文獻](https://zh.wikipedia.org/wiki/太陽系 "wikilink")。

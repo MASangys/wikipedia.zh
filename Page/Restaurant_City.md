@@ -1,3 +1,6 @@
+> 本文内容由[Restaurant City](https://zh.wikipedia.org/wiki/Restaurant_City)转换而来。
+
+
 **Restaurant City**（非官方譯名：**餐廳城市**，簡稱**餐城**），是一款由英國[Playfish](../Page/Playfish.md "wikilink")開發的[網頁遊戲](https://zh.wikipedia.org/wiki/網頁遊戲 "wikilink")，運行於[Facebook](../Page/Facebook.md "wikilink")平台，其為相當受歡迎及較有長期使用者的Facebook遊戲之一，但Playfish於2012年5月宣佈，Restaurant City會於6月29日停止營運\[1\]。
 
 遊戲主要以模擬經營餐廳為主，玩家可請Facebook上的朋友為餐廳員工，作為廚師、侍應、酒保或清潔工。玩家可以到街上（Street）拜訪Facebook上好友們的餐廳，並可幫忙為田地澆水、撿拾店內垃圾、或解決店內的問題，也可在隨意街（Random Street）隨機拜訪其他Facebook使用者的餐廳，另外也可到美食街（Gourmet Street）參觀評價最高的餐廳。

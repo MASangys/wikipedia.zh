@@ -1,3 +1,6 @@
+> 本文内容由[MIPI](https://zh.wikipedia.org/wiki/MIPI)转换而来。
+
+
 [MIPI_logo.jpg](https://zh.wikipedia.org/wiki/File:MIPI_logo.jpg "fig:MIPI_logo.jpg") **MIPI**（**行動產業处理器接口**）是**Mobile Industry Processor Interface**的缩写。该缩写的特定用途包括：
 
   - MIPI联盟 —— 组织机构

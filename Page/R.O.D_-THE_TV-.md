@@ -1,3 +1,6 @@
+> 本文内容由[R.O.D -THE TV-](https://zh.wikipedia.org/wiki/R.O.D_-THE_TV-)转换而来。
+
+
 《**R.O.D -THE TV-**》（）是[倉田英之](../Page/倉田英之.md "wikilink")創作的[輕小說](../Page/輕小說.md "wikilink")《R.O.D READ OR DIE YOMIKO READMAN "THE PAPER"》改編而成的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2003年9月1日在日本Perfect choice（[Pay Per View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月15日在日本[富士電視台](../Page/富士電視台.md "wikilink")播放。2008年3月29日開始在[東京都會電視台](../Page/東京都會電視台.md "wikilink")重播。全26集。
 
 ## 劇情簡介

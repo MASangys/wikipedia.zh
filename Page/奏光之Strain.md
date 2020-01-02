@@ -1,3 +1,6 @@
+> 本文内容由[奏光之Strain](https://zh.wikipedia.org/wiki/奏光之Strain)转换而来。
+
+
 《**奏光之Strain**》（原名：****）是由[Studio Fantasia所製作的動畫作品](../Page/Studio_Fantasia.md "wikilink")。
 
 ## 劇情簡介

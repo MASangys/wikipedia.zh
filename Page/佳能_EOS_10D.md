@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 10D](https://zh.wikipedia.org/wiki/佳能_EOS_10D)转换而来。
+
+
 **Canon EOS 10D**是一部具备650万[像素](../Page/像素.md "wikilink")的[佳能](../Page/佳能.md "wikilink")[数码单镜反光相机](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")，使用的成像元件为[CMOS](https://zh.wikipedia.org/wiki/CMOS "wikilink")，于2003年2月27日发布。不支持佳能EF-S接环镜头。
 
 ## 改进

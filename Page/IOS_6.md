@@ -1,3 +1,6 @@
+> 本文内容由[IOS 6](https://zh.wikipedia.org/wiki/IOS_6)转换而来。
+
+
 **iOS 6**是[美國](../Page/美国.md "wikilink")[蘋果公司旗下](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")[iOS的第六個主要版本](https://zh.wikipedia.org/wiki/iOS "wikilink")，取代前代作業系統[iOS 5](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")。iOS 6於2012年6月的[WWDC大會中首次公布](https://zh.wikipedia.org/wiki/WWDC "wikilink")，並於同年9月19日正式推出。繼任者為2013年9月19日推出的[iOS 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")\[1\]。
 
 iOS 6以蘋果自家的[蘋果地圖](../Page/蘋果地圖.md "wikilink")取代先前版本內建的地圖服務[Google Maps](https://zh.wikipedia.org/wiki/Google_Maps "wikilink")，並移除了內建的[YouTube](../Page/YouTube.md "wikilink")應用程式。另外，iOS 6新增了Podcast應用程式，專門處理[Podcast相關服務](../Page/播客.md "wikilink")；[Passbook應用程式](../Page/Apple_Wallet.md "wikilink")，整合登機證、購物卡及優惠劵等電子票證功能；[App Store及](../Page/App_Store_\(iOS\).md "wikilink")[iTunes Store等商店介面也經過重新設計](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")，引進資訊卡式介面，更易於使用；蘋果的語音助理[Siri](../Page/Siri.md "wikilink")首次支援[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，並新增餐廳訂位、快捷開啟應用程式、體育賽事資訊顯示及讀取通知中心通知內容等功能。

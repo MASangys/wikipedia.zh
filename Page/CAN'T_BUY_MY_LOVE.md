@@ -1,3 +1,6 @@
+> 本文内容由[CAN\'T BUY MY LOVE](https://zh.wikipedia.org/wiki/CAN\'T_BUY_MY_LOVE)转换而来。
+
+
 「**CAN'T BUY MY LOVE**」是[日本](../Page/日本.md "wikilink")唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2007年4月4日所推出的第二張大碟。由Sony Music Records發行。
 
 ## 收錄歌曲

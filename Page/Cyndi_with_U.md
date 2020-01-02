@@ -1,3 +1,6 @@
+> 本文内容由[Cyndi with U](https://zh.wikipedia.org/wiki/Cyndi_with_U)转换而来。
+
+
 《**Cyndi with U**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌](../Page/王心凌.md "wikilink")的第四張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[愛貝克思](../Page/愛貝克思_\(台灣\).md "wikilink")（時為艾迴唱片）於2005年12月27日以預購及正式訂購的途徑，同步發行雙版本。該專輯於2006年2月14日發行慶功改版。
 
 ## 曲目

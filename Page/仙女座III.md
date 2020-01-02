@@ -1,3 +1,6 @@
+> 本文内容由[仙女座III](https://zh.wikipedia.org/wiki/仙女座III)转换而来。
+
+
 **仙女座 Ⅲ**是位於[仙女座](../Page/仙女座.md "wikilink")的一個[矮橢球星系](https://zh.wikipedia.org/wiki/矮橢球星系 "wikilink")，距離大約244萬[光年](../Page/光年.md "wikilink")， 它是[本星系群](../Page/本星系群.md "wikilink")的一員，也是[M31的](../Page/仙女座星系.md "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")。仙女座 Ⅲ是[Sydney van Der Bergh](https://zh.wikipedia.org/wiki/Sydney_van_Der_Bergh "wikilink")\[1\]在1970和1971年的照相乾板上發現的。
 
 ## 相關條目

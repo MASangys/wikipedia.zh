@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot S5 IS](https://zh.wikipedia.org/wiki/佳能PowerShot_S5_IS)转换而来。
+
+
 **[佳能](../Page/佳能.md "wikilink") PowerShot S5 IS** 这部800万像素的[数码相机](../Page/数码相机.md "wikilink")拥有12x [变焦镜头](../Page/变焦镜头.md "wikilink")和IS影像稳定系统。
 
 ## 参数

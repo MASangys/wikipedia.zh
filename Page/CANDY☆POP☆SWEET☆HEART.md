@@ -1,3 +1,6 @@
+> 本文内容由[CANDY☆POP☆SWEET☆HEART](https://zh.wikipedia.org/wiki/CANDY☆POP☆SWEET☆HEART)转换而来。
+
+
 「**CANDY☆POP☆SWEET☆HEART**」是[日本配音員](https://zh.wikipedia.org/wiki/日本配音員 "wikilink")[新谷良子](../Page/新谷良子.md "wikilink")的第八張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。商品編號為LACM-4262。
 
 ## 收錄曲
