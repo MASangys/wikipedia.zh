@@ -1,3 +1,6 @@
+> 本文内容由[Gateway](https://zh.wikipedia.org/wiki/Gateway)转换而来。
+
+
 **Gateway**（全稱：**Gateway, Inc.**）是[宏碁](../Page/宏碁.md "wikilink")的子公司，其前身則是[美國的科技公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，成立於1985年9月5日。\[1\]\[2\]\[3\]
 
 ## 歷史

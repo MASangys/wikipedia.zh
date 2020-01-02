@@ -1,3 +1,6 @@
+> 本文内容由[B·N·F](https://zh.wikipedia.org/wiki/B·N·F)转换而来。
+
+
 **B·N·F**（本名：，）是在[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[港区居住的](https://zh.wikipedia.org/wiki/港区 "wikilink")[股票](../Page/股票.md "wikilink")[當沖客](https://zh.wikipedia.org/wiki/當沖客 "wikilink")。他出身於[千叶县](https://zh.wikipedia.org/wiki/千叶县 "wikilink")[市川市](../Page/市川市.md "wikilink")。因2005年的JCOM股交易失誤事件中賺了約20億[日元而受到媒體注目](https://zh.wikipedia.org/wiki/日元 "wikilink")，被稱為「JCOM男」（）。他只用7年時間，身價暴漲一萬倍以上，成為[日本](../Page/日本.md "wikilink")新世代的[股神](https://zh.wikipedia.org/wiki/股神 "wikilink")。「B·N·F」為他在日本[BBS](../Page/BBS.md "wikilink")站[2ch發言所用的暱稱](https://zh.wikipedia.org/wiki/2ch "wikilink")，取自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[華爾街知名投資人](https://zh.wikipedia.org/wiki/華爾街 "wikilink")[維克多·尼德霍夫](https://zh.wikipedia.org/wiki/維克多·尼德霍夫 "wikilink")（Victor Niederhoffer）的名字。
 
 ## JCOM股交易失誤事件

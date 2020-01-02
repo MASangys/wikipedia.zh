@@ -1,3 +1,6 @@
+> 本文内容由[AMR-2狙击步枪](https://zh.wikipedia.org/wiki/AMR-2狙击步枪)转换而来。
+
+
 **AMR—2**（）是一枝在[中国由](https://zh.wikipedia.org/wiki/中国 "wikilink")[中国南方工业集团公司所設計及生產的](../Page/中国兵器装备集团.md "wikilink")12.7毫米（.50英吋）大口徑重型[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），最早於2000年早期推出，并曾經于2005年（第一届）[北京国际装备及反恐技术展以上展出](https://zh.wikipedia.org/wiki/北京国际装备及反恐技术展 "wikilink")，发射[12.7×108毫米](../Page/12.7×108mm.md "wikilink")[俄罗斯](../Page/俄罗斯.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯或54式12.7毫米重机枪弹）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 设计细节

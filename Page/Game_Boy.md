@@ -1,3 +1,6 @@
+> 本文内容由[Game Boy](https://zh.wikipedia.org/wiki/Game_Boy)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Hillary_Rodham_Clinton_playing_a_Nintendo_Game_Boy_video_game_on_the_flight_from_Austin_en_route_to_Washington,_DC.jpg "fig:缩略图")於專機上玩GameBoy\]\]
 
 是日本[任天堂](../Page/任天堂.md "wikilink")公司在1989年发售的第一代[便携式掌上游戏机](https://zh.wikipedia.org/wiki/便携式游戏机 "wikilink")。 Game Boy拥有三个改版机型，分别是小尺寸的[Game Boy Pocket](../Page/Game_Boy_Pocket.md "wikilink")，加入背光功能的[Game Boy Light](../Page/Game_Boy_Light.md "wikilink")，以及彩色的[Game Boy Color](../Page/Game_Boy_Color.md "wikilink")。截止2003年3月23日停產後，Game Boy的全系列機種合計在全球累计销量為1億1869萬台，為目前世界上累計銷量第2位的掌上型遊戲機（第一位是[任天堂DS](../Page/任天堂DS.md "wikilink")）。任天堂Game Boy的下一代掌机为2001年推出的任天堂[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")。

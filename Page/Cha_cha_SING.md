@@ -1,3 +1,6 @@
+> 本文内容由[Cha cha SING](https://zh.wikipedia.org/wiki/Cha_cha_SING)转换而来。
+
+
 《**cha cha SING**》是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第29張[单曲](../Page/单曲.md "wikilink")，於2012年7月25日由[PICCOLO TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

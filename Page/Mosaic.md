@@ -1,3 +1,6 @@
+> 本文内容由[Mosaic](https://zh.wikipedia.org/wiki/Mosaic)转换而来。
+
+
 **NCSA Mosaic**，是一個早期普及的[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，也是網際網路[協議如](https://zh.wikipedia.org/wiki/網路傳輸協定 "wikilink")[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")、[NNTP和](https://zh.wikipedia.org/wiki/NNTP "wikilink")[Gopher的客戶端](https://zh.wikipedia.org/wiki/Gopher_\(網路協定\) "wikilink")，瀏覽器因支援多種網際網路協定而命名\[1\]。其直觀的介面、可靠性和簡易安裝，因此在當時大受歡迎\[2\]，也是第一個可以在文字中嵌入圖片，而不是在單獨的視窗中顯示圖片的瀏覽器\[3\]\[4\]。雖然經常被誤認為世界上第一個[圖形介面瀏覽器](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")，但事實上比Mosaic更早的還有[WorldWideWeb](../Page/WorldWideWeb.md "wikilink")、鮮少人知的[Erwise](../Page/Erwise.md "wikilink")\[5\]和[ViolaWWW](../Page/ViolaWWW.md "wikilink")。
 
 Mosaic於1992年底由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[伊利諾大學厄巴納香檳分校的](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納香檳分校 "wikilink")[NCSA開發](../Page/国家超级电脑应用中心.md "wikilink")\[6\]。NCSA於1993年發布瀏覽器\[7\]，並於1997年1月7日正式停止發展和支援\[8\]。

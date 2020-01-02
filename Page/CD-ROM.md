@@ -1,3 +1,6 @@
+> 本文内容由[CD-ROM](https://zh.wikipedia.org/wiki/CD-ROM)转换而来。
+
+
 **唯讀記憶光碟**（，[縮寫](../Page/縮寫.md "wikilink")：**CD-ROM**），是一種在[電腦上使用的](https://zh.wikipedia.org/wiki/電腦 "wikilink")[光碟](../Page/光碟.md "wikilink")。這種光碟只能寫入數據一次，信息將永久保存在[光碟](../Page/光碟.md "wikilink")上，使用時通過[光碟驅動器讀出信息](https://zh.wikipedia.org/wiki/光碟驅動器 "wikilink")。CD的格式最初是为音乐的存储和回放设计的，1985年，由[SONY和](https://zh.wikipedia.org/wiki/SONY "wikilink")[飞利浦制定的](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")[黄皮书标准使得这种格式能够适应各种二进制数据](../Page/彩虹書.md "wikilink")。
 
 [增強型CD既存储音乐](https://zh.wikipedia.org/wiki/增強型CD "wikilink")，又存储-{zh-cn:计算机;zh-tw:電腦}-数据；这种CD-ROM的音乐能够由[CD播放器播放](https://zh.wikipedia.org/wiki/CD播放器 "wikilink")，-{zh-cn:计算机;zh-tw:電腦}-数据則只能由-{zh-cn:计算机;zh-tw:電腦}-处理。

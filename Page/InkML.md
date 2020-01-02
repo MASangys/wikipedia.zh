@@ -1,3 +1,6 @@
+> 本文内容由[InkML](https://zh.wikipedia.org/wiki/InkML)转换而来。
+
+
 InkML（*Ink* *M*arkup *L*anguage、墨水標記語言）用于表达[数字墨水数据的](https://zh.wikipedia.org/wiki/数字墨水 "wikilink")[可扩展标记语言的数据格式](https://zh.wikipedia.org/wiki/可扩展标记语言 "wikilink")，这类数据的输入是通过作为[多通路系统组成部分的](https://zh.wikipedia.org/wiki/多通路系统 "wikilink")[电子笔或输入笔](https://zh.wikipedia.org/wiki/电子笔 "wikilink")。
 
 ## 外部链接

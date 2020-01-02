@@ -1,3 +1,6 @@
+> 本文内容由[A Shared Dream](https://zh.wikipedia.org/wiki/A_Shared_Dream)转换而来。
+
+
 「**A Shared Dream**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第1枚原創日語專輯。於2012年2月29日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

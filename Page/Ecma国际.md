@@ -1,3 +1,6 @@
+> 本文内容由[Ecma国际](https://zh.wikipedia.org/wiki/Ecma国际)转换而来。
+
+
 **Ecma国际**（）是一家国际性会员制度的[信息和](../Page/信息技术.md "wikilink")[电信](../Page/电信.md "wikilink")[标准组织](https://zh.wikipedia.org/wiki/标准组织 "wikilink")。1994年之前，名为**欧洲计算机制造商协会**（）。因为计算机的国际化，组织的标准牵涉到很多其他国家，因此组织决定改名表明其国际性。现名称已不属于[首字母缩略字](https://zh.wikipedia.org/wiki/首字母缩略字 "wikilink")。
 
 组织在1961年的[日内瓦](../Page/日内瓦.md "wikilink")建立为了标准化欧洲的计算机系统。在欧洲制造、销售或开发计算机和电信系统的公司都可以申请成为会员。

@@ -1,3 +1,6 @@
+> 本文内容由[A·G·克魯格](https://zh.wikipedia.org/wiki/A·G·克魯格)转换而来。
+
+
 **A·G·克魯格**（A. G. Kruger；）是一名美國[鏈球運動員](https://zh.wikipedia.org/wiki/鏈球 "wikilink")，曾代表美國參加[2004年雅典奧運](https://zh.wikipedia.org/wiki/2004年雅典奧運 "wikilink")、[2008年北京奧運及](https://zh.wikipedia.org/wiki/2008年北京奧運 "wikilink")[2012年倫敦奧運](https://zh.wikipedia.org/wiki/2012年倫敦奧運 "wikilink")，三次都無功而還。他個人最佳成績為79.26公尺。
 
 ## 參考資料

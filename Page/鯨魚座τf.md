@@ -1,3 +1,6 @@
+> 本文内容由[鯨魚座τf](https://zh.wikipedia.org/wiki/鯨魚座τf)转换而来。
+
+
 **鯨魚座τf**（**Tau Ceti f**），即**天倉五f**，是一顆尚未確認的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，母恆星是類似太陽的[鯨魚座恆星](https://zh.wikipedia.org/wiki/鯨魚座 "wikilink")[天倉五](../Page/天倉五.md "wikilink")，距離地球約11.905光年，是距離母恆星最遠的行星。
 
 ## 概要

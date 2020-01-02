@@ -1,3 +1,6 @@
+> 本文内容由[Foreach循环](https://zh.wikipedia.org/wiki/Foreach循环)转换而来。
+
+
 **Foreach循环**（Foreach loop）是[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程语言](../Page/编程语言.md "wikilink")中的一种[控制流程](../Page/控制流程.md "wikilink")语句，通常用来循环遍历[数组](../Page/数组.md "wikilink")或[集合中的元素](https://zh.wikipedia.org/wiki/集合 "wikilink")。
 
 ## 程序示例

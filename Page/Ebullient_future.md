@@ -1,3 +1,6 @@
+> 本文内容由[Ebullient future](https://zh.wikipedia.org/wiki/Ebullient_future)转换而来。
+
+
 **ebullient future**（），是2008年10月5日由[GENEON ENTERTAINMENT發行的日本女歌手](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")[ELISA的一首單曲](../Page/ELISA_\(歌手\).md "wikilink")\[1\]\[2\]。商品番號為GNCA-0122。這首單曲是同年[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[ef - a tale of melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")》的主題曲。
 
 ## 收錄曲

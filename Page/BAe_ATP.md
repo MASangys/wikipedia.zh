@@ -1,3 +1,6 @@
+> 本文内容由[BAe ATP](https://zh.wikipedia.org/wiki/BAe_ATP)转换而来。
+
+
 **BAe ATP**是一款以[HS 748為基礎的飛機](https://zh.wikipedia.org/wiki/HS_748 "wikilink")，載客量達64人，航程達1,180[公里](../Page/公里.md "wikilink")的短程客機。儘管ATP比較寧靜和省油，但ATP競爭力不及對手，使ATP成為一款失敗的產品，只生產了65架\[1\]。
 
 ## 發展

@@ -1,3 +1,6 @@
+> 本文内容由[AVN \(杂志\)](https://zh.wikipedia.org/wiki/AVN_\(杂志\))转换而来。
+
+
 **成人影帶新聞雜誌**（**A**dult **V**ideo **N**ews Magazine，簡稱AVN雜誌），是[美國專門報導](https://zh.wikipedia.org/wiki/美國 "wikilink")[色情片](../Page/色情片.md "wikilink")產業的[商業雜誌](https://zh.wikipedia.org/wiki/商業雜誌 "wikilink")。
 
 [紐約時報將AVN之於](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")[色情片](../Page/色情片.md "wikilink")的關係比做如[告示牌雜誌之於唱片的關係](../Page/告示牌_\(雜誌\).md "wikilink")。

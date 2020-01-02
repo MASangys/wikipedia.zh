@@ -1,3 +1,6 @@
+> 本文内容由[Damn small linux](https://zh.wikipedia.org/wiki/Damn_small_linux)转换而来。
+
+
 **Damn Small Linux**簡稱**DSL**，是種供[x86系列](https://zh.wikipedia.org/wiki/x86 "wikilink")[個人電腦使用的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。最早這個project是由一位非科班出身的電腦玩家[John Andrews基於好奇想試試看又小又合用的](https://zh.wikipedia.org/wiki/John_Andrews "wikilink")[Linux](../Page/Linux.md "wikilink")能做到怎樣？結果做出了一張小光碟的[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")，而後日漸發展而成。
 
 其簡稱[DSL與一種通信技術相同](https://zh.wikipedia.org/wiki/DSL "wikilink")，它也不是[DSLinux](../Page/DSLinux.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[AMPL](https://zh.wikipedia.org/wiki/AMPL)转换而来。
+
+
 **AMPL**，名稱源自於**數學程式語言**（）的[縮寫](../Page/縮寫.md "wikilink")，一種[代数建模语言](https://zh.wikipedia.org/wiki/代数建模语言 "wikilink")，用以解決與描述大規模數學運算中的高度複雜問題。
 
 最早於1985年由[貝爾實驗室的](https://zh.wikipedia.org/wiki/貝爾實驗室 "wikilink")[羅伯特·傅里葉](https://zh.wikipedia.org/wiki/羅伯特·傅里葉 "wikilink")（Robert Fourer）、[大衛·蓋伊](https://zh.wikipedia.org/wiki/大衛·蓋伊 "wikilink")（David Gay）、[布萊恩·柯林漢](../Page/布萊恩·柯林漢.md "wikilink")所共同創造。

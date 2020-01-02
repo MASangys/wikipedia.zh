@@ -1,3 +1,6 @@
+> 本文内容由[貝瑞塔90two半自動手槍](https://zh.wikipedia.org/wiki/貝瑞塔90two半自動手槍)转换而来。
+
+
 **貝瑞塔90two**（）是一款由[意大利](../Page/意大利.md "wikilink")的槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")為個人防衛和[執法機關使用而設計和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，它在2006年的（美國著名槍展）之中，以[貝瑞塔92的增強版本之名推出](../Page/貝瑞塔92手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40 S\&W這三種](../Page/.40_S&W.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節

@@ -1,3 +1,6 @@
+> 本文内容由[超时空要塞Frontier](https://zh.wikipedia.org/wiki/超时空要塞Frontier)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")《[超时空要塞](../Page/超时空要塞.md "wikilink")》系列的電視動畫第三作，亦是《超時空要塞》系列25周年的紀念作品。於2008年4月在日本開始播放，全25話。另有[劇場版二部](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
 ## 概要

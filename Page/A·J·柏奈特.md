@@ -1,3 +1,6 @@
+> 本文内容由[A·J·柏奈特](https://zh.wikipedia.org/wiki/A·J·柏奈特)转换而来。
+
+
 **艾倫·詹姆斯·柏奈特**（，）\[1\]，經常被稱為**A·J·柏奈特**（A. J. Burnett），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[棒球](../Page/棒球.md "wikilink")[選手之一](https://zh.wikipedia.org/wiki/選手 "wikilink")，自2008年球季結束後與[紐約洋基](../Page/紐約洋基.md "wikilink")隊簽約，2012年交易到[匹茲堡海盜](../Page/匹茲堡海盜.md "wikilink")擔任[先發投手](https://zh.wikipedia.org/wiki/先發投手 "wikilink")。
 
 ## 早期生活

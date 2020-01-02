@@ -1,3 +1,6 @@
+> 本文内容由[CRISPR](https://zh.wikipedia.org/wiki/CRISPR)转换而来。
+
+
 [Crispr.png](https://zh.wikipedia.org/wiki/File:Crispr.png "fig:Crispr.png")
 
 **CRISPR**<small>（[IPA](../Page/國際音標.md "wikilink")：/ˈkrɪspər/；[DJ](../Page/DJ音標.md "wikilink")：/ˈkrispə/；[KK](../Page/KK音標.md "wikilink")：/ˈkrɪspɚ/）</small>是存在於细菌中的一種基因，該類基因組中含有曾經攻擊過該細菌的病毒的基因片段。細菌透過這些基因片段來偵測並抵抗相同病毒的攻擊，並摧毁其DNA。這類基因組是細菌免疫系统的關鍵組成部分。透過這些基因组，人類可以準確且有效地編輯生命體内的部分基因，也就是CRISPR/Cas9基因編輯技術。
@@ -69,39 +72,22 @@ Cas9是第一個被廣泛應用的CRISPR[核酸酶](../Page/核酸酶.md "wikili
 [Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink") [Category:免疫學](https://zh.wikipedia.org/wiki/Category:免疫學 "wikilink") [Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink") [Category:重複DNA序列](https://zh.wikipedia.org/wiki/Category:重複DNA序列 "wikilink") [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  71/79 Archaea, 463/1008 Bacteria [CRISPRdb](http://crispr.u-psud.fr/crispr/CRISPRdatabase.php), Date: 19.6.2010
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15.
-
 16.
 17.
 18.
-
 19.
-
 20.

@@ -1,3 +1,6 @@
+> 本文内容由[Buono! Live Tour 2011 summer ～Rock\'n Buono! 4～](https://zh.wikipedia.org/wiki/Buono!_Live_Tour_2011_summer_～Rock\'n_Buono!_4～)转换而来。
+
+
 『**Buono\! Live Tour 2011 summer ～Rock'n Buono\! 4～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合的Live影像。2011年12月7日以DVD和Blu-ray同日發售\[1\]。
 
 ## 收錄曲目

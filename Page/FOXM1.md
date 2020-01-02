@@ -1,3 +1,6 @@
+> 本文内容由[FOXM1](https://zh.wikipedia.org/wiki/FOXM1)转换而来。
+
+
 **FOXM1**(Forkhead box protein M1)\[1\]是一种[转录因子](../Page/转录因子.md "wikilink")蛋白质，有关调节[细胞周期的重要作用](https://zh.wikipedia.org/wiki/细胞周期 "wikilink")。当FOXM1从小鼠中去除后，幼鼠在出生后不久因心臟衰竭而死亡，由于心肌细胞和肝细胞[多倍体的发展](https://zh.wikipedia.org/wiki/多倍体 "wikilink")\[2\]。研究显示了FOXM1对[染色体](https://zh.wikipedia.org/wiki/染色体 "wikilink")[偏析和](https://zh.wikipedia.org/wiki/偏析 "wikilink")[基因组稳定性有重大作用](https://zh.wikipedia.org/wiki/基因组 "wikilink")。FOXM1因子失调表达了会造成异常的细胞增殖，导致引发癌症\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。
 
 ## 2010年度分子

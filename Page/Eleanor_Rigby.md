@@ -1,3 +1,6 @@
+> 本文内容由[Eleanor Rigby](https://zh.wikipedia.org/wiki/Eleanor_Rigby)转换而来。
+
+
 **Eleanor Rigby**是[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[The Beatles](https://zh.wikipedia.org/wiki/披頭四 "wikilink")1966年發行的[單曲及](https://zh.wikipedia.org/wiki/單曲 "wikilink")[Revolver專輯曲目之一](https://zh.wikipedia.org/wiki/Revolver "wikilink")，由[Paul所寫](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")。歌曲中包含了抒發生活沉悶的歌詞，以及弦樂八重奏（四部[小提琴](../Page/小提琴.md "wikilink")、兩部[中提琴](../Page/中提琴.md "wikilink")和[大提琴](../Page/大提琴.md "wikilink")）的伴奏。此歌是[E小調](../Page/E小調.md "wikilink")，並於旋律中運用，升高C音。
 
 ## 創作

@@ -1,3 +1,6 @@
+> 本文内容由[索斯機械獸V](https://zh.wikipedia.org/wiki/索斯機械獸V)转换而来。
+
+
 《**索斯機械獸V**》（日文原名：，-{zh-hans:香港译《**索斯机械兽V**》;zh-tw:香港譯《**索斯機械獸V**》;zh-hk:台灣譯《**機獸創世紀**》}-）是一部[日本電視動畫](../Page/日本電視動畫.md "wikilink")，為-{zh-hans:机兽;zh-tw:機獸;zh-hk:索斯機械獸}-系列的第五輯，但與以前的四輯沒有直接關係。該動畫由[東京電視台](../Page/東京電視台.md "wikilink")及[小學館](../Page/小學館.md "wikilink")製作，自2005年4月至2006年3月在東京電視台首播，共50集。2008年3月25日起在香港[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。由於索斯機械獸動畫第2輯（）是第1輯的延續，所以《索斯機械獸V》也可以當作該動畫系列的第4輯。
 
 [索斯機械獸](../Page/索斯機械獸.md "wikilink")第一、二部則於2002年7月8日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")，《[索斯機械獸III](../Page/索斯機械獸III.md "wikilink")》則於2003年3月21日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")，而《[索斯機械獸IV](../Page/索斯機械獸IV.md "wikilink")》則於2006年10月3日在[亞洲電視本港台首播](https://zh.wikipedia.org/wiki/亞洲電視本港台 "wikilink")。

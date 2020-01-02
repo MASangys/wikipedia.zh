@@ -1,3 +1,6 @@
+> 本文内容由[Haskell](https://zh.wikipedia.org/wiki/Haskell)转换而来。
+
+
 **Haskell**（）\[1\]是一种标准化的，通用的纯[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")，有[非限定性语义和](https://zh.wikipedia.org/wiki/非限定性语义 "wikilink")[强](https://zh.wikipedia.org/wiki/强类型 "wikilink")[静态类型](https://zh.wikipedia.org/wiki/类型系统 "wikilink")\[2\]。它的命名源自美国[逻辑学家](../Page/逻辑学家.md "wikilink")[哈斯凱爾·加里](https://zh.wikipedia.org/wiki/哈斯凱爾·加里 "wikilink")，他在数理逻辑方面上的工作使得函数式编程语言有了广泛的基础。在Haskell中，“函数是[第一類物件](../Page/第一類物件.md "wikilink")”\[3\]。作为一门[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")，主要控制结构是[函数](../Page/函数.md "wikilink")。Haskell语言是1990年在编程语言Miranda的基础上标准化的，并且以[λ演算为基础发展而来](https://zh.wikipedia.org/wiki/λ演算 "wikilink")。这也是为什么Haskell语言以[希腊字母](../Page/希腊字母.md "wikilink")「λ」（Lambda）作为自己的标志。Haskell具有“[证明即程序、命题为类型](../Page/柯里-霍华德同构.md "wikilink")”的特征\[4\]\[5\]\[6\]\[7\]。
 
 ## 历史

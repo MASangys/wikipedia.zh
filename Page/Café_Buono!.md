@@ -1,3 +1,6 @@
+> 本文内容由[Café Buono!](https://zh.wikipedia.org/wiki/Café_Buono!)转换而来。
+
+
 {{Infobox Album | Name = Café Buono\! | Type = [專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink") | Artist = [Buono\!](../Page/Buono!.md "wikilink") | Released = 2008年2月20日 | Recorded = | Genre = [J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink") | Length = 51分54秒 | Label = [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") | Producer = 滝川洋 | Reviews = | Chart position = \*週間最高順位11位（[Oricon](../Page/Oricon公信榜.md "wikilink")） | Certification = | Last album = – | This album = **Café Buono\!**
 （2008年） | Next album = [Buono\!2](../Page/Buono!2.md "wikilink")
 （2009年） | Misc =  『**Café Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2008年2月20日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。

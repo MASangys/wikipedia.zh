@@ -1,3 +1,6 @@
+> 本文内容由[Going to Erh...](https://zh.wikipedia.org/wiki/Going_to_Erh...)转换而来。
+
+
 《**Going to Erh...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[曹震豪](../Page/曹震豪.md "wikilink")的第二張大碟，首張粵語[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2012年3月22日發行\[1\]，第一主打歌為[港鐵](../Page/港鐵.md "wikilink")[機場快線主題曲](https://zh.wikipedia.org/wiki/機場快線 "wikilink")《安啦安啦》。
 
 ## 曲目

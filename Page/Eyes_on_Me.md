@@ -1,3 +1,6 @@
+> 本文内容由[Eyes on Me](https://zh.wikipedia.org/wiki/Eyes_on_Me)转换而来。
+
+
 《**Eyes on Me**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第三張個人單曲與第一張英文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於1999年2月24日由[東芝EMI株式會社在](https://zh.wikipedia.org/wiki/東芝EMI株式會社 "wikilink")[日本](../Page/日本.md "wikilink")發行，共收錄3首歌。[日本環球音樂於](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")2017年11月3日限量發行7吋黑膠唱片的版本\[1\]\[2\]。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[CCTV风云音乐频道](https://zh.wikipedia.org/wiki/CCTV风云音乐频道)转换而来。
+
+
 **中国中央电视-{台}-风云音乐频道**是由[中国中央电视台](../Page/中国中央电视台.md "wikilink")开办的环球时尚的专业音乐频道，该频道实现[立体声播出](https://zh.wikipedia.org/wiki/立体声 "wikilink")，为中國最早开通的[数字电视付费频道](https://zh.wikipedia.org/wiki/数字电视付费频道 "wikilink")。
 
 ## 播出节目

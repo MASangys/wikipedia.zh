@@ -1,3 +1,6 @@
+> 本文内容由[Mi-4直昇機](https://zh.wikipedia.org/wiki/Mi-4直昇機)转换而来。
+
+
 **Mi-4直昇機**（北約代號：獵犬）是[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[米爾設計局在](https://zh.wikipedia.org/wiki/米爾莫斯科直升機工廠 "wikilink")20世紀50年代初推出的中型直昇機，可作軍用及民用，Mi-4直昇機被[苏联](../Page/苏联.md "wikilink")大量外銷给第三世界國家，同时[中華人民共和國因大量生产Mi](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")-4直昇機仿製出的[直-5](../Page/直-5.md "wikilink")直升机而成為其另一個主要生產國。
 
 ## 設計特點
@@ -73,7 +76,7 @@ Mi-4及其仿製型[直-5](../Page/直-5.md "wikilink")大量用於軍用及民�
 
 ## 外部連結
 
-  - [直-5 我国制造的第一种多用途直升机](http://www.airforceworld.com/pla/z5-helicopter-china.htm)
+  - [直-5 我国制造的第一种多用途直升机](https://web.archive.org/web/20130420085829/http://airforceworld.com/pla/z5-helicopter-china.htm)
 
 [Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink") [Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink") [Category:米爾設計局](https://zh.wikipedia.org/wiki/Category:米爾設計局 "wikilink") [Category:中國解放軍直昇機](https://zh.wikipedia.org/wiki/Category:中國解放軍直昇機 "wikilink")
 

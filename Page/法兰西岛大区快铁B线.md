@@ -1,3 +1,6 @@
+> 本文内容由[法兰西岛大区快铁B线](https://zh.wikipedia.org/wiki/法兰西岛大区快铁B线)转换而来。
+
+
 **大区快铁B线**（），简称RER B, 是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[大区快铁的一条贯通](https://zh.wikipedia.org/wiki/大区快铁 "wikilink")[巴黎](../Page/巴黎.md "wikilink")市郊南北走向的线路, 具有多个支線. 该线路连接东北部[夏尔·戴高乐国际机场的](https://zh.wikipedia.org/wiki/夏尔·戴高乐国际机场 "wikilink")[二号航站楼高速列车站](https://zh.wikipedia.org/wiki/二号航站楼高速列车站 "wikilink") (B3支線) 和[米特里-克莱站](../Page/米特里-克莱站.md "wikilink") (Mitry - Claye, B5支線), 以及南部的[罗班松站](../Page/罗班松站.md "wikilink") (Robinson, B2支線) 和[圣雷米-莱谢夫勒斯站](../Page/圣雷米-莱谢夫勒斯站.md "wikilink") (Saint-Rémy-lès-Chevreuse, B4支線), 通过巴黎市中心.
 
 B线南部 ([巴黎北站](../Page/巴黎北站.md "wikilink")以南) 由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink") (RATP) 运营, 北段由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink") (SNCF) 运营. 列车由两家公司共同拥有. 当前, B线的客流量在各条快铁线中位列次席, 仅次于[A线](https://zh.wikipedia.org/wiki/大区快铁A线 "wikilink").

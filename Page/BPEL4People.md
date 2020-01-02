@@ -1,3 +1,6 @@
+> 本文内容由[BPEL4People](https://zh.wikipedia.org/wiki/BPEL4People)转换而来。
+
+
 **BPEL4People**的全称是**WS-BPEL Extension for People**，是[BPEL](../Page/BPEL.md "wikilink")在人工活动方面的扩展。
 
 ## 历史

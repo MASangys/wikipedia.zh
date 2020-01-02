@@ -1,3 +1,6 @@
+> 本文内容由[Collablog](https://zh.wikipedia.org/wiki/Collablog)转换而来。
+
+
 **Collablog**是一個[網際網路內容出版系統](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，也是一種[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")（CMS）、部落格程式，它是以[PHP](../Page/PHP.md "wikilink")語言撰寫，並搭配[MySQL](../Page/MySQL.md "wikilink")資料庫使用。
 
 在2004年11月開始進行開發，2005年8月時推出測試版，開始在部份網站使用，並推廣到不同面向市場。2008年1月正式對外釋出雙版本的程式下載。\[1\]

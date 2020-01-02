@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第四章：内分泌、营养和代谢疾病](https://zh.wikipedia.org/wiki/ICD-10_第四章：内分泌、营养和代谢疾病)转换而来。
+
+
 **ICD-10 第四章：内分泌、营养和代谢疾病**，为[WHO规定的已发现的各类内分泌](https://zh.wikipedia.org/wiki/WHO "wikilink")，营养和代谢疾病。
 
 ## 受控词表

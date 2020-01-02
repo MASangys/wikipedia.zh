@@ -1,3 +1,6 @@
+> 本文内容由[ALIVE 最終進化少年](https://zh.wikipedia.org/wiki/ALIVE_最終進化少年)转换而来。
+
+
 《**ALIVE 最終進化少年**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[安達渡嘉](../Page/安達渡嘉.md "wikilink")的漫畫作品\[1\]，原作[河島正](https://zh.wikipedia.org/wiki/河島正 "wikilink")\[2\]。原于2008年六月宣布将改編為[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")\[3\]\[4\]，但因動畫製作公司[GONZO](../Page/GONZO.md "wikilink")经营不善退市而导致此計畫中止\[5\]\[6\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Adobe eLearning Suite](https://zh.wikipedia.org/wiki/Adobe_eLearning_Suite)转换而来。
+
+
 Adobe eLearning Suite是Adobe Systems的专业人才、教学设计、培训管理人员、内容开发商和教育工作者的应用程序集合。该套件允许用户创作、管理、发布等，包括截屏演示、模拟、和其他互动内容的交互式教学信息。
 
 Adobe Flash和Dreamweaver在这个套件中为特殊的软件，用于改善工作流程和应用程序之间的整合。这些版本仅作为套件的一部分，不能单独购买。

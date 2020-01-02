@@ -1,3 +1,6 @@
+> 本文内容由[NBA紀錄](https://zh.wikipedia.org/wiki/NBA紀錄)转换而来。
+
+
 本列表统计的是[美国](../Page/美国.md "wikilink")**国家篮球协会（[NBA](../Page/NBA.md "wikilink")）的各项纪录列表。**
 
 ## 常規賽

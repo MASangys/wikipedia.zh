@@ -1,3 +1,6 @@
+> 本文内容由[Ai Se Eu Te Pego](https://zh.wikipedia.org/wiki/Ai_Se_Eu_Te_Pego)转换而来。
+
+
 "**Ai Se Eu Te Pego**"（，**假如我捕获了你**）是一首巴西歌曲，由Sharon Acioly和Antônio Dyggs作曲\[1\]。首先由樂隊Cangaia de Jegue錄製，在2011年由[米歇爾·泰洛主唱的版本風靡全球](https://zh.wikipedia.org/wiki/米歇爾·泰洛 "wikilink")。2012年1月他推出英語版本的**Oh, If I Catch You**。
 
 ## 米歇爾·泰洛版本

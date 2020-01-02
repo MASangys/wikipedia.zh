@@ -1,3 +1,6 @@
+> 本文内容由[BMW X3](https://zh.wikipedia.org/wiki/BMW_X3)转换而来。
+
+
 **BMW X3**是[德國的汽車公司](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")制造生產的高級[SUV車型](https://zh.wikipedia.org/wiki/SUV "wikilink")。
 
 BMW自身使用「SAV（Sports Activity Vehicle，該名詞也被寶馬公司註冊為商標）」來分類該車，宣傳該車與之前的[X5均為](../Page/BMW_X5.md "wikilink")「BMW提出的，全新類型的汽車」。此車款在機械上採用BMW 3系列的底盤平台，早期車型為了操控性許多車評認為行駛感過於偏硬，後期小改款車型已改善。

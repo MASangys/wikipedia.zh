@@ -1,3 +1,6 @@
+> 本文内容由[陆地巡航者P. 1000老鼠](https://zh.wikipedia.org/wiki/陆地巡航者P._1000老鼠)转换而来。
+
+
 **P. 1000 巨鼠重型巡航坦克**（*Landkreuzer P. 1000 Ratte*）是[納粹德國](../Page/納粹德國.md "wikilink")計畫開發的一種重量達1000[噸的](https://zh.wikipedia.org/wiki/噸 "wikilink")[超重型坦克](../Page/超重型坦克.md "wikilink")，由德國的[克虜伯公司研製](https://zh.wikipedia.org/wiki/克虜伯 "wikilink")，但計畫在1943年被放棄，沒有一輛P-1000被生產出來。此超重型坦克非常巨大，高度有11米，炮台也有兩個平常人的高度。
 
 ## 研發歷史與概要

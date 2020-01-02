@@ -1,3 +1,6 @@
+> 本文内容由[香港網站 \(BBS\)](https://zh.wikipedia.org/wiki/香港網站_\(BBS\))转换而来。
+
+
 [Hkibbs.JPG](https://zh.wikipedia.org/wiki/File:Hkibbs.JPG "fig:Hkibbs.JPG") **香港網站**（英文名稱Hong Kong Internet BBS，簡稱HKiBBS）為[香港](../Page/香港.md "wikilink")的[BBS](../Page/BBS.md "wikilink")，容許參與者不論政見或所在地都能暢所欲言的發表意見，現已停止服務。
 
 ## 系統歷史

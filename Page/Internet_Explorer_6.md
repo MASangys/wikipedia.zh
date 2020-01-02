@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer 6](https://zh.wikipedia.org/wiki/Internet_Explorer_6)转换而来。
+
+
 **Microsoft Internet Explorer 6**（简称**IE6**）是[微軟所開發的一套使用](https://zh.wikipedia.org/wiki/微軟 "wikilink")[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，為[Internet Explorer系列中的第](../Page/Internet_Explorer.md "wikilink")6版，也是系列中[產品生命周期最長的一個版本](https://zh.wikipedia.org/wiki/產品生命周期 "wikilink")。
 
 此外，IE6是最後一個軟體名稱標題為「Microsoft Internet Explorer」的版本，從[Internet Explorer 7之後](../Page/Internet_Explorer_7.md "wikilink")，所有的Internet Explorer軟體名稱都更改為「Windows Internet Explorer」。

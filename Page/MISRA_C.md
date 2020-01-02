@@ -1,3 +1,6 @@
+> 本文内容由[MISRA C](https://zh.wikipedia.org/wiki/MISRA_C)转换而来。
+
+
 **MISRA C**是由（MISRA）提出的[C語言開發標準](https://zh.wikipedia.org/wiki/C語言 "wikilink")。其目的是在增進[嵌入式系統的安全性及](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[可移植性](https://zh.wikipedia.org/wiki/軟體可移植性 "wikilink")。針對[C++](../Page/C++.md "wikilink")語言也有對應的標準[MISRA C++](https://zh.wikipedia.org/wiki/MISRA_C++ "wikilink")。
 
 MISRA C一開始主要是針對汽車產業\[1\] ，不過其他產業也逐漸開始使用MISRA C：包括航太、電信、國防、醫療設備、鐵路等領域中都已有廠商使用MISRA C。\[2\]\[3\]

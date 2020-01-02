@@ -1,3 +1,6 @@
+> 本文内容由[APE tag](https://zh.wikipedia.org/wiki/APE_tag)转换而来。
+
+
 **APE tag**是一種用來描述数字音乐檔案[元数据](../Page/元数据.md "wikilink")的[標籤](https://zh.wikipedia.org/wiki/標籤_\(元數據\) "wikilink")。起初是為了讓[Monkey's Audio使用而開發](../Page/Monkey's_Audio.md "wikilink")，不過目前已經有[Musepack](../Page/Musepack.md "wikilink")、[WavPack](../Page/WavPack.md "wikilink")、 [OptimFROG](../Page/OptimFROG.md "wikilink")，以及[TAK](../Page/TAK.md "wikilink")等其他音樂檔案格式使用。
 
 ## 版本

@@ -1,3 +1,6 @@
+> 本文内容由[精裝追女仔II](https://zh.wikipedia.org/wiki/精裝追女仔II)转换而来。
+
+
 是一套1988年的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")，是導演[王晶自編自導的作品](https://zh.wikipedia.org/wiki/王晶_\(導演\) "wikilink")，亦是《[精裝追女仔](../Page/精裝追女仔.md "wikilink")》的續集。
 
 ## 情节简介

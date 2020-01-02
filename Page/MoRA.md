@@ -1,3 +1,6 @@
+> 本文内容由[MoRA](https://zh.wikipedia.org/wiki/MoRA)转换而来。
+
+
 《**MoRA**》（，MoRA）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")的套裝專輯，同時也是唱片公司為紀念椎名林檎出道十週年所發行的最後一張作品。本張套裝專輯有CD和DVD兩種版本，並採預約發售制，與《[無限償還](https://zh.wikipedia.org/wiki/無限償還#黑膠唱片 "wikilink")》和《[勝訴的新宿舞孃](https://zh.wikipedia.org/wiki/勝訴的新宿舞孃#黑膠唱片 "wikilink")》的黑膠唱片一同於2008年11月25日由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music發行](../Page/維京唱片.md "wikilink")\[1\]\[2\]。
 
 在銷售成績方面，CD套裝專輯在日本Oricon銷售榜上最高位居單週第32名\[3\]，名列2008年年度銷售榜第859位。而DVD套裝專輯則最高位居單週第25名\[4\]。

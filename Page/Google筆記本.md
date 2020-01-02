@@ -1,3 +1,6 @@
+> 本文内容由[Google筆記本](https://zh.wikipedia.org/wiki/Google筆記本)转换而来。
+
+
 **Google筆記本**（）是[Google公司提供的一項服務与软件](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，讓使用者方便地儲存及整理從[網路上收集的資料](https://zh.wikipedia.org/wiki/網路 "wikilink")，並且利用其共享功能讓使用者將自己的筆記公開給其他人瀏覽。
 
 本服務在2006年5月10日公開發表，並於同年的5月15日正式開放使用。除网页版外，还提供用于 [Internet Explorer](../Page/Internet_Explorer.md "wikilink") 6 和 [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 1.5+ 的扩展支持\[1\]。

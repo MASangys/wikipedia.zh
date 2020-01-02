@@ -1,3 +1,6 @@
+> 本文内容由[獵犬座RS型變星](https://zh.wikipedia.org/wiki/獵犬座RS型變星)转换而来。
+
+
 **獵犬RS型變星**是[變星](../Page/變星.md "wikilink")的一種類型，也是有活躍[色球層的密接](https://zh.wikipedia.org/wiki/色球層 "wikilink")[聯星](../Page/聯星.md "wikilink")\[1\]，並且可以觀察到因此造成的[光度](../Page/光度.md "wikilink")變化。通常，這類變星的週期與聯星的互轉周期接近，有些系統的光度變化還顯示出是[食雙星](https://zh.wikipedia.org/wiki/聯星#食雙星 "wikilink")，而典型的光度變化只有0.2[星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")。
 
 史都華(1946年)首先注意到這类变星，但是奧利弗(1974年)才首度定義出獵犬RS型變星在觀測上的特徵與標準，在今天作業上所採用的標準是海爾(1976年)制定的\[2\]。

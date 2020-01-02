@@ -1,3 +1,6 @@
+> 本文内容由[ICHIKA](https://zh.wikipedia.org/wiki/ICHIKA)转换而来。
+
+
 **ICHIKA**，[日本](../Page/日本.md "wikilink")的[AV女優](../Page/AV女優.md "wikilink")。出生於[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")。Sunrise Agency旗下AV女優。
 
 興趣、特技：羽毛球、電子琴

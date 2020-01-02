@@ -1,3 +1,6 @@
+> 本文内容由[Castle Fantasia 聖魔大戰](https://zh.wikipedia.org/wiki/Castle_Fantasia_聖魔大戰)转换而来。
+
+
 《**Castle Fantasia 聖魔大戰**》（日文原名：）為[日本](../Page/日本.md "wikilink")遊戲公司[Studio e.go\!](../Page/Studio_e.go!.md "wikilink")（簡稱ego）於1998年11月20日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2000年12月22日發售重製版《新聖魔大戰》（日文原名：），不僅全程有語音且[CG畫質與戰鬥系統皆大幅提升細膩度及挑戰度](https://zh.wikipedia.org/wiki/CG "wikilink")。\[2\]台灣由信必優多媒體股份有限公司代理發行中文版(非18禁)，現已倒閉、結束營業。2002年7月11日由Symbio Planning發售[Dreamcast](../Page/Dreamcast.md "wikilink")版。\[3\]
 
 ## 遊戲方式

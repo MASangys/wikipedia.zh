@@ -1,3 +1,6 @@
+> 本文内容由[IPad mini \(第一代\)](https://zh.wikipedia.org/wiki/IPad_mini_\(第一代\))转换而来。
+
+
 [Lightning_Dock_in_iPad_mini.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Dock_in_iPad_mini.jpg "fig:Lightning_Dock_in_iPad_mini.jpg") **iPad mini**（技术上称**第一代iPad mini**，而**iPad mini 1**为俗称）是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的[平板電腦](../Page/平板電腦.md "wikilink")，2012年10月23日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[聖荷西發佈](../Page/聖荷西_\(加利福尼亞州\).md "wikilink")，是[iPad系列中首部設有](https://zh.wikipedia.org/wiki/iPad "wikilink")7.9吋屏幕、並爲體型最輕巧便攜的型號。一般常被人與[Kindle Fire](../Page/Kindle_Fire.md "wikilink")、[Nexus 7相競比較](https://zh.wikipedia.org/wiki/Nexus_7 "wikilink")。
 
 2013年10月22日，蘋果公司發佈配備[-{zh-hans:Retina屏幕;zh-hant:Retina顯示器;}-的](../Page/Retina显示屏.md "wikilink")[iPad mini](https://zh.wikipedia.org/wiki/iPad_mini_2 "wikilink")（iPad mini 2）。原有的iPad mini仍繼續供售容量16GB機型，但32GB以上則不再提供。

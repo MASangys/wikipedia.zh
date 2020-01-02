@@ -1,3 +1,6 @@
+> 本文内容由[ABO血型系统](https://zh.wikipedia.org/wiki/ABO血型系统)转换而来。
+
+
 **ABO血型系统**是[人类最早认识也是最为重要的](https://zh.wikipedia.org/wiki/人类 "wikilink")[血型系统](https://zh.wikipedia.org/wiki/血型 "wikilink")。ABO血型由[红细胞膜上的不同](https://zh.wikipedia.org/wiki/红细胞 "wikilink")[抗原](../Page/抗原.md "wikilink")所决定，与人类[输血时发生的](https://zh.wikipedia.org/wiki/输血 "wikilink")[溶血反应密切相关](https://zh.wikipedia.org/wiki/溶血反应 "wikilink")，具有重要的[临床意义](https://zh.wikipedia.org/wiki/临床医学 "wikilink")。ABO抗原也存在于[牛](../Page/牛.md "wikilink")、[羊](../Page/羊.md "wikilink")和一些[猿](../Page/猿.md "wikilink")类等其他动物体内\[1\]。ABO血型可能繼承自數百萬年前一個共同的靈長類祖先，並在傳染病免疫反應具關鍵作用\[2\]。
 
 ## 发现史

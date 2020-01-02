@@ -1,3 +1,6 @@
+> 本文内容由[Love Paranoia](https://zh.wikipedia.org/wiki/Love_Paranoia)转换而来。
+
+
 《**Love Paranoia**》（愛情妄想）為[日本](../Page/日本.md "wikilink")歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2009年11月18日發行之4th[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 解說

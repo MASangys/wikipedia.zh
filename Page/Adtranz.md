@@ -1,3 +1,6 @@
+> 本文内容由[Adtranz](https://zh.wikipedia.org/wiki/Adtranz)转换而来。
+
+
 [Tung_Chung_Line_Train.jpg](https://zh.wikipedia.org/wiki/File:Tung_Chung_Line_Train.jpg "fig:Tung_Chung_Line_Train.jpg") [SEPTA-MFL-TrainPlaque2007.jpg](https://zh.wikipedia.org/wiki/File:SEPTA-MFL-TrainPlaque2007.jpg "fig:SEPTA-MFL-TrainPlaque2007.jpg")
 
 **ABB 戴姆勒-奔馳運輸系统股份公司**（**ABB Daimler-Benz Transportation GmbH**，简称**ADtranz**），[中文譯作](https://zh.wikipedia.org/wiki/中文 "wikilink")“**安达**”，是一家跨國（[德國及](https://zh.wikipedia.org/wiki/德國 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")）[鐵路車輛](../Page/鐵路車輛.md "wikilink")製造商，總部設於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林](../Page/柏林.md "wikilink")。成立於1996年，原為[戴姆勒克萊斯勒旗下事業](https://zh.wikipedia.org/wiki/戴姆勒克萊斯勒 "wikilink")，在2001年被[庞巴迪运输收购](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")。

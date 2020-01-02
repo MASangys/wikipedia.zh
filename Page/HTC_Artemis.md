@@ -1,3 +1,6 @@
+> 本文内容由[HTC Artemis](https://zh.wikipedia.org/wiki/HTC_Artemis)转换而来。
+
+
 **HTC Artemis**，原廠型號**HTC P3300，HTC P3301**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5，GPS手機，擁有RollR軌跡球滑鼠與360度滾輪設計，方便單手操控。2006年10月於歐洲首度發表。已知客製版本HTC P3300，HTC P3301，Qtek G200，Dopod P800，Dopod P800W，Orange SPV M650，T-Mobile MDA Compact III，O2 Xda Orbit。
 
 ## 技術規格

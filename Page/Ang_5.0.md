@@ -1,3 +1,6 @@
+> 本文内容由[Ang 5.0](https://zh.wikipedia.org/wiki/Ang_5.0)转换而来。
+
+
 《**ANG 5.0**》為[台灣藝人](https://zh.wikipedia.org/wiki/台灣 "wikilink")[張韶涵](../Page/張韶涵.md "wikilink")發行的第五張錄音室專輯。
 
 ## 發行版本

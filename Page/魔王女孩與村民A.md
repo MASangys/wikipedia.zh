@@ -1,3 +1,6 @@
+> 本文内容由[魔王女孩與村民A](https://zh.wikipedia.org/wiki/魔王女孩與村民A)转换而来。
+
+
 《**魔王女孩與村民A**》（）是[ゆうきりん撰寫](https://zh.wikipedia.org/wiki/ゆうきりん "wikilink")，[赤人繪製插畫的日本](https://zh.wikipedia.org/wiki/赤人 "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品。日文版由[電擊文庫](../Page/電擊文庫.md "wikilink")出版發行，繁體中文版由[台灣角川](../Page/台灣角川.md "wikilink")代理發行；简体中文版预定由[天闻角川](../Page/天闻角川.md "wikilink")代理發行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版。
 
 ## 故事簡介

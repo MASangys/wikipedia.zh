@@ -1,3 +1,6 @@
+> 本文内容由[Lightworks](https://zh.wikipedia.org/wiki/Lightworks)转换而来。
+
+
 **Lightworks** 是一套剪辑 2K/4K 电影和 [PAL](https://zh.wikipedia.org/wiki/PAL "wikilink")/[NTSC](https://zh.wikipedia.org/wiki/NTSC "wikilink")、[标清以及](https://zh.wikipedia.org/wiki/标清 "wikilink")[高清电视的专业非线性编辑系统](https://zh.wikipedia.org/wiki/高清 "wikilink")。Lightworks 是基于电脑进行电影剪辑的先锋，从 1989 年诞生至今一直处于发展当中。
 
 该程序目前运行于 Windows 平台，2010 年 5 月宣布发布[开源版本并向](https://zh.wikipedia.org/wiki/open_source "wikilink") GNU/Linux、Mac OS X 平台进行移植\[1\]，但由于开发进度原因，原定的发布时间 2011 年 11 月\[2\]一直推迟到了 2012 年 10 月 30 日（[内测](https://zh.wikipedia.org/wiki/Alpha_release "wikilink")）\[3\]。

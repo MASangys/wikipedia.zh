@@ -1,3 +1,6 @@
+> 本文内容由[Grid Wars](https://zh.wikipedia.org/wiki/Grid_Wars)转换而来。
+
+
 ***Grid Wars***是个[Geometry Wars克隆](https://zh.wikipedia.org/wiki/Geometry_Wars "wikilink")，由Mark Incitti开发。第一版本于2005年12月21日放出。后继者Grid Wars 2释放为免费软件。放置于Mark Incitti's Blitz Creations网站。
 
 虽然还有其他类似*Geometry Wars*的游戏存在，*Grid Wars*还是因为太流行而遭到Bizarre的直接邮件威胁，Incitti被要求去除网上的下载，因为"beginning to feel the effects of the Geometry Wars clones on our sales via [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") now and are beginning a process to begin to more robustly protect our copyright and intellectual property".──开始注意到这些游戏对销售的影响，故要保护知识产权。\[1\] 2006年8月8日，链接被移除。\[2\]. 支持Windows，Mac OS，Linux。游戏中按下F3可以变换网格。

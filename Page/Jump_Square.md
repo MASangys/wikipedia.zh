@@ -1,3 +1,6 @@
+> 本文内容由[Jump Square](https://zh.wikipedia.org/wiki/Jump_Square)转换而来。
+
+
 《**Jump Square**》（簡稱Jump SQ、）是[集英社](../Page/集英社.md "wikilink")的月刊[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。2007年11月2日創刊。每月4日發售。
 
 「Jump Square」的「square」可以指的是「a public square」（廣場）、「square」（平方）、SQ.=「supreme quality」（最高的品質）\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[For My Dear...](https://zh.wikipedia.org/wiki/For_My_Dear...)转换而来。
+
+
 《**For My Dear...**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第4張單曲，1998年10月7日於日本正式發行。另外，與此前的8cm單曲作品相同，皆於2001年2月28日再發行了12cm版本。
 
 ## 收錄歌曲

@@ -1,3 +1,6 @@
+> 本文内容由[Chess Titans](https://zh.wikipedia.org/wiki/Chess_Titans)转换而来。
+
+
 **Chess Titans**是在[Windows Vista中新增的一项](../Page/Windows_Vista.md "wikilink")[国际象棋游戏](https://zh.wikipedia.org/wiki/国际象棋 "wikilink")。由[微軟製作](https://zh.wikipedia.org/wiki/微軟 "wikilink")，特色是其[3D的畫面](https://zh.wikipedia.org/wiki/3D "wikilink")，並可選擇三種棋子和棋盤的樣式，其電腦強度一共分成十級，另也可以雙人對戰，並有儲存[棋譜](../Page/棋譜.md "wikilink")的功能。
 
 它被包含在[Windows Vista的家用進階](../Page/Windows_Vista.md "wikilink")、商用簡易、商用進階和旗艦版中，以及[Windows 7的家用進階](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、專業、企業和旗艦版中。而[Windows 8则不自带此游戏](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。

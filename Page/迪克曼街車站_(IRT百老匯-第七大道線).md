@@ -1,3 +1,6 @@
+> 本文内容由[迪克曼街車站 \(IRT百老匯-第七大道線\)](https://zh.wikipedia.org/wiki/迪克曼街車站_\(IRT百老匯-第七大道線\))转换而来。
+
+
 **迪克曼街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")一個[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，大致位於[曼哈頓](../Page/曼哈頓.md "wikilink")[英伍德](../Page/英伍德.md "wikilink")及內格爾大道交界，設有[1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構

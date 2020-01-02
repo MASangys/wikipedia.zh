@@ -1,3 +1,6 @@
+> 本文内容由[A-POP](https://zh.wikipedia.org/wiki/A-POP)转换而来。
+
+
 **A-POP**的「A」取自[日本](../Page/日本.md "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")的簡稱「」和[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「Anime」，指[動畫歌曲](../Page/動畫歌曲.md "wikilink")、[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[主題曲](../Page/主題曲.md "wikilink")、[聲優](../Page/聲優.md "wikilink")歌曲、[電波歌曲](https://zh.wikipedia.org/wiki/電波歌曲 "wikilink")、[萌曲等](https://zh.wikipedia.org/wiki/萌曲 "wikilink")。
 
 ## 概要

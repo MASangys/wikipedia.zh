@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(V10\)](https://zh.wikipedia.org/wiki/ATC代码_\(V10\))转换而来。
+
+
 ## V10A [抗炎药](https://zh.wikipedia.org/wiki/抗炎性 "wikilink")（Anti-inflammatory agents）
 
 ### V10AA 钇(90Y)化合物类（Yttrium (<sup>90</sup>Y) compounds）

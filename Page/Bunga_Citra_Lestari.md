@@ -1,3 +1,6 @@
+> 本文内容由[Bunga Citra Lestari](https://zh.wikipedia.org/wiki/Bunga_Citra_Lestari)转换而来。
+
+
 **本娥·奇特拉**（，简称：**BCL**，）是一位[印尼知名女歌手及演員](https://zh.wikipedia.org/wiki/印尼 "wikilink")。出生於印尼[雅加達](https://zh.wikipedia.org/wiki/雅加達 "wikilink")。
 
 ## 演藝事業

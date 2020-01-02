@@ -1,3 +1,6 @@
+> 本文内容由[Cg語言](https://zh.wikipedia.org/wiki/Cg語言)转换而来。
+
+
 **Cg语言**（C for Graphics）是为[GPU编程设计的](https://zh.wikipedia.org/wiki/GPU "wikilink")[高級著色器語言](https://zh.wikipedia.org/wiki/高級著色器語言 "wikilink")，由[NVIDIA公司开发](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。Cg极力保留[C语言的大部分语义](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并让开发者从硬件细节中解脱出来，Cg同时也有一个高级语言的其他好处，如代码的易重用性，可读性得到提高，编译器代码优化。
 
 Cg语言主要参照[ANSI C建模](../Page/ANSI_C.md "wikilink")，但也从[C++](../Page/C++.md "wikilink")和[Java](../Page/Java.md "wikilink")以及早期的绘制语言如RenderMan and the Stanford shading language中吸取了一些思想。这些使得很容易写程序然后由编译器进行优化，提高了可读性。而且Cg的设计考虑了GPU的体系结构，如可编程多处理器单元（顶点处理器，像素处理器，外加不可编程单元）。这些部分和应用都是通过数据流连接起来。Cg语言允许分别为[顶点和像素写程序](../Page/頂點_\(電腦圖學\).md "wikilink")。Cg API引入了profiles的概念以处理顶点和像素编程所缺乏的通用性。一个Cg profile就定义了一套整个Cg语言的子集以适应不同的硬件平台和API。Cg程序可以根据运行时的需要或者事先编译成GPU汇编代码。这样可以很容易地将一个Cg像素程序和手写的顶点程序结合起来，或者甚至采用不可编程的OpenGL或者DirectX顶点流水线，反之亦然。

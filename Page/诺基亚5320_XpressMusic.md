@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚5320 XpressMusic](https://zh.wikipedia.org/wiki/诺基亚5320_XpressMusic)转换而来。
+
+
 **諾基亞5320**（**Nokia 5320 [XpressMusic](https://zh.wikipedia.org/wiki/XpressMusic "wikilink")**）是[諾基亞於](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")2008年6月推出的一款[3.5G](https://zh.wikipedia.org/wiki/3.5G "wikilink") [HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")（[中國大陸版無此功能](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")）[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，使用建于[S60第三版 功能包2的](https://zh.wikipedia.org/wiki/S60 "wikilink")[Symbian OS v9.3系统](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")。其在[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[定制機](https://zh.wikipedia.org/wiki/定制 "wikilink")[電信業者為](https://zh.wikipedia.org/wiki/電信業者 "wikilink")[臺灣大哥大](https://zh.wikipedia.org/wiki/臺灣大哥大 "wikilink")。
 
 ## 外部連結

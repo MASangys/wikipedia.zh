@@ -1,3 +1,6 @@
+> 本文内容由[IBM InfoSphere DataStage](https://zh.wikipedia.org/wiki/IBM_InfoSphere_DataStage)转换而来。
+
+
 {{ infobox software | logo = | developer = [IBM](../Page/IBM.md "wikilink") | released = | frequently updated = yes | programming language = | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | language = 多语言 | genre = [数据整合](https://zh.wikipedia.org/wiki/数据整合 "wikilink") | license = | website = [ibm.com](http://www-01.ibm.com/software/data/infosphere/datastage/) }}
 
 **IBM InfoSphere DataStage**是IBM[开发的一种](https://zh.wikipedia.org/wiki/开发 "wikilink")[ETL工具](https://zh.wikipedia.org/wiki/ETL "wikilink")，也是IBM信息平台解决方案套件和[IBM InfoSphere的其中一部分](https://zh.wikipedia.org/wiki/IBM_InfoSphere "wikilink")。它是一个以图形界面方式来提供数据整合解决方案的集成工具。DataStage有[服务器](../Page/服务器.md "wikilink")版本和企业版本等多种版本。

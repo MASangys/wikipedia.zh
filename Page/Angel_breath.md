@@ -1,3 +1,6 @@
+> 本文内容由[Angel breath](https://zh.wikipedia.org/wiki/Angel_breath)转换而来。
+
+
 《**angel breath**》（）是2006年2月24日由[戏画發售的戀愛冒險類型的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 概要

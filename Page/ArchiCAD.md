@@ -1,3 +1,6 @@
+> 本文内容由[ArchiCAD](https://zh.wikipedia.org/wiki/ArchiCAD)转换而来。
+
+
 **ARCHICAD**是一个理想的3D建筑设计软件，它同时具备了成熟的2D绘图与布图功能，由匈牙利公司Graphisoft开发。自ARCHICAD问世就以3D建模和设计为特色，并提出虚拟建筑的概念。现在ARCHICAD也同样宣传自己是BIM软件，业内也认为ARCHICAD是世界上最早的BIM软件，其扩展模块中也有MEP（水暖电）ECO（能耗分析）及Artlantis渲染插件等。ARCHICAD支持IFC标准和GDL技术。Graphisoft公司推出ARCHICAD系列支持10余种语言。
 
 ## 本土化過程

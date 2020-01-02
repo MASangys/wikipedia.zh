@@ -1,3 +1,6 @@
+> 本文内容由[Flipboard](https://zh.wikipedia.org/wiki/Flipboard)转换而来。
+
+
 **Flipboard**是一款社交及杂志形式的应用程序，支持[Android](../Page/Android.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[BlackBerry 10及](../Page/BlackBerry_10.md "wikilink")[Windows 8操作系统](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")\[1\]。应用程序需要用户拥有一个Flipboard账号，支持绑定包括[Twitter](../Page/Twitter.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[新浪微博](../Page/新浪微博.md "wikilink")在内的多款[社交网络平台](https://zh.wikipedia.org/wiki/社交 "wikilink")，并根据喜好定制以电子杂志形式输出的信息和[Google Reader的内容](https://zh.wikipedia.org/wiki/Google_Reader "wikilink")，\[2\]透過“翻转”（Flip）的方式进行浏览和刷新。
 
 ## 介紹

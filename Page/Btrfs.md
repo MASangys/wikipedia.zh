@@ -1,3 +1,6 @@
+> 本文内容由[Btrfs](https://zh.wikipedia.org/wiki/Btrfs)转换而来。
+
+
 **Btrfs**（B-tree檔案系統，通常念成**Butter FS**，**Better FS**或**B-tree FS**），一種支持[寫入時複製](https://zh.wikipedia.org/wiki/寫入時複製 "wikilink")（COW）的文件系统，運行在Linux作業系統，採用[GPL授權](https://zh.wikipedia.org/wiki/GPL "wikilink")。[Oracle于](https://zh.wikipedia.org/wiki/Oracle "wikilink")2007年對外宣布這項計劃，並釋出原始碼，在2014年8月釋出穩定版。目标是取代[Linux](../Page/Linux.md "wikilink")目前的[ext3文件系统](https://zh.wikipedia.org/wiki/ext3 "wikilink")，改善ext3的限制，特別是单个文件的大小，总文件系统大小或文件检查和加入ext3未支持的功能，像是可写快照（writable snapshots）、快照的快照（snapshots of snapshots）、内建磁盘阵列（RAID），以及子卷（subvolumes）。Btrfs也宣称专注在“容错、修复及易于管理”。
 
 ## 特性

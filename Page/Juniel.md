@@ -1,3 +1,6 @@
+> 本文内容由[Juniel](https://zh.wikipedia.org/wiki/Juniel)转换而来。
+
+
 **Juniel**(；；），原名為**崔準希**\[1\](；；），轉投[C9娛樂後](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")，並將本名改為**崔瑞峨**\[2\](，)，[韓國創作女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。原在[FNC娛樂](../Page/FNC娛樂.md "wikilink")出道，2016年1月底完約，其後轉投C9娛樂。
 
 在韓國出道前她已於日本發展演藝事業，初出道時藝名為「Junie」，其后改為現名，由英文名字與字母「L」的組合而成，當中字母「L」代表「Love」(愛)\[3\]。 粉絲的官方名稱為「Banila」，意為白色甜蜜的[Vanilla](https://zh.wikipedia.org/wiki/雲呢拿 "wikilink")，也是Juniel最珍貴的第一支吉他「Bbanini」和象徵初戀的「Illa Illa」合成的名字，有「如Juniel的初戀一般隨時隨地相伴在一起的珍貴的存在」的含義，偶像為[少女時代隊長](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](../Page/太妍.md "wikilink")和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")

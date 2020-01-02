@@ -1,3 +1,6 @@
+> 本文内容由[藤澤Loser](https://zh.wikipedia.org/wiki/藤澤Loser)转换而来。
+
+
 『**藤澤loser**』（）是[ASIAN KUNG-FU GENERATION在](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")2008年10月15日發售的第12張主要[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Du riechst so gut](https://zh.wikipedia.org/wiki/Du_riechst_so_gut)转换而来。
+
+
 ***Du riechst so gut***（德译：你闻起来真棒）是德国著名乐队[Rammstein的第一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，并收录于他们的第一张专辑[Herzeleid中](https://zh.wikipedia.org/wiki/Herzeleid "wikilink")。据称歌曲是由德国作家[帕特里克·聚斯金德的小说](https://zh.wikipedia.org/wiki/帕特里克·聚斯金德 "wikilink")[香水激发灵感创作的](https://zh.wikipedia.org/wiki/香水_\(小说\) "wikilink")，而[香水也是乐队主唱](https://zh.wikipedia.org/wiki/香水_\(小说\) "wikilink")[Till Lindemann最喜欢的小说](https://zh.wikipedia.org/wiki/Till_Lindemann "wikilink")。
 
 ## MV

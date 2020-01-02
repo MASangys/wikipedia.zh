@@ -1,3 +1,6 @@
+> 本文内容由[D小調托卡塔與賦格, BWV 565](https://zh.wikipedia.org/wiki/D小調托卡塔與賦格,_BWV_565)转换而来。
+
+
 [Rincgk_01.jpg](https://zh.wikipedia.org/wiki/File:Rincgk_01.jpg "fig:Rincgk_01.jpg") **[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")[托卡塔與](https://zh.wikipedia.org/wiki/托卡塔 "wikilink")[賦格](https://zh.wikipedia.org/wiki/賦格 "wikilink"), [BWV](https://zh.wikipedia.org/wiki/BWV "wikilink") 565**為[巴赫著名的作品](https://zh.wikipedia.org/wiki/巴赫 "wikilink")，同時也是[風琴](../Page/風琴.md "wikilink")作品中最傑出的作品之一。但自1980年代起有學者質疑此曲是否由巴赫本人所作。此曲亦有多個改編版本，如法國號\[1\]、鋼琴、交響樂、弦樂四重奏等，也出現於各流行媒體中，包括[迪士尼的](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[幻想曲](https://zh.wikipedia.org/wiki/幻想曲_\(電影\) "wikilink")。
 
 ## 分析
@@ -12,7 +15,7 @@
 
 ### 托卡塔
 
-[Toccata-Fugue-BWV565_Bach-intro.svg](https://zh.wikipedia.org/wiki/File:Toccata-Fugue-BWV565_Bach-intro.svg "fig:Toccata-Fugue-BWV565_Bach-intro.svg")  此曲第一部分為托卡塔，開首為一組平行的八度音和減七[和弦](../Page/和弦.md "wikilink")[琶音](https://zh.wikipedia.org/wiki/琶音 "wikilink")，其後形成[D大調](https://zh.wikipedia.org/wiki/D大調 "wikilink")[平行鍵](https://zh.wikipedia.org/wiki/平行鍵 "wikilink")。然後是三段短促的八度旋律，再以減七和弦的琶音轉回[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")。接着是一連串較隨意的樂段，並以[A小調的踏板音作輔](https://zh.wikipedia.org/wiki/A小調 "wikilink")。最後以連續的[三連音過渡到](https://zh.wikipedia.org/wiki/三連音 "wikilink")[慢板結尾樂段](https://zh.wikipedia.org/wiki/慢板 "wikilink")。
+[Toccata-Fugue-BWV565_Bach-intro.svg](https://zh.wikipedia.org/wiki/File:Toccata-Fugue-BWV565_Bach-intro.svg "fig:Toccata-Fugue-BWV565_Bach-intro.svg")  此曲第一部分為托卡塔，開首為一組平行的八度音和減七[和弦](../Page/和弦.md "wikilink")[琶音](https://zh.wikipedia.org/wiki/琶音 "wikilink")，其後形成[D大調](../Page/D大調.md "wikilink")[平行鍵](https://zh.wikipedia.org/wiki/平行鍵 "wikilink")。然後是三段短促的八度旋律，再以減七和弦的琶音轉回[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")。接着是一連串較隨意的樂段，並以[A小調的踏板音作輔](https://zh.wikipedia.org/wiki/A小調 "wikilink")。最後以連續的[三連音過渡到](https://zh.wikipedia.org/wiki/三連音 "wikilink")[慢板結尾樂段](https://zh.wikipedia.org/wiki/慢板 "wikilink")。
 
 ### 賦格
 
@@ -63,20 +66,12 @@
 [分類:巴赫作品](https://zh.wikipedia.org/wiki/分類:巴赫作品 "wikilink")
 
 1.
-
 2.  Williams 2003, 155.
-
 3.
 4.  Newman, Anthony. 1995. *Bach and the Baroque: European Source Materials from the Baroque and Early Classical Periods with Special Emphasis on the Music of J.S. Bach*, 181. Pendragon Press, 1995.
-
 5.  This paragraph and the next are a summary of Williams 1981.
-
 6.  Williams 2003, p. 156.
-
 7.  Humphreys 1982, pp. 216–217.
-
 8.
-
 9.  See Fox-Lefriche 2004.
-
 10. Argent, Mark. 2000. *Stringing Along*. Musical Times, Autumn 2000.

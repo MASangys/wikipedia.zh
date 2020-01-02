@@ -1,3 +1,6 @@
+> 本文内容由[Jaŋalif](https://zh.wikipedia.org/wiki/Jaŋalif)转换而来。
+
+
 或 （[塔塔尔语](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")： \[\]；[西里尔字母](../Page/西里尔字母.md "wikilink")：Я；“新字母”）曾是[苏联](../Page/苏联.md "wikilink")1930年代用於[塔塔尔语的拉丁字母](https://zh.wikipedia.org/wiki/塔塔尔语 "wikilink")。它取代了1928年基于[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")的 [Yaña imlâ](https://zh.wikipedia.org/wiki/Yaña_imlâ "wikilink") (Яңа имля)。而  在1939年被西里尔字母取代了。
 
 共有33个字母，其中9个属于[元音](../Page/元音.md "wikilink")。[引号用来作为](https://zh.wikipedia.org/wiki/引号 "wikilink")[喉塞音](https://zh.wikipedia.org/wiki/喉塞音 "wikilink") () ，有时按照普通字母来排序。其他字母也会用作书写外语词。小写字母 B 写成类似 （以避免与  混）、大写字母  写成类似 [У](../Page/У.md "wikilink")。字母  有一个下缘钩（descender），就像西里尔字母中的 [Щ](../Page/Щ.md "wikilink")、[Җ和](https://zh.wikipedia.org/wiki/Җ "wikilink")[Ң](../Page/Ң.md "wikilink")。第33个字母（与[壮语](../Page/壮语.md "wikilink")的  类似）就像西里尔的软音符号 [Ь](../Page/Ь.md "wikilink")，但未收进 Unicode。大写  在一些字体则很像俄语的 [Э](../Page/Э.md "wikilink")。

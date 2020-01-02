@@ -1,3 +1,6 @@
+> 本文内容由[BrettSpielWelt](https://zh.wikipedia.org/wiki/BrettSpielWelt)转换而来。
+
+
 [BrettspielWelt.PNG](https://zh.wikipedia.org/wiki/File:BrettspielWelt.PNG "fig:BrettspielWelt.PNG") **BrettSpielWelt**（常被縮寫為BSW）是一個完全免費的[德國線上](https://zh.wikipedia.org/wiki/德國 "wikilink")[棋盤遊戲入口網站](https://zh.wikipedia.org/wiki/棋盤遊戲 "wikilink")。BrettSpielWelt是德文，該字可譯為「棋盤遊戲世界」。BrettSpielWelt提供了超過六十種經典的[棋盤遊戲及](https://zh.wikipedia.org/wiki/棋盤遊戲 "wikilink")[卡片遊戲](../Page/卡片遊戲.md "wikilink")線上版本，如[雙陸棋](../Page/雙陸棋.md "wikilink")、吹牛骰、[卡卡頌](https://zh.wikipedia.org/wiki/卡卡頌 "wikilink")、Can't Stop、[圍棋](https://zh.wikipedia.org/wiki/圍棋 "wikilink")、失落的城市、[卡坦島](https://zh.wikipedia.org/wiki/卡坦島 "wikilink")、Tichu等。使用者可以使用支援[Java](../Page/Java.md "wikilink")的[瀏覽器進行遊戲](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，或是到官方網站下載Java用戶端程式。進行遊戲並不需要註冊帳號，但使用註冊的帳號可以使用更多的功能及權限。
 
 BrettSpielWelt本身是獨立、非商業、並且沒有廣告的，唯一的例外是該網站所提供線上遊玩的遊戲，會間接得到廣告的效果。由於這個網站相當地受歡迎，許多棋盤遊戲發行商在他們開始發行遊戲時，就會把版權提供給BrettSpielWelt。

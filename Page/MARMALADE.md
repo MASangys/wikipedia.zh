@@ -1,3 +1,6 @@
+> 本文内容由[MARMALADE](https://zh.wikipedia.org/wiki/MARMALADE)转换而来。
+
+
 **MARMALADE**（）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")的品牌。\[1\]2007年5月18日到10月19日在[音泉](../Page/音泉.md "wikilink")[網路電台播放節目](https://zh.wikipedia.org/wiki/網路電台 "wikilink")《**ま〜まれぇど放送局 サクラサク♪さくらじお**》。
 
 ## 主要作品

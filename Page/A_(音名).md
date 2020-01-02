@@ -1,3 +1,6 @@
+> 本文内容由[A \(音名\)](https://zh.wikipedia.org/wiki/A_\(音名\))转换而来。
+
+
 **A**或者**la**是[唱名的第六個音](https://zh.wikipedia.org/wiki/唱名 "wikilink")。A是用來[調音的](https://zh.wikipedia.org/wiki/調音 "wikilink")，當[管弦樂團](../Page/管弦樂團.md "wikilink")調音時，會叫[雙簧管](../Page/雙簧管.md "wikilink")吹A，其他樂器則聽這音來調音；[中樂團](../Page/中樂團.md "wikilink")則是以[笙](../Page/笙.md "wikilink")的標準音調音。
 
 當計算[十二平均律](../Page/十二平均律.md "wikilink")時，以A<sub>4</sub>(中音A)為標準，設定為440 [Hz](https://zh.wikipedia.org/wiki/Hz "wikilink")（參見[音高](../Page/音高.md "wikilink")的相關討論）。升一個半音時，頻率乘以\(\sqrt[12]{2}\)。

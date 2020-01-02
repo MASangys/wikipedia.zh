@@ -1,3 +1,6 @@
+> 本文内容由[ARASHI No.1～嵐呼喚暴風雨～](https://zh.wikipedia.org/wiki/ARASHI_No.1～嵐呼喚暴風雨～)转换而来。
+
+
 《**ARASHI No.1～嵐呼喚暴風雨～**》（）是[嵐](../Page/嵐.md "wikilink")的第1枚專輯，第1枚原創專輯。於2001年1月24日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

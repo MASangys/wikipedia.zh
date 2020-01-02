@@ -1,3 +1,6 @@
+> 本文内容由[BALDR SKY](https://zh.wikipedia.org/wiki/BALDR_SKY)转换而来。
+
+
 《**BALDR SKY**》是由[戲畫於](../Page/戲畫_\(遊戲品牌\).md "wikilink")2009年發售的[戀愛冒險與](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[動作類型](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。BALDR系列的第五作，由TEAM BALDRHEAD負責製作。作品分為「Dive1 "LostMemory"」和「Dive2 "RECORDARE"」兩部分，DIVE1於3月27日發售，DIVE2於11月27日發售。2010年9月24日發售Fandisk《BALDR SKY Dive X "DREAM WORLD"》。2019年12月20日由[Sekai Project發售Dive](../Page/Sekai_Project.md "wikilink")1與Dive2的簡體中文和英文版。
 
 動作遊戲部分不是《[Xross Scramble](../Page/Xross_Scramble.md "wikilink")》的新形式，而是基於《[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")》的舊系統發展。世界的舞台由過去、現在及虛擬空間所構成，主軸為記憶喪失的主角在不斷的戰鬥中逐漸找回已經被忘卻的自我的故事。

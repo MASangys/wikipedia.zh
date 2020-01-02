@@ -1,3 +1,6 @@
+> 本文内容由[Code Geass世界觀設定及專有名詞列表](https://zh.wikipedia.org/wiki/Code_Geass世界觀設定及專有名詞列表)转换而来。
+
+
 本条目记录《[Code Geass 反叛的鲁路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的鲁路修 "wikilink")》、《[Code Geass 亡國的AKITO](https://zh.wikipedia.org/wiki/Code_Geass_亡國的AKITO "wikilink")》和《[Code Geass 双貌的奥兹](../Page/Code_Geass_双貌的奥兹.md "wikilink")》中的世界观设定及专有名词。
 
 ## Geass

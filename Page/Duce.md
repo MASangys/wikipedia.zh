@@ -1,3 +1,6 @@
+> 本文内容由[Duce](https://zh.wikipedia.org/wiki/Duce)转换而来。
+
+
 **Duce**（[意大利语](../Page/意大利语.md "wikilink")[IPA](https://zh.wikipedia.org/wiki/国际音标 "wikilink")：）是意大利语表示“领袖”或者“元首”意义的一个特殊名词，Duce一词源于[拉丁语](../Page/拉丁语.md "wikilink")*Dux*。并因[意大利](../Page/意大利.md "wikilink")[法西斯主义](../Page/法西斯主义.md "wikilink")独裁者[贝尼托·墨索里尼](../Page/贝尼托·墨索里尼.md "wikilink")在1925年至1945年间使用此称谓而著称。Duce 的淵源及迷思來自於法國大革命及18世紀理想主義和浪漫主義所提到的“特質（genius）”。
 
 ## 词源

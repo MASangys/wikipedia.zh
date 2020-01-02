@@ -1,3 +1,6 @@
+> 本文内容由[MAP](https://zh.wikipedia.org/wiki/MAP)转换而来。
+
+
 **[地图](../Page/地图.md "wikilink")**（Map）為將某區域以視覺效果呈現的圖樣。
 
 **Map**或**MAP**可能是以下事物：

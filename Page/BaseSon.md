@@ -1,3 +1,6 @@
+> 本文内容由[BaseSon](https://zh.wikipedia.org/wiki/BaseSon)转换而来。
+
+
 **BaseSon**是[日本](../Page/日本.md "wikilink")[NEXTON](../Page/NEXTON.md "wikilink")（ネクストン）公司旗下的[成人遊戲品牌](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")。\[1\]
 
 ## 作品列表

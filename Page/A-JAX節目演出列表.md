@@ -1,3 +1,6 @@
+> 本文内容由[A-JAX節目演出列表](https://zh.wikipedia.org/wiki/A-JAX節目演出列表)转换而来。
+
+
 本頁是南韓男子團體-**[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")**的節目演出列表。包含成員出道前的演出與自2012年出道以來演出的相關節目列表，包含**專屬節目**、**節目主持**、**非固定演出**、**廣播演出**等資訊。 [A-JAX.jpg](https://zh.wikipedia.org/wiki/File:A-JAX.jpg "fig:A-JAX.jpg")
 
 ## 專屬節目

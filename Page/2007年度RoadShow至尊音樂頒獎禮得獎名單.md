@@ -1,3 +1,6 @@
+> 本文内容由[2007年度RoadShow至尊音樂頒獎禮得獎名單](https://zh.wikipedia.org/wiki/2007年度RoadShow至尊音樂頒獎禮得獎名單)转换而来。
+
+
 **RoadShow至尊音樂頒獎禮2007**於2008年1月3日假座[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行，當晚共頒發24個項目，總共74個獎項，司儀為[高皓正](https://zh.wikipedia.org/wiki/高皓正 "wikilink")、[張達明](https://zh.wikipedia.org/wiki/張達明 "wikilink")、[俞詠文](https://zh.wikipedia.org/wiki/俞詠文 "wikilink")，以下為當晚的得獎名單：
 
 ## 歌曲獎項

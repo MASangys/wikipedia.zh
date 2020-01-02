@@ -1,3 +1,6 @@
+> 本文内容由[H \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/H_\(濱崎步單曲\))转换而来。
+
+
 《[H_logo.png](https://zh.wikipedia.org/wiki/File:H_logo.png "fig:H_logo.png")》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")在2002年7月24日於日本發售的第27張單曲。這張包含了三首A面曲目的單曲獲得了當年銷售量最高單曲的殊榮，突破百萬的銷量後，另外於11月7日發行了特別慶功版。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[ITF女子巡迴賽](https://zh.wikipedia.org/wiki/ITF女子巡迴賽)转换而来。
+
+
 **ITF女子巡迴賽事（ITF Women's Circuits）**是[國際網球總會](../Page/國際網球總會.md "wikilink")（ITF）為女子職業[網球選手設立的職業網球賽事](https://zh.wikipedia.org/wiki/網球 "wikilink")。這被視為銜接[女子網球聯合會（WTA）賽事的基礎賽事](https://zh.wikipedia.org/wiki/女子網球聯合會 "wikilink")。目前每年在六十多國舉辦約四百場賽事，提供6種等級、1萬至10萬美元不等的賽事總獎金與相應積分\[1\]，使女子球員得以累積足夠積分來參與WTA賽事。
 
 ## 歷史

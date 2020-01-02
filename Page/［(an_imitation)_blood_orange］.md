@@ -1,3 +1,6 @@
+> 本文内容由[［\(an imitation\) blood orange］](https://zh.wikipedia.org/wiki/［\(an_imitation\)_blood_orange］)转换而来。
+
+
 《**\[(an imitation) blood orange\]**》，是[日本](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第17張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2012年11月28日發行。
 
 ## 概要

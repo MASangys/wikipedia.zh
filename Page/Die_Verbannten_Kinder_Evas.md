@@ -1,3 +1,6 @@
+> 本文内容由[Die Verbannten Kinder Evas](https://zh.wikipedia.org/wiki/Die_Verbannten_Kinder_Evas)转换而来。
+
+
 **Die Verbannten Kinder Evas**（被流放之夏娃孩子）是一支[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，由Richard Lederer和Michael Gregor于1993年成立。当时二人签约[Napalm Records](https://zh.wikipedia.org/wiki/Napalm_Records "wikilink")，公司决定由二人组成乐队进军[黑潮](../Page/黑潮.md "wikilink")音乐领域，二人一拍即合，于是就产生了这个乐队。
 
 ## 介绍

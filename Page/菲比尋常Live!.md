@@ -1,3 +1,6 @@
+> 本文内容由[菲比尋常Live!](https://zh.wikipedia.org/wiki/菲比尋常Live!)转换而来。
+
+
 《**菲比尋常Live\!**》（***Faye Wong Live\!***）是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第三張[演唱會專輯](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，於2004年11月12日在[香港](../Page/香港.md "wikilink")发行，2CD裝。CD1是17首歌曲，CD2為16首歌曲。
 
 ## 曲目

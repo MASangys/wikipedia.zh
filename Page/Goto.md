@@ -1,3 +1,6 @@
+> 本文内容由[Goto](https://zh.wikipedia.org/wiki/Goto)转换而来。
+
+
 **GOTO**是一条可以在许多计算机[编程语言](../Page/编程语言.md "wikilink")中找到的[语句](https://zh.wikipedia.org/wiki/语句 "wikilink")。它是英文单词*[go](https://zh.wikipedia.org/wiki/wiktionary:go "wikilink")*和*[to](https://zh.wikipedia.org/wiki/wiktionary:to "wikilink")*的组合。当执行这条语句的时候，它将[控制流程](../Page/控制流程.md "wikilink")无条件地转到另一条语句（也叫「[跳转](https://zh.wikipedia.org/wiki/跳转 "wikilink")」）。跳转语句需要指明[標記](../Page/標記_\(程式語言\).md "wikilink")，在不同语言中，標記可以是[标识符或](https://zh.wikipedia.org/wiki/标识符 "wikilink")[行号](https://zh.wikipedia.org/wiki/行号 "wikilink")。在[机器码级别](https://zh.wikipedia.org/wiki/机器码 "wikilink")，`goto`是一种[分支的形式](https://zh.wikipedia.org/wiki/分支_\(計算機科學\) "wikilink")。
 
 在一些语言中，可以不用显示地使用`goto`[关键字而实现同样的功能](https://zh.wikipedia.org/wiki/关键字 "wikilink")，例如`break`或`continue`关键字可以跟随一个标识符。[SNOBOL语言支持一种语句的后缀形式](https://zh.wikipedia.org/wiki/SNOBOL "wikilink")，可以在本条语句执行完毕后实现无条件跳转。

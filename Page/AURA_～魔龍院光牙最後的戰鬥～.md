@@ -1,3 +1,6 @@
+> 本文内容由[AURA ～魔龍院光牙最後的戰鬥～](https://zh.wikipedia.org/wiki/AURA_～魔龍院光牙最後的戰鬥～)转换而来。
+
+
 《**AURA ～魔龍院光牙最後的戰鬥～**》（）是[田中羅密歐](../Page/田中羅密歐.md "wikilink")撰寫，[mebae負責插畫的](https://zh.wikipedia.org/wiki/mebae "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品，由[小學館](../Page/小學館.md "wikilink")的[Gagaga文庫出版](https://zh.wikipedia.org/wiki/Gagaga文庫 "wikilink")。作者將以前在《PC Angel neo》連載的專欄改寫成小說而成為本作。
 
 一部動畫電影於2013年4月13日首映。

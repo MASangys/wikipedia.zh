@@ -1,3 +1,6 @@
+> 本文内容由[GUN-KATANA（銃刀）—Non-Human-Killer—](https://zh.wikipedia.org/wiki/GUN-KATANA（銃刀）—Non-Human-Killer—)转换而来。
+
+
 《**GUN-KATANA（銃刀）―Non-Human-Killer―**》是[Black Cyc開發並於](https://zh.wikipedia.org/wiki/Cyc_\(公司\) "wikilink")2007年8月31日發售的[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險遊戲及](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，是十八禁遊戲史上第一套真正的第一人稱射擊遊戲\[1\]。
 
 ## 故事簡介

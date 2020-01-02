@@ -1,3 +1,6 @@
+> 本文内容由[SIG P228半自動手槍](https://zh.wikipedia.org/wiki/SIG_P228半自動手槍)转换而来。
+
+
 **SIG P228**是一款由[西格&紹爾](../Page/西格&紹爾.md "wikilink")所研製及生產的緊湊型軍用型[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG P226半自動手槍的緊湊型版本](../Page/SIG_P226半自動手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述

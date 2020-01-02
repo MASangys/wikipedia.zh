@@ -1,3 +1,6 @@
+> 本文内容由[Hudson Soft](https://zh.wikipedia.org/wiki/Hudson_Soft)转换而来。
+
+
 [Tokyo_midtown_tower_cropped.jpg](https://zh.wikipedia.org/wiki/File:Tokyo_midtown_tower_cropped.jpg "fig:Tokyo_midtown_tower_cropped.jpg")\]\] **Hudson Soft**（），是一家已被併購的[日本](../Page/日本.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")发行商，主要業務為[游戏软件开发与销售](https://zh.wikipedia.org/wiki/游戏软件 "wikilink")。2012年，成為[科樂美數位娛樂](../Page/科樂美數位娛樂.md "wikilink")的事業品牌，公司法人消滅。
 
 ## 历史

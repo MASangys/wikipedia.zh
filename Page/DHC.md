@@ -1,3 +1,6 @@
+> 本文内容由[DHC](https://zh.wikipedia.org/wiki/DHC)转换而来。
+
+
 保健食品製造{{·w}}郵購{{·w}}語言學書籍出版{{·w}}翻譯業 | services = | revenue = | operating_income = | net_income = | aum = | assets = | equity = | owner = | num_employees = 2,790名（2011年10月） | parent = | divisions = | subsid = | homepage =  | zip_code = 106-8571 | telephone_no = | slogan = **天然·安心·自在** | capital = 3,377,290,000日圓 | market_value = | P/E ratio = | earnings per share = | Net asset value = | accounting_period = | major_shareholder = | footnotes = }} **DHC**（），是一家坐落於日本[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")，經營[化妝品](../Page/化妝品.md "wikilink")、[營養補充品](https://zh.wikipedia.org/wiki/膳食补充剂 "wikilink")（保健食品）與[出版事業的綜合製造廠](https://zh.wikipedia.org/wiki/出版 "wikilink")。DHC在[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[臺灣地區](../Page/臺灣地區.md "wikilink")的代表[法人](../Page/法人.md "wikilink")皆譯為「**蝶翠詩**」。
 
 ## 概要

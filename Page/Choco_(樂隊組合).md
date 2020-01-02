@@ -1,3 +1,6 @@
+> 本文内容由[Choco \(樂隊組合\)](https://zh.wikipedia.org/wiki/Choco_\(樂隊組合\))转换而来。
+
+
 **Choco**前身為地下樂隊PinkBerry，她們是[香港樂壇甚少出現的女子](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，於2012年出道，簽約[大名娛樂旗下藝人](https://zh.wikipedia.org/wiki/大名娛樂 "wikilink")。成員包括主音結他手 - Mel、鼓手 - Kiki、貝司手 - Cathy 、結他手 - Nova。Choco的音樂不會以控訴社會、憤世疾俗作主題，反盼以女生的角度，將正面、充滿希望的音樂帶給大家，希望能如朱古力般，釋放安多芬為大家帶來快樂這也正是**Choco**名稱的由來。
 
 Choco成為著名耳機品牌 AKG 2014年代言人。

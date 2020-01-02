@@ -1,3 +1,6 @@
+> 本文内容由[HUNTER×HUNTER詞語列表](https://zh.wikipedia.org/wiki/HUNTER×HUNTER詞語列表)转换而来。
+
+
 本列表記述由日本漫畫家[冨樫義博](../Page/冨樫義博.md "wikilink")創作的漫畫作品《[HUNTER×HUNTER](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")》中物品及用語。
 
 ## 獵人

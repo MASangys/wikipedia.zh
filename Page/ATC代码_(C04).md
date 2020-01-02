@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C04\)](https://zh.wikipedia.org/wiki/ATC代码_\(C04\))转换而来。
+
+
 ## C04A 外周[血管扩张剂](https://zh.wikipedia.org/wiki/血管扩张剂 "wikilink")（Peripheral vasodilators）
 
 ### C04AA [2-氨基-1-苯基乙醇衍生物](https://zh.wikipedia.org/wiki/2-氨基-1-苯基乙醇 "wikilink")（2-amino-1-phenylethanol derivatives）

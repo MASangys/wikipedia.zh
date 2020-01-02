@@ -1,3 +1,6 @@
+> 本文内容由[Cairo](https://zh.wikipedia.org/wiki/Cairo)转换而来。
+
+
 **Cairo**是一個讓用於提供[向量圖形繪圖的自由函式庫](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")，cairo提供在多個背景下做[2D的繪圖](../Page/二维空间.md "wikilink")，進階的更可以使用[硬體加速功能](https://zh.wikipedia.org/wiki/電腦硬件 "wikilink")\[1\]。
 
 雖然cairo是使用[C語言撰寫的](https://zh.wikipedia.org/wiki/C語言 "wikilink")，但是當使用cairo時，可以用許多其他種語言來使用，包括有[C++](../Page/C++.md "wikilink")、[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")、[Java](../Page/Java.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Scheme](../Page/Scheme.md "wikilink")、[Smalltalk](../Page/Smalltalk.md "wikilink")以及許多種語言\[2\]，cairo在[GNU較寬鬆公共許可證與](https://zh.wikipedia.org/wiki/GNU較寬鬆公共許可證 "wikilink")[Mozilla公共许可证](../Page/Mozilla公共许可证.md "wikilink")兩種授權條款下發行。

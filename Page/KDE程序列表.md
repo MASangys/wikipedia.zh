@@ -1,3 +1,6 @@
+> 本文内容由[KDE程序列表](https://zh.wikipedia.org/wiki/KDE程序列表)转换而来。
+
+
 本條目是[KDE](../Page/KDE.md "wikilink")應用軟件的一個列表，分類排序。
 
 ## 教育\[1\]

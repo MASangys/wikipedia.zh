@@ -1,3 +1,6 @@
+> 本文内容由[A-Line Radio](https://zh.wikipedia.org/wiki/A-Line_Radio)转换而来。
+
+
 **A-Line Radio聯播網**，原名“Apple Line蘋果線上”（於2016年11月1日零時起更名），是位於[台灣南部的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")，於2002年開播\[1\]，歸屬於陽光聯播網，口號是「最舒服的電臺」。
 
 而在[中華電信的HiChannel收聽A](https://zh.wikipedia.org/wiki/中華電信 "wikilink")-LINE Radio聯播網電台因不同訊號系統播放 ，與一般FM版本廣播電台有所不同。

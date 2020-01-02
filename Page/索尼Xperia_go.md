@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia go](https://zh.wikipedia.org/wiki/索尼Xperia_go)转换而来。
+
+
 **Sony Xperia go**是[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。其於2012年5月發表，\[1\]\[2\]為入門機種。
 
 ## 顏色

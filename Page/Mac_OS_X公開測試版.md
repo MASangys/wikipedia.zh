@@ -1,3 +1,6 @@
+> 本文内容由[Mac OS X公開測試版](https://zh.wikipedia.org/wiki/Mac_OS_X公開測試版)转换而来。
+
+
 {{ expert|subject=计算机科学 }}
 
 **Mac OS X 公開測試版**是[蘋果電腦公司](https://zh.wikipedia.org/wiki/蘋果電腦公司 "wikilink") [Mac OS X操作系統的早期測試版](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。它於2000年9月13日發佈，價格為29.95美元。該版本於2001年春季開始過期並停止運作。它的建造編號是1H39，内部代号为"Kodiak"。

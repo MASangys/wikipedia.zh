@@ -1,3 +1,6 @@
+> 本文内容由[Buono!](https://zh.wikipedia.org/wiki/Buono!)转换而来。
+
+
 **Buono\!**（），[日本](../Page/日本.md "wikilink")[Hello\! Project旗下的一女子偶像團體組合](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
 由[Berryz工房](../Page/Berryz工房.md "wikilink")及[℃-ute](../Page/℃-ute.md "wikilink")中選出3名成員組成的一個小組。當初是為動畫[守護甜心\!演唱片頭曲及片尾曲而成立的組合](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")。雖然成員是Hello\! Project的成員，但起初的唱片的公司卻是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，直自2011年，唱片公司才改爲[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")，即變回與一般Hello\! Project的成員無異。

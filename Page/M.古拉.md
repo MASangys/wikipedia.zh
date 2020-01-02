@@ -1,3 +1,6 @@
+> 本文内容由[M.古拉](https://zh.wikipedia.org/wiki/M.古拉)转换而来。
+
+
 **M.古拉**（；），[马来西亚](../Page/马来西亚.md "wikilink")政治人物和律师，[民主行动党全国副主席](https://zh.wikipedia.org/wiki/民主行动党_\(马来西亚\) "wikilink")，也是现任人力资源部部长、[霹雳州](https://zh.wikipedia.org/wiki/霹雳州 "wikilink")国会议员和[希望联盟印裔代表副主席](https://zh.wikipedia.org/wiki/希望联盟 "wikilink")\[1\]\[2\]，他时常提出许多印度人社区的问题\[3\]。
 
 ## 经历

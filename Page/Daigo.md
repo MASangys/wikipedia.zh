@@ -1,3 +1,6 @@
+> 本文内容由[Daigo](https://zh.wikipedia.org/wiki/Daigo)转换而来。
+
+
 ****（），[日本](../Page/日本.md "wikilink")樂團[BREAKERZ](../Page/BREAKERZ.md "wikilink")主唱、[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")。原名**內藤大湖**，亦是第74代[內閣總理大臣](https://zh.wikipedia.org/wiki/內閣總理大臣_\(日本\) "wikilink")[竹下登](../Page/竹下登.md "wikilink")之外孫，出生於[東京都](../Page/東京都.md "wikilink")。妻子為[日本](../Page/日本.md "wikilink")[演員](../Page/演員.md "wikilink")[北川景子](../Page/北川景子.md "wikilink")\[1\]。
 
 ## 簡歷

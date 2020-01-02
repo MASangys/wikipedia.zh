@@ -1,3 +1,6 @@
+> 本文内容由[比較C♯和Java](https://zh.wikipedia.org/wiki/比較C♯和Java)转换而来。
+
+
 本文對比了[C\#与](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Java這兩種編程語言](https://zh.wikipedia.org/wiki/Java_\(编程语言\) "wikilink")，這兩種語言都具有[自动垃圾回收以及](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")[运行时编译执行的特点](https://zh.wikipedia.org/wiki/JIT "wikilink")，并且兩者的语法都有主要继承自[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")，因此二者有很多相似之处。但由於C\#是作爲C++和Java的混合體而在Java之後所創造的，因此C\#相較Java有更多的新語法特徵并且引入了一些增强的功能，所以固然兩者有其相似性，但是總歸還是有諸多不同之處。
 
 ## 基本

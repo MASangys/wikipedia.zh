@@ -1,3 +1,6 @@
+> 本文内容由[Ana R.](https://zh.wikipedia.org/wiki/Ana_R.)转换而来。
+
+
 **Ana R.**（全名，），在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克薩斯州出生的](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[香港](../Page/香港.md "wikilink")[模特兒](../Page/模特兒.md "wikilink")，西韓[混血兒](../Page/混血兒.md "wikilink")。
 
 Ana R.的父親是西班牙商人，母親是韓國人，她在2000年由[美國來港發展](https://zh.wikipedia.org/wiki/美國 "wikilink")，充當模特兒角色，也曾被香港雜誌當選十大名模之一。因此與[陳嘉容](../Page/陳嘉容.md "wikilink")、[樂基兒](../Page/樂基兒.md "wikilink")、[周汶錡](../Page/周汶錡.md "wikilink")、[熊黛林](../Page/熊黛林.md "wikilink")、[姚書軼](../Page/姚書軼.md "wikilink")、[Amanda S.看齊](https://zh.wikipedia.org/wiki/Amanda_S. "wikilink")。

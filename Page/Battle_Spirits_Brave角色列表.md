@@ -1,3 +1,6 @@
+> 本文内容由[Battle Spirits Brave角色列表](https://zh.wikipedia.org/wiki/Battle_Spirits_Brave角色列表)转换而来。
+
+
 **Battle Spirits Brave 角色列表**是《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》的角色介紹。
 
 ## 主要角色

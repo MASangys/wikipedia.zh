@@ -1,3 +1,6 @@
+> 本文内容由[HTC Butterfly](https://zh.wikipedia.org/wiki/HTC_Butterfly)转换而来。
+
+
 **HTC Butterfly**（[國際版型號](https://zh.wikipedia.org/wiki/國際版 "wikilink")：**X920d**；[中國大陸型號](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")：**X920e**，俗稱「**蝴蝶機**」）是2012年12月[宏達國際電子](../Page/宏達國際電子.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")與[中國大陸市場推出的高階](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。針對[日本](../Page/日本.md "wikilink")電信商[KDDI](../Page/KDDI.md "wikilink")客製化，日本地區推出的同名機種為[HTC J Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[Verizon獨家推出的機種命名為](https://zh.wikipedia.org/wiki/Verizon "wikilink")[Verizon Droid DNA by HTC](https://zh.wikipedia.org/wiki/Verizon_Droid_DNA_by_HTC "wikilink")\[1\]。
 
 臺灣版HTC Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikilink")12月11日率先販售，[台灣大哥大](../Page/台灣大哥大.md "wikilink")及[遠傳電信](../Page/遠傳電信.md "wikilink")也於2013年1月底正式開賣。中華電信表示，2012年12月單月共創造了6萬台以上的銷售量。而龐大的預購量更是讓電信業者無法消化，導致全台缺貨，部分通訊行甚至哄抬售價販賣。

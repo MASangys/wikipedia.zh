@@ -1,3 +1,6 @@
+> 本文内容由[Love Song \(Riya專輯\)](https://zh.wikipedia.org/wiki/Love_Song_\(Riya專輯\))转换而来。
+
+
 《**Love Song**》是[Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")2005年8月31日于[日本](../Page/日本.md "wikilink")发行的专辑，编号为KSLA-0019，整张专辑包含一张CD，所有13首歌曲由[Key社的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[麻枝准](../Page/麻枝准.md "wikilink")作曲、编曲并制作，由来自[eufonius的](https://zh.wikipedia.org/wiki/eufonius "wikilink")[Riya](../Page/Riya.md "wikilink")演唱。其他合作的音乐家还有：Kendi Sato 在第2首和第12首演奏电吉他，AchillesKEN 在第7首参与[打击乐器](../Page/打击乐器.md "wikilink")演奏，Weisswurst在第7首和第13首演奏[小提琴](../Page/小提琴.md "wikilink")。[安倍吉俊](../Page/安倍吉俊.md "wikilink")为专辑绘制了封面和手册中的插图。《Love Song》是一张叙述爱情走向破灭的专辑。
 
 ## 收录曲目

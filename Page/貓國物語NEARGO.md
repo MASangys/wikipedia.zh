@@ -1,3 +1,6 @@
+> 本文内容由[貓國物語NEARGO](https://zh.wikipedia.org/wiki/貓國物語NEARGO)转换而来。
+
+
 **貓國物語NEARGO**（）系列繪本，是由[莫莉薊野](https://zh.wikipedia.org/wiki/莫莉薊野 "wikilink")（）原著，包括：貓國物語、子貓絮語、貓城小事、我最愛的貓國、花貓幻語五集。貓國物語是以「真實加虛構」的手法寫、畫的，每一本書都會留有篇幅介紹貓國，故事中虛構的貓國Neargo位於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[熱那亞附近](https://zh.wikipedia.org/wiki/熱那亞 "wikilink")，以貓多出名。前兩集的內容偏重於[貓的生活故事](https://zh.wikipedia.org/wiki/貓 "wikilink")，貓城小事的內容則以Neargo城為重點。
 
 日文原作於2001年開始出版，繁體中文版由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[積木文化於](https://zh.wikipedia.org/wiki/積木文化 "wikilink")2007年開始出版，胡儀芳譯。中国大陆由[南海出版社出版](https://zh.wikipedia.org/wiki/南海出版社 "wikilink")。

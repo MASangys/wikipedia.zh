@@ -1,3 +1,6 @@
+> 本文内容由[JB5](https://zh.wikipedia.org/wiki/JB5)转换而来。
+
+
 **JB5**是日本男子5人組的團體。「JUNON BOY 5」的簡稱。
 
 ## 經歷

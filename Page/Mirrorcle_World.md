@@ -1,3 +1,6 @@
+> 本文内容由[Mirrorcle World](https://zh.wikipedia.org/wiki/Mirrorcle_World)转换而来。
+
+
 《**Mirrorcle World**》（幻鏡）是[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")第43張單曲，2008年4月8日於[日本](../Page/日本.md "wikilink")發售。
 
 ## 說明

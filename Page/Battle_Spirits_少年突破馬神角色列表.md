@@ -1,3 +1,6 @@
+> 本文内容由[Battle Spirits 少年突破馬神角色列表](https://zh.wikipedia.org/wiki/Battle_Spirits_少年突破馬神角色列表)转换而来。
+
+
 **Battle Spirits 少年突破馬神 角色列表**是《[Battle Spirits 少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》的角色介紹。
 
 ## 輝石持有者

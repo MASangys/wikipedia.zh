@@ -1,3 +1,6 @@
+> 本文内容由[Kis-My-1st](https://zh.wikipedia.org/wiki/Kis-My-1st)转换而来。
+
+
 《**Kis-My-1st**》是[Kis-My-Ft2的首張](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2012年3月28日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

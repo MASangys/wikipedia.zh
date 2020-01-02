@@ -1,3 +1,6 @@
+> 本文内容由[Have a Nice Day](https://zh.wikipedia.org/wiki/Have_a_Nice_Day)转换而来。
+
+
 《Have a Nice Day》是[Lamb Production Limited製作的健康資訊節目](../Page/博美娛樂.md "wikilink")，2008年12月14日首播，逢週日晚上十時正在[now香港台播出](https://zh.wikipedia.org/wiki/now香港台 "wikilink")，2010年12月26日結束，主持人為[BMA唱片公司董事總經理兼節目製作公司Lamb](../Page/博美娛樂.md "wikilink") Production Limited老闆之一[林珊珊](../Page/林珊珊.md "wikilink")，監製為[智者創意策劃創辦人](https://zh.wikipedia.org/wiki/智者創意策劃 "wikilink")[鄭丹瑞](../Page/鄭丹瑞.md "wikilink")。
 
 ## 每集嘉賓

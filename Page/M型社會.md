@@ -1,3 +1,6 @@
+> 本文内容由[M型社會](https://zh.wikipedia.org/wiki/M型社會)转换而来。
+
+
 [2008_Top1percentUSA.png](https://zh.wikipedia.org/wiki/File:2008_Top1percentUSA.png "fig:2008_Top1percentUSA.png") **M型社會**或**極端社會**（**M-Form Society**；**M-shaped Society**），**M型社會**（**M-Form Society**）早見於[威廉·大內的著述中](https://zh.wikipedia.org/wiki/威廉·大內 "wikilink")——《M型社會：美國團隊如何奪回競爭優勢》\[1\]\[2\]。
 
 [日本](../Page/日本.md "wikilink")趨勢學家、經濟評論家、管理顧問師、[政策](../Page/政策.md "wikilink")顧問師[大前研一](../Page/大前研一.md "wikilink")在《中下階層的衝擊》（）一書中亦提出M型社會（**M-shaped Society**）的概念\[3\]，此書中文翻譯為《M型社會：中產階級消失的危機與商機》，「M型社會」遂成為台灣流行成氾的用語。原來是描述日本社會由原來以[中產階級](../Page/中產階級.md "wikilink")為社會主流，轉變為富裕與貧窮兩個極端（中產階級逐漸消失）。這個概念在21世紀初亦被形容[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")等地的社會現況。

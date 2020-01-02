@@ -1,3 +1,6 @@
+> 本文内容由[DNA夾](https://zh.wikipedia.org/wiki/DNA夾)转换而来。
+
+
 [1axc_tricolor.png](https://zh.wikipedia.org/wiki/File:1axc_tricolor.png "fig:1axc_tricolor.png")蛋白質的[三聚體](https://zh.wikipedia.org/wiki/三聚體 "wikilink")。\]\]
 
 **DNA夾**（，又称**滑动压板**、**滑行夹**）是一種[蛋白質的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")[三級結構](https://zh.wikipedia.org/wiki/三級結構 "wikilink")，為[DNA複製過程中的](https://zh.wikipedia.org/wiki/DNA複製 "wikilink")[持續性](https://zh.wikipedia.org/wiki/持續性 "wikilink")-啟動因子（processivity-promoting factor），是[DNA聚合酶III全酶的必要組成](https://zh.wikipedia.org/wiki/DNA聚合酶III全酶 "wikilink")，可避免DNA聚合酶（DNA polymerase)與DNA模板分離，並提升DNA合成速率。

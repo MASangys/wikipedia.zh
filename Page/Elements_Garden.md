@@ -1,3 +1,6 @@
+> 本文内容由[Elements Garden](https://zh.wikipedia.org/wiki/Elements_Garden)转换而来。
+
+
 [Elements_Garden_Logo.gif](https://zh.wikipedia.org/wiki/File:Elements_Garden_Logo.gif "fig:Elements_Garden_Logo.gif") **Elements Garden**（）是日本音樂製作品牌，隸屬於[ARIA entertainment](https://zh.wikipedia.org/wiki/ARIA_entertainment "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[FIFA 13](https://zh.wikipedia.org/wiki/FIFA_13)转换而来。
+
+
 是[藝電足球](https://zh.wikipedia.org/wiki/藝電 "wikilink")[運動類電子遊戲](https://zh.wikipedia.org/wiki/体育类游戏 "wikilink")[FIFA系列](../Page/FIFA系列.md "wikilink")的第20款，由藝電加拿大開發，[梅西擔任代言人](https://zh.wikipedia.org/wiki/梅西 "wikilink")。
 
 試玩版的FIFA 13 可試玩[曼城](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")、[阿仙奴](https://zh.wikipedia.org/wiki/阿仙奴 "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭 "wikilink")、[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")、[多蒙特五隊球隊](https://zh.wikipedia.org/wiki/多蒙特足球會 "wikilink")。該場館採用了[曼城的](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")[曼徹斯特市球場](../Page/曼徹斯特市球場.md "wikilink")。該演示提供友誼賽的一半長度的3實時分鐘。

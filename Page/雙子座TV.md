@@ -1,3 +1,6 @@
+> 本文内容由[雙子座TV](https://zh.wikipedia.org/wiki/雙子座TV)转换而来。
+
+
 **雙子座TV**，又名**BD+21 1146**，**HD 42475**、**SAO 78092**、**HR 2190**，是[雙子座的一颗恒星](https://zh.wikipedia.org/wiki/雙子座 "wikilink")\[1\]\[2\]，视星等为6.56，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")189.08，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")1.6，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

@@ -1,3 +1,6 @@
+> 本文内容由[Cutie Queen VOL.1](https://zh.wikipedia.org/wiki/Cutie_Queen_VOL.1)转换而来。
+
+
 「**Cutie Queen VOL.1**」（キューティークイーン VOL.1）是[日本](../Page/日本.md "wikilink")的女子偶像組合[℃-ute](../Page/℃-ute.md "wikilink")的第1枚原創專輯。於2006年10月25日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

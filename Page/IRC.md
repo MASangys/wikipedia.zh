@@ -1,3 +1,6 @@
+> 本文内容由[IRC](https://zh.wikipedia.org/wiki/IRC)转换而来。
+
+
 **IRC**（的缩写，“**因特网中继聊天**”）是一个位于[应用层](../Page/应用层.md "wikilink")的[协议](https://zh.wikipedia.org/wiki/协议 "wikilink")。其主要用于群体聊天，但同样也可以用于个人对个人的聊天。IRC使用的伺服器埠有6667（明文傳輸，如<irc://irc.freenode.net>）、6697（[SSL加密傳輸](https://zh.wikipedia.org/wiki/SSL "wikilink")，如<ircs://irc.freenode.net:6697>）等。
 
 [芬兰](../Page/芬兰.md "wikilink")人雅爾可·歐伊卡利寧（Jarkko Oikarinen）于1988年8月创造了IRC来取代一个叫做[MUT的程序](https://zh.wikipedia.org/wiki/MUT "wikilink")。

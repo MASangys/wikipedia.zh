@@ -1,3 +1,6 @@
+> 本文内容由[精密國際AWM狙擊步槍](https://zh.wikipedia.org/wiki/精密國際AWM狙擊步槍)转换而来。
+
+
 **精密國際AWM**（**Accuracy International Arctic Warfare Magnum**）為英國精密國際研發的北極作戰系列的[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，另稱**AWSM**（**Accuracy International Arctic Warfare Super Magnum**），AWSM較常指搭載著[.338 Lapua Magnum的AWM](../Page/.338拉普麥格農.md "wikilink")。
 
 ## 使用國家

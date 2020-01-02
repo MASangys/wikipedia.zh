@@ -1,3 +1,6 @@
+> 本文内容由[瑪利歐賽車Wii](https://zh.wikipedia.org/wiki/瑪利歐賽車Wii)转换而来。
+
+
 是一個由[任天堂情报开发本部所開發的賽車遊戲](https://zh.wikipedia.org/wiki/任天堂情报开发本部 "wikilink")。《瑪利歐賽車Wii》是第6款[瑪利歐賽車系列的遊戲](https://zh.wikipedia.org/wiki/瑪利歐賽車 "wikilink")，并且是第2款可使用[任天堂Wi-Fi連接來上網玩的瑪利歐賽車遊戲](https://zh.wikipedia.org/wiki/任天堂Wi-Fi連接 "wikilink")。《瑪利歐賽車Wii》裡多加摩托車，並且可與12個電腦競賽，也可以連線對戰與多達12個人競賽。每購買《瑪利歐賽車Wii》時，便會附贈1個[Wii方向盤](https://zh.wikipedia.org/wiki/Wii_Wheel "wikilink")。
 
 ## 遊戲概要

@@ -1,3 +1,6 @@
+> 本文内容由[N](https://zh.wikipedia.org/wiki/N)转换而来。
+
+
 Ν（希臘字母）}} **N**, **n** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第14个[字母](../Page/字母.md "wikilink")。
 
 [闪族语中的](https://zh.wikipedia.org/wiki/闪族语 "wikilink")  可能是表示“[蛇](../Page/蛇.md "wikilink")”的图形，它的音值是/n/，这与[希腊语](https://zh.wikipedia.org/wiki/希腊语 "wikilink")、[伊特鲁里亚语](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")、[拉丁语](../Page/拉丁语.md "wikilink")和所有当代语言的发音是一样的。希腊名称是：，。

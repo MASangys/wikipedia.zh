@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Jump](https://zh.wikipedia.org/wiki/週刊少年Jump)转换而来。
+
+
 《**週刊少年Jump**》（）由日本[集英社](../Page/集英社.md "wikilink")發行，于1968年（[昭和](../Page/昭和.md "wikilink")43年）7月創刊，當時是[雙週刊](https://zh.wikipedia.org/wiki/雙週刊 "wikilink")，於1969年轉為[週刊](https://zh.wikipedia.org/wiki/週刊 "wikilink")，每周一发售。刊载作品以动作冒险类为主，多带有幻想味道，并刻意张扬个性，追求情节的峰回路转。间或也有部分恋爱、运动及历史题材的作品。多数作品人物造型唯美，因此亦拥有大量少女读者。
 
 为日本**發行量最高**的连载[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，位列三大週刊[少年漫畫雜誌](../Page/少年漫画.md "wikilink")（《週刊少年Jump》、《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》和《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》）之首。於1993年每期發行量突破600萬冊。[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")《[寶島少年](../Page/寶島少年.md "wikilink")》（[東立出版](https://zh.wikipedia.org/wiki/東立 "wikilink")）、[香港](../Page/香港.md "wikilink")的《[EX-am](../Page/EX-am.md "wikilink")》（[文化傳信](../Page/文化傳信.md "wikilink")出版，已停刊）和 中国大陆《漫画行》（[翻翻动漫](../Page/翻翻动漫.md "wikilink")出版） 則是該雜誌漫畫連載的中文版。

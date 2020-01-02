@@ -1,3 +1,6 @@
+> 本文内容由[核糖核酸酶P](https://zh.wikipedia.org/wiki/核糖核酸酶P)转换而来。
+
+
 [RNase_P.png](https://zh.wikipedia.org/wiki/File:RNase_P.png "fig:RNase_P.png")
 
 **核糖核酸酶P**（Ribonuclease P，简写为**RNase P**）是一种[核糖核酸酶](https://zh.wikipedia.org/wiki/核糖核酸酶 "wikilink")。核糖核酸酶P也是一种[核酶](../Page/核酶.md "wikilink")，即由一个[RNA分子发挥](https://zh.wikipedia.org/wiki/RNA "wikilink")[催化](../Page/催化.md "wikilink")活性，它是第一个被发现的[蛋白质](../Page/蛋白质.md "wikilink")以外具有催化活性的[生物大分子](https://zh.wikipedia.org/wiki/生物大分子 "wikilink")。它的功能是剪切[tRNA分子中RNA上多余的或前体的多余序列](https://zh.wikipedia.org/wiki/tRNA "wikilink")。\[1\]它的发现者[悉尼·奥尔特曼在](https://zh.wikipedia.org/wiki/悉尼·奥尔特曼 "wikilink")1970年代在研究[前体tRNA中发现它可以剪切RNA的](https://zh.wikipedia.org/wiki/tRNA "wikilink")5'端，悉尼·奥尔特曼也因此获得了1989年度的[诺贝尔化学奖](../Page/诺贝尔化学奖.md "wikilink")。\[2\]近期的研究发现核糖核酸酶P也具有一些新的功能，\[3\]例如人类[细胞核中的核糖核酸酶P对于正常并有效地](https://zh.wikipedia.org/wiki/细胞核 "wikilink")[转录](../Page/转录.md "wikilink")多种[非編碼RNA](https://zh.wikipedia.org/wiki/非編碼RNA "wikilink")（包括tRNA、5S rRNA、SRP RNA和U6 snRNA）的[基因](../Page/基因.md "wikilink")是必要的，\[4\]这些基因是由[RNA聚合酶](../Page/RNA聚合酶.md "wikilink")III（人类细胞中三类主要的RNA聚合酶之一）来进行转录。

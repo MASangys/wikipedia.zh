@@ -1,3 +1,6 @@
+> 本文内容由[Erenyan](https://zh.wikipedia.org/wiki/Erenyan)转换而来。
+
+
 《**Erenyan**》（），是[小野惠令奈](../Page/小野惠令奈.md "wikilink")繼首張個人單曲《[Erepyon](../Page/Erepyon_\(小野惠令奈單曲\).md "wikilink")》發售四個月後，推出的第二張個人單曲。
 
 ## 概要

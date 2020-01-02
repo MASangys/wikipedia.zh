@@ -1,3 +1,6 @@
+> 本文内容由[F \(消歧义\)](https://zh.wikipedia.org/wiki/F_\(消歧义\))转换而来。
+
+
 [F f](../Page/F.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第6个[字母](../Page/字母.md "wikilink")，以及[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[清唇齿擦音的符号](https://zh.wikipedia.org/wiki/清唇齿擦音 "wikilink")。
 
 除此之外，F还可以指代：

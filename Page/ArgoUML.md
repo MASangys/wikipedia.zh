@@ -1,3 +1,6 @@
+> 本文内容由[ArgoUML](https://zh.wikipedia.org/wiki/ArgoUML)转换而来。
+
+
 **ArgoUML**是一个用于绘制[UML图的应用软件](https://zh.wikipedia.org/wiki/UML "wikilink")，它用Java构造，并遵守[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[BSD协议](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。因为它本身由[Java构建的缘故](https://zh.wikipedia.org/wiki/Java编程语言 "wikilink")，所以ArgoUML能运行在任何支持Java的平台上。 2003年，ArgoUML获得了《软件开发杂志》的设计和分析工具类别的年度读者选择奖（annual Readers' Choice Award）。\[1\]
 
 ArgoUML没有完全实现UML标准\[2\]，同时它对某些图还不能完全支持（如[时序图](../Page/时序图.md "wikilink")）。\[3\] 当前的稳定版0.24版式对0.22的一个bug修复版，它一共修正了0.22版本的172个bug。\[4\]

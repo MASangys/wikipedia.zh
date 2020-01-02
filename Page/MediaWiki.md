@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki](https://zh.wikipedia.org/wiki/MediaWiki)转换而来。
+
+
 是一套[基于网络的](../Page/万维网.md "wikilink")[Wiki引擎](https://zh.wikipedia.org/wiki/Wiki引擎 "wikilink")，[維基媒體基金會的所有项目乃至众多wiki网站皆採用了这一软件](https://zh.wikipedia.org/wiki/維基媒體基金會 "wikilink")。MediaWiki软件最初是为[自由内容百科全书](https://zh.wikipedia.org/wiki/自由内容 "wikilink")[维基百科](../Page/维基百科.md "wikilink")所开发的，今日已被一些公司机构部署为内部的[知识管理和](https://zh.wikipedia.org/wiki/知识管理系统 "wikilink")[内容管理系统](../Page/内容管理系统.md "wikilink")。[Novell](../Page/Novell.md "wikilink")甚而还在多个高流量的网站中使用了该软件。\[1\]
 
 MediaWiki採用[PHP](../Page/PHP.md "wikilink")编程語言寫成，並可使用[MySQL](../Page/MySQL.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")或[SQLite](../Page/SQLite.md "wikilink")之一作為其[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")。MediaWiki在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")第2版及其后续版本的条款下分发，其文档则按[知识共享-署名-相同方式共享3.0版协议释出](../Page/创作共用.md "wikilink")，部分文档还被释入了[公有领域](../Page/公有领域.md "wikilink")\[2\]，这使其成为了[自由软件](../Page/自由软件.md "wikilink")。

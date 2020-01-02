@@ -1,3 +1,6 @@
+> 本文内容由[NBC環球](https://zh.wikipedia.org/wiki/NBC環球)转换而来。
+
+
 **NBC環球集團**（）是[美國一家集](https://zh.wikipedia.org/wiki/美國 "wikilink")[娛樂](../Page/娛樂.md "wikilink")與[傳媒為一身的公司](https://zh.wikipedia.org/wiki/傳媒 "wikilink")，為全球的客戶提供有關娛樂、新聞和資訊的產品和服務。NBC環球集團擁有一家美國[電視網](https://zh.wikipedia.org/wiki/電視網 "wikilink")、數家[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[頻道和諸多美國地方](https://zh.wikipedia.org/wiki/电视频道 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，以及電影製作公司、電視製作公司和[主題公園](../Page/主題公園.md "wikilink")。
 
 NBC環球集團成立於2004年8月，由[通用電氣旗下的](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")[國家廣播公司和](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")[威望迪旗下的威望迪環球娛樂公司合併而成](https://zh.wikipedia.org/wiki/威望迪 "wikilink")。\[1\]\[2\] 隨後通用電氣公司和美國有線電視運營商[康卡斯特](../Page/康卡斯特.md "wikilink")於2009年12月3日宣佈收購NBC環球集團，經過監管機構批准，該交易最終於2010年1月28日完成。在新的NBC環球集團內，康卡斯特集團占股51%，而通用電氣則占股49%。\[3\]\[4\]\[5\] 康卡斯特集團原本計劃在七年內逐步收購通用電氣公司手上的NBC環球集團的股份，但是直到2013年2月12日，這個計劃並沒有被啟動。2013年2月12日，康卡斯特集團突然宣佈將在三月底全數收購通用電氣公司手上的全部股份，實現對NBC環球集團的完全掌控。\[6\]\[7\] 這筆交易最終在2013年3月19日完成。\[8\]

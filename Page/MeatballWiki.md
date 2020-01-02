@@ -1,3 +1,6 @@
+> 本文内容由[MeatballWiki](https://zh.wikipedia.org/wiki/MeatballWiki)转换而来。
+
+
 **MeatballWiki**是一個專門記載[線上社群](https://zh.wikipedia.org/wiki/線上社群 "wikilink")、网络[文化](../Page/文化.md "wikilink")及[超媒體的](https://zh.wikipedia.org/wiki/超媒體 "wikilink")[Wiki](../Page/Wiki.md "wikilink")網站\[1\]。
 
 根据创办人苏尼尔·沙（Sunir Shah），它经营“[UseModWiki](../Page/UseModWiki.md "wikilink")的破解版”\[2\]。截至2012年，“MeatballWiki的代码不能被人解读，也失去了控制”\[3\]。截至2013年9月，经过数个破坏攻击和一段时间停机后，该[Wiki](../Page/Wiki.md "wikilink")网站为只读。

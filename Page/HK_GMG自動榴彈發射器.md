@@ -1,3 +1,6 @@
+> 本文内容由[HK GMG自動榴彈發射器](https://zh.wikipedia.org/wiki/HK_GMG自動榴彈發射器)转换而来。
+
+
 **HK GMG**（，簡稱**HK GMW**；，簡稱**HK GMG**；意為：**榴彈機槍**）是一挺由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")為[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")而設計和生產的車載用途型40毫米[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，發射[40×53毫米高速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 ## 歷史

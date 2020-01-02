@@ -1,3 +1,6 @@
+> 本文内容由[Fullani](https://zh.wikipedia.org/wiki/Fullani)转换而来。
+
+
 《**Fullani**》（）是[Leaf](../Page/Leaf.md "wikilink")在2006年7月28日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 ## 慨要

@@ -1,3 +1,6 @@
+> 本文内容由[Java ME](https://zh.wikipedia.org/wiki/Java_ME)转换而来。
+
+
 **Java ME以往稱作J2ME**（Java Platform, Micro Edition）是为[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")、[移动电话](../Page/移动电话.md "wikilink")和[PDA之类嵌入式消费电子设备提供的](https://zh.wikipedia.org/wiki/PDA "wikilink")[Java语言平台](https://zh.wikipedia.org/wiki/Java语言 "wikilink")，包括[虚拟机和一系列标准化的Java](https://zh.wikipedia.org/wiki/虚拟机 "wikilink") [API](https://zh.wikipedia.org/wiki/API "wikilink")。它和[Java SE](https://zh.wikipedia.org/wiki/Java_SE "wikilink")、[Java EE一起构成Java技术的三大版本](https://zh.wikipedia.org/wiki/Java_EE "wikilink")，并且同样是通过[JCP](../Page/JCP.md "wikilink")（Java Community Process）制订的。
 
 目前阶段，Java ME最流行的应用是游戏软件。因为与需要昂贵的专用设备和开发工具的竞争对手（如索尼和任天堂）相比，Java ME程序可以在PC机上开发和仿真运行，然后很容易地部署到目标机上，从而使其开发、测试和发布的变得容易和廉价。实际上Java ME的用途和前景要广泛得多。

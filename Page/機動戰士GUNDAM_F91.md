@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM F91](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_F91)转换而来。
+
+
 《**機動戰士鋼彈F91**》（）是[鋼彈系列作品中的第二部完全新作](https://zh.wikipedia.org/wiki/鋼彈系列作品 "wikilink")，而非總集篇或重製的劇場版動畫。於1991年3月在日本上映，原定下檔後，將會推出電視動畫版續集。可惜上映時票房成績一般，令該計劃遭擱置，改以《[機動戰士V GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》代替。原本預定在電視動畫版上演的「宇宙巴比倫建國戰爭」的後續，只能在年表和富野由悠季原作，以漫畫形式發行的《[機動戰士海盗GUNDAM](https://zh.wikipedia.org/wiki/機動戰士海盗GUNDAM "wikilink")》的回憶場景中略窺一二。
 
 ## 故事介紹

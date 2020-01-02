@@ -1,3 +1,6 @@
+> 本文内容由[LoveLive!音樂作品列表](https://zh.wikipedia.org/wiki/LoveLive!音樂作品列表)转换而来。
+
+
 以下是由[日昇動畫](../Page/日昇動畫.md "wikilink")和[Lantis](../Page/Lantis.md "wikilink")的聯合策划**《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")》的相關音樂專輯**的列表。
 
 「LoveLive\!」的CD僅在日本國內發行，在中文地區尚無正式代理。本條目的專輯、曲目標題採用「日文原名（中文翻譯）」的格式。中文翻譯採用直譯，[盛大簡體中文版](https://zh.wikipedia.org/wiki/盛大游戏 "wikilink")《[LoveLive\! 學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》在更新至4.0版本之前雖然有曲名的中文翻譯，但譯文與原文字面意思有較大出入，故未予採用。
@@ -1191,6 +1194,10 @@ LACM-14591</p></td>
     Solo Live\! from μ's 東條希「」*（VioletMoon）*
     Solo Live\! from μ's 小泉花陽「」*（若草的Season）*
     Solo Live\! from μ's 矢澤妮可「」*（粉色♡微笑）*
+
+### Memorial BOX Ⅲ Solo Live\! collection
+
+2018年3月28日發售，收錄現有歌曲的獨曲[1](https://www.youtube.com/watch?v=CUWMjkMU4Do)。
 
 ## 雙人、三人單曲
 

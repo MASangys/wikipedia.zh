@@ -1,3 +1,6 @@
+> 本文内容由[Electronica](https://zh.wikipedia.org/wiki/Electronica)转换而来。
+
+
 **Electronica**包含一系列基於[電子音樂](../Page/電子音樂.md "wikilink")的風格，如[鐵克諾](../Page/Techno音樂.md "wikilink")、[浩室](../Page/浩室音乐.md "wikilink")、[氛圍](../Page/氛围音乐.md "wikilink")、[叢林和其他不僅僅用於舞蹈的電子音樂風格](../Page/早期叢林舞曲.md "wikilink")。\[1\]\[2\]
 
 ## 不同地方的定義

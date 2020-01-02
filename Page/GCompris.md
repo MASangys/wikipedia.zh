@@ -1,3 +1,6 @@
+> 本文内容由[GCompris](https://zh.wikipedia.org/wiki/GCompris)转换而来。
+
+
 **GCompris**是一个教育软件包，针对2到10岁的孩子\[1\]。是[GNU](../Page/GNU.md "wikilink")组成部分。由[自由软件基金会](../Page/自由软件基金会.md "wikilink")和[联合国教科文组织维护](https://zh.wikipedia.org/wiki/联合国教科文组织 "wikilink")。\[2\]
 
 支持[i18n](https://zh.wikipedia.org/wiki/i18n "wikilink")，被翻译成50种语言，并且有由用户提供的语音，目前已有中文版本。为了宣传自由软件，[Linux](../Page/Linux.md "wikilink")完整版本免费使用，但对于Microsoft Windows用户采用[残废软件的形式发布](https://zh.wikipedia.org/wiki/残废软件 "wikilink")，版本落后，功能缺失，需要一定费用来得到完整版本。

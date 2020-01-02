@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Director](https://zh.wikipedia.org/wiki/Adobe_Director)转换而来。
+
+
 **Adobe Director**（前稱為**Macromedia Director**）是一个由[Adobe Systems出品的多媒体制作软件](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")。它允许用户以电影的形式来创建应用程序，而软件用户就是电影的***导演***（***Director***）。Director原来是被用于创建动画序列的，后期版本加入的一个强大的编程语言Lingo，使Director成为了一个创建[CD-ROM](../Page/CD-ROM.md "wikilink")程序或单一[Kiosk程序的广受欢迎的选择](https://zh.wikipedia.org/wiki/Kiosk "wikilink")，支持二维和三维的多媒体项目。
 
 ## 功能

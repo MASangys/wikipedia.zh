@@ -1,3 +1,6 @@
+> 本文内容由[罗杰·B·托尼](https://zh.wikipedia.org/wiki/罗杰·B·托尼)转换而来。
+
+
 **罗杰·布鲁克·托尼**（**Roger Brooke Taney**  ，），[美国](../Page/美国.md "wikilink")政治家，十五歲時即入[賓夕法尼亞州](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")[狄金森學院](https://zh.wikipedia.org/wiki/狄金森學院 "wikilink")，十八歲以成績優等畢業。曾任[美国司法部长](https://zh.wikipedia.org/wiki/美国司法部长 "wikilink")（1831年-1833年）、[美国财政部长](../Page/美国财政部长.md "wikilink")（1833年-1834年）和是最高法院的第五任[美国首席大法官](../Page/美国首席大法官.md "wikilink")，从1836年起，直到1864年去世。
 
 托尼，杰克逊的民主党人，被任命为首席大法官。他认为权力和自由是极其重要的，如果权力过于集中，就会对个人自由构成严重威胁。他反对国家政府试图管制或控制限制个人权利的事情，特别是个人拥有奴隶的权利。

@@ -1,3 +1,6 @@
+> 本文内容由[JQuery](https://zh.wikipedia.org/wiki/JQuery)转换而来。
+
+
 **jQuery**是一套跨[瀏覽器的](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")，简化[HTML](../Page/HTML.md "wikilink")與JavaScript之間的操作。\[1\]由[約翰·雷西格](../Page/約翰·雷西格.md "wikilink")（）在2006年1月的BarCamp NYC上釋出第一個版本。目前是由Dave Methvin领导的开发团队进行开发。全球前10,000个访问最高的网站中，有65%使用了jQuery，是目前最受歡迎的JavaScript函式庫\[2\]\[3\]。
 
 ## 簡介

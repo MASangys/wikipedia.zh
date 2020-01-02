@@ -1,3 +1,6 @@
+> 本文内容由[IT狂人](https://zh.wikipedia.org/wiki/IT狂人)转换而来。
+
+
 《**IT狂人**》（，或\[1\]）是[英国第四台的一部](https://zh.wikipedia.org/wiki/英国第四台 "wikilink")[情景喜剧](../Page/情景喜剧.md "wikilink")，编剧为[格雷厄姆·莱恩汉](https://zh.wikipedia.org/wiki/格雷厄姆·莱恩汉 "wikilink")，制片人为阿什·阿塔拉（）。该剧于2006年2月3日首播，共播出4季25集，于2013年9月27日以一部特别篇完结。《IT狂人》获得了多个奖项和提名，包括[英国学术电视奖和](https://zh.wikipedia.org/wiki/英国学术电视奖 "wikilink")[艾美奖](../Page/艾美奖.md "wikilink")\[2\]。
 
 电视剧的背景為一家名雷荷姆（）的虛構公司，以三位任職於IT部門的主人翁為主題，其中包括兩個電腦怪胎和對電腦一竅不通的「員工關係經理」。他們分別是莫里斯·摩斯（，[理查德·艾欧阿德](../Page/理查德·艾欧阿德.md "wikilink")饰）、羅伊·崔尼曼（，[克里斯·奥多德](../Page/克里斯·奥多德.md "wikilink")飾）和珍·巴伯（，[凱瑟琳·帕金森飾](https://zh.wikipedia.org/wiki/凱瑟琳·帕金森 "wikilink")）。电视剧也聚焦于雷荷姆工业（）的老板们: Denholm Reynholm ([Chris Morris](https://zh.wikipedia.org/wiki/Chris_Morris_\(satirist\) "wikilink")) 和之后的, 他的儿子 Douglas ([Matt Berry](https://zh.wikipedia.org/wiki/Matt_Berry "wikilink")).

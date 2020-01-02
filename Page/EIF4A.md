@@ -1,3 +1,6 @@
+> 本文内容由[EIF4A](https://zh.wikipedia.org/wiki/EIF4A)转换而来。
+
+
 **[真核起始因子](../Page/真核起始因子.md "wikilink")4A**（，简称为**eIF4A**）是一种[ATP依赖性](../Page/三磷酸腺苷.md "wikilink")[RNA结合蛋白](https://zh.wikipedia.org/wiki/RNA "wikilink")，一种RNA依赖性[ATP酶](../Page/ATP酶.md "wikilink")，和一种RNA[解旋酶](https://zh.wikipedia.org/wiki/解旋酶 "wikilink")，它在[真核翻译](../Page/真核翻译.md "wikilink")起始进程中发挥重要作用。它被认为可以解开[mRNA的](https://zh.wikipedia.org/wiki/mRNA "wikilink")[5'端非翻译区的二级和三级结构](https://zh.wikipedia.org/wiki/5'端 "wikilink")，以使[核糖体](../Page/核糖体.md "wikilink")的附着更容易，同时允许核糖体进行[起始密码子扫描](https://zh.wikipedia.org/wiki/密码子 "wikilink")。\[1\]
 
 eIF4A在人体中有三个亚型：eIF4A-1、eIF4A-2和eIF4A-3。

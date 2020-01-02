@@ -1,3 +1,6 @@
+> 本文内容由[Kiloo](https://zh.wikipedia.org/wiki/Kiloo)转换而来。
+
+
 **Kiloo**是一家丹麦的电子游戏开发公司，总部设在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")[奥胡斯](../Page/奥胡斯.md "wikilink")的中心。Kiloo由现任總裁雅各布·默勒（Jacob Møller）于2000年建立，\[1\]并专注于为[手機和手持裝置开发遊戲](../Page/移动电话.md "wikilink")。2008年，雅各布·默勒的兄弟西蒙·默勒加入公司，共同營運Kiloo。
 
 Kiloo最知名的游戏是与SYBO Games合作，于2012年春季开发的《[地铁跑酷](../Page/地铁跑酷.md "wikilink")》（*Subway Surfers*）。2012年5月31日，遊戲在[iOS平台被AppAdvice评为本週遊戲](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[2\]在9月，该游戏称将推出[Android](../Page/Android.md "wikilink")版本，吸引更多的热心玩家。\[3\]在Android版本推出一個月後，《地鐵跑酷》进入[Facebook](../Page/Facebook.md "wikilink")應用程序中，每月活躍用户成長速度排行的前20名。\[4\]直至2014年7月，《地鐵跑酷》在各平台上累積超過5億次下載。

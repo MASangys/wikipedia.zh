@@ -1,3 +1,6 @@
+> 本文内容由[Candy☆Boy](https://zh.wikipedia.org/wiki/Candy☆Boy)转换而来。
+
+
 《**Candy☆Boy**》（）是由[ANIME INTERNATIONAL COMPANY於](https://zh.wikipedia.org/wiki/ANIME_INTERNATIONAL_COMPANY "wikilink")2007年11月22日出版的[原創網絡動畫](https://zh.wikipedia.org/wiki/原創網絡動畫 "wikilink")。該網絡短片在[NICONICO動畫網絡影像服務和](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")[Cho\!animelo影音網站發行](https://zh.wikipedia.org/wiki/Cho!animelo "wikilink")。在2007年12月5日，Candy☆Boy隨[韓國藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Meilin的Candy](https://zh.wikipedia.org/wiki/Meilin "wikilink")☆Boy DVD光碟限量發行。
 
 Candy☆Boy的續集「Candy boy」由2008年5月2日開始在NICONICO動畫頻道以網絡影像型式播放，每話約長15分鐘，全7話。

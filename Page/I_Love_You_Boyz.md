@@ -1,3 +1,6 @@
+> 本文内容由[I Love You Boyz](https://zh.wikipedia.org/wiki/I_Love_You_Boyz)转换而来。
+
+
 **I Love You Boyz**（簡稱“ILUB”，又作**艾粒**或**艾粒仔**），是[香港](../Page/香港.md "wikilink")一隊「[搞笑](https://zh.wikipedia.org/wiki/搞笑 "wikilink")」二人男子組合，由分別化名「[陸加俊](https://zh.wikipedia.org/wiki/陸家俊 "wikilink")」和「[蔡輕麟](../Page/蔡興麟.md "wikilink")」的兩位[叱咤903](../Page/叱咤903.md "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[少爺占](../Page/少爺占.md "wikilink")及[Donald組成](../Page/唐劍康.md "wikilink")。
 
 ## 組成過程

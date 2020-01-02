@@ -1,3 +1,6 @@
+> 本文内容由[GNU Gatekeeper](https://zh.wikipedia.org/wiki/GNU_Gatekeeper)转换而来。
+
+
 **GNU Gatekeeper**（簡稱GnuGK）是一個基於[OpenH323來發展的](https://zh.wikipedia.org/wiki/OpenH323 "wikilink")[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")[H.323 gatekeeper計劃](https://zh.wikipedia.org/wiki/H.323_gatekeeper "wikilink")。所謂的H.323 gatekeeper，定義於[H.323](../Page/H.323.md "wikilink")標準中，負責對H.323的系統提供位址轉換、通話控制、[路由](../Page/路由.md "wikilink")決定、[認證計費等服務](https://zh.wikipedia.org/wiki/認證 "wikilink")。
 
 ## 功能特色

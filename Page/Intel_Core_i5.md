@@ -1,3 +1,6 @@
+> 本文内容由[Intel Core i5](https://zh.wikipedia.org/wiki/Intel_Core_i5)转换而来。
+
+
 **Core i5**（中文：酷睿 i5）處理器是[英特爾的一款產品](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，是[Intel Core i7的衍生低階版本](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")，第一代Core i5基於[Intel Nehalem微架構](https://zh.wikipedia.org/wiki/Intel_Nehalem微架構 "wikilink")。與Core i7支援三通道記憶體不同，Core i5-{}-只會集成[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體 "wikilink")（從六代Core CPU開始則支援DDR4記憶體）。另外，Core i5會整合一些北橋的功能，將集成[PCI-Express控制器](https://zh.wikipedia.org/wiki/PCI-Express "wikilink")。處理器核心方面，第一代Core i5代號**Lynnfield**，採用45奈米製程的Core i5有四核心，不支援[超线程技術](https://zh.wikipedia.org/wiki/超线程 "wikilink")，總共仅提供4個线程。
 
 晶片組方面，第一代Core i5採用Intel H55、P55、H57、P57等（代號：IbexPeak）。它除了支援Lynnfield外，還會支援Havendale處理器。後者雖然只有兩個處理器核心，但卻集成顯示核心。P55會採用單晶片設計，功能與傳統的南橋相似，支援[SLI和](https://zh.wikipedia.org/wiki/SLI "wikilink")[Crossfire技術](https://zh.wikipedia.org/wiki/Crossfire "wikilink")。但是，與高端的X58晶片組不同，P55不會採用較新的QPI連接，而會使用傳統的DMI技术\[1\]。接口方面，可以與其他的5系列晶片組相容\[2\]。

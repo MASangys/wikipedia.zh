@@ -1,3 +1,6 @@
+> 本文内容由[蘭利號航空母艦 \(CV-1\)](https://zh.wikipedia.org/wiki/蘭利號航空母艦_\(CV-1\))转换而来。
+
+
 **蘭利號**（）為[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[航空母艦](https://zh.wikipedia.org/wiki/航空母艦 "wikilink")，由運煤艦**朱比特號**（USS Jupiter AC-3 \[1\]）改裝而成，為美國海軍航空兵力的先驅。1936年退役，改裝為水上機母艦，並改編號為AV-3。[太平洋戰爭爆發後美軍用該艦運補飛機](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")，1942年2月27日在載運[P-40戰鬥機至](../Page/P-40戰鷹戰鬥機.md "wikilink")[爪哇時](https://zh.wikipedia.org/wiki/爪哇 "wikilink")，被日機攻擊而重創，棄船後由護航的驅逐艦擊沉。
 
 ## 運煤艦

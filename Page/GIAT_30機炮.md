@@ -1,3 +1,6 @@
+> 本文内容由[GIAT 30機炮](https://zh.wikipedia.org/wiki/GIAT_30機炮)转换而来。
+
+
 **GIAT 30**是一款由[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[GIAT所生產的](https://zh.wikipedia.org/wiki/GIAT "wikilink")30毫米[空用機炮](https://zh.wikipedia.org/wiki/空用機炮 "wikilink")，主要用於取代法國軍機上的[DEFA 550系列](../Page/德發轉輪式機炮.md "wikilink")。GIAT 30於1980年代後期推出，採用[轉輪式系統](https://zh.wikipedia.org/wiki/轉輪式火炮 "wikilink")、電子擊發，可靠性及射速比採用[氣動式的DEFA](https://zh.wikipedia.org/wiki/氣動式 "wikilink") 550系列機炮為高。
 
 ## 型號

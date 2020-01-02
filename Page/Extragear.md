@@ -1,3 +1,6 @@
+> 本文内容由[Extragear](https://zh.wikipedia.org/wiki/Extragear)转换而来。
+
+
 **Extragear** 是一個[KDE](../Page/KDE.md "wikilink")應用程序軟體包。這些應用程序，由於各種原因不屬於KDE的主要發行版，但他們仍然是專案的一部分。這讓他們對於文件翻譯人員有更高的知名度。
 
 應用程序有多種可能的原因不能放在在KDE模塊中，例如：

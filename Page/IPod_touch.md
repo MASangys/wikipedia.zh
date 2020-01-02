@@ -1,3 +1,6 @@
+> 本文内容由[IPod touch](https://zh.wikipedia.org/wiki/IPod_touch)转换而来。
+
+
 **iPod touch**是一款由[蘋果公司推出的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[MID](https://zh.wikipedia.org/wiki/MID "wikilink")（Mobile Internet Devices移动互联网终端），在2007年9月5日舉行的「The Beat Goes On」產品發表會中公開\[1\]，屬於[iPod系列的一部份](https://zh.wikipedia.org/wiki/iPod "wikilink")。iPod touch可以比喻成[iPhone的精簡版](https://zh.wikipedia.org/wiki/iPhone "wikilink")——不含電話、[GPS和](https://zh.wikipedia.org/wiki/GPS "wikilink")[touch ID等功能](https://zh.wikipedia.org/wiki/touch_ID "wikilink")（），造型亦較輕薄。
 
 iPod touch使用8、16、32、64或128GB的[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")。同時也配有[Wi-Fi](../Page/Wi-Fi.md "wikilink")無線網路功能，並可執行蘋果的[Safari](../Page/Safari.md "wikilink")瀏覽器。是Apple以「最好玩的iPod」為概念所推出的iPod。iPod touch是第一款可透過無線網路連上[iTunes Store的](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")[iPod產品](https://zh.wikipedia.org/wiki/iPod "wikilink")\[2\]。

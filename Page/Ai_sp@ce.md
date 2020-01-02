@@ -1,3 +1,6 @@
+> 本文内容由[Ai sp@ce](https://zh.wikipedia.org/wiki/Ai_sp@ce)转换而来。
+
+
 《**ai sp@ce**》是於2008年10月15日推出的三維[虛擬世界](https://zh.wikipedia.org/wiki/虛擬世界 "wikilink")，以[美少女遊戲](../Page/美少女遊戲.md "wikilink")角色為賣點，最初於2007年12月的[Comiket73中發表](../Page/Comic_Market.md "wikilink")\[1\]。由[DWANGO](https://zh.wikipedia.org/wiki/DWANGO "wikilink")、[HEADLOCK](../Page/HEADLOCK.md "wikilink")、[BUSHIROAD開發及營運](https://zh.wikipedia.org/wiki/BUSHIROAD "wikilink")，參加作品有[Key的](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")《[CLANNAD](../Page/CLANNAD.md "wikilink")》、[Navel](../Page/Navel.md "wikilink")的《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》和[CIRCUS的](https://zh.wikipedia.org/wiki/CIRCUS_\(公司\) "wikilink")《[D.C.II](../Page/初音島.md "wikilink")》\[2\]\[3\]。
 
 ## 歷史

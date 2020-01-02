@@ -1,3 +1,6 @@
+> 本文内容由[Legal High](https://zh.wikipedia.org/wiki/Legal_High)转换而来。
+
+
 是[富士電視台](../Page/富士電視台.md "wikilink")[系列播放的日本](../Page/富士電視網.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。編劇為[古澤良太](../Page/古澤良太.md "wikilink")。2012年4月17日開始在[週二21時（火9）時段與](../Page/富士電視台週二晚間九點連續劇.md "wikilink")2013年4月13日在[土曜プレミアム](https://zh.wikipedia.org/wiki/土曜プレミアム "wikilink")(週六Premium，21:00-23:10)以「」為標題播放第一季與特別篇。2013年10月9日開始在[週三22時（水10）時段與](../Page/富士電視台週三晚間十點連續劇.md "wikilink")2014年11月22日在土曜プレミアム以「」為標題播放第二季與特別篇。
 
 ## 劇情簡介

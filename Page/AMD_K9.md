@@ -1,3 +1,6 @@
+> 本文内容由[AMD K9](https://zh.wikipedia.org/wiki/AMD_K9)转换而来。
+
+
 **AMD K9**是美商[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")（[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")）已取消研發的[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[微架構](../Page/微架構.md "wikilink")。原本K9架構將取代[K8架構](../Page/AMD_K8.md "wikilink")，以原生[雙核心為架構的主要特性](https://zh.wikipedia.org/wiki/雙核心 "wikilink")。實際K8微架構的下一代微架構是[K10微架構](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")。
 
 ## 發展歷史

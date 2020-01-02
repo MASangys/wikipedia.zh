@@ -1,3 +1,6 @@
+> 本文内容由[Jahshaka](https://zh.wikipedia.org/wiki/Jahshaka)转换而来。
+
+
 **Jahshaka**（舊稱：**Cinefx**）是一個跨平台、開放源碼的影像編輯軟體。目前仍在開發階段，支援即時效果，但缺乏[非線性剪輯](../Page/非線性剪輯.md "wikilink")功能。它是用[Qt Software的](https://zh.wikipedia.org/wiki/Qt_Software "wikilink")[Qt](../Page/Qt.md "wikilink")寫成的，可是介面是由[OpenGL](../Page/OpenGL.md "wikilink")程式庫來產生它的[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")。
 
 因為它使用[OpenGL](../Page/OpenGL.md "wikilink")和[开放多媒体程序库](https://zh.wikipedia.org/wiki/开放多媒体程序库 "wikilink")（OpenML），所以它可以被移植到許多不同的平台上。理論上，應該可以運行在任何支援OpenGL的平台上。

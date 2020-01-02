@@ -1,3 +1,6 @@
+> 本文内容由[BEST★SCANDAL](https://zh.wikipedia.org/wiki/BEST★SCANDAL)转换而来。
+
+
 《**BEST★SCANDAL**》是日本女子樂隊[SCANDAL的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")1張專輯。
 
 ## 收錄曲目

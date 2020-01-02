@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ARENA TOUR 2009 A ～NEXT LEVEL～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_ARENA_TOUR_2009_A_～NEXT_LEVEL～)转换而来。
+
+
 《**ayumi hamasaki ARENA TOUR 2009 A ～NEXT LEVEL～**》（濱崎步 2009 巡迴演唱會 A ～新起步～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2009年間舉行巡迴演唱會，2010年4月14日發行DVD。
 
 ## 說明

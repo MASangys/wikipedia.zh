@@ -1,3 +1,6 @@
+> 本文内容由[AIK體育會](https://zh.wikipedia.org/wiki/AIK體育會)转换而来。
+
+
 [right](https://zh.wikipedia.org/wiki/檔案:Aik.png "wikilink") **AIK體育會**（，簡稱**AIK**），是瑞典最大的體育會，也是瑞典歷史最悠久的體育會之一。體育會1891年於[斯德哥爾摩成立](https://zh.wikipedia.org/wiki/斯德哥爾摩 "wikilink")，現時的會址位於[索爾納市](https://zh.wikipedia.org/wiki/索爾納市 "wikilink")。AIK除了曾奪得足球、曲棍球、冰球、手球、福樂球、保齡球、羽毛球、體操的瑞典錦標外，還有[溫布頓網球錦標](https://zh.wikipedia.org/wiki/溫布頓網球錦標賽 "wikilink")。
 
 ## 成立

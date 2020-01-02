@@ -1,3 +1,6 @@
+> 本文内容由[豐田Hiace](https://zh.wikipedia.org/wiki/豐田Hiace)转换而来。
+
+
 **豐田Hiace**是由[日本](../Page/日本.md "wikilink")[豐田汽車所生產的一款小型客貨兩用車](https://zh.wikipedia.org/wiki/丰田汽车公司 "wikilink")，於1967年推出市場，至今推出至第6代。
 
 ## 性能概要

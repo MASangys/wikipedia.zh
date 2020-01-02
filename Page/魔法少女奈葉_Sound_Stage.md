@@ -1,3 +1,6 @@
+> 本文内容由[魔法少女奈葉 Sound Stage](https://zh.wikipedia.org/wiki/魔法少女奈葉_Sound_Stage)转换而来。
+
+
 **魔法少女奈葉 Sound Stage**（，），是[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")三部[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")（[無印](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")、[A's](https://zh.wikipedia.org/wiki/魔法少女奈葉A's "wikilink")、[StrikerS](https://zh.wikipedia.org/wiki/魔法少女奈葉StrikerS "wikilink")）劇情間的[廣播劇](../Page/廣播劇.md "wikilink")、角色歌和[原聲音樂等商品的CD合輯總稱](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
 ## [魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")

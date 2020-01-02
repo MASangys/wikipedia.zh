@@ -1,3 +1,6 @@
+> 本文内容由[Honey Bees](https://zh.wikipedia.org/wiki/Honey_Bees)转换而来。
+
+
 **Honey Bees**，[香港](../Page/香港.md "wikilink")少女組合[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，於2011年成立，並於2011年開始參與電視、商場、唱片等演出。\[1\]
 
 ## 現任成員

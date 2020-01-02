@@ -1,3 +1,6 @@
+> 本文内容由[MAS-36步枪](https://zh.wikipedia.org/wiki/MAS-36步枪)转换而来。
+
+
 **MAS Modèle 36**是一种[法國製的军用](https://zh.wikipedia.org/wiki/法國 "wikilink")[手动枪机](https://zh.wikipedia.org/wiki/手动枪机 "wikilink")[步枪](../Page/步枪.md "wikilink")，它在1936年被首次采用，以替换当时服役的[貝蒂埃步槍和](https://zh.wikipedia.org/wiki/貝蒂埃卡賓槍 "wikilink")[勒贝尔M1886式步枪](../Page/勒貝爾M1886步槍.md "wikilink")，并在[二战期间服役](https://zh.wikipedia.org/wiki/二战 "wikilink")。MAS-36由法国仅有的几间国营兵工厂之一——聖埃蒂安武器製造廠（MAS）生產。
 
 ## 简介
@@ -71,14 +74,9 @@ MAS-36是一种短小、轻便的[卡宾枪](../Page/卡宾枪.md "wikilink")型
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:法國步枪](https://zh.wikipedia.org/wiki/Category:法國步枪 "wikilink") [Category:7.5×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.5×54毫米槍械 "wikilink") [Category:法国二战武器](https://zh.wikipedia.org/wiki/Category:法国二战武器 "wikilink") [Category:德國二戰武器](https://zh.wikipedia.org/wiki/Category:德國二戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  Jane's Guns Recognition Guide, Ian Hogg & Terry Gander, Harper Collins Publishers, 2005, page 238
-
 2.  Military Small Arms Of The 20th Century, 7th Edition, Ian V. Hogg & John S. Weeks, Kruse Publications, 2000, page 182
-
 3.
-
 4.
 5.
-
 6.
-
 7.  <https://m.youtube.com/watch?v=IErsZx5Z1qw>

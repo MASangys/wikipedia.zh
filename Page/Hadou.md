@@ -1,3 +1,6 @@
+> 本文内容由[Hadou](https://zh.wikipedia.org/wiki/Hadou)转换而来。
+
+
 《**Hadou**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")成员[稻叶浩志第四张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2010年8月18日由[VERMILLION RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。
 總銷量約17.8萬張。
 

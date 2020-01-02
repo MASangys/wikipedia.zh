@@ -1,3 +1,6 @@
+> 本文内容由[Love Sharalala \(李政奉單曲\)](https://zh.wikipedia.org/wiki/Love_Sharalala_\(李政奉單曲\))转换而来。
+
+
 《**Love Sharalala**》<small>（）</small>是韓國知名歌手李政奉（Lee Jung Bong）睽違七年再度於2013年1月31日由CJ E\&M所發行的全新創作單曲。
 
 ## 單曲概要

@@ -1,3 +1,6 @@
+> 本文内容由[Max](https://zh.wikipedia.org/wiki/Max)转换而来。
+
+
 **MAX** 可以是下列意思：
 
   - **[極值](https://zh.wikipedia.org/wiki/極值 "wikilink")**中的極大值。

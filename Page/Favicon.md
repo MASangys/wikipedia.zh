@@ -1,3 +1,6 @@
+> 本文内容由[Favicon](https://zh.wikipedia.org/wiki/Favicon)转换而来。
+
+
 [Wikipedia_favicon_in_Firefox_on_KDE.png](https://zh.wikipedia.org/wiki/File:Wikipedia_favicon_in_Firefox_on_KDE.png "fig:Wikipedia_favicon_in_Firefox_on_KDE.png")顯示維基百科的favicon\]\] **Favicon**是*favorites icon*的缩写，亦被称为**website icon**（网页图标）、**page icon**（页面图标）或**urlicon**（[URL图标](https://zh.wikipedia.org/wiki/URL "wikilink")）。Favicon是与某个[网站或](https://zh.wikipedia.org/wiki/网站 "wikilink")[网页相关联的](https://zh.wikipedia.org/wiki/网页 "wikilink")[图标](https://zh.wikipedia.org/wiki/图标 "wikilink")。网站设计者可以多种方式建立这种图标，而目前也有很多[网页浏览器](../Page/网页浏览器.md "wikilink")支持此功能。浏览器可以将favicon显示于浏览器的地址栏中，也可置于书签列表的网站名前，还可以放在标签式浏览界面中的页标题前。
 
 最初，定义一个favicon的方法是将一个名为“favicon.ico”的[文件置于](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[Web服务器的](https://zh.wikipedia.org/wiki/网络服务器 "wikilink")[根目录](../Page/根目录.md "wikilink")下，[Internet Explorer的收藏夹](../Page/Internet_Explorer.md "wikilink")（即书签）可以自动显示该文件。\[1\] 后来出现了一种更为灵活的方法，即使用[HTML](../Page/HTML.md "wikilink")来为任何一个网页指示其图标所存储的位置。这种方法是通过在页面的`<head>`部分添加两个link元件来实现的。这样，任何一个适当大小的（16×16[像素](../Page/像素.md "wikilink")或更大）的图像都可以用作favicon。尽管如此，多数情况下仍然使用[ICO](../Page/ICO.md "wikilink")格式。其他网页浏览器现在也支持[PNG](../Page/PNG.md "wikilink")（便携式网络图片）格式，和[GIF](../Page/GIF.md "wikilink")（图形交换格式）动画图像格式。

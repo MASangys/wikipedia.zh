@@ -1,3 +1,6 @@
+> 本文内容由[Action 52](https://zh.wikipedia.org/wiki/Action_52)转换而来。
+
+
 《**Action 52**》是由電子遊戲廠商[Active Enterprises於](../Page/Active_Enterprises.md "wikilink")1991年在[NES平台](https://zh.wikipedia.org/wiki/NES "wikilink")、及1993年在[Mega Drive上發行的遊戲卡帶](../Page/Mega_Drive.md "wikilink")。
 
 其特徵賣點為在一款卡帶內匯集了52個不同遊戲供玩家遊玩，但因裡頭的作品多因可玩性不佳及充斥著未處理修改的程式[臭蟲](https://zh.wikipedia.org/wiki/程式錯誤 "wikilink")（Bug）而飽受批評。

@@ -1,3 +1,6 @@
+> 本文内容由[MIT台灣誌](https://zh.wikipedia.org/wiki/MIT台灣誌)转换而来。
+
+
 《**MIT台灣誌**》是[麥覺明](../Page/麥覺明.md "wikilink")執導與製作的社教節目，由[中國電視公司旗下](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")[中視主頻自](../Page/中視_\(頻道\).md "wikilink")2002年4月7日起播出至今\[1\]。2013年6月9日起，[中視HD台開始同步首播](https://zh.wikipedia.org/wiki/中視HD台 "wikilink")。
 
 ## 播出時間

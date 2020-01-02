@@ -1,3 +1,6 @@
+> 本文内容由[C程序设计语言 \(书\)](https://zh.wikipedia.org/wiki/C程序设计语言_\(书\))转换而来。
+
+
 [The_C_Programming_Language,_First_Edition_Cover_(2).svg](https://zh.wikipedia.org/wiki/File:The_C_Programming_Language,_First_Edition_Cover_\(2\).svg "fig:The_C_Programming_Language,_First_Edition_Cover_(2).svg") 《**C程序设计语言**》（），又譯為**C語言程式設計**，是介紹[C語言的计算机科学著作](https://zh.wikipedia.org/wiki/C語言 "wikilink")，由计算机科学家[布萊恩·柯林漢](../Page/布萊恩·柯林漢.md "wikilink")（Brian Kernighan）和C语言之父[丹尼斯·里奇](../Page/丹尼斯·里奇.md "wikilink")（Dennis Ritchie）合著，是第一部介紹C語言編程方法的書籍。它因作者名字的縮寫被簡稱為**K\&R**；或是因封面颜色，被稱為**白皮书**。
 
 它在C语言的发展和普及过程中起到了非常重要的作用，被視為是C語言的業界標準規範，而且至今仍然广泛使用。它被公认为计算机技术著作的典范，以清晰简洁的文字讲述而著称。书中用"hello world"为实例开始讲解程序设计，成为程序设计语言图书的传统。

@@ -1,3 +1,6 @@
+> 本文内容由[Game \& Watch](https://zh.wikipedia.org/wiki/Game_\&_Watch)转换而来。
+
+
 **Game & Watch**（）是日本著名游戏公司[任天堂](../Page/任天堂.md "wikilink")在1980年至1991年发售的一款[攜帶型遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，由[橫井軍平](../Page/橫井軍平.md "wikilink")负责設計，其主要特色為一部主機備有一支特定的遊戲，在[液晶顯示器上顯示](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")；并且主机还备有时钟和闹钟功能。大部份的機種分別有一個“GAME A”與“GAME B”的按鈕，Game B通常是Game A的更難更快版本。這種液晶顯示器[可攜遊戲機的成功刺激了另外幾十間遊戲與玩具公司製造它們自己的可攜遊戲機](https://zh.wikipedia.org/wiki/攜帶型遊戲機 "wikilink")，當中很多原封不動照抄 Game & Watch 的遊戲。
 
 Game & Watch系列在世界范围内总共发售了59款游戏，加上1款隨比賽勝出贈送的遊戲，共60款\[1\]。

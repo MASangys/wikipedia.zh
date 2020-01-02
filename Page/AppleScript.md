@@ -1,3 +1,6 @@
+> 本文内容由[AppleScript](https://zh.wikipedia.org/wiki/AppleScript)转换而来。
+
+
 {{ infobox programming language | developer = [苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink") | logo = [<File:AppleScript> Editor.png](https://zh.wikipedia.org/wiki/File:AppleScript_Editor.png "fig:File:AppleScript Editor.png") | latest_release_version = 2.7 | latest_release_date =  | operating_system = [System 7](https://zh.wikipedia.org/wiki/System_7 "wikilink")、[Mac OS 8](../Page/Mac_OS_8.md "wikilink")、[Mac OS 9](../Page/Mac_OS_9.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") | genre = [脚本语言](../Page/脚本语言.md "wikilink") | license = Apple [EULA](https://zh.wikipedia.org/wiki/EULA "wikilink")（parts available under [APSL](https://zh.wikipedia.org/wiki/Apple_Public_Source_License "wikilink")） | website = [developer.apple.com/applescript/](http://developer.apple.com/applescript/) }}
 
 **AppleScript**是[苹果公司开发的一种](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，可以用来控制运行于[Mac OS上的程序](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")，也可以写成独立运行的[Applet](https://zh.wikipedia.org/wiki/Applet "wikilink")。最早版本在1993年十月推出，在System 7（System 7.1.1）運行。

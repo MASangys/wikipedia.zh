@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第二章：肿瘤](https://zh.wikipedia.org/wiki/ICD-10_第二章：肿瘤)转换而来。
+
+
 **ICD-10 第二章：肿瘤**，为[WHO规定的各类已发现的](https://zh.wikipedia.org/wiki/WHO "wikilink")[肿瘤](https://zh.wikipedia.org/wiki/肿瘤 "wikilink")。
 
 ## 受控词表

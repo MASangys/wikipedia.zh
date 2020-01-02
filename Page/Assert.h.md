@@ -1,3 +1,6 @@
+> 本文内容由[Assert.h](https://zh.wikipedia.org/wiki/Assert.h)转换而来。
+
+
 `assert.h`是[C標準函数庫中的](https://zh.wikipedia.org/wiki/C標準函数庫 "wikilink")[头文件](../Page/头文件.md "wikilink")。其中定义了`assert()`宏用于程序调试。
 
 在C標準函数庫中，它是個非常特別的头文件，你可以將它引入數次以獲得不同的效果，此效果依引入時是否以定義NDEBUG而定。

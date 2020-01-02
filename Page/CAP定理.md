@@ -1,3 +1,6 @@
+> 本文内容由[CAP定理](https://zh.wikipedia.org/wiki/CAP定理)转换而来。
+
+
 在[理論計算機科學](../Page/理論計算機科學.md "wikilink")中，**CAP定理**（CAP theorem），又被稱作**布魯爾定理**（Brewer's theorem），它指出對於一個[分布式计算](../Page/分布式计算.md "wikilink")系統來說，不可能同時滿足以下三點：\[1\]\[2\]
 
   - 一致性（**C**onsistency） （等同于所有节点访问同一份最新的数据副本）

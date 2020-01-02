@@ -1,3 +1,6 @@
+> 本文内容由[Borland](https://zh.wikipedia.org/wiki/Borland)转换而来。
+
+
 **Borland**软件公司（有译**宝蓝**公司或**寶蘭**公司，**Borland** Software Corporation，[NASDAQ](https://zh.wikipedia.org/wiki/NASDAQ "wikilink")：[BORL](http://quotes.nasdaq.com/asp/SummaryQuote.asp?symbol=BORL&selected=BORL)），是一家总部位于[美国](../Page/美国.md "wikilink")加利福尼亚州的软件公司，以提供[软件](../Page/软件.md "wikilink")开发生命周期所需的各种工具，以及已经变成今天的[Delphi](../Page/Delphi.md "wikilink")的[Turbo Pascal而闻名于世](../Page/Turbo_Pascal.md "wikilink")。2009年5月6日，Micro Focus宣布以7500万美元收购Borland。
 
 ## 1980年代：创立

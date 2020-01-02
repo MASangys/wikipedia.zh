@@ -1,3 +1,6 @@
+> 本文内容由[紅A](https://zh.wikipedia.org/wiki/紅A)转换而来。
+
+
 [RedA_PlasticLadle.jpg](https://zh.wikipedia.org/wiki/File:RedA_PlasticLadle.jpg "fig:RedA_PlasticLadle.jpg") [Red_A_School_Bag,_Product_Information_Sheet.jpg](https://zh.wikipedia.org/wiki/File:Red_A_School_Bag,_Product_Information_Sheet.jpg "fig:Red_A_School_Bag,_Product_Information_Sheet.jpg")展品）\]\]
 
 **紅A**牌（****）是[星光實業有限公司在](https://zh.wikipedia.org/wiki/星光實業有限公司 "wikilink")1949年創立的一系列[香港名牌膠質產品](../Page/香港品牌.md "wikilink")，早年主要銷售[塑膠製造的家庭用品](https://zh.wikipedia.org/wiki/塑膠 "wikilink")，現時生產的各類產品包括家庭用品、廚房用品、餐飲業用品、文具、工業容器、配件及藥用器皿等共600多款。「紅A」是現時少數仍然維持[香港製造的品牌](../Page/香港品牌產品.md "wikilink")，更以「上等質素，紅A做到，100%香港製造」為口號。過往「紅A」產品只有紅、藍二色，近年才提供多種顏色予顧客選擇。集團建立頂級名牌「紅A」、副線「Cre-a」及「A-Ware」共三個品牌，涉足業務包括酒店用品、餐飲廚房用品、工業用品、醫療用品及家庭用品等，是香港最大的塑膠製造商。

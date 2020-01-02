@@ -1,3 +1,6 @@
+> 本文内容由[格拉茨AK競技會](https://zh.wikipedia.org/wiki/格拉茨AK競技會)转换而来。
+
+
 **格拉茨AK競技會**（簡稱：格拉茨AK，英文：Grazer AK，德語：Grazer Athletik Klub）創於1902年8月18日，當時稱為Grazer Athletik-Sport Klub（在[奧地利](https://zh.wikipedia.org/wiki/奧地利 "wikilink")"GAK" 及 "Athletiker"這兩個簡稱是比較常用），位於[施蒂利亞州的](https://zh.wikipedia.org/wiki/施蒂利亞州 "wikilink")[格拉茨市內](https://zh.wikipedia.org/wiki/格拉茨 "wikilink")，是奧地利最著名的[俱樂部](../Page/俱樂部.md "wikilink")之一，在1995至2005年間是格拉茨AK最成功的時期。而格拉茨AK設有[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[跳水](../Page/跳水.md "wikilink")及[乒乓部](https://zh.wikipedia.org/wiki/乒乓 "wikilink")。
 
 ## 球會破產

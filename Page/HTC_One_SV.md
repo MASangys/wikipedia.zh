@@ -1,3 +1,6 @@
+> 本文内容由[HTC One SV](https://zh.wikipedia.org/wiki/HTC_One_SV)转换而来。
+
+
 **HTC One SV**是[宏達電發表支援](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[長期演進技術](../Page/長期演進技術.md "wikilink")（）及搭載了[Android](../Page/Android.md "wikilink") 4.2.2及[HTC Sense](../Page/HTC_Sense.md "wikilink") 5的智慧型手機，使用[Beats Audio音訊技術](https://zh.wikipedia.org/wiki/Beats_Audio "wikilink")，內建8G rom、1G ram支援microSD，最高可以擴充到32GB。使用了4.3吋WVGA螢幕，配備了500萬像素的相機鏡頭及160萬畫素的前鏡頭。
 
 ## 詳細規格

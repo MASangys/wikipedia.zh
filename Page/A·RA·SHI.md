@@ -1,3 +1,6 @@
+> 本文内容由[A·RA·SHI](https://zh.wikipedia.org/wiki/A·RA·SHI)转换而来。
+
+
 《**A·RA·SHI**》是[傑尼斯組合](../Page/傑尼斯事務所.md "wikilink")[嵐](../Page/嵐.md "wikilink")的出道[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於1999年11月3日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

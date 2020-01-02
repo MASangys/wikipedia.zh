@@ -1,3 +1,6 @@
+> 本文内容由[HBO Asia](https://zh.wikipedia.org/wiki/HBO_Asia)转换而来。
+
+
 **HBO Asia**是位於[新加坡](../Page/新加坡.md "wikilink")的[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，服務範圍為[Asia](https://zh.wikipedia.org/wiki/Asia "wikilink")(亞洲地區)，主要播出下檔的[院線片和自製的](https://zh.wikipedia.org/wiki/電影 "wikilink")[電視影集](https://zh.wikipedia.org/wiki/電視影集 "wikilink")，此外也有[電視電影](../Page/電視電影.md "wikilink")、[紀錄片](../Page/紀錄片.md "wikilink")等節目。HBO Asia使用了美國[HBO](../Page/HBO.md "wikilink")電視網的品牌，由[時代華納和](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[派拉蒙影業](../Page/派拉蒙影業.md "wikilink")共同出資成立，總公司位於[新加坡](../Page/新加坡.md "wikilink")，並在[台灣和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[印度](../Page/印度.md "wikilink")都設有分公司。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[ICE-TD列車](https://zh.wikipedia.org/wiki/ICE-TD列車)转换而来。
+
+
 **德国铁路605型**是一款高速[柴聯車](../Page/柴聯車.md "wikilink")，于[德国铁路](../Page/德国铁路.md "wikilink")和[丹麦国家铁路](../Page/丹麦国家铁路.md "wikilink")服役，通常以**ICE-TD**的名称为人所知。ICE-TD與[ICE-T一樣屬於](../Page/ICE-T列車.md "wikilink")[傾斜技術](../Page/擺式列車.md "wikilink")，它的設計同樣是以行走已鋪設了的路線，在地理上多彎、上落斜度大的山林區，以及未電氣化的路段為主。但是由於在環保和列車結構方面仍存在不少缺陷，曾有段時間不使用ICE-TD列車作正常營運（客運），只作為貨運使用於東部[開姆尼茨地區](https://zh.wikipedia.org/wiki/開姆尼茨 "wikilink")。由2006年復活節開始，ICE-TD開始重新被使用，屬於特殊及加班列車，在[2006年世界盃足球賽期間完成了出色的運載任務](https://zh.wikipedia.org/wiki/2006年世界盃足球賽 "wikilink")。
 
 ## 开发

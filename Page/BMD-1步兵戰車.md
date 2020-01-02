@@ -1,3 +1,6 @@
+> 本文内容由[BMD-1步兵戰車](https://zh.wikipedia.org/wiki/BMD-1步兵戰車)转换而来。
+
+
 **BMD-1伞兵战车**（俄语：Боевая Машина Десантная－1 简称БМД—1）是前[苏联](../Page/苏联.md "wikilink")于1960年代研发，1973年正式装备前苏联[俄罗斯空降军的一款](https://zh.wikipedia.org/wiki/空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第一款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。至今仍在[俄罗斯](../Page/俄罗斯.md "wikilink")，前苏联各加盟共和国和一些第三世界国家的军队中服役。
 
 ## 研发和装备背景

@@ -1,3 +1,6 @@
+> 本文内容由[GNUstep](https://zh.wikipedia.org/wiki/GNUstep)转换而来。
+
+
 **GNUstep**，[GNU計劃](../Page/GNU計劃.md "wikilink")的專案之一。它將[Cocoa](../Page/Cocoa.md "wikilink")（前身為[NeXT](../Page/NeXT.md "wikilink")的[OpenStep](../Page/OpenStep.md "wikilink")）[Objective-C](../Page/Objective-C.md "wikilink")軟體庫，[部件工具箱](../Page/部件工具箱.md "wikilink")（widget toolkits）以及其上的應用軟體，以[自由軟體方式重新實作](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。它能夠運行在[類Unix](https://zh.wikipedia.org/wiki/類Unix "wikilink")[作業系統上](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，也能運作在[Microsoft Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[LXDE](https://zh.wikipedia.org/wiki/LXDE)转换而来。
+
+
 **LXDE**，全名為**Lightweight [X11](https://zh.wikipedia.org/wiki/X11 "wikilink") Desktop Environment**，是[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[桌面環境](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")，可在[Unix以及如](https://zh.wikipedia.org/wiki/Unix "wikilink")[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")等[POSIX相容平台執行](https://zh.wikipedia.org/wiki/POSIX "wikilink")。
 
 LXDE專案旨在提供新的輕量而快速的桌面環境。相較於功能強大與伴隨而來的膨脹性，LXDE重視實用性和輕巧性，並且盡力降低其所耗[系統資源](https://zh.wikipedia.org/wiki/系統資源 "wikilink")。不同於Linux的其他桌面環境，其[元件相依性極少](https://zh.wikipedia.org/wiki/依赖关系 "wikilink")。取而代之的是各元件可以獨立運作，大多數的元件都不須倚賴其它[套件而可以獨自執行](https://zh.wikipedia.org/wiki/軟體套件 "wikilink")。

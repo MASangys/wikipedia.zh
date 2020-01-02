@@ -1,3 +1,6 @@
+> 本文内容由[Buono! Live 2011 winter ～Re\;Buono!～](https://zh.wikipedia.org/wiki/Buono!_Live_2011_winter_～Re\;Buono!～)转换而来。
+
+
 『**Buono\! Live 2011 winter ～Re;Buono\!～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的Live影像。2011年6月22日DVD和Blu-ray同日發售\[1\]。
 
 ## 收錄曲

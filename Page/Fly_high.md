@@ -1,3 +1,6 @@
+> 本文内容由[Fly high](https://zh.wikipedia.org/wiki/Fly_high)转换而来。
+
+
 《**Fly high**》（高飛）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第13張單曲，2000年2月9日於日本發售。
 
 ## 說明

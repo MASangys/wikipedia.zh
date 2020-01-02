@@ -1,3 +1,6 @@
+> 本文内容由[N-範疇](https://zh.wikipedia.org/wiki/N-範疇)转换而来。
+
+
 在[數學中](https://zh.wikipedia.org/wiki/數學 "wikilink")，**n-範疇**是[範疇在高階情形的推廣](https://zh.wikipedia.org/wiki/範疇論 "wikilink")。（小）n-範疇組成的範疇 **n-Cat** 以下述方式遞迴定義：
 
   - **0-Cat**是[集合範疇](https://zh.wikipedia.org/wiki/集合範疇 "wikilink") \(\mathbf{Set}\)

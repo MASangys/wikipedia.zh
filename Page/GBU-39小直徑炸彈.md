@@ -1,3 +1,6 @@
+> 本文内容由[GBU-39小直徑炸彈](https://zh.wikipedia.org/wiki/GBU-39小直徑炸彈)转换而来。
+
+
 [Boeing_GBU-39_Small_Diameter_Bomb.jpg](https://zh.wikipedia.org/wiki/File:Boeing_GBU-39_Small_Diameter_Bomb.jpg "fig:Boeing_GBU-39_Small_Diameter_Bomb.jpg") **GBU-39小直徑炸彈**（Small Diameter Bomb，SDB）是一種250磅（110[公斤](https://zh.wikipedia.org/wiki/公斤 "wikilink")）重的導引炸彈，由於這種炸彈體積小和重量輕，所以每架戰機可攜帶更多的炸彈而在每次飛行中較以前攻擊更多目標。大多數[美國空軍戰機可以在原使用BRU](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")-61/A掛架（可掛載1枚[Mk84 2,000磅低阻力通用炸彈](https://zh.wikipedia.org/wiki/Mk_84通用炸彈 "wikilink")）處，裝設一組4枚的小直徑炸彈投射器\[1\]。
 
 ## 發展過程

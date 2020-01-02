@@ -1,3 +1,6 @@
+> 本文内容由[Asian Celebration](https://zh.wikipedia.org/wiki/Asian_Celebration)转换而来。
+
+
 《**Asian Celebration**》（アジアン セレブレイション）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第31張[单曲](../Page/单曲.md "wikilink")，在2013年3月13日由[PICCOLO TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

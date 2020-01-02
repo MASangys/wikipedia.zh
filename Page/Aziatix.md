@@ -1,3 +1,6 @@
+> 本文内容由[Aziatix](https://zh.wikipedia.org/wiki/Aziatix)转换而来。
+
+
 [Aziatix.jpg](https://zh.wikipedia.org/wiki/File:Aziatix.jpg "fig:Aziatix.jpg") **Aziatix**组合是由3位美籍韓裔歌手組成，分别是歌手、Flowsik和Eddie Shin。他們曾於2011年在MAMA頒獎禮上獲得亞洲新人獎(The Best New Asian Group )。該組合的迷你專輯《Aziatix》曾在台灣及韓國流行排行榜登上冠軍位置。\[1\]
 
 ## 音乐作品

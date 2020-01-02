@@ -1,3 +1,6 @@
+> 本文内容由[Aqua Timez](https://zh.wikipedia.org/wiki/Aqua_Timez)转换而来。
+
+
 **Aqua timez**（暱稱「」）是日本[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，由五位成員組成：太志、大介、OKP-STAR、mayuko、TASSHI，為[EPIC Records Japan Inc旗下藝人](https://zh.wikipedia.org/wiki/史诗唱片日本 "wikilink")。他們是第一隊在地下時期和主流出道時期皆能獲得專輯週榜首位的樂隊。
 
 ## 成員介紹

@@ -1,3 +1,6 @@
+> 本文内容由[F♯](https://zh.wikipedia.org/wiki/F♯)转换而来。
+
+
 **F\#**是由[微软](../Page/微软.md "wikilink")发展的为[.NET语言提供运行环境的](https://zh.wikipedia.org/wiki/.NET "wikilink")[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，是[函數程式語言](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")（**FP**，Functional Programming），函數程式語言最重要的基礎是[Lambda Calculus](../Page/Λ演算.md "wikilink")。它是基于[OCaml](../Page/OCaml.md "wikilink")的，而[OCaml](../Page/OCaml.md "wikilink")是基于[ML函数程式语言](../Page/ML语言.md "wikilink")。有時F\#和OCaml的程式是可以交互編譯的。
 
 F\#已經接近成熟，支援高阶函数、[柯里化](../Page/柯里化.md "wikilink")、[惰性求值](../Page/惰性求值.md "wikilink")、Continuations、模式匹配、[闭包](https://zh.wikipedia.org/wiki/闭包 "wikilink")、列表处理和[元编程](../Page/元编程.md "wikilink")。这是一个用于显示.NET在不同编程语言间互通的程序设计，可以被.NET中的任意其它代碼編譯和調用。

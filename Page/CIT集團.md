@@ -1,3 +1,6 @@
+> 本文内容由[CIT集團](https://zh.wikipedia.org/wiki/CIT集團)转换而来。
+
+
 **CIT集團股份有限公司**，簡稱**CIT集團股份**，以及**CIT集團**（****，），屬於美國主要銀行控股公司，則在1908年由Henry Ittleson，於美國[密蘇里州聖路易斯創立當時名為](https://zh.wikipedia.org/wiki/密蘇里州聖路易斯 "wikilink")「美國商業信貸投資公司」（Commercial Credit and Investment Company）\[1\]。
 
 ## 历史

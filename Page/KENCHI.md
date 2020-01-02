@@ -1,3 +1,6 @@
+> 本文内容由[KENCHI](https://zh.wikipedia.org/wiki/KENCHI)转换而来。
+
+
 **橘KENCHI**（）是[日本](../Page/日本.md "wikilink")的[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE THE SECOND表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
 [神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市出生](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")\[1\]，於[橫須賀市](../Page/橫須賀市.md "wikilink")成長。所屬事務所為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")。

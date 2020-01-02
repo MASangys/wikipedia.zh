@@ -1,3 +1,6 @@
+> 本文内容由[E×E](https://zh.wikipedia.org/wiki/E×E)转换而来。
+
+
 《**E×E**》是[日本](../Page/日本.md "wikilink")[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")於2007年6月1日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，E×E為「Empty×Embryo」的簡稱。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Click入黃金屋](https://zh.wikipedia.org/wiki/Click入黃金屋)转换而来。
+
+
 《**Click入黃金屋**》（；前名《**新網中人**》）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝溫情[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，全劇共20集，由[秦沛](../Page/秦沛.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[孫耀威](../Page/孫耀威.md "wikilink")、[郭羨妮](../Page/郭羨妮.md "wikilink")及[楊思琦](../Page/楊思琦.md "wikilink")領銜主演，並由[陳敏之](../Page/陳敏之.md "wikilink")、[韓馬利](../Page/韓馬利.md "wikilink")及[楊秀惠](../Page/楊秀惠.md "wikilink")聯合主演，[梅小青](../Page/梅小青.md "wikilink")監製。
 
 ## 演員表

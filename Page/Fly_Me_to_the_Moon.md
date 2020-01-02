@@ -1,3 +1,6 @@
+> 本文内容由[Fly Me to the Moon](https://zh.wikipedia.org/wiki/Fly_Me_to_the_Moon)转换而来。
+
+
 《**Fly Me to the Moon**》通常被譯為“帶我飛向月球”，原名《In Other Words》（换句话说），原是由写于1954年的一首[华尔兹舞曲](https://zh.wikipedia.org/wiki/华尔兹 "wikilink")\[1\]。在1954年第一次录制了这首歌曲。从那时起，它开始成为一首多次被翻唱的。[法蘭·仙納杜拉](../Page/法蘭·仙納杜拉.md "wikilink")的1964年录制版本与[阿波罗登月计划密切相关](https://zh.wikipedia.org/wiki/阿波罗登月计划 "wikilink")。
 
 ## 歌曲的创作和早期公演

@@ -1,3 +1,6 @@
+> 本文内容由[FIFA 08](https://zh.wikipedia.org/wiki/FIFA_08)转换而来。
+
+
 《**FIFA 08**》是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電子藝界旗下](https://zh.wikipedia.org/wiki/電子藝界 "wikilink")[FIFA系列](../Page/FIFA系列.md "wikilink")的遊戲作品，由[EA Canada小组负责开发](https://zh.wikipedia.org/wiki/EA_Canada "wikilink")。于2007年9月27日在欧洲和澳大利亚地区发行，于2007年10月在北美地区发行。在[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360的版本裡加強了](../Page/Xbox_360.md "wikilink")[遊戲引擎的功能](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，例如更好的畫面以及不同的比賽評論。[Electronic Arts稱呼它為](https://zh.wikipedia.org/wiki/EA "wikilink")"next-generation（下一世代）"。在其他平台（包括 PC）的遊戲是使用舊的遊戲引擎。在[Nintendo DS的版本裡](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，由於平台本身的限制，遊戲收錄了較少的隊伍、場地、遊戲模式和球衣。 在下一世代的平台中，兩位球評是來自Sky Sports的[Martin Tyler和](https://zh.wikipedia.org/wiki/Martin_Tyler "wikilink")[Andy Gray](https://zh.wikipedia.org/wiki/Andy_Gray_\(footballer_born_1955\) "wikilink")，但在其他平台中是由ITV Sports的[Clive Tyldesley和Gray擔任遊戲的球評](https://zh.wikipedia.org/wiki/Clive_Tyldesley "wikilink")。
 
 遊戲的標語是"Can You -{FIFA 08}-?"。\[1\]主題曲是[La Rocca的專輯](https://zh.wikipedia.org/wiki/La_Rocca "wikilink")*The Truth*裡的"Sketches (20 Something Life)"。

@@ -1,3 +1,6 @@
+> 本文内容由[Incr Tcl](https://zh.wikipedia.org/wiki/Incr_Tcl)转换而来。
+
+
 **incr Tcl** (incr，即increase，在英文中表示"+", 這個名字是由 "[C++](../Page/C++.md "wikilink")"而來, 簡寫作 "itcl")，是[Tcl](../Page/Tcl.md "wikilink")編程語言的[面向對象編程的擴展包](https://zh.wikipedia.org/wiki/面向對象_\(編程\) "wikilink")。它被廣泛使用Tcl編程人員廣泛使用。Itcl有兩種使用方式，一是[軟體包（package）](https://zh.wikipedia.org/wiki/軟體包_\(編程\) "wikilink")，可被[Tcl](../Page/Tcl.md "wikilink")程序動態載入；一是作為單獨的語言，有自己的解譯器（standalone interpreter）。
 
 ## 概述

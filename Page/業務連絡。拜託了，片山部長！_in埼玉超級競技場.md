@@ -1,3 +1,6 @@
+> 本文内容由[業務連絡。拜託了，片山部長！ in埼玉超級競技場](https://zh.wikipedia.org/wiki/業務連絡。拜託了，片山部長！_in埼玉超級競技場)转换而来。
+
+
 [業務連絡。頼むぞ、片山部長！_in_さいたまスーパーアリーナ.jpg](https://zh.wikipedia.org/wiki/File:業務連絡。頼むぞ、片山部長！_in_さいたまスーパーアリーナ.jpg "fig:業務連絡。頼むぞ、片山部長！_in_さいたまスーパーアリーナ.jpg") **業務連絡。拜託了，片山部長！ in埼玉超級競技場**（）是日本組合[AKB48](../Page/AKB48.md "wikilink")在2012年3月23-25日於[埼玉超級競技場](../Page/埼玉超級競技場.md "wikilink")舉行的[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")。
 
 ## 第1日

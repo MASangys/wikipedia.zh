@@ -1,3 +1,6 @@
+> 本文内容由[ER2R型电力动车组](https://zh.wikipedia.org/wiki/ER2R型电力动车组)转换而来。
+
+
 **ER2R型电力动车组**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")、[里加电机制造厂和](https://zh.wikipedia.org/wiki/里加电机制造厂 "wikilink")[加里宁车辆制造厂设计制造](https://zh.wikipedia.org/wiki/加里宁车辆制造厂 "wikilink")，于1982年研制成功、1984年投入批量生产。至1987年停产，共生产了89组ER2R型电力动车组，其中包括10辆编组列车57列、12辆编组列车32列；另外还生产了8组控制单元、27组控制单元；合计产量为1024辆。ER2R型电力动车组主要配属于[俄罗斯铁路](../Page/俄罗斯铁路.md "wikilink")的[莫斯科铁路局](https://zh.wikipedia.org/wiki/莫斯科铁路局 "wikilink")、[十月铁路局](https://zh.wikipedia.org/wiki/十月铁路局 "wikilink")，以及[乌克兰铁路](../Page/乌克兰铁路.md "wikilink")的[南方铁路局](https://zh.wikipedia.org/wiki/南方铁路局 "wikilink")。
 
 ## 技术特点

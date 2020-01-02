@@ -1,3 +1,6 @@
+> 本文内容由[Comic Sylph](https://zh.wikipedia.org/wiki/Comic_Sylph)转换而来。
+
+
 《**Comic Sylph**》是[日本](../Page/日本.md "wikilink")[ASCII Media Works公司所發行的一本的](../Page/ASCII_Media_Works.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，2006年創刊，以[少女漫畫為主](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。
 
 ## 目前連載作品

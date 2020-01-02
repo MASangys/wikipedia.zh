@@ -1,3 +1,6 @@
+> 本文内容由[Libtool](https://zh.wikipedia.org/wiki/Libtool)转换而来。
+
+
 **GNU Libtool**是一種屬於[GNU建構系統的](https://zh.wikipedia.org/wiki/GNU建構系統 "wikilink")[GNU](../Page/GNU.md "wikilink")[程式設計工具](https://zh.wikipedia.org/wiki/程式設計 "wikilink")，用來產生可攜式的[函式庫](../Page/函式庫.md "wikilink")。這裡引用[libtool手冊](http://www.gnu.org/software/libtool/manual/libtool.html)的說明：
 
 通常libtool是與[GNU建構系統中的](https://zh.wikipedia.org/wiki/GNU建構系統 "wikilink")[autoconf和](https://zh.wikipedia.org/wiki/autoconf "wikilink")[automake這兩個工具一起使用](https://zh.wikipedia.org/wiki/automake "wikilink")。

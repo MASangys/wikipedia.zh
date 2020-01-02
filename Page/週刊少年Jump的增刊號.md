@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Jump的增刊號](https://zh.wikipedia.org/wiki/週刊少年Jump的增刊號)转换而来。
+
+
 **《週刊少年Jump》的增刊號**是記述關於[集英社](../Page/集英社.md "wikilink")的少年向[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》的前身《少年Jump》的增刊號。
 
 ## 概要

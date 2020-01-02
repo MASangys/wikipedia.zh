@@ -1,3 +1,6 @@
+> 本文内容由[雷電II](https://zh.wikipedia.org/wiki/雷電II)转换而来。
+
+
 是由Seibu開發（）於1993年上市的縱向[捲軸射擊類型](https://zh.wikipedia.org/wiki/捲軸射擊 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")，[雷電系列的第二部作品](https://zh.wikipedia.org/wiki/雷電系列 "wikilink")，後來發售[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 遊戲

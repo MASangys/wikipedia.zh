@@ -1,3 +1,6 @@
+> 本文内容由[Enon](https://zh.wikipedia.org/wiki/Enon)转换而来。
+
+
 **Enon**是一支著名[摇滚](../Page/摇滚.md "wikilink")乐队，1999年在[纽约](../Page/纽约.md "wikilink")成立。
 
 ## 作品

@@ -1,3 +1,6 @@
+> 本文内容由[Jolla](https://zh.wikipedia.org/wiki/Jolla)转换而来。
+
+
 [Jolla_Aloe_Events.jpg](https://zh.wikipedia.org/wiki/File:Jolla_Aloe_Events.jpg "fig:Jolla_Aloe_Events.jpg") [Jolla_PoppyRed_Home.jpg](https://zh.wikipedia.org/wiki/File:Jolla_PoppyRed_Home.jpg "fig:Jolla_PoppyRed_Home.jpg") **Jolla有限公司**\[1\]（，，通常被称为**Jolla Mobile**）是一家独立的芬兰公司，主营业务为设计、开发、销售搭载MeeGo操作系统的智能手机，致力于继续推进MeeGo项目。在[Mer](../Page/Mer.md "wikilink")專案之上，又分支出[Sailfish OS](../Page/Sailfish_OS.md "wikilink")。
 
 在诺基亚推出搭载MeeGo的[諾基亞 N9并宣布放弃MeeGo转投](https://zh.wikipedia.org/wiki/諾基亞_N9 "wikilink")[Windows Phone平台之后](../Page/Windows_Phone.md "wikilink")，Jolla将继续推进MeeGo。在诺基亚退出MeeGo项目后，MeeGo急需一个新的核心。Jolla团队主要由前诺基亚员工创建，公司员工包括曾负责诺基亚MeeGo和N9研发的前诺基亚主管和核心工程师以及来自MeeGo社区的精英。Jolla计划在2012年发布其智能手机产品。“Jolla”在芬兰语中的意思是“敏捷的小船”。

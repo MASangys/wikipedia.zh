@@ -1,3 +1,6 @@
+> 本文内容由[Blue Train](https://zh.wikipedia.org/wiki/Blue_Train)转换而来。
+
+
 《**Blue Train**》是[ASIAN KUNG-FU GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")7張單曲。
 
 ## 解説

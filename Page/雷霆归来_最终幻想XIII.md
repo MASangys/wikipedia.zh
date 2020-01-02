@@ -1,3 +1,6 @@
+> 本文内容由[雷霆归来 最终幻想XIII](https://zh.wikipedia.org/wiki/雷霆归来_最终幻想XIII)转换而来。
+
+
 是由[日本](../Page/日本.md "wikilink")遊戲製作商[史克威爾艾尼克斯第一開發部負責開發](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，史克威爾艾尼克斯發售的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，对应 [PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。游戏最初于2013年11月在日本、台湾和香港的PlayStation 3和Xbox 360平台發售，2014年2月在欧洲和北美发售。本作亦是“[新的水晶故事 最终幻想](../Page/新的水晶故事_最终幻想.md "wikilink")”系列的一部分，將作為《[最終幻想XIII-2](https://zh.wikipedia.org/wiki/最終幻想XIII-2 "wikilink")》的續篇，終結自《[最終幻想XIII](https://zh.wikipedia.org/wiki/最終幻想XIII "wikilink")》開始的劇情。《雷霆归来》在游戏系统上进行了大幅改进，采用动作导向的战斗系统。玩家可自定义角色的装备。游戏采用昼夜周期系统，玩家只有13天去阻止世界末日爆发，玩家的某些行动会延迟时间，而有些行动则会加剧末日进程。
 
 游戏故事发生在前作的500年之后，[雷霆被神布涅貝哲选为](../Page/雷霆_\(最终幻想\).md "wikilink")“解放者”，在末日前的13天从水晶状态被唤醒，来拯救这个世界和她的朋友。在旅途中，她得知了两个世界命运的真相和布涅貝哲的真正目的。
@@ -84,7 +87,7 @@
 
 ### 媒體評論
 
-《雷霆归来》获得媒体的不一评价。《[Fami通](../Page/Fami通.md "wikilink")》杂志四名评论者分别打出10、10、8、9分，合计37分\[162\]。杂志之后在Fami通奖2013中，授予《雷霆归来》“优秀奖”\[163\]。按照西方评论汇总网站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")的统计，Xbox 360版平均得分为72%（16篇评论）和69/100（21篇评论）\[164\]\[165\]，PlayStation 3版为66%（40篇评论）和66/100（62篇评论）\[166\]\[167\]。
+《雷霆归来》获得媒体的不一评价。《[Fami通](../Page/Fami通.md "wikilink")》杂志四名评论者分别打出10、10、8、9分，合计37分\[162\]。杂志之后在Fami通奖2013中，授予《雷霆归来》“优秀奖”\[163\]。按照西方评论汇总网站[GameRankings](../Page/GameRankings.md "wikilink")和[Metacritic](../Page/Metacritic.md "wikilink")的统计，Xbox 360版平均得分为72%（16篇评论）和69/100（21篇评论）\[164\]\[165\]，PlayStation 3版为66%（40篇评论）和66/100（62篇评论）\[166\]\[167\]。
 
 战斗系统获得大量评论称赞。《[PlayStation官方杂志](https://zh.wikipedia.org/wiki/PlayStation官方杂志_\(英国\) "wikilink")》的马特·艾略特表示游戏战斗系统很有趣，觉得“像是最终幻想：有力的、新款的，之前的回合制战斗的类似品”\[168\]。[IGN](../Page/IGN.md "wikilink")的马蒂·席尔瓦也很欣赏战斗系统，表示“《雷霆归来》干得很好，我可以制作（三套）独特而私人的（套装）”\[169\]。[Game Informer的乔](../Page/Game_Informer.md "wikilink")·朱巴也对系统表示称赞，他认为系统比上两作有改进，换装创造出“快节奏、高压力的系统，让战斗变得刺激”\[170\]。[Eurogamer](../Page/Eurogamer.md "wikilink")的西蒙·帕金称，较之于其他XIII游戏，本作系统“或许是现今最棒，但却无疑是最稳定的版本”，《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》表示了类似观点，并称战斗有掉帧问题，[GameSpot](../Page/GameSpot.md "wikilink")凯文·瓦若德则表示，若非这少量缺陷，游戏“可能跻身最终幻想最佳战斗系统之列”\[171\]\[172\]\[173\]。《Fami通》表示战斗系统总体“优秀”，称其快节奏而有趣，但輕度玩家即使是简单難度，也需要一些時間適應\[174\]。
 
@@ -251,7 +254,6 @@
 139.
 140.
 141.
-
 142.
 143.
 144.
@@ -272,7 +274,6 @@
 159.
 160.
 161. <https://web.archive.org/web/20180411222633/http://steamspy.com/app/345350>
-
 162.
 163.
 164.

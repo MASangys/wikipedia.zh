@@ -1,3 +1,6 @@
+> 本文内容由[MG \(汽车品牌\)](https://zh.wikipedia.org/wiki/MG_\(汽车品牌\))转换而来。
+
+
 **MG**（Morris Garages），是英國汽車界名人Nuffield[子爵](../Page/子爵.md "wikilink")威廉·摩里斯的員工金柏所創立，原本是摩里斯子爵的私人財產，所以稱為摩里斯車房，後來賣給摩里斯子爵的控股公司摩里斯汽車公司，以雙門[開篷車和](https://zh.wikipedia.org/wiki/開篷車 "wikilink")[跑車聞名於汽車界](https://zh.wikipedia.org/wiki/跑車 "wikilink")。
 
 MG汽車曾是世界最成功的[小型跑車](../Page/小型跑車.md "wikilink")生產商，其招牌產品MGA/MGB/MG Midget三姐妹車系，在五十至八十年代初連續生產，總產量達七十多萬部。

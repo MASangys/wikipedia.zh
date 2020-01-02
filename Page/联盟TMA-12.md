@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-12](https://zh.wikipedia.org/wiki/联盟TMA-12)转换而来。
+
+
 **联盟 TMA-12**是一艘俄罗斯的载人飞船，于北京时间2008年4月8日19时16分在[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")的[拜科努尔发射场发射升空](https://zh.wikipedia.org/wiki/拜科努尔发射场 "wikilink")。\[1\]
 
 ## 机组人员

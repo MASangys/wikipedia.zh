@@ -1,3 +1,6 @@
+> 本文内容由[源氏物語千年紀 Genji](https://zh.wikipedia.org/wiki/源氏物語千年紀_Genji)转换而来。
+
+
 《'''源氏物語千年紀 Genji '''》是一部日本[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，於2009年1月15日至3月26日在[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA播出](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
 
 2008年8月，動畫節目[noitaminA原定是把](https://zh.wikipedia.org/wiki/noitaminA "wikilink")[大和和紀](../Page/大和和紀.md "wikilink")改編自[源氏物語](../Page/源氏物語.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[源氏物語](../Page/源氏物語_\(漫畫\).md "wikilink")》動畫化，不過，根據監督[出崎統](../Page/出崎統.md "wikilink")的意向，2008年11月10日對計劃作了相應調整，變成了動畫直接取材自小說原著\[1\]。工作人員除了一部份外均未變更。

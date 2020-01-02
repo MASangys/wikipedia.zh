@@ -1,3 +1,6 @@
+> 本文内容由[Foxmail](https://zh.wikipedia.org/wiki/Foxmail)转换而来。
+
+
 **Foxmail**是最早由[華中科技大學](https://zh.wikipedia.org/wiki/華中科技大學 "wikilink")[張小龍](../Page/張小龍.md "wikilink")開發的一款[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")，具有[電子郵件管理功能](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")\[1\]和邮件服务器功能\[2\]。同时它还有[RSS](../Page/RSS.md "wikilink")订阅、[日历](https://zh.wikipedia.org/wiki/日历 "wikilink")、[联系人等功能](https://zh.wikipedia.org/wiki/通讯录 "wikilink")。其名字取自[金庸](../Page/金庸.md "wikilink")武侠小说《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》中的人物[令狐冲](../Page/令狐冲.md "wikilink")\[3\]。
 
 ## 歷史

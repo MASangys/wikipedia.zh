@@ -1,3 +1,6 @@
+> 本文内容由[CROSS GENE](https://zh.wikipedia.org/wiki/CROSS_GENE)转换而来。
+
+
 **CROSS GENE**（），組合名稱CROSS GENE的意思是各國優秀基因​​（GENE）的結合（CROSS）。由3名韓國成員、2名中國成員和1名日本成員組成的團體CROSS GENE於2012年6月7日舉辦了正式Show case出道發布會， 並於6月11日出道。隊長Shin出道後加入《[Big](../Page/Big.md "wikilink")》劇組，曾經因出演《出發夢之隊》而得到熱議的模特兼演員Takuya也是該組合成員，其他成員也是在多樣領域活動著的實力派。
 
 2013月1月，官方宣布中國籍成員J.G離隊，加入韓國藉新成員Seyoung。

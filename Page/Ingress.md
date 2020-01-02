@@ -1,3 +1,6 @@
+> 本文内容由[Ingress](https://zh.wikipedia.org/wiki/Ingress)转换而来。
+
+
 **Ingress**中文有译为**虛擬入口**\[1\]或**浸视界**\[2\]，是一款基于[地理位置的](https://zh.wikipedia.org/wiki/基于位置的服务 "wikilink")[大型多人](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[侵入式虚拟现实](https://zh.wikipedia.org/wiki/侵入式虚拟现实游戏 "wikilink")[游戏](../Page/电子游戏.md "wikilink")。由[Niantic Labs](../Page/Niantic.md "wikilink") 开发，於2012年11月16日开始在[Android](../Page/Android.md "wikilink") 平台進行測試，\[3\]于2013年12月15日正式發布。\[4\]2014年7月15日登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") 平台。\[5\]
 
 ## 故事背景
@@ -63,11 +66,17 @@ Ingress官方及社群为了加强玩家互动，组织了一系列官方、半�
 
 由官方或与各地旅游部门合作组织的活动，参与者需要在规定时间内（通常是當天當地時間凌晨起至傍晚為止）完成一系列到達指定地點的任务，並在指定地點簽到後以换取徽章。
 
+
+
+### Field Test
+
+Field Test是Niantic在2019年下半年推出的實驗性活動，由當地玩家社群組織舉辦。第一屆Field Test活動舉行日為2019年9月14日。\[[https://ingress.com/eventdescription/hexathlon-20190914\]完成Field](https://ingress.com/eventdescription/hexathlon-20190914%5D完成Field) Test挑戰的玩家可獲得成就獎牌，參與地區每一項目挑戰達到前10%水平的玩家可獲得精英獎牌。
+
 ## 评价
 
 在2015年的[日本游戏大奖](../Page/日本游戏大奖.md "wikilink")上，《Ingress》获得了最佳游戏设计奖。\[17\]
 
-### 玩家数量
+## 玩家数量
 
 2015年Niantic向Tom's Guide透露目前有820万玩家。截止至2017年8月，來自[台灣的玩家cchjackie](https://zh.wikipedia.org/wiki/台灣 "wikilink")的AP最多。在2018年11月，這個記錄已由玩家Morka打破，AP來到1,000,000,000，成為最高AP的探員。
 
@@ -117,7 +126,7 @@ Ingress官方及社群为了加强玩家互动，组织了一系列官方、半�
 
 2017年12月，Niantic Labs在Ingress Prime官网发布了Ingress Prime的宣传视频。\[26\]对此，大多数玩家\[27\]认为Ingress Prime就是玩家苦思久等的Ingress 2.0，但是否是Ingress 2.0以及和对现有Ingress账户内的道具是否共通仍需等待正式版发布。\[28\][iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[TestFlight版本已经被证明放出](https://zh.wikipedia.org/wiki/TestFlight "wikilink")。\[29\]2018年11月6日，Ingress Prime Android版作为旧版更新的方式登陆Google Play商店，但由于旧玩家对新界面和游戏方式的不满，Niantic Labs另外提供保留旧版界面的新应用Scanner \[REDACTED\]代替新版Ingress Prime安装使用。\[30\]\[31\]\[32\]
 
-Niantic于2019年8月30日宣布 Scanner将于2019年9月30日 1700 UTC关闭 届时Prime成为游玩Ingress的唯一选择。\[33\]
+Scanner \[REDACTED\]于2019年9月30日17:00(UTC)終止營運，Ingress Prime成為玩家遊玩Ingress的唯一选择。\[33\]
 
 ## 注解
 
@@ -127,73 +136,42 @@ Niantic于2019年8月30日宣布 Scanner将于2019年9月30日 1700 UTC关闭 �
 
   - [Ingress官方网站](http://www.ingress.com/)
   - [Niantic Project官方网站](http://www.nianticproject.com/)
-  - [investigate官方网站](http://investigate.ingress.com)
+  - [investigate官方网站](https://web.archive.org/web/20170301183527/http://investigate.ingress.com/)
   - [Ingress中文维基](http://zh.ingress.wikia.com)
   - [IngressPrime官方网站](http://www.ingressprime.com/)
 
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:大型多人線上遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上遊戲 "wikilink") [Category:休闲游戏](https://zh.wikipedia.org/wiki/Category:休闲游戏 "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink") [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink") [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink") [Category:富士電視台製作動畫](https://zh.wikipedia.org/wiki/Category:富士電視台製作動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:交互式叙事](https://zh.wikipedia.org/wiki/Category:交互式叙事 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.  <https://plus.google.com/+Ingress/posts/2wvNoTjd9jG>
-
 5.  <http://www.gamelook.com.cn/2014/07/170474>
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13.
-
 14.
-
 15. [Ingress Live Events](https://www.ingress.com/events)
-
 16.
 17. [日本ゲーム大賞 2015 受賞作品「年間作品部門」](http://awards.cesa.or.jp/2015/prize/prize_01.html).CESA.\[2016-07-12\].
-
 18.
-
 19.
-
 20.
-
 21. <http://ingress-anime.com/> TVアニメ「イングレス」公式サイト。
-
 22. <https://www.youtube.com/watch?v=7CAHPBR5nHc> TVアニメ「イングレス」プロジェクトPV - YouTube
-
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.

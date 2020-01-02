@@ -1,3 +1,6 @@
+> 本文内容由[Harvest Moon](https://zh.wikipedia.org/wiki/Harvest_Moon)转换而来。
+
+
 《**Harvest Moon**》是5人[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4minute](../Page/4minute.md "wikilink")子團[2Yoon](../Page/2Yoon.md "wikilink")的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2013年1月17日公開發售，是次主打為《**24/7**》。
 
 ## 發行過程
@@ -133,14 +136,10 @@
 [Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink") [Category:2012年_EP](https://zh.wikipedia.org/wiki/Category:2012年_EP "wikilink") [Category:Korean-language_EPs](https://zh.wikipedia.org/wiki/Category:Korean-language_EPs "wikilink")
 
 1.  [Cube Entertainment Twitter](http://i.discuss.com.hk/d/attachments/day_121226/20121226_59347344f2fdf206405ekAgPGGmGo4ct.jpg)
-
 2.
-
 3.
 4.
-
 5.
 6.
-
 7.
 8.

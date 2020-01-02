@@ -1,3 +1,6 @@
+> 本文内容由[French Kiss的Kiss廣播!](https://zh.wikipedia.org/wiki/French_Kiss的Kiss廣播!)转换而来。
+
+
 **《French Kiss的Kiss廣播\!》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink"):**フレンチ・キスのKissラジ\!**），是於[FM東京](../Page/FM東京.md "wikilink")所播放的深夜廣播[談話節目](https://zh.wikipedia.org/wiki/談話節目 "wikilink")，每週日25:00 - 25:30播出，由[French Kiss主持](../Page/French_Kiss_\(音乐团体\).md "wikilink")。
 
 ## 概要

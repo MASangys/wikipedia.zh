@@ -1,3 +1,6 @@
+> 本文内容由[Lucida](https://zh.wikipedia.org/wiki/Lucida)转换而来。
+
+
 **Lucida**是一个西文[字体](../Page/字体.md "wikilink")家族名，由查尔斯·毕格罗（Charles Bigelow）和克里斯·霍尔姆斯（Kris Holmes）于1985年设计。
 
 这个家族有很多变体，包括黑体（Blackletter），艺术体（Calligraphy），手写体（Handwriting），[衬线](https://zh.wikipedia.org/wiki/衬线 "wikilink")（Fax, Bright）和[无衬线体](../Page/无衬线体.md "wikilink")（Sans, [Lucida Sans Unicode](https://zh.wikipedia.org/wiki/Lucida_Sans_Unicode "wikilink")，[Lucida Grande](../Page/Lucida_Grande.md "wikilink")，Sans Typewriter等等）。

@@ -1,3 +1,6 @@
+> 本文内容由[Jack in the Box](https://zh.wikipedia.org/wiki/Jack_in_the_Box)转换而来。
+
+
 **Jack in the Box**是一家美國[快餐](../Page/快餐.md "wikilink")連鎖店，於1951年2月21日由羅伯特·奧斯卡·彼得森在美國加利福尼亞州聖地亞哥總部成立\[1\]。
 
 集團目前共有2,200家分店，主力分佈於[美國西岸和東部少數大城市](https://zh.wikipedia.org/wiki/美國 "wikilink")。

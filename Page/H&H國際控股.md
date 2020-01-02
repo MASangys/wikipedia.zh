@@ -1,3 +1,6 @@
+> 本文内容由[H\&H國際控股](https://zh.wikipedia.org/wiki/H\&H國際控股)转换而来。
+
+
 **健合（H\&H）國際控股有限公司**（，），簡稱**健合 (H\&H) 國際控股**或**H\&H國際控股**，前名「**合生元國際控股有限公司**」，簡稱**合生元**（）。主要業務是生産及銷售兒童益生菌、嬰幼兒配方奶粉、嬰幼兒食品及護理用品和多種營養食品，旗下品牌包括：法國營養品牌Biostime合生元和有機嬰兒食品Good Goût、澳大利亞維生素補劑品牌Swisse Wellness、美國有機奶粉品牌Healthy Times 和法國紙尿褲品牌Dodie、英國護膚品牌Aurelia
 
 1999年，由[羅雲和](https://zh.wikipedia.org/wiki/羅雲 "wikilink")[羅飛](https://zh.wikipedia.org/wiki/羅飛 "wikilink")（董事長及總裁）兄弟創立。

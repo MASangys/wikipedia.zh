@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon處理器列表](https://zh.wikipedia.org/wiki/AMD_Athlon處理器列表)转换而来。
+
+
 ## Athlon (Model 1, K7 "Argon", 250 nm)
 
 K7500MTR51B C、K7550MTR51B C 與 K7650MTR51B C

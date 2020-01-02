@@ -1,3 +1,6 @@
+> 本文内容由[Break Down \(迷你專輯\)](https://zh.wikipedia.org/wiki/Break_Down_\(迷你專輯\))转换而来。
+
+
 《**Break Down**》是韓國人氣組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2011年6月7日由CJ E\&M所發行的首張個人迷你專輯。
 
 ## 概述

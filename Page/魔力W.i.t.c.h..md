@@ -1,3 +1,6 @@
+> 本文内容由[魔力W.i.t.c.h.](https://zh.wikipedia.org/wiki/魔力W.i.t.c.h.)转换而来。
+
+
 《**魔力W.i.t.c.h.**》（）原作为[意大利](../Page/意大利.md "wikilink")[迪士尼公司所创作的一部](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")[漫画杂志系列](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")。于2001年4月首次发行，当地的[报纸与](https://zh.wikipedia.org/wiki/报纸 "wikilink")[杂志](../Page/杂志.md "wikilink")把这部作品称为“女孩版的[哈利·波特](../Page/哈利·波特.md "wikilink")”，现已经在[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[波兰等十多个国家授权出版连载](https://zh.wikipedia.org/wiki/波兰 "wikilink")，但并没有英文版；如今这部作品经过了10年左右的长期连载，于2012年10月所发行的第139期宣布完结。
 
 [动画片系列将由](https://zh.wikipedia.org/wiki/动画片 "wikilink")[法国动画公司](https://zh.wikipedia.org/wiki/法国 "wikilink")“SIP Animation”来负责制作，[台湾迪士尼已经公开播放了动画系列](https://zh.wikipedia.org/wiki/台湾 "wikilink")，译名为《**精灵少女组**》。2002年6月，[中国大陆](../Page/中国大陆.md "wikilink")的[童趣出版有限公司被授权出版了中文版的漫画杂志系列](https://zh.wikipedia.org/wiki/童趣出版有限公司 "wikilink")，同时也出版了故事集、原创小说以及漫画杂志系列的合订口袋书，现已全部停刊绝版；而动画系列在中国大陆的播放权也由于[广电总局临时宣布禁播国外动画而一直没有审批通过](https://zh.wikipedia.org/wiki/广电总局 "wikilink")。

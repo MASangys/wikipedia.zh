@@ -1,3 +1,6 @@
+> 本文内容由[AK-9突击步枪](https://zh.wikipedia.org/wiki/AK-9突击步枪)转换而来。
+
+
 **AK-9**是一枝由[俄罗斯](../Page/俄罗斯.md "wikilink")聯邦槍械製造商（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，；前稱：，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）所研製及生產的現代化[突击步枪](../Page/突击步枪.md "wikilink")，在2007年8月公開，是流行的卡拉什尼科夫步槍系列的款式之一，基於“100”系列卡拉什尼科夫突击步枪，發射[9×39毫米](../Page/9×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

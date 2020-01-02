@@ -1,3 +1,6 @@
+> 本文内容由[Horipro](https://zh.wikipedia.org/wiki/Horipro)转换而来。
+
+
 [Hori_pro_meguro_tokyo_2009.JPG](https://zh.wikipedia.org/wiki/File:Hori_pro_meguro_tokyo_2009.JPG "fig:Hori_pro_meguro_tokyo_2009.JPG")
 
 **株式會社堀製作**（），通稱**Horipro**（），是[日本](../Page/日本.md "wikilink")一間以從事[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀為主的大型](https://zh.wikipedia.org/wiki/經紀 "wikilink")[演藝事業](../Page/演藝界.md "wikilink")[公司](../Page/公司.md "wikilink")。1960年5月創立時為「堀製作有限會社」（）；1963年1月改組為[株式會社](../Page/股份有限公司.md "wikilink")，商號改以[片假名](../Page/片假名.md "wikilink")登記（即「」），簡稱「Horipro」；1990年10月起改以片假名拼寫的「Horipro」做為正式名稱。

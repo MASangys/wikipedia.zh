@@ -1,3 +1,6 @@
+> 本文内容由[馬自達Flair](https://zh.wikipedia.org/wiki/馬自達Flair)转换而来。
+
+
 **馬自達Flair**（）是2012年10月起由[日本](../Page/日本.md "wikilink")[馬自達汽車公司委託](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[貼牌生產](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")、[貼上馬自達廠徽銘牌的](../Page/换牌工程.md "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，這款車是以[鈴木Wagon R為基礎而開發的](../Page/鈴木Wagon_R.md "wikilink")，僅限[日本](../Page/日本.md "wikilink")國內市場銷售。此款車乃[AZ-Wagon的後繼車種](../Page/馬自達AZ-Wagon.md "wikilink")，另與[Flair Wagon為同一系列](../Page/馬自達Flair_Wagon.md "wikilink")。
 
 ## 歷史

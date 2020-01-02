@@ -1,3 +1,6 @@
+> 本文内容由[M202 FLASH](https://zh.wikipedia.org/wiki/M202_FLASH)转换而来。
+
+
 **M202 肩射式火焰進攻武器**（**FLame Assault SHoulder Weapon**，**FLASH**）是一款[美製](https://zh.wikipedia.org/wiki/美國 "wikilink")[火箭發射器](https://zh.wikipedia.org/wiki/火箭發射器 "wikilink")，設計旨在取代直至1960年代仍被美軍廣泛運用的[二戰時期](https://zh.wikipedia.org/wiki/二戰 "wikilink")[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")（如與[M2火焰噴射器](../Page/M2火焰噴射器.md "wikilink")）。M202基於原型[XM191](https://zh.wikipedia.org/wiki/XM191 "wikilink")[凝固汽油彈火箭發射器發展而成](https://zh.wikipedia.org/wiki/凝固汽油彈 "wikilink")，後者曾在[越南戰爭期間進行過大量測試](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")。
 
 ## 規格

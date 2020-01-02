@@ -1,3 +1,6 @@
+> 本文内容由[A-JAX](https://zh.wikipedia.org/wiki/A-JAX)转换而来。
+
+
 **A-JAX**（<sup>*E i Jeg Seu*</sup>，）是 [DSP媒體](../Page/DSP媒體.md "wikilink")於2012年推出的男子七人團體，2016年成員變動後，改以五人體制活動。出道時由成員[導慪](https://zh.wikipedia.org/wiki/金導慪 "wikilink")、[在亨](https://zh.wikipedia.org/wiki/徐在亨 "wikilink")、[智厚](https://zh.wikipedia.org/wiki/文智厚 "wikilink")、[允永](https://zh.wikipedia.org/wiki/孟允永 "wikilink")、[成民](https://zh.wikipedia.org/wiki/朴成民 "wikilink")、[升辰](https://zh.wikipedia.org/wiki/咸升辰 "wikilink")、[承燁組成](https://zh.wikipedia.org/wiki/李承燁 "wikilink")，現任成員為[導慪](https://zh.wikipedia.org/wiki/金導慪 "wikilink")、[允永](https://zh.wikipedia.org/wiki/孟允永 "wikilink")、[升辰](https://zh.wikipedia.org/wiki/咸升辰 "wikilink")、[承燁](https://zh.wikipedia.org/wiki/李承燁 "wikilink")、[重熙](https://zh.wikipedia.org/wiki/趙重熙 "wikilink")。A-JAX取名自[希臘神話](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")，指的是在[特洛伊](../Page/特洛伊.md "wikilink")之戰中為希臘人民獲得勝利的英雄－[埃阿斯](../Page/小埃阿斯.md "wikilink")（希臘語:Αἴας），有著「在偶像競爭激烈的音樂界中脫穎而出成為英雄」的涵義\[1\]\[2\]。成員們因擁有成為偶像最基本所需要的精神、外貌和表演實力，被稱為「正統派」的偶像團體\[3\]。
 
 官方FAN CLUB名稱『A-LIGHT』，為「閃亮的Supporters支持著閃耀的A-JAX」之意\[4\]。

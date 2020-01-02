@@ -1,3 +1,6 @@
+> 本文内容由[KEO](https://zh.wikipedia.org/wiki/KEO)转换而来。
+
+
 **KEO**是一個[人造衛星](../Page/人造衛星.md "wikilink")計劃的名字，同時也是實施這個計劃的一個[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[非營利性組織的名稱](https://zh.wikipedia.org/wiki/非營利性組織 "wikilink")。此衛星將搭載當今人類留給未來世代的信息，預計在發射[5萬年後重返](https://zh.wikipedia.org/wiki/遙遠未來的事件 "wikilink")[地球](../Page/地球.md "wikilink")。
 
 ## KEO計劃

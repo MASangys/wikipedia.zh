@@ -1,3 +1,6 @@
+> 本文内容由[＿summer](https://zh.wikipedia.org/wiki/＿summer)转换而来。
+
+
 是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")[HOOK](https://zh.wikipedia.org/wiki/HOOK "wikilink")（現[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")）於2005年7月15日推出的第四款[美少女遊戲](../Page/美少女遊戲.md "wikilink")。本作最初是發行在[Windows平台上](https://zh.wikipedia.org/wiki/Windows "wikilink")，後來[移植到](https://zh.wikipedia.org/wiki/遊戲移植 "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")（簡稱PS2）上。並曾改編成[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")\[1\]等版本。
 
 ## 遊戲

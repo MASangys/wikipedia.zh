@@ -1,3 +1,6 @@
+> 本文内容由[As One](https://zh.wikipedia.org/wiki/As_One)转换而来。
+
+
 **As One**（，），[香港](../Page/香港.md "wikilink")及[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年成立，由[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")旗下Sun Star，聯同[郭富城](../Page/郭富城.md "wikilink")御用排舞師[Sunny Wong](https://zh.wikipedia.org/wiki/Sunny_Wong "wikilink")，籌備超過一年的全新跳唱女子組合。以亞洲為戰略導向，目標成為代表香港的亞洲人氣偶像天團。
 
 2015年經歷成員洗牌後，成員包括[Shin](../Page/吳思佳.md "wikilink")、[Tania](../Page/陳苑澄.md "wikilink")、[Chloe及](../Page/蘇皓兒.md "wikilink")[Kayan](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")，並於韓國正式出道，成為首隊進軍韓國流行音樂市場的香港[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。

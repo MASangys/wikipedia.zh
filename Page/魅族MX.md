@@ -1,3 +1,6 @@
+> 本文内容由[魅族MX](https://zh.wikipedia.org/wiki/魅族MX)转换而来。
+
+
 **魅族MX**（型号：M030）是[魅族于](https://zh.wikipedia.org/wiki/魅族 "wikilink")2012年1月1日正式发售的手机产品。发售时采用[Android 2.3系统](https://zh.wikipedia.org/wiki/Android歷史版本#Android_2.3 "wikilink")。搭载[三星](../Page/三星電子.md "wikilink") [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM架構 "wikilink") [Exynos 4210](https://zh.wikipedia.org/wiki/Exynos "wikilink") 1.4GHz 双核 CPU。
 
 **魅族MX四核**（型号：M032）于2012年6月30日发售。采用魅族基于[Android 4.0深度定制的](https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.0 "wikilink")[Flyme OS](https://zh.wikipedia.org/wiki/Flyme_OS "wikilink") 1.0操作系统。搭载[三星](../Page/三星電子.md "wikilink") [ARM Cortex-A9](https://zh.wikipedia.org/wiki/ARM架構 "wikilink") [Exynos 4412](https://zh.wikipedia.org/wiki/Exynos "wikilink") 1.4GHz 四核 CPU。

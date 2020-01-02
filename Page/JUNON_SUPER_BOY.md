@@ -1,3 +1,6 @@
+> 本文内容由[JUNON SUPER BOY](https://zh.wikipedia.org/wiki/JUNON_SUPER_BOY)转换而来。
+
+
 **JUNON SUPER BOY**，是由「主婦與生活社」發行的月刊雜誌「[JUNON](https://zh.wikipedia.org/wiki/JUNON "wikilink")」所主辦的美男子選拔賽。
 
 自1988年起開始舉辦，每年一回，進行情況揭載於月刊雜誌「JUNON」。

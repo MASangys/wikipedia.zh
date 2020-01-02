@@ -1,3 +1,6 @@
+> 本文内容由[魔王 JUVENILE REMIX](https://zh.wikipedia.org/wiki/魔王_JUVENILE_REMIX)转换而来。
+
+
 《**魔王 JUVENILE REMIX**》（）是在2007年27號開始連載於[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")上的漫畫作品，原作是[伊坂幸太郎](../Page/伊坂幸太郎.md "wikilink")，由[大須賀惠](../Page/大須賀惠.md "wikilink")作畫。
 
 由伊坂幸太郎的小說《[魔王](https://zh.wikipedia.org/wiki/魔王_\(小說\) "wikilink")》改編，將內容大幅度加工成為適合的少年漫畫，所以標題加上JUVENILE REMIX（JUVENILE意思是少年的），本作亦有描寫伊坂幸太郎的另一本小說《[-{蚱蜢}-](https://zh.wikipedia.org/wiki/蚱蜢_\(小說\) "wikilink")》（中文版由獨步文化出版）的人物故事，除了《-{蚱蜢}-》伊坂其他作品的關鍵字亦會出現。

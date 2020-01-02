@@ -1,3 +1,6 @@
+> 本文内容由[BAMBOO BLADE](https://zh.wikipedia.org/wiki/BAMBOO_BLADE)转换而来。
+
+
 《**BAMBOO BLADE**》是[土塚理弘原作](https://zh.wikipedia.org/wiki/土塚理弘 "wikilink")、[五十嵐あぐり作畫的以](https://zh.wikipedia.org/wiki/五十嵐あぐり "wikilink")[劍道](../Page/劍道.md "wikilink")為題材的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。從2004年12月3日在雜誌[YOUNG GANGAN上](../Page/YOUNG_GANGAN.md "wikilink")（創刊號）連載，於2010年9月17日（Vol.18）完結。台灣中文版由[尚禾出版社代理](https://zh.wikipedia.org/wiki/尚禾出版社 "wikilink")。於2007年10月改編為[電視動畫並開始播放](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，於2008年3月播放完畢。而[香港有線電視兒童台由](https://zh.wikipedia.org/wiki/香港有線電視兒童台 "wikilink")2009年7月6日起播映。
 
 自2009年起，本作被称作日本第一女子剑道漫画\[1\]。

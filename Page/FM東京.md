@@ -1,3 +1,6 @@
+> 本文内容由[FM東京](https://zh.wikipedia.org/wiki/FM東京)转换而来。
+
+
 [Tokyo_fm_headquarter.jpg](https://zh.wikipedia.org/wiki/File:Tokyo_fm_headquarter.jpg "fig:Tokyo_fm_headquarter.jpg")[千代田區](../Page/千代田區.md "wikilink")[麴町](../Page/麴町.md "wikilink")（[半藏門](https://zh.wikipedia.org/wiki/半藏門 "wikilink")）的FM東京總部大樓。\]\] [TOKYO_FM_Spainzaka_studio.jpg](https://zh.wikipedia.org/wiki/File:TOKYO_FM_Spainzaka_studio.jpg "fig:TOKYO_FM_Spainzaka_studio.jpg")的FM東京[西班牙坂](../Page/西班牙坂.md "wikilink")錄音室。攝於2010年1月11日。2016年8月7日起暫時關閉，預計2019年重新啟用。\]\]
 
 **FM東京**（；，常縮寫為「TFM」）是[日本](../Page/日本.md "wikilink")一家[民營](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")，以[東京都](../Page/東京都.md "wikilink")為廣播範圍，為[JFN](../Page/JFN.md "wikilink")聯播網的[核心局](../Page/核心局.md "wikilink")。開播於1970年4月26日，是日本第三個以身份設立的[FM廣播電台](https://zh.wikipedia.org/wiki/FM廣播 "wikilink")，次於及。目前為其最大股東。

@@ -1,3 +1,6 @@
+> 本文内容由[Bebe Mignon](https://zh.wikipedia.org/wiki/Bebe_Mignon)转换而来。
+
+
 **Bebe Mignon**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：베베 미뇽），是由Vibe的尹民秀親自培訓和製作的韓國三人女子抒情團體，於2010年出道。 成員包括[Ben](https://zh.wikipedia.org/wiki/李恩英 "wikilink")、[Hae Geum及](https://zh.wikipedia.org/wiki/Hae_Geum "wikilink")[Ga Eul](https://zh.wikipedia.org/wiki/Ga_Eul "wikilink")。於出道前曾被稱為女版的[4Men](https://zh.wikipedia.org/wiki/4Men "wikilink")。然而推出第三張專輯後，便沒有團體活動。
 
 2015年12月17日成員Ben在廣播節目上表示"Bebe Mignon現在是已經解散的狀態。" \[1\]

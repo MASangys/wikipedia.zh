@@ -1,3 +1,6 @@
+> 本文内容由[饮水思源BBS](https://zh.wikipedia.org/wiki/饮水思源BBS)转换而来。
+
+
 [SJTUBBS_web.PNG](https://zh.wikipedia.org/wiki/File:SJTUBBS_web.PNG "fig:SJTUBBS_web.PNG")
 
 **饮水思源BBS**，全称为**[上海交通大学饮水思源BBS站](https://zh.wikipedia.org/wiki/上海交通大学 "wikilink")**，由上海交通大学的唐双意老师和学生方哲（账号Only）、陶冶（账号ty）等人于1996年4月18日创建，站名取自上海交通大学的校训“饮水思源，爱国荣校”。目前其主管部门是上海交通大学网络信息工作领导小组，现有版面450个\[1\]。自2018年起，饮水思源BBS限制为只能在上海交通大学校园网访问（具有jAccount帐号的上海交通大学的师生可以用VPN连接到校园网后访问）。

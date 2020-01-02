@@ -1,3 +1,6 @@
+> 本文内容由[海猫悲鸣时 episode3 - Banquet of the golden witch](https://zh.wikipedia.org/wiki/海猫悲鸣时_episode3_-_Banquet_of_the_golden_witch)转换而来。
+
+
 《**海貓悲鳴時 episode3 - Banquet of the golden witch**》是日本[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")[07th Expansion所製作的](../Page/07th_Expansion.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《[海貓悲鳴時](../Page/海貓悲鳴時.md "wikilink")》的第三部。游戏於2008年夏季的[Comic Market](../Page/Comic_Market.md "wikilink")74發表。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Door Crawl](https://zh.wikipedia.org/wiki/Door_Crawl)转换而来。
+
+
 『**Door Crawl**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2007年12月12日發售的第15張單曲\[1\]。
 
 ## 概要

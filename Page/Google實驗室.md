@@ -1,3 +1,6 @@
+> 本文内容由[Google實驗室](https://zh.wikipedia.org/wiki/Google實驗室)转换而来。
+
+
 [Labs_logo2.gif](https://zh.wikipedia.org/wiki/File:Labs_logo2.gif "fig:Labs_logo2.gif") **Google實驗室**（**Google Labs**）是一個用來演示[Google](../Page/Google.md "wikilink")還在測試階段的新項目產品的網站。它也作為一個正開發中新服務的試驗場。另外，也是Google在發出產品最後版本前收集用戶意見的途徑。但不是所有Google服務都會透過這實驗室來測試，有些測試版是透過邀請用家來測試的，例如[Gmail](../Page/Gmail.md "wikilink")與[Google日曆](../Page/Google日曆.md "wikilink")。 2006年起，所有Google實驗室產品都有一個一致的標誌，就是標誌裡附有一個[燒瓶](https://zh.wikipedia.org/wiki/燒瓶 "wikilink")，和使用灰色標題，這也正相反於其他有顏色的Google產品，例如[Google新聞和](https://zh.wikipedia.org/wiki/Google新聞 "wikilink")[Google地圖](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")。這也用來提醒用戶這些產品可能還有問題，或可能不適合一般使用。 2011年7月，[Google](../Page/Google.md "wikilink")宣布中止Google实验室\[1\]，大部分实验项目被中止，少数项目移动到了搜索主页。
 
 ## 現時產品／服務

@@ -1,3 +1,6 @@
+> 本文内容由[Google混搭編輯器](https://zh.wikipedia.org/wiki/Google混搭編輯器)转换而来。
+
+
 **Google Mashup Editor**是Google提供的一个[混搭创作服务](../Page/混搭_\(互聯網\).md "wikilink")。
 
 在關閉前，Google Mashup Editor还是一个限制性的服务，只提供给少数的开发者。要使用Google Mashup Editor，首先需要申请邀请。

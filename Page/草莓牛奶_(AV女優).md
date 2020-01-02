@@ -1,3 +1,6 @@
+> 本文内容由[草莓牛奶 \(AV女優\)](https://zh.wikipedia.org/wiki/草莓牛奶_\(AV女優\))转换而来。
+
+
 **草莓牛奶**（，），[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")出身的[AV女優](../Page/AV女優.md "wikilink")。[T-POWERS](../Page/T-POWERS.md "wikilink")所屬。
 
 ## 經歷

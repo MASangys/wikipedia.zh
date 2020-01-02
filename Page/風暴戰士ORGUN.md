@@ -1,3 +1,6 @@
+> 本文内容由[風暴戰士ORGUN](https://zh.wikipedia.org/wiki/風暴戰士ORGUN)转换而来。
+
+
 《**風暴戰士ORGUN**》是1991年～1992年販售的[柿沼秀樹原作的](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。全3話。
 
 ## 故事簡介

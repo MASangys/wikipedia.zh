@@ -1,3 +1,6 @@
+> 本文内容由[HK G3自動步槍](https://zh.wikipedia.org/wiki/HK_G3自動步槍)转换而来。
+
+
 **HK G3**是德國[黑克勒-科赫公司於](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")1950年代，以[StG45突擊步槍](../Page/StG45突擊步槍.md "wikilink")為基礎所改進的現代化[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，口徑為[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO](https://zh.wikipedia.org/wiki/NATO "wikilink")。
 
 ## 歷史

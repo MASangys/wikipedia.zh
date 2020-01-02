@@ -1,3 +1,6 @@
+> 本文内容由[I remember you](https://zh.wikipedia.org/wiki/I_remember_you)转换而来。
+
+
 《**I remember you**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")的第六張單曲碟，於2006年9月20日推出。並且首次推出了附有DVD的初回限定版。
 
 ## 收錄歌曲

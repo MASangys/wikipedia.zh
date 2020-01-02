@@ -1,3 +1,6 @@
+> 本文内容由[Music Macro Language](https://zh.wikipedia.org/wiki/Music_Macro_Language)转换而来。
+
+
 [The_Graffitied_SharpCorporation_MZ-80_BASIC_Manuals_Document_copy.jpg](https://zh.wikipedia.org/wiki/File:The_Graffitied_SharpCorporation_MZ-80_BASIC_Manuals_Document_copy.jpg "fig:The_Graffitied_SharpCorporation_MZ-80_BASIC_Manuals_Document_copy.jpg") [1987](https://zh.wikipedia.org/wiki/1987 "wikilink")
 **MZ-80 BASIC Manual**第110页。
 *这起源MML（开放源码）*。\]\] **Music Macro Language**是[電腦上所使用表示](https://zh.wikipedia.org/wiki/電腦 "wikilink")[樂譜的語言之一](https://zh.wikipedia.org/wiki/樂譜 "wikilink")，它以[循序的方式來表示樂譜](https://zh.wikipedia.org/wiki/循序 "wikilink")。它有可能會和以[XML](../Page/XML.md "wikilink")技術發展的[Music Markup Language搞混](https://zh.wikipedia.org/wiki/Music_Markup_Language "wikilink")，因兩者縮寫皆為[MML](https://zh.wikipedia.org/wiki/MML "wikilink")，且[HTML](../Page/HTML.md "wikilink")與XML都有**ML**做結尾。在[線上遊戲](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[瑪奇中也支援了簡易的MML格式樂譜](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")。

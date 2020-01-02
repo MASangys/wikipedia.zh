@@ -1,3 +1,6 @@
+> 本文内容由[1st 超Berryz](https://zh.wikipedia.org/wiki/1st_超Berryz)转换而来。
+
+
 「**1st 超Berryz**」（1st 超ベリーズ）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第1枚原創專輯。於2004年7月7日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要

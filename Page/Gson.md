@@ -1,3 +1,6 @@
+> 本文内容由[Gson](https://zh.wikipedia.org/wiki/Gson)转换而来。
+
+
 **Gson**（又称[Google](../Page/Google.md "wikilink") Gson）是[Google](../Page/Google.md "wikilink")公司發布的一个開放原始碼的[Java](../Page/Java.md "wikilink")库，主要用途為[序列化](../Page/序列化.md "wikilink")[Java](../Page/Java.md "wikilink")物件為[JSON](../Page/JSON.md "wikilink")字串，或反[序列化](../Page/序列化.md "wikilink")[JSON](../Page/JSON.md "wikilink")字串成[Java](../Page/Java.md "wikilink")物件。
 
 ## 歷史

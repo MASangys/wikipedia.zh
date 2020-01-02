@@ -1,3 +1,6 @@
+> 本文内容由[GA 藝術科美術設計班](https://zh.wikipedia.org/wiki/GA_藝術科美術設計班)转换而来。
+
+
 是的[四格漫畫](../Page/四格漫畫.md "wikilink")作品。
 
 在《》創刊時開始連載，至第三號廢刊為止。後來在《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單篇短篇，並於同年11月號開始連載至2016年2月號（2015年12月）。

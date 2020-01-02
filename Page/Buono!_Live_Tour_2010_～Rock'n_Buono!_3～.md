@@ -1,3 +1,6 @@
+> 本文内容由[Buono! Live Tour 2010 ～Rock\'n Buono! 3～](https://zh.wikipedia.org/wiki/Buono!_Live_Tour_2010_～Rock\'n_Buono!_3～)转换而来。
+
+
 『**Buono\! Live Tour 2010 ～Rock'n Buono\! 3～**』（） 是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的Live影像。
 
 ## 收錄曲

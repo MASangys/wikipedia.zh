@@ -1,3 +1,6 @@
+> 本文内容由[LET IT GO \(迷你專輯\)](https://zh.wikipedia.org/wiki/LET_IT_GO_\(迷你專輯\))转换而来。
+
+
 **《LET IT GO》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink") Dance組合[SS501](../Page/SS501.md "wikilink")主唱[許永生](../Page/許永生.md "wikilink")的個人首張迷你專輯。音源於5月12日通過各音樂網站公開。
 
 主打歌《LET IT GO》CD featuring為[4minute](../Page/4minute.md "wikilink")的[泫雅](../Page/金泫雅.md "wikilink")，現場featuring為同門師妹[SPICA中的成員](../Page/SPICA_\(組合\).md "wikilink")[是炫](../Page/朴是炫.md "wikilink")，以男人漠不關心的態度和女人渴望被愛的兩種男女不同的角度，唱出男女對愛情的差異。\[1\]

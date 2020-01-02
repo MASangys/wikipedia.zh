@@ -1,3 +1,6 @@
+> 本文内容由[JoJo](https://zh.wikipedia.org/wiki/JoJo)转换而来。
+
+
 **喬安娜·李文絲奇**（，），藝名為**JoJo**，是美國一位[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[流行音樂歌手](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")、唱片製作人和演員。她的個人首張同名專輯，在告示牌200排行榜裡排名第4，並獲得[RIAA的白金認證](https://zh.wikipedia.org/wiki/RIAA "wikilink")。
 
 她的第二張專輯《The High Road》在2006年10月17日發行，並在告示牌200排行榜裡排名第3。這張專輯連計單曲，一共在全球發行超過一千萬張。她也開始了演藝事業，JoJo在2006年演出了兩套電影，分別是**和**。JoJo正在準備個人第三張專輯*《》*，預計在2009年發行。

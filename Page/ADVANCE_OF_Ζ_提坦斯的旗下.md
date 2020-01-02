@@ -1,3 +1,6 @@
+> 本文内容由[ADVANCE OF Ζ 提坦斯的旗下](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_提坦斯的旗下)转换而来。
+
+
 《**ADVANCE OF Ζ 提坦斯的旗下** 》（，*ADVANCE OF Ζ THE FLAG OF TITANS*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[小说](../Page/小说.md "wikilink")之一，由[今野敏主笔创作](https://zh.wikipedia.org/wiki/今野敏 "wikilink")，有同名漫画，
 
 ## 概要

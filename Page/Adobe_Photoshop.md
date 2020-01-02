@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Photoshop](https://zh.wikipedia.org/wiki/Adobe_Photoshop)转换而来。
+
+
 **Adobe Photoshop**，简称“**PS**”，是一个由Adobe开发和发行的[图像处理](../Page/图像处理.md "wikilink")[软件](../Page/软件.md "wikilink")。该软件发布在[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS上](../Page/麦金塔操作系统.md "wikilink")。
 
 Photoshop由和[约翰·诺尔](../Page/约翰·诺尔.md "wikilink")在1988年首次发布新版本。自那时起，它已经在位图成为受欢迎的标准，到这时，Photoshop已成为一个通用商标，导致它逐渐演变成俚语，如“to Photoshop an image”，“Photoshopping”和“photoshop contest”，但是Adobe建议不要这样的使用。它可以编辑和合成多个图层中的位图，支持图层遮罩、图像合成和包含RGB、CMYK、CIELAB、专色通道和双色调等多种颜色模型。PS图象处理软件对许多图形文件格式都有支持，并且它也使用自己的PSD和PSB文件格式来支持上述所有功能。除了位图之外，它还具有编辑或渲染文本、矢量图形（特别是通过剪辑路径）、3D图形和视频。Photoshop的功能可以通过Photoshop插件、独立于PS图象处理软件开发和分发的程序来扩展，这些程序可以在其内部运行并提供增强的或者是全新的功能。

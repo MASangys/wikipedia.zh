@@ -1,3 +1,6 @@
+> 本文内容由[BBS](https://zh.wikipedia.org/wiki/BBS)转换而来。
+
+
 **電子佈告欄系統**（，缩写作 ****）是一種網站系統，是目前流行[網路論壇的前身](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，它允许用户使用终端程序通过[调制解调器](../Page/调制解调器.md "wikilink")拨接或者[因特网来进行连接](https://zh.wikipedia.org/wiki/因特网 "wikilink")，BBS站台提供佈告欄、分類討論區、新闻阅读、軟體下载與上传、遊戲、与其它用户線上對話等功能。
 
 ## BBS的歷史

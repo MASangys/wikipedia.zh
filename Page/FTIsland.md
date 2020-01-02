@@ -1,3 +1,6 @@
+> 本文内容由[FTIsland](https://zh.wikipedia.org/wiki/FTIsland)转换而来。
+
+
 **FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI** / **FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
 
 樂隊的應援物是小黃旗。歌迷被稱為「**Primadonna**」（義大利文），即「女主角」的意思，簡稱為「**PRI**」。官方應援物名稱：Pentastick。

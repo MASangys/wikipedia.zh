@@ -1,3 +1,6 @@
+> 本文内容由[KEROKERO ACE](https://zh.wikipedia.org/wiki/KEROKERO_ACE)转换而来。
+
+
 **KEROKERO ACE**（）是[日本](../Page/日本.md "wikilink")[角川書店](../Page/角川書店.md "wikilink")於2007年10月26日創刊的漫畫雜誌並兼具[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[電玩與](https://zh.wikipedia.org/wiki/電玩 "wikilink")[動畫情報](https://zh.wikipedia.org/wiki/動畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，在電視廣告時，曾經請來聲優[池田秀一](../Page/池田秀一.md "wikilink")（成名角色：[夏亞](https://zh.wikipedia.org/wiki/夏亞 "wikilink")）與[渡邊久美子](../Page/渡邊久美子.md "wikilink")（成名角色：[KERORO軍曹](https://zh.wikipedia.org/wiki/KERORO軍曹 "wikilink")）擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")。
 
 ## 連載作品

@@ -1,3 +1,6 @@
+> 本文内容由[Discuz!NT](https://zh.wikipedia.org/wiki/Discuz!NT)转换而来。
+
+
 **Discuz\!NT**产品是**康盛创想（北京）科技有限公司**（Comsenz）推出的一款**[网络论坛](../Page/网络论坛.md "wikilink")**程序，同**[Discuz\!](../Page/Discuz!.md "wikilink")**一样，是一个[源碼公開的网络论坛程序](https://zh.wikipedia.org/wiki/开放原始码 "wikilink")。Discuz\!NT采用[微软](../Page/微软.md "wikilink")[.NET语言开发](https://zh.wikipedia.org/wiki/.NET "wikilink")，主要适用于[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") NT/2003系列[服务器](../Page/服务器.md "wikilink")环境建构。现在最新发行版本为Discuz\!NT3.9。
 
 ## 运行平台

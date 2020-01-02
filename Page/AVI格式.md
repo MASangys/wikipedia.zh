@@ -1,3 +1,6 @@
+> 本文内容由[AVI格式](https://zh.wikipedia.org/wiki/AVI格式)转换而来。
+
+
 **AVI**是英语**Audio Video Interleave**（“音频视频交织”或译为“音频视频交错”）的首字母缩写，由[微软](../Page/微软.md "wikilink")在1992年11月推出的一种[多媒体文件格式](../Page/视频文件格式.md "wikilink")，用于对抗[苹果](../Page/苹果.md "wikilink")[Quicktime的技术](https://zh.wikipedia.org/wiki/Quicktime "wikilink")。现在所说的AVI多是指一种封装格式。
 
 ## AVI封装概述

@@ -1,3 +1,6 @@
+> 本文内容由[MFC \(微軟\)](https://zh.wikipedia.org/wiki/MFC_\(微軟\))转换而来。
+
+
 **微软基础类库**（，简称**MFC**）是一个[微软公司提供的类库](https://zh.wikipedia.org/wiki/微软公司 "wikilink")（class libraries），以[C++](../Page/C++.md "wikilink")类的形式封装了[Windows API](../Page/Windows_API.md "wikilink")，并且包含一个（也是微软产品的唯一一个）应用程序框架，以减少应用程序开发人员的工作量。其中包含的类包含大量Windows[句柄](../Page/句柄.md "wikilink")封装类和很多Windows的内建控件和组件的封装类。
 
 ## 特性

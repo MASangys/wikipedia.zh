@@ -1,3 +1,6 @@
+> 本文内容由[GO！純情水泳社！](https://zh.wikipedia.org/wiki/GO！純情水泳社！)转换而来。
+
+
 《**GO！純情水泳社！**》（，直譯為《健康全裸游泳社 海商》\[1\]），簡稱《海商》（），副標題「健康全裸系水泳社」，是於2005年的《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》33號開始連載的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於2007年7月3日[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")，更於同年秋季推出[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，於2007年10月25日發售[5gk.製作的](https://zh.wikipedia.org/wiki/5gk. "wikilink")[PS2平台遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")。無論是漫畫版還是動畫版，也是[殺必死](../Page/殺必死.md "wikilink")極多的作品。漫画版至第七卷，累计销量为40万部\[2\]。
 
 ## 故事簡介

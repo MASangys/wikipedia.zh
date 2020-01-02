@@ -1,3 +1,6 @@
+> 本文内容由[IFolder](https://zh.wikipedia.org/wiki/IFolder)转换而来。
+
+
 **iFolder** 是一個由[Novell Inc.開發的](../Page/Novell.md "wikilink"),[开放源代码](../Page/开放源代码.md "wikilink")軟體，目的是讓不同的[不同的操作系統在網絡上進行](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[檔案分享](../Page/檔案分享.md "wikilink")。
 
 iFolder 用了[目錄分享的概念](https://zh.wikipedia.org/wiki/目錄 "wikilink")，若有一個目錄標籤成要分享的目錄，目錄裡的內容就會和網絡內其他電腦進行同步，可以以[點對點技術或透過](https://zh.wikipedia.org/wiki/點對點技術 "wikilink")[伺服器傳送](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。這要讓單一用戶和不同的電腦進行檔案同步或者與其他用戶分享檔案。

@@ -1,3 +1,6 @@
+> 本文内容由[Jumping](https://zh.wikipedia.org/wiki/Jumping)转换而来。
+
+
 「**Jumping**」是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，2010年11月10日由DSP Media發售；**Jumpin**」（）同时也是[KARA的第二张日本单曲](https://zh.wikipedia.org/wiki/KARA "wikilink")，2010年11月10日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 迷你专辑

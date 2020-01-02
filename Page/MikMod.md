@@ -1,3 +1,6 @@
+> 本文内容由[MikMod](https://zh.wikipedia.org/wiki/MikMod)转换而来。
+
+
 **MikMod**是一个[tracker文件播放器](https://zh.wikipedia.org/wiki/tracker "wikilink")，起初由Jean-Paul Mikkers编写，支持许多格式，如[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")，[S3M](https://zh.wikipedia.org/wiki/S3M "wikilink")，[IT与](https://zh.wikipedia.org/wiki/IT "wikilink")[XM](https://zh.wikipedia.org/wiki/XM "wikilink")。MikMod是分成两个部分；前端称为MikMod，函数库则称为libmikmod。
 
 ## 前端

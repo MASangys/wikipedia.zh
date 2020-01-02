@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(N05\)](https://zh.wikipedia.org/wiki/ATC代码_\(N05\))转换而来。
+
+
 ## N05A [抗精神病药](https://zh.wikipedia.org/wiki/抗精神病药 "wikilink")（Antipsychotics）
 
 ### N05AA 带有脂肪族侧链的[吩噻嗪](../Page/吩噻嗪.md "wikilink")类（Phenothiazines with aliphatic side-chain）

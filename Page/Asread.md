@@ -1,3 +1,6 @@
+> 本文内容由[Asread](https://zh.wikipedia.org/wiki/Asread)转换而来。
+
+
 **asread**是一間企劃、製作[日本動畫的公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Jump連載作品列表](https://zh.wikipedia.org/wiki/週刊少年Jump連載作品列表)转换而来。
+
+
 **週刊少年Jump連載作品列表**列出所有在[集英社](../Page/集英社.md "wikilink")的[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（創刊時為「少年Jump」）上連載的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")（按連載時間順序排列）。
 
 ※連載中的作品以**粗體字**標記。

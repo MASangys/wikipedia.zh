@@ -1,3 +1,6 @@
+> 本文内容由[F2Y海標式噴射水上戰鬥機](https://zh.wikipedia.org/wiki/F2Y海標式噴射水上戰鬥機)转换而来。
+
+
 **F2Y海標式**（）是[美國唯一研製過的](https://zh.wikipedia.org/wiki/美國 "wikilink")[噴射](https://zh.wikipedia.org/wiki/噴射機 "wikilink")[水上](../Page/水上飛機.md "wikilink")[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，1947年委託[康維爾研製](https://zh.wikipedia.org/wiki/康維爾 "wikilink")，1953年在試飛成功，但由於技術和實際使用的問題，最終失敗收場。
 
 ## 基本資料

@@ -1,3 +1,6 @@
+> 本文内容由[ATI Radeon HD 4000](https://zh.wikipedia.org/wiki/ATI_Radeon_HD_4000)转换而来。
+
+
 **ATI Radeon HD 4000**系列，其显示核心代号**Radeon R700**，由[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")（[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")）研发并推出。Radeon HD 4000系列的第一款產品是RV770[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，採用此晶片的[顯示卡名為Radeon](https://zh.wikipedia.org/wiki/顯示卡 "wikilink") HD 4850，有800個流處理器。而核心頻率更高的HD 4870及HD 4890緊隨其後，更率先採用[GDDR5](../Page/GDDR5.md "wikilink")作為顯示記憶體。最高端顯示卡採用R700核心，是一款雙晶片顯示卡產品，名為HD 4870 X2。
 
 ## 背景

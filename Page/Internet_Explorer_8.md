@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer 8](https://zh.wikipedia.org/wiki/Internet_Explorer_8)转换而来。
+
+
 **Windows Internet Explorer 8**（簡稱**IE8**）是[微軟所開發的一個](https://zh.wikipedia.org/wiki/微軟 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。這個軟體於2009年3月19日首次發行適用於[Windows的版本](https://zh.wikipedia.org/wiki/Windows "wikilink")，雖然它的後續版本[IE9已推出](https://zh.wikipedia.org/wiki/IE9 "wikilink")，但由於不支援[Windows XP](../Page/Windows_XP.md "wikilink")，所以IE8在初期還是十分普及。IE8內建於[Windows 7以及](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows Server 2008 R2中](../Page/Windows_Server_2008.md "wikilink")，作為預設的網頁瀏覽器\[1\]，同時也發行了[Windows XP SP2和](https://zh.wikipedia.org/wiki/Windows_XP_SP2 "wikilink")[Windows Vista的版本供使用者下載](../Page/Windows_Vista.md "wikilink")。
 
 IE8是首款通過[Acid2](../Page/Acid2.md "wikilink")測試也是最後一個通過該測試的主要的網頁瀏覽器。雖然它在[Acid3](../Page/Acid3.md "wikilink")測試中僅獲得24/100的分數，但據微軟所說，安全性、易用性和對[RSS](../Page/RSS.md "wikilink")、[CSS及](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink")[Ajax的改善與支持是IE](https://zh.wikipedia.org/wiki/Ajax "wikilink")8的優勢\[2\]\[3\]。IE8是最後一款支援Windows XP的版本的IE。

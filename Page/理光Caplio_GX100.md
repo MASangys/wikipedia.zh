@@ -1,3 +1,6 @@
+> 本文内容由[理光Caplio GX100](https://zh.wikipedia.org/wiki/理光Caplio_GX100)转换而来。
+
+
 [Caplio_GX100_IMG_0466.JPG](https://zh.wikipedia.org/wiki/File:Caplio_GX100_IMG_0466.JPG "fig:Caplio_GX100_IMG_0466.JPG") **Caplio GX100**，為[理光](../Page/理光.md "wikilink")[數位相機](https://zh.wikipedia.org/wiki/數位相機 "wikilink")[Caplio GX8的後繼機種](https://zh.wikipedia.org/wiki/Caplio_GX8 "wikilink")。機身採[鋁鎂合金鑄造](https://zh.wikipedia.org/wiki/鋁鎂合金 "wikilink")，搭載等效[焦距](../Page/焦距.md "wikilink") 24 毫米 ～ 72 毫米（換算35mm相機視角。實際[焦距](../Page/焦距.md "wikilink")為 5.1 毫米 - 15.3 毫米）的超廣角3倍[變焦鏡頭](https://zh.wikipedia.org/wiki/變焦鏡頭 "wikilink")、CCD[防手震](https://zh.wikipedia.org/wiki/防手震 "wikilink")、七片[光圈](../Page/光圈.md "wikilink")葉片以及可拆卸的電子[觀景窗](https://zh.wikipedia.org/wiki/觀景窗 "wikilink")，並支援外接[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")。繼承了Caplio GX系列「追求輕巧的同時滿足專業攝影工作的需求」的方向。
 
 ## 主要規格

@@ -1,3 +1,6 @@
+> 本文内容由[Keroro軍曹商品列表](https://zh.wikipedia.org/wiki/Keroro軍曹商品列表)转换而来。
+
+
 **Keroro軍曹商品列表**為動漫作品《[Keroro軍曹](../Page/Keroro軍曹.md "wikilink")》周邊商品的介紹，漫畫及動畫DVD除外。
 
 ## 特刊

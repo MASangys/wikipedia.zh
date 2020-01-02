@@ -1,3 +1,6 @@
+> 本文内容由[Dailymotion](https://zh.wikipedia.org/wiki/Dailymotion)转换而来。
+
+
 [Dailymotion_logo.png](https://zh.wikipedia.org/wiki/File:Dailymotion_logo.png "fig:Dailymotion_logo.png") **Dailymotion**（中譯：**每日影像**）是一家視訊分享[網站](../Page/網站.md "wikilink")，總部位於[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎十七區](https://zh.wikipedia.org/wiki/巴黎十七區 "wikilink")。它的[域名](../Page/域名.md "wikilink")在[YouTube](../Page/YouTube.md "wikilink")之後一個月注冊。Dailymotion最广为人知的特点之一就是其提供支援开放格式[ogg的視訊](https://zh.wikipedia.org/wiki/ogg "wikilink")\[1\]。和同類型的其他[Flash視訊分享網站相比](../Page/Adobe_Flash.md "wikilink")，Dailymotion以其短片具有高清晰畫質而聞名\[2\]。到2008年1月，每天上傳到該站的短片大約是16,000，網頁瀏覽次數平均一天超過2600萬次\[3\]。2008年1月，Dailymotion的[Alexa全球網站排名為](../Page/Alexa_Internet.md "wikilink")38\[4\]。母公司為[威望迪](https://zh.wikipedia.org/wiki/威望迪 "wikilink")。
 
 ## 簡介

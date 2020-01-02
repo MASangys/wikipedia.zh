@@ -1,3 +1,6 @@
+> 本文内容由[EXILE EVOLUTION](https://zh.wikipedia.org/wiki/EXILE_EVOLUTION)转换而来。
+
+
 『**EXILE EVOLUTION**』（官方中譯：放浪進化論）是[EXILE第](https://zh.wikipedia.org/wiki/EXILE "wikilink")5張原創[專輯](../Page/音樂專輯.md "wikilink")，於2007年3月7日發售。
 
 ## 解說

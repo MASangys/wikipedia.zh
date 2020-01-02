@@ -1,3 +1,6 @@
+> 本文内容由[IOS软件开发工具包](https://zh.wikipedia.org/wiki/IOS软件开发工具包)转换而来。
+
+
 **iOS軟體開發工具包**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**iOS SDK** (**S**oftware **D**evelopment **K**it)；又名：**iPhone SDK**）是蘋果公司提供的iOS的應用程式開發環境。2008年2月公佈初版。啟動iOS SDK 的最低需求： Mac OS X Leopard 及以上系統。其他的作業系統，包括[微軟的視窗系统和舊版的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Mac OS X系統都不支援](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。在通過蘋果App Store上架審查機制後，如果是付費軟體，銷售總額蘋果抽30%，軟體開發者可得剩下70%收入。
 
 ## 开发历史

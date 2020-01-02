@@ -1,3 +1,6 @@
+> 本文内容由[BASQUASH!](https://zh.wikipedia.org/wiki/BASQUASH!)转换而来。
+
+
 《**BASQUASH\!**》（）是由[SATELIGHT](../Page/SATELIGHT.md "wikilink")所製作的日法合作動畫作品。全26話。
 
 ## 故事簡介

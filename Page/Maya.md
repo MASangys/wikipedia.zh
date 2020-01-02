@@ -1,3 +1,6 @@
+> 本文内容由[Maya](https://zh.wikipedia.org/wiki/Maya)转换而来。
+
+
 **Maya**（或譯作**瑪雅**）是相當高階而且複雜的[三維计算机圖形](../Page/三维计算机图形.md "wikilink")[软件](../Page/软件.md "wikilink")，被廣泛用于[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣告](../Page/廣告.md "wikilink")、[電腦遊戲和](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[電視遊戲等的数码特效創作](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")。曾獲[奧斯卡科學技術貢獻獎等殊榮](https://zh.wikipedia.org/wiki/奧斯卡 "wikilink")。
 
 ## 历史

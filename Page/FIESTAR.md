@@ -1,3 +1,6 @@
+> 本文内容由[FIESTAR](https://zh.wikipedia.org/wiki/FIESTAR)转换而来。
+
+
 **FIESTAR**（）為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")5人女子團體，成員來自韓國和中國，每位成員都歷經了至少四年的練習生生涯，成員為[金珍希](https://zh.wikipedia.org/wiki/金珍希 "wikilink")（Jei）、[曹璐](../Page/曹璐.md "wikilink")、[金惠美](https://zh.wikipedia.org/wiki/金惠美 "wikilink")（惠美）、[林珉志](https://zh.wikipedia.org/wiki/林珉志 "wikilink")（Linzy）、[利禮智](../Page/Yezi.md "wikilink")（Yezi），經紀公司為[Fave Entertainment](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")\[1\]。曾和[IU等前輩一起組成Loen](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") Tree，為公司發行夏日特別專輯《夏日故事》（Summer Story）。
 
 Fiestar為Fiesta跟Star兩個字合在一起的複合字，Fiesta為[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")「祭典」的意思、star為[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「星星」的意思。\[2\]组合口号：Let's FIESTAR，粉絲名稱:Let's。

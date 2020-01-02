@@ -1,3 +1,6 @@
+> 本文内容由[Io \(樂團\)](https://zh.wikipedia.org/wiki/Io_\(樂團\))转换而来。
+
+
 **io**，是一個音樂品牌，一種信念，一份對音樂的堅持，io 是 I and ALL。
 io是一在[臺灣](../Page/臺灣.md "wikilink")發跡的[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由音樂製作人也是團長暨吉他手的 [陳思翰](../Page/陳思翰_\(音樂人\).md "wikilink") ([Hans](../Page/陳思翰_\(音樂人\).md "wikilink"))，與主唱[陳逸年](https://zh.wikipedia.org/wiki/陳逸年 "wikilink")（Angus）、鼓手[潘國笙](https://zh.wikipedia.org/wiki/潘國笙 "wikilink")（Cody）最初於2002年3月在[加拿大](../Page/加拿大.md "wikilink")[溫哥華](../Page/溫哥華.md "wikilink")組成，三人有著深刻的淵源，交錯的國小同學及國中同學的身份，因為音樂結合。
 

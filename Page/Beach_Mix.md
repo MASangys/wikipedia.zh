@@ -1,3 +1,6 @@
+> 本文内容由[Beach Mix](https://zh.wikipedia.org/wiki/Beach_Mix)转换而来。
+
+
 《**Beach Mix**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2012年8月1日發行的5th[混音專輯](https://zh.wikipedia.org/wiki/混音專輯 "wikilink")。
 
 ## 解說

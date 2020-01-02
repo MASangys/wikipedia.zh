@@ -1,3 +1,6 @@
+> 本文内容由[武仙座DQ](https://zh.wikipedia.org/wiki/武仙座DQ)转换而来。
+
+
 **武仙座DQ**（或**武仙座新星 1934**）是一顆在1934年於[武仙座](../Page/武仙座.md "wikilink")爆發的明亮慢[新星](../Page/新星.md "wikilink")，它的[視星等曾達到](https://zh.wikipedia.org/wiki/視星等 "wikilink")1.5等。
 
 座標：

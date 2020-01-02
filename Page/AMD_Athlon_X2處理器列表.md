@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon X2處理器列表](https://zh.wikipedia.org/wiki/AMD_Athlon_X2處理器列表)转换而来。
+
+
 [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") **[Athlon X2](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")**微处理器前后分别基于AMD [Athlon 64 X2和](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")[Phenom架构体系](https://zh.wikipedia.org/wiki/Phenom "wikilink")，最早的Athlon X2处理器是低功耗的Athlon 64 X2 *Brisbane*处理器，并且最新即将于2008年第二季度发布的处理器是基于[K10](https://zh.wikipedia.org/wiki/K10 "wikilink") *Kuma* 核心的处理器。
 
 ## Athlon X2（基于 [Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")）

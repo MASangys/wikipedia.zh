@@ -1,3 +1,6 @@
+> 本文内容由[Backbone.js](https://zh.wikipedia.org/wiki/Backbone.js)转换而来。
+
+
 **Backbone.js**是一套[JavaScript](../Page/JavaScript.md "wikilink")框架與[RESTful](https://zh.wikipedia.org/wiki/REST "wikilink") [JSON](../Page/JSON.md "wikilink")的[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")。也是一套大致上符合[MVC](../Page/MVC.md "wikilink")架構的[編程範型](https://zh.wikipedia.org/wiki/編程範型 "wikilink")。Backbone.js以輕量為特色，只需依賴一套Javascript [函式庫](../Page/函式庫.md "wikilink")即可運行\[1\]。常被用來開發單頁的網際網路應用程式\[2\]，以及用來維護網路應用程式的各種部份（例如多使用者與伺服器端）的同步\[3\]。Backbone.js是由Jeremy Ashkenas所開發，他同時也是[CoffeeScript](../Page/CoffeeScript.md "wikilink")的開發者\[4\]。
 
 ## 使用

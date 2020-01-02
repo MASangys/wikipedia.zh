@@ -1,3 +1,6 @@
+> 本文内容由[GP2系列賽](https://zh.wikipedia.org/wiki/GP2系列賽)转换而来。
+
+
 [Gp2_2.jpg](https://zh.wikipedia.org/wiki/File:Gp2_2.jpg "fig:Gp2_2.jpg") **GP2**是一项由FIA認證的[方程式赛车赛事](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")，於2005年首次舉行。所有參賽賽車的底盤由意大利[Dallara提供](https://zh.wikipedia.org/wiki/Dallara "wikilink")，4.0公升V8引擎則是由雷諾供應。
 
 2005年，为[F1培养了许多车手的](https://zh.wikipedia.org/wiki/F1 "wikilink")[F3000比赛停止举办](https://zh.wikipedia.org/wiki/F3000 "wikilink")，**GP2**此时应运而生。GP2馬力達到600匹，比不足500匹的F3000更加接近F1的性能，更加配合車手的培育需要。

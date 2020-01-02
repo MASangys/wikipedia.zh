@@ -1,3 +1,6 @@
+> 本文内容由[My Space \(蔡健雅專輯\)](https://zh.wikipedia.org/wiki/My_Space_\(蔡健雅專輯\))转换而来。
+
+
 《**My Space**》是[蔡健雅的第七張國語專輯](https://zh.wikipedia.org/wiki/蔡健雅 "wikilink")。此張專輯入圍[第20屆金曲獎](https://zh.wikipedia.org/wiki/第20屆金曲獎 "wikilink")[最佳國語女歌手獎](../Page/最佳國語女歌手獎_\(金曲獎\).md "wikilink")。
 
 ## 專輯介紹

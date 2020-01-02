@@ -1,3 +1,6 @@
+> 本文内容由[GNU計劃](https://zh.wikipedia.org/wiki/GNU計劃)转换而来。
+
+
 [Heckert_GNU_white.svg](https://zh.wikipedia.org/wiki/File:Heckert_GNU_white.svg "fig:Heckert_GNU_white.svg")的頭像\]\]
 
 **GNU计划**（），又譯為**革奴计划**，是一個[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[集體協作计划](https://zh.wikipedia.org/wiki/集體協作 "wikilink")，1983年9月27日由[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")在[麻省理工學院公开发起](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")。它的目標是创建一套完全[自由的](../Page/自由软件.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，稱為[GNU](../Page/GNU.md "wikilink")。理查德·斯托曼最早在net.unix-wizards[新闻组](../Page/新闻组.md "wikilink")上公布该消息，并附带一份《[GNU宣言](../Page/GNU宣言.md "wikilink")》等解释为何发起该计划的文章，其中一个理由就是要“重现当年软件界合作互助的团结精神”。

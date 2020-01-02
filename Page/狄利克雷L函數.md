@@ -1,3 +1,6 @@
+> 本文内容由[狄利克雷L函數](https://zh.wikipedia.org/wiki/狄利克雷L函數)转换而来。
+
+
 在[數學中](https://zh.wikipedia.org/wiki/數學 "wikilink")，**狄利克雷L函數**是[狄利克雷級數的特例](https://zh.wikipedia.org/wiki/狄利克雷級數 "wikilink")，它是形如下式的複變數函數
 
 \[L(s,\chi) = \sum_{n=1}^\infty \frac{\chi(n)}{n^s}.\]

@@ -1,3 +1,6 @@
+> 本文内容由[Diva \(音樂團體\)](https://zh.wikipedia.org/wiki/Diva_\(音樂團體\))转换而来。
+
+
 **Diva**（）是1990年代韓國Hip-hop舞蹈女子團體。成立於1997年，於2006年解散。成員經過三次調動，解散前成員為Vicky和Zinnie。
 
 ## 成員簡介

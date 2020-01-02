@@ -1,3 +1,6 @@
+> 本文内容由[鋼之錬金術師 FULLMETAL ALCHEMIST FINAL BEST](https://zh.wikipedia.org/wiki/鋼之錬金術師_FULLMETAL_ALCHEMIST_FINAL_BEST)转换而来。
+
+
 ## 概要
 
 本專輯為 鋼之鍊金術師TV(FULLMETAL ALCHEMIST) 2010的精選輯。

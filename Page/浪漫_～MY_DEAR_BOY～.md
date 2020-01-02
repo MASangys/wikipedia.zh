@@ -1,3 +1,6 @@
+> 本文内容由[浪漫 ～MY DEAR BOY～](https://zh.wikipedia.org/wiki/浪漫_～MY_DEAR_BOY～)转换而来。
+
+
 《**浪漫 ～MY DEAR BOY～**》（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第23张[单曲](../Page/单曲.md "wikilink")，於2004年5月12日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[電擊大王GENESIS](https://zh.wikipedia.org/wiki/電擊大王GENESIS)转换而来。
+
+
 《**電擊大王GENESIS**》是[日本](../Page/日本.md "wikilink")[ASCII Media Works公司所發行的一本的漫畫雜誌](../Page/ASCII_Media_Works.md "wikilink")，奇數月發行。《電擊大王GENESIS》以[青年漫畫為主](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，2010年1月19日創刊。
 
 ## 連載作品

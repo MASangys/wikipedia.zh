@@ -1,3 +1,6 @@
+> 本文内容由[魔兽争霸II：黑潮](https://zh.wikipedia.org/wiki/魔兽争霸II：黑潮)转换而来。
+
+
 是即時戰略遊戲《[魔獸爭霸：獸人與人類](https://zh.wikipedia.org/wiki/魔獸爭霸：獸人與人類 "wikilink")》的續作。該作發行於1995年12月，是由暴雪娛樂開發的。玩家將再次操控獸人或人類，在一個擁有劍與魔法的幻想的世界中進行遊戲。
 
 該遊戲最初是為MS-DOS版本，還有一個Mac OS版本的遊戲。[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")還發布了一個資料片－《[魔兽争霸II：黑暗之门](../Page/魔兽争霸II：黑暗之门.md "wikilink")》。在1996年4月30日，暴雪發布《魔獸爭霸2：黑暗浪潮》的Microsoft Windows版本。

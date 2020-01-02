@@ -1,3 +1,6 @@
+> 本文内容由[IEEE 829](https://zh.wikipedia.org/wiki/IEEE_829)转换而来。
+
+
 **IEEE 829-1998**，也被称做**829软件测试文档标准**，作为一个[IEEE的标准定义了一套文档用于](https://zh.wikipedia.org/wiki/IEEE "wikilink")8个已定义的[软件测试](../Page/软件测试.md "wikilink")阶段，每个阶段可能产生它自己单独的文件类型。这个标准定义了文档的格式但是没有规定它们是否必须全部被应用，也不包括这些文档中任何相关的其它标准的内容。
 
   - [测试计划](https://zh.wikipedia.org/wiki/测试计划 "wikilink")：一个管理计划的文档 包括：

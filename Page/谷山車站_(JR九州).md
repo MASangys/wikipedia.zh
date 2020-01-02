@@ -1,3 +1,6 @@
+> 本文内容由[谷山車站 \(JR九州\)](https://zh.wikipedia.org/wiki/谷山車站_\(JR九州\))转换而来。
+
+
 [Taniyama_station_barrier.JPG](https://zh.wikipedia.org/wiki/File:Taniyama_station_barrier.JPG "fig:Taniyama_station_barrier.JPG")
 
 **谷山車站**（）是一位於[日本](../Page/日本.md "wikilink")[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")[鹿兒島市谷山中央](https://zh.wikipedia.org/wiki/鹿兒島市 "wikilink")1丁目4127號，[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")[指宿枕崎線](../Page/指宿枕崎線.md "wikilink")沿線的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。

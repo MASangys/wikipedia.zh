@@ -1,3 +1,6 @@
+> 本文内容由[Apache Derby](https://zh.wikipedia.org/wiki/Apache_Derby)转换而来。
+
+
 **Apache Derby**是[Apache軟件基金會所研發的開放源碼](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[資料庫管理系統](https://zh.wikipedia.org/wiki/資料庫管理系統 "wikilink")；由於Derby是一個純[Java](../Page/Java.md "wikilink")程式，因此只需要[操作系統支援](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[Java虛擬機](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")，Derby便可執行。
 
 ## 特性

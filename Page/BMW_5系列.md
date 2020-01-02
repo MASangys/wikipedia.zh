@@ -1,3 +1,6 @@
+> 本文内容由[BMW 5系列](https://zh.wikipedia.org/wiki/BMW_5系列)转换而来。
+
+
 **BMW 5系列**是[德國汽車製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")[BMW](../Page/BMW.md "wikilink")自1972年開始生產的中型轎車系列，介於[3系列與](../Page/BMW_3系列.md "wikilink")[7系列之間的車款](../Page/BMW_7系列.md "wikilink")，現在已經推出到第7代。
 
 與之在性能及價格上同級的競爭對手為[梅赛德斯-奔驰E级](../Page/梅赛德斯-奔驰E级.md "wikilink")和[奧迪A6](https://zh.wikipedia.org/wiki/奧迪A6 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Make my day](https://zh.wikipedia.org/wiki/Make_my_day)转换而来。
+
+
 **Make my day**是日本女歌手[新垣結衣](../Page/新垣結衣.md "wikilink")，於2008年7月16日所推出的單曲碟。
 
 ## 收錄歌曲

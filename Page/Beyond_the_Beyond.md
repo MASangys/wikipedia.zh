@@ -1,3 +1,6 @@
+> 本文内容由[Beyond the Beyond](https://zh.wikipedia.org/wiki/Beyond_the_Beyond)转换而来。
+
+
 《**Beyond the Beyond**》（），是由[Camelot Software Planning开发](https://zh.wikipedia.org/wiki/Camelot_Software_Planning "wikilink")，[索尼电脑娱乐于](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")1995年发行的[PlayStation游戏](../Page/PlayStation_\(遊戲機\).md "wikilink")。游戏也是Camelot独立后的第一部作品\[1\]。虽然游戏并非PlayStation上的第一款角色扮演游戏，但在[最终幻想和](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[梦幻之星](../Page/梦幻之星.md "wikilink")的发布之前，《Beyond the Beyond》是唯一一款在欧美发布的传统日式角色扮演游戏\[2\]。
 
 ## 操作

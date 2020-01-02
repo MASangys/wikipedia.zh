@@ -1,3 +1,6 @@
+> 本文内容由[APS-95突擊步槍](https://zh.wikipedia.org/wiki/APS-95突擊步槍)转换而来。
+
+
 **APS-95**是由[克羅地亞Končar](https://zh.wikipedia.org/wiki/克羅地亞 "wikilink")-Arma d.o.o自1995年生產的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，該槍直至2007年為止仍有出口。
 
 ## 發展

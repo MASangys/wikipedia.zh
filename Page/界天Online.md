@@ -1,3 +1,6 @@
+> 本文内容由[界天Online](https://zh.wikipedia.org/wiki/界天Online)转换而来。
+
+
 《**界天 Online**》是由[昱泉國際開發的](https://zh.wikipedia.org/wiki/昱泉國際股份有限公司 "wikilink")3D大型多人在線角色扮演遊戲。
 
 ## 研發與營運歷程

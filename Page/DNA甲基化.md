@@ -1,3 +1,6 @@
+> 本文内容由[DNA甲基化](https://zh.wikipedia.org/wiki/DNA甲基化)转换而来。
+
+
 [DNA_methylation.jpg](https://zh.wikipedia.org/wiki/File:DNA_methylation.jpg "fig:DNA_methylation.jpg")基因调控中起重要作用。\]\]
 
 **DNA甲基化**（）為[DNA化學修飾的一種形式](https://zh.wikipedia.org/wiki/DNA "wikilink")，能在不改變DNA序列的前提下，改變遺傳表現。為[表觀遺傳編碼](https://zh.wikipedia.org/wiki/表關遺傳編碼 "wikilink")（epigenetic code）的一部分，是一種[外遺傳機制](https://zh.wikipedia.org/wiki/外遺傳學 "wikilink")。DNA甲基化過程會使[甲基添加到DNA分子上](https://zh.wikipedia.org/wiki/甲基 "wikilink")，例如在[胞嘧啶](../Page/胞嘧啶.md "wikilink")環的5'碳上：這種[5'方向的DNA甲基化方式可見於所有脊椎動物](https://zh.wikipedia.org/wiki/方向性 "wikilink")。

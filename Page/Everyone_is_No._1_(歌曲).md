@@ -1,3 +1,6 @@
+> 本文内容由[Everyone is No. 1 \(歌曲\)](https://zh.wikipedia.org/wiki/Everyone_is_No._1_\(歌曲\))转换而来。
+
+
 《 **Everyone is No.1** 》为十首[北京2008年残奥会优秀歌曲之一](https://zh.wikipedia.org/wiki/2008年夏季残奥会 "wikilink")\[1\]，由2008年残奥会“爱心大使”[刘德华演唱](https://zh.wikipedia.org/wiki/刘德华 "wikilink")，[陈德建作曲](https://zh.wikipedia.org/wiki/陈德建 "wikilink")，刘德华与[李安修](../Page/李安修.md "wikilink")共同作词。“Everyone Is No.1”意为“每个人都是第一”\[2\]。
 
 刘德华在1999年获选为香港残奥代表，在赴[悉尼](../Page/悉尼.md "wikilink")[2000年夏季残奥会比赛时他看到残疾勇士努力练习](https://zh.wikipedia.org/wiki/2000年夏季残奥会 "wikilink")、不懈努力，那种的神情让刘德华当场感动的哭了。刘德华表示，希望借这首歌激励每一个人，一个身体残缺的人都能够再站起来，更何况是肢体健全的人呢？希望所有人都能学习这样的运动精神。\[3\]刘德华在9分50秒的MV中化身残疾人运动员。

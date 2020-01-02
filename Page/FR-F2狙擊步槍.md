@@ -1,3 +1,6 @@
+> 本文内容由[FR-F2狙擊步槍](https://zh.wikipedia.org/wiki/FR-F2狙擊步槍)转换而来。
+
+
 **FR-F2**（；）是[法國軍隊的制式](https://zh.wikipedia.org/wiki/法國軍隊 "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，以[FR-F1改進而成](../Page/FR-F1狙擊步槍.md "wikilink")。
 
 ## 簡介

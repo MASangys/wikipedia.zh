@@ -1,3 +1,6 @@
+> 本文内容由[Active Server Pages](https://zh.wikipedia.org/wiki/Active_Server_Pages)转换而来。
+
+
 **動態伺服器網頁**（英文：**A**ctive **S**erver **P**ages，简称**ASP**），由[微软](../Page/微软.md "wikilink")公司开发的[服务器](../Page/服务器.md "wikilink")端运行的脚本平台，它被[Windows下](https://zh.wikipedia.org/wiki/Windows "wikilink")[Internet Information Services (IIS)的程式所管理](https://zh.wikipedia.org/wiki/IIS "wikilink")。透過ActiveX server的技術讓不同的使用者能有不同的畫面，或需要讓他們可以存取[服务器](../Page/服务器.md "wikilink")（server）上的資料時，使用ASP3.0中提供了五個內建的物件建立模擬和安全性的動態內容，來協助[程序员](../Page/程序员.md "wikilink")隱藏複雜的溝通機制，讓[程序员](../Page/程序员.md "wikilink")可以專注在解決問題和應用之上，這樣可以更快速地开发动态网页的同時每一个组件都是可以由一组富有经验的[程序员](../Page/程序员.md "wikilink")根据动态网页最常用的功能而獨立开发。
 
 ## ASP的特色

@@ -1,3 +1,6 @@
+> 本文内容由[A SUMMER BEST](https://zh.wikipedia.org/wiki/A_SUMMER_BEST)转换而来。
+
+
 《**A SUMMER BEST**》（A 濱紛夏日精選）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2012年8月8日發行的夏日歌曲精選輯組合。本作發行後，濱崎步在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上的唱片累計銷量正式突破五千萬枚。
 
 ## 說明

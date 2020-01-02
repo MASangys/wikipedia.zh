@@ -1,3 +1,6 @@
+> 本文内容由[Circus \(台灣樂團\)](https://zh.wikipedia.org/wiki/Circus_\(台灣樂團\))转换而来。
+
+
 **CIRCUS**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[花蓮縣](../Page/花蓮縣.md "wikilink")4位[大學生所組成的團體](https://zh.wikipedia.org/wiki/大學生 "wikilink")／樂團，成員有[廖人帥](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")（LEO）、[黃尹宣](../Page/黃尹宣.md "wikilink")（EASON）、[林柏昇](../Page/林柏昇.md "wikilink")（KID）、[林家緯](../Page/林家緯.md "wikilink")（小馬）。團體以創作及拍攝的搞怪等單元之影片而為人所熟悉。
 
 CIRCUS四人在2004年在「Channel V」 节目《CIRCUS ACTION》正式出道，團體並於2008年轉型為樂團。

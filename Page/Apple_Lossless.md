@@ -1,3 +1,6 @@
+> 本文内容由[Apple Lossless](https://zh.wikipedia.org/wiki/Apple_Lossless)转换而来。
+
+
 ****（）為蘋果的無損音頻壓縮編碼格式，可將非壓縮音頻格式（[WAV](../Page/WAV.md "wikilink")、[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")）壓縮至原先容量的40%至60%左右，編解碼速度很快。也因為是無損壓縮，聽起來與原檔案完全一樣，不會因解壓縮和壓縮而改變。
 
 ALAC与MP3的主要分别在于编码过程中，MP3会取消小部分高频及低频部分的音频数据，而ALAC则会如实记录，不会删除音频中任何细节数据。由于资料无损，ALAC音频文件大小会比MP3大，通常每片音乐CD（约70至80分钟）经ALAC编码后，音频文件大小约300MB。

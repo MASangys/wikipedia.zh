@@ -1,3 +1,6 @@
+> 本文内容由[ATSUSHI](https://zh.wikipedia.org/wiki/ATSUSHI)转换而来。
+
+
 **ATSUSHI**（）是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")。[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")、RED DIAMOND DOGS的主唱、原[COLOR的主唱兼製作](../Page/DEEP_\(歌手組合\).md "wikilink")。
 
 [埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")出身。身高175cm。
@@ -1281,7 +1284,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 | 年    | 賞                                                                                                     | 部門         | 作品                |
 | ---- | ----------------------------------------------------------------------------------------------------- | ---------- | ----------------- |
 | 2013 | [MTV Video Music Awards Japan](https://zh.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink") | 最優秀男性歌手錄像奬 | MELROSE 〜不能相愛的約定〜 |
-| 2014 | 第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")                                                            | 最優秀歌唱獎     |                   |
+| 2014 | 第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")                                                            | 最優秀歌唱獎     | Precious Love     |
 
 ## 商業搭配
 
@@ -1391,49 +1394,26 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink") [Category:日本唱片大獎最優秀歌唱獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀歌唱獎獲獎者 "wikilink") [Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  [EXILE ATSUSHI 単独インタビュー！ - ENTERTAINMENT - X BRAND](http://xbrand.yahoo.co.jp/category/entertainment/7039/1.html)
-
 2.
-
 3.
-
 4.  [ミリアム・ヨンがEXILEと共演で大興奮！ATSUSHIに広東語レッスンも―日本](http://www.excite.co.jp/News/asia_ent/20100821/Recordchina_20100821009.html)
-
 5.  [「EXILE」ATSUSHI、中国デビュー！発音バッチリ名曲「我願意」カバー](http://hochi.yomiuri.co.jp/entertainment/news/20120112-OHT1T00329.htm)
-
 6.  [日本が誇るトップアーティスト30名によるビートルズカバー、先行配信でTOP10に迫る](http://www.barks.jp/news/?id=1000076703)
-
 7.  [ATSUSHIが中華圏で初授賞！「アジア・アーティスト・スター賞」を受賞！](http://exile.jp/news/20120706_2.html)
-
 8.  [EXILE ATSUSHIの甘い歌声に浸る……全国6都市ソロライブ](http://natalie.mu/music/news/74749)
-
 9.
-
 10.
-
 11.
-
 12. 取自雜誌vivi連載「ATSUSHI的JAM SESSION」。
-
 13. 退出後，至到2009年7月為止擔任製作。
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19. [EXILE　ATSUSHI　PREMIUM　LIVE　～命をうたう～ - TBS](http://www.tbs.co.jp/program/exile_atsushi_premium_live.html)
-
 20. [EXILE　ATSUSHI　PREMIUM　LIVE - TBS](http://www.tbs.co.jp/program/exile_atsushi_live_20160107.html)
-
 21.
-
 22. 「The Roots」是個人披露。
-
 23. 及後ATSUSHI的個人1st專輯「Solo」也有收錄、這此收錄與原創不同音樂編排的版本。
-
 24.

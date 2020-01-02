@@ -1,3 +1,6 @@
+> 本文内容由[馬格普FMG-9衝鋒槍](https://zh.wikipedia.org/wiki/馬格普FMG-9衝鋒槍)转换而来。
+
+
 **FMG-9**是一款由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[馬格普工業公司](../Page/馬格普工業公司.md "wikilink")研製的可摺式[衝鋒槍原型](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，在2008年的中首次亮相。FMG全稱Folding Machine Gun，數字9即指FMG所發射的9毫米口徑。
 
 ## 設計

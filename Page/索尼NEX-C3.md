@@ -1,3 +1,6 @@
+> 本文内容由[索尼NEX-C3](https://zh.wikipedia.org/wiki/索尼NEX-C3)转换而来。
+
+
 **索尼 NEX-C3**是索尼于2011年6月15日发售的一款[α品牌](https://zh.wikipedia.org/wiki/Sony_α "wikilink")[微单™](https://zh.wikipedia.org/wiki/微单 "wikilink")[数码相机](../Page/数码相机.md "wikilink")。作为[索尼 NEX-3的升级产品](https://zh.wikipedia.org/wiki/索尼_NEX-3 "wikilink")，在外观上NEX-C3与前者的大致相同。索尼 NEX-3则于C3发售当日宣布停产。
 
 ## 规格

@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia U](https://zh.wikipedia.org/wiki/索尼Xperia_U)转换而来。
+
+
 **Sony Xperia U**是[索尼移动通信](../Page/索尼移动通信.md "wikilink")2012年推出，採用[Android](../Page/Android.md "wikilink")作業系統的中階[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，屬於[Xperia NXT系列](../Page/Xperia.md "wikilink")，於2012年[國際消費電子展發佈](https://zh.wikipedia.org/wiki/國際消費電子展 "wikilink")。
 
 ## 硬件

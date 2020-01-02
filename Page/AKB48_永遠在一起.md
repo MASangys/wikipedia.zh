@@ -1,3 +1,6 @@
+> 本文内容由[AKB48 永遠在一起](https://zh.wikipedia.org/wiki/AKB48_永遠在一起)转换而来。
+
+
 《**AKB48 永遠在一起**》（，又可直譯為「AKB48紀錄電影：少女們即使受傷，也在努力實現夢想」）是一部2012年1月27日在日本國內首映、以女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")為主角的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。由曾經拍過多部AKB48[音樂影片的](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")[高橋榮樹](../Page/高橋榮樹.md "wikilink")[執導](https://zh.wikipedia.org/wiki/導演 "wikilink")，其宣傳標語為「AKB48一邊受傷，一邊面對困難，是不屈的偶像團體。」（）
 
 ## 簡介

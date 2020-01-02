@@ -1,3 +1,6 @@
+> 本文内容由[F·W·穆瑙](https://zh.wikipedia.org/wiki/F·W·穆瑙)转换而来。
+
+
 **F·W·穆瑙**（[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")：**Friedrich Wilhelm Murnau**、）是[默片時代最有影響力的導演之一](https://zh.wikipedia.org/wiki/默片 "wikilink")，出生於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")，後來前往[好萊塢發展](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")。
 
 ## 生平

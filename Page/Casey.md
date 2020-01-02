@@ -1,3 +1,6 @@
+> 本文内容由[Casey](https://zh.wikipedia.org/wiki/Casey)转换而来。
+
+
 **Casey**是一款西文[無襯線體](https://zh.wikipedia.org/wiki/無襯線體 "wikilink")，是[九廣鐵路公司](../Page/九廣鐵路公司.md "wikilink")為其[鐵路系統](../Page/九廣鐵路.md "wikilink")[企業形象而設計的字體](https://zh.wikipedia.org/wiki/企業形象 "wikilink")。Casey字體家族細分下可分成Casey Regular、Casey Medium和Casey Bold。
 
 ## 由來

@@ -1,3 +1,6 @@
+> 本文内容由[Google潮流同步](https://zh.wikipedia.org/wiki/Google潮流同步)转换而来。
+
+
 **Google潮流同步**（，官方又译**Google新鲜汇**）是一个[Google](../Page/Google.md "wikilink")于2011年11月发布的社会化移动阅读器。支持[Android](../Page/Android.md "wikilink")以及[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 Google Currents会处理包括[Forbes](https://zh.wikipedia.org/wiki/Forbes "wikilink")，[CNET](../Page/CNET.md "wikilink")，[ReadWriteWeb](../Page/ReadWriteWeb.md "wikilink")，[IBN Live](https://zh.wikipedia.org/wiki/IBN_Live "wikilink")，[Zigwheels等相关资源后展示给用户](https://zh.wikipedia.org/wiki/Zigwheels "wikilink")。并且还支持离线阅读，可以展示世界、娱乐、体育和科学等各类最热门的突发新闻。Google Currents还支持将期刊内容翻译成多达44种用户喜好的语言。 \[1\]并且还支持离线阅读，Google Currents还支持将期刊内容翻译成多达44种用户喜好的语言。此外，Google Currents还可以阅读来自用户的[Google阅读器](../Page/Google阅读器.md "wikilink")中已订阅的内容。

@@ -1,3 +1,6 @@
+> 本文内容由[DEEN](https://zh.wikipedia.org/wiki/DEEN)转换而来。
+
+
 **DEEN**，是[日本](../Page/日本.md "wikilink")的一個搖滾樂團，現在團員為[池森秀一](https://zh.wikipedia.org/wiki/池森秀一 "wikilink")、。
 
 ## 經歷

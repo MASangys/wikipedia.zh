@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful days \(嵐\)](https://zh.wikipedia.org/wiki/Beautiful_days_\(嵐\))转换而来。
+
+
 《**Beautiful days**》是[嵐](../Page/嵐.md "wikilink")的第24枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年11月5日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。收錄於精選專輯《[1999-2009 完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》。
 
 ## 解說

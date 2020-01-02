@@ -1,3 +1,6 @@
+> 本文内容由[MetaPost](https://zh.wikipedia.org/wiki/MetaPost)转换而来。
+
+
 **MetaPost**是一个[程序语言和它的](https://zh.wikipedia.org/wiki/程序语言 "wikilink")[编译器的名字](https://zh.wikipedia.org/wiki/编译器 "wikilink")，衍生于[高德纳](../Page/高德纳.md "wikilink")的[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。MetaPost擅长通过数学描述制作矢量图，生成的图片为[PostScript](../Page/PostScript.md "wikilink")格式。它的语法来自[Metafont](https://zh.wikipedia.org/wiki/Metafont "wikilink")。
 
 ## 实例

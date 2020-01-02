@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM 00](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00)转换而来。
+
+
 《**機動戰士GUNDAM 00**》（）是[GUNDAM系列的](../Page/GUNDAM系列作品.md "wikilink")[電視動畫第](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")12部作品。本動畫共分兩季，第一季共25話於2007年10月至2008年3月間在[每日放送](../Page/每日放送.md "wikilink")（MBS）、[東京放送](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")（TBS）系列播放，第二季於2008年10月5日起播出。本動畫亦是GUNDAM系列首次以[HDTV的方式播放](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
 
 故事起始時間為公元2307年，描寫4位操控人型機動兵器「GUNDAM」（「[-{GUNDAM}-](../Page/GUNDAM.md "wikilink")」）的GUNDAM機師，為了把戰爭從世界上根絕而戰鬥。標題的「00」是2個[數字](https://zh.wikipedia.org/wiki/阿拉伯數字 "wikilink")0，讀作「」，這是由於英語中的「Zero」，用作數字時可發音為「“oh”（）」\[1\]。

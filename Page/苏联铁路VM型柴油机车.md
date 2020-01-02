@@ -1,3 +1,6 @@
+> 本文内容由[苏联铁路VM型柴油机车](https://zh.wikipedia.org/wiki/苏联铁路VM型柴油机车)转换而来。
+
+
 **VM型柴油机车**（）是[苏联铁路的第一代实验性柴油机车车型之一](../Page/苏联铁路运输.md "wikilink")，由[科洛姆纳机车厂于](../Page/科洛姆纳工厂.md "wikilink")1934年研制成功，仅试制一台并未投入批量生产。该型机车是根据[交通人民委员部及](https://zh.wikipedia.org/wiki/交通人民委员部 "wikilink")[国家政治保卫总局](../Page/国家政治保卫总局.md "wikilink")的指示，在[Э<sup>эл</sup>型柴油机车的基础上研制而成](https://zh.wikipedia.org/wiki/苏联铁路Eel型柴油机车 "wikilink")，也是苏联第一种双节式[重联的柴油机车](../Page/機車重聯.md "wikilink")，以当时的[苏联人民委员会主席](https://zh.wikipedia.org/wiki/苏联人民委员会主席 "wikilink")[维亚切斯拉夫·莫洛托夫命名](../Page/维亚切斯拉夫·米哈伊洛维奇·莫洛托夫.md "wikilink")。
 
 ## 技术特点

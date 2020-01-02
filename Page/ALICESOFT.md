@@ -1,3 +1,6 @@
+> 本文内容由[ALICESOFT](https://zh.wikipedia.org/wiki/ALICESOFT)转换而来。
+
+
 **ALICESOFT**（）是隸屬於冠軍軟體公司（Champion Soft，）的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，於1989年成立。
 
 ## 公司發展

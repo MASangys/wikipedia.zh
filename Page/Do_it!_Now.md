@@ -1,3 +1,6 @@
+> 本文内容由[Do it! Now](https://zh.wikipedia.org/wiki/Do_it!_Now)转换而来。
+
+
 「**Do it\! Now**」是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第15张[单曲](../Page/单曲.md "wikilink")，於2002年7月24日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

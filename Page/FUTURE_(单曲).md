@@ -1,3 +1,6 @@
+> 本文内容由[FUTURE \(单曲\)](https://zh.wikipedia.org/wiki/FUTURE_\(单曲\))转换而来。
+
+
 《**FUTURE**》是日本女性歌手・[Stephanie的第七张单曲](https://zh.wikipedia.org/wiki/Stephanie "wikilink")，SME Records 2009年4月29日发售，商品番号SECL-718。
 
 ## 解説

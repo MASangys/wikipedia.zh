@@ -1,3 +1,6 @@
+> 本文内容由[福特Sierra](https://zh.wikipedia.org/wiki/福特Sierra)转换而来。
+
+
 **福特Sierra**是一款歐洲[福特所推出的中型家庭房車](https://zh.wikipedia.org/wiki/福特 "wikilink")，[台灣市場稱為](https://zh.wikipedia.org/wiki/台灣 "wikilink")**福特新銳**，是由福特歐洲部門在1982年至1993年生產販售。此車款和定位更高一階的[福特Scorpio](../Page/福特Scorpio.md "wikilink")（1986年推出，台灣市場稱為福特天蠍星）在動力系統上及[變速箱共用](https://zh.wikipedia.org/wiki/變速箱 "wikilink")。
 
 ## 歷史

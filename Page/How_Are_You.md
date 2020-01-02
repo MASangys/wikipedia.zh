@@ -1,3 +1,6 @@
+> 本文内容由[How Are You](https://zh.wikipedia.org/wiki/How_Are_You)转换而来。
+
+
 《How Are You》（CD + DVD）是香港歌手[葉宇澄](../Page/葉宇澄.md "wikilink")第二張個人專輯，第一張個人大碟，於2006年6月30日推出。全碟共收錄十二首作品，當中六首曾收錄於第一張個人專輯內，其餘六首為新歌。
 
 ## 曲目

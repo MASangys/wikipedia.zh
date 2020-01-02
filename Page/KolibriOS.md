@@ -1,3 +1,6 @@
+> 本文内容由[KolibriOS](https://zh.wikipedia.org/wiki/KolibriOS)转换而来。
+
+
 **Kolibri**（又称KolibriOS）是一个极小的开源的32位（x86架构）[操作系统](../Page/操作系统.md "wikilink")，现已开发完毕。
 
 ## 功能

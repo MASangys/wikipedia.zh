@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D08\)](https://zh.wikipedia.org/wiki/ATC代码_\(D08\))转换而来。
+
+
 ## D08A 消毒灭菌药（Antiseptics and disinfectants）
 
 ### D08AA [吖啶衍生物](https://zh.wikipedia.org/wiki/吖啶衍 "wikilink")（Acridine derivatives）

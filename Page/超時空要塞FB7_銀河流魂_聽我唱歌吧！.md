@@ -1,3 +1,6 @@
+> 本文内容由[超時空要塞FB7 銀河流魂 聽我唱歌吧！](https://zh.wikipedia.org/wiki/超時空要塞FB7_銀河流魂_聽我唱歌吧！)转换而来。
+
+
 「**Macross FB7・銀河流魂**」（）是「[超時空要塞Macross](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")」（）30周年最新作，定于2012年10月20日上映。 \[1\]
 
 ## 概要

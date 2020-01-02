@@ -1,3 +1,6 @@
+> 本文内容由[B-Z反应](https://zh.wikipedia.org/wiki/B-Z反应)转换而来。
+
+
 [Bzr_fotos.jpg](https://zh.wikipedia.org/wiki/File:Bzr_fotos.jpg "fig:Bzr_fotos.jpg")
 
 **B-Z反应**（**Belousov-Zhabotinsky反应**），也称**BZ反应**、**B-Z振荡反应**（**BZR**），是一类著名的[化学振荡反应](https://zh.wikipedia.org/wiki/化学振荡反应 "wikilink")，也是[非平衡热力学的经典例子](https://zh.wikipedia.org/wiki/非平衡态热力學 "wikilink")。它有很多版本，其中最常见的反应是[铈](../Page/铈.md "wikilink")作催化剂时，[丙二酸](../Page/丙二酸.md "wikilink")在[稀硫酸水溶液中被](https://zh.wikipedia.org/wiki/稀硫酸 "wikilink")[溴酸盐](../Page/溴酸盐.md "wikilink")氧化的反应，方程式如下：

@@ -1,3 +1,6 @@
+> 本文内容由[Love Love Love \(綜藝節目\)](https://zh.wikipedia.org/wiki/Love_Love_Love_\(綜藝節目\))转换而来。
+
+
 《**Love Love Love**》是[Channel V](../Page/Channel_V.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）播出的愛情[綜藝節目](../Page/綜藝節目.md "wikilink")，於2009年7月3日逢星期五晚22:00-23:30播映。而於2009年9月4日起，節目縮減30分鐘播映時間至22:00-23:00播映。
 
 ## 簡介

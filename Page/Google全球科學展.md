@@ -1,3 +1,6 @@
+> 本文内容由[Google全球科學展](https://zh.wikipedia.org/wiki/Google全球科學展)转换而来。
+
+
 [Google-sciencefair-logo.jpg](https://zh.wikipedia.org/wiki/File:Google-sciencefair-logo.jpg "fig:Google-sciencefair-logo.jpg")
 
 **Google Science Fair**（简称“GSF”）是一个在线科学竞赛，由[Google](../Page/Google.md "wikilink")、[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")、[欧洲核子研究组织](https://zh.wikipedia.org/wiki/欧洲核子研究组织 "wikilink")、[国家地理以及](https://zh.wikipedia.org/wiki/国家地理 "wikilink")[科学美国人](../Page/科学美国人.md "wikilink")组成。\[1\]\[2\]\[3\]第一届Google Science Fair曾经于2011年1月宣布，所有的参赛作品于[北美东部时区](../Page/北美东部时区.md "wikilink")2011年4月7日下午11:59:59前提交，在2011年7月评判。此竞赛向13-18岁的世界各地的学生开放，参赛者将首先制定一个假设，之后进行实验，取得研究成果。\[4\]\[5\]所有的参赛者都必须通过网络和免费的[Google帐户参与](https://zh.wikipedia.org/wiki/Google帐户 "wikilink")，通过此项目的[英语](../Page/英语.md "wikilink")，[德语](../Page/德语.md "wikilink")，[意大利语](../Page/意大利语.md "wikilink")，[西班牙语](../Page/西班牙语.md "wikilink")，或[法语](../Page/法语.md "wikilink")网站提交项目。\[6\]最终的提交必须包括十部分，分别是摘要，“关于我”页面，该项目的步骤，以及项目引用页。\[7\]
@@ -57,35 +60,20 @@ Jonah Kohn赢得了年龄13-14组的冠军，他设计和制造了用于提高�
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:科學與社會](https://zh.wikipedia.org/wiki/Category:科學與社會 "wikilink") [Category:2011年建立的週期性事件](https://zh.wikipedia.org/wiki/Category:2011年建立的週期性事件 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
-
 13. <http://www.google.com/events/sciencefair/blog.html>
-
 14.
-
 15. New York Times [First-Place Sweep by American Girls at First Google Science Fair](http://www.nytimes.com/2011/07/19/science/19google.html?_r=1) July 19, 2011
-
 16.
-
 17.
-
 18.

@@ -1,3 +1,6 @@
+> 本文内容由[Clear \(遊戲\)](https://zh.wikipedia.org/wiki/Clear_\(遊戲\))转换而来。
+
+
 《**Clear**》（）是由[日本](../Page/日本.md "wikilink")[MOONSTONE](../Page/MOONSTONE.md "wikilink")於2007年8月24日推出的[PC平台的](../Page/电脑游戏.md "wikilink")[戀愛冒險類型](../Page/戀愛冒險遊戲.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，MOONSTONE開發的第六部遊戲。2009年2月19日推出[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Clear ～在吹起新風的山丘上～》（）。\[1\]遊戲共有初回版和通常版兩種版本。\[2\]\[3\]初回版附送了三份額外的禮物：一塊四方形的時鐘；一本印有遊戲圖像的硬皮畫冊和一張書本附帶的[廣播劇](../Page/廣播劇.md "wikilink")CD碟；還有兩盤原聲音樂碟\[4\]。在遊戲推出以前，以其劇情為藍本的[漫畫在](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[雜誌](../Page/漫畫雜誌.md "wikilink")《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》上連載，連載期間是從2007年6月到2008年5月。角色[CD](../Page/CD.md "wikilink")[單曲於](https://zh.wikipedia.org/wiki/單曲 "wikilink")2007年5月（遊戲推出的三個月以前）推出。遊戲的迷你[音樂專輯](../Page/音樂專輯.md "wikilink")於2007年9月推出。
 
 ## 系統

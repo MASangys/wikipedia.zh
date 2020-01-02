@@ -1,3 +1,6 @@
+> 本文内容由[Colors of my Voice](https://zh.wikipedia.org/wiki/Colors_of_my_Voice)转换而来。
+
+
 《**Colors of my Voice**》是日本歌手[Stephanie的第二张个人专辑](https://zh.wikipedia.org/wiki/Stephanie "wikilink")，SME Records 2009年6月17日发售，商品番号SECL-752\~753（DVD付初回限定盘）、SECL-754（通常盘）。
 
 ## 概要

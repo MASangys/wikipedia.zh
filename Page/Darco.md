@@ -1,3 +1,6 @@
+> 本文内容由[Darco](https://zh.wikipedia.org/wiki/Darco)转换而来。
+
+
 **达阔**（Darco，），是一名[德裔](https://zh.wikipedia.org/wiki/德意志聯邦共和國 "wikilink")[法國涂鸦艺术家](https://zh.wikipedia.org/wiki/法國 "wikilink").
 
 ## 艺术历程

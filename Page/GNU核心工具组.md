@@ -1,3 +1,6 @@
+> 本文内容由[GNU核心工具组](https://zh.wikipedia.org/wiki/GNU核心工具组)转换而来。
+
+
 **GNU核心工具组**（，亦常缩写为coreutils）是一个 GNU 软件包，它包含了许多基本工具（如[cat](https://zh.wikipedia.org/wiki/Cat_\(Unix\) "wikilink")，[ls](https://zh.wikipedia.org/wiki/ls "wikilink") 和 [rm](../Page/Rm_\(Unix\).md "wikilink")）在[类 Unix 操作系统上的重新实现](https://zh.wikipedia.org/wiki/类Unix操作系统 "wikilink")。\[1\]
 
 ## 历史

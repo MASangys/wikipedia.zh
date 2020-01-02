@@ -1,3 +1,6 @@
+> 本文内容由[GN-000 0 GUNDAM](https://zh.wikipedia.org/wiki/GN-000_0_GUNDAM)转换而来。
+
+
 <table>
 <thead>
 <tr class="header">

@@ -1,3 +1,6 @@
+> 本文内容由[Cross ～never say die～](https://zh.wikipedia.org/wiki/Cross_～never_say_die～)转换而来。
+
+
 《**Cross 〜never say die〜**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2002年8月7日於日本發行。
 
 ## 概要

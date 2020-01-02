@@ -1,3 +1,6 @@
+> 本文内容由[C \(消歧義\)](https://zh.wikipedia.org/wiki/C_\(消歧義\))转换而来。
+
+
 [C](../Page/C.md "wikilink")是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第3個[字母](../Page/字母.md "wikilink")。
 
 在其他的領域，C可以代表：

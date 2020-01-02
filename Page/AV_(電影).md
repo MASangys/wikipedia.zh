@@ -1,3 +1,6 @@
+> 本文内容由[AV \(電影\)](https://zh.wikipedia.org/wiki/AV_\(電影\))转换而来。
+
+
 《**AV**》，又名《**青春夢工場**》，由[彭浩翔](../Page/彭浩翔.md "wikilink")於2005年執導的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")。該片獲得[金紫荆獎年度十大華語電影](https://zh.wikipedia.org/wiki/金紫荆獎 "wikilink")\[1\]，並獲選[法國](https://zh.wikipedia.org/wiki/法国 "wikilink")[多维尔亚洲电影节](../Page/多维尔亚洲电影节.md "wikilink")（Festival du film asiatique de Deauville）競賽單元之一\[2\]。本電影於2006年第十一屆香港電影金紫荊獎中獲得十大華語片獎。
 
 根據《[電影檢查條例](https://zh.wikipedia.org/wiki/電影檢查條例 "wikilink")》，本片列為青少年及兒童不宜（IIB）。

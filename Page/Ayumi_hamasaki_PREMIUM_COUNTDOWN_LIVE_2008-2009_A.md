@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki PREMIUM COUNTDOWN LIVE 2008-2009 A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_PREMIUM_COUNTDOWN_LIVE_2008-2009_A)转换而来。
+
+
 《**ayumi hamasaki PREMIUM COUNTDOWN LIVE 2008-2009 A**》（濱崎步 2008-2009 特別跨年演唱會A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2009年12月30日、31日在國立代代木競技場第一體育館舉行巡迴演唱會，2009年5月13日發行DVD。台湾地区于5月22日发行DVD和4VCD双版本
 
 ## 說明

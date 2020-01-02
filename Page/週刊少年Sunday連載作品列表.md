@@ -1,3 +1,6 @@
+> 本文内容由[週刊少年Sunday連載作品列表](https://zh.wikipedia.org/wiki/週刊少年Sunday連載作品列表)转换而来。
+
+
 **週刊少年Sunday連載作品列表**是在[小學館](../Page/小學館.md "wikilink")發行的少年漫畫雜誌《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》上連載的漫畫作品列表。
 
 ※連載中的作品以**粗體字**標記。

@@ -1,3 +1,6 @@
+> 本文内容由[NANA角色列表](https://zh.wikipedia.org/wiki/NANA角色列表)转换而来。
+
+
 **NANA角色列表**是在《[NANA](../Page/NANA.md "wikilink")》[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[周邊產品中所出現的角色資料](https://zh.wikipedia.org/wiki/周邊 "wikilink")。
 
 __TOC__

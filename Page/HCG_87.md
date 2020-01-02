@@ -1,3 +1,6 @@
+> 本文内容由[HCG 87](https://zh.wikipedia.org/wiki/HCG_87)转换而来。
+
+
 **HCG 87**是登錄在[希克斯緻密星系群目錄上的一個緻密](https://zh.wikipedia.org/wiki/希克斯緻密星系群 "wikilink")[星系團](https://zh.wikipedia.org/wiki/星系團 "wikilink")，這個集團位於[摩羯座](../Page/摩羯座.md "wikilink")，距離大約是4億[光年](../Page/光年.md "wikilink")遠。
 
 ## 成員

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(J06\)](https://zh.wikipedia.org/wiki/ATC代码_\(J06\))转换而来。
+
+
 ## J06A [免疫血清类](https://zh.wikipedia.org/wiki/免疫血清类 "wikilink")（Immune sera）
 
 ### J06AA 免疫血清类（Immune sera）

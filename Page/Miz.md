@@ -1,3 +1,6 @@
+> 本文内容由[Miz](https://zh.wikipedia.org/wiki/Miz)转换而来。
+
+
 **Miz**（渡邊瑞枝，）是出身於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")的一位流行／搖滾歌手，曾經在日本和[瑞典](../Page/瑞典.md "wikilink")兩地從事歌唱事業，目前已經引退。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[HTTrack](https://zh.wikipedia.org/wiki/HTTrack)转换而来。
+
+
 **HTTrack**是一个[自由](../Page/自由软件.md "wikilink")、[开源的](../Page/开放源代码.md "wikilink")[网络爬虫以及](https://zh.wikipedia.org/wiki/网络爬虫 "wikilink")[离线浏览](../Page/离线浏览.md "wikilink")器。它的作者是[Xavier Roche](https://zh.wikipedia.org/wiki/Xavier_Roche "wikilink")，在[GNU通用公共授權條款](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")（[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")）下发布。
 
 使用者可以通过HTTrack把[互联网](../Page/互联网.md "wikilink")上的[网站页面下载到本地计算机上](../Page/万维网.md "wikilink")。在默认设置下，HTTrack对网站页面的下载结果是按照原始站点相对链接的结构来组织的。用网页浏览器打开这个被下载下来的网站（也称作[镜像](../Page/网站镜像.md "wikilink")）的页面，就可以离线浏览了。

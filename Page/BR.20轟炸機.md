@@ -1,3 +1,6 @@
+> 本文内容由[BR.20轟炸機](https://zh.wikipedia.org/wiki/BR.20轟炸機)转换而来。
+
+
 BR.20是[第二次世界大戰前由意大利](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[飛雅特研發的轟炸機](https://zh.wikipedia.org/wiki/飛雅特 "wikilink")，俱有應力蒙皮等先進技術的轟炸機，1936年試飛成功6個月後即生產，裝備意大利空軍第13中隊。
 
 ## 基本資料

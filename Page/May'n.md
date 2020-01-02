@@ -1,3 +1,6 @@
+> 本文内容由[May\'n](https://zh.wikipedia.org/wiki/May\'n)转换而来。
+
+
 **中林 芽依**（）是[名古屋出身的日本女](https://zh.wikipedia.org/wiki/名古屋 "wikilink")[歌手](../Page/歌手.md "wikilink")。血液O型。在2003年由[Horipro](../Page/Horipro.md "wikilink")举办的第28回新人选拔赛中，从3万5千人中脱出的歌手，在此次比赛活动中未获得正式的名次，但在之后和公司成功签约，并以本名发行过数张唱片。2008年1月宣布将艺名变更为**May'n**（）。将在电视动画[超时空要塞 Frontier中](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")，担任片中角色，银河歌姫雪露·诺姆的歌曲演唱工作。
 
 ## 個人情報與轶事

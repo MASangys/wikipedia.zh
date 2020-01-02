@@ -1,3 +1,6 @@
+> 本文内容由[NBA选秀状元列表](https://zh.wikipedia.org/wiki/NBA选秀状元列表)转换而来。
+
+
 [LebronFT2.jpg](https://zh.wikipedia.org/wiki/File:LebronFT2.jpg "fig:LebronFT2.jpg")為近年來最強的狀元之一\]\] **NBA选秀状元**（）是历届[NBA选秀](../Page/NBA选秀.md "wikilink")大会的第一顺位球员。是由上一年次NBA常规赛中未进入季后赛的较差战绩球队所参加，由一支球队抽得下赛季的第一选秀权，被这支球队选中的球员即NBA选秀状元，被选中的选秀状元通常都是球队、全球媒体和球迷的焦点人物\[1\]。
 
 NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wikipedia.org/wiki/NBA最有價值球員 "wikilink")[奥斯卡·罗伯逊](../Page/奥斯卡·罗伯逊.md "wikilink")、[卡里姆·阿卜杜勒·贾巴尔](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·贾巴尔 "wikilink")（六次），[比尔·沃尔顿](https://zh.wikipedia.org/wiki/比尔·沃尔顿 "wikilink")、[埃尔文·约翰逊](https://zh.wikipedia.org/wiki/埃尔文·约翰逊 "wikilink")（三次），[阿基姆·奥拉朱旺](https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺 "wikilink")、[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")、[阿伦·艾弗森](https://zh.wikipedia.org/wiki/阿伦·艾弗森 "wikilink")、[蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")（两次）、[勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")（四次）、[德瑞克·羅斯](https://zh.wikipedia.org/wiki/德瑞克·羅斯 "wikilink")。

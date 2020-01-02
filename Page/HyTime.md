@@ -1,3 +1,6 @@
+> 本文内容由[HyTime](https://zh.wikipedia.org/wiki/HyTime)转换而来。
+
+
 **超级媒体／时基结构化语言** （*Hypermedia/Time-based Structuring Language*，簡写HyTime）是一个[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，这是一个[标准通用标记语言应用](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")。它的目的是使人们有可能链接到外部资源，例如视频或[便携式文件格式文件](https://zh.wikipedia.org/wiki/便携式文件格式 "wikilink")。 HyTime是一个非常广泛而且复杂的标准。并从未完全应用，虽然它已经取得了部分的标准实现。
 
 ## 标准

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Bob](https://zh.wikipedia.org/wiki/Microsoft_Bob)转换而来。
+
+
 **Microsoft Bob**是一个介绍[Windows功能的软件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。此软件具有动画助手和有趣的图片，同漫游Windows XP相似。但是，在Bob推出后不久，他就因界面受人诟病在市场上立不了足了。
 
 ## 参考文献

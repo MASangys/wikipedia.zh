@@ -1,3 +1,6 @@
+> 本文内容由[Hey! Say! JUMP](https://zh.wikipedia.org/wiki/Hey!_Say!_JUMP)转换而来。
+
+
 **Hey\! Say\! JUMP**是[日本](../Page/日本.md "wikilink")的男性偶像團體，團員人數9人為[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下團體中最多。於2007年9月21日成軍，並於同年11月14日發行首張單曲『Ultra Music Power』正式出道。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 名稱中的「hey say」具有日語中「平成」的諧音，意指成員皆為「[平成](../Page/平成.md "wikilink")」年代出生。

@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ARENA TOUR 2012 A ～HOTEL Love songs～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_ARENA_TOUR_2012_A_～HOTEL_Love_songs～)转换而来。
+
+
 《**ayumi hamasaki ARENA TOUR 2012 A ～HOTEL Love songs～**》（濱崎步 2012 巡迴演唱會 A ～HOTEL Love songs～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2012年間舉行日本巡迴演唱會，於2013年3月8日發行DVD及BD。本作同時是15週年連續發行計畫的第五項，本作於2013年3月8日發行，至2013年濱崎步出道15週年為止，每一個月會發行另外一張作品，共計五作。
 
 ## 說明

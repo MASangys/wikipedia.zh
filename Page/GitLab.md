@@ -1,3 +1,6 @@
+> 本文内容由[GitLab](https://zh.wikipedia.org/wiki/GitLab)转换而来。
+
+
 **GitLab**是由GitLab Inc.开发，使用[MIT許可證](../Page/MIT許可證.md "wikilink")的基于[网络的](../Page/互联网.md "wikilink")[Git](../Page/Git.md "wikilink")[仓库管理工具](../Page/仓库_\(版本控制\).md "wikilink")，且具有[wiki和](https://zh.wikipedia.org/wiki/wiki "wikilink")[issue跟踪功能](../Page/事务跟踪管理系统.md "wikilink")。
 
 GitLab 由乌克兰程序员 Dmitriy Zaporozhets 和 Valery Sizov 开发，它由 [Ruby](../Page/Ruby.md "wikilink") 写成。后来，一些部分用 [Go 语言重写](../Page/Go.md "wikilink")。截止 2018 年 5 月，该公司约有 290 名团队成员\[1\]，以及 2000 多名开源贡献者。\[2\] GitLab 被 IBM，Sony，Jülich Research Center，NASA，Alibaba，Invincea，-{O’Reilly Media}-，Leibniz-Rechenzentrum (LRZ)，CERN\[3\]\[4\]\[5\]，SpaceX 等组织使用。\[6\]

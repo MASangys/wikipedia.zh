@@ -1,3 +1,6 @@
+> 本文内容由[J](https://zh.wikipedia.org/wiki/J)转换而来。
+
+
 **J**，**j**，是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第10个[字母](../Page/字母.md "wikilink")。它最初只作为一个[大写字母](https://zh.wikipedia.org/wiki/大写字母 "wikilink")，因此一些德语使用者以及一些[意大利](../Page/意大利.md "wikilink")人现在仍把他们的名字，例如Isabel、Ines，拼写为Jsabel、 Jnes。在一些古写法中，人们仍会把 J 作为 I 的大写字母。
 
 [人文主义](../Page/人文主义.md "wikilink")学者Pierre de la Ramée（1515年－1572年）是第一个指明 I 和 J 之间差别的学者。开始的时候，I 和 J 都发作 \[i\]、\[i:\] 以及 \[j\]。但是罗曼语族语言产生了一些新的发音（从先前的 \[j\] 和 \[g\] 中产生），使得它们分别用 I 和 J 来表示。因此，英文中的 I 和 J 的发音很不同。

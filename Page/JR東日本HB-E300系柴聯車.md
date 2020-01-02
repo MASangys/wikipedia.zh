@@ -1,3 +1,6 @@
+> 本文内容由[JR東日本HB-E300系柴聯車](https://zh.wikipedia.org/wiki/JR東日本HB-E300系柴聯車)转换而来。
+
+
 **HB-E300系柴聯車**（）是一款由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）所開發的觀光用[一般型](../Page/一般型車輛_\(日本鐵路\).md "wikilink")[柴聯車](../Page/柴聯車.md "wikilink")（DMU），為JR東日本首度量產化的串聯式[混合動力柴聯車](https://zh.wikipedia.org/wiki/混合動力車 "wikilink")。2010年10月開始實際投入[長野地區的](https://zh.wikipedia.org/wiki/東日本旅客鐵道長野支社 "wikilink")[大糸線](../Page/大糸線.md "wikilink")上營運，並配合同年12月[東北新幹線](../Page/東北新幹線.md "wikilink")[八戶至](https://zh.wikipedia.org/wiki/八戶車站 "wikilink")[新青森段的通車](https://zh.wikipedia.org/wiki/新青森車站 "wikilink")，投入[津輕](../Page/津輕線.md "wikilink")、[大湊線](../Page/大湊線.md "wikilink")（[青森地區](https://zh.wikipedia.org/wiki/東日本旅客鐵道青森支社 "wikilink")）與[五能線](../Page/五能線.md "wikilink")（[秋田地區](https://zh.wikipedia.org/wiki/東日本旅客鐵道秋田支社 "wikilink")），作為與[新幹線](../Page/新幹線.md "wikilink")接續的地區型觀光列車使用。
 
 ## 車輛

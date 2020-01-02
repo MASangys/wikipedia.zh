@@ -1,3 +1,6 @@
+> 本文内容由[GAMESS \(美国版\)](https://zh.wikipedia.org/wiki/GAMESS_\(美国版\))转换而来。
+
+
 **GAMESS (美国版)** 是一个常用的[计算化学](../Page/计算化学.md "wikilink")[软件](../Page/软件.md "wikilink")，其全名为**通用原子分子电子结构系统**（**General Atomic and Molecular Electronic Structure System**）。\[1\]\[2\]\[3\]\[4\]<ref>2010年3月GAMESS列出的贡献成员包括: Michael Schmidt, Kimberly Baldridge, Jerry Boatz, Stephen Elbert, Mark Gordon, Jan Jensen, Shiro Koseki, Nikita Matsunaga, Kiet Nguyen, Shujun Su, Theresa Windus, Michel Dupuis, John Montgomery, Ivana Adamovic, Christine Aikens, Yuri Alexeev, Pooja Arora,
 
 `Andrey Asadchev, Rob Bell, Pradipta Bandyopadhyay, Jonathan Bentz,`

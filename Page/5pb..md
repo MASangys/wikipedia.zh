@@ -1,3 +1,6 @@
+> 本文内容由[5pb.](https://zh.wikipedia.org/wiki/5pb.)转换而来。
+
+
 **株式会社5pb.**是一家[日本](../Page/日本.md "wikilink")[音樂製作和](https://zh.wikipedia.org/wiki/音樂製作 "wikilink")[遊戲開發商](https://zh.wikipedia.org/wiki/遊戲開發商 "wikilink")，公司名稱為The **Five** **p**owered & **b**asics.的缩写。
 
 2011年4月，5pb.的[母公司](https://zh.wikipedia.org/wiki/母公司 "wikilink")[Dwango宣布](https://zh.wikipedia.org/wiki/Dwango "wikilink")，5pb.将于2011年6月1日合併入同属Dwango旗下的游戏公司AG-ONE，合并后的新公司名为。

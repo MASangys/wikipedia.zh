@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(C10\)](https://zh.wikipedia.org/wiki/ATC代码_\(C10\))转换而来。
+
+
 ## C10A [血脂](../Page/血脂.md "wikilink")调节剂，单方（Lipid modifying agents, plain）
 
 ### C10AA β-羟基-β-甲基戊二酸单酰辅酶A还原酶抑制药（HMG CoA reductase inhibitors）

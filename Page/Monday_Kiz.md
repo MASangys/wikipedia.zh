@@ -1,3 +1,6 @@
+> 本文内容由[Monday Kiz](https://zh.wikipedia.org/wiki/Monday_Kiz)转换而来。
+
+
 **Monday Kiz**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：**먼데이 키즈**） 2005年由[金敏秀及](https://zh.wikipedia.org/wiki/金敏秀 "wikilink")[李眞聲一同組成](../Page/李鎮成.md "wikilink")，以《[Bye Bye Bye](https://zh.wikipedia.org/wiki/Bye_Bye_Bye "wikilink")》專輯出道，2008年8月因[金敏秀車禍離世](https://zh.wikipedia.org/wiki/金敏秀 "wikilink")，[李眞聲以獨立歌手身份發展](../Page/李鎮成.md "wikilink")，之後2010年加入韓承熙한승희、林韓星임한별兩位新成員重新組成Monday Kiz組合，於2010年4月20日發行單曲《New Sentimental》，並於5月20日出第四輯 ru:t;，專輯注明 3 + 1，藉此紀念已逝金敏秀。
 
 ## 組合專輯

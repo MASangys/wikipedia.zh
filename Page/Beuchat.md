@@ -1,3 +1,6 @@
+> 本文内容由[Beuchat](https://zh.wikipedia.org/wiki/Beuchat)转换而来。
+
+
 **Beuchat國際**，簡稱為Beuchat，於1934年在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[馬賽成立](https://zh.wikipedia.org/wiki/馬賽 "wikilink")，一直致力於潛水器材的設計、生產及推廣，現已成為享負盛名的國際品牌。
 
 ## 業務

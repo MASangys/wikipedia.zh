@@ -1,3 +1,6 @@
+> 本文内容由[AMOS](https://zh.wikipedia.org/wiki/AMOS)转换而来。
+
+
 **AMOS**（**A**dvanced **MO**rtar **S**ystem，先進迫擊炮系統）是由[芬蘭Vammas及](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[瑞典](../Page/瑞典.md "wikilink")Hagglunds合力研制的120毫米雙管[迫擊炮系統](https://zh.wikipedia.org/wiki/迫擊炮 "wikilink")，目前已安裝在[Sisu Pasi](https://zh.wikipedia.org/wiki/Sisu_Pasi "wikilink")、[AMV裝甲車](../Page/AMV裝甲車.md "wikilink")、[CV90及](https://zh.wikipedia.org/wiki/CV90 "wikilink")[CB90上](https://zh.wikipedia.org/wiki/CB90攻擊快艇 "wikilink")。
 
 ## 設計

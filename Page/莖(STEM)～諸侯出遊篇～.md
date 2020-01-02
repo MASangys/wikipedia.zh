@@ -1,3 +1,6 @@
+> 本文内容由[莖\(STEM\)～諸侯出遊篇～](https://zh.wikipedia.org/wiki/莖\(STEM\)～諸侯出遊篇～)转换而来。
+
+
 《**莖(STEM)～諸侯出遊篇～**》\[1\]（，*Kuki(STEM)\~Daimyou Asobi hen\~／Stem (At Play With a Feudal Lord)*）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")的第八張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[東芝EMI](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music於](../Page/維京唱片.md "wikilink")2003年1月22日和短篇電影《[百色眼鏡](../Page/百色眼鏡.md "wikilink")》一同發行\[2\]。初回生產限定盤「CD-Extra\<藝裏「百色眼鏡」\>仕樣」，另附贈「實演生中繼《賣笑高潮》門票抽選」\[3\]。
 
 在單曲銷售成績方面，本張單曲在日本Oricon銷售榜上最高位居單週第1名\[4\]，名列2003年年度銷售榜第45位\[5\]，同時這也是椎名林檎第一次於單曲銷售排行榜上奪冠。而在銷售認證上，單曲《莖(STEM)～諸侯出遊篇～》銷售突破10萬張，在2003年1月通過日本唱片協會認定為金唱片\[6\]。

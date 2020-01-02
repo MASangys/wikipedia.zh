@@ -1,3 +1,6 @@
+> 本文内容由[CpG岛](https://zh.wikipedia.org/wiki/CpG岛)转换而来。
+
+
 [Cytosine_chemical_structure.png](https://zh.wikipedia.org/wiki/File:Cytosine_chemical_structure.png "fig:Cytosine_chemical_structure.png")\]\] [Phosphate_Group.PNG](https://zh.wikipedia.org/wiki/File:Phosphate_Group.PNG "fig:Phosphate_Group.PNG")（也稱磷酸，但磷酸有其他涵義）\]\] [Guanine_chemical_structure.png](https://zh.wikipedia.org/wiki/File:Guanine_chemical_structure.png "fig:Guanine_chemical_structure.png")\]\]
 
 **CpG島**（**CpG islands**）是指[DNA上一個區域](https://zh.wikipedia.org/wiki/DNA "wikilink")，此區域含有大量相聯的[胞嘧啶](../Page/胞嘧啶.md "wikilink")（C）、[鳥嘌呤](https://zh.wikipedia.org/wiki/鳥嘌呤 "wikilink")（G），以及使兩者相連的[磷酸酯鍵](https://zh.wikipedia.org/wiki/磷酸酯鍵 "wikilink")（p）。[哺乳類](https://zh.wikipedia.org/wiki/哺乳類 "wikilink")[基因](../Page/基因.md "wikilink")中的[啟動子](../Page/啟動子.md "wikilink")上，含有約40%的CpG島（人類約70%）。一般CpG島的長度約300到3000個[鹼基對](https://zh.wikipedia.org/wiki/鹼基對 "wikilink")（bp）。

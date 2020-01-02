@@ -1,3 +1,6 @@
+> 本文内容由[AS Val微聲自動步槍](https://zh.wikipedia.org/wiki/AS_Val微聲自動步槍)转换而来。
+
+
 *' AS Val*'（，意為：「巨浪」型特種自動步槍）是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[中央精密機械工程研究院於](https://zh.wikipedia.org/wiki/中央精密機械工程研究院 "wikilink")1980年代研製的一種特種步槍，發射俄製的[9×39mm](../Page/9×39mm.md "wikilink")特種彈藥。
 
 ## 歷史

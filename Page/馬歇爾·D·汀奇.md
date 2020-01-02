@@ -1,3 +1,6 @@
+> 本文内容由[馬歇爾·D·汀奇](https://zh.wikipedia.org/wiki/馬歇爾·D·汀奇)转换而来。
+
+
 **馬歇爾·D·汀奇**是[日本動漫作品](https://zh.wikipedia.org/wiki/日本動漫 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中的人物\[1\]。黑鬍子海賊團提督、前任「[王下七武海](../Page/王下七武海.md "wikilink")」之一。在第二部已擁有「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」稱號。
 
 ## 設計

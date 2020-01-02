@@ -1,3 +1,6 @@
+> 本文内容由[AA](https://zh.wikipedia.org/wiki/AA)转换而来。
+
+
 **AA**是一对[拉丁字母](../Page/拉丁字母.md "wikilink")，一般用于缩写AA和Aa可能指：
 
 ## 地理

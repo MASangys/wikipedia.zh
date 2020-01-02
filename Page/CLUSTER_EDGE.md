@@ -1,3 +1,6 @@
+> 本文内容由[CLUSTER EDGE](https://zh.wikipedia.org/wiki/CLUSTER_EDGE)转换而来。
+
+
 《**CLUSTER EDGE**》，是一部[日本](../Page/日本.md "wikilink")的[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[日昇動畫](../Page/日昇動畫.md "wikilink")公司發行。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[ACE \(电子计算机\)](https://zh.wikipedia.org/wiki/ACE_\(电子计算机\))转换而来。
+
+
 **自动计算机**（，）设计为一台早期的[存储程序式](../Page/冯·诺伊曼结构.md "wikilink")[电子计算机](../Page/电子计算机.md "wikilink")。 名称中使用“”一词是为了向[查尔斯·巴贝奇](../Page/查尔斯·巴贝奇.md "wikilink")的[差分机](https://zh.wikipedia.org/wiki/差分机 "wikilink")（）和[分析机](https://zh.wikipedia.org/wiki/分析机 "wikilink")（）致敬。它是[艾伦·图灵](../Page/艾伦·图灵.md "wikilink")应[英国国家物理实验室](https://zh.wikipedia.org/wiki/英国国家物理实验室 "wikilink")（NPL）数学部的监督人约翰·沃默斯利（John Womersley）的邀请而设计的。
 
 ## 设计基础

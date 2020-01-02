@@ -1,3 +1,6 @@
+> 本文内容由[波江座εb](https://zh.wikipedia.org/wiki/波江座εb)转换而来。
+
+
 **波江座ε星b**，也被称为**天苑四b**，行星编号为**HD 22049b**，是一颗位于[波江座](../Page/波江座.md "wikilink")、距离地球约10光年的系外行星。其母星为[波江座ε星](https://zh.wikipedia.org/wiki/波江座ε星 "wikilink")，该行星的发现使波江座ε星系统在2012年10月[半人馬座α Bb被發現以前是距离太阳系最近的行星系](../Page/半人馬座α_Bb.md "wikilink")。
 
 ## 发现

@@ -1,3 +1,6 @@
+> 本文内容由[G-Eclipse](https://zh.wikipedia.org/wiki/G-Eclipse)转换而来。
+
+
 **g-Eclipse** 是一个为[网格用户](../Page/网格计算.md "wikilink")，操作者及开发者提供的集成式[开放软件平台](../Page/开放源代码.md "wikilink")。它是在[Eclipse](../Page/Eclipse.md "wikilink")上实现的。
 
 建基于Eclipse的[插件](../Page/插件.md "wikilink")系统结构，g-Eclipse扩展了Eclipse的底层功能及可视化接口，以便提供科学插件使用户能够存取现有的网格平台。g-Eclipse为网格作业部署，网格管理及网格应用程序开发提供了必要的支持。

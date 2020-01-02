@@ -1,3 +1,6 @@
+> 本文内容由[EDEN \(LUNA SEA專輯\)](https://zh.wikipedia.org/wiki/EDEN_\(LUNA_SEA專輯\))转换而来。
+
+
 《**EDEN**》是由[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[月之海](../Page/月之海.md "wikilink")所發行的第3張錄音專輯，於1993年4月21日發行。
 
 ## 曲目

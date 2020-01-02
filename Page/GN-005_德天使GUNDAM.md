@@ -1,3 +1,6 @@
+> 本文内容由[GN-005 德天使GUNDAM](https://zh.wikipedia.org/wiki/GN-005_德天使GUNDAM)转换而来。
+
+
 | **德天使GUNDAM**                                                                                          |
 | ------------------------------------------------------------------------------------------------------ |
 | [GN-005 德天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-005_Gundam_Virtue.jpg "fig:GN-005 德天使GUNDAM") |

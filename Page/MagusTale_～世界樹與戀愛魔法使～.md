@@ -1,3 +1,6 @@
+> 本文内容由[MagusTale ～世界樹與戀愛魔法使～](https://zh.wikipedia.org/wiki/MagusTale_～世界樹與戀愛魔法使～)转换而来。
+
+
 《**MagusTale ～世界樹與戀愛魔法使～**》（）是日本[Whirlpool](../Page/Whirlpool.md "wikilink")在2007年11月30日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱『』。是繼《》（2006年9月29日發售）之後Whirlpool的第二部作品。而在2008年6月13日發售相關的[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**MagusTale Infinity**》。2009年12月24日由[GN Software代理發售](../Page/GN_Software.md "wikilink")[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《**MagusTale Eternity ～世界樹與戀愛魔法使～**》。2010年7月30日Whirlpool發售兩作的合集《**MagusTale W-Pack**》。
 
 ## 故事簡介

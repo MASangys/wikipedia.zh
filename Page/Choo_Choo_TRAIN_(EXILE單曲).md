@@ -1,3 +1,6 @@
+> 本文内容由[Choo Choo TRAIN \(EXILE單曲\)](https://zh.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILE單曲\))转换而来。
+
+
 《**Choo Choo TRAIN**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年11月6日於日本發行。
 
 ## 概要

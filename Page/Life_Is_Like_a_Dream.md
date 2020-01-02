@@ -1,3 +1,6 @@
+> 本文内容由[Life Is Like a Dream](https://zh.wikipedia.org/wiki/Life_Is_Like_a_Dream)转换而来。
+
+
 《**Life Is Like A Dream**》是[香港](../Page/香港.md "wikilink")歌手[張學友的第二十一張粵語專輯](https://zh.wikipedia.org/wiki/張學友 "wikilink")，也是他的第一張創作專輯，於2004年4月20日推出，唱片監製是張學友和[歐丁玉](../Page/歐丁玉.md "wikilink")。唱片分為香港版（非中國大陸地區出售）和中國大陸版本（只限中國大陸地區出售），專輯全部歌曲均由張學友作曲、監製，其中，《想劈酒》、《她》、《寧願做錯》（與[陳少琪共同填詞](https://zh.wikipedia.org/wiki/陳少琪 "wikilink")）以及《講你知》等四首歌詞也由他親自填寫\[1\]，主打歌曲分別是《講你知》和《給朋友》。
 
 ## 影響

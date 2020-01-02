@@ -1,3 +1,6 @@
+> 本文内容由[Initrd](https://zh.wikipedia.org/wiki/Initrd)转换而来。
+
+
 **Initrd ramdisk**或者**initrd**是指一个临时[文件系统](../Page/文件系统.md "wikilink")，它在启动阶段被[Linux内核](../Page/Linux内核.md "wikilink")调用。initrd主要用于当[“根”文件系统被](../Page/根目录.md "wikilink")[挂载之前](../Page/Mount_\(Unix\).md "wikilink")，进行准备工作。\[1\]
 
 ## 基本原理

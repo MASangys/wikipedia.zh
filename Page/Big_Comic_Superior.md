@@ -1,3 +1,6 @@
+> 本文内容由[Big Comic Superior](https://zh.wikipedia.org/wiki/Big_Comic_Superior)转换而来。
+
+
 《**Big Comic Superior**》（）是[小學館](../Page/小學館.md "wikilink")發行的少年[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1987年創刊。每月發行2次（第2與第4個星期五）1987年7月1日創刊。創刊主編為鈴木俊彦。現任主編為有藤智文。
 
 ## 連載作品

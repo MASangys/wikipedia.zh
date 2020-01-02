@@ -1,3 +1,6 @@
+> 本文内容由[Corel PaintShop Pro](https://zh.wikipedia.org/wiki/Corel_PaintShop_Pro)转换而来。
+
+
 **Corel PaintShop Photo**是[Windows系統上的一個老牌的](https://zh.wikipedia.org/wiki/Windows "wikilink")[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[圖像編輯程式](https://zh.wikipedia.org/wiki/圖像編輯程式 "wikilink")，不同於[Photoshop等](https://zh.wikipedia.org/wiki/Photoshop "wikilink")[軟體以高階用戶為市場](https://zh.wikipedia.org/wiki/軟體 "wikilink")、走商用級的高價路線，Corel PaintShop Photo主要以初階用戶為目標，以相對實惠的價格，提供用戶簡單使用但又能有出色表現的操作方式與功能，所以長期受到廣大初階用戶的歡迎。自X3版起分為Pro版和Express 2010版。
 
 ## 歷史

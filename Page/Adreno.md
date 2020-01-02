@@ -1,3 +1,6 @@
+> 本文内容由[Adreno](https://zh.wikipedia.org/wiki/Adreno)转换而来。
+
+
 **Adreno**是由[高通](../Page/高通.md "wikilink")开发的[SIP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")[GPU并用于其自家的](https://zh.wikipedia.org/wiki/GPU "wikilink")[SoC](../Page/系统芯片.md "wikilink")，該核心最初作為從事GPU開發工作。
 
 2006年，BitBoys被[ATI收购开設Imageon产品线](https://zh.wikipedia.org/wiki/ATI "wikilink")。2006年[AMD收购](https://zh.wikipedia.org/wiki/AMD "wikilink")[ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")。2009年1月，[AMD出售Imageon予](https://zh.wikipedia.org/wiki/AMD "wikilink")[高通](../Page/高通.md "wikilink")\[1\]。随后，Imageon被更名为Adreno。

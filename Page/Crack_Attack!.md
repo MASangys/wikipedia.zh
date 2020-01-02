@@ -1,3 +1,6 @@
+> 本文内容由[Crack Attack!](https://zh.wikipedia.org/wiki/Crack_Attack!)转换而来。
+
+
 ***Crack Attack\!*** 是[自由免费的](../Page/自由软件.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")游戏，作者Daniel Nelson基于[超级任天堂上的](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")*[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")*制作。在[Linux](../Page/Linux.md "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS X上都可以运行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，授权采用[GNU General Public License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。Linux发行版都包含这个游戏。 Mac OS X 由 Jeff Disher移植，还有一位Daniel Aarno也进行移植不过命名改为*Mac Crack Attack\!*。 Aarno的*Mac Crack Attack\!*具有Disher版本欠缺的音频和全屏功能。
 
 版本1.1.10后，Andrew Sayman承担了开发任务 *(1.1.14)*支持 Linux和Windows。包括了Miguel Ángel Vilela创作的声音，极低的图像模式对抗电脑模式，各种bug修正。

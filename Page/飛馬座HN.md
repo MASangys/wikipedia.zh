@@ -1,3 +1,6 @@
+> 本文内容由[飛馬座HN](https://zh.wikipedia.org/wiki/飛馬座HN)转换而来。
+
+
 **飛馬座HN**，又名**BD+14 4668**，**HD 206860**、**SAO 107364**、**HR 8314**，是[飛馬座的一颗恒星](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")\[1\]\[2\]，视星等为5.94，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")69.86，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-28.27，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

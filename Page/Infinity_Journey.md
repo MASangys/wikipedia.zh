@@ -1,3 +1,6 @@
+> 本文内容由[Infinity Journey](https://zh.wikipedia.org/wiki/Infinity_Journey)转换而来。
+
+
 《**Infinity Journey**》（）是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第四張錄音室專輯](https://zh.wikipedia.org/wiki/王菀之 "wikilink")、第三張[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2008年10月10日發行，並於12月3日推出第二版，此專輯已達到金唱片銷量\[1\]。專輯內含CD和DVD各一張，CD中收錄了三首新歌，以及八首王菀之創作給其他歌手的歌曲，經過重新編曲後，由她重新演繹。全碟歌曲均由王菀之作曲。
 
 《我來自火星》分為兩個版本，其中《我來自火星（Infinity Journey Mix）》是[英國混音的](https://zh.wikipedia.org/wiki/英國 "wikilink")。另外，《玻璃色》是王菀之及[藍奕邦](../Page/藍奕邦.md "wikilink")首次合作的作品\[2\]。派台歌曲有《我來自火星》、《永遠幾遠》、《多愁善感》及《玻璃色》。

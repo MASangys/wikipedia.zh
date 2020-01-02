@@ -1,3 +1,6 @@
+> 本文内容由[Lavaux AOC](https://zh.wikipedia.org/wiki/Lavaux_AOC)转换而来。
+
+
 [Lavaux_Vineyard.jpg](https://zh.wikipedia.org/wiki/File:Lavaux_Vineyard.jpg "fig:Lavaux_Vineyard.jpg")）地区[萊芒湖](../Page/萊芒湖.md "wikilink")畔的葡萄园. \]\] **Lavaux AOC意指红酒的**appellation d'origine contrôlée（原产地品名质检），符合瑞士酒类和食品原产地名质检协会标准，并确保从原材料生产到成品加工的所有酿造流程均在Lavaux（[拉沃葡萄园梯田](https://zh.wikipedia.org/wiki/拉沃葡萄园梯田 "wikilink")）地区。
 
 ## 命名区域

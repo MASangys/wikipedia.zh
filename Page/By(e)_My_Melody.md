@@ -1,3 +1,6 @@
+> 本文内容由[By\(e\) My Melody](https://zh.wikipedia.org/wiki/By\(e\)_My_Melody)转换而来。
+
+
 《**By(e) My Melody**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")男[歌手](../Page/歌手.md "wikilink")[平井堅](../Page/平井堅.md "wikilink")的第24張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2006年6月14日發行。
 
 ## 概述

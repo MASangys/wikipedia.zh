@@ -1,3 +1,6 @@
+> 本文内容由[Huygens \(消歧义\)](https://zh.wikipedia.org/wiki/Huygens_\(消歧义\))转换而来。
+
+
 **Huygens**是[荷兰语](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")、[法语](../Page/法语.md "wikilink")等语言中的姓。
 
 ## 惠更斯

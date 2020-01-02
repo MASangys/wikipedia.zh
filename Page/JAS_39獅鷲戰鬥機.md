@@ -1,3 +1,6 @@
+> 本文内容由[JAS 39獅鷲戰鬥機](https://zh.wikipedia.org/wiki/JAS_39獅鷲戰鬥機)转换而来。
+
+
 [2006JASGripen3JM.jpg](https://zh.wikipedia.org/wiki/File:2006JASGripen3JM.jpg "fig:2006JASGripen3JM.jpg") [JAS_39_pair_HuAF_Kecskemét_2007.JPG](https://zh.wikipedia.org/wiki/File:JAS_39_pair_HuAF_Kecskemét_2007.JPG "fig:JAS_39_pair_HuAF_Kecskemét_2007.JPG") [Saab_JAS-39_Gripen.jpg](https://zh.wikipedia.org/wiki/File:Saab_JAS-39_Gripen.jpg "fig:Saab_JAS-39_Gripen.jpg") **JAS 39“鹰狮”**（[瑞典语](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")：**JAS 39 Gripen**，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**JAS 39 Griffin**或**Gryphon**，中文又譯**“狮鹫”**）是一款由瑞典[紳寶集團研制的](https://zh.wikipedia.org/wiki/紳寶集團 "wikilink")[第四代戰機](https://zh.wikipedia.org/wiki/第四代戰機 "wikilink")，JAS 39具有多功能、高适应性特点，这关键在于先进科技与有效的人机工程相配合。轻巧而结实的結構（有1／4的複合材料），三角翼设计，人工强化与全天候線傳飛控的飞行操纵，包含后燃器的發動機RM12（GEF404），高性能的輕型的雷達及其它系统，都以适于飞行员操作的方式结合在一起。
 
 目前JAS-39已服役於[瑞典](../Page/瑞典.md "wikilink")、[捷克](../Page/捷克.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")等國空軍，並正於[南非空軍中成軍](https://zh.wikipedia.org/wiki/南非 "wikilink")。2007年10月，[泰國政府也決定採購JAS](https://zh.wikipedia.org/wiki/泰國 "wikilink")-39取代其服役中的[F-5自由鬥士戰鬥機](https://zh.wikipedia.org/wiki/F-5自由鬥士戰鬥機 "wikilink")。目前泰國國會也已批准首批六架JAS-39戰機訂單。

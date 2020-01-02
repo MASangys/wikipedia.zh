@@ -1,3 +1,6 @@
+> 本文内容由[HTC Shift](https://zh.wikipedia.org/wiki/HTC_Shift)转换而来。
+
+
 **HTC Shift**，研發代號**HTC Clio**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[UMPC掌上型電腦](https://zh.wikipedia.org/wiki/UMPC "wikilink")，同時具有手機功能，搭載微軟[Windows Vista](../Page/Windows_Vista.md "wikilink") Business與[Windows Mobile](../Page/Windows_Mobile.md "wikilink")6雙作業系統（無法同時使用），擁有7吋VGA觸控式螢幕，滑蓋式 QWERTY 鍵盤，搭載[SnapVUE技術即使裝置並未開啟也能夠使網路永遠保持連線狀態](https://zh.wikipedia.org/wiki/SnapVUE "wikilink")，內建40GB微型硬碟，具有指紋辨識器。2007年10月於歐洲首度發表。已知客製版本HTC X9500，HTC Shift，Rogers＆HTC Shift。
 
 ## HTC Shift GSM技術規格

@@ -1,3 +1,6 @@
+> 本文内容由[Lizzy \(韓國歌手\)](https://zh.wikipedia.org/wiki/Lizzy_\(韓國歌手\))转换而来。
+
+
 **朴修雅**\[1\]（，，），藝名**Lizzy**（），韓國女子團體[After School的第三期成員](../Page/After_School.md "wikilink")，\[2\]同時為子團體[Orange Caramel](https://zh.wikipedia.org/wiki/Orange_Caramel "wikilink")、分隊[After School Blue成員](https://zh.wikipedia.org/wiki/After_School_Blue "wikilink")。
 
 ## 經歷

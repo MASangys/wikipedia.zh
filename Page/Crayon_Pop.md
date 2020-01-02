@@ -1,3 +1,6 @@
+> 本文内容由[Crayon Pop](https://zh.wikipedia.org/wiki/Crayon_Pop)转换而来。
+
+
 **Crayon Pop**（，，又称：**蜡笔团**\[1\]）是2012年7月出道的[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬公司為Chrome Entertainment。歌曲及舞蹈风格与一般的女子團體不同，偏向于搞怪风格，[官方](https://zh.wikipedia.org/wiki/官方 "wikilink")[粉絲團名稱為](https://zh.wikipedia.org/wiki/粉絲 "wikilink")「Sketch Book」， 官方應援顏色為青蘋果綠。目前成員為金美、艾琳、超娥、唯一等4人，隊長為金美。2014年8月24日首次來台舉行演唱會。
 
 ## 成員資料

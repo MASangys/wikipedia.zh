@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D11\)](https://zh.wikipedia.org/wiki/ATC代码_\(D11\))转换而来。
+
+
 ## D11A 其它治疗皮肤病药物（Other dermatological preparations）
 
 ### D11AA [止汗药](https://zh.wikipedia.org/wiki/止汗药 "wikilink")（Antihidrotics）

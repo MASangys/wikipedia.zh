@@ -1,3 +1,6 @@
+> 本文内容由[Jade concepts](https://zh.wikipedia.org/wiki/Jade_concepts)转换而来。
+
+
 **jade concepts**（2000年至今），為[美心食品有限公司旗下管理一系列新派](https://zh.wikipedia.org/wiki/美心食品有限公司 "wikilink")[粵菜酒家的品牌](https://zh.wikipedia.org/wiki/粵菜 "wikilink")。標榜所有菜式不落味精及使用健康米糠油，以中菜原味演繹，菜式賣相亦參考西餐的精緻，並提供各式花茶、高級茗茶、星巴克咖啡及西式甜品。亦有不定期推出[太雕佳餚](https://zh.wikipedia.org/wiki/太雕酒 "wikilink")、[黃油蟹](https://zh.wikipedia.org/wiki/黃油蟹 "wikilink")、老廣州、海鮮等特別菜式。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[非常偶像Key](https://zh.wikipedia.org/wiki/非常偶像Key)转换而来。
+
+
 《**非常偶像Key**》（）是1994年到1997年發行的全15話的[日本](../Page/日本.md "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 提要

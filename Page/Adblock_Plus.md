@@ -1,3 +1,6 @@
+> 本文内容由[Adblock Plus](https://zh.wikipedia.org/wiki/Adblock_Plus)转换而来。
+
+
 **Adblock Plus**（**ABP**）是一個由Eyeo GmbH公司（Wladimir Palant）開發的開放原始碼\[1\]\[2\]附加元件。現已支援[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（含[Firefox行動版](https://zh.wikipedia.org/wiki/Firefox_for_mobile "wikilink")）、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Internet Explorer](../Page/Internet_Explorer.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Microsoft Edge](../Page/Microsoft_Edge.md "wikilink")、[Android](../Page/Android.md "wikilink")、[Yandex Browser和](../Page/Yandex_Browser.md "wikilink")[傲遊瀏覽器](https://zh.wikipedia.org/wiki/傲遊瀏覽器 "wikilink")。
 
 ## 历史

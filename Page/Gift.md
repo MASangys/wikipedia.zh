@@ -1,3 +1,6 @@
+> 本文内容由[Gift](https://zh.wikipedia.org/wiki/Gift)转换而来。
+
+
 是由日本[MOONSTONE](../Page/MOONSTONE.md "wikilink")於2005年5月27日所發售的[戀愛冒險](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。其[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》於2006年1月27日發售。PS2及PSP遊戲《**Gift -prism-**》也隨後發行。電視動畫《**Gift eternal rainbow**》（）於2006年10月至12月間播映。
 
 ## 故事

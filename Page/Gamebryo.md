@@ -1,3 +1,6 @@
+> 本文内容由[Gamebryo](https://zh.wikipedia.org/wiki/Gamebryo)转换而来。
+
+
 **Gamebryo引擎**是NetImmerse引擎的后继版本，是由[Numerical Design Limited最初开发的游戏中间层](https://zh.wikipedia.org/wiki/Numerical_Design_Limited "wikilink")，在与[Numerical Design Limited公司合并后](https://zh.wikipedia.org/wiki/Numerical_Design_Limited "wikilink")，引擎改名为Gamebryo Element。
 
 ## 简介

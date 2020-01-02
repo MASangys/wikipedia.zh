@@ -1,3 +1,6 @@
+> 本文内容由[C-CLOWN](https://zh.wikipedia.org/wiki/C-CLOWN)转换而来。
+
+
 **C-Clown**（），是[韓國Yedang](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment於2012年成立的六人男子團體，由Rome、[時雨](https://zh.wikipedia.org/wiki/金泰旻 "wikilink")、[Ray](https://zh.wikipedia.org/wiki/Ray_\(韓國歌手\) "wikilink")、[姜俊](https://zh.wikipedia.org/wiki/姜俊 "wikilink")、[T.K](https://zh.wikipedia.org/wiki/T.K "wikilink")、Maru，六名成員組成。團名**C-Clown**是「**C**rown**-C**lown」的縮寫，代表著「六位小丑(Clown)，想以最好的音樂及表現，戴上歌謠界的王冠(Crown)」，於2012年7月19日正式出道。官方粉絲名稱為Crown（크라운），而官方應援色則為珍珠森林綠。
 
 C-Clown名稱寓意著王冠小丑，王冠象徵至高無上的權力，小丑在韓文詞彙裡又有藝人之意，以成為歌謠界最高歌手為終極目標。

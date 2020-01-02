@@ -1,3 +1,6 @@
+> 本文内容由[FTTH](https://zh.wikipedia.org/wiki/FTTH)转换而来。
+
+
 **光纖到戶**（，缩写：**FTTH**）是一種[光纖通訊](../Page/光纖通訊.md "wikilink")的傳輸方法。是直接把[光纖接到](https://zh.wikipedia.org/wiki/光纖 "wikilink")[用戶的家中](https://zh.wikipedia.org/wiki/用戶 "wikilink")（用戶所需的地方）。
 
 這種光纖通訊方式及策略與[FTTN](../Page/FTTx.md "wikilink")、[FTTC](../Page/FTTx.md "wikilink")、[HFC](https://zh.wikipedia.org/wiki/HFC "wikilink")（Hybrid Fiber Coaxial）等也不同，它們都是需要依賴傳統的金屬電線，包括[雙絞線及](https://zh.wikipedia.org/wiki/雙絞線 "wikilink")[同軸電纜等](https://zh.wikipedia.org/wiki/同軸電纜 "wikilink")，作「[最後一公里](https://zh.wikipedia.org/wiki/最後一公里 "wikilink")」的資訊傳輸。

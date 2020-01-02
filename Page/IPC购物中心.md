@@ -1,3 +1,6 @@
+> 本文内容由[IPC购物中心](https://zh.wikipedia.org/wiki/IPC购物中心)转换而来。
+
+
 **IPC购物中心**（，原名为IKANO POWER CENTRE）是一座位于[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[珍珠白沙羅](../Page/珍珠白沙羅.md "wikilink")的[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")，於2003年12月年開幕。[購物中心的主要股東是來自](https://zh.wikipedia.org/wiki/購物中心 "wikilink")[瑞典](../Page/瑞典.md "wikilink")的[Ikano](https://zh.wikipedia.org/wiki/Ikano "wikilink")[集團](https://zh.wikipedia.org/wiki/集團 "wikilink"),也是其在[馬來西亞第一間](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")。[購物中心主要的租戶是](https://zh.wikipedia.org/wiki/購物中心 "wikilink")[宜家家居](../Page/宜家家居.md "wikilink")。
 
 ## 商場特色

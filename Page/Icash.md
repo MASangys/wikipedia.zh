@@ -1,3 +1,6 @@
+> 本文内容由[Icash](https://zh.wikipedia.org/wiki/Icash)转换而来。
+
+
 **icash**是一種[電子錢包](https://zh.wikipedia.org/wiki/電子錢包 "wikilink")，功能為預付[儲值卡](https://zh.wikipedia.org/wiki/儲值卡 "wikilink")，由[臺灣](../Page/臺灣.md "wikilink")的[愛金卡股份有限公司發行](../Page/愛金卡公司.md "wikilink")，可取代零錢付賬，並省去收取金錢的時間及程序。icash無使用期限，可在[統一超商](../Page/統一超商.md "wikilink")門市等地購買、並進行儲值作業，儲值金額上限為新台幣一萬元。
 
 ## 簡介與歷史

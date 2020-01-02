@@ -1,3 +1,6 @@
+> 本文内容由[柯爾特OHWS半自動手槍](https://zh.wikipedia.org/wiki/柯爾特OHWS半自動手槍)转换而来。
+
+
 **柯爾特OHWS**（，簡稱：**Colt OHWS**，又稱：**Colt SOCOM**）是一把在1990年代由所設計和生產的[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[.45 ACP](../Page/.45_ACP.md "wikilink")（11.43×23毫米）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 [美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（，簡稱：USSOCOM）在20世紀90年代為特種作戰部隊計畫進行了“進攻型手槍武器系統”（Offensive Handgun Weapon System，OHWS）的投標。此槍便是爲了應徵這次投標而誕生，但最終被其競爭對手[黑克勒-科赫設計的](../Page/黑克勒&科赫.md "wikilink")[HK Mk 23 Mod 0所擊敗而落選](../Page/HK_Mk_23_Mod_0半自動手槍.md "wikilink")。

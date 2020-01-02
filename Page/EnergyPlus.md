@@ -1,3 +1,6 @@
+> 本文内容由[EnergyPlus](https://zh.wikipedia.org/wiki/EnergyPlus)转换而来。
+
+
 **EnergyPlus**，由[美国能源部资助下](https://zh.wikipedia.org/wiki/美国能源部 "wikilink")[开发](https://zh.wikipedia.org/wiki/开发 "wikilink")，是以[BLAST和](https://zh.wikipedia.org/wiki/BLAST "wikilink")[DOE-2为基础的大型能耗](https://zh.wikipedia.org/wiki/DOE-2 "wikilink")[分析](https://zh.wikipedia.org/wiki/分析 "wikilink")[计算](https://zh.wikipedia.org/wiki/计算 "wikilink")[软件](../Page/软件.md "wikilink")。该软件据动态负荷[理论](https://zh.wikipedia.org/wiki/理论 "wikilink")，采用反应系数法，对[建筑物](../Page/建筑物.md "wikilink")及相关的供热、[通风和](https://zh.wikipedia.org/wiki/通风 "wikilink")[空调设备能耗](https://zh.wikipedia.org/wiki/空调设备 "wikilink")，进行[模拟计算](https://zh.wikipedia.org/wiki/模拟 "wikilink")\[1\]。
 
 EnergyPlus比较适合于研究多[区域](https://zh.wikipedia.org/wiki/区域 "wikilink")[气流](https://zh.wikipedia.org/wiki/气流 "wikilink")、[太阳能](https://zh.wikipedia.org/wiki/太阳能 "wikilink")[应用方案以及](https://zh.wikipedia.org/wiki/应用 "wikilink")[建筑物](../Page/建筑物.md "wikilink")热力性能；输出是简单的[ASCII](../Page/ASCII.md "wikilink")[文件](https://zh.wikipedia.org/wiki/文件 "wikilink")，可供[电子数据表进一步的分析](https://zh.wikipedia.org/wiki/电子数据表 "wikilink")。\[2\]当前版本是EnergyPlus [8.8.0](https://energyplus.net/)，可在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Macintosh和](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[Linux](../Page/Linux.md "wikilink")操作系统上运行\[3\], 是[美国能源部目前官方正式的建筑物仿真程序](https://zh.wikipedia.org/wiki/美国能源部 "wikilink")。\[4\]
@@ -39,12 +42,9 @@ EnergyPlus也可用于[模拟](https://zh.wikipedia.org/wiki/模拟 "wikilink")[
 [Category:建筑设计](https://zh.wikipedia.org/wiki/Category:建筑设计 "wikilink") [Category:建筑能耗模拟软件](https://zh.wikipedia.org/wiki/Category:建筑能耗模拟软件 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
 6.
 7.

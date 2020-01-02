@@ -1,3 +1,6 @@
+> 本文内容由[Happy Smile!](https://zh.wikipedia.org/wiki/Happy_Smile!)转换而来。
+
+
 **Happy Smile\!**　為[蘆田愛菜](../Page/蘆田愛菜.md "wikilink")第一張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2011年11月23日由環球唱片發售。
 
 ## 概要

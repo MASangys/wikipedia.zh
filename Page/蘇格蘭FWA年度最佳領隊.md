@@ -1,3 +1,6 @@
+> 本文内容由[蘇格蘭FWA年度最佳領隊](https://zh.wikipedia.org/wiki/蘇格蘭FWA年度最佳領隊)转换而来。
+
+
 **蘇格蘭FWA年度最佳領隊**（**SFWA Manager of the Year**，全名**Scottish Football Writers' Association Manager of the Year**，或直接稱為**Scottish Manager of the Year**）是「蘇格蘭足球記者協會」（Scottish Football Writers' Association，簡稱SFWA）頒發給上年度在[蘇格蘭足球頂級聯賽](../Page/蘇格蘭足球聯賽系統.md "wikilink")[蘇超中表現最出色的領隊](https://zh.wikipedia.org/wiki/蘇超 "wikilink")。
 
 ## 歷屆獲獎人

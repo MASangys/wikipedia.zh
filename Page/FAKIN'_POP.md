@@ -1,3 +1,6 @@
+> 本文内容由[FAKIN\' POP](https://zh.wikipedia.org/wiki/FAKIN\'_POP)转换而来。
+
+
 **FAKIN' POP**（中譯：流行堅端）是[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第七張原創專輯，日本地區於2008年3月12日發行。發行首周取得[Oricon](../Page/Oricon.md "wikilink")日本公信榜第二名成績，總銷量超過34萬張，獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")雙白金唱片公認。
 
 ## 解説

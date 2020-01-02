@@ -1,3 +1,6 @@
+> 本文内容由[Ditama某](https://zh.wikipedia.org/wiki/Ditama某)转换而来。
+
+
 **DITAMA（某）**（"（某）"的部分原本是在圓圈內有個「某」字）是[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")，[愛知縣](../Page/愛知縣.md "wikilink")[稻澤市出身](https://zh.wikipedia.org/wiki/稻澤市 "wikilink")。
 
 ## 人物介紹

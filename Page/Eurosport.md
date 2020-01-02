@@ -1,3 +1,6 @@
+> 本文内容由[Eurosport](https://zh.wikipedia.org/wiki/Eurosport)转换而来。
+
+
 **Eurosport**是歐洲最大型的[衛星](../Page/衛星.md "wikilink")和[有線電視體育頻道](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，由[探索通信擁有](https://zh.wikipedia.org/wiki/探索通信 "wikilink")，能在54個地區收看和發送出20個不同的語言。曾經是[法國廣播業鉅子](https://zh.wikipedia.org/wiki/法國 "wikilink")[TF1集团旗下頻道](../Page/法國電視一台.md "wikilink")。2012年12月，探索通信入股20%，並於幾年後最終向TF1買下Eurosport 100%股份。
 
 ## 節目內容

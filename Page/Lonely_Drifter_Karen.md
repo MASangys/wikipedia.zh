@@ -1,3 +1,6 @@
+> 本文内容由[Lonely Drifter Karen](https://zh.wikipedia.org/wiki/Lonely_Drifter_Karen)转换而来。
+
+
 **Lonely Drifter Karen**是来自布鲁塞尔的一个流行乐团。乐团成员包括奥地利歌手[Tanja Frinta](https://zh.wikipedia.org/wiki/Tanja_Frinta "wikilink")、电子琴演奏者和制作人[Marc Melià Sobrevias](https://zh.wikipedia.org/wiki/Marc_Melià_Sobrevias "wikilink")（来自西班牙），以及两个法国人——鼓手[Maxime Malon](https://zh.wikipedia.org/wiki/Maxime_Malon "wikilink")、吉他手[Clément Marion](https://zh.wikipedia.org/wiki/Clément_Marion "wikilink")，他们于2012年加入乐队。
 
 ## 专辑

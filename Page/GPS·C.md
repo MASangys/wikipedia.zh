@@ -1,3 +1,6 @@
+> 本文内容由[GPS·C](https://zh.wikipedia.org/wiki/GPS·C)转换而来。
+
+
 **GPS·C**是**GPS修正**的缩写，是一个受加拿大主控系统管理的差分GPS数据修正系统，属于[Natural Resources Canada](https://zh.wikipedia.org/wiki/Natural_Resources_Canada "wikilink")。使用支持这个系统的设备可以把普通GPS接收机15米的定位精度提高到实时1-2米的水平。
 
 实时数据由分布在加拿大各地的14个固定站收集转发到位于渥太华的中央控制室“NRC1”进行处理。

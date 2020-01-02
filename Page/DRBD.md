@@ -1,3 +1,6 @@
+> 本文内容由[DRBD](https://zh.wikipedia.org/wiki/DRBD)转换而来。
+
+
 DRBD (Distributed Replicated Block Device) 是 Linux 平台上的分散式儲存系統。其中包含了核心模組，數個使用者空間管理程式及 shell scripts，通常用於高可用性（high availability, HA）叢集。DRBD 類似磁碟陣列的RAID 1（鏡像），只不過 RAID 1 是在同一台電腦內，而 DRBD 是透過網路。 [DRBD_concept_overview.png](https://zh.wikipedia.org/wiki/File:DRBD_concept_overview.png "fig:DRBD_concept_overview.png") DRBD 是以 GPL2 授權散佈的自由軟體。
 
 ## 外部連結

@@ -1,3 +1,6 @@
+> 本文内容由[約翰·C·史坦尼斯號航空母艦](https://zh.wikipedia.org/wiki/約翰·C·史坦尼斯號航空母艦)转换而来。
+
+
 **約翰·C·史坦尼斯號航空母艦**（**USS John C. Stennis CVN-74**），或直接称**史坦尼斯號航空母艦**，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[尼米茲級核動力航空母艦的七號艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")，於1993年下水，1995年12月9日正式服役，母港為[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[布雷默頓](https://zh.wikipedia.org/wiki/布雷默頓 "wikilink")，以其為核心的航空母舰[戰鬥群目前是美國海軍主力的海外武力單位之一](https://zh.wikipedia.org/wiki/戰鬥群 "wikilink")。
 
 史坦尼斯號是以來自[密西西比州](../Page/密西西比州.md "wikilink")、著名的美國[參議員](https://zh.wikipedia.org/wiki/參議員 "wikilink")命名的。史坦尼斯議員長年擔任美國[參議院軍事委員會的成員](https://zh.wikipedia.org/wiki/參議院 "wikilink")，在他參與此委員會事務的期間（1969年～1980年），他推動了許多改造美國海軍的大型計畫，因而獲得「現代美國海軍之父」的美名。也正因為這緣故，海軍特別以他的名字替新艦造的航空母艦命名，使得他名列少數在在世時就被拿來命名船艦的美國人之一。

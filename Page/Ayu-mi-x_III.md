@@ -1,3 +1,6 @@
+> 本文内容由[Ayu-mi-x III](https://zh.wikipedia.org/wiki/Ayu-mi-x_III)转换而来。
+
+
 《**ayu-mi-x III**》（濱崎·不·一樣 Ⅲ）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2001年2月28日於日本發售。為《ayu-mi-x》第三個系列。
 
 ## 說明

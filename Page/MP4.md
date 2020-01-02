@@ -1,3 +1,6 @@
+> 本文内容由[MP4](https://zh.wikipedia.org/wiki/MP4)转换而来。
+
+
 **MP4**或稱**[MPEG-4](../Page/MPEG-4.md "wikilink")第14部分**（英語：MPEG-4 Part 14）是一種標準的數位[多媒體容器格式](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。MPEG-4第14部分的擴充名為**`.mp4`**，以儲存[數位音訊](../Page/數位音訊.md "wikilink")及[數位影片為主](https://zh.wikipedia.org/wiki/數位影片 "wikilink")，但也可以儲存[字幕](../Page/字幕.md "wikilink")和静止图像。因其可容納支持[位元流](../Page/位元流.md "wikilink")的視頻流（如[高級視頻編碼](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")），MP4可以在網路傳輸時使用[串流式傳輸](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")。
 
 雖然攜帶式媒體播放器有時會稱作「MP4播放器」，但並不僅限於播放MP4格式的影片，有些也可以播放[AMV](https://zh.wikipedia.org/wiki/AMV "wikilink")、[MKV或其他影片格式](https://zh.wikipedia.org/wiki/MKV "wikilink")。

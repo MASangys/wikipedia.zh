@@ -1,3 +1,6 @@
+> 本文内容由[Metacity](https://zh.wikipedia.org/wiki/Metacity)转换而来。
+
+
 **Metacity**（发音的押韵与“capacity”类似，重音在第二个音节上\[1\]）曾经是[GNOME](../Page/GNOME.md "wikilink") 2[桌面环境](../Page/桌面环境.md "wikilink")下默认的[复合窗口管理器](https://zh.wikipedia.org/wiki/复合窗口管理器 "wikilink")。\[2\] Metacity的开发工作是由[Havoc Pennington发起的](https://zh.wikipedia.org/wiki/Havoc_Pennington "wikilink")，并且它以[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")这个许可协议授权分发。
 
 在GNOME 2.2正式引进Metacity之前，GNOME陆续使用了[Enlightenment](../Page/Enlightenment.md "wikilink")和[Sawfish作为它的窗口管理器](https://zh.wikipedia.org/wiki/Sawfish "wikilink")。虽然Metacity是GNOME工程的一部分来并且被设计为集成进GNOME桌面，但它并不需要GNOME才能运行。同样GNOME也可以使用各种不同的窗口管理器，只要它们支持[ICCCM规范](https://zh.wikipedia.org/wiki/ICCCM "wikilink")。

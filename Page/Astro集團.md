@@ -1,3 +1,6 @@
+> 本文内容由[Astro集團](https://zh.wikipedia.org/wiki/Astro集團)转换而来。
+
+
 **Astro控股私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Holdings SDN. BHD.，簡稱**Astro集團**）為[馬來西亞一家跨國傳媒娛樂投資公司](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。
 
 ## 公司簡介

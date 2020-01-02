@@ -1,3 +1,6 @@
+> 本文内容由[SIG P229半自動手槍](https://zh.wikipedia.org/wiki/SIG_P229半自動手槍)转换而来。
+
+
 **SIG P229**是一系列由[SIG Sauer所設計和生產的緊湊型軍用型](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG P226半自動手槍的緊湊型版本](../Page/SIG_P226半自動手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W](../Page/.40_S&W.md "wikilink")、[.357 SIG和](../Page/.357_SIG.md "wikilink")[.22 LR這四種](../Page/.22_LR.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 歷史

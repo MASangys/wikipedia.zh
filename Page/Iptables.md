@@ -1,3 +1,6 @@
+> 本文内容由[Iptables](https://zh.wikipedia.org/wiki/Iptables)转换而来。
+
+
 **iptables**是運行在[使用者空間的應用軟體](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")，通過控制[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[netfilter模組](https://zh.wikipedia.org/wiki/netfilter "wikilink")，來管理網路封包的处理和转发。在大部分[Linux发行版](../Page/Linux发行版.md "wikilink")中，可以通过[手册页](../Page/手册页.md "wikilink")\[1\]或`man iptables`获取用户手册。通常iptables需要[内核模块支持才能运行](https://zh.wikipedia.org/wiki/内核模块 "wikilink")，此处相应的内核模块通常是Xtables。因此，iptables操作需要[超级用户](../Page/超级用户.md "wikilink")权限，其可执行文件通常位于`/sbin/iptables`或`/usr/sbin/iptables`。同时，需要说明的是，以上命令通常只用于处理[IPv4](../Page/IPv4.md "wikilink")数据包；而对于[IPv6](../Page/IPv6.md "wikilink")数据包，则使用类似的**ip6tables**命令。\[2\]
 
 目前，iptables支持内核2.4以上版本，旧版内核环境下则使用[ipchains](https://zh.wikipedia.org/wiki/ipchains "wikilink")（于2.2版内核）或[ipwadm](https://zh.wikipedia.org/wiki/ipwadm "wikilink")（于2.0版内核）完成类似的功能。2014年1月19日起發行的Linux内核3.13版则使用[nftables取而代之](https://zh.wikipedia.org/wiki/nftables "wikilink")，但仍然提供iptables命令做为兼容接口。\[3\]

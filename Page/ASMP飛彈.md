@@ -1,3 +1,6 @@
+> 本文内容由[ASMP飛彈](https://zh.wikipedia.org/wiki/ASMP飛彈)转换而来。
+
+
 **ASMP中程空對地飛彈**（，意為「中程空對地飛彈」）是[法國宇航](../Page/法國宇航.md "wikilink")為[法國軍隊開發的一種空射](https://zh.wikipedia.org/wiki/法國軍隊 "wikilink")[超音速](../Page/超音速.md "wikilink")[核子](https://zh.wikipedia.org/wiki/核子武器 "wikilink")[巡弋飛彈](https://zh.wikipedia.org/wiki/巡弋飛彈 "wikilink")，屬於的一部分，在法國的核武戰略理論中，ASMP飛彈定位為全面核報復行動前的「最終警告」武器。
 
 ## 發展歷史

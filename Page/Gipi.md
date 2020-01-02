@@ -1,3 +1,6 @@
+> 本文内容由[Gipi](https://zh.wikipedia.org/wiki/Gipi)转换而来。
+
+
 [Gipi_-_Internazionale_a_Ferrara_2007.jpg](https://zh.wikipedia.org/wiki/File:Gipi_-_Internazionale_a_Ferrara_2007.jpg "fig:Gipi_-_Internazionale_a_Ferrara_2007.jpg") **Gipi**（原名**Gian Alfonso Pacinotti**，），是一位[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、導演和作家。
 
 ## 生平

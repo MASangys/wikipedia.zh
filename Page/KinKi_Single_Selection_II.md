@@ -1,3 +1,6 @@
+> 本文内容由[KinKi Single Selection II](https://zh.wikipedia.org/wiki/KinKi_Single_Selection_II)转换而来。
+
+
 《**KinKi Single Selection II**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")2張[單曲精選](https://zh.wikipedia.org/wiki/單曲 "wikilink")[專輯](../Page/音樂專輯.md "wikilink")。於2004年12月22日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說

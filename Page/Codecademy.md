@@ -1,3 +1,6 @@
+> 本文内容由[Codecademy](https://zh.wikipedia.org/wiki/Codecademy)转换而来。
+
+
 **Codecademy**是一个在线交互式网站平台，它提供免费编程课堂，其[编程语言](../Page/编程语言.md "wikilink")包括例如[Python](../Page/Python.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")，也包括[置标语言](../Page/置标语言.md "wikilink")例如[HTML](../Page/HTML.md "wikilink")和[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")。\[1\]\[2\]据报道，2011年11月，Codecademy上有超过550,000用户完成了六百万个编程练习。\[3\] 许多知名媒体和网站，例如[纽约时报](../Page/纽约时报.md "wikilink")\[4\]和[TechCrunch](../Page/TechCrunch.md "wikilink")\[5\]都给予了Codecademy网站良好的报道和评论。
 
 ## 历史
@@ -25,23 +28,14 @@ Codecademy由Zach Sims和Ryan Bubinski创建于2011年。\[6\] 从[哥伦比亚�
 [Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink") [Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink") [Category:美國私人公司](https://zh.wikipedia.org/wiki/Category:美國私人公司 "wikilink") [Category:Y_Combinator公司](https://zh.wikipedia.org/wiki/Category:Y_Combinator公司 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
-
 7.
-
 8.
-
 9.
 10.
-
 11.
-
 12. [LearnStreet teaches newbies how to code](http://www.bizjournals.com/sanjose/print-edition/2012/10/05/learnstreet-teaches-newbies-how-to-code.html?page=2). *Silicon Valley / San Jose Business Journal*. October 5, 2012.

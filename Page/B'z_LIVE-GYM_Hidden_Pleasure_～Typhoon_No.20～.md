@@ -1,3 +1,6 @@
+> 本文内容由[B\'z LIVE-GYM Hidden Pleasure ～Typhoon No.20～](https://zh.wikipedia.org/wiki/B\'z_LIVE-GYM_Hidden_Pleasure_～Typhoon_No.20～)转换而来。
+
+
 《**B'z LIVE-GYM Hidden Pleasure 〜Typhoon No.20〜**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")於2008年12月10日發售的第11個映像作品（[DVD是第](https://zh.wikipedia.org/wiki/DVD "wikilink")9張）。
 
 ## 簡介

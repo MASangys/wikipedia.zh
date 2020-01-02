@@ -1,3 +1,6 @@
+> 本文内容由[Everything \(專輯\)](https://zh.wikipedia.org/wiki/Everything_\(專輯\))转换而来。
+
+
 《**Everything**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第二張大碟，[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1990年6月发行。一共11首歌曲，5首為翻唱。銷量再次突破金唱片\[1\]。
 
 ## 唱片版本

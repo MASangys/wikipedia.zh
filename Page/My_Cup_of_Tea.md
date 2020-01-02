@@ -1,3 +1,6 @@
+> 本文内容由[My Cup of Tea](https://zh.wikipedia.org/wiki/My_Cup_of_Tea)转换而来。
+
+
 《**My Cup of Tea**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[李克勤](../Page/李克勤.md "wikilink")於2007年7月24日發行的個人[音樂專輯](../Page/音樂專輯.md "wikilink")（CD+DVD）。
 
 ## 曲目

@@ -1,3 +1,6 @@
+> 本文内容由[AKABEiSOFT2](https://zh.wikipedia.org/wiki/AKABEiSOFT2)转换而来。
+
+
 **AKABEiSOFT2**是位於[日本](../Page/日本.md "wikilink")[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[福岡市](../Page/福岡市.md "wikilink")的[成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，於2005年成立，公司前身為[同人團體](../Page/同人_\(ACG\).md "wikilink")「AKABEiSOFT」（）。
 
 ## 歷史

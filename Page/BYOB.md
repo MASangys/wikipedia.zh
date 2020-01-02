@@ -1,3 +1,6 @@
+> 本文内容由[BYOB](https://zh.wikipedia.org/wiki/BYOB)转换而来。
+
+
 **BYOB**（；**自備酒瓶**），它也可以是 Bring Your Own Beer 或 Bring Your Own Booze 的英文縮寫，前面兩者的意思都是請自備啤酒。英文字 booze 這個字眼，是酒精飲料的俚語字。在[BBQ烤肉活動裡](../Page/燒烤.md "wikilink")，它也可以是 Bring Your Own Beef（自備牛肉）的意思。
 
 英文縮寫字 BYOB 最常用在類似的派對活動上，特別指出活動主持人不會主動提供酒精飲料，而且非常歡迎客人自行攜帶他們的飲料和食物。它也最常使用在正式的酒吧、餐廳和脫衣舞夜總會，但是要注意的是，這些地方是沒有[酒精飲料販售許可證而無法販賣酒精飲料](https://zh.wikipedia.org/wiki/酒精飲料販售許可證 "wikilink")，或者是不主動提供販賣酒精飲料；與它相同含意的英文字是 brownbagging（自備紙袋）。

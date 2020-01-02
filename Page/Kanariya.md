@@ -1,3 +1,6 @@
+> 本文内容由[Kanariya](https://zh.wikipedia.org/wiki/Kanariya)转换而来。
+
+
 《**kanariya**》（金絲雀）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第12張單曲，1999年12月8日於日本發售。
 
 ## 說明

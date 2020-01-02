@@ -1,3 +1,6 @@
+> 本文内容由[Metal hurlant](https://zh.wikipedia.org/wiki/Metal_hurlant)转换而来。
+
+
 [upright=1](https://zh.wikipedia.org/wiki/Image:Metal_hurlant_1975_logo.png "wikilink") **《Métal Hurlant》** 即 “金属咆哮”（Screaming Metal）的意思，是一本[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[科幻与](https://zh.wikipedia.org/wiki/科幻 "wikilink")[惊险题材的](https://zh.wikipedia.org/wiki/惊险 "wikilink")[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")，于1974年12月由漫画家Jean Giraud （就是世界闻名的[莫比乌斯](https://zh.wikipedia.org/wiki/莫比乌斯 "wikilink")/Mœbius/Moebius) 和Philippe Druillet 加上记者Jean-Pierre Dionnet与财政主管Bernard Farkas创刊。这四个人一起以“Les Humanoïdes Associés”（即人形联盟“United Humanoids”）而闻名，后来组建出版公司的时候就以这个名字命名。后来这个杂志发行[美国](../Page/美国.md "wikilink")出版，名字是《Heavy Metal》。当出版人Leonard Mogel 注册美国版的时候他选择了重新命名，然后这本美国版杂志在1977年4月正式发行，光滑全彩封面每月一刊，翻译原载《Métal Hurlant》的漫画，作者包括Enki Bilal， Jean Giraud （也就是 Moebius)）， Philippe Druillet， Milo Manara和Philippe Caza。
 
 ## 参考

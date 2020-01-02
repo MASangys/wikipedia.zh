@@ -1,3 +1,6 @@
+> 本文内容由[超級機器人大戰J](https://zh.wikipedia.org/wiki/超級機器人大戰J)转换而来。
+
+
 《**超級機器人大戰J**》（），是[萬普](../Page/萬普.md "wikilink")於2005年9月15日在[Game Boy Advance上發售的](../Page/Game_Boy_Advance.md "wikilink")[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。簡稱「機戰J」「SRWJ」。
 
 ## 概要

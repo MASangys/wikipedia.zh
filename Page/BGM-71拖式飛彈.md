@@ -1,3 +1,6 @@
+> 本文内容由[BGM-71拖式飛彈](https://zh.wikipedia.org/wiki/BGM-71拖式飛彈)转换而来。
+
+
 [TOW_fired_from_Jeep.jpg](https://zh.wikipedia.org/wiki/File:TOW_fired_from_Jeep.jpg "fig:TOW_fired_from_Jeep.jpg")發射\]\]
 
 **BGM-71拖式飛彈**（**BGM-71 TOW**）是[美國的一種](https://zh.wikipedia.org/wiki/美國 "wikilink")[反坦克飛彈](https://zh.wikipedia.org/wiki/反坦克導彈 "wikilink")。**TOW**是英文管射（**T**ube launched）、光學追蹤（**O**ptically tracked）和線控導引（**W**ire command link guided）的縮寫。

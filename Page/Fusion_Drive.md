@@ -1,3 +1,6 @@
+> 本文内容由[Fusion Drive](https://zh.wikipedia.org/wiki/Fusion_Drive)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:Fusion_icon.jpg "fig:缩略图") **Fusion Drive** 是[苹果公司开发的一种](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[数据存储技术](https://zh.wikipedia.org/wiki/数据存储设备 "wikilink")，这种技术融合了[机械硬盘](../Page/硬盘.md "wikilink")（HDD）和[NAND闪存驱动器](https://zh.wikipedia.org/wiki/NAND_Flash "wikilink")（SSD）。它结合闪存驱动和机械硬盘為单独的[逻辑卷宗](https://zh.wikipedia.org/wiki/逻辑卷宗 "wikilink")\[1\] 。系统会自动管理访问最频繁的[应用程序](../Page/应用程序.md "wikilink")、文件、照片或者其他数据来存储在闪存驱动器裡，而将很少访问或者使用的文件留在机械硬盘上\[2\]。例如经常使用电子表格程序，系统將会自动将其移动到闪存驱动器上以让用户能更快的访问。这将提升在执行磁盘密集型程序时速度\[3\] 。
 
 ## 適用產品

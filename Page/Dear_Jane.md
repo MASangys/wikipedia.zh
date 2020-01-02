@@ -1,3 +1,6 @@
+> 本文内容由[Dear Jane](https://zh.wikipedia.org/wiki/Dear_Jane)转换而来。
+
+
 **Dear Jane**是一隊[香港](../Page/香港.md "wikilink")的樂隊，由主音[黃天翱](https://zh.wikipedia.org/wiki/黃天翱 "wikilink")（Tim Wong）、結他手[翁厚樑](https://zh.wikipedia.org/wiki/翁厚樑 "wikilink")（Howie Yung）、低音結他手[伍漢邦](https://zh.wikipedia.org/wiki/伍漢邦 "wikilink")（Jackal Ng）和鼓手[黎俊華](https://zh.wikipedia.org/wiki/黎俊華 "wikilink")（Nice）組成。
 
 「Dear Jane」的名字來源，是“Dear John letter”的男子版（即在一段男女關係中，女方寄給男方的絕情信）。從樂隊名字顯示他們的歌曲以男性角度為主。Dear Jane四名成員在香港居住，早年曾經分別在不同地方留學，回港後決定以搖滚音樂在這個金錢掛帥的大都會生存。樂隊早期音樂以[流行龐克與](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")為主，至近年開始嘗試不同歌曲風格。

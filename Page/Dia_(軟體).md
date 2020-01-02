@@ -1,3 +1,6 @@
+> 本文内容由[Dia \(軟體\)](https://zh.wikipedia.org/wiki/Dia_\(軟體\))转换而来。
+
+
 **Dia** \[1\]是[開放源碼的](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，是[GNU](../Page/GNU.md "wikilink")計劃的一部分，程式創立者是Alexander Larsson。Dia使用[單一文件介面模式](https://zh.wikipedia.org/wiki/單一文件介面 "wikilink")，類似於[GIMP](../Page/GIMP.md "wikilink")與[Inkscape](../Page/Inkscape.md "wikilink")。
 
 Dia將多種需求以模組化來設計，如[流程圖](https://zh.wikipedia.org/wiki/流程圖 "wikilink")、、[電路圖](../Page/電路圖.md "wikilink")等。各模組之間的符號仍是可以通用的，並沒有限制。

@@ -1,3 +1,6 @@
+> 本文内容由[Flower Power \(少女時代單曲\)](https://zh.wikipedia.org/wiki/Flower_Power_\(少女時代單曲\))转换而来。
+
+
 《**Flower Power**》是韩国少女音乐团体[少女时代](../Page/少女时代.md "wikilink")的第6张日语单曲，於2012年11月21日发行。
 
 ## 简介

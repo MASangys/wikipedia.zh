@@ -1,3 +1,6 @@
+> 本文内容由[GNU通用公共许可证](https://zh.wikipedia.org/wiki/GNU通用公共许可证)转换而来。
+
+
 **GNU通用公共授權條款**（，縮寫GNU GPL 或 GPL），是被廣泛使用的[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[許可證](../Page/软件许可证.md "wikilink")，给予了終端用戶運行、學習、共享和修改軟件的自由。\[1\]許可證最初由[自由軟件基金會的](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")为GNU項目所撰寫，並授予計算機程序的用户自由軟件定義（[The Free Software Definition](https://zh.wikipedia.org/wiki/The_Free_Software_Definition "wikilink")）的權利。 \[2\] GPL是一個[Copyleft](../Page/Copyleft.md "wikilink")許可證，這意味著衍生作品只能以相同的許可條款分發。 這與[宽松自由软件许可证有所區別](../Page/寬鬆自由軟體授權條款.md "wikilink") ，如[BSD許可證和](../Page/BSD许可证.md "wikilink")[MIT許可證](../Page/MIT許可證.md "wikilink")就是其中被廣泛使用的例子。 GPL是第一個普遍使用的Copyleft許可證。
 
 歷史上，GPL許可證系列一直是自由和開源軟件領域最受歡迎的軟件許可之一。\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\] 根據GPL許可的優異自由軟件程序的例子有[Linux](../Page/Linux.md "wikilink")內核和GNU編譯器集合（[GCC](../Page/GCC.md "wikilink")）。認為，GPL提供的Copyleft對於基於Linux的系統的成功至關重要，給予向內核貢獻的程序員保證他們的工作將有益於整個世界並保持自由，而不至於被不提供回饋給社群的无良軟件公司所剝削。 \[11\]

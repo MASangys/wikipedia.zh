@@ -1,3 +1,6 @@
+> 本文内容由[Kis-My-Ft2 Debut Tour 2011 Everybody Go at 橫濱體育館 2011.7.31](https://zh.wikipedia.org/wiki/Kis-My-Ft2_Debut_Tour_2011_Everybody_Go_at_橫濱體育館_2011.7.31)转换而来。
+
+
 『**Kis-My-Ft2 Debut Tour 2011 Everybody Go at 橫濱體育館 2011.7.31**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")2張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[CodeIgniter](https://zh.wikipedia.org/wiki/CodeIgniter)转换而来。
+
+
 **CodeIgniter**是一套给[PHP](../Page/PHP.md "wikilink")网站开发者使用的应用程序开发框架和工具包。它提供一套丰富的标准库以及简单的接口和逻辑结构，其目的是使开发人员更快速地进行项目开发。
 
 ## 特性

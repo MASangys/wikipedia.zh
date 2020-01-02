@@ -1,3 +1,6 @@
+> 本文内容由[MBA智库百科](https://zh.wikipedia.org/wiki/MBA智库百科)转换而来。
+
+
 **MBA智库百科**是一部基於[Wiki](../Page/Wiki.md "wikilink")技術的中文[百科全書計劃](https://zh.wikipedia.org/wiki/百科全書 "wikilink")，其目标是專注於經濟管理領域知識的創建。
 
 ## 概要

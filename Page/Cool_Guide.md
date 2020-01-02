@@ -1,3 +1,6 @@
+> 本文内容由[Cool Guide](https://zh.wikipedia.org/wiki/Cool_Guide)转换而来。
+
+
 《**Cool Guide**》是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")介紹生活潮流的資訊節目，由[范振鋒](../Page/范振鋒.md "wikilink")及[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。本節目於2012年10月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期日22:00-22:30在[J2](../Page/J2.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。
 
 ## 節目簡介

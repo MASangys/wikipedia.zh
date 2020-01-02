@@ -1,3 +1,6 @@
+> 本文内容由[金牛T星](https://zh.wikipedia.org/wiki/金牛T星)转换而来。
+
+
 [TTauriStarDrawing.jpg](https://zh.wikipedia.org/wiki/File:TTauriStarDrawing.jpg "fig:TTauriStarDrawing.jpg")
 
 **金牛T星**（**T Tauri star, TTS**）是變星的一種，他的命名是依據被發現的原型－[金牛座T](../Page/金牛座T.md "wikilink")星（）而來的。他們都在鄰近[分子雲](../Page/分子雲.md "wikilink")的地方被發現，例如[NGC 1555](https://zh.wikipedia.org/wiki/NGC_1555 "wikilink")，並且由光學上的觀測確認是一顆有著強烈的[色球](../Page/色球.md "wikilink")譜線的[變星](../Page/變星.md "wikilink")。

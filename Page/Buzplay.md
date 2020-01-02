@@ -1,3 +1,6 @@
+> 本文内容由[Buzplay](https://zh.wikipedia.org/wiki/Buzplay)转换而来。
+
+
 **buzplay**是香港兩個[巴士流動多媒體系統](https://zh.wikipedia.org/wiki/巴士流動多媒體系統 "wikilink")（MMOB，全稱Multi-media On-board）之一，由[Buspak經營](https://zh.wikipedia.org/wiki/Buspak "wikilink")。buzplay於2012年7月1日啟播，曾覆蓋[城巴](../Page/城巴.md "wikilink")及[新巴旗下](https://zh.wikipedia.org/wiki/新巴 "wikilink")1200輛巴士\[1\]，與覆蓋[九巴車隊的](https://zh.wikipedia.org/wiki/九巴 "wikilink")[路訊通](../Page/路訊通.md "wikilink")分庭抗禮。
 
 由於Buspak 在城巴及新巴的流動多媒體廣告服務代理權，已於2017年6月30日屆滿，而競爭對手路訊通亦於同日屆滿，意味著buzplay同樣步路訊通停播的後塵，在2017年7月1日起停止在巴士車廂播放節目，從此香港所有於巴士上的流動多媒體服務正式成為歷史。

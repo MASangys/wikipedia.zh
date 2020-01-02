@@ -1,3 +1,6 @@
+> 本文内容由[Mac OS X v10.2](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.2)转换而来。
+
+
 **Mac OS X 10.2 “Jaguar”** 是[蘋果為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") [Mac](https://zh.wikipedia.org/wiki/Mac "wikilink") 產品所製作的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")的第三個[版本](https://zh.wikipedia.org/wiki/版本 "wikilink")。它取代了[Mac OS X Puma](../Page/Mac_OS_X_v10.1.md "wikilink")，后又被[Mac OS X Panther所取代](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")。 这个操作系统最初于2002年8月23日发布，售价分为79美金的单一使用者版或119美金的家庭版（五个使用者，一个户口）。該操作系统逐渐被MAC使用者广泛接受，并在系统稳定，速度提高以及图形和应用程序指令方面都前进了一大步。; 然而，许多评论家仍然声称其存在大量用户界面的反应速度问题，操作系统制度仍不够成熟，这导致用户會觉得使用很别扭。
 
 ## 系统要求

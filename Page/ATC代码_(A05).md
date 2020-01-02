@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A05\)](https://zh.wikipedia.org/wiki/ATC代码_\(A05\))转换而来。
+
+
 ## A05A 胆病治疗药（Bile therapy）
 
 ### A05AA 胆酸类（Bile acid preparations）

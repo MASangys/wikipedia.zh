@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t Stop](https://zh.wikipedia.org/wiki/Don\'t_Stop)转换而来。
+
+
 《**Don't Stop**》是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2000年4月26日發行。該專輯歌曲風格較上張專輯雖整體氣質差異不大但更顯多元化\[1\]；專輯中的歌曲《[Don't Stop](../Page/Don't_Stop_\(歌曲\).md "wikilink")》於[Hit FM年度百首單曲排行榜位居第](../Page/Hit_FM聯播網.md "wikilink")17名\[2\]；該專輯於臺灣的銷量高達45萬，使蔡依林登上臺灣年度唱片銷量排行榜第6名\[3\]，亦是其出道至今臺灣唱片銷量最高的唱片作品\[4\]。
 
 ## 簡介

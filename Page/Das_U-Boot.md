@@ -1,3 +1,6 @@
+> 本文内容由[Das U-Boot](https://zh.wikipedia.org/wiki/Das_U-Boot)转换而来。
+
+
 **Das U-Boot** 是一個主要用於[嵌入式系统](../Page/嵌入式系统.md "wikilink")的[開機載入程式](../Page/啟動程式.md "wikilink")，可以支援多種不同的[計算機系統結構](https://zh.wikipedia.org/wiki/計算機系統結構 "wikilink")，包括[PPC](../Page/PowerPC.md "wikilink")、[ARM](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")、[AVR32](https://zh.wikipedia.org/wiki/AVR32 "wikilink")、[MIPS](https://zh.wikipedia.org/wiki/MIPS_architecture "wikilink")、[x86](https://zh.wikipedia.org/wiki/x86_architecture "wikilink")、[68k](https://zh.wikipedia.org/wiki/68k "wikilink")、[Nios與](https://zh.wikipedia.org/wiki/Nios_embedded_processor "wikilink")[MicroBlaze](https://zh.wikipedia.org/wiki/MicroBlaze "wikilink")。這也是一套在[GNU通用公共許可證之下發布的](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 Das U-Boot可以在x86電腦上建構，但這部x86電腦必須安裝有可支援特定平台結構的交互發展GNU[工具鏈](https://zh.wikipedia.org/wiki/軟體開發工具 "wikilink")，例如[crosstool](http://www.kegel.com/crosstool)、[Embedded Linux Development Kit](http://www.denx.de/wiki/DULG/ELDK) (ELDK)或[OSELAS.Toolchain](https://web.archive.org/web/20080125024412/http://www.pengutronix.de/oselas/toolchain/index_en.html)。

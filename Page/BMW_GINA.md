@@ -1,3 +1,6 @@
+> 本文内容由[BMW GINA](https://zh.wikipedia.org/wiki/BMW_GINA)转换而来。
+
+
 [BMW_Gina_Museum.jpg](https://zh.wikipedia.org/wiki/File:BMW_Gina_Museum.jpg "fig:BMW_Gina_Museum.jpg") **BMW GINA**之全称为**The GINA Light Visionary Model**，是[德国](../Page/德国.md "wikilink")[汽车](../Page/汽车.md "wikilink")制造商[BMW](../Page/BMW.md "wikilink")设计的一款织物材料[概念](https://zh.wikipedia.org/wiki/概念车 "wikilink")[跑车](../Page/跑车.md "wikilink")，于2008年6月10日在[慕尼黑](../Page/慕尼黑.md "wikilink")正式对外发布。\[1\]GINA一词为"**G**eometry and Functions **I**n **'N**' **A**daptions"（适应N种可能的[几何](https://zh.wikipedia.org/wiki/几何 "wikilink")[函数](../Page/函数.md "wikilink")）的[英文缩写](https://zh.wikipedia.org/wiki/英文 "wikilink")。\[2\]GINA由BMW的设计总监[克里斯·班格勒](../Page/克里斯·班格勒.md "wikilink")（Chris Bangle）所带领的团队设计，他将之称为“挑战现有的原则和常规工艺”。\[3\]
 
 ## 织物车身

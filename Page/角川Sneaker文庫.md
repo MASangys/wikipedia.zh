@@ -1,3 +1,6 @@
+> 本文内容由[角川Sneaker文庫](https://zh.wikipedia.org/wiki/角川Sneaker文庫)转换而来。
+
+
 **角川Sneaker文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[角川書店](../Page/角川書店.md "wikilink")出版的[輕小說](../Page/輕小說.md "wikilink")[文庫](../Page/文庫.md "wikilink")系列。當初以「[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")·青版」的名義成立，在1988年3月公開徵選後決定以「Sneaker文庫」的名義創刊。現在可稱為角川文庫的輕小說部門之一，並和[電擊文庫](../Page/電擊文庫.md "wikilink")、[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")並列[角川集團](../Page/角川集團.md "wikilink")的輕小說主力文庫。
 
 創刊目標為少年向小說，例如[富野由悠季](../Page/富野由悠季.md "wikilink")的《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》系列，渡邊由自的以及富田祐弘的《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》。後來，[水野良](../Page/水野良.md "wikilink")的《[羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")》開啟了奇幻小說的時代。

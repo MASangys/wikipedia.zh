@@ -1,3 +1,6 @@
+> 本文内容由[AltiVec](https://zh.wikipedia.org/wiki/AltiVec)转换而来。
+
+
 **AltiVec**是一个浮点和整型[单指令流多数据流](https://zh.wikipedia.org/wiki/单指令流多数据流 "wikilink")（SIMD）指令集，其由[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，[IBM](../Page/IBM.md "wikilink")，[Freescale Semiconductor](https://zh.wikipedia.org/wiki/Freescale_Semiconductor "wikilink")（早先的[摩托罗拉](../Page/摩托罗拉.md "wikilink")的半导体部，合称[AIM联盟](https://zh.wikipedia.org/wiki/AIM联盟 "wikilink")），创建并拥有，并由PowerPC版本实现，包括摩托罗拉的[G4](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")，IBM的[G5和](https://zh.wikipedia.org/wiki/PowerPC_970 "wikilink")[POWER6](https://zh.wikipedia.org/wiki/POWER6 "wikilink")，还有[P.A. Semi的](../Page/P.A._Semi.md "wikilink")[PWRficient](https://zh.wikipedia.org/wiki/PWRficient "wikilink") PA6T。AltiVec其实是由Freescale公司拥的一个商标，所有这个系统也被看作是苹果的Velocity引擎和[IBM](../Page/IBM.md "wikilink")与[P.A. Semi的VMX](../Page/P.A._Semi.md "wikilink")，虽然IBM今天也在使用AltiVec。
 
 值得注意的是，AltiVec指的是一个指令集，而IBM和摩托罗拉在中央处理器的实现上有不同的逻辑设计。现在，IBM的核心没有包含摩托罗拉授权的AltiVec逻辑设计，反之亦然。

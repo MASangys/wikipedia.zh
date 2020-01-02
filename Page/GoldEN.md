@@ -1,3 +1,6 @@
+> 本文内容由[GoldEN](https://zh.wikipedia.org/wiki/GoldEN)转换而来。
+
+
 **goldEN**是[香港](../Page/香港.md "wikilink")二人男子唱作[組合](../Page/組合.md "wikilink")，是音樂人[周博賢](../Page/周博賢.md "wikilink")旗下經理人公司[Ban Ban Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛](../Page/劉浩剛.md "wikilink")於2008年組成，2011年正式出道，2012年由[金牌大風](../Page/金牌大風.md "wikilink")推出其首張作品《[足金金猴](../Page/足金金猴.md "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
 
 ## 背景

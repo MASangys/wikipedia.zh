@@ -1,3 +1,6 @@
+> 本文内容由[Google Chrome](https://zh.wikipedia.org/wiki/Google_Chrome)转换而来。
+
+
 是由[Google](../Page/Google.md "wikilink")開發的[免費](../Page/免費軟體.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。Chrome是[化學元素](../Page/化學元素.md "wikilink")「[鉻](https://zh.wikipedia.org/wiki/鉻 "wikilink")」的英文名稱，過去也用Chrome稱呼瀏覽器的外框\[2\]\[3\]\[4\]\[5\]。Chrome相应的[開放原始碼計劃名為](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[Chromium](https://zh.wikipedia.org/wiki/Chromium_\(瀏覽器\) "wikilink")\[6\]\[7\]，而Google Chrome本身是[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，未開放全部[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")\[8\]\[9\]。
 
 Chrome程式碼是基於其他開放原始碼軟體所撰寫，包括[Apple WebKit和](https://zh.wikipedia.org/wiki/Apple_WebKit "wikilink")[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")，並開發出稱為「[V8](../Page/V8_\(JavaScript引擎\).md "wikilink")」的高效能[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")\[10\]。Google Chrome的整體發展目標是提升穩定性、速度和安全性，並創造出簡單且有效率的使用介面\[11\]。[CNET](../Page/CNET.md "wikilink")旗下的[Download.com](../Page/Download.com.md "wikilink")網站評出的2008年6月最佳Windows應用程序，其中Google Chrome排名首位\[12\]。

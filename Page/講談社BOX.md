@@ -1,3 +1,6 @@
+> 本文内容由[講談社BOX](https://zh.wikipedia.org/wiki/講談社BOX)转换而来。
+
+
 **講談社BOX**是[講談社在](https://zh.wikipedia.org/wiki/講談社 "wikilink")2006年11月發行的書籍系列與部門。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[JavaFX](https://zh.wikipedia.org/wiki/JavaFX)转换而来。
+
+
 **JavaFX**是由[甲骨文公司](../Page/甲骨文公司.md "wikilink")推出的一系列的产品和技术，该产品于2007年5月在JavaOne大会上首次对外公布。JavaFX技术主要应用于创建Rich Internet application（[RIAs](https://zh.wikipedia.org/wiki/RIA "wikilink")）。当前的JavaFX包括JavaFX脚本和JavaFX Mobile（一种运营于行動裝置的操作系统），今后JavaFX将包括更多的产品。
 
 JavaFX脚本的前身是一个由Chris Oliver开发的一个叫做F3的项目\[1\]。

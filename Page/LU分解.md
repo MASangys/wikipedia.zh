@@ -1,3 +1,6 @@
+> 本文内容由[LU分解](https://zh.wikipedia.org/wiki/LU分解)转换而来。
+
+
 在[线性代数](../Page/线性代数.md "wikilink")與[数值分析中](https://zh.wikipedia.org/wiki/数值分析 "wikilink")，**LU分解**是[矩阵分解的一种](https://zh.wikipedia.org/wiki/矩阵分解 "wikilink")，将一个[矩阵](../Page/矩阵.md "wikilink")分解为一个[下三角矩阵和一个](../Page/三角矩阵.md "wikilink")[上三角矩阵的乘积](../Page/三角矩阵.md "wikilink")，有时需要再乘上一个[置换矩阵](../Page/置换矩阵.md "wikilink")。LU分解可以被視為[高斯消去法](../Page/高斯消去法.md "wikilink")的矩陣形式。在[数值计算上](https://zh.wikipedia.org/wiki/数值计算 "wikilink")，LU分解經常被用来解[线性方程组](../Page/线性方程组.md "wikilink")、且在求[反矩陣和计算](https://zh.wikipedia.org/wiki/反矩陣 "wikilink")[行列式](../Page/行列式.md "wikilink")中都是一個關鍵的步驟。
 
 ## 定义

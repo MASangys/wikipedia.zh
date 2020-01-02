@@ -1,3 +1,6 @@
+> 本文内容由[A.希恩斯](https://zh.wikipedia.org/wiki/A.希恩斯)转换而来。
+
+
 **A.希恩斯**（，），[香港](../Page/香港.md "wikilink")男子[橄欖球](../Page/橄欖球.md "wikilink")運動員；正職為[體能](https://zh.wikipedia.org/wiki/體能 "wikilink")[教練](https://zh.wikipedia.org/wiki/教練 "wikilink")。
 
 ## 簡歷

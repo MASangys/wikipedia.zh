@@ -1,3 +1,6 @@
+> 本文内容由[College](https://zh.wikipedia.org/wiki/College)转换而来。
+
+
 **《College》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周國賢](../Page/周國賢.md "wikilink")的第四張個人專輯，同時亦為首張新曲加精選專輯，於2009年6月23日發行。
 
 ## 專輯介紹

@@ -1,3 +1,6 @@
+> 本文内容由[N-溴代丁二酰亚胺](https://zh.wikipedia.org/wiki/N-溴代丁二酰亚胺)转换而来。
+
+
 ***N*-溴代丁二酰亚胺**或稱***N*-溴琥珀醯亞胺**\[1\]（），是[有机合成](../Page/有机合成.md "wikilink")中的重要[试剂](https://zh.wikipedia.org/wiki/试剂 "wikilink")。它被广泛应用于[自由基取代反应和](https://zh.wikipedia.org/wiki/自由基取代反应 "wikilink")[亲电加成反应](../Page/亲电加成反应.md "wikilink")中。NBS可以當作[溴](../Page/溴.md "wikilink")的替代物。
 
 ## 製備

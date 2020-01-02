@@ -1,3 +1,6 @@
+> 本文内容由[GNU GRUB](https://zh.wikipedia.org/wiki/GNU_GRUB)转换而来。
+
+
 [GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg "fig:GNU_GRUB_on_MBR_partitioned_hard_disk_drives.svg")分区表的硬盘上\]\] [GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg "fig:GNU_GRUB_on_GPT_partitioned_hard_disk_drives.svg")分区表的硬盘上\]\] [GNU_GRUB_components.svg](https://zh.wikipedia.org/wiki/File:GNU_GRUB_components.svg "fig:GNU_GRUB_components.svg")（0扇区）。如果可行（出于向后兼容的原因第一个分区起始于63扇区而非1扇区，但这不是强制的），`core.img`被写入介于MBR和第一分区之间的空扇区之中。`/boot/grub`目录可以放在单独的分区中，也可以放在根分区中。\]\]
 
 **GNU GRUB**（简称“GRUB”）是一个来自[GNU项目的](../Page/GNU計劃.md "wikilink")[启动引导程序](https://zh.wikipedia.org/wiki/启动引导程序 "wikilink")。GRUB是[多启动规范的实现](https://zh.wikipedia.org/wiki/多启动规范 "wikilink")，它允许用户可以在计算机内同时拥有多个操作系统，并在计算机启动时选择希望运行的操作系统。GRUB可用于选择操作系统分区上的不同[内核](../Page/内核.md "wikilink")，也可用于向这些内核传递启动参数。

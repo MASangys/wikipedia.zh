@@ -1,3 +1,6 @@
+> 本文内容由[ATX規格](https://zh.wikipedia.org/wiki/ATX規格)转换而来。
+
+
 **ATX**（Advanced Technology Extended）[主機板規格由](../Page/主機板規格比較.md "wikilink")[英特爾公司在](https://zh.wikipedia.org/wiki/英特爾 "wikilink")1995年制定。這是多年來第一次電腦機殼與主機板設計的重大改變。ATX取代[AT主機板規格](../Page/AT規格.md "wikilink")，成為較新電腦系統預設的主機板規格。ATX解決以往[AT規格](../Page/AT規格.md "wikilink")中，令電腦組裝人士煩惱的問題。其他衍生的主機板規格（包括[microATX](https://zh.wikipedia.org/wiki/microATX "wikilink")、[FlexATX與](https://zh.wikipedia.org/wiki/FlexATX "wikilink")[mini-ITX](https://zh.wikipedia.org/wiki/mini-ITX "wikilink")）保留ATX基本的背板設置，但主機板的面積減少，擴充槽的數目也有所刪減。
 
 自英特爾在1995年發表最初的ATX官方規格後，此規格經歷多次變更；最新2.3版本規格於2007年發表。標準的ATX主機版，長12英吋，寬9.6英吋（305毫米×244毫米）。這也容許標準的ATX機箱容納較小的microATX主機板。

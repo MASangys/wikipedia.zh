@@ -1,3 +1,6 @@
+> 本文内容由[Ada](https://zh.wikipedia.org/wiki/Ada)转换而来。
+
+
 {{ infobox programming language | name = Ada | logo = | paradigm = [多范式](../Page/编程范型.md "wikilink") | year = 1980年 | designer = -{}-
 
   - MIL-STD-1815/Ada 83:

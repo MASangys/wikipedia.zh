@@ -1,3 +1,6 @@
+> 本文内容由[IQ博士](https://zh.wikipedia.org/wiki/IQ博士)转换而来。
+
+
 《**IQ博士**》（）是[日本](../Page/日本.md "wikilink")著名[漫畫家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[鳥山明](../Page/鳥山明.md "wikilink")的1980年代[漫畫作品](https://zh.wikipedia.org/wiki/漫画 "wikilink")。[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東映動畫製作](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，第一作在1981年4月8日至1986年2月19日於[富士電視台](../Page/富士電視台.md "wikilink")系列播放（日本時間為每週三19:00－19:30），[台灣播映權由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[民視無線台](../Page/民視無線台.md "wikilink")、[華視](../Page/中華電視公司.md "wikilink")、[衛視中文台](../Page/衛視中文台.md "wikilink")、[東森電視](../Page/東森電視.md "wikilink")等台取得，[香港](../Page/香港.md "wikilink")播映權由[香港無綫電視取得](../Page/電視廣播有限公司.md "wikilink")；香港版主題曲由[梅艷芳](../Page/梅艷芳.md "wikilink")演唱，2009年7月17日[J2](../Page/J2.md "wikilink")重播。1997年再推出重製版本，譯為《**新IQ博士**》也称为《新 机器娃娃怪博士》，許多角色的外貌設定皆經更改；香港方面，[有線電視兒童台早於](https://zh.wikipedia.org/wiki/有線電視兒童台 "wikilink")2003年首次播放此作，主題曲由[吳君如](../Page/吳君如.md "wikilink")演唱\[1\]；而[無綫電視則於](../Page/電視廣播有限公司.md "wikilink")2014年才購入此作的免費電視台的播放權，於2014年4月23日起播放。
 
 本部角色亦在鳥山明另部漫畫《[七龍珠](../Page/七龙珠.md "wikilink")》中登場，是《七龍珠》主角[孫悟空誤入天神村而](../Page/孙悟空_\(七龙珠\).md "wikilink")[客串登場的情形](https://zh.wikipedia.org/wiki/客串 "wikilink")。

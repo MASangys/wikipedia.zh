@@ -1,3 +1,6 @@
+> 本文内容由[Grep](https://zh.wikipedia.org/wiki/Grep)转换而来。
+
+
 **grep**是一个最初用于[Unix操作系统的](https://zh.wikipedia.org/wiki/Unix "wikilink")[命令行工具](https://zh.wikipedia.org/wiki/命令行 "wikilink")。在给出文件列表或[标准输入后](https://zh.wikipedia.org/wiki/标准输入 "wikilink")，grep会对匹配一个或多个[正则表达式](../Page/正则表达式.md "wikilink")的文本进行搜索，并只输出匹配（或者不匹配）的行或文本。
 
 ## 歷史

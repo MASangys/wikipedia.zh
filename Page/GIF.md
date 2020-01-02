@@ -1,3 +1,6 @@
+> 本文内容由[GIF](https://zh.wikipedia.org/wiki/GIF)转换而来。
+
+
 **图像互换格式**（GIF，Graphics Interchange Format）是一种[位图](../Page/位图.md "wikilink")[图形文件格式](https://zh.wikipedia.org/wiki/图形文件格式 "wikilink")，以8位色（即256种颜色）重现[真彩色](../Page/真彩色.md "wikilink")的图像。它实际上是一种[压缩文档](../Page/数据压缩.md "wikilink")，采用[LZW](../Page/LZW.md "wikilink")压缩算法进行编码，有效地减少了图像文件在网络上传输的时间。它是目前[全球資訊網广泛应用的](https://zh.wikipedia.org/wiki/全球資訊網 "wikilink")[网络传输图像格式之一](https://zh.wikipedia.org/wiki/网络传输 "wikilink")。
 
 ## 歷史

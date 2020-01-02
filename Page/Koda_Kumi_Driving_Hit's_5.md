@@ -1,3 +1,6 @@
+> 本文内容由[Koda Kumi Driving Hit\'s 5](https://zh.wikipedia.org/wiki/Koda_Kumi_Driving_Hit\'s_5)转换而来。
+
+
 《KODA KUMI DRIVING HIT'S 5》（飆速快感混音極選～5）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的第6張[混音](../Page/混音.md "wikilink")專輯。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[A.D. Vision](https://zh.wikipedia.org/wiki/A.D._Vision)转换而来。
+
+
 **A.D. Vision**（簡稱 **ADV**）是一家曾经存在的[美国](../Page/美国.md "wikilink")國際性多媒體娛樂公司，總部設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克薩斯州的](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[休士頓](https://zh.wikipedia.org/wiki/休士頓 "wikilink")。主要業務包括：[家庭影片製作及發行](https://zh.wikipedia.org/wiki/家庭影片 "wikilink")、[電視廣播](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")、[電影發行](https://zh.wikipedia.org/wiki/電影發行 "wikilink")、[營銷](https://zh.wikipedia.org/wiki/營銷 "wikilink")、[創作](https://zh.wikipedia.org/wiki/創作 "wikilink")、[漫畫出版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、及[雜誌出版](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。該公司曾经是[北美洲](../Page/北美洲.md "wikilink")最大家的[日本動畫代理公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 公司創立於1992年，創辦人是日本動畫迷[John Ledford和](https://zh.wikipedia.org/wiki/John_Ledford "wikilink")[Matt Greenfield](https://zh.wikipedia.org/wiki/Matt_Greenfield "wikilink")。公司自創立以來，規模越做越大，開設有多間分公司，旗下擁有不少物業、創作產權與及發行權。其中最出名的發行品，可能是自[GAINAX](../Page/GAINAX.md "wikilink")手上買回來，除澳洲及亞洲外，全球所有地方的《[新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")》動畫發行權。到結業為止，公司已在[北美](../Page/北美洲.md "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞洲均設有支部辦公室](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。
