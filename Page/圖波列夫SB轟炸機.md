@@ -1,3 +1,6 @@
+> 本文内容由[圖波列夫SB轟炸機](https://zh.wikipedia.org/wiki/圖波列夫SB轟炸機)转换而来。
+
+
 **圖波列夫SB轟炸機**，設計代號**TsAGI-40**、社內代號**ANT-40**，SB為俄文的**快速轟炸機**（ - *Skorostnoi Bombardirovschik* ），汉语译音读作“**斯勃**”。為蘇聯[圖波列夫設計局設計之單翼雙引擎三座](https://zh.wikipedia.org/wiki/圖波列夫設計局 "wikilink")[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，問世時其前衛的設計概念震撼國際，也是[蘇聯空軍](../Page/蘇聯空軍.md "wikilink")在1941年6月開戰時最主要的對地攻擊機種。
 
 ## 研發簡史

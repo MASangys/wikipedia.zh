@@ -1,3 +1,6 @@
+> 本文内容由[楊千嬅Minor Classics Live](https://zh.wikipedia.org/wiki/楊千嬅Minor_Classics_Live)转换而来。
+
+
 《**楊千嬅Minor Classics Live音樂會**》，為[香港](../Page/香港.md "wikilink")女歌手[楊千嬅](../Page/楊千嬅.md "wikilink")產子前最後一個演唱會\[1\]\[2\]\[3\]。
 
 [楊千嬅](../Page/楊千嬅.md "wikilink")出道以來除了主打歌以外，非主打歌亦在樂迷心目中同樣經典，在《LADIES & GENTLEMEN 世界巡迴演唱會 2010》[香港](../Page/香港.md "wikilink")站籌備期間有一些沒機會演唱的歌，在2011年11月24至28日於香港[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")匯星廳（Star Hall）舉行演唱會重新演釋。

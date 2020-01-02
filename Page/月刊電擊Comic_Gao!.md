@@ -1,3 +1,6 @@
+> 本文内容由[月刊電擊Comic Gao!](https://zh.wikipedia.org/wiki/月刊電擊Comic_Gao!)转换而来。
+
+
 《**月刊電擊Comic Gao\!**》是[日本](../Page/日本.md "wikilink")[ASCII Media Works所發行的一本的](../Page/ASCII_Media_Works.md "wikilink")[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1993年2月號（1992年12月發售）創刊，2008年4月號（2008年2月27日發售）休刊，休刊時連載作品轉移到《[電擊大王](https://zh.wikipedia.org/wiki/電擊大王 "wikilink")》。
 
 ## 休刊時連載的作品

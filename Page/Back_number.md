@@ -1,4 +1,7 @@
-**back number**（バックナンバー，簡稱「バクナン」、「bn」、「bknb」等）是一個[日本](../Page/日本.md "wikilink")三人摇滚乐组合，属[环球音乐唱片公司旗下](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，官方粉絲團名為「one room」。
+> 本文内容由[Back number](https://zh.wikipedia.org/wiki/Back_number)转换而来。
+
+
+**back number**（バックナンバー，簡稱「バクナン」、「bn」、「bknb」等）是一個[日本](../Page/日本.md "wikilink")[強力三重奏组合](https://zh.wikipedia.org/wiki/強力三重奏 "wikilink")，属[环球音乐唱片公司旗下](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，官方粉絲團名為「one room」。
 
 樂隊名稱「back number」在日本可以解作「雜誌的舊刊」，例如9月期的雜誌到了10月份就成為了「back number」；而清水取這名字是因為自己和樂隊成員被女生甩掉後，就會成為她們的「back number」，變成沒用的東西。\[1\]
 
@@ -409,7 +412,7 @@
 
   - [back number官方网站](http://backnumber.info)
 
-  - [back number - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/backnumber/)
+  - [back number - UNIVERSAL MUSIC JAPAN](https://web.archive.org/web/20121230182709/http://www.universal-music.co.jp/backnumber/)
 
   -
 [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")

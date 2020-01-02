@@ -1,3 +1,6 @@
+> 本文内容由[決勝時刻：黑色行動II](https://zh.wikipedia.org/wiki/決勝時刻：黑色行動II)转换而来。
+
+
 是一款由[Treyarch](../Page/Treyarch.md "wikilink")製作並由[動視發行的](https://zh.wikipedia.org/wiki/動視 "wikilink")[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，于2012年11月13日登陆[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360](../Page/Xbox_360.md "wikilink")，11月18日和11月30日分别登陆美国、欧洲和澳洲的[Wii U](../Page/Wii_U.md "wikilink")\[1\]\[2\]\[3\]，是[決勝時刻系列](../Page/決勝時刻系列.md "wikilink")的第9部作品、2010年游戏《[使命召唤：黑色行动](https://zh.wikipedia.org/wiki/使命召唤：黑色行动 "wikilink")》的续集和首部登陆Wii U平台的《使命召唤》作品\[4\]。
 
 游戏是《使命召唤》系列首次出现未来战争技术，首创由玩家选择分支剧情和剧情模式关卡开始前选择武器的玩法，还提供3D显示选项\[5\]。掌机版《[使命召唤：黑色行动 解密](../Page/使命召唤：黑色行动_解密.md "wikilink")》同步登陆[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")，发售仅24小时便创下5亿多美元的总额\[6\]。自2013年9月以来，游戏保持着史上最高的营销额，直至被《[侠盗猎车手V](https://zh.wikipedia.org/wiki/侠盗猎车手V "wikilink")》的8亿美元纪录打破\[7\]。2012年1月，游戏在美国售出750万张，成为该月最畅销的游戏\[8\]。

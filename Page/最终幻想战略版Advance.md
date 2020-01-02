@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想战略版Advance](https://zh.wikipedia.org/wiki/最终幻想战略版Advance)转换而来。
+
+
 《**最终幻想战略版Advance**》（，，简称为**FFTA**）是一款由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发并发售在[Game Boy Advance平台上的](../Page/Game_Boy_Advance.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本作是[最终幻想系列的一部外传性质作品](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。虽然同为“最终幻想战略版”，但是《最终幻想战略版Advance》并非是1997年的那部《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》的续作。在本作中，玩家将会以一个社团的形式进行战斗及任务，并控制团队的成员在网格状的战场地图上展开各种行动。玩家可以自由分配决定自己社团里的角色大多数的能力，职业以及状态。
 
 《最终幻想战略版Advance》的故事围绕着4位少年而展开。马修·拉德吉（，）、谬特·兰德尔（，）、丽滋·马卢尔（，）和德奈特·拉德吉（，）生活在一座名为[伊瓦莉斯的小镇上](../Page/伊瓦莉斯聯盟.md "wikilink")。一天，他们在翻阅了一本古老的魔法书之后被传送到一个从未见过的次元，而这个次元世界的名字恰巧也叫作“伊瓦莉斯”。故事将重点放在了马修为了设法努力回到原来的世界而展开的冒险上。

@@ -1,3 +1,6 @@
+> 本文内容由[大治南IC](https://zh.wikipedia.org/wiki/大治南IC)转换而来。
+
+
 **大治南IC**（平假名：おおはるみなみインターチェンジ）是位於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中川區](../Page/中川區.md "wikilink")的[名古屋第二環狀自動車道](../Page/名古屋第二環狀自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。此交流道只提供外回方向入口與內回方向出口\[1\]\[2\]\[3\]\[4\]。
 
 ## 連接道路

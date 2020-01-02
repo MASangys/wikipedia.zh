@@ -1,3 +1,6 @@
+> 本文内容由[劇團！Theatre](https://zh.wikipedia.org/wiki/劇團！Theatre)转换而来。
+
+
 《**劇團！Theatre**》()是日本作家[有川浩](../Page/有川浩.md "wikilink")的系列作品。
 
 於2011年1月舞台化，由演出，劇本由有川浩所寫，劇名《》。而該舞台劇劇本於2011年5月發售。

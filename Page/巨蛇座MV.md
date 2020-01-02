@@ -1,3 +1,6 @@
+> 本文内容由[巨蛇座MV](https://zh.wikipedia.org/wiki/巨蛇座MV)转换而来。
+
+
 **巨蛇座MV**，又名**BD+03 3737**，**HD 170973**、**SAO 123610**、**HR 6958**，是[巨蛇座](../Page/巨蛇座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为6.43，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")34，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")5.96，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

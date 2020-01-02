@@ -1,3 +1,6 @@
+> 本文内容由[Reflection](https://zh.wikipedia.org/wiki/Reflection)转换而来。
+
+
 《**Reflection**》，是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")的第十九張個人粵語大碟，於2013年2月7日正式發售。共收錄了10首粵語歌曲。於[iTunes推出Deluxe版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄《So Hot (Director Cut)》，連續多天於香港及其他國家／地區登上[iTunes專輯排行榜](https://zh.wikipedia.org/wiki/iTunes "wikilink")。首波主打《So Hot》成為三個電台冠軍歌，更連續於2月25日至3月12日連續三星期登上[Red MR紅人榜榜首](https://zh.wikipedia.org/wiki/Red_MR "wikilink")。4月5日推出第二版《**Reflection 2nd Edition**》CD加錄《抱喜》（《[八星抱喜](../Page/八星抱喜.md "wikilink")》主題曲），DVD加錄《Moov Live 2013陳慧琳》演唱會全實錄。
 
 ### 曲目

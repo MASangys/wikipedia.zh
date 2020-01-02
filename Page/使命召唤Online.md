@@ -1,3 +1,6 @@
+> 本文内容由[使命召唤Online](https://zh.wikipedia.org/wiki/使命召唤Online)转换而来。
+
+
 是一款由[美国动视旗下的](https://zh.wikipedia.org/wiki/美国动视 "wikilink")[Raven工作室制作](../Page/Raven_Software.md "wikilink")、[腾讯公司独家代理的一款](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")[第一人称射击的](https://zh.wikipedia.org/wiki/第一人称射击 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")\[1\]。之前的测试由上海动视制作，由于动视对中国这一庞大市场保持期望，改由动视王牌工作室raven接手，腾讯公司代理。本游戏目前只在中国大陆开放，暫無全球上市的規劃。
 
 ## 游戏背景

@@ -1,3 +1,6 @@
+> 本文内容由[周融 繆美詩 新聞 個人Show](https://zh.wikipedia.org/wiki/周融_繆美詩_新聞_個人Show)转换而来。
+
+
 \-{T|zh-hans:周融·缪美诗 新闻·个人Show;zh-hant:周融·繆美詩 新聞·個人Show;}-
 
 《**周融·繆美詩 新聞·個人Show**》，是[香港亞洲電視製作的新聞時事資訊清談節目](https://zh.wikipedia.org/wiki/香港亞洲電視 "wikilink")，節目由[繆美詩](../Page/繆美詩.md "wikilink")及[周融](../Page/周融.md "wikilink")擔任主持。節目從不同角度探討当日的新闻重点，還會邀請嘉賓作現場討論、分析和發表意見。節目于2012年6月25日首播。

@@ -1,3 +1,6 @@
+> 本文内容由[炎龍騎士團II 黃金城之謎](https://zh.wikipedia.org/wiki/炎龍騎士團II_黃金城之謎)转换而来。
+
+
 《**炎龍騎士團II 黃金城之謎**》是由[漢堂國際資訊公司於](https://zh.wikipedia.org/wiki/漢堂國際資訊 "wikilink")1995年發行的[個人電腦平台](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，為《[炎龍騎士團](https://zh.wikipedia.org/wiki/炎龍騎士團 "wikilink")》系列的第二作。
 
 遊戲在初期發售時，有搭配附贈限量製作的紙雕座鐘、作為促銷手法。\[1\]
@@ -66,16 +69,10 @@
 [Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:炎龍騎士團系列](https://zh.wikipedia.org/wiki/Category:炎龍騎士團系列 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.
 6.  《炎龍騎士團 I．II 光碟合輯》盒裝說明
-
 7.
-
 8.

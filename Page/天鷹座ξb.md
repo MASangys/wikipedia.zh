@@ -1,3 +1,6 @@
+> 本文内容由[天鷹座ξb](https://zh.wikipedia.org/wiki/天鷹座ξb)转换而来。
+
+
 **天鷹座ξb**（**Xi Aquilae b**，或 **ksi Aql b**）是一顆距離地球約200光年的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")，位於天鷹座。母恆星是黃巨星[天鷹座ξ](https://zh.wikipedia.org/wiki/天鷹座ξ "wikilink")，發現於2008年。該恆星質量下限是2.8倍木星質量，軌道周期137日。
 
 ## 參見

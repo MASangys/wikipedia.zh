@@ -1,3 +1,6 @@
+> 本文内容由[浪漫滿屋 TAKE 2](https://zh.wikipedia.org/wiki/浪漫滿屋_TAKE_2)转换而来。
+
+
 《**浪漫滿屋 TAKE 2**》（，）是一部中韓日三國聯合製作的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。與2004年[宋慧喬](../Page/宋慧喬.md "wikilink")和[Rain](../Page/Rain.md "wikilink")主演的《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》一樣是以契約婚姻為主軸，所製作的第二版電視劇，由日本[TBS](../Page/TBS.md "wikilink")在2012年10月5日率先播出，其後自2012年10月22日起週一至週四中午12:30於韓國有線台SBS Plus播出。
 
 ## 劇情

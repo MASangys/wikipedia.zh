@@ -1,3 +1,6 @@
+> 本文内容由[唧筒座U](https://zh.wikipedia.org/wiki/唧筒座U)转换而来。
+
+
 [U_Antliae_-_ALMA_-_Eso1730a.tif](https://zh.wikipedia.org/wiki/File:U_Antliae_-_ALMA_-_Eso1730a.tif "fig:U_Antliae_-_ALMA_-_Eso1730a.tif")（ALMA）觀測唧筒座U外圍塵埃殼層影像。\]\] **唧筒座U**（**U Antliae**，U Ant）又名**CD-38 6579**，**HD 91793**、**SAO 201533**、**HR 4153**，是[唧筒座](../Page/唧筒座.md "wikilink")的一颗恒星\[1\]。
 
 ## 概要

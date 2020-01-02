@@ -1,3 +1,6 @@
+> 本文内容由[大犬座FN](https://zh.wikipedia.org/wiki/大犬座FN)转换而来。
+
+
 **大犬座FN**，又名**BD-11 1790**，**HD 53974**、**SAO 152394**、**HR 2678**，是[大犬座](../Page/大犬座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.39，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")224.71，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-1.79，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

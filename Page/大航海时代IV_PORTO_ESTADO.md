@@ -1,3 +1,6 @@
+> 本文内容由[大航海时代IV PORTO ESTADO](https://zh.wikipedia.org/wiki/大航海时代IV_PORTO_ESTADO)转换而来。
+
+
 《大航海时代IV PORTO ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")1999年在[Windows平台发行的一款角色扮演战略游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")（后来被移植到[任天堂DS](../Page/任天堂DS.md "wikilink")和[PlayStation](../Page/PlayStation.md "wikilink")之上），也是[大航海时代系列的第五作](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")（包括《[大航海时代外传](https://zh.wikipedia.org/wiki/大航海时代外传 "wikilink")》）。
 
 游戏延续了该系列的特色，在游戏中，玩家扮演一位商会首领，率领一支远航舰队进行[贸易](../Page/贸易.md "wikilink")、[私掠](../Page/私掠.md "wikilink")、[交战](https://zh.wikipedia.org/wiki/海战 "wikilink")、[探险等](https://zh.wikipedia.org/wiki/探险 "wikilink")。可操作的主角人物是4位（威力加强版中又增加了3位），遍布于世界的各个角落，而不再继续以[欧洲](../Page/欧洲.md "wikilink")为世界观的中心。本作大致时间背景为16世纪末至17世纪初，欧洲人在[新大陆](https://zh.wikipedia.org/wiki/新大陆 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")等地开展[殖民和贸易活动](../Page/殖民主义.md "wikilink")，与此同时，原来的海洋霸主[西班牙和](https://zh.wikipedia.org/wiki/西班牙帝国 "wikilink")[葡萄牙正在受到新兴航海国家的挑战](https://zh.wikipedia.org/wiki/葡萄牙帝国 "wikilink")。

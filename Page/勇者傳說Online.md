@@ -1,3 +1,6 @@
+> 本文内容由[勇者傳說Online](https://zh.wikipedia.org/wiki/勇者傳說Online)转换而来。
+
+
 《**勇者傳說Online**》（GetAmped2），簡稱**GA2**，是由[CyberStep製作的一款](https://zh.wikipedia.org/wiki/CyberStep "wikilink")[線上](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，游戏运行于[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac OS X平台](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。游戏是《[百變恰吉](https://zh.wikipedia.org/wiki/百變恰吉 "wikilink")》的續作，在[臺灣](../Page/臺灣.md "wikilink")由[聚樂亞洲](https://zh.wikipedia.org/wiki/聚樂亞洲 "wikilink")（CyberStep Asia）所代理，於2010年1月1日開始封測\[1\]，2011年12月14日開始公測\[2\]。
 
 ## 參考资料

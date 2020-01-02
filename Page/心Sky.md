@@ -1,3 +1,6 @@
+> 本文内容由[心Sky](https://zh.wikipedia.org/wiki/心Sky)转换而来。
+
+
 「**心Sky**」（）是[寿美菜子的第](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月11日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 收錄曲

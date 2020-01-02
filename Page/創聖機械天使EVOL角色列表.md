@@ -1,3 +1,6 @@
+> 本文内容由[創聖機械天使EVOL角色列表](https://zh.wikipedia.org/wiki/創聖機械天使EVOL角色列表)转换而来。
+
+
 **創聖機械天使EVOL角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[創聖機械天使EVOL](../Page/創聖機械天使EVOL.md "wikilink")》及其外傳登場的角色。
 
 ## 聖天使學園·男生

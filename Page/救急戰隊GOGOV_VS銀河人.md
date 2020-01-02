@@ -1,3 +1,6 @@
+> 本文内容由[救急戰隊GOGOV VS銀河人](https://zh.wikipedia.org/wiki/救急戰隊GOGOV_VS銀河人)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

@@ -1,3 +1,6 @@
+> 本文内容由[恩菲爾德No.2轉輪手槍](https://zh.wikipedia.org/wiki/恩菲爾德No.2轉輪手槍)转换而来。
+
+
 **恩菲爾德No.2轉輪手槍**（）是[第二次世界大戰期間被](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[英國軍隊](../Page/英國軍隊.md "wikilink")廣泛地使用的[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")。該槍與另一款英國制式轉輪手槍[韋伯利轉輪手槍](../Page/韋伯利轉輪手槍.md "wikilink")一樣都採用了[中折式](../Page/中折式.md "wikilink")設計，其特徵是在用戶折開槍管的同時，彈巢內的彈殼便會自動彈出，並方便於重新裝填。
 
 ## 歷史

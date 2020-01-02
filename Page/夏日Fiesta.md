@@ -1,3 +1,6 @@
+> 本文内容由[夏日Fiesta](https://zh.wikipedia.org/wiki/夏日Fiesta)转换而来。
+
+
 《**夏日Fiesta**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[劉德華](../Page/劉德華.md "wikilink")於2001年8月17日發行的專輯\[1\]，主要收錄[劉德華](../Page/劉德華.md "wikilink")演繹的主題曲。
 
 ## 曲目列表

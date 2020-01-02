@@ -1,3 +1,6 @@
+> 本文内容由[国际IMPAC都柏林文学奖](https://zh.wikipedia.org/wiki/国际IMPAC都柏林文学奖)转换而来。
+
+
 **国际IMPAC都柏林文学奖**（英语：International IMPAC Dublin Literary Award；爱尔兰语：Duais Liteartha Idirnáisiúnta Bhaile Átha Chliath）是一个国际性的文学奖项，奖励小说作品，由都柏林市政府和IMPAC联合主办公司。它的奖金高达€100,000，是世界上奖金最多的文学奖之一。提名由世界各地公共图书馆提交。一些该奖的获得者后来亦获得了诺贝尔文学奖，如[赫塔·米勒](../Page/赫塔·米勒.md "wikilink")、[奥尔罕·帕慕克](https://zh.wikipedia.org/wiki/奥尔罕·帕慕克 "wikilink")。
 
 ## 歷屆得主

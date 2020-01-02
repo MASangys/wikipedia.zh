@@ -1,3 +1,6 @@
+> 本文内容由[分配器 \(C++\)](https://zh.wikipedia.org/wiki/分配器_\(C++\))转换而来。
+
+
 [AlexanderStepanov.jpg](https://zh.wikipedia.org/wiki/File:AlexanderStepanov.jpg "fig:AlexanderStepanov.jpg")
 
 在[C++](../Page/C++.md "wikilink")编程中，**分配器**（）是[C++标准库的重要组成部分](https://zh.wikipedia.org/wiki/C++标准库 "wikilink")。C++的库中定义了多种被统称为“[容器](https://zh.wikipedia.org/wiki/容器_\(计算机科学\) "wikilink")”的[数据结构](../Page/数据结构.md "wikilink")（如[链表](../Page/链表.md "wikilink")、[集合等](https://zh.wikipedia.org/wiki/集合_\(計算機科學\) "wikilink")），这些容器的共同特征之一，就是其大小可以在程序的[运行时改变](https://zh.wikipedia.org/wiki/运行时 "wikilink")；为了实现这一点，进行动态内存分配就显得尤为必要，在此分配器就用于处理容器对[内存的分配与释放请求](https://zh.wikipedia.org/wiki/内存管理 "wikilink")。换句话说，分配器用于封装[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")（STL）容器在内存管理上的低层细节。默认情况下，C++标准库使用其自带的通用分配器，但根据具体需要，程序员也可自行定制分配器以替代之。

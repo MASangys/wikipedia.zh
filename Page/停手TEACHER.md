@@ -1,3 +1,6 @@
+> 本文内容由[停手TEACHER](https://zh.wikipedia.org/wiki/停手TEACHER)转换而来。
+
+
 『**停手TEACHER**』（）是[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")的第2張單曲，於1985年10月21日發售。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士 Climax Heroes角色列表](https://zh.wikipedia.org/wiki/假面騎士_Climax_Heroes角色列表)转换而来。
+
+
 **假面騎士 Climax Heroes角色列表**為遊戲作品《[假面騎士 Climax Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介紹。
 
 為求方便，各騎士的基本形態，名稱不明的都標明為「**Normal**」。

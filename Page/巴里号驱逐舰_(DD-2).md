@@ -1,3 +1,6 @@
+> 本文内容由[巴里号驱逐舰 \(DD-2\)](https://zh.wikipedia.org/wiki/巴里号驱逐舰_\(DD-2\))转换而来。
+
+
 **巴里号驱逐舰**（USS Barry DD-2）是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/班布里奇级驱逐舰 "wikilink")，也是美军第一艘以“美国海军之父”——[獨立戰爭時代](../Page/美國獨立戰爭.md "wikilink")（1745年–1803年）命名的-{zh-tw:船艦;zh-cn:舰船;}-。
 
 ## 建造

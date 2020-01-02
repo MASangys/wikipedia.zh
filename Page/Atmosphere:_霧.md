@@ -1,15 +1,13 @@
-《**Atmosphere:
-霧**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第三張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2013年2月8日發行。
+> 本文内容由[Atmosphere: 霧](https://zh.wikipedia.org/wiki/Atmosphere:_霧)转换而来。
+
+
+《**Atmosphere: 霧**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第三張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2013年2月8日發行。
 
 ## 專輯簡介
 
-2012年，王菀之以「**Atmosphere**」（氣象系列）為音樂主題，首次邀請[香港](../Page/香港.md "wikilink")[獨立樂隊](https://zh.wikipedia.org/wiki/獨立樂隊 "wikilink")[Chochukmo](https://zh.wikipedia.org/wiki/Chochukmo "wikilink")、[常石磊等音樂人為她的專輯作曲](https://zh.wikipedia.org/wiki/常石磊 "wikilink")，推出了《**Atmosphere
-No.1: 水**》和《**Atmosphere No.2:
-雪**》兩張限量[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。本專輯收錄單曲中的歌曲《Made
-of Water》和《留白》，另外收錄最新「氣象系列」《**Atmosphere No.3: 風**》的歌曲《皇后餐廳》。
+2012年，王菀之以「**Atmosphere**」（氣象系列）為音樂主題，首次邀請[香港](../Page/香港.md "wikilink")[獨立樂隊](https://zh.wikipedia.org/wiki/獨立樂隊 "wikilink")[Chochukmo](https://zh.wikipedia.org/wiki/Chochukmo "wikilink")、[常石磊](../Page/常石磊.md "wikilink")等音樂人為她的專輯作曲，推出了《**Atmosphere No.1: 水**》和《**Atmosphere No.2: 雪**》兩張限量[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。本專輯收錄單曲中的歌曲《Made of Water》和《留白》，另外收錄最新「氣象系列」《**Atmosphere No.3: 風**》的歌曲《皇后餐廳》。
 
-另外，因早前拍攝香港男歌手兼好友[張繼聰的歌曲](../Page/張繼聰.md "wikilink")《生命之花》MV大受歡迎\[1\]，隨後二人推出《生命之花》合唱版，以Bonus
-Track 形式收錄在本專輯。
+另外，因早前拍攝香港男歌手兼好友[張繼聰](../Page/張繼聰.md "wikilink")的歌曲《生命之花》MV大受歡迎\[1\]，隨後二人推出《生命之花》合唱版，以Bonus Track 形式收錄在本專輯。
 
 ## 曲目
 
@@ -22,22 +20,14 @@ Track 形式收錄在本專輯。
 出自《Atmosphere: 霧》專輯內頁。\[2\]
 **音樂**
 
-  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
-    <small>(所有歌曲)</small>、和音 <small>(1-2)</small>
-  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(2-3)</small>、所有樂器
-    <small>(2)</small>、wobble bass <small>(2)</small>、鋼琴
-    <small>(3)</small>、Fender Rhodes鋼琴 <small>(3)</small>
-  - [常石磊](https://zh.wikipedia.org/wiki/常石磊 "wikilink") – 作曲
-    <small>(2)</small>、編曲 <small>(2)</small>、所有樂器 <small>(2)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音 <small>(所有歌曲)</small>、和音 <small>(1-2)</small>
+  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(2-3)</small>、所有樂器 <small>(2)</small>、wobble bass <small>(2)</small>、鋼琴 <small>(3)</small>、Fender Rhodes鋼琴 <small>(3)</small>
+  - [常石磊](../Page/常石磊.md "wikilink") – 作曲 <small>(2)</small>、編曲 <small>(2)</small>、所有樂器 <small>(2)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(2)</small>
-  - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") – 作曲
-    <small>(3)</small>
-  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
-    <small>(3)</small>
-  - [張繼聰](../Page/張繼聰.md "wikilink") – 主音 <small>(4)</small>、作曲
-    <small>(4)</small>、額外電腦程式 <small>(4)</small>、和音 <small>(4)</small>
-  - [小克](https://zh.wikipedia.org/wiki/小克 "wikilink") – 作詞
-    <small>(4)</small>
+  - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink") – 作曲 <small>(3)</small>
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞 <small>(3)</small>
+  - [張繼聰](../Page/張繼聰.md "wikilink") – 主音 <small>(4)</small>、作曲 <small>(4)</small>、額外電腦程式 <small>(4)</small>、和音 <small>(4)</small>
+  - [小克](https://zh.wikipedia.org/wiki/小克 "wikilink") – 作詞 <small>(4)</small>
 
 <!-- end list -->
 
@@ -54,11 +44,9 @@ Track 形式收錄在本專輯。
 
 <!-- end list -->
 
-  - [Chochukmo](https://zh.wikipedia.org/wiki/Chochukmo "wikilink") – 作曲
-    <small>(1)</small>、作詞 <small>(1)</small>、編曲 <small>(1)</small>
+  - [Chochukmo](https://zh.wikipedia.org/wiki/Chochukmo "wikilink") – 作曲 <small>(1)</small>、作詞 <small>(1)</small>、編曲 <small>(1)</small>
   - Scott Dodd – upright低音吉他 <small>(3)</small>
-  - [Goro](../Page/Zarahn.md "wikilink") – 編曲 <small>(4)</small>、電腦程式
-    <small>(4)</small>、吉他 <small>(4)</small>、低音吉他 <small>(4)</small>
+  - [Goro](../Page/Zarahn.md "wikilink") – 編曲 <small>(4)</small>、電腦程式 <small>(4)</small>、吉他 <small>(4)</small>、低音吉他 <small>(4)</small>
   - [Mike Orange](../Page/觸執毛.md "wikilink") – 吉他 <small>(1)</small>
   - Leslie Ryang – 小提琴 <small>(2)</small>
   - Derrick Sepnio – 尼龍吉他 <small>(3)</small>、電吉他 <small>(3)</small>
@@ -68,8 +56,7 @@ Track 形式收錄在本專輯。
 **製作**
 
   - 王菀之 – 聯合監製 <small>(3)</small>
-  - 馮翰銘 – 監製 <small>(所有歌曲)</small>、錄音 <small>(1-3)</small>、混音
-    <small>(2-3)</small>
+  - 馮翰銘 – 監製 <small>(所有歌曲)</small>、錄音 <small>(1-3)</small>、混音 <small>(2-3)</small>
   - 銘 – 錄音 <small>(4)</small>
   - 蔡亞敏 – 錄音 <small>(4)</small>
 
@@ -128,12 +115,12 @@ Track 形式收錄在本專輯。
 
 ## 音樂錄像
 
-| 曲目次序 | 歌名            | 導演                | 首發日期        | 首發平台                                                      | 連結                                                        |
-| ---- | ------------- | ----------------- | ----------- | --------------------------------------------------------- | --------------------------------------------------------- |
-| 01   | Made of Water | Vernie Yeung\[3\] | 2012年9月27日  | [Youtube](../Page/Youtube.md "wikilink")                  | [官方Youtube連結](http://www.youtube.com/watch?v=SW3y14rnwLY) |
-| 02   | 留白            | Vernie Yeung\[4\] | 2012年10月24日 | [官方Youtube連結](http://www.youtube.com/watch?v=GlNDyGONsXI) |                                                           |
-| 03   | 皇后餐廳          |                   | 2013年2月5日   | [官方Youtube連結](http://www.youtube.com/watch?v=Q_qovInViZw) |                                                           |
-| 04   | 生命之花（合唱版）     | Heison Ng         | 2012年11月3日  | [官方Youtube連結](http://www.youtube.com/watch?v=M01lEvBn6N0) |                                                           |
+| 曲目次序 | 歌名            | 導演                | 首發日期        | 首發平台                                                        | 連結                                                        |
+| ---- | ------------- | ----------------- | ----------- | ----------------------------------------------------------- | --------------------------------------------------------- |
+| 01   | Made of Water | Vernie Yeung\[3\] | 2012年9月27日  | [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [官方Youtube連結](http://www.youtube.com/watch?v=SW3y14rnwLY) |
+| 02   | 留白            | Vernie Yeung\[4\] | 2012年10月24日 | [官方Youtube連結](http://www.youtube.com/watch?v=GlNDyGONsXI)   |                                                           |
+| 03   | 皇后餐廳          |                   | 2013年2月5日   | [官方Youtube連結](http://www.youtube.com/watch?v=Q_qovInViZw)   |                                                           |
+| 04   | 生命之花（合唱版）     | Heison Ng         | 2012年11月3日  | [官方Youtube連結](http://www.youtube.com/watch?v=M01lEvBn6N0)   |                                                           |
 
 ## 派台歌曲及成績
 
@@ -175,10 +162,8 @@ Track 形式收錄在本專輯。
   - 香港：[2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")－十大勁歌金曲
   - 香港：[2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")－金曲金獎
   - 香港：[第三十五屆十大中文金曲頒獎音樂會](../Page/第三十五屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲
-  - 香港：[2013
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
-  - 香港：[2013
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
+  - 香港：[2013 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
+  - 香港：[2013 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－最佳女歌手演繹（提名）
   - 中國：第九屆勁歌王頒獎禮－粵語金曲獎
   - 中國：第九屆勁歌王頒獎禮－至尊金曲獎
 
@@ -213,20 +198,13 @@ Track 形式收錄在本專輯。
 
 ## 參考文獻
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
 
 1.  [張繼聰－《生命之花》官方Youtube MV](http://www.youtube.com/watch?v=0vOjR_GXg5I)
-
 2.
-
 3.  [Vernie Yeung：Promo](http://www.iamverynice.com/promos)
-
 4.
-5.  [HMV 整體排行榜](http://www.hmv.com.hk/ch/charts/default.asp?subm=chart)
-
+5.
 6.  [HMV 亞洲音樂排行榜](http://www.hmv.com.hk/ch/charts/asian.asp?subm=chart)
-
 7.  [HMV 國粵語音樂排行榜](http://www.hmv.com.hk/ch/charts/canto.asp?subm=chart)
-
 8.
