@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-moveEditsection.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-moveEditsection.js)转换而来。
+
+
 /\* Der Grossteil der Codes befindet sich in [MediaWiki:Common.js](../MediaWiki/Common.js.md "wikilink") \*/
 
 //================================================================================ //\*\*\* moveEditsection: Moving of the editsection links

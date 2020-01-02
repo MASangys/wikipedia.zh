@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Common.js/edit.js](https://zh.wikipedia.org/wiki/MediaWiki:Common.js/edit.js)转换而来。
+
+
 //
 
 ``` javascript

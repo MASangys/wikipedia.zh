@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-contribsrange.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-contribsrange.js)转换而来。
+
+
 // _________________________________________________________________________________________ // | | // | === WARNING: GLOBAL GADGET FILE === | // | Changes to this page affect many users. | // | Please discuss changes on the talk page or on [Wikipedia_talk:Gadget](https://zh.wikipedia.org/wiki/Wikipedia_talk:Gadget "wikilink") before editing. | // |_________________________________________________________________________________________| // // Imported from version 312947638 as of September 10, 2009 from [User:Splarka/contribsrange.js](https://zh.wikipedia.org/wiki/User:Splarka/contribsrange.js "wikilink") // See notes below
 
 /\* Special:Contributions Wildcard/CIDR lookup, version \[0.2.7\] Originally from: <https://en.wikipedia.org/wiki/User:Splarka/contribsrange.js>

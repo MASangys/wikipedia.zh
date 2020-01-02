@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:BlockMessage-uw-cblock/zh](https://zh.wikipedia.org/wiki/MediaWiki:BlockMessage-uw-cblock/zh)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

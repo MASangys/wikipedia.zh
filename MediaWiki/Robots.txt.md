@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Robots.txt](https://zh.wikipedia.org/wiki/MediaWiki:Robots.txt)转换而来。
+
+
 ` #   `
 
 ``` robots

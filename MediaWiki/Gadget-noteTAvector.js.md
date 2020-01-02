@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-noteTAvector.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-noteTAvector.js)转换而来。
+
+
 noteTAvector = ( function() { $( function() {
 
 `   $( 'body.skin-vector .mw-indicator[id^=mw-indicator-noteTA-]' )`

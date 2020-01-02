@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Deletedtext/zh-hant](https://zh.wikipedia.org/wiki/MediaWiki:Deletedtext/zh-hant)转换而来。
+
+
 <div class="plainlinks">
 
 「**$1**」已經被刪除（[恢復刪除](https://zh.wikipedia.org/wiki/Special:Undelete/$1 "wikilink")、\[ 白紙保護\]）。最近刪除的記錄請參見$2。 {{\#ifeq:|||{{\#ifexist:|

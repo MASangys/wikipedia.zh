@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Noarticletext-nopermission/zh-my](https://zh.wikipedia.org/wiki/MediaWiki:Noarticletext-nopermission/zh-my)转换而来。
+
+
 <div class="plainlinks" id="noarticletext" style="padding: 7px;">
 
 {{\#ifeq:||

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Blockedtext](https://zh.wikipedia.org/wiki/MediaWiki:Blockedtext)转换而来。
+
+
 __NOEDITSECTION____NOTOC__
 
 <table>

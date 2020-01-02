@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-externalsearch.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-externalsearch.js)转换而来。
+
+
 /\*
 
 ## [Special:Search其他搜尋引擎連結表單](https://zh.wikipedia.org/wiki/Special:Search "wikilink")

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Monobook.css](https://zh.wikipedia.org/wiki/MediaWiki:Monobook.css)转换而来。
+
+
 /\* Monobook皮肤的公共CSS
 
 管理员注意！任何对Monobook.css的改变必须先在技术客栈讨论，谢谢。 \*/

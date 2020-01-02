@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Mobile.css](https://zh.wikipedia.org/wiki/MediaWiki:Mobile.css)转换而来。
+
+
 /\* Hide the images \*/ .geo-nondefault, .geo-multi-punct, /\* Hide stuff meant for accounts with special permissions. Made visible again in
 
 `  `[`MediaWiki:Group-sysop.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-sysop.css "wikilink")`, `[`MediaWiki:Group-accountcreator.css`](https://zh.wikipedia.org/wiki/MediaWiki:Group-accountcreator.css "wikilink")` and`

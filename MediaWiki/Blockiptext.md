@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Blockiptext](https://zh.wikipedia.org/wiki/MediaWiki:Blockiptext)转换而来。
+
+
 管理員可以使用這個特殊頁面來禁止一個特定的IP地址或用戶的編輯。
 
 只有在防止蓄意破壞，及符合[方針與指引](https://zh.wikipedia.org/wiki/維基百科:方針與指引 "wikilink")，或是用戶違反[封禁方針的情况下才可採取此行動](https://zh.wikipedia.org/wiki/Wikipedia:封禁方針 "wikilink")。请在下面输入一个具体的理由（例如引述一个被破坏的页面）。所有的封禁將會記錄在[封禁日誌](https://zh.wikipedia.org/wiki/Special:Log/block "wikilink")。

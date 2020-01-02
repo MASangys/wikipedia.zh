@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Common.js/getElementsByClassName.js](https://zh.wikipedia.org/wiki/MediaWiki:Common.js/getElementsByClassName.js)转换而来。
+
+
 //
 
 ``` JavaScript

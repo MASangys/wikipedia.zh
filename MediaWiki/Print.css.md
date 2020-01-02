@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Print.css](https://zh.wikipedia.org/wiki/MediaWiki:Print.css)转换而来。
+
+
 /\* 标题与内容字体互换，优化纸张打印效果\*/ html, body {
 
 `   font-family: 'Linux Libertine',Georgia,Times,serif;`

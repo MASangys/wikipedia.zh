@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-Edittools-delh.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-Edittools-delh.js)转换而来。
+
+
 if (/^Wikipedia:(?:頁面|檔案)存廢討論\\//i.test(mw.config.get('wgPageName'))) {
 
 ` function getVfdText(code, comment) {`

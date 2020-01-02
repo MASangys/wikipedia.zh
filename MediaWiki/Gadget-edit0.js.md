@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-edit0.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-edit0.js)转换而来。
+
+
 // <https://en.wikipedia.org/w/index.php?title=MediaWiki:Gadget-edittop.js&oldid=675636814>
 
 // \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* // \*\* \*\*\*WARNING GLOBAL GADGET FILE\*\*\* \*\* // \*\* changes to this file affect many users. \*\* // \*\* please discuss on the talk page before editing \*\* // \*\* \*\* // \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* // Imported from [User:Alex Smotrov/edittop.js](https://zh.wikipedia.org/wiki/User:Alex_Smotrov/edittop.js "wikilink"), version as of: 2007-06-19T04:28:52 // Updated from [User:TheDJ/Gadget-edittop.js](https://zh.wikipedia.org/wiki/User:TheDJ/Gadget-edittop.js "wikilink"), version as of: 2009-04-28T11:54:22

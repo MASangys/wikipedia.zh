@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Movepage-moved/zh-my](https://zh.wikipedia.org/wiki/MediaWiki:Movepage-moved/zh-my)转换而来。
+
+
 <div class="plainlinks">
 
 <div class="successbox">

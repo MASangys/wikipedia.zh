@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Bad image list](https://zh.wikipedia.org/wiki/MediaWiki:Bad_image_list)转换而来。
+
+
 这是一个不能在文章中在线显示的图像列表。
 
   - [:<File:69ing.png>](https://zh.wikipedia.org/wiki/:File:69ing.png "wikilink")

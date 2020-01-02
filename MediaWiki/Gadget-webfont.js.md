@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-webfont.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-webfont.js)转换而来。
+
+
 //使用方法参考 <http://glyphwiki.org/wiki/GlyphWiki:%E3%81%A9%E3%81%86%E3%82%84%E3%81%A3%E3%81%A6%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B> //2012-09-11
 
 if ($('div\#content').find('span\#glyphwebfont').length || $('div\#content').find('span\#glyphwebfont-one').length){

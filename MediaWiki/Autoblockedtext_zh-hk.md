@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Autoblockedtext/zh-hk](https://zh.wikipedia.org/wiki/MediaWiki:Autoblockedtext/zh-hk)转换而来。
+
+
 __NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text style="border:1px solid \#000; width:100%; margin:auto;"\>
 
 <div style="text-align:right;">

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-internalLinkHelper-cravix.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-internalLinkHelper-cravix.js)转换而来。
+
+
 importScript('MediaWiki:Tooltips.js');
 
 setTimeout(function(){

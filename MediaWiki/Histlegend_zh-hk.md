@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Histlegend/zh-hk](https://zh.wikipedia.org/wiki/MediaWiki:Histlegend/zh-hk)转换而来。
+
+
 <div id="histlegend" style="border-style: solid; background-color: #f9f9f9; border-color: #e9e9e9;  border-width: 1px; font-size: 90%; margin-top: 2px; margin-bottom: 2px; padding: 0 5px 5px 5px; clear: both">
 
 選擇下列任何一個版本的日期點擊可以瀏覽。需要更多幫助請參看[Help:頁面歷史和](https://zh.wikipedia.org/wiki/Help:頁面歷史 "wikilink")[Help:編輯摘要](https://zh.wikipedia.org/wiki/Help:編輯摘要 "wikilink")。

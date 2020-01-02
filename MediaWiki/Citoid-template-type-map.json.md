@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Citoid-template-type-map.json](https://zh.wikipedia.org/wiki/MediaWiki:Citoid-template-type-map.json)转换而来。
+
+
 {
 
 `   "artwork": "Citation",`

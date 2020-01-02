@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-Blackskin.css](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-Blackskin.css)转换而来。
+
+
 /\*\* MediaWiki:Gadget-Blackskin.css \*\*\*\*\*\*\*
 
 `* Original by `[`:it:Utente:Kormoran`](https://zh.wikipedia.org/wiki/:it:Utente:Kormoran "wikilink")

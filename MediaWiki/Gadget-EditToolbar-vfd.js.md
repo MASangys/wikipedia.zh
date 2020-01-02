@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-EditToolbar-vfd.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-EditToolbar-vfd.js)转换而来。
+
+
 if (mw.config.get('wgAction') == 'edit' || mw.config.get('wgAction') == 'submit') {
 
 `   jQuery.extend(true, editToolbarConfiguration, {`

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Blockedtext/zh-mo](https://zh.wikipedia.org/wiki/MediaWiki:Blockedtext/zh-mo)转换而来。
+
+
 __NOEDITSECTION____NOTOC__
 
 <table>

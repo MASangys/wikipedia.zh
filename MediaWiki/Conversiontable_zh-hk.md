@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Conversiontable/zh-hk](https://zh.wikipedia.org/wiki/MediaWiki:Conversiontable/zh-hk)转换而来。
+
+
 ## 單位
 
 \-{

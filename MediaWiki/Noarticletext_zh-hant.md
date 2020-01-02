@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Noarticletext/zh-hant](https://zh.wikipedia.org/wiki/MediaWiki:Noarticletext/zh-hant)转换而来。
+
+
 <div class="plainlinks" id="noarticletext" style="padding: 7px;">
 
 {{\#ifeq:||

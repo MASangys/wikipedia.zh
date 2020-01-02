@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadgets-definition](https://zh.wikipedia.org/wiki/MediaWiki:Gadgets-definition)转换而来。
+
+
 [Special:Gadgets](https://zh.wikipedia.org/wiki/Special:Gadgets "wikilink") [Special:GadgetUsage](https://zh.wikipedia.org/wiki/Special:GadgetUsage "wikilink") [Special:参数设置\#mw-prefsection-gadgets](https://zh.wikipedia.org/wiki/Special:参数设置#mw-prefsection-gadgets "wikilink")
 
 <div style='font-family:monospace; word-break:break-all;'>

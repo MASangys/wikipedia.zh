@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Newusermessage-signatures](https://zh.wikipedia.org/wiki/MediaWiki:Newusermessage-signatures)转换而来。
+
+
   -
     inactive|**[<span style="color: #8c4d0e;">J.</span>](https://zh.wikipedia.org/wiki/user:Wong128hk "wikilink")[<span style="color: #8c4d0e;">Wong</span>](https://zh.wikipedia.org/wiki/user_talk:Wong128hk "wikilink")**
 

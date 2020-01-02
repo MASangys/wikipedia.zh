@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Noarticletext/zh-tw](https://zh.wikipedia.org/wiki/MediaWiki:Noarticletext/zh-tw)转换而来。
+
+
 <div class="plainlinks" id="noarticletext" style="padding: 7px;">
 
 {{\#ifeq:||

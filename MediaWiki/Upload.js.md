@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Upload.js](https://zh.wikipedia.org/wiki/MediaWiki:Upload.js)转换而来。
+
+
 //
 
 ``` javascript

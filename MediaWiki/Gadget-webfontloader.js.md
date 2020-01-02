@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-webfontloader.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-webfontloader.js)转换而来。
+
+
 /\* <http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js>
 
 `* Copyright 2016 Small Batch, Inc.`

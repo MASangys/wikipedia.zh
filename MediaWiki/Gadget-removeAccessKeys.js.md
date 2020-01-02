@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-removeAccessKeys.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-removeAccessKeys.js)转换而来。
+
+
 // \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* // \*\* \*\*\*WARNING GLOBAL GADGET FILE\*\*\* \*\* // \*\* changes to this file affect many users. \*\* // \*\* please discuss on the talk page before editing \*\* // \*\* \*\* // \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* // Imported from version as of: 2007-04-17T22:22:27 // Deactivating access keys, see [talk page](https://zh.wikipedia.org/wiki/Wikipedia_talk:WikiProject_User_scripts/Scripts/removeAccessKeys "wikilink")
 
 jQuery( document ).ready( function( $ ) {

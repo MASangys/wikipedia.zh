@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Deletedtext/zh-my](https://zh.wikipedia.org/wiki/MediaWiki:Deletedtext/zh-my)转换而来。
+
+
 <div class="plainlinks">
 
 “**$1**”已经被删除（[恢复删除](https://zh.wikipedia.org/wiki/Special:Undelete/$1 "wikilink")、\[ 白纸保护\]）。最近删除的记录请参见$2。 {{\#ifeq:|||{{\#ifexist:|

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Centralnotice-template](https://zh.wikipedia.org/wiki/MediaWiki:Centralnotice-template)转换而来。
+
+
 <style type="text/css">
 
 1.  siteNotice {

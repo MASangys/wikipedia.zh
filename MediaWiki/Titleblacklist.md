@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Titleblacklist](https://zh.wikipedia.org/wiki/MediaWiki:Titleblacklist)转换而来。
+
+
 `# -{}-本页面为“标题黑名单”`
 `# 任何匹配本名单`[`正则表达式`](../Page/正则表达式.md "wikilink")的标题会被阻止建立和编辑`。`
 `# 本页面用来添加有共性的某一类要被阻止的标题，如果一个很明确的标题要被阻止，请直接在该标题的页面内用保护页面的方式进行。`

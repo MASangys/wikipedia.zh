@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Userrights-summary/zh-mo](https://zh.wikipedia.org/wiki/MediaWiki:Userrights-summary/zh-mo)转换而来。
+
+
 <div class="plainlinks" style="font-size: small; float: right;">
 
 \[ 編輯本通知\]

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Vector.css](https://zh.wikipedia.org/wiki/MediaWiki:Vector.css)转换而来。
+
+
 /\* 此处的 CSS 将影响使用 Vector 皮肤的用户 \*/
 
 body.ns-4.page-Wikipedia_首页 \#deleteconfirm, body.ns-4.page-Wikipedia_首页 \#t-cite, body.ns-4.page-Wikipedia_首页 \#footer-info-lastmod, body.ns-4.page-Wikipedia_首页 \#siteSub, body.ns-4.page-Wikipedia_首页 \#contentSub, body.ns-4.page-Wikipedia_首页 h1.firstHeading {

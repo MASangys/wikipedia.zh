@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-popups.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-popups.js)转换而来。
+
+
 (function($, mw) {
 
 //

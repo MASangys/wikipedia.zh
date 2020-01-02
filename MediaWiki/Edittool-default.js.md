@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Edittool-default.js](https://zh.wikipedia.org/wiki/MediaWiki:Edittool-default.js)转换而来。
+
+
 //define buttons　定義按鈕與下拉菜單 addEditButton("btnInterLink",{
 
 `   src        : "c/c0/Button_link.png",`

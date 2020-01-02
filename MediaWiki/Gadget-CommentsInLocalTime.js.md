@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-CommentsInLocalTime.js](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-CommentsInLocalTime.js)转换而来。
+
+
 /\*
 
 `       From: `<http://en.wikipedia.org/wiki/User:Gary_King/comments_in_local_time.js>

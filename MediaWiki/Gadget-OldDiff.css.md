@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-OldDiff.css](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-OldDiff.css)转换而来。
+
+
 /\* _____________________________________________________________________________
 
 `* |                                                                             |`

@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Common.css](https://zh.wikipedia.org/wiki/MediaWiki:Common.css)转换而来。
+
+
 /\* 所有皮肤的公共CSS \*/
 
 /\* 管理员注意！任何对Common.css的改变必须先在技术客栈讨论，谢谢。 \*/

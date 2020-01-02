@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Gadget-ReferenceTooltips.css](https://zh.wikipedia.org/wiki/MediaWiki:Gadget-ReferenceTooltips.css)转换而来。
+
+
 /\* See [mw:Reference Tooltips](https://zh.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink") \*/
 
 .rt-tooltip {

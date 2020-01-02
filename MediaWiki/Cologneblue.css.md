@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Cologneblue.css](https://zh.wikipedia.org/wiki/MediaWiki:Cologneblue.css)转换而来。
+
+
 /\* This [CSS](https://zh.wikipedia.org/wiki/Cascading_Style_Sheets "wikilink") is called in addition to [MediaWiki:Common.css](../MediaWiki/Common.css.md "wikilink"). See [Catalogue of CSS classes](https://zh.wikipedia.org/wiki/Wikipedia:Catalogue_of_CSS_classes "wikilink") for full list.
 
 /\* The versions for Monobook are at [MediaWiki:Monobook.css](../MediaWiki/Monobook.css.md "wikilink") and [MediaWiki:Monobook.js](https://zh.wikipedia.org/wiki/MediaWiki:Monobook.js "wikilink")

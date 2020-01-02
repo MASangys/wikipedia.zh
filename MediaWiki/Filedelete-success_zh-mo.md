@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Filedelete-success/zh-mo](https://zh.wikipedia.org/wiki/MediaWiki:Filedelete-success/zh-mo)转换而来。
+
+
 「****」已經被刪除（[恢復刪除](https://zh.wikipedia.org/wiki/Special:Undelete/{{FULLPAGENAME}} "wikilink")）。最近刪除的紀錄請參見[刪除日誌](https://zh.wikipedia.org/wiki/Special:Log/delete "wikilink")。
 
 根據刪除的原因，你可能要移除所有[到本頁的連接](https://zh.wikipedia.org/wiki/Special:Whatlinkshere/{{FULLPAGENAME}} "wikilink")。 {{\#ifeq:|||{{\#ifexist:|

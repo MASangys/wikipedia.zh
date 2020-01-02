@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Deletereason-dropdown](https://zh.wikipedia.org/wiki/MediaWiki:Deletereason-dropdown)转换而来。
+
+
   - 页面存废讨论
       - 存废讨论通过
       - 存废复核结果：删除

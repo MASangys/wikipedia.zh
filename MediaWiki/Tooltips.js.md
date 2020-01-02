@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Tooltips.js](https://zh.wikipedia.org/wiki/MediaWiki:Tooltips.js)转换而来。
+
+
 //
 
 ``` javascript

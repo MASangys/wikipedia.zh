@@ -1,3 +1,6 @@
+> 本文内容由[MediaWiki:Blockedtext/zh-hant](https://zh.wikipedia.org/wiki/MediaWiki:Blockedtext/zh-hant)转换而来。
+
+
 __NOEDITSECTION____NOTOC__
 
 <table>
