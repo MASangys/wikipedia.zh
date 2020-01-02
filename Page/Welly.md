@@ -1,3 +1,6 @@
+> 本文内容由[Welly](https://zh.wikipedia.org/wiki/Welly)转换而来。
+
+
 **Welly** 是一个在 Mac 操作系统上运行的 [BBS](../Page/BBS.md "wikilink") 客户端程序，可用于 Telnet/SSH 远程连线。目前的开发者主要有 talentljl/K.O.ed99, lvli007, tangyang.cn, xi.wang 等人。
 
 ## 特性

@@ -1,3 +1,6 @@
+> 本文内容由[Vmlinux](https://zh.wikipedia.org/wiki/Vmlinux)转换而来。
+
+
 [Linux-kernel-vmlinux.png](https://zh.wikipedia.org/wiki/File:Linux-kernel-vmlinux.png "fig:Linux-kernel-vmlinux.png")  在linux系統中，**vmlinux**（**vmlinuz**）是一個包含linux kernel的靜態連結的執行檔，檔案型態可能是linux接受的執行檔格式之一（[ELF](https://zh.wikipedia.org/wiki/ELF "wikilink")、[COFF或](https://zh.wikipedia.org/wiki/COFF "wikilink")[a.out](https://zh.wikipedia.org/wiki/a.out "wikilink")），vmlinux若要用於除錯時則必須要在開機前增加symbol table。
 
 ## 位置

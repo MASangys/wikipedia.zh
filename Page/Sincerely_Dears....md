@@ -1,3 +1,6 @@
+> 本文内容由[Sincerely Dears...](https://zh.wikipedia.org/wiki/Sincerely_Dears...)转换而来。
+
+
 **Sincerely Dears...**是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的一張精選[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2007年3月28日由[科樂美](../Page/科樂美.md "wikilink")發行，[KING RECORDS分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品編號為GBZC-1（CD）和GBZC-2（附錄DVD）。
 
 ## 概要

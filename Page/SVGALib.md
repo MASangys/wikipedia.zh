@@ -1,3 +1,6 @@
+> 本文内容由[SVGALib](https://zh.wikipedia.org/wiki/SVGALib)转换而来。
+
+
 **svgalib**是一套運行於[Linux](../Page/Linux.md "wikilink")及[FreeBSD](../Page/FreeBSD.md "wikilink")下的[開放原始碼低階繪圖](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[函式庫](../Page/函式庫.md "wikilink")，它允許程式設計人員變更視訊模式及全螢幕圖像，許多熱門的電腦遊戲如*[Quake](https://zh.wikipedia.org/wiki/Quake "wikilink")*及*[Doom](https://zh.wikipedia.org/wiki/Doom "wikilink")*都源自此技術。
 
 svgalib在1990年代中期開始並遍，但到2000年之後，多數使用此技術的應用都漸次轉移到了[X11](https://zh.wikipedia.org/wiki/X_Window_System "wikilink") and [SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")（Simple DirectMedia Layer）上。

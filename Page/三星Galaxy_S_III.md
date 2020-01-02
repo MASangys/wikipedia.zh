@@ -1,3 +1,6 @@
+> 本文内容由[三星Galaxy S III](https://zh.wikipedia.org/wiki/三星Galaxy_S_III)转换而来。
+
+
 **三星Galaxy S III**\[1\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")的旗艦級[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，採用[Android](../Page/Android.md "wikilink") 4.0.4（Ice Cream Sandwich）[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")，為[三星Galaxy S II的後繼機種](../Page/三星Galaxy_S_II.md "wikilink")；其於2012年5月3日在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦發表](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。\[2\]\[3\]
 
 Samsung Galaxy S III擁有之全新介面－[Next TouchWiz強調人性化](../Page/TouchWiz.md "wikilink")。其擁有 800 萬[畫素的後置照像](../Page/像素.md "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")以及 190 萬像素的前置視訊鏡頭，\[4\]並支援人臉識別功能。而處理器部分則採用[三星電子](../Page/三星電子.md "wikilink")自製之[Samsung Exynos 4412四核心](https://zh.wikipedia.org/wiki/Exynos "wikilink")1.4Ghz [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")。\[5\]\[6\]\[7\]該機採用 4.8吋，1280 x 720 [HD Super AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 螢幕，\[8\]支援[NFC近場通訊](https://zh.wikipedia.org/wiki/NFC "wikilink")。\[9\]內存[快閃記憶體可選擇](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink") 16、32或64 GB，機身顏色有[金屬](https://zh.wikipedia.org/wiki/金屬 "wikilink")[藍色](../Page/藍色.md "wikilink")以及鏡激白供選擇。三星还将为[AT\&T](../Page/AT&T.md "wikilink")用户独家专供一款红色版。\[10\]

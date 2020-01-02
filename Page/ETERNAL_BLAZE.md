@@ -1,3 +1,6 @@
+> 本文内容由[ETERNAL BLAZE](https://zh.wikipedia.org/wiki/ETERNAL_BLAZE)转换而来。
+
+
 **ETERNAL BLAZE**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")12张单曲CD。2005年10月19日由[King Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 說明

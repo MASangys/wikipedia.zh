@@ -1,3 +1,6 @@
+> 本文内容由[Trouble Twins -MY SWEET BROTHERS-](https://zh.wikipedia.org/wiki/Trouble_Twins_-MY_SWEET_BROTHERS-)转换而来。
+
+
 《**Trouble Twins -MY SWEET BROTHERS-**》是[TeraBytes Records製作的](https://zh.wikipedia.org/wiki/TeraBytes_Records "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月29日至31日舉行的[C73中的F](../Page/Comic_Market.md "wikilink")\&C·SLP先行發售，2008年1月25日正式發售。
 
 ## 故事簡介

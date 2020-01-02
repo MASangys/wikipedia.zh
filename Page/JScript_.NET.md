@@ -1,3 +1,6 @@
+> 本文内容由[JScript .NET](https://zh.wikipedia.org/wiki/JScript_.NET)转换而来。
+
+
 **JScript .NET**是[.NET裡的一種](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[编程语言](../Page/编程语言.md "wikilink")，由[微軟公司所開發](https://zh.wikipedia.org/wiki/微軟 "wikilink")，可稱是[JScript](../Page/JScript.md "wikilink")的後繼者。
 
 JScript .NET與JScript的主要差異可以總結如下。

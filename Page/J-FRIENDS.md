@@ -1,3 +1,6 @@
+> 本文内容由[J-FRIENDS](https://zh.wikipedia.org/wiki/J-FRIENDS)转换而来。
+
+
 **J-FRIENDS**是由[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下三個團體（[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink") 、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[KinKi Kids](https://zh.wikipedia.org/wiki/KinKi_Kids "wikilink")）13個人組成的慈善義演團體。1997年12月结成；1998年以「明日が聴こえる／Children's Holiday」首張單曲開始了J-FRIENDS名義的活動。
 
 一開始是由於1995年[阪神大地震](../Page/阪神大地震.md "wikilink")的災情而成立此團體進行募款活動，將其演唱會、CD、周邊商品等的收入用於當時受災的小學生完成義務教育以及援助學校不足的教育費；但後來活動的募款受惠對象擴大，不拘限於[阪神大地震](../Page/阪神大地震.md "wikilink")受災戶。在受災小學生義務教育完成後，階段性任務達成，於2003年3月解散。

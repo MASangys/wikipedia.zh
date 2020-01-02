@@ -1,3 +1,6 @@
+> 本文内容由[佳能 EOS 5D](https://zh.wikipedia.org/wiki/佳能_EOS_5D)转换而来。
+
+
 **Canon EOS 5D** 是一部 一千两百万[像素](../Page/像素.md "wikilink")级别的[数码单镜反光相机](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")(DSLR)，属于[佳能 EOS系列](https://zh.wikipedia.org/wiki/佳能_EOS "wikilink")。佳能于2005年8月22日推出此相机。5D的市场定位高于[Canon EOS 40D](https://zh.wikipedia.org/wiki/Canon_EOS_40D "wikilink")，低于[EOS 1D Mark III与](https://zh.wikipedia.org/wiki/Canon_EOS_1D_Mark_III "wikilink")[EOS-1Ds Mark III](https://zh.wikipedia.org/wiki/Canon_EOS-1Ds_Mark_III "wikilink")。
 
 EOS 5D并不是佳能第一款135mm[全画幅](../Page/全画幅.md "wikilink")EOS数码单反相机，不過卻是第一款全畫幅機型使用標準機身（相對於使用有直向把手設計的"專業"機身）。另外5D系列受到矚目的是它推出的市場價格讓全畫幅機大幅降到平價的3000美元。相較當時市場上唯一另一款全畫幅DSLR機型是佳能EOS 1Ds，價格大約是5D的兩倍左右。5D一直保持是市場上最便宜的全幅機型有一段很長的時間，儘管後來新機的價格已經跌落至少原價的30%左右。

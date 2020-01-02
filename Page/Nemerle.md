@@ -1,3 +1,6 @@
+> 本文内容由[Nemerle](https://zh.wikipedia.org/wiki/Nemerle)转换而来。
+
+
 **Nemerle**，是微軟公司提出的.NET平台上的新語言，由Wrocław大學的Kamil Skalski、Michał Moskal、Prof. Leszek Pacholski、Paweł Olszt等人發明。
 
 ## 範例

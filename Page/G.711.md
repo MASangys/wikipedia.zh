@@ -1,3 +1,6 @@
+> 本文内容由[G.711](https://zh.wikipedia.org/wiki/G.711)转换而来。
+
+
 **G.711**是一種由國際電信聯盟（[ITU-T](https://zh.wikipedia.org/wiki/ITU-T "wikilink")）訂定音頻編碼方式，又稱為ITU-T G.711。
 
 ## 形式

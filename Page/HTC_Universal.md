@@ -1,3 +1,6 @@
+> 本文内容由[HTC Universal](https://zh.wikipedia.org/wiki/HTC_Universal)转换而来。
+
+
 **HTC Universal**（研發代號），是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，全世界首部搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5的雙模3頻PDA手機，迷你筆電外形，擁有3.6吋VGA翻轉式TFT螢幕，62鍵QWERTY鍵盤，曾堪稱世界最強的PDA手機，全球最迷你的3G中文筆記型電腦。2005年9月於歐洲首度發表。已知客製版本Qtek 9000，Dopod 900，SFR v1640，Vodafone v1640，Vodafone VPA IV，T-Mobile MDA Pro，i-mate JASJAR，O2 Xda Exec，Orange SPV M5000，Grundig GR980，E-Plus PDA IV。
 
 ## 技術規格

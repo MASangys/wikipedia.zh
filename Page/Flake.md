@@ -1,3 +1,6 @@
+> 本文内容由[Flake](https://zh.wikipedia.org/wiki/Flake)转换而来。
+
+
 **Flake** 是一種新的[-{zh-hans:函数库;zh-hant:函式庫}-](../Page/函式庫.md "wikilink") ，用於在[KOffice](../Page/KOffice.md "wikilink") 2系列。Flake 提供"形狀"(shape)的基本概念。對於最終用戶，形狀表現一些內容，比如一塊圖片或文字。形狀可以以任何形式（正方形，圓形等），並包含任何類型的媒體，源於形狀負責繪製本身。 KOffice的所有的組件正在修改來使用Flake。\[1\]
 
 ## 功能

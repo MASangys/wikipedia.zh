@@ -1,3 +1,6 @@
+> 本文内容由[This Is Love 1](https://zh.wikipedia.org/wiki/This_Is_Love_1)转换而来。
+
+
 《**This Is Love 1**》是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行第二张日語专辑，《This Is Love 1》是一張迷你日語雙專輯，是[黃家駒](../Page/黃家駒.md "wikilink")最後錄製的專輯，並沒有100%完成。這張專輯發行時，黃家駒已經在6月30日逝世，原先計畫分成《This Is Love 1》和《This Is Love 2》的兩張以迷你專輯方式發行，黃家駒逝世後，《This Is Love 2》發行的計畫永遠無法實現。
 
 日本版本收錄七首歌曲，台灣版本多收錄三首日語專輯《[超越](https://zh.wikipedia.org/wiki/超越 "wikilink")》的歌曲。

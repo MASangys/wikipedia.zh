@@ -1,3 +1,6 @@
+> 本文内容由[Advanced Strategic Command](https://zh.wikipedia.org/wiki/Advanced_Strategic_Command)转换而来。
+
+
 ***Advanced strategic command*** 是一个[回合制策略遊戲](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")，仿照**[战岛系列](https://zh.wikipedia.org/wiki/战岛_\(游戏系列\) "wikilink")**\[1\]的第二和第三部作品。现在使用[SDL库](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，代码以[C++](../Page/C++.md "wikilink")为主。原来却是用的[Borland Pascal](https://zh.wikipedia.org/wiki/Borland_Pascal "wikilink")。核心授权协议是[GPLv2](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")\[2\]支持的系统平台有[Linux](../Page/Linux.md "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 游戏方式

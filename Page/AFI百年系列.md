@@ -1,3 +1,6 @@
+> 本文内容由[AFI百年系列](https://zh.wikipedia.org/wiki/AFI百年系列)转换而来。
+
+
 1998年开始，[美国电影学会](../Page/美国电影学会.md "wikilink")（AFI）为了庆祝[电影](../Page/电影.md "wikilink")诞生100周年，每年都会评选一个美国电影“**百年百大……**”（**AFI 100 Years... series**）。
 
 ## 百年百大系列：

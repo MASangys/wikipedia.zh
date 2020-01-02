@@ -1,3 +1,6 @@
+> 本文内容由[Dynamite out](https://zh.wikipedia.org/wiki/Dynamite_out)转换而来。
+
+
 《**Dynamite out**》（，*Dynamite Out*）是[東京事變](../Page/東京事變.md "wikilink")的第三張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2005年8月17日發行。發行當週即賣出3.1萬張，總計銷售額6.0萬張，名列2005年年度銷售榜第28位。初回限定為「出入口外盒仕樣」（同時可收納Dynamite in & out），另外此張DVD特別附贈「Dynamite in漫畫小冊（下）」，而漫畫小冊（上）則附贈在《[Dynamite in](../Page/Dynamite_in.md "wikilink")》中。
 
 ## 簡介

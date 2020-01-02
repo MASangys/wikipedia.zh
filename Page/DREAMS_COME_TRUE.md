@@ -1,3 +1,6 @@
+> 本文内容由[DREAMS COME TRUE](https://zh.wikipedia.org/wiki/DREAMS_COME_TRUE)转换而来。
+
+
 **DREAMS COME TRUE**為[日本](../Page/日本.md "wikilink")的一個[音樂團體](https://zh.wikipedia.org/wiki/音樂 "wikilink")。一般簡稱為**DCT**，在[台灣則意譯為](https://zh.wikipedia.org/wiki/台灣 "wikilink")「**美夢成真**」。目前歸屬於 DCT entertainment 事務所，所屬唱片公司為[日本](../Page/日本.md "wikilink")環球音樂及DCT records（美夢成真獨立設立之唱片公司）。
 
 DREAMS COME TRUE 以高達5,500萬張的全球唱片總銷量，於全球最暢銷歌手中排行第103位，同時也是亞洲最暢銷歌手中排行第二位\[1\]\[2\]，僅次於[B'z](../Page/B'z.md "wikilink")。

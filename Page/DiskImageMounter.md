@@ -1,3 +1,6 @@
+> 本文内容由[DiskImageMounter](https://zh.wikipedia.org/wiki/DiskImageMounter)转换而来。
+
+
 **DiskImageMounter**是一个从[10.3开始用来处理](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.3 "wikilink")[Mac OS X中的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[磁盘映像](../Page/磁盘映像.md "wikilink")的实用工具。和[BOMArchiveHelper一样](https://zh.wikipedia.org/wiki/BOMArchiveHelper "wikilink")，[双击它之后并不会出现](https://zh.wikipedia.org/wiki/双击 "wikilink")[GUI](../Page/图形用户界面.md "wikilink"); 事实上，这样完全没有任何意义。它只能在`/System/Library/CoreServices/DiskImageMounter.app`中被找到。DiskImageMounter通过发起一个[守护进程](../Page/守护进程.md "wikilink")来处理磁盘映像或者或联系一个当前正在运行的后台程序并将其安装到磁盘中。这个程序所能显示的唯一一个GUI是一个有[progress bar的窗口并列出一些选项](https://zh.wikipedia.org/wiki/progress_bar "wikilink")(取消或跳过认证)，当它不能列出映像时会显示一个错误报告。
 
 ## 支持的映像格式

@@ -1,3 +1,6 @@
+> 本文内容由[Windows Installer](https://zh.wikipedia.org/wiki/Windows_Installer)转换而来。
+
+
 **Windows Installer**是在[Windows 2000時提出](../Page/Windows_2000.md "wikilink")，作為[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統中的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[安裝程式](../Page/安裝程式.md "wikilink")開發標準的作業系統服務。它可以支援安裝程式所需要的許多功能，並且可以支援交易式安裝（Committable Installation），當安裝程式發現錯誤或問題時，可以將安裝程序中所做的任何修改（包含複製檔案、修改組態等）全部回溯為未變更的狀態。
 
 目前Windows Installer最新[版本為](https://zh.wikipedia.org/wiki/軟體版本號 "wikilink")5.0版。

@@ -1,3 +1,6 @@
+> 本文内容由[Socket AM3](https://zh.wikipedia.org/wiki/Socket_AM3)转换而来。
+
+
 **Socket AM3**是[AMD推出的](https://zh.wikipedia.org/wiki/AMD "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")和處理器管腳陣列，於2009年2月9日發表，取代上一代的[Socket AM2+](../Page/Socket_AM2+.md "wikilink")。而採用AM3的CPU有[Phenom II](https://zh.wikipedia.org/wiki/Phenom_II "wikilink")、[Athlon II](https://zh.wikipedia.org/wiki/Athlon_II "wikilink")、[Sempron 100系列以及](https://zh.wikipedia.org/wiki/Sempron "wikilink")[Opteron 1380系列](../Page/Opteron.md "wikilink")。
 
 ## 技術概覽

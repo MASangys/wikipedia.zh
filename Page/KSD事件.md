@@ -1,3 +1,6 @@
+> 本文内容由[KSD事件](https://zh.wikipedia.org/wiki/KSD事件)转换而来。
+
+
 **KSD事件**（），是指[日本](../Page/日本.md "wikilink")的[財團法人中小企業經營者福利事業團](https://zh.wikipedia.org/wiki/財團法人 "wikilink")（**KSD**，現為「中小企業災害補償福利財團」）的創立者[古關忠男向多名](https://zh.wikipedia.org/wiki/古關忠男 "wikilink")[自由民主黨](https://zh.wikipedia.org/wiki/自由民主黨_\(日本\) "wikilink")[國會議員](https://zh.wikipedia.org/wiki/國會議員 "wikilink")1996年提供非法[政治獻金以獲取利益的腐敗](https://zh.wikipedia.org/wiki/政治獻金 "wikilink")[丑聞事件](https://zh.wikipedia.org/wiki/丑聞 "wikilink")。此事件對[森喜朗](../Page/森喜朗.md "wikilink")政府造成沉重的打擊。 [缩略图](https://zh.wikipedia.org/wiki/File:Yoshiro_mori_2.jpg "fig:缩略图")
 
 ## 概況

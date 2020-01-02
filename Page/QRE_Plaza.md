@@ -1,3 +1,6 @@
+> 本文内容由[QRE Plaza](https://zh.wikipedia.org/wiki/QRE_Plaza)转换而来。
+
+
 [HK_QRE_Plaza_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_QRE_Plaza_2008.jpg "fig:HK_QRE_Plaza_2008.jpg") [QRE_Plaza_Lobby.jpg](https://zh.wikipedia.org/wiki/File:QRE_Plaza_Lobby.jpg "fig:QRE_Plaza_Lobby.jpg") [QRE_Plaza_Level_1.jpg](https://zh.wikipedia.org/wiki/File:QRE_Plaza_Level_1.jpg "fig:QRE_Plaza_Level_1.jpg") **QRE Plaza** 是[香港](../Page/香港.md "wikilink")一座商業大廈，位於[香港島](../Page/香港島.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[皇后大道東](https://zh.wikipedia.org/wiki/皇后大道東_\(街道\) "wikilink")202號，鄰近[合和中心](../Page/合和中心.md "wikilink")，為[合和集團在灣仔南的建築群之一員](https://zh.wikipedia.org/wiki/合和集團 "wikilink")，總投資約港幣1.4億港元。QRE Plaza 的「QRE」為皇后大道東英文名（**Q**ueen **R**oad **E**ast）的簡稱，名稱可意譯為「皇后大道東廣場」。
 
 ## 歷史

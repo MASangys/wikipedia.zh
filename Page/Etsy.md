@@ -1,3 +1,6 @@
+> 本文内容由[Etsy](https://zh.wikipedia.org/wiki/Etsy)转换而来。
+
+
 **Etsy**是一個[網路商店平台](https://zh.wikipedia.org/wiki/網路商店 "wikilink")，以[手工藝成品買賣為主要特色](https://zh.wikipedia.org/wiki/手工藝 "wikilink")，\[1\] ，曾被[紐約時報拿來和](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")，[Amazon比較](https://zh.wikipedia.org/wiki/Amazon "wikilink")，被譽為「祖母的地下室收藏」。\[2\]
 
 Robert Kalin，Chris Maguire和Haim Schoppik在2005年6月18日成立的Etsy網站，前身是一家稱為iospace的小公司。隨後有Matthew Stinchcomb（[French Kicks網站成立者](https://zh.wikipedia.org/wiki/French_Kicks "wikilink")）和Jay Nuzzolillo，Simon Forman與Alex Somma加入。投資者則為Union Square Ventures還有[Flickr](../Page/Flickr.md "wikilink")與[Del.icio.us的成立者](https://zh.wikipedia.org/wiki/Del.icio.us "wikilink")。\[3\]

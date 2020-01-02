@@ -1,3 +1,6 @@
+> 本文内容由[Yahoo! Messenger](https://zh.wikipedia.org/wiki/Yahoo!_Messenger)转换而来。
+
+
 **Yahoo\! Messenger**是一个流行的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯软件 "wikilink")，由[雅虎](../Page/雅虎.md "wikilink")公司开发，較早期的版本名稱為**Yahoo\! Pager**。用户使用Yahoo\! ID登入，使用同一个ID也可以访问Yahoo提供的其他服务，例如電子信箱、相簿、儲存空间和个人主页。在Yahoo\! Messenger中也集成了部分其他服务的功能，例如在用户的[Yahoo\!邮箱中有新信件时Yahoo](https://zh.wikipedia.org/wiki/Yahoo!邮箱 "wikilink")\! Messenger会提示用户。
 
 Yahoo\! Messenger在7.0之前的版本代號為「Iceman」。7.0版的版本是一個重新開發的軟件，加入了語音通話的內容。

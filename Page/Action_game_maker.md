@@ -1,3 +1,6 @@
+> 本文内容由[Action game maker](https://zh.wikipedia.org/wiki/Action_game_maker)转换而来。
+
+
 《****》是日本[Enterbrain](../Page/Enterbrain.md "wikilink")公司开发的一款[动作游戏](../Page/动作游戏.md "wikilink")的制作工具，原本预定于2008年12月12日发售，后来延至2009年3月5日发售。
 
 ## 特色

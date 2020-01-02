@@ -1,3 +1,6 @@
+> 本文内容由[Freaky Age](https://zh.wikipedia.org/wiki/Freaky_Age)转换而来。
+
+
 **Freaky Age**是[比利时](../Page/比利时.md "wikilink")[特尔纳特的一支](https://zh.wikipedia.org/wiki/特尔纳特 "wikilink")[独立摇滚](../Page/独立摇滚.md "wikilink")乐队，成立于2003年底。现今成员包括莱尼·克拉贝（Lenny Crabbe）、马蒂亚斯·德克莱尔（Mathias Declercq）、迪特尔·亨德里克斯（Dieter Henderickx）和约纳斯·保尔韦斯（Jonas Pauwels）。
 
 ## 乐队经历

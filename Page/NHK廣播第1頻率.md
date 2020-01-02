@@ -1,3 +1,6 @@
+> 本文内容由[NHK廣播第1頻率](https://zh.wikipedia.org/wiki/NHK廣播第1頻率)转换而来。
+
+
 **NHK廣播第1頻率**（）為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[調幅](../Page/調幅廣播.md "wikilink")[廣播電台之一](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")。主要播出節目為新聞和脫口秀。識別信號為「JOAK、NHK東京第一放送」（女性播音員）及「東京第一放送、JOAK」（男性播音員）。開播於1925年，是日本第一家廣播電台。
 
 ## 节目构成

@@ -1,3 +1,6 @@
+> 本文内容由[小威廉·F·巴克利](https://zh.wikipedia.org/wiki/小威廉·F·巴克利)转换而来。
+
+
 [William_F._Buckley,_Jr._1985.jpg](https://zh.wikipedia.org/wiki/File:William_F._Buckley,_Jr._1985.jpg "fig:William_F._Buckley,_Jr._1985.jpg") **小威廉·法蘭克·巴克利**（**William Frank Buckley Jr.**，），美國媒體人、作家、[保守主義政治評論家](https://zh.wikipedia.org/wiki/保守主義 "wikilink")，政論雜誌《[國家評論](https://zh.wikipedia.org/wiki/國家評論 "wikilink")》（*National Review*）創辦人。他一生的政治活動主要在於努力把傳統的政治保守派、[自由放任](../Page/自由放任.md "wikilink")經濟思想及[反共主義](../Page/反共主義.md "wikilink")統合起來，替以[高華德和](https://zh.wikipedia.org/wiki/高華德 "wikilink")[雷根為代表的現代](https://zh.wikipedia.org/wiki/雷根 "wikilink")[美國保守主義](../Page/美國保守主義.md "wikilink")奠定了基礎。
 
 ## 生平

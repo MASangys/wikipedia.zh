@@ -1,3 +1,6 @@
+> 本文内容由[MK文化](https://zh.wikipedia.org/wiki/MK文化)转换而来。
+
+
 [MKyan.jpg](https://zh.wikipedia.org/wiki/File:MKyan.jpg "fig:MKyan.jpg") [3_HK_TST_MK_Boy_Jeans_1sa.jpg](https://zh.wikipedia.org/wiki/File:3_HK_TST_MK_Boy_Jeans_1sa.jpg "fig:3_HK_TST_MK_Boy_Jeans_1sa.jpg")\]\] **MK文化**，即[旺角](../Page/旺角.md "wikilink")（Mong Kok）文化，為[香港](../Page/香港.md "wikilink")地道用語，以指明其獨特的社區文化。由於旺角是香港售賣[潮流物品的集中地](https://zh.wikipedia.org/wiki/潮流 "wikilink")，亦有很多針對年青人的[娛樂](../Page/娛樂.md "wikilink")場所，包括[卡拉OK](../Page/卡拉OK.md "wikilink")、[格仔店和](https://zh.wikipedia.org/wiki/格仔店 "wikilink")[戲院等等](https://zh.wikipedia.org/wiki/戲院 "wikilink")，該處逐漸成為很多追求潮流的年青人流連及[約會](../Page/約會.md "wikilink")的勝地。其中[瓊華中心和](https://zh.wikipedia.org/wiki/瓊華中心 "wikilink")[潮流特區被認為是MK文化的發源地](https://zh.wikipedia.org/wiki/潮流特區 "wikilink")\[1\]。
 
 **MK人**則是指向在旺角地區出沒的部份年青人，但是不一定指向居住於旺角的青少年。一般而言，男性被俗稱為**MK仔**，女性被俗稱為**MK妹**。

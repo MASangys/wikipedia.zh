@@ -1,3 +1,6 @@
+> 本文内容由[Falcon](https://zh.wikipedia.org/wiki/Falcon)转换而来。
+
+
 **Falcon编程语言**（），又稱**Falcon P.L.**、**Falconpl**或**Falcon**，是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")、多范式[编程语言](../Page/编程语言.md "wikilink")，其设计和推廣由Giancarlo Niccolai领导。
 
 ## 歷史

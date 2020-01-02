@@ -1,3 +1,6 @@
+> 本文内容由[Falcon狙擊步槍](https://zh.wikipedia.org/wiki/Falcon狙擊步槍)转换而来。
+
+
 **Falcon**（禿鷹）是一種由[捷克](../Page/捷克.md "wikilink")ZVI公司研製及生產的[手動式](https://zh.wikipedia.org/wiki/手動步槍 "wikilink")[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。
 
 ## 設計

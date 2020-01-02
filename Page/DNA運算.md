@@ -1,3 +1,6 @@
+> 本文内容由[DNA運算](https://zh.wikipedia.org/wiki/DNA運算)转换而来。
+
+
 **DNA運算**（**DNA computing**，或譯**DNA計算**）是一種[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")[運算形式](https://zh.wikipedia.org/wiki/運算 "wikilink")，利用[DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")、[生物化學以及](https://zh.wikipedia.org/wiki/生物化學 "wikilink")[分子生物學原理](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")，而非傳統上以[硅](../Page/硅.md "wikilink")為基礎的電腦技術。
 
 DNA運算，或更广泛的说，分子運算，是一個新出現的交叉學門領域。此领域内研究热点包括理论、实验和DNA运算的应用。

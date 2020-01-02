@@ -1,3 +1,6 @@
+> 本文内容由[AGROVOC](https://zh.wikipedia.org/wiki/AGROVOC)转换而来。
+
+
 **AGROVOC**是一部多语种结构的[叙词表](https://zh.wikipedia.org/wiki/叙词表 "wikilink")，它涵盖了[农业](../Page/农业.md "wikilink")、[林业](../Page/林业.md "wikilink")、[渔业](../Page/渔业.md "wikilink")、[食物安全及其他相关学科领域](https://zh.wikipedia.org/wiki/食物安全 "wikilink")（例如：可持续发展、营养学等等）。它由词或词组（术语）组成，含有不同语言，具备各类词间关系（例如：“广义”、“狭义”、“相关”等），它主要用于标引或检索信息资源。它的主要作用是将信息标引标准化，从而使得信息检索更加简单并且准确，为用户提供最准确的信息资源。
 
 AGROVOC是由[联合国粮食及农业组织](../Page/联合国粮食及农业组织.md "wikilink")（FAO）和[欧共体在](https://zh.wikipedia.org/wiki/欧共体 "wikilink")20世纪80年代初开发的，FAO大约每3个月进行一次维护更新，用户可以在AGROVOC网址上看到更新变化。

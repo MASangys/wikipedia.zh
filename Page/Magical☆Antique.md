@@ -1,3 +1,6 @@
+> 本文内容由[Magical☆Antique](https://zh.wikipedia.org/wiki/Magical☆Antique)转换而来。
+
+
 《**Magical☆Antique**》（），是日本[Leaf](../Page/Leaf.md "wikilink")公司制作，2000年4月28日发行的一款[戀愛模擬類型](https://zh.wikipedia.org/wiki/戀愛模擬 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Trie](https://zh.wikipedia.org/wiki/Trie)转换而来。
+
+
 [trie_example.svg](https://zh.wikipedia.org/wiki/File:trie_example.svg "fig:trie_example.svg")
 
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**trie**，又称**前缀树**或**字典樹**，是一种有序[树](../Page/树_\(数据结构\).md "wikilink")，用于保存[关联数组](../Page/关联数组.md "wikilink")，其中的键通常是[字符串](../Page/字符串.md "wikilink")。与[二叉查找树不同](https://zh.wikipedia.org/wiki/二叉查找树 "wikilink")，键不是直接保存在节点中，而是由节点在树中的位置决定。一个节点的所有子孙都有相同的[前缀](https://zh.wikipedia.org/wiki/前缀 "wikilink")，也就是这个节点对应的字符串，而根节点对应[空字符串](https://zh.wikipedia.org/wiki/空字符串 "wikilink")。一般情况下，不是所有的节点都有对应的值，只有叶子节点和部分内部节点所对应的键才有相关的值。

@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Animate](https://zh.wikipedia.org/wiki/Adobe_Animate)转换而来。
+
+
 **Adobe Animate**（前稱**Adobe Flash Professional，Macromedia Flash，FutureSplash Animator**）是由[Adobe Systems開發的多媒體創作和](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[電腦動畫程式](../Page/计算机动画.md "wikilink")。
 
 Animate可用於設計[矢量图形](../Page/矢量图形.md "wikilink")和動畫，並發佈到電視節目，網上影片，網站，網絡應用程式，大型互聯網應用程式和電子遊戲中。該程式還支援[點陣圖形](https://zh.wikipedia.org/wiki/Raster_graphics "wikilink")，豐富文本，音頻和影片嵌入以及ActionScript腳本。可以為[HTML5](../Page/HTML5.md "wikilink")，[WebGL](../Page/WebGL.md "wikilink")，[可縮放向量圖形](../Page/可縮放向量圖形.md "wikilink")（SVG）動畫和[Spritesheet以及傳統](https://zh.wikipedia.org/wiki/Spritesheet "wikilink")[Flash Player](../Page/Adobe_Flash_Player.md "wikilink")（SWF）和[Adobe AIR格式發佈動畫](../Page/Adobe_AIR.md "wikilink")。

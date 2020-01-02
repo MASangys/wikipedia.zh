@@ -1,3 +1,6 @@
+> 本文内容由[Because of you](https://zh.wikipedia.org/wiki/Because_of_you)转换而来。
+
+
 **because of you**，[Stephanie的第二张单曲](https://zh.wikipedia.org/wiki/Stephanie "wikilink")，商品番号SECL-528。
 
 ## 作品概要

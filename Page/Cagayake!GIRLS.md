@@ -1,3 +1,6 @@
+> 本文内容由[Cagayake!GIRLS](https://zh.wikipedia.org/wiki/Cagayake!GIRLS)转换而来。
+
+
 **Cagayake\!GIRLS**（），是櫻高輕音部（）的一首單曲。2009年4月22日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
 
 ## 概要

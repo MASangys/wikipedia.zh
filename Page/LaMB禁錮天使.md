@@ -1,3 +1,6 @@
+> 本文内容由[LaMB禁錮天使](https://zh.wikipedia.org/wiki/LaMB禁錮天使)转换而来。
+
+
 《**LaMB無聲天使**》，是一部[Animax](../Page/Animax.md "wikilink")原創製作的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。[導演是程亮弼](https://zh.wikipedia.org/wiki/導演 "wikilink")。[編劇](../Page/編劇.md "wikilink")是Carmelo S. J. Juinio，並於2009年3月於全[亞洲播出](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。 它也是為首個[Animax Asia製作的](../Page/Animax_Asia.md "wikilink")[高清動畫](https://zh.wikipedia.org/wiki/高清 "wikilink")。本作品取自2007年[泛亞洲動畫劇本比賽](https://zh.wikipedia.org/wiki/Animax#Animax_.E5.8B.95.E7.95.AB.E5.A4.A7.E7.8D.8E "wikilink")（Animax Awards，[臺灣](../Page/臺灣.md "wikilink")稱為Animax動畫大賞）泛亞特別賞之受賞作品，作者為[菲律賓業餘](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[作家Carmelo](https://zh.wikipedia.org/wiki/作家 "wikilink") Juinio。[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[加拿大](../Page/加拿大.md "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")[簡單計劃](https://zh.wikipedia.org/wiki/簡單計劃 "wikilink")（Simple Plan）和[美國樂隊](https://zh.wikipedia.org/wiki/美國 "wikilink")[五次方樂團](https://zh.wikipedia.org/wiki/五次方樂團 "wikilink")（The Click Five）將會有兩首不同的[歌曲](../Page/歌曲.md "wikilink")（*I Can Wait Forever*和*Summertime*），作為[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題曲](../Page/主題曲.md "wikilink")。
 
 臺灣及[香港](../Page/香港.md "wikilink")於2009年3月24日起，星期二晚間十點在Animax播出。

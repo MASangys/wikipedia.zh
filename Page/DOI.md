@@ -1,3 +1,6 @@
+> 本文内容由[DOI](https://zh.wikipedia.org/wiki/DOI)转换而来。
+
+
 **數位物件識別碼**（，簡稱****）也称**數位物件識別號**、-{zh-cn:**数字对象识别符**、**数字对象标识符**;zh-tw:**數字物件識別符**}-、**数字对象唯一标识符**等，是一套識別數位資源的機制，涵括的對象有影片、報告或書籍等等。它既有一套為資源命名的機制，也有一套將識別號解析為具體位址的協定。
 
 發展DOI的動機在于補充[統一資源標誌符之不足](https://zh.wikipedia.org/wiki/統一資源標誌符 "wikilink")，因為一方面[URI指涉的](https://zh.wikipedia.org/wiki/統一資源標誌符 "wikilink")[URL經常變動](https://zh.wikipedia.org/wiki/統一資源定位符 "wikilink")，另一方面，URI 表達的其實是資源所在地（即網址），而非數位資源本身的資訊。DOI 能克服這兩個問題。

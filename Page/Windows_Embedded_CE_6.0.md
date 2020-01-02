@@ -1,3 +1,6 @@
+> 本文内容由[Windows Embedded CE 6.0](https://zh.wikipedia.org/wiki/Windows_Embedded_CE_6.0)转换而来。
+
+
 **Windows Embedded CE 6.0**(代號"Yamazaki")，是第6個版本的[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[內嵌式作業系統](https://zh.wikipedia.org/wiki/內嵌式作業系統 "wikilink")，可提供[智能手机](../Page/智能手机.md "wikilink")與[PDA使用](https://zh.wikipedia.org/wiki/PDA "wikilink")。2006年11月1日釋出，包含部份的[原始碼](https://zh.wikipedia.org/wiki/原始碼 "wikilink")（partial source code），并使现有的[Platform Builder集成](https://zh.wikipedia.org/wiki/Platform_Builder "wikilink")[开发环境](https://zh.wikipedia.org/wiki/开发环境 "wikilink")（IDE）成为Visual Studio 2005的一个[插件](../Page/插件.md "wikilink")。
 
 Windows Embedded CE 6.0重新設計的內核，支持最多32768个进程，远多于上一版的32个。每个进程的[虚拟内存](../Page/虚拟内存.md "wikilink")空间也从上一版32MB提高到2GB。

@@ -1,3 +1,6 @@
+> 本文内容由[We can make it!](https://zh.wikipedia.org/wiki/We_can_make_it!)转换而来。
+
+
 《**We can make it\!**》是[嵐](../Page/嵐.md "wikilink")的第19枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2007年5月2日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。收錄於原創專輯《[Time](../Page/Time_\(嵐\).md "wikilink")》及精選專輯《[1999-2009 完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》。
 
 ## 解說

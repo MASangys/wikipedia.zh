@@ -1,3 +1,6 @@
+> 本文内容由[MyET](https://zh.wikipedia.org/wiki/MyET)转换而来。
+
+
 **MyET**是一個由[艾爾科技](https://zh.wikipedia.org/wiki/艾爾科技 "wikilink")（L Labs Inc.）出品的線上英語、日語、華語學習軟體，目前適用於 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、以及 [macOS](https://zh.wikipedia.org/wiki/macOS "wikilink") [作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 ## 歷史

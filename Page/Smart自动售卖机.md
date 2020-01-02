@@ -1,3 +1,6 @@
+> 本文内容由[Smart自动售卖机](https://zh.wikipedia.org/wiki/Smart自动售卖机)转换而来。
+
+
 [smart_vending_machine_in_Shenyang.jpg](https://zh.wikipedia.org/wiki/File:smart_vending_machine_in_Shenyang.jpg "fig:smart_vending_machine_in_Shenyang.jpg")的smart自动售卖机\]\]
 
 **smart自动售卖机**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**smart vendor**）是[smart fortwo的一种宣传方式](https://zh.wikipedia.org/wiki/司麦特_\(汽车\) "wikilink")，在[日本](../Page/日本.md "wikilink")及[中国都有巡展](https://zh.wikipedia.org/wiki/中国 "wikilink")，用[自动售卖机的形式展示smart](https://zh.wikipedia.org/wiki/自动售卖机 "wikilink") fortwo，并且付费发放相关介绍资料。

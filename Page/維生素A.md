@@ -1,3 +1,6 @@
+> 本文内容由[維生素A](https://zh.wikipedia.org/wiki/維生素A)转换而来。
+
+
 **维生素A**又称**維他命A**、**抗干眼病维生素**，是人類的必需[營養素之一](https://zh.wikipedia.org/wiki/營養素 "wikilink")。維生素A的[前体是存在于多种植物中的](https://zh.wikipedia.org/wiki/前体 "wikilink")[胡萝卜素](https://zh.wikipedia.org/wiki/胡萝卜素 "wikilink")。
 
 維生素A並非單一的一種化合物，而是有許多不同的型態。动物能将胡萝卜素在体内转化为维生素A贮藏在[肝脏中](https://zh.wikipedia.org/wiki/肝脏 "wikilink")；通常是以[醇](../Page/醇.md "wikilink")類的方式存在，稱作[視黃醇](https://zh.wikipedia.org/wiki/視黃醇 "wikilink")，活性也是最高；但也有一些屬於[醛](../Page/醛.md "wikilink")類，稱作[視黃醛](https://zh.wikipedia.org/wiki/視黃醛 "wikilink")；另外還有一些屬於[酸](../Page/酸.md "wikilink")類，稱作[視黃酸](https://zh.wikipedia.org/wiki/視黃酸 "wikilink")。

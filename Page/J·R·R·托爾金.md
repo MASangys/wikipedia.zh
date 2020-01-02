@@ -1,3 +1,6 @@
+> 本文内容由[J·R·R·托爾金](https://zh.wikipedia.org/wiki/J·R·R·托爾金)转换而来。
+
+
 **約翰·羅納德·魯埃爾·托爾金**，[CBE](https://zh.wikipedia.org/wiki/CBE "wikilink")（，常縮寫為，），[英國](https://zh.wikipedia.org/wiki/英國人 "wikilink")[作家](../Page/英國文學.md "wikilink")、[詩人](https://zh.wikipedia.org/wiki/詩 "wikilink")、[語言學家及大學教授](https://zh.wikipedia.org/wiki/語言學 "wikilink")，以創作經典[古典奇幻](../Page/古典奇幻.md "wikilink")作品《[霍比特人](https://zh.wikipedia.org/wiki/霍比特人 "wikilink")》、《[魔戒](../Page/魔戒.md "wikilink")》與《[精灵宝钻](https://zh.wikipedia.org/wiki/精灵宝钻 "wikilink")》而聞名於世。
 
 托爾金曾於1925年至1945年間，在[牛津大學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")[彭布罗克学院擔任](../Page/牛津大学彭布罗克学院.md "wikilink")[盎格魯-撒克遜語的](https://zh.wikipedia.org/wiki/古英語 "wikilink")，並於1945年至1959年間轉至[牛津大學默頓學院任](https://zh.wikipedia.org/wiki/牛津大學默頓學院 "wikilink")[英國語言與](https://zh.wikipedia.org/wiki/英語 "wikilink")[文學的](../Page/英國文學.md "wikilink")[默顿教授](../Page/默顿教授.md "wikilink")\[1\]。他是[C·S·路易斯](../Page/C·S·路易斯.md "wikilink")的密友——兩人皆為非正式文學讨论社「[迹象](../Page/迹象文学社.md "wikilink")」的社員。1972年3月28日，托爾金獲英國女王[伊莉莎白二世頒授的](https://zh.wikipedia.org/wiki/伊莉莎白二世 "wikilink")[大英帝國司令勳章](../Page/大英帝國勳章.md "wikilink")。

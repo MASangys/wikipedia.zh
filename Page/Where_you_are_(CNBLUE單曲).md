@@ -1,3 +1,6 @@
+> 本文内容由[Where you are \(CNBLUE單曲\)](https://zh.wikipedia.org/wiki/Where_you_are_\(CNBLUE單曲\))转换而来。
+
+
 《**Where you are**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第五張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")創作、協助填詞。2012年2月1日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]及Lawson限定盤\[3\]發行。這也是他們第二張由[華納唱片 (日本)發行的單曲](../Page/華納音樂集團.md "wikilink")。
 
 ## 單曲內容

@@ -1,3 +1,6 @@
+> 本文内容由[AdLib](https://zh.wikipedia.org/wiki/AdLib)转换而来。
+
+
 **AdLib**，是一款FM音源的[ISA](../Page/ISA.md "wikilink")界面的音效卡，1987年時問世，使用[Yamaha YM3812的音效處理器晶片](https://zh.wikipedia.org/wiki/Yamaha_YM3812 "wikilink")。台灣由[智冠生產與銷售相容的商品](https://zh.wikipedia.org/wiki/智冠 "wikilink")「魔奇音效卡」。1992年時，再發行AdLib Gold（音效處理晶片改為[Yamaha YMF262](https://zh.wikipedia.org/wiki/Yamaha_YMF262 "wikilink")）。 [Adlib.jpg](https://zh.wikipedia.org/wiki/File:Adlib.jpg "fig:Adlib.jpg")
 
 ## 簡史

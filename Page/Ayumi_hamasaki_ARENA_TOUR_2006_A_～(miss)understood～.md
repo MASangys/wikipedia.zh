@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ARENA TOUR 2006 A ～\(miss\)understood～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_ARENA_TOUR_2006_A_～\(miss\)understood～)转换而来。
+
+
 《**ayumi hamasaki ARENA TOUR 2006 A ～(miss)understood～**》（濱崎步 2006 巡迴演唱會 A 〜(步)解〜）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2006年間舉行的巡迴演唱會，同年11月1日發行DVD。
 
 ## 說明

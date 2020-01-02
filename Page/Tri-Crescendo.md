@@ -1,3 +1,6 @@
+> 本文内容由[Tri-Crescendo](https://zh.wikipedia.org/wiki/Tri-Crescendo)转换而来。
+
+
 **株式會社tri-Crescendo**（**tri-Crescendo Inc.**）是一間[電子遊戲軟件開發公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，於1999年2月成立。現時總社位於[東京都](../Page/東京都.md "wikilink")[目黑區](../Page/目黑區.md "wikilink")。主要進行[tri-Ace遊戲音樂相關的開發](https://zh.wikipedia.org/wiki/tri-Ace "wikilink")，現在亦有獨自開發遊戲。
 
 ## 沿革

@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla产品列表](https://zh.wikipedia.org/wiki/Mozilla产品列表)转换而来。
+
+
 下列是**[Mozilla基金会](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")／[Mozilla公司](../Page/Mozilla公司.md "wikilink")产品列表**。除特别说明外，所有的产品从设计上都是[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。
 
 ## 客户端程序

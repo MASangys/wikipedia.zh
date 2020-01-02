@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE海賊列表](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表)转换而来。
+
+
 , noteTA is exist . --\> }}   **ONE PIECE海賊列表**列出並說明曾在漫畫《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》。
 
 <small>擔當聲優配音排列順序為：日文配音（日本）；中文配音（台灣）；粵語配音（香港）

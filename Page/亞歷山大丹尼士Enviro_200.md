@@ -1,3 +1,6 @@
+> 本文内容由[亞歷山大丹尼士Enviro 200](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_200)转换而来。
+
+
 **亞歷山大丹尼士Enviro 200**（英語：Alexander Dennis Enviro 200），前稱**TransBus Enviro 200**，是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的一款[低地台中型巴士](../Page/低地台巴士.md "wikilink")，在2003年的Coach & Bus 2003車展登場，原本計劃取代[丹尼士飛鏢SLF](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。
 
 **亞歷山大丹尼士Enviro 200 Dart**（）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")生產的兩軸單層巴士。它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士，於2006年面世，主要取代[飛鏢SLF及Pointer車身](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")。 [IMG_5623_-_Flickr_-_Dave_M_Photography.jpg](https://zh.wikipedia.org/wiki/File:IMG_5623_-_Flickr_-_Dave_M_Photography.jpg "fig:IMG_5623_-_Flickr_-_Dave_M_Photography.jpg")

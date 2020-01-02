@@ -1,3 +1,6 @@
+> 本文内容由[Acid3](https://zh.wikipedia.org/wiki/Acid3)转换而来。
+
+
 **Acid3**由[網頁標準計劃](../Page/網頁標準計劃.md "wikilink")設計，是一份[網頁瀏覽器及設計軟體之標準相容性的測試網頁](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，Acid3開發始於2007年4月\[1\]，2008年3月3日正式發布\[2\]。其測試焦點集中在[ECMAScript](../Page/ECMAScript.md "wikilink")、[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink") Level 3、Media Queries和data: URL。以瀏覽器開啟此測試網頁後，頁面會不斷載入功能、直接給予分數，滿分為100分。
 
 ## 歷史

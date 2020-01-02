@@ -1,3 +1,6 @@
+> 本文内容由[Crytek](https://zh.wikipedia.org/wiki/Crytek)转换而来。
+
+
 **Crytek**是一个[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，由Yerli兄弟于1999年建立。Crytek總部位于[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[法蘭克福](https://zh.wikipedia.org/wiki/法蘭克福 "wikilink")，目前有一家位於[烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[基輔](../Page/基輔.md "wikilink")的分部。\[1\]著名作品為遊戲《[極地戰嚎](https://zh.wikipedia.org/wiki/極地戰嚎 "wikilink")》及《[孤岛危机系列](../Page/孤岛危机系列.md "wikilink")》和其遊戲引擎[CryENGINE](../Page/CryENGINE.md "wikilink")。
 
 ## 得獎

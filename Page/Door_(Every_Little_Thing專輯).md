@@ -1,3 +1,6 @@
+> 本文内容由[Door \(Every Little Thing專輯\)](https://zh.wikipedia.org/wiki/Door_\(Every_Little_Thing專輯\))转换而来。
+
+
 『**Door**』（世界門）是日本組合[Every Little Thing於](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")2008年3月5日公開的第8張專輯。
 
 ## 關於

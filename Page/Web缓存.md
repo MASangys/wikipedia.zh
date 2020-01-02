@@ -1,3 +1,6 @@
+> 本文内容由[Web缓存](https://zh.wikipedia.org/wiki/Web缓存)转换而来。
+
+
 **Web缓存**（或**HTTP缓存**）是用于临时存储（[缓存](../Page/缓存.md "wikilink")）[Web文档](../Page/網頁.md "wikilink")（如[HTML页面和](../Page/網頁.md "wikilink")[图像](../Page/数字图像.md "wikilink")），以减少[服务器延迟的一种](../Page/带宽_\(计算机\).md "wikilink")[信息技术](../Page/信息技术.md "wikilink")。Web缓存系统会保存下通过这套系统的文档的副本；如果满足某些条件，则可以由缓存满足后续请求。\[1\] Web缓存[系統](../Page/系統.md "wikilink")既可以指，也可以指计算机程序。
 
 ## 系统

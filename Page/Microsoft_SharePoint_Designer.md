@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft SharePoint Designer](https://zh.wikipedia.org/wiki/Microsoft_SharePoint_Designer)转换而来。
+
+
 **Microsoft SharePoint Designer**，簡稱SPD，是一款由[微軟公司推出的](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[網頁](../Page/網頁.md "wikilink")製作軟件，前身是[Microsoft FrontPage](../Page/Microsoft_FrontPage.md "wikilink")。
 
 ## 過去版本

@@ -1,3 +1,6 @@
+> 本文内容由[RAM disk](https://zh.wikipedia.org/wiki/RAM_disk)转换而来。
+
+
 \-{T|zh:RAM disk;zh-hans:RAM盘;zh-hant:RAM disk;zh-cn:RAM盘;zh-tw:RAM disk;zh-hk:RAM碟;zh-sg:RAM disk;zh-mo:RAM碟;}- -{H|zh:RAM disk;zh-hans:RAM盘;zh-hant:RAM disk;zh-cn:RAM盘;zh-tw:RAM disk;zh-hk:RAM碟;zh-sg:RAM disk;zh-mo:RAM碟;}- **RAM disk**是通过使用软件将[RAM模拟当做](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")[硬盘](../Page/硬盘.md "wikilink")来使用的一种技术。
 
 相对于传统的硬盘文件访问来说，这种技术可以极大的提高在其上进行的文件访问的速度。但是RAM的易失性也意味着当关闭电源后的数据将会丢失。某些时候这不是问题，比如说对于一个加密文档的明文来说。但是在大多数情况下，传递到RAM disk上的数据都是其他在别处有永久性存贮文件的一个拷贝，当系统重启后可以重新建立。

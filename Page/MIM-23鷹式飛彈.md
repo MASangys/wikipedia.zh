@@ -1,3 +1,6 @@
+> 本文内容由[MIM-23鷹式飛彈](https://zh.wikipedia.org/wiki/MIM-23鷹式飛彈)转换而来。
+
+
 **MIM-23鷹式飛彈**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雷神公司](../Page/雷神公司.md "wikilink")研製的中程[地對空飛彈](https://zh.wikipedia.org/wiki/地對空飛彈 "wikilink")，主要是用來對抗中低空飛行的飛機，填補的防禦空缺。其名稱「鷹式」（HAWK）是「全程歸向殺手」（Homing All the Way Killer）的[縮寫](../Page/縮寫.md "wikilink")。中国音译**霍克导弹**。鷹式飛彈使用連續波照明科技，使飛彈在低空的接戰表現優於勝利女神。[詹氏資訊集團](../Page/詹氏資訊集團.md "wikilink")報載鷹式飛彈的單發為0.56，改良型鷹式飛彈為0.85。\[1\]
 
 1994年美國陸軍的鷹式飛彈以[MIM-104愛國者飛彈替換](https://zh.wikipedia.org/wiki/MIM-104愛國者飛彈 "wikilink")，[美國海軍陸戰隊的鷹式飛彈則在](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")2002年以[刺針飛彈替換](../Page/FIM-92刺針便攜式防空飛彈.md "wikilink")，目前鷹式飛彈仍在美國以外的盟邦服役，總生產量至少有4萬枚。

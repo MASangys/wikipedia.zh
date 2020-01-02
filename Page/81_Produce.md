@@ -1,3 +1,6 @@
+> 本文内容由[81 Produce](https://zh.wikipedia.org/wiki/81_Produce)转换而来。
+
+
 **株式會社81 Produce**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。簡稱「**81**」。至於該公司命名的由來來自成立的年份。
 
 ## 概要

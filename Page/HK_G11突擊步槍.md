@@ -1,3 +1,6 @@
+> 本文内容由[HK G11突擊步槍](https://zh.wikipedia.org/wiki/HK_G11突擊步槍)转换而来。
+
+
 **G11**是[西德](../Page/西德.md "wikilink")在60年代後期開始開發，80年代原成樣版的[無殼彈](../Page/無殼彈.md "wikilink")[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍計劃](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。原意為取代[HK G3成為新一代制式步槍](../Page/HK_G3自動步槍.md "wikilink")，西德把步槍整體項目交由[黑克勒-科赫負責](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")、[諾貝爾炸藥](https://zh.wikipedia.org/wiki/諾貝爾炸藥 "wikilink")（）負責無殼彈技術、Hensoldt Wetzlar則負責[瞄準鏡部份](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，三家公司組成了GSHG（）共同開發。
 
 整個G11的開發計劃長達20年，投入經費極高，購置计划也非同小可。正當G11完成研發之際，90年代因[華沙公約组织解散](https://zh.wikipedia.org/wiki/華沙公約组织 "wikilink")，[冷戰結束](https://zh.wikipedia.org/wiki/冷戰 "wikilink")、[兩德統一](../Page/兩德統一.md "wikilink")，動用大量經費購置新鎗械及新子彈的需求突然消失，G11計劃雖然在技術上成功完成，但卻無訂單、從未大量生產。H\&K也因G11的研發費用及訂單落空而陷入困境，1991年被[英國航太的](https://zh.wikipedia.org/wiki/英國航太 "wikilink")公司收購，其後在2002年德國某集團向英國航太購回H\&K。

@@ -1,3 +1,6 @@
+> 本文内容由[LaCoya](https://zh.wikipedia.org/wiki/LaCoya)转换而来。
+
+
 **LaCoya**是[台灣百和工業](../Page/台灣百和工業.md "wikilink")的[紡織品品牌](https://zh.wikipedia.org/wiki/紡織品 "wikilink")，LaCoya來自[法文意思中](https://zh.wikipedia.org/wiki/法文 "wikilink")「炭的紡織」。2003年，台灣百和與[工研院合作開發](https://zh.wikipedia.org/wiki/工研院 "wikilink")[竹炭](../Page/竹炭.md "wikilink")產品，並將所開發的奈米竹炭紗命名為「黑絲絨」，是台灣第一個取得[台灣優良農產品證明標章](../Page/台灣優良農產品證明標章.md "wikilink")認證的原料紗線。2005年，台灣百和建立「LaCoya」作為竹炭產品的獨立品牌。
 
 LaCoya的產品包括外衣、內衣、寢具、生活用品綜合類及護具用品。

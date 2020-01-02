@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft PhotoDraw](https://zh.wikipedia.org/wiki/Microsoft_PhotoDraw)转换而来。
+
+
 **Microsoft PhotoDraw 2000** 是一个由[微软公司推出的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[矢量](https://zh.wikipedia.org/wiki/矢量图 "wikilink")[位图](../Page/位图.md "wikilink")处理[软件](../Page/软件.md "wikilink")。PhotoDraw整合了网页编辑、位图编辑和矢量图编辑功能，填补了在[微软Office软件中图像制作与处理的空白](../Page/Microsoft_Office.md "wikilink")。\[1\]
 
 ## 历史

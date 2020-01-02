@@ -1,3 +1,6 @@
+> 本文内容由[Dispolok](https://zh.wikipedia.org/wiki/Dispolok)转换而来。
+
+
 “**Dispolok**”（MRCE Dispolok GmbH）是[欧洲](../Page/欧洲.md "wikilink")一家著名的[铁路机车租赁公司](https://zh.wikipedia.org/wiki/铁路机车 "wikilink")，总部设于[德国](../Page/德国.md "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，目前拥有超过200台机车，客户群主要包括德国、[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")、[意大利](../Page/意大利.md "wikilink")的国营和私营铁路公司，以及部分[中欧和](https://zh.wikipedia.org/wiki/中欧 "wikilink")[东欧](../Page/东欧.md "wikilink")国家。
 
 ## 历史

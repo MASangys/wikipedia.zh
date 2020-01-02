@@ -1,3 +1,6 @@
+> 本文内容由[Academi](https://zh.wikipedia.org/wiki/Academi)转换而来。
+
+
 **Academi**，\[1\]\[2\] 原稱：**黑水国际**（Blackwater Worldwide）、**Xe Services LLC**、**美國黑水**（Blackwater USA），是一家私人軍事、安全顧問公司。由前[海豹部隊](../Page/海豹部隊.md "wikilink")軍官[艾瑞克·普林斯](../Page/艾瑞克·普林斯.md "wikilink")與Al Clark於1997年創立，公司總部位於美國的[維珍尼亞州的](https://zh.wikipedia.org/wiki/維珍尼亞州 "wikilink")[里斯頓](https://zh.wikipedia.org/wiki/里斯頓 "wikilink")。\[3\] 公司成立時只有6個人，[911事件後](https://zh.wikipedia.org/wiki/911事件 "wikilink")，業務突飛猛進，從2002年到2005年，營業額增長了600倍。該公司在推廣市場時自稱是「全球最全面的專業軍事、執法、安全、維持和平與穩定行動的公司」。它是美國在伊拉克與阿富汗的主要軍事任務承包商（Military Contractor），負責建立與訓練伊拉克新陸軍、警察。該公司在2007年變得惡名昭彰，原因是當時[公司雇員在巴格達的尼蘇爾廣場殺害了14名伊拉克平民而被定罪](../Page/黑水公司巴格達槍擊案.md "wikilink")，其中有4名護衛在美國法院被判有罪。\[4\]\[5\]
 
 美國黑水公司在[虐囚門事件中所扮演的幕後角色曝光後](https://zh.wikipedia.org/wiki/虐囚門事件 "wikilink")，它的業務與營運方式就成為輿論爭議與指責的焦點，黑水国际因一連串違規事件，在2009年1月被停止在伊拉克運作的牌照\[6\]，之前的合約執行至2009年9月為止\[7\]。

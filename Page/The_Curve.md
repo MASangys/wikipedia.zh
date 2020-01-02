@@ -1,3 +1,6 @@
+> 本文内容由[The Curve](https://zh.wikipedia.org/wiki/The_Curve)转换而来。
+
+
 [Inside_The_Curve.jpg](https://zh.wikipedia.org/wiki/File:Inside_The_Curve.jpg "fig:Inside_The_Curve.jpg") **The Curve**是[馬來西亞大型的購物商場之一](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。位于[雪蘭莪州](https://zh.wikipedia.org/wiki/雪蘭莪州 "wikilink")[八打靈再也北部的](https://zh.wikipedia.org/wiki/八打靈再也 "wikilink")[珍珠白沙羅](../Page/珍珠白沙羅.md "wikilink")，與[IPC购物中心](../Page/IPC购物中心.md "wikilink")、eCurve和[特易購等珍珠白沙羅店組成](https://zh.wikipedia.org/wiki/特易購 "wikilink")[珍珠白沙羅](../Page/珍珠白沙羅.md "wikilink")商圈。
 
 ## 簡介

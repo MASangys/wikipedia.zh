@@ -1,3 +1,6 @@
+> 本文内容由[Bos Wars](https://zh.wikipedia.org/wiki/Bos_Wars)转换而来。
+
+
 ***Bos Wars***（曾名Battle of Survival）是[免费](../Page/自由软件.md "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[即时战略游戏](../Page/即时战略游戏.md "wikilink")。Tina Petersenand 在2004年启动， François Beerten现在执掌。用[C++](../Page/C++.md "wikilink")和[Lua](../Page/Lua.md "wikilink") 写成，使用[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")。
 
 Bos Wars曾作为LinuxLinks 42 More of the Best Free Linux Games\[1\]列表中一员。

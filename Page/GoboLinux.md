@@ -1,3 +1,6 @@
+> 本文内容由[GoboLinux](https://zh.wikipedia.org/wiki/GoboLinux)转换而来。
+
+
 **GoboLinux**是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，其最显著的特色是重新组织的文件系统层次结构。它没有遵循以往[类UNIX](https://zh.wikipedia.org/wiki/类UNIX "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[文件系统层次结构标准](../Page/文件系统层次结构标准.md "wikilink")（FHS）。在GoboLinux下，每个软件都有自己的子目录树，其下包含它属的所有文件。因此，程序“Foo”的专属文件与库都在" /Programs/Foo "目录下。很明显，“可执行”文件位于" /Programs/Foo "。根据GoboLinux开发者的观点，其意义在于构建一个在文件层级上结构明晰的系统。
 
 ## 文件系统层次结构

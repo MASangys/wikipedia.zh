@@ -1,3 +1,6 @@
+> 本文内容由[伯奈利M3 Super 90霰彈槍](https://zh.wikipedia.org/wiki/伯奈利M3_Super_90霰彈槍)转换而来。
+
+
 **伯奈利M3（Super90）**（[英文](../Page/英语.md "wikilink")：**Benelli M3 Super 90**）是一種可半自動可[泵動式](../Page/泵動式.md "wikilink")兩用[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。由[意大利](../Page/意大利.md "wikilink")槍支製造商[伯奈利](../Page/伯奈利.md "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察](../Page/警察.md "wikilink")部隊和民間運動員喜愛。
 
 ## 衍生型

@@ -1,3 +1,6 @@
+> 本文内容由[GNU侦错器](https://zh.wikipedia.org/wiki/GNU侦错器)转换而来。
+
+
 **GNU侦錯器**（，缩写：），是[GNU](../Page/GNU.md "wikilink")軟體系統中的標準[侦錯器](../Page/调试工具.md "wikilink")，此外GDB也是個具有移攜性的侦錯器，經過移攜需求的調修與重新編譯，如今許多的[類UNIX作業系統上都可以使用GDB](https://zh.wikipedia.org/wiki/類UNIX "wikilink")，而現有GDB所能支援除錯的程式語言有[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[Pascal以及](../Page/Pascal_\(程式語言\).md "wikilink")[FORTRAN](../Page/Fortran.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Zend科技](https://zh.wikipedia.org/wiki/Zend科技)转换而来。
+
+
 **Zend Technologies**公司是一家[互联网](../Page/互联网.md "wikilink")基础架构软件公司，公司总部设在美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[库比蒂诺](https://zh.wikipedia.org/wiki/库比蒂诺 "wikilink")，技术中心设在以色列[特拉维夫](../Page/特拉维夫.md "wikilink")的[拉马特甘](https://zh.wikipedia.org/wiki/拉马特甘 "wikilink")，法国，意大利，德国均设立有办事处。公司的技术开发及商业运作都以[PHP](../Page/PHP.md "wikilink")Web应用为中心，包括[Zend Studio](../Page/Zend_Studio.md "wikilink")。
 
 [Zend_logo_small_old.gif](https://zh.wikipedia.org/wiki/File:Zend_logo_small_old.gif "fig:Zend_logo_small_old.gif")

@@ -1,3 +1,6 @@
+> 本文内容由[WCF Data Services](https://zh.wikipedia.org/wiki/WCF_Data_Services)转换而来。
+
+
 [ADO_NET_DSF.png](https://zh.wikipedia.org/wiki/File:ADO_NET_DSF.png "fig:ADO_NET_DSF.png") **WCF Data Services**，舊稱**ADO.NET Data Services Framework**（代號**Astoria**，以下簡稱**WCF DS**）是基於 [ADO.NET Entity Framework](https://zh.wikipedia.org/wiki/ADO.NET_Entity_Framework "wikilink") 上的一個簡單**資料供應服務** (Data Provisioning Services)，也是微軟的 [REST](https://zh.wikipedia.org/wiki/REST "wikilink") (Representational state transfer) 的解決方案之一。特別為 [AJAX](../Page/AJAX.md "wikilink")，[Silverlight以及](https://zh.wikipedia.org/wiki/Silverlight "wikilink")[Mashup應用程式提供資料服務所設計](https://zh.wikipedia.org/wiki/Mashup "wikilink")。
 
 目前 ADO.NET DSF 已經內含於 .NET Framework 3.5 Service Pack 1 中。

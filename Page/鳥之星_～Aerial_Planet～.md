@@ -1,3 +1,6 @@
+> 本文内容由[鳥之星 ～Aerial Planet～](https://zh.wikipedia.org/wiki/鳥之星_～Aerial_Planet～)转换而来。
+
+
 《**鳥之星 ～Aerial Planet～**》是[日本一軟件於](https://zh.wikipedia.org/wiki/日本一軟件 "wikilink")2008年2月28日發售的[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[冒險遊戲及](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[模擬飛行遊戲](https://zh.wikipedia.org/wiki/模擬飛行遊戲 "wikilink")。是第一個發表收錄以「[初音未來](../Page/初音未來.md "wikilink")」製作的音樂的商業產品（但並非第一個發售\[1\]）。
 
 ## 故事簡介

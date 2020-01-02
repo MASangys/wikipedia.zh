@@ -1,3 +1,6 @@
+> 本文内容由[ULTIMATE DIAMOND](https://zh.wikipedia.org/wiki/ULTIMATE_DIAMOND)转换而来。
+
+
 **ULTIMATE DIAMOND**（）是[日本](../Page/日本.md "wikilink")歌手[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第7張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。於2009年6月3日由[KING RECORDS发售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品番號：KICS-91470 （CD+DVD初回限定盤）/KICS-1470（普通版）。
 
 ## 解说

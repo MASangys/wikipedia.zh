@@ -1,3 +1,6 @@
+> 本文内容由[VoIP](https://zh.wikipedia.org/wiki/VoIP)转换而来。
+
+
 [Voip-typical.gif](https://zh.wikipedia.org/wiki/File:Voip-typical.gif "fig:Voip-typical.gif")\]\] **基于IP的语音传输**（，縮寫：）是一種語音通話技術，經由[网际协议](../Page/网际协议.md "wikilink")（）來達成語音通話與[多媒体](../Page/多媒体.md "wikilink")會議，也就是經由[互联网](../Page/互联网.md "wikilink")來進行通訊。其他非正式的名稱有IP電話（）、互联网電話（）、寬頻電話（）以及寬頻電話服務（）。
 
 VoIP可用于包括、[智能手机](../Page/智能手机.md "wikilink")、个人计算机在内的诸多互联网接入设备，通过[蜂窝网络](../Page/蜂窝网络.md "wikilink")、[Wi-Fi](../Page/Wi-Fi.md "wikilink")进行通话及发送[簡訊](../Page/簡訊.md "wikilink")\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[OpenFlow](https://zh.wikipedia.org/wiki/OpenFlow)转换而来。
+
+
 **OpenFlow**，一種網路通訊協定，屬於[數據鏈路層](https://zh.wikipedia.org/wiki/數據鏈路層 "wikilink")，能夠控制[網路交換器](../Page/網路交換器.md "wikilink")或[路由器](../Page/路由器.md "wikilink")的（forwarding plane），藉此改變網路封包所走的網路路徑。
 
 OpenFlow（OF）被认为是第一个[软件定义网络](https://zh.wikipedia.org/wiki/软件定义网络 "wikilink")（SDN）标准之一。它最初在SDN环境中定义了通信协议，使SDN控制器能够与物理和虚拟的交换机和路由器等网络设备的转发平面直接进行交互，从而更好地适应不断变化的业务需求。

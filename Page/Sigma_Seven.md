@@ -1,3 +1,6 @@
+> 本文内容由[Sigma Seven](https://zh.wikipedia.org/wiki/Sigma_Seven)转换而来。
+
+
 **株式會社Sigma Seven**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。常簡寫成「**Sigma 7**」或「**Σ7**」。
 
 ## 概要

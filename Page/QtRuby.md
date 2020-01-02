@@ -1,3 +1,6 @@
+> 本文内容由[QtRuby](https://zh.wikipedia.org/wiki/QtRuby)转换而来。
+
+
 {{ Infobox Software | name = QtRuby | logo = | screenshot = | caption = | developer = | latest release version = 2.2.0 | latest release date =  | latest preview version = | latest preview date = | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming language = [Ruby](../Page/Ruby.md "wikilink") | genre = | license = [LGPL](https://zh.wikipedia.org/wiki/GNU_Lesser_General_Public_License "wikilink") | website = [QtRuby主頁](https://archive.is/20120628224903/http://rubyforge.org/projects/korundum/) }} **QtRuby**是[跨平台的应用程序框架](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Qt](../Page/Qt.md "wikilink")的[Ruby](../Page/Ruby.md "wikilink")綁定版本，包含Qt4和Qt3支持。也是[Korundum](https://zh.wikipedia.org/wiki/Korundum "wikilink")（[KDE](../Page/KDE.md "wikilink") API的Ruby綁定）的基礎。
 
 QtRuby使用[SMOKE提供语言綁定基礎](https://zh.wikipedia.org/wiki/SMOKE "wikilink")

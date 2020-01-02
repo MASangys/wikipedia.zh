@@ -1,3 +1,6 @@
+> 本文内容由[It\'s You](https://zh.wikipedia.org/wiki/It\'s_You)转换而来。
+
+
 "**너라고 (It's You)**" 是韩国男子组合[Super Junior的在线单曲](../Page/Super_Junior.md "wikilink")。这是组合的三辑[Sorry, Sorry的第二张后续曲](../Page/Sorry,_Sorry.md "wikilink")，于2009年5月11日在线发行。2009年5月14日发行的单曲增加了三首新歌，同日发行了Sorry, Sorry的再版。
 
 ## 歌曲历史

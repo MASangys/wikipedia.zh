@@ -1,3 +1,6 @@
+> 本文内容由[EMax](https://zh.wikipedia.org/wiki/EMax)转换而来。
+
+
 [HK_EMAX_Entrance.jpg](https://zh.wikipedia.org/wiki/File:HK_EMAX_Entrance.jpg "fig:HK_EMAX_Entrance.jpg") [E-Max_Atrium_201904.jpg](https://zh.wikipedia.org/wiki/File:E-Max_Atrium_201904.jpg "fig:E-Max_Atrium_201904.jpg") [GF_E-Max_WearHouse_201904.jpg](https://zh.wikipedia.org/wiki/File:GF_E-Max_WearHouse_201904.jpg "fig:GF_E-Max_WearHouse_201904.jpg") [B1_E-Max_WearHouse_201904.jpg](https://zh.wikipedia.org/wiki/File:B1_E-Max_WearHouse_201904.jpg "fig:B1_E-Max_WearHouse_201904.jpg") [EMax_Level_2_Restaurants_2019.jpg](https://zh.wikipedia.org/wiki/File:EMax_Level_2_Restaurants_2019.jpg "fig:EMax_Level_2_Restaurants_2019.jpg") [EMax_MaxHome_Level_6_View_201406.jpg](https://zh.wikipedia.org/wiki/File:EMax_MaxHome_Level_6_View_201406.jpg "fig:EMax_MaxHome_Level_6_View_201406.jpg") [HK_Kln_Bay_EMax_Star_Hall_Theatre_Stairs_a.jpg](https://zh.wikipedia.org/wiki/File:HK_Kln_Bay_EMax_Star_Hall_Theatre_Stairs_a.jpg "fig:HK_Kln_Bay_EMax_Star_Hall_Theatre_Stairs_a.jpg")
 
 **E-Max**為一個位於[香港](../Page/香港.md "wikilink")[九龍灣](../Page/九龍灣.md "wikilink")展貿徑一號[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")的商場，大廈原於1998年7月22日入-{伙}-，發展商為[合和實業](../Page/合和實業.md "wikilink")。E-Max是翻新後的名稱，2007年7月14日開幕。大廈由國際建築事務所[Aedas負責設計](https://zh.wikipedia.org/wiki/Aedas "wikilink")。

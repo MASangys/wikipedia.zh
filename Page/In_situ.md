@@ -1,3 +1,6 @@
+> 本文内容由[In situ](https://zh.wikipedia.org/wiki/In_situ)转换而来。
+
+
 ***In situ***是一個[拉丁文片語](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")，字面上的意思是指「在原本位置」，於不同領域中有不同用法，包括[航天學](https://zh.wikipedia.org/wiki/航天學 "wikilink")、[考古學](https://zh.wikipedia.org/wiki/考古學 "wikilink")、[建築學](https://zh.wikipedia.org/wiki/建築學 "wikilink")、[生物學](https://zh.wikipedia.org/wiki/生物學 "wikilink")、[法律](../Page/法律.md "wikilink")、[文學](../Page/文學.md "wikilink")、[天文學](../Page/天文學.md "wikilink")、[化學](../Page/化學.md "wikilink")、[計算機科學](https://zh.wikipedia.org/wiki/計算機科學 "wikilink")、[地球科學](https://zh.wikipedia.org/wiki/地球科學 "wikilink")、[环境学與](https://zh.wikipedia.org/wiki/环境学 "wikilink")[大氣科學等](https://zh.wikipedia.org/wiki/大氣科學 "wikilink")，皆有使用此片語。
 
 ## 天文學

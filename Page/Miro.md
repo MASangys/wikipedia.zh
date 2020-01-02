@@ -1,3 +1,6 @@
+> 本文内容由[Miro](https://zh.wikipedia.org/wiki/Miro)转换而来。
+
+
 **Miro**（原名為**Democracy Player**及**DTV**\[1\]）是由開發的集[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")、[網絡電視於一身的開源軟件](https://zh.wikipedia.org/wiki/網絡電視 "wikilink")，自身可播放多種文件格式，也可通過下載功能下載[互聯網上的影片並且加以管理](https://zh.wikipedia.org/wiki/互聯網 "wikilink")\[2\]，支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")作業系統。
 
 Miro是遵循[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")\[3\]發佈的開源軟件。

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch Diamond](https://zh.wikipedia.org/wiki/HTC_Touch_Diamond)转换而来。
+
+
 **HTC Touch Diamond**，俗稱**鑽石機**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟[Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6.1，是一種具有3D立體觸控介面（[TouchFLO 3D](https://zh.wikipedia.org/wiki/TouchFLO_3D "wikilink")）的手機。2008年5月6日於英國倫敦首度發表。6月4日又推出其升級版[HTC Touch Pro](../Page/HTC_Touch_Pro.md "wikilink")。
 
 HTC Touch Diamond具有如鑽石般的外型（P3700），是宏達電Touch家族旗下繼「阿福機」（Touch）之後，最受矚目的型號，並搶先iPhone 3G上市。

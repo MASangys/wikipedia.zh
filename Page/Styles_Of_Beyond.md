@@ -1,3 +1,6 @@
+> 本文内容由[Styles Of Beyond](https://zh.wikipedia.org/wiki/Styles_Of_Beyond)转换而来。
+
+
 **Styles Of Beyond**（官方中譯：遠放）是[EXILE的第](https://zh.wikipedia.org/wiki/EXILE "wikilink")2張原創專輯。
 
 ## 解説

@@ -1,3 +1,6 @@
+> 本文内容由[ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION 2006](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION_2006)转换而来。
+
+
 **ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION**是[ASIAN KUNG-FU GENERATION主辦的搖滾音樂祭](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")「NANO-MUGEN FES.2006」中演出的所有藝人的合輯。在2006年7月5日由開始發售。初回限定盤特別以貼紙封好包裝。
 
 ## 收錄曲

@@ -1,3 +1,6 @@
+> 本文内容由[Riya](https://zh.wikipedia.org/wiki/Riya)转换而来。
+
+
 **riya**（、）是[福岡縣出身的](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。血型是AB型。
 
 ## 概要．簡介

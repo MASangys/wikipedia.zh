@@ -1,3 +1,6 @@
+> 本文内容由[HK UMP衝鋒槍](https://zh.wikipedia.org/wiki/HK_UMP衝鋒槍)转换而来。
+
+
 **HK UMP**（[德文](../Page/德语.md "wikilink")：Universale Maschinenpistole，[英文](../Page/英语.md "wikilink")：Universal Machine Pistol，意為「**通用衝鋒槍**」）是由[黑克勒-科赫（Heckler & Koch—HK）於](../Page/黑克勒&科赫.md "wikilink")1998年所開發完成的一款[冲锋枪](../Page/冲锋枪.md "wikilink")，口徑有[.45 ACP](../Page/.45_ACP.md "wikilink")、[9×19毫米以及](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")[.40 S\&W可選擇](../Page/.40_S&W.md "wikilink")，由於性能優異，[後座力](../Page/後座力.md "wikilink")小，易於分解，現由多個[特種部隊](../Page/特種部隊.md "wikilink")及[特警隊採用](https://zh.wikipedia.org/wiki/特警隊 "wikilink")。
 
 ## 歷史

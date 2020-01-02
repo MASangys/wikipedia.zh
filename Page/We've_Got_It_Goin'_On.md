@@ -1,3 +1,6 @@
+> 本文内容由[We\'ve Got It Goin\' On](https://zh.wikipedia.org/wiki/We\'ve_Got_It_Goin\'_On)转换而来。
+
+
 是[新好男孩的第一首單曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")，收錄進他們1995年的[同名專輯](../Page/新好男孩_\(國際版\).md "wikilink")。後來的[美國版專輯亦收入此曲](https://zh.wikipedia.org/wiki/新好男孩_\(美國版\) "wikilink")。
 
 這首單曲最早在[美國發行](https://zh.wikipedia.org/wiki/美國 "wikilink")，但並無甚反響。隨後他們在[歐洲發行了這首單曲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，很快一炮走紅，他們也在歐洲銷售榜上排入前列。

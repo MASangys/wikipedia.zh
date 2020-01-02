@@ -1,3 +1,6 @@
+> 本文内容由[Opera浏览器特征](https://zh.wikipedia.org/wiki/Opera浏览器特征)转换而来。
+
+
 这篇文章介绍**Opera网页浏览器的特征**，以下按照这些特征适用平台进行分类（[Opera Devices因其载体不同功能各异](https://zh.wikipedia.org/wiki/Opera_Devices "wikilink")，[Opera Devices for Wii可参照Opera](https://zh.wikipedia.org/wiki/Opera_Devices#Wii_Internet_Channel "wikilink") browser，[Opera Devices for DS可参照Opera](https://zh.wikipedia.org/wiki/Opera_Devices#Nintendo_DS_Browser "wikilink") Mobile）
 
 ## 适用于[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Opera Mini和](../Page/Opera_Mini.md "wikilink")[Opera Mobile](https://zh.wikipedia.org/wiki/Opera_Mobile "wikilink")

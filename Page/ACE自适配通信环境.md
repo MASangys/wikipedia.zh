@@ -1,3 +1,6 @@
+> 本文内容由[ACE自适配通信环境](https://zh.wikipedia.org/wiki/ACE自适配通信环境)转换而来。
+
+
 **Adaptive Communication Environment**，簡稱**[ACE](../Page/ACE.md "wikilink")**。為一個以[C++](../Page/C++.md "wikilink")的Template技術所做成的[开放源代码](../Page/开放源代码.md "wikilink")的可跨平台的網路應用程式的程式庫套件。
 
 ## 簡介

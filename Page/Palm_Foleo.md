@@ -1,3 +1,6 @@
+> 本文内容由[Palm Foleo](https://zh.wikipedia.org/wiki/Palm_Foleo)转换而来。
+
+
 Palm Foleo是一款基於[Linux](../Page/Linux.md "wikilink")的[次筆記型電腦](https://zh.wikipedia.org/wiki/次筆記型電腦 "wikilink")，由[Palm公司於](https://zh.wikipedia.org/wiki/Palm公司 "wikilink")2007年5月30日對外宣佈\[1\]，意在成為[智能手機的夥伴裝置](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。
 
 Foleo包含256 MB快閃記憶體，並會保持啓動而不需開機與關機，擁有[藍芽與](https://zh.wikipedia.org/wiki/藍芽 "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink")無線通訊能力，據報作業系統會運行一個經修改的[Linux](../Page/Linux.md "wikilink")核心\[2\]。整合的軟體包括一個[電子郵件客戶端](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[Opera瀏覽器與Documents](https://zh.wikipedia.org/wiki/Opera "wikilink") To Go辦公室套件。

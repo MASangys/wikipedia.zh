@@ -1,3 +1,6 @@
+> 本文内容由[Sumatra PDF](https://zh.wikipedia.org/wiki/Sumatra_PDF)转换而来。
+
+
 **Sumatra PDF**，又叫**Sumatra**，是一款专为[Microsoft Windows开发的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[PDF阅读器](https://zh.wikipedia.org/wiki/PDF "wikilink")。该程序也可以打开[开放XML纸张规范](https://zh.wikipedia.org/wiki/开放XML纸张规范 "wikilink")、[DjVu](../Page/DjVu.md "wikilink")、[EPUB](../Page/EPUB.md "wikilink")、[XPS](../Page/XML纸张规范.md "wikilink")、[CHM](https://zh.wikipedia.org/wiki/编译的HTML帮助文件 "wikilink")、[CB7、CBR、CBT、CBZ](https://zh.wikipedia.org/wiki/Comic_Book_Archive "wikilink")、[MOBI和PRC文件](https://zh.wikipedia.org/wiki/MOBI "wikilink")。由两位贡献者最先编写：[Krzysztof Kowalczyk和Simon](https://zh.wikipedia.org/wiki/Krzysztof_Kowalczyk "wikilink") Bünzli。\[1\]\[2\]
 
 ## 特性

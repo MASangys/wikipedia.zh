@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Personal Web Server](https://zh.wikipedia.org/wiki/Microsoft_Personal_Web_Server)转换而来。
+
+
 **Microsoft Personal Web Server**（**PWS**，个人Web服务器）是一个微软为[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")提供的个人Web服务器软件。PWS只被Microsoft在[Windows 95](../Page/Windows_95.md "wikilink")、[Windows 98](../Page/Windows_98.md "wikilink")、[Windows 98 SE以及](https://zh.wikipedia.org/wiki/Windows_98_SE "wikilink")[Windows NT 4.0中提供](../Page/Windows_NT_4.0.md "wikilink")。它比[Internet Information Services](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")（IIS）的功能特性要少。
 
 在[Windows 2000之前](../Page/Windows_2000.md "wikilink")，PWS是免费下载的，后来被一个Windows组件IIS所取代。[Windows 98当中所包含的PWS](../Page/Windows_98.md "wikilink")4.0是它的最后一个版本，它也是Windows NT 4.0的可选安装包的一部分。注意，没有任何版本的PWS或IIS在[Windows Me和](../Page/Windows_Me.md "wikilink")[Windows XP](../Page/Windows_XP.md "wikilink") Home Edition中被支持，尽管[IIS包含在任何其他Windows](https://zh.wikipedia.org/wiki/IIS "wikilink") XP版本，而且PWS经验证可以被安装在Windows Me。

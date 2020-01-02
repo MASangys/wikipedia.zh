@@ -1,3 +1,6 @@
+> 本文内容由[Wow \(周筆暢專輯\)](https://zh.wikipedia.org/wiki/Wow_\(周筆暢專輯\))转换而来。
+
+
 《WOW》是[中国大陆](../Page/中国大陆.md "wikilink")歌手[周笔畅](../Page/周笔畅.md "wikilink")的第三张个人专辑，也是她于2007年12月18日同步发行的双子专辑之一。两张专辑中的《[NOW](https://zh.wikipedia.org/wiki/NOW "wikilink")》延续了周笔畅擅长的抒情R\&B风格，代表着“现在”的周笔畅；而在《WOW》里，制作人和周笔畅实验了摇滚、舞曲、乡村等不同的音乐风格和唱法，目的是使听者发出"Wow\!"的感叹。\[1\]
 
 专辑的同名主打歌《WOW》一经推出，便先后在[广东音乐台的](https://zh.wikipedia.org/wiki/广东电台音乐之声 "wikilink")9+2音乐先锋榜和[全球华语歌曲排行榜上空降冠军](https://zh.wikipedia.org/wiki/全球华语歌曲排行榜 "wikilink")。\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COUNTDOWN LIVE 2012-2013 A ～WAKE UP～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COUNTDOWN_LIVE_2012-2013_A_～WAKE_UP～)转换而来。
+
+
 《**ayumi hamasaki COUNTDOWN LIVE 2012-2013 A ～WAKE UP～**》（濱崎步 2012-2013 跨年演唱會A ～WAKE UP～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2012年12月29日、30日和31日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行的跨年演唱會，於2013年4月8日發行DVD及Blu-ray。
 
 ## 說明

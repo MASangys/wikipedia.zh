@@ -1,3 +1,6 @@
+> 本文内容由[CCTV-MTV音乐盛典](https://zh.wikipedia.org/wiki/CCTV-MTV音乐盛典)转换而来。
+
+
 **CCTV-MTV音乐盛典**（）是[中国中央电视台](../Page/中国中央电视台.md "wikilink")（CCTV）和[音乐电视网（MTV）联合主办的年度](../Page/音樂電視網.md "wikilink")[中文流行音乐颁奖晚会](https://zh.wikipedia.org/wiki/中文流行音乐 "wikilink")。首届于1999年举办，至2012年共举办11届。因中国中央电视台（CCTV）在中国的巨大影响力，而音乐电视网（MTV）也是国际知名的电视台，该颁奖典礼吸引中国大陆、香港、澳门、台湾、新加坡、马来西亚等地的中文歌手和音乐人参加。
 
 ## 历年得奖名单

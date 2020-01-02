@@ -1,3 +1,6 @@
+> 本文内容由[Ye型蒸汽机车](https://zh.wikipedia.org/wiki/Ye型蒸汽机车)转换而来。
+
+
 **Ye型蒸汽机车**（）是[苏联铁路使用的一款干线货运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车又分为Yea, Yek, Yel, Yef, Yem, Yemv and Yes等分支 ()，因此被人称之为“俄罗斯德加宝”（Russian Decapods）。机车由[ALCO和](../Page/美国机车公司.md "wikilink")[Baldwin于一战期间和二战期间先后为](../Page/鲍尔温机车厂.md "wikilink")[俄罗斯帝国](../Page/俄罗斯帝国.md "wikilink")铁路和苏联铁路制造。除此之外，[中国铁路](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")、[芬兰铁路和朝鲜铁路也使用该款机车](https://zh.wikipedia.org/wiki/芬兰铁路 "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[凌志ES](https://zh.wikipedia.org/wiki/凌志ES)转换而来。
+
+
 **凌志ES**（**-{Lexus ES}-**），ES代表Executive Sedan，是[豐田汽車公司旗下](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[凌志](../Page/凌志.md "wikilink")品牌的中大級豪華轎車／行政坐駕系列。凌志ES前五代是以[豐田凱美瑞作為開平台](https://zh.wikipedia.org/wiki/豐田凱美瑞 "wikilink")，第六代改以尺碼更大的Avalon為基礎設計，搭載了一顆[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")[引擎及](https://zh.wikipedia.org/wiki/引擎 "wikilink")[自動變速箱](https://zh.wikipedia.org/wiki/自動變速箱 "wikilink")，現在已經生產到第七代。在發售的大部份時間，ES都被定位為凌志車系中的入門級豪華轎車，直至2001年引進了[IS型號為止](../Page/凌志IS.md "wikilink")。由1989年至1991年發售的第一代的ES 250，與當時的豐田凱美瑞共用同一個車型。而當時尚未引入凌志品牌的日本本土市場，則以「豐田Windom」的名義推出，期間一直與ES共用同一個車型直至2006年為止。ES型號已成為Lexus家族舒適豪華汽車代表。同級車為Mercedes E系列及BMW 5系列。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[VSS Vintorez狙擊步槍](https://zh.wikipedia.org/wiki/VSS_Vintorez狙擊步槍)转换而来。
+
+
 **VSS**（，GRAU编号6P29），又名Vintorez()，是一种使用[9×39毫米](https://zh.wikipedia.org/wiki/9×39毫米 "wikilink")[亚音速弹药的](https://zh.wikipedia.org/wiki/亚音速 "wikilink")[消音](https://zh.wikipedia.org/wiki/消音 "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")。该枪由[蘇聯工业设计局](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")（）于20世纪80年代末设计。
 
 ## 歷史及設計

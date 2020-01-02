@@ -1,3 +1,6 @@
+> 本文内容由[Neverball](https://zh.wikipedia.org/wiki/Neverball)转换而来。
+
+
 《**Neverball**》是一个[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，模式类似于《[超级猴子球](https://zh.wikipedia.org/wiki/超级猴子球 "wikilink")》。 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 2000/XP、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Sega Dreamcast以及](https://zh.wikipedia.org/wiki/Sega_Dreamcast "wikilink")[iPhone都可以看到它的影子](https://zh.wikipedia.org/wiki/iPhone "wikilink")。《Neverball》是[自由软件](../Page/自由软件.md "wikilink")授权协议为[GNU General Public License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")
 
 ## 游戏基本

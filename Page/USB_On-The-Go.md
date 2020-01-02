@@ -1,3 +1,6 @@
+> 本文内容由[USB On-The-Go](https://zh.wikipedia.org/wiki/USB_On-The-Go)转换而来。
+
+
 [USB_OTG_Logo.svg](https://zh.wikipedia.org/wiki/File:USB_OTG_Logo.svg "fig:USB_OTG_Logo.svg")
 
 **USB On-The-Go**通常缩写為**USB OTG**，是[USB 2.0規格的補充標準](https://zh.wikipedia.org/wiki/USB_2.0 "wikilink")。它可使[USB](../Page/USB.md "wikilink")设备，例如播放器或手机，从USB周边设备变为USB主机，与其他USB设备连接通信。在正常情况下，这些支持OTG的USB设备和USB主机（如[桌上型電腦](../Page/桌上型電腦.md "wikilink")或者[手提电脑](https://zh.wikipedia.org/wiki/手提电脑 "wikilink")），仍然作为USB周边设备使用。

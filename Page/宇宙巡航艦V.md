@@ -1,3 +1,6 @@
+> 本文内容由[宇宙巡航艦V](https://zh.wikipedia.org/wiki/宇宙巡航艦V)转换而来。
+
+
 是一款日本遊戲公司[Treasure所開發](https://zh.wikipedia.org/wiki/:en:Treasure_\(company\) "wikilink")，由[科樂美](../Page/科樂美.md "wikilink")發行之射擊遊戲，屬於橫向捲軸射擊遊戲《[宇宙巡航艦系列](../Page/宇宙巡航艦系列.md "wikilink")》的作品，於2004年7月22日在日本上市。本作是第一部宇宙巡航艦的本傳作品直接跳過街機而發行於家用平台上之遊戲，並於遊戲中加入了些過去家用版作品的要素。
 
 ## 劇情

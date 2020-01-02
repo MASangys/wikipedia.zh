@@ -1,3 +1,6 @@
+> 本文内容由[LGBT收養](https://zh.wikipedia.org/wiki/LGBT收養)转换而来。
+
+
 **LGBT收養**（）指的是[LGBT](../Page/LGBT.md "wikilink")族群（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）[收養](../Page/收養.md "wikilink")兒童。同性伴侶中其中一方通過法律方式（例如通過再婚的[繼子女](https://zh.wikipedia.org/wiki/繼子女 "wikilink")）取得一個兒童的[監護權](https://zh.wikipedia.org/wiki/監護權 "wikilink")，而伴侶的另一方則在事實上或法律上獲得了這個孩子的監護權，從而形成事實上或法律上的收養關係。
 
 LGBT收養目前在14個國家是合法的，同時在某些國家（例如：美國）的某些地區是合法的。但在目前大部分的國家及地區，LGBT收養兒童是非法的，儘管在上述地區關於LGBT收養權問題還在熱烈辯論中。而反對LGBT族群收養兒童的最重要原因是，反對者質疑同性伴侶能夠承擔起足夠的家長責任。但在實際執行上，LGBT收養權也不完全是由法律來監管，所以有時立法與否並不能阻止LGBT收養的發生。

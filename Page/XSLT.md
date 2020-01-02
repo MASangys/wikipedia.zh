@@ -1,3 +1,6 @@
+> 本文内容由[XSLT](https://zh.wikipedia.org/wiki/XSLT)转换而来。
+
+
 [TempEngXslt015.svg](https://zh.wikipedia.org/wiki/File:TempEngXslt015.svg "fig:TempEngXslt015.svg")
 
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**可扩展样式-{表}-转换语言**（，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")）是一种樣式轉換標記语言，可以將[XML](../Page/XML.md "wikilink")資料檔轉換為另外的XML或其它格式，如HTML網頁，純文字。XSLT最末的T字母表示英语中的“转换”（transformation）。它是[XSL规范中的一部分](https://zh.wikipedia.org/wiki/XSL "wikilink")，目前最新的建議版本為XSL 3.0。

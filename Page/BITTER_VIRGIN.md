@@ -1,3 +1,6 @@
+> 本文内容由[BITTER VIRGIN](https://zh.wikipedia.org/wiki/BITTER_VIRGIN)转换而来。
+
+
 《**BITTER VIRGIN**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[楠桂](../Page/楠桂.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。自[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2005年5號至2008年6號連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。
 
 ## 劇情簡介

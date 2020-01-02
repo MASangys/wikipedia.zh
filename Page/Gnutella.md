@@ -1,3 +1,6 @@
+> 本文内容由[Gnutella](https://zh.wikipedia.org/wiki/Gnutella)转换而来。
+
+
 **Gnutella**（，单词中的*g*不发音，或者发音为）是一种[文件共享网络](https://zh.wikipedia.org/wiki/文件共享 "wikilink")。2005年6月，gnutella约有181万台用户（计算机）\[1\]，而2006年1月增加到超过300万个节点\[2\]。截至2007年底，它是[互联网](../Page/互联网.md "wikilink")上最流行的文件共享网络，估计市场份额超过40%。\[3\]\[4\]
 
 ## 历史

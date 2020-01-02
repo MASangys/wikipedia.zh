@@ -1,3 +1,6 @@
+> 本文内容由[KEGG](https://zh.wikipedia.org/wiki/KEGG)转换而来。
+
+
 **KEGG**（，**京都基因與基因组百科全書**，）是一套日本於1995年制定的**人類基因組計劃**，此為關於[基因组](https://zh.wikipedia.org/wiki/基因组 "wikilink")、[酶促途径以及](https://zh.wikipedia.org/wiki/酶促途径 "wikilink")[生物化学物质的](https://zh.wikipedia.org/wiki/生物化学物质 "wikilink")[在线数据库](https://zh.wikipedia.org/wiki/在线数据库 "wikilink")。其途径数据库之中记录的是细胞之中的[分子相互作用网络以及具体生物所特有的变化形式](https://zh.wikipedia.org/wiki/分子相互作用网络 "wikilink")。 但是它有一個缺點『無法由網頁介面作進一步的計算，例如建立複雜的調控網，或是找出反應之間可能的交互作用』。
 
 ## 介绍

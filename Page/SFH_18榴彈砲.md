@@ -1,3 +1,6 @@
+> 本文内容由[SFH 18榴彈砲](https://zh.wikipedia.org/wiki/SFH_18榴彈砲)转换而来。
+
+
 **sFH 18**（德語：**s**chwere **F**eld**h**aubitze 18）榴彈砲，德軍暱稱“Immergrün”（長青樹），為納粹德國在[第二次世界大戰中的主力重型](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[榴彈砲](https://zh.wikipedia.org/wiki/榴彈砲 "wikilink")，每個步兵師皆配置了12門作為師重火力支援。雖然實際口徑只有149.1公厘，但是因為前身[sFH 13榴彈砲也是同口徑以](https://zh.wikipedia.org/wiki/sFH_13榴彈砲 "wikilink")15公分命名，因此延續這種命名方式。
 
 ## 簡介

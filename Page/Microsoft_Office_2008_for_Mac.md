@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office 2008 for Mac](https://zh.wikipedia.org/wiki/Microsoft_Office_2008_for_Mac)转换而来。
+
+
 **Microsoft Office 2008 for Mac**是微軟[Microsoft Office](../Page/Microsoft_Office.md "wikilink") [Mac OS X的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")2008年版本，以用作取代[Microsoft Office 2004 for Mac和是與Mac](../Page/Microsoft_Office_2004_for_Mac.md "wikilink") OS X的等效[Windows版本的](https://zh.wikipedia.org/wiki/Windows "wikilink")[Microsoft Office 2007](../Page/Microsoft_Office_2007.md "wikilink")。它是由Microsoft's Macintosh Business Unit開發，並於2008年1月15日發佈。
 
 ## 概覽

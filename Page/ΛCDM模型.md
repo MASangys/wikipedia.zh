@@ -1,3 +1,6 @@
+> 本文内容由[ΛCDM模型](https://zh.wikipedia.org/wiki/ΛCDM模型)转换而来。
+
+
 [Cosmological_composition.jpg](https://zh.wikipedia.org/wiki/File:Cosmological_composition.jpg "fig:Cosmological_composition.jpg")，大约有96%的能量来自奇异的[暗物质](../Page/暗物质.md "wikilink")和[暗能量](../Page/暗能量.md "wikilink")。\]\] [Lambda-Cold_Dark_Matter,_Accelerated_Expansion_of_the_Universe,_Big_Bang-Inflation.jpg](https://zh.wikipedia.org/wiki/File:Lambda-Cold_Dark_Matter,_Accelerated_Expansion_of_the_Universe,_Big_Bang-Inflation.jpg "fig:Lambda-Cold_Dark_Matter,_Accelerated_Expansion_of_the_Universe,_Big_Bang-Inflation.jpg")。\]\]
 
 **ΛCDM模型**（[英语](../Page/英语.md "wikilink")：或）是所谓**Λ-冷暗物质**（）**模型**的简称。它在[大爆炸](../Page/大爆炸.md "wikilink")[宇宙学](../Page/宇宙学.md "wikilink")中经常被称作索引模型，这是因为它尝试解释了对[宇宙微波背景辐射](https://zh.wikipedia.org/wiki/宇宙微波背景辐射 "wikilink")、[宇宙大尺度结构以及](https://zh.wikipedia.org/wiki/大尺度结构 "wikilink")[宇宙加速膨胀的超新星观测](https://zh.wikipedia.org/wiki/宇宙加速膨胀 "wikilink")。它是当前能够对这些现象提供融洽合理解释的最简单模型。

@@ -1,3 +1,6 @@
+> 本文内容由[Being \(公司\)](https://zh.wikipedia.org/wiki/Being_\(公司\))转换而来。
+
+
 **Being**（，）是一家在[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區成立於](../Page/港區_\(東京都\).md "wikilink")[1978年](../Page/1978年.md "wikilink")的音樂製作、唱片發行及藝人經紀管理公司。現在除了音樂事業之外，還涉足[不動產](../Page/不動產.md "wikilink")投資。公司的創始人是[長戶大幸](../Page/長戶大幸.md "wikilink")。株式會社Being旗下的子公司曾多達60餘家，包括：[GIZA studio](../Page/GIZA_studio.md "wikilink")、[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")、、、[ZAIN ARTISTS等](https://zh.wikipedia.org/wiki/ZAIN_ARTISTS "wikilink")；現經過公司改制之後，部分公司將以關聯公司的形式存在，而子公司的規模則縮小到40餘家。
 
 ## 公司簡介

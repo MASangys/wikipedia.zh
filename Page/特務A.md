@@ -1,3 +1,6 @@
+> 本文内容由[特務A](https://zh.wikipedia.org/wiki/特務A)转换而来。
+
+
 《**双面女间谍**》（）是[美國廣播公司於](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")[2001年9月至](https://zh.wikipedia.org/wiki/2001年9月 "wikilink")[2006年5月](../Page/2006年5月.md "wikilink")期間播放的[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，總共五季。由製片人[傑弗瑞·亞柏拉罕負責](https://zh.wikipedia.org/wiki/傑弗瑞·亞柏拉罕 "wikilink")，[珍妮佛·嘉納](../Page/珍妮佛·嘉納.md "wikilink")、[維克多·賈博](https://zh.wikipedia.org/wiki/維克多·賈博 "wikilink")、[朗·瑞弗金等主演](https://zh.wikipedia.org/wiki/朗·瑞弗金 "wikilink")。
 
 ## 劇情介紹

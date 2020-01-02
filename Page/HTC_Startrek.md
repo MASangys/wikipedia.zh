@@ -1,3 +1,6 @@
+> 本文内容由[HTC Startrek](https://zh.wikipedia.org/wiki/HTC_Startrek)转换而来。
+
+
 **HTC StarTrek**，原廠型號**HTC S410，HTC S411**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，全球首只超薄折疊Windows Mobile 5智慧型手機，首次搭載Push Mail功能。2006年5月於亞洲首度發表，2006年12月推出升級版。客製版本HTC S410，HTC S411，Qtek 8500，Dopod S300，Dopod S301，Dopod 710，Dopod 710+，Orange SPV F600，i-mate SmartFlip，Cingular 3125。
 
 ## 技術規格

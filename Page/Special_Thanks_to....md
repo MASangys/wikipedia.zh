@@ -1,3 +1,6 @@
+> 本文内容由[Special Thanks to...](https://zh.wikipedia.org/wiki/Special_Thanks_to...)转换而来。
+
+
 《**Special Thanks To...**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")加盟[英皇娛樂](../Page/英皇娛樂.md "wikilink")後第二張推出的國語專輯，發行日期為2002年4月2日。
 
 ## 專輯簡介

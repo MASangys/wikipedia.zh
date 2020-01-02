@@ -1,3 +1,6 @@
+> 本文内容由[13歲的Hello Work DS](https://zh.wikipedia.org/wiki/13歲的Hello_Work_DS)转换而来。
+
+
 《**13歲的Hello Work DS**》是[Digital Works Entertainment於](https://zh.wikipedia.org/wiki/Digital_Works_Entertainment "wikilink")2008年5月29日發售的[任天堂DS](../Page/任天堂DS.md "wikilink")用職業體驗[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，改編自[村上龍賣出](https://zh.wikipedia.org/wiki/村上龍 "wikilink")130萬本的著作《》（台灣書名：《工作大未來—從13歲開始迎向世界》）。是第一個發表把[音樂軟件人物](https://zh.wikipedia.org/wiki/音樂軟件 "wikilink")「[初音未來](../Page/初音未來.md "wikilink")」加入的遊戲（第一個加入以初音未來製作的音樂的商業遊戲則是《[鳥之星 ～Aerial Planet～](../Page/鳥之星_～Aerial_Planet～.md "wikilink")》）。
 
 ## 故事簡介

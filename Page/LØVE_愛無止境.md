@@ -1,3 +1,6 @@
+> 本文内容由[LØVE 愛無止境](https://zh.wikipedia.org/wiki/LØVE_愛無止境)转换而来。
+
+
 「**LØVE 愛無止境**」是[中島美嘉](../Page/中島美嘉.md "wikilink")於2003年11月6日發行的第二張原創專輯。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Lincity](https://zh.wikipedia.org/wiki/Lincity)转换而来。
+
+
 {{ Infobox VG | title = Lincity-ng | URL = <http://lincity-ng.berlios.de/wiki/index.php/Main_Page> | image = <File:Lincity-ng.png> | developer = | genre = [模拟城市](https://zh.wikipedia.org/wiki/模拟城市 "wikilink") | modes = [单机游戏](../Page/单机游戏.md "wikilink") | platforms = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") }}
 
 《**Lincity**》是一個免费[開源城市建设游戏](https://zh.wikipedia.org/wiki/開源遊戲 "wikilink")。玩家在此遊戲中的主要任務為建设城市，玩法與另一個城市建设游戏《[模拟城市](https://zh.wikipedia.org/wiki/模拟城市 "wikilink")》類似。玩家在此遊戲中需要達成兩個任務的其中一個，分別是[可持续发展](../Page/可持续发展.md "wikilink")和將所有人容纳到[宇宙飞船中](https://zh.wikipedia.org/wiki/宇宙飞船 "wikilink")。

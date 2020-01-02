@@ -1,3 +1,6 @@
+> 本文内容由[Midori](https://zh.wikipedia.org/wiki/Midori)转换而来。
+
+
 **Midori**，是一個輕量級的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網絡瀏覽器](https://zh.wikipedia.org/wiki/網絡瀏覽器 "wikilink")。用[C語言編寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")，使用[GTK+ 2](https://zh.wikipedia.org/wiki/GTK+_2 "wikilink")，搜索部分基於[OpenSearch的搜索框](https://zh.wikipedia.org/wiki/OpenSearch "wikilink")。其名稱來自於[日文的](https://zh.wikipedia.org/wiki/日文 "wikilink")「」（）。是[Xfce](../Page/Xfce.md "wikilink")的一部分。
 
 ## 特點

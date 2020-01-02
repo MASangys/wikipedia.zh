@@ -1,3 +1,6 @@
+> 本文内容由[Paint Tool SAI](https://zh.wikipedia.org/wiki/Paint_Tool_SAI)转换而来。
+
+
 **SAI**（，）是由[日本](../Page/日本.md "wikilink")[SYSTEMAX公司销售的一款](https://zh.wikipedia.org/wiki/SYSTEMAX "wikilink")[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")，其图标是一支[铅笔](https://zh.wikipedia.org/wiki/铅笔 "wikilink")、一支和一片[青柠檬](https://zh.wikipedia.org/wiki/青柠檬 "wikilink")。
 
 ## 名称

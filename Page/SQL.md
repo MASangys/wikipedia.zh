@@ -1,3 +1,6 @@
+> 本文内容由[SQL](https://zh.wikipedia.org/wiki/SQL)转换而来。
+
+
 **SQL**（\[1\]或\[2\]，**Structured Query Language:结构化查询语言**\[3\]\[4\]\[5\]\[6\]）是一种[特定目的程式语言](https://zh.wikipedia.org/wiki/特定目的程式语言 "wikilink")，用于管理[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")（RDBMS），或在[关系流数据管理系统](https://zh.wikipedia.org/wiki/关系流数据管理系统 "wikilink")（RDSMS）中进行流处理。
 
 SQL基于[关系代数和](https://zh.wikipedia.org/wiki/关系代数_\(数据库\) "wikilink")[元组关系演算](../Page/元组关系演算.md "wikilink")，包括一个[数据定义语言和](https://zh.wikipedia.org/wiki/数据定义语言 "wikilink")[数据操纵语言](https://zh.wikipedia.org/wiki/数据操纵语言 "wikilink")。SQL的范围包括数据插入、查询、更新和删除，[数据库模式创建和修改](../Page/Schema_\(数据库\).md "wikilink")，以及数据访问控制。尽管SQL经常被描述为，而且很大程度上是一种[声明式编程](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")（[4GL](https://zh.wikipedia.org/wiki/第四代程式语言 "wikilink")），但是其也含有[过程式编程的元素](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")。

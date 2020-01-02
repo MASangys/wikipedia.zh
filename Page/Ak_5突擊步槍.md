@@ -1,3 +1,6 @@
+> 本文内容由[Ak 5突擊步槍](https://zh.wikipedia.org/wiki/Ak_5突擊步槍)转换而来。
+
+
 **Ak 5**（）是[瑞典](../Page/瑞典.md "wikilink")以[FN FNC改進而成的](../Page/FN_FNC突擊步槍.md "wikilink")[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，亦是瑞典軍隊的制式步槍。Ak 5取代了原本的[Ak 4](../Page/Ak_4自動步槍.md "wikilink")（[HK G3的瑞典版本](../Page/HK_G3自動步槍.md "wikilink")），亦衍生出一個槍族。
 
 ## 設計及歷史

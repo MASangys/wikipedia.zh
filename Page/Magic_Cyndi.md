@@ -1,3 +1,6 @@
+> 本文内容由[Magic Cyndi](https://zh.wikipedia.org/wiki/Magic_Cyndi)转换而来。
+
+
 《**Magic Cyndi**》[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌](../Page/王心凌.md "wikilink")的第五張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。共有兩版，一版為Magic Cyndi，於2007年4月30日正式發行。「Magic Cyndi」，共有10首歌以及加贈純真輕熟豪華尺寸寫真海報。預購附送粉红爱神与酷黑精灵双封面歌词写真。一版為「Magic Cyndi（衣櫥的秘密冠軍影音CD+DVD）」，在2007年6月2日發行。王心凌在此專輯中首次作曲「衣櫥的秘密」。
 
 ## 曲目

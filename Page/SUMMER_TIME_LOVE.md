@@ -1,3 +1,6 @@
+> 本文内容由[SUMMER TIME LOVE](https://zh.wikipedia.org/wiki/SUMMER_TIME_LOVE)转换而来。
+
+
 《**SUMMER TIME LOVE**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第24張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2007年5月16日於日本發行。Oricon最高排行第3、初動銷量9.0萬張、累計銷量13.3萬張
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[White pulsation](https://zh.wikipedia.org/wiki/White_pulsation)转换而来。
+
+
 《**white pulsation**》（）是[日本](../Page/日本.md "wikilink")女歌手[ELISA的第一張個人專輯](../Page/ELISA_\(歌手\).md "wikilink")，由[GENEON ENTERTAINMENT發行](https://zh.wikipedia.org/wiki/GENEON_ENTERTAINMENT "wikilink")。2009年1月21日發行。初回限定盤：GNCA-1198；通常盤：GNCA-1199\[1\]。
 
 ## 概要

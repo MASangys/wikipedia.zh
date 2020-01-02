@@ -1,3 +1,6 @@
+> 本文内容由[Amerika](https://zh.wikipedia.org/wiki/Amerika)转换而来。
+
+
 "**Amerika**"是[德国战车](../Page/德国战车.md "wikilink")的一首单曲，于2004年9月發行。
 
 ## 内容

@@ -1,3 +1,6 @@
+> 本文内容由[鋼之鍊金術師 FULLMETAL ALCHEMIST](https://zh.wikipedia.org/wiki/鋼之鍊金術師_FULLMETAL_ALCHEMIST)转换而来。
+
+
 《**鋼之鍊金術師 FULLMETAL ALCHEMIST**》，為漫畫《[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師 "wikilink")》二度動畫化作品，和前作動畫「[鋼之鍊金術師](https://zh.wikipedia.org/wiki/鋼之鍊金術師_\(動畫\) "wikilink")」一樣由[BONES製作](../Page/BONES_\(動畫製作公司\).md "wikilink")，於2009年4月5日起播出。原預定在2010年6月與原作漫畫一起完結，但後來變更延至7月4日，全64話。
 
 ## 概要

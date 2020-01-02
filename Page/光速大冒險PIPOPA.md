@@ -1,3 +1,6 @@
+> 本文内容由[光速大冒險PIPOPA](https://zh.wikipedia.org/wiki/光速大冒險PIPOPA)转换而来。
+
+
 《**光速大冒險PIPOPA**》（）為[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2008年推出的動畫作品，並於同年推出漫畫，次年推出了[Nintendo DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 
 ## 故事大綱

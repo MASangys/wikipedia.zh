@@ -1,3 +1,6 @@
+> 本文内容由[DNA复制](https://zh.wikipedia.org/wiki/DNA复制)转换而来。
+
+
 [DNA_replication_zh.png](https://zh.wikipedia.org/wiki/File:DNA_replication_zh.png "fig:DNA_replication_zh.png") **DNA复制**是指[DNA双链在](https://zh.wikipedia.org/wiki/DNA "wikilink")[细胞分裂](../Page/细胞分裂.md "wikilink")分裂间期进行的以一个亲代DNA分子为模板合成子代DNA链的过程。复制的结果是一条双链变成两条一样的双链（如果复制过程正常的话），每条双链都与原来的双链一样（排除[突变](../Page/突变.md "wikilink")等不定因素）。
 
 DNA复制是一种在所有的生物体内都会发生的生物学过程，是生物[遗传的基础](https://zh.wikipedia.org/wiki/遗传 "wikilink")。对于双链DNA，即绝大部分生物体内的DNA来说，在正常情况下，这个过程开始于一个亲代DNA分子，最后产生出两个相同的子代DNA分子。亲代双链DNA分子的每一条单链都被作为模板，用以合成新的互补单链，这一过程被称为[半保留复制](https://zh.wikipedia.org/wiki/半保留复制 "wikilink")。细胞的[校正机制确保了DNA复制](https://zh.wikipedia.org/wiki/校正\(遺傳學\) "wikilink")[近乎完美的准确性](../Page/突变.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[3 SPLASH](https://zh.wikipedia.org/wiki/3_SPLASH)转换而来。
+
+
 《**3 SPLASH**》（3色漾彩）是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第44th單曲，也是[倖田來未](../Page/倖田來未.md "wikilink")第4張多A面夏日單曲。收錄SANKYO「KODA KUMI FEVER LIVE IN HALLⅡ」廣告主題曲「Lick me♥」、「ECSTASY」、「奔跑\!」三首主打歌曲。
 
 ## 附註

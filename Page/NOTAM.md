@@ -1,3 +1,6 @@
+> 本文内容由[NOTAM](https://zh.wikipedia.org/wiki/NOTAM)转换而来。
+
+
 **NOTAM**是英語「給飛行員通知」（Notice To Airmen）的[縮寫](../Page/首字母縮略字.md "wikilink")，是由本地的航空部門根據[芝加哥條約第](https://zh.wikipedia.org/wiki/芝加哥條約 "wikilink")15條中關於航空資信服務的格式發出，作用為通知飛行員該空域或機場的特別安排、臨時規定及運作程序的改變等。
 
 ## 發出的原因

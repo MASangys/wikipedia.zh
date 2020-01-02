@@ -1,3 +1,6 @@
+> 本文内容由[列星頓號航空母艦 \(CV-2\)](https://zh.wikipedia.org/wiki/列星頓號航空母艦_\(CV-2\))转换而来。
+
+
 **列星頓號航空母艦 (CV-2)**又名**列克星頓**或**李克星頓**是[列星頓級航空母艦的一號艦](https://zh.wikipedia.org/wiki/列星頓級航空母艦 "wikilink")。她同時是[美國的第二艘航空母艦](https://zh.wikipedia.org/wiki/美國 "wikilink")，第四艘繼承了列星頓的艦名。在美軍中她的綽號又有**灰夫人（Gray Lady）**或**列夫人（Lady Lex）**。預案中列星頓號為[戰鬥巡洋艦](https://zh.wikipedia.org/wiki/戰鬥巡洋艦 "wikilink")，受1922年的《[華盛頓海軍條約](https://zh.wikipedia.org/wiki/華盛頓海軍條約 "wikilink")》所限，她被改為重型航空母艦。最終在[太平洋戰爭早期的](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")[珊瑚海海戰中受到重創沉沒](https://zh.wikipedia.org/wiki/珊瑚海海戰 "wikilink")。
 
 列星頓號残骸于2018年在珊瑚海被探险队发现。

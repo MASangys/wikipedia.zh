@@ -1,3 +1,6 @@
+> 本文内容由[Moody](https://zh.wikipedia.org/wiki/Moody)转换而来。
+
+
 《**Moody**》為[香港](../Page/香港.md "wikilink")歌手[黃凱芹](../Page/黃凱芹.md "wikilink")首張專輯，於1987年8月暑假檔期推出。
 
 ## 簡介

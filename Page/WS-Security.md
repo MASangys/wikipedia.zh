@@ -1,3 +1,6 @@
+> 本文内容由[WS-Security](https://zh.wikipedia.org/wiki/WS-Security)转换而来。
+
+
 **WS-Security**（**Web服务安全**）是一种提供在[Web服务](../Page/Web服务.md "wikilink")上应用安全的方法的[网络传输协议](../Page/网络传输协议.md "wikilink")。2004年4月19日，[OASIS组织发布了WS](../Page/結構化資訊標準促進組織.md "wikilink")-Security标准的1.0版本。 2006年2月17日，发布了1.1版本。
 
 WS-Security是最初[IBM](../Page/IBM.md "wikilink")，[微软](../Page/微软.md "wikilink")，[VeriSign和](https://zh.wikipedia.org/wiki/VeriSign "wikilink")[Forum Systems开发的](https://zh.wikipedia.org/wiki/Forum_Systems "wikilink")，现在协议由Oasis-Open下的一个委员会开发，官方名称为WSS。

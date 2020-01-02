@@ -1,3 +1,6 @@
+> 本文内容由[KENN](https://zh.wikipedia.org/wiki/KENN)转换而来。
+
+
 **KENN**（，1982年3月24日—），本名**大橋賢一郎**（日語假名：おおはし けんいちろう），是日本的男[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")、[聲優](../Page/聲優.md "wikilink")，[Zynchro所屬](https://zh.wikipedia.org/wiki/Zynchro "wikilink")。[東京都](../Page/東京都.md "wikilink")出身，[東京自由学園畢業](https://zh.wikipedia.org/wiki/東京自由学園 "wikilink")。
 
 ## 經歷

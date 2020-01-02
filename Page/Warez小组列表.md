@@ -1,3 +1,6 @@
+> 本文内容由[Warez小组列表](https://zh.wikipedia.org/wiki/Warez小组列表)转换而来。
+
+
 这里只介绍很小部分的[Warez](../Page/Warez.md "wikilink")小组。
 
 ## 历史悠久的组织

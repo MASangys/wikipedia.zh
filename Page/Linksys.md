@@ -1,3 +1,6 @@
+> 本文内容由[Linksys](https://zh.wikipedia.org/wiki/Linksys)转换而来。
+
+
 [Linksys_WRT54G.jpg](https://zh.wikipedia.org/wiki/File:Linksys_WRT54G.jpg "fig:Linksys_WRT54G.jpg")\]\] **Linksys**是一間網路設備公司。
 
 ## 历史

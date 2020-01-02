@@ -1,3 +1,6 @@
+> 本文内容由[AMD Phenom II](https://zh.wikipedia.org/wiki/AMD_Phenom_II)转换而来。
+
+
 **Phenom II**是[AMD生產的](https://zh.wikipedia.org/wiki/AMD "wikilink")45[奈米制程多核心處理器的一個家族](https://zh.wikipedia.org/wiki/奈米 "wikilink")，是原[Phenom處理器的後繼者](https://zh.wikipedia.org/wiki/Phenom "wikilink")。Phenom II的[Socket AM2+版本於](../Page/Socket_AM2+.md "wikilink")2008年12月推出，而支援[DDR3記憶體的](https://zh.wikipedia.org/wiki/DDR3 "wikilink")[Socket AM3版本則於](../Page/Socket_AM3.md "wikilink")2009年2月9日推出，分三核心和四核心形號\[1\]，而雙處理器系統需要[Socket F+接口用於](https://zh.wikipedia.org/wiki/Socket_F+ "wikilink")[Quad FX平台](../Page/AMD_Quad_FX平台.md "wikilink")\[2\]。Phenom II X4核心代號為Deneb，並由之前的Shanghai核心修改而來\[3\]。因為使用45nm製程除了時脈可以再提高外，Phenom II 的[TDP也更低](https://zh.wikipedia.org/wiki/TDP "wikilink")，同時有很大的[超頻](../Page/超頻.md "wikilink")空間。
 
 Phenom II是AMD的Dragon平台構成部分之一，該平台包括[AMD 700 晶片組系列和](https://zh.wikipedia.org/wiki/AMD_700_晶片組系列 "wikilink")[Radeon HD 4800系列](https://zh.wikipedia.org/wiki/Radeon_R700#Radeon_HD_4800 "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。

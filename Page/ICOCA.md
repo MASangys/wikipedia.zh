@@ -1,3 +1,6 @@
+> 本文内容由[ICOCA](https://zh.wikipedia.org/wiki/ICOCA)转换而来。
+
+
 [ICOCA_IC-CARD_front.jpg](https://zh.wikipedia.org/wiki/File:ICOCA_IC-CARD_front.jpg "fig:ICOCA_IC-CARD_front.jpg") [ICOCA_IC-CARD_back.jpg](https://zh.wikipedia.org/wiki/File:ICOCA_IC-CARD_back.jpg "fig:ICOCA_IC-CARD_back.jpg") **ICOCA**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是一種由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）發行的可再充值、非接觸式的[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")（IC卡）形式[車票](../Page/車票.md "wikilink")，適用於該公司所屬的部分鐵路路線或部分區段。與[Suica](../Page/Suica.md "wikilink")功能相同，兼具儲值車票及電子錢包的功能。截自2014年11月，JR西日本官方宣布已發行突破1000萬張。卡片採用[索尼](../Page/索尼.md "wikilink")的[FeliCa](../Page/FeliCa.md "wikilink")技術。
 
 「ICOCA」也是JR西日本的[註冊商標](https://zh.wikipedia.org/wiki/註冊商標 "wikilink")。

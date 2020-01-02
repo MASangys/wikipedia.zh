@@ -1,3 +1,6 @@
+> 本文内容由[Orange Days](https://zh.wikipedia.org/wiki/Orange_Days)转换而来。
+
+
 《**Orange Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https://zh.wikipedia.org/wiki/東京放送 "wikilink")2004年4月11日[周日劇場](../Page/周日劇場.md "wikilink")推出的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，總數11集。本劇平均[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")17.23%，最高收視率為完結篇的23%，因劇情貼近學生生活，在日本播出時獲得廣大迴響。
 
 ## 劇情大綱

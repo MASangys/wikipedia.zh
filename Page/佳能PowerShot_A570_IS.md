@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot A570 IS](https://zh.wikipedia.org/wiki/佳能PowerShot_A570_IS)转换而来。
+
+
 **佳能 PowerShot A570 IS**是一款[佳能](../Page/佳能.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于[2007年3月](../Page/2007年3月.md "wikilink")推出。
 
 A570 IS是目前[PowerShot A系列里头装备了图像稳定器](https://zh.wikipedia.org/wiki/Canon_PowerShot "wikilink")（IS）的最低端产品，2007年上市之后价格迅速调整到1500附近，成为[佳能](../Page/佳能.md "wikilink")用来抢占低端市场的有力产品。

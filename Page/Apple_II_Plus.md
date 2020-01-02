@@ -1,3 +1,6 @@
+> 本文内容由[Apple II Plus](https://zh.wikipedia.org/wiki/Apple_II_Plus)转换而来。
+
+
 **Apple II Plus**是[Apple II系列中的第](https://zh.wikipedia.org/wiki/Apple_II系列 "wikilink")2个产品。
 
 Apple II Plus有48KB内存，可借由能安装在第0槽的*语言卡*扩充至64KB。苹果所采用的6502微处理器支持最大64KB内存，而含有48KB内存的机器已达到此上限－因为包含另外的16KB只读内存（ROM）和I/O位址。因此，语言卡中的扩充内存可暂时“盖过”内置的ROM，并将代码读入该段内存，以使用ROM相同的方式使用它。借此，用户可将Integer BASIC从磁盘读入语言卡内存中，并使用DOS 3.3的INT和FP指令切换使用Integer BASIC或Applesoft BASIC“方言”，如同切换ROM扩充卡一般。若要使用苹果公司几乎于同一时间推出的两种编程语言－[UCSD Pascal与](https://zh.wikipedia.org/wiki/UCSD_Pascal "wikilink")[FORTRAN 77编译器](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")，语言卡也是必备配备。这些软件需在叫做UCSD-P系统的非DOS系统下运行，它有自己的磁盘格式，并包含一“虚拟机器”使其可以在多种不同硬件上运行。

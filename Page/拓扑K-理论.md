@@ -1,3 +1,6 @@
+> 本文内容由[拓扑K-理论](https://zh.wikipedia.org/wiki/拓扑K-理论)转换而来。
+
+
 [数学](../Page/数学.md "wikilink")中，**拓扑 K-理论**（）是[代数拓扑](../Page/代数拓扑.md "wikilink")的一个分支。它是研究一般[拓扑空间](../Page/拓扑空间.md "wikilink")上[向量丛](../Page/向量丛.md "wikilink")时发现的，所用的是由[亚历山大·格罗滕迪克](../Page/亚历山大·格罗滕迪克.md "wikilink")引入的现在称为（一般）[K-理论](../Page/K-理论.md "wikilink")的想法。早期拓扑 K-理论的工作归于[迈克尔·阿蒂亚](../Page/迈克尔·阿蒂亚.md "wikilink")与[弗里德里希·希策布鲁赫](../Page/弗里德里希·希策布鲁赫.md "wikilink")（[Friedrich Hirzebruch](https://zh.wikipedia.org/wiki/:en:Friedrich_Hirzebruch "wikilink")）。
 
 ## 定义

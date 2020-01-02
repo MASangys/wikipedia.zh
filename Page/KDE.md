@@ -1,3 +1,6 @@
+> 本文内容由[KDE](https://zh.wikipedia.org/wiki/KDE)转换而来。
+
+
 **KDE**（）是一個國際性的[自由軟體社区](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")\[1\]，开发运行在[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 與 [macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")\[2\] 等平台上的一系列[跨平台应用程序](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。它最著名的产品是 [Plasma 桌面](https://zh.wikipedia.org/wiki/KDE_Plasma_Workspaces "wikilink")，是許多 [Linux 發行版的預設桌面環境](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，例如[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")\[3\]、[Mageia](../Page/Mageia.md "wikilink")、[Linux Mint](../Page/Linux_Mint.md "wikilink")、[Kubuntu](../Page/Kubuntu.md "wikilink")、[PCLinuxOS](../Page/PCLinuxOS.md "wikilink") 與 [Chakra GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")。\[4\]
 
 社群的目標是開發基本的桌面功能和日常必需的[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，以及提供開發者編寫獨立的應用程式的工具和文檔。許多獨立應用程式和規模較小的項目是基於 KDE 的技術，這些軟體包括 [Calligra Suite](https://zh.wikipedia.org/wiki/Calligra_Suite "wikilink")、[digiKam](https://zh.wikipedia.org/wiki/digiKam "wikilink")、[Rekonq](../Page/Rekonq.md "wikilink")、[K3b](../Page/K3b.md "wikilink") 和許多其他應用程式。KDE 軟體是基於[Qt](../Page/Qt.md "wikilink")框架所开发。

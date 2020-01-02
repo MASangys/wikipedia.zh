@@ -1,3 +1,6 @@
+> 本文内容由[MR.BRAIN](https://zh.wikipedia.org/wiki/MR.BRAIN)转换而来。
+
+
 《**腦科學先生**》（，）是在2009年5月23日至7月11日，於[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")每週六19:56-20:54（[日本標準時間](../Page/日本標準時間.md "wikilink")）播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[木村拓哉](../Page/木村拓哉.md "wikilink")主演，共八回。
 
 ## 故事概要

@@ -1,3 +1,6 @@
+> 本文内容由[Geo](https://zh.wikipedia.org/wiki/Geo)转换而来。
+
+
 ****是一种在[HTML](../Page/HTML.md "wikilink")和[XHTML](../Page/XHTML.md "wikilink")中标记[WGS84地理坐标](https://zh.wikipedia.org/wiki/WGS84 "wikilink")（[经度](../Page/经度.md "wikilink")，[纬度](../Page/纬度.md "wikilink")）的[微格式](../Page/微格式.md "wikilink")。尽管属于“草案”，其格式是稳定的并已经被使用。它还可以作为[hCard微格式的一个子集](https://zh.wikipedia.org/wiki/hCard "wikilink")。
 
 使用Geo可以使分析器（比如其他网站，[Firefox](../Page/Firefox.md "wikilink")的[Operator插件](https://zh.wikipedia.org/wiki/Operator "wikilink")）获得位置信息，并通过别的网站或者[地图](../Page/地图.md "wikilink")工具进行显示，或者载入到[GPS设备](https://zh.wikipedia.org/wiki/GPS "wikilink")，或者转换成其他格式。

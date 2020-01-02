@@ -1,3 +1,6 @@
+> 本文内容由[仙女座IV](https://zh.wikipedia.org/wiki/仙女座IV)转换而来。
+
+
 **仙女座 Ⅳ**可能是一個[矮不規則星系](https://zh.wikipedia.org/wiki/矮不規則星系 "wikilink")，有人認為[仙女座大星系的](https://zh.wikipedia.org/wiki/仙女座大星系 "wikilink")[衛星星系](../Page/衛星星系.md "wikilink")，亦有人認為其實離仙女座大星系很遠的。但是它也可能不是個[星系](../Page/星系.md "wikilink")，而只是失落的[星團或只是背景中的影像](https://zh.wikipedia.org/wiki/星團 "wikilink")。
 
 ## 歷史

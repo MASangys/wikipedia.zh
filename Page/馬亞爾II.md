@@ -1,3 +1,6 @@
+> 本文内容由[馬亞爾II](https://zh.wikipedia.org/wiki/馬亞爾II)转换而来。
+
+
 **馬亞爾II**（**[M31的](../Page/仙女座星系.md "wikilink")[G1](../Page/衛星星系.md "wikilink")**），也稱為**NGC-224-G1**、**SKHB 1**、**GSC 2788:2139**、**HBK 0-1**、**M31GC J003247+393440**或**仙女的星團**，是一個繞著M31，也就是[仙女座星系](../Page/仙女座星系.md "wikilink")的[球狀星團](../Page/球狀星團.md "wikilink")。
 
 它的位置在距離仙女座星系核心130,000[光年](../Page/光年.md "wikilink")（40Kpc）\[1\]，並且是[本星系群](../Page/本星系群.md "wikilink")中[絕對星等](../Page/絕對星等.md "wikilink")最亮\[2\]的球狀星團，[視星等為](https://zh.wikipedia.org/wiki/視星等 "wikilink")13.7等。G 1的質量被認為是[半人馬座ω的兩倍](https://zh.wikipedia.org/wiki/半人馬座ω "wikilink")，並且在核心可能有中介質量的黑洞（∼ 2 [M<sub>⊙</sub>](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")）\[3\]。

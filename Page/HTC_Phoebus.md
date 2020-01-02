@@ -1,3 +1,6 @@
+> 本文内容由[HTC Phoebus](https://zh.wikipedia.org/wiki/HTC_Phoebus)转换而来。
+
+
 **HTC Phoebus**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，其中T-Mobile Shadow搭載微軟Windows Mobile 6，採用客制化的Neo介面，所有設計均由微軟亞洲設計中心（ATC Studios）完成。設計師朱印（Robin Zhu）為主導設計師。2007年10月首度發表。客製版本Dopod C750，T-Mobile Shadow。
 
 ## T-Mobile Shadow技術規格

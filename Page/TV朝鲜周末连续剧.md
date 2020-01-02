@@ -1,3 +1,6 @@
+> 本文内容由[TV朝鲜周末连续剧](https://zh.wikipedia.org/wiki/TV朝鲜周末连续剧)转换而来。
+
+
 《**TV朝鲜周末連續劇**》（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")韓國晚間時段在[TV朝鮮](../Page/TV朝鮮.md "wikilink")播映的電視劇。
 
 ## 播出時間變遷

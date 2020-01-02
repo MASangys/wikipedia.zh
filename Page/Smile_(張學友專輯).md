@@ -1,3 +1,6 @@
+> 本文内容由[Smile \(張學友專輯\)](https://zh.wikipedia.org/wiki/Smile_\(張學友專輯\))转换而来。
+
+
 《**Smile**》是香港歌手[張學友的第一張粵語專輯](https://zh.wikipedia.org/wiki/張學友 "wikilink")，由歐丁玉監製，[寶麗金唱片公司製作並於](https://zh.wikipedia.org/wiki/寶麗金唱片公司 "wikilink")1985年4月18日發行。
 
 ## 介紹

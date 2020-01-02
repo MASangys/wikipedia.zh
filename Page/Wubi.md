@@ -1,3 +1,6 @@
+> 本文内容由[Wubi](https://zh.wikipedia.org/wiki/Wubi)转换而来。
+
+
 **Wubi**（基于Windows的Ubuntu安装程序，）是使用[GPL协议进行发布的一个Ubuntu自由软件安装程序](https://zh.wikipedia.org/wiki/GPL "wikilink")，并得到了Ubuntu的官方支持\[1\]。
 
 Wubi最初是作为一个独立的项目出现的，其中7.04和7.10都不是官方发布。但8.04起，Wubi的代码就合并到Ubuntu中。8.04的alpha 5版，在Ubuntu Live CD中就可以看到Wubi的身影\[2\]。同时，Ubuntu 7.10 Gutsy Gibbon发行版也开始包含了Wubi\[3\]\[4\]。

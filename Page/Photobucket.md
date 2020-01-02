@@ -1,3 +1,6 @@
+> 本文内容由[Photobucket](https://zh.wikipedia.org/wiki/Photobucket)转换而来。
+
+
 **Photobucket**是一個提供[影像寄存](https://zh.wikipedia.org/wiki/影像寄存服務 "wikilink")、[影片分享](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")、[幻燈片製作與](https://zh.wikipedia.org/wiki/幻燈片 "wikilink")[照片分享服務網站](https://zh.wikipedia.org/wiki/照片 "wikilink")，於2003年由Alex Welch與Darren Crystal利用Trinity Ventures提供的資金創立\[1\]\[2\]。Photobucket一般會用作個人[相册](https://zh.wikipedia.org/wiki/相簿 "wikilink")，寄存[網路論壇上顯示的頭像以及影像的遠端存放空間](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")。
 
 Photobucket上寄存的影像一般會用於[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、Bebo與[Facebook](../Page/Facebook.md "wikilink")帳號，以及[LiveJournals或其他](https://zh.wikipedia.org/wiki/LiveJournal "wikilink")[網誌](../Page/網誌.md "wikilink")與留言板，網站提供用戶500[MB免費儲存容量](https://zh.wikipedia.org/wiki/Megabyte "wikilink")（付費帳戶為10[GB](https://zh.wikipedia.org/wiki/Gigabyte "wikilink")）及25GB免費[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")（付費帳戶無限制）。Photobucket現有的服務條款禁止[裸露內容](https://zh.wikipedia.org/wiki/裸體 "wikilink")\[3\]。Photobucket支援[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")，但使用者需為Pro帳號所有人\[4\]。網頁發佈精靈的支援是FTP另一選擇，免費帳號亦可使用\[5\]。

@@ -1,3 +1,6 @@
+> 本文内容由[B小調彌撒曲](https://zh.wikipedia.org/wiki/B小調彌撒曲)转换而来。
+
+
 《**b小調彌撒曲**》，[BWV](https://zh.wikipedia.org/wiki/BWV "wikilink")232，是[巴赫所寫成的一首大篇幅](https://zh.wikipedia.org/wiki/巴赫 "wikilink")[拉丁](https://zh.wikipedia.org/wiki/拉丁 "wikilink")[弥撒](../Page/弥撒.md "wikilink")套曲。創作時間經歷25年。最先完成的可追溯至1724年，最後於作曲家去世前一年（即1749年）才被編成現時的樣式。
 
 ## 背景

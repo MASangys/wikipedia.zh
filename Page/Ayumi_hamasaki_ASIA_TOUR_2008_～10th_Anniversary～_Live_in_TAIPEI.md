@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ASIA TOUR 2008 ～10th Anniversary～ Live in TAIPEI](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_ASIA_TOUR_2008_～10th_Anniversary～_Live_in_TAIPEI)转换而来。
+
+
 《**ayumi hamasaki ASIA TOUR 2008 ～10th Anniversary～ Live in TAIPEI**》（濱崎步 2008 亞洲巡迴演唱會 ～10th Anniversary～ 台北公演）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2008年間濱崎步紀念出道十周年，於香港、上海、臺灣亞洲各國舉行巡迴演唱會，2009年1月28日發行DVD。
 
 ## 說明
@@ -61,7 +64,7 @@ DVD特典影像收錄「全公演MC集」。
 <small>
 
   - [官方網站](http://www.avexnet.or.jp/ayu/jp/discography/dvd.html)
-  - [年代售票](http://www.ticket.com.tw/dm.asp?P1=0000008776)
+  - [年代售票](https://web.archive.org/web/20090503093849/http://www.ticket.com.tw/dm.asp?P1=0000008776)
 
 </small>
 

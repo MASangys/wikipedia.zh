@@ -1,3 +1,6 @@
+> 本文内容由[HK USC半自動卡賓槍](https://zh.wikipedia.org/wiki/HK_USC半自動卡賓槍)转换而来。
+
+
 **USC**（，中文譯作：通用自動裝填卡賓槍）是[黑克勒-科赫](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")（H\&K）以[UMP45改造而成的](../Page/HK_UMP衝鋒槍.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。
 
 為了符合[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")1994年成立的聯邦突擊武器禁制法案（Federal Assault Weapons Ban，AWB），USC裝有16寸槍管、不能與UMP45相容的10發彈匣、半自動扳機及運動步槍式[槍托](../Page/槍托.md "wikilink")（槍托與握把相連），保留[機匣頂部的戰術導軌](https://zh.wikipedia.org/wiki/機匣 "wikilink")，亦可在其他位置增加導軌\[1\]。價格比[HK SL8](../Page/HK_SL8半自動步槍.md "wikilink")（[HK G36民用型](../Page/HK_G36突擊步槍.md "wikilink")）便宜。

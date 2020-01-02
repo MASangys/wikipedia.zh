@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki STADIUM TOUR 2002 A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_STADIUM_TOUR_2002_A)转换而来。
+
+
 《**ayumi hamasaki STADIUM TOUR 2002 A**》（濱崎步 2002 體育館巡迴演唱會 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2002年7月6日-7月28日期間舉行的體育館巡迴演唱會。2003年1月29日發行的影像作品。
 
 ## 說明

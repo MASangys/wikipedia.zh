@@ -1,3 +1,6 @@
+> 本文内容由[TOM在线](https://zh.wikipedia.org/wiki/TOM在线)转换而来。
+
+
 **TOM在線有限公司**（，前[港交所上市編號](https://zh.wikipedia.org/wiki/港交所 "wikilink")：8282、前[納斯達克上市編號](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")：TOMO）是[TOM集團](../Page/TOM集團.md "wikilink")旗下公司。TOM在線主要業務包括於[中國](../Page/中國.md "wikilink")提供無線增值服務、網上[廣告](../Page/廣告.md "wikilink")及商務企業解決方案。\[1\]
 
 2004年3月，TOM集團分拆TOM在線在[香港創業板及](https://zh.wikipedia.org/wiki/香港創業板 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[納斯達克上市](https://zh.wikipedia.org/wiki/納斯達克 "wikilink")，招股價為1.5港元。TOM在線集資所得部份會用作收購無線互-{}-動通-{}-訊雷霆無極。\[2\]\[3\]

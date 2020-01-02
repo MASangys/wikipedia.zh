@@ -1,3 +1,6 @@
+> 本文内容由[Reason \(軟體\)](https://zh.wikipedia.org/wiki/Reason_\(軟體\))转换而来。
+
+
 **Reason**是由瑞典軟體公司[Propellerhead Software所開發的音樂製作軟體](https://zh.wikipedia.org/wiki/:en:Propellerhead_Software "wikilink")。它模擬成架的硬體合成器、取樣機、訊號處理器、編曲機以及混音器。Reason可以作為一個完整的音樂工作室使用，也可以被其他編曲軟體使用當作虛擬樂器插件。
 Reason的軟體名稱是得自[尼爾史蒂芬森的一部](https://zh.wikipedia.org/wiki/:en:Neal_Stephenson "wikilink")[科幻小說](https://zh.wikipedia.org/wiki/科幻小說 "wikilink")“[Snow Crash](https://zh.wikipedia.org/wiki/:en:Snow_Crash "wikilink")”中的一樣設備。在早期的發展它被稱作Realizer（繼PPG Realizer之後）。
 

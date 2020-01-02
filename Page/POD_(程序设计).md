@@ -1,3 +1,6 @@
+> 本文内容由[POD \(程序设计\)](https://zh.wikipedia.org/wiki/POD_\(程序设计\))转换而来。
+
+
 **Plain old data structure**, 缩写为**POD**, 是[C++](../Page/C++.md "wikilink")语言的标准中定义的一类[数据结构](https://zh.wikipedia.org/wiki/数据 "wikilink")\[1\]，POD适用于需要明确的数据底层操作的系统中。POD通常被用在系统的边界处，即指不同系统之间只能以底层数据的形式进行交互，系统的高层逻辑不能互相兼容。比如当对象的字段值是从外部数据中构建时，系统还没有办法对对象进行语义检查和解释，这时就适用POD来存储数据。
 
 ## 定义

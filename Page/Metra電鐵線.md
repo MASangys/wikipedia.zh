@@ -1,3 +1,6 @@
+> 本文内容由[Metra電鐵線](https://zh.wikipedia.org/wiki/Metra電鐵線)转换而来。
+
+
 |} **Metra電鐵線**（Metra Electric District）是由[芝加哥通勤鐵路](../Page/芝加哥通勤鐵路.md "wikilink")運營的一條[通勤鐵路線](https://zh.wikipedia.org/wiki/通勤鐵路 "wikilink")，聯結芝加哥市中心和南郊。列車由市中心[千禧車站](../Page/千禧車站.md "wikilink")（舊稱廊道夫街車站）發車，全線使用[電聯車](../Page/電聯車.md "wikilink")。列車行經原[伊利諾伊中央鐵路](https://zh.wikipedia.org/wiki/伊利諾伊中央鐵路 "wikilink")[巴拿馬特快旅客列車的線路](https://zh.wikipedia.org/wiki/巴拿馬特快 "wikilink")，故在Metra時刻表上以“亮巴拿馬橙色”作為標注。\[1\]
 
 Metra電鐵線為芝加哥僅有兩條由電氣化鐵路運營的客運列車線路，亦是芝加哥通勤铁路系統中唯一的電氣化線路，此外Metra電鐵線還是芝加哥通勤铁路系統內唯一具有三分支的線路。電氣化方式為1500V[架空電纜供電](https://zh.wikipedia.org/wiki/架空電纜 "wikilink")，全部車站均為高[月台以適應電聯車停靠](https://zh.wikipedia.org/wiki/月台 "wikilink")。Metra電鐵線和另一條通往北[印第安納州的電氣化通勤鐵路](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")[南岸線 (NICTD)在](https://zh.wikipedia.org/wiki/南岸線_\(NICTD\) "wikilink")[肯辛頓站以北共用線路和車站](https://zh.wikipedia.org/wiki/肯辛頓站 "wikilink")。

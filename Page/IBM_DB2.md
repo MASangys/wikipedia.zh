@@ -1,3 +1,6 @@
+> 本文内容由[IBM DB2](https://zh.wikipedia.org/wiki/IBM_DB2)转换而来。
+
+
 {{ infobox software | logo = | developer = [IBM](../Page/IBM.md "wikilink") | released = | frequently updated = yes | programming language = [C](https://zh.wikipedia.org/wiki/C语言 "wikilink"), [C++](../Page/C++.md "wikilink") | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | language = 英语 | genre = [关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink") | license = proprietary [EULA](https://zh.wikipedia.org/wiki/EULA "wikilink") | website = }} **IBM DB2**企業伺服器版本，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[IBM](../Page/IBM.md "wikilink")公司發展的一套[关系型数据库管理系统](https://zh.wikipedia.org/wiki/關聯式資料庫管理系統 "wikilink")。它主要的執行環境為[UNIX](../Page/UNIX.md "wikilink")（包括IBM自家的[AIX](https://zh.wikipedia.org/wiki/AIX "wikilink")）、[Linux](../Page/Linux.md "wikilink")、（舊稱）、，以及[Windows伺服器版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。DB2也提供性能強大的各稱IBM InfoSphere Warehouse版本。和DB2同級的还有另外一个关系型数据库管理系统：，它在2001年被IBM收购。
 
 ## 历史

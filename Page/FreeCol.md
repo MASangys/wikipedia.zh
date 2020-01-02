@@ -1,3 +1,6 @@
+> 本文内容由[FreeCol](https://zh.wikipedia.org/wiki/FreeCol)转换而来。
+
+
 **FreeCol**是一款[4X遊戲](https://zh.wikipedia.org/wiki/4X遊戲 "wikilink")，是1994年發行的複製版。經[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，是為[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。
 
 FreeCol極大部分是由[Java](../Page/Java.md "wikilink")寫成的，所以可以[跨平臺](../Page/跨平臺.md "wikilink")執行遊戲。FreeCol可以在[Linux](../Page/Linux.md "wikilink")和[Windows上執行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")（[Mac OS X也可以](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，但是會有些限制）。在2007年2月它曾經是[SourceForge.net當月的專案](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 200](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_200)转换而来。
+
+
 **GeForce 200系列**是[NVIDIA的第十代GeForce顯示晶片](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")，核心架構代號『Tesla』，以[塞爾維亞裔發明家兼物理學家](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")[尼古拉·特斯拉](../Page/尼古拉·特斯拉.md "wikilink")命名。首個產品GeForce GTX 280於2008年6月16日推出，是一款高端產品。隨後推出了中高階的GTX 260。GTX 200系列擁有65nm製程的高階D10。與[AMD不同](https://zh.wikipedia.org/wiki/AMD "wikilink")，NVIDIA依然先推出單核心的旗艦級[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，再將其功能削減，成為中低端的顯示卡。面對著對手AMD的[Radeon R700顯示核心](https://zh.wikipedia.org/wiki/Radeon_R700 "wikilink")，GTX 200顯示核心顯得太複雜和成本高，不能與之有效競爭。所以NVIDIA即時將GeForce 9800 GTX降價，並提升其製程至55[nm](https://zh.wikipedia.org/wiki/nm "wikilink")，再推出GeForce 9800 GTX+顯示卡。在2009年1月8日開幕的[CES](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink") 2009電子大展推出55nm版本的GTX 260核心及兩款新卡GTX 285、GTX 295。
 
 ## 背景

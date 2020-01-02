@@ -1,3 +1,6 @@
+> 本文内容由[Don\'t say lazy](https://zh.wikipedia.org/wiki/Don\'t_say_lazy)转换而来。
+
+
 **《Don't say "lazy"》**（），是動畫《[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的片尾曲，以櫻高輕音部（）名義發行的單曲。內含兩首歌及其伴奏，另一首為〈Sweet Bitter Beauty Song〉。2009年4月22日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")。
 
 ## 概要

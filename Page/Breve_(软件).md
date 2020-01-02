@@ -1,3 +1,6 @@
+> 本文内容由[Breve \(软件\)](https://zh.wikipedia.org/wiki/Breve_\(软件\))转换而来。
+
+
 Breve （首写字母有时以小写形式“b”出现）是一个自由开源软件包，允许用户构建[分布式系统和](https://zh.wikipedia.org/wiki/分布式系统 "wikilink")[人工生命](../Page/人工生命.md "wikilink")的三维模拟。用户可以定义三维世界中的多智能体（multi-agent）系统的行为，以便观察它们的相互作用。
 
 Breve涵盖了三维人工体物理模拟，具有对物体之间冲撞行为的探测和响应机制以及一个[OpenGL](../Page/OpenGL.md "wikilink")显示引擎。因此它可以用来模拟并以可视化方式呈现出一个半现实（或者说接近真实）的生物和世界。

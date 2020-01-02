@@ -1,3 +1,6 @@
+> 本文内容由[郵件 \(Apple\)](https://zh.wikipedia.org/wiki/郵件_\(Apple\))转换而来。
+
+
 **郵件**（OS X 10.8前又称**Mail**或**Apple Mail**）是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS X操作系统中的一个](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[電子郵件用戶端](../Page/電子郵件用戶端.md "wikilink")。它最初是由[NeXT](../Page/NeXT.md "wikilink")为[Nextstep操作系统设计的NeXTMail](https://zh.wikipedia.org/wiki/Nextstep "wikilink")，在苹果收购了NeXT后，它成了OS X上的郵件。
 
 郵件使用[SMTP](https://zh.wikipedia.org/wiki/SMTP "wikilink")、[POP3和](https://zh.wikipedia.org/wiki/POP3 "wikilink")[IMAP协议](https://zh.wikipedia.org/wiki/IMAP "wikilink")，并且通过IMAP支持[MobileMe](../Page/MobileMe.md "wikilink")以及[Exchange](../Page/Microsoft_Exchange_Server.md "wikilink")。[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod touch使用的是Apple](https://zh.wikipedia.org/wiki/iPod_touch "wikilink") Mail的移动版。

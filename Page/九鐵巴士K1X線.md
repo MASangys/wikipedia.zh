@@ -1,3 +1,6 @@
+> 本文内容由[九鐵巴士K1X線](https://zh.wikipedia.org/wiki/九鐵巴士K1X線)转换而来。
+
+
 **九鐵巴士K1X線**是一條已停駛的[九鐵巴士路線](https://zh.wikipedia.org/wiki/九鐵巴士 "wikilink")，是九鐵首兩條途經[元朗公路的特快巴士線之一](https://zh.wikipedia.org/wiki/元朗公路 "wikilink")（另一條為[K2X](https://zh.wikipedia.org/wiki/九鐵巴士K2X線 "wikilink")，亦已於2004年2月28日取消），專門輔助[輕鐵往來元朗至屯門的服務](../Page/香港輕鐵.md "wikilink")。
 
 本路線在開線初期的收費模式很特別，就是在往朗屏方向時以「下車付錢」模式收費，後來因為運作效果欠佳，兩邊方向都統一以上車付錢模式運作。

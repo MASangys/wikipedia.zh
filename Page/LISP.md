@@ -1,3 +1,6 @@
+> 本文内容由[LISP](https://zh.wikipedia.org/wiki/LISP)转换而来。
+
+
 **Lisp**（歷史上拼寫為**LISP**）是具有悠久歷史的計算機編程語言家族，有獨特和完全括號的[前綴符號表示法](../Page/波兰表示法.md "wikilink")。起源於西元1958年，是現今第二悠久而仍廣泛使用的高階編程語言。只有[FORTRAN編程語言比它更早一年](../Page/Fortran.md "wikilink")。Lisp編程語族已經演變出許多種方言。現代最著名的通用編程語種是[Clojure](../Page/Clojure.md "wikilink")、[Common Lisp和](../Page/Common_Lisp.md "wikilink")[Scheme](../Page/Scheme.md "wikilink")。
 
 Lisp最初創建時受到[阿隆佐·邱奇](../Page/阿隆佐·邱奇.md "wikilink")的[lambda演算的影響](https://zh.wikipedia.org/wiki/λ演算 "wikilink")，用來作為計算機程序實用的數學表達。因為是早期的高階編程語言之一，它很快成為人工智能研究中最受歡迎的編程語言。在計算機科學領域，Lisp開創了許多先驅概念，包括：[树结构](https://zh.wikipedia.org/wiki/树结构 "wikilink")、[自動記憶體管理](../Page/垃圾回收_\(計算機科學\).md "wikilink")、[动态类型](https://zh.wikipedia.org/wiki/类型系统 "wikilink")、[条件表达式](https://zh.wikipedia.org/wiki/条件表达式 "wikilink")、[高階函數](https://zh.wikipedia.org/wiki/高階函數 "wikilink")、[遞迴](https://zh.wikipedia.org/wiki/遞迴 "wikilink")、自主（self-hosting）編譯器、[讀取﹣求值﹣輸出循環](https://zh.wikipedia.org/wiki/讀取﹣求值﹣輸出循環 "wikilink")（）。

@@ -1,3 +1,6 @@
+> 本文内容由[Goff-Gratch方程式](https://zh.wikipedia.org/wiki/Goff-Gratch方程式)转换而来。
+
+
 **Goff-Gratch方程式**可以在给定温度的情况下用来确定水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")。另一个类似的方程是。
 
 ## 历史

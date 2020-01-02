@@ -1,3 +1,6 @@
+> 本文内容由[Pre-PCI Power Macintosh](https://zh.wikipedia.org/wiki/Pre-PCI_Power_Macintosh)转换而来。
+
+
 第一代的Power Macintosh，包括Power Macintosh 6100/60(av), 6100/66(av), 7100/66(av), 7100/80(av), 8100/80 (av), 8100/100 (av), 8100/110等等。使用NuBus界面槽。
 
 ## 6100

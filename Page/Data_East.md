@@ -1,3 +1,6 @@
+> 本文内容由[Data East](https://zh.wikipedia.org/wiki/Data_East)转换而来。
+
+
 **Data East**，也簡稱**DECO**（的[縮寫](../Page/縮寫.md "wikilink")），是[日本](../Page/日本.md "wikilink")一家已倒閉的[公司](../Page/公司.md "wikilink")，為[福田哲夫創立於](https://zh.wikipedia.org/wiki/福田哲夫 "wikilink")1976年4月20日，總部位於[東京都](../Page/東京都.md "wikilink")[杉並区的](https://zh.wikipedia.org/wiki/杉並区 "wikilink")[南荻窪](https://zh.wikipedia.org/wiki/南荻窪 "wikilink")。
 
 Data East以[街機的](https://zh.wikipedia.org/wiki/街機 "wikilink")[電子遊戲開發為主要業務](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，全盛期為1980年代到1990年代初期，所開發的遊戲往往具有獨樹一格的創意，甚至到了被認為古怪的程度，在日本遂有「DECO Game」（）的特稱。1980年還率業界之先，推出了可更換遊戲卡匣的遊戲機基板「[DECO卡匣系統](https://zh.wikipedia.org/wiki/DECO卡匣系統 "wikilink")」，至今仍有使用。

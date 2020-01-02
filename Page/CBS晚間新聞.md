@@ -1,3 +1,6 @@
+> 本文内容由[CBS晚間新聞](https://zh.wikipedia.org/wiki/CBS晚間新聞)转换而来。
+
+
 《**CBS晚間新聞**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[哥倫比亞廣播公司](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")（CBS）的旗艦全國新聞聯播節目。節目於1948年首播，並於1963年改為現稱。現時其週一至週五主播為。周末版节目名称为《CBS周末新闻》（CBS Weekend News），週六主播为Reena Ninan，週日主播为Elaine Quijano。
 
 《CBS晚間新聞》連同廣告時段全長三十分鐘。值得留意的是，《CBS晚間新聞》播出時間因地區而異：CBS的某些地區聯播分台安排於傍晚5:30播放本節目，其他分台則分別於傍晚6:00及6:30播放本節目；其競爭對手《[ABC世界新聞](../Page/ABC世界新聞.md "wikilink")》及《[NBC晚間新聞](https://zh.wikipedia.org/wiki/NBC晚間新聞 "wikilink")》亦採用類似安排。

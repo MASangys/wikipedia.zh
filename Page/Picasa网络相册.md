@@ -1,3 +1,6 @@
+> 本文内容由[Picasa网络相册](https://zh.wikipedia.org/wiki/Picasa网络相册)转换而来。
+
+
 **Picasa網路相簿**（）是一項分享[相片](../Page/相片.md "wikilink")的[網路應用程式](https://zh.wikipedia.org/wiki/網路應用程式 "wikilink")，由[Google公司提供](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，常被用來和其他程式做比較，与[Flickr](../Page/Flickr.md "wikilink")相似。
 
 ## 特征

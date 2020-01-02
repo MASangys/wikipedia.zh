@@ -1,3 +1,6 @@
+> 本文内容由[Délifrance](https://zh.wikipedia.org/wiki/Délifrance)转换而来。
+
+
 [HK_Worldwide_Hse_60422_inside.jpg](https://zh.wikipedia.org/wiki/File:HK_Worldwide_Hse_60422_inside.jpg "fig:HK_Worldwide_Hse_60422_inside.jpg")分店\]\] [Delifrance.jpg](https://zh.wikipedia.org/wiki/File:Delifrance.jpg "fig:Delifrance.jpg")分店\]\] ****（**法國麵包店餐廳**）是[跨國公司](../Page/跨國公司.md "wikilink")[麵包](../Page/麵包.md "wikilink")[食物](../Page/食物.md "wikilink")[速食](https://zh.wikipedia.org/wiki/速食 "wikilink")[餐廳](https://zh.wikipedia.org/wiki/餐廳 "wikilink")，創立於1983年，其分店遍佈世界各地50多個國家。法國麵包店餐廳的[母公司在](https://zh.wikipedia.org/wiki/母公司 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")。
 
 ## 食品及飲品

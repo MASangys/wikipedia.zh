@@ -1,3 +1,6 @@
+> 本文内容由[PiTiVi](https://zh.wikipedia.org/wiki/PiTiVi)转换而来。
+
+
 **Pitivi** 是建基於[GStreamer](../Page/GStreamer.md "wikilink")的影片編輯軟件，本軟件使用[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，功能包括：
 
   - 截取及編碼GStreamer框架所支持的檔案格式

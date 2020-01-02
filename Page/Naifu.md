@@ -1,3 +1,6 @@
+> 本文内容由[Naifu](https://zh.wikipedia.org/wiki/Naifu)转换而来。
+
+
 **Naifu**（）是[日本](../Page/日本.md "wikilink")的[摇滚乐团](https://zh.wikipedia.org/wiki/摇滚乐团 "wikilink")，是[GIZA studio下属的继](../Page/GIZA_studio.md "wikilink")[WAG和](https://zh.wikipedia.org/wiki/WAG "wikilink")[doa以来又一男子乐团](https://zh.wikipedia.org/wiki/doa "wikilink")。
 
 ## 来历

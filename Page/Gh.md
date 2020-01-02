@@ -1,3 +1,6 @@
+> 本文内容由[Gh](https://zh.wikipedia.org/wiki/Gh)转换而来。
+
+
 **Gh**（小寫：gh）是一組在許多語言中使用的[二合字母](../Page/二合字母.md "wikilink")。
 
 ## 使用拉丁字母作為拚寫法的語言

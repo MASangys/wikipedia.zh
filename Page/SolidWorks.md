@@ -1,3 +1,6 @@
+> 本文内容由[SolidWorks](https://zh.wikipedia.org/wiki/SolidWorks)转换而来。
+
+
 **SolidWorks**是[达索系统](../Page/达索系统.md "wikilink")（Dassault Systemes S.A.）旗下的SolidWorks公司开发的，运行在[微软Windows平台下的](https://zh.wikipedia.org/wiki/微软Windows "wikilink")3D机械[CAD软件](../Page/计算机辅助设计.md "wikilink")。SolidWorks是热门的CAD软件之一\[1\]：截至2011年第一季度，全球约有150多万工程师，设计师和约15万家公司是SolidWorks的用户。2010年其总收入达到4.17亿美元。\[2\]台灣地區總代理為[實威國際](https://zh.wikipedia.org/wiki/實威國際 "wikilink")。
 
 ## 歷史

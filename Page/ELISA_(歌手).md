@@ -1,3 +1,6 @@
+> 本文内容由[ELISA \(歌手\)](https://zh.wikipedia.org/wiki/ELISA_\(歌手\))转换而来。
+
+
 **ELISA**是於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")出身的女性歌手，所属唱片公司为[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")（至2011年年底为[Geneon Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")），於2007年10月以單曲《euphoric field feat. ELISA》出道。
 
 ## 人物經歷

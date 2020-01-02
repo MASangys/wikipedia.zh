@@ -1,3 +1,6 @@
+> 本文内容由[絕對SuperStar \(第一屆\)](https://zh.wikipedia.org/wiki/絕對SuperStar_\(第一屆\))转换而来。
+
+
 **第一屆《絕對SuperStar》**，是[新加坡](../Page/新加坡.md "wikilink")[電視歌唱選秀](https://zh.wikipedia.org/wiki/新加坡電視 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")《[絕對SuperStar](../Page/絕對SuperStar.md "wikilink")》的第一屆賽事
 
 ## 第一屆《絕對SuperStar》 2005

@@ -1,3 +1,6 @@
+> 本文内容由[舞-乙HiME角色列表](https://zh.wikipedia.org/wiki/舞-乙HiME角色列表)转换而来。
+
+
 以下是[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")的登場人物。
 
 ## Bühne自治區．加爾迪羅貝學園

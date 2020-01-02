@@ -1,3 +1,6 @@
+> 本文内容由[B·J·阿姆斯特朗](https://zh.wikipedia.org/wiki/B·J·阿姆斯特朗)转换而来。
+
+
 | career_position = 控球后卫{{\#tag:ref||name=nbastat}} | birth_date =  | birth_place = [底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink") | nationality =  | height_ft = 6 | height_in = 2 | weight_lb = 175 | highschool = Brother Rice in Birmingham, [密歇根](https://zh.wikipedia.org/wiki/密歇根 "wikilink") | college = [爱荷华大学](https://zh.wikipedia.org/wiki/爱荷华大学 "wikilink")（1985年−1989年） | draft =　 | draft_year = 1989 | draft_round = 1 | draft_pick = 18 | draft_team = [芝加哥公牛](../Page/芝加哥公牛.md "wikilink") | career_start = 1989年 | career_end = 2000年 | teams = | years1=– |team1=[芝加哥公牛](../Page/芝加哥公牛.md "wikilink") | years2=– |team2=[金州勇士](../Page/金州勇士.md "wikilink") | years3=– |team3=[夏洛特黄蜂](https://zh.wikipedia.org/wiki/夏洛特黄蜂 "wikilink") | years4= |team4=[奥兰多魔术](../Page/奥兰多魔术.md "wikilink") | years5= |team5=芝加哥公牛 | coach = | highlights =
 
   - 3次[NBA總冠軍](https://zh.wikipedia.org/wiki/NBA總冠軍列表 "wikilink")（[1991年](https://zh.wikipedia.org/wiki/1991年NBA总决赛 "wikilink")-[1993年](https://zh.wikipedia.org/wiki/1993年NBA总决赛 "wikilink")）

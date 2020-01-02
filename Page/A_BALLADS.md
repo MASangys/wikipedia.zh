@@ -1,3 +1,6 @@
+> 本文内容由[A BALLADS](https://zh.wikipedia.org/wiki/A_BALLADS)转换而来。
+
+
 《**A BALLADS**》（A 抒情精選）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年3月12日發行的抒情歌曲合集。
 
 ## 說明

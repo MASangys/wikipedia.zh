@@ -1,3 +1,6 @@
+> 本文内容由[Mp3tag](https://zh.wikipedia.org/wiki/Mp3tag)转换而来。
+
+
 ****是一套編輯各種不同音樂檔案格式[元数据](../Page/元数据.md "wikilink")（像是[ID3](../Page/ID3.md "wikilink")、[APE tag](../Page/APE_tag.md "wikilink")）的[免費軟體](../Page/免費軟體.md "wikilink")。除了編輯各種音樂檔案格式的元数据，它可以利用檔案本身所擁有的元数据來替檔案重新命名，以利檔案的整理。另外它也支援[Freedb](../Page/Freedb.md "wikilink")、[Discogs](../Page/Discogs.md "wikilink")和[MusicBrainz](../Page/MusicBrainz.md "wikilink")線上音樂資料庫，可以自動取得音樂檔案的資訊。
 
 ## 特色

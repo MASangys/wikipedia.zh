@@ -1,3 +1,6 @@
+> 本文内容由[Localhost](https://zh.wikipedia.org/wiki/Localhost)转换而来。
+
+
 **localhost**是一个在[计算机网络](../Page/计算机网络.md "wikilink")中用于表示“此计算机”的[主机名](https://zh.wikipedia.org/wiki/主机名 "wikilink")。它被用于通过[本地环回网络接口](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")，来访问本机运行的服务，并且将会绕过任何物理网络接口硬件。
 
 ## 本地環迴

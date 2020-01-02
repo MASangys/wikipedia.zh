@@ -1,3 +1,6 @@
+> 本文内容由[2K Games](https://zh.wikipedia.org/wiki/2K_Games)转换而来。
+
+
 **2K Games**是[美國遊戲發行商](https://zh.wikipedia.org/wiki/美國 "wikilink")[Take-Two Interactive旗下的遊戲品牌](../Page/Take-Two_Interactive.md "wikilink")，2005年設立，總部位於[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[诺瓦托](https://zh.wikipedia.org/wiki/诺瓦托_\(加利福尼亚州\) "wikilink")。Take-Two为了让自有品牌发行的游戏与[Rockstar Games所做区别以及在体育竞技游戏市场上与](../Page/Rockstar_Games.md "wikilink")[美国艺电旗下的](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")[EA Sports体育部门一决高下](../Page/EA_Sports.md "wikilink")，由Take-Two收购日本[世嘉](../Page/世嘉.md "wikilink")公司旗下的工作室[Visual Concepts工作室以及其完全所有的子公司](../Page/Visual_Concepts.md "wikilink")[Kush Games引入旗下](https://zh.wikipedia.org/wiki/Kush_Games "wikilink")。此外它亦以[2K Sports名義發行體育竞技遊戲](../Page/2K_Sports.md "wikilink")，以及[2K Play名義發行休閒益智遊戲](https://zh.wikipedia.org/wiki/2K_Play "wikilink")。
 
 ## 發行遊戲

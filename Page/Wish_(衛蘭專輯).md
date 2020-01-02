@@ -1,3 +1,6 @@
+> 本文内容由[Wish \(衛蘭專輯\)](https://zh.wikipedia.org/wiki/Wish_\(衛蘭專輯\))转换而来。
+
+
 《**Wish**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")的首張新曲+精選，於2009年11月27日推出，《Wish》為全碟唯一一首全新原創歌曲，另外三首新歌為舊曲新詞的經典歌曲。2010年2月5日推出《**Wish**》第二版，加收幾首英文精選歌曲及殘酷遊戲MV。
 
 ## 簡介

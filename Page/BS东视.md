@@ -1,3 +1,6 @@
+> 本文内容由[BS东视](https://zh.wikipedia.org/wiki/BS东视)转换而来。
+
+
 **株式會社BS東視**（）為[東京電視台](../Page/東京電視台.md "wikilink")的關聯企業，主要業務為[BS數位放送](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，為東京電視台和[日本經濟新聞社集團的成員](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")。
 
 ## 沿革

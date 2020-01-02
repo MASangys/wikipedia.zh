@@ -1,3 +1,6 @@
+> 本文内容由[新大嶼山巴士B2P線](https://zh.wikipedia.org/wiki/新大嶼山巴士B2P線)转换而来。
+
+
 [NLB_B2P_RtMap.png](https://zh.wikipedia.org/wiki/File:NLB_B2P_RtMap.png "fig:NLB_B2P_RtMap.png")
 
 **[新大嶼山巴士](../Page/新大嶼山巴士.md "wikilink")B2P線**是一條來往[天慈邨](../Page/天慈邨.md "wikilink")和[深圳灣口岸](../Page/深圳灣口岸.md "wikilink")的[香港](../Page/香港.md "wikilink")專營巴士路線，途經天水圍市中心、嘉湖山莊翠湖居、天瑞邨、天耀邨及港鐵天水圍站後，取道洪天路、元朗公路、港深西部公路及深圳灣公路大橋前往深圳灣口岸。

@@ -1,3 +1,6 @@
+> 本文内容由[All Rights Reversed](https://zh.wikipedia.org/wiki/All_Rights_Reversed)转换而来。
+
+
 [Copyleft.svg](https://zh.wikipedia.org/wiki/File:Copyleft.svg "fig:Copyleft.svg")的反转版本，並無實質上的法律意義。\]\]  （**撤回所有权利**\[1\]，有时候“”写作“”）是一条[英文短语](https://zh.wikipedia.org/wiki/英文 "wikilink")，用于表示许可的状态。其最早的文本形式是在[布宜诺斯艾利斯公约](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯公约 "wikilink")（）中提出的。\[2\]
 
 1960年代末，[格利高里·希尔](https://zh.wikipedia.org/wiki/格利高里·希尔 "wikilink")（）用“”来允许重新出版他的著作 。他的声明紧随着一个指代的符号，用于戏谑[版权的符号](https://zh.wikipedia.org/wiki/版权 "wikilink")。

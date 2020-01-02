@@ -1,3 +1,6 @@
+> 本文内容由[Skyrail-ITM](https://zh.wikipedia.org/wiki/Skyrail-ITM)转换而来。
+
+
 **Skyrail Internatinal Tourism Management**（簡稱：**Skyrail-ITM**或**Skyrail**），是一間以[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[纜車](https://zh.wikipedia.org/wiki/纜車 "wikilink")[管理](https://zh.wikipedia.org/wiki/管理 "wikilink")[顧問及](https://zh.wikipedia.org/wiki/顧問 "wikilink")[經營為](https://zh.wikipedia.org/wiki/經營 "wikilink")[業務的](https://zh.wikipedia.org/wiki/業務 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，[總部設於](https://zh.wikipedia.org/wiki/總部 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[昆士蘭](https://zh.wikipedia.org/wiki/昆士蘭 "wikilink")，於1995年創辦。
 
 ## 服務景點

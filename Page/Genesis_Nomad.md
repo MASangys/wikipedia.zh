@@ -1,3 +1,6 @@
+> 本文内容由[Genesis Nomad](https://zh.wikipedia.org/wiki/Genesis_Nomad)转换而来。
+
+
 ，通稱**Nomad**，是[日本](../Page/日本.md "wikilink")[電子遊戲商](../Page/電子遊戲發行商.md "wikilink")[世嘉](../Page/世嘉.md "wikilink")於1995年10月在[北美發行的](https://zh.wikipedia.org/wiki/北美 "wikilink")[16位元](https://zh.wikipedia.org/wiki/16位元 "wikilink")[掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")，為世嘉[家用遊戲機](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")[SEGA Genesis](https://zh.wikipedia.org/wiki/SEGA_Genesis "wikilink")（在北美以外地區被稱為[Mega Drive](../Page/Mega_Drive.md "wikilink")）的衍生機型，同時也是世嘉開發的最後一部掌上遊戲機。
 
 Genesis Nomad之硬體架構以日本限定的飛機上用電子遊戲機[Mega Jet為基礎](https://zh.wikipedia.org/wiki/Mega_Jet "wikilink")，與SEGA Genesis大致相同。Genesis Nomad可遊玩幾乎所有的SEGA Genesis遊戲，然而並不支援大多數的SEGA Genesis配件，使其無法遊玩[SEGA Master System](https://zh.wikipedia.org/wiki/SEGA_Master_System "wikilink")、[SEGA CD](https://zh.wikipedia.org/wiki/SEGA_CD "wikilink")（在北美以外地區稱為Mega-CD）及[32X](https://zh.wikipedia.org/wiki/32X "wikilink")（在北美以外地區稱為Super 32X）平臺之遊戲。由於世嘉在Genesis Nomad推出後不久便將多數研發資源轉移至其次世代主機[世嘉土星](../Page/世嘉土星.md "wikilink")的開發上，Genesis Nomad很快便淡出市場。

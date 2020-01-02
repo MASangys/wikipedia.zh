@@ -1,3 +1,6 @@
+> 本文内容由[第一次的Wii](https://zh.wikipedia.org/wiki/第一次的Wii)转换而来。
+
+
 是一款[Wii](../Page/Wii.md "wikilink")遊戲軟體。內有9種遊戲和一个[Wii Remote](https://zh.wikipedia.org/wiki/Wii_Remote "wikilink")，為初次玩Wii的玩家所設計，令他們可以輕鬆上手，更快學習操縱Wii Remote。
 
 ## 遊戲

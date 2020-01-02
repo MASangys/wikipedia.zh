@@ -1,3 +1,6 @@
+> 本文内容由[Ballad Collection](https://zh.wikipedia.org/wiki/Ballad_Collection)转换而来。
+
+
 「**Ballad Collection**」（抒情精選）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")1枚概念專輯。於2013年3月13日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

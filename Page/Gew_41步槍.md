@@ -1,3 +1,6 @@
+> 本文内容由[Gew 41步槍](https://zh.wikipedia.org/wiki/Gew_41步槍)转换而来。
+
+
 **Gew 41步槍**（Gewehr 41），常被稱作Gew 41或G 41，是一款[第二次世界大戰期間](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")國防軍所使用的[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。
 
 ## 歷史

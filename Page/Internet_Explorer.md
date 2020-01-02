@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer](https://zh.wikipedia.org/wiki/Internet_Explorer)转换而来。
+
+
 **Internet Explorer**（舊稱 **Microsoft Internet Explorer** 和 **Windows Internet Explorer**，簡稱 **IE** 或 **MSIE**），是[微软](../Page/微软.md "wikilink")所開發的[图形用户界面](../Page/图形用户界面.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")。自從1995年開始，內建在各個新版本的作業系统作為預設的瀏覽器，也是微軟[Windows作業系統的一個組成部分](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。
 
 Internet Explorer 曾經使用最廣泛的網頁瀏覽器之一，在2002年和2003年達到95％的[使用率高峰](https://zh.wikipedia.org/wiki/網頁瀏覽器的使用分布 "wikilink")\[2\]。微軟以捆綁方式贏得與[Netscape的](https://zh.wikipedia.org/wiki/Netscape "wikilink")[第一次瀏覽器大戰](https://zh.wikipedia.org/wiki/第一次瀏覽器大戰 "wikilink")，Netscape是1990年代的主流瀏覽器。隨著[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")（2004年）和[Google Chrome](../Page/Google_Chrome.md "wikilink")（2008年）的推出，其市占率已逐漸下滑。而根據2015年9月的統計資料顯示，Internet Explorer各版本累計的市場佔有率為15.71％，位居全球第三\[3\]。微軟在1990年代後期每年在Internet Explorer上投資超過1億美元\[4\]，到了1999年，開發團隊有1000多人\[5\]\[6\]。

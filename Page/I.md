@@ -1,3 +1,6 @@
+> 本文内容由[I](https://zh.wikipedia.org/wiki/I)转换而来。
+
+
   -
     *因为[MediaWiki](../Page/MediaWiki.md "wikilink")大写机制的缘故，**ı**（[不带点小写i](https://zh.wikipedia.org/wiki/带点与不带点I "wikilink")）会来到此页。*
 

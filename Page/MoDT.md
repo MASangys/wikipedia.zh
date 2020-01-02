@@ -1,3 +1,6 @@
+> 本文内容由[MoDT](https://zh.wikipedia.org/wiki/MoDT)转换而来。
+
+
 [Modt.gif](https://zh.wikipedia.org/wiki/File:Modt.gif "fig:Modt.gif")的MoDT LOGO\]\]
 
 **MoDT**，即**M**obile **o**n **D**esk**T**op的缩写，指的是在桌面平台上使用移动平台。

@@ -1,3 +1,6 @@
+> 本文内容由[東方地靈殿 ～ Subterranean Animism.](https://zh.wikipedia.org/wiki/東方地靈殿_～_Subterranean_Animism.)转换而来。
+
+
 [Subterranean_Animism.jpg](https://zh.wikipedia.org/wiki/File:Subterranean_Animism.jpg "fig:Subterranean_Animism.jpg")
 
 是由[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")11作。

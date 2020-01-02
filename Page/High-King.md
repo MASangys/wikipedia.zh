@@ -1,3 +1,6 @@
+> 本文内容由[High-King](https://zh.wikipedia.org/wiki/High-King)转换而来。
+
+
 '''High-King '''隸屬於[Hello\! Project旗下的團體之一](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")。
 
 應援2008年8月上演、由[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")｡和寶塚歌劇團合作的音樂劇「」的特別團體。\[1\]

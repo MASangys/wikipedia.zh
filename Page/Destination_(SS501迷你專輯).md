@@ -1,3 +1,6 @@
+> 本文内容由[Destination \(SS501迷你專輯\)](https://zh.wikipedia.org/wiki/Destination_\(SS501迷你專輯\))转换而来。
+
+
 **《Destination》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，原定為2010年5月1日發行的正規專輯《501 DAY》因多種原因轉而推遲到5月24日推出的迷你專輯。韓國發行分為限量特別版、普通版兩種版本，限量版於5月24日韓國時間凌晨0時通過韓國網路書店Yes24進行預購，5月28日開始發售，普通版6月3日發售。
 
 此次專輯是由打造【Rebirth】的世界級製作人Steven Lee與NE-YO和Rihanna等國際流行巨星御用混音師Ken Lewis和SS501聯合攜手打造美國紐約-韓國的跨國國際化專輯。

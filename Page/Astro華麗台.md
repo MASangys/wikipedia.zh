@@ -1,3 +1,6 @@
+> 本文内容由[Astro華麗台](https://zh.wikipedia.org/wiki/Astro華麗台)转换而来。
+
+
 **Astro華麗台**、**Astro華麗台HD**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的以](https://zh.wikipedia.org/wiki/Astro "wikilink")[粵語播出為主的粵語娛樂綜合頻道](https://zh.wikipedia.org/wiki/粵語 "wikilink")，全天候24小时播出。該頻道主要播出來自[香港](../Page/香港.md "wikilink")電視劇、綜藝節目、美食、休閒、旅遊節目以及電影等等，同时亦播出本地节目（亦称**“Astro本地圈”**节目）該頻道備有[粵語及](https://zh.wikipedia.org/wiki/粵語 "wikilink")[華語雙聲道服務以及備有](https://zh.wikipedia.org/wiki/华语 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，[英文及](https://zh.wikipedia.org/wiki/英文 "wikilink")[馬來文字幕服務](https://zh.wikipedia.org/wiki/馬來文 "wikilink")。
 
 ## 頻道詳情

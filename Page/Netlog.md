@@ -1,3 +1,6 @@
+> 本文内容由[Netlog](https://zh.wikipedia.org/wiki/Netlog)转换而来。
+
+
 **Netlog**（前身为**Facebox**和**Redbox**）这个锁定欧洲年轻人的[社交网络](https://zh.wikipedia.org/wiki/社交网络 "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，于2004年创建于[比利时](../Page/比利时.md "wikilink")的[根特](../Page/根特.md "wikilink")。创始人为[Lorenz Bogaert和Toon](https://zh.wikipedia.org/wiki/:en:Lorenz_Bogaert "wikilink") Coppens。 截至2009年上半年，已拥有4900万的注册用户，覆盖20个语种\[1\]。
 
 Netlog主要功能有 ，创建个人网页，扩大社会网络；发布个人音乐播放列表，分享影片；创建个人[博客和加入群组](https://zh.wikipedia.org/wiki/博客 "wikilink")（即所谓的「家族」）。家族的形式，可以作为公开的群组，或是仅限于私人的群体。目前，最大的私人家族由4100名成员组成，其名称也相当具有讽刺意味：反家族（Anti-clans）。每个成员都可以邀请其朋友加入他的个人网页，从而创造一个朋友和朋友网页相互间的网络链接。就在最近，截至2008年6月22日，一名叫Ma_planete的比利时人拥有了将近 1万2000个好友， 这创造了在单个网页上聚集最多朋友数的[世界纪录](../Page/世界纪录.md "wikilink")。Netlog每月拥有超过1500万的访客数，总共创造了超过40亿的页面浏览量\[2\]。

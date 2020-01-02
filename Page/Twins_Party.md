@@ -1,3 +1,6 @@
+> 本文内容由[Twins Party](https://zh.wikipedia.org/wiki/Twins_Party)转换而来。
+
+
 **Twins Party**為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")[中文專輯](https://zh.wikipedia.org/wiki/中文 "wikilink")，於2007年9月在[香港](../Page/香港.md "wikilink")發行。發售一週銷量已達5萬張。
 
 ## 曲目

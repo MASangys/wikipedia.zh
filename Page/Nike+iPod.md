@@ -1,3 +1,6 @@
+> 本文内容由[Nike+iPod](https://zh.wikipedia.org/wiki/Nike+iPod)转换而来。
+
+
 [Apple_iPod_Nano_and_Nike+_Kit.JPG](https://zh.wikipedia.org/wiki/File:Apple_iPod_Nano_and_Nike+_Kit.JPG "fig:Apple_iPod_Nano_and_Nike+_Kit.JPG") **Nike+iPod运动套件**是测量和记录步行及跑步距离和速度的装置。它包含一个装在鞋底的微型[计速传感器](../Page/传感器.md "wikilink")\[1\]，通过和随身携带的[iPod Nano或](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")[iPod Touch 2互相通讯](https://zh.wikipedia.org/wiki/iPod_touch#iPod_Touch_第二代 "wikilink")，进行工作。连上[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，还能查阅曾经步行或跑步的历史记录。
 
 传感器和iPod套件于2006年5月23日首次展示，短期内还无法购买。套件能存储以下的信息：[锻炼时段](../Page/慢跑.md "wikilink")、运动距离、步速、或个人穿鞋消耗的[卡路里](../Page/卡路里.md "wikilink")，并可通过耳机显示在iPod的显示屏或[广播上](../Page/播客.md "wikilink")。

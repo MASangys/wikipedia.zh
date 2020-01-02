@@ -1,3 +1,6 @@
+> 本文内容由[Tick! Tack!](https://zh.wikipedia.org/wiki/Tick!_Tack!)转换而来。
+
+
 《**Tick\! Tack\!**》是由[Navel](../Page/Navel.md "wikilink")在2005年9月16日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的第一部衍生作品，後來改編成漫畫和小說。Logo图是从[怀表](../Page/怀表.md "wikilink")正中发射出的二个箭头，分别写着Tick和Tack，暗示着本作是跟时间有关。
 
 ## 概要

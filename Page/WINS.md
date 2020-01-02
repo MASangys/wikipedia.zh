@@ -1,3 +1,6 @@
+> 本文内容由[WINS](https://zh.wikipedia.org/wiki/WINS)转换而来。
+
+
 **Windows網際網路名稱服務**（，縮寫**WINS**），是由[微軟公司所發展出來的一種](../Page/微软.md "wikilink")[網路名稱轉換服務](https://zh.wikipedia.org/wiki/網路 "wikilink")，與[DNS類似](../Page/域名系统.md "wikilink")，WINS可以將[NetBIOS](../Page/NetBIOS.md "wikilink")電腦名稱轉換為對應的[IP位址](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。
 
 ## 概述

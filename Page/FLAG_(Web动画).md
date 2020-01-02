@@ -1,3 +1,6 @@
+> 本文内容由[FLAG \(Web动画\)](https://zh.wikipedia.org/wiki/FLAG_\(Web动画\))转换而来。
+
+
 **FLAG**是從2006年6月16日開始在[萬代頻道](../Page/萬代頻道.md "wikilink")播放的[Web動畫](https://zh.wikipedia.org/wiki/Web動畫 "wikilink")。全13話。
 
 描寫[中亞內戰中的小國](https://zh.wikipedia.org/wiki/中亞 "wikilink")裡的攝影師白州冴子。不使用第三者視點，而是從第一人稱，主人公主觀的觀點來描寫。使用非常多由[相機](https://zh.wikipedia.org/wiki/相機 "wikilink")[觀景窗所得到的畫面](https://zh.wikipedia.org/wiki/觀景窗 "wikilink")。標題名稱「FLAG」是劇中主角白州冴子所拍攝的照片名稱。

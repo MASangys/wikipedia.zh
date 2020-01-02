@@ -1,3 +1,6 @@
+> 本文内容由[Netscape 6](https://zh.wikipedia.org/wiki/Netscape_6)转换而来。
+
+
 **Netscape 6**是網景通訊的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網路套件](https://zh.wikipedia.org/wiki/網路套件 "wikilink")，因為[Netscape 5實質上被廢棄](../Page/Netscape_5.md "wikilink")，所以6是承接之前的[網景通訊家族](https://zh.wikipedia.org/wiki/網景通訊家族 "wikilink")4.8版。此版本和之後的[Netscape 7單純是修改自](../Page/Netscape_7.md "wikilink")[Mozilla Suite](https://zh.wikipedia.org/wiki/Mozilla_Suite "wikilink")。
 
 整個套件包含Navigator（[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")）、[Netscape Mail & Newsgroups](../Page/Netscape_Mail_&_Newsgroups.md "wikilink")（[電子郵件客戶端和](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")[新聞群組軟體](https://zh.wikipedia.org/wiki/Usenet客戶端 "wikilink")）、Address Book（通訊錄）、[Netscape Composer](../Page/Netscape_Composer.md "wikilink")（[HTML編輯器](https://zh.wikipedia.org/wiki/HTML編輯器 "wikilink")）、[AOL Instant Messenger](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")（[即時通訊](../Page/即時通訊.md "wikilink")）。

@@ -1,3 +1,6 @@
+> 本文内容由[BASTARD!! －暗黑的破坏神－](https://zh.wikipedia.org/wiki/BASTARD!!_－暗黑的破坏神－)转换而来。
+
+
 《**BASTARD\!\! －暗黑的破壞神－**》（）是漫畫家[萩原一至於](https://zh.wikipedia.org/wiki/萩原一至 "wikilink")1988年開始在[集英社](../Page/集英社.md "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》上連載的漫畫作品，在[台灣出過三次](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")：[東立出版社](../Page/東立出版社.md "wikilink")在[WTO無版權前出版未授權版最早書名翻譯](https://zh.wikipedia.org/wiki/WTO "wikilink")《邪神劍》，[大然文化](../Page/大然文化.md "wikilink")出版第一次授權版，[尖端出版](../Page/尖端出版.md "wikilink")出版第二次授權版。[香港](../Page/香港.md "wikilink")中文版由[天下出版](../Page/天下出版.md "wikilink")出版。下列中文譯名及用語，以尖端版為準。
 
 ## 概覽

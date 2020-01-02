@@ -1,3 +1,6 @@
+> 本文内容由[P·J·布朗](https://zh.wikipedia.org/wiki/P·J·布朗)转换而来。
+
+
 **小科利尔·布朗**（，），昵称“P·J”，[美国](../Page/美国.md "wikilink")职业[篮球](../Page/篮球.md "wikilink")运动员，司职[中锋或](https://zh.wikipedia.org/wiki/中锋 "wikilink")[大前锋](https://zh.wikipedia.org/wiki/大前锋 "wikilink")。
 
 布朗出生于[底特律](https://zh.wikipedia.org/wiki/底特律 "wikilink")，大学就读于[路易斯安那理工大學](../Page/路易斯安那理工大學.md "wikilink")，在[1992年NBA选秀](../Page/1992年NBA选秀.md "wikilink")中于第二轮总第29位被[新泽西网队选中](https://zh.wikipedia.org/wiki/新泽西网队 "wikilink")。但是布朗当年并未立即加入NBA，而是远赴[希腊](../Page/希腊.md "wikilink")打了一年球。1993年，布朗加入网队，效力四年后，转入[邁阿密熱火](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")，成为一位防守高手。

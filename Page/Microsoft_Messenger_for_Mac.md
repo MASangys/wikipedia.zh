@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Messenger for Mac](https://zh.wikipedia.org/wiki/Microsoft_Messenger_for_Mac)转换而来。
+
+
 **Microsoft Messenger for Mac**，原名為**MSN Messenger for Mac**，是[微軟Macintosh](https://zh.wikipedia.org/wiki/微軟 "wikilink") Business Unit為[Mac OS X開發的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[即時通訊軟件](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。然而與[Windows Live Messenger相比](../Page/Windows_Live_Messenger.md "wikilink")，Microsoft Messenger for Mac仍然缺少了一些功能，如離線訊息及與[Windows之間的對應等](https://zh.wikipedia.org/wiki/Windows "wikilink")。因此如[Adium](../Page/Adium.md "wikilink")、[emesene](https://zh.wikipedia.org/wiki/emesene "wikilink")、[Mercury Messenger及](../Page/Mercury_Messenger.md "wikilink")[aMSN等類似軟體在Mac](https://zh.wikipedia.org/wiki/aMSN "wikilink") OS X上陸續開發使用。
 
 ## 版本

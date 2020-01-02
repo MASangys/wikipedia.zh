@@ -1,3 +1,6 @@
+> 本文内容由[FreeType](https://zh.wikipedia.org/wiki/FreeType)转换而来。
+
+
 {{ infobox software | name = FreeType | developer = 大衛·特納、羅伯特·威廉、維納爾·倫貝爾\[1\]\[2\]以及其他FreeType貢獻者 | logo = Freetype logo new.svg | logo size = 360px | released = \[3\] | latest release version = 2.10.1 | latest release date = \[4\] | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | programming language = [C](https://zh.wikipedia.org/wiki/C語言 "wikilink") | genre = [字体光栅化](../Page/字体光栅化.md "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")、[FTL許可證](http://git.savannah.gnu.org/cgit/freetype/freetype2.git/plain/docs/FTL.TXT) | website = <http://freetype.org/> }}
 
 **FreeType**是一個用[C語言實現的一個](https://zh.wikipedia.org/wiki/C語言 "wikilink")[字体光栅化](../Page/字体光栅化.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。它可以用來將字符[柵格化並映射成](https://zh.wikipedia.org/wiki/柵格化 "wikilink")[-{zh-cn:位图;zh-tw:點陣圖}-以及提供其他字體相關業務的支持](https://zh.wikipedia.org/wiki/位圖 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[德懷特·D·艾森豪號航空母艦](https://zh.wikipedia.org/wiki/德懷特·D·艾森豪號航空母艦)转换而来。
+
+
 **德懷特·D·艾森豪號航空母艦**（**USS Dwight D. Eisenhower CVN-69**），或簡稱為**艾森豪號航空母艦**，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[尼米茲級核動力航空母艦的二號艦](https://zh.wikipedia.org/wiki/尼米茲級核動力航空母艦 "wikilink")。艦名承襲自參加過[第二次世界大戰的美國第](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")34任[總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[德懷特·艾森豪](https://zh.wikipedia.org/wiki/德懷特·艾森豪 "wikilink")，因此也與艾森豪總統一樣，經常被暱稱為「**艾克**」（Ike）。
 
 ## 歷史

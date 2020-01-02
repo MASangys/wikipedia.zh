@@ -1,3 +1,6 @@
+> 本文内容由[HTC Kaiser](https://zh.wikipedia.org/wiki/HTC_Kaiser)转换而来。
+
+
 **HTC Kaiser**，原廠型號**HTC TyTN II**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6，是以性能強大著稱的[HTC TyTN系列的第二款](https://zh.wikipedia.org/wiki/HTC_TyTN "wikilink")，[HTC Hermes的升級版](../Page/HTC_Hermes.md "wikilink")，首次配備[高通](../Page/高通.md "wikilink")處理器，配有側滑動式[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，2007年10月於歐洲首度發表。已知客製版本HTC P4550，HTC TyTN II，Orange＆HTC TyTN II，Vodafone VPA Compact V，Vodafone v1615，SFR v1615，Swisscom XPA v1615，T-Mobile MDA Vario III，AT\&T Tilt，O2 Xda Stellar，EMobile Emonster S11HT。
 
 ## 技術規格

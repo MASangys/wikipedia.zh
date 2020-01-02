@@ -1,3 +1,6 @@
+> 本文内容由[Liero](https://zh.wikipedia.org/wiki/Liero)转换而来。
+
+
 **''Liero**''（常見譯名為**虐殺幼蟲**）是一个[芬兰](../Page/芬兰.md "wikilink")程序员Joosa Riekkinen在1998年制作的[平台动作射击游戏](https://zh.wikipedia.org/wiki/平台动作游戏 "wikilink")。可以描述为即时版本的《[百战天虫](https://zh.wikipedia.org/wiki/百战天虫 "wikilink")》\[1\]，此游戏模仿了同期芬兰游戏**MoleZ**（比Liero更早）的创意，也深深影响了[Soldat](../Page/Soldat.md "wikilink")。游戏是用C++开发，基于[Allegro](../Page/Allegro.md "wikilink")。
 
 ## 游戏方式

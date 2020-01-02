@@ -1,3 +1,6 @@
+> 本文内容由[MY STORY Classical](https://zh.wikipedia.org/wiki/MY_STORY_Classical)转换而来。
+
+
 《**MY STORY Classical**》（古典私物語）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2005年3月24日於日本發售。
 
 ## 說明

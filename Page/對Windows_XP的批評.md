@@ -1,3 +1,6 @@
+> 本文内容由[對Windows XP的批評](https://zh.wikipedia.org/wiki/對Windows_XP的批評)转换而来。
+
+
 [Windows XP在安全性](../Page/Windows_XP.md "wikilink")、效能及產品啟用等方面均受到不少批評，其次还有大多数[中国大陆](../Page/中国大陆.md "wikilink")使用者对Windows XP的严重依赖。
 
 ## 安全問題

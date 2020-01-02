@@ -1,3 +1,6 @@
+> 本文内容由[朱 -Aka-](https://zh.wikipedia.org/wiki/朱_-Aka-)转换而来。
+
+
 《**朱 -Aka-**》是[貓貓軟體第四套製作的](https://zh.wikipedia.org/wiki/貓貓軟體 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，《[銀色 ～完全版～](../Page/銀色_\(遊戲\).md "wikilink")》的續作。
 
 ## 慨要

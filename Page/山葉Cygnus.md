@@ -1,3 +1,6 @@
+> 本文内容由[山葉Cygnus](https://zh.wikipedia.org/wiki/山葉Cygnus)转换而来。
+
+
 [Yamaha_cygnus_x_sr.jpg](https://zh.wikipedia.org/wiki/File:Yamaha_cygnus_x_sr.jpg "fig:Yamaha_cygnus_x_sr.jpg") **山葉Cygnus**（）是[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉發動機.md "wikilink")公司製造販售的一款輕型[速克達](../Page/速克達.md "wikilink")，型號是「XC」。雖然以前所有的型號都是日本生產，但現在都是由[台灣山葉機車](../Page/台灣山葉機車.md "wikilink")生產。車名Cygnus是「[天鵝座](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")」的意思。
 
 *以下內容以日本市場為主*

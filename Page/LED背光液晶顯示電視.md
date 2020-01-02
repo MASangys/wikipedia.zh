@@ -1,3 +1,6 @@
+> 本文内容由[LED背光液晶顯示電視](https://zh.wikipedia.org/wiki/LED背光液晶顯示電視)转换而来。
+
+
 [LED_TV.jpg](https://zh.wikipedia.org/wiki/File:LED_TV.jpg "fig:LED_TV.jpg") [LCDTV_&_LEDTV.jpg](https://zh.wikipedia.org/wiki/File:LCDTV_&_LEDTV.jpg "fig:LCDTV_&_LEDTV.jpg") [LCD_TV_與_LED_TV比較2_小.jpg](https://zh.wikipedia.org/wiki/File:LCD_TV_與_LED_TV比較2_小.jpg "fig:LCD_TV_與_LED_TV比較2_小.jpg")
 
 **LED背光液晶顯示電視**（LED-backlit LCD television），是使用[發光二極體](https://zh.wikipedia.org/wiki/發光二極體 "wikilink")（LED）作為[背光](../Page/背光.md "wikilink")源的[液晶顯示電視](https://zh.wikipedia.org/wiki/液晶顯示電視 "wikilink")。部分电视机生产廠商，如[三星](../Page/三星電子.md "wikilink")、[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")、[东芝](../Page/东芝.md "wikilink")、[飞利浦](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")、[乐金及](https://zh.wikipedia.org/wiki/乐金 "wikilink")[索尼](../Page/索尼.md "wikilink")等将其稱为**LED電視**，但此並不是指使用[發光二極管做為圖像顯示的](../Page/发光二极管显示器.md "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")。

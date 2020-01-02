@@ -1,3 +1,6 @@
+> 本文内容由[Intel 8259](https://zh.wikipedia.org/wiki/Intel_8259)转换而来。
+
+
 [Intel公司的](https://zh.wikipedia.org/wiki/Intel "wikilink")8259是一系列的[可程式化中斷控制器晶片的總稱](https://zh.wikipedia.org/wiki/可程式化中斷控制器 "wikilink")，當初設計它是為了搭配 8-bit 的 [Intel 8085以及](https://zh.wikipedia.org/wiki/Intel_8085 "wikilink") 16-bit的[Intel 8086等](../Page/Intel_8086.md "wikilink")[微處理器來使用](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。此系列的晶片原本包含 8259、8259A、和 8259B，但時至今日，許多製造商已製作了相當多與8259相容的晶片。運作上，8259是一個[多工器](https://zh.wikipedia.org/wiki/多工器 "wikilink")，它會從多個中斷源中挑出一個中斷信號，並輸出。
 
 ## 歷史

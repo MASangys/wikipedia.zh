@@ -1,3 +1,6 @@
+> 本文内容由[USB視頻類別](https://zh.wikipedia.org/wiki/USB視頻類別)转换而来。
+
+
 **USB video class**（又稱為**USB video device class** or **UVC**）就是[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink") [device class影像產品在不需要安裝任何的驅動程式下隨插即用](../Page/USB.md "wikilink")，包括[網路攝影機](https://zh.wikipedia.org/wiki/網路攝影機 "wikilink")、數位[攝影機](../Page/攝影機.md "wikilink")、類比影像轉換器、及[靜態影像相機](https://zh.wikipedia.org/wiki/靜態影像相機 "wikilink")。
 
 最新的UVC版本為UVC 1.5，由[USB-IF](https://zh.wikipedia.org/wiki/USB-IF "wikilink")（[USB開發者論壇](../Page/USB開發者論壇.md "wikilink")）定義包括基本協定及負載格式 \[1\] \[2\].

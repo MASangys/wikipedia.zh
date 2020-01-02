@@ -1,3 +1,6 @@
+> 本文内容由[EPUB](https://zh.wikipedia.org/wiki/EPUB)转换而来。
+
+
 **EPUB**（Electronic Publication的缩写，[電子出版](../Page/電子出版.md "wikilink")）是一種電子圖書標準，由[國際數位出版論壇](https://zh.wikipedia.org/wiki/國際數位出版論壇 "wikilink")（IDPF）提出；其中包括3種文件格式標準（文件的扩展名為`.epub`），這個格式已取代了先前的[Open eBook開放](../Page/Open_eBook.md "wikilink")[電子書](../Page/電子書.md "wikilink")標準\[1\]。
 
 ## 概覽

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Magician](https://zh.wikipedia.org/wiki/HTC_Magician)转换而来。
+
+
 **HTC Magician**（研發代號），是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，曾是全球最迷你的PDA Phone。適合女性消費者的PDA手機，2004年9月於歐洲首度發表，2005年3月推出適合男性消費者的升級版Magician Refresh。
 
 已知客製版本：

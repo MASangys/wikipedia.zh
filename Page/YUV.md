@@ -1,3 +1,6 @@
+> 本文内容由[YUV](https://zh.wikipedia.org/wiki/YUV)转换而来。
+
+
 [YUV_UV_plane.png](https://zh.wikipedia.org/wiki/File:YUV_UV_plane.png "fig:YUV_UV_plane.png") **YUV**，是一種[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")[編碼方法](https://zh.wikipedia.org/wiki/編碼 "wikilink")。常使用在各個影像處理元件中。 YUV在對照片或影片編碼時，考慮到人類的感知能力，允許降低色度的頻寬。
 
 YUV是編譯true-color顏色空間（color space）的種類，Y'UV, YUV, [YCbCr](../Page/YCbCr.md "wikilink")，[YPbPr等專有名詞都可以稱為YUV](https://zh.wikipedia.org/wiki/YPbPr "wikilink")，彼此有重疊。「Y」表示**[明亮度](../Page/流明.md "wikilink")**（Luminance、Luma），「U」和「V」則是**[色度](https://zh.wikipedia.org/wiki/色度_\(色彩学\) "wikilink")**、**[濃度](https://zh.wikipedia.org/wiki/濃度_\(色彩學\) "wikilink")**（Chrominance、Chroma），

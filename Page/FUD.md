@@ -1,3 +1,6 @@
+> 本文内容由[FUD](https://zh.wikipedia.org/wiki/FUD)转换而来。
+
+
 **FUD**（，意思為**懼、惑、疑**）最早指[IBM](../Page/IBM.md "wikilink")销售人员對客戶灌輸和其他競爭對手產品的負面觀念，在顾客的头脑中注入疑惑与惧怕，使顧客誤以為除了該公司的產品外，他們別無其他選擇。
 
 最早出自[吉恩·阿姆達爾](../Page/吉恩·阿姆達爾.md "wikilink")之口，吉恩·阿姆達爾原為[IBM](../Page/IBM.md "wikilink")工程師，之後離開IBM自行創立，成為IBM競爭對手。

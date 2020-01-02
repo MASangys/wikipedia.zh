@@ -1,3 +1,6 @@
+> 本文内容由[LIPS](https://zh.wikipedia.org/wiki/LIPS)转换而来。
+
+
 《**LIPS**》是日本男性偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第6張單曲作品。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[WHATEVER](https://zh.wikipedia.org/wiki/WHATEVER)转换而来。
+
+
 《**WHATEVER**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第6張單曲，1999年2月10日於日本發行8cm版本。2001年2月28日再發行12cm版本。
 
 本作原先設定由菊地圭介編曲的「version J」作為「Original Mix」，但在宮崎泉製作的混音版本「version M」完成後，逆轉收錄為第一音軌。「version J」為[J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink")（日本流行音樂）的意思，而「version M」則是以編曲者名字縮寫來命名。

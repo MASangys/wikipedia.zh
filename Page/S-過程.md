@@ -1,3 +1,6 @@
+> 本文内容由[S-過程](https://zh.wikipedia.org/wiki/S-過程)转换而来。
+
+
 **S-過程**，或稱為[慢中子捕獲過程](https://zh.wikipedia.org/wiki/中子捕獲 "wikilink")，是發生在相對來說中子密度較低和溫度中等條件下的[恆星進行](https://zh.wikipedia.org/wiki/恆星 "wikilink")[核合成](../Page/核合成.md "wikilink")過程。在這樣的條件下，原子的[核心進行](../Page/原子核.md "wikilink")[中子捕獲的速率相較之下就低於](https://zh.wikipedia.org/wiki/中子捕獲 "wikilink")[β負衰變](https://zh.wikipedia.org/wiki/β衰變 "wikilink")。穩定的同位素捕獲中子；但是放射性同位素在另一次中子捕獲前就先衰變成為穩定的子核，這樣經由[β穩定的過程](https://zh.wikipedia.org/wiki/β穩定 "wikilink")，使同位素沿著[同位素列表的槽線移動](https://zh.wikipedia.org/wiki/同位素列表 "wikilink")。S-過程大約創造了另一半[比鐵重的元素](https://zh.wikipedia.org/wiki/重元素 "wikilink")，因此在[星系化學演化中扮演著很重要的角色](https://zh.wikipedia.org/wiki/化學演化 "wikilink")。S-過程與更快速的[r-過程中子捕獲不同的是它的低速率](https://zh.wikipedia.org/wiki/r-過程 "wikilink")。
 
 ## 歷史

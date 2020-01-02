@@ -1,3 +1,6 @@
+> 本文内容由[Keep the faith](https://zh.wikipedia.org/wiki/Keep_the_faith)转换而来。
+
+
 『**Keep the faith**』是[日本](../Page/日本.md "wikilink")[男性偶像團體](https://zh.wikipedia.org/wiki/男性偶像 "wikilink")、[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

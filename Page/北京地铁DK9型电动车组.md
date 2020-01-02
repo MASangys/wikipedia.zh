@@ -1,3 +1,6 @@
+> 本文内容由[北京地铁DK9型电动车组](https://zh.wikipedia.org/wiki/北京地铁DK9型电动车组)转换而来。
+
+
 **北京地铁DK9型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在已经退出运营。\[1\]
 
 ## 简介

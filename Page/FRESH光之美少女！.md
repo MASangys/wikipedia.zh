@@ -1,3 +1,6 @@
+> 本文内容由[FRESH光之美少女！](https://zh.wikipedia.org/wiki/FRESH光之美少女！)转换而来。
+
+
 《**FRESH光之美少女！**》（****）是由[東堂泉](../Page/東堂泉.md "wikilink")（東堂）所創作的[魔法少女](../Page/魔法少女.md "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」的第六季作品，屬第四代光之美少女。於2009年2月起於[ABC](../Page/朝日放送.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")播出。台灣與香港分別由[東森幼幼台](../Page/東森幼幼台.md "wikilink")與[翡翠台](../Page/翡翠台.md "wikilink")代理，以「**幸福精靈**」的名義分別於2011年5月27日及12月10日播出。
 
 ## 本作概要

@@ -1,3 +1,6 @@
+> 本文内容由[Webdings](https://zh.wikipedia.org/wiki/Webdings)转换而来。
+
+
 **Webdings**是一個[TrueType](../Page/TrueType.md "wikilink")的[dingbat](https://zh.wikipedia.org/wiki/dingbat "wikilink")[字型](https://zh.wikipedia.org/wiki/電腦字型 "wikilink")，於1997年發表，搭載在其後的[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[視窗系統](../Page/視窗系統.md "wikilink")內。在Unicode 7.0发布之前，大多的[字形](../Page/字形.md "wikilink")都沒有[Unicode的相對字](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 ## 軼事

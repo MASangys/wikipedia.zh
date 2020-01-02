@@ -1,3 +1,6 @@
+> 本文内容由[Hh血型系统](https://zh.wikipedia.org/wiki/Hh血型系统)转换而来。
+
+
 **Hh血型系統**或**Hh抗原系統**，又稱**孟買血型系統**（），是根據[红血球](../Page/红血球.md "wikilink")表面是否存在**H抗原**而对血液分型的[人類血型系统](https://zh.wikipedia.org/wiki/人類血型系统 "wikilink")。Hh血型系统是人類最重要的血型系統——[ABO系统的基礎](../Page/ABO血型系统.md "wikilink")。
 
 ## H抗原

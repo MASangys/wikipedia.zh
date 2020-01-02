@@ -1,3 +1,6 @@
+> 本文内容由[Socket G34](https://zh.wikipedia.org/wiki/Socket_G34)转换而来。
+
+
 **Socket G34**，又稱**LGA 1944**，是[美商超微](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")（AMD）和TE Connectivity\[1\]設計的中央處理器管腳排列及相應的插座，用於[AMD Opteron 6000系列處理器以及SR](https://zh.wikipedia.org/wiki/AMD_Opteron "wikilink")5600/SP5100系列晶片組的主機板中。\[2\]除了插座供應商以LGA 1944作爲其零部件名稱以外，坊間也有以插座觸點數來自行命名Socket G34爲**LGA 1974**的説法。\[3\]\[4\]\[5\]
 
 ## 技術概況

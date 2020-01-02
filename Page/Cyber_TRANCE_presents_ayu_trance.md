@@ -1,3 +1,6 @@
+> 本文内容由[Cyber TRANCE presents ayu trance](https://zh.wikipedia.org/wiki/Cyber_TRANCE_presents_ayu_trance)转换而来。
+
+
 《**Cyber TRANCE presents ayu trance**》（出神入化trance混音專輯）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2001年9月27日於日本發售。為《ayu trance》系列的第一彈。
 
 ## 說明

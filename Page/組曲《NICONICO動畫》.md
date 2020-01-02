@@ -1,3 +1,6 @@
+> 本文内容由[組曲《NICONICO動畫》](https://zh.wikipedia.org/wiki/組曲《NICONICO動畫》)转换而来。
+
+
 **組曲《NICONICO動畫》**最早是指由[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")[NICONICO動畫的使用者](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")（Shimo），選取出NICONICO動畫中受到使用者注目、在站內流行的33首歌曲與配樂，重新編成[歐陸舞曲風的](https://zh.wikipedia.org/wiki/歐陸舞曲 "wikilink")[混合曲](https://zh.wikipedia.org/wiki/混合曲 "wikilink")，之後便出有一系列相同名稱的系列作品，並在NICONICO動畫有其專屬的標題分類。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[E](https://zh.wikipedia.org/wiki/E)转换而来。
+
+
 **E**, **e** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第5个[字母](../Page/字母.md "wikilink")。
 
 它来源于一个与它形状和功能相像的[希腊字母](../Page/希腊字母.md "wikilink")[Epsilon](https://zh.wikipedia.org/wiki/Epsilon "wikilink")（Ε, ε）。 [闪族语单词](https://zh.wikipedia.org/wiki/闪族语 "wikilink")  可能是第一个用来表示起到或称呼人的单词。在闪含语中，这个字母发作/h/（在其它语言中可以发作/e/），在[希腊语中](https://zh.wikipedia.org/wiki/希腊语 "wikilink")  变成 （Epsilon）发作/e/。[伊特鲁里亚人和](https://zh.wikipedia.org/wiki/伊特鲁里亚人 "wikilink")[罗马](../Page/罗马.md "wikilink")人都这样使用它。由于[元音大推移](../Page/元音大推移.md "wikilink")，[英语](../Page/英语.md "wikilink")的用法比较特殊，英语me或bee中把它发作/i:/，而在bed中的用法则相当接近[拉丁美洲](../Page/拉丁美洲.md "wikilink")和[欧洲](../Page/欧洲.md "wikilink")的用法。

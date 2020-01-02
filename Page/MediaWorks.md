@@ -1,3 +1,6 @@
+> 本文内容由[MediaWorks](https://zh.wikipedia.org/wiki/MediaWorks)转换而来。
+
+
 **株式会社MediaWorks\[1\]**（），是持有「電擊」等品牌的[角川控股集團](https://zh.wikipedia.org/wiki/角川控股集團 "wikilink")（）旗下[出版社](../Page/出版社.md "wikilink")。
 
 ## 概要

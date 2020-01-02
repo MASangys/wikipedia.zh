@@ -1,3 +1,6 @@
+> 本文内容由[Silver Forest](https://zh.wikipedia.org/wiki/Silver_Forest)转换而来。
+
+
 **Silver Forest**是[日本](../Page/日本.md "wikilink")的一個[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")，愛稱「銀森」、「シルフォレ」。
 
 ## 概要

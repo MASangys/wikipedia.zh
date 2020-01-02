@@ -1,3 +1,6 @@
+> 本文内容由[Magic \(Twins專輯\)](https://zh.wikipedia.org/wiki/Magic_\(Twins專輯\))转换而来。
+
+
 **Magic**為[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")2004年一張中文專輯，亦為[Twins第](https://zh.wikipedia.org/wiki/Twins "wikilink")11張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2004年1月14日在[香港](../Page/香港.md "wikilink")發行，憑《零4好玩》、《飲歌》、《士多啤梨蘋果橙》及《雙失情人節》四曲廣受[香港](../Page/香港.md "wikilink")歡迎。
 
 ## 簡介

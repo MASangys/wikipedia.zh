@@ -1,3 +1,6 @@
+> 本文内容由[Nuvola](https://zh.wikipedia.org/wiki/Nuvola)转换而来。
+
+
 **Nuvola**（名称来自[意大利语](../Page/意大利语.md "wikilink")的「[云](../Page/云.md "wikilink")」，是SKY图标主题的改进版）是一套自由软件图标，并在[GNU](../Page/GNU.md "wikilink") [LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink") 2.1下发布。Nuvola的作者是。这套图标最初是为像[KDE](../Page/KDE.md "wikilink")和[GNOME](../Page/GNOME.md "wikilink")之类的[桌面环境](../Page/桌面环境.md "wikilink")所开发，现在也已经有[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Macintosh的版本](https://zh.wikipedia.org/wiki/Macintosh "wikilink")\[1\]。图标的最终版本1.0包含了将近600个图标。默认的图标为[PNG](../Page/PNG.md "wikilink")格式，但也提供了[SVG版本](https://zh.wikipedia.org/wiki/SVG "wikilink")。
 
 这套图标用丰富的色彩来表现了大量常用并易于辨认的物体。大部分图标颜色为蓝色，但也有其它颜色。

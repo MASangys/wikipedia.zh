@@ -1,3 +1,6 @@
+> 本文内容由[Pin群](https://zh.wikipedia.org/wiki/Pin群)转换而来。
+
+
 [数学](../Page/数学.md "wikilink")中，**Pin 群**是一个[二次型](../Page/二次型.md "wikilink")空间相伴的[克利福德代数的一个子群](https://zh.wikipedia.org/wiki/克利福德代数 "wikilink")。它有一个到[正交群](../Page/正交群.md "wikilink")的 2 对 1 映射，就像 [Spin 群映到特殊正交群一样](https://zh.wikipedia.org/wiki/Spin_群 "wikilink")。
 
 从 Pin 群到正交群的映射**不是**满的也不是[万有覆叠空间](https://zh.wikipedia.org/wiki/万有覆叠空间 "wikilink")，但对定二次型，两者都正确。

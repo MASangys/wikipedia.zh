@@ -1,3 +1,6 @@
+> 本文内容由[AC米兰](https://zh.wikipedia.org/wiki/AC米兰)转换而来。
+
+
 **米蘭足球俱樂部**（Associazione Calcio Milan）是一家位於[義大利北部](https://zh.wikipedia.org/wiki/義大利 "wikilink")[倫巴第大區](https://zh.wikipedia.org/wiki/倫巴第 "wikilink")[米蘭](../Page/米蘭.md "wikilink")市的足球俱乐部。為了和同在米蘭的另一家足球俱樂部[國際米蘭區別](https://zh.wikipedia.org/wiki/國際米蘭 "wikilink")，一般被稱為**AC米蘭**，目前於[義大利足球甲级联赛比賽](https://zh.wikipedia.org/wiki/意甲 "wikilink")。
 
 AC米蘭是意大利最受欢迎的足球俱樂部之一，根據2010年德國著名體育市場調查公司Sport+Markt的調查，AC米兰的球迷人數名列歐洲第七位，達到1840萬人，是歐洲最受歡迎的意大利球會\[1\]。

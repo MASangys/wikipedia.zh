@@ -1,3 +1,6 @@
+> 本文内容由[Portishead](https://zh.wikipedia.org/wiki/Portishead)转换而来。
+
+
 **Portishead**是一支來自[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[trip hop樂隊](https://zh.wikipedia.org/wiki/trip_hop "wikilink")，1991年在[英格蘭的](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[布里斯托市成立](https://zh.wikipedia.org/wiki/布里斯托 "wikilink")。\[1\]
 
 ## 簡介

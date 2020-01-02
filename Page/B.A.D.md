@@ -1,3 +1,6 @@
+> 本文内容由[B.A.D](https://zh.wikipedia.org/wiki/B.A.D)转换而来。
+
+
 **B.A.D.**是[台灣的三人組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2000年出道、2005年解散。所屬[唱片公司](../Page/唱片公司.md "wikilink")為[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。
 
 ## 簡介

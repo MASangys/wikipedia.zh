@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE THE MOVIE 喬巴身世之謎：冬季綻放、奇跡的櫻花](https://zh.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_喬巴身世之謎：冬季綻放、奇跡的櫻花)转换而来。
+
+
 《**ONE PIECE THE MOVIE 喬巴身世之謎：冬季綻放、奇跡的櫻花**》是於2008年上映的第九部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。曾得到第32屆[日本電影金像獎](https://zh.wikipedia.org/wiki/日本電影金像獎 "wikilink")。
 
 ## 製作

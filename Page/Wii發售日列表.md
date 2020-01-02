@@ -1,3 +1,6 @@
+> 本文内容由[Wii發售日列表](https://zh.wikipedia.org/wiki/Wii發售日列表)转换而来。
+
+
 <table>
 <caption><strong>各地發售日期與<a href="https://zh.wikipedia.org/wiki/建議售價" title="wikilink">建議售價</a></strong>*</caption>
 <thead>

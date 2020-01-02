@@ -1,3 +1,6 @@
+> 本文内容由[MTV電玩瘋](https://zh.wikipedia.org/wiki/MTV電玩瘋)转换而来。
+
+
 《**MTV電玩瘋**》原是[MTV中文台與](../Page/音樂電視網.md "wikilink")[巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")合作推出的[ACG](../Page/ACG.md "wikilink")資訊節目《MTV巴哈姆特電玩瘋》，已於2007年10月27日第28集播畢。第29集起改為MTV獨立製作，與巴哈姆特電玩資訊站停止合作，名稱改為《**MTV電玩瘋**》繼續播出；此時期[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")購買播映權後於[台視主頻播出](https://zh.wikipedia.org/wiki/台視主頻 "wikilink")，但標題畫面以圓形「TTV」字樣覆蓋「電玩瘋」三字左邊的MTV[台標](https://zh.wikipedia.org/wiki/台標 "wikilink")。內容結合Anime([動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink"))、Comic([漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink"))及Game([遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink"))資訊，提供玩家最多元的電玩訊息。已播出43集以及多集精華版，目前已停播。
 
 ## 播出時間

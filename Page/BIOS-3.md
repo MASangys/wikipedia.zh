@@ -1,3 +1,6 @@
+> 本文内容由[BIOS-3](https://zh.wikipedia.org/wiki/BIOS-3)转换而来。
+
+
 **BIOS-3**是一个[封闭生态系统](https://zh.wikipedia.org/wiki/封闭生态系统 "wikilink")，它位于[克拉斯諾亞爾斯克](../Page/克拉斯諾亞爾斯克.md "wikilink")的生物物理学学会。当时还是[苏联](../Page/苏联.md "wikilink")管辖。
 
 ## 结构

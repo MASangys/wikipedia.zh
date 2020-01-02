@@ -1,3 +1,6 @@
+> 本文内容由[KTSF](https://zh.wikipedia.org/wiki/KTSF)转换而来。
+
+
 **KTSF**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[舊金山灣區](../Page/舊金山灣區.md "wikilink")一家主要服務亞裔社群、不屬於任何電視網的獨立[廣播](https://zh.wikipedia.org/wiki/廣播 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，由[林肯廣播公司](https://zh.wikipedia.org/wiki/林肯廣播公司 "wikilink")（Lincoln Broadcasting Company）擁有。KTSF的主頻道26.1﹐於晚上7點至10點的黃金時段，主要播放[粵語和](https://zh.wikipedia.org/wiki/粵語 "wikilink")[普通話節目](https://zh.wikipedia.org/wiki/普通話 "wikilink")，包括自製的新聞和外購的[臺灣](../Page/臺灣.md "wikilink")、[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、和[香港](../Page/香港.md "wikilink")影劇。於早上6點至8點以[粵語播放本地製作的晨早新聞](https://zh.wikipedia.org/wiki/粵語 "wikilink")﹐包括即時交通及天氣。其它時段播放[閩南語](https://zh.wikipedia.org/wiki/臺灣閩南語 "wikilink")、[印地語](https://zh.wikipedia.org/wiki/印地語 "wikilink")、[菲律賓語](../Page/菲律賓語.md "wikilink")和[越南語的節目](https://zh.wikipedia.org/wiki/越南語 "wikilink")，以及[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[付費資訊性廣告](https://zh.wikipedia.org/wiki/電視購物 "wikilink")。
 
 ## 歷史

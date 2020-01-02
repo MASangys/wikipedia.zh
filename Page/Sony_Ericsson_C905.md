@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson C905](https://zh.wikipedia.org/wiki/Sony_Ericsson_C905)转换而来。
+
+
 **索尼爱立信C905**（中国大陆地区型号为C905c）是[索尼爱立信一款在](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")2008年推出的手提電話，为索尼爱立信在C系列（包括其前身K系列）中推出的首款滑盖手机。并因其高达810万像素的摄像头而引起广泛关注。
 
 ## 主要規格

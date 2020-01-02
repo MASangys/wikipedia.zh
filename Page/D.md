@@ -1,3 +1,6 @@
+> 本文内容由[D](https://zh.wikipedia.org/wiki/D)转换而来。
+
+
 **D**, **d**是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第4个[字母](../Page/字母.md "wikilink")。
 
 [D_cursiva.gif](https://zh.wikipedia.org/wiki/File:D_cursiva.gif "fig:D_cursiva.gif")

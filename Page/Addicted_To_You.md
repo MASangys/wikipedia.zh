@@ -1,3 +1,6 @@
+> 本文内容由[Addicted To You](https://zh.wikipedia.org/wiki/Addicted_To_You)转换而来。
+
+
 **Addicted To You**是日本歌手[宇多田光](../Page/宇多田光.md "wikilink")的第四張日語單曲，於1999年11月10日發行。本曲初動大破106萬，成為[Oricon](../Page/Oricon.md "wikilink")歷史上初動第五單曲，累計銷量178萬，是日本90年代最後一張銷售量突破100萬的單曲。
 
 本單曲封面是由名攝影師[Richard Avedon所製作](https://zh.wikipedia.org/wiki/Richard_Avedon "wikilink")。 本單曲的MV的外景於香港拍攝。

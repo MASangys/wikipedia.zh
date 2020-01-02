@@ -1,3 +1,6 @@
+> 本文内容由[EX All Time Favourites](https://zh.wikipedia.org/wiki/EX_All_Time_Favourites)转换而来。
+
+
 《''' 'EX' All Time Favourites '''》是[香港](../Page/香港.md "wikilink")女歌手[關淑怡](../Page/關淑怡.md "wikilink")第十張粵語大碟，亦是她首張全翻唱大碟\[1\]。此專輯推出後好評如潮，樂迷和樂評人一致推薦為關淑怡代表性專輯\[2\]，香港本土銷量超過15萬張（IFPI 認証：三白金）。 專輯後來被《聽見2000分之100》一書選為“公元2000年內最出色的二十張中文唱片”之一。其中《[忘記他](../Page/忘記他.md "wikilink")》的作曲作詞人[黃霑](../Page/黃霑.md "wikilink")曾評價關淑怡在《忘記他》中的演繹比[鄧麗君](../Page/鄧麗君.md "wikilink")還好，《夢伴》的Acoustic編曲更成為往後歌手翻唱此曲時的模板，亦有評論認為《深夜港灣》和《印象》以及《忘記他》三首，關淑怡的唱法才真正唱出了原曲的真諦\[3\]。
 
 ## 曲目

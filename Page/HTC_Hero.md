@@ -1,3 +1,6 @@
+> 本文内容由[HTC Hero](https://zh.wikipedia.org/wiki/HTC_Hero)转换而来。
+
+
 **HTC Hero**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電公司繼](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[Dream與](../Page/HTC_Dream.md "wikilink")[Magic之後](../Page/HTC_Magic.md "wikilink")，所推出的第三部以[Google Android為](https://zh.wikipedia.org/wiki/Google_Android "wikilink")[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")（在[中國大陸被暱稱為](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")**G3**）。型號為HTC A-Series，是一部配有3.5mm耳筒、多點觸控技術及[HTC Sense](../Page/HTC_Sense.md "wikilink")™介面。
 
 該手機於2009年6月24在[倫敦正式發表](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。是首款支援[Adobe Flash](../Page/Adobe_Flash.md "wikilink")\[1\].此款手機於2009年7月首先於歐洲市場推出，亞洲區於09年季。美國則會擁有自己的型號。\[2\]在2009年11月，[Dopod以A](https://zh.wikipedia.org/wiki/Dopod "wikilink")6288的名称在中国大陆销售HTC Hero。它同时也成为了中国大陆首两款[Android](../Page/Android.md "wikilink")手机之一（另外一款是Dopod A3288，即[HTC Tattoo](../Page/HTC_Tattoo.md "wikilink")）\[3\]。

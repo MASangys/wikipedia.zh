@@ -1,3 +1,6 @@
+> 本文内容由[T细胞](https://zh.wikipedia.org/wiki/T细胞)转换而来。
+
+
 **T细胞**（、T淋巴細胞/）是[淋巴细胞的一种](https://zh.wikipedia.org/wiki/淋巴细胞 "wikilink")，在[免疫反應中扮演着重要的角色](https://zh.wikipedia.org/wiki/免疫反應 "wikilink")。T细胞在被製造出來之後，在胸腺内進行「新兵訓練」分化成熟為不同類型的免疫細胞，成熟后就移居于周围[淋巴组织中開始工作](https://zh.wikipedia.org/wiki/淋巴组织 "wikilink")。T是“[胸腺](../Page/胸腺.md "wikilink")”（thymus）而不是[甲狀腺](https://zh.wikipedia.org/wiki/甲狀腺 "wikilink")（thyroid）的[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")。T细胞膜表面分子与T细胞的功能相关，也是T细胞的[表面标志](https://zh.wikipedia.org/wiki/表面标志 "wikilink")（cell-surface marker），可以用以分离、鉴定不同亚群的T细胞。
 
 ## 分类

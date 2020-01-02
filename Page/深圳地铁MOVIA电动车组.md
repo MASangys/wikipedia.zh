@@ -1,3 +1,6 @@
+> 本文内容由[深圳地铁MOVIA电动车组](https://zh.wikipedia.org/wiki/深圳地铁MOVIA电动车组)转换而来。
+
+
 **深圳地铁MOVIA电动车组**，是[深圳地铁的第一款载客列车](https://zh.wikipedia.org/wiki/深圳地铁 "wikilink")，於[深圳地鐵](https://zh.wikipedia.org/wiki/深圳地鐵 "wikilink")[1号綫行走](https://zh.wikipedia.org/wiki/深圳地鐵1号綫 "wikilink")，列車由[庞巴迪运输和](https://zh.wikipedia.org/wiki/庞巴迪运输 "wikilink")[长春轨道客车製造](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")。
 
 ## 概要

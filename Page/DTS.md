@@ -1,3 +1,6 @@
+> 本文内容由[DTS](https://zh.wikipedia.org/wiki/DTS)转换而来。
+
+
 **數位影院系統**（**DTS**，**Digital Theater Systems**）由DTS公司（DTS Inc.，）開發，為多聲道音訊格式中的一種，廣泛應用於DVD音效上。其最普遍的格式為5.1聲道。與[杜比數位為主要競爭對手](https://zh.wikipedia.org/wiki/杜比數位 "wikilink")。要實現DTS音效輸出，需在硬體上及軟體上符合DTS的規格，多數會在產品上標示DTS的商標。
 
 ## 歷史

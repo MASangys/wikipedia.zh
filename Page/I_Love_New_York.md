@@ -1,3 +1,6 @@
+> 本文内容由[I Love New York](https://zh.wikipedia.org/wiki/I_Love_New_York)转换而来。
+
+
 [I_Love_New_York.svg](https://zh.wikipedia.org/wiki/File:I_Love_New_York.svg "fig:I_Love_New_York.svg") **I Love New York**是1977年由創作的一個圖像標誌。圖像上方從左至右分別是[大寫的](../Page/大寫字母.md "wikilink")[英文字母](../Page/英文字母.md "wikilink")「**[I](../Page/I.md "wikilink")**」和一個紅心「**<font color="red">♥</font>**」，圖像下方從左至右分別是大寫的英文字母「**[N](../Page/N.md "wikilink")**」和「**[Y](../Page/Y.md "wikilink")**」，所有文字采用圓形的\[1\]。
 
 此標誌及相關的宣傳活動被用於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")（不僅僅是通常所認為的[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")）的旅遊業宣傳\[2\]\[3\]。在紐約州的紀念品商店和宣傳手冊上都印刷有該標誌。

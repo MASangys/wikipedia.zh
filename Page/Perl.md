@@ -1,3 +1,6 @@
+> 本文内容由[Perl](https://zh.wikipedia.org/wiki/Perl)转换而来。
+
+
 **Perl**是[高階](https://zh.wikipedia.org/wiki/高级语言 "wikilink")、[通用](../Page/通用编程语言.md "wikilink")、[直譯式](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")、[動態的](../Page/动态语言.md "wikilink")[程式语言家族](https://zh.wikipedia.org/wiki/程式语言 "wikilink")。最初设计者[拉里·沃尔](../Page/拉里·沃尔.md "wikilink")為了讓在[UNIX](../Page/UNIX.md "wikilink")上進行報表處理的工作變得更方便，決定開發一個通用的[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，而在1987年12月18日發表。目前，Perl语言家族包含两个分支Perl 5以及[Perl 6](../Page/Perl_6.md "wikilink")（开发中）。雖然Perl不是正式的首字母縮略詞\[1\]，但仍有各種各樣的[逆向首字母缩略词](../Page/逆向首字母缩略词.md "wikilink")，包括“實用的提取和報告語言”。\[2\]
 
 Perl借用了[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[sed](https://zh.wikipedia.org/wiki/sed "wikilink")、[awk](../Page/AWK.md "wikilink")、[shell脚本以及很多其他程式語言的特性](../Page/Unix_shell.md "wikilink")。其中最重要的特性是Perl内部集成了[正则表达式](../Page/正则表达式.md "wikilink")的功能，以及巨大的第三方代码库[CPAN](https://zh.wikipedia.org/wiki/CPAN "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[U \(Super Junior單曲\)](https://zh.wikipedia.org/wiki/U_\(Super_Junior單曲\))转换而来。
+
+
 [Super Junior及其子组合](../Page/Super_Junior.md "wikilink")[Super Junior-M的多部作品被命名为](../Page/Super_Junior-M.md "wikilink")《**U**》。
 
 ## 韓國單曲

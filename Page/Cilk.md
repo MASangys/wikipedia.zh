@@ -1,3 +1,6 @@
+> 本文内容由[Cilk](https://zh.wikipedia.org/wiki/Cilk)转换而来。
+
+
 **Cilk**是一種建基於[C編程語言](https://zh.wikipedia.org/wiki/C編程語言 "wikilink")、為[平行運算而設計的泛用式](https://zh.wikipedia.org/wiki/平行運算 "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。
 
 ## 設計

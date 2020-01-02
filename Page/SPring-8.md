@@ -1,3 +1,6 @@
+> 本文内容由[SPring-8](https://zh.wikipedia.org/wiki/SPring-8)转换而来。
+
+
 [Sp8-3972.JPG](https://zh.wikipedia.org/wiki/File:Sp8-3972.JPG "fig:Sp8-3972.JPG") [SPring-8_2007_12img_pano.jpg](https://zh.wikipedia.org/wiki/File:SPring-8_2007_12img_pano.jpg "fig:SPring-8_2007_12img_pano.jpg") **SPring-8**（，日文假名：）是[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[佐用町](../Page/佐用町.md "wikilink")[播磨科學公園都市内的大型](https://zh.wikipedia.org/wiki/播磨科學公園都市 "wikilink")[同步輻射設施](https://zh.wikipedia.org/wiki/同步輻射 "wikilink")，於1991年由[日本核能研究所](https://zh.wikipedia.org/wiki/日本核能研究所 "wikilink")（）及[理化學研究所共同建立](https://zh.wikipedia.org/wiki/理化學研究所 "wikilink")，耗資1319億日圓，1997年完工啟用。該設施將[電子加速](https://zh.wikipedia.org/wiki/電子 "wikilink")、貯存而產生放射光以應用於[科學研究及](https://zh.wikipedia.org/wiki/科學 "wikilink")[醫療之領域](https://zh.wikipedia.org/wiki/醫療 "wikilink")。其名稱因其儲存電子之最大加速能量為8 [G](https://zh.wikipedia.org/wiki/数量级_\(数\)#109 "wikilink")[eV而來](https://zh.wikipedia.org/wiki/电子伏特 "wikilink")。目前為世界上儲存電子能量最高的第三代同步輻射設施。目前由[高輝度光科學研究中心](https://zh.wikipedia.org/wiki/高輝度光科學研究中心 "wikilink")（）負責營運管理。
 
 ## 光束線列表

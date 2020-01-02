@@ -1,3 +1,6 @@
+> 本文内容由[Love Solfege\'](https://zh.wikipedia.org/wiki/Love_Solfege\')转换而来。
+
+
 **Love Solfege**'，[日本](../Page/日本.md "wikilink")[同人音樂](../Page/同人音樂.md "wikilink")[社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")，簡稱**Lovege**。原名**Love Solfege**，在2007年7月4日發佈商業化專輯《フタリノワタシ》后，便將Love Solfege作爲商業化作品的署名，而在同人作品中則改用Love Solfege'的名義。
 
 ## 概要

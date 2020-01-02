@@ -1,3 +1,6 @@
+> 本文内容由[YAL-1機載雷射系統](https://zh.wikipedia.org/wiki/YAL-1機載雷射系統)转换而来。
+
+
 **波音YAL-1**（）是一個裝設於改裝的[波音747-400F](https://zh.wikipedia.org/wiki/波音747-400#-400F "wikilink")、脉冲功率達[兆瓦級的](https://zh.wikipedia.org/wiki/兆瓦 "wikilink")（chemical oxygen iodine laser）武器系統，可以攔截戰術[彈道飛彈](https://zh.wikipedia.org/wiki/彈道飛彈 "wikilink")\[1\]。**YAL-1A** 設計於2004年由美國國防部開始研发\[2\]。最早機載雷射有過低能量雷射的原型機裝置在波音NKC-135A機上，並於1980年代實驗中擊落許多飛彈\[3\]。但由於未达到预期效果該機型研发计划於2011年取消，並於2012年2月14日飛往位於[亞利桑納州](https://zh.wikipedia.org/wiki/亞利桑納州 "wikilink")[土桑](https://zh.wikipedia.org/wiki/土桑 "wikilink")[戴維斯－蒙森空軍基地](https://zh.wikipedia.org/wiki/戴維斯－蒙森空軍基地 "wikilink")（Davis–Monthan AFB）旁的飛機墓地封存。
 
 ## 概觀

@@ -1,3 +1,6 @@
+> 本文内容由[LOVE PiECE](https://zh.wikipedia.org/wiki/LOVE_PiECE)转换而来。
+
+
 **LOVE PiECE**（拼拼愛）是[大塚愛的第四張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")。2007年10月5日由[艾迴音樂在台灣發行](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")
 
 ## 收錄曲目

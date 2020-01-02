@@ -1,3 +1,6 @@
+> 本文内容由[RIZE](https://zh.wikipedia.org/wiki/RIZE)转换而来。
+
+
 **RIZE**是一隊[日本](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，於1997年結成，2000年正式出道。他們樂曲混合了[重金屬音樂](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")、[雷鬼樂和](https://zh.wikipedia.org/wiki/雷鬼樂 "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")。
 
 2007年7月7日他們在大型環保音樂會[Live Earth演出](https://zh.wikipedia.org/wiki/Live_Earth氣候危機演唱會 "wikilink")。2007年7月29日參加台灣夏日大型音樂活動[野台開唱](../Page/野台開唱.md "wikilink")的演出。於2007年9月7日於中國北京市的"MAO"舉行專場（ONEMAN）Live，並於次日2007年9月8日參加中國最大型的音樂活動「北京流行音樂節」（場地：北京朝陽公園）的演出。這是該音樂活動首次邀請日本樂團參加（同時受邀的日本樂團還有[Ra:IN](../Page/Ra:IN.md "wikilink")）。

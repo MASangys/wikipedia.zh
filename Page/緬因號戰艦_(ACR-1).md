@@ -1,3 +1,6 @@
+> 本文内容由[緬因號戰艦 \(ACR-1\)](https://zh.wikipedia.org/wiki/緬因號戰艦_\(ACR-1\))转换而来。
+
+
 **缅因号**（USS Maine ACR-1），是[美国海军的一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")6682吨级二等戰艦，她以[美国](../Page/美国.md "wikilink")[缅因州](../Page/缅因州.md "wikilink")的名字命名。该船的爆炸和沉没成为了[美西战争](../Page/美西战争.md "wikilink")的导火索，关于她真正的沉没原因直到现在仍是个谜。
 
 ## 建成与服役

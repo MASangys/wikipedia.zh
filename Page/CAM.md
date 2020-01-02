@@ -1,3 +1,6 @@
+> 本文内容由[CAM](https://zh.wikipedia.org/wiki/CAM)转换而来。
+
+
 [Nockenwelle_ani.gif](https://zh.wikipedia.org/wiki/File:Nockenwelle_ani.gif "fig:Nockenwelle_ani.gif")。\]\] **Cam**（[凸輪](https://zh.wikipedia.org/wiki/凸輪 "wikilink")）是一種機械連結器具，用以轉換運動方式。
 
 **Cam**或**CAM**可能是以下事物：

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Titan](https://zh.wikipedia.org/wiki/HTC_Titan)转换而来。
+
+
 **HTC Titan**，原廠型號**HTC P4000**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6.0，配備[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") MSM7500 400MHz處理器，配有側滑動式[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，性能強大。2007年6月於北美首度發表。已知客製版本HTC P4000，Telus＆HTC P4000，Sprint＆HTC Mogul，Qwest＆HTC Mogul，Alltel＆HTC PPC6800，Bell＆HTC PPC6800，UTStarcom PPC6800，UTStarcom＆Verizon XV6800，Telecom New Zealand＆HTC Titan。
 
 ## 技術規格

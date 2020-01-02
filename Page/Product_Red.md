@@ -1,3 +1,6 @@
+> 本文内容由[Product Red](https://zh.wikipedia.org/wiki/Product_Red)转换而来。
+
+
 [Nano_omores.jpg](https://zh.wikipedia.org/wiki/File:Nano_omores.jpg "fig:Nano_omores.jpg") 由第二代开始苹果公司推出iPod Nano的Product Red Special Edition，分別有4GB與8GB可供選擇\]\] **Product Red**（樣式為<font color="#9F1D1D">**<big><big>(</big></big>PRODUCT<big><big>)</big></big><sup>RED<small>™</small></sup>**</font>）是一個曾授權予如[美國運通](../Page/美國運通.md "wikilink")、[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、[匡威](../Page/匡威.md "wikilink")、[摩托羅拉](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")、[蓋普與](https://zh.wikipedia.org/wiki/Gap_\(服飾\) "wikilink")[喬治·阿瑪尼等合作夥伴公司的營利性](https://zh.wikipedia.org/wiki/喬治·阿瑪尼 "wikilink")[品牌](../Page/品牌.md "wikilink")，由[U2的](https://zh.wikipedia.org/wiki/U2 "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[波諾與](https://zh.wikipedia.org/wiki/波諾 "wikilink")[Debt AIDS Trade in Africa](https://zh.wikipedia.org/wiki/Debt_AIDS_Trade_in_Africa "wikilink") (DATA)的Bobby Shriver著手創立以為[全球防治愛滋病、結核病和瘧疾基金籌款](https://zh.wikipedia.org/wiki/全球基金 "wikilink")。現已宣佈Bobby Shrive為Product Red的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")，而波諾為該品牌現時的公眾代言人。
 
 每間合作公司會製作包含Product Red商標的產品，作為經由銷售Product Red產品而增加[收入的回報](https://zh.wikipedia.org/wiki/收入 "wikilink")，[利潤的其中一個百分比會捐贈給全球基金](https://zh.wikipedia.org/wiki/利潤 "wikilink")\[1\]。

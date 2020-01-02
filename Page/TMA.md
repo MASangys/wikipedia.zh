@@ -1,3 +1,6 @@
+> 本文内容由[TMA](https://zh.wikipedia.org/wiki/TMA)转换而来。
+
+
 **TMA**（）是[日本](../Page/日本.md "wikilink")一家[色情片製作公司](../Page/色情片製作公司.md "wikilink")。
 
 ## 公司简介

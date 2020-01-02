@@ -1,3 +1,6 @@
+> 本文内容由[KGS](https://zh.wikipedia.org/wiki/KGS)转换而来。
+
+
 **KGS**，即KGS[围棋](../Page/围棋.md "wikilink")[服务器](../Page/服务器.md "wikilink")（），2006年前名為棋聖堂围棋服务器（）\[1\]。于1999年开发，2000年开放供人下围棋的游戏服务器。KGS由威廉·M·舒伯特（）开发，所有[代码](../Page/代码.md "wikilink")用[Java](../Page/Java.md "wikilink")编写。它是世界上最大的围棋服务器之一，一般任何时刻同时有超过一千五百人在线。KGS经常更新和维护前一百名棋手的列表\[2\]（按KGS计算的等级分排序）\[3\]
 
 KGS经常转播国际比赛和国家锦标赛的棋局。\[4\] 每月一次的[电脑围棋比赛在KGS的电脑围棋房间举行](https://zh.wikipedia.org/wiki/电脑围棋 "wikilink")。\[5\]

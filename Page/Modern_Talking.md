@@ -1,3 +1,6 @@
+> 本文内容由[Modern Talking](https://zh.wikipedia.org/wiki/Modern_Talking)转换而来。
+
+
 **** 是一支[德国](../Page/德国.md "wikilink")流行音乐[双人组合](https://zh.wikipedia.org/wiki/双人组合 "wikilink")，由 [Thomas Anders](http://de.wikipedia.org/wiki/Thomas_Anders) 和 [Dieter Bohlen](http://de.wikipedia.org/wiki/Dieter_Bohlen) 组成。
 
 直到目前为止，Modern Talking是最成功的德国流行组合。他们的曲调给人印象深刻，並以[英语](../Page/英语.md "wikilink")演唱為主。

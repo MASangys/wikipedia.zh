@@ -1,3 +1,6 @@
+> 本文内容由[Tencent Messenger](https://zh.wikipedia.org/wiki/Tencent_Messenger)转换而来。
+
+
 {{ OftenUpdate }}   **Tencent Messenger**，简称为**TM**（另有叫法为“腾讯TM”）。TM和[QQ一样](https://zh.wikipedia.org/wiki/QQ "wikilink")，都是由[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")[腾讯公司](https://zh.wikipedia.org/wiki/腾讯公司 "wikilink")（）推出的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，可与QQ互联互通。
 
 ## 历史

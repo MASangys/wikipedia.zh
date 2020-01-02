@@ -1,3 +1,6 @@
+> 本文内容由[義呆利 Axis Powers 角色列表](https://zh.wikipedia.org/wiki/義呆利_Axis_Powers_角色列表)转换而来。
+
+
 表列出漫畫《[義呆利 Axis Powers](../Page/義呆利_Axis_Powers.md "wikilink")》中的登場[角色](../Page/角色.md "wikilink")。其中[每一個角色均代表著不同的國家或地區](https://zh.wikipedia.org/wiki/國家化身 "wikilink")，個性依人們對這些國家的[印象也有所不同](../Page/刻板印象.md "wikilink")。作品本質屬於輕鬆搞笑類型，因此某種程度上迴避了[尖銳的](https://zh.wikipedia.org/wiki/屠殺猶太人 "wikilink")[歷史問題](../Page/南京大屠殺.md "wikilink")，與真實歷史有[較大程度的差異](https://zh.wikipedia.org/wiki/俄日戰爭 "wikilink")。
 
 商業版[廣播劇CD和](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")[電視動畫的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[配音員](../Page/配音員.md "wikilink")是共通的。

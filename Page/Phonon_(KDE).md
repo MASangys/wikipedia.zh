@@ -1,3 +1,6 @@
+> 本文内容由[Phonon \(KDE\)](https://zh.wikipedia.org/wiki/Phonon_\(KDE\))转换而来。
+
+
 **Phonon** 是 KDE 桌面平台提供的多媒体 API，它是处理KDE软件中多媒体流的标准抽象，也被几个Qt应用程序使用。
 
 Phonon 最初是为了让 KDE/Qt 软件能够独立于任何单一的多媒体框架（如[GStreamer](../Page/GStreamer.md "wikilink")或[xine](https://zh.wikipedia.org/wiki/xine "wikilink")），从而为其提供了在主要版本的生命周期内稳定的多媒体API。通过提供一个简单的 KDE/Qt 风格的多媒体API，能够更好地支持 Windows 和 macOS 上的本地多媒体框架，并解决框架变得无法维护或 API/ABI 不稳定的问题。

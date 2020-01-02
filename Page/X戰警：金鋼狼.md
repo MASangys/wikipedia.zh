@@ -1,3 +1,6 @@
+> 本文内容由[X戰警：金鋼狼](https://zh.wikipedia.org/wiki/X戰警：金鋼狼)转换而来。
+
+
 《**X戰警：金鋼狼**》（）是一部於[2009年上映的](../Page/2009年电影.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改编自[漫威漫畫](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》[科幻角色故事](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")，是[X戰警電影系列第四部](https://zh.wikipedia.org/wiki/X戰警_\(電影系列\) "wikilink")，由[蓋文·胡德](https://zh.wikipedia.org/wiki/蓋文·胡德 "wikilink")（Gavin Hood）執導，[大衛·班紐夫編劇](https://zh.wikipedia.org/wiki/David_Benioff "wikilink")。主演包括[休·傑克曼](../Page/休·傑克曼.md "wikilink")、[李佛·薛伯](../Page/李佛·薛伯.md "wikilink")、[萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")、[琳恩·柯林斯](../Page/琳恩·柯林斯.md "wikilink")、[丹尼·休斯頓](../Page/丹尼·休斯頓.md "wikilink")、[泰勒·克奇及](https://zh.wikipedia.org/wiki/泰勒·克奇 "wikilink")[丹尼爾·翰尼](../Page/丹尼爾·海尼.md "wikilink")。電影為《[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警_\(電影系列\) "wikilink")》的前傳，講述金鋼狼的誕生與起源。主要在[新奧爾良地區拍攝](https://zh.wikipedia.org/wiki/新奧爾良 "wikilink")，北美於5月1日上映，[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[香港](../Page/香港.md "wikilink")與[台灣皆在](https://zh.wikipedia.org/wiki/台灣 "wikilink")4月29日提前首映。
 
 續集《[金鋼狼：武士之戰](../Page/金鋼狼：武士之戰.md "wikilink")》於2013年7月26日上映。

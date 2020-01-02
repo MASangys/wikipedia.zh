@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM AGE角色列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_AGE角色列表)转换而来。
+
+
 {{ OftenUpdate }}   **機動戰士GUNDAM AGE 角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM AGE](../Page/機動戰士GUNDAM_AGE.md "wikilink")》及其外傳登場的角色。
 
 ## 第一部

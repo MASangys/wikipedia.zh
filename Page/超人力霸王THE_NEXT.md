@@ -1,3 +1,6 @@
+> 本文内容由[超人力霸王THE NEXT](https://zh.wikipedia.org/wiki/超人力霸王THE_NEXT)转换而来。
+
+
 《**超人力霸王THE NEXT**》（原題：ULTRAMAN），是2004年12月18日在[日本](../Page/日本.md "wikilink")上映，由[圓谷製作](../Page/圓谷製作.md "wikilink")與[松竹映畫所製作的](https://zh.wikipedia.org/wiki/松竹映畫 "wikilink")[超人力霸王](../Page/超人力霸王.md "wikilink")電影作品，「ULTRAMAN N PROJECT」作品之一。
 
 ## 劇情簡介

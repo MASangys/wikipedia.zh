@@ -1,3 +1,6 @@
+> 本文内容由[WxWidgets](https://zh.wikipedia.org/wiki/WxWidgets)转换而来。
+
+
 **wxWidgets**（，原名**wxWindows**\[1\]）是一個[開放原始碼且](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[物件工具集](../Page/部件工具箱.md "wikilink")（widget toolkit），其[函式庫](../Page/函式庫.md "wikilink")可用來建立基本的[圖形使用者介面](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")（GUI）。wxWidgets由Julian Smart於1992年首先開發。
 
 wxWidgets標榜使用其函式庫所開發的[軟體只需要對](https://zh.wikipedia.org/wiki/軟體 "wikilink")[原始碼做少量更改](https://zh.wikipedia.org/wiki/原始碼 "wikilink")（或者完全不用更改），就能在各種不同的作業平台上編譯並執行。目前可支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Apple Macintosh](https://zh.wikipedia.org/wiki/Apple_Macintosh "wikilink")、[Linux](../Page/Linux.md "wikilink")／[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")（轉譯成[X11](https://zh.wikipedia.org/wiki/X11 "wikilink")、[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")、[Motif](../Page/Motif.md "wikilink")等函式庫）、[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、以及[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")。[嵌入式的版本也正在開發中](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")\[2\]。

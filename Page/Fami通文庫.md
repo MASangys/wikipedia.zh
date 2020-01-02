@@ -1,3 +1,6 @@
+> 本文内容由[Fami通文庫](https://zh.wikipedia.org/wiki/Fami通文庫)转换而来。
+
+
 **Fami通文庫**（，），現是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[enterbrain出版的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[輕小說](../Page/輕小說.md "wikilink")文庫。1998年由Aspect出版社創立，2000年ASCII集團重整後轉到enterbrain旗下。
 
 前身為Aspect發行的Logout冒險文庫（1993年－1996年）、Logout文庫（1997年－1998年）和Fami通遊戲文庫（1996年－1998年）。

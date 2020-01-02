@@ -1,3 +1,6 @@
+> 本文内容由[OrCAD](https://zh.wikipedia.org/wiki/OrCAD)转换而来。
+
+
 **OrCAD**是一套在[個人電腦的](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[電子設計自動化](../Page/電子設計自動化.md "wikilink")套裝軟體，專門用來讓電子工程師設計[電路圖](../Page/電路圖.md "wikilink")及相關圖表，設計[印刷電路板所用的印刷圖](https://zh.wikipedia.org/wiki/印刷電路板 "wikilink")，及電路的-{模擬}-之用。
 
 OrCAD是一個混合名詞，反映了軟體的發源地：俄勒岡（**Or**egon）+計算機輔助設計（**CAD**）。

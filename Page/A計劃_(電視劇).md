@@ -1,3 +1,6 @@
+> 本文内容由[A計劃 \(電視劇\)](https://zh.wikipedia.org/wiki/A計劃_\(電視劇\))转换而来。
+
+
 《**A計劃**》（；[香港](../Page/香港.md "wikilink")譯名《**盜海奇兵**》）是一部於2007年出品的華語電視劇，此劇為[臺灣](../Page/臺灣.md "wikilink")、[香港](../Page/香港.md "wikilink")與[中国大陆](../Page/中国大陆.md "wikilink")合資拍攝製作，全劇共32集，由[張衛健](../Page/張衛健.md "wikilink")、[鍾欣潼](../Page/鍾欣潼.md "wikilink")、[王晶](../Page/王晶.md "wikilink")、[元秋](../Page/元秋.md "wikilink")和[譚耀文](../Page/譚耀文.md "wikilink")等擔任演出。
 
 此劇於2006年8月20日至2006年12月20日期間在[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[横店影视城](../Page/横店影视城.md "wikilink")取景拍攝。

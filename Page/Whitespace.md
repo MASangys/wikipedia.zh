@@ -1,3 +1,6 @@
+> 本文内容由[Whitespace](https://zh.wikipedia.org/wiki/Whitespace)转换而来。
+
+
 [Whitespace_in_vim2.png](https://zh.wikipedia.org/wiki/File:Whitespace_in_vim2.png "fig:Whitespace_in_vim2.png") **Whitespace**是種[深奥的编程语言](../Page/深奥的编程语言.md "wikilink")。它由Edwin Brady和Chris Morris開發，2003年4月1日發佈。大部分的現代程式設計語言都不將空白字元視為語法的一部分。但Whitespace卻只視[空格](../Page/空格.md "wikilink")（space）、[制表符](https://zh.wikipedia.org/wiki/Tab鍵 "wikilink")（tabs）和[換行](../Page/換行.md "wikilink")（new lines）為語法的一部分，它的直譯器忽略所有非空白字元。
 
 它本身是個[指令式](../Page/指令式編程.md "wikilink")、基於[堆疊的語言](https://zh.wikipedia.org/wiki/堆疊 "wikilink")。其程式運行在上的[虛擬機器](../Page/虛擬機器.md "wikilink")均有一個堆疊（Stack）和[堆](https://zh.wikipedia.org/wiki/堆 "wikilink")（Heap）。程式員可自由將整數推進堆疊中（只可以是整數，因為暫時並無浮點數或實數工具）。使用者亦可通過堆作為變數和資料結構的暫存區。

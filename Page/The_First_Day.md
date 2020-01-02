@@ -1,3 +1,6 @@
+> 本文内容由[The First Day](https://zh.wikipedia.org/wiki/The_First_Day)转换而来。
+
+
 ***The First Day***是香港女歌手謝安琪（Kay）出道第三張出的專輯，於2007年1月18日推出。當中3首新歌及9首重灌歌曲。2007年3月1日推出第二版，並加送Kay的第一天音樂會的精華DVD。
 
 ## 收錄歌曲

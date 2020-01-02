@@ -1,3 +1,6 @@
+> 本文内容由[潘多拉TV](https://zh.wikipedia.org/wiki/潘多拉TV)转换而来。
+
+
 **潘朵拉TV**是[南韓代表性的](https://zh.wikipedia.org/wiki/南韓 "wikilink")[UGC](https://zh.wikipedia.org/wiki/UGC "wikilink")[視訊分享網站](https://zh.wikipedia.org/wiki/視訊分享 "wikilink")。建立於1999年2月4日，初名Lettee.com，2004年正式改稱“潘朵拉TV”而正式上線營運。主机用户生成内容，成立於2004年10月。潘朵拉TV是全球第一次附上廣告用户提供視訊方式的視訊分享網站，並提供上傳無限的儲存空间。2008年1月，該網站每月有2000萬訪問者造訪。
 
 在南韓潘朵拉TV被評為最佳視訊分享網站，排名前15名(2009年3月)。自2008年4月開始提供四種語言服務。

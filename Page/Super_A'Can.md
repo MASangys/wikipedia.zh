@@ -1,3 +1,6 @@
+> 本文内容由[Super A\'Can](https://zh.wikipedia.org/wiki/Super_A\'Can)转换而来。
+
+
 **Super A'can**是[臺灣](../Page/臺灣.md "wikilink")[敦煌科技推出的家用](https://zh.wikipedia.org/wiki/敦煌科技 "wikilink")[電子遊樂器](https://zh.wikipedia.org/wiki/電子遊樂器 "wikilink")，於1995年10月25日開始販售，英文代号F-16，中文名敦煌。製造商為[聯華電子](../Page/聯華電子.md "wikilink")。
 
 ## 特色

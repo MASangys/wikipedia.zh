@@ -1,3 +1,6 @@
+> 本文内容由[Sound Forge](https://zh.wikipedia.org/wiki/Sound_Forge)转换而来。
+
+
 **Sony Sound Forge**，正式名稱是*[Sonic Foundry](../Page/Sonic_Foundry.md "wikilink") Sound Forge*，它是一個聲音編輯套裝軟體，主要是針對專業市場。
 
 *[Sound Forge Audio Studio](https://zh.wikipedia.org/wiki/Sound_Forge_Audio_Studio "wikilink")*是一個功能受限的版本，提供給低價的市場。正式的名稱是*Sonic Foundry's Sound Forge LE*。

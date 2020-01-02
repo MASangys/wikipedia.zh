@@ -1,3 +1,6 @@
+> 本文内容由[P·D·詹姆斯](https://zh.wikipedia.org/wiki/P·D·詹姆斯)转换而来。
+
+
 **菲麗絲·桃樂絲·詹姆斯，荷蘭公園的詹姆斯女爵**，[OBE](https://zh.wikipedia.org/wiki/不列顛帝國勳章 "wikilink")，[FRSA](https://zh.wikipedia.org/wiki/皇家藝術學會 "wikilink")，[FRSL](../Page/皇家文學學會.md "wikilink")（**Phyllis Dorothy James, Baroness James of Holland Park**，）是一位[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[犯罪小說的女作家](https://zh.wikipedia.org/wiki/犯罪小說 "wikilink")，1991年封[終身貴族](../Page/終身貴族.md "wikilink")進入[上議院](../Page/英國上議院.md "wikilink")。
 
 ## 作品

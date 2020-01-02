@@ -1,3 +1,6 @@
+> 本文内容由[相良牧之原IC](https://zh.wikipedia.org/wiki/相良牧之原IC)转换而来。
+
+
 **相良牧之原IC**（平假名：さがらまきのはらインターチェンジ）是位於[靜岡縣](../Page/靜岡縣.md "wikilink")[牧之原市](../Page/牧之原市.md "wikilink")的[東名高速道路之](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[交流道](../Page/交流道.md "wikilink")。此交流道連接[金谷御前崎連絡道路](https://zh.wikipedia.org/wiki/金谷御前崎連絡道路 "wikilink")**牧之原IC**（平假名：まきのはらインターチェンジ）。
 
 ## 連接道路

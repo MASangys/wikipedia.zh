@@ -1,3 +1,6 @@
+> 本文内容由[NTFS](https://zh.wikipedia.org/wiki/NTFS)转换而来。
+
+
 **NTFS**（），是[Microsoft公司开发的](https://zh.wikipedia.org/wiki/Microsoft "wikilink")[专用](../Page/专有软件.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")，从[Windows NT 3.1开始成为](../Page/Windows_NT_3.1.md "wikilink")[Windows NT家族的标准文件系统](../Page/Windows_NT.md "wikilink")。\[1\]
 
 NTFS取代[FAT](../Page/FAT.md "wikilink")（文件分配表）和[HPFS](https://zh.wikipedia.org/wiki/HPFS "wikilink")（高性能文件系统）并进行一系列改进，例如增强对[元数据](../Page/元数据.md "wikilink")的支持，使用更高级的数据结构以提升性能、可靠性和磁盘空间利用率，并附带一系列增强功能，如[访问控制列表](https://zh.wikipedia.org/wiki/访问控制列表 "wikilink")（ACL）和[文件系统日志](https://zh.wikipedia.org/wiki/文件系统日志 "wikilink")。

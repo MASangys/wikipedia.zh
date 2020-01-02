@@ -1,3 +1,6 @@
+> 本文内容由[KOH⁺](https://zh.wikipedia.org/wiki/KOH⁺)转换而来。
+
+
 **KOH⁺**是由[日本](../Page/日本.md "wikilink")[演员](https://zh.wikipedia.org/wiki/演员 "wikilink")[柴崎幸与](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")[福山雅治](../Page/福山雅治.md "wikilink")所组成的[流行樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，由柴崎幸担任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")，而福山雅治则负责演奏以及[作曲和](https://zh.wikipedia.org/wiki/作曲 "wikilink")[编曲的工作](https://zh.wikipedia.org/wiki/编曲 "wikilink")。
 
 ## 简介

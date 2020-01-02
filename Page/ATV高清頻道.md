@@ -1,3 +1,6 @@
+> 本文内容由[ATV高清頻道](https://zh.wikipedia.org/wiki/ATV高清頻道)转换而来。
+
+
 **aTV9高清頻道**（簡稱**aTV9**，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**aTV HDTV**）是香港[亞洲電視](../Page/亞洲電視.md "wikilink")的一條以[高清格式播放的](https://zh.wikipedia.org/wiki/高清電視 "wikilink")[數碼電視頻道](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")，2007年12月31日晚19:00开播。该频道仅在晚上20:00-22:00/19:00-22:00（星期六日）播出[1](https://web.archive.org/web/20071228160625/http://www.hkatv.com/v3/schedule/schedule-19.html)，星期日亦會播放一套[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。\[1\]为改善播出质量，该频道播出节目期间，[動感資訊](../Page/動感資訊頻道.md "wikilink")/[魅力資訊](../Page/魅力資訊頻道.md "wikilink")/[文化資訊会暂停播出](../Page/文化資訊頻道.md "wikilink")（该三个频道的节目单对有关时段以“高清广播”标注）。\[2\]该频道暫停廣播時，会通过四個小螢幕分別显示[新聞財經](../Page/新聞財經頻道.md "wikilink")、[動感資訊](../Page/動感資訊頻道.md "wikilink")、[魅力資訊和](../Page/魅力資訊頻道.md "wikilink")[文化資訊四條標清頻道的即時畫面](../Page/文化資訊頻道.md "wikilink")（當中以新聞財經頻道的畫面較大），右方則以文字顯示即時新聞簡訊，[2008亞洲小姐競選的佳麗資料亦安排於此播放](https://zh.wikipedia.org/wiki/2008亞洲小姐競選 "wikilink")，有关安排自2009年亞視宣布重組頻道後取消。該頻道須以升級版[DMB-T/H接收器才能接收](https://zh.wikipedia.org/wiki/DMB-T/H "wikilink")，頻道號碼為19。
 
 此頻道每日只在傍晚開始的「[黃金時間」播放](https://zh.wikipedia.org/wiki/黃金時間」 "wikilink")2-3小時，另外相信是要遷就賽馬日於[動感資訊頻道](../Page/動感資訊頻道.md "wikilink")播放賽馬節目，因此**高清頻道**在星期三晚上通常都不會廣播\[3\]。

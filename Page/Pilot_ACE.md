@@ -1,3 +1,6 @@
+> 本文内容由[Pilot ACE](https://zh.wikipedia.org/wiki/Pilot_ACE)转换而来。
+
+
 **Pilot ACE**是一台[英国的第一代](https://zh.wikipedia.org/wiki/英国 "wikilink")[电子计算机](../Page/电子计算机.md "wikilink")，是由[英国国家物理实验室](https://zh.wikipedia.org/wiki/英国国家物理实验室 "wikilink")（NPL）于1950年代早期设计制造。
 
 Pilot ACE是[图灵设计的](https://zh.wikipedia.org/wiki/图灵 "wikilink")[ACE的一个预选方案](../Page/ACE_\(电子计算机\).md "wikilink")。在图灵离开NPL（部分原因是由于ACE的延期而灰心）后，[詹姆斯·哈迪·威尔金森](../Page/詹姆斯·哈迪·威尔金森.md "wikilink")接手项目，Harry Huskey协助设计。该机器在1950年5月10日首次成功运行其第一个程序，并于当年12月公开演示。

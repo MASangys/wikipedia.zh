@@ -1,3 +1,6 @@
+> 本文内容由[Cuil](https://zh.wikipedia.org/wiki/Cuil)转换而来。
+
+
 **Cuil**（, "*cool*"）是一個於2008年7月28日正式運作的[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")\[1\]\[2\]。目前主要由[Google](../Page/Google.md "wikilink")的前僱員管理和開發\[3\]。公司已從[Greylock及其他](https://zh.wikipedia.org/wiki/Greylock "wikilink")[風險投資](https://zh.wikipedia.org/wiki/風險投資 "wikilink")[基金](../Page/基金.md "wikilink")公司籌集了三千三百萬[美元](../Page/美元.md "wikilink")[資本](https://zh.wikipedia.org/wiki/資本 "wikilink")\[4\]。
 
 在2004年，帕特森曾經研發過**Recall**技術，並賣給Google，而她本人亦加入Google公司。2006年，她又離開Google，並與[丈夫](../Page/丈夫.md "wikilink")和另外兩位前Google同事合作發展Cuil搜尋引擎。目前，Cuil已經可以搜尋1200億個網頁。至2008年12月4日，cuil對於「[HTC Touch Diamond](../Page/HTC_Touch_Diamond.md "wikilink")」的搜尋能力是 51,756,609張，約為Google（13,100,000張）的4倍左右。Cuil的名稱是來自[盖尔语的Cuill](https://zh.wikipedia.org/wiki/盖尔语 "wikilink")，意思是「知识」。

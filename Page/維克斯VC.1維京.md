@@ -1,3 +1,6 @@
+> 本文内容由[維克斯VC.1維京](https://zh.wikipedia.org/wiki/維克斯VC.1維京)转换而来。
+
+
 **維克斯VC.1維京**（）是一個[英國製造的短程](https://zh.wikipedia.org/wiki/英國 "wikilink")[活塞雙](https://zh.wikipedia.org/wiki/活塞 "wikilink")[發動機](https://zh.wikipedia.org/wiki/發動機 "wikilink")[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")，由[維克斯-阿姆斯特朗公司生產](https://zh.wikipedia.org/wiki/維克斯-阿姆斯特朗 "wikilink")，改良自[維克斯威靈頓轟炸機](https://zh.wikipedia.org/wiki/維克斯威靈頓轟炸機 "wikilink")。[第二次世界大戰結束後](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，還未有其它更先進的[渦輪螺旋槳發動機](../Page/渦輪螺旋槳發動機.md "wikilink")飛機、如[維克斯子爵式之前](https://zh.wikipedia.org/wiki/維克斯子爵式 "wikilink")，VC.1在[英國的航空公司有很重要的地位](https://zh.wikipedia.org/wiki/英國 "wikilink")。而在1948年首飛，裝備[勞斯萊斯發動機的非正式VC](https://zh.wikipedia.org/wiki/勞斯萊斯 "wikilink").1型號，是英國首個噴射式運輸機。
 
 ## 設計和發展

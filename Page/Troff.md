@@ -1,3 +1,6 @@
+> 本文内容由[Troff](https://zh.wikipedia.org/wiki/Troff)转换而来。
+
+
 troff是一个由[AT\&T](../Page/AT&T.md "wikilink")为[Unix开发的](https://zh.wikipedia.org/wiki/Unix "wikilink")[文字处理软件](../Page/文字处理器.md "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[伯奈利M1 Super 90半自動霰彈槍](https://zh.wikipedia.org/wiki/伯奈利M1_Super_90半自動霰彈槍)转换而来。
+
+
 **伯奈利M1（Super 90）**（）是一枝由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")所設計及生產的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 簡介

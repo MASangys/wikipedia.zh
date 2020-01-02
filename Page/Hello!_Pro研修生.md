@@ -1,3 +1,6 @@
+> 本文内容由[Hello! Pro研修生](https://zh.wikipedia.org/wiki/Hello!_Pro研修生)转换而来。
+
+
 **Hello\! Pro研修生**（****）舊稱Hello\! Pro EGG\[1\]（）。[早安家族](../Page/早安家族.md "wikilink")的成員，為主要成員以外的「研修生」。
 
 目前Hello\! Pro研修生共18人；Hello\! Pro研修生北海道共2人。 在[早安家族](../Page/早安家族.md "wikilink")冬、夏演唱會，或者各團體的演唱會中擔任伴舞。

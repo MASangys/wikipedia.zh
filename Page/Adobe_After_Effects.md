@@ -1,3 +1,6 @@
+> 本文内容由[Adobe After Effects](https://zh.wikipedia.org/wiki/Adobe_After_Effects)转换而来。
+
+
 **Adobe After Effects**是一套影片製作軟體，現在由[Adobe](../Page/Adobe.md "wikilink")公司提供更新，用於[2D和](https://zh.wikipedia.org/wiki/2D "wikilink")[3D合成](https://zh.wikipedia.org/wiki/3D "wikilink")、[動畫製作和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[視覺特效](https://zh.wikipedia.org/wiki/視覺效果 "wikilink")，是基於[非線性編輯的軟體](https://zh.wikipedia.org/wiki/非線性編輯 "wikilink")。
 
 ## 工作模式

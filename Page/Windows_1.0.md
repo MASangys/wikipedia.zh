@@ -1,3 +1,6 @@
+> 本文内容由[Windows 1.0](https://zh.wikipedia.org/wiki/Windows_1.0)转换而来。
+
+
 **Microsoft Windows 1.0**是[微软](../Page/微软.md "wikilink")第一次对[个人电脑](../Page/个人电脑.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")进行[用户图形界面的尝试](https://zh.wikipedia.org/wiki/用户图形界面 "wikilink")。Windows 1.0基于[MS-DOS](../Page/MS-DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
 
 [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") Windows 1.0是[Windows系列的第一个产品](https://zh.wikipedia.org/wiki/Windows "wikilink")，於1985年11月20日开始发行。

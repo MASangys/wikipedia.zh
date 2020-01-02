@@ -1,3 +1,6 @@
+> 本文内容由[Ghost Friends](https://zh.wikipedia.org/wiki/Ghost_Friends)转换而来。
+
+
 《**Ghost Friends**》於2009年4月2日起，逢星期四20:00 - 20:45（日本時間）播出。
 
 ## 登場人物及演員

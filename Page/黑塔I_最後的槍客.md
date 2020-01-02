@@ -1,3 +1,6 @@
+> 本文内容由[黑塔I 最後的槍客](https://zh.wikipedia.org/wiki/黑塔I_最後的槍客)转换而来。
+
+
 《**最後的槍客**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬·金所寫的長篇](https://zh.wikipedia.org/wiki/史蒂芬·金 "wikilink")[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第一集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")。這本書最初是五個連續的短篇故事，於1978年到1981年之間出版，直到1982年才正式以長篇小說的形式出版。2003年，史蒂芬·金大幅地重寫本作，成為現在在市面上流通的版本。故事主要在講槍客[羅蘭追逐他的敵人黑衣人](../Page/羅蘭·德斯欽.md "wikilink")[華特的經過](https://zh.wikipedia.org/wiki/華特·歐汀 "wikilink")。故事隨著羅蘭的追逐穿越了沙漠。途中他遇到一名來自[紐約的男孩傑克](https://zh.wikipedia.org/wiki/紐約 "wikilink")，傑克隨即成為羅蘭的旅行同伴。
 
 ## 靈感與出版

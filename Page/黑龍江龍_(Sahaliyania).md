@@ -1,3 +1,6 @@
+> 本文内容由[黑龍江龍 \(Sahaliyania\)](https://zh.wikipedia.org/wiki/黑龍江龍_\(Sahaliyania\))转换而来。
+
+
 **黑龍江龍屬**（[屬名](https://zh.wikipedia.org/wiki/屬 "wikilink")：）是[鴨嘴龍科](../Page/鴨嘴龍科.md "wikilink")[賴氏龍亞科](../Page/賴氏龍亞科.md "wikilink")的一屬，化石發現於[中國](../Page/中國.md "wikilink")[黑龍江省](https://zh.wikipedia.org/wiki/黑龍江省 "wikilink")，年代為[白堊紀晚期](https://zh.wikipedia.org/wiki/白堊紀 "wikilink")。
 
 黑龍江龍的化石發現於黑龍江省[漁亮子組的一個](https://zh.wikipedia.org/wiki/漁亮子組 "wikilink")[屍骨層](https://zh.wikipedia.org/wiki/屍骨層 "wikilink")，與[鴨嘴龍亞科](https://zh.wikipedia.org/wiki/鴨嘴龍亞科 "wikilink")[烏拉嘎龍的化石一起被發現](https://zh.wikipedia.org/wiki/烏拉嘎龍 "wikilink")。在2008年，帕斯卡·迦得弗利茲教授（Pascal Godefroit）與其同事宣布發現了這兩種恐龍。[模式種](../Page/模式種.md "wikilink")是**鄂倫春黑龍江龍**（*S. elunchunorum*），屬名在[滿語中意為](https://zh.wikipedia.org/wiki/滿語 "wikilink")「黑」，意指[黑龍江](https://zh.wikipedia.org/wiki/黑龍江 "wikilink")；種名則是以[鄂倫春族為名](https://zh.wikipedia.org/wiki/鄂倫春族 "wikilink")\[1\]。

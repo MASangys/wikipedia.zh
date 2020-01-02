@@ -1,3 +1,6 @@
+> 本文内容由[MF文庫J輕小說新人獎](https://zh.wikipedia.org/wiki/MF文庫J輕小說新人獎)转换而来。
+
+
 **MF文庫J輕小說新人獎**（），是[角川公司](https://zh.wikipedia.org/wiki/角川公司 "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink")）的旗下品牌[Media Factory所主辦之](../Page/Media_Factory.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")新人獎。以三個月為單位，每年舉辦四次的預備審查，然後再從中選出整年的最優秀獎（亦有從缺的情況：到2007年九月為止，沒有出現過最優秀獎）。佳作以上的作品會由同社的輕小說文庫《[MF文庫J](../Page/MF文庫J.md "wikilink")》出版。
 
 最優秀獎得獎者可以得到正賞的獎牌與副賞100萬日元，優秀獎50萬日元，佳作10萬日元。通過三次審查的作品，無論最終是否得獎，作者會獲邀至MF文庫J編輯部與編輯者面對面對話。

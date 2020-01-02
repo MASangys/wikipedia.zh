@@ -1,3 +1,6 @@
+> 本文内容由[Stand UP!!](https://zh.wikipedia.org/wiki/Stand_UP!!)转换而来。
+
+
 **Stand Up\!\!**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")的一部[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，從2003年7月4日開始到2003年9月12日止播出，共11集。背景是描寫日本[東京都](../Page/東京都.md "wikilink")[品川區](../Page/品川區.md "wikilink")[戶越](../Page/戶越.md "wikilink")的[高中生們的青春喜劇](https://zh.wikipedia.org/wiki/高中生 "wikilink")。
 
 海外播出方面，[台灣分別由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS-G與](../Page/TVBS歡樂台.md "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")，於2004年5月29日晚間7時及2008年2月19日晚間8時播出。2003年12月19日在日本發售『Stand Up\!\!』[DVD-Video](../Page/DVD-Video.md "wikilink")。

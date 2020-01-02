@@ -1,3 +1,6 @@
+> 本文内容由[Dearest \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Dearest_\(濱崎步單曲\))转换而来。
+
+
 \-{T|Dearest}-
 
 《**Dearest**》（最愛）是[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")第24張單曲，2001年9月27日於日本發售。

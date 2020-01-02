@@ -1,3 +1,6 @@
+> 本文内容由[DownThemAll!](https://zh.wikipedia.org/wiki/DownThemAll!)转换而来。
+
+
 ****（簡稱****）是[Firefox](../Page/Firefox.md "wikilink")的一个[下载](../Page/下载.md "wikilink")管理器软件。它支持[多线程](../Page/多线程.md "wikilink")、续传、批量文件下载，同时允许[HTTP和](https://zh.wikipedia.org/wiki/HTTP "wikilink")[FTP协议](https://zh.wikipedia.org/wiki/FTP "wikilink")。
 
 DTA是在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")协议下的[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。

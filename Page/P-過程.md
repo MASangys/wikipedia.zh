@@ -1,3 +1,6 @@
+> 本文内容由[P-過程](https://zh.wikipedia.org/wiki/P-過程)转换而来。
+
+
 **P-過程**是發生在[超新星](../Page/超新星.md "wikilink")的核心塌縮時進行的[核合成](../Page/核合成.md "wikilink")（參見[超新星核合成](../Page/超新星核合成.md "wikilink")），對[比鐵重且富含](https://zh.wikipedia.org/wiki/重金屬 "wikilink")[質子](../Page/質子.md "wikilink")[原子核](../Page/原子核.md "wikilink")的產生有不可忽視的貢獻。
 
 ## 歷史

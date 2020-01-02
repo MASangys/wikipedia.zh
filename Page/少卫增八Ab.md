@@ -1,3 +1,6 @@
+> 本文内容由[少卫增八Ab](https://zh.wikipedia.org/wiki/少卫增八Ab)转换而来。
+
+
 **少卫增八Ab**是一颗位于[仙王座](../Page/仙王座.md "wikilink")[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")，距离[地球](../Page/地球.md "wikilink")45[光年](../Page/光年.md "wikilink")，其母星为[少卫增八A](https://zh.wikipedia.org/wiki/少卫增八 "wikilink")。科学家于2002年证实它是一颗[行星](../Page/行星.md "wikilink")，但是早在1988年，人们即怀疑其是行星家族的成员（这使得少卫增八Ab成为第一颗被发现的系外行星）。
 
 ## 探测与发现

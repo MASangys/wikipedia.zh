@@ -1,3 +1,6 @@
+> 本文内容由[Gourmet](https://zh.wikipedia.org/wiki/Gourmet)转换而来。
+
+
 **Gourmet**是[長江和記實業](../Page/長江和記實業.md "wikilink")旗下[屈臣氏集團](../Page/屈臣氏集團.md "wikilink")於2005年6月於[香港](../Page/香港.md "wikilink")設立的超級市場，主要對象是[中產階級](../Page/中產階級.md "wikilink")的消費者，售賣世界各地之入口食品為主。Gourmet於2011年2月27日暫停營業，以便由原址[銅鑼灣](../Page/銅鑼灣.md "wikilink")[利園一期](../Page/利園一期.md "wikilink")地庫搬遷至[禮頓中心](../Page/禮頓中心.md "wikilink")地庫，並於2012年1月在新址重新開業。
 
 Gourmet的[利園一期](../Page/利園一期.md "wikilink")商場原址是翻新[屈臣氏集團](../Page/屈臣氏集團.md "wikilink")旗下[百佳超級市場](https://zh.wikipedia.org/wiki/百佳 "wikilink")，並改成新模式經營，店內出售的產品較同集團旗下[百佳多及進口貨品](https://zh.wikipedia.org/wiki/百佳 "wikilink")。新店位於[禮頓中心](../Page/禮頓中心.md "wikilink")B2地庫，位置較隱閉，內部裝修與一般[百佳無異](https://zh.wikipedia.org/wiki/百佳 "wikilink")。

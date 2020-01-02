@@ -1,3 +1,6 @@
+> 本文内容由[TP-Link](https://zh.wikipedia.org/wiki/TP-Link)转换而来。
+
+
 **TP-Link**（中文全称：**普联技术有限公司**）是[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[网络通讯设备研制企业](https://zh.wikipedia.org/wiki/网络通讯设备 "wikilink")。
 
 ## 历史

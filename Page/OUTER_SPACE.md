@@ -1,3 +1,6 @@
+> 本文内容由[OUTER SPACE](https://zh.wikipedia.org/wiki/OUTER_SPACE)转换而来。
+
+
 **OUTER SPACE**（外太空），是台灣一時裝品牌，由[Circus樂團](../Page/Circus_\(台灣樂團\).md "wikilink")、[CIRCUS ACTION主持人](../Page/CIRCUS_ACTION.md "wikilink")[廖人帥於](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")2007年成立。OUTER SPACE所有貨品都會寫著Made in OUTER SPACE，而不是Made in 任何一個國家、地區。因Leo認為地球是大家的，不單只是人類所有，而國家的出現也是人們因為私人利益而產生的名詞罷了，也因為有了國家，所以產生了戰爭，國家為了方便控制人民思想，於是富麗堂皇說著愛國心來整合控制大家的思想。
 
 ## [CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS "wikilink")

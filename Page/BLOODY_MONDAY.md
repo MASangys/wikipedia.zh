@@ -1,3 +1,6 @@
+> 本文内容由[BLOODY MONDAY](https://zh.wikipedia.org/wiki/BLOODY_MONDAY)转换而来。
+
+
 《**BLOODY MONDAY**》是[龍門諒原作](https://zh.wikipedia.org/wiki/亞樹直 "wikilink")、[惠廣史](../Page/惠廣史.md "wikilink")作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。第一部於《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2007年17號開始連載，2009年19號結束，第二部「絕望之匣」（台港版另譯為「潘朵拉-{}-之盒」，新加坡版則是直譯）於2009年秋開始連載。中文版代理部分，台港由[東立出版社](../Page/東立出版社.md "wikilink")在《[新少年快報](../Page/新少年快報.md "wikilink")》連載，新加坡則是[創藝出版社](../Page/創藝出版社.md "wikilink")發行。第三部「最終時刻」於2011年7月開始連載。
 
 2008年10月由[TBS電視台](../Page/TBS電視台.md "wikilink")改編為[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[緯來日本台](../Page/緯來日本台.md "wikilink")播出，並譯為《**天才駭客F**》。2010年1月播出第二部《**天才駭客F 2**》。

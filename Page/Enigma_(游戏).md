@@ -1,3 +1,6 @@
+> 本文内容由[Enigma \(游戏\)](https://zh.wikipedia.org/wiki/Enigma_\(游戏\))转换而来。
+
+
 ***Enigma***是一个[运输解谜](https://zh.wikipedia.org/wiki/运输解谜 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，游戏理念基于*[Oxyd](https://zh.wikipedia.org/wiki/Oxyd "wikilink")*，但授权协议是[GPL的](https://zh.wikipedia.org/wiki/GPL "wikilink")*Enigma*获得广泛好评。\[1\]\[2\]
 
 地形逻辑益智游戏，快速灵活使用[定位设备](https://zh.wikipedia.org/wiki/定位设备 "wikilink")（如合适的鼠标）。地形用[Lua](../Page/Lua.md "wikilink")脚本编写。有关卡编辑器。

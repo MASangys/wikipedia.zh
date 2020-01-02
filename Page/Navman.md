@@ -1,3 +1,6 @@
+> 本文内容由[Navman](https://zh.wikipedia.org/wiki/Navman)转换而来。
+
+
 **Navman**（纳维特）是一家[新西兰](../Page/新西兰.md "wikilink")的[卫星导航系统](../Page/卫星导航系统.md "wikilink")制造商，成立于1988年，产品线覆盖一体式[GPS设备](https://zh.wikipedia.org/wiki/GPS "wikilink")、[OEM](https://zh.wikipedia.org/wiki/OEM "wikilink") GPS模块、[Palm](../Page/Palm.md "wikilink")[掌上电脑和](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")[Pocket PC使用的GPS软件](../Page/Pocket_PC.md "wikilink")、[车载导航系统和航海导航系统](https://zh.wikipedia.org/wiki/车载导航系统 "wikilink")。
 
 [j32_1_small.jpg](https://zh.wikipedia.org/wiki/File:j32_1_small.jpg "fig:j32_1_small.jpg") 2004年6月，Brunswick公司收购Navman。2007年2月22日，Brunswick宣布，已经签署协议，将便携式导航设备部门出售给[台湾的](https://zh.wikipedia.org/wiki/台湾 "wikilink")[神達電腦](../Page/神達電腦.md "wikilink")。2008年，[宇達電通](../Page/宇達電通.md "wikilink")的Mio與Navman品牌正式合併，以Mio為存續品牌。

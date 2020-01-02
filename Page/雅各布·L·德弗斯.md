@@ -1,3 +1,6 @@
+> 本文内容由[雅各布·L·德弗斯](https://zh.wikipedia.org/wiki/雅各布·L·德弗斯)转换而来。
+
+
 **雅各布·L·德弗斯** (Jacob "Jake" Loucks Devers，），美国陆军上將，擅長裝甲戰；他被人最讚回憶是在[第二次世界大戰歐洲戰場他帥領美軍第](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")6軍團自光復法國南部到攻佔德國南部，并在[D日](../Page/D日.md "wikilink")後第一個到達萊茵河的軍官。
 
 ## 生平

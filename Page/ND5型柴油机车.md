@@ -1,3 +1,6 @@
+> 本文内容由[ND5型柴油机车](https://zh.wikipedia.org/wiki/ND5型柴油机车)转换而来。
+
+
 **ND5型柴油机车**，是[中国铁路使用的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")。ND5型柴油机车是由[美国](../Page/美国.md "wikilink")[通用电气](../Page/通用电气.md "wikilink")公司（GE）运输系统商业分公司制造的干线货运用内燃机车。第一批ND5机车编号001至220，于1984年7月至12月制造。其余第二批202辆机车编号221至422，于1985年10月到1986年1月间制造。
 
 ## 概要

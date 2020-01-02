@@ -1,3 +1,6 @@
+> 本文内容由[Nin9 2 5ive](https://zh.wikipedia.org/wiki/Nin9_2_5ive)转换而来。
+
+
 **《Nin9 2 5ive》**是[容祖兒](../Page/容祖兒.md "wikilink")第十四張個人唱片，於2004年4月29日公開發售。《Nin9 2 5ive》第二版隨後亦以全新封面推出發行，隨碟附送3首Music Video。
 
 ## 專輯介紹

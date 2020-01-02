@@ -1,3 +1,6 @@
+> 本文内容由[对称群 \(n次对称群\)](https://zh.wikipedia.org/wiki/对称群_\(n次对称群\))转换而来。
+
+
 [Symmetric_group_4;_Cayley_graph_4,9.svg](https://zh.wikipedia.org/wiki/File:Symmetric_group_4;_Cayley_graph_4,9.svg "fig:Symmetric_group_4;_Cayley_graph_4,9.svg")\]\]
 
 数学上，集合*X*上的**对称群**记作S<sub>*X*</sub>或Sym(*X*)。它的元素是所有*X*到*X*自身的双射。由于恒等函数是双射，双射的反函数也是双射，并且两个双射的复合仍是双射，这个集合关于函数的复合成为群，即是**置换群**Sym(*X*)。两个函数的复合一般记作*f* o *g*，在置换群的表示里简记作*fg*。

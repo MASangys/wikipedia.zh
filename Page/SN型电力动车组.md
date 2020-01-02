@@ -1,3 +1,6 @@
+> 本文内容由[SN型电力动车组](https://zh.wikipedia.org/wiki/SN型电力动车组)转换而来。
+
+
 **SN型电力动车组**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，适用于供电制式为3000伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")设计制造。SN型电力动车组是在[S型电力动车组](../Page/S型电力动车组.md "wikilink")基础上改进而成的实验性车型，采用了新型[牵引电动机及架悬式](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，最高运行速度为130公里/小时。这种列车虽然未投入批量生产，但为后来取得极大成功的[ER1](../Page/ER1型电力动车组.md "wikilink")、[ER2型电力动车组](../Page/ER2型电力动车组.md "wikilink")奠定了基础。
 
 ## 发展历史

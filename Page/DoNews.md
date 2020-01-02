@@ -1,3 +1,6 @@
+> 本文内容由[DoNews](https://zh.wikipedia.org/wiki/DoNews)转换而来。
+
+
 **DoNews**是一个[IT资讯发布的综合社区网站](https://zh.wikipedia.org/wiki/IT "wikilink")，也被称为“斗牛士”。网站由[刘韧](https://zh.wikipedia.org/wiki/刘韧 "wikilink")、[杜红超和](https://zh.wikipedia.org/wiki/杜红超 "wikilink")[林兴陆发起](https://zh.wikipedia.org/wiki/林兴陆 "wikilink")，成立于2000年4月19日。至2005年底，它拥有注册用户约3.2万。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]现已成立多牛传媒公司，旗下拥有DoNews、[人人网](../Page/人人网.md "wikilink")、[电玩巴士](../Page/电玩巴士.md "wikilink")、NGA等知名网站。
 
 ## 网站服务

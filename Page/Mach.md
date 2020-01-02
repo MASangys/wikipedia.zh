@@ -1,3 +1,6 @@
+> 本文内容由[Mach](https://zh.wikipedia.org/wiki/Mach)转换而来。
+
+
 **Mach**（）是一個由[卡內基梅隆大學开发的计算机](https://zh.wikipedia.org/wiki/卡內基梅隆大學 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[微內核](../Page/微內核.md "wikilink")，為了用於作業系統之研究，特別是在分布式與并行運算上。是最早實現微核心作業系統的例子之一，是許多其它相似的計畫的標準。
 
 Mach開發計畫在卡內基梅隆大學從1985年運行到1994年，到Mach 3.0版結束。其他還有許多人繼續Mach的研究包括[猶他大學的](https://zh.wikipedia.org/wiki/猶他大學 "wikilink")[Mach 4](http://www.cs.utah.edu/flux/mach4/html/Mach4-proj.html)。Mach的開發是為了取代[BSD的UNIX核心](https://zh.wikipedia.org/wiki/Berkeley_Software_Distribution "wikilink")，所以是許多新的作業系統的設計基礎。Mach的研究至今似乎是停止了，雖然有許多商業化作業系統，如[NEXTSTEP與](https://zh.wikipedia.org/wiki/NEXTSTEP "wikilink")[OPENSTEP](https://zh.wikipedia.org/wiki/OPENSTEP "wikilink")，特別是[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（使用[XNU](../Page/XNU.md "wikilink")核心）都是使用Mach或其衍生系統。Mach的[虚拟内存](../Page/虚拟内存.md "wikilink")（VM）系統也被BSD的開发者用於[CSRG](https://zh.wikipedia.org/wiki/CSRG "wikilink")，並出現在BSD衍生的系統中，如[FreeBSD](../Page/FreeBSD.md "wikilink")。Mac OS X與FreeBSD並未保留Mach首倡的微核心結構，除了Mac OS X繼續提供微核心於內部處理通訊以及應用程式直接控制。

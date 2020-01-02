@@ -1,3 +1,6 @@
+> 本文内容由[Intel Larrabee](https://zh.wikipedia.org/wiki/Intel_Larrabee)转换而来。
+
+
 英特爾**Larrabee**，是[英特爾公司的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[通用圖形處理器](https://zh.wikipedia.org/wiki/通用圖形處理器 "wikilink")（GPGPU）的[開發代號](https://zh.wikipedia.org/wiki/開發代號 "wikilink")/核心代號。有別於英特爾當時的[英特爾GMA系列整合式](../Page/Intel_GMA.md "wikilink")[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，「Larrabee」顯示核心是英特爾繼[Intel 740以後又一獨立式顯示核心](https://zh.wikipedia.org/wiki/I740 "wikilink")，研發團隊、開發概念等都與英特爾的整合式顯示核心的完全不同。原計劃最遲於2010年作為消費級圖形處理器產品推出市場，但由於多次的「[跳票](https://zh.wikipedia.org/wiki/跳票 "wikilink")」、研發進度不如預期、圖形效能不佳、功耗過高等因素，\[1\]最終英特爾於2010年5月宣布取消發布相關顯示卡的計劃，而「Larrabee」研究計劃亦無後續消息。\[2\]但是，同樣是2010年，英特爾公佈的的[Intel MIC多處理器架構中繼承了大量由](https://zh.wikipedia.org/wiki/Intel_MIC "wikilink")「Larrabee」研究計劃而來的設計元素，最大的區別在於前者專注於為[高效能運算而設計的多處理器協同運算](https://zh.wikipedia.org/wiki/高效能運算 "wikilink")，後者是作為[圖形處理器](../Page/圖形處理器.md "wikilink")（GPU）而生。
 
 ## 緣起

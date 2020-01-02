@@ -1,3 +1,6 @@
+> 本文内容由[Step and Go](https://zh.wikipedia.org/wiki/Step_and_Go)转换而来。
+
+
 《**Step and Go**》是[嵐](../Page/嵐.md "wikilink")的第21枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年2月20日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。收錄於原創專輯《[Dream "A" live](../Page/Dream_"A"_live.md "wikilink")》及精選專輯《[1999-2009 完全精選\!](https://zh.wikipedia.org/wiki/1999-2009_完全精選! "wikilink")》。
 
 ## 解說

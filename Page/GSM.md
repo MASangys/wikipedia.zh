@@ -1,3 +1,6 @@
+> 本文内容由[GSM](https://zh.wikipedia.org/wiki/GSM)转换而来。
+
+
 [GSM_Logo.svg](https://zh.wikipedia.org/wiki/File:GSM_Logo.svg "fig:GSM_Logo.svg") **全球移动通讯系统**（**G**lobal **S**ystem for **M**obile Communications），即**GSM**，又稱**泛歐數位式行動電話系統**，是当前应用最为广泛的[移动电话](../Page/移动电话.md "wikilink")标准。全球超过200个国家和地区超过10亿人正在使用GSM电话。GSM标准的廣泛使用使得在[移动电话运营商之间签署](https://zh.wikipedia.org/wiki/移动电话公司列表 "wikilink")“漫游协定”后用户的国际[漫游变得很平常](https://zh.wikipedia.org/wiki/漫游 "wikilink")。GSM较之它以前的标准最大的不同是他的信令和语音信道都是[數位的](https://zh.wikipedia.org/wiki/數位 "wikilink")，因此GSM被看作是*第二代*（[2G](../Page/2G.md "wikilink")）移动电话系统。GSM标准当前由[3GPP](../Page/3GPP.md "wikilink")组织负责制定和维护。
 
 从用户观点出发，GSM的主要优势在于提供更高的數位语音质量和替代呼叫的低成本的新选择（比如短信）。从网络运营商角度看来，其优势是能够部署来自不同厂商的设备，因为GSM作为开放标准提供了更容易的互操作性。而且，标准就允许网络运营商提供漫游服务，用户就可以在全球使用他们的移动电话了。

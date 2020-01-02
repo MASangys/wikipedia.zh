@@ -1,3 +1,6 @@
+> 本文内容由[Kerberos](https://zh.wikipedia.org/wiki/Kerberos)转换而来。
+
+
 **Kerberos**（）是一种计算机网络授权协议，用来在非安全[网络中](https://zh.wikipedia.org/wiki/网络 "wikilink")，对个人通信以安全的手段进行身份认证。这个词又指[麻省理工学院](../Page/麻省理工学院.md "wikilink")为这个协议开发的一套计算机软件。软件设计上采用[客户端/服务器结构](https://zh.wikipedia.org/wiki/客户端/服务器结构 "wikilink")，并且能够进行相互认证，即客户端和服务器端均可对对方进行身份认证。可以用于防止窃听、防止[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")、保护数据完整性等场合，是一种应用对称密钥体制进行密钥管理的系统。Kerberos的扩展产品也使用[公开密钥加密](../Page/公开密钥加密.md "wikilink")方法进行认证。
 
 当有N个人使用该系统时，为确保在任意两个人之间进行秘密对话，系统至少保存有它与每个人的共享密钥，所需的最少会话密钥数为N个。

@@ -1,3 +1,6 @@
+> 本文内容由[佳能IXUS 500](https://zh.wikipedia.org/wiki/佳能IXUS_500)转换而来。
+
+
 **佳能 Digital IXUS 500**（在北美市场称作**PowerShot S500**，日本市场则称为**IXY Digital 500**）
 
 **IXUS 500**与同时推出的[IXUS 430为之前受好评的](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_430 "wikilink")[Canon Digital IXUS 400的升级版](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_400 "wikilink")。**IXUS 500**的继任者是[Canon Digital IXUS 700](https://zh.wikipedia.org/wiki/Canon_Digital_IXUS_700 "wikilink")。

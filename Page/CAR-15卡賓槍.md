@@ -1,3 +1,6 @@
+> 本文内容由[CAR-15卡賓槍](https://zh.wikipedia.org/wiki/CAR-15卡賓槍)转换而来。
+
+
 **CAR-15**（Colt Automatic Rifle-15 Military Weapons System）是在1960年代以[AR-15的設計改良而成](https://zh.wikipedia.org/wiki/AR-15 "wikilink")。由於尺寸緊密，**Colt Commando**及**XM177**系列在[越南戰爭中亦有出現](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")。
 
 柯爾特在1959年獲得[阿瑪萊特](https://zh.wikipedia.org/wiki/阿瑪萊特 "wikilink")（ArmaLite）的AR-15的專利權和技術時，柯爾特把名稱定為CAR-15，是為了在CAR-15服伇後把AR-15槍族聯繫起來。其後柯爾特放棄CAR-15的專利權，但以M16的商標繼續生產各种軍用衍生型及以Colt AR-15商標生產執行部門及民用型号。

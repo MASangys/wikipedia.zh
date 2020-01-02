@@ -1,3 +1,6 @@
+> 本文内容由[Windows通訊基礎](https://zh.wikipedia.org/wiki/Windows通訊基礎)转换而来。
+
+
 **Windows通訊基礎**（）是由微軟發展的一組資料通訊的應用程式開發介面，它是[.NET框架](../Page/.NET框架.md "wikilink")的一部分，由.NET Framework 3.0开始引入，與[Windows Presentation Foundation及](../Page/Windows_Presentation_Foundation.md "wikilink") [Windows Workflow Foundation並列為新一代Windows作業系統以及WinFX的三個重大應用程式開發類別庫](../Page/Windows_Workflow_Foundation.md "wikilink")。
 
 在.NET Framework 2.0以及前版本中，微軟發展了Web Service（SOAP with HTTP communication），.NET Remoting（TCP/HTTP/Pipeline communication）以及基礎的Winsock等通訊支援，由於各個通訊方法的設計方法不同，而且彼此之間也有相互的重疊性（例如.NET Remoting可以開發SOAP, HTTP通訊），對於開發人員來說，不同的選擇會有不同的程式設計模型，而且必須要重新學習，讓開發人員在使用时有許多不便。同時，**[服務導向架構](https://zh.wikipedia.org/wiki/服務導向架構 "wikilink")**（Service-Oriented Architecture）也開始盛行於軟體工業中，因此微軟重新檢視了這些通訊方法，並設計了一個統一的程式開發模型，對於資料通訊提供了最基本最有彈性的支援，這就是Windows Communication Foundation。

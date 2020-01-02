@@ -1,3 +1,6 @@
+> 本文内容由[NetPanzer](https://zh.wikipedia.org/wiki/NetPanzer)转换而来。
+
+
 {{ Infobox VG | title = NetPanzer | image = <File:NetPanzer> Screenshot53.jpg | caption = NetPanzer | genre = [即时战略](https://zh.wikipedia.org/wiki/即时战略 "wikilink") | developer = Pyrosoft ＆ [GPL版本贡献者](http://developer.berlios.de/project/memberlist.php?group_id=1250) | platform = Linux, Mac OS X, Windows }}
 
 **NetPanzer**是1998年捷克一个游戏小组Pyrosoft创造的[多人在线即时战略游戏](https://zh.wikipedia.org/wiki/多人在线即时战略游戏 "wikilink")，忽视资源管理，注重快速下达作战指令，但还没收工就资金不足了，1999年之后停止开发，2002年释放成为[自由软件](https://zh.wikipedia.org/wiki/GPL "wikilink")。此后又移植到其他平台。它最流行的平台是[Linux](../Page/Linux.md "wikilink")。NetPanzer 0.8.3在2010年2月放出。

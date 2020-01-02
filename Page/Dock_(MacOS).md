@@ -1,3 +1,6 @@
+> 本文内容由[Dock \(MacOS\)](https://zh.wikipedia.org/wiki/Dock_\(MacOS\))转换而来。
+
+
 **Dock**是[图形用户界面](../Page/图形用户界面.md "wikilink")中用于启动、切换运行中的[应用程序](../Page/应用程序.md "wikilink")的一种功能界面。Dock是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系统](../Page/操作系统.md "wikilink")，及其始祖[NeXTSTEP](../Page/NeXTSTEP.md "wikilink")和[OPENSTEP操作系统中重要组成部分](https://zh.wikipedia.org/wiki/OPENSTEP "wikilink")。在[Newton OS中也有dock概念的一些早期例子](https://zh.wikipedia.org/wiki/Newton_OS "wikilink")。现在在不同操作系统中有很多不同的dock程序。
 
 ## 历史

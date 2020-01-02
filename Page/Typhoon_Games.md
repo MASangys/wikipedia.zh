@@ -1,3 +1,6 @@
+> 本文内容由[Typhoon Games](https://zh.wikipedia.org/wiki/Typhoon_Games)转换而来。
+
+
 **Typhoon Games (HK) Ltd.**，成立於2001年8月，主要業務是代理[歐美](https://zh.wikipedia.org/wiki/歐美 "wikilink")、[日本](../Page/日本.md "wikilink")製作的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，以及推出這些遊戲的本地化版本（如繁體中文版）。
 
 ## 代理遊戲

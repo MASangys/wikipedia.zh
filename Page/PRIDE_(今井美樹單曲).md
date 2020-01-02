@@ -1,3 +1,6 @@
+> 本文内容由[PRIDE \(今井美樹單曲\)](https://zh.wikipedia.org/wiki/PRIDE_\(今井美樹單曲\))转换而来。
+
+
 「**PRIDE**」為[日本](../Page/日本.md "wikilink")女歌手[今井美樹](../Page/今井美樹.md "wikilink")，於1996年11月4日發售的第12張單曲。
 
 ## 說明

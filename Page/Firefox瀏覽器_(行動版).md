@@ -1,3 +1,6 @@
+> 本文内容由[Firefox瀏覽器 \(行動版\)](https://zh.wikipedia.org/wiki/Firefox瀏覽器_\(行動版\))转换而来。
+
+
 ****和Firefox for iOS是[Firefox](../Page/Firefox.md "wikilink")[瀏覽器針對](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")等裝置推出的一個瀏覽器版本。
 
 Firefox for Android使用和[Mozilla Firefox相同的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。例如，版本1.0使用與Firefox 3.6相同的引擎，而4.0以後版本與Firefox 4.0共享核心代碼。它的功能包括[HTML5](../Page/HTML5.md "wikilink")支援、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](../Page/附加组件_\(Mozilla\).md "wikilink")[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")\[1\]。Firefox for iOS跟Firefox for Android不同，因為iOS要求開發者皆使用[WebKit](../Page/WebKit.md "wikilink")排版引擎，Firefox for iOS因此使用[WebKit](../Page/WebKit.md "wikilink")排版引擎不像Firefox for Android和Firefox一樣使用[Gecko排版引擎](https://zh.wikipedia.org/wiki/Gecko排版引擎 "wikilink")。

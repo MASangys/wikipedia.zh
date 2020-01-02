@@ -1,3 +1,6 @@
+> 本文内容由[AMD Phenom](https://zh.wikipedia.org/wiki/AMD_Phenom)转换而来。
+
+
 **Phenom**是[AMD採用](https://zh.wikipedia.org/wiki/AMD "wikilink")[K10微架構的處理器系列之一](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")\[1\]，型號分別為四核心（Phenom X4 9000系列，代號：Agena）及三核心（Phenom X3 8000系列 代號：Toliman），而[AMD Quad FX 平臺](https://zh.wikipedia.org/wiki/AMD_Quad_FX_平臺 "wikilink")（代號：Agnena FX）的高階產品會以Phenom FX的名義推出。大多數產品均使用[Socket AM2+插槽](../Page/Socket_AM2+.md "wikilink")\[2\]，只有部份高階FX型號會使用[Socket F+插槽](https://zh.wikipedia.org/wiki/Socket_F+ "wikilink")。而K10雙核心的產品則會以[Athlon X2的名義推出](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")。Phenom處理器在中國大陆的官方中文名稱為「**羿龍**」，而台灣則譯為「**飛龍**」，俗稱「肥龍」。
 
 AMD Phenom處理器和之前所推出的[Athlon X2處理器除了核心數量的不同外](https://zh.wikipedia.org/wiki/Athlon_X2 "wikilink")，另一個最大的不同點在於，Phenom處理器還額外整合至少2MB的L3[快取記憶體](https://zh.wikipedia.org/wiki/快取記憶體 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想XIV](https://zh.wikipedia.org/wiki/最终幻想XIV)转换而来。
+
+
 是[最終幻想系列的第](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")14部本傳遊戲，也是繼《[最終幻想XI](https://zh.wikipedia.org/wiki/最終幻想XI "wikilink")》之後又一款[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")。遊戲由[史克威爾艾尼克斯開發並發行](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")。
 
 《最終幻想XIV》設定於虛構世界艾欧泽亚的第七灵灾前，月之卫星达拉加布的迫近与潜在[撞击威脅预示着大災變的到來](https://zh.wikipedia.org/wiki/撞击事件 "wikilink")。玩家创立并自定义化身，参与围绕即将入侵的加雷马帝国及与其有关的达拉加布的事物。艾欧泽亚各[民族国家重新成立工会](https://zh.wikipedia.org/wiki/民族国家 "wikilink")，结成联盟，为即将到来的帝国战争做准备。

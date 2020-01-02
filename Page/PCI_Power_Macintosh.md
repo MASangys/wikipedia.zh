@@ -1,3 +1,6 @@
+> 本文内容由[PCI Power Macintosh](https://zh.wikipedia.org/wiki/PCI_Power_Macintosh)转换而来。
+
+
 第二代的[Power Macintosh](../Page/Power_Macintosh.md "wikilink") 系列產品，主機板配置[PCI界面槽](https://zh.wikipedia.org/wiki/PCI界面槽 "wikilink")。低階款搭載[PowerPC 603/603e系列處理器](https://zh.wikipedia.org/wiki/PowerPC_603/603e "wikilink")，高階款搭載[PowerPC 604/604e/604ev系列處理器](https://zh.wikipedia.org/wiki/PowerPC_604/604e/604ev "wikilink")。
 
 後為第三代[Power Mac產品系列](https://zh.wikipedia.org/wiki/Power_Mac "wikilink")[Power Macintosh G3所取代](../Page/Power_Macintosh_G3.md "wikilink")。

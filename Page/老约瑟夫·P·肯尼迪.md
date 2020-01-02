@@ -1,3 +1,6 @@
+> 本文内容由[老约瑟夫·P·肯尼迪](https://zh.wikipedia.org/wiki/老约瑟夫·P·肯尼迪)转换而来。
+
+
 **老约瑟夫·帕特里克·“乔”·肯尼迪**（**Joseph Patrick "Joe" Kennedy, Sr.**，1888年9月6日[波士顿](https://zh.wikipedia.org/wiki/波士顿_\(马萨诸塞州\) "wikilink") - 1969年11月18日。[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[海厄尼斯](https://zh.wikipedia.org/wiki/海厄尼斯_\(马萨诸塞州\) "wikilink")），[美国](../Page/美国.md "wikilink")商人、政治家，[美国民主党成员](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")，曾任[美国驻英国大使](https://zh.wikipedia.org/wiki/美国驻英国大使 "wikilink")（1938年-1940年）、[美国证券交易委员会](../Page/美国证券交易委员会.md "wikilink")主席（1934年-1935年）。 约瑟夫是[肯尼迪家族](../Page/肯尼迪家族.md "wikilink")的第二代成员，[派屈克·J·甘迺迪的長子](https://zh.wikipedia.org/wiki/派屈克·J·甘迺迪 "wikilink")。
 
 ## 婚姻与家庭

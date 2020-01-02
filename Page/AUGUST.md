@@ -1,3 +1,6 @@
+> 本文内容由[AUGUST](https://zh.wikipedia.org/wiki/AUGUST)转换而来。
+
+
 **AUGUST**（）是[日本](../Page/日本.md "wikilink")**株式會社葉月**旗下專責開發販售[成人遊戲的品牌](../Page/日本成人遊戲.md "wikilink")，目前加入以[戲畫為首的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[Partner Brand](https://zh.wikipedia.org/wiki/Partner_Brand "wikilink")。在網路上常常以**八月**來稱呼該公司。2006年成立專責發售家用主機遊戲的品牌「ARIA」。
 
 ## 沿革

@@ -1,3 +1,6 @@
+> 本文内容由[李克勤 No.1 Hits](https://zh.wikipedia.org/wiki/李克勤_No.1_Hits)转换而来。
+
+
 《**李克勤 No.1 Hits**》是[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[李克勤](../Page/李克勤.md "wikilink")於2007年11月23日發行的個人[音樂專輯](../Page/音樂專輯.md "wikilink")，是[DSD製作的](https://zh.wikipedia.org/wiki/DSD "wikilink")4張[CD](../Page/CD.md "wikilink")套裝，收錄了李克勤三首新曲加四歷程\[1\]的金曲共68首。CD 1與CD 4是[李克勤](../Page/李克勤.md "wikilink")自選的曲目，而CD 2與CD 3則是排行榜上的冠軍曲目。三首新曲則分別是〈再見演奏廳〉、〈嘆息門〉與〈Mr. Children〉。而[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[賭場風雲](../Page/賭場風雲.md "wikilink")》的主題曲{{〈}}先賭為快{{〉}}則是首次被收錄至李克勤的個人專輯中。
 
 ## 曲目

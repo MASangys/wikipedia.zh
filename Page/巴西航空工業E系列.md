@@ -1,3 +1,6 @@
+> 本文内容由[巴西航空工業E系列](https://zh.wikipedia.org/wiki/巴西航空工業E系列)转换而来。
+
+
 [LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg](https://zh.wikipedia.org/wiki/File:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg "fig:LufthansaCityline_E195LR_D-AEBD_CGN_2010-10-06_01.jpg")的E195LR\]\] **巴西航空工業E系列**（）是[巴西航空工业公司](../Page/巴西航空工业公司.md "wikilink")在二十一世纪开发生產的[支線](https://zh.wikipedia.org/wiki/區域航線客機 "wikilink")[噴射客機型號系列](https://zh.wikipedia.org/wiki/噴射客機 "wikilink")，于2003年首次投入營運。该系列由四款机型组成，瞄準80人左右級距的市場，後來又推出100座以上的加長機型，分別是E170（70-80座）、E175（78-88座）、E190（98-114座）和E195（108-122座），具有高效率、经济性的特点，符合人机工程学的原理。
 
 E-系列飛機採用了許多新式設計如雙氣泡形機艙、EFIS航電、美國[通用電氣的發動機等](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")，在設計過程中採用虛擬現實輔助設計工作，是世界上第一款以[虛擬現實輔助設計工作的客機](https://zh.wikipedia.org/wiki/虛擬現實輔助設計 "wikilink")。目前巴西航空工業公司接到超過1551架E-系列飞机的訂單，超過650架飞机投入營運，累计飞行时间超过440万小时。公司在全球的E-系列机队平均每天的利用率达到7.13飞行小时，最新的签派可靠性和任务完成率分别达到99.23%和99.86%。

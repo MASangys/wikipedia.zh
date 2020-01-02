@@ -1,3 +1,6 @@
+> 本文内容由[MF文庫J](https://zh.wikipedia.org/wiki/MF文庫J)转换而来。
+
+
 **MF文庫J**（），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA](../Page/KADOKAWA.md "wikilink")旗下[Media Factory的](../Page/Media_Factory.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文庫](../Page/文庫.md "wikilink")系列。2002年7月25日創刊。
 
 ## 簡介

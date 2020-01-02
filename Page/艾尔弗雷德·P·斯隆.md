@@ -1,3 +1,6 @@
+> 本文内容由[艾尔弗雷德·P·斯隆](https://zh.wikipedia.org/wiki/艾尔弗雷德·P·斯隆)转换而来。
+
+
 [Alfred_P._Sloan_on_the_cover_of_TIME_Magazine,_December_27,_1926.jpg](https://zh.wikipedia.org/wiki/File:Alfred_P._Sloan_on_the_cover_of_TIME_Magazine,_December_27,_1926.jpg "fig:Alfred_P._Sloan_on_the_cover_of_TIME_Magazine,_December_27,_1926.jpg") **艾尔弗雷德·斯隆**（Alfred Pritchard Sloan, Jr.，），曾長期擔任[通用汽車公司的總裁](https://zh.wikipedia.org/wiki/通用汽車公司 "wikilink")、執行長及董事長。\[1\]
 
 ## 簡傳

@@ -1,3 +1,6 @@
+> 本文内容由[Triple H \(摔角手\)](https://zh.wikipedia.org/wiki/Triple_H_\(摔角手\))转换而来。
+
+
 （），本名**保羅·麥可·李維斯克**（）\[1\]，[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）旗下摔角明星，近年來也开始涉足電影圈的演出活动\[2\]。
 
 他廣為人知的擂台名TripleH是由他早年使用的擂台名**Hunter Hearst Helmsley**（）縮寫而成，TripleH目前為世界摔角娛樂的[營運總監](https://zh.wikipedia.org/wiki/首席營運長 "wikilink")（Chief Operation Officer,COO）及[執行副董事長](https://zh.wikipedia.org/wiki/副董事長 "wikilink")（劇情）。

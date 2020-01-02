@@ -1,3 +1,6 @@
+> 本文内容由[Super scription of data](https://zh.wikipedia.org/wiki/Super_scription_of_data)转换而来。
+
+
 **Super scription of data**，是[日本](../Page/日本.md "wikilink")女[歌手](../Page/歌手.md "wikilink")[島宮榮子](../Page/島宮榮子.md "wikilink")第5張[單曲CD](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年6月24日由[Frontier Works發行](../Page/Frontier_Works.md "wikilink")，商品番號為FCCM-267。這首單曲是當年[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")《[暮蟬悲鳴時 禮](../Page/暮蟬悲鳴時.md "wikilink")》的[片頭曲](../Page/主題曲.md "wikilink")。本來此單曲打算與OVA的第一卷「羞晒編」在2月25日同時發行，但是後來延期至6月24日。
 
 ## 收錄曲

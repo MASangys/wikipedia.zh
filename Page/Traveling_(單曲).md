@@ -1,3 +1,6 @@
+> 本文内容由[Traveling \(單曲\)](https://zh.wikipedia.org/wiki/Traveling_\(單曲\))转换而来。
+
+
 **traveling**（台灣EMI公司譯為「無限漫遊」）是[宇多田光](../Page/宇多田光.md "wikilink")的第九張日文單曲，為DoCoMo FOMA廣告曲，於2001年11月28日發行，初動27萬張，累計銷售85萬張。
 
 在年榜單上，本曲次於[濱崎步](../Page/濱崎步.md "wikilink")單曲[H居第二位](../Page/H_\(濱崎步單曲\).md "wikilink")。

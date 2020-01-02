@@ -1,3 +1,6 @@
+> 本文内容由[Linux](https://zh.wikipedia.org/wiki/Linux)转换而来。
+
+
 **Linux**（ ）是一種[自由和開放源碼的](../Page/自由及开放源代码软件.md "wikilink")[類UNIX](../Page/类Unix系统.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。该操作系统的[内核](../Page/内核.md "wikilink")由[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")在1991年10月5日首次发布\[1\]\[2\]，在加上[使用者空間的](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[應用程式之後](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，成為Linux作業系統。Linux也是[自由软件](../Page/自由软件.md "wikilink")和[开放源代码软件发展中最著名的例子](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")。只要遵循[GNU 通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL），任何个人和机构都可以自由地使用Linux的所有底层[源代码](../Page/源代码.md "wikilink")，也可以自由地修改和再发布。大多數Linux系統還包括像提供[GUI的](https://zh.wikipedia.org/wiki/GUI "wikilink")[X Window之類的程序](https://zh.wikipedia.org/wiki/X_Window "wikilink")。除了一部分專家之外，大多數人都是直接使用[Linux 發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，而不是自己選擇每一樣組件或自行設置。
 
 **Linux**嚴格來說是單指作業系統的内核，因作業系統中包含了許多[用戶圖形介面和其他实用工具](https://zh.wikipedia.org/wiki/GUI "wikilink")。如今Linux常用来指基于Linux的完整操作系统，內核則改以[Linux内核](../Page/Linux内核.md "wikilink")稱之。由于这些支持用户空间的系统工具和库主要由[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")于1983年发起的[GNU计划提供](../Page/GNU計劃.md "wikilink")，[自由软件基金会](../Page/自由软件基金会.md "wikilink")提议将其组合系统命名为**GNU/Linux**\[3\]\[4\]，但Linux不屬於[GNU計劃](../Page/GNU計劃.md "wikilink")，這個名稱並沒有得到社群的一致認同。

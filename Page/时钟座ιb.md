@@ -1,3 +1,6 @@
+> 本文内容由[时钟座ιb](https://zh.wikipedia.org/wiki/时钟座ιb)转换而来。
+
+
 **时钟座ι星b**，也被称为**HR 810b**，是一颗位于[时钟座](../Page/时钟座.md "wikilink")、距离地球约50光年的系外行星。最初的天体测量结果显示该行星的质量约为木星质量的24倍，这使其可能成为一颗[褐矮星](https://zh.wikipedia.org/wiki/褐矮星 "wikilink")，后来经过修正的数据显示其质量下限为2.26[*M*<sub>*J*</sub>](https://zh.wikipedia.org/wiki/木星质量 "wikilink")。时钟座ι星b是发现的首颗处于[适居带内的系外行星](https://zh.wikipedia.org/wiki/适居带 "wikilink")，同时它也是[日射量接近](https://zh.wikipedia.org/wiki/日射量 "wikilink")[水星](../Page/水星.md "wikilink")的[类木行星的原型](https://zh.wikipedia.org/wiki/类木行星 "wikilink")。
 
 ## 观测与发现

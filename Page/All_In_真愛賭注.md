@@ -1,3 +1,6 @@
+> 本文内容由[All In 真愛賭注](https://zh.wikipedia.org/wiki/All_In_真愛賭注)转换而来。
+
+
 《**All In 真愛賭注**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](../Page/SBS_\(韓國\).md "wikilink")2003年1月15日起播放的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")。
 
 ## 劇情介紹

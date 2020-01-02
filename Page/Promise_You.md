@@ -1,3 +1,6 @@
+> 本文内容由[Promise You](https://zh.wikipedia.org/wiki/Promise_You)转换而来。
+
+
 《**Promise You**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的子組合](../Page/Super_Junior.md "wikilink")[Super Junior-K.R.Y.的第一張日語單曲](../Page/Super_Junior-K.R.Y..md "wikilink")。2013年1月23日由Avex trax發售。\[1\]
 
 ## 曲目
@@ -65,7 +68,6 @@
 [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:Super_Junior-K.R.Y.音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior-K.R.Y.音樂專輯 "wikilink") [Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
-
 2.
 3.
 4.

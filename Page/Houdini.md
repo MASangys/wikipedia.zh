@@ -1,3 +1,6 @@
+> 本文内容由[Houdini](https://zh.wikipedia.org/wiki/Houdini)转换而来。
+
+
 {{ Infobox Software | name = Houdini | logo = [<File:Houdini_Logo.png>](https://zh.wikipedia.org/wiki/File:Houdini_Logo.png "fig:File:Houdini_Logo.png") | developer = [Side Effect Software Inc.](http://www.sidefx.com) | latest_release_version = 13.0 | latest_release_date =  | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | language = [英语](../Page/英语.md "wikilink") | genre = [三维计算机图形软件](../Page/三维计算机图形软件.md "wikilink") | website = [www.sidefx.com](http://www.sidefx.com) }}
 
 **Houdini**是一款三维计算机图形软件，由加拿大Side Effects Software Inc.（简称SESI）公司开发，SESI公司由Kim Davidson和Greg Hermanovic创建于1987年。Houdini是在Prisms基础上重新开发而来，可运行于Linux, Windows, Mac OS等操作系统，是完全基于节点模式设计的产物，其结构、操作方式等和其它的三维软件有很大的差异。Houdini自带的渲染器是Mantra，基于[Reyes渲染架构](../Page/Reyes渲染架构.md "wikilink")，因此也能够快速的渲染[运动模糊](https://zh.wikipedia.org/wiki/运动模糊 "wikilink")、[景深](../Page/景深.md "wikilink")和[置换效果](../Page/位移贴图.md "wikilink")。\[1\] Mantra是经过产品验证的成熟渲染器，可以满足电影级别的渲染要求。当然，Houdini也有第三方渲染器的接口，比如：[RenderMan](https://zh.wikipedia.org/wiki/RenderMan "wikilink")、[Mental ray](../Page/Mental_Ray.md "wikilink")、[V-Ray](../Page/V-Ray.md "wikilink")和Torque等，可以把场景导出到这些渲染引擎进行渲染。

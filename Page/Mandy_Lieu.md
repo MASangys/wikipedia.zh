@@ -1,3 +1,6 @@
+> 本文内容由[Mandy Lieu](https://zh.wikipedia.org/wiki/Mandy_Lieu)转换而来。
+
+
 **Mandy Lieu**（），[香港](../Page/香港.md "wikilink")[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")[模特兒](../Page/模特兒.md "wikilink")，出生于[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[霹靂州](../Page/霹靂州.md "wikilink")[怡保](../Page/怡保.md "wikilink")。曾是已婚澳門賭業大亨[周焯華](../Page/周焯華.md "wikilink")（洗米華）的情婦，育有兩女一子。
 
 ## 中文名稱

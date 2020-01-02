@@ -1,3 +1,6 @@
+> 本文内容由[誅仙 Online](https://zh.wikipedia.org/wiki/誅仙_Online)转换而来。
+
+
 **《誅仙 Online**》是[完美世界互動科技股份有限公司开发的一款](https://zh.wikipedia.org/wiki/完美世界 "wikilink")[3D](https://zh.wikipedia.org/wiki/3D "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，於[2007年4月](../Page/2007年4月.md "wikilink")[大陆开始内测](https://zh.wikipedia.org/wiki/大陆 "wikilink")。形象代言人为[任贤齐](https://zh.wikipedia.org/wiki/任贤齐 "wikilink")。 [Zhu_xian.jpg](https://zh.wikipedia.org/wiki/File:Zhu_xian.jpg "fig:Zhu_xian.jpg")
 
 ## 游戏介绍

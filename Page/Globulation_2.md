@@ -1,3 +1,6 @@
+> 本文内容由[Globulation 2](https://zh.wikipedia.org/wiki/Globulation_2)转换而来。
+
+
 ***Globulation 2***是一個[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")，使用[GPLv3授权的](https://zh.wikipedia.org/wiki/GPLv3 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。程序自動分配工作給單位，將游戏微操作降到最低程度。\[1\]\[2\]现在正在[beta状态](https://zh.wikipedia.org/wiki/beta "wikilink")，准备好后将发布稳定版本。
 
 ## 遊戲

@@ -1,3 +1,6 @@
+> 本文内容由[STS-74](https://zh.wikipedia.org/wiki/STS-74)转换而来。
+
+
 ****是历史上第七十二次航天飞机任务，也是[亚特兰蒂斯号航天飞机的第十五次太空飞行](https://zh.wikipedia.org/wiki/亞特蘭提斯號太空梭 "wikilink")。
 
 ## 任务成员

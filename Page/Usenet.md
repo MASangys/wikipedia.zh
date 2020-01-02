@@ -1,3 +1,6 @@
+> 本文内容由[Usenet](https://zh.wikipedia.org/wiki/Usenet)转换而来。
+
+
 [Usenet_servers_and_clients.svg](https://zh.wikipedia.org/wiki/File:Usenet_servers_and_clients.svg "fig:Usenet_servers_and_clients.svg")
 
 **Usenet**是一種分佈式的[互聯網交流系統](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，源自通用用途的[UUCP](../Page/UUCP.md "wikilink")網絡。1979年[杜克大學的研究生](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")與設计出來Usenet，并于1980年发布。\[1\]该名称来自词语“用户网络（users network）”。\[2\]\[3\]Usenet包含眾多**[新聞組](https://zh.wikipedia.org/wiki/新聞組 "wikilink")**，它是新聞組（異於傳統，新聞指交流、信息）及其消息的網絡集合。

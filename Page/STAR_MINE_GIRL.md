@@ -1,3 +1,6 @@
+> 本文内容由[STAR MINE GIRL](https://zh.wikipedia.org/wiki/STAR_MINE_GIRL)转换而来。
+
+
 《**STAR MINE GIRL**》（****、**SMG**）是[Nitro+](../Page/Nitro+.md "wikilink")於2008年9月26日发售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，最初於2007年9月發表製作。漫畫版《》於《Comptiq》2008年6月號開始連載。2009年6月26日發售fandisk《》。
 
 ## 概要

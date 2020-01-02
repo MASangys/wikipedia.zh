@@ -1,3 +1,6 @@
+> 本文内容由[ASIO](https://zh.wikipedia.org/wiki/ASIO)转换而来。
+
+
 **ASIO**（Audio stream input output），[音頻設備驅動程序的一種](https://zh.wikipedia.org/wiki/音頻設備 "wikilink")。
 
 ## 概要

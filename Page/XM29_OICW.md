@@ -1,3 +1,6 @@
+> 本文内容由[XM29 OICW](https://zh.wikipedia.org/wiki/XM29_OICW)转换而来。
+
+
 **XM29理想單兵戰鬥武器**是[美軍對開發中多功能整合式武器系統的通稱](https://zh.wikipedia.org/wiki/美軍 "wikilink")，這個武器系統能發射[5.56×45 NATO步槍子彈及](../Page/5.56×45mm_NATO.md "wikilink")20毫米電子引信空爆彈，原型版本則20世紀90年代（Objective Individual Combat Weapon program）的一部分。XM29 OICW有時又稱為SABR（Selectable Assault Battle Rifle），但這名稱並不常用。
 
 ## 開發歷史

@@ -1,3 +1,6 @@
+> 本文内容由[週刊YOUNG JUMP](https://zh.wikipedia.org/wiki/週刊YOUNG_JUMP)转换而来。
+
+
 《**週刊YOUNG JUMP**》（《WEEKLY YOUNG JUMP》）是由[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")发行的[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。 于1979年5月半月刊《YOUNG JUMP》创刊、1981年随着週刊化杂志名也变更为《週刊YOUNG JUMP》。逢星期四发售。简称为《YOUNG J》或《YJ》。也是日本歷史上目前刊行最久的週刊青年漫畫雜誌。
 
 ## 概要

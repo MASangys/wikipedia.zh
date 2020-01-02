@@ -1,3 +1,6 @@
+> 本文内容由[TE2型柴油机车](https://zh.wikipedia.org/wiki/TE2型柴油机车)转换而来。
+
+
 **TE2型柴油机车**（）是[苏联](../Page/苏联.md "wikilink")铁路第一代[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由位于[乌克兰](../Page/乌克兰.md "wikilink")的[馬雷舍夫工廠设计制造](https://zh.wikipedia.org/wiki/馬雷舍夫工廠 "wikilink")，1948年至1955年间生产了超过500台。
 
 ## 发展历史

@@ -1,3 +1,6 @@
+> 本文内容由[HK Mk 23 Mod 0半自動手槍](https://zh.wikipedia.org/wiki/HK_Mk_23_Mod_0半自動手槍)转换而来。
+
+
 **HK Mk 23 Mod 0**（，其他稱呼：**Mk 23 SOCOM**、**USSOCOM**）是一款在1991年由[德国](../Page/德国.md "wikilink")槍械製造商[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")匠屬槍械設計師海穆特·威爾多（）所設計並且由製造商所生產的[半自動手槍](../Page/半自動手槍.md "wikilink")。設計上是用作美軍[特種部隊](../Page/特種部隊.md "wikilink")的專屬手槍。這把手槍的特別設計之處是：、可加裝[-{消聲}-器和](../Page/抑制器.md "wikilink")[雷射瞄準器和能夠發射](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[.45 ACP](../Page/.45_ACP.md "wikilink")（11.43×23毫米）[口徑的AA](https://zh.wikipedia.org/wiki/口徑 "wikilink")18、A475比賽等級高壓[子彈](../Page/子彈.md "wikilink")。
 
 該手槍曾擊敗了[柯爾特](https://zh.wikipedia.org/wiki/柯爾特 "wikilink")[OHWS](../Page/柯爾特OHWS半自動手槍.md "wikilink")，通過[美国](../Page/美国.md "wikilink")[特種作戰司令部於](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")1990年代的特種部隊計畫。

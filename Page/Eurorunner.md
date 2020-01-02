@@ -1,3 +1,6 @@
+> 本文内容由[Eurorunner](https://zh.wikipedia.org/wiki/Eurorunner)转换而来。
+
+
 **Eurorunner**是由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[西門子公司製造的一系列柴油機車](https://zh.wikipedia.org/wiki/西門子公司 "wikilink")，是歐洲鐵路常用的柴油機車（尤其是[立陶宛鐵路及](https://zh.wikipedia.org/wiki/立陶宛鐵路 "wikilink")[奧地利聯邦鐵路](https://zh.wikipedia.org/wiki/奧地利聯邦鐵路 "wikilink")，是本型機車最大使用者），並可在客、貨運上使用，亦是[港鐵](../Page/港鐵.md "wikilink")[東鐵綫](../Page/東鐵綫.md "wikilink")的[柴油機車](../Page/柴油機車.md "wikilink")車款之一，曾經是貨運用機車，鐵路貨運停辦後用作牽引維修列車、新列車與前往[港鐵八鄉車廠](../Page/港鐵八鄉車廠.md "wikilink")進行擴編的列車，以及在何東樓車廠過夜的一列[25T型客車](https://zh.wikipedia.org/wiki/25T型客車 "wikilink")。港鐵所用機車由[九廣鐵路公司](../Page/九廣鐵路公司.md "wikilink")擁有，[兩鐵合併](../Page/兩鐵合併.md "wikilink")後租予[港鐵公司使用](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink")，目前主要作為工程車\[1\]。
 
 ## 概述

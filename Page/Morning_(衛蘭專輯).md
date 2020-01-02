@@ -1,3 +1,6 @@
+> 本文内容由[Morning \(衛蘭專輯\)](https://zh.wikipedia.org/wiki/Morning_\(衛蘭專輯\))转换而来。
+
+
 《**Morning**》為[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[衛蘭](../Page/衛蘭.md "wikilink")第五張個人大碟，亦是她第一張英文大碟，於2009年7月3日推出\[1\]\[2\]\[3\]。全碟歌詞由A Music新人[李治廷](../Page/李治廷.md "wikilink")（Aarif）一手包辦，大碟推出後一星期已達白金銷量。
 
 ## 收錄歌曲

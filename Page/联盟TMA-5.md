@@ -1,3 +1,6 @@
+> 本文内容由[联盟TMA-5](https://zh.wikipedia.org/wiki/联盟TMA-5)转换而来。
+
+
 [Soyuz_TMA-5_launch.jpg](https://zh.wikipedia.org/wiki/File:Soyuz_TMA-5_launch.jpg "fig:Soyuz_TMA-5_launch.jpg") **联盟TMA-5**（) 是[俄罗斯](../Page/俄罗斯.md "wikilink")发射[联盟号宇宙飞船](../Page/联盟号宇宙飞船.md "wikilink")，于2004年10月14日3:06点火升空，前往[国际太空站](https://zh.wikipedia.org/wiki/国际太空站 "wikilink")。
 
 ## 任务成员

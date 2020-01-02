@@ -1,3 +1,6 @@
+> 本文内容由[UBIFS](https://zh.wikipedia.org/wiki/UBIFS)转换而来。
+
+
 **無序區塊映像檔案系統**（Unsorted Block Image File System，UBIFS）是一种用於[固态硬盘](../Page/固态硬盘.md "wikilink")儲存裝置的[文件系统](../Page/文件系统.md "wikilink")，它與[LogFS](../Page/LogFS.md "wikilink")相互競爭，是[JFFS2的後繼檔案系統之一](https://zh.wikipedia.org/wiki/JFFS2 "wikilink")。其真正開始開發於2007年，並於2008年10月第一次加入穩定版本於[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")2.6.27版。
 
 UBIFS最早在2006年由[IBM](../Page/IBM.md "wikilink")與[Nokia的工程師Thomas](https://zh.wikipedia.org/wiki/Nokia "wikilink") Gleixner，Artem Bityutskiy所設計，專門為了解決[MTD](https://zh.wikipedia.org/wiki/MTD "wikilink")（Memory Technology Device）裝置所遇到的瓶頸。由於Nand闪存容量的暴漲，[YAFFS](../Page/YAFFS.md "wikilink")等皆無法再去控制Nand闪存的空間。UBIFS透過子系統UBI處理與MTD设备之間的動作。與JFFS2一樣，UBIFS建構於MTD设备之上，因而與一般的块设备不相容。

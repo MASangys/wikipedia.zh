@@ -1,3 +1,6 @@
+> 本文内容由[WNBA](https://zh.wikipedia.org/wiki/WNBA)转换而来。
+
+
 **國家女子籃球協會**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：****，簡稱****），是美國[NBA](../Page/NBA.md "wikilink")主辦的職業女子籃球聯賽，成立於1996年。這與[國家籃球協會](../Page/NBA.md "wikilink")（NBA）十分相似。WNBA於1997年舉辦第一屆，每年5月至8月期間進行常規賽，9月進行季後賽。
 
 大部分WNBA的球隊都有一支同屬城市的NBA球隊，並與同市的NBA球隊共用同一場館，只有[康乃狄克太陽並沒有任何一隊NBA球隊處於同一城市](https://zh.wikipedia.org/wiki/康乃狄克太陽 "wikilink")，截止2008賽季，[芝加哥天空及](https://zh.wikipedia.org/wiki/芝加哥天空 "wikilink")[休斯頓彗星是WNBA球隊中少數沒有與任何NBA球隊共用同一場館的隊伍](https://zh.wikipedia.org/wiki/休斯頓彗星 "wikilink")。另外，[亞特蘭大美夢](https://zh.wikipedia.org/wiki/亞特蘭大美夢 "wikilink")、[芝加哥天空](https://zh.wikipedia.org/wiki/芝加哥天空 "wikilink")、[康乃狄克太陽](https://zh.wikipedia.org/wiki/康乃狄克太陽 "wikilink")、[休斯頓彗星](https://zh.wikipedia.org/wiki/休斯頓彗星 "wikilink")、[洛杉磯火花](https://zh.wikipedia.org/wiki/洛杉磯火花 "wikilink")、[鳳凰城水星](https://zh.wikipedia.org/wiki/鳳凰城水星 "wikilink")、[西雅圖風暴及](https://zh.wikipedia.org/wiki/西雅圖風暴 "wikilink")[華盛頓神秘是獨立營運的](https://zh.wikipedia.org/wiki/華盛頓神秘 "wikilink")。

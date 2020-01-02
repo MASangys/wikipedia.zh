@@ -1,3 +1,6 @@
+> 本文内容由[PukiWiki](https://zh.wikipedia.org/wiki/PukiWiki)转换而来。
+
+
 **PukiWiki**是一套[Wiki軟體](../Page/Wiki軟體.md "wikilink")，以[PHP](../Page/PHP.md "wikilink")寫成，為[日文的Wiki網站所普遍使用](https://zh.wikipedia.org/wiki/日文 "wikilink")。此軟體是從日本人[結城浩所寫的](https://zh.wikipedia.org/wiki/結城浩 "wikilink")[YukiWiki所分支發展的](https://zh.wikipedia.org/wiki/YukiWiki "wikilink")，從1.4版起由PukiWiki Developers Team接續開發維護工作。
 
 ## 特色

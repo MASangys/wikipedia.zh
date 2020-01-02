@@ -1,3 +1,6 @@
+> 本文内容由[SH-3海王直昇機](https://zh.wikipedia.org/wiki/SH-3海王直昇機)转换而来。
+
+
 [SH-3A_Sea_Kings_of_HS-6_flying_over_USS_Kearsarge_(CVS-33)_c1963.jpg](https://zh.wikipedia.org/wiki/File:SH-3A_Sea_Kings_of_HS-6_flying_over_USS_Kearsarge_\(CVS-33\)_c1963.jpg "fig:SH-3A_Sea_Kings_of_HS-6_flying_over_USS_Kearsarge_(CVS-33)_c1963.jpg")\]\] [Marine_One_Whitehouse.jpg](https://zh.wikipedia.org/wiki/File:Marine_One_Whitehouse.jpg "fig:Marine_One_Whitehouse.jpg")專機－[陸戰隊一號](https://zh.wikipedia.org/wiki/陸戰隊一號 "wikilink")\]\] **SH-3「海王」直升機**（SH-3 Sea King，在製造商內部則另使用 **S-61**的編號），是一款雙引擎[反潛](../Page/反潛作戰.md "wikilink")[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")，由[美國直升機製造商](https://zh.wikipedia.org/wiki/美國 "wikilink")[西科斯基飞机公司](../Page/西科斯基飞机公司.md "wikilink")設計製造，服役於[美國海軍](../Page/美國海軍.md "wikilink")和其他多國。除了在美國本土製造外，並授權給[日本](../Page/日本.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[義大利等國家的特定廠商自行製造](https://zh.wikipedia.org/wiki/義大利 "wikilink")。除了軍用的SH-3之外，也有民用的雙生版本。
 
 ## 歷史

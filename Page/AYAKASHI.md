@@ -1,3 +1,6 @@
+> 本文内容由[AYAKASHI](https://zh.wikipedia.org/wiki/AYAKASHI)转换而来。
+
+
 《**AYAKASHI**》（）是[CROSSNET](../Page/CROSSNET.md "wikilink")公司製作並於2005年10月28日发售的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[PC](../Page/PC.md "wikilink")平台[十八禁传奇战斗](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[冒險](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")\[1\]。2006年9月29日发售后日谈作品**AYAKASHI H**\[2\]，2007年8月动画化决定，于2008年1月起正式播放\[3\]，同时也决定漫画化，在月刊MAGAZINE Z上进行连载\[4\]。
 
 ## 故事简介

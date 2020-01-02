@@ -1,3 +1,6 @@
+> 本文内容由[Google App Engine](https://zh.wikipedia.org/wiki/Google_App_Engine)转换而来。
+
+
 **Google App Engine**是一个开发、托管[网络应用程序](../Page/网络应用程序.md "wikilink")的平台，使用[Google](../Page/Google.md "wikilink")管理的数据中心。它在2008年4月发布了第一个[beta版本](https://zh.wikipedia.org/wiki/軟件版本週期#Beta "wikilink")。
 
 Google App Engine使用了[云计算技术](https://zh.wikipedia.org/wiki/云计算 "wikilink")。它跨越多个服务器和数据中心来[虚拟化应用程序](https://zh.wikipedia.org/wiki/虚拟化 "wikilink")。\[1\]

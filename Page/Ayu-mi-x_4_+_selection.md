@@ -1,3 +1,6 @@
+> 本文内容由[Ayu-mi-x 4 + selection](https://zh.wikipedia.org/wiki/Ayu-mi-x_4_+_selection)转换而来。
+
+
 《**ayu-mi-x 4 + selection**》（濱崎·步·一樣 4 + 精選）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2002年3月20日於日本發售。為《ayu-mi-x》第四個系列，也是唯一包含精選型態的混音作品。
 
 ## 說明

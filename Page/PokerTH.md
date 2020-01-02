@@ -1,3 +1,6 @@
+> 本文内容由[PokerTH](https://zh.wikipedia.org/wiki/PokerTH)转换而来。
+
+
 **PokerTH** 是[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[德州扑克游戏](https://zh.wikipedia.org/wiki/德州扑克 "wikilink")，对应[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，和[Linux](../Page/Linux.md "wikilink")。游戏符合德州扑克的规则和赌博系统。PokerTH支持7名玩家。也可以对付电脑，也可以在线对抗\[1\]。支持[IPv6](../Page/IPv6.md "wikilink")。
 
 ## 参考

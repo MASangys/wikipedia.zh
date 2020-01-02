@@ -1,3 +1,6 @@
+> 本文内容由[WILD HALF](https://zh.wikipedia.org/wiki/WILD_HALF)转换而来。
+
+
 《**WILD HALF**》是[淺美裕子](../Page/淺美裕子.md "wikilink")的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》1996年3·4合併號到1998年52號連載。單行本全17卷，文庫版全10卷。
 
 ## 故事簡介

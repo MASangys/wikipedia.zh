@@ -1,3 +1,6 @@
+> 本文内容由[This Is Where I Came In](https://zh.wikipedia.org/wiki/This_Is_Where_I_Came_In)转换而来。
+
+
 《**This Is Where I Came In**》是[Bee Gees的第](https://zh.wikipedia.org/wiki/Bee_Gees "wikilink")20張原創專輯，也是他們的最後一張全部都是新歌的專輯。發行於2001年，不久後的2003年[莫里斯·吉布](../Page/莫里斯·吉布.md "wikilink")病逝，從此Bee Gees就停止了運作。專輯中的主打歌《"[This Is Where I Came In](https://zh.wikipedia.org/wiki/This_Is_Where_I_Came_In_\(歌曲\) "wikilink")"》就說是表現了Bee Gees樂隊的生涯，曾登上英國音樂排行榜第18位。
 
 ## 簡介

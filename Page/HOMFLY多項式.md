@@ -1,3 +1,6 @@
+> 本文内容由[HOMFLY多項式](https://zh.wikipedia.org/wiki/HOMFLY多項式)转换而来。
+
+
 在[紐結理論](../Page/紐結理論.md "wikilink")中，**HOMFLY多項式**或**HOMFLY-PT多項式**是一種雙變元的[多項式](../Page/多項式.md "wikilink")[紐結不變量](https://zh.wikipedia.org/wiki/紐結不變量 "wikilink")；透過變元代換，它可以涵括[瓊斯多項式與](https://zh.wikipedia.org/wiki/瓊斯多項式 "wikilink")[亞歷山大多項式在三維的情形](https://zh.wikipedia.org/wiki/亞歷山大多項式 "wikilink")。
 
 「HOMFLY」一名得自該多項式的發現者：Hoste、Ocneanu、Millett、Freyd、Lickorish、Yetter；「PT」二字旨在紀念另兩位獨立發現此結不變量的數學家 Przytycki 與 Traczyk。

@@ -1,3 +1,6 @@
+> 本文内容由[69 sixty nine](https://zh.wikipedia.org/wiki/69_sixty_nine)转换而来。
+
+
 《**69 sixty nine**》，[日本](../Page/日本.md "wikilink")作家[村上龍的自傳小說](https://zh.wikipedia.org/wiki/村上龍 "wikilink")。1987年8月由[集英社](../Page/集英社.md "wikilink")出版，累積銷售超過一百萬本。
 
 2004年改編為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，獲得第47回[藍絲帶賞日本十佳電影](https://zh.wikipedia.org/wiki/藍絲帶賞_\(電影\) "wikilink")，并赴[釜山國際電影節](../Page/釜山國際電影節.md "wikilink")、鹿特丹影展參展。2006年在[台北電影節](../Page/台北電影節.md "wikilink")首映即獲得極大好評，是觀眾好評必看的最佳青春電影。於2007年6月1日－6月14日[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")「69青春影展」再次放映。

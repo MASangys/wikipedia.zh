@@ -1,3 +1,6 @@
+> 本文内容由[Media Factory](https://zh.wikipedia.org/wiki/Media_Factory)转换而来。
+
+
 **MEDIA FACTORY**（），是[角川集團](../Page/角川集團.md "wikilink")旗下的[品牌](../Page/品牌.md "wikilink")。主要出版書籍雜誌、卡片遊戲與遊戲軟體。
 
 本條目包括對法人消滅前的**株式會社MEDIA FACTORY**（）的介紹。

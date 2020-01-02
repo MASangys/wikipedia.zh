@@ -1,3 +1,6 @@
+> 本文内容由[Z-DNA](https://zh.wikipedia.org/wiki/Z-DNA)转换而来。
+
+
 [Z-DNA_orbit_animated_small.gif](https://zh.wikipedia.org/wiki/File:Z-DNA_orbit_animated_small.gif "fig:Z-DNA_orbit_animated_small.gif")
 
 **Z-DNA**又稱**Z型DNA**，是DNA雙螺旋結構的一種形式，具有左旋型態的雙股螺旋（與常見的[B-DNA相反](https://zh.wikipedia.org/wiki/B-DNA "wikilink")），並呈現鋸齒形狀。Z-DNA為三種具生物活性的DNA雙螺旋結構之一，另兩種為[A-DNA與B](https://zh.wikipedia.org/wiki/A-DNA "wikilink")-DNA。

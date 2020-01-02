@@ -1,3 +1,6 @@
+> 本文内容由[Encarta](https://zh.wikipedia.org/wiki/Encarta)转换而来。
+
+
 **Encarta**是[微软](../Page/微软.md "wikilink")出品的[數碼](https://zh.wikipedia.org/wiki/數碼 "wikilink")[多媒体](../Page/多媒体.md "wikilink")[百科全书](../Page/百科全书.md "wikilink")，部份內容整合自[ABC百科全書中的](https://zh.wikipedia.org/wiki/ABC百科全書 "wikilink")[科里爾百科全書](../Page/科里爾百科全書.md "wikilink")。Encarta也有線上版，但是線上版只包含有限内容，完整版本是必须购买才能获得的。现在Encarta与[Microsoft Student系列软件一同售出](../Page/Microsoft_Student.md "wikilink")。截至2008年8月，Encarta的最新版本是Encarta 2009。
 
 《Microsoft Student with Encarta Premium 2009》包括了适应从[小学](../Page/小学.md "wikilink")（7岁）至[大学的学生学习内容与工具](https://zh.wikipedia.org/wiki/大学 "wikilink")、电子百科、多语种[字典](../Page/字典.md "wikilink")以及一套儿童教育软件（《Encarta kids》）。与其他电子百科相比，Encarta的优势在于大量的多媒体资料。缺点是其中部分内容不甚客观，有以[美国](../Page/美国.md "wikilink")为中心的倾向，而且内容更新的速度也比较慢，Encarta 2009中很多数据已經改為2007－2008年的资料。

@@ -1,3 +1,6 @@
+> 本文内容由[Geneious](https://zh.wikipedia.org/wiki/Geneious)转换而来。
+
+
 **Geneious** 是一個跨平台的商業生物信息學軟件。
 
 ## 主要特點

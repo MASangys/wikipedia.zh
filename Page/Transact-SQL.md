@@ -1,3 +1,6 @@
+> 本文内容由[Transact-SQL](https://zh.wikipedia.org/wiki/Transact-SQL)转换而来。
+
+
 **Transact-SQL**（又稱T-SQL），是在[Microsoft SQL Server和](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")[Sybase SQL Server上的ANSI](https://zh.wikipedia.org/wiki/Sybase_SQL_Server "wikilink") [SQL](../Page/SQL.md "wikilink")實作，與[Oracle的](https://zh.wikipedia.org/wiki/Oracle "wikilink")[PL/SQL性質相近](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")（不只是實作ANSI SQL，也為自身資料庫系統的特性提供實作支援），目前在Microsoft SQL Server\[1\]和Sybase Adaptive Server\[2\]中仍然被使用為核心的查詢語言。
 
 Transact-SQL是具有批次與區塊特性的SQL指令集合，資料庫開發人員可以利用它來撰寫資料部份的商業邏輯（Data-based Business Logic），以強制限制前端應用程式對資料的控制能力。同時，它也是資料庫物件的主要開發語言。

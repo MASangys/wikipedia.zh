@@ -1,3 +1,6 @@
+> 本文内容由[Daybreak](https://zh.wikipedia.org/wiki/Daybreak)转换而来。
+
+
 《**Daybreak**》（破曉）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第25張單曲，2002年3月6日於日本發售，本作為專輯《I am...》收錄曲〈Daybreak〉的混音重發單曲，限定生產30萬張。
 
 自發行單曲《[Boys & Girls](../Page/Boys_&_Girls.md "wikilink")》以降，至本作以來單曲內大多包含超過10首的混音歌曲，但自本作以後，混音的數量大量降至兩至三曲不等。而本作因是重發緣故，沒有收錄〈Daybreak〉原始混音（專輯的版本）。

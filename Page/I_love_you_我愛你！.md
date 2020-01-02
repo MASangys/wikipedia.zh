@@ -1,3 +1,6 @@
+> 本文内容由[I love you 我愛你！](https://zh.wikipedia.org/wiki/I_love_you_我愛你！)转换而来。
+
+
 《**I love you 我愛你！**》（）是日本女子組合[SKE48](../Page/SKE48.md "wikilink")的第9張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月16日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 歌名「」是將「（意思是「我愛你」，Aishiteru）」和「（I love you，Ai rabu yū）」合起來的詞語。

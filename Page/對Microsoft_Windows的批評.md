@@ -1,3 +1,6 @@
+> 本文内容由[對Microsoft Windows的批評](https://zh.wikipedia.org/wiki/對Microsoft_Windows的批評)转换而来。
+
+
 此条目叙述外界對[Microsoft Windows的批評](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## Windows 95

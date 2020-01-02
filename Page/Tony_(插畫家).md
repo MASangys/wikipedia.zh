@@ -1,3 +1,6 @@
+> 本文内容由[Tony \(插畫家\)](https://zh.wikipedia.org/wiki/Tony_\(插畫家\))转换而来。
+
+
 **Tony**，本名**田中貴之**，毕业于[宫城县](https://zh.wikipedia.org/wiki/宫城县 "wikilink")[仙台市](../Page/仙台市.md "wikilink")的美术专门学校，[日本](../Page/日本.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")、[原畫家](https://zh.wikipedia.org/wiki/原畫家 "wikilink")、[人物設計師](https://zh.wikipedia.org/wiki/人物設計師 "wikilink")。現任[rpm](https://zh.wikipedia.org/wiki/rpm_\(公司\) "wikilink")[有限公司](../Page/有限公司.md "wikilink")[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")。
 
 原為[廣告設計員](https://zh.wikipedia.org/wiki/廣告設計 "wikilink")，後來轉職為插畫家。因[十八禁遊戲的繪畫原畫的工作較多而越趨知名](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。

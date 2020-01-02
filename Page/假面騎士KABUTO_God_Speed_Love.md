@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士KABUTO God Speed Love](https://zh.wikipedia.org/wiki/假面騎士KABUTO_God_Speed_Love)转换而来。
+
+
 《**假面騎士KABUTO GOD SPEED LOVE**》，為[日本](../Page/日本.md "wikilink")[特攝](https://zh.wikipedia.org/wiki/特攝 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》的[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")（電影版），於2006年8月5日上映。另外同期超級戰隊《[轟轟戰隊冒險者](../Page/轟轟戰隊冒險者.md "wikilink")》的劇場版《轟轟戰隊冒險者 THE MOVIE 最強的密寶》也在當天同步上映。
 
 ## 故事

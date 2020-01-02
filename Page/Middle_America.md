@@ -1,3 +1,6 @@
+> 本文内容由[Middle America](https://zh.wikipedia.org/wiki/Middle_America)转换而来。
+
+
 **Middle America**，常译作“（美国的）**心脏地带**”“（美国的）**小镇价值**”“**半个美国**”“**美国中产阶级**”“**中间美国**”“**中美**”“**中部美国**”，是[美式英语中的一句](https://zh.wikipedia.org/wiki/美式英语 "wikilink")[俗语](https://zh.wikipedia.org/wiki/俗语 "wikilink") ，用于描述地理上的美国大部分乡村与郊区的文化状态和区域特征。此术语通常在与[城市进行比较时提及](https://zh.wikipedia.org/wiki/城市群 "wikilink")：这两种状态反应的不同价值观刻画出美国文化上的分歧。
 
 ## 作为文化和地理的描述词

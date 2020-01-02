@@ -1,3 +1,6 @@
+> 本文内容由[Why Wait](https://zh.wikipedia.org/wiki/Why_Wait)转换而来。
+
+
 ***Why Wait***是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[鄉村音樂歌手](https://zh.wikipedia.org/wiki/鄉村音樂 "wikilink")[克斯蒂·李·庫克](../Page/克斯蒂·李·庫克.md "wikilink")的專輯，在2008年9月16日由[Allmusic發行](https://zh.wikipedia.org/wiki/Allmusic "wikilink")。這張專輯的第一張單曲是《15 Minutes of Shame》，在熱門鄉村音樂歌曲榜排行第42名。
 
 專輯裡有兩首歌是翻唱的，分別是由李·格林伍德原唱的《God Bless the USA》和由Kerry Harvick原唱的《Cowgirls》。

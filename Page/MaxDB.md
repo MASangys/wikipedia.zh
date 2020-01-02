@@ -1,3 +1,6 @@
+> 本文内容由[MaxDB](https://zh.wikipedia.org/wiki/MaxDB)转换而来。
+
+
 **MaxDB**是由[SAP公司](../Page/SAP公司.md "wikilink")出售，兼容[ANSI](https://zh.wikipedia.org/wiki/ANSI "wikilink") [SQL-92的](https://zh.wikipedia.org/wiki/SQL-92 "wikilink")[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")。在2003年至2007年间，[MySQL公司也曾参与開發过该数据库](https://zh.wikipedia.org/wiki/MySQL公司 "wikilink")。MaxDB适用于如[mySAP Business Suite的大型SAP环境](https://zh.wikipedia.org/wiki/mySAP_Business_Suite "wikilink")，以及其它需企业级数据库功能的应用环境。MaxDB能够持续运行T字节范围内的数据。
 
 ## 历史

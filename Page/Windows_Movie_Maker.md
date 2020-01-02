@@ -1,3 +1,6 @@
+> 本文内容由[Windows Movie Maker](https://zh.wikipedia.org/wiki/Windows_Movie_Maker)转换而来。
+
+
 **Windows Movie Maker**（包括前稱**Windows Live Movie Maker**的版本；開發代碼為***Sundance***）[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows Live開發的影片編輯軟體](../Page/Windows_Live.md "wikilink")，可以製作、編輯及分享家庭[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")，並新增特殊效果、[音樂及](https://zh.wikipedia.org/wiki/音樂 "wikilink")[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")，然後透過[網路](https://zh.wikipedia.org/wiki/網路 "wikilink")、[電子郵件或](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")[CD](../Page/CD.md "wikilink")分享製作的电影。
 
 曾一度推出改名**Windows Live Movie Maker**的版本\[1\]。“Windows Live Movie Maker”於2008年9月17日在 Windows Live 系列 Wave 3 測試版發布。正式版本于2009年8月19正式推出。

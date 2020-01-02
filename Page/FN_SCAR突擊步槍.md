@@ -1,3 +1,6 @@
+> 本文内容由[FN SCAR突擊步槍](https://zh.wikipedia.org/wiki/FN_SCAR突擊步槍)转换而来。
+
+
 **特種部隊戰鬥突擊步槍**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**[Special operations forces](../Page/特種部隊.md "wikilink") Combat Assault Rifle**，[縮寫](../Page/縮寫.md "wikilink")：**SCAR**）\[1\]，是[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale公司為了滿足](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[美国特种作戰司令部的SCAR標案而製造的現代步槍](https://zh.wikipedia.org/wiki/美国特种作戰司令部 "wikilink")，此槍族有兩種主要版，一種是使用[5.56×45 NATO的SCAR](../Page/5.56×45mm_NATO.md "wikilink")-L（輕型版），和使用[7.62×51 NATO的SCAR](../Page/7.62×51mm_NATO.md "wikilink")-H（重型版），兩種都可以改裝成「狙擊型態」（Long Barrel ）或「近戰型態」（Close Quarters Combat），FN SCAR首次於2007年7月開始小批量量產以有限配發部隊。\[2\]
 
 ## 特徵

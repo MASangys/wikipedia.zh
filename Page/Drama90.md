@@ -1,3 +1,6 @@
+> 本文内容由[Drama90](https://zh.wikipedia.org/wiki/Drama90)转换而来。
+
+
 [Drama90.png](https://zh.wikipedia.org/wiki/File:Drama90.png "fig:Drama90.png") **Drama90**為[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")於黃金時段播放的劇集系列，是「生生不息 早春3月3」新排陣中的成員。由2008年3月3日起，只要劇集連廣告播放時間共90分鐘，就會在劇集名稱前加上**Drama90**字樣。直到另一新排陣「春日花火 愈戰愈強」後，此稱號仍繼續使用。
 
 相隔2008年最後一套**Drama90**劇集《[王與我](https://zh.wikipedia.org/wiki/王與我 "wikilink")》播出的七個月後，**Drama90**才被重新使用。

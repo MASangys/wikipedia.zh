@@ -1,3 +1,6 @@
+> 本文内容由[Com8](https://zh.wikipedia.org/wiki/Com8)转换而来。
+
+
 **Com8**（注英文发音为 Com-Eight，似乎接近法文原名 “Comète”（= 彗星），但原名名称以被注册。）是一个1998年建立的街头风格（street wear）服装品牌。创始人是法国[Rap二人组NTM的歌手Joey](https://zh.wikipedia.org/wiki/Rap "wikilink") Starr， 与两个合作人（品牌总经理Rolang Ragot 和Thierry Abitbol）。
 
 如同美国品牌FUBU（虎步），原先Com8争取[Hip Hop青年爱好者的喜爱](https://zh.wikipedia.org/wiki/Hip_Hop "wikilink")。1998年，NTM两名歌手出色的巡回演唱会，使Com8也得到了品牌推广最佳的成功。众多接近NTM的rappers（饶舌歌手）也喜欢上这品牌（比如Joey Starr建立的Rap组合B.O.S.S.）。之后也赢得了许多娱乐界明星的接收（幽默家，电视节目主持人等...）。它的成就迅速地超越了单单喜欢街头风格的市场，扩展了许多时尚服装及服饰款式（2002年推出了女性服装系列等）。如今持有在法国代理品牌的合作项目：LANCO公司代理行李系列；ALPA公司代理学校文具用品与学校行李系列；OPAL公司代理眼镜；其他公司代理鞋。2008年NTM二人组合又返回舞坛，在法国及其他欧洲国家巡回演出。这次巡回正式指定的合作伙伴COM-EIGHT，将趁此机会创立一系列特别产品。

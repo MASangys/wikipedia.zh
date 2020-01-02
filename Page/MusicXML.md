@@ -1,3 +1,6 @@
+> 本文内容由[MusicXML](https://zh.wikipedia.org/wiki/MusicXML)转换而来。
+
+
 **MusicXML**（，**音乐扩展标记语言**）是一个开放的基于[XML](../Page/XML.md "wikilink")的记录西式[乐谱的](https://zh.wikipedia.org/wiki/乐谱 "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")。该格式是完全自由、开放记录的，并依据W3C社区的许可协议自由使用。\[1\]\[2\]
 
 ## 历史

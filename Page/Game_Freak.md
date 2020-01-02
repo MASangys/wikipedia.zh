@@ -1,3 +1,6 @@
+> 本文内容由[Game Freak](https://zh.wikipedia.org/wiki/Game_Freak)转换而来。
+
+
 **Game Freak**（）是[日本](../Page/日本.md "wikilink")遊戲開發、發行商。它的代表作品是「[精灵宝可梦](../Page/精灵宝可梦系列.md "wikilink")」遊戲系列。
 
 ## 概略

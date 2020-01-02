@@ -1,3 +1,6 @@
+> 本文内容由[DMF](https://zh.wikipedia.org/wiki/DMF)转换而来。
+
+
 **DMF**可能指：
 
 ## 化学

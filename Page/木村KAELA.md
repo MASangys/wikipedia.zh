@@ -1,3 +1,6 @@
+> 本文内容由[木村KAELA](https://zh.wikipedia.org/wiki/木村KAELA)转换而来。
+
+
 **木村KAELA** 是[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[模特兒](../Page/模特兒.md "wikilink")和[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，原名是（Kimura KaelaRie）。[東京都立向丘高等學校畢業](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，原所屬唱片公司为[哥倫比亞音樂](https://zh.wikipedia.org/wiki/哥倫比亞音樂 "wikilink")（Columbia Music Entertainment，契约至2013年终止），现所属唱片公司为VICTOR，而所屬的經紀公司是[Sony Music Artists](../Page/Sony_Music_Artists.md "wikilink")。常與各式各樣的音樂人合作，音樂及個人特色強烈顯明。在電視現場及演唱會皆與合作已久的音樂夥伴（專屬樂團成員）演出，偶爾自彈[吉他](../Page/吉他.md "wikilink")。
 
 ## 來歷

@@ -1,3 +1,6 @@
+> 本文内容由[WASP-2](https://zh.wikipedia.org/wiki/WASP-2)转换而来。
+
+
 **WASP-2**是位於[海豚座](../Page/海豚座.md "wikilink")，距離469光年，[視星等](https://zh.wikipedia.org/wiki/視星等 "wikilink")12等的一顆[橘色矮星](https://zh.wikipedia.org/wiki/橘色矮星 "wikilink") \[1\]
 。
 

@@ -1,3 +1,6 @@
+> 本文内容由[Gaia Gear](https://zh.wikipedia.org/wiki/Gaia_Gear)转换而来。
+
+
 《**Gaia Gear**》（，*GAIA GEAR*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[小说](../Page/小说.md "wikilink")之一，由[富野由悠季](../Page/富野由悠季.md "wikilink")主笔创作，1987年至1991年间由月刊[動畫雜誌](../Page/動畫雜誌.md "wikilink")《[月刊Newtype](https://zh.wikipedia.org/wiki/月刊Newtype "wikilink")》60集连载发表，后全5册平装出版。
 
 ## 概要

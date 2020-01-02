@@ -1,3 +1,6 @@
+> 本文内容由[PEST分析](https://zh.wikipedia.org/wiki/PEST分析)转换而来。
+
+
 **PEST分析**是利用[環境掃描分析](https://zh.wikipedia.org/wiki/環境掃描 "wikilink")[總體環境中的](https://zh.wikipedia.org/wiki/總體環境 "wikilink")**政治**（**P**olitical）、**經濟**（**E**conomic）、**社會**（**S**ocial）與**科技**（**T**echnological）等四種因素的一種模型。這也是在作[市場研究](../Page/市場研究.md "wikilink")時，外部分析的一部份，能給予公司一個針對總體環境中不同因素的概述。這個策略工具也能有效的了解市場的成長或衰退、企業所處的情況、潛力與營運方向。
 
 ## 歷史

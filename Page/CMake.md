@@ -1,3 +1,6 @@
+> 本文内容由[CMake](https://zh.wikipedia.org/wiki/CMake)转换而来。
+
+
 **CMake**是個一個[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[自動化建構系統](https://zh.wikipedia.org/wiki/Build_automation "wikilink")，用來管理軟體建置的程序，並不依賴於某特定編譯器，並可支援多層目錄、多個應用程式與多個函式庫。 它用組態檔控制建構過程（build process）的方式和[Unix的](https://zh.wikipedia.org/wiki/Unix "wikilink")[make相似](https://zh.wikipedia.org/wiki/make "wikilink")，只是CMake的組態檔取名為CMakeLists.txt。CMake並不直接建構出最終的軟體，而是產生標準的建構檔（如Unix的Makefile或Windows [Visual C++的projects](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")/workspaces），然後再依一般的建構方式使用。這使得熟悉某個[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")（IDE）的開發者可以用標準的方式建構他的軟體，這種可以使用各平台的原生建構系統的能力是CMake和[SCons](../Page/SCons.md "wikilink")等其他類似系統的區別之處。 CMake設定檔(CMakeLists.txt)可設定原始碼或目標程式庫的路徑、產生[適配器](https://zh.wikipedia.org/wiki/適配器 "wikilink")（wrapper）、還可以用任意的順序建構執行檔。CMake支援in-place建構（二進檔和原始碼在同一個目錄樹中）和out-of-place建構（二進檔在別的目錄裡），因此可以很容易從同一個原始碼目錄樹中建構出多個二進檔。CMake也支援靜態與動態程式庫的建構。
 
 「CMake」這個名字是"Cross platform Make"的縮寫。雖然名字中含有"make"，但是CMake和Unix上常見的「make」系統是分開的，而且更為高階。 它可與原生建置環境結合使用，例如：make、[蘋果的Xcode與](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[微軟的Visual](../Page/微软.md "wikilink") Studio。

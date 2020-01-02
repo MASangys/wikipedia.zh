@@ -1,3 +1,6 @@
+> 本文内容由[臺北西站A棟](https://zh.wikipedia.org/wiki/臺北西站A棟)转换而来。
+
+
 [Taipei_West_Bus_Station_Terminal_A_inside_2.jpg](https://zh.wikipedia.org/wiki/File:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg "fig:Taipei_West_Bus_Station_Terminal_A_inside_2.jpg") **臺北西站A棟**（[英語譯名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Taipei West Bus Station Terminal A，另有一誤用的名字**交六轉運站**\[1\]、**臺北西A站**或**臺北Ａ站**\[2\]），位於[臺灣](../Page/臺灣.md "wikilink")[臺北市](../Page/臺北市.md "wikilink")[中正區](https://zh.wikipedia.org/wiki/中正區_\(臺北市\) "wikilink")、[臺北車站特定專用區交通六號用地東南角](https://zh.wikipedia.org/wiki/臺北車站 "wikilink")，為[臺北市](../Page/臺北市.md "wikilink")主要的[公路長途客運](../Page/臺灣汽車客運.md "wikilink")（國道客運）車站之一，其前身為臺北東站、臺北北站及國道客運臺北總站。為了配合[臺北市政府](../Page/臺北市政府.md "wikilink")的[西區門戶計畫](https://web.archive.org/web/20171031121001/http://tpstation.com.tw/)，在2016年10月30日停止使用、並將予以拆除\[3\]\[4\]。
 
 ## 概要

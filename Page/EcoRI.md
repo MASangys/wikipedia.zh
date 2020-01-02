@@ -1,3 +1,6 @@
+> 本文内容由[EcoRI](https://zh.wikipedia.org/wiki/EcoRI)转换而来。
+
+
 [EcoRI_restriction_enzyme_recognition_site.svg](https://zh.wikipedia.org/wiki/File:EcoRI_restriction_enzyme_recognition_site.svg "fig:EcoRI_restriction_enzyme_recognition_site.svg")[ECOR1_Crystal_Structure.rsh.png](https://zh.wikipedia.org/wiki/File:ECOR1_Crystal_Structure.rsh.png "fig:ECOR1_Crystal_Structure.rsh.png")
 
 ***Eco*RI**（「I」是「1」的意思）是一種[核酸酶](../Page/核酸酶.md "wikilink")，來自某些特定品系的[大腸桿菌](../Page/大腸桿菌.md "wikilink")（*E. coli*，也是其名稱由來），是此種細菌體內參與[限制修飾系統的酵素](https://zh.wikipedia.org/wiki/限制修飾系統 "wikilink")。

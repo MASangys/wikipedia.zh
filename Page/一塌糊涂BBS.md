@@ -1,3 +1,6 @@
+> 本文内容由[一塌糊涂BBS](https://zh.wikipedia.org/wiki/一塌糊涂BBS)转换而来。
+
+
 [ythtlogin.jpg](https://zh.wikipedia.org/wiki/File:ythtlogin.jpg "fig:ythtlogin.jpg")
 
 **一塌糊涂BBS**（YTHT BBS），是一个完全民间性质的[BBS](../Page/BBS.md "wikilink")站点，1999年9月17日開設，曾是[中国大陆](../Page/中国大陆.md "wikilink")非常具有影响力的一个BBS，在2004年9月關站前也是[教育网内平均在线人数最多的BBS](https://zh.wikipedia.org/wiki/教育网 "wikilink")。在其管理理念的影响下，BBS上的[言论自由程度较高](https://zh.wikipedia.org/wiki/言论自由 "wikilink")，民主氛围较浓，受此影响，一塌糊涂多次面临共产党政权的政治压力，曾多次被要求局部版面整顿和设为只读状态，并于2004年9月13日下午被[北京市通信管理局](../Page/北京市通信管理局.md "wikilink")执行关站，當時北大部分教授对此次关站的合法性提出了质疑，\[1\]2007年1月重新開放。

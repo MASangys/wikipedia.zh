@@ -1,3 +1,6 @@
+> 本文内容由[CHAIN](https://zh.wikipedia.org/wiki/CHAIN)转换而来。
+
+
 **CHAIN**是KAT-TUN第六張專輯。於2012年2月22日在日本發行，台灣方面在2012年3月9日由[愛貝克思發行](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")。
 
 ## 概要

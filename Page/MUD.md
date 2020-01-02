@@ -1,3 +1,6 @@
+> 本文内容由[MUD](https://zh.wikipedia.org/wiki/MUD)转换而来。
+
+
 **MUD**（），原指**多使用者迷宮**（Multi-User Dungeon），後又被称为**多使用者空間**（Multi-User Dimension）或**多使用者領土**（Multi-User Domain）。**MUD**是多人即時虛擬类游戏，通常以文字描述為基礎。**MUD**結合了[角色扮演](../Page/角色扮演游戏.md "wikilink")、[砍殺](../Page/砍殺遊戲.md "wikilink")、[玩家與玩家對戰](../Page/玩家對戰.md "wikilink")、[互動小說與](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")[線上聊天等元素](https://zh.wikipedia.org/wiki/网络聊天 "wikilink")，玩家可以閱讀或檢視房間、物品与其他玩家、非玩家角色的描述，並在虛擬世界中做出特定行为。玩家通常會通过輸入類似自然語言的指令來與虛擬世界中的其他玩家、[NPC互動](https://zh.wikipedia.org/wiki/NPC "wikilink")。
 
 ## 概念

@@ -1,3 +1,6 @@
+> 本文内容由[Hisashi](https://zh.wikipedia.org/wiki/Hisashi)转换而来。
+
+
 **Hisashi**（），本名：外村尚（とのむら ひさし）、[日本](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")[GLAY](../Page/GLAY.md "wikilink")的[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。
 
 生於[青森縣](../Page/青森縣.md "wikilink")[弘前市](../Page/弘前市.md "wikilink")，在北海道[函館市](../Page/函館市.md "wikilink")長大。北海道函館稜北高等学校畢業。綽號「TONO」。

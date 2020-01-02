@@ -1,3 +1,6 @@
+> 本文内容由[PortableApps.com](https://zh.wikipedia.org/wiki/PortableApps.com)转换而来。
+
+
 **PortableApps.com**平台是一個提供各種[免費](../Page/免費軟體.md "wikilink")、通常用於[Microsoft Windows平台的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[可攜式軟體網站](https://zh.wikipedia.org/wiki/可攜式軟體 "wikilink")。這些[綠色軟體](../Page/綠色軟體.md "wikilink")都被重新包裝，以適合於便攜環境中使用，例如：存放在[闪存盘](../Page/闪存盘.md "wikilink")中。使用者的數據儲存在應用程式以外的資料夾內，以便當使用者更新、升級或遷移應用程式時，其個人資料不受影響\[1\]。而要刪除這些軟體亦很簡單：只要刪除整個應用程式的資料夾，無需經過繁瑣的解除應用程式過程\[2\]。
 
 PortableApps.com是由[John T. Haller所成立的](https://zh.wikipedia.org/wiki/John_T._Haller "wikilink")，並由超過100位軟體開發者、設計者及翻譯者的參與。

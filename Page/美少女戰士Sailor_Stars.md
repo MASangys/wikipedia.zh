@@ -1,3 +1,6 @@
+> 本文内容由[美少女戰士Sailor Stars](https://zh.wikipedia.org/wiki/美少女戰士Sailor_Stars)转换而来。
+
+
 《**美少女戰士Sailor Stars**》（）是1996年3月9日到1997年2月8日播放的[日本動畫作品](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。
 
 ## 概要

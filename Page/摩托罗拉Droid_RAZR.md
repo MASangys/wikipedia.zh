@@ -1,3 +1,6 @@
+> 本文内容由[摩托罗拉Droid RAZR](https://zh.wikipedia.org/wiki/摩托罗拉Droid_RAZR)转换而来。
+
+
 [Motorola_RAZR_XT910.jpg](https://zh.wikipedia.org/wiki/File:Motorola_RAZR_XT910.jpg "fig:Motorola_RAZR_XT910.jpg") **Motorola Droid RAZR**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[摩托羅拉公司於](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")2011年推出的智慧型手機。該機的7.1mm厚度讓其成為市場上最薄之雙核心智慧型手機。（薄於[Samsung Galaxy S II的](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S_II "wikilink")8.49mm）該智慧型手機也是第一隻採用[qHD](https://zh.wikipedia.org/wiki/qHD "wikilink") [Super AMOLED的智慧型手機](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")。
 
 ## 規格\[1\]

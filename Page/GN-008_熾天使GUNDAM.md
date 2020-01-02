@@ -1,3 +1,6 @@
+> 本文内容由[GN-008 熾天使GUNDAM](https://zh.wikipedia.org/wiki/GN-008_熾天使GUNDAM)转换而来。
+
+
 | **熾天使GUNDAM**                                                                                           |
 | ------------------------------------------------------------------------------------------------------- |
 | [GN-008 熾天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-008_Seravee_Gundam.jpg "fig:GN-008 熾天使GUNDAM") |

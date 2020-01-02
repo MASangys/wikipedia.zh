@@ -1,3 +1,6 @@
+> 本文内容由[涼宮春日的憂鬱 角色CD](https://zh.wikipedia.org/wiki/涼宮春日的憂鬱_角色CD)转换而来。
+
+
 **涼宮春日的憂鬱 角色CD**是從2006年7月5日到2007年2月21日由[Lantis](../Page/Lantis.md "wikilink")發行的一連串[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2009年再發行**涼宮春日的憂鬱 新角色CD**，從2009年9月30日到2009年12月9日由[Lantis](../Page/Lantis.md "wikilink")發行。
 
 ## 概要

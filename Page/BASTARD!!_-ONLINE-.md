@@ -1,3 +1,6 @@
+> 本文内容由[BASTARD!! -ONLINE-](https://zh.wikipedia.org/wiki/BASTARD!!_-ONLINE-)转换而来。
+
+
 《**BASTARD\!\! -ONLINE-**》是一款以日本漫畫家[萩原一至的漫畫作品](https://zh.wikipedia.org/wiki/萩原一至 "wikilink")《[暗黑破壞神](https://zh.wikipedia.org/wiki/暗黑破壞神_\(漫畫\) "wikilink")》為基礎的大型多人在線角色扮演遊戲（[MMORPG](https://zh.wikipedia.org/wiki/MMORPG "wikilink")）。《BASTARD\!\! -ONLINE-》由日本遊戲公司[TECMO開發](https://zh.wikipedia.org/wiki/TECMO "wikilink")，遊戲製作人是[河野順太郎](https://zh.wikipedia.org/wiki/河野順太郎 "wikilink")，總監是[山口英久](https://zh.wikipedia.org/wiki/山口英久 "wikilink")。曾在2008年[東京電玩展公開了它的宣傳動畫](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")，原定預計於2009年內於日本公開上市，2009年中止開發。\[1\]2009年12月，[TECMO宣布开发中止](https://zh.wikipedia.org/wiki/TECMO "wikilink")。\[2\]
 
 ## 簡史

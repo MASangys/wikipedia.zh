@@ -1,3 +1,6 @@
+> 本文内容由[Takuro](https://zh.wikipedia.org/wiki/Takuro)转换而来。
+
+
 **Takuro**（），本名：久保琢郎（くぼ たくろう），日本著名音樂家。
 
 [搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")．[GLAY](../Page/GLAY.md "wikilink")的團長、擔任[吉他手以及](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Kamijo](https://zh.wikipedia.org/wiki/Kamijo)转换而来。
+
+
 **KAMIJO**（かみじょう、），日本歌手、音樂製作人，曾为視覺系樂團・[LAREINE](https://zh.wikipedia.org/wiki/LAREINE "wikilink")、[NEW SODMY](https://zh.wikipedia.org/wiki/NEW_SODMY "wikilink")、[Versailles的主唱](../Page/Versailles_-Philharmonic_Quintet-.md "wikilink")，目前SOLO活动中。本名：上城祐之（かみじょう ゆうじ）。出身于[神奈川縣](../Page/神奈川縣.md "wikilink")[平塚市](../Page/平塚市.md "wikilink")。血型是O型。
 
 ## 經歷

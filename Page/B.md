@@ -1,3 +1,6 @@
+> 本文内容由[B](https://zh.wikipedia.org/wiki/B)转换而来。
+
+
 **B** (音讀 *bee* \[1\])是的第二個字母。B這個字母可以用來表示[双唇音](../Page/双唇音.md "wikilink")，但以[濁雙唇塞音作為最常用的用法](https://zh.wikipedia.org/wiki/濁雙唇塞音 "wikilink")。
 
 ## 字母B的含意

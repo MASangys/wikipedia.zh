@@ -1,3 +1,6 @@
+> 本文内容由[C值](https://zh.wikipedia.org/wiki/C值)转换而来。
+
+
 **C值**（英語：**C-value**）是指[真核生物](../Page/真核生物.md "wikilink")[細胞中](https://zh.wikipedia.org/wiki/細胞 "wikilink")，[單倍](https://zh.wikipedia.org/wiki/單倍體 "wikilink")[細胞核](https://zh.wikipedia.org/wiki/細胞核 "wikilink")（受精卵或[二倍體](https://zh.wikipedia.org/wiki/二倍體 "wikilink")[體細胞中的一半量](https://zh.wikipedia.org/wiki/體細胞 "wikilink")）裡所擁有的[DNA含量](https://zh.wikipedia.org/wiki/DNA "wikilink")。有時候C值和[基因組大小](../Page/基因組大小.md "wikilink")兩個用詞可替換使用，不過對於[多倍體而言](https://zh.wikipedia.org/wiki/多倍體 "wikilink")，C值可能是指同一個細胞核中的兩個基因組。 一个物种单倍体基因组的DNA含量是相对的恒定的，它通常称为该物种DNA的C值。
 
 ## 詞源

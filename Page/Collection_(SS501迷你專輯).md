@@ -1,3 +1,6 @@
+> 本文内容由[Collection \(SS501迷你專輯\)](https://zh.wikipedia.org/wiki/Collection_\(SS501迷你專輯\))转换而来。
+
+
 **《Collection》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")，自成員[金賢重](../Page/金賢重.md "wikilink")演出韓版「[花樣男子](../Page/花樣男子.md "wikilink")」、[朴政珉](../Page/朴政珉.md "wikilink")演出音樂劇「Grease」與[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")組成『Triple S』發行「U R Man」special album 第五張韓文迷你專輯闊別**一年零三個月**後合體於2009年7月3日發行的迷你專輯。此專輯收錄由2008年6月18日線上公開音源的[賢重與](../Page/金賢重.md "wikilink")[永生及](../Page/許永生.md "wikilink")[奎鐘的獨唱新曲和](../Page/金奎鐘.md "wikilink")2008年6月30日線上公開音源的[政珉](../Page/朴政珉.md "wikilink")、[亨俊的](../Page/金亨俊.md "wikilink")2首獨唱新曲及[永生](../Page/許永生.md "wikilink")、[奎鐘](../Page/金奎鐘.md "wikilink")、[亨俊](../Page/金亨俊.md "wikilink")「U R Man」時期所演唱的曲目共6首歌曲\[1\]。
 
 同年5月遠赴[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[拉斯維加斯拍攝單曲海報寫真](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")。並且個別為成員獨唱歌曲錄製<u>單曲前導式預告片</u>\[2\]與製作長達20分鐘的**劇情式[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")**－〈殺手輓歌〉\[3\]。

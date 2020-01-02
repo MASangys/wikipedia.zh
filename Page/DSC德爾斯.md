@@ -1,3 +1,6 @@
+> 本文内容由[DSC德爾斯](https://zh.wikipedia.org/wiki/DSC德爾斯)转换而来。
+
+
 [DSCTCSHOP.jpg](https://zh.wikipedia.org/wiki/File:DSCTCSHOP.jpg "fig:DSCTCSHOP.jpg") [銅鑼灣店小家電部.jpg](https://zh.wikipedia.org/wiki/File:銅鑼灣店小家電部.jpg "fig:銅鑼灣店小家電部.jpg") [Dsc_shatin_shop_furnitureedited.jpg](https://zh.wikipedia.org/wiki/File:Dsc_shatin_shop_furnitureedited.jpg "fig:Dsc_shatin_shop_furnitureedited.jpg")
 
 **DSC德爾斯**（1997年－2015年8月3日），原名**DSC直銷中心**（**Direct Sale Centre**），1997年由[許明順博士創立](https://zh.wikipedia.org/wiki/許明順 "wikilink")，是[香港](../Page/香港.md "wikilink")一站式[連鎖店](../Page/連鎖店.md "wikilink")。DSC曾開設達18間分店，聘用約900位[職員](https://zh.wikipedia.org/wiki/職員 "wikilink")\[1\]，主要銷售[傢俬](https://zh.wikipedia.org/wiki/傢俬 "wikilink")、櫥櫃、[日用品](../Page/日用品.md "wikilink")、[電器及電子產品等](https://zh.wikipedia.org/wiki/電器 "wikilink")[商品](../Page/商品.md "wikilink")，並曾邀請藝人[王賢誌](../Page/王賢誌.md "wikilink")及[馬國明任代言人](https://zh.wikipedia.org/wiki/馬國明 "wikilink")。到2015年8月3日，公司指由於經營困難，集團財政於2012至14年出現重大問題，所以董事會通過決議，正式結束營業，所有員工同日被遣散。

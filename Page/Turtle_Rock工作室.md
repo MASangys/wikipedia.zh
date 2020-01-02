@@ -1,3 +1,6 @@
+> 本文内容由[Turtle Rock工作室](https://zh.wikipedia.org/wiki/Turtle_Rock工作室)转换而来。
+
+
 **Turtle Rock工作室**（）是美國的一個獨立製作電玩遊戲工作室，2002年由[麥可·布斯](https://zh.wikipedia.org/wiki/麥可·布斯 "wikilink")（Michael Booth）創立。Turtle Rock工作室主要將目標專注於原創或是既有延伸的遊戲的開發，並且將遊戲透過商議提供給大型數位娛樂企業。
 
 ## 公司历史

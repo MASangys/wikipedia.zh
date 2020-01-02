@@ -1,3 +1,6 @@
+> 本文内容由[Boys \& Girls](https://zh.wikipedia.org/wiki/Boys_\&_Girls)转换而来。
+
+
 《**Boys & Girls**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第9張單曲。輕鬆的曲調廣受歡迎，成為濱崎步第一張的百萬單曲，同時也成為濱崎步每年演唱會不可缺少的曲目之一。於1999年7月14日在日本發售。
 
 ## 說明

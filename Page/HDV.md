@@ -1,3 +1,6 @@
+> 本文内容由[HDV](https://zh.wikipedia.org/wiki/HDV)转换而来。
+
+
 **HDV**是一種用[MiniDV錄影帶來錄影的](https://zh.wikipedia.org/wiki/DV#MiniDV "wikilink")[高清錄影格式](https://zh.wikipedia.org/wiki/高清 "wikilink")，提供一個比以前高清格式更高成本效益高清製作方案。 [jvc-hdv-4642.JPG](https://zh.wikipedia.org/wiki/File:jvc-hdv-4642.JPG "fig:jvc-hdv-4642.JPG")
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[PPS影音](https://zh.wikipedia.org/wiki/PPS影音)转换而来。
+
+
 **PPS影音**，也称**PPS网络电视**、**PPStream**，是[中国一個半免費网络视频平台](https://zh.wikipedia.org/wiki/中国 "wikilink")。该平台创建于2006年1月，採用[點對點](https://zh.wikipedia.org/wiki/點對點 "wikilink")（P2P）技術传输数据。可以免费申请会员，申請後可以觀看PPS影音額外指定的影片，這些影片是非會員無法观看的。申請會員後可升級至尊貴會員，但要收取一定的費用，升級之後可觀看普通會員和非會員無法觀看的影片。
 
 与传统的[流媒体](../Page/流媒体.md "wikilink")相比，PPStream用了P2P技术，具有用户越多播放越稳定、支持数万人同时在线大规模访问等特点，可以用来在线看电视、电影。

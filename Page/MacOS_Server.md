@@ -1,3 +1,6 @@
+> 本文内容由[MacOS Server](https://zh.wikipedia.org/wiki/MacOS_Server)转换而来。
+
+
 **macOS Server**是蘋果公司的一個伺服器操作工具。是运行于[macOS之上的应用软件](https://zh.wikipedia.org/wiki/macOS "wikilink")，包括用于伺服器的額外功能，應用和系統管理工具，用於管理和部署伺服器。 早期的macOS Server是一套独立的操作系统，但从Lion起，它只作为一个工具套件存在。 macOS Server预装于[Mac mini Server和](https://zh.wikipedia.org/wiki/Mac_mini_Server "wikilink")[Mac Pro中](../Page/Mac_Pro.md "wikilink")。现在它也在Mac App Store中單獨銷售，可用于任何运行OS X El Capitan的Mac。
 
 ## 概覽

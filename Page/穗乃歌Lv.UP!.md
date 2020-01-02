@@ -1,3 +1,6 @@
+> 本文内容由[穗乃歌Lv.UP!](https://zh.wikipedia.org/wiki/穗乃歌Lv.UP!)转换而来。
+
+
 《**穗乃歌Lv.UP\!**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[日本](../Page/日本.md "wikilink")作家[太田顯喜原作](https://zh.wikipedia.org/wiki/太田顯喜 "wikilink")、[MATSUDA98作畫的](https://zh.wikipedia.org/wiki/MATSUDA98 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")\[1\]。
 
 ## 概要

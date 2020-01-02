@@ -1,3 +1,6 @@
+> 本文内容由[STAR BLACKS](https://zh.wikipedia.org/wiki/STAR_BLACKS)转换而来。
+
+
 《**STAR BLACKS**》是由[槙陽子](../Page/槙陽子.md "wikilink")在《[Ribon](../Page/Ribon.md "wikilink")》所連載的[少女漫畫作品](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。自2005年4月號至12月號。作品標題取自[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")（）的諧音。
 
 ## 概要

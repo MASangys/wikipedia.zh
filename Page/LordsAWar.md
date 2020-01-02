@@ -1,3 +1,6 @@
+> 本文内容由[LordsAWar](https://zh.wikipedia.org/wiki/LordsAWar)转换而来。
+
+
 {{ Infobox VG | title = LordsAWar | image = <File:Lordsawar-0.13unstable.png> | caption = LordsAWar\! 0.1.3 不稳定版本 | genre = | developer = [Ben Asselstine和其他人](https://zh.wikipedia.org/wiki/Ben_Asselstine "wikilink")\[1\] }} **LordsAWar** 是依据[GPL发布的](https://zh.wikipedia.org/wiki/GPL "wikilink") [回合制策略游戏](../Page/回合制策略游戏.md "wikilink")。设计初衷是为了贴近[战神 (策略游戏)系列第二作](https://zh.wikipedia.org/wiki/战神_\(策略游戏\) "wikilink") *Warlords II*\[2\]\[3\]开始时，它基于[Freelords原有的](https://zh.wikipedia.org/wiki/Freelords "wikilink")[C++](../Page/C++.md "wikilink")代码，继承了因为后者想要转换到[Java](../Page/Java.md "wikilink")\[4\]而放弃的财富。
 
 现在此游戏使用了[韦诺之战](../Page/韦诺之战.md "wikilink")的图像文件构筑地形，并有独特的[单位和](https://zh.wikipedia.org/wiki/单位 "wikilink")[地表图像上传测试页面](https://zh.wikipedia.org/wiki/地表 "wikilink")\[5\]\[6\]。

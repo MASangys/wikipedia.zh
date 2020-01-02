@@ -1,3 +1,6 @@
+> 本文内容由[UTF-7](https://zh.wikipedia.org/wiki/UTF-7)转换而来。
+
+
 **UTF-7**（全称：7位元Unicode轉換格式）是一種可變長度字元編碼方式，用以將[Unicode字元以](https://zh.wikipedia.org/wiki/Unicode "wikilink")[ASCII](../Page/ASCII.md "wikilink")編碼的字元串來呈現，可以應用在[電子郵件傳輸之類的應用](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。
 
 [SMTP為基本的](https://zh.wikipedia.org/wiki/SMTP "wikilink")[電子郵件傳輸標準之一](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")，其指明了傳輸格式為[US-ASCII](../Page/ASCII.md "wikilink")，並且不允許超過ASCII所定義的字元範圍以外的位元值，也就是說八位元的字串將無法正常的被傳輸。[MIME](https://zh.wikipedia.org/wiki/MIME "wikilink")（RFC 2045 \~ 2049）擴展了網路郵件以支援不同的[媒體類型以及](https://zh.wikipedia.org/wiki/媒體 "wikilink")[字元集](https://zh.wikipedia.org/wiki/字元集 "wikilink")，包含[UTF-8](../Page/UTF-8.md "wikilink")與[UTF-16的字元集皆可被指定使用](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")。但由於MIME並未明確將Unicode定義為可支援的字元集，並且也沒有說明其應如何編碼，這使得既有的SMTP傳輸架構下仍舊無法保證可正確的處理8位元資料。[base64編碼也有其問題](https://zh.wikipedia.org/wiki/base64 "wikilink")，例如甚至連純英文的[US-ASCII字元也可能會變成不可辨認](../Page/ASCII.md "wikilink")；至於像是UTF-8與[quoted-printable的編碼結合](https://zh.wikipedia.org/wiki/quoted-printable "wikilink")，則需要6～9個位元來為非ASCII的字元（Unicode的[基本多文種平面中定義的字元](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")）進行編碼，至於在基本多文種平面（BMP）以外的字原則需要多達12位元的長度才能完成編碼

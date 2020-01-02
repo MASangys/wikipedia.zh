@@ -1,3 +1,6 @@
+> 本文内容由[GPRS核心网](https://zh.wikipedia.org/wiki/GPRS核心网)转换而来。
+
+
 **GPRS核心网**（）是[GPRS](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")（通用分组无线业务，）的中心部件，它允许[2G](../Page/2G.md "wikilink")、[3G](../Page/3G.md "wikilink")以及[WCDMA移动网络将](https://zh.wikipedia.org/wiki/宽频码分多址 "wikilink")[IP数据包传送至外部网络](../Page/网际协议.md "wikilink")，例如[因特网](../Page/互联网.md "wikilink")。[GPRS系统是集成于](https://zh.wikipedia.org/wiki/通用分组无线服务 "wikilink")[GSM](../Page/GSM.md "wikilink")[网络交换子系统](../Page/网络交换子系统.md "wikilink")的一部分。
 
 ## 一般支撑功能

@@ -1,3 +1,6 @@
+> 本文内容由[GIS軟件列表](https://zh.wikipedia.org/wiki/GIS軟件列表)转换而来。
+
+
 本条目以字母顺序罗列**[GIS](https://zh.wikipedia.org/wiki/GIS "wikilink")**及相关**[软件](../Page/软件.md "wikilink")**。
 
 ## 3 - F

@@ -1,3 +1,6 @@
+> 本文内容由[Zonbu](https://zh.wikipedia.org/wiki/Zonbu)转换而来。
+
+
 **Zonbu** 是一種環保迷你[電腦的構想](https://zh.wikipedia.org/wiki/電腦 "wikilink")。2006年由 Grégoire Gentil 和 Alain Rossmann提出的低價電腦構想，並於2007年7月開發完成Beta版。
 
 Zonbu採用[Linux](../Page/Linux.md "wikilink")作業系統，預先安裝二十套軟體網路瀏覽器、郵件與日曆、多媒體播放等。預估售價是99美元。

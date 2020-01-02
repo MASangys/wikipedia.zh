@@ -1,3 +1,6 @@
+> 本文内容由[Windows XP新功能](https://zh.wikipedia.org/wiki/Windows_XP新功能)转换而来。
+
+
 [Windows XP有很多在之前Windows版本中找不到的功能](../Page/Windows_XP.md "wikilink")。
 
 ## 用戶界面

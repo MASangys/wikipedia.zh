@@ -1,3 +1,6 @@
+> 本文内容由[BY2](https://zh.wikipedia.org/wiki/BY2)转换而来。
+
+
 **By2**（）是[新加坡](../Page/新加坡.md "wikilink")籍[華语](https://zh.wikipedia.org/wiki/華语 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。成員為[雙胞胎](../Page/雙胞胎.md "wikilink")的姐姐**孫涵**（Miko）和妹妹**孫雨**（Yumi）\[1\]。兩個人名字組合起來便是Yumiko，有「You and Me（你和我）扣在一起」的意思。
 
 團名By2中的**By**指的是她們的姓氏[白的諧音](../Page/白姓.md "wikilink")、而「**2**」解析是因為兩個人所以為Two（2）。

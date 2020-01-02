@@ -1,3 +1,6 @@
+> 本文内容由[Playfish](https://zh.wikipedia.org/wiki/Playfish)转换而来。
+
+
 **Playfish**是一个社交游戏公司，於2009年11月9日被[EA以](https://zh.wikipedia.org/wiki/EA "wikilink")2.5億美元及2500股併購。Playfish的游戏集中发布于社交网站如[Facebook](../Page/Facebook.md "wikilink")、[MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")、[Bebo](../Page/Bebo.md "wikilink")以及 [iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。公司的总部在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦](../Page/伦敦.md "wikilink")，另外有分公司在[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[美国](../Page/美国.md "wikilink")[三藩市和](https://zh.wikipedia.org/wiki/三藩市 "wikilink")[挪威](../Page/挪威.md "wikilink")[特罗姆瑟](../Page/特罗姆瑟.md "wikilink")。Playfish通常會先在Facebook發佈遊戲，之後才發佈到其他平台。現在所有遊戲都已結束營運。
 
 ## 历史

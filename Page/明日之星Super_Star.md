@@ -1,3 +1,6 @@
+> 本文内容由[明日之星Super Star](https://zh.wikipedia.org/wiki/明日之星Super_Star)转换而来。
+
+
 《**明日之星Super Star**》是[民視已停播的歌唱選秀節目](https://zh.wikipedia.org/wiki/民視 "wikilink")，由[胡瓜](../Page/胡瓜.md "wikilink")與[小鐘聯合主持](https://zh.wikipedia.org/wiki/小鐘 "wikilink")，由[百是傳播的資深製作人](https://zh.wikipedia.org/wiki/百是傳播 "wikilink")[黃義雄](../Page/黃義雄.md "wikilink")製作，民視資深導播[黃治偉擔任導播](https://zh.wikipedia.org/wiki/黃治偉 "wikilink")，與民視大部分綜藝節目一樣租用[華視媒體園區](../Page/華視媒體園區.md "wikilink")攝影棚錄影。2008年10月18日至2016年5月21日，於[民視無線台](../Page/民視無線台.md "wikilink")每星期六19:59\~22:00播出。每週五位評審，一位評審最多可給20分，合計總分100分。在每集「國語組衛冕賽」後都有「藝人交流賽」。2016年1月，因胡瓜與黃義雄口角，導致胡瓜罷錄。事後民視介入協調，決定5月28日起由《[台灣那麼旺 Taiwan NO.1](../Page/台灣那麼旺_Taiwan_NO.1.md "wikilink")》接檔《**明日之星Super Star**》，接檔前由曹雅雯、許富凱、郭婷筠搭配小鐘主持。\[1\]。
 
 ## 主持人

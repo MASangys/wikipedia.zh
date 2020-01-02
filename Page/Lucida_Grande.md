@@ -1,3 +1,6 @@
+> 本文内容由[Lucida Grande](https://zh.wikipedia.org/wiki/Lucida_Grande)转换而来。
+
+
 **Lucida Grande**是一种西文[无衬线体](https://zh.wikipedia.org/wiki/无衬线 "wikilink")[字体](../Page/字体.md "wikilink")，属于人文主义体。它曾是[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系统](../Page/操作系统.md "wikilink")的預設字体。作为[Lucida](../Page/Lucida.md "wikilink")字体家族的一员，它的设计师是[查尔斯·毕格罗](https://zh.wikipedia.org/wiki/查尔斯·毕格罗 "wikilink")（Charles Bigelow）和[克里斯·霍尔姆斯](https://zh.wikipedia.org/wiki/克里斯·霍尔姆斯 "wikilink")（Kris Holmes）。它被用于1999年至2014年的macOS用户界面，以及Safari for Windows，直到2009年5月12日发布的3.2.3版。从OS X Yosemite（10.10版本）开始，系统字体已从Lucida Grande更改为[Helvetica Neue](../Page/Helvetica.md "wikilink")。\[1\]在OS X El Capitan（10.11版本）中，系统字体再次改变为[San Francisco](../Page/San_Francisco_\(2014年的字体\).md "wikilink")。\[2\]
 
 和[微软](../Page/微软.md "wikilink")[Windows系统中的](https://zh.wikipedia.org/wiki/Windows "wikilink")[Lucida Sans Unicode类似](https://zh.wikipedia.org/wiki/Lucida_Sans_Unicode "wikilink")，它支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")2.0版本中大多数常用字符。

@@ -1,3 +1,6 @@
+> 本文内容由[AV女優](https://zh.wikipedia.org/wiki/AV女優)转换而来。
+
+
 **AV女優**（），為日本對於[成人视频](https://zh.wikipedia.org/wiki/成人视频 "wikilink")（\[1\]）[女演員的名稱](https://zh.wikipedia.org/wiki/女性色情演員 "wikilink")\[2\]。英語則稱“AV Idol”，強調在[色情](../Page/色情.md "wikilink")录像之中当作一種[性感](../Page/性感.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")、亮麗外表的形式。
 
 ## 概要

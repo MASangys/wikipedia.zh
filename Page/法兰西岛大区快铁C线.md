@@ -1,3 +1,6 @@
+> 本文内容由[法兰西岛大区快铁C线](https://zh.wikipedia.org/wiki/法兰西岛大区快铁C线)转换而来。
+
+
 **法兰西岛大区快铁C线**（），简称RER C，是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁](../Page/法兰西岛大区快铁.md "wikilink")的一条贯通[巴黎](../Page/巴黎.md "wikilink")市郊的线路, 具有众多支線. 该线路连接西北部的[蓬图瓦兹](../Page/蓬图瓦兹.md "wikilink")（Pontoise, C1支線）, （Versailles - Rive Gauche, C5支線）, （Saint-Quentin-en-Yvelines, C7支線）, 以及东南部的[马西巴雷索](https://zh.wikipedia.org/wiki/马西巴雷索 "wikilink")（Massy - Palaiseau, C2支線）, （Dourdan - La Forêt, C4支線）, （Saint-Martin-d'Étampes, C6支線）, [凡尔赛尚蒂埃](https://zh.wikipedia.org/wiki/凡尔赛尚蒂埃 "wikilink")（Versailles-Chantiers, C8支線）. 线路呈多叉双环状, 并穿越巴黎市中心, 有多个车站可以转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink").
 
 RER C线的运营由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF） 负责. C线线路除了C1支線以外, 都在[塞纳河](../Page/塞纳河.md "wikilink")的左岸.

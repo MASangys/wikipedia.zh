@@ -1,3 +1,6 @@
+> 本文内容由[Cativa催化法](https://zh.wikipedia.org/wiki/Cativa催化法)转换而来。
+
+
 [Dicarbonyldiiodoiridium(I)-3D-vdW.png](https://zh.wikipedia.org/wiki/File:Dicarbonyldiiodoiridium\(I\)-3D-vdW.png "fig:Dicarbonyldiiodoiridium(I)-3D-vdW.png")的[空间填充模型](https://zh.wikipedia.org/wiki/空间填充模型 "wikilink")\]\]
 
 **Cativa催化法**是一种通过[甲醇](../Page/甲醇.md "wikilink")[羰基化制备](https://zh.wikipedia.org/wiki/羰基化 "wikilink")[乙酸](../Page/乙酸.md "wikilink")的方法。此法和[孟山都法一样](https://zh.wikipedia.org/wiki/孟山都法 "wikilink")，都是由[英国石油开发并持有专利](https://zh.wikipedia.org/wiki/英国石油 "wikilink")。\[1\] \[2\] 这个方法是基于一种含[铱](../Page/铱.md "wikilink")的催化剂，一般是复合物\[Ir(CO)<sub>2</sub>I<sub>2</sub>\]<sup>−</sup>。

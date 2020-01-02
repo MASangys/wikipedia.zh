@@ -1,3 +1,6 @@
+> 本文内容由[我要Fit一Fit](https://zh.wikipedia.org/wiki/我要Fit一Fit)转换而来。
+
+
 \-{zh:**我要Fit一Fit**（，大陸易名《**出頭當自強**》）;zh-hk:**我要Fit一Fit**（，大陸易名《**出頭當自強**》）;zh-cn:**出头当自强**（，香港本剧名《**我要Fit一Fit**》）}-，[香港](../Page/香港.md "wikilink")[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")[劇集](https://zh.wikipedia.org/wiki/劇集 "wikilink")，於2002年9月16日至10月11日期間首播，共20集。監製[王心慰](../Page/王心慰.md "wikilink")。
 
 ## 演员表

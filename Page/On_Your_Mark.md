@@ -1,3 +1,6 @@
+> 本文内容由[On Your Mark](https://zh.wikipedia.org/wiki/On_Your_Mark)转换而来。
+
+
 《**ON YOUR MARK Ghibli实验剧场**》（），简称**"ON YOUR MARK"**，是由[宫崎骏](../Page/宫崎骏.md "wikilink")在1995年为日本双人组合乐队[恰克與飛鳥](../Page/恰克與飛鳥.md "wikilink")的同名歌曲制作的[音乐短片](../Page/音樂錄影帶.md "wikilink")。整个影片全长6分48秒，除了音乐原声、一些聲效以外没有再进行任何配音。被安排在[吉卜力工作室另一作品](https://zh.wikipedia.org/wiki/吉卜力工作室 "wikilink")《[心之谷](../Page/心之谷.md "wikilink")》片頭前，于1995年7月15日在日本的電影院中合併上映。
 
 ## 剧情简介

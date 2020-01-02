@@ -1,3 +1,6 @@
+> 本文内容由[Wnt信号通路](https://zh.wikipedia.org/wiki/Wnt信号通路)转换而来。
+
+
 **Wnt**[**信号通路**是一个复杂的](https://zh.wikipedia.org/wiki/信号传导 "wikilink")[蛋白质](../Page/蛋白质.md "wikilink")作用网络，其功能最常见于胚胎發育和[癌症](../Page/癌症.md "wikilink")，但也参与成年动物的正常生理过程\[1\]。 现在已鉴别出三种Wnt信号通路：经典Wnt通路（canonical Wnt pathway）、非经典Wnt/平面细胞极化通路（noncanonical Wnt/planar cell polarity pathway，PCP）和非经典Wnt/钙离子通路（noncanonical Wnt/calcium pathway）。所有这三种Wnt信号通路都由Wnt蛋白[配体与其受体](../Page/配體_\(生物化學\).md "wikilink")[卷曲受体](../Page/卷曲受体.md "wikilink")的结合来激活，将信号传给胞内的[散乱蛋白](../Page/散乱蛋白.md "wikilink")。经典Wnt信号通路参与[基因表达的调控](https://zh.wikipedia.org/wiki/基因表达 "wikilink")，非经典平面细胞极化通路调控[细胞骨架](../Page/细胞骨架.md "wikilink")控制细胞形状，非经典Wnt/钙离子通路调控细胞内钙离子的浓度。Wnt信号通路常用于临近的细胞之间的通信（[旁分泌](https://zh.wikipedia.org/wiki/旁分泌信号传送 "wikilink")）或同个细胞自身的通信（）。Wnt信号通路在动物中[高度保守](../Page/保守序列.md "wikilink")，从果蝇到人类都非常类似\[2\]</ref>。
 
 ## 发现

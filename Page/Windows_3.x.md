@@ -1,3 +1,6 @@
+> 本文内容由[Windows 3.x](https://zh.wikipedia.org/wiki/Windows_3.x)转换而来。
+
+
 **Windows 3.x家族**是[微软](../Page/微软.md "wikilink")于1990年到1994年间所發行的[Windows系列操作平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。其中的3.0版是第一个在世界上获得成功的Windows版本。使得微软的[操作系统](../Page/操作系统.md "wikilink")可以和[苹果电脑公司的](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")[麦金塔电脑以及在](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")[圖形使用者界面的](https://zh.wikipedia.org/wiki/圖形使用者界面 "wikilink")[Commodore的](../Page/康懋达国际.md "wikilink")[Amiga](../Page/Amiga.md "wikilink")竞争。
 
 Windows 3.x需從[MS-DOS](../Page/MS-DOS.md "wikilink")操作系统執行。MS-DOS的文件管理程序被基于图标的程序管理程序（icon-based program Manager）以及基于列表的文件管理程序（list-based File Manager，Winfile）取代，由此简化了程序的启动。[控制面板](../Page/控制面板.md "wikilink")作为系统设置的中心，包括了诸如界面颜色主题的有限控制功能。一些捆绑的应用程序也包括在Windows内，例如“-{zh-cn:写字板;zh-tw:小作家}-”、“计算器”等。

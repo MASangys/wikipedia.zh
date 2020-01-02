@@ -1,3 +1,6 @@
+> 本文内容由[LSI公司](https://zh.wikipedia.org/wiki/LSI公司)转换而来。
+
+
 **LSI公司**（）是一家[总部位于](https://zh.wikipedia.org/wiki/总部 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖荷西的](https://zh.wikipedia.org/wiki/聖荷西_\(加利福尼亚州\) "wikilink")[电子](../Page/电子.md "wikilink")[公司](../Page/公司.md "wikilink")，其主要业务是[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")[ASIC](https://zh.wikipedia.org/wiki/ASIC "wikilink")、主机总线适配器、RAID适配器、存储系统和计算机网络产品。公司在台湾使用中文名为“美商艾薩股份有限公司”，其在中国上海的分公司名为“艾萨华科技（上海）有限公司”。
 
 ## 历史

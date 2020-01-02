@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu Studio](https://zh.wikipedia.org/wiki/Ubuntu_Studio)转换而来。
+
+
 [Ubuntu_studio_login_screen.png](https://zh.wikipedia.org/wiki/File:Ubuntu_studio_login_screen.png "fig:Ubuntu_studio_login_screen.png")
 
 **Ubuntu Studio** 是Ubuntu官方認可的[Ubuntu](../Page/Ubuntu.md "wikilink")[作業系統衍生版本](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[1\] 。這個版本主要是為[多媒體製作而設](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。第一個版本基於Ubuntu 7.04，在2007年5月10日發佈。

@@ -1,3 +1,6 @@
+> 本文内容由[NBA总得分榜](https://zh.wikipedia.org/wiki/NBA总得分榜)转换而来。
+
+
 本列表統計的是**國家籃球協會（[NBA](../Page/NBA.md "wikilink")）球員個人職業生涯[常規賽得分總和](https://zh.wikipedia.org/wiki/NBA常規賽 "wikilink")**，NBA球員在其它聯賽（如[ABA](https://zh.wikipedia.org/wiki/ABA "wikilink")）中的數據並不包括在內。所有數據\[1\]都是截至到2019年12月21日。
 
 [Kareem-Abdul-Jabbar_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Kareem-Abdul-Jabbar_Lipofsky.jpg "fig:Kareem-Abdul-Jabbar_Lipofsky.jpg")\]\] [Lipofsky-Karl-Malone-32727.jpg](https://zh.wikipedia.org/wiki/File:Lipofsky-Karl-Malone-32727.jpg "fig:Lipofsky-Karl-Malone-32727.jpg")\]\] [Kobe_Bryant_Drives2.jpg](https://zh.wikipedia.org/wiki/File:Kobe_Bryant_Drives2.jpg "fig:Kobe_Bryant_Drives2.jpg")\]\] [_Lebron_James.jpg](https://zh.wikipedia.org/wiki/File:_Lebron_James.jpg "fig:_Lebron_James.jpg")\]\] [Jordan_by_Lipofsky_16577.jpg](https://zh.wikipedia.org/wiki/File:Jordan_by_Lipofsky_16577.jpg "fig:Jordan_by_Lipofsky_16577.jpg")\]\] [DirkNowitzki.jpg](https://zh.wikipedia.org/wiki/File:DirkNowitzki.jpg "fig:DirkNowitzki.jpg")\]\]

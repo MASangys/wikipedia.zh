@@ -1,3 +1,6 @@
+> 本文内容由[J \(消歧义\)](https://zh.wikipedia.org/wiki/J_\(消歧义\))转换而来。
+
+
 [J j](../Page/J.md "wikilink"), 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第10个[字母](../Page/字母.md "wikilink")，以及[国际音标中表示](https://zh.wikipedia.org/wiki/国际音标 "wikilink")[硬颚近音的符号](https://zh.wikipedia.org/wiki/硬颚近音 "wikilink")。
 
 除此之外，J还可以指代：

@@ -1,3 +1,6 @@
+> 本文内容由[N维球面](https://zh.wikipedia.org/wiki/N维球面)转换而来。
+
+
 [Sphere-wireframe.png](https://zh.wikipedia.org/wiki/File:Sphere-wireframe.png "fig:Sphere-wireframe.png")\]\]
 
 ***n*维球面**是普通的[球面](../Page/球面.md "wikilink")在任意[维度的推广](https://zh.wikipedia.org/wiki/维度 "wikilink")。它是(*n* + 1)维空间内的*n*维[流形](../Page/流形.md "wikilink")。特别地，0维球面就是直线上的两个点，1维球面是[平面上的](../Page/平面_\(数学\).md "wikilink")[圆](../Page/圆.md "wikilink")，2维球面是三维空间内的普通球面。高于2维的球面有时称为**超球面**。中心位于原点且半径为单位长度的*n*维球面称为**单位*n*维球面**，记为*S*<sup>*n*</sup>。用符号来表示，就是：

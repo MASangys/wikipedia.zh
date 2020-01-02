@@ -1,3 +1,6 @@
+> 本文内容由[GOTH 斷掌事件](https://zh.wikipedia.org/wiki/GOTH_斷掌事件)转换而来。
+
+
 《**GOTH 斷掌事件**》是[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。獲得第3屆「本格MYSTERY大賞」。之後改編為[漫畫及真人版](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 出版資訊

@@ -1,3 +1,6 @@
+> 本文内容由[REALbasic](https://zh.wikipedia.org/wiki/REALbasic)转换而来。
+
+
 [Realbasic2005macide.jpg](https://zh.wikipedia.org/wiki/File:Realbasic2005macide.jpg "fig:Realbasic2005macide.jpg")中使用Realbasic的畫面\]\] [Tour-linux-1-windoweditor.jpg](https://zh.wikipedia.org/wiki/File:Tour-linux-1-windoweditor.jpg "fig:Tour-linux-1-windoweditor.jpg")中使用REALbasic的畫面\]\] [Tour-win-1-windoweditor.jpg](https://zh.wikipedia.org/wiki/File:Tour-win-1-windoweditor.jpg "fig:Tour-win-1-windoweditor.jpg")中使用REALbasic的畫面\]\] **REALbasic**又名[Real Studio是一個基於](https://zh.wikipedia.org/wiki/Real_Studio "wikilink")[BASIC](../Page/BASIC.md "wikilink")語言的編程語言及[跨平臺](../Page/跨平臺.md "wikilink")開發工具，由[REAL Software, Inc.的Andrew](https://zh.wikipedia.org/wiki/REAL_Software,_Inc. "wikilink") Barry于1997年6月12日于官方網站公佈，原名「CrossBASIC」\[1\]。REALbasic能够在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac及](https://zh.wikipedia.org/wiki/Mac "wikilink")[Linux](../Page/Linux.md "wikilink")這三种[操作系統上运行](https://zh.wikipedia.org/wiki/操作系統 "wikilink")\[2\]，并能生成本机代码，即原生的应用程序。此外，还能生成Web程序，并将支持iOS等移动平台。由于除了兼容部分BASIC语言的语法之外，这款开发工具已经与过气的老式BASIC语言渐行渐远，因此于2013年的第一个发行版开始产品名称、企业名称均更名为[Xojo](../Page/Xojo.md "wikilink")（音近"啁啾"）。
 
 ## REALbasic的特徵

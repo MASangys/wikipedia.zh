@@ -1,3 +1,6 @@
+> 本文内容由[演进式HSPA](https://zh.wikipedia.org/wiki/演进式HSPA)转换而来。
+
+
 **演進式HSPA**（又名: HSPA Evolution、I-HSPA或Internet HSPA，常简称为**HSPA+**），定義於[3GPP](../Page/3GPP.md "wikilink") release 7。
 
 在使用[MIMO](../Page/MIMO.md "wikilink")技術以及更高速的[調變](../Page/調變.md "wikilink")技術下，HSPA+提供HSPA的數據傳輸率達到下行42Mbit/s以及上行23Mbit/s,這種技術現在被稱為DC-HSPA+。

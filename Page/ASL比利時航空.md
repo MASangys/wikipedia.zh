@@ -1,3 +1,6 @@
+> 本文内容由[ASL比利時航空](https://zh.wikipedia.org/wiki/ASL比利時航空)转换而来。
+
+
 **ASL比利時航空**，前身為TNT航空，是貨物和搭載乘客的[包機](../Page/包機.md "wikilink")航空，樞紐在[比利時的](https://zh.wikipedia.org/wiki/比利時 "wikilink")[列日](../Page/列日.md "wikilink")。於1999年由[TNT集团](../Page/TNT集团.md "wikilink")成立。這也是[TNT快递的一部分](https://zh.wikipedia.org/wiki/TNT快递 "wikilink")。TNT航空每天有超過67個貨物航線到各地機場 。在2004年5月他們開始操作乘客包機服務。
 
 ## 機隊

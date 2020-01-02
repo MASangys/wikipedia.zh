@@ -1,3 +1,6 @@
+> 本文内容由[F型连接头](https://zh.wikipedia.org/wiki/F型连接头)转换而来。
+
+
 [F_Connector.jpg](https://zh.wikipedia.org/wiki/File:F_Connector.jpg "fig:F_Connector.jpg")
 
 **F型连接头**是一种[同轴](https://zh.wikipedia.org/wiki/同轴 "wikilink")[射频连接器](https://zh.wikipedia.org/wiki/射频 "wikilink")，通常用于“空中传播”的[无线电视](https://zh.wikipedia.org/wiki/无线电视 "wikilink")、[有线电视](../Page/有线电视.md "wikilink")以及普遍用于[无线电视和](https://zh.wikipedia.org/wiki/无线电视 "wikilink")[cable modem](https://zh.wikipedia.org/wiki/cable_modem "wikilink")，一般使用[RG-6/U型电缆或者在较早安装的设备中常使用](https://zh.wikipedia.org/wiki/RG-6 "wikilink")[RG-59/U型电缆](https://zh.wikipedia.org/wiki/RG-59 "wikilink")。这种连接头是由[Eric E. Winston于](https://zh.wikipedia.org/wiki/Eric_E._Winston "wikilink")1950年代早期发明的，当时他正为[Jerrold Electronics工作](https://zh.wikipedia.org/wiki/Jerrold_Electronics "wikilink")，研究如何发展他们的有线电视。

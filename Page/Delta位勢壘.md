@@ -1,3 +1,6 @@
+> 本文内容由[Delta位勢壘](https://zh.wikipedia.org/wiki/Delta位勢壘)转换而来。
+
+
 在[量子力學裏](https://zh.wikipedia.org/wiki/量子力學 "wikilink")，**Delta位勢壘**是一個壘內位勢為[狄拉克Delta函數](https://zh.wikipedia.org/wiki/狄拉克Delta函數 "wikilink")，壘外位勢為0的位勢壘。**Delta位勢壘問題**專門研討，在這種位勢的作用中，一個移動的粒子的量子行為。我們想要知道的是，在被Delta位勢壘[散射](../Page/散射.md "wikilink")的狀況下，粒子的[反射係數與](https://zh.wikipedia.org/wiki/反射係數 "wikilink")[透射係數](../Page/透射係數.md "wikilink")。在許多量子力學的教科書裏，這是一個常見的習題。
 
 ## 定義

@@ -1,3 +1,6 @@
+> 本文内容由[Google FeedBurner](https://zh.wikipedia.org/wiki/Google_FeedBurner)转换而来。
+
+
 **FeedBurner**是一個於2004年在[美国](../Page/美国.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")市成立的[網站饋送管理供應商](https://zh.wikipedia.org/wiki/饋送 "wikilink")\[1\]。FeedBurner為[網誌作者](../Page/網誌作者.md "wikilink")、[播客](../Page/播客.md "wikilink")與其他基於網絡的內容發佈者提供訂製的[RSS](../Page/RSS.md "wikilink")饋送與管理工具，提供予發佈者的服務包括[流量分析](https://zh.wikipedia.org/wiki/流量 "wikilink")\[2\]以及一個可供選擇的廣告系統。儘管初時尚未清晰廣告是否適合RSS格式\[3\]，作者現在可選擇包含廣告到三分之二的FeedBurner饋送內\[4\]。
 
 出版的饋送可以數個方式修改，包括自動鏈結到[Digg](../Page/Digg.md "wikilink")與[del.icio.us](https://zh.wikipedia.org/wiki/del.icio.us "wikilink")，以及「接合」多個饋送的資訊\[5\]。FeedBurner是一個典型[Web 2.0的服務](../Page/Web_2.0.md "wikilink")，提供了可與其他軟體互動的[網絡服務](https://zh.wikipedia.org/wiki/網絡服務 "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")（API）。截至2007年5月為止FeedBurner已為410,769名發佈者託管饋送\[6\]。

@@ -1,3 +1,6 @@
+> 本文内容由[R](https://zh.wikipedia.org/wiki/R)转换而来。
+
+
 [Half_r.png](https://zh.wikipedia.org/wiki/File:Half_r.png "fig:Half_r.png")\]\] **R**，**r**是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第18个[字母](../Page/字母.md "wikilink")。
 
 R通常在語言中的發音屬於[流音](../Page/流音.md "wikilink")[輔音](https://zh.wikipedia.org/wiki/輔音 "wikilink")，不過在歐洲，不同的語言之間存在着許多不一樣的發音方式。隨著[印刷術和書寫方式的演變](https://zh.wikipedia.org/wiki/印刷術 "wikilink")，曾經有一段時間R存在著一個變體叫做[半r](../Page/半r.md "wikilink")，今日已經隨著時間與[長s一同消失在語言體系了](https://zh.wikipedia.org/wiki/長s "wikilink")。

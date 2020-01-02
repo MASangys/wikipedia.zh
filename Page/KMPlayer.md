@@ -1,3 +1,6 @@
+> 本文内容由[KMPlayer](https://zh.wikipedia.org/wiki/KMPlayer)转换而来。
+
+
 **KMPlayer**（[Konqueror](../Page/Konqueror.md "wikilink") Media Player），是一款在[Linux](../Page/Linux.md "wikilink")／[UNIX](../Page/UNIX.md "wikilink")操作系统中运行的视频播放器，使用[Mplayer](https://zh.wikipedia.org/wiki/Mplayer "wikilink")、[xine和](https://zh.wikipedia.org/wiki/xine "wikilink")[GStreamer](../Page/GStreamer.md "wikilink")作为解码后端，为[KDE](../Page/KDE.md "wikilink")的组件之一。
 
 ## 功能

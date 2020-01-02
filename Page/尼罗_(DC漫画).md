@@ -1,3 +1,6 @@
+> 本文内容由[尼罗 \(DC漫画\)](https://zh.wikipedia.org/wiki/尼罗_\(DC漫画\))转换而来。
+
+
 **尼罗**（）是一个由[DC漫画出版的反派虚拟人物](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")，首次出现于《[绿光戰警](https://zh.wikipedia.org/wiki/绿光戰警 "wikilink") 第三卷 \#132》（2001年），由[贾德·威尼克和](https://zh.wikipedia.org/wiki/贾德·威尼克 "wikilink")[达利尔·班克斯所创作](https://zh.wikipedia.org/wiki/达利尔·班克斯 "wikilink")。
 
 ## 历史

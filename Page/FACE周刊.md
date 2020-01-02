@@ -1,3 +1,6 @@
+> 本文内容由[FACE周刊](https://zh.wikipedia.org/wiki/FACE周刊)转换而来。
+
+
 [Face.png](https://zh.wikipedia.org/wiki/File:Face.png "fig:Face.png") 《**FACE**》為香港一份已停刊的[繁體中文雜誌](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，屬[壹傳媒](../Page/壹傳媒.md "wikilink")旗下，由大股東[黎智英](../Page/黎智英.md "wikilink")創辦，主要以年青讀者和中學生為對象。
 
 ## 歷史

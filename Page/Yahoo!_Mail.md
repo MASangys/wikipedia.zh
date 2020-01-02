@@ -1,3 +1,6 @@
+> 本文内容由[Yahoo! Mail](https://zh.wikipedia.org/wiki/Yahoo!_Mail)转换而来。
+
+
 **Yahoo\! Mail**是由[Yahoo\!營運的一款網絡電子郵件](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")（[Webmail](../Page/Webmail.md "wikilink")）服務，於1997年10月8日啟用。Yahoo\! Mail是互聯網上最大的\[1\]網絡電子郵件服務，有超過2.6億的用戶。\[2\]2007年，Yahoo\! Mail引進一個和[Outlook Express相近的新介面](../Page/Outlook_Express.md "wikilink")，但原有的介面亦獲得保留。同年，Yahoo\! Mail亦開始向免費用戶提供無限的儲存容量\[3\]\[4\]，但其實內部仍然為每個用戶設有30GB的限制\[5\]。Yahoo\! Mail的主要對手有[Outlook.com](../Page/Outlook.com.md "wikilink")和[Gmail](../Page/Gmail.md "wikilink")等。
 
 ## 歷史

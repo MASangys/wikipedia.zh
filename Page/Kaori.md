@@ -1,3 +1,6 @@
+> 本文内容由[Kaori](https://zh.wikipedia.org/wiki/Kaori)转换而来。
+
+
 **KAORI**（，）、是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優](../Page/聲優.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。於[神奈川縣](../Page/神奈川縣.md "wikilink")[横濱市出生](https://zh.wikipedia.org/wiki/横濱市 "wikilink")。在2001年前以「川菜翠」和「川菜明子」的身分出道。KAORI會使用「鈴木香織」（）的名義出席在歌手及演員界中的活動，為搖滾樂隊「Spunky Strider」的主音，由於患上「痙攣性發聲障礙」和「頸部肌張力障礙話語」，目前休養中及暫停樂隊活動。 2013年出席了印尼的雅加達JavaJazz 音樂節的第3天活動（並且於Youtube網路直播）\[1\]。
 
 ## 出演作品

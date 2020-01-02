@@ -1,3 +1,6 @@
+> 本文内容由[PC Tools \(軟體\)](https://zh.wikipedia.org/wiki/PC_Tools_\(軟體\))转换而来。
+
+
 **PC Tools**，是一套由公司所出的一套集結各式工具軟體的套件。 [PC_Tools_1.10.png](https://zh.wikipedia.org/wiki/File:PC_Tools_1.10.png "fig:PC_Tools_1.10.png")
 
 ## 歷史

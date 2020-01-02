@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior-T](https://zh.wikipedia.org/wiki/Super_Junior-T)转换而来。
+
+
 **Super Junior-T**，也常稱作**SJ-T** ，是[韓國演唱團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Super Junior的第二個子團體](../Page/Super_Junior.md "wikilink")。Super Junior-T由[Super Junior六名成員組成](../Page/Super_Junior.md "wikilink")，成員包括 [利特](../Page/利特.md "wikilink") (隊長)、[希澈](../Page/希澈.md "wikilink")、 [強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、 [晟敏](../Page/晟敏.md "wikilink")與[銀赫](../Page/銀赫.md "wikilink")。\[1\]
 
 ## 簡介

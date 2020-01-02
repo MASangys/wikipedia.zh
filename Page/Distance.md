@@ -1,3 +1,6 @@
+> 本文内容由[Distance](https://zh.wikipedia.org/wiki/Distance)转换而来。
+
+
 《**Distance**》是[日本](../Page/日本.md "wikilink")歌手[宇多田光](../Page/宇多田光.md "wikilink")的第二張專輯，於2001年3月28日發行，初動300萬張，目前銷售447萬張。創下日本音樂史上最高首周銷售紀錄\[1\]，同時亦為為2001年年度銷量冠軍。
 
 《Distance》曾是史上首周全球總銷量最高的專輯，直至14年後由[愛黛兒](../Page/愛黛兒.md "wikilink")於2015年發行的英文音樂專輯《[25](https://zh.wikipedia.org/wiki/25_\(愛黛兒專輯\) "wikilink")》打破。現為世界第二高，亞洲第一\[2\]\[3\]。

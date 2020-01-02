@@ -1,3 +1,6 @@
+> 本文内容由[EX-am](https://zh.wikipedia.org/wiki/EX-am)转换而来。
+
+
 **EX-am**（EX-am 週刊）是[香港](../Page/香港.md "wikilink")[文化傳信](../Page/文化傳信.md "wikilink")發行的週刊少年漫畫雜誌，於1993年6月23日創刊，每週三出刊。其連載的漫畫作品多來自[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")的《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》。於2008年12月24日出版的2009年4·5合併號正式宣佈停刊，而最後一期EX-am亦為2009年4·5合併號（760期）。
 
 ## 概要

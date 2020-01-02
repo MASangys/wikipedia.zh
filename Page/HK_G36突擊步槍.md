@@ -1,3 +1,6 @@
+> 本文内容由[HK G36突擊步槍](https://zh.wikipedia.org/wiki/HK_G36突擊步槍)转换而来。
+
+
 **G36**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫公司](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink") (H\&K)在1995年推出的[現代化](https://zh.wikipedia.org/wiki/現代化 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，發射[5.56×45毫米北約制式](../Page/5.56×45mm_NATO.md "wikilink")[子彈](../Page/子彈.md "wikilink")，用来取代同为H\&K公司产品的[G3步枪](../Page/HK_G3自動步槍.md "wikilink")。G36大量采用了以不锈钢为骨架的玻璃钢加强复合材料，因此武器重量较轻。\[1\] 在开发阶段其型号为**HK50**。
 
 ## 歷史

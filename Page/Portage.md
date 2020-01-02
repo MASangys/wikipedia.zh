@@ -1,3 +1,6 @@
+> 本文内容由[Portage](https://zh.wikipedia.org/wiki/Portage)转换而来。
+
+
 ****是[Gentoo Linux所使用的](../Page/Gentoo_Linux.md "wikilink")[包管理器](https://zh.wikipedia.org/wiki/包管理器 "wikilink")，基于[ports collection机制](https://zh.wikipedia.org/wiki/ports_collection "wikilink")。的高度灵活性令Gentoo開發團隊因此稱Gentoo為元发行版\[1\]。计划则关注于如何使用Portage管理如[BSD](../Page/BSD.md "wikilink")、[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Solaris](../Page/Solaris.md "wikilink")等其他操作系统。这些移植中最有名的是计划。
 
 Gentoo的软件包管理器规范计划（，）正致力于的行为的记录标准化，这些措施刻意使Paludis和pkgcore等替代包管理器使用[ebuild树和Gentoo系统包](https://zh.wikipedia.org/wiki/ebuild "wikilink")。\[2\]PMS计划的目标是为Portage制定包括特性、ebuild与包管理器行为的权威参考。

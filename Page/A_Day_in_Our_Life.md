@@ -1,3 +1,6 @@
+> 本文内容由[A Day in Our Life](https://zh.wikipedia.org/wiki/A_Day_in_Our_Life)转换而来。
+
+
 《**a Day in Our Life**》是[嵐](../Page/嵐.md "wikilink")的第七枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2002年2月6日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

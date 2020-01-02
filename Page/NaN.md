@@ -1,3 +1,6 @@
+> 本文内容由[NaN](https://zh.wikipedia.org/wiki/NaN)转换而来。
+
+
 **NaN**（**N**ot **a** **N**umber，非数）是[计算机科学](../Page/计算机科学.md "wikilink")中数值[数据类型的一类值](https://zh.wikipedia.org/wiki/数据类型 "wikilink")，表示未定义或不可表示的值。常在[浮点数](../Page/浮点数.md "wikilink")运算中使用。首次引入NaN的是1985年的[IEEE 754浮点数标准](../Page/IEEE_754.md "wikilink")。
 
 ## 浮点数

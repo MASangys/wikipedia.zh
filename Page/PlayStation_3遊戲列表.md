@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation 3遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_3遊戲列表)转换而来。
+
+
 「[PlayStation 3](../Page/PlayStation_3.md "wikilink")」遊戲以公開發售，或透過下載遊戲至硬碟內遊玩。部份遊戲同時提供光碟版本及網絡付費下載版本。
 
 ## PLAYSTATION 3公開發售的遊戲

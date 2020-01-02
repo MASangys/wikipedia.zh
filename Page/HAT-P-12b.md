@@ -1,3 +1,6 @@
+> 本文内容由[HAT-P-12b](https://zh.wikipedia.org/wiki/HAT-P-12b)转换而来。
+
+
 **HAT-P-12b**是一颗位于[猎犬座](../Page/猎犬座.md "wikilink")、距离地球465光年的系外行星，其母星是13星等K型恒星HAT-P-12。该行星是一颗[热木星](https://zh.wikipedia.org/wiki/热木星 "wikilink")，会与其母星产生[凌星现象](https://zh.wikipedia.org/wiki/凌星 "wikilink")。2009年4月29日，匈牙利自动望远镜网络项目发现了该行星。
 
 {{-}}

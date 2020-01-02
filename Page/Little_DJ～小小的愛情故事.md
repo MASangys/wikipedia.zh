@@ -1,3 +1,6 @@
+> 本文内容由[Little DJ～小小的愛情故事](https://zh.wikipedia.org/wiki/Little_DJ～小小的愛情故事)转换而来。
+
+
 《**Little DJ～小小的愛情故事**》（****）是一本[POPLAR社於](https://zh.wikipedia.org/wiki/POPLAR社 "wikilink")2007年出版的[日本小說](https://zh.wikipedia.org/wiki/日本小說 "wikilink")（由[鬼塚忠所著](https://zh.wikipedia.org/wiki/鬼塚忠 "wikilink")，中文譯名《小DJ的戀愛物語》），以及一套改編自此小說的[電影](https://zh.wikipedia.org/wiki/日本電影 "wikilink")。
 
 ## 小說

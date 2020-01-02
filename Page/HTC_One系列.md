@@ -1,3 +1,6 @@
+> 本文内容由[HTC One系列](https://zh.wikipedia.org/wiki/HTC_One系列)转换而来。
+
+
 **HTC One系列**是[宏達電旗下的旗艦](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機產品系列](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，第一款產品為[HTC One S](../Page/HTC_One_S.md "wikilink")，後繼系列為[HTC U系列](../Page/HTC_U系列.md "wikilink")。
 
 ## 旗下產品

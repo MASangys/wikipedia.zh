@@ -1,3 +1,6 @@
+> 本文内容由[NHK杯电视围棋淘汰赛](https://zh.wikipedia.org/wiki/NHK杯电视围棋淘汰赛)转换而来。
+
+
 **NHK 杯电视围棋淘汰赛**（），是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）电视台举办的[日本](../Page/日本.md "wikilink")[围棋](../Page/围棋.md "wikilink")快棋赛，每方10分钟保留时间，随后30秒一步。该项比赛冠军奖金500万[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")，前两名可以获得[亚洲杯电视围棋快棋赛](../Page/亚洲杯电视围棋快棋赛.md "wikilink")的参赛资格。
 
 ## 历届 NHK 杯冠亚军

@@ -1,3 +1,6 @@
+> 本文内容由[RG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RG-6轉輪式榴彈發射器)转换而来。
+
+
 **RG-6**（；\[1\][俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（TsKIB SOO）所研製、現在由俄罗斯[KBP儀器設計廠所生產的輕型](../Page/俄联邦仪器设计局.md "wikilink")[雙動操作](https://zh.wikipedia.org/wiki/扳機 "wikilink")6連發[轉輪式](https://zh.wikipedia.org/wiki/榴弹发射器#转轮式榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射。
 
 ## 歷史

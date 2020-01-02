@@ -1,3 +1,6 @@
+> 本文内容由[月刊GFantasy](https://zh.wikipedia.org/wiki/月刊GFantasy)转换而来。
+
+
 《**月刊GFantasy**》（），[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")（Square Enix）出版的[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")。1992年以《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》的增刊《Fantastic Comic》發行，1993年創刊。創刊時的名字是《GanGanFantasy》，1994年4月號改為現在這個名字。
 
 增刊有《Stencil》（後獨立創刊為《[月刊Stencil](../Page/月刊Stencil.md "wikilink")》、現休刊）及《GFantasy++》。2018年2月22日新創刊《[PFantapy](https://zh.wikipedia.org/wiki/PFantapy "wikilink")》。

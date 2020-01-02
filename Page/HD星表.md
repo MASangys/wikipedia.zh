@@ -1,3 +1,6 @@
+> 本文内容由[HD星表](https://zh.wikipedia.org/wiki/HD星表)转换而来。
+
+
 **HD星表**（**The Henry Draper Catalogue**，缩写为**HD**，**亨利·德雷伯星表**）是[哈佛大学天文台](../Page/哈佛大学天文台.md "wikilink")编纂的世界上第一个收录[恒星光谱](../Page/恒星光谱.md "wikilink")的大型星表，首版在1918年至1924年间出版，它给出了225,300颗恒星的光谱分类，涵盖了全天最暗达到[照相星等为](https://zh.wikipedia.org/wiki/照相星等 "wikilink")9等的恒星（大部分是北天的恒星），[历元为](https://zh.wikipedia.org/wiki/历元 "wikilink")1900.0。最初的**HD星表**包含的星主要是亮于9等的星，随后的增版增加了在某些天区的暗星\[1\]。HD星表的构建对恒星光谱分类起先锋作用，它的星名广泛应用于辨别恒星。
 
 | Secchi | Draper              | 备注            |

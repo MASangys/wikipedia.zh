@@ -1,3 +1,6 @@
+> 本文内容由[Apache OpenOffice](https://zh.wikipedia.org/wiki/Apache_OpenOffice)转换而来。
+
+
 **Apache OpenOffice**，又稱**OpenOffice**、**AOO**，是[OpenOffice.org](../Page/OpenOffice.org.md "wikilink")的後續版本之一，並在設計上繼承[IBM Lotus Symphony](https://zh.wikipedia.org/wiki/IBM_Lotus_Symphony "wikilink")。\[1\] Apache OpenOffice是一套[開放源代碼的](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")[辦公室軟體](https://zh.wikipedia.org/wiki/辦公室軟體 "wikilink")，可以在多種[作業系統上運作](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。預設的文件交換格式是為[ISO標準的](https://zh.wikipedia.org/wiki/ISO "wikilink")[開放文件格式](https://zh.wikipedia.org/wiki/開放文件格式 "wikilink")（[ODF](https://zh.wikipedia.org/wiki/ODF "wikilink")，OpenDocument Format）。2016年9月，Apache OpenOffice專案指出，因缺乏足夠的人力維護，考慮關閉OpenOffice專案\[2\]。
 
 ## 歷史

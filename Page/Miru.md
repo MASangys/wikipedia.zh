@@ -1,3 +1,6 @@
+> 本文内容由[Miru](https://zh.wikipedia.org/wiki/Miru)转换而来。
+
+
 ****是一位[日本](../Page/日本.md "wikilink")女性[聲優](../Page/聲優.md "wikilink")。主要為[十八禁遊戲配音](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。自稱147cm\[1\]。
 
 ## 主要演出作品

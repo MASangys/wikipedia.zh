@@ -1,3 +1,6 @@
+> 本文内容由[BLAST \(生物資訊學\)](https://zh.wikipedia.org/wiki/BLAST_\(生物資訊學\))转换而来。
+
+
 [生物信息學中](https://zh.wikipedia.org/wiki/生物信息 "wikilink")，**BLAST**（）它是一個用來比對[生物序列的](https://zh.wikipedia.org/wiki/生物序列 "wikilink")[一級結構](https://zh.wikipedia.org/wiki/一級結構 "wikilink")（如不同[蛋白質的](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")[氨基酸](../Page/氨基酸.md "wikilink")序列或不同[基因](../Page/基因.md "wikilink")的[DNA序列](../Page/脱氧核糖核酸.md "wikilink")）的算法。 已知一個包含若干序列的資料庫，BLAST可以讓研究者在其中尋找與其感興趣的序列相同或類似的序列。 例如如果某種非人動物的一個以前未知的基因被發現，研究者一般會在人類基因組中做一個BLAST搜索來確認人類是否包含類似的基因（通過序列的相似性）。BLAST演算法以及實現它的程序由[美國國家生物技術信息中心](https://zh.wikipedia.org/wiki/美國國家生物技術信息中心 "wikilink")（NCBI）的、、、及博士開發\[[http://www.ncbi.nlm.nih.gov/BLAST/\]的](http://www.ncbi.nlm.nih.gov/BLAST/%5D的)。
 
 研究者利用BLAST來解决的其他問题有：

@@ -1,3 +1,6 @@
+> 本文内容由[Modbus](https://zh.wikipedia.org/wiki/Modbus)转换而来。
+
+
 **Modbus**是一种串行[通信协议](https://zh.wikipedia.org/wiki/通信协议 "wikilink")，是Modicon公司（现在的[施耐德电气](../Page/施耐德电气.md "wikilink") Schneider Electric）于1979年为使用[可编程逻辑控制器](../Page/可编程逻辑控制器.md "wikilink")（PLC）通信而发表。Modbus已经成为工业领域通信协议[事实上的](https://zh.wikipedia.org/wiki/De_facto "wikilink")[業界標準](https://zh.wikipedia.org/wiki/標準化 "wikilink")，并且现在是工业电子设备之间常用的连接方式。\[1\] Modbus比其他通信协议使用的更广泛的主要原因有：
 
 1.  公开发表并且无版权要求

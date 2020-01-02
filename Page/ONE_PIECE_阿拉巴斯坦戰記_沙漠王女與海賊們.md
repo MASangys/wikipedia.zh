@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 阿拉巴斯坦戰記 沙漠王女與海賊們](https://zh.wikipedia.org/wiki/ONE_PIECE_阿拉巴斯坦戰記_沙漠王女與海賊們)转换而来。
+
+
 《**ONE PIECE 阿拉巴斯坦戰記 沙漠王女與海賊們**》是於2007年上映的第八部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 製作

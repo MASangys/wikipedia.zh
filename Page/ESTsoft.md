@@ -1,3 +1,6 @@
+> 本文内容由[ESTsoft](https://zh.wikipedia.org/wiki/ESTsoft)转换而来。
+
+
 **ESTsoft**于1992年建立，是一家[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[应用软件和解决方案开发公司](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它的软件包括从最终用户的[PC](../Page/PC.md "wikilink")工具和[应用程序](../Page/应用程序.md "wikilink")到企业的成套商业解决方案。
 
 ## 产品

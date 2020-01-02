@@ -1,3 +1,6 @@
+> 本文内容由[COM+](https://zh.wikipedia.org/wiki/COM+)转换而来。
+
+
 **微軟元件服務**（Microsoft Component Services，俗稱為COM+）是微軟在Windows 2000開始，針對[Microsoft Transaction Server所強化更新的](https://zh.wikipedia.org/wiki/Microsoft_Transaction_Server "wikilink")[COM服務實作](https://zh.wikipedia.org/wiki/COM "wikilink")，作為Windows平台上的應用程式伺服器服務，目前的版本為1.5（Windows XP、Windows Server 2003以後的版本），是利用微軟平台開發分散式應用程式不可或缺的一個服務，就連.NET Framework也提供System.EnterpriseServices.dll以支援COM+的開發。
 
 ## 服務

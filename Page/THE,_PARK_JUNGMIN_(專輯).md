@@ -1,3 +1,6 @@
+> 本文内容由[THE, PARK JUNGMIN \(專輯\)](https://zh.wikipedia.org/wiki/THE,_PARK_JUNGMIN_\(專輯\))转换而来。
+
+
 **《THE, PARK JUNGMIN》**是韓國[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")繼「[Not Alone](https://zh.wikipedia.org/wiki/Not_Alone_\(迷你專輯\) "wikilink")」後為了紀念25歲生日和感謝自個人活動以來，不斷給予支持與鼓勵的歌迷，特別推出的個人迷你專輯。
 
 此張專輯也於2011年5月25日在日本發行日語版本《 》。另行重新錄音製作《THE, PARK JUNGMIN》中五首曲目演唱為日語，朴政珉亦親自填寫五首曲目的日文歌詞。

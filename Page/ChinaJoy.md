@@ -1,3 +1,6 @@
+> 本文内容由[ChinaJoy](https://zh.wikipedia.org/wiki/ChinaJoy)转换而来。
+
+
 **ChinaJoy**，正式名称**中国国际数码互动娱乐展览会**，是继[E3电子娱乐展](../Page/E3电子娱乐展.md "wikilink")、[东京电玩展](../Page/东京电玩展.md "wikilink")、[科隆国际游戏展](https://zh.wikipedia.org/wiki/科隆国际游戏展 "wikilink")、[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")之后的又一同类型互动娱乐展，尤以[网络游戏](../Page/网络游戏.md "wikilink")为主。展会2004年第一届在[北京展览馆](../Page/北京展览馆.md "wikilink")举行，从第二届起每年在[上海新国际博览中心](../Page/上海新国际博览中心.md "wikilink")举行。每届有中外游戏厂商参与，各自发布最新游戏及娱乐产品，发放其测试帐号，赠送游戏周边产品，另有[Cosplay](../Page/Cosplay.md "wikilink")表演、互动游戏等。\[1\]
 
 ## 历届展会

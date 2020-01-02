@@ -1,3 +1,6 @@
+> 本文内容由[感應少年EIJI](https://zh.wikipedia.org/wiki/感應少年EIJI)转换而来。
+
+
 《**感應少年EIJI**》（）是1996年至2000年於[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")連載的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。[安童夕馬原作](https://zh.wikipedia.org/wiki/安童夕馬 "wikilink")、[朝基勝士](../Page/朝基勝士.md "wikilink")作畫。於1997年和1999年曾兩度在[日本電視台](../Page/日本電視台.md "wikilink")系列播出由[松岡昌宏](../Page/松岡昌宏.md "wikilink")主演的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 2010年10月，安童在Twitter上表示自己最近開始執筆感應少年第二部，隔年在2011年4月25日發售的『[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開始了距離約有10年的新連載。台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理，命名為《**感應少年EIJI 新章**》出版。

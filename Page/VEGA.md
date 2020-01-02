@@ -1,3 +1,6 @@
+> 本文内容由[VEGA](https://zh.wikipedia.org/wiki/VEGA)转换而来。
+
+
 ***'VEGA***' 是[EC Music旗下的一隊](https://zh.wikipedia.org/wiki/EC_Music "wikilink")2008年新進[組合](../Page/組合.md "wikilink")。由兩男兩女──[葉瑞玲](https://zh.wikipedia.org/wiki/葉瑞玲 "wikilink")（Valerie）、[關卓鍵](https://zh.wikipedia.org/wiki/關卓鍵 "wikilink")（Edan）、[楊芷瑩](https://zh.wikipedia.org/wiki/楊芷瑩 "wikilink")（Gabby）和[陳詠謙](../Page/陳詠謙.md "wikilink")（Abrahim）組成，主打音樂風格是以Classical Pop（[古典](https://zh.wikipedia.org/wiki/古典音樂 "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")）的形式唱出情歌，並為歌迷們帶來全新的感受。VEGA的歌唱風格是[香港樂壇少有的](https://zh.wikipedia.org/wiki/香港樂壇 "wikilink")，為樂壇帶來更多不同音樂元素及藝術交流。
 
 ## 唱片

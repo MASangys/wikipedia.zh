@@ -1,3 +1,6 @@
+> 本文内容由[VOCALOID](https://zh.wikipedia.org/wiki/VOCALOID)转换而来。
+
+
 **VOCALOID**（）是日本樂器製造商[山葉公司](../Page/山葉公司.md "wikilink")開發的[電子音樂](../Page/電子音樂.md "wikilink")製作[語音合成軟件](https://zh.wikipedia.org/wiki/語音合成 "wikilink")\[1\]，輸入音調和歌詞，就可以合成為原為人類聲音的歌聲。2003年2月推出首個版本，2007年1月推出新版本VOCALOID 2。2008年4月4日，發表開發線上版「NetVOCALOID」\[2\]\[3\]，9月30日於「CEATEC JAPAN 2008」正式展示，可於[網頁瀏覽器直接使用](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，相比非網上版，因為是由[伺服器計算合成聲音](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，客戶端的電腦負荷可大大減低\[4\]。2009年4月9日正式公開，服務提供於部分[手提電話](https://zh.wikipedia.org/wiki/手提電話 "wikilink")\[5\]\[6\]。VOCALOID 3于2011年10月21日正式发售。时隔3年后VOCALOID 4于2014年11月20日正式公布，于2014年12月31日发售。2018年7月12日，VOCALOID5正式公布\[7\]。
 
 ## 词源

@@ -1,3 +1,6 @@
+> 本文内容由[Handel-C](https://zh.wikipedia.org/wiki/Handel-C)转换而来。
+
+
 **Handel-C**是一個[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，是一個專門編譯用在[FPGA以及](https://zh.wikipedia.org/wiki/FPGA "wikilink")[ASIC上的](https://zh.wikipedia.org/wiki/ASIC "wikilink")[硬體描述語言](https://zh.wikipedia.org/wiki/硬體描述語言 "wikilink")。它是一個[C語言的子集](https://zh.wikipedia.org/wiki/C語言 "wikilink")，並且有一些非標準的控制硬體即時性以及平行性的特性。
 
 為了要描述複雜的[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，C語言的子集包含了所有C語言常用的特性。像許多嵌入式編譯器，[浮點數資料型態都會被忽略掉](https://zh.wikipedia.org/wiki/浮點數 "wikilink")。透過外部函式庫的支援，浮點數運算會變的更有效率。

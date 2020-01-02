@@ -1,3 +1,6 @@
+> 本文内容由[PhishTank](https://zh.wikipedia.org/wiki/PhishTank)转换而来。
+
+
 **PhishTank**是基于社区的反[钓鱼式攻击](../Page/钓鱼式攻击.md "wikilink")服务。
 
 PhishTank于2006年10月2日作为[OpenDNS](../Page/OpenDNS.md "wikilink")的子公司建立\[1\]，用户可以从世界各地向其汇报钓鱼网站，经其他用户以投票的形式认证后，即通过公开的[API](https://zh.wikipedia.org/wiki/API "wikilink")\[2\]共享给所有使用PhishTank服务的机构和个人。

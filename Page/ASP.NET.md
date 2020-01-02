@@ -1,3 +1,6 @@
+> 本文内容由[ASP.NET](https://zh.wikipedia.org/wiki/ASP.NET)转换而来。
+
+
 **ASP.NET**是由[微軟在](https://zh.wikipedia.org/wiki/微軟 "wikilink")[.NET Framework框架中所提供](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，開發[Web應用程式的類別庫](../Page/网络应用程序.md "wikilink")，封裝在`System.Web.dll`檔案中，顯露出`System.Web`命名空間，並提供ASP.NET網頁處理、擴充以及HTTP通道的應用程式與通訊處理等工作，以及[Web Service的基礎架構](https://zh.wikipedia.org/wiki/Web_Service "wikilink")。ASP.NET是[ASP技術的後繼者](../Page/Active_Server_Pages.md "wikilink")，但它的發展性要比ASP技術要強大許多。
 
 ASP.NET可以運行在安裝了.NET Framework的[IIS伺服器上](https://zh.wikipedia.org/wiki/Internet_Information_Server "wikilink")，若要在非微軟的平台上執行，則需要使用[Mono](../Page/Mono.md "wikilink")平台\[1\]，ASP.NET在2.0版本已經定型，在[.NET Framework](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink") 3.5上則加上了許多功能，像是[ASP.NET AJAX](../Page/ASP.NET_AJAX.md "wikilink")、[ASP.NET MVC Framework](../Page/ASP.NET_MVC_Framework.md "wikilink")、[ASP.NET Dynamic Data與](https://zh.wikipedia.org/wiki/ASP.NET_Dynamic_Data "wikilink")[Microsoft Silverlight的伺服器控制項等](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")。

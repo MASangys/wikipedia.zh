@@ -1,3 +1,6 @@
+> 本文内容由[Rhythm zone](https://zh.wikipedia.org/wiki/Rhythm_zone)转换而来。
+
+
 **rhythm zone**是[愛貝克思](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[音樂廠牌之一](https://zh.wikipedia.org/wiki/音樂廠牌 "wikilink")。1999年成立。音樂風格以[節奏藍調與](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")為主。所屬藝人有[放浪兄弟](../Page/放浪兄弟.md "wikilink")、[倖田來未](../Page/倖田來未.md "wikilink")、[東方神起](../Page/東方神起.md "wikilink")、[隕-浮流](https://zh.wikipedia.org/wiki/隕-浮流 "wikilink")（m-flo）等等。
 
 2006年，由於[RYO the SKYWALKER的加入](https://zh.wikipedia.org/wiki/RYO_the_SKYWALKER "wikilink")，rhythm zone設立了專門發行雷鬼音樂的衍生廠牌**RIDDIM ZONE**。

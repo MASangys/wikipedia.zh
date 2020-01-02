@@ -1,3 +1,6 @@
+> 本文内容由[Cyc](https://zh.wikipedia.org/wiki/Cyc)转换而来。
+
+
 **Cyc**是一个致力于将各个领域的本体及常识知识综合地集成在一起，并在此基础上实现知识推理的[人工智能](../Page/人工智能.md "wikilink")项目。其目标是使人工智能的应用能够以类似人类推理的方式工作。这个项目是由[道格拉斯·萊納特在](https://zh.wikipedia.org/wiki/道格拉斯·萊納特 "wikilink")1984年设立的，由[Cycorp](http://www.cyc.com/)公司开发并维护。
 
 该项目的一部分以**OpenCyc**形式发布，OpenCyc项目以开源许可的形式向开发者和使用者提供API，可下载的数据集（特别是为语义万维网实践者提供了OWL版本的数据集）等。

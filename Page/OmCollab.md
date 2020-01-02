@@ -1,3 +1,6 @@
+> 本文内容由[OmCollab](https://zh.wikipedia.org/wiki/OmCollab)转换而来。
+
+
 **omCollab** 是完全构筑在开源软件的软件产品，它被用于机构间或者[internet上进行协作](https://zh.wikipedia.org/wiki/internet "wikilink")。它提供了一个门户环境，可以创建、共享和搜索跨企业的[Microsoft Office内容](../Page/Microsoft_Office.md "wikilink")、文件、共享的社会书签、[blog](https://zh.wikipedia.org/wiki/blog "wikilink") 和 [wiki](https://zh.wikipedia.org/wiki/wiki "wikilink") 文章. omCollab将一些著名的开源软件集成为一个单一环境，以满足企业协作的需要。
 
 ## 产品功能

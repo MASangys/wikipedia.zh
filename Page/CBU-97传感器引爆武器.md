@@ -1,3 +1,6 @@
+> 本文内容由[CBU-97传感器引爆武器](https://zh.wikipedia.org/wiki/CBU-97传感器引爆武器)转换而来。
+
+
 [CBU-87_xxl.jpg](https://zh.wikipedia.org/wiki/File:CBU-87_xxl.jpg "fig:CBU-87_xxl.jpg") [CBU-97_SFW_(8steps_attacking_process)_NT.PNG](https://zh.wikipedia.org/wiki/File:CBU-97_SFW_\(8steps_attacking_process\)_NT.PNG "fig:CBU-97_SFW_(8steps_attacking_process)_NT.PNG") **传感器引爆武器**（Sensor Fuzed Weapon，SFW）是一种[集束炸弹](https://zh.wikipedia.org/wiki/集束炸弹 "wikilink")，主要对付地面的坦克群，飞机在高空投下炸弹不久，就会分离为10个带有降落伞子炸弹，接近地面时，会被子炸弹上的局部火箭推向高空，分为4个[斯基特反装甲战斗部](https://zh.wikipedia.org/wiki/斯基特 "wikilink")。战斗部上有双模传感器导引，导引战斗部飞向目标。
 
 此炸彈只於[伊拉克戰爭使用過一次](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。

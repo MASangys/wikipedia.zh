@@ -1,3 +1,6 @@
+> 本文内容由[ReCAPTCHA](https://zh.wikipedia.org/wiki/ReCAPTCHA)转换而来。
+
+
 \-{H|zh:卡內基美濃;zh-hans:卡内基梅隆;zh-hant:卡内基美隆;zh-tw:卡內基美濃;}-  **reCAPTCHA**計畫是由[卡內基美濃大學所發展的系統](https://zh.wikipedia.org/wiki/卡內基梅隆大學 "wikilink")，主要目的是利用[CAPTCHA技術來幫助典籍數位化的進行](https://zh.wikipedia.org/wiki/CAPTCHA "wikilink")，這個計畫將由書本掃描下來無法準確的被[光學文字辨識技術](https://zh.wikipedia.org/wiki/OCR "wikilink")（，[縮寫](../Page/縮寫.md "wikilink")：OCR）識別的文字顯示在CAPTCHA問題中，讓人類在回答CAPTCHA問題時用人腦加以識別\[1\]。reCAPTCHA正數位化《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》（*New York Times*）的掃描存檔\[2\]，目前已經完成20年份的資料，並希望在2010年完成110年份的資料。2009年9月17日，[Google](../Page/Google.md "wikilink")宣布收购reCAPTCHA。\[3\]
 
 ## 運作方式

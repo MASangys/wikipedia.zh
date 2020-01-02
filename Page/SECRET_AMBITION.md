@@ -1,3 +1,6 @@
+> 本文内容由[SECRET AMBITION](https://zh.wikipedia.org/wiki/SECRET_AMBITION)转换而来。
+
+
 **SECRET AMBITION**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")15张单曲，2007年4月18日发售，商品番号KICM-1199。
 
 ## 作品概要

@@ -1,3 +1,6 @@
+> 本文内容由[Ayu-mi-x](https://zh.wikipedia.org/wiki/Ayu-mi-x)转换而来。
+
+
 《**ayu-mi-x**》（濱崎·不·一樣）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的首張混音專輯，1999年3月17日於日本發售。同為《ayu-mi-x》第一個系列。
 
 ## 說明

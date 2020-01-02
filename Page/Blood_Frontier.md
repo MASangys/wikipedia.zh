@@ -1,3 +1,6 @@
+> 本文内容由[Blood Frontier](https://zh.wikipedia.org/wiki/Blood_Frontier)转换而来。
+
+
 ***Blood Frontier*** 是[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")*[Quake](https://zh.wikipedia.org/wiki/Quake "wikilink")*类[FPS](../Page/第一人称射击游戏.md "wikilink")，[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac OS X都可以玩到](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。[Sauerbraten](../Page/Sauerbraten.md "wikilink")引擎驱动\[1\]\[2\]同于Sauerbraten -也是一个即时地图编辑器。有着覆盖面较广的单兵武器种类。
 
 ## 游戏方式

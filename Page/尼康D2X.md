@@ -1,3 +1,6 @@
+> 本文内容由[尼康D2X](https://zh.wikipedia.org/wiki/尼康D2X)转换而来。
+
+
 **尼康D2X**是[尼康](../Page/尼康.md "wikilink")于2004年9月16日推出的一款1240万[像素](../Page/像素.md "wikilink")的[数码单镜反光相机](https://zh.wikipedia.org/wiki/数码单镜反光相机 "wikilink")。
 
 ## 尼康D2Xs

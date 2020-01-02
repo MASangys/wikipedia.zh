@@ -1,3 +1,6 @@
+> 本文内容由[Quoted-printable](https://zh.wikipedia.org/wiki/Quoted-printable)转换而来。
+
+
 或，没有规范的中文译名，可译为**可打印字符引用编码**或**使用可打印字符的编码**。Quoted-printable是使用可打印的[ASCII](../Page/ASCII.md "wikilink")字符（如字母、数字与「=」）表示各种编码格式下的字符，以便能在7-bit数据通路上传输[8-bit数据](https://zh.wikipedia.org/wiki/8位元组 "wikilink"), 或者更一般地说在非[8-bit clean媒体上正确处理数据](https://zh.wikipedia.org/wiki/8-bit_clean "wikilink")。这被定义为MIME [content transfer encoding](https://zh.wikipedia.org/wiki/MIME#Content-Transfer-Encoding "wikilink")，用于[e-mail](https://zh.wikipedia.org/wiki/e-mail "wikilink")。
 
 QP使用「=」开头的[转义字符](../Page/转义字符.md "wikilink"). 一般限制行宽为76，因为有些软件限制了行宽.

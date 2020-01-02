@@ -1,3 +1,6 @@
+> 本文内容由[M.o.v.e](https://zh.wikipedia.org/wiki/M.o.v.e)转换而来。
+
+
 **m.o.v.e**（前稱**move**）是[AVEX唱片公司旗下的一個](https://zh.wikipedia.org/wiki/AVEX "wikilink")[日本](../Page/日本.md "wikilink")演唱組合，包括有主音歌手、[饒舌](../Page/饒舌.md "wikilink")歌手（motsu）以及監製（於2007年退出幕前演出，但依然為組合作曲）。
 
 ## 簡介

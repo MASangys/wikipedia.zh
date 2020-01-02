@@ -1,3 +1,6 @@
+> 本文内容由[Laosmiddle](https://zh.wikipedia.org/wiki/Laosmiddle)转换而来。
+
+
 [Langham_Place_Laosmiddle_closed_201307.jpg](https://zh.wikipedia.org/wiki/File:Langham_Place_Laosmiddle_closed_201307.jpg "fig:Langham_Place_Laosmiddle_closed_201307.jpg")分店，門口張貼通告\]\] **Laosmiddle** (LML)是一間[香港](../Page/香港.md "wikilink")已結業的本地潮流服飾品牌，在1997年創立。主要銷售給[香港](../Page/香港.md "wikilink")青年顧客，它們主要銷售不同類型的背包、側袋、斜袋、運動袋等。現時有8間專門店，7間於香港及1間於廣州。曾與[Hello Kitty](../Page/Hello_Kitty.md "wikilink")﹑[華納等crossover推出產品](https://zh.wikipedia.org/wiki/華納 "wikilink")。該品牌已於2013年年中已經消失，其facebook 專頁最後更新日期為同年5月。
 
 ## 分店地址及營業時間

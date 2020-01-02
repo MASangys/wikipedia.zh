@@ -1,3 +1,6 @@
+> 本文内容由[星际旅行V：终极先锋](https://zh.wikipedia.org/wiki/星际旅行V：终极先锋)转换而来。
+
+
 《**星际旅行V：终极先锋**》（）是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1989年拍摄的电影，该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")5部[电影](../Page/电影.md "wikilink")。在西方通常简写作“ST5:TFF”或者“TFF”。这部电影由[威廉·夏特纳](../Page/威廉·夏特纳.md "wikilink")执导，他也参与了最初的故事线设定工作。
 
 ## 剧情概要

@@ -1,3 +1,6 @@
+> 本文内容由[DeSmuME](https://zh.wikipedia.org/wiki/DeSmuME)转换而来。
+
+
 **DeSmuME**（曾名为**YopYop DS**）是一个[自由软件](../Page/自由软件.md "wikilink")，是[任天堂](../Page/任天堂.md "wikilink") DS，即[Nintendo DS(NDS)系列](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")[掌上游戏机的](https://zh.wikipedia.org/wiki/游戏机 "wikilink")[模拟器](https://zh.wikipedia.org/wiki/模拟器 "wikilink")。
 
 它最初是由*YopYop156*使用[C++](../Page/C++.md "wikilink")开发并运行在[Linux](../Page/Linux.md "wikilink")，[Mac OS以及](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Windows上的](https://zh.wikipedia.org/wiki/Windows "wikilink")[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。DeSmuME同样被移植到了其他硬件平台上，例如[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation Portable游戏机](../Page/PlayStation_Portable.md "wikilink")。DeSmuME可以运行NDS平台上的商业或者自制ROM，后来的版本已经完全成为了多平台并拥有多种[用户界面](../Page/用户界面.md "wikilink")特性的软件。

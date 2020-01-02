@@ -1,3 +1,6 @@
+> 本文内容由[毛瑟Kar98k步槍](https://zh.wikipedia.org/wiki/毛瑟Kar98k步槍)转换而来。
+
+
 [Bolt517.jpg](https://zh.wikipedia.org/wiki/File:Bolt517.jpg "fig:Bolt517.jpg") **毛瑟1898年型卡賓槍**（，簡稱**Kar98k**或**K98k**），由[Gew 98步枪改進演变而成](https://zh.wikipedia.org/wiki/Gew_98步槍 "wikilink")，是[第二次世界大戰時期](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，[納粹德國](../Page/納粹德國.md "wikilink")軍隊裝備的制式[手動步槍](https://zh.wikipedia.org/wiki/手動步槍 "wikilink")。
 
 ## 原型

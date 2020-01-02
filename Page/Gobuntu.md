@@ -1,3 +1,6 @@
+> 本文内容由[Gobuntu](https://zh.wikipedia.org/wiki/Gobuntu)转换而来。
+
+
 **Gobuntu**是[Ubuntu](../Page/Ubuntu.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的一个官方衍生版，目的是提供一个完全由[自由软件](../Page/自由软件.md "wikilink")组成的发行版。
 
 ## 历史和开发进程

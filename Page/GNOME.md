@@ -1,3 +1,6 @@
+> 本文内容由[GNOME](https://zh.wikipedia.org/wiki/GNOME)转换而来。
+
+
 **GNOME**（\[1\]或\[2\]）是一個完全由[自由软件](../Page/自由软件.md "wikilink")組成的[桌面环境](../Page/桌面环境.md "wikilink")。它的目標[作業系統是](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Linux](../Page/Linux.md "wikilink")，但是大部分的[BSD](../Page/BSD.md "wikilink")系統亦支持GNOME。
 
 GNOME是由志願貢獻者和受僱貢獻者組成的[GNOME計劃開發](https://zh.wikipedia.org/wiki/GNOME計劃 "wikilink")，其最大的公司貢獻者為[紅帽公司](../Page/紅帽公司.md "wikilink")\[3\]\[4\]。它是一個為開發[軟件框架](https://zh.wikipedia.org/wiki/軟件框架 "wikilink")、基於這些框架來開發用戶端軟件及協調軟件[翻譯和開發](https://zh.wikipedia.org/wiki/翻譯 "wikilink")[無障礙軟件的專案](https://zh.wikipedia.org/wiki/無障礙 "wikilink")。

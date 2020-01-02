@@ -1,3 +1,6 @@
+> 本文内容由[Amigaguide](https://zh.wikipedia.org/wiki/Amigaguide)转换而来。
+
+
 **Amigaguide**是为[Amiga](../Page/Amiga.md "wikilink")設計的超文本格式。文件储存在[ASCII](../Page/ASCII.md "wikilink")编码，因此文件不需要专用软件就可以读取和编辑。
 
 自1992年的開始，Amigaguide viewer已預載於各位Amiga系列上\[1\]。至於旧版本使用者則可以下载**AmigaGuide 34**來配合使用。

@@ -1,3 +1,6 @@
+> 本文内容由[Evangelion](https://zh.wikipedia.org/wiki/Evangelion)转换而来。
+
+
 [Evangelion_logo.png](https://zh.wikipedia.org/wiki/File:Evangelion_logo.png "fig:Evangelion_logo.png") **Evangelion**（，简称：**EVA**）是在[日本](../Page/日本.md "wikilink")[科幻作品](https://zh.wikipedia.org/wiki/科幻 "wikilink")《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中出现的、用于抗击[使徒的人型兵器](../Page/使徒_\(新世纪福音战士\).md "wikilink")。正式名称是**泛用人型決戰兵器 人造人EVANGELION**。
 
 ## 设计概念

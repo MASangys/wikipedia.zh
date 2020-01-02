@@ -1,3 +1,6 @@
+> 本文内容由[雷克托街车站 \(IRT百老汇-第七大道线\)](https://zh.wikipedia.org/wiki/雷克托街车站_\(IRT百老汇-第七大道线\))转换而来。
+
+
 **雷克托街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")一個[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓下城雷克托街與](https://zh.wikipedia.org/wiki/曼哈頓下城 "wikilink")[格林尼治街](../Page/格林尼治街.md "wikilink")交界，任何時候都設有[1號線列車服務](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")。
 
 ## 車站結構

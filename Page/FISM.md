@@ -1,3 +1,6 @@
+> 本文内容由[FISM](https://zh.wikipedia.org/wiki/FISM)转换而来。
+
+
 **國際魔術組織聯盟**（，，縮寫：FISM）創立於1948年，是魔術界公認的權威魔術組織之一。目前擁有來自五十個國家和地區超過八十個會員組織和约五萬名會員，其中包括台灣的[黑帽魔術協會與](https://zh.wikipedia.org/wiki/黑帽魔術協會 "wikilink")[台灣魔術發展協會](https://zh.wikipedia.org/wiki/台灣魔術發展協會 "wikilink")（TMA）兩個組織，另外[808魔術道具店也正在著手申請入會中](https://zh.wikipedia.org/wiki/808魔術道具店 "wikilink")。 FISM組織每三年舉行世界性的魔術大會，由會員組織爭取主辦權，世界各地頂尖的魔術師將在此角逐“世界魔術冠軍”的稱號；在此之前，各地區也會舉辦地區性的選拔會[FISM Europe](https://zh.wikipedia.org/wiki/FISM_Europe "wikilink")、[FISM Asia](https://zh.wikipedia.org/wiki/FISM_Asia "wikilink")、[FISM North America](https://zh.wikipedia.org/wiki/FISM_North_America "wikilink")、[FISM Latin America](https://zh.wikipedia.org/wiki/FISM_Latin_America "wikilink")、[FISM Africa](https://zh.wikipedia.org/wiki/FISM_Africa "wikilink")、[FISM Oceania](https://zh.wikipedia.org/wiki/FISM_Oceania "wikilink")，會員組織則擁有所屬地區選拔會推薦參賽的名額。
 
 在FISM的比賽規則中，可分為舞台（Stage）以及近距離（Close-up）兩個領域；再往下細分，舞台領域下有一般部門（General Magic）、手法部門（Manipulation）、心靈魔術部門（Mentalism）、喜劇部門（Comedy）、大型幻術部門（Stage Illusions）；近距離領域下則有廳堂魔術部門（Parlour Magic）、近距離紙牌部門（Close-up Cards）、微型魔術部門（Micromagic）；除此之外還有魔術發明獎（Invention）和最佳原創魔術獎(Original)，最後每個部門的冠軍再角逐舞台以及近距離兩個領域的總冠軍（Grand Prix）。

@@ -1,3 +1,6 @@
+> 本文内容由[Arial Unicode MS](https://zh.wikipedia.org/wiki/Arial_Unicode_MS)转换而来。
+
+
 ****是一种[无衬线的](https://zh.wikipedia.org/wiki/无衬线 "wikilink")[TrueType](../Page/TrueType.md "wikilink")类型[电脑字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")。
 
 ## 概要

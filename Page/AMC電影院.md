@@ -1,3 +1,6 @@
+> 本文内容由[AMC電影院](https://zh.wikipedia.org/wiki/AMC電影院)转换而来。
+
+
 [AMC_Empire_25_NYC.jpg](https://zh.wikipedia.org/wiki/File:AMC_Empire_25_NYC.jpg "fig:AMC_Empire_25_NYC.jpg")[第42街Empire](../Page/42街_\(曼哈頓\).md "wikilink") Theatre\]\] [AMC_Pacific_Place_2017.jpg](https://zh.wikipedia.org/wiki/File:AMC_Pacific_Place_2017.jpg "fig:AMC_Pacific_Place_2017.jpg")[太古廣場](../Page/太古廣場.md "wikilink")AMC電影院，在2016年翻新\]\] [HK_Festival_Walk_amc_cinema_200907.jpg](https://zh.wikipedia.org/wiki/File:HK_Festival_Walk_amc_cinema_200907.jpg "fig:HK_Festival_Walk_amc_cinema_200907.jpg") **AMC電影院**（**AMC Theatres**；简写自**A**merican **M**ulti-**C**inema）是一間美國的連鎖[電影院](../Page/電影院.md "wikilink")。AMC是世界最大的连锁院线，在[美國市場佔有率第一](https://zh.wikipedia.org/wiki/美國 "wikilink")，共有8218块屏幕和661家影院\[1\]。除了美國以外，AMC在[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[香港](../Page/香港.md "wikilink")各有據點。AMC曾進駐巴西、加拿大、智利、日本、墨西哥、葡萄牙、南韓、西班牙、瑞典和匈牙利等國\[2\]\[3\]\[4\]。AMC總公司位於[堪薩斯城附近的](../Page/堪薩斯城_\(密蘇里州\).md "wikilink")[黎霧](../Page/黎霧_\(堪薩斯州\).md "wikilink")。
 
 AMC娱乐公司财报显示，公司2018财年第一财季营业收入为13.836亿美元，同比上涨8%，其中净利润为1770万美元。目前，AMC在美国会员数已经超过了1300万。

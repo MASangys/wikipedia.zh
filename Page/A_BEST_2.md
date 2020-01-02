@@ -1,3 +1,6 @@
+> 本文内容由[A BEST 2](https://zh.wikipedia.org/wiki/A_BEST_2)转换而来。
+
+
 《**A BEST 2**》（A 精選 2）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年2月28日發行的精選輯組合，依照歌曲印象而分為《[A BEST 2 -BLACK-](https://zh.wikipedia.org/wiki/#A_BEST_2_-BLACK- "wikilink")》與《[A BEST 2 -WHITE-](https://zh.wikipedia.org/wiki/#A_BEST_2_-WHITE- "wikilink")》，兩輯同時發售。《A BEST 2 -BLACK-》主要收錄悲傷、哀愁、自省風格的樂曲，《A BEST 2 -WHITE-》則主要收錄明亮歡愉、正面進取、緬懷的樂曲。
 
 收錄的歌曲是從2001年的單曲《[evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")》至2005年的《[HEAVEN](../Page/HEAVEN_\(濱崎步單曲\).md "wikilink")》為止，另外還有一曲新作《part of Me》被收於黑盤中。而跨年演唱會《ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A》也分別拆散本篇與花絮，分別分至黑、白兩盤當中。

@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot A650 IS](https://zh.wikipedia.org/wiki/佳能PowerShot_A650_IS)转换而来。
+
+
 **佳能 PowerShot A650 IS**是一款[佳能](../Page/佳能.md "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于[2007年8月](../Page/2007年8月.md "wikilink")推出。
 
 A650 IS继承了[Canon PowerShot A640的优点](https://zh.wikipedia.org/wiki/Canon_PowerShot_A640 "wikilink")，并且加入了在消费级市场日益受到关注的影像稳定器（IS）。A650 IS作为PowerShot A系列拥有最大面积CCD的PowerShot A 6x0系列相机的最新机种，也成为了佳能在消费类数码相机市场的事实旗舰机种。

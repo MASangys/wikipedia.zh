@@ -1,3 +1,6 @@
+> 本文内容由[A·J·迈克林](https://zh.wikipedia.org/wiki/A·J·迈克林)转换而来。
+
+
 **亞利山大·詹姆斯·「A. J.」·麥克林**（****，）\[1\]是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[歌手](../Page/歌手.md "wikilink")，[新好男孩成員之一](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")。
 
 ## 簡歷

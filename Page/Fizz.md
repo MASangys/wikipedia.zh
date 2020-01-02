@@ -1,3 +1,6 @@
+> 本文内容由[Fizz](https://zh.wikipedia.org/wiki/Fizz)转换而来。
+
+
 **Fizz**（フィズ）是[日本](../Page/日本.md "wikilink")Studio Knowledge（スタジオナレッジ）[有限公司](../Page/有限公司.md "wikilink")的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。最早品牌名稱是**Fizz feat.[戯画](https://zh.wikipedia.org/wiki/戯画 "wikilink")**。Fizz的命名由來是源自含有蘇打水的雞尾酒。\[1\]
 
 ## 作品

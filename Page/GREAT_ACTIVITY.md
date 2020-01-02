@@ -1,3 +1,6 @@
+> 本文内容由[GREAT ACTIVITY](https://zh.wikipedia.org/wiki/GREAT_ACTIVITY)转换而来。
+
+
 **GREAT ACTIVITY**，是[水樹奈奈](../Page/水樹奈奈.md "wikilink")第六張個人專輯。2007年11月14日[KING RECORDS發售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")，商品編號KICS-91339（CD+DVD初回限定盘）/KICS-1339（普通版）。
 
 ## 解説

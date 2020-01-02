@@ -1,3 +1,6 @@
+> 本文内容由[JR貨物EH500型電力機車](https://zh.wikipedia.org/wiki/JR貨物EH500型電力機車)转换而来。
+
+
 [JR_Freight_Class_EH500-38_with_Cheer_up_Tohoku_banner-P1030014.JPG](https://zh.wikipedia.org/wiki/File:JR_Freight_Class_EH500-38_with_Cheer_up_Tohoku_banner-P1030014.JPG "fig:JR_Freight_Class_EH500-38_with_Cheer_up_Tohoku_banner-P1030014.JPG") **EH500型電力機車**，是供[日本貨物鐵道使用的交流傳動八軸](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於交直流電化區段。
 
 這款機車的暱稱為「ECO-POWER [金太郎](../Page/金太郎.md "wikilink")」，以對應[EF210型的暱稱](../Page/JR貨物EF210型電力機車.md "wikilink")「ECO-POWER [桃太郎](../Page/桃太郎.md "wikilink")」。

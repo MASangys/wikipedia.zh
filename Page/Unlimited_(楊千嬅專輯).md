@@ -1,3 +1,6 @@
+> 本文内容由[Unlimited \(楊千嬅專輯\)](https://zh.wikipedia.org/wiki/Unlimited_\(楊千嬅專輯\))转换而来。
+
+
 《**Unlimited**》\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")於2006年12月15日發行的個人粵語大碟，是最後一張由[金牌娛樂發行的個人粵語大碟](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")。唱片取名為《Unlimited》，是想傳遞生有限、活無限的信息。封面構思來自[手塚治蟲的](https://zh.wikipedia.org/wiki/手塚治蟲 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[藍寶石王子](https://zh.wikipedia.org/wiki/藍寶石王子 "wikilink")》，左邊的男角本是女兒身，一方面希望擁有自己的感情生活，同時又望有男仔氣概來捍衛家園，就像現今女性不但要要照顧家庭，更要獨立自主，充滿責任感，表達出女人有獨立與及溫柔的一面\[2\]。雖然欠缺宣傳，但唱片的本地銷量大約為二萬五千張\[3\]。
 
 ## 曲目

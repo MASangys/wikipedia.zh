@@ -1,3 +1,6 @@
+> 本文内容由[Yellow Paul Wong](https://zh.wikipedia.org/wiki/Yellow_Paul_Wong)转换而来。
+
+
 《**Yellow Paul Wong**》是香港歌手[黃貫中](../Page/黃貫中.md "wikilink")發行第一张粵語专辑。於2001年1月10日發行。
 
 ## 背景

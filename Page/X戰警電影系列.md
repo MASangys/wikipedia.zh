@@ -1,3 +1,6 @@
+> 本文内容由[X戰警電影系列](https://zh.wikipedia.org/wiki/X戰警電影系列)转换而来。
+
+
 **X戰警電影系列**是以[漫威漫畫](../Page/漫威漫畫.md "wikilink")[虛構](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》為基礎的電影（Earth-10005）。電影主要角色以[金鋼狼](../Page/金鋼狼.md "wikilink")為主，描寫[X教授](../Page/X教授.md "wikilink")與[萬磁王](../Page/萬磁王.md "wikilink")為兩派，對[人類](../Page/人類.md "wikilink")與變種人關係各方爭論相異的爭鬥，[X教授](../Page/X教授.md "wikilink")相信人類與變種人可以[和平](../Page/和平.md "wikilink")共處，而[萬磁王](../Page/萬磁王.md "wikilink")則堅信戰爭來到，傾向與人類宣戰。電影也將{{〈}}Weapon X{{〉}}與{{〈}}Dark Phoenix{{〉}}漫畫主線加入電影作為次要劇情。
 
 [20世紀福斯於](https://zh.wikipedia.org/wiki/20世紀福斯 "wikilink")1994年取得電影角色版權，在經過多次的修訂，由[布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink")來執導《[X戰警](../Page/X戰警_\(電影\).md "wikilink")》（2000年）和《[X戰警2](../Page/X戰警2.md "wikilink")》（2003年），隨後布萊恩·辛格離開劇組前去拍攝《[-{zh-cn:超人归来;zh-hk:超人—強戰回歸;zh-tw:超人再起;}-](../Page/超人再起.md "wikilink")》，而第三部《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》（2006年）由[布萊特·瑞納](https://zh.wikipedia.org/wiki/布萊特·瑞納 "wikilink")（Brett Ratner）導演接手。評論家讚賞[布萊恩·辛格](../Page/布萊恩·辛格.md "wikilink")執導的前兩集的黑暗色彩和寫實風格，以及对于歧視與宽容的探讨，而对于[布萊特·瑞納的评论則褒贬不一](https://zh.wikipedia.org/wiki/布萊特·瑞納 "wikilink")。不过，每部電影最後均獲益不少票房。《X戰警》系列電影可說是帶起2000年代[超級英雄電影的先驅](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")。

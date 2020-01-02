@@ -1,3 +1,6 @@
+> 本文内容由[GPL超級聯賽](https://zh.wikipedia.org/wiki/GPL超級聯賽)转换而来。
+
+
 [GPL-Logo.jpg](https://zh.wikipedia.org/wiki/File:GPL-Logo.jpg "fig:GPL-Logo.jpg") **GPL超級聯賽（Garena Premier League）**是由[Garena所舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》東南亞的跨國職業[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。2015年台港澳地區獨立成[LMS賽區](../Page/LMS職業聯賽.md "wikilink")，2018年越南獨立成VCS聯賽，剩下新加坡、馬來西亞、菲律賓、泰國及印尼地區。2018年春季賽期後，由LOL SEA Tour(LST)代替。
 
 ## 概要
@@ -201,7 +204,6 @@ GPL2014夏季賽事的參賽隊伍共有12隊，分別是：
 [Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink") [Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink") [Category:2012年新加坡建立](https://zh.wikipedia.org/wiki/Category:2012年新加坡建立 "wikilink")
 
 1.
-
 2.
 3.
 4.  [【英雄聯盟】賽事中心 第一季 GPL 超級聯賽](http://lol.garena.tw/competitive/game/gamesinfoinner.php?gf_permalink=13370675074fb207f3e4ba6)

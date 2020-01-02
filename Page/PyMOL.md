@@ -1,3 +1,6 @@
+> 本文内容由[PyMOL](https://zh.wikipedia.org/wiki/PyMOL)转换而来。
+
+
 **PyMOL**是一个[开放源码](https://zh.wikipedia.org/wiki/开放源码 "wikilink")，由使用者贊助的分子三维结构显示[软件](../Page/软件.md "wikilink")。由[Warren Lyford DeLano编写](https://zh.wikipedia.org/wiki/w:Warren_Lyford_DeLano "wikilink")，並且由DeLano Scientific LLC將它商業化。DeLano Scientific LLC是一個私人的軟體公司，它致力於創造讓普遍的科學與教育社群都能取得的好用軟體工具。
 
 PyMOL适用于创作高品質的小分子或是[生物大分子](https://zh.wikipedia.org/wiki/生物大分子 "wikilink")（特别是[蛋白質](https://zh.wikipedia.org/wiki/蛋白質 "wikilink")）的三维结构圖像。軟體的作者宣称，在所有正式发表的科學文獻中的蛋白質結構圖像中，有四分之一是使用PyMOL來製作。

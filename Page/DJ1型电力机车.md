@@ -1,3 +1,6 @@
+> 本文内容由[DJ1型电力机车](https://zh.wikipedia.org/wiki/DJ1型电力机车)转换而来。
+
+
 **DJ1型电力机车**，是[中国铁路的](../Page/中華人民共和國鐵路運輸.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")车型之一，也是中国第一种从国外进口并投入批量生产的交流传动电力机车。DJ1型电力机车为双节八轴大功率货运电力机车，由[西门子交通集团在](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")“[欧洲短跑手](../Page/EuroSprinter.md "wikilink")”（EuroSprinter）系列[ES64F型电力机车](../Page/ES64F型电力机车.md "wikilink")（德国铁路152型电力机车）基础上为中国市场改进设计而成，其中首批3台由[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[格拉兹工厂制造](https://zh.wikipedia.org/wiki/格拉兹 "wikilink")，后17台通过技术转让并由[中外合资企业](https://zh.wikipedia.org/wiki/中外合资企业 "wikilink")[株洲西门子牵引设备有限公司在中国国内制造](https://zh.wikipedia.org/wiki/株洲西门子牵引设备有限公司 "wikilink")。
 
 ## 发展历史

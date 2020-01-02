@@ -1,3 +1,6 @@
+> 本文内容由[Omegle](https://zh.wikipedia.org/wiki/Omegle)转换而来。
+
+
 **Omegle**是一个匿名和随机的全世界网友聊天的网站。该[网站是由](https://zh.wikipedia.org/wiki/网站 "wikilink")[美国](../Page/美国.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[伯瑞特波罗的](https://zh.wikipedia.org/wiki/伯瑞特波罗 "wikilink")18岁少年雷夫·K-布鲁克斯（）在2009年3月25日创建的。\[1\]\[2\]
 
 Omegle是一个不用注册、无需下载，只要进入网站点击“开始聊天”就能和随机在线网友进行交流的网站。

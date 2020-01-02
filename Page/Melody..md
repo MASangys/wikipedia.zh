@@ -1,3 +1,6 @@
+> 本文内容由[Melody.](https://zh.wikipedia.org/wiki/Melody.)转换而来。
+
+
 **melody.**（原名：****，）生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")，是[日本](../Page/日本.md "wikilink")流行樂的[女歌手及電視](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[節目主持人](https://zh.wikipedia.org/wiki/節目主持人 "wikilink")。於2003年2月2日以「Dreamin' Away」出道，為Toy's Factory旗下的歌手。
 
 ## 經歷

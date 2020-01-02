@@ -1,3 +1,6 @@
+> 本文内容由[歐洲人權法院關於LGBT的判決列表](https://zh.wikipedia.org/wiki/歐洲人權法院關於LGBT的判決列表)转换而来。
+
+
 本列表包含了[歐洲人權法院關於](https://zh.wikipedia.org/wiki/歐洲人權法院 "wikilink")[LGBT](../Page/LGBT.md "wikilink")（女同性戀者、男同性戀者、雙性戀者、跨性別者）的案件。
 
 ## 依時間順序排列

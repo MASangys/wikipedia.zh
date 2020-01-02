@@ -1,3 +1,6 @@
+> 本文内容由[Feel.](https://zh.wikipedia.org/wiki/Feel.)转换而来。
+
+
 **有限会社feel.**是以[動畫的企劃](https://zh.wikipedia.org/wiki/動畫 "wikilink")、制作為主要營業項目的[日本](../Page/日本.md "wikilink")企業。
 
 ## 概要

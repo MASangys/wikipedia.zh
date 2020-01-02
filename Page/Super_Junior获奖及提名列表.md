@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior获奖及提名列表](https://zh.wikipedia.org/wiki/Super_Junior获奖及提名列表)转换而来。
+
+
 <table>
 <caption><span style="font-size: 12pt"><strong>Super Junior获奖及提名列表</strong></span></caption>
 <tbody>

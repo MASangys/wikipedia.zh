@@ -1,3 +1,6 @@
+> 本文内容由[Re: 甜心战士](https://zh.wikipedia.org/wiki/Re:_甜心战士)转换而来。
+
+
 《**Re: 甜心战士**》（）是2004年發售的《[甜心战士](https://zh.wikipedia.org/wiki/甜心战士 "wikilink")》系列[OVA版](https://zh.wikipedia.org/wiki/OVA "wikilink")。借鉴或替换了过去所有[东映动画](../Page/东映动画.md "wikilink")制作的《甜心战士》系列的动画新作，本作品由[GAINAX](../Page/GAINAX.md "wikilink")担当制作。
 
 ## 作品概要

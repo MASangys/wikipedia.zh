@@ -1,3 +1,6 @@
+> 本文内容由[趙C案](https://zh.wikipedia.org/wiki/趙C案)转换而来。
+
+
 **趙C案**是[中國大陸於](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")2006年因姓名問題導致發生換發身分證糾紛，已於2009年因和解而結束。
 
 ## 简介

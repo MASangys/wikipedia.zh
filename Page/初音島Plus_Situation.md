@@ -1,3 +1,6 @@
+> 本文内容由[初音島Plus Situation](https://zh.wikipedia.org/wiki/初音島Plus_Situation)转换而来。
+
+
 《**初音島Plus Situation**》是CIRCUS於2003年10月30日由[角川書店](../Page/角川書店.md "wikilink")發售的[PS2遊戲](../Page/PlayStation_2.md "wikilink")，為PC遊戲《[初音島](../Page/初音島.md "wikilink")》的移植版。\[1\]PS2廉價版《初音島Plus Situation KADOKAWA THE Best》於2005年7月14日發售。\[2\]2004年5月28日發售PC版《D.C.P.C. 〜ダ・カーポ〜 プラスコミュニケーション》。2010年10月28日發售PSP版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル》。2012年8月31日由BD de ゲーム發售Blu-ray PlayersGame《D.C.～ダ・カーポ～ ブルーレイディスク特別版》。2013年4月25日PlayStation Stone發售數位下載版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラスシチュエーション ポータブル》\[3\]。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[G蛋白](https://zh.wikipedia.org/wiki/G蛋白)转换而来。
+
+
 [1b9x_opm.png](https://zh.wikipedia.org/wiki/File:1b9x_opm.png "fig:1b9x_opm.png")- [transducin](https://zh.wikipedia.org/wiki/transducin "wikilink") beta-gamma complex. Beta and gamma subunits of G-protein are shown by blue and red, respectively.\]\] [Guanosindiphosphat_protoniert.svg](https://zh.wikipedia.org/wiki/File:Guanosindiphosphat_protoniert.svg "fig:Guanosindiphosphat_protoniert.svg")（Guanosine diphosphate，缩写：GDP）\]\] [Guanosintriphosphat_protoniert.svg](https://zh.wikipedia.org/wiki/File:Guanosintriphosphat_protoniert.svg "fig:Guanosintriphosphat_protoniert.svg")（Guanosine triphosphate，缩写：GTP）\]\] **G蛋白**（英語：**G Protein**）是指**鸟苷酸结合蛋白**（****）。它含有一个[鸟苷酸结合](https://zh.wikipedia.org/wiki/鸟苷酸 "wikilink")[结构域](../Page/结构域.md "wikilink")，由α、β、γ三个[亚基组成](https://zh.wikipedia.org/wiki/蛋白质亚基 "wikilink")。激活状态下的G蛋白可以激活[腺苷酸环化酶](../Page/腺苷酸环化酶.md "wikilink")，产生[第二信使](https://zh.wikipedia.org/wiki/第二信使 "wikilink")[C-AMP](https://zh.wikipedia.org/wiki/cAMP "wikilink")，从而产生进一步的生物学效应。
 
 ## 作用原理

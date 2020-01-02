@@ -1,3 +1,6 @@
+> 本文内容由[PRV引擎](https://zh.wikipedia.org/wiki/PRV引擎)转换而来。
+
+
 **PRV引擎**是1974年－1998年由[標緻汽車](../Page/標緻汽車.md "wikilink")、[雷諾汽車及](https://zh.wikipedia.org/wiki/雷諾 "wikilink")[富豪汽車](../Page/富豪汽車.md "wikilink")等三家車廠共同研發的V型6缸引擎，故其名稱各取其字首「P」、「R」、「V」而成；不過1994年之後漸漸被[PSA集團的](https://zh.wikipedia.org/wiki/PSA集團 "wikilink")[雷諾開發的](https://zh.wikipedia.org/wiki/雷諾 "wikilink")[ES引擎取代](https://zh.wikipedia.org/wiki/ES引擎 "wikilink")。
 
 ## 規格

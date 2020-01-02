@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_BEST_of_COUNTDOWN_LIVE_2006-2007_A)转换而来。
+
+
 《**ayumi hamasaki BEST of COUNTDOWN LIVE 2006-2007 A**》（濱崎步 2006-2007 跨年演唱會A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2006年12月30日、31日在國立代代目競技場第一體育館舉行跨年演唱會。
 
 ## 說明

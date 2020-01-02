@@ -1,3 +1,6 @@
+> 本文内容由[勇者斗恶龙怪兽篇Joker 2](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽篇Joker_2)转换而来。
+
+
 是由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")发行的[任天堂DS](../Page/任天堂DS.md "wikilink")平台[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")。游戏是《[勇者斗恶龙怪兽篇Joker](../Page/勇者斗恶龙怪兽篇Joker.md "wikilink")》的续作，也是[勇者斗恶龙怪兽系列的第五部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽系列 "wikilink")。游戏于2010年4月28日在日本发行，2011年9月19日和10月7日在北美和欧洲发行\[1\]。游戏扩展版本于2011年3月31日在日本发行，其增加了一些怪兽与能力，而游戏情节相同。
 
 ## 游戏玩法
@@ -24,20 +27,12 @@
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.

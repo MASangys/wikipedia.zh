@@ -1,3 +1,6 @@
+> 本文内容由[聖鬥士星矢 NEXT DIMENSION 冥王神話](https://zh.wikipedia.org/wiki/聖鬥士星矢_NEXT_DIMENSION_冥王神話)转换而来。
+
+
 《**聖鬥士星矢 NEXT DIMENSION 冥王神話**》是[車田正美所描繪的](https://zh.wikipedia.org/wiki/車田正美 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2006年8月於《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》的36、37合併號正式開始連載。故事講述距離《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》本篇所處年代 (1990年) 的243年之前的聖戰。
 
 由於維持當初預定的每週全彩連載的創作方式比較困難的關係，從第38號開始改為不定期連載。持續了幾回不定期連載後，原本預定在2007年2月刊載的第9話實際沒有刊載，再度休載，於2007年的《週刊少年Champion》第34號宣布，《NEXT DIMENSION 冥王神話》將於《週刊少年Champion》第36、37號合併號（2007年8月2日發售）開始重新連載。

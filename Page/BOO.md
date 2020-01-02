@@ -1,3 +1,6 @@
+> 本文内容由[BOO](https://zh.wikipedia.org/wiki/BOO)转换而来。
+
+
 **Boo**是個物件導向語言，語法非常接近[Python](../Page/Python.md "wikilink")，並且提供了許多可以擴充編譯器的有趣特色，並且可以運行在[.NET Framework或](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[Mono](../Page/Mono.md "wikilink")上。
 
 Boo為[开放源代码](../Page/开放源代码.md "wikilink")，使用[MIT許可證](../Page/MIT許可證.md "wikilink")／[BSD许可证](../Page/BSD许可证.md "wikilink")。

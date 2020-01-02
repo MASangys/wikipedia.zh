@@ -1,3 +1,6 @@
+> 本文内容由[Dearest \(傅穎專輯\)](https://zh.wikipedia.org/wiki/Dearest_\(傅穎專輯\))转换而来。
+
+
 **Dearest**為[傅穎第三張個人專輯](https://zh.wikipedia.org/wiki/傅穎 "wikilink")，於情人節前夕2009年2月13日分為兩款不同封面（**Sexy**及**Cute**）推出。雖現今市道差，但其唱片銷量已突破超過一萬張。更被唱片公司老闆黃柏高封**傅穎**為**金牌大風最高銷量的女歌手**。
 
 ## CD+DVD

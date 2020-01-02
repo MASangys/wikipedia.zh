@@ -1,3 +1,6 @@
+> 本文内容由[PLY](https://zh.wikipedia.org/wiki/PLY)转换而来。
+
+
 **PLY**是一種電腦檔案格式，全名為**多邊形檔案（Polygon File Format）**或 **史丹佛三角形檔案（Stanford Triangle Format）**。
 
 [David_von_Michelangelo.jpg](https://zh.wikipedia.org/wiki/File:David_von_Michelangelo.jpg "fig:David_von_Michelangelo.jpg")的 [The Digital Michelangelo Project](http://graphics.stanford.edu/projects/mich/)計畫採用PLY格式儲存極高解析度之[米開朗基羅的作品](https://zh.wikipedia.org/wiki/米開朗基羅 "wikilink")"[大衛](https://zh.wikipedia.org/wiki/大衛 "wikilink")"雕塑。\]\]

@@ -1,3 +1,6 @@
+> 本文内容由[PHP](https://zh.wikipedia.org/wiki/PHP)转换而来。
+
+
 **PHP**（全称：**P**HP：**H**ypertext **P**reprocessor，即“PHP：超文本预处理器”）是一种[开源的通用](https://zh.wikipedia.org/wiki/开源 "wikilink")[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[脚本语言](../Page/脚本语言.md "wikilink")，尤其适用于[网络开发并可嵌入](https://zh.wikipedia.org/wiki/网络开发 "wikilink")[HTML](../Page/HTML.md "wikilink")中使用。PHP的语法借鉴吸收[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[Java](../Page/Java.md "wikilink")和[Perl](../Page/Perl.md "wikilink")等流行计算机语言的特点，易于一般[程序员](../Page/程序员.md "wikilink")学习。PHP的主要目标是允许网络开发人员快速编写[动态页面](https://zh.wikipedia.org/wiki/动态页面 "wikilink")，但PHP也被用于其他很多领域。\[1\]
 
 PHP最初是由[勒多夫在](../Page/拉斯姆斯·勒多夫.md "wikilink")1995年开始开发的；現在PHP的標準由the PHP Group\[2\]維護。PHP以PHP License作為許可協議，不過因為這個協議限制了PHP名稱的使用，所以和[開放原始碼許可協議](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[GPL不相容](https://zh.wikipedia.org/wiki/GPL "wikilink")。\[3\]

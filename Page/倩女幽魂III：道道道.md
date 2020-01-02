@@ -1,3 +1,6 @@
+> 本文内容由[倩女幽魂III：道道道](https://zh.wikipedia.org/wiki/倩女幽魂III：道道道)转换而来。
+
+
 是一套1991年拍攝的[港產片](https://zh.wikipedia.org/wiki/港產片 "wikilink")，是1987年的另一套鬼故事電影《[倩女幽魂](../Page/倩女幽魂_\(1987年電影\).md "wikilink")》的延續，同樣由[程小東](../Page/程小東.md "wikilink")導演、[徐克](../Page/徐克.md "wikilink")監製。
 
 ## 劇情

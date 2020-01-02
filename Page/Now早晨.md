@@ -1,3 +1,6 @@
+> 本文内容由[Now早晨](https://zh.wikipedia.org/wiki/Now早晨)转换而来。
+
+
 《**now早晨**》（）是一個[ViuTV](../Page/ViuTV.md "wikilink")、 [now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台聯播的](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港](../Page/香港.md "wikilink")晨早新聞節目，每日六點起開始提供天氣、交通、本地同國際新聞，還有環球金融消息，等觀眾在上班之前，都能夠盡握時事脈搏。ViuTV節目表內以《早晨新聞》名義播出。
 
 節目由[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[新聞資訊部製作](https://zh.wikipedia.org/wiki/now寬頻電視新聞 "wikilink")。香港其他電視台同類節目有[無綫電視的](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[香港早晨](../Page/香港早晨.md "wikilink")》、[有線電視新聞台的](https://zh.wikipedia.org/wiki/香港有線電視新聞台 "wikilink")《[Cable早晨](../Page/Cable早晨.md "wikilink")》和[港台電視](../Page/港台電視.md "wikilink")的《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》。

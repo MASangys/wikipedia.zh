@@ -1,3 +1,6 @@
+> 本文内容由[Oracle数据库](https://zh.wikipedia.org/wiki/Oracle数据库)转换而来。
+
+
 **Oracle Database**，又名**Oracle RDBMS**，或簡稱**Oracle**。是[甲骨文公司](../Page/甲骨文公司.md "wikilink")的一款[关系数据库](../Page/关系数据库.md "wikilink")管理系统。到目前仍在数据库市场上占有主要份额。\[1\]
 
 [劳伦斯·埃里森和他的朋友](https://zh.wikipedia.org/wiki/劳伦斯·埃里森 "wikilink")，之前的同事和在1977年建立了软件开发实验室咨询公司（SDL，Software Development Laboratories）。SDL开发了Oracle软件的最初版本。*Oracle*的名称来自于埃里森在[Ampex](../Page/Ampex.md "wikilink")工作时参加的一个由[中央情报局创建的项目的代码名称](https://zh.wikipedia.org/wiki/CIA "wikilink")。\[2\]

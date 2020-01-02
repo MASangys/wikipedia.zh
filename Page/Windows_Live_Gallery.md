@@ -1,3 +1,6 @@
+> 本文内容由[Windows Live Gallery](https://zh.wikipedia.org/wiki/Windows_Live_Gallery)转换而来。
+
+
 **Windows Live Gallery** 可以下載[微軟小工具提供的額外功能及服務](https://zh.wikipedia.org/wiki/微軟小工具 "wikilink")，例如氣象、新聞等。
 
 ## 附加價值

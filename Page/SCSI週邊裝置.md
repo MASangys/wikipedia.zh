@@ -1,3 +1,6 @@
+> 本文内容由[SCSI週邊裝置](https://zh.wikipedia.org/wiki/SCSI週邊裝置)转换而来。
+
+
 底下這些描述是在SCSI命令裡面Inquiry命令的Inquiry data的SCSI Peripheral Device Type這個欄位的定義。
 
 ## SCSI Peripheral Device Type

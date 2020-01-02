@@ -1,3 +1,6 @@
+> 本文内容由[World Apart](https://zh.wikipedia.org/wiki/World_Apart)转换而来。
+
+
 『**World Apart**』是[ASIAN KUNG-FU GENERATION的第](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説

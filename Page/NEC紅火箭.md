@@ -1,3 +1,6 @@
+> 本文内容由[NEC紅火箭](https://zh.wikipedia.org/wiki/NEC紅火箭)转换而来。
+
+
 **NEC紅火箭**（）是一支[日本](../Page/日本.md "wikilink")女子排球隊，隸屬於[日本電氣](../Page/日本電氣.md "wikilink")旗下，總部設於[神奈川縣](../Page/神奈川縣.md "wikilink")[川崎市](../Page/川崎市.md "wikilink")（主場分別設於[東京都](../Page/東京都.md "wikilink")[港區及](https://zh.wikipedia.org/wiki/港區 "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")[川崎市](../Page/川崎市.md "wikilink")），目前是[V超級聯賽女子組的球隊之一](https://zh.wikipedia.org/wiki/V超級聯賽 "wikilink")。現任領隊為[山田晃豐](https://zh.wikipedia.org/wiki/山田晃豐 "wikilink")。
 
 ## 過往戰績

@@ -1,3 +1,6 @@
+> 本文内容由[D語言](https://zh.wikipedia.org/wiki/D語言)转换而来。
+
+
 **D語言**是一种[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，具备[多範型](https://zh.wikipedia.org/wiki/多範型程式語言 "wikilink")，例如[物件導向](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[指令式](https://zh.wikipedia.org/wiki/指令式程式設計 "wikilink")。由[沃尔特·布莱特](../Page/沃尔特·布莱特.md "wikilink")和[安德烈·亞歷山德雷斯庫](../Page/安德烈·亞歷山德雷斯庫.md "wikilink")所開發，起源自[C++](../Page/C++.md "wikilink")，深受C++的影響，然而其不是C++的变种，而是重新设计来自C++的部分特性，并受到其它程式語言觀念的影響，如[Java](../Page/Java.md "wikilink")、[C\#以及](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Eiffel](../Page/Eiffel.md "wikilink")。2007年1月2日釋出1.0穩定版本。版本2.0釋出於2007年1月17日。
 
 Walter Bright本身是[Symantec C++](https://zh.wikipedia.org/wiki/Symantec_C++ "wikilink") 編譯器的作者，另一名作者[Andrei Alexandrescu是](https://zh.wikipedia.org/wiki/Andrei_Alexandrescu "wikilink")[Facebook](../Page/Facebook.md "wikilink")的研究科学家，他与一个团队用D语言重写一些Facebook的重要操作。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[瓦爾特MP衝鋒槍](https://zh.wikipedia.org/wiki/瓦爾特MP衝鋒槍)转换而来。
+
+
 **瓦爾特MP**（MP，，意為：「[瓦爾特](../Page/卡尔·瓦尔特运动枪.md "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")」）是一款由[西德瓦爾特有限公司在](https://zh.wikipedia.org/wiki/德意志聯邦共和國 "wikilink")1963年至1987年期間設計及生產的一系列冲锋枪。\[1\]發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計

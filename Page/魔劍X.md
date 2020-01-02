@@ -1,3 +1,6 @@
+> 本文内容由[魔劍X](https://zh.wikipedia.org/wiki/魔劍X)转换而来。
+
+
 **魔劍X**（Maken Deus Ex Machina）是日本[電視遊戲公司](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")[ATLUS為](https://zh.wikipedia.org/wiki/ATLUS "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")開發的一款[第一身視點](https://zh.wikipedia.org/wiki/第一身視點 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，於1999年發售。玩家在遊戲中扮演的就是具有自我意識的武器**魔劍**，透過乘取其他人類的肉體在全世界冒險。魔劍在故事一開始吸收了女主角**相模 桂**的「IMAGE」（魔劍X世界中對[靈魂](https://zh.wikipedia.org/wiki/靈魂 "wikilink")、[精神](../Page/精神.md "wikilink")等的專稱），與其對話及選擇與**封劍士**還是**三業會**的勢力合作將會影響[遊戲關卡流程及發展出高達](https://zh.wikipedia.org/wiki/遊戲關卡 "wikilink")7個的結局。
 
 由於遊戲是由[女神轉生系列的開發組ATLUS第一研發部開發](https://zh.wikipedia.org/wiki/女神轉生 "wikilink")，加上與[真女神轉生系列十分相似的世界觀及](https://zh.wikipedia.org/wiki/真女神轉生 "wikilink")[金子一馬](../Page/金子一馬.md "wikilink")的大膽人設，一直被女神轉生的愛好者視為女神轉生的非冠名外傳作品。

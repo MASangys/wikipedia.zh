@@ -1,3 +1,6 @@
+> 本文内容由[Sing to the Sky](https://zh.wikipedia.org/wiki/Sing_to_the_Sky)转换而来。
+
+
 《**Sing to the Sky**》（歌向天際）為[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[絢香](../Page/絢香.md "wikilink")的第二張專輯，於2008年6月25日發行。
 
 ## 解說

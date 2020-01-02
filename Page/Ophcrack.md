@@ -1,3 +1,6 @@
+> 本文内容由[Ophcrack](https://zh.wikipedia.org/wiki/Ophcrack)转换而来。
+
+
 **Ophcrack**是一個使用[彩虹表](../Page/彩虹表.md "wikilink")來[破解](https://zh.wikipedia.org/wiki/破解 "wikilink")[視窗作業系統下的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[LAN Manager雜湊](https://zh.wikipedia.org/wiki/LAN_Manager雜湊 "wikilink")（）的[计算机程序](../Page/计算机程序.md "wikilink")，它是基於[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")下發佈的[開放原始碼程式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。
 
 它接受不同格式的[雜湊](https://zh.wikipedia.org/wiki/雜湊 "wikilink")，包括視窗作業系統的檔案。使用作者免費提供的Rainbow Table，可以在短至幾秒內破解最多14個[英文字母](../Page/英文字母.md "wikilink")的[密碼](../Page/密碼.md "wikilink")，有99.9%的成功率。包含更多[字母](../Page/字母.md "wikilink")（包括符號和空格）的Rainbow Table可以在Objectif Securité購買。

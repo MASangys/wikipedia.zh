@@ -1,3 +1,6 @@
+> 本文内容由[HTC Trinity](https://zh.wikipedia.org/wiki/HTC_Trinity)转换而来。
+
+
 **HTC Trinity**，原廠型號**HTC P3600，HTC P3600i**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5，首款GPS PDA手機，2006年9月於歐洲首度發表。已知客製版本HTC P3600，HTC P3600i，Dopod D810，Dopod CHT9100，Dopod CHT9110，Orange SPV M700，Vodafone VPA Compact GPS，SFR S300+，Swisscom XPA v1510。
 
 ## 技術規格

@@ -1,3 +1,6 @@
+> 本文内容由[NIGO](https://zh.wikipedia.org/wiki/NIGO)转换而来。
+
+
 **NIGO**（ニゴー，本名：**長尾智明**；），是一位[日本](../Page/日本.md "wikilink")[饒舌歌手及](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")[服裝設計師](https://zh.wikipedia.org/wiki/服裝設計師 "wikilink")，[A Bathing Ape創辦人](../Page/A_Bathing_Ape.md "wikilink")，[Nowhere](https://zh.wikipedia.org/wiki/Nowhere "wikilink")[行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")。NIGO於1993年在[裏原宿](../Page/裏原宿.md "wikilink")成立[A Bathing Ape品牌](../Page/A_Bathing_Ape.md "wikilink")，後來於2011年賣給香港[I.T](../Page/I.T.md "wikilink")集團，現為[HUMAN MADE創辦人](https://zh.wikipedia.org/wiki/HUMAN_MADE "wikilink")。
 
 ## 簡歷

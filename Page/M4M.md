@@ -1,3 +1,6 @@
+> 本文内容由[M4M](https://zh.wikipedia.org/wiki/M4M)转换而来。
+
+
 **M4M**（）是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube Entertainment與](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[中国北京星天传媒共同企劃](https://zh.wikipedia.org/wiki/中国 "wikilink")，於2013年推出的華人男子團體。成員包括來自[香港](../Page/香港.md "wikilink")的朱兆豐，[江苏的于斌](https://zh.wikipedia.org/wiki/江苏 "wikilink")，[台灣的羅宇勝和](https://zh.wikipedia.org/wiki/台灣 "wikilink")[浙江的方逸倫](https://zh.wikipedia.org/wiki/浙江 "wikilink")。2013年3月13日，以首張迷你專輯主打歌《Sadness》正式出道。M4M團體名稱是“Mystery ForMula”的縮寫，即為‘神秘方程式’之意，代表每位成員都像個性鮮明的方程式般，能充分展現個人的特色也能完美的融合在一起。
 
 ## 發展歷史
@@ -28,19 +31,22 @@
 
 ### 電視劇
 
-|       |                                                       |                                                                    |      |                                                   |     |
-| ----- | ----------------------------------------------------- | ------------------------------------------------------------------ | ---- | ------------------------------------------------- | --- |
-| 年份    | 電視台                                                   | 劇名                                                                 | 參演成員 | 角色                                                | 性質  |
-| 2014年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [不一樣的美男子](https://zh.wikipedia.org/wiki/不一樣的美男子 "wikilink")        | 方逸倫  | 葉江帆                                               | 男配角 |
-| 2014年 | [瑞格传播](https://zh.wikipedia.org/wiki/瑞格传播 "wikilink") | [甜蜜生活](https://zh.wikipedia.org/wiki/甜蜜生活_\(2014年電視劇\) "wikilink") | 朱兆豐  |                                                   | 客串  |
-| 2015年 | [天津卫视](../Page/天津卫视.md "wikilink")                    | 青春萬萬歲                                                              | 方逸倫  | 高禹轩                                               | 男配角 |
-| 2017年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [不一樣的美男子](https://zh.wikipedia.org/wiki/不一樣的美男子 "wikilink")2       | 方逸倫  | 葉江帆                                               | 男配角 |
-| 2017年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [美味奇缘](../Page/美味奇缘.md "wikilink")                                 | 方逸倫  | 葉以軒                                               | 男配角 |
-| 2018年 | [优酷](../Page/优酷.md "wikilink")                        | [許你浮生若夢](https://zh.wikipedia.org/wiki/許你浮生若夢 "wikilink")          | 方逸倫  | 段天賜                                               | 男配角 |
-| 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [绝世千金](https://zh.wikipedia.org/wiki/绝世千金 "wikilink")              | 方逸倫  | 柳修文                                               | 男配角 |
-| 2019年 | [浙江卫视](../Page/浙江卫视.md "wikilink")                    | [獨孤皇后](../Page/独孤皇后_\(电视剧\).md "wikilink")                         | 方逸倫  | [楊瓚](https://zh.wikipedia.org/wiki/楊瓚 "wikilink") | 男配角 |
-| 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [新白娘子傳奇](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink")                | 方逸倫  | 睦王                                                | 男配角 |
-| 2019年 | [腾讯视频](../Page/腾讯视频.md "wikilink")                    | [陈情令](../Page/陈情令.md "wikilink")                                   | 于斌   | 温宁                                                | 男配角 |
+|       |                                                       |                                                                    |                                                   |     |
+| ----- | ----------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------- | --- |
+| 年份    | 電視台                                                   | 劇名                                                                 | 角色                                                | 屬性  |
+| 2014年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [不一樣的美男子](https://zh.wikipedia.org/wiki/不一樣的美男子 "wikilink")        | 葉江帆                                               | 男配角 |
+| 2014年 | [瑞格传播](https://zh.wikipedia.org/wiki/瑞格传播 "wikilink") | [甜蜜生活](https://zh.wikipedia.org/wiki/甜蜜生活_\(2014年電視劇\) "wikilink") |                                                   | 客串  |
+| 2015年 | [天津卫视](../Page/天津卫视.md "wikilink")                    | 青春萬萬歲                                                              | 方逸倫                                               | 男配角 |
+| 2017年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [不一樣的美男子](https://zh.wikipedia.org/wiki/不一樣的美男子 "wikilink")2       | 葉江帆                                               | 男配角 |
+| 2017年 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [美味奇缘](../Page/美味奇缘.md "wikilink")                                 | 葉以軒                                               | 男配角 |
+| 2018年 | [优酷](../Page/优酷.md "wikilink")                        | [許你浮生若夢](https://zh.wikipedia.org/wiki/許你浮生若夢 "wikilink")          | 段天賜                                               | 男配角 |
+| 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [绝世千金](https://zh.wikipedia.org/wiki/绝世千金 "wikilink")              | 柳修文                                               | 男配角 |
+| 2019年 | [浙江卫视](../Page/浙江卫视.md "wikilink")                    | [獨孤皇后](../Page/独孤皇后_\(电视剧\).md "wikilink")                         | [楊瓚](https://zh.wikipedia.org/wiki/楊瓚 "wikilink") | 男配角 |
+| 2019年 | [爱奇艺](../Page/爱奇艺.md "wikilink")                      | [新白娘子傳奇](../Page/新白娘子传奇_\(2019年电视剧\).md "wikilink")                | 睦王                                                | 男配角 |
+|       |                                                       |                                                                    |                                                   |     |
+| 2019年 | [优酷](../Page/优酷.md "wikilink")                        | [竹马钢琴师](https://zh.wikipedia.org/wiki/竹马钢琴师 "wikilink")            | 慕流年                                               | 男主角 |
+| 2019年 | [腾讯视频](../Page/腾讯视频.md "wikilink")                    | [明月照我心](https://zh.wikipedia.org/wiki/明月照我心 "wikilink")            | 資王                                                | 男主角 |
+|       |                                                       |                                                                    |                                                   |     |
 
 ### 電影
 

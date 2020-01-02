@@ -1,3 +1,6 @@
+> 本文内容由[UCLA-USC競爭](https://zh.wikipedia.org/wiki/UCLA-USC競爭)转换而来。
+
+
 UCLA-USC競爭是位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[南加州大學](https://zh.wikipedia.org/wiki/南加州大學 "wikilink")（USC）與[洛杉磯加州大學](https://zh.wikipedia.org/wiki/洛杉磯加州大學 "wikilink")（UCLA）的[大學競爭](../Page/大學競爭.md "wikilink")，在運動競賽上，兩間大學都是[全國大學體育協會](https://zh.wikipedia.org/wiki/全國大學體育協會 "wikilink")(NCAA) [第一類組而且在同一個城市裡](https://zh.wikipedia.org/wiki/Division_I "wikilink")，兩間校園僅相差10英里，而兩間學校的校友和學生的在各領域的相互較勁更是家常便飯，堪稱是全美大學競爭中相當著名的例子。
 
 ## 運動競爭

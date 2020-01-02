@@ -1,3 +1,6 @@
+> 本文内容由[物理化学期刊A](https://zh.wikipedia.org/wiki/物理化学期刊A)转换而来。
+
+
 《**物理化学期刊A**》（）是一个关于[分子化学的期刊](https://zh.wikipedia.org/wiki/分子化学 "wikilink")，内容涵盖[分子动力学](../Page/分子动力学.md "wikilink")、[光谱学](../Page/光谱学.md "wikilink")、[结构学和](https://zh.wikipedia.org/wiki/结构学 "wikilink")[量子化学](../Page/量子化学.md "wikilink")，由[美国化学会出版](https://zh.wikipedia.org/wiki/美国化学会 "wikilink")。
 
 1997年以前期刊的名字是《*Journal of Physical Chemistry*》，由于研究领域的逐渐扩大，在1997年该期刊分为《*Journal of Physical Chemistry A*》（分子理论和实验物理化学），和《*Journal of Physical Chemistry B*》（[固体](../Page/固体.md "wikilink")、[软物质](../Page/软物质.md "wikilink")和[液体](../Page/液体.md "wikilink")等）。2007年进一步分设《*Journal of Physical Chemistry C*》，用来发表快速发展的[纳米科技和](https://zh.wikipedia.org/wiki/纳米科技 "wikilink")[分子电子学有相关领域的学术成果](https://zh.wikipedia.org/wiki/分子电子学 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[CIS \(消歧義\)](https://zh.wikipedia.org/wiki/CIS_\(消歧義\))转换而来。
+
+
 **CIS**可以指**[独联体](https://zh.wikipedia.org/wiki/独联体 "wikilink")**（Commonwealth of Independent States），由十一個前蘇聯共和國組成的現代政治實體。
 
 **CIS**也可以指：

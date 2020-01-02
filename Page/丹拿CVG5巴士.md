@@ -1,3 +1,6 @@
+> 本文内容由[丹拿CVG5巴士](https://zh.wikipedia.org/wiki/丹拿CVG5巴士)转换而来。
+
+
 **丹拿CVG5**（Daimler CVG5）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[丹拿出產的](../Page/丹拿_\(英國\).md "wikilink")[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")。CVG5 全稱為“Commercial Victory Gardner 5-cylinder”，因選配[吉拿](../Page/吉拿.md "wikilink")（Gardner）5氣缸引擎而名。CVG5為前置引擎，半駕駛艙設計。
 
 ## 簡述

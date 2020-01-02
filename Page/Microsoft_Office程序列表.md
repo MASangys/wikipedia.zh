@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office程序列表](https://zh.wikipedia.org/wiki/Microsoft_Office程序列表)转换而来。
+
+
 **[Microsoft Office](../Page/Microsoft_Office.md "wikilink")**是一套相互关联的桌面应用程序、服务器和服务，统称为一个办公套件，支持[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS X操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 这个列表包含所有现存或曾经属于[Microsoft Office的程序](../Page/Microsoft_Office.md "wikilink")，以字母顺序排列。

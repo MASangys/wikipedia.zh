@@ -1,3 +1,6 @@
+> 本文内容由[Java集合框架](https://zh.wikipedia.org/wiki/Java集合框架)转换而来。
+
+
 [Java.util.Collection_hierarchy.svg](https://zh.wikipedia.org/wiki/File:Java.util.Collection_hierarchy.svg "fig:Java.util.Collection_hierarchy.svg") [Java.util.Map_hierarchy.svg](https://zh.wikipedia.org/wiki/File:Java.util.Map_hierarchy.svg "fig:Java.util.Map_hierarchy.svg") **Java集合框架**(**Java collections framework**)是一個包含一系列實作可重複使用集合的[資料結構的](https://zh.wikipedia.org/wiki/資料結構 "wikilink")[類別和](https://zh.wikipedia.org/wiki/類別_\(電腦科學\) "wikilink")[介面集合](../Page/介面_\(程式設計\).md "wikilink")。 雖然稱為「框架」，其使用方式卻像個[函式庫](../Page/函式庫.md "wikilink")。集合框架提供了定義各式各樣集合的介面和實作上述集合的類別。
 
 ## 與陣列的不同處

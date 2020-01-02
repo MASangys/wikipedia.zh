@@ -1,3 +1,6 @@
+> 本文内容由[Code Geass機動兵器列表](https://zh.wikipedia.org/wiki/Code_Geass機動兵器列表)转换而来。
+
+
 本列表記載[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[Code Geass 反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")》系列及《[Code Geass 亡國的阿基德](../Page/Code_Geass_亡國的阿基德.md "wikilink")》內登場的機動兵器Knightmare Frame，。
 
 ## 概要

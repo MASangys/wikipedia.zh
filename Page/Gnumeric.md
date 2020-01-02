@@ -1,3 +1,6 @@
+> 本文内容由[Gnumeric](https://zh.wikipedia.org/wiki/Gnumeric)转换而来。
+
+
 **Gnumeric**是一款[試算表軟件](https://zh.wikipedia.org/wiki/試算表 "wikilink")，為[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")，也是[GNOME](../Page/GNOME.md "wikilink")的一部份。Gnumeric是由Miguel de lcaza開始編寫，現在的主理人是Jody Goldberg。
 
 Gnumeric能夠匯入及匯出多種數據格式，例如[CSV](https://zh.wikipedia.org/wiki/CSV "wikilink")、[Microsoft Excel](../Page/Microsoft_Excel.md "wikilink")（.xlsx格式的寫入功能還不完全）、[HTML](../Page/HTML.md "wikilink")、[LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[Lotus 1-2-3](../Page/Lotus_1-2-3.md "wikilink")、[OpenDocument及](https://zh.wikipedia.org/wiki/OpenDocument "wikilink")[Quattro Pro等](https://zh.wikipedia.org/wiki/Quattro_Pro "wikilink")。其原生檔案格式'Gnumeric file format'（後綴名.gnm .gnumeric），是一種以[gzip壓縮的](https://zh.wikipedia.org/wiki/gzip "wikilink")[XML](../Page/XML.md "wikilink")檔案。Gnumeric尚不支援[樞紐分析表與VBA巨集](https://zh.wikipedia.org/wiki/樞紐分析表 "wikilink")

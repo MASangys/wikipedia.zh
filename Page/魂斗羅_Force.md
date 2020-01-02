@@ -1,3 +1,6 @@
+> 本文内容由[魂斗羅 Force](https://zh.wikipedia.org/wiki/魂斗羅_Force)转换而来。
+
+
 **魂斗羅 Force**是[科樂美](../Page/科樂美.md "wikilink")公司於1992年，只有在美國地區發售的FC遊戲軟體。本非魂斗羅系列作品，原計劃在日本以《Arc Hound》 (アークハウンド)為名發售。後來日版發售計劃被取消，便改名《Contra Force》在美發售。
 
 ## 遊戲特色

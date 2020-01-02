@@ -1,3 +1,6 @@
+> 本文内容由[Ray \(雜誌\)](https://zh.wikipedia.org/wiki/Ray_\(雜誌\))转换而来。
+
+
 《**Ray**》是主婦之友社（）於每月23日發行的[女性](../Page/女性.md "wikilink")流行[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。於1988年創刊。於[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣發售](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 概要

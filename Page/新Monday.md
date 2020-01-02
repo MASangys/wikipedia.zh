@@ -1,3 +1,6 @@
+> 本文内容由[新Monday](https://zh.wikipedia.org/wiki/新Monday)转换而来。
+
+
 **新Monday雜誌**，原名為《Monday雜誌》，現已轉為網上[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，是一本獨立創刊的[中文傳媒](https://zh.wikipedia.org/wiki/中文傳媒 "wikilink")，2000年由[楊受成](../Page/楊受成.md "wikilink")所創辦的[英皇集團](../Page/英皇集團.md "wikilink")旗下的[新傳媒集團](../Page/新傳媒集團.md "wikilink")[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")，改名至現在，成為旗下的娛樂雜誌。《新Monday雜誌》題材與《[Face周刊](../Page/壹本便利.md "wikilink")》同類，[讀者以](https://zh.wikipedia.org/wiki/讀者 "wikilink")[香港人](../Page/香港人.md "wikilink")為主，主要報導[明星](https://zh.wikipedia.org/wiki/明星 "wikilink")、[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[消費](https://zh.wikipedia.org/wiki/消費 "wikilink")[潮流等娛樂資訊](https://zh.wikipedia.org/wiki/潮流 "wikilink")，[創作藝人名人秘史不少](https://zh.wikipedia.org/wiki/創作 "wikilink")\[1\]。雜誌所屬[新傳媒集團](../Page/新傳媒集團.md "wikilink")從2016年10月13日起，逢星期四，《[新假期](../Page/新假期.md "wikilink")周刊》、《[東方新地](../Page/東方新地.md "wikilink")》、《新Monday》、《more》四本雜誌合併一書，消息指集團裁員過百人。\[2\]\[3\]
 
 ## 銷量

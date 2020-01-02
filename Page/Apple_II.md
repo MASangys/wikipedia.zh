@@ -1,3 +1,6 @@
+> 本文内容由[Apple II](https://zh.wikipedia.org/wiki/Apple_II)转换而来。
+
+
 [Apple_II_Plus,_Museum_of_the_Moving_Image.jpg](https://zh.wikipedia.org/wiki/File:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg "fig:Apple_II_Plus,_Museum_of_the_Moving_Image.jpg")
 
 [Apple-II.jpg](https://zh.wikipedia.org/wiki/File:Apple-II.jpg "fig:Apple-II.jpg")

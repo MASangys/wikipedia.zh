@@ -1,3 +1,6 @@
+> 本文内容由[Telkom \(南非\)](https://zh.wikipedia.org/wiki/Telkom_\(南非\))转换而来。
+
+
 **Telkom SA Ltd.**（，[JSE](https://zh.wikipedia.org/wiki/JSE_Securities_Exchange "wikilink")：J653）是南非一家有线及无线通讯运营商。Telkom为半私有性质，39%为国有。Telkom在1997至2004年间由美国的SBC Communications（现在的[AT\&T](../Page/AT&T.md "wikilink")）管理。
 
 Telkom在南非有三家分支机构，分别是TDS Directory Operations、Telkom Media and Swiftnet及trading as Fastnet。

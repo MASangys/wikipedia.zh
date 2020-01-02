@@ -1,3 +1,6 @@
+> 本文内容由[LOVE YOU 我的勇者公主](https://zh.wikipedia.org/wiki/LOVE_YOU_我的勇者公主)转换而来。
+
+
 《**LOVE YOU 我的勇者公主**》（）是[七月隆文撰寫](https://zh.wikipedia.org/wiki/七月隆文 "wikilink")，[三毛央](../Page/三毛央.md "wikilink")（）負責插畫的[輕小說](../Page/輕小說.md "wikilink")作品。[集英社](../Page/集英社.md "wikilink")[Super Dash文庫出版發行](../Page/Super_Dash文庫.md "wikilink")。中文版由[青文出版社](../Page/青文出版社.md "wikilink")代理發行。
 
 ## 故事簡介

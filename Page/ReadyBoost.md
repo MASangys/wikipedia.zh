@@ -1,3 +1,6 @@
+> 本文内容由[ReadyBoost](https://zh.wikipedia.org/wiki/ReadyBoost)转换而来。
+
+
 **ReadyBoost**是[Windows Vista中的新技术](../Page/Windows_Vista.md "wikilink")，在继Windows Vista的下一代操作系统[Windows 7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，同样包含了这项技术，它利用了[闪存](../Page/闪存.md "wikilink")随机读写及零碎文件读写上的优势来提高[计算机系统性能](https://zh.wikipedia.org/wiki/计算机 "wikilink")。它是下一代闪存硬盘的临时替代品。
 
 这项技术目前仅支持[USB](../Page/USB.md "wikilink")2.0或更高版本接口的USB闪存驱动器以及计算机内置[读卡器中的闪存](https://zh.wikipedia.org/wiki/读卡器 "wikilink")。具体要求是，4k随机读取的速度大于3.5M/s，512k随机写入的速度大于2.5M/s。

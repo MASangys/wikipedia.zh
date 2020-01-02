@@ -1,3 +1,6 @@
+> 本文内容由[Regsvr32](https://zh.wikipedia.org/wiki/Regsvr32)转换而来。
+
+
 **`regsvr32`**是[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[作業系統底下的指令](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，用來對[COM檔和](../Page/组件对象模型.md "wikilink")[ActiveX](../Page/ActiveX.md "wikilink")檔做註冊及反註冊的動作，使之反應在[登錄檔中](https://zh.wikipedia.org/wiki/登錄檔 "wikilink")。但搭配 regsvr32.exe 使用的 DLL，或者提供 `DllRegisterServer` 和 `DllUnregisterServer` 兩個输出[函式](https://zh.wikipedia.org/wiki/函式 "wikilink")，或者提供`DllInstall`输出函数（可接受命令行参数）。
 
 ## 使用方式

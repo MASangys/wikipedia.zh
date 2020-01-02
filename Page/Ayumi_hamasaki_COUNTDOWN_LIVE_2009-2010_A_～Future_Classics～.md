@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COUNTDOWN LIVE 2009-2010 A ～Future Classics～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COUNTDOWN_LIVE_2009-2010_A_～Future_Classics～)转换而来。
+
+
 《**ayumi hamasaki COUNTDOWN LIVE 2009-2010 A ～Future Classics～**》（濱崎步 2009-2010 跨年演唱會 A ～未來經典～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2009年12月30日、31日在國立代代木競技場第一體育館舉行巡迴演唱會，2010年7月14日發行DVD。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[Super Star \(專輯\)](https://zh.wikipedia.org/wiki/Super_Star_\(專輯\))转换而来。
+
+
 《**Super Star**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E](../Page/S.H.E.md "wikilink")的第四張錄音室專輯、第五張專輯，於2003年8月22日推出。
 
 《**Super Star**》專輯，為2003年8月S.H.E以《[美麗新世界](../Page/美麗新世界_\(專輯\).md "wikilink")》專輯獲得《[第14屆金曲獎](https://zh.wikipedia.org/wiki/第14屆金曲獎 "wikilink")》[最佳重唱組合獎之後](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")，於同月發行之首份音樂作品，當時令大眾及傳媒具有極大的期待，並且此張專輯中的歌曲相較於之前專輯中的歌曲更具有深度。

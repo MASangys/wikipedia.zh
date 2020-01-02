@@ -1,3 +1,6 @@
+> 本文内容由[北落師門b](https://zh.wikipedia.org/wiki/北落師門b)转换而来。
+
+
 **北落師門b**，也稱為[大袞](../Page/大袞.md "wikilink")(Dagon)，是在[南魚座](../Page/南魚座.md "wikilink")距離地球大約25[光年](../Page/光年.md "wikilink")的一顆行星\[1\]。這顆行星是在2008年[哈伯太空望遠鏡的照片中被發現環繞著](https://zh.wikipedia.org/wiki/哈伯太空望遠鏡 "wikilink")[A-型主序星](https://zh.wikipedia.org/wiki/AV星 "wikilink")[北落師門](https://zh.wikipedia.org/wiki/北落師門 "wikilink")\[2\]。北落師門b和另外3顆環繞著[HR 8799的行星同時被宣布發現](https://zh.wikipedia.org/wiki/HR_8799 "wikilink")，他們是第一批以直接的影像證實在軌道上運行的行星。
 
 ## 發現

@@ -1,3 +1,6 @@
+> 本文内容由[CIRCUS ACTION](https://zh.wikipedia.org/wiki/CIRCUS_ACTION)转换而来。
+
+
 《**CIRCUS ACTION**》是[臺灣](../Page/臺灣.md "wikilink")藝人組合[CIRCUS於](../Page/Circus_\(台灣樂團\).md "wikilink")2005年起在[Channel V 娛樂台開播的節目](../Page/Channel_V.md "wikilink")，每星期播放一集。目前節目播至第四季，主題為熱血巴士。
 
 CIRCUS Action1

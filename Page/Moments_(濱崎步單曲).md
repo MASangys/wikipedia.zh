@@ -1,3 +1,6 @@
+> 本文内容由[Moments \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Moments_\(濱崎步單曲\))转换而来。
+
+
 \-{T|Moments}-
 
 《**Moments**》（剎那）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第32張單曲，2004年3月31日於日本發售。

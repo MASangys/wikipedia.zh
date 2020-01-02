@@ -1,3 +1,6 @@
+> 本文内容由[A-Lin](https://zh.wikipedia.org/wiki/A-Lin)转换而来。
+
+
 **A-Lin**（[阿美語](../Page/阿美語.md "wikilink")：，[漢語](https://zh.wikipedia.org/wiki/漢語 "wikilink")：，1983年9月20日－），[臺灣](../Page/臺灣.md "wikilink")[華語流行音樂](../Page/華語流行音樂.md "wikilink")著名女歌手，出生於[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[苓雅的](https://zh.wikipedia.org/wiki/苓雅 "wikilink")[臺東](../Page/臺東縣.md "wikilink")[阿美族](../Page/阿美族.md "wikilink")，曾數次入圍臺灣[金曲獎](../Page/金曲獎.md "wikilink")，並多次受邀在重要頒獎典禮上獻唱。
 
 ## 演藝事業

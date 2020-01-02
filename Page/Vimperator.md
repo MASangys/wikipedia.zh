@@ -1,3 +1,6 @@
+> 本文内容由[Vimperator](https://zh.wikipedia.org/wiki/Vimperator)转换而来。
+
+
 **Vimperator**是[Mozilla Firefox的一个](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[扩展](../Page/Firefox扩展列表.md "wikilink")，它为喜欢使用键盘的用户提供了类似于[Vim](../Page/Vim.md "wikilink")的用户界面。它和Vim一样，有着较陡的[学习曲线](https://zh.wikipedia.org/wiki/学习曲线 "wikilink")。
 
 ## 特點

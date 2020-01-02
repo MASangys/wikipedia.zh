@@ -1,3 +1,6 @@
+> 本文内容由[Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116](https://zh.wikipedia.org/wiki/Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116)转换而来。
+
+
 **Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116**（，[國際音標](../Page/國際音標.md "wikilink")：），是一個[瑞典](../Page/瑞典.md "wikilink")男孩的[名字](../Page/人名.md "wikilink")。
 
 這個男孩的父母並沒有打算正式登記他的姓名，而是作為一種抗議\[1\]。瑞典規管姓名的法律（[Namnlag (1982:670)](http://www.notisum.se/rnp/sls/lag/19820670.htm#P34)）规定：

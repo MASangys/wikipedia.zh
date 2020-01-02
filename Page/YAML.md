@@ -1,3 +1,6 @@
+> 本文内容由[YAML](https://zh.wikipedia.org/wiki/YAML)转换而来。
+
+
 **YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料[序列化](../Page/序列化.md "wikilink")的格式。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC [2822](http://www.rfc-editor.org/rfc/rfc2822.txt)）中獲得靈感。Clark Evans在2001年首次發表了這種語言\[1\]，另外Ingy döt Net與Oren Ben-Kiki也是這語言的共同設計者\[2\]。目前已經有數種程式語言或腳本語言支援（或者說解析）這種語言。
 
 *YAML*是"YAML Ain't a Markup Language"（YAML不是一種[标记語言](https://zh.wikipedia.org/wiki/标记語言 "wikilink")）的[遞迴縮寫](https://zh.wikipedia.org/wiki/遞迴縮寫 "wikilink")。在開發的這種語言時，''YAML ''的意思其實是："Yet Another Markup Language"（仍是一種[标记語言](https://zh.wikipedia.org/wiki/标记語言 "wikilink")）\[3\]，但為了強調這種語言以數據做為中心，而不是以标记語言為重點，而用反向缩略语重新命名。

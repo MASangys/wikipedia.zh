@@ -1,3 +1,6 @@
+> 本文内容由[Windows Write](https://zh.wikipedia.org/wiki/Windows_Write)转换而来。
+
+
 ****是個簡單的[文書處理器](https://zh.wikipedia.org/wiki/文書處理器 "wikilink")，內建於微軟的、和系列作業系統。繁體中文版稱之為**小作家**，简体中文版称之为**书写器**。其由始至終的變動很少，而且功能上和十分相像。早期的版本只支援檔案，但到了1989年，更新到支援的格式，並內建在翌年的。從此，開始支援對早期的文件，進行開啟和建立有關的檔案。有了，開始支援[对象连接与嵌入](https://zh.wikipedia.org/wiki/对象连接与嵌入 "wikilink")。
 
 以取代。與相同的是功能比[記事本強大](https://zh.wikipedia.org/wiki/Windows記事本 "wikilink")。一般認為，是較現代的文本编辑器。但是，的功能遠比少。而有一些功能是（至少到 Windows 7 版本）沒有的，最明顯的是文字[對齊功能](https://zh.wikipedia.org/wiki/對齊#左右對齊 "wikilink")。

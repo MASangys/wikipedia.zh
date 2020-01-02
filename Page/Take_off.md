@@ -1,3 +1,6 @@
+> 本文内容由[Take off](https://zh.wikipedia.org/wiki/Take_off)转换而来。
+
+
 「**Take off**」是[韓国的](https://zh.wikipedia.org/wiki/大韓民国 "wikilink")[男子偶像組合](https://zh.wikipedia.org/wiki/男子偶像組合 "wikilink")・[2PM在](https://zh.wikipedia.org/wiki/2PM "wikilink")[日本](../Page/日本.md "wikilink")出道第1張的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2011年5月18日由[Ariola Japan發售](https://zh.wikipedia.org/wiki/Ariola_Japan "wikilink")。
 
 ## 概要

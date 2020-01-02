@@ -1,3 +1,6 @@
+> 本文内容由[凌志IS](https://zh.wikipedia.org/wiki/凌志IS)转换而来。
+
+
 **凌志IS**（**-{Lexus IS}-**）是[豐田汽車公司旗下](https://zh.wikipedia.org/wiki/豐田汽車公司 "wikilink")[凌志](../Page/凌志.md "wikilink")品牌的入門級豪華轎車／小型行政座駕系列。據凌志官方解釋，IS意思是「Intelligent Sport」（智能運動車）的意思。\[1\]IS被定位於[ES系列之上作為入門級豪華汽車](../Page/凌志ES.md "wikilink")，與[寶馬](../Page/BMW.md "wikilink")[3系](https://zh.wikipedia.org/wiki/寶馬3系 "wikilink")、[平治](https://zh.wikipedia.org/wiki/梅塞德斯-奔馳 "wikilink")[C級和及](https://zh.wikipedia.org/wiki/梅塞德斯-奔馳C級 "wikilink")[日產](https://zh.wikipedia.org/wiki/日產 "wikilink")[Skyline](../Page/日產Skyline.md "wikilink")／[Infiniti](https://zh.wikipedia.org/wiki/Infiniti "wikilink")[G35等運動轎車成為競爭對手](../Page/英菲尼迪G.md "wikilink")。在日本，IS系列最初以「豐田Altezza」名義發售，直至在2005年正式引進凌志品牌，推出第二代IS為止。不過「Altezza」的名稱仍然用以描述一些裝上了類似第一代型號上用上的[鍍鉻](https://zh.wikipedia.org/wiki/鍍鉻 "wikilink")[尾燈設計的汽車](https://zh.wikipedia.org/wiki/尾燈 "wikilink")。
 
 1998年10月，第一代的Altezza（廠方編號XE10）率先在日本正式推出，但以凌志名義的IS 200（廠方編號JCE10）卻到了1999年和2000年才先後在[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美推出](https://zh.wikipedia.org/wiki/北美 "wikilink")。第一代型號的IS以一台直列6汽缸引擎推動，並有轎車和旅行車版本的車型選擇。第二代型號（GSE20）全球同步推出，並只有搭載了一台V6引擎的轎車車型選擇。據凌志表示，2007年將會有一台搭載了高性能的V8進階版本推出。 __TOC__

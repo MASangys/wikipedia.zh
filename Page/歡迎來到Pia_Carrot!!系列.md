@@ -1,3 +1,6 @@
+> 本文内容由[歡迎來到Pia Carrot!!系列](https://zh.wikipedia.org/wiki/歡迎來到Pia_Carrot!!系列)转换而来。
+
+
 《**欢迎来到Pia Carrot\!\!**》系列（）（简称：*Pia*、*Piaキャロ*）是以在餐廳“Pia Carrot”[工作的过程中](https://zh.wikipedia.org/wiki/工作 "wikilink")，和一起工作的女性店员或者客人搞好关系目的的[日本成人游戏系列](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")。PC版的发售只有「3」是[F\&C FC02發行](../Page/F&C.md "wikilink")，“3”以外是[Cocktail Soft發行](../Page/Cocktail_Soft.md "wikilink")。
 
 游戏很有人气，而且是產生日本[女僕咖啡廳](../Page/女僕咖啡廳.md "wikilink")店種的原點。曾被改编为[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")，另外在2002年在18禁游戏史上首次被电影化。

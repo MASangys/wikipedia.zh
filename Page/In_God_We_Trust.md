@@ -1,3 +1,6 @@
+> 本文内容由[In God We Trust](https://zh.wikipedia.org/wiki/In_God_We_Trust)转换而来。
+
+
 [1in_god_we_trust.jpg](https://zh.wikipedia.org/wiki/File:1in_god_we_trust.jpg "fig:1in_god_we_trust.jpg")\]\] “**我们信仰上帝**”（）是[美利坚合众国及其](https://zh.wikipedia.org/wiki/美利坚合众国 "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")的官方[格言](https://zh.wikipedia.org/wiki/格言 "wikilink")。
 
 这句格言首先出现于[南北战争](../Page/南北战争.md "wikilink")期间。因着[基督教](../Page/基督教.md "wikilink")的影响，这一格言首次出现在美国于1864年发行的两美分硬币上。1956年，在面對[共產主義的](https://zh.wikipedia.org/wiki/共產主義 "wikilink")[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[無神論政權下](https://zh.wikipedia.org/wiki/無神論 "wikilink")，一项[国会法案获得通过](https://zh.wikipedia.org/wiki/美国国会法案 "wikilink")，“我们信仰上帝”正式成为了美国的官方格言。\[1\]在《[美国法典](../Page/美国法典.md "wikilink")》第36编302条中写道：“‘我们信仰上帝’为[国家格言](https://zh.wikipedia.org/wiki/国家格言 "wikilink")。”\[2\]

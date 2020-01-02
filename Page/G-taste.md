@@ -1,3 +1,6 @@
+> 本文内容由[G-taste](https://zh.wikipedia.org/wiki/G-taste)转换而来。
+
+
 《**G-taste**》是日本漫畫家[八神浩樹的](https://zh.wikipedia.org/wiki/八神浩樹 "wikilink")[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，於1996年在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[MISTER MAGAZINE](https://zh.wikipedia.org/wiki/MISTER_MAGAZINE "wikilink")》開始連載，但因該雜誌停刊而於2000年1月暫停連載。2000年5月改在講談社《[Young Magazine Uppers](https://zh.wikipedia.org/wiki/Young_Magazine_Uppers "wikilink")》（）繼續連載，但因為該雜誌停刊而再次中斷連載。2010年9月改在講談社《[月刊Young Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》（）繼續連載，中文版由[尖端出版](../Page/尖端出版.md "wikilink")發行。後來改編成電視劇、OVA、遊戲等相關作品。
 
 ## 概要

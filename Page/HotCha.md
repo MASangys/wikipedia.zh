@@ -1,3 +1,6 @@
+> 本文内容由[HotCha](https://zh.wikipedia.org/wiki/HotCha)转换而来。
+
+
 **HotCha**是由三人所組成的前[香港](../Page/香港.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，擅長[跳舞](https://zh.wikipedia.org/wiki/跳舞 "wikilink")，成員包括[張惠雅](../Page/張惠雅.md "wikilink")（Regen）、[張紋嘉](../Page/張紋嘉.md "wikilink")（Crystal）及[黎美言](../Page/黎美言.md "wikilink")（Winkie）。
 
 ## 前成員

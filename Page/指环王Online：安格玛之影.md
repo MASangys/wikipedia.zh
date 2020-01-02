@@ -1,3 +1,6 @@
+> 本文内容由[指环王Online：安格玛之影](https://zh.wikipedia.org/wiki/指环王Online：安格玛之影)转换而来。
+
+
 《**指环王Online：安格玛之影**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：The Lord of the Rings Online: Shadows of Angmar，通常缩写为LOTRO或LotRO）是一款运行于[微软](../Page/微软.md "wikilink")[Windows操作系统下的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG），游戏环境建立于[J·R·R·托尔金一系列关于](https://zh.wikipedia.org/wiki/J·R·R·托尔金 "wikilink")[中土大陆作品的](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")中， 故事发生于《[魔戒](../Page/魔戒.md "wikilink")》的时期。
 
 《指环王Online：安格玛之影》由[美国](../Page/美国.md "wikilink")[Turbine公司开发](https://zh.wikipedia.org/wiki/Turbine公司 "wikilink")，游戏需要[互联网](../Page/互联网.md "wikilink")连接支持。2007年4月24日，游戏在加拿大、美国、澳大利亚、日本及欧洲开始运营，中国在2007年7月曾进行测试，2009年2月17日由光通通信发展有限公司进行名为“魔戒降临”的[封闭测试](https://zh.wikipedia.org/wiki/封闭测试 "wikilink")。\[1\] 游戏的第一部资料片《[指环王Online：莫里亚矿坑](../Page/指环王Online：莫里亚矿坑.md "wikilink")》（The Lord of the Rings Online: Mines of Moria）于2008年11月17日发行。

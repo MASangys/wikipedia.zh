@@ -1,3 +1,6 @@
+> 本文内容由[Floptical](https://zh.wikipedia.org/wiki/Floptical)转换而来。
+
+
 [Floptical_disk_21MB.jpg](https://zh.wikipedia.org/wiki/File:Floptical_disk_21MB.jpg "fig:Floptical_disk_21MB.jpg")
 
 **Floptical**指的是一种结合了磁性及光学技术的[软驱](https://zh.wikipedia.org/wiki/软驱 "wikilink")，它可在与3½英寸[磁盘相似的高容量软盘上储存资讯](https://zh.wikipedia.org/wiki/磁盘 "wikilink")。其名称是来自"软盘"(Floppy)及"光学 "(Optical)的[混成词](https://zh.wikipedia.org/wiki/混成词 "wikilink")。它虽然主要指的是一种软驱，但也可以用作所有使用类似技术的储存媒体的代称。

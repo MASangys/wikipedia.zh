@@ -1,3 +1,6 @@
+> 本文内容由[Fort-12手槍](https://zh.wikipedia.org/wiki/Fort-12手槍)转换而来。
+
+
 **Fort-12** （[烏克蘭語](https://zh.wikipedia.org/wiki/烏克蘭語 "wikilink")：*Пістолет ФОРТ-12*）是一款由烏克蘭槍械製造商在1990年代末期研製及生產的[半自動手槍](../Page/半自動手槍.md "wikilink")。\[1\]
 
 ## 歷史

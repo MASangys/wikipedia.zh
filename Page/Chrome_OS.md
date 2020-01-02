@@ -1,3 +1,6 @@
+> 本文内容由[Chrome OS](https://zh.wikipedia.org/wiki/Chrome_OS)转换而来。
+
+
 是由[Google](../Page/Google.md "wikilink")設計基於[Linux内核](../Page/Linux内核.md "wikilink")的[操作系统](../Page/操作系统.md "wikilink")，並使用[Google Chrome瀏覽器作為其主要用戶界面](../Page/Google_Chrome.md "wikilink")。因此，Chrome OS主要支持Web應用程序\[1\]，2016年起開始陸續兼容[Android應用程式](../Page/APK.md "wikilink")（可通过[Google Play商店下載](https://zh.wikipedia.org/wiki/Google_Play商店 "wikilink")）和Linux應用程式。
 
 Google於2009年7月宣布該項目，將其視為操作系统，應用程序和用戶數據都位於[雲端](../Page/雲端運算.md "wikilink")，因此Chrome OS主要運行Web應用程序，但也可以安裝Android應用程序。最初設定在[小筆電上使用](https://zh.wikipedia.org/wiki/Netbook "wikilink")\[2\]，之後推展到[筆記型電腦](../Page/筆記型電腦.md "wikilink")（[Chromebook](../Page/Chromebook.md "wikilink")）和[桌上型電腦](../Page/桌上型電腦.md "wikilink")（[Chromebox](../Page/Chromebox.md "wikilink")）上，在2011年上半年正式發表上市\[3\]\[4\]\[5\]，Google在2013年推出[Chromecast](../Page/Chromecast.md "wikilink")，运行精简版Chrome OS。“Chrome OS”可以在[x86或](https://zh.wikipedia.org/wiki/x86 "wikilink")[ARM兩種微處理器上运行](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[6\]

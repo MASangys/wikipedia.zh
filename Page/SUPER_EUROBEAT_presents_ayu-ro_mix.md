@@ -1,3 +1,6 @@
+> 本文内容由[SUPER EUROBEAT presents ayu-ro mix](https://zh.wikipedia.org/wiki/SUPER_EUROBEAT_presents_ayu-ro_mix)转换而来。
+
+
 《**SUPER EUROBEAT presents ayu-ro mix**》（歐陸舞曲變身舞池）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，2000年2月16日於日本發售。
 
 ## 說明

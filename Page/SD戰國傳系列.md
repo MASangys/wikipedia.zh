@@ -1,3 +1,6 @@
+> 本文内容由[SD戰國傳系列](https://zh.wikipedia.org/wiki/SD戰國傳系列)转换而来。
+
+
 **SD戰國傳**是[SD GUNDAM系列的衍生故事](../Page/SD_GUNDAM系列.md "wikilink")。原指披上日本鎧甲風的SD GUNDAM，發展至今，衍生出現代風格的○傳、三國武將風格的[三國傳等](https://zh.wikipedia.org/wiki/三國傳 "wikilink")，但一概歸納為同一系列。自1988年誕生後，一直受廣大FANS支持，《SD戰國傳》已成為BB戰士的主力產品，還衍生各類週邊[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")、-{zh-hk:手辦;zh-tw:GK;}-[模型等](https://zh.wikipedia.org/wiki/模型 "wikilink")。截至2009年10月，正在推出的系列分別為[BB戰士三國傳 戰神決鬥編](https://zh.wikipedia.org/wiki/BB戰士三國傳_戰神決鬥編 "wikilink")，[BB戰士 三國傳外傳 武勇激鬥錄以及](https://zh.wikipedia.org/wiki/BB戰士_三國傳外傳_武勇激鬥錄 "wikilink")[SD戰國傳 武神降臨篇](../Page/SD戰國傳_武神降臨篇.md "wikilink")。
 
 ## 誕生

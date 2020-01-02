@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第十章：呼吸系统疾病](https://zh.wikipedia.org/wiki/ICD-10_第十章：呼吸系统疾病)转换而来。
+
+
 ## 急性上呼吸道感染（J00-J06）
 
 急性[上呼吸道感染](https://zh.wikipedia.org/wiki/上呼吸道 "wikilink")（J00-J06）

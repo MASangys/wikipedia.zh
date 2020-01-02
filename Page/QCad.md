@@ -1,3 +1,6 @@
+> 本文内容由[QCad](https://zh.wikipedia.org/wiki/QCad)转换而来。
+
+
 [Qcad.png](https://zh.wikipedia.org/wiki/File:Qcad.png "fig:Qcad.png")
 
 **QCad**是一个用于二维设计及绘图的[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")（computer-aided design, CAD）软件，支持[Linux](../Page/Linux.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Unix及](https://zh.wikipedia.org/wiki/Unix "wikilink")[Microsoft Windows操作系统](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。Qcad的社区版功能要比完全版稍少\[1\]，但它是使用[GPL协议发布](https://zh.wikipedia.org/wiki/GPL协议 "wikilink")。对于一些Linux平台也有预编译的包可以使用，如Debian。

@@ -1,3 +1,6 @@
+> 本文内容由[HERE WE GO!](https://zh.wikipedia.org/wiki/HERE_WE_GO!)转换而来。
+
+
 《**HERE WE GO\!**》是[嵐](../Page/嵐.md "wikilink")的第3枚專輯，第2枚原創專輯。於2002年7月17日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。初回生產限定盤與通常盤的封套不一樣。初回生產限定盤附送宣傳活動的應募券，通常盤則附送小冊子。
 
 ## 收錄曲

@@ -1,3 +1,6 @@
+> 本文内容由[SimSimi](https://zh.wikipedia.org/wiki/SimSimi)转换而来。
+
+
 **SimSimi**發音為〝shim-shimee〞 是一個由ISMaker於2002年建立，普及的[機械對話系統](https://zh.wikipedia.org/wiki/機械 "wikilink")。韓語為심심이。意為無聊。在[兩岸廣為人知的名字為小黃雞](https://zh.wikipedia.org/wiki/兩岸 "wikilink")。\[1\]\[2\]\[3\]\[4\]這個應用程式曾讓[泰國爭論並示威](https://zh.wikipedia.org/wiki/泰國 "wikilink")。\[5\] 其功能最大特點為擁有教導功能。輸入未輸入的字詞，下次小雞將記得其字詞並且做出回應。
 
 ## 外部連結

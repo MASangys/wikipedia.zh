@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Entourage](https://zh.wikipedia.org/wiki/Microsoft_Entourage)转换而来。
+
+
 **Microsoft Entourage**是[微軟為](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink") 8.5或以上版本開發的[郵箱客戶端及](https://zh.wikipedia.org/wiki/郵箱客戶端 "wikilink")[個人信息管理系統](https://zh.wikipedia.org/wiki/個人信息管理系統 "wikilink")。[微軟最先於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2000年10月以[Microsoft Office 2001的一部分發佈](../Page/Microsoft_Office.md "wikilink")**Entourage**；而上一個[Mac OS版本的](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")[Microsoft Office](../Page/Microsoft_Office.md "wikilink")，Office 98，則包括了[Outlook Express 5](../Page/Outlook_Express.md "wikilink")。目前最新的版本是Entourage: Mac 2008，是於2008年1月15日發佈的[Microsoft Office 2008 for Mac的一部份](../Page/Microsoft_Office_2008_for_Mac.md "wikilink")。
 
 [微软](../Page/微软.md "wikilink")于2010年10月26日发售[Microsoft Office 2011 for Mac](../Page/Microsoft_Office_2011_for_Mac.md "wikilink")，并用[Microsoft Outlook取代了](../Page/Microsoft_Outlook.md "wikilink")**Entourage**\[1\]。

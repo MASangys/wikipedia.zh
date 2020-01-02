@@ -1,3 +1,6 @@
+> 本文内容由[CETME輕機槍](https://zh.wikipedia.org/wiki/CETME輕機槍)转换而来。
+
+
 **Ameli**（[西班牙文](https://zh.wikipedia.org/wiki/西班牙文 "wikilink")：「**Ame**tralladora'' '**'Li**gera」；「[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")」之意）為西班牙國產[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[機槍](https://zh.wikipedia.org/wiki/機槍 "wikilink")，由屬西班牙政府之「特殊材料技術研發中心」（**C**entro de **E**studios **T**écnicos de **M**ateriales **E**speciales，；1950年成立，負責研發生產小口徑武器）為西班牙陸軍所研發生產。CETME輕機槍於1974年起進行研發，該計畫由馬利亞·希梅內斯·阿爾法羅（María Jiménez Alfaro）主導（他後來升任CETME最高主管），並於1981年對外公布，自1982年以MG82的型號開始進入部隊服役。CETME輕機槍由通用動力位於西班牙[拉科魯尼亞](../Page/拉科魯尼亞.md "wikilink")（La Coruña）的聖芭芭菈廠（[General Dynamics Santa Bárbara Sistemas](http://www.gdsbs.com/web/frame.asp?lng=eng)，又名Empresa Nacional Santa Bárbara）進行生產，目前仍在持續中。
 
 ## 設計方式既細節

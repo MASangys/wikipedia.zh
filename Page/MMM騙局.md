@@ -1,3 +1,6 @@
+> 本文内容由[MMM騙局](https://zh.wikipedia.org/wiki/MMM騙局)转换而来。
+
+
 **MMM骗局**是在1994年7月[俄罗斯](../Page/俄罗斯.md "wikilink")爆发的MMM公司利用股市欺诈性集资的重大事件，涉及金额达数千亿[卢布](../Page/卢布.md "wikilink")，涉及人数超过1000万。
 
 ## 开始阶段

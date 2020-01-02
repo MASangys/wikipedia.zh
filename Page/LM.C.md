@@ -1,3 +1,6 @@
+> 本文内容由[LM.C](https://zh.wikipedia.org/wiki/LM.C)转换而来。
+
+
 **LM.C**是[日本](../Page/日本.md "wikilink")的一個[視覺系](../Page/視覺系.md "wikilink")樂團，由[PIERROT](../Page/PIERROT.md "wikilink")的[吉他](../Page/吉他.md "wikilink")手Aiji和[主唱maya以](https://zh.wikipedia.org/wiki/主唱 "wikilink")「新世紀型電子搖滾」為概念所組成。
 \==簡介== maya的前身團－sinners，除了maya以外的成員都是PIERROT的技師，maya與Aiji在前身團皆擔當吉他手的位置，因此而認識。兩人在預約LIVE HOUSE時發現沒有樂團名稱無法預約，於是緊急命名。「LM.C」並無實際的意思，原因是不想因為團名作聯想而侷限音樂性質。官網上的網址「lovely-mocochang.com」也不是LM.C的真正涵意，mocochang是maya老家所飼養的喜樂蒂(已故)。
 

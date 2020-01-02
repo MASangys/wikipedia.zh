@@ -1,3 +1,6 @@
+> 本文内容由[Joyce Boutique](https://zh.wikipedia.org/wiki/Joyce_Boutique)转换而来。
+
+
 [One_Island_South_2013.jpg](https://zh.wikipedia.org/wiki/File:One_Island_South_2013.jpg "fig:One_Island_South_2013.jpg")[One Island South](../Page/One_Island_South.md "wikilink")\]\] **Joyce Boutique**（**載思**，）是一家在[香港交易所](../Page/香港交易所.md "wikilink")上市的[時裝](../Page/時裝.md "wikilink")集團，由兩大[香港望族](../Page/香港望族.md "wikilink")[永安](../Page/永安百貨.md "wikilink")[郭氏家族的第四代](../Page/郭沛勳家族.md "wikilink")[郭志清](../Page/郭志清.md "wikilink")與丈夫[先施](../Page/先施.md "wikilink")馬氏家族後人[馬景華](../Page/馬景華.md "wikilink")於1970年創立<small>\[1\]</small>。主要業務是透過旗下的店舖以自己的品牌或代理外國著名品牌的時裝、化妝品及飾物銷售，在香港、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國](../Page/中國.md "wikilink")均有分店或品牌專門店。1990年10月16日在香港聯交所[上市](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")。
 
 2000年[會德豐](../Page/會德豐.md "wikilink")斥資2億港元買入51%的控制性股權。2003年3月會德豐將所持的股權轉讓予[吳光正](../Page/吳光正.md "wikilink")家族信託，現時持有Joyce Boutique 51.99%股權，而馬景華則持23%股權，保持第二大股東地位。2007年11月19日馬景華、馬郭志清及二人的女兒馬美儀齊齊辭職，轉任非執行董事，吳天海接任非執行主席。

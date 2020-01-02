@@ -1,3 +1,6 @@
+> 本文内容由[Direct Stream Digital](https://zh.wikipedia.org/wiki/Direct_Stream_Digital)转换而来。
+
+
 [DSDlogo.svg](https://zh.wikipedia.org/wiki/File:DSDlogo.svg "fig:DSDlogo.svg") [PCM-vs-DSD.svg](https://zh.wikipedia.org/wiki/File:PCM-vs-DSD.svg "fig:PCM-vs-DSD.svg")
 
 **Direct Stream Digital**（**DSD**）是一項屬於[Sony和](https://zh.wikipedia.org/wiki/Sony "wikilink")[飛利浦](../Page/飛利浦.md "wikilink")的專利，利用[脈衝密度調變](https://zh.wikipedia.org/wiki/脈衝密度調變 "wikilink")（pulse-density modulation）[編碼將音頻訊號儲存在數位媒體上的科技](https://zh.wikipedia.org/wiki/編碼 "wikilink")，這項技術的應用對象是[SACD](https://zh.wikipedia.org/wiki/SACD "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[P区元素](https://zh.wikipedia.org/wiki/P区元素)转换而来。
+
+
 [Orbitalblöcke.svg](https://zh.wikipedia.org/wiki/File:Orbitalblöcke.svg "fig:Orbitalblöcke.svg") **p区元素**包括[元素周期表](../Page/元素周期表.md "wikilink")中IIIA族[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")\~VIIIA族元素。
 
 IIIA族元素又称为[硼族元素](../Page/硼族元素.md "wikilink")，包括[硼](../Page/硼.md "wikilink")、[铝](../Page/铝.md "wikilink")、[镓](../Page/镓.md "wikilink")、[铟](../Page/铟.md "wikilink")、[铊](../Page/铊.md "wikilink")、[鉨](https://zh.wikipedia.org/wiki/鉨 "wikilink")、[Uht等元素](https://zh.wikipedia.org/wiki/Uht "wikilink")；

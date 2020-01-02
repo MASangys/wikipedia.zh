@@ -1,3 +1,6 @@
+> 本文内容由[MonoDevelop](https://zh.wikipedia.org/wiki/MonoDevelop)转换而来。
+
+
 **MonoDevelop**是個適用於[Linux](../Page/Linux.md "wikilink")、Mac OS X\[1\]和Microsoft Windows\[2\]的[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[整合開發環境](../Page/集成开发环境.md "wikilink")，主要用來開發[Mono](../Page/Mono.md "wikilink")與[.NET Framework軟體](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。MonoDevelop整合了很多[Eclipse](../Page/Eclipse.md "wikilink")與[Microsoft Visual Studio的特性](../Page/Microsoft_Visual_Studio.md "wikilink")，像是Intellisense、[版本控制](../Page/版本控制.md "wikilink")還有GUI與Web設計工具。另外還整合了[GTK\#GUI設計工具](https://zh.wikipedia.org/wiki/Gtk_Sharp "wikilink")（叫做Stetic）。\[3\]目前支援的語言有[Python](../Page/Python.md "wikilink")、[Vala](../Page/Vala.md "wikilink")、[C♯](../Page/C♯.md "wikilink")、[Java](../Page/Java.md "wikilink")、[BOO](../Page/BOO.md "wikilink")、[Nemerle](../Page/Nemerle.md "wikilink")、[Visual Basic .NET](../Page/Visual_Basic_.NET.md "wikilink")、[CIL](https://zh.wikipedia.org/wiki/通用中間語言 "wikilink")、[C與](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C++](../Page/C++.md "wikilink")\[4\]\[5\]。
 
 ## 歷史

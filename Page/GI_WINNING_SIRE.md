@@ -1,3 +1,6 @@
+> 本文内容由[GI WINNING SIRE](https://zh.wikipedia.org/wiki/GI_WINNING_SIRE)转换而来。
+
+
 **GI WINNING SIRE**是由[科樂美](../Page/科樂美.md "wikilink")於2002年發售的[代幣遊戲](https://zh.wikipedia.org/wiki/代幣遊戲 "wikilink")、[賽馬](../Page/賽馬.md "wikilink")遊戲。
 
 Ver.2於2003年發售。

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Athena](https://zh.wikipedia.org/wiki/HTC_Athena)转换而来。
+
+
 **HTC Athena**，原廠型號**HTC Advantage X7500，HTC Advantage X7501，HTC Advantage X7510**，是台灣[宏達電公司所推出的外形類似迷你筆電的智慧手機](https://zh.wikipedia.org/wiki/宏達電 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink")，擁有5吋VGA觸控式螢幕，可拆式磁附鍵盤，搭載[VueFLO方向性感應瀏覽器](https://zh.wikipedia.org/wiki/VueFLO "wikilink")，方便單手操控網路功能，內建超大微型硬碟，內建SiRF三代GPS天線，VGA輸出。2007年3月於歐洲首度發表，2008年6月推出升級版。已知客製版本HTC X7500，HTC X7501，HTC X7510，HTC Advantage X7500，HTC Advantage X7501，HTC Advantage X7510，Dopod U1000，T-Mobile Ameo。
 
 ## HTC Advantage X7500技術規格

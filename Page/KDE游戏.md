@@ -1,3 +1,6 @@
+> 本文内容由[KDE游戏](https://zh.wikipedia.org/wiki/KDE游戏)转换而来。
+
+
 **KDE游戏**是包含在[K Desktop Environment的游戏](../Page/KDE.md "wikilink")，有多种类型：大体分为纸牌，动作和棋盘游戏。
 
 ## 列表

@@ -1,3 +1,6 @@
+> 本文内容由[Killer Tune](https://zh.wikipedia.org/wiki/Killer_Tune)转换而来。
+
+
 《**Killer Tune**》（，*Killer-tune*）是日本樂團[東京事變](../Page/東京事變.md "wikilink")的第五張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music於](../Page/維京唱片.md "wikilink")2007年8月22日發行\[1\]。初回限定為「特殊剪裁印刷仕樣」。
 
 在單曲銷售成績方面，本張單曲在日本Oricon銷售榜上最高位居單週第5名\[2\]，名列2007年年度銷售榜第155位\[3\]。而在日本唱片協會所公佈的RIAJ數位下載榜中，歌曲「Killer Tune」則名列2007年年榜第84名\[4\]。

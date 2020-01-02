@@ -1,3 +1,6 @@
+> 本文内容由[Be My Last](https://zh.wikipedia.org/wiki/Be_My_Last)转换而来。
+
+
 《**Be My Last**》（台灣EMI公司譯為「你是唯一」）是[宇多田光](../Page/宇多田光.md "wikilink")的第14張日語單曲，於2005年9月28日發行，初動8萬張，累計銷售15萬張。
 
 ## 簡介

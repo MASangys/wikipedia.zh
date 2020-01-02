@@ -1,3 +1,6 @@
+> 本文内容由[星际旅行IV：抢救未来](https://zh.wikipedia.org/wiki/星际旅行IV：抢救未来)转换而来。
+
+
 《**星际旅行IV：抢救未来**》（），是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1986年拍摄的电影。该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")4部[电影](../Page/电影.md "wikilink")。在西方通常简写作“ST4:TVH”、“STTVH”或者“TVH”。它是三部曲《[可汗怒吼](../Page/星际旅行II：可汗怒吼.md "wikilink")》、《[石破天惊](../Page/星际旅行III：石破天惊.md "wikilink")》的终篇。这部电影常被西方[星迷称作](https://zh.wikipedia.org/wiki/星际旅行爱好者 "wikilink")“有[鲸鱼的那一部](https://zh.wikipedia.org/wiki/鲸鱼 "wikilink")”（“The One with the Whales”）\[1\]。
 
 ## 角色

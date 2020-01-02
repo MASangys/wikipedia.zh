@@ -1,3 +1,6 @@
+> 本文内容由[Tetsuya](https://zh.wikipedia.org/wiki/Tetsuya)转换而来。
+
+
 **tetsuya**（），[日本](../Page/日本.md "wikilink")音樂人，是日本[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")[L'Arc\~en\~Ciel的隊長兼](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")，[P'UNK～EN～CIEL的主唱](https://zh.wikipedia.org/wiki/P'UNK～EN～CIEL "wikilink")。
 
 自2001年夏以TETSU69為名進行單獨表演活動，**69**就是因為他在1969年出生的意思。2005年與前Dead-End樂團主音MORRIE及前[DIE IN CRIES樂團吉他手MINORU組成新樂團Creature](https://zh.wikipedia.org/wiki/DIE_IN_CRIES "wikilink") Creature，並於2006年六月發行了三支單曲。2006年在彩虹樂團15週年演唱會後宣佈單飛活動由TETSU69改名為tetsu。2009年12月1日宣佈將藝名由tetsu改名為tetsuya，單飛活動時將使用大寫TETSUYA。所屬事務所為GRAVIS，於2015年成立個人歌迷會CÉLUXE，並於2017年8月舉行15周年紀念LIVE。

@@ -1,3 +1,6 @@
+> 本文内容由[Cream \(英國樂隊\)](https://zh.wikipedia.org/wiki/Cream_\(英國樂隊\))转换而来。
+
+
 **奶油樂團**（），是1960年代英國搖滾樂團。[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")／主唱[傑克·布魯斯](../Page/傑克·布魯斯.md "wikilink")，吉他手[艾瑞克·克萊普頓](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")，和鼓手[金格·貝克組成的](https://zh.wikipedia.org/wiki/金格·貝克 "wikilink")。1966年成立，經過兩年即解散，但曾於1993年和2005年短暫復出。他們的音樂包括基於傳統藍調的歌曲，如“[十字路口藍調](../Page/Cross_Road_Blues.md "wikilink")” 和“”，還有現代藍調，譬如“”，以及更多當前的材料，如“”，“”和“”。
 
 樂團最好的排行榜單成績的歌曲有“”\[1\] ，“”\[2\]，“”\[3\]，“[十字路口藍調](../Page/Cross_Road_Blues.md "wikilink")” \[4\]和“”\[5\]。

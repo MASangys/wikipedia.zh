@@ -1,3 +1,6 @@
+> 本文内容由[Pygame](https://zh.wikipedia.org/wiki/Pygame)转换而来。
+
+
 **Pygame**是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[Python](../Page/Python.md "wikilink")模块，专为[电子游戏](../Page/电子游戏.md "wikilink")设计。包含图像、声音。建立在[SDL基础上](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")，允许实时[电子游戏](../Page/电子游戏.md "wikilink")研发而无需被[低階语言](https://zh.wikipedia.org/wiki/低階语言 "wikilink")，如[C语言或是更低階的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[組合語言束缚](https://zh.wikipedia.org/wiki/組合語言 "wikilink")。基于这样一个设想，所有需要的游戏功能和理念都（主要是图像方面）完全简化位游戏逻辑本身，所有的资源结构都可以由[高级语言提供](https://zh.wikipedia.org/wiki/高级语言 "wikilink")，如[Python](../Page/Python.md "wikilink")。
 
 Pygame原为代替突然停止的pySDL\[1\]。

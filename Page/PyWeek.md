@@ -1,3 +1,6 @@
+> 本文内容由[PyWeek](https://zh.wikipedia.org/wiki/PyWeek)转换而来。
+
+
 **PyWeek**是一个用[Python语言开发游戏的竞赛](https://zh.wikipedia.org/wiki/Python语言 "wikilink")，早期多利用[Pygame](../Page/Pygame.md "wikilink")作遊戲引擎，及後也有很多不同的參賽者使用[Pyglet](https://zh.wikipedia.org/wiki/Pyglet "wikilink")。这项竞赛开始于2005年6月，最近的第20次是在2015年8月。\[1\]所有游戏必须开放源代码和媒体文件，作者持有版权并以[自由软件](../Page/自由软件.md "wikilink")的协议发布。如果使用者使用第三方的資源來發佈遊戲，必須確定第三方的資源為公開的public domain協議發放。因为[开放源代码](../Page/开放源代码.md "wikilink")的特殊性，被众多游戏媒体所忽视。
 
 ## 流程

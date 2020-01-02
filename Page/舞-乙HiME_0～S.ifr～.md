@@ -1,3 +1,6 @@
+> 本文内容由[舞-乙HiME 0～S.ifr～](https://zh.wikipedia.org/wiki/舞-乙HiME_0～S.ifr～)转换而来。
+
+
 《**舞-乙HiME 0～S.ifr～**》是一部由[日本](../Page/日本.md "wikilink")[日昇動畫](../Page/日昇動畫.md "wikilink")製作，並於2008年發售的[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。它是《[舞-乙HiME](../Page/舞-乙HiME.md "wikilink")》系列的前傳。
 
 標題中的‘S.ifr’包含了兩層意思：其一它在[阿拉伯語中是](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")[0](../Page/0.md "wikilink")的意思；其二它也提示了作品中的主要角色西弗爾・布蘭（Sifr Flan）。至今已推出了三話。

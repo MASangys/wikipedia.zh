@@ -1,3 +1,6 @@
+> 本文内容由[Webmail](https://zh.wikipedia.org/wiki/Webmail)转换而来。
+
+
 **Webmail**（**基于[万维网](../Page/万维网.md "wikilink")的电子邮件服务**）是[因特网上一种主要使用](https://zh.wikipedia.org/wiki/因特网 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")来阅读或发送[电子邮件](../Page/电子邮件.md "wikilink")的服务，与使用[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") Outlook.com、[Mozilla Thunderbird等电子邮件客户端软件的电子邮件服务相对](../Page/Mozilla_Thunderbird.md "wikilink")。
 
 因特网上的许多公司，诸如[Google](../Page/Google.md "wikilink")、[雅虎](../Page/雅虎.md "wikilink")、中国的[新浪](../Page/新浪.md "wikilink")和[网易](../Page/网易.md "wikilink")等，都提供有webmail服务。此外，个人的[因特网服务提供商也可能提供webmail](https://zh.wikipedia.org/wiki/因特网服务提供商 "wikilink")，这样他们的用户可以不必通过他们一般使用的上网终端而直接使用他们的邮件服务。

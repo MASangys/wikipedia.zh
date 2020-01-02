@@ -1,3 +1,6 @@
+> 本文内容由[TLC \(電視頻道\)](https://zh.wikipedia.org/wiki/TLC_\(電視頻道\))转换而来。
+
+
 **TLC頻道**（****）是[探索傳播](../Page/探索傳播.md "wikilink")（）旗下其中的一個頻道，美國版本解作「The Learning Channel」（學習頻道）；亞太版本則解作「Travel & Living Channel」（旅遊生活頻道）。
 
 ## 亞洲TLC頻道

@@ -1,3 +1,6 @@
+> 本文内容由[NOWnews今日新聞](https://zh.wikipedia.org/wiki/NOWnews今日新聞)转换而来。
+
+
 **NOWnews今日新聞**，屬綜合性的網路新聞網站。於2008年4月正式上線，最大股東分別是[遊戲橘子](../Page/遊戲橘子.md "wikilink")、[信義房屋](../Page/信義房屋.md "wikilink")\[1\]。
 
 ## 沿革

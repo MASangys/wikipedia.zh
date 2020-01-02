@@ -1,3 +1,6 @@
+> 本文内容由[守護甜心EGG!](https://zh.wikipedia.org/wiki/守護甜心EGG!)转换而来。
+
+
 **守護甜心EGG\!**()是由[Hello Pro Egg成員所組成的一個小組](https://zh.wikipedia.org/wiki/Hello_Pro_Egg "wikilink")。
 
 ## 成員

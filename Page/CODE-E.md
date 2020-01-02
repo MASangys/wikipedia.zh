@@ -1,3 +1,6 @@
+> 本文内容由[CODE-E](https://zh.wikipedia.org/wiki/CODE-E)转换而来。
+
+
 《**CODE-E**》是一部[日本](../Page/日本.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，並由[STUDIO DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。主要以[榊一郎](../Page/榊一郎.md "wikilink")的原作為主，導演為[加藤敏幸](https://zh.wikipedia.org/wiki/加藤敏幸 "wikilink")。第一季總共有12集，並於2007年7月3日到2007年9月23日期間播放。第二季《**Mission-E**》於2008年7月開始播放。
 
 ## 作品概要

@@ -1,3 +1,6 @@
+> 本文内容由[黑塔III 荒原的試煉](https://zh.wikipedia.org/wiki/黑塔III_荒原的試煉)转换而来。
+
+
 《**荒原的試煉**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬·金於](https://zh.wikipedia.org/wiki/史蒂芬·金 "wikilink")1991年所寫的長篇[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第三集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")。此集副標題為『救贖』。
 
 ## 劇情概要

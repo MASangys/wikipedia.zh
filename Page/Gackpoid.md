@@ -1,3 +1,6 @@
+> 本文内容由[Gackpoid](https://zh.wikipedia.org/wiki/Gackpoid)转换而来。
+
+
 **GACKPOID**是[INTERNET以](https://zh.wikipedia.org/wiki/INTERNET_\(公司\) "wikilink")[Yamaha的](https://zh.wikipedia.org/wiki/山葉株式會社 "wikilink")[VOCALOID 2](../Page/VOCALOID.md "wikilink")[語音合成引擎為基礎開發販售的虛擬男性](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[歌手](../Page/歌手.md "wikilink")軟件，聲音由[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[Gackt提供](https://zh.wikipedia.org/wiki/Gackt "wikilink")，軟件名稱由Gackt自己命名。2008年7月31日發售，價格開放，市場實際價格約為18900日元，附送以兩首GACKPOID製作的Gackt歌曲樣本\[1\]\[2\]，和可以免費下載「OPUS Express for Windows」\[3\]。軟件形象角色是「」，由[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[三浦建太郎](../Page/三浦建太郎.md "wikilink")設計。
 
 ## 軟件簡介

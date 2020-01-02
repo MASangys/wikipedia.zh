@@ -1,3 +1,6 @@
+> 本文内容由[LG Prada 3.0](https://zh.wikipedia.org/wiki/LG_Prada_3.0)转换而来。
+
+
 [LG_Electronics.svg](https://zh.wikipedia.org/wiki/File:LG_Electronics.svg "fig:LG_Electronics.svg") [Prada-Logo.svg](https://zh.wikipedia.org/wiki/File:Prada-Logo.svg "fig:Prada-Logo.svg")
 
 ## 簡介

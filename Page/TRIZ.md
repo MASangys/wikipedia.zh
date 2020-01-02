@@ -1,3 +1,6 @@
+> 本文内容由[TRIZ](https://zh.wikipedia.org/wiki/TRIZ)转换而来。
+
+
 **TRIZ**，（俄文：теории решения изобретательских задач 俄语缩写“ТРИЗ”翻译为“[发明家式的解决任务](https://zh.wikipedia.org/wiki/发明家 "wikilink")[理论](https://zh.wikipedia.org/wiki/理论 "wikilink")”，用英语标音可读为**T**eoriya **R**esheniya **I**zobreatatelskikh **Z**adatch，缩写为TRIZ。英文说法：**T**heory of **I**nventive **P**roblem **S**olving，**TIPS**），可理解为**发明式的问题解决理论**，也有人缩写为**TIPS**。
 
 TRIZ，正體中文翻譯為「萃思」，取其「萃取思考」之義。

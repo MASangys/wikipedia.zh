@@ -1,3 +1,6 @@
+> 本文内容由[House Party](https://zh.wikipedia.org/wiki/House_Party)转换而来。
+
+
 《**House Party**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張立基](../Page/張立基.md "wikilink")的第六張專輯，首張混音專輯，在1991年2月14日推出。專輯的唯一主打是《I Like It》。
 
 ## 曲目

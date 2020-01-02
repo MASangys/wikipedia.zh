@@ -1,3 +1,6 @@
+> 本文内容由[07-GHOST](https://zh.wikipedia.org/wiki/07-GHOST)转换而来。
+
+
 《**07-GHOST**》是由[雨宮由樹和](https://zh.wikipedia.org/wiki/雨宮由樹 "wikilink")[市原雪乃創作的](https://zh.wikipedia.org/wiki/市原雪乃 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於[一迅社](../Page/一迅社.md "wikilink")漫畫雜誌《[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》2005年4月28日开始至2013年8月28日結束連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")17卷。
 
 [電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月起於日本深夜播出。台灣在2011年5月起於[Animax](../Page/Animax.md "wikilink")播出。

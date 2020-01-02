@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA Tesla](https://zh.wikipedia.org/wiki/NVIDIA_Tesla)转换而来。
+
+
 **Tesla**是一個新的[顯示核心系列品牌](https://zh.wikipedia.org/wiki/GPU "wikilink")，主要用於[伺服器高性能電腦運算](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，用於對抗[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")[FireStream系列](https://zh.wikipedia.org/wiki/FireStream "wikilink")。這是继[GeForce和](https://zh.wikipedia.org/wiki/NVIDIA_GeForce "wikilink")[Quadro之后](../Page/NVIDIA_Quadro.md "wikilink")，第三个顯示核心商标。NVIDIA將顯示核心分為三大系列。GeForce用於提供家庭娛樂；Quadro用於專業繪圖設計；Tesla用於大規模的並聯電腦運算。
 
 Tesla以發明家[尼古拉·特斯拉](../Page/尼古拉·特斯拉.md "wikilink")的名字命名。

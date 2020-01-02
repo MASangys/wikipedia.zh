@@ -1,3 +1,6 @@
+> 本文内容由[Rockstar North](https://zh.wikipedia.org/wiki/Rockstar_North)转换而来。
+
+
 **Rockstar North**（前身為**DMA Design Ltd**）是一間位於英國蘇格蘭[愛丁堡的](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")[遊戲開發公司](../Page/游戏开发者.md "wikilink")，最著名的作品包括《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系列和DMA時期製作的《[百戰小旅鼠](../Page/百戰小旅鼠.md "wikilink")》系列。
 
 該公司1999年9月起成為[Rockstar Games旗下的子公司](../Page/Rockstar_Games.md "wikilink")，\[1\]Rockstars的母公司為[Take-Two Interactive](../Page/Take-Two_Interactive.md "wikilink")。Rockstar North是《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系列的主要開發商，作品包括《[俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")》、《[俠盜獵車手：罪惡城市](../Page/俠盜獵車手：罪惡城市.md "wikilink")》和《[俠盜獵車手：聖安地列斯](../Page/俠盜獵車手：聖安地列斯.md "wikilink")》，皆[第六世代遊戲主機上極為暢銷的作品](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第六世代\) "wikilink")。此外，《[俠盜獵車手IV](../Page/俠盜獵車手IV.md "wikilink")》和《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》也是[第七世代遊戲主機上銷售最佳的遊戲之一](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第七世代\) "wikilink")。

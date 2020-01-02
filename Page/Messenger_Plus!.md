@@ -1,3 +1,6 @@
+> 本文内容由[Messenger Plus!](https://zh.wikipedia.org/wiki/Messenger_Plus!)转换而来。
+
+
 **Messenger Plus\!**（前称：**Messenger Plus\! Live**、**Messenger Plus！Extension**），是[Yuna Software开发的](https://zh.wikipedia.org/wiki/Yuna_Software "wikilink")[即时通讯软件客户端插件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")，通过将其自己的控件添加到主界面，为[微软](../Page/微软.md "wikilink")的[Windows Live Messenger和](../Page/Windows_Live_Messenger.md "wikilink")[Skype](../Page/Skype.md "wikilink")提供了额外的功能。这些控件通常通过附加对话框来影响行为和外观。
 
 ## 介绍

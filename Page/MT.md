@@ -1,3 +1,6 @@
+> 本文内容由[MT](https://zh.wikipedia.org/wiki/MT)转换而来。
+
+
 **MT**或**mt**可能指以下其中一項：
 
 **地理**

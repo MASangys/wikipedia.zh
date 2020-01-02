@@ -1,3 +1,6 @@
+> 本文内容由[Conky](https://zh.wikipedia.org/wiki/Conky)转换而来。
+
+
 [Arch_Linux.png](https://zh.wikipedia.org/wiki/File:Arch_Linux.png "fig:Arch_Linux.png")運行的Conky。\]\] **Conky**是一种自由软件，用于[X视窗系统的](https://zh.wikipedia.org/wiki/X视窗系统 "wikilink")，可以在[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")和各种[Linux](../Page/Linux.md "wikilink")发布上使用的自由软件\[1\]。Conky具有很高的可配置性\[2\]\[3\]\[4\]，可以监视许多系统参数，如：[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、[内存](https://zh.wikipedia.org/wiki/内存 "wikilink")、[分頁](../Page/分頁.md "wikilink")、[硬盘使用情况等状态](https://zh.wikipedia.org/wiki/碟盤存儲 "wikilink")；各种硬件的温度；系统的进程（[top](https://zh.wikipedia.org/wiki/top_\(Unix\) "wikilink")）；[网络状态](../Page/网卡.md "wikilink")；电池电量；系统信息和邮件收发；各种音乐播放器[MPD](https://zh.wikipedia.org/wiki/Music_Player_Daemon "wikilink")、[XMMS2](https://zh.wikipedia.org/wiki/XMMS2 "wikilink")、[BMPx](https://zh.wikipedia.org/wiki/BMPx "wikilink")、[Audacious](https://zh.wikipedia.org/wiki/Audacious_Media_Player "wikilink")）的控制\[5\]。不像其他系统监视器那样需要高级别的[部件工具箱](../Page/部件工具箱.md "wikilink")（widget toolkits）来渲染他们的信息，Conky可以直接在X视窗下渲染，这意味着在相同配置下Conky可以消耗更少的资源\[6\]\[7\]。
 
 用户可以自行创建和分发 Conky的自定义脚本，通常以[.conkyrc命名](https://zh.wikipedia.org/wiki/.conkyrc "wikilink")，放在用户目录下，用户通过改变功能模块和界面来配置不同的Conky显示界面\[8\]\[9\]\[10\]\[11\]。

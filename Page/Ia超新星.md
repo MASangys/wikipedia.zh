@@ -1,3 +1,6 @@
+> 本文内容由[Ia超新星](https://zh.wikipedia.org/wiki/Ia超新星)转换而来。
+
+
 [Artist’s_impression_of_two_white_dwarf_stars_merging_and_creating_a_Type_Ia_supernova.ogv](https://zh.wikipedia.org/wiki/File:Artist’s_impression_of_two_white_dwarf_stars_merging_and_creating_a_Type_Ia_supernova.ogv "fig:Artist’s_impression_of_two_white_dwarf_stars_merging_and_creating_a_Type_Ia_supernova.ogv")行星狀星雲的中心部分。這個獨特天體的核心包含兩顆質量都與太陽相近的白矮星。它們正在緩慢地接近中，估計在7億年後會合併在一起。此一事件將使這兩顆白矮星毀滅，並創造出令人眼花撩亂的Ia超新星。\]\]
 
 **超新星**（**Type Ia supernova**）出現在其中的一顆是[白矮星](../Page/白矮星.md "wikilink")，而另一顆可以是巨星或低質量恆星的[聯星系統](https://zh.wikipedia.org/wiki/聯星系統 "wikilink")（兩顆軌道互繞的恆星）\[1\]。白矮星是已完成其正常命週期[核融合反應的恆星殘骸](https://zh.wikipedia.org/wiki/核融合 "wikilink")。但是，一般最常見的碳-氧白矮星，如果他們的溫度上升得足夠高，仍有進行核融合反應，進一步釋放大量能量的能力。物理上，低自轉速率的碳-氧白矮星會低於1.44[太陽質量](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")（）\[2\]\[3\]有點令人費解的是，儘管與[電子簡併壓力無法阻擋災難性坍縮的錢德拉塞卡質量](https://zh.wikipedia.org/wiki/電子簡併壓力 "wikilink")（Chandrasekhar mass）有所不同，這個限制通常被稱為[錢德拉塞卡極限](../Page/錢德拉塞卡極限.md "wikilink")。如果一顆白矮星可以從其聯星系統的伴星逐漸吸積質量，一般假設當其接近此一質量極限時，核心將達到[碳融合的點火溫度](https://zh.wikipedia.org/wiki/碳燃燒過程 "wikilink")。如果白矮星與另一顆恆星合併（極為罕見的事件），它將在瞬間就超越了質量限制並開始坍縮，也會再次提升溫度超越核融合的燃點。在啟動核融合之後幾秒鐘，白矮星絕大部分的質量會經歷[熱失控](../Page/熱失控.md "wikilink")反應，釋放出極為巨大的能量（1–）\[4\]，在超新星爆炸中解除恆星的束縛\[5\]。

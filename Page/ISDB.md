@@ -1,3 +1,6 @@
+> 本文内容由[ISDB](https://zh.wikipedia.org/wiki/ISDB)转换而来。
+
+
 **ISDB**（）即**綜合數碼服務廣播**，是[日本](../Page/日本.md "wikilink")自主制定的[數碼電視和](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")[數碼聲音廣播](../Page/數碼聲音廣播.md "wikilink")標準制式，由[電波產業會制定](https://zh.wikipedia.org/wiki/電波產業會 "wikilink")，用於該國的廣播電視網絡。ISDB取代了以前使用的[MUSE高清晰度的](../Page/Hi-Vision.md "wikilink")[模拟](../Page/類比電視.md "wikilink")[HDTV系統](https://zh.wikipedia.org/wiki/HDTV "wikilink")。
 
 ISDB-T国际版，又称SBTVD（，巴西数字电视系统）、ISDB-Tb，是ISDB的衍生制式，由[巴西](../Page/巴西.md "wikilink")政府制定，並在[南美洲](../Page/南美洲.md "wikilink")廣泛採用。

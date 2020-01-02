@@ -1,3 +1,6 @@
+> 本文内容由[VMware Workstation](https://zh.wikipedia.org/wiki/VMware_Workstation)转换而来。
+
+
 **VMware Workstation**是[VMware](../Page/VMware.md "wikilink")公司推出的一款桌面虚拟计算软件，具有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink") 版本。此软件可以提供[虚拟机功能](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，使计算机可以同时运行多个不同[操作系统](../Page/操作系统.md "wikilink")。2015年，VMware Workstation發表12版，[VMware Player轉型為VMware](https://zh.wikipedia.org/wiki/VMware_Player "wikilink") Workstation的免費版並改名為[VMware Workstation Player](../Page/VMware_Workstation_Player.md "wikilink")，VMware Workstation的付費版定名為VMware Workstation Pro。
 
 ## 功能特点
@@ -259,6 +262,5 @@ VMware Workstation在用于将[MAC地址](../Page/MAC地址.md "wikilink")用作
 [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:虚拟化软件](https://zh.wikipedia.org/wiki/Category:虚拟化软件 "wikilink") [Category:VMware](https://zh.wikipedia.org/wiki/Category:VMware "wikilink") [Category:1998年软件](https://zh.wikipedia.org/wiki/Category:1998年软件 "wikilink")
 
 1.
-
 2.
 3.

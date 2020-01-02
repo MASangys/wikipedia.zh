@@ -1,3 +1,6 @@
+> 本文内容由[機動戰艦 The prince of darkness](https://zh.wikipedia.org/wiki/機動戰艦_The_prince_of_darkness)转换而来。
+
+
 《**機動戰艦 The prince of darkness**》（）是在1998年8月8日上映的科幻動畫電影\[1\]，電視動畫《[機動戰艦](../Page/機動戰艦.md "wikilink")》的後續作品。臺灣由[木棉花國際](../Page/木棉花國際.md "wikilink")代理發售正體中文版\[2\]。
 
 ## 人物

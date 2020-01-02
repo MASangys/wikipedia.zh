@@ -1,3 +1,6 @@
+> 本文内容由[ETtoday新聞雲](https://zh.wikipedia.org/wiki/ETtoday新聞雲)转换而来。
+
+
 **ETtoday新聞雲**為[臺灣](../Page/臺灣.md "wikilink")社群[新聞網站](../Page/新聞媒體.md "wikilink")，由**東森新媒體控股股份有限公司**經營。
 
 该网站前身為2000年至2008年3月的《東森新聞報》。2008年4月，《東森新聞報》被轉售予中華聯合電訊集團（今中華聯合集團）旗下的「中華聯合數位映像股份有限公司」，並以《東森新聞報》相關資源成立《[NOWnews今日新聞網](https://zh.wikipedia.org/wiki/今日新聞網 "wikilink")》。2011年11月1日，[東森國際](../Page/東森國際.md "wikilink")旗下的「[森信-{}-息股份有限公司](https://zh.wikipedia.org/wiki/森信息股份有限公司 "wikilink")」重新成立新型態新聞網站《ETtoday新聞雲》。2014年4月，森信-{}-息股份有限公司更名為「東森新聞雲股份有限公司」（ETtoday Co., Ltd.），繼續經營《ETtoday新聞雲》。

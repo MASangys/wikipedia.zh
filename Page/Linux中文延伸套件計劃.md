@@ -1,3 +1,6 @@
+> 本文内容由[Linux中文延伸套件計劃](https://zh.wikipedia.org/wiki/Linux中文延伸套件計劃)转换而来。
+
+
 **Linux中文延伸套件計畫**（**C**hinese GNU/**L**inux **E**xtensions簡稱**CLE**）是為[Linux](../Page/Linux.md "wikilink") [中文化](../Page/中文化.md "wikilink")的一個[社群計劃](../Page/虛擬社群.md "wikilink")。早期CLE是 些建構在[Red Hat Linux上的中文相關](../Page/Red_Hat_Linux.md "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")[RPM收集](https://zh.wikipedia.org/wiki/RPM "wikilink")，對官方程式進行補足。隨後目標轉變成為建立[國際化](https://zh.wikipedia.org/wiki/國際化 "wikilink")（i18n）和[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")（l10n）的基礎架構來處理中文問題。隨著各方開發者的加入，成果也移植到各大[Linux發行版本](https://zh.wikipedia.org/wiki/Linux發行版列表 "wikilink")。
 
 ## 概念

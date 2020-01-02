@@ -1,3 +1,6 @@
+> 本文内容由[YA-KYIM](https://zh.wikipedia.org/wiki/YA-KYIM)转换而来。
+
+
 "*YA-KYIM*"，日本女子[R\&B](https://zh.wikipedia.org/wiki/節奏藍調 "wikilink")、[hip hop團體](../Page/嘻哈.md "wikilink")。2002年成立。2005年在[Victor Entertainment發行首張單曲](../Page/勝利娛樂.md "wikilink")。2008年5月轉到[日本華納唱片](../Page/日本華納音樂.md "wikilink")。
 
 ## 成員

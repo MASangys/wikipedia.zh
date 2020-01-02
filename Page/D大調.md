@@ -1,3 +1,6 @@
+> 本文内容由[D大調](https://zh.wikipedia.org/wiki/D大調)转换而来。
+
+
 [D_major_scale.png](https://zh.wikipedia.org/wiki/File:D_major_scale.png "fig:D_major_scale.png")（[<File:Points> whole tone.png](https://zh.wikipedia.org/wiki/File:Points_whole_tone.png "fig:File:Points whole tone.png")為[全音](https://zh.wikipedia.org/wiki/全音 "wikilink")，[<File:Points> semitone.png](https://zh.wikipedia.org/wiki/File:Points_semitone.png "fig:File:Points semitone.png")為[半音](https://zh.wikipedia.org/wiki/半音 "wikilink")）\]\] **D大調**是一個基於D音的[大調](https://zh.wikipedia.org/wiki/大調 "wikilink")，由D、E、F♯、G、A、B、C♯、和D組成，[調號有兩個](https://zh.wikipedia.org/wiki/調號 "wikilink")[升號](https://zh.wikipedia.org/wiki/升號 "wikilink")。[相對小調是](https://zh.wikipedia.org/wiki/相對調 "wikilink")[b小調](https://zh.wikipedia.org/wiki/b小調 "wikilink")，[並行小調是](https://zh.wikipedia.org/wiki/並行調 "wikilink")[d小調](https://zh.wikipedia.org/wiki/d小調 "wikilink")。
 
 ## 特色

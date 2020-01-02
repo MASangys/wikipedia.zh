@@ -1,3 +1,6 @@
+> 本文内容由[ΜTorrent](https://zh.wikipedia.org/wiki/ΜTorrent)转换而来。
+
+
 {{ Infobox Software | μTorrent | name = μTorrent | logo = [ΜTorrent_Icon.png](https://zh.wikipedia.org/wiki/File:ΜTorrent_Icon.png "fig:ΜTorrent_Icon.png") | screenshot = [ΜTorrent.png](https://zh.wikipedia.org/wiki/File:ΜTorrent.png "fig:ΜTorrent.png") | caption = μTorrent 2.0執行於[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") | author = [Ludvig Strigeus](https://zh.wikipedia.org/wiki/Ludvig_Strigeus "wikilink") | developer = [BitTorrent, Inc.](../Page/BitTorrent_\(公司\).md "wikilink") | released = 2005年9月18日 | frequently_updated = Yes | programming language = [C++](../Page/C++.md "wikilink") | operating_system = [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Linux](../Page/Linux.md "wikilink")（由[Wine](../Page/Wine.md "wikilink")提供官方支持）\[1\] | size = Windows:
 385 [kB](https://zh.wikipedia.org/wiki/Kilobyte "wikilink")
 Mac OS X:

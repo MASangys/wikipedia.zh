@@ -1,3 +1,6 @@
+> 本文内容由[Urban Terror](https://zh.wikipedia.org/wiki/Urban_Terror)转换而来。
+
+
 Urban Terror（简写为UrT或者UT）是一个[雷神之锤III](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")（Quake 3）的[MOD](https://zh.wikipedia.org/wiki/MOD "wikilink")，2000年[quakecon发布第一个beta版本](https://zh.wikipedia.org/wiki/quakecon "wikilink")，2001年发布第一版，2007年之后可以依赖[开放源代码](../Page/开放源代码.md "wikilink")的[ioquake3独立运行](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")，尽管自身并非开源，所以理论上在[ioquake3支持的平台上都可以运行](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")。现在开发由Frozen Sand LLC（进行，并从玩家制作内容中不断补充。属于当代背景的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")。官方口号是：好莱坞式的技巧型射击游戏，或许基于现实，不过乐趣超越现实（"a Hollywood tactical shooter; somewhat realism based, but the motto is "fun over realism""）\[1\]
 
 ## 开发历史

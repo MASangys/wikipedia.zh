@@ -1,3 +1,6 @@
+> 本文内容由[Lamento -BEYOND THE VOID-](https://zh.wikipedia.org/wiki/Lamento_-BEYOND_THE_VOID-)转换而来。
+
+
 《**Lamento -BEYOND THE VOID-**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2006年10月27日（CD-ROM版為11月10日）發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。Lamento在[拉丁文中是](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「[挽歌](https://zh.wikipedia.org/wiki/挽歌 "wikilink")」的意思。故事描述在充滿貓的世界-扺沙，發生了不尋常的\[虛噬\]與\[失軀\]等等令人不解的現象，而導致世界逐漸邁入終結。主人公是一名茶白色的小型種貓-寇諾耶(Konoe)，因故鄉種種原因決定逃離故鄉到最繁榮的都市\[藍閃\]。寇諾耶相繼與白髮獨眼貓-萊伊(Rai)，黑色吉良貓-阿薩多(Asato)，虎斑紋貓-巴爾德(Barto)相遇，每個貓都有不同的故事與悲傷的過去，隨著不同的故事發展，也會發現不同的秘密。龐大淒美的世界觀，唯美動聽的背景音樂，等著你/妳來發掘_。
 
 ## 登場人物

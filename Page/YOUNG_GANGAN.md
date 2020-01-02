@@ -1,3 +1,6 @@
+> 本文内容由[YOUNG GANGAN](https://zh.wikipedia.org/wiki/YOUNG_GANGAN)转换而来。
+
+
 《**YOUNG GANGAN**》（），是由日本[SQUARE ENIX所发行的](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")[青年漫画杂志](https://zh.wikipedia.org/wiki/青年漫画 "wikilink")。 于2004年12月3日起，[GANGAN YG正式更名为YOUNG](https://zh.wikipedia.org/wiki/GANGAN_YG "wikilink") GANGAN创刊，每月第一、第三个星期五销售。当时姐妹杂志[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")和[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")还未出版，现在也登载了很多专为该杂志作画的漫画家的作品。
 
 创刊初期，以[ドラゴンクエスト列伝 ロトの紋章 ～紋章を継ぐ者達へ～和](https://zh.wikipedia.org/wiki/ドラゴンクエスト列伝_ロトの紋章_～紋章を継ぐ者達へ～ "wikilink")[FINAL FANTASY XI～THE OUT OF ORDERS～为卖点](https://zh.wikipedia.org/wiki/FINAL_FANTASY_XI～THE_OUT_OF_ORDERS～ "wikilink")，而后者仅刊登了三期就停载了。在那之后，前者和[地上最强新娘](https://zh.wikipedia.org/wiki/地上最强新娘 "wikilink")、[黑神](../Page/黑神.md "wikilink")等等，转变为了幻想系列以及喜剧系列的专门杂志。与其他竞争对手相比，其动画化作品比起电视剧化的作品来说要更加多，是其一大特点。

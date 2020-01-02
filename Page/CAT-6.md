@@ -1,3 +1,6 @@
+> 本文内容由[CAT-6](https://zh.wikipedia.org/wiki/CAT-6)转换而来。
+
+
 [EthernetCableGreen.jpg](https://zh.wikipedia.org/wiki/File:EthernetCableGreen.jpg "fig:EthernetCableGreen.jpg") **6類雙絞線**（英文：Category 6 cable），一般稱為**CAT-6線**，是在[千兆乙太網以及其它](../Page/吉比特以太网.md "wikilink")[CAT-5](../Page/CAT-5.md "wikilink")／[CAT-3](https://zh.wikipedia.org/wiki/CAT-3 "wikilink")[向下兼容](../Page/向下兼容.md "wikilink")網路上所使用到的傳輸線材標準。相比起CAT-5纜線，CAT-6纜線加強了對抗[串擾及系統](https://zh.wikipedia.org/wiki/串擾 "wikilink")[雜訊](../Page/雜訊.md "wikilink")的防護。而在規格上，它的訊號傳輸[頻率高達](https://zh.wikipedia.org/wiki/頻率 "wikilink")250MHz，適合用於[10BASE-T](https://zh.wikipedia.org/wiki/10BASE-T "wikilink")、[100BASE-TX及](https://zh.wikipedia.org/wiki/100BASE-TX "wikilink")[1000BASE-T等各種](https://zh.wikipedia.org/wiki/1000BASE-T "wikilink")[乙太網傳送標準](https://zh.wikipedia.org/wiki/乙太網 "wikilink")。在短距離內，CAT-6甚至可用作架構[萬兆乙太網](https://zh.wikipedia.org/wiki/萬兆乙太網 "wikilink")。
 
 與部份[TIA標準的線材同是以四對雙絞線組成](https://zh.wikipedia.org/wiki/TIA "wikilink")，而根據ANSI/TIA-568-B.2-1內的標準，CAT-6線的線徑可由22[AWG至](https://zh.wikipedia.org/wiki/AWG "wikilink")24AWG，比CAT-5線的規格更有彈性。

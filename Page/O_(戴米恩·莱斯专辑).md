@@ -1,3 +1,6 @@
+> 本文内容由[O \(戴米恩·莱斯专辑\)](https://zh.wikipedia.org/wiki/O_\(戴米恩·莱斯专辑\))转换而来。
+
+
 ***O*** 是[Damien Rice的首張專輯的名稱](https://zh.wikipedia.org/wiki/Damien_Rice "wikilink")，最早發行於2002年2月1日的[愛爾蘭及](https://zh.wikipedia.org/wiki/愛爾蘭共和國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")。曾進入愛爾蘭的前20名排行榜。
 
 ## 曲目

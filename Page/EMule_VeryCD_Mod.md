@@ -1,3 +1,6 @@
+> 本文内容由[EMule VeryCD Mod](https://zh.wikipedia.org/wiki/EMule_VeryCD_Mod)转换而来。
+
+
 **eMule VeryCD Mod**，也称**eMule VeryCD版**，是[上海维西（VeryCD）公司基于官方](https://zh.wikipedia.org/wiki/上海维西公司 "wikilink")[eMule开发的一款](https://zh.wikipedia.org/wiki/eMule "wikilink")[P2P](https://zh.wikipedia.org/wiki/P2P "wikilink")[文件共享](https://zh.wikipedia.org/wiki/文件共享 "wikilink")[软件](../Page/软件.md "wikilink")，它是[eMule的一款](https://zh.wikipedia.org/wiki/eMule "wikilink")[Mod](https://zh.wikipedia.org/wiki/eMule_Mod "wikilink")（修改版），遵循GNU [GPL](https://zh.wikipedia.org/wiki/GPL "wikilink") v2协议，[开放源代码](../Page/开源软件.md "wikilink")。eMule VeryCD Mod从2003年开始开发，中国大陆用户较多，内置搜索关键字过滤。VeryCD公司开发的另一款[eD2k软件是](https://zh.wikipedia.org/wiki/eD2k软件 "wikilink")2007年起开发的[easyMule](https://zh.wikipedia.org/wiki/easyMule "wikilink")。
 
 ## 中文名与官網的爭議

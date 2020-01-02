@@ -1,3 +1,6 @@
+> 本文内容由[變形金剛：超神 Master Force](https://zh.wikipedia.org/wiki/變形金剛：超神_Master_Force)转换而来。
+
+
 **變形金剛：超神 Master Force**(<sup>[日文](https://zh.wikipedia.org/wiki/日文 "wikilink"):</sup>****，<sup>[英文直譯](https://zh.wikipedia.org/wiki/英文 "wikilink"):</sup>**Transformer: Super God Master Force**)是由日本[東映](../Page/東映.md "wikilink")公司在1988年所製作的[變形金剛之](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，為[變形金剛：頭領戰士](../Page/變形金剛：頭領戰士.md "wikilink")之續集，共47集。
 
 本作和之前作品的不同在於本作偏向《[超人力霸王](../Page/超人力霸王.md "wikilink")》系列等怪獸[特攝作品般的等身大英雄](https://zh.wikipedia.org/wiki/特攝 "wikilink")/巨大變身英雄風格。Autobot的變形金剛分成了偽裝成人類的[隱者戰士](https://zh.wikipedia.org/wiki/:en:Pretenders_\(Transformers\) "wikilink")(Pretender)與由人類變身而成的少年頭領戰士(Headmaster Jr.)與超神戰士([Godmaster](https://zh.wikipedia.org/wiki/:en:Powermaster#Godmasters_-_Transformers:_Super-God_Masterforce "wikilink"))。Decepticon的角色則分為偽裝成怪物的偽裝者與由人類變身而成的少年頭領戰士與超神戰士。

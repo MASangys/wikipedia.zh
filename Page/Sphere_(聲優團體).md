@@ -1,3 +1,6 @@
+> 本文内容由[Sphere \(聲優團體\)](https://zh.wikipedia.org/wiki/Sphere_\(聲優團體\))转换而来。
+
+
 **sphere**（）是[Music Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[GloryHeaven](https://zh.wikipedia.org/wiki/GloryHeaven "wikilink")（[Lantis](../Page/Lantis.md "wikilink")）。
 
 ## 成员

@@ -1,3 +1,6 @@
+> 本文内容由[D日](https://zh.wikipedia.org/wiki/D日)转换而来。
+
+
 **D日**（**）在[軍事](../Page/軍事.md "wikilink")術語中經常作為表示一次作戰或行動發起的那天。迄今為止，最著名的D日是[1944年](../Page/1944年.md "wikilink")[6月6日](../Page/6月6日.md "wikilink")－[諾曼第戰役打響之日](https://zh.wikipedia.org/wiki/諾曼第戰役 "wikilink")，即[同盟國反攻在](https://zh.wikipedia.org/wiki/同盟國 "wikilink")[第二次世界大戰中被](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德國](../Page/納粹德國.md "wikilink")佔領的[歐洲大陸的開始](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。本文將介紹術語「D日」的一般用途。
 
 術語「D日」和「H時」，用作表示一次作戰或行動發起的日期和時刻。之所以使用D和H，是由於英文“日（Date）”和“時（Hour）”的第一個字母。它們在行動日期和時刻未決定或保密的時候作為行動日期和時刻的代號。通常所有參與一次特定行動的所有單位擁有唯一的D日和H時。不言而喻，H時應在D日當中。

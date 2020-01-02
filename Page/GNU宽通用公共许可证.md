@@ -1,3 +1,6 @@
+> 本文内容由[GNU宽通用公共许可证](https://zh.wikipedia.org/wiki/GNU宽通用公共许可证)转换而来。
+
+
 **GNU宽通用公共许可证**（，简称：）是由[自由软件基金会](../Page/自由软件基金会.md "wikilink")公布的[自由软件授权条款](https://zh.wikipedia.org/wiki/自由软件授权条款 "wikilink")。它允许企业与软件开发者使用，或将LGPL授权的软件整合至他们自己的软件内（即使该软件是私有软件也被允许），同时不会受到[Copyleft](../Page/Copyleft.md "wikilink")特性的许可证强制对软件开源的限制。该许可证常被用于一些（但不是全部）[GNU](../Page/GNU.md "wikilink")程序库。
 
 这个许可证以前被称为**GNU程式库通用公共许可证**（）。此许可证最新版本为“第3版”，2007年6月29日发布，较早的版本有2.0和2.1版。此種授權之出現，是為了在GPL與許可式授權（如[MIT许可证及](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[柏克萊大學的](https://zh.wikipedia.org/wiki/柏克萊大學 "wikilink")[BSD许可证](../Page/BSD许可证.md "wikilink")）間取得折衷。

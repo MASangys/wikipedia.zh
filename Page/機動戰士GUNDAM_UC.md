@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM UC](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_UC)转换而来。
+
+
 [Gundam_Unicorn.jpg](https://zh.wikipedia.org/wiki/File:Gundam_Unicorn.jpg "fig:Gundam_Unicorn.jpg") 《**機動戰士鋼彈UC**》（）是[福井晴敏](../Page/福井晴敏.md "wikilink")撰寫的[GUNDAM小說系列作品](../Page/GUNDAM系列作品.md "wikilink")，於雜誌《[GUNDAM ACE](../Page/GUNDAM_ACE.md "wikilink")》2007年2月號至2009年8月號上連載。2009年4月25日，官方宣布本作品動畫化\[1\]，改編動畫以全7話[OVA形式於](https://zh.wikipedia.org/wiki/OVA "wikilink")2010年2月20日至2014年5月17日在世界多國同步播放，並推出多语言[BD](../Page/藍光光碟.md "wikilink")&[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。OVA動畫因大獲好評而決定將其內容進行編輯成新版動畫《機動戰士鋼彈UC RE:0096》，於2016年4月3日開始播出。
 
 ## 概要

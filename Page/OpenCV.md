@@ -1,3 +1,6 @@
+> 本文内容由[OpenCV](https://zh.wikipedia.org/wiki/OpenCV)转换而来。
+
+
 **OpenCV**的全称是Open Source Computer Vision Library，是一个跨平台的[计算机视觉](../Page/计算机视觉.md "wikilink")库。OpenCV是由[英特尔](../Page/英特尔.md "wikilink")公司发起并参与开发，以[BSD许可证](../Page/BSD许可证.md "wikilink")授权发行，可以在商业和研究领域中免费使用。OpenCV可用于开发实时的[图像处理](../Page/图像处理.md "wikilink")、[计算机视觉](../Page/计算机视觉.md "wikilink")以及[模式识别](../Page/模式识别.md "wikilink")程序。该程序库也可以使用英特尔公司的[IPP进行加速处理](https://zh.wikipedia.org/wiki/集成性能基元 "wikilink")。
 
 ## 历史

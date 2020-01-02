@@ -1,3 +1,6 @@
+> 本文内容由[Google圖書](https://zh.wikipedia.org/wiki/Google圖書)转换而来。
+
+
 **Google圖書**（）是一個由Google研發的搜尋工具，它可以自[Google](../Page/Google.md "wikilink")所掃描、經由[光學字符識別](https://zh.wikipedia.org/wiki/光學字符識別 "wikilink")（OCR）、儲存的數位化數據庫中搜尋資料。此服務於[2004年10月](../Page/2004年10月.md "wikilink")在[法蘭克福書展](../Page/法蘭克福書展.md "wikilink")发布，命名為**Google Print**。當用戶使用關鍵字搜尋，Google圖書搜尋的結果索引會顯示在Google網路搜尋服務的上方（[Google.com](http://google.com)）。用戶還可以在Google圖書搜尋搜尋書籍。點擊Google圖書搜尋的結果索引打開頁面，使用戶可以查看書籍中的頁面以及內容相關的廣告，鏈接到出版商的網站和書店。Google以限制網頁的瀏覽數量，來阻止書籍被列印和保護文字內容的複製版權，並追蹤用戶使用記錄，作為通過各種准入限制和保障措施的依據。\[1\]
 
 Google圖書搜尋仍然在測試階段，但基礎數據庫仍持續增長。Google圖書搜尋允許[公有領域的作品和內容](https://zh.wikipedia.org/wiki/公有領域 "wikilink")，免費全文瀏覽，並提供[PDF的格式下載](https://zh.wikipedia.org/wiki/PDF "wikilink")。對於在美國境外的用戶，Google必須確保它們的工作沒有觸犯到用戶所在的國家的法律，根據Google圖書搜尋支持小組的成員說法：「一本書是否是在公有領域往往是一個棘手的法律問題，我們會謹慎的處理，直到我們確定本書已進入公有領域。」\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[Windows 95](https://zh.wikipedia.org/wiki/Windows_95)转换而来。
+
+
 [Windows-95-Start-Button.png](https://zh.wikipedia.org/wiki/File:Windows-95-Start-Button.png "fig:Windows-95-Start-Button.png") ****是[美国](../Page/美国.md "wikilink")[微软](../Page/微软.md "wikilink")公司于1995年推出的[電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[操作系统](../Page/操作系统.md "wikilink")。Windows 95是一个混合的[16位](https://zh.wikipedia.org/wiki/16位 "wikilink")/[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[Windows系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，其版本號為4.0，開發代號為Chicago。\[1\]Windows 95是微软之前独立的操作系统[MS-DOS](../Page/MS-DOS.md "wikilink")和[Microsoft Windows的直接后续版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。第一次抛弃了对前一代16位[x86的支持](https://zh.wikipedia.org/wiki/x86 "wikilink")，因此它要求[英特尔](../Page/英特尔.md "wikilink")的[80386处理器或者在保护模式下运行于一个兼容的速度更快的处理器](https://zh.wikipedia.org/wiki/80386 "wikilink")。它以对[圖形使用者介面的重要的改进和底层工作](https://zh.wikipedia.org/wiki/圖形使用者介面 "wikilink")（underlying workings）为特征。同时也是第一个特别捆绑了一个版本的[DOS](../Page/DOS.md "wikilink")的视窗版本（MS-DOS 7.0）。这样，微软就可以保持由[Windows 3.x建立起来的GUI市场的统治地位](../Page/Windows_3.x.md "wikilink")，同时使得没有非微软的产品可以提供对系统的底层操作服务。也就是说，Windows 95具有双重的角色。它带来了更强大的、更稳定、更实用的桌面图形用户界面，同时也结束了桌面操作系统间的竞争。
 
 ## 历史

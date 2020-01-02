@@ -1,3 +1,6 @@
+> 本文内容由[ICS \(频道\)](https://zh.wikipedia.org/wiki/ICS_\(频道\))转换而来。
+
+
 **上海外语频道**，即**ICS**，意为“**International Channel Shanghai**”(有时还可以解作“**I See Shanghai**”)，是[上海廣播電視台旗下的一个专业外语电视频道](https://zh.wikipedia.org/wiki/上海廣播電視台 "wikilink")，是在取消原东视音乐频道后上海广播电视台新设立的频道。频道主要以英文节目为主，偶尔也会有日语节目的播出。2010年之前，该频道（包括原东视音乐频道）一直挂东视的“红日海鸥”台标，表示该频道属于[东方电视台](https://zh.wikipedia.org/wiki/东方电视台 "wikilink")；但从2010年起，上海外语频道改挂[上海电视台](../Page/上海电视台.md "wikilink")的白玉兰台标，尽管这两家电视台的建制早已被架空。该频道一直避免提到“上海电视台”。
 
 ## 概況

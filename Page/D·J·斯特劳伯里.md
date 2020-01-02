@@ -1,3 +1,6 @@
+> 本文内容由[D·J·斯特劳伯里](https://zh.wikipedia.org/wiki/D·J·斯特劳伯里)转换而来。
+
+
 **小达里尔·尤金·斯特劳伯里**（，），或简称**D·J·斯特劳伯里**，生于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，[美国](../Page/美国.md "wikilink")职业[篮球](../Page/篮球.md "wikilink")运动员，曾效力于[NBA](../Page/NBA.md "wikilink")联盟[菲尼克斯太阳队](https://zh.wikipedia.org/wiki/菲尼克斯太阳队 "wikilink")。。他是前[MLB美国职棒球星](https://zh.wikipedia.org/wiki/MLB "wikilink")[达里尔·斯塔比雷](https://zh.wikipedia.org/wiki/达里尔·斯塔比雷 "wikilink") (Darryl Strawberry)的儿子和前大学篮球球探、[亚利桑那大学](../Page/亚利桑那大学.md "wikilink")助理教练迈尔斯·西蒙 (Miles Simon)的侄子。
 
 ## 高中时期

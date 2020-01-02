@@ -1,3 +1,6 @@
+> 本文内容由[The Great Escape](https://zh.wikipedia.org/wiki/The_Great_Escape)转换而来。
+
+
 "**The Great Escape**" 是[Boys Like Girls的首张同名专辑专辑](https://zh.wikipedia.org/wiki/Boys_Like_Girls "wikilink")[Boys Like Girls中的第二首单曲](https://zh.wikipedia.org/wiki/Boys_Like_Girls_\(album\) "wikilink")，也是他们第一首荣登Bill Board的歌曲。这首单曲卖出超过一百万份拷贝，被RIAA认定为白金单曲。\[1\]
 
 这首歌也出现在xbox 360的卡拉OK游戏 *[Lips](https://zh.wikipedia.org/wiki/Lips_\(video_game\) "wikilink")*中。

@@ -1,3 +1,6 @@
+> 本文内容由[Nagios](https://zh.wikipedia.org/wiki/Nagios)转换而来。
+
+
 **Nagios**（IPA: /ˈnɑːɡioʊs/）是电脑系统和网络监控程序，用於检测主机和服务，当异常发生和解除时能提醒用户；是基于[GPLv2开发的开源软件](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")，可免费获得及使用。
 
 Nagios原名**NetSaint**，由Ethan Galstad开发并维护至今。NAGIOS是簡稱，全写「Nagios Ain't Gonna Insist On Sainthood」，Sainthood 意思是「圣者」，而「Agios」是「saint」的希腊文。Nagios 在[Linux](../Page/Linux.md "wikilink")運作，但也能用於[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")。

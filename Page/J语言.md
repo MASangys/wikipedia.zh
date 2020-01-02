@@ -1,3 +1,6 @@
+> 本文内容由[J语言](https://zh.wikipedia.org/wiki/J语言)转换而来。
+
+
 **J**语言是[图灵奖](../Page/图灵奖.md "wikilink")获得者[肯尼斯·艾佛森](../Page/肯尼斯·艾佛森.md "wikilink")和（Roger Hui）（出生于[香港](../Page/香港.md "wikilink")，后前往[加拿大](../Page/加拿大.md "wikilink")）於二十世纪九十年代初發明的一种[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，是[APL语言](https://zh.wikipedia.org/wiki/APL语言 "wikilink")（亦是由艾佛森所創）、、語言的繼承者。
 
 為了避免APL使用特別的字集而遇到的問題，J只需基本的[ASCII](../Page/ASCII.md "wikilink")字集，多用點號和冒號來擴展現有基本字元的意義。

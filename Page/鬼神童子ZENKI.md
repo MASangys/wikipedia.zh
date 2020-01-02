@@ -1,3 +1,6 @@
+> 本文内容由[鬼神童子ZENKI](https://zh.wikipedia.org/wiki/鬼神童子ZENKI)转换而来。
+
+
 是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏](../Page/黑岩善宏.md "wikilink")負責繪製的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，但與連載版的設定不同。之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房](../Page/竹書房.md "wikilink")發行全7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社](../Page/長鴻出版社.md "wikilink")發行、[香港](../Page/香港.md "wikilink")由[天下出版](../Page/天下出版.md "wikilink")發行。竹書房版的單行本目前無中文版。
 
 媒介方面，1995年於[東京電視網](../Page/東京電視網.md "wikilink")播出同名[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。

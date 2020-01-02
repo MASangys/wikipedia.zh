@@ -1,3 +1,6 @@
+> 本文内容由[Wiki軟體](https://zh.wikipedia.org/wiki/Wiki軟體)转换而来。
+
+
 [MediaWiki.svg](https://zh.wikipedia.org/wiki/File:MediaWiki.svg "fig:MediaWiki.svg") **Wiki引擎**，或稱為**Wiki軟體**，是指用來架設[Wiki](../Page/Wiki.md "wikilink")的[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。廣義來說，即是一種軟體能作為[網路共筆](https://zh.wikipedia.org/wiki/網路 "wikilink")，供網友自行編輯，並最終集合成完整的資料庫。狹義來說，即是能達成[維基百科樣式的軟體](https://zh.wikipedia.org/wiki/維基百科 "wikilink")。
 
 由于[维基百科](../Page/维基百科.md "wikilink")的影响力，部分学者和媒体把Wiki引擎称为**维基引擎**。

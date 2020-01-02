@@ -1,3 +1,6 @@
+> 本文内容由[FAD突擊步槍](https://zh.wikipedia.org/wiki/FAD突擊步槍)转换而来。
+
+
 **雙重自動步槍**（，簡稱FAD），是由[秘魯國有企業](https://zh.wikipedia.org/wiki/秘魯 "wikilink")，司馬電器公司所開發的一款[無托式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，它是以作為車組人員的備用武器的前提下設計。
 
 ## 歷史及設計特徵

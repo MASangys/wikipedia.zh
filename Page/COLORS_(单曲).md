@@ -1,3 +1,6 @@
+> 本文内容由[COLORS \(单曲\)](https://zh.wikipedia.org/wiki/COLORS_\(单曲\))转换而来。
+
+
 《**COLORS**》為[宇多田光](../Page/宇多田光.md "wikilink")的第12張日文單曲，於2003年1月29日發行。
 
 ## 簡介

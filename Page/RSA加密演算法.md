@@ -1,3 +1,6 @@
+> 本文内容由[RSA加密演算法](https://zh.wikipedia.org/wiki/RSA加密演算法)转换而来。
+
+
 [Adi_Shamir_2009_crop.jpg](https://zh.wikipedia.org/wiki/File:Adi_Shamir_2009_crop.jpg "fig:Adi_Shamir_2009_crop.jpg")（Adi Shamir）\]\] **RSA加密演算法**是一种[非对称加密演算法](https://zh.wikipedia.org/wiki/非对称加密演算法 "wikilink")，在[公开密钥加密](../Page/公开密钥加密.md "wikilink")和[电子商业中被广泛使用](https://zh.wikipedia.org/wiki/电子商业 "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron Rivest）、[阿迪·萨莫尔](../Page/阿迪·萨莫尔.md "wikilink")（Adi Shamir）和[伦纳德·阿德曼](../Page/伦纳德·阿德曼.md "wikilink")（Leonard Adleman）一起提出的。当时他们三人都在[麻省理工学院](../Page/麻省理工学院.md "wikilink")工作。RSA就是他们三人姓氏开头字母拼在一起组成的。\[1\]
 
 1973年，在英国政府通讯总部工作的数学家克利福德·柯克斯（Clifford Cocks）在一个内部文件中提出了一个与之等效的算法，但该算法被列入机密，直到1997年才得到公开。\[2\]

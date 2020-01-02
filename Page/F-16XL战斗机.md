@@ -1,3 +1,6 @@
+> 本文内容由[F-16XL战斗机](https://zh.wikipedia.org/wiki/F-16XL战斗机)转换而来。
+
+
 **通用動力F-16XL戰鬥機**（**General Dynamics F-16XL**）是1980年2月通用動力自資進行的「超音速巡航和機動」計劃（Supersonic Cruise and Maneuvering Program, SCAMP）改進計劃，由美國空軍提供了2架F-16 A/B作為改裝，進行了F-16 三角箭形機翼(箭簇)布局的試驗，F-16XL的機身長度較標準的F-16多了142cm，機翼面積較F-16擴大120%，淨重較F-16A增加1300kg，機身油箱容量增加了82%，外掛點增為27個，所以外號（炸彈卡車）。
 
 ## 開發經歷

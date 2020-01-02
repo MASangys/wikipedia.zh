@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM 00音樂作品列表](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_00音樂作品列表)转换而来。
+
+
 本列表列出目前所有[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")》所使用的歌曲專輯。
 
 ## 原聲帶

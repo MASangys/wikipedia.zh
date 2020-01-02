@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Fireworks](https://zh.wikipedia.org/wiki/Adobe_Fireworks)转换而来。
+
+
 **Adobe Fireworks**，缩写**Fw**，是一个[位图](../Page/位图.md "wikilink")和 [矢量编辑软件](https://zh.wikipedia.org/wiki/矢量编辑软件 "wikilink")。它原来由[Macromedia](../Page/Macromedia.md "wikilink")开发，后在2005年被[Adobe](../Page/Adobe.md "wikilink")收购。Fireworks专门针对[网页设计者而开发](https://zh.wikipedia.org/wiki/网页设计者 "wikilink")，包含了一系列制作网页相关的功能（切片，添加热点等）。它可以与其他原Macromedia产品共同协作，例如流行的[Adobe Dreamweaver和](../Page/Adobe_Dreamweaver.md "wikilink")[Adobe Animate](../Page/Adobe_Animate.md "wikilink")。它可以被单独购买或捆绑在[Adobe Creative Suite中](../Page/Adobe_Creative_Suite.md "wikilink")。Fireworks 8还捆绑在Macromedia Studio 8中
 
 ## 矢量、位图编辑

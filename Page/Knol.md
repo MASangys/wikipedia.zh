@@ -1,3 +1,6 @@
+> 本文内容由[Knol](https://zh.wikipedia.org/wiki/Knol)转换而来。
+
+
 **Knol** 是[Google公司的一個計劃](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，目的是要建立一個類似[維基百科或](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[大眾百科](https://zh.wikipedia.org/wiki/大眾百科 "wikilink")（Citizendium）的網站，讓[網友](../Page/網友.md "wikilink")可參與編寫知識性內容。「Knol」是 Google 自創的新詞，取自 Knowledge（知識），是「一個知識單位」的意思（**A unit of knowledge**）。每一篇文章亦可以用 Knol 來稱呼。此計劃於2007年12月13日發表，在內部測試期間，與 Gmail 初期一樣，需要以邀請的方式才可加入；於2008年7月23日，Knol 完全開放給大眾使用\[1\]。其平台采用[Solvitor和](https://zh.wikipedia.org/wiki/Solvitor "wikilink")[Crowd Favorite创建的基于](https://zh.wikipedia.org/wiki/Crowd_Favorite "wikilink")[Wordpress的](https://zh.wikipedia.org/wiki/Wordpress "wikilink")[Annotum](https://zh.wikipedia.org/wiki/Annotum "wikilink")\[2\]。
 
 2011年11月，Google公司宣布Knol在2012年4月30日后不能查看，用户只能下载自己的文章或者导出到[Wordpress.com](https://zh.wikipedia.org/wiki/Wordpress.com "wikilink")；10月1日后将不能再访问\[3\] 。

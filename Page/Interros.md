@@ -1,3 +1,6 @@
+> 本文内容由[Interros](https://zh.wikipedia.org/wiki/Interros)转换而来。
+
+
 **Interros**是一個由Vladimir Potanin控制的[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[集團](https://zh.wikipedia.org/wiki/集團 "wikilink")，集團擁有很多有關[採礦](https://zh.wikipedia.org/wiki/採礦 "wikilink")、[金屬](https://zh.wikipedia.org/wiki/金屬 "wikilink")、[能量](../Page/能量.md "wikilink")、 [零售](../Page/零售.md "wikilink")、[物業](https://zh.wikipedia.org/wiki/物業 "wikilink") 和[經濟的公司的股分](https://zh.wikipedia.org/wiki/經濟 "wikilink")。公司總部設於[莫斯科](../Page/莫斯科.md "wikilink") 。
 
 ## 起源

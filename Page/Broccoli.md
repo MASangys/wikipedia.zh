@@ -1,3 +1,6 @@
+> 本文内容由[Broccoli](https://zh.wikipedia.org/wiki/Broccoli)转换而来。
+
+
 **株式會社Broccoli**（；[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Broccoli Co.,Ltd）是一間位於[日本](../Page/日本.md "wikilink")的公司，主要以[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")、[遊戲的商品企劃](https://zh.wikipedia.org/wiki/遊戲 "wikilink")、製作以及精品銷售連鎖店[Gamers](https://zh.wikipedia.org/wiki/Gamers "wikilink")。
 
 ## 概要

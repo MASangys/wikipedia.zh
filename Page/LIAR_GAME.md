@@ -1,3 +1,6 @@
+> 本文内容由[LIAR GAME](https://zh.wikipedia.org/wiki/LIAR_GAME)转换而来。
+
+
 《**LIAR GAME**》（**詐欺遊戲**）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")所作的漫畫作品。[香港](../Page/香港.md "wikilink")版漫畫由[天下出版社代理](https://zh.wikipedia.org/wiki/天下出版社 "wikilink")，單行本全19卷，[台灣版漫畫由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社](../Page/長鴻出版社.md "wikilink")代理，並推出特別篇《Liar Game 甲斐谷忍短篇集 A》，內容由秋山深一大學時期的故事及幾個短篇故事所組成。
 
 ## 概要

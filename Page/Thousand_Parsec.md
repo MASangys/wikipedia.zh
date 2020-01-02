@@ -1,3 +1,6 @@
+> 本文内容由[Thousand Parsec](https://zh.wikipedia.org/wiki/Thousand_Parsec)转换而来。
+
+
 ***Thousand Parsec***（***TP***）是[自由开源软件](../Page/自由软件.md "wikilink")，一个空间[回合制策略游戏](../Page/回合制策略游戏.md "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")。*Thousand Parsec*常常被误认为一个游戏\[1\]但它仅仅是一个创造游戏的平台，通常产生[4X概念体系的游戏](https://zh.wikipedia.org/wiki/4X概念体系 "wikilink"),：eXplore, eXpand, eXploit和eXterminate。*Thousand Parsec*体现此特点的游戏包括[Reach for the Stars](https://zh.wikipedia.org/wiki/Reach_for_the_Stars_\(computer_game\) "wikilink")'', *[Stars\!](https://zh.wikipedia.org/wiki/Stars! "wikilink")*, *[VGA Planets](https://zh.wikipedia.org/wiki/VGA_Planets "wikilink")*, *[Master of Orion](https://zh.wikipedia.org/wiki/Master_of_Orion "wikilink")*和*[Galactic Civilizations](https://zh.wikipedia.org/wiki/Galactic_Civilizations "wikilink")*. 不像闭源商业产品，此项目能扎干玩家电脑的机能。有着极高的可定制能力。
 
 ## 历史

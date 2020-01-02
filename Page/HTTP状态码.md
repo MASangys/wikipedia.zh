@@ -1,3 +1,6 @@
+> 本文内容由[HTTP状态码](https://zh.wikipedia.org/wiki/HTTP状态码)转换而来。
+
+
 **HTTP状态码**（）是用以表示[網頁伺服器](../Page/網頁伺服器.md "wikilink")[超文本传输协议](../Page/超文本传输协议.md "wikilink")响应状态的3位数字代码。它由 RFC 2616 规范定义的，并得到 RFC 2518、RFC 2817、RFC 2295、RFC 2774 與 RFC 4918 等规范扩展。所有状态码的第一个数字代表了响应的五种状态之一。所示的消息短语是典型的，但是可以提供任何可读取的替代方案。 除非另有说明，状态码是HTTP / 1.1标准（RFC 7231）的一部分。\[1\]
 
 HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网号码分配局.md "wikilink")（Internet Assigned Numbers Authority）维护。\[2\]

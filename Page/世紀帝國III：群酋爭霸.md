@@ -1,3 +1,6 @@
+> 本文内容由[世紀帝國III：群酋爭霸](https://zh.wikipedia.org/wiki/世紀帝國III：群酋爭霸)转换而来。
+
+
 是由[全效工作室](../Page/全效工作室.md "wikilink")开发、[微软](../Page/微软.md "wikilink")发行的[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國III](../Page/世紀帝國III.md "wikilink")》的第一部官方[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")。
 
 ## 游戏要素

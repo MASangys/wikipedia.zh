@@ -1,3 +1,6 @@
+> 本文内容由[遊戲王R](https://zh.wikipedia.org/wiki/遊戲王R)转换而来。
+
+
 《**遊戲王R**》（R，Yu-Gi-Oh\! R）是由《[遊戲王](../Page/遊戲王.md "wikilink")》作者[高橋和希](../Page/高橋和希.md "wikilink")負責原案和監修，[伊藤彰所繪的](https://zh.wikipedia.org/wiki/伊藤彰 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。\[1\]在[日本](../Page/日本.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")[V-Jump上連載](https://zh.wikipedia.org/wiki/V-Jump "wikilink")，是於[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[遊戲王](../Page/遊戲王.md "wikilink")完結後所繪畫的衍生支線故事。標題內的「R」有「Reverse」之意，在這裡是指「將[本文沒有描寫的伏線Reverse](../Page/遊戲王.md "wikilink")」\[2\]。
 
 ## 故事

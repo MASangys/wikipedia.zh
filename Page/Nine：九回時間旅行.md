@@ -1,3 +1,6 @@
+> 本文内容由[Nine：九回時間旅行](https://zh.wikipedia.org/wiki/Nine：九回時間旅行)转换而来。
+
+
 《**Nine：九回時間旅行**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2013年3月11日播出的[月火迷你連續劇](../Page/TvN月火連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[趙胤熙](../Page/趙胤熙.md "wikilink")主演，知名劇作家[宋在貞](../Page/宋在貞.md "wikilink")(《[順風婦產科](../Page/順風婦產科.md "wikilink")》、《[搞笑一家親](https://zh.wikipedia.org/wiki/搞笑一家親 "wikilink")》、《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》)執筆。企劃時間超過三年，首播前已事先拍好8集、完成15集的劇本，在習慣邊拍邊播的韓國電視圈實屬罕見。本劇亦為韓國有線電視台首部到海外取景（[尼泊爾](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")）的電視劇，製作費為59億韓元，\[1\]為韓國電視史上第一部被美國收購版權的作品，美國版預計由製作，並在[ABC播放](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")。\[2\]\[3\]
 
 ## 劇情簡介

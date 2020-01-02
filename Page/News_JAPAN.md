@@ -1,3 +1,6 @@
+> 本文内容由[News JAPAN](https://zh.wikipedia.org/wiki/News_JAPAN)转换而来。
+
+
 **News JAPAN**（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")及其[聯播網](../Page/電視聯播網.md "wikilink")（[FNN](https://zh.wikipedia.org/wiki/FNN "wikilink")）曾播出的周一至周五的深夜[新聞節目](../Page/新聞節目.md "wikilink")，於1994年4月1日起接替《[FNN NEWSCOM](https://zh.wikipedia.org/wiki/FNN_NEWSCOM "wikilink")》節目播出。在播出之初是[體育新聞節目](https://zh.wikipedia.org/wiki/體育 "wikilink")（原名《職業棒球新聞》，後改名為「[SPORT\!](https://zh.wikipedia.org/wiki/SPORT! "wikilink")」）的新聞單元，2003年3月後成為獨立節目。該節目已於2015年3月27日結束播出，取而代之的新聞節目是，但依舊維持[大島由香里](../Page/大島由香里.md "wikilink")、[奥寺健及](https://zh.wikipedia.org/wiki/奥寺健 "wikilink")[木村拓也三位主播來主持](https://zh.wikipedia.org/wiki/木村拓也 "wikilink")。
 
 ## 演出人員

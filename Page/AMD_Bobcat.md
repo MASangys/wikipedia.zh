@@ -1,3 +1,6 @@
+> 本文内容由[AMD Bobcat](https://zh.wikipedia.org/wiki/AMD_Bobcat)转换而来。
+
+
 **Bobcat** **（山貓）**是一個[中央處理器的代號](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，由[AMD設計](https://zh.wikipedia.org/wiki/AMD "wikilink")，是[x86-64架構](https://zh.wikipedia.org/wiki/x86-64 "wikilink")，採用812针[BGA封裝](https://zh.wikipedia.org/wiki/BGA "wikilink")\[1\]。它主要用於[UMPC或小型電腦中](https://zh.wikipedia.org/wiki/UMPC "wikilink")，定位與[Intel Atom相同](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")，預計會於2008年第四季推出。它擁有一個核心，核心頻率是1GHz。核心集成了128K L1 Cache和256K L2 Cache。[HyperTransport](../Page/HyperTransport.md "wikilink")技術方面採用1.0版本，頻率是800 MHz。與AMD自家的桌面處理器一樣，Bobcat會內建系統記憶體控制器，規格是單通道DDR2-400。處理器[TDP大約是](https://zh.wikipedia.org/wiki/TDP "wikilink")8W，比Atom的2.5W-4W大\[2\]。但由於[晶片組比較先進](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，所以平台整體的功耗與[Intel方案相差不大](https://zh.wikipedia.org/wiki/Intel "wikilink")。\[3\] 晶片方面，可能與[Geode相輔相成](https://zh.wikipedia.org/wiki/Geode "wikilink")。
 
 有關Bobcat處理器的計劃於2007年的[台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")中首次披露，目標是[UMPC市場](https://zh.wikipedia.org/wiki/UMPC "wikilink")。\[4\]\[5\] 由於沒有後續消息，有人認為該計劃已被取消。但[AMD更換](https://zh.wikipedia.org/wiki/AMD "wikilink")[CEO後](https://zh.wikipedia.org/wiki/CEO "wikilink")，新任的CEO－Dirk Meyer重申計劃存在，公司亦會在2008年11月公佈更詳細的資料。\[6\]

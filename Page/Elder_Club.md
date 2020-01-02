@@ -1,3 +1,6 @@
+> 本文内容由[Elder Club](https://zh.wikipedia.org/wiki/Elder_Club)转换而来。
+
+
 **Elder Club**（）此一詞在2006年的演唱會開始被使用，之後由[早安家族](../Page/早安家族.md "wikilink")藝人的路線分成兩部分，另一為[Wonderful Hearts](../Page/Wonderful_Hearts.md "wikilink")（）。
 
   - UFA 以於2008年10月19日發表，エルダークラブ所屬成員在2009年家族演唱會上全數卒業，演唱會標題為[Hello！Project 2009 Winter 決定！ハロ☆プロ アワード ’09 ～エルダークラブ卒業記念スペシャル～](https://zh.wikipedia.org/wiki/Hello！Project_2009_Winter_決定！ハロ☆プロ_アワード_’09_～エルダークラブ卒業記念スペシャル～ "wikilink") 。

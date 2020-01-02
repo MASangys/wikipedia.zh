@@ -1,3 +1,6 @@
+> 本文内容由[SHE! HER! HER!](https://zh.wikipedia.org/wiki/SHE!_HER!_HER!)转换而来。
+
+
 《**SHE\! HER\! HER\!**》是[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下男子團體[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年3月21日由[avex trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[IBM Lotus Domino](https://zh.wikipedia.org/wiki/IBM_Lotus_Domino)转换而来。
+
+
 **Lotus Domino**是[IBM](../Page/IBM.md "wikilink")的一个服务器产品，提供了企业级的[电子邮件](../Page/电子邮件.md "wikilink")、[协作能力以及一个可定制的应用平台](https://zh.wikipedia.org/wiki/协作软件 "wikilink")。Domino最早被称为**Lotus Notes Server**，是[莲花公司的客户端](https://zh.wikipedia.org/wiki/莲花公司 "wikilink")-服务器通信技术的服务器组件。它可以被用作[Lotus Notes的应用服务器并](../Page/IBM_Lotus_Notes.md "wikilink")/或作为一个网页服务器。它还包含了一个内置的数据库系统，使用NSF格式。其目录服务也可以被用作认证的目的。\[1\]2018年12月，将软件全部出售给了[HCL Technologies](https://zh.wikipedia.org/wiki/HCL_Technologies "wikilink")\[2\]。
 
 ## 面向文档的数据库

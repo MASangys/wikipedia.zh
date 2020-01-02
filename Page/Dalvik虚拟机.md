@@ -1,3 +1,6 @@
+> 本文内容由[Dalvik虚拟机](https://zh.wikipedia.org/wiki/Dalvik虚拟机)转换而来。
+
+
 **Dalvik虚拟机**，是[Google](../Page/Google.md "wikilink")等厂商合作开发的[Android](../Page/Android.md "wikilink")移动设备平台的核心组成部分之一。它可以支持已转换为.dex（即「Dalvik Executable」）格式的[Java](../Page/Java.md "wikilink")应用程序的运行。.dex格式是专为Dalvik设计的一种压缩格式，适合[内存和](https://zh.wikipedia.org/wiki/内存 "wikilink")[处理器速度有限的系统](https://zh.wikipedia.org/wiki/处理器 "wikilink")。Dalvik由Dan Bornstein编写的，名字来源于他的祖先曾经居住过的小渔村[達爾維克](https://zh.wikipedia.org/wiki/達爾維克 "wikilink")（），位于[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")[埃亚峡湾](https://zh.wikipedia.org/wiki/埃亚峡湾 "wikilink")。
 
 大多数[虚拟机包括](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")[JVM都是一種](https://zh.wikipedia.org/wiki/JVM "wikilink")[堆疊機器](https://zh.wikipedia.org/wiki/堆疊機器 "wikilink")，而Dalvik虚拟机则是[寄存器机](../Page/寄存器机.md "wikilink")。两种架构各有优劣，一般而言，基于堆疊的机器需要更多指令，而基于寄存器的机器指令更长。

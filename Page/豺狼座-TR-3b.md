@@ -1,3 +1,6 @@
+> 本文内容由[豺狼座-TR-3b](https://zh.wikipedia.org/wiki/豺狼座-TR-3b)转换而来。
+
+
 **豺狼座-TR-3b**是一個環繞著[豺狼座-TR-3](../Page/豺狼座-TR-3.md "wikilink")的[太陽系外行星](../Page/太陽系外行星.md "wikilink")，距離地球8950[光年](../Page/光年.md "wikilink")之遠，它是一顆的典型的[熱木星](../Page/熱木星.md "wikilink")\[1\]。
 
 ## 參見

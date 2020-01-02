@@ -1,3 +1,6 @@
+> 本文内容由[神州Online](https://zh.wikipedia.org/wiki/神州Online)转换而来。
+
+
 《**神州Online**》，由[臺灣](../Page/臺灣.md "wikilink")[宇奧科技](https://zh.wikipedia.org/wiki/宇奧科技 "wikilink")(後併入[宇峻奧汀](../Page/宇峻奧汀.md "wikilink"))開發的[2D](https://zh.wikipedia.org/wiki/2D "wikilink")[大型多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")（MMORPG），是早期臺灣的自製線上遊戲之一，2002年起營運至今2019年已達17年，是同時期至今唯一仍在營運的臺灣線上遊戲。
 
 ## 玩法

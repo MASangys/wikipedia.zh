@@ -1,3 +1,6 @@
+> 本文内容由[BD-J](https://zh.wikipedia.org/wiki/BD-J)转换而来。
+
+
 **BD-J**（**Blu-ray Disc Java**）為[藍光光碟](../Page/藍光光碟.md "wikilink")（[BD-Video](https://zh.wikipedia.org/wiki/BDMV "wikilink")）之互動式內容的基盤，由 Blu-ray Disc Association 所開發。在藍光光碟中，使用 BD-J 的附加影片內容比 [DVD-Video](../Page/DVD-Video.md "wikilink") 中的更加洗練，可登入[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")（下載最新預告、觀賞幕後花絮等）及使用子母畫面與讀取[輔助儲存裝置](../Page/儲存裝置.md "wikilink")。支援播放藍光光碟影片的藍光光碟播放機都有支援 BD-J 的義務，但初期的播放機並不支援登入網絡及讀取輔助儲存裝置與使用子母畫面的功能，（除了登入網絡之外）這些功能都稱作 "Bonus View" ，包含登入網絡在內的功能則稱作 "BD Live" 。2007年10月31日之後發售的藍光光碟播放機都有加裝 "Bonus View" 的義務，不過依不同機種，有些機種必須更新[韌體](../Page/韌體.md "wikilink")才可使用\[1\]。"BD Live" 現在則為附加功能。
 
 ## 技術

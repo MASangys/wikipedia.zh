@@ -1,3 +1,6 @@
+> 本文内容由[H³M](https://zh.wikipedia.org/wiki/H³M)转换而来。
+
+
 《**H³M**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2009年3月23日發行，由廣東俚語「黑口黑面」的[粵語拼音首字母組成](https://zh.wikipedia.org/wiki/粵語拼音 "wikilink")。但由於語言限制問題，內地版本專輯名被打趣的稱為《**好好好賣**》；而台灣版本則定名為《**H³M 好好好賣**》。
 
 ## 專輯簡介

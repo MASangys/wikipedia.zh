@@ -1,3 +1,6 @@
+> 本文内容由[FN Five-seveN手槍](https://zh.wikipedia.org/wiki/FN_Five-seveN手槍)转换而来。
+
+
 **FN Five-seveN**是[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale設計製造的](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 歷史

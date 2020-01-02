@@ -1,3 +1,6 @@
+> 本文内容由[Prototype \(石川智晶單曲\)](https://zh.wikipedia.org/wiki/Prototype_\(石川智晶單曲\))转换而来。
+
+
 {{Infobox Single | Name = Prototype | Cover = VTCL-35055.jpg | Caption = 《Prototype》單曲CD封面 | Artist = [石川智晶](../Page/石川智晶.md "wikilink") | from Album = 《》 | A-side = | B-side = | Released = 2008年12月3日
 （規格編號：VTCL-35055） | Format = [12cm單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink") | Recorded = | Genre = [J-POP](../Page/日本流行音樂.md "wikilink")（[動畫歌曲](../Page/動畫歌曲.md "wikilink")） | Length = 20分53秒 | Label = [flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink") | Writer = | Producer = 作詞、作曲：石川智晶
 編曲： | Certification = | Chart position = \* 週榜第3名（[Oricon](../Page/Oricon公信榜.md "wikilink")）

@@ -1,3 +1,6 @@
+> 本文内容由[Errno.h](https://zh.wikipedia.org/wiki/Errno.h)转换而来。
+
+
 **errno.h**是[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")[C標準函式庫](../Page/C標準函式庫.md "wikilink")裡的標頭檔，定義了透過[錯誤碼來回報錯誤資訊的巨集](https://zh.wikipedia.org/wiki/錯誤碼 "wikilink")：
 
   - `errno`巨集定義為一個`int`型態的[左值](https://zh.wikipedia.org/wiki/左值 "wikilink"), 包含任何函式使用errno功能所產生的上一個錯誤碼。

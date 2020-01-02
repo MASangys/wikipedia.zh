@@ -1,3 +1,6 @@
+> 本文内容由[Git](https://zh.wikipedia.org/wiki/Git)转换而来。
+
+
 **git**（\[1\]，）是一个[分散式版本控制软件](https://zh.wikipedia.org/wiki/分散式版本控制 "wikilink")，最初由[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")創作，於2005年以[GPL釋出](https://zh.wikipedia.org/wiki/GPL "wikilink")。最初目的是为更好地管理[Linux核心开发而设计](../Page/Linux内核.md "wikilink")。应注意的是，这与GNU Interactive Tools\[2\]（一个类似[Norton Commander界面的](https://zh.wikipedia.org/wiki/Norton_Commander "wikilink")[文件管理器](../Page/软件包管理系统.md "wikilink")）不同。
 
 git最初的开发动力来自于[BitKeeper](../Page/BitKeeper.md "wikilink")和[Monotone](https://zh.wikipedia.org/wiki/Monotone_\(軟體\) "wikilink")\[3\]\[4\]。git最初只是作为一个可以被其他前端（比如Cogito或Stgit\[5\]）包装的后端而开发的，但后来git内核已经成熟到可以独立地用作版本控制\[6\]。很多著名的软件都使用git进行版本控制\[7\]，其中包括[Linux核心](../Page/Linux内核.md "wikilink")、[X.Org服务器和](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")[OLPC](../Page/OLPC.md "wikilink")内核等项目的开发流程\[8\]。

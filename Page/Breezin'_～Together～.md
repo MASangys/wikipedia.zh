@@ -1,3 +1,6 @@
+> 本文内容由[Breezin\' ～Together～](https://zh.wikipedia.org/wiki/Breezin\'_～Together～)转换而来。
+
+
 「**Breezin' ～Together～**」為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第8張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2003年5月28日於日本發行。與前前作「[EX-STYLE ～Kiss You～](../Page/EX-STYLE_～Kiss_You～.md "wikilink")」同樣是4首歌曲A面的單曲。在2005年發售的「[只是…想見你](../Page/只是…想見你.md "wikilink")」之後，是銷量第二好的單曲。Oricon最高排行第2、初動銷量10.7萬張、累計銷量36.7萬張
 
 ## 解說

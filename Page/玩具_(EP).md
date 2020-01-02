@@ -1,3 +1,6 @@
+> 本文内容由[玩具 \(EP\)](https://zh.wikipedia.org/wiki/玩具_\(EP\))转换而来。
+
+
 《**玩具**》是香港歌手[王菲](../Page/王菲.md "wikilink")的第四張[粵語EP](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於1997年2月發行，一共5首新歌。
 
 ## 簡介

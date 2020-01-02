@@ -1,3 +1,6 @@
+> 本文内容由[CAT-5](https://zh.wikipedia.org/wiki/CAT-5)转换而来。
+
+
 [Cat5.JPG](https://zh.wikipedia.org/wiki/File:Cat5.JPG "fig:Cat5.JPG") [Cat5e.JPG](https://zh.wikipedia.org/wiki/File:Cat5e.JPG "fig:Cat5e.JPG") **5类双绞线**（英文：Category 5 cable），一般稱為**CAT-5線**，是一種[雙絞線](https://zh.wikipedia.org/wiki/雙絞線 "wikilink")，並設計為可提供高[速度](../Page/速度.md "wikilink")、低[噪訊比的訊號傳輸線](https://zh.wikipedia.org/wiki/噪訊比 "wikilink")。這一種的傳輸線一般用在[電腦網絡的](https://zh.wikipedia.org/wiki/電腦網絡 "wikilink")[內部配線](https://zh.wikipedia.org/wiki/內部配線 "wikilink")，如把[電腦連接至](https://zh.wikipedia.org/wiki/電腦 "wikilink")[乙太網](https://zh.wikipedia.org/wiki/乙太網 "wikilink")、或電腦連接電腦、[集線器](../Page/集線器.md "wikilink")連接[路由器](../Page/路由器.md "wikilink")等。此外，還可以用作[話音通訊](https://zh.wikipedia.org/wiki/話音通訊 "wikilink")、[令牌環](https://zh.wikipedia.org/wiki/令牌環 "wikilink")（記號環網路、token ring）、[非同步傳輸模式](https://zh.wikipedia.org/wiki/非同步傳輸模式 "wikilink")（Asynchronous Transfer Mode）的傳輸。
 
 ## 使用與接線方法

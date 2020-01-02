@@ -1,3 +1,6 @@
+> 本文内容由[Little Busters!](https://zh.wikipedia.org/wiki/Little_Busters!)转换而来。
+
+
 《**Little Busters\!**》（），中文片名為學園剋星，是日本遊戲品牌Key於2007年7月27日所推出的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，該遊戲也是Key成立後第六款[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") [PC平台遊戲](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")。擁有不同於《[Kanon](../Page/Kanon.md "wikilink")》、《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》、《[CLANNAD](../Page/CLANNAD.md "wikilink")》的風格。PC[十八禁版](../Page/日本成人遊戲.md "wikilink")《Little Busters\! Ecstasy（Little Busters\! EX）》（リトルバスターズ！エクスタシー）於2008年7月25日及9月26日發售，移除十八禁元素後亦移植到多個平台上發售。該遊戲故事主要敘述主角直枝理樹與朋友於小時候組成的團體「Little Busters」，並在高中時找到其他女生加入該團體打棒球。
 
 在《Little Busters\!》中擁有許多故事分支，並提供玩家與六名女主角互動的選擇。小遊戲是指在《Little Busters\!》中穿插的各種遊戲，出現在共通線和沙耶線中。小遊戲可以由玩家選擇是否開啟，除沙耶「學院革命線」外，關閉小遊戲對遊戲流程沒有影響。小遊戲的完成進度與小遊戲中出現的各種情況有關，如：在戰鬥排位賽中出現的各種武器，結束後的不同排名等。《Little Busters\!》和《Little Busters\! Ecstasy》為日本暢銷的PC遊戲，其中《Little Busters\! Ecstasy》銷售量超過十萬台。Key于2010年6月25日发售《Little Busters\!》和《Little Busters\! EX》的后日谈《[Kud Wafter](../Page/Kud_Wafter.md "wikilink")》。

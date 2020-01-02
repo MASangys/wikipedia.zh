@@ -1,3 +1,6 @@
+> 本文内容由[Cd \(命令\)](https://zh.wikipedia.org/wiki/Cd_\(命令\))转换而来。
+
+
 ****，有时也写作****（**ch**ange **dir**ectory，改变目录），是在[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")、[Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[DOS](../Page/DOS.md "wikilink")操作系统下用于改变[工作目录的](https://zh.wikipedia.org/wiki/工作目录 "wikilink")[命令行命令](../Page/命令行界面.md "wikilink")。在Unix的[Shell脚本](../Page/Shell脚本.md "wikilink")与Windows或DOS的[批处理](../Page/批处理.md "wikilink")文件中亦可使用。
 
 ## 用法

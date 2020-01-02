@@ -1,3 +1,6 @@
+> 本文内容由[EZ2ON](https://zh.wikipedia.org/wiki/EZ2ON)转换而来。
+
+
 是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Retro Games公司开发的](https://zh.wikipedia.org/wiki/Retro_Games "wikilink")[音乐](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")，该游戏是由[街机游戏](https://zh.wikipedia.org/wiki/街机游戏 "wikilink")[Ez2dj移植过来的](https://zh.wikipedia.org/wiki/Ez2dj "wikilink")。目前处于停服状态。
 
 ## 游戏玩法

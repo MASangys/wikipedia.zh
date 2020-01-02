@@ -1,3 +1,6 @@
+> 本文内容由[Meiko](https://zh.wikipedia.org/wiki/Meiko)转换而来。
+
+
 **MEIKO**是[山葉以](https://zh.wikipedia.org/wiki/山葉_\(公司\) "wikilink")[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")[語音合成引擎為基礎開發](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，[Crypton Future Media販售的虛擬女性歌手軟件第一作](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")；或此軟件的印象角色（這只是軟件的象徵，不會在實際使用時出現）。於2004年11月發售，開放價格，官方估計系列軟件實際價格約19,950日圓。由提供原聲\[1\]，軟件名稱也是取自拜鄉芽衣子的名稱\[2\]。日語第一套VOCALOID的產品，擅長[流行曲](https://zh.wikipedia.org/wiki/流行曲 "wikilink")、[搖滾樂](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、[爵士樂](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[童謠等廣範圍歌種](https://zh.wikipedia.org/wiki/童謠 "wikilink")\[3\]。VOCALOID 3引擎聲庫MEIKO V3是由[Crypton Future Media開發并販售](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")，于2014年2月4日发售。
 
 ## 發展歷史

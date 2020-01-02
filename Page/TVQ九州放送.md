@@ -1,3 +1,6 @@
+> 本文内容由[TVQ九州放送](https://zh.wikipedia.org/wiki/TVQ九州放送)转换而来。
+
+
 **株式會社TVQ九州放送**（略称：TVQ）是[日本](../Page/日本.md "wikilink")一所以[福岡縣為放送地域的電視台](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")，在[福岡市](../Page/福岡市.md "wikilink")和[北九州市](../Page/北九州市.md "wikilink")均有辦公地點。開播于1991年4月1日，是[東京電視台](../Page/東京電視台.md "wikilink")聯播網[TXN的成員](../Page/東京電視網.md "wikilink")。該電視台是日本最早引進[韓國電視劇](../Page/韓國電視劇.md "wikilink")的[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")，也经常播放[独立放送局播出的动画](../Page/全國獨立放送協議會.md "wikilink")。
 
 TVQ九州放送的最大股東為[日本經濟新聞社](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")（佔19.9%），其次為西日本新聞社及[東京電視控股](../Page/東京電視控股.md "wikilink")。

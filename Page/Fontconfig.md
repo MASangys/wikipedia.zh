@@ -1,3 +1,6 @@
+> 本文内容由[Fontconfig](https://zh.wikipedia.org/wiki/Fontconfig)转换而来。
+
+
 **Fontconfig**是字體相關的[计算机程序库](https://zh.wikipedia.org/wiki/计算机程序库 "wikilink")，用于配置、定制全系统的[字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，或將字體提供給应用程序使用。此庫最初是由[Keith Packard开发维护的](https://zh.wikipedia.org/wiki/Keith_Packard "wikilink")，现由维护。
 
 Fontconfig是[自由软件](../Page/自由软件.md "wikilink")，采用[宽松开放版权许可证](../Page/寬鬆自由軟體授權條款.md "wikilink")。\[1\]

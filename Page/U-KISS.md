@@ -1,3 +1,6 @@
+> 本文内容由[U-KISS](https://zh.wikipedia.org/wiki/U-KISS)转换而来。
+
+
 **U-KISS**（），是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由經紀公司[NH Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出\[1\]。2017年3月，**Kevin**約滿退出。2019年5月16日，**基燮**和**Eli**約滿退出\[2\]。
 
 U-KISS的名稱代表著「Ubiquitous Korean International（Idol） Super Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。

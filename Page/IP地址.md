@@ -1,3 +1,6 @@
+> 本文内容由[IP地址](https://zh.wikipedia.org/wiki/IP地址)转换而来。
+
+
 **網際網路協定位址**（，又譯為**网际协议地址**），縮寫為**IP地址**（），是分配給[網路上使用](https://zh.wikipedia.org/wiki/網路 "wikilink")[網際協議](https://zh.wikipedia.org/wiki/網際協議 "wikilink")（）的裝置的數字標籤。常見的IP位址分為[IPv4](../Page/IPv4.md "wikilink")與[IPv6](../Page/IPv6.md "wikilink")兩大類，但是也有其他不常用的小分類。
 
 ## IPv4位地址

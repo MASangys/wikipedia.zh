@@ -1,3 +1,6 @@
+> 本文内容由[Break the Records -by you \& for you-](https://zh.wikipedia.org/wiki/Break_the_Records_-by_you_\&_for_you-)转换而来。
+
+
 《**Break the Records -by you & for you-**》是[日本](../Page/日本.md "wikilink")[男性](../Page/男性.md "wikilink")偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第4張專輯作品。
 
 ## 概要\[1\]

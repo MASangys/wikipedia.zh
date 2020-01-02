@@ -1,3 +1,6 @@
+> 本文内容由[偶像大師 XENOGLOSSIA](https://zh.wikipedia.org/wiki/偶像大師_XENOGLOSSIA)转换而来。
+
+
 《**偶像大師 XENOGLOSSIA**》是[日昇動畫](../Page/日昇動畫.md "wikilink")及Bandai Visual由《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》當[原作所改編的動畫](https://zh.wikipedia.org/wiki/原作 "wikilink")，實際上與大型電玩和XBOX360的原作遊戲為完全不同的作品，是一部[機器人動畫](../Page/機器人動畫.md "wikilink")，於2007年4月在[日本](../Page/日本.md "wikilink")放映，於同年9月撥畢。宣傳詞為「（想成為你的iDol）」。
 
 由于是套取遊戲版角色原作进行改編，所以名詞上有很多不同之處。如「iDol」原作遊戲是指「偶像」，本動畫中则是「去除隕石用人形機器人」的通稱。雖然劇情中後半段有出現「idol」和「」兩種意譯的「idol」在使用；而「iDol Master」原作遊戲中是指「製作人（Producer，即玩家）」的最高稱號〔偶像大師〕，而本動畫中則是指上面所說的「iDol的操控者（Master）」。角色设定也做出大幅修改，并且没有沿用原有的声优设定。

@@ -1,3 +1,6 @@
+> 本文内容由[IntervalZero](https://zh.wikipedia.org/wiki/IntervalZero)转换而来。
+
+
 **IntervalZero, Inc.**研發硬性[實時軟體](https://zh.wikipedia.org/wiki/實時 "wikilink")。其啟用了對稱多處理 (SMP) 的 RTX 與 RTX64 軟體可將 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 從通用型作業系統 (GPOS) 轉變為[即時作業系統](https://zh.wikipedia.org/wiki/即時作業系統 "wikilink") (RTOS)。
 
 RTX 和 RTX64 同 Windows 與 x86 多核心處理器一起，形成了 IntervalZero 即時作業系統平臺的關鍵組成部分。

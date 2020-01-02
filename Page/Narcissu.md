@@ -1,3 +1,6 @@
+> 本文内容由[Narcissu](https://zh.wikipedia.org/wiki/Narcissu)转换而来。
+
+
 {{ about|narcissu及narcissu 3rd -Die Dritte Welt-|narcissu SIDE 2nd|narcissu SIDE 2nd }}     《**narcissu**》（）是[日本](../Page/日本.md "wikilink")[同人社團](../Page/同人_\(ACG\).md "wikilink")（Stage Nana）製作的一款免費[同人遊戲](../Page/同人遊戲.md "wikilink")軟體。日文版製作完成後不久，亦由各地的爱好者分別製作[英文版](https://zh.wikipedia.org/wiki/英文 "wikilink")、[中文版](https://zh.wikipedia.org/wiki/中文 "wikilink")、[韓文版](https://zh.wikipedia.org/wiki/韓文 "wikilink")、[法文版及](https://zh.wikipedia.org/wiki/法文 "wikilink")[越南文版遊戲](https://zh.wikipedia.org/wiki/越南文 "wikilink")，同樣是供網上下載的[免費軟體](../Page/免費軟體.md "wikilink")。
 
 於2009年4月27日發佈了系列第三作《**narcissu 3rd -Die Dritte Welt-**》（），首次以DVD形式發表，並同時收錄narcissu和narcissu SIDE 2nd。與前兩作不同，不是免費軟體。

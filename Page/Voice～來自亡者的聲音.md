@@ -1,3 +1,6 @@
+> 本文内容由[Voice～來自亡者的聲音](https://zh.wikipedia.org/wiki/Voice～來自亡者的聲音)转换而来。
+
+
 《**Voice～亡者之聲～**》（）是一部於2009年1月12日起，由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於逢星期一21:00-21:54（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[瑛太](../Page/瑛太.md "wikilink")主演。首回和最終回加長至22:09。
 
 ## 故事

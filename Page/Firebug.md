@@ -1,3 +1,6 @@
+> 本文内容由[Firebug](https://zh.wikipedia.org/wiki/Firebug)转换而来。
+
+
 [Firebug.png](https://zh.wikipedia.org/wiki/File:Firebug.png "fig:Firebug.png")
 
 **Firebug**是一個已经停止开发的[自由及開放原始碼](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")\[1\]的[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")-{zh-hans:扩展; zh-hant:附加元件;}-\[2\]，是一個網頁開發工具，使用者可以利用它除錯、編輯、刪改任何網站的[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[HTML](../Page/HTML.md "wikilink")、[DOM與](https://zh.wikipedia.org/wiki/文檔對象模型 "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")代碼\[3\]。

@@ -1,3 +1,6 @@
+> 本文内容由[HFE遺傳性血色病](https://zh.wikipedia.org/wiki/HFE遺傳性血色病)转换而来。
+
+
 **HFE遺傳性血色病**\[1\]，又名**血色沉著症第1型**\[2\]或**HFE相關遺傳血色病**\[3\]是一種[遺傳病](https://zh.wikipedia.org/wiki/遺傳病 "wikilink")，患者過度攝取[鐵質](https://zh.wikipedia.org/wiki/鐵質 "wikilink")，令身體內的總鐵質含量達至病理性的水平。[人類](../Page/人類.md "wikilink")與及其他[動物都沒有方法排出多餘的鐵質](https://zh.wikipedia.org/wiki/動物 "wikilink")。\[4\]多餘的鐵質會積聚在[組織及](https://zh.wikipedia.org/wiki/组织_\(生物学\) "wikilink")[器官](../Page/器官.md "wikilink")內，影響它們的正常運作。最易受影響的器官包括[肝臟](../Page/肝臟.md "wikilink")、[腎上腺](../Page/腎上腺.md "wikilink")、[心臟](../Page/心臟.md "wikilink")及[胰臟](https://zh.wikipedia.org/wiki/胰臟 "wikilink")；患者可能出現[肝硬化](../Page/肝硬化.md "wikilink")、[腎上腺功能不全](https://zh.wikipedia.org/wiki/腎上腺功能不全 "wikilink")、[心衰竭或](https://zh.wikipedia.org/wiki/心衰竭 "wikilink")[糖尿病](../Page/糖尿病.md "wikilink")。\[5\]這種疾病在[北歐](../Page/北歐.md "wikilink")譜系最為普遍，尤其是[愛爾蘭人](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")。\[6\]
 
 ## 歷史

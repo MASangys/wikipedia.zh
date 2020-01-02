@@ -1,3 +1,6 @@
+> 本文内容由[ICQ](https://zh.wikipedia.org/wiki/ICQ)转换而来。
+
+
 [ICQ_Logo_noText.svg](https://zh.wikipedia.org/wiki/File:ICQ_Logo_noText.svg "fig:ICQ_Logo_noText.svg") ****是最早出現的[即時通訊軟件之一](https://zh.wikipedia.org/wiki/即時通訊軟件 "wikilink")。源自[以色列](../Page/以色列.md "wikilink")[特拉维夫](../Page/特拉维夫.md "wikilink")的（成立於1996年7月），由幾個以色列青年（包括、、、以及之父親在1996年11月發明。
 
 ## 語源

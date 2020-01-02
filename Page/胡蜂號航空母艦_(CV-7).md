@@ -1,3 +1,6 @@
+> 本文内容由[胡蜂號航空母艦 \(CV-7\)](https://zh.wikipedia.org/wiki/胡蜂號航空母艦_\(CV-7\))转换而来。
+
+
 **胡蜂號航空母艦 (CV-7)**是[胡蜂級航空母艦的一號艦](https://zh.wikipedia.org/wiki/胡蜂級航空母艦 "wikilink")（亦是唯一一艘），也是美國第八艘以胡蜂命名的艦隻。受[華盛頓海軍條約的限制](https://zh.wikipedia.org/wiki/華盛頓海軍條約 "wikilink")，胡蜂號被迫多次降低噸位，使之看上去是[約克鎮級航空母艦的縮小版本](https://zh.wikipedia.org/wiki/約克鎮級航空母艦 "wikilink")。在美國加入[二次大戰後](https://zh.wikipedia.org/wiki/二次大戰 "wikilink")，胡蜂號先後參與了歐洲與太平洋海戰，於1942年被日軍[潛艇](../Page/潛艇.md "wikilink")擊沉。
 
 ## 建造與配置

@@ -1,3 +1,6 @@
+> 本文内容由[FIM-92刺針便攜式防空飛彈](https://zh.wikipedia.org/wiki/FIM-92刺針便攜式防空飛彈)转换而来。
+
+
 [Stinger_missile_shoulder_launch.jpg](https://zh.wikipedia.org/wiki/File:Stinger_missile_shoulder_launch.jpg "fig:Stinger_missile_shoulder_launch.jpg")驗證了沙漠可用性\]\] [Stinger.jpg](https://zh.wikipedia.org/wiki/File:Stinger.jpg "fig:Stinger.jpg")
 
 **FIM-92刺針便攜式防空飛彈**（）為[便攜式防空導彈](https://zh.wikipedia.org/wiki/便攜式防空導彈 "wikilink")，採用[紅外線導引](../Page/紅外線導引.md "wikilink")熱追蹤以及[紫外線物體追蹤](https://zh.wikipedia.org/wiki/紫外線 "wikilink")，由美國研發並使用於所有美軍部隊，1981年服役至今。在美國和其他29個國家中。主要由[雷神飛彈系統公司製造](../Page/雷神公司.md "wikilink")，授權[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[EADS和](https://zh.wikipedia.org/wiki/歐洲航空防務與太空公司 "wikilink")[土耳其](../Page/土耳其.md "wikilink")的生產[導彈](https://zh.wikipedia.org/wiki/導彈 "wikilink")，已經生產超過70,000枚[導彈](https://zh.wikipedia.org/wiki/導彈 "wikilink")。經證實有270架[飛機和](https://zh.wikipedia.org/wiki/飛機 "wikilink")[直昇機被](https://zh.wikipedia.org/wiki/直昇機 "wikilink")[FIM-92刺針便攜式防空飛彈](../Page/FIM-92刺針便攜式防空飛彈.md "wikilink")擊落\[1\]。

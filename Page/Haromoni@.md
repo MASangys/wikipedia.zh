@@ -1,3 +1,6 @@
+> 本文内容由[Haromoni@](https://zh.wikipedia.org/wiki/Haromoni@)转换而来。
+
+
 **Haromoni@**（），是[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")（TV Tokyo）於2007年4月8日至2008年9月28日期間，逢星期日中午12時20分（日本時間）播放有關“[早安少女組。](../Page/早安少女組。.md "wikilink")”的電視節目，常被人簡稱為HM@。
 
 自2007年4月8日起，Hello\! Project專屬的綜藝節目“[Hello\! Morning](../Page/Hello!_Morning.md "wikilink")”改以新名稱“Haromoni@”（）推出，除每集播放時間由原本的一小時縮短至半小時外，節目亦變成“[早安少女組。](../Page/早安少女組。.md "wikilink")”的專有節目。以往Hello\! Morning分別由Hello\! Project所有成員出演，包括早安已畢業的前成員；新節目Haromoni@除了早安當時至現時的現役成員外，整個Hello\! Project就只有[辻希美](../Page/辻希美.md "wikilink")、[里田舞和](https://zh.wikipedia.org/wiki/里田舞 "wikilink")[小川麻琴三人曾出演過](https://zh.wikipedia.org/wiki/小川麻琴 "wikilink")。

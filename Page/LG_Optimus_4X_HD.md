@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus 4X HD](https://zh.wikipedia.org/wiki/LG_Optimus_4X_HD)转换而来。
+
+
 **LG Optimus 4X HD**是[樂喜金星集團於](https://zh.wikipedia.org/wiki/樂喜金星集團 "wikilink")2012年[全球移動通訊大會前發佈的](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，它是全球首部發佈的四核心手機，型號為P880，採用[Android 4.0系統](https://zh.wikipedia.org/wiki/Android_4.0 "wikilink")，其賣點是四核心處理器和高解析觸控，將於七月中,尾率先在歐洲上市\[1\]。
 
 ## 規格

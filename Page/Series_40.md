@@ -1,3 +1,6 @@
+> 本文内容由[Series 40](https://zh.wikipedia.org/wiki/Series_40)转换而来。
+
+
 **Series 40**和**Series 45**是[諾基亞和](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[威圖](../Page/威圖.md "wikilink")開發的[行動作業系統](../Page/行動作業系統.md "wikilink")，首次搭載於1999年發布的[諾基亞7110](../Page/諾基亞7110.md "wikilink")。
 
 ## 技術

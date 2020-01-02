@@ -1,3 +1,6 @@
+> 本文内容由[ExFAT](https://zh.wikipedia.org/wiki/ExFAT)转换而来。
+
+
 **exFAT**（**Extended File Allocation Table**），是一種[微軟公司](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")（Microsoft）開發的[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，最先從該公司的[Windows Embedded CE 6.0作業系統引入這種檔案系統](../Page/Windows_Embedded_CE_6.0.md "wikilink")，後又延伸到[Windows Vista](../Page/Windows_Vista.md "wikilink") Service Pack 1作業系統中\[1\]。由於[NTFS](../Page/NTFS.md "wikilink")檔案系統的一些資料格式規定所限，對[快閃記憶體而言exFAT顯得更具優勢](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，是一種較適合於快閃記憶體的檔案系統。
 
 ## 優點

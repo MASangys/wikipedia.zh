@@ -1,3 +1,6 @@
+> 本文内容由[AT\&T廣場](https://zh.wikipedia.org/wiki/AT\&T廣場)转换而来。
+
+
 **AT\&T广场**（**AT\&T Plaza**）是一个公众用地，并为[塑像](https://zh.wikipedia.org/wiki/塑像 "wikilink")[云门的所在地](https://zh.wikipedia.org/wiki/雲門_\(公共藝術\) "wikilink")。它位于用来庆祝第三个[千禧年的](https://zh.wikipedia.org/wiki/千禧年 "wikilink")[千禧公园](https://zh.wikipedia.org/wiki/千禧公园 "wikilink")，这公园则位于[美国](../Page/美国.md "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")[卢普区](../Page/卢普区.md "wikilink")的社区范围。云门和AT\&T广场有时会被共同称为「在AT\&T广场上的云门」。\[1\]
 
 在2004年，它和初次与公众见面的云门在公园的开幕周中开放。此外，[AT\&T](../Page/AT&T.md "wikilink")的前身阿默利泰克公司（Ameritech Corporation）和SBC通訊公司（SBC Communications Inc.）则为命名权支付了300万[美元](../Page/美元.md "wikilink")的费用。\[2\]\[3\] 这广场其后成为了在[圣诞假期瞭望麥考密克中心论坛广场和溜冰场的地方](https://zh.wikipedia.org/wiki/圣诞 "wikilink")。它是圣诞报佳音活动的所在点。\[4\]

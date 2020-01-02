@@ -1,3 +1,6 @@
+> 本文内容由[SQL Server Express](https://zh.wikipedia.org/wiki/SQL_Server_Express)转换而来。
+
+
 **Microsoft SQL Server Express**是[微软](../Page/微软.md "wikilink")公司所開發的[关系数据库](../Page/关系数据库.md "wikilink")產品[SQL Server的免費下載版本](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，可自由下載、分發（需經註冊）及使用。這個版本的設計是專門為[嵌入式系统](../Page/嵌入式系统.md "wikilink")或較小型的程式而設計。本產品可遡源至過往隨同SQL Server 2000軟件分發的[Microsoft Database Engine (MSDE)](https://zh.wikipedia.org/wiki/MSDE "wikilink")，用以讓程式開發者在其測試其程式時建立一個系統需求較低的測試環境。自SQL Server 2005開始，本產品改用現時的名稱。
 
 它繼承了多數的SQL Server功能與特性，像是[Transact-SQL](../Page/Transact-SQL.md "wikilink")、[SQL CLR等](../Page/SQL_CLR.md "wikilink")，相當適合使用在小型的網站，或者是小型的桌面型應用程式，它也可以和 SQL Server 整合，作為（Replication）的訂閱端。

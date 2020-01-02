@@ -1,3 +1,6 @@
+> 本文内容由[Comins试剂](https://zh.wikipedia.org/wiki/Comins试剂)转换而来。
+
+
 **Comins试剂**是一种[三氟甲磺酰化合物](https://zh.wikipedia.org/wiki/三氟甲磺酰基 "wikilink")，可用于从相应的酮烯醇式合成[三氟甲磺酸酯](../Page/三氟甲磺酸酯.md "wikilink")。 \[1\]
 
 [SampleReactionWithCominsReagent.png](https://zh.wikipedia.org/wiki/File:SampleReactionWithCominsReagent.png "fig:SampleReactionWithCominsReagent.png")

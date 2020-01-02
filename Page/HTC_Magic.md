@@ -1,3 +1,6 @@
+> 本文内容由[HTC Magic](https://zh.wikipedia.org/wiki/HTC_Magic)转换而来。
+
+
 <small>您还可以进入</small>HTCG2-Magic论坛<small>了解更多本机知识，与众多高手一起探讨</small>HTC G2为安卓系统第二款手机   ，研發代號**HTC Sapphire**，是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電公司所推出的採用](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[Google Android為作業系統的](https://zh.wikipedia.org/wiki/Google_Android "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。内置有多項Google服務，如Google地圖、街景服務、[Gmail](../Page/Gmail.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Android Market等](https://zh.wikipedia.org/wiki/Android_Market "wikilink")。於2009年2月17日發表。日本電信企業[NTT DoCoMo於](https://zh.wikipedia.org/wiki/NTT_DoCoMo "wikilink")2009年首次使用此款安卓手機型號。
 
 ## 技術規格

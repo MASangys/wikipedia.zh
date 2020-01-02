@@ -1,3 +1,6 @@
+> 本文内容由[AssaultCube](https://zh.wikipedia.org/wiki/AssaultCube)转换而来。
+
+
 **AssaultCube**（之前为*ActionCube*）是一个快节奏 [FPS](../Page/第一人称射击游戏.md "wikilink")，基于[Cube引擎](https://zh.wikipedia.org/wiki/Cube "wikilink")。主要游戏方式是[网络游戏](../Page/网络游戏.md "wikilink")。
 
 ## 历史

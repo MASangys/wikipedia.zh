@@ -1,3 +1,6 @@
+> 本文内容由[WIMP \(電腦\)](https://zh.wikipedia.org/wiki/WIMP_\(電腦\))转换而来。
+
+
 **WIMP**，是圖形界面電腦所採用的界面典範。在[人機互動領域之中最普遍的電腦互動界面](https://zh.wikipedia.org/wiki/人機互動 "wikilink")，WIMP堪稱無人能出其右，舉凡[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[MacOS](../Page/MacOS.md "wikilink")，甚至其它以[X Window系統為基礎的](../Page/X_Window系統.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，均採用WIMP此一界面典範。
 
 WIMP是由「[視窗](../Page/視窗.md "wikilink")」（Window）、「[圖標](https://zh.wikipedia.org/wiki/圖標 "wikilink")」（Icon）、「[選單](../Page/選單.md "wikilink")」（Menu）以及「[指標](https://zh.wikipedia.org/wiki/游標 "wikilink")」（Pointer）所組成的縮寫，其命名方式也指明了它所倚賴的四大互動元件。

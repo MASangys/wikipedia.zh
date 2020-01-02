@@ -1,3 +1,6 @@
+> 本文内容由[MAC-11衝鋒槍](https://zh.wikipedia.org/wiki/MAC-11衝鋒槍)转换而来。
+
+
 **MAC-11**（，意為：**軍事裝備公司11型**，簡稱：**M-11**）是一款由於1972年所設計、軍事裝備公司（Military Armament Corporation）、與其他少數工廠亦有生產的輕型[冲锋枪](../Page/冲锋枪.md "wikilink")（[衝鋒手槍](../Page/全自動手槍.md "wikilink")），使用[開放式槍栓](../Page/開放式槍栓.md "wikilink")，是[MAC-10的](../Page/MAC-10衝鋒槍.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 這款武器的設計經常令人與[Sylvia & Wayne Daniels M-11/9或是](https://zh.wikipedia.org/wiki/Sylvia_&_Wayne_Daniels_M-11/9 "wikilink")[Vulcan M-11-9混淆](https://zh.wikipedia.org/wiki/火神M-11-9手槍 "wikilink")，而且兩者都是使用[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子弹作其](https://zh.wikipedia.org/wiki/子弹 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。M-11/9是在MAC-11A1以後的設計，而且有很多相似之處，但卻是一款比較優秀的彷製品。\[1\]

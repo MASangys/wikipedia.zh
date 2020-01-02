@@ -1,3 +1,6 @@
+> 本文内容由[Hello World](https://zh.wikipedia.org/wiki/Hello_World)转换而来。
+
+
 [Hello_World\!_in_AutoIt\!_3.2_on_Windows_Vista.png](https://zh.wikipedia.org/wiki/File:Hello_World!_in_AutoIt!_3.2_on_Windows_Vista.png "fig:Hello_World!_in_AutoIt!_3.2_on_Windows_Vista.png")中的執行結果\]\] **Hello, World**是指在電腦螢幕顯示「Hello, World\!」（你好，世界！）字串的電腦程式。相關的程式通常都是每種電腦[編程語言最基本](https://zh.wikipedia.org/wiki/編程語言 "wikilink")、最簡單的程序，也會用作示範一個編程語言如何運作\[1\]。同時它亦可以用來確認一個編程語言的[編譯器](../Page/編譯器.md "wikilink")、程序開發環境及[運行環境是否已經安裝妥當](https://zh.wikipedia.org/wiki/運行環境 "wikilink")。因為寫法簡單可見，這也是很多初學者首次接觸程式語言時會撰寫的程序。
 
 ## 傳統用途

@@ -1,3 +1,6 @@
+> 本文内容由[MTV崩潰邊緣](https://zh.wikipedia.org/wiki/MTV崩潰邊緣)转换而来。
+
+
 《**MTV崩潰邊緣**》（*Boiling Points*）是美國MTV頻道所播出的[真人情境節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，主要是利用隱藏式攝影機，加上工作人員與整人者對無知路人的捉弄。只要被整者超過時間仍未發怒，即可獲得100[美金的獎勵](https://zh.wikipedia.org/wiki/美金 "wikilink")，可說是典型的整人節目。節目的口號，是「有耐心就有回報」。
 
 ## 節目標誌與名稱

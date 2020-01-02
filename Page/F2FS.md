@@ -1,3 +1,6 @@
+> 本文内容由[F2FS](https://zh.wikipedia.org/wiki/F2FS)转换而来。
+
+
 **F2FS**（）是一種[快閃記憶體檔案系統](../Page/快閃記憶體檔案系統.md "wikilink")，主要由[金載極](https://zh.wikipedia.org/wiki/金載極 "wikilink")（）在[三星集团研發](https://zh.wikipedia.org/wiki/三星集团 "wikilink")，适合[Linux内核](../Page/Linux内核.md "wikilink")使用\[1\]。
 
 此檔案系統起初是為了[NAND闪存的存储设备設計](../Page/闪存.md "wikilink")（诸如[固态硬盘](../Page/固态硬盘.md "wikilink")、[eMMC和](../Page/多媒體記憶卡.md "wikilink")[SD卡](../Page/SD卡.md "wikilink")），这些设备广泛存在于自[移动设备](../Page/移动设备.md "wikilink")至[服务器](../Page/服务器.md "wikilink")领域。

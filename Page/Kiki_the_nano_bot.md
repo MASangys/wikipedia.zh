@@ -1,3 +1,6 @@
+> 本文内容由[Kiki the nano bot](https://zh.wikipedia.org/wiki/Kiki_the_nano_bot)转换而来。
+
+
 **kiki the nano bot** 是一个[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，糅合[仓库番以及](https://zh.wikipedia.org/wiki/仓库番 "wikilink")[Kula World的游戏因素](https://zh.wikipedia.org/wiki/Kula_World "wikilink")。
 
 ## 主线

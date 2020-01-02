@@ -1,3 +1,6 @@
+> 本文内容由[ARTLAND](https://zh.wikipedia.org/wiki/ARTLAND)转换而来。
+
+
 **ARTLAND**（），是以動畫的企劃、製作為主要營業事項的日本企業。曾分拆成兩個公司，負責動畫企劃、製作的是**株式会社ANIMATION STUDIO ARTLAND**，而[Marvelous](../Page/Marvelous.md "wikilink")旗下**株式会社ARTLAND**則退居版權管理、後併入母公司。
 
 ## 沿革

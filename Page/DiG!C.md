@@ -1,3 +1,6 @@
+> 本文内容由[DiG!C](https://zh.wikipedia.org/wiki/DiG!C)转换而来。
+
+
 [DIGIC_III.JPG](https://zh.wikipedia.org/wiki/File:DIGIC_III.JPG "fig:DIGIC_III.JPG") **DIGIC**（），是[佳能](../Page/佳能.md "wikilink")公司为自己的[数码相机](../Page/数码相机.md "wikilink")以及[数码摄像机产品开发的专用数字影像处理器](https://zh.wikipedia.org/wiki/DV "wikilink")，具体还可以分为处理相片的**DIGIC**芯片和处理[DV影像的](https://zh.wikipedia.org/wiki/DV "wikilink")**DIGIC DV**芯片。
 
 在广告中和芯片上，DIGIC常出现为 **DiG\!C** 。

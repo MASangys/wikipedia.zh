@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE ROMANCE DAWN STORY](https://zh.wikipedia.org/wiki/ONE_PIECE_ROMANCE_DAWN_STORY)转换而来。
+
+
 《**ONE PIECE ROMANCE DAWN STORY**》是於2008年在[Jump Festa上映的](../Page/Jump_Festa.md "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[OVA動畫動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")，為集英社週刊少年JUMP創刊四十週年紀念動畫作品。
 
 ## 概述

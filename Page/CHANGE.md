@@ -1,3 +1,6 @@
+> 本文内容由[CHANGE](https://zh.wikipedia.org/wiki/CHANGE)转换而来。
+
+
 [Miles Away](https://zh.wikipedia.org/wiki/Miles_Away "wikilink"){{〉}} | 拍攝地 =  | 執行製片 = | 製片人 = 後藤博幸、清水一幸 | 國家 =  | 語言 = [日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | 頻道 = [富士電視台](../Page/富士電視台.md "wikilink") | 播出國家 =  | 開始 = 2008年5月12日 | 結束 = 2008年7月14日 | 集數 = 10 | 官方網站 = <https://web.archive.org/web/20101005231007/http://wwwz.fujitv.co.jp/change/> | imdb_id = | tv_com_id = }}
 
 《**CHANGE**》是自2008年5月12日起至2008年7月14日，由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")[及其聯播網於每星期一](https://zh.wikipedia.org/wiki/FNS "wikilink")21:00-21:54（日本時間）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[木村拓哉](../Page/木村拓哉.md "wikilink")、[深津繪里](../Page/深津繪里.md "wikilink")、[阿部寬](../Page/阿部寬.md "wikilink")、[加藤羅莎](../Page/加藤羅莎.md "wikilink")等人主演。首回的播放時間延長30分鐘到22:24。

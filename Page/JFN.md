@@ -1,3 +1,6 @@
+> 本文内容由[JFN](https://zh.wikipedia.org/wiki/JFN)转换而来。
+
+
 **全國FM放送協議會**（；）是[日本](../Page/日本.md "wikilink")的[廣播聯播網之一](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，通稱**JAPAN FM NETWORK**，簡稱**JFN**。由[FM東京](../Page/FM東京.md "wikilink")、、、等4家日本最早開業的[民營](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[FM](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[廣播電台於](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")1981年5月組成，現有38家加盟台，其中[核心局](../Page/核心局.md "wikilink")為FM東京。
 
 ## 加盟台

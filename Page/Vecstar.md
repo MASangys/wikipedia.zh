@@ -1,3 +1,6 @@
+> 本文内容由[Vecstar](https://zh.wikipedia.org/wiki/Vecstar)转换而来。
+
+
 Suzuki Vecstar，由日本[铃木株式会社生产和销售的](https://zh.wikipedia.org/wiki/铃木株式会社 "wikilink")[踏板式](https://zh.wikipedia.org/wiki/速克达 "wikilink")[摩托车](https://zh.wikipedia.org/wiki/摩托车 "wikilink")。
 
 ## 概要

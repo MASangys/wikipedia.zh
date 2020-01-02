@@ -1,3 +1,6 @@
+> 本文内容由[流星戰隊Musumet](https://zh.wikipedia.org/wiki/流星戰隊Musumet)转换而来。
+
+
 《**流星戰隊Musumet**》（）為日本2004年10月至12月播放的[獨立UHF電視台](https://zh.wikipedia.org/wiki/獨立UHF電視台 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，全13話。原作為《[Megami MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》自2004年1月號起連載的讀者參加企劃「**Musumet RGB**」。
 
 本作是最後一部「萌系作品」。在本作結束後，該公司便從[萌](../Page/萌.md "wikilink")系事業退出。

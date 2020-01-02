@@ -1,3 +1,6 @@
+> 本文内容由[CB](https://zh.wikipedia.org/wiki/CB)转换而来。
+
+
 **CB**可能指：
 
 ## 商业

@@ -1,3 +1,6 @@
+> 本文内容由[The Hennessy](https://zh.wikipedia.org/wiki/The_Hennessy)转换而来。
+
+
 __NOINDEX__
 <small>請參考[刪除指導以獲取更多資料](https://zh.wikipedia.org/wiki/維基百科:刪除指導 "wikilink")。</small> }}{{\#ifeq:x|x||{{\#if:||}}}}  [The_Hennessy_Podium_Garden_2013.jpg](https://zh.wikipedia.org/wiki/File:The_Hennessy_Podium_Garden_2013.jpg "fig:The_Hennessy_Podium_Garden_2013.jpg")
 

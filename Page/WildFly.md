@@ -1,3 +1,6 @@
+> 本文内容由[WildFly](https://zh.wikipedia.org/wiki/WildFly)转换而来。
+
+
 **WildFly**，原名**JBoss AS**或者**JBoss**，是一套[应用程序服务器](https://zh.wikipedia.org/wiki/应用程序服务器 "wikilink")，属于[开源的企业级](../Page/开源软件.md "wikilink")[Java](../Page/Java.md "wikilink")[中间件](../Page/中间件.md "wikilink")软件，用于实现基于[SOA架构的web应用和服务](https://zh.wikipedia.org/wiki/SOA "wikilink")。
 
 WildFly包含一组可独立运行的软件。

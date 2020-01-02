@@ -1,3 +1,6 @@
+> 本文内容由[梅赛德斯-奔驰CLA级](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰CLA级)转换而来。
+
+
 [Mercedes-Benz_CLA_220_CDI_Front.JPG](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_CLA_220_CDI_Front.JPG "fig:Mercedes-Benz_CLA_220_CDI_Front.JPG") [Paris_Motor_Show_2012_(8065320289).jpg](https://zh.wikipedia.org/wiki/File:Paris_Motor_Show_2012_\(8065320289\).jpg "fig:Paris_Motor_Show_2012_(8065320289).jpg")
 
 **梅赛德斯-奔驰CLA级**是[梅賽德斯-賓士](../Page/梅賽德斯-賓士.md "wikilink")於2013年1月[底特律車展](../Page/底特律車展.md "wikilink")發表的新車種。\[1\]建基於[梅赛德斯-奔驰A级](../Page/梅赛德斯-奔驰A级.md "wikilink")和[B级的底盤之上](../Page/梅赛德斯-奔驰B级.md "wikilink")，CLA级是4門的轎跑車，車尾及車身仿傚[CLS级的傾斜設計](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰CLS级 "wikilink")，因此也有人稱CLS是CLA的老大哥\[2\]。

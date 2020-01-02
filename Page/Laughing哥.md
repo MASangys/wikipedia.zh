@@ -1,3 +1,6 @@
+> 本文内容由[Laughing哥](https://zh.wikipedia.org/wiki/Laughing哥)转换而来。
+
+
 **梁笑棠**，綽號「**Laughing哥**」、「**Laughing**」、「**Laughing Gor**」、「**Laughing Sir**」，是 2009年香港[無綫電視連續劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[學警狙擊](../Page/學警狙擊.md "wikilink")》及2011年連續劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》內的角色，由[香港](../Page/香港.md "wikilink")[男演員](../Page/演員.md "wikilink")[謝天華](../Page/謝天華.md "wikilink")飾演\[1\]。他在劇中的真實身份為[警方](https://zh.wikipedia.org/wiki/香港警察 "wikilink")[臥底](https://zh.wikipedia.org/wiki/臥底 "wikilink")（警隊編號：**SSGT66715**），在《[學警狙擊](../Page/學警狙擊.md "wikilink")》中受命潛伏入[黑社會](../Page/黑社會.md "wikilink")[社團](https://zh.wikipedia.org/wiki/社會團體 "wikilink")「進興」的高階層\[2\]，並在2011年香港[無綫電視連續劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》中受命潛伏入黑社會社團「義豐」的高階層。
 
 《[學警狙擊](../Page/學警狙擊.md "wikilink")》於香港播放期間，“Laughing哥”的角色廣受關注。2009年3月18日第二十二集\[3\]，該角色於劇中[殉職](../Page/殉職.md "wikilink")，使之成為熱門話題\[4\]。由於其角色大受歡迎，無綫電視補拍結局，交代本應殉職的角色去向，並且決定開拍以其為主角的[衍生電視劇及電影](../Page/衍生作品.md "wikilink")，包括2009年電影《[Laughing Gor之變節](../Page/Laughing_Gor之變節.md "wikilink")》、2011年電視劇《[潛行狙擊](../Page/潛行狙擊.md "wikilink")》及2011年電影《[Laughing Gor之潛罪犯](../Page/Laughing_Gor之潛罪犯.md "wikilink")》。

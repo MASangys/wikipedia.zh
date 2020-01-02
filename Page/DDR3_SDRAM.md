@@ -1,3 +1,6 @@
+> 本文内容由[DDR3 SDRAM](https://zh.wikipedia.org/wiki/DDR3_SDRAM)转换而来。
+
+
 **第三代雙倍資料率同步動態隨機存取記憶體**（Double-Data-Rate Three Synchronous Dynamic Random Access Memory，一般稱為DDR3 SDRAM），是一種電腦[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM](../Page/SDRAM.md "wikilink")家族的記憶體產品，提供相較於[DDR2 SDRAM更高的運行效能與更低的電壓](../Page/DDR2_SDRAM.md "wikilink")，是DDR2 SDRAM（四倍資料率同步動態隨機存取記憶體）的後繼者（增加至八倍）。
 
 ## DDR3 SDRAM技術概論

@@ -1,3 +1,6 @@
+> 本文内容由[Ben 10 外星英雄](https://zh.wikipedia.org/wiki/Ben_10_外星英雄)转换而来。
+
+
 **Ben 10 外星英雄**（英文：Ben 10 Alien Force）為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[時代華納公司旗下](https://zh.wikipedia.org/wiki/時代華納 "wikilink")[Cartoon Network Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")2008年推出之[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，是[Ben 10系列主劇情的第二套系列作](../Page/Ben_10系列.md "wikilink")。中国大陆由[广东广播电视台](../Page/广东广播电视台.md "wikilink")[嘉佳卡通卫视播出](https://zh.wikipedia.org/wiki/嘉佳卡通 "wikilink")。\[1\]
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[C·道格拉斯·狄龙](https://zh.wikipedia.org/wiki/C·道格拉斯·狄龙)转换而来。
+
+
 **克拉伦斯·道格拉斯·狄龙**（**Clarence Douglas Dillon**，1909年8月21日 - 2003年1月10日），[美国](../Page/美国.md "wikilink")金融家、外交家、政治家，[美国共和党人](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")，曾任[美国驻法国大使](https://zh.wikipedia.org/wiki/美国驻法国大使 "wikilink")（1953年-1957年）和[美国财政部长](../Page/美国财政部长.md "wikilink")（1961年-1965年）。
 
 ## 生平

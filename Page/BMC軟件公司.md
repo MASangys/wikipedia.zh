@@ -1,3 +1,6 @@
+> 本文内容由[BMC軟件公司](https://zh.wikipedia.org/wiki/BMC軟件公司)转换而来。
+
+
 **BMC Software, Inc.**，是一家美国[企业管理软件提供商](https://zh.wikipedia.org/wiki/企业战略管理 "wikilink")，致力于IT基础设施应用软件。BMC创建于1980年，总部在[得克萨斯的](https://zh.wikipedia.org/wiki/得克萨斯 "wikilink")[休斯顿](https://zh.wikipedia.org/wiki/休斯顿 "wikilink")。
 
 BMC自称为业务服务管理（[BSM](https://zh.wikipedia.org/wiki/BSM "wikilink")）概念的先导者，企业通过BSM提供软件解决方案，从而可以使企业从业务视角管理他们的IT基础设施。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[亚历山大·J·达拉斯](https://zh.wikipedia.org/wiki/亚历山大·J·达拉斯)转换而来。
+
+
 **亚历山大·詹姆斯·达拉斯**（**Alexander James Dallas**，1759年6月21日 - 1817年1月16日），[美国](../Page/美国.md "wikilink")政治家，[美国民主-共和党成员](https://zh.wikipedia.org/wiki/美国民主-共和党 "wikilink")，曾任[美国财政部长](../Page/美国财政部长.md "wikilink")（1814年-1816年）。
 
 ## 外部链接

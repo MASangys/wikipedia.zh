@@ -1,3 +1,6 @@
+> 本文内容由[Chirp-Z轉換](https://zh.wikipedia.org/wiki/Chirp-Z轉換)转换而来。
+
+
 **啁啾-Z轉換**（Chirp-Z transform）為[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的一般化，是一種適合於計算當**取樣頻率間隔**（**sampling frequency interval**）與**取樣時間間隔**（**sampling time interval**）乘積的倒數**不等於**[信號的時頻分佈面積時的](https://zh.wikipedia.org/wiki/信號 "wikilink")**演算法**，其為利用[卷积](../Page/卷积.md "wikilink")來實現任意大小的[離散傅立葉變換](https://zh.wikipedia.org/wiki/離散傅立葉變換 "wikilink")（DFT）的[快速傅立葉變換演算法](https://zh.wikipedia.org/wiki/快速傅立葉變換 "wikilink")。
 
 具體來說，啁啾-Z轉換沿著對數螺旋輪廓，計算出有限數量的點 z<sub>k</sub> 的Z轉換，其定義如下：

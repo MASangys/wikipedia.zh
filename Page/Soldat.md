@@ -1,3 +1,6 @@
+> 本文内容由[Soldat](https://zh.wikipedia.org/wiki/Soldat)转换而来。
+
+
 （[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")“軍人、勇士”）是[波兰人](https://zh.wikipedia.org/wiki/波兰 "wikilink")在16歲時設計之多人[橫向捲軸射擊遊戲](https://zh.wikipedia.org/wiki/捲軸射擊遊戲 "wikilink")，受[liero](https://zh.wikipedia.org/wiki/liero "wikilink")、[Scorched Earth啟發](https://zh.wikipedia.org/wiki/Scorched_Earth "wikilink")，結合[Counter-Strike和](https://zh.wikipedia.org/wiki/Counter-Strike "wikilink")[百战天虫一些特徵](https://zh.wikipedia.org/wiki/百战天虫 "wikilink")。支持更改圖片、武器數值或是設計地圖。
 
 ## 遊戲戰鬥模式

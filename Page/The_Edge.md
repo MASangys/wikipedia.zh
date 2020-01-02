@@ -1,3 +1,6 @@
+> 本文内容由[The Edge](https://zh.wikipedia.org/wiki/The_Edge)转换而来。
+
+
 **大衛·荷威·伊凡斯** (****，)，較為知名的是他的藝名**The Edge**，出生於[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[愛爾蘭人](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")，愛爾蘭樂團[U2的主](../Page/U2樂團.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，但也會兼任[和聲](../Page/和聲歌手.md "wikilink")、鍵盤手、副[貝斯吉他手](https://zh.wikipedia.org/wiki/貝斯吉他 "wikilink")。他招牌的多樣電吉他聲－尤其是Delay（延音）的使用－已經成為U2著名的特色。2003年,在[滾石雜誌評選的史上](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")[一百大吉他手列為第](../Page/滾石雜誌一百大吉他手.md "wikilink")24名 \[1\] ，2011年，[滾石雜誌一百大吉他手](../Page/滾石雜誌一百大吉他手.md "wikilink")列為第38名 \[2\]。
 
 ## 生平

@@ -1,3 +1,6 @@
+> 本文内容由[Tcl](https://zh.wikipedia.org/wiki/Tcl)转换而来。
+
+
 **Tcl**（发音tickle）是一种[脚本语言](../Page/脚本语言.md "wikilink")。由创建。TCL经常被用于快速原型开发 [RAD](../Page/快速應用程式開發.md "wikilink")、脚本编程、GUI编程和测试等方面。
 
 ## 特性

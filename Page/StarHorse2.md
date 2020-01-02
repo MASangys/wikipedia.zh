@@ -1,3 +1,6 @@
+> 本文内容由[StarHorse2](https://zh.wikipedia.org/wiki/StarHorse2)转换而来。
+
+
 **STARHORSE2**是[世嘉](../Page/世嘉.md "wikilink")開發的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲，是[STARHORSE第五代至第七代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。第一版本NEW GENERATION在2005年發行。第二版SECOND FUSION在2006年10月發行。第三版本THIRD EVOLUTION在2007年11月4日發行。此遊戲獲得2005年Good Design賞商品部門設計獎\[1\]。目前為止THIRD EVOLUTION是STARHORSE系列第七套作品。
 
 ## 玩法

@@ -1,3 +1,6 @@
+> 本文内容由[RealD 戲院](https://zh.wikipedia.org/wiki/RealD_戲院)转换而来。
+
+
 **RealD 影院**是一個數碼[立體投影技術並由](https://zh.wikipedia.org/wiki/立體投影 "wikilink")[RealD公司銷售](https://zh.wikipedia.org/wiki/RealD公司 "wikilink")，是目前最廣泛使用的適用於電影院的3D電影技術。\[1\]
 
 ## 技術

@@ -1,3 +1,6 @@
+> 本文内容由[Warsow](https://zh.wikipedia.org/wiki/Warsow)转换而来。
+
+
 《**Warsow**》是一款免费[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")，其第一版（v0.04a）于2005年6月8日发布。游戏由一群[自由职业](https://zh.wikipedia.org/wiki/自由职业 "wikilink")[软件开发者和](https://zh.wikipedia.org/wiki/软件开发者 "wikilink")[艺术家制作](https://zh.wikipedia.org/wiki/艺术家 "wikilink")，他们以开发中高质量高标准的内部测试自豪。\[1\]《Warsow》是混合授权软件，其引擎为改自[id Tech 2的](https://zh.wikipedia.org/wiki/id_Tech_2 "wikilink")[Qfusion引擎](https://zh.wikipedia.org/wiki/Qfusion "wikilink")，以GPL发布；而图像音乐等各种多媒体资源则皆以[私有的](../Page/专有软件.md "wikilink")*Warsow Content License*发布，即在允许贡献者把自己的作品进入“personal portfolio”的同时禁止将之用于其他游戏\[2\]。
 
 ## 竞赛

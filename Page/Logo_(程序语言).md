@@ -1,3 +1,6 @@
+> 本文内容由[Logo \(程序语言\)](https://zh.wikipedia.org/wiki/Logo_\(程序语言\))转换而来。
+
+
 [Remi_turtlegrafik.png](https://zh.wikipedia.org/wiki/File:Remi_turtlegrafik.png "fig:Remi_turtlegrafik.png")
 
 **Logo**是一种计算机[程式设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，在1966年由[西摩爾·派普特](../Page/西摩爾·派普特.md "wikilink")和Wally Feurzeig设计，设计Logo的初衷是为了向儿童教授[计算机编程技能](https://zh.wikipedia.org/wiki/计算机编程 "wikilink")。Logo一词源自希腊语[邏各斯](../Page/邏各斯.md "wikilink")（logos）。

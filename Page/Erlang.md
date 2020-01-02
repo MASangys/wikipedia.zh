@@ -1,3 +1,6 @@
+> 本文内容由[Erlang](https://zh.wikipedia.org/wiki/Erlang)转换而来。
+
+
 [LYME_software_bundle.svg](https://zh.wikipedia.org/wiki/File:LYME_software_bundle.svg "fig:LYME_software_bundle.svg")''' is **Erlang**-based\]\]
 
 **Erlang**（）是一種通用的-{zh-hans:并发;zh-hant:平行導向;}--{zh-hans:[程序设计语言](../Page/编程语言.md "wikilink");zh-hant:[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink");}-，它由[喬·阿姆斯特朗](../Page/喬·阿姆斯特朗.md "wikilink")（Joe Armstrong）在[瑞典](../Page/瑞典.md "wikilink")電信設備製造商[愛立信](../Page/愛立信.md "wikilink")所轄的電腦科學研究室開發，目的是創造一種可以應付大規模并發活動的-{zh-hans:[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink");zh-hant:[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink");}-和[執行環境](https://zh.wikipedia.org/wiki/執行環境 "wikilink")。Erlang於1987年釋出正式版本，最早是愛立信擁有的私有軟體，經過十年的發展，於1998年發表[開放源碼版本](https://zh.wikipedia.org/wiki/開放源代碼 "wikilink")。

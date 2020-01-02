@@ -1,3 +1,6 @@
+> 本文内容由[蛇夫座RS](https://zh.wikipedia.org/wiki/蛇夫座RS)转换而来。
+
+
 **蛇夫座RS**（*RS Oph*）是在[蛇夫座](../Page/蛇夫座.md "wikilink")距離地球大約5,000光年的一顆[新星](../Page/新星.md "wikilink")，它在寧靜階段的[視星等大約](https://zh.wikipedia.org/wiki/視星等 "wikilink")12.5等，曾在1898年、1933年、1958年、1967年、1985、2006年爆發，平均亮度達到5等。大約每20年，從紅巨星吸積在白矮星的材料就足以在表面產生[熱核爆炸](https://zh.wikipedia.org/wiki/熱核爆炸 "wikilink")。白矮星在紅巨星擴張的大氣層內循著軌道運行，以[吸積盤集聚紅巨星的大氣至白矮星](https://zh.wikipedia.org/wiki/吸積盤 "wikilink")。
 
 ## 新星

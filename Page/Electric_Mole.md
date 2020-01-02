@@ -1,3 +1,6 @@
+> 本文内容由[Electric Mole](https://zh.wikipedia.org/wiki/Electric_Mole)转换而来。
+
+
 《**Electric Mole**》（）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")的第八張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2003年12月17日發行。發行當週即賣出3.0萬張，總計銷售量5.2萬張，名列2003年年度銷售榜第27位。初回限定為「精裝硬皮書本」，內容是介紹林檎歷年來的作品及演唱會記錄寫真等，據說台灣只有200份的配額，造成歌迷瘋狂的搶購。
 
 ## 簡介

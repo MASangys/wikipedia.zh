@@ -1,3 +1,6 @@
+> 本文内容由[Xbox \(遊戲機\)](https://zh.wikipedia.org/wiki/Xbox_\(遊戲機\))转换而来。
+
+
 **Xbox**是由[微软](../Page/微软.md "wikilink")所開發\[1\]、销售的家用[遊戲主機](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")。是[Xbox](../Page/Xbox.md "wikilink")系列品牌的首个产品。游戏机首先于2001年11月15日在北美发行，之后于2002年在澳大利亚、欧洲和日本发行。这是微软首次进军游戏机市场。在遊戲市場，同世代销售的主机还有[索尼](../Page/索尼.md "wikilink")公司的[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")公司的[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")，而Xbox的性能在同世代主機中最為強大。
 
 ## 历史

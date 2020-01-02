@@ -1,3 +1,6 @@
+> 本文内容由[Moments \(專輯\)](https://zh.wikipedia.org/wiki/Moments_\(專輯\))转换而来。
+
+
 **Moments**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[古巨基](../Page/古巨基.md "wikilink")於2007年8月推出的個人[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。古巨基為製作此專輯，而到世界各地感受當地風情，配合專輯的主題。
 
 ## 簡介

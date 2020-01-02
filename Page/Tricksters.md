@@ -1,3 +1,6 @@
+> 本文内容由[Tricksters](https://zh.wikipedia.org/wiki/Tricksters)转换而来。
+
+
 《**tricksters魔學詭術士**》（）是由[久住四季所撰寫的](https://zh.wikipedia.org/wiki/久住四季 "wikilink")[輕小說](../Page/輕小說.md "wikilink")。在[電擊文庫](../Page/電擊文庫.md "wikilink")上出版，由繪製插畫。
 
 ## 故事簡介

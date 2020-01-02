@@ -1,3 +1,6 @@
+> 本文内容由[PHPWind](https://zh.wikipedia.org/wiki/PHPWind)转换而来。
+
+
 {{ infobox software | name = PHPWind | logo = | screenshot = | caption = | developer = 杭州德天信息技术有限公司 | latest_release_version = 9.0.2 | latest_release_date = 2017年4月26日 | latest_preview_version = | latest_preview_date = | operating_system = [PHP](../Page/PHP.md "wikilink") / [MySQL](../Page/MySQL.md "wikilink") | genre = 論壇程序 | license = | website = <http://www.phpwind.com/> }}
 
 **PHPWind**（简称：PW）是一个基于[PHP](../Page/PHP.md "wikilink")和[MySQL](../Page/MySQL.md "wikilink")的[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。它是由德天公司进行主持开发的[论坛](https://zh.wikipedia.org/wiki/论坛 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")，其前身为[ofstar](https://zh.wikipedia.org/wiki/ofstar "wikilink")。\[1\]

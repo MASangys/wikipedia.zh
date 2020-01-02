@@ -1,3 +1,6 @@
+> 本文内容由[Autodesk传媒娱乐部](https://zh.wikipedia.org/wiki/Autodesk传媒娱乐部)转换而来。
+
+
 **Autodesk传媒娱乐部**前身是**Discreet**，位于魁北克省蒙特利尔，作为[Autodesk](../Page/Autodesk.md "wikilink")的娱乐部门。此部门制作以电影、电视广告和互动游戏为目标的软件。它也提供产品存储、管理和分发以补充其主产品线。
 
 ## 历史

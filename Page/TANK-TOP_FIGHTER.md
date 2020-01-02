@@ -1,3 +1,6 @@
+> 本文内容由[TANK-TOP FIGHTER](https://zh.wikipedia.org/wiki/TANK-TOP_FIGHTER)转换而来。
+
+
 《**TANK-TOP FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰士**）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")及[MBS電視台於日本](../Page/MBS电视台.md "wikilink")[2013年4月](../Page/2013年4月.md "wikilink")開始播放的，主角是由歌手兼演員之[小野惠令奈](../Page/小野惠令奈.md "wikilink")所飾演的西木果衣。編劇為山岡潤平及守口悠介等人。
 
 [廣告標語](../Page/廣告標語.md "wikilink")為「戦わなければ、私じゃない」（意為：不戰鬥的話，就不是我）

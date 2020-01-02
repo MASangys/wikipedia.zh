@@ -1,3 +1,6 @@
+> 本文内容由[Q大道](https://zh.wikipedia.org/wiki/Q大道)转换而来。
+
+
 **Q大道**（**Avenue Q**）這齣[音樂劇](../Page/音樂劇.md "wikilink")首演於在2003年的外[百老匯](../Page/百老匯.md "wikilink")Vineyard戲院，由[勞勃洛培茲與](../Page/罗伯特·洛佩兹.md "wikilink")作詞作曲，以及編劇。上演之後立即贏得了熱烈的喝采，檔期更是先後數度延長。稍後於2003年7月份登上了百老匯John Golden戲院的舞台，造成了更大的轟動，於2004年的[東尼獎獲得包括最佳音樂劇](https://zh.wikipedia.org/wiki/東尼獎 "wikilink")、劇本、詞曲、男女主角等六項提名，最後風光的奪下了最佳音樂劇、最佳音樂劇編劇和最佳音樂劇詞曲等三項大獎。直到今天，仍然在[紐約百老匯](https://zh.wikipedia.org/wiki/紐約 "wikilink")，以及[倫敦西區戲院長期演出](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。Q大道的中文普通話版於2015年2月6日在中國上海首演，由於反應熱烈，更加開免費公益演出2場。
 
 ## 背景

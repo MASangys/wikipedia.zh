@@ -1,3 +1,6 @@
+> 本文内容由[PC-FX](https://zh.wikipedia.org/wiki/PC-FX)转换而来。
+
+
 **PC-FX**是[日本電氣](../Page/日本電氣.md "wikilink")（NEC）的[子公司](../Page/子公司.md "wikilink")「[NEC Home Electronics](https://zh.wikipedia.org/wiki/NEC "wikilink")」（，簡稱NEC HE）在1994年12月推出的[32位元](../Page/32位元.md "wikilink")家庭用[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")，名義上是[PC Engine的後繼機種](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，同時也是NEC HE最後一部遊戲主機。隨著NEC集團的改組，NEC HE已於2000年3月31日結束營業、2002年2月完成清算並解散，也意味NEC全面撤出電玩遊戲市場。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[IPhone女孩](https://zh.wikipedia.org/wiki/IPhone女孩)转换而来。
+
+
 **手机女孩**（又名**iPhone女孩**，）是[富士康在中国深圳工厂生产](https://zh.wikipedia.org/wiki/富士康 "wikilink")[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iPhone 3G手机的员工](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")。这个女孩出名是因为MacRumors论坛一个用户名为markm49uk的会员发布有关这个女孩的照片。\[1\]markm49uk来自[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[赫尔河畔金斯顿](https://zh.wikipedia.org/wiki/赫尔河畔金斯顿 "wikilink")，他发现他从手机仓库（Carphone Warehouse）买的由富士康深圳工厂生产的一部iphone手机中有这个女孩的很多照片。2008年8月20日，他把这些照片发布到论坛上，数小时内这些图片在全球传开了。
 
 ## 不断增长的关注

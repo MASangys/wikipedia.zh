@@ -1,3 +1,6 @@
+> 本文内容由[DoJa](https://zh.wikipedia.org/wiki/DoJa)转换而来。
+
+
 **DoJa**是DoCoMo的i-mode手機的Java環境。DoJa是基於Java ME的CLDC的API定義在Java社區進程（JCP）。
 
 ## 發佈歷史

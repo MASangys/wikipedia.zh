@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch Pro](https://zh.wikipedia.org/wiki/HTC_Touch_Pro)转换而来。
+
+
 **HTC Touch Pro**，產品代號**Raphael**，是台灣[宏達電公司所推出的旗艦級](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6.1，是一種具有3D立體觸控介面（[TouchFLO](../Page/TouchFLO.md "wikilink")）的手機。2008年6月4日於英國倫敦首度發表，8月12日於英國正式發售，目前是宏達電Touch家族旗下的最高端型號。
 
 HTC Touch Pro具有鑽石切割風格的外觀（亦設計有類似[P3702的圓潤外形](../Page/HTC_Touch_Diamond.md "wikilink")，代號[Herman](https://zh.wikipedia.org/wiki/HTC_Herman "wikilink")），不同之處在於HTC Touch Pro配備了QWERTY鍵盤，RAM增至288MB，沒有内建快閃記憶體。

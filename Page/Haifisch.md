@@ -1,3 +1,6 @@
+> 本文内容由[Haifisch](https://zh.wikipedia.org/wiki/Haifisch)转换而来。
+
+
 "**Haifisch**"（德译：鲨鱼）是Rammstein的一首单曲，收录于专辑[Liebe ist für alle da中](../Page/Liebe_ist_für_alle_da.md "wikilink")，在MV公布之前，Rammstein的官网上出现了关于这首歌的话:“鲨鱼不仅有利齿——他也有眼泪，但由于生活在海水中，没人能看到。可惜的是，毕竟，这[软骨鱼类是世界上许多人误解的最古老的生物之一](https://zh.wikipedia.org/wiki/软骨鱼类 "wikilink")，多一点同情也并无大碍！”
 
 ## MV

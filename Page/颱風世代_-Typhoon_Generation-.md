@@ -1,3 +1,6 @@
+> 本文内容由[颱風世代 -Typhoon Generation-](https://zh.wikipedia.org/wiki/颱風世代_-Typhoon_Generation-)转换而来。
+
+
 《**颱風世代 -Typhoon Generation-**》（****）是[嵐](../Page/嵐.md "wikilink")的第三枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2000年7月12日發行。唱片公司為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 解說

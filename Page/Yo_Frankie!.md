@@ -1,3 +1,6 @@
+> 本文内容由[Yo Frankie!](https://zh.wikipedia.org/wiki/Yo_Frankie!)转换而来。
+
+
 **鼯鼠弗兰基**（，代号 **Apricot**）是一个[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，由Blender Institute（是[Blender Foundation的一部分](https://zh.wikipedia.org/wiki/Blender_Foundation "wikilink")）领导开发，原计划于2008年8月放出\[1\]，但推迟了3个月，又到同年12月公布了[SVN地址](../Page/Subversion.md "wikilink")，提供下载（http和P2P）。角色主要来源于[Big Buck Bunny](../Page/Big_Buck_Bunny.md "wikilink")。作为一个[自由软件](../Page/自由软件.md "wikilink")，它使用了Blender和Crystal Space两种引擎，但后者不支持Mac OS X。\[2\]2009年2月，开发组通过公开一项有奖励的关卡创作竞赛，使得**Apricot**获得3个新关卡。\[3\]
 
 ## 游戏特性

@@ -1,3 +1,6 @@
+> 本文内容由[Infinity Ward](https://zh.wikipedia.org/wiki/Infinity_Ward)转换而来。
+
+
 **Infinity Ward**（簡稱**IW**）是一家[電子遊戲和](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[電腦遊戲的開發商](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，位於[加利福尼亞州的](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。Infinity Ward成立於2002年，由原本是開發《[榮譽勳章：聯合襲擊](https://zh.wikipedia.org/wiki/榮譽勳章：聯合襲擊 "wikilink")》（Medal of Honor: Allied Assault）的開發商[2015公司的員工組成](https://zh.wikipedia.org/wiki/2015公司 "wikilink")。2003年，[美國動視](https://zh.wikipedia.org/wiki/美國動視 "wikilink")（Activision）公司成功收購了IW，成為了美國動視的子公司。其代表作為[決勝時刻系列](../Page/決勝時刻系列.md "wikilink")。
 
 2014年5月3日，动视宣布旗下另一工作室[Neversoft](../Page/Neversoft.md "wikilink")将被并入IW，该合并于同年7月10日完成。\[1\]

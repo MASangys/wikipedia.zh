@@ -1,3 +1,6 @@
+> 本文内容由[VimIM](https://zh.wikipedia.org/wiki/VimIM)转换而来。
+
+
 **VimIM** 是[Vim](../Page/Vim.md "wikilink")的一个[插件](../Page/插件.md "wikilink")，可作为[Vim](../Page/Vim.md "wikilink")内嵌[中文输入法](../Page/中文输入法.md "wikilink")。
 
 ## VimIM 历史

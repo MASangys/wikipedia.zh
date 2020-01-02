@@ -1,3 +1,6 @@
+> 本文内容由[YOUNG KING OURs](https://zh.wikipedia.org/wiki/YOUNG_KING_OURs)转换而来。
+
+
 《**YOUNG KING OURs**》（）是[少年畫報社](../Page/少年畫報社.md "wikilink")發行的[青年向](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。定價500日圓，毎月30日發售。自1993年開始發行，創刊當初原本是《Young King》的別冊。1997年起發行步調幾成月刊，於1998年7月號（第40號）開始成為獨立的月刊雜誌。另外有姊妹誌《》、增刊號《》，但現在皆已休刊。
 
 ## 現在連載中作品

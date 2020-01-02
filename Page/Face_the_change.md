@@ -1,3 +1,6 @@
+> 本文内容由[Face the change](https://zh.wikipedia.org/wiki/Face_the_change)转换而来。
+
+
 《**Face the change**》是日本樂隊[Every Little Thing的第](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")7張單曲。
 
 ## 解説

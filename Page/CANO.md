@@ -1,3 +1,6 @@
+> 本文内容由[CANO](https://zh.wikipedia.org/wiki/CANO)转换而来。
+
+
 ****是[加拿大](../Page/加拿大.md "wikilink")1970和1980年代里的一个[前卫摇滚乐团](https://zh.wikipedia.org/wiki/前卫摇滚 "wikilink")，是[安大略法语人口中在国际上最著名和最成功的乐团](https://zh.wikipedia.org/wiki/安大略 "wikilink")。
 
 ## 来源

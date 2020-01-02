@@ -1,3 +1,6 @@
+> 本文内容由[7頻道 HD](https://zh.wikipedia.org/wiki/7頻道_HD)转换而来。
+
+
 **7頻道 HD**（全名：**曼谷廣播電視台第7頻道**；；，簡稱「」），總部位於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")[札都甲假日市集附近](https://zh.wikipedia.org/wiki/札都甲 "wikilink")，是一家有[泰國陸軍背景之泰國](https://zh.wikipedia.org/wiki/泰國陸軍 "wikilink")[民營](https://zh.wikipedia.org/wiki/民營 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")。
 
 ## 歷史

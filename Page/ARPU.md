@@ -1,3 +1,6 @@
+> 本文内容由[ARPU](https://zh.wikipedia.org/wiki/ARPU)转换而来。
+
+
 **每用户平均收入**（Average Revenue Per User，简称**ARPU**；有时也称average revenue per unit，每单元平均[成本](../Page/成本.md "wikilink")）是一个[电信業](https://zh.wikipedia.org/wiki/電信公司 "wikilink")[術語](https://zh.wikipedia.org/wiki/術語 "wikilink")。就电信業者而言，用戶數與通話量是公司獲利的重要指标，而ARPU為其基礎之一。
 
 ## 各國之ARPU

@@ -1,3 +1,6 @@
+> 本文内容由[DisplayPort](https://zh.wikipedia.org/wiki/DisplayPort)转换而来。
+
+
 **DisplayPort**（簡稱DP）是一个由[PC及芯片制造商联盟开发](../Page/个人电脑.md "wikilink")，[视频电子标准协会](https://zh.wikipedia.org/wiki/VESA "wikilink")（VESA）[标准化](../Page/标准化.md "wikilink")的數位式視訊接口標準。該接口免認證、免授權金，主要用於视频源与[显示器](../Page/显示器.md "wikilink")等设备的连接，并也支持携带、[USB](../Page/USB.md "wikilink")和其他形式的数据\[1\]。
 
 此接口的设计是为取代传统的[VGA](https://zh.wikipedia.org/wiki/VGA "wikilink")、[DVI](../Page/DVI.md "wikilink")和（LVDS）接口。通过主动或被动适配器，该接口可与传统接口（如HDMI和DVI）[向后兼容](https://zh.wikipedia.org/wiki/向后兼容 "wikilink")。

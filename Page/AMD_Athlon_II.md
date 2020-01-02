@@ -1,3 +1,6 @@
+> 本文内容由[AMD Athlon II](https://zh.wikipedia.org/wiki/AMD_Athlon_II)转换而来。
+
+
 [AMD_Athlon_II_X2_250_package_box.jpg](https://zh.wikipedia.org/wiki/File:AMD_Athlon_II_X2_250_package_box.jpg "fig:AMD_Athlon_II_X2_250_package_box.jpg") [AMD_Athlon_II_X4_630_1.jpg](https://zh.wikipedia.org/wiki/File:AMD_Athlon_II_X4_630_1.jpg "fig:AMD_Athlon_II_X4_630_1.jpg") [AMD_Athlon_II_X4_630_2.jpg](https://zh.wikipedia.org/wiki/File:AMD_Athlon_II_X4_630_2.jpg "fig:AMD_Athlon_II_X4_630_2.jpg")
 
 **Athlon II**，是[AMD的](https://zh.wikipedia.org/wiki/AMD "wikilink")45nm多核[中央處理器產品系列之一](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")，以廉價市場作為定位。

@@ -1,3 +1,6 @@
+> 本文内容由[甜心战士F](https://zh.wikipedia.org/wiki/甜心战士F)转换而来。
+
+
 《**甜心战士F**》（）是[永井豪](../Page/永井豪.md "wikilink")担当原作及原案，由[饭坂友佳子来翻案而编绘的动作类](https://zh.wikipedia.org/wiki/饭坂友佳子 "wikilink")[少女漫画](../Page/少女漫画.md "wikilink")，之后被[东映动画](../Page/东映动画.md "wikilink")给[TV动画化](https://zh.wikipedia.org/wiki/TV动画 "wikilink")。1997年2月至1998年1月为止，[朝日电视台放送了](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")《甜心战士F》的动画，为《[美少女战士Sailor Stars](https://zh.wikipedia.org/wiki/美少女战士Sailor_Stars "wikilink")》的后番组而制作播出。
 
 ## 本作概要

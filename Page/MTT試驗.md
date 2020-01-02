@@ -1,3 +1,6 @@
+> 本文内容由[MTT試驗](https://zh.wikipedia.org/wiki/MTT試驗)转换而来。
+
+
 **細胞存活率分析** (，全名：(3-(4,5-Dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide)，是一種用於測量[細胞的](https://zh.wikipedia.org/wiki/細胞 "wikilink")[活性之試驗](https://zh.wikipedia.org/wiki/活性 "wikilink")。 [MTT_Plate.jpg](https://zh.wikipedia.org/wiki/File:MTT_Plate.jpg "fig:MTT_Plate.jpg")\]\]
 
 ## 原理
@@ -19,7 +22,6 @@
 
 [Category:生物化学方法](https://zh.wikipedia.org/wiki/Category:生物化学方法 "wikilink") [Category:分子生物學技術](https://zh.wikipedia.org/wiki/Category:分子生物學技術 "wikilink")
 
-1.  [MTT Assay原理](http://eshare.stust.edu.tw/EshareFile/2010_5/2010_5_f411d3de.pdf)
-
+1.
 2.
 3.  [為何該選擇以XTT代替MTT](http://www.aniara.com/pdf/literature/XTTvsMTT.pdf)，ANIARA，2010年11月19日

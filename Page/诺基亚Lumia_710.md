@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚Lumia 710](https://zh.wikipedia.org/wiki/诺基亚Lumia_710)转换而来。
+
+
 Nokia Lumia 710是由[諾基亞開發](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，採用微軟[Windows Phone](../Page/Windows_Phone.md "wikilink")7.5[作業系統的中階](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 
 ## 硬件

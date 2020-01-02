@@ -1,3 +1,6 @@
+> 本文内容由[HP Linux Imaging and Printing](https://zh.wikipedia.org/wiki/HP_Linux_Imaging_and_Printing)转换而来。
+
+
 **HPLIP** (**HP** **L**inux **I**maging and **P**rinting)是一個[惠普公司發起和領導的項目](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")，其目標是讓Linux系統，能夠完成支持惠普的噴墨打印機和激光打印機的打印，掃描和傳真功能。它所提供的驅動程序，共支持1980部HP打印機型號。\[1\]
 
 [HPOJ](https://zh.wikipedia.org/wiki/HPOJ "wikilink")（HP OfficeJet）是一個軟件用來在Linux操作系統下連行惠普的打印機。在2006年3月13日，該項目已經停止並以HPLIP來取代。

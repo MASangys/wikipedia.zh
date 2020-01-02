@@ -1,3 +1,6 @@
+> 本文内容由[尼崎站 \(JR西日本\)](https://zh.wikipedia.org/wiki/尼崎站_\(JR西日本\))转换而来。
+
+
 **尼崎站**（）位於[日本](../Page/日本.md "wikilink")[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[尼崎市](../Page/尼崎市.md "wikilink")潮江1丁目1番1號，屬於[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")(JR西日本)的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。但尼崎市的中心車站是[阪神電鐵](../Page/阪神電氣鐵道.md "wikilink")[尼崎站](../Page/尼崎站_\(阪神\).md "wikilink")。2003年（平成15年），入選[近畿車站百選](../Page/近畿車站百選.md "wikilink")（第四回）。
 
 ## 使用路線

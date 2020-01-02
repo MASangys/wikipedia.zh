@@ -1,3 +1,6 @@
+> 本文内容由[遙遠的她AMOUR](https://zh.wikipedia.org/wiki/遙遠的她AMOUR)转换而来。
+
+
 《**遙遠的她AMOUR**》於1986年1月5日時發行，是香港歌手[張學友的第二張粵語專輯](https://zh.wikipedia.org/wiki/張學友 "wikilink")，唱片製作人[歐丁玉](../Page/歐丁玉.md "wikilink")，[寶麗金唱片公司製作發行](https://zh.wikipedia.org/wiki/寶麗金唱片公司 "wikilink")。
 
 ## 唱片反應

@@ -1,3 +1,6 @@
+> 本文内容由[Smile \(日本电视剧\)](https://zh.wikipedia.org/wiki/Smile_\(日本电视剧\))转换而来。
+
+
 《**Smile**》是由[TBS电视台从](https://zh.wikipedia.org/wiki/TBS电视台 "wikilink")2009年4月17日开始，於[金曜劇場](../Page/TBS週五連續劇.md "wikilink")（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")22:00-22:54）播出的電視劇，由[松本潤](../Page/松本潤.md "wikilink")、[新垣結衣](../Page/新垣結衣.md "wikilink")及[中井貴一](../Page/中井貴一.md "wikilink")等人演出。
 
 ## 概要

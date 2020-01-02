@@ -1,3 +1,6 @@
+> 本文内容由[DON\'T U EVER STOP](https://zh.wikipedia.org/wiki/DON\'T_U_EVER_STOP)转换而来。
+
+
 『**DON'T U EVER STOP**』是日本男性偶像團體[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第7張單曲作品。
 
 ## 概要

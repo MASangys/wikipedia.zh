@@ -1,3 +1,6 @@
+> 本文内容由[Far away](https://zh.wikipedia.org/wiki/Far_away)转换而来。
+
+
 《**Far away**》（遠走）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第15張單曲，2000年5月17日於日本發售。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[ActiveX相容性旗標](https://zh.wikipedia.org/wiki/ActiveX相容性旗標)转换而来。
+
+
 **相容性旗標**（）是一個主要用於[微軟在其](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet Explorer](../Page/Internet_Explorer.md "wikilink")[瀏覽器的保安設定](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")。透過指定某一特定[ActiveX](../Page/ActiveX.md "wikilink")控制項軟件的特定數值，不論是由Microsoft或其他第三方的軟件，都可以讓Internet Explorer瀏覽器知道，並停止使用該指定的軟件。
 
 相容性旗標的最主要作用，是要堵塞IE的保安漏洞。若有某一軟件的生產商發現其ActiveX控制項的某一特定版本存有保安漏洞，可以向微軟提請為該特定版本的軟件設置相容性旗標。相容性旗標一般都會透過[Microsoft Windows作業系統內建的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Windows Update功能進行更新](../Page/Windows_Update.md "wikilink")。

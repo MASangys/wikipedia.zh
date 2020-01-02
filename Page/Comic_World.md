@@ -1,3 +1,6 @@
+> 本文内容由[Comic World](https://zh.wikipedia.org/wiki/Comic_World)转换而来。
+
+
 [Comic_World_Seoul_October_2013_045.JPG](https://zh.wikipedia.org/wiki/File:Comic_World_Seoul_October_2013_045.JPG "fig:Comic_World_Seoul_October_2013_045.JPG") ****（；[英語簡稱為](https://zh.wikipedia.org/wiki/英語 "wikilink")****）是在[日本](../Page/日本.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓國等地舉辦的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[同人誌即賣會](../Page/同人誌即賣會.md "wikilink")，由日本[SE株式會社](https://zh.wikipedia.org/wiki/SE株式會社 "wikilink")（，今[Deleter株式會社](https://zh.wikipedia.org/wiki/Deleter株式會社 "wikilink")）開辦，並在日本以外地區委託當地[同人團體舉辦](https://zh.wikipedia.org/wiki/同人團體 "wikilink")。
 
 ## 各地情形

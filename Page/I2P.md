@@ -1,3 +1,6 @@
+> 本文内容由[I2P](https://zh.wikipedia.org/wiki/I2P)转换而来。
+
+
 **I2P**（Invisible Internet Project即“隐形网计划”），是一项混合授权的[匿名](../Page/匿名.md "wikilink")網路项目。
 
 I2P網路是由I2P路由器以[大蒜路由方式组成的表层網路](https://zh.wikipedia.org/wiki/大蒜路由 "wikilink")，建立于其上的应用程序可以安全匿名的相互通訊。它可以同时使用[UDP及](https://zh.wikipedia.org/wiki/UDP "wikilink")[TCP协议](https://zh.wikipedia.org/wiki/TCP "wikilink")，支援[UPnP](../Page/UPnP.md "wikilink")映射。其应用包括匿名上網、聊天、撰寫部落格和檔案傳輸。

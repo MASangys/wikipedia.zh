@@ -1,3 +1,6 @@
+> 本文内容由[MenuetOS](https://zh.wikipedia.org/wiki/MenuetOS)转换而来。
+
+
 **MenuetOS**由[芬蘭人](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")開發，是一個[操作系统](../Page/操作系统.md "wikilink")，用於和[IBM PC相容的電腦](../Page/IBM_PC.md "wikilink")。它由[汇編語言寫成](https://zh.wikipedia.org/wiki/汇編語言 "wikilink")，可以存入一隻1.44MB的软盘中。Menuet OS 的32位版本Menuet32使用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")發放，但64位版本Menuet64使用自己的协议发放。\[1\]
 
 MenuetOS拥有[实时](../Page/实时操作系统.md "wikilink")，[抢占式的](https://zh.wikipedia.org/wiki/抢占式多任务处理 "wikilink")[宏内核](https://zh.wikipedia.org/wiki/宏内核 "wikilink")。2010年2月24日，开发者加入了对多核的支持。最新进展包括加入了一个数学库，对MPEG视频音频库的支持以及对USB的支持。1.0版预计将会在2014年年底左右发布。\[2\]

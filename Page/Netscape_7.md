@@ -1,3 +1,6 @@
+> 本文内容由[Netscape 7](https://zh.wikipedia.org/wiki/Netscape_7)转换而来。
+
+
 **Netscape 7**是由網景通訊製作的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網路套件系列](https://zh.wikipedia.org/wiki/網路套件 "wikilink")，修改自[Mozilla Application Suite](../Page/Mozilla_Application_Suite.md "wikilink")，可以在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[Linux](../Page/Linux.md "wikilink")上運行。
 
 整個套件包含Navigator（[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")）、[Netscape Mail & Newsgroups](../Page/Netscape_Mail_&_Newsgroups.md "wikilink")（[電子郵件客戶端和](https://zh.wikipedia.org/wiki/電子郵件客戶端 "wikilink")[新聞群組軟體](https://zh.wikipedia.org/wiki/Usenet客戶端 "wikilink")）、Address Book（通訊錄）、[Netscape Composer](../Page/Netscape_Composer.md "wikilink")（[HTML編輯器](https://zh.wikipedia.org/wiki/HTML編輯器 "wikilink")）、[AOL Instant Messenger](https://zh.wikipedia.org/wiki/AOL_Instant_Messenger "wikilink")（[即時通訊](../Page/即時通訊.md "wikilink")）、[IRC](../Page/IRC.md "wikilink")軟體客戶端、[Radio@Netscape](https://zh.wikipedia.org/wiki/網景#產品與技術 "wikilink")。

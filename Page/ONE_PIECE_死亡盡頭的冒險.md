@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 死亡盡頭的冒險](https://zh.wikipedia.org/wiki/ONE_PIECE_死亡盡頭的冒險)转换而来。
+
+
 **《ONE PIECE 死亡盡頭的冒險》**是於2003年上映的第四部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")。
 
 ## 劇情

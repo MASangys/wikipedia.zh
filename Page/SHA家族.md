@@ -1,3 +1,6 @@
+> 本文内容由[SHA家族](https://zh.wikipedia.org/wiki/SHA家族)转换而来。
+
+
 **安全散列演算法**（，縮寫為SHA）是一個[密碼雜湊函數家族](https://zh.wikipedia.org/wiki/密碼雜湊函數 "wikilink")，是[FIPS所認證的安全](https://zh.wikipedia.org/wiki/联邦资料处理标准 "wikilink")[雜湊演算法](https://zh.wikipedia.org/wiki/雜湊函數 "wikilink")。能計算出一個數位訊息所對應到的，長度固定的字串（又稱訊息摘要）的算法。且若輸入的訊息不同，它們對應到不同字串的機率很高。
 
 SHA家族的演算法，由[美國國家安全局](https://zh.wikipedia.org/wiki/美國國家安全局 "wikilink")（NSA）所設計，並由[美國國家標準與技術研究院](https://zh.wikipedia.org/wiki/美國國家標準與技術研究院 "wikilink")（NIST）發佈，是美國的政府標準，其分別是：

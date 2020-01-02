@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior-K.R.Y.](https://zh.wikipedia.org/wiki/Super_Junior-K.R.Y.)转换而来。
+
+
 **Super Junior-K.R.Y.**是[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[Super Junior在](../Page/Super_Junior.md "wikilink")2006年组成的第一个子团體。这个團體名字是由三位成員[圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")**K**yuhyun、[厉旭](https://zh.wikipedia.org/wiki/厉旭 "wikilink")**R**yeowook和[艺声](https://zh.wikipedia.org/wiki/艺声 "wikilink")**Y**esung的英文名开头字母组成的。Super Junior-K.R.Y. 成立后的第一个作品为电视剧《Hyena》的主题曲《只为一个人》，并于2006年11月5日通过KBS的《音乐阵营》正式开始了活动。多以抒情歌為主。
 
 ## 成員資料

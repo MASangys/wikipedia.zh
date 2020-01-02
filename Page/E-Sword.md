@@ -1,3 +1,6 @@
+> 本文内容由[E-Sword](https://zh.wikipedia.org/wiki/E-Sword)转换而来。
+
+
 **<span style="font-size:larger;">e-Sword</span>**是由[美國人](https://zh.wikipedia.org/wiki/美國 "wikilink")「Rick Meyers」創作的[基督教](../Page/基督教.md "wikilink")[聖經研究](https://zh.wikipedia.org/wiki/聖經 "wikilink")[電腦軟體](https://zh.wikipedia.org/wiki/電腦軟體 "wikilink")，支援[微軟視窗作業系統與](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Pocket PC系統](../Page/Pocket_PC.md "wikilink")。《e-Sword》的發展開始於2000年一月，自推出以來極受歡迎，到 2009年四月份已經有超過九百萬個使用者由[網路上](https://zh.wikipedia.org/wiki/網路 "wikilink")[下載](http://www.e-sword.net/downloads.html)此軟體。2009年九月9.5版更新後，僅三個月就有250萬次下載。\[1\]
 
 2005年『Bible Software Review』做的一項調查顯示 e-Sword 在免費聖經研究軟體項內是使用者最多的，甚至超過任何商業性的聖經研究軟體。\[2\]

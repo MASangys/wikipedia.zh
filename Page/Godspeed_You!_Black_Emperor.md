@@ -1,3 +1,6 @@
+> 本文内容由[Godspeed You! Black Emperor](https://zh.wikipedia.org/wiki/Godspeed_You!_Black_Emperor)转换而来。
+
+
 **Godspeed You\! Black Emperor**（曾命名為**Godspeed You Black Emperor\!**，縮寫為**GYBE**、**GSYBE**或**GY\!BE**）是[加拿大](../Page/加拿大.md "wikilink")的一個前衛藝術樂團，1994年在[魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特婁成立](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。\[1\]
 
 ## 樂團成員

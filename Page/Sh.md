@@ -1,3 +1,6 @@
+> 本文内容由[Sh](https://zh.wikipedia.org/wiki/Sh)转换而来。
+
+
 **Sh**是由[S](../Page/S.md "wikilink")和[H](../Page/H.md "wikilink")組成的[拉丁](../Page/拉丁字母.md "wikilink")[二合字母](../Page/二合字母.md "wikilink")。
 
 ## 歐洲語言

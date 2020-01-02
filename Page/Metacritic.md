@@ -1,3 +1,6 @@
+> 本文内容由[Metacritic](https://zh.wikipedia.org/wiki/Metacritic)转换而来。
+
+
 **Metacritic**是一個專門收集對於[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、[音樂專輯](../Page/音樂專輯.md "wikilink")、[遊戲的評論的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[網站](../Page/網站.md "wikilink")，網站會整合每個評價的分數再做出一個總評分作為這個項目的評分，在項目的多項短評中，從最好的分數到最坏的分數由下排列，最好的評價分數是綠色到最低的評價分數的[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")、[紅色排列](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
 
 ## 歷史

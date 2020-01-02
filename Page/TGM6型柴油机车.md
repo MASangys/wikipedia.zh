@@ -1,3 +1,6 @@
+> 本文内容由[TGM6型柴油机车](https://zh.wikipedia.org/wiki/TGM6型柴油机车)转换而来。
+
+
 **TGM6型柴油机车**（）是[苏联铁路的](../Page/苏联铁路运输.md "wikilink")[调车](../Page/调车机车.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[柳季诺沃内燃机车制造厂](../Page/柳季诺沃内燃机车制造厂.md "wikilink")设计制造，于1966年研制成功。
 
 ## 发展历史

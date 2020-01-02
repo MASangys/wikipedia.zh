@@ -1,3 +1,6 @@
+> 本文内容由[Cocco](https://zh.wikipedia.org/wiki/Cocco)转换而来。
+
+
 **Cocco**，本名**真喜志智子**。1977年1月19日誕生於[沖繩縣](../Page/沖繩縣.md "wikilink")[那霸市](../Page/那霸市.md "wikilink")，[日本](../Page/日本.md "wikilink")歌手。
 
 ## 事業

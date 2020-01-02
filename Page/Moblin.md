@@ -1,3 +1,6 @@
+> 本文内容由[Moblin](https://zh.wikipedia.org/wiki/Moblin)转换而来。
+
+
 **Moblin**，'mobile Linux'的簡稱，是一個開源的、基於[Linux](../Page/Linux.md "wikilink")的作業系統，用於移動互聯網設備（[MID](https://zh.wikipedia.org/wiki/MID "wikilink")）、嵌入式裝置，與其他新的類別的設備，如[netbook與](https://zh.wikipedia.org/wiki/netbook "wikilink")[nettop](https://zh.wikipedia.org/wiki/nettop "wikilink") 。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Nico](https://zh.wikipedia.org/wiki/Nico)转换而来。
+
+
 [Nico1_-Mutter_Erde_fec.jpg](https://zh.wikipedia.org/wiki/File:Nico1_-Mutter_Erde_fec.jpg "fig:Nico1_-Mutter_Erde_fec.jpg")
 
 **妮可**（，原名克里斯塔·帕夫根，，）是一位[德國歌手與流行音樂歌曲作者](https://zh.wikipedia.org/wiki/德國 "wikilink")，也是一位時裝[模特兒](../Page/模特兒.md "wikilink")與[演員](../Page/演員.md "wikilink")，是與[地下絲絨](../Page/地下絲絨.md "wikilink")樂團合作的歌手之一。

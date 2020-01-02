@@ -1,3 +1,6 @@
+> 本文内容由[Cryptographic API](https://zh.wikipedia.org/wiki/Cryptographic_API)转换而来。
+
+
 **Cryptographic API** (CryptoAPI) 是微軟在 Windows 作業系統中添加的密碼編譯機能，作為資料加密與解密功能的重要基礎，CryptoAPI 支援同步，非同步的金鑰加密處理，以及作業系統中的[數位憑證](https://zh.wikipedia.org/wiki/數位憑證 "wikilink") 的管理工作。
 
 目前的 CryptoAPI 支援下列工作\[1\]：

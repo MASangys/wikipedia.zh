@@ -1,3 +1,6 @@
+> 本文内容由[YG娛樂](https://zh.wikipedia.org/wiki/YG娛樂)转换而来。
+
+
 **YG Entertainment**是韓國的经纪与娛樂公司（上市日期：2011年11月23日），由[梁鉉錫](../Page/梁鉉錫.md "wikilink")於1996年所創立。2016年YG娛樂營業額90億新臺幣。已上市分公司YG PLUS（經營模特，服飾，彩妝，餐飲等副業）2016年銷售額50億新臺幣。
 
 YG是韓國[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[Hip hop音樂最具代表性的娛樂公司](https://zh.wikipedia.org/wiki/Hip_hop "wikilink")。CEO梁鉉錫曾是1992年出道的[徐太志與孩子們的成员](../Page/徐太志和孩子們.md "wikilink")，该组合被稱為韓國K-pop与Hip-Hop的開山鼻祖。YG旗下藝人擁有龐大人氣，[Youtube共有](https://zh.wikipedia.org/wiki/Youtube "wikilink")3000萬人追蹤、200億點擊率，[Instagram](../Page/Instagram.md "wikilink")追蹤者7000萬人、[Facebook](../Page/Facebook.md "wikilink")8000萬人。

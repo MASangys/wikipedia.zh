@@ -1,3 +1,6 @@
+> 本文内容由[Money Money麥克瘋](https://zh.wikipedia.org/wiki/Money_Money麥克瘋)转换而来。
+
+
 《**Money Money麥克瘋**》是由[全能製作公司製作](https://zh.wikipedia.org/wiki/全能製作公司 "wikilink")，於[東森綜合台](../Page/東森綜合台.md "wikilink")播出。該節目播出日期於2008年7月14日至2008年11月28日為止。節目強調不比音準、不比音色，也不比外型、外貌、氣質、長相等如何，只強調只要歌詞記得牢，就可以參加比賽。
 
 節目名稱的「麥克瘋」，即取「[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")」作為諧音，因「麥克」有「[錢](https://zh.wikipedia.org/wiki/錢 "wikilink")」的意思，為了「麥克」而「瘋」，故因此而命名之。

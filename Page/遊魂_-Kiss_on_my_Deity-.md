@@ -1,3 +1,6 @@
+> 本文内容由[遊魂 -Kiss on my Deity-](https://zh.wikipedia.org/wiki/遊魂_-Kiss_on_my_Deity-)转换而来。
+
+
 《**遊魂 -Kiss on my Deity-**》（ -Kiss on my Deity-）是[Lump of Sugar於](../Page/Lump_of_Sugar.md "wikilink")2008年7月11日發售的[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。2009年11月5日由[5pb.](../Page/5pb..md "wikilink")代理發售[Xbox 360版](../Page/Xbox_360.md "wikilink")。\[2\]2009年5月29日[Lump of Sugar發售](../Page/Lump_of_Sugar.md "wikilink")[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《**遊魂 -It's happy days-**》（）。2016年9月23日發售續作《[遊魂2 -you're the only one-](../Page/遊魂2_-you're_the_only_one-.md "wikilink")》（）\[3\]。標題「」是「」之略、「deity」是「神、女神」之意\[4\]。
 
 ## 概要

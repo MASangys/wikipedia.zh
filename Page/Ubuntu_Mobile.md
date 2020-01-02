@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu Mobile](https://zh.wikipedia.org/wiki/Ubuntu_Mobile)转换而来。
+
+
 **Ubuntu Mobile Internet Device Edition**，主要用於Intel Atom處理器為主的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")[手持裝置平台上的](https://zh.wikipedia.org/wiki/手持裝置 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，源自於 [Linux](../Page/Linux.md "wikilink") [Ubuntu](../Page/Ubuntu.md "wikilink") 套件。
 
 它使用 [GNOME](../Page/GNOME.md "wikilink") 的框架 [Hildon](https://zh.wikipedia.org/wiki/Hildon "wikilink") 為基礎，作為它的圖形用戶界面。

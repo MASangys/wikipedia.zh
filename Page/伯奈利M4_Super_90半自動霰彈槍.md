@@ -1,3 +1,6 @@
+> 本文内容由[伯奈利M4 Super 90半自動霰彈槍](https://zh.wikipedia.org/wiki/伯奈利M4_Super_90半自動霰彈槍)转换而来。
+
+
 **伯奈利M4（Super 90）**（）是一系列由[意大利](../Page/意大利.md "wikilink")槍械製造商[伯奈利](../Page/伯奈利.md "wikilink")公司所設計和生產的[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")）。目前在數十個國家的軍隊、警隊和[特種部隊](../Page/特種部隊.md "wikilink")中服役，除了研發的本國意大利的[軍隊以外](../Page/意大利军事.md "wikilink")，在美軍服役的伯奈利M4霰彈槍的命名為**M1014戰鬥霰彈槍**。發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 [M-1014_Benelli.jpg](https://zh.wikipedia.org/wiki/File:M-1014_Benelli.jpg "fig:M-1014_Benelli.jpg")

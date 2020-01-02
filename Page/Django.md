@@ -1,3 +1,6 @@
+> 本文内容由[Django](https://zh.wikipedia.org/wiki/Django)转换而来。
+
+
 **Django**是一个[开放源代码](../Page/开放源代码.md "wikilink")的[Web应用框架](../Page/Web应用框架.md "wikilink")，由[Python](../Page/Python.md "wikilink")写成。采用了[MVT的](https://zh.wikipedia.org/wiki/MVT "wikilink")[软件设计模式](https://zh.wikipedia.org/wiki/软件设计模式 "wikilink")，即模型Model，视图View和模板Template。它最初是被开发来用于管理旗下的一些以新闻内容为主的网站的。并于2005年7月在[BSD许可证](../Page/BSD许可证.md "wikilink")下发布。这套框架是以[比利时](../Page/比利时.md "wikilink")的[吉普赛](https://zh.wikipedia.org/wiki/吉普赛 "wikilink")[爵士吉他手](../Page/爵士乐.md "wikilink")来命名的。
 
 Django的主要目标是使得开发复杂的、数据库驱动的网站变得简单。Django注重组件的重用性和“可插拔性”，[敏捷开发和](https://zh.wikipedia.org/wiki/敏捷开发 "wikilink")[DRY法则](../Page/一次且仅一次.md "wikilink")（Don't Repeat Yourself）。在Django中[Python](../Page/Python.md "wikilink")被普遍使用，甚至包括配置文件和数据模型。

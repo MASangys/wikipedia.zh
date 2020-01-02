@@ -1,3 +1,6 @@
+> 本文内容由[ITT公司](https://zh.wikipedia.org/wiki/ITT公司)转换而来。
+
+
 **ITT公司**，即原的ITT工业公司（ITT INDUSTRIES），是一家全球多元化产业公司。是[标准普尔500指数](../Page/标准普尔500指数.md "wikilink")成分股。
 
 ## 历史

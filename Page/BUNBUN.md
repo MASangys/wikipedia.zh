@@ -1,3 +1,6 @@
+> 本文内容由[BUNBUN](https://zh.wikipedia.org/wiki/BUNBUN)转换而来。
+
+
 **BUNBUN**（）是[日本](../Page/日本.md "wikilink")男性[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")，身高177公分，出身於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")。因負責設計[輕小說](../Page/輕小說.md "wikilink")《[薔薇的瑪利亞](../Page/薔薇的瑪利亞.md "wikilink")》的角色人物而知名。他的姊姊[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")則是一位知名的[原畫師](https://zh.wikipedia.org/wiki/原畫師 "wikilink")。
 
 雖然本人在Twitter上表示他跟[abec並非同一個人](https://zh.wikipedia.org/wiki/abec "wikilink")\[1\]，但是在台灣角川官網《刀劍神域》系列小說的介紹上則敘述abec也以BUNBUN名義繪製插畫\[2\]，而兩人的簽名會上出現的也都是同一人。在[刀劍神域編輯](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")[三木一馬](../Page/三木一馬.md "wikilink")的書中正式寫出了確實與[abec老師為同一人的事實](https://zh.wikipedia.org/wiki/abec "wikilink")，原本[abec是用於私人部落格的暱稱](https://zh.wikipedia.org/wiki/abec "wikilink")，後在聽了[三木一馬](../Page/三木一馬.md "wikilink")編輯：「我會讓[abec這個名字比](https://zh.wikipedia.org/wiki/abec "wikilink")[BUNBUN](../Page/BUNBUN.md "wikilink")還要出名！」的建議下，以[abec的名義擔當](https://zh.wikipedia.org/wiki/abec "wikilink")[刀劍神域的插畫一職](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")，讓[abec此名稱正式商業出道](https://zh.wikipedia.org/wiki/abec "wikilink")。\[3\]

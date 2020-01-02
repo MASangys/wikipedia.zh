@@ -1,3 +1,6 @@
+> 本文内容由[Mako](https://zh.wikipedia.org/wiki/Mako)转换而来。
+
+
 **MAKO**是[東京都](../Page/東京都.md "wikilink")出身的女性歌手、[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")。[I'm Enterprise所属](../Page/I'm_Enterprise.md "wikilink")。
 
 本名是櫻井真子，[血型是O型](https://zh.wikipedia.org/wiki/血型 "wikilink")，[星座](../Page/星座.md "wikilink")是[天秤座](../Page/天秤座.md "wikilink")。2005年3月以品川星星女子高等学校毕业，2009年3月于跡見学園女子大学文學部臨床心理學畢業。

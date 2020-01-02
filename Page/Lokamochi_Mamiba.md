@@ -1,3 +1,6 @@
+> 本文内容由[Lokamochi Mamiba](https://zh.wikipedia.org/wiki/Lokamochi_Mamiba)转换而来。
+
+
 **Lokamochi Mamiba**為2007年[森美小儀歌劇團](../Page/森美小儀歌劇團.md "wikilink")的主題，於9月21日至30日公演。Lokamochi Mamiba是「來嫁無情（無情乃森美飾演之角色）莫問吧」的諧音（亦有說是「落街冇錢買麵包」），是因為這次的舞台劇是強調[中西合璧並設定在](https://zh.wikipedia.org/wiki/中西合璧 "wikilink")[-{意}-大利](../Page/意大利.md "wikilink")\[1\]。演員除[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")[小儀外](https://zh.wikipedia.org/wiki/小儀 "wikilink")，還有嘉賓[鄧麗欣](../Page/鄧麗欣.md "wikilink")、[何韻詩](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")、[周麗淇及](https://zh.wikipedia.org/wiki/周麗淇 "wikilink")[容祖兒](../Page/容祖兒.md "wikilink")，[王菀之等](https://zh.wikipedia.org/wiki/王菀之 "wikilink")。2007年8月13日為[森美小儀歌劇團](../Page/森美小儀歌劇團.md "wikilink")第一次公開售票，並於半[小時內全部售罄](https://zh.wikipedia.org/wiki/小時 "wikilink")，創下[香港](../Page/香港.md "wikilink")最快售罄全部[門票的](https://zh.wikipedia.org/wiki/門票 "wikilink")[歷史](https://zh.wikipedia.org/wiki/歷史 "wikilink")[紀錄](https://zh.wikipedia.org/wiki/紀錄 "wikilink")\[2\]。森美表示有關場館檔期只能讓歌劇團加開日場，所以希望日後可以重演\[3\]。
 
 ## 售票詳情

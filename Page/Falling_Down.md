@@ -1,3 +1,6 @@
+> 本文内容由[Falling Down](https://zh.wikipedia.org/wiki/Falling_Down)转换而来。
+
+
 《**Falling Down**》是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[綠洲的一張](../Page/绿洲乐队.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，收錄在綠洲2008年的第七張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Dig Out Your Soul](https://zh.wikipedia.org/wiki/Dig_Out_Your_Soul "wikilink")》中。詞曲作者和演唱者是首席吉他手[諾爾·蓋勒格](../Page/諾爾·蓋勒格.md "wikilink")（[Noel Gallagher](../Page/諾爾·蓋勒格.md "wikilink")）。《Falling Down》作為專輯中的第三首單曲於2009年3月9日推出，數碼版的推出時間則是在前一天\[1\]。
 
 該曲在英國單曲排行榜上的最初排名是第十位，第一週的銷量為21,448。但在同一週，它在英國下載排行榜上只排在第37位，很可能是因為在專輯和單曲推出之前曲子已泄漏到[iTunes上的緣故](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[2\]。

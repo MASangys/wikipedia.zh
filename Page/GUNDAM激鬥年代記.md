@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM激鬥年代記](https://zh.wikipedia.org/wiki/GUNDAM激鬥年代記)转换而来。
+
+
 《**GUNDAM激鬥年代記**》（、-{GUNDAM BATTLE CHRONICLE}-）是由[Namco Bandai發行的](https://zh.wikipedia.org/wiki/万代南梦宫游戏 "wikilink")[PlayStation Portable主機專用的遊戲](../Page/PlayStation_Portable.md "wikilink")。本作品是《[-{GUNDAM}- BATTLE ROYALE](https://zh.wikipedia.org/wiki/GUNDAM_BATTLE_ROYALE "wikilink")》的續集。
 
 ## 概要

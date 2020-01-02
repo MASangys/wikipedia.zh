@@ -1,3 +1,6 @@
+> 本文内容由[A·C·格林](https://zh.wikipedia.org/wiki/A·C·格林)转换而来。
+
+
 | career_position = 大前锋 | birth_date =  | birth_place = [俄勒冈州](../Page/俄勒冈州.md "wikilink")[波特兰](https://zh.wikipedia.org/wiki/波特兰 "wikilink") | nationality =  | height_ft = 6 | height_in = 9 | weight_lb = 220 | highschool = Benson Polytechnic in Portland, [俄勒冈州](../Page/俄勒冈州.md "wikilink") | college = [俄勒冈州立大学](https://zh.wikipedia.org/wiki/俄勒冈州立大学 "wikilink") | draft = | draft_year = 1985 | draft_round = 1 | draft_pick = 23 | draft_team = [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink") | career_start = 1985 | career_end = 2001 | former_teams = [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")（1985-1993）
 [菲尼克斯太阳](../Page/菲尼克斯太阳.md "wikilink")（1993-1996）
 [达拉斯小牛](https://zh.wikipedia.org/wiki/达拉斯小牛 "wikilink")（1996-1999）

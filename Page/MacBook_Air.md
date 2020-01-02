@@ -1,3 +1,6 @@
+> 本文内容由[MacBook Air](https://zh.wikipedia.org/wiki/MacBook_Air)转换而来。
+
+
 **MacBook Air**是[蘋果公司](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（Apple）開發的一款超薄型[麥金塔](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")[手提電腦](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")，於2008年1月15日時首次發佈。蘋果公司聲稱這部電腦是「世上最薄的筆記本電腦」\[1\]，最新版本最厚部位只有厚，而最薄部位更只有。但實際上根據量測部位的不同，其他廠商有更薄的手提電腦。\[2\]\[3\]英特尔公司因為受到苹果的MacBook Air的影响提出了“[超极本](https://zh.wikipedia.org/wiki/超极本 "wikilink")”的手提电脑架构。
 
 2010年10月20日，苹果发布了新款13.3寸MacBook Air。新款拥有更轻的外壳，更高分辨率的显示屏，以及更大的电池容量。并使用[固态硬盘](../Page/固态硬盘.md "wikilink")取代了传统的硬盘驱动器。去除了固态硬盘的外壳并将其内部的主控和闪存芯片直接集成在主板上，内存储器芯片也一样，减少了空间占用。同时发布的还有首次被公布的11.6寸型号。變得更轻、更薄、更便宜，性能和电池容量相比13.3寸版有所降低，但仍然比一般[上网本](../Page/上网本.md "wikilink")的性能強悍不少。MacBook Air在2011年取代停产的MacBook系列[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")外壳[麥金塔手提电脑](https://zh.wikipedia.org/wiki/麥金塔笔记本电脑 "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]

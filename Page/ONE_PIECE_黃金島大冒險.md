@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 黃金島大冒險](https://zh.wikipedia.org/wiki/ONE_PIECE_黃金島大冒險)转换而来。
+
+
 《**ONE PIECE 黃金島大冒險**》是日本漫畫家[尾田榮一郎所著的漫畫作品](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》所改編而成的[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")，為[ONE PIECE系列首部劇場版](../Page/ONE_PIECE.md "wikilink")，於2000年3月4日上映。
 
 ## 劇情

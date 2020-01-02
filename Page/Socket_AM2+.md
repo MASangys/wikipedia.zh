@@ -1,3 +1,6 @@
+> 本文内容由[Socket AM2+](https://zh.wikipedia.org/wiki/Socket_AM2+)转换而来。
+
+
 [Back_of_a_Phenom_X4_9950.jpg](https://zh.wikipedia.org/wiki/File:Back_of_a_Phenom_X4_9950.jpg "fig:Back_of_a_Phenom_X4_9950.jpg")
 
 **Socket AM2+**是一款[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器的](https://zh.wikipedia.org/wiki/處理器 "wikilink")[CPU插座](../Page/CPU插座.md "wikilink")，是現時用於多款AMD處理器（如[Athlon 64 X2](https://zh.wikipedia.org/wiki/Athlon_64_X2 "wikilink")）的[Socket AM2的後繼插座](../Page/Socket_AM2.md "wikilink")。Socket AM2+與Socket AM2完全相容。

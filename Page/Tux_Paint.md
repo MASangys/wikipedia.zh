@@ -1,3 +1,6 @@
+> 本文内容由[Tux Paint](https://zh.wikipedia.org/wiki/Tux_Paint)转换而来。
+
+
 **Tux Paint**是一个主要面对少年儿童的[位图](../Page/位图.md "wikilink")绘图软件，程序使用[C](../Page/C.md "wikilink")语言开发，使用各种[自由软件](../Page/自由软件.md "wikilink")[库主要是](https://zh.wikipedia.org/wiki/库 "wikilink")[SDL](https://zh.wikipedia.org/wiki/SDL "wikilink")。
 
 除了[Linux](../Page/Linux.md "wikilink")和各种[BSD](../Page/BSD.md "wikilink")，此软件还支持[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Apple Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[BeOS](../Page/BeOS.md "wikilink")（见 [Tux Paint 下载页](http://www.tuxpaint.org/download/)）。

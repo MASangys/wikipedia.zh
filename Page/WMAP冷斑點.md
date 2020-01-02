@@ -1,3 +1,6 @@
+> 本文内容由[WMAP冷斑點](https://zh.wikipedia.org/wiki/WMAP冷斑點)转换而来。
+
+
 [ColdSpot.jpg](https://zh.wikipedia.org/wiki/File:ColdSpot.jpg "fig:ColdSpot.jpg") **WMAP冷斑點**是2004年由[WMAP在](https://zh.wikipedia.org/wiki/WMAP "wikilink")[波江座](../Page/波江座.md "wikilink")檢測出的一個區域，該處的[宇宙微波背景輻射](https://zh.wikipedia.org/wiki/宇宙微波背景輻射 "wikilink")（CMB）溫度比周圍要低\[1\]。如此大和冷的區域在原始的[CMB中發生的機率估計只有大約](https://zh.wikipedia.org/wiki/宇宙微波背景輻射 "wikilink")0.2% \[2\]。
 
 ## 位置

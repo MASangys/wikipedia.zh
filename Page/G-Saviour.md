@@ -1,3 +1,6 @@
+> 本文内容由[G-Saviour](https://zh.wikipedia.org/wiki/G-Saviour)转换而来。
+
+
 **G-SAVIOUR**是[日本](../Page/日本.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")合作的一部电影，是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")之一。\[1\]
 
 ## 概要

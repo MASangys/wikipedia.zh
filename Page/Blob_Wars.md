@@ -1,3 +1,6 @@
+> 本文内容由[Blob Wars](https://zh.wikipedia.org/wiki/Blob_Wars)转换而来。
+
+
 [BlobWarsMBS.png](https://zh.wikipedia.org/wiki/File:BlobWarsMBS.png "fig:BlobWarsMBS.png") **Blob Wars**是[Parallel Realities制作的开源](https://zh.wikipedia.org/wiki/Parallel_Realities "wikilink")[动作冒险游戏系列](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。
 
 ## Blob Wars: Metal Blob Solid

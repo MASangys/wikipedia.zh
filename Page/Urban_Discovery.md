@@ -1,3 +1,6 @@
+> 本文内容由[Urban Discovery](https://zh.wikipedia.org/wiki/Urban_Discovery)转换而来。
+
+
 **Urban Discovery**為[香港](../Page/香港.md "wikilink")一家已結業的[連鎖式餐廳集團](https://zh.wikipedia.org/wiki/連鎖式 "wikilink")，由[郭毅於](https://zh.wikipedia.org/wiki/郭毅 "wikilink")2002年創辦。公司以多元化食肆見稱，全盛時期一度擁有28間食肆，包括目黑壽司、Stage Cafe、甲乙丙中國廚房及和庭日本料理。2008年11月12日，公司宣佈受到金融海嘯衝擊，旗下11間中西日式食肆全線結業。\[1\]
 
 ## 歷史

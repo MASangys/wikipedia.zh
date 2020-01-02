@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚5610 XpressMusic](https://zh.wikipedia.org/wiki/诺基亚5610_XpressMusic)转换而来。
+
+
 **諾基亞5610**是[諾基亞所推出的一款音樂手提電話](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")，於2007年第四季推出市場。
 
 其外殼有藍色和紅色兩種，包括三百萬像素的[照相機](../Page/照相機.md "wikilink")，和多項支援音樂功能。

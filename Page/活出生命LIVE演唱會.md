@@ -1,3 +1,6 @@
+> 本文内容由[活出生命LIVE演唱會](https://zh.wikipedia.org/wiki/活出生命LIVE演唱會)转换而来。
+
+
 **活出生命LIVE演唱會**（**Live The Life**）是[香港](../Page/香港.md "wikilink")歌手[張學友于](https://zh.wikipedia.org/wiki/張學友 "wikilink")2004年10月5日于[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")新翼所舉行的一場慈善演唱會，演唱會只公演一場，全場爆滿，所得收入全部捐獻于[慈善事業](https://zh.wikipedia.org/wiki/慈善事業 "wikilink")。被譽為[大中華地區樂壇巨星和實力派歌手代表之一的張學友在演唱會中分別翻唱了來自](https://zh.wikipedia.org/wiki/大中華地區 "wikilink")[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，[香港](../Page/香港.md "wikilink")的[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，而在加唱部分才回歸到演唱自己原唱的歌曲，從而使整場演唱會備受矚目。
 
 ## 簡介

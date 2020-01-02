@@ -1,3 +1,6 @@
+> 本文内容由[UTADA HIKARU SINGLE CLIP COLLECTION+ VOL.3](https://zh.wikipedia.org/wiki/UTADA_HIKARU_SINGLE_CLIP_COLLECTION+_VOL.3)转换而来。
+
+
 **UTADA HIKARU SINGLE CLIP COLLECTION+ VOL.3**為[宇多田光](../Page/宇多田光.md "wikilink")第三部影音特輯，於2002年9月30日以[DVD及](https://zh.wikipedia.org/wiki/DVD "wikilink")[VHS](../Page/VHS.md "wikilink")形式發行。
 
 ## 概要

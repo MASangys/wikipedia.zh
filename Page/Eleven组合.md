@@ -1,3 +1,6 @@
+> 本文内容由[Eleven组合](https://zh.wikipedia.org/wiki/Eleven组合)转换而来。
+
+
 **Eleven组合**（），[中国内地](../Page/中国内地.md "wikilink")女子演唱組合，前名**奇迹组合**，由双胞胎姐妹**刘珈利**（姐姐），**刘珈言**（妹妹）组成。2005年参加[百事新星大赛](https://zh.wikipedia.org/wiki/百事 "wikilink")，获最佳形象奖。其后参加众多选秀比赛，诸如2007年青春中国、2007年联盟歌会、2008年绝对唱响、2008年[我型我秀](../Page/我型我秀.md "wikilink")等，取得不俗成绩，是[中国内地](../Page/中国内地.md "wikilink")少有的美少女[双胞胎演唱组合](https://zh.wikipedia.org/wiki/双胞胎 "wikilink")，颇具潜力。
 
 **Eleven**的[歌迷称作](https://zh.wikipedia.org/wiki/歌迷 "wikilink")**E粉**，源自于**Eleven**的首字母“**E**”。

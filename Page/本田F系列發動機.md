@@ -1,3 +1,6 @@
+> 本文内容由[本田F系列發動機](https://zh.wikipedia.org/wiki/本田F系列發動機)转换而来。
+
+
 [Honda_F22C_Engine.JPG](https://zh.wikipedia.org/wiki/File:Honda_F22C_Engine.JPG "fig:Honda_F22C_Engine.JPG") **本田F系列發動機**是[本田技研有限公司所生產的直列四缸發動機](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。它採用鑄鐵缸體和鎂鋁材質的氣缸蓋，其中某些型號的發動機擁有[單頂置凸輪軸及雙頂置凸輪軸兩個版本](https://zh.wikipedia.org/wiki/頂置凸輪軸 "wikilink")。本田F系列發動機中的F20C發動機在2000年和2001年連續兩年被列入[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")。
 
 ## 單頂置凸輪軸發動機

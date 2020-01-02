@@ -1,3 +1,6 @@
+> 本文内容由[Mio \(品牌\)](https://zh.wikipedia.org/wiki/Mio_\(品牌\))转换而来。
+
+
 **Mio**為[神達電腦](../Page/神達電腦.md "wikilink")旗下的手持式[行動通訊裝置](https://zh.wikipedia.org/wiki/行動通訊 "wikilink")[自有品牌](https://zh.wikipedia.org/wiki/自有品牌 "wikilink")，2002年5月成立，以[消費者需求為出發](https://zh.wikipedia.org/wiki/消費者 "wikilink")，推廣手持式行動通訊裝置，包括車用[導航系統](https://zh.wikipedia.org/wiki/導航系統 "wikilink")、導航[PDA](../Page/个人数码助理.md "wikilink")、導航PDA[手機等](https://zh.wikipedia.org/wiki/手機 "wikilink")，並於2009年開始發展[行動聯網裝置](../Page/行動聯網裝置.md "wikilink")。
 
 ## 历史 

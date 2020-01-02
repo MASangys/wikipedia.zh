@@ -1,3 +1,6 @@
+> 本文内容由[JR貨物EF510型電力機車](https://zh.wikipedia.org/wiki/JR貨物EF510型電力機車)转换而来。
+
+
 **EF510型電力機車**，是供[日本貨物鐵道及](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）使用的[交流傳動六軸](../Page/交流電.md "wikilink")[電力機車](../Page/電力機車.md "wikilink")，適用於[交](../Page/交流電.md "wikilink")[直流電](../Page/直流電.md "wikilink")化區段，這款機車的暱稱為「**ECO-POWER Red Thunder**」。
 
 ## 概要

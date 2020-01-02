@@ -1,3 +1,6 @@
+> 本文内容由[EO2](https://zh.wikipedia.org/wiki/EO2)转换而来。
+
+
 **EO2**是[香港](../Page/香港.md "wikilink")的一隊跳舞組合，於1999年出道，是[Starj & Snazz娛樂旗下的藝員](https://zh.wikipedia.org/wiki/Starj_&_Snazz娛樂 "wikilink")。2013年10月20日宣佈正式解散\[1\]，組合解散後只有Eddie及Otto活躍於娛樂圈。
 
 ## 名字由來

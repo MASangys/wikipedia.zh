@@ -1,3 +1,6 @@
+> 本文内容由[阿Sir早晨](https://zh.wikipedia.org/wiki/阿Sir早晨)转换而来。
+
+
 《**阿Sir早晨**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），（中國大陸譯名：**老師早上好**；前名：**春風化雨**；原名：**阿Sir早安**）是一部以教育為題材的電視劇集，由[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")（無綫電視）拍攝及製作，於1994年10月24日首次播出\[1\]，主要演員包括[黎明](../Page/黎明.md "wikilink")、[李綺虹](https://zh.wikipedia.org/wiki/李綺虹 "wikilink")、[宣萱](../Page/宣萱.md "wikilink")、[李影](https://zh.wikipedia.org/wiki/李影 "wikilink")、[黃霑](../Page/黃霑.md "wikilink")、[羅家英](../Page/羅家英.md "wikilink")、[古天樂](../Page/古天樂.md "wikilink")、[伍文生](../Page/伍文生.md "wikilink")、[蔣克](../Page/蔣克.md "wikilink")、[吳家樂](../Page/吳家樂.md "wikilink")等\[2\]。此劇，是黎明在無綫電視所演出的最後一套電視劇集\[3\]，以一個個感人小故事為基礎，慢慢演變出廣大的劇情，[主題曲](../Page/主題曲.md "wikilink")和[插曲皆是由黎明主唱](https://zh.wikipedia.org/wiki/插曲 "wikilink")。1999年7月發行同名的電視劇改編小說\[4\]，2009年10月在[無綫收費電視](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")[經典台我們的](https://zh.wikipedia.org/wiki/無綫經典台 "wikilink")...[黎明](../Page/黎明.md "wikilink")每周六至日連續播映四集。
 
 ## 劇情簡介

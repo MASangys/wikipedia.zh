@@ -1,3 +1,6 @@
+> 本文内容由[XDCAM](https://zh.wikipedia.org/wiki/XDCAM)转换而来。
+
+
 [XDCAM_Camcorder_(DVCAM)_PDW-510.jpg](https://zh.wikipedia.org/wiki/File:XDCAM_Camcorder_\(DVCAM\)_PDW-510.jpg "fig:XDCAM_Camcorder_(DVCAM)_PDW-510.jpg") **XDCAM**為[Sony在](https://zh.wikipedia.org/wiki/Sony "wikilink")2003年所推出的無影帶式專業錄影系統。2003年10月開始發售[SD系統商品](../Page/標準畫質電視.md "wikilink")，2006年4月開始發售[HD系統](../Page/標準畫質電視.md "wikilink")。
 
 XDCAM的首兩代XDCAM及XDCAM HD，使用[Professional Disc作儲存媒體](https://zh.wikipedia.org/wiki/Professional_Disc "wikilink")，媒體和[Blu-ray Disc相似及同樣可儲存](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")23 GB（PFD23，單面）或50 GB（PFD50，雙面）數據。第三代XDCAM EX，使用固態SxS記憶卡。在2008年，[JVC](../Page/JVC.md "wikilink")宣佈和Sony結盟支援XDCAM EX格式。

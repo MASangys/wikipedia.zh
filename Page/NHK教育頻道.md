@@ -1,3 +1,6 @@
+> 本文内容由[NHK教育頻道](https://zh.wikipedia.org/wiki/NHK教育頻道)转换而来。
+
+
 **NHK教育頻道**（），又譯為**NHK教育電視台**、**NHK教育台**，為[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[無線電視頻道之一](https://zh.wikipedia.org/wiki/無線電視 "wikilink")，通称**ETV**（[台標顯示為](https://zh.wikipedia.org/wiki/台標 "wikilink")「<font size=-2></font>」）。開播於1959年1月10日，為[日本](../Page/日本.md "wikilink")最早的教育專門[電視臺](https://zh.wikipedia.org/wiki/電視臺 "wikilink")，以及世界上最早的教育电视频道。絕大部分節目均由位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")的[NHK放送中心](../Page/NHK放送中心.md "wikilink")負責製播，再透過NHK在日本各地的放送局向全國播出。身為NHK的一份子，以NHK教育頻道為中心，除了每年製作超過1萬部節目之外，還有節目相關映像[軟體及活動](https://zh.wikipedia.org/wiki/軟體 "wikilink")[企劃製作](https://zh.wikipedia.org/wiki/企劃 "wikilink")、拓展角色人物等，進行多元化的事業發展。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[V速率](https://zh.wikipedia.org/wiki/V速率)转换而来。
+
+
 **V速率**（），是用來表示[飛行器的特定速率](https://zh.wikipedia.org/wiki/飛行器 "wikilink")，這個速率會隨著飛行器重量、[跑道](../Page/跑道.md "wikilink")情況、氣溫、飛行器類別（例如滑翔機、噴射飛機）而改變。較大型飛行器的V速度大多以圖表的形式記載在飛行器的手冊上，供飛行員查閱。 [ASI01b.jpg](https://zh.wikipedia.org/wiki/File:ASI01b.jpg "fig:ASI01b.jpg")）的，並附上V速率標籤。\]\]
 
 ## 主要V速率

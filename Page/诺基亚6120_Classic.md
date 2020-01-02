@@ -1,3 +1,6 @@
+> 本文内容由[诺基亚6120 Classic](https://zh.wikipedia.org/wiki/诺基亚6120_Classic)转换而来。
+
+
 **诺基亚 6120 classic**（****）是一款[诺基亚](../Page/诺基亚.md "wikilink")生产的6系列[手机](https://zh.wikipedia.org/wiki/手机 "wikilink")，是原來[诺基亚 6120的智能手機版本](https://zh.wikipedia.org/wiki/诺基亚_6120 "wikilink")。
 
 Nokia 6120 classic 是由Nokia所生產[作業系統的](https://zh.wikipedia.org/wiki/Symbian "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。這是Nokia首款使用 [UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")/[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 雙頻並帶有四頻[GSM](../Page/GSM.md "wikilink") 功能的行動電話。 Nokia 6120 Classic外觀採諾基亞經典直立造型，共有黑、白、粉紅等三色，6120c 是繼 6110 Navigator 之後，第二款支援[HSDPA的](https://zh.wikipedia.org/wiki/HSDPA "wikilink")6系列手機。

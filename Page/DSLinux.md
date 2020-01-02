@@ -1,3 +1,6 @@
+> 本文内容由[DSLinux](https://zh.wikipedia.org/wiki/DSLinux)转换而来。
+
+
 [DSLinuxLogo.gif](https://zh.wikipedia.org/wiki/File:DSLinuxLogo.gif "fig:DSLinuxLogo.gif")
 
 **DSLinux**是一個[任天堂DS](../Page/任天堂DS.md "wikilink")上運行的[Linux](../Page/Linux.md "wikilink")作業系統。

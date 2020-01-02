@@ -1,3 +1,6 @@
+> 本文内容由[ViVi \(消歧義\)](https://zh.wikipedia.org/wiki/ViVi_\(消歧義\))转换而来。
+
+
 **ViVi**可以是下列意思：
 
   - [ViVi](../Page/ViVi.md "wikilink")，女性時尚流行雜誌。

@@ -1,3 +1,6 @@
+> 本文内容由[Ivana](https://zh.wikipedia.org/wiki/Ivana)转换而来。
+
+
 《**Ivana**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，以代表王菀之的小鳥圖案作封面設計。發行日期為2005年5月19日。CD中收錄了八首歌，全部歌曲均由王菀之作曲作詞，其中一首為Hidden Track《雷電》法文版demo，派台歌曲分別有《把戲》、《想飛》、《一秒感動》和《我真的受傷了》。並且於2008年4月11日推出環保系列（ECO PACK）唱片。
 
 ## 曲目

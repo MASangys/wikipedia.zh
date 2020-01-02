@@ -1,3 +1,6 @@
+> 本文内容由[Apache Harmony](https://zh.wikipedia.org/wiki/Apache_Harmony)转换而来。
+
+
 {{ Infobox_Software | name = Apache Harmony | logo = | developer = [Apache Software Foundation](https://zh.wikipedia.org/wiki/Apache_Software_Foundation "wikilink") | status = 停止开发\[1\] | latest_release_version = 5.0M15
 6.0M3 | latest_release_date =  | operating_system = [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") and [Linux](../Page/Linux.md "wikilink") | programming_language = [C++](../Page/C++.md "wikilink") and [Java](../Page/Java.md "wikilink") | genre = [Java Virtual Machine](https://zh.wikipedia.org/wiki/Java_Virtual_Machine "wikilink") and Java [类库](https://zh.wikipedia.org/wiki/类库_\(computer_science\) "wikilink") | license = [Apache许可证](../Page/Apache许可证.md "wikilink")2.0 | website = <http://harmony.apache.org> }}
 

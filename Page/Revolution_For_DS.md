@@ -1,3 +1,6 @@
+> 本文内容由[Revolution For DS](https://zh.wikipedia.org/wiki/Revolution_For_DS)转换而来。
+
+
 [Acekard2guts.jpg](https://zh.wikipedia.org/wiki/File:Acekard2guts.jpg "fig:Acekard2guts.jpg") **Revolution For DS**（簡稱**R4**、**R4DS**），為[任天堂DS](../Page/任天堂DS.md "wikilink")平台上的一個很受玩家歡迎的[燒錄卡](https://zh.wikipedia.org/wiki/燒錄卡 "wikilink")。
 
 ## 功能

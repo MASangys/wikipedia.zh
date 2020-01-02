@@ -1,3 +1,6 @@
+> 本文内容由[Libjpeg](https://zh.wikipedia.org/wiki/Libjpeg)转换而来。
+
+
 **libjpeg**是一个完全用[C语言编写的处理](https://zh.wikipedia.org/wiki/C语言 "wikilink")[JPEG](../Page/JPEG.md "wikilink")图像数据格式的自由[函式庫](../Page/函式庫.md "wikilink")。它包含一个JPEG[编解码器](../Page/编解码器.md "wikilink")的算法实现，以及用于处理JPEG数据的多种实用程序。
 
 该套软件采用[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，并分发为附有[源代码](../Page/源代码.md "wikilink")的[自由软件](../Page/自由软件.md "wikilink")，采用自定义的[宽松](../Page/寬鬆自由軟體授權條款.md "wikilink")（[类BSD](../Page/BSD许可证.md "wikilink")）自由软件许可证，权利要求为。原始版本由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[分叉（Fork）](https://zh.wikipedia.org/wiki/分叉_\(软件开发\) "wikilink")。
