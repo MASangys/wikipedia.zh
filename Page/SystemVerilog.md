@@ -1,3 +1,6 @@
+> 本文内容由[SystemVerilog](https://zh.wikipedia.org/wiki/SystemVerilog)转换而来。
+
+
 在现代的[集成电路](../Page/集成电路.md "wikilink")（尤其是[超大规模集成电路](../Page/超大规模集成电路.md "wikilink")）的[设计和验证流程中](../Page/集成电路设计.md "wikilink")，**SystemVerilog**是一种由[Verilog](../Page/Verilog.md "wikilink")发展而来的[硬件描述](../Page/硬件描述语言.md "wikilink")、[硬件验证统一语言](https://zh.wikipedia.org/wiki/硬件验证语言 "wikilink")，前一部分基本上是2005年版[Verilog](../Page/Verilog.md "wikilink")的扩展，而后一部分[功能验证](../Page/功能验证.md "wikilink")特性则是一门[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")语言。面向对象特性很好地弥补了传统Verilog在芯片验证领域的缺陷，改善了代码可重用性，同时可以让验证工程师在比[寄存器传输级](../Page/寄存器传输级.md "wikilink")更高的抽象级别，以[事务而非单个信号作为监测对象](../Page/事务级建模方法.md "wikilink")，这些都大大提高了验证平台搭建的效率。
 
 SystemVerilog已经被采纳为[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")1800-2009标准，并获得了主流[电子设计自动化工具供应商的支持](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")。虽然没有哪一个仿真系统能够声称自己完全支持SystemVerilog语言参考手册（Language Reference Manual, LRM）里介绍的所有语言结构，要改善测试平台的互操作性相当困难，但是推进跨平台兼容性的研究开发工作已经在进行。若干种验证方法学相继出现，以预定义类的形式对测试平台模块进行标准化，如今最新的基于SystemVerilog的验证方法学为[通用验证方法学](../Page/通用验证方法学.md "wikilink")。这一方法学主要包括[开放源代码](../Page/开放源代码.md "wikilink")的[类库以及支持](https://zh.wikipedia.org/wiki/类库 "wikilink")[可重用测试平台](https://zh.wikipedia.org/wiki/集成电路设计#可重用设计方法学 "wikilink")、开发验证[IP核的预置格式](https://zh.wikipedia.org/wiki/IP核 "wikilink")。许多第三方提供商则开始推出基于SystemVerilog的验证[IP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")。

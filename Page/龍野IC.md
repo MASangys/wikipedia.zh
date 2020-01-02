@@ -1,3 +1,6 @@
+> 本文内容由[龍野IC](https://zh.wikipedia.org/wiki/龍野IC)转换而来。
+
+
 **龍野IC**（平假名：たつのインターチェンジ）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[龍野市](../Page/龍野市.md "wikilink")的[山陽自動車道](../Page/山陽自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

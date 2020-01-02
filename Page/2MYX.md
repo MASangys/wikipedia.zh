@@ -1,3 +1,6 @@
+> 本文内容由[2MYX](https://zh.wikipedia.org/wiki/2MYX)转换而来。
+
+
 **《2MYX》**（）是韓國人氣男子組合[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")，於2012年11月19日由[DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")/CJ E\&M Music所發行的首張迷你專輯。
 
 ## 發行過程

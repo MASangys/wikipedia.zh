@@ -1,3 +1,6 @@
+> 本文内容由[ATV焦点批评学民思潮争议](https://zh.wikipedia.org/wiki/ATV焦点批评学民思潮争议)转换而来。
+
+
 [thumb](https://zh.wikipedia.org/wiki/檔案:ATV_Focus.jpg "wikilink")
 
 **ATV焦点批评学民思潮争议**是指2012年9月3日[香港](../Page/香港.md "wikilink")[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")節目《[ATV焦點](../Page/ATV焦點.md "wikilink")》中的評論內容。部分[香港市民指責](https://zh.wikipedia.org/wiki/香港市民 "wikilink")《ATV焦點》本集內容嚴重偏頗，抹黑[學民思潮](../Page/學民思潮.md "wikilink")，並描述[泛民主派](../Page/泛民主派.md "wikilink")為[香港立法會](../Page/香港立法會.md "wikilink")的「破壞派」，惹起爭議。

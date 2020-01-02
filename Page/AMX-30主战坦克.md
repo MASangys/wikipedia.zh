@@ -1,3 +1,6 @@
+> 本文内容由[AMX-30主战坦克](https://zh.wikipedia.org/wiki/AMX-30主战坦克)转换而来。
+
+
 **AMX-30**是一款由和GIAT（现）研发的[主战坦克](https://zh.wikipedia.org/wiki/主战坦克 "wikilink")，从1966年开始服役于[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，前5辆被交付给第501坦克团（），在冷戰時期是法國陸軍裝甲部隊唯一裝備的主力坦克，直至1990年代中期才逐漸被[雷克勒坦克取代](https://zh.wikipedia.org/wiki/雷克勒坦克 "wikilink")。
 
 ## 概要
@@ -311,203 +314,125 @@ AMX-30雖然在歐洲市場未受青睞，但在歐洲以外的市場，因為�
 [Category:法國坦克](https://zh.wikipedia.org/wiki/Category:法國坦克 "wikilink") [Category:法国装甲战斗车辆](https://zh.wikipedia.org/wiki/Category:法国装甲战斗车辆 "wikilink") [Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink") [Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")
 
 1.  Ogorkiewicz, p. 2
-
 2.  de Mazarrasa (1990), p. 7
-
 3.  de Mazarrasa (1990), pp. 7–8
-
 4.
 5.  de Mazarrasa (1990), p. 8
-
 6.
 7.
 8.
 9.  Miller, pp. 84–85
-
 10. Jeudy, p. 215
-
 11. Ogorkiewicz, pp. 2–3
-
 12. Ogorkiewicz, p. 3
-
 13.
 14. de Mazarrasa (1990), pp. 8–9
-
 15.
 16.
 17. 这些坦克在1954-1956年间交付； Zaloga (1999), p. 13
-
 18.
 19. Miller, p. 85
-
 20.
 21. Jeudy, p. 252
-
 22.
 23.
 24.
 25. Spielberger, p. 113
-
 26. Jeudy, p. 253
-
 27.
 28. Spielberger, p. 124
-
 29. Caiti, p. 33
-
 30. Ogorkiewicz, pp. 3–5
-
 31. Hilmes, pp. 16–17
-
 32. Mercillon, p. 38
-
 33.
 34.
 35. de Mazarrasa (1990), p. 9
-
 36.
 37. Foss (1986), p. 21
-
 38.
 39.
 40. Ogorkiewicz, p. 5
-
 41. Jerchel, p. 3
-
 42. Jerchel, pp. 3–4
-
 43. Jerchel, p. 4
-
 44. Jeudy, p. 254
-
 45. Spielberger, p. 128
-
 46.
 47.
 48. Jerchel, p. 6
-
 49.
 50.
 51.
 52. Jerchel, p. 7
-
 53.
 54. Spielberger, p. 117
-
 55.
 56.
 57. Hilmes, p. 17
-
 58.
 59. Simpkin, p. 139
-
 60. Ogorkiewicz, p. 6
-
 61. Jeudy, p. 255
-
 62. Crow, p. 140
-
 63.
 64. Ogorkiewicz, p. 8
-
 65. Foss (1976), p. 14
-
 66. de Mazarrasa (1990), p. 28
-
 67. Foss (1986), p. 28
-
 68. Miller, p. 88; de Mazarrasa (1990), p. 28
-
 69.
 70. de Mazarrasa (1990), pp. 21–22
-
 71. Ogorkiewicz, p. 8
-
 72. Ferrari, p. 87
-
 73.
 74.
 75. Caiti, p. 34
-
 76.
 77. de Mazarrasa (1990), p. 23
-
 78. de Mazarrasa (1990), p. 22
-
 79.
 80. de Mazarrasa (1990), p. 24
-
 81.
 82. Ogorkiewicz, p. 9
-
 83. de Mazarrasa (1990), p. 26
-
 84. de Mazarrasa (1990), p. 27
-
 85. Ogorkiewicz, p. 10
-
 86.
 87. Ogorkiewicz, pp. 9–10
-
 88.
 89. Jeudy, p. 257
-
 90. Crow, p. 141
-
 91.
 92. Jeudy, p. 256
-
 93. de Mazarrasa (1990), p. 71
-
 94. Caiti, p. 37
-
 95. Miller, p. 89
-
 96. Foss (1986), p. 24
-
 97. Bishop, p. 220
-
 98. de Mazarrasa (1990), p. 72
-
 99. Simpkin, p. 106
-
 100. Foss (2005), p. 30
-
 101. Jeudy, p. 265
-
 102.
 103. Foss (2003), p. 429
-
 104. Berthemy, p. 18
-
 105.
 106. Berthemy, p. 17
-
 107.
 108. Biass & Richardson, p. 62
-
 109.
 110. Lathrop & McDonald, p. 28
-
 111. Jerchel, p. 28
-
 112. Ogorkiewicz, p. 20
-
 113. Zaloga (2004), p. 29
-
 114. Zaloga (1979), p. 20
-
 115. Gelbart, p. 21
-
 116. Foss (1986), p. 40
-
 117.
 118. Foss (1986), p. 94
-
 119. Foss (1986), p. 87
-
 120. Foss (1986), p. 138
-
 121.
 122.
 123.
@@ -517,125 +442,68 @@ AMX-30雖然在歐洲市場未受青睞，但在歐洲以外的市場，因為�
 127.
 128.
 129. de Mazarrasa (1990), p. 47
-
 130. Senger und Etterlin, p. 125
-
 131.
 132. Foss (1986), p. 167
-
 133.
 134. Miller, p. 8
-
 135. Jeudy, p. 261
-
 136. de Mazarrasa (1990), pp. 47–48
-
 137. Foss (2005), p. 27
-
 138. Moncure, p. 38
-
 139. Moncure, p. 39
-
 140. Foss (1976), p. 16
-
 141. Jeudy, p. 260
-
 142. Ogorkiewicz, p. 14
-
 143. Ogorkiewicz, pp. 14–16
-
 144. de Mazarrasa (1990), p. 36
-
 145. Ogorkiewicz, p. 16
-
 146. de Mazarrasa (1990), p. 37
-
 147. Ogorkiewicz, pp. 16–18
-
 148. de Mazarrasa (1990), pp. 37–38
-
 149. de Mazarrasa (1990), p. 38
-
 150. Ogorkiewicz, pp. 18–19
-
 151. Orgokiewicz, p. 20
-
 152. de Mazarrasa (1990), pp. 40–41
-
 153. de Mazarrasa (1990), p. 39
-
 154. Ogorkiewicz, pp. 19–20
-
 155. de Mazarrasa (1990), pp. 39–40
-
 156. de Mazarrasa (1990), p. 40
-
 157. Jeudy, p. 262
-
 158. Miller, pp. 90–93
-
 159.
 160. de Mazarrasa (1990), p. 49
-
 161. Foss (2005), p. 32
-
 162. de Mazarrasa (1990), p. 48
-
 163. Rudnick, p. 199 & 203
-
 164. Rudnick, p. 202
-
 165. Rudnick, pp. 203–204
-
 166. de Mazarrasa (1990), pp. 57–61
-
 167. Pérez-Guerra, p. 500
-
 168. de Mazarrasa (1990), pp. 79–80
-
 169. de Mazarrasa (1990), pp. 80–83
-
 170. de Mazarrasa (1990), pp. 83–84
-
 171.  [Defensa gastar a 916 millones en destruir 480 carros de combate](http://www.elpais.com/articulo/espana/MINISTERIO_DE_DEFENSA/PODER_EJECUTIVO/_GOBIERNO_PSOE_/1989-1993/Defensa/gastar/916/millones/destruir/480/carros/combate/elpepiesp/19920127elpepinac_16/Tes), El País, accessed 9 December 2008
-
 172.  [Defensa firma un contrato de 200 millones de euros con Finmeccanica](http://www.elpais.com/articulo/economia/Defensa/firma/contrato/200/millones/euros/Finmeccanica/elpepieco/20020212elpepieco_12/Tes), El País, accessed 9 December 2008
-
 173. Dunstan, p. 13
-
 174. de Mazarrasa (1990), pp. 48–49
-
 175. Cordesman, pp. 11–12
-
 176. Cordesman, p. 11
-
 177. Cordesman, pp. 13–14
-
 178. Cordesman, pp. 16–17
-
 179.
 180.
 181. de Mazarrasa (1990), pp. 72–73
-
 182. de Mazarrasa (1990), pp. 72–73
-
 183. Westermeyer, p. 27
-
 184. Westermeyer, pp. 27–28
-
 185. Perrett, p. 201
-
 186. Rottman, p. 26
-
 187. Jeudy, p. 263
-
 188.
 189.
 190. Cogan, p. 44
-
 191. Scales, p. 217
-
 192.
-
 193.
 194. <http://www.globalsecurity.org/military/world/nigeria/army.htm>

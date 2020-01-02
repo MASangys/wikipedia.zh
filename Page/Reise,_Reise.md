@@ -1,3 +1,6 @@
+> 本文内容由[Reise, Reise](https://zh.wikipedia.org/wiki/Reise,_Reise)转换而来。
+
+
 ***Reise, Reise***，德文含义为“旅行，旅行”，是[Rammstein的第四张录音室专辑](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，2004年9月27日在德国发行，随后在欧洲发行，2004年11月16日在北美发行，销量在几个欧洲排行榜中排列前十并在德国、澳大利亚、瑞士、冰岛、芬兰、爱沙尼亚和墨西哥销量第一，截止2006年2月，该专辑在全球范围内销售了150万份。
 
 ## 主题

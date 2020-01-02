@@ -1,3 +1,6 @@
+> 本文内容由[劳伦·C·梅休](https://zh.wikipedia.org/wiki/劳伦·C·梅休)转换而来。
+
+
 **劳伦·考特尼·梅休**（，）出生于[美国](../Page/美国.md "wikilink")[佛罗里达州](../Page/佛罗里达州.md "wikilink")[坦帕](https://zh.wikipedia.org/wiki/坦帕_\(佛罗里达州\) "wikilink")，为美国女演员。
 
 ## 生平

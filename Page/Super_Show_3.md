@@ -1,3 +1,6 @@
+> 本文内容由[Super Show 3](https://zh.wikipedia.org/wiki/Super_Show_3)转换而来。
+
+
 [Super Junior第三次亞洲巡回演唱会](../Page/Super_Junior.md "wikilink")「**Super Junior The 3rd Asia Tour – "Super Show 3"**」于2010年8月14日在首尔揭幕，之后展开长达10个月的巡回，在中国、台湾、新加坡、披国、菲律宾、马来西亚、日本和越南等13个城市举20场演唱会。\[1\]
 
 韓庚自2009年底解約退出Super Junior後不再參與組合演唱會，起範淡出組合並專注演員活動而不再參與組合巡演，強仁因為入伍關係，不參加這次演唱會，所以僅有十名成員參與該巡回演唱会。

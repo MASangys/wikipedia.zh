@@ -1,3 +1,6 @@
+> 本文内容由[丹麦国铁EA型电力机车](https://zh.wikipedia.org/wiki/丹麦国铁EA型电力机车)转换而来。
+
+
 **EA型电力机车**是[丹麦国家铁路](../Page/丹麦国家铁路.md "wikilink")所使用的第一种[电力机车车型](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，由[联邦德国](https://zh.wikipedia.org/wiki/联邦德国 "wikilink")（西德）[西门子交通集团和](https://zh.wikipedia.org/wiki/西门子交通集团 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[勃朗-包维利股份公司等企业联合设计制造](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")，适用于供电制式为25千伏50赫兹工频单相交流电的[电气化铁路](../Page/電氣化鐵路.md "wikilink")。
 
 ## 簡介

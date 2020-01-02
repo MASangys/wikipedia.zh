@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Surface](https://zh.wikipedia.org/wiki/Microsoft_Surface)转换而来。
+
+
 **** 是由微軟設計與製造的[个人计算设备系列](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")，包括[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")、[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")、手機以及耳機。 Surface 首次发布时有兩個版本，分別為 Surface RT 系列與 Surface Pro 系列，前者搭载 Windows RT 系统，使用 [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，而後者搭载完整的 Windows 8 系统，使用 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；兩個版本皆能自 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink") 安裝應用程式，但僅有 Pro 型 Surface 能夠執行 PC 版 Windows 上的軟體。\[1\]
 
 這系列的產品由[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")在2012年6月18日於[洛杉磯舉行的記者會上公開](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。同年2012年10月26日推出。\[2\] 接下來，[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2013年9月23日發表 Surface Pro 2 及 Surface 2 ，同年10月22日上市。但在2014年6月10日發表會上卻只有公佈 [Surface Pro 3](https://zh.wikipedia.org/wiki/Surface_Pro_3 "wikilink") ，同年8月28日上市。

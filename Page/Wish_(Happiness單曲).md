@@ -1,3 +1,6 @@
+> 本文内容由[Wish \(Happiness單曲\)](https://zh.wikipedia.org/wiki/Wish_\(Happiness單曲\))转换而来。
+
+
 「**Wish**」是[Happiness的第](../Page/Happiness_\(組合\).md "wikilink")3張單曲。2011年8月17日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 收錄曲

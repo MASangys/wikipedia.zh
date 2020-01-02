@@ -1,3 +1,6 @@
+> 本文内容由[BBS鄉民的正義](https://zh.wikipedia.org/wiki/BBS鄉民的正義)转换而来。
+
+
 《**BBS鄉民的正義**》（），由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[導演](https://zh.wikipedia.org/wiki/導演 "wikilink")[林世勇所執導的](https://zh.wikipedia.org/wiki/林世勇 "wikilink")[木偶人動畫電影版](../Page/木偶人_\(動畫\).md "wikilink")，於2012年8月17日上映，該劇本改編自[台灣BBS網路事件](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[1\]\[2\]\[3\]\[4\]
 
 ## 劇情

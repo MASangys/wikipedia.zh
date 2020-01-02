@@ -1,3 +1,6 @@
+> 本文内容由[FARA-83突擊步槍](https://zh.wikipedia.org/wiki/FARA-83突擊步槍)转换而来。
+
+
 **FARA 83**（；“阿根廷共和國自動步槍”或 **FAA 81**）是一款由[阿根廷](../Page/阿根廷.md "wikilink")於1980年代開發並裝備軍隊的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 發展

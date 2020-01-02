@@ -1,3 +1,6 @@
+> 本文内容由[东方紫香花 ～ Seasonal Dream Vision.](https://zh.wikipedia.org/wiki/东方紫香花_～_Seasonal_Dream_Vision.)转换而来。
+
+
 **東方紫香花 〜 Seasonal Dream Vision.**（，ASIN B002U9T3WK）是由[虎之穴于](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")2005年10月1日发售的一个关于[东方Project的](https://zh.wikipedia.org/wiki/东方Project "wikilink")[同人志](https://zh.wikipedia.org/wiki/同人志 "wikilink")。
 
 ## 概述

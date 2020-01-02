@@ -1,3 +1,6 @@
+> 本文内容由[KNU23](https://zh.wikipedia.org/wiki/KNU23)转换而来。
+
+
 **KNU23**是2010年8月誕生的[日本女子偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")。
 
 ## 概要

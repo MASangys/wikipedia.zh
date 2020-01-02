@@ -1,3 +1,6 @@
+> 本文内容由[FOX Movies](https://zh.wikipedia.org/wiki/FOX_Movies)转换而来。
+
+
 **F-{o}-x Movies**，是亞洲的一個電影頻道，由[21世紀福斯的分支機構](https://zh.wikipedia.org/wiki/21世紀福斯 "wikilink")[福斯傳媒集團](../Page/福斯傳媒集團.md "wikilink")所擁有。
 
 2012年1月1日，香港、澳門及部分東南亞國家的[STAR Movies更名為F](../Page/STAR_Movies.md "wikilink")-{o}-x Movies Premium，但在[印度](../Page/印度.md "wikilink")、[中國](../Page/中國.md "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[台灣等地保留STAR](https://zh.wikipedia.org/wiki/台灣 "wikilink") Movies名稱。

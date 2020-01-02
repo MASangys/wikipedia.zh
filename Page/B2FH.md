@@ -1,3 +1,6 @@
+> 本文内容由[B2FH](https://zh.wikipedia.org/wiki/B2FH)转换而来。
+
+
 **B<sup>2</sup>FH**理论是[弗雷德·霍伊尔](../Page/弗雷德·霍伊尔.md "wikilink")和伯比奇夫妇（[傑佛瑞·伯比奇](../Page/傑佛瑞·伯比奇.md "wikilink")和[玛格丽特·伯比奇](https://zh.wikipedia.org/wiki/玛格丽特·伯比奇 "wikilink")）、[威廉·福勒](../Page/威廉·福勒.md "wikilink")四人提出關於[恆星核合成](../Page/恆星核合成.md "wikilink")的一篇著名論文。該篇論文於1957年發表於期刊《[现代物理评论](https://zh.wikipedia.org/wiki/现代物理评论 "wikilink")》，是[恆星物理學的指標性論文](https://zh.wikipedia.org/wiki/恆星物理學 "wikilink")\[1\]。該論文的正式標題為《Synthesis of the Elements in Stars》（恆星中的元素合成），但是該文章常以四人姓氏開頭字母簡稱為「B<sup>2</sup>FH」。
 
 該篇論文全面性的概括和分析了幾個可能是[自然界中元素合成的關鍵步驟和](../Page/核合成.md "wikilink")[元素相對豐度](../Page/化學元素豐度.md "wikilink")，並且被認為是今日[恆星核合成](../Page/恆星核合成.md "wikilink")理論的由來。

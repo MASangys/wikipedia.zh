@@ -1,3 +1,6 @@
+> 本文内容由[Epitech](https://zh.wikipedia.org/wiki/Epitech)转换而来。
+
+
 **欧洲理工学院**（“École Pour l'Informatique et les nouvelles TECHnologies”缩写ÉPITECH，也叫‘European Institute of Technology’）是一所培养电脑工程师的私立大学。
 
 校址坐落于[莱克朗兰比塞特尔](https://zh.wikipedia.org/wiki/莱克朗兰比塞特尔 "wikilink") -- [巴黎](../Page/巴黎.md "wikilink")意大利门南面，紧靠巴黎十三区中国城。

@@ -1,3 +1,6 @@
+> 本文内容由[ViS wz. 35手槍](https://zh.wikipedia.org/wiki/ViS_wz._35手槍)转换而来。
+
+
 **Pistolet ViS wz. 35**是由[波蘭槍工Piotr](https://zh.wikipedia.org/wiki/波蘭 "wikilink") Wilniewczyc研製的一款[半自動手槍](../Page/半自動手槍.md "wikilink")，於1935年成為[波蘭軍隊的制式手槍](https://zh.wikipedia.org/wiki/波蘭軍隊 "wikilink")。ViS wz. 35一直都被認為是有史以來最好的手槍之一，更是一些槍械收藏家的珍藏之一。\[1\]
 
 ## 設計

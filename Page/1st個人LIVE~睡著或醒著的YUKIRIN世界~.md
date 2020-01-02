@@ -1,3 +1,6 @@
+> 本文内容由[1st個人LIVE\~睡著或醒著的YUKIRIN世界\~](https://zh.wikipedia.org/wiki/1st個人LIVE\~睡著或醒著的YUKIRIN世界\~)转换而来。
+
+
 **1st個人LIVE\~睡著或醒著的YUKIRIN世界\~**（），是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")以DVD及BD形式發行的影像作品，2013年1月2日由Avex Marketing發行。
 
 ## 內容

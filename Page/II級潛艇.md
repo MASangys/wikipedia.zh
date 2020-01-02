@@ -1,3 +1,6 @@
+> 本文内容由[II級潛艇](https://zh.wikipedia.org/wiki/II級潛艇)转换而来。
+
+
 [德國海軍II級潛艇是一種近海小型潛艇](https://zh.wikipedia.org/wiki/德國海軍 "wikilink")，也是第一種德國人在[第一次世界大戰後建造的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[U艇](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")，其設計來自1931年至1933年為[芬蘭建造的Vesikko號潛艇](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")，II級潛艇在[第二次世界大戰時主要在德國沿海](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，英倫海峽，巴倫支海和黑海作戰，而有更多II級潛艇用於水兵訓練，1941年後德國人停止建造II級潛艇，改為建造較大型的遠洋潛艇，II級潛艇只有少數被擊沉於大海，其餘大多被[盟軍戰機空襲而毀於港口或在德國戰敗時被德國人自己弄沉](https://zh.wikipedia.org/wiki/盟軍 "wikilink")，其中有三艘成為[蘇聯的戰利品](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")
 
 II級潛艇分成以下型號:

@@ -1,3 +1,6 @@
+> 本文内容由[TV5 \(菲律宾\)](https://zh.wikipedia.org/wiki/TV5_\(菲律宾\))转换而来。
+
+
 **TV5** 是[菲律宾一間商營电视网](https://zh.wikipedia.org/wiki/菲律宾 "wikilink"), 它的总部设在[奎松市](../Page/奎松市.md "wikilink")。\[1\]\[2\]
 
 ## 頻道

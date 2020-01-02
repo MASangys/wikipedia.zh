@@ -1,3 +1,6 @@
+> 本文内容由[梅赛德斯-奔驰Vario](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰Vario)转换而来。
+
+
 **梅赛德斯-奔驰Vario**（Mercedes-Benz -{Vario}-，車廠內部的車型編號為W670）是[梅赛德斯-奔驰推出的大型](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰 "wikilink")[廂型車](../Page/廂型車.md "wikilink")與小型[貨車用](https://zh.wikipedia.org/wiki/貨車 "wikilink")[底盤系列](https://zh.wikipedia.org/wiki/底盤 "wikilink")，經常被用於[小巴](https://zh.wikipedia.org/wiki/小巴 "wikilink")、小型[遊覽車](../Page/遊覽車.md "wikilink")與[白色貨車](https://zh.wikipedia.org/wiki/白色貨車 "wikilink")（White van）等用途。
 
 Vario搭載了[OM904發動機](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰OM904引擎 "wikilink")（與同廠的貨車[Atego共用](https://zh.wikipedia.org/wiki/梅賽德斯-奔馳Atego "wikilink")）。

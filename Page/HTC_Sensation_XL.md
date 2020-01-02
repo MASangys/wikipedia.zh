@@ -1,3 +1,6 @@
+> 本文内容由[HTC Sensation XL](https://zh.wikipedia.org/wiki/HTC_Sensation_XL)转换而来。
+
+
 **HTC Sensation XL**是[臺灣](../Page/臺灣.md "wikilink")手機製造公司[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")([HTC](https://zh.wikipedia.org/wiki/HTC "wikilink"))於2011年10月6日推出的大尺寸高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。該機為[HTC Sensation的延伸機種](../Page/HTC_Sensation.md "wikilink")。
 
 ## 規格\[1\]

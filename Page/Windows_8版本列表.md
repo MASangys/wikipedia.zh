@@ -1,3 +1,6 @@
+> 本文内容由[Windows 8版本列表](https://zh.wikipedia.org/wiki/Windows_8版本列表)转换而来。
+
+
 **[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")**有四個版本\[1\]\[2\]，分別為 **Windows 8（標準版）**、**Windows 8 Pro（專業版）**、**Windows 8 Enterprise（企業版）**，**Windows RT（ARM版）**。其中，專業版增加了一些商業上的應用；企業版專為企業新增了PC管理和部署、安全、[虛擬化](../Page/虛擬化.md "wikilink")、移動等功能；Windows RT是首次出現的[ARM平台版本](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")，因無法與傳統桌面應用程式相容，所以獨立成新系統。
 
 此外，微軟還針對不同地區發售地區性廉價版本**Windows 8中文版**、**Windows 8 Edition N（歐洲版）**、**Windows 8 Edition K/KN（韓國版）**、**Windows 8單語言版**，這些版本保留了部份標準版功能。

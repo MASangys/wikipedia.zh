@@ -1,3 +1,6 @@
+> 本文内容由[W酒店 \(巴塞隆拿\)](https://zh.wikipedia.org/wiki/W酒店_\(巴塞隆拿\))转换而来。
+
+
 **W酒店 (巴塞隆拿)**（，又名帆船酒店），位於[西班牙](../Page/西班牙.md "wikilink")[巴塞隆拿的](https://zh.wikipedia.org/wiki/巴塞隆拿 "wikilink")[巴塞羅內塔](https://zh.wikipedia.org/wiki/巴塞羅內塔 "wikilink")，由著名建築師設計，酒店座落於7[公頃填海得來的土地之上](https://zh.wikipedia.org/wiki/公頃 "wikilink")，共提供473個客房和67個套房。\[1\]
 
 ## 參考

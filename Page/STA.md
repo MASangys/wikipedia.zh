@@ -1,3 +1,6 @@
+> 本文内容由[STA](https://zh.wikipedia.org/wiki/STA)转换而来。
+
+
 **STA**，英文全称Spike-triggered average，直译做“发放-触发平均方法”。
 
 STA是[神经科学](../Page/神经科学.md "wikilink")研究，尤其是[视觉研究中用于描述](https://zh.wikipedia.org/wiki/视觉 "wikilink")[神经元反应特性的一种方法](https://zh.wikipedia.org/wiki/神经元 "wikilink")。这种方法主要被用来分析[电生理数据](https://zh.wikipedia.org/wiki/电生理 "wikilink")，估计神经元的[线性](https://zh.wikipedia.org/wiki/线性 "wikilink")[感受野](https://zh.wikipedia.org/wiki/感受野 "wikilink")。

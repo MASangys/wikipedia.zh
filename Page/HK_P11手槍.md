@@ -1,3 +1,6 @@
+> 本文内容由[HK P11手槍](https://zh.wikipedia.org/wiki/HK_P11手槍)转换而来。
+
+
 **HK P11**，是[德國武器製造商](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")生產的一款[水下槍械](https://zh.wikipedia.org/wiki/水下槍械 "wikilink")(Underwater firearm)。直到现在，HK公司从没有正式公布过这支秘密研制的水下手枪的资料。有资料指P11是在1970年代研制，并在1976年投入使用。
 
 美国[三角洲部队至少已经购买了](https://zh.wikipedia.org/wiki/三角洲部队 "wikilink")100支HK P11，其容弹量是5发7.62×36mm口径的飞镳弹，没有弹匣，不能自动装填，子弹密封在弹膛兼枪管内，靠电击发。由于没有弹匣，枪管和弹匣是整个更换的。HK P11的枪声比MP5SD略大，射程50米，水下射程10～15米。

@@ -1,3 +1,6 @@
+> 本文内容由[Donkeyboy](https://zh.wikipedia.org/wiki/Donkeyboy)转换而来。
+
+
 [Donkeyboy.jpg](https://zh.wikipedia.org/wiki/File:Donkeyboy.jpg "fig:Donkeyboy.jpg") **Donkeyboy**是一支来自[挪威](../Page/挪威.md "wikilink")[德拉门的](https://zh.wikipedia.org/wiki/德拉门 "wikilink")[流行音乐乐队](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，成立于2005年。乐队由卡托·桑德博格、肯特·桑德博格、彼得·米切尔森、托马斯·达布罗斯和亚历山大·噶尔堡·阿加度组成。
 
 ## 传记
@@ -179,25 +182,16 @@ Donkeyboy的第二張专辑《银月》于2012年3月2日发行。
 [Category:挪威樂團](https://zh.wikipedia.org/wiki/Category:挪威樂團 "wikilink") [Category:欧洲跨国界音乐奖获奖者](https://zh.wikipedia.org/wiki/Category:欧洲跨国界音乐奖获奖者 "wikilink") [Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink") [Category:丹麦乐团](https://zh.wikipedia.org/wiki/Category:丹麦乐团 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
 5.
-
 6.
 7.  ["Winners of the 2011 European Border Breakers Awards"](http://ec.europa.eu/culture/our-programmes-and-actions/doc1098_en.htm) , ec.europa.eu. Retrieved February 20, 2012
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
 14.

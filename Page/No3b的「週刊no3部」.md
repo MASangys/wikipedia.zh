@@ -1,3 +1,6 @@
+> 本文内容由[No3b的「週刊no3部」](https://zh.wikipedia.org/wiki/No3b的「週刊no3部」)转换而来。
+
+
 《**no3b的「週刊no3部」**》（），2009年至2016年，每週日22:30至23:00（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）於[日本放送](../Page/日本放送.md "wikilink")播放的一週一集廣播節目，主持人為[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")。
 
 ## 概要設定

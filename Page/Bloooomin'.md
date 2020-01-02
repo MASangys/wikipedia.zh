@@ -1,3 +1,6 @@
+> 本文内容由[Bloooomin\'](https://zh.wikipedia.org/wiki/Bloooomin\')转换而来。
+
+
 「**bloooomin**'」是[Little Non的第](https://zh.wikipedia.org/wiki/Little_Non "wikilink")11張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2009年8月5日由[Lantis](../Page/Lantis.md "wikilink")發售。
 
 ## 概要

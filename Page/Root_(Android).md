@@ -1,3 +1,6 @@
+> 本文内容由[Root \(Android\)](https://zh.wikipedia.org/wiki/Root_\(Android\))转换而来。
+
+
 **Root**是[Android](../Page/Android.md "wikilink")系统的一个术语，它使得用户可以获取[Android](../Page/Android版本列表.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[超级用户](../Page/超级用户.md "wikilink")权限。Root能夠帮助用户越过手机制造商的限制，得以卸载本身预装的程式，或執行需要系統權限的動作。Android系统的Root與[苹果](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[iOS系统的](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱类似](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。
 
 ## 原理

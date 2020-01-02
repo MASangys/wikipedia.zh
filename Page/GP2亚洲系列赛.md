@@ -1,3 +1,6 @@
+> 本文内容由[GP2亚洲系列赛](https://zh.wikipedia.org/wiki/GP2亚洲系列赛)转换而来。
+
+
 **GP2亚洲系列赛**（**GP2 Asia Series**）是一项脱胎于[GP2系列赛的](https://zh.wikipedia.org/wiki/GP2系列赛 "wikilink")[方程式赛车赛事](https://zh.wikipedia.org/wiki/方程式赛车 "wikilink")，因其在[亚洲](../Page/亚洲.md "wikilink")地区举办而得名。自2008年至2011年，该赛事一共举办了四届，目前已停办。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[半人馬座T](https://zh.wikipedia.org/wiki/半人馬座T)转换而来。
+
+
 **半人馬座T**，又名**CD-32 9549**，**HD 119090**、**SAO 204739**、**HR 5147**，是[半人馬座的一颗恒星](https://zh.wikipedia.org/wiki/半人馬座 "wikilink")\[1\]\[2\]，视星等为6.05，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")314.8，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")28.11，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

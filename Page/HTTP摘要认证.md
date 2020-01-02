@@ -1,3 +1,6 @@
+> 本文内容由[HTTP摘要认证](https://zh.wikipedia.org/wiki/HTTP摘要认证)转换而来。
+
+
 **摘要访问认证**是一种协议规定的[Web服务器用来同](https://zh.wikipedia.org/wiki/Web服务器 "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")进行认证信息协商的方法。它在[密码发出前](https://zh.wikipedia.org/wiki/密码 "wikilink")，先对其应用[哈希函数](https://zh.wikipedia.org/wiki/哈希函数 "wikilink")，这相对于[HTTP基本认证](../Page/HTTP基本认证.md "wikilink")发送[明文而言](https://zh.wikipedia.org/wiki/明文 "wikilink")，更安全。
 
 从技术上讲，摘要认证是使用[随机数](../Page/随机数.md "wikilink")来阻止进行[密码分析](../Page/密码分析.md "wikilink")的[MD5](../Page/MD5.md "wikilink")[加密哈希函数应用](https://zh.wikipedia.org/wiki/加密哈希函数 "wikilink")。它使用[HTTP协议](https://zh.wikipedia.org/wiki/HTTP "wikilink")。

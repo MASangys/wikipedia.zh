@@ -1,3 +1,6 @@
+> 本文内容由[Bacn](https://zh.wikipedia.org/wiki/Bacn)转换而来。
+
+
 **Bacn**（跟英語[培根](../Page/煙肉.md "wikilink") *bacon* 的發音一樣）是一個[電子郵件的種類](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")。收到這類郵件的用戶都是自願訂閱的，所以電郵並不是未獲授權，但很多時都並不是收件者即時需要的內容\[1\]\[2\]。 很多時，收件者甚至收到後從來都沒有打開過，又或立即移到垃圾筒去。
 
 ## 參考資料

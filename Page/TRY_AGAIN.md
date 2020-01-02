@@ -1,3 +1,6 @@
+> 本文内容由[TRY AGAIN](https://zh.wikipedia.org/wiki/TRY_AGAIN)转换而来。
+
+
 《**TRY AGAIN**》為[倉木麻衣](../Page/倉木麻衣.md "wikilink")第39張單曲，於2013年2月6日發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(V04\)](https://zh.wikipedia.org/wiki/ATC代码_\(V04\))转换而来。
+
+
 ## V04B [尿](../Page/尿.md "wikilink")检测（Urine tests）
 
   -

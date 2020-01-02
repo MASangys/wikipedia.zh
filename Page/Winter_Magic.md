@@ -1,3 +1,6 @@
+> 本文内容由[Winter Magic](https://zh.wikipedia.org/wiki/Winter_Magic)转换而来。
+
+
 「**Winter Magic**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年10月19日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 概要

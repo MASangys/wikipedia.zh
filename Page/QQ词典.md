@@ -1,3 +1,6 @@
+> 本文内容由[QQ词典](https://zh.wikipedia.org/wiki/QQ词典)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:QQ词典网络版首页.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:QQ词典普通窗口.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:QQ词典迷你窗口.png "fig:缩略图") **QQ词典**是[腾讯](../Page/腾讯.md "wikilink")公司推出的词典，分为[网络版本和](https://zh.wikipedia.org/wiki/网络 "wikilink")[桌面版两个版本](https://zh.wikipedia.org/wiki/桌面 "wikilink")。 ***在2013年7月18日的更新（版本：1.1.147.400）发布后，QQ词典再无更新，伴随着官方网站的关闭，腾讯正式放弃了QQ词典项目。***
 
 ## QQ词典网络版

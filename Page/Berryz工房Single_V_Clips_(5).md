@@ -1,3 +1,6 @@
+> 本文内容由[Berryz工房Single V Clips \(5\)](https://zh.wikipedia.org/wiki/Berryz工房Single_V_Clips_\(5\))转换而来。
+
+
 『**Berryz工房Single V Clips ⑤**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第5張PV集。2011年8月17日發售。唱片公司是[PICCOLO TOWN](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")。
 
 ## 收錄内容

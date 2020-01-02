@@ -1,3 +1,6 @@
+> 本文内容由[The Party Scene](https://zh.wikipedia.org/wiki/The_Party_Scene)转换而来。
+
+
 **''The Party Scene**''是美國[流行龐克樂隊](https://zh.wikipedia.org/wiki/流行龐克 "wikilink")**[All Time Low](../Page/All_Time_Low.md "wikilink")**的第一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2005年7月19日透過唱片公司[Emerald Moon Records發行](https://zh.wikipedia.org/wiki/Emerald_Moon_Records "wikilink")。
 
 ## 歌曲列表

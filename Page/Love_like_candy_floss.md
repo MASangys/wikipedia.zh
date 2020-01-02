@@ -1,3 +1,6 @@
+> 本文内容由[Love like candy floss](https://zh.wikipedia.org/wiki/Love_like_candy_floss)转换而来。
+
+
 **「Love like candy floss」**是[SweetS的第](https://zh.wikipedia.org/wiki/SweetS "wikilink")3張單曲。之後是[東京女子流](../Page/東京女子流.md "wikilink")翻唱。
 
 ## SweetS單曲

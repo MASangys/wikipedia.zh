@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D10\)](https://zh.wikipedia.org/wiki/ATC代码_\(D10\))转换而来。
+
+
 ## D10A 局部用抗痤疮药（Anti-acne preparations for topical use）
 
 ### D10AA 皮质甾体激素类，治疗痤疮的复方（Corticosteroids, combinations for treatment of acne）

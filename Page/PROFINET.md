@@ -1,3 +1,6 @@
+> 本文内容由[PROFINET](https://zh.wikipedia.org/wiki/PROFINET)转换而来。
+
+
 **PROFINET**是一個開放式的[工業乙太網通訊協定](https://zh.wikipedia.org/wiki/工業乙太網 "wikilink")，是由PROFIBUS & PROFINET國際協會所提出。PROFINET應用TCP/IP及資訊科技的相關標準，是實時的工業乙太網。自2003年起，PROFINET是IEC 61158及IEC 61784標準中的一部分。
 
 PROFINET有模組化的結構，使用者可以依其需求選擇層疊的機能。各機能的差異是在於為了滿足高速通訊的需求，而對應資料交換種類的不同。

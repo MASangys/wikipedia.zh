@@ -1,3 +1,6 @@
+> 本文内容由[SVT-40半自動步槍](https://zh.wikipedia.org/wiki/SVT-40半自動步槍)转换而来。
+
+
 **SVT-40**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：**Самозарядная винтовка Токарева, образец 1940 года**，俄语罗马化：**Samozaryadnaya Vintovka Tokareva, Obrazets 1940 goda**，意为**M1940托卡列夫自动装填步枪**）是一种[苏联](../Page/苏联.md "wikilink")研製的[半自动](../Page/半自动步枪.md "wikilink")[战斗步枪](https://zh.wikipedia.org/wiki/战斗步枪 "wikilink")，該槍在[二战期間被](https://zh.wikipedia.org/wiki/二战 "wikilink")[蘇聯紅軍使用](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")。
 
 ## 發展簡史

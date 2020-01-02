@@ -1,3 +1,6 @@
+> 本文内容由[LEO \(家入里歐專輯\)](https://zh.wikipedia.org/wiki/LEO_\(家入里歐專輯\))转换而来。
+
+
 「**LEO**」是[家入里歐](../Page/家入里歐.md "wikilink")首張個人專輯。2012年10月24日由Victor Entertainment發售。2013年3月22日在台灣由台灣環球唱片公司發售。
 
 ## 概要

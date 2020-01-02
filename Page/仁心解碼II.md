@@ -1,3 +1,6 @@
+> 本文内容由[仁心解碼II](https://zh.wikipedia.org/wiki/仁心解碼II)转换而来。
+
+
 [Shek_Kip_Mei_Park_Sports_Centre.jpg](https://zh.wikipedia.org/wiki/File:Shek_Kip_Mei_Park_Sports_Centre.jpg "fig:Shek_Kip_Mei_Park_Sports_Centre.jpg")[體育館](https://zh.wikipedia.org/wiki/石硤尾公園體育館 "wikilink")\]\]
 
 《**仁心解碼II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝懸疑[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共25集，監製[羅永賢](../Page/羅永賢.md "wikilink")。是由[方中信](../Page/方中信.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")及[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")領銜主演，並由[黃智賢](../Page/黃智賢_\(香港\).md "wikilink")、[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳茵媺](../Page/陳茵媺.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")及[陳國邦](../Page/陳國邦.md "wikilink")聯合主演，監製[羅永賢](../Page/羅永賢.md "wikilink")。此劇為《[仁心解碼](../Page/仁心解碼.md "wikilink")》第二輯。

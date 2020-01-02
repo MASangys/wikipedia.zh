@@ -1,3 +1,6 @@
+> 本文内容由[無法入眠的夜晚-Long Night-](https://zh.wikipedia.org/wiki/無法入眠的夜晚-Long_Night-)转换而来。
+
+
 **《無法入眠的夜晚-Long Night-》（）**是韓國人氣男子組合 [SS501](../Page/SS501.md "wikilink")老么[金亨俊](../Page/金亨俊.md "wikilink")，於2011年7月27日由avex trax所發行的首張個人日文單曲。
 
 ## 單曲概要

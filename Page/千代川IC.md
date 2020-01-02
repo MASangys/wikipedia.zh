@@ -1,3 +1,6 @@
+> 本文内容由[千代川IC](https://zh.wikipedia.org/wiki/千代川IC)转换而来。
+
+
 **千代川IC**（平假名：ちよかわインターチェンジ）是位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[龜岡市](../Page/龜岡市.md "wikilink")的[京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

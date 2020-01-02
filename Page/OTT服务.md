@@ -1,3 +1,6 @@
+> 本文内容由[OTT服务](https://zh.wikipedia.org/wiki/OTT服务)转换而来。
+
+
 **OTT服务**（）是一種透過[網際網路直接向觀眾提供的](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[串流媒體服務](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")\[1\]。OTT服務需要透過互聯網作資訊傳送，有別於需要申領牌照的行業如[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")、[廣播或](https://zh.wikipedia.org/wiki/廣播 "wikilink")[衛星電視等傳統媒體](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")，於很多國家都不會被[規範](https://zh.wikipedia.org/wiki/規範 "wikilink")\[2\]。
 
 ## 與IPTV的分别

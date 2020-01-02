@@ -1,3 +1,6 @@
+> 本文内容由[PSS消音手槍](https://zh.wikipedia.org/wiki/PSS消音手槍)转换而来。
+
+
 **PSS**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пистолет самозарядный специальный，意為：半自動特種手槍），是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")研製的一種特種手槍。
 
 ## 歷史

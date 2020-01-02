@@ -1,3 +1,6 @@
+> 本文内容由[Mouse on Mars](https://zh.wikipedia.org/wiki/Mouse_on_Mars)转换而来。
+
+
 **Mouse on Mars**（中文中也译为“**火星鼠**”）是一个来自德国（Jan St. Werner来自科隆，Andi Toma来自杜塞尔多夫）的二重唱组合，从1993年以来一直创作电子音乐。他们的音乐常常是IDM、krautrock、迪斯科的古怪混合。他们的音乐还采用了活的传统乐器，如弦乐器、铜管乐器、鼓、贝司和吉他。\[1\]
 
 ## 作品

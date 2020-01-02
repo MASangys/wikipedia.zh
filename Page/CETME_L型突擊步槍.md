@@ -1,3 +1,6 @@
+> 本文内容由[CETME L型突擊步槍](https://zh.wikipedia.org/wiki/CETME_L型突擊步槍)转换而来。
+
+
 **CETME 5.56突擊步槍（賽特邁5.56型）**是一款由[西班牙](../Page/西班牙.md "wikilink")賽特邁公司（）研製的[滾輪延遲反衝式](../Page/反沖作用_\(槍械\).md "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍曾經為[西班牙軍隊的制式步槍](https://zh.wikipedia.org/wiki/西班牙軍隊 "wikilink")，現在已被[HK G36E完全取代](https://zh.wikipedia.org/wiki/HK_G36 "wikilink")。
 
 ## 歷史

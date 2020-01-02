@@ -1,3 +1,6 @@
+> 本文内容由[Beautiful \(朴政珉單曲\)](https://zh.wikipedia.org/wiki/Beautiful_\(朴政珉單曲\))转换而来。
+
+
 **《Beautiful》**（）是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")，於2012年11月14日由Yamaha A\&R企劃、CJ E\&M Music所發行的第二張個人韓語單曲。
 
 ## 發行過程

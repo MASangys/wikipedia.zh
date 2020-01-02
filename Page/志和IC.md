@@ -1,3 +1,6 @@
+> 本文内容由[志和IC](https://zh.wikipedia.org/wiki/志和IC)转换而来。
+
+
 **志和IC**（平假名：しわインターチェンジ）是位於[廣島縣](../Page/廣島縣.md "wikilink")[東廣島市](../Page/東廣島市.md "wikilink")的[山陽自動車道](../Page/山陽自動車道.md "wikilink")之[交流道](../Page/交流道.md "wikilink")。
 
 ## 連接道路

@@ -1,3 +1,6 @@
+> 本文内容由[少年Pi的奇幻漂流 \(電影\)](https://zh.wikipedia.org/wiki/少年Pi的奇幻漂流_\(電影\))转换而来。
+
+
 《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安](../Page/李安.md "wikilink")执导的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](../Page/加拿大.md "wikilink")作家[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛](../Page/苏拉·沙玛.md "wikilink")飾演主角「-{Pi}-」（又譯「-{派}-」）。
 
 影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达](../Page/克劳迪奥·米兰达.md "wikilink")赢得多个影评人协会奖的最佳摄影奖，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[2009, Year Of Us](https://zh.wikipedia.org/wiki/2009,_Year_Of_Us)转换而来。
+
+
 《**2009, Year of Us**》是[韓國男孩組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[SHINee](../Page/SHINee.md "wikilink")在2009年10月19日公佈的第三張迷你專輯，其實體鎖售於2009年10月22日開始。其中歌曲《Ring Ding Dong》和《Jo Jo》為宣傳單曲。唱片於發行後一星期獲得最高位置為第四位。
 
 ## 專輯簡介

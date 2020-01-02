@@ -1,3 +1,6 @@
+> 本文内容由[HaKaTa百貨店](https://zh.wikipedia.org/wiki/HaKaTa百貨店)转换而来。
+
+
 《**HaKaTa百貨店**》（，中文直譯為**博多百貨公司**）是[日本電視台](../Page/日本電視台.md "wikilink")自2012年10月7日開始播放的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，以[偶像女子團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")全體成員作為主要演出者，由成員之一的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任[節目主持](https://zh.wikipedia.org/wiki/節目主持 "wikilink")，於每週日午夜25時30分至26時（也就是週一凌晨1時30分至2時）播放。節目第一季共演出12集，由於播出後頗受好評，因此在第一季結束後，製作單位決定追加播出第二季，並將新一季節目命名為《**HaKaTa百貨店 2號館**》，改移至時段更佳的周六深夜播放。2013年1月26日深夜（1月27日凌晨）首播，同年3月30日播畢。
 
 在第二季結束將近兩年之後，日本電視台自2015年1月12日起開始播出節目系列的第三季——《**HaKaTa百貨店 3號館**》，共播出12集，同樣由指原莉乃主持，但與前兩季不同的是節目原本一向是在位於[福岡的HKT](../Page/福岡市.md "wikilink")48劇場收錄，自第三季起改在位於[東京的日本電視台](../Page/東京都.md "wikilink")[攝影棚拍攝](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[最終幻想IV](https://zh.wikipedia.org/wiki/最終幻想IV)转换而来。
+
+
 是由[史克威爾](../Page/史克威爾.md "wikilink")（今[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）開發，並於1991年發行的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第四部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於日本[超級任天堂](../Page/超級任天堂.md "wikilink")平臺首發，後來於多個平臺移植或重製。由於《[最終幻想II](https://zh.wikipedia.org/wiki/最終幻想II "wikilink")》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》最初沒有在日本以外發行，遊戲最初在北美發行時題為「最終幻想II」（），但後來移植或重製的本地化版改為了原標題。
 
 遊戲圍繞主角暗騎士塞西爾，講述他試圖阻止法師高貝茲佔據毀滅世界的故事。在旅程中不斷有隊員加入，亦有人因死亡、受傷或其他不幸事件而離隊。《最終幻想IV》引入的新元素成為最終幻想系列及其他常規角色扮演遊戲的樣板。和系列前作前作不同，遊戲使用了“即時戰鬥”系統，此系統也應用於五部遊戲續作中，同時《IV》中每個角色有固定設定的職業。

@@ -1,3 +1,6 @@
+> 本文内容由[OpenFOAM](https://zh.wikipedia.org/wiki/OpenFOAM)转换而来。
+
+
 **OpenFOAM**（英文 Open Source Field Operation and Manipulation 的缩写，意为开源的场运算和处理软件）是对[连续介质力学](../Page/连续介质力学.md "wikilink")问题进行[数值计算的](https://zh.wikipedia.org/wiki/数值计算 "wikilink")[C++](../Page/C++.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")工具包，其代码遵守[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")。它可进行数据预处理、后处理和自定义求解器，常用于[计算流体力学](../Page/计算流体力学.md "wikilink")(CFD)领域。该软件由OpenFOAM基金会维护\[1\]（商标**OpenFOAM**的拥有者[硅谷图形公司](../Page/硅谷图形公司.md "wikilink")(SGI)赞助）。
 
 ## 历史

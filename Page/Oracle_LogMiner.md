@@ -1,3 +1,6 @@
+> 本文内容由[Oracle LogMiner](https://zh.wikipedia.org/wiki/Oracle_LogMiner)转换而来。
+
+
 **Oracle LogMiner**是[甲骨文公司](../Page/甲骨文公司.md "wikilink")作为[Oracle数据库](../Page/Oracle数据库.md "wikilink")一部分提供的工具，提供查询Oracle[数据库](../Page/数据库.md "wikilink")记录日志的变化的方法，主要通过[SQL](../Page/SQL.md "wikilink")命令查询Oracle[重做日志中的数据](https://zh.wikipedia.org/wiki/事务日志 "wikilink")。[Oracle Enterprise Manager产品提供了同样功能的](https://zh.wikipedia.org/wiki/Oracle_Enterprise_Manager "wikilink")[GUI接口](../Page/图形用户界面.md "wikilink")。
 
 LogMiner turns the concept and practices of [数据挖掘](../Page/数据挖掘.md "wikilink")on the internal processes of the database itself.

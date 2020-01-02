@@ -1,3 +1,6 @@
+> 本文内容由[南十字座BH](https://zh.wikipedia.org/wiki/南十字座BH)转换而来。
+
+
 **南十字座BH**，又名**BD+37 2426**，**HD 118216**、**SAO 63623**、**HR 5110**，是[南十字座](../Page/南十字座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为4.98，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")83.33，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")76.41，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

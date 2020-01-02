@@ -1,3 +1,6 @@
+> 本文内容由[I do I do](https://zh.wikipedia.org/wiki/I_do_I_do)转换而来。
+
+
 《**I do I do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月30日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，改編自同名少女漫畫。
 
 ## 劇情簡介

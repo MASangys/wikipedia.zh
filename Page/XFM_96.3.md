@@ -1,3 +1,6 @@
+> 本文内容由[XFM 96.3](https://zh.wikipedia.org/wiki/XFM_96.3)转换而来。
+
+
 **Expat Radio 96.3 XFM**是[新加坡](../Page/新加坡.md "wikilink")的一個[調頻](https://zh.wikipedia.org/wiki/調頻 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")，屬於[新傳媒私人有限公司](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")。是新加坡唯一混合[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")、[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")、[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")、[印地語](https://zh.wikipedia.org/wiki/印地語 "wikilink")、[孟加拉語與](https://zh.wikipedia.org/wiki/孟加拉語 "wikilink")[德語的電台](https://zh.wikipedia.org/wiki/德語 "wikilink")，目標聽眾為住在新加坡的外國居民\[1\]。96.3 XFM已於2016年停播。
 
 ## 停播

@@ -1,3 +1,6 @@
+> 本文内容由[杜鵑座BQ](https://zh.wikipedia.org/wiki/杜鵑座BQ)转换而来。
+
+
 **杜鵑座BQ**，又名**CP-63 83**，**HD 5276**、**SAO 248276**、**HR 257**，是[杜鵑座](../Page/杜鵑座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.7，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")302.51，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-54.25，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

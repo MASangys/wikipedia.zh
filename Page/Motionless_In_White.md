@@ -1,3 +1,6 @@
+> 本文内容由[Motionless In White](https://zh.wikipedia.org/wiki/Motionless_In_White)转换而来。
+
+
 Ryan Sitkowski {{-}} Ricky Olson {{-}} Devin Sola {{-}} Vinny Mauro {{-}} | past_members = Frank Polumbo {{-}} Thomas Bell {{-}} Mike Costanza {{-}} Angelo Parent {{-}} Brandon "Rage" Richter {{-}} Josh Balz {{-}} }}
 
 **Motionless in White**是一個來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[斯克蘭頓 (賓夕法尼亞州)的美國](https://zh.wikipedia.org/wiki/斯克蘭頓_\(賓夕法尼亞州\) "wikilink")[金屬蕊](../Page/金屬蕊.md "wikilink")樂團。成立於2005年，這個樂團以黑暗的[恐怖小說](../Page/恐怖小說.md "wikilink")主題歌詞與裝扮聞名，大大符合了歌德流行的形象。Motionless in White現今與Roadrunner唱片簽約，目前總共發行了兩張EP與四張專輯，他們發行於2010年的第一張專輯《Creatures》獲得美國[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")200的第175名。

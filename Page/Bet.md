@@ -1,3 +1,6 @@
+> 本文内容由[Bet](https://zh.wikipedia.org/wiki/Bet)转换而来。
+
+
 **Bet**是许多闪米特字母表中的第二个字母，包括[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")****（）、[亚兰字母](https://zh.wikipedia.org/wiki/亚兰字母 "wikilink")[Beth.svg](https://zh.wikipedia.org/wiki/File:Beth.svg "fig:Beth.svg")、[希伯来字母](../Page/希伯来字母.md "wikilink")****、[腓尼基字母](../Page/腓尼基字母.md "wikilink")[Phoenician_beth.svg](https://zh.wikipedia.org/wiki/File:Phoenician_beth.svg "fig:Phoenician_beth.svg")以及[叙利亚字母](https://zh.wikipedia.org/wiki/叙利亚字母 "wikilink")****。
 
 Bet在不同的闪米特语言中都有“房子”的意思，最初来自[原始西奈字母中的](https://zh.wikipedia.org/wiki/原始西奈字母 "wikilink")[Proto-semiticB-01.svg](https://zh.wikipedia.org/wiki/File:Proto-semiticB-01.svg "fig:Proto-semiticB-01.svg")。\[1\]

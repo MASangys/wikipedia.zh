@@ -1,3 +1,6 @@
+> 本文内容由[Amazon Glacier](https://zh.wikipedia.org/wiki/Amazon_Glacier)转换而来。
+
+
 {{ infobox website | name = Amazon Glacier | logo =| logocaption = | type = [在线备份服务](https://zh.wikipedia.org/wiki/在线备份 "wikilink") | language = [英语](../Page/英语.md "wikilink") | current status = 活跃 | url =  | ipv6 = | commercial = 是 | registration = 需要 | owner = [亞馬遜公司](../Page/亞馬遜公司.md "wikilink") | launch date = 2012年8月21日\[1\] }}
 
 **Amazon Glacier**是由[亚马逊公司提供的一个归档与](https://zh.wikipedia.org/wiki/亚马逊公司 "wikilink")[备份](../Page/备份.md "wikilink")数据的[在线存储](../Page/云存储.md "wikilink")[Web服务](../Page/Web服务.md "wikilink")，于2012年8月21日推出。\[2\]

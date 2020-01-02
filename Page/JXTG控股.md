@@ -1,3 +1,6 @@
+> 本文内容由[JXTG控股](https://zh.wikipedia.org/wiki/JXTG控股)转换而来。
+
+
 **JXTG控股**（）是[日本](../Page/日本.md "wikilink")一間[石油化學工業公司](https://zh.wikipedia.org/wiki/石化業 "wikilink")，其麾下有在[日本](../Page/日本.md "wikilink")本國市占率相當大的[JXTG能源](../Page/JXTG能源.md "wikilink")（原[新日本石油](https://zh.wikipedia.org/wiki/新日本石油 "wikilink")）。而其他的事業則是進行石油精煉外銷以及在[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")、[東南亞等油源地區進行石油探勘的作業](https://zh.wikipedia.org/wiki/東南亞 "wikilink")。\[1\]
 
 2016年8月31日，吉坤控股(JX Holdings)以3,520亿日圆(34亿美元)的股票，收购日本营收第三大的炼油业者东燃通用石油 。合併後的新公司名称为JXTG Holdings，

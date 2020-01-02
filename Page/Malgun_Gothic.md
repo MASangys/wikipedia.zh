@@ -1,3 +1,6 @@
+> 本文内容由[Malgun Gothic](https://zh.wikipedia.org/wiki/Malgun_Gothic)转换而来。
+
+
 
 
 **Malgun Gothic**（；）是一款適用於螢幕顯示的[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")[黑體](https://zh.wikipedia.org/wiki/黑體 "wikilink")，由[Sandoll Communications開發](https://zh.wikipedia.org/wiki/Sandoll_Communications "wikilink")。其名稱“맑은”有“清晰、澄澈”之意，用以表示其具有良好的顯示效果。字體附帶在在[Windows Vista及其以上](../Page/Windows_Vista.md "wikilink")[作業系統中](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，爾後[Windows Server 2003和](../Page/Windows_Server_2003.md "wikilink")[Windows XP等用戶亦可下載安裝](../Page/Windows_XP.md "wikilink")。\[1\]

@@ -1,3 +1,6 @@
+> 本文内容由[朋友 \(Happiness單曲\)](https://zh.wikipedia.org/wiki/朋友_\(Happiness單曲\))转换而来。
+
+
 「**朋友**」（）是[Happiness的第](../Page/Happiness_\(組合\).md "wikilink")2張單曲。2011年4月27日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 收錄曲

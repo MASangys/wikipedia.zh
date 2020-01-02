@@ -1,3 +1,6 @@
+> 本文内容由[IPad \(第四代\)](https://zh.wikipedia.org/wiki/IPad_\(第四代\))转换而来。
+
+
 **第四代iPad**（正式名称为**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**，而**iPad 4**为俗称）\[1\]是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年10月23日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西發布的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")9.7吋-{zh-cn:显示屏;zh-hant:顯示器;}-[平板電腦](../Page/平板電腦.md "wikilink")，取代同年3月7日所發布、同樣配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的[第三代iPad](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")。
 
 2013年10月22日，蘋果公司發布[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad mini與](https://zh.wikipedia.org/wiki/iPad_mini_\(第二代\) "wikilink")[iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，原先配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的第四代iPad因而調整售價，不再提供32GB、64GB或128GB規格。

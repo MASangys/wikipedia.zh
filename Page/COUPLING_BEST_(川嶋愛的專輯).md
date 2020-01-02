@@ -1,3 +1,6 @@
+> 本文内容由[COUPLING BEST \(川嶋愛的專輯\)](https://zh.wikipedia.org/wiki/COUPLING_BEST_\(川嶋愛的專輯\))转换而来。
+
+
 『**COUPLING BEST**』是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
 
 ## 解說

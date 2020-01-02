@@ -1,3 +1,6 @@
+> 本文内容由[DMM.com](https://zh.wikipedia.org/wiki/DMM.com)转换而来。
+
+
 **DMM.com**是[日本](../Page/日本.md "wikilink")[電子商務網站](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，由DMM.com公司營運，主要從事網路販售等相關事業。
 
 ## 歷史

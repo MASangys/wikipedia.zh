@@ -1,3 +1,6 @@
+> 本文内容由[Double S 301](https://zh.wikipedia.org/wiki/Double_S_301)转换而来。
+
+
 **Double S 301**（，舊名**SS301**（）或**Triple S**（））是[DSP Entertainment於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2008年11月至2009年6月止所推出的企劃組合。為原[SS501](../Page/SS501.md "wikilink")成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")三人組成。Triple S是[SS501](../Page/SS501.md "wikilink")的官方FAN CLUB名稱，與FAN CLUB不同意義的是「三（Triple）」象徵三位成員與代表SS501的S所構成的新隊名\[1\]。廣大歌迷在網路上亦稱其組合為『許金金』美聲三人組，首張專輯在韓國推出後成績相當耀眼，堪稱是自2005年出道至2008年以來SS501專輯銷售量最好的一張\[2\]。2016年改名為**SS301**回歸歌壇。
 
 ## 經歷

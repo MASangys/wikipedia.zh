@@ -1,3 +1,6 @@
+> 本文内容由[Span与div](https://zh.wikipedia.org/wiki/Span与div)转换而来。
+
+
 }}  在[HTML](../Page/HTML.md "wikilink")中，`span`与`div`元素被用来表达一个逻辑区块。`div`在Dreamweaver也叫“层”，用于标示块级元素，而`span`标示行内元素。
 
 绝大多数HTML元素具有[语义上的意义](https://zh.wikipedia.org/wiki/语义 "wikilink") - 也就是说，这个元素表示了它的作用。例如，一个`p`元素应该包含一段文本，而一个`h1`元素应该包含页面的最高层级标题，可据此区分它们。但`span`和`div`没有天生的语义含义，它们可以被用于指定特定的区块或行列。

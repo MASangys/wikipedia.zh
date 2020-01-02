@@ -1,3 +1,6 @@
+> 本文内容由[假面骑士×假面骑士 Wizard \& Fourze MOVIE大战Ultimatum](https://zh.wikipedia.org/wiki/假面骑士×假面骑士_Wizard_\&_Fourze_MOVIE大战Ultimatum)转换而来。
+
+
 《**假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》和《**[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")**》聯動劇場版，「MOVIE大戰系列」第4部作品。日本地區於2012年12月8日上映。
 
 本作劇場版的口號為「究極的Show Time、開幕！」、「Wizard、向未來的約定。Fourze、5年前的約定。為完成那個「約定」、投入決戰之地。」

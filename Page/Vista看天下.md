@@ -1,3 +1,6 @@
+> 本文内容由[Vista看天下](https://zh.wikipedia.org/wiki/Vista看天下)转换而来。
+
+
 **《Vista看天下》**是一本创刊于2005年的中国大陆[新闻杂志](https://zh.wikipedia.org/wiki/新闻杂志 "wikilink")，每月8、18、28日出版。
 
 ## 简介

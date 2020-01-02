@@ -1,3 +1,6 @@
+> 本文内容由[波默罗伊号车辆运输舰 \(T-AKR-316\)](https://zh.wikipedia.org/wiki/波默罗伊号车辆运输舰_\(T-AKR-316\))转换而来。
+
+
 **波默罗伊号车辆运输舰**（，**[舷號T](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-AKR-316**）是[沃森级车辆运输舰的第七艘](https://zh.wikipedia.org/wiki/沃森级车辆运输舰 "wikilink")，以[荣誉勋章](../Page/荣誉勋章.md "wikilink")获得者，在[朝鲜战争](../Page/朝鲜战争.md "wikilink")中阵亡的[拉尔夫·E·波默罗伊](https://zh.wikipedia.org/wiki/拉尔夫·E·波默罗伊 "wikilink")[一等兵](https://zh.wikipedia.org/wiki/一等兵 "wikilink")（Ralph E. Pomeroy）命名。
 
 2001年3月10日该舰下水，并于2001年8月14日服役。它是美国[军事海运司令部所属的](https://zh.wikipedia.org/wiki/军事海运司令部 "wikilink")19艘[大型中速滚装船](../Page/大型中速滚装船.md "wikilink")中的一艘，也是执行战略预置任务的33艘运输舰中的一员。

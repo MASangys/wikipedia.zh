@@ -1,3 +1,6 @@
+> 本文内容由[杜安·D·蒂森](https://zh.wikipedia.org/wiki/杜安·D·蒂森)转换而来。
+
+
 **杜安·D·蒂森**（，）出生于[美国](../Page/美国.md "wikilink")[堪萨斯州](https://zh.wikipedia.org/wiki/堪萨斯州 "wikilink")[马里昂县](https://zh.wikipedia.org/wiki/馬里昂縣_\(堪薩斯州\) "wikilink")，毕业于[匹兹堡州立大学](https://zh.wikipedia.org/wiki/匹兹堡州立大学 "wikilink")，1974年开始在[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")服役，官至[中將](../Page/中將.md "wikilink")，前太平洋海军陆战队司令。
 
 ## 生平

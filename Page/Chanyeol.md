@@ -1,3 +1,6 @@
+> 本文内容由[Chanyeol](https://zh.wikipedia.org/wiki/Chanyeol)转换而来。
+
+
 **朴燦烈**\[1\]（，），藝名**Chanyeol**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男藝人](https://zh.wikipedia.org/wiki/男藝人 "wikilink")，為韓國男子團體[EXO](../Page/EXO.md "wikilink")及韓國分隊[EXO-K](../Page/EXO-K.md "wikilink")以及[EXO-SC](../Page/EXO-SC.md "wikilink")的成員\[2\]\[3\]，在隊內擔當主Rapper，副領唱和門面，虛構超能力為「**火(火凤凰)**」。
 
 ## 早期生活

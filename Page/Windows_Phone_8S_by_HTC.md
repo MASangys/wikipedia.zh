@@ -1,3 +1,6 @@
+> 本文内容由[Windows Phone 8S by HTC](https://zh.wikipedia.org/wiki/Windows_Phone_8S_by_HTC)转换而来。
+
+
 **Windows Phone 8S by HTC**（簡稱**HTC 8S**或**HTC Windows Phone 8S**）是[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2012年9月19日與[微軟共同發表的一款智慧型手機](https://zh.wikipedia.org/wiki/微軟 "wikilink")，搭載[Windows Phone 8作業系統](../Page/Windows_Phone_8.md "wikilink")、使用[Beats Audio音訊技術](https://zh.wikipedia.org/wiki/Beats_Audio "wikilink")，內建4GB的ROM及512的RAM，並支援 [MicroSD](../Page/MicroSD.md "wikilink") 卡擴充。\[1\]\[2\]
 
 ## 設計

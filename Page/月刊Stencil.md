@@ -1,3 +1,6 @@
+> 本文内容由[月刊Stencil](https://zh.wikipedia.org/wiki/月刊Stencil)转换而来。
+
+
 《**月刊Stencil**》（月刊ステンシル），[日本](../Page/日本.md "wikilink")[艾尼克斯](../Page/艾尼克斯.md "wikilink")發行的[月刊漫畫雑誌](https://zh.wikipedia.org/wiki/月刊 "wikilink")，1999年創刊，2003年休刊。
 
 ## 連載作品

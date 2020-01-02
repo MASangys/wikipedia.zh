@@ -1,3 +1,6 @@
+> 本文内容由[FASHION MONSTER](https://zh.wikipedia.org/wiki/FASHION_MONSTER)转换而来。
+
+
 《**FASHION MONSTER**》（）是[Kyary Pamyu Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年10月17日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。
 
 [Kyary Pamyu Pamyu繼](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")「[CANDY CANDY](../Page/CANDY_CANDY.md "wikilink")」的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。樂曲的製作人是繼前作[中田康貴](../Page/中田康貴.md "wikilink")擔當。分為初回限定盤和通常盤2種形態發售。

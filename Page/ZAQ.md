@@ -1,3 +1,6 @@
+> 本文内容由[ZAQ](https://zh.wikipedia.org/wiki/ZAQ)转换而来。
+
+
 **ZAQ**（，\[1\]），[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")、[作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")。
 
 ## 經歷

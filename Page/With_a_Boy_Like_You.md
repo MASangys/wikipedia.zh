@@ -1,3 +1,6 @@
+> 本文内容由[With a Boy Like You](https://zh.wikipedia.org/wiki/With_a_Boy_Like_You)转换而来。
+
+
 **《With a Boy Like You》**是[吳雨霏](../Page/吳雨霏.md "wikilink")的第一張個人音樂專輯，於2006年1月26日推出，隨碟附送「加州紅903熱火樂團音樂會 KARY 0609 吳雨霏」足本片段。唱片共推出兩個版本，一個為平裝版，另一個為首批特別版。兩者分別在於，首批特別版的封面是以3D形式包裝。
 
 ## 曲目列表

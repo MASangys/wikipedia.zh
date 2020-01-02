@@ -1,3 +1,6 @@
+> 本文内容由[AKB48殺人事件](https://zh.wikipedia.org/wiki/AKB48殺人事件)转换而来。
+
+
 《**AKB48殺人事件**》是一部由[秋元康](../Page/秋元康.md "wikilink")企畫、[青山剛昌](../Page/青山剛昌.md "wikilink")原作、[梧桐柾木](../Page/梧桐柾木.md "wikilink")作畫的[日本](../Page/日本.md "wikilink")[推理漫畫](../Page/推理漫畫.md "wikilink")。這部漫畫與食品廠商[固力果推出的](https://zh.wikipedia.org/wiki/固力果 "wikilink")[雪寶產品](https://zh.wikipedia.org/wiki/雪寶 "wikilink")「[冰之實](https://zh.wikipedia.org/wiki/冰之實 "wikilink")」（）之[電視廣告](../Page/電視廣告.md "wikilink")與活動網站異業結合，透過廣告與漫畫的內容讓讀者推理犯人身份。漫畫作品刊載於[小學館](../Page/小學館.md "wikilink")發行的漫畫週刊《[週刊少年Sunday](../Page/週刊少年Sunday.md "wikilink")》上，自2012年7月4日出刊的第31期起，以短期連載方式分9回刊載。
 
 ## 概要

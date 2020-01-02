@@ -1,3 +1,6 @@
+> 本文内容由[Go to the top](https://zh.wikipedia.org/wiki/Go_to_the_top)转换而来。
+
+
 《**Go to the top**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2012年10月24日發行的53rd[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。為2012年產後回歸的第一張單曲。
 
 ## 解說

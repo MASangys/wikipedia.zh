@@ -1,3 +1,6 @@
+> 本文内容由[Megwin](https://zh.wikipedia.org/wiki/Megwin)转换而来。
+
+
 **MEGWIN TV（メグウィン TV）**，建立者為關根劍，為一名日本籍的[YouTuber](../Page/YouTuber.md "wikilink")，也是[YouTube](../Page/YouTube.md "wikilink")合作伙伴的其中一個。MEGWIN TV於2005年至2018年末間，每天都有上傳新影片。
 這頻道的訂閱者數量於2016年突破五十萬，後於2018年突破一百萬。此外，這頻道被認為是日本Youtuber的先驅和鼻祖\[1\]\[2\]。
 \*為防止歧義，本文會以MEGWIN代表關根劍，MEGWIN TV代表整個頻道。

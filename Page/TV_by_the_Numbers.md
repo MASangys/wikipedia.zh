@@ -1,3 +1,6 @@
+> 本文内容由[TV by the Numbers](https://zh.wikipedia.org/wiki/TV_by_the_Numbers)转换而来。
+
+
 **TV by the Numbers**是一个由罗伯特·塞德曼和比尔·戈曼于2007年9月创立的专门报道电视收视率的网站\[1\]。
 
 ## 历史

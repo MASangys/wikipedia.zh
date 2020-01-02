@@ -1,3 +1,6 @@
+> 本文内容由[第23回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第23回NHK紅白歌合戰)转换而来。
+
+
 **第23回NHK紅白歌合戰**於1972年12月31日在[東京宝塚劇場舉行](https://zh.wikipedia.org/wiki/東京宝塚劇場 "wikilink")，並於[NHK播映](https://zh.wikipedia.org/wiki/NHK "wikilink")。
 
 ## 概要

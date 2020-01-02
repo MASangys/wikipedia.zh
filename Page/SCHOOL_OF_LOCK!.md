@@ -1,3 +1,6 @@
+> 本文内容由[SCHOOL OF LOCK!](https://zh.wikipedia.org/wiki/SCHOOL_OF_LOCK!)转换而来。
+
+
 《**SCHOOL OF LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製播的[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00 - 23:55、週五22:00 - 22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN](../Page/JFN.md "wikilink")旗下加盟台向日本全國播出。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰的學校」（），許多節目內容均以[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")[上課為概念呈現](https://zh.wikipedia.org/wiki/課堂 "wikilink")。現由遠山大輔主持，節目中另有多個由個別藝人主持的單元。
 
 ## 上課時間（播出時間）

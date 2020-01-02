@@ -1,3 +1,6 @@
+> 本文内容由[Skylake微架構](https://zh.wikipedia.org/wiki/Skylake微架構)转换而来。
+
+
 **Intel Skylake**是[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")[架構](../Page/微架構.md "wikilink")，將會是[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Haswell](https://zh.wikipedia.org/wiki/Haswell "wikilink")／[Broadwell微架構的繼任者](https://zh.wikipedia.org/wiki/Broadwell "wikilink")。\[1\]Intel Skylake微架為使用[14納米製程製造](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")。\[2\] 根据[Intel於](https://zh.wikipedia.org/wiki/Intel "wikilink")2016年公開的[Tick-Tock發展戰略模式](https://zh.wikipedia.org/wiki/Tick-Tock "wikilink")，Skylake是一个「Architechture」版本，意思是在「Process」製程基礎上，更新微處理器架構，提升效能\[3\]。Skylake的下一代架構為[Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")（已于2016年下半年发布）\[4\]\[5\]。
 
 ## 主要特性 (Core i 6代)

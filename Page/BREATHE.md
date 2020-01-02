@@ -1,3 +1,6 @@
+> 本文内容由[BREATHE](https://zh.wikipedia.org/wiki/BREATHE)转换而来。
+
+
 **BREATHE**是日本二人的歌唱組合。所屬事務所[LDH公司](../Page/LDH_\(藝能事務所\).md "wikilink")。所屬唱片公司為[艾迴唱片旗下廠牌](https://zh.wikipedia.org/wiki/艾迴 "wikilink")[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 簡歷

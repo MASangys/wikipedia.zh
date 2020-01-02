@@ -1,3 +1,6 @@
+> 本文内容由[V聯賽 \(韓國\)](https://zh.wikipedia.org/wiki/V聯賽_\(韓國\))转换而来。
+
+
 **V聯賽**（、），是[韓國的職業](https://zh.wikipedia.org/wiki/韓國 "wikilink")[排球](../Page/排球.md "wikilink")聯賽，成立於2005年，由[韓國排球聯合會負責維持聯賽的運作](https://zh.wikipedia.org/wiki/韓國排球聯合會 "wikilink")，目前共有13支球隊，其中男子組7隊，女子組6隊。
 
 ## 賽制
@@ -31,6 +34,6 @@
 
 ## 外部連結
 
-  - [韓國排球協會](http://www.kovo.co.kr)
+  - [韓國排球協會](https://web.archive.org/web/20071003004900/http://www.kovo.co.kr/)
 
 [Category:排球聯賽](https://zh.wikipedia.org/wiki/Category:排球聯賽 "wikilink") [Category:韓國排球](https://zh.wikipedia.org/wiki/Category:韓國排球 "wikilink")

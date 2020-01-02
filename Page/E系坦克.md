@@ -1,3 +1,6 @@
+> 本文内容由[E系坦克](https://zh.wikipedia.org/wiki/E系坦克)转换而来。
+
+
 **E系列**（Entwicklung series，簡稱 E-series），是1942年5月由[德国](../Page/德国.md "wikilink")第6兵工厂总工程师[海因里希·克尼坎普正式提出的一个在现有](https://zh.wikipedia.org/wiki/海因里希·克尼坎普 "wikilink")[坦克](../Page/坦克.md "wikilink")和装甲车辆与未来坦克和装甲车辆寻找一个结合点，开发具有高通用性能的[坦克](../Page/坦克.md "wikilink")零件一个未来坦克发展计划，在1943年4月此计划开始，并被命名为E（德语Entwicklung的代称“发展”）。
 
 ## 由来

@@ -1,3 +1,6 @@
+> 本文内容由[Matrix Software](https://zh.wikipedia.org/wiki/Matrix_Software)转换而来。
+
+
 **Matrix Software**（）是位于日本[东京](../Page/东京.md "wikilink")的一家电子游戏开发公司，其由[Climax Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路](../Page/日本通訊網路.md "wikilink")的前成员于1994年7月建立，该公司1997年4月开始制作名为《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。Matrix与[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")和[Chunsoft合作制作一些游戏系列](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，如[最终幻想和](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[勇者斗恶龙](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及其他[动画](../Page/动画.md "wikilink")和[漫画方面](https://zh.wikipedia.org/wiki/漫画 "wikilink")。除游戏机平台外，Matrix Software也从2001年开始制作各种日本手机品牌的游戏。
 
 ## 公司发展

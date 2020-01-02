@@ -1,3 +1,6 @@
+> 本文内容由[Day by Day](https://zh.wikipedia.org/wiki/Day_by_Day)转换而来。
+
+
 《**Day by Day**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第六張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")，由[Core Contents Media於](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2012年7月3日發行\[1\]。這張同時也是[柳和榮](../Page/柳和榮.md "wikilink")退出組合前最後一張參與錄製的專輯，以及新成員[李雅琳的出道專輯](https://zh.wikipedia.org/wiki/李雅琳 "wikilink")。
 
 原定於2012年8月15日要推出重新包裝的第七張迷你專輯《**Mirage**》\[2\]，但受到柳和榮退出組合事件的影響，故將發行日期推延至同年9月3日\[3\]。

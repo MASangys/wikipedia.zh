@@ -1,3 +1,6 @@
+> 本文内容由[JailbreakMe](https://zh.wikipedia.org/wiki/JailbreakMe)转换而来。
+
+
 **JailbreakMe**是一个[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[Safari](../Page/Safari.md "wikilink")的漏洞使浏览器崩溃来达到越狱的目的，如JailbreakMe 3.0就利用了Safari显示[PDF文稿时的一个漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")。\[2\] 不同于 、[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia](../Page/Cydia.md "wikilink")到桌面。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。 [JailbreakMe_3.0.png](https://zh.wikipedia.org/wiki/File:JailbreakMe_3.0.png "fig:JailbreakMe_3.0.png") JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod touch的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe 3.0越狱\[3\] 。但是随着comex被苹果招安，他也宣布了不再从事越狱开发。但是JailbreakMe依然会提供越狱服务\[4\]。
 
 ## 版本
@@ -103,24 +106,14 @@ comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称�
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:自製軟件](https://zh.wikipedia.org/wiki/Category:自製軟件 "wikilink")
 
 1.  [JailbreakMe的越狱网站](http://www.jailbreakme.com)
-
 2.
-
 3.
-
 4.  \[<http://www.weiphone.com/apple/news/2011-09-02/Behind_Apple_s_amnesty_Comex_240691.shtml>。 comex被招安的背后\]
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
 11.
-
 12.

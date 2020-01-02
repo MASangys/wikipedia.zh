@@ -1,3 +1,6 @@
+> 本文内容由[VIXX](https://zh.wikipedia.org/wiki/VIXX)转换而来。
+
+
 **VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2012年所推出的六人男子團體，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
 
 團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet](../Page/Mnet.md "wikilink")實境節目《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。

@@ -1,3 +1,6 @@
+> 本文内容由[Pfeifer Zeliska轉輪手槍](https://zh.wikipedia.org/wiki/Pfeifer_Zeliska轉輪手槍)转换而来。
+
+
 **Pfeifer Zeliska**是一種由[奧地利Pfeifer武器生產的大口徑單動式](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[轉輪手槍](https://zh.wikipedia.org/wiki/轉輪手槍 "wikilink")。
 
 ## 概述

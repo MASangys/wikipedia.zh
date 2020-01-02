@@ -1,3 +1,6 @@
+> 本文内容由[愛情靈魂～lover soul～](https://zh.wikipedia.org/wiki/愛情靈魂～lover_soul～)转换而来。
+
+
 **《愛情靈魂～lover soul～》（）**為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2009年9月16日發行之19th單曲（含RUI、KOH+名義）。
 
 ## 概要

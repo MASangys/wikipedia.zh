@@ -1,3 +1,6 @@
+> 本文内容由[AMD-65突擊步槍](https://zh.wikipedia.org/wiki/AMD-65突擊步槍)转换而来。
+
+
 **AMD-65** (**A**utomata **M**ódosított **D**eszant 19**65**) 是[匈牙利](../Page/匈牙利.md "wikilink")生產的[AKM仿製型之一](https://zh.wikipedia.org/wiki/AKM "wikilink")，主要配發給當時的車輛人員及[傘兵](../Page/傘兵.md "wikilink")使用。它同時可用作一件步兵武器以應付室外的戰鬥，亦可用作裝甲車輛的火力支援武器。
 
 ## 設計

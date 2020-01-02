@@ -1,3 +1,6 @@
+> 本文内容由[Windows 8移除的功能](https://zh.wikipedia.org/wiki/Windows_8移除的功能)转换而来。
+
+
 **[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")** 加入了許多新功能，但是同時也有許多在 [Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") 中的功能卻遭到移除或沒有改變。
 
 ## Windows 介面

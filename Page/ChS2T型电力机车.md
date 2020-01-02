@@ -1,3 +1,6 @@
+> 本文内容由[ChS2T型电力机车](https://zh.wikipedia.org/wiki/ChS2T型电力机车)转换而来。
+
+
 **ChS2T型电力机车**（）是[苏联](../Page/苏联.md "wikilink")铁路的干线客运[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，适用于供电制式为3千伏[直流电的](https://zh.wikipedia.org/wiki/直流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。
 
 1950年代起，按[经济互助委员会分工](https://zh.wikipedia.org/wiki/经济互助委员会 "wikilink")，苏联向东欧国家-{出口}-干线[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，而从[捷克斯洛伐克进口电力传动调车柴油机车和客运电力机车](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")，ChS2T型电力机车为其中之一。1972年末，斯柯达公司为苏联铁路提供了两台用于实验的ChS2T型电力机车原型车（875、876），工厂设计代号为63E0。ChS2T型电力机车是在[ChS2型电力机车](../Page/ChS2型电力机车.md "wikilink")基础上改进而成的准高速干线客运直流电力机车，采用了与[ChS4T型电力机车相同的新型车体结构](https://zh.wikipedia.org/wiki/ChS4T型电力机车 "wikilink")，并换装功率更大的AL-4846dT型脉流[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")，机车设有大功率[电阻制动](../Page/电阻制动.md "wikilink")装置。

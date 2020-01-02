@@ -1,3 +1,6 @@
+> 本文内容由[SWA5衝鋒槍](https://zh.wikipedia.org/wiki/SWA5衝鋒槍)转换而来。
+
+
 **SWA5**衝鋒槍是由一間[美國民間小槍廠](https://zh.wikipedia.org/wiki/美國 "wikilink")[Special Weapons所製造的](https://zh.wikipedia.org/wiki/Special_Weapons "wikilink")[MP5仿製版](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")。
 
 ## 設計

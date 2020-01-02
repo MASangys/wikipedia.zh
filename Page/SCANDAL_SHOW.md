@@ -1,3 +1,6 @@
+> 本文内容由[SCANDAL SHOW](https://zh.wikipedia.org/wiki/SCANDAL_SHOW)转换而来。
+
+
 《**SCANDAL SHOW**》是[SCANDAL的首張](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2012年3月7日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 收錄曲

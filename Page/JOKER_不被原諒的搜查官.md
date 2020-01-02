@@ -1,3 +1,6 @@
+> 本文内容由[JOKER 不被原諒的搜查官](https://zh.wikipedia.org/wiki/JOKER_不被原諒的搜查官)转换而来。
+
+
 **《JOKER 不被原諒的搜查官》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：ジョーカー 許されざる捜査官），臺灣播出譯名為《**JOKER私法正義**》（緯來日本台）、《**王牌搜查官**》（國興衛視）。為日本[富士電視台](../Page/富士電視台.md "wikilink")自2010年7月13日起至同年9月14日期間播放的週二晚間九點檔（火九）。由[堺雅人](../Page/堺雅人.md "wikilink")主演。
 
 ## 概要

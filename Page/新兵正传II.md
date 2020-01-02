@@ -1,3 +1,6 @@
+> 本文内容由[新兵正传II](https://zh.wikipedia.org/wiki/新兵正传II)转换而来。
+
+
 《**新兵正传II**》（）是2013年的一部[新加坡](../Page/新加坡.md "wikilink")贺岁电影，由[梁智强执导及编剧](https://zh.wikipedia.org/wiki/梁智强 "wikilink")，此片是荣登了新加坡影史上最卖座的华语片《[新兵正传](../Page/新兵正传.md "wikilink")》下集，将在2013年2月1日上映。
 
 ## 剧情

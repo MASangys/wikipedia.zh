@@ -1,3 +1,6 @@
+> 本文内容由[DAR-21突擊步槍](https://zh.wikipedia.org/wiki/DAR-21突擊步槍)转换而来。
+
+
 **大宇XK8**，又稱：**DAR-21**，是一款由[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[大宇精密工業研製及生產的](https://zh.wikipedia.org/wiki/大宇精密工業 "wikilink")[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。此槍是專門為[大韓民國國軍](../Page/大韓民國國軍.md "wikilink")研製，旨在取代過時的[K2突擊步槍](../Page/K2突擊步槍.md "wikilink")。然而由於他們只對[大宇K11感興趣](../Page/K11多用途步槍.md "wikilink")，XK8並沒有作大規模生產。此槍在設計上有著強烈的[人體工學](https://zh.wikipedia.org/wiki/人體工學 "wikilink")，類似於[以色列](../Page/以色列.md "wikilink")的[TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[Compass \(川嶋愛的歌曲\)](https://zh.wikipedia.org/wiki/Compass_\(川嶋愛的歌曲\))转换而来。
+
+
 《**compass**》是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2007年3月14日發售的第12張單曲\[1\]。
 
 ## 概要

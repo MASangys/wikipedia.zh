@@ -1,3 +1,6 @@
+> 本文内容由[J探员](https://zh.wikipedia.org/wiki/J探员)转换而来。
+
+
 **J探员**（），也叫杰伊或单个字母J，是一个虚构的[MIB特工](../Page/黑衣人.md "wikilink")，為電影《[黑衣人](https://zh.wikipedia.org/wiki/黑衣人_\(电影\) "wikilink")》及其续集《[黑衣人2](https://zh.wikipedia.org/wiki/黑衣人2 "wikilink")》、《[黑衣人3](../Page/黑衣人3.md "wikilink")》与動畫電視劇《[黑衣警探](../Page/黑衣警探.md "wikilink")》中的两位主角之一。在三部电影中，J探员都是由[威尔·史密斯所饰演的](https://zh.wikipedia.org/wiki/威尔·史密斯 "wikilink")\[1\]\[2\]\[3\]，动画的配音则是由担任。
 
 ## 生平

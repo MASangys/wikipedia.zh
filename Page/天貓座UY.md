@@ -1,3 +1,6 @@
+> 本文内容由[天貓座UY](https://zh.wikipedia.org/wiki/天貓座UY)转换而来。
+
+
 **天貓座UY**，又名**BD+51 1295**，**HD 54895**、**SAO 26223**、**HR 2703**，是[天貓座的一颗恒星](https://zh.wikipedia.org/wiki/天貓座 "wikilink")\[1\]\[2\]，视星等为5.47，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")165.8，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")24.18，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

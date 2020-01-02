@@ -1,3 +1,6 @@
+> 本文内容由[Bless You \(家入里歐單曲\)](https://zh.wikipedia.org/wiki/Bless_You_\(家入里歐單曲\))转换而来。
+
+
 「**Bless You**」是[家入里歐](../Page/家入里歐.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月12日由[Victor Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 概要

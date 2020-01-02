@@ -1,3 +1,6 @@
+> 本文内容由[TWiT.tv](https://zh.wikipedia.org/wiki/TWiT.tv)转换而来。
+
+
 **TWiT直播网**是**TWiT LLC**的商标名，它是由美国[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")[广播人兼](https://zh.wikipedia.org/wiki/广播 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")所主持的一个[播客](../Page/播客.md "wikilink")網。 在2005年4月，直播网开始运行，启动了“本周科技/This Week in Tech”的栏目。 目前栏目有全美联播的广播电台节目The Tech Guy，苹果计算机Apple Computer，本周谷歌This Week in Google，关于安卓的一切All About Android和当前的科技新闻。
 
 TWiT创始人和拥有者Leo Laporte在2009年10月演讲中，说到TWit的营业收入达到每年一百五十万美元，其中花费约为三十五万美元。\[1\]之后在2009年10月24日，Leo在TWiG本周谷歌中说到TWiT年营业额可能会接近两百五十万美元。

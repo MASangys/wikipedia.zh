@@ -1,3 +1,6 @@
+> 本文内容由[Ba.27戰鬥機](https://zh.wikipedia.org/wiki/Ba.27戰鬥機)转换而来。
+
+
 **布雷達Ba.27戰鬥機**'是[義大利布雷達公司在](https://zh.wikipedia.org/wiki/義大利 "wikilink")1930年代初期設計的單翼[戰鬥機](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")，也是義大利航空業界研發的第一款單主翼戰機，但是在技術條件不成熟的情況性能並不出眾，經過改良後僅有[中華民國](../Page/中華民國.md "wikilink")採購。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[YES! \(EXILE單曲\)](https://zh.wikipedia.org/wiki/YES!_\(EXILE單曲\))转换而来。
+
+
 《**YES\!**》為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第20張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2006年3月1日於日本發行。
 
 ## 概要

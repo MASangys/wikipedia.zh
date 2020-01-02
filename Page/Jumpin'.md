@@ -1,3 +1,6 @@
+> 本文内容由[Jumpin\'](https://zh.wikipedia.org/wiki/Jumpin\')转换而来。
+
+
 「**Jumping**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")2張日语單曲。2010年11月10日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 仕様

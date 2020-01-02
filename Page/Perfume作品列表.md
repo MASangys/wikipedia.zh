@@ -1,3 +1,6 @@
+> 本文内容由[Perfume作品列表](https://zh.wikipedia.org/wiki/Perfume作品列表)转换而来。
+
+
 本頁是日本女子[流行電子音樂組合](https://zh.wikipedia.org/wiki/流行電子音樂 "wikilink")**[Perfume](../Page/Perfume_\(日本音樂團體\).md "wikilink")**的作品列表。自2005年Perfume主流出道以來，到2018年8月為止共發表了7張原創專輯及30張單曲。
 
 ## 專輯

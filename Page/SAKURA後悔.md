@@ -1,3 +1,6 @@
+> 本文内容由[SAKURA後悔](https://zh.wikipedia.org/wiki/SAKURA後悔)转换而来。
+
+
 《**SAKURA後悔**》（）是日本女子組合[FLOWER的第](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")2張單曲，於2012年2月29日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要

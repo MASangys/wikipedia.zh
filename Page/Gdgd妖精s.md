@@ -1,3 +1,6 @@
+> 本文内容由[Gdgd妖精s](https://zh.wikipedia.org/wiki/Gdgd妖精s)转换而来。
+
+
 **gdgd妖精s**（），是一部以[CGI技術製作的](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，於2011年10月推出第1期，並於2013年1月推出第2期。兩期的主標題沒有分別，惟第2期副標題標示特別拉長的尾音。
 
 ## 概要
@@ -446,25 +449,15 @@ gdgd四格漫畫妖精s<br />
 [Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:妖精題材作品](https://zh.wikipedia.org/wiki/Category:妖精題材作品 "wikilink") [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
-
 2.  　
-
 3.
-
 4.  第1集為免費，往後集數於兩週內免費播放，然後轉為收費作品。
-
 5.  第12集改為與東京都會電視台同步公開。
-
 6.  於兩週內免費播放，然後轉為收費作品。
-
 7.
 8.
 9.  \[<http://gdgdfairy.com/part/goods/part_dvd01.html>　gdgd妖精s DVD\&BD Vol.1\]
-
 10. [gdgd妖精s DVD\&BD Vol.2](http://gdgdfairy.com/part/goods/part_dvd02.html)
-
 11. [gdgd妖精s DVD\&BD Vol.3](http://gdgdfairy.com/part/goods/part_dvd03.html)
-
 12. [gdgd妖精s 第2期BD Vol.1](http://gdgdfairy.com/part/goods/part_dvd04.html)
-
 13. [gdgd妖精s 第2期BD Vol.2](http://gdgdfairy.com/part/goods/part_dvd05.html)

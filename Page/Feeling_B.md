@@ -1,3 +1,6 @@
+> 本文内容由[Feeling B](https://zh.wikipedia.org/wiki/Feeling_B)转换而来。
+
+
 **Feeling B**是一支已經解散的東德[朋克摇滚](https://zh.wikipedia.org/wiki/朋克摇滚 "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，于1983年成立，扎根于地下朋克现场，於1990年代解散。然而在一些场合中，乐队成员仍然舉辦个人演唱会，直到2001年11月Aljoscha Rompe因為哮喘发作，於53歲逝世為止。
 
 主唱為Aljoscha Rompe，居住在[东德的](https://zh.wikipedia.org/wiki/东德 "wikilink")[瑞士人](../Page/瑞士人.md "wikilink")，他的随同[Christian Lorenz和](https://zh.wikipedia.org/wiki/Christian_Lorenz "wikilink")[Paul Landers后来成为](https://zh.wikipedia.org/wiki/Paul_Landers "wikilink")[Rammstein的键盘手和节奏吉他手](https://zh.wikipedia.org/wiki/Rammstein "wikilink")。Rammstein主唱Till Lindemann在歌曲《Lied von der unruhevollen Jugend》中與Feeling B合作过，在Mutter巡演期间Rammstein演奏过这歌曲两次。

@@ -1,3 +1,6 @@
+> 本文内容由[夜曲Op. 9 \(蕭邦\)](https://zh.wikipedia.org/wiki/夜曲Op._9_\(蕭邦\))转换而来。
+
+
 [Chopin_nocturne_op9_1a.png](https://zh.wikipedia.org/wiki/File:Chopin_nocturne_op9_1a.png "fig:Chopin_nocturne_op9_1a.png") [Chopin_nocturne_op9_1b.png](https://zh.wikipedia.org/wiki/File:Chopin_nocturne_op9_1b.png "fig:Chopin_nocturne_op9_1b.png")  **夜曲Op. 9**是[蕭邦的一組](https://zh.wikipedia.org/wiki/蕭邦 "wikilink")[夜曲作品](https://zh.wikipedia.org/wiki/夜曲 "wikilink")，共三首。該曲於1830至1832年創作，1833年出版，獻給鋼琴家Camille Pleyel\[1\]。
 
 ## Op. 9, No. 1

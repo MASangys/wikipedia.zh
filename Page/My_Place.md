@@ -1,3 +1,6 @@
+> 本文内容由[My Place](https://zh.wikipedia.org/wiki/My_Place)转换而来。
+
+
 My Place，是日本的音樂組合[(二代目)J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")4張單曲。於2009年1月7日起於EXILE mobile限量銷售。
 
 ## 解說

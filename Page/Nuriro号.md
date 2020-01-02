@@ -1,3 +1,6 @@
+> 本文内容由[Nuriro号](https://zh.wikipedia.org/wiki/Nuriro号)转换而来。
+
+
 **Nuriro号**，或称**Nooriro号**（[韩国语](https://zh.wikipedia.org/wiki/韩国语 "wikilink")：누리로）是[韩国铁道公社的准高速铁路客车之一](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")，于2009年6月1日开始在[京釜线和](https://zh.wikipedia.org/wiki/京釜线 "wikilink")[长项线营运](https://zh.wikipedia.org/wiki/长项线 "wikilink")，2010年3月31日开始在[忠北线营运](https://zh.wikipedia.org/wiki/忠北线 "wikilink")。
 
 ## 概况

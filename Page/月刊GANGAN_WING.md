@@ -1,3 +1,6 @@
+> 本文内容由[月刊GANGAN WING](https://zh.wikipedia.org/wiki/月刊GANGAN_WING)转换而来。
+
+
 《**月刊GANGAN WING**》（月刊ガンガンWING），[日本](../Page/日本.md "wikilink")[史克威爾艾尼克斯發行的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")[月刊漫畫雜誌](https://zh.wikipedia.org/wiki/月刊 "wikilink")，2009年創刊，每月26日發售。
 
 ## 連載作品

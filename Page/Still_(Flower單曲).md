@@ -1,3 +1,6 @@
+> 本文内容由[Still \(Flower單曲\)](https://zh.wikipedia.org/wiki/Still_\(Flower單曲\))转换而来。
+
+
 《**Still**》是日本女子組合[FLOWER的出道單曲](https://zh.wikipedia.org/wiki/FLOWER_\(組合\) "wikilink")，於2011年10月12日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要

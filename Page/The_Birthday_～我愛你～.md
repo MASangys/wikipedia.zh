@@ -1,3 +1,6 @@
+> 本文内容由[The Birthday ～我愛你～](https://zh.wikipedia.org/wiki/The_Birthday_～我愛你～)转换而来。
+
+
 《**The Birthday ～我愛你～**》（原名 : The Birthday 〜Ti Amo〜）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年9月24日於日本發行。
 
 ## 解說

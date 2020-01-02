@@ -1,3 +1,6 @@
+> 本文内容由[LB](https://zh.wikipedia.org/wiki/LB)转换而来。
+
+
 **LB**、**lb**或**lb.**可以指：
 
 ## 縮寫

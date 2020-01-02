@@ -1,3 +1,6 @@
+> 本文内容由[TVN](https://zh.wikipedia.org/wiki/TVN)转换而来。
+
+
 **tvN**（**T**otal **V**ariety **N**etwork）是[CJ E\&M所拥有的](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[韩国综合娱乐频道](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。
 
 ## 戲劇節目
@@ -508,7 +511,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>2019年8月9日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年10月19日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -583,7 +586,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 （間中停播2次，變更播放時段3次）</p></td>
 <td><p>2015年2月26日</p></td>
 <td><p>2015年7月16日</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="odd">
@@ -608,27 +611,34 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/問題性男人－腦遊蕩團.md" title="wikilink">問題性男人－腦遊蕩團</a></p></td>
+<td><p>2019年11月21日</p></td>
+<td><p>播放中</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/家常飯白老師.md" title="wikilink">家常飯白老師</a></p></td>
 <td><p>2015年5月19日</p></td>
 <td><p>2016年1月26日</p></td>
 <td><p>3</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年3月22日</p></td>
 <td><p>2016年11月22日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年2月14日</p></td>
 <td><p>2017年11月28日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><br />
 （共4季，只有第三、四季通過tvN台播出）</p></td>
 <td><p>2015年5月21日</p></td>
@@ -636,72 +646,79 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年9月28日</p></td>
 <td><p>2016年12月14日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/新西遊記.md" title="wikilink">新西遊記</a></p></td>
 <td><p>2015年9月4日</p></td>
 <td><p>2015年10月2日</p></td>
 <td><p>網絡版</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年4月19日</p></td>
 <td><p>2016年6月14日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年1月5日</p></td>
 <td><p>2017年1月6日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2016年4月8日</p></td>
 <td><p>2016年4月15日</p></td>
-<td><p>6</p></td>
+<td><p>7</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016年4月22日</p></td>
 <td><p>2016年6月17日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年1月8日</p></td>
 <td><p>2017年3月12日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年6月13日</p></td>
 <td><p>2017年8月22日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年9月30日</p></td>
 <td><p>2018年10月28日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年10月28日[2]</p></td>
 <td><p>2018年12月2日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月25日</p></td>
+<td><p>播放中</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1315,9 +1332,9 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>美食節目</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/街頭美食鬥士_(第二季).md" title="wikilink">街頭美食鬥士2</a></p></td>
 <td><p>2019年9月22日</p></td>
-<td><p>播放中</p></td>
-<td></td>
+<td><p>2019年11月24日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1435,16 +1452,17 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK.md" title="wikilink">劉QUIZ ON THE BLOCK</a></p></td>
+<td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK.md" title="wikilink">劉QUIZ ON THE BLOCK</a><br />
+（間中停播1次，變更播放時段1次）</p></td>
 <td><p>2018年8月29日</p></td>
 <td><p>2018年11月14日</p></td>
-<td><p>2</p></td>
+<td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK_(第二季).md" title="wikilink">劉QUIZ ON THE BLOCK (第二季)</a></p></td>
 <td><p>2019年4月16日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年12月3日</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1683,7 +1701,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="even">
 <td><p><a href="../Page/工作見面的關係.md" title="wikilink">工作見面的關係</a></p></td>
 <td><p>2019年8月24日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年10月26日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
@@ -1705,12 +1723,12 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p><a href="../Page/去冰島的三餐.md" title="wikilink">去冰島的三餐</a><br />
 （新西遊記外傳）</p></td>
 <td><p>2019年9月20日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年11月22日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/為你讀書" title="wikilink">為你讀書</a></p></td>
+<td><p><a href="http://program.m.tving.com/tvn/thepage-turners/">為您讀書</a></p></td>
 <td><p>2019年9月24日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1719,25 +1737,60 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <tr class="odd">
 <td><p><a href="../Page/西伯利亞先遣隊.md" title="wikilink">西伯利亞先遣隊</a></p></td>
 <td><p>2019年9月26日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年11月21日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/星期三是音樂節目" title="wikilink">星期三是音樂節目</a></p></td>
+<td><p><a href="../Page/星期三是音樂節目.md" title="wikilink">星期三是音樂節目</a></p></td>
 <td><p>2019年10月2日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年12月4日</p></td>
 <td><p>1</p></td>
-<td><p>競技節目</p></td>
+<td><p>音樂節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/搖擺兒童" title="wikilink">搖擺兒童</a></p></td>
+<td><p><a href="http://program.m.tving.com/tvn/swingkids/">搖擺兒童</a></p></td>
 <td><p>2019年10月10日</p></td>
+<td><p>2019年10月31日</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="http://program.m.tving.com/tvn/centerview/">金賢正的中間視角</a></p></td>
+<td><p>2019年10月28日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>時事教養</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/唐吉訶德_(韓國綜藝).md" title="wikilink">唐吉訶德</a></p></td>
+<td><p>2019年11月2日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/煮泡麵的男人.md" title="wikilink">煮泡麵的男人</a></p></td>
+<td><p>2019年12月6日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/年末tvN－朴娜勑Show" title="wikilink">年末tvN－朴娜勑Show</a></p></td>
+<td><p>2019年12月24日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/RUN_(韓國綜藝)" title="wikilink">RUN</a></p></td>
+<td><p>2020年1月2日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>真人實境秀</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

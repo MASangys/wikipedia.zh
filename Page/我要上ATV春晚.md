@@ -1,3 +1,6 @@
+> 本文内容由[我要上ATV春晚](https://zh.wikipedia.org/wiki/我要上ATV春晚)转换而来。
+
+
 《**我要上ATV春晚**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視有限公司製作的](https://zh.wikipedia.org/wiki/亞洲電視有限公司 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，全節目共6集，由[蔡梓銘](../Page/蔡梓銘.md "wikilink")及[筱靖主持](https://zh.wikipedia.org/wiki/筱靖 "wikilink")。本節目於2012年12月30日起逢星期日晚上21:30-22:30（第一至五集）及晚上21:35-23:00（第六集）於[本港台](../Page/本港台.md "wikilink")播出，並於亞洲電視網頁提供節目重溫。
 
 《**我要上ATV春晚**》（）是[香港](../Page/香港.md "wikilink")[亞洲電視有限公司製作的](https://zh.wikipedia.org/wiki/亞洲電視有限公司 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，由[蔡國威](../Page/蔡國威.md "wikilink")及[周嘉莉](../Page/周嘉莉.md "wikilink")主持。本節目於2013年7月20日起逢星期六晚上20:30-21:00於[本港台](../Page/本港台.md "wikilink")播出，並於亞洲電視網頁提供節目重溫。

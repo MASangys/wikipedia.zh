@@ -1,3 +1,6 @@
+> 本文内容由[THE BEST OF DETECTIVE CONAN 2 ～名侦探柯南 主题曲集2～](https://zh.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_～名侦探柯南_主题曲集2～)转换而来。
+
+
 《**THE BEST OF DETECTIVE CONAN 2 \~名侦探柯南 主题曲集2\~**》（）是改编自[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[青山刚昌原作](https://zh.wikipedia.org/wiki/青山刚昌 "wikilink")《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》的同名电视动画《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》的第2张[主題曲](../Page/主題曲.md "wikilink")合辑，由于2003年12月10日发行。
 
 ## 專輯概述

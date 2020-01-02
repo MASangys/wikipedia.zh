@@ -1,3 +1,6 @@
+> 本文内容由[Funny Face](https://zh.wikipedia.org/wiki/Funny_Face)转换而来。
+
+
 《**Funny Face**》是[梁詠琪的廣東音樂專輯](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")，於2002年12月20日推出。
 
 其第一主打《高妹正傳》，原曲為李克勤《高妹》，由[黃偉文改編詞](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")。

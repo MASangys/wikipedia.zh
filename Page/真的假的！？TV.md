@@ -1,3 +1,6 @@
+> 本文内容由[真的假的！？TV](https://zh.wikipedia.org/wiki/真的假的！？TV)转换而来。
+
+
 《**真的假的！？TV**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[富士電視台](../Page/富士電視台.md "wikilink")的資訊、綜藝節目。由[明石家秋刀魚和](https://zh.wikipedia.org/wiki/明石家秋刀魚 "wikilink")[加藤綾子](../Page/加藤綾子.md "wikilink")主持。
 
 ## 概要

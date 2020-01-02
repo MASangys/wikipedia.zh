@@ -1,3 +1,6 @@
+> 本文内容由[Nexus Q](https://zh.wikipedia.org/wiki/Nexus_Q)转换而来。
+
+
 **Nexus Q**是[Google Nexus产品家族中一款流媒体娱乐设备](../Page/Google_Nexus.md "wikilink")。这一产品搭载整合了[Google Play的](../Page/Google_Play.md "wikilink")[Android](../Page/Android.md "wikilink")操作系统。Nexus Q是球形的。\[1\]
 
 [Google](../Page/Google.md "wikilink")在2013年推出[Chromecast](../Page/Chromecast.md "wikilink")，以取代Nexus Q。

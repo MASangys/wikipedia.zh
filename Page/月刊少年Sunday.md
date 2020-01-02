@@ -1,3 +1,6 @@
+> 本文内容由[月刊少年Sunday](https://zh.wikipedia.org/wiki/月刊少年Sunday)转换而来。
+
+
 《**月刊少年Sunday**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2009年5月12日創刊\[1\]。毎月12日發售。 {{-}}
 
 ## 連載漫画

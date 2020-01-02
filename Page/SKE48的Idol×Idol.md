@@ -1,3 +1,6 @@
+> 本文内容由[SKE48的Idol×Idol](https://zh.wikipedia.org/wiki/SKE48的Idol×Idol)转换而来。
+
+
 『**SKE48的Idol×Idol**』（）是[中京電視台](../Page/中京電視台.md "wikilink")在2010年12月6日至2010年12月27日播放，每週[星期一](../Page/星期一.md "wikilink")的深夜時段，共4回播放[音樂](https://zh.wikipedia.org/wiki/音樂節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 出演者

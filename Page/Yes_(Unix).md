@@ -1,3 +1,6 @@
+> 本文内容由[Yes \(Unix\)](https://zh.wikipedia.org/wiki/Yes_\(Unix\))转换而来。
+
+
 **`yes`**是一个[Unix命令](https://zh.wikipedia.org/wiki/Unix "wikilink")，这一程序不断输出表示肯定的回应（或是用户指定的字符串）直到程序被结束。
 
 ## 描述

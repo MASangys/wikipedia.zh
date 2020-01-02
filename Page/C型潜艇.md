@@ -1,3 +1,6 @@
+> 本文内容由[C型潜艇](https://zh.wikipedia.org/wiki/C型潜艇)转换而来。
+
+
 **С型潜艇**（也称为“**S級潛艇**”）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[第二次世界大戰前向德荷合作的荷蘭船舶建設工程局訂購的潛艇](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，其設計是以[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[I級潛艇](../Page/I級潛艇.md "wikilink")為基本，因此也等同是蘇聯版的[U艇](https://zh.wikipedia.org/wiki/U艇 "wikilink")，因為這間荷蘭公司其實是德國人為了迴避[第一次世界大戰後簽定的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[凡爾賽條約對德國發展潛艇的限制而在荷蘭成立的](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")，此級潛艇由1934年至1948年共建造了27艘，頭一批甚至採用了由德國MAN廠生產的零件。在二战前有17艘完工，17艘战争中完工，还有7艘战前开工战后完工者。战争中损失15艘，有两艘艇获得了近卫艇称号，六艘得到红旗勋章，S-56号获得了这两项荣誉。
 
 С型潜艇的本意为“标准艇”，其中，“С”为俄文“Средняя”的首字母。\[1\][俄语罗马化](../Page/俄语罗马化.md "wikilink")后字母“С”对应字母“S”，故该型潜艇也称为“S级潜艇”。苏联有时称也该型潜艇为史達林級\[2\]。

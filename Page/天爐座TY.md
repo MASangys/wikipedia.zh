@@ -1,3 +1,6 @@
+> 本文内容由[天爐座TY](https://zh.wikipedia.org/wiki/天爐座TY)转换而来。
+
+
 **天爐座TY**，又名**CD-25 979**，**HD 15634**、**SAO 167837**、**HR 733**，是[天爐座的一颗恒星](https://zh.wikipedia.org/wiki/天爐座 "wikilink")\[1\]\[2\]，视星等为6.51，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")213.52，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-67.78，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

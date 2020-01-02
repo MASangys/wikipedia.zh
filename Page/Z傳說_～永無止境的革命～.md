@@ -1,3 +1,6 @@
+> 本文内容由[Z傳說 ～永無止境的革命～](https://zh.wikipedia.org/wiki/Z傳說_～永無止境的革命～)转换而来。
+
+
 《**Z傳説 ～永無止境的革命～**》（）是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")（通算第9張），於2011年7月6日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 ## 概要

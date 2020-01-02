@@ -1,3 +1,6 @@
+> 本文内容由[HTC J Butterfly](https://zh.wikipedia.org/wiki/HTC_J_Butterfly)转换而来。
+
+
 **HTC J Butterfly**（日本型號：**HTL21**）是由日本電信業者[KDDI](../Page/KDDI.md "wikilink")旗下之[au向](https://zh.wikipedia.org/wiki/au "wikilink")[臺灣](../Page/臺灣.md "wikilink")電子製造商[宏達電訂製的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")**客製機**，於2012年11月在日本推出，冬季開始獨家販售。其以**HTC J**系列命名是為表示宏達電重新登入日本市場，**J**代表日本（Japan）的意思。而HTC J Butterfly也**是第一支搭載1080P螢幕的手機**。
 
 而HTC J Butterfly也有許多兄弟機，有美國電信商客製的[Verizon Droid DNA by HTC](https://zh.wikipedia.org/wiki/Verizon_Droid_DNA_by_HTC "wikilink")，中國大陸電信商客製的HTC Butterfly，國際版的[HTC Butterfly](../Page/HTC_Butterfly.md "wikilink")，國際版的[HTC Butterfly s](https://zh.wikipedia.org/wiki/HTC_Butterfly_s "wikilink")，中國大陸電信商客製的HTC Butterfly s，這些兄弟機們各個規格略有不同。

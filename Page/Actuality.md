@@ -1,3 +1,6 @@
+> 本文内容由[Actuality](https://zh.wikipedia.org/wiki/Actuality)转换而来。
+
+
 《**actuality**》（真實）為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2006年12月6日發行的11th單曲（含RUI名義）。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[福特Flex](https://zh.wikipedia.org/wiki/福特Flex)转换而来。
+
+
 **福特Flex**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Ford Flex**）是[福特汽車在](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[美國生產的全尺寸七人座](https://zh.wikipedia.org/wiki/美國 "wikilink")[跨界休旅車](../Page/跨界休旅車.md "wikilink")，車長超過5米。設計來自福特Fairlane[概念車](../Page/概念車.md "wikilink")，幾乎無多做修改。最初在2007紐約車展亮相，[加拿大](../Page/加拿大.md "wikilink")Oakville工廠生產，本車目的在取代福特自由星和金牛座X的市場並搶攻國外休旅車在美國佔據的市場，所以僅在美加地區銷售和少量外銷[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")，2013年推出小改款。
 
 本車原配就有多項電腦科技裝備，例如[微軟系統的數位多媒體收音機](https://zh.wikipedia.org/wiki/微軟 "wikilink")、聲控車內通訊整合系統和防瞌睡駕駛系統，[电子稳定程序](../Page/电子稳定程序.md "wikilink")加上RSC翻滾穩定輔助系統，外觀可選配双氙頭灯和[LED方向燈和多種尺寸車輪](https://zh.wikipedia.org/wiki/LED "wikilink")，意圖搶攻年輕人市場，但是車價約3萬[美金起跳較為貴](https://zh.wikipedia.org/wiki/美金 "wikilink")。

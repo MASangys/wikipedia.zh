@@ -1,3 +1,6 @@
+> 本文内容由[室女座DT](https://zh.wikipedia.org/wiki/室女座DT)转换而来。
+
+
 **室女座DT**（**DT Virginis**），或稱為**羅斯458AB**（**Ross 458 AB**），是一個位於[室女座](../Page/室女座.md "wikilink")的[聯星](../Page/聯星.md "wikilink")系統。該系統擁有一顆以直接攝影方式發現的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")。
 
 ## 行星系統

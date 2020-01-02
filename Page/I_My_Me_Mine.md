@@ -1,3 +1,6 @@
+> 本文内容由[I My Me Mine](https://zh.wikipedia.org/wiki/I_My_Me_Mine)转换而来。
+
+
 ## 概要
 
   - 「I MY ME MINE」是韓國[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE的第二張日语单曲](../Page/4minute.md "wikilink")，於2010年7月28日公開發售。這張单曲分为三个版本发行，包括「DVD付初回限定盤 A」、「DVD付初回限定盤 B」以及「通常盤」。

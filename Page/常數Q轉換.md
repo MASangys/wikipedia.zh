@@ -1,3 +1,6 @@
+> 本文内容由[常數Q轉換](https://zh.wikipedia.org/wiki/常數Q轉換)转换而来。
+
+
 **常數Q轉換**（）與[短時距傅立葉轉換一樣為重要](https://zh.wikipedia.org/wiki/短時距傅立葉轉換 "wikilink")[時頻分析](../Page/時頻分析.md "wikilink")工具，其中特別適用於音樂信號的分析，這個轉換產生的[頻譜最大的特色是在於頻率軸為對數標度](https://zh.wikipedia.org/wiki/頻譜 "wikilink")（log scale）而不是線性標度（linear scale），且窗口長度（window length）會隨著頻率而改變。
 
 ## 基本概念

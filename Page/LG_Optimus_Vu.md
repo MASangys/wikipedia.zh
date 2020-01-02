@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus Vu](https://zh.wikipedia.org/wiki/LG_Optimus_Vu)转换而来。
+
+
 **LG Optimus Vu**(P895) 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂金電子於](https://zh.wikipedia.org/wiki/LG "wikilink")2012年6月推出首款5吋[螢幕筆記型智慧手機並採用](https://zh.wikipedia.org/wiki/螢幕 "wikilink")[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") Tegra 3 Quad-core 1.5 GHz。原先是一部雙核心版本，因推出國際市場，後期改為四核心。其特色是為[LG配置傳統的](https://zh.wikipedia.org/wiki/LG "wikilink")4：3比例 5吋手螢幕，1024\*768 [解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")，以及採用[HD-IPS顯示螢幕的手機](https://zh.wikipedia.org/wiki/IPS "wikilink")。
 
 ## 規格\[1\]

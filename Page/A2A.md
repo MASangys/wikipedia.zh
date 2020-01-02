@@ -1,3 +1,6 @@
+> 本文内容由[A2A](https://zh.wikipedia.org/wiki/A2A)转换而来。
+
+
 **A2A**（前名「AOA」，後來改做「A2A」）是[雙胞胎](../Page/雙胞胎.md "wikilink")[女子音樂組合及主持人](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，曾經在網路上被稱為「最美雙胞胎」\[1\]。由姐姐[吳燕珊](https://zh.wikipedia.org/wiki/:zh-yue:吳燕珊 "wikilink")（Annelle）與妹妹[吳燕菁](https://zh.wikipedia.org/wiki/:zh-yue:吳燕菁 "wikilink")（Annice）所組成，擅長多種舞蹈包括[芭蕾舞](../Page/芭蕾舞.md "wikilink")、[民俗舞](https://zh.wikipedia.org/wiki/民俗舞 "wikilink")、[爵士舞及](https://zh.wikipedia.org/wiki/爵士舞 "wikilink")[Hip-Hop等](https://zh.wikipedia.org/wiki/Hip-Hop "wikilink")。[排舞師為](https://zh.wikipedia.org/wiki/排舞師 "wikilink")[郭富城](../Page/郭富城.md "wikilink")的專用排舞師[黃國榮](../Page/黃國榮.md "wikilink")。A2A更在出道前拍過35個廣告以及獲得過19個獎項。
 
 ## 名稱

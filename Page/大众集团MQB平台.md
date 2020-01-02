@@ -1,3 +1,6 @@
+> 本文内容由[大众集团MQB平台](https://zh.wikipedia.org/wiki/大众集团MQB平台)转换而来。
+
+
 **大众集团MQB平台**是[大众集团](../Page/大众集团.md "wikilink")的发动机横向前置的模块化平台，从2012年开始开始启用。
 
 MQB是Modularer Querbaukasten（横向模块化）的缩写。\[1\]\[2\] 乃是大众集团Modularer Baukasten（模块化结构）计划的一种，同类的计划还包括[大众集团MLB平台](https://zh.wikipedia.org/wiki/大众集团MLB平台 "wikilink")，即发动机纵置的平台。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[Hatena](https://zh.wikipedia.org/wiki/Hatena)转换而来。
+
+
 [Oike_building_-_Hatena_Kyoto_Office.jpg](https://zh.wikipedia.org/wiki/File:Oike_building_-_Hatena_Kyoto_Office.jpg "fig:Oike_building_-_Hatena_Kyoto_Office.jpg") **Hatena**（）是[日本](../Page/日本.md "wikilink")的一家[網路服務公司](https://zh.wikipedia.org/wiki/網路 "wikilink")，2001年7月19日在[京都市](../Page/京都市.md "wikilink")成立，創建人是日本企業家[近藤淳也](https://zh.wikipedia.org/wiki/近藤淳也 "wikilink")。Hatena提供了包括日本有名的[社會性書籤在內的多項服務內容](https://zh.wikipedia.org/wiki/社會性書籤 "wikilink")\[1\]。Hatena是公司各項服務的共用名。2004年4月10日，公司將總部移到[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")，但2008年4月又搬回京都市\[2\]。2012年Hatena在日本IT界企業當中排名第28名\[3\]。
 
 ## Hatena日記

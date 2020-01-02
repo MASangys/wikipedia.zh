@@ -1,3 +1,6 @@
+> 本文内容由[Flight-Plan](https://zh.wikipedia.org/wiki/Flight-Plan)转换而来。
+
+
 **Flight-Plan股份有限公司**（）是一家設立於[日本](../Page/日本.md "wikilink")[岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")的[家用主機](https://zh.wikipedia.org/wiki/電視遊樂器 "wikilink")[遊戲軟體開發公司](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[So long ! \(日本電視劇\)](https://zh.wikipedia.org/wiki/So_long_!_\(日本電視劇\))转换而来。
+
+
 《**So long \!**》是[日本電視台](../Page/日本電視台.md "wikilink")[系列由](../Page/日本電視網協議會.md "wikilink")2013年2月11日至2月13日的3夜以連續形式播放的1話完結特別連續劇。
 
 ## 概要

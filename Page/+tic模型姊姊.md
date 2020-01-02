@@ -1,3 +1,6 @@
+> 本文内容由[+tic模型姊姊](https://zh.wikipedia.org/wiki/+tic模型姊姊)转换而来。
+
+
 《**+tic模型姊姊**》（；英文標題：+TIC ELDER SISTER），是日本漫畫家栗井茶（くりいちゃ，1983年8月22日 - ）所描繪的[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，為一部連載中的短篇幅（每一話的數頁僅2、4、6、8、10，或12頁不等。前三冊尤以每話6頁為主）青春校園喜劇。故事環繞在三名頭戴[模型玩具的模型社女高中生](https://zh.wikipedia.org/wiki/模型玩具 "wikilink")，與周邊夥伴嘻笑胡鬧時或日常生活中所發生的種種笑料。並由[Lantis](../Page/Lantis.md "wikilink")公司在2012年7月發行同名的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")（有DVD／BD兩種版本，全一卷，共12話）。
 
 原著書名中的「**+tic**（+チック）」，讀作「Plus Tic（プラスチック）」，為塑膠模型玩具（プラモ）的「塑膠（プラスチック）」之意。不過「チック症」也是一種精神疾病「[抽動障礙](https://zh.wikipedia.org/wiki/抽動障礙 "wikilink")」，也暗示主角群都很有病。中文界常見的譯名，除了「+tic模型姊姊」之外，尚有「+TIC姊姊」、「+TIC姐姐」、「+tic模型姐妹」、「+模型姊姊」、「模型姊姊」、「模型姐姐」、「模型姊妹」、「模型姐妹」和「模型少女」等。

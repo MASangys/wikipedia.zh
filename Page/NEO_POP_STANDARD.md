@@ -1,3 +1,6 @@
+> 本文内容由[NEO POP STANDARD](https://zh.wikipedia.org/wiki/NEO_POP_STANDARD)转换而来。
+
+
 《**NEO POP STANDARD**》是日本男子音乐组合[橘子新乐园](../Page/橘子新乐园.md "wikilink")的第八张录音室专辑，2012年4月18日由SPICE MUSIC/SPEEDSTAR RECORDS发行。\[1\] \[2\]
 
 ## 曲目

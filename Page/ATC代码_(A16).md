@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A16\)](https://zh.wikipedia.org/wiki/ATC代码_\(A16\))转换而来。
+
+
 ## A16A 其他消化道和代谢药物（Other alimentary tract and metabolism products）
 
 ### A16AA [氨基酸](../Page/氨基酸.md "wikilink")及其衍生物（Amino acids and derivatives）

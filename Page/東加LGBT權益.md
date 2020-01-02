@@ -1,3 +1,6 @@
+> 本文内容由[東加LGBT權益](https://zh.wikipedia.org/wiki/東加LGBT權益)转换而来。
+
+
 **女同性戀、男同性戀、雙性戀與跨性別者**的權益在[東加](../Page/東加.md "wikilink")不受法律保障，目前沒有任何法律保障LGBT權益。男性間的[同性性行為在東加違法](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")，最高可被處以10年有期徒刑或[鞭刑](https://zh.wikipedia.org/wiki/鞭刑 "wikilink")；而女性間的同性性行為則沒有法律限制\[1\]。
 
 ## 刑法條文

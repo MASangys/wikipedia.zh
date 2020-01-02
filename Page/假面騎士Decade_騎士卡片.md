@@ -1,3 +1,6 @@
+> 本文内容由[假面騎士Decade 騎士卡片](https://zh.wikipedia.org/wiki/假面騎士Decade_騎士卡片)转换而来。
+
+
 本頁為[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")所登場的卡片做詳細介紹，而劇中卡片的玩具版大多可使用於街機遊戲《[假面騎士大亂鬥 GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》。
 
 ## 卡片類型

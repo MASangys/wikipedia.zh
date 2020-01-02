@@ -1,3 +1,6 @@
+> 本文内容由[IgA肾病](https://zh.wikipedia.org/wiki/IgA肾病)转换而来。
+
+
 **IgA肾病**（）是最常见的[肾小球肾炎](https://zh.wikipedia.org/wiki/肾小球肾炎 "wikilink")（glomerulonephritis）\[1\]，原发性IgA肾病患者通常在[肾小球有](https://zh.wikipedia.org/wiki/肾小球 "wikilink")[IgA抗体的沉积](https://zh.wikipedia.org/wiki/IgA抗体 "wikilink")，也有其他许多疾病都会引起肾小球中的IgA抗体的沉积，最常见的是[Henoch-Schönlein紫癜](https://zh.wikipedia.org/wiki/Henoch-Schönlein紫癜 "wikilink")（HSP，全身性的IgA肾病）。Henoch-Schönlein紫癜常常表现出特征性的皮肤紫癜、关节炎、腹痛，在年轻人身上最常见（16-35岁）。IgA肾病發展缓慢，25-30%的患者经过20年的发展会引起[肾衰竭](https://zh.wikipedia.org/wiki/肾衰竭 "wikilink")。
 
 ## 症状和体征

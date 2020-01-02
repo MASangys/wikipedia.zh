@@ -1,3 +1,6 @@
+> 本文内容由[Beginners!](https://zh.wikipedia.org/wiki/Beginners!)转换而来。
+
+
 《**Beginners\!**》（）是2012年7月12日開始在[TBS](../Page/TBS電視台.md "wikilink")[系列的](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")[週四劇場9時段播放的日本](https://zh.wikipedia.org/wiki/週四劇場9 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。首集在21:00 - 22:06（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）延長12分鐘。
 
 ## 登場人物

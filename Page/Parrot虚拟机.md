@@ -1,3 +1,6 @@
+> 本文内容由[Parrot虚拟机](https://zh.wikipedia.org/wiki/Parrot虚拟机)转换而来。
+
+
 **Parrot虚拟机**（），是一个可以运行多种[编程语言](../Page/编程语言.md "wikilink")的虚拟机。Parrot虚拟机主要被被设计应用在对[动态语言](../Page/动态语言.md "wikilink")的编译。Parrot是一个[自由软件](../Page/自由软件.md "wikilink")和[开源软件](../Page/开源软件.md "wikilink")，遵循[Artistic License](https://zh.wikipedia.org/wiki/Artistic_License "wikilink") 2.0。
 
 ## 历史

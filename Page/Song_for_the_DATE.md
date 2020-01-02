@@ -1,3 +1,6 @@
+> 本文内容由[Song for the DATE](https://zh.wikipedia.org/wiki/Song_for_the_DATE)转换而来。
+
+
 《**Song for the DATE**》是[日本](../Page/日本.md "wikilink")女子偶像歌手[真野惠里菜](../Page/真野惠里菜.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年6月27日由[hachama发售](https://zh.wikipedia.org/wiki/hachama "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[RCA唱片](https://zh.wikipedia.org/wiki/RCA唱片)转换而来。
+
+
 **RCA唱片股份有限公司**（）為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")旗下的唱片廠牌。前身為「Victor Talking Machine Company」。
 
 ## 概要

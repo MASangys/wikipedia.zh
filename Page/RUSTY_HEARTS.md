@@ -1,3 +1,6 @@
+> 本文内容由[RUSTY HEARTS](https://zh.wikipedia.org/wiki/RUSTY_HEARTS)转换而来。
+
+
 《**RUSTY HEARTS**》是[BREAKERZ](../Page/BREAKERZ.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年1月16日由[ZAIN RECORDS發售](https://zh.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
 
 ## 概要

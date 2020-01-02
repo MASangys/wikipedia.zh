@@ -1,3 +1,6 @@
+> 本文内容由[Irony](https://zh.wikipedia.org/wiki/Irony)转换而来。
+
+
 《**irony**》是[ClariS](../Page/ClariS.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，于2010年10月20日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要

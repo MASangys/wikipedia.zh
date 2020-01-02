@@ -1,3 +1,6 @@
+> 本文内容由[乐高蝙蝠侠2：DC超级英雄](https://zh.wikipedia.org/wiki/乐高蝙蝠侠2：DC超级英雄)转换而来。
+
+
 《**乐高蝙蝠侠2：DC超级英雄**》（）是由Traveller's Tales開發的[乐高](https://zh.wikipedia.org/wiki/乐高 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")，游戏于2012发行，并运行于[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")、[任天堂3DS](../Page/任天堂3DS.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[任天堂DS](../Page/任天堂DS.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]\[2\]\[3\]。游戏是《[樂高蝙蝠俠](https://zh.wikipedia.org/wiki/樂高蝙蝠俠 "wikilink")》的续作；後繼作品《[乐高蝙蝠侠3：飞越高谭市](../Page/乐高蝙蝠侠3：飞越高谭市.md "wikilink")》將於2014年推出。
 
 ## 遊戲系統

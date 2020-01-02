@@ -1,3 +1,6 @@
+> 本文内容由[獵戶FU型變星](https://zh.wikipedia.org/wiki/獵戶FU型變星)转换而来。
+
+
 [A_Young_Star_Flaunts_its_X-ray_Spots.ogv](https://zh.wikipedia.org/wiki/File:A_Young_Star_Flaunts_its_X-ray_Spots.ogv "fig:A_Young_Star_Flaunts_its_X-ray_Spots.ogv")在2004年釋放[X射线](../Page/X射线.md "wikilink")輻射的影片。\]\]
 
 在[恆星演化](../Page/恆星演化.md "wikilink")中，**獵戶FU型變星**（**FU Orionis star**，或 **FU Orionis object**、 *FUor*）是一種在光度和光譜形式上會出現極大變化的[主序前星](https://zh.wikipedia.org/wiki/主序前星 "wikilink")。典型例子[天鵝座V1057](../Page/天鵝座V1057.md "wikilink")會出現亮度增加6個星等，和光譜形式從 dKe 變成 F 型超巨星的變化。這類恆星是以它的原型恆星[獵戶座FU](../Page/獵戶座FU.md "wikilink")命名。

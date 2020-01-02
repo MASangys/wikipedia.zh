@@ -1,3 +1,6 @@
+> 本文内容由[CKD9A型柴油机车](https://zh.wikipedia.org/wiki/CKD9A型柴油机车)转换而来。
+
+
 **CKD9A型柴油机车**是[土库曼斯坦](../Page/土库曼斯坦.md "wikilink")铁路的[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[中国南车集团](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")[资阳机车有限公司设计制造](https://zh.wikipedia.org/wiki/南车资阳机车有限公司 "wikilink")，2005年至2006年间共计生产16台。CKD9A型柴油机车是在[中国铁路](../Page/中華人民共和國鐵路運輸.md "wikilink")[东风8B型货运机车基础上](../Page/东风8B型柴油机车.md "wikilink")，根据土库曼斯坦铁路的运用要求改进而成的客运柴油机车，采用16V280ZJA型大功率柴油机，最高运行速度为120公里/小时。
 
 ## 发展历史

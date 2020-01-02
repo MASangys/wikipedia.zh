@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia Z](https://zh.wikipedia.org/wiki/Sony_Xperia_Z)转换而来。
+
+
 [Xperia_Z_Power_Button.jpg](https://zh.wikipedia.org/wiki/File:Xperia_Z_Power_Button.jpg "fig:Xperia_Z_Power_Button.jpg") **Sony Xperia Z**是[索尼移動於](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")2013年1月[CES發佈的旗艦級](https://zh.wikipedia.org/wiki/CES "wikilink")、支援[4G](../Page/4G.md "wikilink") [LTE的](https://zh.wikipedia.org/wiki/LTE "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")（台灣版本刷入TA後可支援[LTE](../Page/長期演進技術.md "wikilink")），它具有1300萬鏡頭拍照功能、[Full HD錄影的Exmor](../Page/Full_HD.md "wikilink") RS鏡頭，配備Full HD解像的Reality Display，支援標準的MHL轉接器，並配有[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") S4 Pro APQ8064[四核心處理器](https://zh.wikipedia.org/wiki/四核心 "wikilink")，效能更快及更有效率地使用電池。\[1\]
 
 同期的競爭對手有[宏達電的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[HTC One](https://zh.wikipedia.org/wiki/HTC_One "wikilink")(M7)和[三星電子](../Page/三星電子.md "wikilink")的[Galaxy S4](https://zh.wikipedia.org/wiki/Galaxy_S4 "wikilink")。是為[索尼](../Page/索尼.md "wikilink")旗下第一部旗艦四核心機種，也是第一部全由[索尼](../Page/索尼.md "wikilink")設計的旗艦機，如之前的[Sony Xperia TX等皆為](../Page/Sony_Xperia_TX.md "wikilink")[索尼爱立信留下的設計](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")。

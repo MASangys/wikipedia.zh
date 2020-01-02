@@ -1,3 +1,6 @@
+> 本文内容由[Filicious](https://zh.wikipedia.org/wiki/Filicious)转换而来。
+
+
 《**Filicious**》為[香港](../Page/香港.md "wikilink")女歌手[薛凱琪的廣東音樂專輯](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，於2012年6月29日發行。
 
 ## 專輯簡介

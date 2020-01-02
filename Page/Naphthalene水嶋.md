@@ -1,3 +1,6 @@
+> 本文内容由[Naphthalene水嶋](https://zh.wikipedia.org/wiki/Naphthalene水嶋)转换而来。
+
+
 **Naphthalene水嶋**（），2月2日生日，[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")。[血型A型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")。
 
 1998年，『Nakayoshi 春假樂園』（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）開始連載「」的漫畫家。

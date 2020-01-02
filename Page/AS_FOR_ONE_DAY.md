@@ -1,3 +1,6 @@
+> 本文内容由[AS FOR ONE DAY](https://zh.wikipedia.org/wiki/AS_FOR_ONE_DAY)转换而来。
+
+
 「**AS FOR ONE DAY**」是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第18张[单曲](../Page/单曲.md "wikilink")，於2003年4月23日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(S02\)](https://zh.wikipedia.org/wiki/ATC代码_\(S02\))转换而来。
+
+
 ## S02A 抗感染药（Anti-infectives）
 
 ### S02AA 抗感染药（Anti-infectives）

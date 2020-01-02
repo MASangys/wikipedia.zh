@@ -1,3 +1,6 @@
+> 本文内容由[Kevin ZP98手槍](https://zh.wikipedia.org/wiki/Kevin_ZP98手槍)转换而来。
+
+
 **Kevin ZP98**（通常被稱為Kevin）是一種在[捷克共和國生產的袖珍型](https://zh.wikipedia.org/wiki/捷克共和國 "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，此槍在[美國由](https://zh.wikipedia.org/wiki/美國 "wikilink")以迷你[沙漠之鷹](https://zh.wikipedia.org/wiki/沙漠之鷹 "wikilink")（ME380）的名義販售。
 
 ## 概述

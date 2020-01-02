@@ -1,3 +1,6 @@
+> 本文内容由[FLaMme](https://zh.wikipedia.org/wiki/FLaMme)转换而来。
+
+
 **FLaMme**（）在[東京都](../Page/東京都.md "wikilink")[港区一家日本的藝能事務所](https://zh.wikipedia.org/wiki/港区_\(東京都\) "wikilink")，旗下皆為女性藝人。
 
 ## 概要

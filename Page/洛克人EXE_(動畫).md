@@ -1,3 +1,6 @@
+> 本文内容由[洛克人EXE \(動畫\)](https://zh.wikipedia.org/wiki/洛克人EXE_\(動畫\))转换而来。
+
+
 《**洛克人EXE**》（日語：ロックマンエグゼ）是[洛克人EXE系列](../Page/洛克人EXE系列.md "wikilink")的第一部電視動畫，在2002年3月4日至2003年3月31日期間播出共56集。香港[無線電視譯為](https://zh.wikipedia.org/wiki/無線電視 "wikilink")《網路英雄洛克人》，在2004年6月6日至12月19日期間播放。臺灣由[緯來綜合台](../Page/緯來綜合台.md "wikilink")播出，[木棉花國際](../Page/木棉花國際.md "wikilink")代理發售。
 
 ## 故事概要

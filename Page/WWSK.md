@@ -1,3 +1,6 @@
+> 本文内容由[WWSK](https://zh.wikipedia.org/wiki/WWSK)转换而来。
+
+
 **WWSK**（94.3 FM）是位于[纽约州](../Page/纽约州.md "wikilink")[苏福克郡](https://zh.wikipedia.org/wiki/苏福克郡_\(纽约州\) "wikilink")[史密斯敦的一个](https://zh.wikipedia.org/wiki/史密斯敦 "wikilink")[主流摇滚也流行音乐](https://zh.wikipedia.org/wiki/主流摇滚也 "wikilink")[类型](../Page/类型.md "wikilink")电台[广播电台](../Page/電台廣播.md "wikilink")，工作室位于[纽约州](../Page/纽约州.md "wikilink")[纳苏县](https://zh.wikipedia.org/wiki/纳苏县_\(纽约州\) "wikilink")[法明代尔](https://zh.wikipedia.org/wiki/法明代尔 "wikilink")。由Connoisseur Media, LLC开办，发射功率2.6千瓦。
 
 ## 历史

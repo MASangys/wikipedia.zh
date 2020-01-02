@@ -1,3 +1,6 @@
+> 本文内容由[爆龍戰隊暴連者VS破裏劍者](https://zh.wikipedia.org/wiki/爆龍戰隊暴連者VS破裏劍者)转换而来。
+
+
 <table>
 <tbody>
 <tr class="odd">

@@ -1,3 +1,6 @@
+> 本文内容由[C\'mon](https://zh.wikipedia.org/wiki/C\'mon)转换而来。
+
+
 《**C'mon**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十八张录音室专辑。2011年7月27日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約38.6萬張。

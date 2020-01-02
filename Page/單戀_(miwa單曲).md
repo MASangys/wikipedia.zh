@@ -1,3 +1,6 @@
+> 本文内容由[單戀 \(miwa單曲\)](https://zh.wikipedia.org/wiki/單戀_\(miwa單曲\))转换而来。
+
+
 《**單戀**》（）是[日本](../Page/日本.md "wikilink")女歌手[miwa的第](https://zh.wikipedia.org/wiki/miwa "wikilink")8張單曲，於2012年2月1日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 概要

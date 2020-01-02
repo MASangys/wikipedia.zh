@@ -1,3 +1,6 @@
+> 本文内容由[太陽Scandalous](https://zh.wikipedia.org/wiki/太陽Scandalous)转换而来。
+
+
 《**太陽Scandalous**》（）是日本女子樂隊[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")13張單曲，於2012年7月11日由[Epic Records Japan Inc.發售](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要

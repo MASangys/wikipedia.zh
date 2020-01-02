@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(D06\)](https://zh.wikipedia.org/wiki/ATC代码_\(D06\))转换而来。
+
+
 ## D06A 局部用抗生素（Antibiotics for topical use）
 
 ### D06AA [四环素及其衍生物](https://zh.wikipedia.org/wiki/四环素 "wikilink")（Tetracycline and derivatives）

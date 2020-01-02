@@ -1,3 +1,6 @@
+> 本文内容由[Girl\'s Talk](https://zh.wikipedia.org/wiki/Girl\'s_Talk)转换而来。
+
+
 《**Girl's Talk**》（）是[KARA在日本第一彈原作專輯](https://zh.wikipedia.org/wiki/KARA "wikilink")。2010年11月24日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 概要

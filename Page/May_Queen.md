@@ -1,3 +1,6 @@
+> 本文内容由[May Queen](https://zh.wikipedia.org/wiki/May_Queen)转换而来。
+
+
 《**May Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年8月18日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。
 
 ## 劇情

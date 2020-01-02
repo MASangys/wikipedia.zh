@@ -1,3 +1,6 @@
+> 本文内容由[平井堅-愛歌成狂15年B Side歌曲完全精選](https://zh.wikipedia.org/wiki/平井堅-愛歌成狂15年B_Side歌曲完全精選)转换而来。
+
+
 《**愛歌成狂 15年B面歌曲完全精選**》是[平井堅](../Page/平井堅.md "wikilink")於2010年11月10日發行的B面曲[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 概述

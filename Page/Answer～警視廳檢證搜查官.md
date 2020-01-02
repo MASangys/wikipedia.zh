@@ -1,3 +1,6 @@
+> 本文内容由[Answer～警視廳檢證搜查官](https://zh.wikipedia.org/wiki/Answer～警視廳檢證搜查官)转换而来。
+
+
 《**Answer～警視廳檢證搜查官**》（），為[朝日電視台](../Page/朝日電視台.md "wikilink")於2012年4月18日開始播映的[週三晚間九點檔](https://zh.wikipedia.org/wiki/週三 "wikilink")[連續劇](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，由[觀月亞里莎](../Page/觀月亞里莎.md "wikilink")\[1\]主演。是[緯來日本台](../Page/緯來日本台.md "wikilink")首次購買此時段劇，名作《**Answer關鍵罪證**》。
 
 ## 故事大綱

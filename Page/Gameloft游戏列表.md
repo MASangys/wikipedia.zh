@@ -1,3 +1,6 @@
+> 本文内容由[Gameloft游戏列表](https://zh.wikipedia.org/wiki/Gameloft游戏列表)转换而来。
+
+
 本列表列出了**''部分**''[Gameloft](../Page/Gameloft.md "wikilink")开发或发行的游戏。大多数游戏是在移动设备上使用的。 (由於此為**动態列表**,**永远不可能補充完成**,详情请參阅[Gameloft](../Page/Gameloft.md "wikilink")官網--http://www.gameloft.com.au/)
 
 <table style="width:120%;">

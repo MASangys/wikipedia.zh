@@ -1,3 +1,6 @@
+> 本文内容由[天鵝座DT](https://zh.wikipedia.org/wiki/天鵝座DT)转换而来。
+
+
 **天鵝座DT**，又名**BD+30 4318**，**HD 201078**、**SAO 70917**、**HR 8084**，是[天鵝座的一颗恒星](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")\[1\]\[2\]，视星等为5.82，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")76.55，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")-10.78，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

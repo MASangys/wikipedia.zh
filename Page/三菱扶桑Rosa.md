@@ -1,3 +1,6 @@
+> 本文内容由[三菱扶桑Rosa](https://zh.wikipedia.org/wiki/三菱扶桑Rosa)转换而来。
+
+
 **三菱扶桑Rosa**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Mitsubishi Fuso Rosa**，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：三菱ふそう・ローザ），是[三菱扶桑卡客車旗下的一款小型客車](https://zh.wikipedia.org/wiki/三菱扶桑卡客車 "wikilink")。
 
 ## 簡介

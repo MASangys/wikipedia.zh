@@ -1,3 +1,6 @@
+> 本文内容由[月刊Sunday Gene-X](https://zh.wikipedia.org/wiki/月刊Sunday_Gene-X)转换而来。
+
+
 《**月刊Sunday Gene-X**》是[小學館](../Page/小學館.md "wikilink")發行的青年[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2000年創刊，毎月8日発行。
 
 ## 連載作品

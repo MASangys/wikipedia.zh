@@ -1,3 +1,6 @@
+> 本文内容由[Newsround](https://zh.wikipedia.org/wiki/Newsround)转换而来。
+
+
 ***Newsround***是[英國廣播公司面向](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")6～16歲兒童的新聞節目，從1972年4月4日開始播出到現在，是世界上最長的兒童新聞節目。
 
 ## 外部連結

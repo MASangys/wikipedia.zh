@@ -1,3 +1,6 @@
+> 本文内容由[Ihagee](https://zh.wikipedia.org/wiki/Ihagee)转换而来。
+
+
 [Ihagee_Exa_(John_Kratz).jpg](https://zh.wikipedia.org/wiki/File:Ihagee_Exa_\(John_Kratz\).jpg "fig:Ihagee_Exa_(John_Kratz).jpg") [Ihagee_Exakta_Varex_1961.jpg](https://zh.wikipedia.org/wiki/File:Ihagee_Exakta_Varex_1961.jpg "fig:Ihagee_Exakta_Varex_1961.jpg") [Ihagee_AG_1942.jpg](https://zh.wikipedia.org/wiki/File:Ihagee_AG_1942.jpg "fig:Ihagee_AG_1942.jpg") [Exa_500.jpg](https://zh.wikipedia.org/wiki/File:Exa_500.jpg "fig:Exa_500.jpg")
 
 **Ihagee** 是[德国](../Page/德国.md "wikilink")[德累斯顿](../Page/德累斯顿.md "wikilink")的一家[照相机製造商](https://zh.wikipedia.org/wiki/照相机 "wikilink")，其著名产品是[爱克山泰](https://zh.wikipedia.org/wiki/爱克山泰 "wikilink")（EXAKTA）牌[单镜反光照相机](https://zh.wikipedia.org/wiki/单镜反光照相机 "wikilink")。

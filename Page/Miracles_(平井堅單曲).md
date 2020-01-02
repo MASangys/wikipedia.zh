@@ -1,3 +1,6 @@
+> 本文内容由[Miracles \(平井堅單曲\)](https://zh.wikipedia.org/wiki/Miracles_\(平井堅單曲\))转换而来。
+
+
 《**Miracles**》（奇蹟），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年2月15日發行。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[梅賽德斯-賓士G系列](https://zh.wikipedia.org/wiki/梅賽德斯-賓士G系列)转换而来。
+
+
 [Bulgarian_army_Mercedes_G-Class.jpg](https://zh.wikipedia.org/wiki/File:Bulgarian_army_Mercedes_G-Class.jpg "fig:Bulgarian_army_Mercedes_G-Class.jpg")軍用車\]\]
 
 **梅赛德斯-賓士G系列**（[德语](../Page/德语.md "wikilink")：**Mercedes-Benz G-Klasse**）G系列以G字母為命名，乃取自德文「Geländewagen」越野車的首字母，原本為軍用車輛,後來推出民用化車種。G系列以簡約剛毅的經典外型，自1979年上市發表以來，已在全球銷售超過20萬台\[1\]。

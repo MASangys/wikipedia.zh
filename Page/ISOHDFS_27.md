@@ -1,3 +1,6 @@
+> 本文内容由[ISOHDFS 27](https://zh.wikipedia.org/wiki/ISOHDFS_27)转换而来。
+
+
 **ISOHDFS 27**是一個位於[杜鵑座](../Page/杜鵑座.md "wikilink")的[螺旋星系](../Page/螺旋星系.md "wikilink")，是目前已知質量最高的螺旋星系。
 
 ISOHDFS 27位於[哈伯南天深空區域內](https://zh.wikipedia.org/wiki/哈伯南天深空 "wikilink")，距離地球約60億光年\[1\]。根據它本身的旋轉速度推測其質量高達太陽的1.04倍\[2\]，是[銀河系的四倍以上](https://zh.wikipedia.org/wiki/銀河系 "wikilink")，而它的旋轉速度是經由紅外線波段觀測而得知。在同一個視野中另外發現了距離地球120億光年，質量是太陽2000億倍的星系\[3\]。

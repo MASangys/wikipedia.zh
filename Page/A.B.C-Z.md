@@ -1,3 +1,6 @@
+> 本文内容由[A.B.C-Z](https://zh.wikipedia.org/wiki/A.B.C-Z)转换而来。
+
+
 **A.B.C-Z**，是隸屬於日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的五人團體。2008年組成，前身團體為A.B.C。2012年以「Za ABC〜5stars〜」正式出道。
 
 ## 團體介紹

@@ -1,3 +1,6 @@
+> 本文内容由[ITX-青春](https://zh.wikipedia.org/wiki/ITX-青春)转换而来。
+
+
 **ITX-青春**（[朝鲜语](https://zh.wikipedia.org/wiki/朝鲜语 "wikilink")：ITX-청춘，）是[韩国铁道公社的准高速铁路客车之一](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")，于2012年2月28日开始在[首都圈电铁中央线和](https://zh.wikipedia.org/wiki/首都圈电铁中央线 "wikilink")[京春线营运](https://zh.wikipedia.org/wiki/京春线 "wikilink")，其后于2017年5月1日开始在[京釜線](../Page/京釜線.md "wikilink")营运。
 
 ## 概况

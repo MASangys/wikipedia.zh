@@ -1,3 +1,6 @@
+> 本文内容由[Lonely](https://zh.wikipedia.org/wiki/Lonely)转换而来。
+
+
 《**Lonely**》是南韓女子組合[SPICA於](../Page/SPICA_\(組合\).md "wikilink")2012年11月23日由B2M Entertainment企劃/LOEN Music發行的第二張迷你專輯。即在線上音源發布當日（11月21日）獲NAVER即時搜尋榜一位\[1\]與蟬聯音樂網站-Bugs即時音源榜第三名\[2\]顯示其音樂的影響力。
 
 ## 專輯概要

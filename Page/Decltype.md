@@ -1,3 +1,6 @@
+> 本文内容由[Decltype](https://zh.wikipedia.org/wiki/Decltype)转换而来。
+
+
 在[C++程序设计语言中](https://zh.wikipedia.org/wiki/C++程序设计语言 "wikilink")，**`decltype`**作为，用于获取[表达式的](https://zh.wikipedia.org/wiki/表达式 "wikilink")[数据类型](https://zh.wikipedia.org/wiki/数据类型 "wikilink")。[C++11](../Page/C++11.md "wikilink")标准引入`decltype`，主要是为[泛型](../Page/泛型.md "wikilink")编程而设计，以解决泛型编程中有些类型由[模板参数决定而难以](../Page/模板_\(C++\).md "wikilink")（甚至不可能）表示的问题。
 
 从语义上说，`decltype`的设计适合于通用库编写者或编程新手。总体上说，对于变量或函数参数作为表达式，由`decltype`推导出的类型与源码中的定义可精确匹配。而正如操作符一样，`decltype`不对操作数求值。

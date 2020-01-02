@@ -1,3 +1,6 @@
+> 本文内容由[暗黑血统II](https://zh.wikipedia.org/wiki/暗黑血统II)转换而来。
+
+
 是一款由[Vigil Games开发并由](https://zh.wikipedia.org/wiki/Vigil_Games "wikilink")[THQ发行的](https://zh.wikipedia.org/wiki/THQ "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。本作是《[暗黑血统](../Page/暗黑血统.md "wikilink")》的正统续作，2012年8月在[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[PlayStation 3上發售](../Page/PlayStation_3.md "wikilink")，同年12月在[WiiU上發售](https://zh.wikipedia.org/wiki/WiiU "wikilink")。
 
 加強版本《末世騎士II 死亡決定版》（Darksiders II The Deathinitive Edition）於2015年10月在[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox One和Windows上發售](../Page/Xbox_One.md "wikilink")，由[Nordic Games負責發行](https://zh.wikipedia.org/wiki/Nordic_Games "wikilink")。\[1\]新續作《[末世騎士III](../Page/末世騎士III.md "wikilink")》預計於2018年推出。

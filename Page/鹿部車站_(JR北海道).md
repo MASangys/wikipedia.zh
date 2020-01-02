@@ -1,3 +1,6 @@
+> 本文内容由[鹿部車站 \(JR北海道\)](https://zh.wikipedia.org/wiki/鹿部車站_\(JR北海道\))转换而来。
+
+
 **鹿部車站**（）是一由[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[茅部郡](../Page/茅部郡.md "wikilink")[鹿部町](../Page/鹿部町.md "wikilink")，是JR北海道[函館本線](../Page/函館本線.md "wikilink")（砂原支線）沿線的一個無人車站，屬於[函館支社的管轄範圍](https://zh.wikipedia.org/wiki/北海道旅客鐵道函館支社 "wikilink")，並由[大沼車站](../Page/大沼車站.md "wikilink")負責管理。
 
 名稱來自所在地名，源自[阿伊努語](../Page/阿伊努語.md "wikilink")的「sike-un-pe」，意思是背負的地方\[1\]。

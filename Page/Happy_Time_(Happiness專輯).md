@@ -1,3 +1,6 @@
+> 本文内容由[Happy Time \(Happiness專輯\)](https://zh.wikipedia.org/wiki/Happy_Time_\(Happiness專輯\))转换而来。
+
+
 『**Happy Time**』是[Happiness的](../Page/Happiness_\(組合\).md "wikilink")[首張專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2012年6月20日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 解説

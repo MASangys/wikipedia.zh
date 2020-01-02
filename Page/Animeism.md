@@ -1,3 +1,6 @@
+> 本文内容由[Animeism](https://zh.wikipedia.org/wiki/Animeism)转换而来。
+
+
 **Animeism**（）是[日本](../Page/日本.md "wikilink")[每日放送](../Page/每日放送.md "wikilink")的[深夜動畫時段](../Page/日本深夜動畫.md "wikilink")，名稱結合了英語的「動畫」（Anime）和「主義」（ism）。該時段的作品均為自家原創製作，而做為[TBS電視台](../Page/TBS電視台.md "wikilink")[聯播網](../Page/聯播網.md "wikilink")（[JNN](../Page/日本新聞網_\(TBS\).md "wikilink")）一員，該時段的作品亦於TBS電視台（[聯播](../Page/同步廣播.md "wikilink")）以及[BS-TBS](../Page/BS-TBS.md "wikilink")播出。
 
 ## 源由
