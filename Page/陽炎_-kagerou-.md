@@ -1,3 +1,6 @@
+> 本文内容由[陽炎 -kagerou-](https://zh.wikipedia.org/wiki/陽炎_-kagerou-)转换而来。
+
+
 《**陽炎-kagerou-**》是[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")「[戰國少女～桃色異傳～](../Page/戰國少女～桃色異傳～.md "wikilink")」[日本](../Page/日本.md "wikilink")四位[聲優](../Page/聲優.md "wikilink")[明坂聰美](../Page/明坂聰美.md "wikilink")、[伊瀬茉莉也](https://zh.wikipedia.org/wiki/伊瀬茉莉也 "wikilink")、[國立幸](../Page/國立幸.md "wikilink")、[持月玲依](../Page/持月玲依.md "wikilink")的組合[天下取り隊唯一的單曲](https://zh.wikipedia.org/wiki/天下取り隊 "wikilink")。在2011年4月13日發售，商品番號PCCG.01173。
 
 ## 单曲解説

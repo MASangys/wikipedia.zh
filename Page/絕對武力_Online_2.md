@@ -1,3 +1,6 @@
+> 本文内容由[絕對武力 Online 2](https://zh.wikipedia.org/wiki/絕對武力_Online_2)转换而来。
+
+
 是一款使用[Source引擎](../Page/Source引擎.md "wikilink")的線上[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，是《[絕對武力Online](../Page/絕對武力Online.md "wikilink")》的續作。目前各国版本全部停运。
 
 ## 伺服器訊息(依照代理時間)

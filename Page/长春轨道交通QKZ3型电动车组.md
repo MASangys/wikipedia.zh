@@ -1,3 +1,6 @@
+> 本文内容由[长春轨道交通QKZ3型电动车组](https://zh.wikipedia.org/wiki/长春轨道交通QKZ3型电动车组)转换而来。
+
+
 [CCQG2001.ogg](https://zh.wikipedia.org/wiki/File:CCQG2001.ogg "fig:CCQG2001.ogg") **长春轻轨QKZ3型/2000系电动车组**是[长春轨道交通](../Page/长春轨道交通.md "wikilink")的电车车款之一，在[长春轨道交通3号线](../Page/长春轨道交通3号线.md "wikilink")和[长春轨道交通4号线](../Page/长春轨道交通4号线.md "wikilink")运行。
 
 ## 简介

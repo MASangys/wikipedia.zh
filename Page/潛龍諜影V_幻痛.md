@@ -1,3 +1,6 @@
+> 本文内容由[潛龍諜影V 幻痛](https://zh.wikipedia.org/wiki/潛龍諜影V_幻痛)转换而来。
+
+
 是一款由[小島製作开发](https://zh.wikipedia.org/wiki/小島製作 "wikilink")，小岛秀夫参与主要设计的[隐蔽类](https://zh.wikipedia.org/wiki/隐蔽类游戏 "wikilink")[开放世界](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。游戏在2015年9月1日发行于[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[PlayStation 4](../Page/PlayStation_4.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Xbox One平台](../Page/Xbox_One.md "wikilink")\[1\]\[2\]。由小島製作研發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")「狐引擎」（FOX Engine）打造。本作是[合金装备系列的第](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")11款遊戲，也是小島自科乐美離職前主導的最后一部正传作品，但科乐美表示将会继续推展《合金装备》系列。\[3\]
 
 遊戲內容的時間設定在《[潛龍諜影V 原爆點](../Page/潛龍諜影V_原爆點.md "wikilink")》九年之後，即1984年。玩家将在[阿富汗](../Page/阿富汗.md "wikilink")和[安哥拉](../Page/安哥拉.md "wikilink")-[扎伊尔边境进行冒险](https://zh.wikipedia.org/wiki/扎伊尔 "wikilink")，以向九年前摧毁无国界军队MSF的神秘人物"Skull Face"复仇。游戏被设计成开放世界的形式，玩家可以自由探索[阿富汗战争期间的阿富汗荒漠](https://zh.wikipedia.org/wiki/阿富汗战争_\(1979年\) "wikilink")，以及[安哥拉内战](../Page/安哥拉内战.md "wikilink")期间的非洲中部丛林，同时搜集资源建造和经营自己的母基地。游戏也包含了线上模式——「前进基地」(Forward Operating Base)，玩家可以潜入其他玩家的基地窃取资源和武器。

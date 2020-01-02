@@ -1,3 +1,6 @@
+> 本文内容由[長蛇座HQ](https://zh.wikipedia.org/wiki/長蛇座HQ)转换而来。
+
+
 **長蛇座HQ**，又名**BD-09 2471**，**HD 69997**、**SAO 154105**、**HR 3265**，是[長蛇座的一颗恒星](https://zh.wikipedia.org/wiki/長蛇座 "wikilink")\[1\]\[2\]，视星等为6.32，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")232.52，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")14.3，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

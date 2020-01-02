@@ -1,3 +1,6 @@
+> 本文内容由[豺狼座GQ](https://zh.wikipedia.org/wiki/豺狼座GQ)转换而来。
+
+
 **豺狼座GQ**（**GQ Lupi**）是一顆位於[豺狼座](../Page/豺狼座.md "wikilink")的[金牛T星](../Page/金牛T星.md "wikilink")，距離地球約500光年\[1\]。這顆年輕恆星的質量大約是太陽的70%\[2\]。
 
 ## 可能的行星系統

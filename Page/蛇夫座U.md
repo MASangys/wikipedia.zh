@@ -1,3 +1,6 @@
+> 本文内容由[蛇夫座U](https://zh.wikipedia.org/wiki/蛇夫座U)转换而来。
+
+
 **蛇夫座U**，又名**BD+01 3408**，**HD 156247**、**SAO 122226**、**HR 6414**，是[蛇夫座](../Page/蛇夫座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.88，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")22.73，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")21.57，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献

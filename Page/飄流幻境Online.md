@@ -1,3 +1,6 @@
+> 本文内容由[飄流幻境Online](https://zh.wikipedia.org/wiki/飄流幻境Online)转换而来。
+
+
 《**飄流幻境Online**》（）是由[中華網龍](../Page/中華網龍.md "wikilink")研發並營運的一款[2D](../Page/二维计算机图形.md "wikilink") [Q版](https://zh.wikipedia.org/wiki/Q版 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，于2005年12月14日在台湾公测\[1\]。游戏在大陆\[2\]、美国、港澳\[3\]都有运营。
 
 游戏以荒岛求生为主题，玩家需要通过收集素材来探索世界。遊戲以古文明的幻想为题材\[4\]，游戏包含了神秘的[馬雅文化](https://zh.wikipedia.org/wiki/馬雅文化 "wikilink")、[復活島上的巨石雕像以及各種謎樣事件](https://zh.wikipedia.org/wiki/復活島 "wikilink")\[5\]。而游戏画面也以日式风格著称\[6\]。

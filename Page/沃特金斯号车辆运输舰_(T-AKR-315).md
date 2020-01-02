@@ -1,3 +1,6 @@
+> 本文内容由[沃特金斯号车辆运输舰 \(T-AKR-315\)](https://zh.wikipedia.org/wiki/沃特金斯号车辆运输舰_\(T-AKR-315\))转换而来。
+
+
 **沃特金斯号车辆运输舰**（，**[舷號T](https://zh.wikipedia.org/wiki/美國海軍艦體編號 "wikilink")-AKR-315**）是[沃森级车辆运输舰的第六艘](https://zh.wikipedia.org/wiki/沃森级车辆运输舰 "wikilink")，以[荣誉勋章](../Page/荣誉勋章.md "wikilink")获得者，在[朝鲜战争](../Page/朝鲜战争.md "wikilink")中阵亡的[特拉维斯·E·沃特金斯](https://zh.wikipedia.org/wiki/特拉维斯·E·沃特金斯 "wikilink")[军士长](https://zh.wikipedia.org/wiki/军士长 "wikilink")（Travis E. Watkins）命名。
 
 1999年7月28日该舰下水，并于2001年3月2日服役，归属[太平洋舰队](https://zh.wikipedia.org/wiki/美国太平洋舰队 "wikilink")。它是美国[军事海运司令部所属的](https://zh.wikipedia.org/wiki/军事海运司令部 "wikilink")19艘[大型中速滚装船](../Page/大型中速滚装船.md "wikilink")中的一艘，也是执行战略预置任务的33艘运输舰中的一员。

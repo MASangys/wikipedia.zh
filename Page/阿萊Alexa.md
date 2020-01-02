@@ -1,3 +1,6 @@
+> 本文内容由[阿萊Alexa](https://zh.wikipedia.org/wiki/阿萊Alexa)转换而来。
+
+
 **阿萊Alexa**（Arri Alexa，中文有譯為「艾麗莎」）為德國公司[阿萊](../Page/阿萊.md "wikilink")於2010年4月發表的底片風格式[數碼電影攝影機系統](https://zh.wikipedia.org/wiki/數碼電影攝影 "wikilink")。Alexa代表着阿萊於[Arriflex D-20及](https://zh.wikipedia.org/wiki/Arriflex_D-20 "wikilink")[D-21取得成功後](https://zh.wikipedia.org/wiki/Arriflex_D-21 "wikilink")，過渡至數碼電影攝影市場的里程碑。它提供了Super 35片幅的[CMOS感應器](https://zh.wikipedia.org/wiki/CMOS "wikilink")，可以2880 x 2160像素的解像度拍攝，直接使用接環的鏡頭\[1\] 。
 
 ## 概覽

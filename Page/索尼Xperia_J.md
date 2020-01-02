@@ -1,3 +1,6 @@
+> 本文内容由[索尼Xperia J](https://zh.wikipedia.org/wiki/索尼Xperia_J)转换而来。
+
+
 [Sony_Xperia_J_1.jpg](https://zh.wikipedia.org/wiki/File:Sony_Xperia_J_1.jpg "fig:Sony_Xperia_J_1.jpg") [Sony_Xperia_J2.jpg](https://zh.wikipedia.org/wiki/File:Sony_Xperia_J2.jpg "fig:Sony_Xperia_J2.jpg") [Sony_Xperia_J3.jpg](https://zh.wikipedia.org/wiki/File:Sony_Xperia_J3.jpg "fig:Sony_Xperia_J3.jpg") [Sony_BA900.jpg](https://zh.wikipedia.org/wiki/File:Sony_BA900.jpg "fig:Sony_BA900.jpg") [Sony_BA900_2.jpg](https://zh.wikipedia.org/wiki/File:Sony_BA900_2.jpg "fig:Sony_BA900_2.jpg")
 
 **Sony Xperia J**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，擁有500 萬[像素](../Page/像素.md "wikilink")鏡頭，配備4[吋屏幕](https://zh.wikipedia.org/wiki/吋 "wikilink")，配有[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") MSM7227A，為入門機種。

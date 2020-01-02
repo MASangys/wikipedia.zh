@@ -1,3 +1,6 @@
+> 本文内容由[英特拉泰克TEC-9半自動手槍](https://zh.wikipedia.org/wiki/英特拉泰克TEC-9半自動手槍)转换而来。
+
+
 **英特拉泰克TEC-DC9（TEC-9）**是一款由所設計、所生產的[反沖作用操作半自動槍械](../Page/反沖作用_\(槍械\).md "wikilink")，被[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")（，簡稱：ATF）歸類為手槍，發射[9×19毫米魯格](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 TEC-9由[瑞典國際動力公司](https://zh.wikipedia.org/wiki/瑞典國際動力公司 "wikilink")（）的美國分公司英特拉泰克公司所設計。TEC-9、TEC-DC9和AB-10三個型號都可被稱為TEC-9，雖然只有一個型號是根據該名稱向市場出售。

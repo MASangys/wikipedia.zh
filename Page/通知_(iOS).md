@@ -1,3 +1,6 @@
+> 本文内容由[通知 \(iOS\)](https://zh.wikipedia.org/wiki/通知_\(iOS\))转换而来。
+
+
 **通知中心**是一项[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink") \[1\]和[OS X](https://zh.wikipedia.org/wiki/OS_X "wikilink") \[2\]系统中的功能，用于提供所有程序的提醒消息。用户不必马上对弹出的通知做出反应，只需要做出相关动作就可以消除提醒。用户可以选择哪些[程序在通知中心显示](https://zh.wikipedia.org/wiki/程序 "wikilink")，以及指定处理它们的方式。该项功能最初在2011年10月出现在[iOS 5中](https://zh.wikipedia.org/wiki/iOS_5 "wikilink")，2012年7月时[OS X Mountain Lion系统也实现了此项功能](../Page/OS_X_Mountain_Lion.md "wikilink")。
 
 ## 特色功能

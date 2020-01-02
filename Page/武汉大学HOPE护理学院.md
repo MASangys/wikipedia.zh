@@ -1,3 +1,6 @@
+> 本文内容由[武汉大学HOPE护理学院](https://zh.wikipedia.org/wiki/武汉大学HOPE护理学院)转换而来。
+
+
 **武汉大学HOPE护理学院**是[武汉大学](../Page/武汉大学.md "wikilink")的一个[学院](https://zh.wikipedia.org/wiki/学院 "wikilink")，位于[医学部](../Page/武汉大学医学部.md "wikilink")，起源于1983年的[湖北医学院](../Page/湖北医学院.md "wikilink")护理系开设的护理本科教育。\[1\]\[2\]\[3\]
 
 ## 历史

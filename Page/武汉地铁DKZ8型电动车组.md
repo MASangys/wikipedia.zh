@@ -1,3 +1,6 @@
+> 本文内容由[武汉地铁DKZ8型电动车组](https://zh.wikipedia.org/wiki/武汉地铁DKZ8型电动车组)转换而来。
+
+
 **武汉地铁DKZ8型电动车组**，是[武汉地铁](../Page/武汉地铁.md "wikilink")的一款载客列车，於[武汉地鐵1号线行走](https://zh.wikipedia.org/wiki/武汉地鐵1号线 "wikilink")，列車由[长春轨道客车製造](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")。
 
 ## 概要

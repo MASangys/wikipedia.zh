@@ -1,3 +1,6 @@
+> 本文内容由[波江座EF](https://zh.wikipedia.org/wiki/波江座EF)转换而来。
+
+
 **波江座EF**（**EF Eridani**，EF Eri，有時會出現錯誤的 EF Eridanus）是一顆屬於[高偏振星](https://zh.wikipedia.org/wiki/高偏振星 "wikilink")（或稱為[武仙座AM](../Page/武仙座AM.md "wikilink")型變星）的強磁場[激變變星](../Page/激變變星.md "wikilink")。歷史上該恆星是星等在14.5到17.3之間變化，雖然自1995年起該恆星星等一直是在亮度變化範圍的下限。波江座EF的系統包含一顆有形成中的亚恒星天體環繞的[白矮星](../Page/白矮星.md "wikilink")。
 
 ## 波江座EF B

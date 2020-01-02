@@ -1,3 +1,6 @@
+> 本文内容由[牧夫座CH](https://zh.wikipedia.org/wiki/牧夫座CH)转换而来。
+
+
 **牧夫座CH**，又名**BD+50 2095**，**HD 128333**、**SAO 45121**、**HR 5452**，是[牧夫座](../Page/牧夫座.md "wikilink")的一颗恒星\[1\]\[2\]，视星等为5.74，位于[銀經](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")88.15，[銀緯](https://zh.wikipedia.org/wiki/銀道座標系 "wikilink")60.21，其[B1900.0坐标为赤經](https://zh.wikipedia.org/wiki/B1900.0 "wikilink")，赤緯。
 
 ## 参考文献
