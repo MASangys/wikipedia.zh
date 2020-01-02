@@ -1,3 +1,6 @@
+> 本文内容由[A-12復仇者II式攻擊機](https://zh.wikipedia.org/wiki/A-12復仇者II式攻擊機)转换而来。
+
+
 [A-12avenger2.png](https://zh.wikipedia.org/wiki/File:A-12avenger2.png "fig:A-12avenger2.png")
 
 **A-12復仇者II**（Avenger II）式[攻擊機是由](../Page/攻击机.md "wikilink")[麥克唐納-道格拉斯](https://zh.wikipedia.org/wiki/麥克唐納-道格拉斯 "wikilink")（McDonnell Douglas）公司和[通用動力](../Page/通用动力.md "wikilink")（General Dynamics）公司合作發展的一種[隱形](https://zh.wikipedia.org/wiki/低可偵測性 "wikilink")[攻擊機](../Page/攻击机.md "wikilink")。它是[美國海軍](../Page/美國海軍.md "wikilink")首架以深入敵境進行長程打擊任務為設計目標的[攻擊機](../Page/攻击机.md "wikilink")，也是第一架由[美國海軍](../Page/美國海軍.md "wikilink")投資研發的[隱形](https://zh.wikipedia.org/wiki/低可偵測性 "wikilink")[艦載機](../Page/艦載機.md "wikilink")。[美國海軍](../Page/美國海軍.md "wikilink")計畫用以取代服役已久的[A-6入侵者式攻擊機](../Page/A-6入侵者式攻擊機.md "wikilink")，[美國空軍也計畫採購](../Page/美国空军.md "wikilink")，用以汰換自1960年代中期開始服役的[F-111土豚（Aardvark）式打擊戰鬥機](../Page/F-111戰鬥轟炸機.md "wikilink")。然而，因為發展計畫出現預算超支、機體重量過重及發展時程順延等問題，1991年1月7日[美國國防部長](../Page/美国国防部长.md "wikilink")[錢尼](https://zh.wikipedia.org/wiki/錢尼 "wikilink")（Dick Cheney）宣布終止整個研發計畫。

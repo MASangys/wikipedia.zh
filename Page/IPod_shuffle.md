@@ -1,3 +1,6 @@
+> 本文内容由[IPod shuffle](https://zh.wikipedia.org/wiki/IPod_shuffle)转换而来。
+
+
 **iPod shuffle**是一種由[蘋果公司設計跟販售的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iPod數位音樂播放器](https://zh.wikipedia.org/wiki/iPod "wikilink")。於2005年1月11日的公開，標榜著「Life is random」。不同於其他的iPod家族，他把檔案儲存在[-{zh:闪存; zh-hans:闪存; zh-hant:快閃記憶體; zh-cn:闪存; zh-tw:快閃記憶體}-而不是](../Page/闪存.md "wikilink")[-{zh:硬盘;zh-hans:硬盘;zh-hant:硬盤;zh-cn:硬盘;zh-tw:硬碟;zh-hk:硬碟;zh-mo:硬碟;}-](https://zh.wikipedia.org/wiki/硬盘驱动器 "wikilink")。它的重量为0.78盎司（22克），第二代的重量約15克，第三代的重量为0.38盎司（10.7克），第四代的重量为0.44盎司（12.5克）。
 
 ## 概述

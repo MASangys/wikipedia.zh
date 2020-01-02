@@ -1,3 +1,6 @@
+> 本文内容由[MPEG](https://zh.wikipedia.org/wiki/MPEG)转换而来。
+
+
 [Mpeg.svg](https://zh.wikipedia.org/wiki/File:Mpeg.svg "fig:Mpeg.svg")
 
 **MPEG**正式审核程序是Moving Picture Experts Group的简称。这个名字本来的含义是指一个研究[视频](../Page/视频.md "wikilink")和[音频编码标准的](https://zh.wikipedia.org/wiki/音频 "wikilink")“动态图像专家组”组织，成立于1988年，致力开发视频、音频的压缩编码技术。现在我们所说的MPEG泛指由该小组制定的一系列[视频编码标准正式审核程序](https://zh.wikipedia.org/wiki/视频编码 "wikilink")。该小组于1988年组成，至今已经制定了[MPEG-1](../Page/MPEG-1.md "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[MPEG-3](https://zh.wikipedia.org/wiki/MPEG-3 "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MPEG-7等多个标准](https://zh.wikipedia.org/wiki/MPEG-7 "wikilink")，[MPEG-21](../Page/MPEG-21.md "wikilink")正在制定中。MPEG是[ISO和](https://zh.wikipedia.org/wiki/ISO "wikilink")[IEC的工作组](https://zh.wikipedia.org/wiki/IEC "wikilink")，它的官方头衔为：第一技术委员会第二十九子委员会第十一号工作组正式审核程序，英文头衔为ISO/IEC JTC1/SC29 WG11。MPEG大约每2-3个月举行一次会议，每次会议大约持续5天，在会议期间，新的建议和技术细节先在小组中讨论，成熟后进入标准化的正式审核程序。与MPEG工作组相关的其他几个视频标准化工作组包括[ITU-T VCEG以及](https://zh.wikipedia.org/wiki/ITU-T_VCEG "wikilink")[JVT](https://zh.wikipedia.org/wiki/JVT "wikilink")。

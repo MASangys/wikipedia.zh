@@ -1,3 +1,6 @@
+> 本文内容由[H桥](https://zh.wikipedia.org/wiki/H桥)转换而来。
+
+
 [H_bridge.svg](https://zh.wikipedia.org/wiki/File:H_bridge.svg "fig:H_bridge.svg") **H橋**是一種[電子電路](../Page/電子電路.md "wikilink")，可使其連接的[負載或輸出端兩端](https://zh.wikipedia.org/wiki/負載 "wikilink")[電壓](../Page/電壓.md "wikilink")反相/[電流反向](https://zh.wikipedia.org/wiki/電流 "wikilink")。這類電路可用於[機器人及其它實作場合中](https://zh.wikipedia.org/wiki/機器人 "wikilink")[直流電動機的順逆向控制及](https://zh.wikipedia.org/wiki/直流電動機 "wikilink")[轉速控制](https://zh.wikipedia.org/wiki/轉速 "wikilink")、步进电机控制（双极型步进电机还必须要包含两个H桥的电机控制器）\[1\]，电能变换中的大部分直流-交流变换器（如[逆变器及](https://zh.wikipedia.org/wiki/逆变器 "wikilink")[变频器](https://zh.wikipedia.org/wiki/变频器 "wikilink")）、部分直流-直流变换器（推挽式变换器）等\[2\]，以及其它的[功率電子裝置](https://zh.wikipedia.org/wiki/功率電子學 "wikilink")。
 
 H桥是一个典型的直流电机控制电路，因为它的电路形状酷似字母H，故得名与“H桥”。4个三极管组成H的4条垂直腿，而电机就是H中的横杠

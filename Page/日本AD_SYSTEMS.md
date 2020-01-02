@@ -1,3 +1,6 @@
+> 本文内容由[日本AD SYSTEMS](https://zh.wikipedia.org/wiki/日本AD_SYSTEMS)转换而来。
+
+
 **株式会社日本AD SYSTEMS**（、），簡稱**NAS**，為[Asatsu-DK全資擁有的](https://zh.wikipedia.org/wiki/Asatsu-DK "wikilink")[动画](../Page/动画.md "wikilink")[公司](../Page/公司.md "wikilink")，成立於1975年；業務是動畫企劃製作及周邊商品的經營管理。
 
 ## 作品一覽

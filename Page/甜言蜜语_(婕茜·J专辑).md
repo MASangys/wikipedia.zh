@@ -1,3 +1,6 @@
+> 本文内容由[甜言蜜语 \(婕茜·J专辑\)](https://zh.wikipedia.org/wiki/甜言蜜语_\(婕茜·J专辑\))转换而来。
+
+
 《**甜言蜜語**\[1\]》（）是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[歌手](../Page/歌手.md "wikilink")[潔西·J的第三張](https://zh.wikipedia.org/wiki/潔西·J "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，此專輯於2014年10月10日發行。
 
 美國說唱歌手2 Chainz，歌手[亞莉安娜·格蘭德](https://zh.wikipedia.org/wiki/亞莉安娜·格蘭德 "wikilink")、說唱歌手[妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")、嘻哈組合De La Soul和小提琴家[琳賽·斯特林皆參與歌曲合作的專輯](https://zh.wikipedia.org/wiki/琳賽·斯特林 "wikilink")。潔西參與創作、並邀得[The-Dream](../Page/The-Dream.md "wikilink"), Diplo, Tricky Stewart, Max Martin, Ammo等一眾新舊製作人合作製作的專輯。專輯的主打單曲，"Bang Bang"，與歌手亞莉安娜·格蘭德及說唱歌手妮琪·米娜一同合唱的歌曲，於2014年7月29日發行，並得到音樂評論家的一致好評。歌曲於世界各地取得商業性的成功，於澳大利亞，加拿大，丹麥，新西蘭，排名前10名，並在美國取得第3名，成為潔西最成功的單曲，在美國，歌曲超過了於2012年"Domino"的第6名的成績，成為其於美國單曲榜排行最高的單曲。歌曲還榮登英國單曲榜的榜首，成為潔西於當地的第3首冠軍單曲。

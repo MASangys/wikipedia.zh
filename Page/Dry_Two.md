@@ -1,3 +1,6 @@
+> 本文内容由[Dry Two](https://zh.wikipedia.org/wiki/Dry_Two)转换而来。
+
+
 《**Dry Two**》是香港組合[Dry的第二張音樂專輯](https://zh.wikipedia.org/wiki/Dry_\(組合\) "wikilink")，於1998年1月發行。
 
 ## 曲目

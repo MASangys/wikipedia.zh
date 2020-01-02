@@ -1,3 +1,6 @@
+> 本文内容由[查莉·XCX](https://zh.wikipedia.org/wiki/查莉·XCX)转换而来。
+
+
 **夏洛特·埃玛·艾奇逊**（，），艺名**查莉·XCX**（英語：），是一名英国[歌手](../Page/歌手.md "wikilink")和[詞曲作家](../Page/詞曲作家.md "wikilink")，出生于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[剑桥](https://zh.wikipedia.org/wiki/剑桥 "wikilink")。
 
 查莉于 2008 年发布了自己的第一支独立单曲，并在[伦敦](../Page/伦敦.md "wikilink")的仓库舞会首次表演。她於 2010 年與 [Asylum Records](https://zh.wikipedia.org/wiki/Asylum_Records "wikilink") 簽約，并發佈了分別名爲 "Heartbreaks" 和 "Earthquakes" [混音带](../Page/混音带.md "wikilink")。"Super Ultra" 也於 2012 年發佈。2013 年查莉推出了自己的首張專輯「真实浪漫史 ([True Romance](https://zh.wikipedia.org/wiki/:en:True_Romance "wikilink"))」，包括單曲 "You (Ha Ha Ha)" 和 "Nuclear Seasons"。

@@ -1,3 +1,6 @@
+> 本文内容由[Socket 939](https://zh.wikipedia.org/wiki/Socket_939)转换而来。
+
+
 **Socket 939**是[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器插座的一種](../Page/CPU插座.md "wikilink")，於2004年6月推出，用作取代[Athlon 64所使用的](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")[Socket 754](../Page/Socket_754.md "wikilink")，是支持[64位元](../Page/64位元.md "wikilink")平台[AMD64的插座](https://zh.wikipedia.org/wiki/AMD64 "wikilink")，並支持[雙通道](https://zh.wikipedia.org/wiki/雙通道 "wikilink")（Dual Channel）。而支持[DDR2 SDRAM的](../Page/DDR2_SDRAM.md "wikilink")[Socket AM2已取代Socket](../Page/Socket_AM2.md "wikilink") 939。
 
 Socket 939與[Socket 754主要不同的地方為](../Page/Socket_754.md "wikilink")：

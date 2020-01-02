@@ -1,3 +1,6 @@
+> 本文内容由[Pharo](https://zh.wikipedia.org/wiki/Pharo)转换而来。
+
+
 **Pharo** 是一套[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[Smalltalk](../Page/Smalltalk.md "wikilink")程序开发平台。Pharo具备所谓[live programming的特性](https://zh.wikipedia.org/wiki/live_programming "wikilink")，例如实时操控对象，实时更新等。Pharo支持高级Web开发架构，例如[Seaside](https://zh.wikipedia.org/wiki/Seaside "wikilink")。
 
 ## 简介

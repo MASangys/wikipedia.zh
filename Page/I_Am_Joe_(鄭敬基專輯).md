@@ -1,3 +1,6 @@
+> 本文内容由[I Am Joe \(鄭敬基專輯\)](https://zh.wikipedia.org/wiki/I_Am_Joe_\(鄭敬基專輯\))转换而来。
+
+
 《I Am Joe》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭敬基](../Page/鄭敬基.md "wikilink")第七張[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，共收錄10首粵語歌曲，於2002年11月1日\[1\]發行。
 
 ## 簡介

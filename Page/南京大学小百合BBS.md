@@ -1,3 +1,6 @@
+> 本文内容由[南京大学小百合BBS](https://zh.wikipedia.org/wiki/南京大学小百合BBS)转换而来。
+
+
 [Xiaobaihe.JPG](https://zh.wikipedia.org/wiki/File:Xiaobaihe.JPG "fig:Xiaobaihe.JPG") **南京大学小百合BBS**，或简称**南大小百合BBS**，是中国[南京大学](../Page/南京大学.md "wikilink")半独立性质的[BBS](../Page/BBS.md "wikilink")。它现由南京大学党委宣传部负责维护，网络流量费等相关费用原由小百合工作室和南京大学百合科技支付，现由学校支付。南大小百合BBS使用bbs.nju.edu.cn和lilybbs.net作为网址。目前一分为二，官办小百合站使用bbs.nju.edu.cn作为网址，私立小百合站使用lilybbs.us作为网址。现在主要指官办小百合站，其非教育网网址为bbs.nju.cn或lilybbs.net。
 
 ## 创建

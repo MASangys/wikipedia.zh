@@ -1,3 +1,6 @@
+> 本文内容由[IntelliJ IDEA](https://zh.wikipedia.org/wiki/IntelliJ_IDEA)转换而来。
+
+
 **IntelliJ IDEA**是一种商业化銷售的[Java](../Page/Java.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（Integrated Development Environment，IDE）工具[软件](../Page/软件.md "wikilink")，由[JetBrains軟件公司](https://zh.wikipedia.org/wiki/JetBrains公司 "wikilink")（前稱為IntelliJ）开发，提供[Apache 2.0開放式授權的社區版本以及](https://zh.wikipedia.org/wiki/Apache_License "wikilink")[專有軟件的商業版本](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")，開發者可選擇其所需來下載使用。
 
 ## 歷史

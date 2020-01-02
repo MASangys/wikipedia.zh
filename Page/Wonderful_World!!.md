@@ -1,3 +1,6 @@
+> 本文内容由[Wonderful World!!](https://zh.wikipedia.org/wiki/Wonderful_World!!)转换而来。
+
+
 《**Wonderful World\!\!**》（日語：ワンダフル ワールド\!\!），為[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")於2010年6月30日發售的第14張單曲。
 
 ## 概要

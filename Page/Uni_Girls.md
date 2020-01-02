@@ -1,3 +1,6 @@
+> 本文内容由[Uni Girls](https://zh.wikipedia.org/wiki/Uni_Girls)转换而来。
+
+
 **Uni-Girls**為台灣[中華職業棒球大聯盟](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[統一7-ELEVEN獅專屬啦啦隊](https://zh.wikipedia.org/wiki/統一7-ELEVEN獅 "wikilink")。2006年統一獅球團邀請專業舞團「迪娃獅」（Divas）來專任統一獅啦啦隊，2009年改名為「Uni-Girls」。
 
 2018年9月，Uni-Girls配合年度女孩日發行第一支單曲《Wake Up》慶祝成軍十週年\[1\]。

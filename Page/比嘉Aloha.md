@@ -1,3 +1,6 @@
+> 本文内容由[比嘉Aloha](https://zh.wikipedia.org/wiki/比嘉Aloha)转换而来。
+
+
 **比嘉Aloha**（，），[日本](../Page/日本.md "wikilink")女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。出身於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[1\]。兼職講師。
 
 ## 來歷

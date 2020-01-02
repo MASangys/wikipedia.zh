@@ -1,3 +1,6 @@
+> 本文内容由[LG5狙击榴弹发射器](https://zh.wikipedia.org/wiki/LG5狙击榴弹发射器)转换而来。
+
+
 **LG5**\[1\]\[2\]\[3\]\[4\]\[5\]是一款由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[湖南兵器轻武器研究所为满足外贸需求而自行研制和生產](https://zh.wikipedia.org/wiki/湖南兵器轻武器研究所 "wikilink")，并且由[北方工业公司銷售的轻型](../Page/中国兵器工业集团.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/榴彈發射器#半自动榴弹发射器 "wikilink")[狙击型](https://zh.wikipedia.org/wiki/狙击步槍 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，主要發射[40×53毫米高精度高速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 全系统具有重量较轻、精度较高、威力强大、结构紧凑、[人机工效性良好](../Page/人因工程学.md "wikilink")、安全可靠、通用性强大、高[性價比](../Page/性價比.md "wikilink")的优点，亦是该类別武器首先在国际武器市场上推出的型号，具有较强大的竞争力。

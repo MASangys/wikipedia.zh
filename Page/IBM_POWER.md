@@ -1,3 +1,6 @@
+> 本文内容由[IBM POWER](https://zh.wikipedia.org/wiki/IBM_POWER)转换而来。
+
+
 是[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")[處理器架構的一種](https://zh.wikipedia.org/wiki/處理器 "wikilink")，由[IBM](../Page/IBM.md "wikilink")設計，全稱為“”，《IBM Connect電子報》2007年8月號譯為「增強RISC性能優化」。POWER系列微處理器在不少IBM[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、[超級電腦](https://zh.wikipedia.org/wiki/超級電腦 "wikilink")、[小型電腦及](https://zh.wikipedia.org/wiki/小型電腦 "wikilink")[工作站](../Page/工作站.md "wikilink")中，廣泛作為主CPU使用。而[PowerPC](../Page/PowerPC.md "wikilink")架構也是源自POWER架構，並應用在[蘋果電腦的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[麥金塔電腦及部份IBM的工作站](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")，以及各式各樣的[嵌入式系統上](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")。此外，IBM透過[Power.org](http://webarchive.loc.gov/all/20110729095144/https://www.power.org/)網站，向其他開發者及製造商推廣POWER架構及其他衍生產品。
 
 POWER同样也是一系列实施了同样架构指令集的微处理器的名字。POWER系列微处理器用于IBM的服务器、微电脑、工作站、超级电脑的主处理器。POWER3以及随后的POWER系列微处理器均全部实施了[64-bit](https://zh.wikipedia.org/wiki/64-bit "wikilink") PowerPC架构。從POWER3開始及其之後的POWER處器都不再具備與支援更早之前的舊POWER的[指令集架構](../Page/指令集架構.md "wikilink")，包括PowerPC指令集架構或任何POWER2所追加延伸的指令，如lfq或stfq等，都不再具備與支援。

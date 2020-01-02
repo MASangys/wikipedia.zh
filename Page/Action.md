@@ -1,3 +1,6 @@
+> 本文内容由[Action](https://zh.wikipedia.org/wiki/Action)转换而来。
+
+
 《**Action**》是[香港](../Page/香港.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")[Beyond](../Page/Beyond.md "wikilink")於1998年發行的第八張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，共收錄5首作品。
 
 ## 介紹

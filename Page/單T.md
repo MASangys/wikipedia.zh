@@ -1,3 +1,6 @@
+> 本文内容由[單T](https://zh.wikipedia.org/wiki/單T)转换而来。
+
+
 為賽馬術語，是賽馬博彩其中一個投注種類，在香港、新加坡、英國、美國、澳洲、日本、韓國等地方均有接受投注，而香港及新加坡粵語同樣稱為「單T」，投注方法是一場賽馬選擇前三名的馬匹。和三重彩不同的是，單T不需要順序選出排名。
 
 [HKJC_Trio.jpg](https://zh.wikipedia.org/wiki/File:HKJC_Trio.jpg "fig:HKJC_Trio.jpg")

@@ -1,3 +1,6 @@
+> 本文内容由[Free Download Manager](https://zh.wikipedia.org/wiki/Free_Download_Manager)转换而来。
+
+
 [Free_Download_Manager_3.9.png](https://zh.wikipedia.org/wiki/File:Free_Download_Manager_3.9.png "fig:Free_Download_Manager_3.9.png")\]\] 是一款[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[下载管理器](https://zh.wikipedia.org/wiki/下载管理器 "wikilink")。
 
 FDM最初是专有软件，但随着2.5版发布成为[自由软件](../Page/自由软件.md "wikilink")\[1\]。从3.0.850版（2010年4月15日）开始，源代码不再打包提供下载，但可以从项目的[Subversion](../Page/Subversion.md "wikilink")资源库获取\[2\]，从3.9.x及以后版本不再提供源代码（不再开源，5.0版本以后移除GNU自由软件协议）。 Free Download Manager荣获2007年金奖\[3\].

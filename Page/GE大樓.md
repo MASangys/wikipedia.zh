@@ -1,3 +1,6 @@
+> 本文内容由[GE大樓](https://zh.wikipedia.org/wiki/GE大樓)转换而来。
+
+
 **GE大樓**（**GE Building**，或譯**奇異大樓**）是一座[装饰艺术风格的](https://zh.wikipedia.org/wiki/装饰艺术运动 "wikilink")[摩天大楼](https://zh.wikipedia.org/wiki/摩天大楼 "wikilink")，是位于[曼哈顿市中心的](https://zh.wikipedia.org/wiki/中城_\(紐約曼哈頓\) "wikilink")[洛克菲勒中心建筑群的中央组成部分](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")，是[通用电气](../Page/通用电气.md "wikilink")纽约总部，也是[NBC电视网络总部所在地](https://zh.wikipedia.org/wiki/國家廣播公司 "wikilink")。该大楼在1988年之前的名称是**RCA大楼**。大楼地上共70层，高259米（850英尺），是纽约第7\[1\]，[全美第30高建筑物](https://zh.wikipedia.org/wiki/美國摩天大樓 "wikilink")。
 
 ## 历史

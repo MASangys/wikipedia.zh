@@ -1,3 +1,6 @@
+> 本文内容由[Snap!](https://zh.wikipedia.org/wiki/Snap!)转换而来。
+
+
 **Snap\!** 是一款用[JavaScript](../Page/JavaScript.md "wikilink")编写的，在浏览器裡运行的图形化编程语言，旨在赋予学生创作交互式故事，动画，游戏等作品，学习数学和计算概念。Snap\!由[Scratch语言衍生](https://zh.wikipedia.org/wiki/Scratch语言 "wikilink")，包含和扩展了Scratch的功能。
 
 Snap\! 不用在本地设备上安装任何部件，只需网络浏览器即可。

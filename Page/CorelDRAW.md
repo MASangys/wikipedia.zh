@@ -1,3 +1,6 @@
+> 本文内容由[CorelDRAW](https://zh.wikipedia.org/wiki/CorelDRAW)转换而来。
+
+
 **CorelDRAW**是一款由[加拿大](../Page/加拿大.md "wikilink")[渥太华的](https://zh.wikipedia.org/wiki/渥太华 "wikilink")[Corel](../Page/Corel.md "wikilink")公司开发的[矢量图型编辑](https://zh.wikipedia.org/wiki/矢量图 "wikilink")[软件](../Page/软件.md "wikilink")。最初 CorelDRAW 被开发运行于[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")，数年后[Macintosh版也随之发布](https://zh.wikipedia.org/wiki/Macintosh "wikilink")。同时，CorelDRAW曾经存在过[Linux](../Page/Linux.md "wikilink")的版本，但后来被放弃了。而 CorelDRAW X6 也仅有Windows的版本可用，最新版本CorelDRAW X7则取消对[Windows XP的支持](../Page/Windows_XP.md "wikilink")，只能在更高版本的Windows上使用。
 
 ## 发展

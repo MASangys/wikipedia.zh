@@ -1,3 +1,6 @@
+> 本文内容由[Memento mori](https://zh.wikipedia.org/wiki/Memento_mori)转换而来。
+
+
 [Braque_Family_Triptych_closed_WGA.jpg](https://zh.wikipedia.org/wiki/File:Braque_Family_Triptych_closed_WGA.jpg "fig:Braque_Family_Triptych_closed_WGA.jpg")的《》的外側版可看見陳放於內側版的其主顧的頭骨。骸骨放置在一塊磚石上，象徵其生前的產業和成就。\[1\]\]\] [Edinburgh._St._Cuthbert's_Churchyard._Grave_of_James_Bailie._Detail.jpg](https://zh.wikipedia.org/wiki/File:Edinburgh._St._Cuthbert's_Churchyard._Grave_of_James_Bailie._Detail.jpg "fig:Edinburgh._St._Cuthbert's_Churchyard._Grave_of_James_Bailie._Detail.jpg"). [圣卡斯伯特教堂](../Page/圣卡斯伯特教堂.md "wikilink")後院.\]\]
 
 ******（[拉丁語片語](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")，意思為「勿忘你終有一死」\[2\]）是[中世紀](https://zh.wikipedia.org/wiki/中世紀 "wikilink")[西方基督教對必死性之反思的理論及實踐](https://zh.wikipedia.org/wiki/西方基督教 "wikilink")，尤其是作為一種思索塵世之虛幻和一切物質與和世俗工作之短暫的方式。它經常和（）及类似文學相提並論。「Memento mori」成為了[禁慾主義](../Page/禁慾主義.md "wikilink")的一條重要戒律，藉此培養超脫和其他美德、將精力轉移到靈魂不死與死後的世界，來完善人格。\[3\]

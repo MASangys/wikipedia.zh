@@ -1,3 +1,6 @@
+> 本文内容由[Knoppix](https://zh.wikipedia.org/wiki/Knoppix)转换而来。
+
+
 **KNOPPIX**是一套光盘或USB[闪存盘](../Page/闪存盘.md "wikilink")启动的[GNU/Linux系统](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")（[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")），功能包括：自动硬件监测、支持常见的显卡、声卡、SCSI和USB设备，以及其它外设。KNOPPIX可用于Linux演示、光盘教学、系统急救，经过适当改造，还可以用于商业软件的产品演示。KNOPPIX采用了特殊的解压缩技术，不需要硬盘安装，一张CD，就容纳了2GB的可执行程序，供用户自由使用。
 
 Knoppix最初由德国工程师Klaus Knopper设计，取名于其姓氏Knopper + Linux，读作“k'nopiks”，重音在no。

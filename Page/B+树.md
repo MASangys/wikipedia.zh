@@ -1,3 +1,6 @@
+> 本文内容由[B+树](https://zh.wikipedia.org/wiki/B+树)转换而来。
+
+
 [Bplustree.png](https://zh.wikipedia.org/wiki/File:Bplustree.png "fig:Bplustree.png") **B+ 树**是一种[树数据结构](../Page/树_\(数据结构\).md "wikilink")，通常用于[数据库](../Page/数据库.md "wikilink")和[操作系统](../Page/操作系统.md "wikilink")的[文件系统](../Page/文件系统.md "wikilink")中。B+ 树的特点是能够保持数据稳定有序，其插入与修改拥有较稳定的对数时间复杂度。B+ 树元素自底向上插入，这与[二叉树](../Page/二叉树.md "wikilink")恰好相反。
 
 B+ 树在节点访问时间远远超过节点内部访问时间的时候，比可作为替代的实现有着实在的优势。这通常在多数节点在[次级存储比如](https://zh.wikipedia.org/wiki/次级存储 "wikilink")[硬盘](../Page/硬盘.md "wikilink")中的时候出现。通过最大化在每个[内部节点内的](https://zh.wikipedia.org/wiki/内部节点 "wikilink")[子节点的数目减少树的高度](https://zh.wikipedia.org/wiki/子节点 "wikilink")，平衡操作不经常发生，而且效率增加了。这种价值得以确立通常需要每个节点在次级存储中占据完整的[磁盘块或近似的大小](https://zh.wikipedia.org/wiki/磁盘块 "wikilink")。

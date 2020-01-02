@@ -1,3 +1,6 @@
+> 本文内容由[電擊！！Strada Five](https://zh.wikipedia.org/wiki/電擊！！Strada_Five)转换而来。
+
+
 電擊\!\!Strada Five『**電撃\!\! ストラダ5**』（でんげき ストラダファイブ）是1974年4月5日至同年6月28日毎週金曜日19:30 - 20：00在[NETテレビ（現：テレビ朝日）系放送的](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")[特撮英雄剧](https://zh.wikipedia.org/wiki/特撮 "wikilink")。全13話。
 
 ## 介绍

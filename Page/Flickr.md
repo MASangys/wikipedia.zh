@@ -1,3 +1,6 @@
+> 本文内容由[Flickr](https://zh.wikipedia.org/wiki/Flickr)转换而来。
+
+
 **Flickr**為一家提供圖片分享的[網路相簿](https://zh.wikipedia.org/wiki/網路相簿 "wikilink")，是[Web 2.0的最佳利用例子之一](../Page/Web_2.0.md "wikilink")。
 
 其特點為私人圖片授權與標籤（Hashtag）分類，讓使用者能作為小型部落格。不同使用者可互相交流和建立社群。

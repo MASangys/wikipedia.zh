@@ -1,3 +1,6 @@
+> 本文内容由[Dingbat](https://zh.wikipedia.org/wiki/Dingbat)转换而来。
+
+
 **Dingbats**，俗称**杂锦[字型](../Page/字型.md "wikilink")** ，本来是印刷品之中使用的装饰及图形符号。在[计算机被用来制作](https://zh.wikipedia.org/wiki/计算机 "wikilink")[印刷](../Page/印刷.md "wikilink")刊物后，印刷业界便制造了各种杂锦字型，最著名的是[Adobe](../Page/Adobe.md "wikilink")的[Zapf Dingbats字型](https://zh.wikipedia.org/wiki/Zapf_Dingbats "wikilink")。
 
 [微软](../Page/微软.md "wikilink")于[Windows 3.1](../Page/Windows_3.x.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")之中，提供了[Wingdings](../Page/Wingdings.md "wikilink")杂锦符号字型。而微软于1997年之后发行的操作系统，再加入了[Webdings](../Page/Webdings.md "wikilink")杂锦符号字型。

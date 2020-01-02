@@ -1,3 +1,6 @@
+> 本文内容由[Men si tarsil](https://zh.wikipedia.org/wiki/Men_si_tarsil)转换而来。
+
+
 **《你四處覓尋我芳蹤》**（ [轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")：**Men si tarsil**）是保加利亞女歌手[安茱莉亞·提奧多亞的第二張專輯](https://zh.wikipedia.org/wiki/安茱莉亞·提奧多亞 "wikilink")。這張專輯的發布日期為2009年10月9日。
 
 ## 曲目

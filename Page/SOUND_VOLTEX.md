@@ -1,3 +1,6 @@
+> 本文内容由[SOUND VOLTEX](https://zh.wikipedia.org/wiki/SOUND_VOLTEX)转换而来。
+
+
 《**SOUND VOLTEX**》（，中文译名：**音律炫动**\[1\]）是[KONAMI於](https://zh.wikipedia.org/wiki/KONAMI "wikilink")2012年1月18日起推出的[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，屬於[Bemani系列的一員](https://zh.wikipedia.org/wiki/Bemani "wikilink")。官方簡稱為「**SDVX**」及「****」\[2\]。 2011年7月16日進行了事前沒有發表的突發場測，而同年8月24日進行了官方場測。本作跟《[pop'n music](../Page/流行音乐_\(游戏\).md "wikilink")》、《[jubeat](https://zh.wikipedia.org/wiki/jubeat "wikilink")》及《[REFLEC BEAT](https://zh.wikipedia.org/wiki/REFLEC_BEAT "wikilink")》一樣，並沒有模擬某種特定樂器的形態，本作的特徵並非「正確地演奏並發出聲音」，而是「透過操作裝置達到效果」。這是BEMANI系列中，自《[beatmania III](https://zh.wikipedia.org/wiki/beatmania "wikilink")》相隔十多年以來，再次內藏[耳機](../Page/耳機.md "wikilink")端口。
 
 本作由街機遊戲「**SOUND VOLTEX BOOTH**」和特設網站「**SOUND VOLTEX FLOOR**」組成。跟至今的BEMANI系列不同，採用的歌曲主要為於網絡上活躍的同人音樂作家們的創作或混音。另外，官方會於特設網站「」招募歌曲及封面等。本作十分積極於追加各種歌曲，例如[VOCALOID](../Page/VOCALOID.md "wikilink")、EXIT TUNES及[東方Project的樂曲混音](https://zh.wikipedia.org/wiki/東方Project "wikilink")。

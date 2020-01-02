@@ -1,3 +1,6 @@
+> 本文内容由[SIGGRAPH](https://zh.wikipedia.org/wiki/SIGGRAPH)转换而来。
+
+
 **SIGGRAPH**是由[ACM SIGGRAPH](https://zh.wikipedia.org/wiki/ACM_SIGGRAPH "wikilink")（[美国计算机协会计算机图形专业组](https://zh.wikipedia.org/wiki/美国计算机协会 "wikilink")）组织的[计算机图形学](../Page/计算机图形学.md "wikilink")顶级年度会议。第一届SIGGRAPH会议于1974年召开。该会议有上万名计算机从业者参加，最近一次在[洛杉矶](../Page/洛杉矶.md "wikilink")举行。过去的SIGGRAPH曾经在[达拉斯](https://zh.wikipedia.org/wiki/达拉斯 "wikilink")、[波士顿](../Page/波士顿.md "wikilink")、[西雅图](https://zh.wikipedia.org/wiki/西雅图 "wikilink")、[新奥尔良](../Page/新奥尔良.md "wikilink")、[圣地亚哥和](https://zh.wikipedia.org/wiki/圣地亚哥 "wikilink")[美国](../Page/美国.md "wikilink")的其他地点举办。SIGGRAPH 2011于2011年在[温哥华举行](https://zh.wikipedia.org/wiki/温哥华 "wikilink")，这是SIGGRAPH首次在[美国](../Page/美国.md "wikilink")以外的城市举行。
 
 ## 历届举办地点

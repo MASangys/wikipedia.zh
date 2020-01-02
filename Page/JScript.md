@@ -1,3 +1,6 @@
+> 本文内容由[JScript](https://zh.wikipedia.org/wiki/JScript)转换而来。
+
+
 **JScript**是由[微软](../Page/微软.md "wikilink")公司开发的動態脚本语言，是微软对[ECMAScript](../Page/ECMAScript.md "wikilink")规范的实现\[1\]。
 
 JScript最初随[Internet Explorer 3.0于](https://zh.wikipedia.org/wiki/Internet_Explorer_3.0 "wikilink")1996年8月发布。在网络程序员谈论[Internet Explorer中的](../Page/Internet_Explorer.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")的时候，他们实际上是指JScript。和其他活动脚本一样，它后来也被[Windows Script Host和](../Page/Windows_Script_Host.md "wikilink")[Active Server Pages所支持](../Page/Active_Server_Pages.md "wikilink")\[2\]。典型的JScript源文件使用的[扩展名是](https://zh.wikipedia.org/wiki/扩展名 "wikilink")`.js`。

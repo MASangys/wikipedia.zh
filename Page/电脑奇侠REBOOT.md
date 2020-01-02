@@ -1,3 +1,6 @@
+> 本文内容由[电脑奇侠REBOOT](https://zh.wikipedia.org/wiki/电脑奇侠REBOOT)转换而来。
+
+
 《**电脑奇侠REBOOT**》（[日語原題](https://zh.wikipedia.org/wiki/日語 "wikilink")：キカイダー），是2014年發行的[日本](../Page/日本.md "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[特攝片](../Page/特攝片.md "wikilink")，由導演。該片是根据[石森章太郎原作重製](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")，也是[东映继](https://zh.wikipedia.org/wiki/东映 "wikilink")《[人造人间电脑黑魔](../Page/电脑黑魔.md "wikilink")》后该系列的第二部重制作品。
 
 ## 概要

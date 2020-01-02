@@ -1,3 +1,6 @@
+> 本文内容由[Id Software](https://zh.wikipedia.org/wiki/Id_Software)转换而来。
+
+
 **id Software**是一家在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[得克薩斯州的](https://zh.wikipedia.org/wiki/得克薩斯州 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[開發公司](https://zh.wikipedia.org/wiki/開發 "wikilink")。公司除了從事[電腦遊戲的開發以外](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")，亦有自行研發[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")。知名的[第一人稱射擊遊戲大作早期版的](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")《[戰慄時空](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")》和早期版的《[反恐精英](../Page/反恐精英.md "wikilink")》（*Counter-Strike*，簡稱CS）就是利用[Quake的引擎制作的](https://zh.wikipedia.org/wiki/Quake "wikilink")。該公司在1993年推出的作品《[毀滅戰士](https://zh.wikipedia.org/wiki/毀滅戰士 "wikilink")》（*DOOM*）徹底改變了電腦遊戲產業，在當時有著里程碑的意義。在2004年該公司推出的作品《[毀滅戰士III](https://zh.wikipedia.org/wiki/毀滅戰士III "wikilink")》在[E3遊戲大展上一鳴驚人](https://zh.wikipedia.org/wiki/E3 "wikilink")，包攬了5項大獎。
 
 公司於2009年6月24日被[貝塞斯達軟件的母公司](https://zh.wikipedia.org/wiki/貝塞斯達軟件 "wikilink")[ZeniMax Media收歸其下](../Page/ZeniMax_Media.md "wikilink")，成為其子公司。\[1\]

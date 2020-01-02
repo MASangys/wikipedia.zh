@@ -1,3 +1,6 @@
+> 本文内容由[模块:Pagetype](https://zh.wikipedia.org/wiki/模块:Pagetype)转换而来。
+
+
 -----
 
 \-- -- -- PAGETYPE -- -- -- -- This is a meta-module intended to replace  and similar -- -- templates. It automatically detects namespaces, and allows for a -- -- great deal of customisation. It can easily be ported to other -- -- wikis by changing the values in the [Module:Pagetype/config](https://zh.wikipedia.org/wiki/Module:Pagetype/config "wikilink"). -- -- --

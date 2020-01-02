@@ -1,3 +1,6 @@
+> 本文内容由[魔B爸B角色列表](https://zh.wikipedia.org/wiki/魔B爸B角色列表)转换而来。
+
+
 這是[田村隆平](../Page/田村隆平.md "wikilink")漫畫作品《[惡魔奶爸](../Page/惡魔奶爸.md "wikilink")》以及於改編動畫、OAD作品登場的角色列表。
 
   - 聲優配音順序為：**電視動畫**、**OAD**版本/ 廣播劇**VOMIC**版本

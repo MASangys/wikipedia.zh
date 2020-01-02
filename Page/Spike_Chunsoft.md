@@ -1,3 +1,6 @@
+> 本文内容由[Spike Chunsoft](https://zh.wikipedia.org/wiki/Spike_Chunsoft)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")的一家[电子游戏开发商及](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，从属于[多玩国](https://zh.wikipedia.org/wiki/多玩国 "wikilink")。\[1\] 公司成立于2012年4月1日，由日本游戏厂商[Spike和](../Page/Spike_\(公司\).md "wikilink")[Chunsoft合并而来](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")。除了合并前两家的游戏系列，Spike Chunsoft还负责了一些西方游戏在日本地区的发行工作。
 
 ## 公司作品

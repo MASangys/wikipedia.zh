@@ -1,3 +1,6 @@
+> 本文内容由[蘇羅通ST-5機炮](https://zh.wikipedia.org/wiki/蘇羅通ST-5機炮)转换而来。
+
+
 [Anti-aircraft_gun_in_Nanking.PNG](https://zh.wikipedia.org/wiki/File:Anti-aircraft_gun_in_Nanking.PNG "fig:Anti-aircraft_gun_in_Nanking.PNG")
 
 **蘇羅通ST-5機炮**(口徑:20毫米)是德國[萊茵金屬公司為了逃避](https://zh.wikipedia.org/wiki/萊茵金屬公司 "wikilink")[凡爾賽條約對](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")[第一次世界大戰後德國軍火工業的限制而在瑞士成立的子公司蘇羅通生產的一種防空機炮](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")，此炮後來發展成為[二次大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[納粹德軍使用的](https://zh.wikipedia.org/wiki/納粹德軍 "wikilink")[Flak 30機炮](https://zh.wikipedia.org/wiki/2厘米_30/38年式高射炮 "wikilink")，除了德國，此炮在[抗戰時期也有用於](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")[中國國軍](../Page/國民革命軍.md "wikilink")，[國民政府在](https://zh.wikipedia.org/wiki/國民黨 "wikilink")1935年(民國24年)在德國軍事顧問的建議之下少量購入，經過中央軍試用後效果良好而大量購買而成為[抗戰時期國軍主力防空機炮](https://zh.wikipedia.org/wiki/抗日戰爭 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[挂法Renecite站](https://zh.wikipedia.org/wiki/挂法Renecite站)转换而来。
+
+
 **挂法Renecite站**（）是位于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[釜山广域市](https://zh.wikipedia.org/wiki/釜山广域市 "wikilink")[沙上區的一个车站](https://zh.wikipedia.org/wiki/沙上區 "wikilink")，属于[釜山-金海轻电铁](https://zh.wikipedia.org/wiki/釜山-金海轻电铁 "wikilink")。
 
 ## 車站結構

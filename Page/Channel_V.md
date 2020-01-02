@@ -1,3 +1,6 @@
+> 本文内容由[Channel V](https://zh.wikipedia.org/wiki/Channel_V)转换而来。
+
+
 **-{Channel \[V\]}-**是一個國際性的音樂[電視頻道](https://zh.wikipedia.org/wiki/電視台 "wikilink")，隸屬於[星空傳媒](https://zh.wikipedia.org/wiki/星空傳媒 "wikilink")，在[東亞](https://zh.wikipedia.org/wiki/東亞 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")、[南亞](https://zh.wikipedia.org/wiki/南亞 "wikilink")、[中東地區等地多個國家播放](https://zh.wikipedia.org/wiki/中東地區 "wikilink")。該頻道主要播放英文主流音樂和一些區域性語言的歌曲，其中在[台灣與](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中國大陸主要播放](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[華語流行音樂](../Page/華語流行音樂.md "wikilink")。2010年8月星空傳媒把中国大陆頻道控股權易手予[上海市人民政府](../Page/上海市人民政府.md "wikilink")牽頭成立的華人文化產業投資基金\[1\]。
 
 ## V的含義

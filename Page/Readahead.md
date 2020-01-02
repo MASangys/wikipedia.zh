@@ -1,3 +1,6 @@
+> 本文内容由[Readahead](https://zh.wikipedia.org/wiki/Readahead)转换而来。
+
+
 （[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，意思就是提前讀入）是[Linux內核的一個](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")[系統調用功能](https://zh.wikipedia.org/wiki/系統調用 "wikilink")，透過把所需要的系統檔案預先讀入[檔案緩存](https://zh.wikipedia.org/wiki/檔案緩存 "wikilink")（）裡，解決磁碟存取速度的瓶頸問題\[1\]，從而加快啟動時的速度。因為系統所需檔案已從硬碟提早讀進了主記憶，而主記憶的管線頻寬比週邊系統的管線頻寬為高，令系統耗費在存取週邊設備的時間減少了\[2\]\[3\]。
 
 很多的[Linux发行版](../Page/Linux发行版.md "wikilink")都透過readahead程式來加速系統啟動。在這種設定裡，系統的[內核在啟動時在提供相關的啟動參數之下](https://zh.wikipedia.org/wiki/內核 "wikilink")，會記錄啟動時需要啟用的檔案。這個檔案列表會用來製作新的readahead壓縮包，令額外安裝的服務得以較快啟動，即使最初系統安裝時，這些服務並未列於readahead的列表內\[4\]。部份實驗性的系統會透過[記憶分頁](../Page/分頁表.md "wikilink")[預先提取](https://zh.wikipedia.org/wiki/預先提取 "wikilink")[高速缓存置换机制再令系統表現提升](https://zh.wikipedia.org/wiki/高速缓存文件置换机制 "wikilink")\[5\]。

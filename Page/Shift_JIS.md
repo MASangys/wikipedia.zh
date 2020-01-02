@@ -1,3 +1,6 @@
+> 本文内容由[Shift JIS](https://zh.wikipedia.org/wiki/Shift_JIS)转换而来。
+
+
 **Shift_JIS**是[日本](../Page/日本.md "wikilink")电脑系统常用的编码表，能容纳[全形及](https://zh.wikipedia.org/wiki/全形 "wikilink")[半形](https://zh.wikipedia.org/wiki/半形 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")、[平假名](../Page/平假名.md "wikilink")、[片假名](../Page/片假名.md "wikilink")、[符号](../Page/符号.md "wikilink")及[日语](../Page/日语.md "wikilink")汉字。
 
 命名为Shift_JIS的原因，是在放置全形字符时，要避开原本在0xA1-0xDF放置的[半角假名字符](https://zh.wikipedia.org/wiki/半角假名 "wikilink")。

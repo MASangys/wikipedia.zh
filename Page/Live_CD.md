@@ -1,3 +1,6 @@
+> 本文内容由[Live CD](https://zh.wikipedia.org/wiki/Live_CD)转换而来。
+
+
 **Live CD**，又译为**自生系统**，是事先儲存於某种可移动[儲存裝置](../Page/儲存裝置.md "wikilink")上，可不特定於[计算机硬件](https://zh.wikipedia.org/wiki/计算机 "wikilink")（）而启动的操作系统（通常亦包括一些其他[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")），不需安裝至计算机的本地外部存储器 - 硬盘。采用的介质包括[CD-ROM](../Page/CD-ROM.md "wikilink")（Live CD），[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（Live DVD），[闪存盘](../Page/闪存盘.md "wikilink")（[Live USB](https://zh.wikipedia.org/wiki/Live_USB "wikilink")）甚至是[软盘](../Page/软盘.md "wikilink")等。退出[自生系统並重新開機後](https://zh.wikipedia.org/wiki/自生系统 "wikilink")，電腦就可以恢復到原本的作業系統。自生系统的運作機制，是透過「把原本放在[硬碟裡的檔案](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，放到[記憶體的](https://zh.wikipedia.org/wiki/記憶體 "wikilink")[虛擬磁碟中](https://zh.wikipedia.org/wiki/虛擬磁碟 "wikilink")」來運作；因此系統記憶體愈大，則執行速度愈快。
 
 ## 簡介

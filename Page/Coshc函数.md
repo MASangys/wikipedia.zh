@@ -1,3 +1,6 @@
+> 本文内容由[Coshc函数](https://zh.wikipedia.org/wiki/Coshc函数)转换而来。
+
+
 **Coshc函数**常见于有关[光学散射](https://zh.wikipedia.org/wiki/光学散射 "wikilink")\[1\]、[海森堡时空](https://zh.wikipedia.org/wiki/海森堡时空 "wikilink")\[2\]和[双曲几何学的](https://zh.wikipedia.org/wiki/双曲几何学 "wikilink")[论文](../Page/论文.md "wikilink")中\[3\]其定义如下：\[4\]\[5\]
 
   -

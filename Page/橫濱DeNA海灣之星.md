@@ -1,3 +1,6 @@
+> 本文内容由[橫濱DeNA海灣之星](https://zh.wikipedia.org/wiki/橫濱DeNA海灣之星)转换而来。
+
+
 **橫濱DeNA海灣之星（、Yokohama DeNA BayStars）**，是一支隸屬[日本職棒](https://zh.wikipedia.org/wiki/日本職棒 "wikilink")[中央聯盟的球隊](https://zh.wikipedia.org/wiki/中央聯盟 "wikilink")，1950年加入中央聯盟，至今拿過兩次日本大賽冠軍。 [ホッシー_(hosshey)_in_2010.08.08.JPG](https://zh.wikipedia.org/wiki/File:ホッシー_\(hosshey\)_in_2010.08.08.JPG "fig:ホッシー_(hosshey)_in_2010.08.08.JPG") [20151128_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG](https://zh.wikipedia.org/wiki/File:20151128_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG "fig:20151128_'diana'_cheer_team_of_the_Yokohama_DeNA_BayStars_at_Yokohama_Stadium.JPG")
 
 ## 球隊名沿革

@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox VG](https://zh.wikipedia.org/wiki/模块:Infobox_VG)转换而来。
+
+
 local p = {}
 
 local getArgs = require('Module:Arguments').getArgs local infobox = require('Module:Infobox').infobox local parameterList = mw.loadData('Module:Infobox VG/parameterList')

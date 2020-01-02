@@ -1,3 +1,6 @@
+> 本文内容由[SunOS](https://zh.wikipedia.org/wiki/SunOS)转换而来。
+
+
 **SunOS**是一個版本的[Unix作業系統](https://zh.wikipedia.org/wiki/Unix "wikilink"),由[昇陽電腦](../Page/昇陽電腦.md "wikilink")開發給他們的[工作站](../Page/工作站.md "wikilink")及[伺服器電腦系統](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。SunOS的名稱通常都只包括1.0至4.1.4版本的SunOS，這些版本都是基於[BSD](../Page/BSD.md "wikilink") Unix。由SunOS 5.0版本開始，改為基於[UNIX System V](../Page/UNIX_System_V.md "wikilink") Release 4，同時改名為[Solaris](../Page/Solaris.md "wikilink")。
 
 ## 版本歷史

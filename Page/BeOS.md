@@ -1,3 +1,6 @@
+> 本文内容由[BeOS](https://zh.wikipedia.org/wiki/BeOS)转换而来。
+
+
 [BeOS5Pro.png](https://zh.wikipedia.org/wiki/File:BeOS5Pro.png "fig:BeOS5Pro.png") **BeOS**是一种由[Be公司针对](https://zh.wikipedia.org/wiki/Be公司 "wikilink")[多媒体](../Page/多媒体.md "wikilink")使用所開發的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[鬼同你OT](https://zh.wikipedia.org/wiki/鬼同你OT)转换而来。
+
+
 《**鬼同你OT**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作以鬼為題材的時裝喜劇；由[陳豪](../Page/陳豪.md "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink")及[胡定欣領銜主演](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，並由[關禮傑](../Page/關禮傑.md "wikilink")、[敖嘉年](../Page/敖嘉年.md "wikilink")、[楊秀惠](../Page/楊秀惠.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[朱咪咪](../Page/朱咪咪.md "wikilink")及[威利聯合主演](../Page/威利_\(香港\).md "wikilink")。監製[徐正康](../Page/徐正康.md "wikilink")。此劇為[2015無綫節目巡禮](../Page/2015無綫節目巡禮.md "wikilink")劇集之一,無綫海外業務及簡介2015‬所推介的17部劇集之一及2015年TVB Amazing Summer劇集之一, 是TVB首套週一至週日每晚播放的自製劇集。 另外，本劇也是繼《武則天》後，第二套週一至週日每晚播放的劇集。
 
 此劇獲得觀眾們的好評，都認為今年是[田蕊妮](../Page/田蕊妮.md "wikilink")和[胡定欣在](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")視-{后}-之爭。《鬼同你OT》也為2015年TVB收視亞軍，全剧平均收视29點，最高34點。此外，[田蕊妮](../Page/田蕊妮.md "wikilink")和[胡定欣更凭此剧在](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")[TVB 马来西亚星光荟萃颁奖典礼2015同时夺得](https://zh.wikipedia.org/wiki/TVB_马来西亚星光荟萃颁奖典礼2015 "wikilink")“最喜爱TVB女主角”，成为此颁奖典礼首例的“双视-{后}-”，同时也获得最喜爱TVB电视角色。在[萬千星輝頒獎典禮2015](../Page/萬千星輝頒獎典禮2015.md "wikilink")中，最終視-{后}-由[胡定欣奪得](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，亦令到[胡定欣奠定其於無綫電視當家花旦之位](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")，而[田蕊妮](../Page/田蕊妮.md "wikilink")事隔2年後再得TVB最受歡迎電視女角色。

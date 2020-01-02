@@ -1,3 +1,6 @@
+> 本文内容由[Blood \(電視劇\)](https://zh.wikipedia.org/wiki/Blood_\(電視劇\))转换而来。
+
+
 《**Blood**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年2月起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[安宰賢](../Page/安宰賢.md "wikilink")、[池珍熙](../Page/池珍熙.md "wikilink")、[具惠善](../Page/具惠善.md "wikilink")及[孫秀賢](../Page/孫秀賢.md "wikilink")主演，《[烏鵲橋兄弟](../Page/烏鵲橋兄弟.md "wikilink")》、《[Good Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》[奇民秀導演執導](https://zh.wikipedia.org/wiki/奇民秀 "wikilink")，《[神的測驗](../Page/神的測驗.md "wikilink")》、《[Good Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範執筆](https://zh.wikipedia.org/wiki/朴才範 "wikilink")。
 
 ## 劇情

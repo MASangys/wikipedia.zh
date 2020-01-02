@@ -1,3 +1,6 @@
+> 本文内容由[Surface Pro](https://zh.wikipedia.org/wiki/Surface_Pro)转换而来。
+
+
 **Surface Pro**是[微软](../Page/微软.md "wikilink")制造的[Surface平板电脑系列的第一代产品之一](https://zh.wikipedia.org/wiki/Surface "wikilink")。它运行完整版的[Windows系统](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 Surface Pro系列的最大优势是他们几乎可以运行所有的Windows应用程序，这使它们可以成为Windows[笔记本电脑的替代品](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。Surface Pro系列产品都附带有[手写笔](https://zh.wikipedia.org/wiki/手写笔 "wikilink")，用于艺术创作和记录笔记。其中Surface Pro使用了[Wacom技术](https://zh.wikipedia.org/wiki/Wacom "wikilink")。\[1\]

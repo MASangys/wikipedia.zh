@@ -1,3 +1,6 @@
+> 本文内容由[TEARS 留戀昨日](https://zh.wikipedia.org/wiki/TEARS_留戀昨日)转换而来。
+
+
 **TEARS 留戀昨日**（絕美精選: 留戀昨日），是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[中島美嘉](../Page/中島美嘉.md "wikilink")的精選輯，於2014年11月5日在日本發行，同日發行另外一張精選輯《[DEARS 昂首明日](../Page/DEARS_昂首明日.md "wikilink")》。
 
 ## 概述

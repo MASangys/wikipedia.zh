@@ -1,3 +1,6 @@
+> 本文内容由[ADCC作用](https://zh.wikipedia.org/wiki/ADCC作用)转换而来。
+
+
 **ADCC作用**（抗体依赖的细胞介导（媒介）的细胞毒性作用，，缩写**ADCC**）是一种细胞介导的免疫防御机制，在靶细胞膜表面抗原结合了特异性的[抗体的情况下](https://zh.wikipedia.org/wiki/抗体 "wikilink")，激活[免疫系统](../Page/免疫系统.md "wikilink")的效应细胞裂解靶细胞的作用。因其对已存在的抗体的依赖性，ADCC作用是[适应性免疫反应的一部分](https://zh.wikipedia.org/wiki/后天免疫系统 "wikilink")，也是[体液免疫反应的一部分](https://zh.wikipedia.org/wiki/体液免疫 "wikilink")，用于限制和消除感染。[Antibody-dependent_Cellular_Cytotoxicity.svg](https://zh.wikipedia.org/wiki/File:Antibody-dependent_Cellular_Cytotoxicity.svg "fig:Antibody-dependent_Cellular_Cytotoxicity.svg") 经典的ADCC作用由[自然杀伤细胞（NK）介导](https://zh.wikipedia.org/wiki/自然杀伤细胞 "wikilink")，[巨噬细胞](../Page/巨噬细胞.md "wikilink")、[中性粒细胞](../Page/中性粒细胞.md "wikilink")和[嗜酸性粒細胞](../Page/嗜酸性粒細胞.md "wikilink")（嗜酸性球）也能介导ADCC作用。比如[嗜酸性粒細胞](../Page/嗜酸性粒細胞.md "wikilink")（嗜酸性球）能通过ADCC作用杀死某些特定的[寄生虫](../Page/寄生虫.md "wikilink")。
 
 ## NK细胞的ADCC作用

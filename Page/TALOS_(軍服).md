@@ -1,3 +1,6 @@
+> 本文内容由[TALOS \(軍服\)](https://zh.wikipedia.org/wiki/TALOS_\(軍服\))转换而来。
+
+
 **TALOS**，是**戰術突擊輕型操作服**（**T**actical **A**ssault **L**ight **O**perator **S**uit）的簡稱。它是[美國陸軍為了造出](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[機械化](https://zh.wikipedia.org/wiki/機器人 "wikilink")[外骨架](https://zh.wikipedia.org/wiki/外骨骼 "wikilink")\[1\] 的目的，而與美國各[大學](../Page/大學.md "wikilink")、[實驗室](https://zh.wikipedia.org/wiki/實驗室 "wikilink")、科技產業共同合作研發的項目。簡言之，TALOS計畫聲稱此種新軍服能夠、可武器化、生命特徵監測，並給予穿戴者[超人](../Page/超人.md "wikilink")般的[力量和](https://zh.wikipedia.org/wiki/力量 "wikilink")[感知](../Page/感知.md "wikilink")能力。\[2\] 這款軍服的構成還將包含有（Smart material）及[传感器](../Page/传感器.md "wikilink")。\[3\]
 
 ## 沿革

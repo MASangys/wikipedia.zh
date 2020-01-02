@@ -1,3 +1,6 @@
+> 本文内容由[IP交换](https://zh.wikipedia.org/wiki/IP交换)转换而来。
+
+
 **IP交换**（IP eXchange，简称：IPX）是一种[电信](../Page/电信.md "wikilink")[网间互联](../Page/互联互通.md "wikilink")（interconnection）模型，用于在各个独立的移动和固定运营商的客户之间，以及与其它类型的服务提供商（service provider，例如 [ISP](../Page/互联网服务供应商.md "wikilink")）的客户之间，通过基于 [IP](../Page/网际协议.md "wikilink") 的[网络到网络接口](../Page/网络到网络接口.md "wikilink")（Network-to-Network Interface，简称：NNI），来交换基于 [IP](../Page/网际协议.md "wikilink") 的数据流量。IPX 由 [GSMA](https://zh.wikipedia.org/wiki/GSMA "wikilink")（GSM 联盟）开发。 IPX 不打算替代[因特网或与其竞争](../Page/互联网.md "wikilink")，但是确实为服务提供商提供了一个替代选项。IPX 的目的是在一个商业架构下，在所有的服务提供商类型之间，为基于 [IP](../Page/网际协议.md "wikilink") 的服务提供可互操作性（interoperability），使得价值链中的所有的参与方都能获得一个商业回报。这些商业关系由[服务水平协议](https://zh.wikipedia.org/wiki/SLA "wikilink")（Service Level Agreement，简称：SLA）来支撑，它确保性能、质量和安全性。 对于最终用户来说，在“他们服务提供商是否使用了 IPX 模型”这一点上可能并不明显，但是服务提供商使用 IPX 模型所提供的灵活性而对服务进行差异化处理的能力，最终为终端用户提供了不同的选择余地。
 
 ## 背景

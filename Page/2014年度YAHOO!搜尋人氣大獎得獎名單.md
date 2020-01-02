@@ -1,3 +1,6 @@
+> 本文内容由[2014年度YAHOO!搜尋人氣大獎得獎名單](https://zh.wikipedia.org/wiki/2014年度YAHOO!搜尋人氣大獎得獎名單)转换而来。
+
+
 **YAHOO\!搜尋人氣大獎2014**（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），於2014年12月8日晚上8時假[香港展覽中心](../Page/香港展覽中心.md "wikilink")Hall 5G舉行，司儀由[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[胡蓓蔚](../Page/胡蓓蔚.md "wikilink")擔任，頒獎典禮門票收益扣除成本撥捐[願望成真基金](../Page/願望成真基金.md "wikilink")。
 
 ## 得獎名單

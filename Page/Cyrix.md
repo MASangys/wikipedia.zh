@@ -1,3 +1,6 @@
+> 本文内容由[Cyrix](https://zh.wikipedia.org/wiki/Cyrix)转换而来。
+
+
 **Cyrix Corporation**是1988年在美國德克薩斯州理查森市成立的一家[微處理器開發公司](https://zh.wikipedia.org/wiki/微處理器 "wikilink")，主要從事于專為[286和](../Page/Intel_80286.md "wikilink")[386微處理器提供高性能的](../Page/Intel_80386.md "wikilink")[浮點運算處理器](https://zh.wikipedia.org/wiki/FPU "wikilink")。Tom Brightman和Jerry Rogers是這家公司的創始人，經過公司總裁兼[CEO的Jerry](https://zh.wikipedia.org/wiki/CEO "wikilink") Rogers親自招賢納士，最終組成了一個僅有30人的設計團隊，人數雖少但卻很高效。
 
 Cyrix在1997年11月11日與[國家半導體合併](https://zh.wikipedia.org/wiki/國家半導體 "wikilink")。

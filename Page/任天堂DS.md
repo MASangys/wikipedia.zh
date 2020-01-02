@@ -1,3 +1,6 @@
+> 本文内容由[任天堂DS](https://zh.wikipedia.org/wiki/任天堂DS)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")電玩遊戲商任天堂公司開發的第三代掌上遊樂器。DS是Dual Screen（雙螢幕）的縮寫。主要的特徵包括雙螢幕顯示，其中下方的螢幕為[觸控式螢幕](../Page/觸控式螢幕.md "wikilink")；並配備有[麥克風聲音輸入裝置和](https://zh.wikipedia.org/wiki/麥克風 "wikilink")[Wi-Fi](../Page/Wi-Fi.md "wikilink")[無線網路功能](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。
 
 任天堂DS在[北美地區于](https://zh.wikipedia.org/wiki/北美 "wikilink")2004年11月21日發售，12月2日日本上市。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")12月13日正式發售。\[1\]而[歐洲在](https://zh.wikipedia.org/wiki/歐洲 "wikilink")2005年3月11日發售。[中国大陆](../Page/中国大陆.md "wikilink")由[神遊科技使用](https://zh.wikipedia.org/wiki/神遊科技 "wikilink")「iQue DS（iDS）」的名稱推出，於2005年7月23日發售。

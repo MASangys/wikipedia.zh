@@ -1,3 +1,6 @@
+> 本文内容由[NEWS](https://zh.wikipedia.org/wiki/NEWS)转换而来。
+
+
 **NEWS**是[日本](../Page/日本.md "wikilink")[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的男子組合（隸屬[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")株式會社），於2003年9月15日成立。於2004年5月12日正式出道。NEWS\[1\]代表North（北）East（東）West（西）South（南）四個方向。寓意NEWS能向國際四方發展，並有「新信訊」的意味。
 
 ## 成員

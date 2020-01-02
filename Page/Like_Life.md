@@ -1,3 +1,6 @@
+> 本文内容由[Like Life](https://zh.wikipedia.org/wiki/Like_Life)转换而来。
+
+
 《**Like Life**》是日本[HOOK在](https://zh.wikipedia.org/wiki/HOOK "wikilink")2004年5月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]2004年12月29日（[Comiket](https://zh.wikipedia.org/wiki/Comiket "wikilink") 67）發售《Like Life 氷庫版》。\[3\]2007年9月28日發售改善系統畫面的新裝版。\[4\]另外由[GN Software在](../Page/GN_Software.md "wikilink")2005年4月28日發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《Like Life an hour》\[5\]和2009年10月1日發售[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")《Like Life every hour》。\[6\]
 
 ## 故事

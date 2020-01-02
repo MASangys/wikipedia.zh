@@ -1,3 +1,6 @@
+> 本文内容由[CeBIT](https://zh.wikipedia.org/wiki/CeBIT)转换而来。
+
+
 **CeBIT**是**办公及信息技术中心**（）的[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")，又称“**CeBIT信息及通信技术博览会**”，是一个国际性的以[信息技术](../Page/信息技术.md "wikilink")（IT业）和[信息工程](https://zh.wikipedia.org/wiki/信息工程 "wikilink")（IE业）为主的大型[展览会](https://zh.wikipedia.org/wiki/展览会 "wikilink")，1986年起的每年春季在[德国](../Page/德国.md "wikilink")[汉诺威](../Page/汉诺威.md "wikilink")举行。展览会的组织者是[德意志展览股份公司](https://zh.wikipedia.org/wiki/德意志展览股份公司 "wikilink")（Deutsche Messe AG，简称DMAG）。
 
 CeBIT是全球最大的信息和[通信工程](../Page/通信工程.md "wikilink")类展览会\[1\]。

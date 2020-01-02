@@ -1,3 +1,6 @@
+> 本文内容由[BOT模式](https://zh.wikipedia.org/wiki/BOT模式)转换而来。
+
+
 [Government_Business_Reference_Model.jpg](https://zh.wikipedia.org/wiki/File:Government_Business_Reference_Model.jpg "fig:Government_Business_Reference_Model.jpg")
 
 **民間興建營運後轉移模式**，或称**興建－營運－移轉**、**建设－运营－移交**、**建设－经营－转让**等（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Build–operate–transfer**），多以英文[縮寫](../Page/縮寫.md "wikilink")**BOT**称之，是[民間參與公共建設的運用模式之一](https://zh.wikipedia.org/wiki/民間參與公共建設 "wikilink")，為將[政府](../Page/政府.md "wikilink")所規劃的[工程交由民間投資興建](https://zh.wikipedia.org/wiki/工程 "wikilink")，並且在經營一段時間後，再轉移由政府經營。18世紀中葉的[土耳其](../Page/土耳其.md "wikilink")邀請了國內外承包商共同參與規劃公共部門民營化政策，是最早採用興建、營運、移轉的模式的案例。

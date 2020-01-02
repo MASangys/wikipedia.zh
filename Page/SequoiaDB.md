@@ -1,3 +1,6 @@
+> 本文内容由[SequoiaDB](https://zh.wikipedia.org/wiki/SequoiaDB)转换而来。
+
+
 SequoiaDB是一款文档型（Document-oriented）的[NoSQL](../Page/NoSQL.md "wikilink")[数据库](../Page/数据库.md "wikilink")，于2013年发布第一版本。最新版本为V1.12.4版本。SequoiaDB于2014年12月宣布开源\<ref name:"CSDN"\>[1](http://news.csdn.net/article_preview.html?preview=1&reload=1&arcid=2823212),SequoiaDB宣布正式开源</ref>。
 
 ## 1.软件协议

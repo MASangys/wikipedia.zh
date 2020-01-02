@@ -1,3 +1,6 @@
+> 本文内容由[RMVB](https://zh.wikipedia.org/wiki/RMVB)转换而来。
+
+
 **RealMedia Variable Bitrate**，縮寫RMVB，是由[RealNetworks](../Page/RealNetworks.md "wikilink")开发的[RealMedia多媒体封装格式的一种动态](https://zh.wikipedia.org/wiki/RealMedia "wikilink")[比特率](../Page/比特率.md "wikilink")扩展。采用此格式文件的[后缀名为](https://zh.wikipedia.org/wiki/后缀名 "wikilink")“.rmvb”。
 
 ## 與rm的差異

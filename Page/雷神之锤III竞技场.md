@@ -1,3 +1,6 @@
+> 本文内容由[雷神之锤III竞技场](https://zh.wikipedia.org/wiki/雷神之锤III竞技场)转换而来。
+
+
 《**雷神之锤III**》是由[id Software采用id](https://zh.wikipedia.org/wiki/id_Software "wikilink") Tech3引擎制作的多人连线[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")(FPS)，1999年12月发行。玩家或独立或组队在地图中厮杀，死亡后数秒即在地图某处重生。当某位或某队玩家达到胜利条件或者游戏持续一定时间后即宣告一个回合结束。胜利条件取决于选择的[游戏模式](https://zh.wikipedia.org/wiki/雷神之锤III#游戏模式 "wikilink")。
 
 《雷神之锤III》是历史上第一个不支持「[-{zh-hans:软件加速;zh-hant:軟體算圖}-](https://zh.wikipedia.org/wiki/软件加速 "wikilink")」（Software Render）的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")(FPS)。玩家必须拥有一个有[硬件加速](../Page/硬件加速.md "wikilink")能力的[显卡才能够运行游戏](https://zh.wikipedia.org/wiki/显卡 "wikilink")。該遊戲的成功在很大程度上依赖一个杰出的[游戏引擎](../Page/游戏引擎.md "wikilink")：[雷神之锤III引擎](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")，这个引擎直到6年后仍然被一些主流游戏选用。

@@ -1,3 +1,6 @@
+> 本文内容由[Tanc函数](https://zh.wikipedia.org/wiki/Tanc函数)转换而来。
+
+
 **Tanc 函数** 定义如下\[1\]
 
   -

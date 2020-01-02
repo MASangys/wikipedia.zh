@@ -1,3 +1,6 @@
+> 本文内容由[G for Girl](https://zh.wikipedia.org/wiki/G_for_Girl)转换而来。
+
+
 《**G For Girl**》是[梁詠琪的第十五張音樂專輯](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")、第九張粵語專輯，於2001年11月27日推出。
 
 ## 曲目

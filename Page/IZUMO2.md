@@ -1,3 +1,6 @@
+> 本文内容由[IZUMO2](https://zh.wikipedia.org/wiki/IZUMO2)转换而来。
+
+
 《**IZUMO2**》是由日本[Studio e.go\!公司發售的角色扮演類型](../Page/Studio_e.go!.md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，於2004年7月30日發售CD-ROM版和DVD-ROM版，DVD-ROM版同時付送《[IZUMO 完全版](../Page/IZUMO.md "wikilink")》。\[1\]2005年2月3日由[GN Software發售](../Page/GN_Software.md "wikilink")[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《IZUMO2 猛剑之閃記》（）\[2\]。2005年4月開始播放電視動畫《[出雲戰記](../Page/出雲戰記.md "wikilink")》（）。\[3\]2006年4月28日發售續作《IZUMO2 -學園狂想曲-》（）\[4\]並在2008年1月31日由GN Software發售PlayStation 2版《》。\[5\]\[6\]
 
 ## 故事

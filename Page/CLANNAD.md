@@ -1,3 +1,6 @@
+> 本文内容由[CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD)转换而来。
+
+
 《**CLANNAD**》（）是由[日本](../Page/日本.md "wikilink")遊戲品牌[Key所发行的第三款](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，或依此為原作改编或扩充的[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。因其剧情大部分发生于[春季](../Page/春季.md "wikilink")，《CLANNAD》亦被视为Key社季节组曲中的“春”\[1\]。
 
 ## 概要

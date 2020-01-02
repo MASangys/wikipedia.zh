@@ -1,3 +1,6 @@
+> 本文内容由[施泰德FLIRT系列列車](https://zh.wikipedia.org/wiki/施泰德FLIRT系列列車)转换而来。
+
+
 **Stadler FLIRT** （flinker leichter innovativer Regional-Triebzug，快速轻便新型区域列车）是[施泰德鐵路](../Page/施泰德鐵路.md "wikilink")公司生产的[柴油](../Page/柴油.md "wikilink")或[電力](../Page/電力.md "wikilink")[动车组](../Page/動力分散式列車.md "wikilink")。该动车组一般包括2至6节车厢，其中2至6个车轴为有动力的车轴。最高运行速度达到。为了适应欧洲普遍的低站台设计，标准的地板高度为。对于高站台（76cm），也可以采用的高地板设计。
 
 FLIRT列车最初是为[瑞士联邦铁路设计的](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，初次在2004年投入使用。列车的成功运用很快得到了欧洲其他铁路公司的注意，目前已经在[捷克](../Page/捷克.md "wikilink")、[爱沙尼亚](../Page/爱沙尼亚.md "wikilink")、[德国](../Page/德国.md "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[挪威](../Page/挪威.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")和[瑞士得到采用](https://zh.wikipedia.org/wiki/瑞士 "wikilink")。至2013年8月该列车已经预定了910组\[1\]。

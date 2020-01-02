@@ -1,3 +1,6 @@
+> 本文内容由[OSGi](https://zh.wikipedia.org/wiki/OSGi)转换而来。
+
+
 **开放服务网关倡议**（OSGi，Open Service Gateway Initiative）有双重含义。一方面它指OSGi Alliance组织；另一方面指该组织制定的一个基于[Java](../Page/Java.md "wikilink")语言的服务（业务）规范——OSGi服务平台（Service Platform）。
 
 **OSGi Alliance**是一个由[Sun Microsystems](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")、[IBM](../Page/IBM.md "wikilink")、[爱立信等于](https://zh.wikipedia.org/wiki/爱立信 "wikilink")1999年3月成立的开放的[标准化组织](https://zh.wikipedia.org/wiki/标准化组织 "wikilink")，最初名为Connected Alliance。该组织及其标准原本主要目的在于使服务提供商通过住宅网关，为各种家庭智能设备提供各种服务。目前该平台逐渐成为一个为室内、交通工具、移动电话和其他环境下的所有类型的网络设备的应用程序和服务进行传递和远程管理的开放式服务平台。

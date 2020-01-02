@@ -1,3 +1,6 @@
+> 本文内容由[Ll](https://zh.wikipedia.org/wiki/Ll)转换而来。
+
+
 [Latin_LL.png](https://zh.wikipedia.org/wiki/File:Latin_LL.png "fig:Latin_LL.png") **Ll**在多種採用[拉丁字母](../Page/拉丁字母.md "wikilink")的語言都被當作一個單一的字母。這些語言包括以下各種語言：
 
 ## ll 的各種發音

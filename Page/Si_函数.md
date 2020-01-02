@@ -1,3 +1,6 @@
+> 本文内容由[Si 函数](https://zh.wikipedia.org/wiki/Si_函数)转换而来。
+
+
 **Si 函数**定义如下\[1\]\[2\]
 
 [Si(x)_2D_plot.png](https://zh.wikipedia.org/wiki/File:Si\(x\)_2D_plot.png "fig:Si(x)_2D_plot.png") \({\it Si} \left( z \right) =\int _{0}^{z}\!{\frac {\sin \left( t \right) }{t}}{dt}\)

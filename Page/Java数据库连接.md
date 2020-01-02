@@ -1,3 +1,6 @@
+> 本文内容由[Java数据库连接](https://zh.wikipedia.org/wiki/Java数据库连接)转换而来。
+
+
 [Crystal_source_java.png](https://zh.wikipedia.org/wiki/File:Crystal_source_java.png "fig:Crystal_source_java.png")
 
 **Java数据库连接**，（，简称）是[Java语言中用来规范](https://zh.wikipedia.org/wiki/Java语言 "wikilink")[客户端程序如何来访问](https://zh.wikipedia.org/wiki/客户端 "wikilink")[数据库](../Page/数据库.md "wikilink")的[应用程序接口](../Page/应用程序接口.md "wikilink")，提供了诸如查询和更新数据库中数据的方法。JDBC也是[Sun Microsystems的](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[商标](../Page/商标.md "wikilink")\[1\]。JDBC是面向[关系型数据库的](https://zh.wikipedia.org/wiki/关系型数据库 "wikilink")。

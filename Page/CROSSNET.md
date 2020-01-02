@@ -1,3 +1,6 @@
+> 本文内容由[CROSSNET](https://zh.wikipedia.org/wiki/CROSSNET)转换而来。
+
+
 **CROSSNET**（クロスネット）是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，2009年5月19日公司的官方網站突然的關閉\[1\]\[2\]\[3\]\[4\]\[5\]。公司旗下品牌**ApRicoT**、**[Favorite](https://zh.wikipedia.org/wiki/Favorite "wikilink")**、**ωstar**各自獨自成立新公司並繼續使用原品牌名稱。
 
 ## 作品列表

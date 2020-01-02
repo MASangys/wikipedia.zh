@@ -1,3 +1,6 @@
+> 本文内容由[鈴木J族引擎](https://zh.wikipedia.org/wiki/鈴木J族引擎)转换而来。
+
+
 **鈴木J族引擎**是1990年代至2000年代之間[日本](../Page/日本.md "wikilink")[鈴木公司開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[往復式](../Page/往复式发动机.md "wikilink")[汽油引擎](../Page/汽油引擎.md "wikilink")，共通設計為[直列四缸](../Page/直列四缸引擎.md "wikilink")、[DOHC](https://zh.wikipedia.org/wiki/顶置凸轮轴#双顶置凸轮轴（DOHC） "wikilink")、16汽門的結構。其中J18A型引擎有時記作「G18K型」，實際上兩者是相同的。
 
 ## J18/J18A型

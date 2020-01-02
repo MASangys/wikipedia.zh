@@ -1,3 +1,6 @@
+> 本文内容由[魔法風雲會Online](https://zh.wikipedia.org/wiki/魔法風雲會Online)转换而来。
+
+
 [魔法風雲會Online_4.0的登入畫面.jpg](https://zh.wikipedia.org/wiki/File:魔法風雲會Online_4.0的登入畫面.jpg "fig:魔法風雲會Online_4.0的登入畫面.jpg") (以下稱為**遊戲**)是[集換式紙牌遊戲](https://zh.wikipedia.org/wiki/集換式紙牌遊戲 "wikilink")《[魔法風雲會](https://zh.wikipedia.org/wiki/魔法風雲會 "wikilink")》(以下稱為實卡版)的正式改編[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，遊戲利用了[虛擬經濟](../Page/虛擬經濟.md "wikilink")的概念，來保持遊戲中的卡片的收藏價值。\[1\]
 
 遊戲是[威世智公司營運的在線遊戲](https://zh.wikipedia.org/wiki/威世智公司 "wikilink")，發行於2002年6月24日。\[2\]

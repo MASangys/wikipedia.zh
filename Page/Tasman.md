@@ -1,3 +1,6 @@
+> 本文内容由[Tasman](https://zh.wikipedia.org/wiki/Tasman)转换而来。
+
+
 **Tasman**，是[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet Explorer for Mac](../Page/Internet_Explorer_for_Mac.md "wikilink")[瀏覽器所使用的](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，也是為嘗試支援[W3C所制定的網頁標準而設計的](https://zh.wikipedia.org/wiki/W3C "wikilink")。在Tasman推出時，一度是最切合[HTML](../Page/HTML.md "wikilink")及[CSS等標準的排版引擎](https://zh.wikipedia.org/wiki/CSS "wikilink")\[1\] 。現時微軟方面也停止為Internet Explorer for Mac提供支援，但新版本的Tasman引擎仍被應用在一些微軟產品上\[2\]。
 
 ## 版本歷史

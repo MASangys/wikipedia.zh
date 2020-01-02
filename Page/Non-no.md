@@ -1,3 +1,6 @@
+> 本文内容由[Non-no](https://zh.wikipedia.org/wiki/Non-no)转换而来。
+
+
 《**non-no**》（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")，由[集英社](../Page/集英社.md "wikilink")發行。創刊於1971年5月25日，每[月](../Page/月.md "wikilink")發行一次。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[富豪B5TL](https://zh.wikipedia.org/wiki/富豪B5TL)转换而来。
+
+
 **富豪B5TL**（）是[富豪巴士](../Page/富豪巴士.md "wikilink")開發的[低地台](../Page/低地台巴士.md "wikilink")[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")\[1\]\[2\]。富豪B5TL於2013年推出，是[富豪B9TL](../Page/富豪B9TL.md "wikilink")的後繼型，其引擎排放達到[歐盟6期標準](https://zh.wikipedia.org/wiki/歐洲汽車廢氣排放標準 "wikilink")\[3\]。
 
 富豪B5TL於2014年投入商業營運，目前主要由英國的巴士公司採用，包括位於[蘇格蘭](../Page/蘇格蘭.md "wikilink")的[愛丁堡](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")\[4\]，而[愛爾蘭的首都](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[都柏林](../Page/都柏林.md "wikilink")也有巴士公司採用\[5\]。

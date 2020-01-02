@@ -1,3 +1,6 @@
+> 本文内容由[Windows Mixed Reality](https://zh.wikipedia.org/wiki/Windows_Mixed_Reality)转换而来。
+
+
 **Windows Holographic**是一个[增强现实的计算平台](https://zh.wikipedia.org/wiki/增强现实 "wikilink")，由[微软](../Page/微软.md "wikilink")推出。它在[Windows 10操作系统于](../Page/Windows_10.md "wikilink")2015年发布的时候被引入。\[1\]\[2\]使用Windows Holographic的[API可以使得所有版本的Windows](https://zh.wikipedia.org/wiki/API "wikilink") 10（包括[智能手机](../Page/智能手机.md "wikilink")和[平板电脑上的版本](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")）使用增强现实功能，并且可以容易地在任何Windows应用程式上实现。\[3\]微软在2015年1月21日的“Windows 10：下一篇章”新闻发布会上发布了Windows Holographic。\[4\]
 
 ## Microsoft HoloLens

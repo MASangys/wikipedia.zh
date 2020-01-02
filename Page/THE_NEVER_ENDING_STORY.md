@@ -1,3 +1,6 @@
+> 本文内容由[THE NEVER ENDING STORY](https://zh.wikipedia.org/wiki/THE_NEVER_ENDING_STORY)转换而来。
+
+
 《**THE NEVER ENDING STORY**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")4张[单曲](../Page/单曲.md "wikilink")，於2013年2月20日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

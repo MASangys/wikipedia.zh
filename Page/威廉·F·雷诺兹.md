@@ -1,3 +1,6 @@
+> 本文内容由[威廉·F·雷诺兹](https://zh.wikipedia.org/wiki/威廉·F·雷诺兹)转换而来。
+
+
 **威廉·富兰克林·雷诺兹**（，）是位美国工程师、探险家，还曾于[美墨战争和](https://zh.wikipedia.org/wiki/美墨战争 "wikilink")[南北战争](../Page/南北战争.md "wikilink")期间担任[美国陆军](../Page/美国陆军.md "wikilink")军官。作为陆军[测绘工兵队的一员](https://zh.wikipedia.org/wiki/美国陆军测绘工兵队 "wikilink")，他曾于1859至1860年间引领[雷诺兹远征](https://zh.wikipedia.org/wiki/雷诺兹远征 "wikilink")，这成为他一生中最知名的事迹。
 
 19世纪50年代期间以及内战结束后，雷诺兹是多个灯塔建设项目的首席工程师。在他的监督下，许多河流和港口得以疏浚，航运条件获得改善。雷诺兹对包括[五大湖在内的许多地区进行勘测](https://zh.wikipedia.org/wiki/五大湖地区 "wikilink")，绘制出很多岛屿和海岸线的地图。由他监督建造的[灯塔](../Page/灯塔.md "wikilink")中有多座至今仍在使用，并且还有些已经入选[国家史迹名录](https://zh.wikipedia.org/wiki/国家史迹名录 "wikilink")。

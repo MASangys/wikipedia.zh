@@ -1,3 +1,6 @@
+> 本文内容由[Lynx](https://zh.wikipedia.org/wiki/Lynx)转换而来。
+
+
 **Lynx**是個純文字[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，是在具有高亮文字功能的[終端](../Page/終端.md "wikilink")上使用的。它最早开始于1992年，是目前被使用和開發的历史最悠久的網頁瀏覽器。
 
 ## 歷史

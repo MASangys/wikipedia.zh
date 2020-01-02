@@ -1,3 +1,6 @@
+> 本文内容由[Q梅西纳-帕拉泽克多项式](https://zh.wikipedia.org/wiki/Q梅西纳-帕拉泽克多项式)转换而来。
+
+
 [QMEIXNER-POLLACZEK_2D_PLOT.gif](https://zh.wikipedia.org/wiki/File:QMEIXNER-POLLACZEK_2D_PLOT.gif "fig:QMEIXNER-POLLACZEK_2D_PLOT.gif") **Q梅西纳-帕拉泽克多项式**定义如下：\[1\]
 
 \(P_{n}(x;a|q)=a^{-n}e^{in\phi}\)\(\frac{a^2;q_n}{(q;q)_n}\)\(_3\Phi_2(q^-n,ae^{i(\theta+2\phi)},ae^{-i\theta};a^2,0|q;q)\)

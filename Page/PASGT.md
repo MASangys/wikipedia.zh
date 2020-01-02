@@ -1,3 +1,6 @@
+> 本文内容由[PASGT](https://zh.wikipedia.org/wiki/PASGT)转换而来。
+
+
 [501st_MI_Brigade_Change_of_Command.JPG](https://zh.wikipedia.org/wiki/File:501st_MI_Brigade_Change_of_Command.JPG "fig:501st_MI_Brigade_Change_of_Command.JPG")
 
 **PASGT**，全稱為**地面部隊單兵護甲系統**（），是[美國軍方由](https://zh.wikipedia.org/wiki/美國軍方 "wikilink")1985年開始裝配的一款單兵裝備，由[頭盔及](https://zh.wikipedia.org/wiki/頭盔 "wikilink")[防彈衣組成](https://zh.wikipedia.org/wiki/防彈衣 "wikilink")。其中頭盔以[克維拉](../Page/克維拉.md "wikilink")複合材料作為製材，由於其形狀如同[二次大戰時納粹德軍的](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[M35鋼盔](../Page/德式鋼盔.md "wikilink")，而得到「德國佬」（）的暱稱。PASGT頭盔現已被[先進戰鬥頭盔](../Page/先進戰鬥頭盔.md "wikilink")和取代。

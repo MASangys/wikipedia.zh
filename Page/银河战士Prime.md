@@ -1,3 +1,6 @@
+> 本文内容由[银河战士Prime](https://zh.wikipedia.org/wiki/银河战士Prime)转换而来。
+
+
 是[Retro Studios开发](https://zh.wikipedia.org/wiki/Retro_Studios "wikilink")，[任天堂](../Page/任天堂.md "wikilink")发行于[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")游戏机的游戏。游戏于2002年11月在北美发行，翌年在日本和欧洲发行。《银河战士Prime》[银河战士系列的第五部主要游戏](https://zh.wikipedia.org/wiki/银河战士系列 "wikilink")，也是首部采用[3D的游戏](../Page/三维计算机图形.md "wikilink")。因为探索优先于战斗，任天堂称游戏为[第一人称](https://zh.wikipedia.org/wiki/第一人称游戏 "wikilink")[冒险游戏而非](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")\[1\]。任天堂在北美版发售同日发行了[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")《[银河战士 融合](../Page/银河战士_融合.md "wikilink")》，标志着系列在《[超级银河战士](../Page/超级银河战士.md "wikilink")》（1994）沉寂8年后再次回归\[2\]。
 
 《银河战士Prime》是Prime三章故事的第一部分，设定于初代《[银河战士](../Page/银河战士_\(游戏\).md "wikilink")》和《[银河战士II 萨姆斯的回归](../Page/银河战士II_萨姆斯的回归.md "wikilink")》之间\[3\]\[4\]。如同系列前作，《银河战士Prime》是用[科幻设定](https://zh.wikipedia.org/wiki/科幻 "wikilink")，玩家操作赏金猎人[萨姆斯·阿兰](https://zh.wikipedia.org/wiki/萨姆斯·阿兰 "wikilink")。故事讲述萨姆斯和太空海盗以及他们在星球Tallon IV的战斗。

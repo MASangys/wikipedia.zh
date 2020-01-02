@@ -1,3 +1,6 @@
+> 本文内容由[Big Comic Spirits](https://zh.wikipedia.org/wiki/Big_Comic_Spirits)转换而来。
+
+
 《**Big Comic Spirits**》（）是[日本](../Page/日本.md "wikilink")出版社[小學館](../Page/小學館.md "wikilink")所推出的[漫畫週刊雜誌](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，鎖定的閱讀對象為年齡層較高的青年讀者群。
 
 1980年10月創刊，創刊當初是月刊（每月14日發售），1981年6月開始轉為雙週刊，1986年4月起成為週刊（每週一發售）。該雜誌連載的著名作品，有[浦澤直樹](../Page/浦澤直樹.md "wikilink")的《[20世紀少年](https://zh.wikipedia.org/wiki/20世紀少年 "wikilink")》等。

@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Esteem](https://zh.wikipedia.org/wiki/鈴木Esteem)转换而来。
+
+
 **鈴木Esteem**（）乃[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1995年至2007年間開發製造的四門[緊湊型轎車](https://zh.wikipedia.org/wiki/緊湊型轎車 "wikilink")、五門緊湊型[旅行車](../Page/旅行車.md "wikilink")。在日本市場，此車款是[鈴木Cultus](../Page/鈴木Cultus.md "wikilink")的高端車型，稱為**鈴木Cultus Crescent**；[北美洲](../Page/北美洲.md "wikilink")和[臺灣](../Page/臺灣.md "wikilink")市場使用「鈴木Esteem」，而[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲及其他](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[亞洲市場則稱為](https://zh.wikipedia.org/wiki/亞洲 "wikilink")**鈴木Baleno**。由[印度](../Page/印度.md "wikilink")[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")製造發售的稱為**馬魯蒂Baleno**（四門轎車）、**馬魯蒂Baleno Altura**（五門旅行車），不過[菲律賓則](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[更換廠徽標誌後叫作](../Page/换牌工程.md "wikilink")**雪佛蘭Cassia**。
 
 ## 歷史與概要

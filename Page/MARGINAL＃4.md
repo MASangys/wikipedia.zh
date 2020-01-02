@@ -1,3 +1,6 @@
+> 本文内容由[MARGINAL＃4](https://zh.wikipedia.org/wiki/MARGINAL＃4)转换而来。
+
+
 **MARGINAL\#4**（）是[Rejet以](https://zh.wikipedia.org/wiki/Rejet "wikilink")“將Kiss傳達至銀河盡頭的IDOL”的概念組成的架空偶像團體。 在2013年2月17日舉辦的「Rejet Fes2013」以“Rejet Fes之外見不到的IDOL”先行發表。 所屬為架空事務所。2016年8月5日在Rejet的新作發表會上同時公開手機音遊化與動畫化的消息，動畫已預計於2017年1月12日播出，作曲與作詞依然由MIKOTO和岩崎大介操刀，並且每話的片尾曲都會更動。
 
 ## 概要

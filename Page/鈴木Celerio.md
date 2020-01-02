@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Celerio](https://zh.wikipedia.org/wiki/鈴木Celerio)转换而来。
+
+
 **鈴木Celerio**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司之](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[印度](../Page/印度.md "wikilink")子公司[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")自2008年起開發製造的[都市車](../Page/都市車.md "wikilink")。 {{-}}
 
 ## 歷史與概要

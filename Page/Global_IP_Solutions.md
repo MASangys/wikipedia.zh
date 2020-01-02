@@ -1,3 +1,6 @@
+> 本文内容由[Global IP Solutions](https://zh.wikipedia.org/wiki/Global_IP_Solutions)转换而来。
+
+
 **Global IP Sound**，又稱**Global IP Solutions**，簡稱**GIPS**，是一家总部位于[美国](../Page/美国.md "wikilink")[旧金山](../Page/旧金山.md "wikilink")，专门从事基于[IP网络的实时语音和视频处理软件研发的高科技公司](../Page/网际协议.md "wikilink")。公司於1999年在[瑞典](../Page/瑞典.md "wikilink")[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")成立，後改名為Global IP Solutions。如[北电网络](../Page/北电网络.md "wikilink")、[Skype](../Page/Skype.md "wikilink")、[腾讯QQ](../Page/腾讯QQ.md "wikilink")、[WebEx](https://zh.wikipedia.org/wiki/WebEx "wikilink")、[AOL](https://zh.wikipedia.org/wiki/AOL "wikilink")、EarthLink等許多项目目前都採用该公司的產品GIPS SoundWare™。
 
 2010年5月，[Google](../Page/Google.md "wikilink")以6820萬美元併購GIPS。\[1\]2011年6月，Google釋出[WebRTC](../Page/WebRTC.md "wikilink")。\[2\]WebRTC是在瀏覽器內進行影像和音訊通信的一套开源技術。\[3\]

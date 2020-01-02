@@ -1,3 +1,6 @@
+> 本文内容由[SOUL CATCHER\(S\)](https://zh.wikipedia.org/wiki/SOUL_CATCHER\(S\))转换而来。
+
+
 《**SOUL CATCHER(S)**》（），[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，作者為[神海英雄](https://zh.wikipedia.org/wiki/神海英雄 "wikilink")。連載期間從《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》2013年24號到2014年31號，接著轉載於《[少年Jump NEXT\!\!](https://zh.wikipedia.org/wiki/少年Jump_NEXT!! "wikilink")》，之后又转载于《[少年jump+](https://zh.wikipedia.org/wiki/少年jump+ "wikilink")》。已发行單行本11本。
 
 ## 故事簡介

@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM系列作品列表](https://zh.wikipedia.org/wiki/GUNDAM系列作品列表)转换而来。
+
+
 從[初代機動戰士GUNDAM開始](../Page/機動戰士GUNDAM.md "wikilink")，[日昇動畫](../Page/日昇動畫.md "wikilink")製作了一系列的[GUNDAM](../Page/GUNDAM.md "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。另外，除了動畫作品，在[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")[電玩上亦有各式GUNDAM相關創作](https://zh.wikipedia.org/wiki/電玩 "wikilink")。
 
 ## 宇宙世纪（Universal Century, U.C.）系列作品

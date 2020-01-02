@@ -1,3 +1,6 @@
+> 本文内容由[Galeon](https://zh.wikipedia.org/wiki/Galeon)转换而来。
+
+
 **Galeon**是[GNOME](../Page/GNOME.md "wikilink")桌面系统下的[网页浏览器](../Page/网页浏览器.md "wikilink")，采用[Mozilla](../Page/Mozilla.md "wikilink")的[Gecko](../Page/Gecko.md "wikilink")排版引擎，按照[GPL进行软件发布](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 特点

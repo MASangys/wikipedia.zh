@@ -1,3 +1,6 @@
+> 本文内容由[Struts](https://zh.wikipedia.org/wiki/Struts)转换而来。
+
+
 **Struts**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")（ASF）赞助的一个[开源项目](https://zh.wikipedia.org/wiki/开源 "wikilink")。它最初是[Jakarta项目](../Page/Jakarta项目.md "wikilink")中的一个子项目，并在2004年3月成为ASF的顶级项目。它通过采用[Java Servlet](../Page/Java_Servlet.md "wikilink")／[JSP](../Page/JSP.md "wikilink")技术，实现了基于[Java EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink") [Web应用的Model](https://zh.wikipedia.org/wiki/Web "wikilink")-View-Controller（[MVC](../Page/MVC.md "wikilink")）[设计模式的](https://zh.wikipedia.org/wiki/设计模式 "wikilink")[应用框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，是MVC经典设计模式中的一个经典产品。
 
 ## MVC结构

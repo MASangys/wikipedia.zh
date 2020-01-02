@@ -1,3 +1,6 @@
+> 本文内容由[NetBeans](https://zh.wikipedia.org/wiki/NetBeans)转换而来。
+
+
 **NetBeans**是由[昇陽電腦](../Page/昇陽電腦.md "wikilink")（Sun Microsystems）建立的開放原始碼的軟體開發工具，是一個開發框架，可擴展的開發平台，可以用於[Java](../Page/Java.md "wikilink")，[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")／[C++](../Page/C++.md "wikilink")，[PHP](../Page/PHP.md "wikilink")，[HTML5](../Page/HTML5.md "wikilink")等程式的開發，本身是一個開發平台，可以通過擴展插件來擴展功能。
 
 在NetBeans Platform平台中，應用軟體是用一系列的軟體模組（modular software components）建構出來。而這些模組是一個jar檔（Java archive file）它包含了一組[Java](../Page/Java.md "wikilink")程式的類別而它們實作全依據依NetBeans定義了的公開介面以及一系列用來區分不同模組的[定義描述檔（Manifest file）](../Page/清单文件.md "wikilink")。有賴於模組化帶來的好處，用模組來建構的應用程式可只要加上新的模組就能進一步擴充。由於模組可以獨立地進行開發，所以由NetBeans平台

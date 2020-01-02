@@ -1,3 +1,6 @@
+> 本文内容由[Kill \(命令\)](https://zh.wikipedia.org/wiki/Kill_\(命令\))转换而来。
+
+
 在[電腦運算中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，**`kill`**是一个在多种流行[操作系统](../Page/操作系统.md "wikilink")上都可见到的[命令](../Page/命令_\(计算机\).md "wikilink")，可向运行中的[行程](../Page/行程.md "wikilink")发送信号，以请求进程终止。
 
 ## 实现

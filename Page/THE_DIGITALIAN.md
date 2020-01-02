@@ -1,3 +1,6 @@
+> 本文内容由[THE DIGITALIAN](https://zh.wikipedia.org/wiki/THE_DIGITALIAN)转换而来。
+
+
 《**THE DIGITALIAN**》是[嵐](../Page/嵐.md "wikilink")的第16張專輯，第13枚原創專輯，於2014年10月22日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 概要

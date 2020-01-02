@@ -1,3 +1,6 @@
+> 本文内容由[特救指令Solbrain](https://zh.wikipedia.org/wiki/特救指令Solbrain)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

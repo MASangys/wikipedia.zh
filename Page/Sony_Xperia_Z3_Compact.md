@@ -1,3 +1,6 @@
+> 本文内容由[Sony Xperia Z3 Compact](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3_Compact)转换而来。
+
+
 **Sony Xperia Z3 Compact**，是[索尼](../Page/索尼.md "wikilink")於2014年9月3日發佈的旗艦手機，搭載4.6吋螢幕、2.5 GHz四核心處理器、2GB記憶體、2,070萬畫素 25mm G鏡且支援[4K錄影](https://zh.wikipedia.org/wiki/4K "wikilink")，120fps慢動作錄影。此外防塵性能、相機性能、電池續航力相對於上一代的Xperia Z1 Cpmpact有所提升，手機厚度則更為下降。部份消費者反應手機使用一年後螢幕觸控容易有故障的情況。
 
 Xperia Z3 Compact為[安卓操作系统的輕旗艦](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，作為它的前一代[Sony Xperia Z1 Compact的後續機型](../Page/Sony_Xperia_Z1_Compact.md "wikilink")。同期的競爭對手有[HTC One Mini 2](../Page/HTC_One_Mini_2.md "wikilink")，[Samsung Galaxy Alpha](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Alpha "wikilink")，[LG G3 Beat](https://zh.wikipedia.org/wiki/LG_G3_Beat "wikilink")，[iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")。

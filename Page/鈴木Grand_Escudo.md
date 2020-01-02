@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Grand Escudo](https://zh.wikipedia.org/wiki/鈴木Grand_Escudo)转换而来。
+
+
 **鈴木Grand Escudo**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司於](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1998年至2006年間，以[第二代Escudo為原型修改而成的](https://zh.wikipedia.org/wiki/鈴木Escudo#第二代（1997年-2005年） "wikilink")[中型](https://zh.wikipedia.org/wiki/中型车 "wikilink")[SUV](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，[北美洲](../Page/北美洲.md "wikilink")和[智利](../Page/智利.md "wikilink")市場稱作**鈴木XL-7**\[1\]，[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[臺灣](../Page/臺灣.md "wikilink")市場則為**鈴木Grand Vitara XL-7**。
 
 ## 歷史及概要

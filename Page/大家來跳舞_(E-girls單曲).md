@@ -1,3 +1,6 @@
+> 本文内容由[大家來跳舞 \(E-girls單曲\)](https://zh.wikipedia.org/wiki/大家來跳舞_\(E-girls單曲\))转换而来。
+
+
 《**大家來跳舞**》（おどるポンポコリン）是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")10张[单曲](../Page/单曲.md "wikilink")，於2014年8月13日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要

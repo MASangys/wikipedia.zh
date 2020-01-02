@@ -1,3 +1,6 @@
+> 本文内容由[SAE兄弟会](https://zh.wikipedia.org/wiki/SAE兄弟会)转换而来。
+
+
 **SAE兄弟会**（全称西格玛·阿拉法·伊普西龙兄弟会，Sigma Alpha Epsilon），是[美国](../Page/美国.md "wikilink")最大的[大学](https://zh.wikipedia.org/wiki/大学 "wikilink")[兄弟会之一](https://zh.wikipedia.org/wiki/兄弟会 "wikilink")。它于1856年3月9日在美国南部的[阿拉巴马大学](../Page/阿拉巴马大学.md "wikilink")成立，是美国南部第一个希腊式大学兄弟会组织、世界上人数最多的兄弟会，也是现存兄弟会中唯一一个成立于南部的兄弟会。其总部位于[伊利诺伊的西北大学](https://zh.wikipedia.org/wiki/伊利诺伊 "wikilink")。这个兄弟会因其俄克拉荷马大学支部2015年3月的种族歧视事件而备受争议。\[1\] \[2\]\[3\]
 
 ## 历史

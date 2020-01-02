@@ -1,3 +1,6 @@
+> 本文内容由[AJAX](https://zh.wikipedia.org/wiki/AJAX)转换而来。
+
+
 **AJAX**即“****”（非同步的[JavaScript](../Page/JavaScript.md "wikilink")與[XML](../Page/XML.md "wikilink")技術），指的是一套综合了多項技術的[瀏覽器端](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")[網頁](../Page/網頁.md "wikilink")開發技術。Ajax的概念由[傑西·詹姆士·賈瑞特](../Page/傑西·詹姆士·賈瑞特.md "wikilink")所提出\[1\]。
 
 传统的Web应用允许用户端填写表单（form），当送出表单时就向[網頁伺服器](../Page/網頁伺服器.md "wikilink")发送一个请求。伺服器接收并处理传来的表单，然后送回一个新的网页，但这个做法浪费了许多带宽，因为在前后两个页面中的大部分[HTML](../Page/HTML.md "wikilink")码往往是相同的。由于每次应用的沟通都需要向伺服器发送请求，应用的回應时间依赖于伺服器的回應时间。这导致了用户界面的回應比本機应用慢得多。

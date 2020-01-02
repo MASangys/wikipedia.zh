@@ -1,3 +1,6 @@
+> 本文内容由[Emperors SaGa](https://zh.wikipedia.org/wiki/Emperors_SaGa)转换而来。
+
+
 是史克威爾艾尼克斯發行的下载社交游戏，为[沙加系列](../Page/沙加系列.md "wikilink")的一部作品。游戏于2012年9月在[GREE平台发行](https://zh.wikipedia.org/wiki/GREE "wikilink")。玩家在游戏中扮演一国之帝王，作为统治者支配国家\[1\]。
 
 ## 玩法

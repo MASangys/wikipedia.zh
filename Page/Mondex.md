@@ -1,3 +1,6 @@
+> 本文内容由[Mondex](https://zh.wikipedia.org/wiki/Mondex)转换而来。
+
+
 **Mondex**是一款使用[智能卡的](https://zh.wikipedia.org/wiki/智能卡 "wikilink")[電子收費系統](https://zh.wikipedia.org/wiki/電子收費系統 "wikilink")，最初於1990年由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[國民西敏銀行開發](https://zh.wikipedia.org/wiki/國民西敏銀行 "wikilink")，經過5年的試驗，於1995年開始於Swindon作測試，及後多個[國家及地區均引進這套系統](https://zh.wikipedia.org/wiki/國家 "wikilink")。1996年[萬事達國際組織買下了Mondex](https://zh.wikipedia.org/wiki/MasterCard "wikilink") 51%的股份\[1\]。1997年，英國的De La Rue公司成為了Mondex的合作伙伴。
 
 在1996年買下Mondex後，萬事達國際組織放棄了本身開發的Mastercard Cash[電子收費系統](https://zh.wikipedia.org/wiki/電子收費系統 "wikilink")\[2\]。然而，隨著科技的進步，傳統的Mondex接觸式電子現金業務已過時，取而代之的是非接觸式電子現金業務。在台灣，萬事達國際組織重新將非接觸式電子現金業務命名為Mastercard Cash。\[3\]

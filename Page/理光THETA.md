@@ -1,3 +1,6 @@
+> 本文内容由[理光THETA](https://zh.wikipedia.org/wiki/理光THETA)转换而来。
+
+
 **理光THETA**是于2013年9月，由[理光](../Page/理光.md "wikilink")公司推出的数码相机产品，其最大特点在于可以一次性拍摄[全天球影像](https://zh.wikipedia.org/wiki/全景 "wikilink")，而于智能设备上回放。
 
 其后续产品为次年推出的 **理光THETA m15**，新增加了视频拍摄功能，于2014年11月发布。其后续产品保持每年一款的更新速度。

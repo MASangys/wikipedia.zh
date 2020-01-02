@@ -1,3 +1,6 @@
+> 本文内容由[貝瑞塔Pico半自動手槍](https://zh.wikipedia.org/wiki/貝瑞塔Pico半自動手槍)转换而来。
+
+
 **貝瑞塔Pico**（）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")所研製和生產的[擊針擊發式袖珍型](../Page/撞針.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，發射（.380自動手槍子彈，9×17米白朗寧短彈）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 該槍是為了而研製，它的重量輕便，體積細小，非常適合隱蔽。Pico是專為民用槍械的商業市場而研製，而不是於軍事用途上使用。

@@ -1,3 +1,6 @@
+> 本文内容由[Q指数](https://zh.wikipedia.org/wiki/Q指数)转换而来。
+
+
 [Qexp.gif](https://zh.wikipedia.org/wiki/File:Qexp.gif "fig:Qexp.gif") **Q指数**是指数函数的Q模拟，定义如下
 
 \[e_q(z)=

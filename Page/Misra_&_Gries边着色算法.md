@@ -1,3 +1,6 @@
+> 本文内容由[Misra \& Gries边着色算法](https://zh.wikipedia.org/wiki/Misra_\&_Gries边着色算法)转换而来。
+
+
 **Misra & Gries边着色算法**是[图论](../Page/图论.md "wikilink")算法的一种，能够在[多项式时间内找到任意图的一种](https://zh.wikipedia.org/wiki/多项式时间 "wikilink")[边着色方案](https://zh.wikipedia.org/wiki/边着色 "wikilink")。这种着色算法最多使用\(\Delta+1\)种颜色，\(\Delta\)是该图节点的最大[度数](../Page/图论.md "wikilink")。这对于一些图而言是最优的，根据[Vizing定理](../Page/Vizing定理.md "wikilink")，最坏情况下，这种算法给出的结果比最优值多使用一种颜色。
 
 该算法由Jayadev Misra和David Gries在1992年首次提出\[1\]，是对Béla Bollobás提出的一种算法的简化。\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[数码宝贝大冒险tri.角色列表](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri.角色列表)转换而来。
+
+
 **数码宝贝大冒险tri.角色列表**（[日语](../Page/日语.md "wikilink")：，[英语](../Page/英语.md "wikilink")：List of Digimon Adventure tri. characters）是[日本](../Page/日本.md "wikilink")[东映动画](../Page/东映动画.md "wikilink")于2015年起分6章制作的OVA《[数码宝贝大冒险tri.](https://zh.wikipedia.org/wiki/数码宝贝大冒险tri. "wikilink")》登场人物和数码宝贝一览表。\[1\]
 
 本作為前兩作中尚未出現過的其他孩子們的夥伴搭擋數碼獸的究極體進化由本作登場的路線發展，原先只在遊戲版才有，這次動畫版的主要路線全員究極體進化型態將會由這次第三作中完美呈現出到究極體為止的所有進化順序。

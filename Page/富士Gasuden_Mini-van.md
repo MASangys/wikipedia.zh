@@ -1,3 +1,6 @@
+> 本文内容由[富士Gasuden Mini-van](https://zh.wikipedia.org/wiki/富士Gasuden_Mini-van)转换而来。
+
+
 **富士Gasuden Mini-van**（）乃是[日本](../Page/日本.md "wikilink")[富士汽車](../Page/富士汽車.md "wikilink")於1961年全日本汽車展（今[東京車展](../Page/東京車展.md "wikilink")）公開的[輕型雙門](../Page/輕型車.md "wikilink")[麵包車](https://zh.wikipedia.org/wiki/微型麵包車 "wikilink")，此車款僅是為了[量產化而製作的試作車而已](../Page/大量生產.md "wikilink")，公司內部代號「M36」。但是以富士汽車當時的財力、設備而言，根本無法付諸量產。
 
 ## 概要

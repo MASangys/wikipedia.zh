@@ -1,3 +1,6 @@
+> 本文内容由[S函数](https://zh.wikipedia.org/wiki/S函数)转换而来。
+
+
 [Sigmoid_function_01.png](https://zh.wikipedia.org/wiki/File:Sigmoid_function_01.png "fig:Sigmoid_function_01.png") [Sigmoid_function_02.png](https://zh.wikipedia.org/wiki/File:Sigmoid_function_02.png "fig:Sigmoid_function_02.png") **Sigmoid函数**得名因其形状像**S**字母。一种常见的S函数是[逻辑函数](https://zh.wikipedia.org/wiki/逻辑函数 "wikilink"):
 
 \[S(t) = \frac{1}{1 + e^{-t}}.\]

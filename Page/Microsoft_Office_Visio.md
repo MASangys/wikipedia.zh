@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office Visio](https://zh.wikipedia.org/wiki/Microsoft_Office_Visio)转换而来。
+
+
 2000年[微软公司收购同名公司后](https://zh.wikipedia.org/wiki/微软公司 "wikilink")，**Visio**成为微软公司的产品。
 
 **Microsoft Visio**（，）是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") [操作系统](../Page/操作系统.md "wikilink")下运行的流程图软件，它现在是[Microsoft Office软件的一部分](../Page/Microsoft_Office.md "wikilink")。Visio可以制作的图表范围十分广泛，有些人利用Visio的强大绘图功能绘制地图、企业标志等，同时Visio支持将档案保存为svg、dwg等[矢量图形](../Page/矢量图形.md "wikilink")通用格式，因此受到广泛欢迎。它的最新版本为2019。

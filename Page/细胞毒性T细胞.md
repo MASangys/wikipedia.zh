@@ -1,3 +1,6 @@
+> 本文内容由[细胞毒性T细胞](https://zh.wikipedia.org/wiki/细胞毒性T细胞)转换而来。
+
+
 [Antigen_presentation.svg](https://zh.wikipedia.org/wiki/File:Antigen_presentation.svg "fig:Antigen_presentation.svg")
 
 **细胞毒性T细胞**（，T<sub>C</sub>或CTL），也称**杀手T细胞**（），**TC细胞**、**胞殺T細胞**、**胞毒T細胞**，或**CD8+ T細胞**，屬於[T細胞的一種](https://zh.wikipedia.org/wiki/T細胞 "wikilink")，可以殺死癌細胞、受[病毒](../Page/病毒.md "wikilink")感染的細胞，以及其他受損的細胞。

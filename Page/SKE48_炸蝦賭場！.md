@@ -1,3 +1,6 @@
+> 本文内容由[SKE48 炸蝦賭場！](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場！)转换而来。
+
+
 《**SKE48 炸蝦賭場\!**》（）是[日本電視台](../Page/日本電視台.md "wikilink")從2014年10月12日起至2015年1月4日間、每[周日凌晨](https://zh.wikipedia.org/wiki/周日 "wikilink")1:20 - 1:50（即每[周六深夜](https://zh.wikipedia.org/wiki/周六 "wikilink")）播出的、日本女性偶像團體[SKE48](../Page/SKE48.md "wikilink")的冠名[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
 
 ## 簡介

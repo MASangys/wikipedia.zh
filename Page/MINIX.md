@@ -1,3 +1,6 @@
+> 本文内容由[MINIX](https://zh.wikipedia.org/wiki/MINIX)转换而来。
+
+
 {{ expert|subject=计算机科学 }}
 
 **Minix**，是一個迷你版本的[類Unix作業系統](https://zh.wikipedia.org/wiki/類Unix "wikilink")，由[塔能鲍姆教授為了教學之用而創作](../Page/安德鲁·斯图尔特·塔能鲍姆.md "wikilink")，採用[微核心設計](https://zh.wikipedia.org/wiki/微核心 "wikilink")。它啟發了[Linux核心的創作](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")。

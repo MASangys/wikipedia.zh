@@ -1,3 +1,6 @@
+> 本文内容由[连续大Q埃尔米特多项式](https://zh.wikipedia.org/wiki/连续大Q埃尔米特多项式)转换而来。
+
+
 **连续大Q埃尔米特多项式**是以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的[正交多项式](https://zh.wikipedia.org/wiki/正交多项式 "wikilink")\[1\]
 
 \(H_{n}(x;a;q)=a^{-n}\;_{2}\phi_1\left(\begin{matrix}

@@ -1,3 +1,6 @@
+> 本文内容由[S股](https://zh.wikipedia.org/wiki/S股)转换而来。
+
+
 **S股**（），是一個股市術語，又稱**[龙筹股](https://zh.wikipedia.org/wiki/龙筹股 "wikilink")**、**新加坡龙筹股**\[1\]，但不是所有龙筹股都是S股。廣義的S股，是指那些主要生产或者经营的核心业务在[中国大陆](../Page/中国大陆.md "wikilink")、而企业的注册地在中國大陸、[新加坡](../Page/新加坡.md "wikilink")（）或者其他国家和地区，但是在[新加坡交易所](../Page/新加坡交易所.md "wikilink")上市挂牌的企业股票。
 
 但是，狹義的S股、新加坡「純龙筹股」，不同機構有完全不同的定義：例如《[联合早报](../Page/联合早报.md "wikilink")》指S股是新加坡龙筹股的一種，並限指中國大陸公司在新加坡交易的[境外上市外资股](../Page/境外上市外资股.md "wikilink")\[2\]；相反，[富時集團](../Page/富時集團.md "wikilink")[富時中國S股全指指數指的](https://zh.wikipedia.org/wiki/富時中國S股全指指數 "wikilink")，是指在新交所上市，收入或資產與中國有關，但不在中國大陸註冊的公司\[3\]；[MSCI](../Page/MSCI.md "wikilink")的MSCI Overseas China Index則排除[借殼上市](../Page/借殼上市.md "wikilink")的星洲上市中國企業\[4\]；《[華爾街日報](https://zh.wikipedia.org/wiki/華爾街日報 "wikilink")》則使用較廣泛的S Chip定義，並引用選股條件較寬鬆的[富时海峡时报中国指数](https://zh.wikipedia.org/wiki/富时海峡时报中国指数 "wikilink")\[5\]。

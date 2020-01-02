@@ -1,3 +1,6 @@
+> 本文内容由[AMD Jaguar](https://zh.wikipedia.org/wiki/AMD_Jaguar)转换而来。
+
+
 **AMD Jaguar**（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：**美洲豹**）是[超微半導體](../Page/超威半导体.md "wikilink")（[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")）设计的[低功耗](../Page/低功耗设计.md "wikilink")[系統晶片](../Page/系统芯片.md "wikilink")[微架构](https://zh.wikipedia.org/wiki/微架构 "wikilink")，具有两路[超純量结构](https://zh.wikipedia.org/wiki/超标量 "wikilink")，并且支持[乱序执行](../Page/乱序执行.md "wikilink")。Jaguar微架構是AMD公司的[半定制商业芯片单元的组成部分](../Page/全定制.md "wikilink")，並分為四個產品家族系列：『Kabini』用於[筆電平台和迷你](https://zh.wikipedia.org/wiki/筆電 "wikilink")[PC](../Page/PC.md "wikilink")平台、『Temash』主攻[平板電腦](../Page/平板電腦.md "wikilink")平台、『Kyoto』針對微型[伺服器平台](https://zh.wikipedia.org/wiki/伺服器 "wikilink")、『G系列』（G-Series）則為[嵌入式應用領域提供解決方案](https://zh.wikipedia.org/wiki/嵌入式電腦 "wikilink")。[PlayStation 4和](../Page/PlayStation_4.md "wikilink")[Xbox One都使用了基于该微架构的处理器核心](../Page/Xbox_One.md "wikilink")。\[1\]
 
 ## 设计

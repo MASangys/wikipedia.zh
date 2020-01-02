@@ -1,3 +1,6 @@
+> 本文内容由[Duga远程警戒雷达](https://zh.wikipedia.org/wiki/Duga远程警戒雷达)转换而来。
+
+
 [DUGA_Radar_Array_near_Chernobyl,_Ukraine_2014.jpg](https://zh.wikipedia.org/wiki/File:DUGA_Radar_Array_near_Chernobyl,_Ukraine_2014.jpg "fig:DUGA_Radar_Array_near_Chernobyl,_Ukraine_2014.jpg") [Woodpecker_array.jpg](https://zh.wikipedia.org/wiki/File:Woodpecker_array.jpg "fig:Woodpecker_array.jpg")的Duga-1阵列。右侧成对的圆柱/圆锥笼阵列是[有源振子](../Page/八木天线.md "wikilink")，由悬挂在顶部右侧平台的信号线提供信号。\]\] [Duga_radar_station_within_the_Chernobyl_Exclusion_Zone,_Ukraine_(09).JPG](https://zh.wikipedia.org/wiki/File:Duga_radar_station_within_the_Chernobyl_Exclusion_Zone,_Ukraine_\(09\).JPG "fig:Duga_radar_station_within_the_Chernobyl_Exclusion_Zone,_Ukraine_(09).JPG")
 
 **Duga远程警戒雷达**（）是[苏联](../Page/苏联.md "wikilink")在[冷战时期所建设的](https://zh.wikipedia.org/wiki/冷战时期 "wikilink")[超视距雷达](../Page/超视距雷达.md "wikilink")，是苏联[反弹道导弹](../Page/反弹道导弹.md "wikilink")远程警戒网络的一部分，于1976年7月至1989年12月期间服役。该系统总共部署了两套，一套位于[乌克兰苏维埃社会主义共和国](../Page/乌克兰苏维埃社会主义共和国.md "wikilink")（今天的[乌克兰](../Page/乌克兰.md "wikilink")）境内的[切尔诺贝利](../Page/切尔诺贝利.md "wikilink")与[切尔尼戈夫](../Page/切尔尼戈夫.md "wikilink")附近，另一套位于东[西伯利亚](../Page/西伯利亚.md "wikilink")。

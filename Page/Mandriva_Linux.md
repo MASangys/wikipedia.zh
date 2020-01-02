@@ -1,3 +1,6 @@
+> 本文内容由[Mandriva Linux](https://zh.wikipedia.org/wiki/Mandriva_Linux)转换而来。
+
+
 **Mandriva Linux**是一个由[Mandriva](../Page/Mandriva.md "wikilink")开发的[Linux](../Page/Linux.md "wikilink")发行版，它使用[RPM包管理器及](https://zh.wikipedia.org/wiki/RPM "wikilink")[KDE SC](../Page/KDE_Software_Compilation_4.md "wikilink")、[GNOME](../Page/GNOME.md "wikilink")等桌面环境。每个发布版本提供12个月的桌面软件更新，以及18个月的基础组件更新。
 
 Mandriva Linux的前身为[欧洲](../Page/欧洲.md "wikilink")最大的[Linux](../Page/Linux.md "wikilink")厂商，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[Mandriva](../Page/Mandriva.md "wikilink")公司所擁有的**Mandrake Linux**。 2015年5月26日Business Inside報導Mandriva公司已經正式宣告結束營運\[1\]。

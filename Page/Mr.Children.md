@@ -1,3 +1,6 @@
+> 本文内容由[Mr.Children](https://zh.wikipedia.org/wiki/Mr.Children)转换而来。
+
+
 **Mr.Children**（簡稱 \[Misuchiru\] ）是[日本](../Page/日本.md "wikilink")當代最著名的之一，成員有四人，包括主唱[樱井和寿](https://zh.wikipedia.org/wiki/樱井和寿 "wikilink")、[吉他](../Page/吉他.md "wikilink")手[田原健一](https://zh.wikipedia.org/wiki/田原健一 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")[中川敬輔](https://zh.wikipedia.org/wiki/中川敬輔 "wikilink")，和[鼓](../Page/鼓.md "wikilink")手[鈴木英哉](https://zh.wikipedia.org/wiki/鈴木英哉 "wikilink")。所屬經紀事務所是烏龍舍（2014年4月以前），所屬唱片公司是TOY'S FACTORY。
 
 在高中時期，櫻井和壽與中川敬輔已經在輕音樂社結識並且計畫組團，櫻井和壽又遊說原為[棒球](../Page/棒球.md "wikilink")社社員的田原健一加入。1988年9月，三人皆高中畢業，在中川敬輔的介紹下，鈴木英哉加入，四人組成團名「THE WALL」的團體。1989年1月1日改團名為Mr.Children，從此Mr.Children成為[地下樂團四處遊唱](https://zh.wikipedia.org/wiki/地下樂團 "wikilink")，直到1992年在好友[寺岡呼人的引薦下](https://zh.wikipedia.org/wiki/寺岡呼人 "wikilink")，四人認識名[製作人](../Page/音樂製作人.md "wikilink")[小林武史](../Page/小林武史.md "wikilink")，Mr.Children正式打入主流市場，成為日後撼動[日本流行樂界的一股新力量](https://zh.wikipedia.org/wiki/日本流行樂 "wikilink")，掀起當時名為「Misuchiru現象」的風潮。

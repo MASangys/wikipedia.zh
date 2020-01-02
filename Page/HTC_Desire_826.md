@@ -1,3 +1,6 @@
+> 本文内容由[HTC Desire 826](https://zh.wikipedia.org/wiki/HTC_Desire_826)转换而来。
+
+
 **HTC Desire 826**是手机公司[宏达国际电子股份有限公司](https://zh.wikipedia.org/wiki/宏达国际电子股份有限公司 "wikilink")（HTC）2015年所开发的新一代[智能手机](../Page/智能手机.md "wikilink")，属于中階旗舰机型，在2015年1月6日的[美国拉斯维加斯消费电子展](https://zh.wikipedia.org/wiki/国际消费电子展 "wikilink")（CES）发布\[1\]，搭载[Android](../Page/Android.md "wikilink") 5.0操作系统、[HTC Sense使用者介面](../Page/HTC_Sense.md "wikilink")；将于2015年2月5日正式发售\[2\]。
 
 ## 简介

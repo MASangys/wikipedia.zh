@@ -1,3 +1,6 @@
+> 本文内容由[TCP Cookie 传输](https://zh.wikipedia.org/wiki/TCP_Cookie_传输)转换而来。
+
+
 **TCP Cookie 传输**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**TCP C**ookie **T**ranscations）是一个实验性的[传输控制协议](../Page/传输控制协议.md "wikilink")拓展，在RFC 6013中定义，用于保护TCP连接免于[拒绝服务攻击](https://zh.wikipedia.org/wiki/拒绝服务攻击 "wikilink")，例如通过[SYN Flood和第三方的恶意连接中止耗尽目标资源](https://zh.wikipedia.org/wiki/SYN_Flood "wikilink")。\[1\]不像原有的 [SYN cookies](https://zh.wikipedia.org/wiki/SYN_cookies "wikilink") 方法，\[2\] TCPCT 不会和其它 TCP 拓展冲突, 但是要求客户端（发起者）和服务器（响应者）都支持这一拓展。\[3\]
 
 开发 这个拓展的直接原因是 [DNSSEC](https://zh.wikipedia.org/wiki/DNSSEC "wikilink") 协议的部署。在 DNSSEC 出现前，[DNS](https://zh.wikipedia.org/wiki/DNS "wikilink") 请求主要使用小型 [UDP](../Page/用户数据报协议.md "wikilink") 数据包，但是由于 DNSSEC 数据交换的大小和[IP分片的缺点](https://zh.wikipedia.org/wiki/IP分片 "wikilink")，UDP 对 DNSSEC 来说并不怎么现实。\[4\]\[5\]于是采用 DNSSEC 的请求会创建极多的短寿命 TCP 连接。\[6\]\[7\]

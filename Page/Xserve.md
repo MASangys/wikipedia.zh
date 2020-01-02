@@ -1,3 +1,6 @@
+> 本文内容由[Xserve](https://zh.wikipedia.org/wiki/Xserve)转换而来。
+
+
 **Xserve**是[蘋果電腦所出品的](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[機架式](https://zh.wikipedia.org/wiki/機架 "wikilink")[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，使用[Mac OS X Server](https://zh.wikipedia.org/wiki/Mac_OS_X_Server "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。
 
 當Xserve在2002年發表時，它是蘋果電腦在1996年的[Apple Network Server之後第一次的伺服器硬體設計](https://zh.wikipedia.org/wiki/Apple_Network_Server "wikilink")。它最早包含一或二顆[PowerPC G4處理器](https://zh.wikipedia.org/wiki/PowerPC_G4 "wikilink")，但後來轉換為新的[Power PC G5](https://zh.wikipedia.org/wiki/Power_PC_G5 "wikilink")，随后再次转换为兩顆四核心的Intel「Nehalem核心架構」處理器。Xserve可作多種應用，包括檔案伺服器，網頁伺服器，甚至是以叢集技術執行高效能運算應用－Xserve叢集，也提供不包含顯示卡與光碟機的Xserve叢集節點。

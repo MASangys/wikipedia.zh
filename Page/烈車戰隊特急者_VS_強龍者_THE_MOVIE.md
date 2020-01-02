@@ -1,3 +1,6 @@
+> 本文内容由[烈車戰隊特急者 VS 強龍者 THE MOVIE](https://zh.wikipedia.org/wiki/烈車戰隊特急者_VS_強龍者_THE_MOVIE)转换而来。
+
+
 《**烈車戰隊特急者 VS 強龍者 THE MOVIE**》（），是2015年1月17日東映預定上映的特攝電影，同時也是[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")**》和《**[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")**》的劇場版作品。
 
 ## 概要

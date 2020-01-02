@@ -1,3 +1,6 @@
+> 本文内容由[Fly Again](https://zh.wikipedia.org/wiki/Fly_Again)转换而来。
+
+
 《**Fly Again**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")子團體[INFINITE H的第二張韓語迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2015年1月26日發行\[1\]，主打曲為《漂亮》（）。
 
 ## 背景

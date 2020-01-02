@@ -1,3 +1,6 @@
+> 本文内容由[5urprise](https://zh.wikipedia.org/wiki/5urprise)转换而来。
+
+
 **5urprise**，韓國首個演員組合。由[唯一](https://zh.wikipedia.org/wiki/唯一_\(Surprise\) "wikilink")、[徐康俊](../Page/徐康俊.md "wikilink")、[孔明](../Page/孔明_\(藝人\).md "wikilink")、[姜泰伍](../Page/姜泰伍.md "wikilink")、[李太奐五名成員組成](https://zh.wikipedia.org/wiki/李太奐 "wikilink")。2013年9月2日出道作品為網絡電視劇《放學後福不福》，以團體戲劇正式出道。2014年11月18日，組合發行了首張迷你專輯《From My Heart》以團體歌手正式出道。
 
 ## 成員資料

@@ -1,3 +1,6 @@
+> 本文内容由[羅納德·E·諾伊曼](https://zh.wikipedia.org/wiki/羅納德·E·諾伊曼)转换而来。
+
+
 **羅納德·E·諾伊曼**（，），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[外交官](../Page/外交官.md "wikilink")，現任美國駐阿富汗大使。他曾在阿爾及利亞（1994-97年）和巴林（2001-04年）擔任大使之職。其父[羅伯特·格哈特·諾伊曼亦是外交官](https://zh.wikipedia.org/wiki/羅伯特·格哈特·諾伊曼 "wikilink")，因此羅納德的有部分童年在當地度過。他將其姓氏讀成Newmann，有時其姓亦以此串出。
 
 1970年起在美國政府工作。在[塞內加爾工作過後](https://zh.wikipedia.org/wiki/塞內加爾 "wikilink")，他成為[中東](https://zh.wikipedia.org/wiki/中東 "wikilink")（特別在[波斯灣的](https://zh.wikipedia.org/wiki/波斯灣 "wikilink")）專家。1988年開始，他在中東負責管理[庫爾德難民](https://zh.wikipedia.org/wiki/庫爾德 "wikilink")，亦是海灣北部（Northern Gulf）事務的指揮。

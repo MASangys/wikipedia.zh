@@ -1,3 +1,6 @@
+> 本文内容由[CBS \(電視網\)](https://zh.wikipedia.org/wiki/CBS_\(電視網\))转换而来。
+
+
 **CBS**（所屬公司實體名為**CBS廣播公司**，）是一家[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[商業](https://zh.wikipedia.org/wiki/商業電視台 "wikilink")[無線](../Page/地面電視.md "wikilink")[電視網](https://zh.wikipedia.org/wiki/電視網 "wikilink")，而其最早是一家[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")。目前它除了主營一家電視網之外，還運營著一家廣播網，同時在一些大型或中型收視市場里經營著一些電台和電視台。其名稱來自於原名称**哥倫比亞廣播公司**（）。CBS電視網是全球第三大聯播網，僅次於[美國廣播公司和巴西](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")[環球電視網](https://zh.wikipedia.org/wiki/環球電視網 "wikilink")（巴西最大的電視網）。由於該電視網標誌的關係，因此CBS電視網有時也會被稱為“眼睛台”；同時它也曾經被稱呼為“蒂芬妮台”，這暗示了在其創始人[威廉·佩利](../Page/威廉·佩利.md "wikilink")任職期間其節目的高水準。\[1\]其“蒂芬妮台”的含義或許也和CBS第一次播送[彩色電視](../Page/彩色電視.md "wikilink")節目是在1950年紐約市的[蒂芬妮大廈有關](https://zh.wikipedia.org/wiki/蒂芬妮 "wikilink")。\[2\]
 
 CBS電視網最早名叫“獨立廣播聯合體公司”，威廉·佩利在1928年購買該公司之後就將其改名為“哥倫比亞廣播公司”。\[3\]在佩利的領導下，CBS第一個成為全美最大的廣播聯播網，並且也成為[美國三大電視網](../Page/美國三大電視網.md "wikilink")之一。1974年，哥倫比亞廣播公司放棄了它的全名而使用它的縮寫“CBS公司”。1995年，[西屋電氣公司收購了CBS電視網](https://zh.wikipedia.org/wiki/西屋電氣公司 "wikilink")，并最終確定了公司的名稱為“CBS集團”。2000年，CBS電視網成為旗下子公司。2005年年底，維亞康姆集團重新分拆并組建了以CBS電視網為核心的[CBS集團](https://zh.wikipedia.org/wiki/CBS集團 "wikilink")。CBS集團被[薩莫·雷石東通過](https://zh.wikipedia.org/wiki/薩莫·雷石東 "wikilink")[全美娛樂公司](../Page/全美娛樂公司.md "wikilink")所控股。

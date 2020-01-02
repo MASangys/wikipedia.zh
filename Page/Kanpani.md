@@ -1,3 +1,6 @@
+> 本文内容由[Kanpani](https://zh.wikipedia.org/wiki/Kanpani)转换而来。
+
+
 『**関パニ**』（日語：かんぱに），為[朝日電視台](../Page/朝日電視台.md "wikilink")制作、日本偶像組合[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的冠名節目。節目於2009年10月7日開始每逢週三 25:36 - 25:51（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）播出，於2010年3月31日完結，共25集。
 
 ## 節目簡介

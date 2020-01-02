@@ -1,3 +1,6 @@
+> 本文内容由[长征二号F运载火箭](https://zh.wikipedia.org/wiki/长征二号F运载火箭)转换而来。
+
+
 **長征二號F火箭**，简称**长二F**，别称“**神箭**”，缩写： 或 ，是[长征二号家族中的最新改进型号](https://zh.wikipedia.org/wiki/長征二號系列火箭 "wikilink")，主要用于发射[神舟系列载人飞船](https://zh.wikipedia.org/wiki/神舟飞船 "wikilink")。长征二号F自1992年開始研製，1999年11月19日首次發射並成功將中国第一艘实验飞船[神舟一号](../Page/神舟一号.md "wikilink")飛船送入太空，長征二號F火箭是在[長征二號捆綁火箭的基礎上](https://zh.wikipedia.org/wiki/長征二號捆 "wikilink")，按照發射載人飛船的要求而研製的運載火箭。火箭首次採用垂直總裝、垂直測試和垂直運輸的“三垂”測試發射模式。
 
 該火箭屬二級捆綁式火箭，由四個液體助推器、芯一級火箭、芯二級火箭、整流罩和逃逸塔（发射空間站则不包含）等幾個部分組成，是目前中國長度最長的火箭，安全性能達0.97。 [缩略图](https://zh.wikipedia.org/wiki/File:CZ-2F_launch_vehicle_model.JPG "fig:缩略图")

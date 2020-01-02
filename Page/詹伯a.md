@@ -1,3 +1,6 @@
+> 本文内容由[詹伯a](https://zh.wikipedia.org/wiki/詹伯a)转换而来。
+
+
 《**詹伯a**》（原題：**ジャンボーグA**）是1973年（昭和48年）1月17日至同年12月29日期間，於[NET電視網每](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19時30分 - 20時00分（10月6日起調至每[星期六](../Page/星期六.md "wikilink")19時00分 - 19時30分）播出，由圆谷制作所拍攝的電視特摄影集，全50集。
 
 ## 介绍

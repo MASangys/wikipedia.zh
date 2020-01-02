@@ -1,3 +1,6 @@
+> 本文内容由[Identicon](https://zh.wikipedia.org/wiki/Identicon)转换而来。
+
+
 [Identicon.svg](https://zh.wikipedia.org/wiki/File:Identicon.svg "fig:Identicon.svg") **Identicon**是一种基于用户信息的[哈希值生成图像的技术](https://zh.wikipedia.org/wiki/哈希函数 "wikilink")，通常使用用户登录时的IP地址作为输入值，并作为生成新建用户时的初始化头像用于保护用户隐私。其雏形是由九个方格构成的图案，现在第三方开发还有其他类型的生成模式。
 
 ## 起源

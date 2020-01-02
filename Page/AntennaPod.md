@@ -1,3 +1,6 @@
+> 本文内容由[AntennaPod](https://zh.wikipedia.org/wiki/AntennaPod)转换而来。
+
+
 | latest release date = \[1\] | frequently updated = 是 | programming language = Java | operating system = [Android](../Page/Android.md "wikilink") 2.3.3+ | language count = 33\[2\] | genre = Podcatcher | license = [MIT](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink") | source code = [GitHub](https://github.com/danieloeh/AntennaPod) | website = [antennapod.com](http://antennapod.com) }} **AntennaPod**是一个[自由](../Page/自由软件.md "wikilink")、[开源的](../Page/开放源代码.md "wikilink")[播客](../Page/播客.md "wikilink")[客户端](../Page/聚合器.md "wikilink")，适用于[Android](../Page/Android.md "wikilink")操作系统\[3\]\[4\]。
 
 ## 特性

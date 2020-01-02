@@ -1,3 +1,6 @@
+> 本文内容由[NTT DOCOMO](https://zh.wikipedia.org/wiki/NTT_DOCOMO)转换而来。
+
+
 **NTT DOCOMO**（）是[日本](../Page/日本.md "wikilink")一家[電信](https://zh.wikipedia.org/wiki/電信 "wikilink")[公司](../Page/公司.md "wikilink")。「DOCOMO」這個名字的意思是取“**Do** **Co**mmunication over the **Mo**bile network”（電信溝通無界限）中的首字，且其發音和[日語单词](https://zh.wikipedia.org/wiki/日語 "wikilink")（无所不在）相同。中文品牌名字譯為「都科摩」（中國北京）或「都客梦」（中國上海）。
 
 ## 概要

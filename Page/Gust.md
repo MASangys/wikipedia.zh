@@ -1,3 +1,6 @@
+> 本文内容由[Gust](https://zh.wikipedia.org/wiki/Gust)转换而来。
+
+
 **Gust株式會社**（，）是[日本](../Page/日本.md "wikilink")曾經存在的[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，總部位於[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[長野市](../Page/長野市.md "wikilink")，在2011年12月7日納入為[光荣特库摩](../Page/光荣特库摩.md "wikilink")的[子公司](../Page/子公司.md "wikilink")，2011年12月13日成為光荣特库摩的完全子公司；2014年10月1日解散、併入[光荣特库摩游戏](https://zh.wikipedia.org/wiki/光荣特库摩游戏 "wikilink")，並保留內部組織「Gust長野開發部」及其品牌。代表作品為電子角色扮演遊戲[鍊金術士系列](../Page/鍊金術士系列.md "wikilink")。
 
 ## 概要

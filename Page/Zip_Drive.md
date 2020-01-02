@@ -1,3 +1,6 @@
+> 本文内容由[Zip Drive](https://zh.wikipedia.org/wiki/Zip_Drive)转换而来。
+
+
 [Human-gnome-dev-zipdisk.svg](https://zh.wikipedia.org/wiki/File:Human-gnome-dev-zipdisk.svg "fig:Human-gnome-dev-zipdisk.svg")
 
 **zip Drive**（**極碟**）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[埃美加](https://zh.wikipedia.org/wiki/埃美加 "wikilink")（Iomega）[公司](../Page/公司.md "wikilink")所發明的一種高容量軟式磁碟機，使用具有較堅固外殼的特製高容量軟碟片，並利用部分[硬碟中使用的技術](https://zh.wikipedia.org/wiki/硬碟 "wikilink")，製成的[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[儲存裝置](../Page/儲存裝置.md "wikilink")。

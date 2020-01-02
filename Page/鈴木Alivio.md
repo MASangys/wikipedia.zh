@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Alivio](https://zh.wikipedia.org/wiki/鈴木Alivio)转换而来。
+
+
 **鈴木Alivio**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2014年起開發製造的[中型車](https://zh.wikipedia.org/wiki/中型車 "wikilink")，[中國](../Page/中國.md "wikilink")[長安鈴木公司取名為](https://zh.wikipedia.org/wiki/長安鈴木 "wikilink")**鈴木啟悅**，[印度](../Page/印度.md "wikilink")[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")則稱之為**馬魯蒂鈴木Ciaz**。
 
 ## 歷史與概要

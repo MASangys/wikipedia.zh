@@ -1,3 +1,6 @@
+> 本文内容由[模块:Infobox animanga moretime](https://zh.wikipedia.org/wiki/模块:Infobox_animanga_moretime)转换而来。
+
+
 local ia_more={} ia_more.main=function(frame)
 
 `   local params=frame.args`

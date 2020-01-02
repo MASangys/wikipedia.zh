@@ -1,3 +1,6 @@
+> 本文内容由[KTP科特卡](https://zh.wikipedia.org/wiki/KTP科特卡)转换而来。
+
+
 [Arto_Tolsa_-areena_1.jpg](https://zh.wikipedia.org/wiki/File:Arto_Tolsa_-areena_1.jpg "fig:Arto_Tolsa_-areena_1.jpg") **KTP足球俱乐部**（，中文通称**KTP科特卡**）是位于[芬兰](../Page/芬兰.md "wikilink")[科特卡的足球俱乐部](https://zh.wikipedia.org/wiki/科特卡 "wikilink")。俱乐部在2019赛季参加芬兰第二级别的[芬兰足球甲级联赛](https://zh.wikipedia.org/wiki/芬兰足球甲级联赛 "wikilink")。在2013年之前俱乐部的名字为**FC KooTeePee**（）。2013年12月俱乐部跟[科特卡工人球会](../Page/科特卡工人球会.md "wikilink")签署合并协议，并把名字从“FC KooTeePee”简化成“FC KTP”。其实科泰佩最初就是从科特卡工人球会分离独立出去的。俱乐部的主场是，其标志颜色是绿色和白色。
 
 ## 历史

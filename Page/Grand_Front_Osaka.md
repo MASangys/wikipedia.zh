@@ -1,3 +1,6 @@
+> 本文内容由[Grand Front Osaka](https://zh.wikipedia.org/wiki/Grand_Front_Osaka)转换而来。
+
+
 [Mercedes-Benz_Experience_at_Umeda_on_18th_October,_2014.JPG](https://zh.wikipedia.org/wiki/File:Mercedes-Benz_Experience_at_Umeda_on_18th_October,_2014.JPG "fig:Mercedes-Benz_Experience_at_Umeda_on_18th_October,_2014.JPG") [130831_Grand_Front_Osaka_Japan01s.jpg](https://zh.wikipedia.org/wiki/File:130831_Grand_Front_Osaka_Japan01s.jpg "fig:130831_Grand_Front_Osaka_Japan01s.jpg") **Grand Front Osaka**位於[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")北區大深町4番20號，毗鄰[大阪站](https://zh.wikipedia.org/wiki/大阪站 "wikilink")，是綜合商住發展計劃，設四棟建築，包括商場、寫字樓、[大阪洲際酒店及住宅](https://zh.wikipedia.org/wiki/大阪洲際酒店 "wikilink")，總投資額約億日元，於2013年4月26日開幕。前身為[梅田站](../Page/梅田站.md "wikilink")貨運場。
 
 ## 商場

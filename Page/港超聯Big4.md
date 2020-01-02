@@ -1,3 +1,6 @@
+> 本文内容由[港超聯Big4](https://zh.wikipedia.org/wiki/港超聯Big4)转换而来。
+
+
 **港超聯Big4**（**HK Big Four Clubs**）是四隊[香港超級聯賽傳統強隊的統稱](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")，包括[南華](https://zh.wikipedia.org/wiki/南華足球隊 "wikilink")、[傑志](../Page/傑志體育會.md "wikilink")、[東方龍獅和](https://zh.wikipedia.org/wiki/東方體育會足球隊 "wikilink")[香港飛馬](https://zh.wikipedia.org/wiki/香港飛馬足球會 "wikilink")，因它們在昔日港甲至近年港超聯投放巨額班費，經常佔據聯賽榜上游，壟斷香港頂級聯賽及盃賽錦標而得名。\[1\]\[2\]\[3\]
 
 但在2017-18球季因[南華退出港超聯](https://zh.wikipedia.org/wiki/南華足球隊 "wikilink")\[4\]，所以只餘東方龍獅、傑志及香港飛馬這三支實力分子角逐港超聯。

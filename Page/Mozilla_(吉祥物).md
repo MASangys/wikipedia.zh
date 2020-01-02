@@ -1,3 +1,6 @@
+> 本文内容由[Mozilla \(吉祥物\)](https://zh.wikipedia.org/wiki/Mozilla_\(吉祥物\))转换而来。
+
+
 [Mozilla_boxing.jpg](https://zh.wikipedia.org/wiki/File:Mozilla_boxing.jpg "fig:Mozilla_boxing.jpg") **Mozilla**是已解散的[網景](../Page/網景.md "wikilink")通訊公司与随后的[Mozilla基金会的吉祥物](../Page/Mozilla基金會.md "wikilink")。一開始，這個吉祥物有很多種形式，包括帶頭盔的[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")。但是最後選擇了類似[哥斯拉](../Page/哥斯拉.md "wikilink")的蜥蜴，因爲哥斯拉與Mozilla的名稱類似。由Dave Titus設計於1994年\[1\]。
 
 [Mozilla_Foundation_logo.svg](https://zh.wikipedia.org/wiki/File:Mozilla_Foundation_logo.svg "fig:Mozilla_Foundation_logo.svg") 早期幾年，該吉祥物成為網景官方網頁的一個特色。然而，為了突出其更「專業」的形象的需要（特別是對於企业客戶），吉祥物後來被-{zh-hans:移除; zh-tw:移除}-了，但在網景內部則繼續使用，通常繪製在給員工的[T恤](../Page/T恤.md "wikilink")上，或是作為網景在[山景城園區牆上的藝術裝飾](../Page/山景城_\(加利福尼亚州\).md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[IS-LM模型](https://zh.wikipedia.org/wiki/IS-LM模型)转换而来。
+
+
 **IS-LM模型**（）是一个總體經濟模型。它表現了貨幣市場的利率，與商品及服務市場的實質商品產出之間的關係。IS和LM曲线的交点是产品市场和货币市场两者同时达到均衡的标志。也被称为一般均衡。[新古典綜合學派用此來解释](https://zh.wikipedia.org/wiki/新古典綜合學派 "wikilink")[凯恩斯的](../Page/约翰·梅纳德·凯恩斯.md "wikilink")[宏观经济学](../Page/宏观经济学.md "wikilink")理论思想。凯恩斯认为政府行为可以有效地干预经济发展。
 
 IS-LM模型和他表述的基本理论散见于各种宏观经济学理论。[本·伯南克](../Page/本·伯南克.md "wikilink")曾这样评述：“不管他们把IS-LM模型叫什么，绝大多数宏观经济学家都在使用这类的模型来组织思考[总供给是如何受到其他因素的影响](https://zh.wikipedia.org/wiki/总供给 "wikilink")。” [islm.png](https://zh.wikipedia.org/wiki/File:islm.png "fig:islm.png")时，国民收入水平Y的增加导致了IS曲线右移，会带来高利息率和经济的增长。但事实上需要满足的其他条件还有很多。\]\]

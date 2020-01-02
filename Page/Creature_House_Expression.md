@@ -1,3 +1,6 @@
+> 本文内容由[Creature House Expression](https://zh.wikipedia.org/wiki/Creature_House_Expression)转换而来。
+
+
 **Creature House Expression** 是一個[矢量繪圖軟件](https://zh.wikipedia.org/wiki/矢量繪圖 "wikilink")，原本是由一間名為 Creature House 的[香港](../Page/香港.md "wikilink")公司開發，後來這間公司輾轉易手，賣給 Ray Dream，Ray Dream 後來跟 Fractal Design 合併，及後 Fractal Design 又再跟 MetaTools 合併而成為 MetaCreations。接下來 MetaCreations 將其下的軟件部門分拆出售，Expression 軟件的版權又重回它的創辦人 徐迢之(Alex Hsu) 及 Creature House 公司手中。
 
 此後 Creature House 分別推出 Expression 2.0 及 3.0 版。到了 2003 年 9 月，消息傳出 [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") 收購了 Creature House，並把旗下的 Expression 矢量繪圖與 Living Cels 動畫技術收歸未來的 [Sparkle](https://zh.wikipedia.org/wiki/Sparkle "wikilink") 架構之中。

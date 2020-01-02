@@ -1,3 +1,6 @@
+> 本文内容由[Go! Princess 光之美少女](https://zh.wikipedia.org/wiki/Go!_Princess_光之美少女)转换而来。
+
+
 《**GO\! 光之美少女公主**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品，「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十二作，屬第十代光之美少女。2015年2月1日在[朝日電視台](../Page/朝日電視台.md "wikilink")和[朝日放送](../Page/朝日放送.md "wikilink")播放。
 
 有別於系列傳統的稱號「傳說中的戰士」，本作將光之美少女們稱為「傳說中的光之美少女公主」（）\[1\]

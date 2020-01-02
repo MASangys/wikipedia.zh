@@ -1,3 +1,6 @@
+> 本文内容由[Terry山本](https://zh.wikipedia.org/wiki/Terry山本)转换而来。
+
+
 **Terry山本**（，），[日本](../Page/日本.md "wikilink")男性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")。他的作品主要在[小學館](../Page/小學館.md "wikilink")的《[Big Comic](../Page/Big_Comic.md "wikilink")》系列雜誌發表，代表作是曾改編電視動畫的《[家有賤狗](../Page/家有賤狗.md "wikilink")》和同名電視劇的《[安藤奈津](../Page/安藤奈津.md "wikilink")》（原作：[西祐治](../Page/西祐治.md "wikilink")）。
 
 ## 來歷

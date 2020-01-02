@@ -1,3 +1,6 @@
+> 本文内容由[人類嗜T淋巴球病毒一型](https://zh.wikipedia.org/wiki/人類嗜T淋巴球病毒一型)转换而来。
+
+
 **人類嗜T淋巴球病毒一型**(Human T-lymphotropic virus 1,HTLV-1)是一種感染後可導致[血癌或其他](https://zh.wikipedia.org/wiki/血癌 "wikilink")[轉移癌的](https://zh.wikipedia.org/wiki/轉移癌 "wikilink")[病毒](../Page/病毒.md "wikilink")，由[輸血](../Page/輸血.md "wikilink")、[針頭](https://zh.wikipedia.org/wiki/針頭 "wikilink")、[性行為](https://zh.wikipedia.org/wiki/性行為 "wikilink")、[母子傳染](https://zh.wikipedia.org/wiki/母子傳染 "wikilink")。
 
 該病毒在[日本](../Page/日本.md "wikilink")[九州南部的](../Page/九州_\(日本\).md "wikilink")[鹿兒島縣](https://zh.wikipedia.org/wiki/鹿兒島縣 "wikilink")、[宮崎縣](../Page/宮崎縣.md "wikilink")、[長崎縣以及](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[沖繩群眾血清阳性率較高](https://zh.wikipedia.org/wiki/沖繩 "wikilink")，最高的鹿兒島縣平均約為2%，某些村落曾高达37％，與另一高感染率地區[加勒比海](../Page/加勒比海.md "wikilink")（2％～6％）相近，遠高於[巴西](../Page/巴西.md "wikilink")（0.08％～1.8％）及[美国](../Page/美国.md "wikilink")（0.02％）等\[1\]目前日本約有108萬人感染，但多數無症狀所以受染者本人也不知。感染後發病率約為3%～5%。

@@ -1,3 +1,6 @@
+> 本文内容由[Escapade \(歌曲\)](https://zh.wikipedia.org/wiki/Escapade_\(歌曲\))转换而来。
+
+
 《**掙脫束縛**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Escapade**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")1990年1月發行的單曲，它曾獲得告示牌單曲榜、節奏藍調榜以及[舞曲榜三榜的榜首](https://zh.wikipedia.org/wiki/告示牌舞曲排行榜 "wikilink")，成為珍娜·傑克森第3首全美冠軍單曲\[1\]\[2\]\[3\]。
 
 ## 歌曲介紹

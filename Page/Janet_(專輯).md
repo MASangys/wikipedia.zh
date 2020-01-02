@@ -1,3 +1,6 @@
+> 本文内容由[Janet \(專輯\)](https://zh.wikipedia.org/wiki/Janet_\(專輯\))转换而来。
+
+
 《**珍娜**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**janet.**）是美國黑人女歌手[珍娜·傑克森第五張個人](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，1993年5月18日由美國[維京唱片](../Page/維京唱片.md "wikilink")發行。《珍娜》是珍娜·傑克森跳槽至維京旗下所發行的首張專輯，《珍娜》曾獲得告示牌流行專輯榜以及節奏藍調專輯榜雙料冠軍，這張專輯產生兩首冠軍單曲，其中〈[愛就是這樣](../Page/愛就是這樣_\(珍納·積遜歌曲\).md "wikilink")〉獲得第36屆[葛萊美最佳節奏藍調歌曲獎](https://zh.wikipedia.org/wiki/葛萊美 "wikilink")\[1\]\[2\]\[3\]，《珍娜》在美國地區銷售數字突破六白金。
 
 ## 專輯介紹

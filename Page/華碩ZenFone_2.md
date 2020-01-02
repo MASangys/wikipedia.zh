@@ -1,3 +1,6 @@
+> 本文内容由[華碩ZenFone 2](https://zh.wikipedia.org/wiki/華碩ZenFone_2)转换而来。
+
+
 **ASUS ZenFone 2**是[華碩](../Page/華碩.md "wikilink")於2015年1月6日在[CES展](https://zh.wikipedia.org/wiki/CES "wikilink")\[1\]發表的中階[智慧型手機機種](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載[Android 5.0](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")、[64位元](../Page/64位元.md "wikilink") 2.3Ghz[四核心處理器](https://zh.wikipedia.org/wiki/四核心 "wikilink")，是[ZenFone系列中首次搭載](https://zh.wikipedia.org/wiki/ASUS_ZenFone "wikilink")[Full HD螢幕的手機](../Page/Full_HD.md "wikilink")，也是全球首款搭載4GB [RAM的智慧型手機](https://zh.wikipedia.org/wiki/RAM "wikilink")，代言人為[蕭敬騰](../Page/蕭敬騰.md "wikilink")。\[2\]
 
 ## 主要機種詳細規格

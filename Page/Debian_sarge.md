@@ -1,3 +1,6 @@
+> 本文内容由[Debian sarge](https://zh.wikipedia.org/wiki/Debian_sarge)转换而来。
+
+
 **Debian 3.1**又称为Debian sarge，是Debian的稳定版，发行于2005年6月6日。里面的软件包基本不再变化，只做安全更新。
 
 ## 新特性\[1\]

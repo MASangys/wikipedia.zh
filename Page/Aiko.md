@@ -1,3 +1,6 @@
+> 本文内容由[Aiko](https://zh.wikipedia.org/wiki/Aiko)转换而来。
+
+
 **aiko**（）是[日本](../Page/日本.md "wikilink")女性[創作歌手](../Page/創作歌手.md "wikilink")，出身於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[吹田市](../Page/吹田市.md "wikilink")。作曲及作詞皆精通，其中以作詞更為優秀。擅長細膩的情歌以及女性心理的描寫。代表作有《[煙火](../Page/煙火_\(aiko單曲\).md "wikilink")》、《[獨角仙](../Page/獨角仙_\(單曲\).md "wikilink")》、《[亮晶晶](../Page/亮晶晶_\(單曲\).md "wikilink")》等。
 
 aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon](../Page/Oricon.md "wikilink")針對20,000個訂戶所作的最受歡迎歌手調查結果顯示，aiko在2005年及2006年皆高居榜首。

@@ -1,3 +1,6 @@
+> 本文内容由[Web服务](https://zh.wikipedia.org/wiki/Web服务)转换而来。
+
+
 [webservices.png](https://zh.wikipedia.org/wiki/File:webservices.png "fig:webservices.png")**Web服务**是一种[服務導向架構的技术](https://zh.wikipedia.org/wiki/服務導向架構 "wikilink")，通过标准的[Web协议提供服务](../Page/网络传输协议.md "wikilink")，目的是保证不同平台的应用服务可以互操作。
 
 根据[W3C的定义](https://zh.wikipedia.org/wiki/W3C "wikilink")，**Web服务**（Web service）应当是一个[软件](../Page/软件.md "wikilink")系统，用以支持[网络间不同机器的互动操作](https://zh.wikipedia.org/wiki/网络 "wikilink")。网络服务通常是许多[应用程序接口](../Page/应用程序接口.md "wikilink")（[API](https://zh.wikipedia.org/wiki/API "wikilink")）所组成的，它们透过网络，例如国际互联网（[Internet](https://zh.wikipedia.org/wiki/Internet "wikilink")）的远程[服务器](../Page/服务器.md "wikilink")端，执行客户所提交服务的请求。

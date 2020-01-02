@@ -1,3 +1,6 @@
+> 本文内容由[3DO](https://zh.wikipedia.org/wiki/3DO)转换而来。
+
+
 [3D0_game_console.jpg](https://zh.wikipedia.org/wiki/File:3D0_game_console.jpg "fig:3D0_game_console.jpg")製造的3DO游戏机\]\]
 
 **3DO互动多人游戏机**（簡稱3DO遊戲機，3DO，）是[3DO公司](../Page/3DO公司.md "wikilink")於1993年發行的一款[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")。3DO不仅是该公司制作的一个游戏平台，它也是一系列可以授权给第三方的规格。3DO由企业家、艺电创始人[特里普·霍金斯](../Page/特里普·霍金斯.md "wikilink")构思，最初由New Technologies集团的Dave Needle和R. J. Mical设计。[松下公司于](https://zh.wikipedia.org/wiki/松下公司 "wikilink")1993年制作了第一批样品，之后由[三洋和GoldStar制造了硬件并于](https://zh.wikipedia.org/wiki/三洋 "wikilink")1994年发行。

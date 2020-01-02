@@ -1,3 +1,6 @@
+> 本文内容由[東網 Pop U秀](https://zh.wikipedia.org/wiki/東網_Pop_U秀)转换而来。
+
+
 《**東網 Pop U秀**》[東網電視](../Page/東網電視.md "wikilink")台灣台推出全新網路娛樂節目，2014年8月11日開播，逄周五凌晨於播出。由台灣元氣女團[Popu Lady主持](../Page/Popu_Lady.md "wikilink")，親自互爆團員間的秘密外，更會訪問藝人歌手及玩真人騷等，務求把團員及藝人最真實一面毫無保留呈現！\[1\]
 
 節目還得到不少圈內明星推薦，包括[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[許瑋甯](../Page/許瑋甯.md "wikilink")、[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")、[炎亞綸](../Page/炎亞綸.md "wikilink")、[辰亦儒](../Page/辰亦儒.md "wikilink")等等。\[2\]\[3\]\[4\]\[5\]\[6\]

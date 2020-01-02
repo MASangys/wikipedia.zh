@@ -1,3 +1,6 @@
+> 本文内容由[梅赛德斯-奔驰S级](https://zh.wikipedia.org/wiki/梅赛德斯-奔驰S级)转换而来。
+
+
 **梅赛德斯-賓士S级**（[德语](../Page/德语.md "wikilink")：Mercedes-Benz S-Class）是[梅赛德斯-賓士旗下主力的頂級](https://zh.wikipedia.org/wiki/梅赛德斯-賓士 "wikilink")[轎車系列](https://zh.wikipedia.org/wiki/轎車 "wikilink")，於1954年首度推出，定位於大型豪華車型。其主要竞争对手为[BMW 7系列](../Page/BMW_7系列.md "wikilink")（1977年上市）、[Audi A8](https://zh.wikipedia.org/wiki/Audi_A8 "wikilink") （2002年上市）、凌志LS、勞斯萊斯古斯特、賓利Mulsanne、本田里程、豐田皇冠和捷豹XJ等。
 
 S系列在過去逾半個世紀是賓士旗下的旗艦車型，許多賓士最先進的技術都是率先被應用於S系列內，也是世界最暢銷之豪華轎車。在大多數人眼中，S系列都被視為是身份、地位的象徵，包括很多對汽車不熟悉的人。在中國更有**大奔**的綽號，以示有別於[A系或](https://zh.wikipedia.org/wiki/梅赛德斯-賓士A级 "wikilink")[B系等同門的小巧](https://zh.wikipedia.org/wiki/梅赛德斯-賓士B级 "wikilink")[大眾車型](https://zh.wikipedia.org/wiki/大眾車 "wikilink")。

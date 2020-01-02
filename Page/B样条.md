@@ -1,3 +1,6 @@
+> 本文内容由[B样条](https://zh.wikipedia.org/wiki/B样条)转换而来。
+
+
 在[数学](../Page/数学.md "wikilink")的子学科[数值分析裡](https://zh.wikipedia.org/wiki/数值分析 "wikilink")，**B-样条**是[样条曲线一种特殊的表示形式](https://zh.wikipedia.org/wiki/样条曲线 "wikilink")。它是B-样条基曲线的[线性组合](../Page/线性组合.md "wikilink")。B-样条是[貝茲曲線](../Page/貝茲曲線.md "wikilink")的一种一般化，可以进一步推广为[非均匀有理B样条](../Page/非均匀有理B样条.md "wikilink")（NURBS），使得我们能给更多一般的几何体建造精确的模型。
 
 [De Boor算法是一个](https://zh.wikipedia.org/wiki/De_Boor算法 "wikilink")[数值上稳定的计算B样条的方法](../Page/数值稳定性.md "wikilink")。

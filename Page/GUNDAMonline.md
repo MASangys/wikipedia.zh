@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAMonline](https://zh.wikipedia.org/wiki/GUNDAMonline)转换而来。
+
+
 **GUNDAMonline**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：<span lang="ja">ガンダムネットワークオペレーション</span>，Gundam Network Operation），是[日本](../Page/日本.md "wikilink")公司[萬代](../Page/萬代.md "wikilink")公司發售的以[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")的[一年战争](../Page/一年战争.md "wikilink")為遊戲舞台的線上[戰略遊戲](https://zh.wikipedia.org/wiki/戰略遊戲 "wikilink")，略稱為**GNO**。於2002年4月開始營運。
 
 ## 概要

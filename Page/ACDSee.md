@@ -1,3 +1,6 @@
+> 本文内容由[ACDSee](https://zh.wikipedia.org/wiki/ACDSee)转换而来。
+
+
 **ACDSee**是一個[共享軟件](https://zh.wikipedia.org/wiki/共享軟件 "wikilink")，由*[ACD Systems](https://zh.wikipedia.org/wiki/ACD_Systems "wikilink")*开发的一款[图像浏览器](https://zh.wikipedia.org/wiki/图像浏览器 "wikilink")。
 
 ## 歷史

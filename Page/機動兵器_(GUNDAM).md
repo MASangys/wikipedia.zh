@@ -1,3 +1,6 @@
+> 本文内容由[機動兵器 \(GUNDAM\)](https://zh.wikipedia.org/wiki/機動兵器_\(GUNDAM\))转换而来。
+
+
 **機動兵器**是GUNDAM世界觀當中的武器系統總稱。
 
 ## 機動兵器的種類

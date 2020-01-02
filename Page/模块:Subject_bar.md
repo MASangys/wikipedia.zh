@@ -1,3 +1,6 @@
+> 本文内容由[模块:Subject bar](https://zh.wikipedia.org/wiki/模块:Subject_bar)转换而来。
+
+
 local getPortalImage = require('Module:Portal').image
 
 local p = {}

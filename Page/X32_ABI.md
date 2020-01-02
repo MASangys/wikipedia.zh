@@ -1,3 +1,6 @@
+> 本文内容由[X32 ABI](https://zh.wikipedia.org/wiki/X32_ABI)转换而来。
+
+
 **x32 ABI**（）是一种[ABI及](../Page/应用二进制接口.md "wikilink")[Linux内核接口之一](https://zh.wikipedia.org/wiki/Linux内核接口 "wikilink")。它允许程序得到[x86-64的优点](https://zh.wikipedia.org/wiki/x86-64 "wikilink")（较大的[CPU寄存器号码](../Page/寄存器.md "wikilink")，更佳的浮点性能，更快的[地址无关代码](../Page/地址无关代码.md "wikilink")[共享库](https://zh.wikipedia.org/wiki/函式庫#共享库 "wikilink")，通过寄存器传递函数参数，更快的[系统调用指令](https://zh.wikipedia.org/wiki/系统调用 "wikilink")），而使用32位[指针](../Page/指標_\(電腦科學\).md "wikilink")，从而避免了对64位指针的开销。\[1\]\[2\]\[3\]
 
 ## 细节

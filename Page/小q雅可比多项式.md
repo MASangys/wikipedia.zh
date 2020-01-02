@@ -1,3 +1,6 @@
+> 本文内容由[小q雅可比多项式](https://zh.wikipedia.org/wiki/小q雅可比多项式)转换而来。
+
+
 **小q-雅可比多项式**(Little q-Jacobi polynomials)是一个以[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的正交多项式，定义如下\[1\].
 
 \[\displaystyle  p_n(x;a,b;q) = {}_2\phi_1(q^{-n},abq^{n+1};aq;q,xq)\]

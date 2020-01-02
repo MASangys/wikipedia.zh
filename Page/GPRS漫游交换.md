@@ -1,3 +1,6 @@
+> 本文内容由[GPRS漫游交换](https://zh.wikipedia.org/wiki/GPRS漫游交换)转换而来。
+
+
 **GPRS漫游交换**（GPRS Roaming Exchange，简称：GRX）为来自[漫游用户的](https://zh.wikipedia.org/wiki/漫游 "wikilink") [GPRS](../Page/GPRS.md "wikilink") 连接扮演枢纽的角色（hub），这样就不再需要在各个 GPRS 服务提供商之间有专用链路（dedicated link）存在。它是为了给运营商之间的网间互联（interconnect networks）提供一个更为高效的方法而开发，并且在向 [3G](../Page/3G.md "wikilink") 的过渡中扮演了很大一部分角色。
 
 ## 开发

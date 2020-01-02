@@ -1,3 +1,6 @@
+> 本文内容由[菲利普·J·弗莱](https://zh.wikipedia.org/wiki/菲利普·J·弗莱)转换而来。
+
+
 **菲利普·J·弗莱**（****），另名**弗莱**，是一个[动画情景喜剧](https://zh.wikipedia.org/wiki/动画情景喜剧 "wikilink")《[飞出个未来](https://zh.wikipedia.org/wiki/飞出个未来 "wikilink")》的[虚构人物](https://zh.wikipedia.org/wiki/虚构人物 "wikilink")[主角](https://zh.wikipedia.org/wiki/主角 "wikilink")。他由声音听起来像25歲的[比利·韋斯特配音](https://zh.wikipedia.org/wiki/比利·韋斯特 "wikilink")。\[1\]\[2\]他是一个[懒惰](https://zh.wikipedia.org/wiki/懒惰 "wikilink")[送外卖从](https://zh.wikipedia.org/wiki/送外卖 "wikilink")20世纪无意间被[冷冻技術槽冷冻起來](https://zh.wikipedia.org/wiki/冷冻技術 "wikilink")，並在31世纪时醒來成为一个星际快递公司的快递。
 
 ## 概述

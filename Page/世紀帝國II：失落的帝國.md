@@ -1,3 +1,6 @@
+> 本文内容由[世紀帝國II：失落的帝國](https://zh.wikipedia.org/wiki/世紀帝國II：失落的帝國)转换而来。
+
+
 是1999年[即時戰略遊戲](https://zh.wikipedia.org/wiki/即時戰略遊戲 "wikilink")《[世紀帝國II：帝王世紀](../Page/世紀帝國II：帝王世紀.md "wikilink")》的第二個[擴充資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，距第一個擴充資料片《[世紀帝國II：征服者入侵](../Page/世紀帝國II：征服者入侵.md "wikilink")》已超過十年\[1\]。此資料片由非官方模組《Forgotten Empires》發展而來。\[2\]。現由「Forgotten Empires」團隊持續開發，[溫哥華](../Page/溫哥華.md "wikilink")的Skybox Labs提供支援。《失落的帝國》中引入五個新文明，分別為：[義大利人](../Page/義大利人.md "wikilink")、[印度人](https://zh.wikipedia.org/wiki/印度人 "wikilink")、[斯拉夫人](https://zh.wikipedia.org/wiki/斯拉夫人 "wikilink")、[馬札爾人](https://zh.wikipedia.org/wiki/馬札爾人 "wikilink")、[印加人](https://zh.wikipedia.org/wiki/印加人 "wikilink")、七場新戰役、新單位、新科技、新遊戲模式及新地圖，並改善了[人工智能](../Page/人工智能.md "wikilink")和遊戲細節。開發團隊並於2015年秋季推出第三個官方擴充資料片─《[非洲王國](https://zh.wikipedia.org/wiki/世紀帝國II：非洲王國 "wikilink")》（The African Kingdoms），於2016年年底推出第四個官方擴充資料片─《[拉者崛起](../Page/世紀帝國II：拉者崛起.md "wikilink")》。
 
 ## 遊戲玩法

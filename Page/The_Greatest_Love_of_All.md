@@ -1,3 +1,6 @@
+> 本文内容由[The Greatest Love of All](https://zh.wikipedia.org/wiki/The_Greatest_Love_of_All)转换而来。
+
+
 《**The Greatest Love of All**》是一首由作曲、作詞的歌曲。這首歌在1977年被美國歌手、吉他手[喬治·班森](../Page/喬治·班森.md "wikilink")首唱，這首歌成為了一首熱門歌曲，在上獲得了第二名的成績，也是發行的第一首登上該榜單前十名的歌曲。1981年，[莉亞·莎隆嘉](../Page/莉亞·莎隆嘉.md "wikilink")在她的專輯《Tomorrow: Little Miss Lea Salonga, Vol. 2》中翻唱了這首歌。四年後，這首歌因為[惠妮·休斯頓的翻唱而變得更加廣為人知](../Page/惠特妮·休斯顿.md "wikilink")，她的版本在1986年在澳大利亞、加拿大、美國的榜單上奪冠，也在上獲得了第一名的成績。
 
 ## 喬治·班森版本

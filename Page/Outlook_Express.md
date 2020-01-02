@@ -1,3 +1,6 @@
+> 本文内容由[Outlook Express](https://zh.wikipedia.org/wiki/Outlook_Express)转换而来。
+
+
 **Outlook Express**的前身为曾内置于[Internet Explorer](../Page/Internet_Explorer.md "wikilink") [3.0](https://zh.wikipedia.org/wiki/IE3 "wikilink") - [6.0的](https://zh.wikipedia.org/wiki/IE6 "wikilink")**Microsoft Internet Mail and News**，是一个已停止更新的电子邮件和Usenet客户端。它被内置于从Windows 98到Windows Server 2003在内的多个Windows版本，此外还可以运行于[Windows 3.x](../Page/Windows_3.x.md "wikilink")、[Windows NT 3.51](https://zh.wikipedia.org/wiki/Windows_NT_3.51 "wikilink")、[Windows 95](../Page/Windows_95.md "wikilink")、[Mac System 7](https://zh.wikipedia.org/wiki/Mac_System_7 "wikilink")、[Mac OS 8](../Page/Mac_OS_8.md "wikilink")、[Mac OS 9](../Page/Mac_OS_9.md "wikilink")。在[Windows Vista中](../Page/Windows_Vista.md "wikilink")，Outlook Express已被[Windows Live Mail取代](../Page/Windows_Live_Mail.md "wikilink")。
 
 Office软件内的**[Outlook](https://zh.wikipedia.org/wiki/Outlook "wikilink")**与**Outlook Express**是两个完全不同的软件平台，他们之间没有共用代码，但是这两个软件的设计理念是共通的。\[1\]他们之间如此相似的名字使得很多人以为**Outlook Express**是**Outlook**软件的「精简版」。

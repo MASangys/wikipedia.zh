@@ -1,3 +1,6 @@
+> 本文内容由[Flipkart](https://zh.wikipedia.org/wiki/Flipkart)转换而来。
+
+
 **Flipkart**是一家註冊于新加坡、總部位於[印度](../Page/印度.md "wikilink")[班加羅爾](../Page/班加羅爾.md "wikilink")的[電子商務公司](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，成立於2007年。除去銷售圖書之外，它也生產自己的品牌“DigiFlip”筆記本電腦、USB等。\[1\]\[2\]\[3\]
 
 ## 歷史

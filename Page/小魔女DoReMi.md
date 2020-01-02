@@ -1,3 +1,6 @@
+> 本文内容由[小魔女DoReMi](https://zh.wikipedia.org/wiki/小魔女DoReMi)转换而来。
+
+
 《**小魔女DoReMi**》（，[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")：****，官方[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：****）是一[魔法少女](../Page/魔法少女.md "wikilink")[動畫的系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由[東映動畫製作](../Page/东映动画.md "wikilink")。四部小魔女DoReMi[動畫在](https://zh.wikipedia.org/wiki/動畫 "wikilink")[日本](../Page/日本.md "wikilink")的播映時間，由1999年2月開始，直至2003年1月結束。\[1\]\[2\]\[3\]\[4\]台灣大約在2000年左右由[台灣電視台播映](https://zh.wikipedia.org/wiki/台灣電視台 "wikilink")。是繼《[美少女戰士](https://zh.wikipedia.org/wiki/美少女戰士 "wikilink")》之後，最受日本學生歡迎的少女動畫系列之一。
 
 ## 概要

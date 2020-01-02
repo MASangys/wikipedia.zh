@@ -1,3 +1,6 @@
+> 本文内容由[機動戰士GUNDAM 宇宙的死亡女神](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_宇宙的死亡女神)转换而来。
+
+
 《**機動戰士GUNDAM 宇宙的死亡女神**》（）是由[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[機動戰士GUNDAM 第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")》監督[飯田馬之介於](https://zh.wikipedia.org/wiki/飯田馬之介 "wikilink")2002年起在[GUNDAM ACE所發表的](../Page/GUNDAM_ACE.md "wikilink")[鋼彈漫畫系列作品](https://zh.wikipedia.org/wiki/高達系列作品 "wikilink")，單行本全4冊。
 
 ## 故事背景

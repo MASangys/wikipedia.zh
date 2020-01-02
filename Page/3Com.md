@@ -1,3 +1,6 @@
+> 本文内容由[3Com](https://zh.wikipedia.org/wiki/3Com)转换而来。
+
+
 **3Com**公司是一個全球的企業和小型企業聯網解決方案供應商，提供[網絡交換機](https://zh.wikipedia.org/wiki/網絡交換機 "wikilink")，[路由器](../Page/路由器.md "wikilink")，[無線接取器](https://zh.wikipedia.org/wiki/無線接取器 "wikilink")，IP語音系統和[入侵預防系統等產品](https://zh.wikipedia.org/wiki/入侵預防系統 "wikilink")。3Com由[羅伯特·梅特卡夫博士於](https://zh.wikipedia.org/wiki/羅伯特·梅特卡夫 "wikilink")1979年創立。目前公司總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[麻薩諸塞州](../Page/麻薩諸塞州.md "wikilink")[馬爾堡](https://zh.wikipedia.org/wiki/馬爾堡 "wikilink")。3Com名稱取自[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")（）、[通訊](https://zh.wikipedia.org/wiki/通訊 "wikilink")（）與[相容性](https://zh.wikipedia.org/wiki/相容性 "wikilink")（）。
 
 [3Com_3c905-tx_NIC.jpg](https://zh.wikipedia.org/wiki/File:3Com_3c905-tx_NIC.jpg "fig:3Com_3c905-tx_NIC.jpg")（[PCI介面](https://zh.wikipedia.org/wiki/PCI "wikilink")）\]\]

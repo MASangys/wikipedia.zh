@@ -1,3 +1,6 @@
+> 本文内容由[SKE48 偶像的眼淚](https://zh.wikipedia.org/wiki/SKE48_偶像的眼淚)转换而来。
+
+
 **SKE48 偶像的眼淚**（)，是一部於2015年2月27日上映、以日本女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[SKE48](../Page/SKE48.md "wikilink")為主角的[紀錄電影](https://zh.wikipedia.org/wiki/紀錄電影 "wikilink")。此片是一系列以SKE48為主題的紀錄電影系列之首作，由前NHK製作人執導，並由[窪田康志](../Page/窪田康志.md "wikilink")擔任执行制作人。
 
 電影宣傳標語為「疾走追夢的少女們六年來的故事」（）

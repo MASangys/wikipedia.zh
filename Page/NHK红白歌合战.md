@@ -1,3 +1,6 @@
+> 本文内容由[NHK红白歌合战](https://zh.wikipedia.org/wiki/NHK红白歌合战)转换而来。
+
+
 | 格式 = [电视节目](../Page/电视节目.md "wikilink")、 | 主持 = 詳見當屆
 紅組主持人
 白組主持人 | 聯合主持 = 詳見當屆

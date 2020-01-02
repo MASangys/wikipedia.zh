@@ -1,3 +1,6 @@
+> 本文内容由[ILife](https://zh.wikipedia.org/wiki/ILife)转换而来。
+
+
 **iLife**是一款由[苹果公司为](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[OS X编写的](https://zh.wikipedia.org/wiki/OS_X "wikilink")[应用软件套装产品](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，可以创作、管理、观看和操作[数码内容](https://zh.wikipedia.org/wiki/数码 "wikilink")。从iLife '11开始，iLife仅包括了3个部件：**[iPhoto](https://zh.wikipedia.org/wiki/iPhoto "wikilink")**、**[iMovie](https://zh.wikipedia.org/wiki/iMovie "wikilink")**和**[GarageBand](https://zh.wikipedia.org/wiki/GarageBand "wikilink")**。此应用程序套装随所有购买的苹果[Macintosh电脑附送](https://zh.wikipedia.org/wiki/Macintosh "wikilink"),但目前iLife'11已不适用于单用户或家庭装盒。
 
 ## 起源

@@ -1,3 +1,6 @@
+> 本文内容由[IPTV](https://zh.wikipedia.org/wiki/IPTV)转换而来。
+
+
 [IPTV-Countries2015.svg](https://zh.wikipedia.org/wiki/File:IPTV-Countries2015.svg "fig:IPTV-Countries2015.svg")
 
 **網路協定電視**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Internet Protocol Television**，[縮寫](../Page/縮寫.md "wikilink")：**IPTV**）是[寬頻電視的一種](https://zh.wikipedia.org/wiki/寬頻電視 "wikilink")。IPTV是用[寬頻網絡作為介質傳送電視信息的一種系統](https://zh.wikipedia.org/wiki/寬頻網絡 "wikilink")，將廣播節目透過寬頻上的[網際協議](https://zh.wikipedia.org/wiki/網際協議 "wikilink")（）向訂戶傳遞[數碼電視服務](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")。由於需要使用[網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，IPTV服務供應商經常會一併提供連接[互聯網及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[IP電話等相關服務](https://zh.wikipedia.org/wiki/IP電話 "wikilink")，也可稱為「三重服務」或「三合一服務」（）。IPTV是數位電視的一種，因此普通電視機需要配合相應的[机顶盒接收頻道](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")，也因此供應商通常會向客戶同時提供[隨選視訊](../Page/隨選視訊.md "wikilink")服務。雖透過寬頻網路及網際協議，但IPTV不一定透過[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，為傳輸品質會通过[局域网](../Page/局域网.md "wikilink")傳輸。

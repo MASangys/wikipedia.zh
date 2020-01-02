@@ -1,3 +1,6 @@
+> 本文内容由[藍寶堅尼Estoque](https://zh.wikipedia.org/wiki/藍寶堅尼Estoque)转换而来。
+
+
 **藍寶堅尼Estoque**（）是[藍寶堅尼生產的一輛](https://zh.wikipedia.org/wiki/藍寶堅尼 "wikilink")[概念車](../Page/概念車.md "wikilink")，與當前藍寶堅尼生產的中置引擎雙人座跑車有所不同，為一輛四門[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。
 
 Estoque於2008年[巴黎車展](../Page/巴黎車展.md "wikilink")首次亮相。\[1\]\[2\]\[3\]Estoque是繼[LM002多用途車後的首輛藍寶堅尼前置引擎車](https://zh.wikipedia.org/wiki/藍寶堅尼LM002 "wikilink")。經介紹，它是「一個價值23萬美元四門轎車的概念」。\[4\]儘管一直有著輿論猜測Estoque的引擎可能會改由V12、V8，甚或是藍寶堅尼品牌總監曼弗雷德·菲茨杰拉德（Manfred Fitzgerald）所提議的混合動力或渦輪增壓柴油引擎，但它當前的配置仍是5.2升V10引擎。\[5\]

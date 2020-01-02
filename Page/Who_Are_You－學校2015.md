@@ -1,3 +1,6 @@
+> 本文内容由[Who Are You－學校2015](https://zh.wikipedia.org/wiki/Who_Are_You－學校2015)转换而来。
+
+
 《**Who Are You－學校2015**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS於](../Page/韓國放送公社.md "wikilink")2015年4月27日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由[金所泫](../Page/金所泫.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")及[南柱赫主演](https://zh.wikipedia.org/wiki/南柱赫 "wikilink") \[1\]\[2\]，此劇講述雙胞胎姊妹錯置的命運，李恩菲（[金所泫](../Page/金所泫.md "wikilink") 飾）因同學惡意霸凌選擇自殺而喪失記憶後，意外繼承雙胞胎姐姐的身份，進而展開尋找真相的校園故事。此劇是KBS《學校》系列第6部作品。
 
 ## 演員陣容

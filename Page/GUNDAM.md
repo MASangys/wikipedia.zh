@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM](https://zh.wikipedia.org/wiki/GUNDAM)转换而来。
+
+
 **GUNDAM**（，）通常是指：
 
   - [富野由悠季](../Page/富野由悠季.md "wikilink")創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[機器人動畫](../Page/機器人動畫.md "wikilink")：[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（初代），亦稱0079

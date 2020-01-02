@@ -1,3 +1,6 @@
+> 本文内容由[HOK \(公司\)](https://zh.wikipedia.org/wiki/HOK_\(公司\))转换而来。
+
+
 **HOK**（原稱：**Hellmuth, Obata + Kassabaum**）是一家總部位於美國[密蘇里州](../Page/密蘇里州.md "wikilink")[聖路易斯的建築](https://zh.wikipedia.org/wiki/聖路易斯_\(密蘇里州\) "wikilink")、工程和設計公司。它是美國最大的建築-工程公司\[1\]及第三大室內設計公司\[2\]。
 
 HOK於1955年成立於聖路易斯，原名“Hellmuth, Obata + Kassabaum”為三位創始人[喬治·赫爾穆特](https://zh.wikipedia.org/wiki/喬治·赫爾穆特 "wikilink")、[喬·小圃和](https://zh.wikipedia.org/wiki/喬·小圃 "wikilink")[喬治·卡塞鮑姆的姓](https://zh.wikipedia.org/wiki/喬治·卡塞鮑姆 "wikilink")，他們三人都畢業於[聖路易斯華盛頓大學](https://zh.wikipedia.org/wiki/聖路易斯華盛頓大學 "wikilink")。他們設計的第一座建築位於聖路易斯郊區，後來公司業務逐漸擴大，成為了一家國際化的建築公司，到2007年時其國際項目占年收入的40%\[3\]。

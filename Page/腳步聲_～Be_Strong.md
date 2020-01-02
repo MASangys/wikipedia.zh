@@ -1,3 +1,6 @@
+> 本文内容由[腳步聲 ～Be Strong](https://zh.wikipedia.org/wiki/腳步聲_～Be_Strong)转换而来。
+
+
 《**腳步聲 〜Be Strong**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[Mr.Children](../Page/Mr.Children.md "wikilink")的第35張單曲，於2014年11月19日發行。
 
 ## 簡介

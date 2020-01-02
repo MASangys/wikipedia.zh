@@ -1,3 +1,6 @@
+> 本文内容由[鳥類DNA分類系統](https://zh.wikipedia.org/wiki/鳥類DNA分類系統)转换而来。
+
+
 1980年代，美國生物學家[查勒斯·西布萊](https://zh.wikipedia.org/wiki/查勒斯·西布萊 "wikilink")（Charles C. Sibley）利用以[DNA交杂之](https://zh.wikipedia.org/wiki/DNA交杂 "wikilink")[分子生物學技术对](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")[鸟类的](https://zh.wikipedia.org/wiki/鸟类 "wikilink")[系统演化和](https://zh.wikipedia.org/wiki/系统演化 "wikilink")[亲缘关系进行研究](https://zh.wikipedia.org/wiki/亲缘关系 "wikilink")，总共做了12000份[鸟类的DNA](https://zh.wikipedia.org/wiki/鸟类 "wikilink")-DNA交杂實验，然後於1988-1993年发表了一系列文章。1988年查勒斯·西布萊发表了《A Classification of the Living Birds of the World Based on DNA-DNA Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類分佈提供了解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
 
 近年被全新的[鸟类全基因组测序分类系统取代](../Page/鸟类分类系统.md "wikilink")。

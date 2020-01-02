@@ -1,3 +1,6 @@
+> 本文内容由[Miranda IM](https://zh.wikipedia.org/wiki/Miranda_IM)转换而来。
+
+
 **Miranda IM**是一个多协议的[即时通讯客户端软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。它运行时仅占用极少的内存，并且不需要安装，解压后即可运行。这使得用户可以从可移动的存储设备上运行他们的即时通讯客户端程序。如果仅使用少量的插件，它甚至可以被放到一张软盘里。
 
 强大的插件使得Miranda IM拥有极好的可扩展性。只有基本的功能是内置的，其余的功能需要通过插件来实现。现在有多于350个插件可以被下载，用来扩展Miranda IM的功能。通过安装这些插件，Miranda IM可以支持[ICQ](../Page/ICQ.md "wikilink")，[AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")，[MSN](../Page/MSN.md "wikilink")，[Jabber](https://zh.wikipedia.org/wiki/Jabber "wikilink")，[Yahoo](https://zh.wikipedia.org/wiki/Yahoo "wikilink")，[QQ和](https://zh.wikipedia.org/wiki/QQ "wikilink")[Google Talk等协议](../Page/Google_Talk.md "wikilink")。

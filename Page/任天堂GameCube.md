@@ -1,3 +1,6 @@
+> 本文内容由[任天堂GameCube](https://zh.wikipedia.org/wiki/任天堂GameCube)转换而来。
+
+
 [Gamecube_logo.svg](https://zh.wikipedia.org/wiki/File:Gamecube_logo.svg "fig:Gamecube_logo.svg") 是[任天堂](../Page/任天堂.md "wikilink")于2001年在日本和北美、2002年在欧洲和澳洲发布的[家用游戏机](../Page/家用游戏机.md "wikilink")。任天堂GameCube为[任天堂64](../Page/任天堂64.md "wikilink")的后继机种，并与其他[第六世代遊戲機](../Page/第六世代遊戲機.md "wikilink")：[索尼電腦娛樂的](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")[PlayStation 2和](../Page/PlayStation_2.md "wikilink")[微软](../Page/微软.md "wikilink")的[Xbox竞争](../Page/Xbox_\(遊戲機\).md "wikilink")。
 
 任天堂GameCube是第一款使用[光盘作为其主要存储介质的任天堂游戏机](https://zh.wikipedia.org/wiki/光盘 "wikilink")。它所使用的光盘尺寸类似于[miniDVD](https://zh.wikipedia.org/wiki/miniDVD "wikilink")。受限于游戏机的光盘舱大小，该系统不能用于播放标准[DVD或](https://zh.wikipedia.org/wiki/DVD "wikilink")[音频CD](https://zh.wikipedia.org/wiki/音频CD "wikilink")。该主机可以通过[寬帶适配器或](https://zh.wikipedia.org/wiki/寬帶 "wikilink")[數據機游玩一些支持在线功能的游戏](https://zh.wikipedia.org/wiki/數據機 "wikilink")。还可以通过[GBA傳輸線](../Page/GBA傳輸線.md "wikilink")连接到[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")，允许玩家使用Game Boy Advance作为游戏的第二屏幕或作为游戏的控制器来控制支持的游戏并实现其他一些特殊功能。

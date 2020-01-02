@@ -1,3 +1,6 @@
+> 本文内容由[日本Falcom](https://zh.wikipedia.org/wiki/日本Falcom)转换而来。
+
+
 **日本Falcom股份有限公司**（；）是主要開發及販售[电脑游戏](../Page/电脑游戏.md "wikilink")的日本公司，其代表作品有《[Dragon Slayer系列](../Page/Dragon_Slayer系列.md "wikilink")》、《[伊蘇系列](https://zh.wikipedia.org/wiki/伊蘇系列 "wikilink")》和《[英雄傳說系列](../Page/英雄傳說系列.md "wikilink")》等。
 
 ## 概要

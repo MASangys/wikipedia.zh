@@ -1,3 +1,6 @@
+> 本文内容由[LOVE TRiCKY](https://zh.wikipedia.org/wiki/LOVE_TRiCKY)转换而来。
+
+
 《**LOVE TRiCKY**》是[大塚愛的第七張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")，於2015年4月22日發行。
 
 ## 收錄曲目

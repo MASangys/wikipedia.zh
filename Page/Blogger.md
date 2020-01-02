@@ -1,3 +1,6 @@
+> 本文内容由[Blogger](https://zh.wikipedia.org/wiki/Blogger)转换而来。
+
+
 **Blogger.com**是由公司创立，是目前全球使用者数量最多的个人[网志服务提供商](https://zh.wikipedia.org/wiki/网志 "wikilink")。Pyra Labs和Blogger.com均被[Google公司收购](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，成为其旗下的一项服务内容。
 
 Blogger提供免費主機Blogspot.com存放網誌，用戶不必寫任何代碼或者安裝伺服器軟體或脚本，通过[所見即所得界面轻松地建立](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")、发布、维护和修改自己的网志。

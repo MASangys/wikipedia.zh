@@ -1,3 +1,6 @@
+> 本文内容由[杰克逊q贝塞尔函数](https://zh.wikipedia.org/wiki/杰克逊q贝塞尔函数)转换而来。
+
+
 **杰克逊q贝塞尔函数**是英国数学家杰克逊在20世纪初创立的3个特殊函数，它们是[贝塞尔函数](../Page/贝塞尔函数.md "wikilink")的q模拟。定义如下
 
 杰克逊q贝塞尔函数是通过[阶乘幂和](https://zh.wikipedia.org/wiki/阶乘幂 "wikilink")[基本超几何函数](../Page/基本超几何函数.md "wikilink")定义的：

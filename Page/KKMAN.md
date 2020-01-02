@@ -1,3 +1,6 @@
+> 本文内容由[KKMAN](https://zh.wikipedia.org/wiki/KKMAN)转换而来。
+
+
 **KKMAN**由[願境網訊](../Page/願境網訊.md "wikilink")於2000年1月推出，是第一個結合[WWW及](https://zh.wikipedia.org/wiki/WWW "wikilink")[Telnet](../Page/Telnet.md "wikilink")分頁瀏覽的綜合瀏覽器。使用者在KKMAN下可以很方便地在一個視窗中瀏覽多個網頁及[BBS](../Page/BBS.md "wikilink")站台。
 
 KKMAN目前僅支援[Windows作業系統](https://zh.wikipedia.org/wiki/Windows作業系統 "wikilink")，[網頁瀏覽器部分是嵌入](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[微軟公司的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Internet Explorer核心](../Page/Internet_Explorer.md "wikilink")。

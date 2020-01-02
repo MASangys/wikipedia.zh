@@ -1,3 +1,6 @@
+> 本文内容由[ZARD](https://zh.wikipedia.org/wiki/ZARD)转换而来。
+
+
 **ZARD**是一個日本知名摇滚樂團，以主唱歌手[坂井泉水](../Page/坂井泉水.md "wikilink")為中心。所屬事務所是泉水（SENSUI）。隸屬於[Being,Inc.旗下](https://zh.wikipedia.org/wiki/Being,Inc. "wikilink")[B-Gram RECORDS](https://zh.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。代表歌曲有《[永遠](https://zh.wikipedia.org/wiki/永遠 "wikilink")》、《[Top Secret](https://zh.wikipedia.org/wiki/Top_Secret "wikilink")》、《[MY FRIEND](../Page/MY_FRIEND_\(ZARD單曲\).md "wikilink")》、《[轉動命運之輪](../Page/轉動命運之輪.md "wikilink")》、《[Don't you see\!](../Page/Don't_you_see!.md "wikilink")》、《[別認輸](../Page/別認輸.md "wikilink")》、《[搖擺的想念](../Page/搖擺的想念.md "wikilink")》，ZARD也是日本第一個女子主唱的搖滾樂團。
 
 ## 成員

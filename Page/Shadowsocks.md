@@ -1,3 +1,6 @@
+> 本文内容由[Shadowsocks](https://zh.wikipedia.org/wiki/Shadowsocks)转换而来。
+
+
 [Shadowsocks_for_Android_(logo).png](https://zh.wikipedia.org/wiki/File:Shadowsocks_for_Android_\(logo\).png "fig:Shadowsocks_for_Android_(logo).png") **Shadowsocks**（简称**SS**）是一種基於[Socks5代理方式的加密傳輸协议](https://zh.wikipedia.org/wiki/SOCKS#SOCK5 "wikilink")，也可以指实现這個协议的各種开发包。目前套件使用[Python](../Page/Python.md "wikilink")、[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[Go语言](https://zh.wikipedia.org/wiki/Go语言 "wikilink")、[Rust](../Page/Rust.md "wikilink")等程式語言开发，大部分主要实现（[iOS平台的除外](https://zh.wikipedia.org/wiki/iOS "wikilink")）採用[Apache许可证](../Page/Apache许可证.md "wikilink")、[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")、[MIT許可證](../Page/MIT許可證.md "wikilink")等多種[自由軟體許可協定](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Shadowsocks分为服务器端和客户端，在使用之前，需要先将服务器端程序部署到服务器上面，然后通过客户端连接并建立本地代理。
 
 在中国大陆，本工具广泛用于突破[防火长城](../Page/防火长城.md "wikilink")（GFW），以浏览被封锁、遮蔽或干扰的内容。2015年8月22日，Shadowsocks原作者Clowwindy稱受到了[中国政府的压力](../Page/中华人民共和国网络审查.md "wikilink")，宣布停止维护此计划（项目）并移除其个人页面所存储的源代码\[1\]\[2\]。

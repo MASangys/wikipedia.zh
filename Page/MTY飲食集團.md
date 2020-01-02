@@ -1,3 +1,6 @@
+> 本文内容由[MTY飲食集團](https://zh.wikipedia.org/wiki/MTY飲食集團)转换而来。
+
+
 [MTY_Food_Group_logo.svg](https://zh.wikipedia.org/wiki/File:MTY_Food_Group_logo.svg "fig:MTY_Food_Group_logo.svg") **MTY飲食集團股份有限公司**，簡稱**MTY飲食集團**（****，），在1979年，由[香港](../Page/香港.md "wikilink")移民[加拿大](../Page/加拿大.md "wikilink")商人士丹利．馬（Stanley Ma，董事長及首席執行官），於[魁北克](https://zh.wikipedia.org/wiki/魁北克 "wikilink")[蒙特利尔](../Page/蒙特利尔.md "wikilink")（總部）成立首家名為「Le Paradis du Pacifique」餐廳。
 
 其後在1984年成立「Tiki Ming」餐廳位於[蒙特利尔](../Page/蒙特利尔.md "wikilink")成立。1986年當時名為「Golden Sky Resources Inc.」，其後在1989年於（前身為多倫多交易所）上市。其後再更名為「Golden Sky Ventures International Inc」、「iNsu Innovations Group Inc.」，之後現時為「MTY Food Group Inc.」\[1\]，並在2010年5月於[多伦多证券交易所](../Page/多伦多证券交易所.md "wikilink")上市\[2\]。

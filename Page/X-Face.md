@@ -1,3 +1,6 @@
+> 本文内容由[X-Face](https://zh.wikipedia.org/wiki/X-Face)转换而来。
+
+
 **X-Face**是一种加在[Usenet](../Page/Usenet.md "wikilink")或[电子邮件](../Page/电子邮件.md "wikilink")消息上的小[位图](../Page/位图.md "wikilink")（48×48像素，黑白单色），典型的用法是显示發信者的脸，類似今日的[用戶造型](https://zh.wikipedia.org/wiki/用戶造型 "wikilink")\[1\]或[即時通訊](../Page/即時通訊.md "wikilink")軟體[好友圖示](https://zh.wikipedia.org/wiki/好友圖示 "wikilink")\[2\]功能。图像数据[編碼成文字](https://zh.wikipedia.org/wiki/編碼 "wikilink")，被附在所发文章的[信头](https://zh.wikipedia.org/wiki/信头 "wikilink")。*X-Face*這個名稱是因為[RFC](../Page/RFC.md "wikilink")822\[3\]建議非標準的信頭標籤使用"X-"作為開頭。它的發明者是[James Ashton](https://web.archive.org/web/20091024084358/http://users.rsise.anu.edu.au/~jaa/)。
 
 X-Face是[贝尔实验室](../Page/贝尔实验室.md "wikilink")1980年代开发[Vismon程序的副产品](https://zh.wikipedia.org/wiki/Vismon "wikilink")。有很多支持X-Face的软件。它们中的大部分是[UNIX](../Page/UNIX.md "wikilink")及其变种平台上的[自由软件](../Page/自由软件.md "wikilink")。也有在线的，网络平台上的X-Face产生器以及流行的如[KMail或](https://zh.wikipedia.org/wiki/KMail "wikilink")[Sylpheed](../Page/Sylpheed.md "wikilink")这样的程序用来产生X-Face。

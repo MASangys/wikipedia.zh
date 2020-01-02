@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Ertiga](https://zh.wikipedia.org/wiki/鈴木Ertiga)转换而来。
+
+
 **鈴木Ertiga**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2012年起於日本研發製造的7人座緊湊型[多功能休旅車](../Page/多功能休旅車.md "wikilink")，另外此款車亦OEM代工[換牌成](../Page/换牌工程.md "wikilink")[馬自達VX-1](../Page/馬自達VX-1.md "wikilink")、寶騰Ertiga。
 
 車名由來與[印尼語相關](https://zh.wikipedia.org/wiki/印尼語 "wikilink")，「er」是「R」的發音，代表「row（列）」，「tiga」則是[阿拉伯數字](https://zh.wikipedia.org/wiki/阿拉伯數字 "wikilink")「[3](../Page/3.md "wikilink")」，故符合其三列座位的本質\[1\]。

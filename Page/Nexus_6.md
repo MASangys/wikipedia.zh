@@ -1,3 +1,6 @@
+> 本文内容由[Nexus 6](https://zh.wikipedia.org/wiki/Nexus_6)转换而来。
+
+
 **Nexus 6** 是一款[Google](../Page/Google.md "wikilink")在2014年推出的由[摩托罗拉移动](../Page/摩托罗拉移动.md "wikilink")代工的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，并搭载了 [Android](../Page/Android.md "wikilink") [5.0 Lollipop](https://zh.wikipedia.org/wiki/Android歷史版本#Android_5.0 "wikilink") 作業系統。
 
 ## 发布

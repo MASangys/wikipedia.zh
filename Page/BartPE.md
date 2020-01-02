@@ -1,3 +1,6 @@
+> 本文内容由[BartPE](https://zh.wikipedia.org/wiki/BartPE)转换而来。
+
+
 **BartPE**是一個利用[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows XP及](../Page/Windows_XP.md "wikilink")[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")[作業系統的安裝光碟而達成的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")**預先安裝環境**（[Live CD](../Page/Live_CD.md "wikilink")）。
 
 BartPE讓用戶只要到BartPE的網址下載相關檔案，並依照說明的程序去做，就可以為自己製造一張“救援”用的光碟。憑著這張“救機光碟”，用戶可以在電腦上的作業系統不能運作時，在原來的電腦啟動WinXP或Windows 2003，從而對有關資料進行備份，或當作臨時的作業系統使用、或著重新設定系統管理員密碼。另外，系統維護者亦可以先行購買一套Windows XP或Windows 2003，然後製作一片隨身攜帶的“救援光碟”，以便為其他電腦作診斷時，亦可以存取有關電腦的內容。

@@ -1,3 +1,6 @@
+> 本文内容由[IMovie](https://zh.wikipedia.org/wiki/IMovie)转换而来。
+
+
 **iMovie**是一款由[苹果电脑编写的简易](https://zh.wikipedia.org/wiki/苹果电脑 "wikilink")[视訊剪辑软件](https://zh.wikipedia.org/wiki/视频编辑 "wikilink")，是[Macintosh电脑上的应用程序套装](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[iLife的一部分](https://zh.wikipedia.org/wiki/iLife "wikilink")。它允许用户剪辑自己的家庭电影。iMovie 亦於[App Store (iOS)給](../Page/App_Store_\(iOS\).md "wikilink")[iOS用家下載](https://zh.wikipedia.org/wiki/iOS "wikilink")。iMovie 3和以后的版本只能运行在[Mac OS X上](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，早期的iMovie（2.0.3）可以在[Mac OS 9上运行](../Page/Mac_OS_9.md "wikilink")。
 
 iMovie因为其介面功能的簡潔而受到欢迎，大多数的工作只需要简单的点击和拖拽就能完成。因为广受欢迎，连PC的杂志也刊出其评论文章，甚至有一本把它放在了封面。PC的出版物评论Macintosh的专用软件是史无前例的。

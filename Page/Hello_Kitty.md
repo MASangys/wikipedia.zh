@@ -1,3 +1,6 @@
+> 本文内容由[Hello Kitty](https://zh.wikipedia.org/wiki/Hello_Kitty)转换而来。
+
+
 [Hello_Kitty_cafe_Samcheong-dong.JPG](https://zh.wikipedia.org/wiki/File:Hello_Kitty_cafe_Samcheong-dong.JPG "fig:Hello_Kitty_cafe_Samcheong-dong.JPG")
 
 [Hello_Kitty_Dreamcast.jpg](https://zh.wikipedia.org/wiki/File:Hello_Kitty_Dreamcast.jpg "fig:Hello_Kitty_Dreamcast.jpg")\]\] [HelloKitty_VendingMachine.JPG](https://zh.wikipedia.org/wiki/File:HelloKitty_VendingMachine.JPG "fig:HelloKitty_VendingMachine.JPG") **Hello Kitty**（；羅馬字：*Harōkiti*），中文名稱為**凱蒂貓**\[1\]或**吉蒂貓**\[2\]。是[日本](../Page/日本.md "wikilink")的[三麗鷗](../Page/三麗鷗.md "wikilink")公司於1974年所创作的[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。Hello Kitty的相关商品通常是一只左耳上有红色蝴蝶结的白色小小貓形象。刻意忽略嘴巴部分的Hello Kitty[商標自](https://zh.wikipedia.org/wiki/商標 "wikilink")1976年注册以來，现已广为人知。

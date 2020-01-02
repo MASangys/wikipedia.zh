@@ -1,3 +1,6 @@
+> 本文内容由[GW-BASIC](https://zh.wikipedia.org/wiki/GW-BASIC)转换而来。
+
+
 **GW-BASIC**是高級[程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")[BASIC](../Page/BASIC.md "wikilink")的一個方言版本。關於GW的含義，目前有三種說法，一種認為是以[微軟早期程式設計師Greg](https://zh.wikipedia.org/wiki/微軟 "wikilink") Whitten的名字命名的，一種認為是用微軟創始人的名字Gates，William命名的，還有一種說法是開發人員給它取的一個戲稱gee-whiz（兩個英語的象聲詞，類似於中文裏吆喝牲口的聲音）。有一點是肯定的，這個版本的BASIC最早是微軟為[康柏](../Page/康柏.md "wikilink")開發的，時間應該是在1984年，這一年11月，微軟首次為[IBM](../Page/IBM.md "wikilink")之外的計算機廠商提供[OEM版本的](https://zh.wikipedia.org/wiki/OEM "wikilink")[DOS](../Page/DOS.md "wikilink")，GW-BASIC是作為[MS-DOS](../Page/MS-DOS.md "wikilink")的一個組成部分問世的。
 
 GW-BASIC和微軟提供給[IBM PC的](../Page/IBM_PC.md "wikilink")[BASICA](../Page/BASICA.md "wikilink")完全相容，所不同的是，後者依賴於[ROM中的BASIC](https://zh.wikipedia.org/wiki/ROM "wikilink")[直譯器](../Page/直譯器.md "wikilink")，而前者並不需要，所以，GW-BASIC能在眾多IBM PC相容機器上運行，這就使它的使用範圍隨著PC相容機器的推廣而擴大。第一個流傳範圍較廣的GW-BASIC版本號為2.0，而最後推出的GW-BASIC版本號為3.23，時間大概是1988年。從那時起，如果沒有特殊說明，我們一般所說的GW-BASIC就是指的這個版本。

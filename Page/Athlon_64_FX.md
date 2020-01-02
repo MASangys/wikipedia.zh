@@ -1,3 +1,6 @@
+> 本文内容由[Athlon 64 FX](https://zh.wikipedia.org/wiki/Athlon_64_FX)转换而来。
+
+
 [a64fxlogo.gif](https://zh.wikipedia.org/wiki/File:a64fxlogo.gif "fig:a64fxlogo.gif")
 
 **Athlon 64 FX**是[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") [K8系列](../Page/AMD_K8.md "wikilink")[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（CPU）之一，專為追求極限的愛好者而設。該處理器特意不設鎖頻，用家可透過自由改變倍頻來把CPU[超頻](../Page/超頻.md "wikilink")或[降頻](https://zh.wikipedia.org/wiki/降頻 "wikilink")。它可在單核心或[雙核心處理器的](https://zh.wikipedia.org/wiki/雙核心 "wikilink")[PC上執行](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")，支援[x86及](https://zh.wikipedia.org/wiki/x86 "wikilink")[AMD64的指令集](https://zh.wikipedia.org/wiki/AMD64 "wikilink")。在產品特色方面，它設有1MB的L2快取及128位[雙通道記憶體控制器](https://zh.wikipedia.org/wiki/雙通道 "wikilink")。在時脈方面，它的速度介乎2.2至2.8GHz之間。一如其他K8處理器，它擁有800MHz的[HyperTransport](../Page/HyperTransport.md "wikilink")資料傳輸技術，後期更增至1000MHz。

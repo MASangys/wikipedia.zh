@@ -1,3 +1,6 @@
+> 本文内容由[L·罗恩·贺伯特](https://zh.wikipedia.org/wiki/L·罗恩·贺伯特)转换而来。
+
+
 **拉法叶·罗纳德·贺伯特**（，），通常稱為**L·罗恩·贺伯特**（，名字縮寫 ），生於[美国](../Page/美国.md "wikilink")[内布拉斯加州](https://zh.wikipedia.org/wiki/内布拉斯加州 "wikilink")，[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，[山達基](../Page/山達基.md "wikilink")（科學教）及[戴尼提](../Page/戴尼提.md "wikilink")創始者。主要撰寫結合宗教的性靈提升書籍，也曾寫過[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[企業管理書籍](https://zh.wikipedia.org/wiki/企業管理 "wikilink")、[散文](../Page/散文.md "wikilink")及[詩](https://zh.wikipedia.org/wiki/詩 "wikilink")。
 
 賀伯特設計了一種自助的技術，所謂[戴尼提](../Page/戴尼提.md "wikilink")和哲學，被統稱為山達基。組織增長後，成為一宗教——[山達基](../Page/山達基.md "wikilink")。除了小說（主要是科幻小說），賀伯特也寫了組成山達基理論的作品\[1\]，及可能是他最著名的書——1950年的《戴尼提：現代心理健康狀況的科學》。

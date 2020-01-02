@@ -1,3 +1,6 @@
+> 本文内容由[Nexus 9](https://zh.wikipedia.org/wiki/Nexus_9)转换而来。
+
+
 **Nexus 9**是一款由[Google](../Page/Google.md "wikilink")和[HTC联合开发的](https://zh.wikipedia.org/wiki/HTC "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，也是[Google Nexus系列的第](../Page/Google_Nexus.md "wikilink")4款[Android](../Page/Android.md "wikilink")平板电脑。这款平板採用8.9英吋[4:3屏幕](https://zh.wikipedia.org/wiki/4:3 "wikilink")（[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")2048x1536），而不是前3款Nexus平板所採用的16:10屏幕。这一产品将会以16GB和32GB两种存储容量上市。
 
 Nexus 9与[Nexus 6一同搭载](../Page/Nexus_6.md "wikilink")[Android Lollipop](../Page/Android_Lollipop.md "wikilink")(5.0)[操作系统](../Page/操作系统.md "wikilink")。目前可升級最新版本[Android Nougat](../Page/Android_Nougat.md "wikilink")(7.1.1)。

@@ -1,3 +1,6 @@
+> 本文内容由[Ng](https://zh.wikipedia.org/wiki/Ng)转换而来。
+
+
 **Ng**，或**NG**、**ng**可能指：
 
 ## 語言

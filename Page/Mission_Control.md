@@ -1,3 +1,6 @@
+> 本文内容由[Mission Control](https://zh.wikipedia.org/wiki/Mission_Control)转换而来。
+
+
 **Mission Control**（直譯「」，前身為 ）是在[Mac OS X中管理開啟視窗](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")（特別是視窗數量很多）的工具，允許使用者可以快速地看到所有開啟的視窗（或是某些指定的集合），而不需要在很多視窗之間按滑鼠選擇，就可以找到指定的目標。
 
 Exposé 於 [Mac OS X 10.7](https://zh.wikipedia.org/wiki/Mac_OS_X_10.7 "wikilink") 開始被 Mission Control 取代。

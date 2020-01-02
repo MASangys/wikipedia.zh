@@ -1,3 +1,6 @@
+> 本文内容由[Wii国际象棋](https://zh.wikipedia.org/wiki/Wii国际象棋)转换而来。
+
+
 是由[任天堂](../Page/任天堂.md "wikilink")开发，2008年1月在欧洲廉价零售发行的[Wii](../Page/Wii.md "wikilink")游戏。2008年9月，游戏在日本作为“通信对局”的第三作，以名义发行，通过[WiiWare](../Page/WiiWare.md "wikilink")下载发行。游戏没有在美国等区域发行，这是唯一没有在这些国家发行的[Wii系列游戏](https://zh.wikipedia.org/wiki/Wii系列 "wikilink")。《Wii国际象棋》使用Loop Express[国际象棋引擎](https://zh.wikipedia.org/wiki/国际象棋引擎 "wikilink")\[1\]。
 
 ## 玩法

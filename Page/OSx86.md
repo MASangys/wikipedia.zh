@@ -1,3 +1,6 @@
+> 本文内容由[OSx86](https://zh.wikipedia.org/wiki/OSx86)转换而来。
+
+
 **OSx86**是把[蘋果公司出品的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[macOS操作系統在](https://zh.wikipedia.org/wiki/macOS "wikilink")[x86架构的非蘋果電腦上运行的](https://zh.wikipedia.org/wiki/x86 "wikilink")[黑客](../Page/黑客.md "wikilink")协作計劃。此計劃的構思始於2005年6月的[蘋果全球開發者大會](../Page/苹果全球开发者大会.md "wikilink")（WWDC 2005），當時蘋果宣佈他們將把其個人電腦從[PowerPC](../Page/PowerPC.md "wikilink")架構轉向[英特爾架構](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 OSx86名字源于macOS系统的原名“[OS X](../Page/MacOS.md "wikilink")”与[英特尔](../Page/英特尔.md "wikilink")处理器架构名“[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")”。此計劃有一些廣為人知的名字，比如**Hackintosh**\[1\]或**Hackint0sh**\[2\]（黑客“hack”与现苹果电脑机型名“[Macintosh](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")”的[混成词](../Page/混成詞.md "wikilink")）。在[中國大陸還有很多人形象的稱其為](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")“**黑蘋果**”。

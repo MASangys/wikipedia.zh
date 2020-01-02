@@ -1,3 +1,6 @@
+> 本文内容由[ESPN](https://zh.wikipedia.org/wiki/ESPN)转换而来。
+
+
 **ESPN**（英文：**E**ntertainment **S**ports **P**rogramming **N**etwork，娛樂與體育節目電視網，一般簡稱ESPN）是一間24小時專門播放體育節目的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[有線電視聯播網](https://zh.wikipedia.org/wiki/有線電視 "wikilink")。最初ESPN也播放娛樂節目，後來全力發展[體育節目](https://zh.wikipedia.org/wiki/體育 "wikilink")。該企業由斯科特·拉斯穆森（Scott Rasmussen）與其父比尔·拉斯穆森（Bill Rasmussen）創立，並於1979年9月7日開播，當時的主席兼執行長是切特·西蒙斯（Chet Simmons）。現任ESPN主席為George Bodenheimer（1998年11月19日至現在）。Bodenheimer亦從2003年3月3日起兼任[ABC体育的主席](../Page/美国广播公司.md "wikilink")。其著名節目[世界體育中心](https://zh.wikipedia.org/wiki/世界體育中心 "wikilink")（SportsCenter presented by CDW）從首播至2002年8月25日止共播出25,000集。ESPN主要播送的節目都在[康乃狄克州](../Page/康乃狄克州.md "wikilink")[布里斯托](https://zh.wikipedia.org/wiki/布里斯托尔_\(康涅狄格州\) "wikilink")（Bristol）攝影棚作業，辦公室設在[夏洛特](https://zh.wikipedia.org/wiki/夏洛特_\(北卡罗莱那州\) "wikilink")、[舊金山和](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")（2009年啟用）。ESPN及ESPN國際在美國9000萬家庭和全球147個國家可以收看。ESPN的公司名稱由1985年2月開始由“娱乐与体育节目网”縮短為“ESPN Inc.”，ESPN亞洲版在2013年1月28日改名為[FOX體育台](../Page/FOX體育台.md "wikilink")（中國大陸地區除外）。
 
 ESPN和美國三大電視網之一的[ABC同屬迪士尼公司所有](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")，因此ABC的體育轉播也冠以[ESPN on ABC的名稱播出](https://zh.wikipedia.org/wiki/ESPN_on_ABC "wikilink")。

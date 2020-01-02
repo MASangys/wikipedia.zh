@@ -1,3 +1,6 @@
+> 本文内容由[Verilog](https://zh.wikipedia.org/wiki/Verilog)转换而来。
+
+
 **Verilog**是一种用于描述、设计[电子系统](../Page/电子学.md "wikilink")（特别是[数字电路](../Page/数字电路.md "wikilink")）的[硬件描述语言](../Page/硬件描述语言.md "wikilink")，主要用於在[集成电路设计](../Page/集成电路设计.md "wikilink")，特别是[超大规模集成电路](../Page/超大规模集成电路.md "wikilink")的[计算机辅助设计](../Page/计算机辅助设计.md "wikilink")。Verilog是[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")（IEEE）的1364号标准。
 
 Verilog能够在多种抽象级别對数字逻辑系统进行描述：既可以在[晶体管](../Page/晶体管.md "wikilink")级、[逻辑门级进行描述](https://zh.wikipedia.org/wiki/逻辑门 "wikilink")，也可以在[寄存器传输级](../Page/寄存器传输级.md "wikilink")对电路信号在寄存器之间的传输情况进行描述。除了对电路的逻辑功能进行描述，Verilog代码还能够被用于[逻辑仿真](../Page/逻辑仿真.md "wikilink")、[逻辑综合](../Page/逻辑综合.md "wikilink")，其中后者可以把寄存器传输级的Verilog代码转换为逻辑门级的[网表](https://zh.wikipedia.org/wiki/网表 "wikilink")，从而方便在[现场可编程逻辑门阵列](../Page/现场可编程逻辑门阵列.md "wikilink")上实现硬件电路，或者让硬件厂商制造具体的[专用集成电路](https://zh.wikipedia.org/wiki/专用集成电路 "wikilink")。设计人员还可以利用Verilog的扩展部分[Verilog-AMS](../Page/Verilog-AMS.md "wikilink")进行[模拟电路](../Page/模拟电路.md "wikilink")和[混合信号集成电路的设计](https://zh.wikipedia.org/wiki/混合信号集成电路 "wikilink")。

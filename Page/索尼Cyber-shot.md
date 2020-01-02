@@ -1,3 +1,6 @@
+> 本文内容由[索尼Cyber-shot](https://zh.wikipedia.org/wiki/索尼Cyber-shot)转换而来。
+
+
 [Cyber-shot.svg](https://zh.wikipedia.org/wiki/File:Cyber-shot.svg "fig:Cyber-shot.svg") **Cyber-shot**，是[Sony公司的](https://zh.wikipedia.org/wiki/Sony "wikilink")[數位相機品牌](https://zh.wikipedia.org/wiki/數位相機 "wikilink")。Sony自1997年第一台Cyber-shot F1問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](https://zh.wikipedia.org/wiki/CCD "wikilink")，另外搭載[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[卡爾·蔡司](../Page/卡爾·蔡司.md "wikilink")（Carl Zeiss）镜头，在消費性數位相機市場，目前在全球消費性數位相機市场取得占有率第二，並和[尼康](../Page/尼康.md "wikilink")、[佳能](../Page/佳能.md "wikilink")、[富士](../Page/富士胶片.md "wikilink")、[柯達並列數位相機五大](https://zh.wikipedia.org/wiki/柯達 "wikilink")[品牌](../Page/品牌.md "wikilink")。 [Sony_Cyber-shot_DSC-F717.jpg](https://zh.wikipedia.org/wiki/File:Sony_Cyber-shot_DSC-F717.jpg "fig:Sony_Cyber-shot_DSC-F717.jpg") 在[台灣以](https://zh.wikipedia.org/wiki/台灣 "wikilink")「每個人都有自己的Cyber-shot」，而在[中國大陸以](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")「自有我主張」，都是強調個人風格的行銷策略。另外，2006年開始，Sony Ericsson開始販賣了以此為副品牌的[Sony Ericsson K800i](../Page/Sony_Ericsson_K800i.md "wikilink")。
 
 新力在[2006年4月](../Page/2006年4月.md "wikilink")，承襲[柯尼卡美能達](../Page/柯尼卡美能達.md "wikilink")的α接環發表[DSLR品牌](https://zh.wikipedia.org/wiki/DSLR "wikilink")-[**α**](https://zh.wikipedia.org/wiki/Sony_α "wikilink")。

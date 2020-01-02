@@ -1,3 +1,6 @@
+> 本文内容由[23,Male,Single](https://zh.wikipedia.org/wiki/23,Male,Single)转换而来。
+
+
 《23,Male, Single》是韓國男子偶像團體[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")[張佑榮的首張個人迷你專輯](https://zh.wikipedia.org/wiki/張佑榮 "wikilink")，於2012年7月8日發行，是第一個發行個人專輯的[2PM成員](https://zh.wikipedia.org/wiki/2PM "wikilink")，主打歌曲為《Sexy Lady》。
 
 ## 背景

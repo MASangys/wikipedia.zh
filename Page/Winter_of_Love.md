@@ -1,3 +1,6 @@
+> 本文内容由[Winter of Love](https://zh.wikipedia.org/wiki/Winter_of_Love)转换而来。
+
+
 《**Winter of Love**》（冬季戀歌）是日本組合[化學超男子](../Page/化學超男子.md "wikilink")於2008年11月19日發行的冬日精選輯。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[ABB](https://zh.wikipedia.org/wiki/ABB)转换而来。
+
+
 **瑞典通用电气布朗-博韦里**（Asea Brown Boveri，一般使用其简称**ABB**）是一家总部在[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[苏黎世](../Page/苏黎世.md "wikilink")的[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")-[瑞典](../Page/瑞典.md "wikilink")的[跨國公司](../Page/跨國公司.md "wikilink")，經營範圍主要以[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")、[電機](https://zh.wikipedia.org/wiki/電機 "wikilink")、[能源](../Page/能源.md "wikilink")、[自動化等領域](https://zh.wikipedia.org/wiki/自動化 "wikilink")。2018年，该公司在[财富世界500强中排名第](https://zh.wikipedia.org/wiki/财富世界500强 "wikilink")314位，已连续位列该榜单23年\[1\]。
 
 ABB是全球最大的工程公司之一，也是世界上最大的企業集團之一。ABB在全球100多國設有分公司或辦事處，2013年11月大約15萬名員工，\[2\]並報告2011年的全球營收為400億。\[3\]

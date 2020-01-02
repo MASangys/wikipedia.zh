@@ -1,3 +1,6 @@
+> 本文内容由[维生素C](https://zh.wikipedia.org/wiki/维生素C)转换而来。
+
+
 **維生素C**（，又稱**L-抗壞血酸**，又譯**維他命C**）是高等[靈長類動物與其他少數](../Page/灵长目.md "wikilink")[生物](../Page/生物.md "wikilink")的必需[營養素](https://zh.wikipedia.org/wiki/營養素 "wikilink")。是一種存在於食物中的維他命，可作為[營養補充品](../Page/營養補充品.md "wikilink")。維生素C在大多数生物體内可藉由[新陳代謝製造出來](../Page/代谢.md "wikilink")，但是有许多例外，比如[人](../Page/人.md "wikilink")類，缺乏維生素C會造成[壞血病](../Page/壞血病.md "wikilink")。\[1\]\[2\]\[3\]
 
 維他命C可作營養補充劑以預防或治療[壞血病](../Page/壞血病.md "wikilink")\[4\]，目前並無證據顯示可預防感冒\[5\]\[6\]。維他命C可藉由口服或注射來攝取。\[7\]

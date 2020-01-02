@@ -1,3 +1,6 @@
+> 本文内容由[月球環形山列表 \(L-N\)](https://zh.wikipedia.org/wiki/月球環形山列表_\(L-N\))转换而来。
+
+
 这是[月球环形山列表的一部份](https://zh.wikipedia.org/wiki/月球环形山列表 "wikilink")，此表列举出英文名称以字母L,M及N开头的环形山。
 
 ## L

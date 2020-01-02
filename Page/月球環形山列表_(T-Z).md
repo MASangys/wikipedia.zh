@@ -1,3 +1,6 @@
+> 本文内容由[月球環形山列表 \(T-Z\)](https://zh.wikipedia.org/wiki/月球環形山列表_\(T-Z\))转换而来。
+
+
 这是[月球环形山列表的一部份](https://zh.wikipedia.org/wiki/月球环形山列表 "wikilink")，此表列举出英文名称以字母T、U、V、W、X、Y及Z开头的环形山。
 
 ## T

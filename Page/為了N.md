@@ -1,3 +1,6 @@
+> 本文内容由[為了N](https://zh.wikipedia.org/wiki/為了N)转换而来。
+
+
 《**為了N**》（），[日本](../Page/日本.md "wikilink")小說家[湊佳苗](../Page/湊佳苗.md "wikilink")創作的[推理小說](../Page/推理小說.md "wikilink")，2010年1月29日由出版單行本，2014年8月23日由[雙葉社發行](https://zh.wikipedia.org/wiki/雙葉社 "wikilink")[文庫本](../Page/文庫本.md "wikilink")。
 
 2014年10月，[TBS電視台](../Page/TBS電視台.md "wikilink")翻拍為[金22時段的電視劇](../Page/TBS週五連續劇.md "wikilink")。

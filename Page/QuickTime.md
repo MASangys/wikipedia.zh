@@ -1,3 +1,6 @@
+> 本文内容由[QuickTime](https://zh.wikipedia.org/wiki/QuickTime)转换而来。
+
+
 ****是由[蘋果公司所開發的一種](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[多媒体框架](https://zh.wikipedia.org/wiki/多媒体框架 "wikilink")，能夠處理許多的[數位視訊](https://zh.wikipedia.org/wiki/數位視訊 "wikilink")、[媒體段落](https://zh.wikipedia.org/wiki/媒體段落 "wikilink")、[音效](../Page/音效.md "wikilink")、[文字](../Page/文字.md "wikilink")、[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")、[音樂格式](https://zh.wikipedia.org/wiki/音樂 "wikilink")，以及[互動式全景影像的數項類型](../Page/QuickTime_VR.md "wikilink")。
 
 ## 概況

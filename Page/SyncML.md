@@ -1,3 +1,6 @@
+> 本文内容由[SyncML](https://zh.wikipedia.org/wiki/SyncML)转换而来。
+
+
 **SyncML** (Synchronization Markup Language)是一平台无关的信息同步标准协议集。分为SyncML数据传输协议（SyncML-DS）和SyncML设备管理协议(SyncML-DM).
 
 现存的大部分同步解决方案绝大部分依赖于某个厂商、应用，或者是某个操作系统，而SyncML的目的就是要提供一个开放标准。目前，该标准已经得到[Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink")、[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")，[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink")，[Sony Ericsson](https://zh.wikipedia.org/wiki/SonyEricsson "wikilink")、[Siemens AG等公司的产品的支持](https://zh.wikipedia.org/wiki/Siemens_AG "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[马赫GoGoGo](https://zh.wikipedia.org/wiki/马赫GoGoGo)转换而来。
+
+
 《**馬赫GoGoGo**》（）是[龙之子制作公司制作的](https://zh.wikipedia.org/wiki/龙之子制作公司 "wikilink")[日本电视动画作品](https://zh.wikipedia.org/wiki/日本电视动画 "wikilink")，於1967年4月2日到1968年3月31日期間由[富士電視台](../Page/富士電視台.md "wikilink")播放共52集\[1\]。1997年1月9日到9月24日期間由[東京電視台](../Page/東京電視台.md "wikilink")播放重製版共34集\[2\]。
 
 ## 故事介绍

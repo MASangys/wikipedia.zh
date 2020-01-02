@@ -1,3 +1,6 @@
+> 本文内容由[Darling](https://zh.wikipedia.org/wiki/Darling)转换而来。
+
+
 《**Darling**》是[Dream的第](https://zh.wikipedia.org/wiki/Dream "wikilink")23张单曲。2014年11月5日发售。
 
 ## 概要

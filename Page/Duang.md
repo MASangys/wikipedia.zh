@@ -1,3 +1,6 @@
+> 本文内容由[Duang](https://zh.wikipedia.org/wiki/Duang)转换而来。
+
+
 **-{zh-cn:Duang;zh-tw:ㄉㄨㄤ;zh-hk:動L;}-**（-{zh-cn:[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")：ㄉㄨㄤ；IPA：; zh-tw:[拼音](https://zh.wikipedia.org/wiki/拼音 "wikilink")：Duang；IPA：; zh-hk:粵音：Dong<sup>6</sup> L；[IPA](https://zh.wikipedia.org/wiki/IPA "wikilink")：[\[{{IPA](https://zh.wikipedia.org/wiki/Help:广州话国际音标 "wikilink")\]\[1\];}-）是一个[拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，出自对香港影星[成龙代言的](https://zh.wikipedia.org/wiki/成龙 "wikilink")[霸王](https://zh.wikipedia.org/wiki/霸王国际 "wikilink")[洗发水广告的](https://zh.wikipedia.org/wiki/洗发水 "wikilink")[恶搞](https://zh.wikipedia.org/wiki/恶搞 "wikilink")，用来形容某个动作效果、模仿某种特效配音，多指一瞬间达到的特殊效果。\[2\]\[3\]
 
 ## 词语来源

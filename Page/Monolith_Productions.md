@@ -1,3 +1,6 @@
+> 本文内容由[Monolith Productions](https://zh.wikipedia.org/wiki/Monolith_Productions)转换而来。
+
+
 **Monolith Productions**（或简称**Monolith**）是位于美国华盛顿[柯克兰的电脑游戏开发商](../Page/柯克兰_\(华盛顿州\).md "wikilink")。Monolith还开发了图形游戏引擎，并将之用在他们大部分游戏中。在1997年至1999年间，他们还发行本工作室和一些第三方团队的游戏。
 
 2004年[时代华纳子公司](https://zh.wikipedia.org/wiki/时代华纳 "wikilink")[华纳兄弟收购了Monolith](../Page/華納兄弟互動娛樂.md "wikilink")\[1\]。

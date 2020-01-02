@@ -1,3 +1,6 @@
+> 本文内容由[EBay](https://zh.wikipedia.org/wiki/EBay)转换而来。
+
+
 **eBay**（，中文：**電子灣**、**億貝**、**易贝**）是可讓全球民眾上[網買賣物品的線上拍賣及購物網站](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。
 
 ## 起源與歷史

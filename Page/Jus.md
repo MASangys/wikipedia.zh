@@ -1,3 +1,6 @@
+> 本文内容由[Jus](https://zh.wikipedia.org/wiki/Jus)转换而来。
+
+
 __NOTOC__   [Beard_token.jpg](https://zh.wikipedia.org/wiki/File:Beard_token.jpg "fig:Beard_token.jpg")
 
 （**小Jus**）和（**大Jus**）是[西里尔字母](../Page/西里尔字母.md "wikilink")\[1\]，在[早期西里尔字母](../Page/早期西里尔字母.md "wikilink")和[格拉哥里字母](../Page/格拉哥里字母.md "wikilink")当中表示[通用斯拉夫语的两个](https://zh.wikipedia.org/wiki/原始斯拉夫语 "wikilink")[鼻化元音](../Page/鼻化元音.md "wikilink")。两者都有形式（），是与[І](../Page/І.md "wikilink")组成的[合字](../Page/合字.md "wikilink")。其他jus字母包括**混合Jus**（）、**闭合小Jus**（）和**Iota化的闭合小Jus**（）。

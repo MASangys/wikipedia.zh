@@ -1,3 +1,6 @@
+> 本文内容由[3DNow!](https://zh.wikipedia.org/wiki/3DNow!)转换而来。
+
+
 [Amd_k6-2_logo.jpg](https://zh.wikipedia.org/wiki/File:Amd_k6-2_logo.jpg "fig:Amd_k6-2_logo.jpg")處理器\]\] **3DNow\!**（據說是“3D No Waiting\!”的縮寫）是由[AMD開發的一套](https://zh.wikipedia.org/wiki/AMD "wikilink")[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")[多媒體](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[指令集](https://zh.wikipedia.org/wiki/指令集 "wikilink")，支持單精度[浮點數的矢量運算](https://zh.wikipedia.org/wiki/浮點數 "wikilink")，用於增强[x86架構的電腦在三维圖像處理上的性能](https://zh.wikipedia.org/wiki/x86 "wikilink")。
 
 ## 历史

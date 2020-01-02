@@ -1,3 +1,6 @@
+> 本文内容由[IRD公司](https://zh.wikipedia.org/wiki/IRD公司)转换而来。
+
+
 **IRD公司**（）乃[日本](../Page/日本.md "wikilink")一家競速[賽車](../Page/賽車.md "wikilink")企劃設計、製造公司，總部位於[靜岡縣](../Page/靜岡縣.md "wikilink")[磐田市](../Page/磐田市.md "wikilink")。舊名為「**鈴木運動公司**（）」，乃隸屬[鈴木公司麾下](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")，專門負責[動力運動](../Page/動力運動.md "wikilink")相關事務。
 
 ## 沿革與概要

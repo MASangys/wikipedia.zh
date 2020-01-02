@@ -1,3 +1,6 @@
+> 本文内容由[Simpsorama](https://zh.wikipedia.org/wiki/Simpsorama)转换而来。
+
+
 {{ RoughTranslation }}   《**Simpsorama**》是[卡通](../Page/卡通.md "wikilink")《[辛普森一家](../Page/辛普森一家.md "wikilink")》第26季第6集的名称，在2014年11月9日由[福克斯广播公司首播](https://zh.wikipedia.org/wiki/福克斯广播公司 "wikilink")。與原創者[馬特·格勒寧另一部動畫](https://zh.wikipedia.org/wiki/馬特·格勒寧 "wikilink")《[乃出個未來](../Page/乃出個未來.md "wikilink")》之[跨界作品](../Page/跨界作品.md "wikilink")，該部原先在福斯頻道及後來轉至[喜劇中心](../Page/喜劇中心.md "wikilink")，2013年九月不久下檔而至今回歸。
 
 ## 劇情

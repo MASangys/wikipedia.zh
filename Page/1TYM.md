@@ -1,3 +1,6 @@
+> 本文内容由[1TYM](https://zh.wikipedia.org/wiki/1TYM)转换而来。
+
+
 **1TYM**（）念作「ONE TIME」，是以Hip-Hop饒舌起家的[YG娛樂](../Page/YG娛樂.md "wikilink")旗下第二組團體，吳溱桓、[Teddy Park](https://zh.wikipedia.org/wiki/Teddy_Park "wikilink")、宋栢京, Danny四位成員組成，粉絲名為「Hip-Hop Villager」（嘻哈村民）
 
 ## 簡介與近況

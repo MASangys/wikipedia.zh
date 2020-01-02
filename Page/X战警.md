@@ -1,3 +1,6 @@
+> 本文内容由[X战警](https://zh.wikipedia.org/wiki/X战警)转换而来。
+
+
 **X戰警**（）是[漫威漫畫](../Page/漫威漫畫.md "wikilink")的[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，由[斯坦·李和](https://zh.wikipedia.org/wiki/斯坦·李 "wikilink")[杰克·科比](../Page/杰克·科比.md "wikilink")創作，初次登場於1963年9月漫畫X-Men \#1中。與其相關的書在當今美國主流漫畫界十分賣座，並於2000年推出同名電影，全球票房收入達3億美元，其系列電影迄今已拍攝10部。
 
 ## 出場人物

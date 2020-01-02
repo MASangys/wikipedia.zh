@@ -1,3 +1,6 @@
+> 本文内容由[MAC地址](https://zh.wikipedia.org/wiki/MAC地址)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:UMTS_Router_Surf@home_II,_o2-0017.jpg "fig:缩略图") **MAC地址**（**）**，直译为**媒體存取控制位址**，也稱為**局域网地址**（LAN Address），**以太网地址**（Ethernet Address）或**物理地址**（Physical Address），它是一个用來确认網路設備位置的位址。在[OSI模型](../Page/OSI模型.md "wikilink")中，第三層網路層負責[IP地址](../Page/IP地址.md "wikilink")，第二層資料鏈結層則負責MAC位址。MAC地址用于在网络中唯一标示一个[网卡](../Page/网卡.md "wikilink")，一台设备若有一或多个网卡，则每个网卡都需要并会有一个唯一的MAC地址。
 
 ## 格式

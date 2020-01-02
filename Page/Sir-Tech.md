@@ -1,3 +1,6 @@
+> 本文内容由[Sir-Tech](https://zh.wikipedia.org/wiki/Sir-Tech)转换而来。
+
+
 **Sir-Tech Software, Inc.**是美国已歇业[电子游戏开发商及](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，以[电子角色扮演游戏系列](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")[巫术而知名](../Page/巫术系列.md "wikilink")。
 
 ## 历史

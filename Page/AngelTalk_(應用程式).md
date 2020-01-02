@@ -1,3 +1,6 @@
+> 本文内容由[AngelTalk \(應用程式\)](https://zh.wikipedia.org/wiki/AngelTalk_\(應用程式\))转换而来。
+
+
 **AngelTalk** (英語：AngelTalk；中文：安心講）是一個[智能手機以及行動裝置所使用的社交加密通訊](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。讓使用者經由 AngelTalk 傳送語音、文字、圖片等訊息，經過[加密](../Page/加密.md "wikilink")傳輸後，別人無法對雙方的通話內容或訊息[竊聽](../Page/竊聽.md "wikilink")或竊取。AngelTalk 支援[智能手機系統平台以](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[Android](../Page/Android.md "wikilink")和[iOS為主](https://zh.wikipedia.org/wiki/iOS "wikilink")，在使用者的[通訊設備基本架構上](https://zh.wikipedia.org/wiki/通訊 "wikilink")，也支援Android、iOS相容的[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 歷史

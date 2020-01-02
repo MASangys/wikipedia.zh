@@ -1,3 +1,6 @@
+> 本文内容由[Eddy Kim](https://zh.wikipedia.org/wiki/Eddy_Kim)转换而来。
+
+
 **Eddy Kim**（；），原名**金正煥**（），韓國創作男歌手。他在2012年參加[Mnet媒體](../Page/Mnet媒體.md "wikilink")的音樂選秀節目《[Superstar K4](https://zh.wikipedia.org/wiki/Superstar_K4 "wikilink")》中獲得第六名\[1\]而為人所知，後簽約為[Mystic娛樂](../Page/Mystic娛樂.md "wikilink")旗下歌手。2017年6月28日與[Girl's Day](../Page/Girl's_Day.md "wikilink")[素珍公開交往](https://zh.wikipedia.org/wiki/素珍 "wikilink")。\[2\]，12月27日公開分手消息。\[3\]
 
 ## 爭議

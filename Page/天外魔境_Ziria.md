@@ -1,3 +1,6 @@
+> 本文内容由[天外魔境 Ziria](https://zh.wikipedia.org/wiki/天外魔境_Ziria)转换而来。
+
+
 是[广井王子监督的日本](https://zh.wikipedia.org/wiki/广井王子 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，为[天外魔境系列](../Page/天外魔境系列.md "wikilink")首作，由[Hudson Soft于](../Page/Hudson_Soft.md "wikilink")1989年在[PC-Engine外设](https://zh.wikipedia.org/wiki/PC-Engine "wikilink")[CD-ROM²发行](https://zh.wikipedia.org/wiki/CD-ROM² "wikilink")。
 
 游戏于2000年代在日本手机再版，2006年以名义在[Xbox 360上](../Page/Xbox_360.md "wikilink")3D重制。PC-Engine版于2008年7月31日在版于[PlayStation Portable合辑](../Page/PlayStation_Portable.md "wikilink")《[天外魔境Collection](https://zh.wikipedia.org/wiki/天外魔境Collection "wikilink")》，2010年10月20日通过[PlayStation Network向PlayStation](../Page/PlayStation_Network.md "wikilink") 3和PlayStation Portable用户提供下载。

@@ -1,3 +1,6 @@
+> 本文内容由[LGBT迫害](https://zh.wikipedia.org/wiki/LGBT迫害)转换而来。
+
+
 **LGBT迫害**，即**對同性戀、雙性戀與跨性別人士的迫害**（英文：**Persecution of lesbians, gays, bisexuals, and transgenders**），指一个人因为是或被认为是[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")、[雙性戀或](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")人士而受到政府、團體或個人的[迫害](https://zh.wikipedia.org/wiki/迫害 "wikilink")。針對被攻擊的對象，英文中又有**對男同性戀的攻擊**（gay-bashing）、**對女同性戀的攻擊**（dyke-bashing）、**對跨性別人士的攻擊**（trans-bashing）、**對酷兒的攻擊**（queer-bashing），或者簡單的**攻擊**（bashing）等說法。法律界和媒體界往往以[仇恨犯罪](https://zh.wikipedia.org/wiki/仇恨罪行 "wikilink")、**仇恨暴力**稱之。
 
 ## 政府

@@ -1,3 +1,6 @@
+> 本文内容由[BG巴吞聯足球會](https://zh.wikipedia.org/wiki/BG巴吞聯足球會)转换而来。
+
+
 **BG巴吞聯足球會**（, ）是一家[泰国](../Page/泰国.md "wikilink")职业足球俱乐部，位于[巴吞他尼府](../Page/巴吞他尼府.md "wikilink")，球队持有者为[曼谷玻璃集团有限公司下属](https://zh.wikipedia.org/wiki/曼谷玻璃集团有限公司 "wikilink")[曼谷玻璃足球俱乐部体育有限公司](https://zh.wikipedia.org/wiki/曼谷玻璃足球俱乐部体育有限公司 "wikilink")。
 
 [曼谷玻璃足球俱乐部体育有限公司于](https://zh.wikipedia.org/wiki/曼谷玻璃足球俱乐部体育有限公司 "wikilink")2009年1月收购[泰京银行足球俱乐部](https://zh.wikipedia.org/wiki/泰京银行足球俱乐部 "wikilink")，更改了俱乐部名字，并将主场所在地从[曼谷](../Page/曼谷.md "wikilink")市中心迁往[巴吞他尼府](../Page/巴吞他尼府.md "wikilink")，球队现为[泰国足球超级联赛球队](https://zh.wikipedia.org/wiki/泰国足球超级联赛 "wikilink")\[1\]。

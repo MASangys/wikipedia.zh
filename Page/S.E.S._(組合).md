@@ -1,3 +1,6 @@
+> 本文内容由[S.E.S. \(組合\)](https://zh.wikipedia.org/wiki/S.E.S._\(組合\))转换而来。
+
+
 **S.E.S.**（）是活躍於1990年代後期至2000年代初期的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[Bada](../Page/Bada_\(歌手\).md "wikilink")（）\[1\]、[柳真](../Page/柳真.md "wikilink")（）及[Shoo](../Page/Shoo.md "wikilink")（）（）三名成員組成。
 
 她們是韓國歌壇第一代成功女子團體，並首度讓女子團體活躍至亞洲其他地區；奠定SM娛樂公司後代女團的先路，被譽為永遠的妖精。

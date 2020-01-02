@@ -1,3 +1,6 @@
+> 本文内容由[最终幻想X｜X-2 HD重制版](https://zh.wikipedia.org/wiki/最终幻想X｜X-2_HD重制版)转换而来。
+
+
 X-2 HD重制版; zh-tw:Final Fantasy X{{\!}}X-2 HD Remaster; zh-hk:最終幻想X{{\!}}X-2 HD Remaster; | G1=Games | G2=Square Enix | 1=zh-cn:HD重制版; zh-tw:HD Remaster; }}  | developer = [史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")
 [维塔士](../Page/维塔士.md "wikilink")\[1\] | publisher =  | producer = [北濑佳范](https://zh.wikipedia.org/wiki/北濑佳范 "wikilink")
 克里斯托弗·冈东

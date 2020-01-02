@@ -1,3 +1,6 @@
+> 本文内容由[WPP集团](https://zh.wikipedia.org/wiki/WPP集团)转换而来。
+
+
 **WPP集团**（**WPP plc**）（），英国的一家[广告和](https://zh.wikipedia.org/wiki/广告 "wikilink")[公关服务](../Page/公共关系.md "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")，是全球最大的[广告传播集团](https://zh.wikipedia.org/wiki/广告 "wikilink")，在110个国家里有3,000个办事处，员工达162,000多人。\[1\]\[2\]总部设在[伦敦](../Page/伦敦.md "wikilink")，执行部在[爱尔兰](../Page/爱尔兰.md "wikilink")[都柏林](../Page/都柏林.md "wikilink")。\[3\]其营业范围包括广告、[公共关系](../Page/公共关系.md "wikilink")、游说、[品牌](../Page/品牌.md "wikilink")形象与沟通。
 
 WPP集团拥有一系列大型的下属广告传媒公司，包括、、[伟达公关](../Page/伟达公共关系顾问公司.md "wikilink")、（JWT）、[奥美](../Page/奥美.md "wikilink")集团、、、與等\[4\]。

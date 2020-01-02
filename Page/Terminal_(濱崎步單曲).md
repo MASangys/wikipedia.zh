@@ -1,3 +1,6 @@
+> 本文内容由[Terminal \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Terminal_\(濱崎步單曲\))转换而来。
+
+
 \-{T|Terminal}-
 
 《**Terminal**》為[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第52張單曲，由荷蘭知名百大DJ[阿曼·凡·布倫作曲](https://zh.wikipedia.org/wiki/阿曼·凡·布倫 "wikilink")，2014年10月1日於日本發售\[1\]。台灣首次無發行台壓版單曲。

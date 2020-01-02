@@ -1,3 +1,6 @@
+> 本文内容由[葡萄牙士砵亭B隊](https://zh.wikipedia.org/wiki/葡萄牙士砵亭B隊)转换而来。
+
+
 **葡萄牙士砵亭B隊**（），葡萄牙職業足球會，位於里斯本，成立於2000年，於2004年解散，在2012年重建，現時於[葡甲作賽](https://zh.wikipedia.org/wiki/葡甲 "wikilink")。他們是[士砵亭的預備隊](https://zh.wikipedia.org/wiki/士砵亭 "wikilink")。他們不容許參與[葡萄牙盃](../Page/葡萄牙盃.md "wikilink")及[葡聯盃](https://zh.wikipedia.org/wiki/葡聯盃 "wikilink")。
 
 ## 外部連結

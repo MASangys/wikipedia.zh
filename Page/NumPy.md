@@ -1,3 +1,6 @@
+> 本文内容由[NumPy](https://zh.wikipedia.org/wiki/NumPy)转换而来。
+
+
 **NumPy**是[Python](../Page/Python.md "wikilink")語言的一個擴充程式庫。支援高階大量的[維度](../Page/維度.md "wikilink")[陣列與](https://zh.wikipedia.org/wiki/陣列 "wikilink")[矩陣運算](https://zh.wikipedia.org/wiki/矩陣 "wikilink")，此外也針對陣列運算提供大量的[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")[函數](https://zh.wikipedia.org/wiki/函數 "wikilink")[函式庫](../Page/函式庫.md "wikilink")。NumPy的前身**Numeric**最早是由Jim Hugunin與其它協作者共同開發，2005年，Travis Oliphant在Numeric中結合了另一個同性質的程式庫Numarray的特色，並加入了其它擴充功能而開發了NumPy。NumPy為開放原始碼並且由許多協作者共同維護開發。
 
 ## 特色

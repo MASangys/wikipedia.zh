@@ -1,3 +1,6 @@
+> 本文内容由[3rd個人LIVE \~睡著或醒著的YUKIRIN世界\~會讓你更加着迷哦\~](https://zh.wikipedia.org/wiki/3rd個人LIVE_\~睡著或醒著的YUKIRIN世界\~會讓你更加着迷哦\~)转换而来。
+
+
 **3rd個人LIVE\~睡著或醒著的YUKIRIN世界\~會讓你更加着迷哦\~**（），是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")以DVD及BD形式發行的影像作品，收錄了2013年11月7日在[横浜アリーナ舉辦的演唱會](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")，2014年3月19日由Avex Marketing發行。
 
 ## 收錄歌曲

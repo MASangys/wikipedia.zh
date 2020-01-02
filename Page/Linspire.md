@@ -1,3 +1,6 @@
+> 本文内容由[Linspire](https://zh.wikipedia.org/wiki/Linspire)转换而来。
+
+
 [LinspireLogo.gif](https://zh.wikipedia.org/wiki/File:LinspireLogo.gif "fig:LinspireLogo.gif")
 
 **Linspire**是种基于[Debian](../Page/Debian.md "wikilink") [GNU/Linux的操作系统](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。外观上类似[Microsoft Windows XP或Apple](https://zh.wikipedia.org/wiki/Microsoft_Windows_XP "wikilink") [Mac OSX](https://zh.wikipedia.org/wiki/Mac_OSX "wikilink")。Linspire具备Linux的强大及稳定，同時具有Windows环境般的易用性。此外，Linspire还包括独特的 Click-N-Run（CNR）技术，这使得在Linspire上安装软件迅速而简单——只要在Click-N-Run软件仓库中找到你想安装的软件，然后点击运行即可。

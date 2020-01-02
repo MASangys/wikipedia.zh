@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation 2](https://zh.wikipedia.org/wiki/PlayStation_2)转换而来。
+
+
 **PlayStation 2**（日文：**プレ**イ**ステ**ーション**2**，日文簡稱**プレステ2**。），簡稱**PS2**，是[索尼電腦娛樂](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")（SCE）在2000年3月4日開始販售的家用[遊戲機](https://zh.wikipedia.org/wiki/電視遊戲 "wikilink")。在[中国大陆](../Page/中国大陆.md "wikilink")，索尼（中國）的行銷口號是：「△○×□，很有[PS风格的感觉](../Page/PlayStation.md "wikilink")」。在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，索尼電腦娛樂（台湾）則是以：「就是這一部」，強調不仅能玩遊戲更能播放[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。主要競爭對手是世嘉的[Dreamcast](../Page/Dreamcast.md "wikilink")、微軟的[Xbox和任天堂的](../Page/Xbox_\(遊戲機\).md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。PS2平台上已推出了達10,828款遊戲。\[1\]PS2擁有數個[家用遊戲機的紀錄](https://zh.wikipedia.org/wiki/家用遊戲機 "wikilink")：史上最高銷量（1億5768萬部）、销售时间最長（12年）、官方廠商支持時間最長（18年）。
 
 索尼娱乐于2012年12月28日在日本官网上发布消息，確認PS2正式终止销售，至此全世界累计销售1亿5000万部以上。\[2\]日本Sony官方宣布主機維修期限至2018年8月31日止。\[3\]

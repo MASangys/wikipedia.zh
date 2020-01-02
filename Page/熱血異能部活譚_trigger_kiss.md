@@ -1,3 +1,6 @@
+> 本文内容由[熱血異能部活譚 trigger kiss](https://zh.wikipedia.org/wiki/熱血異能部活譚_trigger_kiss)转换而来。
+
+
 《熱血異能部活譚 trigger kiss》（熱血異能部活譚 trigger kiss），是由日本otomate（idea factory）公司發售的女性向戀愛遊戲。
 
 ## 故事簡介

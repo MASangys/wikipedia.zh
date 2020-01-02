@@ -1,3 +1,6 @@
+> 本文内容由[RubyGems](https://zh.wikipedia.org/wiki/RubyGems)转换而来。
+
+
 **RubyGems**是[Ruby](../Page/Ruby.md "wikilink")的一个[包管理器](https://zh.wikipedia.org/wiki/包管理器 "wikilink")，提供了分发Ruby程序和[函式庫](../Page/函式庫.md "wikilink")的标准格式“gem”，旨在方便地管理gem安装的工具，以及用于分发gem的服务器。这类似于[Python](../Page/Python.md "wikilink")的[pip](../Page/Pip_\(軟件包管理系統\).md "wikilink")。RubyGems大约创建于2003年11月，从Ruby 1.9版起成为Ruby标准库的一部分。
 
 ## Gem

@@ -1,3 +1,6 @@
+> 本文内容由[XHamster](https://zh.wikipedia.org/wiki/XHamster)转换而来。
+
+
 **XHamster**，是一個免費[色情](../Page/色情.md "wikilink")影片分享網站，在2014年11月世界百大網站排行中，排名57位。
 
 ## 惡意廣告

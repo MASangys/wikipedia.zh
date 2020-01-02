@@ -1,3 +1,6 @@
+> 本文内容由[SYN cookie](https://zh.wikipedia.org/wiki/SYN_cookie)转换而来。
+
+
 **SYN cookie** 是一种用于阻止 [SYN flood](../Page/SYN_flood.md "wikilink") 攻击的技术。这项技术的主要发明人 [Daniel J. Bernstein](https://zh.wikipedia.org/wiki/Daniel_J._Bernstein "wikilink") 将 SYN cookies 定义为“TCP 服务器进行的对开始[TCP数据包序列数字的特定选择](../Page/传输控制协议.md "wikilink")”。举例来说，SYN Cookies 的应用允许服务器当 SYN 队列被填满时避免丢弃连接。相反，服务器会表现得像 SYN 队列扩大了一样。服务器会返回适当的 [SYN+ACK](https://zh.wikipedia.org/wiki/SYN+ACK "wikilink") 响应，但会丢弃 SYN 队列条目。如果服务器接收到客户端随后的ACK响应，服务器能够使用编码在 TCP 序号内的信息重构 SYN 队列条目。
 
 ## 实现

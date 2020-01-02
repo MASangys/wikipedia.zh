@@ -1,3 +1,6 @@
+> 本文内容由[Rabbit Card](https://zh.wikipedia.org/wiki/Rabbit_Card)转换而来。
+
+
 **Rabbit Card**（[泰語](https://zh.wikipedia.org/wiki/泰語 "wikilink")：**บัตรแรบบิท**；中文非官方譯名：**免子卡**）是[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷](../Page/曼谷.md "wikilink")通用的[電子收費系統](https://zh.wikipedia.org/wiki/電子收費系統 "wikilink")，於2012年5月起由[泰國BTS集團控股有限公司旗下的曼谷智能卡系統有限公司](https://zh.wikipedia.org/wiki/泰國BTS集團控股有限公司 "wikilink")（Bangkok Smartcard System Company Limited (BSS) ）推出發行，當時用於向[曼谷大眾運輸系統](../Page/曼谷大眾運輸系統.md "wikilink")（BTS）的乘客收取車費，並取替原有曼谷大眾運輸系統的[SmartPass智能卡](https://zh.wikipedia.org/wiki/曼谷大眾運輸系統#.E6.99.BA.E8.83.BD.E5.8D.A1.EF.BC.88SmartPass.EF.BC.89.EF.BC.88.E5.B7.B2.E5.81.9C.E6.AD.A2.E7.99.BC.E8.A1.8C.EF.BC.89 "wikilink")。時至今日Rabbit Card已經可於多個地點增值及當作電子貨幣使用。
 
 ## 關於

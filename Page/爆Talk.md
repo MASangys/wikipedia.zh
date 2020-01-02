@@ -1,3 +1,6 @@
+> 本文内容由[爆Talk](https://zh.wikipedia.org/wiki/爆Talk)转换而来。
+
+
 《**爆Talk**》（）是[香港電視網絡](../Page/香港電視網絡.md "wikilink")所製作的綜藝清談節目，由[劉玉翠](../Page/劉玉翠.md "wikilink")、[古天祥](../Page/古天祥.md "wikilink")及[黃冠斌](../Page/黃冠斌.md "wikilink")主持。節目每集邀請不同嘉賓進行爆料訪談，與觀眾分享明星趣事。
 
 ## 節目列表

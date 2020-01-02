@@ -1,3 +1,6 @@
+> 本文内容由[Mamma Mia \(Kara单曲\)](https://zh.wikipedia.org/wiki/Mamma_Mia_\(Kara单曲\))转换而来。
+
+
 「**Mamma Mia**」（）是韩国流行女子组合[KARA继妮可与知英退出](https://zh.wikipedia.org/wiki/KARA "wikilink")，在选秀节目《Kara Project-Kara The Beginning》中胜出的新成员英智加入后推出的首张日文單曲，即第11張日文單曲。2014年8月27日由[UNIVERSAL SIGMA以初回限定盤A](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")、B、C三种形态發售。
 
 ## 收錄曲

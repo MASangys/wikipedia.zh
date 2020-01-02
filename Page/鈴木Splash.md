@@ -1,3 +1,6 @@
+> 本文内容由[鈴木Splash](https://zh.wikipedia.org/wiki/鈴木Splash)转换而来。
+
+
 **鈴木Splash**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2008年至2014年間開發製造的[都市車](../Page/都市車.md "wikilink")，其兄弟車為、佛賀Agila（[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")）。由於[福特汽車已經在](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[印度](../Page/印度.md "wikilink")市場註冊使用「Splash」，故[馬魯蒂鈴木公司](../Page/馬魯蒂鈴木公司.md "wikilink")將之取名為**馬魯蒂Ritz**。原廠位於[中國](../Page/中國.md "wikilink")的合資企業昌河鈴木於2011年將之國產化，命名為**鈴木派喜**。
 
 ## 歷史與概要

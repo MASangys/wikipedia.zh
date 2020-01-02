@@ -1,3 +1,6 @@
+> 本文内容由[GUNDAM系列作品](https://zh.wikipedia.org/wiki/GUNDAM系列作品)转换而来。
+
+
 《**鋼彈系列**》為[富野由悠季](../Page/富野由悠季.md "wikilink")自1979年所制作[機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")一作所派生出來的一連串續作、外傳及其他系列的總稱。ガンダム（GUN-{}-DAM）在中國大陸一般譯為高-{}-達或敢-{}-達、港澳譯為高-{}-達，臺灣譯為鋼-{}-彈。
 
 這個由[日本](../Page/日本.md "wikilink")動畫公司[日昇](../Page/日昇.md "wikilink")（Sunrise）之下制作的系列[SF](https://zh.wikipedia.org/wiki/科幻 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，对以日本為首的世界全球次文化界产生重大的影响。除了[动画](../Page/动画.md "wikilink")以外，作品还广泛出现在[电影](../Page/电影.md "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[小说](../Page/小说.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")、[特摄](https://zh.wikipedia.org/wiki/特摄 "wikilink")、[模型等](https://zh.wikipedia.org/wiki/模型 "wikilink")。本身品牌市值據估計逾500億日元。\[1\]

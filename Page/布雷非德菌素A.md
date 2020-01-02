@@ -1,3 +1,6 @@
+> 本文内容由[布雷非德菌素A](https://zh.wikipedia.org/wiki/布雷非德菌素A)转换而来。
+
+
 **布雷非德菌素A**（）是一种大环[内酯](../Page/内酯.md "wikilink")类[抗生素](https://zh.wikipedia.org/wiki/抗生素 "wikilink")，由[布雷正青霉菌](../Page/布雷正青霉菌.md "wikilink")（*Penicillium brefeldianum*）等[真菌](../Page/真菌.md "wikilink")组织产生\[1\]。布雷非德菌素A能通过阻止[COPI被膜小泡的形成来抑制从](https://zh.wikipedia.org/wiki/COPI "wikilink")[内质网](../Page/内质网.md "wikilink")到[高尔基体](../Page/高尔基体.md "wikilink")的蛋白质转运\[2\]。布雷非德菌素A最初被当做抗病毒药物分离出来\[3\]，但现今的主要作用是在[细胞生物学](../Page/细胞生物学.md "wikilink")中研究蛋白质的转运。
 
 ## 物理性质

@@ -1,3 +1,6 @@
+> 本文内容由[IgM](https://zh.wikipedia.org/wiki/IgM)转换而来。
+
+
 [IgM.png](https://zh.wikipedia.org/wiki/File:IgM.png "fig:IgM.png") [IgM_scheme.svg](https://zh.wikipedia.org/wiki/File:IgM_scheme.svg "fig:IgM_scheme.svg") **免疫球蛋白M**（或简称为**IgM**）是由[B细胞](../Page/B细胞.md "wikilink")分泌的一种基本[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")。IgM是迄今为止实际发现的在人体循环系统中的最大抗体。它也是接触抗原首先发生反应的第一抗体。\[1\][脾脏](../Page/脾脏.md "wikilink")是IgM的最大生产者。 \[2\]
 
 ## 描述

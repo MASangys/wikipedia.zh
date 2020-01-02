@@ -1,3 +1,6 @@
+> 本文内容由[GreatFire](https://zh.wikipedia.org/wiki/GreatFire)转换而来。
+
+
 **GreatFire**（GreatFire.org）是一家監控[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[防火長城封鎖狀況的](https://zh.wikipedia.org/wiki/防火長城 "wikilink")[非營利組織](../Page/非營利組織.md "wikilink")，以及幫助中國大陸網路使用者繞過[中國網路審查和封鎖的工具站](https://zh.wikipedia.org/wiki/中國網路審查 "wikilink")\[1\]\[2\]\[3\]。
 
 Greatfire網站也提供測試系統，讓用戶能夠即時測試特定網站或关键字是否遭到防火長城封鎖。該組織的口號是「带给您中国防火墙封锁的最新资讯」\[4\]。[自由微博](../Page/自由微博.md "wikilink")是該組織旗下的網站，合作方有泡泡網-{}-民報告\[5\]\[6\]、[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（BBC）\[7\]。

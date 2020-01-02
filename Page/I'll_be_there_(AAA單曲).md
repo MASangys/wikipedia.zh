@@ -1,3 +1,6 @@
+> 本文内容由[I\'ll be there \(AAA單曲\)](https://zh.wikipedia.org/wiki/I\'ll_be_there_\(AAA單曲\))转换而来。
+
+
 《**I'll be there**》是[日本](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")43张[单曲](../Page/单曲.md "wikilink")，於2015年1月28日由[avex trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要

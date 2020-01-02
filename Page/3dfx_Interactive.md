@@ -1,3 +1,6 @@
+> 本文内容由[3dfx Interactive](https://zh.wikipedia.org/wiki/3dfx_Interactive)转换而来。
+
+
 [缩略图](https://zh.wikipedia.org/wiki/File:VSA-100_GPUs.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:3dfx_Voodoo_5500.jpg "fig:缩略图") **3dfx Interactive**是一家专门制造[显卡和](https://zh.wikipedia.org/wiki/显卡 "wikilink")[GPU的公司](https://zh.wikipedia.org/wiki/GPU "wikilink")，於1994年成立。1996年成為此领域的最初垄断者，在2000年12月25日被其主要竞争对手[NVIDIA以](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")7000万美元现金以及100万股票收购\[1\]，并于2002年宣布破产并结业。
 
 1997年3月31日3dfx剝離出其板卡製造部門，獨立為[Quantum3D](https://zh.wikipedia.org/wiki/Quantum3D "wikilink")（量子三維）公司，為美國軍用電子設備製造商。在1998年12月14日3dfx收購STB Systems公司後，其顯示卡的生產開始由自家獨攬，並不授權晶片給予第三方廠商生產，導致其成本過高，且其後期產品的設計循規蹈矩，創新力大減，最終導致其公司的破產並被競爭對手NVIDIA併購。

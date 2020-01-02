@@ -1,3 +1,6 @@
+> 本文内容由[NINJA SLAYER忍者殺手](https://zh.wikipedia.org/wiki/NINJA_SLAYER忍者殺手)转换而来。
+
+
 是美國作家Bradley Bond與Philip Ninj@ Morzez兩人共同創作的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，類型為「[賽博朋克](https://zh.wikipedia.org/wiki/賽博朋克 "wikilink")・[忍者](../Page/忍者.md "wikilink")格鬥小說」。2010年，小說內容被本兌有和杉ライカ兩人翻譯成日文在[推特上連載](https://zh.wikipedia.org/wiki/推特 "wikilink")。2012年，由[enterbrain出版日文小說單行本](https://zh.wikipedia.org/wiki/enterbrain "wikilink")。2015年，由[TRIGGER](../Page/TRIGGER.md "wikilink")製作的改編[網路動畫開始放送](https://zh.wikipedia.org/wiki/網路動畫 "wikilink")。
 
 ## 概要

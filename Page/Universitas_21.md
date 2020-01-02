@@ -1,3 +1,6 @@
+> 本文内容由[Universitas 21](https://zh.wikipedia.org/wiki/Universitas_21)转换而来。
+
+
 [Universitas_21_logo.png](https://zh.wikipedia.org/wiki/File:Universitas_21_logo.png "fig:Universitas_21_logo.png") **Universitas 21，**簡稱**U21**，是一个由全球21所优秀的研究型[大学所组成的大學联盟](https://zh.wikipedia.org/wiki/大学 "wikilink")。这一联盟團體没有中文译名，仅以Universitas 21称呼之。这个联盟的宗旨是促進这些学校的教學、科學研究和学术水平；加强成员大學的世界交際能力；并且在成员之間建立国际性的共同标准和共识。
 
 Universitias 21創立于1997年，至今成員分布於12个不同的国家暨地區，由21所大學所共同组成。最新加入的大學是印度[德里大學](https://zh.wikipedia.org/wiki/德里大學 "wikilink")，該校於2007年正式加入。这21所成员大學约有500,000名在校学生，40,000研究人员，并有约2百万名畢業校友。

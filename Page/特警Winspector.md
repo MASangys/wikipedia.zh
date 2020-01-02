@@ -1,3 +1,6 @@
+> 本文内容由[特警Winspector](https://zh.wikipedia.org/wiki/特警Winspector)转换而来。
+
+
 |                                                               |
 | ------------------------------------------------------------- |
 | **[金屬英雄系列](https://zh.wikipedia.org/wiki/金屬英雄系列 "wikilink")** |

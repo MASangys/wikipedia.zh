@@ -1,3 +1,6 @@
+> 本文内容由[IMC-40枪挂榴弹发射器](https://zh.wikipedia.org/wiki/IMC-40枪挂榴弹发射器)转换而来。
+
+
 **IMC-40**主要被用作同其他单兵武器 （如[突击步枪](../Page/突击步枪.md "wikilink")、[冲锋枪](../Page/冲锋枪.md "wikilink")等，尤其是同为哥伦比亚军事工业公司生产的**[5.56毫米](../Page/5.56×45mm_NATO.md "wikilink")[伽利尔突击步枪AR型和SAR型](https://zh.wikipedia.org/wiki/IMI_Galil突击步枪 "wikilink")**）搭配使用的附件，从而实现单兵能同时拥有发射5.56毫米子弹和所有[40毫米榴弹的能力](https://zh.wikipedia.org/wiki/40毫米榴弹 "wikilink")。
 
 ## 设计

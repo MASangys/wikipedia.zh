@@ -1,3 +1,6 @@
+> 本文内容由[Utopia](https://zh.wikipedia.org/wiki/Utopia)转换而来。
+
+
 《**Utopia**》於1995年5月15日 發行，是[太極樂隊](../Page/太極樂隊.md "wikilink")第十張粵語大碟。
 
 ## 介紹

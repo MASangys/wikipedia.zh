@@ -1,3 +1,6 @@
+> 本文内容由[Rogue](https://zh.wikipedia.org/wiki/Rogue)转换而来。
+
+
 《**Rogue**》是[迷宫探索式](https://zh.wikipedia.org/wiki/迷宫探索 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")，最早由迈克尔·托依和格伦·韦科曼在1980年左右开发。部分因为游戏内容的[过程生成](https://zh.wikipedia.org/wiki/过程生成 "wikilink")\[1\]，游戏在1980年代中期大学[Unix系统上很流行](https://zh.wikipedia.org/wiki/Unix "wikilink")\[2\]。《Rogue》使迷宫探索在电子游戏领域普及，其他开发者制作了诸多统称为“类rogue”（[Roguelike](../Page/Roguelike.md "wikilink")）的派生作品\[3\]。比如它直接给与了《》灵感\[4\]\[5\]，此游戏之后又衍生出《[NetHack](../Page/NetHack.md "wikilink")》\[6\]。类rogue还影响了其他类型的商业游戏，如《[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")》\[7\]。
 
 ## 参考文献

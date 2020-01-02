@@ -1,3 +1,6 @@
+> 本文内容由[导盲犬小Q](https://zh.wikipedia.org/wiki/导盲犬小Q)转换而来。
+
+
 《**再見了，可魯**》是日本[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")和[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")[秋元良平根據真人實事所合著的](https://zh.wikipedia.org/wiki/秋元良平 "wikilink")[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")。並改编為同名[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2003年6月在[NHK播出](https://zh.wikipedia.org/wiki/NHK "wikilink")；同名[电影](../Page/电影.md "wikilink")于2004年3月13日在[日本](../Page/日本.md "wikilink")上映，并于2004年9月25日发行了DVD。2019年香港根據小說改編拍攝電影《[小Q](../Page/小Q.md "wikilink")》。
 
 ## 剧情介绍

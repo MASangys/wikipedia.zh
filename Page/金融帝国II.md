@@ -1,3 +1,6 @@
+> 本文内容由[金融帝国II](https://zh.wikipedia.org/wiki/金融帝国II)转换而来。
+
+
 是[模拟经营游戏](https://zh.wikipedia.org/wiki/模拟经营 "wikilink")《[金融帝国](https://zh.wikipedia.org/wiki/金融帝国 "wikilink")》的续作。此游戏由[Enlight开发](https://zh.wikipedia.org/wiki/Enlight "wikilink")，并由[育碧](../Page/育碧.md "wikilink")在2001年发行。金融帝国2可运行在[Windows 98及其之后的](../Page/Windows_98.md "wikilink")[Windows操作系统中](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及Mac OS X（由 Virtual Programming移植）。
 
 在游戏中，玩家将控制一个亲自创建的商业帝国。这个较为深入的游戏模拟了现实世界的商业中可能遇到的每个方面，包括市场营销、制造、采购、进口、零售等。《金融帝国II》附带一套较为深入的教程，而《金融帝国扩展包》将教程换成了挑战模式。游戏操作非常类似于上一版。但与《[金融帝國](https://zh.wikipedia.org/wiki/金融帝國 "wikilink")》相比，此版本的农产品种类大幅减少。

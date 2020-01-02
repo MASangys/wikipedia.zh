@@ -1,3 +1,6 @@
+> 本文内容由[J·威廉·富布赖特](https://zh.wikipedia.org/wiki/J·威廉·富布赖特)转换而来。
+
+
 **詹姆斯·威廉·富-{}-布賴特**\[1\]\[2\]（，，臺譯**傅爾-{}-布萊特**\[3\]）是一名[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[阿肯色州](../Page/阿肯色州.md "wikilink")[參議員](https://zh.wikipedia.org/wiki/參議員 "wikilink")，任期從1945年1月到1974年12月他辭職為止。\[4\]
 
 富布賴特是人。他是堅定的[多邊主義者](https://zh.wikipedia.org/wiki/多邊主義 "wikilink")，支持建立[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，也是[美國參議院外交關係委員會史上任職時間最長的主席](https://zh.wikipedia.org/wiki/美國參議院外交關係委員會 "wikilink")。他支持[種族隔離](https://zh.wikipedia.org/wiki/種族隔離 "wikilink")，簽署了[南方宣言](https://zh.wikipedia.org/wiki/南方宣言 "wikilink")。他反對[麥卡錫主義和](https://zh.wikipedia.org/wiki/麥卡錫主義 "wikilink")[眾議院非美活動委員會](https://zh.wikipedia.org/wiki/眾議院非美活動委員會 "wikilink")，後來以反對美國捲入[越戰而聞名](https://zh.wikipedia.org/wiki/越戰 "wikilink")。他努力建立國際交流計劃，最終導致建立一個以他的名字命名的獎學金計劃——[富布賴特計劃](https://zh.wikipedia.org/wiki/富布賴特計劃 "wikilink")。

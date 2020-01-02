@@ -1,3 +1,6 @@
+> 本文内容由[5th Anniversary tour 2014「MOMENT」LIVE 2DVD](https://zh.wikipedia.org/wiki/5th_Anniversary_tour_2014「MOMENT」LIVE_2DVD)转换而来。
+
+
 《 **5th Anniversary tour 2014「MOMENT」LIVE 2DVD**》是日本樂團[凡人譜](../Page/凡人譜.md "wikilink")第五張演唱會DVD，於2014年12月24日發行\[1\]。flumpool[凡人譜](../Page/凡人譜.md "wikilink")出道5週年之集大成，收錄[橫濱ARENA](https://zh.wikipedia.org/wiki/橫濱 "wikilink")＆[大阪城](../Page/大阪城.md "wikilink")HALL連續4天舉辦的演唱會中，橫濱ARENA最終公演紀念演唱會畫面\[2\]！
 
 ## 曲目

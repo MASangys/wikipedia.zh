@@ -1,3 +1,6 @@
+> 本文内容由[HIFK足球會](https://zh.wikipedia.org/wiki/HIFK足球會)转换而来。
+
+
 **赫尔辛基体育会足球队**（，通称为“**-{zh-cn:HIFK赫尔辛基; zh-hk:HIFK足球會; zh-tw:HIFK赫爾辛基;}-**”），是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")（，缩写为“HIFK”）之下的一支职业足球队。其男子代表队参加[芬兰足球超级联赛](https://zh.wikipedia.org/wiki/芬兰足球超级联赛 "wikilink")。该球队的主场是。
 
 ## 外部連結

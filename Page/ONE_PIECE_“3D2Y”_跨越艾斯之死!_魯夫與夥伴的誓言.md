@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE “3D2Y” 跨越艾斯之死! 魯夫與夥伴的誓言](https://zh.wikipedia.org/wiki/ONE_PIECE_“3D2Y”_跨越艾斯之死!_魯夫與夥伴的誓言)转换而来。
+
+
 《**ONE PIECE -{“~~3D~~2Y”}- 跨越艾斯之死！ 魯夫與夥伴的誓言**》（）是電視動畫《[ONE PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特別節目，於2014年8月30日在日本[富士電視台](../Page/富士電視台.md "wikilink")播出。
 
 ## 製作

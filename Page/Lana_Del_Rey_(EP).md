@@ -1,3 +1,6 @@
+> 本文内容由[Lana Del Rey \(EP\)](https://zh.wikipedia.org/wiki/Lana_Del_Rey_\(EP\))转换而来。
+
+
 ***《Lana Del Rey》*** 是[美国](../Page/美国.md "wikilink")歌手-{A|zh-hans:[拉娜·德雷](../Page/拉娜·德雷.md "wikilink");zh-hant:[拉娜·德芮](../Page/拉娜·德雷.md "wikilink");}-（Lana Del Rey）的第二张EP，于2012年1月10日透过[新视镜唱片公司在](https://zh.wikipedia.org/wiki/新视镜唱片公司 "wikilink")[美国](../Page/美国.md "wikilink")和[加拿大](../Page/加拿大.md "wikilink")发行。
 
 ## 曲目列表

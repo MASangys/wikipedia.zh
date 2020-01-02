@@ -1,3 +1,6 @@
+> 本文内容由[Lykan HyperSport](https://zh.wikipedia.org/wiki/Lykan_HyperSport)转换而来。
+
+
 **Lykan Hypersport**是由成立於2012年的[黎巴嫩](../Page/黎巴嫩.md "wikilink")的公司所限量生產的跑車，是[中東地區所生產的第一個](https://zh.wikipedia.org/wiki/中東地區 "wikilink")[超級跑車](../Page/超級跑車.md "wikilink")。\[1\] W Motors計劃只生產7台車。\[2\] 第一輛預先生產的Lykan HyperSport於2013年11月的推出。\[3\]
 
 ## 世界上最貴的車

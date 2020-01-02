@@ -1,3 +1,6 @@
+> 本文内容由[MISIA](https://zh.wikipedia.org/wiki/MISIA)转换而来。
+
+
 （2002年 - 2007年）{{→}}[BMG JAPAN](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")（2007年 - 2008年）{{→}}（2009年 - 至今） |Associated_acts = |URL =  }}
 
 **米希亞**（；）是[日本](../Page/日本.md "wikilink")女性歌手、作曲家，出生於[長崎縣](https://zh.wikipedia.org/wiki/長崎縣 "wikilink")[對馬市](../Page/對馬市.md "wikilink")，所屬經紀公司為，所屬唱片公司為[日本索尼音乐旗下品牌](../Page/日本索尼音樂娛樂.md "wikilink")。[生物多样性公约签署国第](../Page/生物多樣性公約.md "wikilink")10次会议形象大使。

@@ -1,3 +1,6 @@
+> 本文内容由[Freedesktop.org](https://zh.wikipedia.org/wiki/Freedesktop.org)转换而来。
+
+
 **freedesktop.org**（**fd.o**）是一个致力于[Linux](../Page/Linux.md "wikilink")和其他[类Unix上的](https://zh.wikipedia.org/wiki/类Unix "wikilink")[X窗口系统的](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")之间的互操作性和基础技术共享的项目。由[红帽的](https://zh.wikipedia.org/wiki/红帽 "wikilink")[Havoc Pennington於](https://zh.wikipedia.org/wiki/Havoc_Pennington "wikilink")2000年3月创立。
 
 该组织关注用户。目前X有很多开发框架，将来很可能也这样。而该组织力求这其中的不同不会为最终用户所察觉。

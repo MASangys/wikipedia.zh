@@ -1,3 +1,6 @@
+> 本文内容由[巨輪II](https://zh.wikipedia.org/wiki/巨輪II)转换而来。
+
+
 《**巨輪II**》（英语：**Brother's Keeper II**），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")拍攝製作的時裝倫理[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，故事背景以商业竞争為題。由[蕭正楠](../Page/蕭正楠.md "wikilink")、[田蕊妮](../Page/田蕊妮.md "wikilink")及[陳凱琳領銜主演](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")，由[陳展鵬](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")、[鍾嘉欣特別演出](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，並由[楊明](../Page/楊明.md "wikilink")、[吳岱融](../Page/吳岱融.md "wikilink")、[阮兆祥](../Page/阮兆祥.md "wikilink")及[梁琤](../Page/梁琤.md "wikilink")聯合主演，監製[王心慰](../Page/王心慰.md "wikilink")。
 
 此劇是《[巨輪](../Page/巨輪.md "wikilink")》的續集，亦繼續由[钜記餅家冠名贊助](https://zh.wikipedia.org/wiki/钜記餅家 "wikilink")，並於[澳門](../Page/澳門.md "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")取景。

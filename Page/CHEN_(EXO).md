@@ -1,3 +1,6 @@
+> 本文内容由[CHEN \(EXO\)](https://zh.wikipedia.org/wiki/CHEN_\(EXO\))转换而来。
+
+
 **金鍾大**（ ，；），[藝名](../Page/藝名.md "wikilink")**Chen**（），[韓國男](https://zh.wikipedia.org/wiki/韓國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，為男子團體[EXO](../Page/EXO.md "wikilink")成員、[中國](../Page/中國.md "wikilink")分隊[EXO-M](../Page/EXO-M.md "wikilink")及三人子團體小分隊[EXO-CBX](../Page/EXO-CBX.md "wikilink")的成員。在隊內擔當三大主唱之一，虛構超能力為「**闪电**」。
 
 ## 演藝經歷

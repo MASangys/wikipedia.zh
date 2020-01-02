@@ -1,3 +1,6 @@
+> 本文内容由[AKB大調查](https://zh.wikipedia.org/wiki/AKB大調查)转换而来。
+
+
 《**AKB大調查**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")自2014年10月16日至2015年3月25日，於每星期三24:10至24:35（[JST](../Page/日本標準時間.md "wikilink")；相當於星期四凌晨0:10至0:35）播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")的冠名節目之一，由姊妹團體[HKT48](../Page/HKT48.md "wikilink")成員[指原莉乃](../Page/指原莉乃.md "wikilink")與資深搞笑藝人[土田晃之](../Page/土田晃之.md "wikilink")共同主持，是兩人共同主持的另一個AKB48綜藝節目《》播畢之後的同時段後繼作品。
 
 ## 簡介

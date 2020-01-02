@@ -1,3 +1,6 @@
+> 本文内容由[Dishaster](https://zh.wikipedia.org/wiki/Dishaster)转换而来。
+
+
 《**Dishaster**》是Zimag开发，并于1983年在[雅达利2600发行的](https://zh.wikipedia.org/wiki/雅达利2600 "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。游戏中玩家控制一名女孩，保持细杆顶部平衡不要落下，游戏有不同数量花碟的难度关卡。游戏获得消极评价；批评主要集中于游戏的重复单调。[Bit公司发行了游戏改版](https://zh.wikipedia.org/wiki/Bit公司 "wikilink")《碟舞》（*Dancing Plates*），该作调整图像并加入了更多难度。
 
 ## 玩法

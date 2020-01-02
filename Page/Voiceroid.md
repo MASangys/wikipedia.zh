@@ -1,3 +1,6 @@
+> 本文内容由[Voiceroid](https://zh.wikipedia.org/wiki/Voiceroid)转换而来。
+
+
 **VOICEROID**是由使用AI公司的「AITalk」引擎開發的[語音合成](https://zh.wikipedia.org/wiki/語音合成 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")，用作朗讀[文字](../Page/文字.md "wikilink")。此軟件只有[日文版本](https://zh.wikipedia.org/wiki/日文 "wikilink")。其名字來自AH-Software也有製作聲庫的歌聲合成軟件[Vocaloid](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")。比起普通的語音合成軟件，該軟件有較多不同的設定，例如[速度](../Page/速度_\(音樂\).md "wikilink")、[音高](../Page/音高.md "wikilink")及。
 
 ## 概述

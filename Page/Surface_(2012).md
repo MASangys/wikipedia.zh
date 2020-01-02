@@ -1,3 +1,6 @@
+> 本文内容由[Surface \(2012\)](https://zh.wikipedia.org/wiki/Surface_\(2012\))转换而来。
+
+
 第一代**Surface**是[微软](../Page/微软.md "wikilink")制造发售的[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。它拥有一个10.6英寸ClearType显示屏，运行[Windows RT操作系统](../Page/Windows_RT.md "wikilink")。它的目标受众是平板电脑用户，但仍然追求生产力。Surface 可以用来玩游戏，上网，编辑[Microsoft Office文档](../Page/Microsoft_Office.md "wikilink")，访问社交网络和其他多种用途。
 
 Surface最早是在一个位于[洛杉矶](../Page/洛杉矶.md "wikilink")举办的只面向记者的发布会上发布的。它是第一款微软自行研发生产的PC。\[1\]Surface只可以使用[Wi-Fi](../Page/Wi-Fi.md "wikilink")，无法连接[蜂窝网络](../Page/蜂窝网络.md "wikilink")。这款平板电脑在美国、英国、澳大利亚、加拿大、法国、德国、中国、香港等上市。而运行[Windows 8的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Surface Pro在之后发布](../Page/Surface_Pro.md "wikilink")。\[2\]

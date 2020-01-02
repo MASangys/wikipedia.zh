@@ -1,3 +1,6 @@
+> 本文内容由[Lsjbot](https://zh.wikipedia.org/wiki/Lsjbot)转换而来。
+
+
 [Carlito_syrichta_on_the_shoulder_of_a_human.jpg](https://zh.wikipedia.org/wiki/File:Carlito_syrichta_on_the_shoulder_of_a_human.jpg "fig:Carlito_syrichta_on_the_shoulder_of_a_human.jpg") **Lsjbot**是一个在[维基百科](../Page/维基百科.md "wikilink")上自动创建条目的程序或网络机器人，其开发者为[瑞典语维基百科的](https://zh.wikipedia.org/wiki/瑞典语维基百科 "wikilink")[维基人](../Page/维基人.md "wikilink")斯渥克尔·约翰逊（）。
 
 ## 历史

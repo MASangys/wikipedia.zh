@@ -1,3 +1,6 @@
+> 本文内容由[維A酸](https://zh.wikipedia.org/wiki/維A酸)转换而来。
+
+
 **维A酸**()，又称**全反式维甲酸**及**视黄酸**，分子式：**[C](../Page/碳.md "wikilink")<sub>20</sub>[H](../Page/氢.md "wikilink")<sub>28</sub>[O](../Page/氧.md "wikilink")<sub>2</sub>**，[分子量](../Page/分子量.md "wikilink")300.44，CAS号302-79-4，熔点180℃。
 
 ## 参见

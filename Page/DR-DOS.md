@@ -1,3 +1,6 @@
+> 本文内容由[DR-DOS](https://zh.wikipedia.org/wiki/DR-DOS)转换而来。
+
+
 **DR-DOS**（Digital Research-Disk Operating System）是[數位研究公司](https://zh.wikipedia.org/wiki/數位研究公司 "wikilink")（Digital Research，很多人都和[迪吉多](../Page/迪吉多.md "wikilink")（Digital Equipment Corporation, DEC）混淆，其實兩家公司完全沒有關係）开发的，最初用于[个人电脑](../Page/个人电脑.md "wikilink")上的一种[DOS](../Page/DOS.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。主要支持[IBM PC兼容机](../Page/IBM_PC兼容机.md "wikilink")。
 
 从1990年代PC机广泛使用[Windows 3.x开始](../Page/Windows_3.x.md "wikilink")，DR-DOS系统被逐步被[MS-DOS](../Page/MS-DOS.md "wikilink")取代。到1995年全面采用[Windows 95时](../Page/Windows_95.md "wikilink")，DOS的影响开始减小，DR-DOS也随之在桌面市场迅速衰落。1999年，DR-DOS推出7.03版本，随后在一段时间内一直未有正式更新。目前DR-DOS在单任务[嵌入式设备中还有少量应用](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")，另有极少数DOS爱好者还在研究或使用DR-DOS。

@@ -1,3 +1,6 @@
+> 本文内容由[梦幻之星Nova](https://zh.wikipedia.org/wiki/梦幻之星Nova)转换而来。
+
+
 是[tri-Ace开发的](https://zh.wikipedia.org/wiki/tri-Ace "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，为[梦幻之星系列](../Page/梦幻之星系列.md "wikilink")作品之一。游戏于2014年11月在日本推出。中文版定于2015年3月发行，为系列首款中文化作品\[1\]。
 
 ## 评价

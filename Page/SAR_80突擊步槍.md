@@ -1,3 +1,6 @@
+> 本文内容由[SAR 80突擊步槍](https://zh.wikipedia.org/wiki/SAR_80突擊步槍)转换而来。
+
+
 **SAR 80**（[英语](../Page/英语.md "wikilink")全称：**S**ingapore **A**ssault **R**ifle **80**，意為：80式新加坡突擊步槍）是一枝由[新加坡](../Page/新加坡.md "wikilink")國防企業新加坡特許工業公司（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST Kinetics）}}在1980年代後期自主研發和生產的傳統型[突击步枪](../Page/突击步枪.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史

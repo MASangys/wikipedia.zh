@@ -1,3 +1,6 @@
+> 本文内容由[Maimai](https://zh.wikipedia.org/wiki/Maimai)转换而来。
+
+
 **maimai**（），因為外觀像滾筒洗衣機，所以䁥稱**洗衣機**，是一款由[世嘉](../Page/世嘉.md "wikilink")開發的[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")，對應[智能卡為](https://zh.wikipedia.org/wiki/智能卡 "wikilink")。在[niconico動畫上](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")，總共有超過26萬條與maimai相關的影片，數目與《[偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")》和《[東方Project](https://zh.wikipedia.org/wiki/東方Project "wikilink")》相若，而每月上傳影片數約1.5萬，相等於niconico動畫近一成的上傳數，而總上傳者數約1.2萬人，其中大部份均只是上傳maimai影片，而每月平均上傳人數達3000人，新上傳者則約500人\[1\]。
 
 ## 簡介

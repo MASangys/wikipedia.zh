@@ -1,3 +1,6 @@
+> 本文内容由[Ubuntu](https://zh.wikipedia.org/wiki/Ubuntu)转换而来。
+
+
 **Ubuntu**（[國際音標](../Page/國際音標.md "wikilink")：，）\[1\]\[2\]是以桌面應用為主的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，Ubuntu由[Canonical公司發布](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")，他們提供商業支持\[3\]。它是基於自由軟件，其名稱來自[非洲](../Page/非洲.md "wikilink")南部[祖魯語或](https://zh.wikipedia.org/wiki/祖魯語 "wikilink")[科薩語的](https://zh.wikipedia.org/wiki/科薩語 "wikilink")「ubuntu」一詞（譯為[烏班圖](https://zh.wikipedia.org/wiki/烏班圖 "wikilink")），意思是「人性」、「我的存在是因為大家的存在」，\[4\]是非洲傳統的一種價值觀。
 
 Ubuntu的開發由英國Canonical有限公司主導，南非企業家[Mark Shuttleworth所創立](https://zh.wikipedia.org/wiki/Mark_Shuttleworth "wikilink")。Canonical通過銷售與Ubuntu相關的技術支持和其他服務來產生收益。\[5\] Ubuntu項目公開承諾開源軟件開發的原則；鼓勵人們使用自由軟件，研究它的運作原理，改進和分發。\[6\]\[7\]

@@ -1,3 +1,6 @@
+> 本文内容由[火焰之纹章if](https://zh.wikipedia.org/wiki/火焰之纹章if)转换而来。
+
+
 是[Intelligent Systems開發](../Page/Intelligent_Systems.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")發行的[任天堂3DS](../Page/任天堂3DS.md "wikilink")平臺[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")\[1\]。本作是继《[聖火降魔錄 覺醒](https://zh.wikipedia.org/wiki/聖火降魔錄_覺醒 "wikilink")》之后3DS平台的第二作。虽然角色設計和《觉醒》同为[小崎裕介](https://zh.wikipedia.org/wiki/小崎裕介 "wikilink")，開發團隊也完全相同，但本作的故事和《觉醒》完全没有关联，由《[金田一少年之事件簿](https://zh.wikipedia.org/wiki/金田一少年之事件簿 "wikilink")》漫畫原作者[樹林伸](../Page/樹林伸.md "wikilink")创作\[2\]\[3\]。
 
 游戏于2015年6月25日在日本地区发售，11月6日在台湾香港地区发售日文版，于2016年2月在北美发售，并且相较于日版游戏，欧美版本的游戏内容有一定的删减和修改。\[4\]

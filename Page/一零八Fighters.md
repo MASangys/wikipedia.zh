@@ -1,3 +1,6 @@
+> 本文内容由[一零八Fighters](https://zh.wikipedia.org/wiki/一零八Fighters)转换而来。
+
+
 **《一零八Fighters》**是一部以[中國](../Page/中國.md "wikilink")名著《[水滸傳](https://zh.wikipedia.org/wiki/水滸傳 "wikilink")》為藍本的[香港漫畫](../Page/香港漫畫.md "wikilink"),作者為司徒劍僑。故事講述在[北宋](../Page/北宋.md "wikilink")期間,一群空有大志和本領的奇人異士，因為時代敗壞，生活逼人，苦無向上流動機會，最後被逼落草為寇的一頁頁傳奇故事。\[1\]漫畫着重表達了在利益當前,[道德](../Page/道德.md "wikilink")和仁義被逐漸遺忘的世道,尋覓人性中更有價值的東西如友情、義氣、熱血......
 
 ## 故事大綱

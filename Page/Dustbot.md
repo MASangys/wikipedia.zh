@@ -1,3 +1,6 @@
+> 本文内容由[Dustbot](https://zh.wikipedia.org/wiki/Dustbot)转换而来。
+
+
 **Dustbot**是一款家用[垃圾](../Page/垃圾.md "wikilink")收集[机器人](../Page/机器人.md "wikilink")，可通以过[智能电话或者](https://zh.wikipedia.org/wiki/智能电话 "wikilink")[短信向其发送指令](https://zh.wikipedia.org/wiki/短信 "wikilink")，Dustbot收到指令后，通过[全球定位系統自动走到客户位置](https://zh.wikipedia.org/wiki/全球定位系統 "wikilink")，收集垃圾并且送到垃圾桶。Dustbot还安装有环境传感器，能夠检测沿途污染程度。原型机曾在[意大利](../Page/意大利.md "wikilink")、[瑞典](../Page/瑞典.md "wikilink")、[韩国和](https://zh.wikipedia.org/wiki/韩国 "wikilink")[日本](../Page/日本.md "wikilink")进行试验，Dustbot项目由[欧洲联盟委员会](../Page/欧洲联盟委员会.md "wikilink")资助。
 
 ## 试验和操作

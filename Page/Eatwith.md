@@ -1,3 +1,6 @@
+> 本文内容由[Eatwith](https://zh.wikipedia.org/wiki/Eatwith)转换而来。
+
+
 **EatWith**成立於2012年2月，總部一開始設於[以色列](../Page/以色列.md "wikilink")，之後搬遷至[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，員工共有18人，Times雜誌曾喻EatWith這項服務為餐飲界中的[Airbnb](https://zh.wikipedia.org/wiki/Airbnb "wikilink")，而不同於Airbnb的住宿交換分享，EatWith分享的是各國當地居家美食，更不只提供美食分享機會，還能交流彼此心情故事，人生歷程經驗與融入當地的機會，可讓使用者結交更多新朋友，甚至更能為當地有加入Eatwith分享的用戶增加一筆額外收入，EatWith為當地用戶提供了均價30\~50美金之間的餐點來招待各國旅客，而EatWith再從每一筆當中抽取最多15%的佣金。
 
 EatWith 成立由來

@@ -1,3 +1,6 @@
+> 本文内容由[瀚海星云BBS](https://zh.wikipedia.org/wiki/瀚海星云BBS)转换而来。
+
+
 **瀚海星云BBS**是[中国科学技术大学](../Page/中国科学技术大学.md "wikilink")的官方[BBS](../Page/BBS.md "wikilink")，也是中国[教育网内较早开办的高校官方BBS之一](https://zh.wikipedia.org/wiki/教育网 "wikilink")，和中国高校最早自觉实行[实名制的BBS之一](https://zh.wikipedia.org/wiki/实名制 "wikilink")。其名意取“承瀚海之辽阔，比星云之光华”。
 
 。并且在2012年11月的“十八大”期间和之后，瀚海星云BBS增强了自我审查的力度，如增加了身份显示，重新认证（实名），在站规中加强对[校友](../Page/校友.md "wikilink")帐号违规的处罚力度等等，并且原本显示在首页的“十大热门话题”栏目被隐藏，需要自己点击一次左侧边栏“今日十大”的链接才能看到。

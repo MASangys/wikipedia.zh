@@ -1,3 +1,6 @@
+> 本文内容由[HTN3](https://zh.wikipedia.org/wiki/HTN3)转换而来。
+
+
 **HTN3**，是一能夠指導組氨素3合成的[基因](../Page/基因.md "wikilink")片段\[1\]\[2\]。
 
 ## 功能

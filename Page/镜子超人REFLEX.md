@@ -1,3 +1,6 @@
+> 本文内容由[镜子超人REFLEX](https://zh.wikipedia.org/wiki/镜子超人REFLEX)转换而来。
+
+
 **镜子超人REFLEX**（，）是在2006年发售的特撮作品\[1\]。全3話。
 
 ## 故事簡介

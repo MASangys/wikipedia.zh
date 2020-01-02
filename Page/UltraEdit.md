@@ -1,3 +1,6 @@
+> 本文内容由[UltraEdit](https://zh.wikipedia.org/wiki/UltraEdit)转换而来。
+
+
 **UltraEdit**（原名UltraEdit-32）是跨平台的一套商業性[文字編輯器](https://zh.wikipedia.org/wiki/文字編輯器 "wikilink")，由[IDM Computer Solutions在](https://zh.wikipedia.org/wiki/IDM_Computer_Solutions "wikilink")1994年創造。UltraEdit有很强大的编程功能，支持[巨集](../Page/巨集.md "wikilink")、[語法高亮度顯示和](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")[正则表达式](../Page/正则表达式.md "wikilink")等功能。檔案在標籤中可以被瀏覽和編輯。安裝需要約30 [MB的磁碟空間](https://zh.wikipedia.org/wiki/MB "wikilink")。UltraEdit也支援以[Unicode和](https://zh.wikipedia.org/wiki/Unicode "wikilink")[hex編輯的模式](https://zh.wikipedia.org/wiki/Hex編輯器 "wikilink")。官方網站提供30天試用版本的軟體下載。
 
 ## 參見

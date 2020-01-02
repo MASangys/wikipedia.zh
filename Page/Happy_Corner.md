@@ -1,3 +1,6 @@
+> 本文内容由[Happy Corner](https://zh.wikipedia.org/wiki/Happy_Corner)转换而来。
+
+
 ，是一種在[大中華](../Page/大中華.md "wikilink")地區[男性](../Page/男性.md "wikilink")之間流行的[遊戲或](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[惡作劇](../Page/惡作劇.md "wikilink")行為，始於[學生同儕間的打鬧嬉戲](https://zh.wikipedia.org/wiki/學生 "wikilink")。
 
 [挪威](../Page/挪威.md "wikilink")的中小學也有類似的遊戲，被稱為「」或「」。

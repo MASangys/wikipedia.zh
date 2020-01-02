@@ -1,3 +1,6 @@
+> 本文内容由[JEL分类系统](https://zh.wikipedia.org/wiki/JEL分类系统)转换而来。
+
+
 **JEL分类系统**，是美国经济学会《[经济文献杂志](https://zh.wikipedia.org/wiki/经济文献杂志 "wikilink")》（Journal of Economic Literature）所创立的对[经济学](../Page/经济学.md "wikilink")文献的主题分类系统，并被现代西方经济学界广泛采用。该分类方法主要采用开头的一个[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")[字母](../Page/字母.md "wikilink")与随后的两位[阿拉伯数字](../Page/阿拉伯数字.md "wikilink")一起对经济学各部类进行“辞书式”编码分类。
 
 例如，C71为“C：数理和数量方法”类中，“C7博弈论与讨价还价理论”中的有关“C71：合作博弈”的内容。

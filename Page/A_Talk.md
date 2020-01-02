@@ -1,3 +1,6 @@
+> 本文内容由[A Talk](https://zh.wikipedia.org/wiki/A_Talk)转换而来。
+
+
 《A Talk》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE成員](../Page/4minute.md "wikilink")[泫雅的第三張迷你專輯](../Page/金泫雅.md "wikilink")。於2014年7月28日發行。唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。主打歌為빨개요Red。
 
 主打歌曲《Red》展現了泫雅獨特的氣質和強勁的風格，還以紅色為主色，展現了性感活潑的魅力。第二首歌曲《A Talk》由泫雅親自參與作詞並講述了自己的故事。第三首歌曲《French Kiss》由徐在宇和任光旭，以及曾為國外著名歌手[Lady Gaga](../Page/Lady_Gaga.md "wikilink")、[Owl City製作歌曲的](https://zh.wikipedia.org/wiki/貓頭鷹城市 "wikilink")合作的作品，是一首都市風格的歌曲。該歌曲用快速強烈的嘻哈配樂加上感性的旋律，展現了泫雅性感充滿魅力的風格。

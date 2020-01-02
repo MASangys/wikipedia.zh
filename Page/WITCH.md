@@ -1,3 +1,6 @@
+> 本文内容由[WITCH](https://zh.wikipedia.org/wiki/WITCH)转换而来。
+
+
 《**WITCH**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND第](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")3枚迷你韓語專輯，於2014年10月13日發行，主打歌曲為專輯同名歌曲《WITCH》\[1\]。
 
 ## 曲目

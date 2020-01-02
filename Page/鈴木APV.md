@@ -1,3 +1,6 @@
+> 本文内容由[鈴木APV](https://zh.wikipedia.org/wiki/鈴木APV)转换而来。
+
+
 **鈴木APV**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")2004年起於日本研發、在[印尼鈴木汽車](../Page/印尼鈴木汽車.md "wikilink")組裝製造的商用廂型貨車，亦可供7或8人乘坐，主要銷售[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")、[東南亞](https://zh.wikipedia.org/wiki/東南亞 "wikilink")（[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[汶萊](https://zh.wikipedia.org/wiki/汶萊 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[臺灣](../Page/臺灣.md "wikilink")等）、[拉丁美洲](../Page/拉丁美洲.md "wikilink")（[智利](../Page/智利.md "wikilink")、[多明尼加](../Page/多明尼加.md "wikilink")、[牙買加等](https://zh.wikipedia.org/wiki/牙買加 "wikilink")）等市場。其中「APV」乃「**A**ll **P**urpose **V**ehicle（全用途車）」之縮寫，另外此款車[換牌成](../Page/换牌工程.md "wikilink")。
 
 ## 歷史及概要

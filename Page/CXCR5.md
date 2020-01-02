@@ -1,3 +1,6 @@
+> 本文内容由[CXCR5](https://zh.wikipedia.org/wiki/CXCR5)转换而来。
+
+
 **C-X-C趋化因子受体5**（，**CXC-R5**）也被称为**CD185**（[分化簇](../Page/分化簇.md "wikilink")185）或伯基特淋巴瘤受体1（，**BLR1**）是一种[G蛋白偶联的七跨膜受体](../Page/G蛋白偶联受体.md "wikilink")，属于[CXC趋化因子受体家族](https://zh.wikipedia.org/wiki/CXC趋化因子受体 "wikilink")，其配体为趋化因子[CXCL13](https://zh.wikipedia.org/wiki/CXCL13 "wikilink")（也被称为BLC）。在人类中，CXC-R5蛋白质由 *CXCR5* [基因](../Page/基因.md "wikilink")编码\[1\]。
 
 ## 组织分布与功能

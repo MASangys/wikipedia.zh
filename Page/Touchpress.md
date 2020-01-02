@@ -1,3 +1,6 @@
+> 本文内容由[Touchpress](https://zh.wikipedia.org/wiki/Touchpress)转换而来。
+
+
 **Touchpress**是一个广受好评的\[1\]\[2\]\[3\][应用程序](../Page/应用程序.md "wikilink")开发商和发行商，其总部设在西[伦敦](../Page/伦敦.md "wikilink")。该公司制作针对教育的应用产品，包括：[元素周期表](../Page/元素周期表.md "wikilink")\[4\]，[贝多芬](https://zh.wikipedia.org/wiki/贝多芬 "wikilink")\[5\]，[太阳系模型](https://zh.wikipedia.org/wiki/太阳系 "wikilink")\[6\]， [T.S.艾略特](https://zh.wikipedia.org/wiki/T.S.艾略特 "wikilink")\[7\]，[莎士比亚](https://zh.wikipedia.org/wiki/莎士比亚 "wikilink")\[8\]等。他们的[赤脚世界图览](https://zh.wikipedia.org/wiki/赤脚世界图览 "wikilink")(Barefoot World Atlas)被[苹果公司评为有史以来最优秀的十个应用程序之一](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。\[9\]对于Touchpress 的最新应用程序“迪士尼动画”，[iTunes的App编辑指出](https://zh.wikipedia.org/wiki/iTunes "wikilink")：“我们绝对被迷住了。”\[10\]\[11\]
 
 ## 起源

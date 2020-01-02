@@ -1,3 +1,6 @@
+> 本文内容由[聖鬥士星矢 黃金魂 -soul of gold-](https://zh.wikipedia.org/wiki/聖鬥士星矢_黃金魂_-soul_of_gold-)转换而来。
+
+
 「**聖鬥士星矢 黃金魂 -soul of gold-**」是「[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")」系列的[ONA動畫](https://zh.wikipedia.org/wiki/原創網絡動畫 "wikilink")，為原作動畫的外傳作品。從2015年4月11日開始以兩星期更新一話的形式，逢星期六在網絡上放送\[1\]。
 
 ## 概要

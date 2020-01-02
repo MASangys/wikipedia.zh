@@ -1,3 +1,6 @@
+> 本文内容由[忍者龙剑传III 黄泉的方船](https://zh.wikipedia.org/wiki/忍者龙剑传III_黄泉的方船)转换而来。
+
+
 是[特库摩](../Page/特库摩.md "wikilink")开发并发行的横向卷轴[平台游戏](../Page/平台游戏.md "wikilink")。游戏于1991年6月在日本[红白机](../Page/红白机.md "wikilink")上发行，两个月后在北美发行。游戏后由[雅达利移植到](https://zh.wikipedia.org/wiki/雅达利 "wikilink")[雅达利Lynx](../Page/雅达利Lynx.md "wikilink")，并在美欧发行。游戏还在1995年[超级任天堂合辑](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")《[忍者龍劍傳 巴](https://zh.wikipedia.org/wiki/忍者龍劍傳_巴 "wikilink")》上发行。此后直到2008年，游戏才在北美[Wii](../Page/Wii.md "wikilink") [Virtual Console上再版](../Page/Virtual_Console.md "wikilink")；游戏于2013年和2014年分别在北美和欧洲的[任天堂3DS](../Page/任天堂3DS.md "wikilink") Virtual Console 发行。[加藤正人](../Page/加藤正人.md "wikilink")接替红白机前两作设计师[吉泽秀雄](https://zh.wikipedia.org/wiki/吉泽秀雄 "wikilink")，擔任本作的设计。
 
 游戏是忍者龙剑传三部曲的第三作，情节设定于系列前两作《[忍者龙剑传](../Page/忍者龙剑传_\(红白机\).md "wikilink")》和《[忍者龙剑传II 暗黑的邪神剑](../Page/忍者龙剑传II_暗黑的邪神剑.md "wikilink")》之间。玩家操控被陷害謀殺艾琳的[隼龙](https://zh.wikipedia.org/wiki/龙隼 "wikilink")，调查她背后的真相。他最终发现，CIA特工福斯特和另一人克兰西利用次元狭缝，创造并操控注入能量的人工生命體。游戏机制和前两部忍者龙剑传类似，但新增抓吊上方绳索與提升剑威力等操作。

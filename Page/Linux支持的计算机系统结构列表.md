@@ -1,3 +1,6 @@
+> 本文内容由[Linux支持的计算机系统结构列表](https://zh.wikipedia.org/wiki/Linux支持的计算机系统结构列表)转换而来。
+
+
 [Linux-x86-under-qemu.png](https://zh.wikipedia.org/wiki/File:Linux-x86-under-qemu.png "fig:Linux-x86-under-qemu.png")
 
 [Linux](../Page/Linux.md "wikilink")操作系统家族的基本组件如[Linux内核](../Page/Linux内核.md "wikilink")、[GNU C 函式庫](https://zh.wikipedia.org/wiki/GNU_C_函式庫 "wikilink")、BusyBox，或其复刻如[μClinux和](https://zh.wikipedia.org/wiki/μClinux "wikilink")[uClibc](https://zh.wikipedia.org/wiki/uClibc "wikilink")，在编程时已经考虑了一定程度的抽象。此外，在[汇编语言](../Page/汇编语言.md "wikilink")或[C语言源代码中包含了不同的代码途径](https://zh.wikipedia.org/wiki/C语言 "wikilink")，以支持特定的硬件。因此，源代码可以在大量的[计算机系统结构](../Page/计算机系统结构.md "wikilink")上成功编译（或交叉编译）。
