@@ -1,3 +1,6 @@
+> 本文内容由[Pride～A Part of Me～ feat.SRM](https://zh.wikipedia.org/wiki/Pride～A_Part_of_Me～_feat.SRM)转换而来。
+
+
 《**Pride〜A Part of Me〜 feat.SRM**》，是日本女歌手[Stephanie的第六张单曲](https://zh.wikipedia.org/wiki/Stephanie "wikilink")，收錄於專輯「[Colors of my Voice](../Page/Colors_of_my_Voice.md "wikilink")」中。2009年1月14日SME Records发售。
 
 ## 解説

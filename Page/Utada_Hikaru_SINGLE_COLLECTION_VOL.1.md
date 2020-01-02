@@ -1,3 +1,6 @@
+> 本文内容由[Utada Hikaru SINGLE COLLECTION VOL.1](https://zh.wikipedia.org/wiki/Utada_Hikaru_SINGLE_COLLECTION_VOL.1)转换而来。
+
+
 **Utada Hikaru SINGLE COLLECTION VOL.1**是[宇多田光](../Page/宇多田光.md "wikilink")第一張精選輯，於2004年3月31日發行。
 
 本作集結了1998－2003年間其所有單曲的A面曲，其中多為[Oricon](../Page/Oricon.md "wikilink")冠軍單曲，並由Ted Jensen重新後製。本作為2004日本年度冠軍\[1\] 以及2004年全球年度第19位\[2\]，而讓她繼三張前作[First Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink")、[Distance](../Page/Distance.md "wikilink")、[DEEP RIVER後](../Page/DEEP_RIVER.md "wikilink")，第四度拿下日本公信榜年度冠軍，打破[松任谷由實](../Page/松任谷由實.md "wikilink")於1989-1991年拿下三次日本公信榜年度冠軍的紀錄。目前銷量260萬，為日本史上銷售第36專輯。

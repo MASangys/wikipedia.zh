@@ -1,3 +1,6 @@
+> 本文内容由[Everlasting \(Kylee单曲\)](https://zh.wikipedia.org/wiki/Everlasting_\(Kylee单曲\))转换而来。
+
+
 《**Everlasting**》是[美国](../Page/美国.md "wikilink")出生的女性歌手[Kylee的第三支单曲](https://zh.wikipedia.org/wiki/Kylee "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[BarCamp](https://zh.wikipedia.org/wiki/BarCamp)转换而来。
+
+
 [Barcamp2005-ioerror-01.jpg](https://zh.wikipedia.org/wiki/File:Barcamp2005-ioerror-01.jpg "fig:Barcamp2005-ioerror-01.jpg") **BarCamp**，是一種國際研討會-{網絡}-，此類研討會是開放、由參與者相互分享的工作坊式[會議](../Page/會議.md "wikilink")，議程內容由參加者提供，焦點通常放在發展初期的網際應用程式、相關[開放原始碼技術](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")、[社交協定思維](https://zh.wikipedia.org/wiki/社交協定 "wikilink")\[1\]，以及開放[資料格式](https://zh.wikipedia.org/wiki/資料 "wikilink")。
 
 ## 歷史

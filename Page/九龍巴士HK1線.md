@@ -1,3 +1,6 @@
+> 本文内容由[九龍巴士HK1線](https://zh.wikipedia.org/wiki/九龍巴士HK1線)转换而来。
+
+
 **九龍巴士HK1線**是[香港](../Page/香港.md "wikilink")的一條巴士路線，於[2008年夏季奧林匹克運動會馬術比賽](../Page/2008年夏季奧林匹克運動會馬術比賽.md "wikilink")期間行駛，往來[大學鐵路站及](https://zh.wikipedia.org/wiki/大學站 "wikilink")[香港奧運馬術比賽場地](../Page/香港奧運馬術比賽場地.md "wikilink")（沙田）。
 
 ## 歷史及簡介

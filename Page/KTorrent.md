@@ -1,3 +1,6 @@
+> 本文内容由[KTorrent](https://zh.wikipedia.org/wiki/KTorrent)转换而来。
+
+
 **KTorrent** 是使用[C++](../Page/C++.md "wikilink")和[Qt](../Page/Qt.md "wikilink")寫的BitTorrent客戶端。被分類於KDE [Extragear](../Page/Extragear.md "wikilink")中。
 
 ## 功能

@@ -1,3 +1,6 @@
+> 本文内容由[VGA端子](https://zh.wikipedia.org/wiki/VGA端子)转换而来。
+
+
 **VGA端子**（**Video Graphics Array (VGA) connector**），其他的名稱包括**RGB端子**，**D-sub** 15，或**mini D15**，是一种3排共15针的[DE-15](https://zh.wikipedia.org/wiki/D-subminiature "wikilink")。VGA端子通常在電腦的[显示卡](../Page/显示卡.md "wikilink")、[显示器](../Page/显示器.md "wikilink")及其他設備。是用作傳送[模拟訊號](https://zh.wikipedia.org/wiki/模拟訊號 "wikilink")。
 
 Vga-cable.jpg|視訊傳輸線上的VGA端子

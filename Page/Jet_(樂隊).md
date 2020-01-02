@@ -1,3 +1,6 @@
+> 本文内容由[Jet \(樂隊\)](https://zh.wikipedia.org/wiki/Jet_\(樂隊\))转换而来。
+
+
 **Jet**是来自[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[墨爾本的一個](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")，第一章专辑《降生》（Get Born）于2003年上市，销售量超过百万张。Jet是2000年代開始后，成功的繼承了澳洲前輩世界级搖滾樂隊[比吉斯](../Page/比吉斯.md "wikilink")以及[空中補給](../Page/空中補給.md "wikilink")樂隊，成為澳洲出產的世界知名樂隊之一，。成員創作的樂曲多次成為澳洲，[歐洲以及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[美國音樂榜的冠軍單曲](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
 2004年樂隊歌曲《Are you ganna be my girl》被美國[蘋果公司選為](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[IPOD宣传歌曲](https://zh.wikipedia.org/wiki/IPOD "wikilink")，成员在MV中身着复古[军服](../Page/军服.md "wikilink")，被舆论称之为具有[甲壳虫乐队风范](https://zh.wikipedia.org/wiki/甲壳虫乐队 "wikilink")。

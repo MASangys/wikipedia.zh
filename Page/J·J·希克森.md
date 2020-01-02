@@ -1,3 +1,6 @@
+> 本文内容由[J·J·希克森](https://zh.wikipedia.org/wiki/J·J·希克森)转换而来。
+
+
 **詹姆斯·爱德华·“J·J”·希克森**（，），[美国](../Page/美国.md "wikilink")[NBA](../Page/NBA.md "wikilink")联盟职业[篮球](../Page/篮球.md "wikilink")运动员。他在2008年的[NBA选秀](../Page/NBA选秀.md "wikilink")中第1轮第19顺位被[克里夫兰骑士](../Page/克里夫兰骑士.md "wikilink")选中。籃板能力強，現效力於[華盛頓巫師](https://zh.wikipedia.org/wiki/華盛頓巫師 "wikilink")。
 
 ## 高中生涯

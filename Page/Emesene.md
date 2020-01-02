@@ -1,3 +1,6 @@
+> 本文内容由[Emesene](https://zh.wikipedia.org/wiki/Emesene)转换而来。
+
+
 **Emesene** 是一個用[PyGTK](../Page/PyGTK.md "wikilink")寫的[MSN](../Page/MSN.md "wikilink")用戶端，其目的是要建立一個和官方的 Live Messenger 介面相似的軟體而又維持著清爽的介面。
 
 細心看一下 E<span style="color: red;">m</span>e<span style="color: red;">s</span>e<span style="color: red;">n</span>e 就會發現它是由英文字母 "e" 分隔開 msn。

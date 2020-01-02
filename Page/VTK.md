@@ -1,3 +1,6 @@
+> 本文内容由[VTK](https://zh.wikipedia.org/wiki/VTK)转换而来。
+
+
 **視覺化工具函式庫**（VTK， Visualization Toolkit）是一個[開放源碼](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")，[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、支援[平行處理](https://zh.wikipedia.org/wiki/平行處理 "wikilink")（VTK曾用於處理大小近乎1個[Petabyte的資料](https://zh.wikipedia.org/wiki/Petabyte "wikilink")，其平台為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Los Alamos國家實驗室所有的具](https://zh.wikipedia.org/wiki/Los_Alamos國家實驗室 "wikilink")1024個[處理器之大型系統](https://zh.wikipedia.org/wiki/處理器 "wikilink")）的圖形應用函式庫。2005年時曾被美國陸軍研究實驗室用於即時模擬[俄羅斯製反飛彈戰車ZSU](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")23-4受到平面波攻擊的情形，其計算節點高達2.5兆個之多。
 
 該函式庫以開放源碼的[BSD授權釋出](../Page/BSD许可证.md "wikilink")。

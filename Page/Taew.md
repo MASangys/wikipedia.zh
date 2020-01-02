@@ -1,3 +1,6 @@
+> 本文内容由[Taew](https://zh.wikipedia.org/wiki/Taew)转换而来。
+
+
 **道Taew**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Natapohn Tameeruks，[泰语](../Page/泰语.md "wikilink")： ณฐพร เตมีรักษ์，），是一個[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[09III型核潜艇](https://zh.wikipedia.org/wiki/09III型核潜艇)转换而来。
+
+
 **09III型核潜艇**（[北约代号](https://zh.wikipedia.org/wiki/北约代号 "wikilink")：**商级**，[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：*Shang-class*）是[中国人民解放军海军](../Page/中国人民解放军海军.md "wikilink")研制的一种攻击型[核潜艇](https://zh.wikipedia.org/wiki/核潜艇 "wikilink")，由位于中国[辽宁](https://zh.wikipedia.org/wiki/辽宁 "wikilink")[葫芦岛的](https://zh.wikipedia.org/wiki/葫芦岛 "wikilink")[渤海造船重工业公司船坞负责建造](https://zh.wikipedia.org/wiki/渤海造船厂 "wikilink")，用来代替老旧的[09I型核潜艇](../Page/09I型核潜艇.md "wikilink")。第一艘09III型核潜艇于1998年12月开工建造，2003年12月建成下水。该型艇可能配备有六个鱼雷发射管，携带多种型号的[鱼雷](https://zh.wikipedia.org/wiki/鱼雷 "wikilink")、[水雷](../Page/水雷.md "wikilink")和潜射[反舰导弹](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")，其改进型号09IIIB型装备YJ-18B型潜舰导弹。
 
 2007年7月下旬，09III型核潜艇的模型在中国人民解放军建军80周年展览上展出。随后，[中国中央电视台](../Page/中国中央电视台.md "wikilink")播出了中央军委主席[胡锦涛](../Page/胡锦涛.md "wikilink")为新型核潜艇入役授军旗仪式的画面，证明09III型核潜艇首艇已正式服役并形成战斗力\[1\]。《现代舰船》杂志于2007年8月号刊登了该型艇的首张清晰照片。2009年5月18日，[新华社](../Page/新华社.md "wikilink")正式发表文章宣布中国第2代核潜艇已进入中国海军服役\[2\]。2015年4月26日中國海軍09III型核潜艇在[亞丁灣巡航](https://zh.wikipedia.org/wiki/亞丁灣 "wikilink")，並與中國海軍的護航艦艇組成編隊航行，任務持續時間長達2個多月\[3\]。

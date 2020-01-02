@@ -1,3 +1,6 @@
+> 本文内容由[Cable早晨](https://zh.wikipedia.org/wiki/Cable早晨)转换而来。
+
+
 **Cable早晨**（）是[香港有線新聞有限公司製作的兩小時](https://zh.wikipedia.org/wiki/香港有線新聞有限公司 "wikilink")[直播](https://zh.wikipedia.org/wiki/直播 "wikilink")[早晨](https://zh.wikipedia.org/wiki/早晨 "wikilink")[新聞節目](../Page/新聞節目.md "wikilink")，以輕鬆並帶著朝氣活力的方式，為[早上剛醒來的](https://zh.wikipedia.org/wiki/早上 "wikilink")[觀眾提供各類型](https://zh.wikipedia.org/wiki/觀眾 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")。
 
 節目賣點為其獨有的環節，即互動形式的[天氣報告和今日新聞焦點](https://zh.wikipedia.org/wiki/天氣報告 "wikilink")。在頭一節先由主播在直播室的電視牆前闡釋[香港天文台](../Page/香港天文台.md "wikilink")的即日及未來數天[天氣預測](https://zh.wikipedia.org/wiki/天氣 "wikilink")，透過直播鏡頭描述戶外即時天色狀況，觀測雲層、陽光與能見度變化。在每半小時的節目尾聲，會預告當日的數個新聞焦點，預視觀眾時事動向。此外，亦有今日社評和報章摘要環節，提供當日報章的觀點。

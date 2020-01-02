@@ -1,3 +1,6 @@
+> 本文内容由[GPE](https://zh.wikipedia.org/wiki/GPE)转换而来。
+
+
 **GPE**（**GPE掌上电脑环境**， ****）是一个计划为运行[Linux](../Page/Linux.md "wikilink")操作系统的[PDA等掌上设备提供](https://zh.wikipedia.org/wiki/PDA "wikilink")[自由](../Page/自由软件.md "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")的项目。GPE并不是一个单一的软件，但可以为运行Linux的掌上设备提供如[个人信息管理系统](../Page/个人信息管理系统.md "wikilink") (PIM)、音乐播放、电子邮件及网页浏览等功能。
 
 ## 支持设备

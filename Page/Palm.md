@@ -1,3 +1,6 @@
+> 本文内容由[Palm](https://zh.wikipedia.org/wiki/Palm)转换而来。
+
+
 [Palmone_pdas.jpg](https://zh.wikipedia.org/wiki/File:Palmone_pdas.jpg "fig:Palmone_pdas.jpg") **Palm**曾经是著名的[手持设备制造商](https://zh.wikipedia.org/wiki/手持设备 "wikilink")，推出的[掌上电脑和](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")[手持设备採用名為](https://zh.wikipedia.org/wiki/手持设备 "wikilink")[Palm OS](../Page/Palm_OS.md "wikilink")、[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")、[微软](../Page/微软.md "wikilink")[Windows CE等](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")[操作系统](../Page/操作系统.md "wikilink")。[Palm OS过去拥有](../Page/Palm_OS.md "wikilink")[Handspring](../Page/Handspring.md "wikilink")、[Sony等兼容厂商](https://zh.wikipedia.org/wiki/Sony "wikilink")，但后来由于全球[智能手机](../Page/智能手机.md "wikilink")时代兴起，[微软](../Page/微软.md "wikilink")在手持设备的介入，以及[Palm OS](../Page/Palm_OS.md "wikilink")[多媒体](../Page/多媒体.md "wikilink")功能的相对薄弱和[公司治理](../Page/公司治理.md "wikilink")问题，Palm逐渐没落。
 
 ## 歷史

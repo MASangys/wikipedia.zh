@@ -1,3 +1,6 @@
+> 本文内容由[IPod](https://zh.wikipedia.org/wiki/IPod)转换而来。
+
+
 是一款[苹果公司设计和销售的便携式多功能](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[數位多媒體播放器](../Page/數位音訊播放器.md "wikilink")。iPod系列中的产品都提供设计简单易用的[用户界面](../Page/用户界面.md "wikilink")，除[iPod touch与第六](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")、七代[iPod nano](https://zh.wikipedia.org/wiki/iPod_nano "wikilink")、[iPod shuffle外皆由一个环形滚轮](https://zh.wikipedia.org/wiki/iPod_shuffle "wikilink")—[iPod Click Wheel操作](https://zh.wikipedia.org/wiki/IPod_click_wheel "wikilink")。在早期，大多数iPod产品使用内置的[硬盘](../Page/硬盘.md "wikilink")储存媒介，而iPod nano、iPod shuffle及iPod touch则早已采用[-{zh-hans:闪存;zh-hant:快閃記憶體}-](../Page/闪存.md "wikilink")。iPod也可以作为[电脑的外置数据储存设备使用](../Page/電子計算機.md "wikilink")。
 
 苹果公司按[iMac的命名方式](https://zh.wikipedia.org/wiki/iMac "wikilink")，将數位音乐播放器命名为iPod。

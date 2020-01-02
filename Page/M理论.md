@@ -1,3 +1,6 @@
+> 本文内容由[M理论](https://zh.wikipedia.org/wiki/M理论)转换而来。
+
+
 **M理論**（）是[物理學中將各種相容形式的](https://zh.wikipedia.org/wiki/物理學 "wikilink")[超弦理論](../Page/超弦理論.md "wikilink")統一起來的理論。此理論最早由[愛德華·威滕於](https://zh.wikipedia.org/wiki/愛德華·威滕 "wikilink")1995年春季在[南加州大學舉行的一次](https://zh.wikipedia.org/wiki/南加州大學 "wikilink")[弦理論](../Page/弦理論.md "wikilink")会议中提出。威滕的報告啟動了一股研究弦理論的熱潮，被稱為。
 
 弦理論學者在威滕的報告之前已經識別出五種不同的超弦理論。儘管這些理論看上去似乎非常不一樣，但多位物理學家的研究指出這些理論有着微妙且有意義的關係。特別而言，物理學家們發現這些看起來相異的理論其實可以透過兩種分別稱為[S對偶和](https://zh.wikipedia.org/wiki/S對偶 "wikilink")[T對偶的數學變換所統合](https://zh.wikipedia.org/wiki/T對偶 "wikilink")。威滕的猜想有一部份是基於這些對偶的存在，另有一部份則是基於弦理論與11維[超重力](https://zh.wikipedia.org/wiki/超重力 "wikilink")[場論的關係](https://zh.wikipedia.org/wiki/場論 "wikilink")。

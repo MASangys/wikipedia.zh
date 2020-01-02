@@ -1,3 +1,6 @@
+> 本文内容由[Delphi](https://zh.wikipedia.org/wiki/Delphi)转换而来。
+
+
 **Delphi**，是[Windows平台下](https://zh.wikipedia.org/wiki/Windows "wikilink")[Object Pascal语言](../Page/Object_Pascal.md "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")，支持[应用程序快速开发](../Page/快速應用程式開發.md "wikilink")（Rapid Application Development，简称RAD）。最初版本由美国[Borland](../Page/Borland.md "wikilink")公司於1995年开发，用于接替[DOS](../Page/DOS.md "wikilink")時代盛行一時的[Turbo Pascal](../Page/Turbo_Pascal.md "wikilink")」。主创者為[安德斯·海尔斯伯格](../Page/安德斯·海尔斯伯格.md "wikilink")。經過數年發展，此產品已轉移至[Embarcadero公司旗下](https://zh.wikipedia.org/wiki/Embarcadero "wikilink")。
 
 从产品名称上就可以知道，Turbo Pascal使用的是[Pascal语言](https://zh.wikipedia.org/wiki/Pascal_\(编程语言\) "wikilink")。从Turbo Pascal 5.5版开始，Borland公司在传统Pascal的基础上加入了[物件導向的功能](https://zh.wikipedia.org/wiki/物件導向程序設計 "wikilink")。

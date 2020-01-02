@@ -1,3 +1,6 @@
+> 本文内容由[FIFA Online 2](https://zh.wikipedia.org/wiki/FIFA_Online_2)转换而来。
+
+
 是一款以[足球](../Page/足球.md "wikilink")为主题的[大型多人在线游戏](https://zh.wikipedia.org/wiki/大型多人在线游戏 "wikilink")。此游戏由[EA新加坡和](https://zh.wikipedia.org/wiki/EA新加坡 "wikilink")[Neowiz](../Page/Neowiz.md "wikilink")开发，并由[美国艺电发行至亚洲通过各地经销商进行本地化运营](https://zh.wikipedia.org/wiki/美国艺电 "wikilink")。2006年在韩国最初发行的版本是以[FIFA 06的游戏引擎为基础的](../Page/FIFA系列.md "wikilink")，随后此游戏的引擎被改为[FIFA 07](../Page/FIFA系列.md "wikilink")。《FIFA Online 2》是一款免费网游，但同时也通过销售虚拟货币以在游戏中购买物品获利。
 
 ## 比赛环境

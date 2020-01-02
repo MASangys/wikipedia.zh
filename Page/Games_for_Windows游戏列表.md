@@ -1,3 +1,6 @@
+> 本文内容由[Games for Windows游戏列表](https://zh.wikipedia.org/wiki/Games_for_Windows游戏列表)转换而来。
+
+
 本表为**已发行或待发行的[微软](../Page/微软.md "wikilink")[Games for Windows游戏列表](https://zh.wikipedia.org/wiki/Games_for_Windows "wikilink")**，以发行年份和游戏名称音序排列。在“Live联机”列打勾的游戏同时也是[Games for Windows - Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikilink")，拥有成就等特殊功能。
 
 相关游戏请参见[电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")。

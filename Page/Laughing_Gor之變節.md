@@ -1,3 +1,6 @@
+> 本文内容由[Laughing Gor之變節](https://zh.wikipedia.org/wiki/Laughing_Gor之變節)转换而来。
+
+
 是一部於2009年出品的[香港](../Page/香港.md "wikilink")警匪片，此電影由[邵氏兄弟](../Page/邵氏兄弟.md "wikilink")(香港)有限公司與[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")合作攝製，由[邱禮濤](../Page/邱禮濤.md "wikilink")擔任執導，以及由[謝天華](../Page/謝天華.md "wikilink")、[黃秋生](../Page/黃秋生.md "wikilink")、[吳鎮宇](../Page/吳鎮宇.md "wikilink")、[黃日華](../Page/黃日華.md "wikilink")、[陳法拉](../Page/陳法拉.md "wikilink")和[黎耀祥](../Page/黎耀祥.md "wikilink")擔任演出。
 
 ## 製作背景

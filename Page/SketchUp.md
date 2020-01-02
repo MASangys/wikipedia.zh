@@ -1,3 +1,6 @@
+> 本文内容由[SketchUp](https://zh.wikipedia.org/wiki/SketchUp)转换而来。
+
+
 **SketchUp**是一套面向[建筑师](../Page/建筑师.md "wikilink")、[城市规划](../Page/城市规划.md "wikilink")专家、[制片人](https://zh.wikipedia.org/wiki/制片人 "wikilink")、[游戏开发者](../Page/游戏开发者.md "wikilink")以及相关专业人员的[3D建模](https://zh.wikipedia.org/wiki/3D建模 "wikilink")[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。它用于[Google Earth上的建模也十分方便](https://zh.wikipedia.org/wiki/Google_Earth "wikilink")。它比其他三维[CAD程序更直观](../Page/计算机辅助设计.md "wikilink")，灵活以及易于使用\[1\]。
 
 基于便于使用的理念，它拥有一个非常简单的[界面](https://zh.wikipedia.org/wiki/用户图形界面 "wikilink")。SketchUp世界中一个众所周知的特性便是3D Warehouse。用户可以利用他们的[Google账户来上传创建的模型](https://zh.wikipedia.org/wiki/Google账户 "wikilink")，并且浏览其他的组件和模型。

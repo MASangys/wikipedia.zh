@@ -1,3 +1,6 @@
+> 本文内容由[Cross Days](https://zh.wikipedia.org/wiki/Cross_Days)转换而来。
+
+
 《**Cross Days**》是一款由日本[0verflow](../Page/0verflow.md "wikilink")公司於2010年3月19日在[Microsoft Windows平臺上發售的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[成人](../Page/日本成人遊戲.md "wikilink")[視覺小說遊戲](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，後來又以[個人電腦版本為基礎移植到](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[DVD](https://zh.wikipedia.org/wiki/數位多功能影音光碟 "wikilink")[互動式電影](../Page/互動式電影.md "wikilink")以及[PlayStation Portable平臺上](../Page/PlayStation_Portable.md "wikilink")。《Cross Days》在日本常被簡稱為「」（Kuroizu），而中國大陸的愛好者則因為標題中的「Cross」而常將遊戲翻譯成「交叉日」或者是「雜交日」\[1\]。其中《Cross Days》為同樣由0verflow製作的成人遊戲《[School Days](../Page/School_Days.md "wikilink")》和《[Summer Days](../Page/Summer_Days.md "wikilink")》系列之續作，在故事內容上也常常被視為《School Days》的[外傳作品](https://zh.wikipedia.org/wiki/外傳 "wikilink")\[2\]。
 
 其中《Cross Days》的主要舞台設定皆與《School Days》相同，然而在原本故事背景中添加了新的男主角足利勇氣以及女主角喜連川路夏等角色，而這也是首款在《School Days》中由非伊藤誠的角色擔任主角之遊戲。一般來說會將《Cross Days》的劇情列入[空氣系](../Page/空氣系.md "wikilink")作品行列，其故事內容為平常過著普通生活的男主角足利勇氣發現自己對於桂言葉以及喜連川路夏有所好感，然而勇氣也因而對於和這兩者有所交集的伊藤誠抱持著嫉妒與不滿，並且引發了一連串的事件\[3\]。儘管《Cross Days》中很少有讓玩家可以互動的選項，不過在遊戲中玩家仍然可以挑選對話選項並且決定進入不同的故事路線中。

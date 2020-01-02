@@ -1,3 +1,6 @@
+> 本文内容由[AT4反坦克火箭筒](https://zh.wikipedia.org/wiki/AT4反坦克火箭筒)转换而来。
+
+
 **AT4**（或AT-4）是[瑞典](../Page/瑞典.md "wikilink")[薩博博福斯動力](https://zh.wikipedia.org/wiki/薩博博福斯動力 "wikilink")（Saab Bofors Dynamics）生產的一種單發式單兵[反坦克武器](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，它取代了[美國和](https://zh.wikipedia.org/wiki/美國 "wikilink")[NATO武器庫內的](https://zh.wikipedia.org/wiki/NATO "wikilink")[M72 LAW火箭彈](../Page/M72輕型反裝甲武器.md "wikilink")。[薩博集團在AT](https://zh.wikipedia.org/wiki/薩博集團 "wikilink")4的銷售上取得了頗為顯著的成功，使它成為世界上最為普遍的反坦克武器之一。此武器的設計是希望使[步兵](../Page/步兵.md "wikilink")單位有能力去摧毀或癱瘓他們所遇到的[裝甲部隊和](https://zh.wikipedia.org/wiki/装甲兵 "wikilink")[防御工事](https://zh.wikipedia.org/wiki/防御工事 "wikilink")，不過它對於擊毁現代[主力戰車不是很有效](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")。此武器的發射器和火箭彈在製造後會先行組裝好再做為單一彈藥釋出，而非一武器系統与弹药，發射筒在用後即拋棄。
 
 AT4的名稱來自於彈頭口徑尺寸（84mm）的英文讀音「Eighty-four」。

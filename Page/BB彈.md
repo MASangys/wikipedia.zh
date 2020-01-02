@@ -1,3 +1,6 @@
+> 本文内容由[BB彈](https://zh.wikipedia.org/wiki/BB彈)转换而来。
+
+
 [BB_copper_and_nickel_plated.jpg](https://zh.wikipedia.org/wiki/File:BB_copper_and_nickel_plated.jpg "fig:BB_copper_and_nickel_plated.jpg") **BB弹**是供[气枪发射使用的一种球状金属](https://zh.wikipedia.org/wiki/气枪 "wikilink")[弹丸](https://zh.wikipedia.org/wiki/弹丸 "wikilink")，也是最常见的气枪弹种类之一。BB弹通常是镀铜或镀锌的钢制球体，最常见的直径有和，但也有比钢珠尺寸稍大的老式[铅弹丸](https://zh.wikipedia.org/wiki/铅弹丸 "wikilink")，配合相应[口径的气枪使用](https://zh.wikipedia.org/wiki/口径 "wikilink")。BB弹的材质不同会影响其种类及击发速度，较轻的BB弹[枪口初速更快](https://zh.wikipedia.org/wiki/枪口初速 "wikilink")，但更容易受到空气影响发生偏移；相比之下较重的BB弹初速较低射程较短，但受空气影响小，精度更高。
 
 [软气枪](../Page/软气枪.md "wikilink")使用的6毫米（少数是8毫米）塑料弹因为也是球形，加上软气枪发射原理和气枪相似，因此也经常被（不准确的）俗称为“BB弹”。

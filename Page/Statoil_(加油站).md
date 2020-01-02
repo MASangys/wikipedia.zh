@@ -1,3 +1,6 @@
+> 本文内容由[Statoil \(加油站\)](https://zh.wikipedia.org/wiki/Statoil_\(加油站\))转换而来。
+
+
 **Statoil**是一个运营于北欧八个国家的连锁[加油站](../Page/加油站.md "wikilink")。该连锁由[挪威国家石油公司经营](https://zh.wikipedia.org/wiki/挪威国家石油公司 "wikilink")，拥有超过2,000 家加油站，包括无人运营的[1-2-3连锁网络](https://zh.wikipedia.org/wiki/1-2-3_\(加油站\) "wikilink")。
 
 [Statoil_station_in_Steinkjer.jpg](https://zh.wikipedia.org/wiki/File:Statoil_station_in_Steinkjer.jpg "fig:Statoil_station_in_Steinkjer.jpg")

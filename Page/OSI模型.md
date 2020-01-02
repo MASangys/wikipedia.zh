@@ -1,3 +1,6 @@
+> 本文内容由[OSI模型](https://zh.wikipedia.org/wiki/OSI模型)转换而来。
+
+
 **开放式系统互联模型**（，縮寫：OSI；簡稱為**OSI模型**）是一種[概念模型](../Page/概念模型.md "wikilink")，由[国际标准化组织提出](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")，一个试图使各种计算机在世界范围内互连为网络的标准框架。定義於ISO/IEC 7498-1。
 
 ## 历史

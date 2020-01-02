@@ -1,3 +1,6 @@
+> 本文内容由[哥特王朝II](https://zh.wikipedia.org/wiki/哥特王朝II)转换而来。
+
+
 是[德国](../Page/德国.md "wikilink")开发商[Piranha Bytes开发的](../Page/Piranha_Bytes.md "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")，是《[哥特王朝](../Page/哥特王朝_\(游戏\).md "wikilink")》的续作。于2002年11月29日在德国由[Jowood和](https://zh.wikipedia.org/wiki/Jowood "wikilink")[Atari发行](https://zh.wikipedia.org/wiki/Atari "wikilink")。北美地区则在2003年10月28日发行。
 
 ## 剧情

@@ -1,3 +1,6 @@
+> 本文内容由[C++Builder](https://zh.wikipedia.org/wiki/C++Builder)转换而来。
+
+
 **C++Builder** 是一個用於在Windows平台上撰寫[C++](../Page/C++.md "wikilink")語言應用程式的快速化程式開發（[RAD](https://zh.wikipedia.org/wiki/RAD "wikilink")，Rapid Application Development）的整合開發環境（[IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")，Integrated Development Environment），原係由[Borland](../Page/Borland.md "wikilink")公司所開發銷售，現在此產品則歸屬於Embarcadero Technologies旗下的子公司Codegear。
 
 C++Builder把由[Delphi](../Page/Delphi.md "wikilink")開發出來的IDE和[VCL](https://zh.wikipedia.org/wiki/VCL "wikilink")（Visual Component Library）與C++[編譯器](../Page/編譯器.md "wikilink")結合。此系列產品的開發週期通常是先在Delphi上作重要的改進，然後再用到C++Builder上。在Delphi上所開發的主要元件通常無須修改就可以給C++Builder使用，但C++ Builder的元件卻不一定能給Delphi使用。

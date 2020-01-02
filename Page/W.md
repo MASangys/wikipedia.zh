@@ -1,3 +1,6 @@
+> 本文内容由[W](https://zh.wikipedia.org/wiki/W)转换而来。
+
+
 **W**, **w** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第23个[字母](../Page/字母.md "wikilink")。
 
 W由[盎格鲁撒克逊人在](https://zh.wikipedia.org/wiki/盎格鲁撒克逊人 "wikilink")7世纪发明，起初用来表示两個 V，但后来[拉丁语](../Page/拉丁语.md "wikilink")中的/w/发展成为[罗曼语中的](https://zh.wikipedia.org/wiki/罗曼语 "wikilink")/v/，因此V不再完全表示[日尔曼语族中的](https://zh.wikipedia.org/wiki/日尔曼语族 "wikilink")/w/ 。在英語中w被稱為double u（即「雙U」）；在法語，w 稱為 （即「雙V」），除外來語外，多數表示/v/音。在[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")，此字母稱為  或  （即「雙V」）。[德语](../Page/德语.md "wikilink")中的 W 也像在罗曼语系中一样丢失了，这就是为什么德语的W表示/v/而不是/w/。在[荷兰语中](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")，W是[唇齿近音/ʋ](https://zh.wikipedia.org/wiki/唇齒近音 "wikilink")/（除了带有eeuw的词语，发作/-e:β/）。

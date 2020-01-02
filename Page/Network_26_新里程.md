@@ -1,3 +1,6 @@
+> 本文内容由[Network 26 新里程](https://zh.wikipedia.org/wiki/Network_26_新里程)转换而来。
+
+
 [Network_26.jpg](https://zh.wikipedia.org/wiki/File:Network_26.jpg "fig:Network_26.jpg")
 
 **Network 26 新里程**指[香港政府在](https://zh.wikipedia.org/wiki/香港政府 "wikilink")1993年9月1日撤銷[中巴其中](../Page/中華汽車有限公司.md "wikilink")28條路線的專營權給予[城巴](../Page/城巴.md "wikilink")營運。

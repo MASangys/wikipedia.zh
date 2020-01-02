@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第八章：耳和乳突疾病](https://zh.wikipedia.org/wiki/ICD-10_第八章：耳和乳突疾病)转换而来。
+
+
 **ICD-10 第八章：耳和乳突疾病**，为[世界卫生组织](../Page/世界卫生组织.md "wikilink")创建的[ICD-10](../Page/ICD-10.md "wikilink")中涉及[耳](../Page/耳.md "wikilink")与[乳突的疾病分类](https://zh.wikipedia.org/wiki/乳突 "wikilink")。
 
 ## 受控词表

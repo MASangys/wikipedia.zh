@@ -1,3 +1,6 @@
+> 本文内容由[F4U海盜式戰鬥機](https://zh.wikipedia.org/wiki/F4U海盜式戰鬥機)转换而来。
+
+
 **F4U海盜式**（**F4U Corsair**）戰鬥機是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[海軍所研發的一種](https://zh.wikipedia.org/wiki/海軍 "wikilink")[艦載機](../Page/艦載機.md "wikilink")與[陸基戰鬥機](https://zh.wikipedia.org/wiki/陸基戰鬥機 "wikilink")，自1940年原型機出廠，至1953年最後一架量產機交給法國空軍，她是美國活塞發動機戰機生產史中量產最久的紀錄保持者\[1\]\[2\]\[3\]；錢斯沃特在戰爭期間授權及生產海盜式戰機，均為同型款式（**FG**、**F3A**）。
 
 海盜式服役於[第二次世界大戰至](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[朝鮮戰爭期間](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")（1942-1952），原本他開發的目的是作為1940年代美軍艦載戰鬥機主力，但是因為降落安全性問題沒有立刻被美國海軍所採納，讓二戰前期的海盜式主要由[美國海軍陸戰隊來使用](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")\[4\]；到中期在英國人的協助下海盜式才解決了著艦安全問題。但這時候[F6F戰鬥機已量產](https://zh.wikipedia.org/wiki/F6F戰鬥機 "wikilink")，使得太平洋戰場上美國海軍同時有兩款主力艦載戰鬥機；但兩者都同樣成為日本帝國軍隊的致命對手。大戰結束後，據美國海軍統計，F4U的擊落比率為11:1\[5\]，即每擊落11架敵機才有1架被擊落，擁有著傲人戰績；所以也讓部分日本飛行員認為海盜式是二戰中美軍最強悍的戰機\[6\]。

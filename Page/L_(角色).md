@@ -1,3 +1,6 @@
+> 本文内容由[L \(角色\)](https://zh.wikipedia.org/wiki/L_\(角色\))转换而来。
+
+
 **艾爾·羅萊特**（；）\[1\]，通稱**L**，是[大場鶇](../Page/大場鶇.md "wikilink")和[小畑健](../Page/小畑健.md "wikilink")所合著的[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")《[死亡筆記本](https://zh.wikipedia.org/wiki/死亡筆記本 "wikilink")》及其改編作品中的一位虛構偵探角色。他是行徑怪異的天才，被稱為世界上能力最高超的偵探。他與故事的主角[夜神月](../Page/夜神月.md "wikilink")──一位被稱為「奇樂」，企圖以殺人來消除罪惡、並創造[新世界的人](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")──對抗，是故事前半部的主角之一。
 
 在動畫版中、日語配音員為[山口勝平](../Page/山口勝平.md "wikilink")，臺灣版配音員為[曹冀魯](../Page/曹冀魯.md "wikilink")，粵語版配音員為[黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")，英語版配音員為，電影版演員為[松山研一](../Page/松山研一.md "wikilink")，電視劇版演員為[山崎賢人](../Page/山崎賢人.md "wikilink")，美國電影版演員為[凱斯·史坦費爾德](../Page/凱斯·史坦費爾德.md "wikilink")。

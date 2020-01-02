@@ -1,3 +1,6 @@
+> 本文内容由[I like Dreaming](https://zh.wikipedia.org/wiki/I_like_Dreaming)转换而来。
+
+
 《*' I Like Dreaming*'》是香港歌手[張國榮](../Page/張國榮.md "wikilink")發行第一張[英語唱片](https://zh.wikipedia.org/wiki/英語 "wikilink")。\[1\]
 
 ## 介紹

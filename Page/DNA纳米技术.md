@@ -1,3 +1,6 @@
+> 本文内容由[DNA纳米技术](https://zh.wikipedia.org/wiki/DNA纳米技术)转换而来。
+
+
 [DNA_tetrahedron_white.png](https://zh.wikipedia.org/wiki/File:DNA_tetrahedron_white.png "fig:DNA_tetrahedron_white.png")构建人工设计的结构，比如这个四面体。\[1\] 四面体的每个边都是20[碱基对](../Page/碱基对.md "wikilink")的脫氧核糖核酸双螺旋；每个顶点都是一个3支节点。组成四面体的4条脫氧核糖核酸链用不同的颜色加以分辨。\]\]
 
 **DNA纳米技术**專門研究利用[脫氧核糖核酸或其他核酸的分子性質](https://zh.wikipedia.org/wiki/脫氧核糖核酸 "wikilink")（如[自組裝的特性](https://zh.wikipedia.org/wiki/自組裝 "wikilink")），來建構出可操控的新型[纳米](../Page/纳米.md "wikilink")尺度結構或[機械](https://zh.wikipedia.org/wiki/機械 "wikilink")。在这个领域，核酸被用作非生物的材料而不是在活[细胞](../Page/细胞.md "wikilink")中那样作为遗传信息的载体。严格的核酸[碱基配对法则](https://zh.wikipedia.org/wiki/碱基配对 "wikilink")（使链上特定的碱基列相互连接以形成牢固的双螺旋结构）使这一技术成为可能。这一技术允许合理的碱基链设计，从而严格地组合形成具有精密控制的纳米级特性的复杂的目标结构。脫氧核糖核酸是常使用的优势材料，但包括其他核酸如[核糖核酸](../Page/核糖核酸.md "wikilink")和[肽核酸](../Page/肽核酸.md "wikilink")也被用来构造结构，所以偶尔也用“核酸纳米技术”来概括这个领域。\[2\]\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[ISWIM](https://zh.wikipedia.org/wiki/ISWIM)转换而来。
+
+
 **ISWIM** 是 [Peter J. Landin](https://zh.wikipedia.org/wiki/Peter_J._Landin "wikilink") 设计并描述于他在1966年于[ACM通讯](../Page/ACM通讯.md "wikilink")中出版的文章《The Next 700 Programming Languages》中的抽象计算机[编程语言](../Page/编程语言.md "wikilink")（或编程语言家族）。名称是如下首字母缩写“**I**f you **S**ee **W**hat **I** **M**ean”。
 
 尽管没有实现，它被证明为在编程语言特别是[函数式编程](../Page/函数式编程.md "wikilink")语言开发中非常有影响力的语言，比如 [SASL](https://zh.wikipedia.org/wiki/SASL "wikilink")，[Miranda](https://zh.wikipedia.org/wiki/Miranda "wikilink")，[ML](../Page/ML语言.md "wikilink")，[Haskell](../Page/Haskell.md "wikilink") 和它们的后继者。

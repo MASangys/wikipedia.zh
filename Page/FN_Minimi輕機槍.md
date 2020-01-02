@@ -1,3 +1,6 @@
+> 本文内容由[FN Minimi輕機槍](https://zh.wikipedia.org/wiki/FN_Minimi輕機槍)转换而来。
+
+
 **FN Minimi**（[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")：，解為「迷你型機槍／」）是由[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale公司設計的](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")[氣體傳動式](https://zh.wikipedia.org/wiki/氣動式 "wikilink")[輕機槍](https://zh.wikipedia.org/wiki/輕機槍 "wikilink")，被世界多國採用為制式裝備，並成為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[M249班用自動武器](../Page/M249班用自動武器.md "wikilink")（M249 SAW）的原型。
 
 ## 歷史

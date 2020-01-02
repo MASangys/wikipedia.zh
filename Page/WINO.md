@@ -1,3 +1,6 @@
+> 本文内容由[WINO](https://zh.wikipedia.org/wiki/WINO)转换而来。
+
+
 **WINO** 是一個日本的5人樂團，日文寫法：『 ワイノ』或是『ワイノー』。
 受到英式搖滾（Brit-pop）深刻影響，在日本常被拿來和綠洲樂團[Oasis相提並論](https://zh.wikipedia.org/wiki/Oasis "wikilink")。
 動畫『獵人』[HUNTER×HUNTER片頭的](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")『太陽は夜も輝く』是他們知名度最高的曲子。

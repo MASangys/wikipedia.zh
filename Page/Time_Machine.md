@@ -1,3 +1,6 @@
+> 本文内容由[Time Machine](https://zh.wikipedia.org/wiki/Time_Machine)转换而来。
+
+
 \-{zh-hant:**時光機**;zh-hans:**时间机器**（）}-是[蘋果公司就著](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[macOS操作系統而推出用作備份的工具程式](https://zh.wikipedia.org/wiki/macOS "wikilink")，此軟件於2006年8月7日在[蘋果電腦全球研發者大會](https://zh.wikipedia.org/wiki/WWDC "wikilink")（WWDC）中首次公開，並內建於 [Mac OS X v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")「Leopard」[作業系統中](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，此設計跟蘋果公司出品的網絡儲存裝置[AirPort 時光囊](https://zh.wikipedia.org/wiki/AirPort_時光囊 "wikilink")、內置無線[Wi-Fi網絡的](https://zh.wikipedia.org/wiki/Wi-fi "wikilink")[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")、內置及外置的設備配搭使用。在2017年12月推出的macOS 10.13.2 High Sierra中，簡體中文介面的時光機被翻譯為「时间机器」，繁體中文系統直到2018年6月推出的macOS 10.14 Mojave中才被翻譯為「時光機」。
 
 ## 概述

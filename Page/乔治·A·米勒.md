@@ -1,3 +1,6 @@
+> 本文内容由[乔治·A·米勒](https://zh.wikipedia.org/wiki/乔治·A·米勒)转换而来。
+
+
 **乔治·阿米蒂奇·米勒**（****，）是[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")的[心理学](../Page/心理学.md "wikilink")教授。曾经担任[洛克斐勒大学](https://zh.wikipedia.org/wiki/洛克斐勒大学 "wikilink")、[麻省理工学院](../Page/麻省理工学院.md "wikilink")心理学教授以及[哈佛大学](../Page/哈佛大学.md "wikilink")心理学系主任。他也是[牛津大学](../Page/牛津大学.md "wikilink")的[傅爾布萊特計畫研究伙伴](https://zh.wikipedia.org/wiki/傅爾布萊特計畫 "wikilink")，以及美国心理学会会长。他最著名的著作是《[神奇的数字：7±2](../Page/神奇的数字：7±2.md "wikilink")——我们信息加工能力的局限》，1956年发表于《心理学评论》（*The Psychological Review*）。
 
 ## 生平

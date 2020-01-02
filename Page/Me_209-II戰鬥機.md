@@ -1,3 +1,6 @@
+> 本文内容由[Me 209-II戰鬥機](https://zh.wikipedia.org/wiki/Me_209-II戰鬥機)转换而来。
+
+
 **梅塞施密特Me 209-II**（**Messerschmitt Me 209-II**）是由德國[梅塞施密特公司在](https://zh.wikipedia.org/wiki/梅塞施密特 "wikilink")[二次世界大戰時設計出的一架高性能戰鬥機](https://zh.wikipedia.org/wiki/二次世界大戰 "wikilink")（原型）。「209」這個型號事實上被用於兩個不同的設計方案。一個是[梅塞施密特Me 209](../Page/Me_209戰鬥機.md "wikilink")，用於突破飛行紀錄的特種機種，但是因為種種技術限制而無法改作實戰用途。第二個即是Me 209-II，用來汰換之前在二戰初期為[德國空軍立下不少汗馬功勞的](https://zh.wikipedia.org/wiki/德國空軍 "wikilink")[梅塞施密特Bf 109](https://zh.wikipedia.org/wiki/Bf_109 "wikilink")
 
 ## 設計和開發

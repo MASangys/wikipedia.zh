@@ -1,3 +1,6 @@
+> 本文内容由[Free \& Easy](https://zh.wikipedia.org/wiki/Free_\&_Easy)转换而来。
+
+
 《**Free & Easy**》（輕而易舉／自由自在）是日本歌手濱崎步第26張單曲，2002年4月24日於日本發售。本作首次採用了防盜版技術的[Copy Control](../Page/Copy_Control.md "wikilink") CD。
 
 ## 說明

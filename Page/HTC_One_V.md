@@ -1,3 +1,6 @@
+> 本文内容由[HTC One V](https://zh.wikipedia.org/wiki/HTC_One_V)转换而来。
+
+
 **HTC One V**(型號：T320e)是[HTC Legend和](../Page/HTC_Legend.md "wikilink")[HTC Hero的后续产品](../Page/HTC_Hero.md "wikilink")，於2012年2月27日在[巴塞隆納](https://zh.wikipedia.org/wiki/巴塞隆納 "wikilink")[全球移動通訊大會正式發表](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")，預計4月起全球販售。HTC One V延续了经典的下巴设计，備有黒色與灰色版本。**HTC One V**是[HTC One系列中的入門機](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，V 是有 Value 的意思。
 
 ## 硬件

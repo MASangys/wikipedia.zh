@@ -1,3 +1,6 @@
+> 本文内容由[Corel Painter](https://zh.wikipedia.org/wiki/Corel_Painter)转换而来。
+
+
 **Corel Painter**是一套专业的自然媒介（natural media）电脑绘画软件，原由[Fractal Design开发](https://zh.wikipedia.org/wiki/Fractal_Design "wikilink")，后经[MetaCreations最终转给了](https://zh.wikipedia.org/wiki/MetaCreations "wikilink")[Corel](../Page/Corel.md "wikilink")。和[Dabbler一样](https://zh.wikipedia.org/wiki/Dabbler "wikilink")，其可配合带压感笔的[数位板使用](https://zh.wikipedia.org/wiki/数位绘图板 "wikilink")，而功能则较为专业。自8.0版始，其界面由画室风格变为类似[Photoshop的风格](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。迄今为止，最新版本为2017。其面向儿童版本[Dabbler在变为](https://zh.wikipedia.org/wiki/Dabbler "wikilink")[Art Dabbler后停止开发](https://zh.wikipedia.org/wiki/Art_Dabbler "wikilink")；简化版原为[Painter Classic](https://zh.wikipedia.org/wiki/Painter_Classic "wikilink")，现改名为[Painter Essentials](https://zh.wikipedia.org/wiki/Painter_Essentials "wikilink")。
 
 ## 历史版本

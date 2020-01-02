@@ -1,3 +1,6 @@
+> 本文内容由[CUTTING 傷痕](https://zh.wikipedia.org/wiki/CUTTING_傷痕)转换而来。
+
+
 《**CUTTING 傷痕**》（）是由[翅田大介撰寫](https://zh.wikipedia.org/wiki/翅田大介 "wikilink")、由插畫的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")作品。第一屆[Novel JAPAN小說大獎得獎作品](https://zh.wikipedia.org/wiki/Novel_JAPAN小說大獎 "wikilink")。中文版由[東立出版社](../Page/東立出版社.md "wikilink")發行。
 
 ## 故事簡介

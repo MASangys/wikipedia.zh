@@ -1,3 +1,6 @@
+> 本文内容由[報道Station](https://zh.wikipedia.org/wiki/報道Station)转换而来。
+
+
 《**報道STATION**》（日语：，節目播放時和節目標誌上使用「」）是[日本](../Page/日本.md "wikilink")[朝日電視台](../Page/朝日電視台.md "wikilink")及其[ANN](../Page/全日本新聞網.md "wikilink")[聯播網于周一至周五](../Page/電視聯播網.md "wikilink")22时档直播的带状[綜合性新聞節目](../Page/新聞節目.md "wikilink")。
 
 該節目自2004年4月5日開播，从第1次播出开始即采用[高清制式](https://zh.wikipedia.org/wiki/高清电视#.E6.97.A5.E6.9C.AC "wikilink")、双声道播出。2013年4月1日起开始实时字幕播出。

@@ -1,3 +1,6 @@
+> 本文内容由[R.O.D -READ OR DIE-](https://zh.wikipedia.org/wiki/R.O.D_-READ_OR_DIE-)转换而来。
+
+
 《**R.O.D -READ OR DIE-**》（）是2001年到2002年期間[Aniplex](../Page/Aniplex.md "wikilink")發售的[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。全3集。由[STUDIO DEEN動畫製作公司的監督](../Page/STUDIO_DEEN.md "wikilink")[舛成孝二](../Page/舛成孝二.md "wikilink")負責。[倉田英之](../Page/倉田英之.md "wikilink")的輕小說《R.O.D READ OR DIE YOMIKO READMAN "THE PAPER"》為原作。描寫「操紙術」能自在操縱紙的能力的秘密探員讀子．利德曼。
 
 ## 劇情簡介

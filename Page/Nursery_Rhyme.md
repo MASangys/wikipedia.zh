@@ -1,3 +1,6 @@
+> 本文内容由[Nursery Rhyme](https://zh.wikipedia.org/wiki/Nursery_Rhyme)转换而来。
+
+
 是[日本](../Page/日本.md "wikilink")[Lump of Sugar公司於](../Page/Lump_of_Sugar.md "wikilink")2005年11月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，Lump of Sugar的第一部作品。\[1\]
 
 ## 概要

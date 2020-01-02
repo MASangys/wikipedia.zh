@@ -1,3 +1,6 @@
+> 本文内容由[BCPL](https://zh.wikipedia.org/wiki/BCPL)转换而来。
+
+
 **基本組合編程語言**（），是一種電腦程式設計語言，源自更早的[CPL語言](https://zh.wikipedia.org/wiki/CPL_\(程式語言\) "wikilink")，1966年由劍橋大學的[馬丁·理察德所發展出來的](https://zh.wikipedia.org/wiki/馬丁·理察德 "wikilink")。
 
 Richards試著移除了CPL中最複雜的組成，第一支BCPL compiler在[IBM 7094電腦中完成](https://zh.wikipedia.org/wiki/IBM_7094 "wikilink")。

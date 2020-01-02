@@ -1,3 +1,6 @@
+> 本文内容由[Freeze](https://zh.wikipedia.org/wiki/Freeze)转换而来。
+
+
 **Freeze**為一隊前[香港](../Page/香港.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")，成員包括[甄詠珊](../Page/甄詠珊.md "wikilink")、[陳樂榣](../Page/陳樂榣.md "wikilink")及[石詠莉](../Page/石詠莉.md "wikilink")，於2007年5月6日在活動上宣佈組合三名成員正式加入樂壇。Freeze以金色為隊色，代表著活力、光榮、繁榮以及自信。從出道至解散，Freeze一直賣弄性感形象，更由於她們是整容公司代言人，更獲外界封為「整容三嬌」\[1\] 。解散後，成員石詠莉自稱因要顧及隊友形象才不能公開否認整容。\[2\]
 
 ## 簡介

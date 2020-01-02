@@ -1,3 +1,6 @@
+> 本文内容由[CnBeta.COM](https://zh.wikipedia.org/wiki/CnBeta.COM)转换而来。
+
+
 **cnBeta.COM**（被网民简称为**CB**、**cβ**），官方自我定位“**中文业界资讯站**”，是一个提供[IT相关新闻资讯](../Page/信息技术.md "wikilink")、技术文章和评论的中文网站。其主要特色为游客的匿名评论及线上互动，形成独特的社群文化。2008年3月，cnBeta加入微软中文技术论坛联盟\[1\]。
 
 cnBeta.com在[Alexa的统计中的综合排名为](https://zh.wikipedia.org/wiki/Alexa "wikilink")136位（中国）（2018年1月3日）\[2\]，[Google PR值为](https://zh.wikipedia.org/wiki/Google_PR "wikilink")6。

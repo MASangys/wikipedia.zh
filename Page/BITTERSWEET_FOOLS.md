@@ -1,3 +1,6 @@
+> 本文内容由[BITTERSWEET FOOLS](https://zh.wikipedia.org/wiki/BITTERSWEET_FOOLS)转换而来。
+
+
 《**BITTERSWEET FOOLS**》（）是2001年[minori公司所發行的](https://zh.wikipedia.org/wiki/minori "wikilink")[十八禁遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Feedback File](https://zh.wikipedia.org/wiki/Feedback_File)转换而来。
+
+
 『**Feedback File**』（）是[ASIAN KUNG-FU GENERATION的編集盤](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")。除了結合9首的[單曲外](https://zh.wikipedia.org/wiki/單曲 "wikilink")，還以2首未發表的歌曲，5首Live錄音構成這張大碟。2006年10月25日由Ki/oon Records發行。初回限定版附送收錄了Live影像的DVD。
 
 ## 概要

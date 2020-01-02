@@ -1,3 +1,6 @@
+> 本文内容由[ATARU](https://zh.wikipedia.org/wiki/ATARU)转换而来。
+
+
 《**ATARU**》，是2012年[TBS的電視劇](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")，由[中居正廣](../Page/中居正廣.md "wikilink")主演，初回延長20分（21:00 - 22:14）。
 
 ## 概要

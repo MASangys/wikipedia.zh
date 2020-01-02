@@ -1,3 +1,6 @@
+> 本文内容由[Total Commander](https://zh.wikipedia.org/wiki/Total_Commander)转换而来。
+
+
 **Total Commander** 是一款应用于 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 平台的[文件管理器](https://zh.wikipedia.org/wiki/文件管理器 "wikilink") ，它包含两个并排的窗口，这种设计可以让用户方便地对不同位置的“文件或文件夹”进行操作，例如复制、移动、刪除、比较等，相对 Windows [资源管理器而言方便很多](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")，极大地提高了文件操作的效率，被广大软件爱好者亲切地简称为：[TC](https://zh.wikipedia.org/wiki/TC "wikilink") 。
 
 它拥有文件快速预览、快速搜索、多标签、文件比较、批量重命名、[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink") 客户端等诸多实用的功能，并可通过大量的[插件](../Page/插件.md "wikilink")进行个性化配置。

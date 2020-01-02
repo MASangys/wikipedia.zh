@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft OneNote](https://zh.wikipedia.org/wiki/Microsoft_OneNote)转换而来。
+
+
 **Microsoft OneNote**，是一套用于自由形式的信息获取以及多用户协作工具。OneNote最常用于笔记本电脑或台式电脑，但这套软件更适合用于支持手写笔操作的平板电脑，在这类设备上可使用触笔、声音或视频创建笔记，比单纯使用键盘更方便。OneNote可作为[Microsoft Office和](../Page/Microsoft_Office.md "wikilink")[Windows 10的一部分使用](../Page/Windows_10.md "wikilink")。
 
 ## 概述

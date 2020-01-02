@@ -1,3 +1,6 @@
+> 本文内容由[夢幻戰士III](https://zh.wikipedia.org/wiki/夢幻戰士III)转换而来。
+
+
 是[日本通訊網路](../Page/日本通訊網路.md "wikilink")於1990年到1991年間所發行的[橫向捲軸](https://zh.wikipedia.org/wiki/橫向捲軸 "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。在[PC Engine主機與](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[Mega Drive主機都有移植版本](../Page/Mega_Drive.md "wikilink")。開發團隊是RIOT。
 
 本作是1989年發行的《[夢幻戰士II](../Page/夢幻戰士II.md "wikilink")》的正式後繼作品。也是正史故事中優子最後活躍的畢業作。本作首次採用了三人替換制。利用3人不同的特性來協力過關。在當時算是首次在動作遊戲上嘗試戰術運用的要素。這項三人替換制成為本作的特色。本作維持本系列一貫的特色依然維持優質的配樂與過場動畫。使的本作的評價依然居高不下。

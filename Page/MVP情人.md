@@ -1,3 +1,6 @@
+> 本文内容由[MVP情人](https://zh.wikipedia.org/wiki/MVP情人)转换而来。
+
+
 《**MVP情人**》（）。2002年[三立電視](../Page/三立電視.md "wikilink")華人電視劇週日十點檔系列的第二部作品，全劇共18集，接檔《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》。製作團隊為2001年三立電視[偶像劇](../Page/偶像劇.md "wikilink")《[薰衣草](../Page/薰衣草_\(電視劇\).md "wikilink")》的原班人馬。由[孫協志](../Page/孫協志.md "wikilink")、[張韶涵](../Page/張韶涵.md "wikilink")和[顏行書領銜主演](https://zh.wikipedia.org/wiki/顏行書 "wikilink")，是第一部以[籃球為主題的偶像劇](https://zh.wikipedia.org/wiki/籃球 "wikilink")。值得一提的是，本劇男主角之一的顏行書除了在劇中為籃球員，現實中也是臺灣籃球國手。並由於此劇的故事發展主要圍繞籃球比賽，在播放期間更捲起了當時台灣的籃球熱。
 
 2002年7月21日起於[華視首播](../Page/華視主頻.md "wikilink")，[三立都會台](../Page/三立都會台.md "wikilink")也於2002年7月27日起首播。

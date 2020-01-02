@@ -1,3 +1,6 @@
+> 本文内容由[JT吃惊仰天](https://zh.wikipedia.org/wiki/JT吃惊仰天)转换而来。
+
+
 **JT Marvelous**（）是一支[日本](../Page/日本.md "wikilink")女子排球隊，隸屬於[日本煙草旗下](https://zh.wikipedia.org/wiki/日本煙草 "wikilink")，總部設於[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")（主場則設於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")），目前是女子組的球隊之一。現任主教練為[石原昭久](https://zh.wikipedia.org/wiki/石原昭久 "wikilink")。
 
 ## 過往戰績

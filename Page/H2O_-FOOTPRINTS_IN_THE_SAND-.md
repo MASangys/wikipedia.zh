@@ -1,3 +1,6 @@
+> 本文内容由[H2O -FOOTPRINTS IN THE SAND-](https://zh.wikipedia.org/wiki/H2O_-FOOTPRINTS_IN_THE_SAND-)转换而来。
+
+
 《**H<sub>2</sub>O -FOOTPRINTS IN THE SAND-**》是日本遊戲公司**[枕](https://zh.wikipedia.org/wiki/枕_\(公司\) "wikilink")**開發的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，後來發售[PlayStation 2版](../Page/PlayStation_2.md "wikilink")《H2O+》和外傳《√<span style="text-decoration:overline;">after and another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電視動畫](../Page/日本電視動畫.md "wikilink")。
 
 由動畫第一話末尾的介紹，標題的H2O是來自三個女主角名字的第一個字母（**H**ayami, **H**inata, **O**toha）， 而Footprints來自一首詩《》，此詩的前半部分在動畫第一話的開頭出現，全詩亦在最後一話出現。

@@ -1,3 +1,6 @@
+> 本文内容由[Hotspot Shield](https://zh.wikipedia.org/wiki/Hotspot_Shield)转换而来。
+
+
 **Hotspot Shield**是由AnchorFree開發的一款[免費的高速](https://zh.wikipedia.org/wiki/免費 "wikilink")[VPN](https://zh.wikipedia.org/wiki/VPN "wikilink")[代理軟件](https://zh.wikipedia.org/wiki/代理軟件 "wikilink")。Hotspot Shield的最初作用是保證[網絡安全和保護網絡隱私](https://zh.wikipedia.org/wiki/網絡安全 "wikilink")，它通过自动搜索[Wi-Fi](../Page/Wi-Fi.md "wikilink")网络来实现加密网络传输。基于这种特点，Hotspot Shield也可用來作為[破網軟件](https://zh.wikipedia.org/wiki/破網軟件 "wikilink")，访问受到屏蔽的网站，有时速度上不够快。
 
 **VPN**（[虚拟私人网络](https://zh.wikipedia.org/wiki/虚拟私人网络 "wikilink")）通俗地说，就是把两个以上的[局域网](../Page/局域网.md "wikilink")变成同一个[局域网](../Page/局域网.md "wikilink")，大家可以共同实现各自网内的资源的共享，就好像在同一个网内。借助[VPN技术](https://zh.wikipedia.org/wiki/VPN "wikilink")，Hotspot Shield可以隐藏用户的[IP地址](https://zh.wikipedia.org/wiki/IP "wikilink")，同时又可以使用户像使用[代理服务器](../Page/代理服务器.md "wikilink")那样跨越了网络的国界限制，从而访问任何网站。 此软件同时有 iOS 版，目前 iOS 需付费并能够正常连接\[1\]，Windows 版在中国大陆地区受到[GFW屏蔽其服务器而有时无法连接使用](https://zh.wikipedia.org/wiki/GFW "wikilink")，最新版本已经在一定程度上解决了这个问题。

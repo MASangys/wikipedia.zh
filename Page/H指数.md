@@ -1,3 +1,6 @@
+> 本文内容由[H指数](https://zh.wikipedia.org/wiki/H指数)转换而来。
+
+
 [H-index-zh.svg](https://zh.wikipedia.org/wiki/File:H-index-zh.svg "fig:H-index-zh.svg")
 
 **H指数**（H index）是一个混合量化指标，可用于评估研究人员的学术产出数量与学术产出水平。H指数是2005年由[美国](../Page/美国.md "wikilink")[加利福尼亚大学圣地亚哥分校的物理学家乔治](../Page/聖地牙哥加利福尼亞大學.md "wikilink")·希尔施\[1\]提出的。

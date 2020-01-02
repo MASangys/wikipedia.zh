@@ -1,3 +1,6 @@
+> 本文内容由[AFI十大類型十大佳片](https://zh.wikipedia.org/wiki/AFI十大類型十大佳片)转换而来。
+
+
 **AFI十大類型十大佳片**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**AFI's 10 Top 10**）发布於2008年6月17日。
 
 [美國電影學會](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")（AFI）擇定十種電影類型，每種類型從50片提名的美國電影中，各評選出10片百年來各類型最偉大電影，作為美國電影學會的“百年百大”系列的一重要部分。

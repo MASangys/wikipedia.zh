@@ -1,3 +1,6 @@
+> 本文内容由[Splashtop](https://zh.wikipedia.org/wiki/Splashtop)转换而来。
+
+
 Splashtop是一個商業性 的[Linux發行版](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，它針對個人電腦[主板](../Page/主板.md "wikilink")與及其他電腦設備生產商\[1\]。它由[Splashtop Inc.研發](https://zh.wikipedia.org/wiki/Splashtop_Inc. "wikilink")\[2\]。
 
 ## 概念

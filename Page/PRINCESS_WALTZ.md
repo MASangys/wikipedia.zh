@@ -1,3 +1,6 @@
+> 本文内容由[PRINCESS WALTZ](https://zh.wikipedia.org/wiki/PRINCESS_WALTZ)转换而来。
+
+
 《**PRINCESS WALTZ**》是由[Will公司的旗下遊戲品牌](../Page/WillPlus.md "wikilink")[PULLTOP](../Page/PULLTOP.md "wikilink")於2006年4月28日發售的[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")。
 
 ## 概要

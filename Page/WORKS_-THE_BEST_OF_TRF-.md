@@ -1,3 +1,6 @@
+> 本文内容由[WORKS -THE BEST OF TRF-](https://zh.wikipedia.org/wiki/WORKS_-THE_BEST_OF_TRF-)转换而来。
+
+
 《**WORKS -THE BEST OF TRF-**》是日本音乐组合[TRF](../Page/TRF.md "wikilink")的第一张精选专辑。
 
 ## 内容

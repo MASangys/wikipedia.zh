@@ -1,3 +1,6 @@
+> 本文内容由[My Melody](https://zh.wikipedia.org/wiki/My_Melody)转换而来。
+
+
 \-{zh-tw:**美樂蒂**;zh-cn:**美乐蒂**;zh-hk:**My Melody**;}-（-{zh-tw:;zh-cn:;zh-hk:中文譯名：美樂蒂;}-）是[三丽鸥第一隻以](https://zh.wikipedia.org/wiki/三丽鸥 "wikilink")[兔子為造型的](https://zh.wikipedia.org/wiki/兔子 "wikilink")[卡通](../Page/卡通.md "wikilink")角色，在1975年誕生。近年在[亞洲區很受歡迎](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，因此衍生了不少相關[兒童](https://zh.wikipedia.org/wiki/兒童 "wikilink")[玩具](../Page/玩具.md "wikilink")及商品。
 
 ## 歷史

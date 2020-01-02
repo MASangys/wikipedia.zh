@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus Pad](https://zh.wikipedia.org/wiki/LG_Optimus_Pad)转换而来。
+
+
 LG Optimus Pad (美國名為T-Mobile G-Slate)，是由[韓國品牌](https://zh.wikipedia.org/wiki/韓國 "wikilink")[LG生產](https://zh.wikipedia.org/wiki/LG "wikilink")，採用[Google](../Page/Google.md "wikilink") [Android](../Page/Android.md "wikilink") [操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，是LG首部運行Android 3.0 操作系統版本的平板電腦產品，2011年2月於[全球移動通訊大會上首次亮相](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink")。\[1\]
 
 LG Optimus Pad 於[日本](../Page/日本.md "wikilink")由網絡商[NTT docomo獨家銷售](https://zh.wikipedia.org/wiki/NTT_docomo "wikilink")，2011年3月31日推出；美國則由網絡商[T-Mobile](../Page/T-Mobile.md "wikilink")獨家銷售，\[2\]2011年3月推出。\[3\]

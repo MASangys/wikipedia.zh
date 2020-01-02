@@ -1,3 +1,6 @@
+> 本文内容由[XEBEC](https://zh.wikipedia.org/wiki/XEBEC)转换而来。
+
+
 **XEBEC**（日文：****）是[日本](../Page/日本.md "wikilink")一家[動畫製作公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Servers](https://zh.wikipedia.org/wiki/Microsoft_Servers)转换而来。
+
+
 **Microsoft Servers**係指[Microsoft所發展的伺服器產品線](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，舊稱為Microsoft BackOffice，後有一度改稱為**.NET Enterprise Servers**（推廣Microsoft .NET平台策略時期）與**Windows Server System**（Windows Server 2003時期），雖然它是伺服器產品線，但它和[Microsoft Dynamics和](https://zh.wikipedia.org/wiki/Microsoft_Dynamics "wikilink")[Windows Server是不同的產品線](../Page/Windows_Server.md "wikilink")。
 
 ## 歷史

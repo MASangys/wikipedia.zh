@@ -1,3 +1,6 @@
+> 本文内容由[Tei](https://zh.wikipedia.org/wiki/Tei)转换而来。
+
+
 **Tei**（，），原名**金鎬京**（），是[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[歌手](../Page/歌手.md "wikilink")，於2004年以《愛情...留下香氣》（）一曲出道。
 
 ## 專輯

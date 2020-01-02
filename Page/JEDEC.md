@@ -1,3 +1,6 @@
+> 本文内容由[JEDEC](https://zh.wikipedia.org/wiki/JEDEC)转换而来。
+
+
 **JEDEC固态技术协会**是固态及半导体工业界的一个标准化组织，它由约300家公司成员组成，约3300名技术人员通过50个不同的委员会运作，制定固态电子方面的工业标准。JEDEC曾经是[电子工业联盟](https://zh.wikipedia.org/wiki/电子工业联盟 "wikilink")（EIA）的一部分：联合电子设备工程委员会（**J**oint **E**lectron **D**evice **E**ngineering **C**ouncil，JEDEC）。1999年，JEDEC独立成为行业协会，抛弃了原来名称中缩写的含义，目前的名称为JEDEC固态技术协会（JEDEC Solid State Technology Association）。
 
 ## 起源

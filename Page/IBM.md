@@ -1,3 +1,6 @@
+> 本文内容由[IBM](https://zh.wikipedia.org/wiki/IBM)转换而来。
+
+
 **国际商业机器股份有限公司**（，[首字母縮略字](../Page/首字母縮略字.md "wikilink")：IBM，曾译**万国商用机器公司**）是美國一家跨國科技公司及諮詢公司，總部位於[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[阿蒙克市](https://zh.wikipedia.org/wiki/阿蒙克市 "wikilink")。IBM主要客户是政府和企业。IBM生产并销售计算机硬件及软件，并且为系统架构和网络托管提供咨询服务。截止2013年，IBM已在全球拥有12个研究实验室和大量的软件开发基地。IBM雖然是一家商業公司，但在[材料](../Page/材料.md "wikilink")、[化学](https://zh.wikipedia.org/wiki/化学 "wikilink")、[物理等科学领域卻也有很高的成就](https://zh.wikipedia.org/wiki/物理 "wikilink")，利用這些學術研究為基礎，发明很多产品。比较有名的IBM发明的产品包括[硬盘](../Page/硬盘.md "wikilink")、[自動櫃員機](../Page/自動櫃員機.md "wikilink")、[通用产品代码](../Page/通用产品代码.md "wikilink")、[SQL](../Page/SQL.md "wikilink")、[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")、[DRAM及](https://zh.wikipedia.org/wiki/DRAM "wikilink")[沃森](../Page/沃森_\(人工智能程序\).md "wikilink")。
 
 ## 历史

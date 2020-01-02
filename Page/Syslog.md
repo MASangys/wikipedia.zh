@@ -1,3 +1,6 @@
+> 本文内容由[Syslog](https://zh.wikipedia.org/wiki/Syslog)转换而来。
+
+
 **Syslog**常被稱為系統日誌或系統記錄，是一種用來在[網際網路協定](https://zh.wikipedia.org/wiki/網際網路協定 "wikilink")（TCP/IP）的[網路中傳遞](https://zh.wikipedia.org/wiki/網路 "wikilink")[記錄檔訊息的標準](https://zh.wikipedia.org/wiki/記錄檔訊息 "wikilink")。這個詞彙常用來指涉實際的syslog 協定，或者那些送出syslog訊息的應用程式或資料庫。
 
 syslog協定屬於一種主從式協定：syslog發送端會傳送出一個小的文字訊息（小於1024位元組）到syslog接收端。接收端通常名為「syslogd」、「syslog daemon」或[syslog伺服器](https://zh.wikipedia.org/wiki/syslog伺服器 "wikilink")。系統日誌訊息可以被以[UDP協定及](https://zh.wikipedia.org/wiki/UDP "wikilink")╱或[TCP協定來傳送](https://zh.wikipedia.org/wiki/TCP "wikilink")。這些資料是以[明碼型態被傳送](https://zh.wikipedia.org/wiki/明碼 "wikilink")。不過由於[SSL加密外套](https://zh.wikipedia.org/wiki/SSL "wikilink")（例如[Stunnel](https://zh.wikipedia.org/wiki/Stunnel "wikilink")、sslio或sslwrap等）並非syslog協定本身的一部分，因此可以被用來透過[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")／[TLS方式提供一層加密](https://zh.wikipedia.org/wiki/TLS "wikilink")。

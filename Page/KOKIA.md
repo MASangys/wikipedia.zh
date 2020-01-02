@@ -1,3 +1,6 @@
+> 本文内容由[KOKIA](https://zh.wikipedia.org/wiki/KOKIA)转换而来。
+
+
 **KOKIA**，[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，[小提琴](../Page/小提琴.md "wikilink")家之妹。原名**吉田亞紀子**\[1\]\[2\]，KOKIA一名為將亞紀子的日文平假名倒寫的方式。
 
 ## 人物簡介

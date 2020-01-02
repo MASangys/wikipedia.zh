@@ -1,3 +1,6 @@
+> 本文内容由[Eclipse](https://zh.wikipedia.org/wiki/Eclipse)转换而来。
+
+
 **Eclipse**是著名的[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）。最初主要用来[Java](../Page/Java.md "wikilink")语言开发，目前亦有人通过[插件](../Page/插件.md "wikilink")使其作为[C++](../Page/C++.md "wikilink")、[Python](../Page/Python.md "wikilink")、[PHP](../Page/PHP.md "wikilink")等其他语言的开发工具。
 
 Eclipse的本身只是一个框架平台，但是众多[插件](../Page/插件.md "wikilink")的支持，使得Eclipse拥有較佳的灵活性，所以许多软件开发商以Eclipse为框架开发自己的IDE。

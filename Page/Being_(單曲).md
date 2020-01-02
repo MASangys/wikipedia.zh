@@ -1,3 +1,6 @@
+> 本文内容由[Being \(單曲\)](https://zh.wikipedia.org/wiki/Being_\(單曲\))转换而来。
+
+
 《**being**》（译名：**存在**）是[KOTOKO的第](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2006年3月23日發售，代理商是[Geneon Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")\[1\]。
 
 ## 概要

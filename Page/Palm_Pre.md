@@ -1,3 +1,6 @@
+> 本文内容由[Palm Pre](https://zh.wikipedia.org/wiki/Palm_Pre)转换而来。
+
+
 **Palm Pre**（称为**palm prē**），是一款由[Palm公司設計的新一代多媒體](https://zh.wikipedia.org/wiki/Palm公司 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，設有可[多点触控的屏幕及可滑出的全鍵盤](https://zh.wikipedia.org/wiki/多点触控 "wikilink")。该手机于2009年6月6日发售，是第一款采用基于[Linux](../Page/Linux.md "wikilink")\[1\]的[webOS系统的手机](https://zh.wikipedia.org/wiki/webOS "wikilink")。功能上除作為拍照手機、便攜式媒體播放器、GPS导航仪以外，更可以作为互聯網客戶端（包括[SMS](https://zh.wikipedia.org/wiki/SMS "wikilink")、[即時通訊](../Page/即時通訊.md "wikilink")、電子郵件、網頁瀏覽等）。\[2\]
 
 Palm Pre获得了许多评论者正面的评价，赢得了[CNET](../Page/CNET.md "wikilink")的Best in Show, Best in Category: Cell Phones & Smartphones奖项\[3\]和2009年的People's Voice奖\[4\]。

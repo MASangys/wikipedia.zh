@@ -1,3 +1,6 @@
+> 本文内容由[ER7型电力动车组](https://zh.wikipedia.org/wiki/ER7型电力动车组)转换而来。
+
+
 **ER7型电力动车组**（）是[苏联铁路的](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[电力动车组车型之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，也是苏联第一种交流电力动车组，适用于供电制式为25千伏工频[单相交流电的](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")[电气化铁路](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")，由位于[拉脱维亚的](https://zh.wikipedia.org/wiki/拉脱维亚 "wikilink")[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")设计制造，虽然未投入批量生产，但为后来的[ER9型电力动车组](../Page/ER9型电力动车组.md "wikilink")奠定了基础\[1\]。
 
 ## 发展历史

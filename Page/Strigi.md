@@ -1,3 +1,6 @@
+> 本文内容由[Strigi](https://zh.wikipedia.org/wiki/Strigi)转换而来。
+
+
 **Strigi**是一個[桌面搜索](https://zh.wikipedia.org/wiki/桌面搜索 "wikilink")[守護進程](https://zh.wikipedia.org/wiki/守護進程 "wikilink")，不相依於[作業系統和桌面](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。Strigi是由[Jos van den Oever開始開發](https://zh.wikipedia.org/wiki/Jos_van_den_Oever "wikilink")。Strigi的目標是要快，使用少量的內存，並能使用靈活的後端和插件。\[1\] 一份2007年1月的benchmark指出Strigi比其他客戶端快而且使用較少的內存\[2\]。跟多數桌面搜索系統一樣， Strigi可以從文件內部提取信息，如音頻剪輯的長度、一份文件的內容、或圖片解析度；插件測定那些文件類型是有能力處理。\[3\]Strigi使用自己的Jstream系統允許對文件進行deep indexing。
 
 ## 功能

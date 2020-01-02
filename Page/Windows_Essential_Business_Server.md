@@ -1,3 +1,6 @@
+> 本文内容由[Windows Essential Business Server](https://zh.wikipedia.org/wiki/Windows_Essential_Business_Server)转换而来。
+
+
 **Windows Essential Business Server**\[1\]（原代号为*Centro*）\[2\]是[微软](../Page/微软.md "wikilink")为中型企业设计的服务器解决方案（最多支持300个用户或设备）。
 
 它于2008年9月16日被发布给制造商，并将于2008年11月12日正式发布。\[3\]

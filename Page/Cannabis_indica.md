@@ -1,3 +1,6 @@
+> 本文内容由[Cannabis indica](https://zh.wikipedia.org/wiki/Cannabis_indica)转换而来。
+
+
 *Cannabis indica*是[大麻](../Page/大麻.md "wikilink")的[亚种](https://zh.wikipedia.org/wiki/亚种 "wikilink")\[1\]，俗称**Indica**、**籼稻大麻**。莖、葉與花含有豐富的[四氫大麻酚](https://zh.wikipedia.org/wiki/四氫大麻酚 "wikilink")（THC）。
 
 ## 歷史

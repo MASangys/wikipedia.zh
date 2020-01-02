@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior影视作品列表](https://zh.wikipedia.org/wiki/Super_Junior影视作品列表)转换而来。
+
+
 這是韓國男子組合[Super Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括電視節目、電影、電視劇、音樂劇、綜藝節目及電台節目等。
 
 ## 電視劇

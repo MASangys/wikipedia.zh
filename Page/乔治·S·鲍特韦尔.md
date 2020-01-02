@@ -1,3 +1,6 @@
+> 本文内容由[乔治·S·鲍特韦尔](https://zh.wikipedia.org/wiki/乔治·S·鲍特韦尔)转换而来。
+
+
 **乔治·休厄尔·鲍特韦尔**（**George Sewall Boutwell**，），美国政治家，[美国民主党和](https://zh.wikipedia.org/wiki/美国民主党 "wikilink")[美国共和党成员](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")，曾任马萨诸塞州州长（1851年－1853年）、[美国众议院议员](https://zh.wikipedia.org/wiki/美国众议院 "wikilink")（1863年－1869年）、[美国总统](../Page/美国总统.md "wikilink")尤利塞斯·S·格兰特政府[财政部长](../Page/美国财政部长.md "wikilink")（1869年－1873年）和[美国参议院](../Page/美国参议院.md "wikilink")议员（1873年－1877年）。
 
 鲍特韦尔生于于[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[布鲁克莱恩](https://zh.wikipedia.org/wiki/布鲁克莱恩_\(马萨诸塞州\) "wikilink")，在家中的农场长大，曾先后在[雪莉和](https://zh.wikipedia.org/wiki/雪莉_\(马萨诸塞州\) "wikilink")[格罗顿做过教师](https://zh.wikipedia.org/wiki/格罗顿_\(马萨诸塞州\) "wikilink")、职员和店主。鲍特韦尔以美国民主党成员和[马丁·范布伦](../Page/马丁·范布伦.md "wikilink")支持者的身份进入政治领域。1841年，鲍特韦尔被任命为格罗顿邮政局长。1842年至1844年和1847年至1850年间，鲍特韦尔担任马萨诸塞州众议院议员，其间，三次（1844年、1846年和1848年）竞选美国众议院议员未果。1851年，鲍特韦尔当选马萨诸塞州[州长](https://zh.wikipedia.org/wiki/州长 "wikilink")。1854年，鲍特韦尔协助建立美国共和党。

@@ -1,3 +1,6 @@
+> 本文内容由[Team NoA](https://zh.wikipedia.org/wiki/Team_NoA)转换而来。
+
+
 **Team NoA**是知名的職業性[絕對武力電玩遊戲的隊伍](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")。創辦人為Jonas "bsl" Alsaker，於2003年創辦，他們也是第一個電子競技的隊伍將別的隊伍的隊員挖角付錢到自己隊上的隊伍。當年是將Ola "element" Moum從[SK Gaming挖角過來](../Page/SK_Gaming.md "wikilink")。
 Team NoA駐紮在挪威，再絕對武力的電子競技上的歐洲排名常常佔有一席之位，也是電玩大賽中[WCG](https://zh.wikipedia.org/wiki/WCG "wikilink")、[CPL上的常客](https://zh.wikipedia.org/wiki/CPL "wikilink")。
 

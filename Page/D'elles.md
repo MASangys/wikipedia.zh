@@ -1,3 +1,6 @@
+> 本文内容由[D\'elles](https://zh.wikipedia.org/wiki/D\'elles)转换而来。
+
+
 [Delles.jpg](https://zh.wikipedia.org/wiki/File:Delles.jpg "fig:Delles.jpg") **D'elles**是[法語流行歌曲天后](https://zh.wikipedia.org/wiki/法語 "wikilink")[席琳·狄翁](../Page/席琳·狄翁.md "wikilink")於2007年5月22日在[加拿大](../Page/加拿大.md "wikilink")推出的專輯，发行公司是[Sony BMG](https://zh.wikipedia.org/wiki/Sony_BMG "wikilink")。
 
 ## 简介

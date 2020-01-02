@@ -1,3 +1,6 @@
+> 本文内容由[WebKit](https://zh.wikipedia.org/wiki/WebKit)转换而来。
+
+
 **WebKit**是一種用來讓[网页浏览器](../Page/网页浏览器.md "wikilink")[繪製](../Page/渲染.md "wikilink")[網頁](../Page/網頁.md "wikilink")的[排版引擎](../Page/排版引擎.md "wikilink")。它被用於[Apple](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") [Safari](../Page/Safari.md "wikilink")。其分支[Blink](../Page/Blink.md "wikilink")被用於基於[Chromium](../Page/Chromium.md "wikilink")的網頁瀏覽器，如：[Opera與](https://zh.wikipedia.org/wiki/Opera "wikilink")[Google Chrome](../Page/Google_Chrome.md "wikilink")。
 
 Webkit亦使用於Apple [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[BlackBerry Tablet OS](https://zh.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink")、[Tizen](../Page/Tizen.md "wikilink")及[Amazon Kindle的預設瀏覽器](../Page/Kindle.md "wikilink")。WebKit的[C++](../Page/C++.md "wikilink")[应用程序接口](../Page/应用程序接口.md "wikilink")提供了一系列的[Class以在視窗上顯示網頁內容](../Page/类_\(计算机科学\).md "wikilink")，並且實現了一些瀏覽器的特色，如使用者連結點擊、管理前後頁面列表及近期歷史頁面等等。

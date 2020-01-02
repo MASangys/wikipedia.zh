@@ -1,3 +1,6 @@
+> 本文内容由[C\&T](https://zh.wikipedia.org/wiki/C\&T)转换而来。
+
+
 **Chips and Technologies**， 也稱**Chips & Technologies**，簡稱**C\&T**，美國半導體業者。為[無廠半導體公司](../Page/無廠半導體公司.md "wikilink")（fabless semiconductor company）營運模式獨立，IBM 兼容晶片與獨立[顯示晶片的開創者](https://zh.wikipedia.org/wiki/顯示晶片 "wikilink")。1997年被[英特爾購併](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。
 
 ## x86系列產品

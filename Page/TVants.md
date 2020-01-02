@@ -1,3 +1,6 @@
+> 本文内容由[TVants](https://zh.wikipedia.org/wiki/TVants)转换而来。
+
+
 **TVants**是采用[P2P技术的](https://zh.wikipedia.org/wiki/P2P "wikilink")[网络电视](../Page/网络电视.md "wikilink")，作为新一代的P2P技术的程序，TVants提供了接收电视节目和对外广播电视节目的双向传播功能。通过TVants可以观看大量电视台，包括一些西方主流媒体，比如[英国广播公司](../Page/英国广播公司.md "wikilink")[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")、[英国独立电视台ITV](https://zh.wikipedia.org/wiki/英国独立电视台 "wikilink")，[美国有线电视网CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")，[探索频道](https://zh.wikipedia.org/wiki/探索频道 "wikilink")，[国家地理频道等](https://zh.wikipedia.org/wiki/国家地理频道 "wikilink")，以及中国大陆和香港、台湾、韩国和日本的电视台。\[1\]
 
 ## 提供的主要电视台

@@ -1,3 +1,6 @@
+> 本文内容由[佳能PowerShot A6x0](https://zh.wikipedia.org/wiki/佳能PowerShot_A6x0)转换而来。
+
+
 **佳能 PowerShot A6x0**指的是[佳能](../Page/佳能.md "wikilink")公司于2005年至到2007年之间推出的5款[小型数码相机](../Page/数码相机.md "wikilink")。
 
 这5款相机分别是：

@@ -1,3 +1,6 @@
+> 本文内容由[The Easy Ride](https://zh.wikipedia.org/wiki/The_Easy_Ride)转换而来。
+
+
 《**The Easy Ride**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2001年11月8日正式發行。
 
 ## 專輯簡介

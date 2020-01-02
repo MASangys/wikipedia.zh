@@ -1,3 +1,6 @@
+> 本文内容由[ATC代码 \(A01\)](https://zh.wikipedia.org/wiki/ATC代码_\(A01\))转换而来。
+
+
 ## A01A 口腔病药物（Stomatological preparations）
 
 ### A01AA 龋齿预防药（Caries prophylactic agents）

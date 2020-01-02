@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Photo Editor](https://zh.wikipedia.org/wiki/Microsoft_Photo_Editor)转换而来。
+
+
 **Microsoft Photo Editor** 是原本包含于[Microsoft Office](../Page/Microsoft_Office.md "wikilink") 97–XP版本中的图形编辑软件，该软件目前已被[Microsoft Office图片管理器所取代](https://zh.wikipedia.org/wiki/Microsoft_Office图片管理器 "wikilink")，不过Photo Editor的某些功能并未包含在图片管理器中。\[1\]
 
 该程序可用于进行[位图](../Page/位图.md "wikilink")图形编辑，并包含材质、负片、Gamma控制、GIF透明等功能。该软件基于的HALO Desktop Imager开发而来。

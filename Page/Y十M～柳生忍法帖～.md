@@ -1,3 +1,6 @@
+> 本文内容由[Y十M～柳生忍法帖～](https://zh.wikipedia.org/wiki/Y十M～柳生忍法帖～)转换而来。
+
+
 《**Y十M〜柳生忍法帖～**》是改編自[日本](../Page/日本.md "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[山田風太郎](../Page/山田風太郎.md "wikilink")同名小說的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，由[瀨川雅樹作畫](https://zh.wikipedia.org/wiki/瀨川雅樹 "wikilink")。作品以「[因果報應](https://zh.wikipedia.org/wiki/因果 "wikilink")」為主題，時空設定在[江戶](../Page/江戶.md "wikilink")時代，是一齣壯大的復仇劇。該作首次於2005年刊載於《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》第二十期，以不定期的方式進行連載。關於該小說及其他媒體版本的作品，詳見[柳生忍法帖](../Page/柳生忍法帖.md "wikilink")。
 
 ## 內容概要

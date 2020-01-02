@@ -1,3 +1,6 @@
+> 本文内容由[SEIGURA](https://zh.wikipedia.org/wiki/SEIGURA)转换而来。
+
+
 **SEIGURA**（，簡稱****）是[主婦之友社每月](https://zh.wikipedia.org/wiki/主婦之友社 "wikilink")10日（原則上）發售的[聲優雜誌](https://zh.wikipedia.org/wiki/聲優雜誌 "wikilink")。1994年創刊。
 
 ## 概要

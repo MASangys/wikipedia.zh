@@ -1,3 +1,6 @@
+> 本文内容由[Cpio](https://zh.wikipedia.org/wiki/Cpio)转换而来。
+
+
 **cpio** 是[UNIX](../Page/UNIX.md "wikilink")作業系統的一個檔案[備份程式及](https://zh.wikipedia.org/wiki/備份 "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")。這項工具最初出現於[PWB/UNIX](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")，係用於備份[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")，後來也被引進到[UNIX System III及](https://zh.wikipedia.org/wiki/UNIX_System_III "wikilink")[System V](https://zh.wikipedia.org/wiki/System_V "wikilink")，並流行開來。
 
 cpio 可以从 cpio 或 [tar](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink") 格式的归档包中存入和读取文件, 归档包是一种包含其他文件和有关信息的文件。 有关信息包括：文件名, 属主, 时标(timestamp), 和访问权限。 归档包可以是磁盘上的 其他文件, 也可以是磁带或管道.

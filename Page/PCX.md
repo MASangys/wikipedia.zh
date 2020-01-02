@@ -1,3 +1,6 @@
+> 本文内容由[PCX](https://zh.wikipedia.org/wiki/PCX)转换而来。
+
+
 **PCX**是一種由美國喬治亞州的[ZSoft公司所開發的影像檔格式](https://zh.wikipedia.org/wiki/ZSoft "wikilink")，原本是該公司的PC Paintbrush軟體的檔案格式（PCX代表PC Paintbrush Exchange），卻成了最廣泛接受的[DOS](../Page/DOS.md "wikilink")影像標準之一，然而這種使用格式已經被其他更複雜的[影像格式如](https://zh.wikipedia.org/wiki/影像格式 "wikilink")[GIF](../Page/GIF.md "wikilink")、[JPEG](../Page/JPEG.md "wikilink")、[PNG](../Page/PNG.md "wikilink")漸漸取代。
 
 ## 典型的檔案格式

@@ -1,3 +1,6 @@
+> 本文内容由[ThinkPad](https://zh.wikipedia.org/wiki/ThinkPad)转换而来。
+
+
 **ThinkPad**是一个[筆記型電腦](../Page/筆記型電腦.md "wikilink")的品牌，此品牌的攜帶式電腦在2005年以前是由[IBM](../Page/IBM.md "wikilink")的PC事业部所设计、製作并销售。在2005年之后，由于[联想收购IBM的PC事业部](https://zh.wikipedia.org/wiki/联想集团 "wikilink")，ThinkPad商标便歸联想所有，ThinkPad品牌的计算机改由联想公司制造与销售。
 
 ThinkPad是唯一被[国际太空站认可使用的笔记本电脑品牌](https://zh.wikipedia.org/wiki/国际太空站 "wikilink")\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[VNC](https://zh.wikipedia.org/wiki/VNC)转换而来。
+
+
 [Kde_Vnc_01.png](https://zh.wikipedia.org/wiki/File:Kde_Vnc_01.png "fig:Kde_Vnc_01.png")內的VNC顯示遠端Windows的畫面\]\] **VNC**（Virtual Network Computing），為一種使用[RFB協定的螢幕畫面分享及遠端操作軟體](https://zh.wikipedia.org/wiki/RFB協定 "wikilink")。此軟體藉由網路，可傳送鍵盤與滑鼠的動作及即時的螢幕畫面。
 
 VNC與作業系統無關，因此可跨平台使用，例如可用[Windows連線到某](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")的電腦，反之亦同。甚至在沒有安裝用戶端程式的電腦中，只要有支援[JAVA的](https://zh.wikipedia.org/wiki/JAVA "wikilink")[瀏覽器](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，也可使用。

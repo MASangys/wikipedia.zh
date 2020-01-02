@@ -1,3 +1,6 @@
+> 本文内容由[BMW 7系列](https://zh.wikipedia.org/wiki/BMW_7系列)转换而来。
+
+
 **寶馬7系**（**BMW 7 Series**）是由[宝马汽车生產的一个豪华](../Page/BMW.md "wikilink")[轿车](../Page/轿车.md "wikilink")系列，也是宝马最顶级系列車型，主要客群為金字塔頂層人士，一部份國家做為[元首座車](https://zh.wikipedia.org/wiki/元首座車 "wikilink")。它在1977年取代“New Six”车型，其主要竞争对手为[梅塞德斯-奔驰S级](https://zh.wikipedia.org/wiki/梅塞德斯-奔驰S级 "wikilink")、[保時捷Panamera](https://zh.wikipedia.org/wiki/保時捷Panamera "wikilink")、[凌志LS](https://zh.wikipedia.org/wiki/凌志LS "wikilink")、賓特利歐陸、[奥迪A8](../Page/奥迪A8.md "wikilink")、豐田皇冠、勞斯萊斯鬼、本田里程和積架XJ等等。該車系在[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[丁戈爾芬裝配](https://zh.wikipedia.org/wiki/丁戈爾芬 "wikilink")\[1\]。
 
 ## 歷史

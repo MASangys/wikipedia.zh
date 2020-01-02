@@ -1,3 +1,6 @@
+> 本文内容由[C-Mag彈鼓](https://zh.wikipedia.org/wiki/C-Mag彈鼓)转换而来。
+
+
 [G36_CMag.jpg](https://zh.wikipedia.org/wiki/File:G36_CMag.jpg "fig:G36_CMag.jpg")（並非MG36）\]\]
 
 **C-Mag彈鼓**（Beta C-Mag、Century magazine，**意為「世紀彈鼓」**，簡稱C-Mag）是由吉姆·蘇利文（Jim Sullivan）設計的100發雙室型[彈鼓](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，主要提供給[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")、[7.62×51毫米北約和](../Page/7.62×51mm_NATO.md "wikilink")[9×19毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[槍械使用](../Page/枪械.md "wikilink")\[1\]。

@@ -1,3 +1,6 @@
+> 本文内容由[Tk](https://zh.wikipedia.org/wiki/Tk)转换而来。
+
+
 **Tk**是一[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")[开发工具](../Page/部件工具箱.md "wikilink")，提供許多常用的圖形介面元件（像是[選單](../Page/選單.md "wikilink")、[按鈕之類](https://zh.wikipedia.org/wiki/按鈕 "wikilink")），具有[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、輕量化等特色。
 
 Tk最初發展於1991年，是以[Tcl](../Page/Tcl.md "wikilink")[腳本語言撰寫的擴充套件](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，目前另有[Perl](../Page/Perl.md "wikilink")、[Python](../Page/Python.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Common Lisp等多種版本](../Page/Common_Lisp.md "wikilink")，並可在[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Apple Macintoch](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")、[Windows等平臺上運行](https://zh.wikipedia.org/wiki/Windows "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Yorosen!](https://zh.wikipedia.org/wiki/Yorosen!)转换而来。
+
+
 《**Yorosen\!**》（）是[東京電視網](../Page/東京電視網.md "wikilink")從2008年10月6日起至2009年3月27日在[日本時間深夜播出的](https://zh.wikipedia.org/wiki/日本時間 "wikilink")[Hello\! Project節目](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，承接原時段的《[Berikyuu\!](https://zh.wikipedia.org/wiki/Berikyuu! "wikilink")》及《[Haromoni@](../Page/Haromoni@.md "wikilink")》。
 
 ## 概要

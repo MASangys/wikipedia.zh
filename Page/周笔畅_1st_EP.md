@@ -1,3 +1,6 @@
+> 本文内容由[周笔畅 1st EP](https://zh.wikipedia.org/wiki/周笔畅_1st_EP)转换而来。
+
+
 《周笔畅 1st EP》是[中国大陆](../Page/中国大陆.md "wikilink")歌手[周笔畅](../Page/周笔畅.md "wikilink")的首张个人EP，于2006年6月1日发行。这张EP中收录了周笔畅签约乐林文化后的首只单曲《天鹅》以及她自己创作的《只剩我一个》和《呃……》。其中《只剩我一个》曾在2006年度香港[TVB8金曲榜颁奖典礼上获得金曲奖](https://zh.wikipedia.org/wiki/TVB8金曲榜颁奖典礼 "wikilink")。\[1\]
 
 ## 曲目

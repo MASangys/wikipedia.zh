@@ -1,3 +1,6 @@
+> 本文内容由[One more time, One more chance](https://zh.wikipedia.org/wiki/One_more_time,_One_more_chance)转换而来。
+
+
 《**One more time, One more chance**》是1997年1月22日由[寶麗多唱片發表的](https://zh.wikipedia.org/wiki/寶麗多唱片 "wikilink")[山崎將義](https://zh.wikipedia.org/wiki/山崎將義 "wikilink")（）的第五張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[When the Wine Is Over](https://zh.wikipedia.org/wiki/When_the_Wine_Is_Over)转换而来。
+
+
 《**When the Wine Is Over**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張立基](../Page/張立基.md "wikilink")的第五張專輯，在1990年10月推出。專輯的第一主打歌是跳舞歌曲《Electric Girl》，而第二主打歌則是《異性相吸》，其中《Electric Girl》是他的成名作，奠定了他跳唱歌手的形象。
 
 ## 曲目

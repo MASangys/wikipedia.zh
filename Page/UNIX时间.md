@@ -1,3 +1,6 @@
+> 本文内容由[UNIX时间](https://zh.wikipedia.org/wiki/UNIX时间)转换而来。
+
+
 **UNIX時間**，或稱**POSIX時間**是[UNIX](../Page/UNIX.md "wikilink")或[類UNIX系統使用的時間表示方式](https://zh.wikipedia.org/wiki/類UNIX "wikilink")：從[UTC](https://zh.wikipedia.org/wiki/協調世界時 "wikilink")1970年1月1日0時0分0秒起至現在的總秒數，不考慮[閏秒](https://zh.wikipedia.org/wiki/閏秒 "wikilink")\[1\]。 在多數Unix系統上Unix時間可以透過指令來檢查。
 
 <table>

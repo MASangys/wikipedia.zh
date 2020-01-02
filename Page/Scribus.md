@@ -1,3 +1,6 @@
+> 本文内容由[Scribus](https://zh.wikipedia.org/wiki/Scribus)转换而来。
+
+
 **Scribus** 是一個[桌面排版](https://zh.wikipedia.org/wiki/桌面排版 "wikilink")（DTP）軟體，是一個以[GNU通用公共許可證發布的](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[自由軟件](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。提供[Linux](../Page/Linux.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[OS/2以及](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows上運行的原生版本](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。它以其廣泛的頁面佈局功能堪比於其他非自由應用程序，如[PagePlus](https://zh.wikipedia.org/wiki/PagePlus "wikilink")、[QuarkXPress和](https://zh.wikipedia.org/wiki/QuarkXPress "wikilink")[Adobe InDesign](../Page/Adobe_InDesign.md "wikilink")。
 
 Scribus 靈活的佈局和排版，並有編寫檔案專業品質圖像設置設備的能力。它也可以創建動畫和互動的[PDF圖像和形式](https://zh.wikipedia.org/wiki/PDF "wikilink")。示例使用包括撰寫小報紙、小冊子、簡報、海報和書籍。

@@ -1,3 +1,6 @@
+> 本文内容由[Terragen](https://zh.wikipedia.org/wiki/Terragen)转换而来。
+
+
 ***Terragen***是[Planetside Software所開發的免費場景產生器](https://zh.wikipedia.org/wiki/Planetside_Software "wikilink")，支援[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows及](https://zh.wikipedia.org/wiki/Windows "wikilink")[麥金塔](../Page/麥金塔.md "wikilink")作業系統，可用來渲染地形或透過製作動畫。Terragen因為它是免費軟體的因素，被業餘藝術家廣泛的使用，且軟體具有直覺化的介面，並具有創造出接近照片品質的能力，Terragen也可以產生DEM檔案，讓其他程式進行渲染。Terragen透過一個二維的高度圖（heightmap）進行渲染，Terragen也能匯入或匯出高度圖供其他程式使用。
 
 Terragen同時也提供註冊版本供使用者作商業用途，註冊版本可以產生較大的地圖、更高解析度的圖像以及更佳的反鋸齒效果。\[1\]Terragen所產生的圖像在2001年4月16日出現於[新聞週刊的封面上](https://zh.wikipedia.org/wiki/新聞週刊 "wikilink")，並被用來產生Brandy Norwood的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")（MV），Terragen也被許多藝術家使用。

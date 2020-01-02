@@ -1,3 +1,6 @@
+> 本文内容由[LGBT相关电影列表](https://zh.wikipedia.org/wiki/LGBT相关电影列表)转换而来。
+
+
 涉及[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")、[雙性戀與](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")／或[跨性別](../Page/跨性別.md "wikilink")话题的[电影](../Page/电影.md "wikilink")，塑造了重要的同志[角色](../Page/角色.md "wikilink")和／或把同性恋、雙性戀以及／或跨性別身份或关系作为一个重要的剧情的有：
 
 ## 華語電影

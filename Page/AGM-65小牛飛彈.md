@@ -1,3 +1,6 @@
+> 本文内容由[AGM-65小牛飛彈](https://zh.wikipedia.org/wiki/AGM-65小牛飛彈)转换而来。
+
+
 **AGM-65“小牛”**（），是[美国](../Page/美国.md "wikilink")研制的一种為[近距離空中支援而开发的空對地戰術](https://zh.wikipedia.org/wiki/近距離空中支援 "wikilink")[飛彈](https://zh.wikipedia.org/wiki/飛彈 "wikilink")（AGM），射程48公里。它能有效地打擊各種戰術目標，包括裝甲單位、防空設備，艦艇，地面運輸部隊及燃料儲存設施等。
 
 AGM-65設計時納入模組化設計，可以讓不同尋標器、戰鬥部結合在相同的固體燃料火箭發動機彈體上；不同型的AGM-65具有不同的導引系統，包括[光電](https://zh.wikipedia.org/wiki/光電 "wikilink")、[激光](../Page/激光.md "wikilink")、[红外线](../Page/红外线.md "wikilink")、[感光耦合元件](../Page/感光耦合元件.md "wikilink")、[極高頻導引等](https://zh.wikipedia.org/wiki/極高頻 "wikilink")。AGM-65亦有兩類彈頭，一種重57公斤、於頭部有[接觸引信](https://zh.wikipedia.org/wiki/接觸引信 "wikilink")，另一種彈頭較重為136公斤、配備[延遲引信](https://zh.wikipedia.org/wiki/延遲引信 "wikilink")，後者增加的動能穿透目標后再引爆；後者對大型、堅固的目標最為有效。

@@ -1,3 +1,6 @@
+> 本文内容由[Horner–Wadsworth–Emmons反应](https://zh.wikipedia.org/wiki/Horner–Wadsworth–Emmons反应)转换而来。
+
+
 **HWE反应**，即**Horner–Wadsworth–Emmons反应**（**霍纳尔－沃兹沃思－埃蒙斯反应**），常误称为**[Wittig-Horner反应](https://zh.wikipedia.org/wiki/#Wittig-Horner反应 "wikilink")**（**维蒂希－霍纳尔反应**）、**Horner-Wittig反应**，是一个制取[烯烃](../Page/烯烃.md "wikilink")的反应，是[Wittig反应的改进](https://zh.wikipedia.org/wiki/Wittig反应 "wikilink")。反应用稳定的[膦酸酯](https://zh.wikipedia.org/wiki/膦酸酯 "wikilink")[碳负离子](../Page/碳负离子.md "wikilink")，代替[磷叶立德](https://zh.wikipedia.org/wiki/磷叶立德 "wikilink")，与[醛](../Page/醛.md "wikilink")、[酮](../Page/酮.md "wikilink")反应生成烯烃。产物主要为E-型烯烃。反应综述参见：\[1\]\[2\]\[3\]\[4\]。
 
 [Horner-Wadsworth-Emmons_Reaction_Example.png](https://zh.wikipedia.org/wiki/File:Horner-Wadsworth-Emmons_Reaction_Example.png "fig:Horner-Wadsworth-Emmons_Reaction_Example.png")

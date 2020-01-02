@@ -1,3 +1,6 @@
+> 本文内容由[MacOS](https://zh.wikipedia.org/wiki/MacOS)转换而来。
+
+
 **macOS**（\[1\]；2011年及之前称**Mac OS X**，2012年至2015年称**OS X**）是[蘋果公司推出的基于](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，為的主操作系统。[StatCounter](../Page/StatCounter.md "wikilink")在2018年8月的数据表示，在桌面操作系统中，macOS的[使用份额为](../Page/操作系统使用份额.md "wikilink")12.65%，次于[Windows的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")82.51%位居第二\[2\]。
 
 **macOS** 是1999年发行的[经典 Mac OS](../Page/Classic_Mac_OS.md "wikilink") 最终版本 [Mac OS 9](../Page/Mac_OS_9.md "wikilink") 的后继者。1999年发布 [macOS Server](https://zh.wikipedia.org/wiki/macOS_Server "wikilink") 的首个版本 [Mac OS X Server 1.0](../Page/Mac_OS_X_Server_1.0.md "wikilink")，桌面版 Mac OS X 10.0“Cheetah”于2001年3月24日发布。2012年苹果将 Mac OS X 更名为 **OS X**，第一个使用此命名的系统为“[OS X Mountain Lion](../Page/OS_X_Mountain_Lion.md "wikilink")”。以前版本的 macOS 以大型猫科动物命名，例如 Mac OS X v10.8 被称为“Mountain Lion”，但随着2013年6月 [OS X Mavericks](../Page/OS_X_Mavericks.md "wikilink") 的公布，命名开始采用加州地标。2016年6月，苹果公司宣布 OS X 更名为**macOS**，以便与苹果其他操作系统 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[watchOS](https://zh.wikipedia.org/wiki/watchOS "wikilink") 和 [tvOS](https://zh.wikipedia.org/wiki/tvOS "wikilink") 保持统一的命名风格。最新版本[macOS Mojave于](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink")2018年9月25日发布。\[3\]

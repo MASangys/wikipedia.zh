@@ -1,3 +1,6 @@
+> 本文内容由[NYLAS](https://zh.wikipedia.org/wiki/NYLAS)转换而来。
+
+
 **NYLAS**是一個活躍於[台灣的電子樂團](https://zh.wikipedia.org/wiki/台灣 "wikilink")，目前由LABI（[主唱](../Page/歌手.md "wikilink")）、ARNY（[電腦](https://zh.wikipedia.org/wiki/電腦 "wikilink")．[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")）組成，兩位皆是樂團[草莓救星的團員](https://zh.wikipedia.org/wiki/草莓救星 "wikilink")，但是參與了法雅客書店所主辦的**第二屆 注意新秀**比賽獲得優勝，因此兩人成立了NYLAS。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[Star! Start!星空傳奇Live Concert](https://zh.wikipedia.org/wiki/Star!_Start!星空傳奇Live_Concert)转换而来。
+
+
 **星空傳奇 LIVE Concert**是[臺灣](../Page/臺灣.md "wikilink")歌手[楊宗緯](https://zh.wikipedia.org/wiki/楊宗緯 "wikilink")，於2008年5月17日，在[台北巨蛋舉辦第一次的個人售票演唱會的LIVE實錄專輯](https://zh.wikipedia.org/wiki/臺北小巨蛋 "wikilink")，收錄其中30首演唱會歌曲，與楊宗緯苦練舞技精彩花絮。其中包括有挑戰[賈斯汀舞蹈的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")《SEXY BACK》 ，[王力宏](../Page/王力宏.md "wikilink")的《龍的傳人》，[張國榮](../Page/張國榮.md "wikilink")的《Monica》，與[張學友的](https://zh.wikipedia.org/wiki/張學友 "wikilink")《天氣這麼熱》。
 
 ## 完整演唱會曲目

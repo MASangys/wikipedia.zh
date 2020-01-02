@@ -1,3 +1,6 @@
+> 本文内容由[TAPI](https://zh.wikipedia.org/wiki/TAPI)转换而来。
+
+
 **TAPI**（Telephony Application Programming Interface）全名**電話應用程式化介面**，是微軟所提供的應用程式介面，用於傳統電話撥接的功能。TAPI可用於控制調變解調器（modem），甚至是[用戶交換機](https://zh.wikipedia.org/wiki/用戶交換機 "wikilink")（PBX）。
 
 一些廠商提供的驅動程式可以控制多組handsets.傳統上稱之為"third-party control".還有一些廠商的驅動程式只能允許控制單一組handset.可稱之為"first-party control".電話系統很自然的允許瞬間多點連線.調變解調器（modem）的連線只能是first-party.

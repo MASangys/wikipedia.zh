@@ -1,3 +1,6 @@
+> 本文内容由[Dolphin \(軟體\)](https://zh.wikipedia.org/wiki/Dolphin_\(軟體\))转换而来。
+
+
 **Dolphin**是一個檔案管理程式。也是[KDE SC 4預設的檔案管理程式](../Page/KDE_Software_Compilation_4.md "wikilink")，[KDE 3下則可以選擇安裝](https://zh.wikipedia.org/wiki/KDE_3 "wikilink")。雖然KDE SC 4預設的檔案管理程式被取代，[Konqueror](../Page/Konqueror.md "wikilink")仍然是預設的網頁瀏覽器，用戶依然可選用Konqueror替代預設的檔案管理程式。
 
 在以往的KDE SC，Konqueror作為預設的檔案管理程式和網頁瀏覽器。然而，多年來用戶批評Konqueror對於簡單的檔案管理來說過於複雜。作為回應用戶，KDE團隊將這兩項功能分為兩個獨立的應用程式。在KDE SC 4中，Dolphin是一個小巧的檔案管理程式，並與Konqueror分享了原始碼。Konqueror則繼續發展為一個[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")。\[1\]

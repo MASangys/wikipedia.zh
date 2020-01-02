@@ -1,3 +1,6 @@
+> 本文内容由[HOP TV](https://zh.wikipedia.org/wiki/HOP_TV)转换而来。
+
+
 **HOP TV株式会社**（；）是[台灣最大](https://zh.wikipedia.org/wiki/台灣 "wikilink")[人造衛星](../Page/人造衛星.md "wikilink")[通訊業者](https://zh.wikipedia.org/wiki/通訊 "wikilink")「[台亞衛星通訊](https://zh.wikipedia.org/wiki/台亞衛星通訊 "wikilink")[股份有限公司](../Page/股份有限公司.md "wikilink")」（Teleport Access Services, Inc.）在[日本](../Page/日本.md "wikilink")成立的[子公司](../Page/子公司.md "wikilink")，成立於2007年7月，註冊資本額為一億[日圓](../Page/日圓.md "wikilink")，提供[通訊衛星](../Page/通訊衛星.md "wikilink")電視服務「HOP TV」。
 
 ## 概述

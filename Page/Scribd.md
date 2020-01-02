@@ -1,3 +1,6 @@
+> 本文内容由[Scribd](https://zh.wikipedia.org/wiki/Scribd)转换而来。
+
+
 **Scribd**（pronounced ）是一家文档分享网站，可以发布并分享管理如word文档、pdf、ppt等多种格式文档的网络公司。它由特里普·阿德勒等人在2006年创办\[1\] Scribd主要竞争对手有[Docstoc](https://zh.wikipedia.org/wiki/Docstoc "wikilink")、[edocr](https://zh.wikipedia.org/wiki/edocr "wikilink")、[WePapers](https://zh.wikipedia.org/wiki/WePapers "wikilink")、[Issuu](https://zh.wikipedia.org/wiki/Issuu "wikilink")、[SlideShare等](https://zh.wikipedia.org/wiki/SlideShare "wikilink")\[2\].
 
 ## 参考资料

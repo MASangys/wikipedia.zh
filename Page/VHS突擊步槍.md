@@ -1,3 +1,6 @@
+> 本文内容由[VHS突擊步槍](https://zh.wikipedia.org/wiki/VHS突擊步槍)转换而来。
+
+
 **VHS**（，，意為：克羅地亞製多用途機槍）是一系列由[克罗地亚](../Page/克罗地亚.md "wikilink")槍械製造商公司研製及生產的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 VHS突擊步槍首次在2007年的[iKA展覽之中展出](https://zh.wikipedia.org/wiki/iKA展覽 "wikilink")，每年克羅地亞的資料顯示，在[卡爾洛瓦茨市中展出](https://zh.wikipedia.org/wiki/卡爾洛瓦茨 "wikilink")。\[1\]開發的原因是因為[克羅地亞軍隊的一份招標](../Page/克羅埃西亞軍事.md "wikilink")，需要按照著[北約標準設計的新式單兵步槍裝備](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，並且預計會在2012年將克羅地亞軍隊所裝備的各種[AK的衍生型](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")（包括[扎斯塔瓦M70](../Page/扎斯塔瓦M70突擊步槍.md "wikilink")、[APS-95](../Page/APS-95突擊步槍.md "wikilink")）全部取代。

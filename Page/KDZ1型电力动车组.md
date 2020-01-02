@@ -1,3 +1,6 @@
+> 本文内容由[KDZ1型电力动车组](https://zh.wikipedia.org/wiki/KDZ1型电力动车组)转换而来。
+
+
 **KDZ1型电力动车组**是[中国铁路第一代](../Page/中華人民共和國鐵路運輸.md "wikilink")[交流](../Page/交流電.md "wikilink")[电力动车组的实验性车型](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，由[长春客车厂](https://zh.wikipedia.org/wiki/长春客车厂 "wikilink")、[株洲电力机车研究所](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")、[铁道部科学研究院等单位于](../Page/中国铁道科学研究院.md "wikilink")1988年联合研制成功。
 
 ## 发展历史

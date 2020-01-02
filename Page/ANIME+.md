@@ -1,3 +1,6 @@
+> 本文内容由[ANIME+](https://zh.wikipedia.org/wiki/ANIME+)转换而来。
+
+
 ****與**ANIME+**是[日本BS放送](../Page/日本BS放送.md "wikilink")（BS11數位）的[動畫節目播放時段](https://zh.wikipedia.org/wiki/動畫 "wikilink")。\[1\]
 
 ## 概要

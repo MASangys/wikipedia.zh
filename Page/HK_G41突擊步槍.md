@@ -1,3 +1,6 @@
+> 本文内容由[HK G41突擊步槍](https://zh.wikipedia.org/wiki/HK_G41突擊步槍)转换而来。
+
+
 **HK G41**（，意為：步槍型號41，這名稱也是[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")[其中一枝](../Page/Gew_41步槍.md "wikilink")[半自動步槍的編號](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")）是一款由[西德](../Page/西德.md "wikilink")軍火生產商[黑克勒&科赫](../Page/黑克勒&科赫.md "wikilink")在1981年研制和[有限數量生產的](https://zh.wikipedia.org/wiki/限量生產 "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")。發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，可以同時發射M193和SS109兩種[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
 
 這枝步槍的設計概念是要取代同樣是5.56毫米[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[HK33系列而且同時提供了一個能夠符合](../Page/HK33突擊步槍.md "wikilink")[北約標準和更現代化的武器平台](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。\[1\]可由於其高昂的代價（1,700[美元](../Page/美元.md "wikilink")）是眾所周知，導致它並無獲[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")所採用（結果是被[HK G36所取代](../Page/HK_G36突擊步槍.md "wikilink")）。

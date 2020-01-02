@@ -1,3 +1,6 @@
+> 本文内容由[Mali \(GPU\)](https://zh.wikipedia.org/wiki/Mali_\(GPU\))转换而来。
+
+
 **Mali** 是一款由[ARM Holdings](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink")（ARM，安谋科技）研发设计的移动显示芯片组（[GPUs](https://zh.wikipedia.org/wiki/GPU "wikilink")）系列。该显示芯片组的电路设计和架构研发完全由ARM自主设计，ARM特别设立了[ARM Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink")（ARM挪威）显示处理事业部来负责研发设计ARM Mali显示芯片系列，该部门的前身是**Falanx**。
 
 ## Mali显示技术细节

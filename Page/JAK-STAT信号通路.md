@@ -1,3 +1,6 @@
+> 本文内容由[JAK-STAT信号通路](https://zh.wikipedia.org/wiki/JAK-STAT信号通路)转换而来。
+
+
 **JAK-STAT信号传送途径**（）使得细胞外的化学信号跨越细胞膜并将信息传送到细胞核内DNA上的基因启动子上，最终引起细胞中DNA转录与活性水平发生改变。JAK-STAT系统是除了[第二信使系统](../Page/第二信使系统.md "wikilink")外最重要的信号途径。
 
 JAK-STAT系统由三个主要部分组成：（1）受体、（2）[JAK激酶](../Page/JAK激酶.md "wikilink")与（3）信号转导及转录激活蛋白（[STAT](https://zh.wikipedia.org/wiki/STAT蛋白 "wikilink")）\[1\]。
@@ -37,12 +40,9 @@ JAK-STAT途径是进化保守的，从黏菌和蠕虫到哺乳动物（但真菌
 [Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
 
 1.
-
 2.
 3.
 4.
-
 5.
 6.
-
 7.

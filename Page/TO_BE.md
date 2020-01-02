@@ -1,3 +1,6 @@
+> 本文内容由[TO BE](https://zh.wikipedia.org/wiki/TO_BE)转换而来。
+
+
 《**TO BE**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第8張單曲，1999年5月12日於日本發行8cm版本。2001年2月28日再發行12cm版本。
 
 ## 說明

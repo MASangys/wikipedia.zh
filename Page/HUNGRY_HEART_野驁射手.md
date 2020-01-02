@@ -1,3 +1,6 @@
+> 本文内容由[HUNGRY HEART 野驁射手](https://zh.wikipedia.org/wiki/HUNGRY_HEART_野驁射手)转换而来。
+
+
 《**HUNGRY HEART 野驁射手**》（）-{zh-hans:，;zh-tw:，;zh-hk:，[TVB又譯](https://zh.wikipedia.org/wiki/TVB "wikilink")**踢出我天地**，}-是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋陽一](https://zh.wikipedia.org/wiki/高橋陽一 "wikilink")2002年至2004年在《[週刊少年Champion](../Page/週刊少年Champion.md "wikilink")》上連載的一部[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，出版社是[秋田書店](../Page/秋田書店.md "wikilink")，單行本共6卷。
 
 ## 故事簡介

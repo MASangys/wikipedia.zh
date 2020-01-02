@@ -1,3 +1,6 @@
+> 本文内容由[Colorful Kiss ～12コの胸キュン！～](https://zh.wikipedia.org/wiki/Colorful_Kiss_～12コの胸キュン！～)转换而来。
+
+
 《****》是[戲畫在](../Page/戲畫_\(遊戲品牌\).md "wikilink")2003年3月14日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")，2007年12月14日發售對應[Windows Vista的記念版](../Page/Windows_Vista.md "wikilink")（）。和Colorful系列第二作《》在內容上並無關聯。
 
 ## 登場人物

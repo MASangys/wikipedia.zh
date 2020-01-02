@@ -1,3 +1,6 @@
+> 本文内容由[Windows Me](https://zh.wikipedia.org/wiki/Windows_Me)转换而来。
+
+
 ****（，版本号：4.9，开发代号：）是一个[16位](https://zh.wikipedia.org/wiki/16位 "wikilink")／[32位混合的](https://zh.wikipedia.org/wiki/32位 "wikilink")[Windows系统](https://zh.wikipedia.org/wiki/Windows "wikilink")，于2000年9月14日由[微软](../Page/微软.md "wikilink")公司发行。Windows Me是现时最后一个基于DOS的混合16位／32位的Windows 9X系列的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。其名字“****”有两个意思：一是纪念公元2000年，因为“”可作“[千禧年特別版](https://zh.wikipedia.org/wiki/千禧年 "wikilink")”（）的缩写；二是寓意个人运用版，因为“”在[英文中的本意是](https://zh.wikipedia.org/wiki/英文 "wikilink")“自己”。
 
 ## 新特性

@@ -1,3 +1,6 @@
+> 本文内容由[Mon chéri](https://zh.wikipedia.org/wiki/Mon_chéri)转换而来。
+
+
 ****是[日本](../Page/日本.md "wikilink")女性聲優[田村由香里](../Page/田村由香里.md "wikilink")的單曲唱片，由[KING RECORDS製作及發行](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")，商品編號為NMAX-70001。
 
 ## 概要

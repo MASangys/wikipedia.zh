@@ -1,3 +1,6 @@
+> 本文内容由[Kdenlive](https://zh.wikipedia.org/wiki/Kdenlive)转换而来。
+
+
 | screenshot = Kdenlive 19.04.2 English.png | caption = | developer = | latest release version = 19.04.3 | latest release date = \[1\] | status = 活躍 | operating system = [Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") | genre = 影片編輯器 | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | language = 多語言 | website =  }}
 
 **Kdenlive**（KDE Non-Linear Video Editor）\[2\]\[3\]是一種基於[MLT框架](../Page/Media_Lovin'_Toolkit.md "wikilink")、KDE和Qt的[自由开源的](../Page/自由及开放源代码软件.md "wikilink")[非線性影片編輯器](../Page/非線性剪輯.md "wikilink")，注重靈活性和易用性。 該項目最初由Jason Wood在2002年開發 ，現在則有一個小團隊的開發人員。 \[4\] 随着Kdenlive 15.04.0的发布，它成为官方KDE项目的一部分。\[5\]

@@ -1,3 +1,6 @@
+> 本文内容由[俠盜獵車手IV](https://zh.wikipedia.org/wiki/俠盜獵車手IV)转换而来。
+
+
 是「[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")」第十一個作品，Rockstar Games原定遊戲在2007年10月16日於[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[Xbox 360平台上推出](../Page/Xbox_360.md "wikilink")，但因[Playstation 3版開發不順导致发售日期延後到](https://zh.wikipedia.org/wiki/Playstation_3 "wikilink")2008年4月29日。遊戲使用全新的[RAGE引擎](https://zh.wikipedia.org/wiki/RAGE引擎 "wikilink")\[1\]。而[Windows平台則於](https://zh.wikipedia.org/wiki/Windows "wikilink")12月2日於北美發售。[Xbox 360平台上有兩個獨立的](../Page/Xbox_360.md "wikilink")[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，第一部為《[俠盜獵車手：失落與詛咒](../Page/俠盜獵車手：失落與詛咒.md "wikilink")》，第二部為《[俠盜獵車手：夜生活之曲](../Page/俠盜獵車手：夜生活之曲.md "wikilink")》，分别在2009年2月17日和10月29日釋出。在2010年初，官方宣佈Xbox 360上的兩部資料片將以「[自由城之章](../Page/俠盜獵車手：自由城之章.md "wikilink")」為名，移植至PC與PS3平臺\[2\]，同年4月13日美版發售，4月16日歐版發售。於2017年2月9日開始向下相容於[Xbox One](../Page/Xbox_One.md "wikilink")。
 
 作为一个成功的游戏，侠盗猎车手IV在一周内的销售额达到了5亿美金。\[3\]游戏媒体IGN对这款游戏评价非常高，声称它是[電子遊戲歷史上自](https://zh.wikipedia.org/wiki/電子遊戲歷史 "wikilink")《[塞尔达传说：时之笛](https://zh.wikipedia.org/wiki/塞尔达传说：时之笛 "wikilink")》以来最好的游戏\[4\]<ref name="GameSpot Review">Following the game's launch, Justin Calvert of [GameSpot](../Page/GameSpot.md "wikilink") published two identical reviews, one for each console:

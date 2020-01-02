@@ -1,3 +1,6 @@
+> 本文内容由[Yummy](https://zh.wikipedia.org/wiki/Yummy)转换而来。
+
+
 **Yummy**是台灣四人女子組合，2001年出道，成員包括[小林王子](https://zh.wikipedia.org/wiki/陳盈君 "wikilink")、[幃幃](../Page/許淑幃.md "wikilink")、[王樂妍](../Page/王樂妍.md "wikilink")、[反凡](https://zh.wikipedia.org/wiki/范人仁 "wikilink")。高中畢業前夕，她們於[華岡藝校試演會被相中選為少女團體成員](https://zh.wikipedia.org/wiki/華岡藝校 "wikilink")，並以9人少女團體[Young美眉出道](https://zh.wikipedia.org/wiki/Young美眉 "wikilink")，為節目助理主持。2005年10月25日，精簡為4人團體後，改名為Yummy，並以環球唱片年度新人推出首張同名專輯。\[1\]
 
 ## 成員資料

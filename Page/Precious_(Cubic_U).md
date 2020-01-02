@@ -1,3 +1,6 @@
+> 本文内容由[Precious \(Cubic U\)](https://zh.wikipedia.org/wiki/Precious_\(Cubic_U\))转换而来。
+
+
 ***Precious*** 是[宇多田光](../Page/宇多田光.md "wikilink")在正式出道前以「Cubic U」之名發表的英文專輯，於1996年在紐約Sony Music工作室錄製。本作首次於1998年1月28日在日本發行。原定於日本美國同步發行，但因[EMI](../Page/EMI.md "wikilink")的內部重組問題，本專輯未在美國發行，只有在日本發行。之後1999年3月31日在日本重新發行。
 
 ## 曲目

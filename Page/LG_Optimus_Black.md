@@ -1,3 +1,6 @@
+> 本文内容由[LG Optimus Black](https://zh.wikipedia.org/wiki/LG_Optimus_Black)转换而来。
+
+
 [LG전자,_가장_밝은_스마트폰_‘옵티머스_블랙’_출시.jpg](https://zh.wikipedia.org/wiki/File:LG전자,_가장_밝은_스마트폰_‘옵티머스_블랙’_출시.jpg "fig:LG전자,_가장_밝은_스마트폰_‘옵티머스_블랙’_출시.jpg") **LG Optimus Black**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂金電子於](https://zh.wikipedia.org/wiki/LG "wikilink")2011年推出的中高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。其特色是為全球第一支採用擁有高亮度─800nit（[燭光](https://zh.wikipedia.org/wiki/燭光 "wikilink")）的[NOVA IPS LED螢幕](https://zh.wikipedia.org/wiki/IPS "wikilink")。\[1\]\[2\]
 
 ## 規格\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[I Love My Name](https://zh.wikipedia.org/wiki/I_Love_My_Name)转换而来。
+
+
 
 
 **《I Love My Name》**是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，與其首張[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《[Ivana](../Page/Ivana.md "wikilink")》同樣是以代表王菀之的小鳥圖案作封面設計，發行日期為2005年11月11日。《I Love My Name》AVCD於2006年3月發行，於[豐澤電器](../Page/豐澤電器.md "wikilink")隨[Motorola](https://zh.wikipedia.org/wiki/Motorola "wikilink") A732手機贈送。大碟名稱來自歌曲《多得你夢》的其中一句歌詞。

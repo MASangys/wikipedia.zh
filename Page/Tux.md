@@ -1,3 +1,6 @@
+> 本文内容由[Tux](https://zh.wikipedia.org/wiki/Tux)转换而来。
+
+
 [NewTux.svg](https://zh.wikipedia.org/wiki/File:NewTux.svg "fig:NewTux.svg")
 
 **Tux**（一只企鹅）是[Linux](../Page/Linux.md "wikilink")的标志。将[企鹅作为Linux标志是由](https://zh.wikipedia.org/wiki/企鹅 "wikilink")[林納斯·托瓦茲提出的](https://zh.wikipedia.org/wiki/林納斯·托瓦茲 "wikilink")。

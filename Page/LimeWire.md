@@ -1,3 +1,6 @@
+> 本文内容由[LimeWire](https://zh.wikipedia.org/wiki/LimeWire)转换而来。
+
+
 **LimeWire**是一個使用[Gnutella](../Page/Gnutella.md "wikilink")網絡來尋找與傳送檔案的[Java平台](https://zh.wikipedia.org/wiki/Java平台 "wikilink")[點對點](https://zh.wikipedia.org/wiki/點對點 "wikilink")[檔案分享](../Page/檔案分享.md "wikilink")客戶端。Limewire是一個以[GNU通用公共許可證發佈的](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，另外亦鼓勵用戶繳費使用LimeWire Pro。2010年10月26日LimeWire输掉了与美国唱片业协会的版权官司，被法院命令永久停止运作。\[1\]在LimeWire网站被关闭前，在所有使用P2P网络的网民中，56%使用LimeWire。2010年第四季度LimeWire网站被迫关闭后，许多用户转向[Frostwire](../Page/FrostWire.md "wikilink")。去年第四季度，Frostwire的使用比例从第三季度的10%增至21%，Bittorrent从第三季度的8%增至12%。
 
 ## 特點

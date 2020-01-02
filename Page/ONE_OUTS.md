@@ -1,3 +1,6 @@
+> 本文内容由[ONE OUTS](https://zh.wikipedia.org/wiki/ONE_OUTS)转换而来。
+
+
 《**ONE OUTS**》是[甲斐谷忍](../Page/甲斐谷忍.md "wikilink")的[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")，正式標題是《**ONE OUTS Nobody wins, but I\!**》，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")19卷，在[集英社](../Page/集英社.md "wikilink")的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")《[Business Jump](../Page/Business_Jump.md "wikilink")》上連載（從1998年24號至2006年18號）。[電視動畫從](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2008年10月起開始播放。
 
 伴随動畫版的播出，在2008年10月1日發售的《Business Jump》上開始短期集中連載《ONE OUTS 疑惑的全明星賽篇》，其後作爲漫畫第20卷來發行。

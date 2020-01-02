@@ -1,3 +1,6 @@
+> 本文内容由[CSM](https://zh.wikipedia.org/wiki/CSM)转换而来。
+
+
 **CSM**（英語：Certified Scrum Master，Certified為認證之義），是[Scrum](../Page/Scrum.md "wikilink")[軟體開發中的](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")[認證](../Page/專業認證.md "wikilink")，是由Scrum Alliance所認證，此一認證需理解[Scrum](../Page/Scrum.md "wikilink")開發的精神，並且可以實踐及應用Scrum\[1\]。Scrum Master是Scrum團隊內的角色之一，Scrum Master的角色是幫助團隊成員，以正確方式使用Scrum，並且整合團隊\[2\]。Scrum工作者的認證除了CSM外，還有認證的Scrum產品負責人（[CSPO](https://zh.wikipedia.org/wiki/CSPO "wikilink")）\[3\]。
 
 要獲得CSM認證，是由Scrum Alliance認證的Scrum培訓師（CST）進行兩天（16小時）的指導與授證，學員還需通過一小時的線上測驗，通過考試後，才能取得認證\[4\]。

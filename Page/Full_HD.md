@@ -1,3 +1,6 @@
+> 本文内容由[Full HD](https://zh.wikipedia.org/wiki/Full_HD)转换而来。
+
+
 ，即**超高畫質**。普遍被人們認為[HD的下一畫質](https://zh.wikipedia.org/wiki/HD "wikilink")。定義支援或相容於高畫質訊號的[顯示器](https://zh.wikipedia.org/wiki/顯示器 "wikilink")（面板）或[投影機或其他顯示設備等的實際顯示](https://zh.wikipedia.org/wiki/投影機 "wikilink")[解析度規格為](https://zh.wikipedia.org/wiki/解析度 "wikilink")1920 × 1080；或者影像最終呈現的解析度為1920 × 1080。
 
 礙於電子科技裝置不同，HD最低支援為1024 × 768，即720p。而即以1920 × 1080為底居多，即[1080p](../Page/1080p.md "wikilink")。相關的有電腦顯示器呈現的1920 × 1280，1366 × 768。

@@ -1,3 +1,6 @@
+> 本文内容由[TED大会](https://zh.wikipedia.org/wiki/TED大会)转换而来。
+
+
 [Chris_Anderson_2007.jpg](https://zh.wikipedia.org/wiki/File:Chris_Anderson_2007.jpg "fig:Chris_Anderson_2007.jpg") [Bill_Clinton_talking_at_TED_2007.jpg](https://zh.wikipedia.org/wiki/File:Bill_Clinton_talking_at_TED_2007.jpg "fig:Bill_Clinton_talking_at_TED_2007.jpg")在2007年TED大会上发表演讲\]\]
 
 **TED Conference LLC.**（指**T**echnology, **E**ntertainment, **D**esign在英语中的缩写，即[技术](../Page/技术.md "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[设计](https://zh.wikipedia.org/wiki/设计 "wikilink")）是美国的一家私有[非营利机构](https://zh.wikipedia.org/wiki/非营利机构 "wikilink")，该机构以它组织的TED大会著称。TED诞生于1984年，其創辦人是。

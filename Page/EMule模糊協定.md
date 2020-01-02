@@ -1,3 +1,6 @@
+> 本文内容由[EMule模糊協定](https://zh.wikipedia.org/wiki/EMule模糊協定)转换而来。
+
+
 **模糊協定**（，又稱**迷惑協定**、**協定迷惑**、**協定加密**、**迷惑协议**）是[eMule在](https://zh.wikipedia.org/wiki/eMule "wikilink")0.47b之後的版本正式加入的一項功能，這個功能主要是針對[ISP的流量限制做出反擊](https://zh.wikipedia.org/wiki/ISP "wikilink")。
 
 ## 簡介

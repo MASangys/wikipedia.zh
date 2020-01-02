@@ -1,3 +1,6 @@
+> 本文内容由[SD GUNDAM外傳系列](https://zh.wikipedia.org/wiki/SD_GUNDAM外傳系列)转换而来。
+
+
 「SD鋼彈外傳」，又稱「騎士鋼彈系列」，是SD鋼彈三大系列中，以歐洲中世紀的騎士為藍本，發展出來的獨立作品，與三大系列的「武者」、「司令戰記」齊名。由1989年「吉翁萬歲編」延續至1996年「鎧鬥神戰記」為止，涉及的商品包括[元祖SD GUNDAM模型](https://zh.wikipedia.org/wiki/元祖SD_GUNDAM模型 "wikilink")、萬變卡、電玩遊戲等等多個範疇。
 
 ## 96年以後的發展

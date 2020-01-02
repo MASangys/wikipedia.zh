@@ -1,3 +1,6 @@
+> 本文内容由[Dream Fighter](https://zh.wikipedia.org/wiki/Dream_Fighter)转换而来。
+
+
 《**Dream Fighter**》是日本[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第八張](../Page/Perfume_\(日本音樂團體\).md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年11月19日發行。唱片公司為[Tokuma Japan Communications](../Page/德間日本傳播.md "wikilink")。
 
 ## 解説

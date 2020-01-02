@@ -1,3 +1,6 @@
+> 本文内容由[II型超新星](https://zh.wikipedia.org/wiki/II型超新星)转换而来。
+
+
 [HST_SN_1987A_20th_anniversary.jpg](https://zh.wikipedia.org/wiki/File:HST_SN_1987A_20th_anniversary.jpg "fig:HST_SN_1987A_20th_anniversary.jpg")的一顆Ⅱ型超新星。 圖片來源：''[NASA](https://zh.wikipedia.org/wiki/NASA "wikilink") ''。\]\]
 
 **Ⅱ型[超新星](../Page/超新星.md "wikilink")**（罗马数字2），也稱為**核塌縮超新星**，是大質量[恆星由內部塌縮引發劇烈爆炸的的結果](https://zh.wikipedia.org/wiki/恆星 "wikilink")，在分類上是[激變變星](../Page/激變變星.md "wikilink")的一個分支。能造成內部塌縮的恆星，質量至少是[太陽質量的](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")9倍。\[1\]

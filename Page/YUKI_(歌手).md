@@ -1,3 +1,6 @@
+> 本文内容由[YUKI \(歌手\)](https://zh.wikipedia.org/wiki/YUKI_\(歌手\))转换而来。
+
+
 **YUKI**是日本女歌手。原[JUDY AND MARY主唱](../Page/JUDY_AND_MARY.md "wikilink")。出身於[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")。本名**倉持有希**，舊姓**磯谷**。90年代初，YUKI在乐队解散后作为个人歌手出道，并以J-POP的音乐风格继续着音乐事业。她在对音乐有浓厚兴趣的日本女性之间被认为是神奇的存在。同时她也是对GIRLPOP风格的确立作出了贡献的一位歌手。
 
 ## 簡歷

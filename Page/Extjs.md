@@ -1,3 +1,6 @@
+> 本文内容由[Extjs](https://zh.wikipedia.org/wiki/Extjs)转换而来。
+
+
 **ExtJS**是一个纯粹的[JavaScript](../Page/JavaScript.md "wikilink")，用于使用[Ajax](https://zh.wikipedia.org/wiki/Ajax "wikilink")、[DHTML和](../Page/動態HTML.md "wikilink")[DOM脚本构建交互式跨平台](../Page/文档对象模型.md "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")\[1\]。
 
 ## 历史

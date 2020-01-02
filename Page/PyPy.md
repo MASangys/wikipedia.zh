@@ -1,3 +1,6 @@
+> 本文内容由[PyPy](https://zh.wikipedia.org/wiki/PyPy)转换而来。
+
+
 **PyPy**是用[Python](../Page/Python.md "wikilink")实现的Python[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")。
 
 ## 项目背景

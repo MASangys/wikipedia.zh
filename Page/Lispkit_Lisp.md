@@ -1,3 +1,6 @@
+> 本文内容由[Lispkit Lisp](https://zh.wikipedia.org/wiki/Lispkit_Lisp)转换而来。
+
+
 **Lispkit Lisp** 是为测试[函数式编程](../Page/函数式编程.md "wikilink")概念而开发的 [Lisp](../Page/LISP.md "wikilink") 语言的严格函数式子集（“**纯 Lisp**”）。它首先使用了对[惰性求值](../Page/惰性求值.md "wikilink")的早期经验。开发者 [Peter Henderson](https://zh.wikipedia.org/wiki/Peter_Henderson "wikilink") 于1980年出版了用一种变体 [ALGOL](../Page/ALGOL.md "wikilink") 语言写的基于 [SECD抽象机](../Page/SECD抽象机.md "wikilink")的实现。编译器和虚拟机都是高度可移植的，并已经在多种机器上实现。
 
 ## 基本函数

@@ -1,3 +1,6 @@
+> 本文内容由[Adobe ColdFusion](https://zh.wikipedia.org/wiki/Adobe_ColdFusion)转换而来。
+
+
 **Adobe ColdFusion**（[直译](https://zh.wikipedia.org/wiki/直译 "wikilink")：**冷聚变**），是一个商用的快速应用程式开发平台，在1995年由JJ Allaire开创。ColdFusion最初是为了创建能与[数据库](../Page/数据库.md "wikilink")连接的网站而开发的。2.0版本（1996年推出）以后，它成为了一个全面的开发平台,包括一个[集成开发环境](../Page/集成开发环境.md "wikilink")以及功能全面的[脚本语言](../Page/脚本语言.md "wikilink")。ColdFusion支持的[CFML](https://zh.wikipedia.org/wiki/CFML "wikilink")（ColdFusion Markup Language）是一种[脚本语言](../Page/脚本语言.md "wikilink")，文件以\*.cfm为[文件名](https://zh.wikipedia.org/wiki/文件名 "wikilink")，在ColdFusion专用的应用服务器环境下运行。cfm文件被编译器翻译为对应的[C++](../Page/C++.md "wikilink")语言程序，然后运行并向浏览器返回结果。它的设计思想被一些人认为非常先进，被一些语言所借鉴。
 
 ## 概况

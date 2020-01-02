@@ -1,3 +1,6 @@
+> 本文内容由[哥吉拉×摩斯拉×機械哥吉拉 東京SOS](https://zh.wikipedia.org/wiki/哥吉拉×摩斯拉×機械哥吉拉_東京SOS)转换而来。
+
+
 是2003年12月13日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[哥斯拉系列電影](../Page/哥斯拉系列電影.md "wikilink")的第27集。日本票房收入約13億日圓，觀賞人次110萬人。
 
 本片是「千禧年系列」中唯一的續集，直接延續前作《[哥斯拉×機械哥斯拉](https://zh.wikipedia.org/wiki/哥斯拉×機械哥斯拉 "wikilink")》，但前作的主角[釋由美子](../Page/釋由美子.md "wikilink")僅短暫登場，本片的主角是[金子昇](https://zh.wikipedia.org/wiki/金子昇 "wikilink")，飾演「機龍」的維修士官。

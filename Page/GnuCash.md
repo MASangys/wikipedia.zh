@@ -1,3 +1,6 @@
+> 本文内容由[GnuCash](https://zh.wikipedia.org/wiki/GnuCash)转换而来。
+
+
 **GnuCash**是一套提供[複式簿記系統的](https://zh.wikipedia.org/wiki/複式簿記 "wikilink")[會計軟體](https://zh.wikipedia.org/wiki/會計軟體 "wikilink")。GnuCash起初是針對開發與[Intuit Inc.的應用程式](../Page/Intuit.md "wikilink"),[Quicken相似的功能](https://zh.wikipedia.org/wiki/Quicken "wikilink")，但也有給[中小型企業會計的特色](https://zh.wikipedia.org/wiki/中小型企業 "wikilink")。近期的開發專注在讓現今的桌上型電腦支援資料庫的需求。
 
 GnuCash是[GNU專案的一部分](https://zh.wikipedia.org/wiki/GNU專案 "wikilink")，可執行於[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")、[Mac OS X與其他](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[類Unix系統平台上](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")。可用在 Microsoft Windows（2000或之後）的版本，始於2007年4月14日的2.1.x系列。

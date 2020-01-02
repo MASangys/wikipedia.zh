@@ -1,3 +1,6 @@
+> 本文内容由[Battle Spirits 少年突破馬神](https://zh.wikipedia.org/wiki/Battle_Spirits_少年突破馬神)转换而来。
+
+
 《**Battle Spirits 少年突破馬神**》（）是一套由2008年9月至2009年6月間，開始在[日本](../Page/日本.md "wikilink")播放的[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[SUNRISE改編自](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")[萬代](../Page/萬代.md "wikilink")與魔法風雲會製作組共同出品的CARDDAS系列30周年紀念的卡片遊戲動畫作品。
 
 ## 故事概要

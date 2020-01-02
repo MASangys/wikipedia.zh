@@ -1,3 +1,6 @@
+> 本文内容由[Kukui](https://zh.wikipedia.org/wiki/Kukui)转换而来。
+
+
 **kukui**（发音：）是由myu與[霜月遥组成的](https://zh.wikipedia.org/wiki/霜月遥 "wikilink")[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂 "wikilink")。隸屬於MellowHead。
 
 ## 概要

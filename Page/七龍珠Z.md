@@ -1,3 +1,6 @@
+> 本文内容由[七龍珠Z](https://zh.wikipedia.org/wiki/七龍珠Z)转换而来。
+
+
 《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明](../Page/鳥山明.md "wikilink")漫畫《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink") 獲得廣大觀眾歡迎。
 
 ## 解說

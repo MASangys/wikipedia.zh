@@ -1,3 +1,6 @@
+> 本文内容由[K-理论](https://zh.wikipedia.org/wiki/K-理论)转换而来。
+
+
 在[数学](../Page/数学.md "wikilink")中，**K-理论**（）是多个领域使用的一个工具。在[代数拓扑](../Page/代数拓扑.md "wikilink")中，它是一种[异常上同调](https://zh.wikipedia.org/wiki/异常上同调 "wikilink")，称为[拓扑K-理论](../Page/拓扑K-理论.md "wikilink")；在[代数](../Page/代数.md "wikilink")与[代数几何](../Page/代数几何.md "wikilink")中，称之为[代数K-理论](https://zh.wikipedia.org/wiki/代数K-理论 "wikilink")；在[算子代数中也有诸多应用](https://zh.wikipedia.org/wiki/算子代数 "wikilink")。它导致了一类*K*-[函子](../Page/函子.md "wikilink")构造，K-函子包含了有用、却难以计算的信息。
 
 在[物理学](../Page/物理学.md "wikilink")中，K-理论特别是出现在[第二型弦理論](https://zh.wikipedia.org/wiki/第二型弦理論 "wikilink")，其中猜测它们可分类[D-膜](https://zh.wikipedia.org/wiki/D-膜 "wikilink")、以及广义[复流形上某些](https://zh.wikipedia.org/wiki/复流形 "wikilink")[旋量](../Page/旋量.md "wikilink")。具体细节参见[K-理论 (物理)](https://zh.wikipedia.org/wiki/K-理论_\(物理\) "wikilink")。

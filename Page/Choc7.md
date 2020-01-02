@@ -1,3 +1,6 @@
+> 本文内容由[Choc7](https://zh.wikipedia.org/wiki/Choc7)转换而来。
+
+
 **Choc7**（中文名稱**超克7**），前稱**模范七棒**，出道前稱**棒棒堂二軍**，網友、傳媒、官方及支持者等常簡稱為**二軍**或**七棒**。這是一組經過2008年整個上旬的選戰，3月22日的Mini Concert、雜誌封面拍攝及網上選舉、7月推出的《冒險世界》[EP及其後的各場簽唱會表現及支持票選才產生的男子藝人團體](https://zh.wikipedia.org/wiki/EP "wikilink")，是繼[Lollipop棒棒堂之後的](https://zh.wikipedia.org/wiki/Lollipop@F "wikilink")[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")第二隊出道組合，雖然如此，但各成員本身在人氣上有不小的落差，不過經紀公司[Channel V](../Page/Channel_V.md "wikilink")（台灣）頻道總監[張世明](../Page/張世明.md "wikilink")相信人氣能後天努力，因為選出各成員都是因為他們都擁有不同的才能和同一顆心，向「成功的藝人」的目標出發。
 
 於2008年8月13日模范棒棒堂錄影節目時吸引了廣大媒體採訪及即時報道，而部分媒體就報道了入選成員包括[李銓](../Page/李銓.md "wikilink")、[毛弟](https://zh.wikipedia.org/wiki/邱翊橙 "wikilink")、[小馬](../Page/簡翔棋.md "wikilink")、[野獸](../Page/韋佳宏.md "wikilink")、[阿本](../Page/翁瑞迪.md "wikilink")、[小祿及](../Page/劉祿存.md "wikilink")[鮪魚](../Page/吳俊諺.md "wikilink")，而[牙膏及](../Page/謝東裕.md "wikilink")[翰獎因為表現或人條度不足而被淘汰](../Page/王勇翰.md "wikilink")，變回模范棒棒堂普通成員；[Terry亦因擁有超過團體的表現](../Page/江振愷.md "wikilink")，相當有單飛潛力，故亦不獲入選。

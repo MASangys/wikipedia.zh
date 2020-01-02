@@ -1,3 +1,6 @@
+> 本文内容由[WISH \(嵐\)](https://zh.wikipedia.org/wiki/WISH_\(嵐\))转换而来。
+
+
 《**WISH**》是[嵐](../Page/嵐.md "wikilink")的第15枚[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2005年11月16日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

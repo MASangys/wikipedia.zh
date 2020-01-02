@@ -1,3 +1,6 @@
+> 本文内容由[BackTrack](https://zh.wikipedia.org/wiki/BackTrack)转换而来。
+
+
 |center\]\] | screenshot = BackTrack 5 R1.png | screenshot_size = 250px | caption = BackTrack 5 R1 | family = [类Unix系统](../Page/类Unix系统.md "wikilink") | developer = Mati Aharoni, Emanuele Gentili, and others.\[1\] | website = [www.backtrack-linux.org](http://www.backtrack-linux.org/) | release_version = 5 R3 | release_date =  | source_model = [开放源代码](../Page/开放源代码.md "wikilink") | kernel_type = [單核心](https://zh.wikipedia.org/wiki/單核心 "wikilink") | working_state = 被[Kali Linux取代](../Page/Kali_Linux.md "wikilink") | supported_platforms = [i386(x86)](https://zh.wikipedia.org/wiki/x86 "wikilink"), [amd64(x86-64)](../Page/X86-64.md "wikilink"), [ARM](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink") }} **BackTrack** 是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink") [GNU/Linux的发行版本](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")，主要用做[數位鑑識](../Page/數位鑑識.md "wikilink")和[入侵测试](https://zh.wikipedia.org/wiki/入侵测试 "wikilink")\[2\]。他的名字引用自[回溯法](https://zh.wikipedia.org/wiki/回溯法 "wikilink")（backtracking）。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[NVIDIA GeForce 700](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_700)转换而来。
+
+
 **NVIDIA GeForce 700 系列**是[NVIDIA公司在](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")2013年发布的第十五代[GeForce](../Page/GeForce.md "wikilink")[图形处理器](https://zh.wikipedia.org/wiki/图形处理器 "wikilink")，用於筆記型電腦和桌上型電腦。它主要是使用於GeForce 600系列Kepler架构的改進版（晶片代號以『GK』開頭），不過，和[GeForce 600系列一樣](https://zh.wikipedia.org/wiki/GeForce_600系列 "wikilink")，一些低階型號則仍使用[Fermi架構或是其製程升級版](../Page/NVIDIA_GeForce_400.md "wikilink")。2013年4月，已經有部分GeForce 700系列的行動版顯示核心悄然發布，但都是舊有顯示核心的更名版。2013年5月23日，首款基於GeForce 700系列顯示核心的[顯示卡GeForce](https://zh.wikipedia.org/wiki/顯示卡 "wikilink") GTX 780正式發布，同時也將此前劃分至GeForce 600系列的GeForce GTX TITAN重新劃分到GeForce 700系列中。\[1\]
 
 ## 概觀
@@ -1023,207 +1026,114 @@ GDDR5</p></td>
   - [NVIDIA Kepler Compute Architecture](http://www.nvidia.com/object/nvidia-kepler.html)
   - [Nvidia Nsight](http://developer.nvidia.com/nvidia-nsight-visual-studio-edition)
 
-[Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink") [Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink")
+[Category:GeForce系列](https://zh.wikipedia.org/wiki/Category:GeForce系列 "wikilink") [Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink")
 
 1.  [驅動程式](http://www.geforce.com.tw/drivers)，在GeForce GTX 780發布前，在驅動程式手動搜尋中，GeForce GTX TITAN歸為NVIDIA GeForce 600圖形處理器系列當中，而非NVIDIA GeForce 700系列。而GeForce GTX 780發布後，GeForce GTX TITAN被歸到GeForce 700系列當中。後來發表的GTX TITAN Black Edition以及GTX TITAN Z也被劃分至GeForce 700系列中。
-
 2.
-
 3.
 4.
 5.
 6.
 7.
 8.
-
 9.
 10. geforce.com.tw: [GeForce GTX TITAN](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-titan)
-
 11. [GeForce GTX TITAN Black](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-titan-black)
-
 12. [万众期待 GeForce GTX TITAN正式发布](http://vga.zol.com.cn/354/3547032.html) - zol.com.cn
-
 13. [性能超GTX680四成？ Titan性能震撼首测](http://vga.zol.com.cn/354/3540093_all.html) - zol.com.cn
-
 14. [NVIDIA巅峰之作 GTX Titan显卡首发评测](http://vga.it168.com/a2013/0221/1455/000001455145_all.shtml) - it168.com
-
 15. [新一代单芯显卡之王，GeForce GTX TITAN评测汇总](http://www.expreview.com/23913.html)
-
 16. [EVGA也只能妥协? 超频版GTX Titan展出](http://vga.zol.com.cn/359/3592074.html) - zol.com.cn
-
 17. [宇宙最强单芯卡皇：GTX Titan Black正式发布](http://news.mydrivers.com/1/293/293264.htm) - mydrivers.com
-
 18. [NVIDIA Titan Black cards bring much improved specs, even crazier prices](http://www.engadget.com/2014/02/19/nvidia-titan-black-graphics-card/)
-
 19. [GeForce GTX 780](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-780)
-
 20. [GeForce GTX 780 Ti](http://www.geforce.com.tw/hardware/desktop-gpus/geforce-gtx-780-ti)
-
 21. [“亲民版”泰坦，GeForce GTX 780同步评测](http://www.expreview.com/tag/gtx780.html) - expreview.com
-
 22. [GK110火力全开 新卡皇GTX 780Ti评测](http://www.inpai.com.cn/doc/hard/201187_-3.htm)  - INPAI.COM
-
 23. [新卡皇命运多舛，部分GTX 780 Ti显卡出现烧PCB问题](http://www.expreview.com/29377.html) - expreview.com
-
 24. [GTX780Ti"烧PCB"元凶现身 果然贴纸惹祸?](http://www.inpai.com.cn/doc/hard/201431.htm)  - inpai.com
-
 25. [直接换 部分GTX780Ti显卡有烧PCB问题](http://vga.it168.com/a2013/1112/1558/000001558676.shtml) - it168.com
-
 26.
 27. [英伟达核弹：5760颗Kelper核心+12GB显存](http://www.ithome.com/html/digi/78135.htm?f=mofang) - ithome.com
-
 28.
-
 29.
-
 30. geforce.com.tw: [GeForce 710M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-710m)
-
 31. geforce.com.tw: [GeForce GT730M](http://www.geforce.com.tw/hardware/notebook-gpus/geforce-gt-730m)
-
 32. [NVIDIA Kepler not fully compliant with DirectX 11.1](http://www.guru3d.com/news_story/nvidia_kepler_not_fully_compliant_with_directx_11_1.html)
-
 33. [Nvidia Doesn't Fully Support DirectX 11.1 with Kepler GPUs, But… - Bright Side Of News](http://www.brightsideofnews.com/news/2012/11/21/nvidia-doesnt-fully-support-directx-111-with-kepler-gpus2c-bute280a6.aspx)
-
 34. [GK110 The True Tank - Nvidia GeForce GTX Titan 6 GB GK110 On A Gaming Card](http://www.tomshardware.com/reviews/geforce-gtx-titan-gk110-review,3438-2.html)
-
 35. [Nvidia GeForce GTX 780 Ti Review GK110, Fully Unlocked - GK110, Unleashed The Wonders Of Tight Binning](http://www.tomshardware.com/reviews/geforce-gtx-780-ti-review-benchmarks,3663.html)
-
 36.
-
 37. [麦克斯韦第二炮：GeForce GTX 750](http://news.mydrivers.com/1/291/291247.htm) - mydrivers.com
-
 38. [Details on Nvidia's GeForce GTX 750 Ti, GTX 750 cards leak](http://www.techspot.com/news/55592-details-on-nvidias-geforce-gtx-750-ti-gtx-750-cards-leak.html) - techspot.com
-
 39. [GTX750Ti、GTX750长这样：规格也定了](http://news.mydrivers.com/1/291/291821.htm) - mydrivers.com
-
 40. [新Maxwell显卡GTX750 Ti居然开放预定](http://www.inpai.com.cn/doc/hard/203981.htm)  - inpai.com
-
 41.
-
 42. [GeForce GT 705(OEM) | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-705-oem/specifications)
-
 43. [GeForce GT 705 OEM | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2578/geforce-gt-705-oem)
-
 44. [GeForce GT 710 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-710/specifications)
-
 45. [GeForce GT 710 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2614/geforce-gt-710)
-
 46.
 47. [GeForce GT 710 OEM | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2711/geforce-gt-710-oem)
-
 48.
 49. [GeForce GT 710 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1990/geforce-gt-710)
-
 50. [GeForce GT 720 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-720/specifications)
-
 51. [GeForce GT 720 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2702/geforce-gt-720)
-
 52.
 53. [GeForce GT 720 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1989/geforce-gt-720)
-
 54.
 55. [GeForce GT 730 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2590/geforce-gt-730)
-
 56.
 57. [GeForce GT 730 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-730/specifications)
-
 58. [GeForce GT 730 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1988/geforce-gt-730)
-
 59.
-
 60. [GeForce GT 730 OEM | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2710/geforce-gt-730-oem)
-
 61. [GeForce GT 740 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gt-740/specifications)
-
 62. [GeForce GT 740 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2844/geforce-gt-740)
-
 63. [GeForce GT 740 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2699/geforce-gt-740-oem)
-
 64.
 65. [GeForce GT 740 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1987/geforce-gt-740)
-
 66. [GeForce GTX 745 (OEM) | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-745-oem/specifications)
-
 67. [NVIDIA GeForce GTX 745 OEM| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2561/geforce-gtx-745-oem)
-
 68. [GeForce GTX 750 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-750/specifications)
-
 69. [NVIDIA GeForce GTX 750| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1986/geforce-gtx-750)
-
 70. [NVIDIA GeForce GTX 750 v2| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2778/geforce-gtx-750-v2)
-
 71.
-
 72. [GeForce GTX 750 Ti | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-750-ti/specifications)
-
 73. [NVIDIA GeForce GTX 750 Ti| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2548/geforce-gtx-750-ti)
-
 74. [GeForce GTX 760 192-bit (OEM) | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-760-oem/specifications)
-
 75. [NVIDIA GeForce GTX 760 OEM Rebrand| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2454/geforce-gtx-760-oem-rebrand)
-
 76. [GeForce GTX 760 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-760/specifications)
-
 77. [NVIDIA GeForce GTX 760| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1857/geforce-gtx-760)
-
 78. [GeForce GTX 760 Ti (OEM)| Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-760ti-oem/specifications)
-
 79. [GeForce GTX 760 Ti (OEM)| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2491/geforce-gtx-760-ti-oem)
-
 80. [NVIDIA GeForce GTX 760 Ti OEM Rebrand| Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2453/geforce-gtx-760-ti-oem-rebrand)
-
 81. [GeForce GTX 770 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-770/specifications)
-
 82. [GeForce GTX 770 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1856/geforce-gtx-770)
-
 83. [GeForce GTX 780 | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-780/specifications)
-
 84.
 85. [GeForce GTX 780 6GB | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2707/geforce-gtx-780-6-gb)
-
 86.
 87. [GeForce GTX 780v2 | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2513/geforce-gtx-780-rev-2)
-
 88. [GeForce GTX 780 Ti | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-780-ti)
-
 89. [GeForce GTX 780 Ti | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2512/geforce-gtx-780-ti)
-
 90. [GeForce GTX TITAN | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-titan/specifications)
-
 91. [GeForce GTX TITAN | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/1996/geforce-gtx-titan)
-
 92. [GeForce GTX Titan Black | Specifications | GeForce](http://www.geforce.com/hardware/desktop-gpus/geforce-gtx-titan-black/specifications)
-
 93. [GeForce GTX TITAN BLACK | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2549/geforce-gtx-titan-black)
-
 94.
-
 95. [Ultimate Power. The new GeForce GTX TITAN Z](http://www.geforce.com/whats-new/articles/announcing-the-geforce-gtx-titan-z)
-
 96. [GeForce GTX TITAN Z | Specifications | techpowerup.com](http://www.techpowerup.com/gpudb/2575/geforce-gtx-titan-z)
-
 97. [GeForce 705M | Specifications | GeForce](http://www.notebookcheck.net/NVIDIA-GeForce-705M.92914.0.html)
-
 98. [GeForce 710M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-710m/specifications)
-
 99. [GeForce GT 720M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-720m/specifications)
-
 100. [GeForce GT 730M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-730m/specifications)
-
 101. [GeForce GT 735M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-735m/specifications)
-
 102. [GeForce GT 740M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-740m/specifications)
-
 103. [GeForce GT 745M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-745m/specifications)
-
 104. [GeForce GT 750M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-750m/specifications)
-
 105. [GeForce GT 755M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gt-755m/specifications)
-
 106. [GeForce GTX 760M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gtx-760m/specifications)
-
 107. [GeForce GTX 765M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gtx-765m/specifications)
-
 108. [GeForce GTX 770M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gtx-770m/specifications)
-
 109. [GeForce GTX 780M | Specifications | GeForce](http://www.geforce.com/hardware/notebook-gpus/geforce-gtx-780m/specifications)

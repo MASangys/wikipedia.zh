@@ -1,3 +1,6 @@
+> 本文内容由[Faust \(文藝雜誌\)](https://zh.wikipedia.org/wiki/Faust_\(文藝雜誌\))转换而来。
+
+
 《**Faust**》（），是日本[講談社不定期發行的文藝雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")，2003年9月創刊，第8期於2011年9月發售。
 
 曾授權[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[美國發行當地語言版](https://zh.wikipedia.org/wiki/美國 "wikilink")。其中台灣版由[尖端出版](../Page/尖端出版.md "wikilink")發行，2006年2月7日創刊，雜誌定名為**《浮文誌》**。

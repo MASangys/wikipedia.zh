@@ -1,3 +1,6 @@
+> 本文内容由[IOS版本历史](https://zh.wikipedia.org/wiki/IOS版本历史)转换而来。
+
+
 **iOS版本历史**列举了[苹果公司为移动设备所开发的iOS](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，支持的设备包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")、[iPad的版本历史](https://zh.wikipedia.org/wiki/iPad "wikilink")。[iOS可以通过](https://zh.wikipedia.org/wiki/iOS "wikilink")[iTunes对设备进行升级](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS 5.0及以上版本亦可以通过[OTA的方式进行软件更新](https://zh.wikipedia.org/wiki/空中編程 "wikilink")。[iOS必须要与设备通过苹果服务器进行激活](https://zh.wikipedia.org/wiki/iOS "wikilink")，激活方式可以通过[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")，iOS 5.0及以上版本可以通过[iCloud服务激活](https://zh.wikipedia.org/wiki/iCloud "wikilink")，并且自动同步。iOS 12.4之後的版本更可以通過舊iPhone直接將資料傳輸到新iPhone。iOS會依據手機的存儲大小來分配系統所占用的儲存空間。
 
 {{-}}
@@ -118,7 +121,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>style="background:#d4f4b4|<a href="https://zh.wikipedia.org/wiki/#12.4" title="wikilink">12.4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#12.4" title="wikilink">12.4</a></p></td>
 <td><p>16G77</p></td>
 <td></td>
 <td></td>
@@ -127,15 +130,24 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>style="background:#c1e6f5|<a href="https://zh.wikipedia.org/wiki/#13.0" title="wikilink">13.0 Beta 4</a></p></td>
-<td><p>17A5534f</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/#13.1.3" title="wikilink">13.1.3</a></strong></p></td>
+<td><p>17A878</p></td>
 <td></td>
-<td><p>colspan=3 rowspam=1 </p></td>
+<td><p>colspan=3 rowspan=2 </p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/#13.2_Beta_3" title="wikilink">13.2 Beta 3</a></p></td>
+<td><p>17B5077a</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><table>
 <thead>
 <tr class="header">
@@ -593,7 +605,7 @@
 </tbody>
 </table>
 
-### iOS 5
+#### iOS 5
 
 <table>
 <thead>
@@ -1632,12 +1644,12 @@ Apple于2017年6月5日在其年度Apple全球开发者大会（WWDC）上宣布
 
 #### iOS 13
 
-蘋果公司於2019年6月3日在年度Apple全球開發者大會（WWDC）上宣布推出 iOS 13，但僅發佈測試版，功能包括暗黑模式和Memoji等，支持 [A9](https://zh.wikipedia.org/wiki/Apple "wikilink") 以上的設備\[2\]。此外，iPad獲得專屬平板電腦的作業系統，其操作系統已經更名為iPadOS。
+蘋果公司於2019年6月3日在年度Apple全球開發者大會（WWDC）上宣布推出 [iOS 13](https://zh.wikipedia.org/wiki/iOS_13 "wikilink")，但僅發佈測試版，功能包括暗黑模式和Memoji等，支持 [A9](../Page/Apple_A9.md "wikilink") 以上的設備\[2\]。此外，iPad獲得專屬平板電腦的作業系統，其操作系統已經更名為 [iPadOS](https://zh.wikipedia.org/wiki/iPadOS "wikilink")。
 
 <table>
 <thead>
 <tr class="header">
-<th><p>版本列表：iOS 13.0.x</p></th>
+<th><p>版本列表：iOS 13.0 - iPhone</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1655,7 +1667,79 @@ Apple于2017年6月5日在其年度Apple全球开发者大会（WWDC）上宣布
 <td><p>版本</p></td>
 </tr>
 <tr class="odd">
-<td><p>13.0 Beta 4</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13.0</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表： iOS 13.1.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>有限的支援 <a href="https://zh.wikipedia.org/wiki/IPhone_6S" title="wikilink">iPhone 6S/6S Plus</a> 、 <a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">iPhone SE</a></em></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>13.1</p></td>
+</tr>
+<tr class="even">
+<td><p>13.1.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>13.1.2</p></td>
+</tr>
+<tr class="even">
+<td><p>13.1.3</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表： iOS 13.2.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><em>有限的支援 <a href="https://zh.wikipedia.org/wiki/IPhone_6S" title="wikilink">iPhone 6S/6S Plus</a> 、 <a href="https://zh.wikipedia.org/wiki/iPhone_SE" title="wikilink">iPhone SE</a></em></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>13.2 Beta 3</p></td>
 </tr>
 </tbody>
 </table>

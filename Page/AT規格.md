@@ -1,3 +1,6 @@
+> 本文内容由[AT規格](https://zh.wikipedia.org/wiki/AT規格)转换而来。
+
+
 **AT**（Advanced Technology）規格是一種[主機板規格](../Page/主機板規格比較.md "wikilink")，在1984年由[IBM](../Page/IBM.md "wikilink")制定，常見於80年代至90年代\[1\]。現在，已經被淘汰，於1990年代中期被[ATX規格取代](https://zh.wikipedia.org/wiki/ATX "wikilink")。
 
 標準的AT主機板長12英吋，寬11至13英吋（305毫米x 279-330毫米）。

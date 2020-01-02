@@ -1,3 +1,6 @@
+> 本文内容由[S](https://zh.wikipedia.org/wiki/S)转换而来。
+
+
 **S**, **s** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第19个英文字母。
 
 [闪族语的](https://zh.wikipedia.org/wiki/闪族语 "wikilink") （弓）的发音与现代[英语](../Page/英语.md "wikilink")中的连音SH的发音相同，都发作。在[希腊语中](https://zh.wikipedia.org/wiki/希腊语 "wikilink")，只用一个[音位](../Page/音位.md "wikilink")而没有，所以希腊语中的（sigma）用来表示希腊语中的发音。*sigma*这个名字可能来源于闪族语字母"Sâmek"而不是"Šîn"。在[伊特鲁里亚语和](https://zh.wikipedia.org/wiki/伊特鲁里亚语 "wikilink")[拉丁语](../Page/拉丁语.md "wikilink")中，的音值仍然保留着，只是到了现代，S开始表达其他的发音，像在[匈牙利语](../Page/匈牙利语.md "wikilink")中的或英语、[法语](../Page/法语.md "wikilink")和[德语](../Page/德语.md "wikilink")中的（在英语中的*rise*；法语中的*lisez*、“读！（命令式，复数）”；德语中的*lesen*，“读”）。

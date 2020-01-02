@@ -1,3 +1,6 @@
+> 本文内容由[WNBA全明星赛](https://zh.wikipedia.org/wiki/WNBA全明星赛)转换而来。
+
+
 **WNBA全明星赛**（**All-Star Game**），是由[美国](../Page/美国.md "wikilink")[国家女子篮球协会在](../Page/WNBA.md "wikilink")1999年7月14日首次举行的每年一度的WNBA球星汇集的表演赛。每年由东西部两个联盟的最佳球员组成两支球队举行一场比赛决定胜负。
 
 ## 历届全明星赛成绩

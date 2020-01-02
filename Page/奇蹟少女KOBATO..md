@@ -1,3 +1,6 @@
+> 本文内容由[奇蹟少女KOBATO.](https://zh.wikipedia.org/wiki/奇蹟少女KOBATO.)转换而来。
+
+
 《**奇蹟少女KOBATO.**》（）是[CLAMP](../Page/CLAMP.md "wikilink")的[日本漫画](../Page/日本漫画.md "wikilink")作品，並在2009年改編製作成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。日本單行本由[角川書店](../Page/角川書店.md "wikilink")出版，中文版則是[台灣角川](../Page/台灣角川.md "wikilink")出版。
 
 **台灣**方面，[ANIMAX於](https://zh.wikipedia.org/wiki/ANIMAX "wikilink")2010年8月9日起周一至周五每晚9點放送，並直接將其稱為「奇蹟少女」。

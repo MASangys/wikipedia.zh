@@ -1,3 +1,6 @@
+> 本文内容由[Wonder Wind](https://zh.wikipedia.org/wiki/Wonder_Wind)转换而来。
+
+
 《**Wonder Wind**》是2009年5月20日Geneon Universal Entertainment发售的[ELISA的第四张单曲](../Page/ELISA_\(歌手\).md "wikilink")。
 
 ## 解説

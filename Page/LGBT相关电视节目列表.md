@@ -1,3 +1,6 @@
+> 本文内容由[LGBT相关电视节目列表](https://zh.wikipedia.org/wiki/LGBT相关电视节目列表)转换而来。
+
+
 在[电视剧](../Page/电视剧.md "wikilink")或为[电视](../Page/电视.md "wikilink")制作的电影中，涉及[同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")、[雙性戀與](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")／或[跨性別](../Page/跨性別.md "wikilink")话题以及/或塑造重要同志[角色](../Page/角色.md "wikilink")和／或把同性恋、雙性戀以及／或跨性別身份或关系作为一个重要的剧情的有（依開播年代排序）：
 
 ## 1930年代

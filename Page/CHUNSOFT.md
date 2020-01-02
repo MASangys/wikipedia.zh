@@ -1,3 +1,6 @@
+> 本文内容由[CHUNSOFT](https://zh.wikipedia.org/wiki/CHUNSOFT)转换而来。
+
+
 **CHUNSOFT**（）是[日本](../Page/日本.md "wikilink")电子[游戏软件制作公司](https://zh.wikipedia.org/wiki/游戏软件 "wikilink")，位于[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")[新宿](../Page/新宿.md "wikilink")。
 
 ## 概要

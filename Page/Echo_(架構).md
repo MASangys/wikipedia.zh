@@ -1,3 +1,6 @@
+> 本文内容由[Echo \(架構\)](https://zh.wikipedia.org/wiki/Echo_\(架構\))转换而来。
+
+
 **Echo**是NextApp公司開發的一个[Web应用框架](../Page/Web应用框架.md "wikilink")，用於建構基於[Web](https://zh.wikipedia.org/wiki/Web "wikilink") [Ajax的應用程式](https://zh.wikipedia.org/wiki/Ajax "wikilink")，其介面經過更新[DOM实现](https://zh.wikipedia.org/wiki/DOM "wikilink")。
 
 ## 参见

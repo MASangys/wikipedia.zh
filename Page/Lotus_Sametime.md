@@ -1,3 +1,6 @@
+> 本文内容由[Lotus Sametime](https://zh.wikipedia.org/wiki/Lotus_Sametime)转换而来。
+
+
 **Lotus Sametime**是一套企業用的[即時通訊](../Page/即時通訊.md "wikilink")應用程式，同時也是一套網頁型網路會議[應用程式](https://zh.wikipedia.org/wiki/应用软件 "wikilink")，Lotus Sametime是由[IBM](../Page/IBM.md "wikilink")公司的Lotus軟體部門所研發、銷售。
 
 Lotus Sametime能提供企業各種即時通訊的功效，包括顯示聯絡人的線上狀態（如離線、忙碌等）、用瀏覽器的網頁來進行遠端會議等。Lotus Sametime也支援各種通訊標準，如[SIP](../Page/会话发起协议.md "wikilink")、SIMPLE、T.120、以及[H.323](../Page/H.323.md "wikilink")等通訊協定，此外Lotus Sametime也能與Lotus Notes整合使用。

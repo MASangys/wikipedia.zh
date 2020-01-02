@@ -1,3 +1,6 @@
+> 本文内容由[Astro AOD](https://zh.wikipedia.org/wiki/Astro_AOD)转换而来。
+
+
 Astro頻道|Astro{{\!}}Astro頻道\]\]}}  **Astro AOD**是[马來西亚](https://zh.wikipedia.org/wiki/马來西亚 "wikilink")[Astro拥有的最新TVB劇集频道](https://zh.wikipedia.org/wiki/Astro "wikilink")，該頻道是由[香港](../Page/香港.md "wikilink")[電視廣播(國際)有限公司](https://zh.wikipedia.org/wiki/TVBI "wikilink")（[TVBI](https://zh.wikipedia.org/wiki/TVBI "wikilink")）與馬來西亞Astro合作开办，该频道全天候24小时播出。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[SD戰國傳 武者七人眾篇](https://zh.wikipedia.org/wiki/SD戰國傳_武者七人眾篇)转换而来。
+
+
 1987年，[-{zh-hk:SD高達系列;zh-tw:SD鋼彈系列;}-系列](../Page/SD_GUNDAM系列.md "wikilink")，首次推出以日本武士為參考的「[武者七人眾篇](https://zh.wikipedia.org/wiki/武者七人眾篇 "wikilink")」，以漫畫「[模型狂四郎](https://zh.wikipedia.org/wiki/模型狂四郎 "wikilink")」角色「武者頑馱無」為主角，講述以武者組成的「[頑馱無軍團](https://zh.wikipedia.org/wiki/頑馱無軍團 "wikilink")」，與受「闇皇帝」支配的「闇軍團」，互相角力。由於故事世界觀直接影響日後各篇章，因而被視為武者世界的基石。例如「光」與「闇」的對立，「大將軍」「將頑馱無」等職位，都是源於「七人眾篇」。
 
 而「武者七人眾」大受歡迎，除了模型、玩具、萬變-{zh-hk:咭;zh-tw:卡;}-等等各類遊戲商品以外，更曾經在1989年－1990年間推出數部OVA單元及[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。相關DVD套裝，於2007年11月重新推出。

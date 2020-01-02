@@ -1,3 +1,6 @@
+> 本文内容由[Conficker](https://zh.wikipedia.org/wiki/Conficker)转换而来。
+
+
 **Conficker病毒**，又名**Downup**、**Downandup**、**Downadup**和**Kido（刻毒虫）**，是一种出现于2008年10月的计算机[蠕虫病毒](https://zh.wikipedia.org/wiki/蠕虫病毒 "wikilink")，针对微软的[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")。\[1\]这种病毒利用了[Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")、[Windows Server 2008和](../Page/Windows_Server_2008.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") Beta等版本操作系统所使用的Server服务中的一个已知漏洞。\[2\]\[3\]
 
 ## 名称来历

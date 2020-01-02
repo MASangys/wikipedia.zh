@@ -1,3 +1,6 @@
+> 本文内容由[HYBRID UNIVERSE](https://zh.wikipedia.org/wiki/HYBRID_UNIVERSE)转换而来。
+
+
 **HYBRID UNIVERSE**是[水樹奈奈](../Page/水樹奈奈.md "wikilink")第5隻[音樂專輯](../Page/音樂專輯.md "wikilink")。於2006年5月3日由[KING RECORDS發售](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。
 
 ## 解説

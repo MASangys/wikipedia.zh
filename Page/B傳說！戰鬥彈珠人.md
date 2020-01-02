@@ -1,3 +1,6 @@
+> 本文内容由[B傳說！戰鬥彈珠人](https://zh.wikipedia.org/wiki/B傳說！戰鬥彈珠人)转换而来。
+
+
 《**B傳說！戰鬥彈珠人**》（日語：**B-伝説\! バトルビーダマン**）是[犬木榮治原作的](https://zh.wikipedia.org/wiki/犬木榮治 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，在[日本](../Page/日本.md "wikilink")[小學館](../Page/小學館.md "wikilink")的漫畫雜誌《[快樂快樂月刊](../Page/快樂快樂月刊.md "wikilink")》中連載。原作還改編成[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。
 
 ## 登場人物

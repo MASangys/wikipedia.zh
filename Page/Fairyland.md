@@ -1,3 +1,6 @@
+> 本文内容由[Fairyland](https://zh.wikipedia.org/wiki/Fairyland)转换而来。
+
+
 《**fairyland**》（夢遊仙境）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第36張單曲，2005年8月3日於日本發售。
 
 ## 說明

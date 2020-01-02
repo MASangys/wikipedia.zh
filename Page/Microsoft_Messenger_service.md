@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Messenger service](https://zh.wikipedia.org/wiki/Microsoft_Messenger_service)转换而来。
+
+
 **Messenger**（前稱：**MSN Messenger Service**、**.NET Messenger Service**、**Windows Live Messenger Service**）是[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")和[在線系統](https://zh.wikipedia.org/wiki/在線 "wikilink")，使用專有的即時消息協議Microsoft通知協議進行通信。允許任何擁有Microsoft帳戶的人登錄並與其他已登錄的人實時通信。
 
 ## 歷史

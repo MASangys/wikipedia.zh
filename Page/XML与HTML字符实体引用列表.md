@@ -1,3 +1,6 @@
+> 本文内容由[XML与HTML字符实体引用列表](https://zh.wikipedia.org/wiki/XML与HTML字符实体引用列表)转换而来。
+
+
 在[SGML](../Page/SGML.md "wikilink")、 [HTML](../Page/HTML.md "wikilink")与[XML](../Page/XML.md "wikilink")文档，如果某些[Unicode字符在文档的当前编码方式](https://zh.wikipedia.org/wiki/Unicode "wikilink")(如[ISO-8859-1](https://zh.wikipedia.org/wiki/ISO-8859-1 "wikilink"))中不能直接表示，那么可以通过[字符值引用或者](https://zh.wikipedia.org/wiki/字符值引用 "wikilink")[字符实体引用](../Page/字符实体引用.md "wikilink")两种[转义序列来表示这些不能直接编码的字符](https://zh.wikipedia.org/wiki/转义序列 "wikilink")。 下文列出在HTML与XML文档中有效的字符实体引用。 RAsUL9880408895RAsUL9880408895 the new album
 
 ## XML中的预定义实体

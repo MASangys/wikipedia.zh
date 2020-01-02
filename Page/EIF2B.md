@@ -1,3 +1,6 @@
+> 本文内容由[EIF2B](https://zh.wikipedia.org/wiki/EIF2B)转换而来。
+
+
 eIF2B（eukaryotic initiation factor 2B，[真核起始因子](../Page/真核起始因子.md "wikilink")2B）是一种参与[真核翻译](../Page/真核翻译.md "wikilink")起始的重要的[蛋白质](../Page/蛋白质.md "wikilink")，也是一种[鸟苷酸交换因子](https://zh.wikipedia.org/wiki/鸟苷酸交换因子 "wikilink")。其作用是在翻译起始过程中，将[eIF2上结合的](https://zh.wikipedia.org/wiki/eIF2 "wikilink")[GDP](../Page/二磷酸鳥苷.md "wikilink")（eIF2·GDP，eIF2的非活性状态）转换为[GTP](https://zh.wikipedia.org/wiki/GTP "wikilink")（eIF2·GTP，eIF2的活性状态），使得eIF2可以重新参与翻译起始。因此，在[细胞](../Page/细胞.md "wikilink")中，eIF2B的作用是使足量的eIF2·GTP存在以参与翻译起始过程。
 
 eIF2B是一种多亚基[复合物](https://zh.wikipedia.org/wiki/蛋白质复合物 "wikilink")，包含五个[亚基](https://zh.wikipedia.org/wiki/蛋白质亚基 "wikilink")，分别为α、β、γ、δ和ε。

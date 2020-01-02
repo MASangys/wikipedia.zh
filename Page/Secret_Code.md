@@ -1,3 +1,6 @@
+> 本文内容由[Secret Code](https://zh.wikipedia.org/wiki/Secret_Code)转换而来。
+
+
 《**Secret Code**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")27[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2008年8月27日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解説

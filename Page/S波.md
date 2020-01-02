@@ -1,3 +1,6 @@
+> 本文内容由[S波](https://zh.wikipedia.org/wiki/S波)转换而来。
+
+
 [Onde_cisaillement_impulsion_1d_30_petit.gif](https://zh.wikipedia.org/wiki/File:Onde_cisaillement_impulsion_1d_30_petit.gif "fig:Onde_cisaillement_impulsion_1d_30_petit.gif") [Ondes_cisaillement_2d_20_petit.gif](https://zh.wikipedia.org/wiki/File:Ondes_cisaillement_2d_20_petit.gif "fig:Ondes_cisaillement_2d_20_petit.gif") **S波**（S-wave，secondary wave）是二種體波（[體波的命名是因為此波穿越](https://zh.wikipedia.org/wiki/體波 "wikilink")[地球](../Page/地球.md "wikilink")內部，相對於體波的是[表面波](https://zh.wikipedia.org/wiki/表面波 "wikilink")）中之一。它是因[地震](../Page/地震.md "wikilink")而產生的，被[地震儀](../Page/地震儀.md "wikilink")記錄下來。命名為S波（secondary wave）是因為它的速度僅次於[P波](../Page/P波.md "wikilink")（最快的[地震波](../Page/地震波.md "wikilink")）。S波的S也可以代表[剪切波](https://zh.wikipedia.org/wiki/剪切波 "wikilink")（shear wave），因為S波是一種[橫波](https://zh.wikipedia.org/wiki/橫波 "wikilink")，地球內部粒子的震動方向與震波能量傳遞方向是[垂直](../Page/垂直.md "wikilink")的。S波與P波不同的是，S波無法穿越外[地核](https://zh.wikipedia.org/wiki/地核 "wikilink")。所以S波的陰影區正對著地震的[震源](../Page/震源.md "wikilink")。
 
 S波移动时是剪切波或[横波](https://zh.wikipedia.org/wiki/横波 "wikilink")，因此其运动方向与波的传播方向是垂直的，若要形象地描述S波，可以认为S波是挥动绳子时，绳子上传播的波，这与[P波](../Page/P波.md "wikilink")是不同的。P波是一种[纵波](https://zh.wikipedia.org/wiki/纵波 "wikilink")，纵波就如振动的弹簧上传播的波，其形态就像蠕虫一样。S波通过弹性介质移动，而主要的恢复力来自於剪切效应。这些波是不发散的，遵守不可压缩介质的连续性方程：

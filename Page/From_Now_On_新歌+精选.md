@@ -1,3 +1,6 @@
+> 本文内容由[From Now On 新歌+精选](https://zh.wikipedia.org/wiki/From_Now_On_新歌+精选)转换而来。
+
+
 《**From Now On 新歌+精選**》是[張棟樑個人第一張新歌加精選輯](https://zh.wikipedia.org/wiki/張棟樑 "wikilink")，也是在台灣[科藝百代的最後一張專輯](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")。由[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華納唱片製作](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）及[金牌娛樂](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")（[香港](../Page/香港.md "wikilink")）發行。[馬來西亞於](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")2008年3月28日發行，[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[香港](../Page/香港.md "wikilink")則於2008年4月18日發行。裡面收錄3首全新單曲及20首從張棟樑第一張至第三張專輯的主打歌。
 
 ## 曲目

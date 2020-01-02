@@ -1,3 +1,6 @@
+> 本文内容由[AFI百年百大電影](https://zh.wikipedia.org/wiki/AFI百年百大電影)转换而来。
+
+
 **AFI百年百大电影**（）是[美国电影学会](../Page/美国电影学会.md "wikilink")发布的“[AFI百年系列](../Page/AFI百年系列.md "wikilink")”（）的第一个部分\[1\]，它发布于于1998年，由[美國電影學會](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")（AFI）從400片提名電影中選出100部得来。
 
 2007年1月18日，[美國電影學會发布了](https://zh.wikipedia.org/wiki/美國電影學會 "wikilink")[AFI百年百大电影的更新版](../Page/AFI百年百大电影_\(2007年版\).md "wikilink")。

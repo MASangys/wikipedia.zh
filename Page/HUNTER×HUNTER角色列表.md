@@ -1,3 +1,6 @@
+> 本文内容由[HUNTER×HUNTER角色列表](https://zh.wikipedia.org/wiki/HUNTER×HUNTER角色列表)转换而来。
+
+
 本列表為日本漫畫家[冨樫義博](../Page/冨樫義博.md "wikilink")所創作的少年漫畫作品《[HUNTER×HUNTER](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")》中登場人物介紹。
 
 <small>如無特別介紹只有一人者為新版聲優</small>

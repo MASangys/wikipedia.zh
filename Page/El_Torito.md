@@ -1,3 +1,6 @@
+> 本文内容由[El Torito](https://zh.wikipedia.org/wiki/El_Torito)转换而来。
+
+
 **El Torito可開機光碟規格**，是[ISO 9660](../Page/ISO_9660.md "wikilink")[光碟](../Page/光碟.md "wikilink")規格的擴充，由[IBM](../Page/IBM.md "wikilink")的Stan Merkin及的Curtis Stevens所主導設計，發表於1994年11月。此規格設計讓[電腦可從光碟](https://zh.wikipedia.org/wiki/電腦 "wikilink")[開機](https://zh.wikipedia.org/wiki/開機 "wikilink")。「El Torito」的命名是源自在規格設計時所在的「El Torito」餐廳，此餐廳位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[爾灣市](https://zh.wikipedia.org/wiki/爾灣市 "wikilink")（Irvine）\[1\]。
 
 ## 運作原理

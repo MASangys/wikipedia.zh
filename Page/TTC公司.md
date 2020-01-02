@@ -1,3 +1,6 @@
+> 本文内容由[TTC公司](https://zh.wikipedia.org/wiki/TTC公司)转换而来。
+
+
 [The_Great_Courses_Library_Shelf.jpeg](https://zh.wikipedia.org/wiki/File:The_Great_Courses_Library_Shelf.jpeg "fig:The_Great_Courses_Library_Shelf.jpeg") [The_Great._Courses_Plus_-_App_Screen_Shot.jpg](https://zh.wikipedia.org/wiki/File:The_Great._Courses_Plus_-_App_Screen_Shot.jpg "fig:The_Great._Courses_Plus_-_App_Screen_Shot.jpg")
 
 **The Teaching Company** 是一家製造全美國頂級教授演講錄音及錄影的公司。這些教授在華盛頓特區外的一家特別的工作室錄製這些課程，然後課程被轉製成[磁帶](https://zh.wikipedia.org/wiki/磁帶 "wikilink")、[CD](../Page/CD.md "wikilink")、[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MP3](../Page/MP3.md "wikilink")等格式出售。

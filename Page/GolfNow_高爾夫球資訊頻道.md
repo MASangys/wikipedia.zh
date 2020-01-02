@@ -1,3 +1,6 @@
+> 本文内容由[GolfNow 高爾夫球資訊頻道](https://zh.wikipedia.org/wiki/GolfNow_高爾夫球資訊頻道)转换而来。
+
+
 **GolfNow 高爾夫球資訊頻道**（[GolfNow.com.hk](https://web.archive.org/web/20150602205218/http://golfnow.com.hk/)，簡稱GolfNow）是香港目前唯一每天提供高爾夫球新聞的資訊網站，於2011年成立，由Ryan Creation Limited營運。
 
 ## 網站歷史

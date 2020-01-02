@@ -1,3 +1,6 @@
+> 本文内容由[YAWL](https://zh.wikipedia.org/wiki/YAWL)转换而来。
+
+
 **YAWL**（发音为\`yorl'）是Yet Another Workflow Language的简写。它是一个以对[工作流模式](../Page/工作流模式.md "wikilink")的研究为基础而定义的[工作流语言](https://zh.wikipedia.org/wiki/工作流语言 "wikilink")，旨在提供对绝大部分工作流模式的直接支持（传统工作流系统则提供最多六成左右的支持）。YAWL系统（通常也简称YAWL）是一个基于JAVA的开源工作流系统。它是对YAWL语言的一个软件化实现。整个系统主要由工作流引擎，流程定义工具，任务执行序列处理模块，工作流执行资源服务等组成，其[面向服务的体系结构](../Page/面向服务的体系结构.md "wikilink")使系统具有较强的扩展性及（与其它系统的）交互操作性。
 
 ## 特征

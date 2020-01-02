@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第五章：精神和行为障碍](https://zh.wikipedia.org/wiki/ICD-10_第五章：精神和行为障碍)转换而来。
+
+
 **ICD-10 第五章：精神和行为障碍**（英語：**ICD-10 Chapter V: Mental and behavioural disorders\#(F10–F19) Mental and behavioural disorders**），为[世界卫生组织](../Page/世界卫生组织.md "wikilink")发布的、[ICD-10](../Page/ICD-10.md "wikilink")规定的已发现的各类精神和行为障碍。
 
 ## 受控词表

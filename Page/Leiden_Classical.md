@@ -1,3 +1,6 @@
+> 本文内容由[Leiden Classical](https://zh.wikipedia.org/wiki/Leiden_Classical)转换而来。
+
+
 {{ infobox software | screenshot = | caption = | author = | developer = [荷兰](../Page/荷兰.md "wikilink")[莱顿大学](https://zh.wikipedia.org/wiki/莱顿大学 "wikilink") | released = 2005年12月5日 | latest release version = Classical：5.56
 （）
 trajtou-cu111; trajtou-pt111;

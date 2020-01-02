@@ -1,3 +1,6 @@
+> 本文内容由[LOLLIPOP哪裡怕](https://zh.wikipedia.org/wiki/LOLLIPOP哪裡怕)转换而来。
+
+
 《**LOLLIPOP 哪裡怕**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Channel \[V](../Page/Channel_V.md "wikilink")\] 娛樂台所播出的[綜藝節目](../Page/綜藝節目.md "wikilink")，於2007年10月27日開始播映，晚上9點播出。節目由[Lollipop F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM](../Page/JPM.md "wikilink")的成員[小傑](https://zh.wikipedia.org/wiki/小傑 "wikilink")、[王子主持](https://zh.wikipedia.org/wiki/王子 "wikilink")，是以協助青少年解決困難為目標。於2008年4月19日第二十四集之節目後宣佈，「哪裡怕戰士」已收集好燃料返回「哪裡怕星球」，稍後會再返回地球，意指《LOLLIPOP 哪裡怕》會停播一段時間，稍後會重新推出；但[Lollipop F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[JPM](../Page/JPM.md "wikilink")成員曾在[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")上提及過，《**[哪裡5打抗](../Page/哪裡5打抗.md "wikilink")**》其實是本節目的延續。
 
 ## 節目性質

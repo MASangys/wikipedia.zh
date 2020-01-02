@@ -1,3 +1,6 @@
+> 本文内容由[ROT13](https://zh.wikipedia.org/wiki/ROT13)转换而来。
+
+
 [ROT13_table_with_example.svg](https://zh.wikipedia.org/wiki/File:ROT13_table_with_example.svg "fig:ROT13_table_with_example.svg")
 
 **ROT13**（**迴轉13位**，****，有時中間加了個[连字符稱作](https://zh.wikipedia.org/wiki/连字符 "wikilink")**ROT-13**）是一種簡易的[替換式密碼](https://zh.wikipedia.org/wiki/替換式密碼 "wikilink")。它是一種在英文[網路論壇用作隱藏](../Page/网络论坛.md "wikilink")[八卦](https://zh.wikipedia.org/wiki/劇情透露 "wikilink")（spoiler）、[妙句](https://zh.wikipedia.org/wiki/妙句 "wikilink")、謎題解答以及某些[髒話](../Page/髒話.md "wikilink")的工具，目的是逃過版主或管理员的匆匆一瞥。ROT13被描述成「雜誌[字謎上下顛倒解答的](https://zh.wikipedia.org/wiki/字謎 "wikilink")[Usenet](../Page/Usenet.md "wikilink")對等體」。（Usenet equivalent of a magazine printing the answer to a quiz upside down.）\[1\] ROT13 也是過去在[古羅馬開發的](../Page/古罗马.md "wikilink")[凱撒加密的一種變體](../Page/凱撒密碼.md "wikilink")。

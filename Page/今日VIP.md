@@ -1,3 +1,6 @@
+> 本文内容由[今日VIP](https://zh.wikipedia.org/wiki/今日VIP)转换而来。
+
+
 《**今日VIP**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的一個娛樂訪談節目，於[2009年](../Page/2009年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")起開始播出，前身是娛樂資訊節目《[娛樂直播](../Page/娛樂直播.md "wikilink")》。該節目主要是名人及TVB旗下的當紅藝人的專訪。
 
 ## 播映時間

@@ -1,3 +1,6 @@
+> 本文内容由[Beyond](https://zh.wikipedia.org/wiki/Beyond)转换而来。
+
+
 **Beyond**是1983年成立的香港搖滾樂隊，早年被視為地下樂隊，1987年加入香港主流樂壇，是[華人樂壇上具代表性的搖滾樂隊之一](https://zh.wikipedia.org/wiki/華人 "wikilink")。 樂隊自成立以來一直堅持本地原創及積極採用[粵語歌詞取代當時香港以](https://zh.wikipedia.org/wiki/粵語 "wikilink")[英語為主流的搖滾樂](https://zh.wikipedia.org/wiki/英語 "wikilink")，將在香港被視為「地下音樂」的[重金属搖滾樂帶到主流樂壇](https://zh.wikipedia.org/wiki/重金屬音樂 "wikilink")，並通过重新包装使其普及。樂隊無論在作曲、填詞、編曲、演奏及監製等，大部分均由各成員包辦，而作品內容多以寫實為主，當中包括：樂隊成員對未來的憧憬和盼望、表達追求理想與現實世界之間的矛盾、反映社會狀況及諷刺時弊、宣揚和平與愛，還有各成員對世界周邊事情的所見所感等。 2004年末，樂隊宣佈解散，並於2005年舉行《Beyond The Story Live 2005》告別世界巡迴音樂會，之後各成員各自繼續發展自己的音樂事業。
 
 ## Beyond名稱由來

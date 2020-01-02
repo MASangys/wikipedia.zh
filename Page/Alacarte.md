@@ -1,3 +1,6 @@
+> 本文内容由[Alacarte](https://zh.wikipedia.org/wiki/Alacarte)转换而来。
+
+
 **Alacarte**（以前称作Simple Menu Editor for GNOME或SMEG）是一个GNOME桌面的菜单编辑器。它现在作为GNOME 的一部分。
 
 菜单 "Places" 不可以直接编辑。 你可以通过以下命令编辑places菜单：$gedit \~/.gtk-bookmarks，或使用gconf-editor（如。／system/storage/drives/_org_freedesktop_.../mount_options）.

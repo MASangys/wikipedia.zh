@@ -1,3 +1,6 @@
+> 本文内容由[HTC Vox](https://zh.wikipedia.org/wiki/HTC_Vox)转换而来。
+
+
 **HTC Vox**，原廠型號**HTC S710，HTC S711**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，全球首款搭載中文版Windows Mobile 6 Standard操作系統的智慧型手機，雙鍵盤設計，隱藏有側滑動式QWERTY全鍵盤，2007年4月於歐洲首度發表。客製版本HTC S710，HTC S711，Dopod C500，Dopod C730，Vodafone VDA V，Vodafone v1415，Vodafone v7505，SFR S710，Orange SPV E650，Swisscom XPA v1415。
 
 ## 技術規格

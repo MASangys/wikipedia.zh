@@ -1,3 +1,6 @@
+> 本文内容由[SD GUNDAM外傳](https://zh.wikipedia.org/wiki/SD_GUNDAM外傳)转换而来。
+
+
 **SD高達外傳 捷古自護篇**是SD高達外傳首部作品。故事以中古歐洲[騎士為藍本設計](https://zh.wikipedia.org/wiki/騎士 "wikilink")，推出後大受歡迎，隨後更推出多部續作，與[SD戰國傳](https://zh.wikipedia.org/wiki/SD戰國傳 "wikilink")、[SD司令戰記G](https://zh.wikipedia.org/wiki/SD司令戰記 "wikilink")-ARMS並列SD高達三大系列。
 
 ## 故事簡介

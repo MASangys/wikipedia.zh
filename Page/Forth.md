@@ -1,3 +1,6 @@
+> 本文内容由[Forth](https://zh.wikipedia.org/wiki/Forth)转换而来。
+
+
 **Forth**是六十年代末期，由[查理斯·摩爾发展出来在天文台使用的電腦](https://zh.wikipedia.org/wiki/查理斯·摩爾 "wikilink")[自動控制系統及](https://zh.wikipedia.org/wiki/自動控制系統 "wikilink")[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")，允许使用者很容易組合系統已有的簡單指令，定义成為功能较复杂的高階指令。由於其結構精簡、執行快速、操作方便，廣為當代天文學界使用。八十年代以後，有愛用者成立**[Forth Interest Group](https://zh.wikipedia.org/wiki/Forth_Interest_Group "wikilink")**在世界各地推廣，並陸續在各类计算机上建立Forth系統及標準的语言。
 
 ## 简介

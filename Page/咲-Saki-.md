@@ -1,3 +1,6 @@
+> 本文内容由[咲-Saki-](https://zh.wikipedia.org/wiki/咲-Saki-)转换而来。
+
+
 《**天才麻將少女**》（），是[小林立](../Page/小林立.md "wikilink")的[麻雀](https://zh.wikipedia.org/wiki/麻將 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。[SQUARE ENIX的](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[YOUNG GANGAN](../Page/YOUNG_GANGAN.md "wikilink")」曾於2006年第4期～第6期短期登載，之後由2006年第12期起連載至今。
 
 ## 概要

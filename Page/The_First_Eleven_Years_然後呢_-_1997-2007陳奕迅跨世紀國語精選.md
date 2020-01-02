@@ -1,3 +1,6 @@
+> 本文内容由[The First Eleven Years 然後呢 - 1997-2007陳奕迅跨世紀國語精選](https://zh.wikipedia.org/wiki/The_First_Eleven_Years_然後呢_-_1997-2007陳奕迅跨世紀國語精選)转换而来。
+
+
 《**The First Eleven Years 然後呢 - 1997-2007陳奕迅跨世紀國語精選**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")2008年[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2008年3月31日發行。
 
 ## 專輯簡介

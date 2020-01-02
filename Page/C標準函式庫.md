@@ -1,3 +1,6 @@
+> 本文内容由[C標準函式庫](https://zh.wikipedia.org/wiki/C標準函式庫)转换而来。
+
+
 **C 標準函式庫**（，缩写：）是在[C語言程式設計中](https://zh.wikipedia.org/wiki/C語言 "wikilink")，所有符合標準的[头文件](../Page/头文件.md "wikilink")（）的集合，以及常用的[函式庫](../Page/函式庫.md "wikilink")實作程序（如 [I/O 輸入輸出和](https://zh.wikipedia.org/wiki/I/O "wikilink")[字串控制](https://zh.wikipedia.org/wiki/字串 "wikilink")）。不像 [COBOL](../Page/COBOL.md "wikilink")、[Fortran](../Page/Fortran.md "wikilink") 和 [PL/I等](https://zh.wikipedia.org/wiki/PL/I "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，在 C 語言的工作任務裡不會包含嵌入的[關鍵字](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")，所以幾乎所有的 C 語言程式都是由標準函式庫的函式來建立的。
 
 ## 設計

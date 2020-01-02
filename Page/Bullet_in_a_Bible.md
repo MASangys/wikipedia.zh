@@ -1,3 +1,6 @@
+> 本文内容由[Bullet in a Bible](https://zh.wikipedia.org/wiki/Bullet_in_a_Bible)转换而来。
+
+
 ***Bullet in a Bible***演唱会于2005年6月18日至19日在[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[米尔顿凯恩斯](../Page/米尔顿凯恩斯.md "wikilink")[National Bowl举行](https://zh.wikipedia.org/wiki/National_Bowl "wikilink")。演唱会DVD于2005年11月15日发布，导演由导演了[American Idiot专辑中所有MV的](https://zh.wikipedia.org/wiki/American_Idiot "wikilink")[塞缪尔拜尔担任](https://zh.wikipedia.org/wiki/塞缪尔拜尔 "wikilink")。这次演唱会是Green Day所有演唱会中规模最大的一次。Green Day起初计划在音乐会中演奏20首歌曲，但最终只选择演奏了14首。
 
 据[滚石杂志统计](https://zh.wikipedia.org/wiki/滚石杂志 "wikilink")，Bullet in a Bible演唱会是世界上第七大个人乐队演唱会。

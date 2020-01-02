@@ -1,3 +1,6 @@
+> 本文内容由[Ringo EXPO 08](https://zh.wikipedia.org/wiki/Ringo_EXPO_08)转换而来。
+
+
 《**Ringo EXPO 08**》（）是日本音樂家[椎名林檎](../Page/椎名林檎.md "wikilink")的第十四張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，這是唱片公司為了慶祝椎名林檎出道十週年，所發行的第四彈紀念作品，於2009年3月11日發行。發行當週即賣出4.1萬張，總計銷售額6.1萬張。初回限定為「10周年紀念眼箱、10周年特製貼紙封入、處女作「橘子皮」親筆樂譜封入」。
 
 ## DVD簡介

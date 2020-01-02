@@ -1,3 +1,6 @@
+> 本文内容由[Nmap](https://zh.wikipedia.org/wiki/Nmap)转换而来。
+
+
 **Nmap**（**网络映射器**）是一款用于[网络发现和](https://zh.wikipedia.org/wiki/网络发现 "wikilink")[安全审计的](https://zh.wikipedia.org/wiki/安全审计 "wikilink")[网络安全](../Page/网络安全.md "wikilink")工具，它是[自由软件](../Page/自由软件.md "wikilink")。软件名字Nmap是Network Mapper的简称。通常情况下，Nmap用于：
 \* 列举网络主机清单
 

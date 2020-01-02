@@ -1,3 +1,6 @@
+> 本文内容由[Jiro](https://zh.wikipedia.org/wiki/Jiro)转换而来。
+
+
 **Jiro**（），本名：和山義仁（わやま よしひと）[日本](../Page/日本.md "wikilink")著名音樂家。[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")[GLAY](../Page/GLAY.md "wikilink")的[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")。同時也擔任[THE PREDATORS的貝斯手](https://zh.wikipedia.org/wiki/THE_PREDATORS "wikilink")。[北海道](../Page/北海道.md "wikilink")[函館市](../Page/函館市.md "wikilink")出生。
 
 函館大谷高等學校畢業。身高169公分，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。

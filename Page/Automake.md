@@ -1,3 +1,6 @@
+> 本文内容由[Automake](https://zh.wikipedia.org/wiki/Automake)转换而来。
+
+
 [Autoconf-automake-process.svg](https://zh.wikipedia.org/wiki/File:Autoconf-automake-process.svg "fig:Autoconf-automake-process.svg") **GNU Automake**是一種編程工具，可以產生供[make程式使用的Makefile](https://zh.wikipedia.org/wiki/make "wikilink")，用來編譯程式。它是[自由軟體基金會發起的](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")[GNU計劃](../Page/GNU計劃.md "wikilink")的其中一項，作為[GNU構建系統的一部分](https://zh.wikipedia.org/wiki/GNU构建系统 "wikilink")。automake所產生的Makefile符合GNU編程標準。
 
 automake是由[Perl](../Page/Perl.md "wikilink")語言所寫的，必須和[GNU autoconf一併使用](https://zh.wikipedia.org/wiki/autoconf "wikilink")。automake包含了以下命令：

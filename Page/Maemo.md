@@ -1,3 +1,6 @@
+> 本文内容由[Maemo](https://zh.wikipedia.org/wiki/Maemo)转换而来。
+
+
 {{ infobox OS | name = Maemo | logo = [Maemo_logo_color.svg](https://zh.wikipedia.org/wiki/File:Maemo_logo_color.svg "fig:Maemo_logo_color.svg") | screenshot = [Maemo5-screenshot.png](https://zh.wikipedia.org/wiki/File:Maemo5-screenshot.png "fig:Maemo5-screenshot.png") | caption = Maemo 5截圖 | website = [maemo.org](http://www.maemo.org/) | developer = [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink") | family = [Linux](../Page/Linux.md "wikilink") | source_model = [開放原始碼搭配](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[封閉源代碼軟件](https://zh.wikipedia.org/wiki/封閉源代碼 "wikilink") | latest_release_version = 5.0 PR1.3.1
 （個別軟體，仍有持續更新） | latest_release_date =  | marketing_target = [Nokia Internet Tablet](https://zh.wikipedia.org/wiki/Nokia_Internet_Tablet "wikilink") | language = 多語言 | kernel_type = [宏內核](https://zh.wikipedia.org/wiki/宏內核 "wikilink")（[Linux](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")） | ui = [Hildon UI](https://zh.wikipedia.org/wiki/Hildon "wikilink") | supported_platforms = [ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") | updatemodel = [APT](../Page/APT.md "wikilink") | package_manager = [dpkg](https://zh.wikipedia.org/wiki/dpkg "wikilink") }}
 

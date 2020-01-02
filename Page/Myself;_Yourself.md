@@ -1,3 +1,6 @@
+> 本文内容由[Myself\; Yourself](https://zh.wikipedia.org/wiki/Myself\;_Yourself)转换而来。
+
+
 《**Myself ; Yourself**》是[日本](../Page/日本.md "wikilink")遊戲公司[Regista](../Page/Regista.md "wikilink")開發的一套於[PlayStation 2平台的](../Page/PlayStation_2.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")，於2007年12月20日發售。\[1\]並於2007年10月播出了[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。[人物設計](../Page/人物設計.md "wikilink")由曾擔任《[歡樂課程](../Page/歡樂課程.md "wikilink")》、《[双恋](../Page/双恋.md "wikilink")》等遊戲的畫家[佐佐木睦美擔任](../Page/佐佐木睦美_\(插畫家\).md "wikilink")。
 
 ## 情節簡介

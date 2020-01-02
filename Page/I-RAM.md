@@ -1,3 +1,6 @@
+> 本文内容由[I-RAM](https://zh.wikipedia.org/wiki/I-RAM)转换而来。
+
+
 **i-RAM**（**GC-RAMDISK**）是[技嘉科技於](https://zh.wikipedia.org/wiki/技嘉 "wikilink")2005年6月25日推出的一款產品，使用[DDR作為儲存媒介](../Page/DDR_SDRAM.md "wikilink")。
 
 ## 優缺點

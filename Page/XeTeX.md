@@ -1,3 +1,6 @@
+> 本文内容由[XeTeX](https://zh.wikipedia.org/wiki/XeTeX)转换而来。
+
+
 ****（或\[1\]，文本模式下写作XeTeX）是一种使用[Unicode的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[TeX](../Page/TeX.md "wikilink")[排版](../Page/排版.md "wikilink")引擎，并支持一些现代字体技术，例如[OpenType](../Page/OpenType.md "wikilink")、[Graphite](../Page/Graphite.md "wikilink")和[Apple Advanced Typography](https://zh.wikipedia.org/wiki/Apple_Advanced_Typography "wikilink")（AAT）。其作者和维护者是Jonathan Kew，并以[X11自由软件许可证发布](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")\[2\]。
 
 虽然最初只是为[Mac OS X所开发](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，但它现在在各主要平台上都可以运作。它原生支持Unicode，并默认其输入文件为[UTF-8](../Page/UTF-8.md "wikilink")编码。可以在不进行额外配置的情况下直接使用操作系统中安装的字体，因此可以直接利用OpenType、Graphite中的高级特性，例如额外的[字形](../Page/字形.md "wikilink")，[花体](https://zh.wikipedia.org/wiki/花体 "wikilink")，[合字](../Page/合字.md "wikilink")，可变的文本粗细等等。提供了对OpenType中本地排版约定（`locl`标签）的支持，也允许向字体传递OpenType的元标签。它亦支持使用包含特殊数学字符的Unicode字体排版数学公式，例如使用[Cambria Math或](https://zh.wikipedia.org/wiki/Cambria#Cambria_Math "wikilink")[Asana Math字体代替传统的TeX字体](https://zh.wikipedia.org/wiki/Asana_Math "wikilink")。

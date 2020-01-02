@@ -1,3 +1,6 @@
+> 本文内容由[Uts](https://zh.wikipedia.org/wiki/Uts)转换而来。
+
+
 |series=未知 |predicted series=未知 |series comment=可能為[超錒系元素](https://zh.wikipedia.org/wiki/超錒系元素 "wikilink") |group=不適用 |period=8 |atomic mass=未知 |block=g |electron configuration= [\[Og](https://zh.wikipedia.org/wiki/[Og "wikilink")\] 5g<sup>11</sup> 6f<sup>4</sup> 8s<sup>2</sup> 8p（推測）\[1\]\[2\] |electrons per shell=2, 8, 18, 32, 43, 22, 8, 4（推測） |oxidation states=根據5g元素預測
 可能具有+6氧化態\[3\] |state= |CAS number=55127-57-6 |CAS number ref =\[4\] |Not-found=1 |isotopes=  }}  [Electron_shell_137_Untriseptium_-_no_label.svg](https://zh.wikipedia.org/wiki/File:Electron_shell_137_Untriseptium_-_no_label.svg "fig:Electron_shell_137_Untriseptium_-_no_label.svg")\] 5g<sup>11</sup> 6f<sup>4</sup> 8s<sup>2</sup> 8p）\[5\]，對應的殼層為：2, 8, 18, 32, 43, 22, 8, 4。\]\] **Uts**（英語：**Untriseptium**，化學符號為**Uts**）是一種尚未被發現的[化學元素](../Page/化學元素.md "wikilink")，[原子序數是](https://zh.wikipedia.org/wiki/原子序 "wikilink")137。根據模型\[6\]，其在元素週期表中排列在[第8周期](https://zh.wikipedia.org/wiki/第8週期元素 "wikilink")、[g區](https://zh.wikipedia.org/wiki/g區元素 "wikilink")。
 

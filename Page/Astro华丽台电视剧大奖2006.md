@@ -1,3 +1,6 @@
+> 本文内容由[Astro华丽台电视剧大奖2006](https://zh.wikipedia.org/wiki/Astro华丽台电视剧大奖2006)转换而来。
+
+
 **《[Astro華麗台電視劇大獎](https://zh.wikipedia.org/wiki/Astro華麗台電視劇大獎 "wikilink")2006》**（Astro Wah Lai Toi Drama Awards 2006）乃是由[Astro華麗台](../Page/Astro華麗台.md "wikilink")主辦的年度壓軸盛事，投選活動將于2006年12月16日正式啓動。於周六（2007年1月20日）晚在[馬來西亞云顶云星剧场隆重举行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，出席的7位無綫藝人[陳豪](../Page/陳豪.md "wikilink")、[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[吴卓羲](https://zh.wikipedia.org/wiki/吴卓羲 "wikilink")、[郑嘉颖](https://zh.wikipedia.org/wiki/郑嘉颖 "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[廖碧儿及](https://zh.wikipedia.org/wiki/廖碧儿 "wikilink")[曹永廉](../Page/曹永廉.md "wikilink")皆各有崭获。當晚，[無綫電視劇](https://zh.wikipedia.org/wiki/TVB "wikilink")《[我的野蠻奶奶](../Page/我的野蠻奶奶.md "wikilink")》最威風，成功地抱走5大獎項，包括了「我的至愛氣勢最強大獎」、「我的至愛女主角」、「我的至爱极品造型」及2項「我的至愛角色」。「我的至愛女主角」由胡杏儿爆冷勝出，成為[馬來西亞視后](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。至於無綫藝人[陳豪](../Page/陳豪.md "wikilink")成為當晚大贏家，成功擊敗被賽前視為頂頭大熱門「我的至愛男主角」[吴卓羲](https://zh.wikipedia.org/wiki/吴卓羲 "wikilink")。[陳豪](../Page/陳豪.md "wikilink")還與另一位無綫藝人[廖碧儿一同上臺牽手拿獎](https://zh.wikipedia.org/wiki/廖碧儿 "wikilink")，成功擊敗另一對被賽前視為大熱門「我的至愛情侶檔」[黃宗澤與](https://zh.wikipedia.org/wiki/黃宗澤 "wikilink")[胡杏兒](../Page/胡杏兒.md "wikilink")。[陳百祥](../Page/陳百祥.md "wikilink")及[王翠玲主持](https://zh.wikipedia.org/wiki/王翠玲 "wikilink")。
 
 ## 我的至愛戲勢最強大獎

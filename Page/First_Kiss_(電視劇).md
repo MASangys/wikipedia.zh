@@ -1,3 +1,6 @@
+> 本文内容由[First Kiss \(電視劇\)](https://zh.wikipedia.org/wiki/First_Kiss_\(電視劇\))转换而来。
+
+
 《**First Kiss**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")自2007年7月9日至2007年9月17日間播出的[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[井上真央](../Page/井上真央.md "wikilink")和[伊藤英明](../Page/伊藤英明.md "wikilink")主演，於[週一晚間九點](../Page/富士電視台週一晚間九點連續劇.md "wikilink")（[日本標準時間](../Page/日本標準時間.md "wikilink")）播出。本故事的主題是「**這是我最初，也是最後的心願…?\!**」。
 
 ## 故事大綱

@@ -1,3 +1,6 @@
+> 本文内容由[Neway](https://zh.wikipedia.org/wiki/Neway)转换而来。
+
+
 [HK_MegaBox_Level17_Neway_Karaoke_Entrance_201402.jpg](https://zh.wikipedia.org/wiki/File:HK_MegaBox_Level17_Neway_Karaoke_Entrance_201402.jpg "fig:HK_MegaBox_Level17_Neway_Karaoke_Entrance_201402.jpg") CEO大堂\]\] [Novotel_Century_Hong_Kong_Neway_2018.jpg](https://zh.wikipedia.org/wiki/File:Novotel_Century_Hong_Kong_Neway_2018.jpg "fig:Novotel_Century_Hong_Kong_Neway_2018.jpg") [HK_Yuen_Long_元朗_Kau_Yuk_Road_教育路_night_02_Neway_shop.jpg](https://zh.wikipedia.org/wiki/File:HK_Yuen_Long_元朗_Kau_Yuk_Road_教育路_night_02_Neway_shop.jpg "fig:HK_Yuen_Long_元朗_Kau_Yuk_Road_教育路_night_02_Neway_shop.jpg")樂成分店\]\]
 
 **Neway**（前稱**新時代卡拉OK**）是[香港](../Page/香港.md "wikilink")一家[卡拉OK](../Page/卡拉OK.md "wikilink")集團，目前共有18間分店，於1993年開設首間分店\[1\]，現今Neway在[澳門](../Page/澳門.md "wikilink")、[中國大陸和](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[馬來西亞亦有業務](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。

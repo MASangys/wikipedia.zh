@@ -1,3 +1,6 @@
+> 本文内容由[Motif](https://zh.wikipedia.org/wiki/Motif)转换而来。
+
+
 [Openmotif_screenshot.png](https://zh.wikipedia.org/wiki/File:Openmotif_screenshot.png "fig:Openmotif_screenshot.png")
 
 在计算机应用中，**Motif**是指一个[图形用户界面](../Page/图形用户界面.md "wikilink")规格，也指随该规格，在[Unix与其他](https://zh.wikipedia.org/wiki/Unix "wikilink")[POSIX系统中运行于](https://zh.wikipedia.org/wiki/POSIX "wikilink")[X Window系统的](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")[部件工具箱](../Page/部件工具箱.md "wikilink")。1980年代，随同Unix[工作站](../Page/工作站.md "wikilink")逐渐通用，成为[OPEN LOOK图形用户界面的对手](https://zh.wikipedia.org/wiki/OPEN_LOOK "wikilink")。目前作为[Common Desktop Environment的基本构件](https://zh.wikipedia.org/wiki/Common_Desktop_Environment "wikilink")。

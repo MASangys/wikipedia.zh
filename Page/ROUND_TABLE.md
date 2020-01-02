@@ -1,3 +1,6 @@
+> 本文内容由[ROUND TABLE](https://zh.wikipedia.org/wiki/ROUND_TABLE)转换而来。
+
+
 **ROUND TABLE**是[日本](../Page/日本.md "wikilink")的音乐组合。1993年结成于大学爵士乐研究会。1997年开始自费活动，1998年开始正式活动。从2002年开始，随着客座歌手Nino加入，也以**ROUND TABLE featuring Nino**的名義活動。后者被认为属于[秋叶涩谷系](https://zh.wikipedia.org/wiki/秋叶涩谷系 "wikilink")。
 
 ## 成员

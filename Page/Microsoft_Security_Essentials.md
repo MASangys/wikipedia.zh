@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Security Essentials](https://zh.wikipedia.org/wiki/Microsoft_Security_Essentials)转换而来。
+
+
 ****（簡稱****），是一款由[微軟开发及发行的免费](https://zh.wikipedia.org/wiki/微軟 "wikilink")[杀毒软件](../Page/杀毒软件.md "wikilink")，用于防止[计算机病毒](../Page/计算机病毒.md "wikilink")、[间谍软件](../Page/间谍软件.md "wikilink")、[惡意軟體](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")、[Rootkit](../Page/Rootkit.md "wikilink")和[木马](../Page/特洛伊木马_\(电脑\).md "wikilink")，可以运行于[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7上](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，但无法在[Windows 8上运行](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")（Windows 8已經内置[Windows Defender](../Page/Windows_Defender.md "wikilink")）。其[代号为](https://zh.wikipedia.org/wiki/微软产品代号列表 "wikilink")****，意为“小丘”。\[1\]MSE的[最终用户许可协议允许家庭用户和小企业免费安装和使用本产品](https://zh.wikipedia.org/wiki/最终用户许可协议 "wikilink")。它取代了[Windows Live OneCare和Windows](../Page/Windows_Live_OneCare.md "wikilink") 7以前的[Windows Defender](../Page/Windows_Defender.md "wikilink")。与市面上其他免費防惡意軟件均有提供更全面的保護（例如防火牆功能）的收費版本不同，MSE只有免費版本。
 
 该产品以其简洁的用户界面、较低的资源使用率和免费软件许可证获得普遍的积极评价，并于2009年10月获得AV-Test认证。然而，认证于2012年10月撤销，表明产品的保护和修复功能在不断下降。2013年6月，MSE得到最低的保护得分0分。但据[OPSWAT](https://zh.wikipedia.org/wiki/OPSWAT "wikilink")2012年3月的报告，MSE仍是在北美地区最流行的和世界第二流行的杀毒软件。因此一些[恶意软件](../Page/恶意软件.md "wikilink")正试图模仿它的外观。

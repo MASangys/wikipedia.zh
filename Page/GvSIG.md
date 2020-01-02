@@ -1,3 +1,6 @@
+> 本文内容由[GvSIG](https://zh.wikipedia.org/wiki/GvSIG)转换而来。
+
+
 **gvSIG** 是一个处理地理信息的应用软件。该系统不仅能够访问本地的矢量数据或者栅格数据，而且也能够通过支持[开放空间协会](https://zh.wikipedia.org/wiki/开放空间协会 "wikilink")（OGC）规范的远程服务器访问该类数据。支持网络地图服务（WMS）、网络要素服务（WFS）、网络覆盖服务（WCS）、目录服务以及地名辞典服务等一系列地理信息网络服务规范是gvSIG与其它[地理信息系统](../Page/地理信息系统.md "wikilink")的特大区别。
 
 ## 标准

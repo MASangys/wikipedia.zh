@@ -1,3 +1,6 @@
+> 本文内容由[The Perfect Day to Say I Love You](https://zh.wikipedia.org/wiki/The_Perfect_Day_to_Say_I_Love_You)转换而来。
+
+
 **高润荷**于2007年3月15日所推出的首张[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")[唱片](https://zh.wikipedia.org/wiki/唱片 "wikilink")。
 
 ## 歌曲列表

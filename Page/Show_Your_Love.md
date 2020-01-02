@@ -1,3 +1,6 @@
+> 本文内容由[Show Your Love](https://zh.wikipedia.org/wiki/Show_Your_Love)转换而来。
+
+
 《**Show Your Love**》是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，由[環球音樂於](../Page/環球音樂_\(台灣\).md "wikilink")2000年12月22日發行。該專輯開始展現些微的性感，歌曲中傳達出從女孩變女人的感覺\[1\]；專輯中的歌曲《你還愛我嗎》於[Hit FM年度百首單曲排行榜位居第](../Page/Hit_FM聯播網.md "wikilink")30名\[2\]；該專輯於臺灣擁有超過26萬張的銷量\[3\]，使蔡依林登上臺灣年度唱片銷量排行榜第11名\[4\]；翌年9月憑藉專輯中的歌曲《愛上了一條街》MV入圍並獲得第18屆[MTV音樂錄影帶大獎](../Page/MTV音樂錄影帶大獎.md "wikilink")國際觀眾選擇獎\[5\]。
 
 ## 簡介

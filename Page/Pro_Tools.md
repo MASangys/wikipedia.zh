@@ -1,3 +1,6 @@
+> 本文内容由[Pro Tools](https://zh.wikipedia.org/wiki/Pro_Tools)转换而来。
+
+
 **Pro Tools**是用在[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Microsoft Windows作業系統的一個](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[數位音訊工作站平臺](https://zh.wikipedia.org/wiki/數位音訊工作站 "wikilink")，由[Digidesign發展和製造](https://zh.wikipedia.org/wiki/Digidesign "wikilink")，是[Avid Technology的一部分](https://zh.wikipedia.org/wiki/Avid_Technology "wikilink")，用于音樂录音和编辑、[電影配樂製作以及電影和電視](https://zh.wikipedia.org/wiki/電影配樂 "wikilink")[後製中](https://zh.wikipedia.org/wiki/後製 "wikilink")。它廣泛用於整個音訊行業的專業人士和[音樂製作人](../Page/音樂製作人.md "wikilink")。Pro Tools 有三個類型的系統：HD、LE 和 M-Powered。HD 是高端包 (Hi-End Package)，並且為硬體和軟體的結合。該硬體包括外部[A/D轉換器和用板載](../Page/類比數位轉換器.md "wikilink")[DSP的內部](https://zh.wikipedia.org/wiki/DSP "wikilink")[PCI或](https://zh.wikipedia.org/wiki/PCI "wikilink")[PCIe音效卡](../Page/PCI_Express.md "wikilink")。Pro Tools 9（取代了LE和M-Powered系统）以及之后的版本已可以兼容所有声卡，但配套的HD版本依然存在。
 
 ## 概述

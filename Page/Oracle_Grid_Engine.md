@@ -1,3 +1,6 @@
+> 本文内容由[Oracle Grid Engine](https://zh.wikipedia.org/wiki/Oracle_Grid_Engine)转换而来。
+
+
 **Sun Grid Engine**是[昇陽電腦所研發的](https://zh.wikipedia.org/wiki/昇陽 "wikilink")[自由軟件和](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")[開放原始碼軟件](https://zh.wikipedia.org/wiki/開放原始碼軟件 "wikilink")[計算機集群軟件](https://zh.wikipedia.org/wiki/計算機集群 "wikilink")。
 
 ## 作業系統支援

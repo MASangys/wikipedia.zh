@@ -1,3 +1,6 @@
+> 本文内容由[Infinite Love](https://zh.wikipedia.org/wiki/Infinite_Love)转换而来。
+
+
 『**Infinite Love**』是2006年7月26日[ランティス發售的](https://zh.wikipedia.org/wiki/ランティス "wikilink")[KISHOW和](../Page/谷山紀章.md "wikilink")[e-ZUKA的搖滾團體](../Page/飯塚昌明.md "wikilink")-**[GRANRODEO](../Page/GRANRODEO.md "wikilink")**的單曲。
 
 ## 解説

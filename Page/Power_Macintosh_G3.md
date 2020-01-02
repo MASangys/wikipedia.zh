@@ -1,3 +1,6 @@
+> 本文内容由[Power Macintosh G3](https://zh.wikipedia.org/wiki/Power_Macintosh_G3)转换而来。
+
+
 命名為『G3』即「第三代」的[Power Macintosh](../Page/Power_Macintosh.md "wikilink")，是由[蘋果電腦公司設計生產的個人電腦產品系列](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")；可分為：初期型（三款）Power Macintosh G3（beige） 及 後期型的Power Macintosh G3（Blue and White）。
 
 使用第三代（註）[PowerPC](../Page/PowerPC.md "wikilink") CPU：PowerPC 750 (PPC G3) 中央處理器（這是一款採用PowerPC 603e為技術基礎，專為Macintosh設計的處理器，並且針對 Macintosh的軟體進行最佳化，使其效能相對較第二代高階的PowerPC 604e為佳。）

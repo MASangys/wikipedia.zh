@@ -1,3 +1,6 @@
+> 本文内容由[BB戰士三國傳 戰神決鬥篇](https://zh.wikipedia.org/wiki/BB戰士三國傳_戰神決鬥篇)转换而来。
+
+
 《**BB戰士三國傳 戰神決鬥編**》是《[BB戰士三國傳 英雄激突編](https://zh.wikipedia.org/wiki/BB戰士三國傳_英雄激突編 "wikilink")》的續集，由2008年開始於雜誌「Kerokero Ace」連載。故事背景仍沿用[中國](../Page/中國.md "wikilink")名著[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》的背景，本編故事時間點，以演義中劉備病逝[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、孔明主持國政開始，劉備與曹操在赤壁之戰失蹤後，遠在西涼軍的馬超為主角，而前作三大陣營，亦繼續出場，繼續三分天下的故事，於2010年2月27日公映電影版《超電影版SDガンダム三國伝～BraveBattleWarriors～》。
 
 而模型雜誌「電擊Hobby」，亦會刊載個名角色的文字介紹，插畫則由[日向恭介及](https://zh.wikipedia.org/wiki/日向恭介 "wikilink")[凄鐵擔任](https://zh.wikipedia.org/wiki/凄鐵 "wikilink")。

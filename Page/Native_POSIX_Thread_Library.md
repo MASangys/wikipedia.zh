@@ -1,3 +1,6 @@
+> 本文内容由[Native POSIX Thread Library](https://zh.wikipedia.org/wiki/Native_POSIX_Thread_Library)转换而来。
+
+
 ****（****）是[Linux内核](../Page/Linux内核.md "wikilink")中實踐[POSIX Threads標準的函式庫](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink")。
 
 测试表明，NPTL能够成功地在[IA-32平台上在两秒鐘内生成](https://zh.wikipedia.org/wiki/IA-32 "wikilink")100,000个[线程](../Page/多线程.md "wikilink")；相应的没有的内核将耗费15分钟左右。\[1\]\[2\]

@@ -1,3 +1,6 @@
+> 本文内容由[BMW 6系列](https://zh.wikipedia.org/wiki/BMW_6系列)转换而来。
+
+
 **BMW 6系列**是[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車制造商](https://zh.wikipedia.org/wiki/汽車 "wikilink")[BMW](../Page/BMW.md "wikilink")公司生產的[雙門轎跑車豪華系列車型](https://zh.wikipedia.org/wiki/雙門轎跑車 "wikilink")，其前身是大型雙門轎跑車[BMW 3.0CS](https://zh.wikipedia.org/wiki/BMW_3.0CS "wikilink")。
 
 ## 歷史

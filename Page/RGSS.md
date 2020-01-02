@@ -1,3 +1,6 @@
+> 本文内容由[RGSS](https://zh.wikipedia.org/wiki/RGSS)转换而来。
+
+
 **RGSS**（Ruby Game Scripting System）是以[Ruby](../Page/Ruby.md "wikilink")語言為基礎的遊戲[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")，用於[RPG Maker系列的功能擴充上](https://zh.wikipedia.org/wiki/RPG_Maker "wikilink")。
 
 ## 版本歷史

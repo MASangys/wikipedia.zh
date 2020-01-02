@@ -1,3 +1,6 @@
+> 本文内容由[Dell Latitude](https://zh.wikipedia.org/wiki/Dell_Latitude)转换而来。
+
+
 [D630.jpg](https://zh.wikipedia.org/wiki/File:D630.jpg "fig:D630.jpg") [戴尔的](https://zh.wikipedia.org/wiki/戴尔 "wikilink")**Latitude**[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")[品牌](../Page/品牌.md "wikilink")是专门面向商务市场，其标准化的部件可在整条生产线上使用，同时设计成可使用多年以减少维护支持费用，相对的戴尔另外一个品牌[Dell Inspiron则是瞄准消费者市场](https://zh.wikipedia.org/wiki/Dell_Inspiron "wikilink")，其技术标准就会不时更改。尽管戴尔在一种型号的生产周期内会多次更换零件供应商，但Latitude生产线则通常在其生产周期内保持相同的零配件，这种设计主要是为了让大公司客户简化相应的维护成本。
 
 Dell Latitude 电脑既有坚固的外壳又内置了金属框架；许多型号还提供硬盘保护系统以避免机器坠落或是遭受到强烈的冲击。Strike Zone 是许多Dell Latitude 笔记本电脑中拥有的一项特性用来减少硬盘的震动以保护其免于冲击的破坏。

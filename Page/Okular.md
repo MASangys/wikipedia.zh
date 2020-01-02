@@ -1,3 +1,6 @@
+> 本文内容由[Okular](https://zh.wikipedia.org/wiki/Okular)转换而来。
+
+
 **Okular**、Piotr Szymanski由2005年[Google Summer of Code开发的项目](https://zh.wikipedia.org/wiki/Google_Summer_of_Code "wikilink")、以[KPDF](../Page/KPDF.md "wikilink")为基础、并代替[KPDF](../Page/KPDF.md "wikilink")、[KGhostView](https://zh.wikipedia.org/wiki/KGhostView "wikilink")、[KFax](https://zh.wikipedia.org/wiki/KFax "wikilink")、[KFaxview](https://zh.wikipedia.org/wiki/KFaxview "wikilink")、与[KDVI](https://zh.wikipedia.org/wiki/KDVI "wikilink")，成为[KDE 4的文档查看器](https://zh.wikipedia.org/wiki/KDE_4 "wikilink")\[1\]\[2\]。
 
 Okular可以支持下述的文件格式\[3\]：

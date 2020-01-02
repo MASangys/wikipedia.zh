@@ -1,3 +1,6 @@
+> 本文内容由[SECD抽象机](https://zh.wikipedia.org/wiki/SECD抽象机)转换而来。
+
+
 **SECD 机**是非常有影响的意图作为[函数式编程语言编译器目标的](https://zh.wikipedia.org/wiki/函数式编程语言 "wikilink")[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")。SECD 分别是这个机器的内部寄存器的名字的首字母：**S**tack, **E**nvironment, **C**ode, **D**ump。这些寄存器指向在内存中[链表](../Page/链表.md "wikilink")。
 
 这种机器最初明确设计用来计算 [lambda 演算表达式](https://zh.wikipedia.org/wiki/lambda_演算 "wikilink")。最初 [Peter J. Landin](https://zh.wikipedia.org/wiki/Peter_J._Landin "wikilink") 在1963年把它作为他的 [ISWIM](../Page/ISWIM.md "wikilink")编程语言定义的一部分描述。Landin 出版的描述非常抽象，（象一种[操作语义那样](https://zh.wikipedia.org/wiki/操作语义 "wikilink")）留下很多实现选择开放着。所以 SECD 机经常以更具体的形式出现，比如 [Peter Henderson](https://zh.wikipedia.org/wiki/Peter_Henderson "wikilink") 的 [Lispkit Lisp](../Page/Lispkit_Lisp.md "wikilink") 编译器，它自1980年开始发行。此后它已经被用做多个其他实验编译器的目标。

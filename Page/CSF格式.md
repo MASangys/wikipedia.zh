@@ -1,3 +1,6 @@
+> 本文内容由[CSF格式](https://zh.wikipedia.org/wiki/CSF格式)转换而来。
+
+
 **CSF**是一种[流媒体](../Page/流媒体.md "wikilink")格式，由[江苏科建教育软件有限责任公司开发](https://zh.wikipedia.org/wiki/江苏科建教育软件有限责任公司 "wikilink")。在网络上见到的此类文件大多数是[大学课程视频](https://zh.wikipedia.org/wiki/大学 "wikilink")。
 
 CSF格式属于一种[容器格式](https://zh.wikipedia.org/wiki/容器格式 "wikilink")，作为课程视频时，主要包含3个媒体流：[音频流](https://zh.wikipedia.org/wiki/音频 "wikilink")、[视频](../Page/视频.md "wikilink")流和[屏幕流](https://zh.wikipedia.org/wiki/屏幕 "wikilink")。音频流与视频流和传统的影音文件类似，提供教师讲课时的影像和声音。而屏幕流则额外提供了其他影音格式所不能提供的信息，通常为教师讲课所用[演示文稿的内容](https://zh.wikipedia.org/wiki/演示文稿 "wikilink")，这便能给观看者身临其境的感觉，提高教学的效果。

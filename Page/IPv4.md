@@ -1,3 +1,6 @@
+> 本文内容由[IPv4](https://zh.wikipedia.org/wiki/IPv4)转换而来。
+
+
 **网际协议版本4**（，缩写：**IPv4**，又稱**網際網路通訊協定第四版**）是[网际协议](../Page/网际协议.md "wikilink")开发过程中的第四个修订版本，也是此协议第一个被广泛部署和使用的版本。其後繼版本為[IPv6](../Page/IPv6.md "wikilink")，直到2011年，[IANA](https://zh.wikipedia.org/wiki/IANA "wikilink") IPv4位址完全用盡時，IPv6仍处在部署的初期。
 
 IPv4在[IETF于](https://zh.wikipedia.org/wiki/IETF "wikilink")1981年9月发布的 RFC 791 中被描述，此RFC替换了于1980年1月发布的 RFC 760。

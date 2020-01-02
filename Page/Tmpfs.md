@@ -1,3 +1,6 @@
+> 本文内容由[Tmpfs](https://zh.wikipedia.org/wiki/Tmpfs)转换而来。
+
+
 **tmpfs**是[類Unix系統上暫存檔儲存空間的常見名稱](https://zh.wikipedia.org/wiki/類Unix系統 "wikilink")，通常以掛載檔案系統方式實現，並將資料儲存在[揮發性記憶體](../Page/揮發性記憶體.md "wikilink")而非永久儲存裝置中。和[RAM disk的概念近似](../Page/RAM_disk.md "wikilink")，但後者會呈現出具有完整檔案系統的虛擬磁碟。
 
 ## 詞語定義

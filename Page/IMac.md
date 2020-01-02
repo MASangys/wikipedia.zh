@@ -1,3 +1,6 @@
+> 本文内容由[IMac](https://zh.wikipedia.org/wiki/IMac)转换而来。
+
+
 **iMac**是一系列由[蘋果公司設計與生產的一體化](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[Mac桌上型電腦品牌](https://zh.wikipedia.org/wiki/Mac "wikilink")，從1998年推出以來一直是蘋果針對消費者市場的主力機種。
 
 iMac的特點是它的設計。早在1998年，蘋果總裁[史蒂夫·乔布斯就將](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")「What's not a computer\!」（［看起來］不是電腦的電腦）概念應用於設計iMac的過程。結果造就了果凍－G3、檯燈－iMac G4和相框－iMac G5。

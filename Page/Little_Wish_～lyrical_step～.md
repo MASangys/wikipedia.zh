@@ -1,3 +1,6 @@
+> 本文内容由[Little Wish ～lyrical step～](https://zh.wikipedia.org/wiki/Little_Wish_～lyrical_step～)转换而来。
+
+
 《**Little Wish ～lyrical step～**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第9張單曲，2004年10月21日由[科樂美](../Page/科樂美.md "wikilink")發行，並由[KING RECORDS負責分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。商品編號為KMCM-40。
 
 ## 收錄歌曲

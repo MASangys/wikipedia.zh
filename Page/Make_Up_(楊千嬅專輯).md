@@ -1,3 +1,6 @@
+> 本文内容由[Make Up \(楊千嬅專輯\)](https://zh.wikipedia.org/wiki/Make_Up_\(楊千嬅專輯\))转换而来。
+
+
 《**Make Up**》\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")於2003年7月9日發行的唱片，是她由[新藝寶唱片](../Page/新藝寶唱片.md "wikilink")發行的最後一張個人大碟。由於缺乏宣傳的關係，本地銷量僅一萬\[2\]。
 
 ## 簡介

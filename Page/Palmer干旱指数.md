@@ -1,3 +1,6 @@
+> 本文内容由[Palmer干旱指数](https://zh.wikipedia.org/wiki/Palmer干旱指数)转换而来。
+
+
 **Palmer干旱指数**（），也被称为Palmer干旱严重程度指数(Palmer Drought Severity Index)，英文缩写为**PDSI**，是一个基于[降水量和](https://zh.wikipedia.org/wiki/降水量 "wikilink")[温度](../Page/温度.md "wikilink")的[干燥程度的量规](https://zh.wikipedia.org/wiki/干燥 "wikilink")。它是由[气象学](../Page/气象学.md "wikilink")家[Wayne Palmer研发的](https://zh.wikipedia.org/wiki/Wayne_Palmer "wikilink")，并在1965年为美国气象局的气候学办公室撰写的论文*Meteorological Drought*\[1\]中首次发布。
 
 这个指数是基于[土壤](../Page/土壤.md "wikilink")[湿度](../Page/湿度.md "wikilink")的供需模型的。“供”是相对直接的计算出来的，但是“需”因为取决于多个因素所以比较复杂——不仅是温度和土壤湿度，还包括很难测量的蒸发量和重新补水速率。Palmer试图通过一个算法来克服这些困难， 这个算法根据那些可以迅速获取的数据，比如降水量和温度，来模拟出一个近似值。

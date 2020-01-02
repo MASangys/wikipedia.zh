@@ -1,3 +1,6 @@
+> 本文内容由[Super Junior音樂作品列表](https://zh.wikipedia.org/wiki/Super_Junior音樂作品列表)转换而来。
+
+
 **Super Junior音樂作品列表**主要列舉[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")**[Super Junior](../Page/Super_Junior.md "wikilink")**及其子團體[Super Junior-K.R.Y.](../Page/Super_Junior-K.R.Y..md "wikilink")、[Super Junior-T](../Page/Super_Junior-T.md "wikilink")、[Super Junior-M](../Page/Super_Junior-M.md "wikilink")、[Super Junior-Happy](../Page/Super_Junior-Happy.md "wikilink")、[Super Junior Donghae & Eunhyuk歷年發行的各類音樂專輯](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")、單曲、影視歌曲和廣告歌曲。
 
 [Super Junior已發行](../Page/Super_Junior.md "wikilink")11張正規專輯（10張韓語及1張日語）、1張迷你專輯(1張韓語)、12張單曲（3張韓語及9張日語）、6張演唱會現場專輯和6張[SM Entertainment合作專輯](../Page/SM娛樂.md "wikilink")。專輯周榜排名，分別源於日本[Oricon Charts](../Page/Oricon.md "wikilink")、韓國[Gaon Chart或Hanteo](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink") Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").

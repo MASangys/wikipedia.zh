@@ -1,3 +1,6 @@
+> 本文内容由[Push Mail](https://zh.wikipedia.org/wiki/Push_Mail)转换而来。
+
+
 **Push Mail**是用來描述電子郵件系統，提供了一個“永遠在線”的能力：新的電子郵件會在到達郵件傳遞代理（MDA，一般稱為郵件伺服器）時被主動傳送（Push）到用戶郵件代理（MUA，也被稱為電子郵件客戶端）。今天的大多數客戶都是使用[智慧型手機來進行Push](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink") Mail。
 
 ## 移動用戶

@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 機關城的機械巨兵](https://zh.wikipedia.org/wiki/ONE_PIECE_機關城的機械巨兵)转换而来。
+
+
 《**ONE PIECE 機關城的機械巨兵**》是於2006年上映的第七部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情

@@ -1,3 +1,6 @@
+> 本文内容由[AG-3自動步槍](https://zh.wikipedia.org/wiki/AG-3自動步槍)转换而来。
+
+
 **AG-3**（[挪威語](https://zh.wikipedia.org/wiki/挪威語 "wikilink")：）是[挪威](../Page/挪威.md "wikilink")版本的[HK G3](../Page/HK_G3自動步槍.md "wikilink")[自動步槍](https://zh.wikipedia.org/wiki/自動步槍 "wikilink")。
 
 ## 歷史

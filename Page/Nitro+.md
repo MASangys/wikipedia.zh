@@ -1,3 +1,6 @@
+> 本文内容由[Nitro+](https://zh.wikipedia.org/wiki/Nitro+)转换而来。
+
+
 **株式會社Nitro+**（；）是一間[電腦軟體製作商和](https://zh.wikipedia.org/wiki/電腦軟體 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[角色](../Page/角色.md "wikilink")設計公司。總公司位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")。
 
 ## 概要

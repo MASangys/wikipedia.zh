@@ -1,3 +1,6 @@
+> 本文内容由[Graphisoft](https://zh.wikipedia.org/wiki/Graphisoft)转换而来。
+
+
 **Graphisoft** 公司原由匈牙利一羣建築師與數學家共同開發而來，慢慢擴展至今的規模，現已有二十多萬的使用者，可以說是BIM（[建築資訊模型](https://zh.wikipedia.org/wiki/建築資訊模型 "wikilink")）的始祖之一。
 
 ## 旗艦產品

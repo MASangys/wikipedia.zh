@@ -1,3 +1,6 @@
+> 本文内容由[全國FM聯合](https://zh.wikipedia.org/wiki/全國FM聯合)转换而来。
+
+
 **全國FM聯合**（）是由[日本](../Page/日本.md "wikilink")全國所有加盟[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")的52家民營[FM](https://zh.wikipedia.org/wiki/調頻廣播 "wikilink")[廣播電台組成的](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")[廣播網](https://zh.wikipedia.org/wiki/廣播網 "wikilink")。
 
 ## 加盟局

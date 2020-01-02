@@ -1,3 +1,6 @@
+> 本文内容由[Freshness Burger](https://zh.wikipedia.org/wiki/Freshness_Burger)转换而来。
+
+
 [位於銅鑼灣皇室堡的Freshness_Burger分店.JPG](https://zh.wikipedia.org/wiki/File:位於銅鑼灣皇室堡的Freshness_Burger分店.JPG "fig:位於銅鑼灣皇室堡的Freshness_Burger分店.JPG")
 
 **鮮堡**，英文名：**Freshness Burger**，是一家[日本](../Page/日本.md "wikilink")[快餐](../Page/快餐.md "wikilink")[連鎖店](../Page/連鎖店.md "wikilink")，於1992年成立。它主要售賣[漢堡包](../Page/漢堡包.md "wikilink")，也售賣[三文治](https://zh.wikipedia.org/wiki/三文治 "wikilink")、[沙律](../Page/沙律.md "wikilink")及[咖啡](../Page/咖啡.md "wikilink")飲料。

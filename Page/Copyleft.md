@@ -1,3 +1,6 @@
+> 本文内容由[Copyleft](https://zh.wikipedia.org/wiki/Copyleft)转换而来。
+
+
 [Copyleft.svg](https://zh.wikipedia.org/wiki/File:Copyleft.svg "fig:Copyleft.svg")
 
 **Copyleft**（中文翻譯包括：**著作傳**\[1\]\[2\]、**著佐權**\[3\]、「版權屬左」、「版權左派」、「公共-{版權}-」\[4\]等\[5\]），源自[自由軟體運動](https://zh.wikipedia.org/wiki/自由軟體運動 "wikilink")，是一種利用現有[著作權](../Page/著作權.md "wikilink")（）體制來保障用户[软件自由使用权利的授權方式](../Page/自由软件运动.md "wikilink")，可以了解為允許他人使用、傳播但加了一些少規則。在自由軟體许可证中增加copyleft條款之後，該自由軟體除了允許使用者自由使用、散佈、改作以外，copyleft條款更要求作者所授權的人对改作後的衍生作品要使用相同[许可证授予作者](../Page/软件许可证.md "wikilink")，以保障其后续所有衍生作品都能被任何人自由使用。与[寬容式自由軟體授權條款相比](https://zh.wikipedia.org/wiki/寬容式自由軟體授權條款 "wikilink")，Copyleft许可被认为具有保护伞且互惠的作用，與目前限制著作內容傳播的著作權體制完全相反。\[6\]

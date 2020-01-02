@@ -1,3 +1,6 @@
+> 本文内容由[台灣十大IC設計公司](https://zh.wikipedia.org/wiki/台灣十大IC設計公司)转换而来。
+
+
 [IC_Carrier_Icon.svg](https://zh.wikipedia.org/wiki/File:IC_Carrier_Icon.svg "fig:IC_Carrier_Icon.svg") 台灣IC設計公司營業額排行榜：
 
   - 台灣的IC設計公司通常都是沒有自設工廠的半導體公司（[Fabless](../Page/無廠半導體公司.md "wikilink")，例如聯發科或威盛），設計並銷售自己的晶片但製造卻是委外的（[晶圓代工](../Page/晶圓代工.md "wikilink")廠：[台積電](https://zh.wikipedia.org/wiki/台積電 "wikilink")，[聯電](https://zh.wikipedia.org/wiki/聯電 "wikilink")）。但是部分公司曾經有自行生產晶片（例如矽統）。

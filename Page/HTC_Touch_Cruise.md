@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch Cruise](https://zh.wikipedia.org/wiki/HTC_Touch_Cruise)转换而来。
+
+
 **HTC Touch Cruise**，原廠型號**HTC P3650，HTC P3651**以及2009年的新版**HTC T424X**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6，首次採用鏡面設計，2008年1月於歐洲首度發表。時隔一年后推出新版HTC Touch Cruise，增加了專為輔助[GPS的](https://zh.wikipedia.org/wiki/GPS "wikilink")[HTC Footprints足跡地理標記功能](https://zh.wikipedia.org/wiki/HTC_Footprints "wikilink")。HTC Polaris的客製版本有HTC P3650，HTC P3651，HTC Touch Cruise，HTC Touch Cruise P3651，SFR＆HTC Touch Cruise，HTC Touch Find，Dopod P860，O2 Xda Orbit 2。HTC Iolite的客製版本有HTC T424X，HTC Touch Cruise，Dopod Touch Cruise，O2 Xda Guide等。
 
 ## HTC Polaris技術規格

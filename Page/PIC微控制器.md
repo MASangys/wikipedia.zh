@@ -1,3 +1,6 @@
+> 本文内容由[PIC微控制器](https://zh.wikipedia.org/wiki/PIC微控制器)转换而来。
+
+
 [PIC_microcontrollers.jpg](https://zh.wikipedia.org/wiki/File:PIC_microcontrollers.jpg "fig:PIC_microcontrollers.jpg") **PIC微控制器**（PIC microcontroller），是一種使用[哈佛結構的](https://zh.wikipedia.org/wiki/哈佛結構 "wikilink")[精簡指令集微控制器](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")，由[Microchip公司研發而成](https://zh.wikipedia.org/wiki/Microchip "wikilink")。
 
 PIC的架構是明顯的最低限度。它具有以下特點：

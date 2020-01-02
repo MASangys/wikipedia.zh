@@ -1,3 +1,6 @@
+> 本文内容由[D·B·庫柏](https://zh.wikipedia.org/wiki/D·B·庫柏)转换而来。
+
+
 **D·B·庫柏**（）是一个媒体用来指代一位身份不明的男性劫機嫌犯的名字，他在1971年11月24日於[美國挾持一架](https://zh.wikipedia.org/wiki/美國 "wikilink")[波音727](../Page/波音727.md "wikilink")型的[飛機](https://zh.wikipedia.org/wiki/飛機 "wikilink")，並要求200,000[美金的贖款](https://zh.wikipedia.org/wiki/美金 "wikilink")。他在獲得贖款後使用[降落傘從機上跳下](https://zh.wikipedia.org/wiki/降落傘 "wikilink")。他登機時使用的名字是**丹·庫柏**（Dan Cooper），但是後來因為[新聞界的疏失](https://zh.wikipedia.org/wiki/新聞 "wikilink")，所以他的名字成為了D·B·庫柏。2017年8月18日，[联邦调查局](../Page/联邦调查局.md "wikilink")（FBI）一项声明表示民间调查团队“库珀悬案小组”（Cooper cold case team，简称CCT）于8月3日发现疑似库珀遗弃降落伞碎片，目前FBI已经接收碎片并展开调查。\[1\]\[2\]
 
 ## 劫機經過

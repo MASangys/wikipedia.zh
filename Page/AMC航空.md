@@ -1,3 +1,6 @@
+> 本文内容由[AMC航空](https://zh.wikipedia.org/wiki/AMC航空)转换而来。
+
+
 **AMC航空**是一家[包機](../Page/包機.md "wikilink")[航空公司](../Page/航空公司.md "wikilink")，[總部在](https://zh.wikipedia.org/wiki/總部 "wikilink")[開羅](https://zh.wikipedia.org/wiki/開羅 "wikilink")。提供由[歐洲至](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[埃及](../Page/埃及.md "wikilink")旅遊目的地的包機航班，也有國內和國際包機服務、VIP航班、軍事運輸和[濕租](https://zh.wikipedia.org/wiki/濕租 "wikilink")。[樞紐機場](../Page/樞紐機場.md "wikilink")為[開羅國際機場](../Page/開羅國際機場.md "wikilink")，重點城市包括[古爾代蓋國際機場](https://zh.wikipedia.org/wiki/古爾代蓋國際機場 "wikilink")、[沙姆沙伊赫國際機場](https://zh.wikipedia.org/wiki/沙姆沙伊赫國際機場 "wikilink")、[博格薩爾瓦多阿拉伯機場](https://zh.wikipedia.org/wiki/博格薩爾瓦多阿拉伯機場 "wikilink")、[盧克索國際機場](https://zh.wikipedia.org/wiki/盧克索國際機場 "wikilink")\[1\]。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[E的π次方](https://zh.wikipedia.org/wiki/E的π次方)转换而来。
+
+
 \(e^\pi  \,\)是一个[数学常数](../Page/数学常数.md "wikilink")。与[e和](https://zh.wikipedia.org/wiki/e_\(数学常数\) "wikilink")[π一样](https://zh.wikipedia.org/wiki/圆周率 "wikilink")，它是一个[超越数](https://zh.wikipedia.org/wiki/超越数 "wikilink")。这可以用[格尔丰德-施奈德定理](../Page/格尔丰德-施奈德定理.md "wikilink")来证明，并注意到：
 
 \[e^\pi  \; = \;    (e^{i\pi})^{-i}   \; = \;(-1)^{-i}\]

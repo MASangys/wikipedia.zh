@@ -1,3 +1,6 @@
+> 本文内容由[Windows Phone](https://zh.wikipedia.org/wiki/Windows_Phone)转换而来。
+
+
 （簡稱**WP**）是[微軟發布的一款](https://zh.wikipedia.org/wiki/微軟 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")。Windows Phone將微軟旗下的[Xbox Live遊戲](../Page/Xbox_Live.md "wikilink")、[Xbox Music音樂與獨特的影片體驗整合到了系統中](https://zh.wikipedia.org/wiki/Xbox_Music "wikilink")。微軟在该系统中使用了叫做[Metro UI](https://zh.wikipedia.org/wiki/Metro_UI "wikilink")（后改名[Modern](https://zh.wikipedia.org/wiki/Modern "wikilink")）的新界面，完全改变了应用封装格式，所以Windows Phone 7的应用与Windows Mobile应用完全不兼容。根據官方網頁，Windows Phone 7系統的主流支援已經在2014年10月24日結束，而Windows Phone 8.1系統的主流支援已經在2017年7月11日結束\[1\]。Windows Phone 7.5 和 Windows Phone 8的通知推送服务也在2018年2月20日关闭\[2\]，Windows Phone 7.5 和 Windows Phone 8 将无法收到任何的通知推送，动态磁贴将不再更新，手机上的查找我的手机功能将不再可用。
 
 2017年第一季度中，Windows Phone的市场份额仅有0.1%\[3\]，在2018年部分国家Windows Phone的市场份额更是接近于0\[4\]。微软[首席执行官](../Page/首席执行官.md "wikilink")[纳德拉也表示微软的移动战略已失败](https://zh.wikipedia.org/wiki/萨蒂亚·纳德拉 "wikilink")\[5\]。

@@ -1,14 +1,17 @@
-**PlayStation 4**（官方縮寫：**PS4**）是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")推出的[家用電子遊樂器](../Page/家用游戏机.md "wikilink")，首發在2013年11月15日於[北美開始販售](https://zh.wikipedia.org/wiki/北美 "wikilink")。本機作為[PlayStation 3的後續機型](../Page/PlayStation_3.md "wikilink")，於[電子遊戲史](../Page/電子遊戲史.md "wikilink")中為[第八世代機種](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。
+> 本文内容由[PlayStation 4](https://zh.wikipedia.org/wiki/PlayStation_4)转换而来。
+
+
+**PlayStation 4**（官方縮寫：**PS4**）是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")推出的[家用電子遊樂器](../Page/家用游戏机.md "wikilink")，初次在2013年11月15日於[北美開始販售](https://zh.wikipedia.org/wiki/北美 "wikilink")。本機作為[PlayStation 3的續作機型](../Page/PlayStation_3.md "wikilink")，於[電子遊戲史](../Page/電子遊戲史.md "wikilink")中為[第八世代機種](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。
 
 在新的應用和服務方面，索尼在[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")上推出專屬應用程式「[PlayStation App](../Page/PlayStation_App.md "wikilink")」，讓這些裝置成為第二螢幕以加強遊戲體驗。索尼也推出了[雲端遊戲](../Page/雲端遊戲.md "wikilink")的[串流服務](https://zh.wikipedia.org/wiki/串流 "wikilink")「[PlayStation Now](../Page/PlayStation_Now.md "wikilink")」。此外，搭配的控制器上增加了「分享」按鈕，讓使用者易於將遊玩過程作[直播或录制等用途](https://zh.wikipedia.org/wiki/直播 "wikilink")。
 
 ## 历史
 
-根據首席系统设计师（Mark Cerny）表示，索尼的[第八世代遊戲主機開發工作早在](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")2008年就開始進行。\[1\]而當時在不到兩年前，PlayStation 3因製造問題而延遲了數個月才推出，\[2\]使得其上市時間落後了微軟的[Xbox 360將近一年之久](../Page/Xbox_360.md "wikilink")。\[3\]歐洲PlayStation部門的CEO吉姆·雷恩曾表示索尼希望能在PS3的後繼機種上避免再犯下同樣的錯誤。\[4\]
+系统设计师（Mark Cerny）表示，索尼的[第八世代遊戲主機開發工作在](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")2008年早就進行。\[1\]而當時在不到兩年前，PlayStation 3因製造問題而延後了幾個月才推出，\[2\]使得其上市時間落後了微軟的[Xbox 360將近一年之久](../Page/Xbox_360.md "wikilink")。\[3\]歐洲PlayStation部門的CEO吉姆·雷恩曾表示索尼希望能在PS3的後繼機種上避免再犯下同樣的錯誤。\[4\]
 
 2011年有媒体称，索尼与[IBM](../Page/IBM.md "wikilink")合作开发性能强劲的[处理器](../Page/中央处理器.md "wikilink")\[5\]。而在2012年又有消息称，索尼放弃了基于[Cell 架构处理器的开发工作](../Page/Cell_\(微處理器\).md "wikilink")，转而使用[AMD的处理器和](https://zh.wikipedia.org/wiki/AMD "wikilink")[显示芯片进行开发](https://zh.wikipedia.org/wiki/显卡芯片 "wikilink")\[6\]。
 
-2013年初，索尼宣布将在2月20日于美国[纽约](../Page/纽约.md "wikilink")召开以“见证未来”为主题的发布会。2013年2月20日，索尼在纽约的发布会上正式公布了“PS4”的商标、游戏主机的规格、首发游戏以及游戏演示画面\[7\]。
+2013年，索尼宣布在2月20日于美国[纽约](../Page/纽约.md "wikilink")召开以“见证未来”为主题的发布会。2013年2月20日，索尼在纽约的发布会上正式公布了“PS4”的商标、游戏主机的规格、首发游戏以及游戏演示画面\[7\]。
 
 2013年8月21日，索尼電腦娛樂公司（SCE）執行長郝斯（Andrew House）在科隆遊戲展（Gamescom）上宣佈，PS4遊戲主機將於11月15日在北美地區發布，[歐洲地區則將在](https://zh.wikipedia.org/wiki/歐洲 "wikilink")11月29日迎來。\[8\]
 
@@ -48,11 +51,11 @@ PlayStation 4的主要控制器是[DualShock 4](https://zh.wikipedia.org/wiki/Du
 
 DualShock 4上設有下列按鈕：PS按鈕、SHARE（分享）按鈕、OPTIONS（選項）按鈕、[方向按鈕](https://zh.wikipedia.org/wiki/十字键 "wikilink")、動作按鈕（[PlayStationTriangle.svg](https://zh.wikipedia.org/wiki/File:PlayStationTriangle.svg "fig:PlayStationTriangle.svg")、[PlayStationCircle.svg](https://zh.wikipedia.org/wiki/File:PlayStationCircle.svg "fig:PlayStationCircle.svg")、[PlayStationX.svg](https://zh.wikipedia.org/wiki/File:PlayStationX.svg "fig:PlayStationX.svg")、[PlayStationSquare.svg](https://zh.wikipedia.org/wiki/File:PlayStationSquare.svg "fig:PlayStationSquare.svg")）、上端按鈕（R1、L1）、扳機按鈕（R2、L2）、類比操作桿按鈕（R3、L3）以及觸控板按鈕\[62\]。其中部分按鈕配置與DualShock 3有所不同，包括START和SELECT按鈕整合為單一個OPTIONS按鈕\[63\]\[64\]。專屬的SHARE按鈕可讓使用者在上傳遊戲進行的影片或截圖\[65\]。操作桿和各按鈕依據開發商的意見而重新設計\[66\]，包括將類比操作桿的表面邊緣改為突起等\[67\]。
 
-DualShock 4同時也裝載了可顯示各種顏色的光條。不同的顏色可用來代表不同的玩者，並可作為重要訊息的提示之用（例如遊戲人物的生命值降低等）\[68\]。此外光條也可與[PlayStation Camera攝影機互動](https://zh.wikipedia.org/wiki/PlayStation_Camera "wikilink")，讓攝影機能透過光條來判定控制器的動作和距離遠近。這項功能是以[PlayStation Move技術為基礎](https://zh.wikipedia.org/wiki/PlayStation_Move "wikilink")，既有的PlayStation Move控制器亦可在PlayStation 4上使用\[69\]\[70\]。
+DualShock 4同時也裝載了可顯示各種顏色的光條。不同的顏色可用來代表不同的玩者，並可作為重要訊息的提示之用（例如遊戲人物的生命值降低等）\[68\]。此外光條也可與[PlayStation Camera攝影機互動](../Page/PlayStation_Camera.md "wikilink")，讓攝影機能透過光條來判定控制器的動作和距離遠近。這項功能是以[PlayStation Move技術為基礎](https://zh.wikipedia.org/wiki/PlayStation_Move "wikilink")，既有的PlayStation Move控制器亦可在PlayStation 4上使用\[69\]\[70\]。
 
 ### PlayStation Camera
 
-[缩略图](https://zh.wikipedia.org/wiki/File:PS4-Camera.JPG "fig:缩略图") [PlayStation Camera是一個可另選購的動態感測配件](https://zh.wikipedia.org/wiki/PlayStation_Camera "wikilink")。其包含兩個1280x800像素的鏡頭，光圈值為2.0，焦距為30cm，具備85度的[視野範圍](https://zh.wikipedia.org/wiki/視野 "wikilink")\[71\]。雙鏡頭的設計能依據各種應用來改變操作模式\[72\]。兩個鏡頭同時使用下可在攝影機視野範圍內對物體進行[深度偵測](../Page/摄影测量法.md "wikilink")\[73\]，與[Xbox](../Page/Xbox.md "wikilink")的[Kinect](../Page/Kinect.md "wikilink")系統原理相同\[74\]。此外，其中之一的鏡頭可進行影像拍攝，而另一個鏡頭則可用來偵測動作\[75\]。
+[缩略图](https://zh.wikipedia.org/wiki/File:PS4-Camera.JPG "fig:缩略图") [PlayStation Camera是一個可另選購的動態感測配件](../Page/PlayStation_Camera.md "wikilink")。其包含兩個1280x800像素的鏡頭，光圈值為2.0，焦距為30cm，具備85度的[視野](../Page/視野.md "wikilink")範圍\[71\]。雙鏡頭的設計能依據各種應用來改變操作模式\[72\]。兩個鏡頭同時使用下可在攝影機視野範圍內對物體進行[深度偵測](../Page/摄影测量法.md "wikilink")\[73\]，與[Xbox](../Page/Xbox.md "wikilink")的[Kinect](../Page/Kinect.md "wikilink")系統原理相同\[74\]。此外，其中之一的鏡頭可進行影像拍攝，而另一個鏡頭則可用來偵測動作\[75\]。
 
 PlayStation Camera亦內建一組四聲道麥克風\[76\]，可幫助降低背景噪音，並可接收語音控制命令\[77\]。攝影機的尺寸為186x27x27厘米，重量為183克\[78\]。攝影機與主機上的AUX連接埠相連，可錄製[RAW](../Page/RAW.md "wikilink")和未壓縮的[YUV](../Page/YUV.md "wikilink")格式影像\[79\]\[80\]。
 
@@ -80,7 +83,7 @@ PlayStation 4在發售時所提供的第三方線上服務依據國家而有所�
 
 ### 共享
 
-DualShock 4控制器上設有一個「SHARE」按鈕，能夠讓玩者從前15分鐘的遊戲錄影畫面中選擇片段或截圖與他人共享。媒體檔案能直接從主機上傳至[Youtube或](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")等社交網路服務。截至2013年12月10日，已有超過2000萬分鐘的即時遊戲過程直播影片透過SHARE按鈕分享出去\[108\]
+DualShock 4控制器上設有一個「SHARE」按鈕，能夠讓玩者從前15分鐘的遊戲錄影畫面中選擇片段或截圖與他人共享。媒體檔案能直接從主機上傳至[Youtube或](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")等社交網路服務。截至2013年12月10日，已有超過2000萬分鐘的即時遊戲過程直播影片透過SHARE按鈕分享出去\[108\]。
 
 ### 即時直播
 
@@ -88,11 +91,11 @@ DualShock 4控制器上設有一個「SHARE」按鈕，能夠讓玩者從前15�
 
 ## 游戏
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Area_E,_Bahamut_Market_20180707.jpg "fig:缩略图")的PS4賣店\]\] SCEA首席执行官Jack Tretton宣布PS4游戏价格会在0.99美元到60美元之间。PS4游戏不锁区，也就是在一个地区买的游戏可以在任何地区运行。\[112\] 而且游戏可以被交易、租借，也就是购买的游戏可以随购买者的意愿随意处理。\[113\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Area_E,_Bahamut_Market_20180707.jpg "fig:缩略图")的PS4賣店\]\] SCEA首席执行官Jack Tretton宣布PS4游戏价格会在0.99美元到60美元之间。PS4游戏不锁区，也就是在一个地区买的游戏可以在任何地区运行。\[112\]而且游戏可以被交易、租借，也就是购买的游戏可以随购买者的意愿随意处理。\[113\]
 
-索尼希望能让独立游戏制作者更轻松地为PS4开发游戏。在2013年的E3展上，索尼透露他们将会允许开发者在PSN上独自出版PS3、PS4和PS Vita游戏。\[114\] 索尼不久之后宣称，在2013年末，至少十个独立游戏会作为PS4的首发游戏。\[115\]
+索尼希望能让独立游戏制作者更轻松地为PS4开发游戏。在2013年的E3展上，索尼透露他们将会允许开发者在PSN上独自出版PS3、PS4和PS Vita游戏。\[114\]索尼不久之后宣称，在2013年末，至少十个独立游戏会作为PS4的首发游戏。\[115\]
 
-不仅在传统零售商以光盘媒介发售游戏，大多数PS4游戏都可以通过线上模式购买。\[116\]而且，许多游戏都有免费试玩版。\[117\] 玩家可以在任何PS4设备登录来连接到自己的数字游戏库。\[118\]索尼并没有禁止以游戏光盘为基础的游戏交易，也并没有要求定期联网检查游戏。\[119\]\[120\]
+不仅在传统零售商以光盘媒介发售游戏，大多数PS4游戏都可以通过线上模式购买。\[116\]而且，许多游戏都有免费试玩版。\[117\]玩家可以在任何PS4设备登录来连接到自己的数字游戏库。\[118\]索尼并没有禁止以游戏光盘为基础的游戏交易，也并没有要求定期联网检查游戏。\[119\]\[120\]
 
 PS4的[追加下载内容系统和之前的其他PlayStation平台的系统很相似](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。
 
@@ -193,15 +196,19 @@ PlayStation 4在發售前普遍受到來自開發商和媒體正面評價。
 
   - 2018年12月31日為止，PlayStation 4(PS4)在全球共售出9160萬台。其中，光是在2018年底聖誕及新年假期旺季 (2018年11月19日至2018年12月31日) 期間，便售出了560萬台以上。
 
+<!-- end list -->
+
+  - 2019年6月，PS4的全球累計銷量突破了1億台\[154\]。
+
 ## 發售日期
 
 ### PlayStation 4
 
-PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著於歐洲、南美洲、大洋洲、非洲、中東和亞洲（日本和中國大陸除外）地區陸續上市。其中與過往PlayStation系列主機不同的是，在亞洲市場中，韓國、香港、台灣比日本更早推出\[154\]。製造商索尼所屬的國家日本則是在2014年2月22日上市\[155\]。
+PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著於歐洲、南美洲、大洋洲、非洲、中東和亞洲（日本和中國大陸除外）地區陸續上市。其中與過往PlayStation系列主機不同的是，在亞洲市場中，韓國、香港、台灣比日本更早推出\[155\]。製造商索尼所屬的國家日本則是在2014年2月22日上市\[156\]。
 
 #### 中国大陆
 
-索尼于2014年召开发布会，宣布PlayStation 4中国大陆版于2015年1月11日上市\[156\]。但预定上市几天前，索尼中国突然声明上市时间推迟，且未给出原因及新上市时间\[157\]。一时间舆论猜测纷纷，有评论认为是因名为“刘睿哲”的民众向北京市文化局官方网站进行实名举报所致\[158\]，甚至引發网友对当事人的声讨和[人肉搜索](../Page/人肉搜索.md "wikilink")\[159\]；但亦有消息称延期仅与游戏审批受阻有关\[160\]。2015年3月，随着PlayStation 4首发游戏一一通过[国家新闻出版广电总局审批](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")\[161\]，索尼中国重新宣布PlayStation 4中国大陆版于2015年3月20日上市，但存在区域限制问题。
+索尼于2014年召开发布会，宣布PlayStation 4中国大陆版于2015年1月11日上市\[157\]。但预定上市几天前，索尼中国突然声明上市时间推迟，且未给出原因及新上市时间\[158\]。一时间舆论猜测纷纷，有评论认为是因名为“刘睿哲”的民众向北京市文化局官方网站进行实名举报所致\[159\]，甚至引發网友对当事人的声讨和[人肉搜索](../Page/人肉搜索.md "wikilink")\[160\]；但亦有消息称延期仅与游戏审批受阻有关\[161\]。2015年3月，随着PlayStation 4首发游戏一一通过[国家新闻出版广电总局审批](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")\[162\]，索尼中国重新宣布PlayStation 4中国大陆版于2015年3月20日上市，但存在区域限制问题。
 
 <table>
 <thead>
@@ -212,23 +219,23 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2013年11月15日[162]</p></td>
+<td><p>2013年11月15日[163]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年11月29日[163]</p></td>
+<td><p>2013年11月29日[164]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年12月13日[164]</p></td>
+<td><p>2013年12月13日[165]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013年12月17日[165][166]</p></td>
+<td><p>2013年12月17日[166][167]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2013年12月18日[167]</p></td>
+<td><p>2013年12月18日[168]</p></td>
 <td><dl>
 <dt></dt>
 <dd><p>（<a href="../Page/臺灣.md" title="wikilink">臺灣</a>）</p>
@@ -236,7 +243,7 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </dl></td>
 </tr>
 <tr class="even">
-<td><p>2013年12月19日[168]</p></td>
+<td><p>2013年12月19日[169]</p></td>
 <td><dl>
 <dt></dt>
 <dd>
@@ -244,7 +251,7 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </dl></td>
 </tr>
 <tr class="odd">
-<td><p>2013年12月20日[169]</p></td>
+<td><p>2013年12月20日[170]</p></td>
 <td><dl>
 <dt></dt>
 <dd>
@@ -252,7 +259,7 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </dl></td>
 </tr>
 <tr class="even">
-<td><p>2014年1月6日[170]</p></td>
+<td><p>2014年1月6日[171]</p></td>
 <td><dl>
 <dt></dt>
 <dd>
@@ -260,7 +267,7 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </dl></td>
 </tr>
 <tr class="odd">
-<td><p>2014年1月9日[171]</p></td>
+<td><p>2014年1月9日[172]</p></td>
 <td><dl>
 <dt></dt>
 <dd>
@@ -268,11 +275,11 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </dl></td>
 </tr>
 <tr class="even">
-<td><p>2014年1月14日[172]</p></td>
+<td><p>2014年1月14日[173]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2014年2月22日[173]</p></td>
+<td><p>2014年2月22日[174]</p></td>
 <td><dl>
 <dt></dt>
 <dd>
@@ -280,7 +287,7 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 </dl></td>
 </tr>
 <tr class="even">
-<td><p>2015年3月20日[174][175]</p></td>
+<td><p>2015年3月20日[175][176]</p></td>
 <td><dl>
 <dt></dt>
 <dd><p>（<a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a>）</p>
@@ -301,24 +308,24 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 
 | 发售日                | 地区及国家     |
 | ------------------ | --------- |
-| 2016年9月9日\[176\]   | 韩国、台湾、香港  |
-| 2016年9月15日\[177\]  | 美国、加拿大、日本 |
+| 2016年9月9日\[177\]   | 韩国、台湾、香港  |
+| 2016年9月15日\[178\]  | 美国、加拿大、日本 |
 | 2016年9月16日         | 欧洲、大洋洲    |
-| 2016年9月17日\[178\]  | 新加坡       |
-| 2016年10月中旬\[179\]  | 马来西亚      |
-| 2016年11月11日\[180\] | 中国大陆      |
+| 2016年9月17日\[179\]  | 新加坡       |
+| 2016年10月中旬\[180\]  | 马来西亚      |
+| 2016年11月11日\[181\] | 中国大陆      |
 
 ### PlayStation 4 Pro
 
 代号“NEO”，2016年11月10日于全球发售，型号尾CUH-7000，性能上较普通Playstation 4有升级。
 
-硬件方面，主要是CPU主频有所提高，从1.6GHz提高到2.1GHz，这样运算性能达到了4.2TFlops。此外，GPU虽然基本规格没有变化，架构得以细微改进，对高清游戏和电影的硬解码能力进一步加强。硬件的提高使得Pro版硬件能够支持[4K清晰度的游戏](https://zh.wikipedia.org/wiki/4K "wikilink")，并提高了[虚拟现实](../Page/虚拟现实.md "wikilink")（VR）设备的支持。部分新发售的游戏能够识别Pro版并对其专门优化。随着2017年，4.5版本固件升级，使得Pro支持游戏以“加速模式”（Boost Mode）运行；额外还带来了诸如自定义壁纸，以及支持最高8TB外置硬盘，并支持外置硬盘进行游戏存储（需交由PlayStation进行格式化）等功能\[181\]。
+硬件方面，主要是CPU主频有所提高，从1.6GHz提高到2.1GHz，这样运算性能达到了4.2TFlops。此外，GPU虽然基本规格没有变化，架构得以细微改进，对高清游戏和电影的硬解码能力进一步加强。硬件的提高使得Pro版硬件能够支持[4K清晰度的游戏](https://zh.wikipedia.org/wiki/4K "wikilink")，并提高了[虚拟现实](../Page/虚拟现实.md "wikilink")（VR）设备的支持。部分新发售的游戏能够识别Pro版并对其专门优化。随着2017年，4.5版本固件升级，使得Pro支持游戏以“加速模式”（Boost Mode）运行；额外还带来了诸如自定义壁纸，以及支持最高8TB外置硬盘，并支持外置硬盘进行游戏存储（需交由PlayStation进行格式化）等功能\[182\]。
 
-虽然可以播放4K流媒体，却不支持“[超高清蓝光光碟](../Page/超高清蓝光光碟.md "wikilink")”（Ultra HD Blu-ray）的播放。\[182\]
+虽然可以播放4K流媒体，却不支持“[超高清蓝光光碟](../Page/超高清蓝光光碟.md "wikilink")”（Ultra HD Blu-ray）的播放。\[183\]
 
-為了对应游戏种类的提升，配置的硬盘也改为了1TB起（原版为500GB起）；同样支持玩家自行更换（2.5英寸硬盘，7mm与9mm厚度）\[183\]。
+為了对应游戏种类的提升，配置的硬盘也改为了1TB起（原版为500GB起）；同样支持玩家自行更换（2.5英寸硬盘，7mm与9mm厚度）\[184\]。
 
-此外，Playstation 4 Pro的首发版本中有日本製造的机台，遭到一些中间商囤积加价。\[184\]
+此外，Playstation 4 Pro的首发版本中有日本製造的机台，遭到一些中间商囤积加价。\[185\]
 
 ## 參考資料
 
@@ -334,102 +341,60 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 [Category:PlayStation_4](https://zh.wikipedia.org/wiki/Category:PlayStation_4 "wikilink") [Category:第八世代遊戲機](https://zh.wikipedia.org/wiki/Category:第八世代遊戲機 "wikilink") [Category:索尼遊戲機](https://zh.wikipedia.org/wiki/Category:索尼遊戲機 "wikilink") [Category:家用游戏机](https://zh.wikipedia.org/wiki/Category:家用游戏机 "wikilink") [Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink")
 
 1.
-
 2.
-
 3.
 4.
-
 5.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10. \[<http://www.ign.com/articles/2016/09/07/everything-announced-at-september-7s-playstation-meeting>? EVERYTHING ANNOUNCED AT SEPTEMBER 7'S PLAYSTATION MEETING\].IGN.2016-09-07.\[2016-09-09\].
-
 11. [4 NEW PS4 PERIPHERALS ANNOUNCED](http://www.ign.com/articles/2016/09/08/4-new-ps4-peripherals-announced).IGN.2016-09-08.\[2016-09-09\].
-
-12. [PlayStation®4：終極版常見問題集 for 香港](http://blog.asia.playstation.com/view-blog-post.jspa?blog=6742&blogPost=9130)2013年11月11日 發帖人: PSN Communication Manager
-
+12. [PlayStation®4：終極版常見問題集 for 香港](http://blog.asia.playstation.com/view-blog-post.jspa?blog=6742&blogPost=9130) 2013年11月11日 發帖人: PSN Communication Manager
 13.
-
 14.
-
 15.
-
 16.
 17.
-
 18.
-
 19.
 20.
-
 21.
-
 22.
 23.
-
 24.
-
 25.
-
 26.
-
 27.
-
 28.
-
 29.
-
 30.
 31.
-
 32.
 33.
-
 34.
-
 35.
-
 36.
-
 37.
-
 38.
 39.
 40.
 41.
-
 42.
 43.
-
 44.
-
 45.
-
 46.
-
 47.
-
 48.
-
 49.
-
 50.
-
 51.
-
 52.
 53.
 54.
 55.
-
 56.
 57.
 58.
@@ -439,222 +404,124 @@ PlayStation 4最初在2013年11月15日於北美州市場率先發售，接著�
 62.
 63.
 64.
-
 65.
 66.
 67.
 68.
 69.
 70.
-
 71.
 72.
-
 73.
-
 74.
-
 75.
-
 76.
 77.
 78.
 79.
 80.
 81.
-
 82.
-
 83.
-
 84.
-
 85.
 86.
 87.
-
 88.
-
 89.
-
 90.
-
 91.
-
 92.
-
 93.
-
 94.
 95.
-
 96.
-
 97.
-
 98.
-
 99.
 100. ["13 Digital Entertainment Apps on PS4 at Launch"](http://blog.us.playstation.com/2013/11/07/11-digital-entertainment-apps-on-ps4-at-launch-2/). PlayStation.com. 7 November 2013.
-
 101. ["Sony details 11 PS4 entertainment apps available at launch, includes the ones you want"](http://www.engadget.com/2013/11/07/ps4-launch-entertainment-apps/). Engadget.com.
-
 102. ["Sony names apps available for US PS4 launch"](http://www.mcvuk.com/news/read/sony-names-apps-available-for-us-ps4-launch/0123992). MCV The Market For Computer & Video Games. 8 November 2013.
-
 103.
-
 104.
-
 105.
 106.
 107.
-
 108.
-
 109.
-
 110.
 111.
-
 112.
-
 113.
-
 114.
-
 115.
-
 116.
-
 117.
-
 118.
-
 119.
-
 120.
-
-121. {{ cite news |author=Cerny, Mark |title=PS4′s PlayGo system explained by Sony’s Mark Cerny |url=<http://www.vg247.com/2013/04/24/ps4s-playgo-system-explained-by-sonys-mark-cerny/> |work=VG247 |date=2013-04-24 |accessdate=2013-06-01 |archiveurl=<https://archive.is/20130615061111/http://www.vg247.com/2013/04/24/ps4s-playgo-system-explained-by-sonys-mark-cerny/> |archivedate=2013-06-15 |deadurl=yes }}
-
+121. {{ cite news |author=Cerny, Mark |title=PS4's PlayGo system explained by Sony's Mark Cerny |url=<http://www.vg247.com/2013/04/24/ps4s-playgo-system-explained-by-sonys-mark-cerny/> |work=VG247 |date=2013-04-24 |accessdate=2013-06-01 |archiveurl=<https://archive.is/20130615061111/http://www.vg247.com/2013/04/24/ps4s-playgo-system-explained-by-sonys-mark-cerny/> |archivedate=2013-06-15 |deadurl=yes }}
 122.
-
 123.
-
 124.
-
 125.
-
 126.
-
 127. [谜团揭晓 一张图带你了解国行PS4/PSV](http://games.sina.com.cn/t/n/2015-03-20/1117858769.shtml)，新浪
-
 128.
-
 129.
-
 130.
-
 131.
-
 132.
-
 133.
 134.
-
 135.
-
 136.
-
 137.
-
 138.
-
 139.
-
 140.
-
 141.
-
 142.
-
 143.
-
 144.
-
 145.
-
 146. 2014-01-07, [PlayStation 4 sales topped 4.2 million in 2013](http://gematsu.com/2014/01/playstation-4-sales-topped-4-2-million-2013), Gematsu
-
 147.
-
 148.
-
 149. 2014-02-25, [プレイステーション4が発売2日間で32万2083台を販売](http://www.famitsu.com/news/201402/25048815.html), [Famitsu](https://zh.wikipedia.org/wiki/Famitsu "wikilink")
-
 150.
-
 151.
-
 152.
-
 153.
-
 154.
-
 155.
-
 156.
-
 157.
-
 158.
-
 159.
-
 160.
-
 161.
-
 162.
-
 163.
-
 164.
-
 165.
-
 166.
-
 167.
-
 168.
-
 169.
-
 170.
-
 171.
-
 172.
-
 173.
-
 174.
 175.
-
-176. [PlayStation 4 Slim 港台发售资讯确定](http://cn.engadget.com/2016/09/08/playstation-4-slim-nt-9-980-hk-2-380/).engadget中文版.2016-09-08.\[2016-09-11\].
-
-177. [PS4 Slim 正式发布，9 月 15 开卖](http://cn.engadget.com/2016/09/07/ps4-slim-september-300/).engadget中文版.2016-09-08.\[2016-09-11\].
-
-178. [SONY INTERACTIVE ENTERTAINMENT TO LAUNCH SLIMMER AND LIGHTER PLAYSTATION®4 IN SEPTEMBER, AVAILABLE AT SGD449](https://asia.playstation.com/sg/en/newsdetail?id=4559).Sony PlayStation Singapore.2016-09-08.\[2016-09-11\].
-
-179. [SONY INTERACTIVE ENTERTAINMENT TO LAUNCH SLIMMER AND LIGHTER PLAYSTATION®4 IN MID-OCTOBER](https://asia.playstation.com/my/en/newsdetail?id=4559).Sony PlayStation Malaysia.2016-09-08.\[2016-09-11\].
-
-180. \[<http://www.weibo.com/2833736934/EcEdReAsI>? @PlayStation中国:【新PlayStation 4上市纪念套装 优惠售价更多欢乐！】\].新浪微博.2016-10-13.\[2016-10-13\].
-
-181. [PS4新系统支持外接硬盘、PS4 Pro硬加速](http://www.g-cores.com/articles/22930) — 机核
-
-182. "Games with PS4 Pro features will have a 'PS4 Pro Enhanced' on the cover". VG24/7. Retrieved December 31, 2016.
-
-183.
-184. <http://bbs.a9vg.com/thread-5152687-1-1.html>
+176.
+177. [PlayStation 4 Slim 港台发售资讯确定](http://cn.engadget.com/2016/09/08/playstation-4-slim-nt-9-980-hk-2-380/).engadget中文版.2016-09-08.\[2016-09-11\].
+178. [PS4 Slim 正式发布，9 月 15 开卖](http://cn.engadget.com/2016/09/07/ps4-slim-september-300/).engadget中文版.2016-09-08.\[2016-09-11\].
+179. [SONY INTERACTIVE ENTERTAINMENT TO LAUNCH SLIMMER AND LIGHTER PLAYSTATION®4 IN SEPTEMBER, AVAILABLE AT SGD449](https://asia.playstation.com/sg/en/newsdetail?id=4559).Sony PlayStation Singapore.2016-09-08.\[2016-09-11\].
+180. [SONY INTERACTIVE ENTERTAINMENT TO LAUNCH SLIMMER AND LIGHTER PLAYSTATION®4 IN MID-OCTOBER](https://asia.playstation.com/my/en/newsdetail?id=4559).Sony PlayStation Malaysia.2016-09-08.\[2016-09-11\].
+181. \[<http://www.weibo.com/2833736934/EcEdReAsI>? @PlayStation中国:【新PlayStation 4上市纪念套装 优惠售价更多欢乐！】\].新浪微博.2016-10-13.\[2016-10-13\].
+182. [PS4新系统支持外接硬盘、PS4 Pro硬加速](http://www.g-cores.com/articles/22930)  — 机核
+183. "Games with PS4 Pro features will have a 'PS4 Pro Enhanced' on the cover". VG24/7. Retrieved December 31, 2016.
+184.
+185. <http://bbs.a9vg.com/thread-5152687-1-1.html>

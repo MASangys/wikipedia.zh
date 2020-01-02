@@ -1,3 +1,6 @@
+> 本文内容由[CoCo \(專輯\)](https://zh.wikipedia.org/wiki/CoCo_\(專輯\))转换而来。
+
+
 《Coco》是[美國創作歌手](https://zh.wikipedia.org/wiki/美國 "wikilink")[Colbie Caillat個人首張專輯](https://zh.wikipedia.org/wiki/Colbie_Caillat "wikilink")，在2007年7月17日發行。專輯首週已賣出51,000張，並打入美國告示牌前200的第五名。\[1\] 在2008年9月，這張專輯已經在[美國售出了](https://zh.wikipedia.org/wiki/美國 "wikilink")1,757,922張，並獲得RIAA的白金認證。。\[2\]\[3\] 蔻比在接受MTV Latin America的訪問時指出專輯名為"Coco"是因為這是她的父母為她改的小名，而她的朋友也採用了這個名字。
 
 ## 曲目列表

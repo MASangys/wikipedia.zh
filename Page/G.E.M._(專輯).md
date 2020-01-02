@@ -1,3 +1,6 @@
+> 本文内容由[G.E.M. \(專輯\)](https://zh.wikipedia.org/wiki/G.E.M._\(專輯\))转换而来。
+
+
 《**G.E.M.**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧紫棋G](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink").E.M.推出的首張個人同名[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，第一版於2008年10月15日發行。
 
 ## 專輯簡介

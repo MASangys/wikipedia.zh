@@ -1,3 +1,6 @@
+> 本文内容由[Snow tears](https://zh.wikipedia.org/wiki/Snow_tears)转换而来。
+
+
 **Snow Tears**，是[中川翔子](../Page/中川翔子.md "wikilink")的第四张单曲，2008年1月30日发售，商品番号SRCL-6698（CD+DVD盘）。
 
 ## 作品概要

@@ -1,3 +1,6 @@
+> 本文内容由[Canonical](https://zh.wikipedia.org/wiki/Canonical)转换而来。
+
+
 **英屬曼島商肯諾有限公司**（Canonical Ltd.） 是一家[私人公司](../Page/私人公司.md "wikilink")，由[南非的企业家](https://zh.wikipedia.org/wiki/南非 "wikilink")[马克·沙特尔沃思](../Page/马克·沙特尔沃思.md "wikilink")创建，主要为了促进[开源软件](../Page/开源软件.md "wikilink")项目。Canonical在[曼島](../Page/曼島.md "wikilink")登记注册，其雇员分布在世界各地，其主要办事处在[伦敦](../Page/伦敦.md "wikilink")，在[波士顿](../Page/波士顿.md "wikilink")、[圣保罗](https://zh.wikipedia.org/wiki/圣保罗 "wikilink")、[蒙特利尔](../Page/蒙特利尔.md "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[台北和](https://zh.wikipedia.org/wiki/台北市 "wikilink")[马恩岛也有分公司](https://zh.wikipedia.org/wiki/马恩岛 "wikilink")。
 
 ## Canonical赞助的项目

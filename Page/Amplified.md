@@ -1,3 +1,6 @@
+> 本文内容由[Amplified](https://zh.wikipedia.org/wiki/Amplified)转换而来。
+
+
 **Amplified**是一隊來自[香港](../Page/香港.md "wikilink")的[日本](../Page/日本.md "wikilink")樂隊，而其3名成员却来自3个不同的国家。三人都在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新罕布什爾州的](https://zh.wikipedia.org/wiki/新罕布殊爾州 "wikilink")[聖保羅學校就讀高中](https://zh.wikipedia.org/wiki/聖保羅學校_\(新罕布夏州\) "wikilink")。他們在[日本](../Page/日本.md "wikilink")新人招募赛上首露头角，后被招入[DefSTAR Records唱片公司旗下](../Page/DefSTAR_Records.md "wikilink")，成为[平井坚同门师弟](https://zh.wikipedia.org/wiki/平井坚 "wikilink")。
 
 ## 成员

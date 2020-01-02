@@ -1,3 +1,6 @@
+> 本文内容由[Ufotable](https://zh.wikipedia.org/wiki/Ufotable)转换而来。
+
+
 **ufotable**是[日本](../Page/日本.md "wikilink")一家[動畫製作公司](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，除了動畫製作外，也有動畫企劃及版權管理業務。
 
 ufotable是由出身於[Telecom Animation Film](https://zh.wikipedia.org/wiki/Telecom_Animation_Film "wikilink")，當時為第二代東京電影（後改稱TMS娛樂有限公司，[TMS Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink"), Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink")，透過[住友商事](../Page/住友商事.md "wikilink")旗下的[Step映像與](https://zh.wikipedia.org/wiki/Step映像 "wikilink")[內田勤於](https://zh.wikipedia.org/wiki/內田勤 "wikilink")2000年創立。

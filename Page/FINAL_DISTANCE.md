@@ -1,3 +1,6 @@
+> 本文内容由[FINAL DISTANCE](https://zh.wikipedia.org/wiki/FINAL_DISTANCE)转换而来。
+
+
 《**FINAL DISTANCE**》（最後距離）是[宇多田光](../Page/宇多田光.md "wikilink")於2001年7月25日發行的第八張單曲，累計銷量58萬張。
 
 ## 簡介

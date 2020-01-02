@@ -1,3 +1,6 @@
+> 本文内容由[Solidot](https://zh.wikipedia.org/wiki/Solidot)转换而来。
+
+
 **Solidot**是[CNET](../Page/CNET.md "wikilink")中国旗下的一个中国的科技资讯网站和[奇客交流社区](https://zh.wikipedia.org/wiki/奇客 "wikilink")，其口号是“奇客的资讯，重要的东西”。Solidot创建于2005年4月，先运行在Geeklog系统上，后在2006年采用了知名网站“[Slashdot](../Page/Slashdot.md "wikilink")”的后台系统Slashcode。Solidot的主要是面对[开源](https://zh.wikipedia.org/wiki/开源 "wikilink")[自由](../Page/自由.md "wikilink")软件和关心科技资讯读者群，包括众多中国开源软件的开发者、爱好者和布道者。
 
 ## 历史

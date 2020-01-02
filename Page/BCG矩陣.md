@@ -1,3 +1,6 @@
+> 本文内容由[BCG矩陣](https://zh.wikipedia.org/wiki/BCG矩陣)转换而来。
+
+
 **BCG矩陣**（BCG Matrix）是於1970年為[波士頓咨詢公司](https://zh.wikipedia.org/wiki/波士頓咨詢公司 "wikilink")(BCG)設計的一個圖表[1](https://web.archive.org/web/20121029005718/http://www.bcg.com/about_bcg/history/history_1968.aspx)，目的是協助企業分析其業務和產品系列的表現，從而協助企業更妥善地分配資源，及作為品牌建立和營銷、產品管理、[戰略管理及公司整體業務的分析工具](https://zh.wikipedia.org/wiki/戰略管理 "wikilink")。
 
 ## 用法

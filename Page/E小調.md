@@ -1,3 +1,6 @@
+> 本文内容由[E小調](https://zh.wikipedia.org/wiki/E小調)转换而来。
+
+
 **e小調**是從E音開始的音樂的[小調](https://zh.wikipedia.org/wiki/小調 "wikilink")，調號以1個[升號表示](https://zh.wikipedia.org/wiki/升號 "wikilink")，自然小調中的組成的音有E、F、G、A、B、C、D及E。
 
 當e小調以[和聲小調顯現時](https://zh.wikipedia.org/wiki/和聲小調 "wikilink")，[導音](../Page/導音.md "wikilink")D會變成D，而在[旋律小調上](https://zh.wikipedia.org/wiki/旋律小調 "wikilink")，上行[下中音](../Page/下中音.md "wikilink")和導音均會升高為C及D．下行時則還原。

@@ -1,3 +1,6 @@
+> 本文内容由[FN FNC突擊步槍](https://zh.wikipedia.org/wiki/FN_FNC突擊步槍)转换而来。
+
+
 **FN FNC**（）是由[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")[Fabrique Nationale de Herstal](https://zh.wikipedia.org/wiki/Fabrique_Nationale_de_Herstal "wikilink")（FN公司）在1970年代中期生產的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，為FN將[FN CAL的設計改進而成](../Page/FN_CAL突擊步槍.md "wikilink")。
 
 ## 發展

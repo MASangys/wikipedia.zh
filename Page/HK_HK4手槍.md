@@ -1,3 +1,6 @@
+> 本文内容由[HK HK4手槍](https://zh.wikipedia.org/wiki/HK_HK4手槍)转换而来。
+
+
 ## 概論
 
 **HK4**是[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫在](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")1967年首度的推出手槍產品，於1968年正式上市，生產至1984年為止，期間共生產了大約3萬8千隻。其中有1.2萬隻被交給西德警方以及政府部門的幹員使用，這批使用 (7.65x17mm Browning SR)口徑彈藥的槍枝被賦予了P11的制式編號。

@@ -1,3 +1,6 @@
+> 本文内容由[Discovery Asia](https://zh.wikipedia.org/wiki/Discovery_Asia)转换而来。
+
+
 **Discovery Asia**，前身**高清探索頻道**（**Discovery HD**）是[探索傳播](../Page/探索傳播.md "wikilink")（Discovery Communications）所創立的[高清電視頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")。Discovery HD 於2005年12月創立，專門播放電視[紀錄片](../Page/紀錄片.md "wikilink")，是第二個探索傳播的同類頻道。
 
 ## 標誌

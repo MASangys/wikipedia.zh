@@ -1,3 +1,6 @@
+> 本文内容由[HTC Flyer](https://zh.wikipedia.org/wiki/HTC_Flyer)转换而来。
+
+
 **HTC Flyer** (又名 **HTC EVO View 4G**) 是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[手機製造商](https://zh.wikipedia.org/wiki/手機 "wikilink")[宏達電開發生產的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")，於2011年[全球移動通訊大會](https://zh.wikipedia.org/wiki/全球移動通訊大會 "wikilink") (MWC) 上發表，2011年5月正式推出。\[1\] 發表時規格是採用[Android](../Page/Android.md "wikilink") 2.3.3 ([Gingerbread](https://zh.wikipedia.org/wiki/Gingerbread "wikilink")) 版本[操作系統](https://zh.wikipedia.org/wiki/操作系統 "wikilink")。HTC於2011年底至2012年初提供 Android 3.2.1 ([Honeycomb](https://zh.wikipedia.org/wiki/Honeycomb "wikilink")) 的系統升級。\[2\]
 
 ## 硬件

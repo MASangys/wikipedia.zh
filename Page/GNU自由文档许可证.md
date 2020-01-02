@@ -1,3 +1,6 @@
+> 本文内容由[GNU自由文档许可证](https://zh.wikipedia.org/wiki/GNU自由文档许可证)转换而来。
+
+
 {{ infobox software license | name = GNU自由文件授權條款
 GNU Free Documentation License | image = [GFDL_Logo.svg](https://zh.wikipedia.org/wiki/File:GFDL_Logo.svg "fig:GFDL_Logo.svg") | caption = | author = [自由軟體基金會](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")
 （Free Software Foundation） | version = 1.3 | publisher = Free Software Foundation, Inc. | date = **當前版本**：

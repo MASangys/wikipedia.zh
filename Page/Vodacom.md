@@ -1,3 +1,6 @@
+> 本文内容由[Vodacom](https://zh.wikipedia.org/wiki/Vodacom)转换而来。
+
+
 **沃达康**是泛非洲地区的一家[移动通信公司](../Page/移动电话.md "wikilink")，同时也是[南非的第一个手机网络](https://zh.wikipedia.org/wiki/南非 "wikilink")。它为南非、[坦桑尼亚](../Page/坦桑尼亚.md "wikilink")、[莱索托](../Page/莱索托.md "wikilink")、[莫桑比克](../Page/莫桑比克.md "wikilink")及[刚果民主共和国](../Page/刚果民主共和国.md "wikilink")超过3500万用户提供GSM网络服务。
 
 ## 历史

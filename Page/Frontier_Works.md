@@ -1,3 +1,6 @@
+> 本文内容由[Frontier Works](https://zh.wikipedia.org/wiki/Frontier_Works)转换而来。
+
+
 ****（*Frontier Works Inc.*）是日本製作販售音樂、影像產品的公司。
 
 2002年8月、由連鎖動漫商品店[Animate所設立](https://zh.wikipedia.org/wiki/Animate "wikilink")。以企畫、製作[動畫為主軸](https://zh.wikipedia.org/wiki/動畫 "wikilink")，亦製作動畫相關音樂CD、廣播劇CD，編輯發行雜誌、書籍，企畫製作CD-ROM、交換卡片、寫真集、廣播節目、遊戲，經手聲優事務等。並於2006年製作俄羅斯人氣動畫電影《》的續集。

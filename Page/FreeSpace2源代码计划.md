@@ -1,3 +1,6 @@
+> 本文内容由[FreeSpace2源代码计划](https://zh.wikipedia.org/wiki/FreeSpace2源代码计划)转换而来。
+
+
 **FreeSpace 2 Source Code Project**是游戏《》源代码的延伸，原开发者[Volition公司于](../Page/Volition_\(公司\).md "wikilink")2002年释放了[源代码](../Page/源代码.md "wikilink")，在那之后，多个项目使用了该引擎。其中最为知名的是基于和宇宙背景的一个游戏。此引擎以一个开源非商业的协议发布。
 
 ## 引擎改进和MOD支持

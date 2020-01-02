@@ -1,3 +1,6 @@
+> 本文内容由[Comic Sans](https://zh.wikipedia.org/wiki/Comic_Sans)转换而来。
+
+
 **Comic Sans**是一個似手寫的字體，由[文森特·康奈爾](https://zh.wikipedia.org/wiki/文森特·康奈爾 "wikilink")（Vincent Connare）設計，並在1994年由[微軟公司發布](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")。其被分類為一種隨性且不連續的字體，設計基礎來自於[漫画书](../Page/漫画书.md "wikilink")裡的字體，可使用在非正式的文件裡。從[Windows 95之後](../Page/Windows_95.md "wikilink")，此字體就一直附帶在微軟的[視窗系統](../Page/視窗系統.md "wikilink")裡，已變成微軟系統內最常用的字型之一。
 
 Comic Sans經常用在紙本[漫畫以及](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[線上漫畫](https://zh.wikipedia.org/wiki/線上漫畫 "wikilink")（WebComic）以取代手寫，但有許多漫畫家仍喜用傳統的[電腦字體](https://zh.wikipedia.org/wiki/電腦字體 "wikilink")。

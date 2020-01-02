@@ -1,3 +1,6 @@
+> 本文内容由[My Girl \(迷你專輯\)](https://zh.wikipedia.org/wiki/My_Girl_\(迷你專輯\))转换而来。
+
+
 **《My Girl》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink") Dance組合[SS501](../Page/SS501.md "wikilink")老么[金亨俊](../Page/金亨俊.md "wikilink")的個人首張迷你專輯。音源於3月8日通過各音樂網站公開。
 
 整張專輯由音樂製作人E-Tribe和韓國新進音樂製作人RaDo，以及金亨俊本人親自參與制作\[1\]。

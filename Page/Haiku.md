@@ -1,3 +1,6 @@
+> 本文内容由[Haiku](https://zh.wikipedia.org/wiki/Haiku)转换而来。
+
+
 **Haiku**是一个开源软件项目，开始于2001年。目标是创立一个与[BeOS](../Page/BeOS.md "wikilink")兼容的自由[操作系统](../Page/操作系统.md "wikilink")。2004年前，它称作**OpenBeOS**。2003年，在纽约州成立了一个非營利的组织以支持该项目。
 
 Haiku采用[C++](../Page/C++.md "wikilink")语言开发，并提供面向对象的应用程序接口。Haiku计划与BeOS在二进制与源代码上皆兼容。

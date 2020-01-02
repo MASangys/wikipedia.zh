@@ -1,3 +1,6 @@
+> 本文内容由[Endless sorrow](https://zh.wikipedia.org/wiki/Endless_sorrow)转换而来。
+
+
 《**Endless sorrow**》（無盡傷悲）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第22張單曲，2001年5月16日於日本發售。
 
 ## 說明

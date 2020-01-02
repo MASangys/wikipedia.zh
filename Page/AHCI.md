@@ -1,3 +1,6 @@
+> 本文内容由[AHCI](https://zh.wikipedia.org/wiki/AHCI)转换而来。
+
+
 **AHCI**（[英文全称](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Advanced Host Controller Interface**），中文名为**進階主機控制器介面**，是由[英特爾制定的技术标准](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，允許軟體與[SATA](../Page/SATA.md "wikilink")儲存裝置溝通的硬體機制，可讓SATA儲存裝置啟用進階SATA功能，例如[原生指令佇列及](https://zh.wikipedia.org/wiki/原生指令佇列 "wikilink")[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")。AHCI為硬體製造商詳細定義了記憶體架構規範，規範如何在系統記憶體與SATA儲存裝置間傳輸資料，目前（2014年3月）最新AHCI規範為1.3.1版。AHCI通過協定進行電源管理。
 
 現時絕大多數SATA硬碟都支援AHCI。

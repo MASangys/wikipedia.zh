@@ -1,3 +1,6 @@
+> 本文内容由[F\&C](https://zh.wikipedia.org/wiki/F\&C)转换而来。
+
+
 **F\&C**是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")公司，在日本成人遊戲界亦有相當的歷史。
 
 ## 歷史沿革

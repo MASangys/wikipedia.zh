@@ -1,3 +1,6 @@
+> 本文内容由[RELOADED](https://zh.wikipedia.org/wiki/RELOADED)转换而来。
+
+
 [Reloadednfo.png](https://zh.wikipedia.org/wiki/File:Reloadednfo.png "fig:Reloadednfo.png") RELOADED [.nfo](../Page/.nfo.md "wikilink") by nerv of [Superior Art Creations](https://zh.wikipedia.org/wiki/Superior_Art_Creations "wikilink")\]\]
 
 **Reloaded**（又称**RELOADED**或**RLD**）是一个在2004年6月据称由[DEViANCE](../Page/DEViANCE.md "wikilink")的前成员创立的[破解组](https://zh.wikipedia.org/wiki/破解组 "wikilink")。\[1\]RELOADED在PC游戏破解界是个著名的组织，占据了游戏破解界的半壁江山。他们破解了一些受[StarForce](../Page/StarForce.md "wikilink")和他光盘防拷保护的游戏。它们通常在游戏上市的当天就能破解并且发布或者在零售版发布日之前将其破解并发布。他们在[孢子发布前](../Page/孢子_\(游戏\).md "wikilink")4天将其发布并破解\[2\]，但并非所有游戏都可以在正式发布之前被**RELOADED**破解并发布。

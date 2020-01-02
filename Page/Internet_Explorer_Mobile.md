@@ -1,3 +1,6 @@
+> 本文内容由[Internet Explorer Mobile](https://zh.wikipedia.org/wiki/Internet_Explorer_Mobile)转换而来。
+
+
 **Internet Explorer Mobile**（以前稱為**Pocket Internet Explorer**；通常簡稱為**IE Mobile**\[1\]）是一款由[微软公司开发基於](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[Trident](../Page/Trident_\(排版引擎\).md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")的[行動瀏覽器](https://zh.wikipedia.org/wiki/行動瀏覽器 "wikilink")，它装载于为[手持式个人计算机开发的](https://zh.wikipedia.org/wiki/手持式个人计算机 "wikilink")[Windows Phone和](../Page/Windows_Phone.md "wikilink")[Windows CE中](https://zh.wikipedia.org/wiki/Windows_CE "wikilink")，与微软的Internet Explorer有很多相似之处；然而，舊版本的Pocket Internet Explorer并不是基于同样的[排版引擎](../Page/排版引擎.md "wikilink")。IE Mobile在[Windows Phone上的版本比](../Page/Windows_Phone.md "wikilink")[Windows Mobile平台上的功能更多](../Page/Windows_Mobile.md "wikilink")。
 
 目前支援的Internet Explorer Mobile版本Internet Explorer Mobile 11基於[Internet Explorer 11的桌面版本](../Page/Internet_Explorer_11.md "wikilink")，並隨[Windows Phone 8.1一起提供](../Page/Windows_Phone_8.1.md "wikilink")。一個全新的瀏覽器，[Microsoft Edge取代了](../Page/Microsoft_Edge.md "wikilink")[Windows 10 Mobile中的Internet](../Page/Windows_10_行動裝置版.md "wikilink") Explorer Mobile。

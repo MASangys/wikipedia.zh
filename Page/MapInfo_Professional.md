@@ -1,3 +1,6 @@
+> 本文内容由[MapInfo Professional](https://zh.wikipedia.org/wiki/MapInfo_Professional)转换而来。
+
+
 **MapInfo Professional**是由出品的一款桌面地图制图系统。MapInfo Professional可以在一张地图上合并和显示不同格式和投影的地图数据。
 
 ## 其他gis軟體

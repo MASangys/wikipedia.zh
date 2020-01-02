@@ -1,3 +1,6 @@
+> 本文内容由[MASSIVE WONDERS](https://zh.wikipedia.org/wiki/MASSIVE_WONDERS)转换而来。
+
+
 **MASSIVE WONDERS**，是[水树奈奈第](https://zh.wikipedia.org/wiki/水树奈奈 "wikilink")16张单曲，2007年8月22日发售，商品編号KICM-1211。
 
 ## 作品概要

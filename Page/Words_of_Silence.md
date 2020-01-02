@@ -1,3 +1,6 @@
+> 本文内容由[Words of Silence](https://zh.wikipedia.org/wiki/Words_of_Silence)转换而来。
+
+
 《**Words of Silence**》為[香港歌手](https://zh.wikipedia.org/wiki/香港歌手 "wikilink")[麥浚龍](../Page/麥浚龍.md "wikilink")的[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[音樂專輯](https://zh.wikipedia.org/wiki/音樂 "wikilink")，於2008年1月29日正式發行。
 
 ## 專輯簡介

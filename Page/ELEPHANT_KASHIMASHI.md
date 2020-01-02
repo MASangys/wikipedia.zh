@@ -1,3 +1,6 @@
+> 本文内容由[ELEPHANT KASHIMASHI](https://zh.wikipedia.org/wiki/ELEPHANT_KASHIMASHI)转换而来。
+
+
 **ELEPHANT KASHIMASHI**（[日语](../Page/日语.md "wikilink")：****）\[1\]\[2\]，[日本](../Page/日本.md "wikilink")的[摇滚](../Page/摇滚乐.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/樂團 "wikilink")，1981年结成，1988年正式出道。现属[日本环球音乐旗下](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 樂團成員

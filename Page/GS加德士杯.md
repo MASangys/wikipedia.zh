@@ -1,3 +1,6 @@
+> 本文内容由[GS加德士杯](https://zh.wikipedia.org/wiki/GS加德士杯)转换而来。
+
+
 **GS加德士杯**，由[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[每日經濟新聞主辦的](https://zh.wikipedia.org/wiki/每日經濟新聞 "wikilink")[围棋赛](https://zh.wikipedia.org/wiki/围棋赛 "wikilink")。决赛为五番胜负，冠军奖金从5000万[韩元增加到](https://zh.wikipedia.org/wiki/韩元 "wikilink")7000万韩元，亚军奖金从1200万韩元增加到1500万韩元。 原名泰克倫（Tekron）杯，1999年起改名为LG精油（LG-Caltax）杯，2005年起改名为GS加德士杯。比赛用时为每方10分钟，读秒40秒三次的快棋。
 
 ## 历届冠亚军

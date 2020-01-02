@@ -1,3 +1,6 @@
+> 本文内容由[Numbers](https://zh.wikipedia.org/wiki/Numbers)转换而来。
+
+
 **Numbers**是一款由[苹果公司开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[電子試算表](https://zh.wikipedia.org/wiki/電子試算表 "wikilink")[应用程序](../Page/应用程序.md "wikilink")，作为办公软件套装[iWork的一部分](https://zh.wikipedia.org/wiki/iWork "wikilink")，与[Keynote](../Page/Keynote.md "wikilink")和[Pages](../Page/Pages.md "wikilink")捆绑出售。Numbers 1.0于2007年8月7日发布，只能在苹果电脑[Mac OS X v10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")（"Tiger"，老虎）和[Mac OS X v10.5](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")（"Leopard"，花豹）[操作系统](../Page/操作系统.md "wikilink")上运行。
 
 Numbers的主要竞争对手是[Microsoft Excel](../Page/Microsoft_Excel.md "wikilink")，但是它兼容Excel的文件格式。在推介的新闻发布会上，苹果CEO[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")展示了它的一些特色功能，更友好的界面和更易懂的排版方式。 2013年10月22日发布了完全重新设计改造的新版本。

@@ -1,3 +1,6 @@
+> 本文内容由[FTP客户端比较](https://zh.wikipedia.org/wiki/FTP客户端比较)转换而来。
+
+
 ## 支援作業系統
 
 能執行用戶端的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。

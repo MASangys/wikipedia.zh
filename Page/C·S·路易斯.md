@@ -1,3 +1,6 @@
+> 本文内容由[C·S·路易斯](https://zh.wikipedia.org/wiki/C·S·路易斯)转换而来。
+
+
 **克利夫·斯特普尔斯·路易斯**（，），通称**C·S·路易斯**（）或 **魯益師**，其朋友及家人暱稱他為傑克（Jack），出生於[北愛爾蘭](https://zh.wikipedia.org/wiki/北愛爾蘭 "wikilink")[首府](https://zh.wikipedia.org/wiki/首府 "wikilink")[贝尔法斯特](../Page/贝尔法斯特.md "wikilink")，但長年居住於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")，是[威爾斯](../Page/威爾斯.md "wikilink")裔[英國知名](https://zh.wikipedia.org/wiki/英國 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、[詩人及](https://zh.wikipedia.org/wiki/詩人 "wikilink")[護教家](https://zh.wikipedia.org/wiki/基督教辨惑学 "wikilink")。他以[兒童文學作品](https://zh.wikipedia.org/wiki/兒童文學 "wikilink")《[納尼亞傳奇](../Page/納尼亞傳奇.md "wikilink")》而聞名於世\[1\]，此外還有神學論文、中世紀文學研究等諸多著作。
 
 路易斯是英國另一知名作家[J·R·R·托爾金](../Page/J·R·R·托爾金.md "wikilink")的好友，他們曾同在[牛津大學任教](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")\[2\]\[3\]。

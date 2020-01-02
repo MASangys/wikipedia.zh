@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ARENA TOUR 2003-2004 A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_ARENA_TOUR_2003-2004_A)转换而来。
+
+
 《**ayumi hamasaki ARENA TOUR 2003-2004 A**》（濱崎步 2003-2004 巡迴演唱會 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2004年間舉行巡迴演唱會，2004年9月29日發售DVD。
 
 ## 說明

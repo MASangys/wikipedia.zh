@@ -1,3 +1,6 @@
+> 本文内容由[Let\'s Get Wet](https://zh.wikipedia.org/wiki/Let\'s_Get_Wet)转换而来。
+
+
 **《Let's Get Wet》**是[林峯的第三張個人大碟](https://zh.wikipedia.org/wiki/林峯 "wikilink")，於2009年6月16日公開發售。隨碟附送3首Music Video和64頁全紀錄寫真集（尺寸：18cm x 25cm，約A4尺寸）。
 
 ## 曲目列表

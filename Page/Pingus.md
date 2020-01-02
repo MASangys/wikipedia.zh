@@ -1,3 +1,6 @@
+> 本文内容由[Pingus](https://zh.wikipedia.org/wiki/Pingus)转换而来。
+
+
 ***Pingus***是采用*[Lemmings系列](https://zh.wikipedia.org/wiki/Lemmings系列 "wikilink")*创意的[电子游戏](../Page/电子游戏.md "wikilink")，授权[GPLv2为](https://zh.wikipedia.org/wiki/GPLv2 "wikilink")[自由软件](../Page/自由软件.md "wikilink")，作者是ngo Ruhnke。 用[企鹅代替](https://zh.wikipedia.org/wiki/企鹅 "wikilink")[旅鼠](../Page/旅鼠.md "wikilink")。\[1\]CNN.com\[2\]、about.com\[3\]、*Unix Review*\[4\]都给予好评。
 
 开始于1998年，击败了[SuperTux](https://zh.wikipedia.org/wiki/SuperTux "wikilink")、[SuperTuxKart](../Page/SuperTuxKart.md "wikilink")以及[Lincity](../Page/Lincity.md "wikilink")，成为[The Linux Game Tome的](../Page/The_Linux_Game_Tome.md "wikilink")「月度游戏」（Game of the Month, GotM）。

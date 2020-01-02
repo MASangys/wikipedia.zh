@@ -1,3 +1,6 @@
+> 本文内容由[GRANRODEO](https://zh.wikipedia.org/wiki/GRANRODEO)转换而来。
+
+
 **GRANRODEO**（グランロデオ）是由KISHOW（[谷山紀章](../Page/谷山紀章.md "wikilink")）、e-ZUKA（[飯塚昌明](../Page/飯塚昌明.md "wikilink")）二人所組成的日本搖滾組合。所屬唱片公司為[Lantis](../Page/Lantis.md "wikilink")。
 
 ## 概要

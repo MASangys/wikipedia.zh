@@ -1,3 +1,6 @@
+> 本文内容由[Nupedia](https://zh.wikipedia.org/wiki/Nupedia)转换而来。
+
+
 [Nupedia_Logo.jpg](https://zh.wikipedia.org/wiki/File:Nupedia_Logo.jpg "fig:Nupedia_Logo.jpg") [Nupedia.jpg](https://zh.wikipedia.org/wiki/File:Nupedia.jpg "fig:Nupedia.jpg") [Nupedia_oldlogo.PNG](https://zh.wikipedia.org/wiki/File:Nupedia_oldlogo.PNG "fig:Nupedia_oldlogo.PNG")
 
 **Nupedia**是一個Web版的線上[百科全書計畫](https://zh.wikipedia.org/wiki/百科全書 "wikilink")，由[吉米·威爾士創立的公司](https://zh.wikipedia.org/wiki/吉米·威爾士 "wikilink")[Bomis](../Page/Bomis.md "wikilink")在2000年3月所推出，吉米·威爾士並聘請[拉里·桑格](../Page/拉里·桑格.md "wikilink")作為該百科全書的主編。

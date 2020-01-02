@@ -1,3 +1,6 @@
+> 本文内容由[Depend on you](https://zh.wikipedia.org/wiki/Depend_on_you)转换而来。
+
+
 《**Depend on you**》（依你\[1\]）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第5張單曲，1998年12月9日於日本發行8cm版本。2001年2月28日再發行12cm版本。
 
 ## 收錄歌曲

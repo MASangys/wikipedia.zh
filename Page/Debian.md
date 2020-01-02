@@ -1,3 +1,6 @@
+> 本文内容由[Debian](https://zh.wikipedia.org/wiki/Debian)转换而来。
+
+
 [Docky_on_Gnome_Shell_of_Gnome_3,_Debian_GNU-Linux.png](https://zh.wikipedia.org/wiki/File:Docky_on_Gnome_Shell_of_Gnome_3,_Debian_GNU-Linux.png "fig:Docky_on_Gnome_Shell_of_Gnome_3,_Debian_GNU-Linux.png") 3桌面上运行docky\]\] [Debian_7.3_(wheezy)_amd64_with_GNOME_3.4.2.png](https://zh.wikipedia.org/wiki/File:Debian_7.3_\(wheezy\)_amd64_with_GNOME_3.4.2.png "fig:Debian_7.3_(wheezy)_amd64_with_GNOME_3.4.2.png") 3.4.2的Debian 7\]\]
 
 **Debian**（\[1\]）是完全由自由軟件組成的[类UNIX](https://zh.wikipedia.org/wiki/类UNIX "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，其包含的多数软件使用[GNU通用公共许可协议授權](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")，并由Debian计划的参与者组成团队对其进行打包、开发与维护。

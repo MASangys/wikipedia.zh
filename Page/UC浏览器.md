@@ -1,3 +1,6 @@
+> 本文内容由[UC浏览器](https://zh.wikipedia.org/wiki/UC浏览器)转换而来。
+
+
 **UC浏览器**是一款基于[手机和](https://zh.wikipedia.org/wiki/手机 "wikilink")[计算机而研发的](https://zh.wikipedia.org/wiki/计算机 "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，由[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[优视科技有限公司开发](../Page/UC优视.md "wikilink")。
 
 ## 歷史

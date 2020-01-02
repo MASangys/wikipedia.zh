@@ -1,3 +1,6 @@
+> 本文内容由[X檔案：我要相信](https://zh.wikipedia.org/wiki/X檔案：我要相信)转换而来。
+
+
 《**X檔案：我要相信**》（）是一部2008年[懸疑片](https://zh.wikipedia.org/wiki/懸疑片 "wikilink")（Mystery film）、[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為1998年電影《[X檔案：征服未來](../Page/X檔案：征服未來.md "wikilink")》（The X-Files）的續集，由[克里斯·卡特執導](../Page/克里斯·卡特_\(編劇\).md "wikilink")，[大衛·杜考夫尼](../Page/大衛·杜考夫尼.md "wikilink")、[姬蓮·安德森](https://zh.wikipedia.org/wiki/姬蓮·安德森 "wikilink")、[米徹·佩勒吉](../Page/米徹·佩勒吉.md "wikilink")和[阿曼達·皮特](https://zh.wikipedia.org/wiki/阿曼達·皮特 "wikilink")（Amanda Peet）主演。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2008年8月1日上映，[香港](../Page/香港.md "wikilink")則2008年8月4日上映。
 
 ## 剧情介绍

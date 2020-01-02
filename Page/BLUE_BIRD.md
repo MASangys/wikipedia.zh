@@ -1,3 +1,6 @@
+> 本文内容由[BLUE BIRD](https://zh.wikipedia.org/wiki/BLUE_BIRD)转换而来。
+
+
 《**BLUE BIRD**》（青鳥）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第40張單曲，2006年6月21日於日本發售。
 
 ## 說明

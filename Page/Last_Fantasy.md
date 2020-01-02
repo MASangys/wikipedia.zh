@@ -1,8 +1,11 @@
+> 本文内容由[Last Fantasy](https://zh.wikipedia.org/wiki/Last_Fantasy)转换而来。
+
+
 《**Last Fantasy**》是歌手[IU的第二張正規專輯](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，共有13首曲目，包括主打歌《You & I》 (너랑 나)。本轉輯為IU繼[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《Real》，於9個月後回歸歌壇後推出，於2011年11月29日發行。
 
 ## 背景
 
-此專輯一共有13首曲目。於專輯中，IU和不同的歌手合作，包括[金光辰](https://zh.wikipedia.org/wiki/金光辰 "wikilink")、李笛、和Ra.D.等。
+此專輯一共有13首曲目。於專輯中，IU和不同的歌手合作，包括[金光辰](https://zh.wikipedia.org/wiki/金光辰 "wikilink")、李笛、[金賢哲](../Page/金賢哲.md "wikilink")和Ra.D.等。
 
 ## 曲目
 

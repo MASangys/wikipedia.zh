@@ -1,3 +1,6 @@
+> 本文内容由[Banshee](https://zh.wikipedia.org/wiki/Banshee)转换而来。
+
+
 **Banshee**是[GNOME](../Page/GNOME.md "wikilink")的一個[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")。Banshee建基於[Mono](../Page/Mono.md "wikilink")與[Gtk\#之上](https://zh.wikipedia.org/wiki/Gtk_Sharp "wikilink")，使用[GStreamer](../Page/GStreamer.md "wikilink")多媒體平台進行編碼，並可對多種音樂格式進行解碼，包括了[Ogg Vorbis](https://zh.wikipedia.org/wiki/Ogg_Vorbis "wikilink")、[MP3](../Page/MP3.md "wikilink")與[FLAC](../Page/FLAC.md "wikilink")。Banshee可以播放、匯入與燒錄音頻[光碟](../Page/光碟.md "wikilink")以及與數款便攜媒體播放器同步音樂，包括蘋果公司的[iPod與](https://zh.wikipedia.org/wiki/iPod "wikilink")[Creative Zen播放器](https://zh.wikipedia.org/wiki/Creative_Zen "wikilink")。儲存在iPod上的音樂可直接播放而不需經過同步，而儲存在Banshee資料庫的唱片封面會傳送到iPod。對[MTP協定](https://zh.wikipedia.org/wiki/Media_Transfer_Protocol "wikilink")、[PlaysForSure裝置以及](../Page/Microsoft_PlaysForSure.md "wikilink")[Rio Karma播放器的支援預定會在不久的將來加入](https://zh.wikipedia.org/wiki/Rio_Karma "wikilink")。
 
 Banshee在[Ubuntu](../Page/Ubuntu.md "wikilink") 11.04 Alpha 3中取代[Rhythmbox](../Page/Rhythmbox.md "wikilink")，成為系統的預設媒體播放器\[1\]。

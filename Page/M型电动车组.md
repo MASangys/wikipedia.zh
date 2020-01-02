@@ -1,3 +1,6 @@
+> 本文内容由[M型电动车组](https://zh.wikipedia.org/wiki/M型电动车组)转换而来。
+
+
 **北京地铁M型电动客车**是[北京地铁](../Page/北京地铁.md "wikilink")第二代电动客车（[斩波调压车](https://zh.wikipedia.org/wiki/斩波调压 "wikilink")），由[东急车辆工厂生产制造](https://zh.wikipedia.org/wiki/东急车辆制造 "wikilink")，1984年9月19日交付使用，现已退出运营。其中，H3011车现存于[北京地铁10号线](../Page/北京地铁10号线.md "wikilink")[万柳车辆段](https://zh.wikipedia.org/wiki/万柳车辆段 "wikilink")，H3012、H3013车已拆解。
 
 另有姊妹型[天津地铁](../Page/天津地铁.md "wikilink")TJH-1000型地铁列车，由东急车辆工厂生产、[长春客车厂组装](../Page/中车长春轨道客车.md "wikilink")，1987年12月28日完成总装，现已退出运营。

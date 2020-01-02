@@ -1,3 +1,6 @@
+> 本文内容由[M.a.x. concepts](https://zh.wikipedia.org/wiki/M.a.x._concepts)转换而来。
+
+
 [MaxConcepts_logo.svg](https://zh.wikipedia.org/wiki/File:MaxConcepts_logo.svg "fig:MaxConcepts_logo.svg") **m.a.x. concepts**（1998年至今），為[美心食品有限公司旗下管理一系列](https://zh.wikipedia.org/wiki/美心食品有限公司 "wikilink")[西菜](https://zh.wikipedia.org/wiki/西菜 "wikilink")、[日菜](https://zh.wikipedia.org/wiki/日菜 "wikilink")、[泰國菜及](https://zh.wikipedia.org/wiki/泰國菜 "wikilink")[越南菜](../Page/越南菜.md "wikilink")餐廳的品牌。
 
 ## 歷史

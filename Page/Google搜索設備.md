@@ -1,3 +1,6 @@
+> 本文内容由[Google搜索設備](https://zh.wikipedia.org/wiki/Google搜索設備)转换而来。
+
+
 [Google_Appliance.jpg](https://zh.wikipedia.org/wiki/File:Google_Appliance.jpg "fig:Google_Appliance.jpg") 2008\]\]
 
 **Google Search Appliance** 是由[Google公司出品的一種机架式设备](https://zh.wikipedia.org/wiki/Google公司 "wikilink")，該設備提供[文件索引功能](https://zh.wikipedia.org/wiki/文件 "wikilink")，可以集成到企业内部，文件管理系统或网站上使用類似[谷歌搜索的界面提供給](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[終端](../Page/終端.md "wikilink")用户检索。它是局域網本地版的谷歌產品，并且主要着眼于企业市场。

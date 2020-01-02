@@ -1,3 +1,6 @@
+> 本文内容由[ThinkPad X300](https://zh.wikipedia.org/wiki/ThinkPad_X300)转换而来。
+
+
 **ThinkPad X300**是[联想（Lenovo）公司研发制造的一款](https://zh.wikipedia.org/wiki/联想集团 "wikilink")[筆記型電腦](../Page/筆記型電腦.md "wikilink")，于2008年2月26日发布\[1\]，属于联想[ThinkPad](../Page/ThinkPad.md "wikilink")产品线。在此產品發佈前不久，[蘋果公司首次發佈了MacBook](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") Air。由於ThinkPad X300同樣以輕巧、細少著稱，所以不少使用者以及媒体將联想的ThinkPad X300與苹果的MacBook Air相互对比。
 
 ## 研发历程

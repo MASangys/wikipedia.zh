@@ -1,3 +1,6 @@
+> 本文内容由[Great](https://zh.wikipedia.org/wiki/Great)转换而来。
+
+
 [Great_Food_Hall_in_Pacific_Place_201312.jpg](https://zh.wikipedia.org/wiki/File:Great_Food_Hall_in_Pacific_Place_201312.jpg "fig:Great_Food_Hall_in_Pacific_Place_201312.jpg")[金鐘](../Page/金鐘.md "wikilink")[太古廣場](../Page/太古廣場.md "wikilink")分店\]\]
 
 **Great**是[長江和記實業](../Page/長江和記實業.md "wikilink")旗下[屈臣氏集團](../Page/屈臣氏集團.md "wikilink")於[香港](../Page/香港.md "wikilink")和[中國大陸設立的](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[連鎖](../Page/連鎖店.md "wikilink")[超級市場](../Page/超級市場.md "wikilink")，成立於2000年12月，主要對象是[上層階級的消費者](https://zh.wikipedia.org/wiki/上層階級 "wikilink")，[市場定位在](https://zh.wikipedia.org/wiki/市場定位 "wikilink")[百佳](../Page/百佳超級市場.md "wikilink")、[Taste](../Page/Taste.md "wikilink")及[Gourmet](../Page/Gourmet.md "wikilink")之上，售賣世界各地產品。[中国大陆](../Page/中国大陆.md "wikilink")的店铺於2014年1月成立，首店位于[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")。現時在[香港](../Page/香港.md "wikilink")有1間位於[金鐘](../Page/金鐘.md "wikilink")[太古廣場](../Page/太古廣場.md "wikilink")地庫之分店，在[中国大陆](../Page/中国大陆.md "wikilink")有1間位於[成都国际金融中心](../Page/成都国际金融中心.md "wikilink")之分店。

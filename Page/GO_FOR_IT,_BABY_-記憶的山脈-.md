@@ -1,3 +1,6 @@
+> 本文内容由[GO FOR IT, BABY -記憶的山脈-](https://zh.wikipedia.org/wiki/GO_FOR_IT,_BABY_-記憶的山脈-)转换而来。
+
+
 《**GO FOR IT, BABY -記憶的山脈-**》（）是[B'z](../Page/B'z.md "wikilink")第50张[单曲](../Page/单曲.md "wikilink")。
 
 ## 簡介

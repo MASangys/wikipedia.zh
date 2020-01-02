@@ -1,3 +1,6 @@
+> 本文内容由[MAX \(樂團\)](https://zh.wikipedia.org/wiki/MAX_\(樂團\))转换而来。
+
+
 **MAX**是由沖繩出道的日本音樂團體。所屬公司為[RISINGPRO](../Page/RISINGPRO.md "wikilink")。 是從安室奈美惠單飛之後Super Monkeys（スーパーモンキーズ）其他成員所組成。「MAX」名稱的由來是現在艾迴社長松浦勝人的暱稱和「Musical（音樂的）」「Active（活動的）」「eXperience（經驗、體驗）」的開頭文字所組成。
 
 ## 經歷

@@ -1,3 +1,6 @@
+> 本文内容由[M·L·卡尔](https://zh.wikipedia.org/wiki/M·L·卡尔)转换而来。
+
+
 | position = 前锋-后卫{{\#tag:ref|[M·L·卡尔](http://stat-nba.com/player/729.html) - 数据NBA|name=nbastat}} | birth_date =  | birth_place = [北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")华莱士 | nationality =  | team = 退役 | height_ft = 6 | height_in = 6 | weight_lb = 205 | highschool = Wallace Rose Hill in Teachey, [北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink") | college =  | draft = | draft_year = 1973 | draft_round = 5 | draft_pick = 7 | draft_team = [堪萨奥马哈国王](https://zh.wikipedia.org/wiki/萨克拉门托国王 "wikilink") | career_start = 1973年 | career_end = 1985年 | teams = | years1 = 1975–1976 |team1= [圣路易精神](https://zh.wikipedia.org/wiki/圣路易精神队 "wikilink") （[ABA](https://zh.wikipedia.org/wiki/美国篮球协会 "wikilink")） | years2 = – |team2= [底特律活塞](../Page/底特律活塞.md "wikilink") | years3 = – |team3= [波士顿凯尔特人](../Page/波士顿凯尔特人.md "wikilink") | coach = | cyears1 = – |cteam1= 波士顿凯尔特人 | highlights =
 
   - 2次[NBA总冠军](https://zh.wikipedia.org/wiki/NBA总冠军 "wikilink")：1981, 1984

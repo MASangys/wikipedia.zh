@@ -1,3 +1,6 @@
+> 本文内容由[Procfs](https://zh.wikipedia.org/wiki/Procfs)转换而来。
+
+
 在许多类 [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 计算机系统中， **procfs** 是 [进程](https://zh.wikipedia.org/wiki/进程 "wikilink") [文件系统](../Page/文件系统.md "wikilink") (file system) 的缩写，包含一个伪文件系统（启动时动态生成的文件系统），用于通过[内核](../Page/内核.md "wikilink")访问进程信息。这个文件系统通常被挂载到 `/proc` [目录](../Page/目录_\(文件系统\).md "wikilink")。由于 `/proc` 不是一个真正的文件系统，它也就不占用存储空间，只是占用有限的内存。
 
 以下操作系统支持 procfs :

@@ -1,3 +1,6 @@
+> 本文内容由[Google日曆](https://zh.wikipedia.org/wiki/Google日曆)转换而来。
+
+
 **Google日曆**（**Google Calendar**），原始代碼名稱“CL2”，是一款由[Google](../Page/Google.md "wikilink")提供的免費聯絡人管理、時間管理的[網頁應用程式](https://zh.wikipedia.org/wiki/網頁應用程式 "wikilink")。Google日曆允許使用者使用網路日曆同步他們的[Gmail](../Page/Gmail.md "wikilink")聯絡人。Google 日曆於2006年4月13日開放使用，於2009年7月結束beta測試。\[1\] 為了使用此軟體，使用者不需擁有Gmail帳戶，而是需要免費的[Google帳戶](https://zh.wikipedia.org/wiki/Google帳戶 "wikilink")。
 
 ## 特性

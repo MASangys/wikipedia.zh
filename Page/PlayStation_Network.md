@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation Network](https://zh.wikipedia.org/wiki/PlayStation_Network)转换而来。
+
+
 **PlayStation Network**（簡稱**PSN**）是[索尼互動娛樂](../Page/索尼互動娛樂.md "wikilink")提供的数字媒体娱乐服务。PSN推出于2006年11月，最初为[PlayStation](../Page/PlayStation.md "wikilink")系列游戏机专用，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2019年5月，拥有超过9400万活跃用户\[1\]。
 
 ## 歷史

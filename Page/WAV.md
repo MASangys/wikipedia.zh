@@ -1,3 +1,6 @@
+> 本文内容由[WAV](https://zh.wikipedia.org/wiki/WAV)转换而来。
+
+
 **Waveform Audio File Format**（**WAVE**，又或者是因為[副檔名而被大眾所知的](https://zh.wikipedia.org/wiki/副檔名 "wikilink")**WAV**），是[微软](../Page/微软.md "wikilink")與[IBM](../Page/IBM.md "wikilink")公司所開發在[個人電腦儲存音訊串流的編碼格式](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，在[Windows平台的應用軟體受到廣泛的支援](https://zh.wikipedia.org/wiki/Windows "wikilink")，地位上類似於[麥金塔](../Page/麥金塔.md "wikilink")電腦裡的[AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")。\[1\] 此格式屬於[資源交換檔案格式](../Page/資源交換檔案格式.md "wikilink")(RIFF)的應用之一，通常會將採用[脈衝編碼調變](../Page/脈衝編碼調變.md "wikilink")的音訊資儲存在區塊中。也是其音乐发烧友中常用的指定规格之一。由于此音频格式未经过压缩，所以在音质方面不会出现失真的情况，但檔案的体积因而在众多音频格式中较为大。
 
 ## 描述

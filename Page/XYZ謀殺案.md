@@ -1,3 +1,6 @@
+> 本文内容由[XYZ謀殺案](https://zh.wikipedia.org/wiki/XYZ謀殺案)转换而来。
+
+
 《**XYZ謀殺案**》（***Crimewave***）即美國電影導演[-{zh-hans:萨姆·莱米;zh-hk:森·溫美;zh-tw:山姆·雷米;}-](../Page/山姆·雷米.md "wikilink")，開創黑色喜劇風格的電影作品。亦獲得少數支持者的喜愛及推崇，常被歸類於[次文化](../Page/次文化.md "wikilink")之列。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[Mein Teil](https://zh.wikipedia.org/wiki/Mein_Teil)转换而来。
+
+
 **Mein Teil**（德译：我的部分）是德国工业金属乐队[Rammstein的一首单曲](https://zh.wikipedia.org/wiki/Rammstein "wikilink")，歌曲的创作灵感源于[阿明·迈韦斯](../Page/阿明·迈韦斯.md "wikilink")和贝恩德·于尔根阿曼多·布兰德斯事件，2001年3月，两名40岁左右的男子相识并相爱，布兰德斯的阴茎被切下并煮熟后被对方吃掉，之后，迈韦斯在布兰德斯的同意下杀害了他并吃了他。结果，迈韦斯因故意杀人罪，被判处有期徒刑八年半，但其后被控以谋杀罪被判处终身监禁。
 
 “Mein Teil”在[第48届格莱美奖](../Page/第48届格莱美奖.md "wikilink")中获得了最佳金属奖提名，但输给了[活结乐队的](https://zh.wikipedia.org/wiki/活结乐队 "wikilink")。\[1\]

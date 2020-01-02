@@ -1,3 +1,6 @@
+> 本文内容由[Lazarus](https://zh.wikipedia.org/wiki/Lazarus)转换而来。
+
+
 **Lazarus**是用于[应用程序快速开发（RAD）的自由](../Page/快速應用程式開發.md "wikilink")、跨平台的可视化[集成开发环境](../Page/集成开发环境.md "wikilink")（IDE）。使用[Free Pascal编译器](../Page/Free_Pascal.md "wikilink")，支持[Object Pascal语言](../Page/Object_Pascal.md "wikilink")，与[Delphi](../Page/Delphi.md "wikilink")高度兼容，并被视作后者的[自由软件](../Page/自由软件.md "wikilink")替代品。Lazarus目前支持多种语言，包括中文。软件开发者可使用Lazarus创建原生的命令行与[图形用户界面](../Page/图形用户界面.md "wikilink")应用程序，以及移动应用、Web应用、[Web服务](../Page/Web服务.md "wikilink")、可视化组件和各种函数库。Lazarus集成开发环境和Free Pascal编译器支持多种操作系统，包括 [Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[GNU/Linux和](../Page/Linux.md "wikilink")[Mac](https://zh.wikipedia.org/wiki/OS_X "wikilink")。
 
 ## 另请参见

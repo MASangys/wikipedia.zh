@@ -1,3 +1,6 @@
+> 本文内容由[X射线光电子能谱学](https://zh.wikipedia.org/wiki/X射线光电子能谱学)转换而来。
+
+
 **X射线光电子能谱学**（英文：，简称）是一种用於测定材料中[元素构成](https://zh.wikipedia.org/wiki/元素 "wikilink")、[实验式](https://zh.wikipedia.org/wiki/实验式 "wikilink")，以及其中所含元素[化学态和](https://zh.wikipedia.org/wiki/化学态 "wikilink")[电子态的定量](https://zh.wikipedia.org/wiki/电子态 "wikilink")[能谱技术](https://zh.wikipedia.org/wiki/能谱学 "wikilink")。这种技术用[X射线](../Page/X射线.md "wikilink")照射所要分析的材料，同时测量从材料表面以下1纳米到10纳米范围内逸出电子的[动能](../Page/动能.md "wikilink")和数量，从而得到X射线光电子[能谱](https://zh.wikipedia.org/wiki/能谱 "wikilink")。X射线光电子能谱技术需要在超高真空环境下进行。
 
 XPS是一种[表面化学分析技术](https://zh.wikipedia.org/wiki/表面化学 "wikilink")，可以用来分析金属材料在特定状态下或在一些加工处理后的表面化学。这些加工处理方法包括空气或超高真空中的压裂、切割、刮削，用於清除某些表面污染的[离子束蚀刻](https://zh.wikipedia.org/wiki/离子束蚀刻 "wikilink")，为研究受热时的变化而置于加热环境，置于可反应的气体或溶剂环境，置于[离子注入环境](https://zh.wikipedia.org/wiki/离子注入 "wikilink")，以及置于[紫外线](../Page/紫外线.md "wikilink")照射环境等。

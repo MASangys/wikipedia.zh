@@ -1,3 +1,6 @@
+> 本文内容由[GIMP](https://zh.wikipedia.org/wiki/GIMP)转换而来。
+
+
 ****（\[1\]，名稱由（GNU图像处理程序）的首字母組成）是一個[自由及開放原始碼的](https://zh.wikipedia.org/wiki/自由及開放原始碼軟體 "wikilink")[點陣圖圖像編輯器](https://zh.wikipedia.org/wiki/點陣圖圖像編輯器 "wikilink")，用於图像照片润饰及編輯、自由繪圖、調整大小、裁剪、相片蒙太奇、裝換圖像格式以及其他專業任務。
 
 GIMP始於1995年，使用[GPLv3+](https://zh.wikipedia.org/wiki/GPL "wikilink")，可运行於[GNU/Linux](../Page/Linux.md "wikilink")、[MS Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X等平台](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，其原生文件格式的扩展名是[.xcf](https://zh.wikipedia.org/wiki/.xcf "wikilink")。

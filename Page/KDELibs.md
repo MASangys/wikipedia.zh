@@ -1,3 +1,6 @@
+> 本文内容由[KDELibs](https://zh.wikipedia.org/wiki/KDELibs)转换而来。
+
+
 KDELibs是建立在[Qt](../Page/Qt.md "wikilink")框架之上，它提供框架和眾多功能來開發[KDE](../Page/KDE.md "wikilink")軟體，使應用程序更容易編寫，並提供KDE桌面環境的一致性。
 KDELibs的授權為[LGPL](https://zh.wikipedia.org/wiki/LGPL "wikilink") v2。
 

@@ -1,3 +1,6 @@
+> 本文内容由[Fort-221突擊步槍](https://zh.wikipedia.org/wiki/Fort-221突擊步槍)转换而来。
+
+
 **Fort-221**（Форт 221）是由[烏克蘭國營兵工廠](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[RPC Fort生產的一種](https://zh.wikipedia.org/wiki/RPC_Fort "wikilink")[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，為[以色列](../Page/以色列.md "wikilink")製[IMI TAR-21突擊步槍的授權生產版本](../Page/IMI_TAR-21突擊步槍.md "wikilink")。
 
 ## 概述

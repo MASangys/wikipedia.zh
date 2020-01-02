@@ -1,3 +1,6 @@
+> 本文内容由[SIG P220手槍](https://zh.wikipedia.org/wiki/SIG_P220手槍)转换而来。
+
+
 **SIG P220**是SIG Arms（現改名為[Swiss Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）與J. P. SAUER & Sohne公司合作研制生產的[半自动手枪](https://zh.wikipedia.org/wiki/半自动手枪 "wikilink")。
 
 ## 设计

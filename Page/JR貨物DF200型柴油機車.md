@@ -1,3 +1,6 @@
+> 本文内容由[JR貨物DF200型柴油機車](https://zh.wikipedia.org/wiki/JR貨物DF200型柴油機車)转换而来。
+
+
 **DF200型柴油機車**，是供[日本貨物鐵道與](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")[九州旅客鐵道](../Page/九州旅客鐵道.md "wikilink")使用的[交流電傳動六軸](https://zh.wikipedia.org/wiki/变频器 "wikilink")[柴油機車](../Page/柴油機車.md "wikilink")，這款機車的暱稱為「**ECO-POWER RED BEAR**」。
 
 ## 概要

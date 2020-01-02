@@ -1,3 +1,6 @@
+> 本文内容由[I\'ve Never Been to Me](https://zh.wikipedia.org/wiki/I\'ve_Never_Been_to_Me)转换而来。
+
+
 《**I've Never Been to Me**》，中文常译作《**未曾有过自我**》或《**從未做過自己**》，是由素有“蓝调女王”之称的美国歌星[夏琳·邓肯演唱的歌曲](https://zh.wikipedia.org/wiki/夏琳·邓肯 "wikilink")。
 
 这首歌在创作发行之初并未特別引起注意，歌曲于1977年进入[Hot 100单曲的第](../Page/告示牌百强单曲榜.md "wikilink")97名。1980年夏琳离开[摩城唱片](https://zh.wikipedia.org/wiki/摩城唱片 "wikilink")，搬到[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")。1982年，DJ在电台播出这首歌，引起不少听众的兴趣。一夜间这首歌拿下[全美排行榜第三和英国第一的好成绩](https://zh.wikipedia.org/wiki/全美排行榜 "wikilink")，夏琳也成为家喻户晓的歌星。然而，夏琳没能延续这种成功，1983年，她推出的新专辑销售不理想，1985年再度离开乐坛。这首I've Never Been to Me却一直传唱至今，成了夏琳唯一的畅销曲。

@@ -1,3 +1,6 @@
+> 本文内容由[GG拍卖杯元老与女将擂台赛](https://zh.wikipedia.org/wiki/GG拍卖杯元老与女将擂台赛)转换而来。
+
+
 **GG拍卖杯元老-女将围棋擂台赛**（**지지옥션배 여류 대 시니어 연승대항전**，**Korean GG Auction Cup**），[韩国职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[围棋](../Page/围棋.md "wikilink")团体赛。每队12位棋手，元老队参赛棋手年龄限制为45岁以上。\[1\]比赛每方10分钟，30秒（后改为40秒）读秒三次，冠亚军奖金分别为7000万[韩元](https://zh.wikipedia.org/wiki/韩元 "wikilink")、1200万韩元，三连胜奖励200万韩元，此后每连胜1盘多奖100万韩元。
 
 ## 历届比赛结果

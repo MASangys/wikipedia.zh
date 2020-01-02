@@ -1,3 +1,6 @@
+> 本文内容由[UVERworld](https://zh.wikipedia.org/wiki/UVERworld)转换而来。
+
+
 **UVERworld**（ウーバーワールド），[滋賀縣出身的日本](https://zh.wikipedia.org/wiki/滋賀縣 "wikilink")6人組團體，於2005年[夏季](../Page/夏季.md "wikilink")出道，[日本](../Page/日本.md "wikilink")[混音](../Page/混音.md "wikilink")、[流行](https://zh.wikipedia.org/wiki/流行 "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 UVER是[德語über和英语over的混合](https://zh.wikipedia.org/wiki/德語 "wikilink")，UVERworld＝OVER THE WORLD（超越自己的世界），他們懷著此一信念，樂隊名稱也因此而來。

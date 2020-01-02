@@ -1,3 +1,6 @@
+> 本文内容由[Deletionpedia](https://zh.wikipedia.org/wiki/Deletionpedia)转换而来。
+
+
 **Deletionpedia**是一个收錄在[英文维基百科被删除条目的网站](https://zh.wikipedia.org/wiki/英文维基百科 "wikilink")。收录的文章包括维基百科文章内容，如資訊框（infoboxes）、参考资料和分类。但包括图像和其指定的没有收录。Deletionpedia版的每篇文章都包含一个头模板，这个[模板里提供更多删除信息](https://zh.wikipedia.org/wiki/模板 "wikilink")，比如是否是为快速删除，或者表明是在哪篇文章里讨论删除。
 
 ## 功能

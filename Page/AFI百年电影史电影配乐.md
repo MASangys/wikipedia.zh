@@ -1,3 +1,6 @@
+> 本文内容由[AFI百年电影史电影配乐](https://zh.wikipedia.org/wiki/AFI百年电影史电影配乐)转换而来。
+
+
 2005年，[美国电影学会](../Page/美国电影学会.md "wikilink")从100份候选名单中选出25部最优秀电影配乐作为美国电影学院的“百年百大”系列的一个重要部分——“**AFI百年百大电影配乐**”（**AFI's 100 Years of Film Scores**）。
 
 [约翰·威廉姆斯的作品在](https://zh.wikipedia.org/wiki/约翰·威廉姆斯 "wikilink")25部电影里就独占了3部，还包括第一名的《[星际大战四部曲：曙光乍现](https://zh.wikipedia.org/wiki/星际大战四部曲：曙光乍现 "wikilink")》。

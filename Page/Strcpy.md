@@ -1,3 +1,6 @@
+> 本文内容由[Strcpy](https://zh.wikipedia.org/wiki/Strcpy)转换而来。
+
+
 **`Strcpy`** 是[C語言的函式之一](https://zh.wikipedia.org/wiki/C語言 "wikilink")，來自 [C語言標準函式庫](../Page/C標準函式庫.md "wikilink")，定義於 [string.h](https://zh.wikipedia.org/wiki/string.h "wikilink")，它可以複製以 null 為結束字元的記憶體區塊到另一個記憶體區塊內。由於[字串在 C 語言不是首要的](../Page/String.h.md "wikilink")[資料型態](https://zh.wikipedia.org/wiki/資料型態 "wikilink")，而是以實作的方式來替代，在記憶體內以連續的[位元組區塊組成](https://zh.wikipedia.org/wiki/位元組 "wikilink")，`strcpy` 可以有效複製兩個配置在記憶體以[指標回傳的字串](https://zh.wikipedia.org/wiki/指针_\(信息学\) "wikilink")（字元指標或是字串指標）。
 
 函式原型如下：\[1\]

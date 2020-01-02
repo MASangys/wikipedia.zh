@@ -1,3 +1,6 @@
+> 本文内容由[ARMS神臂](https://zh.wikipedia.org/wiki/ARMS神臂)转换而来。
+
+
 《**ARMS神臂**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[皆川亮二](../Page/皆川亮二.md "wikilink")所創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。單行本全22卷。第44回（1998年）[小學館漫畫賞得獎](https://zh.wikipedia.org/wiki/小學館漫畫賞 "wikilink")。
 
 動畫版名稱為《**PROJECT ARMS**》。分為前期和後期，全52話。

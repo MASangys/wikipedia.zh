@@ -1,3 +1,6 @@
+> 本文内容由[1UP.com](https://zh.wikipedia.org/wiki/1UP.com)转换而来。
+
+
 **1UP.com**是一[電子遊戲網站](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，於2003年創立，是1UP Network的其中一部份，當時由Ziff Davis Media所擁有。
 
 2009年1月9日，[赫斯特国际集团](../Page/赫斯特国际集团.md "wikilink")的UGO Entertainment宣佈收購Ziff Davis Media旗下的1UP Network，包括1UP.com、Mycheats.com、Gametab.com及GameVideos.com。\[1\]

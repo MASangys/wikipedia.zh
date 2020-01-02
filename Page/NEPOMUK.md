@@ -1,3 +1,6 @@
+> 本文内容由[NEPOMUK](https://zh.wikipedia.org/wiki/NEPOMUK)转换而来。
+
+
 **NEPOMUK**(Networked Environment for Personalized, Ontology-based Management of Unified Knowledge) 是一個開源軟件規範，特別關注社會性語義學桌面發展，將從不同的桌面應用程序來的豐富和互連的數據使用語義學[元數據存儲成](https://zh.wikipedia.org/wiki/元數據 "wikilink")[RDF](https://zh.wikipedia.org/wiki/RDF "wikilink")。在最初是 NEPOMUK 專案\[1\]開發，花費一千七百萬歐元，其中一千一百五十萬是由歐盟資助\[2\]。
 
 ## 實現

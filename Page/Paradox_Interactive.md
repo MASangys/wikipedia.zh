@@ -1,3 +1,6 @@
+> 本文内容由[Paradox Interactive](https://zh.wikipedia.org/wiki/Paradox_Interactive)转换而来。
+
+
 **Paradox Interactive**是一家[瑞典](../Page/瑞典.md "wikilink")[电子游戏发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")，设于[斯德哥尔摩](../Page/斯德哥尔摩.md "wikilink")，因发行诸多款历史策略类游戏而著名。
 
 子公司[Paradox Development Studio主要的代表作品包括](../Page/Paradox_Development_Studio.md "wikilink")[欧陆风云系列](../Page/歐陸風雲IV.md "wikilink")、[维多利亚系列](../Page/维多利亚II.md "wikilink")、[十字军之王系列](../Page/十字军之王II.md "wikilink")、[钢铁雄心系列](../Page/鋼鐵雄心IV.md "wikilink")、[群星等](../Page/群星_\(游戏\).md "wikilink")，以上五个系列的作品采用相同的引擎开发。除此之外，該公司曾是[骑马与砍杀系列的發行商](https://zh.wikipedia.org/wiki/骑马与砍杀 "wikilink")。

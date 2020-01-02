@@ -1,3 +1,6 @@
+> 本文内容由[GameMaker: Studio](https://zh.wikipedia.org/wiki/GameMaker:_Studio)转换而来。
+
+
 **Game Maker**是一款由以[Delphi](../Page/Delphi.md "wikilink")製作的[电子游戏](../Page/电子游戏.md "wikilink")制作[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。最新版本命名為**Game Maker: Studio**。
 
 ## 概論

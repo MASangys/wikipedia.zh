@@ -1,3 +1,6 @@
+> 本文内容由[RQ-4全球鷹偵察機](https://zh.wikipedia.org/wiki/RQ-4全球鷹偵察機)转换而来。
+
+
 **RQ-4全球鷹**（）是由[诺斯洛普·格鲁门](../Page/诺斯洛普·格鲁门.md "wikilink")所生產製造的[無人飛行載具](https://zh.wikipedia.org/wiki/無人飛機 "wikilink")（UAV），主要服役於[美國空軍與](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[美國海軍](../Page/美國海軍.md "wikilink")。
 
 該機角色上類似1950年代叱吒風雲屡次被击落的[洛克希德](https://zh.wikipedia.org/wiki/洛克希德 "wikilink")[U-2](https://zh.wikipedia.org/wiki/U-2 "wikilink")[偵察機](https://zh.wikipedia.org/wiki/偵察機 "wikilink")。它可以提供後方指揮官綜觀戰場或是細部目標監視的能力。它裝備有高解析度[合成孔径雷达](../Page/合成孔径雷达.md "wikilink")可以看穿雲層和風沙還有光電[紅外線模組](https://zh.wikipedia.org/wiki/紅外線 "wikilink")（EO/IR）提供長程長時間全區域動態監視。白天監視區域超過100,000[平方公里](https://zh.wikipedia.org/wiki/平方公里 "wikilink")（40,000[平方英哩](https://zh.wikipedia.org/wiki/平方英哩 "wikilink")）例如要監視[洛杉磯一樣大的城市](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，可以從緬因州遙控環球之鷹，拍攝370 x 370公里（230 x 230英哩）區域的洛杉磯市區24小時，然後悠閒的飛回家。

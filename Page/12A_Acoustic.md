@@ -1,3 +1,6 @@
+> 本文内容由[12A Acoustic](https://zh.wikipedia.org/wiki/12A_Acoustic)转换而来。
+
+
 《**12A Acoustic**》是香港樂隊[Zarahn](../Page/Zarahn.md "wikilink")第二張專輯，並於2007年3月30、31日於ZARAHN 12A FINAL LIVE送予現場觀眾，並於4月3日正式公開發行。
 
 ## 專輯介紹

@@ -1,3 +1,6 @@
+> 本文内容由[GN-002 力天使GUNDAM](https://zh.wikipedia.org/wiki/GN-002_力天使GUNDAM)转换而来。
+
+
 | **力天使GUNDAM**                                                                                           |
 | ------------------------------------------------------------------------------------------------------- |
 | [GN-002 力天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-002_Gundam_Dynames.jpg "fig:GN-002 力天使GUNDAM") |

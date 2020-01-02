@@ -1,3 +1,6 @@
+> 本文内容由[大O符号](https://zh.wikipedia.org/wiki/大O符号)转换而来。
+
+
 **大O符号**（），又稱為**漸進符號**，是用于描述[函数](../Page/函数.md "wikilink")[渐近行为的](../Page/渐近分析.md "wikilink")[数学](../Page/数学.md "wikilink")符号。更确切地说，它是用另一个（通常更简单的）函数来描述一个函数[数量级](../Page/数量级.md "wikilink")的**渐近上界**。在[数学](../Page/数学.md "wikilink")中，它一般用来刻画被截断的[无穷级数尤其是](https://zh.wikipedia.org/wiki/无穷级数 "wikilink")[渐近级数的剩余项](https://zh.wikipedia.org/wiki/渐近级数 "wikilink")；在[计算机科学](../Page/计算机科学.md "wikilink")中，它在[分析](../Page/算法分析.md "wikilink")[算法](../Page/算法.md "wikilink")[复杂性的方面非常有用](../Page/計算複雜性理論.md "wikilink")。
 
 大O符号是由[德国](../Page/德国.md "wikilink")[数论](../Page/数论.md "wikilink")学家在其1892年的著作《解析数论》（*Analytische Zahlentheorie*）首先引入的。而这个记号则是在另一位德国数论学家的著作中才推广的，因此它有时又称为**朗道符号**（Landau symbols）。代表“order of ...”（……阶）的大**O**，最初是一个大写[希腊字母](../Page/希腊字母.md "wikilink")“[Ο](https://zh.wikipedia.org/wiki/Ο "wikilink")”（omicron），现今用的是大写[拉丁字母](../Page/拉丁字母.md "wikilink")“[O](../Page/O.md "wikilink")”。

@@ -1,3 +1,6 @@
+> 本文内容由[SANARARA](https://zh.wikipedia.org/wiki/SANARARA)转换而来。
+
+
 《**SANARARA**》是[貓貓軟件於](https://zh.wikipedia.org/wiki/貓貓軟件 "wikilink")2005年4月29日發售的[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
 
 ## 慨要

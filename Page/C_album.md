@@ -1,3 +1,6 @@
+> 本文内容由[C album](https://zh.wikipedia.org/wiki/C_album)转换而来。
+
+
 **C Album**是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")3張[專輯](../Page/音樂專輯.md "wikilink")。於1999年8月4日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說

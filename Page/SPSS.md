@@ -1,3 +1,6 @@
+> 本文内容由[SPSS](https://zh.wikipedia.org/wiki/SPSS)转换而来。
+
+
 **SPSS**是**統計產品與服務解決方案**（）的簡稱，為[IBM公司的一系列用於](https://zh.wikipedia.org/wiki/IBM公司 "wikilink")[統計學分析運算](https://zh.wikipedia.org/wiki/統計學 "wikilink")、[數據挖掘](https://zh.wikipedia.org/wiki/數據挖掘 "wikilink")、預測分析和決策支持任務的軟件產品及相關服務的總稱，有[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[macOS等版本](https://zh.wikipedia.org/wiki/macOS "wikilink")。
 
 ## 簡介

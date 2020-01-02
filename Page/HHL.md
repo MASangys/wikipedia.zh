@@ -1,3 +1,6 @@
+> 本文内容由[HHL](https://zh.wikipedia.org/wiki/HHL)转换而来。
+
+
 [Haft-Hohlladung_granare_3kg.jpg](https://zh.wikipedia.org/wiki/File:Haft-Hohlladung_granare_3kg.jpg "fig:Haft-Hohlladung_granare_3kg.jpg") **HHL**（[德語Hafthohlladung之縮寫](https://zh.wikipedia.org/wiki/德語 "wikilink")，附著承裝定量[炸藥之意](https://zh.wikipedia.org/wiki/炸藥 "wikilink")），為著名的[反坦克武器](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")，為附著式定量反坦克[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")。[第二次世界大戰時](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，為[德意志國防軍](../Page/德意志國防軍.md "wikilink")[單兵標準配備反](https://zh.wikipedia.org/wiki/單兵 "wikilink")[坦克](../Page/坦克.md "wikilink")武器。
 
 德國軍方為防此反坦克武器會被盟軍仿製反過來對付德軍自己的坦克，下令要把德軍自己的坦克表面覆上一層[防磁塗層](https://zh.wikipedia.org/wiki/Zimmerit "wikilink")。

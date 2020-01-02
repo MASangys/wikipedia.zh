@@ -1,3 +1,6 @@
+> 本文内容由[Alpina](https://zh.wikipedia.org/wiki/Alpina)转换而来。
+
+
 **Alpina Burkard Bovensiepen [GmbH](https://zh.wikipedia.org/wiki/GmbH "wikilink")**是一家位於是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[巴伐利亞州](https://zh.wikipedia.org/wiki/巴伐利亞州 "wikilink")[東阿爾高縣](https://zh.wikipedia.org/wiki/東阿爾高縣 "wikilink")[布洛埃的汽車生產公司](https://zh.wikipedia.org/wiki/布洛埃 "wikilink")。
 
 Alpina雖然通常被認為是[寶馬的改裝商](https://zh.wikipedia.org/wiki/寶馬 "wikilink")，但實際上已作為汽車生產商通過TÜV的認證。寶馬通常將自己生產的的汽車車架，車體等部件送往Alpina進行手工組裝，再運回寶馬進行安裝後再運至Alpina完成其它工序\[1\]，和[巴博斯（德語：Brabus）與](https://zh.wikipedia.org/wiki/巴博斯（德語：Brabus） "wikilink")[賓士的關係類似](https://zh.wikipedia.org/wiki/賓士 "wikilink")。還有RUF 和 PORSCHE也是一樣的關係。

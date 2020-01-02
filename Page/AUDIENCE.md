@@ -1,3 +1,6 @@
+> 本文内容由[AUDIENCE](https://zh.wikipedia.org/wiki/AUDIENCE)转换而来。
+
+
 《**AUDIENCE**》（觀眾）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第18張單曲，2000年11月1日於日本發售。
 
 ## 說明

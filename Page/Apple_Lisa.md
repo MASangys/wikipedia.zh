@@ -1,3 +1,6 @@
+> 本文内容由[Apple Lisa](https://zh.wikipedia.org/wiki/Apple_Lisa)转换而来。
+
+
 **Apple Lisa**是1983年由[苹果電腦公司設計生產的一款個人電腦產品](https://zh.wikipedia.org/wiki/苹果電腦 "wikilink")，是全球第一款搭載[图形使用者界面](https://zh.wikipedia.org/wiki/图形使用者界面 "wikilink")（GUI）的[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
 Lisa的研發計劃最初开始於1978年，[苹果電腦公司希望開發出一款針對企業及個人用户](https://zh.wikipedia.org/wiki/苹果電腦 "wikilink")，擁有全新操作方式並且功能强大的电脑。

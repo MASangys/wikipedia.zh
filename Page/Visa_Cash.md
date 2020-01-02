@@ -1,3 +1,6 @@
+> 本文内容由[Visa Cash](https://zh.wikipedia.org/wiki/Visa_Cash)转换而来。
+
+
 **Visa Cash** 是由[VISA公司推出的接觸式](https://zh.wikipedia.org/wiki/VISA "wikilink")[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")[電子貨幣](../Page/電子貨幣.md "wikilink")，主要用於小額交易。
 
 Visa Cash 曾在不同地區推出，包括中國大陸、台灣、香港\[1\]\[2\]、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[列斯](https://zh.wikipedia.org/wiki/列斯 "wikilink")。

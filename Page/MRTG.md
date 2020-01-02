@@ -1,3 +1,6 @@
+> 本文内容由[MRTG](https://zh.wikipedia.org/wiki/MRTG)转换而来。
+
+
 **MRTG**（Multi Router Traffic Grapher）是一套可用來繪出網路流量圖的[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[奧爾滕](../Page/奧爾滕.md "wikilink")的Tobias Oetiker與Dave Rand所開發，此軟體以[GPL授權](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 簡介

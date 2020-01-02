@@ -1,3 +1,6 @@
+> 本文内容由[Yellow-Zebra](https://zh.wikipedia.org/wiki/Yellow-Zebra)转换而来。
+
+
 **Yellow-Zebra**（）是設立於[福岡的一個](https://zh.wikipedia.org/wiki/福岡 "wikilink")[日本](../Page/日本.md "wikilink")個人[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。
 
 ## 概要

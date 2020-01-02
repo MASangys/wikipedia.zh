@@ -1,3 +1,6 @@
+> 本文内容由[Everything \(嵐單曲\)](https://zh.wikipedia.org/wiki/Everything_\(嵐單曲\))转换而来。
+
+
 「**Everything**」是[嵐](../Page/嵐.md "wikilink")的第27枚單曲。於2009年7月1日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

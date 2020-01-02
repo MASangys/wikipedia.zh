@@ -1,3 +1,6 @@
+> 本文内容由[Neko Nyan](https://zh.wikipedia.org/wiki/Neko_Nyan)转换而来。
+
+
 ****是一位[日本](../Page/日本.md "wikilink")[原畫家](https://zh.wikipedia.org/wiki/原畫家 "wikilink")、[人物設計師](https://zh.wikipedia.org/wiki/人物設計師 "wikilink")。和[劇本家](https://zh.wikipedia.org/wiki/劇本家 "wikilink")[丸戶史明的組合特別著名](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")，作品《[Chocolat ～maid cafe "curio"～](https://zh.wikipedia.org/wiki/Chocolat_～maid_cafe_"curio"～ "wikilink")》、《[Parfait ～Chocolat second brew～](https://zh.wikipedia.org/wiki/Parfait_～Chocolat_second_brew～ "wikilink")》、《[青空下的約定](../Page/青空下的約定.md "wikilink")》為[戲畫的主要作品](../Page/戲畫_\(遊戲品牌\).md "wikilink")，與同公司的BALDR系列並稱。
 
 ## 簡介

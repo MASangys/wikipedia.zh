@@ -1,3 +1,6 @@
+> 本文内容由[ADULT VIDEO](https://zh.wikipedia.org/wiki/ADULT_VIDEO)转换而来。
+
+
 《**ADULT VIDEO**》（，*ADULT VIDEO*）是[東京事變](../Page/東京事變.md "wikilink")的第四張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，跟《ADULT VIDEO Original Sound Track》，一起於2006年3月23日發行。發行當週即賣出1.6萬張，總計銷售額3.2萬張，名列2006年年度銷售榜第52位。初回限定為「Digipak紙盒仕樣」。
 
 ## 簡介

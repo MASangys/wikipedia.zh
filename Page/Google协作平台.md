@@ -1,3 +1,6 @@
+> 本文内容由[Google协作平台](https://zh.wikipedia.org/wiki/Google协作平台)转换而来。
+
+
 **Google协作平台**（**Google Sites**）是[Google](../Page/Google.md "wikilink")用来取代[Google Page Creator的一款基于](https://zh.wikipedia.org/wiki/Google_Page_Creator "wikilink")[Wiki](../Page/Wiki.md "wikilink")的在线网站制作系统，为[Google Apps的一部分](https://zh.wikipedia.org/wiki/Google_Apps "wikilink")，其目标是任何人都能够创建一个团队为导向的网站，其中多人可以协作和共享文件。\[1\]
 
 ## 综览

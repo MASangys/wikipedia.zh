@@ -1,3 +1,6 @@
+> 本文内容由[Poker face \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Poker_face_\(濱崎步單曲\))转换而来。
+
+
 \-{T|poker face}-
 
 《**poker face**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")在日本[愛貝克思音樂旗下的首張出道單曲](https://zh.wikipedia.org/wiki/愛貝克思音樂 "wikilink")，1998年4月8日於日本發行。其後於2001年2月28日重新發行增加混音的12cm版本。

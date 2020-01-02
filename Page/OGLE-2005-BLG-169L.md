@@ -1,3 +1,6 @@
+> 本文内容由[OGLE-2005-BLG-169L](https://zh.wikipedia.org/wiki/OGLE-2005-BLG-169L)转换而来。
+
+
 **OGLE-2005-BLG-169L**是一顆位於[人馬座的](https://zh.wikipedia.org/wiki/人馬座 "wikilink")[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")，距地球約2,700[秒差距](../Page/秒差距.md "wikilink")。到目前為止，人們未能確認這顆恆星屬[主序星](../Page/主序星.md "wikilink")與否，但認為屬[紅矮星](../Page/紅矮星.md "wikilink")的可能性最高，其他推測有[白矮星](../Page/白矮星.md "wikilink")、[中子星](../Page/中子星.md "wikilink")或[黑洞](../Page/黑洞.md "wikilink")。
 
 2006年，人們發現有一顆[日外行星環繞其運行](https://zh.wikipedia.org/wiki/日外行星 "wikilink")。

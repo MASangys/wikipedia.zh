@@ -1,3 +1,6 @@
+> 本文内容由[Meridian](https://zh.wikipedia.org/wiki/Meridian)转换而来。
+
+
 **《Meridian》**\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")於2007年8月14日發行的個人粵語大碟，為天價加盟[黎明](../Page/黎明.md "wikilink")旗下[A music後首張發行的專輯](../Page/東亞唱片_\(製作\).md "wikilink")。唱片名稱有[子午線及全盛期之意](https://zh.wikipedia.org/wiki/子午線 "wikilink")。此唱片亦是近年來[楊千嬅](../Page/楊千嬅.md "wikilink")首次不參與唱片製作，交予唱片公司A music負責。
 
 ## 簡介

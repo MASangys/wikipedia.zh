@@ -1,3 +1,6 @@
+> 本文内容由[SURREAL](https://zh.wikipedia.org/wiki/SURREAL)转换而来。
+
+
 《**SURREAL**》（超現實）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第17張單曲，作為數量限定的單曲，與收錄本單曲的專輯《[Duty](../Page/Duty.md "wikilink")》同時於2000年9月27日於日本發售。
 
 《SURREAL》、《[Duty](../Page/Duty.md "wikilink")》、《ayumi hamasaki concert tour 2000 A 第1幕》三作，在發行首週分別奪下週榜單曲、專輯、DVD榜的冠軍，此為[公信榜史上首度的三冠](https://zh.wikipedia.org/wiki/公信榜 "wikilink")，同時發售的《ayumi hamasaki concert tour 2000 A 第2幕》DVD亦奪下第二名的紀錄。

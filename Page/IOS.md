@@ -1,3 +1,6 @@
+> 本文内容由[IOS](https://zh.wikipedia.org/wiki/IOS)转换而来。
+
+
 **iOS**（原名為**iPhone OS**）是[蘋果公司為其](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[流動裝置所開發的](../Page/IOS设备列表.md "wikilink")[專有](https://zh.wikipedia.org/wiki/專有 "wikilink")[流動作業系統](https://zh.wikipedia.org/wiki/流動作業系統 "wikilink")，為其公司的許多流動裝置提供操作界面，支援裝置包括[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")、[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。iPhone OS自[iOS 4起便改名為iOS](https://zh.wikipedia.org/wiki/iOS_4 "wikilink")，它是繼[Android](../Page/Android.md "wikilink")後全球第二大最受歡迎的流動作業系統，市佔率已上升至約24.5% ，但仍遠低於[Google](../Page/Google.md "wikilink")開發的[Android](../Page/Android.md "wikilink")系統的72.2%\[1\]。
 
 iOS最初隨iPhone亮相於2007年推出，並擴展至支援其他蘋果公司的裝置，如iPod touch（2007年9月）及iPad（2010年1月）。截至2017年1月，蘋果公司的[App Store已提供超過](../Page/App_Store_\(iOS\).md "wikilink")220萬個iOS應用程式，當中有100萬個是適用於iPad的原生應用程式。這些移動應用程序的下載總量已超過1,300億次。

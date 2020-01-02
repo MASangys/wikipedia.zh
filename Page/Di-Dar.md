@@ -1,3 +1,6 @@
+> 本文内容由[Di-Dar](https://zh.wikipedia.org/wiki/Di-Dar)转换而来。
+
+
 《**Di-Dar**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王菲](../Page/王菲.md "wikilink")的第12張大碟、第9張[粵語專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")（1首[國語](https://zh.wikipedia.org/wiki/國語 "wikilink")），於1995年12月在[香港](../Page/香港.md "wikilink")發行。一共10首歌曲，3首是翻唱。
 
 ## 簡介

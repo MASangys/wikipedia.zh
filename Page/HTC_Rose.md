@@ -1,3 +1,6 @@
+> 本文内容由[HTC Rose](https://zh.wikipedia.org/wiki/HTC_Rose)转换而来。
+
+
 **HTC Rose**，原廠型號**HTC S740，HTC S743**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[HTC Diamond的](https://zh.wikipedia.org/wiki/HTC_Diamond "wikilink")[Smart Phone版](../Page/Windows_Mobile.md "wikilink")，只是其並不支援觸控操作方式，採用雙鍵盤設計，隱藏有側滑動式QWERTY全鍵盤，2008年8月於歐洲首度發表。客製版本HTC S740，HTC S743，EMobile Emonster S22HT。
 
 ## 技術規格

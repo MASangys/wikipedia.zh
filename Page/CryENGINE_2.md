@@ -1,3 +1,6 @@
+> 本文内容由[CryENGINE 2](https://zh.wikipedia.org/wiki/CryENGINE_2)转换而来。
+
+
 **CryENGINE 2**是由[Crytek](../Page/Crytek.md "wikilink")開發的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，來自於《[孤岛惊魂](../Page/孤岛惊魂_\(游戏\).md "wikilink")》（Far Cry）使用的[CryEngine的升級](https://zh.wikipedia.org/wiki/CryEngine "wikilink")。目前使用此引擎的遊戲為Crytek所開發的《[孤岛危机](../Page/孤岛危机.md "wikilink")》（Crysis）。瑞典的遊戲開發商[MindArk已經簽約使用此引擎在他們的遊戲](https://zh.wikipedia.org/wiki/MindArk "wikilink")──[Entropia Universe](https://zh.wikipedia.org/wiki/Entropia_Universe "wikilink")。第一個和CryENGINE 2引擎簽約的是[法國公司IMAGTP](https://zh.wikipedia.org/wiki/法國 "wikilink")，用來在開始興建之前，對客戶展示建築物完成時的樣貌。
 
 2007年5月7日，開發工作室Avatar Reality, Inc.簽約使用CryENGINE 2，創造了一個主題為被殖民的火星的大型多人虛擬世界。\[1\]同年9月17日Ringling College of Art & Design成為第一個使用CryENGINE2作為教育目的的團體。Crytek也宣佈將以這個引擎開發一套新的遊戲。

@@ -1,3 +1,6 @@
+> 本文内容由[StarUML](https://zh.wikipedia.org/wiki/StarUML)转换而来。
+
+
 **StarUML**是一个[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[UML工具列表软件](https://zh.wikipedia.org/wiki/UML工具 "wikilink")，它遵守GNU GPL的一个修订版。
 
 StarUML项目宣称的目标是代替大型的商业UML工具软件，如[IBM](../Page/IBM.md "wikilink")的[Rational Rose](https://zh.wikipedia.org/wiki/Rational_Rose "wikilink")，[Borland](../Page/Borland.md "wikilink")公司的[Together](https://zh.wikipedia.org/wiki/Borland_Together "wikilink")。

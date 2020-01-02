@@ -1,3 +1,6 @@
+> 本文内容由[AdventureQuest](https://zh.wikipedia.org/wiki/AdventureQuest)转换而来。
+
+
 是一個由研製的線上單人[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。此遊戲由2002年開始對外開放。[向量圖形](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")、[Flash及](https://zh.wikipedia.org/wiki/Flash "wikilink")[動畫等技術均可以在遊戲中找到](https://zh.wikipedia.org/wiki/動畫 "wikilink")。\[1\]
 
 ## 遊戲設定

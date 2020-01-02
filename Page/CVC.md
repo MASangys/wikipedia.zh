@@ -1,3 +1,6 @@
+> 本文内容由[CVC](https://zh.wikipedia.org/wiki/CVC)转换而来。
+
+
 **CVC**可以指：
 
 ## 科學與工業

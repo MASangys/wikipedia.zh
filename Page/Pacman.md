@@ -1,3 +1,6 @@
+> 本文内容由[Pacman](https://zh.wikipedia.org/wiki/Pacman)转换而来。
+
+
 **Pacman**是一個[軟件包管理器](https://zh.wikipedia.org/wiki/軟件包管理器 "wikilink")，作為[Arch Linux發行版的一部分](../Page/Arch_Linux.md "wikilink")。它最早由Arch Linux的[Judd Vinet開發](https://zh.wikipedia.org/wiki/Judd_Vinet "wikilink")。Pacman可以解決安裝過程中的依賴問題，自動下載并且安裝所有需要的軟件包。
 
 Pacman也被移植到[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，作为基础系统的一部分随[MSYS2分发](https://zh.wikipedia.org/wiki/MSYS2 "wikilink")。

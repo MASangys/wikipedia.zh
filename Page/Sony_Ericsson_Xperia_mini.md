@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson Xperia mini](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_mini)转换而来。
+
+
 Sony Ericsson Xperia mini 及 Sony Ericsson Xperia mini pro 是[索尼愛立信](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")2011年8月推出，採用[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的[智能手机](../Page/智能手机.md "wikilink")。其中 Xperia mini pro 版本針對[商務市場](https://zh.wikipedia.org/wiki/商務 "wikilink")，設有滑動式、符合[人體工學的](https://zh.wikipedia.org/wiki/人體工學 "wikilink")[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")。\[1\]
 
 ## 硬件

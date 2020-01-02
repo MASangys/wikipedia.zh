@@ -1,3 +1,6 @@
+> 本文内容由[Ayu-mi-x II](https://zh.wikipedia.org/wiki/Ayu-mi-x_II)转换而来。
+
+
 《**ayu-mi-x II**》（濱崎·不·一樣）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的混音專輯，為《ayu-mi-x》第二個系列。
 
 ## 發行型態

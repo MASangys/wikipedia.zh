@@ -1,3 +1,6 @@
+> 本文内容由[Tomorrow \(田村由香里單曲\)](https://zh.wikipedia.org/wiki/Tomorrow_\(田村由香里單曲\))转换而来。
+
+
 **Tomorrow**是日本[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第15張單曲，由[KING RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2008年12月17日發行，商品編號為KICM-1259（普通版）／KICM-91259（初回限定版）。
 
 ## 概要

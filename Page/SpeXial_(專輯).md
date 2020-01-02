@@ -1,3 +1,6 @@
+> 本文内容由[SpeXial \(專輯\)](https://zh.wikipedia.org/wiki/SpeXial_\(專輯\))转换而来。
+
+
 《**SpeXial**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的首張同名專輯，由台灣音樂製作人[紀佳松](../Page/紀佳松.md "wikilink")量身打造，於2012年12月7日發行\[1\]。首波主打歌為抒情歌曲《慶祝寂寞》\[2\]；第二主打為《[終極一班2](https://zh.wikipedia.org/wiki/終極一班2 "wikilink")》主題曲《發飆》（SpeXial版）；第三主打為電音舞曲《Super Style》\[3\] （《[終極一班3](../Page/終極一班3.md "wikilink")》主題曲）。
 
 ## 專輯簡介
@@ -50,7 +53,5 @@
 
 1.
 2.
-
 3.
-
 4.

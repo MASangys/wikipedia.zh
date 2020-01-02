@@ -1,3 +1,6 @@
+> 本文内容由[Facebook](https://zh.wikipedia.org/wiki/Facebook)转换而来。
+
+
 </ref> |subsid = [Instagram](../Page/Instagram.md "wikilink")
 [WhatsApp](../Page/WhatsApp.md "wikilink")
 [Oculus VR](https://zh.wikipedia.org/wiki/Oculus_VR "wikilink") |logo = [Facebook_f_logo_(2019).svg](https://zh.wikipedia.org/wiki/File:Facebook_f_logo_\(2019\).svg "fig:Facebook_f_logo_(2019).svg")

@@ -1,3 +1,6 @@
+> 本文内容由[Konsole](https://zh.wikipedia.org/wiki/Konsole)转换而来。
+
+
 **Konsole**是一个自由开源的[虚拟终端](../Page/虚拟终端.md "wikilink")，它是[KDE](../Page/KDE.md "wikilink")的一部分。Konsole最初是由Lars Doelle所攥寫的。
 
 [Konqueror](../Page/Konqueror.md "wikilink")、[Krusader](https://zh.wikipedia.org/wiki/Krusader "wikilink")、[Kate](../Page/Kate.md "wikilink")和[KDevelop](../Page/KDevelop.md "wikilink")等一些應用程式通过[KPart使用Konsole來提供嵌入終端的功能](https://zh.wikipedia.org/wiki/KPart "wikilink")。

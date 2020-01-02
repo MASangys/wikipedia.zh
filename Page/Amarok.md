@@ -1,3 +1,6 @@
+> 本文内容由[Amarok](https://zh.wikipedia.org/wiki/Amarok)转换而来。
+
+
 **Amarok** \[1\]是一款[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、[免费](https://zh.wikipedia.org/wiki/免费 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[音乐播放器](https://zh.wikipedia.org/wiki/音频播放器 "wikilink")。尽管 Amarok 是 [KDE](../Page/KDE.md "wikilink") 项目的一部分，但是它的发布与[KDE Software Compilation](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink") 的发布周期无关。 Amarok 以 [GNU 通用公共许可证（第2版）发布](../Page/GNU通用公共许可证.md "wikilink")。
 
 它的名字最初是amaroK，在2006年6月中時才改成Amarok。

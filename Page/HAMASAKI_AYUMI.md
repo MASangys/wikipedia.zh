@@ -1,3 +1,6 @@
+> 本文内容由[HAMASAKI AYUMI](https://zh.wikipedia.org/wiki/HAMASAKI_AYUMI)转换而来。
+
+
 《**HAMASAKI AYUMI**》是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的首張DVD版本影像作品，2000年3月29日於日本發售。本作僅發行[DVD版本](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 說明

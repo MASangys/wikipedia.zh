@@ -1,3 +1,6 @@
+> 本文内容由[Sorry, Sorry \(单曲\)](https://zh.wikipedia.org/wiki/Sorry,_Sorry_\(单曲\))转换而来。
+
+
 《**Sorry, Sorry**》是一首由韩国男子组合[Super Junior演唱的歌曲](../Page/Super_Junior.md "wikilink")，于2009年3月9日发行，是此组合2009年3月12日三辑《[Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink")》中的主打歌。\[1\] 这首歌是Super Junior於2008年在中国和韩国的子组合活动结束后整体的回归单曲。这首歌在榜单表现部分成为Super Junior第二成功的单曲，在宣传期内共得到10次音乐节目冠军。2011年發行的《[Mr. Simple](../Page/Mr._Simple.md "wikilink")》總共得到11次音樂節目冠軍。
 
 ## 历史

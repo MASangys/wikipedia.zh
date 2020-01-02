@@ -1,3 +1,6 @@
+> 本文内容由[JR北海道巴士](https://zh.wikipedia.org/wiki/JR北海道巴士)转换而来。
+
+
 [JR_logo_(hokkaido).svg](https://zh.wikipedia.org/wiki/File:JR_logo_\(hokkaido\).svg "fig:JR_logo_(hokkaido).svg") [JR_Hokkaido_Bus_at_Teine.jpg](https://zh.wikipedia.org/wiki/File:JR_Hokkaido_Bus_at_Teine.jpg "fig:JR_Hokkaido_Bus_at_Teine.jpg") **JR北海道巴士**（）是本部位于[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")的巴士公司。該公司是[北海道旅客鐵道](../Page/北海道旅客鐵道.md "wikilink")（JR北海道）的全資子公司。公司總部位于札幌市西區二十四軒2條7丁目1番26號。
 
 ## 外部連結

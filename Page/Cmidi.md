@@ -1,3 +1,6 @@
+> 本文内容由[Cmidi](https://zh.wikipedia.org/wiki/Cmidi)转换而来。
+
+
 **Cmidi**（網址為：http://www.cmidi.com 及https://web.archive.org/web/20100328060454/http://www.cmidi.org.hk/ ），[香港](../Page/香港.md "wikilink")著名原創音樂網站。
 
 Cmidi於2000年創立，原為[香港](../Page/香港.md "wikilink")最大型香港流行曲[MIDI](../Page/MIDI.md "wikilink")的網站，2005年因應歌曲版權問題及站內歌曲創作趨勢，遂轉型為原創音樂網站。轉型後數月，當時為網絡唱作人[KellyJackie便於Cmidi發表](https://zh.wikipedia.org/wiki/KellyJackie "wikilink")〈[他約我去迪士尼](https://zh.wikipedia.org/wiki/他約我去迪士尼 "wikilink")〉一曲而瞬即成名，同時令網絡歌曲風氣盛行。

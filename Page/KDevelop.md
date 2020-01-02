@@ -1,3 +1,6 @@
+> 本文内容由[KDevelop](https://zh.wikipedia.org/wiki/KDevelop)转换而来。
+
+
 [KDevelop.png](https://zh.wikipedia.org/wiki/File:KDevelop.png "fig:KDevelop.png")
 
 **KDevelop**，是一个支持多[程序设计语言的](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")[集成开发环境](../Page/集成开发环境.md "wikilink")。它运行于[Linux](../Page/Linux.md "wikilink")和其它[类Unix环境](https://zh.wikipedia.org/wiki/类Unix "wikilink")。它本身不包含[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，而是调用其它编译器来编译程序。

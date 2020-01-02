@@ -1,3 +1,6 @@
+> 本文内容由[Windows XP 64位版](https://zh.wikipedia.org/wiki/Windows_XP_64位版)转换而来。
+
+
 **Windows XP 64-bit Edition**曾是[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows XP作業系統的版本之一](../Page/Windows_XP.md "wikilink")，運轉於第一代64位元[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Itanium](https://zh.wikipedia.org/wiki/Itanium "wikilink")[處理器之上](https://zh.wikipedia.org/wiki/處理器 "wikilink")。它是微軟公司歷史上第一個64位元工作站級別的作業系統，并随32位元版於2001年末發布。2003年支援第二代Itanium处理器的2003版发布，直至2005年7月微軟終止對這個作業系統支援。
 
 ## 支援語言

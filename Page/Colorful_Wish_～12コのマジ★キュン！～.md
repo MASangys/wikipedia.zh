@@ -1,3 +1,6 @@
+> 本文内容由[Colorful Wish ～12コのマジ★キュン！～](https://zh.wikipedia.org/wiki/Colorful_Wish_～12コのマジ★キュン！～)转换而来。
+
+
 《****》是於2008年4月25日由[戲畫發售的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。和前兩作一樣，主題曲《》是由[KOTOKO主唱](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")、[I've](../Page/I've.md "wikilink")製作。
 
 ## 登場人物

@@ -1,3 +1,6 @@
+> 本文内容由[UNITE!](https://zh.wikipedia.org/wiki/UNITE!)转换而来。
+
+
 《**UNITE\!**》（心手相黏）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第23張單曲，2001年7月11日於日本發售。
 
 ## 說明

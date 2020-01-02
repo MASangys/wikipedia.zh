@@ -1,3 +1,6 @@
+> 本文内容由[34街-賓州車站 \(IRT百老匯-第七大道線\)](https://zh.wikipedia.org/wiki/34街-賓州車站_\(IRT百老匯-第七大道線\))转换而来。
+
+
 **34街-賓州車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT百老匯-第七大道線](../Page/IRT百老匯-第七大道線.md "wikilink")的一個快車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[曼哈頓](../Page/曼哈頓.md "wikilink")[34街及](https://zh.wikipedia.org/wiki/34街_\(曼哈頓\) "wikilink")[第七大道](https://zh.wikipedia.org/wiki/第七大道_\(曼哈頓\) "wikilink")，設有[1號線](https://zh.wikipedia.org/wiki/紐約地鐵1號線 "wikilink")（任何時候停站）、[2號線](https://zh.wikipedia.org/wiki/紐約地鐵2號線 "wikilink")（任何時候停站）與[3號線](https://zh.wikipedia.org/wiki/紐約地鐵3號線 "wikilink")（任何時候停站（深夜除外））列車服務。可經[賓夕法尼亞車站轉乘](https://zh.wikipedia.org/wiki/賓夕法尼亞車站_\(紐約市\) "wikilink")[長島鐵路](../Page/長島鐵路.md "wikilink")、[新澤西公共交通公司及](https://zh.wikipedia.org/wiki/新澤西公共交通公司 "wikilink")[美鐵](../Page/美鐵.md "wikilink")。
 
 ## 車站結構

@@ -1,3 +1,6 @@
+> 本文内容由[UIMA](https://zh.wikipedia.org/wiki/UIMA)转换而来。
+
+
 **UIMA**（全称**“Unstructured Information Management Architecture”**，即**“非结构化信息管理架构”**）于2009年3月作为[OASIS标准](https://zh.wikipedia.org/wiki/OASIS标准 "wikilink")，是一个组件化的[软件架构](../Page/软件架构.md "wikilink")，用于分析同[终端用户相关联的大容量非结构化信息](https://zh.wikipedia.org/wiki/终端 "wikilink")。
 
 ## 参考资料

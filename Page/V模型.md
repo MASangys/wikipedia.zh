@@ -1,3 +1,6 @@
+> 本文内容由[V模型](https://zh.wikipedia.org/wiki/V模型)转换而来。
+
+
 [Systems_Engineering_Process_II.svg](https://zh.wikipedia.org/wiki/File:Systems_Engineering_Process_II.svg "fig:Systems_Engineering_Process_II.svg")中使用的V模型\[1\]\]\]
 
 **V模型**（V-model）是一種用圖像表示[系统发展生命周期](../Page/系统发展生命周期.md "wikilink")的模式，可以產出嚴謹的发展生命周期模型以及專案管理模型。V模型可分為三大類：德國的Das V-Modell、泛用的測試模式以及美國政府標準\[2\]。

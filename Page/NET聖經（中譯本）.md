@@ -1,3 +1,6 @@
+> 本文内容由[NET聖經（中譯本）](https://zh.wikipedia.org/wiki/NET聖經（中譯本）)转换而来。
+
+
 **NET聖經（中譯本）**是New English Translation（NET）[聖經的中文](https://zh.wikipedia.org/wiki/聖經 "wikilink")[譯本](https://zh.wikipedia.org/wiki/譯本 "wikilink")。NET聖經（亦稱為新英語譯本聖經）是一部全新的英文[聖經譯本](../Page/聖經譯本.md "wikilink")，由20余位聖經學者自1995年開始筹编，將聖經從[希伯來文本](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")、[亞蘭文本](https://zh.wikipedia.org/wiki/亞蘭文 "wikilink")、[希臘文本经过组合调整譯成英語](https://zh.wikipedia.org/wiki/希臘文 "wikilink")。版權歸聖經研讀出版社所有。NET的“新”不僅是翻譯年份較新，更在於它有6萬餘條註釋。NET聖經（中譯本）第二版在2016年四月完成。\[1\]
 
 ## 特色

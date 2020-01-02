@@ -1,3 +1,6 @@
+> 本文内容由[Niconico動畫](https://zh.wikipedia.org/wiki/Niconico動畫)转换而来。
+
+
 **Niconico動畫**（、簡稱：Niconico、N站、Nico等 ）\[1\]是[日本](../Page/日本.md "wikilink")[多玩國](../Page/多玩國.md "wikilink")公司所營運的線上[弹幕影片分享網站](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")。其中「Niconico」在[日文中為](https://zh.wikipedia.org/wiki/日文 "wikilink")[微笑](../Page/微笑.md "wikilink")之意，動画在日文中則為「影片」的意思。Niconico動畫與[YouTube](../Page/YouTube.md "wikilink")等影片共享網站相似，但Niconico動畫提供觀賞者可在影片上留言并以弹幕的形式出現在影片上的功能。 [Nikoniko_honsya_ikebukuro.jpg](https://zh.wikipedia.org/wiki/File:Nikoniko_honsya_ikebukuro.jpg "fig:Nikoniko_honsya_ikebukuro.jpg")[池袋](../Page/池袋.md "wikilink")的多用途场所“Niconico本社”（[P'PARCO地下](https://zh.wikipedia.org/wiki/P'PARCO "wikilink")1-2层），注意并非网站运营意义上的本社\]\] 隨著業務的擴張，如沿用「Niconico」之名的Niconico直播及Niconico插畫，許多相關的服務都已超出了視頻共享服務的框架。在2015年8月，Niconico動畫一般會員約有5000萬人，付費會員約有250萬人。\[2\]提供用戶可跨平台使用此服務。2007年該網站贏得[好設計獎](../Page/好設計獎.md "wikilink")與[日本御宅大賞](https://zh.wikipedia.org/wiki/日本御宅大賞 "wikilink")，2008年又獲得[電子藝術大獎](https://zh.wikipedia.org/wiki/電子藝術大獎 "wikilink")\[3\]\[4\]。 近年來Niconico動畫的付費使用者數有萎縮的現象，2019年2月13日，根據公開的財務資料，付費會員減少至188萬人。\[5\]
 
 ## 介紹

@@ -1,3 +1,6 @@
+> 本文内容由[Turbo Pascal](https://zh.wikipedia.org/wiki/Turbo_Pascal)转换而来。
+
+
 **Turbo Pascal**是[Borland](../Page/Borland.md "wikilink")公司一个很有代表性的软件开发产品。从语言角度说Turbo Pascal是[Pascal语言的一个扩展](https://zh.wikipedia.org/wiki/Pascal_\(编程语言\) "wikilink")。它扩展了标准Pascal的功能特性。在语法上，Turbo Pascal吸取了其他语言如[C等的特性](https://zh.wikipedia.org/wiki/C编程语言 "wikilink")，简化了标准Pascal的语法；在功能上，Turbo Pascal提供了包括屏幕控制、图形处理、系统调用等有用的函数库（Turbo Pascal中称为**单元**）。
 
 Turbo Pascal包括[CP/M](https://zh.wikipedia.org/wiki/CP/M "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")、[Windows等不同](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的版本。

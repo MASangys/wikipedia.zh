@@ -1,3 +1,6 @@
+> 本文内容由[DMAX \(電視頻道\)](https://zh.wikipedia.org/wiki/DMAX_\(電視頻道\))转换而来。
+
+
 **DMAX**是一個隸屬[探索歐洲電視網絡](https://zh.wikipedia.org/wiki/探索歐洲電視網絡 "wikilink")（Discovery Network Europe）（[歐洲地區](https://zh.wikipedia.org/wiki/歐洲 "wikilink")）以及[探索通信](https://zh.wikipedia.org/wiki/探索通信 "wikilink")（Discovery Communications）（[亞洲地區](https://zh.wikipedia.org/wiki/亞洲 "wikilink")）的頻道，最初2004年於[亞洲首播](https://zh.wikipedia.org/wiki/亞洲 "wikilink")。是一個以男性愛好導向的電視頻道，主要介紹當今[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")、[航海](https://zh.wikipedia.org/wiki/航海 "wikilink")、以及[航空](../Page/航空.md "wikilink")的最新發展。頻道在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[愛爾蘭](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")、[意大利](../Page/意大利.md "wikilink")、[捷克](../Page/捷克.md "wikilink")以及[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[香港](../Page/香港.md "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣地區播出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 節目列表

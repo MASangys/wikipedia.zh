@@ -1,3 +1,6 @@
+> 本文内容由[Appears](https://zh.wikipedia.org/wiki/Appears)转换而来。
+
+
 《**appears**》（現身）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第11張單曲，1999年11月10日於日本發售。
 
 ## 說明

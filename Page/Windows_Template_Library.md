@@ -1,3 +1,6 @@
+> 本文内容由[Windows Template Library](https://zh.wikipedia.org/wiki/Windows_Template_Library)转换而来。
+
+
 **Windows Template Library**（**WTL**）是一個用於[Win32研發的](https://zh.wikipedia.org/wiki/Win32 "wikilink")[物件導向的](../Page/面向对象程序设计.md "wikilink")[C++](../Page/C++.md "wikilink")[模板](../Page/模板_\(C++\).md "wikilink")[函式庫](https://zh.wikipedia.org/wiki/库 "wikilink")。WTL由[Microsoft的員工Nenad](https://zh.wikipedia.org/wiki/Microsoft "wikilink") Stefanovic創造，起初作為內部使用，之後發行為[Visual Studio和Win](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")32 Framework SDK的不支援增益集。它主要被開發作為[Microsoft Foundation Classes的輕量化替代品](https://zh.wikipedia.org/wiki/MFC "wikilink")，以微軟[ATL函式庫](https://zh.wikipedia.org/wiki/Active_Template_Library "wikilink")（另一個被應用在創造[COM與](https://zh.wikipedia.org/wiki/COM "wikilink")[ActiveX](../Page/ActiveX.md "wikilink")的輕量函式庫）為基礎。
 
 ## 簡介

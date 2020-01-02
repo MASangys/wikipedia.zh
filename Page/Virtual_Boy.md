@@ -1,3 +1,6 @@
+> 本文内容由[Virtual Boy](https://zh.wikipedia.org/wiki/Virtual_Boy)转换而来。
+
+
 是由[任天堂](../Page/任天堂.md "wikilink")开发制造的桌面台式32位游戏机。于1995年发布，被称为第一个能够显示图形的游戏机。玩家可以像[頭戴式顯示器](../Page/頭戴式顯示器.md "wikilink")一样使用游戏机，将头放在游戏机目镜上可以看到红色单色显示屏显示的游戏画面，游戏使用[视差](../Page/视差.md "wikilink")原理产生立体3D效果。1996年初，因为Virtual Boy未能达到销售量目标，任天堂停止了为Virtual Boy的游戏发行和生产。在Virtual Boy的整个发售生命期间，该游戏机总共仅发布了22款游戏。
 
 Virtual Boy的开发历时四年，最初以**VR32**的项目名称开始。任天堂签署了一项授权协议，使用由美国公司Reflection科技开发的3D LED目镜技术。任天堂还在[中国建立了一家工厂](https://zh.wikipedia.org/wiki/中国 "wikilink")，专门用于制造Virtual Boy。在开发过程中，由于高昂的成本和潜在的健康问题，游戏机的技术规模被任天堂逐渐降低。此外，公司越来越多的资源被重新分配给[任天堂64](../Page/任天堂64.md "wikilink")的开发。任天堂游戏设计师[宫本茂](../Page/宫本茂.md "wikilink")几乎没有参与到Virtual Boy的游戏软件开发中。为了专心于任天堂64主机的开发，任天堂于1995年将未开发完成的Virtual Boy推向市场。

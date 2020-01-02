@@ -1,3 +1,6 @@
+> 本文内容由[FunOrb](https://zh.wikipedia.org/wiki/FunOrb)转换而来。
+
+
 **FunOrb** 是一個以[Java](../Page/Java.md "wikilink")為遊戲引擎的網頁遊戲平台，開發公司為[Jagex](../Page/Jagex.md "wikilink") Ltd.。 FunOrb的遊戲類型與[Runescape略為不同](https://zh.wikipedia.org/wiki/Runescape "wikilink")，前者為小型遊戲而後者則為[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人在線角色扮演遊戲 "wikilink")。現時Funorb總共有4個版本，分別是[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")、[法文及](https://zh.wikipedia.org/wiki/法文 "wikilink")[葡萄牙文](https://zh.wikipedia.org/wiki/葡萄牙文 "wikilink")。於2009年12月3日，Jagex推出了第一款[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，Bouncedown，予[iPhone及](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。
 
 ## 基本

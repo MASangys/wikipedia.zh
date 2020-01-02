@@ -1,3 +1,6 @@
+> 本文内容由[LaLa](https://zh.wikipedia.org/wiki/LaLa)转换而来。
+
+
 《****》是[白泉社](../Page/白泉社.md "wikilink")發行的少女漫畫雜誌。1976年創刊。原為「[花與夢](../Page/花與夢.md "wikilink")」的別冊，之後獨立月刊。
 
 ## 目前連載作品

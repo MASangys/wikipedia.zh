@@ -1,3 +1,6 @@
+> 本文内容由[GN-003 主天使GUNDAM](https://zh.wikipedia.org/wiki/GN-003_主天使GUNDAM)转换而来。
+
+
 | **主天使GUNDAM**                                                                                          |
 | ------------------------------------------------------------------------------------------------------ |
 | [GN-003 主天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-003_Gundam_Kyrios.jpg "fig:GN-003 主天使GUNDAM") |

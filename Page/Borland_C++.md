@@ -1,3 +1,6 @@
+> 本文内容由[Borland C++](https://zh.wikipedia.org/wiki/Borland_C++)转换而来。
+
+
 **Borland C++**是[C++](../Page/C++.md "wikilink")程式的開發環境（可稱之[-{zh-cn:集成开发环境; zh-sg:整合开发环境; zh-hant:整合開發環境;}-](../Page/集成开发环境.md "wikilink")，Integrated Development Environment, [IDE](https://zh.wikipedia.org/wiki/IDE "wikilink")）有 DOS版與 Windows 版。Borland C++的前身是[Turbo C++](../Page/Turbo_C++.md "wikilink")。Borland C++ 最後的版本是5.02。另外，Borland C++ 5.5僅有命令行功能。
 
 ## 架構

@@ -1,3 +1,6 @@
+> 本文内容由[Last.fm](https://zh.wikipedia.org/wiki/Last.fm)转换而来。
+
+
 **Last.fm**是一个以[英国为总部的](https://zh.wikipedia.org/wiki/英国 "wikilink")[網路電台和音乐社区](https://zh.wikipedia.org/wiki/網路電台 "wikilink")。有遍布232个国家超过1500万的活跃听众。2007年被[CBS互動](../Page/CBS互動.md "wikilink")以2.8亿美元价格收购，是目前歐洲Web 2.0網站中成交價最高的紀錄。
 
 Last.fm使用的音樂推薦方式稱為「Last.fm Scrobbler」，該系統提供安裝在使用者的電腦播放程式（支持[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[Winamp](../Page/Winamp.md "wikilink")、[Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[Foobar2000](../Page/Foobar2000.md "wikilink")等）或隨身聽裝置的[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")，記錄（scrobbling）使用者收聽的每一首歌（線上串流電台或本地音樂檔案）的資訊，傳送回Last.fm資料庫，並以其建立該使用者的個人音樂品味，顯示在該站提供予使用者的個人網頁上。該站亦提供多種[社交網路服務](../Page/社交網路服務.md "wikilink")，可讓使用者推薦或收聽合其喜好的音樂。

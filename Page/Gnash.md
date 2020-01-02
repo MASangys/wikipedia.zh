@@ -1,3 +1,6 @@
+> 本文内容由[Gnash](https://zh.wikipedia.org/wiki/Gnash)转换而来。
+
+
 {{ Infobox Software | name = Gnash | logo = | screenshot = [Gnash-0.8.0.png](https://zh.wikipedia.org/wiki/File:Gnash-0.8.0.png "fig:Gnash-0.8.0.png") | caption = Screenshot of Gnash 0.8.0 GTK+ GUI with test SWF file | maintainer = [Rob Savoye](https://zh.wikipedia.org/wiki/Rob_Savoye "wikilink") | developer = [Rob Savoye](https://zh.wikipedia.org/wiki/Rob_Savoye "wikilink"), Sandro Santilli, Bastiaan Jacques, Vitaly Alexeev, Tomas Groth, Udo Giacomozzi, Hannes Mayr, Markus Gothe, Ann Barcomb. | latest_release_version = 0.8.10 | latest_release_date =  | operating_system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre = [直譯器](../Page/直譯器.md "wikilink")，[媒體播放器](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website = <https://web.archive.org/web/20070420072316/http://www.gnashdev.org/> }}
 
 **Gnash** 計畫致力於發展一個播放Flash的[免費](https://zh.wikipedia.org/wiki/免費 "wikilink")[媒體播放器或](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")[外掛程式](https://zh.wikipedia.org/wiki/外掛程式 "wikilink")，來取代現有的[Adobe Flash Player](../Page/Adobe_Flash_Player.md "wikilink")。

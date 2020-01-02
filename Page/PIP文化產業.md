@@ -1,3 +1,6 @@
+> 本文内容由[PIP文化產業](https://zh.wikipedia.org/wiki/PIP文化產業)转换而来。
+
+
 **PIP文化產業**（簡稱**PIP**）是[香港](../Page/香港.md "wikilink")一個發展[表演藝術的文化](https://zh.wikipedia.org/wiki/表演藝術 "wikilink")[團體](https://zh.wikipedia.org/wiki/團體 "wikilink")，藝術總監為[詹瑞文](../Page/詹瑞文.md "wikilink")及[甄詠蓓](../Page/甄詠蓓.md "wikilink")。
 
 PIP文化產業是香港首家以表演藝術為起點發展而成的[文化產業機構](../Page/文化創意產業.md "wikilink")，以PIP文化理念（**P**leasure·**I**magination·**P**lay——喜悦．想像．遊戲）為核心，率先拓展香港開發未為完善的文化產業潛力，為未來發展出一種連結「[藝術](https://zh.wikipedia.org/wiki/藝術 "wikilink")」與「[生活](https://zh.wikipedia.org/wiki/生活 "wikilink")」的文化產業模式，締結商業及藝術伙伴，創造藝術的新價值、就業機會及經濟生產力，並培育藝術行業專才。

@@ -1,3 +1,6 @@
+> 本文内容由[Just can\'t help it.](https://zh.wikipedia.org/wiki/Just_can\'t_help_it.)转换而来。
+
+
 《**Just can't help it.**》（，*Just can't help it.*）是[東京事變](../Page/東京事變.md "wikilink")的第五張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2006年9月6日發行。發行當週即賣出3.0萬張，總計銷售額5.1萬張，名列2006年年度銷售榜第30位。初回限定為「Digipak紙盒仕樣」。
 
 ## 簡介

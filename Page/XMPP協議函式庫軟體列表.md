@@ -1,3 +1,6 @@
+> 本文内容由[XMPP協議函式庫軟體列表](https://zh.wikipedia.org/wiki/XMPP協議函式庫軟體列表)转换而来。
+
+
 下面列出Jabber / XMPP協議實作的函式庫。
 
 ## 開放源碼

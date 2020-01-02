@@ -1,3 +1,6 @@
+> 本文内容由[Adobe AIR](https://zh.wikipedia.org/wiki/Adobe_AIR)转换而来。
+
+
 **Adobe AIR**（AIR＝**Adobe Integrated Runtime**），开发代号為Apollo\[1\]，是一個跨作業系統[運行環境](https://zh.wikipedia.org/wiki/運行環境 "wikilink")，用來建造[RIA](../Page/丰富互联网应用程序.md "wikilink")，使用[Adobe Animate](../Page/Adobe_Animate.md "wikilink")、[Flex](https://zh.wikipedia.org/wiki/Adobe_Flex "wikilink")、[HTML](../Page/HTML.md "wikilink")與[AJAX](../Page/AJAX.md "wikilink")，可能部署為桌面應用程式。
 
 AIR是Adobe針對網路與桌面應用的結合所開發出來的技術，可以不必經由瀏覽器而對網路上的雲端程式做控制，也由於這是Adobe所開發的技術，因此能很順利的與Adobe旗下的[Photoshop等應用程式來進行開發](https://zh.wikipedia.org/wiki/Photoshop "wikilink")。

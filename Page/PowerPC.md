@@ -1,3 +1,6 @@
+> 本文内容由[PowerPC](https://zh.wikipedia.org/wiki/PowerPC)转换而来。
+
+
 [IBM_PowerPC601_PPC601FD-080-2_top.jpg](https://zh.wikipedia.org/wiki/File:IBM_PowerPC601_PPC601FD-080-2_top.jpg "fig:IBM_PowerPC601_PPC601FD-080-2_top.jpg") **PowerPC**（，有時簡稱**PPC**）是一種[精簡指令集](https://zh.wikipedia.org/wiki/精簡指令集 "wikilink")（[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")）架構的[中央處理器](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")（[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")），其基本的設計源自[IBM](../Page/IBM.md "wikilink")的[POWER](../Page/IBM_POWER.md "wikilink")（Performance Optimized With Enhanced RISC；《IBM Connect電子報》2007年8月號譯為「增強RISC性能優化」）架構。POWER是1991年，[Apple](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")、IBM、[Motorola組成的AIM联盟所發展出的](https://zh.wikipedia.org/wiki/Motorola "wikilink")[微處理器架構](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。PowerPC是整个[AIM联盟平台的一部分](https://zh.wikipedia.org/wiki/AIM联盟 "wikilink")，并且是到目前为止唯一的一部分。但蘋果電腦自2005年起，將旗下電腦產品轉用[Intel CPU](https://zh.wikipedia.org/wiki/Intel_CPU "wikilink")。
 
 PowerPC的历史可以追溯到早在1990年随RISC System/6000一起被介绍的IBM POWER架構。该设计是从早期的RISC架构（比如[IBM 801](https://zh.wikipedia.org/wiki/IBM_801 "wikilink")）与[MIPS架构的处理器得到灵感的](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")。

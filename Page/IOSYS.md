@@ -1,3 +1,6 @@
+> 本文内容由[IOSYS](https://zh.wikipedia.org/wiki/IOSYS)转换而来。
+
+
 **IOSYS**（）是設立在[日本](../Page/日本.md "wikilink")[北海道](../Page/北海道.md "wikilink")[札幌市](../Page/札幌市.md "wikilink")的[同人組織](https://zh.wikipedia.org/wiki/同人組織 "wikilink")。除此之外，也有登錄[法人](../Page/法人.md "wikilink")注冊成為[有限公司](../Page/有限公司.md "wikilink")。
 
 ## 概要

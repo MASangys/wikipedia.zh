@@ -1,3 +1,6 @@
+> 本文内容由[Noma \(餐廳\)](https://zh.wikipedia.org/wiki/Noma_\(餐廳\))转换而来。
+
+
 **Noma餐廳**（****），於2004年由，於[丹麥](https://zh.wikipedia.org/wiki/丹麥 "wikilink")[哥本哈根設立高尚食府](https://zh.wikipedia.org/wiki/哥本哈根 "wikilink")，也是[米其林星級兩粒](../Page/米其林指南.md "wikilink")\[1\]。 [Cyclonebill_Hvide_asparges_med_pocheret_aeggeblomme_og_skovmaerkesauce.jpg](https://zh.wikipedia.org/wiki/File:Cyclonebill_Hvide_asparges_med_pocheret_aeggeblomme_og_skovmaerkesauce.jpg "fig:Cyclonebill_Hvide_asparges_med_pocheret_aeggeblomme_og_skovmaerkesauce.jpg")黄和[香猪殃殃酱](https://zh.wikipedia.org/wiki/香猪殃殃 "wikilink").\]\] 而在2010、2011至2012年被評選為\[2\]\[3\]。
 
 由於有顧客集體食物中毒，經丹麥衞生部門源頭來自餐廳一名患病員工，同時批評餐廳未有即時通報，忽視員工不適的電郵，導致患病員工仍可於廚房工作。本餐廳將會提出改善措施\[4\]。

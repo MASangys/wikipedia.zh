@@ -1,3 +1,6 @@
+> 本文内容由[Google产品列表](https://zh.wikipedia.org/wiki/Google产品列表)转换而来。
+
+
 **Google产品列表**列出了[Google](../Page/Google.md "wikilink")所有重要的自行开发或通过并购获得的桌面软件、手机、和互联网产品。这些产品或者是已经正式上线，或者在公测之中（Beta版），或者是[Google实验室的试验产品](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")。下面的列表还包括以前的已经被合并、放弃或更名的产品。产品的功能，比如网络-{A|zh:搜索; zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 ## 网络产品

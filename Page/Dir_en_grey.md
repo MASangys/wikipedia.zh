@@ -1,3 +1,6 @@
+> 本文内容由[Dir en grey](https://zh.wikipedia.org/wiki/Dir_en_grey)转换而来。
+
+
 **Dir en grey**是一支成立於1997年的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。自1999年樂團出道以來，他們的曲風不斷轉變，而難以歸類於單一的[音樂類型中](https://zh.wikipedia.org/wiki/音樂類型 "wikilink")。他們最初以[視覺系](../Page/視覺系.md "wikilink")的形象出道，但近年已大幅減少[視覺系](../Page/視覺系.md "wikilink")的華麗裝扮。\[1\] \[2\] Dir en grey 已在[亞洲](https://zh.wikipedia.org/wiki/亞洲 "wikilink")、[歐洲和](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北美等地區舉辦巡迴演唱](https://zh.wikipedia.org/wiki/北美 "wikilink")，\[3\]\[4\]美國《[告示牌](https://zh.wikipedia.org/wiki/告示牌 "wikilink")》雜誌形容他們「用音樂超越了語言的阻礙」、「以非英文的歌詞獲得許多外國歌迷的支持」。\[5\]
 
 ## 團名

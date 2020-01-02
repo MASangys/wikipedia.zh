@@ -1,3 +1,6 @@
+> 本文内容由[O的故事](https://zh.wikipedia.org/wiki/O的故事)转换而来。
+
+
 《**O的故事**》（），又譯《**O孃的故事**》，是1954年出版的一部[情色小說](https://zh.wikipedia.org/wiki/情色小說 "wikilink")，由[法国女作家](https://zh.wikipedia.org/wiki/法国 "wikilink")[安娜·德克洛](https://zh.wikipedia.org/wiki/安娜·德克洛 "wikilink")（1907－1998）以「波莉娜·雷阿日」為[筆名](../Page/筆名.md "wikilink")而創作。
 
 德克洛在當時並未透露她是該書的作者，直到40年後，也就是她逝世前4年才公諸於世。據德克洛所言，她是將該書當作情書的一部份獻給她的愛人[尚·波朗](https://zh.wikipedia.org/wiki/尚·波朗 "wikilink")，因為波朗很欣賞[薩德侯爵](../Page/薩德侯爵.md "wikilink")的情色作品。

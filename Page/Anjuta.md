@@ -1,3 +1,6 @@
+> 本文内容由[Anjuta](https://zh.wikipedia.org/wiki/Anjuta)转换而来。
+
+
 {{ Infobox_Software | name = Anjuta | logo = Anjuta.svg | logo size = 50px | screenshot = Anjuta-2.0.0-2.png | screenshot size = 250px | caption = 正在使用類別繼承圖與[虛擬終端機的Anjuta](../Page/虚拟终端.md "wikilink") 2 | developer = Anjuta開發團隊 | latest_release_version = 3.28.0\[1\] | latest_release_date =  | latest_preview_version = 3.25.91\[2\] | latest_preview_date =  | operating_system = [Linux](../Page/Linux.md "wikilink") | platform = [GNOME](../Page/GNOME.md "wikilink") | genre = [整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink") | license = [GNU通用公共許可證](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink") | website = <http://www.anjuta.org/> }}
 
 **Anjuta**是一個用來撰寫[C](https://zh.wikipedia.org/wiki/C語言 "wikilink")／[C++](../Page/C++.md "wikilink")程式的[整合開發環境](https://zh.wikipedia.org/wiki/整合開發環境 "wikilink")，使用在[GNOME](../Page/GNOME.md "wikilink")桌面環境上。Anjuta擁有專案管理、[應用程式建立精靈以及整合的除錯器與](https://zh.wikipedia.org/wiki/應用程式 "wikilink")[Glade](../Page/Glade.md "wikilink")視窗介面設計工具等功能。其[原始碼編輯器也支援](https://zh.wikipedia.org/wiki/原始碼 "wikilink")[語法高亮度顯示](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")。

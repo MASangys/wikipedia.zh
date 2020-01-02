@@ -1,3 +1,6 @@
+> 本文内容由[Yahoo奇摩](https://zh.wikipedia.org/wiki/Yahoo奇摩)转换而来。
+
+
 **Yahoo奇摩**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[入口網站之一](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，為[Verizon Media旗下入口網站](../Page/Verizon_Media.md "wikilink")[雅虎](../Page/雅虎.md "wikilink")的台灣版，由[香港](../Page/香港.md "wikilink")商雅虎資訊股份有限公司台灣分公司代表Verizon Media台灣公司營運\[1\]。該網站於2001年10月[雅虎台灣](../Page/雅虎台灣.md "wikilink")與[奇摩站](../Page/奇摩站.md "wikilink")合併後成立，網址續用雅虎台灣的「tw.yahoo.com」。因為合併的緣故，所以雅虎在台灣的服務名稱，部分與世界各地通用的「Yahoo\!」品牌不同\[2\]，但是帳號與全球的雅虎網站是共通的。
 
 ## 歷史沿革

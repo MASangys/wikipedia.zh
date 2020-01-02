@@ -1,3 +1,6 @@
+> 本文内容由[Folklore -異魂傳承-](https://zh.wikipedia.org/wiki/Folklore_-異魂傳承-)转换而来。
+
+
 《**Folklore -異魂傳承-**》（日版標題：、美版標題：Folklore）由前[CAPCOM製作人](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[岡本吉起](../Page/岡本吉起.md "wikilink")所設立的[Game Republic](https://zh.wikipedia.org/wiki/Game_Republic "wikilink")（代表作：源氏）開發，是一款[PlayStation 3的](../Page/PlayStation_3.md "wikilink")[幻想](https://zh.wikipedia.org/wiki/幻想 "wikilink")[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[冒險](../Page/冒險.md "wikilink")遊戲。本遊戲利用PlayStation 3的驚人表現力來活現世界觀對玩家帶來驚嚇和感動的情節。遊戲的中文版將於2007年9月27日發售。
 
 <small>備註：遊戲開發初期代號為「*MONSTER KINGDOM UNKNOWN REALMS*」，未知是否與[PlayStation Portable發售的](../Page/PlayStation_Portable.md "wikilink")《Monster Kingdom Jewel Summoner》有關聯。</small>

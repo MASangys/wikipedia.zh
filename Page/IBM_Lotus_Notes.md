@@ -1,3 +1,6 @@
+> 本文内容由[IBM Lotus Notes](https://zh.wikipedia.org/wiki/IBM_Lotus_Notes)转换而来。
+
+
 **IBM Lotus Notes**是一个[协作客户端](https://zh.wikipedia.org/wiki/协作 "wikilink")-服务器平台的[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。IBM [Lotus Domino是此应用程序的](https://zh.wikipedia.org/wiki/Lotus_Domino "wikilink")[服务器端](https://zh.wikipedia.org/wiki/服务器端 "wikilink")。2012年11月, IBM宣布将要放弃Lotus品牌，转而使用IBM品牌来识别包括Notes和Domino这样的产品。\[1\]
 
 Lotus Notes提供了集成协作功能，包括电子邮件、日历、联系人管理、任务跟踪、即时通信、一个办公生产力套件（[IBM Lotus Symphony](https://zh.wikipedia.org/wiki/IBM_Lotus_Symphony "wikilink")）以及访问其他Lotus Domino应用程序和数据库的能力。Lotus Notes还可以集成额外的协作能力，包括音视频会议、在线会议、讨论组、论坛、博客、文件共享、微博以及用户目录。除了这些标准的应用程序，组织还可以使用IBM Lotus Domino Designer开发环境以及其他工具来开发额外的集成应用程序，如请求批准/工作流以及文档管理。

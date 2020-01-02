@@ -1,3 +1,6 @@
+> 本文内容由[STANAG彈匣](https://zh.wikipedia.org/wiki/STANAG彈匣)转换而来。
+
+
 [STANG_30Rs_Mag.png](https://zh.wikipedia.org/wiki/File:STANG_30Rs_Mag.png "fig:STANG_30Rs_Mag.png")（Colt）生產的30發STANAG彈匣，常見於美軍的M16及M4上。\]\] [Stanag_mags.jpg](https://zh.wikipedia.org/wiki/File:Stanag_mags.jpg "fig:Stanag_mags.jpg")（Heckler & Koch）生產的30發彈匣。\]\] **STANAG彈匣**（STANAG magazine）是指[北約](https://zh.wikipedia.org/wiki/北約 "wikilink")（NATO）制式[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步槍彈匣標準](https://zh.wikipedia.org/wiki/步槍 "wikilink")，這種標準是因為1980年10月北約提出4179号[标准化协议](../Page/标准化协议.md "wikilink")（STANAG 4179），統一口徑以易於各成員國間彈藥及彈匣共用\[1\]及降低後勤工作量。當時北約決定採用[M16突擊步槍](../Page/M16突擊步槍.md "wikilink")的彈匣作標準，其後大部份成員國跟隨採用，但亦有小數成員國認為可靠性不足而採用其他彈匣。然而，可靠性問題仍然持續出現，有些步槍因其設計不能完全配合而發生卡彈等故障。近年這些軍用彈匣生產商亦不斷改良設計以提高可靠性，例如[黑克勒-科赫設計的新型](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")30發鋼製彈匣，而且仍然可與舊式鋁制彈匣通用。 [T91-3_(111).JPG](https://zh.wikipedia.org/wiki/File:T91-3_\(111\).JPG "fig:T91-3_(111).JPG") [65g_26mag_B.jpg](https://zh.wikipedia.org/wiki/File:65g_26mag_B.jpg "fig:65g_26mag_B.jpg")
 
 STANAG彈匣在成為制式後變成5.56×45毫米槍械的一種設計標準，相容STANAG彈匣的步槍可對應20、30、40發彈匣，亦可對應90發彈鼓或[Beta C-Mag 100發彈鼓](../Page/C-Mag彈鼓.md "wikilink")。除了成為軍用制式標準外，STANAG彈匣亦成為民用步槍如[AR-15等採用的彈匣](../Page/AR-15自動步槍.md "wikilink")，民間廠商亦有生產一些特別設計的彈匣以達到快速裝填的效果\[2\]。

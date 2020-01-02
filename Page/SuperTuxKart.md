@@ -1,3 +1,6 @@
+> 本文内容由[SuperTuxKart](https://zh.wikipedia.org/wiki/SuperTuxKart)转换而来。
+
+
 ***SuperTuxKart***是多平台[卡丁车](https://zh.wikipedia.org/wiki/卡丁车 "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")，[继承](../Page/继承.md "wikilink")自**TuxKart**，由*Game of the Month*团队改良而成。\[1\] 使用[自由软件](../Page/自由软件.md "wikilink")的[吉祥物作为赛车手](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")，可以分屏进行[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")。游戏形式上模仿[馬力歐賽車](https://zh.wikipedia.org/wiki/馬力歐賽車 "wikilink")，以最快到达终点为目的，在赛道上运用各种伎俩超出，包括使用路上的道具干扰对手的行动。
 
 遊戲0.6前使用PLIB引擎，从0.7开始切换图像引擎到Irrlicht引擎。\[2\]自0.9版開始使用Antarctica引擎。

@@ -1,3 +1,6 @@
+> 本文内容由[MP4播放器](https://zh.wikipedia.org/wiki/MP4播放器)转换而来。
+
+
 **MP4播放器**（在中國常簡稱為**MP4**）是從[中國大陸產生的常見](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")市場行銷名詞。\[1\]與MP3播放器這類幾乎廣泛播放[MPEG-1 Audio Layer 3音樂檔的設備不同](https://zh.wikipedia.org/wiki/MPEG-1_Audio_Layer_3 "wikilink")，MP4播放器跟[MPEG-4 Part 14格式並沒有直接關係](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink")。相反地，它被市場認定為是[MP3播放器的](https://zh.wikipedia.org/wiki/MP3播放器 "wikilink")“下一代”（3+1=4）。現在已有廠商發行MP4播放器的繼承者──**MP5播放器**。MP4播放器仍是目前市場的大宗，而各個廠商也製造了各式各樣的[MP5播放器](https://zh.wikipedia.org/wiki/MP5 "wikilink")。但是MP5播放器并没有明确的定义，而一些中国厂商已经开始制造所谓的“MP6”甚至“MP7”。\[2\]
 
 ## 晶片組

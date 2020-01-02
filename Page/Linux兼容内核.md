@@ -1,3 +1,6 @@
+> 本文内容由[Linux兼容内核](https://zh.wikipedia.org/wiki/Linux兼容内核)转换而来。
+
+
 **Linux兼容内核（Linux Unified Kernel，亦称 Longene）**，是一个[二进制兼容](https://zh.wikipedia.org/wiki/二进制 "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")应用软件和设备驱动程序的[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[操作系统](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。它试图在Linux内核的基础上利用Linux内核材料构建MS Windows内核功能模块从而扩充Linux内核的支持能力使之同时支持Linux和Windows的应用程序和设备驱动。
 
 兼容内核主要以[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")，以[GNU](../Page/GNU.md "wikilink")通用公共许可证授权使用。虽然兼容内核还处在初期开发阶段，但许多Windows程序已经可以在其上运行。與其相反但類似概念的是 [coLinux](https://zh.wikipedia.org/wiki/:Cooperative_Linux "wikilink")。[coLinux](https://zh.wikipedia.org/wiki/:Cooperative_Linux "wikilink") 是在[Windows上運行](https://zh.wikipedia.org/wiki/Windows "wikilink")[Linux](../Page/Linux.md "wikilink")应用软件。

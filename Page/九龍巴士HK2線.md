@@ -1,3 +1,6 @@
+> 本文内容由[九龍巴士HK2線](https://zh.wikipedia.org/wiki/九龍巴士HK2線)转换而来。
+
+
 **九龍巴士HK2線**是[香港](../Page/香港.md "wikilink")的一條巴士路線，由粉嶺鐵路站（百和路）往來[粉嶺奧運馬術比賽場地（雙魚河）](https://zh.wikipedia.org/wiki/香港奧運馬術場 "wikilink")。
 
 ## 歷史及簡介

@@ -1,3 +1,6 @@
+> 本文内容由[PigWIN](https://zh.wikipedia.org/wiki/PigWIN)转换而来。
+
+
 PigWIN是一个[模块化的](https://zh.wikipedia.org/wiki/模块化 "wikilink")[猪场管理软件](https://zh.wikipedia.org/wiki/猪场管理软件 "wikilink")，用户可以根据需要单独[购买相应的](https://zh.wikipedia.org/wiki/购买 "wikilink")[模块或直接购买整个](https://zh.wikipedia.org/wiki/模块 "wikilink")[套装](https://zh.wikipedia.org/wiki/套装 "wikilink")\[1\]。
 
 ## 模块列表

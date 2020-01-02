@@ -1,3 +1,6 @@
+> 本文内容由[HTC Tornado](https://zh.wikipedia.org/wiki/HTC_Tornado)转换而来。
+
+
 **HTC Tornado**（研發代號），是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，全球第一部內建Wi-Fi功能手機，Hurricane的升級版，2005年10月於歐洲首度發表，可分為三個版本[HTC Tempo](https://zh.wikipedia.org/wiki/HTC_Tempo "wikilink")（又稱[HTC Noble](https://zh.wikipedia.org/wiki/HTC_Noble "wikilink")），[HTC Hertz](https://zh.wikipedia.org/wiki/HTC_Hertz "wikilink")，[HTC Faraday](https://zh.wikipedia.org/wiki/HTC_Faraday "wikilink")。區別在於前兩者內建Wi-Fi，而HTC Tempo（HTC Noble）設计有多媒體按鍵。
 
 客製版本：

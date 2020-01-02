@@ -1,3 +1,6 @@
+> 本文内容由[Acer Aspire One](https://zh.wikipedia.org/wiki/Acer_Aspire_One)转换而来。
+
+
 **Acer Aspire one** 是[宏碁](../Page/宏碁.md "wikilink")的[小筆電或](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[netbook系列產品名稱](https://zh.wikipedia.org/wiki/netbook "wikilink")，於2008年7月發表\[1\]，採用[英特爾Atom](https://zh.wikipedia.org/wiki/英特爾Atom "wikilink") N270微處理器、[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")945GSE Express晶片組和英特爾82801GBM(ICH7M) I/O控制器。\[2\]該生產線由[廣達電腦](../Page/廣達電腦.md "wikilink")代工生產，\[3\]它備有多種顏色可供選擇，如貝殼白、寶石藍、金黃色、黑瑪瑙色及珊瑚粉紅。其主要競爭對手在[小筆電市場中有](https://zh.wikipedia.org/wiki/小筆電 "wikilink")[華碩](../Page/華碩.md "wikilink")的[Eee PC和](https://zh.wikipedia.org/wiki/Eee_PC "wikilink")[戴爾](../Page/戴爾.md "wikilink")的[Inspiron Mini 9](https://zh.wikipedia.org/wiki/Inspiron_Mini_9 "wikilink")。據業界通訊報導，宏碁及廣達已經陷入困境，生產 Aspire one 的一個生產線將在2009年轉移到其他製造商。\[4\]
 
 [CNET](../Page/CNET.md "wikilink")編輯對Aspire One的評價是相當正面的\[5\]，儘管它只是市場上較早出現的netbook，而其他廠商亦有計劃發表更優秀的產品。

@@ -1,3 +1,6 @@
+> 本文内容由[B树](https://zh.wikipedia.org/wiki/B树)转换而来。
+
+
 在[计算机科学](../Page/计算机科学.md "wikilink")中，**B树**（）是一种自平衡的[树](../Page/树_\(数据结构\).md "wikilink")，能够保持数据有序。這種資料結構能夠讓查找數據、顺序访问、插入數據及刪除的動作，都在[對數時間內完成](https://zh.wikipedia.org/wiki/时间复杂度#对数时间 "wikilink")。B树，概括来说是一个一般化的[二元搜尋樹](../Page/二元搜尋樹.md "wikilink")（binary search tree）一個節點可以拥有2个以上的子节点。与[自平衡二叉查找树不同](https://zh.wikipedia.org/wiki/自平衡二叉查找树 "wikilink")，B树适用于读写相对大的数据块的存储系统，例如磁盘。B树减少定位记录时所经历的中间过程，从而加快存取速度。B树这种数据结构可以用来描述外部存储。這種資料結構常被應用在[数据库](../Page/数据库.md "wikilink")和[文件系统](../Page/文件系统.md "wikilink")的实现上。
 
 ## 概述

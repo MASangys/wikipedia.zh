@@ -1,3 +1,6 @@
+> 本文内容由[MNS血型系统](https://zh.wikipedia.org/wiki/MNS血型系统)转换而来。
+
+
 **MNS血型系统**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**MNS antigen system**），亦称**MNS抗原系统**或**MNSs血型系统**，是[人类血型系统](../Page/人类血型系统.md "wikilink")之一。其编码基因位于[4号染色体上](https://zh.wikipedia.org/wiki/4號染色體_\(人類\) "wikilink")。MNS血型系统包括超过40种抗原，其中四种最为重要，分别称为**M**、**N**、**S**、**s**抗原，它们对应的抗体都与[输血反应有关](https://zh.wikipedia.org/wiki/输血反应 "wikilink")。
 
 M、N、S、s抗原均为[糖蛋白](https://zh.wikipedia.org/wiki/糖蛋白 "wikilink")，与MN有关的糖蛋白称为**血型糖蛋白A**（glycophorins A，GPA），与Ss有关的称为**血型糖蛋白B**（glycophorins B，GPB）。

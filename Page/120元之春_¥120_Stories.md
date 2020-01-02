@@ -1,3 +1,6 @@
+> 本文内容由[120元之春 ¥120 Stories](https://zh.wikipedia.org/wiki/120元之春_¥120_Stories)转换而来。
+
+
 《**120元之春 ¥120 Stories**》（）是[Interchannel於](https://zh.wikipedia.org/wiki/Interchannel-Holon "wikilink")2005年2月24日發售的[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[電子小說類型](https://zh.wikipedia.org/wiki/電子小說 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")。\[1\]
 
 ## 概要

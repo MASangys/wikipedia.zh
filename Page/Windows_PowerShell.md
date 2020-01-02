@@ -1,3 +1,6 @@
+> 本文内容由[Windows PowerShell](https://zh.wikipedia.org/wiki/Windows_PowerShell)转换而来。
+
+
 **PowerShell**（包括**Windows PowerShell**和**PowerShell Core**）是[微軟公司开发的任务自动化和](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[組態管理](../Page/組態管理.md "wikilink")框架，由[.NET Framework和](../Page/.NET框架.md "wikilink")[.NET Core是构建的](../Page/.NET_Core.md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[殼層](../Page/殼層.md "wikilink")相关脚本语言组成，最初仅Windows组件，后于2016年8月18日[开源并](../Page/开放源代码.md "wikilink")[跨平台支持](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。\[1\]
 
 在PowerShell中，管理任务通常由cmdlets（发音为command-lets）执行，这是执行特定操作的专用.NET[类](../Page/类_\(计算机科学\).md "wikilink")。可以将cmdlet集合至脚本、可执行文件（一般是独立应用程序）中，或通过常规.NET类（或WMI / COM对象）实例化。\[2\]\[3\]通过访问不同数据存储中的数据由PowerShell运行，如[资源管理器或](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")[注册表](../Page/注册表.md "wikilink")。

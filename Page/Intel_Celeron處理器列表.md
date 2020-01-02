@@ -1,3 +1,6 @@
+> 本文内容由[Intel Celeron處理器列表](https://zh.wikipedia.org/wiki/Intel_Celeron處理器列表)转换而来。
+
+
 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") **[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")**是針對入門級使用者的低階處理器。
 
 ## 桌上型處理器

@@ -1,3 +1,6 @@
+> 本文内容由[FaceKoo](https://zh.wikipedia.org/wiki/FaceKoo)转换而来。
+
+
 **飞思酷**（**FaceKoo**），是一家以图片搜脸开始的中文[社交网络服务网站](https://zh.wikipedia.org/wiki/社交网络服务 "wikilink")。该网站目前已关闭。
 
 ## 简介

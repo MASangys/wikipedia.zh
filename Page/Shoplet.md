@@ -1,3 +1,6 @@
+> 本文内容由[Shoplet](https://zh.wikipedia.org/wiki/Shoplet)转换而来。
+
+
 **Shoplet**.com 是一所[美國公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，他們是一間專門售賣[文具](../Page/文具.md "wikilink")和[辦工室用品的](https://zh.wikipedia.org/wiki/辦工室用品 "wikilink")[網上商店](https://zh.wikipedia.org/wiki/網上商店 "wikilink")。除了要在辦公室產品業立足及打出名堂外，Shoplet.com的目標是要挑戰並超越大形而有實在店鋪的銷售商如[Staples](https://zh.wikipedia.org/wiki/Staples "wikilink")，[Office Max](https://zh.wikipedia.org/wiki/Office_Max "wikilink") 和 [WB Mason等](https://zh.wikipedia.org/wiki/WB_Mason "wikilink")。
 
 ## 歷史

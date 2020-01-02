@@ -1,3 +1,6 @@
+> 本文内容由[ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES.)转换而来。
+
+
 ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.是日本搖滾樂團[ASIAN KUNG-FU GENERATION主辦的一個Live](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink") Event。概念來自『全日本樓底最低的Rock Festival』。Event名稱的由來是，樂團成員以當時所知的最小單位「[Nano](https://zh.wikipedia.org/wiki/Nano "wikilink")」（一米的十億份之一，代號n）及「[無限](https://zh.wikipedia.org/wiki/無限 "wikilink")」取「從最小至最大」之意思。
 
 一般都被認為在日本武道館所舉行的那次是第一次，其實在主要演出之前已曾舉辦過了。

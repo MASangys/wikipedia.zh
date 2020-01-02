@@ -1,3 +1,6 @@
+> 本文内容由[MCA](https://zh.wikipedia.org/wiki/MCA)转换而来。
+
+
 **MCA**可以是下列意思：
 
   - [行動醫療助理](https://zh.wikipedia.org/wiki/行動醫療助理 "wikilink")（Mobile Clinical Assistant），医用[电脑](https://zh.wikipedia.org/wiki/电脑 "wikilink")，行動醫療助理的[英文简称](https://zh.wikipedia.org/wiki/英文 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Et tu, Brute\?](https://zh.wikipedia.org/wiki/Et_tu,_Brute\?)转换而来。
+
+
 [Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg](https://zh.wikipedia.org/wiki/File:Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg "fig:Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg") “（）”是一句[拉丁語名言](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")。被后世普遍認為是[凯撒臨死前对刺杀自己的养子](../Page/尤利烏斯·凱撒.md "wikilink")[布魯圖說的最后一句話](../Page/马尔库斯·尤利乌斯·布鲁图斯.md "wikilink")。凯撒是[羅馬共和國的将军](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")，[執政官](../Page/罗马执政官.md "wikilink")、[獨裁官](../Page/獨裁官.md "wikilink")，战功显赫，后期走向独裁，罗马元老院对其日益膨胀的权力不满，于是谋杀了凯撒，凯撒的助手、摯友和養子布魯圖也参与其中。
 
 这句话是拉丁文，[中文一般譯作](../Page/汉语.md "wikilink")“還有你嗎，[布魯圖](../Page/马尔库斯·尤利乌斯·布鲁图斯.md "wikilink")？”或者“吾儿，亦有汝焉？”。這句話被廣泛用于西方文學作品中，代表背叛最亲近的人。

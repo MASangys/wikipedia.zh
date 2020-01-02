@@ -1,3 +1,6 @@
+> 本文内容由[Windows 7开发历史](https://zh.wikipedia.org/wiki/Windows_7开发历史)转换而来。
+
+
 **[Windows 7开发历史](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")**从[Windows Vista发布后开始记录](../Page/Windows_Vista.md "wikilink")。
 
 Milestone 1、Milestone 2和Milestone 3在2008年被送给微软合作伙伴。2008年10月，[微软](../Page/微软.md "wikilink")在[專業開發者大會](https://zh.wikipedia.org/wiki/專業開發者大會 "wikilink")(PDC)大会上公布了Build 6801并且宣布Beta版将在1月发布。RC版本将会在2009年4月30日提供给[MSDN和](https://zh.wikipedia.org/wiki/MSDN "wikilink")[Technet的订阅用户](https://zh.wikipedia.org/wiki/Technet "wikilink")，而在2009年5月5日向公众发布。2009年7月22日微軟發行最後一版的Windows 7給製造廠商。\[1\]8月6日，MSDN和Technet的订阅用户可以下载該版本。各种不同的版本也已经泄漏。微软确认正式版[Windows 7将在](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")2009年10月22日发布。

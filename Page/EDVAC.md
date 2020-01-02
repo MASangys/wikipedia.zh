@@ -1,3 +1,6 @@
+> 本文内容由[EDVAC](https://zh.wikipedia.org/wiki/EDVAC)转换而来。
+
+
 [Edvac.jpg](https://zh.wikipedia.org/wiki/File:Edvac.jpg "fig:Edvac.jpg")
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Women_holding_parts_of_the_first_four_Army_computers.jpg "fig:缩略图") **离散变量自动电子计算机**（，）是一台[美国](../Page/美国.md "wikilink")早期[电子计算机](../Page/电子计算机.md "wikilink")。与它的前任[ENIAC不同](https://zh.wikipedia.org/wiki/ENIAC "wikilink")，EDVAC采用[二进制](https://zh.wikipedia.org/wiki/二进制 "wikilink")，而且是一台[冯·诺伊曼结构](../Page/冯·诺伊曼结构.md "wikilink")的计算机。

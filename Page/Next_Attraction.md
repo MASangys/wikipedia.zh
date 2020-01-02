@@ -1,3 +1,6 @@
+> 本文内容由[Next Attraction](https://zh.wikipedia.org/wiki/Next_Attraction)转换而来。
+
+
 
 
 《**Next Attraction**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[洪卓立](../Page/洪卓立.md "wikilink")於2008年10月30日發行的第三張個人[音樂專輯](../Page/音樂專輯.md "wikilink")。專輯包括CD和DVD各一。

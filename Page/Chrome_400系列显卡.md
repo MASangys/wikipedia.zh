@@ -1,3 +1,6 @@
+> 本文内容由[Chrome 400系列显卡](https://zh.wikipedia.org/wiki/Chrome_400系列显卡)转换而来。
+
+
 **Chrome 400**系列顯示卡是[威盛旗下子公司](https://zh.wikipedia.org/wiki/VIA "wikilink")[S3 Graphics的產品](../Page/S3_Graphics.md "wikilink")，特色是其高清晰影片播放功能，和核心的低功耗。由於顯示核心只支援64-bit顯示記憶體，普遍認為VIA已調整策略，不再追求核心的效能，已轉注顯示卡的影像播放表現。首批Chrome 400系列顯示卡於2008年2月底推出，型號包括Chrome 430和Chrome 440等。
 
 ## 產品技術

@@ -1,3 +1,6 @@
+> 本文内容由[L.A.刺青客](https://zh.wikipedia.org/wiki/L.A.刺青客)转换而来。
+
+
 **《L.A.刺青客》（***LA Ink***）**是一個[真人秀的節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，內容取材於一間位在[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")「High Voltage Tattoo」刺青店。此節目為《[邁阿密刺青客](../Page/邁阿密刺青客.md "wikilink")》的延伸，於2007年8月7日在美國首播\[1\]。
 
 第二季已於2008年1月8日開始播映。

@@ -1,3 +1,6 @@
+> 本文内容由[Bucherer–Bergs反应](https://zh.wikipedia.org/wiki/Bucherer–Bergs反应)转换而来。
+
+
 **Bucherer–Bergs反应**，是[羰基](../Page/羰基.md "wikilink")化合物（如[醛](../Page/醛.md "wikilink")類、[酮](../Page/酮.md "wikilink")類）与[氰化钾](../Page/氰化钾.md "wikilink")及[碳酸铵](../Page/碳酸铵.md "wikilink")，或[氰醇与碳酸铵直接反应生成](https://zh.wikipedia.org/wiki/氰醇 "wikilink")[乙内酰脲](../Page/乙内酰脲.md "wikilink")类化合物的反应。\[1\]\[2\]\[3\]\[4\] 反应以德国化学家[汉斯·布克尔](https://zh.wikipedia.org/wiki/汉斯·布克尔 "wikilink")（Hans Theodor Bucherer）和H. Bergs的名字命名。
 
 [Bucherer_Übersicht.svg](https://zh.wikipedia.org/wiki/File:Bucherer_Übersicht.svg "fig:Bucherer_Übersicht.svg")

@@ -1,3 +1,6 @@
+> 本文内容由[Gentoo Linux](https://zh.wikipedia.org/wiki/Gentoo_Linux)转换而来。
+
+
 **Gentoo Linux**（）是一種[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，基于[Portage](../Page/Portage.md "wikilink")包管理系统，而擁有幾乎無限制的適應性特性，被官方稱作元发行版（meta-distribution）\[1\]，支持多達10種以上的[電腦系統結構平台](https://zh.wikipedia.org/wiki/電腦系統結構 "wikilink")。此项目和它的产品以[巴布亚企鵝命名](https://zh.wikipedia.org/wiki/巴布亚企鵝 "wikilink")。Gentoo包管理系统的设计是模块化、可移植、易维护、灵活以及针对用户机器优化的。软件包从源代码构建，这延续了ports的传统。但是为了方便，也提供一些大型软件包在多种架构的预编译二进制文件，用户亦可自建或使用第三方二进制包镜像来直接安装二进制包。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[Single \(專輯\)](https://zh.wikipedia.org/wiki/Single_\(專輯\))转换而来。
+
+
 **《Single》**\[1\]是[香港](../Page/香港.md "wikilink")[天后](../Page/天后.md "wikilink")[楊千嬅](../Page/楊千嬅.md "wikilink")於2005年4月22日由[金牌娛樂發行的第二張個人粵語大碟](https://zh.wikipedia.org/wiki/金牌娛樂 "wikilink")。唱碟題目《Single》並非指[單曲唱碟](https://zh.wikipedia.org/wiki/單曲 "wikilink")（本唱碟乃**專輯**而非單曲唱碟，且單曲唱碟在香港**不是**主流音樂出版方式），而是指「[單身](../Page/單身.md "wikilink")」，以歌曲代表[女性](../Page/女性.md "wikilink")的心情\[2\]。唱片銷量不俗，成為2005年最暢銷十張的本地唱片之一\[3\]，更獲得演藝動力大獎2005—最突出唱片提名\[4\]。《Single》特別版加送AVCD一張，當中加錄了楊千嬅與[吳彥祖](../Page/吳彥祖.md "wikilink")領銜主演電影《[千杯不醉](../Page/千杯不醉.md "wikilink")》主題曲《我的醉愛》，以及五首大熱新曲MV。
 
 第一主打《長信不如短訊》成為她該年首支[四台冠軍歌曲](../Page/2005年度香港四台冠軍歌曲列表.md "wikilink")。年尾憑大熱第二主打兼[百威](../Page/百威.md "wikilink")廣告歌《烈女》第四度同年奪四台歌曲獎項，成為2005年唯一一位獲齊四台歌曲獎項的女歌手。

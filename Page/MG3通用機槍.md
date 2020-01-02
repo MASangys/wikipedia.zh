@@ -1,3 +1,6 @@
+> 本文内容由[MG3通用機槍](https://zh.wikipedia.org/wiki/MG3通用機槍)转换而来。
+
+
 [DCB_Shooting_MG42_Roller_system.JPG](https://zh.wikipedia.org/wiki/File:DCB_Shooting_MG42_Roller_system.JPG "fig:DCB_Shooting_MG42_Roller_system.JPG") **MG3**是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[萊茵金屬所生產的](https://zh.wikipedia.org/wiki/萊茵金屬 "wikilink")[彈鏈](../Page/彈鏈.md "wikilink")供彈[通用機槍](../Page/通用機槍.md "wikilink")，以[二戰德國的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[7.92×57毫米](https://zh.wikipedia.org/wiki/7.92×57mm毛瑟 "wikilink")[MG42通用機槍](../Page/MG42通用機槍.md "wikilink")改為[北約](https://zh.wikipedia.org/wiki/北約 "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[口徑而成](https://zh.wikipedia.org/wiki/口徑 "wikilink")。
 
 ## 歷史

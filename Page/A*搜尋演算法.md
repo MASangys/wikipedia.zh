@@ -1,3 +1,6 @@
+> 本文内容由[A\*搜尋演算法](https://zh.wikipedia.org/wiki/A\*搜尋演算法)转换而来。
+
+
 **A\*搜索算法**（A\* search algorithm）是一種在圖形平面上，有多個[節點的](https://zh.wikipedia.org/wiki/節點 "wikilink")[路徑](https://zh.wikipedia.org/wiki/路径 "wikilink")，求出最低通過[成本](../Page/成本.md "wikilink")的[演算法](../Page/算法.md "wikilink")。常用於遊戲中的NPC的移動計算，或[网络游戏](../Page/网络游戏.md "wikilink")的BOT的移動計算上。
 
 该算法综合了和[Dijkstra算法的优点](https://zh.wikipedia.org/wiki/Dijkstra算法 "wikilink")：在进行启发式搜索提高算法效率的同时，可以保证找到一条最优路径（基于评估函数）。

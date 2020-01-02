@@ -1,3 +1,6 @@
+> 本文内容由[FlightGear](https://zh.wikipedia.org/wiki/FlightGear)转换而来。
+
+
 **FlightGear**是一个始于1997年[多平台](https://zh.wikipedia.org/wiki/多平台 "wikilink")[飞行模拟器](https://zh.wikipedia.org/wiki/飞行模拟器 "wikilink")、[自由软件](../Page/自由软件.md "wikilink")项目。\[1\]
 
 它自1997年第一次发布以来不断发展，2007年12月发布1.0.0版本。该项目适用的[操作系统](../Page/操作系统.md "wikilink")主要包括[Linux](../Page/Linux.md "wikilink")、[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，需要支持[OpenGL](../Page/OpenGL.md "wikilink") 1.0。该项目采用[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")，故为[自由软件](../Page/自由软件.md "wikilink")。

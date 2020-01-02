@@ -1,3 +1,6 @@
+> 本文内容由[Domo君](https://zh.wikipedia.org/wiki/Domo君)转换而来。
+
+
 **Domo君**（），是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的一個官方[吉祥物](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")。它的形象是個有著黑色鈕扣狀雙眼及張口尖牙的毛茸茸棕色怪物。它在1998年首次在[日本](../Page/日本.md "wikilink")以靜態動畫的方式登場。
 
 ## 概要

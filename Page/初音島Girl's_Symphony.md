@@ -1,3 +1,6 @@
+> 本文内容由[初音島Girl\'s Symphony](https://zh.wikipedia.org/wiki/初音島Girl\'s_Symphony)转换而来。
+
+
 《'''初音島Girl's Symphony '''》（日語原名：）是一隻由[日本](../Page/日本.md "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")品牌[CIRCUS旗下](https://zh.wikipedia.org/wiki/CIRCUS_\(遊戲品牌\) "wikilink")[Sanctuary製作和發行的戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Sanctuary "wikilink")，是[初音島](../Page/初音島.md "wikilink")系列作的女性向作品，並採用[初音島II](../Page/初音島II.md "wikilink")的時間點。首個遊戲版本為電腦版[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")，於2008年9月26日推出。
 
 ## 歷史

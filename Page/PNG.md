@@ -1,3 +1,6 @@
+> 本文内容由[PNG](https://zh.wikipedia.org/wiki/PNG)转换而来。
+
+
 **便携式网络图形**（，**PNG**）是一种[无损压缩的](https://zh.wikipedia.org/wiki/无损压缩 "wikilink")[位图](../Page/位图.md "wikilink")图形格式，支持索引、[灰度](https://zh.wikipedia.org/wiki/灰度 "wikilink")、[RGB三种颜色方案以及](https://zh.wikipedia.org/wiki/RGB "wikilink")[Alpha通道等特性](https://zh.wikipedia.org/wiki/Alpha通道 "wikilink")。PNG的开发目标是改善并取代[GIF](../Page/GIF.md "wikilink")作为适合网络传输的格式而不需专利许可，所以被广泛应用于[互联网](../Page/互联网.md "wikilink")及其他方面上。
 
 PNG另一个非正式的名称来源为[递归缩写](../Page/递归缩写.md "wikilink")：“**P**NG is **N**ot **G**IF”。

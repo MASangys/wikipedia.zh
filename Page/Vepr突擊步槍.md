@@ -1,3 +1,6 @@
+> 本文内容由[Vepr突擊步槍](https://zh.wikipedia.org/wiki/Vepr突擊步槍)转换而来。
+
+
 **Vepr**（[烏克蘭語解為](https://zh.wikipedia.org/wiki/烏克蘭語 "wikilink")「野豬」）突擊步槍，是[烏克蘭在](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")2003年發佈的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 設計與歷史

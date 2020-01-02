@@ -1,3 +1,6 @@
+> 本文内容由[K-ON！輕音部](https://zh.wikipedia.org/wiki/K-ON！輕音部)转换而来。
+
+
 《**K-ON！輕音部**》（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**-{K-ON\!}-**，[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是[日本](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")[kakifly创作的](https://zh.wikipedia.org/wiki/kakifly "wikilink")[四格漫画作品](https://zh.wikipedia.org/wiki/四格漫画 "wikilink")，後來被改編成為同名[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 標題取日文“[輕音樂](https://zh.wikipedia.org/wiki/輕音樂 "wikilink")”（）一詞的前面四個[平假名](../Page/平假名.md "wikilink")。漫畫自2007年5月開始在[芳文社](../Page/芳文社.md "wikilink")四格漫畫月刊《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》上連載，並自2008年10月開始在芳文社雜誌《[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》上隔月連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")4卷。

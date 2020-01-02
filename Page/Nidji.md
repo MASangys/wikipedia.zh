@@ -1,3 +1,6 @@
+> 本文内容由[Nidji](https://zh.wikipedia.org/wiki/Nidji)转换而来。
+
+
 **Nidij**（彩虹）樂團，是一隊來自[印度尼西亞](https://zh.wikipedia.org/wiki/印度尼西亞 "wikilink")[雅加達的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。樂隊成員一共有六位，分別為主音Giring、貝斯手Andro、鍵盤手Run-D、結他手Rama、結他手Ariel、鼓手Adri。而Nidji名字由來源自日本的文字「niji」，意思為彩虹。
 
 ## 資料

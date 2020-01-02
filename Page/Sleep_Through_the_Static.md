@@ -1,3 +1,6 @@
+> 本文内容由[Sleep Through the Static](https://zh.wikipedia.org/wiki/Sleep_Through_the_Static)转换而来。
+
+
 ***Sleep Through the Static***是[創作歌手](../Page/創作歌手.md "wikilink")[傑克·強森](../Page/傑克·強森.md "wikilink")（Jack Johnson）的第五張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。在美國由「Brushfire」唱片公司於2008年2月5日發行。強森在他的網站上更新後宣佈發行。這是他第一張不是在夏威夷而是在洛杉磯灌錄的專輯，在洛杉磯的錄音室的設備全採用太陽能發電；而專輯包裝亦棄用傳統膠盒，改以再造紙製成封套，以貫徹傑克·強森的環保音樂概念。
 
 這張專輯曾經在12月時於BBC第一次現場演出給一些歌迷。之後世界各地的樂評家對這張專輯的反應多是冷淡的，收到的評論褒貶不一。

@@ -1,3 +1,6 @@
+> 本文内容由[Adobe Dreamweaver](https://zh.wikipedia.org/wiki/Adobe_Dreamweaver)转换而来。
+
+
 ****（前稱****）是公司的網站開發軟件。它使用[所見即所得的介面](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")，亦有編輯的功能。它現在有和系統的版本。原本由公司所開發。
 
 MX版本開始使用[Opera公司的](https://zh.wikipedia.org/wiki/Opera公司 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")「[Presto](../Page/Presto.md "wikilink")」作為網頁預覽。由CS4版本開始，則轉用[WebKit](../Page/WebKit.md "wikilink")排版引擎（亦即Google Chrome和Apple Safari瀏覽器所用的排版引擎）作為網頁預覽。

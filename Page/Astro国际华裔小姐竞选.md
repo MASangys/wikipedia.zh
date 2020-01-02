@@ -1,3 +1,6 @@
+> 本文内容由[Astro国际华裔小姐竞选](https://zh.wikipedia.org/wiki/Astro国际华裔小姐竞选)转换而来。
+
+
 《**Astro国际华裔小姐竞选**》，是[马来西亚](../Page/马来西亚.md "wikilink")[Astro华丽台举办的](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")。首届1998年冠军是[吴天瑜](https://zh.wikipedia.org/wiki/吴天瑜 "wikilink")，现任冠军是[彭嘉伊](https://zh.wikipedia.org/wiki/彭嘉伊 "wikilink")(2018年Astro国际华裔小姐)。由於选美合约有规定，每届[冠军会代表](https://zh.wikipedia.org/wiki/冠军 "wikilink")[马来西亚](../Page/马来西亚.md "wikilink")参加[TVB举办的](https://zh.wikipedia.org/wiki/TVB "wikilink")[国际中华小姐竞选](https://zh.wikipedia.org/wiki/国际中华小姐竞选 "wikilink")。\[1\]
 
 ## 历史

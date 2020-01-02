@@ -1,3 +1,6 @@
+> 本文内容由[光GENJI](https://zh.wikipedia.org/wiki/光GENJI)转换而来。
+
+
 **光GENJI**，是1980年代後期[日本](../Page/日本.md "wikilink")風靡一時的[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的男性偶像組合，當時光GENJI算是[SMAP](../Page/SMAP.md "wikilink")的前輩。在1987年6月25日，事務所方面把「GENJI」和「光」的兩個組合合併，成為「光GENJI」。同年8月19日由[Pony Canyon發行](https://zh.wikipedia.org/wiki/Pony_Canyon "wikilink")《[STAR LIGHT](../Page/STAR_LIGHT.md "wikilink")》開始出道。但組合在出道8年後，在1995年9月3日解散。名稱是由《[源氏物語](../Page/源氏物語.md "wikilink")》的主人公[光源氏](../Page/光源氏.md "wikilink")而來。值得一提，當初組成時他們亦稱為「**Light In Shadow**」。
 
 ## 成員

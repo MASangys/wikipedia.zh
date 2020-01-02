@@ -1,3 +1,6 @@
+> 本文内容由[WorldForge](https://zh.wikipedia.org/wiki/WorldForge)转换而来。
+
+
 **WorldForge**着力创建[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")框架。
 
 ## 历史

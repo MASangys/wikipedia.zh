@@ -1,3 +1,6 @@
+> 本文内容由[E级核潜艇](https://zh.wikipedia.org/wiki/E级核潜艇)转换而来。
+
+
 **E级核动力巡航导弹潜艇（北约代号：Echo class，另翻译为：“回声级”）**是[苏联](../Page/苏联.md "wikilink")第一级[核动力](https://zh.wikipedia.org/wiki/核动力 "wikilink")[巡航导弹潜艇](../Page/巡航导弹潜艇.md "wikilink")，由[红宝石设计局](../Page/红宝石设计局.md "wikilink")设计。
 
 ## 659型

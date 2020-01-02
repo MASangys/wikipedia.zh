@@ -1,3 +1,6 @@
+> 本文内容由[HOCUS POCUS](https://zh.wikipedia.org/wiki/HOCUS_POCUS)转换而来。
+
+
 **HOCUS POCUS**專輯，為[木村KAELA](../Page/木村KAELA.md "wikilink")個人通算第5張專輯，於2009年6月24日由哥倫比亞音樂發行。
 
 ## 解說

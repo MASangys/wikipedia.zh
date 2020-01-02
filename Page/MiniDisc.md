@@ -1,3 +1,6 @@
+> 本文内容由[MiniDisc](https://zh.wikipedia.org/wiki/MiniDisc)转换而来。
+
+
 **MiniDisc**（簡稱**MD**）是[索尼](../Page/索尼.md "wikilink")研發的一種儲存規格，其體積較CD小，直徑為6.4[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")，但容量與[CD](../Page/CD.md "wikilink")接近，並可重複讀寫。MiniDisc在[20世紀末有著不錯的發展](https://zh.wikipedia.org/wiki/20世紀 "wikilink")，但在[21世紀初幾乎被](https://zh.wikipedia.org/wiki/21世紀 "wikilink")[MP3所取代](../Page/數位音訊播放器.md "wikilink")。[MiniDiscLogo.png](https://zh.wikipedia.org/wiki/File:MiniDiscLogo.png "fig:MiniDiscLogo.png")
 
 ## 背景

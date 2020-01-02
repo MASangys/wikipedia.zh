@@ -1,3 +1,6 @@
+> 本文内容由[ADVANCE OF Ζ 时代的反抗者](https://zh.wikipedia.org/wiki/ADVANCE_OF_Ζ_时代的反抗者)转换而来。
+
+
 《**ADVANCE OF Ζ 时代的反抗者**》（，*ADVANCE OF Ζ THE TRAITOR TO DESTINY*）是[GUNDAM系列作品](../Page/GUNDAM系列作品.md "wikilink")[模型](https://zh.wikipedia.org/wiki/模型 "wikilink")[小说](../Page/小说.md "wikilink")之一，由[神野淳一主笔创作](https://zh.wikipedia.org/wiki/神野淳一 "wikilink")。
 
 ## 简介

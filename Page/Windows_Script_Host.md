@@ -1,3 +1,6 @@
+> 本文内容由[Windows Script Host](https://zh.wikipedia.org/wiki/Windows_Script_Host)转换而来。
+
+
 **Windows Script Host**（簡稱**WSH**），是[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[腳本語言](https://zh.wikipedia.org/wiki/腳本語言 "wikilink")[程式](https://zh.wikipedia.org/wiki/程式 "wikilink")（script）的執行環境。
 
 **Windows Script Host**最早出現在[Windows 98](../Page/Windows_98.md "wikilink")，經過不斷發展與強化，爾後的Windows作業系統（包括[用戶端與](https://zh.wikipedia.org/wiki/用戶端 "wikilink")[伺服端版本](https://zh.wikipedia.org/wiki/伺服端 "wikilink")）都內建了WSH。使用者透過Windows Script Host能自行編寫一些程式，用以簡化日常工作流程，或製作一些實用的系統管理程式。

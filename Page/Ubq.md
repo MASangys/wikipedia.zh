@@ -1,3 +1,6 @@
+> 本文内容由[Ubq](https://zh.wikipedia.org/wiki/Ubq)转换而来。
+
+
 **Ubq**是一種尚未被發現的化學[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")，它的暫定[化学符号是](https://zh.wikipedia.org/wiki/化学符号 "wikilink")**Ubq**，[原子序数](../Page/原子序数.md "wikilink")是124，位于第8周期、g4族，属于[g區元素之一](https://zh.wikipedia.org/wiki/g區元素 "wikilink")。
 
 ## 歴史

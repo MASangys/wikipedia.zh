@@ -1,3 +1,6 @@
+> 本文内容由[Visa payWave](https://zh.wikipedia.org/wiki/Visa_payWave)转换而来。
+
+
 **Visa payWave**，是[Visa在其](https://zh.wikipedia.org/wiki/Visa "wikilink")[借记卡](../Page/借记卡.md "wikilink")和[信用卡](../Page/信用卡.md "wikilink")上利用[EMV](../Page/EMV.md "wikilink")技术推出的一项非接觸式支付功能，當Visa payWave卡用於一般[刷卡機或觸碰式讀卡機時](https://zh.wikipedia.org/wiki/刷卡機 "wikilink")，晶片模組會依讀卡機型態自行進行判斷，發揮非接觸式支付功能。
 
 2007年9月，Visa 推出的Visa payWave非接觸支付技術的功能，它允許持卡人他們的卡的非接觸式支付終端前揮動而不需要物理刷卡或將卡插入一個銷售點設備。這是類似的[银联卡的](https://zh.wikipedia.org/wiki/银联卡 "wikilink")[闪付](../Page/闪付.md "wikilink")、[萬事達卡的](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")[MasterCard Contactless和](../Page/MasterCard_Contactless.md "wikilink")[美國運通](../Page/美國運通.md "wikilink")的[AE ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻辨識技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")）。

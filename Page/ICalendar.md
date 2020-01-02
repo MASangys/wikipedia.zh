@@ -1,3 +1,6 @@
+> 本文内容由[ICalendar](https://zh.wikipedia.org/wiki/ICalendar)转换而来。
+
+
 **iCalendar**是“[日曆數據交換](https://zh.wikipedia.org/wiki/日曆 "wikilink")”的標準（RFC 5545）。 此標準有時指的是“iCal”，即[蘋果公司的出品的一款同名日曆軟件](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")（見[iCal](https://zh.wikipedia.org/wiki/行事曆_\(Apple\) "wikilink")），這個軟件也是此標準的一種實現方式。
 
 iCalendar允許用戶通過電子郵件的方式發送“會議請求”或“任務”。收信人使用支持iCalendar郵件客戶端，便可以很方便地回應發件人，接受請求或另外提議一個新的會議時間。

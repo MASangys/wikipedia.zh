@@ -1,3 +1,6 @@
+> 本文内容由[V.](https://zh.wikipedia.org/wiki/V.)转换而来。
+
+
 《**V.**》是[托马斯·品钦](../Page/托马斯·品钦.md "wikilink")的首部长篇小说，出版于1963年。它讲述了一名转业的[美国海军水兵本尼](https://zh.wikipedia.org/wiki/美国海军 "wikilink")·普罗费恩和一群伪[波希米亚主义艺术家](https://zh.wikipedia.org/wiki/波希米亚主义 "wikilink")、一群以Whole Sick Crew之名为人所知的hangers-on重归纽约；以及一名名叫赫伯特·斯坦西尔的成年旅行者寻找一个名为“V.”的神秘事物的故事。
 
 ## 叙事手法

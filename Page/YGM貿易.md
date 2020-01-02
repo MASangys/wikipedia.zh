@@ -1,3 +1,6 @@
+> 本文内容由[YGM貿易](https://zh.wikipedia.org/wiki/YGM貿易)转换而来。
+
+
 [HK_Kln_Bay_Telford_Plaza_MICHEL_RENE_Shop_a.jpg](https://zh.wikipedia.org/wiki/File:HK_Kln_Bay_Telford_Plaza_MICHEL_RENE_Shop_a.jpg "fig:HK_Kln_Bay_Telford_Plaza_MICHEL_RENE_Shop_a.jpg") **YGM貿易有限公司**是[香港](../Page/香港.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")（），製造[香港品牌](../Page/香港品牌.md "wikilink")[成衣](https://zh.wikipedia.org/wiki/成衣 "wikilink")。
 
 YGM貿易是由另一上市公司[長江製衣](../Page/長江製衣.md "wikilink")（）所分拆出來的，自家品牌[零售](../Page/零售.md "wikilink")業務，主席[陳瑞球](../Page/陳瑞球.md "wikilink")，總部在[九龍東](https://zh.wikipedia.org/wiki/九龍東 "wikilink")[新蒲崗](../Page/新蒲崗.md "wikilink")[大有街](../Page/大有街.md "wikilink")（近港鐵鑽石山站）。法律顧問為[孖士打律師行](../Page/孖士打律師行.md "wikilink")，[核數師為](https://zh.wikipedia.org/wiki/核數師 "wikilink")[畢馬威會計師事務所](https://zh.wikipedia.org/wiki/畢馬威會計師事務所 "wikilink")。

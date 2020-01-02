@@ -1,3 +1,6 @@
+> 本文内容由[DVD播放程式 \(macOS\)](https://zh.wikipedia.org/wiki/DVD播放程式_\(macOS\))转换而来。
+
+
 **DVD播放程式**（**DVD Player**）是[Mac OS X的默认DVD播放器](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。它支持所有的DVD标准功能，比如多重音频、视频及字幕轨道以及[杜比音效](https://zh.wikipedia.org/wiki/杜比 "wikilink")、[DVD@ccess](https://zh.wikipedia.org/wiki/DVD@ccess "wikilink") [URL和](https://zh.wikipedia.org/wiki/Uniform_Resource_Locator "wikilink")[关闭字幕](https://zh.wikipedia.org/wiki/关闭字幕 "wikilink")。在某些情况下，用户可以选择其中的VOB文件并将其打开。这个文件的地址是`「/Applications/DVD Player.app」`。只有当有一个DVD驱动器连接到计算机时，DVD播放程式才会被安装到[OS中](../Page/操作系统.md "wikilink")（例如，当一部电脑的[引导盘](https://zh.wikipedia.org/wiki/引导盘 "wikilink")[磁盘映象发现计算机上只有](https://zh.wikipedia.org/wiki/磁盘映象 "wikilink")[CD-ROM](../Page/CD-ROM.md "wikilink")而没有[DVD-ROM驱动器](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，将不会启动DVD播放程式的安装）。DVD播放程式也完全兼容[DVD Studio Pro和](https://zh.wikipedia.org/wiki/DVD_Studio_Pro "wikilink")[iDVD所撰写的DVD](https://zh.wikipedia.org/wiki/iDVD "wikilink")，包括用DVD Studio Pro撰写的[HD DVD](../Page/HD_DVD.md "wikilink")。
 
 ## 不足之处

@@ -1,3 +1,6 @@
+> 本文内容由[SolarWolf](https://zh.wikipedia.org/wiki/SolarWolf)转换而来。
+
+
 [SolarWolf-splash.png](https://zh.wikipedia.org/wiki/File:SolarWolf-splash.png "fig:SolarWolf-splash.png")
 
 ***SolarWolf*** 是1983年游戏[Solar Fox](https://zh.wikipedia.org/wiki/Solar_Fox "wikilink")──[Atari 2600上](https://zh.wikipedia.org/wiki/Atari_2600 "wikilink")[CBS](https://zh.wikipedia.org/wiki/CBS "wikilink") Electronics制作的\[1\]

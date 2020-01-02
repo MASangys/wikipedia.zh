@@ -1,3 +1,6 @@
+> 本文内容由[Fly Away \(EXILE單曲\)](https://zh.wikipedia.org/wiki/Fly_Away_\(EXILE單曲\))转换而来。
+
+
 「**Fly Away**」（遠走高飛）為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年2月20日於日本發行。Oricon最高排行第18、初動銷量2.2萬張、累計銷量3.2萬張
 
 ## 解說

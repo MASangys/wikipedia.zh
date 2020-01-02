@@ -1,3 +1,6 @@
+> 本文内容由[Style \(EXILE單曲\)](https://zh.wikipedia.org/wiki/Style_\(EXILE單曲\))转换而来。
+
+
 「**style**」為[日本](../Page/日本.md "wikilink")音樂團體[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（放浪兄弟）的第 張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2001年12月12日於日本發行。Oricon最高排行第11、初動銷量2.5萬張、累計11.3萬張
 
 ## 解說

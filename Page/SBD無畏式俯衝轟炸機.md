@@ -1,3 +1,6 @@
+> 本文内容由[SBD無畏式俯衝轟炸機](https://zh.wikipedia.org/wiki/SBD無畏式俯衝轟炸機)转换而来。
+
+
 **SBD無畏式**（）為[道格拉斯公司開發的](https://zh.wikipedia.org/wiki/道格拉斯飛行器公司 "wikilink")[艦上](../Page/艦載機.md "wikilink")[俯衝轟炸機](https://zh.wikipedia.org/wiki/俯衝轟炸機 "wikilink")，與[格魯門](https://zh.wikipedia.org/wiki/格魯門公司 "wikilink")[F4F野貓式](../Page/F4F戰鬥機.md "wikilink")[戰鬥機及](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")[TBD蹂躪者式魚雷轟炸機](https://zh.wikipedia.org/wiki/TBD蹂躪者式魚雷轟炸機 "wikilink")[魚雷](../Page/魚雷.md "wikilink")[攻擊機為二次大戰開戰時](https://zh.wikipedia.org/wiki/攻擊機 "wikilink")[美國三大主力](https://zh.wikipedia.org/wiki/美國 "wikilink")[艦載機](../Page/艦載機.md "wikilink")。主要於[第二次世界大戰時期活躍於](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")[太平洋戰場上](https://zh.wikipedia.org/wiki/太平洋戰爭 "wikilink")。
 
 ## 開發

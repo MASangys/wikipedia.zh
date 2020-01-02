@@ -1,3 +1,6 @@
+> 本文内容由[General MIDI](https://zh.wikipedia.org/wiki/General_MIDI)转换而来。
+
+
 **General MIDI**，簡稱**GM**，是[MIDI](../Page/MIDI.md "wikilink")的統一規格。雖然MIDI自己本身提供了使不同儀器能夠在基礎水平上互用的協定，但General MIDI提供了更進一步的規範：它要求所有的GM相容儀器達到一些共同的特點，像是能夠同時演奏至少24個音符（複音），而且它包含了許多未在MIDI中規範，關於參數和控制訊息的解釋，像是定義儀器可以擁有128個發聲數。
 
 General MIDI最初被標準化是在1991年，由[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")（MMA）以及（JMSC）共同制定，此後就被採用作為MIDI標準的追加。他被要求至少能滿足以下條件：

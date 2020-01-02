@@ -1,3 +1,6 @@
+> 本文内容由[Astropulse](https://zh.wikipedia.org/wiki/Astropulse)转换而来。
+
+
 **Astropulse**是一個使全[世界](../Page/世界.md "wikilink")的志願者能夠使用自己的[電腦出一分力參與研究](https://zh.wikipedia.org/wiki/電腦 "wikilink")[黑洞](../Page/黑洞.md "wikilink")、[脈衝星及](https://zh.wikipedia.org/wiki/脈衝星 "wikilink")[外星生命](../Page/外星生命.md "wikilink")的[分布式計算計劃](https://zh.wikipedia.org/wiki/分布式計算 "wikilink")，也是[在家中搜尋外星智慧生物](../Page/SETI@home.md "wikilink")（SETI@home）的其中一部分。志願者的電腦會透過[伯克利開放式網絡計算平台](https://zh.wikipedia.org/wiki/伯克利開放式網絡計算平台 "wikilink")（BOINC）來進行該計劃。1999年，[太空科學實驗室使用了一個能夠平衡的分散在世界各地的電腦來進行龐大計算的計劃](https://zh.wikipedia.org/wiki/太空科學實驗室 "wikilink")——SETI@home。SETI@home利用了[阿雷西博天文台](../Page/阿雷西博天文台.md "wikilink")[電波望遠鏡及頻寬](https://zh.wikipedia.org/wiki/電波望遠鏡 "wikilink")[無線電波信號作為搜尋外](https://zh.wikipedia.org/wiki/無線電波 "wikilink")[太空技術的記錄資料](https://zh.wikipedia.org/wiki/太空 "wikilink")\[1\]。該計劃及[SETI@home](../Page/SETI@home.md "wikilink")推薦了[中學教師一個具體的方法使學生運用電腦來學習](https://zh.wikipedia.org/wiki/中學 "wikilink")[天文學](../Page/天文學.md "wikilink")，而學校電腦的數量亦支持著分散式計算計劃。 [SETI@home_Astropulse_Screensaver.JPG](https://zh.wikipedia.org/wiki/File:SETI@home_Astropulse_Screensaver.JPG "fig:SETI@home_Astropulse_Screensaver.JPG")
 
 ## 開發過程

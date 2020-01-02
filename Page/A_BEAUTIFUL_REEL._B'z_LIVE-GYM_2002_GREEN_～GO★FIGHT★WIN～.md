@@ -1,3 +1,6 @@
+> 本文内容由[A BEAUTIFUL REEL. B\'z LIVE-GYM 2002 GREEN ～GO★FIGHT★WIN～](https://zh.wikipedia.org/wiki/A_BEAUTIFUL_REEL._B\'z_LIVE-GYM_2002_GREEN_～GO★FIGHT★WIN～)转换而来。
+
+
 《**a BEAUTIFUL REEL. B'z LIVE-GYM 2002 GREEN 〜GO★FIGHT★WIN〜**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z](../Page/B'z.md "wikilink")於[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")發行的第7張影像作品（作為VHS是第7張，作為DVD是第5張）。
 
 ## 演奏

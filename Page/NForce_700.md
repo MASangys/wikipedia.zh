@@ -1,3 +1,6 @@
+> 本文内容由[NForce 700](https://zh.wikipedia.org/wiki/NForce_700)转换而来。
+
+
 **nForce 700**是[NVIDIA的第七代](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[晶片組產品](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，支援[AMD和](https://zh.wikipedia.org/wiki/AMD "wikilink")[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")。於[2007年12月](../Page/2007年12月.md "wikilink")發佈\[1\]。各晶片組名稱後面的英文字母，代表所支援的處理器平台。例如a代表支援AMD平台，i則是Intel平台。
 
 所有的晶片組都不再存在獨立型和整合型之分。所有的晶片組都會集成顯示核心，配合NVIDIA的顯示卡，用來啟動混合SLI技術。當[混合SLI技術啟動時](https://zh.wikipedia.org/wiki/SLI#混合SLI "wikilink")，若果系統是閒置的狀態，獨立的顯示核心會被關閉，只利用整合式顯示核心仍顯示輸出，以節省電能。如果是進行立體計算的時候，就會兩個核心同時工作，提升渲染效能。另外，整合式顯示核心支援[DirectX](../Page/DirectX.md "wikilink") 10，並提供[PureVideo](https://zh.wikipedia.org/wiki/PureVideo "wikilink") HD。

@@ -1,3 +1,6 @@
+> 本文内容由[Linux历史](https://zh.wikipedia.org/wiki/Linux历史)转换而来。
+
+
 历史上，**Linux操作系统内核**以其不断的发展为特点。它的[源代码](../Page/源代码.md "wikilink")已经从1991年初次发布的几个[C语言文件扩展到](https://zh.wikipedia.org/wiki/C语言 "wikilink")2007年的290MB源文件；发布许可也从禁止商业化发布，变为在通用公共许可证[GPL下发布](https://zh.wikipedia.org/wiki/GPL "wikilink")。\[1\]
 
 ## 起源

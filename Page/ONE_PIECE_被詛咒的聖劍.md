@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 被詛咒的聖劍](https://zh.wikipedia.org/wiki/ONE_PIECE_被詛咒的聖劍)转换而来。
+
+
 《**ONE PIECE 被詛咒的聖劍**》是於2004年上映的第五部《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia.org/wiki/劇場 "wikilink")。
 
 ## 劇情

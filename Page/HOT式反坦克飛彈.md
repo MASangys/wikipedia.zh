@@ -1,3 +1,6 @@
+> 本文内容由[HOT式反坦克飛彈](https://zh.wikipedia.org/wiki/HOT式反坦克飛彈)转换而来。
+
+
 [Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002-clean.jpg](https://zh.wikipedia.org/wiki/File:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002-clean.jpg "fig:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002-clean.jpg")
 
 **HOT式反坦克飛彈**是由[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（當時的[西德](../Page/西德.md "wikilink")）共同研發出來的反坦克飛彈，HOT即是"**H**igh Subsonic **O**ptical Remote-Guided, **T**ube-Launched"的縮寫，意即"高次音速、光學遙控、筒射"。

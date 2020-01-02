@@ -1,3 +1,6 @@
+> 本文内容由[Musical Academy](https://zh.wikipedia.org/wiki/Musical_Academy)转换而来。
+
+
 **Musical Academy**（）是[日本](../Page/日本.md "wikilink")知名藝能經記公司[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")旗下的一個4人偶像團體。一般簡稱為**MA**，原本這只是歌迷間的暱稱，但最近事務所官方網站也常使用「MA」來代替全名。雖然該團成軍多年資歷豐富，不僅活躍於各類表演工作，也吸引一批死忠的支持者，但按照傑尼斯慣例，尚未發行CD便不代表正式出道，故目前MA仍屬於小傑尼斯（Johnny's Jr.）的一員。
 
 ## 簡介

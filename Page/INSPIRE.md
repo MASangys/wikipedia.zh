@@ -1,3 +1,6 @@
+> 本文内容由[INSPIRE](https://zh.wikipedia.org/wiki/INSPIRE)转换而来。
+
+
 《**INSPIRE**》（刺激）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第33張單曲，2004年7月28日於日本發售。
 
 ## 說明

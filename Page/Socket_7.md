@@ -1,3 +1,6 @@
+> 本文内容由[Socket 7](https://zh.wikipedia.org/wiki/Socket_7)转换而来。
+
+
 **Socket 7**是一种有着321个针脚的[x86](https://zh.wikipedia.org/wiki/x86 "wikilink") [CPU插座](../Page/CPU插座.md "wikilink")。
 
 Socket 7是方形多針腳ZIF（Zero Insertion Force，零插拔力）插座，插座上有一根拉杆，在安裝和更換CPU時只要將拉杆向上拉出，就可以輕易地插進或取出CPU。Socket 7也是CPU進入「[Pentium時代](https://zh.wikipedia.org/wiki/Pentium "wikilink")」後，最常見的主機板架構，主要特點是──具有66MHz的標準外頻（最高83MHz）、一般提供雙電壓供電機制。这种规格的插座支持[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Pentium处理器的部分早期型号](https://zh.wikipedia.org/wiki/Pentium "wikilink")，同时也兼容其他厂商的CPU，如[Cyrix](../Page/Cyrix.md "wikilink")、[AMD等等](https://zh.wikipedia.org/wiki/AMD "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Beyond IV](https://zh.wikipedia.org/wiki/Beyond_IV)转换而来。
+
+
 《**Beyond IV**》是[香港](../Page/香港.md "wikilink")搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")發行第四张粵語专辑。由於這是Beyond樂隊由唱片公司發行的第四張專輯，故碟名取作「Beyond IV」。
 
 ## 專輯介紹

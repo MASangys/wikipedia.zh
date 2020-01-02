@@ -1,3 +1,6 @@
+> 本文内容由[Z](https://zh.wikipedia.org/wiki/Z)转换而来。
+
+
 **Z**, **z**是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第[26](../Page/26.md "wikilink")个[字母](../Page/字母.md "wikilink")，也是最后一个字母。
 
 这个字母的英语念法有2种：英國等大部份英語口音会念作；唯獨美国会念作 ；德国人会念作；还有一种很古老的念法，作 （izzard）。部分粤语区華人也會讀成（izzard）。

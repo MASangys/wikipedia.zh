@@ -1,3 +1,6 @@
+> 本文内容由[Tri-Ace](https://zh.wikipedia.org/wiki/Tri-Ace)转换而来。
+
+
 **tri-Ace**（、）是一間於成立的[日本](../Page/日本.md "wikilink")[電子遊戲軟體開發公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。由原涉及[南夢宮](https://zh.wikipedia.org/wiki/南夢宮 "wikilink")『[傳奇系列](../Page/傳奇系列.md "wikilink")』開發的[日本通訊網絡中的開發團隊之一](https://zh.wikipedia.org/wiki/日本通訊網絡 "wikilink")「[狼組](../Page/狼組.md "wikilink")」的一部分人員與公司高層衝突而從中獨立。
 
 在2003年4月1日以前公司開發的遊戲皆由[艾尼克斯](../Page/艾尼克斯.md "wikilink")代理；隨著艾尼克斯與[史克威爾](../Page/史克威爾.md "wikilink")合併，於2003年4月1日後則由[史克威爾艾尼克斯代理發售](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")。tri-Ace原公司總社是租借舊艾尼克斯大樓（[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[代代木](../Page/代代木.md "wikilink")4-31-8），但與史克威爾艾尼克斯沒有[資本關係](https://zh.wikipedia.org/wiki/資本 "wikilink")。

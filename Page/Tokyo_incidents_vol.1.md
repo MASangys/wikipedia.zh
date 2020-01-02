@@ -1,3 +1,6 @@
+> 本文内容由[Tokyo incidents vol.1](https://zh.wikipedia.org/wiki/Tokyo_incidents_vol.1)转换而来。
+
+
 《**Tokyo incidents vol.1**》（，*Tokyo Incidents Vol.1*）是[東京事變](../Page/東京事變.md "wikilink")的第一張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2004年12月8日發行。發行當週即賣出2.2萬張，總計銷售額4.2萬張。初回限定為「彩色照片印刷DVD 」。
 
 此張DVD共收錄六首音樂錄影帶，包括四首來自單曲《[群青日和](../Page/群青日和.md "wikilink")》、《[遭難](../Page/遭難.md "wikilink")》內的曲目，一首翻唱曲，最後的則來自於首張專輯《[教育](https://zh.wikipedia.org/wiki/教育_\(東京事變專輯\) "wikilink")》。

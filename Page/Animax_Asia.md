@@ -1,3 +1,6 @@
+> 本文内容由[Animax Asia](https://zh.wikipedia.org/wiki/Animax_Asia)转换而来。
+
+
 **Animax Asia**為[日本](../Page/日本.md "wikilink")**[Animax](../Page/Animax.md "wikilink")**在亞洲地區之分支動畫頻道，由[索尼旗下之](https://zh.wikipedia.org/wiki/Sony "wikilink")[索尼影業集團所擁有](https://zh.wikipedia.org/wiki/索尼影業 "wikilink")。最初於2004年起於台灣、香港與東南亞地區播送\[1\]，稍後於其他國家開展。目前該頻道對亞洲共廿一個國家播放，並擁有超過兩千八百萬收視戶\[2\]。
 
 2010年5月3日零時起，部份海外Animax網站陸續改版並更換新的台徽；2013年2月1日，Animax除德國、西班牙外換回第二代台徽\[3\]\[4\]。日本官網在2016年7月1日啟用漸層光澤標誌，原標誌仍是台徽及公司商標；海外則德國同步改款為台徽\[5\]，除英國及韓國外其餘隨後於2016年7月25日替換並附記「a Sony Network」。\[6\]

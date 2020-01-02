@@ -1,3 +1,6 @@
+> 本文内容由[See-Saw](https://zh.wikipedia.org/wiki/See-Saw)转换而来。
+
+
 **See-Saw**是[日本](../Page/日本.md "wikilink")的[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。其英文有「相見・相會」的意思，並且字面由「see」和它的過去式「saw」組合而成。“SeeSaw”一詞亦有“[蹺蹺板](https://zh.wikipedia.org/wiki/蹺蹺板 "wikilink")”之意。該團體曾經解散於1995年，不過在2001年又再次重組。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[USAS-12霰彈槍](https://zh.wikipedia.org/wiki/USAS-12霰彈槍)转换而来。
+
+
 **USAS-12**是由[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[吉爾伯特設備有限公司在](https://zh.wikipedia.org/wiki/吉爾伯特設備有限公司 "wikilink")1980年代設計，交由[南韓](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[大宇集團所生產的一種](https://zh.wikipedia.org/wiki/大宇集團 "wikilink")[全自動](https://zh.wikipedia.org/wiki/自動霰彈槍 "wikilink")[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")。發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。現在獲得[南韓陸軍特種部隊和少數國家的採用](https://zh.wikipedia.org/wiki/南韓陸軍 "wikilink")。
 
 ## 歷史

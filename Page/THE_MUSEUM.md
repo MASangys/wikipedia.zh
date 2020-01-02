@@ -1,3 +1,6 @@
+> 本文内容由[THE MUSEUM](https://zh.wikipedia.org/wiki/THE_MUSEUM)转换而来。
+
+
 **THE MUSEUM**，是[水樹奈奈](../Page/水樹奈奈.md "wikilink")第一張個人精選大碟。2007年2月7日，KING RECORDS發售，商品編号KIZC-3。
 
 ## 作品概要

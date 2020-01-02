@@ -1,3 +1,6 @@
+> 本文内容由[A museum ～30th single collection live～](https://zh.wikipedia.org/wiki/A_museum_～30th_single_collection_live～)转换而来。
+
+
 《**A museum ～30th single collection live～**》（A museum ～出道30張單曲紀念演唱會～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年10月9日-10月31日舉行的巡迴演唱會，2004年9月29日發行DVD。
 
 ## 說明

@@ -1,3 +1,6 @@
+> 本文内容由[IBus](https://zh.wikipedia.org/wiki/IBus)转换而来。
+
+
 **Intelligent Input Bus**，簡稱**IBus**，是 [Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink") [作業系統下的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[多語](https://zh.wikipedia.org/wiki/多語 "wikilink")[輸入法平台](https://zh.wikipedia.org/wiki/輸入法 "wikilink")。因為它採用了[-{A](https://zh.wikipedia.org/wiki/匯流排 "wikilink")（Bus）式的架構，所以命名為Bus。
 
 ## 目標

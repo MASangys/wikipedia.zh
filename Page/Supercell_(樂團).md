@@ -1,3 +1,6 @@
+> 本文内容由[Supercell \(樂團\)](https://zh.wikipedia.org/wiki/Supercell_\(樂團\))转换而来。
+
+
 **supercell**是一個[日本](../Page/日本.md "wikilink")音樂團體，以作曲及填詞人ryo為中心，成員共有11人，於2007年作為[同人音樂](../Page/同人音樂.md "wikilink")團體而成立。除了ryo外，其他10名成員並不負責歌曲工作，而是負責製作插畫、音樂影片等設計工作；所有成員都不會唱歌。
 
 在成立初期，supercell使用虛擬女性歌手軟件「[初音未來](../Page/初音未來.md "wikilink")」作為歌曲主唱，並上載《[Melt](https://zh.wikipedia.org/wiki/Melt "wikilink")》\[1\]歌曲至[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")。由於上載的多首歌曲都十分受歡迎，他們[獨立製作](../Page/獨立製作.md "wikilink")的同名專輯《[supercell](https://zh.wikipedia.org/wiki/supercell_\(專輯\) "wikilink")》於2008年發行。其後，他們跟[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")簽約，於2009年3月以重新發行的專輯《supercell》出道。

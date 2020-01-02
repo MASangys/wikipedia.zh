@@ -1,3 +1,6 @@
+> 本文内容由[Selfkill](https://zh.wikipedia.org/wiki/Selfkill)转换而来。
+
+
 **selfkill**為台灣一支[後搖滾](../Page/後搖滾.md "wikilink")樂團。
 
 ## 簡介

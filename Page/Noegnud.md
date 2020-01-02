@@ -1,3 +1,6 @@
+> 本文内容由[Noegnud](https://zh.wikipedia.org/wiki/Noegnud)转换而来。
+
+
 ***noegnud*** ("dungeon" in reverse)是*[NetHack](../Page/NetHack.md "wikilink")*和*[Slash'EM](https://zh.wikipedia.org/wiki/Slash'EM "wikilink")*的[SDL](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")[图形界面有下面几种模式](https://zh.wikipedia.org/wiki/图形界面 "wikilink")：
 
   - 角色视角

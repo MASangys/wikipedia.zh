@@ -1,3 +1,6 @@
+> 本文内容由[北京地铁DKZ6型电动车组](https://zh.wikipedia.org/wiki/北京地铁DKZ6型电动车组)转换而来。
+
+
 **北京地铁DKZ6型电动车组**是[北京地铁](../Page/北京地铁.md "wikilink")的[电动车组车款之一](https://zh.wikipedia.org/wiki/电动车组 "wikilink")，现在在[13号线运营](../Page/北京地铁13号线.md "wikilink")。
 
 ## 简介

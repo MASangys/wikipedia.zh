@@ -1,3 +1,6 @@
+> 本文内容由[CHE.R.RY](https://zh.wikipedia.org/wiki/CHE.R.RY)转换而来。
+
+
 《**CHE.R.RY**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")，於2007年3月7日所推出的第八張單曲碟。由 [STUDIOSEVEN Recordings](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink") 發行。
 
 YUI洗脫上一張單曲《[Rolling star](../Page/Rolling_star.md "wikilink")》的搖滾氣息，轉回可愛的形象唱出新曲《CHE.R.RY》。《CHE.R.RY》曲風輕快，洋溢著初春的氣息，歌詞描寫如櫻桃般酸中帶甜的戀愛。

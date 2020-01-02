@@ -1,3 +1,6 @@
+> 本文内容由[T.I.](https://zh.wikipedia.org/wiki/T.I.)转换而来。
+
+
 **小克里福德·約瑟夫·哈里斯**（Clifford Joseph Harris, Jr.，，藝名**T.I.**或稱**T.I.P.**），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")、詞曲創作人、[音樂製作人](../Page/音樂製作人.md "wikilink")、[演員](../Page/演員.md "wikilink")，以及Grand Hustle唱片公司的[執行長之一](https://zh.wikipedia.org/wiki/執行長 "wikilink")。至2008年十月，T.I.已生涯九次擠進[告示牌百大熱門單曲的前十名](https://zh.wikipedia.org/wiki/告示牌 "wikilink")，其中有三次榮獲冠軍（與[賈斯汀合作的](https://zh.wikipedia.org/wiki/賈斯汀 "wikilink")「*My Love*」、「*Whatever You Like*」、與[蕾哈娜](../Page/蕾哈娜.md "wikilink")合唱的「*Live Your Life*」）。
 
 ## 作品

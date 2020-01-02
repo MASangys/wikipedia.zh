@@ -1,3 +1,6 @@
+> 本文内容由[FREE \(ERIKA\)](https://zh.wikipedia.org/wiki/FREE_\(ERIKA\))转换而来。
+
+
 《**FREE**》是[日本](../Page/日本.md "wikilink")歌手[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")以**ERIKA**之名所發行的[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2007年7月4日由[Sony Music發行](https://zh.wikipedia.org/wiki/日本新力音樂 "wikilink")。發行首日及首週均登上日本[Oricon](../Page/Oricon.md "wikilink")公信榜單曲冠軍。
 
 ## 概述

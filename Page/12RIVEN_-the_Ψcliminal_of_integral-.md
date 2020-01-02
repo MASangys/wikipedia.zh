@@ -1,3 +1,6 @@
+> 本文内容由[12RIVEN -the Ψcliminal of integral-](https://zh.wikipedia.org/wiki/12RIVEN_-the_Ψcliminal_of_integral-)转换而来。
+
+
 《**12RIVEN -the Ψcliminal of integral-**》，是一款在2008年3月13日發行的[PlayStation 2遊戲](../Page/PlayStation_2.md "wikilink")\[1\]，簡稱「12RIVEN」或「12R」。[PC](../Page/PC.md "wikilink")版在同年4月4日推出。\[2\]原為「[infinity](../Page/无限轮回.md "wikilink")」系列的第四作，不過製作的[KID](../Page/KID.md "wikilink")公司於2006年12月結業，令遊戲開發一度中斷；直至2007年2月[CyberFront公司購入](https://zh.wikipedia.org/wiki/CyberFront "wikilink")[KID](../Page/KID.md "wikilink")公司遊戲代理版權，並繼續開發本遊戲，令本作能夠順利推出。繁體中文化版本發行權由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[光譜資訊](../Page/光譜資訊.md "wikilink")获得，暫定於2008年第二季發行。簡體中文版則由[北京娛樂通放棄代理后](https://zh.wikipedia.org/wiki/北京娛樂通 "wikilink")，由北京光譜資訊代理,2009年9月30日以**12r跳跃的时空**的名称发售。和前作[Remember11的简体中文版一样](https://zh.wikipedia.org/wiki/Remember11 "wikilink")，本简体中文版基于PlayStation 2模拟器。值得注意的是，在安装光盘中含有两个疑似古月引擎脚本的文本程序，声称编写于2009年9月17日，作者为[胡颖卓和](https://zh.wikipedia.org/wiki/胡颖卓 "wikilink")[北京娱乐通](https://zh.wikipedia.org/wiki/北京娱乐通 "wikilink")。这说明娱乐通公司也参与了本作的中文化工作。本作及[infinity系列三作的PC版的合集](../Page/无限轮回.md "wikilink")《Infinity Plus》亦同時發售，而其PlayStation Portable版本則在2009年4月在日本地區發行。
 
 本作沿用了前作的雙主線同時進行的方式，在遊戲的初期會以不斷切換視角的方式進行著故事，之後則根據選擇的不同，進入鍊丸線及鳴海線兩者之一。在兩條路線都走過之後便會開啟最終章的\(\int\)路線。

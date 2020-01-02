@@ -1,3 +1,6 @@
+> 本文内容由[IUPAC有机物命名法](https://zh.wikipedia.org/wiki/IUPAC有机物命名法)转换而来。
+
+
 **IUPAC有机物命名法**是一种有系统命名[有机化合物](../Page/有机化合物.md "wikilink")的方法。该命名法是由[國際純粹與應用化學聯合會](https://zh.wikipedia.org/wiki/國際純粹與應用化學聯合會 "wikilink")（IUPAC）规定的，最近一次修订是在1993年。其前身是1892年日内瓦国际化学会的“系统命名法”。最理想的情況是，每一種有清楚的[结构式的有機化合物都可以用一個确定的名称來描述它](https://zh.wikipedia.org/wiki/结构式 "wikilink")。它其实并不是严格的系统命名法，因为它同时接受一些物质和基团的惯用普通命名。
 
 中文的系统命名法係[中國化學會於](https://zh.wikipedia.org/wiki/中國化學會 "wikilink")1932年在英文IUPAC命名法的基礎上，结合[漢字之特點所訂定之](https://zh.wikipedia.org/wiki/漢字 "wikilink")《化學命名原則》，於1944年再版發行，並於日後數次修訂再版。\[1\]现行版为2017版。\[2\]

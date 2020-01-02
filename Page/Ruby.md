@@ -1,3 +1,6 @@
+> 本文内容由[Ruby](https://zh.wikipedia.org/wiki/Ruby)转换而来。
+
+
 **Ruby** 是一种[面向对象](https://zh.wikipedia.org/wiki/面向对象的程序设计 "wikilink")、[命令式](https://zh.wikipedia.org/wiki/命令式编程 "wikilink")、[函数式](https://zh.wikipedia.org/wiki/函数编程语言 "wikilink")、[动态的](../Page/动态语言.md "wikilink")[通用编程语言](../Page/通用编程语言.md "wikilink")。在20世纪90年代中期由[日本](../Page/日本.md "wikilink")[電腦科學家](../Page/電腦科學家.md "wikilink")[松本行弘](../Page/松本行弘.md "wikilink")（Matz）设计并开发。
 
 遵守[BSD许可证](../Page/BSD许可证.md "wikilink")和Ruby License\[1\]。它的灵感与特性来自于[Perl](../Page/Perl.md "wikilink")、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Eiffel](../Page/Eiffel.md "wikilink")、[Ada](../Page/Ada.md "wikilink")以及[Lisp语言](https://zh.wikipedia.org/wiki/Lisp "wikilink")。由Ruby语言本身还发展出了[JRuby](../Page/JRuby.md "wikilink")（[Java](../Page/Java.md "wikilink")平台）、[IronRuby](../Page/IronRuby.md "wikilink")（[.NET平台](https://zh.wikipedia.org/wiki/.NET "wikilink")）等其他平台的Ruby语言替代品。

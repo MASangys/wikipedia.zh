@@ -1,3 +1,6 @@
+> 本文内容由[G弦褲](https://zh.wikipedia.org/wiki/G弦褲)转换而来。
+
+
 [Thong_2.jpg](https://zh.wikipedia.org/wiki/File:Thong_2.jpg "fig:Thong_2.jpg")
 
 **G弦褲**（），又称**T字裤**（，）或**丁字褲**，是指臀部較少布料，甚至是[肛門等部位只有一条](https://zh.wikipedia.org/wiki/肛門 "wikilink")[绳子](https://zh.wikipedia.org/wiki/绳子 "wikilink")（）大小布料的[内裤](https://zh.wikipedia.org/wiki/内裤 "wikilink")。依用途分有[內褲與](https://zh.wikipedia.org/wiki/內衣 "wikilink")[泳褲兩種](../Page/泳衣.md "wikilink")。

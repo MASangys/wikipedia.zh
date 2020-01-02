@@ -1,3 +1,6 @@
+> 本文内容由[Eiffel 65](https://zh.wikipedia.org/wiki/Eiffel_65)转换而来。
+
+
 **Eiffel 65** 是一支来自[意大利](../Page/意大利.md "wikilink")城市[都灵](../Page/都灵.md "wikilink")的3人音乐组合。他们主要以[电子乐](../Page/电子乐.md "wikilink")、[eurodance](https://zh.wikipedia.org/wiki/eurodance "wikilink")、[italodance的风格为主](https://zh.wikipedia.org/wiki/italodance "wikilink")。最为有名的曲目是：《Blue (Da Ba Dee)》。
 
 ## 成员

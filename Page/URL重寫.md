@@ -1,3 +1,6 @@
+> 本文内容由[URL重寫](https://zh.wikipedia.org/wiki/URL重寫)转换而来。
+
+
 **URL重寫**（）是一種[REST的相關技術](https://zh.wikipedia.org/wiki/REST "wikilink")，它可以在Web Server中，針對使用者所提供的URL進行轉換後，再傳入Web Server中的程式處理器。
 
 ## 範例

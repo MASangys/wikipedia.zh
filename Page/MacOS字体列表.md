@@ -1,3 +1,6 @@
+> 本文内容由[MacOS字体列表](https://zh.wikipedia.org/wiki/MacOS字体列表)转换而来。
+
+
 此列表包含[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") 10.0至10.4的所有[电脑字体](https://zh.wikipedia.org/wiki/电脑字体 "wikilink")，包括所有[苹果公司为其他语言专用升级包中的字体](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（主要是[韩文和](https://zh.wikipedia.org/wiki/韩文 "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")）。对于 Mac OS 10.4中的字体列表请参见 [Apple's documentation](https://web.archive.org/web/20071012042043/http://docs.info.apple.com/article.html?artnum=301332)。關於 MAC OS X 10.5中的字體列表請參閱[蘋果支持中心-關於OSX10.5的字體列表(EN)](http://support.apple.com/kb/HT1642)
 
 ## 系统字体

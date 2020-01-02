@@ -1,3 +1,6 @@
+> 本文内容由[Krita](https://zh.wikipedia.org/wiki/Krita)转换而来。
+
+
 **Krita**是一个[自由和开源的](../Page/自由及开放源代码软件.md "wikilink")[位图图像编辑器](https://zh.wikipedia.org/wiki/位图图像编辑器 "wikilink")。它针对数字绘画和动画创作特化，提供包括低干扰用户界面、OpenGL加速画布、色彩管理、功能强大的笔刷引擎、非破坏性图层和蒙版、图层分组、向量图形支持和可切换界面预设等在内的一系列特色功能，并同时支持[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")和[MacOS](../Page/MacOS.md "wikilink")等平台。
 
 ## 名字

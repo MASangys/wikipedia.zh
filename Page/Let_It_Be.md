@@ -1,3 +1,6 @@
+> 本文内容由[Let It Be](https://zh.wikipedia.org/wiki/Let_It_Be)转换而来。
+
+
 《**順其自然**》（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：）又稱為《**讓它去**》，是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[披头士發布的第十二张专辑](https://zh.wikipedia.org/wiki/披头士 "wikilink")，亦是最後一張录音室专辑，由制作人[菲尔·斯佩克特](../Page/菲尔·斯佩克特.md "wikilink")監製。1970年5月8日，在樂團拆夥的一個月後，[苹果唱片於英国发行](https://zh.wikipedia.org/wiki/苹果唱片 "wikilink")\[1\]，十天之後於[美国](../Page/美国.md "wikilink")发行這專輯\[2\]。大部份的歌曲灌錄於1969年1月，在《[Abbey Road](https://zh.wikipedia.org/wiki/Abbey_Road "wikilink")》專輯的錄製和發布之前，基於這個原因，一些歌迷和評論家認為：《Abbey Road》才是樂團的最後一張專輯，《Let It Be》應該是倒數第二。\[3\]
 
 ## 背景

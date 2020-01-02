@@ -1,3 +1,6 @@
+> 本文内容由[Versailles -Philharmonic Quintet-](https://zh.wikipedia.org/wiki/Versailles_-Philharmonic_Quintet-)转换而来。
+
+
 **Versailles -Philharmonic Quintet-**，[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。 2007年3月，由[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")[KAMIJO與](../Page/Kamijo.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[HIZAKI](http://en.wikipedia.org/wiki/Hizaki)為中心結成。 加上之前HIZAKI自組團「HIZAKI grace project」中的[貝斯手Jasmine](https://zh.wikipedia.org/wiki/貝斯手 "wikilink") You與[藍華柳的吉他手TERU以及目黑鹿鳴館推薦的](https://zh.wikipedia.org/wiki/藍華柳 "wikilink")[鼓手YUKI](https://zh.wikipedia.org/wiki/鼓手 "wikilink")。
 
 剛出道的時候團名叫做**Versailles** ，不過因為跟[美國某樂團同名](https://zh.wikipedia.org/wiki/美國 "wikilink")，故把名字改成Versailles -Philharmonic Quintet-（不過目前大部分的人都還是習慣只寫 Versailles）。2009年6月24日以「ASCENDEAD MASTER」一曲正式出道。

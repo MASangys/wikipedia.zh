@@ -1,3 +1,6 @@
+> 本文内容由[G-结构](https://zh.wikipedia.org/wiki/G-结构)转换而来。
+
+
 在[微分几何](../Page/微分几何.md "wikilink")中，对一个给定的[结构群](https://zh.wikipedia.org/wiki/结构群 "wikilink") *G*\[1\]，*n* 维[流形](../Page/流形.md "wikilink") *M* 上一个 ***G*-结构**是 *M* 的[切标架丛](https://zh.wikipedia.org/wiki/标架丛#切标架丛 "wikilink") *FM*（或 *GL*(*M*)）的一个 *G*-[子丛](https://zh.wikipedia.org/wiki/子丛 "wikilink")。
 
 *G*-结构的概念包括了许多流形上其它结构，其中一些是用[张量场](../Page/张量场.md "wikilink")定义的。例如，对[正交群](../Page/正交群.md "wikilink")，一个 *O*(*n*)-结构定义了一个[黎曼度量](https://zh.wikipedia.org/wiki/黎曼度量 "wikilink")；而对[特殊线性群](https://zh.wikipedia.org/wiki/特殊线性群 "wikilink")，一个 SL(*n*,**R**)-结构就是一个[体积形式](../Page/体积形式.md "wikilink")；对[平凡群](https://zh.wikipedia.org/wiki/平凡群 "wikilink")，一个 {*e*}-结构由流形的一个[绝对平行化组成](https://zh.wikipedia.org/wiki/可平行化流形 "wikilink")。

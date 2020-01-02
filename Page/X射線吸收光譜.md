@@ -1,3 +1,6 @@
+> 本文内容由[X射線吸收光譜](https://zh.wikipedia.org/wiki/X射線吸收光譜)转换而来。
+
+
 [XASEdges.svg](https://zh.wikipedia.org/wiki/File:XASEdges.svg "fig:XASEdges.svg") [XASFig.jpg](https://zh.wikipedia.org/wiki/File:XASFig.jpg "fig:XASFig.jpg")
 
 **X光吸收光譜**（，缩写：XAS）是目前廣泛應用於取得[氣態](https://zh.wikipedia.org/wiki/氣態 "wikilink")、[分子](../Page/分子.md "wikilink")、及[凝體](https://zh.wikipedia.org/wiki/凝體 "wikilink")（例如，[固體](https://zh.wikipedia.org/wiki/固體 "wikilink")）中，目標原子之區域（原子尺度）結構資訊及電子狀態的一種技術。

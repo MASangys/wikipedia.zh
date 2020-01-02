@@ -1,3 +1,6 @@
+> 本文内容由[Linux Mint](https://zh.wikipedia.org/wiki/Linux_Mint)转换而来。
+
+
 **Linux Mint**是一種基於[Ubuntu](../Page/Ubuntu.md "wikilink")/[Debian](../Page/Debian.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，由Linux Mint Team团队于2006年开始发行。Linux Mint的宗旨是提供一个免費開源、現代、優雅、功能強大卻也易於使用的作業系統\[1\]。
 
 Linux Mint是对使用者友善而功能强大的操作系统，Linux Mint的理想之一，以简单的方式呈现先进技术给使用者，以此来成为最优秀的操作系统。这种简单方式的实现，不是通过简化結构與机能而削减功能，也不是通过抄袭其它开发者的实现方法。Linux Mint继承了Ubuntu和Debian的众多优点，同时也分別在兩者的基础上加入很多自己优秀的特性。也因為如此，Linux Mint可以幾乎与Ubuntu软件仓库完全相容，采用apt管理和.deb软件包。

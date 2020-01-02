@@ -1,3 +1,6 @@
+> 本文内容由[SNOMED CT](https://zh.wikipedia.org/wiki/SNOMED_CT)转换而来。
+
+
 **SNOMED CT**（，**医学系统命名法－临床术语**，**医学术语系统命名法－临床术语**），是一部经过系统组织编排的，便于[计算机处理的](https://zh.wikipedia.org/wiki/计算机 "wikilink")[医学](../Page/医学.md "wikilink")[术语集](https://zh.wikipedia.org/wiki/术语集 "wikilink")，涵盖大多数方面的[临床信息](https://zh.wikipedia.org/wiki/临床信息 "wikilink")，如[疾病](../Page/疾病.md "wikilink")、所见、操作、[微生物](../Page/微生物.md "wikilink")、[药物](../Page/药物.md "wikilink")等。采用该术语集，可以协调一致地在不同的[学科](https://zh.wikipedia.org/wiki/学科 "wikilink")、[专业和照护地点之间实现对于临床数据的标引](https://zh.wikipedia.org/wiki/专业 "wikilink")、存储、检索和聚合。同时，它还有助于组织[病历内容](https://zh.wikipedia.org/wiki/病历 "wikilink")，减少临床照护和科学研究工作中数据采集、编码及使用方式的变异。
 
 ## 目的

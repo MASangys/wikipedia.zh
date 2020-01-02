@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COUNTDOWN_LIVE_2011-2012_A_～HOTEL_Love_songs～)转换而来。
+
+
 《**ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～**》（濱崎步 2011-2012 跨年演唱會A ～HOTEL Love songs～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")於2011年12月29日、30日和31日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行巡迴演唱會，於2012年3月21日發行DVD及BD。
 
 ## 說明

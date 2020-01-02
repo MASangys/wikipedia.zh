@@ -1,3 +1,6 @@
+> 本文内容由[ICD-10 第三章：血液及造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/ICD-10_第三章：血液及造血器官疾病和某些涉及免疫机制的疾患)转换而来。
+
+
 **ICD-10 第三章：血液及造血器官疾病和某些涉及免疫机制的疾患**，为[WHO整理的各类](https://zh.wikipedia.org/wiki/WHO "wikilink")[血液](../Page/血液.md "wikilink")及[造血器官疾病和某些涉及免疫机制的疾患](https://zh.wikipedia.org/wiki/造血器官 "wikilink")。
 
 ## 受控词表

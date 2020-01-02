@@ -1,3 +1,6 @@
+> 本文内容由[SIG SG 550突擊步槍](https://zh.wikipedia.org/wiki/SIG_SG_550突擊步槍)转换而来。
+
+
 **SIG SG 550**（Sturmgewehr 90）是由[Swiss Arms AG](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前身為SIG Arms AG）設計及製造的[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。在多种突擊步槍中被認為是最準確的。SG 550使用折疊式[槍托](../Page/槍托.md "wikilink")，附帶可折式腳架，槍機設計與[AK類似](https://zh.wikipedia.org/wiki/卡拉什尼科夫自動步槍 "wikilink")，半透明彈匣。在法語稱為**Fass 90**（**F**usil d**ass**aut **90**），德語稱為**Stgw 90**（**St**urm**g**e**w**ehr **90**）。
 
 ## 發展

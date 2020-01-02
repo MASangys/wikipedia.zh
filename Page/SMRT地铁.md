@@ -1,3 +1,6 @@
+> 本文内容由[SMRT地铁](https://zh.wikipedia.org/wiki/SMRT地铁)转换而来。
+
+
 **新加坡地铁有限公司**（，簡稱**新加坡地鐵**，企業形象標誌為「**SMRT**」），是[新加坡](../Page/新加坡.md "wikilink")的一家[铁道公司](https://zh.wikipedia.org/wiki/铁道公司 "wikilink")，是[SMRT集团](../Page/SMRT集团.md "wikilink")的[子公司](../Page/子公司.md "wikilink")。自1987年SMRT開始運營新加坡首段地鐵網路[南北線起](https://zh.wikipedia.org/wiki/新加坡地鐵南北線 "wikilink")，目前，新加坡地铁有限公司运营着三条新加坡地铁线，即南北线、东西线、环线。SMRT也已经标得[汤申-东海岸地铁线的经营权](../Page/新加坡地铁汤申－东海岸线.md "wikilink")。
 
 ## 簡史

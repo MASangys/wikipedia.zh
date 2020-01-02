@@ -1,3 +1,6 @@
+> 本文内容由[One-Two-GO航空269號班機空難](https://zh.wikipedia.org/wiki/One-Two-GO航空269號班機空難)转换而来。
+
+
 **一二走航空269號班機**（OG 269）是一班由泰國[曼谷廊曼機場飛往泰國](https://zh.wikipedia.org/wiki/曼谷國際機場 "wikilink")[布吉國際機場的](https://zh.wikipedia.org/wiki/布吉國際機場 "wikilink")[一二走航空國內線定期航班](https://zh.wikipedia.org/wiki/一二走航空 "wikilink")。2007年9月16日下午14:00-15:20，該機由曼谷飛往[布吉途中疑遇上](https://zh.wikipedia.org/wiki/布吉 "wikilink")[風切變](https://zh.wikipedia.org/wiki/風切變 "wikilink")，降落布吉機場時滑出[跑道](../Page/跑道.md "wikilink")撞向大樹，機身斷成兩截，[爆炸](https://zh.wikipedia.org/wiki/爆炸 "wikilink")[着火](../Page/火災.md "wikilink")，至少89人[死亡](../Page/死亡.md "wikilink")。
 
 ## 其他

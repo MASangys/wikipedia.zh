@@ -1,3 +1,6 @@
+> 本文内容由[WASP-1](https://zh.wikipedia.org/wiki/WASP-1)转换而来。
+
+
 **WASP-1** 是一個位在[仙女座](../Page/仙女座.md "wikilink")的[恆星](https://zh.wikipedia.org/wiki/恆星 "wikilink")，而且有一個叫[WASP-1b](../Page/WASP-1b.md "wikilink")的行星。
 
 ## 参考文献

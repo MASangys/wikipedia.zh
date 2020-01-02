@@ -1,3 +1,6 @@
+> 本文内容由[Sony Ericsson Xperia acro](https://zh.wikipedia.org/wiki/Sony_Ericsson_Xperia_acro)转换而来。
+
+
 Sony Ericsson Xperia acro 是[索尼愛立信生產](https://zh.wikipedia.org/wiki/索尼愛立信 "wikilink")，採用[Android](../Page/Android.md "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，是由 [Xperia Arc](../Page/Sony_Ericsson_Xperia_Arc.md "wikilink") 修改並加入新功能，以符合[日本](../Page/日本.md "wikilink")市場獨有需求的智能手機。2011年6月24日於日本推出。
 
 Xperia acro 由日本兩家[流動網絡商](https://zh.wikipedia.org/wiki/流動網絡商 "wikilink")[NTT docomo及](https://zh.wikipedia.org/wiki/NTT_docomo "wikilink")[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink") by [KDDI](../Page/KDDI.md "wikilink") 銷售。NTT docomo 版本名為 Xperia acro SO-02C，而 au by KDDI 版本則名為 Xperia acro IS11S。Xperia acro IS11S 支援 [CDMA2000](../Page/CDMA2000.md "wikilink")。

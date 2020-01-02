@@ -1,3 +1,6 @@
+> 本文内容由[NoScript](https://zh.wikipedia.org/wiki/NoScript)转换而来。
+
+
 **NoScript** 是一个为 [Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 和 [Mozilla Application Suite](../Page/Mozilla_Application_Suite.md "wikilink")[网页](https://zh.wikipedia.org/wiki/网页 "wikilink")[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink") （诸如[Flock](../Page/Flock.md "wikilink")、[SeaMonkey](../Page/SeaMonkey.md "wikilink")等） 所开发的[自由的](../Page/自由软件.md "wikilink")[扩展](../Page/Firefox扩展列表.md "wikilink")（Add-ons）。NoScript 以[白名单选择性执行](https://zh.wikipedia.org/wiki/白名单 "wikilink") [JavaScript](../Page/JavaScript.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Flash](../Page/Adobe_Flash.md "wikilink")、[Sliverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink") 以及其它插件和脚本内容。\[1\]
 
 ## 特点

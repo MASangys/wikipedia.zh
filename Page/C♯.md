@@ -1,3 +1,6 @@
+> 本文内容由[C♯](https://zh.wikipedia.org/wiki/C♯)转换而来。
+
+
 **C\#**是[微软](../Page/微软.md "wikilink")推出的一种基于[.NET框架](../Page/.NET框架.md "wikilink")的、[面向对象的高级](../Page/面向对象程序设计.md "wikilink")[编程语言](../Page/编程语言.md "wikilink")。C\#以.NET框架类库作为基础，拥有类似[Visual Basic的快速开发能力](../Page/Visual_Basic.md "wikilink")。C\#由[安德斯·海尔斯伯格](../Page/安德斯·海尔斯伯格.md "wikilink")主持开发，微软在2000年发布了这种语言，希望借助这种语言来取代[Java](../Page/Java.md "wikilink")。C\#已经成为[Ecma国际](../Page/Ecma国际.md "wikilink")和[国际标准组织的标准规范](https://zh.wikipedia.org/wiki/国际标准组织 "wikilink")。
 
 ## 命名

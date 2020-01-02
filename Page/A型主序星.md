@@ -1,3 +1,6 @@
+> 本文内容由[A型主序星](https://zh.wikipedia.org/wiki/A型主序星)转换而来。
+
+
 [Sirius_A_and_B_artwork.jpg](https://zh.wikipedia.org/wiki/File:Sirius_A_and_B_artwork.jpg "fig:Sirius_A_and_B_artwork.jpg") [Morgan-Keenan_spectral_classification.png](https://zh.wikipedia.org/wiki/File:Morgan-Keenan_spectral_classification.png "fig:Morgan-Keenan_spectral_classification.png")
 
 **A型主序星(AV星)**是[光譜為A](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")，亮度為V，在[主序帶](https://zh.wikipedia.org/wiki/主序帶 "wikilink")（[氫燃燒](https://zh.wikipedia.org/wiki/氫 "wikilink")）上恆星。這些恆星的定義是在[恆星光譜类型A和光度级V](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")。[恆星光譜上有強烈的](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")[氫的巴耳末吸收譜線](../Page/巴耳末系.md "wikilink") \[1\]\[2\]，它們的質量從[太陽的](https://zh.wikipedia.org/wiki/太陽 "wikilink")1.4倍至2.1倍[太陽質量](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")，[表面溫度在](../Page/有效溫度.md "wikilink")7,600至10,000[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink") \[3\]。

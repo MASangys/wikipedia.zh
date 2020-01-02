@@ -1,3 +1,6 @@
+> 本文内容由[Garden \(遊戲\)](https://zh.wikipedia.org/wiki/Garden_\(遊戲\))转换而来。
+
+
 《**Garden**》是[日本](../Page/日本.md "wikilink")[CUFFS](../Page/CUFFS.md "wikilink")於2008年1月25日所發行的[十八禁](../Page/日本成人遊戲.md "wikilink")[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。
 
 ## 概要

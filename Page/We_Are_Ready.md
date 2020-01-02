@@ -1,3 +1,6 @@
+> 本文内容由[We Are Ready](https://zh.wikipedia.org/wiki/We_Are_Ready)转换而来。
+
+
 《****》是[2008年北京奧運會組委會在](https://zh.wikipedia.org/wiki/2008年北京奧運會 "wikilink")[2007年8月](../Page/2007年8月.md "wikilink")為迎合奧運會倒數一周年而製作的歌曲。
 
 主題歌曲的名字為「We Are Ready」，中文意思就是「我們已作好準備」，加上以英文作歌名亦特顯出向世界宣告的意義，表示主辦單位已對於準備好奧運會的來臨。歌曲將於中國及世界各地播放。

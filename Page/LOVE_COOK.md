@@ -1,3 +1,6 @@
+> 本文内容由[LOVE COOK](https://zh.wikipedia.org/wiki/LOVE_COOK)转换而来。
+
+
 **LOVE COOK**（愛的料理）是[大塚愛的第三張原創專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")，2005年12月14日發行
 
 ## 解說

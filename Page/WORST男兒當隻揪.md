@@ -1,3 +1,6 @@
+> 本文内容由[WORST男兒當隻揪](https://zh.wikipedia.org/wiki/WORST男兒當隻揪)转换而来。
+
+
 《**WORST男兒當隻揪**》（）是[高橋弘的](https://zh.wikipedia.org/wiki/高橋弘 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，作品分三部「**CROWS ZERO**」（）、「**CROWS**」、「**WORST極惡王**」和外傳「初代武裝戰線」，第一部1\~10集、第二、三部已完結。
 
 ## 关于译名

@@ -1,3 +1,6 @@
+> 本文内容由[FSV法兰克福](https://zh.wikipedia.org/wiki/FSV法兰克福)转换而来。
+
+
 [Mk_Frankfurt_FSV.jpg](https://zh.wikipedia.org/wiki/File:Mk_Frankfurt_FSV.jpg "fig:Mk_Frankfurt_FSV.jpg") **法兰克福1899体育足球俱樂部**（，簡稱**FSV Frankfurt**）是位於[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑森](../Page/黑森.md "wikilink")州[法兰克福的博恩海姆](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")（Bornheim）的足球會。成立於1899年，只能活在同市強大的[法蘭克福](../Page/法兰克福足球俱乐部.md "wikilink")（Eintracht Frankfurt）陰影下。
 
 ## 球會歷史

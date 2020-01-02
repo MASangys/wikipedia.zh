@@ -1,3 +1,6 @@
+> 本文内容由[FreeBSD](https://zh.wikipedia.org/wiki/FreeBSD)转换而来。
+
+
 **FreeBSD**是一个[类Unix的](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")，也是FreeBSD项目的发展成果。\[1\]FreeBSD是第一个[开放源代码的系统](https://zh.wikipedia.org/wiki/开源 "wikilink")，他是由基于[BSD Unix的源代码衍生而来的](../Page/BSD.md "wikilink")。BSD Unix是[加州大学伯克利分校在](https://zh.wikipedia.org/wiki/加州大学伯克利分校 "wikilink")1975年至1993年开发的操作系统。FreeBSD被开发为自由软件，这意味着其源代码开放，人人都可以使用FreeBSD。任何人都可以获得并使用它来满足各种需求，也可以修改它，然后再重发布它。此功能专为个人和公司量身定制，可用于创建各种基于FreeBSD的商业和非商业产品。尽管FreeBSD直接从BSD衍生，但是从法律的角度来看，FreeBSD并不是“UNIX”。因为现在“UNIX”商标是属于[国际开放标准组织的](https://zh.wikipedia.org/wiki/国际开放标准组织 "wikilink")。\[2\]FreeBSD的第一个版本于1993年发布。
 
 FreeBSD是一个支持许多硬件和体系架构的企业级系统。和其他BSD家族的操作系统一样， FreeBSD其[核心](../Page/内核.md "wikilink")、[驱动程序](../Page/驱动程序.md "wikilink")以及所有的用户层（Userland）应用程序（如Unix shell和cat和ps等命令）都存储在源代码库中。\[3\]FreeBSD也可以运行其他二进制软件，比如Linux的。借助ports和FreeBSD软件包管理器，你可以在其上安装各种应用程序。根据2005年的调查，77％的BSD用户使用FreeBSD，因此FreeBSD拥有BSD系列中最大的用户社区。\[4\]

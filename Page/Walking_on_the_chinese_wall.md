@@ -1,3 +1,6 @@
+> 本文内容由[Walking on the chinese wall](https://zh.wikipedia.org/wiki/Walking_on_the_chinese_wall)转换而来。
+
+
 《**Walking On the Chinese Wall**》是一首由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[艾美音樂獎提名的美國作詞家和唱片製作人](https://zh.wikipedia.org/wiki/艾美音樂獎 "wikilink")[洛珊·西門](../Page/洛珊·西門.md "wikilink")和創作型歌手Billie Hughes所製作的歌曲.
 
 該歌曲由菲利普貝利錄製。在錄音過程中，菲爾·柯林斯負責製作背景音樂， 且為背景音樂進行架子鼓伴奏和演唱。喬西詹姆也參加了背景音樂的演唱。該歌曲並沒有被歸為貝利和柯林斯的二重唱。

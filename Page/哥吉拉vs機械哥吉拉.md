@@ -1,3 +1,6 @@
+> 本文内容由[哥吉拉vs機械哥吉拉](https://zh.wikipedia.org/wiki/哥吉拉vs機械哥吉拉)转换而来。
+
+
 《**哥吉拉vs機械哥吉拉**》（日文原名：**ゴジラvsメカゴジラ**）是1993年12月11日上映的[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、為[哥吉拉系列電影的第](https://zh.wikipedia.org/wiki/哥吉拉系列電影 "wikilink")20部作品，日本觀眾人數約380萬人，日本票房約38億，片商實際所得18億7000萬日元。。本片在台灣戲院上映時為了趕搭《[侏儸紀公園](https://zh.wikipedia.org/wiki/侏儸紀公園 "wikilink")》熱潮而取名為「暴龍誕生」，2004年[新生代多媒體重新發行DVD時將片名譯為](https://zh.wikipedia.org/wiki/新生代多媒體 "wikilink")「哥吉拉決戰鐵甲哥吉拉」。
 
 ## 劇情概要

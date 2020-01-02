@@ -1,3 +1,6 @@
+> 本文内容由[OMX](https://zh.wikipedia.org/wiki/OMX)转换而来。
+
+
 [Borshuset-2003-04-14.jpg](https://zh.wikipedia.org/wiki/File:Borshuset-2003-04-14.jpg "fig:Borshuset-2003-04-14.jpg")\]\]
 
 **OMX AB**（）是一家跨国[金融服务公司](https://zh.wikipedia.org/wiki/金融服务 "wikilink")，OMX AB由**OM AB**和**HEX plc**于2003年合并而成，在2008年2月成为了[纳斯达克OMX集团旗下子公司](https://zh.wikipedia.org/wiki/纳斯达克OMX集团 "wikilink")\[1\]。OMX AB有两个分支机构：在[北欧和](https://zh.wikipedia.org/wiki/北欧 "wikilink")[波罗的海国家](../Page/波罗的海国家.md "wikilink")运营着8个[证券交易所](../Page/证券交易所.md "wikilink")的“OMX 证券交易所（OMX Exchanges）”和为OMX和其它证券交易所研发所用作金融交易服务的市场分析系统的“OMX科技（OMX Technology）”，同时，OMX科技也是全球领先的金融工具交易系统开发商。

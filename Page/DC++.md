@@ -1,3 +1,6 @@
+> 本文内容由[DC++](https://zh.wikipedia.org/wiki/DC++)转换而来。
+
+
 **DC++**，又称为**DCPlusPlus**。是一款流行于全球各地的免费[点对点](https://zh.wikipedia.org/wiki/点对点 "wikilink")（Peer to Peer）[档案分享](https://zh.wikipedia.org/wiki/档案分享 "wikilink")[软件](../Page/软件.md "wikilink")，并且它也是一个开源[C++](../Page/C++.md "wikilink")直接[连接协议的](https://zh.wikipedia.org/wiki/连接协议 "wikilink")[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。可以让全球电脑用户直接连接在[互联网](../Page/互联网.md "wikilink")上没有限制的共享文件。同时该软件不仅可以搜索档案下载，还可以进行聊天交谈，它和neo-modus公司的directconnect使用同一个[通讯协议](https://zh.wikipedia.org/wiki/通讯协议 "wikilink")。它不仅支持[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")，也支持全球各种语言。
 
 ## 软件性能

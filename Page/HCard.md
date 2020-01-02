@@ -1,3 +1,6 @@
+> 本文内容由[HCard](https://zh.wikipedia.org/wiki/HCard)转换而来。
+
+
 **hCard**是一种[微格式](../Page/微格式.md "wikilink")，用来发布个人、公司、组织、地点等详细的联系信息。它可以包含在[(X)HTML](../Page/HTML.md "wikilink")、[Atom](https://zh.wikipedia.org/wiki/Atom "wikilink")、[RSS](../Page/RSS.md "wikilink")等[可扩展置标语言中](https://zh.wikipedia.org/wiki/可扩展置标语言 "wikilink")。hCard使用[vCard](https://zh.wikipedia.org/wiki/vCard "wikilink")（RFC 2426）的属性和值来实现这些功能。
 
 它可以使分析器（比如其他网站，[Firefox](../Page/Firefox.md "wikilink")的[Operator插件](https://zh.wikipedia.org/wiki/Operator "wikilink")）获得详细的信息，并通过别的网站或者[地图](../Page/地图.md "wikilink")工具进行显示，或者载入到地址簿等其他程序。

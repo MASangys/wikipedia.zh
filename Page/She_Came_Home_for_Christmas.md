@@ -1,3 +1,6 @@
+> 本文内容由[She Came Home for Christmas](https://zh.wikipedia.org/wiki/She_Came_Home_for_Christmas)转换而来。
+
+
 ****為[丹麥樂團](https://zh.wikipedia.org/wiki/丹麥 "wikilink")的第一張EP型式作品，2003年於[日本](../Page/日本.md "wikilink")配合聖誕節所發行。
 
 此EP收錄的{{〈}}{{〉}}、{{〈}}{{〉}}二曲，皆為不同於《》中的重錄版本，在編曲與歌詞方面都有部份更改。而〈〉則是在2000年發行的單曲《》之面。

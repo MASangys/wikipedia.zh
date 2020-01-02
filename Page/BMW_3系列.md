@@ -1,3 +1,6 @@
+> 本文内容由[BMW 3系列](https://zh.wikipedia.org/wiki/BMW_3系列)转换而来。
+
+
 **BMW 3系列**（）是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[汽車制造商](https://zh.wikipedia.org/wiki/汽車 "wikilink")[寶馬汽車生产的一款入門轎車](../Page/BMW.md "wikilink")，并以最畅销的车型成为企业的中坚产品\[1\]。1975年首台3系列轿车作为02级别（02-Reihe）的技术改进款而面世。1981年5月第100万台3系列轿车从生产线中出来，从而成为BMW最为成功的一款车型，并且所有后继的3系列产品都延续这个成功模式，直至今日。
 
 在2005年，3系列轎車占去BMW公司近40%的銷售額。3系列也是在[美國最暢銷的外國轎車款](https://zh.wikipedia.org/wiki/美國 "wikilink")，2005年在美國共銷售出9.8萬台3系列轎車。

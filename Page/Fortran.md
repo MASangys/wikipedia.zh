@@ -1,3 +1,6 @@
+> 本文内容由[Fortran](https://zh.wikipedia.org/wiki/Fortran)转换而来。
+
+
 **福傳**（），源自於「公式翻译」（）的縮寫，是一種[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")。1957年由[IBM](../Page/IBM.md "wikilink")開發出，是世界上第一个被正式采用並流传至今的[高级编程語言](https://zh.wikipedia.org/wiki/高階語言 "wikilink")。
 
 ## 历史

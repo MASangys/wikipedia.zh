@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Office 95](https://zh.wikipedia.org/wiki/Microsoft_Office_95)转换而来。
+
+
 **Microsoft Office 95**是一款[32位元](../Page/32位元.md "wikilink")的[辦公軟體套裝](https://zh.wikipedia.org/wiki/辦公軟體套裝 "wikilink")，是[微軟為了](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows 95研發的](../Page/Windows_95.md "wikilink")。其所包含的程式皆有[物件連結與嵌入的功能](https://zh.wikipedia.org/wiki/物件連結與嵌入 "wikilink")，可在不同程式間自由移動檔案。Office 95有兩種版本：
 
 <center>

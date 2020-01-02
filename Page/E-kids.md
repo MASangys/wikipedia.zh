@@ -1,3 +1,6 @@
+> 本文内容由[E-kids](https://zh.wikipedia.org/wiki/E-kids)转换而来。
+
+
 **E-kids**是[香港](../Page/香港.md "wikilink")一隊[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2002年出道，初期成員包括[阮民安](../Page/阮民安.md "wikilink")（Tommy）、林詠倫（Alan）和[郁禮賢](https://zh.wikipedia.org/wiki/郁禮賢 "wikilink")（Tim/Kasa）。於2004年，[郁禮賢離開E](https://zh.wikipedia.org/wiki/郁禮賢 "wikilink")-kids獨立發展，其後加入了[林中定](https://zh.wikipedia.org/wiki/林中定 "wikilink")（Nick）。2006年，E-kids解散。2013年4月6日，Alan（林詠倫）和Tim（郁禮賢）重組成為E-kids@2，於[九龍灣](../Page/九龍灣.md "wikilink")[國際展貿中心舉辦演唱會](https://zh.wikipedia.org/wiki/國際展貿中心 "wikilink")。2016年8月20日，E-Kids宣佈重組。\[1\] 2017年1月21日舉行E-KIDS 3XL Concert 2017，門票首天開賣便已沽清。\[2\]
 
 ## 簡介

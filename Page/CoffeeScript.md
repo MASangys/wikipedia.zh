@@ -1,3 +1,6 @@
+> 本文内容由[CoffeeScript](https://zh.wikipedia.org/wiki/CoffeeScript)转换而来。
+
+
 **CoffeeScript**是一套[JavaScript](../Page/JavaScript.md "wikilink")的轉譯語言。受到[Ruby](../Page/Ruby.md "wikilink")、[Python](../Page/Python.md "wikilink")與[Haskell](../Page/Haskell.md "wikilink")等語言的啟發\[1\]，CoffeeScript增強了JavaScript的簡潔性與可讀性。此外，CoffeeScript也新增了更複雜的功能，例如、等。一般來說，CoffeeScript可以在不影響執行效能的情況下，縮短約三分之一的程式碼長度\[2\]。自從2011年6月以來，CoffeeScript已經是[GitHub](../Page/GitHub.md "wikilink")上最受矚目的專案之一。\[3\]
 
 ## 歷史

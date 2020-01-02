@@ -1,3 +1,6 @@
+> 本文内容由[KAT-TUN III -QUEEN OF PIRATES-](https://zh.wikipedia.org/wiki/KAT-TUN_III_-QUEEN_OF_PIRATES-)转换而来。
+
+
 《**KAT-TUN III -QUEEN OF PIRATES-**》是[KAT-TUN](../Page/KAT-TUN.md "wikilink")的第3張專輯，於2008年6月4日發售。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Microsoft Azure SQL Database](https://zh.wikipedia.org/wiki/Microsoft_Azure_SQL_Database)转换而来。
+
+
 **Microsoft Azure SQL Database** (舊稱 SQL Azure, SQL Server Data Services 或 SQL Services) 是由微軟[SQL Server 2008為主](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")，建構在[Microsoft Azure雲端作業系統之上](../Page/Microsoft_Azure.md "wikilink")，執行[雲端運算](../Page/雲端運算.md "wikilink") (Cloud Computing)的[關聯式資料庫服務](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink") (Database as a Service)，是一種雲端儲存(Cloud Storage)的實作，提供網路型的應用程式資料儲存的服務。
 
 2017年5月，微軟於 Build 2017 大會時宣布對 [MySQL](../Page/MySQL.md "wikilink") 與 [PostgreSQL](../Page/PostgreSQL.md "wikilink") 的 SQL Database 服務。

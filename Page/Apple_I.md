@@ -1,3 +1,6 @@
+> 本文内容由[Apple I](https://zh.wikipedia.org/wiki/Apple_I)转换而来。
+
+
 **Apple-I**是一种早期的[个人电脑](../Page/个人电脑.md "wikilink")，由[斯蒂夫·沃兹尼亚克](../Page/斯蒂夫·沃兹尼亚克.md "wikilink")设计并[手工打造](https://zh.wikipedia.org/wiki/手工业 "wikilink")\[1\]\[2\]。沃兹尼亚克的朋友[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")则提出销售这台电脑的主意。Apple I是[苹果公司的第一项产品](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，在1976年4月于加州[帕罗奥图的](https://zh.wikipedia.org/wiki/帕羅奧圖_\(加利福尼亞州\) "wikilink")上展示。它于1976年7月以666.66美元\[3\]的价位开始贩售，原因是沃兹尼亚克喜欢重复的数字\[4\]，而此价是在他们原先卖给当地一家店的500美元定价上做了1/3的提价。Apple I约生产了200台。不像当时其他"爱好者电脑"以组装零件的形式销售，Apple I贩售时已是有30个芯片且组合好的电路板。然而使用者仍需自行提供机箱、电源供应器、键盘及显示器使它工作。有一可选的扩充电路板稍后以75美元的价格贩售，它能输出数据至外接录音机做为存储媒体。
 
 Apple I的内置[终端电路相当特殊](https://zh.wikipedia.org/wiki/终端 "wikilink")。用户只需要一组[电脑键盘](../Page/电脑键盘.md "wikilink")及一台不贵的[屏幕](https://zh.wikipedia.org/wiki/屏幕 "wikilink")。当时其他电脑如Altair 8800通常设计以前置切换开关调整并以灯光(通常是红色[LED](https://zh.wikipedia.org/wiki/发光二极管 "wikilink"))输出，若要连接屏幕或[电传打字机则需扩充硬件](https://zh.wikipedia.org/wiki/电传打字机 "wikilink")。这使得Apple I在当时成为创新机种。至1977年4月其价格降至475美元。\[5\]它一直被贩售至1977年8月，尽管[Apple II在同年](../Page/Apple_II.md "wikilink")4月首次展示并于6月开始贩售。\[6\]苹果公司于1977年10月将Apple 1从价目表上移除，象征其正式终结。\[7\]

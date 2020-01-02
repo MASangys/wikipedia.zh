@@ -1,3 +1,6 @@
+> 本文内容由[AutoCAD](https://zh.wikipedia.org/wiki/AutoCAD)转换而来。
+
+
 **AutoCAD**是由[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Autodesk](../Page/Autodesk.md "wikilink")为[電腦上應用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[電腦輔助設計技術而开发的繪圖程序軟體包](https://zh.wikipedia.org/wiki/電腦輔助設計 "wikilink")，現已經成為國際上廣為流行的繪圖工具。該軟體推廣的[.dwg](../Page/.dwg.md "wikilink")文件格式成為二維繪圖的常用標準格式。
 
 ## 支持语言

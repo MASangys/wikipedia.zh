@@ -1,3 +1,6 @@
+> 本文内容由[Binary](https://zh.wikipedia.org/wiki/Binary)转换而来。
+
+
 《**Binary**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[謝安琪](../Page/謝安琪.md "wikilink")的第五張個人[音樂專輯](../Page/音樂專輯.md "wikilink")，於2008年7月24日發行。專輯銷量達白金，並在HMV上榜22星期及連續3週銷量冠軍，創下其個人的銷量紀錄。
 
 本唱片一如以往，大部分歌曲都由[周博賢](../Page/周博賢.md "wikilink")作曲及填詞。而本唱片於該年度獲得多個大獎，包括叱咤樂壇至尊唱片大獎、四台聯頒音樂大獎-大碟獎等等。

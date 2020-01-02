@@ -1,3 +1,6 @@
+> 本文内容由[PowerBook](https://zh.wikipedia.org/wiki/PowerBook)转换而来。
+
+
 [PowerBook_redjar.jpg](https://zh.wikipedia.org/wiki/File:PowerBook_redjar.jpg "fig:PowerBook_redjar.jpg") **PowerBook**為一系列的麥金塔（Macintosh）筆記本型電腦，由[蘋果電腦設計及製造](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")，並於1991年至2006年其間發售。PowerBook 曾經歷過數次主要修改與及重新設計，有很多特色都領先同行，後來成為其他筆記本電腦的標準配備。
 
 PowerBook 的目標顧客為專業市場，並曾獲得相當數量的獎項，例如2001年的工業設計優異獎 - 金獎（Industrial Design Awards - "Gold" Status），與及著名科技網站[Engadget](../Page/Engadget.md "wikilink")的2005年年度筆記本電腦（Laptop of the Year）。 在進入筆記本時代的PowerBook 以前，蘋果電腦的手提電腦產品為手提麥金塔（Macintosh Portable）。那個時候有一些由第三方生產的手提電腦都能執行麥金塔的軟體，例如 "Outbound Laptop"。於1999年，針對一般消費市場蘋果亦推出了本系列的姊妹型電腦 iBook 系列。

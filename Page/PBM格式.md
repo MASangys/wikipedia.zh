@@ -1,3 +1,6 @@
+> 本文内容由[PBM格式](https://zh.wikipedia.org/wiki/PBM格式)转换而来。
+
+
 **可移植像素图格式**（PPM），**可移植灰度图格式**（PGM）和**可移植位图格式**（PBM）是便于[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[图像格式](https://zh.wikipedia.org/wiki/图像格式 "wikilink")。有时候也被统称为[PNM格式](https://zh.wikipedia.org/wiki/PNM格式 "wikilink")\[1\]。
 
 ## 历史

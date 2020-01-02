@@ -1,3 +1,6 @@
+> 本文内容由[Placebo](https://zh.wikipedia.org/wiki/Placebo)转换而来。
+
+
 **Placebo**，1994年成立於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[另類搖滾樂樂團](https://zh.wikipedia.org/wiki/另類搖滾樂 "wikilink")。現今成員為[布萊恩·莫爾可與](https://zh.wikipedia.org/wiki/布萊恩·莫爾可 "wikilink")[史蒂芬·歐斯戴](../Page/史蒂芬·歐斯戴.md "wikilink")。樂隊在國際上獲得了認可與賞識，在英國，專輯的銷售數目已經超過百萬張，而在世界各地亦有超過千萬張的銷售成績。
 
 至今，百憂解也擁有許多廣為人知的金曲，例如：**Nancy Boy**、**Pure Morning**、**You Don't Care About Us**、**Every You Every Me**、**The Bitter End**、**Twenty Years**、**Black-Eyed**、**Because I Want You**、**Infra-Red**、**Meds**、以及翻唱[Kate Bush的歌曲](https://zh.wikipedia.org/wiki/Kate_Bush "wikilink")**Running Up That Hill**。

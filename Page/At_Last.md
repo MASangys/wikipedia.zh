@@ -1,3 +1,6 @@
+> 本文内容由[At Last](https://zh.wikipedia.org/wiki/At_Last)转换而来。
+
+
 **At Last**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯一隊小眾樂隊](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，由華人Justin Fong、韓裔人Hans Cho和Michael H. Lee、組成，主打[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")，演唱時沒有伴奏樂器，節拍和配樂全由聲藝配合，其樂風深受Stevie Wonder、Al Green、The Temptations 、Boyz II Men及Alicia Keys的影響。
 
 在成立At Last之前，Hans原為[雅虎](../Page/雅虎.md "wikilink")僱員，他與Michael原先在校園演出，隨後到洛杉磯尋找發展機會，認識Justin，組成At Last樂隊，並從德州找來黑人DJ Say加盟，但DJ在2007年已退出。

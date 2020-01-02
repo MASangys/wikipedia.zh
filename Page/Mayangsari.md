@@ -1,3 +1,6 @@
+> 本文内容由[Mayangsari](https://zh.wikipedia.org/wiki/Mayangsari)转换而来。
+
+
 **Mayangsari**，本名**Agustina Mayangsari**，1971年8月23日出生在[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[中爪哇](https://zh.wikipedia.org/wiki/中爪哇 "wikilink")，是一位印尼知名女歌手。
 
 ## 走紅期 1991年\~1994年

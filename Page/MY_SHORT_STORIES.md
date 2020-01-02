@@ -1,3 +1,6 @@
+> 本文内容由[MY SHORT STORIES](https://zh.wikipedia.org/wiki/MY_SHORT_STORIES)转换而来。
+
+
 《**MY SHORT STORIES**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")于2008年11月12日所推出的單曲B面精選。
 
 ## 收錄歌曲

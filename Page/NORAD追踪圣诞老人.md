@@ -1,3 +1,6 @@
+> 本文内容由[NORAD追踪圣诞老人](https://zh.wikipedia.org/wiki/NORAD追踪圣诞老人)转换而来。
+
+
 [`NORAD_Tracks_Santa_Logo.png`](https://zh.wikipedia.org/wiki/File:NORAD_Tracks_Santa_Logo.png "fig:NORAD_Tracks_Santa_Logo.png")
 
 **NORAD 追踪圣诞老人**（****）是[北美防空司令部](https://zh.wikipedia.org/wiki/北美防空司令部 "wikilink")（NORAD）运作的一个[公关网站](https://zh.wikipedia.org/wiki/公关 "wikilink")。50多年来，北美防空司令部及其前身[北美大陆防空司令部的许多故事](https://zh.wikipedia.org/wiki/北美大陆防空司令部 "wikilink")，讲述他们如何使用强大的军事追踪系统（例如 [远程早期预警防线](https://zh.wikipedia.org/wiki/远程早期预警防线 "wikilink")）追踪[圣诞老人](../Page/圣诞老人.md "wikilink")在[圣诞节前夕的行踪](https://zh.wikipedia.org/wiki/圣诞节前夕 "wikilink")。

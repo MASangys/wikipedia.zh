@@ -1,3 +1,6 @@
+> 本文内容由[Lee](https://zh.wikipedia.org/wiki/Lee)转换而来。
+
+
 **Lee**是一個[牛仔褲的品牌](https://zh.wikipedia.org/wiki/牛仔褲 "wikilink")，1889年成立於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[肯薩斯州的](https://zh.wikipedia.org/wiki/肯薩斯州 "wikilink")[沙里納](https://zh.wikipedia.org/wiki/沙里納 "wikilink")，目前總部設於[堪薩斯城](../Page/堪薩斯城_\(堪薩斯州\).md "wikilink")，由[Kontoor Brands Inc經營](https://zh.wikipedia.org/wiki/Kontoor_Brands_Inc "wikilink")。
 
 ## 歷史

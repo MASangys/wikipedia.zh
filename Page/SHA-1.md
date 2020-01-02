@@ -1,3 +1,6 @@
+> 本文内容由[SHA-1](https://zh.wikipedia.org/wiki/SHA-1)转换而来。
+
+
 **SHA-1**（，中文名：安全散列算法1）是一种[密码散列函数](https://zh.wikipedia.org/wiki/密码散列函数 "wikilink")，[美国国家安全局](../Page/美国国家安全局.md "wikilink")设计，并由美国[國家標準技術研究所](../Page/國家標準技術研究所.md "wikilink")（NIST）发布为[聯邦資料處理標準](https://zh.wikipedia.org/wiki/聯邦資料處理標準 "wikilink")（FIPS）\[1\]。SHA-1可以生成一个被称为消息摘要的160[位](https://zh.wikipedia.org/wiki/位 "wikilink")（20[字节](../Page/字节.md "wikilink")）散列值，散列值通常的呈现形式为40个[十六进制](../Page/十六进制.md "wikilink")数。
 
 SHA-1已经不再视为可抵御有充足资金、充足计算资源的攻击者。2005年，密码分析人员发现了对SHA-1的有效攻击方法，这表明该算法可能不够安全，不能继续使用\[2\]，自2010年以来，许多组织建议用[SHA-2](../Page/SHA-2.md "wikilink")或[SHA-3](../Page/SHA-3.md "wikilink")来替换SHA-1\[3\]\[4\]\[5\]。[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")\[6\]、[Google](../Page/Google.md "wikilink")\[7\]以及[Mozilla](../Page/Mozilla.md "wikilink")\[8\]\[9\]\[10\]都宣布，它们旗下的浏览器将在2017年前停止接受使用SHA-1算法签名的[SSL证书](https://zh.wikipedia.org/wiki/電子證書 "wikilink")。

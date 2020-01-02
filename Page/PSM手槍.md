@@ -1,3 +1,6 @@
+> 本文内容由[PSM手槍](https://zh.wikipedia.org/wiki/PSM手槍)转换而来。
+
+
 **PSM**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пистолет Самозарядный Малогабаритный，意為：緊湊型半自動手槍）是一種由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[KBP儀器設計局於](https://zh.wikipedia.org/wiki/俄聯邦儀器設計局 "wikilink")1969年設計的防身用手槍，旨在提供給執法部門及[軍官](../Page/軍官.md "wikilink")使用。該槍在1973年於正式投產。
 
 ## 設計
@@ -84,9 +87,7 @@ PSM手槍原先是打算提供給[蘇聯軍隊中的高階軍官作自衛之用]
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:袖珍手槍](https://zh.wikipedia.org/wiki/Category:袖珍手槍 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 
 1.
-
 2.  Jones, Richard D. *Jane's Infantry Weapons 2009/2010*. Jane's Information Group; 35 edition (January 27, 2009). ISBN 978-0-7106-2869-5.
-
 3.
 4.
 5.

@@ -1,3 +1,6 @@
+> 本文内容由[PID控制器](https://zh.wikipedia.org/wiki/PID控制器)转换而来。
+
+
 **PID控制器**（比例-积分-微分[控制器](https://zh.wikipedia.org/wiki/控制器 "wikilink")），由比例单元（P）、[积分](../Page/积分.md "wikilink")单元（I）和[微分](../Page/微分.md "wikilink")单元（D）组成\[1\]。可以透過調整這三個單元的增益Kp，Ki和Kd來調定其特性。PID控制器主要适用于基本上线性，且动态特性不随时间变化的系统。
 
 [Pid-feedback-nct-int-correct.png](https://zh.wikipedia.org/wiki/File:Pid-feedback-nct-int-correct.png "fig:Pid-feedback-nct-int-correct.png")

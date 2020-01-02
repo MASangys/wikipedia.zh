@@ -1,3 +1,6 @@
+> 本文内容由[SKUNK SHOT BOOSTER](https://zh.wikipedia.org/wiki/SKUNK_SHOT_BOOSTER)转换而来。
+
+
 [SSB_in_CLUB_CITTA.JPG](https://zh.wikipedia.org/wiki/File:SSB_in_CLUB_CITTA.JPG "fig:SSB_in_CLUB_CITTA.JPG")CLUB CITTA'的演唱會\]\] **SKUNK SHOT BOOSTER**（簡稱**SSB**）是於[日本](../Page/日本.md "wikilink")[佐賀大學](../Page/佐賀大學.md "wikilink")民謠研究會2004年1月組成的[搖滾音樂](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。組成後積極展開演唱會和自主[企劃](https://zh.wikipedia.org/wiki/企劃 "wikilink")。2005年於[CHARCOAL FILTER佐賀公園舉行公開演唱會](https://zh.wikipedia.org/wiki/CHARCOAL_FILTER "wikilink")，並於佐賀GEILS的「TRIANGLE」與[Maximum the Hormone](https://zh.wikipedia.org/wiki/Maximum_the_Hormone "wikilink")、[G-FREAK FACTORY](https://zh.wikipedia.org/wiki/G-FREAK_FACTORY "wikilink")、[STOMPIN' BIRD等共同演出](https://zh.wikipedia.org/wiki/STOMPIN'_BIRD "wikilink")。同年獲得「」大獎。2007年3月以[Aer-born的樂團身分正式出道](https://zh.wikipedia.org/wiki/Aer-born "wikilink")。
 
 ## 成員

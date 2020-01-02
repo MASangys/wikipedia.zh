@@ -1,3 +1,6 @@
+> 本文内容由[Line \(消歧義\)](https://zh.wikipedia.org/wiki/Line_\(消歧義\))转换而来。
+
+
 **Line**、**LINE**，可能指：
 
 ## 科技

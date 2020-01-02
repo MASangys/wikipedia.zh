@@ -1,3 +1,6 @@
+> 本文内容由[CCU](https://zh.wikipedia.org/wiki/CCU)转换而来。
+
+
 **CCU**可能指：
 
 ## 大學

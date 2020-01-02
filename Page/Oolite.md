@@ -1,3 +1,6 @@
+> 本文内容由[Oolite](https://zh.wikipedia.org/wiki/Oolite)转换而来。
+
+
 《**Oolite**》是3D空间模拟游戏，完全仿照[Elite设计](https://zh.wikipedia.org/wiki/Elite "wikilink")。名称来自Object Oriented Elite。用[Objective-C](../Page/Objective-C.md "wikilink")写成。源代码授权为[GNU GPL version 2](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")，图像音乐数据授权[CC-BY-NC-SA-3.0 license](https://zh.wikipedia.org/wiki/Creative_Commons "wikilink")\[1\]
 
 ## 玩法

@@ -1,3 +1,6 @@
+> 本文内容由[Chromium](https://zh.wikipedia.org/wiki/Chromium)转换而来。
+
+
 **Chromium**是Google為發展自家的瀏覽器[Google Chrome而開](../Page/Google_Chrome.md "wikilink")-{}-啟的計畫，以[BSD授權條款等數種授權發行並](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。Chromium与Google Chrome共享大部分程式碼和功能，但功能和商標之間有一些細微差別。
 
 Chromium 的更新速度很快，每隔數小時即有新的開發版本發佈，每次的更新幅度不一定相同，可能增加新功能，或者單純修正問題，由於新功能會先在Chromium上測試，等待認證後才會應用在Google Chrome上，所以Chromium相當於Google Chrome的先行版。

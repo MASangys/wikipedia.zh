@@ -1,3 +1,6 @@
+> 本文内容由[OpenArena](https://zh.wikipedia.org/wiki/OpenArena)转换而来。
+
+
 ***OpenArena*** 基于*[雷神之锤III](https://zh.wikipedia.org/wiki/雷神之锤III "wikilink")* 开始于，紧接着[id Tech 3释放为](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")[GPL的那一天](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
 *OpenArena*为了成为完整的自由版本QuakeIII而开发着。引擎是[ioquake3基于](https://zh.wikipedia.org/wiki/ioquake3 "wikilink")[id Software放出的](https://zh.wikipedia.org/wiki/id_Software "wikilink")[雷神之锤III引擎](https://zh.wikipedia.org/wiki/雷神之锤III引擎 "wikilink")。*OpenArena* 在 [GNU](../Page/GNU.md "wikilink")／[Linux](../Page/Linux.md "wikilink") 发行版中传播，如 [Debian](../Page/Debian.md "wikilink")，[Fedora](../Page/Fedora.md "wikilink")，[Mandriva](../Page/Mandriva.md "wikilink")，[Ubuntu](../Page/Ubuntu.md "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Ext3](https://zh.wikipedia.org/wiki/Ext3)转换而来。
+
+
 **第三代扩展文件系统**（，縮寫為**ext3**），是一个[日志文件系统](../Page/日志文件系统.md "wikilink")，常用于[Linux操作系统](https://zh.wikipedia.org/wiki/Linux操作系统 "wikilink")。它是很多[Linux发行版](../Page/Linux发行版.md "wikilink")的默认[文件系统](../Page/文件系统.md "wikilink")。[Stephen Tweedie在](https://zh.wikipedia.org/wiki/Stephen_Tweedie "wikilink")1999年2月的内核邮件列表\[1\]中，最早显示了他使用扩展的[ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")，该文件系统从2.4.15版本的内核开始，合并到内核主线中\[2\]。
 
 ## 优势

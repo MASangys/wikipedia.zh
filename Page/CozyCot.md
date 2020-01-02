@@ -1,3 +1,6 @@
+> 本文内容由[CozyCot](https://zh.wikipedia.org/wiki/CozyCot)转换而来。
+
+
 **CozyCot**是一个专为[东亚和](https://zh.wikipedia.org/wiki/东亚 "wikilink")[东南亚](https://zh.wikipedia.org/wiki/东南亚 "wikilink")（特别是[新加坡](../Page/新加坡.md "wikilink")）女性而设的[社交网络](../Page/社交網路服務.md "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")。成立于2001年的CozyCot曾于2010年发行了一份[报纸](https://zh.wikipedia.org/wiki/报纸 "wikilink")。
 
 ## 历史

@@ -1,3 +1,6 @@
+> 本文内容由[ArXiv](https://zh.wikipedia.org/wiki/ArXiv)转换而来。
+
+
 **arXiv**（*X*依[希臘文的](https://zh.wikipedia.org/wiki/希臘文 "wikilink")發音，讀音如英語的*[archive](https://zh.wikipedia.org/wiki/wikt:archive "wikilink")*）是一個收集[物理學](https://zh.wikipedia.org/wiki/物理學 "wikilink")、[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[計算機科學、](https://zh.wikipedia.org/wiki/計算機科學 "wikilink")[生物學與](https://zh.wikipedia.org/wiki/生物學 "wikilink")[數理經濟學的](https://zh.wikipedia.org/wiki/数理经济学 "wikilink")[論文](https://zh.wikipedia.org/wiki/論文 "wikilink")[預印本的網站](https://zh.wikipedia.org/wiki/預印本 "wikilink")，始于1991年8月14日。，arXiv.org已收集超過50萬篇預印本\[1\]\[2\]；至2014年底，藏量達到1百萬篇\[3\]\[4\]。截至2016年10月，提交率已達每月超過10,000篇\[5\]\[6\]。
 
 ## 簡史

@@ -1,3 +1,6 @@
+> 本文内容由[Open client](https://zh.wikipedia.org/wiki/Open_client)转换而来。
+
+
 **Open Client**是一种[Linux](../Page/Linux.md "wikilink")版本。
 
 ## 描述

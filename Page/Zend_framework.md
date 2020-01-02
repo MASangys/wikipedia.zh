@@ -1,3 +1,6 @@
+> 本文内容由[Zend framework](https://zh.wikipedia.org/wiki/Zend_framework)转换而来。
+
+
 **Zend Framework**（ZF）是一种[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink"), [面向对象的WEB应用程序开发](https://zh.wikipedia.org/wiki/面向对象 "wikilink")[框架](https://zh.wikipedia.org/wiki/框架 "wikilink")，在[PHP](../Page/PHP.md "wikilink")7下运行，使用MVC软件架构，授權模式採用[BSD许可证](../Page/BSD许可证.md "wikilink")。\[1\]
 
 ## 当前版本

@@ -1,3 +1,6 @@
+> 本文内容由[DJ型电力机车](https://zh.wikipedia.org/wiki/DJ型电力机车)转换而来。
+
+
 **DJ型“九方”电力机车**，是[中国铁路的](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[电力机车车型之一](https://zh.wikipedia.org/wiki/电力机车 "wikilink")，也是中国第一种交流传动高速客运电力机车，由[株洲电力机车厂联合](https://zh.wikipedia.org/wiki/株洲电力机车厂 "wikilink")[株洲电力机车研究所等单位于](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")2000年研制成功。DJ型电力机车采用交—直—交流电传动，持续功率为4,800千瓦，最高运用速度为200公里/小时，采用[Adtranz](../Page/Adtranz.md "wikilink")公司的IPM-IGBT水冷牵引变流器、交流传动控制系统、牵引电动机和微机控制系统，并借鉴了[X2000列车的部分先进技术](https://zh.wikipedia.org/wiki/X2000列车 "wikilink")。
 
 ## 发展历史

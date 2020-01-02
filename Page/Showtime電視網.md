@@ -1,3 +1,6 @@
+> 本文内容由[Showtime電視網](https://zh.wikipedia.org/wiki/Showtime電視網)转换而来。
+
+
 **Showtime電視網**（），是[美国](../Page/美国.md "wikilink")一家有線電視網，一家[付費](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[有線](https://zh.wikipedia.org/wiki/有線電視 "wikilink")[電視網](https://zh.wikipedia.org/wiki/電視網 "wikilink")，隸屬於[CBS集團](https://zh.wikipedia.org/wiki/CBS集團 "wikilink")，成立於1976年，主要競爭對手是[HBO](../Page/HBO.md "wikilink")。播放各种电影和原创电视剧，播出完結的影集包括《[同志亦凡人](https://zh.wikipedia.org/wiki/同志亦凡人 "wikilink")》、《[嗜血法醫](https://zh.wikipedia.org/wiki/嗜血法醫 "wikilink")》、《[單身毒媽](https://zh.wikipedia.org/wiki/單身毒媽 "wikilink")》等，近期以《[無恥之徒](https://zh.wikipedia.org/wiki/无耻之徒_\(美國電視劇\) "wikilink")》收視亮眼，除影視節目外，也会播放[拳击](../Page/拳击.md "wikilink")比赛。
 
 ## 概況

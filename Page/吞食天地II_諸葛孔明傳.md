@@ -1,3 +1,6 @@
+> 本文内容由[吞食天地II 諸葛孔明傳](https://zh.wikipedia.org/wiki/吞食天地II_諸葛孔明傳)转换而来。
+
+
 ，是一款由[卡普空](../Page/卡普空.md "wikilink")公司於1991年4月5日發行的[FC遊戲機用遊戲卡匣軟體](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")。\[1\]游戏與1989年發行的前作《[吞食天地](https://zh.wikipedia.org/wiki/吞食天地_\(FC游戏\) "wikilink")》均屬[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。
 
 ## 设定

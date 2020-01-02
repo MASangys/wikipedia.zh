@@ -1,3 +1,6 @@
+> 本文内容由[Evolution \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/Evolution_\(濱崎步單曲\))转换而来。
+
+
 \-{T|evolution}-
 
 《**evolution**》（進化）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第20張單曲，也是她第二次以「CREA」筆名作曲的單曲，2001年1月31日於日本發售。

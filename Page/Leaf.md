@@ -1,3 +1,6 @@
+> 本文内容由[Leaf](https://zh.wikipedia.org/wiki/Leaf)转换而来。
+
+
 **Leaf**（），是[日本](../Page/日本.md "wikilink")公司[AQUAPLUS](../Page/AQUAPLUS.md "wikilink")（アクアプラス）旗下負責開發及發售[成人遊戲的品牌](../Page/日本成人遊戲.md "wikilink")，在[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")-{[淀川區](../Page/淀川區.md "wikilink")}-和[东京](../Page/东京.md "wikilink")都有办公室。Leaf亦被稱為「」、「葉」。
 
 ## 作品列表

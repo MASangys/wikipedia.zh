@@ -1,3 +1,6 @@
+> 本文内容由[Marble \(樂團\)](https://zh.wikipedia.org/wiki/Marble_\(樂團\))转换而来。
+
+
 **marble**（），[日本](../Page/日本.md "wikilink")雙人音樂團體。成立於1999年，由**micco**和**菊池達也**兩人組成。
 
 micco和菊池達也是音樂學院的同學。1999年，他們組成「**The Student's**」樂團，並且和[華納音樂簽約](../Page/華納音樂集團.md "wikilink")，不過大多都工作都是為其它歌手或者樂團作曲，自己本身演出的機會很少。2003年，他們將樂團改名為「marble」；2005年，兩人脫離樂團，但是仍然經常以[二人組的形式演出](https://zh.wikipedia.org/wiki/二人組 "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[Gears](https://zh.wikipedia.org/wiki/Gears)转换而来。
+
+
 **Gears**，原稱Google Gears，是一款[Google](../Page/Google.md "wikilink")开发的軟體，讓使用者可以[离线浏览](../Page/离线浏览.md "wikilink")。這套軟體透過以浏览器扩展的方式添加[JavaScript](../Page/JavaScript.md "wikilink") [API使得浏览器的脚本能够访问本地的](https://zh.wikipedia.org/wiki/API "wikilink")[SQLite](../Page/SQLite.md "wikilink")缓存数据库。所以網頁是透過暫存區取得的，而不是從實際的網路上取得。而且，Web相關的程式可以週期性的透过Gears将本地暫存的資料與网络上的資料做同步。如果網路暫時無法使用，這個同步過程將會延後，直到網路恢復為止。因此，Gears的Web相關应用并不是即時的。
 
 由于[HTML5](../Page/HTML5.md "wikilink")能做到的同样的事情，Google已经放弃為Gears增加新功能\[1\]。並且於2011年底前撤出Google產品線而不再發行\[2\]。

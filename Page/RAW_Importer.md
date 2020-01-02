@@ -1,3 +1,6 @@
+> 本文内容由[RAW Importer](https://zh.wikipedia.org/wiki/RAW_Importer)转换而来。
+
+
 **StepOK RAW 导入器**（**RAW Importer**）是一个由[Step OK图形工作室出品的具备导入](https://zh.wikipedia.org/wiki/Step_OK "wikilink")、转换[RAW](../Page/RAW.md "wikilink")图形格式文件的[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。
 
 最新版本为1.2。

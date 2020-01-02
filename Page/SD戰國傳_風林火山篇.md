@@ -1,3 +1,6 @@
+> 本文内容由[SD戰國傳 風林火山篇](https://zh.wikipedia.org/wiki/SD戰國傳_風林火山篇)转换而来。
+
+
 **風林火山篇**是「[武者七人眾篇](https://zh.wikipedia.org/wiki/武者七人眾篇 "wikilink")」的續集，內容講述繼承大將軍「光之玉」的「[新生五人眾](https://zh.wikipedia.org/wiki/新生五人眾 "wikilink")」，以及「[風林火山四天王](https://zh.wikipedia.org/wiki/風林火山四天王 "wikilink")」，對抗吸取「[闇之鎧](https://zh.wikipedia.org/wiki/闇之鎧 "wikilink")」而復活的闇將軍。
 
 ## 故事簡介

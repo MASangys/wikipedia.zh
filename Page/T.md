@@ -1,3 +1,6 @@
+> 本文内容由[T](https://zh.wikipedia.org/wiki/T)转换而来。
+
+
 **T**, **t** 是[拉丁字母](../Page/拉丁字母.md "wikilink")中的第20个[字母](../Page/字母.md "wikilink")。
 
 是西方[闪族语字母表和](https://zh.wikipedia.org/wiki/闪族语 "wikilink")[希伯来字母](../Page/希伯来字母.md "wikilink")的最后一个字母。闪族语的Taw的音值、[希腊字母](../Page/希腊字母.md "wikilink")（Tau）以及[伊特鲁里亚字母和](https://zh.wikipedia.org/wiki/伊特鲁里亚字母 "wikilink")[拉丁字母](../Page/拉丁字母.md "wikilink")的T都曾发作/t/。

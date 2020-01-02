@@ -1,3 +1,6 @@
+> 本文内容由[The Linux Game Tome](https://zh.wikipedia.org/wiki/The_Linux_Game_Tome)转换而来。
+
+
 **The Linux Game Tome** 是一个[Linux](../Page/Linux.md "wikilink")下的游戏列表网站。
 
 ## 历程

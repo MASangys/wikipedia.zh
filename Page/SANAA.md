@@ -1,3 +1,6 @@
+> 本文内容由[SANAA](https://zh.wikipedia.org/wiki/SANAA)转换而来。
+
+
 [Koga_Park_Café.jpg](https://zh.wikipedia.org/wiki/File:Koga_Park_Café.jpg "fig:Koga_Park_Café.jpg") [Kanazawa_21st_Century_Museum.jpg](https://zh.wikipedia.org/wiki/File:Kanazawa_21st_Century_Museum.jpg "fig:Kanazawa_21st_Century_Museum.jpg") [Zollverein_School_of_Management_and_Design_3116754.jpg](https://zh.wikipedia.org/wiki/File:Zollverein_School_of_Management_and_Design_3116754.jpg "fig:Zollverein_School_of_Management_and_Design_3116754.jpg") **SANAA**（，）是由日本[建築師](https://zh.wikipedia.org/wiki/建築師 "wikilink")[妹島和世](../Page/妹島和世.md "wikilink")和[西澤立衛](../Page/西澤立衛.md "wikilink")兩人共同成立的[建築事務所](https://zh.wikipedia.org/wiki/建築事務所 "wikilink")。2010年，SANAA獲得建築界最高榮譽[普利兹克奖](https://zh.wikipedia.org/wiki/普利兹克奖 "wikilink")。
 
 ## 主要作品

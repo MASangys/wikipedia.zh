@@ -1,3 +1,6 @@
+> 本文内容由[Java](https://zh.wikipedia.org/wiki/Java)转换而来。
+
+
 ****是一種廣泛使用的電腦[程式設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，擁有[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、[物件導向](https://zh.wikipedia.org/wiki/物件導向 "wikilink")、[泛型程式設計的特性](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")，广泛应用于企业级Web应用开发和移动应用开发。
 
 任職於[昇陽電腦](../Page/昇陽電腦.md "wikilink")的[詹姆斯·高斯林](../Page/詹姆斯·高斯林.md "wikilink")等人于1990年代初开发Java語言的雛形，最初被命名为Oak，目標設定在[家用电器](../Page/家用电器.md "wikilink")等小型系統的[程式语言](https://zh.wikipedia.org/wiki/程式语言 "wikilink")，應用在[电视机](../Page/电视机.md "wikilink")、[电话](../Page/电话.md "wikilink")、[闹钟](https://zh.wikipedia.org/wiki/闹钟 "wikilink")、[烤面包机等家用电器的控制和通訊](https://zh.wikipedia.org/wiki/烤面包机 "wikilink")。由于这些[智能化家电的市场需求没有预期的高](https://zh.wikipedia.org/wiki/智能化 "wikilink")，[太阳计算机系统](https://zh.wikipedia.org/wiki/太阳计算机系统 "wikilink")（[Sun公司](https://zh.wikipedia.org/wiki/Sun公司 "wikilink")）放弃了该项计划。随着1990年代[網際網路的发展](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，[Sun公司看見Oak在](https://zh.wikipedia.org/wiki/Sun公司 "wikilink")[網際網路上应用的前景](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，于是改造了Oak，於1995年5月以Java的名称正式发布。Java伴随着互联网的迅猛发展而发展，逐渐成为重要的网络编程语言。

@@ -1,3 +1,6 @@
+> 本文内容由[Frozen Bubble](https://zh.wikipedia.org/wiki/Frozen_Bubble)转换而来。
+
+
 ***Frozen Bubble*** 是一款*[泡泡龍](https://zh.wikipedia.org/wiki/泡泡龍 "wikilink")*樣式的可在多個操作系統包括[Linux](../Page/Linux.md "wikilink")，[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS X和智能手機的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Symbian](https://zh.wikipedia.org/wiki/Symbian_OS "wikilink")[S60上運行的](https://zh.wikipedia.org/wiki/S60 "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。另外還有一個單人的[Java](../Page/Java.md "wikilink")applet版。\[1\]
 
 *Frozen Bubble*原版用[Perl](../Page/Perl.md "wikilink")写成，作者是Guillaume Cottenceau，使用[Simple DirectMedia Layer](https://zh.wikipedia.org/wiki/Simple_DirectMedia_Layer "wikilink")[库](https://zh.wikipedia.org/wiki/库 "wikilink")\[2\]\[3\]游戏拥有100个关卡，附带关卡编辑器\[4\]和很多专门针对Linux开发的游戏一样，使用[Tux](../Page/Tux.md "wikilink")为主要角色，发射彩色冰泡泡到同色的泡泡旁边，成组消灭它们。在泡泡到达底部之前全部消除。

@@ -1,3 +1,6 @@
+> 本文内容由[Google涂鸦列表](https://zh.wikipedia.org/wiki/Google涂鸦列表)转换而来。
+
+
 {{ 未完成列表 }} {{ 动态列表 }} **[Google Doodle](https://zh.wikipedia.org/wiki/Google_Doodle "wikilink")**（**Google徽标**）是艺术性的[Google商標](../Page/Google商標.md "wikilink")。从1998年第一个[火人节Doodle开始](https://zh.wikipedia.org/wiki/火人节 "wikilink")，[Google](../Page/Google.md "wikilink")一直在设计各种Doodle，大多是为了庆祝节日、纪念日以及著名艺术家、先驱者和科学家的诞辰等。从2000年开始，[黄正穆开始负责设计Doodle](https://zh.wikipedia.org/wiki/黄正穆 "wikilink")\[1\] 。
 
 ## 1998年

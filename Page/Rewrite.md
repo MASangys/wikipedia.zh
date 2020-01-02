@@ -1,3 +1,6 @@
+> 本文内容由[Rewrite](https://zh.wikipedia.org/wiki/Rewrite)转换而来。
+
+
 《**Rewrite**》（）是一部由日本 [Visual Art's](../Page/Visual_Art's.md "wikilink") 股份有限公司旗下的 [Key](../Page/Key_\(遊戲品牌\).md "wikilink") 社製作的一部[戀愛冒險遊戲](../Page/戀愛冒險遊戲.md "wikilink")。這款遊戲是 Key 的第九部作品，於2011年6月24日發行於 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") PC 平臺，爲全年齡向遊戲。Key 于2012年7月27日发布名为《[Rewrite Harvest festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》的[Fan disc来扩展故事情节](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。《Rewrite》还被[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[PSP](../Page/PlayStation_Portable.md "wikilink")、[PSV和](../Page/PlayStation_Vita.md "wikilink")[PS3平台上](../Page/PlayStation_3.md "wikilink")。故事讲述的是拥有超能力的高中生天王寺瑚太朗和学校超自然研究會的五个女生一起调查風祭市的超自然现象，同时他也被卷入这场盖亚和守护者的的冲突之中，并和世界的命运联系在一起。
 
 和众多戀愛冒險遊戲一样，《Rewrite》有着多条分支剧情路线，男主角和六位女性角色的互动是该游戏的[游戏性所在](https://zh.wikipedia.org/wiki/游戏性 "wikilink")，除此之外，游戏中还添加[任务成就系统](../Page/任务_\(电子游戏\).md "wikilink")。该游戏在发行之后的一段时间里成为日本销量最高的PC游戏之一。游戏被改编为五卷[漫画](../Page/日本漫画.md "wikilink")，由 [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink") 和[一迅社](../Page/一迅社.md "wikilink")出版，此外也有出版相关的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")、[輕小說](../Page/輕小說.md "wikilink")和音乐专辑。2016年，動畫製作公司 [8bit](../Page/8bit.md "wikilink") 將游戏动畫化。動畫由天衝导演，共24集，分为两季，第一季为13集，于2016年7月至9月播出，第二季为11集，于2017年1月14日播出\[1\]。

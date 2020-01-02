@@ -1,3 +1,6 @@
+> 本文内容由[RAH-66卡曼契直升機](https://zh.wikipedia.org/wiki/RAH-66卡曼契直升機)转换而来。
+
+
 **RAH-66卡曼契**（**Comanche**）是一款由[波音](../Page/波音.md "wikilink")與[塞考斯基替](https://zh.wikipedia.org/wiki/塞考斯基飛行器 "wikilink")[美國陸軍合作開發](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")，但在2004年2月開發接近完成、即將投產的時點因計畫終止而未能實際量產的先進軍用[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")。RAH-66是一款具有[低可偵測性](https://zh.wikipedia.org/wiki/低可偵測性 "wikilink")（匿蹤）科技的設計，預定做為武裝[偵查任務用](https://zh.wikipedia.org/wiki/偵查 "wikilink")。如果加入美軍服役，它將會是美軍直升機之中首架設計專為全天候武裝偵查任務與低可偵測性直升機。
 
 ## 設計與開發

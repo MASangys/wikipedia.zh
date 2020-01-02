@@ -1,3 +1,6 @@
+> 本文内容由[Bleem!](https://zh.wikipedia.org/wiki/Bleem!)转换而来。
+
+
 **bleem\!**是[PlayStation遊戲機](../Page/PlayStation_\(遊戲機\).md "wikilink")[模擬器之一](https://zh.wikipedia.org/wiki/模擬器 "wikilink")，由bleem Company開發，於1999年首度推出，適用於[IBM PC及世嘉](../Page/IBM_PC兼容机.md "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")。
 
 “bleem\!”這個名稱，是“Best little emulator ever made\!”的縮寫。

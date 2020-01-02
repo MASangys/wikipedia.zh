@@ -1,3 +1,6 @@
+> 本文内容由[X翼战机](https://zh.wikipedia.org/wiki/X翼战机)转换而来。
+
+
 **X翼战机**（）是[星際大戰](../Page/星際大戰.md "wikilink")系列中虚构的一类攻击型星际[战斗机](../Page/战斗机.md "wikilink")，它们在世界观中被设定为[反抗軍同盟](../Page/反抗軍同盟.md "wikilink")和[新共和國用作空中攔截和](https://zh.wikipedia.org/wiki/新共和國 "wikilink")[缠斗的主要机种](https://zh.wikipedia.org/wiki/缠斗 "wikilink")，它们也因而成为反抗軍同盟的象征之一。这一型战机在现实中遍布玩具和模型产业，并且在星战的多部小说、漫画、游戏等衍生作品中活跃。
 
 ## 起源和设计

@@ -1,3 +1,6 @@
+> 本文内容由[Google阅读器](https://zh.wikipedia.org/wiki/Google阅读器)转换而来。
+
+
 **Google阅读器**（Google Reader）曾是[Google](../Page/Google.md "wikilink")公司旗下一个基于网络的[聚合器](../Page/聚合器.md "wikilink")，能在线或者离线阅读[Atom和](../Page/Atom_\(標準\).md "wikilink")[RSS](../Page/RSS.md "wikilink")。英文版的Google Reader于2005年10月7日通过[Google实验室发布](https://zh.wikipedia.org/wiki/Google实验室 "wikilink")，2007年9月17日成为正式版。中文版的Google阅读器大约在2007年9月18日左右发布。
 
 2013年3月13日Google宣布，作为第二个春季大扫除计划之一，Google閱讀器因用户数量逐年下降，于2013年7月1日终止服務，用户有3个多月的时间导出自己的数据。\[1\]\[2\]\[3\]\[4\]

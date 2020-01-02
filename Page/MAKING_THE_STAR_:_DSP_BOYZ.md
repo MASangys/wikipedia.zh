@@ -1,3 +1,6 @@
+> 本文内容由[MAKING THE STAR : DSP BOYZ](https://zh.wikipedia.org/wiki/MAKING_THE_STAR_:_DSP_BOYZ)转换而来。
+
+
 **《MAKING THE STAR : DSP BOYZ》** 是2012年4月24日起於[MBC有線頻道](https://zh.wikipedia.org/wiki/MBC "wikilink")[MBC MUSIC播出的明星出道全紀錄實境秀](https://zh.wikipedia.org/wiki/MBC "wikilink")，內容講述由[DSP Media繼](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")《[SS501](../Page/SS501.md "wikilink")》後睽違四年再次打造的7人男子組合《[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")》出道前至出道後的生活點滴\[1\]並且於4月2日起在官方[YOUTUBE頻道陸續公佈節目預告短片](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")。播出時間為每周二晚間20:30。
 
 ## 概要

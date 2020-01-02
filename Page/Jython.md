@@ -1,3 +1,6 @@
+> 本文内容由[Jython](https://zh.wikipedia.org/wiki/Jython)转换而来。
+
+
 **Jython**（原**JPython**），是一个用[Java](../Page/Java.md "wikilink")语言写的[Python](../Page/Python.md "wikilink")[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")。
 
 ## 概述

@@ -1,3 +1,6 @@
+> 本文内容由[HK VP70手槍](https://zh.wikipedia.org/wiki/HK_VP70手槍)转换而来。
+
+
 **VP70**是一把純雙動槍機的[9毫米](https://zh.wikipedia.org/wiki/9mm鲁格弹 "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")，由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[黑克勒-科赫在](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")1970年推出，槍身採用聚合物料制造，裝上[槍托](../Page/槍托.md "wikilink")後可以進行三點發射擊。VP70意思是1970年推出的****（人民手槍）。
 
 ## 歷史

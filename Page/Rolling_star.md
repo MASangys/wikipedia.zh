@@ -1,3 +1,6 @@
+> 本文内容由[Rolling star](https://zh.wikipedia.org/wiki/Rolling_star)转换而来。
+
+
 《**Rolling star**》是日本唱作女歌手[YUI](../Page/YUI.md "wikilink")於2007年1月17日所推出的單曲碟。由[STUDIOSEVEN Recordings發行](https://zh.wikipedia.org/wiki/STUDIOSEVEN_Recordings "wikilink")。初回版本附送印有「[死神](../Page/BLEACH.md "wikilink")」插圖的貼紙。
 
 唱作女歌手YUI以其自然純淨的嗓音迷倒不少歌迷，去年推出的首張個人大碟《FROM ME TO YOU》好評如潮，主演的純愛電影《太陽之歌》和主唱主題曲「Good-bye Days」均取得不俗成績，令她人氣急升。渡過了豐收的一年之後，致力音樂創作的YUI為大家帶來最新單曲《Rolling Star》。

@@ -1,3 +1,6 @@
+> 本文内容由[Country Girls](https://zh.wikipedia.org/wiki/Country_Girls)转换而来。
+
+
 **Country Girls**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）（前稱：鄉村少女組。）是一個來自[早安家族的](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")[日本](../Page/日本.md "wikilink")女子組合，於1999年成立。 2014年2月 多年來一人獨撐組合名頭進行活動[里田舞](https://zh.wikipedia.org/wiki/里田舞 "wikilink") 公佈舉辦《鄉村少女組。新成員選秀》，此次新組成的鄉村少女組中，她也依然會成為榮譽成員而存在。
 
 2014年 11月 新生鄉村少女組更名為"鄉村女孩(Country Girls)"宣佈成軍。 新成員是早安家族研修生 [稻場愛香與](https://zh.wikipedia.org/wiki/稻場愛香 "wikilink")[山木梨沙](../Page/山木梨沙.md "wikilink")，以及來自早安少女組12期選秀會參加者的[小關舞](https://zh.wikipedia.org/wiki/小關舞 "wikilink")、[島村嬉唄](https://zh.wikipedia.org/wiki/島村嬉唄 "wikilink")、[森戶知沙希](../Page/森戶知沙希.md "wikilink")，加上已宣佈將在明年春天無限期停止活動的[Berryz工房](../Page/Berryz工房.md "wikilink")中的[嗣永桃子](../Page/嗣永桃子.md "wikilink")將以成員兼教練身份參加，由這6人組成"新生鄉村少女組"。而里田將會以顧問的身份參與本團體。 在2015年6月12日，[島村嬉唄因合約關係從](https://zh.wikipedia.org/wiki/島村嬉唄 "wikilink")**Country Girls**及[早安家族](../Page/早安家族.md "wikilink")脫退，2016年4月[稻場愛香因哮喘休養暫停所有活動](https://zh.wikipedia.org/wiki/稻場愛香 "wikilink")，2016年8月4日從**Country Girls**畢業。

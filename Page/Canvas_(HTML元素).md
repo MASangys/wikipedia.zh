@@ -1,3 +1,6 @@
+> 本文内容由[Canvas \(HTML元素\)](https://zh.wikipedia.org/wiki/Canvas_\(HTML元素\))转换而来。
+
+
 **画布**（）[元素是](../Page/HTML元素.md "wikilink")[HTML5](../Page/HTML5.md "wikilink")的一部分，允許[脚本语言](../Page/脚本语言.md "wikilink")（scripting languages）動態[渲染](../Page/渲染.md "wikilink")[點陣圖像](https://zh.wikipedia.org/wiki/點陣圖像 "wikilink")。
 
 ## 歷史

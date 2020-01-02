@@ -1,3 +1,6 @@
+> 本文内容由[X射线晶体学](https://zh.wikipedia.org/wiki/X射线晶体学)转换而来。
+
+
 [X_ray_diffraction.png](https://zh.wikipedia.org/wiki/File:X_ray_diffraction.png "fig:X_ray_diffraction.png")
 
 **X射線晶體學**是一門利用[X射線來研究](https://zh.wikipedia.org/wiki/X射線 "wikilink")[晶體中](https://zh.wikipedia.org/wiki/晶體 "wikilink")[原子](../Page/原子.md "wikilink")排列的學科。更準確地說，利用[電子對X射線的](https://zh.wikipedia.org/wiki/電子 "wikilink")[散射](../Page/散射.md "wikilink")作用，X射線晶體學可以獲得晶體中[電子密度的分佈情況](https://zh.wikipedia.org/wiki/電子 "wikilink")，再從中分析獲得关于原子位置和化学键的資訊，即[晶體結構](https://zh.wikipedia.org/wiki/晶體結構 "wikilink")。 由于包括[盐类](https://zh.wikipedia.org/wiki/盐类 "wikilink")、[金属](../Page/金属.md "wikilink")\[1\]\[2\]、[矿物](https://zh.wikipedia.org/wiki/矿物 "wikilink")、[半导体](../Page/半导体.md "wikilink")\[3\], 冰\[4\]，催化剂\[5\]\[6\]\[7\]，吸附剂\[8\] 在内的许多物质都可以形成晶体，X射线晶体学已经是许多学科的基本技术。在前十年这项技术主要被用于测量原子大小、化学键的类型和键长，以及其他的许多物质，尤其是矿物和合金。X射线晶体学也揭示了许多生物分子的结构和功能，例如[维生素](../Page/维生素.md "wikilink")、药物、[蛋白质](../Page/蛋白质.md "wikilink")以及[脱氧核糖核酸](../Page/脱氧核糖核酸.md "wikilink")（[DNA](https://zh.wikipedia.org/wiki/DNA "wikilink")）。X射线晶体学如今仍然是从原子尺度研究物质结构的主要方法。

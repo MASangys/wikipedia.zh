@@ -1,3 +1,6 @@
+> 本文内容由[Grub4Dos](https://zh.wikipedia.org/wiki/Grub4Dos)转换而来。
+
+
 **grub4dos**是一个将Linux下的[GNU GRUB](../Page/GNU_GRUB.md "wikilink")[启动引导程序移植到DOS和Windows的一个分支](https://zh.wikipedia.org/wiki/启动引导程序 "wikilink")，是一个大幅度提高了软件和硬件兼容性的[启动引导程序](https://zh.wikipedia.org/wiki/启动引导程序 "wikilink")。
 
 [Grub4dos.png](https://zh.wikipedia.org/wiki/File:Grub4dos.png "fig:Grub4dos.png")

@@ -1,3 +1,6 @@
+> 本文内容由[X染色體去活化](https://zh.wikipedia.org/wiki/X染色體去活化)转换而来。
+
+
 [Tortie-flame.jpg](https://zh.wikipedia.org/wiki/File:Tortie-flame.jpg "fig:Tortie-flame.jpg")的斑駁毛色是X去活化的表現，「黑色皮毛」與「橙色皮毛」的[等位基因位於不同的X染色體上](https://zh.wikipedia.org/wiki/等位基因 "wikilink")。由於去活化的對象是隨機選擇，因此不同部位，會依保留活性之染色體的不同，而有不同的毛色。\]\]  **X染色體去活化**，又稱**X染色體失活**或**里昂化**，是指[雌性](https://zh.wikipedia.org/wiki/雌性 "wikilink")[哺乳類](https://zh.wikipedia.org/wiki/哺乳動物 "wikilink")[細胞中兩條](https://zh.wikipedia.org/wiki/細胞 "wikilink")[X染色體](../Page/X染色體.md "wikilink")的其中之一失去活性的現象。X染色體會被包裝成[異染色質](../Page/異染色質.md "wikilink")，進而因功能受抑制而沉默化。
 
 里昂化可使雌性不會因為擁有兩個X染色體而產生兩倍的[基因產物](https://zh.wikipedia.org/wiki/基因產物 "wikilink")，因此可以像[雄性般只表現一個X染色體上的](https://zh.wikipedia.org/wiki/雄性 "wikilink")[基因](../Page/基因.md "wikilink")。對[胎盤類](https://zh.wikipedia.org/wiki/胎盤類 "wikilink")，如[老鼠與](https://zh.wikipedia.org/wiki/老鼠 "wikilink")[人類](../Page/人類.md "wikilink")而言，所要去活化的X染色體是以隨機方式選出；對於[有袋類](../Page/有袋類.md "wikilink")而言，則只有源自父系的X染色體才會去活化。

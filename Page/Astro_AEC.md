@@ -1,3 +1,6 @@
+> 本文内容由[Astro AEC](https://zh.wikipedia.org/wiki/Astro_AEC)转换而来。
+
+
 **Astro AEC**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。該頻道主要播出來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")的節目，同時亦播出本地節目（亦稱**“Astro本地圈”**节目）该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[马来语](../Page/马来语.md "wikilink")及[英文字幕服务](https://zh.wikipedia.org/wiki/英文 "wikilink")。
 
 ## Astro AEC HD

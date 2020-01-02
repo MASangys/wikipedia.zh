@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki COUNTDOWN LIVE 2001-2002 A](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A)转换而来。
+
+
 《*' ayumi hamasaki COUNTDOWN LIVE 2001-2002 A*'》（濱崎步 2001-2002 跨年演唱會 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2001年12月30日、31日在國立代代木競技場第一體育館舉行跨年演唱會。
 
 ## 說明

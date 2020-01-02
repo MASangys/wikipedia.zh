@@ -1,3 +1,6 @@
+> 本文内容由[NHK新聞](https://zh.wikipedia.org/wiki/NHK新聞)转换而来。
+
+
 **NHK新聞**（）指的是[日本放送協會的](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播服務所提供的](https://zh.wikipedia.org/wiki/廣播 "wikilink")[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")。現在的的標識是自1990年（平成2年）開始使用的。NHK在日本國內的54個放送局、放送支局與報導室時時刻刻進行采訪活動，其記者也多加入了[記者俱樂部](../Page/記者俱樂部.md "wikilink")。另外，在海外有位于[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[美國總局](https://zh.wikipedia.org/wiki/美國 "wikilink")、位于[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[歐洲總局和位于](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[北京的](https://zh.wikipedia.org/wiki/北京 "wikilink")[中國](../Page/中國.md "wikilink")總局。在日本以外共有21個采訪據點。另外，其在日本各地共有400個以上的[機器人](https://zh.wikipedia.org/wiki/機器人 "wikilink")[照相機](../Page/照相機.md "wikilink")，統一由東京的新聞中心管理；當發生[地震](../Page/地震.md "wikilink")時，能提供最即時的畫面。
 
 目前NHK新聞也可在[全日本空輸](../Page/全日本空輸.md "wikilink")（ANA）的班機上收看\[1\]。

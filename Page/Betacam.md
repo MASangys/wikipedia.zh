@@ -1,3 +1,6 @@
+> 本文内容由[Betacam](https://zh.wikipedia.org/wiki/Betacam)转换而来。
+
+
 [Betacam_SP_Camcorder_01_KMJ.jpg](https://zh.wikipedia.org/wiki/File:Betacam_SP_Camcorder_01_KMJ.jpg "fig:Betacam_SP_Camcorder_01_KMJ.jpg") [SONY_BVW_65.jpg](https://zh.wikipedia.org/wiki/File:SONY_BVW_65.jpg "fig:SONY_BVW_65.jpg")。\]\] [Beta_tape_sizes_2.jpg](https://zh.wikipedia.org/wiki/File:Beta_tape_sizes_2.jpg "fig:Beta_tape_sizes_2.jpg")大小比較
 Betacam SP L型（上）, Betacam SP S型（左）, VHS（右）.\]\] [Betacam_betamax_tapes.jpg](https://zh.wikipedia.org/wiki/File:Betacam_betamax_tapes.jpg "fig:Betacam_betamax_tapes.jpg")
 

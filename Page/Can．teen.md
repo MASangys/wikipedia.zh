@@ -1,3 +1,6 @@
+> 本文内容由[Can．teen](https://zh.wikipedia.org/wiki/Can．teen)转换而来。
+
+
 [Can.teen_(Admiralty_Centre_branch).jpg](https://zh.wikipedia.org/wiki/File:Can.teen_\(Admiralty_Centre_branch\).jpg "fig:Can.teen_(Admiralty_Centre_branch).jpg")[海富中心](../Page/海富中心.md "wikilink")分店\]\] [HK_Admiralty_Citic_Tower_interior_Can-Teen_Maxims_night_March-2013.JPG](https://zh.wikipedia.org/wiki/File:HK_Admiralty_Citic_Tower_interior_Can-Teen_Maxims_night_March-2013.JPG "fig:HK_Admiralty_Citic_Tower_interior_Can-Teen_Maxims_night_March-2013.JPG")[中信大廈](../Page/中信大廈.md "wikilink")分店\]\] **can．teen**，是[香港](../Page/香港.md "wikilink")一間自助式[連鎖](../Page/連鎖店.md "wikilink")[快餐](../Page/快餐.md "wikilink")店，為[美心食品有限公司旗下品牌](https://zh.wikipedia.org/wiki/美心食品有限公司 "wikilink")，由[m.a.x. concepts管理](https://zh.wikipedia.org/wiki/m.a.x._concepts "wikilink")。
 
 [m.a.x. concepts快餐副線品牌有](https://zh.wikipedia.org/wiki/m.a.x._concepts "wikilink")[中環](../Page/中環.md "wikilink")[怡和大廈](../Page/怡和大廈.md "wikilink")**Deli-O**，除一般中西快餐食品外，也有包裝壽司提供。

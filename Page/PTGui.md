@@ -1,3 +1,6 @@
+> 本文内容由[PTGui](https://zh.wikipedia.org/wiki/PTGui)转换而来。
+
+
 **PTGui**是一款基于[Windows与](https://zh.wikipedia.org/wiki/Windows "wikilink")[Mac OS X平台的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[全景摄影照片拼接软件](https://zh.wikipedia.org/wiki/全景摄影 "wikilink")，由New House Internet Services BV开发并维护。其最初是一款基于Helmut Dersch's Panorama Tools的[图形化界面前台程序](https://zh.wikipedia.org/wiki/图形化界面 "wikilink")，初始版本发布于2001年。主要功能包含[图像拼接与混合](../Page/影像拼接.md "wikilink")，支持长焦，普通与广角及[鱼眼镜头](../Page/鱼眼镜头.md "wikilink")所拍摄的照片，支持创建普通，圆柱以及球形全景照片。
 
 现版本有两个分支：普通版与**PTGui Pro**，后者还包含[HDR与](https://zh.wikipedia.org/wiki/HDR "wikilink")[色调映射](../Page/色调映射.md "wikilink")功能。

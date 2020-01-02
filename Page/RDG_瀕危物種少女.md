@@ -1,3 +1,6 @@
+> 本文内容由[RDG 瀕危物種少女](https://zh.wikipedia.org/wiki/RDG_瀕危物種少女)转换而来。
+
+
 《**RDG 瀕危物種少女**》（）是[日本](../Page/日本.md "wikilink")作家[荻原規子](../Page/荻原規子.md "wikilink")所寫的[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")版的插圖則由[岸田梅爾](../Page/岸田梅爾.md "wikilink")負責。2008年7月到2012年11月由[角川書店](../Page/角川書店.md "wikilink")出版發行。
 
 [電視動畫版角色原案由岸田梅爾負責](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，動畫製作公司為[P.A. Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6月播放。[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號（2012年10月26日發售）漫畫版連載開始，作畫由負責\[1\]。

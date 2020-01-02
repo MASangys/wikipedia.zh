@@ -1,3 +1,6 @@
+> 本文内容由[Vz. 59通用機槍](https://zh.wikipedia.org/wiki/Vz._59通用機槍)转换而来。
+
+
 **vz. 59**（[捷克語](https://zh.wikipedia.org/wiki/捷克語 "wikilink")：又名UK 59）是[捷克斯洛伐克在](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")1959年將vz.52型輕機槍加以改良並大型化後開始生產的[通用機槍](../Page/通用機槍.md "wikilink")。
 
 ## 設計及歷史

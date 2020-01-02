@@ -1,3 +1,6 @@
+> 本文内容由[AZUKI七](https://zh.wikipedia.org/wiki/AZUKI七)转换而来。
+
+
 **AZUKI七**（）是日本的[作詞家](https://zh.wikipedia.org/wiki/作詞家 "wikilink")、[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")、詩人。女性。血型是AB型。1998年至2013年間，以[GARNET CROW成員身份為主](../Page/GARNET_CROW.md "wikilink")。
 
 AZUKI七是她的藝名，原名菅谷（）。至於匿稱，就是AZUKI的漢字寫法“小豆”。為[GIZA studio公司旗下的眾多歌手提供詞作品](../Page/GIZA_studio.md "wikilink")。從1999年開始加入GARNET CROW，任樂隊鍵盤手，並擔任全作詞。最初是由於要為新節目的試作課題作詞，以此為契機開始了作為作詞家的活動。

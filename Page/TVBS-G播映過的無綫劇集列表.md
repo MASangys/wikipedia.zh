@@ -1,3 +1,6 @@
+> 本文内容由[TVBS-G播映過的無綫劇集列表](https://zh.wikipedia.org/wiki/TVBS-G播映過的無綫劇集列表)转换而来。
+
+
 以下是依[TVBS-G節目表內容所排列](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")（未完成），劇名所提日期為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")[TVBS-G首播該劇時間](https://zh.wikipedia.org/wiki/TVBS-G "wikilink")，括號內的文字代表該劇在台灣播映的劇名。
 
 2007年7月26日後，播放[港劇時段通稱為](https://zh.wikipedia.org/wiki/港劇 "wikilink")《**港劇黃金線**》，旋改為《**港劇黃金夜**》。

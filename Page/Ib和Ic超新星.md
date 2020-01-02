@@ -1,3 +1,6 @@
+> 本文内容由[Ib和Ic超新星](https://zh.wikipedia.org/wiki/Ib和Ic超新星)转换而来。
+
+
 **Ib和Ic超新星**是恆星爆炸的類型之一，起因於大質量恆星的核心塌縮，而含[氫的外殼已經被剝離時的現像](https://zh.wikipedia.org/wiki/氫 "wikilink")。
 
 ## 光譜

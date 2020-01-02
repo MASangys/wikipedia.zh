@@ -1,3 +1,6 @@
+> 本文内容由[ONE PIECE 草帽劇場](https://zh.wikipedia.org/wiki/ONE_PIECE_草帽劇場)转换而来。
+
+
 《**ONE PIECE 草帽劇場**》是日本漫畫《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》的番外篇。
 
 ## 概要

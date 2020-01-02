@@ -1,3 +1,6 @@
+> 本文内容由[JR磁浮](https://zh.wikipedia.org/wiki/JR磁浮)转换而来。
+
+
 [Series_L0.JPG](https://zh.wikipedia.org/wiki/File:Series_L0.JPG "fig:Series_L0.JPG") [JR-Maglev-MLX01-2.jpg](https://zh.wikipedia.org/wiki/File:JR-Maglev-MLX01-2.jpg "fig:JR-Maglev-MLX01-2.jpg") [JR-Maglev-MLX01-901_001.jpg](https://zh.wikipedia.org/wiki/File:JR-Maglev-MLX01-901_001.jpg "fig:JR-Maglev-MLX01-901_001.jpg") **JR磁浮列車**（JR-Maglev）是[日本](../Page/日本.md "wikilink")研發的[超導體](../Page/超導體.md "wikilink")[磁浮列車](https://zh.wikipedia.org/wiki/磁浮列車 "wikilink")，由[東海旅客鐵道](../Page/東海旅客鐵道.md "wikilink")（JR東海）和[鐵道總合技術研究所](https://zh.wikipedia.org/wiki/鐵道總合技術研究所 "wikilink")（JR總研）主導研發。首列實驗列車JR-Maglev MLX01從1970年代開始研發，並且在[山梨縣建造五節車廂的實驗車和軌道](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。2003年12月2日，最高速達到581[km/h](https://zh.wikipedia.org/wiki/千米每小時 "wikilink")（361 mph）。而在2015年4月16日及21日，又相繼以590km/h及603km/h，刷新有車廂車輛的陸地極速紀錄。
 
 JR-Maglev在[愛知世博會上向公眾展示](https://zh.wikipedia.org/wiki/愛知世博會 "wikilink")“超導磁浮列車館”。該車MLX01重量約為30[噸](https://zh.wikipedia.org/wiki/噸 "wikilink")，由[三菱重工生產](https://zh.wikipedia.org/wiki/三菱重工 "wikilink")。車輛兩側配有由4個超導線圈組成的超導裝置。這種由[鈮](https://zh.wikipedia.org/wiki/鈮 "wikilink")[鈦](https://zh.wikipedia.org/wiki/鈦 "wikilink")（NbTi）線材製成的超導裝置在[液態氦和](https://zh.wikipedia.org/wiki/液態氦 "wikilink")[液態氮中冷卻至](https://zh.wikipedia.org/wiki/液態氮 "wikilink")-269[℃](https://zh.wikipedia.org/wiki/℃ "wikilink")。

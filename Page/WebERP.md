@@ -1,3 +1,6 @@
+> 本文内容由[WebERP](https://zh.wikipedia.org/wiki/WebERP)转换而来。
+
+
 **webERP**是一个开源的进销存系统，它支持多公司，多币种，多税种，多库存管理。比较适合中小型的企业。
 
 ## webERP特性

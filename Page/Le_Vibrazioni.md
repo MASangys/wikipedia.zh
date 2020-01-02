@@ -1,3 +1,6 @@
+> 本文内容由[Le Vibrazioni](https://zh.wikipedia.org/wiki/Le_Vibrazioni)转换而来。
+
+
 **Le Vibrazioni**是一支1999年成立於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink") [米蘭](../Page/米蘭.md "wikilink")的[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。
 
 ## 成員

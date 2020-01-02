@@ -1,3 +1,6 @@
+> 本文内容由[H日](https://zh.wikipedia.org/wiki/H日)转换而来。
+
+
 [dagen_h.png](https://zh.wikipedia.org/wiki/File:dagen_h.png "fig:dagen_h.png")
 
 **H日**（[瑞典語](../Page/瑞典語.md "wikilink")：**Dagen H**）指[瑞典](../Page/瑞典.md "wikilink")在[1967年](../Page/1967年.md "wikilink")[9月3日](../Page/9月3日.md "wikilink")將[道路通行方向](../Page/道路通行方向.md "wikilink")由靠左改為靠右當日。H代表瑞典語中的*Högertrafik*，即「右行交通」。

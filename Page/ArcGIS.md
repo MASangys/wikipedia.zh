@@ -1,3 +1,6 @@
+> 本文内容由[ArcGIS](https://zh.wikipedia.org/wiki/ArcGIS)转换而来。
+
+
 **ArcGIS**是由[ESRI出品的一个](https://zh.wikipedia.org/wiki/ESRI "wikilink")[地理資訊系统系列](https://zh.wikipedia.org/wiki/地理資訊系统 "wikilink")[軟體的總稱](https://zh.wikipedia.org/wiki/軟體 "wikilink")。可以依不同應用平台分成以下版本：
 \***桌面版本**：以功能等級而區分的套件：**ArcReader**、**ArcView**、**ArcEditor**和**ArcInfo**，而高級的套件是較低級套件加上其他進階功能。
 

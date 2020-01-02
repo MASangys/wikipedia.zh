@@ -1,3 +1,6 @@
+> 本文内容由[Xmgrace](https://zh.wikipedia.org/wiki/Xmgrace)转换而来。
+
+
 **Grace**是「GRaphing, Advanced Computation and Exploration of data」的缩写。它是在[X Window系統和](../Page/X_Window系統.md "wikilink")[Motif](../Page/Motif.md "wikilink")下的[所見即所得](https://zh.wikipedia.org/wiki/所見即所得 "wikilink")（所见及所得）的二维绘图软件。Grace可以运行在任何[类Unix系统](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")下。它也成功的运行在[OpenVMS](https://zh.wikipedia.org/wiki/OpenVMS "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 9\*/NT/2000/XP（[Cygwin](../Page/Cygwin.md "wikilink")）。
 
 ## 历史

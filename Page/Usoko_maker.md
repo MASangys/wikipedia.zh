@@ -1,3 +1,6 @@
+> 本文内容由[Usoko maker](https://zh.wikipedia.org/wiki/Usoko_maker)转换而来。
+
+
 **usoko maker**（****）是一個在空欄上填上文字，輸入後會出現類似[占卜](../Page/占卜.md "wikilink")的網站服務。其中的特別受歡迎。
 
 ## 各種服務

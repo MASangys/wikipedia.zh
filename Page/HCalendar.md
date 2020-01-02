@@ -1,3 +1,6 @@
+> 本文内容由[HCalendar](https://zh.wikipedia.org/wiki/HCalendar)转换而来。
+
+
 **hCalendar**（**HTML iCalendar**的縮寫）是一種[微格式](../Page/微格式.md "wikilink")標準，它采用[iCalendar格式](https://zh.wikipedia.org/wiki/iCalendar "wikilink")，以語義[(X)HTML的形式](../Page/HTML.md "wikilink")，在網頁上表示一個事件的[日曆信息](https://zh.wikipedia.org/wiki/日曆 "wikilink")。
 
 ## 例子

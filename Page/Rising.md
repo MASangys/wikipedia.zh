@@ -1,3 +1,6 @@
+> 本文内容由[Rising](https://zh.wikipedia.org/wiki/Rising)转换而来。
+
+
 《**Rising**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王梓軒](../Page/王梓軒.md "wikilink")的第四張專輯，首張國語專輯。這大碟在2012年6月19日推出\[1\]，而首波主打歌曲則為《說時遲》。
 
 ## 曲目

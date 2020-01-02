@@ -1,3 +1,6 @@
+> 本文内容由[HEAVEN \(濱崎步單曲\)](https://zh.wikipedia.org/wiki/HEAVEN_\(濱崎步單曲\))转换而来。
+
+
 《**HEAVEN**》（天堂）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2005年9月14日發行的第37張單曲，最終的銷售量超過三十二萬。〈HEAVEN〉為搭配電影《[甲贺忍法帖](../Page/甲贺忍法帖_\(电影\).md "wikilink")》的主題曲，濱崎步參考劇本才寫下這首歌的歌詞。
 
 2007年2月28日发售《[A BEST 2](../Page/A_BEST_2.md "wikilink")》时特别架设的网站上举办了人气投票，《HEAVEN》是人气投票中的亞军，亦爲《[A BEST 2 -BLACK-](https://zh.wikipedia.org/wiki/A_BEST_2_-BLACK- "wikilink")》收錄曲中的冠軍。\[1\]

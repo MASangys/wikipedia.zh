@@ -1,3 +1,6 @@
+> 本文内容由[DivX](https://zh.wikipedia.org/wiki/DivX)转换而来。
+
+
 **DivX**是DivX公司（前身是DivX Networks公司）的著名品牌，一種[MPEG-4](../Page/MPEG-4.md "wikilink")技術[視頻編解碼器](https://zh.wikipedia.org/wiki/視頻編解碼器 "wikilink")。该公司2007年秋以2200萬美元收購德國[Main Concept](https://zh.wikipedia.org/wiki/Main_Concept "wikilink")。
 
 ## 歷史

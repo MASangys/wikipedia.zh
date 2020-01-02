@@ -1,3 +1,6 @@
+> 本文内容由[Spaces](https://zh.wikipedia.org/wiki/Spaces)转换而来。
+
+
 **Spaces**（中文直譯為：**空間**）是一個蘋果公司 [Mac OS X v10.5 Leopard](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink") 作業系統中的應用程式，可實現多重[虛擬桌面的工具](https://zh.wikipedia.org/wiki/虛擬桌面 "wikilink")（每個虛擬桌面都被稱為「Spaces」），允許每個使用者擁有多個桌面，可在各桌面執行不同的應用程式\[1\]。使用者可管理自己所要的空間，如一個桌面工作、一個桌面娛樂，並於其間互相切換[Exposé可在Spaces上運作](https://zh.wikipedia.org/wiki/Exposé_\(Mac_OS_X\) "wikilink")，可讓使用者於螢幕上撇見所有桌面的縮圖。使用者可創造並控制多達16個空間，而且應用程式間可以相互切換，綜合起來產生非常龐大的工作空間。
 
 ## 注釋

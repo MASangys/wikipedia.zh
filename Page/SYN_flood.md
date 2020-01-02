@@ -1,3 +1,6 @@
+> 本文内容由[SYN flood](https://zh.wikipedia.org/wiki/SYN_flood)转换而来。
+
+
 [Tcp_normal.svg](https://zh.wikipedia.org/wiki/File:Tcp_normal.svg "fig:Tcp_normal.svg")）與伺服器之間正常連線狀況。三向交握正確的進行。\]\] [Tcp_synflood.png](https://zh.wikipedia.org/wiki/File:Tcp_synflood.png "fig:Tcp_synflood.png")）傳送許多封包就是不送"ACK"回到伺服器。該連線因此處於半開狀態並吞食伺服器資源。因為阻斷服務攻擊的結果合法用戶Alice與伺服器嘗試建立連線遭拒。\]\]
 
 **SYN flood**或稱**SYN洪水**、**SYN洪泛**是一種[阻斷服務攻擊](../Page/阻斷服務攻擊.md "wikilink")，起因於攻擊者傳送一系列的[`SYN`](https://zh.wikipedia.org/wiki/SYN_\(TCP\) "wikilink")請求到目標系統。\[1\]\[2\]

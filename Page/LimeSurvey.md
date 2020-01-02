@@ -1,3 +1,6 @@
+> 本文内容由[LimeSurvey](https://zh.wikipedia.org/wiki/LimeSurvey)转换而来。
+
+
 **LimeSurvey**（前身为**PHPSurveyor**）是一款[开源的在线问卷调查程序](https://zh.wikipedia.org/wiki/open_source "wikilink")，它用[PHP](../Page/PHP.md "wikilink")语言编写并可以使用[MySQL](../Page/MySQL.md "wikilink")，[PostgreSQL](../Page/PostgreSQL.md "wikilink")或者[MSSQL等多种](https://zh.wikipedia.org/wiki/MSSQL "wikilink")[数据库](../Page/数据库.md "wikilink")，它集成了调查程序开发、调查问卷的发布以及数据收集等功能，使用它，用户不必了解这些功能的编程细节。
 
 本系统包括了分支、自定义页面布局和设计（使用），并且提供了基本的[统计分析功能](https://zh.wikipedia.org/wiki/统计 "wikilink")。调查可以匿名访问也可以限制为拥有“访问一次”令牌的用户参加，从而我们能得到匿名数据或者参与者与结果相分离的数据\[1\]。

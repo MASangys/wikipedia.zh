@@ -1,3 +1,6 @@
+> 本文内容由[勇者斗恶龙IV 被引导的人们](https://zh.wikipedia.org/wiki/勇者斗恶龙IV_被引导的人们)转换而来。
+
+
 是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏时[勇者斗恶龙系列的第四部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。游戏最早于1990年2月11日发行于日本[FC游戏机平台](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，北美版本由艾尼克斯北美公司本地化，并于1992年10月以“Dragon Warrior IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")平台，同时该版本还作为PS的[Ultimate Hit作品发行](https://zh.wikipedia.org/wiki/Ultimate_Hit "wikilink")。之后游戏又由[ArtePiazza](../Page/ArtePiazza.md "wikilink")重制于[任天堂DS](../Page/任天堂DS.md "wikilink")平台，游戏于2007年11月22日在日本发行，2008年9月11日和12日在澳大利亚和欧洲以“Dragon Quest: Chapters of the Chosen”为名发行\[1\]，2008年9月16日在北美以“Dragon Quest IV: Chapters of the Chosen”为名发行。智能手機版于2014年在日本发行\[2\]。
 
 和系列其他作品不同，《勇者斗恶龙IV》将游戏分成了五个独立的章节，每一章都有不同的主角。前四章為将来會成為勇者夥伴的各個角色的故事，在第五章他们将和勇者汇合，一起进行拯救世界的冒险\[3\]。PlayStation重制版增加了第六章，DS重制版也延续了这一设定。

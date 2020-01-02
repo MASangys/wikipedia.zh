@@ -1,3 +1,6 @@
+> 本文内容由[CDDA](https://zh.wikipedia.org/wiki/CDDA)转换而来。
+
+
 **CDDA**是**數位音樂光碟**（Compact Disc Digital Audio）的縮寫，為在[CD](../Page/CD.md "wikilink")收錄[音樂的規格](https://zh.wikipedia.org/wiki/音樂 "wikilink")。一般稱**音樂CD**時指的便是CDDA。
 
 ## 概要

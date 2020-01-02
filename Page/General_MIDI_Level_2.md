@@ -1,3 +1,6 @@
+> 本文内容由[General MIDI Level 2](https://zh.wikipedia.org/wiki/General_MIDI_Level_2)转换而来。
+
+
 **General MIDI Level 2**，簡稱**GM2**，是[MIDI](../Page/MIDI.md "wikilink")的標準規格。它的基礎是[General MIDI以及](../Page/General_MIDI.md "wikilink")[GS extensions](https://zh.wikipedia.org/wiki/GS_extensions "wikilink")。在1999年被[MIDI制造商协会](https://zh.wikipedia.org/wiki/MIDI制造商协会 "wikilink")(MMA)所採用。
 
 ## 最低需求條件

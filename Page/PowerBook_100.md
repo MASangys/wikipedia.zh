@@ -1,3 +1,6 @@
+> 本文内容由[PowerBook 100](https://zh.wikipedia.org/wiki/PowerBook_100)转换而来。
+
+
 **PowerBook 100**是一款由[苹果电脑和](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[索尼](../Page/索尼.md "wikilink")合作设计和制造，于1991年10月21日在[内华达州](../Page/内华达州.md "wikilink")[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")的[COMDEX電腦展覽會上首次推出的](https://zh.wikipedia.org/wiki/COMDEX "wikilink")。首发售价为2300美元的Power 100是最早三款同時推出的[PowerBook](../Page/PowerBook.md "wikilink")系列中價格最低的一款。Power 100的整體運行速度与其上一代产品非常相近。它装有一枚摩托罗拉68000型16[MHz处理器](https://zh.wikipedia.org/wiki/兆赫兹 "wikilink")，2到8[MB内存](https://zh.wikipedia.org/wiki/兆字节 "wikilink")，一塊背光640×400[像素](../Page/像素.md "wikilink")[分辨率](../Page/分辨率.md "wikilink")的[液晶显示器](../Page/液晶显示器.md "wikilink")，并预装[System 7.0.1系统](https://zh.wikipedia.org/wiki/System_7 "wikilink")。本体因其不含內置[软盘](../Page/软盘.md "wikilink")驱动器、独特的紧凑设计而着称，另一特色则是在鍵盤前方正中安装了一个[轨迹球](../Page/轨迹球.md "wikilink")於以方便使用。
 
 PowerBook 100是由索尼和蘋果內部設計團隊“”合作设计和制造。時任苹果[首席执行官](../Page/首席执行官.md "wikilink")[约翰·斯卡利](../Page/约翰·斯卡利.md "wikilink")於1990年啟動了PowerBook项目，并拨款100萬美元用于市场营销。尽管預算较少，但是新產品PowerBook一上市就大獲成功，在第一年就就为苹果带来了超过10亿美元的收入。1992年9月3日，PowerBook 100停產，被和系列取代。
@@ -10,7 +13,7 @@ PowerBook 100的設計曾多次受到赞誉：2005年，美國雜誌《》杂志
 
 斯卡利在1990年启动了PowerBook系列项目，他希望新品能在一年内发布。这个项目有三名经理：项目总负责人副总裁兰迪·巴塔特（Randy Battat）；负责新笔记本电脑硬件工程管理的约翰·麦迪卡（John Medica）；领导营销工作的尼尔·塞尔温（Neil Selvin）\[2\]\[3\]。1991年时，笔记本电脑行业的两个领头羊分别是[东芝](../Page/东芝.md "wikilink")和[康柏](../Page/康柏.md "wikilink")，它们都推出了重量不到的产品\[4\]。巴塔特、麦迪卡和塞尔温特意设计出了比竞争对手更轻的PowerBook\[5\]。
 
-斯卡利为PowerBook产品线拨款100万美元作为营销预算，与之形成鲜明对比的是Macintosh Classic项目曾获得2500万美元的营销预算支持。巴塔特、麦迪卡和塞尔温用大部分营销预算，请广告代理公司[Chiat/Day制作并播出了一则令观众印象深刻的电视广告](https://zh.wikipedia.org/wiki/TBWA "wikilink")。在这则电视广告片中，已退休[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")篮球明星[卡里姆·阿卜杜勒-贾巴尔难受地挤坐在航班座位上](https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔 "wikilink")，但却流畅地在他的PowerBook上打字，广告旁白说道：“至少他的手很舒服。”\[6\]
+斯卡利为PowerBook产品线拨款100万美元作为营销预算，与之形成鲜明对比的是Macintosh Classic项目曾获得2500万美元的营销预算支持。巴塔特、麦迪卡和塞尔温用大部分营销预算，请广告代理公司[Chiat/Day制作并播出了一则令观众印象深刻的电视广告](https://zh.wikipedia.org/wiki/TBWA "wikilink")。在这则电视广告片中，已退休[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")篮球明星[卡里姆·阿卜杜勒-贾巴尔](../Page/卡里姆·阿卜杜勒-贾巴尔.md "wikilink")难受地挤坐在航班座位上，但却流畅地在他的PowerBook上打字，广告旁白说道：“至少他的手很舒服。”\[6\]
 
 1991年10月21日，苹果在拉斯维加斯的COMDEX电脑博览会上发布了PowerBook 100，同时发布的还有另外两款产品：和\[7\]。广告和产品本身都非常成功，苹果预计PowerBook第一年在美国的销量将超过20万台，并在发布后的前三个月达到需求峰值\[8\]。到1992年1月，苹果已经卖出了超过10万台PowerBook，这时它们已经变得供不应求了\[9\]。不过好在苹果很快就解决了供应问题\[10\]。PowerBook发布后的第一年销售收入就达到了10亿美元，这帮助苹果成功超越东芝和康柏成为全球便携式电脑市场的新领导者\[11\]。PowerBook 100、140和170对苹果在1992年的财务成功做出了巨大贡献\[12\]。在这一财政年度末，苹果公布了有史以来的最高数字：收入达到71亿美元；全球市场份额从8%增长到8.5%，而这也是四年来的最高水平\[13\]\[14\]。
 
@@ -46,7 +49,7 @@ PowerBook 100的[QWERTY布局键盘有两个版本](https://zh.wikipedia.org/wik
 
 《》以PowerBook 100为基准，将其与其前身Macintosh Portable进行比较。PowerBook 100用了5.3秒打开一个[Microsoft Word文档](../Page/Microsoft_Word.md "wikilink")，保存它则用了2.5秒，而Portable分别花了5.4秒和2.6秒\[58\]。而有关电池寿命，《PC周刊》测试结论续航达到3小时47分钟\[59\]。《》杂志的评论总结道：“PowerBook 100被推荐用于文字处理和通信任务：这款高端产品为复杂的报告、大型电子表格和专业图形提供了足够的运算能力。”\[60\]。《》形容它是“作家以及其他预算紧张人群的理想选择”\[61\]。
 
-PowerBook 100因其设计而获得多个奖项，包括1999年[ISDA十年设计银奖](https://zh.wikipedia.org/wiki/国际掉期与衍生工具协会 "wikilink")、《》杂志1993年设计师设计奖、1992年IDSA工业设计金奖、1992年家电制造商设计优秀奖和[汉诺威博览会行业论坛设计十佳](https://zh.wikipedia.org/wiki/汉诺威工业博览会 "wikilink")\[62\]。PowerBook 100也得到了很多媒体的认可。2005年，美国杂志《Mobile PC》将PowerBook 100列为有史以来最伟大的数码产品\[63\] ，超过了[Walkman](../Page/Walkman.md "wikilink")和[雅达利2600](https://zh.wikipedia.org/wiki/雅达利2600 "wikilink")\[64\]。2006年，《PC World》将PowerBook 100列为有史以来第十大个人电脑\[65\]。
+PowerBook 100因其设计而获得多个奖项，包括1999年[ISDA十年设计银奖](https://zh.wikipedia.org/wiki/国际掉期与衍生工具协会 "wikilink")、《》杂志1993年设计师设计奖、1992年IDSA工业设计金奖、1992年家电制造商设计优秀奖和[汉诺威博览会行业论坛设计十佳](../Page/汉诺威工业博览会.md "wikilink")\[62\]。PowerBook 100也得到了很多媒体的认可。2005年，美国杂志《Mobile PC》将PowerBook 100列为有史以来最伟大的数码产品\[63\] ，超过了[Walkman](../Page/Walkman.md "wikilink")和[雅达利2600](https://zh.wikipedia.org/wiki/雅达利2600 "wikilink")\[64\]。2006年，《PC World》将PowerBook 100列为有史以来第十大个人电脑\[65\]。
 
 ## 規格
 
@@ -154,113 +157,74 @@ PowerBook 100因其设计而获得多个奖项，包括1999年[ISDA十年设计�
 [Category:麦金塔](https://zh.wikipedia.org/wiki/Category:麦金塔 "wikilink") [Category:1991年面世](https://zh.wikipedia.org/wiki/Category:1991年面世 "wikilink")
 
 1.
-
 2.
 3.
-
 4.
 5.
 6.
 7.
-
 8.
-
 9.
 10.
-
 11. Carlton, p. 191
-
 12.
-
 13.
 14.
-
 15.
-
 16.
-
 17.
 18.
 19.
-
 20.
-
 21.
 22.
 23.
-
 24.
-
 25.
-
 26.
 27.
 28.
-
 29.
-
 30.
-
 31.
-
 32.
-
 33.
 34.
-
 35.
 36.
 37.
-
 38.
-
 39.
 40.
-
 41.
 42.
 43.
-
 44.
-
 45.
 46.
-
 47.
-
 48.
-
 49.
 50.
 51.
-
 52.
 53.
 54.
 55.
-
 56.
 57.
 58.
-
 59.
 60.
-
 61.
-
 62.
-
 63.
-
 64.
-
 65.
-
 66.
 67.
 68.
 69.
 70.
 71.
-
 72.

@@ -1,3 +1,6 @@
+> 本文内容由[J-Top 冠軍精選](https://zh.wikipedia.org/wiki/J-Top_冠軍精選)转换而来。
+
+
 《**J-Top 冠軍精選**》是臺灣歌手[蔡依林](../Page/蔡依林.md "wikilink")的第四張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，由[新力博德曼於](../Page/台灣索尼音樂娛樂.md "wikilink")2006年5月5日發行。該專輯內容包括蔡依林於新力博德曼時期的23首歌曲、4支音樂錄影帶與1部紀錄片\[1\]。
 
 ## 曲目

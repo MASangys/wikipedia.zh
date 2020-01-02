@@ -1,3 +1,6 @@
+> 本文内容由[国际C语言混乱代码大赛](https://zh.wikipedia.org/wiki/国际C语言混乱代码大赛)转换而来。
+
+
 **国际C语言混乱代码大赛**（IOCCC, The International Obfuscated C Code Contest）是一项国际[程式設計赛事](https://zh.wikipedia.org/wiki/程式設計 "wikilink")。从1984年开始，本赛事每年举办一次（1997年、1999年、2002年、2003年和2006年例外）\[1\]。本赛事的目的是写出最有创意和最让人难以理解的[C语言代碼](https://zh.wikipedia.org/wiki/C语言 "wikilink")。
 
 從線上提交开始，作品需要經過好幾回合的裁判審核。评判作品的标准基於濫用混亂代碼的程度（以及濫用程度的創造性）。通過最後一輪審核的作品會被歸成特別的一類以示嘉獎，例如「最濫用C[预處理器](https://zh.wikipedia.org/wiki/预處理器 "wikilink")」或者「最古怪的行為」，並且發表在官方IOCCC網站。获胜作品将被公示于IOCCC网站，并以此作为奖赏。

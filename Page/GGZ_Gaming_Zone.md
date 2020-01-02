@@ -1,3 +1,6 @@
+> 本文内容由[GGZ Gaming Zone](https://zh.wikipedia.org/wiki/GGZ_Gaming_Zone)转换而来。
+
+
 **GGZ Gaming Zone** 是一个[自由](../Page/自由.md "wikilink")软件[网络游戏](../Page/网络游戏.md "wikilink")平台项目，开始于2000年。此平台在技术方面（服务端、客户端、接口协议）的功能正逐渐完善，并同时支持多种游戏工具（如[聊天机器人等](https://zh.wikipedia.org/wiki/聊天机器人 "wikilink")）。
 
 ## 概括

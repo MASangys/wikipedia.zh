@@ -1,3 +1,6 @@
+> 本文内容由[Fedora](https://zh.wikipedia.org/wiki/Fedora)转换而来。
+
+
 **Fedora Linux**（第七版以前為**Fedora Core**）是較具知名度的[Linux發行套件之一](https://zh.wikipedia.org/wiki/Linux發行套件 "wikilink")，由[Fedora專案](../Page/Fedora專案.md "wikilink")社群開發、[紅帽公司](../Page/紅帽公司.md "wikilink")贊助，目標是建立一套新穎、多功能並且自由（[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")）的作業系統。
 
 Fedora基於[Red Hat Linux](../Page/Red_Hat_Linux.md "wikilink")。在Red Hat Linux終止發行後，紅帽公司計畫以Fedora來取代Red Hat Linux在個人領域的應用，而另外發行的[Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（Red Hat企業版Linux）則取代Red Hat Linux在商業應用的領域\[1\]。

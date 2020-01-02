@@ -1,3 +1,6 @@
+> 本文内容由[Mr. Jazz: A Song for You](https://zh.wikipedia.org/wiki/Mr._Jazz:_A_Song_for_You)转换而来。
+
+
 **Mr. Jazz: A Song for You**是蕭敬騰的第二張自選[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")，同時也是其個人首張全[英語專輯](https://zh.wikipedia.org/wiki/英語 "wikilink")，2012年5月9日由[華納音樂發行](https://zh.wikipedia.org/wiki/華納音樂 "wikilink")。專輯內的選曲都是經典英文情歌，加以[爵士](../Page/爵士.md "wikilink")樂風詮釋，是2012年3月29日在[台北舉辦的小型蕭敬騰生日音樂會的現場錄音](https://zh.wikipedia.org/wiki/台北 "wikilink")。\[1\]
 
 ## 曲目

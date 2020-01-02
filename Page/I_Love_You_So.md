@@ -1,3 +1,6 @@
+> 本文内容由[I Love You So](https://zh.wikipedia.org/wiki/I_Love_You_So)转换而来。
+
+
 《**I Love You So**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[張立基](../Page/張立基.md "wikilink")的第十張專輯，第七張粵語專輯，在1992年5月推出。專輯的第一主打歌是《My Baby》，第二主打歌是《妳走了》，第三主打歌是《永不言敗》。
 
 ## 曲目

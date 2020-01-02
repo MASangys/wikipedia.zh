@@ -1,3 +1,6 @@
+> 本文内容由[Familiar Linux](https://zh.wikipedia.org/wiki/Familiar_Linux)转换而来。
+
+
 Familiar Linux是一个可运行在iPAQ或其他很多原本以Windows CE为操作系统的PDA上的linux发行版。它是一个完整的操作系统，可以运行或[GPE](../Page/GPE.md "wikilink")掌上电脑环境作为[图形用户界面](../Page/图形用户界面.md "wikilink")。其他Linux系统的很多[应用程式可以只做小量修改便能运行在Familiar上](https://zh.wikipedia.org/wiki/应用程式 "wikilink")。
 
 ## 外部連結

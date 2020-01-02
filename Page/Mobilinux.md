@@ -1,3 +1,6 @@
+> 本文内容由[Mobilinux](https://zh.wikipedia.org/wiki/Mobilinux)转换而来。
+
+
 **Mobilinux**，是一種基於Linux內核的[行動作業系統](../Page/行動作業系統.md "wikilink")，應用於[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")。[MontaVista公司於](https://zh.wikipedia.org/wiki/MontaVista "wikilink")2005年4月25日宣布Mobilinux。
 
 Mobilinux是基於開放源代碼和開放標準技術，設計給可擴展性的單芯片移動電話。超過35萬部手機和其他移動設備上運行的Mobilinux ，遠遠超過任何其他的商業Linux操作系統。

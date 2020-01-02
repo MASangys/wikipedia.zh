@@ -1,3 +1,6 @@
+> 本文内容由[Home 2 Home](https://zh.wikipedia.org/wiki/Home_2_Home)转换而来。
+
+
 **Home 2 Home**是[香港](../Page/香港.md "wikilink")一家[酒店](../Page/酒店.md "wikilink")連鎖集團，在[香港](../Page/香港.md "wikilink")地區擁有4家精品酒店，主要經營[港島昂貴地價月租酒店服務](https://zh.wikipedia.org/wiki/港島 "wikilink")。而每間[酒店](../Page/酒店.md "wikilink")只設有6-52間房間不等。
 
 ## 歷史

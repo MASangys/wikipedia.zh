@@ -1,3 +1,6 @@
+> 本文内容由[BF2C](https://zh.wikipedia.org/wiki/BF2C)转换而来。
+
+
 **寇蒂斯Model 67**（美國海軍編號**BF2C-1蒼鷹**）與**寇蒂斯Model 68 Hawk III**為[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[柯蒂斯-萊特公司](../Page/柯蒂斯-萊特公司.md "wikilink")於1930年代為[美國海軍](../Page/美國海軍.md "wikilink")開發的[雙翼機](https://zh.wikipedia.org/wiki/雙翼機 "wikilink")。雖然在美國海軍的評價並不高，但是這款[寇蒂斯鷹系列](../Page/寇蒂斯鷹系列.md "wikilink")在外銷上獲得一定成績，並在其他國家的天空獲得了不少戰果。
 
 ## 設計與開發

@@ -1,3 +1,6 @@
+> 本文内容由[A clips vol.2](https://zh.wikipedia.org/wiki/A_clips_vol.2)转换而来。
+
+
 《**A clips vol.2**》（A片vol.2）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")發行的影像作品，為《[A clips](../Page/A_clips.md "wikilink")》系列的第二作。本作在2002年3月13日於日本發行，也是第五張同時發行VHS與DVD版本的影音作品。。
 
 ## 說明

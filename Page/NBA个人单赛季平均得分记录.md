@@ -1,3 +1,6 @@
+> 本文内容由[NBA个人单赛季平均得分记录](https://zh.wikipedia.org/wiki/NBA个人单赛季平均得分记录)转换而来。
+
+
 **NBA个人单赛季平均得分记录**列出[NBA](../Page/NBA.md "wikilink")赛季的[例行赛中单赛季平均得分最高的球员](https://zh.wikipedia.org/wiki/NBA例行赛 "wikilink")。
 
 球员必需在当赛季[例行赛的上场次数达到至少](https://zh.wikipedia.org/wiki/NBA例行赛 "wikilink")70场或者总得分超过1400分，满足两个条件中的一个才有资格被列入统计。[1979-80年赛季起NBA首设三分线](https://zh.wikipedia.org/wiki/1979-80_NBA赛季 "wikilink")。

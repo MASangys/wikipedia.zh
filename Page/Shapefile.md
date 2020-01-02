@@ -1,3 +1,6 @@
+> 本文内容由[Shapefile](https://zh.wikipedia.org/wiki/Shapefile)转换而来。
+
+
 ESRI Shapefile（shp），或简称shapefile，是[美国环境系统研究所公司](https://zh.wikipedia.org/wiki/美国环境系统研究所公司 "wikilink")（ESRI）开发的空间数据开放格式。\[1\]目前，该文件格式已经成为了地理信息软件界的开放标准，这表明ESRI公司在全球的地理信息系统市场的重要性。Shapefile也是重要的交换格式，能够在ESRI与其他公司的产品之间进行数据互操作。
 
 Shapefile文件用于描述几何体对象：[点](../Page/点.md "wikilink")、折线与[多边形](../Page/多边形.md "wikilink")。例如，Shapefile文件可以存储[井](https://zh.wikipedia.org/wiki/井 "wikilink")、河流、[湖泊](../Page/湖泊.md "wikilink")等空间对象的几何位置。除了几何位置，shp文件也可以存储这些空间对象的属性，例如河流的名字、城市的温度等等。

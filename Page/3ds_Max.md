@@ -1,3 +1,6 @@
+> 本文内容由[3ds Max](https://zh.wikipedia.org/wiki/3ds_Max)转换而来。
+
+
 **3ds Max**（原名：**3D Studio Max**），是[Autodesk传媒娱乐部](../Page/Autodesk传媒娱乐部.md "wikilink")开发的全功能的[三维计算机图形软件](../Page/三维计算机图形软件.md "wikilink")。它运行在Win64平台上。在[2007年7月](../Page/2007年7月.md "wikilink")，3ds Max发布了第十版。
 
 在[Windows NT出现以前](../Page/Windows_NT.md "wikilink")，工业级的[计算机图形学](../Page/计算机图形学.md "wikilink")制作被[SGI图形工作站所垄断](../Page/硅谷图形公司.md "wikilink")。3D Studio Max + Windows NT组合的出现一下子降低了CG制作的门槛，首选开始运用在[电脑游戏](../Page/电脑游戏.md "wikilink")中的动画制作，后更进一步开始参与影视片的特效制作，例如[X戰警2](../Page/X戰警2.md "wikilink")、[最后的武士等](https://zh.wikipedia.org/wiki/最后的武士 "wikilink")。

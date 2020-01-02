@@ -1,3 +1,6 @@
+> 本文内容由[XEvil](https://zh.wikipedia.org/wiki/XEvil)转换而来。
+
+
 ***XEvil*** 為橫向捲軸動作遊戲，由Steve Hardt在[麻省理工學院開發](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")，屬於[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")。遊戲模式以free-for-all對戰為主，玩家互相對抗，或是對抗電腦。\[1\]本遊戲被評為"有史以來最生動暴力的電腦遊戲之一"，其暴力成份引發了不少爭議。\[2\]
 
 本遊戲首建於[1994年](https://zh.wikipedia.org/wiki/1994_in_video_gaming "wikilink")，現已存在多種不同平台的版本可供下載。The game is available for anyone, and leaves a large pool of characters to pick from. 如同多數的線上遊戲，其故事線並不完整，而就其屬的類別來說，其實也非必要。The game has been reviewed and被認為是暴力且具成癮性，本質上卻極為簡單。

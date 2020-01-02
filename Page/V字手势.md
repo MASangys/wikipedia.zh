@@ -1,3 +1,6 @@
+> 本文内容由[V字手势](https://zh.wikipedia.org/wiki/V字手势)转换而来。
+
+
 [LSQ_2.jpg](https://zh.wikipedia.org/wiki/File:LSQ_2.jpg "fig:LSQ_2.jpg")
 
 **V字手勢**（[Emoji](https://zh.wikipedia.org/wiki/Emoji "wikilink")：[✌](https://zh.wikipedia.org/wiki/✌ "wikilink")），手勢的做法除[食指及](https://zh.wikipedia.org/wiki/食指 "wikilink")[中指豎起外其他手指向手心彎曲](https://zh.wikipedia.org/wiki/中指 "wikilink")。通常，手心向內或外並無區別，但手心向內的手勢在某些西方國家有[侮辱](../Page/侮辱.md "wikilink")含義。

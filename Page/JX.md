@@ -1,3 +1,6 @@
+> 本文内容由[JX](https://zh.wikipedia.org/wiki/JX)转换而来。
+
+
 **JX** 是一个[微内核](https://zh.wikipedia.org/wiki/微内核 "wikilink")[操作系统](../Page/操作系统.md "wikilink")，内核与扩展应用程序皆使用[Java](../Page/Java.md "wikilink")语言。\[1\]
 
 ## 概述

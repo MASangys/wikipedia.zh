@@ -1,3 +1,6 @@
+> 本文内容由[TRICK \(倖田來未專輯\)](https://zh.wikipedia.org/wiki/TRICK_\(倖田來未專輯\))转换而来。
+
+
 《**TRICK**》（魔幻把戲）是[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")的第7張個人原創專輯，收錄《[MOON](../Page/MOON_\(倖田來未單曲\).md "wikilink")》、《[TABOO](../Page/TABOO.md "wikilink")（禁忌）》及《[stay with me](https://zh.wikipedia.org/wiki/stay_with_me "wikilink")》，3張A面單曲。額外曲目「Venus」是翻唱歌曲，因為在吉列 venus body 除毛刀廣告中曾翻唱「Venus」而得到好評，所以收錄為bonus曲目。
 
 ## 解說

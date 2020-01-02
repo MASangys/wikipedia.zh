@@ -1,3 +1,6 @@
+> 本文内容由[PlayStation Portable系統軟體](https://zh.wikipedia.org/wiki/PlayStation_Portable系統軟體)转换而来。
+
+
 [PSP_svenska_menyer.jpg](https://zh.wikipedia.org/wiki/File:PSP_svenska_menyer.jpg "fig:PSP_svenska_menyer.jpg") **PlayStation Portable系統軟體**（PlayStation Portable System Software）是執行控制[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）的[系統軟體](https://zh.wikipedia.org/wiki/系統軟體 "wikilink")。
 
 PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線LAN功能，進行網路更新。

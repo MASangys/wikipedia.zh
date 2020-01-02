@@ -1,3 +1,6 @@
+> 本文内容由[Honey \(王心凌專輯\)](https://zh.wikipedia.org/wiki/Honey_\(王心凌專輯\))转换而来。
+
+
 《**Honey**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王心凌](../Page/王心凌.md "wikilink")的第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。由[愛貝克思](../Page/愛貝克思_\(台灣\).md "wikilink")（時為艾迴唱片）於2005年2月18日發行。該專輯於2005年3月25日發行改版「甜蜜慶功版」。
 
 ## 曲目

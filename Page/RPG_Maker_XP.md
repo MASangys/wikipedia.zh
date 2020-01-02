@@ -1,3 +1,6 @@
+> 本文内容由[RPG Maker XP](https://zh.wikipedia.org/wiki/RPG_Maker_XP)转换而来。
+
+
 **RPG Maker XP**（[日本](../Page/日本.md "wikilink")：，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")：新RPG製作大師XP）是[Enterbrain](../Page/Enterbrain.md "wikilink")在PC上出版的第四套[RPG製作大師](../Page/RPG製作大師.md "wikilink")系列軟體。
 
 ## 特色

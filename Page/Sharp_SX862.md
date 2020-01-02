@@ -1,3 +1,6 @@
+> 本文内容由[Sharp SX862](https://zh.wikipedia.org/wiki/Sharp_SX862)转换而来。
+
+
 **Sharp SX862**的[屏幕設計使用多項技術](https://zh.wikipedia.org/wiki/屏幕 "wikilink")，包括[VGA](https://zh.wikipedia.org/wiki/VGA "wikilink") [解像度及](https://zh.wikipedia.org/wiki/解像度 "wikilink")2000:1對比度。除擁3.2吋屏幕，更可以16:9全闊屏幕觀賞VGA 質素影片，屏幕更可旋轉至T型模式。
 
 |       |                                                                                                                                                                                                                                        |

@@ -1,3 +1,6 @@
+> 本文内容由[Supercell \(專輯\)](https://zh.wikipedia.org/wiki/Supercell_\(專輯\))转换而来。
+
+
 《**supercell**》是音樂製作團體[supercell的第一張](https://zh.wikipedia.org/wiki/supercell_\(樂團\) "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，在2009年3月4日由[GT music品牌發行](../Page/Sony_Music_Direct.md "wikilink")。
 
 ## 概要

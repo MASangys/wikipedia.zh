@@ -1,3 +1,6 @@
+> 本文内容由[LC电路](https://zh.wikipedia.org/wiki/LC电路)转换而来。
+
+
 [LC_parallel_simple.svg](https://zh.wikipedia.org/wiki/File:LC_parallel_simple.svg "fig:LC_parallel_simple.svg") [Low_cost_DCF77_receiver.jpg](https://zh.wikipedia.org/wiki/File:Low_cost_DCF77_receiver.jpg "fig:Low_cost_DCF77_receiver.jpg")中一个接收器的调谐电路。\]\]
 
 **LC电路**，也称为**谐振电路**、**槽路**或**调谐电路**，是包含一个[电感](../Page/电感元件.md "wikilink")（用字母L表示）和一个[电容](../Page/电容器.md "wikilink")（用字母C表示）连接在一起的[电路](../Page/电路.md "wikilink")。该电路可以用作电[谐振器](https://zh.wikipedia.org/wiki/谐振器 "wikilink")（[音叉](../Page/音叉.md "wikilink")的一种电学模拟），储存电路[共振](../Page/共振.md "wikilink")时振荡的能量。

@@ -1,3 +1,6 @@
+> 本文内容由[Whonix](https://zh.wikipedia.org/wiki/Whonix)转换而来。
+
+
 **Whonix**\[1\] 是一个基于 [Debian](../Page/Debian.md "wikilink") 的以安全为核心\[2\]的 Linux 发行版\[3\]。其主要目标在于保护线上的隐私、安全与匿名。这个操作系统包含两个虚拟机，一个工作站与一个基于 Tor 的网关机，这两个虚拟机均基于 Debian。系统会迫使所有网络连接都经过 Tor。\[4\]目前最新的版本是 15.0，基于 Debian 10 所构建。
 
 ## 设计理念

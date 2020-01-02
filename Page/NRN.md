@@ -1,3 +1,6 @@
+> 本文内容由[NRN](https://zh.wikipedia.org/wiki/NRN)转换而来。
+
+
 ****（，），即「**全國廣播網**」，是[日本](../Page/日本.md "wikilink")一家[廣播聯播網](https://zh.wikipedia.org/wiki/廣播聯播網 "wikilink")，成立於1965年5月3日，[加盟者為](https://zh.wikipedia.org/wiki/加盟 "wikilink")[AM私營](../Page/調幅廣播.md "wikilink")[廣播電臺](https://zh.wikipedia.org/wiki/廣播電臺 "wikilink")。其[核心局](../Page/核心局.md "wikilink")為[文化放送及](../Page/文化放送_\(日本\).md "wikilink")[日本放送](../Page/日本放送.md "wikilink")。NRN共有40個廣播電台加盟，是日本最大的廣播聯播網。
 
 ## 成員列表

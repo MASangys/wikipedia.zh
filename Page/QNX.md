@@ -1,3 +1,6 @@
+> 本文内容由[QNX](https://zh.wikipedia.org/wiki/QNX)转换而来。
+
+
 **QNX**是商業[類Unix實時作業系統](https://zh.wikipedia.org/wiki/類Unix "wikilink")，主要針對嵌入式系統市場。該產品開發於20世紀80年代初，後來改名為QNX軟件系統公司，公司已被[黑莓公司](../Page/黑莓公司.md "wikilink")併購。
 
 ## 功能简述

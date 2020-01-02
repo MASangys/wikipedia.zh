@@ -1,3 +1,6 @@
+> 本文内容由[Vizing定理](https://zh.wikipedia.org/wiki/Vizing定理)转换而来。
+
+
 **Vizing定理**是[圖論中的](https://zh.wikipedia.org/wiki/圖論 "wikilink")[定理](../Page/定理.md "wikilink")。它描述了[邊著色數與](https://zh.wikipedia.org/wiki/邊著色數 "wikilink")[度的關係](https://zh.wikipedia.org/wiki/度 "wikilink")。
 
 ## 定理陳述

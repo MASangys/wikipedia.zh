@@ -1,3 +1,6 @@
+> 本文内容由[BBC Climate Change Experiment](https://zh.wikipedia.org/wiki/BBC_Climate_Change_Experiment)转换而来。
+
+
 [CPDN-Client.png](https://zh.wikipedia.org/wiki/File:CPDN-Client.png "fig:CPDN-Client.png")
 
 **BBC Climate Change Experiment**(英國廣播公司氣候變化實驗)是一項目由[英國牛津大學主導](https://zh.wikipedia.org/wiki/英國牛津大學 "wikilink")，[英國氣象局](../Page/英國氣象局.md "wikilink")、[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")、[英國空中大學和](https://zh.wikipedia.org/wiki/英國空中大學 "wikilink")[英國瑞丁大學合辦的](https://zh.wikipedia.org/wiki/英國瑞丁大學 "wikilink")[BOINC](../Page/BOINC.md "wikilink")計劃。這計劃在2006年2月正式展開，是[Climateprediction.net](../Page/Climateprediction.net.md "wikilink")項目中的瞬變氣候模型。瞬變氣候模型包括了真實海洋的模擬，讓實驗能更準確地研究氣候的變化。\[1\]

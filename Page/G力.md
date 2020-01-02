@@ -1,3 +1,6 @@
+> 本文内容由[G力](https://zh.wikipedia.org/wiki/G力)转换而来。
+
+
 **G力**（gravitational force equivalent or G-force），也可稱「重力｣； 原為一[航空](../Page/航空.md "wikilink")專有名詞，現在廣泛做為移動或改變[切線](https://zh.wikipedia.org/wiki/切線 "wikilink")，或是加速度與減速度時承受力道的單位。
 
 ## 定義

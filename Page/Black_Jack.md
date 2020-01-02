@@ -1,3 +1,6 @@
+> 本文内容由[Black Jack](https://zh.wikipedia.org/wiki/Black_Jack)转换而来。
+
+
 **Black Jack**可以是：
 
 ## 地名

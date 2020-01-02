@@ -1,3 +1,6 @@
+> 本文内容由[Scorched 3D](https://zh.wikipedia.org/wiki/Scorched_3D)转换而来。
+
+
 [Scorched_3D_1_screenshot_roam1.JPG](https://zh.wikipedia.org/wiki/File:Scorched_3D_1_screenshot_roam1.JPG "fig:Scorched_3D_1_screenshot_roam1.JPG") ***Scorched 3D*** 是经典回合制策略游戏，细分为[炮术游戏](https://zh.wikipedia.org/wiki/炮术游戏 "wikilink")，*Scorched Earth*的3D复刻。不过这次是[自由软件](../Page/自由软件.md "wikilink")。与时俱进的*Scorched 3D* 添加了3D岛屿地貌和 [LAN](https://zh.wikipedia.org/wiki/LAN "wikilink")／[Internet游戏支持](https://zh.wikipedia.org/wiki/Internet "wikilink")。最多24方同时游戏。Scorched 3D可以运行在[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")（[Linux](../Page/Linux.md "wikilink")，[FreeBSD](../Page/FreeBSD.md "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，[Solaris](../Page/Solaris.md "wikilink")之类）[操作系统](../Page/操作系统.md "wikilink")上。并有[纸娃娃系统](../Page/纸娃娃系统.md "wikilink")。
 
 2001年4月，Gavin Camp公开首个版本。原先作为一个3D地图生成器。

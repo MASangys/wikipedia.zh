@@ -1,3 +1,6 @@
+> 本文内容由[I\'m Ready \(李蘊專輯\)](https://zh.wikipedia.org/wiki/I\'m_Ready_\(李蘊專輯\))转换而来。
+
+
 《**I'm Ready**》是[香港](../Page/香港.md "wikilink")女歌手[李蘊](../Page/李蘊.md "wikilink")的首張個人專輯，專輯於2009年4月24日發行。賣碟會於4月26日在[旺角](../Page/旺角.md "wikilink")一唱碟店舉行，專輯簽名會於7月1日在[奧海城](../Page/奧海城.md "wikilink")二期商場內舉行，吸引超過80名歌迷到場支持。而製作特輯、賣碟會花絮及簽名會花絮分別於4月14日、4月28日及7月1日由GoodPhoto.Tv上載於[YouTube](../Page/YouTube.md "wikilink")上。
 
 專輯名稱可解釋為李蘊由童星（[Cream](https://zh.wikipedia.org/wiki/Cream_\(香港樂隊\) "wikilink")）時期至現在個人發展，已經成為一個亭亭玉立的小女生，一切已經「準備好」了，並等待機會突圍而上<small>\[1\]。</small>專輯以粉紅色為主，隨碟附送8張明信片，背面為5首歌曲的歌詞及出碟感言等資料。

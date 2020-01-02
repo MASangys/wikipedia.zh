@@ -1,3 +1,6 @@
+> 本文内容由[FLOW \(樂團\)](https://zh.wikipedia.org/wiki/FLOW_\(樂團\))转换而来。
+
+
 **FLOW**是[日本](../Page/日本.md "wikilink")一組[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，隸屬於[Amuse](../Page/Amuse.md "wikilink")旗下，1998年結成，2003年發行首張單曲「」後正式[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")。代表作：《days》、《sign》、《go》、《》。
 
 ## 成員

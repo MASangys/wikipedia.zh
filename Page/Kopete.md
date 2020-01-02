@@ -1,3 +1,6 @@
+> 本文内容由[Kopete](https://zh.wikipedia.org/wiki/Kopete)转换而来。
+
+
 **Kopete**是[KDE](../Page/KDE.md "wikilink")的一个子项目，支持多[协议的](https://zh.wikipedia.org/wiki/协议 "wikilink")[即时通信](https://zh.wikipedia.org/wiki/即时通信 "wikilink")，包括[ICQ](../Page/ICQ.md "wikilink")、[AIM](https://zh.wikipedia.org/wiki/AIM "wikilink")、[Gadu-Gadu](https://zh.wikipedia.org/wiki/Gadu-Gadu "wikilink")、[IRC](../Page/IRC.md "wikilink")、[.NET Messenger Service](https://zh.wikipedia.org/wiki/.NET_Messenger_Service "wikilink")、[Yahoo\! Messenger等协议](../Page/Yahoo!_Messenger.md "wikilink")。
 
 ## 支援的通訊協定

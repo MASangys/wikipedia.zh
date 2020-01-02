@@ -1,3 +1,6 @@
+> 本文内容由[HTC Touch Dual](https://zh.wikipedia.org/wiki/HTC_Touch_Dual)转换而来。
+
+
 **HTC Touch Dual**，產品代號Niki、Neon，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 6，[HTC Touch的滑蓋式鍵盤版本](../Page/HTC_Touch.md "wikilink")，分為16鍵與20鍵版，一樣具備[TouchFLO](../Page/TouchFLO.md "wikilink")介面，單手即可操作，2007年10月於歐洲首度發表。2008年7月1日，HTC與韓國SK電訊共同推出此機的白色款，HTC正式進軍韓國。
 
 已知客製版本：

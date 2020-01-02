@@ -1,3 +1,6 @@
+> 本文内容由[Harvest](https://zh.wikipedia.org/wiki/Harvest)转换而来。
+
+
 **harvest**，[樹海的第二張專輯](../Page/樹海_\(樂團\).md "wikilink")，商品番號GNCX-1003。
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[Full House Kiss2](https://zh.wikipedia.org/wiki/Full_House_Kiss2)转换而来。
+
+
 《**Full House Kiss2**》（）是2006年2月23日由[CAPCOM發售](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[PS2用的](https://zh.wikipedia.org/wiki/PS2 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。正式種類名稱為恋爱女佣。前作是[Full House Kiss](../Page/Full_House_Kiss.md "wikilink")。人物設計與原畫是由少女漫畫家[佑羽栞擔任](https://zh.wikipedia.org/wiki/佑羽栞 "wikilink")。media mix企画、佑羽刊作画的漫画版在[白泉社](../Page/白泉社.md "wikilink")的《[花與夢](../Page/花與夢.md "wikilink")》上連載。繼承登場人物的續編《[Full House Kiss2～戀愛迷宮～](https://zh.wikipedia.org/wiki/Full_House_Kiss2～戀愛迷宮～ "wikilink")》從2007年12月20日開始由daletto（）配信。
 
 ## 簡介

@@ -1,3 +1,6 @@
+> 本文内容由[China Properties Group Limited](https://zh.wikipedia.org/wiki/China_Properties_Group_Limited)转换而来。
+
+
 **China Properties Group Limited**（），前稱**中國地產集團**，\[1\]是[香港](../Page/香港.md "wikilink")[上市公司](../Page/上市公司.md "wikilink")之一。\[2\]\[3\]\[4\] 它的主要業務是[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[房地產](https://zh.wikipedia.org/wiki/房地產 "wikilink")[住宅](../Page/住宅.md "wikilink")及[商場](../Page/商場.md "wikilink")、[寫字樓物業項目的發展及銷售](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")。公司註冊地點是[開曼群島](../Page/開曼群島.md "wikilink")。核數師是香港立信德豪會計師事務所有限公司。
 
 ## 相關

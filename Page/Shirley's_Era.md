@@ -1,3 +1,6 @@
+> 本文内容由[Shirley\'s Era](https://zh.wikipedia.org/wiki/Shirley\'s_Era)转换而来。
+
+
 《**Shirley's Era**》是[香港](../Page/香港.md "wikilink")女歌手[關淑怡](../Page/關淑怡.md "wikilink")第12張粵語大碟，亦是睽違14年的全新粵語大碟，於2009年6月16日推出\[1\]。之后關淑怡未再與唱片公司簽約推出新作\[2\]。2010年，专辑获得华语金曲奖最佳封套设计奖提名\[3\]。
 
 ## 曲目

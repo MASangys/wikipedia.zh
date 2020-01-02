@@ -1,3 +1,6 @@
+> 本文内容由[PPAPER](https://zh.wikipedia.org/wiki/PPAPER)转换而来。
+
+
 [PPAPER_logo_first.jpg](https://zh.wikipedia.org/wiki/File:PPAPER_logo_first.jpg "fig:PPAPER_logo_first.jpg") [PPAPER_logo_第二版.jpg](https://zh.wikipedia.org/wiki/File:PPAPER_logo_第二版.jpg "fig:PPAPER_logo_第二版.jpg") 《**PPAPER**》為台灣一本設計學半月刊雜誌，於2004年12月15日創刊，由包益民創辦（前發行人）。現任發行人為[胡至宜](https://zh.wikipedia.org/wiki/胡至宜 "wikilink")，總編輯為簡兢谷。 **PPAPER**目前為月刊，每月5日出刊，不定時發行特刊。
 
 ## 內容

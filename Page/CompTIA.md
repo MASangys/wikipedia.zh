@@ -1,3 +1,6 @@
+> 本文内容由[CompTIA](https://zh.wikipedia.org/wiki/CompTIA)转换而来。
+
+
 **CompTIA**，即**美国计算机行业协会**（, [1](http://www.comptia.org/)），自1982年成立之日起，一直致力于通过各种标准、专业能力、教育和商业解决方案促进信息技术（[ICT](https://zh.wikipedia.org/wiki/ICT "wikilink")）产业及相关从业人员的发展。CompTIA总部设在美国芝加哥，并在阿姆斯特丹、北京、布鲁塞尔、迪拜、杜塞尔多夫、香港、约翰尔斯堡、伦敦、圣保罗、悉尼、东京、多伦多和华盛顿特区开设了办事处。
 
 ## 概述

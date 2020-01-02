@@ -1,3 +1,6 @@
+> 本文内容由[Nero Burning ROM](https://zh.wikipedia.org/wiki/Nero_Burning_ROM)转换而来。
+
+
 **Nero Burning ROM**一般简称为**Nero**，它是[Nero AG](https://zh.wikipedia.org/wiki/Nero_AG "wikilink")（原[Ahead Software](https://zh.wikipedia.org/wiki/Ahead_Software "wikilink")）开发的[Microsoft Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Linux](../Page/Linux.md "wikilink")下的一个流行的[光盘制作软件](https://zh.wikipedia.org/wiki/光盘制作软件 "wikilink")。\[1\] 现在这个程序通常作为套装软件的一部分，如*Nero 7 Premium Reloaded*，但仍使用Nero名称。
 
 [Nero_Express_5.5.10.38_OEM_20170123.jpg](https://zh.wikipedia.org/wiki/File:Nero_Express_5.5.10.38_OEM_20170123.jpg "fig:Nero_Express_5.5.10.38_OEM_20170123.jpg") 一个功能受限版的Nero Burning ROM被命名为[Nero Express来发行](https://zh.wikipedia.org/wiki/Nero_Express "wikilink")，主要面向休闲市场。它具有简单的菜单，主要面向对电脑不太精通的人群。

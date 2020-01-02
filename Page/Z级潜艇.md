@@ -1,3 +1,6 @@
+> 本文内容由[Z级潜艇](https://zh.wikipedia.org/wiki/Z级潜艇)转换而来。
+
+
 [Soviet_submarine_Amsterdam.jpg](https://zh.wikipedia.org/wiki/File:Soviet_submarine_Amsterdam.jpg "fig:Soviet_submarine_Amsterdam.jpg")
 
 **Z级潜艇**建设于[第二次世界大战](../Page/第二次世界大战.md "wikilink")之后，是一种[常规动力的大型](https://zh.wikipedia.org/wiki/常规动力 "wikilink")[远洋潜艇](https://zh.wikipedia.org/wiki/远洋潜艇 "wikilink")，蘇聯设计代号为611型。它借鉴了很多德国[U-XXI型潜艇的设计思路](https://zh.wikipedia.org/wiki/U-XXI型潜艇 "wikilink")，所以带有很多U-XXI型的特征\[1\]。Z级潜艇1947年于叶哥罗夫领导的CHKB-18船只设计局开始设计\[2\]，1950年开始建造，首艇于1952年下水服役。Z级潜艇有几个改进型，都是在Z级的基础上进行了修改和完善，如拆除[甲板炮](https://zh.wikipedia.org/wiki/甲板炮 "wikilink")，增加[通气管等](https://zh.wikipedia.org/wiki/通气管 "wikilink")，其中Z-V型是装备[弹道导弹](../Page/弹道导弹.md "wikilink")的[弹道导弹潜艇](../Page/弹道导弹潜艇.md "wikilink")。

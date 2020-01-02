@@ -1,3 +1,6 @@
+> 本文内容由[今天 \(NBC\)](https://zh.wikipedia.org/wiki/今天_\(NBC\))转换而来。
+
+
 《**今天**》（），也被称为《**今日秀**》（），是一档[美国](../Page/美国.md "wikilink")的[晨间新闻和](https://zh.wikipedia.org/wiki/晨间新闻 "wikilink")[脱口秀](../Page/脱口秀.md "wikilink")节目。每个工作日的晨间在[美国全国广播公司](https://zh.wikipedia.org/wiki/美国全国广播公司 "wikilink")（[NBC](https://zh.wikipedia.org/wiki/NBC "wikilink")）播出，于1952年1月14日首播。《今天》是首档早间资讯娱乐电视节目，日后在美国及全世界又出现了许多同类节目。该节目也是美国播出时间第三长的电视节目，仅次于《[与媒体见面](https://zh.wikipedia.org/wiki/与媒体见面 "wikilink")（**）》（1947年11月6日开播）和《[CBS晚间新闻](https://zh.wikipedia.org/wiki/CBS晚间新闻 "wikilink")（**）》（1948年8月14日开播）。
 
 起初《今天》是一档逢周一至周五播出的两个小时的节目，1987年开始在周日播出（现时周日版节目时长为1小时），1992年起又开设周六版。2000年起其平日版播出延长至三小时，2007年又开播第四小时的节目。

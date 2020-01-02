@@ -1,3 +1,6 @@
+> 本文内容由[Quanp](https://zh.wikipedia.org/wiki/Quanp)转换而来。
+
+
 **quanp** (kuàngpū)：[RICOH开发的](../Page/理光.md "wikilink")[网络存储系统](https://zh.wikipedia.org/wiki/网络存储系统 "wikilink")。
 
 ## 简介

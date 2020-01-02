@@ -1,3 +1,6 @@
+> 本文内容由[Gtk♯](https://zh.wikipedia.org/wiki/Gtk♯)转换而来。
+
+
 \-{T|Gtk\#}-  {{ infobox software | name = Gtk\# | developer = [Novell](../Page/Novell.md "wikilink") | latest release version = 2.12.10 | latest release date =  | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | genre = [部件工具箱](../Page/部件工具箱.md "wikilink") | license = [GNU較寬鬆公共許可證](https://zh.wikipedia.org/wiki/GNU較寬鬆公共許可證 "wikilink") | website = <http://www.mono-project.com/GtkSharp> }}
 
 **Gtk\#**是個[.NET的函式庫](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，用來[繫結](../Page/綁紮.md "wikilink")[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink") [GUI函式庫](https://zh.wikipedia.org/wiki/圖形用戶界面 "wikilink")。它讓你可以使用[Mono](../Page/Mono.md "wikilink")或其他相容[CLR的語言來開發GNOME應用程式](https://zh.wikipedia.org/wiki/公共語言運行庫 "wikilink")。

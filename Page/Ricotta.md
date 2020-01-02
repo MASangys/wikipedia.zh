@@ -1,3 +1,6 @@
+> 本文内容由[Ricotta](https://zh.wikipedia.org/wiki/Ricotta)转换而来。
+
+
 **Ricotta**（リコッタ）是QUALITY CONFIDENCE（クオリティコンフィデンス）公司旗下的[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")。品牌名稱Ricotta是一種[意大利](../Page/意大利.md "wikilink")原産的[奶製品](https://zh.wikipedia.org/wiki/里考塔 "wikilink")。
 
 ## 作品

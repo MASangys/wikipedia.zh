@@ -1,3 +1,6 @@
+> 本文内容由[Ak 4自動步槍](https://zh.wikipedia.org/wiki/Ak_4自動步槍)转换而来。
+
+
 **Ak 4**（）是[瑞典](../Page/瑞典.md "wikilink")軍隊在1965年至1985年的制式步槍，在1985年被[Ak 5突擊步槍取代](../Page/Ak_5突擊步槍.md "wikilink")。
 
 ## 历史

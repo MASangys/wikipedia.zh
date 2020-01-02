@@ -1,3 +1,6 @@
+> 本文内容由[GN-001 能天使GUNDAM](https://zh.wikipedia.org/wiki/GN-001_能天使GUNDAM)转换而来。
+
+
 | **能天使GUNDAM**                                                                                        |
 | ---------------------------------------------------------------------------------------------------- |
 | [GN-001 能天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-001_Gundam_Exia.jpg "fig:GN-001 能天使GUNDAM") |

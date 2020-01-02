@@ -1,3 +1,6 @@
+> 本文内容由[LOVE LETTER \(大塚愛專輯\)](https://zh.wikipedia.org/wiki/LOVE_LETTER_\(大塚愛專輯\))转换而来。
+
+
 《**LOVE LETTER**》是[大塚愛的第五張專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")。正式發行日期是2008年12月17日。該專輯包含《[口袋](../Page/口袋_\(單曲\).md "wikilink")》至《[水母、流星](../Page/水母、流星.md "wikilink")》期間的單曲，並收錄造成話題的日本生命廣告歌曲「愛」以及在NHK（BS）「」的主題曲「LOVE LETTER」。
 
 初回限定特製背面以情書信封樣式為設計。

@@ -1,3 +1,6 @@
+> 本文内容由[GA文庫](https://zh.wikipedia.org/wiki/GA文庫)转换而来。
+
+
 **GA文庫**是的[輕小說](../Page/輕小說.md "wikilink")文庫系列。2006年1月創刊。GA文庫官方網站並未說明「GA」是什麼的縮寫；但從廣告詞「超世代Adventure」以及作品募集中的文案\[1\]中推測，「G」為「*Generation*」的縮寫，「A」為「*Adventure*」的縮寫。\[2\]
 
 GA文库出版了相當多原創作品。創刊一年來，主力作品只有《[神曲奏界](../Page/神曲奏界.md "wikilink")》系列是改編作品，直到2007年《[魔塔大陸](https://zh.wikipedia.org/wiki/魔塔大陸 "wikilink")》出版為止。此外它也曾再版其他出版社的作品。2008年2月成立新人賞「[GA文庫大賞](../Page/GA文庫大賞.md "wikilink")」及「GA文庫主題大賞」。

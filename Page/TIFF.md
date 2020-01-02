@@ -1,3 +1,6 @@
+> 本文内容由[TIFF](https://zh.wikipedia.org/wiki/TIFF)转换而来。
+
+
 **标签图像文件格式**（**Tagged Image File Format**，简写为**TIFF**）是一种灵活的[位图格式](https://zh.wikipedia.org/wiki/栅格图像 "wikilink")，主要用来存储包括照片和艺术图在内的图像。它最初由[Aldus](../Page/Aldus.md "wikilink")公司与[微软公司一起为](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[PostScript](../Page/PostScript.md "wikilink")打印开发。TIFF与[JPEG](../Page/JPEG.md "wikilink")和[PNG](../Page/PNG.md "wikilink")一起成为流行的高位彩色图像格式。TIFF格式在业界得到了广泛的支持，如[Adobe](../Page/Adobe.md "wikilink")公司的[Photoshop](https://zh.wikipedia.org/wiki/Photoshop "wikilink")、The GIMP Team的[GIMP](../Page/GIMP.md "wikilink")、[Ulead PhotoImpact和](../Page/Ulead_PhotoImpact.md "wikilink")[Paint Shop Pro等图像处理应用](https://zh.wikipedia.org/wiki/Paint_Shop_Pro "wikilink")、[QuarkXPress和](https://zh.wikipedia.org/wiki/QuarkXPress "wikilink")[Adobe InDesign这样的桌面印刷和页面排版应用](../Page/Adobe_InDesign.md "wikilink")，[扫描](https://zh.wikipedia.org/wiki/扫描 "wikilink")、[传真](https://zh.wikipedia.org/wiki/传真 "wikilink")、[文字处理](https://zh.wikipedia.org/wiki/文字处理 "wikilink")、[光学字符识别](../Page/光学字符识别.md "wikilink")和其它一些应用等都支持这种格式。如今Adobe公司从Aldus获得了印刷应用程序-[PageMaker之后控制著TIFF的规范](https://zh.wikipedia.org/wiki/PageMaker "wikilink")。
 
 术语“Tagged Image File Format”或者“Tag Image File Format”在一些早期的TIFF规范中是作为副标题存在的。目前的TIFF规范[TIFF 6.0不再使用这些术语](https://zh.wikipedia.org/wiki/TIFF_6.0 "wikilink")，现在的名字仅仅叫做“TIFF”。

@@ -1,3 +1,6 @@
+> 本文内容由[Not Alone](https://zh.wikipedia.org/wiki/Not_Alone)转换而来。
+
+
 **《Not Alone》**是[韓國Pop](https://zh.wikipedia.org/wiki/韓國 "wikilink") Dance組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")的個人首張單曲，亦是[SS501](../Page/SS501.md "wikilink")中首位單飛後發行的首張單曲。音源於2011年1月20日通過各音樂網站公開。
 
 整張單曲由明星製作人「新沙洞老虎」與朴政珉攜手打造，朴政珉也以作詞家的身分參與專輯製作，從主打歌「Not Alone」、「妳知道嗎？」以及「有妳的每一天都是聖誕節」等所有歌曲，皆由他親自填詞\[1\]。

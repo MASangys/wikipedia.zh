@@ -1,3 +1,6 @@
+> 本文内容由[WiiWare](https://zh.wikipedia.org/wiki/WiiWare)转换而来。
+
+
 **WiiWare**（，Wii軟體）為提供[Wii](../Page/Wii.md "wikilink")新作軟體透過網際網路發行及下載的服務，使用本服務時需將Wii連接至網際網路。本項服務於2008年3月25日開始至2019年1月31日隨著[Wii商店頻道關閉而終止](https://zh.wikipedia.org/wiki/Wii商店頻道 "wikilink")。
 
 ## 概要

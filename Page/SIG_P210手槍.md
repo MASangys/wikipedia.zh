@@ -1,3 +1,6 @@
+> 本文内容由[SIG P210手槍](https://zh.wikipedia.org/wiki/SIG_P210手槍)转换而来。
+
+
 **SIG P210**是[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[SIG](https://zh.wikipedia.org/wiki/SIG "wikilink")（現為[Swiss Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）在1949年推出的[半自動手槍](../Page/半自動手槍.md "wikilink")。
 
 ## 設計

@@ -1,3 +1,6 @@
+> 本文内容由[HTC Herald](https://zh.wikipedia.org/wiki/HTC_Herald)转换而来。
+
+
 **HTC Herald**，原廠型號**HTC P4350，HTC P4351**，是台灣[宏達電公司所推出的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，搭載微軟 [Windows Mobile](../Page/Windows_Mobile.md "wikilink") 5，[HTC Wizard的升級版](../Page/HTC_Wizard.md "wikilink")，配備[TI](https://zh.wikipedia.org/wiki/TI "wikilink") OMAP850 201MHz處理器，配有側滑動式[QWERTY鍵盤](https://zh.wikipedia.org/wiki/QWERTY "wikilink")，性能強大。2006年12月於歐洲首度發表。已知客製版本HTC P4350，HTC P4351，Dopod C800，Dopod C858，O2 Xda Terra，Vodafone VPA Compact IV，T-Mobile Wing。
 
 ## 技術規格

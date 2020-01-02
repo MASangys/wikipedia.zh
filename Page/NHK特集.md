@@ -1,3 +1,6 @@
+> 本文内容由[NHK特集](https://zh.wikipedia.org/wiki/NHK特集)转换而来。
+
+
 《**NHK特集**》（，）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的[紀錄片](../Page/紀錄片.md "wikilink")節目，開播於1976年4月，至1989年4月將節目名稱的[漢字](https://zh.wikipedia.org/wiki/日語漢字 "wikilink")「特集」（）一詞改為[英語拼寫的](https://zh.wikipedia.org/wiki/英語 "wikilink")「Special」。原則上在[日本時間](../Page/日本標準時間.md "wikilink")（UTC+9）每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")21:00-21:50於[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")首播、[週三](https://zh.wikipedia.org/wiki/週三 "wikilink")0:00～0:50重播，不過當逢重大主題時會延長時間播出、並增加播出密度。
 
 ## 知名的系列節目

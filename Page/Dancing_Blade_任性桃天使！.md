@@ -1,3 +1,6 @@
+> 本文内容由[Dancing Blade 任性桃天使！](https://zh.wikipedia.org/wiki/Dancing_Blade_任性桃天使！)转换而来。
+
+
 《**Dancing Blade 任性桃天使！**》（）為[科樂美](../Page/科樂美.md "wikilink")發售之互動式動畫。
 
 遊戲一輪需要30分鐘左右，利用動畫中特定時機出現的選項使故事產生分歧，是一款多重結局[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。

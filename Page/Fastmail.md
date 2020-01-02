@@ -1,3 +1,6 @@
+> 本文内容由[Fastmail](https://zh.wikipedia.org/wiki/Fastmail)转换而来。
+
+
 **Fastmail**（旧版写作**FastMail**）一项由[澳大利亚](../Page/澳大利亚.md "wikilink")公司 FastMail Pty Ltd 提供的[电子邮件](../Page/电子邮件.md "wikilink")服务，因最早提供免费[IMAP邮件服务而出名](https://zh.wikipedia.org/wiki/IMAP "wikilink")。2010年，該公司被[Opera收購](https://zh.wikipedia.org/wiki/Opera_Software "wikilink")。2013年9月26日，Fastmail宣布從Opera分離，成為一家私人控股的獨立公司\[1\]。至今Fastmail在国際上仍是最受欢迎的[IMAP邮件服务之一](https://zh.wikipedia.org/wiki/IMAP "wikilink")，而在中国则受到[Gmail](../Page/Gmail.md "wikilink")对[IMAP的支持的冲击](https://zh.wikipedia.org/wiki/IMAP "wikilink")。Fastmail拥有数十个提供服务的域名。
 
 在一項非正式的評比中，Fastmail的安全性與[Gmail](../Page/Gmail.md "wikilink")並列A級第二，A級第一是[Mail.de](https://Mail.de)。A級的條件：除了User - Server間的傳輸用TLS 1.2加密之外，Server - Server的送信、收信也必須支援TLS 1.2加密，才能保證傳輸的任何一段過程皆不被偷窺。世界各國Email服務中能達到頂尖的不到5家。但FastMail由於伺服器設在侵犯網路隱私惡名昭彰的美國（關鍵字：[稜鏡計畫](../Page/稜鏡計畫.md "wikilink")），因此雖有技術上的安全性，仍不能保證美國政府不透過施壓業者的方式、不需竊聽即可取得通訊內容；所以Fastmail和Gmail在這項評比中被列為第二\[2\]。

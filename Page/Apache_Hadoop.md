@@ -1,3 +1,6 @@
+> 本文内容由[Apache Hadoop](https://zh.wikipedia.org/wiki/Apache_Hadoop)转换而来。
+
+
 **Apache Hadoop**是一款支持數據密集型[分佈式應用程序并以Apache](https://zh.wikipedia.org/wiki/分佈式 "wikilink") 2.0許可協議發佈的[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")。它支持在商品硬件構建的大型集群上運行的應用程序。Hadoop是根據[谷歌公司發表的](https://zh.wikipedia.org/wiki/谷歌公司 "wikilink")[MapReduce](../Page/MapReduce.md "wikilink")和[Google檔案系統](../Page/Google檔案系統.md "wikilink")的論文自行實作而成。所有的Hadoop模块都有一个基本假设，即硬件故障是常见情况，应该由框架自动处理。
 
 Hadoop框架透明地為應用提供可靠性和數據移動。它實現了名為MapReduce的[編程範式](https://zh.wikipedia.org/wiki/編程範式 "wikilink")：應用程序被分割成許多小部分，而每個部分都能在集群中的任意節點上執行或重新執行。此外，Hadoop還提供了分佈式文件系統，用以存儲所有計算節點的數據，這為整個集群帶來了非常高的帶寬。MapReduce和分佈式文件系統的設計，使得整個框架能夠自動處理節點故障。它使應用程序與成千上萬的獨立計算的電腦和PB級的數據连接起来。現在普遍認為整個Apache Hadoop“平台”包括Hadoop內核、MapReduce、Hadoop分佈式文件系統（HDFS）以及一些相關項目，有Apache Hive和Apache HBase等等。

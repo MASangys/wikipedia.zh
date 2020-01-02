@@ -1,3 +1,6 @@
+> 本文内容由[Joomla!](https://zh.wikipedia.org/wiki/Joomla!)转换而来。
+
+
 **Joomla\!**是一套[自由](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")、[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[內容管理系統](https://zh.wikipedia.org/wiki/內容管理系統 "wikilink")，以[PHP](../Page/PHP.md "wikilink")撰寫，用於發佈內容在[万维网](../Page/万维网.md "wikilink")與[内部网](https://zh.wikipedia.org/wiki/内部网 "wikilink")，通常被用來搭建商業網站、個人部落格、資訊管理系統、Web 服務等，還可以進行二次開發以擴充使用範圍。其功能包含可提高效能的頁面[快取](https://zh.wikipedia.org/wiki/快取 "wikilink")、[RSS](../Page/RSS.md "wikilink")饋送、頁面的可列印版本、新聞摘要、[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")、[投票](../Page/舆论调查.md "wikilink")、網站搜尋、與[語言國際化](../Page/国际化与本地化.md "wikilink")。Joomla\!是一套自由的開源軟體，使用[GPL授權](../Page/GNU通用公共许可证.md "wikilink")，任何人隨時都能下載 Joomla\! 並立即使用它。
 
 ## 歷史

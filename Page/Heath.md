@@ -1,3 +1,6 @@
+> 本文内容由[Heath](https://zh.wikipedia.org/wiki/Heath)转换而来。
+
+
 **HEATH**，本名**森江 博**。日本知名搖滾樂團[X JAPAN的貝斯手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")。以個人身份活動時為heath，以X JAPAN成員活動時為HEATH。
 
 ## 簡歷

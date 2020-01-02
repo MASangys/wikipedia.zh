@@ -1,3 +1,6 @@
+> 本文内容由[Kontact](https://zh.wikipedia.org/wiki/Kontact)转换而来。
+
+
 **Kontact**是[KDE](../Page/KDE.md "wikilink")的-{zh-tw:整合個人資訊管理套件;zh-cn:整合个人信息管理套件}-。提供日曆、通訊簿、筆記、待辦事項、新聞和電子郵件的功能。使用[KPart來嵌入各種](https://zh.wikipedia.org/wiki/KPart "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")（**[KMail](https://zh.wikipedia.org/wiki/KMail "wikilink")、[KAddressBook](https://zh.wikipedia.org/wiki/#Address_Book "wikilink")、[Akregator](../Page/Akregator.md "wikilink")**等）放入到容器應用程式。
 
 ## “Kontact” 和 “KDE PIM”之間的差異

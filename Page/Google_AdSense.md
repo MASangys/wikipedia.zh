@@ -1,3 +1,6 @@
+> 本文内容由[Google AdSense](https://zh.wikipedia.org/wiki/Google_AdSense)转换而来。
+
+
 **Google Adsense**是一個由Google公司設置的廣告計劃，會員可以利用[Youtube流量和](https://zh.wikipedia.org/wiki/Youtube "wikilink")[Blogspot功能置入廣告服務](https://zh.wikipedia.org/wiki/Blogspot "wikilink")，以賺取傭金。在普通會員方面，廣告服務收成68%，會員只能收取32%的分潤利潤。
 
 ## 原理

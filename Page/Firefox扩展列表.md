@@ -1,3 +1,6 @@
+> 本文内容由[Firefox扩展列表](https://zh.wikipedia.org/wiki/Firefox扩展列表)转换而来。
+
+
 **Firefox扩展**是为基于[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")设计的附加组件。一些Firefox扩展也可以在[SeaMonkey](../Page/SeaMonkey.md "wikilink")网页浏览器使用。
 
 在Mozilla的附加组件官方網站可以找到完整的扩展列表\[1\]。截止2010年5月16日，这个网站共有17936个Firefox扩展。

@@ -1,3 +1,6 @@
+> 本文内容由[CHERRYBLOSSOM](https://zh.wikipedia.org/wiki/CHERRYBLOSSOM)转换而来。
+
+
 **CHERRYBLOSSOM**是日本的樂團。[波麗佳音所屬](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。主要以[名古屋為中心活動](../Page/名古屋市.md "wikilink")。2007年3月開始活動。已於2010年6月解散。
 
 ## 成員

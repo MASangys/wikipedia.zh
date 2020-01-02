@@ -1,3 +1,6 @@
+> 本文内容由[Apple Store](https://zh.wikipedia.org/wiki/Apple_Store)转换而来。
+
+
 [Apple_store_fifth_avenue.jpg](https://zh.wikipedia.org/wiki/File:Apple_store_fifth_avenue.jpg "fig:Apple_store_fifth_avenue.jpg")[第五大道](../Page/第五大道.md "wikilink")的Apple Store入口，是一座玻璃建築，內部裝設有電梯和旋轉樓梯通往位於地下室的商店。（目前关闭翻新中）\]\] **Apple Store**，或称**苹果零售店**（英文：**Apple Store**，為與非直營的授權店區分，苹果直營店又稱**Apple Retail Store**）是指一間由[蘋果公司及各地分支机构直接經營的連鎖](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[零售](../Page/零售.md "wikilink")商店，主要业务包括販賣電腦、消費性電子產品、周边配件及软件和苹果产品的售后服务、教育訓練以及商务支持。截至2019年6月，蘋果已經在全世界25个国家和地区開設506家零售店。\[1\]
 
 ## 歷史

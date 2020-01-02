@@ -1,3 +1,6 @@
+> 本文内容由[X-Moto](https://zh.wikipedia.org/wiki/X-Moto)转换而来。
+
+
 **X-Moto**是一個免費且[開放原始碼的](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")2D摩托車電腦遊戲，仿照[Elasto Mania](https://zh.wikipedia.org/wiki/Elasto_Mania "wikilink")。但還有[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[Windows等版本](https://zh.wikipedia.org/wiki/Windows "wikilink")。在這個遊戲裡，物理模擬扮演著相當重要的角色。X-Moto從2005年開始開發。\[1\]
 
 ## 玩法

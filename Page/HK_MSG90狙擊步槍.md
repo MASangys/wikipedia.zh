@@ -1,3 +1,6 @@
+> 本文内容由[HK MSG90狙擊步槍](https://zh.wikipedia.org/wiki/HK_MSG90狙擊步槍)转换而来。
+
+
 **HK MSG90**是[黑克勒-科赫以](https://zh.wikipedia.org/wiki/黑克勒-科赫 "wikilink")[PSG1為基礎所改進的半自動軍用](../Page/HK_PSG1狙擊步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，口徑為[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[NATO](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")，當中的90解為推出年份（1990年）。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[OH!必勝奉順英](https://zh.wikipedia.org/wiki/OH!必勝奉順英)转换而来。
+
+
 《**OH\!必勝奉順英**》（[韓文](../Page/諺文.md "wikilink")：****，）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[KBS電視台於](../Page/韓國放送公社.md "wikilink")2004年9月至11月期間，韓國時間逢星期一、二，晚上9時55分播放的[月火迷你連續劇由金鍾學製作公司負責](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，[安在旭](../Page/安在旭.md "wikilink")、[蔡琳](../Page/蔡琳.md "wikilink")、[柳鎮](../Page/柳鎮_\(韓國\).md "wikilink")、[朴宣暎](../Page/朴宣暎.md "wikilink")等演員演出。台灣[緯來戲劇台](../Page/緯來戲劇台.md "wikilink")及[華視播映本劇時](https://zh.wikipedia.org/wiki/華視 "wikilink")，改名《**必勝！奉順英**》。
 
 ## 劇情介紹

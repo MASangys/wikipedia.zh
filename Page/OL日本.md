@@ -1,3 +1,6 @@
+> 本文内容由[OL日本](https://zh.wikipedia.org/wiki/OL日本)转换而来。
+
+
 **OL日本**（OLにっぽん）是2008年10月8日开始毎周三的22:00 - 22:54 (JST) 在[日本电视台放送的](https://zh.wikipedia.org/wiki/日本电视台 "wikilink")[电视连续剧](https://zh.wikipedia.org/wiki/电视连续剧 "wikilink")。又名《日本[女白领](../Page/办公室女职员.md "wikilink")》或《日本[女职员](../Page/办公室女职员.md "wikilink")》。2009年6月5日[緯來日本台](../Page/緯來日本台.md "wikilink")以**《OL生存戰》**首播。
 
 ## 概要

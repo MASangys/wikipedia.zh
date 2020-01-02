@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢超棒球外傳](https://zh.wikipedia.org/wiki/哆啦A夢超棒球外傳)转换而来。
+
+
 《**哆啦A夢超棒球外傳**》（），[藤子製作中](../Page/藤子·F·不二雄製作公司.md "wikilink")[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")的弟子[麥原伸太郎編繪的](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")[日本](../Page/日本.md "wikilink")[棒球漫畫](https://zh.wikipedia.org/wiki/棒球漫畫 "wikilink")。自2000年9月開始在[日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")《[快樂龍](https://zh.wikipedia.org/wiki/快樂龍 "wikilink")》連載，其後亦在[香港](../Page/香港.md "wikilink")版本連載。故事以22世紀為背景，描述貓型機械人黑隊長A夢領導的棒球隊伍進行世界級比賽的故事。
 
 ## 概要

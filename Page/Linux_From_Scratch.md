@@ -1,3 +1,6 @@
+> 本文内容由[Linux From Scratch](https://zh.wikipedia.org/wiki/Linux_From_Scratch)转换而来。
+
+
 《**Linux From Scratch**》（**LFS**）是等人编写的安装[Linux](../Page/Linux.md "wikilink")的教科书，描述了从[源代码](../Page/源代码.md "wikilink")编译Linux系统的方法。这本书可以从在Linux From Scratch网站上免费下载到。
 
 为了保持LFS的基本性和专注性，另一本书《[Beyond Linux From Scratch](https://zh.wikipedia.org/wiki/BLFS "wikilink")》（BLFS）提供了在LFS的基础上，进一步完善Linux基本系统的指引。在BLFS中，读者可以学习到如何为系统增加网络、[X桌面](https://zh.wikipedia.org/wiki/X_Window系统 "wikilink")、声音、打印机和扫描仪支持。从5.0版开始，BLFS开始与LFS的版本号保持同步。\[1\]

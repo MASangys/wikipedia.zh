@@ -1,3 +1,6 @@
+> 本文内容由[APA格式](https://zh.wikipedia.org/wiki/APA格式)转换而来。
+
+
 **APA格式**是一個為廣泛接受的研究論文撰寫格式，特別針對[社會科學領域的研究](https://zh.wikipedia.org/wiki/社會科學 "wikilink")，規範學術文獻的[引用](../Page/引用.md "wikilink")和[參考文獻](../Page/參考文獻.md "wikilink")的撰寫方法，以及[表格](https://zh.wikipedia.org/wiki/表格 "wikilink")、[圖表](https://zh.wikipedia.org/wiki/圖表 "wikilink")、[註腳和](https://zh.wikipedia.org/wiki/註腳 "wikilink")[附錄的編排方式](https://zh.wikipedia.org/wiki/附錄 "wikilink")。
 
 正式來說，APA格式指的就是[美國心理學會](https://zh.wikipedia.org/wiki/美國心理學會 "wikilink")（**A**merican **P**sychological **A**ssociation）出版的《美國心理協會刊物準則》，目前已出版至第六版（ISBN 9781433805615），總頁數272頁，而此協會是目前在[美國具有權威性的](https://zh.wikipedia.org/wiki/美國 "wikilink")[心理學學者組織](https://zh.wikipedia.org/wiki/心理學 "wikilink")。APA格式起源於1929年，當時只有7頁，被刊登在《心理學期刊（Psychological Bulletin）》\[1\]。

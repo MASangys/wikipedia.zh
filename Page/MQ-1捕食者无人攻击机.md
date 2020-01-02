@@ -1,3 +1,6 @@
+> 本文内容由[MQ-1捕食者无人攻击机](https://zh.wikipedia.org/wiki/MQ-1捕食者无人攻击机)转换而来。
+
+
 **MQ-1 捕食者**（Predator，又譯「 **掠食者**」 ）是一种[无人机](https://zh.wikipedia.org/wiki/无人机 "wikilink")，[美国空军](../Page/美国空军.md "wikilink")描述为“中海拔、长时程”（MALE）无人机系统。它可以扮演[侦察角色](https://zh.wikipedia.org/wiki/侦察 "wikilink")，可发射两枚[AGM-114地狱火飞弹](https://zh.wikipedia.org/wiki/AGM-114地狱火飞弹 "wikilink")，飛行於雲層上。从1995年服役以来，该型飞机参加过[阿富汗](../Page/阿富汗.md "wikilink")、[巴基斯坦](../Page/巴基斯坦.md "wikilink")、[波斯尼亚](https://zh.wikipedia.org/wiki/波斯尼亚 "wikilink")、[塞尔维亚](../Page/塞尔维亚.md "wikilink")、[伊拉克](../Page/伊拉克.md "wikilink")、[也门](../Page/也门.md "wikilink")和[利比亚](../Page/利比亚.md "wikilink")的战斗。它是一种[遥控飞行器](https://zh.wikipedia.org/wiki/遥控 "wikilink")。
 
 2011年9月，美国空军国民警卫队表示尽管存在预算削减的困难，他们仍将继续操作空军的“捕食者”攻击无人机。空军国民警卫队已经将部分使用F-16战斗机的中队改为使用无人攻击机，并部署到了伊拉克和阿富汗。

@@ -1,3 +1,6 @@
+> 本文内容由[Ayumi hamasaki ～POWER of MUSIC～ 2011 A LIMITED EDITION](https://zh.wikipedia.org/wiki/Ayumi_hamasaki_～POWER_of_MUSIC～_2011_A_LIMITED_EDITION)转换而来。
+
+
 《**ayumi hamasaki ～POWER of MUSIC～ 2011 A LIMITED EDITION**》（濱崎步 ～POWER of MUSIC～ 2011 A 特別版演唱會）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2011年10月18日-10月19日間舉行巡迴演唱會，2012年3月21日發行DVD及BD。台湾地区于2012年4月6日发行2DVD版本
 
 ## 說明

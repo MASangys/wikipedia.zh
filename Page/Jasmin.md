@@ -1,3 +1,6 @@
+> 本文内容由[Jasmin](https://zh.wikipedia.org/wiki/Jasmin)转换而来。
+
+
 **Jasmin** 是一[自由軟體的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink") JAVA [組合語言](https://zh.wikipedia.org/wiki/組合語言 "wikilink") ，可用於設計 class（類別）檔如同以JAVA 語言設計的相同與運用，但更可以得以深入了解 JAVA 語言與 PC 之間的運作模式與方法。Jasmin 程式的編譯與設計，仍是以易讀性為考量來設計，其適合熟悉 JAVA 語言與略懂 C/C++ 語法的程式設計師，如同 assembler-like 語法以 Java Virtual Machine (JVM) 架構與程序設計書為核心；但是 Jasmin 仍不同於 Java 程式語言的編譯 (Compiler Programing) 方式，而是以類似 C++ compiler 的方式來組譯 (assembler) 與連結（linker）。
 
 Jasmin 的編寫以類似 assembler-like 語法，其語言設計簡潔與易讀，編譯完成後會被轉成為一中間碼 (bytecode) 的 JVM Class 檔，可用於 Java 即時系統 (Java runtime system).

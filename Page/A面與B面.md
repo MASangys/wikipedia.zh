@@ -1,3 +1,6 @@
+> 本文内容由[A面與B面](https://zh.wikipedia.org/wiki/A面與B面)转换而来。
+
+
 **A面**與**B面**（和）是[流行音樂業界術語](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，於1950年代開始常用，原本指出版的7[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")[黑膠唱片](../Page/黑膠唱片.md "wikilink")（必須是[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")）的兩面。現在A面和B面通常用來辨別歌曲的重要度——放在A面的歌曲為主打歌，歌手會期望這些歌經常在[電台等](https://zh.wikipedia.org/wiki/電台 "wikilink")[傳媒渠道曝光](https://zh.wikipedia.org/wiki/傳媒 "wikilink")；放在B面的歌曲則屬於次要或附加歌目。
 
 A-Side和B-Side最初是指7英吋黑膠唱片的兩面，唱片業從1950年代開始使用這種介質錄製單曲。A-Side和B-Side逐渐被用于形容录制在碟片两面的两种不同类型的歌，A-Side通常录制的是我们所说的主打歌（那些被用来打榜或者期望在电台节目里热播的曲目），B-Side（或称flipside）是指的第二类歌，这些歌通常不会出现在乐队的[LP](https://zh.wikipedia.org/wiki/密纹唱片 "wikilink")（Long playing record album）中。

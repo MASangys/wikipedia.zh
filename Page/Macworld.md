@@ -1,3 +1,6 @@
+> 本文内容由[Macworld](https://zh.wikipedia.org/wiki/Macworld)转换而来。
+
+
 **Macworld**是一本專門關注[蘋果公司產品的網站及月刊](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，雜誌由Mac Publishing出版，總部位於美國[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。Macworld始創於1984年2月 \[1\]，如今已發展為全北美洲最暢銷的蘋果產品雜誌，是現存蘋果雜誌中歷史最悠久的。
 
 ## 参考文献

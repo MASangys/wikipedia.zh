@@ -1,3 +1,6 @@
+> 本文内容由[K-net](https://zh.wikipedia.org/wiki/K-net)转换而来。
+
+
 **K-net**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：）是[香港](../Page/香港.md "wikilink")一家主要的[卡拉OK](../Page/卡拉OK.md "wikilink")[版權管理公司](https://zh.wikipedia.org/wiki/版權 "wikilink")，成立於2006年，為唱片公司代理旗下歌手[卡拉OK](../Page/卡拉OK.md "wikilink")歌曲的版權。而K-net亦出租牌照予各[卡拉OK](../Page/卡拉OK.md "wikilink")、[酒吧及](https://zh.wikipedia.org/wiki/酒吧 "wikilink")[酒店](../Page/酒店.md "wikilink")等地方，協助[香港](../Page/香港.md "wikilink")及[澳門](../Page/澳門.md "wikilink")第一時間獲得最新最熱而且合法轉播的播放版權。K-net在於維護[知識產權](https://zh.wikipedia.org/wiki/知識產權 "wikilink")，致力打擊[侵權行為](https://zh.wikipedia.org/wiki/侵權 "wikilink")，以保障整個音樂創作工業享有公平守法的營商環境及持續的發展。
 
 K-net的網站現時已經無效，Facebook自2016年3月亦再無更新。

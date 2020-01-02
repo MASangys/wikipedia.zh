@@ -1,3 +1,6 @@
+> 本文内容由[DQN](https://zh.wikipedia.org/wiki/DQN)转换而来。
+
+
 **DQN**（）是在[日本](../Page/日本.md "wikilink")所流行的[網路用語與蔑稱之一](https://zh.wikipedia.org/wiki/網路用語 "wikilink")，通常指玩世不恭的不良人物、頭腦不好或是粗暴使用暴力的人，有时候也指没有常识或缺乏知識的人，也指父母给孩子取一些奇怪名字或自創发音。
 
 ## 概述

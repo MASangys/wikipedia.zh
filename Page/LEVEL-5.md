@@ -1,3 +1,6 @@
+> 本文内容由[LEVEL-5](https://zh.wikipedia.org/wiki/LEVEL-5)转换而来。
+
+
 **Level-5**（レベルファイブ）公司是一間獨自運作的[日本](../Page/日本.md "wikilink")[電玩遊戲開發與發行公司](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")，開發的遊戲多以獨特的卡通風格著稱，初始以《[闇黑之雲](https://zh.wikipedia.org/wiki/暗雲 "wikilink")》打開知名度，後來與[史克威爾艾尼克斯合作開發](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")《[勇者斗惡龍VIII 陸海空與被詛咒的公主](https://zh.wikipedia.org/wiki/勇者斗恶龙VIII_天空、海洋、大地与被诅咒的公主 "wikilink")》而廣為人知。
 
 ## 公司歷史

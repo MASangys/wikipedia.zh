@@ -1,3 +1,6 @@
+> 本文内容由[世界重量級冠軍 \(WWE\)](https://zh.wikipedia.org/wiki/世界重量級冠軍_\(WWE\))转换而来。
+
+
 **世界重量級冠軍**（），\[1\]是隸屬於[世界摔角娛樂旗下節目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[WWE SmackDown的一退役冠軍項目](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")。
 
 世界重量級冠軍於2002年成立於世界摔角娛樂的前身，也就是當時的世界摔角聯盟（WWF）。世界重量級冠軍是第五個使用的冠軍項目。世界重量級冠軍原本是隸屬世界摔角娛樂旗下另一個節目[WWE Raw的冠軍獎項](../Page/WWE_Raw.md "wikilink")，由於後WWE SmackDown成為一個品牌個體，因而常於Raw品牌與SmackDown品牌下移動（主要是因為的關係）。世界重量級冠軍的歷史傳統可追溯到，進而使世界重量級冠軍的歷史超過一百年，也是職業摔角界公認最早出現的重量級冠軍項目。
@@ -47,41 +50,23 @@
 1.
 2.
 3.
-
 4.  [WCW World Champion - Chris Jericho](http://www.wwe.com/inside/titlehistory/wcwchampionship/3044541104) at WWE.com
-
 5.  [The complex history of WWE's era of unification](http://www.wwe.com/classics/era-of-unification/page-5). WWE.com (2012-09-12). Retrieved on 2013-09-05.
-
 6.
-
 7.
-
 8.
-
 9.
-
 10.
-
 11.
-
 12.
 13.
-
 14.
-
 15.
-
 16.
-
 17.
-
 18.
-
 19.
-
 20.
-
 21.
-
 22.
 23.

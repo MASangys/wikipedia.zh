@@ -1,3 +1,6 @@
+> 本文内容由[Perlin噪声](https://zh.wikipedia.org/wiki/Perlin噪声)转换而来。
+
+
 **Perlin噪声**（**Perlin noise**）指由[Ken Perlin发明的自然噪声生成算法](https://zh.wikipedia.org/wiki/Ken_Perlin "wikilink")\[1\]。由于Perlin本人的失误，Perlin噪声这个名词现在被同时用于指代两种有一定联系的的噪声生成算法。这两种算法都广泛地应用于计算机图形学，因此人们对这两种算法的称呼存在一定误解。下文中的**Simplex噪声**和**分形噪声**都曾在严肃学术论文中被单独的称作**Perlin噪声**。
 
 本文仅讨论灰度图的情况。对于彩色图像的噪声生成，只要将同样的方法分别应用于各个颜色分量上，再加以合成即可。

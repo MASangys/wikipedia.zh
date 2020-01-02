@@ -1,3 +1,6 @@
+> 本文内容由[Read My Senses...](https://zh.wikipedia.org/wiki/Read_My_Senses...)转换而来。
+
+
 《**Read My Senses...**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的首張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[精選專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，發行於2007年6月25日，為王菀之在[環球唱片的最後一張唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。封面及內頁照片均由已故攝影師JC（[鄭智聰](https://zh.wikipedia.org/wiki/鄭智聰 "wikilink")）拍攝。
 大碟中除了《The Girl From Ipanema》外，所有歌曲均由王菀之作曲。專輯包括一隻CD和一隻DVD，CD中收錄了五首新歌、十二首精選歌曲及一首Hidden Track，而DVD中則收錄了三首MV及十一首KTV。派台歌曲分別有《真心話》、《面具》、《重見家圓》及《是一個誤會沒什麼可悲》。
 

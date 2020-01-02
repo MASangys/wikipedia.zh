@@ -1,3 +1,6 @@
+> 本文内容由[NCsoft](https://zh.wikipedia.org/wiki/NCsoft)转换而来。
+
+
 **NCsoft**是[韩国的](https://zh.wikipedia.org/wiki/韩国 "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")公司，成立于1997年3月11日，主要发展方向为[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")。总部设在[首爾](../Page/首爾.md "wikilink")，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[歐洲及](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[亞洲多國皆有子公司與合資企業](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[1\]。同時擁有[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")[NC恐龍](../Page/NC恐龍.md "wikilink")。
 
 ## 子公司

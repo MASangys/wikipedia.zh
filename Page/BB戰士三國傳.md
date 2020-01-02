@@ -1,3 +1,6 @@
+> 本文内容由[BB戰士三國傳](https://zh.wikipedia.org/wiki/BB戰士三國傳)转换而来。
+
+
 《**BB戰士三國傳**》是[BANDAI為了慶祝](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[BB戰士誕生](https://zh.wikipedia.org/wiki/BB戰士 "wikilink")20週年而創作的全新系列，改編自中國[四大名著](../Page/四大名著.md "wikilink")之一《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》，目前推出了**風雲豪傑篇**及**英雄激突篇**及**戰神決鬥篇**以及將會推出的外傳**武勇激鬥錄**。目前共有模型、漫畫、手機遊戲（目前僅於台灣及香港販售）等產品。
 
 BB戰士三國傳為2000年以來，[萬代](../Page/萬代.md "wikilink")SD鋼彈系列銷量最高作品，模型銷量全球達350萬盒。[萬代](../Page/萬代.md "wikilink")於2009年10月在第49回全日本模型Hobby Show公開**BB戰士三國傳**動畫化的訊息。

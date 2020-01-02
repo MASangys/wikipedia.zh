@@ -1,3 +1,6 @@
+> 本文内容由[Rhapsody](https://zh.wikipedia.org/wiki/Rhapsody)转换而来。
+
+
 **Rhapsody**是蘋果公司1996年的[NeXT](../Page/NeXT.md "wikilink")以及1998年的[Mac OS X之間的操作系統的代號](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[HTC J](https://zh.wikipedia.org/wiki/HTC_J)转换而来。
+
+
 **HTC J**（日本型號：**ISW13HT**，臺灣型號：**Z321e**）是日本電信商 [KDDI](../Page/KDDI.md "wikilink") 旗下之 [au](https://zh.wikipedia.org/wiki/au "wikilink") 向臺灣電子製造商 [宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink") 委託生產的 ''' 客製機 '''，在當時被定位為 ''' 中高階 ''' 的機型，於 2012 年 4 月 20 日推出，有著與 [HTC One S](../Page/HTC_One_S.md "wikilink") 相似的硬體規格，但外觀重新設計成日系風格，並加入可更換電池及支援 microSD 卡，副相機畫素也從 30 萬提升至 130 萬，更找來 [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink") 代言拍攝廣告，使得一推出便大受好評，不僅創下銷售佳績，也提升了 HTC 在日本的知名度。因為此機在日本十分受歡迎，HTC 更在 9 月引進回臺灣及香港等地，同樣也有不錯的表現，受到年輕族群的青睞。因為 HTC J 的成功，日本電信商 au 更在冬季再與 HTC 合作，共同發表了高階客製機 [HTC J Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。
 
 ## 簡介

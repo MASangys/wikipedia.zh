@@ -1,3 +1,6 @@
+> 本文内容由[VocaListener](https://zh.wikipedia.org/wiki/VocaListener)转换而来。
+
+
 **VocaListener**（簡稱****）是一個自動測定用戶歌聲的[語音合成參數的系統](https://zh.wikipedia.org/wiki/語音合成 "wikilink")，可以簡單地把輸入的歌聲轉換成另一種風格或聲質的技術。技術分為三部分：一是合成歌聲模仿目標歌聲的核心技術「VocaListener-core」，二是編輯目標歌聲的技術「VocaListener-plus」，三是分析歌聲的技術「VocaListener-front-end」。主要由中野倫靖和後藤真孝參與研究，先後以[VOCALOID 2的](../Page/VOCALOID.md "wikilink")[初音未來](../Page/初音未來.md "wikilink")、[鏡音鈴、連](../Page/鏡音鈴、連.md "wikilink")、[GACKPOID和VOCALOID的](https://zh.wikipedia.org/wiki/GACKPOID "wikilink")[MEIKO](https://zh.wikipedia.org/wiki/MEIKO "wikilink")、[KAITO作研究測試](https://zh.wikipedia.org/wiki/KAITO "wikilink")，採用的原因是因為產品已發放於市場，較容易入手。而音樂採用RWC研究用音樂資料庫（流行音樂）（RWC-MDB-P-2001）。研究目的是希望可以做到輕易合成高品質的歌聲，從而探索動聽歌聲的技巧，並在歌唱中得知人類個人的知覺。
 
 ## 歷史

@@ -1,3 +1,6 @@
+> 本文内容由[PRINCE2](https://zh.wikipedia.org/wiki/PRINCE2)转换而来。
+
+
 受控环境下的项目管理第二版（**PRojects IN Controlled Environments**，简写为PRINCE2）是一种[项目管理](../Page/项目管理.md "wikilink")[方法](https://zh.wikipedia.org/wiki/方法 "wikilink")。它包括项目的管理，控制和组织。“PRINCE2”是这种方法的第二个重要版本，并且是[政府商务部的注册商标](https://zh.wikipedia.org/wiki/政府商务部 "wikilink")，该部门是[英国财政部](../Page/英国财政部.md "wikilink")的一个独立机构。
 
 ## 发展历程

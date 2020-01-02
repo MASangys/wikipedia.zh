@@ -1,3 +1,6 @@
+> 本文内容由[KPV重機槍](https://zh.wikipedia.org/wiki/KPV重機槍)转换而来。
+
+
 **KPV重機槍**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：，意為：弗拉基米重機槍）是[蘇聯制造的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[14.5×114毫米彈藥](https://zh.wikipedia.org/wiki/14.5×114毫米 "wikilink")，與[二戰蘇聯的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[反坦克步槍](../Page/反坦克步槍.md "wikilink")彈藥相同。
 
 ## 簡介

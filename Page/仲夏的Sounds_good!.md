@@ -1,3 +1,6 @@
+> 本文内容由[仲夏的Sounds good!](https://zh.wikipedia.org/wiki/仲夏的Sounds_good!)转换而来。
+
+
 《**仲夏的Sounds good！**》（）是[AKB48](../Page/AKB48.md "wikilink")的第26張\[1\][單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年5月23日發行。
 
 ## 简介

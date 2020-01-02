@@ -1,3 +1,6 @@
+> 本文内容由[CLOVER \(漫畫\)](https://zh.wikipedia.org/wiki/CLOVER_\(漫畫\))转换而来。
+
+
 《**CLOVER**》（）是[CLAMP](../Page/CLAMP.md "wikilink")的漫畫作品。
 
 ## 內容

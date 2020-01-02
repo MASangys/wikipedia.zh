@@ -1,3 +1,6 @@
+> 本文内容由[Wink \(日本组合\)](https://zh.wikipedia.org/wiki/Wink_\(日本组合\))转换而来。
+
+
 **Wink**是由[鈴木早智子和](https://zh.wikipedia.org/wiki/鈴木早智子 "wikilink")[相田翔子](../Page/相田翔子.md "wikilink")組成的[日本](../Page/日本.md "wikilink")女子二人組合，活躍於1988年至1996年。
 
 ## 經歷

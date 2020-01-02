@@ -1,3 +1,6 @@
+> 本文内容由[PowerDesigner](https://zh.wikipedia.org/wiki/PowerDesigner)转换而来。
+
+
 **PowerDesigner**是[Sybase](../Page/Sybase.md "wikilink")的企业建模和设计解决方案，采用模型驱动方法，将业务与IT结合起来，可帮助部署有效的企业体系架构，并为研发生命周期管理提供强大的分析与设计技术\[1\]。PowerDesigner独具匠心地将多种标准数据建模技术（UML、业务流程建模以及市场领先的[数据建模](../Page/数据建模.md "wikilink")）集成一体，并与 .NET、WorkSpace、PowerBuilder、Java™、Eclipse 等主流开发平台集成起来，从而为传统的软件开发周期管理提供业务分析和规范的数据库设计解决方案。PowerDesigner运行在[Microsoft Windows平台上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，并提供了[Eclipse](../Page/Eclipse.md "wikilink")插件\[2\]。
 
 ## 特性

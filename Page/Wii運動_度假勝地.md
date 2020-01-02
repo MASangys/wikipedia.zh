@@ -1,3 +1,6 @@
+> 本文内容由[Wii運動 度假勝地](https://zh.wikipedia.org/wiki/Wii運動_度假勝地)转换而来。
+
+
 《**Wii運動 度假勝地**》（Wii Sports Resort），是[任天堂](../Page/任天堂.md "wikilink")繼[Wii Sports後推出的新運動遊戲](../Page/Wii_Sports.md "wikilink")，發行於[Wii](../Page/Wii.md "wikilink")平台，搭配新週邊[Wii動感強化器來做出更精準的動作感應](https://zh.wikipedia.org/wiki/Wii動感強化器 "wikilink")，遊戲內包括有[射箭](../Page/射箭.md "wikilink")、[快艇](https://zh.wikipedia.org/wiki/快艇 "wikilink")、[飛盤](../Page/飛盤.md "wikilink")、[劍道](../Page/劍道.md "wikilink")、[桌球](https://zh.wikipedia.org/wiki/桌球 "wikilink")、[水上摩托車](https://zh.wikipedia.org/wiki/水上摩托車 "wikilink")、[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")、[高爾夫球](../Page/高爾夫球.md "wikilink")等項目。遊戲內容大致上承繼著Wii Sports，但[棒球](../Page/棒球.md "wikilink")、[拳擊和](https://zh.wikipedia.org/wiki/拳擊 "wikilink")[網球這三種舊版遊戲在Wii](https://zh.wikipedia.org/wiki/網球 "wikilink") Sports Resort沒有出現。
 
 ## 遊戲場景

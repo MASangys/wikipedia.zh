@@ -1,3 +1,6 @@
+> 本文内容由[T·S·艾略特](https://zh.wikipedia.org/wiki/T·S·艾略特)转换而来。
+
+
 **托马斯·斯特恩斯·艾略特**，[OM](../Page/功績勳章_\(英國\).md "wikilink")（，），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[诗人](https://zh.wikipedia.org/wiki/诗人 "wikilink")、[评论家](https://zh.wikipedia.org/wiki/评论家 "wikilink")、[剧作家](../Page/剧作家.md "wikilink")，其作品对[二十世纪乃至今日的](https://zh.wikipedia.org/wiki/二十世纪 "wikilink")[文学史上影响极为深远](https://zh.wikipedia.org/wiki/文学史 "wikilink")。1948年，60岁的艾略特被授予他一生中最大的荣誉——[诺贝尔文学奖](../Page/诺贝尔文学奖.md "wikilink")。
 
 ## 生平

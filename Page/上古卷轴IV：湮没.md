@@ -1,3 +1,6 @@
+> 本文内容由[上古卷轴IV：湮没](https://zh.wikipedia.org/wiki/上古卷轴IV：湮没)转换而来。
+
+
 是一款[奇幻类](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[开放世界型](https://zh.wikipedia.org/wiki/开放世界 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。它由[贝塞斯达软件公司开发](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")、贝塞斯达和[2K Games联合发行于](../Page/2K_Games.md "wikilink")2006年，是[上古卷轴系列](../Page/上古卷轴系列.md "wikilink")的第四代作品。游戏有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 3等多个平台的版本](../Page/PlayStation_3.md "wikilink")。\[1\]游戏的资料片《上古卷轴IV：战栗孤岛》以及一系列升级包随之发布。游戏赢得了众多评论员的好评，获得许多奖项。\[2\]并在[Metacritic](../Page/Metacritic.md "wikilink")得到了94分的高分。\[3\]截至到2006年4月10日，《湮没》已销售出170万份，\[4\]2007年1月18日，销量超过300万份。\[5\]《上古卷轴IV：年度版》（含“战栗孤岛”和升级包“九骑士”）于2007年9月10日发布。\[6\]\[7\]
 
 ## 遊戲性

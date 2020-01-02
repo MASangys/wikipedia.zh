@@ -1,3 +1,6 @@
+> 本文内容由[Havok \(公司\)](https://zh.wikipedia.org/wiki/Havok_\(公司\))转换而来。
+
+
 **Havok**是間開發物理引擎的公司。于1998年成立，创始人为休·雷诺德（Hugh Reynolds）和斯蒂芬·科林斯博士（Dr. Steven Collins），两人都是[都柏林](../Page/都柏林.md "wikilink")[三一学院](../Page/三一学院.md "wikilink")大学计算机科学部门的教师。
 
 Havok與多間公司或者電子遊戲商合作，[Havok引擎](../Page/Havok引擎.md "wikilink")可以應用在超過150款[電子遊戲中](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。部分电影亦採用了Havok的物理的特效，例如[海神号](https://zh.wikipedia.org/wiki/海神号 "wikilink")、[黑客帝国](../Page/黑客帝国.md "wikilink")和[查理与巧克力工厂](https://zh.wikipedia.org/wiki/查理与巧克力工厂 "wikilink")。

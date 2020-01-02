@@ -1,3 +1,6 @@
+> 本文内容由[Apache许可证](https://zh.wikipedia.org/wiki/Apache许可证)转换而来。
+
+
 **Apache许可证**（），是一个由[Apache軟件基金會发布的](https://zh.wikipedia.org/wiki/Apache軟件基金會 "wikilink")[自由软件许可证](https://zh.wikipedia.org/wiki/自由软件许可证 "wikilink")，最初为Apache http服务器而撰写。Apache许可证要求被授权者保留[版权和放弃权利的聲明](https://zh.wikipedia.org/wiki/版权 "wikilink")，但它不是一个[反版权的许可证](https://zh.wikipedia.org/wiki/反版权 "wikilink")。
 
 此许可证最新版本为“版本2”，于2004年1月发布。

@@ -1,3 +1,6 @@
+> 本文内容由[Ultimania](https://zh.wikipedia.org/wiki/Ultimania)转换而来。
+
+
 **Ultimania**（）是由[Studio BentStuff编辑](https://zh.wikipedia.org/wiki/Studio_BentStuff "wikilink")、制作，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")（旧[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")）监修、发行的游戏[攻略本系列名称](https://zh.wikipedia.org/wiki/攻略本 "wikilink")。
 
 ## 概要

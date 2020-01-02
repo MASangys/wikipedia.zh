@@ -1,3 +1,6 @@
+> 本文内容由[DoubleClick](https://zh.wikipedia.org/wiki/DoubleClick)转换而来。
+
+
 **DoubleClick**是一家網路廣告服務商。它曾經是最大的網路廣告服務商，不過現在已經被[Google](../Page/Google.md "wikilink")的[AdSense和](../Page/Google_AdSense.md "wikilink")[Yahoo\!的](https://zh.wikipedia.org/wiki/Yahoo! "wikilink")[雅虎搜尋行銷](../Page/雅虎搜尋行銷.md "wikilink")(前稱Overture)取代。DoubleClick於2008年被[Google](../Page/Google.md "wikilink")購併，成為[Google](../Page/Google.md "wikilink")旗下的公司。
 
 ## 特色與批評

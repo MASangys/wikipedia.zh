@@ -1,3 +1,6 @@
+> 本文内容由[FreeBASIC](https://zh.wikipedia.org/wiki/FreeBASIC)转换而来。
+
+
 **FreeBASIC** 是一个 [BASIC](../Page/BASIC.md "wikilink") 语言的[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")\[1\]，可运行在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、保护模式的[DOS](../Page/DOS.md "wikilink")（[DOS扩展](https://zh.wikipedia.org/wiki/DOS扩展 "wikilink")）、[Linux](../Page/Linux.md "wikilink")以及[Xbox](../Page/Xbox.md "wikilink")上。
 
 FreeBASIC通过使用"QB"关键字可以在高级别上支持用[QBASIC](../Page/QBASIC.md "wikilink")编写的[程序](https://zh.wikipedia.org/wiki/程序 "wikilink")。许多用QBASIC写的程序可以在不需任何修改的情况下编译和运行在这个模式下。但是如果使用默认的参数来编译的话，大部分的程序还是要进行一些修改的。

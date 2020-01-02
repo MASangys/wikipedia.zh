@@ -1,3 +1,6 @@
+> 本文内容由[SIG P250手槍](https://zh.wikipedia.org/wiki/SIG_P250手槍)转换而来。
+
+
 **SIG P250**是[Swiss Arms生產的](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")[9×19毫米口徑緊湊型](https://zh.wikipedia.org/wiki/9×19mm鲁格弹 "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")。
 
 ## 設計

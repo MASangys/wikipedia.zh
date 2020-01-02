@@ -1,3 +1,6 @@
+> 本文内容由[CAROLS](https://zh.wikipedia.org/wiki/CAROLS)转换而来。
+
+
 《**CAROLS**》（頌歌）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")第34張單曲，2004年9月29日於日本發售，首周順利以十七萬的銷量登上[公信榜第一名](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。正值夏秋轉換之際發行的這張單曲，填詞卻以冬季的降雪、春天來臨時的溫暖的愛作為主題。同時使用的大量的弦樂在編曲當中。
 
 單曲除了CD以外，還發行了[DVD-Audio](../Page/DVD-Audio.md "wikilink")以及[SACD兩種格式](https://zh.wikipedia.org/wiki/SACD "wikilink")。

@@ -1,3 +1,6 @@
+> 本文内容由[SCANDAL \(日本音樂團體\)](https://zh.wikipedia.org/wiki/SCANDAL_\(日本音樂團體\))转换而来。
+
+
 \-{zh:**SCANDAL**（）;zh-tw:**史坎朵**（**SCANDAL**，）;zh-hk:**SCANDAL**（，台譯**史坎朵**）;zh-cn:**SCANDAL**（，台译**史坎朵**）;}-是一支[日本](../Page/日本.md "wikilink")女子[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，在2006年8月於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演。SCANDAL於正式出道前曾於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[香港](../Page/香港.md "wikilink")等日本海外地方演出。2008年3月她們跟[Kitty Records和](../Page/Kitty_film.md "wikilink")[Tower Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。2008年10月，SCANDAL以單曲《[DOLL](../Page/DOLL.md "wikilink")》正式出道。2009年，SCANDAL的一些歌曲被起用為動畫歌曲，例如《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《[鋼之鍊金術師 FULLMETAL ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》等等，令樂團人氣急速上升。2012年3月28日，SCANDAL成功在[日本武道館](../Page/日本武道館.md "wikilink")開辦個人演唱會，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團。2015年1月SCANDAL舉辦了 SCANDAL WORLD TOUR 2015「HELLO WORLD」世界巡回演唱會，除了日本多個地區公演外，亦去了美國，英國，德國，法國，墨西哥，新加坡，台灣和香港等地方巡迴演出。2016年是SCANDAL樂團組成的第十週年，在同年4月也開始舉辦了 SCANDAL TOUR 2016「YELLOW」世界巡回演唱會。
 
 此外樂團出道至今的八張原創專輯及三張精選專輯都打進[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")專輯周榜首五名，為該榜史上首隊女子樂團達成此紀錄。

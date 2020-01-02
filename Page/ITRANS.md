@@ -1,3 +1,6 @@
+> 本文内容由[ITRANS](https://zh.wikipedia.org/wiki/ITRANS)转换而来。
+
+
 **印度語言轉寫**（**I**ndian languages **TRANS**literation 簡寫為 **ITRANS**）是[印度文字](https://zh.wikipedia.org/wiki/婆羅米系文字 "wikilink")，特別但不限於[天城文](https://zh.wikipedia.org/wiki/天城文 "wikilink")（用於[印度語](https://zh.wikipedia.org/wiki/印度語 "wikilink")、[馬拉地語](https://zh.wikipedia.org/wiki/馬拉地語 "wikilink")、[梵語](https://zh.wikipedia.org/wiki/梵語 "wikilink")、[尼泊爾語](https://zh.wikipedia.org/wiki/尼泊爾語 "wikilink")、[信德語和其他語言](https://zh.wikipedia.org/wiki/信德語 "wikilink")）的 [ASCII](../Page/ASCII.md "wikilink") 碼[轉寫](https://zh.wikipedia.org/wiki/轉寫 "wikilink")。它由 Avinash Chopde 開發。最新版本 ITRANS 5.30 是2001年七月的發布。ITRANS 在這個版本已經穩定了。
 
 ITRANS 有時用來編碼印度的電子文本 - 它的範圍比 [Harvard-Kyoto](https://zh.wikipedia.org/wiki/Harvard-Kyoto "wikilink") 的天城體轉寫方案要廣闊，在很大程度上但非完全和它保持一致。隨著 [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") 的廣泛實現，傳統 [IAST](../Page/IAST.md "wikilink") 日益廣泛的用於了電子文本。

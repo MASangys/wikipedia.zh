@@ -1,3 +1,6 @@
+> 本文内容由[OSCA](https://zh.wikipedia.org/wiki/OSCA)转换而来。
+
+
 《**OSCA**》（，*O.S.C.A.*）是日本樂團[東京事變](../Page/東京事變.md "wikilink")的第四張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[EMI Music Japan](https://zh.wikipedia.org/wiki/EMI音樂_\(日本\) "wikilink")／[Virgin Music於](../Page/維京唱片.md "wikilink")2007年7月11日發行\[1\]。初回限定為「特殊剪裁印刷仕樣、《[東京事變 live tour 2007 Spa & Treatment](https://zh.wikipedia.org/wiki/Spa_&_Treatment#演唱會簡介 "wikilink")》 門票抽選」。
 
 在單曲銷售成績方面，本張單曲在日本Oricon銷售榜上最高位居單週第2名\[2\]，名列2007年年度銷售榜第137位\[3\]。

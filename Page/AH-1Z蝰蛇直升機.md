@@ -1,3 +1,6 @@
+> 本文内容由[AH-1Z蝰蛇直升機](https://zh.wikipedia.org/wiki/AH-1Z蝰蛇直升機)转换而来。
+
+
 [USMC-111125-M-OO345-003.jpg](https://zh.wikipedia.org/wiki/File:USMC-111125-M-OO345-003.jpg "fig:USMC-111125-M-OO345-003.jpg")
 
 **AH-1Z「蝰蛇」**（）是美國海軍陸戰隊委託以貝爾直升機公司就AH-1W超級眼鏡蛇直升機架構的升級計畫，也是休伊直升機族系最新成員，美軍又稱它為**祖魯眼鏡蛇**，這個暱稱取源自[北約音標字母](https://zh.wikipedia.org/wiki/北約音標字母 "wikilink")。

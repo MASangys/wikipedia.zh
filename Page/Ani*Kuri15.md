@@ -1,3 +1,6 @@
+> 本文内容由[Ani\*Kuri15](https://zh.wikipedia.org/wiki/Ani\*Kuri15)转换而来。
+
+
 **Ani\*Kuri15**（）是在[NHK电视台播放的系列短篇动画](https://zh.wikipedia.org/wiki/NHK电视台 "wikilink")。
 
 ## 概要

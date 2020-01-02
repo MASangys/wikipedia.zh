@@ -1,3 +1,6 @@
+> 本文内容由[Bungie](https://zh.wikipedia.org/wiki/Bungie)转换而来。
+
+
 **Bungie**是[美國著名的](https://zh.wikipedia.org/wiki/美國 "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")软件制作商，是由兩名[芝加哥大學的](https://zh.wikipedia.org/wiki/芝加哥大學 "wikilink")[大學生Alex](https://zh.wikipedia.org/wiki/大學生 "wikilink") Seropian和Jason Jones于1991年5月以**Bungie Software Products Corporation**的名稱成立。公司最初設立在芝加哥，在成立的最初九年里，公司主要致力于[Macintosh平臺游戏的開發](https://zh.wikipedia.org/wiki/Macintosh "wikilink")，他們開發了深受玩家喜愛的《》和《[殺無赦](https://zh.wikipedia.org/wiki/殺無赦：墮落之神 "wikilink")》系列以及《》。
 
 ## 歷史

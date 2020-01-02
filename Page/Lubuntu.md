@@ -1,3 +1,6 @@
+> 本文内容由[Lubuntu](https://zh.wikipedia.org/wiki/Lubuntu)转换而来。
+
+
 **Lubuntu**（發音：）是[Ubuntu Linux桌面系統計劃的一个分支](../Page/Ubuntu.md "wikilink")，其預設[桌面環境為](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")[LXDE](../Page/LXDE.md "wikilink")，特別適用於配備老舊的電腦。和[Xubuntu](../Page/Xubuntu.md "wikilink")、[Ubuntu Lite一樣](https://zh.wikipedia.org/wiki/Ubuntu_Lite "wikilink")，都是屬於追求輕巧的Ubuntu分支。其特色除了輕巧快速外，並提供極低的套件相依性，將因為套件相依造成的操作問題減到最低。
 
 ## 版本

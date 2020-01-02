@@ -1,3 +1,6 @@
+> 本文内容由[GLAY](https://zh.wikipedia.org/wiki/GLAY)转换而来。
+
+
 **GLAY**（中文譯名：**灰色**），[日本](../Page/日本.md "wikilink")著名的4人組搖滾樂團。於1988年組成，1993年底被[X JAPAN團長](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[YOSHIKI發掘](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，簽下他們並為其統籌出道計畫\[1\]。自1994年正式出道後創作出大量受歡迎的[流行歌曲](https://zh.wikipedia.org/wiki/Pop音樂 "wikilink")，並對1990年代日本[搖滾音樂有所影響](https://zh.wikipedia.org/wiki/搖滾音樂 "wikilink")。
 
 出道至今締造出8張百萬單曲：[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")、[HOWEVER](../Page/HOWEVER.md "wikilink")、[誘惑](../Page/誘惑_\(GLAY單曲\).md "wikilink")、[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")、[BE WITH YOU](../Page/BE_WITH_YOU.md "wikilink")、[Winter,again](../Page/Winter,again.md "wikilink")、[不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink")、[迷惑/SPECIAL THANKS](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")（[日本唱片業協會紀錄認定](https://zh.wikipedia.org/wiki/日本唱片業協會 "wikilink")），5張百萬專輯：[BELOVED](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")、[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")、[pure soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")、[HEAVY GAUGE](https://zh.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\) "wikilink")、[DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")。在日本唱片史上榮獲最多百萬單曲的紀錄中，GLAY位居第4名（[ORICON紀錄認定](https://zh.wikipedia.org/wiki/ORICON "wikilink")，不包含『口唇』、『不是這裡，要往哪裡』）。

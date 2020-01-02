@@ -1,3 +1,6 @@
+> 本文内容由[RealVideo](https://zh.wikipedia.org/wiki/RealVideo)转换而来。
+
+
 **RealVideo**是由[RealNetworks](../Page/RealNetworks.md "wikilink")於1997年所開發的一种专用视频压缩格式 —— 具体格式随版本而变化，截止到2018年RealVideo的最新版本为RV60。它从开发伊始就被定位为应用于网络视频播放的格式（即[串流媒体](https://zh.wikipedia.org/wiki/串流媒体 "wikilink")）。RealVideo支援各種播放平台，包含[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")以及某些[移动电话](../Page/移动电话.md "wikilink")。相較於其他的视频编解码器，**RealVideo**通常可以將视频資料壓縮得更小，因此它可以在用[56Kbps MODEM拨号上网的条件实现不间断的视频播放](https://zh.wikipedia.org/wiki/數據機 "wikilink")。
 
 ## 扩展名

@@ -1,3 +1,6 @@
+> 本文内容由[GN-006 智天使GUNDAM](https://zh.wikipedia.org/wiki/GN-006_智天使GUNDAM)转换而来。
+
+
 | **智天使GUNDAM**                                                                                            |
 | -------------------------------------------------------------------------------------------------------- |
 | [GN-006 智天使GUNDAM](https://zh.wikipedia.org/wiki/File:GN-006_Cherudim_Gundam.jpg "fig:GN-006 智天使GUNDAM") |

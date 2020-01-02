@@ -1,3 +1,6 @@
+> 本文内容由[Valgrind](https://zh.wikipedia.org/wiki/Valgrind)转换而来。
+
+
 {{ infobox software | logo = Valgrind logo.png | logo size = 300px | developer = [Valgrind開發者](http://valgrind.org/info/developers.html) | latest_release_version = 3.15.0 | latest_release_date = \[1\] | operating_system = [类Unix系统](../Page/类Unix系统.md "wikilink") | genre = [性能分析](../Page/性能分析.md "wikilink")器、[内存调试器](https://zh.wikipedia.org/wiki/内存调试器 "wikilink") | license = [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink") | website =  }}
 
 **Valgrind**是一款用于内存调试、[内存泄漏](../Page/内存泄漏.md "wikilink")检测以及[性能分析](../Page/性能分析.md "wikilink")的[软件开发工具](https://zh.wikipedia.org/wiki/软件开发工具 "wikilink")。Valgrind这个名字取自[北欧神话](../Page/北欧神话.md "wikilink")中[英灵殿的入口](https://zh.wikipedia.org/wiki/英灵殿 "wikilink")。\[2\]

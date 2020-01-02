@@ -1,3 +1,6 @@
+> 本文内容由[HJ文庫](https://zh.wikipedia.org/wiki/HJ文庫)转换而来。
+
+
 **HJ文庫**是Hobby Japan在2006年7月1日創刊的[輕小說](../Page/輕小說.md "wikilink")文庫。台灣由[東立出版社](../Page/東立出版社.md "wikilink")代理。
 
 ## 簡介

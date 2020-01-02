@@ -1,3 +1,6 @@
+> 本文内容由[HP TouchSmart](https://zh.wikipedia.org/wiki/HP_TouchSmart)转换而来。
+
+
 **HP TouchSmart**系列由[惠普公司設計](https://zh.wikipedia.org/wiki/惠普公司 "wikilink")[一體化電腦及](https://zh.wikipedia.org/wiki/一體化電腦 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink"),當中的電腦都包括帶來[多點觸控](../Page/多點觸控.md "wikilink")功能的屏幕。它使用[AMD或](../Page/AMD處理器列表.md "wikilink")[英特爾的處理器並運行](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")[Windows Vista或](../Page/Windows_Vista.md "wikilink")[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。
 
 ## HP Touchsmart Crossfire

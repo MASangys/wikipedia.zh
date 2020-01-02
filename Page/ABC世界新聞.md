@@ -1,3 +1,6 @@
+> 本文内容由[ABC世界新聞](https://zh.wikipedia.org/wiki/ABC世界新聞)转换而来。
+
+
 《**ABC世界新聞**》（ABC World News Tonight）是[美國全國](https://zh.wikipedia.org/wiki/美國 "wikilink")[電視聯播網](../Page/電視聯播網.md "wikilink")之一[美國廣播公司](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")（ABC）的旗艦新聞節目。現時其週一至週五主播為[大衛·繆爾](../Page/大衛·繆爾.md "wikilink")（David Muir），週六主播是塞西莉亞·維加（Cecilia Vega），週日主播則是湯姆·拉馬斯（Tom Llamas）。
 
 節目連同廣告時段全長三十分鐘。值得留意的是，節目的播出時間因地區而異；ABC的某些地區聯播分台安排於傍晚5:30播放本節目，而其他分台則分別於傍晚6:00及6:30播放本節目。其競爭對手《[CBS晚間新聞](../Page/CBS晚間新聞.md "wikilink")》及《[NBC晚間新聞](https://zh.wikipedia.org/wiki/NBC晚間新聞 "wikilink")》亦採用類似安排。

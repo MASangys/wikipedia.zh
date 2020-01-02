@@ -1,3 +1,6 @@
+> 本文内容由[Khara](https://zh.wikipedia.org/wiki/Khara)转换而来。
+
+
 **株式会社khara**（，，中文名：凯乐）是一家以[動畫的開發和制作為主要經營項目的](../Page/动画.md "wikilink")[日本](../Page/日本.md "wikilink")企業。
 
 ## 概要

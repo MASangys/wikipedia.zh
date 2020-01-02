@@ -1,3 +1,6 @@
+> 本文内容由[ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION)转换而来。
+
+
 **ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION**是[ASIAN KUNG-FU GENERATION主辦的搖滾音樂祭](https://zh.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")「NANO-MUGEN FES.2005」中演出的所有藝人的合輯。在2005年6月8日由開始發售。歌曲的順序則以英文字母來排列。
 
 ## 收錄曲

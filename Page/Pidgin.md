@@ -1,3 +1,6 @@
+> 本文内容由[Pidgin](https://zh.wikipedia.org/wiki/Pidgin)转换而来。
+
+
 **Pidgin**（前稱**Gaim**）是一個[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[即時通訊](../Page/即時通訊.md "wikilink")[用戶端](https://zh.wikipedia.org/wiki/用戶端 "wikilink")，使用[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")。這款軟體支援多個現時常用的即時通訊協定，讓使用者可以用同一個軟體登入不同的即時通訊服務。
 
 截至2007年，Pidgin約有三百萬名使用者\[1\]。

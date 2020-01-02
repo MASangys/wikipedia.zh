@@ -1,3 +1,6 @@
+> 本文内容由[Stephanie \(日本女藝人\)](https://zh.wikipedia.org/wiki/Stephanie_\(日本女藝人\))转换而来。
+
+
 **斯蒂芬妮·野野下·托帕里恩**（，，），藝名為**Stephanie**（），[日本](../Page/日本.md "wikilink")女歌手，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州出生](https://zh.wikipedia.org/wiki/加州 "wikilink")，[美日](https://zh.wikipedia.org/wiki/美國 "wikilink")[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")，現居[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")。
 
 ## 人物

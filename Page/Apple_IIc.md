@@ -1,3 +1,6 @@
+> 本文内容由[Apple IIc](https://zh.wikipedia.org/wiki/Apple_IIc)转换而来。
+
+
 **蘋果IIc**是[蘋果II系列上的第四款机型](https://zh.wikipedia.org/wiki/蘋果II "wikilink")，也是[苹果公司首次试图生产](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[可携式电脑](https://zh.wikipedia.org/wiki/可携式电脑 "wikilink")。最后开发出的是7½磅重的可携式Apple II。名字中的*c*代表*compact*(紧密的)，表示其实际上是一套压缩在笔电大小的完整Apple II电脑(省去屏幕及电源供应器)。它提供了内置软驱及新设计的机后扩充槽，但缺乏内部扩充槽及直接更改主板的功能，使其成为像是[麦金塔的闭锁系统](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")。不过这正是该机型的设计理念之一：—如同电器用品一般，拆箱即可使用、不需要经验及技术知识，因此对第一次使用的用户有吸引力。
 
 ## 历史

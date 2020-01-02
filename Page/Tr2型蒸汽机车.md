@@ -1,3 +1,6 @@
+> 本文内容由[Tr2型蒸汽机车](https://zh.wikipedia.org/wiki/Tr2型蒸汽机车)转换而来。
+
+
 TR2型蒸汽机车是[二战结束后由](https://zh.wikipedia.org/wiki/二战 "wikilink")[美国](../Page/美国.md "wikilink")提供给芬兰的一款[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")\[1\]。战争结束后芬兰由于战争赔款和国内原料短缺，无法制造机车，所以机车不得不从国外获得。美国向芬兰提供了20台机车的零件，然后组装于VR赫尔辛基车间。杜鲁门机车昵称指的是当时的美国总统[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")总统。
 
 ## 车辆保存

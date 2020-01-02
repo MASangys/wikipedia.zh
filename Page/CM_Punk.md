@@ -1,3 +1,6 @@
+> 本文内容由[CM Punk](https://zh.wikipedia.org/wiki/CM_Punk)转换而来。
+
+
 [CM_Punk_WHC_SummerSlam_2008.jpg](https://zh.wikipedia.org/wiki/File:CM_Punk_WHC_SummerSlam_2008.jpg "fig:CM_Punk_WHC_SummerSlam_2008.jpg")
 
 **CM Punk**\[1\]，本名**菲利普·傑克·布魯克斯**（）\[2\]，是前美國[職業摔角](../Page/職業摔角.md "wikilink")手，現為[綜合格鬥選手](https://zh.wikipedia.org/wiki/綜合格鬥 "wikilink")，曾效力於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE），現效力於[終極格鬥錦標賽](https://zh.wikipedia.org/wiki/終極格鬥錦標賽 "wikilink")（UFC）。
