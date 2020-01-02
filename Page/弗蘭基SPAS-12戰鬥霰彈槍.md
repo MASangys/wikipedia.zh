@@ -1,3 +1,6 @@
+> 本文内容由[弗蘭基SPAS-12戰鬥霰彈槍](https://zh.wikipedia.org/wiki/弗蘭基SPAS-12戰鬥霰彈槍)转换而来。
+
+
 **SPAS-12**（，意為「特殊用途自動型霰彈槍」）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[路易吉·弗蘭基在](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")1979年至2000年期間所設計和生產的[戰鬥](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 SPAS-12是一款雙模式操作的霰彈槍，這是因為它同時具有半自動和泵動兩種發射模式。與競爭對手的設計相比以下，雖然其槍身較沉重和控制方式複雜，但是SPAS-12亦曾經一段短時間賣給了在世界各地的[军队和](https://zh.wikipedia.org/wiki/军队 "wikilink")[執法機關用戶](../Page/警察.md "wikilink")，\[1\]在民用市場上發售，並且同時在很多多個著名的[电影](../Page/电影.md "wikilink")（尤其是[動作電影](../Page/動作片.md "wikilink")、[荷里活電影](https://zh.wikipedia.org/wiki/美國電影 "wikilink")）、[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")、[电脑游戏](../Page/电脑游戏.md "wikilink")和[动画](../Page/动画.md "wikilink")當中登場，主要的原因是其令人畏懼的外觀。

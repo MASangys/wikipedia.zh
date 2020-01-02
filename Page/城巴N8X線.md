@@ -1,3 +1,6 @@
+> 本文内容由[城巴N8X線](https://zh.wikipedia.org/wiki/城巴N8X線)转换而来。
+
+
 **[城巴](../Page/城巴.md "wikilink")N8X線**是[香港](../Page/香港.md "wikilink")的一條非過海的通宵巴士線，來往[小西灣](../Page/小西灣.md "wikilink")（[藍灣半島](../Page/藍灣半島.md "wikilink")）及[堅尼地城](../Page/堅尼地城.md "wikilink")，屬[8X之特別班次](https://zh.wikipedia.org/wiki/城巴8X線 "wikilink")，駛經[港鐵](../Page/港鐵.md "wikilink")[港島綫](../Page/港島綫.md "wikilink")沿線大部分的服務範圍（惟不包括[杏花邨](../Page/杏花邨.md "wikilink")），可謂是[港鐵](../Page/港鐵.md "wikilink")[港島線的通宵版本](https://zh.wikipedia.org/wiki/港島線 "wikilink")。
 
 雖然本線以X字結尾，不過卻沒有行經任何[快速公路](https://zh.wikipedia.org/wiki/快速公路 "wikilink")，實際上不是一條特快線，城巴使用本編號的原因，是為要與同日投入服務的[中華巴士首條通宵線](https://zh.wikipedia.org/wiki/中華巴士 "wikilink")[N8線](../Page/新巴N8線.md "wikilink")（現由[新巴營運](https://zh.wikipedia.org/wiki/新巴 "wikilink")）區別\[1\]。

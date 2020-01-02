@@ -1,3 +1,6 @@
+> 本文内容由[成功大學MP3事件](https://zh.wikipedia.org/wiki/成功大學MP3事件)转换而来。
+
+
 **成功大學MP3事件**，簡稱**成大MP3事件**，是2001年發生的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[著作權](../Page/著作權.md "wikilink")與[基本人權侵害爭議事件](https://zh.wikipedia.org/wiki/基本人權 "wikilink")。
 
 ## 始末

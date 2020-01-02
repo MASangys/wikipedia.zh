@@ -1,3 +1,6 @@
+> 本文内容由[安德鲁·W·梅隆](https://zh.wikipedia.org/wiki/安德鲁·W·梅隆)转换而来。
+
+
 [Andrew_mellon_stamp.JPG](https://zh.wikipedia.org/wiki/File:Andrew_mellon_stamp.JPG "fig:Andrew_mellon_stamp.JPG") **安德鲁·威廉·梅隆**（**Andrew William Mellon**，），[美国](../Page/美国.md "wikilink")银行家、工业家、慈善家、艺术品收藏家、政治家，[美国共和党成员](https://zh.wikipedia.org/wiki/美国共和党 "wikilink")，曾任[美国财政部长](../Page/美国财政部长.md "wikilink")（1921年-1932年）和[美国驻英国大使](https://zh.wikipedia.org/wiki/美国驻英国大使 "wikilink")（1932年-1933年）。
 
 梅隆是唯一一位历经三任总统（[沃伦·G·哈定](https://zh.wikipedia.org/wiki/沃伦·G·哈定 "wikilink")、[卡尔文·柯立芝](../Page/卡尔文·柯立芝.md "wikilink")和[赫伯特·胡佛](../Page/赫伯特·胡佛.md "wikilink")）的财政部长。

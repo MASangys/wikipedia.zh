@@ -1,3 +1,6 @@
+> 本文内容由[各地LGBT權利](https://zh.wikipedia.org/wiki/各地LGBT權利)转换而来。
+
+
 世界各國**女同性戀者、男同性戀者、雙性戀者與跨性別者**（[LGBT](../Page/LGBT.md "wikilink")）的[法律](../Page/法律.md "wikilink")處境，光譜廣泛而差異極大。部分國家承認[同性婚姻或其他形式的](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")[同性結合](https://zh.wikipedia.org/wiki/同性結合 "wikilink")，視LGBT為人類群體多樣性的一部分；亦有國家視[同性性行為或](../Page/同性戀.md "wikilink")[性別認同](../Page/性別認同.md "wikilink")為非法行為，以[監禁甚至](https://zh.wikipedia.org/wiki/監禁 "wikilink")[死刑](../Page/死刑.md "wikilink")等刑罰對該群體加以[迫害](https://zh.wikipedia.org/wiki/迫害 "wikilink")。
 
 ## 歷史

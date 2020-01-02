@@ -1,3 +1,6 @@
+> 本文内容由[松下Lumix DMC-FZ30](https://zh.wikipedia.org/wiki/松下Lumix_DMC-FZ30)转换而来。
+
+
 **Panasonic Lumix DMC-FZ30** 是[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")[Lumix系列的一款准专业长焦](https://zh.wikipedia.org/wiki/Lumix "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于2005年7月发布。它是前作[Panasonic Lumix DMC-FZ20的后续产品](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ20 "wikilink")，相对FZ20，FZ30将CCD从1/2.5 '加大到1/1.8 '，像素也提升至800万级别。FZ30的后续作品是[Panasonic Lumix DMC-FZ50](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ50 "wikilink")。
 
 广受好评的12倍光学变焦（等效35mm相机焦距为35mm ～ 420mm）保留在FZ30上，依旧有着Leica标志，但是少了FZ20上的恒定F2.8镜头——在长焦端的420mm，最大光圈为F3.7。依旧配备松下自己的O.I.S.防抖系统，使用锂离子电池和SD卡存储，2英寸的可翻转LCD相对之前嵌入式的LCD，更方便取景。

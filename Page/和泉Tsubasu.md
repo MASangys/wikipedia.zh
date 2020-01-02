@@ -1,3 +1,6 @@
+> 本文内容由[和泉Tsubasu](https://zh.wikipedia.org/wiki/和泉Tsubasu)转换而来。
+
+
 ****（）是[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。主要擔當[十八禁](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")[美少女遊戲](../Page/美少女遊戲.md "wikilink")的[原畫和](https://zh.wikipedia.org/wiki/原畫 "wikilink")[人物設計](../Page/人物設計.md "wikilink")等工作。[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，現在住在[愛知縣](../Page/愛知縣.md "wikilink")。
 
 ## 作品列表

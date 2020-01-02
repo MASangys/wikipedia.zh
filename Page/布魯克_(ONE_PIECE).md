@@ -1,3 +1,6 @@
+> 本文内容由[布魯克 \(ONE PIECE\)](https://zh.wikipedia.org/wiki/布魯克_\(ONE_PIECE\))转换而来。
+
+
 **布魯克**（）是日本漫畫家[尾田榮一郎所創作的](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》中的虛構角色，是該作品的中的一位主要角色。是主角[魯夫的第](https://zh.wikipedia.org/wiki/魯夫 "wikilink")8位夥伴，[草帽海賊團的](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")[音樂家](https://zh.wikipedia.org/wiki/音樂家 "wikilink")。他的外表是一具爆炸頭骷髏，同時是一名劍擊高手。夢想是繞世界一圈後回到顛倒山雙子峽跟拉布重逢。
 
 ## 設計

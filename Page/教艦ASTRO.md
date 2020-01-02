@@ -1,3 +1,6 @@
+> 本文内容由[教艦ASTRO](https://zh.wikipedia.org/wiki/教艦ASTRO)转换而来。
+
+
 **《教艦ASTRO》**是在「[Manga Time Kirara Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")」連載的[四格漫畫](../Page/四格漫畫.md "wikilink")，作者為蕃納蔥。中文版由[台灣東販](../Page/台灣東販.md "wikilink")出版。
 
 在Manga Time Kirara Carat vol.10和vol.11以單話完結的形式連載，而從2005年11月號開始在相同月刊開始連載。單話完結作品收錄在單行本的第一話和第二話。

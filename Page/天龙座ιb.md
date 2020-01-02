@@ -1,3 +1,6 @@
+> 本文内容由[天龙座ιb](https://zh.wikipedia.org/wiki/天龙座ιb)转换而来。
+
+
 **天龙座ι星b**是一颗位于[天龙座](../Page/天龙座.md "wikilink")、距离地球约102.7光年的系外行星，其母星为K型[巨星](../Page/巨星.md "wikilink")[天龙座ι](https://zh.wikipedia.org/wiki/天龙座ι "wikilink")。该行星是在2002年进行的一项对K型巨星的研究中发现的，它是被发现的首颗环绕巨星运转的行星。该行星的轨道离心率较高，这在巨星普遍具有[角频率的情况下](https://zh.wikipedia.org/wiki/角频率 "wikilink")（这种情况往往会干扰对行星的观测）有助于科学家发现该行星。\[1\]
 
 ## 参见

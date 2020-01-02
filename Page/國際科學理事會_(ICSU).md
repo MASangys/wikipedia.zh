@@ -1,3 +1,6 @@
+> 本文内容由[國際科學理事會 \(ICSU\)](https://zh.wikipedia.org/wiki/國際科學理事會_\(ICSU\))转换而来。
+
+
 **國際科學理事會**（），簡稱**國際科聯**（），舊稱**國際科學聯合會理事會**（**I**nternational **C**ouncil of **S**cientific **U**nions），是世界上最大的[非政府組織及](https://zh.wikipedia.org/wiki/非政府組織 "wikilink")[國際學術組織之一](https://zh.wikipedia.org/wiki/國際學術組織 "wikilink")。
 
 [国际科学理事会 (International Council for Science, ICSU）和](../Page/國際科學理事會_\(ICSU\).md "wikilink")[国际社会科学理事会 Social Science Council，ISSC）于](../Page/国际社会科学理事会.md "wikilink")（International2018年合并为[國際科學理事會（International Science Council,ISC）](../Page/國際科學理事會_\(ISC\).md "wikilink")。\[1\]\[2\]\[3\]

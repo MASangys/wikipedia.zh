@@ -1,3 +1,6 @@
+> 本文内容由[巴雷特REC7突擊步槍](https://zh.wikipedia.org/wiki/巴雷特REC7突擊步槍)转换而来。
+
+
 **REC7**是一款[AR-15的升级设计](../Page/AR-15自動步槍.md "wikilink")，由[巴雷特生产](https://zh.wikipedia.org/wiki/巴雷特 "wikilink")。其軍用型為M468，意指本枪为200**4**年研发，采用**6**.**8**mm口径。
 
 ## 概览

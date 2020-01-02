@@ -1,3 +1,6 @@
+> 本文内容由[新傳媒U頻道](https://zh.wikipedia.org/wiki/新傳媒U頻道)转换而来。
+
+
 **新傳媒U頻道**（）是新加坡第二個華語電視頻道，原為[新加坡報業控股旗下的](https://zh.wikipedia.org/wiki/新加坡報業控股 "wikilink")[報業傳訊成員](https://zh.wikipedia.org/wiki/新加坡報業控股傳訊 "wikilink")，於2005年1月1日早上10時整开台，正式成為[新傳媒私人有限公司旗下頻道](https://zh.wikipedia.org/wiki/新傳媒私人有限公司 "wikilink")。
 
 每日播映时间：星期一至星期五[新加坡標準時間](../Page/新加坡標準時間.md "wikilink")下午15:00至翌日凌晨02:30及星期六至星期日新加坡標準時間早上10:00至翌日凌晨02:30。

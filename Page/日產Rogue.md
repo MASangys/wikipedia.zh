@@ -1,3 +1,6 @@
+> 本文内容由[日產Rogue](https://zh.wikipedia.org/wiki/日產Rogue)转换而来。
+
+
 **日產Rogue**是[日產汽車](../Page/日產汽車.md "wikilink")於2007年10月發表\[1\]，2008年上市的小型跨界[SUV車款](https://zh.wikipedia.org/wiki/運動型多用途車 "wikilink")，Nissan Rogue與僅在北美（包括[墨西哥](../Page/墨西哥.md "wikilink")）銷售的X-trail相近，像是過去[歐洲銷售的Nissan](https://zh.wikipedia.org/wiki/歐洲 "wikilink") Qashqai，在日本與[澳洲銷售的名稱為Nissan](https://zh.wikipedia.org/wiki/澳洲 "wikilink") Dualis。
 
 Nissan Rogue於2007年1月7日的[底特律車展](../Page/底特律車展.md "wikilink")亮相，它將取代加拿大銷售的X-trail，成為入門級的SUV，且X-trail的新版平台也會與Rogue相容，這計畫已對歐洲等地區發表，但並無計畫在北美執行。

@@ -1,3 +1,6 @@
+> 本文内容由[无双大蛇Z](https://zh.wikipedia.org/wiki/无双大蛇Z)转换而来。
+
+
 《**无双大蛇Z**》（）是[光荣旗下](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")[ω-force开发的](https://zh.wikipedia.org/wiki/ω-force "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")，於2009年3月12日登陆[索尼](../Page/索尼.md "wikilink")[PlayStation 3](../Page/PlayStation_3.md "wikilink")\[1\]，并于2009年11月27日推出[Windows版](https://zh.wikipedia.org/wiki/Windows "wikilink")\[2\]。
 
 《无双大蛇Z》是[真·三国无双系列和](https://zh.wikipedia.org/wiki/真·三国无双系列 "wikilink")[战国无双系列的融合作品](https://zh.wikipedia.org/wiki/战国无双系列 "wikilink")——[无双大蛇系列的第三作](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")，将《[无双大蛇](https://zh.wikipedia.org/wiki/无双大蛇 "wikilink")》和《[无双大蛇：魔王再临](https://zh.wikipedia.org/wiki/无双大蛇：魔王再临 "wikilink")》的所有内容合并移植到最新的游戏及平台上，并添加了新的角色和关卡。得益於次世代游戏机的强大机能，该游戏在當時为无双系列中同屏幕人数最多的一款\[3\]。

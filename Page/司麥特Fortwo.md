@@ -1,3 +1,6 @@
+> 本文内容由[司麥特Fortwo](https://zh.wikipedia.org/wiki/司麥特Fortwo)转换而来。
+
+
 **司麥特Fortwo**是[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[司麥特公司](https://zh.wikipedia.org/wiki/司麥特 "wikilink")（[戴姆勒](../Page/戴姆勒.md "wikilink")公司子公司）出品的[極小型車型號](https://zh.wikipedia.org/wiki/極小型車 "wikilink")，只有2人[座位](https://zh.wikipedia.org/wiki/座位 "wikilink")，後置引擎後輪驅動，可選用電子控制自動手排變速器，車身特別短，一個標準[泊車車位可以停泊三部Smart](https://zh.wikipedia.org/wiki/泊車 "wikilink") Fortwo的。第二代司麥特Fortwo還有全球最小的市售汽車用[柴油引擎](../Page/柴油引擎.md "wikilink")可選，直列三氣缸渦輪增壓，排氣量799cc，54匹[馬力](../Page/馬力.md "wikilink")，英國政府測試市區與高速平均每加侖跑83.1英哩〈每公升跑35.33公里〉，省油性十分優良。
 
 ## 圖集

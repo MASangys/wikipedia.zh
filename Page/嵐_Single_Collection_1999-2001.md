@@ -1,3 +1,6 @@
+> 本文内容由[嵐 Single Collection 1999-2001](https://zh.wikipedia.org/wiki/嵐_Single_Collection_1999-2001)转换而来。
+
+
 《**嵐 Single Collection 1999-2001**》是[嵐](../Page/嵐.md "wikilink")的第2枚專輯，第1枚精選專輯。於2002年5月16日發行。唱片公司為[J Storm](../Page/J_Storm.md "wikilink")。
 
 ## 解說

@@ -1,3 +1,6 @@
+> 本文内容由[指环王Online：莫里亚矿坑](https://zh.wikipedia.org/wiki/指环王Online：莫里亚矿坑)转换而来。
+
+
 **指环王Online：莫里亚矿坑**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：The Lord of the Rings Online: Mines of Moria）是[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")[指环王Online：安格玛之影](../Page/指环王Online：安格玛之影.md "wikilink")第一个零售[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，于2008年11月18日发布。2008年3月14日，该游戏于[Codemasters Online Connect 2008](http://www.codemasters.co.uk/connect/information.php)公布。
 
 游戏故事设定于[莫里亚](https://zh.wikipedia.org/wiki/莫里亚 "wikilink")，它位于[中土大陆西北巨大而复杂的地下](https://zh.wikipedia.org/wiki/中土大陆 "wikilink")。资料片还增加了[罗斯洛立安和](https://zh.wikipedia.org/wiki/罗斯洛立安 "wikilink")[伊瑞詹](../Page/伊瑞詹.md "wikilink")地区。游戏人物的等级也提升至60级。资料片（亦称“第二部 ”）的故事主线由六卷扩展，并新增符文师和守望者两个职业。其他新的特点还包括[人工智能](../Page/人工智能.md "wikilink")环境、动态光影及新的[武器](../Page/武器.md "wikilink")增强系统。

@@ -1,3 +1,6 @@
+> 本文内容由[星空的Spica](https://zh.wikipedia.org/wiki/星空的Spica)转换而来。
+
+
 《**星空的Spica**》（）是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[田村由香里](../Page/田村由香里.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，由[KING RECORDS於](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")2007年5月9日發行，商品編號為KICM-1210。
 
 ## 概要

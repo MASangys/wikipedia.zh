@@ -1,3 +1,6 @@
+> 本文内容由[斯泰爾AUG突擊步槍](https://zh.wikipedia.org/wiki/斯泰爾AUG突擊步槍)转换而来。
+
+
 **Steyr AUG**是1977年[奧地利公司](https://zh.wikipedia.org/wiki/奧地利 "wikilink")推出的軍用自動步槍，是史上首次正式装備採用[犢牛式設計的軍用步槍](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")。「AUG」是德文「Armee-Universal-Gewehr」的縮寫，意即「陸軍通用步槍」\[1\]。[1978年](../Page/1978年.md "wikilink")，[奧地利聯邦軍](../Page/奧地利聯邦軍.md "wikilink")引入並採用，1978年，[奧地利聯邦軍](../Page/奧地利聯邦軍.md "wikilink")重新命名為StG 77，後來被[世界](../Page/世界.md "wikilink")各地的多個[軍事](../Page/軍事.md "wikilink")[機構採用](https://zh.wikipedia.org/wiki/機構 "wikilink")。
 
 ## 設計

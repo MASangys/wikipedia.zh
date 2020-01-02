@@ -1,3 +1,6 @@
+> 本文内容由[星际旅行VI：未来之城](https://zh.wikipedia.org/wiki/星际旅行VI：未来之城)转换而来。
+
+
 是[派拉蒙电影公司在](https://zh.wikipedia.org/wiki/派拉蒙电影公司 "wikilink")[1991年出品的一部](https://zh.wikipedia.org/wiki/1991年电影 "wikilink")[科幻电影](../Page/科幻电影.md "wikilink")，是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》科幻系列的第六部电影，亦是1960年代《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行：初代 "wikilink")》电视剧全体核心演员参演的最后一部星旅电影。这部电影由[尼古拉斯·迈耶](../Page/尼古拉斯·迈耶.md "wikilink")导演，并由迈耶与丹尼·马丁·弗林写作剧本。在电影中，[联邦与](https://zh.wikipedia.org/wiki/星际联邦 "wikilink")[克林贡](../Page/克林贡.md "wikilink")帝国这两大死敌因一场生态灾难达成了一项脆弱的停战协议，[联邦星舰进取号-A的船员们必须去阻止一场迫在眉睫的宇宙大战](https://zh.wikipedia.org/wiki/联邦星舰进取号_\(NCC-1701-A\) "wikilink")。
 
 起初，制片方希望将《未来之城》拍成原初系列的前篇，启用一批年轻演员来饰演尚在[星际舰队学院就学的进取号船员](https://zh.wikipedia.org/wiki/星际舰队学院 "wikilink")，但这一想法由于角色与爱好者们的负面反应而被否决了。为了赶在《星际旅行》25周年纪念时推出新电影，弗林与《[星际旅行II：可汗怒吼](../Page/星际旅行II：可汗怒吼.md "wikilink")》的导演迈耶合作，根据[伦纳德·尼莫伊](../Page/伦纳德·尼莫伊.md "wikilink")的建议写下了关于“太空中的[柏林墙倒塌](https://zh.wikipedia.org/wiki/柏林墙 "wikilink")”\[1\]的剧本，触及了同时期的[冷战](../Page/冷战.md "wikilink")话题。

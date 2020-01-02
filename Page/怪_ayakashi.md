@@ -1,3 +1,6 @@
+> 本文内容由[怪 ayakashi](https://zh.wikipedia.org/wiki/怪_ayakashi)转换而来。
+
+
 《**怪 ～ayakashi～**》（）為[日本](../Page/日本.md "wikilink")的[恐怖](https://zh.wikipedia.org/wiki/恐怖 "wikilink")[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")。為[富士電視台](../Page/富士電視台.md "wikilink")系列「[noitaminA](https://zh.wikipedia.org/wiki/noitaminA "wikilink")」的第三部作品。從2006年1月12日到3月23日期間播放，全11話。
 
 本作為noitaminA改變以《[蜂蜜幸運草](https://zh.wikipedia.org/wiki/蜂蜜幸運草 "wikilink")》等少女漫畫為原作的動畫路線、將日本從古至今以來的三篇鬼故事「[四谷怪談](../Page/四谷怪談.md "wikilink")」、「[天守物語](https://zh.wikipedia.org/wiki/天守物語 "wikilink")」、「[化貓](https://zh.wikipedia.org/wiki/化貓 "wikilink")」做為基礎、加入創作者們對原作的獨特解釋和以現在的觀點來創作新的故事，來替故事加入更多的味道、讓讀過原作的人也能以新鮮的感覺觀賞這部強烈前衛風格的異色之作。

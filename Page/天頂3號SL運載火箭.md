@@ -1,3 +1,6 @@
+> 本文内容由[天頂3號SL運載火箭](https://zh.wikipedia.org/wiki/天頂3號SL運載火箭)转换而来。
+
+
 **天顶-3SL运载火箭**（；）俄罗斯[海上发射公司用于竞争国际商业发射服务市场的主力](https://zh.wikipedia.org/wiki/海上发射公司 "wikilink")[运载火箭](https://zh.wikipedia.org/wiki/运载火箭 "wikilink")，是在[苏联](../Page/苏联.md "wikilink")研制的[天顶号运载火箭基础上发展而来的三级型号](https://zh.wikipedia.org/wiki/天顶号运载火箭 "wikilink")。火箭名字中的“SL”表示“海上发射”（**S**ea **L**aunch）。
 
 ## 天顶-3SL

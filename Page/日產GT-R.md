@@ -1,3 +1,6 @@
+> 本文内容由[日產GT-R](https://zh.wikipedia.org/wiki/日產GT-R)转换而来。
+
+
 **GT-R**，是[日產汽車](../Page/日產汽車.md "wikilink")品牌下的一款[高性能汽車](https://zh.wikipedia.org/wiki/跑車 "wikilink")。日產GT-R於2007年12月6日在[日本](../Page/日本.md "wikilink")推出上市。\[1\]\[2\]\[3\]該款跑車在2013年9月30日於[德国](../Page/德国.md "wikilink")[莱茵兰-普法尔茨州的](https://zh.wikipedia.org/wiki/莱茵兰-普法尔茨州 "wikilink")[纽博格林赛道](../Page/纽博格林赛道.md "wikilink")由車手Michael Krumm做出7分8秒679的成績，名列第10，比另一款日系高性能跑車[雷克萨斯LFA的成績更好](https://zh.wikipedia.org/wiki/雷克萨斯LFA "wikilink")，是日系高性能跑車在該赛道做出的最佳成绩，GT-R曾經被認為是全球最快的8款跑車之一。
 
 ## 特徵

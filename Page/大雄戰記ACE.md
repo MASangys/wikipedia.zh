@@ -1,3 +1,6 @@
+> 本文内容由[大雄戰記ACE](https://zh.wikipedia.org/wiki/大雄戰記ACE)转换而来。
+
+
 **大雄戰記ACE**（）(ACE的全寫是Another Century's Episode)是日本的網友**aaa**以[RPG Maker 2000來製作的](../Page/RPG_Maker_2000.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")。這遊戲的世界觀是以[NAMCO x CAPCOM來作基礎](../Page/NAMCO_x_CAPCOM.md "wikilink")，再加入[哆啦A夢](../Page/哆啦A夢.md "wikilink")、[機動戰士鋼彈SEED DESTINY](https://zh.wikipedia.org/wiki/機動戰士鋼彈SEED_DESTINY "wikilink")、[超級瑪利歐等作品的同人RPG](https://zh.wikipedia.org/wiki/超級瑪利歐 "wikilink")。現在本作進度是**Epsode４～暗黒の黙示録～**的先行版，這遊戲大概是8個月至一年才推出一個Epsode。
 
 ## 故事

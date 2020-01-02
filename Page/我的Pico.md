@@ -1,3 +1,6 @@
+> 本文内容由[我的Pico](https://zh.wikipedia.org/wiki/我的Pico)转换而来。
+
+
 《**我的Pico**》（）是2006年9月7日由[Soft On Demand所發售的](../Page/Soft_On_Demand.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")。\[1\]這作是世界第一個[正太控](../Page/正太控.md "wikilink")成人動畫。\[2\]
 
 ## 概要

@@ -1,3 +1,6 @@
+> 本文内容由[山T老夫子](https://zh.wikipedia.org/wiki/山T老夫子)转换而来。
+
+
 ，是[香港](../Page/香港.md "wikilink")漫畫《[老夫子](../Page/老夫子.md "wikilink")》系列的動畫電影作品之一，於1983年8月4日首度上映，1991年11月10日及1992年7月26日於[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")兩度重播。其題材參考了1982年電影《[ET外星人](https://zh.wikipedia.org/wiki/ET外星人 "wikilink")》的科幻元素。
 
 ## 劇情

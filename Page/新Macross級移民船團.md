@@ -1,3 +1,6 @@
+> 本文内容由[新Macross級移民船團](https://zh.wikipedia.org/wiki/新Macross級移民船團)转换而来。
+
+
 **新Macross級移民船團**是日本科幻動畫《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》系列中人類往宇宙進行長距離移民所使用的一系列宇宙船團，由[地球統合宇宙軍建立和營運](https://zh.wikipedia.org/wiki/地球統合宇宙軍 "wikilink")，取代舊型移民船Megaroad級。
 
 首個新Macross級移民船團Macross 1（又稱「第31次超長距離移民船團」）於2030年正式從地球出發，單次移民規模首次到達100萬人，及後的新Macross級移民船團分別由地球和殖民星伊甸建造和出發。根據初期的設定，新Macross級移民船團只有13隊；但在《[超时空要塞 Frontier](https://zh.wikipedia.org/wiki/超时空要塞_Frontier "wikilink")》中這設定被修改，船團數量增加至最少25隊。

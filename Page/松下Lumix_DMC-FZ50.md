@@ -1,3 +1,6 @@
+> 本文内容由[松下Lumix DMC-FZ50](https://zh.wikipedia.org/wiki/松下Lumix_DMC-FZ50)转换而来。
+
+
 **Panasonic Lumix DMC-FZ50** 是[松下](https://zh.wikipedia.org/wiki/松下 "wikilink")[Lumix系列的一款准专业长焦](https://zh.wikipedia.org/wiki/Lumix "wikilink")[数码相机](../Page/数码相机.md "wikilink")，于[2006年7月](../Page/2006年7月.md "wikilink")发布。为前作[Panasonic Lumix DMC-FZ30的后续产品](https://zh.wikipedia.org/wiki/Panasonic_Lumix_DMC-FZ30 "wikilink")。
 
 [萊卡亦推出此型號的雙生版本](https://zh.wikipedia.org/wiki/萊卡 "wikilink")，名為V-Lux。

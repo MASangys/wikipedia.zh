@@ -1,3 +1,6 @@
+> 本文内容由[愛、Texas](https://zh.wikipedia.org/wiki/愛、Texas)转换而来。
+
+
 「**愛、Texas**」（）是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[山下智久](../Page/山下智久.md "wikilink")的第5張個人[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要

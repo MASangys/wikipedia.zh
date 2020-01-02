@@ -1,3 +1,6 @@
+> 本文内容由[圣斗士星矢 THE LOST CANVAS 冥王神话](https://zh.wikipedia.org/wiki/圣斗士星矢_THE_LOST_CANVAS_冥王神话)转换而来。
+
+
 《**聖鬥士星矢 THE LOST CANVAS 冥王神話**》是由[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[手代木史織描繪的](https://zh.wikipedia.org/wiki/手代木史織 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2006年8月於《周刊少年Champion》以每周連載形式開始連載自己的作品《聖鬥士星矢 THE LOST CANVAS 冥王神話》。故事講述距離《[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")》本篇所處年代的243年之前的聖戰的故事。受到天秤座的黃金聖鬥士童虎的引薦，天馬前往希臘聖域接受聖鬥士的訓練。在聖域，天馬遇到了兒時的玩伴薩莎。薩莎，原來竟然是女神雅典娜的轉世……
 
 由於此作作者為手代木史織，與車田正美所作的漫畫《ND冥王神話》可以看作完全自我獨立的漫畫，並無關聯之處。雖然故事時間點都差不多是18世紀，並有相同人物。但本作可以當作手代木根據車田給出的聖鬥士資料，融合自己的想法與設定而構建出的全新聖鬥士世界。

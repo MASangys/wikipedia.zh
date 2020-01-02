@@ -1,3 +1,6 @@
+> 本文内容由[哈里·S·杜鲁门](https://zh.wikipedia.org/wiki/哈里·S·杜鲁门)转换而来。
+
+
 **哈里·S·杜鲁门**（，），[美国](../Page/美国.md "wikilink")[民主黨](https://zh.wikipedia.org/wiki/民主黨_\(美國\) "wikilink")[政治家](../Page/政治家.md "wikilink")，第34任[副总统](../Page/美国副总统.md "wikilink")（1945年），隨後接替因病逝世的[富兰克林·罗斯福总统](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，成为了第33任[美國总统](https://zh.wikipedia.org/wiki/美國总统 "wikilink")（1945年－1953年）。
 
 面對美國國內事務，杜魯門總統正好遇上新一輪混亂的經濟衰退週期，當時物資短缺、有無數罷工事件和有關否決《塔夫脫-哈特利法》的爭議，都是當代的寫照。杜魯門雖於1948年成功連任總統，但卻未能成功掌握國會多數，以致於他的「[良政](https://zh.wikipedia.org/wiki/良政 "wikilink")」計劃幾乎全部流產。然而他曾率先以行政命令在美軍內部施行廢除[種族隔離](https://zh.wikipedia.org/wiki/種族隔離 "wikilink")，並因應形勢主持第二次「[紅色恐慌](https://zh.wikipedia.org/wiki/紅色恐慌 "wikilink")」，從政府部門辭退了數以千計可能影響國政的[共產黨同情者](https://zh.wikipedia.org/wiki/共產黨 "wikilink")。不過，由於受到一連串財政醜聞打擊，有達數百位由他任命的官員必須辭職。

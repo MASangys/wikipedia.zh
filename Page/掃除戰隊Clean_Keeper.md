@@ -1,3 +1,6 @@
+> 本文内容由[掃除戰隊Clean Keeper](https://zh.wikipedia.org/wiki/掃除戰隊Clean_Keeper)转换而来。
+
+
 《**掃除戰隊Clean Keeper**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：）是[日本](../Page/日本.md "wikilink")[Idea Factory](../Page/Idea_Factory.md "wikilink")、[Lupinus](https://zh.wikipedia.org/wiki/Lupinus "wikilink")\[1\]所發售的[Wii](../Page/Wii.md "wikilink")以及[PlayStation 2平台](../Page/PlayStation_2.md "wikilink")[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")。
 
 ## 概要

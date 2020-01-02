@@ -1,3 +1,6 @@
+> 本文内容由[惡魔城X年代記](https://zh.wikipedia.org/wiki/惡魔城X年代記)转换而来。
+
+
 《**惡魔城X年代記**》（日文：）是[日本](../Page/日本.md "wikilink")[科樂美](../Page/科樂美.md "wikilink")集團下遊戲部門所開發的[惡魔城系列其中一作](https://zh.wikipedia.org/wiki/惡魔城系列 "wikilink")，於2007年發售的[PlayStation Portable遊戲](../Page/PlayStation_Portable.md "wikilink")，《[惡魔城X 血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的重製版並且收錄原作和《[惡魔城X 月下夜想曲](../Page/惡魔城X_月下夜想曲.md "wikilink")》。\[1\]\[2\]
 
 ## 遊戲前提

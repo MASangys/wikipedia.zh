@@ -1,3 +1,6 @@
+> 本文内容由[拿拿林Online](https://zh.wikipedia.org/wiki/拿拿林Online)转换而来。
+
+
 《**拿拿林online**》（，Nanaimo\[1\]，中国大陆称此游戏为QQ飞行岛）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TopPig所開發的多人連線](https://zh.wikipedia.org/wiki/TopPig "wikilink")[射擊遊戲](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")，由[NEXON代理](https://zh.wikipedia.org/wiki/NEXON "wikilink")。此遊戲的中文版本，會由[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")（中國）及[戲谷](../Page/戲谷.md "wikilink")（香港、台灣）代理。
 
 本遊戲是以2D橫向射擊為主，玩家可透過卡片或商店買賣賣得到寵物，玩家在一開始的時候，先改人物名稱等基本資料，然後經過劇情，透過NPC取得寵物，一開始的時候只有三隻寵物選一隻寵物，選得寵物後就可遊戲。

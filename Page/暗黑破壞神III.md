@@ -1,3 +1,6 @@
+> 本文内容由[暗黑破壞神III](https://zh.wikipedia.org/wiki/暗黑破壞神III)转换而来。
+
+
 是[暴雪娛樂](../Page/暴雪娛樂.md "wikilink")於2012年5月15日發行的一款[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。是「[暗黑破壞神系列](https://zh.wikipedia.org/wiki/暗黑破壞神系列 "wikilink")」的第三代。本作需要登入[Battle.net才能進行遊戲](https://zh.wikipedia.org/wiki/Battle.net "wikilink")，PC版即使在單機模式(single-player games)下也必須連上網路才能進行遊戲，也是該系列作品中唯一須全程連網的遊戲；家用游戏机版则无需全程联网。
 
 於2008年6月28日在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉行的[2008暴雪全球邀請賽中公佈研發](https://zh.wikipedia.org/wiki/暴雪嘉年華 "wikilink")《暗黑破壞神III》及播放遊戲試玩畫面\[1\]\[2\]。玩家可選擇野蠻人、巫醫、秘術師、武僧及狩魔獵人這五個職業。有資料片的話還可玩聖教軍職業，再加購數位組合包的話可玩死靈法師職業。2011年9月21日啟動[封測活動](https://zh.wikipedia.org/wiki/封測 "wikilink")\[3\]。

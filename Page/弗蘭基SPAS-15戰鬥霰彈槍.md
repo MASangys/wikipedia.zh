@@ -1,3 +1,6 @@
+> 本文内容由[弗蘭基SPAS-15戰鬥霰彈槍](https://zh.wikipedia.org/wiki/弗蘭基SPAS-15戰鬥霰彈槍)转换而来。
+
+
 **SPAS-15**（，意為「特殊用途自動型霰彈槍」）是一款由[意大利](../Page/意大利.md "wikilink")槍械製造商[路易吉·弗蘭基所設計和生產的可半自動可泵動及](https://zh.wikipedia.org/wiki/弗蘭基有限公司 "wikilink")[彈匣](../Page/彈匣.md "wikilink")供彈式[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（[戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 歷史

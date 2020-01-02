@@ -1,3 +1,6 @@
+> 本文内容由[家庭教師HITMAN REBORN! \(動畫\)](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN!_\(動畫\))转换而来。
+
+
 《**家庭-{}-教師HITMAN REBORN\!**》是根據原著[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[家庭教師HITMAN REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")》改編的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。因追上原作進度而暫告一段落。2006年10月7日起於[東京電視台](../Page/東京電視台.md "wikilink")系列播放。[台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2007年5月13日起在[台視播出](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")，2010年7月1日起在[衛視中文台](../Page/衛視中文台.md "wikilink")播出；[香港](../Page/香港.md "wikilink")於2009年12月6日起在[Animax](../Page/Animax.md "wikilink")播出。
 
 ## 概要

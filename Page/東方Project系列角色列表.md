@@ -1,3 +1,6 @@
+> 本文内容由[東方Project系列角色列表](https://zh.wikipedia.org/wiki/東方Project系列角色列表)转换而来。
+
+
 本列表是[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")[東方Project中登場的角色介紹](https://zh.wikipedia.org/wiki/東方Project "wikilink")。東方Project角色的特徵是登場角色幾乎都是女性，男性角色的數量十分之少见。
 
 ## 本條目的作品名稱

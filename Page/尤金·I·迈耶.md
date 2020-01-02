@@ -1,3 +1,6 @@
+> 本文内容由[尤金·I·迈耶](https://zh.wikipedia.org/wiki/尤金·I·迈耶)转换而来。
+
+
 **尤金·艾萨克·迈耶**（，），生於[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")，是一位[美国](../Page/美国.md "wikilink")金融家。
 
 ## 生平

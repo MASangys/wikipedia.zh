@@ -1,3 +1,6 @@
+> 本文内容由[回到未來II](https://zh.wikipedia.org/wiki/回到未來II)转换而来。
+
+
 《**回到未來續集**》（）是經典[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[喜劇](../Page/喜劇.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[回到未來系列](../Page/回到未來系列.md "wikilink")》的第二集，於1989年上映。由[Robert Zemeckis執導](https://zh.wikipedia.org/wiki/Robert_Zemeckis "wikilink")，[Bob Gale編劇](https://zh.wikipedia.org/wiki/Bob_Gale "wikilink")，[迈克尔·J·福克斯](https://zh.wikipedia.org/wiki/迈克尔·J·福克斯 "wikilink")（Michael J. Fox）， [Christopher Lloyd](https://zh.wikipedia.org/wiki/Christopher_Lloyd "wikilink")，[Lea Thompson和](https://zh.wikipedia.org/wiki/Lea_Thompson "wikilink")[Thomas F. Wilson主演](https://zh.wikipedia.org/wiki/Thomas_F._Wilson "wikilink")。
 
 ## 劇情簡介

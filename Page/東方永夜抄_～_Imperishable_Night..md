@@ -1,3 +1,6 @@
+> 本文内容由[東方永夜抄 ～ Imperishable Night.](https://zh.wikipedia.org/wiki/東方永夜抄_～_Imperishable_Night.)转换而来。
+
+
 [Imperishable_Night.jpg](https://zh.wikipedia.org/wiki/File:Imperishable_Night.jpg "fig:Imperishable_Night.jpg") 是由[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")8作，亦是在[Windows系統上的第三作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的體驗版於2004年4月18日第一次舉行的東方專題活動「博麗神社例大祭」上頒布，5月14日在網上開放下載。\[1\]8月15日（[Comic Market](../Page/Comic_Market.md "wikilink") 66）遊戲正式發售。各同人商店則在9月15日[中秋節開始委託販賣](https://zh.wikipedia.org/wiki/中秋節 "wikilink")。
 
 作品取材自《[竹取物語](../Page/竹取物語.md "wikilink")》。\[2\]本作與前作《[東方紅魔鄉 ～ the Embodiment of Scarlet Devil.](../Page/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil..md "wikilink")》、《[東方妖妖夢 ～ Perfect Cherry Blossom.](../Page/東方妖妖夢_～_Perfect_Cherry_Blossom..md "wikilink")》合稱「三部曲」。\[3\]

@@ -1,3 +1,6 @@
+> 本文内容由[哆啦美与迷你哆啦SOS](https://zh.wikipedia.org/wiki/哆啦美与迷你哆啦SOS)转换而来。
+
+
 《**哆啦美与迷你哆啦SOS**》是第一部以[哆啦美](../Page/哆啦美.md "wikilink")为主角的[哆啦A梦系列电影](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")，于1989年3月11日公开，为《[大雄的日本诞生](../Page/大雄的日本誕生.md "wikilink")》的附篇电影，片長40分鐘。
 
 ## 故事简介

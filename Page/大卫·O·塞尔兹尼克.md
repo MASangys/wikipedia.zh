@@ -1,3 +1,6 @@
+> 本文内容由[大卫·O·塞尔兹尼克](https://zh.wikipedia.org/wiki/大卫·O·塞尔兹尼克)转换而来。
+
+
 **大卫·O·塞尔兹尼克**（，），生于美国[匹兹堡](../Page/匹兹堡.md "wikilink")，[犹太人](../Page/犹太人.md "wikilink")，美国电影业巨擘，**《[乱世佳人](../Page/乱世佳人.md "wikilink")》的编剧**，连续两年夺得[奥斯卡最佳影片奖](../Page/奥斯卡最佳影片奖.md "wikilink")。
 
 他是[好莱坞](../Page/好莱坞.md "wikilink")黄金时代核心传奇[制片人之一](https://zh.wikipedia.org/wiki/制片人 "wikilink")，最成功的作品莫过于1939年的《[乱世佳人](../Page/乱世佳人.md "wikilink")》，由此首夺[奥斯卡最佳影片奖](../Page/奥斯卡最佳影片奖.md "wikilink")。随后第二年又以《[蝴蝶梦](https://zh.wikipedia.org/wiki/蝴蝶梦 "wikilink")》卫冕同一奖项，创下了[奥斯卡奖奇迹之一](https://zh.wikipedia.org/wiki/奥斯卡奖 "wikilink")。

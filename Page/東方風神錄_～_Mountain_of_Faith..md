@@ -1,3 +1,6 @@
+> 本文内容由[東方風神錄 ～ Mountain of Faith.](https://zh.wikipedia.org/wiki/東方風神錄_～_Mountain_of_Faith.)转换而来。
+
+
 [Mountain_of_Faith.jpg](https://zh.wikipedia.org/wiki/File:Mountain_of_Faith.jpg "fig:Mountain_of_Faith.jpg") 是由[同人社團](https://zh.wikipedia.org/wiki/同人社團 "wikilink")[上海愛麗絲幻樂團](../Page/上海愛麗絲幻樂團.md "wikilink")製作的[彈幕射擊遊戲](../Page/彈幕射擊遊戲.md "wikilink")，是[東方Project的第](https://zh.wikipedia.org/wiki/東方Project "wikilink")10作，也是[Windows平台上的第五作](https://zh.wikipedia.org/wiki/Windows "wikilink")。本作的開發情報最初於2006年9月15日在作者的[網誌](../Page/網誌.md "wikilink")「博麗幻想書譜」上公開\[1\]，並表明會在2007年夏季發售\[2\]。本作的體驗版在2007年5月20日於第4回「[博麗神社例大祭](https://zh.wikipedia.org/wiki/博麗神社例大祭 "wikilink")」發售，並於7月27日開放網上下載。最後本作在8月17日於[Comic Market](../Page/Comic_Market.md "wikilink") 72正式發售，而在各[同人商店的](https://zh.wikipedia.org/wiki/同人商店 "wikilink")[委託販賣則在下個月的](https://zh.wikipedia.org/wiki/委託販賣 "wikilink")9月21日開始。
 
 ## 遊戲系統

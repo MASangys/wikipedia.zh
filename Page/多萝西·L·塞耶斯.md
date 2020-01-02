@@ -1,3 +1,6 @@
+> 本文内容由[多萝西·L·塞耶斯](https://zh.wikipedia.org/wiki/多萝西·L·塞耶斯)转换而来。
+
+
 **多萝西·利·塞耶斯**（**Dorothy Leigh Sayers**，）是一位[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[作家與](https://zh.wikipedia.org/wiki/作家 "wikilink")[翻譯家](https://zh.wikipedia.org/wiki/翻譯家 "wikilink")。最有名的作品是以[彼得·溫西勳爵](https://zh.wikipedia.org/wiki/彼得·溫西勳爵 "wikilink")（Lord Peter Wimsey）為主角的一系列[偵探小說](https://zh.wikipedia.org/wiki/偵探小說 "wikilink")，首部作品是1923年的《*Whose Body?*》。
 
 ## 生平

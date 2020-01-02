@@ -1,3 +1,6 @@
+> 本文内容由[支持DirectX 11游戏列表](https://zh.wikipedia.org/wiki/支持DirectX_11游戏列表)转换而来。
+
+
 本表为**支持[Windows 7中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[DirectX 11的已发行及待发行的游戏列表](https://zh.wikipedia.org/wiki/DirectX#DirectX_11 "wikilink")**。相关游戏请参见[电子游戏列表](https://zh.wikipedia.org/wiki/电子游戏列表 "wikilink")。
 
 ## 已发行游戏

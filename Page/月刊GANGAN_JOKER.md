@@ -1,3 +1,6 @@
+> 本文内容由[月刊GANGAN JOKER](https://zh.wikipedia.org/wiki/月刊GANGAN_JOKER)转换而来。
+
+
 《**月刊GANGAN JOKER**》（）是由[史克威爾艾尼克斯發行](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，並於2009年4月22日創刊的[日本](../Page/日本.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。
 
 ## 概要

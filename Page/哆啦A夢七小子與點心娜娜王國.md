@@ -1,3 +1,6 @@
+> 本文内容由[哆啦A夢七小子與點心娜娜王國](https://zh.wikipedia.org/wiki/哆啦A夢七小子與點心娜娜王國)转换而来。
+
+
 《**哆啦A夢七小子與點心娜娜王國**》（ザ☆ドラえもんズ おかしなお菓子なオカシナナ）于1999年3月6日与《[大雄的宇宙漂流记](https://zh.wikipedia.org/wiki/大雄的宇宙漂流记 "wikilink")》及《[大雄的结婚前夜](https://zh.wikipedia.org/wiki/大雄的结婚前夜 "wikilink")》同年在日本上映，由[米谷良知](../Page/米谷良知.md "wikilink")执导。片長15分鐘。
 
 ## 剧情简介

@@ -1,3 +1,6 @@
+> 本文内容由[微软HTML帮助集](https://zh.wikipedia.org/wiki/微软HTML帮助集)转换而来。
+
+
 [HTMLHelpV1Console.png](https://zh.wikipedia.org/wiki/File:HTMLHelpV1Console.png "fig:HTMLHelpV1Console.png") [HTMLHelpV2Console.png](https://zh.wikipedia.org/wiki/File:HTMLHelpV2Console.png "fig:HTMLHelpV2Console.png") **微软HTML幫助集**，即**已編譯的HTML說明檔案**（），是[微軟继承早先的](https://zh.wikipedia.org/wiki/微軟 "wikilink")發展的一种[檔案格式](../Page/檔案格式.md "wikilink")，用来提供，是一种应用较广泛的文件格式。因为CHM檔案如一本書一樣，可以提供內容目錄、索引和搜尋等功能，所以也常被用来制作[电子书](https://zh.wikipedia.org/wiki/电子书 "wikilink")。\[1\]實際上，的`.lit`就是由CHM擴充而成。
 
 ## 歷史

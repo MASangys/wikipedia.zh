@@ -1,3 +1,6 @@
+> 本文内容由[星际旅行III：石破天惊](https://zh.wikipedia.org/wiki/星际旅行III：石破天惊)转换而来。
+
+
 《**星际旅行III：石破天惊**》（），是一部由[派拉蒙影业于](https://zh.wikipedia.org/wiki/派拉蒙影业 "wikilink")1984年拍摄的[电影](../Page/电影.md "wikilink")，该部电影是《[星际旅行](https://zh.wikipedia.org/wiki/星际旅行 "wikilink")》[科幻系列的第](https://zh.wikipedia.org/wiki/科幻 "wikilink")3部电影。在西方通常简写作“ST3:TSFS”或者“TSFS”。这部电影是[三部曲](../Page/三部曲.md "wikilink")的中篇：接续上部电影《[可汗怒吼](https://zh.wikipedia.org/wiki/可汗怒吼 "wikilink")》，并由下一部电影《[抢救未来](https://zh.wikipedia.org/wiki/抢救未来 "wikilink")》完结。
 
 ## 角色
