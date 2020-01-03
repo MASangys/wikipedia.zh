@@ -62,7 +62,7 @@ doctrina被應用在拉丁文《新約》的翻譯上。對應到希臘文新約
   -
   -
   -
-[Category:宗教信仰及教義](https://zh.wikipedia.org/wiki/Category:宗教信仰及教義 "wikilink") [Category:信仰](https://zh.wikipedia.org/wiki/Category:信仰 "wikilink") [Category:教条主义](https://zh.wikipedia.org/wiki/Category:教条主义 "wikilink")
+[Category:宗教信仰及教義](https://zh.wikipedia.org/wiki/Category:宗教信仰及教義 "wikilink") [Category:信仰](https://zh.wikipedia.org/wiki/Category:信仰 "wikilink") [Category:教条主义](https://zh.wikipedia.org/wiki/Category:教条主义 "wikilink") [Category:理念](https://zh.wikipedia.org/wiki/Category:理念 "wikilink")
 
 1.  《天主教英漢袖珍辭典》〈doctrine〉：「1. 教義；教理；道理；信條；教誨，指教會的訓示，是以（導師）基督所傳授的教誨－福音的救贖喜訊為主題，有系統的闡釋基督宗教的教義。2. 學說；學理；主義。拉丁文為doctrina。」
 2.  《天主教英漢袖珍辭典》〈dogma〉：「信條；信理；教條；教理；教義；定論。指教會對天主啟示的信仰或道德真理的隆重宣示，要求全球教友信服。又稱 dogma of faith 信德的道理。拉丁文稱作 dogma de fide 。 」

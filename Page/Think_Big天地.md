@@ -792,7 +792,7 @@ Think Big 腦力戰</p></td>
 
 ## 觀眾互動
 
-製作單位於[TVB周刊](../Page/TVB周刊.md "wikilink")第913期開始，招攬12歲或以下的小朋友加入實行會員制的組織「Think Big Family」，參與跟本節目相關的活動\[26\]，隨後亦在tvb.com開通有關報名專頁。招募於2016年12月31日截止，並新增家長會員的招攬。
+\[26\]製作單位於[TVB周刊](../Page/TVB周刊.md "wikilink")第913期開始，招攬12歲或以下的小朋友加入實行會員制的組織「Think Big Family」（現已改為Think Big x Big Big KIDS），參與跟本節目相關的活動，隨後亦在tvb.com開通有關報名專頁。招募於2016年12月31日截止，並新增家長會員的招攬。
 
 ## 節目調動
 
@@ -838,7 +838,7 @@ Think Big 腦力戰</p></td>
   - [《Think Big天地》- 主頁 - tvb.com](http://programme.tvb.com/kids/kidsthinkbig20172/)
   - [《Think Big x Big Big KIDS》報名專頁](http://event.tvb.com/thinkbig/)
 
-[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink") [Category:2020年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2020年無綫電視節目 "wikilink")
+[Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink") [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink") [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink") [Category:2020年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2020年代無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:2016年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2016年無綫電視節目 "wikilink") [Category:2017年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2017年無綫電視節目 "wikilink") [Category:2018年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2018年無綫電視節目 "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink") [Category:2020年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2020年無綫電視節目 "wikilink")
 
 1.  \[<https://www.youtube.com/watch?v=yZPTL4BabrM>　Think Big宣傳片\]
 2.  [余德丞、林希靈、黃愷怡、李雯希及阮浩棕正式卸任《Think Big天地》節目主持人身份](https://www.facebook.com/permalink.php?story_fbid=1074486509362838&id=645789165565910&substory_index=0)

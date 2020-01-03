@@ -27,7 +27,7 @@ MAG-95採用了大多數對於西方射手而言已經習以為常，但已經�
 
 MAG-95手槍的所有部件均採用[钢](../Page/钢.md "wikilink")材製造，為一把全鋼製大型手槍。它在很大程度上依賴於後期型[白朗寧的設計特點](../Page/约翰·勃朗宁.md "wikilink")，和其他的特點相結合，從幾種武器整合到這把手槍。閉鎖系統是廣泛使用的白朗寧系列傾斜[槍管](../Page/槍管.md "wikilink")和絞鏈動作。該槍亦將[雙動操作扳機與](https://zh.wikipedia.org/wiki/扳機 "wikilink")[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")（）相結合，當已經上膛時讓外置的降低。只要50[牛頓](../Page/牛頓_\(單位\).md "wikilink")（11.24[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）的[扳機扣力即可讓擊錘重新進入待擊並進行實彈射擊](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")。
 
-該槍採用開放式擊錘、常規雙動操作扳機（亦可單動操作），槍管鍍[铬](../Page/铬.md "wikilink")以延長其使用壽命，而且讓其更容易清潔。MAG-95是設計為雙手操作，而且右手和左手使用者都適合使用的手槍（例如其待擊解脫桿）。據稱，該手槍具有很好平衡性，在連發的時候有著很高的[精度](../Page/準確與精密.md "wikilink")。其彈匣的容量為15發，但亦可選用20和10發的彈匣。其他可選擇裝置包括要安裝在[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。標準的[表面處理是黑色](https://zh.wikipedia.org/wiki/表面處理 "wikilink")漆面塗層，但亦可選擇明亮或啞光[鍍](https://zh.wikipedia.org/wiki/电鍍 "wikilink")[铬](../Page/铬.md "wikilink")的表面處理。
+該槍採用開放式擊錘、常規雙動操作扳機（亦可單動操作），槍管鍍[铬](../Page/铬.md "wikilink")以延長其使用壽命，而且讓其更容易清潔。MAG-95是設計為雙手操作，而且右手和左手使用者都適合使用的手槍（例如其待擊解脫桿）。據稱，該手槍具有很好平衡性，在連發的時候有著很高的[精度](../Page/準確與精密.md "wikilink")。其彈匣的容量為15發，但亦可選用20和10發的彈匣。其他可選擇裝置包括要安裝在[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。標準的[表面處理是黑色](https://zh.wikipedia.org/wiki/表面處理 "wikilink")漆面塗層，但亦可選擇明亮或啞光[鍍](https://zh.wikipedia.org/wiki/电鍍 "wikilink")[铬](../Page/铬.md "wikilink")的表面處理。
 
 MAG-98還內置了緩衝器，而主要用作運動手槍的MAG-98C同樣裝有緩衝器。
 

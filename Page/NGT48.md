@@ -78,7 +78,7 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
 
 ## 成員
 
-與[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")及[HKT48](../Page/HKT48.md "wikilink")類似，NGT48曾划分為2個分隊，分別為Team NIII及Team G，但目前分队制度暂时取消，另有具有預備成員功能的研究生隊伍。成員徵選合格者、以及透過兩次「AKB48集團選秀會議」選中的選秀生，會先以「研究生」的身分加入组合，再進一步昇格成為正式成員。
+與[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")及[HKT48](../Page/HKT48.md "wikilink")類似，NGT48曾划分為2個分隊，分別為Team NIII及Team G，但目前分队制度已取消，另有具有預備成員功能的研究生隊伍。成員徵選合格者、以及透過兩次「AKB48集團選秀會議」選中的選秀生，會先以「研究生」的身分加入组合，再進一步昇格成為正式成員。
 
 ### 一期生
 

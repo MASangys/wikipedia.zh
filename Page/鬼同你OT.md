@@ -215,7 +215,7 @@ Annie、Angie、Anna之上司<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(香港)" title="wikilink">梁　茵</a></p></td>
 <td><p>Candy</p></td>
 <td></td>
 </tr>
@@ -586,12 +586,12 @@ Annie、Angie、Anna之上司<br />
 <td><p>揸大D三炒</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳光耀(演員)" title="wikilink">陳光耀</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳光耀_(演員)" title="wikilink">陳光耀</a></p></td>
 <td><p>Kelvin</p></td>
 <td><p>荷包乾硬化</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(香港)" title="wikilink">梁　茵</a></p></td>
 <td><p>Candy</p></td>
 <td><p>在下元秋</p></td>
 </tr>

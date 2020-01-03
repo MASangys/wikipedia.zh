@@ -25,4 +25,4 @@ Easybreath面具第9届Oxylane创新奖于2013年12月18日在法国里尔举行
 
 [Category:法國品牌](https://zh.wikipedia.org/wiki/Category:法國品牌 "wikilink") [Category:運動用品製造商](https://zh.wikipedia.org/wiki/Category:運動用品製造商 "wikilink")
 
-1.  [潜水也可用鼻子自然呼吸 Tribord推全新Easybreath面具](http://digi.163.com/14/0128/21/9JN4I31T001668B4.html)
+1.

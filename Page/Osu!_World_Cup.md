@@ -219,6 +219,12 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>osu! World Cup 2019</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -282,6 +288,12 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>osu!taiko World Cup 2019</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -335,6 +347,12 @@
 </tr>
 <tr class="odd">
 <td><p><strong>osu!catch World Cup 2018</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>osu!catch World Cup 2019</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -404,6 +422,18 @@
 </tr>
 <tr class="odd">
 <td><p><strong>osu!mania 4K World Cup 2018</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>osu!mania 7K World Cup 2019</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>osu!mania 4K World Cup 2019</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1089,6 +1119,10 @@
 <td><p><strong>osu! World Cup 2018</strong></p></td>
 <td><p>juankristal、 HappyStick、 deadbeat</p></td>
 </tr>
+<tr class="even">
+<td><p><strong>osu! World Cup 2019</strong></p></td>
+<td><p>juankristal、 HappyStick、 deadbeat</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1132,6 +1166,10 @@
 <td><p><strong>osu!taiko World Cup 2018</strong></p></td>
 <td><p>juankristal、 HappyStick、 deadbeat</p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>osu!taiko World Cup 2019</strong></p></td>
+<td><p>juankristal、 deadbeat</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1170,6 +1208,10 @@
 <tr class="odd">
 <td><p><strong>osu!catch World Cup 2018</strong></p></td>
 <td><p>juankristal、 HappyStick、 deadbeat</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>osu!catch World Cup 2019</strong></p></td>
+<td><p>juankristal、 deadbeat</p></td>
 </tr>
 </tbody>
 </table>
@@ -1213,6 +1255,14 @@
 <tr class="even">
 <td><p><strong>osu!mania 4K World Cup 2018</strong></p></td>
 <td><p>juankristal、 HappyStick、 deadbeat</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>osu!mania 7K World Cup 2019</strong></p></td>
+<td><p>juankristal、 HappyStick、 deadbeat</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>osu!mania 4K World Cup 2019</strong></p></td>
+<td><p>juankristal</p></td>
 </tr>
 </tbody>
 </table>

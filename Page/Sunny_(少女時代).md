@@ -587,6 +587,12 @@
 <td><p><a href="../Page/Eye_Contact.md" title="wikilink">Eye Contact</a></p></td>
 <td><p>特別MC，與<a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>主持</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年12月11日 - 12月25日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p>今天開始 Patissier[3]</p></td>
+<td><p>特別節目，與<a href="../Page/黃光熙.md" title="wikilink">黃光熙</a>、<a href="../Page/曹璐.md" title="wikilink">曹璐</a>主持</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -798,3 +804,4 @@
 
 1.
 2.
+3.  [《今天開始 Patissier》 節目簡介](https://search.daum.net/search?q=%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0%20%ED%8C%8C%ED%8B%B0%EC%8B%9C%EC%97%90&w=tot&DA=PRF&irt=tv-program&irk=87362&rtmaxcoll=TVP)

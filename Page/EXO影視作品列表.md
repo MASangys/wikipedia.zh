@@ -2131,29 +2131,30 @@ Chen、Kai</p></td>
 
   - 备注无语言信息者均为韩语与汉语双版本
 
-|                             |                                                                                   |                                                    |                               |
-| --------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------- |
-| 年份                          | 歌曲                                                                                | 專輯                                                 | 备注                            |
-| 2013年                       | Wolf/狼與美女                                                                         | 《[XOXO](../Page/XOXO_\(Kiss&Hug\).md "wikilink")》  | 后公开Drama Episode 1 及Episode 2 |
-| Growl/咆哮                    | 《[Growl](../Page/XOXO_\(Kiss&Hug\).md "wikilink")》                                | 后公开MV 2nd Version                                  |                               |
-| Miracles In December/十二月的奇跡 | 《[Miracles In December](https://zh.wikipedia.org/wiki/EXO音樂作品列表 "wikilink")》      |                                                    |                               |
-| 2015年                       | Call Me Baby/叫我                                                                   | 《[EXODUS](../Page/EXODUS_\(EXO專輯\).md "wikilink")》 |                               |
-| LOVE ME RIGHT/漫游宇宙          | 《[LOVE ME RIGHT](../Page/EXODUS_\(EXO專輯\).md "wikilink")》                         |                                                    |                               |
-| Love Me Right               | 《Love Me Right\~romantic universe\~》                                              | 日語                                                 |                               |
-| LIGHTSABER/光劍               | 《[Sing For You](../Page/Sing_For_You.md "wikilink")》                              | 韓語/汉语/日语                                           |                               |
-| Sing For You/為你而唱           |                                                                                   |                                                    |                               |
-| 2016年                       | Lucky One                                                                         | 《[EX'ACT](../Page/EX'ACT.md "wikilink")》           |                               |
-| Monster                     |                                                                                   |                                                    |                               |
-| Lotto                       | 《[LOTTO](../Page/EX'ACT.md "wikilink")》                                           |                                                    |                               |
-| Dancing King                | [SM STATION](../Page/SM_STATION.md "wikilink")（與[劉在錫](../Page/劉在錫.md "wikilink")） | 韓語                                                 |                               |
-| Coming Over                 | 《Coming Over》                                                                     | 日語                                                 |                               |
-| For Life/一生一事               | 《[For Life](../Page/For_Life.md "wikilink")》                                      |                                                    |                               |
-| 2017年                       | Ko Ko Bop/叩叩趴                                                                     | 《[THE WAR](../Page/The_War.md "wikilink")》         |                               |
-| Power/超音力                   | 《[The War: The Power Of Music](../Page/The_War.md "wikilink")》                    |                                                    |                               |
-| Universe/為心導航               | 《[Universe](../Page/Universe_\(EXO迷你專輯\).md "wikilink")》                          |                                                    |                               |
-| 2018年                       | Electric Kiss                                                                     | 《COUNTDOWN》                                        | 日語                            |
-| Tempo/節奏                    | 《[Don't Mess Up My Tempo](../Page/Don't_Mess_Up_My_Tempo.md "wikilink")》          |                                                    |                               |
-| Love Shot/宣告                | 《[LOVE SHOT](../Page/Don't_Mess_Up_My_Tempo.md "wikilink")》                       |                                                    |                               |
+|                             |                                                                                   |                                                          |                               |
+| --------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------- |
+| 年份                          | 歌曲                                                                                | 專輯                                                       | 备注                            |
+| 2013年                       | Wolf/狼與美女                                                                         | 《[XOXO](../Page/XOXO_\(Kiss&Hug\).md "wikilink")》        | 后公开Drama Episode 1 及Episode 2 |
+| Growl/咆哮                    | 《[Growl](../Page/XOXO_\(Kiss&Hug\).md "wikilink")》                                | 后公开MV 2nd Version                                        |                               |
+| Miracles In December/十二月的奇跡 | 《[Miracles In December](https://zh.wikipedia.org/wiki/EXO音樂作品列表 "wikilink")》      |                                                          |                               |
+| 2015年                       | Call Me Baby/叫我                                                                   | 《[EXODUS](../Page/EXODUS_\(EXO專輯\).md "wikilink")》       |                               |
+| LOVE ME RIGHT/漫游宇宙          | 《[LOVE ME RIGHT](../Page/EXODUS_\(EXO專輯\).md "wikilink")》                         |                                                          |                               |
+| Love Me Right               | 《Love Me Right\~romantic universe\~》                                              | 日語                                                       |                               |
+| LIGHTSABER/光劍               | 《[Sing For You](../Page/Sing_For_You.md "wikilink")》                              | 韓語/汉语/日语                                                 |                               |
+| Sing For You/為你而唱           |                                                                                   |                                                          |                               |
+| 2016年                       | Lucky One                                                                         | 《[EX'ACT](../Page/EX'ACT.md "wikilink")》                 |                               |
+| Monster                     |                                                                                   |                                                          |                               |
+| Lotto                       | 《[LOTTO](../Page/EX'ACT.md "wikilink")》                                           |                                                          |                               |
+| Dancing King                | [SM STATION](../Page/SM_STATION.md "wikilink")（與[劉在錫](../Page/劉在錫.md "wikilink")） | 韓語                                                       |                               |
+| Coming Over                 | 《Coming Over》                                                                     | 日語                                                       |                               |
+| For Life/一生一事               | 《[For Life](../Page/For_Life.md "wikilink")》                                      |                                                          |                               |
+| 2017年                       | Ko Ko Bop/叩叩趴                                                                     | 《[THE WAR](../Page/The_War.md "wikilink")》               |                               |
+| Power/超音力                   | 《[The War: The Power Of Music](../Page/The_War.md "wikilink")》                    |                                                          |                               |
+| Universe/為心導航               | 《[Universe](../Page/Universe_\(EXO迷你專輯\).md "wikilink")》                          |                                                          |                               |
+| 2018年                       | Electric Kiss                                                                     | 《COUNTDOWN》                                              | 日語                            |
+| Tempo/節奏                    | 《[Don't Mess Up My Tempo](../Page/Don't_Mess_Up_My_Tempo.md "wikilink")》          |                                                          |                               |
+| Love Shot/宣告                | 《[LOVE SHOT](../Page/Don't_Mess_Up_My_Tempo.md "wikilink")》                       |                                                          |                               |
+| 2019年                       | Obsession                                                                         | 《[OBSESSION](../Page/OBSESSION_\(EXO專輯\).md "wikilink")》 | 韓語                            |
 
 ### EXO-K/EXO-M名义
 

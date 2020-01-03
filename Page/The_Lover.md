@@ -145,7 +145,7 @@
 
 ## 外部連結
 
-  - [韓國Mnet官方網站](http://tv.mnet.com/program/1442)
+  - [韓國Mnet官方網站](https://web.archive.org/web/20150322144542/http://tv.mnet.com/program/1442)
 
   -
   -

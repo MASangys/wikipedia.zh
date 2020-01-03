@@ -1021,7 +1021,7 @@
 
 [Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:2010年代特摄作品](https://zh.wikipedia.org/wiki/Category:2010年代特摄作品 "wikilink") [Category:2014年中國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年中國電視劇集 "wikilink") [Category:外星生命題材電視劇](https://zh.wikipedia.org/wiki/Category:外星生命題材電視劇 "wikilink")
 
-1.  [电视剧拍摄制作备案公示表](http://dsj.sarft.gov.cn/tims/site/views/applications/note/noteTable.shanty?id=01433825fbd71fec4028e4a1426fb0f1) 国家广播电影电视总局-电视剧电子政务平台
+1.  [电视剧拍摄制作备案公示表](http://dsj.sarft.gov.cn/tims/site/views/applications/note/noteTable.shanty?id=01433825fbd71fec4028e4a1426fb0f1)  国家广播电影电视总局-电视剧电子政务平台
 2.  和第一作戰狼衛的唱名相同。
 3.  在第三十八集，「Space龍虎擊」接近
 4.  在第三十八集曾誤寫成“烈日防護壁”。

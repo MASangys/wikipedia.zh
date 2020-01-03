@@ -27,11 +27,11 @@
 
 ## 开发
 
-[Fireemblemfates.svg](https://zh.wikipedia.org/wiki/File:Fireemblemfates.svg "fig:Fireemblemfates.svg")
+[Fire_Emblem_if_Japanese_logo.png](https://zh.wikipedia.org/wiki/File:Fire_Emblem_if_Japanese_logo.png "fig:Fire_Emblem_if_Japanese_logo.png") [Fireemblemfates.svg](https://zh.wikipedia.org/wiki/File:Fireemblemfates.svg "fig:Fireemblemfates.svg")
 
 制作人山上仁治提出，在系列首作《[暗黑龙与光之剑](../Page/火焰之纹章_暗黑龙与光之剑.md "wikilink")》中，有一个章节让玩家在两个角色之间只能选择一个加入自己的军队。但因为当时FC卡带容量的限制，不管选择哪个角色故事的行进都是相同的，他非常希望可以选择另一条路线来展开故事。从这个想法发散开来，开发团队希望可以让玩家自己选择从属于A国或是B国，甚至选择不从属于任何一个国家的第三条道路。同时他们也认为对玩家来说思考选择购买双版本游戏的哪个版本也是一种乐趣。但是要创作出三条路线不同的故事，其工作量也是显而易见的，于是他们找到了[树林伸来创作剧本](../Page/樹林伸.md "wikilink")。关于游戏中的地图，本来可以从不同国家的角度重复利用相同的地图，但最后还是分别创作了不同国家的地图。 \[5\]
 
-本作的主题曲 《if～ひとり思う～》由日本女歌手莲花演唱。
+本作的主题曲《》由日本女歌手莲花演唱。
 
 ## 评价
 

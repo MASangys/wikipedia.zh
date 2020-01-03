@@ -375,7 +375,7 @@
 
 1.  [김재중 스파이 출연 확정...'어떤 역할 맡았나?'](http://wowstar.wowtv.co.kr/news/view.asp?newsid=48361)  한국경제TV
 2.  [배종옥-유오성, KBS ‘스파이’ 출연확정..명품배우 라인업](http://www.newsen.com/news_view.php?uid=201411250953097410) Newsen
-3.  \[<http://www.tvreport.co.kr/?c=news&m=newsview&idx=624189>, YG 소속 모델 이하은, KBS2 '스파이'로 연기자 신고식 \] TVREPORT
+3.  \[<http://www.tvreport.co.kr/?c=news&m=newsview&idx=624189>, YG 소속 모델 이하은, KBS2 '스파이'로 연기자 신고식 \]  TVREPORT
 4.  [조달환, KBS '스파이' 합류…김재중과 호흡](http://www.tvreport.co.kr/?c=news&m=newsview&idx=618369) TVREPORT
 5.  [조달환, KBS '스파이' 합류…김재중과 호흡](http://www.tvreport.co.kr/?c=news&m=newsview&idx=618369) TVREPORT
 6.  [채수빈, '스파이' 합류…김재중·유오성과 호흡](http://osen.mt.co.kr/article/G1110029603) OSEN

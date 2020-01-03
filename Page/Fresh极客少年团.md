@@ -1,7 +1,7 @@
 > 本文内容由[Fresh极客少年团](https://zh.wikipedia.org/wiki/Fresh极客少年团)转换而来。
 
 
-**fresh极客少年团**，是[尚雯婕](../Page/尚雯婕.md "wikilink")工作室[黑金时尚于](https://zh.wikipedia.org/wiki/黑金时尚 "wikilink")2014年10月13日推出的一支[中国新生代偶像男子](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]音乐团体\[2\]，由马尔辰、[侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")、[曾舜晞](../Page/曾舜晞.md "wikilink")、万翔和李昂洋5位成员组成。2015年10月9日，曾舜晞退出组合，个人发展 。2016年1月10日侯明昊和李昂洋退出组合，並加入李歌洋。
+**fresh极客少年团**，是[尚雯婕](../Page/尚雯婕.md "wikilink")工作室[黑金时尚于](https://zh.wikipedia.org/wiki/黑金时尚 "wikilink")2014年10月13日推出的一支[中国新生代偶像男子音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]\[2\]，由马尔辰、[侯明昊](https://zh.wikipedia.org/wiki/侯明昊 "wikilink")、[曾舜晞](../Page/曾舜晞.md "wikilink")、万翔和李昂洋五位成员组成。2015年10月9日，曾舜晞退出组合，單飛发展。2016年1月10日侯明昊和李昂洋也退出组合，並加入李歌洋。
 
 ## 主要经历
 

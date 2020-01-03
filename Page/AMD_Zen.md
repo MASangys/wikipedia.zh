@@ -98,6 +98,8 @@ Zen+微架構的處理器使用了[GlobalFoundries的](https://zh.wikipedia.org/
 
 ## [Zen 2](../Page/Zen_2微架構.md "wikilink")
 
+首批採用Zen 2微架構的CPU產品於2019年7月發表，Zen 2顯著改善了效能。
+
 ## 相關
 
   - [AMD Zen+架構](https://zh.wikipedia.org/wiki/AMD_Zen+架構 "wikilink")

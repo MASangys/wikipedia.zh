@@ -845,7 +845,7 @@ UPBH-20188/9</p></td>
 
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:義大利裔日本人](https://zh.wikipedia.org/wiki/Category:義大利裔日本人 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:美國裔日本人](https://zh.wikipedia.org/wiki/Category:美國裔日本人 "wikilink") [Category:義大利裔美國人](https://zh.wikipedia.org/wiki/Category:義大利裔美國人 "wikilink") [Category:節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:節奏藍調歌手 "wikilink") [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:鹿兒島縣出身人物](https://zh.wikipedia.org/wiki/Category:鹿兒島縣出身人物 "wikilink") [Category:義大利裔日本人](https://zh.wikipedia.org/wiki/Category:義大利裔日本人 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:美國裔日本人](https://zh.wikipedia.org/wiki/Category:美國裔日本人 "wikilink") [Category:義大利裔美國人](https://zh.wikipedia.org/wiki/Category:義大利裔美國人 "wikilink") [Category:節奏藍調歌手](https://zh.wikipedia.org/wiki/Category:節奏藍調歌手 "wikilink") [Category:洛杉磯人](https://zh.wikipedia.org/wiki/Category:洛杉磯人 "wikilink") [Category:英語歌手](https://zh.wikipedia.org/wiki/Category:英語歌手 "wikilink") [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
 2.

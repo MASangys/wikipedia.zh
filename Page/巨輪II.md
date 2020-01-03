@@ -389,7 +389,7 @@ Michelle Fabio之專屬時裝設計師<br />
 <td><p>1990年至2015年</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/赵永洪" title="wikilink">赵永洪</a></strong></p></td>
+<td><p><strong><a href="../Page/趙永洪.md" title="wikilink">趙永洪</a></strong></p></td>
 <td><p><strong>姚浩天</strong></p></td>
 <td><p><strong>阿天</strong><br />
 姚亨之侄子<br />
@@ -2401,7 +2401,7 @@ Noon之表哥<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/梁茵_(演員).md" title="wikilink">梁　茵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁茵_(香港)" title="wikilink">梁　茵</a></p></td>
 <td><p>骨　妹</p></td>
 <td></td>
 <td></td>
@@ -2782,7 +2782,7 @@ Noon之表哥<br />
 
 ### 劇情
 
-本劇首播前三週，平均收視下跌至20.8點，更被狠批不如前一輯，劇情拖沓，節奏緩慢，更有不少觀眾及網民要求腰斬此劇\[7\]\[8\]。不過根據劇情預告，高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）對養女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）疑似發展父女曖昧，甚至從第31集開始出現強暴戲等大尺度劇情，引發觀眾及網民直指「《巨輪II》變[亂倫](https://zh.wikipedia.org/wiki/亂倫 "wikilink")」\[9\]。本劇更是繼《[金枝慾孽貳](https://zh.wikipedia.org/wiki/金枝慾孽貳 "wikilink")》以來，再一次「收視低迷」的續集 (該劇收視率平均只有20點左右，最低更一度只有19點)。
+本劇首播前三週，平均收視下跌至20.8點，更被狠批不如前一輯，劇情拖沓，節奏緩慢，更有不少觀眾及網民要求腰斬此劇\[7\]\[8\]。不過根據劇情預告，高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）對養女高伊娜（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）疑似發展父女曖昧，甚至從第31集開始出現強暴戲等大尺度劇情，引發觀眾及網民直指「《巨輪II》變[亂倫](https://zh.wikipedia.org/wiki/亂倫 "wikilink")」\[9\]。值得一提的是，本劇更是繼《[金枝慾孽貳](https://zh.wikipedia.org/wiki/金枝慾孽貳 "wikilink")》以來，再一次「收視低迷」的續集（該劇收視率平均只有20點左右，最低更一度只有19點）。
 
 ### 5集大結局
 
@@ -2804,7 +2804,7 @@ Noon之表哥<br />
 
 ### 大結局
 
-  - 《巨輪II》最終於第39集結局中交待高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）最終落網入獄，但沒有明言高天鷲的最終下場；而高天鷲的養女Nana（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）與Wing（[李佳芯飾](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")）及母親沈美華（[梁琤](../Page/梁琤.md "wikilink")飾）亦去了日本沖繩散心，男主角羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）的終生大事未有定論；而羅威信與姚文英（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）在大結局中出現反面，文英更因為不認同羅威信報復高天鷲的手段而拆股，最終在龍飛（[阮兆祥](../Page/阮兆祥.md "wikilink")飾）說出文英的心聲，二人最後言和。有網媒、網民猜測[TVB也許會再添食](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝續集《巨輪III》\[28\]。但亦有網民批評大結局太草率，平平無奇，幾乎「爛尾」，繼《[金枝慾孽貳](https://zh.wikipedia.org/wiki/金枝慾孽貳 "wikilink")》後「表現欠佳」的續集。
+  - 《巨輪II》最終於第39集結局中交待高天鷲（[吳岱融](../Page/吳岱融.md "wikilink")飾）最終落網入獄，但沒有明言高天鷲的最終下場；而高天鷲的養女Nana（[陳凱琳飾](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")）與Wing（[李佳芯飾](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")）及母親沈美華（[梁琤](../Page/梁琤.md "wikilink")飾）亦去了日本沖繩散心，男主角羅威信（[蕭正楠](../Page/蕭正楠.md "wikilink")飾）的終生大事未有定論；而羅威信與姚文英（[田蕊妮](../Page/田蕊妮.md "wikilink")飾）在大結局中出現反面，文英更因為不認同羅威信報復高天鷲的手段而拆股，最終在龍飛（[阮兆祥](../Page/阮兆祥.md "wikilink")飾）說出文英的心聲，二人最後言和。有網媒、網民猜測[TVB也許會再添食](https://zh.wikipedia.org/wiki/TVB "wikilink")，拍攝續集《巨輪III》\[28\]。但亦有網民批評大結局太草率，平平無奇，幾乎「爛尾」，繼《[金枝慾孽貳](https://zh.wikipedia.org/wiki/金枝慾孽貳 "wikilink")》後「拍得太差」的續集。
   - 《巨輪II》大結局，平均收視33.3點，最高收視35.2點，成為自2014年以來最高收視的大結局。適逢當晚[颱風海馬襲港](https://zh.wikipedia.org/wiki/颱風海馬 "wikilink")，也帶挈了收視上升。 \[29\] \[30\]
 
 ## 記事
@@ -2850,7 +2850,7 @@ Noon之表哥<br />
 15. 前作女主角[鍾嘉欣因接拍](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")《[警犬巴打](https://zh.wikipedia.org/wiki/警犬巴打 "wikilink")》；前作男主角[陳展鵬因接拍](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《[城寨英雄](../Page/城寨英雄.md "wikilink")》，故兩者皆未能於該段期間出演《巨輪II》
 16. [鍾嘉欣被飛《巨輪ii》由陳凱琳擔大旗](https://hk.celebrity.yahoo.com/news/鍾嘉欣被飛《巨輪ii》由陳凱琳擔大旗-024633930.html)
 17. [【《巨輪II》劇透】陳展鵬鍾嘉欣「情侶配」網民期待](http://ol.mingpao.com/php/showbiz3.php?nodeid=1472628981825&subcate=latest&issue=20160831)
-18. [plem.com：巨輪II](http://wp.plem.com/?p=27455)
+18.
 19. [東方新地：《巨輪II》負評多 陳凱琳成箭靶](http://www.orientalsunday.hk/最新娛聞/《巨輪ii》負評多-陳凱琳成箭靶/)
 20. [陳展鵬、鍾嘉欣變配角 《巨輪2》竟然負評如潮？](http://www.nmplus.hk/enterainment/%E3%80%8A%E5%B7%A8%E8%BC%AA2%E3%80%8B%E9%96%8B%E6%92%AD%E8%B2%A0%E8%A9%95%E5%A6%82%E6%BD%AE/2/)
 21.

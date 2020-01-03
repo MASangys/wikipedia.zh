@@ -35,6 +35,7 @@ Beyond同時亦錄製了日文版的[單曲](https://zh.wikipedia.org/wiki/單�
   - [1993年度十大中文金曲頒獎典禮](../Page/第十六屆十大中文金曲得獎名單.md "wikilink")：「十大中文金曲」
   - [1993年度叱咤樂壇流行榜頒獎典禮](../Page/1993年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")：「叱咤樂壇我最喜愛的本地創作歌曲大獎」
   - 2010年華語金曲獎30年經典評選：「30年30歌」
+  - 2017年，文化信息周刊《[Time Out](../Page/Time_Out.md "wikilink")》評選廿大經典粵語流行曲，《海闊天空》排行第一\[11\]。
 
 ## 參考資料
 
@@ -50,3 +51,4 @@ Beyond同時亦錄製了日文版的[單曲](https://zh.wikipedia.org/wiki/單�
 8.  [Beyond挺！ 黃貫中與民眾唱「海闊天空」](http://news.ebc.net.tw/apps/newsList.aspx?id=1412131789) , [東森新聞](https://zh.wikipedia.org/wiki/東森新聞 "wikilink"), 2014/10/1
 9.  [「風雨中抱緊自由」 香港佔中大V隱秘發聲](http://m.ntdtv.com/xtr/mb5/2014/10/01/a1142560.html) , [新唐人電視台](../Page/新唐人電視台.md "wikilink"), 2014年10月1日
 10.
+11.

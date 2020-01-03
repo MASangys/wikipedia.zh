@@ -168,7 +168,7 @@
 <td><p>2019年</p></td>
 <td><p><a href="../Page/偶像夢幻祭.md" title="wikilink">偶像夢幻祭</a></p></td>
 <td></td>
-<td><p>7月－</p></td>
+<td><p>7月－12月</p></td>
 <td></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -176,9 +176,10 @@
 <tr class="even">
 <td><p><a href="../Page/炎炎消防隊.md" title="wikilink">炎炎消防隊</a></p></td>
 <td></td>
+<td><p>第一季：7月－12月<br />
+第二季：2020年7月－預定</p></td>
 <td><p>八瀨祐樹</p></td>
 <td><p>漫畫</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>

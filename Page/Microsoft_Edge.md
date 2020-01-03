@@ -5,7 +5,7 @@
 
 Microsoft Edge移除包括[ActiveX](../Page/ActiveX.md "wikilink")在内的一些過時且較不安全的技术，同时又加入一些新的拓展技術如：建立網頁筆記、[Cortana語音助理和](https://zh.wikipedia.org/wiki/Microsoft_Cortana "wikilink")[OneDrive](../Page/OneDrive.md "wikilink")，同时也提供功能和阅读模式功能。\[3\]
 
-2018年12月6日，微软宣布Microsoft Edge未来将基于[Chromium](../Page/Chromium.md "wikilink")开发，并将支持所有受支持的[Windows版本以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS等平台](https://zh.wikipedia.org/wiki/macOS "wikilink")\[4\]。基于[Chromium](../Page/Chromium.md "wikilink")开发的Microsoft Edge分为（Beta Channel,Dev Channel和Canary Channel）\[5\]。Chromium版預計2020年1月15日正式釋出。\[6\]
+2018年12月6日，微软宣布Microsoft Edge未来将基于[Chromium](../Page/Chromium.md "wikilink")开发，并将支持所有受支持的[Windows版本以及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[macOS等平台](https://zh.wikipedia.org/wiki/macOS "wikilink")\[4\]。基于[Chromium](../Page/Chromium.md "wikilink")开发的Microsoft Edge測試版分为（Beta Channel,Dev Channel和Canary Channel）\[5\]。Chromium正式版預計2020年1月15日正式釋出。\[6\]
 
 ## 特色
 

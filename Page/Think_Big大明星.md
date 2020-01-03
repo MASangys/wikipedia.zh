@@ -56,54 +56,14 @@ PlotData =
 
 </timeline> Note: 上述日期只計算正式任期，並非以嘉賓身分登場之日期
 
-<table>
-<thead>
-<tr class="header">
-<th><p>姓名</p></th>
-<th><p>暱稱[5]</p></th>
-<th><p>首次亮相日期</p></th>
-<th><p>最後亮相日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/余德丞.md" title="wikilink">余德丞</a>（Dickson）</p></td>
-<td><p>Dickson</p></td>
-<td><p>2015年1月17日</p></td>
-<td><p>2015年10月17日</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/林希靈.md" title="wikilink">林希靈</a>（Agnes）</p></td>
-<td><p>希靈</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/黃愷怡.md" title="wikilink">黃愷怡</a>（Jasmin）</p></td>
-<td><p>Jasmin</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/黃碧蓮.md" title="wikilink">黃碧蓮</a>（Linna）</p></td>
-<td><p>Linna</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/李雯希.md" title="wikilink">李雯希</a>（Simon）</p></td>
-<td><p>雯希</p></td>
-<td><p>2015年6月6日</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>（Nicholas）</p></td>
-<td><p>Nic</p></td>
-<td><p>2015年8月29日</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 姓名                                         | 暱稱\[5\] | 首次亮相日期     | 最後亮相日期      |
+| ------------------------------------------ | ------- | ---------- | ----------- |
+| [余德丞](../Page/余德丞.md "wikilink")（Dickson）  | Dickson | 2015年1月17日 | 2015年10月17日 |
+| [林希靈](../Page/林希靈.md "wikilink")（Agnes）    | 希靈      |            |             |
+| [黃愷怡](../Page/黃愷怡.md "wikilink")（Jasmin）   | Jasmin  |            |             |
+| [黃碧蓮](../Page/黃碧蓮.md "wikilink")（Linna）    | Linna   |            |             |
+| [李雯希](../Page/李雯希.md "wikilink")（Simon）    | 雯希      | 2015年6月6日  |             |
+| [阮浩棕](../Page/阮浩棕.md "wikilink")（Nicholas） | Nic     | 2015年8月29日 |             |
 
 ## 賽程紀錄
 
@@ -540,6 +500,6 @@ PlotData =
 
 1.
 2.  [《Think Big天地》大變身 新布景．新主持](http://www.tvbusa.com/%E3%80%8Athink-big%E5%A4%A9%E5%9C%B0%E3%80%8B%E5%A4%A7%E8%AE%8A%E8%BA%AB-%E6%96%B0%E5%B8%83%E6%99%AF%EF%BC%8E%E6%96%B0%E4%B8%BB%E6%8C%81/)
-3.  [Think BIG大明星 - 許俊](http://sunnywongdance.hk/2015/03/think-big%E5%A4%A7%E6%98%8E%E6%98%9F-%E8%A8%B1%E4%BF%8A/)
+3.
 4.  [TVB「巨胸小鮮肉」Dickson餘德承！](http://www.springunion.com/article/498CDF1B4960476D.html)
 5.  \[<https://www.youtube.com/watch?v=yZPTL4BabrM>　Think Big 宣傳片\]

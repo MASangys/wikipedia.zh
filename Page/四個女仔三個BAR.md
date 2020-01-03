@@ -505,7 +505,7 @@ Lawrence之妻、育有一子</p></td>
 <td><p>法官</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/于洋_(香港藝人).md" title="wikilink">-{于}-　洋</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/于洋_(香港)" title="wikilink">-{于}-　洋</a></p></td>
 <td><p>-{于}-　官</p></td>
 <td></td>
 </tr>

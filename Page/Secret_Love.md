@@ -49,8 +49,7 @@
 <td><center>
 <p><strong>Episode 2<br />
 第13號遺願清單</strong></p></td>
-<td><center>
-<p><a href="https://zh.wikipedia.org/wiki/荷拉" title="wikilink">荷拉</a></p></td>
+<td><center></td>
 <td><center>
 <p>李賢靜'''</p></td>
 <td><p>被誤診為癌症末期，只剩3個月的她為了不讓她的人生有所遺憾，列了一項清單並努力的實踐，在濟州島碰到想尋死的俊文，深怕他自殺一路跟隨他。</p></td>

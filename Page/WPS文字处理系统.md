@@ -47,6 +47,6 @@ PUC-Super汉卡 操作指南 快速入门
 
 ## 外部链接
 
-<http://soft.yesky.com/office/184/2110184.shtml>
+<https://web.archive.org/web/20150122171350/http://soft.yesky.com/office/184/2110184.shtml>
 
 [Category:办公室自动化软件](https://zh.wikipedia.org/wiki/Category:办公室自动化软件 "wikilink") [Category:专有软件](https://zh.wikipedia.org/wiki/Category:专有软件 "wikilink")

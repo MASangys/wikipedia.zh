@@ -141,7 +141,7 @@ ELTA愛爾達體育台節目主持人。<br />
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/凱莉絲" title="wikilink">凱莉絲</a></p></td>
-<td style="text-align: left;"><p>洪-{于}-晴</p></td>
+<td style="text-align: left;"></td>
 <td style="text-align: left;"><p>Divas第一代四大元老成員之一。<br />
 曾於2007年隨隊出征日本東京巨蛋、參與亞洲職棒大賽演出。<br />
 2008年離隊。<br />

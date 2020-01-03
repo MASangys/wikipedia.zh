@@ -32,7 +32,7 @@
 
 [Category:2013年面世的交通工具](https://zh.wikipedia.org/wiki/Category:2013年面世的交通工具 "wikilink")
 
-1.  [First drive of Euro 6 Wrightbus Gemini 3-bodied Volvo B5TL](http://www.route-one.net/vehicles/test-drives/first-drive-euro-6-wrightbus-gemini-bodied-volvo-b5tl/)，Route One Magazine，25 June 2014
+1.  [First drive of Euro 6 Wrightbus Gemini 3-bodied Volvo B5TL](http://www.route-one.net/vehicles/test-drives/first-drive-euro-6-wrightbus-gemini-bodied-volvo-b5tl/) ，Route One Magazine，25 June 2014
 2.  [Weight watchers on tour](http://www.transportengineer.org.uk/transport-engineer-features/weight-watchers-on-tour/49794)，Transport Engineer，8 May 2013
 3.  [Lothian orders first Euro 6 double deck buses from Wrightbus after successful trial](http://www.eurotransportmagazine.com/14101/news/industry-news/lothian-orders-first-euro-6-double-deck-buses-from-wrightbus-after-successful-trial/#.VI5oa8mfbTU)，Euro Transport Magazine，27 May 2014
 4.  [Lothian Buses place order for 25 new buses](http://lothianbuses.com/news/article/lothian-buses-place-order-for-25-new-buses)  Lothian Buses 22 May 2014

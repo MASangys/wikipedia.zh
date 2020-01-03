@@ -9,6 +9,8 @@
 
 本展覽在宣傳方面標榜為日本元祖級動漫盛事，其標題「C3」之意則為人物（Character）、文化（Culture）及內容（Content）。主要活動包括來自日本原裝版權公司發售最新商品、介紹新作品情報和透示展品，以及日本動漫歌手、聲優、作者和偶像親臨現場，出席簽名會、[音樂會和分享會等](https://zh.wikipedia.org/wiki/音樂會 "wikilink")。主辦單位亦有為角色扮演人士設立專區及舉辦比賽「Cosplay大激鬥」，當中比賽於2014年成為[世界Cosplay高峰會](../Page/世界Cosplay高峰會.md "wikilink")香港區預賽。近年亦有舉辦傾向較年少對象的活動「兒童繪畫大召集」。2015年，展覽舉辨～Anisong World Tour～Lantis Festival 2015 in Hong Kong。
 
+2020年，由於香港的[反對逃犯條例修訂草案運動](../Page/反對逃犯條例修訂草案運動.md "wikilink")依然未有緩和跡象，因此主辦單位以安全理由而取消，亦是C3AFA首次取消展覽。
+
 ## 香港展票務安排
 
 本展覽的入場門票價格一直維持在30[港元](../Page/港元.md "wikilink")\[1\]。2015年開始推行新票務安排，在展館現場購票須付港幣$35\[2\]，但預售票則維持在港幣$30。
@@ -17,19 +19,90 @@
 
 ## 舉辦資料
 
-| 屆數 | 年份    | 日期                               | 地點                                                                               |
-| -- | ----- | -------------------------------- | -------------------------------------------------------------------------------- |
-| 1  | 2009年 | 4月24日－4月26日                      | [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")匯星廳及3樓演講廳                            |
-| 2  | 2011年 | 3月11日－3月13日                      | [香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")3號F及G展廳                                |
-| 3  | 2012年 | 3月9日－3月11日                       | 香港會議展覽中心3號BCD展廳                                                                  |
-| 4  | 2013年 | 3月15日－3月17日                      | 香港會議展覽中心5號F及G展廳                                                                  |
-| 5  | 2014年 | 3月14日－3月16日                      | 香港會議展覽中心3號B、C及D展廳                                                                |
-| 6  | 2015年 | 2月6日－2月8日                        | 香港會議展覽中心3號B、C及D展廳                                                                |
-| 7  | 2016年 | 2月19日－2月21日                      | 香港會議展覽中心1號A、B、C及D展廳                                                              |
-| 8  | 2017年 | 2月10日－2月12日                      | 香港會議展覽中心3號B、C、D及E展廳                                                              |
-| 9  | 2018年 | 2月9日－2月11日、I LOVE ANISONG：2月11日  | 香港會議展覽中心1號A、B、C及D展廳、I LOVE ANISONG：[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")11號展館 |
-| 10 | 2019年 | 2月22日－2月24日、I LOVE ANISONG：2月23日 | 香港會議展覽中心1號A、B、C及D展廳                                                              |
-|    |       |                                  |                                                                                  |
+<table>
+<thead>
+<tr class="header">
+<th><p>屆數</p></th>
+<th><p>年份</p></th>
+<th><p>日期</p></th>
+<th><p>地點</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>2009年</p></td>
+<td><p>4月24日－4月26日</p></td>
+<td><p><a href="../Page/九龍灣國際展貿中心.md" title="wikilink">九龍灣國際展貿中心</a>匯星廳及3樓演講廳</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2011年</p></td>
+<td><p>3月11日－3月13日</p></td>
+<td><p><a href="../Page/香港會議展覽中心.md" title="wikilink">香港會議展覽中心</a>3號F及G展廳</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2012年</p></td>
+<td><p>3月9日－3月11日</p></td>
+<td><p>香港會議展覽中心3號BCD展廳</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2013年</p></td>
+<td><p>3月15日－3月17日</p></td>
+<td><p>香港會議展覽中心5號F及G展廳</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2014年</p></td>
+<td><p>3月14日－3月16日</p></td>
+<td><p>香港會議展覽中心3號B、C及D展廳</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2015年</p></td>
+<td><p>2月6日－2月8日</p></td>
+<td><p>香港會議展覽中心3號B、C及D展廳</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>2016年</p></td>
+<td><p>2月19日－2月21日</p></td>
+<td><p>香港會議展覽中心1號A、B、C及D展廳</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2017年</p></td>
+<td><p>2月10日－2月12日</p></td>
+<td><p>香港會議展覽中心3號B、C、D及E展廳</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>2018年</p></td>
+<td><p>2月9日－2月11日、I LOVE ANISONG：2月11日</p></td>
+<td><p>香港會議展覽中心1號A、B、C及D展廳、I LOVE ANISONG：<a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a>11號展館</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2019年</p></td>
+<td><p>2月22日－2月24日、I LOVE ANISONG：2月23日</p></td>
+<td><p>香港會議展覽中心1號A、B、C及D展廳</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2020年</p></td>
+<td><p>原定於2月14日－2月16日舉行，但因香港社會形勢問題而取消[4]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 活動嘉賓
 
@@ -106,6 +179,12 @@ I LOVE ANISONG：<a href="https://zh.wikipedia.org/wiki/fhána" title="wikilink"
 </tr>
 <tr class="odd">
 <td></td>
+<td><p>2020年</p></td>
+<td><p>因香港社會形勢問題而取消</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -124,3 +203,4 @@ I LOVE ANISONG：<a href="https://zh.wikipedia.org/wiki/fhána" title="wikilink"
 1.
 2.
 3.
+4.
