@@ -92,14 +92,14 @@
 
   - [《劇場版 SPEC～天～》特集](http://www.tsutaya.co.jp/cinema/ms/spec/) - [连锁零售店“TSUTAYA”网介绍](../Page/Culture_Convenience_Club.md "wikilink")
 
-  - [《劇場版 SPEC～天～》户田惠梨香＆加濑亮　独家专访](http://movies.yahoo.co.jp/interview/201204/interview_20120405001.html)
+  - [《劇場版 SPEC～天～》户田惠梨香＆加濑亮　独家专访](https://web.archive.org/web/20120409041448/http://movies.yahoo.co.jp/interview/201204/interview_20120405001.html)
 
 [Category:SPEC](https://zh.wikipedia.org/wiki/Category:SPEC "wikilink") [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:西荻弓繪劇本作品](https://zh.wikipedia.org/wiki/Category:西荻弓繪劇本作品 "wikilink")
 
 1.  [《SPEC》将被翻拍成美剧 加濑亮户田期待](http://yule.sohu.com/20120408/n340022764.shtml)
 2.  [戸田恵梨香、米国での『SPEC』リメイクに「なんで自分たちじゃないの？」 .](http://news.livedoor.com/article/detail/6448611/)
 3.  [spec_loc（公式Twitter）2011年11月16日の発言](https://twitter.com/spec_loc/status/136564902969085953) 2011年11月17日参照
-4.  [《SPEC：天》制作完成 户田惠梨香魅力黑裙抢镜](http://ent.people.com.cn/h/2012/0323/c226947-3191289963.html)
+4.
 5.  [戸田恵梨香「せりふを覚えられるSPECが欲しい！」 - News-gate](http://www.news-gate.jp/2012/0322/14/photo00.html)
 6.  [戸田＆加瀬『劇場版 SPEC～天～』の公開記念イベントに登場](http://cinema.pia.co.jp/news/157234/45628/?page=1)
 7.  [戸田恵梨香、映画PRイベントでなぜか餃子をアピール\!\!「わたしの手作りなのでぜひ」\!?](http://headlines.yahoo.co.jp/hl?a=20120306-00000017-flix-movi.view-000)

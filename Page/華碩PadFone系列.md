@@ -13,7 +13,7 @@ Asus Padfone最大特色是能將手機放入專屬的平板基座，使手機�
   - [PadFone 2](https://zh.wikipedia.org/wiki/華碩Padfone_2 "wikilink")
   - [PadFone E](https://zh.wikipedia.org/wiki/PadFone_E "wikilink")
   - [PadFone Infinity](https://zh.wikipedia.org/wiki/華碩Padfone_Infinity "wikilink")
-  - [The New Padfone Infinity](https://zh.wikipedia.org/wiki/華碩New_Padfone_Infinity "wikilink")
+  - [The new PadFone Infinity](../Page/華碩The_new_PadFone_Infinity.md "wikilink")
       - [Padfone Infinity Lite](https://zh.wikipedia.org/wiki/Padfone_Infinity_Lite "wikilink")
   - [PadFone Mini](https://zh.wikipedia.org/wiki/PadFone_Mini "wikilink")
       - [PadFone Mini 4.3](https://zh.wikipedia.org/wiki/PadFone_Mini_4.3 "wikilink")

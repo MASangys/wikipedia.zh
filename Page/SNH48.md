@@ -274,11 +274,15 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
   - 9月14日，于六周年庆公演上发表以下事项：
       - 公布4名升格为正式成员的十二期生；
       - SNH48 Team X全新公演《遗忘的国度》即将上演。
+  - 9月14日，發行第25張EP《[時間的歌](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#時間的歌 "wikilink")》。
   - 11月17日，于N队六周年庆公演上发表以下事项：
       - 公布周睿林自SNH48 Group海外練习生移籍至Team NII；
       - 公布1名十三期生升格至Team NII。
   - 11月29日，于S队六周年庆公演上发表以下事项：
       - 公布2名十三期生升格至Team SII。
+  - 12月12日，Team X舉行「遺失的國度」公演首演。
+  - 12月21日，在[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")[廣州體育館舉辦了](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")[SNH48 Group第六屆年度金曲大賞BEST 50](https://zh.wikipedia.org/wiki/SNH48_Group第六屆年度金曲大賞BEST_50 "wikilink")，並宣布[SNH48 Group第七屆總決選將首次移師廣州舉行](https://zh.wikipedia.org/wiki/SNH48_Group第七屆總決選 "wikilink")。
+  - 12月28日，發行第26張EP《[青春之翼](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#青春之翼 "wikilink")》。
 
 ## 成員名單
 
@@ -321,7 +325,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 #### Team NII（N队）
 
   - 代表色為紫色（R=190, G=152, B=199）。
-  - 成员22人。
+  - 成员21人。
   - 現任队长为易嘉愛，副隊長為何曉玉 。
 
 | Team NII                                                    |
@@ -329,7 +333,6 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 姓名                                                          |
 | 陈佳莹                                                         |
 | [冯薪朵](https://zh.wikipedia.org/wiki/冯薪朵 "wikilink")         |
-| [黄婷婷](../Page/黄婷婷.md "wikilink")                            |
 | 何晓玉                                                         |
 | 金莹玥                                                         |
 | 江真仪                                                         |
@@ -442,6 +445,7 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 赵晔                                                  |
 | 陈问言                                                 |
 | [龚诗淇](../Page/龚诗淇.md "wikilink")                    |
+| [黄婷婷](../Page/黄婷婷.md "wikilink")                    |
 | 郝婉晴                                                 |
 | 栾嘉仪                                                 |
 | 李美琪                                                 |
@@ -452,7 +456,6 @@ SNH48 Group除了SNH48以及其姐妹團外，另外也成立了多項組成計�
 | 周怡                                                  |
 | [曾艷芬](https://zh.wikipedia.org/wiki/曾艷芬 "wikilink") |
 | 张雅梦                                                 |
-| 徐晗                                                  |
 | 袁航                                                  |
 | 曾晓雯                                                 |
 | 李晶                                                  |
@@ -1336,6 +1339,16 @@ Team G</p></td>
 <td><p>2019年1月19日</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>徐晗</p></td>
+<td></td>
+<td></td>
+<td><p>3期</p></td>
+<td><p>Team HII</p></td>
+<td><p>2019年12月21日</p></td>
+<td><p>资料删除</p></td>
+<td><p>31</p></td>
 </tr>
 </tbody>
 </table>
@@ -2600,6 +2613,15 @@ Team X高崇进修结束，并加入SNH48 Group海外练习生<br />
 <td><p>89</p></td>
 <td><p>24</p></td>
 </tr>
+<tr class="even">
+<td><p>12月21日</p></td>
+<td><p>Team NII黄婷婷暂休<br />
+Team HII徐晗请辞</p></td>
+<td><p>-1</p></td>
+<td><p>134</p></td>
+<td><p>88</p></td>
+<td><p>24</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3127,7 +3149,7 @@ Team X高崇进修结束，并加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>徐晗</p></td>
 <td><p>3期</p></td>
-<td></td>
+<td><p>2019年12月21日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4663,6 +4685,16 @@ SNH11102630</p></td>
 重磅捐赠版</p></td>
 </tr>
 <tr class="odd">
+<td><p>26</p></td>
+<td><p>2019年12月28日</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#青春之翼" title="wikilink">青春之翼</a></strong>》</p></td>
+<td><p>CD<br />
+无</p></td>
+<td></td>
+<td><p>标准版<br />
+捐赠版</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -4832,8 +4864,40 @@ SNH000662</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>2018年9月5日</p></td>
+<td><p>2018年11月24日</p></td>
 <td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Team_G_3rd_Stage「雙面偶像」公演#SNH48_Team_Ft_2nd_Stage「雙面偶像」公演" title="wikilink">雙面偶像</a></strong>》</p></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
+<td><p>数码专辑</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2019年4月23日</p></td>
+<td><p>《<strong>Girl X</strong>》</p></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
+<td><p>数码专辑</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2019年5月13日</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Team_NII_7th_Stage「时之卷」公演" title="wikilink">时之卷</a></strong>》</p></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
+<td><p>数码专辑</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2019年6月15日</p></td>
+<td><p>《<strong>橘色奇迹</strong>》</p></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
+<td><p>数码专辑</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2019年12月12日</p></td>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Team_X_5th_Stage「遗忘的国度」公演" title="wikilink">遗忘的国度</a></strong>》</p></td>
 <td><p>/</p></td>
 <td><p>/</p></td>
 <td><p>数码专辑</p></td>
@@ -5218,7 +5282,7 @@ SNH000662</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月28日</p></td>
-<td><p>《<strong>一起8</strong>》</p></td>
+<td><p>《<strong>一起888</strong>》</p></td>
 <td><p>许佳琪、宋昕冉、费沁源、孙珍妮</p></td>
 <td><p>许佳琪</p></td>
 <td><p>「途虎养车」8周年广告宣传插曲</p></td>
@@ -5661,12 +5725,13 @@ SNH000662</p></td>
 
 ### 书籍
 
-| 發行年份  | 标题                  | 性质 | 状态  | 备注   |
-| ----- | ------------------- | -- | --- | ---- |
-| 2016年 | 《羽仙歌》               | 漫画 | 已完结 | 共18话 |
-| 2016年 | 《只有你听见——与SNH48一起生活》 | 漫画 | 已完结 | 共59话 |
-| 2018年 | 《重生计划》              | 小说 | 已完结 | 共16章 |
-| 2019年 | 《时之卷》               | 小说 | 连载中 |      |
+| 發行年份  | 标题                  | 性质  | 状态  | 备注   |
+| ----- | ------------------- | --- | --- | ---- |
+| 2016年 | 《羽仙歌》               | 漫画  | 已完结 | 共18话 |
+| 2016年 | 《只有你听见——与SNH48一起生活》 | 漫画  | 已完结 | 共59话 |
+| 2018年 | 《重生计划》              | 小说  | 已完结 | 共16章 |
+| 2019年 | 《时之卷》               | 小说  | 已完结 | 共16章 |
+| 2019年 | 《倾国策之西方有佳人》         | 有声书 | 连载中 |      |
 
 ## 演唱会
 
@@ -6939,7 +7004,7 @@ Team NII专场</p></td>
 
   - [星夢學院 官方網站](https://web.archive.org/web/20180212005002/http://snh48.thedream.cc/cs6/)
 
-  - [星夢想48 官方網站](http://star48.ddianle.com)
+  - [星夢想48 官方網站](https://web.archive.org/web/20180619121537/http://star48.ddianle.com/)
 
   - [48狼人殺 官方網站](http://lrs.48.cn)
 

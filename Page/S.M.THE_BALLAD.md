@@ -72,6 +72,7 @@
 | [Krystal](../Page/鄭秀晶.md "wikilink")                      | 크리스탈              | Krystal      | 鄭秀晶     |
 | 크리스탈 수 정                                                  | Chrystal Soo Jung |              |         |
 | [Chen](../Page/CHEN_\(EXO\).md "wikilink")                | 첸                 | Chen         | 金鍾大     |
+| [張力尹](https://zh.wikipedia.org/wiki/張力尹 "wikilink")       | 장리인               | Jang Ri In   | 張力尹     |
 |                                                           |                   |              |         |
 
 ## 音樂作品

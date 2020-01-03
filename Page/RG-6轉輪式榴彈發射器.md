@@ -91,7 +91,7 @@ RG-6採用了具有伸縮式[橡膠](../Page/橡膠.md "wikilink")底板[槍托]
 
 ## 參考文獻
 
-  - —《輕兵器》雜誌2011年5月上號：[俄罗斯RG-6榴弹发射器](http://www.qbq.com.cn/a/bencandy.php?fid=33&id=1605)
+  - —《輕兵器》雜誌2011年5月上號：[俄罗斯RG-6榴弹发射器](https://web.archive.org/web/20140225145001/http://www.qbq.com.cn/a/bencandy.php?fid=33&id=1605)
 
 ## 外部連結
 
