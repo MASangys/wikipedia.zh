@@ -3029,6 +3029,7 @@ myTV SUPER網上版2017年2月推出初期，只支援[Internet Explorer](../Pag
 
 ## 外部連結
 
+  - [TVB Anywhere官方網頁](https://www.youtube.com/c/TVBAnywhereLife)
   - [myTV SUPER網站](http://www.mytvsuper.com)
   - [Ani-one官方網頁](http://www.ani-one.com.hk/)
   - [Google Play《myTV SUPER》App下載](https://play.google.com/store/apps/details?id=com.tvb.mytvsuper)

@@ -102,7 +102,7 @@ UH-2原型機在2018年12月25日進行首次飛行測試。\[20\]\[21\]
 10. [2等陸佐2人を略式起訴](http://sankei.jp.msn.com/affairs/news/121220/crm12122017290013-n1.htm)
 11. [陸自ヘリ開発「白紙」 官製談合事件で小野寺防衛相 MSN](http://sankei.jp.msn.com/affairs/news/130111/crm13011114290014-n1.htm)
 12. [次世代ヘリ白紙化も、尖閣防衛に影響](http://sankei.jp.msn.com/affairs/news/121221/crm12122100070000-n1.htm)
-13. [川崎重工業株式会社に対する指名停止の措置について](http://www.mod.go.jp/j/press/news/2013/07/31e.html)（防衛省報道資料）
+13. [川崎重工業株式会社に対する指名停止の措置について](http://www.mod.go.jp/j/press/news/2013/07/31e.html) （防衛省報道資料）
 14. [防衛省、UH-X新規国内開発を断念か？](http://flyteam.jp/news/article/34908)
 15. Jウイング 2015年 4月号
 16. [Airbus Offers X4 For Japanese Army UH-X](http://aviationweek.com/defense/airbus-offers-x4-japanese-army-uh-x)

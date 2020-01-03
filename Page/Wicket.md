@@ -173,7 +173,7 @@ public class HelloWorldApplication extends WebApplication {
   - [Wicket框架一瞥](http://ensode.net/wicket_first_look.html)
   - [关于Wicket 1.0的服务器端讨论](http://www.theserverside.com/news/thread.tss?thread_id=34725)
   - [服务器端讨论](http://www.theserverside.com/news/thread.tss?thread_id=28162)
-  - [Javalobby采访Martijn Dashorst（项目主席）](http://www.javalobby.org/java/forums/t105230.html)
+  - [Javalobby采访Martijn Dashorst（项目主席）](https://web.archive.org/web/20080905044933/http://www.javalobby.org/java/forums/t105230.html)
   - [Martijn Dashorst讲Wicket](https://web.archive.org/web/20111002080831/http://www.viddler.com/explore/oredev/videos/61/)
 
 ### 博客

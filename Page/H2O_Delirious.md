@@ -7,7 +7,7 @@
 
 ### 影片類型
 
-H2O Delirious的影片大多數是他與其他[Youtuber遊戲的過程](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，以蒙太奇的方式把一段一段的對話或有趣的時刻剪接成一支影片。
+H2O Delirious的影片大多數是他與其他[Youtuber遊戲的過程](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，以蒙太奇的方式把一段一段的對話或有趣的時刻剪接成一支影片。H2O Delirious同時以其異常的笑聲和對泰迪熊的喜愛而聞名。
 
 ### 頻道
 

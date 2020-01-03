@@ -1,20 +1,20 @@
 > 本文内容由[Wendy \(Red Velvet\)](https://zh.wikipedia.org/wiki/Wendy_\(Red_Velvet\))转换而来。
 
 
-[SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |IMDb=9364488 }}  **孫勝完**\[1\]\[2\]（，，），曾用譯名為**孫承歡**\[3\]，藝名**Wendy**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")，現為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。
+[SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") | IMDb = 9364488 }}  **孫承完**\[1\]\[2\]\[3\]（，，），曾用譯名為**孫承歡**\[4\]，藝名**Wendy**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")，現為[SM娛樂](../Page/SM娛樂.md "wikilink")旗下的五人女子組合[Red Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ## 早年生活與教育程度
 
-**孫勝完**於1994年2月21日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[城北區城北洞](https://zh.wikipedia.org/wiki/城北區 "wikilink")，屬於首爾高尚半山住宅區，當時就讀堤川中心小學。因姐姐孫勝希（音譯）的關係，小學5年級時便獨自留學在[加拿大](../Page/加拿大.md "wikilink")\[4\]\[5\]\[6\]，之后孫勝完的家人從韓國移民至[加拿大](../Page/加拿大.md "wikilink")的[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。\[7\]\[8\]由於家人都是喜愛音樂，孫勝完從5歲時就有要當[歌手](../Page/歌手.md "wikilink")的夢想。\[9\]除了她对歌唱的热情，她还能够演奏几种乐器，包括[钢琴](../Page/钢琴.md "wikilink")，[吉他](../Page/吉他.md "wikilink")，[长笛](../Page/长笛.md "wikilink")和[萨克斯風](https://zh.wikipedia.org/wiki/萨克斯風 "wikilink")。\[10\]
+**孫承完**於1994年2月21日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾特別市](https://zh.wikipedia.org/wiki/首爾特別市 "wikilink")[城北區城北洞](https://zh.wikipedia.org/wiki/城北區 "wikilink")，屬於首爾高尚半山住宅區，當時就讀堤川中心小學。因姐姐孫勝希（音譯）的關係，小學5年級時便獨自留學在[加拿大](../Page/加拿大.md "wikilink")\[5\]\[6\]\[7\]，之后孫承完的家人從韓國移民至[加拿大](../Page/加拿大.md "wikilink")的[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")。\[8\]\[9\]由於家人都是喜愛音樂，孫承完從5歲時就有要當[歌手](../Page/歌手.md "wikilink")的夢想。\[10\]除了她对歌唱的热情，她还能够演奏几种乐器，包括[钢琴](../Page/钢琴.md "wikilink")，[吉他](../Page/吉他.md "wikilink")，[长笛](../Page/长笛.md "wikilink")和[萨克斯風](https://zh.wikipedia.org/wiki/萨克斯風 "wikilink")。\[11\]
 
-留學時期，孫勝完住在[安大略省](../Page/安大略省.md "wikilink")的[布罗克维尔](https://zh.wikipedia.org/wiki/布罗克维尔 "wikilink")，然後前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[法里博的](https://zh.wikipedia.org/wiki/法里博_\(明尼蘇達州\) "wikilink")就讀。她以“Wendy Shon”的身份留學，凴自己的成績獲得許多榮耀，成爲一名榮譽生。她也曾參加籃球、[曲棍球](../Page/草地曲棍球.md "wikilink")，也是女子[高爾夫球](../Page/高爾夫球.md "wikilink")團員，其中四位隊友是女子冰球聯盟（NWHL）職業球員，而當中一位是在[2018年平昌奧運會獲得金牌的美國](../Page/2018年冬季奥林匹克运动会.md "wikilink")[冰球](../Page/冰球.md "wikilink")國手。\[11\]<ref>
+留學時期，孫承完住在[安大略省](../Page/安大略省.md "wikilink")的[布罗克维尔](https://zh.wikipedia.org/wiki/布罗克维尔 "wikilink")，然後前往[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[法里博的](https://zh.wikipedia.org/wiki/法里博_\(明尼蘇達州\) "wikilink")就讀。她以“Wendy Shon”的身份留學，凴自己的成績獲得許多榮耀，成爲一名榮譽生。她也曾參加籃球、[曲棍球](../Page/草地曲棍球.md "wikilink")，也是女子[高爾夫球](../Page/高爾夫球.md "wikilink")團員，其中四位隊友是女子冰球聯盟（NWHL）職業球員，而當中一位是在[2018年平昌奧運會獲得金牌的美國](../Page/2018年冬季奥林匹克运动会.md "wikilink")[冰球](../Page/冰球.md "wikilink")國手。\[12\]<ref>
 
   -
   -
   -
-  - </ref>後來，孫勝完就讀于加拿大安大略[列治文山](../Page/列治文山.md "wikilink")的，並參加了學校的合唱團“Vocal Fusion”。\[12\]
+  - </ref>後來，孫承完就讀于加拿大安大略[列治文山](../Page/列治文山.md "wikilink")的，並參加了學校的合唱團“Vocal Fusion”。\[13\]
 
-因爲長期往美國和加拿大兩個國家來回，孫勝完不僅擅長[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，也熟悉[西班牙語和](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")。\[13\]她也為了《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》奧地利站而自學[德語](../Page/德语.md "wikilink")。
+因爲長期往美國和加拿大兩個國家來回，孫承完不僅擅長[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，也熟悉[西班牙語和](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")。\[14\]她也為了《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》奧地利站而自學[德語](../Page/德语.md "wikilink")。
 
 ## 演藝經歷
 
@@ -22,15 +22,17 @@
 
 2010年，Wendy參與了[Cube娛樂](../Page/Cube娛樂.md "wikilink")的選拔“Koreaboo:Cube Entertainment Global Auditions 2011”以排名第14名進入決賽。她也曾參與YG娛樂選拔。
 
-2012年，Wendy通過SM娛樂舉辦的全球徵選（加拿大）而成為練習生，面試歌曲：[金健模](https://zh.wikipedia.org/wiki/金健模 "wikilink")－《首爾的月亮》\[14\]，能說一口流利的英語，並具備非凡的演奏實力和卓越的歌唱實力，能吹長笛、薩克斯風、吉他演奏。\[15\]\[16\]
+2012年，Wendy通過SM娛樂舉辦的全球徵選（加拿大）而成為練習生，面試歌曲：[金健模](https://zh.wikipedia.org/wiki/金健模 "wikilink")－《首爾的月亮》\[15\]，能說一口流利的英語，並具備非凡的演奏實力和卓越的歌唱實力，能吹長笛、薩克斯風、吉他演奏。\[16\]\[17\]
 
-2014年3月13日，SM娛樂公開Wendy為[SM ROOKIES的一員](../Page/SM_ROOKIES.md "wikilink")。\[17\]3月14日，為《[MiMi](../Page/MiMi.md "wikilink")》電視劇演唱OST《在悲傷中將你抹去》。
+2014年3月13日，SM娛樂公開Wendy為[SM ROOKIES的一員](../Page/SM_ROOKIES.md "wikilink")。\[18\]3月14日，為《[MiMi](../Page/MiMi.md "wikilink")》電視劇演唱OST《在悲傷中將你抹去》。
 
 ### 出道後
 
-2014年8月1日，以英文名**WENDY**作爲Red Velvet成員出道，隊内擔當為第一主唱、形象。出道時其實聲帶結繭。\[18\]自2015年，也有以個人身份，與其他藝人合作演唱。
+2014年8月1日，以英文名**WENDY**作爲Red Velvet成員出道，隊内擔當為第一主唱、形象。出道時其實聲帶結繭。\[19\]自2015年，也有以個人身份，與其他藝人合作演唱。
 
 2019年2月20日，Wendy自成為練習生後首次回加拿大，與Red Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikilink")。
+
+2019年12月25日，Wendy在《[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")》準備預演個人表演，因舞台安全措施疏忽，令舞台樓梯未能趕達。Wendy失足，從大概2.5米墜下。她因右側[盆骨](../Page/骨盆.md "wikilink")、[腕骨骨折](https://zh.wikipedia.org/wiki/腕骨 "wikilink")，右[顴骨也出現裂痕而送院醫治](../Page/颧骨.md "wikilink")，停工休養。\[20\]\[21\]
 
 ## 音樂作品
 
@@ -703,8 +705,8 @@
 
 1.  [Wendy本名的意思](https://pbs.twimg.com/media/CkMx-4JUkAAwCdn.jpg)
 2.
-3.  官方微博上本名曾使用**孫承歡**（[官方微博網頁證明之一](https://m.weibo.cn/6273331745/4267091617754947)）
-4.
+3.
+4.  官方微博上本名曾使用**孫承歡**（[官方微博網頁證明之一](https://m.weibo.cn/6273331745/4267091617754947)）
 5.
 6.
 7.
@@ -718,4 +720,7 @@
 15.
 16.
 17.
-18. [姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink") 第二季第二集，張真英 （SM 聲樂老師）透露; 第四集親自回顧
+18.
+19. [姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink") 第二季第二集，張真英 （SM 聲樂老師）透露; 第四集親自回顧
+20.
+21.

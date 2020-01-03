@@ -1270,8 +1270,8 @@ Top Star新品Patch</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>41</p></td>
-<td><p>12月27日</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

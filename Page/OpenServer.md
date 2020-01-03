@@ -1,11 +1,15 @@
 > 本文内容由[OpenServer](https://zh.wikipedia.org/wiki/OpenServer)转换而来。
 
 
+[SCO_OpenServer_Rel5-0-7.jpg](https://zh.wikipedia.org/wiki/File:SCO_OpenServer_Rel5-0-7.jpg "fig:SCO_OpenServer_Rel5-0-7.jpg") 套裝\]\]
+
 **OpenServer**，曾稱為SCO UNIX、SCO OpenDesktop或SCO ODT，是由[聖克魯茲公司開發出來的專有作業系統](../Page/聖克魯茲作業.md "wikilink")，曾被 [SCO Group](../Page/SCO_Group.md "wikilink") 收購，現時由 Xinuos 擁有。
 
 ## 歷史
 
-OpenServer 的前身是SCO UNIX/SCO Open Desktop，而SCO UNIX/SCO OpenDesktop則是[Microsoft Xenix的變種](../Page/Xenix.md "wikilink")，由[UNIX System V](../Page/UNIX_System_V.md "wikilink") Release 3.2 引入，其中包含了Xenix設備驅動程式和實用程式。
+OpenServer 的前身是SCO UNIX/SCO Open Desktop，而SCO UNIX/SCO OpenDesktop是[Microsoft Xenix的變種](../Page/Xenix.md "wikilink")，由[UNIX System V](../Page/UNIX_System_V.md "wikilink") Release 3.2 引入，其中包含了Xenix設備驅動程式和實用程式。
+
+後期版本的OpenServer 10則基於[FreeBSD](../Page/FreeBSD.md "wikilink")。
 
 ### SCO UNIX/SCO OpenDesktop
 

@@ -249,7 +249,7 @@ YRP野比站月台
 
 ## 外部連結
 
-  - [京濱急行電鐵 - YRP野比站](http://www.keikyu.co.jp/train-info/kakueki/KK68.html)
+  - [京濱急行電鐵 - YRP野比站](https://web.archive.org/web/20160504103028/http://www.keikyu.co.jp/train-info/kakueki/KK68.html)
 
 [Category:日本鐵路車站_Wa](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Wa "wikilink") [Category:橫須賀市鐵路車站](https://zh.wikipedia.org/wiki/Category:橫須賀市鐵路車站 "wikilink") [Category:久里濱線車站](https://zh.wikipedia.org/wiki/Category:久里濱線車站 "wikilink") [Category:1963年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1963年啟用的鐵路車站 "wikilink")
 

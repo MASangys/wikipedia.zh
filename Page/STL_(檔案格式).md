@@ -100,7 +100,7 @@ STL也能在CAD、CAM和計算環境（如：[Mathematica](https://zh.wikipedia.
   - [Maple (software)和](https://zh.wikipedia.org/wiki/Maple_\(software\) "wikilink")[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink"), 支援STL檔的技術計算系統。
   - [MeshLab](../Page/MeshLab.md "wikilink"), 視覺化、處理、且轉換3D網模進/出STL的[免費](../Page/免費軟體.md "wikilink")、[開源且跨平台的應用軟體](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")。
   - [FreeCAD](https://zh.wikipedia.org/wiki/FreeCAD "wikilink"), 能輸入、輸出STL檔的CAD[開源軟體](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")。
-  - [OpenSCAD](https://zh.wikipedia.org/wiki/OpenSCAD "wikilink"), [構造實體幾何](https://zh.wikipedia.org/wiki/構造實體幾何 "wikilink")[建模且支援](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[專門領域用語言](https://zh.wikipedia.org/wiki/專門領域用語言 "wikilink")，能產生及輸入STL檔。
+  - [OpenSCADE](https://zh.wikipedia.org/wiki/OpenSCADE "wikilink"), [構造實體幾何](https://zh.wikipedia.org/wiki/構造實體幾何 "wikilink")[建模且支援](https://zh.wikipedia.org/wiki/三維模型 "wikilink")[專門領域用語言](https://zh.wikipedia.org/wiki/專門領域用語言 "wikilink")，能產生及輸入STL檔。
   - [MountainsMap](https://zh.wikipedia.org/wiki/MountainsMap "wikilink"), 能以STL輸出及細微3D表面的[微測繪學軟體](https://zh.wikipedia.org/wiki/測繪學 "wikilink")。
 
 ## 參見

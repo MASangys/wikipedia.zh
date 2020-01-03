@@ -29,13 +29,10 @@
 
 ## 主要轉播賽事
 
-  - \- [中華職業棒球大聯盟](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")（CPBL）
-
+  - [中華職業棒球大聯盟](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")（CPBL）
   - [富邦悍將隊主場賽事](https://zh.wikipedia.org/wiki/富邦悍將 "wikilink")(2018–)
-
-  - \- [超級籃球聯賽](../Page/超級籃球聯賽.md "wikilink")（SBL）(2018)
-
-  - \- [東南亞職業籃球聯賽](../Page/東南亞職業籃球聯賽.md "wikilink")[臺北富邦勇士主客場賽事](https://zh.wikipedia.org/wiki/臺北富邦勇士 "wikilink")（ABL）(2019–)
+  - [超級籃球聯賽](../Page/超級籃球聯賽.md "wikilink")（SBL）(2018)
+  - [東南亞職業籃球聯賽](../Page/東南亞職業籃球聯賽.md "wikilink")[臺北富邦勇士主客場賽事](https://zh.wikipedia.org/wiki/臺北富邦勇士 "wikilink")（ABL）(2019–)
 
 ## 台灣主播群
 

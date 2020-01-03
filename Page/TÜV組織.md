@@ -67,7 +67,7 @@ TÜV Hessen虽然是[TÜV南德集团的控股子公司](https://zh.wikipedia.or
 [Category:标准组织](https://zh.wikipedia.org/wiki/Category:标准组织 "wikilink") [Category:德国公司](https://zh.wikipedia.org/wiki/Category:德国公司 "wikilink")
 
 1.  [TUV Members](http://www.vdtuev.de/verband/mitglieder-des-vdtuev)
-2.  [Driver's License old Bundesländer](http://www.tuv.com/de/fuehrerschein_1.html)
+2.
 3.  [Driver's License new Bundesländer](http://www.dekra.de/468)
 4.  [TUV InterCert - Group of TUV Saarland](http://www.tuev-saar.de/de/geschaeftsfelder/zertifizierungen/tuev_intercert_zertifizierungen)
 5.  [TÜV Rheinland General Key Facts.](http://www.tuv.com/en/corporate/about_us_1/facts_figures_1/general_key_facts/general_key_facts.html) Accessed: 3 September 2014.

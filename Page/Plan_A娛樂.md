@@ -23,18 +23,39 @@
 
 ### SOLO歌手
 
-| 出道年份 | 藝人                               | 所屬組合                                 |
-| ---- | -------------------------------- | ------------------------------------ |
-| 2011 | [許閣](../Page/許閣.md "wikilink")   |                                      |
-| 2016 | [鄭恩地](../Page/鄭恩地.md "wikilink") | [Apink](../Page/Apink.md "wikilink") |
-| 2019 | [吳夏榮](../Page/吳夏榮.md "wikilink") | [Apink](../Page/Apink.md "wikilink") |
+<table>
+<thead>
+<tr class="header">
+<th><p>出道年份</p></th>
+<th><p>藝人</p></th>
+<th><p>所屬組合</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p><a href="../Page/許閣.md" title="wikilink">許閣</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p><a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a></p></td>
+<td><p><a href="../Page/Apink.md" title="wikilink">Apink</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a></p></td>
+<td><p><a href="../Page/Apink.md" title="wikilink">Apink</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### 團體
 
 | 出道年份 | 藝人                                     | 成員                                                                                                                                                                                                           | 隊長                               | 官方粉絲名稱 |
 | ---- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ------ |
 | 2011 | [Apink](../Page/Apink.md "wikilink")   | [朴初瓏](../Page/朴初瓏.md "wikilink")、[尹普美](../Page/尹普美.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")、[孫娜恩](../Page/孫娜恩.md "wikilink")、[金南珠](../Page/金南珠_\(歌手\).md "wikilink")、[吳夏榮](../Page/吳夏榮.md "wikilink") | [朴初瓏](../Page/朴初瓏.md "wikilink") | Panda  |
-| 2016 | [VICTON](../Page/VICTON.md "wikilink") | 韓勝宇、姜昇植、許燦、林勢俊、都韓勢、崔秉燦、鄭秀彬                                                                                                                                                                                   | 韓勝宇                              | ALICE  |
+| 2016 | [VICTON](../Page/VICTON.md "wikilink") | [韓勝宇](../Page/韓勝宇.md "wikilink")、姜昇植、許燦、林勢俊、都韓勢、[崔秉燦](../Page/崔秉燦.md "wikilink")、鄭秀彬                                                                                                                         | [韓勝宇](../Page/韓勝宇.md "wikilink") | ALICE  |
 
 ### 企劃組合
 

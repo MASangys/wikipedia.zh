@@ -609,7 +609,7 @@ Hot 100</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《我愛你》<br />
+<td><p>《愛してる/夏目友人帳片尾曲 》<br />
 <small>（Kourin原唱）</small></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>

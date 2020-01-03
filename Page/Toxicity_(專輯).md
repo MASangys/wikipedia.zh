@@ -48,7 +48,7 @@
   -
 [Category:墮落體制音樂專輯](https://zh.wikipedia.org/wiki/Category:墮落體制音樂專輯 "wikilink") [Category:哥伦比亚唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:哥伦比亚唱片音乐专辑 "wikilink")
 
-1.  [System of a Down Mezmerizes Music Fans Worldwide](http://www.prnewswire.com/news-releases/system-of-a-down-mezmerizes-music-fans-worldwide-54516757.html)
+1.
 2.
 3.
 4.

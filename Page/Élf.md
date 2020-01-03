@@ -477,7 +477,7 @@
 [Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:日本已結業成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業成人遊戲公司 "wikilink") [Category:中野區公司](https://zh.wikipedia.org/wiki/Category:中野區公司 "wikilink")
 
 1.
-2.  <http://news.pconline.com.cn/832/8322181.html>
+2.
 3.  <http://hkacger.com/archives/79111/%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%E4%BD%9C%E5%93%81%EF%BC%8C4%E6%9C%88%E6%96%B0%E7%95%AA%E3%80%8Ayu-no-%E5%9C%A8%E9%80%99%E4%B8%96%E7%95%8C%E7%9B%A1%E9%A0%AD%E8%A9%A0/>
 4.
 5.

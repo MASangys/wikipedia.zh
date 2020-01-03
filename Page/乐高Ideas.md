@@ -258,7 +258,7 @@ whatsuptoday</p></td>
 ## 外部链接
 
   - [官方网站](http://ideas.lego.com/)
-  - [乐高Ideas的Wiki](http://ideas.brickimedia.org/wiki/Main_Page)，关于乐高Ideas的非官方百科全书
+  - [乐高Ideas的Wiki](https://web.archive.org/web/20160916005951/http://ideas.brickimedia.org/wiki/Main_Page)，关于乐高Ideas的非官方百科全书
 
 [Category:樂高主題系列](https://zh.wikipedia.org/wiki/Category:樂高主題系列 "wikilink")
 

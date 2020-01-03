@@ -3,7 +3,7 @@
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Psy_performing_Gangnam_Style_at_the_Future_Music_Festival_2013.jpg "fig:缩略图")在[雪梨表演](../Page/悉尼.md "wikilink")[江南Style](../Page/江南Style.md "wikilink")。是2012年以来在YouTube被浏览最多和最受关注的[K-Pop音乐影片](../Page/韓國流行音樂.md "wikilink")，截至今日，已有超过30亿的观看次数。\]\] 此列表列出在**[YouTube](../Page/YouTube.md "wikilink")上观看次数最多的100部[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")[影片](../Page/音樂錄影帶.md "wikilink")**。\[1\]\[2\]\[3\]\[4\]\[5\]100部影片中只有14部来自独唱藝人。部分影片也同屬“[10亿俱乐部](../Page/觀看次數最多的YouTube影片列表.md "wikilink")”观看次数已经突破10亿。目前[PSY](../Page/PSY.md "wikilink")的[GANGNAM STYLE](../Page/江南Style.md "wikilink")、[GENTLEMAN與](../Page/绅士_\(歌曲\).md "wikilink")[BLACKPINK](../Page/BLACKPINK.md "wikilink")的[DDU-DU DDU-DU是在YouTube上达到这个](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")-{里程碑}-的3部[K-Pop音乐影片](../Page/韓國流行音樂.md "wikilink")。
 
-截至今日，4部影片超過8億的觀看次數（[防彈少年團](../Page/防彈少年團.md "wikilink")）、7部影片超過7億的觀看次數、11部影片超過6億的觀看次數、15部影片超過5億的觀看次數、24部影片超過4億的觀看次數（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[TWICE與](https://zh.wikipedia.org/wiki/TWICE "wikilink")[JENNIE](../Page/Jennie_\(韓國歌手\).md "wikilink")）、34部影片超過3億的觀看次數（[EXO](../Page/EXO.md "wikilink")、[iKON與](https://zh.wikipedia.org/wiki/iKON "wikilink")[MOMOLAND](../Page/MOMOLAND.md "wikilink")）、54部影片超過2億的觀看次數（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[2NE1](../Page/2NE1.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")與[Red Velvet](../Page/Red_Velvet.md "wikilink")）。
+截至今日，4部影片超過8億的觀看次數（[防彈少年團](../Page/防彈少年團.md "wikilink")）、7部影片超過7億的觀看次數、12部影片超過6億的觀看次數、15部影片超過5億的觀看次數、24部影片超過4億的觀看次數（[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[TWICE與](https://zh.wikipedia.org/wiki/TWICE "wikilink")[JENNIE](../Page/Jennie_\(韓國歌手\).md "wikilink")）、34部影片超過3億的觀看次數（[EXO](../Page/EXO.md "wikilink")、[iKON與](https://zh.wikipedia.org/wiki/iKON "wikilink")[MOMOLAND](../Page/MOMOLAND.md "wikilink")）、54部影片超過2億的觀看次數（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[2NE1](../Page/2NE1.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")與[Red Velvet](../Page/Red_Velvet.md "wikilink")）。
 
 ## 影片排名
 
@@ -117,7 +117,7 @@
 <td><p><a href="../Page/江南Style.md" title="wikilink">GANGNAM STYLE</a></p></td>
 <td><p>[6]</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a></p></td>
-<td><p>34.77</p></td>
+<td><p>34.84</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -125,7 +125,7 @@
 <td><p><a href="../Page/绅士_(歌曲).md" title="wikilink">GENTLEMAN</a></p></td>
 <td><p>[7]</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a></p></td>
-<td><p>12.80</p></td>
+<td><p>12.82</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -133,7 +133,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">DDU-DU DDU-DU</a></p></td>
 <td><p>[8]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>10.32</p></td>
+<td><p>10.42</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -141,7 +141,7 @@
 <td><p><a href="../Page/Love_Yourself_承_&#39;Her&#39;.md" title="wikilink">DNA</a></p></td>
 <td><p>[9]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>8.88</p></td>
+<td><p>8.94</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -149,7 +149,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Boombayah" title="wikilink">BOOMBAYAH</a></p></td>
 <td><p>[10]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>7.63</p></td>
+<td><p>7.68</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -157,7 +157,7 @@
 <td><p><a href="../Page/江南Style.md" title="wikilink">哥哥就是我的Style</a></p></td>
 <td><p>[11]</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a> feat.<a href="https://zh.wikipedia.org/wiki/泫雅" title="wikilink">泫雅</a></p></td>
-<td><p>7.53</p></td>
+<td><p>7.54</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -165,7 +165,7 @@
 <td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">AS IF IT'S YOUR LAST</a></p></td>
 <td><p>[12]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>7.22</p></td>
+<td><p>7.27</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -173,7 +173,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">Kill This Love</a></p></td>
 <td><p>[13]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>6.84</p></td>
+<td><p>6.98</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -181,7 +181,7 @@
 <td></td>
 <td><p>[14]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> feat.<a href="../Page/海爾希_(歌手).md" title="wikilink">Halsey</a></p></td>
-<td><p>6.44</p></td>
+<td><p>6.56</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@
 <td><p><a href="../Page/花樣年華_Young_Forever.md" title="wikilink">FIRE</a></p></td>
 <td><p>[15]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>6.31</p></td>
+<td><p>6.33</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -197,7 +197,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Love_Yourself_轉_&#39;Tear&#39;" title="wikilink">FAKE LOVE</a></p></td>
 <td><p>[16]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>6.27</p></td>
+<td><p>6.31</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -205,7 +205,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Love_Yourself_结_&#39;Answer&#39;" title="wikilink">MIC Drop (Steve Aoki Remix)</a></p></td>
 <td><p>[17]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>5.97</p></td>
+<td><p>6.02</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -213,7 +213,7 @@
 <td></td>
 <td><p>[18]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>5.89</p></td>
+<td><p>5.94</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -221,7 +221,7 @@
 <td><p><a href="../Page/花樣年華_pt.1.md" title="wikilink">DOPE</a></p></td>
 <td><p>[19]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>5.37</p></td>
+<td><p>5.38</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/WINGS_(防彈少年團專輯)" title="wikilink">Blood Sweat &amp; Tears</a></p></td>
 <td><p>[20]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>5.24</p></td>
+<td><p>5.27</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -237,7 +237,7 @@
 <td><p><a href="../Page/TWICEcoaster:_LANE_1.md" title="wikilink">TT</a></p></td>
 <td><p>[21]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>4.94</p></td>
+<td><p>4.96</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -245,7 +245,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Playing_with_Fire_(BLACKPINK歌曲)" title="wikilink">PLAYING WITH FIRE</a></p></td>
 <td><p>[22]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>4.63</p></td>
+<td><p>4.66</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -253,7 +253,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/爹地_(歌曲)" title="wikilink">DADDY</a></p></td>
 <td><p>[23]</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a> feat.<a href="https://zh.wikipedia.org/wiki/李彩麟" title="wikilink">CL</a></p></td>
-<td><p>4.59</p></td>
+<td><p>4.62</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -261,7 +261,7 @@
 <td><p><a href="../Page/花樣年華_Young_Forever.md" title="wikilink">Save ME</a></p></td>
 <td><p>[24]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>4.56</p></td>
+<td><p>4.59</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -269,7 +269,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/口哨_(BLACKPINK歌曲)" title="wikilink">WHISTLE</a></p></td>
 <td><p>[25]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>4.45</p></td>
+<td><p>4.48</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -277,7 +277,7 @@
 <td><p><a href="../Page/Twicetagram.md" title="wikilink">LIKEY</a></p></td>
 <td><p>[26]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>4.23</p></td>
+<td><p>4.25</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -285,7 +285,7 @@
 <td></td>
 <td><p>[27]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
-<td><p>4.22</p></td>
+<td><p>4.23</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -293,7 +293,7 @@
 <td><p><a href="../Page/A_(BIGBANG單曲).md" title="wikilink">BANG BANG BANG</a></p></td>
 <td><p>[28]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
-<td><p>4.21</p></td>
+<td><p>4.22</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -301,7 +301,7 @@
 <td><p><a href="../Page/Solo_(單曲).md" title="wikilink">SOLO</a></p></td>
 <td><p>[29]</p></td>
 <td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">JENNIE</a></p></td>
-<td><p>4.03</p></td>
+<td><p>4.06</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -309,7 +309,7 @@
 <td><p><a href="../Page/BBoom_BBoom.md" title="wikilink">BBoom BBoom</a></p></td>
 <td><p>[30]</p></td>
 <td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
-<td><p>3.95</p></td>
+<td><p>3.97</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/WINGS_(防彈少年團專輯)" title="wikilink">Not Today</a></p></td>
 <td><p>[31]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>3.73</p></td>
+<td><p>3.75</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -333,7 +333,7 @@
 <td><p><a href="../Page/Return_(iKON專輯).md" title="wikilink">LOVE SCENARIO</a></p></td>
 <td><p>[33]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
-<td><p>3.59</p></td>
+<td><p>3.60</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -341,7 +341,7 @@
 <td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td><p>[34]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>3.54</p></td>
+<td><p>3.55</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@
 <td></td>
 <td><p>[35]</p></td>
 <td><p><a href="../Page/PSY.md" title="wikilink">PSY</a> feat.<a href="https://zh.wikipedia.org/wiki/Snoop_Dogg" title="wikilink">Snoop Dogg</a></p></td>
-<td><p>3.37</p></td>
+<td><p>3.38</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -357,7 +357,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_(TWICE迷你專輯)" title="wikilink">Like OOH-AHH</a></p></td>
 <td><p>[36]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>3.36</p></td>
+<td><p>3.37</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -373,7 +373,7 @@
 <td><p><a href="../Page/EX&#39;ACT.md" title="wikilink">Monster</a></p></td>
 <td><p>[38]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>3.06</p></td>
+<td><p>3.07</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -382,14 +382,14 @@
 <td><p><ref>{{Citation|last=jypentertainment|title=TWICE "Heart Shaker" M/V|date=2017-12-11|url=<a href="https://www.youtube.com/watch?v=">https://www.youtube.com/watch?v=</a></p></td>
 <td><p>accessdate=2018-08-10}}</ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>3.01</p></td>
+<td><p>3.03</p></td>
 </tr>
 <tr class="even">
 <td><p>35</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Just_right" title="wikilink">Just right</a></p></td>
 <td><p>[39]</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
-<td><p>2.97</p></td>
+<td><p>2.99</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -397,7 +397,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/WINGS_(防彈少年團專輯)" title="wikilink">Spring Day</a></p></td>
 <td><p>[40]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>2.90</p></td>
+<td><p>2.91</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -413,7 +413,7 @@
 <td><p><a href="../Page/2NE1_2nd_Mini_Album.md" title="wikilink">I AM THE BEST</a></p></td>
 <td><p>[42]</p></td>
 <td><p><a href="../Page/2NE1.md" title="wikilink">2NE1</a></p></td>
-<td><p>2.47</p></td>
+<td><p>2.48</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -421,7 +421,7 @@
 <td><p><a href="../Page/The_War.md" title="wikilink">Ko Ko Bop</a></p></td>
 <td><p>[43]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>2.47</p></td>
+<td><p>2.48</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -429,7 +429,7 @@
 <td><p><a href="../Page/EXODUS_(EXO專輯).md" title="wikilink">CALL ME BABY</a></p></td>
 <td><p>[44]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>2.46</p></td>
+<td><p>2.47</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -437,7 +437,7 @@
 <td><p><a href="../Page/FANCY_YOU.md" title="wikilink">FANCY</a></p></td>
 <td><p>[45]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>2.42</p></td>
+<td><p>2.46</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -453,7 +453,7 @@
 <td><p><a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">KNOCK KNOCK</a></p></td>
 <td><p>[47]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>2.41</p></td>
+<td><p>2.42</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -461,7 +461,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Perfect_Red_Velvet" title="wikilink">Bad Boy</a></p></td>
 <td><p>[48]</p></td>
 <td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
-<td><p>2.38</p></td>
+<td><p>2.39</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -469,7 +469,7 @@
 <td><p><a href="../Page/The_Boys_(單曲).md" title="wikilink">The Boys</a></p></td>
 <td><p>[49]</p></td>
 <td><p><a href="../Page/少女时代.md" title="wikilink">少女时代</a></p></td>
-<td><p>2.30</p></td>
+<td><p>2.31</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -477,7 +477,7 @@
 <td><p><a href="../Page/Signal_(TWICE迷你專輯).md" title="wikilink">SIGNAL</a></p></td>
 <td><p>[50]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>2.30</p></td>
+<td><p>2.31</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -493,7 +493,7 @@
 <td></td>
 <td><p>[52]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>2.20</p></td>
+<td><p>2.22</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -517,7 +517,7 @@
 <td><p><a href="../Page/DARK_&amp;_WILD.md" title="wikilink">War of Hormone</a></p></td>
 <td><p>[55]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>2.14</p></td>
+<td><p>2.15</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -573,7 +573,7 @@
 <td><p><a href="../Page/I_(太妍專輯).md" title="wikilink">I</a></p></td>
 <td><p>[62]</p></td>
 <td><p><a href="../Page/太妍.md" title="wikilink">太妍</a> feat. </p></td>
-<td><p>1.84</p></td>
+<td><p>1.85</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -581,7 +581,7 @@
 <td><p><a href="../Page/Fun_to_the_World.md" title="wikilink">BAAM</a></p></td>
 <td><p>[63]</p></td>
 <td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
-<td><p>1.80</p></td>
+<td><p>1.81</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -589,7 +589,7 @@
 <td><p><a href="../Page/COUP_D&#39;ETAT.md" title="wikilink">Crooked</a></p></td>
 <td><p>[64]</p></td>
 <td><p><a href="../Page/G-Dragon.md" title="wikilink">G-DRAGON</a></p></td>
-<td><p>1.73</p></td>
+<td><p>1.74</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -605,7 +605,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Pentagon音樂作品列表" title="wikilink">Shine</a></p></td>
 <td><p>[66]</p></td>
 <td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a></p></td>
-<td><p>1.72</p></td>
+<td><p>1.73</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -626,17 +626,17 @@
 </tr>
 <tr class="even">
 <td><p>65</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MAD_(GOT7迷你專輯)" title="wikilink">If You Do</a></p></td>
+<td><p><a href="../Page/IT&#39;z_Different.md" title="wikilink">DALLA DALLA</a></p></td>
 <td><p>[69]</p></td>
-<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
-<td><p>1.67</p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
+<td><p>1.68</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>66</p></td>
-<td><p><a href="../Page/IT&#39;z_Different.md" title="wikilink">DALLA DALLA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MAD_(GOT7迷你專輯)" title="wikilink">If You Do</a></p></td>
 <td><p>[70]</p></td>
-<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>1.67</p></td>
 <td></td>
 </tr>
@@ -645,7 +645,7 @@
 <td><p><a href="../Page/RISE_(太陽專輯).md" title="wikilink">EYES, NOSE, LIPS</a></p></td>
 <td><p>[71]</p></td>
 <td><p><a href="../Page/太陽_(歌手).md" title="wikilink">太阳</a></p></td>
-<td><p>1.63</p></td>
+<td><p>1.64</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -661,31 +661,31 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_ARRIVAL" title="wikilink">Never Ever</a></p></td>
 <td><p>[73]</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
-<td><p>1.59</p></td>
+<td><p>1.60</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>70</p></td>
-<td><p><a href="../Page/Al1.md" title="wikilink">Don't Wanna Cry</a></p></td>
+<td><p><a href="../Page/Feel_Special.md" title="wikilink">Feel Special</a></p></td>
 <td><p>[74]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a></p></td>
-<td><p>1.54</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<td><p>1.55</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>71</p></td>
-<td><p><a href="../Page/Perfect_Velvet.md" title="wikilink">Peek-A-Boo</a></p></td>
+<td><p><a href="../Page/Al1.md" title="wikilink">Don't Wanna Cry</a></p></td>
 <td><p>[75]</p></td>
-<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
-<td><p>1.53</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a></p></td>
+<td><p>1.55</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>72</p></td>
-<td><p><a href="../Page/Feel_Special.md" title="wikilink">Feel Special</a></p></td>
+<td><p><a href="../Page/Perfect_Velvet.md" title="wikilink">Peek-A-Boo</a></p></td>
 <td><p>[76]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>1.50</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
+<td><p>1.54</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -709,7 +709,7 @@
 <td><p><a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">Tempo</a></p></td>
 <td><p>[79]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>1.45</p></td>
+<td><p>1.46</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -781,7 +781,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Lotto" title="wikilink">Lotto</a></p></td>
 <td><p>[88]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
-<td><p>1.28</p></td>
+<td><p>1.29</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -797,7 +797,7 @@
 <td><p><a href="../Page/Palette_(IU专辑).md" title="wikilink">Palette</a></p></td>
 <td><p>[90]</p></td>
 <td><p><a href="../Page/IU_(艺人).md" title="wikilink">IU</a> feat.<a href="../Page/G-Dragon.md" title="wikilink">G-DRAGON</a></p></td>
-<td><p>1.27</p></td>
+<td><p>1.28</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -810,18 +810,18 @@
 </tr>
 <tr class="odd">
 <td><p>88</p></td>
-<td><p><a href="../Page/Electric_Shock.md" title="wikilink">Electric Shock</a></p></td>
+<td></td>
 <td><p>[92]</p></td>
-<td><p><a href="../Page/F(x)_(組合).md" title="wikilink">f(x)</a></p></td>
+<td><p><a href="../Page/IU_(艺人).md" title="wikilink">IU</a></p></td>
 <td><p>1.26</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>89</p></td>
-<td></td>
+<td><p><a href="../Page/Electric_Shock.md" title="wikilink">Electric Shock</a></p></td>
 <td><p>[93]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IU" title="wikilink">IU</a></p></td>
-<td><p>1.25</p></td>
+<td><p><a href="../Page/F(x)_(組合).md" title="wikilink">f(x)</a></p></td>
+<td><p>1.26</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -845,7 +845,7 @@
 <td></td>
 <td><p>[96]</p></td>
 <td><p><a href="../Page/鄭號錫.md" title="wikilink">j-hope</a> feat.<a href="../Page/貝姬·G.md" title="wikilink">Becky G</a></p></td>
-<td><p>1.22</p></td>
+<td><p>1.23</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -874,42 +874,42 @@
 </tr>
 <tr class="odd">
 <td><p>96</p></td>
-<td><p><a href="../Page/美人啊.md" title="wikilink">Bonamana</a></p></td>
+<td><p><a href="../Page/IT&#39;z_ICY.md" title="wikilink">ICY</a></p></td>
 <td><p>[100]</p></td>
-<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
+<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
 <td><p>1.19</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>97</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lil&#39;_Touch" title="wikilink">Lil' Touch</a></p></td>
+<td><p><a href="../Page/美人啊.md" title="wikilink">Bonamana</a></p></td>
 <td><p>[101]</p></td>
-<td><p><a href="../Page/少女時代-Oh!_GG.md" title="wikilink">少女時代-Oh! GG</a> (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
-<td><p>1.18</p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a></p></td>
+<td><p>1.19</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>98</p></td>
-<td><p><a href="../Page/IT&#39;z_ICY.md" title="wikilink">ICY</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lil&#39;_Touch" title="wikilink">Lil' Touch</a></p></td>
 <td><p>[102]</p></td>
-<td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
-<td><p>1.17</p></td>
+<td><p><a href="../Page/少女時代-Oh!_GG.md" title="wikilink">少女時代-Oh! GG</a> (<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
+<td><p>1.19</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>99</p></td>
-<td><p><a href="../Page/Ring_Ding_Dong.md" title="wikilink">Ring Ding Dong</a></p></td>
+<td><p><a href="../Page/DARK_&amp;_WILD.md" title="wikilink">We Are Bulletproof Pt2</a></p></td>
 <td><p>[103]</p></td>
-<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
-<td><p>1.16</p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
+<td><p>1.17</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>100</p></td>
-<td><p><a href="../Page/DARK_&amp;_WILD.md" title="wikilink">We Are Bulletproof Pt2</a></p></td>
+<td><p><a href="../Page/Ring_Ding_Dong.md" title="wikilink">Ring Ding Dong</a></p></td>
 <td><p>[104]</p></td>
-<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>1.16</p></td>
+<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
+<td><p>1.17</p></td>
 <td></td>
 </tr>
 <tr class="even">

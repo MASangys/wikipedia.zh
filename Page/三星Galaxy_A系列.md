@@ -35,7 +35,7 @@
 
   - [三星Galaxy A8 (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")\[14\]
   - [三星Galaxy A8+ (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")\[15\]
-  - [三星Galaxy A8 Star](https://zh.wikipedia.org/wiki/三星Galaxy_A8_Star "wikilink")\[16\]
+  - [三星Galaxy A8 Star](../Page/三星Galaxy_A8_Star.md "wikilink")\[16\]
   - [三星Galaxy A6s](https://zh.wikipedia.org/wiki/三星Galaxy_A6s "wikilink")
   - [三星Galaxy A6 (2018)](../Page/三星Galaxy_A6_\(2018\).md "wikilink")
   - [三星Galaxy A6+ (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A6+_\(2018\) "wikilink")

@@ -129,8 +129,8 @@ Galaxy Note 7 搭載的相機和 Galaxy S7 系列的一樣，較前代降低了�
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:工程故障](https://zh.wikipedia.org/wiki/Category:工程故障 "wikilink") [Category:產品召回](https://zh.wikipedia.org/wiki/Category:產品召回 "wikilink") [Category:2016年面世的手機](https://zh.wikipedia.org/wiki/Category:2016年面世的手機 "wikilink")
 
 1.
-2.  [官翻Note 7真机照现身：名为Note FE](http://mobile.163.com/17/0530/09/CLM5681E00118017.html)
-3.  [官翻三星Note7真机照：改名为Note FE，CPU换了](http://item.btime.com/40mtn2nbkah810r90s782kq7mvk)
+2.
+3.
 4.
 5.
 6.

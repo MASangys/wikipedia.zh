@@ -23,7 +23,7 @@
 
 ## 現場表演
 
-2012年6月23日於 Tokyo的「TOWER RECORDS Presents POP’nアイドル02」首次表演\[14\]。10月6日以非賣品方式發送電音版本的〈HeadBanger\!\! -Night of 15 mix-〉給參加演唱會的觀眾\[15\]。
+2012年6月23日於[Zepp](../Page/Zepp.md "wikilink") Tokyo的「TOWER RECORDS Presents POP’nアイドル02」首次表演\[14\]。10月6日以非賣品方式發送電音版本的〈HeadBanger\!\! -Night of 15 mix-〉給參加演唱會的觀眾\[15\]。
 
 ## 收錄內容（全版本共通）
 

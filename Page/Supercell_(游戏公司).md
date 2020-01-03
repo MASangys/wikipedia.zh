@@ -1,7 +1,7 @@
 > 本文内容由[Supercell \(游戏公司\)](https://zh.wikipedia.org/wiki/Supercell_\(游戏公司\))转换而来。
 
 
-**Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基](../Page/赫尔辛基.md "wikilink")的电子游戏开发商。公司成立于2010年。知名的作品包括《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《海岛奇兵》、《[部落冲突：皇室战争](https://zh.wikipedia.org/wiki/部落冲突：皇室战争 "wikilink")（Clash Royale)》《[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")(Brawl Stars) 》。
+**Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基](../Page/赫尔辛基.md "wikilink")的电子游戏开发商。公司成立于2010年。知名的作品包括《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《海岛奇兵》、《[部落冲突：皇室战争](https://zh.wikipedia.org/wiki/部落冲突：皇室战争 "wikilink")》、《[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")》。
 
 ## 歷史
 

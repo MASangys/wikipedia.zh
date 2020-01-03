@@ -4610,7 +4610,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/樱花大战2_～愿君平安～" title="wikilink">樱花大战2 ～愿君平安～</a></p></td>
+<td><p><a href="../Page/樱花大战2_～愿君平安～.md" title="wikilink">樱花大战2 ～愿君平安～</a></p></td>
 <td><p><em>Sakura Taisen 2</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Overworks" title="wikilink">Overworks</a></p></td>
 <td><p>Overworks</p></td>

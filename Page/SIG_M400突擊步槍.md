@@ -94,14 +94,14 @@ M400 SPR型面向巡警而M400 SWAT型則面向特警。M400 SPR型取消了傳�
 <!-- end list -->
 
   -   - 2011年12月上号：[新品轻武器一瞥](https://web.archive.org/web/20150106122900/http://gdwap.dooland.com/article.php?id=175422)
-      - 2012年4月上号：[第34届SHOT展轻武器精选（下）](http://www.xzbu.com/8/view-1600007.htm)
+      - 2012年4月上号：[第34届SHOT展轻武器精选（下）](https://web.archive.org/web/20150626151832/http://www.xzbu.com/8/view-1600007.htm)
       - 2012年4月下號：[轻武器新品观览](http://www.xzbu.com/8/view-1704005.htm)
-      - 2012年5月上号：[瑞士造M4——西格-绍尔M400系列卡宾枪](http://www.xzbu.com/8/view-1630402.htm)
+      - 2012年5月上号：[瑞士造M4——西格-绍尔M400系列卡宾枪](https://web.archive.org/web/20160304124254/http://www.xzbu.com/8/view-1630402.htm)
       - 2013年1月上号：[轻武器新品精萃](http://www.xzbu.com/8/view-3859108.htm)
       - 2013年3月上号：[第七届GPEC展览会轻武器精选](https://web.archive.org/web/20141211013734/http://gdwap.dooland.com/article.php?id=263671)
       - 2014年5月下號：2014西格-绍尔公司新品赏析
       - 2014年10月下號：[西格M400 SWAT半自动步枪](http://mall.cnki.net/magazine/Article/QBQI201420002.htm)
-      - 2015年7月下號：[西格―绍尔公司2015新品汇](http://www.xzbu.com/8/view-6895457.htm)
+      - 2015年7月下號：[西格―绍尔公司2015新品汇](https://web.archive.org/web/20160304124041/http://www.xzbu.com/8/view-6895457.htm)
 
 ## 外部連結
 

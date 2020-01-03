@@ -21,7 +21,7 @@
 
 項目地下至1樓設商場 The Parkside Place，總面積42,473方呎。2016年1月以5.1億元連商業車位售予印度船王家族成員。\[3\]同年年尾，以5億元出售6成業權給[安祖高頓](https://zh.wikipedia.org/wiki/安祖高頓 "wikilink")，改名為 **Parkside Mall**。\[4\]現時租戶包括札幌拉麵，翠河餐廳，[大家樂](../Page/大家樂.md "wikilink")及地產代理[利嘉閣](../Page/利嘉閣.md "wikilink")等。1樓為 Campfire Campus 和 AFTER 3 at Campfire 餐廳。\[5\]
 
-2019年4月30日，[宏安集團](../Page/宏安集團.md "wikilink")以7.8億購入商場，連同位於地庫樓層之49個停車位及5個摩托車停車位，可供出租總面積約為32564平方呎。同年10月，1樓全層 Campfire Campus 結業，業主同時將原有的大堂翻新為木系主題，天花的水晶燈亦消失。
+2019年4月30日，[宏安集團](../Page/宏安集團.md "wikilink")以7.8億購入商場，連同位於地庫樓層之49個停車位及5個電單車停車位，可供出租總面積約為32564平方呎。同年10月，1樓全層 Campfire Campus 結業，業主同時將原有的大堂翻新為木系主題，天花的水晶燈亦消失。
 
 ## 宣傳
 
@@ -93,7 +93,7 @@ Immigration Officer: C. T. WONG
 ## 外部連結
 
   -
-  - [金門建築項目網頁](https://www.gammonconstruction.com/tc/html/projects/projects-7ae7d39e452b444aada3e4ded37ebc1f.html)
+  - [金門建築項目網頁](https://web.archive.org/web/20170221071508/http://www.gammonconstruction.com/tc/html/projects/projects-7ae7d39e452b444aada3e4ded37ebc1f.html)
 
 {{-}}
 

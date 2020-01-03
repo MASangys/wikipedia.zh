@@ -45,7 +45,7 @@
 
   - [以色列在glbtq.com上](https://web.archive.org/web/20141231040514/http://www.glbtq.com/social-sciences/israel.html)
 
-  - [以色列LGBT组织Hoshen官方网站](http://www.hoshen.org/category/english/)
+  - [以色列LGBT组织Hoshen官方网站](https://web.archive.org/web/20151206030546/http://www.hoshen.org/category/english/)
 
   - [《Out》杂志介绍以色列的同性恋](http://www.out.com/travel-nightlife/out-goes-israel)
 

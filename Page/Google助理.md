@@ -5,7 +5,7 @@
 
 ## 历史
 
-Google助理在2016年5月18日的[开发者大会上作为智能音箱](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")[Google Home和新的信息程序Allo的一部分首次揭晓](https://zh.wikipedia.org/wiki/Google_Home "wikilink")；Google的CEO[孙达尔·皮柴](../Page/孙达尔·皮柴.md "wikilink")解释道，Google助理以对话式的和双向的体验设计，可以带来一种“跨设备的环绕式体验”。\[1\]该月后面的时间，Google委任[Google涂鸦](../Page/Google涂鸦.md "wikilink")的团队领导者萊恩·傑米克（），并聘用了[皮克斯动画工作室](../Page/皮克斯动画工作室.md "wikilink")的前動畫師愛瑪·科茲（）去开发“一个稍微更有个性的个人助理”。\[2\]
+Google助理在2016年5月18日的[开发者大会上作为智能音箱](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")[Google Home和新的信息程序Allo的一部分首次揭晓](../Page/Google_Home.md "wikilink")；Google的CEO[孙达尔·皮柴](../Page/孙达尔·皮柴.md "wikilink")解释道，Google助理以对话式的和双向的体验设计，可以带来一种“跨设备的环绕式体验”。\[1\]该月后面的时间，Google委任[Google涂鸦](../Page/Google涂鸦.md "wikilink")的团队领导者萊恩·傑米克（），并聘用了[皮克斯动画工作室](../Page/皮克斯动画工作室.md "wikilink")的前動畫師愛瑪·科茲（）去开发“一个稍微更有个性的个人助理”。\[2\]
 
 ### 多平台支持
 

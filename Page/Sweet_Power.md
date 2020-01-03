@@ -29,8 +29,7 @@ Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「
 <li><a href="../Page/高月彩良.md" title="wikilink">高月彩良</a></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/竹富聖花" title="wikilink">竹富聖花</a></li>
-<li><a href="../Page/知英.md" title="wikilink">知英</a>[4]</li>
-<li><a href="https://zh.wikipedia.org/wiki/松風理咲" title="wikilink">松風理咲</a>[5]</li>
+<li><a href="https://zh.wikipedia.org/wiki/松風理咲" title="wikilink">松風理咲</a>[4]</li>
 <li><a href="https://zh.wikipedia.org/wiki/山下聖菜" title="wikilink">山下聖菜</a></li>
 </ul></td>
 <td><h3 id="spice_power">Spice Power</h3>
@@ -48,7 +47,6 @@ Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「
 <ul>
 <li><a href="https://zh.wikipedia.org/wiki/黑木梅沙" title="wikilink">黑木梅沙</a></li>
 <li><a href="../Page/金泰希.md" title="wikilink">金泰希</a></li>
-<li><a href="../Page/知英.md" title="wikilink">知英</a></li>
 <li><a href="../Page/櫻庭奈奈美.md" title="wikilink">櫻庭奈奈美</a></li>
 </ul></td>
 </tr>
@@ -58,6 +56,7 @@ Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「
 ## 已離開的藝人
 
   - [堀北真希](../Page/堀北真希.md "wikilink")（2017年引退）
+  - [知英](../Page/知英.md "wikilink")（2019年12月移籍[Keyeast](../Page/Keyeast.md "wikilink")）
 
 ## 參考文獻
 
@@ -77,5 +76,4 @@ Sweet Power旗下所屬藝人多數為女性，其後成立新人演員部門「
 1.  2007年5月，《日經娛樂》「芸能界を制するのは誰だ?芸能プロ最新勢力図」專題第40頁
 2.  [“ポスト・堀北真希”だ！　スウィートパワーの大型新人に注目！！／芸能ショナイ業務話](http://www.sanspo.com/geino/news/20151008/geo15100812200017-n1.html)
 3.
-4.  [前KARA知英單飛人氣高　寬姐讚能演能唱](http://www.nownews.com/n/2015/09/15/1814229)
-5.  [松風理咲　堀北の“妹分” ＣＭ共演デビュー](http://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2015100202000164.html)
+4.  [松風理咲　堀北の“妹分” ＣＭ共演デビュー](http://www.chunichi.co.jp/chuspo/article/entertainment/news/CK2015100202000164.html)

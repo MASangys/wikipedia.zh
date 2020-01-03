@@ -3,9 +3,9 @@
 
 [Finn_Balor_Wm31Axxess.jpg](https://zh.wikipedia.org/wiki/File:Finn_Balor_Wm31Axxess.jpg "fig:Finn_Balor_Wm31Axxess.jpg")\]\]
 
-**WWE環球冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[Raw的一世界重量級冠軍項目](../Page/WWE_Raw.md "wikilink")。\[1\]\[2\]\[3\]
+**WWE環球冠軍**（），是隸屬於[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[SmackDown的一世界重量級冠軍項目](https://zh.wikipedia.org/wiki/WWE_SmackDown "wikilink")。\[1\]\[2\]\[3\]
 
-WWE環球冠軍創建於2016年7月25日，是世界摔角娛樂的兩個世界冠軍之一，另一個則是隸屬於[SmackDown的](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")[WWE世界冠軍](https://zh.wikipedia.org/wiki/WWE世界冠軍 "wikilink")。\[4\]WWE環球冠軍的名稱是來自於世界摔角娛樂的摔角迷們，因為世界摔角娛樂稱呼粉絲們為WWE Universe。\[5\]
+WWE環球冠軍創建於2016年7月25日，是世界摔角娛樂的兩個世界冠軍之一，另一個則是隸屬於[Raw的](../Page/WWE_Raw.md "wikilink")[WWE世界冠軍](https://zh.wikipedia.org/wiki/WWE世界冠軍 "wikilink")。\[4\]WWE環球冠軍的名稱是來自於世界摔角娛樂的摔角迷們，因為世界摔角娛樂稱呼粉絲們為WWE Universe。\[5\]
 
 ## 歷屆冠軍
 

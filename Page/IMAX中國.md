@@ -572,21 +572,31 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>上海万达影城(浦江万达广场店)</p></td>
+<td><p>上海幸福蓝海国际影城(香溢花城IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年12月</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年12月27日</p></td>
+<td><p>17.36</p></td>
+<td><p>8.84</p></td>
+<td><p>153.4624</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td><p>上海万达影城(浦江万达广场店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2020年12月31日</p></td>
+<td><p>20.76</p></td>
+<td><p>10.78</p></td>
+<td><p>223.7928</p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td><p>上海万达影城<br />
 （宝乐汇店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2016年10月12日<br />
-预计2019年12月</p></td>
+预计2020年12月</p></td>
 <td><p>18.7<br />
 19.83</p></td>
 <td><p>10.06<br />
@@ -597,24 +607,14 @@ IMAX中國第3家IMAX影院</p></td>
 218</p></td>
 <td><p>由于星美集团经营不善被万达集团收购并更名为万达影城重新装修</p></td>
 </tr>
-<tr class="even">
-<td><p>上海幸福蓝海国际影城(香溢花城IMAX店)</p></td>
-<td><p>IMAX数字</p></td>
-<td><p>预计2019年12月</p></td>
-<td><p>17.36</p></td>
-<td><p>8.84</p></td>
-<td><p>153.4624</p></td>
-<td></td>
-<td><p>-</p></td>
-</tr>
 <tr class="odd">
 <td><p>上海幸福蓝海国际影城(招商花园城IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年12月</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>预计2020年12月</p></td>
+<td><p>21.68</p></td>
+<td><p>11.40</p></td>
+<td><p>247.152</p></td>
+<td><p>274</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -818,20 +818,20 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>北京大地影城<br />
-（芳圆里ID MALL店）</p></td>
+<td><p>北京速铂影城(路劲IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>预计2020年</p></td>
+<td><p>21.60</p></td>
+<td><p>11.25</p></td>
+<td><p>243</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>北京锐得影城</p></td>
+<td><p>北京大地影城<br />
+（芳圆里ID MALL店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -839,10 +839,9 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>北京卢米埃影院<br />
-（奥森天地店）</p></td>
+<td><p>北京锐得影城</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -850,6 +849,17 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td><p>北京卢米埃影院<br />
+（奥森天地店）</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>预计2020年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td><p>武汉万达影城<br />
 （经开万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -860,7 +870,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>259</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉金逸影城<br />
 （销品茂IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -871,7 +881,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>304</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉万达影城<br />
 （菱角湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -882,7 +892,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>316</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉万达影城<br />
 （汉街万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -893,7 +903,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>331</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉CGV影城<br />
 （奥山店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -904,7 +914,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>418</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉百老汇影城<br />
 （汉阳人信汇店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -915,7 +925,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>350</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉CGV影城<br />
 （光谷店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -926,7 +936,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>328</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉金逸影城IMAX<br />
 （光美荟聚店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -937,7 +947,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>278</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉华谊兄弟影院<br />
 （光谷店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -948,7 +958,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>417</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉博纳国际影城<br />
 （银泰店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -962,7 +972,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>377</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉CGV影城<br />
 （凯德西城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -973,7 +983,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>269</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉金逸影城<br />
 （蔡甸IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -984,7 +994,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>275</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉CGV影城<br />
 （永旺金桥店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -995,7 +1005,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>392</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武汉CGV影城<br />
 （汉阳江腾广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1006,7 +1016,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>239</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>武汉UA新民众乐园电影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2007年2月1日(IMAX MPX放映系统)<br />
@@ -1022,7 +1032,7 @@ IMAX中國第3家IMAX影院</p></td>
 291</p></td>
 <td><p>IMAX中國第6家IMAX影院</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>襄阳万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1033,7 +1043,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>333</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宜昌万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1044,7 +1054,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>318</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>宜昌CGV影城<br />
 （国贸大厦店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1055,7 +1065,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>264</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>荆州万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1066,7 +1076,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>黄石万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1077,7 +1087,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>387</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>荆门万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1088,7 +1098,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>397</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>十堰万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1099,7 +1109,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>352</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>孝感金逸影城<br />
 （汉川IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1110,7 +1120,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>239</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>黄冈万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -1119,6 +1129,16 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td></td>
 <td><p>372</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>仙桃金逸影城(环球中心IMAX店)</p></td>
+<td><p>IMAX Digital</p></td>
+<td></td>
+<td><p>21.92</p></td>
+<td><p>11.55</p></td>
+<td><p>253.176</p></td>
+<td></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1366,7 +1386,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>廣州金逸影城（番禺渔人码头店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1376,7 +1396,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>廣州英皇影城（富力海珠城店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1386,7 +1406,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>廣州金逸影城（番禺星海城店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1396,7 +1416,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>廣州万达影城（万达茂店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1614,7 +1634,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>深圳CGV影城（金地大百汇店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1624,7 +1644,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>深圳万达影城（勤诚达正大城店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1634,7 +1654,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>深圳金逸影城（宏发宝安大仟里店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1987,7 +2007,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>汕头万达影院(金平万达广场店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2019,7 +2039,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>茂名万达影城(电白万达广场店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td><p>21.07</p></td>
 <td><p>11.15</p></td>
 <td><p>234.9305</p></td>
@@ -2029,7 +2049,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>肇庆星轶影城(敏捷广场店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2196,7 +2216,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>南京幸福蓝海国际影城(万悦城IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2406,7 +2426,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="even">
 <td><p>昆山万象影城（万象汇IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年11月30日</p></td>
+<td><p>预计2020年11月30日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2655,7 +2675,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>江阴幸福蓝海国际影城(南门印象IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td><p>22.16</p></td>
 <td><p>11.96</p></td>
 <td><p>265.2552</p></td>
@@ -2914,7 +2934,7 @@ IMAX中國第3家IMAX影院</p></td>
 </tr>
 <tr class="odd">
 <td><p>沭阳万达影城(万达广场店) IMAX数字</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3601,13 +3621,12 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>哈尔滨博纳国际影城<br />
-（银泰城店）</p></td>
+<td><p>哈尔滨博纳国际影城（银泰城店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年9月</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>预计2020年9月</p></td>
+<td><p>22.74</p></td>
+<td><p>11.79</p></td>
+<td><p>268.1046</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
@@ -3615,7 +3634,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>哈尔滨英皇电影城<br />
 （富力广场店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年12月</p></td>
+<td><p>预计2020年12月</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3626,7 +3645,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>哈尔滨金逸影城<br />
 （滨才·憬荟店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年12月</p></td>
+<td><p>预计2020年12月</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4431,7 +4450,7 @@ IMAX中國第3家IMAX影院</p></td>
 <tr class="odd">
 <td><p>合肥博纳国际影城(瑶海龙湖天街店)</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年12月12日</p></td>
+<td><p>预计2020年12月12日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5400,6 +5419,16 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td><p>宝鸡金逸影城(西建国际IMAX店)</p></td>
+<td><p>IMAX数字</p></td>
+<td><p>即将开业</p></td>
+<td><p>19.3</p></td>
+<td><p>10.65</p></td>
+<td><p>205.545</p></td>
+<td></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td><p>银川万达影城<br />
 （金凤万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5410,7 +5439,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>306</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>银川万达影城<br />
 （西夏万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5421,7 +5450,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>414</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>吴忠万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5432,7 +5461,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>373</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石嘴山万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5443,7 +5472,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>340</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>呼和浩特万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5454,7 +5483,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>398</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>呼和浩特CGV影城<br />
 （中山店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5465,7 +5494,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>367</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>呼和浩特万达影城<br />
 （回民区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5476,7 +5505,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>302</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>包头万达影城（青山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2011年11月10日</p></td>
@@ -5486,7 +5515,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>314</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>包头万达影城（九原万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年8月17日</p></td>
@@ -5496,7 +5525,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>370</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>赤峰万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5507,7 +5536,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>414</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>乌海万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5518,7 +5547,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>375</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>通辽万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5529,7 +5558,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>酒泉万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5540,7 +5569,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>369</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武威万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5551,7 +5580,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>太原博纳国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年6月20日</p></td>
@@ -5561,7 +5590,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>343</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>太原泰禾影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年12月18日</p></td>
@@ -5571,7 +5600,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>临汾万达影城<br />
 （新百汇广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5582,7 +5611,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>331</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>晋中万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5593,7 +5622,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>381</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>晋中华谊兄弟影院</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2017年9月15日</p></td>
@@ -5603,7 +5632,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>462</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大同万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5614,7 +5643,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>383</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>长治万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5625,7 +5654,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>329</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>榆林万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5636,7 +5665,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>349</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>运城万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5647,7 +5676,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>364</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>福州万达影城<br />
 （金融街万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5658,7 +5687,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>314</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>福州万达影城<br />
 （仓山万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5669,7 +5698,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>261</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>福州金逸影城<br />
 （宝龙店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5680,7 +5709,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>445</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>福州星美国际影城<br />
 （王庄店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5692,7 +5721,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>557</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>福州CGV影城<br />
 （东二环IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5703,7 +5732,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>290</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>福州幸福蓝海国际影城<br />
 （名城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5714,7 +5743,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>304</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>厦门金逸影城<br />
 （明发IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5725,7 +5754,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>厦门万达影城<br />
 （集美万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5736,7 +5765,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>412</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>厦门万达影城<br />
 （世茂海峡广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5747,7 +5776,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>348</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>厦门卢米埃影城<br />
 （宝龙一城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5758,7 +5787,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>莆田万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5769,7 +5798,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>348</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>泉州万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5780,7 +5809,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>416</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>泉州泰禾影城<br />
 （东海店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5791,7 +5820,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>安溪金逸影城<br />
 （宝龙店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5802,7 +5831,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>346</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>晋江万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5813,7 +5842,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>357</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>泉州星轶影城<br />
 （晋江吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5824,7 +5853,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>209</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>漳州万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5835,7 +5864,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>347</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>漳州万达影城<br />
 （台商区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5846,7 +5875,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>381</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>漳州金逸影城<br />
 （红星店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5857,7 +5886,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>249</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宁德万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5868,7 +5897,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>305</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>龙岩万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5879,7 +5908,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>401</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>福清万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5890,7 +5919,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>410</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石狮万达影城<br />
 （世茂广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5901,7 +5930,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>344</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三明万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5912,7 +5941,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>376</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南平万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5923,7 +5952,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>郑州万达影城<br />
 （中原万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5934,7 +5963,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>353</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>郑州CGV影城<br />
 （大卫城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5945,7 +5974,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>郑州万达影城<br />
 （惠济万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5956,7 +5985,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>郑州CGV影城<br />
 （高新店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5967,7 +5996,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>366</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>郑州CGV影城<br />
 （正弘城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5978,7 +6007,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>322</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>郑州金逸影城(高新大学城店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>即将开业</p></td>
@@ -5988,7 +6017,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>洛阳万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -5999,7 +6028,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>295</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>安阳万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6010,7 +6039,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>400</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三门峡万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6021,7 +6050,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>402</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>焦作万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6032,7 +6061,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>386</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南阳万达影城<br />
 （中泰广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6043,7 +6072,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>321</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>平顶山万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6054,7 +6083,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>375</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>新乡万达影城<br />
 （牧野区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6065,7 +6094,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>鹤壁万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6076,7 +6105,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>350</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>商丘万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6087,7 +6116,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>387</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>开封万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6098,7 +6127,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>363</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都万达影城<br />
 （锦华万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6110,7 +6139,7 @@ IMAX中國第3家IMAX影院</p></td>
 254</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都影立方影城<br />
 （东郊记忆773店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6121,7 +6150,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>488</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都万达影城<br />
 （金牛万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6133,7 +6162,7 @@ IMAX中國第3家IMAX影院</p></td>
 381</p></td>
 <td><p>IMAX中国第100家IMAX影院</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都影立方影城<br />
 （城南优品道广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6144,7 +6173,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>436</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都CGV影城<br />
 （金牛店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6155,7 +6184,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>326</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都UA国际金融中心影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年1月14日</p></td>
@@ -6165,7 +6194,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>433</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都卢米埃影城<br />
 （龙湖店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6176,7 +6205,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>352</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都CGV影城<br />
 （高新店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6187,7 +6216,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都SFC上影影城<br />
 （龙湖IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6198,7 +6227,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>320</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都金逸影城<br />
 （鹏瑞利店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6209,7 +6238,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>504</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都CGV影城<br />
 （金楠店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6220,7 +6249,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>284</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都SFC上影影城<br />
 （科华IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6231,7 +6260,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>442</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都万达影城<br />
 （蜀都万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6242,7 +6271,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>338</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都万达影城<br />
 （简阳旭海广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6253,7 +6282,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>312</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都万达影城<br />
 （崇州万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6264,7 +6293,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都万达影城<br />
 （城中城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6275,7 +6304,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>204</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都中视国际影城 IMAX<br />
 （铁建店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6286,7 +6315,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>306</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都幸福蓝海国际影城<br />
 （仁和新城IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6297,7 +6326,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>404</p></td>
 <td><p>IMAX中国第600家IMAX影院</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都CGV影城<br />
 （龙泉驿店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6308,7 +6337,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>311</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都万达影城<br />
 （468店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6319,7 +6348,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>182</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都博纳影城<br />
 （大悦城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6331,7 +6360,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>由于星美集团经营不善被博纳影业集团收购并更名为博纳影城重新装修</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都CGV影城(新都店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年8月25日</p></td>
@@ -6341,7 +6370,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成都万达影城(环球IMAX店)<br />
 原名成都星美国际影商城(环球IMAX店)</p></td>
 <td><p>IMAX数字</p></td>
@@ -6353,7 +6382,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>由于星美集团经营不善被万达集团收购并更名为万达影城重新装修</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>成都英皇电影城<br />
 （新光天地店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6364,7 +6393,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>绵阳万达影城<br />
 （涪城万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6375,7 +6404,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>347</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>绵阳金逸影城<br />
 （奥莱店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6386,7 +6415,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>广元万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6397,7 +6426,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>382</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>内江万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6408,7 +6437,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>自贡星维国际电影城<br />
 （南湖店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6419,7 +6448,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>524</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>泸州CGV影城<br />
 （万象汇店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6430,7 +6459,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>354</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>泸州万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6441,7 +6470,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>427</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>泸州金逸影城(天远广场店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年9月30日</p></td>
@@ -6451,7 +6480,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>资阳万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6462,7 +6491,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>德阳万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6473,7 +6502,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>372</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>乐山万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6484,7 +6513,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>360</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>乐山金逸影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年9月6日</p></td>
@@ -6494,7 +6523,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>遂宁万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6505,7 +6534,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>394</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>眉山万达影城<br />
 （雕像国际广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6516,7 +6545,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>246</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>达州横店电影城<br />
 （罗浮店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6527,7 +6556,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>235</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>雅安万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6538,7 +6567,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>422</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宜宾万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6549,7 +6578,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>388</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆卢米埃影城<br />
 （金源店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6560,7 +6589,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>440[56]</p></td>
 <td><p>重庆第一家IMAX影城[57]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆金逸影城<br />
 （星光时代店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6571,7 +6600,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>332</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆万达影城<br />
 （大渡口广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6582,7 +6611,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>243</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆百丽宫影城<br />
 （万象城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6593,7 +6622,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>456</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆星美国际影商城<br />
 （解放碑店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6604,7 +6633,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>356</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆越界影城<br />
 （大学城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6615,7 +6644,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>445</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆星美国际影商城<br />
 （东原D7店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6626,7 +6655,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>427</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆万达影城<br />
 （巴南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6637,7 +6666,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆越界影城<br />
 （石桥铺店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6648,7 +6677,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>528</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆越界影城<br />
 （汽博中心店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6659,7 +6688,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>410</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆越界影城<br />
 （江北嘴店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6670,7 +6699,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>329</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆万达影城<br />
 （大融城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6681,7 +6710,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>217</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆万达影城<br />
 （永川万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6692,7 +6721,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆万达影城<br />
 （大坪店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6703,7 +6732,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>288</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆CGV影城<br />
 （源著店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6714,7 +6743,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>275</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆CGV影城<br />
 （观音桥店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6725,7 +6754,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>326</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆万达影城<br />
 （北培万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6736,7 +6765,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>355</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆CGV影城<br />
 （U城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6747,7 +6776,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>334</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆万达影城<br />
 （綦江万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6758,7 +6787,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆万达影城<br />
 （大竹林店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6769,7 +6798,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>297</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆万达影城<br />
 （华茂中心店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6780,7 +6809,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>340</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆金逸影城<br />
 （蘭亭IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6791,7 +6820,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>342</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>重庆万达影城(涪陵万达广场店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年7月19日</p></td>
@@ -6801,7 +6830,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>重庆CGV影城(来福士旗舰店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年9月6日</p></td>
@@ -6811,7 +6840,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南昌万达影城<br />
 （八一万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6826,7 +6855,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>277</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南昌万达影城<br />
 （红谷滩万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6841,7 +6870,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>338</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南昌星美国际影城<br />
 （梦时代店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6852,7 +6881,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南昌万达影城<br />
 （万达文化旅游城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6863,7 +6892,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>355</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南昌星轶影城<br />
 （吾悦广场旗舰店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6874,7 +6903,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>306</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南昌万达影城<br />
 （西湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6885,7 +6914,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>395</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南昌万达影城<br />
 （青山湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6896,7 +6925,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>赣州CGV影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年9月19日</p></td>
@@ -6906,7 +6935,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>479</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>赣州英皇电影城(杉杉奥莱店)</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2019年9月28日</p></td>
@@ -6916,7 +6945,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宜春万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6927,7 +6956,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>398</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>宜春大地影院<br />
 （润达国际IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6938,7 +6967,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>新余金逸影城IMAX<br />
 （光美抱石店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6949,7 +6978,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>352</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>上饶万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6960,7 +6989,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>351</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>抚州万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6971,7 +7000,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>406</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>九江万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -6982,17 +7011,17 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>396</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>吉安金逸影城（金鑫瑞德IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>预计2019年12月</p></td>
+<td><p>预计2020年12月</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>贵阳星美国际影城<br />
 （花果园店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7003,7 +7032,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>432</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>贵阳万达影城<br />
 （观山湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7014,7 +7043,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>281</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>贵阳卢米埃影城<br />
 （花溪店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7025,7 +7054,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>231</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>六盘水万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7036,7 +7065,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>411</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南宁万达影城<br />
 （悦荟广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7047,7 +7076,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>255</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南宁永恒·晶钻影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年1月17日</p></td>
@@ -7057,7 +7086,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>399</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南宁新民族影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年6月27日</p></td>
@@ -7067,7 +7096,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>506</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南宁万达影城<br />
 （安吉万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7078,7 +7107,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>341</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南宁万达影城<br />
 （万达茂店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7089,7 +7118,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>384</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>南宁万达影城<br />
 （江南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7100,7 +7129,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>南宁万达影城<br />
 （江宇世纪城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7111,7 +7140,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>201</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>桂林万达影城<br />
 （七星万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7122,7 +7151,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>412</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>桂林万达影城<br />
 （叠彩万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7133,7 +7162,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>362</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>柳州万达影城<br />
 （柳南万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7144,7 +7173,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>394</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>柳州金逸影城<br />
 （万象城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7155,7 +7184,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>393</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北海大地影院<br />
 （宁春城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7166,7 +7195,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>278</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>贵港万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7177,7 +7206,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>359</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>玉林金逸影城<br />
 （凤凰广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7188,7 +7217,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>380</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>玉林万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7199,7 +7228,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>278</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海口中视国际影城<br />
 （国兴店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7210,7 +7239,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>469[59]</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海口星轶影城<br />
 （吾悦广场IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7221,7 +7250,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>343</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海口万达影城<br />
 （海航日月广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7232,7 +7261,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>382</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海口金逸影城<br />
 （星海湾IMAX店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7243,7 +7272,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>448</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海口万达影城<br />
 （秀英万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7254,7 +7283,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>413</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>海口中视国际影城<br />
 （喜盈门店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7265,7 +7294,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>368</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海口CGV影城<br />
 （友谊阳光城店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7276,7 +7305,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>402</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>三亚万达影城<br />
 （万达海棠湾店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7287,7 +7316,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>295</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三亚中视国际影城</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2014年8月2日</p></td>
@@ -7297,7 +7326,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>380</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>西宁万达影城<br />
 （海湖万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7308,7 +7337,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>350</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>西宁万达影城<br />
 （中发源时代广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7319,7 +7348,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>342</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>乌鲁木齐万达影城<br />
 （万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7330,7 +7359,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>345</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>乌鲁木齐万达影城<br />
 （德汇万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7341,7 +7370,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>210</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>乌鲁木齐万达影城<br />
 （高新区万达广场店）</p></td>
 <td><p>IMAX数字</p></td>
@@ -7352,7 +7381,7 @@ IMAX中國第3家IMAX影院</p></td>
 <td><p>339</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -7862,7 +7891,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>武汉武商摩尔国际电影城（国广店）</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2019年12月19日<br />
-预计2019年12月22日启幕仪式</p></td>
+2019年12月22日启幕仪式</p></td>
 <td><p>21.34</p></td>
 <td><p>11.10</p></td>
 <td><p>236.874</p></td>
@@ -7873,8 +7902,8 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>成都英皇电影城<br />
 （温江新光天地店）</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年12月7日启幕仪式<br />
-预计2019年12月25日</p></td>
+<td><p>2019年12月7日启幕仪式<br />
+2019年12月25日</p></td>
 <td><p>23.87</p></td>
 <td><p>12.46</p></td>
 <td><p>297.4202</p></td>
@@ -7882,38 +7911,48 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
+<td><p>茂名东汇国际影城</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2019年12月25日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
 <td><p>深圳万象影城<br />
 （天安数码城激光IMAX店）</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年</p></td>
+<td><p>2019年12月31日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>5.1聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>深圳英皇电影城<br />
 （平安金融中心店)</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年</p></td>
+<td><p>预计2020年</p></td>
 <td><p>20.80</p></td>
 <td><p>11.00</p></td>
 <td><p>228.8</p></td>
 <td><p>277</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
-<td><p>茂名东汇国际影城</p></td>
+<tr class="even">
+<td><p>福州海峡文化艺术中心</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>预计2019年12月</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>预计2020年12月</p></td>
+<td><p>20.39</p></td>
+<td><p>10.59</p></td>
+<td><p>215.9301</p></td>
+<td><p>465</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>福州万达影城(仓山万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2011年12月<br />
@@ -7924,7 +7963,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>261</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北京万达影城<br />
 （石景山万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7936,7 +7975,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>433</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>绵阳万达影城<br />
 （涪城万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7948,7 +7987,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>347</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宁波万达影城<br />
 （鄞州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7960,7 +7999,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>336</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北京万达影城<br />
 （通州万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7975,7 +8014,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>424</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>天津万达影城<br />
 （河东万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -7988,7 +8027,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>398</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石家庄万达影城<br />
 （裕华万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -8001,7 +8040,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>385</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>青岛万达影城<br />
 （CBD万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -8017,7 +8056,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>374</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>北京UME国际影城<br />
 （华星店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -8032,7 +8071,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>IMAX中國第4家IMAX影院<br />
 12聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>北京万达影城<br />
 （CBD万达广场店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -8045,7 +8084,7 @@ IMAX中國第8家IMAX影院</p></td>
 328</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>上海SFC上影影城<br />
 （港汇永华IMAX店）</p></td>
 <td><p>新一代IMAX激光</p></td>
@@ -8058,7 +8097,7 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>298</p></td>
 <td><p>聲道音響系統</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

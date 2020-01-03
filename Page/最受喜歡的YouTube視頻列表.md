@@ -179,7 +179,19 @@
 <td><center>
 <p>13.</p>
 </center></td>
-<td><p>[15]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">Baby Shark Dance</a>[15]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">鯊魚寶寶</a></p></td>
+<td><p><a href="../Page/碰碰狐.md" title="wikilink">碰碰狐</a></p></td>
+<td><p>1,264</p></td>
+<td><p>%}}</p></td>
+<td><p>2016年6月17日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>14.</p>
+</center></td>
+<td><p>[16]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Taki_Taki" title="wikilink">Taki Taki</a></p></td>
 <td><p><a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a><small>（<a href="https://zh.wikipedia.org/wiki/席琳娜·戈梅茲" title="wikilink">席琳娜·戈梅茲</a>、、<a href="../Page/卡迪·B.md" title="wikilink">卡迪·B</a>伴唱）</small></p></td>
 <td><p>1,253</p></td>
@@ -187,28 +199,16 @@
 <td><p>2018年10月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><center>
-<p>14.</p>
-</center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">Baby</a>[16]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">寶貝</a></p></td>
-<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">小賈斯汀</a><small>（<a href="https://zh.wikipedia.org/wiki/路達克里斯" title="wikilink">盧達克里斯伴唱</a>）</small></p></td>
-<td><p>1,239</p></td>
-<td><p>%}}</p></td>
-<td><p>2010年2月19日</p></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><center>
 <p>15.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">Baby Shark Dance</a>[17]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">鯊魚寶寶</a></p></td>
-<td><p><a href="../Page/碰碰狐.md" title="wikilink">碰碰狐</a></p></td>
-<td><p>1,233</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">Baby</a>[17]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Baby_(歌曲)" title="wikilink">寶貝</a></p></td>
+<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">小賈斯汀</a><small>（<a href="https://zh.wikipedia.org/wiki/路達克里斯" title="wikilink">盧達克里斯伴唱</a>）</small></p></td>
+<td><p>1,246</p></td>
 <td><p>%}}</p></td>
-<td><p>2016年6月17日</p></td>
+<td><p>2010年2月19日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -227,24 +227,24 @@
 <td><center>
 <p>17.</p>
 </center></td>
-<td><p><a href="../Page/完美無瑕.md" title="wikilink">Perfect</a>[19]</p></td>
-<td><p><a href="../Page/完美無瑕.md" title="wikilink">完美無瑕</a></p></td>
-<td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a></p></td>
-<td><p>1,166</p></td>
+<td><p>Make This Video The Most Liked Video On YouTube[19]</p></td>
+<td><p>讓這部影片成為YouTube上最受喜歡的影片</p></td>
+<td><p><a href="../Page/MrBeast.md" title="wikilink">MrBeast</a></p></td>
+<td><p>1,190</p></td>
 <td><p>%}}</p></td>
-<td><p>2017年11月9日</p></td>
+<td><p>2019年1月16日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>18.</p>
 </center></td>
-<td><p>Make This Video The Most Liked Video On YouTube[20]</p></td>
-<td><p>讓這部影片成為YouTube上最受喜歡的影片</p></td>
-<td><p><a href="../Page/MrBeast.md" title="wikilink">MrBeast</a></p></td>
-<td><p>1,164</p></td>
+<td><p><a href="../Page/完美無瑕.md" title="wikilink">Perfect</a>[20]</p></td>
+<td><p><a href="../Page/完美無瑕.md" title="wikilink">完美無瑕</a></p></td>
+<td><p><a href="../Page/紅髮艾德.md" title="wikilink">紅髮艾德</a></p></td>
+<td><p>1,166</p></td>
 <td><p>%}}</p></td>
-<td><p>2019年1月16日</p></td>
+<td><p>2017年11月9日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -275,48 +275,48 @@
 <td><center>
 <p>21.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">Lean On</a>[23]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">依靠</a></p></td>
-<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ</a>伴唱）</small></p></td>
-<td><p>1,137</p></td>
+<td><p>[23]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/饒舌之神" title="wikilink">饒舌之神</a></p></td>
+<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a></p></td>
+<td><p>1,147</p></td>
 <td><p>%}}</p></td>
-<td><p>2015年3月22日</p></td>
+<td><p>2013年11月27日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>22.</p>
 </center></td>
-<td><p>[24]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/饒舌之神" title="wikilink">饒舌之神</a></p></td>
-<td><p><a href="../Page/阿姆.md" title="wikilink">阿姆</a></p></td>
-<td><p>1,136</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">Ddu-Du Ddu-Du</a>[24]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">Ddu-Du Ddu-Du</a></p></td>
+<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
+<td><p>1,145</p></td>
 <td><p>%}}</p></td>
-<td><p>2013年11月27日</p></td>
+<td><p>2018年6月15日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>23.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">Ddu-Du Ddu-Du</a>[25]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du" title="wikilink">Ddu-Du Ddu-Du</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">Kill This Love</a>[25]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">愛情殺手</a></p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>1,135</p></td>
+<td><p>1,144</p></td>
 <td><p>%}}</p></td>
-<td><p>2018年6月15日</p></td>
+<td><p>2019年4月4日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>24.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">Kill This Love</a>[26]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">愛情殺手</a></p></td>
-<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
-<td><p>1,129</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">Lean On</a>[26]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">依靠</a></p></td>
+<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ</a>伴唱）</small></p></td>
+<td><p>1,141</p></td>
 <td><p>%}}</p></td>
-<td><p>2019年4月4日</p></td>
+<td><p>2015年3月22日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -335,12 +335,12 @@
 <td><center>
 <p>26.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甜心" title="wikilink">Sugar</a>[28]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/糖中毒" title="wikilink">糖中毒</a></p></td>
-<td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a></p></td>
-<td><p>1,096</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bad_Guy" title="wikilink">Bad Guy</a>[28]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Bad_Guy" title="wikilink">壞傢伙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/怪奇比莉" title="wikilink">怪奇比莉</a></p></td>
+<td><p>1,108</p></td>
 <td><p>%}}</p></td>
-<td><p>2015年1月14日</p></td>
+<td><p>2019年3月29日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -351,7 +351,7 @@
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/虛偽的愛" title="wikilink">虛偽的愛</a></p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p>1,095</p></td>
+<td><p>1,103</p></td>
 <td><p>%}}</p></td>
 <td><p>2018年5月18日</p></td>
 <td></td>
@@ -360,24 +360,24 @@
 <td><center>
 <p>28.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神的旨意" title="wikilink">God's Plan</a>[30]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神的旨意" title="wikilink">神的旨意</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德瑞克_(歌手)" title="wikilink">德瑞克</a></p></td>
-<td><p>1,094</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/甜心" title="wikilink">Sugar</a>[30]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/糖中毒" title="wikilink">糖中毒</a></p></td>
+<td><p><a href="../Page/魔力紅.md" title="wikilink">魔力紅</a></p></td>
+<td><p>1,096</p></td>
 <td><p>%}}</p></td>
-<td><p>2018年2月16日</p></td>
+<td><p>2015年1月14日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>29.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Bad_Guy" title="wikilink">Bad Guy</a>[31]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Bad_Guy" title="wikilink">壞傢伙</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/怪奇比莉" title="wikilink">怪奇比莉</a></p></td>
-<td><p>1,089</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神的旨意" title="wikilink">God's Plan</a>[31]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神的旨意" title="wikilink">神的旨意</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德瑞克_(歌手)" title="wikilink">德瑞克</a></p></td>
+<td><p>1,094</p></td>
 <td><p>%}}</p></td>
-<td><p>2019年3月29日</p></td>
+<td><p>2018年2月16日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -403,7 +403,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><small>截至2019年12月12日</small></p></td>
+<td><p><small>截至2019年12月24日</small></p></td>
 <td></td>
 <td></td>
 <td></td>

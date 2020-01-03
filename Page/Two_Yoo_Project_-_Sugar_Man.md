@@ -1628,7 +1628,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>02</p></td>
 <td><p>12月6日</p></td>
 <td><p>在錫隊</p></td>
-<td></td>
+<td><p><a href="../Page/梁俊日.md" title="wikilink">梁俊日</a></p></td>
 <td><p>Rebecca（）</p></td>
 <td><p><a href="../Page/金在奐.md" title="wikilink">金在奐</a></p></td>
 <td><p>在錫隊</p></td>
@@ -1648,7 +1648,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>03</p></td>
 <td><p>12月13日</p></td>
 <td><p>在錫隊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/A.R.T" title="wikilink">A.R.T</a></p></td>
+<td><p>A.R.T</p></td>
 <td><p>悲傷容顏（）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a></p></td>
 <td><p>熙烈隊</p></td>
@@ -1668,16 +1668,16 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>04</p></td>
 <td><p>12月20日</p></td>
 <td><p>在錫隊</p></td>
-<td></td>
-<td><p>（）</p></td>
+<td><p><a href="../Page/LPG_(音樂團體).md" title="wikilink">LPG</a></p></td>
+<td><p>Can Can（）</p></td>
 <td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
-<td></td>
-<td></td>
+<td><p>熙烈隊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉影像出演</a></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
 <td></td>
-<td><p>（）</p></td>
+<td><p>愉快的生活（）</p></td>
 <td><p>&amp; <a href="../Page/Kisum.md" title="wikilink">Kisum</a></p></td>
 <td></td>
 <td></td>
@@ -1685,19 +1685,9 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>05</p></td>
-<td><p>12月27日</p></td>
-<td><p>在錫隊</p></td>
-<td></td>
-<td><p>（）</p></td>
 <td></td>
 <td></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>熙烈隊</p></td>
-<td></td>
-<td><p>（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1706,6 +1696,14 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 </tr>
 </tbody>
 </table>
+
+#### 2020年
+
+| 集數  | 播出日期 | 隊伍  | 原唱歌手 | 歌曲 | 表演歌手 | 勝利隊伍 | 備註 |
+| --- | ---- | --- | ---- | -- | ---- | ---- | -- |
+| 05  | 1月3日 | 在錫隊 |      | （） |      |      |    |
+| 熙烈隊 |      | （）  |      |    |      |      |    |
+|     |      |     |      |    |      |      |    |
 
 ## 收視率
 

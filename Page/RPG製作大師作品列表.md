@@ -14,7 +14,7 @@
 ### 日文遊戲
 
   - [盜人講座](http://www5c.biglobe.ne.jp/~w-n/index.html)，作者：ｗ－ｎ
-      - [正體中文網站](http://happyroy.myweb.hinet.net/nusutto/)
+      - [正體中文網站](https://web.archive.org/web/20160614182501/http://happyroy.myweb.hinet.net/nusutto/)
   - [Ib](../Page/Ib_\(遊戲\).md "wikilink")，作者：kouri
       - [正體中文網站](http://stkib.web.fc2.com/index.html)
   - [Ruina 廃都の物語](https://zh.wikipedia.org/wiki/廢都物語 "wikilink")，作者：枯草章吉
@@ -284,5 +284,6 @@
   - (2016) 靈幻九叔，作者：[SIAKO.MOBI Group](https://web.archive.org/web/20180121230201/http://siakomobi.me/)
   - (2016) 鬪神塔，作者：[SIAKO.MOBI Group](https://web.archive.org/web/20180121230201/http://siakomobi.me/)
   - (2016) 泡泡星球的娜塔莉，作者：[Caliburn Studio](http://www.caliburn.tw/)
+  - (2019) [白王子與黑騎士](https://zh.wikipedia.org/wiki/白王子與黑騎士 "wikilink")，作者：Cleopatra
 
 [Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink")

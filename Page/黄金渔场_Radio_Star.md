@@ -4902,9 +4902,16 @@
 <tr class="odd">
 <td><p>648</p></td>
 <td><p>12月18日</p></td>
-<td><p><a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、李奎成、<a href="https://zh.wikipedia.org/wiki/達淵" title="wikilink">達淵</a> (<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a>)</p></td>
+<td><p><a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a>、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、李奎成、<a href="../Page/達淵.md" title="wikilink">達淵</a> (<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a>)</p></td>
 <td><p>“不要嘚瑟...”特輯</p></td>
 <td><p><a href="../Page/夫勝寛.md" title="wikilink">夫勝寛</a>擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>649</p></td>
+<td><p>12月25日</p></td>
+<td><p><a href="../Page/金英浩.md" title="wikilink">金英浩</a>、<a href="../Page/JooE.md" title="wikilink">JooE</a> (<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)、<a href="../Page/萨姆·奥乞里.md" title="wikilink">Sam Okyere</a>、<a href="../Page/Sleepy_(韓國歌手).md" title="wikilink">Sleepy</a> (<a href="../Page/Untouchable_(韓國團體).md" title="wikilink">Untouchable</a>)</p></td>
+<td><p>“圣诞的奇迹”特輯</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹擔任特别主持</a>。</p></td>
 </tr>
 </tbody>
 </table>

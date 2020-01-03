@@ -29,6 +29,7 @@
 | 15                                                                           |
 | 2017年因[KBS工會大規模罷工行動而停辦一年](https://zh.wikipedia.org/wiki/KBS "wikilink")\[1\] |
 | 16                                                                           |
+| 17                                                                           |
 
 ## 歷屆得獎名單
 
@@ -37,6 +38,7 @@
 | 2010年代 |
 | ------ |
 | 屆數     |
+| 17     |
 | 16     |
 | 15     |
 | 14     |
@@ -63,6 +65,7 @@
 | 2010年代 |
 | ------ |
 | 屆數     |
+| 17     |
 | 16     |
 | 15     |
 | 14     |
@@ -86,7 +89,7 @@
 
 ### 最優秀獎
 
-| 2010年代（2016年至今）                |
+| 2010年代（2016年至2018年）            |
 | ------------------------------ |
 | 屆數                             |
 | 得主                             |
@@ -98,7 +101,7 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>2010年代（2010年至2015年）</p></th>
+<th><p>2010年代（2010年至2015年、2019年）</p></th>
 </tr>
 </thead>
 <tbody>
@@ -109,39 +112,42 @@
 <td><p>得主</p></td>
 </tr>
 <tr class="odd">
+<td><p>17</p></td>
+</tr>
+<tr class="even">
 <td><p>14</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/朴明洙.md" title="wikilink">朴明洙</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>13</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/朴美善.md" title="wikilink">朴美善</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/金勝友.md" title="wikilink">金勝友</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李昇基.md" title="wikilink">李昇基</a></p></td>
 </tr>
 </tbody>
@@ -195,19 +201,19 @@
 
 ### 優秀獎
 
-| 2010年代（2016年至今）                                     |
-| --------------------------------------------------- |
-| 屆數                                                  |
-| 得主                                                  |
-| 16                                                  |
-| [曹世鎬](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink") |
-| 15                                                  |
-| [奇太映](../Page/奇太映.md "wikilink")                    |
+| 2010年代（2016年至2018年）              |
+| -------------------------------- |
+| 屆數                               |
+| 得主                               |
+| 16                               |
+| [曹世鎬](../Page/曹世镐.md "wikilink") |
+| 15                               |
+| [奇太映](../Page/奇太映.md "wikilink") |
 
 <table>
 <thead>
 <tr class="header">
-<th><p>2010年代（2010年至2015年）</p></th>
+<th><p>2010年代（2010年至2015年、2019年）</p></th>
 </tr>
 </thead>
 <tbody>
@@ -216,6 +222,12 @@
 </tr>
 <tr class="even">
 <td><p>得主</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
@@ -319,23 +331,24 @@
 
 ### 新人獎
 
-| 2010年代（2016年至今） |
-| --------------- |
-| 屆數              |
-| Talk & Show部門   |
-| 16              |
-| 15              |
-
-| 2010年代（2010年至2015年） |
+| 2010年代（2016年至2018年） |
 | ------------------- |
 | 屆數                  |
-| Show/娛樂部門           |
-| 14                  |
-| 13                  |
-| 12                  |
-| 11                  |
-| 10                  |
-| 9                   |
+| Talk & Show部門       |
+| 16                  |
+| 15                  |
+
+| 2010年代（2010年至2015年、2019年） |
+| ------------------------- |
+| 屆數                        |
+| Show/娛樂部門                 |
+| 17                        |
+| 14                        |
+| 13                        |
+| 12                        |
+| 11                        |
+| 10                        |
+| 9                         |
 
 | 2000年代    |
 | --------- |
@@ -355,6 +368,7 @@
 | 2010年代 |
 | ------ |
 | 屆數     |
+| 17     |
 | 16     |
 | 15     |
 | 14     |
@@ -399,41 +413,44 @@
 <td><p>得主</p></td>
 </tr>
 <tr class="odd">
-<td><p>16</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
+<td><p>16</p></td>
+</tr>
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/大國民Talk_Show-你好" title="wikilink">大國民Talk Show-你好</a>》製作組<br />
 （文恩愛、朴在恩、李杜里、朴多慧、<br />
 李恩珠、張慧英、朴藝娜、金芝潤）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>15</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>池賢淑</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>13</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金智恩</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>趙喜悅</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 </tr>
 </tbody>
@@ -481,7 +498,7 @@
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李同國" title="wikilink">李同國</a></p></td>
+<td><p><a href="../Page/李同国.md" title="wikilink">李同國</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金柱赫.md" title="wikilink">金柱赫</a></p></td>
@@ -584,6 +601,7 @@
 
 | 屆數 | 年份    | 得獎節目                                               |
 | -- | ----- | -------------------------------------------------- |
+| 17 | 2019年 | 《[Happy Together 4](../Page/歡樂在一起.md "wikilink")》  |
 | 16 | 2018年 | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》     |
 | 15 | 2016年 | 《[Happy Together 3](../Page/歡樂在一起.md "wikilink")》  |
 | 14 | 2015年 | 《[我們小區藝體能](../Page/我們小區藝體能.md "wikilink")》         |
@@ -606,6 +624,18 @@
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<a href="https://zh.wikipedia.org/wiki/李英子" title="wikilink">李英子</a></p></td>
+<td><p>《<a href="../Page/新品上市_便利餐廳.md" title="wikilink">新品上市 便利餐廳</a>》</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/崔普閔.md" title="wikilink">崔普閔</a>（<a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>）、<a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/音樂銀行" title="wikilink">音樂銀行</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2018年</p></td>
@@ -633,7 +663,7 @@
 </tbody>
 </table>
 
-### 人氣獎
+### 人氣獎／Best Icon獎
 
 <table>
 <thead>
@@ -646,6 +676,18 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>17</p></td>
+<td><p>2019年</p></td>
+<td><ul>
+<li><a href="../Page/森姆·汗明頓.md" title="wikilink">森姆·汗明頓</a>兒子（威廉·汗明頓、本特利·汗明頓）</li>
+<li><a href="../Page/朴柱昊.md" title="wikilink">朴柱昊</a>子女（朴娜恩、朴建厚）</li>
+<li><a href="../Page/文熙俊.md" title="wikilink">文熙俊</a>女兒（文熙燏）</li>
+<li><a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民女兒</a>（洪拉媛、洪拉林）</li>
+<li><p>子女（都延宇、都夏英）</p></li>
+</ul></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
+</tr>
+<tr class="even">
 <td><p>16</p></td>
 <td><p>2018年</p></td>
 <td><ul>
@@ -657,7 +699,7 @@
 </ul></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15</p></td>
 <td><p>2016年</p></td>
 <td><ul>
@@ -668,7 +710,7 @@
 </ul></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>13</p></td>
 <td><p>2014年</p></td>
 <td><ul>
@@ -687,6 +729,7 @@
 | 2010年代 |
 | ------ |
 | 屆數     |
+| 17     |
 | 16     |
 | 14     |
 | 13     |
@@ -717,48 +760,54 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>17</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a></p></td>
+<td><p>《<a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a>》、《<a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a>》</p></td>
+</tr>
+<tr class="even">
 <td><p>16</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a></p></td>
 <td><p>《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15</p></td>
 <td><p>2016年</p></td>
 <td><p><a href="../Page/朴軫永.md" title="wikilink">朴軫永</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 <td><p>2015年</p></td>
 <td><p><a href="../Page/崔佛岩.md" title="wikilink">崔佛岩</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>13</p></td>
 <td><p>2014年</p></td>
 <td><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12</p></td>
 <td><p>2013年</p></td>
 <td><p><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p>2011年</p></td>
 <td></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/出發夢之隊2" title="wikilink">出發夢之隊2</a>》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9</p></td>
 <td><p>2010年</p></td>
 <td></td>
@@ -804,9 +853,12 @@
 <td><p>得主</p></td>
 </tr>
 <tr class="odd">
-<td><p>16</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
+<td><p>16</p></td>
+</tr>
+<tr class="odd">
 <td><p>（<a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a>）</p></td>
 </tr>
 </tbody>
@@ -859,6 +911,90 @@
 | 1                                                                                          |
 | [申彗星](../Page/申彗星.md "wikilink")（[神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")） |
 
+### Hot Issue 綜藝節目獎
+
+| 屆數 | 年份    | 得獎節目                                           |
+| -- | ----- | ---------------------------------------------- |
+| 17 | 2019年 | 《[新品上市 便利餐廳](../Page/新品上市_便利餐廳.md "wikilink")》 |
+| 16 | 2018年 | 《》                                             |
+| 15 | 2016年 | 《[心裡的聲音](../Page/心裡的聲音.md "wikilink")》         |
+
+### Hot Issue 綜藝人獎
+
+<table>
+<thead>
+<tr class="header">
+<th><p>屆數</p></th>
+<th><p>年份</p></th>
+<th><p>得主</p></th>
+<th><p>代表節目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/姜東昊.md" title="wikilink">白虎</a>（<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>）</p></td>
+<td><p>《<a href="../Page/加油吧曼蘇爾.md" title="wikilink">加油吧曼蘇爾</a>》</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/崔敏煥.md" title="wikilink">崔敏煥</a>（(<a href="../Page/FTIsland.md" title="wikilink">FTIsland</a>）</p></td>
+<td><p>《》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>《<a href="../Page/社長的耳朵是驢耳朵.md" title="wikilink">社長的耳朵是驢耳朵</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>《》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2018年</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/裴正南.md" title="wikilink">裴正南</a></p></td>
+<td><p>《<a href="../Page/1%的友情.md" title="wikilink">1%的友情</a>》、<br />
+《》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/奉太奎.md" title="wikilink">奉太奎</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/彩娟.md" title="wikilink">彩娟</a>（<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>）</p></td>
+<td><p>《<a href="../Page/To._Jenny.md" title="wikilink">To. Jenny</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/華莎.md" title="wikilink">華莎</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a>》</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他獎項
 
 <table>
@@ -873,77 +1009,41 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>17</p></td>
+<td><p>2019年</p></td>
+<td><p>最佳挑戰獎</p></td>
+<td><p>《<a href="../Page/屋塔房的問題兒童們.md" title="wikilink">屋塔房的問題兒童們</a>》、《<a href="../Page/加油吧曼蘇爾.md" title="wikilink">加油吧曼蘇爾</a>》</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度最佳工作人員獎</p></td>
+<td><p>金承俊</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>16</p></td>
 <td><p>2018年</p></td>
-<td><p>Hot Issue 綜藝人獎</p></td>
-<td></td>
-<td><p>《<a href="../Page/1%的友情.md" title="wikilink">1%的友情</a>》、<br />
-《》</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/奉太奎.md" title="wikilink">奉太奎</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/彩娟.md" title="wikilink">彩娟</a>（<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>）</p></td>
-<td><p>《<a href="../Page/To._Jenny.md" title="wikilink">To. Jenny</a>》</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/華莎.md" title="wikilink">華莎</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a>》</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Hot Issue 綜藝節目獎</p></td>
-<td><p>《》</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>年度最佳工作人員獎</p></td>
 <td><p>金勇善</p></td>
 <td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>15</p></td>
-<td><p>2016年</p></td>
-<td><p>Hot Issue 綜藝節目獎</p></td>
-<td><p>《<a href="../Page/心裡的聲音.md" title="wikilink">心裡的聲音</a>》</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>12</p></td>
 <td><p>2013年</p></td>
 <td><p>流動電視人氣獎</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a>》</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>實驗精神獎</p></td>
 <td><p>《》</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>2004年</p></td>
 <td><p>最優秀電台節目獎</p></td>
@@ -962,6 +1062,7 @@
   - [《2015 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/enter15/pc/)
   - [《2016 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/enter16/pc/)
   - [《2018 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/2018kbsentawards/pc/)
+  - [《2019 KBS演藝大獎》官方網站](http://program.kbs.co.kr/2tv/enter/2019kbsentawards/pc/)
 
 [Category:KBS演藝大獎](https://zh.wikipedia.org/wiki/Category:KBS演藝大獎 "wikilink") [Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
 

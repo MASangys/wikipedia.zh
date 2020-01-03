@@ -249,20 +249,21 @@
 
 ### 專屬綜藝節目
 
-|                   |                                                          |                                                                   |                                                                                           |       |
-| ----------------- | -------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- |
-| 年份                | 日期                                                       | |頻道                                                               | |節目名稱                                                                                     | |參與成員 |
-| 2011年             | 3月11日－6月10日                                              | TrendE                                                            | 《[Apink NEWS](https://web.archive.org/web/20130928071143/http://apink.hyundaimedia.com/)》 | 全員    |
-| 11月25日－2012年2月10日 | |《[Apink NEWS season 2](http://apink2.hyundaimedia.com)》 |                                                                   |                                                                                           |       |
-| 2012年             | 6月22日－9月14日                                              | |《[Apink NEWS season 3](http://apink3.hyundaimedia.com)》          |                                                                                           |       |
-| 2014年             | 8月7日－9月25日                                               | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》\[1\]                         |       |
-| 11月24日－11月28日     | 1theK                                                    | 《Apink Oven Radio 》                                               |                                                                                           |       |
-| 2016年             | 9月20日－10月12日                                             | [NAVER](../Page/NAVER.md "wikilink") V LIVE                       | 《[Extreme Adventure](https://zh.wikipedia.org/wiki/Extreme_Adventure "wikilink") 》\[2\]   |       |
-| 2017年             | 4月28日－8月11日                                              | [NAVER](../Page/NAVER.md "wikilink")V LIVE+                       | 《尋找A Pink的"X-Pink"》                                                                       |       |
-| 9月15日－2018年3月23日  | [NAVER](../Page/NAVER.md "wikilink") V LIVE+             | 《Apink Put Your Hands Up》                                         |                                                                                           |       |
-| 2018年             | 1月22日－2月5日                                               | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink")     | 《Racing Star with A Pink》                                                                 |       |
-| 2019年             | 5月7日－7月9日                                                | [NAVER](../Page/NAVER.md "wikilink") V LIVE+                      | 《Everybody Ready\!》                                                                       |       |
-| 7月23日－            | Lifetime                                                 | 《鄭恩地的雪梨陽光》                                                        | 鄭恩地                                                                                       |       |
+|                   |                                                               |                                                               |                                                                                           |       |
+| ----------------- | ------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----- |
+| 年份                | 日期                                                            | |頻道                                                           | |節目名稱                                                                                     | |參與成員 |
+| 2011年             | 3月11日－6月10日                                                   | TrendE                                                        | 《[Apink NEWS](https://web.archive.org/web/20130928071143/http://apink.hyundaimedia.com/)》 | 全員    |
+| 11月25日－2012年2月10日 | |《[Apink NEWS season 2](http://apink2.hyundaimedia.com)》      |                                                               |                                                                                           |       |
+| 2012年             | 6月22日－9月14日                                                   | |《[Apink NEWS season 3](http://apink3.hyundaimedia.com)》      |                                                                                           |       |
+| 2014年             | 8月7日－9月25日                                                    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") every1    | 《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》\[1\]                         |       |
+| 11月24日－11月28日     | 1theK                                                         | 《Apink Oven Radio》                                            |                                                                                           |       |
+| 2016年             | 9月20日－10月12日                                                  | [NAVER](../Page/NAVER.md "wikilink") V LIVE                   | 《Extreme Adventure 》\[2\]                                                                 |       |
+| 2017年             | 4月28日－8月11日                                                   | [NAVER](../Page/NAVER.md "wikilink")V LIVE+                   | 《尋找A Pink的"X-Pink"》                                                                       |       |
+| 9月15日－2018年3月23日  | [NAVER](../Page/NAVER.md "wikilink") V LIVE+                  | 《Apink Put Your Hands Up》                                     |                                                                                           |       |
+| 2018年             | 1月22日－2月5日                                                    | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink") | 《Racing Star with A Pink》                                                                 |       |
+| 2019年             | 5月7日－7月9日                                                     | [NAVER](../Page/NAVER.md "wikilink") V LIVE+                  | 《Everybody Ready\!》                                                                       |       |
+| 7月23日－9月24日       | Lifetime                                                      | 《鄭恩地的悉尼陽光》                                                    | 鄭恩地                                                                                       |       |
+| 12月3日－            | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink") | 《初瓏和夏榮的感性trip》                                                | 朴初瓏、吳夏榮                                                                                   |       |
 
 ### 固定綜藝節目
 
@@ -576,6 +577,7 @@
 | 7月7日、14日                                              |
 | 7月23日                                                 |
 | 7月30日                                                 |
+| 8月21日                                                 |
 | 8月22日、26日、29日                                         |
 | 8月23日                                                 |
 | 8月24日                                                 |
@@ -586,11 +588,14 @@
 | 8月27日                                                 |
 | 9月8日、15日、22日                                          |
 | 9月11日、18日                                             |
+| 10月6日–10月13日                                          |
 | 9月14日                                                 |
 | 10月13日                                                |
 | 10月30日                                                |
 | 11月13日                                                |
 | 11月28日                                                |
+| 12月25日                                                |
+| 12月31日                                                |
 
 ## 音樂錄影帶
 
@@ -824,6 +829,7 @@
 | 2017年廣播節目列表 |
 | ----------- |
 | 播放日期        |
+| 7月1日        |
 | 7月5日        |
 | 7月12日       |
 

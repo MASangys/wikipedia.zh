@@ -61,7 +61,7 @@
 ## 參考文獻
 
   -
-  - —《輕兵器》雜誌2015年10月上號：[波兰陆军订购Beryl步枪和紧凑型Mini―Beryl步枪](http://www.xzbu.com/8/view-7075115.htm)
+  - —《輕兵器》雜誌2015年10月上號：[波兰陆军订购Beryl步枪和紧凑型Mini―Beryl步枪](https://web.archive.org/web/20160413062942/http://www.xzbu.com/8/view-7075115.htm)
 
 ## 外部連結
 

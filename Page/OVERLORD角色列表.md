@@ -673,7 +673,7 @@ NPC們稱為「無上至尊」、「至高的41人」。
 
   -
     種族等級：[自動人偶Lv](https://zh.wikipedia.org/wiki/自動人偶 "wikilink")5\[54\]。
-    職業等級：[槍手](../Page/槍手.md "wikilink")Lv10、[狙擊手](../Page/狙擊手.md "wikilink")Lv3、暗殺者Lv3、[獵捕者Lv](https://zh.wikipedia.org/wiki/獵捕者 "wikilink")3\[55\]等。
+    職業等級：[槍手](../Page/槍手.md "wikilink")Lv10、[狙擊手](../Page/狙擊手.md "wikilink")Lv3、暗殺者Lv3、[獵捕者](../Page/獵捕者.md "wikilink")Lv3\[55\]等。
     別稱：「奇襲突擊女僕」。
     種族(5)+職業(41)綜合等級是46級，角色創造者是石榴石\[56\]；web版中則是翠玉錄。
     職位: 納薩力克地下大墳墓地下第九層戰鬥女僕。

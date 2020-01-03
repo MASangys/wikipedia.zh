@@ -39,7 +39,7 @@ VP9亦跟隨著最近的現代手槍設計趨勢，大量地採用耐高溫、�
 
 VP9的[機械瞄具](../Page/機械瞄具.md "wikilink")包括後方的方形缺口式[照門及前方的片狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")，[瞄準基線長為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")162毫米（6.38英吋）。三點式準星上已經塗上了非[放射性](../Page/放射性.md "wikilink")[光致发光的](https://zh.wikipedia.org/wiki/光致发光 "wikilink")[超級夜光塗料](https://zh.wikipedia.org/wiki/超級夜光 "wikilink")，可以在照明條件不利以下透過[增強對比協助瞄準以及射擊](https://zh.wikipedia.org/wiki/機械瞄具#增強對比 "wikilink")。在使用方面，VP9外表面沒有尖銳棱角，拔槍動作完全可以達到流暢順利的等級。
 
-VP9還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，最大載重可達159g而不影響正常射擊。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
+VP9還在[套筒下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、[底把的](../Page/机匣.md "wikilink")[扳機護環前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")整合了一條[MIL-STD-1913式戰術燈安裝導軌](../Page/皮卡汀尼導軌.md "wikilink")，以安裝各種[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器和其他戰術配件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，最大載重可達159g而不影響正常射擊。安裝後是十分穩固的，而且無需使用任何工具輔助安裝。
 
 VP9的[彈匣](../Page/彈匣.md "wikilink")在沒有上子彈時的重量為93克（3.28盎司，0.21磅）。 [SFP9-SF.jpg](https://zh.wikipedia.org/wiki/File:SFP9-SF.jpg "fig:SFP9-SF.jpg") 清潔VP9的時候，可以在不需要任何工具以下就將VP9不完全分解成各個組件。分解手槍的時候，握槍手不需要離開握把就可以分解[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，即使動手能力不強的人也可輕鬆拆解。先拆下彈匣，前後拉動套筒（若膛室為上膛中，此時拋殼挺會將彈拋出），然後使套筒復位。在膛室無彈的情況以下再後拉套筒，並順時針旋動扳機上方的分解手柄，即可取下套筒、復進簧、槍管組件。使用擦槍布擦拭膛室及槍管、復進簧、套筒以後，便可作重新組裝，組裝的順序與分解順序相反。組裝完成以後，在安裝彈匣之前，應前後拉動套筒數次，以確保套筒、復進簧動作順暢。整個拆裝、擦拭過程應當不超過5分鐘。若果使用噴霧清潔槍械的話還可縮短時間。
 

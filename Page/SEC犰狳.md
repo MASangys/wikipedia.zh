@@ -1,7 +1,7 @@
 > 本文内容由[SEC犰狳](https://zh.wikipedia.org/wiki/SEC犰狳)转换而来。
 
 
-**SEC犰狳（SEC Armadillo）\[1\]**原名**克莱德大厅**（Clyde Auditorium）位于[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")[格拉斯哥](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")[克莱德河河畔](https://zh.wikipedia.org/wiki/克莱德河 "wikilink")，毗邻苏格兰会展会议中心（SECC），为现代格拉斯哥的地标之一。
+**克萊德音樂廳（SEC Armadillo）\[1\]**原名**克莱德大厅**（Clyde Auditorium）位于[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")[格拉斯哥](https://zh.wikipedia.org/wiki/格拉斯哥 "wikilink")[克莱德河河畔](https://zh.wikipedia.org/wiki/克莱德河 "wikilink")，毗邻苏格兰会展会议中心（SECC），为现代格拉斯哥的地标之一。
 
 ## 历史
 

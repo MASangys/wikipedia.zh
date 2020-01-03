@@ -122,14 +122,18 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> （自2006年）</p></td>
 </tr>
 <tr class="even">
+<td><p>穿着異性服飾的合法性</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>女同性恋体外受精</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>男同性恋商业代孕</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/男男性接触人群" title="wikilink">男男性接触人群允许捐血</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a></p></td>

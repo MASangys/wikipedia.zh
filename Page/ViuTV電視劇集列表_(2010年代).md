@@ -1528,7 +1528,7 @@
 <td><p>5</p></td>
 <td><p>香港</p></td>
 <td><p><a href="../Page/東方華爾街_(電視劇).md" title="wikilink">東方華爾街</a></p></td>
-<td><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/張孝全.md" title="wikilink">張孝全</a>、<a href="../Page/余男.md" title="wikilink">余男</a>、<a href="https://zh.wikipedia.org/wiki/陳家樂" title="wikilink">陳家樂</a>、<a href="../Page/江奇霖.md" title="wikilink">江奇霖</a>、<a href="../Page/蔡潔.md" title="wikilink">蔡潔</a>、<a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/譚耀文.md" title="wikilink">譚耀文</a>、<a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></p></td>
+<td><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/張孝全.md" title="wikilink">張孝全</a>、<a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/譚耀文.md" title="wikilink">譚耀文</a>、<a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a>、<a href="../Page/余男.md" title="wikilink">余男</a>、<a href="https://zh.wikipedia.org/wiki/陳家樂" title="wikilink">陳家樂</a>、<a href="../Page/江奇霖.md" title="wikilink">江奇霖</a>、<a href="../Page/蔡潔.md" title="wikilink">蔡潔</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1555,7 +1555,7 @@
 <td><p>1</p></td>
 <td><p>日本</p></td>
 <td></td>
-<td><p><a href="../Page/栗山千明.md" title="wikilink">栗山千明</a></p></td>
+<td><p><a href="../Page/栗山千明.md" title="wikilink">栗山千明</a>、<a href="../Page/佐野日向子.md" title="wikilink">佐野日向子</a>、<a href="../Page/要潤.md" title="wikilink">要潤</a>、<a href="../Page/藤森慎吾.md" title="wikilink">藤森慎吾</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1840,7 +1840,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月5日</p></td>
-<td></td>
+<td><p>23</p></td>
 <td><p>韓國</p></td>
 <td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a></p></td>
 <td><p><a href="../Page/晉久.md" title="wikilink">晉久</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
@@ -1851,8 +1851,8 @@
 <td><p>12月25日</p></td>
 <td><p>20</p></td>
 <td><p>香港</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a></p></td>
-<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹昊宸</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/魯文傑.md" title="wikilink">魯文傑</a>、<a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、、<a href="../Page/張松枝.md" title="wikilink">張松枝</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a>、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/周祉君.md" title="wikilink">周祉君</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>（<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>、<a href="https://zh.wikipedia.org/wiki/柳應廷" title="wikilink">柳應廷</a>）</p></td>
+<td></td>
+<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/魯文傑.md" title="wikilink">魯文傑</a>、<a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、、<a href="../Page/張松枝.md" title="wikilink">張松枝</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a>、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/周祉君.md" title="wikilink">周祉君</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a><small>（<a href="https://zh.wikipedia.org/wiki/邱士縉" title="wikilink">邱士縉</a>、<a href="https://zh.wikipedia.org/wiki/呂爵安" title="wikilink">呂爵安</a>、<a href="https://zh.wikipedia.org/wiki/邱傲然" title="wikilink">邱傲然</a>、<a href="https://zh.wikipedia.org/wiki/柳應廷" title="wikilink">柳應廷</a>）</small></p></td>
 <td></td>
 <td></td>
 </tr>

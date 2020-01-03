@@ -237,9 +237,11 @@
 <thead>
 <tr class="header">
 <th><p>遊戲名稱</p></th>
-<th><p>姓名[10]</p></th>
+<th><p>姓名[10][11]</p></th>
 <th><p>遊戲定位</p></th>
-<th><p>生日</p></th>
+<th><p>生日<ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=2018071011053316690%7Ctitle">http://www.dailyesports.com/view.php?ud=2018071011053316690|title</a> = [롤챔스] kt '폰' 허원석 복귀 등 서머 2R 로스터 공개</p></th>
+<th><p>publisher = Daily e-sport|language = ko}}</ref><ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=2019021911123690083cf949c6b9_27%7Ctitle">http://www.dailyesports.com/view.php?ud=2019021911123690083cf949c6b9_27|title</a> = [롤챔스] 아프리카, 10인 로스터로 보강…2R 로스터 공개</p></th>
+<th><p>publisher = Daily e-sport|language = ko}}</ref></p></th>
 <th><p>國籍</p></th>
 </tr>
 </thead>
@@ -250,11 +252,15 @@
 <td><p>Support</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Aiming</p></td>
-<td><p>金하람[11]</p></td>
+<td><p>金하람[12]</p></td>
 <td><p>AD</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -264,11 +270,15 @@
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Proud</p></td>
 <td><p>李正在</p></td>
 <td><p>Support</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,11 +288,15 @@
 <td><p>Mid</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Summit</p></td>
-<td><p>朴湡台[12]</p></td>
+<td><p>朴遇台[13]</p></td>
 <td><p>Top</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -292,11 +306,15 @@
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>TusiN</p></td>
 <td><p>朴鐘翊</p></td>
 <td><p>Support</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -306,11 +324,15 @@
 <td><p>AD</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Kuro</p></td>
 <td><p>李瑞行</p></td>
 <td><p>Mid</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -320,6 +342,8 @@
 <td><p>Top</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Lindarang</p></td>
@@ -327,11 +351,15 @@
 <td><p>Top</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>SeongHwan</p></td>
-<td><p>尹成愌[13]</p></td>
+<td><p>尹成愌[14]</p></td>
 <td><p>Jungle</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -341,6 +369,8 @@
 <td><p>date = 2018年12月14日|author=Official_KeSPA |publisher = 微博 |language = zh-cn }}</ref></p></td>
 <td><p>Mid</p></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Sangyoon</p></td>
@@ -348,18 +378,24 @@
 <td><p>AD</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>SnowFlower</p></td>
-<td><p>盧會宗[14]</p></td>
+<td><p>盧會宗[15]</p></td>
 <td><p>Support</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ikssu</p></td>
-<td><p>田銖[15]</p></td>
+<td><p>田銖[16]</p></td>
 <td><p>Top</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -367,6 +403,8 @@
 <td><p>lira</p></td>
 <td><p>Nam Tae-yoo</p></td>
 <td><p>Jungle</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -379,7 +417,7 @@
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[16]</p></th>
+<th><p>姓名[17]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -412,7 +450,7 @@
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[17]</p></th>
+<th><p>姓名[18]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -449,7 +487,7 @@
 
 #### Afreeca Freecs Blue （已解散）
 
-\[18\]
+\[19\]
 
 <table>
 <thead>
@@ -617,11 +655,12 @@
 8.
 9.
 10. 只收錄2018的中文姓名名單
-11. 無對應漢字
-12. \[10\]
-13.
-14. \[14\]
-15. \[9\]
-16. \[9\]
-17. \[11\]
-18.
+11.
+12. 無對應漢字
+13. \[11\]
+14.
+15. \[17\]
+16. \[18\]
+17. \[9\]
+18. \[11\]\[12\]
+19.

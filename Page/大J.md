@@ -109,7 +109,7 @@ Jason 姓周，於1984年8月16日出生於香港，祖籍[廣東](https://zh.wi
   -
   -
   -
-[Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink") [Category:周姓](https://zh.wikipedia.org/wiki/Category:周姓 "wikilink")
+[Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink") [Category:周姓](https://zh.wikipedia.org/wiki/Category:周姓 "wikilink") [Category:逃犯條例修訂草案反對者](https://zh.wikipedia.org/wiki/Category:逃犯條例修訂草案反對者 "wikilink") [Category:香港民主派人士](https://zh.wikipedia.org/wiki/Category:香港民主派人士 "wikilink")
 
 1.  科技籽| <http://hk.apple.nextmedia.com/supplement/tech/art/20160511/19605856> | YouTube打機為生 年賺百萬有幾個?
 2.

@@ -25,7 +25,9 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <th><p>ID</p></th>
 <th><p>名字[3]</p></th>
 <th><p>位置</p></th>
-<th><p>生日[4]</p></th>
+<th><p>生日<ref>{{Cite web |url = <a href="http://www.dailyesports.com/view.php?ud=20191220164851619190ea4f0acc_27%7Ctitle">http://www.dailyesports.com/view.php?ud=20191220164851619190ea4f0acc_27|title</a> = [KeSPA컵] 1라운드 참가팀 로스터 공개</p></th>
+<th><p>date= 2019年12月20日</p></th>
+<th><p>publisher = Daily e-sport|language = ko}}</ref></p></th>
 <th><p>國籍</p></th>
 </tr>
 </thead>
@@ -36,11 +38,15 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td><p>上路</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Clid</p></td>
 <td><p>金太敏</p></td>
 <td><p>打野</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -50,11 +56,15 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td><p>中路</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Ruler</p></td>
 <td><p>朴載赫</p></td>
 <td><p>ADC</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -64,11 +74,15 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td><p>輔助</p></td>
 <td></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Kellin</p></td>
 <td><p>金亨圭</p></td>
 <td><p>輔助</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -81,7 +95,7 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <thead>
 <tr class="header">
 <th><p>ID</p></th>
-<th><p>名字[5]</p></th>
+<th><p>名字[4]</p></th>
 <th><p>位置</p></th>
 <th><p>生日</p></th>
 <th><p>國籍</p></th>
@@ -104,9 +118,9 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 </tr>
 <tr class="odd">
 <td><p>Peanut</p></td>
-<td><p>韓王浩</p></td>
+<td><p>韓旺乎[5]<ref>{{Cite web |url = <a href="https://m.weibo.cn/status/4207828392359648">https://m.weibo.cn/status/4207828392359648</a> |title = 名字寓意</p></td>
+<td><p>date = 2018年2月15日|author=Official_KeSPA |publisher = 微博 |language = zh-cn }}</ref>/韓王浩[6]</p></td>
 <td><p>打野</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -160,7 +174,7 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 </tr>
 <tr class="odd">
 <td><p>Haru</p></td>
-<td><p>姜珉丞[6]</p></td>
+<td><p>姜珉丞[7]</p></td>
 <td><p>打野</p></td>
 <td></td>
 <td></td>
@@ -291,4 +305,5 @@ Gen.G风暴英雄战队成立于2017年七月，这支队伍在2018年暴雪嘉�
 3.
 4.
 5.
-6.
+6.  LGD戰隊譯名
+7.

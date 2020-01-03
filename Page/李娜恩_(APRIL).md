@@ -125,19 +125,32 @@
 | 5月10日  | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | [Get it beauty](../Page/Get_it_beauty.md "wikilink")2019      | 彩暻、娜恩                                                    |       |
 | 6月8日   | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")           | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                        |                                                          |       |
 | 6月14日  | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | [Get it beauty](../Page/Get_it_beauty.md "wikilink")2019      | E17                                                      |       |
+| 10月2日  | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")                | Special DJ                                               |       |
+| 10月6日  |                                                               |                                                               |                                                          |       |
+| 12月17日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                        |                                                          |       |
+| 12月29日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")           | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                | 競演者                                                      |       |
+| 2020年  | 1月5日                                                          |                                                               |                                                          |       |
 
-## 主持
+## 主持及相關活動
 
-| 日期           | 頻道                                                          | 節目名稱                                                                | 備註         |
-| ------------ | ----------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
-| 2017年2月3、10日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")               | Special MC |
-| 2017年6月15日   | [Mnet](../Page/Mnet.md "wikilink")                          | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") |            |
-| 2017年6月23日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")               |            |
-| 2017年9月21日   | [Mnet](../Page/Mnet.md "wikilink")                          | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") |            |
-| 2018年4月6日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")               |            |
-| 2019年10月2日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")                      | Special DJ |
-| 2019年10月6日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")                      |            |
-| 2019年10月20日－ | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")         | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | 固定MC       |
+### 音樂節目
+
+| 年份           | 頻道                                                  | 節目名稱                                                                | 性質         |
+| ------------ | --------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+| 2017年2月3、10日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")               | Special MC |
+| 2017年6月15日   | [Mnet](../Page/Mnet.md "wikilink")                  | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") |            |
+| 2017年6月23日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")               |            |
+| 2017年9月21日   | [Mnet](../Page/Mnet.md "wikilink")                  | [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink") |            |
+| 2018年4月6日    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")               |            |
+| 2019年10月20日－ | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")               | 固定MC       |
+
+### 活動/頒獎典禮
+
+| 年份          | 活動名稱                                                                          | 性質   |
+| ----------- | ----------------------------------------------------------------------------- | ---- |
+| 2019年11月16日 | 第1屆[VLIVE AWARDS V HEARTBEAT](../Page/VLIVE_AWARDS_V_HEARTBEAT.md "wikilink") |      |
+| 2019年12月28日 | 第13屆[SBS演藝大賞](https://zh.wikipedia.org/wiki/SBS演藝大賞 "wikilink")               | 頒獎嘉賓 |
+| 2019年12月30日 | 第46屆[MBC演藝大賞](https://zh.wikipedia.org/wiki/MBC演藝大賞 "wikilink")               |      |
 
 ## 獎項
 
@@ -165,7 +178,24 @@
 <td style="text-align: center;"><p>2019年</p></td>
 <td style="text-align: center;"><p><a href="../Page/VLIVE_AWARDS_V_HEARTBEAT.md" title="wikilink">第一屆 VLIVE AWARDS V HEARTBEAT</a></p></td>
 <td style="text-align: center;"><p>最受歡迎網劇系列演員獎</p></td>
-<td style="text-align: center;"><p><a href="../Page/A-TEEN_2_(電視劇).md" title="wikilink">A-TEEN 2</a></p></td>
+<td style="text-align: center;"><center>
+<p><a href="../Page/A-TEEN_2_(電視劇).md" title="wikilink">A-TEEN 2</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年</p></td>
+<td style="text-align: center;"><center>
+<p><a href="../Page/2019_MBC演技大獎.md" title="wikilink">第46屆MBC演技大賞</a></p></td>
+<td style="text-align: center;"><center>
+<p>女子新人獎</p></td>
+<td style="text-align: center;"><p><a href="../Page/意外發現的一天.md" title="wikilink">意外發現的一天</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -180,6 +210,7 @@
   - 2019年：**CLIO珂莉奧**旗下彩妝品牌**[peripera](https://zh.wikipedia.org/wiki/peripera "wikilink")**
   - 2019年：**[EA Sports](../Page/EA_Sports.md "wikilink")** [FIFA ONLINE 4](../Page/EA_Sports.md "wikilink")\[12\]
   - 2019年：**[利口樂](../Page/利口樂.md "wikilink")** Ricola草本薄荷糖
+  - 2020年：**GOODDAY** 好天好飲燒酒
 
 ## 畫報 
 
@@ -189,6 +220,7 @@
   - 2019年：《@star1》6月號 **[J.ESTINA](https://zh.wikipedia.org/wiki/J.ESTINA "wikilink")**
   - 2019年：《@star1》12月號 **[Alcon](https://zh.wikipedia.org/wiki/Alcon "wikilink")**
   - 2020年：《NYLON》1月號
+  - 2020年：《GRAZIA》1月號
 
 ## 註解
 

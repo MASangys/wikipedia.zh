@@ -1,7 +1,7 @@
 > 本文内容由[Momo \(TWICE\)](https://zh.wikipedia.org/wiki/Momo_\(TWICE\))转换而来。
 
 
-**平井桃**（，，），藝名**Momo**（，），是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE的日本成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
+**平井桃**（，，），藝名**Momo**（，），是[韓國女子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[TWICE的日本成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。現男友為[Super junior成員](https://zh.wikipedia.org/wiki/Super_junior "wikilink")[金希澈](https://zh.wikipedia.org/wiki/金希澈 "wikilink")。
 
 ## 生涯
 
@@ -15,10 +15,11 @@
 ### TWICE活動
 
   - 2015年10月20日推出首張迷你專輯《[THE STORY BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，並舉辦出道Showcase「OOH-AHH, TWICE」正式出道，同日發表主打歌〈Like OOH-AHH〉的MV\[5\]。
-  - 在第11屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》參加[女子摔角比賽](../Page/摔角.md "wikilink")，Momo最終以2-1不敵[EXID而獲得銀牌](https://zh.wikipedia.org/wiki/EXID "wikilink")。
   - 2017年1月27日參加《小學生老師》，與其他海外藝人（[滑川康男](../Page/滑川康男.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[The8](../Page/Seventeen_\(組合\).md "wikilink")、[Ten](../Page/NCT.md "wikilink")）進修小學六年級（10歲）程度韓語。Momo 試考的程度是6歲（小學二年級）。[Sana](../Page/Sana_\(TWICE\).md "wikilink") 在1月31日的直播中澄清，因為Momo 從首爾到[釜山長途跋涉後就進行錄影](../Page/釜山廣域市.md "wikilink")，因為睡眠不足，以致表現欠佳。
-  - 2017年1月30日播出的第13屆《MBC偶像明星運動會》，與[彩瑛](../Page/彩瑛.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")和[定延](../Page/定延.md "wikilink")參加4x100接力，但排名最後。
-  - 2017年9月19日，與[彩瑛](../Page/彩瑛.md "wikilink")開設"Mo彩TV"。\[6\]
+
+## 個人生活
+
+2020年1月2日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")、[Label SJ和](../Page/Label_SJ.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")證實Momo與[金希澈交往的消息](https://zh.wikipedia.org/wiki/金希澈 "wikilink")。\[6\]
 
 ## 音樂作品
 
@@ -177,4 +178,4 @@
 3.
 4.
 5.
-6.  {<http://www.vlive.tv/video/42201?channelCode=EDBF丨모챙TVEP.01>}
+6.

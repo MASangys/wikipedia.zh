@@ -136,12 +136,22 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李在均" title="wikilink">李在均</a></p></td>
 <td><p>南尚赫</p></td>
-<td><p>殺人犯</p></td>
+<td><p>連續殺人犯</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/李康旭" title="wikilink">李康旭</a></p></td>
+<td><p>姜載元</p></td>
+<td><p>姜會長兒子，KL集團理事</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/李慧仁_(演員).md" title="wikilink">李慧仁</a></p></td>
 <td><p>李美慶</p></td>
-<td></td>
+<td><p>練習生，被姜載元殺死</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/韓在英" title="wikilink">韓在英</a></p></td>
+<td><p>韓德奎</p></td>
+<td><p>經紀公司代表，替KL集團兒子姜載元頂罪</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李詩媛.md" title="wikilink">李詩媛</a></p></td>
@@ -154,64 +164,54 @@
 <td><p>韓英大學教授</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓在英" title="wikilink">韓在英</a></p></td>
-<td><p>韓德奎</p></td>
-<td><p>經紀公司代表，替KL集團兒子姜載元頂罪</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/池承賢" title="wikilink">池承賢</a></p></td>
 <td><p>吳英南</p></td>
 <td><p>殺害李恩婷的犯人</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/朱多英.md" title="wikilink">朱多英</a></p></td>
 <td><p>張恩瑛</p></td>
 <td><p>女性販賣人口集團的活口，第七～九集演出</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張世鉉" title="wikilink">張世鉉</a></p></td>
 <td><p>徐勝佑</p></td>
 <td><p>殺害離家少女的連續殺人犯</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/劉在明.md" title="wikilink">劉在明</a></p></td>
 <td></td>
 <td><p>朴東日的部下</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/張仁燮.md" title="wikilink">張仁燮</a></p></td>
 <td><p>高炳旭</p></td>
 <td><p>檢察官</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>餐廳老板</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金秉玉" title="wikilink">金秉玉</a></p></td>
 <td><p>黃博士</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金蘭諱" title="wikilink">金蘭諱</a></p></td>
 <td><p>朴女士</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/高仁範.md" title="wikilink">高仁範</a></p></td>
 <td><p>崔相益</p></td>
 <td><p>英珍與南珍之父</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/李文貞.md" title="wikilink">李文貞</a></p></td>
 <td><p>宋玹珠</p></td>
 <td><p>巡警</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李康旭" title="wikilink">李康旭</a></p></td>
-<td><p>姜載元</p></td>
-<td><p>姜會長兒子，KL集團理事</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁玄敏" title="wikilink">梁玄敏</a></p></td>
@@ -229,18 +229,18 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/尹容賢.md" title="wikilink">尹容賢</a></p></td>
+<td><p>馬泰秀</p></td>
+<td><p>替尹室長辦事的小喽喽</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/柳演錫" title="wikilink">柳演錫</a><br />
 <small>（特別演出）</small></p></td>
 <td><p>趙英皓</p></td>
 <td><p>國立科學搜查研究院新上任的法醫</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/羅光勳" title="wikilink">羅光勳</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p><a href="../Page/尹容賢.md" title="wikilink">尹容賢</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/羅光勳" title="wikilink">羅光勳</a></p></td>
 <td></td>
 <td></td>
 </tr>

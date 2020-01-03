@@ -316,9 +316,9 @@ Kotlin对可以为空（nullable）的变量和不可以为空（non-nullable）
 
 Kotlin 提供空安全（null-safe）运算符給開發人員:
 
-  - ([safe navigation operator](https://zh.wikipedia.org/wiki/safe_navigation_operator "wikilink")) 可用於安全存取（safely access） 可能是空对象的函數或屬性。如果 object 為空（null）, the method 將不被调用，而且表达式必运算（evaluate）為空（null）。
+  - () 可用於安全存取（safely access） 可能是空对象的函數或屬性。如果 object 為空（null）, the method 將不被调用，而且表达式必运算（evaluate）為空（null）。
 
-  - ([null coalescing operator](https://zh.wikipedia.org/wiki/null_coalescing_operator "wikilink")) 經常參照到艾维斯运算符（Elvis operator）:
+  - () 通常稱為（Elvis operator）:
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > 本文内容由[Reinhard Ring](https://zh.wikipedia.org/wiki/Reinhard_Ring)转换而来。
 
 
-Reinhard Ring(1948年12月17日至今)是一名德国[节奏](../Page/节奏.md "wikilink")学教授。现任[汉诺威音乐学院节奏学教授](https://www.hmtm-hannover.de/de/hochschule/personen/m-r/prof-reinhard-ring/)，[中央音乐学院客座教授](http://iome.ccom.edu.cn/teaching-internships/external-experts/)。1992至2003年之间，曾任国际节奏学协会主席和日内瓦节奏杂志（Le Rythme）主编。他是闻名音乐界的达尔克罗兹专家。\[1\]
+Reinhard Ring(1948年12月17日至今)是一名德国[节奏](../Page/节奏.md "wikilink")学教授。现任[汉诺威音乐学院节奏学教授](https://www.hmtm-hannover.de/de/hochschule/personen/m-r/prof-reinhard-ring/)，[中央音乐学院客座教授](https://web.archive.org/web/20170906183124/http://iome.ccom.edu.cn/teaching-internships/external-experts/)。1992至2003年之间，曾任国际节奏学协会主席和日内瓦节奏杂志（Le Rythme）主编。他是闻名音乐界的达尔克罗兹专家。\[1\]
 
 ## 生平及授课经历
 
@@ -33,7 +33,7 @@ How E. Jaques-Dalcroze Put Rhythm at the Center of His Wort, Geneva in Congres d
 
 [世界韵律学人物索引-Reinhard Ring](https://web.archive.org/web/20161201073232/http://www.fier.com/wordpress/eurhythmics-teachers/reinhard-ring/)
 
-[Reinhard Ring - 中央音乐学院音乐教育学院客座教授](http://iome.ccom.edu.cn/teaching-internships/external-experts/)
+[Reinhard Ring - 中央音乐学院音乐教育学院客座教授](https://web.archive.org/web/20170906183124/http://iome.ccom.edu.cn/teaching-internships/external-experts/)
 
 [Reinhard Ring作为“达尔克罗兹150周年庆典”报告人](https://web.archive.org/web/20161111061337/http://kulturellebildung.de/fa/user/Fachbereiche/Musik_Rhythmik/Veranstaltungen/Rhythmikfestival_15/Rhythmikfestival_d_19-02-2015.pdf)
 

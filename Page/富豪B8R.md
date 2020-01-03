@@ -19,6 +19,11 @@ B8R有兩種富豪車廠自家開發的[柴油引擎](../Page/柴油引擎.md "w
       - D8C250 - 186千瓦 (250匹), 950 Nm，[歐盟三型](../Page/欧洲汽车尾气排放标准.md "wikilink")／[歐盟五型](../Page/欧洲汽车尾气排放标准.md "wikilink")
       - D8C330 - 246千瓦 (330匹), 1200 Nm， [歐盟三型](../Page/欧洲汽车尾气排放标准.md "wikilink")／[歐盟五型](../Page/欧洲汽车尾气排放标准.md "wikilink")
 
+## 參見
+
+  - [富豪B7R](https://zh.wikipedia.org/wiki/富豪B7R "wikilink")
+  - [富豪B10M](../Page/富豪B10M.md "wikilink")
+
 ## 参考文献
 
 ## 外部連結

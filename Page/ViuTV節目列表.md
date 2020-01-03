@@ -21,13 +21,13 @@
 <thead>
 <tr class="header">
 <th><p>時間</p></th>
-<th><p>星期一<small>（23日）</small></p></th>
-<th><p>星期二<small>（24日）</small></p></th>
-<th><p>星期三<small>（25日）</small></p></th>
-<th><p>星期四<small>（26日）</small></p></th>
-<th><p>星期五<small>（27日）</small></p></th>
-<th><p>星期六<small>（21日）</small></p></th>
-<th><p>星期日<small>（22日）</small></p></th>
+<th><p>星期一<small>（06日）</small></p></th>
+<th><p>星期二<small>（07日）</small></p></th>
+<th><p>星期三<small>（08日）</small></p></th>
+<th><p>星期四<small>（02日）</small></p></th>
+<th><p>星期五<small>（03日）</small></p></th>
+<th><p>星期六<small>（04日）</small></p></th>
+<th><p>星期日<small>（05日）</small></p></th>
 </tr>
 </thead>
 <tbody>
@@ -44,8 +44,8 @@
 <tr class="even">
 <td><p>19:30</p></td>
 <td></td>
-<td><p><a href="../Page/杏林在線.md" title="wikilink">杏林在線</a></p></td>
-<td><p><a href="../Page/經緯線_(電視節目).md" title="wikilink">經緯線</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_環球大事回顧" title="wikilink">2019 環球大事回顧</a><sup>R</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_財經大事回顧" title="wikilink">2019 財經大事回顧</a><sup>R</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -53,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td><p>20:00</p></td>
-<td></td>
+<td><p><a href="../Page/好醫生_(日本電視劇).md" title="wikilink">善良醫生</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/職時交換" title="wikilink">職時交換</a></p></td>
 <td></td>
@@ -64,18 +64,18 @@
 <tr class="even">
 <td><p>20:30</p></td>
 <td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a></p></td>
-<td><p>周六好戲勢：<a href="https://zh.wikipedia.org/wiki/不能說的秘密" title="wikilink">不能說的秘密</a><sup>P</sup></p></td>
+<td><p><a href="../Page/絕對達令_(韓國電視劇).md" title="wikilink">絕對達令</a></p></td>
+<td><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a></p></td>
+<td><p>周六好戲勢：<a href="../Page/貧民百萬富翁.md" title="wikilink">一百萬零一夜</a></p></td>
 <td><p><a href="../Page/恐怖醫學_(2010年).md" title="wikilink">恐怖醫學</a></p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>21:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑市_(電視劇)" title="wikilink">黑市</a></p></td>
 <td><p><a href="../Page/Chill_Club.md" title="wikilink">Chill Club</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -83,58 +83,39 @@
 </tr>
 <tr class="even">
 <td><p>22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C9_旅行團" title="wikilink">C9 旅行團</a></p></td>
-<td><p><a href="../Page/港男入贅手冊.md" title="wikilink">港男入贅手冊</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港親善小姐" title="wikilink">香港親善小姐</a></p></td>
+<td><p><a href="../Page/港男入贅手冊.md" title="wikilink">港男入贅手冊</a> &lt;!--|- align=center</p></td>
+<td><p>22:45</p></td>
+<td><p>--&gt;</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>22:45</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>23:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一切從失婚開始" title="wikilink">一切從失婚開始</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽" title="wikilink">西班牙甲組足球聯賽</a><sup>*</sup><br />
+<small><a href="https://zh.wikipedia.org/wiki/基達菲足球會" title="wikilink">基達菲</a> 對 <a href="https://zh.wikipedia.org/wiki/皇家馬德里" title="wikilink">皇家馬德里</a></small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/入住請敲門_4" title="wikilink">入住請敲門 4</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蠟筆小新" title="wikilink">蠟筆小新</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>23:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/啪啪_Partner" title="wikilink">啪啪 Partner</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罪光燈" title="wikilink">罪光燈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/空肚講宵夜" title="wikilink">空肚講宵夜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a></p></td>
-<td><p><a href="../Page/粵語好聲音.md" title="wikilink">粵語好聲音 2019</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
+<td><p><a href="../Page/粵語好聲音.md" title="wikilink">粵語好聲音 2019</a> &lt;!--|- align=center</p></td>
 <td><p>23:45</p></td>
-<td><p><a href="../Page/足球小將.md" title="wikilink">隊長小翼</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>00:00</p></td>
-<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪</a><sup>R</sup></p></td>
-<td><p><a href="../Page/一路向西伯利亞.md" title="wikilink">一路向西伯利亞</a><sup>R</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室2</a><sup>R</sup></p></td>
+<td><p><a href="../Page/Re:從零開始的異世界生活.md" title="wikilink">從零開始的異世界生活</a><sup>R</sup></p></td>
 <td><p><a href="../Page/東京喰種.md" title="wikilink">東京喰種</a>:re</p></td>
 <td></td>
 <td></td>
@@ -164,12 +145,12 @@
 <td><p><strong>實況娛樂</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>22:30 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C9_旅行團" title="wikilink">C9 旅行團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/香港親善小姐" title="wikilink">香港親善小姐</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>23:00 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/入住請敲門_4" title="wikilink">入住請敲門 4</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一切從失婚開始" title="wikilink">一切從失婚開始</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -435,7 +416,7 @@
 <td><p><strong>首播劇集</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:00 - 20:30</p></td>
-<td></td>
+<td><p><a href="../Page/好醫生_(日本電視劇).md" title="wikilink">善良醫生</a></p></td>
 <td><p>日本劇集</p></td>
 </tr>
 <tr class="odd">
@@ -456,8 +437,8 @@
 <tr class="odd">
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>21:30 - 22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time" title="wikilink">想暫停的瞬間</a></p></td>
-<td><p>韓國劇集</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黑市_(電視劇)" title="wikilink">黑市</a></p></td>
+<td><p>自製劇集</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -478,22 +459,22 @@
 </tr>
 <tr class="even">
 <td><p>逢星期二至五</p></td>
-<td><p>00:30 - 01:30</p></td>
-<td><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a></p></td>
+<td><p>01:00 - 02:30</p></td>
+<td><p><a href="../Page/記得你.md" title="wikilink">記得你</a></p></td>
 <td><p>重播韓國劇集</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>逢星期二至六</p></td>
-<td><p>04:00 - 04:30</p></td>
-<td><p><a href="../Page/午夜伴廊.md" title="wikilink">午夜伴廊</a></p></td>
+<td><p>逢星期一至五</p></td>
+<td><p>10:30 - 11:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/迷失假期" title="wikilink">迷失假期</a></p></td>
 <td><p>重播自製劇集<br />
 每集播放兩次</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>逢星期二至五及下星期一</p></td>
-<td><p>10:30 - 11:00</p></td>
+<td><p>逢星期二至六</p></td>
+<td><p>04:00 - 04:30</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -752,7 +733,7 @@
 <td><p>香港電台節目</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>18:30 - 19:00</p></td>
-<td><p>星期一至四：<a href="https://zh.wikipedia.org/wiki/窗外有藍天" title="wikilink">窗外有藍天</a><br />
+<td><p>星期一至四：<a href="https://zh.wikipedia.org/wiki/死神九問_2" title="wikilink">死神九問 2</a><br />
 星期五：<a href="../Page/警訊.md" title="wikilink">警訊</a></p></td>
 <td><p>除《警訊》以外其他節目曾於<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A</a>播出</p></td>
 </tr>
@@ -1012,9 +993,36 @@ Enjoy Yourself Tonight</p></td>
 Break Up Club</p></td>
 <td><p><a href="../Page/房祖名.md" title="wikilink">房祖名</a>、<a href="https://zh.wikipedia.org/wiki/薛凱琪" title="wikilink">薛凱琪</a>、<a href="../Page/葉山豪.md" title="wikilink">葉山豪</a></p></td>
 <td><p>2010年</p></td>
-<td><p>周六好戲勢系列 &lt;!--</p></td>
+<td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="odd">
+<td><p>2020年1月25日</p></td>
+<td><p>21:45-00:15</p></td>
+<td style="text-align: center;"><p><a href="../Page/猛龍特囧.md" title="wikilink">猛龍特囧</a><br />
+Undercover Duet</p></td>
+<td><p><a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a>、<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="https://zh.wikipedia.org/wiki/楊建平" title="wikilink">楊建平</a>、<a href="https://zh.wikipedia.org/wiki/王傳君" title="wikilink">王傳君</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/蘇民峰.md" title="wikilink">蘇民峰</a></p></td>
+<td><p>2015年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月28日</p></td>
+<td><p>00:00-02:00</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/低俗喜劇" title="wikilink">低俗喜劇</a><br />
+Vulgaria</p></td>
+<td><p><a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="https://zh.wikipedia.org/wiki/陳靜_(香港)" title="wikilink">陳　靜</a>、<a href="../Page/雷宇揚.md" title="wikilink">雷宇揚</a></p></td>
+<td><p>2012年</p></td>
+<td><p>&lt;!--</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月4日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/赤道_(電影).md" title="wikilink">赤道</a><br />
+Helios</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張學友" title="wikilink">張學友</a>、<a href="../Page/張家輝.md" title="wikilink">張家輝</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="https://zh.wikipedia.org/wiki/王學圻" title="wikilink">王學圻</a>、<a href="../Page/文詠珊.md" title="wikilink">文詠珊</a>、<a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/崔始源.md" title="wikilink">崔始源</a>、<a href="../Page/張震_(演員).md" title="wikilink">張　震</a></p></td>
+<td><p>2015年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
 <td><p>未定</p></td>
 <td><p>20:30-23:15</p></td>
 <td style="text-align: center;"><p><a href="../Page/掃毒.md" title="wikilink">掃毒</a><br />
@@ -1023,22 +1031,13 @@ The White Storm</p></td>
 <td><p>2007年</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>未定</p></td>
 <td><p>20:30-23:15</p></td>
 <td style="text-align: center;"><p><a href="../Page/戲王之王_(2007年電影).md" title="wikilink">戲王之王</a><br />
 Simply Actors</p></td>
 <td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/葉璇.md" title="wikilink">葉　璇</a>、<a href="../Page/陳司翰.md" title="wikilink">陳司翰</a></p></td>
 <td><p>2007年</p></td>
-<td><p>周六好戲勢系列</p></td>
-</tr>
-<tr class="odd">
-<td><p>未定</p></td>
-<td><p>20:30-23:00</p></td>
-<td style="text-align: center;"><p><a href="../Page/猛龍特囧.md" title="wikilink">猛龍特囧</a><br />
-Undercover Duet</p></td>
-<td><p><a href="../Page/鄭中基.md" title="wikilink">鄭中基</a>、<a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a>、<a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="https://zh.wikipedia.org/wiki/楊建平" title="wikilink">楊建平</a>、<a href="https://zh.wikipedia.org/wiki/王傳君" title="wikilink">王傳君</a>、<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/蘇民峰.md" title="wikilink">蘇民峰</a></p></td>
-<td><p>2015年</p></td>
 <td><p>周六好戲勢系列 --&gt;</p></td>
 </tr>
 </tbody>
@@ -1265,6 +1264,34 @@ Good Morning Show</p></td>
 </tbody>
 </table>
 
+### 其他地區
+
+<table>
+<thead>
+<tr class="header">
+<th><p>首播日期</p></th>
+<th><p>播映時間</p></th>
+<th style="text-align: center;"><p><strong>電影名稱（中文）</strong><br />
+（英文）</p></th>
+<th><p>演員</p></th>
+<th><p>發行年份</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年1月4日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/貧民百萬富翁.md" title="wikilink">一百萬零一夜</a><br />
+Slumdog Millionaire</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴夫·帕托" title="wikilink">戴夫·帕托</a>、<a href="https://zh.wikipedia.org/wiki/芙蕾達·平托" title="wikilink">芙蕾達·平托</a>、、<a href="../Page/安尼·卡浦爾.md" title="wikilink">安尼·卡浦爾</a>、<a href="../Page/伊凡·卡漢.md" title="wikilink">伊凡·卡漢</a></p></td>
+<td><p>2008年</p></td>
+<td><p>英國、印度合拍電影<br />
+周六好戲勢系列</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 新聞節目
 
 ### 新聞
@@ -1370,7 +1397,7 @@ Cultural Club</p></td>
 <tr class="odd">
 <td><p>2016年5月2日</p></td>
 <td><p>星期二至六：<br />
-02:00-02:30</p></td>
+02:30-03:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now深宵新聞" title="wikilink">深宵新聞</a><br />
 Late News</p></td>
 <td></td>
@@ -1532,7 +1559,7 @@ City Plan</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/示位Show" title="wikilink">示位Show</a><br />
 Show Flat</p></td>
 <td><p><a href="https://finance.now.com/analysis/study.php?topicId=57&amp;c=126">now財經網頁</a></p></td>
-<td><p><a href="../Page/Now財經台.md" title="wikilink">Now財經台</a>製作</p></td>
+<td><p><a href="../Page/Now財經台.md" title="wikilink">Now財經台</a>製作 &lt;!--|-</p></td>
 </tr>
 </tbody>
 </table>
@@ -1567,7 +1594,7 @@ Show Flat</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/行政長官答問會" title="wikilink">行政長官答問會</a><br />
 CE Q&amp;A Session</p></td>
 <td><p>主持：<a href="../Page/黃凱迪.md" title="wikilink">黃凱迪</a></p></td>
-<td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台</a>同步播出／Now新聞台於09:30起直播 &lt;!--|-</p></td>
+<td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台</a>同步播出／Now新聞台於09:30起直播</p></td>
 </tr>
 <tr class="even">
 <td><p>9月5日</p></td>
@@ -2036,21 +2063,37 @@ Hong Kong Local Elections 2019</p></td>
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><p>19:30-20:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019香港大事回顧" title="wikilink">2019香港大事回顧</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_香港大事回顧" title="wikilink">2019 香港大事回顧</a><br />
 2019 Hong Kong Review</p></td>
-<td><p>旁白：</p></td>
-<td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台</a>製作 &lt;!--|-</p></td>
+<td><p>旁白：<a href="../Page/黃凱迪.md" title="wikilink">黃凱迪</a>、<a href="https://zh.wikipedia.org/wiki/黃浩霖" title="wikilink">黃浩霖</a></p></td>
+<td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台</a>製作</p></td>
 </tr>
 <tr class="even">
+<td><p>12月30日</p></td>
+<td><p>20:00-20:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_環球大事回顧" title="wikilink">2019 環球大事回顧</a><br />
+2019 International Review</p></td>
+<td><p>旁白：<a href="https://zh.wikipedia.org/wiki/張曉鳴" title="wikilink">張曉鳴</a></p></td>
+<td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台</a>製作／2020年1月4日19:30-20:00重播</p></td>
+</tr>
+<tr class="odd">
 <td><p>12月31日</p></td>
-<td><p>19:30-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2019財經大事回顧" title="wikilink">2019財經大事回顧</a><br />
+<td><p>20:00-20:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019_財經大事回顧" title="wikilink">2019 財經大事回顧</a><br />
 2019 Financial Review</p></td>
-<td><p>旁白：</p></td>
-<td><p><a href="../Page/Now財經台.md" title="wikilink">Now財經台</a>製作--&gt;</p></td>
+<td><p>旁白：<a href="https://zh.wikipedia.org/wiki/翁家揚" title="wikilink">翁家揚</a>、<a href="https://zh.wikipedia.org/wiki/韓荃" title="wikilink">韓荃</a></p></td>
+<td><p><a href="../Page/Now財經台.md" title="wikilink">Now財經台</a>製作／2020年1月5日19:30-20:00重播</p></td>
 </tr>
 </tbody>
 </table>
+
+#### 2020年代
+
+##### 2020年
+
+| 首播日期 | 播映時間 | 節目名稱 | 主持/演出/旁白 | 備註 |
+| ---- | ---- | ---- | -------- | -- |
+|      |      |      |          |    |
 
 ## 綜藝及資訊節目
 
@@ -2510,6 +2553,87 @@ People's Republic of China National Day Celebration 2019</p></td>
 ViuTV 2020</p></td>
 <td><p>主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、、、<br />
 演出：<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a>、<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/袁富華.md" title="wikilink">袁富華</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="../Page/葉蘊儀.md" title="wikilink">葉蘊儀</a>、<a href="../Page/譚小環.md" title="wikilink">譚小環</a>、<a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/鄧麗欣.md" title="wikilink">鄧麗欣</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/徐天佑.md" title="wikilink">徐天佑</a>、<a href="../Page/鄭浩南.md" title="wikilink">鄭浩南</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/陳穎欣_(歌手).md" title="wikilink">陳穎欣</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/布志綸.md" title="wikilink">布志綸</a>@<a href="../Page/Mr..md" title="wikilink">Mr.</a>、<a href="../Page/李拾壹.md" title="wikilink">李拾壹</a>、、、、</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月31日</p></td>
+<td><p>23:30-00:20</p></td>
+<td><p>除夕倒數</p></td>
+<td><p><a href="../Page/香港除夕倒數.md" title="wikilink">香港除夕倒數</a><br />
+Hong Kong New Year Countdown Celebrations (2019 - 2020)</p></td>
+<td><p>ViuTV錄影廠主持：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a><br />
+表演嘉賓：<a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="../Page/ERROR_(組合).md" title="wikilink">ERROR</a>、<a href="../Page/陳凱詠.md" title="wikilink">陳凱詠</a>、<a href="https://zh.wikipedia.org/wiki/ONE_PROMISE" title="wikilink">ONE PROMISE</a><br />
+演出：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/曾贊學.md" title="wikilink">曾贊學</a>、、、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、、、<br />
+外景主持：、、、</p></td>
+<td></td>
+<td><p><strong>現場直播</strong></p></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年代
+
+#### 2020年
+
+<table style="width:293%;">
+<colgroup>
+<col style="width: 80%" />
+<col style="width: 10%" />
+<col style="width: 60%" />
+<col style="width: 26%" />
+<col style="width: 27%" />
+<col style="width: 80%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>首播日期</p></th>
+<th><p>播映時間</p></th>
+<th><p>類別</p></th>
+<th><p>節目名稱</p></th>
+<th><p>主持/演出/旁白</p></th>
+<th><p>官方網頁</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1月13日至17日</p></td>
+<td><p>19:30-20:00</p></td>
+<td><p>電競</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全民來電" title="wikilink">全民來電</a><br />
+</p></td>
+<td><p>主持：<a href="../Page/ERROR_(組合).md" title="wikilink">ERROR</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月20日至24日</p></td>
+<td><p>19:55-20:00</p></td>
+<td><p>賀年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花車巡遊_mini" title="wikilink">花車巡遊 mini</a><br />
+</p></td>
+<td><p>主持：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1月26日至28日</p></td>
+<td><p>19:25-19:30</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月25日</p></td>
+<td><p>20:00-20:45</p></td>
+<td><p>賀年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新春花車巡遊" title="wikilink">新春花車巡遊</a><br />
+</p></td>
+<td><p>主持：</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3243,7 +3367,7 @@ HKT 5G Concert</p></td>
 ToNick Live For More Concert</p></td>
 <td><p>演出：<a href="../Page/ToNick.md" title="wikilink">ToNick</a></p></td>
 <td></td>
-<td></td>
+<td><p>12月25日09:45-11:55重播</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月9日</p></td>
@@ -3253,7 +3377,82 @@ ToNick Live For More Concert</p></td>
 WE DESIGN AIR JUSTIN MUSIC CONCERT</p></td>
 <td><p>演出：<a href="../Page/側田.md" title="wikilink">側田</a></p></td>
 <td></td>
-<td><p>&lt;!-- |-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年代
+
+#### 2020年
+
+<table style="width:293%;">
+<colgroup>
+<col style="width: 80%" />
+<col style="width: 10%" />
+<col style="width: 60%" />
+<col style="width: 26%" />
+<col style="width: 27%" />
+<col style="width: 80%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>首播日期</p></th>
+<th><p>播映時間</p></th>
+<th><p>類別</p></th>
+<th><p>節目名稱</p></th>
+<th><p>主持/演出/旁白</p></th>
+<th><p>官方網頁</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1月1日</p></td>
+<td><p>20:30-23:15</p></td>
+<td><p>音樂頒獎禮</p></td>
+<td><p><a href="../Page/2019年度叱咤樂壇流行榜頒獎典禮得獎名單.md" title="wikilink">2019年度叱咤樂壇流行榜頒獎典禮</a><br />
+2019 Ultimate Song Chart Awards Presentation</p></td>
+<td><p>主持：<br />
+ViuTV錄影廠主持：<a href="../Page/廖嘉輝.md" title="wikilink">廖嘉輝</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
+<td></td>
+<td><p>現場轉播<br />
+外購節目（<a href="https://zh.wikipedia.org/wiki/商業電台" title="wikilink">商台製作有限公司</a>）</p></td>
+</tr>
+<tr class="even">
+<td><p>1月18日</p></td>
+<td><p>20:00-21:30</p></td>
+<td><p>本地音樂</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/電競巨Sing_Show" title="wikilink">電競巨Sing Show</a><br />
+</p></td>
+<td><p>主持：<br />
+演出：<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>、<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>、<a href="../Page/陳潔靈.md" title="wikilink">陳潔靈</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="../Page/馮允謙.md" title="wikilink">馮允謙</a></p></td>
+<td></td>
+<td><p><strong>現場直播</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>1月26日</p></td>
+<td><p>12:00-16:00</p></td>
+<td><p>音樂頒獎禮</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019年Mnet亞洲音樂大獎" title="wikilink">2019 MAMA亞洲音樂大獎 - 日本站</a><br />
+2019 Mnet Asian Music Awards in Japan</p></td>
+<td><p>主持：<br />
+演出：<br />
+粵語現場翻譯：</p></td>
+<td><p><a href="https://viu.tv/encore/2-01-9-mnet-asian-music-awards-in-japan">ViuTV網頁</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/Mnet.md" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目／即時粵語現場翻譯</p></td>
+</tr>
+<tr class="even">
+<td><p>1月28日</p></td>
+<td><p>12:30-16:00</p></td>
+<td><p>音樂頒獎禮</p></td>
+<td><p><a href="../Page/全球華語榜中榜.md" title="wikilink">榜中榜</a><br />
+China Music Awards</p></td>
+<td><p>主持：<br />
+演出：</p></td>
+<td></td>
+<td><p>外購節目（<a href="../Page/Channel_V.md" title="wikilink">Channel V</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -3645,7 +3844,7 @@ Let's Go Green</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月30日</p></td>
-<td><p>4</p></td>
+<td><p>6</p></td>
 <td><p>20:00-20:05</p></td>
 <td><p>資訊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/綠「識」Shopping" title="wikilink">綠「識」Shopping</a><br />
@@ -3667,6 +3866,14 @@ Festive Shopping With Fa Jie</p></td>
 </tr>
 </tbody>
 </table>
+
+### 2020年代
+
+#### 2020年
+
+| 首播日期 | 集數 | 播映時間 | 類別 | 節目名稱 | 主持/演出/旁白 | 贊助機構 | 備註 |
+| ---- | -- | ---- | -- | ---- | -------- | ---- | -- |
+|      |    |      |    |      |          |      |    |
 
 ## 間場節目
 

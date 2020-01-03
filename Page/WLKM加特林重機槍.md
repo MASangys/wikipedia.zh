@@ -20,7 +20,7 @@ WLKM主要裝備於各種車輛、艦船和直升機（例如）、（例如LZS-
 
 ## 參考文獻
 
-  - —《輕兵器》雜誌2012年9月上號：[第19届MSPO展会上的轻武器](http://www.xzbu.com/8/view-3454278.htm)
+  - —《輕兵器》雜誌2012年9月上號：[第19届MSPO展会上的轻武器](https://web.archive.org/web/20140221104927/http://www.xzbu.com/8/view-3454278.htm)
 
 ## 外部連結
 

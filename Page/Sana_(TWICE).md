@@ -17,11 +17,10 @@
 
   - 2015年10月20日推出首張迷你專輯《[THE STORY BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，並舉辦出道Showcase「OOH-AHH, TWICE」正式出道，同日發表主打歌〈Like OOH-AHH〉的MV\[2\]。
   - 〈Cheer Up〉中Sana負責演唱的其中一句歌詞「shy shy shy」，因發音問題唱成「sha sha sha」（샤샤샤），意外引發話題，[G-Dragon](../Page/G-Dragon.md "wikilink")、[太妍](../Page/太妍.md "wikilink")、[張賢勝](../Page/張賢勝.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[GOT7](../Page/GOT7.md "wikilink")等也曾在Fan Meeting、演唱會、綜藝節目、社交網站等場合演唱或使用「샤샤샤」\[3\]\[4\]\[5\]。
-  - 2018年8月17日，在TWICE日文單曲〈BDZ〉MV前序旁白。
 
 ## 爭議事件
 
-### 發文告別平成引發部分網民不滿
+### 發文告別平成引發部分韩国網民不滿
 
 2019年4月30日，Sana在TWICE的官方[Instagram](../Page/Instagram.md "wikilink")上發佈一則「告別自己出生的時代日本[平成](../Page/平成.md "wikilink")時代的落幕，及迎接[令和](../Page/令和.md "wikilink")時代的到來」，然而這篇貼文發佈後立刻在網上引發熱議，韓國網友認為Sana在韓國發展，卻在團體的官方帳號發佈日本時事的貼文很不恰當，且引發爭議後所屬經紀公司JYP娛樂也未將貼文刪除。早前，在韓國的光復節時，TWICE也未在官方社群上有任何表示，網友更批評JYP娛樂難道沒有教藝人這些韓國歷史嗎？韓國與日本在歷史上是不友好的，部分激進網友更表示希望TWICE消失，不再支持這個團體，不過也有網友認為Sana只是在感嘆一個時代的結束，並無不妥\[6\]。另外有新聞報導指出Sana崇尚日本天皇主義，目前撰寫該新聞報導的記者已承認自己的報導有加油添醋的部分並道歉\[7\]。
 
@@ -29,13 +28,13 @@
 
 ### 參與音樂錄影帶
 
-|           |                                                             |                                                                                                                                                                                                                         |                          |
-| --------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| 年份        | MV                                                          | 歌手                                                                                                                                                                                                                      | 合作藝人                     |
-| 2014年     | [A](https://www.youtube.com/watch?v=eISomx-VMow)            | [GOT7](../Page/GOT7.md "wikilink")                                                                                                                                                                                      | Sana                     |
-| FEEL（日文版） | [俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")          | Momo、Mina                                                                                                                                                                                                               |                          |
-| 2016年     | [Fire](https://www.youtube.com/watch?v=X2mqrzKHb3w)         | [朴軫永](../Page/朴軫永.md "wikilink")、[柯南·奧布萊恩](https://zh.wikipedia.org/wiki/柯南·奧布萊恩 "wikilink")、[史蒂文·連](../Page/史蒂文·連.md "wikilink")、[朴智敏](../Page/朴智敏.md "wikilink")（[15&](https://zh.wikipedia.org/wiki/15& "wikilink")） | 娜璉、定延、Momo、志效、Mina、彩瑛、子瑜 |
-| 2017年     | [Instant love](https://www.youtube.com/watch?v=eVvg3O2wBJ4) | 俊昊                                                                                                                                                                                                                      | Sana                     |
+|           |                                                    |                                                                                                                                                                                                                         |                          |
+| --------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| 年份        | MV                                                 | 歌手                                                                                                                                                                                                                      | 合作藝人                     |
+| 2014年     | A\[8\]                                             | [GOT7](../Page/GOT7.md "wikilink")                                                                                                                                                                                      | Sana                     |
+| FEEL（日文版） | [俊昊](https://zh.wikipedia.org/wiki/李俊昊 "wikilink") | Momo、Mina                                                                                                                                                                                                               |                          |
+| 2016年     | Fire\[9\]                                          | [朴軫永](../Page/朴軫永.md "wikilink")、[柯南·奧布萊恩](https://zh.wikipedia.org/wiki/柯南·奧布萊恩 "wikilink")、[史蒂文·連](../Page/史蒂文·連.md "wikilink")、[朴智敏](../Page/朴智敏.md "wikilink")（[15&](https://zh.wikipedia.org/wiki/15& "wikilink")） | 娜璉、定延、Momo、志效、Mina、彩瑛、子瑜 |
+| 2017年     | Instant love\[10\]                                 | 俊昊                                                                                                                                                                                                                      | Sana                     |
 
 ## 影視作品
 
@@ -119,3 +118,6 @@
 5.
 6.
 7.
+8.  <https://www.youtube.com/watch?v=eISomx-VMow>
+9.  <https://www.youtube.com/watch?v=X2mqrzKHb3w>
+10. <https://www.youtube.com/watch?v=eVvg3O2wBJ4>

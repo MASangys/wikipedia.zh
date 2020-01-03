@@ -1,7 +1,7 @@
 > 本文内容由[邁克·D·安吉洛](https://zh.wikipedia.org/wiki/邁克·D·安吉洛)转换而来。
 
 
-**邁克·D·安吉洛**（，），本名'''披拉·尼迪裴善官 '''（），[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")、[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，父母是[華裔泰國人](../Page/華裔泰國人.md "wikilink")，爺爺是中國人，中國姓氏為‘吳’。爸爸擁有皮革制品公司和Michelangelo品牌，Mike的小名和藝名均出自該品牌名稱。
+**邁克·D·安吉洛**（，），本名'''披拉·尼迪裴善官 '''（），[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")、[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")，父母是[華裔泰國人](../Page/華裔泰國人.md "wikilink")，爺爺是華人，漢名姓氏為‘吳’。爸爸擁有皮革制品公司和Michelangelo品牌，Mike的小名和藝名均出自該品牌名稱。
 
 ## 簡介
 

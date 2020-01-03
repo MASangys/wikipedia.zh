@@ -60,13 +60,60 @@
 
 ### 前任成員
 
-| 中文姓名 | 英文姓名    | 備註 |
-| ---- | ------- | -- |
-| 陳可   | Gia     |    |
-| 王嘉怡  | Kylie   |    |
-| 周彥   | Christy |    |
-| 陳韻瑧  | Katie   |    |
-| 夏子涓  | Queena  |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>中文姓名</p></th>
+<th><p>英文姓名</p></th>
+<th><p>出生日期</p></th>
+<th><p>教育程度</p></th>
+<th><p>曾隊內擔當</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>陳可</p></td>
+<td><p>Gia</p></td>
+<td><p>12月12日</p></td>
+<td><p>華南師範大學(多媒體設計)</p></td>
+<td><p>副唱，副領舞</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>王嘉怡</p></td>
+<td><p>Kylie</p></td>
+<td><p>4月8日</p></td>
+<td><p>紐約柏森設計學院（時裝設計）</p></td>
+<td><p>第一主唱，主領舞</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>周彥</p></td>
+<td><p>Christy</p></td>
+<td><p>4月16日</p></td>
+<td><p>英國薩塞克斯大學(市場推廣及企業管理)</p></td>
+<td><p>主領舞，第二主唱</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>陳韻瑧</p></td>
+<td><p>Katie</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>夏子涓</p></td>
+<td><p>Queena</p></td>
+<td></td>
+<td><p><a href="../Page/香港公開大學.md" title="wikilink">香港公開大學</a>（創意寫作與電影藝術）</p></td>
+<td><p>主唱、副領舞</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 音樂作品
 

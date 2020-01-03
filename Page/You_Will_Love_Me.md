@@ -174,7 +174,7 @@
 
 ## 外部連結
 
-  - [韓國Drama H官方網站](http://dramah.hyundaimedia.com/chafront/program/major/main/show.hcn?prog_id=14921)
+  - [韓國Drama H官方網站](https://web.archive.org/web/20151030175046/http://dramah.hyundaimedia.com/chafront/program/major/main/show.hcn?prog_id=14921)
 
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink")
 

@@ -72,7 +72,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
+<td><p>歌曲</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -96,11 +96,6 @@
 <li>「{1}」：四星期冠軍</li>
 <li>「*」：打榜中</li>
 <li>「<span style="background:#88bcea">　</span>」：該段時期未有設立排行榜</li>
-</ul>
-<ul>
-<li>「TOP5」：《Show Champion》排名候選曲，未能獲得一位</li>
-<li>「TAKE7」：《人氣歌謠》排名候選曲，未能獲得一位</li>
-<li>「(註)」：《人氣歌謠》於2013年3月17日設榜</li>
 </ul></td>
 </tr>
 </tbody>

@@ -3,7 +3,7 @@
 
 **Dreamcatcher**（），是[Happy Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2017年1月13日推出的七人女子團體，以首張單曲專輯《惡夢》主打歌《Chase Me》正式出道。
 
-其前身為2014年9月18日出道的五人女子團體 **MINX**（），成員有祉攸、秀雅、始娟、裕賢、多美。後於2017年1月加入2位新成員韓東及佳泫，並更改團名為 Dreamcatcher重新出道。2019年4月11日，Dreamcatcher成立Youtube官方頻道。
+其前身為2014年9月18日出道的五人女子團體 **MINX**（），成員有祉攸、[秀雅](https://zh.wikipedia.org/wiki/秀雅 "wikilink")、始娟、裕賢、多美。後於2017年1月加入2位新成員韓東及佳泫，並更改團名為 Dreamcatcher重新出道。2019年4月11日，Dreamcatcher成立Youtube官方頻道。
 
 MINX 時期的粉絲名稱為**「VitaMINX」**。
 

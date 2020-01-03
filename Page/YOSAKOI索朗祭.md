@@ -375,9 +375,9 @@
 
   -
 
-      - [繁體中文簡介](http://www.yosakoi-soran.jp/pdf/yosakoi_A3_ch_h.pdf)
+      - [繁體中文簡介](https://web.archive.org/web/20170319101204/http://www.yosakoi-soran.jp/pdf/yosakoi_A3_ch_h.pdf)
 
-      - [簡體中文簡介](http://www.yosakoi-soran.jp/pdf/yosakoi_A3_ch_k.pdf)
+      - [簡體中文簡介](https://web.archive.org/web/20160806065730/http://www.yosakoi-soran.jp/pdf/yosakoi_A3_ch_k.pdf)
 
   -
 

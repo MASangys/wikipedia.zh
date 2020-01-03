@@ -5,7 +5,7 @@
 
 ## 概述
 
-CC3握把及導軌系統由高等級、輕量化，與[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚合物](../Page/聚合物.md "wikilink")所製造。採用左右對稱的兩片式設計，每片護板的前部下方均設有導軌齒，將兩片護板組合在一起便構成完整的MIL-STD-1913戰術導軌。該套件隨其附帶兩顆[螺絲](../Page/螺絲.md "wikilink")，安裝時將其用以取代M1911手槍以上原來的握把側板以後，再將兩顆附加螺絲分別擰入位於套件前方及[扳機護圈前方的兩個螺絲孔中就正式組裝完成](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。
+CC3握把及導軌系統由高等級、輕量化，與[玻璃钢強化](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚合物](../Page/聚合物.md "wikilink")所製造。採用左右對稱的兩片式設計，每片護板的前部下方均設有導軌齒，將兩片護板組合在一起便構成完整的MIL-STD-1913戰術導軌。該套件隨其附帶兩顆[螺絲](../Page/螺絲.md "wikilink")，安裝時將其用以取代M1911手槍以上原來的握把側板以後，再將兩顆附加螺絲分別擰入位於套件前方及[扳機護環前方的兩個螺絲孔中就正式組裝完成](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。
 
 該套件有[黑色](../Page/黑色.md "wikilink")、[橄榄绿](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（軍綠色）、[沙色和](https://zh.wikipedia.org/wiki/沙色 "wikilink")[粉紅色四種顏色可選](https://zh.wikipedia.org/wiki/粉紅色 "wikilink")，安裝在M1911手槍上非常簡單實用。而且生產商還針對安裝該握把及導軌系統的M1911手槍生產對應的槍套。生產商表示可在3分鐘以內，無需協助就完成其安裝，亦無需作不可逆的永久性修改。
 

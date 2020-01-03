@@ -20,7 +20,7 @@
 
 [Category:2010年成立的公司](https://zh.wikipedia.org/wiki/Category:2010年成立的公司 "wikilink") [Category:香港上市服務業公司](https://zh.wikipedia.org/wiki/Category:香港上市服務業公司 "wikilink") [Category:香港上市工業公司](https://zh.wikipedia.org/wiki/Category:香港上市工業公司 "wikilink") [Category:香港製造公司](https://zh.wikipedia.org/wiki/Category:香港製造公司 "wikilink") [Category:印刷公司](https://zh.wikipedia.org/wiki/Category:印刷公司 "wikilink")
 
-1.  [緯豐財經印刷有限公司（REF Holdings Limited旗下）簡介](http://www.ref.com.hk/tc/aboutref.php?lang=2&menuID=1)
+1.
 2.  [REF Holdings Limited招股資料](http://www.hkexnews.hk/listedco/listconews/GEM/2015/0917/GLN20150917004_C.pdf)
 3.  [REF Holdings Limited招股通告](http://www.refholdings.com.hk/pdf/20150917100410C.pdf)
 4.  [REF Holdings(08177.HK)擬配售方式上市](http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.692666/1)[阿斯達克財經網](https://zh.wikipedia.org/wiki/阿斯達克財經網 "wikilink") 2015年9月17日

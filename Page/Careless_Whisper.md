@@ -34,7 +34,7 @@
 ## 改編
 
   - 有三個不同的中文版本，為[梅艷芳](../Page/梅艷芳.md "wikilink")的《夢幻的擁抱》、[甄妮](../Page/甄妮.md "wikilink")的《忍痛說謊》和[蔡國權的](https://zh.wikipedia.org/wiki/蔡國權 "wikilink")《無心快語》。\[14\]
-  - 有兩個不同的日語版本，為[西城秀樹](../Page/西城秀樹.md "wikilink")的《抱きしめてジルバ》和[鄉裕美的](https://zh.wikipedia.org/wiki/鄉裕美 "wikilink")《ケアレス・ウィスパー》。
+  - 有兩個不同的日語版本，為[西城秀樹](../Page/西城秀樹.md "wikilink")的《抱緊我跳[吉魯巴](https://zh.wikipedia.org/wiki/吉魯巴 "wikilink")》（《抱きしめてジルバ》）和[鄉裕美的](https://zh.wikipedia.org/wiki/鄉裕美 "wikilink")《Careless Whisper》（ケアレス・ウィスパー）。
 
 ## 資料來源
 

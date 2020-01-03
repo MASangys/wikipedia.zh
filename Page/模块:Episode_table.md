@@ -141,6 +141,8 @@ function EpisodeTable.new(args)
 `           {'aux3','Aux3',''},`
 `           {'airdate','OriginalAirDate',(args.released and '上线' or '首播') .. '日期'},`
 `           {'altdate','AltDate',''},`
+`           {'guests','Guests','Guest(s)','嘉宾'},`
+`           {'musicalguests','MusicalGuests','Musical/entertainment guest(s)','音乐嘉宾'},`
 `           {'prodcode','ProdCode','制作`
 `代码'},`
 `           {'aux5','Aux5',''},`

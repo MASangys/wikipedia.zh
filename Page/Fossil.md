@@ -11,7 +11,7 @@ Fossil是一个服务器，可以运行于[Linux](../Page/Linux.md "wikilink")�
 
 内容是使用[SQLite](../Page/SQLite.md "wikilink")数据库存储的，因此[事务是](../Page/数据库事务.md "wikilink")的，即使是因掉电或宕机而中断。\[1\]
 
-Fossil是[自由软件](../Page/自由软件.md "wikilink")，遵循[BSD许可证](../Page/BSD许可证.md "wikilink")发布。\[2\]（由先前的[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")）。
+Fossil是[自由软件](../Page/自由软件.md "wikilink")，遵循[BSD许可证](../Page/BSD许可证.md "wikilink")发布。\[2\]（由先前的[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")）
 
 ## 应用
 
@@ -43,8 +43,6 @@ Fossil是[自由软件](../Page/自由软件.md "wikilink")，遵循[BSD许可�
 ## 外部链接
 
   -
-{{-}}
-
 [Category:2006年软件](https://zh.wikipedia.org/wiki/Category:2006年软件 "wikilink") [Category:缺陷和问题跟踪软件](https://zh.wikipedia.org/wiki/Category:缺陷和问题跟踪软件 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:分布式版本控制系统](https://zh.wikipedia.org/wiki/Category:分布式版本控制系统 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:自由版本控制软件](https://zh.wikipedia.org/wiki/Category:自由版本控制软件 "wikilink") [Category:自由wiki软件](https://zh.wikipedia.org/wiki/Category:自由wiki软件 "wikilink") [Category:使用BSD许可证的软件](https://zh.wikipedia.org/wiki/Category:使用BSD许可证的软件 "wikilink") [Category:版本控制系统](https://zh.wikipedia.org/wiki/Category:版本控制系统 "wikilink")
 
 1.

@@ -76,26 +76,30 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/吳偉安" title="wikilink">吳偉安</a></p></td>
 </tr>
 <tr class="even">
-<td><p></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/王新輝" title="wikilink">王新輝</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>守門員教練</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫策" title="wikilink">孫策</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>預備組教練</p></td>
 <td><p><a href="../Page/蘇來強.md" title="wikilink">蘇來強</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>隊醫</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉益豪" title="wikilink">劉益豪</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>翻譯</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅希" title="wikilink">羅希</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>隊務</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉志興" title="wikilink">劉志興</a></p></td>
 </tr>
@@ -149,6 +153,16 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>13</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歐政樂" title="wikilink">歐政樂</a>（Au, Ching Lok）</p></td>
+<td><p>1997年4月4日</p></td>
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td><p>新加盟</p></td>
+</tr>
+<tr class="even">
 <td><p>94</p></td>
 <td></td>
 <td><p><a href="../Page/謝家榮_(足球運動員).md" title="wikilink">謝家榮</a>（Tse Ka Wing）</p></td>
@@ -156,9 +170,9 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢想體育會" title="wikilink">夢想FC</a></p></td>
 <td><p>U-22青年球員</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>97</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃子康" title="wikilink">黃子康</a>（Wong Tsz Hong）</p></td>
@@ -168,7 +182,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>U-22青年球員</p></td>
 <td><p>新加盟</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>98</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳梓榮" title="wikilink">陳梓榮</a>（Chen Zirong）</p></td>
@@ -178,23 +192,13 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>中國外援</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><font color="black"><strong>後衛</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>5</p></td>
-<td></td>
-<td><p><a href="../Page/勞烈斯.md" title="wikilink">勞烈斯</a>（Lilley Nunez Vasudeva Das）</p></td>
-<td><p>1995年11月22日</p></td>
-<td><p>2017年</p></td>
-<td><p><a href="../Page/東方足球隊.md" title="wikilink">東方龍獅</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -216,7 +220,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="../Page/理文足球會.md" title="wikilink">理文</a></p></td>
 <td></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -236,7 +240,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢想體育會" title="wikilink">夢想FC</a></p></td>
 <td><p>U-22青年球員</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
@@ -246,7 +250,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="../Page/維積利足球會.md" title="wikilink">維積利</a></p></td>
 <td><p>外援</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
@@ -306,7 +310,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p></p></td>
 <td><p>外援</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -316,7 +320,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑志" title="wikilink">傑志</a></p></td>
 <td><p>多重國藉本地球員</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
@@ -326,7 +330,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢想體育會" title="wikilink">夢想FC</a></p></td>
 <td><p>U-22青年球員</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
@@ -396,7 +400,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
 <td><p>外援</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
@@ -409,16 +413,6 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>32</p></td>
-<td></td>
-<td><p><a href="../Page/袁振昇.md" title="wikilink">袁振昇</a>（Yuen Chun Sing）</p></td>
-<td><p>1993年2月16日</p></td>
-<td><p>2018年</p></td>
-<td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
-<td></td>
-<td><p>外借回歸</p></td>
-</tr>
-<tr class="even">
 <td><p>99</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳嘉宝_(足球運動員)" title="wikilink">陳嘉-{宝}-</a>（Adriel Demian Chan "Ka-Po"）</p></td>
@@ -426,7 +420,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>2019年</p></td>
 <td><p><a href="../Page/中西區足球隊.md" title="wikilink">中西區</a></p></td>
 <td><p>U-22青年球員</p></td>
-<td><p>新加盟</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -457,6 +451,20 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p>後衛</p></td>
 <td><p>1997年1月30日</p></td>
 <td><p><a href="../Page/香港流浪足球會.md" title="wikilink">標準流浪</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="../Page/勞烈斯.md" title="wikilink">勞烈斯</a>（Lilley Nunez Vasudeva Das）</p></td>
+<td><p>後衛</p></td>
+<td><p>1995年11月22日</p></td>
+<td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/袁振昇.md" title="wikilink">袁振昇</a>（Yuen Chun Sing）</p></td>
+<td><p>前鋒</p></td>
+<td><p>1993年2月16日</p></td>
+<td><p><a href="../Page/大埔足球會.md" title="wikilink">和富大埔</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -601,7 +609,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><font color="black">2018年冬季轉會窗</p></td>
+<td><p><font color="black">冬季轉會窗</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -15,6 +15,26 @@
 
 至於能運交中國的，由於當時已是1911年（民國元年）[辛亥革命](../Page/辛亥革命.md "wikilink")成功，故被稱為[元年式步槍](../Page/元年式步槍.md "wikilink")，1915年（民國四年）又被改回7.92毫米口徑並改稱為四年式步槍。
 
+## 衍生型號
+
+### 狙擊型
+
+1915年春季，15,000支在槍廠測試中表現優異的Gew 98步槍被挑選出來，並裝上瞄準鏡作為狙擊步槍使用，但Gew 98步槍本身未設計兼容瞄準鏡組。因此，*Scharfschützen-Gewehr 98* (98型狙擊步槍)在1915年被採用，其搭配4倍Görtz或蔡司製瞄準鏡。這些瞄準鏡被固定在步槍的左邊以方便使用[彈夾條裝填彈藥](https://zh.wikipedia.org/wiki/彈夾條 "wikilink")。而其瞄準具有彈道下跌補償的裝置，由1,000米至100米。 此外，它的拉機柄由原裝的直式改為下彎式。槍托上也加設了一個凹槽以容納下彎式拉機柄。
+
+戰時的*Scharfschützen-Gewehr 98*計劃原本希望作為標準型狙擊步槍但失敗了。它的瞄準具有2.5×，3×和4×等型號，分別由Görtz, Gérard, Oige, Zeiss, Hensoldt, Voigtländer等廠商生產，民用型則由Bock, Busch和Füss等生產。
+
+### Karabiner 98a
+
+[Karabiner_1898a_noBG.jpg](https://zh.wikipedia.org/wiki/File:Karabiner_1898a_noBG.jpg "fig:Karabiner_1898a_noBG.jpg")
+
+軍用的卡賓槍也被設計給步兵以外的士兵作為自衞用槍。 在20世紀前期，[德國軍隊使用卡賓槍的單位有](../Page/德意志帝國陸軍.md "wikilink"):[炮兵](https://zh.wikipedia.org/wiki/炮兵 "wikilink")，[自行車兵](https://zh.wikipedia.org/wiki/自行車兵 "wikilink")，[騎兵](https://zh.wikipedia.org/wiki/騎兵 "wikilink")，[工兵](https://zh.wikipedia.org/wiki/工兵 "wikilink")，機槍組員，[憲兵](https://zh.wikipedia.org/wiki/憲兵 "wikilink")，運輸兵，空勤人員和通訊兵等。 與後來的[karabiner 98k步槍或更早的Karabiner](../Page/毛瑟Kar98k步槍.md "wikilink") 98A步槍 (注意是大寫A)無關，Karabiner 98a步槍(Kar 98a)是一款為騎兵和支援兵種設計的衍生型。它是Gew 98步槍的縮短型。而它的前型Karabiner 98A步槍，使用比Gew 98更短的槍管和有著更輕的重量（空槍時重），於1902年2月被採用。在1904年的試驗中，改為使用*S藥筒*彈藥的Kar98A步槍的顯著後座力和槍口閃焰問題，造成此槍於1905年停產。\[2\]
+
+### Karabiner 98b
+
+[Karabiner_98b_(Sketch).jpg](https://zh.wikipedia.org/wiki/File:Karabiner_98b_\(Sketch\).jpg "fig:Karabiner_98b_(Sketch).jpg")
+
+雖然被稱為卡賓槍，但Kar98b步槍並不是一款真正意義上的[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，其名稱用以符合只許德國生產卡賓槍的[凡爾賽條約](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")。\[3\] Kar98b步槍於1923年研發。\[4\]
+
 ## 使用國家
 
   -
@@ -44,26 +64,6 @@
 ## 圖片
 
 Image:Mauser m98.jpg|德國Gew 98步槍和刺刀 Image:Bataille-frontieres-allemands-.jpg|拿著Gew 98步槍上戰場的德軍士兵
-
-## 衍生型號
-
-### 狙擊型
-
-1915年春季，15,000支在槍廠測試中表現優異的Gew 98步槍被挑選出來，並裝上瞄準鏡作為狙擊步槍使用，但Gew 98步槍本身未設計兼容瞄準鏡組。因此，*Scharfschützen-Gewehr 98* (98型狙擊步槍)在1915年被採用，其搭配4倍Görtz或蔡司製瞄準鏡。這些瞄準鏡被固定在步槍的左邊以方便使用[彈夾條裝填彈藥](https://zh.wikipedia.org/wiki/彈夾條 "wikilink")。而其瞄準具有彈道下跌補償的裝置，由1,000米至100米。 此外，它的拉機柄由原裝的直式改為下彎式。槍托上也加設了一個凹槽以容納下彎式拉機柄。
-
-戰時的*Scharfschützen-Gewehr 98*計劃原本希望作為標準型狙擊步槍但失敗了。它的瞄準具有2.5×，3×和4×等型號，分別由Görtz, Gérard, Oige, Zeiss, Hensoldt, Voigtländer等廠商生產，民用型則由Bock, Busch和Füss等生產。
-
-### Karabiner 98a
-
-[Karabiner_1898a_noBG.jpg](https://zh.wikipedia.org/wiki/File:Karabiner_1898a_noBG.jpg "fig:Karabiner_1898a_noBG.jpg")
-
-軍用的卡賓槍也被設計給步兵以外的士兵作為自衞用槍。 在20世紀前期，[德國軍隊使用卡賓槍的單位有](../Page/德意志帝國陸軍.md "wikilink"):[炮兵](https://zh.wikipedia.org/wiki/炮兵 "wikilink")，[自行車兵](https://zh.wikipedia.org/wiki/自行車兵 "wikilink")，[騎兵](https://zh.wikipedia.org/wiki/騎兵 "wikilink")，[工兵](https://zh.wikipedia.org/wiki/工兵 "wikilink")，機槍組員，[憲兵](https://zh.wikipedia.org/wiki/憲兵 "wikilink")，運輸兵，空勤人員和通訊兵等。 與後來的[karabiner 98k步槍式更早的Karabiner](../Page/毛瑟Kar98k步槍.md "wikilink") 98A步槍 (注意是大寫A)無關，Karabiner 98a步槍(Kar 98a)是一款為騎兵和支援兵種設計的衍生型。它是Gew 98步槍的縮短型。而它的前型Karabiner 98A步槍，使用比Gew 98更短的槍管和有著更輕的重量（空槍時重），於1902年2月被採用。在1904年的試驗中，改為使用*S藥筒*彈藥的Kar98A步槍的顯著後座力和槍口閃焰問題，造成此槍於1905年停產。\[2\]
-
-### Karabiner 98b
-
-[Karabiner_98b_(Sketch).jpg](https://zh.wikipedia.org/wiki/File:Karabiner_98b_\(Sketch\).jpg "fig:Karabiner_98b_(Sketch).jpg")
-
-雖然被稱為卡賓槍，但Kar98b步槍並不是一款真正意義上的[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")，其名稱用以符合只許德國生產卡賓槍的[凡爾賽條約](https://zh.wikipedia.org/wiki/凡爾賽條約 "wikilink")。\[3\] Kar98b步槍於1923年研發。\[4\]
 
 ## 參考資料
 

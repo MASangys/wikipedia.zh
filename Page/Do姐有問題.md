@@ -1053,7 +1053,7 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>12月15日</p></td>
-<td><p>精彩笑料大放送</p></td>
+<td><p>精彩笑料大放送（嘉賓主持：<a href="../Page/鄺潔楹.md" title="wikilink">鄺潔楹</a>、<a href="../Page/梁芷珮.md" title="wikilink">梁芷珮</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1084,7 +1084,7 @@
   - [梁芷珮](../Page/梁芷珮.md "wikilink")（ [亞利桑那](https://zh.wikipedia.org/wiki/亞利桑那 "wikilink")、[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")、 [溫哥華](../Page/溫哥華.md "wikilink")、 [馬賽](https://zh.wikipedia.org/wiki/馬賽 "wikilink")、[里昂](../Page/里昂.md "wikilink")、[波爾多](https://zh.wikipedia.org/wiki/波爾多 "wikilink")、[巴黎](../Page/巴黎.md "wikilink")）
   - [陳雅思](../Page/陳雅思.md "wikilink")、[潘梓鋒](../Page/潘梓鋒.md "wikilink")（ [濟州島](https://zh.wikipedia.org/wiki/濟州島 "wikilink")）
   - [胡慧冲](../Page/胡慧冲.md "wikilink")（ [曼谷](../Page/曼谷.md "wikilink")、[碧武里府](../Page/碧武里府.md "wikilink")、[差春騷府](../Page/差春騷府.md "wikilink")）
-  - [梁凱晴](../Page/梁凱晴.md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")、[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")、[屏東](../Page/屏東縣.md "wikilink")、[鹿港](https://zh.wikipedia.org/wiki/鹿港 "wikilink")、[松山](https://zh.wikipedia.org/wiki/松山區_\(臺北市\) "wikilink")、[西門町](../Page/西門町.md "wikilink")）
+  - [梁凱晴](../Page/梁凱晴_\(台灣\).md "wikilink")（ [台北](../Page/臺北市.md "wikilink")、[台中](https://zh.wikipedia.org/wiki/台中 "wikilink")、[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")、[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")、[屏東](../Page/屏東縣.md "wikilink")、[鹿港](https://zh.wikipedia.org/wiki/鹿港 "wikilink")、[松山](https://zh.wikipedia.org/wiki/松山區_\(臺北市\) "wikilink")、[西門町](../Page/西門町.md "wikilink")）
   - [鄺潔楹](../Page/鄺潔楹.md "wikilink")（ [東京](https://zh.wikipedia.org/wiki/東京 "wikilink")）
   - [陳婉衡](../Page/陳婉衡.md "wikilink")（ [北海道](../Page/北海道.md "wikilink")）
   - [葉韋彤](../Page/葉韋彤.md "wikilink")（ [首爾](../Page/首爾.md "wikilink")）
@@ -1102,7 +1102,7 @@
   - [周奕瑋](../Page/周奕瑋.md "wikilink")（ [關西](../Page/近畿地方.md "wikilink")）
   - [鞏姿希](../Page/鞏姿希.md "wikilink")（ [九州](../Page/九州_\(日本\).md "wikilink")）
   - [胡慧冲](../Page/胡慧冲.md "wikilink")（）
-  - [梁凱晴](../Page/梁凱晴.md "wikilink")（）
+  - [梁凱晴](../Page/梁凱晴_\(台灣\).md "wikilink")（）
   - [陳貝兒](../Page/陳貝兒.md "wikilink")（）
   - [簡淑兒](../Page/簡淑兒.md "wikilink")（）
   - [周佩婷](../Page/周佩婷.md "wikilink")（）
@@ -1157,7 +1157,7 @@
 | 16 | 2019年11月10日 | 18.9點 |
 | 19 | 2019年12月1日  | 19.4點 |
 | 20 | 2019年12月8日  | 20.0點 |
-| 21 | 2019年12月15日 |       |
+| 21 | 2019年12月15日 | 16.3點 |
 
 ## 獎項
 

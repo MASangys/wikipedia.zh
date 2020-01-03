@@ -73,12 +73,12 @@
 
 ### 迷你專輯
 
-<table style="width:122%;">
+<table style="width:151%;">
 <colgroup>
-<col style="width: 18%" />
+<col style="width: 45%" />
 <col style="width: 27%" />
 <col style="width: 27%" />
-<col style="width: 13%" />
+<col style="width: 16%" />
 <col style="width: 36%" />
 </colgroup>
 <thead>
@@ -875,10 +875,22 @@
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>2st</p></td>
+<td><p>2nd</p></td>
 <td><p>《<strong><a href="../Page/&amp;TWICE.md" title="wikilink">&amp;TWICE</a></strong>》</p>
 <ul>
 <li>發行日期：2019年11月20日</li>
+<li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
+<li>發行公司：Warner Music Japan</li>
+</ul></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd Repackage</p></td>
+<td><p>《<strong>&amp;TWICE-Repackage-</strong>》</p>
+<ul>
+<li>發行日期：2020年2月5日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
 <li>發行公司：Warner Music Japan</li>
 </ul></td>
@@ -886,7 +898,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p>"—" 表示該專輯未有在榜上排名或沒有在當地發行</p></td>
 <td></td>

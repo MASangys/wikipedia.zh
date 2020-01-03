@@ -1,7 +1,7 @@
 > 本文内容由[貝瑞塔APX半自動手槍](https://zh.wikipedia.org/wiki/貝瑞塔APX半自動手槍)转换而来。
 
 
-**貝瑞塔APX**（）是一款由[義大利的槍械製造商](https://zh.wikipedia.org/wiki/義大利 "wikilink")[貝瑞塔](../Page/貝瑞塔.md "wikilink")為[美軍](https://zh.wikipedia.org/wiki/美軍 "wikilink")（XM17 MHS competition）而設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")、和[.40 S\&W這三種手槍](../Page/.40_S&W.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
+**貝瑞塔APX**（）是一款由[義大利的槍械製造商](https://zh.wikipedia.org/wiki/義大利 "wikilink")[貝瑞塔](../Page/貝瑞塔.md "wikilink")為[美軍](https://zh.wikipedia.org/wiki/美軍 "wikilink")[XM17模組化手槍系統競爭](../Page/XM17模組化手槍系統競爭.md "wikilink")（XM17 MHS competition）而設計和生產的一系列[半自動手槍](../Page/半自動手槍.md "wikilink")，發射[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")、和[.40 S\&W這三種手槍](../Page/.40_S&W.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 以前貝瑞塔曾以更低的價格提供其[M9A3型號](../Page/貝瑞塔M9手槍.md "wikilink")，用以作為M9採購計劃的延續。但其後據悉M9A3的變化實在非常顯著，超出了工程變更建議書（ECP）的範圍而遭到拒絕，而[國防部更傾向展開全新的採購競標](../Page/美国国防部.md "wikilink")。\[2\]
 
@@ -32,20 +32,13 @@ APX以[擊針擊發](../Page/撞針.md "wikilink")。當待擊時，上膛指示
 ## 參見
 
   - [貝瑞塔產品列表](../Page/貝瑞塔產品列表.md "wikilink")
-
-  -
+  - [XM17模組化手槍系統競爭](../Page/XM17模組化手槍系統競爭.md "wikilink")
   - [貝瑞塔92](../Page/貝瑞塔92手槍.md "wikilink")
-
   - [貝瑞塔M9](../Page/貝瑞塔M9手槍.md "wikilink")
-
   - [貝瑞塔90two](../Page/貝瑞塔90two半自動手槍.md "wikilink")
-
   - [貝瑞塔8000](../Page/貝瑞塔8000半自動手槍.md "wikilink")
-
   - [貝瑞塔9000](../Page/貝瑞塔9000半自動手槍.md "wikilink")
-
   - [貝瑞塔Px4 Storm](../Page/貝瑞塔Px4_Storm半自動手槍.md "wikilink")
-
   - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano半自動手槍.md "wikilink")
 
 ## 資料來源

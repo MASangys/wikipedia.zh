@@ -66,6 +66,10 @@
 
 2019年4月，Faker入選《[富比士](https://zh.wikipedia.org/wiki/富比士 "wikilink")》年度傑出青年「30 Under 30」亞洲區傑出青年中的「運動與體育」項目，成為[韓國首位入圍該獎項的](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[英雄聯盟選手](../Page/英雄联盟.md "wikilink")\[18\]
 
+## 綜藝節目
+
+2018年11月19日 [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《大國民脫口秀-你好》
+
 ## 參考資料
 
 ## 外部連結

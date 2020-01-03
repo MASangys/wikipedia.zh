@@ -45,7 +45,7 @@
 <td><p>†<strong><a href="../Page/2018年YouTube年度回顧.md" title="wikilink">YouTube年度回顾2018：人人掌控回顾</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/YouTube聚光灯" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月6日</p></td>
-<td><p>1,723</p></td>
+<td><p>1,748</p></td>
 <td><p>86.47%</p></td>
 <td></td>
 </tr>
@@ -54,7 +54,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/宝贝_(贾斯汀·比伯歌曲)" title="wikilink">宝贝</a></strong></p></td>
 <td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">贾斯汀·比伯</a> <small>、</small> <a href="../Page/卢达克里斯.md" title="wikilink">卢达克里斯</a></p></td>
 <td><p>2010年2月19日</p></td>
-<td><p>1,049</p></td>
+<td><p>1,098</p></td>
 <td><p>46.91%</p></td>
 <td></td>
 </tr>
@@ -72,8 +72,8 @@
 <td><p>†<strong>YouTube年度回顧2019：為了記錄</strong></p></td>
 <td><p><a href="../Page/YouTube聚光燈.md" title="wikilink">YouTube</a></p></td>
 <td><p>2019年12月5日</p></td>
-<td><p>700</p></td>
-<td><p>71.14%</p></td>
+<td><p>824</p></td>
+<td><p>71.73%</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -81,7 +81,7 @@
 <td><p>†<strong><a href="https://zh.wikipedia.org/wiki/鯊魚寶寶" title="wikilink">鯊魚寶寶</a></strong></p></td>
 <td><p><a href="../Page/碰碰狐.md" title="wikilink">碰碰狐</a></p></td>
 <td><p>2016年6月17日</p></td>
-<td><p>468</p></td>
+<td><p>498</p></td>
 <td><p>27.93%</p></td>
 <td></td>
 </tr>

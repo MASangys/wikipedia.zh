@@ -15,9 +15,9 @@ AMD Zen是AMD於2016年中發表的[x86-64微架構](https://zh.wikipedia.org/wi
 
   - 主流效能級平台使用[μPGA封裝](https://zh.wikipedia.org/wiki/插针网格阵列封装 "wikilink")，[Socket AM4插座](../Page/Socket_AM4.md "wikilink")。\[7\]\[8\]極致效能型號採用與[Epyc相同的LGA封裝](../Page/AMD_Epyc.md "wikilink")，與[Socket SP3相同規格的](../Page/Socket_SP3.md "wikilink")[Socket TR4](../Page/Socket_TR4.md "wikilink")。
   - 僅支援[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，支援DDR4-2666單面（Rank）記憶體模組規格或DDR4-2400雙面記憶體模組規格、DDR4-2133單面模組或DDR4-1866雙面模組，\[9\]\[10\]不過，2017年3月下旬開始新推出的AM4主機板、更新舊AM4主機板的BIOS修正檔以後能支援至最高DDR4-3200之規格。\[11\]
-  - 保留大部分[AMD FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[x87](https://zh.wikipedia.org/wiki/x87 "wikilink")、[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](../Page/AVX指令集.md "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[12\]
+  - 保留大部分[AMD FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](../Page/AVX指令集.md "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[12\]
   - 8核心處理器的晶片面積最大為192平方毫米，48億個晶體管，\[13\]\[14\]\[15\]\[16\]8核心型號的正式產品[步進版本為B](../Page/步進等級.md "wikilink")1。\[17\]而8核心以上的處理器型號採用[多晶片模組](../Page/多晶片模組.md "wikilink")的方式，將兩顆8核心的晶片拼接在一塊[PCB基板上](https://zh.wikipedia.org/wiki/PCB板 "wikilink")。
-  - 最初的Ryzen Threadripper、Ryzen 7、Ryzen 5、Ryzen 3系列皆為無內建GPU的設計，需要搭配獨立[顯示卡方能組建PC](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。後來推出的行動型AMD APU產品線以Ryzen品牌行銷，內建有GPU。
+  - 最初的Ryzen Threadripper、Ryzen 7、Ryzen 5、Ryzen 3系列皆為無內建GPU的設計，需要搭配獨立[顯示卡方能組建PC](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。後來推出的AMD APU產品線以Ryzen品牌行銷，內建有GPU。
   - 全系列不鎖定倍頻設定。\[18\]
   - 部分盒裝包裝的產品會搭配「Wraith Stealth」、「Wraith Spire」以及「Wraith Max」之原裝散熱器，後兩者還配備了RGB彩色LED燈光效果。\[19\]舊有散熱器部分需要改裝扣具方能在AM4平台上使用
   - 4顆x86處理器核心及相應的L2、L3快取為一個Zen模組，模組之間和[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、[PCIe控制器等使用Infinity](https://zh.wikipedia.org/wiki/PCIe "wikilink") Fabric匯流排連接，Infinity Fabric是[HyperTransport](../Page/HyperTransport.md "wikilink")的擴展集。
@@ -54,6 +54,8 @@ Zen+是Zen的小幅改進版，採用「12奈米」LP（Leading Performance）�
 不過，儘管仍維持不鎖定處理器倍頻的設定，對Ryzen 7 2700X的實測表明其本身的可超頻空間不高，在[風冷](../Page/風冷.md "wikilink")的情況下也很難達成 4.5 GHz以上的時脈，此時的CPU核心電壓已經處於危險水平。而對手Intel的Core i7 8700K預設就高達4.7GHz的加速時脈，儘管它也必須大幅強化供電及解熱組件（一般需要[液冷套件](https://zh.wikipedia.org/wiki/電腦水冷 "wikilink")）方能達成超頻至5 GHz的結果。
 
 ### Zen 2微架構
+
+採用7nm製程。較Zen+明顯改善效能。
 
 ## 處理器列表
 
@@ -1108,7 +1110,7 @@ Ryzen 7 2800H的GPU部分為Radeon Vega 11，Ryzen 7 2700U及Pro 2700U的GPU部�
 
 ##### Ryzen 5 Mobile 系列
 
-本系列的GPU部分爲Radeon Vega 8，規格與桌機Ryzen 3 2200G使用的Radeon Vega 8一致
+本系列的GPU部分為Radeon Vega 8，規格與桌機Ryzen 3 2200G使用的Radeon Vega 8一致
 
 <table>
 <thead>
@@ -2087,6 +2089,8 @@ YD2600BBAFBOX</p></td>
 ### 基於 Zen 2 微架構
 
 #### Ryzen Threadripper
+
+採用Socket sTRX4插座，不相容Socket TR4插座。
 
 #### 桌上型處理器
 

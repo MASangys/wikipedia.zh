@@ -90,6 +90,7 @@
 | 現任成員                                                    |
 | ------------------------------------------------------- |
 | 漢字\[66\]                                                |
+| [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")     |
 | [金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")     |
 | [磪有情](../Page/磪有情.md "wikilink")                        |
 | [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")     |
@@ -99,8 +100,6 @@
 | [金度延](../Page/金度延.md "wikilink")                        |
 | [康美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")     |
 | **[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")** |
-| 暫定未參與重組成員                                               |
-| [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")     |
 | [俞璉靜](https://zh.wikipedia.org/wiki/俞璉靜 "wikilink")     |
 
 ## 音樂作品

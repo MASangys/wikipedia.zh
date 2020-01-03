@@ -30,8 +30,8 @@ QDII2的试点意味着符合条件的自贸区内个人可以将人民币或外
 1.  [QDII2与QDII的区别](http://news.xinhuanet.com/finance/2013-01/14/c_124225503.htm)
 2.  [央行首提QDII2](http://finance.sina.com.cn/stock/y/20130116/075114299948.shtml)
 3.
-4.  [上海自贸区争取年内启动QDII2](http://news.163.com/15/0318/01/AKV23IUR00014AED.html)
-5.  [QDII2将很快出台](http://news.cnfol.com/weishendu/20150427/20646096.shtml)
+4.
+5.
 6.  [QDII2比QDII表现更佳](http://finance.sina.com.cn/stock/hkstock/hkstocknews/20131219/163817689145.shtml)
-7.  [QDII2投资对象](http://news.cnfol.com/weishendu/20150427/20646096.shtml)
+7.
 8.  [人民币冲刺SDR](http://news.xinhuanet.com/herald/2015-04/21/c_134170564.htm)

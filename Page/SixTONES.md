@@ -233,12 +233,14 @@ SixTONES的意思是解作六個不同的音階，代表著六人每人也有各
 
   -
 
+## 參考資料
+
 ## 外部連結
 
   - [Johnny's net \> Johnny Jr.](http://www.johnnys-net.jp/page?id=artistTop&artist=21&lang=zh_tw) - Johnny事務所 JohnnyJr.公式網頁
   - [SixTONES Official site](https://www.sixtones.jp) - Sony Music Entertainment (Japan) Inc. SixTONES公式網頁
 
-[Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink")
+[Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
 2.  「週刊女性PRIME」2015年4月號

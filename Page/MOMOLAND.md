@@ -77,7 +77,7 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 
 11月7日，發行日本單曲《BAAM -Japanese ver.-》。
 
-### 2019年：迷你五輯《Show Me》、DAISY及泰河暫停活動、第二次成員變動
+### 2019年：迷你五輯《Show Me》、三個一位、DAISY及泰河暫停活動、第二次成員變動、單曲二輯《Thumbs Up》
 
 3月20日，發表第五張迷你專輯《[Show Me](../Page/Show_Me_\(MOMOLAND專輯\).md "wikilink")》，但DAISY與將不參與該迷你專輯的活動。
 
@@ -92,6 +92,8 @@ MOMOLAND在打招呼時會說"Get your ticket\!"，可知MOMOLAND團名的含意
 9月4日，發佈日文單曲《Chiri Chiri（チリチリ）》，主打歌《Pinky Love》為首個日文原創曲。
 
 11月30日，經紀公司透過公告宣布，妍雨因為難以兼顧歌手和演員的行程，決定退隊，「今後將會繼續留在公司作為演員活動」。泰河則是已經解約，經紀公司強調：「（泰河）本人也苦惱已久，但公司仍舊尊重本人意願，會繼續為泰河的新開始應援。」至於Daisy的去留則「仍在與公司商討當中」，結果待定後公司將再次告知，而目前MOMOLAND將暫時以六人女團的形式活動。
+
+12月30日，發表第二張單曲《[Thumbs Up](https://zh.wikipedia.org/wiki/Thumbs_Up "wikilink")》。
 
 ## 成員資料
 
@@ -191,6 +193,7 @@ LineData =
 `  at:01/03/2018`
 `  at:06/26/2018`
 `  at:03/20/2019`
+`  at:12/30/2019`
 
 </timeline>
 
@@ -216,6 +219,15 @@ LineData =
 <td><p>《<strong>Wonderful love</strong>》</p>
 <ul>
 <li>發行日期：2017年4月26日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>Thumbs Up</strong>》</p>
+<ul>
+<li>發行日期：2019年12月30日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td></td>
@@ -292,7 +304,7 @@ LineData =
 </tbody>
 </table>
 
-### 日文專輯
+### 日語專輯
 
 <table>
 <thead>
@@ -305,7 +317,7 @@ LineData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>Chiri Chiri」（チリチリ）</strong>》</p>
+<td><p>《<strong>Chiri Chiri（チリチリ）</strong>》</p>
 <ul>
 <li>發行日期：2019年9月4日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
@@ -315,7 +327,7 @@ LineData =
 </tbody>
 </table>
 
-### 日文單曲
+### 日語單曲
 
 <table>
 <thead>
@@ -601,6 +613,9 @@ LineData =
 <td><p><a href="../Page/Show_Me_(MOMOLAND專輯).md" title="wikilink">Show Me</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>Thumbs Up</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「 (1) 」：兩星期冠軍</li>

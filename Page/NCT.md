@@ -179,7 +179,7 @@ Vision的中文音譯威神，即命名為威神V。</p></td>
 
 ### 成员变迁
 
-{{\#tag:timeline| ImageSize = width:1000 height:auto barincrement:24 PlotArea = left:50 bottom:75 top:10 right:10 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:04/09/2016 till:11/30/2019 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:3 ScaleMajor =increment:1 start:2017 ScaleMinor =unit:month increment:1 start:05/01/2016
+{{\#tag:timeline| ImageSize = width:1000 height:auto barincrement:24 PlotArea = left:50 bottom:75 top:10 right:10 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:04/09/2016 till:01/31/2020 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:3 ScaleMajor =increment:1 start:2017 ScaleMinor =unit:month increment:1 start:05/01/2016
 
 Colors =
 
@@ -417,6 +417,7 @@ BackgroundColors = bars:bars
   - 2017年：[We Young](https://zh.wikipedia.org/wiki/We_Young "wikilink")
   - 2018年：[We Go Up](../Page/We_Go_Up.md "wikilink")
   - 2019年：[We Boom](https://zh.wikipedia.org/wiki/We_Boom "wikilink")
+  - 2020年：The Dream（于日本发行）
 
 #### 單曲專輯
 
@@ -519,12 +520,13 @@ BackgroundColors = bars:bars
 | -------------- | ------------------------------- | ---------------------------------------------------- |
 | 2018年9月28－30日  | NCT DREAM SHOW                  | 韓國[首爾](../Page/首爾.md "wikilink")SMTOWN影院@COEX Artium |
 | 2018年12月1－5日   | NCT DREAM SHOW \#2              |                                                      |
-| 2019年11月15－17日 | NCT DREAM TOUR 「THE DREAM SHOW」 | 韓國首爾 獎忠體育館                                           |
-| 2019年12月1、2日   | 泰國曼谷IMPACT會展中心                  |                                                      |
+| 2019年11月15－17日 | NCT DREAM TOUR 「THE DREAM SHOW」 | 首爾獎忠體育館                                              |
+| 2019年12月1、2日   | 曼谷IMPACT會展中心                    |                                                      |
 | 2020年1月26日     | 東京國際論壇大樓A廳                      |                                                      |
 | 2020年1月27日     | 東京NHK HALL                      |                                                      |
 | 2020年2月2、3日    | 神戶國際會館                          |                                                      |
 | 2020年2月15日     | 新加坡星爍藝術表演中心                     |                                                      |
+| 2020年3月13－15日  | 東京武藏野之森綜合體育廣場                   |                                                      |
 |                |                                 |                                                      |
 
   - NCT 127
@@ -1108,7 +1110,7 @@ BackgroundColors = bars:bars
 <td><p>4月22日</p></td>
 <td><p><a href="../Page/香港亞洲流行音樂節.md" title="wikilink">香港亞洲流行音樂節</a>2019</p></td>
 <td><p><a href="../Page/香港會議展覽中心.md" title="wikilink">香港會議展覽中心</a></p></td>
-<td><p>NCT 127（缺昀昀）</p></td>
+<td><p>NCT 127（缺楷燦、昀昀）</p></td>
 <td></td>
 </tr>
 <tr class="even">

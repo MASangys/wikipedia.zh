@@ -5,7 +5,7 @@
 
 （）是[日本](../Page/日本.md "wikilink")经纪公司[星尘传播旗下年轻男性](https://zh.wikipedia.org/wiki/星尘传播 "wikilink")[艺人](../Page/艺人.md "wikilink")及[演员所组成的剧团及艺人集体](https://zh.wikipedia.org/wiki/演员 "wikilink")，该名字源自“惠比寿学园男子部”（）的缩写。
 
-此外，该名字也是成员出演[电视节目](../Page/电视节目.md "wikilink")的节目名，\[1\] 和发表他们情报[杂志](../Page/杂志.md "wikilink")的杂志名。
+此外，该名字也是成员出演[电视节目](../Page/电视节目.md "wikilink")的节目名，\[1\]和发表他们情报[杂志](../Page/杂志.md "wikilink")的杂志名。
 
 ## 团队简介
 

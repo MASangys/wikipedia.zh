@@ -5,13 +5,13 @@
 
 ## 早年生活及教育
 
-Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")，父亲名井陽（Akira Myoi\[3\]）是[大阪大學的](https://zh.wikipedia.org/wiki/大阪大學 "wikilink")[骨科](https://zh.wikipedia.org/wiki/骨科 "wikilink")[教授](../Page/教授.md "wikilink")\[4\]。母亲名為Sachiko Terao\[5\]。哥哥名井海比她大五歲\[6\]，曾在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[留學](https://zh.wikipedia.org/wiki/留學 "wikilink")\[7\]。
+Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[德克萨斯州](../Page/德克萨斯州.md "wikilink")[比爾縣](../Page/比爾縣_\(德克薩斯州\).md "wikilink")[聖安東尼奧](../Page/圣安东尼奥_\(得克萨斯州\).md "wikilink")，父亲名井陽（Akira Myoi\[3\]）是[大阪大學的](https://zh.wikipedia.org/wiki/大阪大學 "wikilink")[骨科](https://zh.wikipedia.org/wiki/骨科 "wikilink")[教授](../Page/教授.md "wikilink")\[4\]。母亲名為Sachiko Terao\[5\]。哥哥名井海比她大五歲\[6\]，曾在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[留學](../Page/留学.md "wikilink")\[7\]。
 
-根據和，Mina出生時即擁有[日本](../Page/日本.md "wikilink")和[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[雙重公民權](../Page/多重國籍.md "wikilink")。但是根據，她必須在22歲之前選擇一個國籍，否則她可能會失去日本國籍。2019年6月，她隨成員於[美國駐韓大使館](../Page/美國駐韓大使館.md "wikilink")辦理[簽證](https://zh.wikipedia.org/wiki/簽證 "wikilink")，間接證明Mina放棄美國國籍。
+根據和的规定，Mina出生時即擁有[日本](../Page/日本.md "wikilink")和[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[雙重公民權](../Page/多重國籍.md "wikilink")。但是根據，她必須在22歲之前選擇一個國籍，否則她可能會失去日本國籍。2019年6月，她隨成員於[美國駐韓大使館](../Page/美國駐韓大使館.md "wikilink")辦理[簽證](https://zh.wikipedia.org/wiki/簽證 "wikilink")，間接證明Mina放棄美國國籍。
 
 一歲時，父親讀醫學成在[大阪大學擔任](../Page/大阪大学.md "wikilink")[骨科教授而舉家](https://zh.wikipedia.org/wiki/骨科 "wikilink")[回流](https://zh.wikipedia.org/wiki/回流_\(人口\) "wikilink")[日本](../Page/日本.md "wikilink")並居住於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[西宮市](../Page/西宮市.md "wikilink")。
 
-中學時期，Mina開始接觸[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")，最初接觸的是[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《[Genie](https://zh.wikipedia.org/wiki/Genie_\(单曲\) "wikilink")》，曾與朋友一起學習[少女時代的舞蹈](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。在加入Urizip舞蹈學校進行更多現代舞蹈訓練之前\[8\]，曾學習了11年的[芭蕾](https://zh.wikipedia.org/wiki/芭蕾 "wikilink")\[9\]
+中學時期，Mina開始接觸[韓國流行音樂](../Page/韓國流行音樂.md "wikilink")，最初接觸的是[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《[Genie](../Page/Genie_\(單曲\).md "wikilink")》，曾與朋友一起學習[少女時代的舞蹈](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。在加入Urizip舞蹈學校進行更多現代舞蹈訓練之前\[8\]，曾學習了11年的[芭蕾](https://zh.wikipedia.org/wiki/芭蕾 "wikilink")\[9\]
 
 2013年，於[JYP娛樂](../Page/JYP娛樂.md "wikilink")全球試鏡的最後一天，Mina在[日本](../Page/日本.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[梅田](../Page/梅田.md "wikilink")与母亲[購物](../Page/購物.md "wikilink")時\[10\]，被[JYP娛樂](../Page/JYP娛樂.md "wikilink")的[星探](../Page/星探.md "wikilink")發掘。但父母親因她未完成高中學業而反對她前往[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")，在畢業後，Mina前往[韓國成為](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下的[練習生](https://zh.wikipedia.org/wiki/練習生 "wikilink")\[11\]。
 
@@ -31,8 +31,6 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 
 2017年，TWICE参加了第十一屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》。Mina與[多賢](../Page/多賢.md "wikilink")代表「跑到最後隊」的成员。第十二屆，Mina參加第一屆[韻律體操](../Page/艺术体操.md "wikilink")（圈操），因正式比賽時失誤而屈居第六名，獲得分數為9.8分。后因準備第十三屆錄影和第二屆女子韻律體操，Mina沒有回日本參加[成年禮](https://zh.wikipedia.org/wiki/成年禮 "wikilink")，在第二屆女子韻律體操（球操）上以12.25分（難度分4.05，實施分8.20，扣分0.00）的成绩與[FIESTAR](../Page/FIESTAR.md "wikilink")[曹璐](../Page/曹璐.md "wikilink")並列金牌。此後雙方都沒有再參加比賽。
 
-2016年8月，Mina為[Momo在](../Page/Momo_\(TWICE\).md "wikilink")《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》比賽提供支援。
-
 2019年7月11日，TWICE所屬公司[JYP發布公告](https://zh.wikipedia.org/wiki/JYP "wikilink")：Mina因對站在舞台上感到突然的極度緊張與不安，經本人與成員的充分商議，認為目前Mina的健康狀況需要進一步治療，因此Mina將不參與接下來的世界巡迴演唱會TWICE WORLD TOUR 2019：TWICELIGHTS。8月27日，JYP娛樂透露：Mina被確診為[焦慮症](../Page/焦虑症.md "wikilink")，將不會與其他團員宣傳新專輯，但已為新專輯錄音和拍攝主打歌MV。\[16\]
 
 2019年10月20日，即隊伍出道四週年，她以《Feel Special》打歌服出席四週年紀念暨萬聖節粉絲見面會，事隔三個月出現在公共場合。三天後，以特別表演嘉賓形式，代替身體抱恙，但有隨團出國的[彩瑛](../Page/彩瑛.md "wikilink")，參加TWICE WORLD TOUR 2019：TWICELIGHTS [北海道](../Page/北海道.md "wikilink")[札幌站演唱會](../Page/札幌市.md "wikilink")。10月27日，Twice 以完全體在其[千葉市](../Page/千葉市.md "wikilink")站表演。10月29日不回韓，為《MCountdown》作事前錄製。
@@ -40,6 +38,8 @@ Mina於1997年3月24日出生於[美國](https://zh.wikipedia.org/wiki/美國 "w
 ## 個人生活
 
 2017年12月27日，即TWICE出道第800天，Mina在TWICE的官方instagram帳號透露已經在十天前於韓國註冊成為器官捐贈者，她於2013年就已在日本登記。\[17\]
+
+  - 2019年MINA獲得百大美女（TC candller）第91名
 
 ## 音樂作品
 

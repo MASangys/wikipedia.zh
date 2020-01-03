@@ -23,17 +23,6 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2012年</p></td>
-<td><p>Jeff Bernat</p></td>
-<td><p>男</p></td>
-<td><p>—</p></td>
-<td><p>活動中</p></td>
-<td><p>—</p></td>
-<td><p>2012年</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>2007年（<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）<br />
 2016年（Solo）</p></td>
 <td><p><a href="../Page/Jessica_(韓國歌手).md" title="wikilink">Jessica</a></p></td>
@@ -46,7 +35,7 @@
 </p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2017年</p></td>
 <td><p>馬恩珍</p></td>
 <td><p><a href="../Page/PLAYBACK.md" title="wikilink">PLAYBACK</a></p></td>

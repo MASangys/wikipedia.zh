@@ -238,6 +238,14 @@
 <td><p>SRCL-11159</p></td>
 <td><p>SRCL-11160/1</p></td>
 </tr>
+<tr class="even">
+<td><p>15th</p></td>
+<td><p>2019年9月25日</p></td>
+<td><p>ECHO</p></td>
+<td><p>SRCL-11290/1</p></td>
+<td><p>SRCL-11292/3</p></td>
+<td><p>SRCL-11294</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -280,4 +288,4 @@
       -
       -
       -
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:渡邊製作事務所藝人](https://zh.wikipedia.org/wiki/Category:渡邊製作事務所藝人 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")

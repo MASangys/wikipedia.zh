@@ -67,7 +67,7 @@
 
 ## 外部連結
 
-  - [Mnet官方網頁](http://www.mnet.com/tv/program/1652)
+  - [Mnet官方網頁](https://web.archive.org/web/20170407143233/http://www.mnet.com/tv/program/1652)
 
 [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 

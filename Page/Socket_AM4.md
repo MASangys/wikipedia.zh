@@ -3,7 +3,7 @@
 
 **Socket AM4**是[超微半導體公司開發的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[中央處理器插座](../Page/CPU插座.md "wikilink")，用於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen處理器以及ARM公司授權AMD開發的](../Page/AMD_Ryzen.md "wikilink")[ARM架構處理器上](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[1\]\[2\]
 
-在此之前AMD在消費級市場的劃分中，高性能[台式机採用的是](https://zh.wikipedia.org/wiki/台式机 "wikilink")[Socket AM3+](../Page/Socket_AM3+.md "wikilink")，主流性能桌上型電腦採用的是[Socket FM2+](../Page/Socket_FM2+.md "wikilink")，入門級台式机則是另立[Socket AM1](../Page/Socket_AM1.md "wikilink")，如此多的連接器規格令成本增加，並且用户的選擇范围變得狹窄，因此AMD使用Socket AM4的目的便是將目前繁多的處理器連接器規格統一起來。\[3\]\[4\] 2015年6月，AMD的技術發展規劃將原定主流性能台式机使用的FM3也更換為AM4。\[5\]行動平台則是改成了使用[Socket FP4介面](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")，伺服器/工作站採用的是高規格的[Socket SP3](../Page/Socket_SP3.md "wikilink")，並衍生有Ryzen ThreadRipper系列使用的[Socket TR4](../Page/Socket_TR4.md "wikilink")。
+在此之前AMD在消費級市場的劃分中，高性能[台式机採用的是](https://zh.wikipedia.org/wiki/台式机 "wikilink")[Socket AM3+](../Page/Socket_AM3+.md "wikilink")，主流性能桌上型電腦採用的是[Socket FM2+](../Page/Socket_FM2+.md "wikilink")，入門級台式机則是另立[Socket AM1](../Page/Socket_AM1.md "wikilink")，如此多的連接器規格令成本增加，並且用户的選擇范围變得狹窄，因此AMD使用Socket AM4的目的便是將目前繁多的處理器連接器規格統一起來。\[3\]\[4\] 2015年6月，AMD的技術發展規劃將原定主流性能台式机使用的FM3也更換為AM4。\[5\]行動平台則是改成了使用[Socket FP4介面](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")，伺服器/工作站採用的是高規格的[Socket SP3](../Page/Socket_SP3.md "wikilink")，並衍生有Ryzen ThreadRipper系列使用的[Socket TR4](../Page/Socket_TR4.md "wikilink")、[Socket sTRX4](https://zh.wikipedia.org/wiki/Socket_sTRX4 "wikilink")。
 
 ## 技術特性
 
@@ -17,7 +17,7 @@ Socket AM4處理器均內建的[PCIe控制器](https://zh.wikipedia.org/wiki/PCI
 
 ### 晶片組
 
-首個使用Socket AM4的[FCH晶片組是B](https://zh.wikipedia.org/wiki/AMD_FCH "wikilink")350、A320，用於核心代號為「Bristol Ridge」的AMD加速處理器。這些[晶片組支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[USB 3.1](../Page/USB_3.1.md "wikilink")、[SATA](../Page/SATA.md "wikilink")、[NVMe等功能](https://zh.wikipedia.org/wiki/NVMe "wikilink")。AMD Ryzen發表時還有性能級型號X370發表，\[18\]\[19\]\[20\]\[21\]這些晶片組是AMD委託台灣祥碩科技設計而來。\[22\]主機板尺寸除了[ATX](../Page/ATX規格.md "wikilink")、[M-ATX以外](../Page/MicroATX.md "wikilink")，還有以往極其罕見的基於AMD旗艦CPU系統平台的[ITX尺寸的導入使用](../Page/Mini-ITX.md "wikilink")。\[23\]
+首個使用Socket AM4的[FCH晶片組是B](https://zh.wikipedia.org/wiki/AMD_FCH "wikilink")350、A320，用於核心代號為「Bristol Ridge」的AMD加速處理器。這些[晶片組支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[USB 3.1](../Page/USB_3.1.md "wikilink")、[SATA](../Page/SATA.md "wikilink")、[NVMe等功能](https://zh.wikipedia.org/wiki/NVMe "wikilink")。AMD Ryzen發表時還有性能級型號X370發表，\[18\]\[19\]\[20\]\[21\]這些晶片組是AMD委託台灣祥碩科技設計而來。\[22\]主機板尺寸除了[ATX](../Page/ATX規格.md "wikilink")、[M-ATX以外](../Page/MicroATX.md "wikilink")，還有[ITX尺寸的導入使用](../Page/Mini-ITX.md "wikilink")。\[23\]
 
 ### 微處理器
 

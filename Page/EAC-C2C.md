@@ -12,7 +12,7 @@
   - [新加坡](../Page/新加坡.md "wikilink")[樟宜](../Page/樟宜.md "wikilink")（1）
   - [香港](../Page/香港.md "wikilink")[将军澳](https://zh.wikipedia.org/wiki/将军澳 "wikilink")（2）
   - [中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[青岛](https://zh.wikipedia.org/wiki/青岛 "wikilink")（后期加建）（3）
-  - [台灣](../Page/中華民國.md "wikilink")[八里区](https://zh.wikipedia.org/wiki/八里區 "wikilink")（4）
+  - [台灣](../Page/中華民國.md "wikilink")[八里区](../Page/八里區.md "wikilink")（4）
   - [菲律宾Capepisa](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")（5）
   - [南韩](https://zh.wikipedia.org/wiki/南韩 "wikilink")[泰安郡](../Page/泰安郡.md "wikilink")（6）
   - [日本](../Page/日本.md "wikilink")

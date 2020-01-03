@@ -300,7 +300,7 @@ local list = {
 `   { 'Lkopeter', 2 },`
 `   { 'LN9267', 2 },`
 `   { 'Loldoubao', 54 },`
-`   { 'Lopullinen', 4 },`
+`   { 'Lopullinen', 8 },`
 `   { 'Love9337120', 3 },`
 `   { 'Loveyouchun', 16 },`
 `   { 'LPH', 3 },`

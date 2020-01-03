@@ -76,10 +76,10 @@ Galaxy Note 5 的各國版本於2016年11月開始，可更新系統介面至[To
 <td><p>前置摄像镜头</p></td>
 <td><p>3.7MP CMOS<br />
 （具有广角自拍）<br />
-支持4K视频录制</p></td>
+支持2K视频录制</p></td>
 <td><p>5.0MP CMOS<br />
 （具有广角自拍）<br />
-支持4K视频录制<br />
+支持2K视频录制<br />
 </p></td>
 </tr>
 <tr class="odd">

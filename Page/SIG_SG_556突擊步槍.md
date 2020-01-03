@@ -212,7 +212,7 @@ SIG SG 556還推出了多個裝有折疊式槍托的型號以及整合了皮卡�
       - 2012年4月下號：[轻武器新品观览](http://www.xzbu.com/8/view-1704005.htm)（SIG556 SBR）
       - 2012年11月下號：[欧洲展会轻武器浏览（上）](https://web.archive.org/web/20141211022646/http://gdwap.dooland.com/article.php?id=246423)（SIG556 7.62×39mm）
       - 2014年5月下號：2014西格-绍尔公司新品赏析（P556 SBR系列、P556xi碳型）
-      - 2015年7月下號：[西格―绍尔公司2015新品汇](http://www.xzbu.com/8/view-6895457.htm)（SIG556xi俄罗斯SBR）
+      - 2015年7月下號：[西格―绍尔公司2015新品汇](https://web.archive.org/web/20160304124041/http://www.xzbu.com/8/view-6895457.htm)（SIG556xi俄罗斯SBR）
 
 ## 外部連結
 

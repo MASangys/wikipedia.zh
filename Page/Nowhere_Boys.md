@@ -138,6 +138,15 @@ Nowhere Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia
   - (\*)-表示歌曲仍在該榜上
   - (×)-表示歌曲沒有派往該台
 
+## 獎項
+
+### 2019年
+
+  - [新城勁爆頒獎禮2019](../Page/2019年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆合唱歌曲《時光歲月》
+  - [新城勁爆頒獎禮2019](../Page/2019年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆填詞《致旅途中的我》
+  - [2019年度叱咤樂壇流行榜頒獎典禮](../Page/2019年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 專業推介叱咤十大 第三位《致旅途中的我》
+  - [2019年度叱咤樂壇流行榜頒獎典禮](../Page/2019年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇組合 銀獎
+
 ## 参考资料
 
 [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:香港音乐团体](https://zh.wikipedia.org/wiki/Category:香港音乐团体 "wikilink")

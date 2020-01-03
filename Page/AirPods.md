@@ -5,7 +5,7 @@
 
 2019年3月20日发布第二代AirPods，第二代产品外觀大致與第一代相同，但晶片改用H1晶片以支援[蓝牙](https://zh.wikipedia.org/wiki/蓝牙 "wikilink") 5.0\[1\]、改善無線連接速度、降低音訊延遲\[2\]，並可選配無線充電盒，但第二代产品需要设备运行 [iOS 12.2](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")、[watchOS 5.2](https://zh.wikipedia.org/wiki/watchOS "wikilink") 或 [macOS 10.14.4](https://zh.wikipedia.org/wiki/macOS_Mojave "wikilink") 以上版本。
 
-2019年10月30日，苹果AirPods Pro正式發售，這是第三代AirPods\[3\]。
+2019年10月30日，苹果[AirPods Pro正式發售](../Page/AirPods_Pro.md "wikilink")，這是第三代AirPods\[3\]。
 
 ## 簡介
 
@@ -66,7 +66,7 @@ AirPods包含可升級的韌體。其原始韌體是3.3.1。蘋果在2017年2月
 ## 外部連結
 
   - [AirPods - Apple](http://www.apple.com/airpods/)
-  - [AirPods - Apple (臺灣)](http://www.apple.com/tw/airpods/)
+  - 😐[AirPods - Apple (臺灣)](http://www.apple.com/tw/airpods/)
   - [AirPods - Apple (中國)](http://www.apple.com/cn/airpods/)
       - [AirPods - Apple (香港)](http://www.apple.com/hk/airpods/)
   - [AirPods没你想象的神奇 还是用的蓝牙连接_科技_腾讯网](http://tech.qq.com/a/20160908/053798.htm)

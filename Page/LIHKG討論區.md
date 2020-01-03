@@ -64,6 +64,7 @@ LIHKG討論區的開設被視為[高登討論區](../Page/高登討論區.md "wi
   - [高登討論區](../Page/高登討論區.md "wikilink")
   - [膠登討論區](../Page/香港膠登討論區.md "wikilink")
   - [林祖舜](../Page/林祖舜.md "wikilink")
+  - [品蔥](https://zh.wikipedia.org/wiki/品蔥 "wikilink")
 
 ## 參考
 

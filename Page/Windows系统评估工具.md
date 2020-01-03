@@ -67,8 +67,8 @@ WinSAT在[笔记本电脑使用电池供电时不会运行上述测试](https://
 6.
 7.
 8.
-9.  [Winsat Command-Line Utility](http://windowsitpro.com/systems-management/winsat-command-line-utility)
-10. [How can I run the Windows System Assessment Tool (WinSAT) update directly from a command line?](http://windowsitpro.com/systems-management/how-can-i-run-windows-system-assessment-tool-winsat-update-directly-command-line)
+9.
+10.
 11. [Stupid Geek Tricks: Hacking the Windows Experience Index](http://www.howtogeek.com/71500/stupid-geek-tricks-hacking-the-windows-experience-index/)
 12.
 13.

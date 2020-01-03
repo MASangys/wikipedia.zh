@@ -188,7 +188,7 @@
 
 ## 上映
 
-《[杀破狼](https://zh.wikipedia.org/wiki/杀破狼 "wikilink")》因暴力元素曾无缘中国大陆电影市场。
+《[杀破狼](https://zh.wikipedia.org/wiki/殺破狼_\(電影\) "wikilink")》因暴力元素曾无缘中国大陆电影市场。
 
 《杀破狼II》于2015年6月18日在[中国大陆](../Page/中国大陆.md "wikilink")、[香港](../Page/香港.md "wikilink")、[台灣上映](https://zh.wikipedia.org/wiki/台灣 "wikilink")，6月25日在[马来西亚](../Page/马来西亚.md "wikilink")、[汶莱上映](https://zh.wikipedia.org/wiki/汶莱 "wikilink")，7月2日在[新加坡](../Page/新加坡.md "wikilink")上映。
 

@@ -5,7 +5,7 @@
 
 Mirai的[源代码](../Page/源代码.md "wikilink")已经以[开源的形式发布至黑客论坛](../Page/开源软件.md "wikilink")\[9\]，其中的技术也已被其他一些恶意软件采用\[10\]。
 
-根据一份泄露的软件作者之聊天记录，Mirai一名来自漫画改编的2011年[日本动画](../Page/日本动画.md "wikilink")《[未来日记](https://zh.wikipedia.org/wiki/未来日记 "wikilink")》\[11\]；作者所用网名（意为“安娜前辈”）则可能与日本輕小說《[-{zh-hant:下流梗不存在的灰暗世界;zh-cn:没有黄段子的无聊世界;}-](../Page/下流梗不存在的灰暗世界.md "wikilink")》中的角色——[安娜·锦之宫有关](https://zh.wikipedia.org/wiki/下流梗不存在的灰暗世界#其他學生 "wikilink")。\[12\]\[13\]
+根据一份泄露的软件作者之聊天记录，Mirai一名来自漫画改编的2011年[日本动画](../Page/日本动画.md "wikilink")《[未来日记](https://zh.wikipedia.org/wiki/未来日记 "wikilink")》\[11\]；作者所用网名Anna-senpai（意为“安娜前辈”）则可能与日本輕小說《[-{zh-hant:下流梗不存在的灰暗世界;zh-cn:没有黄段子的无聊世界;}-](../Page/下流梗不存在的灰暗世界.md "wikilink")》中的角色——[安娜·锦之宫有关](https://zh.wikipedia.org/wiki/下流梗不存在的灰暗世界#其他學生 "wikilink")。\[12\]\[13\]
 
 ## 行为
 

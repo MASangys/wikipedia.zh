@@ -1152,12 +1152,20 @@ Psycho Pass 2</a></p></td>
 <tr class="odd">
 <td></td>
 <td><p>第3輯#6-29</p></td>
-<td><p>24 &lt;!--|- bgcolor="beige"</p></td>
+<td><p>24</p></td>
 <td></td>
-<td><p>第4輯</p></td>
-<td><p>50--&gt;</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>第4輯</p></td>
+<td><p>50 &lt;!--|- bgcolor="beige"</p></td>
+<td><p>未定</p></td>
+<td><p>第4輯#？-50 |--&gt;</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>註釋：</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -1166,7 +1174,7 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1228,8 +1236,8 @@ Psycho Pass 2</a></p></td>
 <td></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
-<td><p>第1季</p></td>
-<td><p>150</p></td>
+<td><p>#1-80</p></td>
+<td><p>80</p></td>
 <td><p>每次播放兩集</p></td>
 </tr>
 <tr class="odd">
@@ -1265,14 +1273,6 @@ Psycho Pass 2</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/溫泉屋小女將.md" title="wikilink">溫泉屋小女將</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
@@ -1280,21 +1280,13 @@ Psycho Pass 2</a></p></td>
 <td><p>24</p></td>
 <td><p>每次播放兩集</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits" title="wikilink">Battle Spirits－最強銀河究極Zero</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
 <td></td>
 <td><p>49</p></td>
 <td><p><a href="../Page/Battle_Spirits.md" title="wikilink">Battle Spirits系列第</a>6輯</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1307,6 +1299,56 @@ Psycho Pass 2</a></p></td>
 <tr class="even">
 <td><p><strong>註釋：</strong></p>
 <references group="註" /></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:15%;">
+<colgroup>
+<col style="width: 2%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
+<col style="width: 2%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>節目名稱</p></th>
+<th><p>頻道</p></th>
+<th><p>首播日期</p></th>
+<th><p>輯數／季數</p></th>
+<th><p>集數</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/雷頓的神秘之旅_卡翠愛兒與大富翁的陰謀.md" title="wikilink">雷頓 不可思議偵探社<br />
+～卡特莉的解謎事件簿～</a>（暫名）</p></td>
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
+<td></td>
+<td></td>
+<td><p>50</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>註釋：</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1555,34 +1597,41 @@ Psycho Pass 2</a></p></td>
 <td><p>劇場版26</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/名偵探柯南：零的執行人.md" title="wikilink">名偵探柯南劇場版：零的執行人</a></p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 <td></td>
 <td><p>2018</p></td>
 <td><p>劇場版22</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/机动战士GUNDAM_NT.md" title="wikilink">機動戰士高達NT</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
 <td></td>
 <td><p>2018</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蠟筆小新：新婚旅行風暴〜奪回廣志大作戰〜.md" title="wikilink">蠟筆小新劇場版：蜜月風暴～拯救老豆大作戰</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
 <td></td>
 <td><p>2019</p></td>
 <td><p>劇場版27</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/NO_GAME_NO_LIFE_遊戲人生.md" title="wikilink">遊戲人生ZERO</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now爆谷台" title="wikilink">now爆谷台</a></p></td>
 <td></td>
 <td><p>2017</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

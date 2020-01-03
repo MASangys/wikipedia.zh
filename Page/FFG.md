@@ -1,7 +1,7 @@
 > 本文内容由[FFG](https://zh.wikipedia.org/wiki/FFG)转换而来。
 
 
-**FFG**（全名：Fight Factory Gym，又名：FFG武術健身中心），是香港的一間已結業的健身中心，由[杜恆霖創辦](https://zh.wikipedia.org/wiki/杜恆霖 "wikilink")，曾經設有[中環](../Page/中環.md "wikilink")[域多利皇后街](../Page/域多利皇后街.md "wikilink")、[銅鑼灣](../Page/銅鑼灣.md "wikilink")\[1\]、中環[利源東街](../Page/利源東街.md "wikilink")、[旺角](../Page/旺角.md "wikilink")及[荃灣](../Page/荃灣.md "wikilink")會所，全盛時期曾設5間分店\[2\]\[3\]。
+**FFG**（全名：Fight Factory Gym，又名：FFG武術健身中心），是香港的一間已結業的健身中心，由[杜恆霖創辦](https://zh.wikipedia.org/wiki/杜恆霖 "wikilink")，曾經設有[中環](../Page/中環.md "wikilink")[域多利皇后街](../Page/域多利皇后街.md "wikilink")、[銅鑼灣](../Page/銅鑼灣.md "wikilink")\[1\]、中環[利源東街](../Page/利源東街.md "wikilink")、[旺角](../Page/旺角.md "wikilink")及[荃灣](../Page/荃灣.md "wikilink")5間分店\[2\]\[3\]。
 
 FFG的銷售手法多次惹起關注，屢次以不良銷售手法游說客人簽下鉅額課程合約，而FFG往往不願承認責任\[4\]。在2016年4月，FFG被揭發教唆一名輕度智障男子借貸以簽下5份合共逾25.3萬元的課程合約，貸款金額料逾100萬元，受害人報警及向[香港消委會投訴](https://zh.wikipedia.org/wiki/香港消委會 "wikilink")，但拳館只願退款7萬元，事件在社會上引發廣泛討論。\[5\]
 

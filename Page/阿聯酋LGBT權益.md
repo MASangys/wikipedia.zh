@@ -44,6 +44,7 @@
 | 同性性行為合法                                                     | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")（罰則：驅逐出境、化學閹割、罰款、死刑或監禁） |
 | 平等的最低合法性交年齡                                                 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
 | 職場上的反歧視法律                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
+| 穿着[異性服裝合法性](../Page/變裝.md "wikilink")                       | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
 | 在提供商品及服務的反歧視法                                               | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
 | 其他全部領域的反歧視法（包括但不限於間接歧視、仇恨言論）                                | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |
 | 同性婚姻                                                        | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                        |

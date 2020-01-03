@@ -670,7 +670,7 @@
 <td><p>14</p></td>
 <td><p>飲食/真人秀</p></td>
 <td><p><a href="../Page/Come_On_Baby.md" title="wikilink">Come On Baby</a></p></td>
-<td><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、<br />
+<td><p>主持：<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、、<a href="../Page/鍾健威.md" title="wikilink">鍾健威</a><br />
 旁白：</p></td>
 <td></td>
 <td><p>原名《煮俾BB食》</p></td>
@@ -3832,7 +3832,7 @@
 <td><p>9月15日</p></td>
 <td></td>
 <td><p>文化</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藝術團睇" title="wikilink">藝術團睇</a></p></td>
+<td></td>
 <td><p>主持：、、</p></td>
 <td></td>
 <td></td>
@@ -3850,7 +3850,7 @@
 <td><p>9月29日</p></td>
 <td></td>
 <td><p>兒童</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小記者大人物" title="wikilink">小記者大人物</a></p></td>
+<td></td>
 <td><p>主持：</p></td>
 <td></td>
 <td></td>
@@ -3895,7 +3895,7 @@
 <td><p>10月27日</p></td>
 <td></td>
 <td><p>文化</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老點你" title="wikilink">老點你</a></p></td>
+<td></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/陳潔珍" title="wikilink">陳潔珍</a>、<a href="https://zh.wikipedia.org/wiki/葉惠而" title="wikilink">葉惠而</a>、<a href="https://zh.wikipedia.org/wiki/李錦成" title="wikilink">李錦成</a>、<a href="https://zh.wikipedia.org/wiki/連瑞庭" title="wikilink">連瑞庭</a>、<a href="https://zh.wikipedia.org/wiki/羅金成" title="wikilink">羅金成</a></p></td>
 <td></td>
 <td></td>
@@ -3913,7 +3913,7 @@
 <td><p>10月27日</p></td>
 <td></td>
 <td><p>真人秀</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/職時交換" title="wikilink">職時交換</a></p></td>
+<td></td>
 <td><p>主持：</p></td>
 <td></td>
 <td></td>
@@ -3931,7 +3931,7 @@
 <td><p>11月3日</p></td>
 <td></td>
 <td><p>文化</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/設計香港" title="wikilink">設計香港</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3958,7 +3958,7 @@
 <td><p>11月30日</p></td>
 <td><p>2</p></td>
 <td><p>飲食</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰食力" title="wikilink">泰食力</a></p></td>
+<td></td>
 <td><p>主持：</p></td>
 <td></td>
 <td></td>
@@ -3985,7 +3985,7 @@
 <td><p>12月9日</p></td>
 <td><p>15</p></td>
 <td><p>旅遊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C9_旅行團" title="wikilink">C9 旅行團</a></p></td>
+<td></td>
 <td><p>主持：<a href="../Page/麥長青.md" title="wikilink">麥長青</a>、<a href="../Page/金剛_(藝人).md" title="wikilink">金剛</a>、<br />
 旁白：<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a></p></td>
 <td></td>
@@ -4011,7 +4011,7 @@
 </tr>
 <tr class="even">
 <td><p>12月30日</p></td>
-<td></td>
+<td><p>14</p></td>
 <td><p>真人騷/旅遊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港親善小姐" title="wikilink">香港親善小姐</a></p></td>
 <td><p>主持：<a href="../Page/楊思琦.md" title="wikilink">楊思琦</a>、<a href="../Page/向海嵐.md" title="wikilink">向海嵐</a>、<a href="../Page/譚小環.md" title="wikilink">譚小環</a>、<a href="https://zh.wikipedia.org/wiki/李綺虹" title="wikilink">李綺虹</a></p></td>
@@ -4020,7 +4020,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月30日</p></td>
-<td></td>
+<td><p>15</p></td>
 <td><p>真人騷/旅遊</p></td>
 <td></td>
 <td><p>主持：<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<a href="../Page/葉蘊儀.md" title="wikilink">葉蘊儀</a>、、<a href="../Page/趙頌茹.md" title="wikilink">趙頌茹</a></p></td>
@@ -4028,6 +4028,17 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>12月31日</p></td>
+<td><p>1<br />
+(15)</p></td>
+<td><p>歌唱比賽</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2019中國好聲音" title="wikilink">2019中國好聲音</a></p></td>
+<td><p>主持：<a href="https://zh.wikipedia.org/wiki/胡喬華" title="wikilink">華少</a>、<a href="../Page/伊一.md" title="wikilink">伊一</a><br />
+評委：<a href="../Page/王力宏.md" title="wikilink">王力宏</a>、<a href="../Page/那英.md" title="wikilink">那英</a>、<a href="../Page/庾澄慶.md" title="wikilink">庾澄慶</a>、<a href="../Page/李榮浩.md" title="wikilink">李榮浩</a></p></td>
+<td></td>
+<td><p>不設粵語配音</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

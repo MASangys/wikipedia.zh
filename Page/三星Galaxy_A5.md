@@ -14,8 +14,8 @@
   - 電池：2300 mAh
   - 屏幕尺寸：5英寸
   - 分辨率：1280 x720像素（HD），294 PPI
-  - 操作系統：Android4.4.4（已升級至Android5.0.2)台灣已無緣升級Android6.0
-  - 重量：123克
+  - 操作系統：Android4.4.4（已升級至Android6.0）.
+  - 重量：123克.
   - 尺寸：139 x70 x6.7 毫米
   - Super AMOLED 顯示屏
   - Gorilla 玻璃
