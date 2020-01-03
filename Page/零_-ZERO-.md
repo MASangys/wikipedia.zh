@@ -41,7 +41,7 @@
 </tbody>
 </table>
 
-[分類:2018年單曲](https://zh.wikipedia.org/wiki/分類:2018年單曲 "wikilink") [分類:動畫電影主題曲](https://zh.wikipedia.org/wiki/分類:動畫電影主題曲 "wikilink") [分類:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/分類:名偵探柯南歌曲 "wikilink")
+[分類:2018年單曲](https://zh.wikipedia.org/wiki/分類:2018年單曲 "wikilink") [分類:動畫電影主題曲](https://zh.wikipedia.org/wiki/分類:動畫電影主題曲 "wikilink") [分類:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/分類:名偵探柯南歌曲 "wikilink") [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.
 2.

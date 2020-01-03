@@ -1,3 +1,6 @@
+> 本文内容由[Armillaria luteobubalina](https://zh.wikipedia.org/wiki/Armillaria_luteobubalina)转换而来。
+
+
 ***Armillaria luteobubalina***（）是[蜜環菌屬的一種](https://zh.wikipedia.org/wiki/蜜環菌屬 "wikilink")[蕈類](../Page/蕈類.md "wikilink")，廣泛分佈於[澳大利亚](../Page/澳大利亚.md "wikilink")南部，亦有[阿根廷](../Page/阿根廷.md "wikilink")與[智利](../Page/智利.md "wikilink")的標本經序列分析後被認為可能屬於本種\[1\]，此[分佈範圍顯示本種是一種相當古老的物種](https://zh.wikipedia.org/wiki/生物地理學 "wikilink")，可能在[岡瓦那大陸分裂以前就已出現](https://zh.wikipedia.org/wiki/岡瓦那大陸 "wikilink")。本種真菌是重要的[植物病原菌](../Page/植物病理學.md "wikilink")，可以感染[桉樹而導致](https://zh.wikipedia.org/wiki/桉樹 "wikilink")[根腐病](../Page/根腐病.md "wikilink")，最終造成，是澳洲的六種蜜環菌屬真菌中分布最廣、致病性最高者。本種的[子實體多在秋季](../Page/子實體_\(真菌\).md "wikilink")（3-4月）出現於受其感染的樹木的基部或其他木質部位，[蕈傘為奶油色至棕黃色](https://zh.wikipedia.org/wiki/蕈傘 "wikilink")，直徑約10公分，[菌柄可高達](https://zh.wikipedia.org/wiki/菌柄 "wikilink")20公分、粗1.5公分，子實體[可食](../Page/食用蕈.md "wikilink")，但需先煮熟以消除苦味。
 
 本種最早發現在澳大利亚東南部的[桉樹](https://zh.wikipedia.org/wiki/桉樹 "wikilink")[種植園中](https://zh.wikipedia.org/wiki/種植園 "wikilink")，並於1978年被描述發表。被其感染的樹木可能經過多年才會出現明顯症狀，造成人們對此疫病盛行狀況的低估，有研究顯示本種真菌在桉樹林中的傳播，可能與樹木被後留下的殘幹（stump）有關。本種造成的感染至今仍無有效方法防治。[分子系統發生學的研究顯示蜜環菌屬中](https://zh.wikipedia.org/wiki/分子系統發生學 "wikilink")，本種與*A. montagnei*的親緣關係最近，而兩者與分布於[巴西](../Page/巴西.md "wikilink")的*A. paulensis*關係亦相當接近。
@@ -48,7 +51,7 @@
 
 ### 控制
 
-控制本種真菌感染的傳統方法包括完整移除被感染的樹木\[59\]，煙燻感染樹木周圍的土壤，或直接向被感染的樹木注射揮發性的燻蒸劑\[60\]，但這些方法的成效不彰，且產生的有毒物質可能影響其他生物，並對施用者有害\[61\]\[62\]。新型的[生物防治](../Page/生物防治.md "wikilink")方法亦是可以考慮的手段，有多篇研究顯示同時在一株桉樹殘幹上接種本種真菌與[雲芝](../Page/雲芝.md "wikilink")、或等其他種，均可減緩本種感染的情況\[63\]\[64\]。
+控制本種真菌感染的傳統方法包括完整移除被感染的樹木\[59\]，煙燻感染樹木周圍的土壤，或直接向被感染的樹木注射揮發性的燻蒸劑\[60\]，但這些方法的成效不彰，且產生的有毒物質可能影響其他生物，並對施用者有害\[61\]\[62\]。新型的[生物防治](../Page/生物防治.md "wikilink")方法亦是可以考慮的手段，有多篇研究顯示同時在一株桉樹殘幹上接種本種真菌與[雲芝](../Page/雲芝.md "wikilink")、或等其他種[木材腐朽菌](../Page/木材腐朽菌.md "wikilink")，均可減緩本種感染的情況\[63\]\[64\]。
 
 ## 註釋
 

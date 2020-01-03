@@ -3,11 +3,11 @@
 
 是由[光榮特庫摩的ω](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")-force開發發行的[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，是[无双大蛇系列的第](../Page/無雙OROCHI系列.md "wikilink")5部作品。遊戲的[PlayStation 4及](../Page/PlayStation_4.md "wikilink")[Nintendo Switch版於](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2018年9月27日正式發行，而[Microsoft Windows及](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Xbox One則於](../Page/Xbox_One.md "wikilink")2018年10月16日發行\[1\]\[2\]\[3\]。
 
-在2019年12月19日會發行加强版無雙OROCHI 蛇魔 3 ultimate，首登陸在switch和ps4，pc版本發行在2020年2月14日。
+在2019年12月19日於日本發行加强版《無雙OROCHI 蛇魔 3 ultimate》，首登陸在switch和PS4，PC版本發行在2020年2月14日。
 
 ## 登场人物
 
-本作中登场的人物包括《[真·三国无双7：帝国](../Page/真·三國無雙7.md "wikilink")》出现的83名角色和《[战国无双4-II](../Page/戰國無雙4.md "wikilink")》中的56名角色，以及无双大蛇系列自[2代以来独有的](../Page/無雙OROCHI_2.md "wikilink")25名角色和本作新加入的神话角色宙斯、雅典娜、珀尔修斯、阿瑞斯、洛基（游戏中为珀尔修斯的真面目）和奥丁。\[4\]\[5\]但是由于种种原因，《[真·三国无双8](../Page/真·三國無雙8.md "wikilink")》和《[战国无双 真田丸](../Page/战国无双_真田丸.md "wikilink")》中新增的角色没有登场，在接下來大型dlc的ultimate確定不會加入，有可能會在無雙大蛇4才會讓他們加入。\[6\]此外为北条氏康配音的[石冢运昇在](../Page/石塚運昇.md "wikilink")2018年8月因病逝世，此角色改由[江原正士](../Page/江原正士.md "wikilink")配音\[7\]。此外原先一直登場的遠呂智軍武將蛟首次可供以玩家使用。
+遊戲中總共有170個可玩角色，包括《[真·三国无双7：帝国](../Page/真·三國無雙7.md "wikilink")》出现的83名角色和《[战国无双4-II](../Page/戰國無雙4.md "wikilink")》中的56名角色，以及无双大蛇系列自[2代以来独有的](../Page/無雙OROCHI_2.md "wikilink")25名角色和本作新加入的神话角色宙斯、雅典娜、珀尔修斯、阿瑞斯、洛基（游戏中为珀尔修斯的真面目）和奥丁。\[4\]\[5\]但是由于种种原因，《[真·三国无双8](../Page/真·三國無雙8.md "wikilink")》和《[战国无双 真田丸](../Page/战国无双_真田丸.md "wikilink")》中新增的角色没有登场，在接下來大型dlc的ultimate確定不會加入，有可能會在無雙大蛇4才會讓他們加入。\[6\]此外为北条氏康配音的[石冢运昇在](../Page/石塚運昇.md "wikilink")2018年8月因病逝世，此角色改由[江原正士](../Page/江原正士.md "wikilink")配音\[7\]。此外原先一直登場的遠呂智軍武將蛟首次可供以玩家使用。
 
   - 其中九位英雄在故事模式中，可藉由道具「神力之雫」進行神格化：[趙雲](https://zh.wikipedia.org/wiki/趙雲 "wikilink")、[真田幸村](https://zh.wikipedia.org/wiki/真田幸村 "wikilink")、[關銀屏](https://zh.wikipedia.org/wiki/關銀屏 "wikilink")、[井伊直虎](../Page/井伊直虎.md "wikilink")、[曹丕](../Page/曹丕.md "wikilink")、[石田三成](../Page/石田三成.md "wikilink")、[呂布](https://zh.wikipedia.org/wiki/呂布 "wikilink")、[織田信長](../Page/織田信長.md "wikilink")、[楊戩](https://zh.wikipedia.org/wiki/楊戩 "wikilink")\[8\]。
   - 本作新加入的《真·三国无双7》武将：乐进、李典、于禁、荀彧、鲁肃、韓當、朱然、关兴、张苞、关银屏、法正、贾充、文鸯、张春华、陈宫、吕玲绮。

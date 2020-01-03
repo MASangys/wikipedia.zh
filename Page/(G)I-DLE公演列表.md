@@ -284,9 +284,9 @@
 </tr>
 <tr class="even">
 <td><p>12月21日</p></td>
-<td><p>2020台南好Young耶誕跨年系列活動</p></td>
-<td><p>台灣台南</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台南好Young耶誕跨年城" title="wikilink">2020台南好Young耶誕演唱會</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="https://zh.wikipedia.org/wiki/台南市" title="wikilink">台南市</a><a href="../Page/臺南市政府.md" title="wikilink">政府永華市政中心西側廣場</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=ugh-gT1T1so&amp;t=10594s">2019年12月21日壹直播</a></p></td>
 </tr>
 </tbody>
 </table>

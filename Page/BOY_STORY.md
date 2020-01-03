@@ -23,71 +23,7 @@
 | 任書漾      |
 |          |
 
-## 演唱会
-
-### Showcase
-
-| 出道SHOWCASE                |
-| ------------------------- |
-| **日期**                    |
-| BOY STORY 出道 SHOWCASE 广州站 |
-| 2018年9月22日                |
-| BOY STORY 出道 SHOWCASE 台北站 |
-| 2018年9月24日                |
-| BOY STORY 出道 SHOWCASE 上海站 |
-| 2018年9月29日                |
-| BOY STORY 出道 SHOWCASE 北京站 |
-| 2018年10月14日               |
-
-## 奖项与荣誉
-
-### 大型颁奖礼奖项
-
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>时间</p></th>
-<th><p>奖项</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>2017</strong></p></td>
-<td><p>2017-11-29</p></td>
-<td><ul>
-<li>亚洲音乐盛典 —— 最佳嘻哈新人组合奖</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><strong>2018</strong></p></td>
-<td><p>2018-01-19</p></td>
-<td><ul>
-<li>FEIA颁奖盛典 —— 年度风尚活力组合奖</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>2019</strong></p></td>
-<td><p>2019-01-15</p></td>
-<td><ul>
-<li>FEIA颁奖盛典 —— 年度最具期待组合奖</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-### 音乐节目奖项
-
-| 年份    | 日期     | 制作方         | 节目名称      | 获奖歌曲   | 排名                                                              |
-| ----- | ------ | ----------- | --------- | ------ | --------------------------------------------------------------- |
-| 2018年 | 11月11日 | TME腾讯音乐娱乐集团 | YO\! BANG | Enough | [点赞1位](http://ent.huanqiu.com/yuleyaowen/2018-11/13553317.html) |
-| 2018年 | 12月2日  | TME腾讯音乐娱乐集团 | YO\! BANG | FOR U  | 点赞1位                                                            |
-
 ## 音樂作品
-
-### 迷你專輯
-
-  - Enough（2018年9月21日）
 
 ### 數位單曲
 
@@ -105,9 +41,6 @@
 
   - 奇妙里（2018年10月22日）
 
-<!-- end list -->
-
-  -
 ## 影视作品
 
 ### 自制团综/短视频
@@ -137,6 +70,91 @@
 | 9月21日  | 《Enough》            | Enough            | Enough      |                   |
 | 2019年  | 3月29日               | 《Oh My Gosh》      | Oh My Gosh  | Oh My Gosh        |
 | 7月26日  | 《Too Busy》          | Too Busy          | Too Busy    |                   |
+
+## 媒體作品
+
+### 出版物
+
+| 出版日期    | 名稱         | 期數 | 備註  |
+| ------- | ---------- | -- | --- |
+| 2017-07 | ICON-F時尚畫報 |    | 電子刊 |
+|         |            |    |     |
+
+## 演唱会
+
+### Showcase
+
+| 出道SHOWCASE                |
+| ------------------------- |
+| **日期**                    |
+| BOY STORY 出道 SHOWCASE 广州站 |
+| 2018年9月22日                |
+| BOY STORY 出道 SHOWCASE 台北站 |
+| 2018年9月24日                |
+| BOY STORY 出道 SHOWCASE 上海站 |
+| 2018年9月29日                |
+| BOY STORY 出道 SHOWCASE 北京站 |
+| 2018年10月14日               |
+
+## 奖项与荣誉
+
+### 大型颁奖礼奖项
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>名稱</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p>亚洲音乐盛典</p></td>
+<td><p>最佳嘻哈新人组合奖</p></td>
+<td><p>BOY STORY</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p>FEIA颁奖盛典</p></td>
+<td><p>年度风尚活力组合奖</p></td>
+<td><p>BOY STORY</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>FEIA颁奖盛典</p></td>
+<td><p>年度最具期待组合奖</p></td>
+<td><p>BOY STORY</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>腾讯音乐盛典</p></td>
+<td><p>QQ音乐新势力</p></td>
+<td><p>BOY STORY</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 音乐节目奖项
+
+| 年份    | 日期     | 制作方         | 节目名称      | 获奖歌曲   | 排名                                                              |
+| ----- | ------ | ----------- | --------- | ------ | --------------------------------------------------------------- |
+| 2018年 | 11月11日 | TME腾讯音乐娱乐集团 | YO\! BANG | Enough | [点赞1位](http://ent.huanqiu.com/yuleyaowen/2018-11/13553317.html) |
+| 2018年 | 12月2日  | TME腾讯音乐娱乐集团 | YO\! BANG | FOR U  | 点赞1位                                                            |
 
 ## 外部連結
 

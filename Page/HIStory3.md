@@ -545,12 +545,14 @@
 <p><a href="../Page/吳珝陽.md" title="wikilink">吳珝陽</a></p></td>
 <td><center>
 <p>程清</p></td>
-<td><p>盧志剛的姪子。</p></td>
+<td><p>盧志剛的外甥。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/黃雋智.md" title="wikilink">黄雋智</a></p></td>
-<td><p>学弟</p></td>
-<td><p>项豪廷登山时认识的朋友，与于希顾长相十分相似，性格却和于希顾相差十万八千里。</p></td>
+<td><center>
+<p><a href="../Page/黃雋智.md" title="wikilink">黄雋智</a></p></td>
+<td><center>
+<p>方偉</p></td>
+<td><p>项豪廷登山时认识的朋友，与-{于}-希顾长相十分相似，性格却和-{于}-希顾相差十万八千里。</p></td>
 </tr>
 </tbody>
 </table>

@@ -1198,7 +1198,14 @@ Masuru（マサル）<br />
 <td><p>2019年12月4 - 29日<br />
 （Bunkamura Theatre Cocoon）</p></td>
 <td><p>漂亮〜一個與神見面的女子〜</p></td>
-<td></td>
+<td><p>合唱團成員<br />
+抗拒<a href="../Page/大豆.md" title="wikilink">大豆</a>兵的主婦<br />
+艷舞女郎<br />
+生日會嘉賓<br />
+記　者<br />
+女護士<br />
+娼　婦<br />
+魔術團成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>2020年1月13 - 19日<br />

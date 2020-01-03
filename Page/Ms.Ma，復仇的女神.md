@@ -361,7 +361,7 @@
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我唯一的守護者](../Page/我唯一的守護者.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink") [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[Nine Room](../Page/Nine_Room.md "wikilink")》
-  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original Series](../Page/OCN_Original_Series.md "wikilink")：《[Player](../Page/Player_\(韓國電視劇\).md "wikilink")》、《[Priest](../Page/Priest.md "wikilink")》
+  - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [Original Series](../Page/OCN_Original_Series.md "wikilink")：《[Player](../Page/Player_\(韓國電視劇\).md "wikilink")》、《[Priest](https://zh.wikipedia.org/wiki/Priest_\(电视剧\) "wikilink")》
 
 ## 參考資料
 

@@ -7,9 +7,9 @@
 
 「MAD TEAM」這支台灣職業[電子競技隊伍主要參與](https://zh.wikipedia.org/wiki/電子競技 "wikilink")[英雄聯盟與](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")[絕地求生](../Page/絕地求生.md "wikilink")與[傳說對決](../Page/傳說對決.md "wikilink")的賽事。它原為「[AHQ](https://zh.wikipedia.org/wiki/Ahq电子竞技俱乐部 "wikilink") Fighter」\[2\]，曾取得《2017年[ECS菁英挑戰賽](https://zh.wikipedia.org/wiki/ECS菁英挑戰賽 "wikilink")》夏季總冠軍暨《2017年[六都電競爭霸戰](https://zh.wikipedia.org/wiki/六都電競爭霸戰 "wikilink")》總冠軍，參與過《2018年[LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")》春季升降賽，且擊敗FireBall，從《[ECS菁英挑戰賽](https://zh.wikipedia.org/wiki/ECS菁英挑戰賽 "wikilink")》升級至《[LMS職業聯賽](../Page/LMS職業聯賽.md "wikilink")》\[3\]。2017年11月29日，它由香港藝人[余文樂](../Page/余文樂.md "wikilink")代表的「瘋狂電競」取得經營權\[4\]\[5\]，改名為「MAD TEAM」和將《[GCS職業聯賽](https://zh.wikipedia.org/wiki/GCS職業聯賽 "wikilink")》的「AHQ White」一起併購，成立現時《[絕地求生](../Page/絕地求生.md "wikilink")》職業戰隊及 MAD TEAM Super（MADS）\[6\]，加入《[MPL職業聯賽](https://zh.wikipedia.org/wiki/MPL職業聯賽 "wikilink")》，並在網上售賣周邊商品\[7\]\[8\]。
 
-## [英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink") (League of Legends)
+## [英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink") (League of Legends)（已解散）
 
-### 現役選手
+### 解散前最後選手
 
 <table>
 <tbody>
@@ -81,7 +81,7 @@
 </tbody>
 </table>
 
-### 過往成員
+### 解散前離隊成員
 
 <table>
 <tbody>
@@ -137,6 +137,7 @@
   - 2018年9月15日，MAD TEAM在LMS夏季冠軍賽以0:3敗給[閃電狼](../Page/閃電狼.md "wikilink")，獲得賽區亞軍以LMS賽區第二種子參加2018年世界大賽。
   - 2018年10月17日，MAD TEAM在[英雄联盟2018赛季全球总决赛](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")與[KT Rolster](https://zh.wikipedia.org/wiki/KT_Rolster "wikilink")、[EDward Gaming與](https://zh.wikipedia.org/wiki/EDward_Gaming "wikilink")[Team Liquid分在C組](https://zh.wikipedia.org/wiki/Team_Liquid "wikilink")，最後以0勝6敗止步16強 。\[9\]
   - 2018年12月16日，主教練[蔡尚精](../Page/蔡尚精.md "wikilink")與[MAD Team協商確定加入](../Page/MAD_Team.md "wikilink")[Royal Never Give Up成為戰術教練](https://zh.wikipedia.org/wiki/Royal_Never_Give_Up "wikilink")，並將暫替原[Royal Never Give Up孫大永教練](https://zh.wikipedia.org/wiki/Royal_Never_Give_Up "wikilink")，為隊伍完成 B/P 工作。
+  - 2019年12月7日，官方臉書發布貼文，宣布將PCS參賽權轉讓Talon，英雄聯盟戰隊正式走入歷史。
 
 ## [傳說對決](../Page/傳說對決.md "wikilink") (Arena of Valor)
 
@@ -194,11 +195,11 @@
 <td><p>原<a href="../Page/J戰隊.md" title="wikilink">JT打野</a></p></td>
 </tr>
 <tr class="even">
-<td><p>洪振哲</p></td>
-<td><p>03.27</p></td>
-<td><p>打野</p></td>
+<td><p>顏桔哲</p></td>
+<td><p>Fanta</p></td>
+<td><p>輔助</p></td>
 <td></td>
-<td><p>S6城市賽亞軍，原二軍選手</p></td>
+<td><p>前ONE輔助</p></td>
 </tr>
 <tr class="odd">
 <td><p>郭冠緯</p></td>
@@ -262,6 +263,20 @@
 <td><p>輔助</p></td>
 <td></td>
 <td><p>原<a href="../Page/J戰隊.md" title="wikilink">JT輔助</a>，2019/8/6因生涯規劃，宣佈離隊，目前轉任實況主</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>洪冠偉</p></td>
+<td><p>03.27</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td><p>因與ONE簽署友好協議，將其交易至ONE</p></td>
 </tr>
 <tr class="even">
 <td></td>

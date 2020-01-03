@@ -3,7 +3,7 @@
 
 ## 簡介
 
-**Qoo10**是[Gmarket的創始人](https://zh.wikipedia.org/wiki/Gmarket "wikilink") [具永培](https://zh.wikipedia.org/wiki/具永培 "wikilink") 以亞洲地區為活動目標而設立的網路購物網站。\[1\] 現正營運 [日本](../Page/日本.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") 等亞洲地區的網路購物網站。從GMARKET海外事業部開始,2008年設立GMARKET[日本](../Page/日本.md "wikilink")和GMARKET[新加坡](../Page/新加坡.md "wikilink")，2010年 Gmarket 創始人 [具永培](https://zh.wikipedia.org/wiki/具永培 "wikilink") 和 [eBay](https://zh.wikipedia.org/wiki/eBay "wikilink") 的合資企業分社，2012年將Gmarket更名為**Qoo10**。
+**Qoo10**是[Gmarket的創始人](https://zh.wikipedia.org/wiki/Gmarket "wikilink") [具永培](https://zh.wikipedia.org/wiki/具永培 "wikilink") 以亞洲地區為活動目標而設立的網路購物網站。\[1\] 現正營運 [日本](../Page/日本.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[中國](../Page/中國.md "wikilink")、[香港](../Page/香港.md "wikilink")以及[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink") 等亞洲地區的網路購物網站。從GMARKET海外事業部開始,2008年設立GMARKET[日本](../Page/日本.md "wikilink")和GMARKET[新加坡](../Page/新加坡.md "wikilink")，2010年 Gmarket 創始人 [具永培](https://zh.wikipedia.org/wiki/具永培 "wikilink") 和 [eBay](https://zh.wikipedia.org/wiki/eBay "wikilink") 的合資企業分社，2012年將Gmarket更名為**Qoo10**。
 
 Qoo10讓你省掉這些問題及麻煩。Qoo10是由韓國Gmarket原CEO與美國ebay聯手打造出的亞洲購物平台，在亞洲各地都設有分公司並成功打入當地的市場。貨源大部分也都由各家公司直接送到消費者手上。運送快速且便宜前有自己的海外運輸體系，讓你無須擔心自己的包裹。
 

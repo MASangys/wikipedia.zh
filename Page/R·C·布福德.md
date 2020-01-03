@@ -39,7 +39,7 @@
 1.  [The Buford Way: Spurs' architect stays in shadows - USATODAY.com](https://www.usatoday.com/sports/basketball/nba/spurs/2007-05-21-cover-buford_N.htm)
 2.  [MIT Sloan Sports Business Conference: Panels](http://www.sloansportsconference.com/paneltitle.htm)
 3.  [San Antonio’s R.C. Buford Earns 2013-14 NBA Basketball Executive of the Year Award](http://www.nba.com/spurs/news/140507_buford_earns_nba_executive_of_the_year)
-4.  <http://www.nba.com/2016/news/05/09/san-antonio-spurs-r-c-buford-wins-executive-of-the-year/>
+4.
 5.
 6.  <https://www.linkedin.com/in/chase-buford-65050735>
 7.

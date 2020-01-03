@@ -645,27 +645,32 @@
 ****（[高橋文哉](../Page/高橋文哉.md "wikilink")飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士ZERO-ONE**的變身者，於《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》和《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士ZERO-ONE**的變身者，於《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》和《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士Vulcan**的變身者，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士Vulcan**的變身者，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士Valkyrie**的變身者，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士Valkyrie**的變身者，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士滅**的變身者，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士滅**的變身者，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士迅**的變身者，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士迅**的變身者，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
+
+****（[山本耕史](../Page/山本耕史.md "wikilink")飾）
+
+  -
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》**假面騎士1型**的變身者，飛電或人的父親，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ## 協助者
 
@@ -799,35 +804,35 @@
 
 ### 未來騎士相關人物系列
 
+****（飾）
+
+  -
+    神藏蓮太郎的妹妹，於《[假面騎士ZI-O 外傳 PART1『RIDER TIME 假面騎士SHINOBI』](https://zh.wikipedia.org/wiki/面騎士ZI-O_外傳_RIDER_TIME#RIDER_TIME_假面騎士SHINOBI "wikilink")》登場。
+
 ****（[鶴嶋乃愛](../Page/鶴嶋乃愛.md "wikilink")飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電或人的AI助理，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電或人的AI助理，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（[兒嶋一哉](../Page/兒嶋一哉.md "wikilink")飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電Intelligence的副社長，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電Intelligence的副社長，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（成田愛純飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》福添准的的AI助理，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》福添准的的AI助理，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電Intelligence的專務董事，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
-
-****（[山本耕史](../Page/山本耕史.md "wikilink")飾）
-
-  -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電或人的父親，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電Intelligence的專務董事，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ****（飾）
 
   -
-    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電或人的祖父，飛電Intelligence的創辦人兼初代社長，於《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》登場。
+    續作《[假面騎士ZERO-ONE](../Page/假面騎士ZERO-ONE.md "wikilink")》飛電或人的祖父，飛電Intelligence的創辦人兼初代社長，於《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》登場。
 
 ## 時劫者（Time Jacker）
 
@@ -968,7 +973,7 @@
     最後在另類Ghost被打倒后與妹妹美香回歸正常生活。
     雖在另類Ghost事件結束後不再登場，但第25話時依照加古川飛流已獲得另類Ghost的力量推斷其已遭到加古川飛流襲擊。
 
-****（飾）
+****（飾，台灣配音：[江志倫](../Page/江志倫.md "wikilink")）
 
   -
     **另類電王**（聯動劇場版）的變身者。
