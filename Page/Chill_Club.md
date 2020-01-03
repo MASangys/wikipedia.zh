@@ -16,6 +16,8 @@
 | 6      | 12月1日    | [趙學而](../Page/趙學而.md "wikilink")、[陳逸璇](../Page/陳逸璇.md "wikilink")                                                                                               |
 | 7      | 12月8日    | [鄭敬基](../Page/鄭敬基.md "wikilink")、[布志綸](../Page/布志綸.md "wikilink")\[6\]                                                                                          |
 | 8      | 12月22日   | [陳潔靈](../Page/陳潔靈.md "wikilink")、[李幸倪](../Page/李幸倪.md "wikilink")                                                                                               |
+| 9      | 12月29日   | [羅敏莊](../Page/羅敏莊.md "wikilink")、[Judas Law](https://zh.wikipedia.org/wiki/羅凱鈴 "wikilink")                                                                      |
+| 10     | 1月5日     | [林欣彤](../Page/林欣彤.md "wikilink")                                                                                                                                |
 
 ## 節目調動
 

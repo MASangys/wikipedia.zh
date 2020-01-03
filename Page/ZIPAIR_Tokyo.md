@@ -1,7 +1,9 @@
 > 本文内容由[ZIPAIR Tokyo](https://zh.wikipedia.org/wiki/ZIPAIR_Tokyo)转换而来。
 
 
-**ZIPAIR Tokyo**（）是[日本](../Page/日本.md "wikilink")的一家正在設立的航空公司。
+**ZIPAIR Tokyo**（）是一家籌辦中的[日本](../Page/日本.md "wikilink")[廉價航空公司](https://zh.wikipedia.org/wiki/廉價航空公司 "wikilink")，隸屬[日本航空](../Page/日本航空.md "wikilink")旗下。
+
+## 歷史
 
 2018年5月14日，[日本航空](../Page/日本航空.md "wikilink")（JAL）表示將設立運行中長距離國際航線的[廉價航空公司](https://zh.wikipedia.org/wiki/廉價航空公司 "wikilink")\[1\]。7月31日，該公司暫時名為TBL\[2\]。
 
@@ -11,7 +13,48 @@
 
 ## 機隊
 
-  - [波音787](../Page/波音787.md "wikilink")-8：2架
+<table>
+<caption><strong>現役機隊</strong></caption>
+<thead>
+<tr class="header">
+<th><p><font style="color:white;">機型</p></th>
+<th><p><font style="color:white;">數量</p></th>
+<th><p><font style="color:white;">已訂購</p></th>
+<th><p><font style="color:white;">選購權</p></th>
+<th><p><font style="color:white;">載客量</p></th>
+<th><p><font style="color:white;">備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><abbr title="商務艙"><font style="color:white;">C</abbr></p></td>
+<td><p><abbr title="經濟艙"><font style="color:white;">Y</abbr></p></td>
+<td><p><font style="color:white;">總數</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/波音787.md" title="wikilink">波音787</a>-8</p></td>
+<td><center>
+<p>1</p></td>
+<td><center>
+<p>—</p></td>
+<td><center>
+<p>—</p></td>
+<td><p>18</p></td>
+<td><p>272</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

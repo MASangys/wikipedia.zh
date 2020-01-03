@@ -11,7 +11,7 @@
 
   - [Cellosaurus entry for Sf9](https://web.expasy.org/cellosaurus/CVCL_0549)
 
-[Category:細胞系](https://zh.wikipedia.org/wiki/Category:細胞系 "wikilink")
+[Category:昆虫细胞系](https://zh.wikipedia.org/wiki/Category:昆虫细胞系 "wikilink")
 
 1.
 2.

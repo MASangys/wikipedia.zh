@@ -7,7 +7,7 @@
 
 ### 成員資料
 
-  - 官方公布隊長
+  - 官方未公布隊長
 
 | colspan="10" style|成員列表                            |
 | -------------------------------------------------- |
@@ -20,7 +20,7 @@
 | [莉美](../Page/Remi_\(Cherry_Bullet\).md "wikilink") |
 | [彩麟](../Page/彩麟.md "wikilink")                     |
 | [MAY](../Page/MAY_\(Cherry_Bullet\).md "wikilink") |
-| **[未來](../Page/金京主.md "wikilink")**                |
+| [未來](../Page/金京主.md "wikilink")                    |
 | [KOKORO](../Page/KOKORO.md "wikilink")             |
 | [粼粼](../Page/黃姿婷.md "wikilink")                    |
 

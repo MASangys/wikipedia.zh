@@ -51,7 +51,7 @@ Tera Term语言(简称TTL)，是一门针对Tera Term的宏语言，并由MACRO 
 
 ## 外部链接
 
-  - [Tera Term开源项目](https://ttssh2.osdn.jp/index.html.ja)
+  - [Tera Term开源项目](https://web.archive.org/web/20151224000034/https://ttssh2.osdn.jp/index.html.ja)
 
 [Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink") [Category:1994年软件](https://zh.wikipedia.org/wiki/Category:1994年软件 "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:終端模擬器](https://zh.wikipedia.org/wiki/Category:終端模擬器 "wikilink") [Category:有未审阅翻译的页面](https://zh.wikipedia.org/wiki/Category:有未审阅翻译的页面 "wikilink")
 

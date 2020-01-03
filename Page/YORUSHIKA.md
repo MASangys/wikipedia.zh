@@ -1,13 +1,13 @@
 > 本文内容由[YORUSHIKA](https://zh.wikipedia.org/wiki/YORUSHIKA)转换而来。
 
 
-**Yorushika**（中文：只有夜晚/夜鹿 日語：ヨルシカ）。由一男一女組成的[日本搖滾樂隊](https://zh.wikipedia.org/wiki/日本搖滾 "wikilink")。 2017年建成，樂隊出道時所屬的音樂廠牌為[Dwango](../Page/多玩國.md "wikilink") 旗下的 U\&R records。2019年6月 14日以單曲「《心上破了洞》（『心に穴が空いた』）」在[日本環球音樂旗下亮相](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")。
+**Yorushika**（日語：ヨルシカ 目前尚無正式中文譯名 ）。由作曲家n-buna 與歌手Suis組成的[日本搖滾樂團](https://zh.wikipedia.org/wiki/日本搖滾 "wikilink")。 該樂團於2017年建成，樂隊出道時所屬的音樂廠牌為[Dwango](../Page/多玩國.md "wikilink") 旗下的 U\&R records。2019年6月 14日以單曲「《心上破了洞》（『心に穴が空いた』）」在[日本環球音樂旗下亮相](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")。
 
 ## 簡介
 
 Yorushika的成員包括[n-buna](https://zh.wikipedia.org/wiki/n-buna "wikilink") 與 suis。是由以往主要制作[Vocaloid曲為主的n](https://zh.wikipedia.org/wiki/Vocaloid "wikilink")-buna和參與歌手Suis在2017年組成的樂隊\[1\]。
 
-因為「不希望為音樂帶來先入為主的偏見」，關於這兩人的消息除上述外別無其他，官方至今仍未公布兩人的樣貌等相關資料。\[2\]\[3\]
+因為「不希望為音樂帶來先入為主的偏見」，所以關於這兩人的官方消息除上述外別無其他，至今仍未公布兩人的樣貌等相關資料。\[2\]\[3\]
 
 「Yorushika」（夜しか）這個名字取自於第一張迷你專輯《夏草使人厭煩》中最後一首歌《雲和幽靈》的歌詞：只有夜晚才能入眠（夜しかもう眠れずに）\[4\]。
 

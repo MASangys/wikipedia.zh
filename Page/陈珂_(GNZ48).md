@@ -23,7 +23,7 @@
   - 出道早期在其支持者心目中的形象为“受”，但其自认为是“全团总攻”。\[23\]
   - 曾有支持者调侃其外形与[Papi酱](../Page/Papi酱.md "wikilink")及[王子文相似](https://zh.wikipedia.org/wiki/王子文 "wikilink")\[24\]，亦有传媒以“冷美人”形容之\[25\]。
   - 剧场自我介绍词为“多C多健康，每天多来一份**活力维C**。”
-  - 其个人电台直播的结束曲为[HKT的](https://zh.wikipedia.org/wiki/HKT组合 "wikilink")《痛多一次》（）。
+  - 其个人电台直播的结束曲为[HKT的](../Page/HKT组合.md "wikilink")《痛多一次》（）。
   - 为SNH48 Group第六届偶像选拔总决选的GNZ48 TOP1。也是GNZ48 Team G之第一名。
 
 ## 音乐作品

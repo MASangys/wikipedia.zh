@@ -60,9 +60,19 @@
       - ★[革命機Valvrave](../Page/革命機Valvrave.md "wikilink")（）
       - ★[機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")（）
 
+<!-- end list -->
+
+  - WORLD 05
+    於2019年12月更新追加。
+      - [金剛戰神](../Page/金剛戰神.md "wikilink")（）
+      - [无敌钢人泰坦3](../Page/无敌钢人泰坦3.md "wikilink")（）
+      - [新機動戰記GUNDAMW Endless Waltz](https://zh.wikipedia.org/wiki/新機動戰記GUNDAM_W_Endless_Waltz "wikilink")（）
+      - [機動戰艦 -The prince of darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
+      - ★[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")（）
+
 ### 解說 
 
-本次共收錄了23部作品，當中有4部新參戰的作品
+本次共收錄了28部作品，當中有5部新參戰的作品
 
 《惡魔人（原作漫画版）》的參戰，表示本作的參戰作品不只限於機械人動畫作品\[3\]。《驚爆危機》以動畫第1期為名義參戰，而機體設計則以2018年播放的《驚爆危機 Invisible Victory》的設計為準。
 

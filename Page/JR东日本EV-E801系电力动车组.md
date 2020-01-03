@@ -7,7 +7,7 @@
 
 该列车源自[JR九州（九州旅客铁道）公司开发的实验性](../Page/九州旅客鐵道.md "wikilink")[817系电池电力动车组](../Page/JR九州817系電力動車組.md "wikilink")，并加以修改以应对秋田县的寒冷气候。\[2\]
 
-两节编组的EV-E801系列车作为-{zh-tw:[電聯車](../Page/電聯車.md "wikilink");zh-cn:[电力动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")}-（EMU）运行在[秋田站](../Page/秋田站.md "wikilink")至[追分站之间](../Page/追分站_\(秋田县\).md "wikilink")13.0公里的[奥羽本线的](https://zh.wikipedia.org/wiki/奥羽本线 "wikilink")20kV[交流架空](../Page/交流電.md "wikilink")-{zh-tw:[電車線](https://zh.wikipedia.org/wiki/電車線 "wikilink");zh-cn:[接触网](https://zh.wikipedia.org/wiki/接触网 "wikilink")}-下；在追分站至[男鹿站](../Page/男鹿站.md "wikilink")间26.6公里的非电气化男鹿线轨道上-{zh-tw:透過;zh-cn:通过}-[电池](../Page/电池.md "wikilink")供电；该车取代现有的KiHa 40系[柴油动车组](../Page/柴聯車.md "wikilink")。\[3\]电池可以在男鹿站通过专门建造的20kV交流充电设施及列车的受电弓补充电力。\[4\]
+两节编组的EV-E801系列车作为-{zh-tw:[電聯車](../Page/電聯車.md "wikilink");zh-cn:[电力动车组](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")}-（EMU）运行在[秋田站](../Page/秋田站.md "wikilink")至[追分站之间](../Page/追分站_\(秋田县\).md "wikilink")13.0公里的[奥羽本线的](https://zh.wikipedia.org/wiki/奥羽本线 "wikilink")20kV[交流架空](../Page/交流電.md "wikilink")-{zh-tw:[電車線](https://zh.wikipedia.org/wiki/電車線 "wikilink");zh-cn:[接触网](https://zh.wikipedia.org/wiki/接触网 "wikilink")}-下；在追分站至[男鹿站](../Page/男鹿站.md "wikilink")间26.6公里的非电气化男鹿线轨道上-{zh-tw:透過;zh-cn:通过}-[电池](../Page/电池.md "wikilink")供电；该车取代車齡已高的KiHa 40系[柴油动车组](../Page/柴聯車.md "wikilink")\[3\]。列车可以在男鹿站停車時通过专门建造的20kV交流充电设施升起受电弓补充电力\[4\]。
 
 EV-E800系列车配备了[锂离子蓄电池](../Page/锂离子电池.md "wikilink")，[总容量为](https://zh.wikipedia.org/wiki/电能 "wikilink")360[千瓦时](https://zh.wikipedia.org/wiki/千瓦时 "wikilink")（[电压](https://zh.wikipedia.org/wiki/电压 "wikilink")1,598[V](../Page/伏特.md "wikilink")），在架空-{zh-tw:電車線;zh-cn:接触网}-下最高速度为110公里 /小时，在非电气化线路上最高速度为85公里/小时。\[5\]
 

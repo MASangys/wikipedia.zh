@@ -3,7 +3,7 @@
 
 **Jello**，是一款全球通用的[通訊軟體](https://zh.wikipedia.org/wiki/通訊軟體 "wikilink")，以免費通話傳訊、高隱私、無痕、塗鴉、自製[貼圖](../Page/貼圖.md "wikilink")/[GIF](../Page/GIF.md "wikilink")、串連[街口電子支付](../Page/街口電子支付.md "wikilink")轉帳/發紅包為產品特色。 Jello 自2019年1月31日起交由街口接管營運，隸屬於[街口網絡股份有限公司](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")。
 
-**Jello**於2019年12月請到韓國女團[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潤娥擔任品牌代言人](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。\[1\] [潤娥除了為Jello拍攝廣告以外](https://zh.wikipedia.org/wiki/潤娥 "wikilink")，將會於12月13日的品牌代言人記者會親自分享Jello的使用心得，品牌當天亦邀請40位粉絲入場，近距離感受潤娥的女神魅力。\[2\]\[3\]\[4\]
+**Jello**於2019年12月請到韓國女團[少女時代的成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潤娥擔任品牌代言人](https://zh.wikipedia.org/wiki/潤娥 "wikilink")。\[1\] [潤娥除了為Jello拍攝廣告以外](https://zh.wikipedia.org/wiki/潤娥 "wikilink")，也在12月13日的品牌代言人記者會親自分享Jello的使用心得，品牌當天亦邀請40位粉絲入場，近距離感受潤娥的女神魅力。\[2\]\[3\]\[4\]
 
 ## 特色與功能
 
@@ -19,11 +19,21 @@
   - 群組管理：提供代碼建立群組的方式，在時間內產生專屬代碼，他人輸入即可直接加入。並有群組管理員權限，可設定他人是否有加人及踢人的權限。
   - 連結[街口電子支付](../Page/街口電子支付.md "wikilink")帳戶：可綁定或直接在Jello申請街口帳戶，即可使用錢包相關功能，包含付款/收款/儲值/即時提領，並可和其他Jello用戶轉帳/發紅包。
 
+## 品牌代言人記者會
+
+### 品牌特色
+
+Jello於2019年12月13日舉辦品牌代言人記者會，邀請亞洲女神[潤娥出席](https://zh.wikipedia.org/wiki/潤娥 "wikilink")，並由[楊千霈](../Page/楊千霈.md "wikilink")擔任主持人。[街口網絡股份有限公司執行長胡亦嘉在記者會介紹Jello的四大特點](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")：1. 隱私、2. 貼心、3. 有趣、4. 無干擾。所謂的注重用戶隱私就是需事先經用戶同意加好友，才能開啟對話的機制，至於貼心則是語音訊息連續播放、無痕退群、和收回訊息等設計讓語音訊息更方便，且特殊的無痕模式，讓用戶不再需要顧慮許多尷尬情境。訊息倒數消失、自製貼圖、手繪貼圖等功能，都替對話增添個性化與趣味性。最重要的無干擾，那就是無廣告、促銷推廣訊息、商家帳號等，讓用戶不再被無關的訊息干擾。\[5\]\[6\]\[7\]\[8\]
+
+### 未來展望
+
+街口執行長胡亦嘉表示，未來街口支付APP將以支付、金融為主，Jello接棒街口生態中的轉帳功能，進入社交場景。而街口獨有的優勢是已經與所有銀行帳戶串聯好，用戶綁定銀行帳戶後，轉帳方便且無手續費。根據金管會今年10月統計數據，街口支付在當月轉帳金額累積達新台幣8億元規模，一舉超越其他電子支付業者總和兩倍。未來除了以街口支付聚焦各類消費金融支付，將由Jello接手轉帳與發紅包功能，接下來更預期轉帳金額會加倍成長，同時也會讓Jello持續擴展東南亞市場。\[9\]\[10\]\[11\]\[12\]
+
 ## 爭議
 
-Jello上架後因有心人士未獲創作者授權就盜用貼圖上傳平台，Jello未在第一時間做好把關與侵權處理，引發創作者的反彈，產生智慧財產權爭議。在創作者的聯合聲明後，在台的合作對象街口負責人表示，兩者僅為合作關係，已和Jello密切聯繫處理後續事宜。\[5\]
+Jello上架後因有心人士未獲創作者授權就盜用貼圖上傳平台，Jello未在第一時間做好把關與侵權處理，引發創作者的反彈，產生智慧財產權爭議。在創作者的聯合聲明後，在台的合作對象街口負責人表示，兩者僅為合作關係，已和Jello密切聯繫處理後續事宜。\[13\]
 
-[街口網絡股份有限公司宣布自](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")1月31日起，接管Jello在台營運，並下架所有有疑慮的貼圖，\[6\]\[7\]\[8\]2月2日宣布即日起下架，街口過年紅包瘋狂送活動取消，並對於審核機制不周全而影響創作者的權益表達歉意。\[9\]\[10\]\[11\]
+[街口網絡股份有限公司宣布自](https://zh.wikipedia.org/wiki/街口網絡股份有限公司 "wikilink")1月31日起，接管Jello在台營運，並下架所有有疑慮的貼圖，\[14\]\[15\]\[16\]2月2日宣布即日起下架，街口過年紅包瘋狂送活動取消，並對於審核機制不周全而影響創作者的權益表達歉意。\[17\]\[18\]\[19\]
 
 ## 参考资料
 
@@ -33,10 +43,18 @@ Jello上架後因有心人士未獲創作者授權就盜用貼圖上傳平台，
 2.
 3.
 4.
-5.
-6.  自由財經 |url=<https://ec.ltn.com.tw/article/breakingnews/2689176> |accessdate=2019-02-06 |work=自由時報}}
-7.   產經 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/afe/201902010245.aspx> |work=中央社 |language=zh-TW}}
-8.
-9.
-10.  生活 |url=<https://www.nownews.com/news/20190130/3206231/> |work=NOWnews 今日新聞 |date=2019-01-30 |language=zh-TW}}
-11.  產經 {{\!}} 重點新聞 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/firstnews/201902030102.aspx> |work=中央社 |language=zh-TW}}
+5.  電子支付 |url=<https://www.cmmedia.com.tw/home/articles/19013> |accessdate=2019-12-14 |work=信傳媒}}
+6.  軟體情報 |url=<https://www.chinatimes.com/realtimenews/20191213002727-260412?chdtv> |accessdate=2019-12-13 |work=中時電子報}}
+7.  金融 |url=<https://money.udn.com/money/story/5613/4225057> |accessdate=2019-12-13 |work=經濟日報}}
+8.  科技 |url=<https://times.hinet.net/news/22695429> |accessdate=2019-12-13 |work=Wow\!NEWS新聞網}}
+9.  軟體情報 |url=<https://udn.com/news/story/11017/4224789> |accessdate=2019-12-13 |work=udn 聯合新聞網}}
+10. 軟體情報 |url=<https://www.bnext.com.tw/article/55904/jello-2019-yoona> |accessdate=2019-12-13 |work=數位時代}}
+11. 產經 |url=<https://www.cna.com.tw/news/afe/201912130208.aspx> |accessdate=2019-12-13 |work=中央通訊社}}
+12. 行動Pay |url=<https://www.cardu.com.tw/news/detail.php?39635> |accessdate=2019-12-13 |work=卡優新聞網}}
+13.
+14. 自由財經 |url=<https://ec.ltn.com.tw/article/breakingnews/2689176> |accessdate=2019-02-06 |work=自由時報}}
+15.  產經 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/afe/201902010245.aspx> |work=中央社 |language=zh-TW}}
+16.
+17.
+18.  生活 |url=<https://www.nownews.com/news/20190130/3206231/> |work=NOWnews 今日新聞 |date=2019-01-30 |language=zh-TW}}
+19.  產經 {{\!}} 重點新聞 {{\!}} 中央社 CNA |url=<https://www.cna.com.tw/news/firstnews/201902030102.aspx> |work=中央社 |language=zh-TW}}

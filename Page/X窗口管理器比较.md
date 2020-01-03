@@ -732,7 +732,7 @@
 1.
 2.
 3.
-4.  <https://git.enlightenment.org/core/enlightenment.git>
+4.
 5.  README in EvilWM distribution
 6.
 7.  <http://fluxbox.sourceforge.net/docs/ewmh-support.html>

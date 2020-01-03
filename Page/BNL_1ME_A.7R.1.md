@@ -9,7 +9,7 @@
 
   - [Cellosaurus entry for BNL 1ME A.7R.1](https://web.expasy.org/cellosaurus/CVCL_6371)
 
-[Category:人類細胞系](https://zh.wikipedia.org/wiki/Category:人類細胞系 "wikilink")
+[Category:細胞系](https://zh.wikipedia.org/wiki/Category:細胞系 "wikilink")
 
 1.
 2.

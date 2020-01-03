@@ -1,13 +1,13 @@
 > 本文内容由[Soar \(認知架構\)](https://zh.wikipedia.org/wiki/Soar_\(認知架構\))转换而来。
 
 
-**Soar** \[1\]是一种[認知架構](../Page/認知架構.md "wikilink") ，\[2\]最初是由約翰·萊爾德([John Laird](https://zh.wikipedia.org/wiki/约翰E.莱尔德 "wikilink"))、[艾伦·纽厄尔](../Page/艾伦·纽厄尔.md "wikilink")和[卡内基·梅隆大学](../Page/卡内基·梅隆大学.md "wikilink")的保羅·羅森布魯姆[(Paul Rosenbloom)](http://cs.usc.edu/~rosenblo/)创建。现在由萊爾德在[密西根大学的研究小组](../Page/密歇根大学.md "wikilink")[维护和开发](https://soar.eecs.umich.edu/) 。
+**Soar** \[1\]是一种[認知架構](../Page/認知架構.md "wikilink") ，\[2\]最初是由約翰·萊爾德([John Laird](https://zh.wikipedia.org/wiki/约翰E.莱尔德 "wikilink"))、[艾伦·纽厄尔](../Page/艾伦·纽厄尔.md "wikilink")和[卡内基·梅隆大学](../Page/卡内基·梅隆大学.md "wikilink")的保羅·羅森布魯姆[(Paul Rosenbloom)](https://web.archive.org/web/20100226174658/http://cs.usc.edu/~rosenblo/)创建。现在由萊爾德在[密西根大学的研究小组](../Page/密歇根大学.md "wikilink")[维护和开发](https://soar.eecs.umich.edu/) 。
 
 Soar项目的目标是开发通用[智能代理所需的固定计算構件](https://zh.wikipedia.org/wiki/智能代理 "wikilink") ，可以执行廣泛的任务，并编码、使用和学习所有类型的知识，以实现人类全部的认知能力，如决策、问题解决、计划和自然语言理解。Soar既是[认知理论](https://zh.wikipedia.org/wiki/認知 "wikilink")，也是该理论的计算实现。自1983年萊爾德發表论文以来，人工智能研究人员已經根據不同的[人类行为面向](https://zh.wikipedia.org/wiki/人的行为 "wikilink")，廣泛使用Soar来创建智能代理和[认知模型](../Page/認知模型.md "wikilink") 。目前對Soar最全面的描述是2012年出版的《Soar認知結構》。\[3\]
 
 ## 理论
 
-Soar涵蓋了[通用智能在计算结构上的多个假设](../Page/強人工智慧.md "wikilink")，而當中有许多假設与其他认知架构是相通的，包括由[约翰·罗伯特·安德森](../Page/约翰·罗伯特·安德森.md "wikilink")创建的[ACT-R](../Page/ACT-R.md "wikilink")以及史丹·富蘭克林([Stan Franklin](https://zh.wikipedia.org/wiki/斯坦富兰克林 "wikilink"))创建的[LIDA](https://zh.wikipedia.org/wiki/LIDA（認知架構） "wikilink") 。最近，Soar著重於通用AI(功能和效率)，而ACT-R著重於[认知建模](../Page/認知模型.md "wikilink") (對人類認知的詳細建模)。
+Soar涵蓋了[通用智能在计算结构上的多个假设](../Page/強人工智慧.md "wikilink")，而當中有许多假設与其他认知架构是相通的，包括由[约翰·罗伯特·安德森](../Page/约翰·罗伯特·安德森.md "wikilink")创建的[ACT-R](../Page/ACT-R.md "wikilink")以及史丹·富蘭克林([Stan Franklin](https://zh.wikipedia.org/wiki/斯坦富兰克林 "wikilink"))创建的[LIDA (認知架構)](https://zh.wikipedia.org/wiki/LIDA_\(認知架構\) "wikilink") 。最近，Soar著重於通用AI(功能和效率)，而ACT-R著重於[认知建模](../Page/認知模型.md "wikilink") (對人類認知的詳細建模)。
 
 在[艾伦·纽厄尔](../Page/艾伦·纽厄尔.md "wikilink")的书“ [認知统一理论](https://zh.wikipedia.org/wiki/認知统一理論 "wikilink") ”中，描述了最早構成Soar基礎的认知理论「问题空间假设」， \[4\]這也追溯到最早期的人工智能系統之一，由[纽厄尔](../Page/艾伦·纽厄尔.md "wikilink")、[西蒙和Shaw在](../Page/司马贺.md "wikilink")1955年提出的[逻辑理论家](../Page/逻辑理论家.md "wikilink")。问题空间假设认为，在嘗試實現目標時，所有目標導向的行為都可以被看作是對可能狀態空間的搜索（[问题空间](https://zh.wikipedia.org/wiki/问题域 "wikilink")）。每個步驟都會選擇一個運算元(Operator)，將其應用到代理的當前狀態，這可能導致內部發生變化，比如從長期記憶、世界的改變或外部行為中提取知識。（Soar的名字源于狀態、運算元和結果(State、Operator And Result)的基本循环;但是，它不再被视为縮寫字。）問題空間假設的本質是，即使是像規劃這樣複雜的活動，所有行為都可以分解為一系列選擇及應用的原始運算元，而這些選擇及應用映射到人類行為上需要大約50ms的時間。
 

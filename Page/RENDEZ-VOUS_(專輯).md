@@ -138,12 +138,14 @@
 </tr>
 <tr class="odd">
 <td><ul>
+<li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>
 <li>「[1]」：三星期冠軍</li>
 </ul>
 <ul>
 <li>「{1}」：四星期冠軍</li>
 <li>「*」：打榜中</li>
+<li>「<span style="background:#88bcea">　</span>」：該段時期未有設立排行榜</li>
 </ul></td>
 </tr>
 </tbody>

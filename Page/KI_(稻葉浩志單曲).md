@@ -8,7 +8,7 @@
   - 繼去年發售的專輯『[志庵](../Page/志庵.md "wikilink")』後發售的第2張SOLO單曲。作為單曲，是與前作睽違5年的作品。
   - 新曲主要為3首歌，與「AKATSUKI」不同版本的2曲合計，共收錄了5首歌。
   - 雖然起初預定將「AKATSUKI」作為單曲的標題曲，但根據稻葉「想讓每首歌被平等地聆聽{{\#tag:ref||group="原文"}}」這樣的意向，而採用這種形式發行（據說迷你專輯的形式亦可）。
-  - 標題是稻葉的姓名首字母（**K**OSHI **I**NABA）、敬愛（唱片封面寫了**敬アイ**），似乎亦帶有商業搭配的[K-1](../Page/K-1.md "wikilink")之意。
+  - 標題是稻葉的姓名首字母（Koshi Inaba）、敬愛（唱片套寫了「」，羅馬拼音為「Keiai」音同「K I」），似乎亦帶有[商業搭配](../Page/商業搭配.md "wikilink")的[K-1](../Page/K-1.md "wikilink")之意。
   - 全曲未收錄於專輯。
 
 ## 收錄曲
@@ -32,7 +32,8 @@
 
 ## 商業搭配
 
-  - [日本電視台](../Page/日本電視台.md "wikilink")系「」片尾曲/日本電視台系「[K1 JAPAN](../Page/K-1.md "wikilink")」主題曲(\#1)
+  - [日本電視台](../Page/日本電視台.md "wikilink")系『』片尾曲(\#1)
+  - 日本電視台系『[K1 JAPAN](../Page/K-1.md "wikilink")』主題曲(\#1)
 
 ## 製作人員
 
@@ -54,7 +55,7 @@
 
   - Spin Stealth Spike：[重混](https://zh.wikipedia.org/wiki/重混 "wikilink")(\#3)
 
-  - 篠崎Strings：[弦樂器](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")(\#4)
+  - Strings：[弦樂器](https://zh.wikipedia.org/wiki/弦樂器 "wikilink")(\#4)
 
   - TAMA STRINGS：[管弦樂團](../Page/管弦樂團.md "wikilink")(\#5)
 

@@ -374,6 +374,13 @@
 <td><p>6.4</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>12月30日</p></td>
+<td><p>開始</p></td>
+<td></td>
+<td><p>6.4</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

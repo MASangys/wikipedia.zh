@@ -240,6 +240,27 @@
 <td><p><a href="https://www.youtube.com/watch?v=y1x6NhfB-VU">WANNABE</a></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>12月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
+<td><p><a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠大祝祭</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=8jaM7zlnmWc">INTRO+WANNABE</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://www.youtube.com/watch?v=J9-oUxcIpB8">이름이 뭐예요+CALL ME BABY</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年</p></td>
+<td><p>1月2日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=aNIBj1QoemI">WANNABE</a></p></td>
+</tr>
 </tbody>
 </table>
 

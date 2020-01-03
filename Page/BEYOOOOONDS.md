@@ -284,6 +284,35 @@
   - 「CHICA\#TETSU」中的「CHICA」在西班牙語中代表「女孩子」的意思，「TETSU」則代表「哲學」。「CHICA\#TETSU」有著「深思熟慮的女孩子」的意思。希望能夠透過表演的方式來呈現出，女孩子內心的秘密及纖細的感情。\[10\]\[11\]
   - 「雨ノ森 川海」(簡稱：RFRO；Rain Forest River Ocean。)就像雨水環繞著整座森林悠悠的落下，落在樹葉上的水滴慢慢的滴入河中，河水再蔓延至大海。會永遠不斷地循環下去。而水正是給予我們生命的泉源。這樣的團名代表著「自然」及「生命之源」的意思。希望她們能夠成為一個能夠滋潤人們想法的團體。\[12\]\[13\]
 
+## 歷史
+
+### 2017年
+
+  - 5月5日，於[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")中所舉辦的「Hello\! Project 研修生発表会2017 〜春の公開実力診断テスト〜」上宣布[一岡伶奈](../Page/BEYOOOOONDS.md "wikilink")、[川村文乃](../Page/ANGERME.md "wikilink")、[段原瑠瑠](../Page/段原瑠瑠.md "wikilink")三人正式升格為[早安家族](../Page/早安家族.md "wikilink")成員。[高瀬くるみ](../Page/BEYOOOOONDS.md "wikilink")、[清野桃々姫將以演技作為表演中心於](../Page/BEYOOOOONDS.md "wikilink")[早安家族](../Page/早安家族.md "wikilink")中進行活動。
+  - 6月26日，在[早安家族](../Page/早安家族.md "wikilink")的[Youtube節目](https://zh.wikipedia.org/wiki/Youtube "wikilink")「ハロ\!ステ号外〜ハロー\!プロジェクト2017新体制決定スペシャル〜」中宣布由[一岡伶奈擔任新團隊長一職](../Page/BEYOOOOONDS.md "wikilink")。
+
+### 2018年
+
+  - 3月30日，宣布組成「由[一岡伶奈擔任隊長的新團](../Page/BEYOOOOONDS.md "wikilink")」及「[高瀬くるみ](../Page/BEYOOOOONDS.md "wikilink")、[清野桃々姫在籍的新團](../Page/BEYOOOOONDS.md "wikilink")」並且宣布展開徵選活動。
+  - 5月11日，宣布舉辦「ハロー\!プロジェクト“ONLY YOU”オーディション」。
+  - 6月9日，於[Zepp Tokyo中所舉辦的](../Page/Zepp.md "wikilink")「Hello\! Project 研修生発表会2018 6月 〜にじ〜」上宣布[島倉りか](../Page/BEYOOOOONDS.md "wikilink")、[西田汐里](../Page/BEYOOOOONDS.md "wikilink")、[江口紗耶加入](../Page/BEYOOOOONDS.md "wikilink")[一岡伶奈擔任隊長的新團](../Page/BEYOOOOONDS.md "wikilink")；[前田こころ](../Page/BEYOOOOONDS.md "wikilink")、[山﨑夢羽](../Page/BEYOOOOONDS.md "wikilink")、[岡村美波加入](../Page/BEYOOOOONDS.md "wikilink")[高瀬くるみ](../Page/BEYOOOOONDS.md "wikilink")、[清野桃々姫在籍的新團](../Page/BEYOOOOONDS.md "wikilink")。
+  - 7月14日於「Hello\! Project 20th Anniversary\!\! Hello\! Project 2018 SUMMER」中，以新團體的名義表演[DA PUMP的樂曲](../Page/DA_PUMP.md "wikilink")「U.S.A.」。
+  - 9月26日，以新團的名義參加[Hello\!Pro ALL STARS所發行新單曲](../Page/早安家族.md "wikilink")「YEAH YEAH YEAH/憧れのStress-free/花、闌の時」。
+  - 10月19日，公布[一岡伶奈擔任隊長的新團名稱為](../Page/BEYOOOOONDS.md "wikilink")[CHICA\#TETSU](../Page/BEYOOOOONDS.md "wikilink")；[高瀬くるみ](../Page/BEYOOOOONDS.md "wikilink")、[清野桃々姫在籍的新團名稱為](../Page/BEYOOOOONDS.md "wikilink")[雨之森川海](../Page/BEYOOOOONDS.md "wikilink")。並且宣布與「ハロー\!プロジェクト“ONLY YOU”オーディション」中所合格的成員組成新團，名為【BEYOOOOONDS】。
+  - 12月3日，於「山野ホール」中所舉辦的活動「BEYOOOOONDS 〜冬の陣 ZIN〜」上宣布「ハロー\!プロジェクト“ONLY YOU”オーディション」合格者為[平井美葉](../Page/BEYOOOOONDS.md "wikilink")、[小林萌花](../Page/BEYOOOOONDS.md "wikilink")、[里吉うたの三名](../Page/BEYOOOOONDS.md "wikilink")。
+
+### 2019年
+
+  - 4月18日-4月29日，首次主演舞台劇「全労済ホール/スペース・ゼロ提携公演 演劇女子部『不思議の国のアリスたち』」。
+  - 4月19日，宣布擔任「愛踊祭2019」公式宣傳大使。
+  - 4月30日，於「山野ホール」中所舉辦的活動「BEYOOOOONDS 応援企画FCイベント2019 〜晩春の陣 ZIN〜」宣布【BEYOOOOONDS】將於8月7日正式主流出道。
+  - 8月7日，主流出道單曲[戴眼鏡的男子 / 日本D・N・A\! / Go Waist獲得](https://zh.wikipedia.org/wiki/戴眼鏡的男子_/_日本D・N・A!_/_Go_Waist "wikilink")[Oricon](../Page/Oricon.md "wikilink")單曲周榜第一。
+  - 11月14日-24日，與前輩[玉蘭花 Factoryactory](../Page/Kobushi_Factory.md "wikilink")\]\]共同主演舞台劇「こくみん共済 coop ホール／スペース・ゼロ提携公演 演劇女子部『リボーン〜13人の魂は神様の夢を見る〜」。
+  - 11月27日，首張專輯「BEYOOOOOND₁St」發售。
+  - 12月2日-17日，宣布舉辦BEYOOOOONDS初LIVE「LIVE BEYOOOOOND₁St」（全3都市3公演）。
+  - 12月30日，第61回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")最優秀新人賞・受賞。
+  - 12月31日，於「Hello\! Project COUNTDOWN PARTY 2019 ～ GOOD BYE & HELLO \! ～」中宣布將於2020年舉辦單獨LIVE TOUR「BEYOOOOONDS 1ST LIVE TOUR 2020 ～ポップ！ステップ！全音符！！～」。
+
 ## 作品
 
 ### 單曲
@@ -383,7 +412,7 @@
   - [雨之森 川海 官方博客](https://ameblo.jp/beyooooonds-rfro/)(日文)
   - [Hello\!Project ONLY YOU征選會合格者 官方博客](https://ameblo.jp/beyooooonds/)(日文)
 
-[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:BEYOOOOONDS](https://zh.wikipedia.org/wiki/Category:BEYOOOOONDS "wikilink")
+[Category:Hello\!_Project](https://zh.wikipedia.org/wiki/Category:Hello!_Project "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink") [Category:BEYOOOOONDS](https://zh.wikipedia.org/wiki/Category:BEYOOOOONDS "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
 
 1.
 2.

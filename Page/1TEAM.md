@@ -101,7 +101,7 @@
 <ul>
 <li>發行日期：2019年11月6日</li>
 <li>語言：韓語</li>
-<li>銷量：4,484[10]</li>
+<li>銷量：4,484+[10]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -138,6 +138,7 @@
 | 2019年9月12-13日            | MBC           | 中秋偶像明星運動會          | 帝現、政勳    |       |
 | 2019年11月22日              | TBS           | FACT IN STAR       | 全體       |       |
 | 2019年11月28日              | ARIRANG K-POP | After School Club  | 全體       |       |
+| 2020年                    | MBC           | 春節偶像明星運動會          | 全體       |       |
 
 ### 專屬節目
 
@@ -159,6 +160,7 @@
 | 2019年11月13日 | NAVER NOW     | 深夜IDOL (DJ：河成雲) | 全體    |          |
 | 2019年11月18日 | SBS LOVE FM   | 申彗星的音樂奧德賽       | 全體    | 可視       |
 | 2019年11月22日 | MBC RADIO     | IDOL RADIO      | 婁彬、鎭祐 | 11/18 錄製 |
+| 2020年1月1日   | NAVER NOW     | 深夜IDOL (DJ：河成雲) | 全體    |          |
 
 ## 公演活動
 
@@ -208,5 +210,5 @@
 7.
 8.
 9.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)
-10. [2019.11](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2019&termGbn=month)
+10. [2019年11月GAON專輯榜50位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2019&termGbn=month)
 11.

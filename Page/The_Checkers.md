@@ -173,7 +173,7 @@
 
 ## 參考資料
 
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:1980年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1980年成立的音樂團體 "wikilink") [Category:1992年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年解散的音樂團體 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:1980年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1980年成立的音樂團體 "wikilink") [Category:1992年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年解散的音樂團體 "wikilink") [Category:Oricon單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon單曲年榜冠軍獲得者 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink")
 
 1.
 2.

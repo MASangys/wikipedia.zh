@@ -1,7 +1,7 @@
 > 本文内容由[法證先鋒IV](https://zh.wikipedia.org/wiki/法證先鋒IV)转换而来。
 
 
-《**法證先鋒IV**》（），是香港電視廣播有限公司拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第四輯，取用[阿萊](../Page/阿萊.md "wikilink")[艾麗莎](https://zh.wikipedia.org/wiki/艾麗莎 "wikilink")[攝影機](../Page/攝影機.md "wikilink")拍攝。此劇由[黃浩然](../Page/黃浩然.md "wikilink")、[李施嬅](../Page/李施嬅.md "wikilink")、[譚俊彥](../Page/譚俊彥.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")、[朱晨麗及](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")[湯洛雯](../Page/湯洛雯.md "wikilink")領銜主演，由[鄭希怡](../Page/鄭希怡.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張頴康](../Page/張頴康.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[海俊傑](../Page/海俊傑.md "wikilink")及[康華](../Page/康華.md "wikilink")聯合主演，並由[張曦雯](../Page/張曦雯.md "wikilink")\[1\]、[謝賢](../Page/謝賢.md "wikilink")、[米雪](../Page/米雪.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")及[麥玲玲](../Page/麥玲玲.md "wikilink")特別演出，編審[梁敏華](../Page/梁敏華.md "wikilink")、[阮美鳳](../Page/阮美鳳.md "wikilink")、[冼翠貞](../Page/冼翠貞.md "wikilink")，監製[方俊華](../Page/方俊華.md "wikilink")，總監製[梅小青](../Page/梅小青.md "wikilink")，出品人為[杜之克](../Page/杜之克.md "wikilink")。\[2\]該輯的故事與前三輯無關。
+《**法證先鋒IV**》（），是香港電視廣播有限公司拍攝製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，[法證先鋒系列](../Page/法證先鋒系列.md "wikilink")第四輯，取用[阿萊](../Page/阿萊.md "wikilink")[艾麗莎](https://zh.wikipedia.org/wiki/艾麗莎 "wikilink")[攝影機](../Page/攝影機.md "wikilink")拍攝。此劇由[黃浩然](../Page/黃浩然.md "wikilink")、[李施嬅](../Page/李施嬅.md "wikilink")、[譚俊彥](../Page/譚俊彥.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")、[朱晨麗及](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")[湯洛雯](../Page/湯洛雯.md "wikilink")領銜主演，由[鄭希怡](../Page/鄭希怡.md "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[張頴康](../Page/張頴康.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[海俊傑](../Page/海俊傑.md "wikilink")及[康華](../Page/康華.md "wikilink")聯合主演，並由[張曦雯](../Page/張曦雯.md "wikilink")\[1\]、[陳敏之](../Page/陳敏之.md "wikilink")、[謝賢](../Page/謝賢.md "wikilink")、[米雪](../Page/米雪.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")及[麥玲玲](../Page/麥玲玲.md "wikilink")特別演出，編審[梁敏華](../Page/梁敏華.md "wikilink")、[阮美鳳](../Page/阮美鳳.md "wikilink")、[冼翠貞](../Page/冼翠貞.md "wikilink")，監製[方俊華](../Page/方俊華.md "wikilink")，總監製[梅小青](../Page/梅小青.md "wikilink")，出品人為[杜之克](../Page/杜之克.md "wikilink")。\[2\]該輯的故事與前三輯無關。
 
 此劇為[2019無綫節目巡禮](../Page/2019無綫節目巡禮.md "wikilink")19部劇集之一及2019年[香港國際影視展](../Page/TVB影視展星勢.md "wikilink")10部推介劇集之一及[2020無綫節目巡禮](https://zh.wikipedia.org/wiki/2020無綫節目巡禮 "wikilink")12部劇集之一。
 
@@ -21,18 +21,18 @@
 <td><p><strong>高　安</strong></p></td>
 <td><p>'''高Sir、Colton '''<br />
 高級化驗師<br />
+<a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a>之子<br />
 高靖之兄<br />
 馬靄美、<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>同母異父之兄<br />
-與鄭希怡、徐意有感情線<br />
-<a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a>之子</p></td>
+與徐意、鄭希怡有感情線</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/陳煒.md" title="wikilink">陳　煒</a></strong></p></td>
 <td><p><strong>水慧明</strong></p></td>
 <td><p><strong>Queen姐</strong><br />
 科學鑑證主任<br />
-<a href="../Page/康華.md" title="wikilink">康華</a>之情敵<br />
-與郭輝煌、<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a>有感情線，最終與郭辉煌結婚</p></td>
+與郭輝煌、<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a>有感情線，最終與郭辉煌結婚<br />
+<a href="../Page/康華.md" title="wikilink">康華</a>之情敵</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></strong></p></td>
@@ -40,7 +40,6 @@
 <td><p><strong>Charm</strong><br />
 科學鑑證主任<br />
 與高靖有感情線<br />
-徐意之同屋主<br />
 名字諧音：<strong>暫停</strong></p></td>
 </tr>
 <tr class="odd">
@@ -70,13 +69,13 @@
 <td><p><strong>聞家希</strong></p></td>
 <td><p><strong>Dr. Man</strong><br />
 法醫科高級法醫<br />
-秋姊之雇主<br />
-與施見賢有感情線，最終與施見賢結婚<br />
-司徒勳之上司</p></td>
+秋姊之僱主<br />
+司徒勳之上司<br />
+與施見賢有感情線，最終與其結婚</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張子丰.md" title="wikilink">張子-{丰}-</a></p></td>
-<td><p><strong>司徒勳</strong></p></td>
+<td><p>司徒勳</p></td>
 <td><p>法醫科法醫<br />
 聞家希之助手</p></td>
 </tr>
@@ -102,16 +101,17 @@
 <td><p><strong>郭輝煌</strong></p></td>
 <td><p><strong>King Sir</strong><br />
 高級督察<br />
-與水慧明有感情線，最終与水慧明成為其夫</p></td>
+徐意之包租公<br />
+與水慧明有感情線，最終与其結婚</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a></strong></p></td>
 <td><p><strong>高　靖</strong></p></td>
 <td><p>警長<br />
-黎燕珊之女<br />
+<a href="../Page/黎燕珊.md" title="wikilink">黎燕珊</a>之女<br />
 高安之妹<br />
 馬靄美同母異父之姊<br />
-<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>之同母異父之弟<br />
+<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>之同母異父之妹<br />
 與湛霆有感情線</p></td>
 </tr>
 <tr class="even">
@@ -170,7 +170,8 @@
 <td><p><strong><a href="../Page/湯洛雯.md" title="wikilink">湯洛雯</a></strong></p></td>
 <td><p><strong>徐　意</strong></p></td>
 <td><p><strong>Chris</strong><br />
-記者<br />
+《焦點觸覺》記者<br />
+郭輝煌之租客<br />
 與高安有感情線<br />
 <a href="../Page/鄭希怡.md" title="wikilink">鄭希怡</a>之情敵<br />
 名字諧音：<strong>隨意</strong></p></td>
@@ -205,14 +206,14 @@
 <td><p><strong><a href="../Page/海俊傑.md" title="wikilink">海俊傑</a></strong></p></td>
 <td><p><strong>施見賢</strong></p></td>
 <td><p>聲紋專家<br />
-與聞家希有感情線，最後與聞家希結婚</p></td>
+與聞家希有感情線，最終與其結婚</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/康華.md" title="wikilink">康　華</a></strong></p></td>
 <td></td>
 <td><p>文員<br />
-水慧明之情敵<br />
-與<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a>有感情線</p></td>
+與<a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a>有感情線<br />
+水慧明之情敵</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -263,7 +264,7 @@
 <tr class="odd">
 <td><p><a href="../Page/鄭子誠.md" title="wikilink">鄭子誠</a></p></td>
 <td></td>
-<td></td>
+<td><p>與水慧明、<a href="../Page/康華.md" title="wikilink">康華</a>有感情線</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳志健.md" title="wikilink">陳志健</a></p></td>
@@ -459,20 +460,21 @@
 
 ## 軼事
 
-  - 此劇是[刘家聪](https://zh.wikipedia.org/wiki/刘家聪 "wikilink")（時隔11年）、[海俊傑](../Page/海俊傑.md "wikilink")（時隔18年）再度回巢[無綫電視的首部電視劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
-  - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[康華](../Page/康華.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[陸詩韻](../Page/陸詩韻.md "wikilink")、[李美慧](../Page/李美慧.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[呂珊](../Page/呂珊.md "wikilink")、[朱匯林和](https://zh.wikipedia.org/wiki/朱匯林 "wikilink")[林子超繼](../Page/林子超_\(藝人\).md "wikilink")《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》後再度合作。
-  - 此劇是[黃浩然](../Page/黃浩然.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")和[朱晨麗继](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度合作。
-  - 此劇是[譚俊彥](../Page/譚俊彥.md "wikilink")和[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[特技人](https://zh.wikipedia.org/wiki/特技人 "wikilink")》後再度合作。
-  - 此劇是[黎燕珊](../Page/黎燕珊.md "wikilink")、[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度飾演母女。
-  - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")、[謝賢](../Page/謝賢.md "wikilink")離開[亞洲電視](../Page/亞洲電視.md "wikilink")後再度合作。
-  - 此劇是[鄭俊弘](../Page/鄭俊弘.md "wikilink")繼《[法證先鋒](../Page/法證先鋒.md "wikilink")》, 《[法證先鋒II](../Page/法證先鋒II.md "wikilink")》後再度參演法證系列。
+  - 此劇是[刘家聪](https://zh.wikipedia.org/wiki/刘家聪 "wikilink")（時隔11年）及[海俊傑](../Page/海俊傑.md "wikilink")（時隔18年）再度回巢[無綫電視的首部電視劇](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
+  - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[康華](../Page/康華.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[陸詩韻](../Page/陸詩韻.md "wikilink")、[李美慧](../Page/李美慧.md "wikilink")、[謝芷倫](../Page/謝芷倫.md "wikilink")、[曾偉權](../Page/曾偉權.md "wikilink")、[呂珊](../Page/呂珊.md "wikilink")、[朱匯林及](https://zh.wikipedia.org/wiki/朱匯林 "wikilink")[林子超繼](../Page/林子超_\(藝人\).md "wikilink")《[宮心計2深宮計](https://zh.wikipedia.org/wiki/宮心計2深宮計 "wikilink")》後再度合作。
+  - 此劇是[譚俊彥](../Page/譚俊彥.md "wikilink")及[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[特技人](https://zh.wikipedia.org/wiki/特技人 "wikilink")》後再度合作。
+  - 此劇是[黃浩然](../Page/黃浩然.md "wikilink")、[陳煒](../Page/陳煒.md "wikilink")、[朱晨麗及](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")[黎燕珊](../Page/黎燕珊.md "wikilink")繼《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度合作。
+  - 此劇是[黎燕珊](../Page/黎燕珊.md "wikilink")及[朱晨麗繼](https://zh.wikipedia.org/wiki/朱晨麗 "wikilink")《[多功能老婆](../Page/多功能老婆.md "wikilink")》後再度飾演母女。
+  - 此劇是[陳煒](../Page/陳煒.md "wikilink")、[謝雪心](../Page/謝雪心.md "wikilink")、[張文慈](../Page/張文慈.md "wikilink")、[黎燕珊](../Page/黎燕珊.md "wikilink")、[黃浩然](../Page/黃浩然.md "wikilink")、[鮑起靜](../Page/鮑起靜.md "wikilink")及[謝賢](../Page/謝賢.md "wikilink")離開[亞洲電視](../Page/亞洲電視.md "wikilink")後再度合作。
+  - 此劇是[鄭俊弘](../Page/鄭俊弘.md "wikilink")繼《[法證先鋒](../Page/法證先鋒.md "wikilink")》及《[法證先鋒II](../Page/法證先鋒II.md "wikilink")》後再度參演法證系列。
   - 此劇「徐意」一角原定由[黃心穎](../Page/黃心穎.md "wikilink")飾演，惟因[安心偷食事件而受影響](../Page/許志安與黃心穎出軌事件.md "wikilink")，其後改由[湯洛雯](../Page/湯洛雯.md "wikilink")飾演，並於2019年6月開始重拍其角色所有戲份\[3\]\[4\]\[5\]\[6\]。
-  - 此劇是[李施嬅](../Page/李施嬅.md "wikilink")、[溫家偉](../Page/溫家偉.md "wikilink")在無綫電視之告別作。
+  - 此劇是[李施嬅](../Page/李施嬅.md "wikilink")及[溫家偉](../Page/溫家偉.md "wikilink")在無綫電視的告別作。
 
 ## 參考資料
 
 ## 外部連結
 
+  - [湯洛雯加入《法證先鋒IV》 以最佳狀態上陣 - TVB Weekly](http://tvbweekly.com/c/details.asp?page=entertainment&subid=20621)
   - [《法證先鋒IV》最新消息 - Instagram](https://www.instagram.com/explore/tags/法證先鋒IV)
   - [《法證先鋒4》最新消息 - Instagram](https://www.instagram.com/explore/tags/法證先鋒4)
   - [《法證先鋒IV》香港國際影視展2019](https://www.youtube.com/watch?v=8XTPMDL6udo#t=46m40s)

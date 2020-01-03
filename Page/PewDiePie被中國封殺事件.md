@@ -60,7 +60,7 @@ PewDiePie知悉自己被封殺後，發表了推文，稱「哥们，這真的�
   - [PewDiePie 發布的短片：Hong Kong vs Joker Ends Fortnite \[MEME REVIEW\]](https://www.youtube.com/watch?v=OhWZavn2OvM)
   - [PewDiePie 發布的短片：Pewdiepie Is BANNED in China](https://www.youtube.com/watch?v=8HehfOtRbUk)
 
-[Category:2019年爭議](https://zh.wikipedia.org/wiki/Category:2019年爭議 "wikilink") [Category:2019年政治](https://zh.wikipedia.org/wiki/Category:2019年政治 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:封鎖](https://zh.wikipedia.org/wiki/Category:封鎖 "wikilink") [Category:政治](https://zh.wikipedia.org/wiki/Category:政治 "wikilink") [Category:香港反對逃犯條例修訂草案運動](https://zh.wikipedia.org/wiki/Category:香港反對逃犯條例修訂草案運動 "wikilink")
+[Category:2019年爭議](https://zh.wikipedia.org/wiki/Category:2019年爭議 "wikilink") [Category:2019年中国政治事件](https://zh.wikipedia.org/wiki/Category:2019年中国政治事件 "wikilink") [Category:2019年中国网络事件](https://zh.wikipedia.org/wiki/Category:2019年中国网络事件 "wikilink") [Category:中国网络审查](https://zh.wikipedia.org/wiki/Category:中国网络审查 "wikilink") [Category:香港反對逃犯條例修訂草案運動](https://zh.wikipedia.org/wiki/Category:香港反對逃犯條例修訂草案運動 "wikilink") [Category:2019年10月](https://zh.wikipedia.org/wiki/Category:2019年10月 "wikilink")
 
 1.
 2.

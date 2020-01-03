@@ -186,6 +186,11 @@
 <td><p>嘉賓<br />
 於馬鞍山廣場L2天幕廣場舉行</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年12月31日</p></td>
+<td><p>ViuTV《香港除夕倒數》</p></td>
+<td><p>嘉賓</p></td>
+</tr>
 </tbody>
 </table>
 

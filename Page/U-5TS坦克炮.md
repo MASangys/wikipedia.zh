@@ -98,8 +98,7 @@
 
 ### 蘇聯次世代的武器
 
-  - ——擬安裝在[T-64主战坦克](../Page/T-64主战坦克.md "wikilink")的115毫米火炮。
-
+  - [D-68坦克炮](https://zh.wikipedia.org/wiki/D-68坦克炮 "wikilink")——所搭載的115毫米火炮。
   - [2A46坦克炮](../Page/2A46坦克炮.md "wikilink")
 
 ## 資料來源

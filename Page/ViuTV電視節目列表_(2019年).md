@@ -130,7 +130,7 @@ Ryan and Victoria's Cooking Adventure</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>05/08-<br />
-24/02<br />
+02/03<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><br />
 Senior Cuisine</p></td>
@@ -968,11 +968,11 @@ C9 Tour</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>30/12-<br />
-<br />
+17/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/香港親善小姐" title="wikilink">香港親善小姐</a><br />
-Miss GoodViu</p></td>
-<td style="text-align: center;"></td>
+Miss Goodviu</p></td>
+<td style="text-align: center;"><p>14</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/楊思琦.md" title="wikilink">楊思琦</a>、<a href="../Page/向海嵐.md" title="wikilink">向海嵐</a>、<a href="../Page/譚小環.md" title="wikilink">譚小環</a>、<a href="https://zh.wikipedia.org/wiki/李綺虹" title="wikilink">李綺虹</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>|<strong>真人騷/旅遊節目</strong></p></td>
@@ -1090,11 +1090,11 @@ The Haunted Rooms 4</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>30/12-<br />
-<br />
+17/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><br />
-</p></td>
-<td style="text-align: center;"></td>
+Divorce Tour</p></td>
+<td style="text-align: center;"><p>15</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<a href="../Page/葉蘊儀.md" title="wikilink">葉蘊儀</a>、、<a href="../Page/趙頌茹.md" title="wikilink">趙頌茹</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>|<strong>真人騷/旅遊節目</strong></p></td>
@@ -1212,7 +1212,7 @@ Crime</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="https://zh.wikipedia.org/wiki/可宜" title="wikilink">可宜</a>、<a href="https://zh.wikipedia.org/wiki/胡莉芹" title="wikilink">花家姐</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/talker-crime">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
-3月12日及10月1日暫停播映</p></td>
+3月12日、10月1日及12月31日暫停播映</p></td>
 </tr>
 </tbody>
 </table>
@@ -1537,7 +1537,7 @@ PK Trip</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>28/12-<br />
-<br />
+21/03<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/Crime_Scene_犯罪現場.md" title="wikilink">犯罪現場</a>（第二季）<br />
 Crime Scene (II)</p></td>
@@ -1876,7 +1876,7 @@ Time Traveler</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>12/10-<br />
-11/01<br />
+18/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><br />
 Sudden Tour</p></td>
@@ -1957,7 +1957,7 @@ Challenge 1996</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>05/10-<br />
-11/01<br />
+18/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/挑戰1997" title="wikilink">挑戰1997</a><br />
 Challenge 1997</p></td>
@@ -2175,7 +2175,7 @@ Station Stories</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>30/11-<br />
 07/12</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/泰食力" title="wikilink">泰食力</a><br />
+<td style="text-align: center;"><p><br />
 Exquisite Thai</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>主持：</p></td>
@@ -2387,7 +2387,7 @@ Kay Alone</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>28/12</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">Mirror 成軍一週年</a><br />
-</p></td>
+MIRROR 1st Anniversary</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p>演出：<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a></p></td>
 <td style="text-align: center;"></td>
@@ -2618,8 +2618,7 @@ E-sport</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>18/08-<br />
-05/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+29/12</p></td>
 <td style="text-align: center;"><p><br />
 Chubby Honey</p></td>
 <td style="text-align: center;"><p>13</p></td>
@@ -2627,7 +2626,7 @@ Chubby Honey</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2018年).md" title="wikilink">2018年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-8月18日、25日及11月17日改為00:30-01:00播出，9月1日、8日、10月13日、11月3日、11月24日至12月8日及12月29日暫停播映</p></td>
+8月18日、25日及11月17日改為00:30-01:00播出，9月1日、8日、10月13日、11月3日、11月24日至12月8日暫停播映</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2681,7 +2680,7 @@ Low Gear</p></td>
 <p><span style="font-size:larger;"><strong>重播節目：</strong><a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
-11月17日、24日及12月29日改為01:00-02:00播出</p></td>
+11月17日及24日改為01:00-02:00播出</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -2847,7 +2846,7 @@ Taiwan Motel Travelodge</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>29/09-<br />
-05/01<br />
+12/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/台灣民宿_貳" title="wikilink">台灣民宿 貳</a><br />
 Taiwan Minsu 2</p></td>
@@ -2856,10 +2855,8 @@ Taiwan Minsu 2</p></td>
 <p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2017年).md" title="wikilink">2017年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-重播<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台節目</a>，11月17日、12月15日及29日暫停播映 &lt;!-- |-</p></td>
-<td style="text-align: center;"><p>29/12-<br />
-<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+重播<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台節目</a>，11月17日、12月15日及29日暫停播映</p></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -2935,7 +2932,7 @@ Good Job in Japan</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>27/10-<br />
-05/01<br />
+12/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><br />
 Begin Again</p></td>
@@ -2945,10 +2942,8 @@ Begin Again</p></td>
 <p><span style="font-size:larger;"><strong>重播節目</strong>：<a href="../Page/ViuTV電視節目列表_(2016年).md" title="wikilink">2016年ViuTV節目</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
-11月3日、12月15日至29日暫停播映 &lt;!-- |-</p></td>
-<td style="text-align: center;"><p>29/12-<br />
-<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
+11月3日、12月15日至29日暫停播映</p></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -3149,11 +3144,11 @@ Fashion Interns</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>27/10-<br />
-<br />
+19/01<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/老點你" title="wikilink">老點你</a><br />
+<td style="text-align: center;"><p><br />
 Senior Says</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/陳潔珍" title="wikilink">陳潔珍</a>、<a href="https://zh.wikipedia.org/wiki/葉惠而" title="wikilink">葉惠而</a>、<a href="https://zh.wikipedia.org/wiki/李錦成" title="wikilink">李錦成</a>、<a href="https://zh.wikipedia.org/wiki/連瑞庭" title="wikilink">連瑞庭</a>、<a href="https://zh.wikipedia.org/wiki/羅金成" title="wikilink">羅金成</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>文化節目</strong></p></td>
@@ -3236,7 +3231,7 @@ Explore Tottori with Kids</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>24/11-<br />
-<br />
+29/03<br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/暗中旅行.md" title="wikilink">暗中旅行</a><br />
 Travel In Darkness</p></td>
@@ -3337,7 +3332,7 @@ Wonder Lady Wonderland</p></td>
 <td style="text-align: center;"><p>03/11-<br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/設計香港" title="wikilink">設計香港</a><br />
+<td style="text-align: center;"><p><br />
 Designers in Hong Kong</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -3407,7 +3402,7 @@ Craft a Live 2</p></td>
 <td style="text-align: center;"><p>15/09-<br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/藝術團睇" title="wikilink">藝術團睇</a><br />
+<td style="text-align: center;"><p><br />
 Art Hospitality Group</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主持：、、</p></td>
@@ -3468,7 +3463,7 @@ STEM</p></td>
 <td style="text-align: center;"><p>29/09-<br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/小記者大人物" title="wikilink">小記者大人物</a><br />
+<td style="text-align: center;"><p><br />
 Big World in Tiny Eyes</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -3562,10 +3557,10 @@ A Wanderlust for Fuji</p></td>
 <td style="text-align: center;"><p>27/10-<br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/ViuTV電視節目列表_(2020年)" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/職時交換" title="wikilink">職時交換</a><br />
+<td style="text-align: center;"><p><br />
 Job Exchange</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：</p></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/job-exchange">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 12月15日暫停播映，12月29日改為28日（星期六）19:30-20:00播出</p></td>
@@ -4030,6 +4025,18 @@ Alan's Show 2019</p></td>
 <td style="text-align: center;"><p><a href="https://viu.tv/encore/alans-show-2-01-9">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong><br />
 播映時間為22:45-23:45</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>31/12</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2019中國好聲音" title="wikilink">2019中國好聲音</a><br />
+2019 Sing! China</p></td>
+<td style="text-align: center;"><p>1<br />
+(15)</p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/胡喬華" title="wikilink">華少</a>、<a href="../Page/伊一.md" title="wikilink">伊一</a><br />
+評委：<a href="../Page/王力宏.md" title="wikilink">王力宏</a>、<a href="../Page/那英.md" title="wikilink">那英</a>、<a href="../Page/庾澄慶.md" title="wikilink">庾澄慶</a>、<a href="../Page/李榮浩.md" title="wikilink">李榮浩</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>歌唱比賽節目</strong><br />
+外購節目（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a>），重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix</a>節目，不設粵語配音，只播映第15期（澳門演唱會）一集，播映時間為13:30-15:30</p></td>
 </tr>
 </tbody>
 </table>

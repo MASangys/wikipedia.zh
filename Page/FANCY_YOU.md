@@ -29,9 +29,9 @@
 
 ## 評價
 
-截至2019年7月15日，在[豆瓣](../Page/豆瓣.md "wikilink")音乐上根據1707人的评价獲得了6.5顆星的評價\[33\]。LWOS life在標題寫道「TWICE用這張迷你專輯改變了他們的劇本」，認為團體在改變風格的同時，仍保有先前所擁有的特色\[34\]。的蔡斯·麥克馬倫（Chase McMullen）給予專輯8/10分，並寫到不管粉絲如何爭論哪首是TWICE最好的歌，他們都提供了值得信賴且可靠的音樂\[35\]。
+截至2019年7月15日，在[豆瓣](../Page/豆瓣.md "wikilink")音乐上根據1707人的评价獲得了6.5顆星的評價\[33\]。LWOS life在標題寫道「TWICE用這張迷你專輯改變了他們的劇本」，認為團體在改變風格的同時，仍保有先前所擁有的特色\[34\]。的蔡斯·麥克馬倫（Chase McMullen）給予專輯8/10分，並寫到不管粉絲如何爭論哪首是TWICE最好的歌，他們都提供了值得信賴且可靠的音樂\[35\]。《[billboard](../Page/告示牌_\(雜誌\).md "wikilink")》將專輯選為2010年間最好的25張專輯之一，評論員约书亚·卡利克斯托（Joshua Calixto）認為即使這次的風格和先前相比都有巨大的變化，它還是TWICE\[36\]。
 
-[噓！星聞的陳皓嬿評論這次的轉型與](../Page/聯合新聞網.md "wikilink")[爱莉安娜·格兰德](../Page/爱莉安娜·格兰德.md "wikilink")相似且是張「新起點就是返回原點」的專輯。除了〈STRAWBERRY〉，專輯大部分的歌曲曲風為[復古迪斯可和](../Page/迪斯科.md "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")，和原本「甜美可愛」的風格相比，這次轉變為帶點性感的「俐落強勢」\[36\]。thebiaslist給予〈FANCY〉8.5分，評論這次的主打歌雖然不是[TWICE發行過最強的](https://zh.wikipedia.org/wiki/TWICE "wikilink")，但卻是此刻最需要的\[37\]。
+[噓！星聞的陳皓嬿評論這次的轉型與](../Page/聯合新聞網.md "wikilink")[爱莉安娜·格兰德](../Page/爱莉安娜·格兰德.md "wikilink")相似且是張「新起點就是返回原點」的專輯。除了〈STRAWBERRY〉，專輯大部分的歌曲曲風為[復古迪斯可和](../Page/迪斯科.md "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")，和原本「甜美可愛」的風格相比，這次轉變為帶點性感的「俐落強勢」\[37\]。thebiaslist給予〈FANCY〉8.5分，評論這次的主打歌雖然不是[TWICE發行過最強的](https://zh.wikipedia.org/wiki/TWICE "wikilink")，但卻是此刻最需要的\[38\]。
 
 ## 曲目
 
@@ -103,44 +103,44 @@
 | 電視台                                                        | 音樂節目名稱                                                                 | 入榜歌曲 | 來源     |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------- | ---- | ------ |
 | FANCY                                                      |                                                                        |      |        |
-| [Mnet](../Page/Mnet媒體.md "wikilink")                       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1    | \[38\] |
-| [SBS](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 1    | \[39\] |
-| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1    | \[40\] |
+| [Mnet](../Page/Mnet媒體.md "wikilink")                       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1    | \[39\] |
+| [SBS](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 1    | \[40\] |
+| [MBC Music](../Page/MBC_Plus_Media.md "wikilink")          | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1    | \[41\] |
 
 ### 專輯成績
 
 | 週榜單（2019年）                                                                   | 峰值 | 來源     |
 | ---------------------------------------------------------------------------- | -- | ------ |
-| 澳大利亞數位專輯榜（[澳大利亚唱片业协会榜](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")） | 22 | \[41\] |
-| 法國下載專輯榜（[SNEP](../Page/法國唱片出版業公會.md "wikilink")）                             | 54 | \[42\] |
-| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                          | 1  | \[43\] |
-| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                        | 2  | \[44\] |
-| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")）           | 11 | \[45\] |
-| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink")                                   | 1  | \[46\] |
-| 西班牙專輯榜（[西班牙音樂製作協會](../Page/西班牙音樂製作協會.md "wikilink")）                         | 88 | \[47\] |
-| 台灣日韓榜（5大金榜）                                                                  | 1  | \[48\] |
-| 英國（[官方榜单公司](../Page/官方榜单公司.md "wikilink")）                                   | 34 | \[49\] |
-| 美國數位專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 22 | \[50\] |
-| 美國最佳熱門發現專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                       | 4  | \[51\] |
-| 美國獨立專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 16 | \[52\] |
-| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 4  | \[53\] |
+| 澳大利亞數位專輯榜（[澳大利亚唱片业协会榜](https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜 "wikilink")） | 22 | \[42\] |
+| 法國下載專輯榜（[SNEP](../Page/法國唱片出版業公會.md "wikilink")）                             | 54 | \[43\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                          | 1  | \[44\] |
+| 日本數位專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")）                        | 2  | \[45\] |
+| 日本熱門專輯榜（[日本《告示牌》](https://zh.wikipedia.org/wiki/日本告示牌 "wikilink")）           | 11 | \[46\] |
+| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink")                                   | 1  | \[47\] |
+| 西班牙專輯榜（[西班牙音樂製作協會](../Page/西班牙音樂製作協會.md "wikilink")）                         | 88 | \[48\] |
+| 台灣日韓榜（5大金榜）                                                                  | 1  | \[49\] |
+| 英國（[官方榜单公司](../Page/官方榜单公司.md "wikilink")）                                   | 34 | \[50\] |
+| 美國數位專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 22 | \[51\] |
+| 美國最佳熱門發現專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                       | 4  | \[52\] |
+| 美國獨立專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 16 | \[53\] |
+| 美國世界專輯榜（《[告示牌](../Page/告示牌_\(雜誌\).md "wikilink")》）                           | 4  | \[54\] |
 
 | 月榜單（2019年）                                          | 峰值 | 來源     |
 | --------------------------------------------------- | -- | ------ |
-| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink")          | 2  | \[54\] |
-| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")） | 6  | \[55\] |
+| 韓國[Gaon專輯榜](../Page/Gaon音乐榜.md "wikilink")          | 2  | \[55\] |
+| 日本專輯榜（[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")） | 6  | \[56\] |
 
 ## 銷售及認證
 
 | 國家或地區         | 認證    | 銷量        | 來源     |
 | ------------- | ----- | --------- | ------ |
-| 韓國（）          | 1× 白金 | 250,000\* | \[56\] |
+| 韓國（）          | 1× 白金 | 250,000\* | \[57\] |
 | \*銷售認證計算於實際銷量 |       |           |        |
 
 | 排行榜                                          | 銷量       | 來源           |
 | -------------------------------------------- | -------- | ------------ |
-| [Oricon公信榜](../Page/Oricon公信榜.md "wikilink") | 99,848份  | \[57\]\[58\] |
-| [Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")     | 389,002份 | \[59\]       |
+| [Oricon公信榜](../Page/Oricon公信榜.md "wikilink") | 99,848份  | \[58\]\[59\] |
+| [Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")     | 389,002份 | \[60\]       |
 
 ## 備註
 
@@ -207,3 +207,4 @@
 57.
 58.
 59.
+60.

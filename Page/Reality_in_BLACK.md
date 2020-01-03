@@ -9,21 +9,7 @@
 
 ## 專輯與歌曲概念
 
-專輯名稱「reality in BLACK」，BLACK是Bless Life And Carry Knowledge的縮寫，意思為「祝福生活、傳遞知識」。
-
-這是[MAMAMOO時隔三年九個月發行的第二張正規專輯](../Page/Mamamoo.md "wikilink")，以「**平行宇宙**」為專輯概念。在專輯預告中以「*假如Mamamoo不是Mamamoo?*」為開端，帶出各個成員的多重假想身份。從[畫家](https://zh.wikipedia.org/wiki/畫家 "wikilink")、[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[拳擊手](../Page/拳击.md "wikilink")，到[母親](../Page/母親.md "wikilink")、[社運人士](../Page/社會運動.md "wikilink")、[總統](../Page/總統.md "wikilink")等，充分展現了每個成員各自的多種魅力。這次回歸事前共公開了12支專輯預告片（每個成員各三支）和兩支主打曲《HIP》的預告片\[3\]，同時以此公開了全碟每一首收錄曲的片段，以及不包含在正式MV裏的額外畫面和編舞，是該團體有史以來最大規模的回歸預告企劃。
-
-專輯內共收錄了11首歌曲，以 MAMAMOO 在競演節目《[Queendom](../Page/Queendom_\(韓國綜藝\).md "wikilink")》中奪冠的單曲《Destiny》作開首。\[4\]
-
-《**Destiny**》以一段極具渲染性的[電子結他獨奏和緊接著由華莎和頌樂接力演唱的全英語前奏作開首](../Page/电吉他.md "wikilink")，立即營造了充滿西部電影氛圍的悲壯感。隨後在副歌加入大量電子元素，共同營造了讓人印象深刻的開場。
-
-主打歌《**HIP**》由[華莎參與作詞作曲](https://zh.wikipedia.org/wiki/安惠真 "wikilink")，以[嘻哈節奏配上辛辣的歌詞](../Page/嘻哈音樂.md "wikilink")，以及MV中各種大膽前衛、風格迥異的造型設計，鼓勵聽眾無須畏懼他人眼光，自信做自己，每個人都能穿出自己的風格。
-
-另外也收錄了《**Ten Night**》和《**Hello Mama**》兩首[抒情作品](https://zh.wikipedia.org/wiki/抒情歌曲 "wikilink")，前者以傳統的鋼琴和弦樂編曲襯托各個成員（包括rapper玟星）兼具感性與爆發力的歌聲，後者則以具[爵士感的編曲訴說對家人的掛念](../Page/爵士乐.md "wikilink")。
-
-以及節奏與歌詞都極具玩味的《**ZzZz**》和《**Universe**》、節奏明亮的失戀曲《**Better**》、以成員厚實高亢的嗓音可和大量電子敲擊節奏構成的《**4x4ever**》、具明快節奏的[雷鬼舞曲](../Page/雷鬼音樂.md "wikilink")《**rEALITY**》以及具電子感的[R\&B](../Page/节奏布鲁斯.md "wikilink")《**High Tension**》。
-
-最後以成員[頌樂送給粉絲的自作曲](https://zh.wikipedia.org/wiki/金容仙 "wikilink")，節奏明亮的[電子舞曲](../Page/電子舞曲.md "wikilink")《**I'm Your Fan**》作結尾。
+專輯名稱「reality in BLACK」，BLACK是Bless Life And Carry Knowledge的縮寫，意思為「祝福生活、傳遞知識」。這是[MAMAMOO時隔三年九個月發行的第二張正規專輯](../Page/Mamamoo.md "wikilink")，以「平行宇宙」為專輯概念。在專輯預告中以「假如Mamamoo不是Mamamoo?」為開端，帶出各個成員的多重假想身份。成員們除MAMAMOO本身外，每人分別擔任三種角色，[頌樂擔任公主](https://zh.wikipedia.org/wiki/金容仙 "wikilink")、拳擊手、搖滾明星，[玟星擔任導演](https://zh.wikipedia.org/wiki/文星伊 "wikilink")、編舞家、娛樂公司CEO，[輝人擔任社運人士](https://zh.wikipedia.org/wiki/丁輝人 "wikilink")、畫家、獨立音樂家，[華莎擔任母親](https://zh.wikipedia.org/wiki/安惠真 "wikilink")、音樂劇演員、總統，充分展現了每個成員各自的多種魅力\[3\]。專輯內共收錄了11首歌曲，包含 MAMAMOO 在競演節目《Queendom》中奪冠的歌曲《Destiny》，以及由華莎參與作詞作曲的主打歌《HIP》。另外也收錄了《Universe》、《Ten Night》、《4x4ever》、《Better》、《Hello Mama》、《ZzZz》、《rEALITY》、《High Tension》和頌樂的作詞作曲的《I'm Your Fan》。\[4\]
 
 ## 曲目
 
@@ -69,8 +55,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p>[11]</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/告示牌日本熱門100金曲榜.md" title="wikilink">《告示牌》日本 HOT 100</a>[12]</p></td>
+<td><p>50</p></td>
 </tr>
 </tbody>
 </table>
@@ -79,10 +69,10 @@
 
 | 排行榜（2019年）           | 峰值 |
 | -------------------- | -- |
-| 韓國專輯榜（Gaon音樂榜）\[11\] | 4  |
-| 韓國單曲榜（Gaon音樂榜）\[12\] | 15 |
-| 韓國下載榜（Gaon音樂榜）\[13\] | 4  |
-| 韓國串流榜（Gaon音樂榜）\[14\] | 19 |
+| 韓國專輯榜（Gaon音樂榜）\[13\] | 4  |
+| 韓國單曲榜（Gaon音樂榜）\[14\] | 15 |
+| 韓國下載榜（Gaon音樂榜）\[15\] | 4  |
+| 韓國串流榜（Gaon音樂榜）\[16\] | 19 |
 
 ## 音樂節目獎項
 
@@ -138,6 +128,22 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>12月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -149,7 +155,7 @@
 
 1.
 2.  [MAMAMOO 全員預告照率先登場　新專輯問世倒數十天！](https://www.koreastardaily.com/tc/news/121559)
-3.
+3.  [四人 × 四種宇宙　MAMAMOO〈reality in BLACK〉會得出什麼結果？](https://www.koreastardaily.com/tc/news/121723)
 4.  [MAMAMOO 回歸倒數六天　新專輯收錄《Queendom》冠軍曲〈Destiny〉！](https://www.koreastardaily.com/tc/news/121662)
 5.
 6.
@@ -161,3 +167,5 @@
 12.
 13.
 14.
+15.
+16.

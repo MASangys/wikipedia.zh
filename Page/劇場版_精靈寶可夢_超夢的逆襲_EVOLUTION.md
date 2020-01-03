@@ -1,9 +1,9 @@
 > 本文内容由[劇場版 精靈寶可夢 超夢的逆襲 EVOLUTION](https://zh.wikipedia.org/wiki/劇場版_精靈寶可夢_超夢的逆襲_EVOLUTION)转换而来。
 
 
-《**劇場版 精靈寶可夢 超夢的逆襲 EVOLUTION**》（），是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")》[動畫系列的第二十二部電影](../Page/精靈寶可夢系列_\(動畫\).md "wikilink")。由[OLM](../Page/OLM.md "wikilink")製作，電影定於2019年7月12日在日本上映。該片為該系列的首部電影版《[超夢的逆襲](https://zh.wikipedia.org/wiki/超夢的逆襲 "wikilink")》重製版。
+《**劇場版 精靈寶可夢 超夢的逆襲 EVOLUTION**》（），是《[精靈寶可夢](https://zh.wikipedia.org/wiki/精靈寶可夢 "wikilink")》[動畫系列的第二十二部電影](../Page/精靈寶可夢系列_\(動畫\).md "wikilink")。由[OLM](../Page/OLM.md "wikilink")製作，電影定於2019年7月12日在日本上映。 除了日本地區以外其他地區並沒有上映° 該片為該系列的首部電影版《[超夢的逆襲](https://zh.wikipedia.org/wiki/超夢的逆襲 "wikilink")》重製版。
 
-此片為《精靈寶可夢》系列在[令和時代的第一部电影版](https://zh.wikipedia.org/wiki/令和時代 "wikilink")，也是該系列的首部3D動畫電影。
+此片為《精靈寶可夢》系列在[令和時代的第一部电影版](https://zh.wikipedia.org/wiki/令和時代 "wikilink")，也是該系列的首部3D動畫電影。 由於港台地區沒有上映 所以成為第一部曼迪代理後的 在台灣香港沒有上映的寶可夢電影 °
 
 ## 製作
 

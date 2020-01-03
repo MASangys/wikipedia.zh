@@ -25,6 +25,6 @@
 
 1.   蘋果日報|newspaper=蘋果日報|accessdate=2018-11-15|language=zh-TW}}
 2.
-3.  民間參與公共建設資訊|accessdate=2018-11-15|work=ppp.mof.gov.tw}}
+3.  民間參與公共建設資訊|accessdate=2018-11-15|work=ppp.mof.gov.tw|archive-url=[https://web.archive.org/web/20181115153941/https://ppp.mof.gov.tw/PPP.Website/Case/ShowUnsignedCase.aspx?ID=2651|archive-date=2018-11-15|dead-url=yes](https://web.archive.org/web/20181115153941/https://ppp.mof.gov.tw/PPP.Website/Case/ShowUnsignedCase.aspx?ID=2651%7Carchive-date=2018-11-15%7Cdead-url=yes)}}
 4.   產業綜合 {{\!}} 產經 {{\!}} 聯合新聞網|last=聯合新聞網|newspaper=聯合新聞網|accessdate=2018-11-15}}
 5.

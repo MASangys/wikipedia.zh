@@ -5,7 +5,7 @@
 
 ## 概述
 
-切諾基手槍配備了戰術導軌（用於裝上[戰術燈](../Page/戰術燈.md "wikilink")等附件），三點式可調風偏[瞄準具](../Page/照準器.md "wikilink")（可選夜間瞄準具），擴大的[扳機護圈](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，安裝在[底把以上的拇指式保險裝置和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[半待擊狀態](../Page/半待擊狀態.md "wikilink")保險裝置；然而無彈匣保險。底把是注入的纖維增強聚合物結構。底把是注射成型、纖維增強聚合物結構。[槍管](../Page/槍管.md "wikilink")和[套筒分別是由](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")18CrMo4和34NiCrMo6兩款[合金](../Page/合金.md "wikilink")[钢](../Page/钢.md "wikilink")所鍛製而成。新型號（第二代）具有自然的握把角度（104度）。該槍型只有9×19毫米口徑型。
+切諾基手槍配備了戰術導軌（用於裝上[戰術燈](../Page/戰術燈.md "wikilink")等附件），三點式可調風偏[瞄準具](../Page/照準器.md "wikilink")（可選夜間瞄準具），擴大的[扳機護環](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，安裝在[底把以上的拇指式保險裝置和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[半待擊狀態](../Page/半待擊狀態.md "wikilink")保險裝置；然而無彈匣保險。底把是注入的纖維增強聚合物結構。底把是注射成型、纖維增強聚合物結構。[槍管](../Page/槍管.md "wikilink")和[套筒分別是由](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")18CrMo4和34NiCrMo6兩款[合金](../Page/合金.md "wikilink")[钢](../Page/钢.md "wikilink")所鍛製而成。新型號（第二代）具有自然的握把角度（104度）。該槍型只有9×19毫米口徑型。
 
 ## 參見
 

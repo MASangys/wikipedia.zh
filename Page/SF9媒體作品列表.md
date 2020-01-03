@@ -497,13 +497,11 @@ Suit Dance Ver.[39]</p></td>
 
 ### 綜藝/訪談節目
 
-| 日期                    | | 電視台                                               | | 節目名稱                                                                        | | 參與成員   | | 備註     |
-| --------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------- | -------- | -------- |
-| 2007年4月14日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")》                    | 澯熙       | 模仿有天     |
-| 2010年3月13日            | 模仿泰民                                                |                                                                               |          |          |
-| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[清潭洞111](../Page/清潭洞111.md "wikilink")》                                      | 路雲、朱豪、仁誠 | 以練習生身份出演 |
-| 2016年12月1日－2017年6月1日  | [OnStyle](../Page/OnStyle.md "wikilink")            | 《[LipStick Prince](https://zh.wikipedia.org/wiki/LipStick_Prince "wikilink")》 | 路雲       | 固定成員     |
-| 2018年4月1日－2018年6月24日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[相親茶坊](../Page/相親茶坊.md "wikilink")》                                          | 路雲       | 固定主持人    |
+| 日期                    | | 電視台                                               | | 節目名稱                                                     | | 參與成員   | | 備註     |
+| --------------------- | --------------------------------------------------- | ---------------------------------------------------------- | -------- | -------- |
+| 2007年4月14日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[驚人的大會-Star King](../Page/驚人的大會-Star_King.md "wikilink")》 | 澯熙       | 模仿有天     |
+| 2010年3月13日            | 模仿泰民                                                |                                                            |          |          |
+| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[清潭洞111](../Page/清潭洞111.md "wikilink")》                   | 路雲、朱豪、仁誠 | 以練習生身份出演 |
 
 |                   |                                         |                                                            |        |                                           |
 | ----------------- | --------------------------------------- | ---------------------------------------------------------- | ------ | ----------------------------------------- |
@@ -601,6 +599,12 @@ Suit Dance Ver.[39]</p></td>
 | 7月19日                                                    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | [We K-Pop](https://zh.wikipedia.org/wiki/We_K-Pop "wikilink")                   | 全體    | 路雲缺席   |
 | 11月15日                                                   | [Mnet](../Page/Mnet.md "wikilink")                                | [TO BE WORLD KLASS](https://zh.wikipedia.org/wiki/TO_BE_WORLD_KLASS "wikilink") | 太陽、澯熙 |        |
 | 11月18日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [姐姐家的沙龍](https://zh.wikipedia.org/wiki/姐姐家的沙龍 "wikilink")                       | 達淵、澯熙 |        |
+| 12月18日                                                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")     | 達淵    |        |
+
+|      |                                    |                                      |       |    |
+| ---- | ---------------------------------- | ------------------------------------ | ----- | -- |
+| 日期   | 電視台                                | 節目名稱                                 | 參與成員  | 備註 |
+| 1月4日 | [JTBC](../Page/JTBC.md "wikilink") | [認識的哥哥](../Page/認識的哥哥.md "wikilink") | 路雲、澯熙 |    |
 
 ### V LIVE固定綜藝
 

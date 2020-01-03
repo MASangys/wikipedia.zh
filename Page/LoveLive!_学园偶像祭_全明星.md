@@ -11,7 +11,7 @@
 
 ## 历史
 
-游戏情报于2017年9月21日在[东京电玩展](../Page/东京电玩展.md "wikilink")首次公开。游戏原定于2018年发布，但因“3D舞蹈模型需要改进”而延期至2019年发行。\[2\]游戏于2019年9月17日开始事前登录，并计划于同年9月30日正式在[日本](../Page/日本.md "wikilink")上线；最终提前四天，于9月26日正式发行。\[3\]\[4\]另外，包含[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[韩文](https://zh.wikipedia.org/wiki/韩文 "wikilink")、[繁体中文和](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")[泰文的国际版也将推出](https://zh.wikipedia.org/wiki/泰文 "wikilink")。
+游戏情报于2017年9月21日在[东京电玩展](../Page/东京电玩展.md "wikilink")首次公开。游戏原定于2018年发布，但因“3D舞蹈模型需要改进”而延期至2019年发行。\[2\]游戏于2019年9月17日开始事前登录，并计划于同年9月30日正式在[日本](../Page/日本.md "wikilink")上线；最终提前四天，于9月26日正式发行。\[3\]\[4\]另外，包含[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[韩文](https://zh.wikipedia.org/wiki/韩文 "wikilink")、[繁体中文和](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")[泰文的国际版也将于](https://zh.wikipedia.org/wiki/泰文 "wikilink")2020年春季推出。（实体日期日后公布）
 
 ## 评价
 

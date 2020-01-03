@@ -23,7 +23,7 @@
 
 2019年10月24日，戈麦斯在2019年[全美音樂獎](../Page/全美音樂獎.md "wikilink")颁奖典礼上现场表演了这首歌曲和《》。\[11\]\[12\]
 
-## 发行时间
+## 發行歷史
 
 <table>
 <thead>
@@ -31,7 +31,7 @@
 <th><p>国家</p></th>
 <th><p>日期</p></th>
 <th><p>形式</p></th>
-<th><p>厂牌</p></th>
+<th><p>唱片公司</p></th>
 <th><p>来源</p></th>
 </tr>
 </thead>
@@ -40,20 +40,20 @@
 <td><p>全球</p></td>
 <td><p>2019年10月23日</p></td>
 <td></td>
-<td><p><a href="../Page/新視鏡唱片.md" title="wikilink">新視鏡唱片</a></p></td>
+<td><p><a href="../Page/新視鏡唱片.md" title="wikilink">新視鏡</a></p></td>
 <td><p>[13][14]</p></td>
 </tr>
 <tr class="even">
 <td><p>澳大利亚</p></td>
 <td><p>2019年10月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/當代流行電台" title="wikilink">當代流行電台</a></p></td>
-<td><p><a href="../Page/环球音乐集团.md" title="wikilink">环球</a></p></td>
+<td><p><a href="../Page/环球音乐集团.md" title="wikilink">環球音樂</a></p></td>
 <td><p>[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>英国</p></td>
 <td><p>2019年10月26日</p></td>
-<td><p><a href="../Page/宝丽多唱片.md" title="wikilink">宝丽多唱片</a></p></td>
+<td><p><a href="../Page/宝丽多唱片.md" title="wikilink">宝丽多</a></p></td>
 <td><p>[16]</p></td>
 <td></td>
 </tr>
@@ -61,7 +61,7 @@
 <td><p>美国</p></td>
 <td><p>2019年10月28日</p></td>
 <td><p><a href="../Page/成人当代音乐.md" title="wikilink">成人当代音乐</a></p></td>
-<td><p>新視鏡唱片</p></td>
+<td><p>新視鏡</p></td>
 <td><p>[17]</p></td>
 </tr>
 <tr class="odd">
@@ -74,7 +74,7 @@
 <tr class="even">
 <td><p>意大利</p></td>
 <td><p>2019年11月8日</p></td>
-<td><p>环球</p></td>
+<td><p>環球音樂</p></td>
 <td><p>[19]</p></td>
 <td></td>
 </tr>

@@ -198,6 +198,18 @@ Daiba City Tokyo</p></td>
 <td><p>CJ E&amp;M Sangam</p></td>
 <td><p>《Sum(me:r)》、4場</p></td>
 </tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1月11日</p></td>
+<td><p>Mini Live Magazine Ho Vol. 3 - Off Stage</p></td>
+<td><p>Nodeul Island Live House</p></td>
+<td><p>珍虎</p></td>
+</tr>
 </tbody>
 </table>
 

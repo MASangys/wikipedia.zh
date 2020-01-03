@@ -41,21 +41,21 @@
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
-<td><p>第1集至今</p></td>
+<td><p>第1集至第24集</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張度練.md" title="wikilink">張度練</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/喜劇演員.md" title="wikilink">喜劇演員</a></p></td>
-<td><p>第7集至今</p></td>
+<td><p>第7集至第24集</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/秀斌.md" title="wikilink">秀斌</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）</p></td>
-<td><p>第1集至今</p></td>
+<td><p>第1集至第24集</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -172,7 +172,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://tv.mnet.com/program/2129)
+  - [官方網站](https://web.archive.org/web/20190924163558/http://tv.mnet.com/program/2129)
 
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 

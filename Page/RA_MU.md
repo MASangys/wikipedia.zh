@@ -15,7 +15,7 @@
 
 [1988年](../Page/1988年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")，菊池在[赤坂王子酒店](../Page/赤坂王子酒店.md "wikilink")召开单独[记者会](https://zh.wikipedia.org/wiki/记者 "wikilink")，称自己“从此以后将作为新结成的[摇滚乐队RA](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink") MU的主唱活动”\[5\]。她解释转型的原因是“作为偶像感到了违和感”，且预告称“将要在[2月24日](../Page/2月24日.md "wikilink")发布第一首单曲，并在同一天的《》公布乐队成员”\[6\]。乐队成员共有7人，其中两名是[黑人](../Page/黑人.md "wikilink")[和声歌手](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")。虽然成员们自称为“[摇滚乐队](https://zh.wikipedia.org/wiki/摇滚乐队 "wikilink")”\[7\]，但歌唱的部分与菊池个人活动时期相比几乎没有改变\[8\]，而且具有当时在[日本](../Page/日本.md "wikilink")还并不流行的[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[放克](../Page/放克.md "wikilink")等[黑人音乐色彩](https://zh.wikipedia.org/wiki/非裔美国人音乐 "wikilink")。关于RA MU的音乐风格，核心成员松浦称其为“兼备了美国当代黑人音乐的紧凑节奏与日本人能够接受的旋律”、“既可以说是摇滚乐也可以说是[歌谣曲](https://zh.wikipedia.org/wiki/日本歌谣曲 "wikilink")，但如果一定要选择一个的话，应该是摇滚乐”\[9\]。
 
-就这样，虽然在其他意义上成为了话题，但[唱片的销量却无法超越菊池个人偶像时代](https://zh.wikipedia.org/wiki/唱片 "wikilink")，从在公信榜上取得第4位之后就不再成为话题。
+就这样，虽然在其他意义上成为了话题，但[唱片的销量却无法超越菊池个人偶像时代](https://zh.wikipedia.org/wiki/唱片 "wikilink")，从《少年谋杀天使》（）在公信榜上取得第4位之后就不再成为话题。
 
 1989年9月，菊池转籍到在刚出道时就与她熟悉的岩崎加允美的事务所，专注[演员事业](https://zh.wikipedia.org/wiki/演员 "wikilink")，RA MU事实上已经解散。转籍后，菊池在[广告方面成功](https://zh.wikipedia.org/wiki/广告 "wikilink")，实现了转型失败的[艺人](../Page/艺人.md "wikilink")少见的复活。
 
@@ -24,22 +24,26 @@
 ## 成员
 
   - [菊池桃子](../Page/菊池桃子.md "wikilink")（） - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
+  - 松浦義和（） - [键盘手](https://zh.wikipedia.org/wiki/键盘手 "wikilink")
+  - 中西望（） - [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
+  - 勝守理（） - [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
+  - 吉岡誠司（） - [贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")\[10\]
+  - 罗莎琳·基尔（，Rosaiyu Renee Keel 或 Rosalyn Keel） - [和声](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")
+  - 达蕾尔·霍尔顿（，Darelle Foster Holden） - 和声
 
-  - （） - [键盘手](https://zh.wikipedia.org/wiki/键盘手 "wikilink")
+### 解散后去向
 
-  - （） - [鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")
+除上文提及的主唱菊池桃子转型演员外，其余六名成员均继续在音乐领域活动。
 
-  - （） - [吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")
+键盘手松浦在[福冈市经营一所音乐学校](https://zh.wikipedia.org/wiki/福冈市 "wikilink")\[11\]\[12\]，鼓手中西则在故乡[埼玉县](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[朝霞市一家音乐教室担任讲师](https://zh.wikipedia.org/wiki/朝霞市 "wikilink")\[13\]\[14\]。
 
-  - （） - [贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")\[10\]
+吉他手胜守则以作曲者、吉他手身份参加多名歌手的音乐制作和电视剧的原声带制作工作\[15\]，贝斯手吉冈也参与了等人的演唱会和录音等\[16\]。
 
-  - （Rosaiyu Renee Keel 或 Rosalyn Keel） - [和声](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")
-
-  - （Darelle Foster Holden） - 和声
+其中一名和声歌手基尔参与了多名日本歌手的和声，活跃于日美两国的音乐界\[17\]。另一名和声歌手霍尔顿则以[美国](../Page/美国.md "wikilink")[内华达州](../Page/内华达州.md "wikilink")为主要据点，作为[爵士乐](../Page/爵士乐.md "wikilink")歌手活动\[18\]\[19\]。
 
 ## 音乐作品
 
-[2010年开始在](https://zh.wikipedia.org/wiki/2010年 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[RecoChoku](../Page/RecoChoku.md "wikilink")公开\[11\]。
+[2010年开始在](https://zh.wikipedia.org/wiki/2010年 "wikilink")[iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")、[RecoChoku](../Page/RecoChoku.md "wikilink")公开\[20\]。
 
 ### 单曲
 
@@ -303,6 +307,10 @@
 
 ## 参考
 
+## 外部链接
+
+  - [](https://www.solfe.com/) - 乐队核心成员之一松浦义和所运营的音乐学校。
+
 [Category:日本乐团](https://zh.wikipedia.org/wiki/Category:日本乐团 "wikilink") [Category:1988年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:1988年成立的音乐团体 "wikilink") [Category:1989年解散的音乐团体](https://zh.wikipedia.org/wiki/Category:1989年解散的音乐团体 "wikilink")
 
 1.
@@ -316,3 +324,12 @@
 9.
 10.
 11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.

@@ -43,7 +43,7 @@ Searx可以從82種不同的引擎中擷取所有類別的結果。這包含了�
 5.
 6.
 7.
-8.   Signor D |access-date=2017-08-31}}
+8.   Signor D |access-date=2017-08-31 |archive-url=<https://web.archive.org/web/20170904153041/http://signord.tevac.com/2014/10/01/motori-di-ricerca-alternativi/> |archive-date=2017-09-04 |dead-url=yes }}
 9.   Freedif |website=freedif.org |language=en-US |access-date=2017-08-30}}
 10.
 11.

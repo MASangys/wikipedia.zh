@@ -684,19 +684,19 @@
 
 ## 音樂錄影帶瀏覽次數
 
-|                                    |             |                                    |                                                       |                                                  |            |
-| ---------------------------------- | ----------- | ---------------------------------- | ----------------------------------------------------- | ------------------------------------------------ | ---------- |
-| 順序                                 | 日期          | 歌曲名稱                               | 語言                                                    | 官方影片                                             | 瀏覽次數       |
-| 1                                  | 2019年3月4日   | '어느날 머리에서 뿔이 자랐다 (CROWN)'          | 韓語                                                    | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 93,560,577 |
-| 2                                  | 2019年4月25日  | 'Cat & Dog'                        | [2](https://www.youtube.com/watch?v=NaKrke1EL1A)      | 43,725,614                                       |            |
-| 3                                  | 2019年10月21日 | '9와 4분의 3 승강장에서 너를 기다려 (Run Away)' | [3](https://www.youtube.com/watch?v=6yWPfUz0z94&t=0s) | 18,405,541                                       |            |
-| 4                                  | 2019年5月3日   | 'Cat & Dog (English ver.)'         | 英語                                                    | [4](https://www.youtube.com/watch?v=nvO17uPanBY) | 8,967,673  |
-| 5                                  | 2019年6月5日   | '별의 낮잠 (Nap of a star)'            | 韓語                                                    | [5](https://www.youtube.com/watch?v=XkDA02FHHik) | 6,821,686  |
-| 6                                  | 2019年4月7日   | 'Blue Orangeade'                   | [6](https://www.youtube.com/watch?v=LTz8NjNQp-s)      | 4,440,502                                        |            |
-| 7                                  | 2019年11月29日 | 'Angel Or Devil'                   | [7](https://www.youtube.com/watch?v=cfm97EKin4c)      | 4,108,600                                        |            |
-| 8                                  | 2019年11月18日 | 'Magic Island'                     | [8](https://www.youtube.com/watch?v=KskEx8K-l2Q)      | 2,709,309                                        |            |
-| 9                                  | 2019年7月12日  | 'Our Summer'                       | [9](https://www.youtube.com/watch?v=M_iYqRNS_o0)      | 2,625,350                                        |            |
-| <small>最後更新時間：2019年12月09日。</small> |             |                                    |                                                       |                                                  |            |
+|                                   |             |                                    |                                                       |                                                  |            |
+| --------------------------------- | ----------- | ---------------------------------- | ----------------------------------------------------- | ------------------------------------------------ | ---------- |
+| 順序                                | 日期          | 歌曲名稱                               | 語言                                                    | 官方影片                                             | 瀏覽次數       |
+| 1                                 | 2019年3月4日   | '어느날 머리에서 뿔이 자랐다 (CROWN)'          | 韓語                                                    | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 94,899,707 |
+| 2                                 | 2019年4月25日  | 'Cat & Dog'                        | [2](https://www.youtube.com/watch?v=NaKrke1EL1A)      | 44,817,421                                       |            |
+| 3                                 | 2019年10月21日 | '9와 4분의 3 승강장에서 너를 기다려 (Run Away)' | [3](https://www.youtube.com/watch?v=6yWPfUz0z94&t=0s) | 21,210,511                                       |            |
+| 4                                 | 2019年5月3日   | 'Cat & Dog (English ver.)'         | 英語                                                    | [4](https://www.youtube.com/watch?v=nvO17uPanBY) | 9,051,985  |
+| 5                                 | 2019年6月5日   | '별의 낮잠 (Nap of a star)'            | 韓語                                                    | [5](https://www.youtube.com/watch?v=XkDA02FHHik) | 6,875,110  |
+| 6                                 | 2019年4月7日   | 'Blue Orangeade'                   | [6](https://www.youtube.com/watch?v=LTz8NjNQp-s)      | 4,480,109                                        |            |
+| 7                                 | 2019年11月29日 | 'Angel Or Devil'                   | [7](https://www.youtube.com/watch?v=cfm97EKin4c)      | 5,438,836                                        |            |
+| 8                                 | 2019年11月18日 | 'Magic Island'                     | [8](https://www.youtube.com/watch?v=KskEx8K-l2Q)      | 2,807,921                                        |            |
+| 9                                 | 2019年7月12日  | 'Our Summer'                       | [9](https://www.youtube.com/watch?v=M_iYqRNS_o0)      | 2,781,559                                        |            |
+| <small>最後更新時間：2019年12月26日</small> |             |                                    |                                                       |                                                  |            |
 
 ## 音樂節目
 

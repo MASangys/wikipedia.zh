@@ -1,7 +1,7 @@
 > 本文内容由[踩過界II](https://zh.wikipedia.org/wiki/踩過界II)转换而来。
 
 
-《**踩過界II**》（），中國大陸譯名《盲俠大律師II》，是[愛奇藝與](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")[香港電視廣播有限公司中港兩岸合資製作的時裝法律](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")、犯罪、懸疑、偵探電視劇及網絡劇，並以單機拍攝，由[王浩信](../Page/王浩信.md "wikilink")、[蔡思貝](../Page/蔡思貝.md "wikilink")、[張曦雯](../Page/張曦雯.md "wikilink")、[張振朗](../Page/張振朗.md "wikilink")、[鄧佩儀](../Page/鄧佩儀.md "wikilink")及[秦沛](../Page/秦沛.md "wikilink")領銜主演，並由[簡淑兒](../Page/簡淑兒.md "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink")、[秦煌](../Page/秦煌.md "wikilink")及[潘志文](../Page/潘志文.md "wikilink")聯合演出，監製[林志華](../Page/林志華.md "wikilink")，[2020無綫節目巡禮](https://zh.wikipedia.org/wiki/2020無綫節目巡禮 "wikilink")12部劇集之一\[1\]\[2\]\[3\]。
+《**踩過界II**》（），中國大陸譯名《盲俠大律師II》，是[愛奇藝與](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")[香港電視廣播有限公司中港兩岸合資製作的時裝法律](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")、犯罪、懸疑、偵探電視劇及網絡劇，並以單機拍攝，由[王浩信](../Page/王浩信.md "wikilink")、[秦沛](../Page/秦沛.md "wikilink")、[蔡思貝](../Page/蔡思貝.md "wikilink")、[張振朗](../Page/張振朗.md "wikilink")及[張曦雯](../Page/張曦雯.md "wikilink")領銜主演，並由[簡淑兒](../Page/簡淑兒.md "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink")、[秦煌](../Page/秦煌.md "wikilink")及[潘志文](../Page/潘志文.md "wikilink")聯合演出，監製[林志華](../Page/林志華.md "wikilink")，[2020無綫節目巡禮](https://zh.wikipedia.org/wiki/2020無綫節目巡禮 "wikilink")12部劇集之一\[1\]\[2\]\[3\]。
 
 ## 演員表
 
@@ -27,6 +27,13 @@
 參見《<strong><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></strong>》</p></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="../Page/秦沛.md" title="wikilink">秦　沛</a></strong></p></td>
+<td><p><strong>簡紹宏</strong></p></td>
+<td><p><strong>Thompson、宏大狀</strong><br />
+大法官<br />
+文申俠之師傅兼天敵</p></td>
+</tr>
+<tr class="even">
 <td><p><strong><a href="../Page/蔡思貝.md" title="wikilink">蔡思貝</a></strong></p></td>
 <td><p><strong>趙正妹</strong></p></td>
 <td><p><strong>癲姐、Deanie、甸奴（谷一夏專稱）</strong><br />
@@ -35,13 +42,6 @@
 谷一夏之好友<br />
 與高勇俊有鬥氣冤家並與其有感情綫<br />
 參見《<strong><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></strong>》</p></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></strong></p></td>
-<td><p><strong>邵美娜</strong></p></td>
-<td><p><strong>Eva</strong><br />
-大律師 / 视障人士<br />
-與文申俠之競爭對手，與其有感情綫</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/張振朗.md" title="wikilink">張振朗</a></strong></p></td>
@@ -54,17 +54,18 @@
 參見《<strong><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></strong>》</p></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></strong></p></td>
+<td><p><strong>邵美娜</strong></p></td>
+<td><p><strong>Eva</strong><br />
+大律師／视障人士<br />
+个性好胜<br />
+與文申俠之競爭對手，與其有感情綫</p></td>
+</tr>
+<tr class="odd">
 <td><p><strong><a href="../Page/鄧佩儀.md" title="wikilink">鄧佩儀</a></strong></p></td>
 <td><p><strong>林慧君</strong></p></td>
 <td><p><strong>Joanne</strong><br />
 法律系學生，喜歡文申俠</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/秦沛.md" title="wikilink">秦沛</a></strong></p></td>
-<td><p><strong>簡紹宏</strong></p></td>
-<td><p><strong>Thompson、宏大狀</strong><br />
-大法官<br />
-文申俠之師傅兼天敵</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -126,7 +127,7 @@
 </tbody>
 </table>
 
-### 法庭
+### 律政司／法院
 
 <table>
 <tbody>
@@ -136,12 +137,33 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="../Page/簡淑兒.md" title="wikilink">簡淑兒</a></strong></p></td>
+<td><p><strong>陳穎渲</strong></p></td>
+<td><p><strong>Jasmine</strong><br />
+律政司檢控官，千金小姐，陳鴻燊之女</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/黃子恆.md" title="wikilink">黃子恆</a></p></td>
 <td><p>華　爺</p></td>
 <td><p><strong>Walter</strong><br />
 <a href="../Page/律政司_(香港).md" title="wikilink">律政司高級檢控官</a><br />
 與文申俠不和<br />
 參見《<strong><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></strong>》</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/張國強_(香港演員).md" title="wikilink">張國強</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/律政司司長" title="wikilink">律政司司長</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/曾航生.md" title="wikilink">曾航生</a></p></td>
+<td></td>
+<td><p>律政司職員</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
+<td></td>
+<td><p>律政司職員</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄧英敏.md" title="wikilink">鄧英敏</a></p></td>
@@ -166,7 +188,7 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/秦沛.md" title="wikilink">秦沛</a></strong></p></td>
+<td><p><strong><a href="../Page/秦沛.md" title="wikilink">秦　沛</a></strong></p></td>
 <td><p><strong>簡紹宏</strong></p></td>
 <td><p><strong>Thompson、宏大狀</strong><br />
 大法官<br />
@@ -249,41 +271,26 @@
 簡紹宏之女</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/張國強_(香港演員).md" title="wikilink">張國強</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/律政司司長" title="wikilink">律政司司長</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/曾航生.md" title="wikilink">曾航生</a></p></td>
-<td></td>
-<td><p>律政司職員</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/鍾志光.md" title="wikilink">鍾志光</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a></p></td>
-<td></td>
-<td><p>律政司職員</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/張韡騰.md" title="wikilink">張韡騰</a></p></td>
 <td></td>
 <td><p>警察</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/林敬剛.md" title="wikilink">林敬剛</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/何佩珉.md" title="wikilink">何佩珉</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -303,29 +310,23 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/簡淑兒.md" title="wikilink">簡淑兒</a></strong></p></td>
-<td><p><strong>陳穎渲</strong></p></td>
-<td><p><strong>Jasmine</strong><br />
-律政司檢控官，千金小姐，陳鴻燊之女</p></td>
-</tr>
-<tr class="odd">
 <td><p><strong><a href="../Page/潘志文.md" title="wikilink">潘志文</a></strong></p></td>
 <td><p><strong>陳鴻燊</strong></p></td>
 <td><p><strong>Ronald、燊哥</strong><br />
 富豪<br />
 陳穎渲之父</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/張彥博.md" title="wikilink">張彥博</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/馮素波.md" title="wikilink">馮素波</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/趙碩之.md" title="wikilink">趙碩之</a></p></td>
 <td><p>Camy</p></td>
 <td><p>陳鴻燊之情人</p></td>
@@ -364,18 +365,18 @@
 |                                                     |        |           |
 | --------------------------------------------------- | ------ | --------- |
 | **演員**                                              | **角色** | **暱稱／關係** |
-| [羅蘭](../Page/羅蘭_\(香港\).md "wikilink")               |        |           |
+| [羅　蘭](../Page/羅蘭_\(香港\).md "wikilink")              |        |           |
 | [趙希洛](https://zh.wikipedia.org/wiki/趙希洛 "wikilink") |        |           |
 | [梁証嘉](../Page/梁証嘉.md "wikilink")                    |        |           |
 
 #### 骨中有案
 
-|                                       |        |           |
-| ------------------------------------- | ------ | --------- |
-| **演員**                                | **角色** | **暱稱／關係** |
-| [徐榮](../Page/徐榮_\(演員\).md "wikilink") |        |           |
-| [甄詠珊](../Page/甄詠珊.md "wikilink")      |        |           |
-| [陳國峰](../Page/陳國峰.md "wikilink")      |        |           |
+|                                        |        |           |
+| -------------------------------------- | ------ | --------- |
+| **演員**                                 | **角色** | **暱稱／關係** |
+| [徐　榮](../Page/徐榮_\(演員\).md "wikilink") |        |           |
+| [甄詠珊](../Page/甄詠珊.md "wikilink")       |        |           |
+| [陳國峰](../Page/陳國峰.md "wikilink")       |        |           |
 
 #### 快餐店難聞兇殺案
 
@@ -390,10 +391,18 @@
 | [吳香倫](../Page/吳香倫.md "wikilink") |        |           |
 | [盧峻峯](../Page/盧峻峯.md "wikilink") |        |           |
 
+## 記事
+
+  - 2019年12月10日：此劇於 在[將軍澳工業邨](../Page/將軍澳工業邨.md "wikilink")[駿才街](https://zh.wikipedia.org/wiki/駿才街 "wikilink")77號[電視廣播城](../Page/電視廣播城.md "wikilink")一廠Common Room舉行試造型會。
+  - 2019年12月27日：此劇正式開始拍攝。
+
+## 軼事
+
 ## 相關
 
 ## 外部連結
 
+  - [《踩過界II》盲俠再現 彰顯公義 - TVB Weekly](http://tvbweekly.com/c/details.asp?page=entertainment&subid=30911)
   - [《踩過界II》最新消息 - Instagram](https://www.instagram.com/explore/tags/踩過界II)
   - [《踩過界2》最新消息 - Instagram](https://www.instagram.com/explore/tags/踩過界2)
   - [娛樂新聞台《踩過界II》造型搶先看 - YouTube](https://www.youtube.com/watch?v=D2HYKcO5rIM)

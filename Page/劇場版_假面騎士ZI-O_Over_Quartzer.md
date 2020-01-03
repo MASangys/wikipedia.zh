@@ -1,14 +1,14 @@
 > 本文内容由[劇場版 假面騎士ZI-O Over Quartzer](https://zh.wikipedia.org/wiki/劇場版_假面騎士ZI-O_Over_Quartzer)转换而来。
 
 
-《**劇場版 假面騎士ZI-O Over Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本於2019年7月26日上映，香港於2019年11月28日上映，台灣於2019年12月13日上映中日雙語版本。
+《**劇場版 假面騎士ZI-O Over Quartzer**》（），是日本特攝節目《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的獨立劇場版。日本於2019年7月26日上映，香港於2019年11月28日上映，台灣於2019年12月13日上映中日雙語版本，中國大陸騰訊視頻於2020年1月上架。
 
 此外日本當地同步上映《[騎士龍戰隊龍裝者](../Page/騎士龍戰隊龍裝者.md "wikilink")》劇場版《[騎士龍戰隊龍裝者 THE MOVIE 時空穿梭！恐龍大恐慌\!\!](https://zh.wikipedia.org/wiki/騎士龍戰隊龍裝者_THE_MOVIE_時空穿梭！恐龍大恐慌!! "wikilink")》。香港和台灣同步上映《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》劇場版《[快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》。
 
 ## 本作特色
 
   - 本作继《[剧场版 假面骑士Build Be The One](https://zh.wikipedia.org/wiki/剧场版_假面骑士Build_Be_The_One "wikilink")》后，再次将TV本篇主题曲作为剧场版的主题。
-  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第49集）之後，但與《假面騎士EX-AID True·Ending》的結局不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」（後續上映的《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》才是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「主線結局」）\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
+  - 本作繼《[劇場版 假面騎士EX-AID True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》後，劇場版的時間線為TV本篇最後話（即第45集）之後，但與該作的結局不同，本作是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「分支結局」（後續上映的《[假面騎士令和The First Generation](../Page/假面騎士令和The_First_Generation.md "wikilink")》才是《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》的「主線結局」）\[1\]，同時也是平成假面騎士的「The·紀念作」。\[2\]。
   - 本作繼《[劇場版 假面騎士DECADE 全騎士 VS 大修卡](https://zh.wikipedia.org/wiki/劇場版_假面騎士DECADE_全騎士_VS_大修卡 "wikilink")》後，全平成假面騎士將再次齊聚，並且還是繼《假面騎士Wizard》最終話後，其最終形態一一具現。
   - 本作繼《[劇場版 假面騎士Ghost 100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》後，暌違三年所登場的劇場版騎士人數增至一人以上，同其造型更參考了活跃於平成時代卻被歸類於昭和騎士的部分騎士\[3\]。
   - 本作劇場版將叙述《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的物語，並且相關角色，例如飾演「假面騎士Mach / 詩島剛」的稻葉友將繼《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》後再度在劇場版上登場。\[4\]。
@@ -164,6 +164,12 @@
 <td><p>Ohma Form<br />
 <strong>逢魔形態</strong></p></td>
 <td><p>日文：<br />
+身高：204.5cm<br />
+體重：122.0kg<br />
+拳擊力：129.9t<br />
+踢擊力：399.9t<br />
+跳躍力：298.7m<br />
+行動速度：100m / 0.07秒<br />
 使用「逢魔時王」騎士手錶再搭配時空驅動器變身而成的形態，眼部字眼為「ライダー」。</p></td>
 <td><p>基本顏色以橘色和銀色為主，頭部天線時刻為10：10，額頭上方還佩戴著「ZI-O」騎士手錶，雙耳邊亦寫著一對「王」字。</p></td>
 <td><p>假面騎士ZI-O的究極形態，為ZI-O和逢魔時王的結合體，擁有和逢魔時王一樣的時間陣之力，背部的時針和分針裝飾可在巨大化的同時對敵施以無差別大範圍猛斬，此外還能召喚出19名平成假面騎士的最終形態。</p></td>
@@ -176,7 +182,7 @@
 ### 假面騎士Barlckxs
 
   -
-    變身者：常磐莊吾（與本作主角同名）（替身演員：中田裕士、CV：ISSA）
+    變身者：常磐SOUGO（替身演員：中田裕士、CV：ISSA）
     原文： / *Kamen Rider Barlckxs*
 
 #### 變身模式
@@ -196,7 +202,8 @@
 <td><p>使用「Barlckxs」騎士手錶再搭配時空驅動器變身而成的形態，復眼為紅色，片假名為「ライダー」。</p></td>
 <td><p>基本顏色為深綠、黑色、土黃色為主，天線時刻為10：10。</p></td>
 <td><p>基本形態，擁有假面騎士Black RX的部分特徵，除了可從驅動器內拔出一把造型和幻影激光劍同樣的劍型武器，擅長於近戰以外，擁有將平成騎士之力抵消的能力[5]。</p></td>
-<td></td>
+<td><p><strong>Barlckxs Time Break</strong><br />
+日文：</p></td>
 </tr>
 </tbody>
 </table>
@@ -224,7 +231,8 @@
 <td><p>使用「Zamonas」騎士手錶再搭配時空驅動器變身而成的形態，復眼為黃色，片假名為「ライダー」。</p></td>
 <td><p>基本顏色為藏藍、紅色、銀色和土黃色為主，天線時刻為12：00。</p></td>
 <td><p>基本形態，擁有假面騎士AMAZONs的部分特徵，造型上的顏色不對稱，似乎擅長於遠距離射擊。</p></td>
-<td></td>
+<td><p><strong>Zamonas Time Break</strong><br />
+日文：</p></td>
 </tr>
 </tbody>
 </table>
@@ -252,7 +260,8 @@
 <td><p>使用「Zonjis」騎士手錶再搭配時空驅動器變身而成的形態，復眼為緋紅色，片假名為「ライダー」。</p></td>
 <td><p>基本顏色為綠色、白色、黑色為主，天線時刻為11：05。</p></td>
 <td><p>基本形態，擁有假面騎士真、假面騎士ZO和假面騎士J的部分特徵，擅長於肉搏戰。</p></td>
-<td></td>
+<td><p><strong>Zonjis Time Break</strong><br />
+日文：</p></td>
 </tr>
 </tbody>
 </table>

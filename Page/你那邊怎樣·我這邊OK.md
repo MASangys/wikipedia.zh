@@ -865,88 +865,93 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td><p>簡介</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>陳儲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/姚坤君" title="wikilink">姚坤君</a></p></td>
 <td><p>莎曼珊</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/曹西平.md" title="wikilink">曹西平</a></p></td>
 <td><p>丹尼爾</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/海裕芬.md" title="wikilink">海裕芬</a></p></td>
 <td><p>阿梅</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/楊雄_(演員)" title="wikilink">楊雄</a></p></td>
 <td><p>吳父</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/羅光旭" title="wikilink">羅光旭</a></p></td>
 <td><p>白姜元</p></td>
 <td><p>韓國人，為龍航集團有合作夥伴，是政治圈很有手腕的軍火掮客，和幾個東南亞國家十分交好，也協助他的政府將錢洗到國外。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/陳澍城" title="wikilink">陳澍城</a></p></td>
 <td><p>陳董</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/张耀栋" title="wikilink">张耀栋</a></p></td>
 <td><p>蔡富来</p></td>
 <td><p><strong>跑船廚師</strong><br />
 個性耿直憨厚，不善與人爭論計較。小時候一場意外事件導致ERIC父母被他爸爸開車撞死，無法承受家庭變故的蔡媽媽也拋下富萊，一走了之。幸虧Eric的阿嬤不計前嫌接手照顧富萊的生活，從此他和Eric、阿嬤三人組成了一個相依為命的小家庭。自知受到阿嬤太多的照護、也打從心底對不起ERIC，他發誓一定要好好孝順阿嬤、也要把ERIC當一輩子的兄弟永遠挺著!不夠聰明的他勤快打工賺錢，陪著阿嬤終於等到ERIC從英國留學回來。當大家慶祝著ERIC進入騰昇銀行工作，他發現好友竟然違背良心搞出了假學歷…為了存多點錢、也看不下去ERIC的作法，他在朋友的介紹下考取船員廚師執照開始了跑船人生，卻無辜的捲入了史耐達和龍航之爭……</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/蔡琦慧.md" title="wikilink">蔡琦慧</a></p></td>
 <td><p>林芝玲</p></td>
 <td><p><strong>伴遊小姐</strong><br />
 筱艾的閨蜜好友，風姿綽約的美女，不說話就能引來男人愛慕的眼光。高中畢業後沒多久父親因病過世，一路的孤單讓她渴望親情，22歲時未婚生子有了兒子小吉後，芝玲的生活終於有了重心。她想給小吉最好的生活，卻僅能勉強提供小吉基本所需，看盡人生百態，她不要讓小吉在成長過程中有所遺憾。因為想多賺一點錢的她，在兒子生日當天接了一個伴遊的工作，卻不知她將陷入集團鬥爭的險境之中...</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/陈楚寰" title="wikilink">陈楚寰</a></p></td>
 <td><p>吕宜珮</p></td>
 <td><p>April</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/林道銳" title="wikilink">林道銳</a></p></td>
 <td><p>小吉</p></td>
 <td><p>芝玲的兒子。街頭巷尾出了名的搗蛋鬼，活潑聰明，心思細膩敏感，平常最愛黏著媽媽芝玲。當芝玲出門時，會託Eric阿嬤或是來到新加坡的筱艾，幫忙照顧。雖然小吉百般不情願仍舊盡量配合在大人的面前當個乖孩子。生日這天，媽媽答應她，工作完後要一起過生日，卻一直等不到消息…</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/劉子銓.md" title="wikilink">劉子銓</a></p></td>
 <td><p>王庭鈺</p></td>
-<td></td>
+<td><p>17歲高中生</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/陳婉婷_(台灣演員).md" title="wikilink">陳婉婷</a></p></td>
 <td><p>王皓如</p></td>
 <td><p>騰昇銀行台灣總部女員工，因超貸而遭判刑入獄。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/江沂宸.md" title="wikilink">江沂宸</a></p></td>
 <td><p>沈安惠</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/禾語辰.md" title="wikilink">禾語辰</a></p></td>
 <td><p>Mico</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/高浩成_Herman_du_Plessis" title="wikilink">高浩成 Herman du Plessis</a></p></td>
 <td><p>安德烈</p></td>
 <td><p>盜領案洗錢車手。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/羅美玲_(歌手).md" title="wikilink">羅美玲</a></p></td>
 <td><p>朵優媽</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1142,16 +1147,9 @@ Linda的老公，溫文儒雅，帶有書卷氣息。安靜、內斂，對一般
 <td><p>19</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>精彩最終回</p></td>
 </tr>
 <tr class="even">
-<td><p>2020年1月10日</p></td>
-<td><p>20</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>平均收視率</p></td>
 <td></td>
 <td><p>-</p></td>

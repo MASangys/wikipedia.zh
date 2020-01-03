@@ -511,10 +511,20 @@
 <td><p>上江洲誠</p></td>
 <td><p>久行宏和</p></td>
 <td><p>鎌田祐輔</p></td>
-<td><p>二宮奈那子、櫻井木之實 &lt;!--&gt;|-</p></td>
+<td><p>二宮奈那子、櫻井木之實</p></td>
 </tr>
 <tr class="even">
-<td><p>第14話</p></td>
+<td><p>第13話</p></td>
+<td><p><br />
+</p></td>
+<td><p>君之決意</p></td>
+<td><p>蒼樹靖子</p></td>
+<td><p>木村真一郎</p></td>
+<td><p>金森寒竹</p></td>
+<td><p>、 &lt;!--&gt;|-</p></td>
+</tr>
+<tr class="odd">
+<td><p>第15話</p></td>
 <td><p><br />
 </p></td>
 <td></td>

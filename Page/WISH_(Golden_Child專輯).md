@@ -364,6 +364,13 @@
 <td><p>너만 보인다 (I See U)</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>12月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/MBC歌謠大祭典.md" title="wikilink">MBC歌謠大祭典</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=7FImA4QUKSM">Let me+Genie(Remix ver)</a></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -376,6 +383,6 @@
 ## 參考資料
 
   - [genie -Golden Child 3rd Mini Album "WISH"](http://www.genie.co.kr/detail/albumInfo?axnm=81117288)
-  - [第三張迷你專輯《WISH》namuwiki](https://namu.wiki/w/WISH)
+  - [第三張迷你專輯《WISH》namuwiki](https://web.archive.org/web/20190110183455/https://namu.wiki/w/WISH)
 
 [Category:2018年音樂專輯](https://zh.wikipedia.org/wiki/Category:2018年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")

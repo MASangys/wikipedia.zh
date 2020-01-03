@@ -5,21 +5,22 @@
 
 ## 歷史沿革
 
-2018年5月31日，Swing娛樂宣布Wanna One與YMC合約結束，自6月1日起，Wanna One的所屬經紀公司變更為Swing娛樂。Swing娛樂由原[YMC娛樂](../Page/YMC娛樂.md "wikilink")管理本部長申東吉（）與YMC娛樂總管理事金東俊（）創立，為專門負責Wanna One的全職經紀公司，全體工作人員將全力支持Wanna One的發展。為方便更好的交接工作，Swing娛樂將在短時間內與YMC娛樂保持合作關係\[1\]\[2\] \[3\]。
+2018年5月31日，Swing娛樂宣布Wanna One與YMC合約結束，自6月1日起，Wanna One的所屬經紀公司變更為Swing娛樂。Swing娛樂由原[YMC娛樂](../Page/YMC娛樂.md "wikilink")管理本部長申東吉（）與YMC娛樂總管理事金東俊（）創立，為專門負責Wanna One的全職經紀公司，全體工作人員將全力支持Wanna One的發展。為方便更好的交接工作，Swing娛樂將在短時間內與YMC娛樂保持合作關係\[1\]\[2\]\[3\]。
 
 2019年1月9日，SWING娛樂宣布在經過與[STONE MUSIC娛樂](../Page/Stone_Music_Entertainment.md "wikilink")、[金在奐](../Page/金在奐.md "wikilink")本人三方充分的討論後，決定簽訂專屬合約\[4\]。
 
 2019年6月28日，[Mnet](../Page/Mnet.md "wikilink")表示SWING娛樂將負責從《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》選秀節目中所組成的團體[X1](../Page/X1_\(組合\).md "wikilink")\[5\]。
 
-2019年7月1日，[Studio Blu表示I](../Page/Stone_Music_Entertainment.md "wikilink").O.I將重組並準備回歸，新專輯將由Studio Blu負責製作，經紀管理則由SWING娛樂負責\[6\]。
+2019年7月1日，[Studio Blu表示](../Page/Stone_Music_Entertainment.md "wikilink")[I.O.I](../Page/I.O.I.md "wikilink")將重組並準備回歸，新專輯將由Studio Blu負責製作，經紀管理則由SWING娛樂負責\[6\]。其後，因為行程安排等原因，重組延遲、取消。
 
 2019年10月18日，宣布與[孫昊永](../Page/孫昊永.md "wikilink")簽約，將會負責經紀管理的業務，而行銷宣傳與內容策劃等業務會延續既有模式由[Stone Music娛樂負責](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")\[7\]。
+
+2019年12月26日，代表理事由申東吉變更為長子（韓語：조유명），前代表申東吉依然為公司董事 \[8\]\[9\]。
 
 ## 旗下藝人
 
 ### 團體
 
-  - [I.O.I](../Page/I.O.I.md "wikilink")（2019重組）－SWING娛樂負責經紀管理（放送、節目行程、廣告等）；[Studio Blu負責專輯製作](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")。
   - [X1](../Page/X1_\(組合\).md "wikilink")－SWING娛樂負責經紀管理（放送、節目行程、廣告等）；[CJ E\&M負責專輯策劃與行銷宣傳](https://zh.wikipedia.org/wiki/Stone_Music娛樂 "wikilink")（音樂相關）。
 
 ### SOLO歌手
@@ -58,3 +59,5 @@
 5.
 6.
 7.
+8.
+9.

@@ -196,22 +196,22 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/12/23</p></td>
-<td><p>%</p></td>
+<td><p>4.411%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2019/12/24</p></td>
-<td><p>%</p></td>
+<td><p>4.349%</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2019/12/30</p></td>
-<td><p>%</p></td>
+<td><p>5.483%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2019/12/31</p></td>
-<td><p>%</p></td>
+<td><p>4.732%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
@@ -277,7 +277,7 @@
 
 ## 同時段作品
 
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[V.I.P](../Page/VIP_\(韓國電視劇\).md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[V.I.P](../Page/VIP_\(韓國電視劇\).md "wikilink")》、《[浪漫醫生金師傅2](https://zh.wikipedia.org/wiki/浪漫醫生金師傅2 "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[檢察官內傳](../Page/檢察官內傳.md "wikilink")》
 
 ## 參考資料

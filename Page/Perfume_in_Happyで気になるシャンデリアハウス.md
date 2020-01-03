@@ -60,4 +60,5 @@ DISC 3收录了「HAPPY\!」和「Perfumeの気になる子ちゃん」两档节
 
 1.
 2.
+3.
 [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink") [Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")

@@ -60,7 +60,7 @@
   -
   -
 
-[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:TWICE](https://zh.wikipedia.org/wiki/Category:TWICE "wikilink") [Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink") [Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.  [TWICE JAPAN 4th & 5th SINGLE Release！](https://www.youtube.com/watch?v=8NlEeqHJgQY)
 2.  [TWICE聽五萬粉絲合唱落淚 7月連發日文新曲](http://www.epochtimes.com/b5/19/4/6/n11167538.htm)

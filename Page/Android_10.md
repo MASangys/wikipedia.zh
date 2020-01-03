@@ -167,7 +167,7 @@ Android 10 的新特性包括：\[3\]
   - [SONY](https://zh.wikipedia.org/wiki/SONY "wikilink") \[15\]
       - [Xperia XZ3](https://zh.wikipedia.org/wiki/Xperia_XZ3 "wikilink")
       - [Xperia XZ2](https://zh.wikipedia.org/wiki/Xperia_XZ2 "wikilink")
-      - [Xperia XZ2 Company](https://zh.wikipedia.org/wiki/Xperia_XZ2_Company "wikilink")
+      - [Xperia XZ2 Compact](https://zh.wikipedia.org/wiki/Xperia_XZ2_Compact "wikilink")
       - [Xperia XZ2 Premium](https://zh.wikipedia.org/wiki/Xperia_XZ2_Premium "wikilink")
       - [Xperia 10](https://zh.wikipedia.org/wiki/Xperia_10 "wikilink")
       - [Xperia 10 Plus](https://zh.wikipedia.org/wiki/Xperia_10_Plus "wikilink")

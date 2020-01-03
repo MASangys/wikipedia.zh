@@ -450,7 +450,7 @@ function Dts:makeDisplay()
 `   local ret = {}`
 `   if hasYear then`
 `       if self.year < 0 then`
-`           ret[#ret + 1] = '紀元前'`
+`           ret[#ret + 1] = '公元前'`
 `       end`
 `       local displayYear = math.abs(self.year)`
 `       displayYear = displayYear > 9999 and lang:formatNum(displayYear) or tostring(displayYear)`
@@ -583,7 +583,7 @@ function p._main(args)
 `       return ret`
 `   else`
 `       ret = string.format(`
-`           '`<strong class="error">`Error in `[`Template:Dts`](https://zh.wikipedia.org/wiki/Template:Dts "wikilink")`: %s`</strong>`',`
+`           '`<strong class="error">`Error in `[`Template:Date``   ``table``   ``sorting`](https://zh.wikipedia.org/wiki/Template:Date_table_sorting "wikilink")`: %s`</strong>`',`
 `           ret`
 `       )`
 `       if mw.title.getCurrentTitle().namespace == 0 then`
@@ -598,7 +598,7 @@ end
 function p.main(frame)
 
 `   local args = require('Module:Arguments').getArgs(frame, {`
-`       wrappers = 'Template:Dts',`
+`       wrappers = 'Template:Date table sorting',`
 `   })`
 `   return p._main(args)`
 
@@ -606,4 +606,4 @@ end
 
 return p
 
-[Category:Dts_templates_with_deprecated_parameters](https://zh.wikipedia.org/wiki/Category:Dts_templates_with_deprecated_parameters "wikilink") [Category:Dts_templates_with_errors](https://zh.wikipedia.org/wiki/Category:Dts_templates_with_errors "wikilink")
+[Category:Dts_templates_with_deprecated_parameters](https://zh.wikipedia.org/wiki/Category:Dts_templates_with_deprecated_parameters "wikilink") [Category:Date_table_sorting_templates_with_errors](https://zh.wikipedia.org/wiki/Category:Date_table_sorting_templates_with_errors "wikilink")

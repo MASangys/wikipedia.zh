@@ -1,7 +1,7 @@
 > 本文内容由[梨泰院CLASS](https://zh.wikipedia.org/wiki/梨泰院CLASS)转换而来。
 
 
-《**梨泰院CLASS**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")預計於2020年1月31日播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，改編自韓國漫畫家廣志同名網絡漫畫《梨泰院CLASS》，由《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》[金成允導演執導](https://zh.wikipedia.org/wiki/金成允 "wikilink")、漫畫原著作者趙光鎮擔任編劇\[1\]，由於漫畫在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink") Webtoon網站上評分和銷售額均為排名第一，人氣極高，未播出前即引來粉絲們關注\[2\]。此劇講述父親在一場意外中去世，在這不合理的世界中，兒子在梨泰院開設小酒館，並向害死他爸爸的人報復\[3\]\[4\]，預計接檔《[巧克力](../Page/巧克力_\(韓國電視劇\).md "wikilink")》。
+《**梨泰院CLASS**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")預計於2020年1月31日播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，改編自韓國漫畫家廣志同名網絡漫畫《梨泰院CLASS》，由《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》、《[雲畫的月光](../Page/雲畫的月光.md "wikilink")》[金成允導演執導](https://zh.wikipedia.org/wiki/金成允 "wikilink")、漫畫原著作者趙光鎮擔任編劇\[1\]，由於漫畫在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink") Webtoon網站上評分和銷售額均為排名第一，人氣極高，未播出前即引來粉絲們關注\[2\]。此劇講述父親在一場意外中去世，在這不合理的世界中，兒子在梨泰院開設小酒館，並向害死他爸爸的人報復\[3\]\[4\]，預計接檔《[巧克力](../Page/巧克力_\(韓國電視劇\).md "wikilink")》。 [Netflix](../Page/Netflix.md "wikilink")将于1月31日起全球上线。
 
 ## 演員陣容
 

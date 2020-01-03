@@ -15,18 +15,18 @@
 
   - 名字**粗體**為隊長
 
-| 成員列表                            |
-| ------------------------------- |
-| 藝名                              |
-| 漢字                              |
-| 星和                              |
-| **弘中**                          |
-| 潤浩                              |
-| 呂尚                              |
-| 崔傘                              |
-| 旼琦                              |
-| [友榮](../Page/鄭友榮.md "wikilink") |
-| 鍾浩                              |
+| 成員列表   |
+| ------ |
+| 藝名     |
+| 漢字     |
+| 星和     |
+| **弘中** |
+| 潤浩     |
+| 呂尚     |
+| 傘      |
+| 旼琦     |
+| 友榮     |
+| 鍾浩     |
 
 ## 經歷
 
@@ -74,11 +74,11 @@
 
 6月20日，在[M Countdown以](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")《WAVE》一曲，獲得出道後240天首個一位。
 
-**正規一輯《ATEEZ TREASURE EP.FIN : All To Action Teaser》**
+**正規一輯《ATEEZ TREASURE EP.FIN : All To Action》**
 
 9月23日,KQ娛樂於官方社群帳號發布回歸日程表與概念照。
 
-10月8日，韓國時間下午6點，公開第一張正規專輯《**ATEEZ TREASURE EP.FIN : All To Action Teaser**》全輯音源及主打歌《WONDERLAND》。
+10月8日，韓國時間下午6點，公開第一張正規專輯《**ATEEZ TREASURE EP.FIN : All To Action**》全輯音源及主打歌《WONDERLAND》。
 
 ## 音樂作品
 

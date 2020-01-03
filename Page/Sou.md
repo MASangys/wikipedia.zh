@@ -5,11 +5,35 @@
 
 ## 经历
 
-2013年10月20日（15岁，[初中生时](https://zh.wikipedia.org/wiki/国中生 "wikilink")）第一次投稿《世界寿命と最後の一日》，2014年12月1日投稿了《いすぼくろ》合作作品《ぼうけんのしょがきえました！》[1](https://www.nicovideo.jp/watch/sm25033079)，并入Niconico名人堂。代表作《右に曲ガール》（2015年1月8日发布）[2](https://www.nicovideo.jp/watch/sm25302523)，再次突破百万。2015年12月2日，Sou发表的第一张专辑《水奏レグルス》，正式出道。而在最初的日本公信榜中，CD唱片排行榜记录为27名，并在5周内持续在榜\[1\]。而且刚开始销售的一周里卖出了3910张专辑（约为9，712，440日元）\[2\]。2019年3月，发表自己亲自作词作曲的第一首歌曲《愚者のパレード》\[3\]。同年5月，在[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")举办了首次个人演唱会“Salir”\[4\]。之后，与[那由坦星人](https://zh.wikipedia.org/wiki/那由坦星人 "wikilink")、[春卷饭](https://zh.wikipedia.org/wiki/春卷饭 "wikilink")、[Eve等共同发表作品](https://zh.wikipedia.org/wiki/Eve "wikilink")。后来在与[木村](https://zh.wikipedia.org/wiki/木村 "wikilink")、[月比斯卡特共同组成的组合](https://zh.wikipedia.org/wiki/月比斯卡特 "wikilink")“おかえりって言え”活动的同时\[5\]，也继续发表[视频](../Page/视频.md "wikilink")。2019年7月至今，在[Niconico动画上](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")，翻唱Eve制作的歌曲《ナンセンス文学》的视频观看次数超过450万次，在[YouTube](../Page/YouTube.md "wikilink")上，翻唱[蝶蝶P](../Page/蝶蝶P.md "wikilink")的《心做し》的视频观看次数超过1,300万次，分别成为人气作品。
+2013年10月20日（15岁，[初中生时](https://zh.wikipedia.org/wiki/国中生 "wikilink")）第一次投稿《世界寿命と最後の一日》。\[1\]
 
-## 性格
+2014年12月1日投稿了《いすぼくろ》合作作品《ぼうけんのしょがきえました！》[1](https://www.nicovideo.jp/watch/sm25033079)，并入Niconico名人堂。
 
-Sou本人称自己是“不擅长在人前露面，闭门不出的人”\[6\]，并且没有在网络上公开自己的容貌。一般来说，大家都叫他“Sou君”或是“埋Sou”。
+2015年1月8日，代表作《右に曲ガール》，再次突破百万。\[2\]
+
+2015年12月2日，Sou发表的第一张专辑《水奏レグルス》，正式出道。\[3\]
+
+而在最初的日本公信榜中，CD唱片排行榜记录为27名，并在5周内持续在榜\[4\]。而且刚开始销售的一周里卖出了3910张专辑（约为9，712，440日元）\[5\]。
+
+2017年5月至今，在Niconico动画上，翻唱Eve制作的歌曲《ナンセンス文学》的视频观看次数超过505万次。\[6\]
+
+之后，与[那由坦星人](https://zh.wikipedia.org/wiki/那由坦星人 "wikilink")、[Eve](https://zh.wikipedia.org/wiki/Eve "wikilink")、[春卷饭等共同发表作品](https://zh.wikipedia.org/wiki/春卷饭 "wikilink")。\[7\]\[8\]\[9\]后来在与[木村](https://zh.wikipedia.org/wiki/木村 "wikilink")、[月比斯卡特共同组成的组合](https://zh.wikipedia.org/wiki/月比斯卡特 "wikilink")“おかえりって言え”活动的同时\[10\]，也继续发表[视频](../Page/视频.md "wikilink")。
+
+在[YouTube](../Page/YouTube.md "wikilink")上，翻唱[蝶蝶P](../Page/蝶蝶P.md "wikilink")的《心做し》的视频观看次数超过1,677万次，成为人气作品。\[11\]
+
+2019年3月，发表自己亲自作词作曲的第一首歌曲《愚者のパレード》\[12\]。
+
+同年5月，在[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")举办了首次个人演唱会“Salir”\[13\]。
+
+
+
+## 性格与琐事
+
+身高为168的Sou\[14\]，因为[Niconico动画在朋友间很流行](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")，觉得很有趣就试着投稿了，所以初三开始玩起了翻唱。在推特上是个话唠\[15\]，平时带自制的午餐到学校\[16\]，数学好，英语不好\[17\]。喜欢冬天，因为怕热\[18\]，讨厌玉米\[19\]，喜欢牛肉\[20\]，芝士蛋糕\[21\]，糖果和拉面\[22\]。O型血，还经常被蚊子咬\[23\]。家里还养了一只猫\[24\]\[25\]。
+
+Sou害怕过山车\[26\]，会摆弄自己的照片，喜欢电音，喜欢玩游戏\[27\]现实生活也很充实。目前正在读大学。
+
+其中和椅子（いすぼくろ），社长（ウォルピスカーター），kain，黑云（くろくも）等唱见的关系很好。 还很喜欢唱见まふまふ\[28\]，因此还翻唱过很多首他的曲子。据他本人说，他本来就是“不擅长在人前露面，闭门不出的人”\[29\]。而一般来说，大家都叫他“Sou君”或是“埋Sou”。
 
 ## 唱片
 
@@ -137,7 +161,7 @@ SNCL-11（通常盤）</p></td>
   -
     （[2019年](../Page/2019年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")）
 
-[3](http://com.nicovideo.jp/community/co1902683)
+[2](http://com.nicovideo.jp/community/co1902683)
 
 <references group="註" />
 
@@ -146,8 +170,31 @@ SNCL-11（通常盤）</p></td>
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
 
 1.
-2.   ORICON STYLE|url=[https://web.archive.org/web/20151209163513/http://www.oricon.co.jp/rank/ja/w/2015-12-14/p/3/|accessdate=2019-10-28|date=2015-12-09|work=web.archive.org](https://web.archive.org/web/20151209163513/http://www.oricon.co.jp/rank/ja/w/2015-12-14/p/3/%7Caccessdate=2019-10-28%7Cdate=2015-12-09%7Cwork=web.archive.org)}}
+2.
 3.
 4.
-5.
+5.   ORICON STYLE|url=[https://web.archive.org/web/20151209163513/http://www.oricon.co.jp/rank/ja/w/2015-12-14/p/3/|accessdate=2019-10-28|date=2015-12-09|work=web.archive.org](https://web.archive.org/web/20151209163513/http://www.oricon.co.jp/rank/ja/w/2015-12-14/p/3/%7Caccessdate=2019-10-28%7Cdate=2015-12-09%7Cwork=web.archive.org)}}
 6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/120365361721|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/120365361721%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+15.
+16.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/128090700857|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/128090700857%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+17.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/111408160569|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/111408160569%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+18.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/128090509369|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/128090509369%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+19.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/118070474809|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/118070474809%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+20.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/109384621881|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/109384621881%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+21.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/118070017849|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/118070017849%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+22.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/111401098297|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/111401098297%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+23.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/115333565753|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/115333565753%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+24.
+25.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/111408097593|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/111408097593%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+26.
+27.
+28.  ask.fm/Nico_nico_Sou|url=[https://ask.fm/Nico_nico_Sou/answers/118070364473|accessdate=2019-12-28|work=ASKfm|language=ja](https://ask.fm/Nico_nico_Sou/answers/118070364473%7Caccessdate=2019-12-28%7Cwork=ASKfm%7Clanguage=ja)}}
+29.

@@ -52,18 +52,54 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>414</p></td>
+<td><p>413</p></td>
 <td><p>484</p></td>
 <td><p>1月5日<small><br />
+（2019年12月16日）</small></p></td>
+<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a>、<br />
+<a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a>(<a href="../Page/5urprise.md" title="wikilink">5urprise</a>)、</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>最終任務：没被邀請的人</strong></span><br />
+<strong>導演隊</strong><br />
+<br />
+<strong>國民演員 | 演員隊</strong><br />
+|</p></td>
+<td><p><strong>導演隊</strong><br />
+隱藏身份並擊敗國民演員<br />
+<strong>國民演員</strong><br />
+隱藏身份<br />
+<strong>演員隊</strong><br />
+在國民演員不被淘汰出局的情況下擊敗導演隊</p></td>
+<td><p><strong>勝出</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>414</p></td>
+<td><p>485</p></td>
+<td><p>1月12日<small><br />
 （2019年12月17日）</small></p></td>
+<td><p>無嘉賓</p></td>
 <td></td>
-<td><p><br />
-<small>（<br />
-）</small></p></td>
 <td><p><span style="font-size:110%"></span><br />
 </p></td>
 <td></td>
 <td><p><strong>勝出</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>415</p></td>
+<td><p>486</p></td>
+<td><p>1月19日<small><br />
+（2019年12月31日）</small></p></td>
+<td><p><a href="../Page/金盛吳.md" title="wikilink">金盛吳</a>、<a href="../Page/安宰弘.md" title="wikilink">安宰弘</a>、<br />
+、<a href="../Page/姜素拉.md" title="wikilink">姜素拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS放送中心</a><br />
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/陽川區" title="wikilink">陽川區</a>）</small></p></td>
+<td><p><span style="font-size:110%"></span><br />
+</p></td>
+<td></td>
+<td><p><strong>勝出</strong>[1]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -88,9 +124,9 @@
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[1]</p></th>
-<th><p>AGB全國<br />
 收視率[2]</p></th>
+<th><p>AGB全國<br />
+收視率[3]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -222,5 +258,6 @@
   -
 [Category:Running_Man](https://zh.wikipedia.org/wiki/Category:Running_Man "wikilink")
 
-1.  [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-2.  [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
+1.  宣傳電影《不會害你》。
+2.  [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
+3.  [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

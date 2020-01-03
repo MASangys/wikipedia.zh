@@ -3,7 +3,15 @@
 
 [Centenary_of_Military_Aviation_2014_Air_Show_(RAAF_Williams,_Point_Cook)_(12852630743).jpg](https://zh.wikipedia.org/wiki/File:Centenary_of_Military_Aviation_2014_Air_Show_\(RAAF_Williams,_Point_Cook\)_\(12852630743\).jpg "fig:Centenary_of_Military_Aviation_2014_Air_Show_(RAAF_Williams,_Point_Cook)_(12852630743).jpg") [The_Royal_Australian_Air_Force_has_completes_the_first_fuel_transfer_with_the_air_refuelling_boom_from_a_RAAF_KC-30A_Multi_Role_Tanker_Transport_to_a_U.S._Air_Force_F-35A_Lightning_II.jpg](https://zh.wikipedia.org/wiki/File:The_Royal_Australian_Air_Force_has_completes_the_first_fuel_transfer_with_the_air_refuelling_boom_from_a_RAAF_KC-30A_Multi_Role_Tanker_Transport_to_a_U.S._Air_Force_F-35A_Lightning_II.jpg "fig:The_Royal_Australian_Air_Force_has_completes_the_first_fuel_transfer_with_the_air_refuelling_boom_from_a_RAAF_KC-30A_Multi_Role_Tanker_Transport_to_a_U.S._Air_Force_F-35A_Lightning_II.jpg")KC-30A是A330 MRTT的衍生型\]\]
 
-**空中客车A330 MRTT**（）是基于民用版[空中客车A330](../Page/空中客车A330.md "wikilink")的[空中加油](../Page/空中加油.md "wikilink")机。改款飞机订购方包括[澳大利亚皇家空军](https://zh.wikipedia.org/wiki/澳大利亚皇家空军 "wikilink")、[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")、[沙特阿拉伯皇家空军](../Page/沙特阿拉伯皇家空军.md "wikilink")、[法国空军](../Page/法国空军.md "wikilink")、、[新加坡共和国空军](../Page/新加坡共和国空军.md "wikilink")。\[1\] MRTT型空客A330是基于A330-200系列飞机研制的。在AirTanker集团竞标英国的”未来战略加油机（FATA）”计划过程中，A330-200飞机于2004年1月被选中，但截至2007年1月尚未签订任何正式合同，原因在于发杂的私人融资倡议合同谈判。最初服役时间是2008年，但现在仍无定论。
+**空中客车A330 MRTT**（）是基于[空中客车A330](../Page/空中客车A330.md "wikilink")的[空中加油](../Page/空中加油.md "wikilink")机。截至2019年8月31日，累計訂單60架，共交付39架。
+
+## 設計
+
+在不使用額外油箱的情況下，A330 MRRT可攜帶110公噸燃料，是世界上最大的空中加油機。它的機翼與四引擎的A340相同，原外側引擎位置作出了結構強化，改為安裝加油設備及輸油管。
+
+## 歷史
+
+改款飞机订购方包括[澳大利亚皇家空军](https://zh.wikipedia.org/wiki/澳大利亚皇家空军 "wikilink")、[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")、[沙特阿拉伯皇家空军](../Page/沙特阿拉伯皇家空军.md "wikilink")、[法国空军](../Page/法国空军.md "wikilink")、、[新加坡共和国空军](../Page/新加坡共和国空军.md "wikilink")。\[1\]A330 MRTT是基于A330-200系列飞机研制的。在AirTanker集团竞标英国的未来战略加油机（FATA）计划过程中，A330-200飞机于2004年1月被选中，但截至2007年1月尚未签订任何正式合同，原因在于发杂的私人融资倡议合同谈判。最初服役时间是2008年，但现在仍无定论。
 
 澳大利亚与2004年4月选中A330，并于同年12月签定购买合同，交付时间预计在2009年-2011年间，以取代逐渐高龄的[波音707](../Page/波音707.md "wikilink")。
 
@@ -121,7 +129,7 @@
 
 [Category:空中客车](https://zh.wikipedia.org/wiki/Category:空中客车 "wikilink")
 
-1.  <https://www.airbus.com/defence/a330mrtt.html>
+1.
 2.
 3.
 4.

@@ -17,8 +17,17 @@
 
 10月16日零時，NU'EST官方SNS公開專輯VER.1（Forenoon版）的官方預告照，透過新潮悠閒的青春情調表現其可愛多彩的男孩魅力\[40\]\[41\]。17日零時，NU'EST官方SNS公開專輯VER.3（On The Table版）的官方預告照，滿溢溫暖甜美的風格又散發著精巧細緻的俏皮氣息\[42\]\[43\]。18日零時，NU'EST官方Youtube頻道和SNS公開新專輯《The Table》主打歌〈LOVE ME〉的20秒預告影片\[44\]，在充滿明亮的氣氛中傳遞著令人愉悅的歡快感，獲得爆炸性的迴響\[45\]\[46\]\[47\]。19日零時，NU'EST官方SNS更新全體成員《The Table》官方概念照UNIT版\[48\]\[49\]\[50\]，在不同的專輯版本概念中，成員們盡情地展現自己獨特的魅力\[51\]\[52\]。20日零時，NU'EST官方SNS更新《The Table》專輯封面\[53\]，令大眾再度提高期待的心情\[54\]\[55\]。當日19時，NU'EST成員於Naver VLIVE頻道舉辦「NU'EST 7th Mini Album 'The Table' D-1 UNBOXING V LIVE」\[56\]宣傳活動，引發帶有緊張的驚喜感\[57\]\[58\]。
 
+## 正式發行
 
-\== 發行版本 == 實體專輯以三種版本（Forenoon、Piece Of Pie、On The Table）的一般專輯以及一種版本的KIHNO專輯發售。
+2019年10月21日18時，NU'EST第七張迷你專輯《The Table》正式透過數位音樂網站公開，PLEDIS娛樂透過官方Youtube頻道和SNS同時公開主打曲〈LOVE ME〉的音樂錄影帶，當天下午在首爾[慶熙大學](../Page/慶熙大學.md "wikilink")和平殿堂舉辦專輯紀念媒體發布會，並於20時在Naver VLIVE頻道舉行「NU'EST 7th Mini Album 'The Table' 發售紀念 Showcase」\[59\]\[60\]\[61\]。
+
+在眾多知名歌手回歸的10月，主打歌〈LOVE ME〉音源公開後在NAVER MUSIC、Soribada、Bugs等實時榜單排名第一，取得三榜一位的佳績，專輯收錄曲音源亦全部進入各大榜單的上位圈。於實體唱片銷售網站HANTEO排行榜、Synnara唱片行、[INTERPARK購物商城等達成周排行榜一位](https://zh.wikipedia.org/wiki/INTERPARK "wikilink")，Aladin唱片行、YES24唱片行等達到日排行榜一位的銷售紀錄\[62\]\[63\]。此外《The Table》在菲律賓、泰國、新加坡和澳門等七個海外國家與地區iTunes Top專輯排行榜獲得一位，於印尼、墨西哥、越南等十二個國家與地區iTunes Top專輯排行榜進入前五名\[64\]。《The Table》首週（2019.10.21\~2019.10.27）實體專輯銷售成績於HANTEO銷量榜為168,853張，成為韓國實體專輯銷售周冠軍\[65\]，更登上2019年第43週（2019.10.20\~2019.10.26）Gaon Chart音源下載排行榜的首位\[66\]。
+
+10月30日，NU'EST於MBC《[SHOW CHAMPION](../Page/Show_Champion.md "wikilink")》以 〈LOVE ME〉奪得此次回歸第一個音樂節目一位。10月31日，於Mnet《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》再度獲得一位。11月1日，在KBS《[Music Bank](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》取得本次回歸第三個一位，也是〈LOVE ME〉的第一個無線台一位。11月2日，在MBC《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》取得本次回歸第四個一位，為NU'EST初次在此音樂節目獲得一位，使得此獎項意義更加重大。11月3日，在SBS《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》取得本次回歸第五個一位，亦是NU'EST初次在此音樂節目獲得一位，為第七張迷你專輯《The Table》的活動寫下巨大成功的歷史篇章。NU'EST在《The Table》回歸期出演的所有音樂放送節目皆取得一位，〈LOVE ME〉成為NU'EST第一首五台冠軍歌曲，本次橫掃五冠王的優秀紀錄在競爭激烈的10月韓國樂壇中展現了強烈的氣勢與影響力\[67\]\[68\]。
+
+## 發行版本
+
+實體專輯以三種版本（Forenoon、Piece Of Pie、On The Table）的一般專輯以及一種版本的KIHNO專輯發售。
 
 <table>
 <tbody>
@@ -37,7 +46,7 @@
 <li>[初回限定贈品] 隨機摺疊卡1張，全5種，150mm x 105mm（全版本15種）</li>
 <li>[初回限定贈品] AR隨機寫真小卡1張，55mm x 85mm（全版本5種）</li>
 <li>[初回限定贈品] 隨機海報1張，420mm x 594mm（全版本6種）</li>
-<li>專輯銷量：216,812+</li>
+<li>專輯銷量：217,088+</li>
 </ul>
 <ol>
 <li></li>
@@ -192,3 +201,13 @@
 56.
 57.
 58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.

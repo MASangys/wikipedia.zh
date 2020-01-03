@@ -3,7 +3,7 @@
 
 《**HELLO WORLD**》（）是2019年9月20日于日本上映的[日本](../Page/日本.md "wikilink")原創動畫電影。
 
-## 概要
+## 摘要
 
 这是伊藤智彦继2017年《[刀剑神域剧场版：序列争战](https://zh.wikipedia.org/wiki/刀剑神域剧场版：序列争战 "wikilink")》后第一套动画，亦是其第6部执导电影作。\[1\]\[2\]腳本則由小說家野崎まど負責，角色原案來自參與過[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")與[幸運星的](https://zh.wikipedia.org/wiki/幸運星 "wikilink")[堀口悠紀子](../Page/堀口悠紀子.md "wikilink")。並由擅長3D動畫的[Graphinica](../Page/Graphinica.md "wikilink")製作。本作亦為[北村匠海](../Page/北村匠海.md "wikilink")首次挑戰為動畫片配音，使用預先錄音再進行畫面製作的流程。
 
@@ -27,6 +27,7 @@
 <!-- end list -->
 
   -
+    真實身分是現實的瑠璃化為烏鴉協助堅書直實。
 
 ### 次要角色
 

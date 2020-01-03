@@ -84,12 +84,13 @@
 
 ## 音樂現場
 
-| 節目名稱                                                               | 電視台                                                     | 日期                                                                                              |
-| ------------------------------------------------------------------ | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| 風（바람 / Levanter）                                                   |                                                         |                                                                                                 |
-| [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")  | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 12月13日<ref>{{Citation|last=KBS World TV|title=Stray Kids - Levanter \[Music Bank / 2019.12.13\] |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink") | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 12月14日\[10\]、12月21日\[11\]                                                                       |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")              | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 12月15日\[12\]                                                                                    |
+| 節目名稱                                                                   | 電視台                                                     | 日期                                                                                              |
+| ---------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| 風（바람 / Levanter）                                                       |                                                         |                                                                                                 |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                      | 1月2日\[10\]                                                                                      |
+| [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 12月13日<ref>{{Citation|last=KBS World TV|title=Stray Kids - Levanter \[Music Bank / 2019.12.13\] |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 12月14日\[11\]、12月21日\[12\]                                                                       |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 12月15日\[13\]                                                                                    |
 
 ## 榜單成績
 
@@ -113,11 +114,11 @@
 <td><p>2019年12月8日－14日</p></td>
 <td><p><strong>#1</strong></p></td>
 <td><p> </p></td>
-<td><p>[13]</p></td>
+<td><p>[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年12月15日－21日</p></td>
-<td></td>
+<td><p>[15]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -126,8 +127,8 @@
 </tr>
 <tr class="odd">
 <td><p>2019年12月22日－28日</p></td>
-<td></td>
-<td></td>
+<td><p>#5</p></td>
+<td><p>[16]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -158,7 +159,7 @@
 <td><p>2019年12月6日－12日</p></td>
 <td><p>#2</p></td>
 <td><p>10.83%</p></td>
-<td><p>[14] </p></td>
+<td><p>[17] </p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年12月13日－19日</p></td>
@@ -176,7 +177,7 @@
 <td></td>
 <td><p>#9</p></td>
 <td></td>
-<td><p>[15]</p></td>
+<td><p>[18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本</p></td>
@@ -184,10 +185,19 @@
 <td><p>專輯週榜</p></td>
 <td><p>2019年12月9日－15日</p></td>
 <td><p>#28</p></td>
-<td><p>2,919+</p></td>
-<td><p>[16]</p></td>
+<td><p>2,919</p></td>
+<td><p>[19]</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年12月16日－22日</p></td>
+<td><p>#17</p></td>
+<td><p>6,197</p></td>
+<td><p>[20]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -263,10 +273,14 @@
 7.
 8.
 9.
-10.
+10.  M COUNTDOWN 200102 EP.|date=2020-01-02|url=<https://www.youtube.com/watch?v=>}}
 11.
 12.
 13.
 14.
 15.
 16.
+17.
+18.
+19.
+20.

@@ -80,31 +80,49 @@
 <td><p><a href="../Page/澳門東亞運動會體育館.md" title="wikilink">澳門東亞運動會體育館</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>2020年1月19日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2020年2月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年2月8日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年2月9日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2020年2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡" title="wikilink">福岡</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2020年2月16日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年3月25日</p></td>
+<td><p><a href="../Page/埼玉縣.md" title="wikilink">琦玉</a></p></td>
+<td></td>
+<td><p><a href="../Page/埼玉超級競技場.md" title="wikilink">埼玉超級競技場</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2020年3月26日</p></td>
 <td></td>
 <td></td>
 <td></td>

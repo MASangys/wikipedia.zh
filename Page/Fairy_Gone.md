@@ -624,16 +624,22 @@ Lee Sung-jin</p></td>
 <td><p>小島明日香、山方春香<br />
 井上裕亮、秋山有希<br />
 杉光登、阿部美佐緒<br />
-小笠原憂、Choi Kyung-seok &lt;!--&gt;|-</p></td>
-<td><p>第24話</p></td>
+小笠原憂、Choi Kyung-seok</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>第25話</p></td>
+<td><p>第24話</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>&lt;--&gt;</p></td>
+<td><p>自由的天空 相扣的十指</p></td>
+<td><p>鈴木健一<br />
+<a href="../Page/津田尚克.md" title="wikilink">津田尚克</a><br />
+福田道生</p></td>
+<td><p>鈴木健一、津田尚克<br />
+高村彰</p></td>
+<td><p>小島明日香、杉光登<br />
+山方春香、小笠原憂<br />
+阿部美佐緒、森島範子<br />
+鍋田香代子</p></td>
 <td></td>
 </tr>
 </tbody>

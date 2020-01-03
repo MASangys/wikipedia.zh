@@ -36,7 +36,7 @@
 
 ### TTP Festival
 
-本次主打歌曲《TTP Festival》翻唱自[AKB48](../Page/AKB48.md "wikilink") [Team Surprise公演歌曲](https://zh.wikipedia.org/wiki/CR柏青哥AKB48 "wikilink")《AKB Festival》（），是一首由天樂填寫中文詞、辻峰拓作曲、編曲的作品。此曲的Center位置成員為林于馨。單曲選拔組的詳細名單如下：
+本次主打歌曲《TTP Festival》翻唱自[AKB48](../Page/AKB48.md "wikilink") [Team Surprise公演歌曲](https://zh.wikipedia.org/wiki/CR柏青哥AKB48 "wikilink")《AKB Festival》（），是一首由天樂填寫中文詞、辻峰拓作曲、編曲的作品。歌曲MV取景于[臺北市](../Page/臺北市.md "wikilink")[信義區](https://zh.wikipedia.org/wiki/信义区_\(台北市\) "wikilink")[四四南村](../Page/四四南村.md "wikilink")。此曲的Center位置成員為林于馨。單曲選拔組的詳細名單如下：
 
   - 正式成员：陳詩雅、潘姿怡、劉語晴、阿部瑪利亞、[冼迪琦](../Page/冼迪琦.md "wikilink")、林于馨、劉潔明、劉曉晴、[邱品涵](../Page/邱品涵.md "wikilink")、張羽翎
   - 研究生：李佳俐、柏靈

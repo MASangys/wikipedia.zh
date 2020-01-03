@@ -1,7 +1,7 @@
 > 本文内容由[NHK放送博物館](https://zh.wikipedia.org/wiki/NHK放送博物館)转换而来。
 
 
-**NHK放送博物館**（，）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）運營的一家以廣播電視為主體的博物館。NHK放送博物館位於NHK的發祥地，開館於1956年，是世界首座廣播專門博物館。博物館在開館當時使用東京放送局的建築。現在的四層樓建築修建於1968年。2016年，作為廣播方式開始90週年紀念事業的一部分，NHK放送博物館在改裝之後重新開業\[1\]。
+**NHK放送博物館**（，）是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）營運的一家展示[廣播事業的](https://zh.wikipedia.org/wiki/廣播 "wikilink")[博物館](https://zh.wikipedia.org/wiki/博物館 "wikilink")，位於NHK的發祥地——[日本](../Page/日本.md "wikilink")[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")，開館於1956年，是世界首座廣播專門博物館。開館時使用東京放送局（NHK前身）的局舍，現在的四層樓館舍修建於1968年。2016年，做為日本廣播開始90週年紀念事業的一部分，該館在改裝之後重新開業\[1\]。
 
 ## 參考資料
 

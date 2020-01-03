@@ -224,14 +224,15 @@ Queen Of Mystery 2</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>03/12-<br />
-31/12</p></td>
+03/01<br />
+<a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/不是機器人啊.md" title="wikilink">我不是機械人</a><br />
 I'm Not a Robot</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2019年).md" title="wikilink">2019年ViuTV劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），12月27日暫停播映</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），12月24日至27日、31日暫停播映</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -332,7 +333,7 @@ Residential Complex</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於ViuTV首播時不設重播時段及網上重溫</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a>），於ViuTV首播時不設網上重溫</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -538,11 +539,11 @@ Mama Fairy and the Woodcutter</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>05/12-<br />
-<br />
+07/01<br />
 <a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/Legal_High_(韓國電視劇).md" title="wikilink">Law界狂人</a><br />
 Legal High</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>23</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
@@ -724,12 +725,12 @@ About Time</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>25/12-<br />
-21/01<br />
+22/01<br />
 <a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑巿_(電視劇)" title="wikilink">黑巿</a><br />
+<td style="text-align: center;"><p><br />
 Dark City</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹昊宸</a>、<br />
+<td style="text-align: center;"><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<br />
 <a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/魯文傑.md" title="wikilink">魯文傑</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/朱栢康" title="wikilink">朱栢康</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />
 、、、<br />
@@ -1034,7 +1035,7 @@ The Liar &amp; His Lover</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>19/11-<br />
-01/01<br />
+02/01<br />
 <a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a><br />
 Love in the moonlight</p></td>
@@ -1145,15 +1146,14 @@ Detective Yugami</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>03/12-<br />
-01/01<br />
-<a href="../Page/ViuTV電視劇集列表_(2020年).md" title="wikilink">續20年</a></p></td>
+31/12</p></td>
 <td style="text-align: center;"><p><a href="../Page/午夜伴廊.md" title="wikilink">午夜伴廊</a><br />
 Midnight Cousin</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>12月25日及26日暫停播映</p></td>
+<td style="text-align: center;"><p>12月25日暫停播映</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

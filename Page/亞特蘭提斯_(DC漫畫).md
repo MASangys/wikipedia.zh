@@ -17,15 +17,15 @@
 
 ## 其他媒體
 
-### 電視
-
-  - [綠箭宇宙](../Page/綠箭宇宙.md "wikilink")：《[閃電俠](https://zh.wikipedia.org/wiki/閃電俠_\(2014年電視劇\) "wikilink")》第二季中，地球2的**亞特蘭提斯**是一塊大陸。Jay([極速偽裝](https://zh.wikipedia.org/wiki/極速 "wikilink"))的最好朋友在此地。地球2的Barry及Iris曾於此地紀念蜜月日，也有親戚居住此地避免極速的追殺。
-
 ### 電影
 
   - [DC擴展宇宙](../Page/DC擴展宇宙.md "wikilink")
       - 《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》：[荒原狼來此搶奪](../Page/荒原狼_\(漫畫\).md "wikilink")。
       - 《[水行俠](https://zh.wikipedia.org/wiki/水行俠_\(電影\) "wikilink")》：[水行俠](../Page/水行俠.md "wikilink")的母親來自**亞特蘭提斯**。
+
+### 電視
+
+  - [綠箭宇宙](../Page/綠箭宇宙.md "wikilink")：《[閃電俠](https://zh.wikipedia.org/wiki/閃電俠_\(2014年電視劇\) "wikilink")》第二季中，地球2的**亞特蘭提斯**是一塊大陸。Jay([極速偽裝](https://zh.wikipedia.org/wiki/極速 "wikilink"))的最好朋友在此地。地球2的Barry及Iris曾於此地紀念蜜月日，也有親戚居住此地避免極速的追殺。
 
 ## 參考
 

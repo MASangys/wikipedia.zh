@@ -1,7 +1,7 @@
 > 本文内容由[MustB](https://zh.wikipedia.org/wiki/MustB)转换而来。
 
 
-**MustB**（），是[韓國MustM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年1月21日推出的七人男子組合成員包括Hawoon、Taegeon、Sangwoo、Wooyeon、Doha、Soohyun及Sihoo。
+**MustB**（），是[韓國MustM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年1月21日推出的七人男子組合成員包括Hawoon、Taegeon、Sangwoo、Wooyeon、Doha、Soohyun及Sihoo。2019年4月20日發生車禍事故後，同年7月2日於官方Instagram上公布成員變更為五位Taegeon、Wooyeon、Doha、Soohyun及Sihoo。
 
 ## 成員資料
 

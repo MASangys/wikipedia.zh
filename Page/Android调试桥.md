@@ -1,7 +1,7 @@
 > 本文内容由[Android调试桥](https://zh.wikipedia.org/wiki/Android调试桥)转换而来。
 
 
-**Android调试桥**（，简称：ADB），是一种拥有许多功能的命令行工具，可让您与设备进行通信。ADB命令便于执行各种设备操作（例如安装和调试应用，传输文件等）\[1\]，并提供对[Unix shell](../Page/Unix_shell.md "wikilink")（可用来在设备上运行各种命令）的访问权限。它是一种客户端-服务器程序，包括客户端、守护进程（adbd）、服务器三个组件。\[2\]
+**Android调试桥**（，简称：ADB），是一种拥有许多功能的用于调试[Android](../Page/Android.md "wikilink")设备的命令行工具，可让您与Android设备进行通信。ADB命令便于执行各种设备操作（例如安装和调试应用，传输文件等）\[1\]，并提供对[Unix shell](../Page/Unix_shell.md "wikilink")（可用来在设备上运行各种命令）的访问权限。它是一种客户端-服务器程序，包括客户端、守护进程（adbd）、服务器三个组件。\[2\]
 
 ## Android调试桥的工作原理
 
@@ -32,6 +32,8 @@
 ## 参考资料
 
 <references />
+
+[Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")
 
 1.
 2.

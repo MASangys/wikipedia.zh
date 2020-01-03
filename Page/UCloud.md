@@ -13,7 +13,7 @@ UCloud总部位于[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，�
 
 截至2018年上半年，UCloud在中国公有云IaaS市场占比达4.8%，位列第6位，排在[阿里云](https://zh.wikipedia.org/wiki/阿里云 "wikilink")、[腾讯云](../Page/腾讯云.md "wikilink")、[中国电信云](https://zh.wikipedia.org/wiki/中国电信云 "wikilink")、[亚马逊云以及](../Page/亚马逊云计算服务.md "wikilink")[金山云](../Page/金山云.md "wikilink")之后。\[9\]
 
-## 备注及参考
+## 参考文献
 
 [Category:云端运算](https://zh.wikipedia.org/wiki/Category:云端运算 "wikilink")
 

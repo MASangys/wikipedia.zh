@@ -208,7 +208,7 @@ end
 `           end         `
 `       -- 其他（一列）：`
 `       else`
-`           a = `[`'''`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..e1..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2..`[](https://zh.wikipedia.org/wiki/ "wikilink")
+`           a = `[`align=center`](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].code..`[](https://zh.wikipedia.org/wiki/''' "wikilink")`..e1..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..d[no].direction..`[](https://zh.wikipedia.org/wiki/ "wikilink")`..e2..`[](https://zh.wikipedia.org/wiki/ "wikilink")
 `       end`
 `   end`
 `   return a`

@@ -106,11 +106,11 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 
       -
         作詞：松原さらり（），作曲、編曲：SHOW（Digz, Inc. Group），主唱：らき（）、あいね（）、みお（[木戶衣吹](../Page/木戶衣吹.md "wikilink")） from
-        主唱：らき from BEST FRIENDS！（第1、3、6、8話插入曲）
+        主唱：らき from BEST FRIENDS！（第1、3、6、8、13話插入曲）
 
   - 片尾曲
 
-:; 「アイドル活動！オンパレード！ver.」（第1、3、6、10話）
+:; 「アイドル活動！オンパレード！ver.」（第1、3、6、10、13話）
 
 :: 作詞：，作曲：（），編曲：、，主唱：らき、あいね、みお from BEST FRIENDS！、わか（[霧島若歌](https://zh.wikipedia.org/wiki/Mia_REGINA#成員 "wikilink")）、るか（）、せな（）
 
@@ -152,64 +152,71 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 ### 插入曲
 
   - 「みんなみんな！」（第1話）
-    作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group），主唱：あいね、みお from BEST FRIENDS！（第1話）
+    作詞：松原さらり（onetrap），作曲：石田秀登，編曲：Mitsu.J（Digz, Inc. Group），主唱：あいね、みお from BEST FRIENDS！
   - 「MAKEOVER♡MAKEUP」（第2話）
-    作詞：こだまさおり，作曲：YUKI FUNAKOSHI（Digz, Inc. Group），編曲：C-Show、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：かな（）（第2話）
+    作詞：こだまさおり，作曲：YUKI FUNAKOSHI（Digz, Inc. Group），編曲：C-Show、YUKI FUNAKOSHI（Digz, Inc. Group），主唱：かな（）
   - 「窓-ココロ-ひらこう」（第2話）
-    作詞：松原さらり（onetrap），作曲：、，編曲：松田純一，主唱：あいね from BEST FRIENDS！（第2話）
+    作詞：松原さらり（onetrap），作曲：、，編曲：松田純一，主唱：あいね from BEST FRIENDS！
   - 「STARDOM！」（第2話）
-    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：，編曲：（agehasprings），主唱：みお from BEST FRIENDS！、せな（第2話）
+    作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：，編曲：（agehasprings），主唱：みお from BEST FRIENDS！、せな
   - 「Message of a Rainbow」（第3話）
-    作詞：松原さらり（onetrap），作曲：（onetrap），編曲：（onetrap），主唱：せな、ななせ（松岡七瀬）（第3話）
+    作詞：松原さらり（onetrap），作曲：（onetrap），編曲：（onetrap），主唱：せな、ななせ（松岡七瀬）
   - 「8月のマリーナ」（第3話）
-    作詞：只野菜摘，作曲：（MONACA），編曲：田中秀和（MONACA），主唱：みき（第3話）
+    作詞：只野菜摘，作曲：（MONACA），編曲：田中秀和（MONACA），主唱：みき
   - 「Girls be ambitious！」（第4話）
-    作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：舞花（[美山加戀](../Page/美山加戀.md "wikilink")） from BEST FRIENDS！（第4話）
+    作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：舞花（[美山加戀](../Page/美山加戀.md "wikilink")） from BEST FRIENDS！
   - 「おけまる」（第4話）
-    作詞：松原さらり（onetrap），作曲：YUMIKO、藤末樹，編曲：藤末樹，主唱：エマ（） from BEST FRIENDS！（第4話）
+    作詞：松原さらり（onetrap），作曲：YUMIKO、藤末樹，編曲：藤末樹，主唱：エマ（） from BEST FRIENDS！
   - 「Poppin' Bubbles」（第4話）
-    作詞：AM42，作曲、編曲：ミト，主唱：みき、みほ（天音美穗）（第4話）
+    作詞：AM42，作曲、編曲：，主唱：みき、みほ（天音美穗）
   - 「Lovely Party Collection」（第5話）
-    作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：るか、もな、みき（第5話）
+    作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：るか、もな、みき
   - 「いばらの女王」（第5話）
-    作詞：只野菜摘，作曲：，編曲：WATCHMAN，主唱：もな（第5話）
+    作詞：只野菜摘，作曲：，編曲：WATCHMAN，主唱：もな
   - 「アイデンティティ」（第5話）
-    作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group），主唱：ミライ（[大橋彩香](../Page/大橋彩香.md "wikilink")） from BEST FRIENDS！、るか（第5話）
+    作詞：松原さらり（onetrap），作曲、編曲：Coffee Creamers（Digz, Inc. Group），主唱：ミライ（[大橋彩香](../Page/大橋彩香.md "wikilink")） from BEST FRIENDS！、るか
   - 「episode Solo」（第6話）
-    作詞：只野菜摘，作曲、編曲：石濱翔（MONACA），主唱：るか、ななせ、かな、みほ（第6話）
+    作詞：只野菜摘，作曲、編曲：石濱翔（MONACA），主唱：るか、ななせ、かな、みほ
   - 「MUSIC of DREAM\!\!\!」（第6話）
-    作詞：唐澤美帆，作曲：南田健吾、蔦谷好位置，編曲：成瀬裕介（onetrap），主唱：せな（第6話）
+    作詞：唐澤美帆，作曲：南田健吾、蔦谷好位置，編曲：成瀬裕介（onetrap），主唱：せな
   - 「Trap of Love」（第7話）
-    作詞：七菜（Make Flow, Inc.），作曲：森健一，編曲：[小澤正澄](https://zh.wikipedia.org/wiki/小澤正澄 "wikilink")，主唱：すなお、わか、ふうり（第7話）
+    作詞：七菜（Make Flow, Inc.），作曲：森健一，編曲：[小澤正澄](https://zh.wikipedia.org/wiki/小澤正澄 "wikilink")，主唱：すなお、わか、ふうり
   - 「prism spiral」（第7話）
-    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：ふうり（第7話）
+    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：ふうり
   - 「アコガレカスタマイズ☆」（第7、9、12話）
     作詞：こだまさおり，作曲、編曲：石濱翔（MONACA），主唱：わか（第7話）
     主唱：らき from BEST FRIENDS！、わか（第9、12話）
   - 「アイドル活動！」（第8話）
-    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか、ふうり、すなお（第8話）
+    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか、ふうり、すなお
   - 「Dance in the rain」（第8話）
-    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか（第8話）
+    作詞：uRy，作曲、編曲：田中秀和（MONACA），主唱：わか
   - 「Bon Bon Voyage\!」（第9話）
-    作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：りさ（[相沢梨紗](https://zh.wikipedia.org/wiki/相沢梨紗 "wikilink")）、みほ、りえ（）、るか（第9話）
+    作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：りさ（[相澤梨紗](../Page/相澤梨紗.md "wikilink")）、みほ、りえ（）、るか
   - 「笑顔のSuncatcher」（第9話）
-    作詞：只野菜摘，作曲、編曲：，主唱：りすこ、もな（第9話）
+    作詞：只野菜摘，作曲、編曲：，主唱：りすこ、もな
   - 「Niceなto meet you\!」（第10話）
-    作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：ミライ from BEST FRIENDS！（第10話）
+    作詞：松原さらり（onetrap），作曲、編曲：SHOW（Digz, Inc. Group），主唱：ミライ from BEST FRIENDS！
   - 「強く美しく優しく」（第10話）
-    作詞：松原さらり（onetrap），作曲、編曲：Koshin，主唱：カレン（[田所梓](../Page/田所梓.md "wikilink")） from BEST FRIENDS！（第10話）
+    作詞：松原さらり（onetrap），作曲、編曲：Koshin，主唱：カレン（[田所梓](../Page/田所梓.md "wikilink")） from BEST FRIENDS！
   - 「Take Me Higher」（第10話）
-    作詞：只野菜摘，作曲、編曲：永谷喬夫，主唱：ひびき（[日笠陽子](../Page/日笠陽子.md "wikilink")） from BEST FRIENDS！、りすこ、りさ（第10話）
+    作詞：只野菜摘，作曲、編曲：永谷喬夫，主唱：ひびき（[日笠陽子](../Page/日笠陽子.md "wikilink")） from BEST FRIENDS！、りすこ、りさ
   - 「Sweet Sp\!ce」（第11話）
-    作詞：辻純更，作曲、編曲：oriori，主唱：ふうり、わか（第11話）
+    作詞：辻純更，作曲、編曲：oriori，主唱：ふうり、わか
   - 「1,2,Sing for You\!」（第11話）
-    作詞：空谷泉身（onetrap），作曲：秋浦智裕（onetrap），編曲：南田健吾（onetrap），主唱：りえ（第11話）
+    作詞：空谷泉身（onetrap），作曲：秋浦智裕（onetrap），編曲：南田健吾（onetrap），主唱：りえ
   - 「Future jewel」（第11話）
-    作詞：唐澤美帆，作曲、編曲：中野領太（onetrap），主唱：るか、せな（第11話）
+    作詞：唐澤美帆，作曲、編曲：中野領太（onetrap），主唱：るか、せな
   - 「ハッピィクレッシェンド」（第12話）
-    作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：ふうり、ゆな、すなお、えり（第12話）
+    作詞：辻純更，作曲、編曲：石濱翔（MONACA），主唱：ふうり、ゆな、すなお、えり
   - 「[We wish you a merry Christmas](../Page/我們祝你聖誕快樂.md "wikilink")」（第12話）
-    作詞：こだまさおり，作曲、編曲：[岡部啓一](https://zh.wikipedia.org/wiki/岡部啓一 "wikilink")（MONACA），主唱：あいね、みお、舞花、エマ from BEST FRIENDS\!、すなお、せな、りえ、みき、かな、ななせ
+    作詞：こだまさおり，作曲、編曲：[岡部啓一](https://zh.wikipedia.org/wiki/岡部啓一 "wikilink")（MONACA）
+    主唱：すなお（AIKATSU！ Ver.）
+    主唱：せな、りえ、みき、かな、ななせ（AIKATSU☆STARS！ Ver.）
+    主唱：あいね、みお、舞花、エマ from BEST FRIENDS！（BEST FRIENDS！ Ver.）
+  - 「裸足のルネサンス」（第13話）
+    作詞：只野菜摘，作曲：，編曲：、、阿部隆大，主唱：りえ
+  - 「Summer Tears Diary」（第13話）
+    作詞：こだまさおり，作曲、編曲：ミト，主唱：みほ、かな
 
 ### 各話標題
 
@@ -373,6 +380,18 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 <td><p>12月28日</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>第14話</p></td>
+<td></td>
+<td><p>Smile♪Number One</p></td>
+<td><p>守護このみ</p></td>
+<td><p>蓮井隆弘</p></td>
+<td><p>小川玖理周<br />
+中村沙由貴</p></td>
+<td><p><strong>2020年</strong><br />
+1月11日</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -445,10 +464,15 @@ Aikatsu！偶像活動！ |偶像活動Stars！角色列表{{\!}}偶像活動Sta
 <tr class="even">
 <td><p>第12話</p></td>
 <td></td>
-<td><p>如虎添翼 如偶像添禮服 &lt;!--</p></td>
+<td><p>如虎添翼 如偶像添禮服</p></td>
 </tr>
 <tr class="odd">
 <td><p>第13話</p></td>
+<td></td>
+<td><p>注意不要吃得太多 &lt;!--</p></td>
+</tr>
+<tr class="even">
+<td><p>第14話</p></td>
 <td></td>
 <td><p>--&gt;</p></td>
 </tr>

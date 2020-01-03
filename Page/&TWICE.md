@@ -1,7 +1,7 @@
 > 本文内容由[\&TWICE](https://zh.wikipedia.org/wiki/\&TWICE)转换而来。
 
 
-《**\&TWICE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第二張日語正規專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2019年11月20日推出。主打歌為〈Fake & True〉。\[1\]
+《**\&TWICE**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第二張日語正規專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[日本華納音樂](../Page/日本華納音樂.md "wikilink")發行，於2019年11月20日推出。主打歌為〈Fake & True〉。\[1\]，2020年2月5日發行改版專輯《\&TWICE -Repackage-》，改版專輯中追加歌曲〈SWING〉。
 
 ## 發行
 
@@ -35,7 +35,13 @@
 
 ## 曲目
 
+### 正規專輯
+
   - 粗體字為主打歌\[5\]
+
+### 改版專輯
+
+  - 粗體字為主打歌\[6\]
 
 ## 銷售榜單成績
 
@@ -64,3 +70,4 @@
 3.  [TWICE公開日文新輯內容 彩瑛參與作詞作曲](http://www.epochtimes.com/b5/19/10/7/n11573141.htm)
 4.
 5.  [TWICE JAPAN 2nd ALBUM 『\&TWICE』 2019.11.20 Release](http://www.twicejapan.com/feature/andtwice)
+6.

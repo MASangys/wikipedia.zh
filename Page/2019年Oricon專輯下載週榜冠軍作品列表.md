@@ -374,6 +374,13 @@
 <td><p>0.2</p></td>
 <td><p><ref>[<a href="https://www.oricon.co.jp/news/2151324/full/">https://www.oricon.co.jp/news/2151324/full/</a> 木梨憲武1stソロALがデジタルアルバムで初登場1位 「57才の思い出</p></td>
 </tr>
+<tr class="even">
+<td><p>12月30日</p></td>
+<td><p>Traveler</p></td>
+<td><p>Official髭男dism</p></td>
+<td><p>0.2</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

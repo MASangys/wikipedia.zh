@@ -5,7 +5,7 @@
 
 ## 简介
 
-SHISHAMO在2019年11月25日宣布了本作发行的消息。距上一张原创专辑《[SHISHAMO 5](../Page/SHISHAMO_5.md "wikilink")》相隔1年7个月，新专辑《SHISHAMO 6》收录了2019年度NHK全国学校合唱赛中学部课题曲《[想在你的身边](https://zh.wikipedia.org/wiki/想在你的身边 "wikilink")》在内共13曲。专辑封面与之前的专辑相同由摄影师[川岛小鸟拍摄](https://zh.wikipedia.org/wiki/川岛小鸟 "wikilink")\[1\]\[2\]\[3\]。
+SHISHAMO在2019年11月25日宣布了本作发行的消息。距上一张原创专辑《[SHISHAMO 5](../Page/SHISHAMO_5.md "wikilink")》相隔1年7个月，新专辑《SHISHAMO 6》收录了2019年度NHK全国学校合唱赛中学部课题曲《[想在你的身边](https://zh.wikipedia.org/wiki/想在你的身边 "wikilink")》在内共13曲。专辑封面与之前的专辑相同由摄影师[川岛小鸟拍摄](https://zh.wikipedia.org/wiki/川岛小鸟 "wikilink")\[1\]\[2\]\[3\]。12月18日公布了专辑的详细曲目\[4\]。
 
 ## 发行
 
@@ -22,3 +22,4 @@ SHISHAMO在2019年11月25日宣布了本作发行的消息。距上一张原创�
 1.
 2.
 3.
+4.

@@ -9,7 +9,7 @@
 
   - [Cellosaurus entry for High Five](https://web.expasy.org/cellosaurus/CVCL_C190)
 
-[Category:細胞系](https://zh.wikipedia.org/wiki/Category:細胞系 "wikilink")
+[Category:昆蟲細胞系](https://zh.wikipedia.org/wiki/Category:昆蟲細胞系 "wikilink")
 
 1.
 2.

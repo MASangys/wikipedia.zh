@@ -481,70 +481,12 @@
 
   - [MBC](../Page/文化廣播公司.md "wikilink") [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女2](../Page/檢法男女2.md "wikilink")》
 
-## 提名&獲獎列表
+## 獲獎列表
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年度</p></td>
-<td><p>頒獎典禮</p></td>
-<td><p>獎項</p></td>
-<td><p>入圍者</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/2019_KBS演技大獎.md" title="wikilink">KBS演技大賞</a></p></td>
-<td><p>男子最優秀演技獎</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>迷你連續劇部門<br />
-男子優秀演技獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>迷你連續劇部門<br />
-女子優秀演技獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>男子配角獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>女子配角獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>最佳情侶獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 年度   | 大獎                                            | 獎項    | 得獎者                              |
+| ---- | --------------------------------------------- | ----- | -------------------------------- |
+| 2019 | [KBS演技大獎](../Page/2019_KBS演技大獎.md "wikilink") | 女子配角獎 | [河在淑](../Page/河在淑.md "wikilink") |
+|      |                                               |       |                                  |
 
 ## 參考資料
 

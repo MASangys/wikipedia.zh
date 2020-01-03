@@ -271,8 +271,8 @@
 （2月26日）</small></p></td>
 <td><p>無嘉賓</p></td>
 <td><p><br />
-<small>（<br />
-）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="../Page/鐘路區.md" title="wikilink">鐘路區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>Unboxing－拆箱競賽</strong></span><br />
 <strong><span style=color:#00CED1>在錫隊</strong><br />
 劉在錫、李光洙<br />
@@ -758,7 +758,7 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <strong>黑暗之神及預言者</strong><br />
 哈哈<br />
 <strong>光明之神 | 人類隊</strong><br />
-Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、梁世燦、金叡園、張睿元、宣美</p></td>
+Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、梁世燦、金叡園、<a href="https://zh.wikipedia.org/wiki/張睿元" title="wikilink">張睿元</a>、宣美</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -861,7 +861,7 @@ Sunny | 劉在錫、池錫辰、金鐘國、宋智孝、李光洙、全昭旻、
 </tbody>
 </table>
 
-### 常规节目（9月至）
+### 常规节目（9月至12月）
 
 <table style="width:10%;">
 <colgroup>
@@ -1152,7 +1152,7 @@ Tiffany、池錫辰、宋智孝<br />
 <strong><span style=color:#FF0000>紅隊</strong><br />
 劉在錫、池錫辰、梁世燦、惠晶、澯美<br />
 <strong><span style=color:#008000>綠隊</strong><br />
-金鐘國、宋智孝、酉奈、雪炫<br />
+金鍾國、宋智孝、酉奈、雪炫<br />
 <strong><span style=color:#2200FF>藍隊</strong><br />
 哈哈、李光洙、全昭旻、智珉</p></td>
 <td><p><strong>團體戰</strong><br />
@@ -1162,7 +1162,7 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p><strong>團體戰</strong><br />
 綠隊<strong>勝出</strong><br />
 <strong>個人戰</strong><br />
-劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙、梁世燦、酉奈、惠晶、雪炫及澯美<strong>勝出</strong><br />
+劉在錫、池錫辰、金鍾國、哈哈、宋智孝、李光洙、梁世燦、酉奈、惠晶、雪炫及澯美<strong>勝出</strong><br />
 成為懲罰徽章最多的全昭旻、智珉經抽選後由智珉選擇與李光洙一同接受綠色奶油炮彈懲罰</p></td>
 </tr>
 <tr class="even">
@@ -1170,34 +1170,45 @@ Tiffany、池錫辰、宋智孝<br />
 <td><p>482</p></td>
 <td><p>12月22日<small><br />
 （12月2日）</small></p></td>
-<td><p><a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a>、<a href="../Page/萊恩·雷諾斯.md" title="wikilink">萊恩·雷諾斯</a>、<a href="../Page/梅蘭妮·蘿倫.md" title="wikilink">梅蘭妮·蘿倫</a>、</p></td>
-<td><p><br />
-<small>（<br />
-）</small></p></td>
+<td><p><a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a></p></td>
+<td><p>首爾四季酒店<br />
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="../Page/鐘路區.md" title="wikilink">鐘路區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>幽靈獵人競賽</strong></span><br />
 <strong>幽靈</strong><br />
-<br />
-<strong>人隊</strong><br />
-</p></td>
+劉在錫、金鍾國<br />
+<strong>獵人隊</strong><br />
+池錫辰、哈哈、宋智孝、李光洙、全昭旻、梁世燦、黃寶羅</p></td>
 <td><p><strong>幽靈</strong><br />
-<br />
-<strong>人隊</strong><br />
-</p></td>
-<td><p><strong>勝出</strong>[32]</p></td>
+於三個回合後最終懲罰格子中還有一個名字存在<br />
+<strong>獵人隊</strong><br />
+於三個回合後最終懲罰格子中沒有幽靈的名字</p></td>
+<td><p>獵人隊<strong>勝出</strong><br />
+所有特別出演的嘉賓各獲得名牌禮物一份<br />
+落敗的劉在錫及金鍾國須戴上假髮接受指壓按摩大懲罰[32]</p></td>
 </tr>
 <tr class="odd">
 <td><p>413</p></td>
 <td><p>483</p></td>
 <td><p>12月29日<small><br />
 （12月16日）</small></p></td>
-<td></td>
-<td><p><br />
-<small>（<br />
-）</small></p></td>
-<td><p><span style="font-size:110%"></span><br />
-</p></td>
-<td></td>
-<td><p><strong>勝出</strong></p></td>
+<td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a>、<br />
+<a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a>(<a href="../Page/5urprise.md" title="wikilink">5urprise</a>)、</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
+<a href="../Page/一山西區.md" title="wikilink">一山西區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>年終特輯：-{zh-hk:康城影展2019;zh-tw:坎城影展2019;zh-cn:戛纳电影节2019}-－没被邀請的人競賽</strong></span><br />
+<strong>導演隊</strong><br />
+<br />
+<strong>國民演員 | 演員隊</strong><br />
+|</p></td>
+<td><p><strong>導演隊</strong><br />
+隱藏身份並擊敗國民演員<br />
+<strong>國民演員</strong><br />
+隱藏身份<br />
+<strong>演員隊</strong><br />
+在國民演員不被淘汰出局的情況下擊敗導演隊</p></td>
+<td><p>結果下一集播出[33]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1222,9 +1233,9 @@ Tiffany、池錫辰、宋智孝<br />
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[33]</p></th>
-<th><p>AGB全國<br />
 收視率[34]</p></th>
+<th><p>AGB全國<br />
+收視率[35]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1537,14 +1548,14 @@ Tiffany、池錫辰、宋智孝<br />
 <tr class="even">
 <td><p>482</p></td>
 <td><p>12月22日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.3%</p></td>
+<td><p>4.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>483</p></td>
 <td><p>12月29日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1573,7 +1584,7 @@ Tiffany、池錫辰、宋智孝<br />
 5.  [洪真英](../Page/洪真英.md "wikilink")特別出演。
 6.  即6264張日本軍閥監視對象任務卡片
 7.  [南昶熙](../Page/南昶熙.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[黄帝聖特別出演](https://zh.wikipedia.org/wiki/黄帝聖 "wikilink")。
-8.  曹正錫以主持人的身份出演，[崔成民](../Page/崔成民.md "wikilink")、[文世潤](../Page/文世潤.md "wikilink")、[吳昶錫](../Page/吳昶錫.md "wikilink")、[李相燁](../Page/李相燁.md "wikilink")、[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[SF9特別出演](https://zh.wikipedia.org/wiki/SF9 "wikilink")。
+8.  以主持人的身份特別出演，[崔成民](../Page/崔成民.md "wikilink")、[文世潤](../Page/文世潤.md "wikilink")、[吳昶錫](../Page/吳昶錫.md "wikilink")、[李相燁](../Page/李相燁.md "wikilink")、[MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[SF9特別出演](https://zh.wikipedia.org/wiki/SF9 "wikilink")。
 9.  河錫辰、李伊庚只參演第447集。
 10. 姜世娜、金鎮雄及J Black & Mmary特別出演。
 11. [王嘉爾](../Page/王嘉爾.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）特別出演，[柳賢振](../Page/柳賢振.md "wikilink")聲音出演。
@@ -1597,6 +1608,7 @@ Tiffany、池錫辰、宋智孝<br />
 29. 宋智孝、全昭旻及梁世燦因為於第473集沒有被金鐘國和哈哈選擇，因此須與當時落敗的劉在錫一同接受裝扮懲罰，分別飾演憤怒鳥、迷你兵團、烏蘇拉及羊駝。
 30. 於第476集聲音出演，[Onda](https://zh.wikipedia.org/wiki/曺世林 "wikilink")、[怡人](../Page/王怡人.md "wikilink")([EVERGLOW](../Page/EVERGLOW.md "wikilink"))於第477集特別出演。
 31. [朴正民](../Page/朴正民.md "wikilink")於第477集驚喜出演，及於第478集特別出演。
-32. 宣傳電影《[鬼影特攻：以暴制暴](../Page/鬼影特攻：以暴制暴.md "wikilink")》。
-33. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-34. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
+32. [萊恩·雷諾斯](../Page/萊恩·雷諾斯.md "wikilink")、[梅蘭妮·蘿倫](../Page/梅蘭妮·蘿倫.md "wikilink")及特別出演，宣傳電影《[鬼影特攻：以暴制暴](../Page/鬼影特攻：以暴制暴.md "wikilink")》。
+33. 及特別出演。
+34. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
+35. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

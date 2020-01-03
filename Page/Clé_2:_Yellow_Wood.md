@@ -1,7 +1,7 @@
 > 本文内容由[Clé 2: Yellow Wood](https://zh.wikipedia.org/wiki/Clé_2:_Yellow_Wood)转换而来。
 
 
-《**Clé 2 : Yellow Wood**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的首張韓語改版特別專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年6月19日發行。主打歌為〈부작용〉，由成員方燦、彰彬、HAN參與詞曲創作。主打歌〈부작용〉更被美國Dazed雜誌評選為「2019年度20大最佳K-Pop歌曲」的第一名\[1\]。
+《**Clé 2 : Yellow Wood**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids的首張韓語改版特別專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[Dreamus](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年6月19日發行。主打歌為〈부작용〉，由成員方燦、彰彬、HAN參與詞曲創作。主打歌〈부작용〉更被美國Dazed雜誌評選為「2019年度20大最佳K-Pop歌曲」的第一名\[1\]。
 
 ## 背景
 

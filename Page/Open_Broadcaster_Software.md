@@ -31,7 +31,7 @@ Open Broadcaster Software支持各种插件来扩展其功能。插件作为本�
 
   - [X264](../Page/X264.md "wikilink")
 
-  - [屏幕录制](https://zh.wikipedia.org/wiki/螢幕錄影 "wikilink")
+  - [屏幕录制](../Page/螢幕錄影.md "wikilink")
 
   -
 ## 参考文献

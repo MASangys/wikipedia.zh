@@ -5,7 +5,7 @@
 
 ## 發行與宣傳
 
-Super Junior以[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")與[圭賢](../Page/圭賢.md "wikilink")九人的陣容回歸歌壇，[希澈](../Page/希澈.md "wikilink")因身體狀況僅錄製專輯與MV拍攝，不參與歌曲宣傳舞台\[2\]，[晟敏](../Page/晟敏.md "wikilink")因與粉絲溝通不良遭抵制，不參與此專輯，[強仁](../Page/強仁.md "wikilink")因酒駕和鬥毆事件，給組合帶來負面影響，已在2019年7月11日宣佈退團，所以往後不參團體之後發行的專輯。
+Super Junior以[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[厲旭](../Page/厲旭.md "wikilink")與[圭賢](../Page/圭賢.md "wikilink")九人的陣容回歸歌壇，[希澈](../Page/希澈.md "wikilink")因身體狀況僅錄製專輯與MV拍攝，不參與歌曲宣傳舞台\[2\]，[晟敏](../Page/晟敏.md "wikilink")因與粉絲溝通不良遭抵制，不參與此專輯，[強仁](../Page/強仁.md "wikilink")因酒駕和鬥毆事件，給組合帶來負面影響，已在2019年7月11日宣佈退團，所以往後不參與團體之後發行的專輯。
 
 2019年9月2日凌晨3點，官方宣布Super Junior回歸倒數999小時，將於10月14日回歸\[3\]。9月10日，公開收錄曲《Show》的Special Video，此曲為翻唱[金元俊](../Page/金元俊.md "wikilink")的同名歌曲。9月17日，公開集結了成員們練習和日常生活畫面的《Somebody New》Special Video\[4\]。9月23日至26日，陸續公開團體及成員個人預告照。
 

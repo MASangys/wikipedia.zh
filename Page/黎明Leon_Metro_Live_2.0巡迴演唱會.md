@@ -1,7 +1,7 @@
 > 本文内容由[黎明Leon Metro Live 2.0巡迴演唱會](https://zh.wikipedia.org/wiki/黎明Leon_Metro_Live_2.0巡迴演唱會)转换而来。
 
 
-**黎明Leon Metro Live 2.0巡迴演唱會**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2019年5月18日開始進行，演出地區包括[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[佛山](https://zh.wikipedia.org/wiki/佛山 "wikilink")、[台北及](https://zh.wikipedia.org/wiki/台北 "wikilink")[肇慶](https://zh.wikipedia.org/wiki/肇慶 "wikilink")\[1\]\[2\]\[3\]。
+**黎明Leon Metro Live 2.0巡迴演唱會**是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的個人演唱會，於2019年5月18日開始進行，演出地區包括[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[佛山](https://zh.wikipedia.org/wiki/佛山 "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[肇慶及](https://zh.wikipedia.org/wiki/肇慶 "wikilink")[澳門](../Page/澳門.md "wikilink")\[1\]\[2\]\[3\]。
 
 ## 簡介
 
@@ -50,52 +50,46 @@
 <td><p>1場</p></td>
 <td><p>[11]</p></td>
 </tr>
+<tr class="odd">
+<td><p>2020年1月31日至2月1日</p></td>
+<td></td>
+<td><p><a href="../Page/新濠影滙.md" title="wikilink">新濠影滙</a>綜藝館</p></td>
+<td><p>2場</p></td>
+<td><p>[12]</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 演唱曲目
 
-以下是《黎明Leon Metro Live 2.0巡迴演唱會》的演唱曲目（排列不分次序，不同場次演唱的歌曲略有不同）\[12\]\[13\]：
+以下是《黎明Leon Metro Live 2.0巡迴演唱會》台北站的演唱曲目\[13\]：
 
 <div style="-moz-column-count:3; column-count:3;">
 
-  - 朋友，好久不見
-  - 重愛輕友
   - 呼吸不說謊
-  - 眼睛想旅行
-  - 我愛 Ichi Ban
+  - 看上她
+  - 非我莫屬
+  - 深秋的黎明
+  - 今夜妳會不會來
+  - 如果這是情
+  - 人在黎明
+  - 我的另一半
   - 對不起，我愛你
-  - 別框我
-  - 如果可以再見你
-  - 一夜傾情
-  - 那有一天不想你
-  - 只要為我愛一天
-  - 告訴我你會在夢境中等我
-  - 心在跳
+  - 願你今夜別離去
   - 100樣可能
   - 危情追蹤
-  - 願你今夜別離去
-  - 我的另一半
-  - 今夜妳會不會來
-  - 及時擁抱
   - 情深說話未曾講
-  - Sugar in The Marmalade
-  - 非我莫屬
-  - Happy 2000
-  - 看上她
-  - 全日愛
-  - 愛要去那裡？
+  - 如果可以再見你
+  - 只要為我愛一天
+  - 那有一天不想你
+  - 心在跳
   - 今生不再
   - 兩個人的煙火
   - 及時擁抱
   - 我可以忘記你
-  - 下半場
-  - 我的親愛
-  - 人在黎明
-  - 深秋的黎明
-  - 如果這是情
-  - 遇見
-  - 那些年
+  - 遇見（原唱：[孫燕姿](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")）
+  - 那些年（原唱：[胡夏](https://zh.wikipedia.org/wiki/胡夏 "wikilink")）
+  - Sugar in The Marmalade
 
 </div>
 

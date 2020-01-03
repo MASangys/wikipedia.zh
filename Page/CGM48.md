@@ -249,6 +249,39 @@
 </tbody>
 </table>
 
+## 作品
+
+### 單曲
+
+<table>
+<thead>
+<tr class="header">
+<th><p>張</p></th>
+<th><p>發行日期</p></th>
+<th><p>曲名</p></th>
+<th><p>版本</p></th>
+<th><p>形态及收錄曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>I AM發行</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>未定</p></td>
+<td><p>《清邁106 》<br />
+（AKB48《<a href="https://zh.wikipedia.org/wiki/Max朱鷺315號" title="wikilink">Max朱鷺315號</a>》泰語版）</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 历史
 
 ## 注釋

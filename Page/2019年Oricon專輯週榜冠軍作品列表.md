@@ -428,6 +428,14 @@
 <td><p>7.6</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>12月30日</p></td>
+<td><p>Fate song material</p></td>
+<td><p>群星</p></td>
+<td><p>原創</p></td>
+<td><p>3.4</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

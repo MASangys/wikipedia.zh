@@ -418,7 +418,7 @@ Poppin' Party的第十五張單曲。預計於2020年1月8日發售。
 
 :\# 動畫「BanG Dream\! 3rd Season」＃1
 
-:\# 其他 \<ドキドキVer.\>
+:\# Band Dream！TV特別篇＃1 \<ドキドキVer.\>
 
 :\# **イニシャル**
 
@@ -444,7 +444,7 @@ Poppin' Party的第十五張單曲。預計於2020年1月8日發售。
 
 :\# 動畫「BanG Dream\! 3rd Season」＃1
 
-:\# 其他
+:\# Band Dream！TV特別篇＃1
 
 ### 專輯
 
@@ -844,7 +844,7 @@ Roselia的第十張單曲。預計2020年1月15日發售。
       - 藍光影像（僅限限定盤）
     <!-- end list -->
     1.  動畫「BanG Dream\! 3rd Season」＃2～＃3
-    2.  其他
+    2.  Band Dream！TV特別篇＃2
 
 ### 專輯
 
@@ -946,7 +946,7 @@ A面曲〈**しゅわりん☆どり〜みん**〉為Pastel\*Palettes短動畫�
 <!-- end list -->
 
   - 收錄曲
-    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[末益涼太](https://zh.wikipedia.org/wiki/末益涼太 "wikilink")（Elements Garden）\[66\]
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作、編曲：[末益涼太](https://zh.wikipedia.org/wiki/末益涼太 "wikilink")（Elements Garden）\[66\]
     1.  **しゅわりん☆どり〜みん**
     2.  **パスパレボリューションず☆**
     3.  しゅわりん☆どり〜みん（樂器演奏）
@@ -963,10 +963,10 @@ Pastel\*Palettes的第二張單曲。2018年1月17日發售。
   - 收錄曲
     全作詞：織田あすか（Elements Garden）
     1.  **ゆら・ゆらRing-Dong-Dance**
-          - 作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
+          - 作、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
           - 本首為彩與千聖的合唱曲。
     2.  **はなまる◎アンダンテ**
-          - 作曲、編曲：末益涼太（Elements Garden）
+          - 作、編曲：末益涼太（Elements Garden）
     3.  ゆら・ゆらRing-Dong-Dance（樂器演奏）
     4.  はなまる◎アンダンテ（樂器演奏）
 
@@ -983,10 +983,10 @@ A面曲〈**もういちど ルミナス**〉被用作電視節目「BanG Dream\
   - 收錄曲（生產限定盤、普通盤共通）
     全作詞：織田あすか（Elements Garden）
     1.  **もういちど ルミナス**
-          - 作曲、编曲：末益涼太（Elements Garden）
+          - 作、編曲：末益涼太（Elements Garden）
           - 同時也是遊戲內Pastel\*Palettes主線劇情第二章的代表曲目。
     2.  **SURVIVOR ねばーぎぶあっぷ！**
-          - 作曲、编曲： [藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
+          - 作、編曲： [藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
     3.  もういちど ルミナス（樂器演奏）
     4.  SURVIVOR ねばーぎぶあっぷ！（樂器演奏）
     <!-- end list -->
@@ -1008,9 +1008,9 @@ B面曲〈**Wonderland Girl**〉被用作動畫「[百慕達三角～多彩田�
   - 收錄曲（生產限定盤、普通盤共通）
     全作詞：織田あすか（Elements Garden）
     1.  **天下卜ーイツA to Z☆**
-          - 作曲、編曲：都丸椋太（Elements Garden）
+          - 作、編曲：都丸椋太（Elements Garden）
     2.  **Wonderland Girl**
-          - 作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
+          - 作、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（Elements Garden）
     3.  天下卜ーイツA to Z☆（樂器演奏）
     4.  Wonderland Girl（樂器演奏）
     <!-- end list -->
@@ -1026,24 +1026,37 @@ A面曲〈**きゅ～まい＊flower**〉為動畫「BanG Dream\! 2nd Season」�
 生產限定盤的藍光光碟，收錄了動畫「BanG Dream\! 2nd Season」的第九、第十話，以及相關的預告、電視廣告片段。
 
   - 收錄曲
+    全作詞：織田あすか（Elements Garden）、
+    1.  **きゅ～まい＊flower**
+          - 作曲：末益涼太（Elements Garden）、編曲：竹田祐介（Elements Garden）
+    2.  **ゼッタイ宣言～Recital～**
+          - 作、編曲： [藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
+    3.  きゅ～まい＊flower（樂器演奏）
+    4.  ゼッタイ宣言～Recital～（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 2nd Season」＃９～＃１０
+    2.  網路用下回預告＃９～＃１０
+    3.  動畫「BanG Dream\! 2nd Season」廣告 Pastel\*Palettes篇
 
-:\# **きゅ～まい＊flower**
+#### ワクワクmeetsトリップ
 
-:\#\* 作詞：織田あすか（Elements Garden）、作曲：末益涼太（Elements Garden）、編曲：竹田祐介（Elements Garden）
+Pastel\*Palettes的第六張單曲。預計2020年3月4日發售。
 
-:\# **ゼッタイ宣言～Recital～**
-
-:\# きゅ～まい＊flower（樂器演奏）
-
-:\# ゼッタイ宣言～Recital～（樂器演奏）
-
-:; 藍光影像（僅限限定盤）
-
-:\# 動畫「BanG Dream\! 2nd Season」＃９～＃１０
-
-:\# 網路用下回預告＃９～＃１０
-
-:\# 動畫「BanG Dream\! 2nd Season」廣告 Pastel\*Palettes篇
+  - 收錄曲
+    全作詞：織田あすか（Elements Garden）
+    1.  **ワクワクmeetsトリップ**
+          - 作、編曲：菊田大介（Elements Garden）
+    2.  **ぎゅっDAYS♪**
+          - 作、編曲：竹田祐介（Elements Garden）
+    3.  ワクワクmeetsトリップ（樂器演奏）
+    4.  ぎゅっDAYS♪（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 3rd Season」＃6～＃7
+    2.  Band Dream！TV特別篇＃4
 
 ## Hello, Happy World\!
 
@@ -1060,7 +1073,7 @@ Hello, Happy World\!的首張單曲。2017年8月2日發售。
 初回生產特典為一張A4海報、馬戲團門票風格的角色卡（全六種，隨機抽取一枚），以及2017年9月24日舉行的紀念活動應募券\[71\]。
 
   - 收錄曲
-    全歌詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作曲、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），全作、編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden）
     1.  **えがおのオーケストラっ！**
     2.  **ハピネスっ！ハピィーマジカルっ♪**
     3.  えがおのオーケストラっ！（Elements Garden）
@@ -1077,13 +1090,13 @@ B面曲〈YAPPY！SCHOOL CARNIVAL☆彡〉，是為了紀念Hello, Happy World\!
 初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[73\]。
 
   - 收錄曲
-    全歌詞：織田あすか（Elements Garden）
+    全作詞：織田あすか（Elements Garden）
     1.  **ゴーカ！ごーかい\!?ファントムシーフ！**
-          - 作曲、編曲：藤間仁（Elements Garden）
+          - 作、編曲：藤間仁（Elements Garden）
     2.  **YAPPY\! SCHOOL CARNIVAL☆彡**
-          - 作曲、編曲：藤間仁（Elements Garden）
+          - 作、編曲：藤間仁（Elements Garden）
     3.  **せかいのっびのびトレジャー！**
-          - 作曲、編曲：[末益涼太](https://zh.wikipedia.org/wiki/末益涼太 "wikilink")（Elements Garden）
+          - 作、編曲：[末益涼太](https://zh.wikipedia.org/wiki/末益涼太 "wikilink")（Elements Garden）
     4.  ゴーカ！ごーかい\!?ファントムシーフ！（樂器演奏）
     5.  YAPPY\! SCHOOL CARNIVAL☆彡（樂器演奏）
     6.  せかいのっびのびトレジャー！（樂器演奏）
@@ -1097,12 +1110,12 @@ Hello, Happy World\! 第三張單曲。2018年12月5日發售。
 初回生產特典為角色卡（全五種，隨機發放一枚）\[75\]。
 
   - 收錄曲（生産限定盤、普通盤共通）
-    全歌詞：織田あすか（Elements Garden）
+    全作詞：織田あすか（Elements Garden）
     1.  **キミがいなくちゃっ！**
-          - 作曲、編曲：藤間仁（Elements Garden）
+          - 作、編曲：藤間仁（Elements Garden）
           - 同時也是遊戲內Hello, Happy World\!主線劇情第二章的代表曲目。
     2.  **わちゃ・もちゃ・ぺったん行進曲**
-          - 作曲、編曲：末益涼太（Elements Garden）
+          - 作、編曲：末益涼太（Elements Garden）
     3.  キミがいなくちゃっ！（樂器演奏）
     4.  わちゃ・もちゃ・ぺったん行進曲（樂器演奏）
     <!-- end list -->
@@ -1122,7 +1135,7 @@ Hello, Happy World\!的第四張單曲。2019年2月20日發售。
 若與Roselia的單曲《Safe and Sound》一同購入，會獲得特典藍光CD，收錄演唱會中場影片「Roselia -Ewigkeit- 『Roselia 角色設定不可崩壞！！問答挑戰』」 完全版。
 
   - 收錄曲（生産限定盤、普通盤共通）
-    全歌詞：織田あすか（Elements Garden），全作曲、編曲：笠井雄太（Elements Garden）
+    全歌詞：織田あすか（Elements Garden），全作、編曲：笠井雄太（Elements Garden）
     1.  **ハイファイブ∞あどべんちゃっ**
     2.  **ふわふわ☆ゆめいろサンドイッチ**
     3.  ハイファイブ∞あどべんちゃっ（樂器演奏）
@@ -1139,24 +1152,35 @@ Hello, Happy World\!的第五張單曲。預計2019年8月21日發售。
 A面曲〈**えがお・シング・あ・ソング**〉為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第七、第八話，以及動畫的下回預告、電視廣告片段\[76\]。
 
   - 收錄曲
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+    1.  **えがお・シング・あ・ソング**
+          - 作・編曲：藤間仁（Elements Garden）
+    2.  **はれやか すこやか ぴかりんりん♪**
+          - 作、編曲：笠井雄太（Elements Garden）
+    3.  えがお・シング・あ・ソング（樂器演奏）
+    4.  はれやか すこやか ぴかりんりん♪（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 2nd Season」＃７～＃８
+    2.  網路用下回預告＃７～＃８
+    3.  動畫「BanG Dream\! 2nd Season」廣告 Hello, Happy World\!篇
 
-:\# **えがお・シング・あ・ソング**
+\==== にこ×にこ=ハイパースマイルパワー！ ==== Hello, Happy World\!的第六張單曲。預計2020年3月18日發售。
 
-:\#\* 作詞：織田あすか（Elements Garden）、作曲・編曲：藤間仁（Elements Garden）
-
-:\# **はれやか すこやか ぴかりんりん♪**
-
-:\# えがお・シング・あ・ソング（樂器演奏）
-
-:\# はれやか すこやか ぴかりんりん♪（樂器演奏）
-
-:; 藍光影像（僅限限定盤）
-
-:\# 動畫「BanG Dream\! 2nd Season」＃７～＃８
-
-:\# 網路用下回預告＃７～＃８
-
-:\# 動畫「BanG Dream\! 2nd Season」廣告 Hello, Happy World\!篇
+  - 收錄曲
+    全作詞：[織田あすか](https://zh.wikipedia.org/wiki/織田あすか "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
+    1.  **にこ×にこ=ハイパースマイルパワー！**
+          - 作、編曲：都丸椋太（Elements Garden）
+    2.  **おもいでイルミネーション**
+          - 作、編曲：笠井雄太（Elements Garden）
+    3.  にこ×にこ=ハイパースマイルパワー！（樂器演奏）
+    4.  おもいでイルミネーション（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定盤）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 3rd Season」＃10～＃11
+    2.  Band Dream！TV特別篇＃6
 
 ## Afterglow
 
@@ -1173,7 +1197,7 @@ Afterglow首次亮相的單曲。2017年9月6日發售\[77\]。
 初回生產特典為A4海報，以及一張現場門票風格的卡片（全六種）。
 
   - 收錄曲
-    全歌詞：織田あすか（Elements Garden），全作曲、編曲：[岩橋星實](https://zh.wikipedia.org/wiki/岩橋星実 "wikilink")（Elements Garden）
+    全作詞：織田あすか（Elements Garden），全作曲、編曲：[岩橋星實](https://zh.wikipedia.org/wiki/岩橋星實 "wikilink")（Elements Garden）
     1.  **That Is How I Roll\!**
     2.  **True color**
     3.  That Is How I Roll\!（樂器演奏）
@@ -1186,7 +1210,7 @@ Afterglow首次亮相的單曲。2017年9月6日發售\[77\]。
 Afterglow的第二張單曲。2018年1月31日發售。 初回生產特典為角色卡（全五種，隨機發放一枚），以及單曲連動購入紀念活動的抽選券\[78\]。
 
   - 收錄曲
-    全歌詞：織田あすか（Elements Garden）
+    全作詞：織田あすか（Elements Garden）
     1.  **Hey-day狂騒曲**（カプリチオ）
           - 作曲、編曲： [藤田淳平](../Page/藤田淳平.md "wikilink")（Elements Garden）
     2.  **Scarlet Sky**
@@ -1241,27 +1265,40 @@ Afterglow的第四張單曲。2019年2月20日發售。 分為普通盤（BRMM-1
 
 #### ON YOUR MARK
 
-Afterglow的第五張單曲。預計在2019年10月23日發售。 為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第十一、第十二話，以及動畫的下回預告、電視廣告片段\[81\]。
+Afterglow的第五張單曲。在2019年10月23日發售。 為動畫「BanG Dream\! 2nd Season」第十三話的插入曲。生產限定盤的藍光光碟，則收錄了動畫「BanG Dream\! 2nd Season」的第十一、第十二話，以及動畫的下回預告、電視廣告片段\[81\]。
 
   - 收錄曲
+    全作詞：織田あすか（Elements Garden），全作曲：[岩橋星實](https://zh.wikipedia.org/wiki/岩橋星實 "wikilink")（Elements Garden）
+    1.  **ON YOUR MARK**
+          - 編曲：都丸椋太（Elements Garden）
+    2.  **ランブリングメモリー**
+          - 編曲：岩橋星實（Elements Garden）
+    3.  ON YOUR MARK（樂器演奏）
+    4.  ランブリングメモリー（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定版）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 2nd Season」＃１１～＃１２
+    2.  網路用下回預告＃１１～＃１２
+    3.  動畫「BanG Dream\! 2nd Season」廣告 Afterglow篇
 
-:\# **ON YOUR MARK**
+#### Easy come, Easy go！
 
-:\#\* 作詞：織田あすか（Elements Garden），作曲：岩橋星実（Elements Garden），編曲：都丸椋太（Elements Garden）
+Afterglow的第六張單曲。預計在2020年3月11日發售。
 
-:\# **ランブリングメモリー**
-
-:\# ON YOUR MARK（樂器演奏）
-
-:\# ランブリングメモリー（樂器演奏）
-
-:; 藍光影像（僅限限定版）
-
-:\# 動畫「BanG Dream\! 2nd Season」＃１１～＃１２
-
-:\# 網路用下回預告＃１１～＃１２
-
-:\# 動畫「BanG Dream\! 2nd Season」廣告 Afterglow篇
+  - 收錄曲
+    全作詞：織田あすか（Elements Garden）
+    1.  **Easy come, Easy go！**
+          - 作、編曲：都丸椋太（Elements Garden）
+    2.  **いつも通りのBrand new days**
+          - 作、編曲：藤田淳平（Elements Garden）
+    3.  Easy come, Easy go！（樂器演奏）
+    4.  いつも通りのBrand new days（樂器演奏）
+    <!-- end list -->
+      - 藍光影像（僅限限定版）
+    <!-- end list -->
+    1.  動畫「BanG Dream\! 3rd Season」＃8～＃9
+    2.  Band Dream！TV特別篇＃5
 
 ## RAISE A SUILEN
 
@@ -1379,7 +1416,7 @@ RAISE A SUILEN的第四張單曲。2020年1月22日發售。
       - 藍光影像（僅限限定盤）
     <!-- end list -->
     1.  動畫「BanG Dream\! 3rd Season」＃4～＃5
-    2.  其他
+    2.  Band Dream！TV特別篇＃3
 
 ### 專輯
 

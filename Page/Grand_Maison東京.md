@@ -49,7 +49,7 @@
 <p>丹後學〈45〉</p></td>
 <td><center>
 <p>[5]</p></td>
-<td><p>「gaku」的主廚，與尾花夏樹同期在「L'Ambroisie」習藝，互為競爭對手，對「gaku」老闆江藤不三男的手段感到不滿。欣賞平古祥平。</p></td>
+<td><p>「gaku」的主廚，與尾花夏樹同期在「L'Ambroisie」習藝，互為競爭對手，對「gaku」老闆江藤不三男的手段感到不滿。欣賞平古祥平。第十集因與柿谷不合而引起老闆不三男不滿被迫離開「gaku」</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -94,7 +94,7 @@
 <p>松井萌絵</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/吉谷彩子" title="wikilink">吉谷彩子</a></p></td>
-<td><p>本為一流酒店甜品師，於第五集加入「Grand Maison 東京」擔任甜品廚師。</p></td>
+<td><p>本為一流酒店甜品師，於第五集加入「Grand Maison 東京」擔任甜品廚師。一直因為平古祥平而與蛯名美優不和，後於大結局冰釋前嫌。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -130,7 +130,7 @@
 <td><center>
 <p>柿谷光</p></td>
 <td><center></td>
-<td><p>受江藤不三男指使暗中破壞「Grand Maison東京」的首日試運；任務完成後返回「gaku」工作。曾經使用芹田公一偷來的新菜式與平古祥平一較高下但失敗告終，一直妒忌平古祥平的才藝。</p></td>
+<td><p>受江藤不三男指使暗中破壞「Grand Maison東京」的首日試運；任務完成後返回「gaku」工作。曾經使用芹田公一偷來的新菜式與平古祥平一較高下但失敗告終，一直妒忌平古祥平的才藝。第十一集與丹後學重回「gaku」。</p></td>
 </tr>
 </tbody>
 </table>
@@ -154,7 +154,7 @@
 <p>蛯名美優</p></td>
 <td><center>
 <p><a href="../Page/朝倉禮生.md" title="wikilink">朝倉禮生</a> [9]</p></td>
-<td><p>平古祥平的前未婚妻，一流酒店接待員。一直認為松井萌絵與其未婚夫有出軌意圖，因而曾襲擊松井萌絵，令雙方的感情惡化，於第五集因蛯名西堂向平古祥平施加壓力及感情崩潰，被平古祥平單方面提出分手。</p></td>
+<td><p>平古祥平的前未婚妻，一流酒店接待員。一直認為松井萌絵與其未婚夫有出軌意圖，因而曾襲擊松井萌絵，令雙方的感情惡化，於第五集因蛯名西堂向平古祥平施加壓力及感情崩潰，被平古祥平單方面提出分手，後來因尾花夏樹的幫忙下與兩人冰釋前嫌。</p></td>
 </tr>
 </tbody>
 </table>
@@ -214,7 +214,7 @@
 <p>琳達・真知子・理查德</p></td>
 <td><center>
 <p>[10]</p></td>
-<td><p>知名雜誌《<a href="https://zh.wikipedia.org/wiki/Marie_Claire" title="wikilink">Marie Claire</a> Dining》總編輯，因父親影響而對飲食有很深的造詣。尾花夏樹的前女友。一直有著要擊潰平古祥平及尾花夏樹的意識。</p></td>
+<td><p>知名雜誌《<a href="https://zh.wikipedia.org/wiki/Marie_Claire" title="wikilink">Marie Claire</a> Dining》總編輯，因父親影響而對飲食有很深的造詣。尾花夏樹的前女友。受雜誌公司影響而一直要擊潰平古祥平及尾花夏樹，但於第十一集被Grand Maison東京感動而毅然辭職。</p></td>
 </tr>
 </tbody>
 </table>
@@ -338,11 +338,20 @@
 <tr class="even">
 <td><p>第10話</p></td>
 <td><p>12月22日</p></td>
-<td></td>
+<td><p>最終回前スペシャル<br />
+ミシュランの調査が始まった!<br />
+涙の料理とは裏切者は敵か味方か</p></td>
 <td><p>山室大輔</p></td>
-<td></td>
+<td><p>11.1%[22]</p></td>
 </tr>
 <tr class="odd">
+<td><p>第11話</p></td>
+<td><p>12月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>平均收視率 （收視率由</strong><a href="../Page/Video_Research.md" title="wikilink">Video Research</a><strong>於</strong><a href="https://zh.wikipedia.org/wiki/關東地區" title="wikilink">關東地區</a><strong>、世帶即時統計）</strong></p></td>
 <td></td>
 <td></td>
@@ -351,6 +360,12 @@
 </tr>
 </tbody>
 </table>
+
+## 別傳
+
+### 東京大飯店～平古祥平搖擺的心
+
+講述平古祥平、蛯名美優和甜點師松井萌繪之間的三角戀。《東京大飯店～平古祥平搖擺的心》於《東京大飯店》於星期日晚播出後深夜在網絡頻道[Paravi發放](https://zh.wikipedia.org/wiki/Paravi "wikilink")。每集15分鐘。
 
 ### 節目的變遷
 
@@ -384,3 +399,4 @@
 19.
 20.
 21.
+22.

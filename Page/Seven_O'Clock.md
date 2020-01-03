@@ -55,6 +55,7 @@
 <ul>
 <li>發行日期：2019年11月13日</li>
 <li>語言：韓語</li>
+<li>銷量：1,334+[8]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -114,3 +115,4 @@
 5.
 6.
 7.
+8.  [2019年11月GAON專輯榜95位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)

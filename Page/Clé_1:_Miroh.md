@@ -1,7 +1,7 @@
 > 本文内容由[Clé 1: Miroh](https://zh.wikipedia.org/wiki/Clé_1:_Miroh)转换而来。
 
 
-《**Clé 1 : MIROH**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")9人男子組合[Stray Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年3月25日發行。主打歌為〈MIROH〉，由成員方燦、彰彬、HAN參與詞曲創作。專輯《Clé 1 : MIROH》更被美國[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") News評選為「2019年度最佳專輯」，也是唯一入選的韓語專輯\[1\]。
+《**Clé 1 : MIROH**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids的第四張韓語迷你專輯](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，唱片公司為[iRiver](https://zh.wikipedia.org/wiki/iRiver "wikilink")，於2019年3月25日發行。主打歌為〈MIROH〉，由成員方燦、彰彬、HAN參與詞曲創作。專輯《Clé 1 : MIROH》更被美國[MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") News評選為「2019年度最佳專輯」，也是唯一入選的韓語專輯\[1\]。
 
 ## 背景
 

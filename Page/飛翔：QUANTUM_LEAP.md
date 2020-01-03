@@ -5,19 +5,11 @@
 
 ## 簡介
 
-2019年通過韓國選秀節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》組成的11人[期間限定](../Page/期間限定團體.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[SWING娛樂管理團體合約](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")，[CJ E\&M負責音樂製作](../Page/CJ_E&M.md "wikilink")，團體活動期限定5年，前2.5年為專屬合約，後2.5年可於原公司進行活動。
+8月27日，透過首張迷你專輯《[飛翔：QUANTUM LEAP](../Page/飛翔：QUANTUM_LEAP.md "wikilink")》，以主打歌《Flash》，在首爾高尺天空巨蛋舉辦出道SHOW-CON，正式出道。《Flash》於Melon音源網站佔據一位，全專歌曲也曾同時於TOP 10之內，是2019年內的第二組歌手。\[1\]\[2\]\[3\]\[4\] 8月28日，Hanteo銷量榜的首日銷量結算為268,008張。\[5\]\[6\] 8月30日，Hanteo銷量榜的第4天累計銷量為422,736張，刷新當下“新人團體出道專輯首週銷量”紀錄。\[7\]\[8\]\[9\]\[10\]
 
-8月27日，透過首張迷你專輯《[飛翔：QUANTUM LEAP](../Page/飛翔：QUANTUM_LEAP.md "wikilink")》，以主打歌《Flash》，在首爾高尺天空巨蛋舉辦出道SHOW-CON，正式出道。《Flash》於Melon音源網站佔據一位，全專歌曲也曾同時於TOP 10之內，是2019年內的第二組歌手。\[1\]\[2\]\[3\]\[4\]
+9月1日，以出道曲《FLASH》在《[The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》浦項特輯公演現場，獲得初一位。 9月2日，Hanteo銷量榜的第7天累計銷量為524,007張，刷新當下“新人出道專輯首週銷量”紀錄、首次超過50萬。以及當下“2019年首週銷量”第2名、“歷年來首週銷量”第7名。\[11\]\[12\]
 
-8月28日，Hanteo銷量榜的首日銷量結算為268,008張。\[5\]\[6\]
-
-8月30日，Hanteo銷量榜的第4天累計銷量為422,736張，刷新當下“新人團體出道專輯首週銷量”紀錄。\[7\]\[8\]\[9\]\[10\]
-
-9月1日，以出道曲《FLASH》在《[The Show](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》浦項特輯公演現場，獲得初一位。
-
-9月2日，Hanteo銷量榜的第7天累計銷量為524,007張，刷新當下“新人出道專輯首週銷量”紀錄、首次超過50萬。以及當下“2019年首週銷量”第2名、“歷年來首週銷量”第7名。\[11\]\[12\]
-
-10月10日，[Gaon音樂榜公布獲得兩個Platinum銷量認證](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")。\[13\]
+10月10日，[Gaon音樂榜公布獲得兩個Platinum銷量認證](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")。\[13\] 12月23日，[Gaon音樂榜公布](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")2019年專輯總銷量，銷量為640,568張，是2019年歌手總銷量第五位，男歌手總銷量第四位。 \[14\] 12月24日，[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")公布2019年專輯總銷量，是2019年專輯銷量第89位，韓國歌手總銷量第10位。 \[15\]
 
 ## 收錄曲目
 
@@ -55,9 +47,11 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">Gaon音樂榜</a></p></td>
 <td><p>CD</p></td>
-<td><p>574,241+</p></td>
-<td><p>2×Platinum <ref>Cumulative sales of <em>Emergency: Quantum Leap</em>: 574,241 (CD) + 61,781 (Kit)</p>
+<td><p>577,336+</p></td>
+<td><p>2×Platinum <ref>Cumulative sales of <em>Emergency: Quantum Leap</em>: 577,336 (CD) + 61,781 (Kit)</p>
 <ul>
+<li></li>
+<li></li>
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
@@ -135,3 +129,5 @@
 11.
 12.
 13.
+14.
+15.

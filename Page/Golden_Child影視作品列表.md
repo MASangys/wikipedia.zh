@@ -5,12 +5,12 @@
 
 ## 電視劇
 
-| 年份    | 電視台                                                 | 劇名                                         | 參演成員                            | 角色         | 集數        | 性質  |
-| ----- | --------------------------------------------------- | ------------------------------------------ | ------------------------------- | ---------- | --------- | --- |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink") | [大烈](../Page/李大烈.md "wikilink") | 山亞（無限動力成員） |           | 客串  |
-| Y     | 俊俊（無限動力成員）                                          |                                            |                                 |            |           |     |
-| 2017年 | [MBC](../Page/文化廣播公司.md "wikilink")                 | [20世紀少男少女](../Page/20世紀少男少女.md "wikilink") | 全員                              | 電台來賓       | 第1、4集     |     |
-| 2019年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [請融化我吧](../Page/請融化我吧.md "wikilink")       | 普閔\[1\]                         | 黃智勛        | 第4集\~第16集 | 男配角 |
+| 年份    | 電視台                                                 | 劇名                                         | 參演成員                            | 角色         | 性質    | 集數        |
+| ----- | --------------------------------------------------- | ------------------------------------------ | ------------------------------- | ---------- | ----- | --------- |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink") | [大烈](../Page/李大烈.md "wikilink") | 山亞（無限動力成員） | 客串    |           |
+| Y     | 俊俊（無限動力成員）                                          |                                            |                                 |            |       |           |
+| 2017年 | [MBC](../Page/文化廣播公司.md "wikilink")                 | [20世紀少男少女](../Page/20世紀少男少女.md "wikilink") | 全員                              | 電台來賓       | 第1、4集 |           |
+| 2019年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [請融化我吧](../Page/請融化我吧.md "wikilink")       | 普閔\[1\]                         | 黃智勛        | 男配角   | 第4集\~第16集 |
 
 ## 網路劇
 
@@ -128,6 +128,13 @@
 <td><p>5集</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>12月24日-12月25日</p></td>
+<td><p><a href="../Page/Naver_(公司).md" title="wikilink">V LIVE</a> <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《Christmas Challenge》</p></td>
+<td><p>2集</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -174,7 +181,7 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>2月15日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang TV</a></p></td>
 <td><p>《Pops in Seoul》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=4rEr7Ccfxxs">官方YT頻道全集影片</a></p></td>
 <td></td>
@@ -354,6 +361,14 @@
 <td><p>Olleh TV Mobile</p></td>
 <td><p>《Hidden Track》</p></td>
 <td><p>下載手機App 可觀看之節目</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月20日</p></td>
+<td></td>
+<td><p>《Fact iN Star》</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -814,6 +829,9 @@
 | 12月1日     |
 | 12月7日     |
 | 12月8日     |
+| 12月13日    |
+| 12月22日    |
+| 12月26日    |
 
 ## 注释
 

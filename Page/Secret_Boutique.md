@@ -412,6 +412,31 @@
   - [MBC](../Page/文化廣播公司.md "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》、《[意外發現的一天](../Page/意外發現的一天.md "wikilink")》、《[有瑕疵的人們](../Page/有瑕疵的人們.md "wikilink")》
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [水木連續劇](../Page/OCN_Original_Series.md "wikilink")：《[奔跑的調查官](../Page/奔跑的調查官.md "wikilink")》（至2019年10月31日）
 
+## 獲獎列表
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年度</p></td>
+<td><p>頒獎典禮</p></td>
+<td><p>獎項</p></td>
+<td><p>獲獎者</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/2019_SBS演技大獎.md" title="wikilink">SBS演技大獎</a></p></td>
+<td><p>女子新人演技獎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 記事
 
   - 本劇原定於7月份作為《[絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink")》的接檔劇，但由於[月火連續劇時段於夏季改為播出月火綜藝](../Page/SBS月火連續劇.md "wikilink")，原定於7月份月火劇時段播出的《[偵探醫生](../Page/偵探醫生.md "wikilink")》則改於[水木連續劇時段播出](../Page/SBS水木連續劇.md "wikilink")，本劇因此順延至9月播出。

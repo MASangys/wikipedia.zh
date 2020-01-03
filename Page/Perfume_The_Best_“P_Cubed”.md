@@ -20,18 +20,18 @@
 
 ### CD3
 
-### DVD/Blu-ray（完全生产限定盘/初回限定盘）
+### Blu-ray/DVD（完全生产限定盘/初回限定盘）
 
 1.  Future Pop -Video Clip-
 
 2.
-3.  Perfumeのただただラジオが好きだからレイディオ！4
+3.  はみがきじょうずかな -Ｅテレ60 Eうた♪ココロの大冒険ｰ
 
 4.  だいじょばない -Live from the Coachella Valley Music and Arts Festival-
 
 5.  コンピューターおばあちゃん -Ｅテレ60 Eうた♪ココロの大冒険ｰ
 
-6.  はみがきじょうずかな -Ｅテレ60 Eうた♪ココロの大冒険ｰ
+6.  Perfumeのただただラジオが好きだからレイディオ！4
 
 ## 参考文獻
 

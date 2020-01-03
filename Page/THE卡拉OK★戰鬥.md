@@ -38,14 +38,14 @@
 
   -
   -
-  - [THEカラオケ★バトル](http://tvtopic.goo.ne.jp/program/tx/45675/) - goo電視節目
+  - [THEカラオケ★バトル](https://web.archive.org/web/20150710022717/http://tvtopic.goo.ne.jp/program/tx/45675/) - goo電視節目
 
 [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:東京電視台音樂節目](https://zh.wikipedia.org/wiki/Category:東京電視台音樂節目 "wikilink") [Category:卡拉OK](https://zh.wikipedia.org/wiki/Category:卡拉OK "wikilink")
 
 1.
 2.  [「THE カラオケ★バトル」BEST ALBUM Ⅱ](https://karaokebattle.ponycanyon.co.jp/cd_bestalbum2/index.html)｜[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
 3.  [「THEカラオケ★バトル」2017年”トップ7″参加のベストCD第3弾12月発売](https://news.ponycanyon.co.jp/2017/10/21744)  | [PONYCANYON NEWS](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
-4.  2016年[3月16日](../Page/3月16日.md "wikilink")放送 【年間得点TOP22集結\!春のグランプリ】[2016年間チャンピオン決定戦　4時間スペシャル](http://tvtopic.goo.ne.jp/program/tx/45675/943755/) - gooテレビ番組
+4.  2016年[3月16日](../Page/3月16日.md "wikilink")放送 【年間得点TOP22集結\!春のグランプリ】[2016年間チャンピオン決定戦　4時間スペシャル](http://tvtopic.goo.ne.jp/program/tx/45675/943755/)  - gooテレビ番組
 5.  [THE カラオケ★バトル 2016年間チャンピオン決定戦](https://karaokebattle.ponycanyon.co.jp/dvd_2016champion/index.html)｜波麗佳音
 6.  [2016年9月7日放送 【U-18歌うま甲子園「史上初！四天王入れ替え！？」】番組概要](http://tvtopic.goo.ne.jp/program/tx/45675/992804/)  - gooテレビ番組
 7.  [THE カラオケ★バトル 2016　U-18歌うま甲子園](https://karaokebattle.ponycanyon.co.jp/dvd_2016u_18/index.html)｜波麗佳音

@@ -1,7 +1,7 @@
 > 本文内容由[Legal High \(韓國電視劇\)](https://zh.wikipedia.org/wiki/Legal_High_\(韓國電視劇\))转换而来。
 
 
-《**Legal High**》，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2019年2月8日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Mrs. Cop 2](../Page/Mrs._Cop_2.md "wikilink")》的金政賢、金尚浩導演與《[重案組](../Page/重案組_\(韓國電視劇\).md "wikilink")》的朴成鎮作家合作打造。此劇改編自日劇《[Legal High](../Page/Legal_High.md "wikilink")》，講述勝訴率100%的律師高泰林和擁有100%正義感的律師徐在仁，以截然不同的性格挑戰殺氣騰騰又充滿笑料的法律故事。\[1\]\[2\]\[3\]\[4\] 香港地區由[Viu](../Page/Viu.md "wikilink")播出。台灣地區由[KKTV](../Page/KKTV.md "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、[friDay影音每周六日中午](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")12點上架播出。
+《**Legal High**》，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2019年2月8日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由《[Mrs. Cop 2](../Page/Mrs._Cop_2.md "wikilink")》的金政賢、金尚浩導演與《[重案組](../Page/重案組_\(韓國電視劇\).md "wikilink")》的朴成鎮作家合作打造。此劇改編及翻拍自[日劇](../Page/日本.md "wikilink")《[Legal High](../Page/Legal_High.md "wikilink")》，講述勝訴率100%的律師高泰林（[晉久](../Page/晉久.md "wikilink")飾）和擁有100%正義感的律師徐在仁（[徐恩秀](../Page/徐恩秀.md "wikilink")飾），以截然不同的性格挑戰殺氣騰騰又充滿笑料的法律故事。\[1\]\[2\]\[3\]\[4\] 香港地區由[Viu](../Page/Viu.md "wikilink")播出。台灣地區由[KKTV](../Page/KKTV.md "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、[friDay影音每周六日中午](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")12點上架播出。
 
 ## 演員陣容
 
@@ -24,26 +24,26 @@
 <tr class="even">
 <td><p><a href="../Page/晉久.md" title="wikilink">晉久</a></p></td>
 <td><p>高泰林</p></td>
-<td><p>傲慢十足且無時無刻不在毒舌的勝率100%怪咖律師。十分的害怕靈異事件。在他看來，無論是刑事案還是民事案，沒有打贏的官司都毫無意義可言，只要失敗了一次別說是律師了，連人都不要做算了，雖然其要求的律師費驚人，但卻總是能夠以驚人的實力帶來官司的勝利。</p></td>
+<td><p>傲慢十足且無時無刻不在毒舌的勝率100%怪咖律師，綽號「怪泰」。十分的害怕靈異事件。在他看來，無論是刑事案還是民事案，沒有打贏的官司都毫無意義可言，只要失敗了一次別說是律師了，連人都不要做算了，雖然其要求的律師費驚人，但卻總是能夠以驚人的實力帶來官司的勝利。</p></td>
 <td><p><a href="../Page/蔡威賢.md" title="wikilink">蔡威賢</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a><br />
 <small>（少年：金多仁）</p></td>
 <td><p>徐在仁</p></td>
-<td><p>在司法研修院成績墊底的新人，正義感十足的菜鳥律師。雖然一心想要當個為委屈的委託人辯護的正義律師，但卻屢屢在現實中碰壁，最終為了委託人以自己的律政人生為擔保，簽約一心只看錢和勝利的高泰林律所。</p></td>
+<td><p>在司法研修院成績墊底的新人，正義感十足的菜鳥律師。雖然一心想要當個為委屈的委託人辯護的正義律師，但卻屢屢在現實中碰壁，最終為了委託人以自己的律政人生為擔保，決定與一心只看錢和勝利的高泰林律師事務所簽約。</p></td>
 <td><p><a href="../Page/陳雪瑩.md" title="wikilink">陳雪瑩</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔡貞安.md" title="wikilink">蔡貞安</a></p></td>
 <td><p>閔周京</p></td>
-<td><p>B&amp;G律所的情報員兼合夥人。雖然看上去柔弱，卻有著無法想像的反轉魅力，為B&amp;G律所出謀劃策。</p></td>
+<td><p>B&amp;G律師事務所的情報員兼合夥人。雖然看上去柔弱，卻有著無法想像的反轉魅力，為B&amp;G律所出謀劃策。</p></td>
 <td><p><a href="../Page/馮詠恩.md" title="wikilink">馮詠恩</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
 <td><p>姜基碩</p></td>
-<td><p>高泰林律所的競爭對手B&amp;G的菁英律師。雖然從師父泰林那裡學到作為律師打贏官司的方法，但他與自己的師父不一樣，是一位溫和、有魅力的律師。</p></td>
+<td><p>高泰林律師事務所的競爭對手B&amp;G的菁英律師、高泰林的徒弟。雖然從師父泰林那裡學到作為律師打贏官司的方法，但他與自己的師父不一樣，是一位溫和、有魅力的律師。</p></td>
 <td><p><a href="../Page/袁德基.md" title="wikilink">袁德基</a></p></td>
 </tr>
 <tr class="even">
@@ -154,7 +154,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/文藝元" title="wikilink">文藝元</a></p></td>
 <td><p>南雪熙</p></td>
-<td><p>在仁的大學同學。因爸爸是江南數一數二的建築物財閥，再加上有着教育熱情的媽媽，她順利地進入了法學院。但是，她在模擬考試中總是得到最高分數，但一進入考場就會出現頭髮發白的症狀，因此經過3年的復讀，終於瀟灑地放棄了考試，現在她以「爸爸準備的咖啡廳老闆」的身份生活。</p></td>
+<td><p>在仁的大學同學。因爸爸是江南數一數二的地產界財閥，再加上有着教育熱情的媽媽，她順利地進入了法學院。但是，她在模擬考試中總是得到最高分數，但一進入考場就會出現頭髮發白的症狀，因此經過3年的復讀，終於瀟灑地放棄了考試，現在她以「爸爸準備的咖啡廳老闆」的身份生活。</p></td>
 <td><p><a href="../Page/植婉雯.md" title="wikilink">植婉雯</a></p></td>
 </tr>
 <tr class="odd">
@@ -379,9 +379,9 @@
 </tr>
 <tr class="odd">
 <td><p>方岺</p></td>
-<td><p>高敏錫</p></td>
+<td><p>高民錫</p></td>
 <td><p>大法官出身的高泰林的父親。</p></td>
-<td></td>
+<td><p><a href="../Page/郭俊廷.md" title="wikilink">郭俊廷</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -588,7 +588,7 @@ Make A Dream
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/legalhigh)
   - [Legal High-NAVER](https://m.entertain.naver.com/tvBrand/8914254)
 
-[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink") [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink") [Category:韓國電視喜劇](https://zh.wikipedia.org/wiki/Category:韓國電視喜劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink") [Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:JTBC金土連續劇](https://zh.wikipedia.org/wiki/Category:JTBC金土連續劇 "wikilink") [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國律政劇](https://zh.wikipedia.org/wiki/Category:韓國律政劇 "wikilink") [Category:韓國電視喜劇](https://zh.wikipedia.org/wiki/Category:韓國電視喜劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink") [Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
 
 1.
 2.

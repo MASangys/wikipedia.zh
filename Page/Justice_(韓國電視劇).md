@@ -9,14 +9,14 @@
 
 ### 主要人物
 
-|                                                     |        |                           |
-| --------------------------------------------------- | ------ | ------------------------- |
-| **演員**                                              | **角色** | **介紹**                    |
-| [崔振赫](../Page/崔振赫.md "wikilink")                    | 李泰京    | 業界勝訴率最高的律師。               |
-| [孫賢周](../Page/孫賢周.md "wikilink")                    | 宋佑榮    | 以金錢為武器、以人類欲望作惡的皇龍建設會長。    |
-| [林珍娜](https://zh.wikipedia.org/wiki/林珍娜 "wikilink") | 徐妍兒    | 首爾中央地方檢察廳刑事3部檢察官，父親是檢察總長。 |
-| [朴成勳](../Page/朴成勳.md "wikilink")                    | 卓秀浩    | 正振集團副會長。                  |
-|                                                     |        |                           |
+|                                                             |        |                           |
+| ----------------------------------------------------------- | ------ | ------------------------- |
+| **演員**                                                      | **角色** | **介紹**                    |
+| [崔振赫](../Page/崔振赫.md "wikilink")                            | 李泰京    | 業界勝訴率最高的律師。               |
+| [孫賢周](../Page/孫賢周.md "wikilink")                            | 宋佑榮    | 以金錢為武器、以人類欲望作惡的皇龍建設會長。    |
+| [林珍兒](https://zh.wikipedia.org/wiki/NaNa_\(藝人\) "wikilink") | 徐妍兒    | 首爾中央地方檢察廳刑事3部檢察官，父親是檢察總長。 |
+| [朴成勳](../Page/朴成勳.md "wikilink")                            | 卓秀浩    | 正振集團副會長。                  |
+|                                                             |        |                           |
 
 ### 其他人物
 
@@ -305,70 +305,12 @@
   - [MBC](../Page/文化廣播公司.md "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") [水木連續劇](../Page/OCN_Original_Series.md "wikilink")：《[臨時制先生](../Page/臨時制先生.md "wikilink")》
 
-## 提名&獲獎列表
+## 獲獎列表
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年度</p></td>
-<td><p>頒獎典禮</p></td>
-<td><p>獎項</p></td>
-<td><p>入圍者</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>2019年</p></td>
-<td><p><a href="../Page/2019_KBS演技大獎.md" title="wikilink">KBS演技大賞</a></p></td>
-<td><p>女子最優秀演技獎</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>迷你連續劇部門<br />
-男子優秀演技獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>迷你連續劇部門<br />
-女子優秀演技獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>男子配角獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>女子配角獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>最佳情侶獎</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 年度   | 大獎                                            | 獎項              | 得獎者                                                 |
+| ---- | --------------------------------------------- | --------------- | --------------------------------------------------- |
+| 2019 | [KBS演技大獎](../Page/2019_KBS演技大獎.md "wikilink") | 迷你電視劇部門 女子優秀演技獎 | [林珍娜](https://zh.wikipedia.org/wiki/林珍娜 "wikilink") |
+|      |                                               |                 |                                                     |
 
 ## 參考資料
 

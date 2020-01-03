@@ -43,7 +43,7 @@
 
 [Category:中國YouTuber](https://zh.wikipedia.org/wiki/Category:中國YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:高姓](https://zh.wikipedia.org/wiki/Category:高姓 "wikilink") [Category:1981年出生](https://zh.wikipedia.org/wiki/Category:1981年出生 "wikilink")
 
-1.  [1](https://zh-tw.facebook.com/kuaizero/posts/%E9%97%9C%E6%96%BCyoutube%E9%A0%BB%E9%81%93%E6%9B%B4%E5%90%8D%E9%80%9A%E7%9F%A5%E5%BE%9E%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%80%81%E9%AB%98%E5%9C%A8youtube%E4%B8%8A%E7%9A%84%E9%A0%BB%E9%81%93%E5%90%8D%E7%A8%B1%E5%BE%9E%E9%85%B7%E6%84%9Bzero%E9%81%8A%E6%88%B2%E9%A0%BB%E9%81%93-%E7%9A%87%E5%AE%A4%E6%88%B0%E7%88%AD%E6%9B%B4%E5%90%8D%E7%82%BA%E8%80%81%E9%AB%98-godspeed%E6%9B%B4%E5%90%8D%E5%8E%9F%E5%9B%A0%E5%8E%9F%E5%85%88%E7%9A%84%E5%90%8D%E5%AD%97%E5%A4%AA%E9%95%B7%E9%85%B7%E6%84%9Bze/1949847161894253/)
+1.
 2.
 3.  [中國大陸區YouTuber訂閱排行](https://donhonclub.com/analytics/top/youtube/subscribers/100?max_follower=&category=all&keyword=&location=CN)
 4.

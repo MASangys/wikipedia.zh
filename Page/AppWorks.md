@@ -7,17 +7,17 @@ AppWorks由[林之晨](../Page/林之晨.md "wikilink")（Jamie Lin）創辦，�
 
 ## AppWorks Accelerator (之初加速器)
 
-相較於多數收取股權、租金作為加速費用，或是要求新創接受其投資的創業加速器，AppWorks Accelerator 是一個免費加速器，不收取進駐新創團隊任何費用，新創也不需提供股權給 AppWorks。輔導新創團隊尋找 Product-Market Fit、幫助成長期團隊建立 Highly Scalable Business Models。
+相較於多數收取股權、租金作為加速費用，或是要求新創接受其投資的創業加速器，AppWorks Accelerator 是針對創業者完全免費的服務，不會向新創團隊收取租金、服務費，也不會要求技術股、選擇權、營收、獲利分成，或是選擇權等任何形式的回饋。輔導新創團隊尋找 Product-Market Fit、幫助成長期團隊建立 Highly Scalable Business Models。當資金可以大幅提升新創的實力與競爭優勢時，新創團隊則可隨時與 AppWorks 聯絡開啟關於募資的討論，AppWorks 管理的創投基金將隨時準備好提供協助。\[6\]
 
 AppWorks Accelerator 重視創業所需的觀念與技能的探討，透過校友間彼此學習與互相幫助，解決新創企業在創業過程中所遇到的問題或瓶頸。每屆 AppWorks Accelerator 進駐期間為期四個月，其間會邀請創業導師、加速器校友舉行各種與創業有關的演講、課程、Workshop。
 
 ### 申請流程
 
-AppWorks 每年會有兩次申請期。欲申請進駐的團隊，必須先至 [AppWorks Accelerator](https://appworks.tw/accelerator/) 網站填寫線上申請表。通過第一階段的資料審核後，會邀請有潛力的新創團隊親自到 AppWorks 進行第二階段的面談。除了與 AppWorks 所有工作同仁碰面，瞭解未來將朝夕相處的工作團隊之外，也能親自感受 AppWorks 空間的氛圍。\[6\]
+AppWorks 每年會有兩次申請期。欲申請進駐的團隊，必須先至 [AppWorks Accelerator](https://appworks.tw/accelerator/) 網站填寫線上申請表。通過第一階段的資料審核後，會邀請有潛力的新創團隊親自到 AppWorks 進行第二階段的面談。除了與 AppWorks 所有工作同仁碰面，瞭解未來將朝夕相處的工作團隊之外，也能親自感受 AppWorks 空間的氛圍。\[7\]
 
 ### 評選標準
 
-AppWorks 招收團隊時特別注重的幾個特質，稱為「3H」：\[7\]
+AppWorks 招收團隊時特別注重的幾個特質，稱為「3H」：\[8\]
 
 1\. Heart (心)：是否有創業的決心？是否願意全心全意投入？對在解決的問題有多強的熱情？
 
@@ -27,7 +27,7 @@ AppWorks 招收團隊時特別注重的幾個特質，稱為「3H」：\[7\]
 
 ### Demo Day
 
-每半年一次，由應屆 AppWorks Accelerator 新創團隊輪番登場 Pitch 的 Demo Day，主要目的為促進新創國際交流、投資、商務媒合。長期以來，這已是台灣網路產業的重要盛會，每次都有超過千位來自創投、天使投資人、科技、網路業界先進參與。\[8\]
+每半年一次，由應屆 AppWorks Accelerator 新創團隊輪番登場 Pitch 的 Demo Day，主要目的為促進新創國際交流、投資、商務媒合。長期以來，這已是台灣網路產業的重要盛會，每次都有超過千位來自創投、天使投資人、科技、網路業界先進參與。\[9\]
 
 ## AppWorks Funds (之初創投基金)
 
@@ -35,7 +35,7 @@ AppWorks 管理三支創投基金共 1.7 億美元，吸引各種認同理念的
 
 ### 投資方式與哲學
 
-根據 AppWorks 官方網誌及網站，AppWorks Funds 的投資方式與哲學如下：\[9\]\[10\]
+根據 AppWorks 官方網誌及網站，AppWorks Funds 的投資方式與哲學如下：\[10\]\[11\]
 
 #### 投資標的：網路公司
 
@@ -63,7 +63,7 @@ AppWorks 管理三支創投基金共 1.7 億美元，吸引各種認同理念的
 
 ## AppWorks School (之初學校)
 
-AppWorks School 成立於 2016 年，致力協助渴望投身數位、網路與電商產業的人才，提供為期 16 週免費、實作、高效、與業界結合的紮實培訓計畫。成立至今，已畢業 179 位學員，其中 89% 成功轉職，在 91APP、KKBox、CHOCO Media (現為 Line TV)、WeMo、Gogoro、潔客幫等知名網路企業中擔任軟體工程師。現經營有 iOS、Android 與 Web Development 專班。\[11\]
+AppWorks School 成立於 2016 年，致力協助渴望投身數位、網路與電商產業的人才，提供為期 16 週免費、實作、高效、與業界結合的紮實培訓計畫。成立至今，已畢業 179 位學員，其中 89% 成功轉職，在 91APP、KKBox、CHOCO Media (現為 Line TV)、WeMo、Gogoro、潔客幫等知名網路企業中擔任軟體工程師。現經營有 iOS、Android 與 Web Development 專班。\[12\]
 
 ## 資料來源
 
@@ -92,3 +92,4 @@ AppWorks School 成立於 2016 年，致力協助渴望投身數位、網路與�
 9.
 10.
 11.
+12.

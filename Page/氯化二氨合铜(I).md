@@ -10,6 +10,6 @@
 [Category:铜化合物](https://zh.wikipedia.org/wiki/Category:铜化合物 "wikilink") [Category:氯化物](https://zh.wikipedia.org/wiki/Category:氯化物 "wikilink") [Category:氨配合物](https://zh.wikipedia.org/wiki/Category:氨配合物 "wikilink")
 
 1.  Kol'tsov, S. I.; Kurashvili, S. E.; Dobruskin, V. Kh.; Smorodina, P. Formation of ammoniates by absorption of ammonia by copper(I) chloride films. *Zhurnal Neorganicheskoi Khimii*, 1985. 30 (10): 2700-2703. ISSN: 0044-457X.
-2.  Black, Jay; Spiccia, Leone; McPhail, D. C. Towards an understanding of copper(I) speciation and reactivity in the copper-​ammonia-​thiosulfate lixiviant system. *Hydrometallurgy 2003, Proceedings of the International Symposium honoring Professor Ian M. Ritchie, 5th, Vancouver, BC, Canada, Aug. 24-27, 2003*. <ISBN:0-87339-554-9>
+2.  Black, Jay; Spiccia, Leone; McPhail, D. C. Towards an understanding of copper(I) speciation and reactivity in the copper-​ammonia-​thiosulfate lixiviant system. *Hydrometallurgy 2003, Proceedings of the International Symposium honoring Professor Ian M. Ritchie, 5th, Vancouver, BC, Canada, Aug. 24-27, 2003*. ISBN 0-87339-554-9
 3.  van Krevelen, D. W.; Baans, C. M. E. Elimination of carbon monoxide from synthesis gases by absorption in cuprous salt solutions. *Journal of Physical and Colloid Chemistry*, 1950. 54: 370-390. ISSN: 0092-7023
 4.  李运康, 陈德芳. [末端炔烃与亚铜离子反应的实验研究](http://www.cnki.com.cn/Article/CJFDTotal-XAJT408.000.htm). 西安交通大学学报, 1994 (8).

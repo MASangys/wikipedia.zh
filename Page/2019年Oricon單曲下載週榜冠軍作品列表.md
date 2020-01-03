@@ -374,6 +374,13 @@
 <td><p>1.8</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>12月30日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A-RA-SHI" title="wikilink">A-RA-SHI : Reborn</a></p></td>
+<td><p>嵐</p></td>
+<td><p>6.6</p></td>
+<td><p>[37]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -422,3 +429,4 @@
 34. [米津玄師「馬と鹿」8週連続1位 19年デジタルシングル総売上1位、2位独占](https://www.oricon.co.jp/news/2146119/full/)
 35. [デビュー20周年の嵐、1日のみの集計で初の週間デジタルシングルが1位 【オリコンランキング】](https://www.oricon.co.jp/news/2148007/full/)
 36. [嵐、2週連続1位&歴代最多7作同時TOP10入り デジタルSGランキングを席巻【オリコンランキング】](https://www.oricon.co.jp/news/2148490/full/)
+37. [嵐、2作連続デジタルシングル1位 「Reborn」企画第1弾【オリコンランキング】](https://www.oricon.co.jp/news/2151768/full/)

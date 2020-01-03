@@ -45,7 +45,7 @@
 
 ### 勇往直前
 
-本次主打歌曲《勇往直前》翻唱自[AKB48](../Page/AKB48.md "wikilink")第35張單曲《[勇往直前](../Page/勇往直前_\(AKB48單曲\).md "wikilink")》（），是一首由天樂填寫中文詞、古城康行作曲、編曲，採[搖滾樂風的作品](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")。此曲的Center位置成員為劉語晴\[4\]。單曲選拔組的詳細名單如下：
+本次主打歌曲《勇往直前》翻唱自[AKB48](../Page/AKB48.md "wikilink")第35張單曲《[勇往直前](../Page/勇往直前_\(AKB48單曲\).md "wikilink")》（），是一首由天樂填寫中文詞、古城康行作曲、編曲，採[搖滾樂風的作品](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")。歌曲MV取景于[嘉義縣](../Page/嘉義縣.md "wikilink")[阿里山鄉](https://zh.wikipedia.org/wiki/阿里山鄉 "wikilink")[小笠原山](../Page/小笠原山.md "wikilink")。此曲的Center位置成員為劉語晴\[4\]。單曲選拔組的詳細名單如下：
 
   - 正式成员：[冼迪琦](../Page/冼迪琦.md "wikilink")、[邱品涵](../Page/邱品涵.md "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、張羽翎、陳詩雅、曾詩羽、劉語晴、劉潔明、潘姿怡
   - 研究生：李孟純、林-{于}-馨、劉曉晴

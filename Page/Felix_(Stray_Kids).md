@@ -1,7 +1,7 @@
 > 本文内容由[Felix \(Stray Kids\)](https://zh.wikipedia.org/wiki/Felix_\(Stray_Kids\))转换而来。
 
 
-**Felix**（，），本名**李龍馥**（，，），韓國歌手、[饒舌](../Page/饒舌.md "wikilink")者及[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，，2018年3月25日以韓國男子團體[Stray Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，在隊內擔任舞蹈及RAP。
+**Felix**（，），本名**李龍馥**（，，），韓國歌手、[饒舌](../Page/饒舌.md "wikilink")者及[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，[韓裔澳洲人](https://zh.wikipedia.org/wiki/韓裔澳洲人 "wikilink")，2018年3月25日以韓國男子團體[Stray Kids成員出道](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")，在團內擔任領舞及Rapper，與Lee Know、鉉辰三人是小分隊DANCERACHA的成員。
 
 ## 生涯
 
@@ -11,7 +11,7 @@
 
 ### 出道
 
-  - 2018年3月25日透過Showcase「[UNVEIL](../Page/UNVEIL.md "wikilink")」正式出道，隔日發行首張迷你專輯《[I am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》。在隊內的定位是Rap及舞蹈，與Lee Know、鉉辰三人是Stray Kids中的Dance Line。
+  - 2018年3月25日透過Showcase「[UNVEIL](../Page/UNVEIL.md "wikilink")」正式出道，隔日發行首張迷你專輯《[I am NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》。
   - 2019年7月1日起開始單獨擔任《[Pops in Seoul](../Page/韓國音樂流行榜.md "wikilink")》主持人\[3\]。
 
 ## 音樂作品
@@ -26,9 +26,9 @@
 
 #### 固定主持
 
-| 年份    | 日期      | 電視台                                                               | 節目名稱                                             |
-| ----- | ------- | ----------------------------------------------------------------- | ------------------------------------------------ |
-| 2019年 | 7月1日－至今 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[Pops in Seoul](../Page/韓國音樂流行榜.md "wikilink")》 |
+| 年份    | 日期             | 電視台                                                               | 節目名稱                                             |
+| ----- | -------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| 2019年 | 7月1日－2020年1月3日 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[Pops in Seoul](../Page/韓國音樂流行榜.md "wikilink")》 |
 
 #### 特別主持
 
@@ -100,11 +100,19 @@
 </tbody>
 </table>
 
+## 雜誌畫報
+
+| 年份    | 雜誌名稱               | 期數  | **合作品牌** | 共同參與團員 | 備註     |
+| ----- | ------------------ | --- | -------- | ------ | ------ |
+| 2020年 | Marie Claire Korea | 1月號 |          | I.N    | \[10\] |
+
 ## 獎項與榮譽
 
 | 年份    | 獲獎項目                             |
 | ----- | -------------------------------- |
-| 2018年 | TC Candler全球100張最帥面孔（第43名）\[10\] |
+| 2018年 | TC Candler全球100張最帥面孔（第43名）\[11\] |
+| 2019年 | TC Candler全球100張最帥面孔（第69名）\[12\] |
+|       |                                  |
 
 ## 註釋與參考資料
 
@@ -124,3 +132,5 @@
 8.
 9.
 10.
+11.
+12.

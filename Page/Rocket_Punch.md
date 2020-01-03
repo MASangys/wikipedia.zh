@@ -151,6 +151,15 @@
 <td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>节目200回纪念</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年12月20日</p></td>
+<td><p>KBS World TV</p></td>
+<td><p>Music Bank</p></td>
+<td><p>Feel Special</p></td>
+<td><p>全員</p></td>
+<td><p>TWICE</p></td>
+<td><p>\</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -310,7 +319,7 @@
   -
   -
   -
-  - [RocketPunch](https://cafe.daum.net/RocketPunch)的[Daum Cafe專頁](../Page/多音.md "wikilink")
+  - [RocketPunch](https://web.archive.org/web/20190721231739/http://cafe.daum.net/RocketPunch)的[Daum Cafe專頁](../Page/多音.md "wikilink")
 
   -
   -

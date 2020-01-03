@@ -62,11 +62,11 @@ SGI的[IRIX](../Page/IRIX.md "wikilink")；
 [SINIX](../Page/SINIX.md "wikilink")，[QNX](../Page/QNX.md "wikilink")；
 以及[MIPS Computer Systems自己拥有的](../Page/美普思科技.md "wikilink")[RISC/os](https://zh.wikipedia.org/wiki/RISC/os "wikilink").
 
-在1990年代初期，人们猜测MIPS和其他功能强大的[精简指令集](../Page/精简指令集.md "wikilink")处理器将取代[英特尔](../Page/英特尔.md "wikilink")[IA-32架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")。[微软](../Page/微软.md "wikilink")的[Windows NT的前两个版本支持](../Page/Windows_NT.md "wikilink")\[\[Alpha\]，MIPS和\[\[PowerPC|Alpha\]，MIPS和[PowerPC](../Page/PowerPC.md "wikilink")，在较小程度上支持[Clipper架构和](https://zh.wikipedia.org/wiki/Clipper架构 "wikilink")[SPARC](../Page/SPARC.md "wikilink")。 但是，随着[英特尔](../Page/英特尔.md "wikilink")快速发布[Pentium类CPU的更快版本](https://zh.wikipedia.org/wiki/Pentium "wikilink")，[微软](../Page/微软.md "wikilink")[Windows NT](../Page/Windows_NT.md "wikilink") v4.0放弃了对[IA-32和](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[Alpha的支持](https://zh.wikipedia.org/wiki/Alpha "wikilink")。[SGI决定于](https://zh.wikipedia.org/wiki/SGI "wikilink")2007年（继2006年第11次破产之后\[5\]）过渡到[IA-64和](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[IA-32架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")，和2009年被[Rackable Systems, Inc.收购](https://zh.wikipedia.org/wiki/Silicon_Graphics_International "wikilink")，对MIPS/IRIX消费市场的支持按原定计划于2013年12月结束。 但是，一个支持团队仍然存在，解决特殊情况和对系统进行维护翻新，但是在有限的基础上进行着。\[6\]
+在1990年代初期，人们猜测MIPS和其他功能强大的[精简指令集](../Page/精简指令集.md "wikilink")处理器将取代[英特尔](../Page/英特尔.md "wikilink")[IA-32架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")。[微软](../Page/微软.md "wikilink")的[Windows NT的前两个版本支持](../Page/Windows_NT.md "wikilink")[Alpha](https://zh.wikipedia.org/wiki/Alpha "wikilink")，MIPS和[PowerPC](../Page/PowerPC.md "wikilink")，在较小程度上支持[Clipper架构和](https://zh.wikipedia.org/wiki/Clipper架构 "wikilink")[SPARC](../Page/SPARC.md "wikilink")。 但是，随着[英特尔](../Page/英特尔.md "wikilink")快速发布[Pentium类CPU的更快版本](https://zh.wikipedia.org/wiki/Pentium "wikilink")，[微软](../Page/微软.md "wikilink")[Windows NT](../Page/Windows_NT.md "wikilink") v4.0放弃了对[IA-32和](https://zh.wikipedia.org/wiki/IA-32 "wikilink")[Alpha的支持](https://zh.wikipedia.org/wiki/Alpha "wikilink")。[SGI决定于](https://zh.wikipedia.org/wiki/SGI "wikilink")2007年（继2006年第11次破产之后\[5\]）过渡到[IA-64和](https://zh.wikipedia.org/wiki/IA-64 "wikilink")[IA-32架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")，和2009年被[Rackable Systems, Inc.收购](https://zh.wikipedia.org/wiki/Silicon_Graphics_International "wikilink")，对MIPS/IRIX消费市场的支持按原定计划于2013年12月结束。 但是，一个支持团队仍然存在，解决特殊情况和对系统进行维护翻新，但是在有限的基础上进行着。\[6\]
 
 ### 嵌入式领域
 
-[Ingenic_JZ4730.JPG](https://zh.wikipedia.org/wiki/File:Ingenic_JZ4730.JPG "fig:Ingenic_JZ4730.JPG")JZ4730 是一个基于MIPS架构的[SoC样例](../Page/系统芯片.md "wikilink")。\]\] 在整个1990年代，[MIPS架构被嵌入式市场广泛采用](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")，包括用于[计算机网络](../Page/计算机网络.md "wikilink")，[电信](../Page/电信.md "wikilink")，[视频街机游戏](https://zh.wikipedia.org/wiki/视频街机游戏 "wikilink")，[视频游戏机](https://zh.wikipedia.org/wiki/视频游戏机 "wikilink")，[计算机打印机](https://zh.wikipedia.org/wiki/计算机打印机 "wikilink")，数字[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")，[数字电视](../Page/数字电视.md "wikilink")，[DSL](https://zh.wikipedia.org/wiki/DSL "wikilink")，[电缆调制解调器和](https://zh.wikipedia.org/wiki/电缆调制解调器 "wikilink")[个人数字助手](https://zh.wikipedia.org/wiki/个人数字助手 "wikilink")。
+[Ingenic_JZ4730.JPG](https://zh.wikipedia.org/wiki/File:Ingenic_JZ4730.JPG "fig:Ingenic_JZ4730.JPG")JZ4730 是一个基于MIPS架构的[SoC样例](../Page/系统芯片.md "wikilink")。\]\] 在1990年代，基于[MIPS架构的芯片广泛应用于嵌入式市场](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")，包括[计算机网络](../Page/计算机网络.md "wikilink")，[电信](../Page/电信.md "wikilink")，[视频街机游戏](https://zh.wikipedia.org/wiki/视频街机游戏 "wikilink")，[视频游戏机](https://zh.wikipedia.org/wiki/视频游戏机 "wikilink")，[计算机打印机](https://zh.wikipedia.org/wiki/计算机打印机 "wikilink")，数字[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")，[数字电视](../Page/数字电视.md "wikilink")，[DSL](https://zh.wikipedia.org/wiki/DSL "wikilink")，[电缆调制解调器和](https://zh.wikipedia.org/wiki/电缆调制解调器 "wikilink")[个人数字助手等多种产品](https://zh.wikipedia.org/wiki/个人数字助手 "wikilink")。
 
 出于面向嵌入式市场的MIPS核心具有低功耗，低发热的特质，并且[MIPS架构在嵌入式领域积累了大量的开发工具及资料](https://zh.wikipedia.org/wiki/MIPS架构 "wikilink")，使其在嵌入式领域的应用仍然非常广泛。
 
@@ -105,11 +105,11 @@ Toshiba *Donau*, [Toshiba](https://zh.wikipedia.org/wiki/Toshiba "wikilink") TMP
 
 ### MIPS Aptiv 系列
 
-在2012年发布，\[9\] MIPS Aptiv 系列包含三个基于MIPS32 Release 3架构的[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[CPU产品](../Page/中央处理器.md "wikilink")。
+MIPS Aptiv 系列在2012年发布。\[9\] 其系列包含三个基于MIPS32 Release 3架构的[32位](https://zh.wikipedia.org/wiki/32位 "wikilink")[CPU产品](../Page/中央处理器.md "wikilink")。
 
 ### MIPS Warrior 系列
 
-在2013年六月发布，\[10\] MIPS Warrior系列包括多个基于MIPS Release 5和6架构的[32位和](https://zh.wikipedia.org/wiki/32位 "wikilink")[64位芯片产品](https://zh.wikipedia.org/wiki/64位 "wikilink")。
+MIPS Warrior系列在2013年六月发布。\[10\] 其系列包括多个基于MIPS Release 5和Release 6架构的[32位和](https://zh.wikipedia.org/wiki/32位 "wikilink")[64位芯片产品](https://zh.wikipedia.org/wiki/64位 "wikilink")。
 
 ## 参考
 

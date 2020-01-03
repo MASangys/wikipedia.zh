@@ -1,7 +1,7 @@
 > 本文内容由[Walk on Water](https://zh.wikipedia.org/wiki/Walk_on_Water)转换而来。
 
 
-《**WALK ON WATER**》是香港歌手[鄧紫棋於](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")2019年10月20日發行的歌曲，歌曲被選為電影《[未來戰士：黑暗命運](../Page/未來戰士：黑暗命運.md "wikilink")》中文版主題曲\[1\]。
+《**WALK ON WATER**》是香港歌手[鄧紫棋於](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")2019年10月20日發行的歌曲，為個人第七張專輯《[摩天動物園](../Page/摩天動物園.md "wikilink")》的其中一首歌曲，同時被選為電影《[未來戰士：黑暗命運](../Page/未來戰士：黑暗命運.md "wikilink")》中文版主題曲\[1\]。
 
 ## 創作背景
 

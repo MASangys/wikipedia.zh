@@ -113,7 +113,7 @@
 
   -
     變身者：飛電或人（替身演員：繩井雄哉、CV：高橋文哉）
-    原文： / *Kamen Rider ZERO-ZERO-ONE*
+    原文： / *Kamen Rider ZEROZERO-ONE*
 
 <table>
 <tbody>
@@ -131,7 +131,7 @@
 配合<strong>強制昇華器</strong>及使用<strong>Rising Hopper ProgriseKey</strong>變身的形態</p></td>
 <td><p>全身以熒光、黃和黑色為主</p></td>
 <td><p>基本形態。<br />
-擁有和蝗蟲一樣的跳躍能力。</p></td>
+擁有和蝗蟲一樣的跳躍能力。[3]</p></td>
 <td><p><strong>Rising Dystopia</strong><br />
 原文：<br />
 <strong>Rising Utopia</strong><br />
@@ -281,7 +281,7 @@
 <tr class="odd">
 <td><p>style="text-align:center;”|ZERO-ONE</p></td>
 <td><p>style="text-align:center;”|ゼロワン</p></td>
-<td><p>style="text-align:center;”|-{zh-hk:ZERO-ONE; zh-tw:ZERO-ONE; zh-cn:零一;}-[3]</p></td>
+<td><p>style="text-align:center;”|-{zh-hk:ZERO-ONE; zh-tw:ZERO-ONE; zh-cn:零一;}-[4]</p></td>
 <td><p>style="text-align:center;”|2019</p></td>
 <td><p>轉換形態成<strong>ZeroOneArmor</strong>。<br />
 可使用<a href="../Page/假面騎士ZERO-ONE.md" title="wikilink">假面騎士ZERO-ONE</a>的力量。</p></td>
@@ -316,7 +316,7 @@ Armor Time的變身音效為「Progrise! ZERO-ONE!」（日文：「プログラ
 <tr class="odd">
 <td><p>Rocking Hopper</p></td>
 <td><p>ロッキングホッパー</p></td>
-<td><p>搖擺蝗蟲[4]</p></td>
+<td><p>搖擺蝗蟲[5]</p></td>
 <td><p>可變身成<strong>假面騎士1型</strong>。</p></td>
 <td><p>存放<a href="../Page/蝗蟲.md" title="wikilink">蝗蟲</a>型像資料的Key型道具。<br />
 啓動音效為「Kamen Rider」（日文：「仮面ライダー」）<br />
@@ -355,5 +355,6 @@ Kamen Rider will fight to protect humanity.」<br />
 
 1.
 2.
-3.  雖然為2019年的假面騎士，但在時空驅動器的顯示屏卻顯示RIDER
-4.  原參考為洛磯山黑蝗，分布於美國的西半部和加拿大某些西部地區。
+3.  [仮面ライダー公式ポータルサイト 仮面ライダーWEB](https://www.kamen-rider-official.com/summaries/4/weekly_items/31)
+4.  雖然為2019年的假面騎士，但在時空驅動器的顯示屏卻顯示RIDER
+5.  原參考為洛磯山黑蝗，分布於美國的西半部和加拿大某些西部地區。

@@ -10,13 +10,6 @@ local p = {} local merror = require("Module:Error") local specialParams = {
 
 p\[''\] = function ( frame )
 
-`   if not frame:getParent() then`
-`       merror.error{ '`[`Module:Unsubst2錯誤`](https://zh.wikipedia.org/wiki/Module:Unsubst2 "wikilink")`：未傳入任何參數' }`
-`   end`
-`   if not frame.args['$B'] then`
-`       merror.error{ '`[`Module:Unsubst2錯誤`](https://zh.wikipedia.org/wiki/Module:Unsubst2 "wikilink")`：缺少參數$B' }`
-`   end`
-`   `
 `   if mw.isSubsting() then`
 `       ---- substing`
 `       -- Combine passed args with passed defaults`
