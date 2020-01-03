@@ -55,9 +55,11 @@ BitComet官方声明插件在[eMule基础上修改而成](https://zh.wikipedia.o
 
 ## 外部链接
 
-  - [BitComet官方網頁](http://www.bitcomet.com/)
+  -
   - [BitComet 官方Wiki](http://wiki.bitcomet.com/)
+
   - [BitComet 官方論壇](http://www.cometforums.com/)
+
   - [BitComet・改－改良版本](http://hideyoshi.2ch.net/test/read.cgi/download/1258598610/)
 
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink") [Category:BitTorrent客戶端](https://zh.wikipedia.org/wiki/Category:BitTorrent客戶端 "wikilink") [Category:廣告軟體](https://zh.wikipedia.org/wiki/Category:廣告軟體 "wikilink")

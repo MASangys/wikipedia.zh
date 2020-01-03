@@ -1,7 +1,7 @@
 > 本文内容由[WPS Office](https://zh.wikipedia.org/wiki/WPS_Office)转换而来。
 
 
-**WPS Office**是由[金山軟件股份有限公司發佈的一款辦公軟體](https://zh.wikipedia.org/wiki/金山軟件 "wikilink")，可以應用於辦公軟體最常用的文字編輯、試算表、簡報等功能。覆蓋Windows、[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS等平臺](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+**WPS Office**是由[金山軟件股份有限公司發佈的一款辦公軟體](https://zh.wikipedia.org/wiki/金山軟件 "wikilink")，用於辦公軟體最常用的文字編輯、試算表、簡報等功能。覆蓋[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[MacOS](../Page/MacOS.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Android](../Page/Android.md "wikilink")、[iOS等平臺](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 ## 历史
 

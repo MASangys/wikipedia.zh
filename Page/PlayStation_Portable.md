@@ -104,7 +104,7 @@ PSP在其11年的生命周期中一共发布了1370款游戏。PSP的首发游�
 
 其他畅销的PSP游戏有《[俠盜獵車手：罪惡城市傳奇](../Page/俠盜獵車手：罪惡城市傳奇.md "wikilink")》、\[136\]《[魔物獵人攜帶版3rd](../Page/魔物獵人攜帶版3rd.md "wikilink")》、\[137\]《[GT赛车](../Page/GT赛车_\(2009年游戏\).md "wikilink")》、\[138\]和《[魔物獵人攜帶版2nd G](../Page/魔物獵人攜帶版2nd_G.md "wikilink")》。\[139\]最后一款PSP游戏《》于2016年7月发布。在[Metacritic](../Page/Metacritic.md "wikilink")上评分最高的三个PSP游戏是：《[戰神：斯巴達的亡魂](../Page/戰神：斯巴達的亡魂.md "wikilink")》、《[俠盜獵車手：罪惡城市傳奇](../Page/俠盜獵車手：罪惡城市傳奇.md "wikilink")》和《》。\[140\]《[潛龍諜影 和平先驅](../Page/潛龍諜影_和平先驅.md "wikilink")》是唯一一个在[Fami通](../Page/Fami通.md "wikilink")拥有完美评分的PSP游戏。\[141\]在期间，索尼计算机娱乐美国公司宣布，PSP即将启用[Greatest Hits计划](../Page/Greatest_Hits.md "wikilink")。\[142\]2006年7月25日，索尼计算机娱乐美国公司发布了一系列[Greatest Hits廉价再版游戏](../Page/Greatest_Hits.md "wikilink")。其中包括《Ape Escape:On the Loose》、《》、《》、《Twisted Metal: Head-On》和《反重力赛车》。\[143\]PSP Greatest Hits系列包括已售出25万份以上并已发布九个月的游戏。\[144\]这个系列中的PSP游戏仅以每份19.99美元的价格出售。\[145\]为了让超大游戏尽量推出UMD格式的版本，可下载版的游戏被限制在了最大1.8 GB。\[146\][PlayStation Store中也推出了一系列新的游戏](../Page/PlayStation_Store.md "wikilink")，称为“Minis”，其中都是一些体积较小，价格便宜且仅有下载版本的游戏。
 
-## 自制软件和自制固件的发展
+## 自制固件与软件
 
 [PSP-Homebrew.jpeg](https://zh.wikipedia.org/wiki/File:PSP-Homebrew.jpeg "fig:PSP-Homebrew.jpeg")
 

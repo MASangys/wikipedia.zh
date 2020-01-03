@@ -58,6 +58,7 @@ Photoshop被人们认为是最好的图像处理软件，但与著名的[3D Stud
   - .[PNG](../Page/PNG.md "wikilink")：PNG作为GIF的替代品，可以无损压缩图像，并最高支持244位图像并产生无锯齿状的[透明度](https://zh.wikipedia.org/wiki/透明度 "wikilink")。但一些旧版浏览器（例如：[IE5](https://zh.wikipedia.org/wiki/IE5 "wikilink")）不支持PNG格式。
   - .[TIFF](../Page/TIFF.md "wikilink")：TIFF作为通用文件格式，绝大多数[绘图软件](https://zh.wikipedia.org/wiki/绘图软件 "wikilink")、图像编辑软件以及排版软件都支持该格式，并且[扫描仪也支持导出该格式的文件](https://zh.wikipedia.org/wiki/扫描仪 "wikilink")。
   - .[JPEG](../Page/JPEG.md "wikilink")：JPEG和[JPG一样是一种在现行网络上被广泛应用的采用有损压缩方式的文件格式](https://zh.wikipedia.org/wiki/JPG "wikilink")，JPEG支持位图、索引、灰度和RGB模式，但不支持Alpha通道。
+  - .[DICOM](../Page/DICOM.md "wikilink")：醫療數位影像傳輸協定（DICOM，Digital Imaging and Communications in Medicine）是一組通用的標準協定，在對於醫學影像的處理、儲存、列印、傳輸上。它包含了檔案格式的定義及網路通信協定。DICOM是以TCP/IP為基礎的應用協定，並以TCP/IP聯繫各個系統。兩個能接受DICOM格式的醫療儀器間，可藉由DICOM格式的檔案，來接收與交換影像及病人資料。。
 
 ## 特性
 

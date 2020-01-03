@@ -1,7 +1,7 @@
 > 本文内容由[MAME](https://zh.wikipedia.org/wiki/MAME)转换而来。
 
 
-**MAME** 是一套設計給[個人電腦使用的軟體](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，其目標在於盡可能的忠實且精確地[模擬許多](https://zh.wikipedia.org/wiki/模擬器 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，宗旨在於保存遊戲的歷史，並防止古老的遊戲被遺失或遺忘。程式名稱是由全名 **M**ultiple **A**rcade **M**achine **E**mulator（多重大型電玩模擬器）的首位字母縮寫成的單字。
+**MAME**，全名 **M**ultiple **A**rcade **M**achine **E**mulator（多重大型電玩模擬器）是一套設計給[個人電腦使用的軟體](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，其目標在於盡可能的忠實且精確地[模擬許多](https://zh.wikipedia.org/wiki/模擬器 "wikilink")[街機遊戲](https://zh.wikipedia.org/wiki/街機 "wikilink")，宗旨在於保存遊戲的歷史，並防止古老的遊戲被遺失或遺忘。
 
 ## MAME 版本
 

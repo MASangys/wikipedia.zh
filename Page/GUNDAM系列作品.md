@@ -31,7 +31,7 @@
 
 [∀GUNDAM](../Page/∀GUNDAM.md "wikilink")則是非常例外地存在，其是以一定假設的遠未來看包括了宇宙世紀和其他系列，背景人類早便飛越銀河，可從滯留在地球和月球的人類出發，都一律被視為遙遠的過去的黑歷史，而且一律稱為宇宙世紀。估計是受到美國科幻小說的[基地系列](../Page/基地系列.md "wikilink")和[沙丘系列影響](https://zh.wikipedia.org/wiki/沙丘系列 "wikilink")，而可以和從銀河系角度看地球的[銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")相對。
 
-### [前衛](../Page/前衛.md "wikilink")派鋼彈動畫
+### [前衛](../Page/前衛.md "wikilink")[喜劇](../Page/喜劇.md "wikilink")派鋼彈動畫
 
 而在正統鋼彈外尚有其他不同的系列作品，包括了[SD GUNDAM和](https://zh.wikipedia.org/wiki/SD_GUNDAM "wikilink")[機動戰士：鋼彈桑與](https://zh.wikipedia.org/wiki/機動戰士：鋼彈桑 "wikilink")[鋼彈創戰者三組動畫化作品](https://zh.wikipedia.org/wiki/鋼彈創戰者 "wikilink")，以及遊戲GUNDAM BREAKER或未動畫化的湯尼嶽崎的鋼彈漫畫等。這類作品都偏向[喜劇](../Page/喜劇.md "wikilink")和[無厘頭的風格](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")，預設的觀眾範圍較廣，因為其豐富的娛樂性和想像力獲得普遍觀眾的肯定。
 

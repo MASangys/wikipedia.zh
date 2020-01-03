@@ -114,6 +114,6 @@ TRIZ是前苏联[亞塞拜然发明家](https://zh.wikipedia.org/wiki/亞塞拜�
   - [TRIZ.it\! Innovation Principles](http://www.triz.it/)
   - [The Root Cause Finder](http://www3.sympatico.ca/karasik)
   - [Technology Web-Site for LED with TRIZ information](http://www.led-professional.com)
-  - [CREAX Innovation Suite](http://www.creaxinnovationsuite.com/) from CREAX of Belgium
+  - [CREAX Innovation Suite](https://web.archive.org/web/20060901022530/http://www.creaxinnovationsuite.com/) from CREAX of Belgium
 
 [Category:創造力](https://zh.wikipedia.org/wiki/Category:創造力 "wikilink") [Category:思想](https://zh.wikipedia.org/wiki/Category:思想 "wikilink") [Category:問題解決](https://zh.wikipedia.org/wiki/Category:問題解決 "wikilink")

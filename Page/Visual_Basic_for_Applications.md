@@ -303,7 +303,7 @@ VBA的常用内置函数列表参见：[1](https://msdn.microsoft.com/en-us/libr
 
   - \[<https://msdn.microsoft.com/en-us/library/dd941266(v=office.14>).aspx VBA Language Reference for MS Office 2013\]
   - \[<https://msdn.microsoft.com/zh-cn/library/office/gg2>​​64383.aspx Office VBA 語言參考中文版for MS Office 2013\]
-  - [Office VBA 對像庫的引用for MS Office 2013](https://msdn.microsoft.com/ZH-CN/library/office/ff862474.aspx)
+  - [Office VBA 對像庫的引用for MS Office 2013](https://web.archive.org/web/20151225071350/https://msdn.microsoft.com/ZH-CN/library/office/ff862474.aspx)
   - [VBA & Visual Basic Sc​​ripting 中文版語言參考](http://www.jb51.net/shouce/vbs/vtoriVBScript.htm)
 
 ## 外部連結

@@ -72,6 +72,7 @@ LMF自1999年推出首張EP後，因歌詞有不少[粗口內容](https://zh.wik
 
   - 1996年：《同床》— 收錄於「自主音樂圖鑑」
   - 2009年：《[揸緊中指](https://www.youtube.com/watch?v=7K7885QVp3s)》
+  - 2010年：《數治時代》
   - 2014年：《惡世紀》
   - 2019年：《[二零一九](https://www.youtube.com/watch?v=0UWKctPom6A)》
 

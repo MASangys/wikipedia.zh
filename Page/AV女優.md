@@ -17,7 +17,7 @@
 
 身材與相貌是經紀人與[經紀公司僱用AV女優的大前提](https://zh.wikipedia.org/wiki/AV事務所 "wikilink")，因為體型不能用[化妝和服裝掩饰](https://zh.wikipedia.org/wiki/化妝 "wikilink")。有別於普通的[情色電影或](https://zh.wikipedia.org/wiki/情色電影 "wikilink")[電視劇演員](../Page/日本电视剧.md "wikilink")，AV女優在片中僅需[裸體](https://zh.wikipedia.org/wiki/裸體 "wikilink")、表演[性行為姿勢](../Page/性交体位.md "wikilink")，劇情也不需表現出色。若要受市場長期青睞，不只需在姿色上突出，尚要有獨特之風格。姿容稍差的二線AV女優很難在新人輩出的业界存活，有時片商也會對較冷門的AV女優以群體合作演出（日本稱[企劃女優](https://zh.wikipedia.org/wiki/#企劃女優 "wikilink")）。
 
-1980年後，[成人視訊於日本普及化](https://zh.wikipedia.org/wiki/色情片#日本成人視訊 "wikilink")。早期的成人視訊，片商可以利用拍攝角度及分鏡等手法避免女優實際性交\[3\]。如已故知名女優[飯島愛](../Page/飯島愛.md "wikilink")（1972年10月31日－2008年12月）曾在《[柏拉圖式性愛](../Page/柏拉圖式性愛.md "wikilink")》一書透露拍攝色情電影時的造假情形。后来業界競爭激烈，AV女優需要學習且具備一些技能\[4\]，拍攝時不能只對著[AV男優](https://zh.wikipedia.org/wiki/AV男優 "wikilink")，眼睛還要看著攝影機表演。
+1980年後，[成人視訊於日本普及化](https://zh.wikipedia.org/wiki/AV女優/色情片#日本成人視訊 "wikilink")。早期的成人視訊，片商可以利用拍攝角度及分鏡等手法避免女優實際性交\[3\]。如已故知名女優[飯島愛](../Page/飯島愛.md "wikilink")（1972年10月31日－2008年12月）曾在《[柏拉圖式性愛](../Page/柏拉圖式性愛.md "wikilink")》一書透露拍攝色情電影時的造假情形。后来業界競爭激烈，AV女優需要學習且具備一些技能\[4\]，拍攝時不能只對著[AV男優](https://zh.wikipedia.org/wiki/AV男優 "wikilink")，眼睛還要看著攝影機表演。
 
 片商絕不能違法拍攝，但有時為促銷而鼓勵AV女優契約同意拍攝一些特殊題材如[強暴](https://zh.wikipedia.org/wiki/強暴 "wikilink")、[變態等](../Page/變態_\(色情用語\).md "wikilink")\[5\]。正式出版前也需要透過[映畫倫理委員會](../Page/映畫倫理委員會.md "wikilink")的[審查階段](../Page/审查制度.md "wikilink")，并在[字幕](../Page/字幕.md "wikilink")說明「這不是發生於現實的事」。若非經合法審查即違法出售，片商與經紀公司皆要被告而[逮捕](../Page/逮捕.md "wikilink")、[監禁](https://zh.wikipedia.org/wiki/監禁 "wikilink")。女優的另一工作是開攝影會 。
 
@@ -140,7 +140,7 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 
 通常條件：身材好、兼職性質\[8\]（簽約1～3部作品，或1個月演出1次）。
 
-企劃女優以隱藏名字，以素人為名代替，或臉部打馬賽克等方法演出。企劃k演出費非常便宜。行情一般認為是10萬日元，不過現在也有越來越多低到5萬。另一方面，並沒有像推銷單體女優那種特別宣傳，所以被認識的人知道的可能性較低，也比較能以放心参演。
+企劃女優以隱藏名字，以素人為名代替，或臉部打馬賽克等方法演出。企劃演出費非常便宜。行情一般認為是10萬日元，不過現在也有越來越多低到5萬。另一方面，並沒有像推銷單體女優那種特別宣傳，所以被認識的人知道的可能性較低，也比較能以放心参演。
 
 ### 企劃單體女優
 
@@ -250,7 +250,7 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 <td><p><a href="../Page/Soft_On_Demand.md" title="wikilink">SOD</a></p></td>
 <td><p><a href="../Page/Soft_On_Demand.md" title="wikilink">SODcreate</a></p></td>
 <td><p>SODstar</p></td>
-<td><p><em><a href="../Page/紗倉真菜.md" title="wikilink">紗倉真菜</a></em> <em><a href="https://zh.wikipedia.org/wiki/古川伊織" title="wikilink">古川伊織</a></em> <em><a href="../Page/白石茉莉奈.md" title="wikilink">白石茉莉奈</a></em> <em><a href="../Page/市川雅美.md" title="wikilink">市川雅美</a></em> <em><a href="../Page/戶田真琴.md" title="wikilink">戶田真琴</a></em> <em><a href="https://zh.wikipedia.org/wiki/竹田夢" title="wikilink">竹田夢</a></em> <em><a href="https://zh.wikipedia.org/wiki/小倉由菜" title="wikilink">小倉由菜</a></em></p></td>
+<td><p><em><a href="../Page/紗倉真菜.md" title="wikilink">紗倉真菜</a></em> <em><a href="../Page/古川伊織.md" title="wikilink">古川伊織</a></em> <em><a href="../Page/白石茉莉奈.md" title="wikilink">白石茉莉奈</a></em> <em><a href="../Page/市川雅美.md" title="wikilink">市川雅美</a></em> <em><a href="../Page/戶田真琴.md" title="wikilink">戶田真琴</a></em> <em><a href="https://zh.wikipedia.org/wiki/竹田夢" title="wikilink">竹田夢</a></em> <em><a href="https://zh.wikipedia.org/wiki/小倉由菜" title="wikilink">小倉由菜</a></em></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/KM_Produce.md" title="wikilink">Top Marshal</a></p></td>

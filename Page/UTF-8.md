@@ -3,18 +3,7 @@
 
 [Utf8webgrowth.svg](https://zh.wikipedia.org/wiki/File:Utf8webgrowth.svg "fig:Utf8webgrowth.svg") **UTF-8**（）是一種針對[Unicode的可變長度](https://zh.wikipedia.org/wiki/Unicode "wikilink")[字元編碼](https://zh.wikipedia.org/wiki/字元編碼 "wikilink")，也是一种[前缀码](https://zh.wikipedia.org/wiki/前缀码 "wikilink")。它可以用一至四个字节对Unicode字符集中的所有有效编码点进行编码，属于[Unicode标准的一部分](https://zh.wikipedia.org/wiki/Unicode "wikilink")，最初由[肯·汤普逊](../Page/肯·汤普逊.md "wikilink")和[罗布·派克提出](https://zh.wikipedia.org/wiki/罗布·派克 "wikilink")。\[1\]\[2\]由于较小值的编码点一般使用频率较高，直接使用Unicode编码效率低下，大量浪费内存空间。UTF-8就是为了解决向后兼容ASCII码而设计，Unicode中前128个字符（与ASCII码一一对应），使用与ASCII码相同的二进制值的单个[字节](../Page/字节.md "wikilink")进行编码，這使得原來處理ASCII字元的[軟體無須或只須做少部份修改](https://zh.wikipedia.org/wiki/軟體 "wikilink")，即可繼續使用。因此，它逐漸成為[電子郵件](https://zh.wikipedia.org/wiki/電子郵件 "wikilink")、[網頁](../Page/網頁.md "wikilink")及其他[儲存或傳送文字優先採用的編碼方式](../Page/儲存裝置.md "wikilink")。
 
-自2009年以来，UTF-8一直是万维网的最主要的编码形式（对所有，而不仅是Unicode范围内的编码）（并由WHATWG宣布为强制性的“适用于所有事物()”，\[3\]截止到2019年11月， 在所有网页中，UTF-8编码应用率高达94.3%（其中一些仅是ASCII编码，因为它是UTF-8的子集），而在排名最高的1000个网页中占96％。\[4\] 第二热门的多字节编码方式Shift JIS和GB 2312分别具有0.3％和0.2％的占有率。\[5\]\[6\]\[7\]Internet邮件联盟（）建议所有电子邮件程序都能够使用UTF-8展示和创建邮件，\[8\] W3C建议UTF-8作为XML文件和HTML文件的默认编码方式。\[9\]
-
-UTF-8使用一至六個[位元組為每個字符編碼](https://zh.wikipedia.org/wiki/位元組 "wikilink")（儘管如此，2003年11月UTF-8被RFC 3629重新規範，只能使用原来Unicode定義的區域，U+0000到U+10FFFF，也就是說最多四個字節）：
-
-1.  128個US-ASCII字符只需一個位元組編碼（Unicode範圍由U+0000至U+007F）。
-2.  帶有[附加符号](../Page/附加符号.md "wikilink")的[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")、[希臘文](https://zh.wikipedia.org/wiki/希臘文 "wikilink")、[西里爾字母](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")、[亞美尼亞語](https://zh.wikipedia.org/wiki/亞美尼亞語 "wikilink")、[希伯來文](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")、[阿拉伯文](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")、[敘利亞文及](https://zh.wikipedia.org/wiki/敘利亞文 "wikilink")[它拿字母](../Page/它拿字母.md "wikilink")則需要兩個位元組編碼（Unicode範圍由U+0080至U+07FF）。
-3.  其他[基本多文種平面](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")（BMP）中的字元（這包含了大部分常用字，如大部分的漢字）使用三個位元組編碼（Unicode範圍由U+0800至U+FFFF）。
-4.  其他極少使用的Unicode [輔助平面的字元使用四至六位元組編碼](https://zh.wikipedia.org/wiki/輔助平面 "wikilink")（Unicode範圍由U+10000至U+1FFFFF使用四字節，Unicode範圍由U+200000至U+3FFFFFF使用五字節，Unicode範圍由U+4000000至U+7FFFFFFF使用六字節）。
-
-對上述提及的第四種字元而言，UTF-8使用四至六個位元組來編碼似乎太耗費資源了。但UTF-8對所有常用的字元都可以用三個位元組表示，而且它的另一種選擇，[UTF-16編碼](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")，對前述的第四種字符同樣需要四個位元組來編碼，所以要決定UTF-8或UTF-16哪種編碼比較有效率，還要視所使用的字元的分佈範圍而定。不過，如果使用一些傳統的壓縮系統，比如[DEFLATE](../Page/DEFLATE.md "wikilink")，則這些不同編碼系統間的的差異就變得微不足道了。若顧及傳統壓縮算法在壓縮較短文字上的效果不大，可以考慮使用[Unicode標準壓縮格式](https://zh.wikipedia.org/wiki/Unicode標準壓縮格式 "wikilink")（SCSU）。
-
-[網際網路工程工作小組](https://zh.wikipedia.org/wiki/網際網路工程工作小組 "wikilink")（IETF）要求所有[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[協議都必須支持UTF](https://zh.wikipedia.org/wiki/網路協議 "wikilink")-8編碼\[10\]。[互聯網郵件聯盟](https://zh.wikipedia.org/wiki/互聯網郵件聯盟 "wikilink")（IMC）建議所有電子郵件軟件都支持UTF-8編碼。\[11\]
+自2009年以来，UTF-8一直是万维网的最主要的编码形式（对所有，而不仅是Unicode范围内的编码）（并由WHATWG宣布为强制性的“适用于所有事物()”，\[3\]截止到2019年11月， 在所有网页中，UTF-8编码应用率高达94.3%（其中一些仅是ASCII编码，因为它是UTF-8的子集），而在排名最高的1000个网页中占96％。\[4\] 第二热门的多字节编码方式Shift JIS和GB 2312分别具有0.3％和0.2％的占有率。\[5\]\[6\]\[7\]Internet邮件联盟（）建议所有电子邮件程序都能够使用UTF-8展示和创建邮件，\[8\] W3C建议UTF-8作为XML文件和HTML文件的默认编码方式。\[9\][網際網路工程工作小組](https://zh.wikipedia.org/wiki/網際網路工程工作小組 "wikilink")（IETF）要求所有[網際網路](https://zh.wikipedia.org/wiki/網際網路 "wikilink")[協議都必須支持UTF](https://zh.wikipedia.org/wiki/網路協議 "wikilink")-8編碼\[10\]。[互聯網郵件聯盟](https://zh.wikipedia.org/wiki/互聯網郵件聯盟 "wikilink")（IMC）建議所有電子郵件軟件都支持UTF-8編碼。\[11\]
 
 ## 歷史
 
@@ -27,6 +16,17 @@ UTF-8使用一至六個[位元組為每個字符編碼](https://zh.wikipedia.org
 1993年1月25-29日的在[聖地牙哥](../Page/聖地牙哥.md "wikilink")舉行的[USENIX](../Page/USENIX.md "wikilink")會議首次正式介紹UTF-8。
 
 自1996年起，[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[CAB](../Page/CAB.md "wikilink")（MS Cabinet）規格在UTF-8標準正式落實前就明確容許在任何地方使用UTF-8編碼系統。但有關的編碼器實際上從來沒有實作這方面的規格。
+
+## 结构
+
+UTF-8使用一至六個[位元組為每個字符編碼](https://zh.wikipedia.org/wiki/位元組 "wikilink")（儘管如此，2003年11月UTF-8被RFC 3629重新規範，只能使用原来Unicode定義的區域，U+0000到U+10FFFF，也就是說最多四個字節）：
+
+1.  128個US-ASCII字符只需一個位元組編碼（Unicode範圍由U+0000至U+007F）。
+2.  帶有[附加符号](../Page/附加符号.md "wikilink")的[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")、[希臘文](https://zh.wikipedia.org/wiki/希臘文 "wikilink")、[西里爾字母](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")、[亞美尼亞語](https://zh.wikipedia.org/wiki/亞美尼亞語 "wikilink")、[希伯來文](https://zh.wikipedia.org/wiki/希伯來文 "wikilink")、[阿拉伯文](https://zh.wikipedia.org/wiki/阿拉伯文 "wikilink")、[敘利亞文及](https://zh.wikipedia.org/wiki/敘利亞文 "wikilink")[它拿字母](../Page/它拿字母.md "wikilink")則需要兩個位元組編碼（Unicode範圍由U+0080至U+07FF）。
+3.  其他[基本多文種平面](https://zh.wikipedia.org/wiki/基本多文種平面 "wikilink")（BMP）中的字元（這包含了大部分常用字，如大部分的漢字）使用三個位元組編碼（Unicode範圍由U+0800至U+FFFF）。
+4.  其他極少使用的Unicode [輔助平面的字元使用四至六位元組編碼](https://zh.wikipedia.org/wiki/輔助平面 "wikilink")（Unicode範圍由U+10000至U+1FFFFF使用四字節，Unicode範圍由U+200000至U+3FFFFFF使用五字節，Unicode範圍由U+4000000至U+7FFFFFFF使用六字節）。
+
+對上述提及的第四種字元而言，UTF-8使用四至六個位元組來編碼似乎太耗費資源了。但UTF-8對所有常用的字元都可以用三個位元組表示，而且它的另一種選擇，[UTF-16編碼](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")，對前述的第四種字符同樣需要四個位元組來編碼，所以要決定UTF-8或UTF-16哪種編碼比較有效率，還要視所使用的字元的分佈範圍而定。不過，如果使用一些傳統的壓縮系統，比如[DEFLATE](../Page/DEFLATE.md "wikilink")，則這些不同編碼系統間的的差異就變得微不足道了。若顧及傳統壓縮算法在壓縮較短文字上的效果不大，可以考慮使用[Unicode標準壓縮格式](https://zh.wikipedia.org/wiki/Unicode標準壓縮格式 "wikilink")（SCSU）。
 
 ## 描述
 

@@ -906,7 +906,7 @@ aiko的國民度和好感度甚高。日本知名娛樂服務公司[Oricon](../P
   - [musicJAPANplus艺人资料库 - aiko](http://www.musicjapanplus.jp/artistdb/?artist_id=96)（日本）
   - [<span lang="ja">aiko - ORICON STYLE WM ミュージック</span>](http://www.oricon.co.jp/artists/27083/)（日本）
 
-[Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink") [Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:20世纪歌手](https://zh.wikipedia.org/wiki/Category:20世纪歌手 "wikilink") [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink") [Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
+[Category:Aiko](https://zh.wikipedia.org/wiki/Category:Aiko "wikilink") [Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink") [Category:20世纪歌手](https://zh.wikipedia.org/wiki/Category:20世纪歌手 "wikilink") [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink") [Category:日本廣播主持人](https://zh.wikipedia.org/wiki/Category:日本廣播主持人 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
 
 1.
 2.

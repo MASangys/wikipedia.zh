@@ -1,11 +1,11 @@
 > 本文内容由[BASIC](https://zh.wikipedia.org/wiki/BASIC)转换而来。
 
 
-**BASIC**（來自的縮寫）又譯**培基**，是一種[直譯式](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")。名稱的字面意思为“初學者的全方位符式指令代碼”，設計給初學者使用的程式語言，在完成編寫後不須經由[编译及](https://zh.wikipedia.org/wiki/编译 "wikilink")[連結等手續](https://zh.wikipedia.org/wiki/連結 "wikilink")，經過[直譯器](../Page/直譯器.md "wikilink")即可執行，但如果需要單獨執行時仍然需要將其建立成[執行檔](../Page/執行檔.md "wikilink")。
+**BASIC**（來自的縮寫）又譯**培基**，是一種[直譯式](https://zh.wikipedia.org/wiki/直譯語言 "wikilink")[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")。名稱的字面意思为“初學者的全方位符式指令代碼”，設計給初學者使用的程式語言，在完成編寫後不須經由[编译及](https://zh.wikipedia.org/wiki/编译 "wikilink")[連結等手續](../Page/链接器.md "wikilink")，經過[直譯器](../Page/直譯器.md "wikilink")即可執行，但如果需要單獨執行時仍然需要將其建立成[執行檔](../Page/執行檔.md "wikilink")。
 
 ## BASIC的歷史
 
-1964年，两位[美國数学家兼](https://zh.wikipedia.org/wiki/美國 "wikilink")[计算机科学家](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[约翰·克米尼和](https://zh.wikipedia.org/wiki/约翰·克米尼 "wikilink")在[FORTRAN语言的基础上创造了一种新的语言](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")——BASIC，BASIC是一种适用于初学者的[人机交互式语言](https://zh.wikipedia.org/wiki/人机交互式语言 "wikilink")。
+1964年，两位[美國数学家兼](https://zh.wikipedia.org/wiki/美國 "wikilink")[计算机科学家](https://zh.wikipedia.org/wiki/计算机科学家 "wikilink")[约翰·克米尼和](https://zh.wikipedia.org/wiki/约翰·克米尼 "wikilink")在[FORTRAN语言的基础上创造了一种新的语言](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")——BASIC，BASIC是一种适用于初学者的[人机交互](../Page/人机交互.md "wikilink")式语言。
 
 Basic的名字——Beginner's All-purpose Symbolic Instruction Code（初学者通用的符号指令代码），原来被作者写做BASIC，只是后来被[微软](../Page/微软.md "wikilink")广泛的叫做Basic了。
 

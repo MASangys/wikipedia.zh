@@ -377,7 +377,7 @@ Perl Data Language（简称PDL）是Perl的一个外接[模块](https://zh.wikip
 
 ### Perl诗经
 
-和C語言一樣，在Perl界，難以讀懂的程式碼大賽是個有名的活動。近似難以讀懂的程式碼，但方向不同，Perl Poetry是可以被perl編譯的詩。新的詩經通常會在[Perl Monks](http://www.perlmonks.org/index.pl?node=Perl%20Poetry)網站發表。\[52\]
+和C語言一樣，在Perl界，難以讀懂的程式碼大賽是個有名的活動。近似難以讀懂的程式碼，但方向不同，Perl Poetry是可以被perl編譯的詩。新的詩經通常會在[Perl Monks](https://web.archive.org/web/20070518024016/http://www.perlmonks.org/index.pl?node=Perl%20Poetry)網站發表。\[52\]
 
 ### JAPH
 
@@ -469,7 +469,7 @@ if($hour > 22) { #錯誤
   - [Perl TW Planet](https://web.archive.org/web/20110824135548/http://planet.perl.tw/)
   - [Perl學習手札](https://web.archive.org/web/20130520084210/http://perl.hcchien.org/toc.html)
   - [香港Perl推廣组](http://sites.google.com/site/pmhk2nd/)
-  - [中国Perl协会](http://www.PerlChina.org)
+  - [中国Perl协会](https://web.archive.org/web/20180814141142/http://www.perlchina.org/)
   - [中国Perl协会的wiki](https://archive.is/20130503092526/http://wiki.perlchina.org/)
 
 ### 英文資源、社群

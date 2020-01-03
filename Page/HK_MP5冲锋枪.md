@@ -479,6 +479,7 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
   - 1986年—《》（The Fly II）：型號為HK94A3，改裝至類似於MP5A3，被研究所的守衞所使用。
   - 1991年—《[逃學威龍](https://zh.wikipedia.org/wiki/逃學威龍 "wikilink")》：型號為MP5A3，被周星星（[周星馳](../Page/周星馳.md "wikilink")飾演）在內的[特別任務連](../Page/特別任務連.md "wikilink")隊員所使用。
   - 1991年—《[-{zh-hk:未來戰士續集;zh-cn:终结者2：审判日;zh-tw:魔鬼終結者2;}-](../Page/终结者2：审判日.md "wikilink")》（Terminator 2: Judgement Day）：型號為HK94，改裝至類似於MP5A3，被[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")隊員所使用。
+  - 1995年—《[-{zh-hans:盗火线; zh-hk:盜火線; zh-hant:烈火悍將;}-](https://zh.wikipedia.org/wiki/烈火悍將 "wikilink")》（Heat）：型號為HK94A3（用作充當MP5A3），由[洛杉磯警察局](https://zh.wikipedia.org/wiki/洛杉磯警察局 "wikilink")[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")隊員所使用。
   - 1996年—《[-{zh-hk:石破天驚;zh-cn:勇闯夺命岛;zh-tw:絕地任務;}-](../Page/絕地任務.md "wikilink")》：被[美國海軍](../Page/美國海軍.md "wikilink")[海豹突擊隊所使用](https://zh.wikipedia.org/wiki/海豹突擊隊 "wikilink")。
   - 1997年—《[空軍一號](https://zh.wikipedia.org/wiki/空軍一號_\(電影\) "wikilink")》（Air Force One）：型號為MP5A3，被[美國總統及劫機的](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[恐怖份子所使用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")。
   - 1999年—《[-{zh-hk:廿二世紀殺人網絡;zh-cn:黑客帝国;zh-tw:駭客任務;}-](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")》（The Matrix）：型號為MP5K，被湯瑪斯·安德森/尼奧（[基努李維飾演](https://zh.wikipedia.org/wiki/基努李維 "wikilink")）[雙持](../Page/雙持.md "wikilink")使用，會使用“HK拍擊”上膛。
@@ -500,13 +501,12 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
   - 2007年—《[-{zh-hant:精銳部隊; zh-hans:精英部队;}-](../Page/精銳部隊.md "wikilink")》（Tropa de Elite）：型號為MP5A3，被[巴西](../Page/巴西.md "wikilink")[特別警察行動營](../Page/特別警察行動營.md "wikilink")隊長納西門圖所使用。
   - 2008年—《[-{zh-hk:叛諜同謀;zh-cn:谎言之躯;zh-tw:謊言對決;}-](../Page/謊言對決.md "wikilink")》（Body of Lies）：型號為MP5A3和MP5K-PDW，前者被[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[武裝特警隊隊員所使用](https://zh.wikipedia.org/wiki/武裝特警隊 "wikilink")，後者被[約旦](https://zh.wikipedia.org/wiki/約旦 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")隊員所使用。
   - 2009年—《[-{zh-hk:未來戰士2018;zh-cn:终结者2018;zh-tw:魔鬼終結者：未來救贖;}-](../Page/魔鬼終結者：未來救贖.md "wikilink")》（Terminator Salvation）：型號為MP5SD6，被一名生還者所使用。
-  - 2010年—《》（L'assaut）：型號為MP5A3，被[法國國家憲兵干預隊隊員所使用](https://zh.wikipedia.org/wiki/法國國家憲兵干預隊 "wikilink")。
+  - 2010年—《》（L'assaut）：型號為MP5A3，被法國[國家憲兵干預組](../Page/國家憲兵干預組.md "wikilink")隊員所使用。
   - 2010年—《[-{zh-hk:生化危機3D：戰神再生;zh-cn:生化危机4：来生;zh-tw:惡靈古堡4：陰陽界;}-](https://zh.wikipedia.org/wiki/惡靈古堡4：陰陽界 "wikilink")》（Resident Evil: Afterlife）：MP5K被艾莉絲（[蜜拉·喬娃薇琪飾演](https://zh.wikipedia.org/wiki/蜜拉·喬娃薇琪 "wikilink")）所使用。
   - 2010年—《[-{zh-hk:轟天猛將; zh-tw:浴血任務; zh-cn:敢死队;}-](../Page/浴血任務.md "wikilink")》（The Expendables）：型號為MP5K和MP5K-PDW，前者被托爾·羅德（[蘭迪·寇楚](../Page/蘭迪·寇楚.md "wikilink")飾演）所使用，後者被李·聖誕（[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")飾演）所使用。
   - 2011年—《》（Forces spéciales）：型號為MP5SD3、MP5KA4及MP5A5，裝上各種戰術配件，被[法國海軍](../Page/法國海軍.md "wikilink")隊員所使用。
   - 2012年—《[-{zh-hk:海豹突擊隊; zh-tw:海豹神兵：英勇行動; zh-cn:勇者行动;}-](https://zh.wikipedia.org/wiki/海豹神兵：英勇行動 "wikilink")》（Act of Valor）：型號分別為MP5A2及MP5A4。MP5A2被多名在[哥斯達黎加的營救行動中的敵方守衛所使用](https://zh.wikipedia.org/wiki/哥斯達黎加 "wikilink")；MP5A4則被[墨西哥](../Page/墨西哥.md "wikilink")特種部隊隊員所使用。
   - 2012年—《[-{zh-hk:追擊拉登行動; zh-tw:00:30凌晨密令; zh-cn:猎杀本·拉登;}-](https://zh.wikipedia.org/wiki/00:30凌晨密令 "wikilink")》（Zero Dark Thirty）：型號為MP5A2，被一名槍手所使用。
-  - 2012年—《[寒戰](../Page/寒戰.md "wikilink")》（Cold War）：型號為MP5A3和MP5A2，分別被[特別任務連](../Page/特別任務連.md "wikilink")和[香港警察所使用](../Page/香港警務處.md "wikilink")。
   - 2013年—《[-{zh-hk:白宮淪陷; zh-tw:全面攻佔：倒數救援; zh-cn:奥林匹斯的陷落;}-](../Page/全面攻佔：倒數救援.md "wikilink")》（Olympus Has Fallen）：型號為MP5A3，裝上瞄準鏡和[戰術燈](../Page/戰術燈.md "wikilink")，被[朝鮮](https://zh.wikipedia.org/wiki/朝鮮 "wikilink")[恐怖份子所使用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，亦曾被主角邁克·班寧（[傑拉德·巴特勒](../Page/傑拉德·巴特勒.md "wikilink")飾演）所繳獲。
   - 2014年—《[國定殺戮日：無法無天](../Page/國定殺戮日：無法無天.md "wikilink")》（The Purge: Anarchy）：型號為MP5A3和MP5K，被殺戮者所使用，其中一支A3亦被主角李歐·巴恩斯（[法蘭克·葛里洛](../Page/法蘭克·葛里洛.md "wikilink")飾演）所繳獲。
   - 2014年—《[-{zh-hk:轟天猛將3; zh-tw:浴血任務3; zh-cn:敢死队3;}-](https://zh.wikipedia.org/wiki/敢死队3 "wikilink")》（The Expendables 3）：型號為MP5A3、MP5K、MP5KA1和MP5KA5：
@@ -515,10 +515,7 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
       - MP5KA1被「死亡醫生」和敵軍所使用。
       - MP5KA5裝上MP5K-PDW式槍托和低視度[照準器](../Page/照準器.md "wikilink")並被索恩（[格倫·鮑威爾](../Page/格倫·鮑威爾.md "wikilink")飾演）所使用。
   - 2014年—《[-{zh-cn:伸冤人; zh-hk:叛諜裁判; zh-tw:私刑教育;}-](https://zh.wikipedia.org/wiki/私刑教育 "wikilink")》：為MP5A3，配備[戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，裝上[抑制器](../Page/抑制器.md "wikilink")、EOTech XPS2[全息瞄準鏡和](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")[前握把等配件](../Page/輔助握把.md "wikilink")，於故事後期被泰迪（[馬頓·索柯斯](../Page/馬頓·索柯斯.md "wikilink")飾演）所使用。
-  - 2015年—《[黑帽駭客](https://zh.wikipedia.org/wiki/黑帽駭客 "wikilink")》：型號為MP5A3，被執行圍捕行動的[香港警務處](../Page/香港警務處.md "wikilink")[特別任務連](../Page/特別任務連.md "wikilink")隊員所使用。
-  - 2015年—《[赤道](../Page/赤道_\(電影\).md "wikilink")》：型號為MP5A5，被[香港警務處](../Page/香港警務處.md "wikilink")[反恐特勤隊](../Page/反恐特勤隊.md "wikilink")隊員所使用。
   - 2015年—《[-{zh-hans:边境杀手; zh-hk:毒裁者; zh-tw:怒火邊界;}-](../Page/毒裁者.md "wikilink")》（Sicario）：型號為MP5A3和MP5SD3，兩者均被亞歷杭德羅·吉利克（[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")飾演）所使用，並被裝上[紅點鏡](../Page/紅點鏡.md "wikilink")，前者更換了戰術導軌[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")。一支裝上[電筒的MP](https://zh.wikipedia.org/wiki/電筒 "wikilink")5A3亦被一名毒犯所使用。
-  - 2015年—《[-{zh-hk:猛火鎗;zh-tw:全面逃殺;zh-cn:使命召唤;}-](../Page/全面逃殺.md "wikilink")》（The Gunman）：型號為MP5A3，被故事尾段的西班牙特警隊所使用。
   - 2015年—《[-{zh-cn:王牌特工：特工学院; zh-hk:皇家特工：間諜密令; zh-tw:金牌特務;}-](../Page/皇家特工：間諜密令.md "wikilink")》（Kingsman: The Secret Service）：型號為MP5D3、MP5KA1和MP5K PDW。
       - MP5SD3於故事開頭被蘭斯洛特（[傑克·達文波特](../Page/傑克·達文波特.md "wikilink")飾演）所使用。
       - MP5KA1噴上了雪地塗裝並裝上ASG Super Xenon 16085瞄準鏡，普遍地被里奇蒙·范倫坦（[山謬·傑克森飾演](https://zh.wikipedia.org/wiki/山謬·傑克森 "wikilink")）的手下所使用，其中一枝被主角蓋瑞·「伊格西」·安文（[泰隆·艾格頓飾演](https://zh.wikipedia.org/wiki/泰隆·艾格頓 "wikilink")）所繳獲。
@@ -528,10 +525,7 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
       - MP5A3被[倫敦警察和恐怖份子所使用](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。
       - MP5K被恐怖份子所使用，也被[美國總統班傑明](https://zh.wikipedia.org/wiki/美國總統 "wikilink")·亞瑟（[艾倫·艾克哈特飾演](https://zh.wikipedia.org/wiki/艾倫·艾克哈特 "wikilink")）所繳獲。
   - 2016年—《[-{zh-hans:硬核大战; zh-hk:爆機特攻; zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore Henry）：型號為MP5K，被吉米（[沙托·科普利](../Page/沙托·科普利.md "wikilink")飾演）在[妓院](../Page/妓院.md "wikilink")裡所使用。
-  - 2016年—《[樹大招風](https://zh.wikipedia.org/wiki/樹大招風 "wikilink")》：型號為MP5A3，被[特別任務連](../Page/特別任務連.md "wikilink")所使用。
   - 2016年—《[湄公河行動](https://zh.wikipedia.org/wiki/湄公河行動 "wikilink")》：型號為MP5K PDW，被郭冰（馮文娟飾演）所使用。
-  - 2016年—《[寒戰II](https://zh.wikipedia.org/wiki/寒戰II "wikilink")》（Cold War II）：型號為MP5A3和MP5A2，分別被[香港警察](../Page/香港警務處.md "wikilink")[特別任務連](../Page/特別任務連.md "wikilink")所使用。
-  - 2017年—《[殺手保鏢](https://zh.wikipedia.org/wiki/殺手保鏢 "wikilink")》：型號為MP5A5，有裝[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")與[全像武器照準器](../Page/全像武器照準器.md "wikilink")，被[法國國家警察干預隊與](https://zh.wikipedia.org/wiki/法國國家警察干預隊 "wikilink")[國際刑警組織探員使用](https://zh.wikipedia.org/wiki/國際刑警組織 "wikilink")，後來其中一支被達留士金凱德繳獲。
   - 2018年—《[红海行动](https://zh.wikipedia.org/wiki/红海行动 "wikilink")》（Operation Red Sea）：型号为MP5A3，分别被[中国人民解放軍海军陸戰隊](https://zh.wikipedia.org/wiki/中国人民解放軍海军陸戰隊 "wikilink")“蛟龙突击队”队长杨锐（[张译](../Page/张译.md "wikilink")饰）在追截核原料期间以及伊维亚共和国政府军所使用。
 
 ### [電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")
@@ -598,7 +592,6 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
       - MP5KA4（裝上[槍托](../Page/槍托.md "wikilink")後會變成MP5K PDW）命名為「MP5K」，歸類為衝鋒槍，20+1發彈匣，預設配備Trijicon SRS02綠點鏡、延長彈匣（25發）及[抑制器](../Page/抑制器.md "wikilink")，設定為警匪雙方機械師（Mechanic）起始武器。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至25+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[槍托](../Page/槍托.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
       - MP5A4命名為「M5 Navy」，會使用“HK拍擊”上膛，為資料片「大逃亡」新增的資料片獨有武器，歸類為衝鋒槍，30+1發彈匣（造型上為15發彈匣，使用“延長彈匣”改裝後更換為30發彈匣的造型），被警方機械師（Mechanic）所使用，價格為$60,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
       - MP5SD5命名為「M5SD」，會使用“HK拍擊”上膛，為資料片「大逃亡」新增武器，歸類為衝鋒槍，30+1發彈匣（造型上為15發彈匣，使用“延長彈匣”改裝後更換為30發彈匣的造型），被雙方所有職階所使用，價格為$60,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、戰術燈、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
-  - 2015年—《[未轉變者](../Page/未轉變者.md "wikilink")》:命名為「Viper」，，分類為卡賓槍，等級為稀有等級槍枝，使用25發專用彈匣，可以改瞄準鏡、戰術導軌配件以及槍管。
   - 2015年—《[-{zh-hans:彩虹六号：围攻 ; zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow Six: Siege）：登場型號為MP5 MLI，MP5K PDW和MP5SD2，會使用“HK拍擊”上膛：
       - MP5 MLI命名為「MP5」，被[國家憲兵干預組](../Page/國家憲兵干預組.md "wikilink")所使用。
       - MP5K PDW命名為「MP5K」，被[特種空勤團所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")
@@ -618,13 +611,12 @@ MP5系列也出現在許多[電影](https://zh.wikipedia.org/wiki/電影 "wikili
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
   - 2002年—《[神槍少女](../Page/神槍少女.md "wikilink")》
-  - 2006年—《[-{zh-hans:黑礁; zh-hant:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》：型號為MP5A3，被國家社會主義白人團結黨成員所使用。
+  - 2006年—《[-{zh-hans:黑礁; zh-hant:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》：型號為MP5A3，由國家社會主義白人團結黨成員所使用。
   - 2007年—《[DARKER THAN BLACK](https://zh.wikipedia.org/wiki/DARKER_THAN_BLACK "wikilink")》
   - 2008年—《[圖書館戰爭](../Page/圖書館戰爭.md "wikilink")》
   - 2009年—《[幻靈鎮魂曲](https://zh.wikipedia.org/wiki/幻靈鎮魂曲 "wikilink")》
   - 2011年—《[未來日記](../Page/未來日記.md "wikilink")》
   - 2012年—《[軍火女王](../Page/軍火女王.md "wikilink")》
-  - 2014年—《[WIZARD BARRISTERS～弁魔士賽希爾](../Page/WIZARD_BARRISTERS～弁魔士賽希爾.md "wikilink")》：型號為MP5A2，被[特殊急襲部隊](../Page/特殊急襲部隊.md "wikilink")所使用。
 
 ### [小说](../Page/小说.md "wikilink")
 

@@ -11,7 +11,7 @@ Pentium M处理器在功耗和性能两者间达成了极佳的平衡，帮助�
 
 ### 移動型處理器
 
-#### "Banias" (130 nm)
+#### "Banias"（130 nm）
 
 2003年3月第一代[Centrino芯片推出](https://zh.wikipedia.org/wiki/Centrino "wikilink")，代號Karmel，核心名称为[Banias](https://zh.wikipedia.org/wiki/Banias "wikilink")。采用[0.13微米製程芯片工艺](https://zh.wikipedia.org/wiki/0.13微米製程 "wikilink")。集成1MB L2 Cache，前端总线400MHz，集成7700万晶体管。配套的芯片组主要为i855系列，采用[PCI总线和](https://zh.wikipedia.org/wiki/PCI "wikilink")[DDR内存](https://zh.wikipedia.org/wiki/DDR "wikilink")。
 
@@ -36,7 +36,7 @@ Pentium M处理器在功耗和性能两者间达成了极佳的平衡，帮助�
 | [Pentium M ULV 1.0](http://ark.intel.com/zh-tw/products/27606)                                                                     | 1 GHz      | 2003年6月2日                                         |                                                      |                                                       |                                                     |                                                |            |
 | [Pentium M ULV 713](http://ark.intel.com/zh-tw/products/27607)                                                                     | B2         | 1.1 GHz                                           | 2004年4月6日                                            |                                                       |                                                     |                                                |            |
 
-#### "Dothan" (90 nm)
+#### "Dothan"（90 nm）
 
 2004年10月第二代[Centrino芯片推出](https://zh.wikipedia.org/wiki/Centrino "wikilink")，代號Sonoma，核心名称为[Dothan](https://zh.wikipedia.org/wiki/Dothan "wikilink")。采用[0.09微米制程芯片工艺](../Page/90纳米制程.md "wikilink")。集成2MB L2 Cache，前端总线支持到533MHz，也有400MHz产品，集成1億4000万晶体管。配套的芯片组为i915系列，采用[PCI Express总线和](../Page/PCI_Express.md "wikilink")[DDR2内存](https://zh.wikipedia.org/wiki/DDR2 "wikilink")。
 

@@ -242,7 +242,7 @@ Mathematica囊括了大量可立即计算的数据。用户可以通过编程访
 45. [A Top Scientist's Latest: Math Software](http://query.nytimes.com/gst/fullpage.html?res=940DE5DA173AF937A15755C0A96E948260) by Andrew Pollack, *The New York Times*，June 24, 19988.
 46. [Quick Revision History of Mathematica](http://www.wolfram.com/products/mathematica/quickrevisionhistory.html)
 47.
-48. <http://www.mathematica-journal.com/issue/v9i1/news.html> Mathematica Journal, Volume 9, Issue 1
+48. <http://www.mathematica-journal.com/issue/v9i1/news.html>  Mathematica Journal, Volume 9, Issue 1
 49. [Supercomputer Pictures Solve the Once Insoluble](http://query.nytimes.com/gst/fullpage.html?res=940DE6DB133EF933A05753C1A96E948260)，John Markoff, October 30, 1988.
 50. [4](http://12000.org/my_notes/compare_mathematica/index.htm)，Nasser M. Abbasi.
 51. Mathematica 1.1. Biotechnology Software. Vogel, W. K.（1989）

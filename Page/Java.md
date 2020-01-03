@@ -132,7 +132,7 @@ Java的特点之一就是[面向对象](../Page/面向对象程序设计.md "wik
 
 ### 跨平台性
 
-跨平台性是Java主要的特性之一，跨平台使得使用用Java语言编写的程序可以在编译后不用经过任何更改，就能在任何硬件设备条件下运行。这个特性经常被称为“一次编译，到处运行”。
+跨平台性是Java主要的特性之一，跨平台使得用Java语言编写的程序可以在编译后不用经过任何更改，就能在任何硬件设备条件下运行。这个特性经常被称为“一次编译，到处运行”。
 
 执行Java应用程式必须安装**Java 运行时环境**（Java Runtime Environment，JRE），JRE包括[Java虚拟机](../Page/Java虚拟机.md "wikilink")（Java Virtual Machine，JVM），以及Java平台核心类和基础Java 平台库。\[4\]通过JVM才能在电脑系统执行Java应用程序（Java Application），这与**[.Net Framework](https://zh.wikipedia.org/wiki/.Net_Framework "wikilink")**的情况一样，所以电脑上没有安装JVM，那么这些java程序将不能够执行。
 

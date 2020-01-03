@@ -23,7 +23,7 @@
 
 支持3DNow\!的CPU的[CPUID](../Page/CPUID.md "wikilink")扩展功能字（EAX=80000001h时执行CPUID指令得到的EDX的内容）的（从低位到高位）第31位为1。支持扩展3DNow\!的CPU的CPUID扩展功能字的（从低位到高位）第30位为1。
 
-K6-2至Zen之间AMD所有的x86处理器都支持3DNow\!，包括最新的[Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Opteron](../Page/Opteron.md "wikilink")和[Sempron处理器](https://zh.wikipedia.org/wiki/Sempron "wikilink")；AMD将3DNow\!从Zen支持列表中移除；[Cyrix](../Page/Cyrix.md "wikilink")等一些其他厂家生产的某些处理器也支持3DNow\!；但Intel生产的所有处理器都不支持3DNow\!。
+K6-2至K10之间AMD所有的x86处理器都支持3DNow\!，包括[Athlon 64](https://zh.wikipedia.org/wiki/Athlon_64 "wikilink")、[Opteron](../Page/Opteron.md "wikilink")和[Sempron处理器](https://zh.wikipedia.org/wiki/Sempron "wikilink")；AMD将3DNow\!从[Ryzen](https://zh.wikipedia.org/wiki/Ryzen "wikilink")、[AMD FX處理器移除](../Page/AMD_FX.md "wikilink")；[Cyrix](../Page/Cyrix.md "wikilink")等一些其他厂家生产的某些处理器也支持3DNow\!；但Intel生产的所有处理器都不支持3DNow\!。
 
 ## 执行环境
 

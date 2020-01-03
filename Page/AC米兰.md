@@ -849,12 +849,12 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 
 </small>
 
-<table style="width:25%;">
+<table style="width:27%;">
 <colgroup>
 <col style="width: 5%" />
 <col style="width: 6%" />
 <col style="width: 2%" />
-<col style="width: 6%" />
+<col style="width: 8%" />
 <col style="width: 1%" />
 <col style="width: 1%" />
 <col style="width: 1%" />
@@ -1152,6 +1152,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/法蘭克福足球會" title="wikilink">-{zh-hans:法兰克福; zh-hk:法蘭克福;zh-tw:法蘭克福;}-</a></p></td>
 <td><p>500萬歐元（一季租借費）</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/伊巴謙莫域" title="wikilink">-{zh-hans:伊布拉希莫维奇;zh-hk:伊巴謙莫域;zh-tw:伊布拉希莫維奇;}-</a>（Zlatan Ibrahimović）</p></td>
+<td><p>前鋒</p></td>
+<td></td>
+<td><p>2020年</p></td>
+<td><p><a href="../Page/洛杉磯銀河.md" title="wikilink">洛杉磯銀河</a></p></td>
+<td><p>自由轉會</p></td>
 </tr>
 </tbody>
 </table>
@@ -2047,12 +2057,12 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 
 ## 球队记录
 
-<small>更新日期：2009年6月30日</small>
+<small>更新日期：2019年12月22日</small>
 
   - 主场获胜最悬殊比赛：1951年2月18日对[巴勒莫队](https://zh.wikipedia.org/wiki/巴勒莫足球俱乐部 "wikilink")，9比0。
   - 客场获胜最悬殊比赛：1955年6月5日对[热那亚队](https://zh.wikipedia.org/wiki/热那亚足球俱乐部 "wikilink")，8比0。
   - 主场失利最悬殊比赛：1997年4月6日对[尤文图斯队](../Page/尤文图斯足球俱乐部.md "wikilink")，1比6。
-  - 客场失利最悬殊比赛：1998年5月3日对[罗马队](https://zh.wikipedia.org/wiki/罗马足球俱乐部 "wikilink")，0比5。
+  - 客场失利最悬殊比赛：1998年5月3日对[罗马队](https://zh.wikipedia.org/wiki/罗马足球俱乐部 "wikilink")、2019年12月22日對[亞特蘭大队](https://zh.wikipedia.org/wiki/亞特蘭大足球俱乐部 "wikilink")，0比5。
   - 连胜场次最多：1950–51赛季第21–30轮，共10场。
   - 客场连胜场次最多：1992–93赛季第2、4、5、7、9、11、14、16轮，共8场。
   - 连续不败场次最多：1990–91赛季第34轮至1992–93赛季第23轮，共58场。其中39胜19平。

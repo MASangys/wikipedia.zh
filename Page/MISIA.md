@@ -329,7 +329,7 @@ MISIA 星空のライヴⅦ-15th Celebration-
 
 ## 演唱會紀錄
 
-請參閱[米希亞演唱會](../Page/米希亞演唱會.md "wikilink")
+## 相關連結
 
 ## 外部链接
 
@@ -344,4 +344,4 @@ MISIA 星空のライヴⅦ-15th Celebration-
   -
   - [日本一般財團法人 mudef](http://mudef.net/)
 
-[Category:日本女高音](https://zh.wikipedia.org/wiki/Category:日本女高音 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:西南學院大學校友](https://zh.wikipedia.org/wiki/Category:西南學院大學校友 "wikilink") [Category:日本唱片大獎最優秀歌唱獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀歌唱獎獲獎者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink") [Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink")
+[Category:日本女高音](https://zh.wikipedia.org/wiki/Category:日本女高音 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink") [Category:西南學院大學校友](https://zh.wikipedia.org/wiki/Category:西南學院大學校友 "wikilink") [Category:日本唱片大獎最優秀歌唱獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀歌唱獎獲獎者 "wikilink") [Category:NHK紅白歌合戰出場歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出場歌手 "wikilink") [Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink")

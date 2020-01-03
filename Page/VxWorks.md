@@ -19,4 +19,4 @@ VxWorks支持几乎所有现代市场上的嵌入式CPU，包括[x86系列](http
 
 [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink") [Category:机器人操作系统](https://zh.wikipedia.org/wiki/Category:机器人操作系统 "wikilink")
 
-1.  <http://blogs.windriver.com/deliman/2008/05/did-you-watch-i.html>
+1.

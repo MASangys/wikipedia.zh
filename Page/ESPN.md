@@ -66,9 +66,9 @@ ESPN在美國營運了一系列的頻道，包括：
 
 在香港播出時，同樣被[廣東內的](https://zh.wikipedia.org/wiki/廣東 "wikilink")[廣州有線及](https://zh.wikipedia.org/wiki/廣州有線 "wikilink")[廣東有線盜取並直接播放](https://zh.wikipedia.org/wiki/廣東有線 "wikilink")，到00年代开始，原有頻道陆续被兩線的體育頻道（即广东体育频道、广州竞赛频道）取代。
 
-在中国大陆地区的90年代，多个省级有线电视台陆续开设体育频道变相转播ESPN亚洲版赛事节目，并悬挂当地有线电视台台标和插播当地节目等，后来受1999年[美军轰炸中国驻南斯拉夫联盟使馆事件影响而陆续被迫停止与ESPN合作](https://zh.wikipedia.org/wiki/美军轰炸中国驻南斯拉夫联盟使馆事件 "wikilink")，外加2000年台网分离，有线电视台专业频道划入电视台频道系列，以及央视垄断体育赛事版权，使得地方级电视台体育频道持续走向没落。曾在2009年还与[青海卫视](../Page/青海卫视.md "wikilink")合作打造“壹体育”品牌全天直播ESPN赛事，半年后被广电总局叫停封杀。
+在中国大陆地区的90年代，多个省级有线电视台陆续开设体育频道变相转播ESPN亚洲版赛事节目，并悬挂当地有线电视台台标和插播当地节目等，后来受1999年[美军轰炸中国驻南斯拉夫联盟使馆事件影响而陆续被迫停止与ESPN合作](https://zh.wikipedia.org/wiki/美军轰炸中国驻南斯拉夫联盟使馆事件 "wikilink")，外加2000年台网分离，有线电视台专业频道划入电视台频道系列，以及央视垄断体育赛事版权，使得地方级电视台体育频道持续走向没落。曾在2009年还与[青海卫视](../Page/青海卫视.md "wikilink")合作打造“壹体育”品牌全天直播ESPN赛事，半年后被广电总局叫停封杀。ESPN的众多中文解说员及评论员（如[詹俊](../Page/詹俊.md "wikilink")、[苏东](https://zh.wikipedia.org/wiki/苏东 "wikilink")、[童可欣](https://zh.wikipedia.org/wiki/童可欣 "wikilink")、[李元魁](../Page/李元魁.md "wikilink")、[陈熙荣](../Page/陈熙荣.md "wikilink")等）也纷纷回流中国大陆。
 
-目前在中國大陸地區，ESPN和[衛視體育台](../Page/衛視體育台.md "wikilink")可以在三星級以上賓館以及部分外國人居住區播出，实际上现在播出的节目即[FOX体育台的节目](https://zh.wikipedia.org/wiki/FOX体育台 "wikilink")，只是中国区域版本呼号依然维持现状。
+目前在中國大陸地區，原ESPN中国频道已更名为[卫视体育2台](../Page/衛視體育台.md "wikilink")，可以在三星級以上賓館以及部分外國人居住區播出，实际上现在播出的节目即[FOX体育台的节目](https://zh.wikipedia.org/wiki/FOX体育台 "wikilink")，只是中国区域版本呼号依然维持现状。
 
 隨著ESPN把持有的ESPN STAR Sports所有股份售予新聞集團，ESPN正式退出亞洲，其在亞洲的ESPN頻道也已經陸續更名。
 

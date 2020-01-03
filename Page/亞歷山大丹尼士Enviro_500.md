@@ -270,7 +270,7 @@ Les Cars Rouges觀光公司也訂購了16輛開篷版E500巴士，其中8輛於[
 
 ## Enviro 500在英國
 
-[英國First](https://zh.wikipedia.org/wiki/英國 "wikilink") Glasgow購入25部Enviro 500，引擎規格與[九巴ATEU](https://zh.wikipedia.org/wiki/九巴 "wikilink")1相同，車身與[九巴ATEU](https://zh.wikipedia.org/wiki/九巴 "wikilink")2-ATEU10相同，但下層太平門採用傳統太平門而非全玻璃太平門，車尾上層太平門放棄採用全玻璃太平門，屬單門車身設計。這批巴士已於2009年4月中投入服務。
+[英國First](https://zh.wikipedia.org/wiki/英國 "wikilink") Glasgow購入25部Enviro 500，引擎規格與[九龍巴士](../Page/九龍巴士.md "wikilink")ATEU1相同，車身與[九龍巴士](../Page/九龍巴士.md "wikilink")ATEU2-10大致相同，但下層太平門採用傳統太平門而非全玻璃太平門，車尾上層太平門放棄採用全玻璃太平門，屬單門車身設計。這批巴士已於2009年4月中投入服務。
 
 ## Enviro 500在澳洲
 
@@ -278,7 +278,7 @@ Les Cars Rouges觀光公司也訂購了16輛開篷版E500巴士，其中8輛於[
 
 ## 配Enviro 500車身的富豪B9TL
 
-九巴首輛配Enviro 500車身的富豪B9TL巴士於2005年1月完成登記（車牌LU3721），並於同年2月投入服務，車隊編號為AVBE1。隨後[載通國際](../Page/載通國際.md "wikilink")於2006-2007年間為九巴與龍運巴士訂購了共95輛配Enviro 500車身的B9TL巴士，並於2006年[秋季](../Page/秋季.md "wikilink")至2008年[春季](../Page/春季.md "wikilink")投入服務。
+九龍巴士首輛配Enviro 500車身的富豪B9TL，將於2005年1月完成登記（車牌LU3721），並於同年2月投入服務，車隊編號為AVBE1。隨後[載通國際](../Page/載通國際.md "wikilink")於2006-2007年間為九龍巴士與龍運巴士訂購了共95輛配Enviro 500車身的B9TL，並於2006年[秋季](../Page/秋季.md "wikilink")至2008年[春季](../Page/春季.md "wikilink")投入服務。
 
 愛爾蘭的都柏林巴士公司（Dublin Bus）於2005年購入為數20輛配Enviro 500車身的富豪B9TL巴士，後來再訂購50輛巴士。
 
@@ -305,7 +305,7 @@ Les Cars Rouges觀光公司也訂購了16輛開篷版E500巴士，其中8輛於[
 
 ## 外部連結
 
-  - [Enviro 500型號官方說明](http://www.alexander-dennis.com/products/enviro500/)
+  - [Enviro 500型號官方說明](https://web.archive.org/web/20140729070715/http://www.alexander-dennis.com/products/enviro500/)
 
   - [九巴「超『直』巴士」發佈新聞稿](http://www.kmb.hk/chinese.php?page=next&file=news/service/news1q03/news2003011501.html)
 

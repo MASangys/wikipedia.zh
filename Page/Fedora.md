@@ -117,14 +117,11 @@ Fedora版本命名规则：第n版与第n+1版有继承关系，但与第n+2版�
 
 ## 系統需求
 
-以最新的版本（Fedora 20）为准。\[42\]
+以最新的版本为准。\[42\]
 
-  - CD或DVD驱动器。
-  - 1GHz处理器或更快
-  - 推荐1GB的内存及以上（RAM）
-  - 推荐10GB的永久存储空间（硬盘驱动器）
-
-如果您的电脑没有CD或DVD驱动器，或者是不能够从该驱动器启动，那么你可能需要从USB存储设备，如USB闪存驱动器来安装Fedora。
+  - 1GHz处理器或更快，推荐2GHz多核心处理器。
+  - 推荐4GB的内存（RAM）
+  - 推荐20GB的永久存储空间（硬盘驱动器）
 
 ## 特色
 
@@ -284,7 +281,7 @@ Fedora預設會啟動[SELinux安全加強模組](https://zh.wikipedia.org/wiki/S
 39.
 40. [The Fedora Project Will No Longer Name Its Linux Distributions（英文）](http://news.softpedia.com/news/The-Fedora-Project-Will-No-Longer-Name-Their-Linux-Distributions-416156.shtml)Softpedia
 41. [Releases/21/Schedule（英文）](https://fedoraproject.org/wiki/Releases/21/Schedule)Fedora Project
-42. [1](http://docs.fedoraproject.org/en-US/Fedora/18/html/Installation_Quick_Start_Guide/Requirements.html)
+42. [1](https://docs.fedoraproject.org/en-US/fedora/rawhide/release-notes/welcome/Hardware_Overview/)
 43. [Fedora发行版是什么](https://fedoraproject.org/wiki/Overview#What_is_the_Fedora_Distribution.3F)（英文） - FedoraProject
 44. [如何在Fedora中播放MP3（英文）](http://www.fedorafaq.org/#mp3) - FedoraFAQ.org
 45. [如何在Fedora中播放DVD（英文）](http://www.fedorafaq.org/#dvd) - FedoraFAQ.org

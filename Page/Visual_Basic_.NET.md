@@ -618,7 +618,7 @@ Visual Basic 2015（VB 14.0）於2015年7月20日發佈。
 
   - [Microsoft's VB.NET](http://msdn.microsoft.com/vbasic/)
 
-  - [Visual Basic 2005 Express Edition](http://lab.msdn.microsoft.com/express/vbasic/)
+  - [Visual Basic 2005 Express Edition](https://web.archive.org/web/20051107020835/http://lab.msdn.microsoft.com/express/vbasic/)
 
   - [VBRun网站](http://msdn.microsoft.com/VBRun/)
 

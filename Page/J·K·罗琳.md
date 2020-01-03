@@ -127,6 +127,14 @@ J.K·羅琳在她的個人網站上這樣介紹《哈利波特》：
 
 2007年，羅琳接受荷蘭報紙《》的訪談時這樣描述她的宗教背景：
 
+## 争议
+
+2019年12月19日，罗琳在[推特上发表一件关于](https://zh.wikipedia.org/wiki/推特 "wikilink")[跨性别者与言论争议的司法案件的个人观点](../Page/跨性別.md "wikilink")。案件中的事主玛雅因为发表针对跨性别者的批评，结果失去工作机会；经过诉讼之后，英国法庭判处玛雅败诉。案件引起罗琳的注意，并公开力挺玛雅的立场，结果引起全球跨性别者的围剿，进而掀起舆论大战。
+
+事件起因于2018年，案中的女性玛雅是英国一名税务专家，原先在国际知名的智库（简称CGD）担任顾问。她曾多次在个人推特上转贴批评跨性别者的图文和发表不认同跨性别者的看法。2019年3月，CGD决定不再跟玛雅续约，玛雅质疑是她的思想言论，才导致她失去工作机会，因此告上[倫敦高院](https://zh.wikipedia.org/wiki/倫敦高院 "wikilink")，要求CGD赔偿。法官最终判处玛雅败诉，并斥责她是「侵犯他人的尊严，造成他人恐惧和羞辱，这种做法是不应该得到尊重。」 玛雅对此结果感到震惊和失望：「我的信念是，性别是[生物学](../Page/生物学.md "wikilink")上的事，并且不能改变的。男人和男该是男性，女人和女孩是女性，改变性别是不可能的，这是每个人生活的基本事实。」并续说：「任何人都有权利表达自己的性别观点。这个判决剥夺妇女的权利和个人信仰与[言论自由](https://zh.wikipedia.org/wiki/言论自由 "wikilink")。」 罗琳在推特上表态支持玛雅，并语带讽刺批评「只是因为陈述性别的事实，就强迫妇女失业？」表示与玛雅站在同一边\[192\]。
+
+罗琳的发言引发了这场跨性别者的言论大战，包括玛雅本人在内，支持同样立场的支持者赞赏和声援她们两人。在贴发推文的同时，也招惹众多捍卫[LGBT](../Page/LGBT.md "wikilink")权利的社群，纷纷指责罗琳是「恐惧跨性别症」，拒绝跨性别的激进女权主义者。《卫报》也对此报导，指罗琳的推特帐号曾经按赞过羞辱跨性别者的贴文，这不仅让罗琳的书迷表示感到震惊，也引发网民加入围剿。网民认为罗琳过去捍卫女性主义形象，也不讳言支持同性恋团体，唯独在针对跨性别者的议题上，她的立场不像外界所想的「进步」。罗琳官方代理人对此出面缓和，表示这只是她不善长使用科技的无心错误而已\[193\]\[194\]。
+
 ## 作品
 
 ### 童書
@@ -168,25 +176,25 @@ J.K·羅琳在她的個人網站上這樣介紹《哈利波特》：
 
 ## 榮譽
 
-[Jk-rowling-crop.JPG](https://zh.wikipedia.org/wiki/File:Jk-rowling-crop.JPG "fig:Jk-rowling-crop.JPG")榮譽學位時的J.K·羅琳\]\] J.K·羅琳曾獲[聖安德魯斯大學](https://zh.wikipedia.org/wiki/聖安德魯斯大學 "wikilink")、[愛丁堡大學](https://zh.wikipedia.org/wiki/愛丁堡大學 "wikilink")、[愛丁堡納皮爾大學](../Page/愛丁堡納皮爾大學.md "wikilink")、[艾希特大學](../Page/艾希特大學.md "wikilink")\[192\]、[亞伯丁大學](https://zh.wikipedia.org/wiki/亞伯丁大學 "wikilink")\[193\]\[194\]及[哈佛大學頒發榮譽學位](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")，其中羅琳曾在哈佛大學2008年畢業典禮上對畢業生演講\[195\]。2009年，[法國總統](https://zh.wikipedia.org/wiki/法國總統 "wikilink")[尼古拉·薩科齊向羅琳頒發](https://zh.wikipedia.org/wiki/尼古拉·薩科齊 "wikilink")[法國榮譽軍團勳章](../Page/法國榮譽軍團勳章.md "wikilink")\[196\]。
+[Jk-rowling-crop.JPG](https://zh.wikipedia.org/wiki/File:Jk-rowling-crop.JPG "fig:Jk-rowling-crop.JPG")榮譽學位時的J.K·羅琳\]\] J.K·羅琳曾獲[聖安德魯斯大學](https://zh.wikipedia.org/wiki/聖安德魯斯大學 "wikilink")、[愛丁堡大學](https://zh.wikipedia.org/wiki/愛丁堡大學 "wikilink")、[愛丁堡納皮爾大學](../Page/愛丁堡納皮爾大學.md "wikilink")、[艾希特大學](../Page/艾希特大學.md "wikilink")\[195\]、[亞伯丁大學](https://zh.wikipedia.org/wiki/亞伯丁大學 "wikilink")\[196\]\[197\]及[哈佛大學頒發榮譽學位](https://zh.wikipedia.org/wiki/哈佛大學 "wikilink")，其中羅琳曾在哈佛大學2008年畢業典禮上對畢業生演講\[198\]。2009年，[法國總統](https://zh.wikipedia.org/wiki/法國總統 "wikilink")[尼古拉·薩科齊向羅琳頒發](https://zh.wikipedia.org/wiki/尼古拉·薩科齊 "wikilink")[法國榮譽軍團勳章](../Page/法國榮譽軍團勳章.md "wikilink")\[199\]。
 
-羅琳其它獎項包括\[197\]：
+羅琳其它獎項包括\[200\]：
 
   - 1997年：金牌，《[哈利波特－神秘的魔法石](https://zh.wikipedia.org/wiki/哈利波特－神秘的魔法石 "wikilink")》
-  - 1998年：雀巢聰明豆兒童圖書獎金牌，《[哈利波特－消失的密室](https://zh.wikipedia.org/wiki/哈利波特－消失的密室 "wikilink")》
+  - 1998年：[雀巢聰明豆兒童圖書獎金牌](https://zh.wikipedia.org/wiki/雀巢聰明豆兒童圖書獎 "wikilink")，《[哈利波特－消失的密室](https://zh.wikipedia.org/wiki/哈利波特－消失的密室 "wikilink")》
   - 1998年：，《哈利波特－神秘的魔法石》
-  - 1999年：雀巢聰明豆兒童圖書獎金牌，《[哈利波特－阿茲卡班的逃犯](https://zh.wikipedia.org/wiki/哈利波特－阿茲卡班的逃犯 "wikilink")》
+  - 1999年：[雀巢聰明豆兒童圖書獎金牌](https://zh.wikipedia.org/wiki/雀巢聰明豆兒童圖書獎 "wikilink")，《[哈利波特－阿茲卡班的逃犯](https://zh.wikipedia.org/wiki/哈利波特－阿茲卡班的逃犯 "wikilink")》
   - 1999年：國家圖書獎年度最佳童書，《哈利波特－消失的密室》
   - 1999年：，《哈利波特－阿茲卡班的逃犯》
-  - 2000年：英國圖書獎年度作家\[198\]
+  - 2000年：[英國圖書獎年度作家](https://zh.wikipedia.org/wiki/英國圖書獎 "wikilink")\[201\]
   - 2000年：[大英帝國勳章](../Page/大英帝國勳章.md "wikilink")，因在兒童文學創作上的貢獻而獲勳
   - 2000年：[軌跡獎](../Page/軌跡獎.md "wikilink")，《哈利波特－阿茲卡班的逃犯》
   - 2001年：[雨果最佳年度小說獎](https://zh.wikipedia.org/wiki/雨果最佳年度小說獎 "wikilink")，《[哈利波特－火盃的考驗](https://zh.wikipedia.org/wiki/哈利波特－火盃的考驗 "wikilink")》
   - 2003年：[阿斯圖里亞斯親王獎](https://zh.wikipedia.org/wiki/阿斯圖里亞斯親王獎 "wikilink")，和平獎
   - 2003年：，《[哈利波特－鳳凰會的密令](https://zh.wikipedia.org/wiki/哈利波特－鳳凰會的密令 "wikilink")》
-  - 2006年：英國年度圖書獎，《[哈利波特－混血王子的背叛](https://zh.wikipedia.org/wiki/哈利波特－混血王子的背叛 "wikilink")》
+  - 2006年：[英國年度圖書獎](https://zh.wikipedia.org/wiki/英國年度圖書獎 "wikilink")，《[哈利波特－混血王子的背叛](https://zh.wikipedia.org/wiki/哈利波特－混血王子的背叛 "wikilink")》
   - 2007年：
-  - 2008年：英國圖書獎，傑出成就獎
+  - 2008年：[英國圖書獎](https://zh.wikipedia.org/wiki/英國圖書獎 "wikilink")，傑出成就獎
   - 2010年：[漢斯·克里斯蒂安·安徒生文學獎](https://zh.wikipedia.org/wiki/漢斯·克里斯蒂安·安徒生文學獎 "wikilink")
   - 2011年：[英國電影學院獎](https://zh.wikipedia.org/wiki/英國電影學院獎 "wikilink")，因《[哈利波特](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")》系列電影而獲得英國電影傑出貢獻獎，與導演[大衛·海曼](../Page/大衛·海曼.md "wikilink")、演員及劇組共同獲得
   - 2012年：倫敦市榮譽市民
@@ -395,9 +403,12 @@ J.K·羅琳在她的個人網站上這樣介紹《哈利波特》：
 190.
 191.
 192.
-193.
+193.  ‘Harry Potter’ Helped Me Come Out as Trans, But J.K. Rowling Disappointed Me|url=[https://www.nytimes.com/2019/12/21/opinion/jk-rowling-twitter-trans.html|newspaper=The](https://www.nytimes.com/2019/12/21/opinion/jk-rowling-twitter-trans.html%7Cnewspaper=The) New York Times|date=2019-12-21|accessdate=2019-12-22|issn=0362-4331|language=en-US|first=Jackson|last=Bird}}
 194.
 195.
 196.
 197.
 198.
+199.
+200.
+201.

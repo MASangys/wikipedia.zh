@@ -45,13 +45,13 @@ RealPlayer除了其基本作為音訊和視訊的播放器以外，亦包括了�
       - [QuickTime](../Page/QuickTime.md "wikilink")（`.mov`, `.qt`）
       - [Adobe Flash](../Page/Adobe_Flash.md "wikilink")（`.swf`，需要安裝Flash或Shockwave播放器）
       - [Flash Video](../Page/Flash_Video.md "wikilink")（`.flv`）〔版本11對應〕
-      - [MJPEG video](https://zh.wikipedia.org/wiki/MJPEG_video "wikilink") playback from .avi files
+      - [MJPEG video](https://zh.wikipedia.org/wiki/MJPEG_video "wikilink") playback from `.avi` files
   - [音訊](https://zh.wikipedia.org/wiki/音訊 "wikilink")：
       - [MP3](../Page/MP3.md "wikilink")（`.mp3`, `.mp2`）
       - [CD](../Page/CD.md "wikilink")音訊（`.cda`）
       - [WAV](../Page/WAV.md "wikilink")（`.wav`）
       - [Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")（`.wma`）
-      - [AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")／[HE-AAC](https://zh.wikipedia.org/wiki/HE-AAC "wikilink") v1 (\*.aac, \*.m4a, \*.m4b, \*.mp4, \*.acp, \*.m4p)/[HE-AAC](https://zh.wikipedia.org/wiki/HE-AAC "wikilink")（`.aac`, `.m4a`, `.m4b`, `.mp4`, `.acp`, `.m4p`）
+      - [AAC](https://zh.wikipedia.org/wiki/AAC "wikilink")／[HE-AAC](https://zh.wikipedia.org/wiki/HE-AAC "wikilink") v1 (`.aac`, `.m4a`, `.m4b`, `.mp4`, `.acp`, `.m4p`)/[HE-AAC](https://zh.wikipedia.org/wiki/HE-AAC "wikilink")（`.aac`, `.m4a`, `.m4b`, `.mp4`, `.acp`, `.m4p`）
       - [Apple Lossless](../Page/Apple_Lossless.md "wikilink")
       - [AIFF](https://zh.wikipedia.org/wiki/AIFF "wikilink")（`.aif`, `.aiff`）
       - [AU](https://zh.wikipedia.org/wiki/Audio_Units "wikilink")（`.au`）
@@ -60,14 +60,14 @@ RealPlayer除了其基本作為音訊和視訊的播放器以外，亦包括了�
       - RealTime串流格式（rtsp://）
       - Progressive Networks串流格式（pna://, pnm://）
       - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") [Windows Media串流格式](../Page/Windows_Media.md "wikilink")（mms://）
-      - Real Scalable Multicast (\*.sdp)
-      - [Synchronized Multimedia Integration Language](https://zh.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language "wikilink") (\*.smil, \*.smi)
+      - Real Scalable Multicast (`.sdp`)
+      - [Synchronized Multimedia Integration Language](https://zh.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language "wikilink") (`.smil`, `.smi`)
   - [圖片](https://zh.wikipedia.org/wiki/圖片 "wikilink")
       - [Bitmap](https://zh.wikipedia.org/wiki/BMP "wikilink")（`.bmp`）
       - [GIF](../Page/GIF.md "wikilink")（`.gif`）
       - [JPEG](../Page/JPEG.md "wikilink")（`.jpg`等）
       - [PNG](https://zh.wikipedia.org/wiki/Portable_Network_Graphics "wikilink")（`.png`）
-  - [Playlists](https://zh.wikipedia.org/wiki/Playlist "wikilink") (\*.rpl, \*.xpl, \*.pls, \*.m3u)
+  - [Playlists](https://zh.wikipedia.org/wiki/Playlist "wikilink") (`.rpl`, `.xpl`, `.pls`, `.m3u`)
 
 ## 插件
 

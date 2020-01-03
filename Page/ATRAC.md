@@ -5,7 +5,9 @@
 
 **自適應聽覺轉換編碼**（，缩写**ATRAC**）為[Sony公司於](https://zh.wikipedia.org/wiki/Sony "wikilink")1992年所開發之音訊[有损数据压缩](../Page/有损数据压缩.md "wikilink")技術，也是相關技術名詞之總稱。除了Sony本身，其他[MiniDisc](../Page/MiniDisc.md "wikilink")製造商如[Sharp](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[Panasonic等](https://zh.wikipedia.org/wiki/Panasonic "wikilink")，也有各自研發自家的ATRAC[编解码器](../Page/编解码器.md "wikilink")。
 
-Sony在2007年9月11日發佈的Walkman,S600F/S700F系列SonicStage和ATRAC音频格式，而Sony對此決定解釋為“为了考虑到各个地区的市场特性，所作出的规格决定。”\[1\]
+Sony在2007年9月11日發佈的Walkman,S600F/S700F系列SonicStage和ATRAC音频格式，而Sony對此決定解釋為“为了考虑到各个地区的市场特性，所作出的规格决定。”\[1\]。
+
+[美國與其他國家之](https://zh.wikipedia.org/wiki/美國 "wikilink")[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")[授權來自](../Page/授權_\(法律\).md "wikilink")[杜比實驗室](../Page/杜比實驗室.md "wikilink")。
 
 ## 關於名稱
 

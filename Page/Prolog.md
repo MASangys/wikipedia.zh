@@ -117,7 +117,7 @@ px(1) :- \+ px(1).      /* 規定此规则不成立。 i.e. 此规则為假時�
 <!-- end list -->
 
   - [SWI-Prolog](http://www.swi-prolog.org/)
-  - [Yap Prolog](http://www.dcc.fc.up.pt/~vsc/yap/)
+  - [Yap Prolog](https://web.archive.org/web/20190321082053/http://www.dcc.fc.up.pt/~vsc/yap/)
 
 ## 参见
 

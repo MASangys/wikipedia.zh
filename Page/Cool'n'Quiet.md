@@ -34,7 +34,7 @@
   - [AMD APU](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")
   - [AMD FX](../Page/AMD_FX.md "wikilink")
   - [AMD Ryzen](../Page/AMD_Ryzen.md "wikilink")
-  - [AMD EPYC](https://zh.wikipedia.org/wiki/AMD_EPYC "wikilink")
+  - [AMD Epyc](../Page/AMD_Epyc.md "wikilink")
 
 ## 参见
 

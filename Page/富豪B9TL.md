@@ -1,7 +1,7 @@
 > 本文内容由[富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL)转换而来。
 
 
-**富豪B9TL**（VOLVO B9TL），曾一度被稱為富豪奧林比安的低地台版本（VOLVO Olympian SLF），是[富豪車廠](https://zh.wikipedia.org/wiki/富豪車廠 "wikilink")（VOLVO）生產的一款超低地台[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")，於2002年首次生產。而它是全球暢銷度排名第二的3軸雙層巴士，僅次於[亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")，由2002年至今已售出超過2,000輛。
+**富豪B9TL**（），曾一度被稱為富豪奧林比安的低地台版本（Volvo Olympian SLF），是[富豪車廠](https://zh.wikipedia.org/wiki/富豪車廠 "wikilink")（Volvo）生產的一款超低地台[雙層巴士](https://zh.wikipedia.org/wiki/雙層巴士 "wikilink")，於2002年首次生產。而它是全球暢銷度排名第二的3軸雙層巴士，僅次於[亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")，由2002年至今已售出超過2,000輛。
 
 ## 背景
 
@@ -57,7 +57,7 @@ AVD1於同年12月21日前往澳洲。2005年8月，AVD1更換了符合歐盟四
 
 ##### AVBW
 
-[AVBW63_at_Marsh_St_(20180825174054).jpg](https://zh.wikipedia.org/wiki/File:AVBW63_at_Marsh_St_\(20180825174054\).jpg "fig:AVBW63_at_Marsh_St_(20180825174054).jpg") [九龍巴士](../Page/九龍巴士.md "wikilink")於2005年初訂購23輛配Wright車身B9TL，車隊編號為AVBW2-14，16-25，全數配用ZF 6HP592C波箱，首輛巴士於2005年7月抵港，新車連同2輛樣辦巴士於同年10月6日至2006年5月正式出牌及投入服務，此批車的特點在於有5輛巴士（AVBW8-12）是採用Gorba電子路線顯示屏（與AVBW1相同），並使用富士空調系統（其餘新車則使用日本電裝空調系統）。九龍巴士宣傳此批巴士為「超智能巴士」，用以表示此款巴士內置電腦檢測系統。
+[AVBW63_at_Marsh_St_(20180825174054).jpg](https://zh.wikipedia.org/wiki/File:AVBW63_at_Marsh_St_\(20180825174054\).jpg "fig:AVBW63_at_Marsh_St_(20180825174054).jpg") [九龍巴士](../Page/九龍巴士.md "wikilink")於2005年初訂購23輛配Wright車身B9TL，車隊編號為AVBW2-14，16-25，全數配用ZF 6HP592C波箱，首輛巴士於2005年7月抵港，新車連同2輛樣辦巴士於同年10月6日至2006年5月正式出牌及投入服務，此批車的特點在於有5輛巴士（AVBW8-12）是採用Gorba電子顯示屏（與AVBW1相同），並使用富士空調系統（其餘新車則使用日本電裝空調系統）。九龍巴士宣傳此批巴士為「超智能巴士」，用以表示此款巴士內置電腦檢測系統。
 
 2005年底，九龍巴士增訂的88輛B9TL，其中38輛配Wright車身，車隊編號為AVBW27-64，另外50輛配[亞歷山大丹尼士Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink") Mk II車身。配Wright車身的巴士全數配用ZF 6HP592C波箱，其中10輛（AVBW41、48、51、55、59-64）配備Gorba電子顯示屏、使用Vogelsitze座椅及富士空調系統。在最後6部AVBW當中，除了AVBW61外，其餘5部採用了Ventura車門。
 
@@ -104,7 +104,7 @@ AVBWU1-290已於2010年3月29日至2012年5月31日全數出牌及投入服務�
 
 ###### 方梯版本
 
-[AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg](https://zh.wikipedia.org/wiki/File:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_\(20190119120523\).jpg "fig:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg") [AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg](https://zh.wikipedia.org/wiki/File:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_\(20180921124645\).jpg "fig:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg") [KMB_TH1110_101.jpg](https://zh.wikipedia.org/wiki/File:KMB_TH1110_101.jpg "fig:KMB_TH1110_101.jpg") [AVBWU797_at_Central_Market,_Queen_Victoria_St_(20190225102005).jpg](https://zh.wikipedia.org/wiki/File:AVBWU797_at_Central_Market,_Queen_Victoria_St_\(20190225102005\).jpg "fig:AVBWU797_at_Central_Market,_Queen_Victoria_St_(20190225102005).jpg") 2012年8月，[九龍巴士](../Page/九龍巴士.md "wikilink")加訂50輛B9TL，車隊編號為AVBWU291-337、339、342、345。此批新車機械配備跟前批車輛大致相同，惟為符合要求，車廂內的樓梯改為方梯以增加載客量，油缸移至樓梯底部，容量減至350升，座位由上一批使用的Vogelsitze System 400/6轉為Vogel Revo S 400、Vogel Revo S 440 及 Vogel Revo S 480，並採用上海凱倫電子的新型自動報站系統。此舉令全車淨重得以降低700公斤並能盡用車廂空間。首輛由英國組裝的樣版巴士AVBWU291已於2013年4月10日抵港，並於2013年6月26日首次到土瓜灣驗車中心驗車。樣版車原本設計於下層梯間設有小窗，惟此設計不合規格，在封閉車窗後再次於7月8日驗車，並於2013年8月9日正式出牌並入籍荔枝角車廠，車牌號碼為SD 9537，翌日首航行走[104線](https://zh.wikipedia.org/wiki/過海隧道巴士104線 "wikilink")。此批車的載客量改為90個座位和48個企位，載客量為138人，比12米版本[富豪奧林比安及](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")[亞歷山大丹尼士Enviro 500的載客量還要多一名](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")，為目前載客量最多的12米雙層巴士。除了首輛巴士於英國原廠組裝車身和採用Hanover 橙色LED電子顯示屏外，其餘車輛均由珠海廣通客車（中興智能汽車）負責組裝車身和採用Gorba 橙色LED電子顯示屏，下層梯間的車廂組件也不再配備小窗。除了首輛巴士外，其餘新車於2013-2014年運抵本港，並於2013年8月9日至2014年8月29日全數出牌及投入服務，全數車尾四盞LED燈於2016年底陸續拆除；2017年2月，九龍巴士把其中兩部量產版B9TL（AVBWU297、326）更換為Hanover 橙色LED電子顯示屏。同年11月，九龍巴士把其中一部量產版B9TL (AVBWU301)更換為Hanover綠色磁翻版電子顯示屏。
+[AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg](https://zh.wikipedia.org/wiki/File:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_\(20190119120523\).jpg "fig:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg") [AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg](https://zh.wikipedia.org/wiki/File:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_\(20180921124645\).jpg "fig:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg") [KMB_TH1110_101.jpg](https://zh.wikipedia.org/wiki/File:KMB_TH1110_101.jpg "fig:KMB_TH1110_101.jpg") [AVBWU797_at_Central_Market,_Queen_Victoria_St_(20190225102005).jpg](https://zh.wikipedia.org/wiki/File:AVBWU797_at_Central_Market,_Queen_Victoria_St_\(20190225102005\).jpg "fig:AVBWU797_at_Central_Market,_Queen_Victoria_St_(20190225102005).jpg") 2012年8月，[九龍巴士](../Page/九龍巴士.md "wikilink")加訂50輛B9TL，車隊編號為AVBWU291-337、339、342、345。此批新車機械配備跟前批車輛大致相同，惟為符合要求，車廂內的樓梯改為方梯以增加載客量，油缸移至樓梯底部，容量減至350升，座位由上一批使用的Vogelsitze System 400/6轉為Vogel Revo S 400、Vogel Revo S 440 及 Vogel Revo S 480，並採用上海凱倫電子的新型自動報站系統。此舉令全車淨重得以降低700公斤並能盡用車廂空間。首輛由英國組裝的樣版巴士AVBWU291已於2013年4月10日抵港，並於2013年6月26日首次到土瓜灣驗車中心驗車。樣版車原本設計於下層梯間設有小窗，惟此設計不合規格，在封閉車窗後再次於7月8日驗車，並於2013年8月9日正式出牌並入籍荔枝角車廠，車牌號碼為SD 9537，翌日首航行走[104線](https://zh.wikipedia.org/wiki/過海隧道巴士104線 "wikilink")。此批車的載客量改為90個座位和48個企位，載客量為138人，比12米版本[富豪奧林比安及](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")[亞歷山大丹尼士Enviro 500的載客量還要多一名](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")，為目前載客量最多的12米雙層巴士。除了首輛巴士於英國原廠組裝車身和採用Hanover 橙色LED電子顯示屏外，其餘車輛均由珠海廣通客車（中興智能汽車）負責組裝車身和採用Gorba 橙色LED電子顯示屏，下層梯間的車廂組件也不再配備小窗。除了首輛巴士外，其餘新車於2013-2014年運抵本港，並於2013年8月9日至2014年8月29日全數出牌及投入服務，全數車尾四盞LED燈於2016年底陸續拆除；2017年2月，九龍巴士把其中兩部量產版B9TL（AVBWU297、326）更換為Hanover 橙色LED電子顯示屏。同年11月，九龍巴士把其中一部量產版B9TL (AVBWU300、301、306、328及332)更換為Hanover綠色磁翻版電子顯示屏。
 
 2013年8月，九龍巴士訂購了60部B9TL，其中58部屬12米版本（車隊編號為AVBWU338、340、341、343、344、346-389、391-398、401），餘下兩輛為12.8米版本。由珠海廣通客車（中興智能汽車）負責組裝車身，此批新車恢復使用Hanover 橙色LED電子顯示屏，車頭燈組件改以L型設計，車頭大燈下方裝有LED[日行燈](https://zh.wikipedia.org/wiki/日行燈 "wikilink")，其餘規格跟AVBWU上一批巴士相近，全數車尾四盞LED燈於2016年底陸續拆除。
 
@@ -120,7 +120,7 @@ AVBWU1-290已於2010年3月29日至2012年5月31日全數出牌及投入服務�
 
 2017年，九龍巴士第五次加訂104輛12米B9TL，分為80+24兩張訂單（車隊編號為AVBWU669-677、679，681、684、685、688-690、692、693、695-697、699、701、703、707-709、711-713、715、718-730、733-737、739-746、748、749、751-754、756-780、782-797），預計用以取代富豪超級奧林比安12米（3ASV62-118）、猛獅24.310 12米（AMN1-30）及Neoplan Centroliner 12米（AP21-162）。這將是九龍巴士訂購的最後一批富豪B9TL，亦是最後一批採用Wright Eclipse Gemini 2車身的巴士，由吉隆坡Masdef公司負責組裝車身，除了AVBWU792採用金巴設計外，其餘採用紅色新車身顏色設計。全數新車已於2017年11月27日至2018年8月17日正式出牌。
 
-AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子牌；AVBWU449-797於2019年4月全數陸續加設電子路線圖，現時此車型主力行走跨區或過海路線。
+AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子牌；AVBWU449-797於2019年4月全數陸續加設電子路線圖，AVBWU291-448於同年11月陸續加設電子路線圖，現時此車型主力行走跨區或過海路線。
 
 ##### 3AVBWU
 
@@ -129,6 +129,8 @@ AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子
 首部新車與另一輛[亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，九龍巴士聲稱會安排這兩輛巴士試驗行走、、和線，但最終率先調派往試行，以收集行車數據\[6\]\[7\]\[8\]。
 
 首輛新車於2014年6月18日於九龍灣驗車中心進行傾側測試時向右翻側，右邊車窗損毀。\[9\]及後經九龍巴士工程人員檢查維修後，於同年7月4日順利通過傾側測試程序。兩輛新車分別於2014年8月26日及27日正式出牌並入籍沙田車廠，車牌號碼分別為SX2327及SX1716，3AVBWU2其後在2014年10月10日首航73X線。此車為載客量為146人，全數車尾四盞LED燈於2016年底陸續拆除；現時此車型行走73X線。
+
+3AVBWU於2019年11月陸續加設電子路線圖。
 
 ##### AVBWS
 
@@ -289,12 +291,14 @@ SBS7440T於2010年3月7日在宏茂橋巴士總站火警中嚴重焚毀提早退
 ### 其他富豪產品
 
   - [富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")
+  - [富豪B5TL](../Page/富豪B5TL.md "wikilink")
   - [富豪B6](../Page/富豪B6.md "wikilink")
   - [富豪B7RLE](../Page/富豪B7RLE.md "wikilink")
-  - [富豪B7TL巴士](https://zh.wikipedia.org/wiki/富豪B7TL巴士 "wikilink")
+  - [富豪B7TL](https://zh.wikipedia.org/wiki/富豪B7TL "wikilink")
+  - [富豪B8L](../Page/富豪B8L.md "wikilink")
   - [富豪超級奧林比安](https://zh.wikipedia.org/wiki/富豪超級奧林比安 "wikilink")
   - [富豪B10BLE](../Page/富豪B10BLE.md "wikilink")
-  - [富豪B12巴士](https://zh.wikipedia.org/wiki/富豪B12巴士 "wikilink")
+  - [富豪B12](../Page/富豪B12.md "wikilink")
 
 ### 競爭產品
 

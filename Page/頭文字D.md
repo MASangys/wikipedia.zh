@@ -490,6 +490,8 @@
       - 「Gamble Rumble」（片尾曲，1話～3話）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Rage Your Dream」（片尾曲，4話）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
 
+#### 插入曲
+
 ### 各話列表
 
 ## 劇場版

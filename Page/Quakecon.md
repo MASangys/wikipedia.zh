@@ -123,7 +123,7 @@ Quakecon最初是由一群活跃在[EFnet的](https://zh.wikipedia.org/wiki/EFne
 
 Qcon的社群是组织赛事的主要领导者，他们通过IRC交流。他们使用的主要频道为[\#quakecon](irc://irc.enterthegame.com/quakecon)。在这里你不仅可以和他们聊比赛，更可以和他们谈天说地。
 
-Qcon的网站也是由[Qcon论坛](http://www.quakecon.org/forums)创建的，你可以在论坛中向他们介绍自己，提出关于赛事的问题或者和他们谈谈怎样组织和发展比赛。
+Qcon的网站也是由[Qcon论坛](https://web.archive.org/web/20050820151843/http://www.quakecon.org/forums/)创建的，你可以在论坛中向他们介绍自己，提出关于赛事的问题或者和他们谈谈怎样组织和发展比赛。
 
 ## 參看
 

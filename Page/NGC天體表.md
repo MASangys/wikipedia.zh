@@ -1,9 +1,11 @@
 > 本文内容由[NGC天體表](https://zh.wikipedia.org/wiki/NGC天體表)转换而来。
 
 
-[NGC_6543_7662_7009_6826.jpg](https://zh.wikipedia.org/wiki/File:NGC_6543_7662_7009_6826.jpg "fig:NGC_6543_7662_7009_6826.jpg")。从顺时针左上角开始：: [NGC 6543](https://zh.wikipedia.org/wiki/NGC_6543 "wikilink"), [NGC 7662](../Page/NGC_7662.md "wikilink"), [NGC 6826](https://zh.wikipedia.org/wiki/NGC_6826 "wikilink"), 和 [NGC 7009](../Page/NGC_7009.md "wikilink").\]\] **星雲和星團新總表**（，[縮寫](../Page/縮寫.md "wikilink")：**NGC**） 是[天文學](../Page/天文學.md "wikilink")上非常著名的[深空天體](../Page/深空天體.md "wikilink")[目錄](../Page/天體目錄.md "wikilink")，收錄了7,840個天體。它由[約翰·德雷耳编纂](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")，是[威廉·赫歇爾](../Page/威廉·赫歇爾.md "wikilink")[星雲和星團總表](../Page/星雲和星團總表.md "wikilink")的新版本。星雲和星團新總表是最大的一個綜合目錄，包含所有類型的[深空天體](../Page/深空天體.md "wikilink")，並無被侷限在某一類，例如[星系](../Page/星系.md "wikilink")。[德雷耳後來在](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")1895年和1908年擴編了兩份NGC[索引星表](../Page/索引星表.md "wikilink")，增加了描述5,386個天體。
+[NGC_6543_7662_7009_6826.jpg](https://zh.wikipedia.org/wiki/File:NGC_6543_7662_7009_6826.jpg "fig:NGC_6543_7662_7009_6826.jpg")。从顺时针左上角开始：: [NGC 6543](https://zh.wikipedia.org/wiki/NGC_6543 "wikilink"), [NGC 7662](../Page/NGC_7662.md "wikilink"), [NGC 6826](https://zh.wikipedia.org/wiki/NGC_6826 "wikilink"), 和 [NGC 7009](../Page/NGC_7009.md "wikilink").\]\] **星雲和星團新總表**（，[縮寫](../Page/縮寫.md "wikilink")：****） 是[天文學](../Page/天文學.md "wikilink")上非常著名的[深空天體](../Page/深空天體.md "wikilink")[目錄](../Page/天體目錄.md "wikilink")，收錄了7,840個天體。它由[約翰·德雷耳编纂](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")，是[威廉·赫歇爾](../Page/威廉·赫歇爾.md "wikilink")[星雲和星團總表](../Page/星雲和星團總表.md "wikilink")的新版本。
 
-目錄中對[南半球天空中的天體並沒有完整的調查](../Page/天球.md "wikilink")，多數都只是[約翰·赫歇耳或](https://zh.wikipedia.org/wiki/約翰·赫歇耳 "wikilink")[詹姆士·丹露帕的觀測](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")。NGC有許多的錯誤，但是比較嚴重和明顯的錯誤在後續的NGC/IC計划中已經消除。後續未完成的[修訂新總表](https://zh.wikipedia.org/wiki/修訂新總表 "wikilink")（RNGC） 有1973年Sulentic和Tifft的版本，還有Sinnott在1988年的*NGC2000.0*。修訂的新總表和索引目錄由[Wolfgang Steinicke編譯於](https://zh.wikipedia.org/wiki/Wolfgang_Steinicke "wikilink")2009年。
+星雲和星團新總表是最大的一個綜合目錄，包含所有類型的[深空天體](../Page/深空天體.md "wikilink")，並無被侷限在某一類，例如[星系](../Page/星系.md "wikilink")。[德雷耳後來在](../Page/約翰·路易·埃米爾·德雷耳.md "wikilink")1895年和1908年擴編了兩份新總表[索引星表](../Page/索引星表.md "wikilink")，增加了描述5,386個天體。
+
+目錄中對[南半球天空中的天體並沒有完整的調查](../Page/天球.md "wikilink")，多數都只是[約翰·赫歇耳或](https://zh.wikipedia.org/wiki/約翰·赫歇耳 "wikilink")[詹姆士·丹露帕的觀測](https://zh.wikipedia.org/wiki/詹姆士·丹露帕 "wikilink")。星雲和星團新總表有許多的錯誤，但是比較嚴重和明顯的錯誤在後續的“新總表和索引目錄”計划（，）中已經消除。後續未完成的[修訂新總表](https://zh.wikipedia.org/wiki/:en:Revised_New_General_Catalogue "wikilink") 有1973年和的版本，還有在1988年的**。修訂的新總表和索引目錄由[:en:Wolfgang Steinicke編譯於](https://zh.wikipedia.org/wiki/:en:Wolfgang_Steinicke "wikilink")2009年。
 
 ## 原來的目錄
 

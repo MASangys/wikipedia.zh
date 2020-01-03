@@ -7,7 +7,7 @@
 
 QuickBASIC所包含微软的“PC BASIC编译器”用来把程序代码编译成为DOS可执行程序。编辑器内置了一个解释器，这样可以不必离开编辑器而运行程序，以及在创建可执行文件之前先进行调试。然而不幸的是，在解释器和编译器之间存在一些细微的差别，所以，有时候在解释器内运行良好的程序在编译后运行却失败，甚至有时根本无法通过编译。
 
-QuickBASIC的最后一个版本是4.5版（1988年发布）。此前微软曾在BASIC Compiler 6.0产品中附带QuickBASIC 4.0版作为IDE环境，QB发布4.5版本后，微软将BASIC Compiler产品线升级为BASIC专业开发系统（Professional Development System，简称PDS），在其中加入了称作QuickBASIC扩展版（QuickBASIC Extended，简称QBX）的IDE环境。1989年BASIC PDS发布7.0，紧随发布了7.1版本。与QuickBASIC相比，PDS可以开发DOS和[OS/2应用程序](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，支持[CodeView调试环境](https://zh.wikipedia.org/wiki/CodeView "wikilink")，能够使用更大的内存。QuickBASIC和PDS的继承者是[Visual Basic](../Page/Visual_Basic.md "wikilink") for MSDOS 1.0版，它提供了标准版和专业版两个版本。此后版本的Visual Basic不再提供DOS平台上的产品，这是因为微软希望开发人员完全转向[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+QuickBASIC的最后一个版本是4.5版（1988年发布）。此前微软曾在BASIC Compiler 6.0产品中附带QuickBASIC 4.0版作为IDE环境，QB发布4.5版本后，微软将BASIC Compiler产品线升级为BASIC专业开发系统（Professional Development System，简称PDS），在其中加入了称作QuickBASIC扩展版（QuickBASIC Extended，简称QBX）的IDE环境。1989年BASIC PDS发布7.0，紧随发布了7.1版本。与QuickBASIC相比，PDS可以开发DOS和[OS/2应用程序](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，支持调试环境，能够使用更大的内存。QuickBASIC和PDS的继承者是[Visual Basic](../Page/Visual_Basic.md "wikilink") for MSDOS 1.0版，它提供了标准版和专业版两个版本。此后版本的Visual Basic不再提供DOS平台上的产品，这是因为微软希望开发人员完全转向[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 一个基于QuickBASIC 4.5的新BASIC开发工具，作为GW-BASIC的替代品被包含在MS-DOS 5及其后继版本中，这就是[QBASIC](../Page/QBASIC.md "wikilink")。和QuickBASIC相比，前者缺乏一些功能，能处理的程序代码的长度受限，并且缺乏对一些独立模块的支持，因此只是一个纯粹的解释器。它不能被用来直接编译成可执行文件，不过用它开发的代码，可以直接拿到QuickBASIC 4.5、PDS 7.1或VBDOS 1.0下编译。
 

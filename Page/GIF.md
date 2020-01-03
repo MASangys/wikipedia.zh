@@ -17,7 +17,7 @@
 
 在早期，图像互换格式所用的LZW压缩算法是[CompuServe](../Page/CompuServe.md "wikilink")所开发的一种免费算法。然而令很多软件开发商感到意外的是，图像互换格式文件所采用的压缩算法忽然成了[Unisys公司的](https://zh.wikipedia.org/wiki/Unisys "wikilink")[专利](../Page/专利.md "wikilink")。据[Unisys公司称](https://zh.wikipedia.org/wiki/Unisys "wikilink")，他们已注册了[LZW算法中的](https://zh.wikipedia.org/wiki/藍波-立夫-衛曲編碼法 "wikilink")**W**部分。如果要开发生成（或显示）图像互换格式文件的程序，则需向该公司支付版税。在專利失效前曾引起部份開放原始碼社群發起「Burn all GIFs」的運動抵制使用图像互换格式格式。因此，人们开始寻求一种新技术，以减少开发成本。[PNG](../Page/PNG.md "wikilink")（Portable Network Graphics，便携网络图形）标准就在这个背景下应运而生了。它一方面满足了市场对更少的法规限制的需要，另一方面也带来了更少的技术上的限制，如颜色的数量等。
 
-在2003年6月20日，LZW算法在美国的专利权已到期而失效。在[欧洲](../Page/欧洲.md "wikilink")、[日本](../Page/日本.md "wikilink")及[加拿大](../Page/加拿大.md "wikilink")的专利权亦已分别在2004年的6月18日、6月20日和7月7日到期失效。尽管如此，PNG文件格式凭着其技术上的优势，已然跻身于网络上第三广泛应用格式。与图像互换格式相关的专利将于2006年8月11日过期。[1](http://www.gnu.org/philosophy/gif.html)
+在2003年6月20日，LZW算法在美国的专利权已到期而失效。在[欧洲](../Page/欧洲.md "wikilink")、[日本](../Page/日本.md "wikilink")及[加拿大](../Page/加拿大.md "wikilink")的专利权亦已分别在2004年的6月18日、6月20日和7月7日到期失效。尽管如此，PNG文件格式凭着其技术上的优势，已然跻身于网络上第三广泛应用格式。与图像互换格式相关的专利将于2006年8月11日过期。\[5\]
 
 ## 特性
 
@@ -58,3 +58,4 @@
 2.
 3.
 4.
+5.

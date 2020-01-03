@@ -101,7 +101,7 @@ SATA 3Gb/s比SATA 1.5Gb/s進步的地方在於：
 
 ### SATA 3.3
 
-於2016年2月22號提出，主要為優化SMR技術，將硬碟儲存密度提升到25%，還可將SATA遠程斷電（Power Disable）。
+於2016年2月22號提出，主要為優化[SMR技術](https://zh.wikipedia.org/wiki/叠瓦磁记录 "wikilink")，將硬碟儲存密度提升到25%，還可將SATA遠程斷電（Power Disable）。
 
 ## eSATA
 

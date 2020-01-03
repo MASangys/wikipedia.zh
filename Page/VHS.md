@@ -9,7 +9,7 @@
 
 ## 概要
 
-虽然VHS的官方翻译就是家用录像系统，但是最初VHS代表Vertical Helical Scan（垂直螺旋扫描）的意思，因为它采用了磁头／磁带垂直扫描的技术。有些早期的报道声称，VHS是Victor Helical Scan（胜利螺旋扫描）系统的意思，因为JVC的V就是Victor（胜利）的意思。
+虽然VHS的官方翻译就是家用录像系统，但是最初VHS代表Vertical Helical Scan（垂直螺旋扫描）的意思，因为它采用了磁头／磁带垂直扫描的技术。有些早期的报道声称，VHS是Victor Helical Scan（胜利螺旋扫描）系统的名称缩写，而其中的Victor取自JVC的V（Victor）。
 
 1980年代，在经历了和[索尼公司的](https://zh.wikipedia.org/wiki/索尼公司 "wikilink")[Betamax](../Page/Betamax.md "wikilink")格式以及[飞利浦的](https://zh.wikipedia.org/wiki/飞利浦 "wikilink")[Video 2000格式的竞争之后](../Page/Video_2000.md "wikilink")，VHS成为家用录像机的标准格式。VHS提供了比Betamax格式更长的播放时间，同时磁带传送机构又没有Betamax那么复杂。VHS比Betamax的快进和后退速度要快很多，因为在磁带高速卷动之前，播放磁头已经离开了磁带。畫質方面则是Betamax格式比較好。
 

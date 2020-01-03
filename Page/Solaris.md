@@ -93,7 +93,7 @@ SunOS仍旧用来称呼Solaris的核心。SunOS的版本号是以5.{Solaris版�
 
 [Category:类Unix系统](https://zh.wikipedia.org/wiki/Category:类Unix系统 "wikilink") [Category:System_V](https://zh.wikipedia.org/wiki/Category:System_V "wikilink") [Category:昇陽電腦軟體](https://zh.wikipedia.org/wiki/Category:昇陽電腦軟體 "wikilink") [Category:甲骨文公司軟體](https://zh.wikipedia.org/wiki/Category:甲骨文公司軟體 "wikilink") [Category:OpenSolaris](https://zh.wikipedia.org/wiki/Category:OpenSolaris "wikilink")
 
-1.  [KDE-Solaris](http://solaris.kde.org/)
+1.
 2.  [BlastWave](http://www.blastwave.org/)
 3.
 4.  [CDDL](http://www.sun.com/cddl/cddl.html)

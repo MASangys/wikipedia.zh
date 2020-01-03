@@ -3,6 +3,8 @@
 
 **MiniDisc**（簡稱**MD**）是[索尼](../Page/索尼.md "wikilink")研發的一種儲存規格，其體積較CD小，直徑為6.4[公分](https://zh.wikipedia.org/wiki/公分 "wikilink")，但容量與[CD](../Page/CD.md "wikilink")接近，並可重複讀寫。MiniDisc在[20世紀末有著不錯的發展](https://zh.wikipedia.org/wiki/20世紀 "wikilink")，但在[21世紀初幾乎被](https://zh.wikipedia.org/wiki/21世紀 "wikilink")[MP3所取代](../Page/數位音訊播放器.md "wikilink")。[MiniDiscLogo.png](https://zh.wikipedia.org/wiki/File:MiniDiscLogo.png "fig:MiniDiscLogo.png")
 
+[美國與其他國家之](https://zh.wikipedia.org/wiki/美國 "wikilink")[專利](https://zh.wikipedia.org/wiki/專利 "wikilink")[授權來自](https://zh.wikipedia.org/wiki/授權 "wikilink")[杜比實驗室](../Page/杜比實驗室.md "wikilink")。
+
 ## 背景
 
 20世紀80年代，CD格式正紅遍天下。但是，在CD的完美音質中依然夾雜這一些不和諧的聲音。人們開始抱怨[隨身聽尺寸太大](https://zh.wikipedia.org/wiki/隨身聽 "wikilink")、CD的不可[擦寫性](https://zh.wikipedia.org/wiki/擦寫性 "wikilink")、不能自主選擇[音源](../Page/音源.md "wikilink")等。隨身聽的創始廠商[索尼在意識到這些問題以後](https://zh.wikipedia.org/wiki/Sony "wikilink")，開始著手研究更適合隨身攜帶的音頻技術。

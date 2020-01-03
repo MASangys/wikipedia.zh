@@ -1,7 +1,7 @@
 > 本文内容由[三K党](https://zh.wikipedia.org/wiki/三K党)转换而来。
 
 
-**三K党**（）是指[美国](../Page/美国.md "wikilink")历史上和现代三个不同时期奉行[白人至上主义运动和](https://zh.wikipedia.org/wiki/白人至上主义 "wikilink")[基督教恐怖主义的民间团体](https://zh.wikipedia.org/wiki/基督教恐怖主义 "wikilink")，也是美国[种族主义](../Page/种族主义.md "wikilink")的代表性组织。该组织常使用不同方式来达成自己的目的。
+**三K党**（）是指[美国](../Page/美国.md "wikilink")历史上和现代三个不同时期奉行[白人至上主义运动和](https://zh.wikipedia.org/wiki/白人至上主义 "wikilink")[基督教恐怖主义的民间团体](https://zh.wikipedia.org/wiki/基督教恐怖主义 "wikilink")，也是美国[种族主义](../Page/种族主义.md "wikilink")的代表性组织。
 
 三K党最早于1866年由[美国内战中被击败的](https://zh.wikipedia.org/wiki/美国内战 "wikilink")[南方邦联军队的退伍老兵组成](https://zh.wikipedia.org/wiki/美利坚联盟国 "wikilink")。在其发展初期，三K党的目标是在美国南部恢复[民主党的势力](../Page/民主党_\(美国\).md "wikilink")，并反对由联邦军队在南方[强制实行的改善黑人待遇政策](https://zh.wikipedia.org/wiki/美国重建时期 "wikilink")。1871年，[共和党的](https://zh.wikipedia.org/wiki/共和党_\(美国\) "wikilink")[尤里西斯·格兰特总统签发了三K党和执行法案](https://zh.wikipedia.org/wiki/尤里西斯·格兰特 "wikilink")，强行取缔了这个组织。
 

@@ -5,7 +5,7 @@
 
 ## 概觀
 
-[MS-DOS_Deutsch.png](https://zh.wikipedia.org/wiki/File:MS-DOS_Deutsch.png "fig:MS-DOS_Deutsch.png") 最基本的MS-DOS系统，由一个基于[主引导记录](../Page/主引导记录.md "wikilink")（[硬盘](../Page/硬盘.md "wikilink")才有MBR，[软盘](../Page/软盘.md "wikilink")沒有MBR，[啟動磁區位於第](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")0軌的磁區中，內容上與硬碟的MBR略有不同）的BOOT引导程序和三个文件模块组成。这三个模块是：输入输出模块（[IO.SYS](https://zh.wikipedia.org/wiki/IO.SYS "wikilink")）、文件管理模块（[MSDOS.SYS](https://zh.wikipedia.org/wiki/MSDOS.SYS "wikilink")）及命令解释模块（COMMAND.COM），不过在MS-DOS 7.0中，MSDOS.SYS被改为启动配置文件，而IO.SYS增加了MSDOS.SYS的功能。除此之外，[微软](../Page/微软.md "wikilink")还在零售的MS-DOS系统包中加入了若干标准的外部程序（即[外部命令](https://zh.wikipedia.org/wiki/外部命令 "wikilink")），这才与[内部命令](https://zh.wikipedia.org/wiki/内部命令 "wikilink")（即由COMMAND.COM解释执行的命令）一同构建起一个在磁盘操作时代相对完备的人机交互环境。有关MS-DOS的各种命令，请参见[MS-DOS命令列表](../Page/MS-DOS命令列表.md "wikilink")。
+[MS-DOS_Deutsch.png](https://zh.wikipedia.org/wiki/File:MS-DOS_Deutsch.png "fig:MS-DOS_Deutsch.png") 最基本的MS-DOS系统，由一个基于[主引导记录](../Page/主引导记录.md "wikilink")（[硬盘](../Page/硬盘.md "wikilink")才有MBR，[软盘](../Page/软盘.md "wikilink")沒有MBR，[啟動磁區位於第](https://zh.wikipedia.org/wiki/啟動磁區 "wikilink")0軌的磁區中，內容上與硬碟的MBR略有不同）的BOOT引导程序和三个文件模块组成。这三个模块是：输入输出模块（）、文件管理模块（）及命令解释模块（[COMMAND.COM](https://zh.wikipedia.org/wiki/COMMAND.COM "wikilink")），不过在MS-DOS 7.0中，MSDOS.SYS被改为启动配置文件，而IO.SYS增加了MSDOS.SYS的功能。除此之外，[微软](../Page/微软.md "wikilink")还在零售的MS-DOS系统包中加入了若干标准的外部程序（即[外部命令](https://zh.wikipedia.org/wiki/外部命令 "wikilink")），这才与[内部命令](https://zh.wikipedia.org/wiki/内部命令 "wikilink")（即由COMMAND.COM解释执行的命令）一同构建起一个在磁盘操作时代相对完备的人机交互环境。有关MS-DOS的各种命令，请参见[MS-DOS命令列表](../Page/MS-DOS命令列表.md "wikilink")。
 
 MS-DOS使用者可透过编辑兩个位于开机磁碟根目錄的系统档案來达到调控系統组态之目的，它们分別是CONFIG.SYS及AUTOEXEC.BAT，IO.SYS会檢视CONFIG.SYS以載入指定的硬体[驱动程式](https://zh.wikipedia.org/wiki/驱动程式 "wikilink")，而COMMAND.COM则自动執行AUTOEXEC.BAT所載的[批次指令](https://zh.wikipedia.org/wiki/批次作業 "wikilink")。
 
@@ -15,7 +15,7 @@ MS-DOS一般使用[命令行界面](../Page/命令行界面.md "wikilink")来接
 
 ## 由來
 
-1980年，的一名24岁的程序员花费了四个月时间编写出了 [86-DOS](https://zh.wikipedia.org/wiki/86-DOS "wikilink") 操作系统。1981年7月，[微软](../Page/微软.md "wikilink")以五萬[美元](../Page/美元.md "wikilink")的代價向西雅图公司购得本產品的全部版权，并将它更名为 MS-DOS。随后，[IBM](../Page/IBM.md "wikilink") 发布了第一台个人计算机，当时采用的操作系统是西雅图電腦产品公司的 86-DOS 1.14，但微软很快改进了 MS-DOS，并使它成功地成为 [IBM PC](../Page/IBM_PC.md "wikilink") 采用的操作系统。并于1981年8月12日，正式发布 MS-DOS 1.0 和 PC-DOS 1.0。
+1980年，的一名24岁的程序员花费了四个月时间编写出了  操作系统。1981年7月，[微软](../Page/微软.md "wikilink")以五萬[美元](../Page/美元.md "wikilink")的代價向西雅图公司购得本產品的全部版权，并将它更名为 MS-DOS。随后，[IBM](../Page/IBM.md "wikilink") 发布了第一台个人计算机，当时采用的操作系统是西雅图電腦产品公司的 86-DOS 1.14，但微软很快改进了 MS-DOS，并使它成功地成为 [IBM PC](../Page/IBM_PC.md "wikilink") 采用的操作系统。并于1981年8月12日，正式发布 MS-DOS 1.0 和 PC-DOS 1.0。
 
 西雅图電腦产品公司后来曾将微软告上[法庭](../Page/法庭.md "wikilink")，指控微软在购买 86-DOS 版权时，并未透露 IBM 是其客户。微软在1986年向西雅图计算机产品公司又支付了100万美元，了结了双方之间的纠纷。
 
@@ -33,7 +33,7 @@ MS-DOS一般使用[命令行界面](../Page/命令行界面.md "wikilink")来接
 <tbody>
 <tr class="odd">
 <td><p>MS-DOS 1.0</p></td>
-<td><p>微软買下<a href="https://zh.wikipedia.org/wiki/86-DOS" title="wikilink">86-DOS</a>（QDOS）版權，1981年7月，成為IBM PC上第一个作业系统。同時微软有為IBM PC開發專用版本<a href="../Page/PC-DOS.md" title="wikilink">PC-DOS</a>，但與泛用版本MS-DOS相比，除了系統檔名以及部份針對IBM機器設計的核心，外部命令與公用程式之外，其餘程式碼其實差異不大。</p></td>
+<td><p>微软買下（QDOS）版權，1981年7月，成為IBM PC上第一个作业系统。同時微软有為IBM PC開發專用版本<a href="../Page/PC-DOS.md" title="wikilink">PC-DOS</a>，但與泛用版本MS-DOS相比，除了系統檔名以及部份針對IBM機器設計的核心，外部命令與公用程式之外，其餘程式碼其實差異不大。</p></td>
 </tr>
 <tr class="even">
 <td><p>noWrap|MS-DOS 1.25</p></td>

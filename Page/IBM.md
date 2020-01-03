@@ -78,6 +78,8 @@ IBM为[计算机产业长期的领导者](https://zh.wikipedia.org/wiki/计算�
 
   - [IBM - Taiwan](https://www.ibm.com/tw-zh/)
 
+  - [IBM博客](https://www.ibm.com/blogs/china/)
+
 [Category:IBM](https://zh.wikipedia.org/wiki/Category:IBM "wikilink") [Category:道瓊斯工業平均指數成份股](https://zh.wikipedia.org/wiki/Category:道瓊斯工業平均指數成份股 "wikilink") [Category:跨国公司](https://zh.wikipedia.org/wiki/Category:跨国公司 "wikilink") [Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink") [Category:1911年成立的公司](https://zh.wikipedia.org/wiki/Category:1911年成立的公司 "wikilink") [Category:外包公司](https://zh.wikipedia.org/wiki/Category:外包公司 "wikilink")
 
 1.

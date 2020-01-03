@@ -800,7 +800,7 @@
 2003年12月7日</p></td>
 <td><p><a href="../Page/吉川英治.md" title="wikilink">吉川英治</a></p></td>
 <td></td>
-<td><p><a href="../Page/恩尼奥·莫里科内.md" title="wikilink">恩尼奥·莫里科内</a></p></td>
+<td><p><a href="../Page/恩尼奥·莫里科内.md" title="wikilink">恩尼奥・莫里科内</a></p></td>
 <td><p><a href="../Page/市川海老藏_(十一代目).md" title="wikilink">市川新之助</a><br />
 <a href="https://zh.wikipedia.org/wiki/米倉涼子" title="wikilink">米倉涼子</a><br />
 <a href="../Page/堤真一.md" title="wikilink">堤真一</a><br />
@@ -920,7 +920,7 @@
 2009年11月22日</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/大島滿.md" title="wikilink">大島滿</a></p></td>
 <td><p><a href="../Page/妻夫木聰.md" title="wikilink">妻夫木聰</a><br />
 <a href="../Page/北村一輝.md" title="wikilink">北村一輝</a><br />
 <a href="../Page/常盤貴子.md" title="wikilink">常盤貴子</a><br />

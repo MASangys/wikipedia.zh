@@ -11,7 +11,7 @@ Windows XP OEM及零售版本已经在2008年6月30日停止销售，但用户�
 
 2011年9月底前，Windows XP是世界上使用人数最多的操作系统，市场占有率达42%；在2007年1月，Windows XP的市场占有率达历史最高水平，超过76%。\[5\]根据Netmarketshare公司对全球互联网用户的统计数据显示，2012年8月份，统治操作系统市场长达11年之久的Windows XP最终被Windows 7超越\[6\]。
 
-2013年12月30日，微軟宣布，99天後，也就是2014年4月8日，終止對Windows XP的支援服務，Windows XP因此正式退役。\[7\]但2014年1月16日，為了防止電腦病毒擴散的危害，微软宣布将会为Windows XP的用户提供病毒定義檔([Microsoft Security Essentials](../Page/Microsoft_Security_Essentials.md "wikilink"))更新方面的支持，直到2015年7月14日。\[8\]
+2013年12月30日，微軟宣布，99天後，也就是2014年4月8日，終止對Windows XP的支援服務，Windows XP因此正式退役。\[7\]但2014年1月16日，為了防止電腦病毒擴散的危害，微软宣布将会为Windows XP的用户提供病毒定義檔（[Microsoft Security Essentials](../Page/Microsoft_Security_Essentials.md "wikilink")）更新方面的支持，直到2015年7月14日。\[8\]
 
 ## 開發
 
@@ -82,7 +82,7 @@ Windows XP會分析視覺效果對效能的影響，並根据分析结果決定�
 | ----------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------- |
 | [中央處理器](https://zh.wikipedia.org/wiki/CPU "wikilink") | 233[MHz](https://zh.wikipedia.org/wiki/MHz "wikilink") | 300MHz或更高                                |
 | [-{A](https://zh.wikipedia.org/wiki/記憶體 "wikilink")   | 64[MB](../Page/Mebibyte.md "wikilink")                 | 128MB                                    |
-| [顯卡](https://zh.wikipedia.org/wiki/顯卡 "wikilink")     | 640 x 480                                              | Super VGA (800 x 600)或更高分辨率              |
+| [顯卡](https://zh.wikipedia.org/wiki/顯卡 "wikilink")     | 640 x 480                                              | Super VGA（800 x 600）或更高分辨率               |
 | [硬碟剩餘空間](https://zh.wikipedia.org/wiki/硬碟 "wikilink") | 1.5[GB](https://zh.wikipedia.org/wiki/GB "wikilink")   | 1.5GB以上                                  |
 | 其他設備                                                  | [CD-ROM](../Page/CD-ROM.md "wikilink")                 | [CD-ROM](../Page/CD-ROM.md "wikilink")以上 |
 
@@ -127,7 +127,7 @@ Service Pack 2增加一些安全功能，包括一個防火牆，在Windows下�
 
 #### Windows XP Service Pack 2c
 
-在2007年8月10日，微軟為了解決「密鑰荒」而發布一個SP2次要的升級，稱為Service Pack 2c（SP2c）\[52\]。這個更新在增加新密鑰的同時，也降低部分可用密鑰的數量。這個更新只針對Windows XP Professional(不包含簡體中文、俄文和韓文版)和Windows XP Professional N作業系統。SP2c已於2007年9月推出\[53\]。此更新包並沒有包含任何重大更新或者是系統修補程式\[54\]。
+在2007年8月10日，微軟為了解決「密鑰荒」而發布一個SP2次要的升級，稱為Service Pack 2c（SP2c）\[52\]。這個更新在增加新密鑰的同時，也降低部分可用密鑰的數量。這個更新只針對Windows XP Professional（不包含簡體中文、俄文和韓文版）和Windows XP Professional N作業系統。SP2c已於2007年9月推出\[53\]。此更新包並沒有包含任何重大更新或者是系統修補程式\[54\]。
 
 由於SP2整合許多新功能和重大的更新，媒體有時把Windows XP SP2當作一個不同於Windows XP的新作業系統\[55\]。
 
@@ -165,7 +165,7 @@ Service Pack 3包含Windows XP Media Center Edition（MCE）和Windows XP Tablet
 
 ## 支援週期
 
-尚未安裝[服務包](../Page/服務包.md "wikilink")的Windows XP支援已於2005年12月30日結束。而Windows XP SP1和SP1a的支援亦於2006年10月10日結束。\[75\]Windows XP SP2（不包括x64）在2010年7月13號終止服務，幾乎比其原始的使用期多6年，SP3 (x86)及SP2 (x64)延伸支援已於2014年4月8日終止服務。\[76\]在Windows Vista 上市17個月之後，微軟公司於2008年6月30日停止開放Windows XP的公開許可證給[原始設備製造商與終端作業系統零售商](https://zh.wikipedia.org/wiki/原始設備製造商 "wikilink")。然而，微軟在2008年4月3日向生產[小筆電的原始設備製造商宣布了一項例外直到一年後](https://zh.wikipedia.org/wiki/小筆電 "wikilink") Windows 7上市（2010年4月3日）。分析家指出此舉主要是為了與基於Linux的小筆電競爭，雖然微軟的Kevin Hutz 表示此決定是因為Windows低階電腦的相近市場。
+尚未安裝[服務包](../Page/服務包.md "wikilink")的Windows XP支援已於2005年12月30日結束。而Windows XP SP1和SP1a的支援亦於2006年10月10日結束。\[75\]Windows XP SP2（不包括x64）在2010年7月13號終止服務，幾乎比其原始的使用期多6年，SP3（x86）及SP2（x64）延伸支援已於2014年4月8日終止服務。\[76\]在Windows Vista 上市17個月之後，微軟公司於2008年6月30日停止開放Windows XP的公開許可證給[原始設備製造商與終端作業系統零售商](https://zh.wikipedia.org/wiki/原始設備製造商 "wikilink")。然而，微軟在2008年4月3日向生產[小筆電的原始設備製造商宣布了一項例外直到一年後](https://zh.wikipedia.org/wiki/小筆電 "wikilink") Windows 7上市（2010年4月3日）。分析家指出此舉主要是為了與基於Linux的小筆電競爭，雖然微軟的Kevin Hutz 表示此決定是因為Windows低階電腦的相近市場。
 
 在2009年4月14日，Windows XP作業系統的各種版本按照微軟產品技術支援週期原則，由主流支援轉換為延伸支援階段。在延伸支援階段，微軟會繼續提供每月安全性更新給Windows XP，但是免費的技術支援、保固支援、設計變更等將不再提供。
 

@@ -87,7 +87,7 @@
 ## 外部連結
 
   - [關於Wiki伺服器的介紹](https://web.archive.org/web/20170614112857/http://wikiserver.org/)
-  - [Wiki引擎](http://c2.com/cgi/wiki?WikiEngines)
+  - [Wiki引擎](https://web.archive.org/web/20090222105344/http://c2.com/cgi/wiki?WikiEngines)
   - [怎樣選擇好的Wiki引擎](http://c2.com/cgi/wiki?ChoosingaWiki)
   - [各種Wiki軟體比較列表](http://www.onlamp.com/pub/a/onlamp/2004/11/04/which_wiki.html)
   - [Wiki預覽](https://web.archive.org/web/20051223074544/http://www.spack.org/wiki/WikiReview)

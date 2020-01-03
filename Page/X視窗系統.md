@@ -442,7 +442,7 @@ X11R7.0</p></td>
 
   - [XOrg Foundation Open Source Public Implementation of X11](http://xorg.freedesktop.org)，X11的正式实现體。
 
-  - [XFree86](http://www.xfree86.org)，很多年來X系列最受歡迎的版本，特別是在開放原始碼的[类UNIX平台](../Page/类Unix系统.md "wikilink")。
+  - [XFree86](https://web.archive.org/web/20031020210433/http://xfree86.org/)，很多年來X系列最受歡迎的版本，特別是在開放原始碼的[类UNIX平台](../Page/类Unix系统.md "wikilink")。
 
   - [X11 for Mac OS X](http://www.apple.com/macosx/features/x11/)，與[Mac OS X緊密整合的](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Apple X11](https://zh.wikipedia.org/wiki/Apple_X11 "wikilink")。
 

@@ -54,7 +54,7 @@ PCIe保证了相容性，支援PCI的作業系統無需進行任何更改即可�
 <tr class="even">
 <td><p>3.0</p></td>
 <td><p>2010</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/128b/130b_(128-bit_to_130-bit_symbols)" title="wikilink">128b/130b (128-bit to 130-bit symbols)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/128b/130b" title="wikilink">128b/130b</a></p></td>
 <td><p>8.0 GT/s</p></td>
 <td><p>984.6 MB/s</p></td>
 </tr>

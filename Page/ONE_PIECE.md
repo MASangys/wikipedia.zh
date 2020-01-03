@@ -89,7 +89,7 @@
 <!-- end list -->
 
   -
-    被擊飛至女人島的魯夫遇見島上的王下七武海[「海賊女帝」波雅·漢考克](../Page/波雅·漢考克.md "wikilink")，又得知自己的兄長[「火拳」波特卡斯·D·艾斯要被處決](https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯 "wikilink")，便請漢考克將自己偷渡至海底大監獄「推進城」。
+    被擊飛至[亞馬遜百合的魯夫遇見王下七武海的](../Page/亞馬遜百合_\(ONE_PIECE\).md "wikilink")[「海賊女帝」波雅·漢考克](../Page/波雅·漢考克.md "wikilink")，又得知自己的兄長[「火拳」波特卡斯·D·艾斯要被處決](https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯 "wikilink")，便請漢考克將自己偷渡至海底大監獄「推進城」。
 
 <!-- end list -->
 
@@ -97,7 +97,7 @@
 <!-- end list -->
 
   -
-    魯夫在推進城遇見過去的敵人（[「小丑」巴其](https://zh.wikipedia.org/wiki/巴其_\(ONE_PIECE\)#巴其 "wikilink")、以克洛克達爾為首的巴洛巴華克部分成員）等人，眾人為達成各自目的，分別先後集結組成聯盟後展開越獄行動，最後魯夫來到處刑的場所海軍本部[馬林福特](https://zh.wikipedia.org/wiki/馬林福特 "wikilink")。
+    魯夫在推進城遇見過去的敵人([「小丑」巴其](https://zh.wikipedia.org/wiki/巴其_\(ONE_PIECE\)#巴其 "wikilink")、以及前[巴洛克華克](../Page/巴洛克華克.md "wikilink")的四位成員)及王下七武海的[「海俠」吉貝爾](../Page/吉貝爾.md "wikilink")，眾人為達成各自目的，分別先後集結組成聯盟後展開越獄行動，最後魯夫來到處刑的場所海軍本部[馬林福特](https://zh.wikipedia.org/wiki/馬林福特 "wikilink")。
 
 <!-- end list -->
 
@@ -105,7 +105,7 @@
 <!-- end list -->
 
   -
-    魯夫及越獄同伴、以及為了救艾斯而來的[白鬍子海賊團](../Page/白鬍子海賊團.md "wikilink")、[海軍](../Page/海軍_\(ONE_PIECE\).md "wikilink")、8位[王下七武海](../Page/王下七武海.md "wikilink")展開了「頂點戰爭」。戰爭最後由「紅髮」傑克出面調停而收場，但遺憾的是艾斯和白鬍子皆殞命於戰場。戰爭結束後，失去了哥哥艾斯並深感自身實力不足的魯夫，在[「冥王」雷利的建議下給夥伴留下了訊息](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#席爾巴斯·雷利 "wikilink")，各自展開為期兩年的修行之旅。
+    魯夫及越獄同伴、以及為了救艾斯而來的[白鬍子海賊團](../Page/白鬍子海賊團.md "wikilink")、[海軍](../Page/海軍_\(ONE_PIECE\).md "wikilink")、八位[王下七武海](../Page/王下七武海.md "wikilink")展開了「頂點戰爭」。戰爭最後由「紅髮」傑克出面調停而收場，但遺憾的是艾斯和白鬍子皆殞命於戰場。戰爭結束後，失去了哥哥艾斯並深感自身實力不足的魯夫，在[「冥王」雷利的建議下給夥伴留下了訊息](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#席爾巴斯·雷利 "wikilink")，各自展開為期兩年的修行之旅。
 
 ### 最後之海 新世界篇
 

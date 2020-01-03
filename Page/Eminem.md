@@ -96,7 +96,7 @@
   - 《[Revival](https://en.wikipedia.org/wiki/Revival_\(Eminem_album\))》 (2017)
   - 《[Kamikaze](https://en.wikipedia.org/wiki/Kamikaze_\(Eminem_album\))》 (2018)
 
-:\* “The Slim Shady LP”、“The Marshall Mathers LP”、“The Eminem show”、“Relapse”、“Recovery”、“The Marshall Mathers LP 2”曾获格莱美最佳饒舌专辑奖。
+:\* “The Slim Shady LP”、“The Marshall Mathers LP”、“The -{Eminem}- show”、“Relapse”、“Recovery”、“The Marshall Mathers LP 2”曾获格莱美最佳饒舌专辑奖。
 
 :\*“The Marshall Mathers LP”是历史上最为畅销的饒舌专辑。这张专辑為阿姆和他的唱片公司Shady Records带来知名度，并把他所在的饒舌组合D12带入饒舌界主流。
 

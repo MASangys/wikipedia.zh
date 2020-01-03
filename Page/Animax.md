@@ -331,7 +331,7 @@ Animax的節目製作部在近年自行或協助製作了多套動畫作品，�
   - [原子小金剛](https://zh.wikipedia.org/wiki/原子小金剛 "wikilink") 又譯 鐵臂阿童木 （2003年版本）
   - [地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")
   - [吟遊默示錄](https://zh.wikipedia.org/wiki/吟遊默示錄 "wikilink")
-  - [銀牙傳說WEED](https://zh.wikipedia.org/wiki/銀牙傳說WEED "wikilink")
+  - [銀牙傳說WEED](../Page/銀牙傳說WEED.md "wikilink")
 
 ### 自行製作作品
 

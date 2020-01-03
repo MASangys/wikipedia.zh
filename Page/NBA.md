@@ -416,12 +416,10 @@ Staples Center</p></td>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></strong><br />
 Los Angeles Lakers</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加利福尼亞州" title="wikilink">加利福尼亞州</a><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a><br />
-California, Los Angeles</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/史坦波中心" title="wikilink">史坦波中心</a><br />
-Staples Center</p></td>
 <td><p>1947年<sup>*</sup></p></td>
 <td><p>1948年</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">

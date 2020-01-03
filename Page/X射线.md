@@ -58,7 +58,7 @@ X射线穿透能力与其频率有关，利用其容易被高原子序数材料�
 ### 来源
 
   - [电离辐射](https://archive.is/20121130093308/http://www.envir.gov.cn/sisr/newpage/rad.htm)
-  - [x射线](http://www.chinabaike.com/article/316/414/2007/20070501108197.html)
+  - [x射线](https://web.archive.org/web/20130423135415/http://chinabaike.com/article/316/414/2007/20070501108197.html)
 
 ## 参见
 
@@ -77,4 +77,4 @@ X射线穿透能力与其频率有关，利用其容易被高原子序数材料�
 [Category:X射线](https://zh.wikipedia.org/wiki/Category:X射线 "wikilink") [Category:電磁波譜](https://zh.wikipedia.org/wiki/Category:電磁波譜 "wikilink") [Category:IARC第1类致癌物质](https://zh.wikipedia.org/wiki/Category:IARC第1类致癌物质 "wikilink") [Category:医学物理](https://zh.wikipedia.org/wiki/Category:医学物理 "wikilink") [Category:放射成像](https://zh.wikipedia.org/wiki/Category:放射成像 "wikilink") [Category:乌克兰发明](https://zh.wikipedia.org/wiki/Category:乌克兰发明 "wikilink")
 
 1.  Herzig, Rebecca "The Matter of Race in Histories of American Technology" in *Technology and the African-American Experience*
-2.  [80年前的X射线致癌事件](http://discovery.163.com/09/0220/11/52JELAE0000125LI.html)
+2.

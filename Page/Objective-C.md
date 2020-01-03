@@ -7,13 +7,13 @@ Objective-C的[商標權屬於](https://zh.wikipedia.org/wiki/商標 "wikilink")
 
 ## 歷史
 
-Objective-C 主要由 [Stepstone](https://zh.wikipedia.org/wiki/Stepstone "wikilink") 公司的[布萊德·考克斯](https://zh.wikipedia.org/wiki/布萊德·考克斯 "wikilink")（Brad Cox）和 [Tom Love](https://zh.wikipedia.org/wiki/Tom_Love "wikilink") 在 1980 年代发明。
+Objective-C 主要由  公司的[布萊德·考克斯](https://zh.wikipedia.org/wiki/布萊德·考克斯 "wikilink")（Brad Cox）和 （Tom Love） 在 1980 年代发明。
 
 1981年 Brad Cox 和 Tom Love 还在 [ITT 公司技术中心任职时](../Page/ITT公司.md "wikilink")，接触到了 [SmallTalk语言](../Page/Smalltalk.md "wikilink")。Cox 当时对软件设计和开发问题非常感兴趣，他很快地意識到 [SmallTalk語言](../Page/Smalltalk.md "wikilink") 在系统工程构建中具有无法估量的价值，但同時他和 Tom Love 也明白，目前 [ITT 公司的电子通信工程相关技术中](../Page/ITT公司.md "wikilink")，C 语言被放在很重要的位置。
 
 於是 Cox 撰寫了一個 C 語言的预處理器，打算使 C 語言具備些許 Smalltalk 的本領。Cox 很快地實現了一個可用的 C 語言擴展，此即為 Objective-C語言的前身。到了 1983 年，Cox 與 Love 合夥成立了 Productivity Products International（PPI）公司，將 Objective-C 及其相關函式庫商品化販售，並在之後將公司改名為StepStone。1986年，Cox 出版了一本關於 Objective-C 的重要著作《Object-Oriented Programming, An Evolutionary Approach》，書內詳述了 Objective-C 的種種設計理念。
 
-1988年，[斯蒂夫·乔布斯](https://zh.wikipedia.org/wiki/斯蒂夫·乔布斯 "wikilink")（Steve Jobs）離開蘋果公司後成立了 [NeXT Computer](https://zh.wikipedia.org/wiki/NeXT_Computer "wikilink") 公司，NeXT 公司買下 Objective-C 语言的授权，并擴展了著名的開源編譯器[GCC](../Page/GCC.md "wikilink") 使之支持 Objective-C 的編譯，基於 Objective-C 開發了 [AppKit](https://zh.wikipedia.org/wiki/AppKit "wikilink") 與 [Foundation Kit](https://zh.wikipedia.org/wiki/Foundation_Kit "wikilink") 等函式庫，作為 NeXTSTEP 的的用戶介面與开发环境的基礎。雖然 NeXT 工作站後來在市場上失敗了，但 NeXT 上的軟體工具卻在業界中被廣泛讚揚。這促使 NeXT 公司放棄硬體業務，轉型為銷售NeXTStep（以及OpenStep）平台為主的軟體公司。
+1988年，[斯蒂夫·乔布斯](https://zh.wikipedia.org/wiki/斯蒂夫·乔布斯 "wikilink")（Steve Jobs）離開蘋果公司後成立了 [NeXT Computer](https://zh.wikipedia.org/wiki/NeXT_Computer "wikilink") 公司，NeXT 公司買下 Objective-C 语言的授权，并擴展了著名的開源編譯器[GCC](../Page/GCC.md "wikilink") 使之支持 Objective-C 的編譯，基於 Objective-C 開發了  與  等函式庫，作為 NeXTSTEP 的的用戶介面與开发环境的基礎。雖然 NeXT 工作站後來在市場上失敗了，但 NeXT 上的軟體工具卻在業界中被廣泛讚揚。這促使 NeXT 公司放棄硬體業務，轉型為銷售NeXTStep（以及OpenStep）平台為主的軟體公司。
 
 1992年，自由软件基金会的 GNU 开发环境增加了对 Objective-C 的支持。1994年，[NeXT Computer公司和](https://zh.wikipedia.org/wiki/NeXT_Computer "wikilink")[Sun Microsystem联合发布了一个针对](https://zh.wikipedia.org/wiki/昇陽微系統 "wikilink") NEXTSTEP 系统的标准典范，名为 OPENSTEP。OPENSTEP 在[自由软件基金会](../Page/自由软件基金会.md "wikilink")的实现名称为 [GNUstep](../Page/GNUstep.md "wikilink")。1996年12月20日，[苹果公司宣布收购](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") NeXT Software 公司，NEXTSTEP/OPENSTEP环境成为苹果操作系统下一个主要发行版本OS X的基础。这个开发环境的版本被苹果公司称为[Cocoa](../Page/Cocoa.md "wikilink")。
 
@@ -186,7 +186,7 @@ Objective-C在[NeXT](../Page/NeXT.md "wikilink")时期曾经试图引入[多重�
 
 **正式协议**类似于Java中的"接口"，它是一系列方法的列表，任何类都可以声明自身实现了某个协议。在Objective-C 2.0之前，一个类必须实现它声明符合的协议中的所有方法，否则编译器会报告错误，表明这个类没有实现它声明符合的协议中的全部方法。Objective-C 2.0版本允许标记协议中某些方法为可选的（Optional），這樣编译器就不会强制实现这些可选的方法。
 
-協議經常應用於Cocoa中的[委托及事件觸發](https://zh.wikipedia.org/wiki/委托_\(计算机科学\) "wikilink")。例如文本框类通常会包括一个[委托](https://zh.wikipedia.org/wiki/委托_\(计算机科学\) "wikilink")（delegate）对象，该对象可以實現一个协议，该协议中可能包含一个实现文字輸入的自动完成方法。若这个委托对象实现了这个方法，那么文本框类就会在适当的时候觸發自動完成事件，並调用这个方法用于自动完成功能。
+協議經常應用於Cocoa中的[委托及事件觸發](../Page/Delegate_\(CLI\).md "wikilink")。例如文本框类通常会包括一个[委托](../Page/Delegate_\(CLI\).md "wikilink")（delegate）对象，该对象可以實現一个协议，该协议中可能包含一个实现文字輸入的自动完成方法。若这个委托对象实现了这个方法，那么文本框类就会在适当的时候觸發自動完成事件，並调用这个方法用于自动完成功能。
 
 Objective-C中协议的概念与Java中接口的概念並不完全相同，即一个类可以在不声明它符合某个协议的情况下，实现这个协议所包含的方法，也即实质上符合这个协议，而这种差别对外部代码而言是不可见的。正式协议的声明不提供实现，它只是簡單地表明符合该协议的类实现了该协议的方法，保證呼叫端可以安全調用方法。
 
@@ -259,7 +259,7 @@ id<aProtocol>表示“foo”可以是任何类的实例，但必须採納“aPro
 
 ### 转发
 
-Objective-C允许对一个对象发送消息，不管它是否能够响应之。除了响应或丢弃消息以外，对象也可以将消息转发到可以响应该消息的对象。转发可以用于简化特定的[设计模式](../Page/设计模式_\(计算机\).md "wikilink")，例如[观测器模式或](https://zh.wikipedia.org/wiki/观测器模式 "wikilink")[代理模式](../Page/代理模式.md "wikilink")。
+Objective-C允许对一个对象发送消息，不管它是否能够响应之。除了响应或丢弃消息以外，对象也可以将消息转发到可以响应该消息的对象。转发可以用于简化特定的[设计模式](../Page/设计模式_\(计算机\).md "wikilink")，例如[观测器模式或](../Page/观察者模式.md "wikilink")[代理模式](../Page/代理模式.md "wikilink")。
 
 Objective-C运行时在`Object`中定义了一对方法：
 
@@ -410,9 +410,9 @@ int main(void)
 
 若分類声明了与类中原有方法同名的函数，则分類中的方法会被调用。因此分類不仅可以增加类的方法，也可以代替原有的方法。这个特性可以用于修正原有代码中的错误，更可以从根本上改变程序中原有类的行为。若两个分類中的方法同名，则被调用的方法是不可预测的。
 
-其它语言也尝试了通过不同方法增加这一语言特性。[TOM在这方面走的更远](https://zh.wikipedia.org/wiki/TOM_\(程序设计语言\) "wikilink")，不仅允许增加方法，更允许增加成员变量。也有其它语言使用[面向声明的解决方案](https://zh.wikipedia.org/wiki/基于声明程序设计 "wikilink")，其中最值得注意的是[Self语言](https://zh.wikipedia.org/wiki/Self语言 "wikilink")。
+其它语言也尝试了通过不同方法增加这一语言特性。在这方面走的更远，不仅允许增加方法，更允许增加成员变量。也有其它语言使用[面向声明的解决方案](../Page/原型程式設計.md "wikilink")，其中最值得注意的是[Self语言](https://zh.wikipedia.org/wiki/Self语言 "wikilink")。
 
-C\#与Visual Basic.NET语言以[扩展函数的与不完全类的方式实现了类似的功能](https://zh.wikipedia.org/wiki/扩展函数 "wikilink")。[Ruby](../Page/Ruby.md "wikilink")与一些动态语言则以"[monkey patch](https://zh.wikipedia.org/wiki/monkey_patch "wikilink")"的名字称呼这种技术。
+C\#与Visual Basic.NET语言以的与不完全类的方式实现了类似的功能。[Ruby](../Page/Ruby.md "wikilink")与一些动态语言则以"[Monkey patch](https://zh.wikipedia.org/wiki/猴补丁 "wikilink")"的名字称呼这种技术。
 
 #### 使用分類的例子
 
@@ -605,15 +605,15 @@ Objective-C++是[GCC](../Page/GCC.md "wikilink")的一个前端，它可以编�
 
 ### Objective-C 2.0
 
-在2006年7月[苹果全球开发者会议中](https://zh.wikipedia.org/wiki/苹果全球开发者会议 "wikilink")，Apple宣布了“Objective-C 2.0”的发布，其增加了“现代的垃圾收集，语法改进\[4\]，运行时性能改进\[5\]，以及64位支持”。2007年10月发布的[Mac OS X v10.5中包含了Objective](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")-C 2.0的编译器。
+在2006年7月[苹果全球开发者会议中](../Page/苹果全球开发者大会.md "wikilink")，Apple宣布了“Objective-C 2.0”的发布，其增加了“现代的垃圾收集，语法改进\[4\]，运行时性能改进\[5\]，以及64位支持”。2007年10月发布的[Mac OS X v10.5中包含了Objective](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.5 "wikilink")-C 2.0的编译器。
 
 #### 垃圾收集
 
-Objective-C 2.0提供了一个可选的[垃圾收集器](https://zh.wikipedia.org/wiki/垃圾收集器 "wikilink")。在[向后兼容模式中](https://zh.wikipedia.org/wiki/向后兼容 "wikilink")，Objective-C运行时会将[引用计数](../Page/引用计数.md "wikilink")操作，例如“retain”与“release”变为[无操作](../Page/NOP.md "wikilink")。当垃圾收集启用时，所有的对象都是收集器的工作对象。普通的C指针可以以“__strong”修饰，标记指针指向的对象仍在使用中。被标记为“__weak”的指针不被计入收集器的计数中，并在对象被回收时改写为“nil”。[iOS上的Objective](https://zh.wikipedia.org/wiki/iOS "wikilink")-C 2.0实现中不包含垃圾收集器。垃圾收集器运行在一个低优先级的后台线程中，并可以在用户动作时暂停，从而保持良好的用户体验。\[6\]
+Objective-C 2.0提供了一个可选的[垃圾收集器](../Page/垃圾回收_\(計算機科學\).md "wikilink")。在[向后兼容模式中](https://zh.wikipedia.org/wiki/向后兼容 "wikilink")，Objective-C运行时会将[引用计数](../Page/引用计数.md "wikilink")操作，例如“retain”与“release”变为[无操作](../Page/NOP.md "wikilink")。当垃圾收集启用时，所有的对象都是收集器的工作对象。普通的C指针可以以“__strong”修饰，标记指针指向的对象仍在使用中。被标记为“__weak”的指针不被计入收集器的计数中，并在对象被回收时改写为“nil”。[iOS上的Objective](https://zh.wikipedia.org/wiki/iOS "wikilink")-C 2.0实现中不包含垃圾收集器。垃圾收集器运行在一个低优先级的后台线程中，并可以在用户动作时暂停，从而保持良好的用户体验。\[6\]
 
 #### 属性
 
-Objective-C 2.0引入了新的语法以声明变量为[属性](https://zh.wikipedia.org/wiki/属性_\(程序设计\) "wikilink")，并包含一可选定义以配置存取方法的生成。属性总是为公共的，其目的为提供外部类存取（也可能为只读）类的内部变量的方法。属性可以被声明为“readonly”，即只读的，也可以提供储存方法包括“assign”，“copy”或“retain”（简单的赋值、复制或增加1引用计数）。默认的属性是原子的，即在访问时会加锁以避免多线程同时访问同一对象，也可以将属性声明为“nonatomic”（非原子的），避免产生锁。
+Objective-C 2.0引入了新的语法以声明变量为，并包含一可选定义以配置存取方法的生成。属性总是为公共的，其目的为提供外部类存取（也可能为只读）类的内部变量的方法。属性可以被声明为“readonly”，即只读的，也可以提供储存方法包括“assign”，“copy”或“retain”（简单的赋值、复制或增加1引用计数）。默认的属性是原子的，即在访问时会加锁以避免多线程同时访问同一对象，也可以将属性声明为“nonatomic”（非原子的），避免产生锁。
 
 ``` objc
 @interface Person : NSObject {
@@ -724,9 +724,9 @@ for (Person *p in thePeople) {
 
 ## 語言分析
 
-Objective-C是非常「實際」的語言。它用一個很小的、用C寫成的[运行库](https://zh.wikipedia.org/wiki/运行库 "wikilink")，使得應用程式的大小增加很少，与此相比，大部分OO系统需要极大的运行时虚拟机来执行。ObjC寫成的程式通常不會比其原始碼和函式庫（通常无需包含在軟體發行版本中）大太多，不会像Smalltalk系統，即使只是打开一个窗口也需要大量的容量。由于Obj-C的动态类型特征，Obj-C不能对方法进行内联（inline）一类的优化，使得Obj-C的应用程序一般比类似的C或C++程序更大。
+Objective-C是非常「實際」的語言。它用一個很小的、用C寫成的[运行库](https://zh.wikipedia.org/wiki/运行时系统 "wikilink")，使得應用程式的大小增加很少，与此相比，大部分OO系统需要极大的运行时虚拟机来执行。ObjC寫成的程式通常不會比其原始碼和函式庫（通常无需包含在軟體發行版本中）大太多，不会像Smalltalk系統，即使只是打开一个窗口也需要大量的容量。由于Obj-C的动态类型特征，Obj-C不能对方法进行内联（inline）一类的优化，使得Obj-C的应用程序一般比类似的C或C++程序更大。
 
-Obj-C可以在现存[C编译器基础上实现](https://zh.wikipedia.org/wiki/C编译器 "wikilink")（在GCC中，Obj-C最初作为[预处理器](../Page/预处理器.md "wikilink")引入，后来作为模块存在），而不需要编写一个全新的编译器。这个特性使得Obj-C能利用大量现存的C代码、库、工具和编程思想等资源。现存C库可以用Obj-C包装器来提供一个Obj-C使用的OO风格界面包装。
+Obj-C可以在现存基础上实现（在GCC中，Obj-C最初作为[预处理器](../Page/预处理器.md "wikilink")引入，后来作为模块存在），而不需要编写一个全新的编译器。这个特性使得Obj-C能利用大量现存的C代码、库、工具和编程思想等资源。现存C库可以用Obj-C包装器来提供一个Obj-C使用的OO风格界面包装。
 
 以上这些特性极大地降低了进入Obj-C的门槛，这是1980年代Smalltalk在推广中遇到的最大问题。
 
@@ -740,7 +740,7 @@ Objective-C的最初版本並不支持[垃圾回收](../Page/垃圾回收_\(計�
 
 和C++不同，Objective-C不支援[運算子多載](https://zh.wikipedia.org/wiki/運算子多載 "wikilink")（它不支持[ad-hoc多型](https://zh.wikipedia.org/wiki/ad-hoc多型 "wikilink")）。亦與C++不同，但和Java相同，Objective-C只容許物件繼承一個類別（不設[多重繼承](https://zh.wikipedia.org/wiki/多重繼承 "wikilink")）。Categories和protocols不但可以提供很多多重繼承的好處，而且沒有很多缺點，例如額外執行時間過重和二进制不兼容。
 
-由于Obj-C使用动态运行时类型，而且所有的方法都是函数调用（有时甚至连[-{zh:系统调用;zh-hans:系统调用;zh-hant:系統呼叫;zh-cn:系统调用;zh-tw:系統呼叫;}-](https://zh.wikipedia.org/wiki/系统调用 "wikilink")（syscalls）也如此），很多常见的编译时性能优化方法都不能应用于Obj-C（例如：[内联函数](../Page/内联函数.md "wikilink")、[常数传播](https://zh.wikipedia.org/wiki/常数传播 "wikilink")、[交互式优化](https://zh.wikipedia.org/wiki/交互式优化 "wikilink")、[纯量取代与聚集等](https://zh.wikipedia.org/wiki/纯量取代与聚集 "wikilink")）。这使得Obj-C性能劣于类似的对象抽象语言（如C++）。不过Obj-C擁護者认为Obj-C本就不应应用于C++或Java常见的底层抽象，Obj-C的应用方向是对性能要求不大的应用
+由于Obj-C使用动态运行时类型，而且所有的方法都是函数调用（有时甚至连[-{zh:系统调用;zh-hans:系统调用;zh-hant:系統呼叫;zh-cn:系统调用;zh-tw:系統呼叫;}-](https://zh.wikipedia.org/wiki/系统调用 "wikilink")（syscalls）也如此），很多常见的编译时性能优化方法都不能应用于Obj-C（例如：[内联函数](../Page/内联函数.md "wikilink")、[常数传播](../Page/常數折疊.md "wikilink")、、[纯量取代与聚集等](https://zh.wikipedia.org/wiki/纯量取代与聚集 "wikilink")）。这使得Obj-C性能劣于类似的对象抽象语言（如C++）。不过Obj-C擁護者认为Obj-C本就不应应用于C++或Java常见的底层抽象，Obj-C的应用方向是对性能要求不大的应用
 
 ## 参考文献
 
